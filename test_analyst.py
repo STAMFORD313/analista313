@@ -21,7 +21,10 @@ assert R["A"] > 1600 > 1400 > R["B"] and win_prob(R, "A", "B", 0) > 0.8
 assert [s["market"] for s in signals(0.7, 2.0, 1.9)] == ["home"]
 print("ok multisport")
 
-import bankroll
+import bankroll, tempfile
+from pathlib import Path
+TMP = Path(tempfile.mkdtemp())
+bankroll.STATS_MD, bankroll.LOG = TMP / "ESTADISTICAS.md", TMP / "senales.csv"  # los tests no tocan los archivos reales
 st = {"signals": [{"key": "k1", "market": "H", "odds": 2.2, "p": 0.55, "edge": 0.21, "match": "A vs B", "start": "2099-01-01T00:00Z"},
                   {"key": "k2", "market": "home", "odds": 1.9, "p": 0.6, "edge": 0.14, "match": "C vs D", "pick": "C", "start": "2099-01-01T00:00Z"}]}
 bk = st.setdefault("bank", {"balance": 100.0, "bets": []})
@@ -46,6 +49,43 @@ print("ok bajas y casas")
 txt = bankroll.scoreboard({"bank": bk, "signals": st["signals"]})
 assert "Ganadas: <b>1</b> (33 %)" in txt and "🟥🟩🟥" in txt, txt
 print("ok marcador")
+
+# nula: tarjeta y marcador no la cuentan como perdida; combinada con una pierna perdida se liquida sin esperar al resto
+old = "2026-10-01T00:00Z"
+sig = [{"key": "n1", "market": "home", "odds": 2.0, "p": 0.6, "edge": 0.2, "match": "G vs H", "pick": "G", "start": "2099-01-01T00:00Z", "result": "nula"},
+       {"key": "c1", "market": "H", "odds": 2.0, "p": 0.6, "edge": 0.2, "match": "I vs J", "start": "2099-01-01T00:00Z", "result": False},
+       {"key": "c2", "market": "H", "odds": 2.0, "p": 0.6, "edge": 0.2, "match": "K vs L", "start": "2099-01-01T00:00Z"},
+       {"key": "v1", "market": "t1", "odds": 2.0, "p": 0.6, "edge": 0.2, "match": "M vs N", "pick": "M", "start": old},
+       {"key": "a1", "market": "AHH", "odds": 2.0, "p": 0.6, "edge": 0.2, "match": "O vs P", "start": "2099-01-01T00:00Z", "result": False, "factor": 0.0}]
+bk2 = {"balance": 50.0, "bets": [{"date": "2026-11-01", "legs": [["n1", "home"]], "stake": 5.0, "odds": 2.0, "desc": "n", "status": "abierta"},
+                                 {"date": "2026-11-01", "legs": [["c1", "H"], ["c2", "H"]], "stake": 2.0, "odds": 4.0, "desc": "c", "status": "abierta"},
+                                 {"date": "2026-11-01", "legs": [["v1", "t1"]], "stake": 3.0, "odds": 2.0, "desc": "v", "status": "abierta"},
+                                 {"date": "2026-11-01", "legs": [["a1", "AHH"], ["c2", "H"]], "stake": 1.0, "odds": 4.0, "desc": "a", "status": "abierta"}]}
+cards = []
+bankroll.A.send_card = cards.append
+bankroll.settle(bk2, sig, KG())
+assert [b["status"] for b in bk2["bets"]] == ["nula", "perdida", "nula", "perdida"], bk2["bets"]
+assert bk2["balance"] == 58.0 and "NULA" in cards[0] and "PERDIDA" not in cards[0]
+txt = bankroll.scoreboard({"bank": bk2, "signals": sig})
+assert "Perdidas: <b>2</b>" in txt and "Nulas: 2" in txt, txt
+assert "| ⬜ +0.00 $ |" in bankroll.STATS_MD.read_text(encoding="utf-8")
+print("ok nulas y combinadas")
+
+# registro de calibración: una vez por señal, Brier y acierto por tramo
+cal = {"bank": {"bets": [{"legs": [["k1", "H"]]}]}, "signals": [
+    {"key": "k1", "market": "H", "odds": 2.0, "p": 0.6, "implied": 0.5, "edge": 0.2, "start": "2026-11-01", "sport": "⚽", "result": True, "clv": 0.05},
+    {"key": "k2", "market": "A", "odds": 3.0, "p": 0.3, "implied": 0.3, "edge": -0.1, "start": "2026-11-01", "sport": "⚽", "result": False}]}
+bankroll.log_signals(cal); bankroll.log_signals(cal)
+d = pd.read_csv(bankroll.LOG)
+assert len(d) == 2 and d.gano.tolist() == [1, 0]
+md = "\n".join(bankroll.calibration_md())
+assert "| 55%-70% | 1 | 60% | 100% | 0.160 | 0.250 | +100.0 % |" in md and "⚽ +5.0 % (1)" in md, md
+print("ok calibración")
+
+import menu
+assert menu.target_message({"message": {"message_id": 7}}, {"scoreboard_id": 9}) == 7
+assert menu.target_message({"message": {"message_id": 9}}, {"scoreboard_id": 9}) is None and menu.target_message(None, {}) is None
+print("ok menú")
 
 import radar
 s0 = {"key": "k9", "market": "U25", "odds": 2.0, "p": 0.5, "edge": 0.06, "match": "E vs F", "sport": "⚽"}

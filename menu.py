@@ -20,8 +20,14 @@ def load_state():
 def keyboard(): return json.dumps({"inline_keyboard": radar.sport_buttons() + [[{"text": "🔄 Actualizar", "callback_data": "dep:refresh"}]]})
 
 
+def target_message(cq, state):
+    """Mensaje a editar: el de la vista pulsada (también el de un relevo anterior), nunca el marcador fijado."""
+    mid = ((cq or {}).get("message") or {}).get("message_id")
+    return mid if mid and mid != state.get("scoreboard_id") else None
+
+
 def main():
-    state, loaded, view, last, offset = load_state(), time.time(), None, "futbol", None
+    state, loaded, view, last, offset, shown = load_state(), time.time(), None, "futbol", None, None
     end = time.time() + RUN_SECONDS
     while time.time() < end:
         if time.time() - loaded > REFRESH: state, loaded = load_state(), time.time()
@@ -44,11 +50,15 @@ def main():
                 slug = last
             if not slug: continue
             last, text = slug, radar.sport_view(state, slug)
-            in_view = cq and cq["message"]["message_id"] == view
-            if not (in_view and A.tg("editMessageText", message_id=view, text=text, parse_mode="HTML", reply_markup=keyboard())):
-                if view: A.tg("deleteMessage", message_id=view)  # un solo mensaje de vista: no llenar el chat
-                sent = A.tg("sendMessage", text=text, parse_mode="HTML", reply_markup=keyboard())
-                view = sent and sent["message_id"]
+            target = target_message(cq, state)
+            if target == view and text == shown: continue  # igual que lo que ya se ve: Telegram daría "not modified"
+            if target and A.tg("editMessageText", message_id=target, text=text, parse_mode="HTML", reply_markup=keyboard()):
+                if view and view != target: A.tg("deleteMessage", message_id=view)
+                view, shown = target, text
+                continue
+            if view: A.tg("deleteMessage", message_id=view)  # un solo mensaje de vista: no llenar el chat
+            sent = A.tg("sendMessage", text=text, parse_mode="HTML", reply_markup=keyboard())
+            view, shown = sent and sent["message_id"], text
 
 
 if __name__ == "__main__":
