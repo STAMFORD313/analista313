@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 01/11/2026 23:30 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 01/11/2026 23:32 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## HEROIC vs B8 — 02/11 · 03:00
 
@@ -85,6 +85,25 @@ Casas: 9z 34% · BetBoom 66%
 - ✅ Probabilidad 72% (mín. 55%)
 - ❌ Ventaja -2% (entre 5% y 30%)
 - ✅ Segmento «🎮 favorito» sin pérdidas
+- ❌ IA: sin revisar (no pasó lo anterior)
+
+📊 **Escenarios** (Elo por mapa. 76.340 partidos)  
+Mapa: FURIA 68% · Serie BO3: FURIA 76% - 24% FaZe  
+Casas: FURIA 68% · FaZe 32%  
+🔎 **Claves**  
+• Elo: FURIA 2186 (324 series) | FaZe 1980 (329 series)  
+• Forma: FURIA ✅✅✅✅✅ | FaZe ❌✅✅❌✅  
+• H2H: 10: 4-6  
+• Torneo: Intel Extreme Masters Beijing 2026 (nivel S)  
+• Cambios de plantilla: ninguno  
+
+## FURIA vs FaZe — 02/11 · 08:00
+
+👀 candidata · 🎮 CS2 · Intel Extreme Masters Beijing 2026 · **FURIA -1.5 mapas** @ **2.30** (Thunderpick) · prob 46% vs casas 40% · ventaja +7%
+
+- ❌ Probabilidad 46% (mín. 55%)
+- ✅ Ventaja +7% (entre 5% y 30%)
+- ✅ Segmento «🎮 hándicap» sin pérdidas
 - ❌ IA: sin revisar (no pasó lo anterior)
 
 📊 **Escenarios** (Elo por mapa. 76.340 partidos)  
@@ -289,18 +308,18 @@ Casas: struggletony 18% · STATE 82%
 
 ## GODS PLAN vs ALKA — 02/11 · 22:00
 
-👀 candidata · 🎮 CS2 · Gamers Club Liga Série A: October 2026 · **Gana GODS PLAN** @ **4.93** (Thunderpick) · prob 31% vs casas 19% · ventaja +53%
+👀 candidata · 🎮 CS2 · Gamers Club Liga Série A: October 2026 · **Gana GODS PLAN** @ **4.93** (Thunderpick) · prob 28% vs casas 19% · ventaja +41%
 
-- ❌ Probabilidad 31% (mín. 55%)
-- ❌ Ventaja +53% (entre 5% y 30%)
+- ❌ Probabilidad 28% (mín. 55%)
+- ❌ Ventaja +41% (entre 5% y 30%)
 - ✅ Segmento «🎮 no favorito» sin pérdidas
 - ❌ IA: sin revisar (no pasó lo anterior)
 
 📊 **Escenarios** (Elo por mapa. 76.340 partidos)  
-Mapa: GODS PLAN 45% · Serie BO3: GODS PLAN 43% - 57% ALKA  
+Mapa: GODS PLAN 42% · Serie BO3: GODS PLAN 38% - 62% ALKA  
 Casas: GODS PLAN 19% · ALKA 81%  
 🔎 **Claves**  
-• Elo: GODS PLAN 1415 (1 series) | ALKA 1463 (99 series)  
+• Elo: GODS PLAN 1378 (1 series) | ALKA 1463 (99 series)  
 • Forma: GODS PLAN ❌ | ALKA ❌❌❌❌❌  
 • H2H: sin precedentes  
 • Torneo: Gamers Club Liga Série A: October 2026 (nivel C)  

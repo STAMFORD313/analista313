@@ -1799,6 +1799,36 @@
    "considered": true,
    "placed": false,
    "result": "nula"
+  },
+  {
+   "market": "AHH",
+   "line": -1.5,
+   "pick": "FURIA -1.5 mapas",
+   "odds": 2.3,
+   "book": "Thunderpick",
+   "p": 0.465,
+   "implied": 0.403,
+   "edge": 0.07,
+   "key": "cs2|132576",
+   "match": "FURIA vs FaZe",
+   "start": "2026-11-02T07:00:00+00:00",
+   "league": "🎮 CS2 · Intel Extreme Masters Beijing 2026",
+   "sport": "🎮",
+   "info": [
+    "📊 <b>Escenarios</b> (Elo por mapa. 76.340 partidos)",
+    "Mapa: FURIA 68% · Serie BO3: FURIA 76% - 24% FaZe",
+    "Casas: FURIA 68% · FaZe 32%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Elo: FURIA 2186 (324 series) | FaZe 1980 (329 series)",
+    "• Forma: FURIA ✅✅✅✅✅ | FaZe ❌✅✅❌✅",
+    "• H2H: 10: 4-6",
+    "• Torneo: Intel Extreme Masters Beijing 2026 (nivel S)",
+    "• Cambios de plantilla: ninguno"
+   ],
+   "context": "CS2 FURIA vs FaZe, BO3, torneo Intel Extreme Masters Beijing 2026 nivel s. Elo por mapa 2186 vs 1980 (prob. mapa 68%, serie 76%). Forma ✅✅✅✅✅ / ❌✅✅❌✅ (✅ victoria ❌ derrota). H2H 10: 4-6. Cambios de plantilla: ninguno. Cuotas Thunderpick 1.35/2.9.",
+   "considered": true,
+   "placed": false
   }
  ],
  "bank": {
