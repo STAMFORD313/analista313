@@ -1768,6 +1768,36 @@
    "considered": true,
    "placed": false,
    "result": "nula"
+  },
+  {
+   "market": "t2",
+   "team_id": 1539,
+   "pick": "B8",
+   "odds": 2.4,
+   "book": "Thunderpick",
+   "p": 0.392,
+   "implied": 0.385,
+   "edge": -0.059,
+   "key": "cs2|132573",
+   "match": "HEROIC vs B8",
+   "start": "2026-11-02T02:00:00+00:00",
+   "league": "🎮 CS2 · Intel Extreme Masters Beijing 2026",
+   "sport": "🎮",
+   "info": [
+    "📊 <b>Escenarios</b> (Elo por mapa. 76.340 partidos)",
+    "Mapa: HEROIC 57% · Serie BO3: HEROIC 60% - 40% B8",
+    "Casas: HEROIC 62% · B8 38%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Elo: HEROIC 1989 (343 series) | B8 1917 (443 series)",
+    "• Forma: HEROIC ✅✅❌✅❌ | B8 ❌✅✅❌❌",
+    "• H2H: 7: 4-3",
+    "• Torneo: Intel Extreme Masters Beijing 2026 (nivel S)",
+    "• Cambios de plantilla: ninguno"
+   ],
+   "context": "CS2 HEROIC vs B8, BO3, torneo Intel Extreme Masters Beijing 2026 nivel s. Elo por mapa 1989 vs 1917 (prob. mapa 57%, serie 60%). Forma ✅✅❌✅❌ / ❌✅✅❌❌ (✅ victoria ❌ derrota). H2H 7: 4-3. Cambios de plantilla: ninguno. Cuotas Thunderpick 1.5/2.4.",
+   "considered": true,
+   "placed": false
   }
  ],
  "bank": {
