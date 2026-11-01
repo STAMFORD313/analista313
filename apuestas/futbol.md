@@ -1,6 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 02/11/2026 00:12 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 02/11/2026 00:13 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Portland Timbers vs Houston Dynamo — 02/11 · 03:45
 
