@@ -1,41 +1,6 @@
 # 🏀 NBA · apuestas de valor
 
-Actualizado 01/11/2026 22:57 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Indiana Pacers vs Brooklyn Nets — 01/11 · 23:00
-
-👀 candidata · 🏀 NBA · **Menos de 230.5 puntos** @ **1.93** (DraftKings) · prob 51% vs casas 50% · ventaja -1%
-
-- ❌ Probabilidad 51% (mín. 55%)
-- ❌ Ventaja -1% (entre 5% y 30%)
-- ✅ Segmento «🏀 totales» sin pérdidas
-- ❌ IA: sin revisar (no pasó lo anterior)
-
-📊 **Escenarios**: total esperado **228.7** puntos · línea 230.5  
-Más 49% · Menos 51%  
-🔎 **Claves**  
-• Forma: Indiana Pacers ❌✅❌❌❌ | Brooklyn Nets ❌❌❌❌❌  
-• H2H: 34 desde 2016: 21-13  
-• Bajas: Indiana Pacers: 6 fuera, 0 duda (Obi Toppin, T.J. McConnell, Ivica Zubac); Brooklyn Nets: 3 fuera, 0 duda (Mikel Brown Jr., Egor Demin, Tyler Bilodeau)  
-
-## Indiana Pacers vs Brooklyn Nets — 01/11 · 23:00
-
-👀 candidata · 🏀 NBA · **Gana Indiana Pacers** @ **1.62** (DraftKings) · prob 62% vs casas 59% · ventaja +0%
-
-- ✅ Probabilidad 62% (mín. 55%)
-- ❌ Ventaja +0% (entre 5% y 30%)
-- ✅ Segmento «🏀 favorito» sin pérdidas
-- ❌ IA: sin revisar (no pasó lo anterior)
-
-📊 **Escenarios** (Elo con 13.690 partidos y bajas)  
-Gana Indiana Pacers 65% · Gana Brooklyn Nets 35%  
-Casas: Indiana Pacers 59% · Brooklyn Nets 41%  
-Hándicap IND -3.5 · Total puntos 230.5  
-🔎 **Claves**  
-• Forma: Indiana Pacers ❌✅❌❌❌ | Brooklyn Nets ❌❌❌❌❌  
-• H2H: 34 desde 2016: 21-13  
-• Bajas: Indiana Pacers: 6 fuera, 0 duda (Obi Toppin, T.J. McConnell, Ivica Zubac); Brooklyn Nets: 3 fuera, 0 duda (Mikel Brown Jr., Egor Demin, Tyler Bilodeau)  
-• Favorito de las casas: Indiana Pacers @ 1.62  
+Actualizado 01/11/2026 23:07 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Golden State Warriors vs LA Clippers — 02/11 · 02:30
 
