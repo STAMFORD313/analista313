@@ -141,6 +141,7 @@ fp = json.loads((analyst.DATA / "football_params.json").read_text())
 assert (analyst.HALF_LIFE, analyst.SHRINK, analyst.RHO, analyst.BLEND, analyst.EDGE) == (fp["half_life"], fp["k"], fp["rho"], fp["blend"], fp["edge"])
 ep = json.loads((analyst.DATA / "espn_params.json").read_text())
 assert all(multisport.SPORTS[l][3:] == (p["hfa"], p["K"]) for l, p in ep.items())
+assert set(multisport.TOT) <= {"nba", "mlb", "nhl", "nfl"} and 0 < multisport.totals_model.p_over("nba", 200, 199.5, multisport.TOT) < 1
 print("ok parámetros entrenados")
 
 import esports

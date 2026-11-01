@@ -6,7 +6,7 @@ import pandas as pd
 import requests
 
 import analyst as A
-import tennis_model, ufc_model
+import tennis_model, totals_model, ufc_model
 
 ESPN = "https://site.api.espn.com/apis/site/v2/sports"
 SPORTS = {  # liga: (ruta ESPN, nombre, deporte, ventaja local en puntos Elo, K; K=None → K dinámico de tenis)
@@ -22,6 +22,8 @@ YEARS = 10
 DIR = A.DATA / "espn"
 _P = json.loads((A.DATA / "espn_params.json").read_text()) if (A.DATA / "espn_params.json").exists() else {}  # lo ajusta train_espn.py
 for _l, _p in _P.items(): SPORTS[_l] = (*SPORTS[_l][:3], _p["hfa"], _p["K"])
+TOT = json.loads(totals_model.PARAMS.read_text()) if totals_model.PARAMS.exists() else {}  # lo ajusta totals_model.py
+TOT = {l: c for l, c in TOT.items() if l != "spread" and c["ou"] < c["ou_old"]}  # solo ligas donde mejora el más/menos
 COLS = ["id", "date", "event", "home", "away", "hs", "as", "res"]
 
 
@@ -133,13 +135,15 @@ def points_model(df, league, today):
     d = df.dropna(subset=["hs", "as"]).rename(columns={"home": "HomeTeam", "away": "AwayTeam", "hs": "FTHG", "as": "FTAG", "date": "Date"})
     d = d.assign(Div=league, Date=d.Date.dt.tz_localize(None), FTHG=d.FTHG.astype(float), FTAG=d.FTAG.astype(float))
     recent = d[d.Date >= today - pd.Timedelta(days=400)]
-    return A.strengths(d, league, today, 5.0, 365), float((recent.FTHG + recent.FTAG).std())
+    c = TOT.get(league, {})
+    return A.strengths(d, league, today, c.get("k", 5.0), c.get("half_life", 365)), float((recent.FTHG + recent.FTAG).std())
 
 
-def total_signals(model, home, away, line, oo, ou):
+def total_signals(model, home, away, line, oo, ou, league=None):
     (mu_h, mu_a, s), sd = model
     exp = mu_h * s["att_h"].get(home, 1) * s["def_a"].get(away, 1) + mu_a * s["att_a"].get(away, 1) * s["def_h"].get(home, 1)
-    p_over = 0.5 * (1 - math.erf((line - exp) / (sd * math.sqrt(2))))  # normal(total esperado, sd histórica)
+    p_over = (totals_model.p_over(league, exp, line, TOT) if league in TOT else
+              0.5 * (1 - math.erf((line - exp) / (sd * math.sqrt(2)))))  # normal(total esperado, sd histórica)
     inv, out = 1 / oo + 1 / ou, []
     for side, p, o in (("over", p_over, oo), ("under", 1 - p_over, ou)):
         q = 0.5 * p + 0.5 / o / inv
@@ -231,7 +235,7 @@ def run_league(league, state, today, kg):
         state["analyzed"].append(key(league, g))
         line, oo, ou = totals(g["odds"])
         if pts and line and oo and ou:
-            tc = total_signals(pts, home, away, line, oo, ou)
+            tc = total_signals(pts, home, away, line, oo, ou, league)
             for v in [v for v in tc if A.EDGE <= v["edge"] <= A.MAX_EDGE] or sorted(tc, key=lambda v: -v["edge"])[:1]:
                 word = {"nba": "puntos", "nfl": "puntos", "nhl": "goles", "mlb": "carreras"}.get(league, "puntos")
                 state["signals"].append({**v, "key": key(league, g), "match": f"{home} vs {away}", "start": g["date"],
