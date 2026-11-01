@@ -2086,8 +2086,8 @@
     "status": "perdida",
     "return": 0.0,
     "autopsia": {
-     "causa": "El modelo sobreestimó la probabilidad de Orlando (40%) frente a un equipo de élite como Boston, generando una falsa percepción de valor al subestimar la brecha de eficiencia ofensiva entre ambos.",
-     "corregir": "Recalibrar las ponderaciones de rating neto contra contendientes al título y revisar el impacto del factor cancha para evitar inflar las probabilidades de los underdogs."
+     "causa": "sin análisis (IA no disponible)",
+     "corregir": ""
     }
    },
    {
@@ -2282,6 +2282,6 @@
    }
   ]
  },
- "scoreboard_id": 36,
+ "scoreboard_id": 53,
  "scoreboard_text": "📊 <b>MARCADOR DEL BOT</b>\n━━━━━━━━━━━━━━━\n🟩 Ganadas: <b>0</b> (0 %)\n🟥 Perdidas: <b>1</b> (100 %)\n⏳ En juego: 14\n\nÚltimas 1:\n🟥\n━━━━━━━━━━━━━━━\n💵 Beneficio -3.61 $ · ROI -100.0 %\n💰 Banca: <b>96.39 $</b> (-3.61 $ desde 100 $) · libre 70.00 ${\"inline_keyboard\": [[{\"text\": \"\\ud83d\\udcc8 Ver historial completo y fallos\", \"url\": \"https://github.com/STAMFORD313/analista313/blob/main/ESTADISTICAS.md\"}], [{\"text\": \"\\u26bd F\\u00fatbol\", \"callback_data\": \"dep:futbol\"}, {\"text\": \"\\ud83c\\udfc0 NBA\", \"callback_data\": \"dep:nba\"}, {\"text\": \"\\ud83c\\udfc8 NFL\", \"callback_data\": \"dep:nfl\"}], [{\"text\": \"\\ud83c\\udfd2 NHL\", \"callback_data\": \"dep:nhl\"}, {\"text\": \"\\u26be MLB\", \"callback_data\": \"dep:mlb\"}, {\"text\": \"\\ud83e\\udd4a UFC\", \"callback_data\": \"dep:ufc\"}], [{\"text\": \"\\ud83c\\udfbe Tenis\", \"callback_data\": \"dep:tenis\"}, {\"text\": \"\\ud83c\\udfae CS2\", \"callback_data\": \"dep:cs2\"}, {\"text\": \"\\ud83d\\udc09 Dota 2\", \"callback_data\": \"dep:dota2\"}], [{\"text\": \"\\ud83e\\uddd9 LoL\", \"callback_data\": \"dep:lol\"}, {\"text\": \"\\ud83d\\udd2b R6 Siege\", \"callback_data\": \"dep:r6\"}, {\"text\": \"\\ud83d\\udcf1 MLBB\", \"callback_data\": \"dep:mlbb\"}]]}"
 }
