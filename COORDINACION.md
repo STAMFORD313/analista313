@@ -16,3 +16,4 @@
 - [agente-cs2] 1 mejora medida (Elo CS2: K equipos nuevos + inactividad, log-loss 0.6298→0.6226).
 - [agente-datos] 1 mejora medida (features Elo+tiros+descanso sobre Poisson).
 - [agente-auditor] 8 mejoras medidas (6 bugs reales con test + calibración/Brier con test + Kelly 1/10 con backtest de banca).
+- [agente-datos] probado sin mejora (no se propone): tiros a puerta totales para Más/Menos 2.5 (log-loss Poisson recalibrado 0.6831→0.6817, pero mezclado con el mercado 0.6770→0.6768, ruido); rejilla Elo K 15-30 y suavizado de tiros 0.08-0.25: plano, se queda K=20/0.15. Repos GitHub revisados (ProphitBet, penaltyblog, soccerdata): usan forma, Elo/pi-ratings, tiros y Dixon-Coles; nada gratuito nuevo accesible sin anti-bot.
