@@ -1,0 +1,49 @@
+id,date,event,home,away,hs,as,res
+466330,2016-11-03T16:00Z,Olympiacos at FC Astana,FC Astana,Olympiacos,1,1,0.5
+466320,2016-11-03T18:00Z,Mainz at Anderlecht,Anderlecht,Mainz,6,1,1.0
+466329,2016-11-03T18:00Z,Young Boys at Apoel Nicosia,Apoel Nicosia,Young Boys,1,0,1.0
+466324,2016-11-03T18:00Z,Racing Genk at Athletic Club,Athletic Club,Racing Genk,5,3,1.0
+466327,2016-11-03T18:00Z,AS Roma at Austria Vienna,Austria Vienna,AS Roma,2,4,0.0
+466323,2016-11-03T18:00Z,Feyenoord Rotterdam at FC Zorya Luhansk,FC Zorya Luhansk,Feyenoord Rotterdam,1,1,0.5
+466325,2016-11-03T18:00Z,Manchester United at Fenerbahce,Fenerbahce,Manchester United,2,1,1.0
+466328,2016-11-03T18:00Z,Viktoria Plzen at FK Astra Giurgiu,FK Astra Giurgiu,Viktoria Plzen,1,1,0.5
+466331,2016-11-03T18:00Z,Saint-Étienne at FK Qabala,FK Qabala,Saint-Étienne,1,2,0.0
+466321,2016-11-03T18:00Z,AZ Alkmaar at Maccabi Tel-Aviv,Maccabi Tel-Aviv,AZ Alkmaar,0,0,0.5
+466326,2016-11-03T18:00Z,Rapid Vienna at Sassuolo,Sassuolo,Rapid Vienna,2,2,0.5
+466322,2016-11-03T18:00Z,Dundalk at Zenit St Petersburg,Zenit St Petersburg,Dundalk,2,1,1.0
+466308,2016-11-03T20:05Z,Celta Vigo at Ajax Amsterdam,Ajax Amsterdam,Celta Vigo,3,2,1.0
+466314,2016-11-03T20:05Z,Konyaspor at Braga,Braga,Konyaspor,3,1,1.0
+466319,2016-11-03T20:05Z,FCSB at FC Zürich,FC Zürich,FCSB,0,0,0.5
+466317,2016-11-03T20:05Z,Liberec at Fiorentina,Fiorentina,Liberec,3,0,1.0
+466316,2016-11-03T20:05Z,Shakhtar Donetsk at KAA Gent,KAA Gent,Shakhtar Donetsk,3,5,0.0
+466310,2016-11-03T20:05Z,RB Salzburg at Nice,Nice,RB Salzburg,0,2,0.0
+466318,2016-11-03T20:05Z,Standard Liege at Panathinaikos,Panathinaikos,Standard Liege,0,3,0.0
+466311,2016-11-03T20:05Z,FK Qarabag at PAOK,PAOK,FK Qarabag,0,1,0.0
+466309,2016-11-03T20:05Z,Krasnodar at Schalke 04,Schalke 04,Krasnodar,2,0,1.0
+466313,2016-11-03T20:05Z,Internazionale at Southampton,Southampton,Internazionale,2,1,1.0
+466312,2016-11-03T20:05Z,Hapoel Be'er at Sparta Prague,Sparta Prague,Hapoel Be'er,2,0,1.0
+466315,2016-11-03T20:05Z,Osmanlispor at Villarreal,Villarreal,Osmanlispor,1,2,0.0
+466306,2016-11-24T16:00Z,Apoel Nicosia at FC Astana,FC Astana,Apoel Nicosia,2,1,1.0
+466286,2016-11-24T16:00Z,FC Zorya Luhansk at Fenerbahce,Fenerbahce,FC Zorya Luhansk,2,0,1.0
+466305,2016-11-24T16:00Z,Anderlecht at FK Qabala,FK Qabala,Anderlecht,1,3,0.0
+466307,2016-11-24T16:00Z,Maccabi Tel-Aviv at Zenit St Petersburg,Zenit St Petersburg,Maccabi Tel-Aviv,2,0,1.0
+466301,2016-11-24T18:00Z,Panathinaikos at Ajax Amsterdam,Ajax Amsterdam,Panathinaikos,2,0,1.0
+466303,2016-11-24T18:00Z,Standard Liege at Celta Vigo,Celta Vigo,Standard Liege,1,1,0.5
+466304,2016-11-24T18:00Z,Villarreal at FC Zürich,FC Zürich,Villarreal,1,1,0.5
+466299,2016-11-24T18:00Z,Osmanlispor at FCSB,FCSB,Osmanlispor,2,1,1.0
+466300,2016-11-24T18:00Z,PAOK at Fiorentina,Fiorentina,PAOK,2,3,0.0
+466296,2016-11-24T18:00Z,Internazionale at Hapoel Be'er,Hapoel Be'er,Internazionale,3,2,1.0
+466293,2016-11-24T18:00Z,Braga at KAA Gent,KAA Gent,Braga,2,2,0.5
+466294,2016-11-24T18:00Z,RB Salzburg at Krasnodar,Krasnodar,RB Salzburg,1,1,0.5
+466295,2016-11-24T18:00Z,FK Qarabag at Liberec,Liberec,FK Qarabag,3,0,1.0
+466298,2016-11-24T18:00Z,Nice at Schalke 04,Schalke 04,Nice,2,0,1.0
+466297,2016-11-24T18:00Z,Konyaspor at Shakhtar Donetsk,Shakhtar Donetsk,Konyaspor,4,0,1.0
+466302,2016-11-24T18:00Z,Southampton at Sparta Prague,Sparta Prague,Southampton,1,0,1.0
+466291,2016-11-24T20:05Z,Viktoria Plzen at AS Roma,AS Roma,Viktoria Plzen,4,1,1.0
+466290,2016-11-24T20:05Z,Sassuolo at Athletic Club,Athletic Club,Sassuolo,3,2,1.0
+466287,2016-11-24T20:05Z,FK Astra Giurgiu at Austria Vienna,Austria Vienna,FK Astra Giurgiu,1,2,0.0
+466285,2016-11-24T20:05Z,AZ Alkmaar at Dundalk,Dundalk,AZ Alkmaar,0,1,0.0
+466288,2016-11-24T20:05Z,Feyenoord Rotterdam at Manchester United,Manchester United,Feyenoord Rotterdam,4,0,1.0
+466292,2016-11-24T20:05Z,Young Boys at Olympiacos,Olympiacos,Young Boys,1,1,0.5
+466289,2016-11-24T20:05Z,Rapid Vienna at Racing Genk,Racing Genk,Rapid Vienna,1,0,1.0
+466284,2016-11-24T20:05Z,Mainz at Saint-Étienne,Saint-Étienne,Mainz,0,0,0.5

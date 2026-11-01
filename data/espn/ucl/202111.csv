@@ -1,0 +1,33 @@
+id,date,event,home,away,hs,as,res
+618742,2021-11-02T17:45Z,Chelsea at Malmö FF,Malmö FF,Chelsea,0,1,0.0
+618743,2021-11-02T17:45Z,RB Salzburg at VfL Wolfsburg,VfL Wolfsburg,RB Salzburg,2,1,1.0
+618739,2021-11-02T20:00Z,Manchester United at Atalanta,Atalanta,Manchester United,2,2,0.5
+618737,2021-11-02T20:00Z,Benfica at Bayern Munich,Bayern Munich,Benfica,5,2,1.0
+618736,2021-11-02T20:00Z,Barcelona at Dynamo Kyiv,Dynamo Kyiv,Barcelona,0,1,0.0
+618741,2021-11-02T20:00Z,Zenit St Petersburg at Juventus,Juventus,Zenit St Petersburg,4,2,1.0
+618738,2021-11-02T20:00Z,Lille at Sevilla,Sevilla,Lille,1,2,0.0
+618740,2021-11-02T20:00Z,Young Boys at Villarreal,Villarreal,Young Boys,2,0,1.0
+618734,2021-11-03T17:45Z,FC Porto at AC Milan,AC Milan,FC Porto,1,1,0.5
+618735,2021-11-03T17:45Z,Shakhtar Donetsk at Real Madrid,Real Madrid,Shakhtar Donetsk,2,1,1.0
+618728,2021-11-03T20:00Z,Ajax Amsterdam at Borussia Dortmund,Borussia Dortmund,Ajax Amsterdam,1,3,0.0
+618729,2021-11-03T20:00Z,Atlético Madrid at Liverpool,Liverpool,Atlético Madrid,2,0,1.0
+618731,2021-11-03T20:00Z,Club Brugge at Manchester City,Manchester City,Club Brugge,4,1,1.0
+618733,2021-11-03T20:00Z,Paris Saint-Germain at RB Leipzig,RB Leipzig,Paris Saint-Germain,2,2,0.5
+618732,2021-11-03T20:00Z,Internazionale at Sheriff Tiraspol,Sheriff Tiraspol,Internazionale,1,3,0.0
+618730,2021-11-03T20:00Z,Besiktas at Sporting CP,Sporting CP,Besiktas,4,0,1.0
+618726,2021-11-23T17:45Z,Bayern Munich at Dynamo Kyiv,Dynamo Kyiv,Bayern Munich,1,2,0.0
+618727,2021-11-23T17:45Z,Manchester United at Villarreal,Villarreal,Manchester United,0,2,0.0
+618721,2021-11-23T20:00Z,Benfica at Barcelona,Barcelona,Benfica,0,0,0.5
+618722,2021-11-23T20:00Z,Juventus at Chelsea,Chelsea,Juventus,4,0,1.0
+618723,2021-11-23T20:00Z,RB Salzburg at Lille,Lille,RB Salzburg,1,0,1.0
+618725,2021-11-23T20:00Z,Zenit St Petersburg at Malmö FF,Malmö FF,Zenit St Petersburg,1,1,0.5
+618724,2021-11-23T20:00Z,VfL Wolfsburg at Sevilla,Sevilla,VfL Wolfsburg,2,0,1.0
+618720,2021-11-23T20:00Z,Atalanta at Young Boys,Young Boys,Atalanta,3,3,0.5
+618718,2021-11-24T17:45Z,Ajax Amsterdam at Besiktas,Besiktas,Ajax Amsterdam,1,2,0.0
+618719,2021-11-24T17:45Z,Shakhtar Donetsk at Internazionale,Internazionale,Shakhtar Donetsk,2,0,1.0
+618714,2021-11-24T20:00Z,AC Milan at Atlético Madrid,Atlético Madrid,AC Milan,0,1,0.0
+618716,2021-11-24T20:00Z,RB Leipzig at Club Brugge,Club Brugge,RB Leipzig,0,5,0.0
+618713,2021-11-24T20:00Z,FC Porto at Liverpool,Liverpool,FC Porto,2,0,1.0
+618715,2021-11-24T20:00Z,Paris Saint-Germain at Manchester City,Manchester City,Paris Saint-Germain,2,1,1.0
+618717,2021-11-24T20:00Z,Real Madrid at Sheriff Tiraspol,Sheriff Tiraspol,Real Madrid,0,3,0.0
+618712,2021-11-24T20:00Z,Borussia Dortmund at Sporting CP,Sporting CP,Borussia Dortmund,3,1,1.0

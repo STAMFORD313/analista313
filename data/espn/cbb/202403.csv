@@ -1,0 +1,801 @@
+id,date,event,home,away,hs,as,res
+401596929,2024-03-02T02:00Z,Dayton Flyers at Loyola Chicago Ramblers,Loyola Chicago Ramblers,Dayton Flyers,77,72,1.0
+401594458,2024-03-02T04:00Z,Air Force Falcons at Utah State Aggies,Utah State Aggies,Air Force Falcons,72,60,1.0
+401588707,2024-03-01T23:00Z,Bowling Green Falcons at Ohio Bobcats,Ohio Bobcats,Bowling Green Falcons,66,59,1.0
+401581610,2024-03-01T23:30Z,Arkansas State Red Wolves at App State Mountaineers,App State Mountaineers,Arkansas State Red Wolves,80,57,1.0
+401594399,2024-03-02T00:00Z,Manhattan Jaspers at Siena Saints,Siena Saints,Manhattan Jaspers,68,70,0.0
+401594370,2024-03-02T00:00Z,Rider Broncs at Niagara Purple Eagles,Niagara Purple Eagles,Rider Broncs,61,71,0.0
+401594321,2024-03-02T00:00Z,Quinnipiac Bobcats at Iona Gaels,Iona Gaels,Quinnipiac Bobcats,64,82,0.0
+401594305,2024-03-02T00:00Z,Fairfield Stags at Marist Red Foxes,Marist Red Foxes,Fairfield Stags,58,55,1.0
+401594271,2024-03-02T00:00Z,Mount St. Mary's Mountaineers at Canisius Golden Griffins,Canisius Golden Griffins,Mount St. Mary's Mountaineers,61,56,1.0
+401593889,2024-03-02T00:00Z,Florida Gulf Coast Eagles at Jacksonville Dolphins,Jacksonville Dolphins,Florida Gulf Coast Eagles,57,59,0.0
+401587198,2024-03-02T00:00Z,Dartmouth Big Green at Yale Bulldogs,Yale Bulldogs,Dartmouth Big Green,80,56,1.0
+401581666,2024-03-02T00:00Z,Marshall Thundering Herd at Georgia State Panthers,Georgia State Panthers,Marshall Thundering Herd,82,79,1.0
+401581655,2024-03-02T00:00Z,Old Dominion Monarchs at Georgia Southern Eagles,Georgia Southern Eagles,Old Dominion Monarchs,92,75,1.0
+401577678,2024-03-02T00:00Z,Harvard Crimson at Brown Bears,Brown Bears,Harvard Crimson,71,68,1.0
+401574533,2024-03-02T00:00Z,Stetson Hatters at North Florida Ospreys,North Florida Ospreys,Stetson Hatters,78,59,1.0
+401574522,2024-03-02T00:00Z,Kennesaw State Owls at Queens University Royals,Queens University Royals,Kennesaw State Owls,91,82,1.0
+401581642,2024-03-02T00:30Z,James Madison Dukes at Coastal Carolina Chanticleers,Coastal Carolina Chanticleers,James Madison Dukes,76,86,0.0
+401574436,2024-03-02T00:30Z,North Alabama Lions at Central Arkansas Bears,Central Arkansas Bears,North Alabama Lions,78,82,0.0
+401589370,2024-03-02T01:00Z,Cornell Big Red at Pennsylvania Quakers,Pennsylvania Quakers,Cornell Big Red,81,87,0.0
+401587181,2024-03-02T01:00Z,Columbia Lions at Princeton Tigers,Princeton Tigers,Columbia Lions,84,70,1.0
+401581697,2024-03-02T01:00Z,UL Monroe Warhawks at South Alabama Jaguars,South Alabama Jaguars,UL Monroe Warhawks,80,69,1.0
+401574509,2024-03-02T01:00Z,Eastern Kentucky Colonels at Lipscomb Bisons,Lipscomb Bisons,Eastern Kentucky Colonels,81,67,1.0
+401574206,2024-03-02T01:00Z,Bellarmine Knights at Austin Peay Governors,Austin Peay Governors,Bellarmine Knights,90,87,1.0
+401581718,2024-03-02T01:40Z,Troy Trojans at Texas State Bobcats,Texas State Bobcats,Troy Trojans,82,79,1.0
+401581687,2024-03-02T01:50Z,Southern Miss Golden Eagles at Louisiana Ragin' Cajuns,Louisiana Ragin' Cajuns,Southern Miss Golden Eagles,77,61,1.0
+401600814,2024-03-02T03:30Z,Fresno State Bulldogs at Nevada Wolf Pack,Nevada Wolf Pack,Fresno State Bulldogs,74,66,1.0
+401603506,2024-03-03T01:00Z,Houston Cougars at Oklahoma Sooners,Oklahoma Sooners,Houston Cougars,85,87,0.0
+401600418,2024-03-03T01:00Z,Michigan State Spartans at Purdue Boilermakers,Purdue Boilermakers,Michigan State Spartans,80,74,1.0
+401597215,2024-03-03T01:00Z,Tennessee Volunteers at Alabama Crimson Tide,Alabama Crimson Tide,Tennessee Volunteers,74,81,0.0
+401599553,2024-03-02T19:30Z,Marquette Golden Eagles at Creighton Bluejays,Creighton Bluejays,Marquette Golden Eagles,89,75,1.0
+401607438,2024-03-02T19:00Z,Oregon Ducks at Arizona Wildcats,Arizona Wildcats,Oregon Ducks,103,83,1.0
+401603503,2024-03-02T18:00Z,Kansas Jayhawks at Baylor Bears,Baylor Bears,Kansas Jayhawks,82,74,1.0
+401603508,2024-03-02T21:00Z,Iowa State Cyclones at UCF Knights,UCF Knights,Iowa State Cyclones,52,60,0.0
+401604219,2024-03-02T21:00Z,NC State Wolfpack at North Carolina Tar Heels,North Carolina Tar Heels,NC State Wolfpack,79,70,1.0
+401604218,2024-03-02T23:00Z,Virginia Cavaliers at Duke Blue Devils,Duke Blue Devils,Virginia Cavaliers,73,48,1.0
+401597216,2024-03-02T21:00Z,Mississippi State Bulldogs at Auburn Tigers,Auburn Tigers,Mississippi State Bulldogs,78,63,1.0
+401600416,2024-03-02T18:00Z,Illinois Fighting Illini at Wisconsin Badgers,Wisconsin Badgers,Illinois Fighting Illini,83,91,0.0
+401597214,2024-03-02T18:30Z,Arkansas Razorbacks at Kentucky Wildcats,Kentucky Wildcats,Arkansas Razorbacks,111,102,1.0
+401589731,2024-03-03T03:00Z,Gonzaga Bulldogs at Saint Mary's Gaels,Saint Mary's Gaels,Gonzaga Bulldogs,57,70,0.0
+401597219,2024-03-02T17:00Z,Florida Gators at South Carolina Gamecocks,South Carolina Gamecocks,Florida Gators,82,76,1.0
+401607449,2024-03-03T00:00Z,UCLA Bruins at Washington State Cougars,Washington State Cougars,UCLA Bruins,77,65,1.0
+401602162,2024-03-02T21:00Z,South Florida Bulls at Charlotte 49ers,Charlotte 49ers,South Florida Bulls,61,76,0.0
+401604221,2024-03-02T17:00Z,Florida State Seminoles at Georgia Tech Yellow Jackets,Georgia Tech Yellow Jackets,Florida State Seminoles,85,76,1.0
+401602163,2024-03-02T17:00Z,Tulane Green Wave at Florida Atlantic Owls,Florida Atlantic Owls,Tulane Green Wave,79,73,1.0
+401599556,2024-03-02T17:00Z,Villanova Wildcats at Providence Friars,Providence Friars,Villanova Wildcats,60,71,0.0
+401599554,2024-03-02T17:00Z,Butler Bulldogs at DePaul Blue Demons,DePaul Blue Demons,Butler Bulldogs,63,82,0.0
+401598643,2024-03-02T17:00Z,Colgate Raiders at Lehigh Mountain Hawks,Lehigh Mountain Hawks,Colgate Raiders,60,63,0.0
+401597977,2024-03-02T17:00Z,Holy Cross Crusaders at Boston University Terriers,Boston University Terriers,Holy Cross Crusaders,94,84,1.0
+401596930,2024-03-02T17:30Z,Fordham Rams at Saint Joseph's Hawks,Saint Joseph's Hawks,Fordham Rams,82,69,1.0
+401602165,2024-03-02T18:00Z,Tulsa Golden Hurricane at Temple Owls,Temple Owls,Tulsa Golden Hurricane,67,72,0.0
+401600760,2024-03-02T18:00Z,Monmouth Hawks at Elon Phoenix,Elon Phoenix,Monmouth Hawks,70,85,0.0
+401589462,2024-03-02T18:00Z,Stonehill Skyhawks at Central Connecticut Blue Devils,Central Connecticut Blue Devils,Stonehill Skyhawks,79,67,1.0
+401588704,2024-03-02T18:00Z,Miami (OH) RedHawks at Eastern Michigan Eagles,Eastern Michigan Eagles,Miami (OH) RedHawks,37,52,0.0
+401587977,2024-03-02T18:00Z,Wofford Terriers at VMI Keydets,VMI Keydets,Wofford Terriers,62,74,0.0
+401603507,2024-03-02T19:00Z,Oklahoma State Cowboys at Texas Longhorns,Texas Longhorns,Oklahoma State Cowboys,81,65,1.0
+401601284,2024-03-02T19:00Z,UNC Asheville Bulldogs at Radford Highlanders,Radford Highlanders,UNC Asheville Bulldogs,62,71,0.0
+401601282,2024-03-02T19:00Z,Gardner-Webb Runnin' Bulldogs at Winthrop Eagles,Winthrop Eagles,Gardner-Webb Runnin' Bulldogs,64,65,0.0
+401601281,2024-03-02T19:00Z,Charleston Southern Buccaneers at Presbyterian Blue Hose,Presbyterian Blue Hose,Charleston Southern Buccaneers,72,65,1.0
+401600763,2024-03-02T19:00Z,Towson Tigers at UNC Wilmington Seahawks,UNC Wilmington Seahawks,Towson Tigers,75,64,1.0
+401600759,2024-03-02T19:00Z,Hofstra Pride at Charleston Cougars,Charleston Cougars,Hofstra Pride,87,76,1.0
+401600758,2024-03-02T19:00Z,Hampton Pirates at William & Mary Tribe,William & Mary Tribe,Hampton Pirates,85,73,1.0
+401597397,2024-03-02T19:00Z,Navy Midshipmen at American University Eagles,American University Eagles,Navy Midshipmen,65,71,0.0
+401596935,2024-03-02T19:00Z,George Washington Revolutionaries at La Salle Explorers,La Salle Explorers,George Washington Revolutionaries,72,66,1.0
+401596932,2024-03-02T19:00Z,Duquesne Dukes at George Mason Patriots,George Mason Patriots,Duquesne Dukes,51,59,0.0
+401589492,2024-03-02T19:00Z,Merrimack Warriors at Sacred Heart Pioneers,Sacred Heart Pioneers,Merrimack Warriors,89,85,1.0
+401588708,2024-03-02T19:00Z,Western Michigan Broncos at Ball State Cardinals,Ball State Cardinals,Western Michigan Broncos,76,78,0.0
+401588706,2024-03-02T19:00Z,Toledo Rockets at Buffalo Bulls,Buffalo Bulls,Toledo Rockets,79,85,0.0
+401587976,2024-03-02T19:00Z,Mercer Bears at Furman Paladins,Furman Paladins,Mercer Bears,75,82,0.0
+401587975,2024-03-02T19:00Z,Western Carolina Catamounts at Chattanooga Mocs,Chattanooga Mocs,Western Carolina Catamounts,63,82,0.0
+401581245,2024-03-02T19:00Z,New Hampshire Wildcats at Binghamton Bearcats,Binghamton Bearcats,New Hampshire Wildcats,87,74,1.0
+401580103,2024-03-02T19:00Z,South Dakota Coyotes at North Dakota Fighting Hawks,North Dakota Fighting Hawks,South Dakota Coyotes,95,66,1.0
+401580102,2024-03-02T19:00Z,South Dakota State Jackrabbits at North Dakota State Bison,North Dakota State Bison,South Dakota State Jackrabbits,61,78,0.0
+401596931,2024-03-02T19:30Z,Massachusetts Minutemen at Davidson Wildcats,Davidson Wildcats,Massachusetts Minutemen,67,69,0.0
+401602164,2024-03-02T20:00Z,UTSA Roadrunners at SMU Mustangs,SMU Mustangs,UTSA Roadrunners,73,77,0.0
+401587974,2024-03-02T20:00Z,The Citadel Bulldogs at Samford Bulldogs,Samford Bulldogs,The Citadel Bulldogs,92,80,1.0
+401581247,2024-03-02T20:00Z,UMass Lowell River Hawks at Vermont Catamounts,Vermont Catamounts,UMass Lowell River Hawks,74,62,1.0
+401600419,2024-03-02T20:15Z,Penn State Nittany Lions at Minnesota Golden Gophers,Minnesota Golden Gophers,Penn State Nittany Lions,75,70,1.0
+401597220,2024-03-02T20:30Z,LSU Tigers at Vanderbilt Commodores,Vanderbilt Commodores,LSU Tigers,61,75,0.0
+401588705,2024-03-02T20:30Z,Central Michigan Chippewas at Kent State Golden Flashes,Kent State Golden Flashes,Central Michigan Chippewas,79,73,1.0
+401587343,2024-03-02T20:30Z,Lindenwood Lions at Morehead State Eagles,Morehead State Eagles,Lindenwood Lions,67,49,1.0
+401607454,2024-03-02T21:00Z,USC Trojans at Washington Huskies,Washington Huskies,USC Trojans,75,82,0.0
+401604804,2024-03-02T21:00Z,Howard Bison at Maryland Eastern Shore Hawks,Maryland Eastern Shore Hawks,Howard Bison,66,70,0.0
+401602995,2024-03-02T21:00Z,Wyoming Cowboys at Colorado State Rams,Colorado State Rams,Wyoming Cowboys,70,62,1.0
+401600762,2024-03-02T21:00Z,Northeastern Huskies at Drexel Dragons,Drexel Dragons,Northeastern Huskies,73,59,1.0
+401600761,2024-03-02T21:00Z,North Carolina A&T Aggies at Campbell Fighting Camels,Campbell Fighting Camels,North Carolina A&T Aggies,64,62,1.0
+401600757,2024-03-02T21:00Z,Delaware Blue Hens at Stony Brook Seawolves,Stony Brook Seawolves,Delaware Blue Hens,79,56,1.0
+401596934,2024-03-02T21:00Z,Saint Louis Billikens at Rhode Island Rams,Rhode Island Rams,Saint Louis Billikens,91,94,0.0
+401594415,2024-03-02T21:00Z,Norfolk State Spartans at Delaware State Hornets,Delaware State Hornets,Norfolk State Spartans,85,71,1.0
+401589750,2024-03-02T21:00Z,North Carolina Central Eagles at Coppin State Eagles,Coppin State Eagles,North Carolina Central Eagles,58,83,0.0
+401589401,2024-03-02T21:00Z,Le Moyne Dolphins at Saint Francis Red Wolves,Saint Francis Red Wolves,Le Moyne Dolphins,58,74,0.0
+401587978,2024-03-02T21:00Z,UNC Greensboro Spartans at East Tennessee State Buccaneers,East Tennessee State Buccaneers,UNC Greensboro Spartans,66,65,1.0
+401587344,2024-03-02T21:00Z,Tennessee Tech Golden Eagles at Little Rock Trojans,Little Rock Trojans,Tennessee Tech Golden Eagles,81,43,1.0
+401581246,2024-03-02T21:00Z,NJIT Highlanders at Bryant Bulldogs,Bryant Bulldogs,NJIT Highlanders,101,82,1.0
+401581244,2024-03-02T21:00Z,Maine Black Bears at UAlbany Great Danes,UAlbany Great Danes,Maine Black Bears,71,74,0.0
+401579075,2024-03-02T21:00Z,Lamar Cardinals at Northwestern State Demons,Northwestern State Demons,Lamar Cardinals,77,82,0.0
+401574138,2024-03-02T21:00Z,UT Arlington Mavericks at Utah Valley Wolverines,Utah Valley Wolverines,UT Arlington Mavericks,65,78,0.0
+401573464,2024-03-02T21:00Z,Northern Arizona Lumberjacks at Weber State Wildcats,Weber State Wildcats,Northern Arizona Lumberjacks,85,58,1.0
+401574642,2024-03-02T21:10Z,Bethune-Cookman Wildcats at Southern Jaguars,Southern Jaguars,Bethune-Cookman Wildcats,61,67,0.0
+401606724,2024-03-02T21:30Z,South Carolina State Bulldogs at Morgan State Bears,Morgan State Bears,South Carolina State Bulldogs,61,72,0.0
+401601283,2024-03-02T21:30Z,High Point Panthers at Longwood Lancers,Longwood Lancers,High Point Panthers,74,72,1.0
+401589481,2024-03-02T21:30Z,Fairleigh Dickinson Knights at Wagner Seahawks,Wagner Seahawks,Fairleigh Dickinson Knights,54,57,0.0
+401587347,2024-03-02T21:30Z,Tennessee State Tigers at UT Martin Skyhawks,UT Martin Skyhawks,Tennessee State Tigers,96,87,1.0
+401587346,2024-03-02T21:30Z,SIU Edwardsville Cougars at Western Illinois Leathernecks,Western Illinois Leathernecks,SIU Edwardsville Cougars,76,65,1.0
+401579083,2024-03-02T21:30Z,SE Louisiana Lions at Texas A&M-Corpus Christi Islanders,Texas A&M-Corpus Christi Islanders,SE Louisiana Lions,80,68,1.0
+401578979,2024-03-02T21:30Z,East Texas A&M Lions at Houston Christian Huskies,Houston Christian Huskies,East Texas A&M Lions,85,98,0.0
+401600110,2024-03-02T22:00Z,Alabama State Hornets at Alabama A&M Bulldogs,Alabama A&M Bulldogs,Alabama State Hornets,58,53,1.0
+401598913,2024-03-02T22:00Z,Florida A&M Rattlers at Grambling Tigers,Grambling Tigers,Florida A&M Rattlers,75,68,1.0
+401594523,2024-03-02T22:00Z,Army Black Knights at Loyola Maryland Greyhounds,Loyola Maryland Greyhounds,Army Black Knights,69,68,1.0
+401579027,2024-03-02T22:00Z,Nicholls Colonels at McNeese Cowboys,McNeese Cowboys,Nicholls Colonels,83,62,1.0
+401573641,2024-03-02T22:00Z,New Mexico State Aggies at Jacksonville State Gamecocks,Jacksonville State Gamecocks,New Mexico State Aggies,64,66,0.0
+401573465,2024-03-02T22:00Z,Portland State Vikings at Sacramento State Hornets,Sacramento State Hornets,Portland State Vikings,73,61,1.0
+401573462,2024-03-02T22:00Z,Montana Grizzlies at Idaho Vandals,Idaho Vandals,Montana Grizzlies,57,80,0.0
+401573461,2024-03-02T22:00Z,Montana State Bobcats at Eastern Washington Eagles,Eastern Washington Eagles,Montana State Bobcats,108,104,1.0
+401604224,2024-03-02T22:30Z,Wake Forest Demon Deacons at Virginia Tech Hokies,Virginia Tech Hokies,Wake Forest Demon Deacons,87,76,1.0
+401600417,2024-03-02T22:30Z,Iowa Hawkeyes at Northwestern Wildcats,Northwestern Wildcats,Iowa Hawkeyes,80,87,0.0
+401610359,2024-03-02T23:00Z,IU Indianapolis Jaguars at Cleveland State Vikings,Cleveland State Vikings,IU Indianapolis Jaguars,75,66,1.0
+401604220,2024-03-02T23:00Z,Pittsburgh Panthers at Boston College Eagles,Boston College Eagles,Pittsburgh Panthers,65,90,0.0
+401603509,2024-03-02T23:00Z,Texas Tech Red Raiders at West Virginia Mountaineers,West Virginia Mountaineers,Texas Tech Red Raiders,70,81,0.0
+401597217,2024-03-02T23:00Z,Texas A&M Aggies at Georgia Bulldogs,Georgia Bulldogs,Texas A&M Aggies,56,70,0.0
+401596933,2024-03-02T23:00Z,VCU Rams at Richmond Spiders,Richmond Spiders,VCU Rams,79,76,1.0
+401588709,2024-03-02T23:00Z,Northern Illinois Huskies at Akron Zips,Akron Zips,Northern Illinois Huskies,80,73,1.0
+401587761,2024-03-02T23:00Z,Green Bay Phoenix at Milwaukee Panthers,Milwaukee Panthers,Green Bay Phoenix,90,69,1.0
+401587760,2024-03-02T23:00Z,Detroit Mercy Titans at Oakland Golden Grizzlies,Oakland Golden Grizzlies,Detroit Mercy Titans,75,70,1.0
+401583832,2024-03-02T23:00Z,Jackson State Tigers at Texas Southern Tigers,Texas Southern Tigers,Jackson State Tigers,80,70,1.0
+401579053,2024-03-02T23:00Z,LSU New Orleans Privateers at Incarnate Word Cardinals,Incarnate Word Cardinals,LSU New Orleans Privateers,80,87,0.0
+401577679,2024-03-02T23:00Z,Dartmouth Big Green at Brown Bears,Brown Bears,Dartmouth Big Green,89,67,1.0
+401573642,2024-03-02T23:00Z,Western Kentucky Hilltoppers at Florida International Panthers,Florida International Panthers,Western Kentucky Hilltoppers,85,83,1.0
+401598035,2024-03-02T23:30Z,Alcorn State Braves at Prairie View A&M Panthers,Prairie View A&M Panthers,Alcorn State Braves,65,73,0.0
+401604929,2024-03-02T23:45Z,Mississippi Valley State Delta Devils at Arkansas-Pine Bluff Golden Lions,Arkansas-Pine Bluff Golden Lions,Mississippi Valley State Delta Devils,78,69,1.0
+401603505,2024-03-03T00:00Z,Kansas State Wildcats at Cincinnati Bearcats,Cincinnati Bearcats,Kansas State Wildcats,74,72,1.0
+401602166,2024-03-03T00:00Z,Rice Owls at Wichita State Shockers,Wichita State Shockers,Rice Owls,87,66,1.0
+401594502,2024-03-03T00:00Z,Lafayette Leopards at Bucknell Bison,Bucknell Bison,Lafayette Leopards,60,50,1.0
+401589734,2024-03-03T00:00Z,San Francisco Dons at Santa Clara Broncos,Santa Clara Broncos,San Francisco Dons,69,62,1.0
+401589371,2024-03-03T00:00Z,Columbia Lions at Pennsylvania Quakers,Pennsylvania Quakers,Columbia Lions,84,72,1.0
+401587764,2024-03-03T00:00Z,Robert Morris Colonials at Purdue Fort Wayne Mastodons,Purdue Fort Wayne Mastodons,Robert Morris Colonials,83,65,1.0
+401587763,2024-03-03T00:00Z,Northern Kentucky Norse at Wright State Raiders,Wright State Raiders,Northern Kentucky Norse,94,88,1.0
+401587182,2024-03-03T00:00Z,Cornell Big Red at Princeton Tigers,Princeton Tigers,Cornell Big Red,79,77,1.0
+401581757,2024-03-03T00:00Z,Harvard Crimson at Yale Bulldogs,Yale Bulldogs,Harvard Crimson,80,60,1.0
+401573640,2024-03-03T00:00Z,UTEP Miners at Liberty Flames,Liberty Flames,UTEP Miners,51,67,0.0
+401599555,2024-03-03T00:30Z,Xavier Musketeers at Georgetown Hoyas,Georgetown Hoyas,Xavier Musketeers,93,98,0.0
+401604223,2024-03-03T00:45Z,Clemson Tigers at Notre Dame Fighting Irish,Notre Dame Fighting Irish,Clemson Tigers,69,62,1.0
+401604222,2024-03-03T01:00Z,Syracuse Orange at Louisville Cardinals,Louisville Cardinals,Syracuse Orange,76,82,0.0
+401602979,2024-03-03T01:00Z,New Mexico Lobos at Boise State Broncos,Boise State Broncos,New Mexico Lobos,89,79,1.0
+401589732,2024-03-03T01:00Z,Loyola Marymount Lions at Portland Pilots,Portland Pilots,Loyola Marymount Lions,70,60,1.0
+401580100,2024-03-03T01:00Z,Denver Pioneers at St. Thomas Tommies,St. Thomas Tommies,Denver Pioneers,83,58,1.0
+401574136,2024-03-03T01:00Z,UT Rio Grande Valley Vaqueros at California Baptist Lancers,California Baptist Lancers,UT Rio Grande Valley Vaqueros,88,52,1.0
+401573643,2024-03-03T01:00Z,Middle Tennessee Blue Raiders at Sam Houston Bearkats,Sam Houston Bearkats,Middle Tennessee Blue Raiders,81,64,1.0
+401573570,2024-03-03T01:00Z,UC San Diego Tritons at Cal State Northridge Matadors,Cal State Northridge Matadors,UC San Diego Tritons,69,79,0.0
+401573567,2024-03-03T01:00Z,Hawai'i Rainbow Warriors at UC Riverside Highlanders,UC Riverside Highlanders,Hawai'i Rainbow Warriors,73,76,0.0
+401573463,2024-03-03T01:00Z,Northern Colorado Bears at Idaho State Bengals,Idaho State Bengals,Northern Colorado Bears,79,81,0.0
+401597218,2024-03-03T01:30Z,Ole Miss Rebels at Missouri Tigers,Missouri Tigers,Ole Miss Rebels,78,84,0.0
+401574139,2024-03-03T01:30Z,Tarleton State Texans at Southern Utah Thunderbirds,Southern Utah Thunderbirds,Tarleton State Texans,83,88,0.0
+401607439,2024-03-03T02:00Z,California Golden Bears at Utah Utes,Utah Utes,California Golden Bears,88,59,1.0
+401603504,2024-03-03T02:00Z,TCU Horned Frogs at BYU Cougars,BYU Cougars,TCU Horned Frogs,87,75,1.0
+401587345,2024-03-03T02:00Z,Southeast Missouri State Redhawks at Southern Indiana Screaming Eagles,Southern Indiana Screaming Eagles,Southeast Missouri State Redhawks,66,70,0.0
+401574140,2024-03-03T02:00Z,Abilene Christian Wildcats at Utah Tech Trailblazers,Utah Tech Trailblazers,Abilene Christian Wildcats,79,86,0.0
+401573568,2024-03-03T02:00Z,UC Santa Barbara Gauchos at Cal State Fullerton Titans,Cal State Fullerton Titans,UC Santa Barbara Gauchos,79,70,1.0
+401597315,2024-03-03T03:00Z,San José State Spartans at UNLV Rebels,UNLV Rebels,San José State Spartans,68,50,1.0
+401589733,2024-03-03T03:00Z,Pacific Tigers at San Diego Toreros,San Diego Toreros,Pacific Tigers,81,69,1.0
+401574137,2024-03-03T03:00Z,Stephen F. Austin Lumberjacks at Grand Canyon Lopes,Grand Canyon Lopes,Stephen F. Austin Lumberjacks,80,58,1.0
+401573569,2024-03-03T03:00Z,Cal State Bakersfield Roadrunners at Cal Poly Mustangs,Cal Poly Mustangs,Cal State Bakersfield Roadrunners,56,68,0.0
+401573566,2024-03-03T03:00Z,Long Beach State Beach at UC Irvine Anteaters,UC Irvine Anteaters,Long Beach State Beach,82,61,1.0
+401599557,2024-03-03T17:00Z,Seton Hall Pirates at UConn Huskies,UConn Huskies,Seton Hall Pirates,91,61,1.0
+401594272,2024-03-03T18:00Z,Rider Broncs at Canisius Golden Griffins,Canisius Golden Griffins,Rider Broncs,61,65,0.0
+401601928,2024-03-03T19:00Z,Illinois State Redbirds at Valparaiso Beacons,Valparaiso Beacons,Illinois State Redbirds,75,72,1.0
+401601927,2024-03-03T19:00Z,Northern Iowa Panthers at Southern Illinois Salukis,Southern Illinois Salukis,Northern Iowa Panthers,70,82,0.0
+401601926,2024-03-03T19:00Z,UIC Flames at Missouri State Bears,Missouri State Bears,UIC Flames,69,59,1.0
+401600420,2024-03-03T19:00Z,Indiana Hoosiers at Maryland Terrapins,Maryland Terrapins,Indiana Hoosiers,78,83,0.0
+401594392,2024-03-03T19:00Z,Manhattan Jaspers at Saint Peter's Peacocks,Saint Peter's Peacocks,Manhattan Jaspers,89,57,1.0
+401594378,2024-03-03T19:00Z,Siena Saints at Quinnipiac Bobcats,Quinnipiac Bobcats,Siena Saints,71,57,1.0
+401594360,2024-03-03T19:00Z,Mount St. Mary's Mountaineers at Niagara Purple Eagles,Niagara Purple Eagles,Mount St. Mary's Mountaineers,72,91,0.0
+401594322,2024-03-03T19:00Z,Iona Gaels at Marist Red Foxes,Marist Red Foxes,Iona Gaels,64,71,0.0
+401602168,2024-03-03T20:00Z,East Carolina Pirates at North Texas Mean Green,North Texas Mean Green,East Carolina Pirates,84,69,1.0
+401580101,2024-03-03T20:00Z,Kansas City Roos at Oral Roberts Golden Eagles,Oral Roberts Golden Eagles,Kansas City Roos,54,71,0.0
+401601924,2024-03-03T20:30Z,Bradley Braves at Drake Bulldogs,Drake Bulldogs,Bradley Braves,74,66,1.0
+401601925,2024-03-03T21:00Z,Murray State Racers at Indiana State Sycamores,Indiana State Sycamores,Murray State Racers,89,77,1.0
+401600421,2024-03-03T21:00Z,Michigan Wolverines at Ohio State Buckeyes,Ohio State Buckeyes,Michigan Wolverines,84,61,1.0
+401601923,2024-03-03T22:00Z,Evansville Purple Aces at Belmont Bruins,Belmont Bruins,Evansville Purple Aces,83,66,1.0
+401602167,2024-03-03T22:30Z,UAB Blazers at Memphis Tigers,Memphis Tigers,UAB Blazers,106,87,1.0
+401600422,2024-03-03T23:30Z,Rutgers Scarlet Knights at Nebraska Cornhuskers,Nebraska Cornhuskers,Rutgers Scarlet Knights,67,56,1.0
+401607459,2024-03-04T02:00Z,Stanford Cardinal at Colorado Buffaloes,Colorado Buffaloes,Stanford Cardinal,81,71,1.0
+401604225,2024-03-05T00:00Z,Duke Blue Devils at NC State Wolfpack,NC State Wolfpack,Duke Blue Devils,64,79,0.0
+401603510,2024-03-05T02:00Z,Texas Longhorns at Baylor Bears,Baylor Bears,Texas Longhorns,93,85,1.0
+401625651,2024-03-05T00:00Z,Jacksonville Dolphins at Kennesaw State Owls,Kennesaw State Owls,Jacksonville Dolphins,86,92,0.0
+401625650,2024-03-05T00:00Z,Queens University Royals at Florida Gulf Coast Eagles,Florida Gulf Coast Eagles,Queens University Royals,63,69,0.0
+401606725,2024-03-05T00:30Z,North Carolina Central Eagles at Morgan State Bears,Morgan State Bears,North Carolina Central Eagles,88,79,1.0
+401604433,2024-03-05T00:30Z,Delaware State Hornets at Howard Bison,Howard Bison,Delaware State Hornets,85,66,1.0
+401594416,2024-03-05T00:30Z,Maryland Eastern Shore Hawks at Norfolk State Spartans,Norfolk State Spartans,Maryland Eastern Shore Hawks,69,50,1.0
+401579084,2024-03-05T00:30Z,SE Louisiana Lions at Incarnate Word Cardinals,Incarnate Word Cardinals,SE Louisiana Lions,56,73,0.0
+401579065,2024-03-05T00:30Z,Nicholls Colonels at Northwestern State Demons,Northwestern State Demons,Nicholls Colonels,62,68,0.0
+401589751,2024-03-05T00:50Z,South Carolina State Bulldogs at Coppin State Eagles,Coppin State Eagles,South Carolina State Bulldogs,58,61,0.0
+401579090,2024-03-05T01:00Z,Lamar Cardinals at East Texas A&M Lions,East Texas A&M Lions,Lamar Cardinals,53,70,0.0
+401579054,2024-03-05T01:00Z,LSU New Orleans Privateers at Texas A&M-Corpus Christi Islanders,Texas A&M-Corpus Christi Islanders,LSU New Orleans Privateers,73,60,1.0
+401578980,2024-03-05T01:00Z,Houston Christian Huskies at McNeese Cowboys,McNeese Cowboys,Houston Christian Huskies,87,69,1.0
+401573470,2024-03-05T01:00Z,Northern Colorado Bears at Northern Arizona Lumberjacks,Northern Arizona Lumberjacks,Northern Colorado Bears,74,82,0.0
+401602354,2024-03-05T01:30Z,Alcorn State Braves at Texas Southern Tigers,Texas Southern Tigers,Alcorn State Braves,79,82,0.0
+401583833,2024-03-05T01:30Z,Jackson State Tigers at Prairie View A&M Panthers,Prairie View A&M Panthers,Jackson State Tigers,74,79,0.0
+401574643,2024-03-05T01:30Z,Bethune-Cookman Wildcats at Grambling Tigers,Grambling Tigers,Bethune-Cookman Wildcats,69,60,1.0
+401598914,2024-03-05T02:00Z,Florida A&M Rattlers at Southern Jaguars,Southern Jaguars,Florida A&M Rattlers,58,44,1.0
+401573469,2024-03-05T02:00Z,Weber State Wildcats at Montana State Bobcats,Montana State Bobcats,Weber State Wildcats,76,64,1.0
+401573468,2024-03-05T02:00Z,Idaho State Bengals at Montana Grizzlies,Montana Grizzlies,Idaho State Bengals,79,65,1.0
+401573466,2024-03-05T02:00Z,Eastern Washington Eagles at Sacramento State Hornets,Sacramento State Hornets,Eastern Washington Eagles,88,91,0.0
+401573467,2024-03-05T03:00Z,Idaho Vandals at Portland State Vikings,Portland State Vikings,Idaho Vandals,72,57,1.0
+401600423,2024-03-06T00:00Z,Purdue Boilermakers at Illinois Fighting Illini,Illinois Fighting Illini,Purdue Boilermakers,71,77,0.0
+401604226,2024-03-06T00:00Z,Notre Dame Fighting Irish at North Carolina Tar Heels,North Carolina Tar Heels,Notre Dame Fighting Irish,84,51,1.0
+401597221,2024-03-06T02:00Z,Auburn Tigers at Missouri Tigers,Missouri Tigers,Auburn Tigers,74,101,0.0
+401603512,2024-03-06T02:00Z,Kansas State Wildcats at Kansas Jayhawks,Kansas Jayhawks,Kansas State Wildcats,90,68,1.0
+401597222,2024-03-06T00:00Z,Alabama Crimson Tide at Florida Gators,Florida Gators,Alabama Crimson Tide,105,87,1.0
+401597316,2024-03-06T04:00Z,San Diego State Aztecs at UNLV Rebels,UNLV Rebels,San Diego State Aztecs,62,58,1.0
+401602169,2024-03-06T00:00Z,Tulane Green Wave at South Florida Bulls,South Florida Bulls,Tulane Green Wave,85,72,1.0
+401596937,2024-03-06T02:00Z,Dayton Flyers at Saint Louis Billikens,Saint Louis Billikens,Dayton Flyers,83,100,0.0
+401625701,2024-03-05T23:00Z,Holy Cross Crusaders at Army Black Knights,Army Black Knights,Holy Cross Crusaders,68,84,0.0
+401625589,2024-03-05T23:00Z,Coastal Carolina Chanticleers at UL Monroe Warhawks,UL Monroe Warhawks,Coastal Carolina Chanticleers,71,75,0.0
+401581250,2024-03-05T23:00Z,UMass Lowell River Hawks at Maine Black Bears,Maine Black Bears,UMass Lowell River Hawks,71,65,1.0
+401625702,2024-03-06T00:00Z,Loyola Maryland Greyhounds at Navy Midshipmen,Navy Midshipmen,Loyola Maryland Greyhounds,64,48,1.0
+401625692,2024-03-06T00:00Z,IU Indianapolis Jaguars at Cleveland State Vikings,Cleveland State Vikings,IU Indianapolis Jaguars,85,66,1.0
+401625691,2024-03-06T00:00Z,Robert Morris Colonials at Purdue Fort Wayne Mastodons,Purdue Fort Wayne Mastodons,Robert Morris Colonials,78,63,1.0
+401625655,2024-03-06T00:00Z,Jacksonville Dolphins at Eastern Kentucky Colonels,Eastern Kentucky Colonels,Jacksonville Dolphins,65,67,0.0
+401625654,2024-03-06T00:00Z,Queens University Royals at Stetson Hatters,Stetson Hatters,Queens University Royals,83,71,1.0
+401604229,2024-03-06T00:00Z,Virginia Tech Hokies at Louisville Cardinals,Louisville Cardinals,Virginia Tech Hokies,64,80,0.0
+401604228,2024-03-06T00:00Z,Syracuse Orange at Clemson Tigers,Clemson Tigers,Syracuse Orange,90,75,1.0
+401599559,2024-03-06T00:00Z,Providence Friars at Georgetown Hoyas,Georgetown Hoyas,Providence Friars,58,71,0.0
+401597223,2024-03-06T00:00Z,Ole Miss Rebels at Georgia Bulldogs,Georgia Bulldogs,Ole Miss Rebels,69,66,1.0
+401596936,2024-03-06T00:00Z,Duquesne Dukes at VCU Rams,VCU Rams,Duquesne Dukes,59,69,0.0
+401588714,2024-03-06T00:00Z,Ohio Bobcats at Buffalo Bulls,Buffalo Bulls,Ohio Bobcats,66,78,0.0
+401588713,2024-03-06T00:00Z,Kent State Golden Flashes at Ball State Cardinals,Ball State Cardinals,Kent State Golden Flashes,76,69,1.0
+401588712,2024-03-06T00:00Z,Eastern Michigan Eagles at Akron Zips,Akron Zips,Eastern Michigan Eagles,60,61,0.0
+401588711,2024-03-06T00:00Z,Toledo Rockets at Miami (OH) RedHawks,Miami (OH) RedHawks,Toledo Rockets,63,97,0.0
+401588710,2024-03-06T00:00Z,Bowling Green Falcons at Western Michigan Broncos,Western Michigan Broncos,Bowling Green Falcons,65,73,0.0
+401581758,2024-03-06T00:00Z,Harvard Crimson at Dartmouth Big Green,Dartmouth Big Green,Harvard Crimson,76,69,1.0
+401581251,2024-03-06T00:00Z,Vermont Catamounts at New Hampshire Wildcats,New Hampshire Wildcats,Vermont Catamounts,64,68,0.0
+401581249,2024-03-06T00:00Z,Binghamton Bearcats at UMBC Retrievers,UMBC Retrievers,Binghamton Bearcats,71,72,0.0
+401581248,2024-03-06T00:00Z,UAlbany Great Danes at Bryant Bulldogs,Bryant Bulldogs,UAlbany Great Danes,83,79,1.0
+401573645,2024-03-06T00:00Z,Liberty Flames at Middle Tennessee Blue Raiders,Middle Tennessee Blue Raiders,Liberty Flames,69,61,1.0
+401625693,2024-03-06T01:00Z,Detroit Mercy Titans at Milwaukee Panthers,Milwaukee Panthers,Detroit Mercy Titans,83,79,1.0
+401625653,2024-03-06T01:00Z,North Florida Ospreys at Austin Peay Governors,Austin Peay Governors,North Florida Ospreys,101,98,1.0
+401625652,2024-03-06T01:00Z,North Alabama Lions at Lipscomb Bisons,Lipscomb Bisons,North Alabama Lions,75,77,0.0
+401603513,2024-03-06T01:00Z,Texas Tech Red Raiders at Oklahoma State Cowboys,Oklahoma State Cowboys,Texas Tech Red Raiders,58,75,0.0
+401603511,2024-03-06T01:00Z,Cincinnati Bearcats at Oklahoma Sooners,Oklahoma Sooners,Cincinnati Bearcats,74,71,1.0
+401588715,2024-03-06T01:00Z,Central Michigan Chippewas at Northern Illinois Huskies,Northern Illinois Huskies,Central Michigan Chippewas,63,69,0.0
+401625590,2024-03-06T01:30Z,Old Dominion Monarchs at Texas State Bobcats,Texas State Bobcats,Old Dominion Monarchs,92,83,1.0
+401594459,2024-03-06T01:30Z,Air Force Falcons at Wyoming Cowboys,Wyoming Cowboys,Air Force Falcons,74,63,1.0
+401604230,2024-03-06T02:00Z,Georgia Tech Yellow Jackets at Wake Forest Demon Deacons,Wake Forest Demon Deacons,Georgia Tech Yellow Jackets,69,70,0.0
+401604227,2024-03-06T02:00Z,Florida State Seminoles at Pittsburgh Panthers,Pittsburgh Panthers,Florida State Seminoles,88,73,1.0
+401599558,2024-03-06T02:00Z,St. John's Red Storm at DePaul Blue Demons,DePaul Blue Demons,St. John's Red Storm,77,104,0.0
+401602978,2024-03-06T04:00Z,Nevada Wolf Pack at Boise State Broncos,Boise State Broncos,Nevada Wolf Pack,66,76,0.0
+401603515,2024-03-07T00:00Z,Houston Cougars at UCF Knights,UCF Knights,Houston Cougars,59,67,0.0
+401599561,2024-03-07T01:30Z,UConn Huskies at Marquette Golden Eagles,Marquette Golden Eagles,UConn Huskies,67,74,0.0
+401597225,2024-03-07T00:00Z,Tennessee Volunteers at South Carolina Gamecocks,South Carolina Gamecocks,Tennessee Volunteers,59,66,0.0
+401603514,2024-03-07T02:00Z,BYU Cougars at Iowa State Cyclones,Iowa State Cyclones,BYU Cougars,68,63,1.0
+401597224,2024-03-07T02:00Z,Vanderbilt Commodores at Kentucky Wildcats,Kentucky Wildcats,Vanderbilt Commodores,93,77,1.0
+401600804,2024-03-07T02:30Z,Utah State Aggies at San José State Spartans,San José State Spartans,Utah State Aggies,70,90,0.0
+401599562,2024-03-06T23:30Z,Villanova Wildcats at Seton Hall Pirates,Seton Hall Pirates,Villanova Wildcats,66,56,1.0
+401625631,2024-03-07T00:00Z,Saint Francis Red Wolves at Central Connecticut Blue Devils,Central Connecticut Blue Devils,Saint Francis Red Wolves,71,62,1.0
+401625630,2024-03-07T00:00Z,Long Island University Sharks at Merrimack Warriors,Merrimack Warriors,Long Island University Sharks,72,66,1.0
+401625629,2024-03-07T00:00Z,Wagner Seahawks at Sacred Heart Pioneers,Sacred Heart Pioneers,Wagner Seahawks,57,60,0.0
+401625628,2024-03-07T00:00Z,Fairleigh Dickinson Knights at Le Moyne Dolphins,Le Moyne Dolphins,Fairleigh Dickinson Knights,82,61,1.0
+401604231,2024-03-07T00:00Z,Boston College Eagles at Miami Hurricanes,Miami Hurricanes,Boston College Eagles,57,67,0.0
+401603516,2024-03-07T00:00Z,TCU Horned Frogs at West Virginia Mountaineers,West Virginia Mountaineers,TCU Horned Frogs,81,93,0.0
+401602170,2024-03-07T00:00Z,Rice Owls at Charlotte 49ers,Charlotte 49ers,Rice Owls,69,64,1.0
+401600425,2024-03-07T00:00Z,Northwestern Wildcats at Michigan State Spartans,Michigan State Spartans,Northwestern Wildcats,53,49,1.0
+401597226,2024-03-07T00:00Z,LSU Tigers at Arkansas Razorbacks,Arkansas Razorbacks,LSU Tigers,94,83,1.0
+401596942,2024-03-07T00:00Z,Loyola Chicago Ramblers at Davidson Wildcats,Davidson Wildcats,Loyola Chicago Ramblers,59,69,0.0
+401596940,2024-03-07T00:00Z,George Mason Patriots at Rhode Island Rams,Rhode Island Rams,George Mason Patriots,51,69,0.0
+401596939,2024-03-07T00:00Z,St. Bonaventure Bonnies at George Washington Revolutionaries,George Washington Revolutionaries,St. Bonaventure Bonnies,86,75,1.0
+401596938,2024-03-07T00:00Z,Saint Joseph's Hawks at Richmond Spiders,Richmond Spiders,Saint Joseph's Hawks,73,66,1.0
+401625573,2024-03-07T00:30Z,Southern Indiana Screaming Eagles at Tennessee State Tigers,Tennessee State Tigers,Southern Indiana Screaming Eagles,78,64,1.0
+401599560,2024-03-07T00:30Z,Xavier Musketeers at Butler Bulldogs,Butler Bulldogs,Xavier Musketeers,72,66,1.0
+401596941,2024-03-07T00:30Z,Fordham Rams at Massachusetts Minutemen,Massachusetts Minutemen,Fordham Rams,66,64,1.0
+401602172,2024-03-07T01:00Z,East Carolina Pirates at SMU Mustangs,SMU Mustangs,East Carolina Pirates,80,77,1.0
+401602171,2024-03-07T01:00Z,Florida Atlantic Owls at North Texas Mean Green,North Texas Mean Green,Florida Atlantic Owls,76,80,0.0
+401578981,2024-03-07T01:00Z,Houston Christian Huskies at Lamar Cardinals,Lamar Cardinals,Houston Christian Huskies,78,68,1.0
+401579028,2024-03-07T01:25Z,McNeese Cowboys at LSU New Orleans Privateers,LSU New Orleans Privateers,McNeese Cowboys,57,81,0.0
+401625514,2024-03-07T01:30Z,Radford Highlanders at South Carolina Upstate Spartans,South Carolina Upstate Spartans,Radford Highlanders,60,67,0.0
+401579076,2024-03-07T01:30Z,Northwestern State Demons at East Texas A&M Lions,East Texas A&M Lions,Northwestern State Demons,83,80,1.0
+401600981,2024-03-07T01:40Z,Incarnate Word Cardinals at Texas A&M-Corpus Christi Islanders,Texas A&M-Corpus Christi Islanders,Incarnate Word Cardinals,71,52,1.0
+401600424,2024-03-07T02:00Z,Indiana Hoosiers at Minnesota Golden Gophers,Minnesota Golden Gophers,Indiana Hoosiers,58,70,0.0
+401597227,2024-03-07T02:00Z,Mississippi State Bulldogs at Texas A&M Aggies,Texas A&M Aggies,Mississippi State Bulldogs,75,69,1.0
+401625574,2024-03-07T03:00Z,Eastern Illinois Panthers at SIU Edwardsville Cougars,SIU Edwardsville Cougars,Eastern Illinois Panthers,68,57,1.0
+401600815,2024-03-07T03:30Z,Fresno State Bulldogs at New Mexico Lobos,New Mexico Lobos,Fresno State Bulldogs,79,58,1.0
+401573573,2024-03-07T04:59Z,Cal State Northridge Matadors at Hawai'i Rainbow Warriors,Hawai'i Rainbow Warriors,Cal State Northridge Matadors,72,70,1.0
+401607442,2024-03-08T02:30Z,Arizona Wildcats at UCLA Bruins,UCLA Bruins,Arizona Wildcats,65,88,0.0
+401607441,2024-03-08T02:00Z,Washington Huskies at Washington State Cougars,Washington State Cougars,Washington Huskies,68,74,0.0
+401625591,2024-03-07T17:30Z,Georgia Southern Eagles at South Alabama Jaguars,South Alabama Jaguars,Georgia Southern Eagles,71,76,0.0
+401625659,2024-03-07T18:00Z,Missouri State Bears at Murray State Racers,Murray State Racers,Missouri State Bears,35,60,0.0
+401625592,2024-03-07T20:00Z,Coastal Carolina Chanticleers at Louisiana Ragin' Cajuns,Louisiana Ragin' Cajuns,Coastal Carolina Chanticleers,80,66,1.0
+401625660,2024-03-07T20:30Z,Valparaiso Beacons at Belmont Bruins,Belmont Bruins,Valparaiso Beacons,86,61,1.0
+401625642,2024-03-07T22:30Z,Pacific Tigers at Pepperdine Waves,Pepperdine Waves,Pacific Tigers,102,43,1.0
+401625593,2024-03-07T23:00Z,Texas State Bobcats at Southern Miss Golden Eagles,Southern Miss Golden Eagles,Texas State Bobcats,59,75,0.0
+401625706,2024-03-08T00:00Z,Holy Cross Crusaders at Colgate Raiders,Colgate Raiders,Holy Cross Crusaders,81,64,1.0
+401625705,2024-03-08T00:00Z,Lehigh Mountain Hawks at Lafayette Leopards,Lafayette Leopards,Lehigh Mountain Hawks,61,76,0.0
+401625704,2024-03-08T00:00Z,Navy Midshipmen at Boston University Terriers,Boston University Terriers,Navy Midshipmen,70,61,1.0
+401625703,2024-03-08T00:00Z,Bucknell Bison at American University Eagles,American University Eagles,Bucknell Bison,57,80,0.0
+401625697,2024-03-08T00:00Z,Purdue Fort Wayne Mastodons at Oakland Golden Grizzlies,Oakland Golden Grizzlies,Purdue Fort Wayne Mastodons,75,65,1.0
+401625696,2024-03-08T00:00Z,Cleveland State Vikings at Youngstown State Penguins,Youngstown State Penguins,Cleveland State Vikings,70,82,0.0
+401625661,2024-03-08T00:00Z,Evansville Purple Aces at Illinois State Redbirds,Illinois State Redbirds,Evansville Purple Aces,53,59,0.0
+401625657,2024-03-08T00:00Z,Jacksonville Dolphins at Stetson Hatters,Stetson Hatters,Jacksonville Dolphins,88,87,1.0
+401602173,2024-03-08T00:00Z,UAB Blazers at Temple Owls,Temple Owls,UAB Blazers,72,100,0.0
+401600426,2024-03-08T00:00Z,Rutgers Scarlet Knights at Wisconsin Badgers,Wisconsin Badgers,Rutgers Scarlet Knights,78,66,1.0
+401594371,2024-03-08T00:00Z,Niagara Purple Eagles at Siena Saints,Siena Saints,Niagara Purple Eagles,59,66,0.0
+401594341,2024-03-08T00:00Z,Marist Red Foxes at Quinnipiac Bobcats,Quinnipiac Bobcats,Marist Red Foxes,73,64,1.0
+401594323,2024-03-08T00:00Z,Iona Gaels at Manhattan Jaspers,Manhattan Jaspers,Iona Gaels,77,60,1.0
+401594273,2024-03-08T00:00Z,Canisius Golden Griffins at Fairfield Stags,Fairfield Stags,Canisius Golden Griffins,74,62,1.0
+401625575,2024-03-08T00:30Z,Tennessee State Tigers at Western Illinois Leathernecks,Western Illinois Leathernecks,Tennessee State Tigers,61,59,1.0
+401606751,2024-03-08T00:30Z,South Carolina State Bulldogs at North Carolina Central Eagles,North Carolina Central Eagles,South Carolina State Bulldogs,79,68,1.0
+401606726,2024-03-08T00:30Z,Coppin State Eagles at Morgan State Bears,Morgan State Bears,Coppin State Eagles,78,60,1.0
+401574145,2024-03-08T00:30Z,Utah Tech Trailblazers at UT Rio Grande Valley Vaqueros,UT Rio Grande Valley Vaqueros,Utah Tech Trailblazers,74,79,0.0
+401574144,2024-03-08T00:30Z,Southern Utah Thunderbirds at Stephen F. Austin Lumberjacks,Stephen F. Austin Lumberjacks,Southern Utah Thunderbirds,87,60,1.0
+401625695,2024-03-08T01:00Z,Northern Kentucky Norse at Wright State Raiders,Wright State Raiders,Northern Kentucky Norse,97,99,0.0
+401625656,2024-03-08T01:00Z,North Alabama Lions at Austin Peay Governors,Austin Peay Governors,North Alabama Lions,77,71,1.0
+401604434,2024-03-08T01:00Z,Delaware State Hornets at Maryland Eastern Shore Hawks,Maryland Eastern Shore Hawks,Delaware State Hornets,67,59,1.0
+401594388,2024-03-08T01:00Z,Saint Peter's Peacocks at Rider Broncs,Rider Broncs,Saint Peter's Peacocks,61,56,1.0
+401574143,2024-03-08T01:00Z,Utah Valley Wolverines at Tarleton State Texans,Tarleton State Texans,Utah Valley Wolverines,60,63,0.0
+401574142,2024-03-08T01:00Z,California Baptist Lancers at UT Arlington Mavericks,UT Arlington Mavericks,California Baptist Lancers,71,57,1.0
+401574141,2024-03-08T01:00Z,Seattle U Redhawks at Abilene Christian Wildcats,Abilene Christian Wildcats,Seattle U Redhawks,64,59,1.0
+401625594,2024-03-08T01:30Z,Marshall Thundering Herd at Georgia State Panthers,Georgia State Panthers,Marshall Thundering Herd,74,86,0.0
+401602355,2024-03-08T01:30Z,Mississippi Valley State Delta Devils at Alcorn State Braves,Alcorn State Braves,Mississippi Valley State Delta Devils,74,67,1.0
+401600129,2024-03-08T01:30Z,Southern Jaguars at Alabama State Hornets,Alabama State Hornets,Southern Jaguars,57,65,0.0
+401600111,2024-03-08T01:30Z,Grambling Tigers at Alabama A&M Bulldogs,Alabama A&M Bulldogs,Grambling Tigers,73,74,0.0
+401583834,2024-03-08T01:30Z,Arkansas-Pine Bluff Golden Lions at Jackson State Tigers,Jackson State Tigers,Arkansas-Pine Bluff Golden Lions,89,84,1.0
+401579066,2024-03-08T01:30Z,Nicholls Colonels at SE Louisiana Lions,SE Louisiana Lions,Nicholls Colonels,54,80,0.0
+401625694,2024-03-08T02:00Z,Milwaukee Panthers at Green Bay Phoenix,Green Bay Phoenix,Milwaukee Panthers,84,95,0.0
+401607460,2024-03-08T02:00Z,Colorado Buffaloes at Oregon Ducks,Oregon Ducks,Colorado Buffaloes,75,79,0.0
+401594417,2024-03-08T02:00Z,Howard Bison at Norfolk State Spartans,Norfolk State Spartans,Howard Bison,77,58,1.0
+401573646,2024-03-08T02:00Z,Florida International Panthers at UTEP Miners,UTEP Miners,Florida International Panthers,83,76,1.0
+401573644,2024-03-08T02:00Z,Sam Houston Bearkats at Louisiana Tech Bulldogs,Louisiana Tech Bulldogs,Sam Houston Bearkats,66,72,0.0
+401625663,2024-03-08T02:30Z,UIC Flames at Southern Illinois Salukis,Southern Illinois Salukis,UIC Flames,82,84,0.0
+401625576,2024-03-08T03:00Z,SIU Edwardsville Cougars at Morehead State Eagles,Morehead State Eagles,SIU Edwardsville Cougars,78,63,1.0
+401573575,2024-03-08T03:00Z,UC Santa Barbara Gauchos at Long Beach State Beach,Long Beach State Beach,UC Santa Barbara Gauchos,74,76,0.0
+401573574,2024-03-08T03:00Z,UC Davis Aggies at UC San Diego Tritons,UC San Diego Tritons,UC Davis Aggies,63,70,0.0
+401573572,2024-03-08T03:00Z,Cal State Fullerton Titans at UC Riverside Highlanders,UC Riverside Highlanders,Cal State Fullerton Titans,84,74,1.0
+401573571,2024-03-08T03:00Z,Cal Poly Mustangs at UC Irvine Anteaters,UC Irvine Anteaters,Cal Poly Mustangs,82,68,1.0
+401607472,2024-03-08T04:00Z,California Golden Bears at Stanford Cardinal,Stanford Cardinal,California Golden Bears,80,58,1.0
+401607471,2024-03-08T04:00Z,Arizona State Sun Devils at USC Trojans,USC Trojans,Arizona State Sun Devils,81,73,1.0
+401607443,2024-03-08T04:00Z,Utah Utes at Oregon State Beavers,Oregon State Beavers,Utah Utes,92,85,1.0
+401597949,2024-03-09T03:00Z,Boise State Broncos at San Diego State Aztecs,San Diego State Aztecs,Boise State Broncos,77,79,0.0
+401596943,2024-03-09T00:00Z,VCU Rams at Dayton Flyers,Dayton Flyers,VCU Rams,91,86,1.0
+401625515,2024-03-08T17:00Z,Radford Highlanders at High Point Panthers,High Point Panthers,Radford Highlanders,77,63,1.0
+401625664,2024-03-08T18:00Z,Missouri State Bears at Indiana State Sycamores,Indiana State Sycamores,Missouri State Bears,75,59,1.0
+401630139,2024-03-08T19:00Z,William & Mary Tribe at North Carolina A&T Aggies,North Carolina A&T Aggies,William & Mary Tribe,62,79,0.0
+401625516,2024-03-08T19:30Z,Longwood Lancers at Winthrop Eagles,Winthrop Eagles,Longwood Lancers,56,69,0.0
+401625665,2024-03-08T20:30Z,Belmont Bruins at Northern Iowa Panthers,Northern Iowa Panthers,Belmont Bruins,67,62,1.0
+401630140,2024-03-08T21:30Z,Hampton Pirates at Elon Phoenix,Elon Phoenix,Hampton Pirates,55,56,0.0
+401625580,2024-03-08T22:00Z,The Citadel Bulldogs at Mercer Bears,Mercer Bears,The Citadel Bulldogs,84,76,1.0
+401625517,2024-03-08T23:00Z,Charleston Southern Buccaneers at UNC Asheville Bulldogs,UNC Asheville Bulldogs,Charleston Southern Buccaneers,60,55,1.0
+401588716,2024-03-08T23:00Z,Akron Zips at Western Michigan Broncos,Western Michigan Broncos,Akron Zips,90,84,1.0
+401625666,2024-03-09T00:00Z,Evansville Purple Aces at Drake Bulldogs,Drake Bulldogs,Evansville Purple Aces,79,58,1.0
+401588721,2024-03-09T00:00Z,Ohio Bobcats at Miami (OH) RedHawks,Miami (OH) RedHawks,Ohio Bobcats,59,72,0.0
+401588719,2024-03-09T00:00Z,Ball State Cardinals at Bowling Green Falcons,Bowling Green Falcons,Ball State Cardinals,80,70,1.0
+401588718,2024-03-09T00:00Z,Northern Illinois Huskies at Buffalo Bulls,Buffalo Bulls,Northern Illinois Huskies,68,78,0.0
+401588717,2024-03-09T00:00Z,Eastern Michigan Eagles at Central Michigan Chippewas,Central Michigan Chippewas,Eastern Michigan Eagles,65,62,1.0
+401625581,2024-03-09T00:30Z,VMI Keydets at East Tennessee State Buccaneers,East Tennessee State Buccaneers,VMI Keydets,98,66,1.0
+401625577,2024-03-09T01:00Z,Western Illinois Leathernecks at Little Rock Trojans,Little Rock Trojans,Western Illinois Leathernecks,82,57,1.0
+401625518,2024-03-09T01:00Z,Presbyterian Blue Hose at Gardner-Webb Runnin' Bulldogs,Gardner-Webb Runnin' Bulldogs,Presbyterian Blue Hose,61,60,1.0
+401625492,2024-03-09T01:00Z,South Dakota Coyotes at Oral Roberts Golden Eagles,Oral Roberts Golden Eagles,South Dakota Coyotes,77,62,1.0
+401588720,2024-03-09T01:00Z,Kent State Golden Flashes at Toledo Rockets,Toledo Rockets,Kent State Golden Flashes,86,71,1.0
+401625643,2024-03-09T02:00Z,Pepperdine Waves at San Diego Toreros,San Diego Toreros,Pepperdine Waves,57,52,1.0
+401602174,2024-03-09T02:00Z,Wichita State Shockers at Tulane Green Wave,Tulane Green Wave,Wichita State Shockers,85,75,1.0
+401625667,2024-03-09T02:30Z,UIC Flames at Bradley Braves,Bradley Braves,UIC Flames,74,47,1.0
+401625578,2024-03-09T03:30Z,Morehead State Eagles at UT Martin Skyhawks,UT Martin Skyhawks,Morehead State Eagles,78,84,0.0
+401625644,2024-03-09T04:30Z,Loyola Marymount Lions at Portland Pilots,Portland Pilots,Loyola Marymount Lions,78,70,1.0
+401603519,2024-03-09T21:00Z,Kansas Jayhawks at Houston Cougars,Houston Cougars,Kansas Jayhawks,76,46,1.0
+401599564,2024-03-10T01:00Z,UConn Huskies at Providence Friars,Providence Friars,UConn Huskies,60,74,0.0
+401597233,2024-03-09T21:00Z,Kentucky Wildcats at Tennessee Volunteers,Tennessee Volunteers,Kentucky Wildcats,81,85,0.0
+401607475,2024-03-10T03:00Z,Arizona Wildcats at USC Trojans,USC Trojans,Arizona Wildcats,78,65,1.0
+401603520,2024-03-09T19:00Z,Iowa State Cyclones at Kansas State Wildcats,Kansas State Wildcats,Iowa State Cyclones,65,58,1.0
+401604232,2024-03-09T23:30Z,North Carolina Tar Heels at Duke Blue Devils,Duke Blue Devils,North Carolina Tar Heels,79,84,0.0
+401599566,2024-03-09T22:00Z,Marquette Golden Eagles at Xavier Musketeers,Xavier Musketeers,Marquette Golden Eagles,80,86,0.0
+401599565,2024-03-09T19:30Z,Creighton Bluejays at Villanova Wildcats,Villanova Wildcats,Creighton Bluejays,67,69,0.0
+401603523,2024-03-09T23:00Z,Baylor Bears at Texas Tech Red Raiders,Texas Tech Red Raiders,Baylor Bears,78,68,1.0
+401597229,2024-03-09T23:30Z,Georgia Bulldogs at Auburn Tigers,Auburn Tigers,Georgia Bulldogs,92,78,1.0
+401597228,2024-03-09T17:00Z,Arkansas Razorbacks at Alabama Crimson Tide,Alabama Crimson Tide,Arkansas Razorbacks,92,88,1.0
+401597232,2024-03-09T19:30Z,South Carolina Gamecocks at Mississippi State Bulldogs,Mississippi State Bulldogs,South Carolina Gamecocks,89,93,0.0
+401603517,2024-03-10T02:00Z,Oklahoma State Cowboys at BYU Cougars,BYU Cougars,Oklahoma State Cowboys,85,71,1.0
+401600805,2024-03-10T01:30Z,New Mexico Lobos at Utah State Aggies,Utah State Aggies,New Mexico Lobos,87,85,1.0
+401602178,2024-03-09T20:00Z,South Florida Bulls at Tulsa Golden Hurricane,Tulsa Golden Hurricane,South Florida Bulls,76,70,1.0
+401630141,2024-03-09T17:00Z,Campbell Fighting Camels at Monmouth Hawks,Monmouth Hawks,Campbell Fighting Camels,90,67,1.0
+401625633,2024-03-09T17:00Z,Le Moyne Dolphins at Merrimack Warriors,Merrimack Warriors,Le Moyne Dolphins,61,51,1.0
+401625582,2024-03-09T17:00Z,Mercer Bears at Samford Bulldogs,Samford Bulldogs,Mercer Bears,70,57,1.0
+401625519,2024-03-09T17:00Z,Longwood Lancers at High Point Panthers,High Point Panthers,Longwood Lancers,79,80,0.0
+401602176,2024-03-09T17:00Z,Memphis Tigers at Florida Atlantic Owls,Florida Atlantic Owls,Memphis Tigers,92,84,1.0
+401599563,2024-03-09T17:00Z,Georgetown Hoyas at St. John's Red Storm,St. John's Red Storm,Georgetown Hoyas,86,78,1.0
+401577680,2024-03-09T17:00Z,Brown Bears at Yale Bulldogs,Yale Bulldogs,Brown Bears,81,84,0.0
+401625595,2024-03-09T17:30Z,Georgia Southern Eagles at App State Mountaineers,App State Mountaineers,Georgia Southern Eagles,85,80,1.0
+401596944,2024-03-09T17:30Z,Saint Louis Billikens at St. Bonaventure Bonnies,St. Bonaventure Bonnies,Saint Louis Billikens,65,73,0.0
+401596947,2024-03-09T18:00Z,Rhode Island Rams at Fordham Rams,Fordham Rams,Rhode Island Rams,50,58,0.0
+401596945,2024-03-09T18:00Z,Davidson Wildcats at Saint Joseph's Hawks,Saint Joseph's Hawks,Davidson Wildcats,89,71,1.0
+401594324,2024-03-09T18:00Z,Siena Saints at Iona Gaels,Iona Gaels,Siena Saints,68,54,1.0
+401573649,2024-03-09T18:00Z,Western Kentucky Hilltoppers at Liberty Flames,Liberty Flames,Western Kentucky Hilltoppers,82,79,1.0
+401625632,2024-03-09T19:00Z,Wagner Seahawks at Central Connecticut Blue Devils,Central Connecticut Blue Devils,Wagner Seahawks,56,66,0.0
+401625604,2024-03-09T19:00Z,Maine Black Bears at Bryant Bulldogs,Bryant Bulldogs,Maine Black Bears,84,58,1.0
+401625520,2024-03-09T19:00Z,Gardner-Webb Runnin' Bulldogs at UNC Asheville Bulldogs,UNC Asheville Bulldogs,Gardner-Webb Runnin' Bulldogs,83,72,1.0
+401603522,2024-03-09T19:00Z,Oklahoma Sooners at Texas Longhorns,Texas Longhorns,Oklahoma Sooners,94,80,1.0
+401603518,2024-03-09T19:00Z,West Virginia Mountaineers at Cincinnati Bearcats,Cincinnati Bearcats,West Virginia Mountaineers,92,56,1.0
+401597231,2024-03-09T19:00Z,Texas A&M Aggies at Ole Miss Rebels,Ole Miss Rebels,Texas A&M Aggies,60,86,0.0
+401596949,2024-03-09T19:00Z,George Washington Revolutionaries at Duquesne Dukes,Duquesne Dukes,George Washington Revolutionaries,67,65,1.0
+401594379,2024-03-09T19:00Z,Quinnipiac Bobcats at Saint Peter's Peacocks,Saint Peter's Peacocks,Quinnipiac Bobcats,74,89,0.0
+401594342,2024-03-09T19:00Z,Niagara Purple Eagles at Marist Red Foxes,Marist Red Foxes,Niagara Purple Eagles,63,62,1.0
+401591564,2024-03-09T19:00Z,Cornell Big Red at Columbia Lions,Columbia Lions,Cornell Big Red,76,98,0.0
+401630142,2024-03-09T19:30Z,William & Mary Tribe at Towson Tigers,Towson Tigers,William & Mary Tribe,67,56,1.0
+401625584,2024-03-09T19:30Z,East Tennessee State Buccaneers at UNC Greensboro Spartans,UNC Greensboro Spartans,East Tennessee State Buccaneers,62,73,0.0
+401604237,2024-03-09T19:30Z,Notre Dame Fighting Irish at Virginia Tech Hokies,Virginia Tech Hokies,Notre Dame Fighting Irish,82,76,1.0
+401596946,2024-03-09T19:30Z,Richmond Spiders at George Mason Patriots,George Mason Patriots,Richmond Spiders,64,46,1.0
+401625605,2024-03-09T20:00Z,UAlbany Great Danes at Vermont Catamounts,Vermont Catamounts,UAlbany Great Danes,75,72,1.0
+401625603,2024-03-09T20:00Z,Binghamton Bearcats at New Hampshire Wildcats,New Hampshire Wildcats,Binghamton Bearcats,77,64,1.0
+401625602,2024-03-09T20:00Z,UMBC Retrievers at UMass Lowell River Hawks,UMass Lowell River Hawks,UMBC Retrievers,94,89,1.0
+401625596,2024-03-09T20:00Z,Louisiana Ragin' Cajuns at Arkansas State Red Wolves,Arkansas State Red Wolves,Louisiana Ragin' Cajuns,89,62,1.0
+401574190,2024-03-09T20:00Z,Utah Tech Trailblazers at Stephen F. Austin Lumberjacks,Stephen F. Austin Lumberjacks,Utah Tech Trailblazers,84,71,1.0
+401573650,2024-03-09T20:00Z,Middle Tennessee Blue Raiders at Louisiana Tech Bulldogs,Louisiana Tech Bulldogs,Middle Tennessee Blue Raiders,84,70,1.0
+401573647,2024-03-09T20:00Z,Jacksonville State Gamecocks at Sam Houston Bearkats,Sam Houston Bearkats,Jacksonville State Gamecocks,81,73,1.0
+401625668,2024-03-09T20:30Z,Northern Iowa Panthers at Indiana State Sycamores,Indiana State Sycamores,Northern Iowa Panthers,94,72,1.0
+401583835,2024-03-09T20:30Z,Mississippi Valley State Delta Devils at Jackson State Tigers,Jackson State Tigers,Mississippi Valley State Delta Devils,68,67,1.0
+401611837,2024-03-09T21:00Z,Arkansas-Pine Bluff Golden Lions at Alcorn State Braves,Alcorn State Braves,Arkansas-Pine Bluff Golden Lions,104,95,1.0
+401604233,2024-03-09T21:00Z,Miami Hurricanes at Florida State Seminoles,Florida State Seminoles,Miami Hurricanes,83,75,1.0
+401602175,2024-03-09T21:00Z,Charlotte 49ers at East Carolina Pirates,East Carolina Pirates,Charlotte 49ers,72,82,0.0
+401596948,2024-03-09T21:00Z,La Salle Explorers at Loyola Chicago Ramblers,Loyola Chicago Ramblers,La Salle Explorers,64,54,1.0
+401594460,2024-03-09T21:00Z,Colorado State Rams at Air Force Falcons,Air Force Falcons,Colorado State Rams,73,82,0.0
+401594306,2024-03-09T21:00Z,Fairfield Stags at Mount St. Mary's Mountaineers,Mount St. Mary's Mountaineers,Fairfield Stags,92,96,0.0
+401594274,2024-03-09T21:00Z,Canisius Golden Griffins at Manhattan Jaspers,Manhattan Jaspers,Canisius Golden Griffins,70,73,0.0
+401574644,2024-03-09T21:00Z,Bethune-Cookman Wildcats at Florida A&M Rattlers,Florida A&M Rattlers,Bethune-Cookman Wildcats,66,67,0.0
+401574148,2024-03-09T21:00Z,Utah Valley Wolverines at Abilene Christian Wildcats,Abilene Christian Wildcats,Utah Valley Wolverines,67,74,0.0
+401573648,2024-03-09T21:00Z,Florida International Panthers at New Mexico State Aggies,New Mexico State Aggies,Florida International Panthers,77,70,1.0
+401597234,2024-03-09T21:30Z,Florida Gators at Vanderbilt Commodores,Vanderbilt Commodores,Florida Gators,79,78,1.0
+401607462,2024-03-09T22:00Z,Colorado Buffaloes at Oregon State Beavers,Oregon State Beavers,Colorado Buffaloes,57,73,0.0
+401603521,2024-03-09T22:00Z,UCF Knights at TCU Horned Frogs,TCU Horned Frogs,UCF Knights,77,79,0.0
+401600130,2024-03-09T22:00Z,Grambling Tigers at Alabama State Hornets,Alabama State Hornets,Grambling Tigers,87,84,1.0
+401600112,2024-03-09T22:00Z,Southern Jaguars at Alabama A&M Bulldogs,Alabama A&M Bulldogs,Southern Jaguars,66,56,1.0
+401574146,2024-03-09T22:00Z,Seattle U Redhawks at Tarleton State Texans,Tarleton State Texans,Seattle U Redhawks,69,66,1.0
+401604234,2024-03-09T22:30Z,Boston College Eagles at Louisville Cardinals,Louisville Cardinals,Boston College Eagles,61,67,0.0
+401630143,2024-03-09T23:00Z,Northeastern Huskies at Stony Brook Seawolves,Stony Brook Seawolves,Northeastern Huskies,75,65,1.0
+401625669,2024-03-09T23:00Z,Bradley Braves at Drake Bulldogs,Drake Bulldogs,Bradley Braves,72,67,1.0
+401625597,2024-03-09T23:00Z,Texas State Bobcats at Troy Trojans,Troy Trojans,Texas State Bobcats,68,74,0.0
+401625585,2024-03-09T23:00Z,Wofford Terriers at Chattanooga Mocs,Chattanooga Mocs,Wofford Terriers,75,57,1.0
+401604238,2024-03-09T23:00Z,Clemson Tigers at Wake Forest Demon Deacons,Wake Forest Demon Deacons,Clemson Tigers,81,76,1.0
+401598036,2024-03-09T23:00Z,Prairie View A&M Panthers at Texas Southern Tigers,Texas Southern Tigers,Prairie View A&M Panthers,93,78,1.0
+401587183,2024-03-09T23:00Z,Princeton Tigers at Pennsylvania Quakers,Pennsylvania Quakers,Princeton Tigers,83,105,0.0
+401573580,2024-03-09T23:00Z,UC Davis Aggies at Long Beach State Beach,Long Beach State Beach,UC Davis Aggies,78,88,0.0
+401625493,2024-03-10T00:00Z,Oral Roberts Golden Eagles at South Dakota State Jackrabbits,South Dakota State Jackrabbits,Oral Roberts Golden Eagles,79,63,1.0
+401607446,2024-03-10T00:00Z,Utah Utes at Oregon Ducks,Oregon Ducks,Utah Utes,66,65,1.0
+401600816,2024-03-10T00:00Z,Wyoming Cowboys at Fresno State Bulldogs,Fresno State Bulldogs,Wyoming Cowboys,47,86,0.0
+401573579,2024-03-10T00:00Z,Cal Poly Mustangs at UC San Diego Tritons,UC San Diego Tritons,Cal Poly Mustangs,92,87,1.0
+401625609,2024-03-10T00:30Z,Sacramento State Hornets at Idaho Vandals,Idaho Vandals,Sacramento State Hornets,64,72,0.0
+401574189,2024-03-10T00:30Z,Southern Utah Thunderbirds at UT Rio Grande Valley Vaqueros,UT Rio Grande Valley Vaqueros,Southern Utah Thunderbirds,59,68,0.0
+401604235,2024-03-10T00:45Z,NC State Wolfpack at Pittsburgh Panthers,Pittsburgh Panthers,NC State Wolfpack,81,73,1.0
+401625579,2024-03-10T01:00Z,Morehead State Eagles at Little Rock Trojans,Little Rock Trojans,Morehead State Eagles,55,69,0.0
+401604236,2024-03-10T01:00Z,Georgia Tech Yellow Jackets at Virginia Cavaliers,Virginia Cavaliers,Georgia Tech Yellow Jackets,72,57,1.0
+401602177,2024-03-10T01:00Z,North Texas Mean Green at Rice Owls,Rice Owls,North Texas Mean Green,55,71,0.0
+401574147,2024-03-10T01:00Z,Grand Canyon Lopes at California Baptist Lancers,California Baptist Lancers,Grand Canyon Lopes,47,68,0.0
+401625598,2024-03-10T01:30Z,Marshall Thundering Herd at James Madison Dukes,James Madison Dukes,Marshall Thundering Herd,81,64,1.0
+401625583,2024-03-10T01:30Z,Furman Paladins at Western Carolina Catamounts,Western Carolina Catamounts,Furman Paladins,76,79,0.0
+401599567,2024-03-10T01:30Z,DePaul Blue Demons at Seton Hall Pirates,Seton Hall Pirates,DePaul Blue Demons,86,62,1.0
+401597230,2024-03-10T01:30Z,Missouri Tigers at LSU Tigers,LSU Tigers,Missouri Tigers,84,80,1.0
+401630144,2024-03-10T01:50Z,Hampton Pirates at Delaware Blue Hens,Delaware Blue Hens,Hampton Pirates,80,50,1.0
+401573577,2024-03-10T02:00Z,UC Irvine Anteaters at Cal State Fullerton Titans,Cal State Fullerton Titans,UC Irvine Anteaters,71,81,0.0
+401600427,2024-03-10T02:12Z,Minnesota Golden Gophers at Northwestern Wildcats,Northwestern Wildcats,Minnesota Golden Gophers,90,66,1.0
+401625494,2024-03-10T02:30Z,Denver Pioneers at Kansas City Roos,Kansas City Roos,Denver Pioneers,60,61,0.0
+401625645,2024-03-10T03:00Z,San Diego Toreros at Santa Clara Broncos,Santa Clara Broncos,San Diego Toreros,104,79,1.0
+401625610,2024-03-10T03:00Z,Idaho State Bengals at Northern Arizona Lumberjacks,Northern Arizona Lumberjacks,Idaho State Bengals,60,68,0.0
+401573576,2024-03-10T03:00Z,UC Riverside Highlanders at UC Santa Barbara Gauchos,UC Santa Barbara Gauchos,UC Riverside Highlanders,64,81,0.0
+401597317,2024-03-10T03:30Z,UNLV Rebels at Nevada Wolf Pack,Nevada Wolf Pack,UNLV Rebels,75,65,1.0
+401607444,2024-03-10T04:00Z,Arizona State Sun Devils at UCLA Bruins,UCLA Bruins,Arizona State Sun Devils,59,47,1.0
+401573578,2024-03-10T04:59Z,Cal State Bakersfield Roadrunners at Hawai'i Rainbow Warriors,Hawai'i Rainbow Warriors,Cal State Bakersfield Roadrunners,74,57,1.0
+401625646,2024-03-10T05:54Z,Portland Pilots at San Francisco Dons,San Francisco Dons,Portland Pilots,72,51,1.0
+401600433,2024-03-10T16:30Z,Wisconsin Badgers at Purdue Boilermakers,Purdue Boilermakers,Wisconsin Badgers,78,70,1.0
+401600428,2024-03-10T23:00Z,Illinois Fighting Illini at Iowa Hawkeyes,Iowa Hawkeyes,Illinois Fighting Illini,61,73,0.0
+401630145,2024-03-10T16:00Z,Monmouth Hawks at Charleston Cougars,Charleston Cougars,Monmouth Hawks,83,59,1.0
+401625521,2024-03-10T16:00Z,Longwood Lancers at UNC Asheville Bulldogs,UNC Asheville Bulldogs,Longwood Lancers,59,85,0.0
+401600431,2024-03-10T16:00Z,Nebraska Cornhuskers at Michigan Wolverines,Michigan Wolverines,Nebraska Cornhuskers,70,85,0.0
+401625708,2024-03-10T18:00Z,Bucknell Bison at Colgate Raiders,Colgate Raiders,Bucknell Bison,68,65,1.0
+401625670,2024-03-10T18:00Z,Drake Bulldogs at Indiana State Sycamores,Indiana State Sycamores,Drake Bulldogs,80,84,0.0
+401625658,2024-03-10T18:00Z,Austin Peay Governors at Stetson Hatters,Stetson Hatters,Austin Peay Governors,94,91,1.0
+401600432,2024-03-10T18:00Z,Ohio State Buckeyes at Rutgers Scarlet Knights,Rutgers Scarlet Knights,Ohio State Buckeyes,51,73,0.0
+401630146,2024-03-10T18:30Z,Towson Tigers at UNC Wilmington Seahawks,UNC Wilmington Seahawks,Towson Tigers,56,66,0.0
+401602180,2024-03-10T19:00Z,Temple Owls at UTSA Roadrunners,UTSA Roadrunners,Temple Owls,82,84,0.0
+401602179,2024-03-10T19:00Z,SMU Mustangs at UAB Blazers,UAB Blazers,SMU Mustangs,74,70,1.0
+401625707,2024-03-10T20:00Z,Lehigh Mountain Hawks at Boston University Terriers,Boston University Terriers,Lehigh Mountain Hawks,79,84,0.0
+401625586,2024-03-10T20:00Z,Furman Paladins at Samford Bulldogs,Samford Bulldogs,Furman Paladins,84,77,1.0
+401600429,2024-03-10T20:30Z,Michigan State Spartans at Indiana Hoosiers,Indiana Hoosiers,Michigan State Spartans,65,64,1.0
+401630147,2024-03-10T22:00Z,Stony Brook Seawolves at Drexel Dragons,Drexel Dragons,Stony Brook Seawolves,88,91,0.0
+401625636,2024-03-10T22:00Z,LSU New Orleans Privateers at SE Louisiana Lions,SE Louisiana Lions,LSU New Orleans Privateers,66,78,0.0
+401625599,2024-03-10T22:00Z,Arkansas State Red Wolves at App State Mountaineers,App State Mountaineers,Arkansas State Red Wolves,65,67,0.0
+401625587,2024-03-10T22:54Z,East Tennessee State Buccaneers at Chattanooga Mocs,Chattanooga Mocs,East Tennessee State Buccaneers,84,85,0.0
+401625495,2024-03-10T23:00Z,North Dakota State Bison at St. Thomas Tommies,St. Thomas Tommies,North Dakota State Bison,68,58,1.0
+401625611,2024-03-10T23:30Z,Sacramento State Hornets at Eastern Washington Eagles,Eastern Washington Eagles,Sacramento State Hornets,69,74,0.0
+401600430,2024-03-10T23:30Z,Maryland Terrapins at Penn State Nittany Lions,Penn State Nittany Lions,Maryland Terrapins,85,69,1.0
+401625635,2024-03-11T00:30Z,East Texas A&M Lions at Northwestern State Demons,Northwestern State Demons,East Texas A&M Lions,64,69,0.0
+401625600,2024-03-11T00:30Z,Texas State Bobcats at James Madison Dukes,James Madison Dukes,Texas State Bobcats,73,68,1.0
+401630148,2024-03-11T01:10Z,Delaware Blue Hens at Hofstra Pride,Hofstra Pride,Delaware Blue Hens,73,58,1.0
+401625496,2024-03-11T01:30Z,Omaha Mavericks at North Dakota Fighting Hawks,North Dakota Fighting Hawks,Omaha Mavericks,72,73,0.0
+401625612,2024-03-11T02:00Z,Idaho State Bengals at Northern Colorado Bears,Northern Colorado Bears,Idaho State Bengals,76,83,0.0
+401625648,2024-03-12T03:30Z,San Francisco Dons at Gonzaga Bulldogs,Gonzaga Bulldogs,San Francisco Dons,89,77,1.0
+401625647,2024-03-12T01:00Z,Santa Clara Broncos at Saint Mary's Gaels,Saint Mary's Gaels,Santa Clara Broncos,79,65,1.0
+401630149,2024-03-11T22:00Z,Towson Tigers at Charleston Cougars,Charleston Cougars,Towson Tigers,61,56,1.0
+401625638,2024-03-11T22:00Z,LSU New Orleans Privateers at Lamar Cardinals,Lamar Cardinals,LSU New Orleans Privateers,71,57,1.0
+401625698,2024-03-11T23:00Z,Cleveland State Vikings at Oakland Golden Grizzlies,Oakland Golden Grizzlies,Cleveland State Vikings,74,71,1.0
+401625601,2024-03-11T23:00Z,Arkansas State Red Wolves at James Madison Dukes,James Madison Dukes,Arkansas State Red Wolves,91,71,1.0
+401625588,2024-03-11T23:00Z,East Tennessee State Buccaneers at Samford Bulldogs,Samford Bulldogs,East Tennessee State Buccaneers,76,69,1.0
+401625497,2024-03-11T23:00Z,St. Thomas Tommies at South Dakota State Jackrabbits,South Dakota State Jackrabbits,St. Thomas Tommies,59,49,1.0
+401625613,2024-03-11T23:30Z,Montana State Bobcats at Weber State Wildcats,Weber State Wildcats,Montana State Bobcats,82,91,0.0
+401625637,2024-03-12T00:30Z,East Texas A&M Lions at Nicholls Colonels,Nicholls Colonels,East Texas A&M Lions,72,51,1.0
+401630150,2024-03-12T00:45Z,Stony Brook Seawolves at Hofstra Pride,Hofstra Pride,Stony Brook Seawolves,59,63,0.0
+401625498,2024-03-12T01:30Z,Denver Pioneers at Omaha Mavericks,Omaha Mavericks,Denver Pioneers,63,66,0.0
+401625699,2024-03-12T01:46Z,Milwaukee Panthers at Northern Kentucky Norse,Northern Kentucky Norse,Milwaukee Panthers,75,82,0.0
+401625614,2024-03-12T02:00Z,Portland State Vikings at Montana Grizzlies,Montana Grizzlies,Portland State Vikings,87,81,1.0
+401625649,2024-03-13T01:00Z,Gonzaga Bulldogs at Saint Mary's Gaels,Saint Mary's Gaels,Gonzaga Bulldogs,69,60,1.0
+401625542,2024-03-12T15:30Z,Davidson Wildcats at Fordham Rams,Fordham Rams,Davidson Wildcats,71,63,1.0
+401625414,2024-03-12T16:30Z,Oklahoma State Cowboys at UCF Knights,UCF Knights,Oklahoma State Cowboys,77,62,1.0
+401625400,2024-03-12T18:00Z,Georgia Tech Yellow Jackets at Notre Dame Fighting Irish,Notre Dame Fighting Irish,Georgia Tech Yellow Jackets,84,80,1.0
+401625543,2024-03-12T18:30Z,George Washington Revolutionaries at La Salle Explorers,La Salle Explorers,George Washington Revolutionaries,61,60,1.0
+401625415,2024-03-12T19:00Z,West Virginia Mountaineers at Cincinnati Bearcats,Cincinnati Bearcats,West Virginia Mountaineers,90,85,1.0
+401625401,2024-03-12T20:30Z,Louisville Cardinals at NC State Wolfpack,NC State Wolfpack,Louisville Cardinals,94,85,1.0
+401625606,2024-03-12T21:00Z,New Hampshire Wildcats at Vermont Catamounts,Vermont Catamounts,New Hampshire Wildcats,66,59,1.0
+401625544,2024-03-12T21:00Z,Saint Louis Billikens at Rhode Island Rams,Rhode Island Rams,Saint Louis Billikens,71,74,0.0
+401625618,2024-03-12T21:15Z,Canisius Golden Griffins at Mount St. Mary's Mountaineers,Mount St. Mary's Mountaineers,Canisius Golden Griffins,61,77,0.0
+401625607,2024-03-12T22:00Z,Bryant Bulldogs at UMass Lowell River Hawks,UMass Lowell River Hawks,Bryant Bulldogs,77,70,1.0
+401625639,2024-03-12T22:30Z,Lamar Cardinals at McNeese Cowboys,McNeese Cowboys,Lamar Cardinals,76,57,1.0
+401630151,2024-03-12T23:00Z,Stony Brook Seawolves at Charleston Cougars,Charleston Cougars,Stony Brook Seawolves,82,79,1.0
+401625700,2024-03-12T23:00Z,Milwaukee Panthers at Oakland Golden Grizzlies,Oakland Golden Grizzlies,Milwaukee Panthers,83,76,1.0
+401625634,2024-03-12T23:00Z,Wagner Seahawks at Merrimack Warriors,Merrimack Warriors,Wagner Seahawks,47,54,0.0
+401625402,2024-03-12T23:19Z,Miami Hurricanes at Boston College Eagles,Boston College Eagles,Miami Hurricanes,81,65,1.0
+401625615,2024-03-13T00:30Z,Sacramento State Hornets at Montana State Bobcats,Montana State Bobcats,Sacramento State Hornets,74,71,1.0
+401625619,2024-03-13T00:44Z,Manhattan Jaspers at Iona Gaels,Iona Gaels,Manhattan Jaspers,60,57,1.0
+401625640,2024-03-13T01:00Z,Nicholls Colonels at Texas A&M-Corpus Christi Islanders,Texas A&M-Corpus Christi Islanders,Nicholls Colonels,73,81,0.0
+401625484,2024-03-13T01:00Z,Florida International Panthers at Jacksonville State Gamecocks,Jacksonville State Gamecocks,Florida International Panthers,67,76,0.0
+401625499,2024-03-13T01:30Z,Denver Pioneers at South Dakota State Jackrabbits,South Dakota State Jackrabbits,Denver Pioneers,76,68,1.0
+401625616,2024-03-13T03:00Z,Idaho State Bengals at Montana Grizzlies,Montana Grizzlies,Idaho State Bengals,72,58,1.0
+401625620,2024-03-13T03:14Z,Siena Saints at Niagara Purple Eagles,Niagara Purple Eagles,Siena Saints,67,65,1.0
+401625439,2024-03-14T01:30Z,Cincinnati Bearcats at Kansas Jayhawks,Kansas Jayhawks,Cincinnati Bearcats,52,72,0.0
+401625416,2024-03-13T16:30Z,UCF Knights at BYU Cougars,BYU Cougars,UCF Knights,87,73,1.0
+401625545,2024-03-13T15:30Z,Saint Joseph's Hawks at George Mason Patriots,George Mason Patriots,Saint Joseph's Hawks,57,64,0.0
+401625403,2024-03-13T16:00Z,Florida State Seminoles at Virginia Tech Hokies,Virginia Tech Hokies,Florida State Seminoles,76,86,0.0
+401625460,2024-03-13T17:00Z,Rice Owls at Wichita State Shockers,Wichita State Shockers,Rice Owls,88,81,1.0
+401625546,2024-03-13T18:00Z,Fordham Rams at VCU Rams,VCU Rams,Fordham Rams,69,62,1.0
+401625522,2024-03-13T18:00Z,Fresno State Bulldogs at Wyoming Cowboys,Wyoming Cowboys,Fresno State Bulldogs,73,77,0.0
+401625404,2024-03-13T18:50Z,Notre Dame Fighting Irish at Wake Forest Demon Deacons,Wake Forest Demon Deacons,Notre Dame Fighting Irish,72,59,1.0
+401625672,2024-03-13T19:00Z,Alabama A&M Bulldogs at Alcorn State Braves,Alcorn State Braves,Alabama A&M Bulldogs,63,75,0.0
+401625473,2024-03-13T19:00Z,USC Trojans at Washington Huskies,Washington Huskies,USC Trojans,74,80,0.0
+401625417,2024-03-13T19:20Z,Oklahoma Sooners at TCU Horned Frogs,TCU Horned Frogs,Oklahoma Sooners,77,70,1.0
+401625461,2024-03-13T19:25Z,UTSA Roadrunners at Temple Owls,Temple Owls,UTSA Roadrunners,64,61,1.0
+401625556,2024-03-13T20:00Z,Xavier Musketeers at Butler Bulldogs,Butler Bulldogs,Xavier Musketeers,72,76,0.0
+401625523,2024-03-13T20:30Z,San José State Spartans at Colorado State Rams,Colorado State Rams,San José State Spartans,72,62,1.0
+401625641,2024-03-13T21:00Z,Nicholls Colonels at McNeese Cowboys,McNeese Cowboys,Nicholls Colonels,92,76,1.0
+401625547,2024-03-13T21:00Z,La Salle Explorers at St. Bonaventure Bonnies,St. Bonaventure Bonnies,La Salle Explorers,75,73,1.0
+401625474,2024-03-13T21:45Z,Oregon State Beavers at UCLA Bruins,UCLA Bruins,Oregon State Beavers,67,57,1.0
+401625566,2024-03-13T22:00Z,Coppin State Eagles at Norfolk State Spartans,Norfolk State Spartans,Coppin State Eagles,75,51,1.0
+401625678,2024-03-13T22:30Z,Rutgers Scarlet Knights at Maryland Terrapins,Maryland Terrapins,Rutgers Scarlet Knights,65,51,1.0
+401625621,2024-03-13T22:30Z,Canisius Golden Griffins at Quinnipiac Bobcats,Quinnipiac Bobcats,Canisius Golden Griffins,76,52,1.0
+401625485,2024-03-13T22:30Z,Florida International Panthers at Sam Houston Bearkats,Sam Houston Bearkats,Florida International Panthers,78,59,1.0
+401625557,2024-03-13T22:40Z,Georgetown Hoyas at Providence Friars,Providence Friars,Georgetown Hoyas,74,56,1.0
+401625709,2024-03-13T23:00Z,Lehigh Mountain Hawks at Colgate Raiders,Colgate Raiders,Lehigh Mountain Hawks,74,55,1.0
+401625524,2024-03-13T23:00Z,Air Force Falcons at New Mexico Lobos,New Mexico Lobos,Air Force Falcons,82,56,1.0
+401625447,2024-03-13T23:00Z,Vanderbilt Commodores at Arkansas Razorbacks,Arkansas Razorbacks,Vanderbilt Commodores,90,85,1.0
+401625418,2024-03-13T23:00Z,Kansas State Wildcats at Texas Longhorns,Texas Longhorns,Kansas State Wildcats,74,78,0.0
+401625405,2024-03-13T23:00Z,NC State Wolfpack at Syracuse Orange,Syracuse Orange,NC State Wolfpack,65,83,0.0
+401625548,2024-03-13T23:30Z,Saint Louis Billikens at Duquesne Dukes,Duquesne Dukes,Saint Louis Billikens,83,73,1.0
+401625679,2024-03-14T00:30Z,Michigan Wolverines at Penn State Nittany Lions,Penn State Nittany Lions,Michigan Wolverines,66,57,1.0
+401625567,2024-03-14T00:30Z,Maryland Eastern Shore Hawks at North Carolina Central Eagles,North Carolina Central Eagles,Maryland Eastern Shore Hawks,87,81,1.0
+401625622,2024-03-14T01:00Z,Iona Gaels at Fairfield Stags,Fairfield Stags,Iona Gaels,68,63,1.0
+401625558,2024-03-14T01:00Z,DePaul Blue Demons at Villanova Wildcats,Villanova Wildcats,DePaul Blue Demons,58,57,1.0
+401625533,2024-03-14T01:00Z,Cal State Bakersfield Roadrunners at UC Riverside Highlanders,UC Riverside Highlanders,Cal State Bakersfield Roadrunners,83,78,1.0
+401625508,2024-03-14T01:00Z,California Baptist Lancers at Utah Valley Wolverines,Utah Valley Wolverines,California Baptist Lancers,63,74,0.0
+401625486,2024-03-14T01:00Z,Middle Tennessee Blue Raiders at Louisiana Tech Bulldogs,Louisiana Tech Bulldogs,Middle Tennessee Blue Raiders,67,70,0.0
+401625475,2024-03-14T01:00Z,Stanford Cardinal at California Golden Bears,California Golden Bears,Stanford Cardinal,76,87,0.0
+401625671,2024-03-14T01:30Z,Alabama State Hornets at Grambling Tigers,Grambling Tigers,Alabama State Hornets,56,50,1.0
+401625448,2024-03-14T01:30Z,Missouri Tigers at Georgia Bulldogs,Georgia Bulldogs,Missouri Tigers,64,59,1.0
+401625406,2024-03-14T01:30Z,Boston College Eagles at Clemson Tigers,Clemson Tigers,Boston College Eagles,55,76,0.0
+401625617,2024-03-14T03:30Z,Montana State Bobcats at Montana Grizzlies,Montana Grizzlies,Montana State Bobcats,70,85,0.0
+401625532,2024-03-14T03:30Z,Cal State Northridge Matadors at UC Santa Barbara Gauchos,UC Santa Barbara Gauchos,Cal State Northridge Matadors,84,87,0.0
+401625507,2024-03-14T03:30Z,Abilene Christian Wildcats at Stephen F. Austin Lumberjacks,Stephen F. Austin Lumberjacks,Abilene Christian Wildcats,60,57,1.0
+401625476,2024-03-14T03:30Z,Arizona State Sun Devils at Utah Utes,Utah Utes,Arizona State Sun Devils,90,57,1.0
+401625441,2024-03-14T19:25Z,TCU Horned Frogs at Houston Cougars,Houston Cougars,TCU Horned Frogs,60,45,1.0
+401625559,2024-03-14T16:00Z,Xavier Musketeers at UConn Huskies,UConn Huskies,Xavier Musketeers,87,60,1.0
+401625407,2024-03-14T16:00Z,Florida State Seminoles at North Carolina Tar Heels,North Carolina Tar Heels,Florida State Seminoles,92,67,1.0
+401625477,2024-03-14T19:00Z,USC Trojans at Arizona Wildcats,Arizona Wildcats,USC Trojans,70,49,1.0
+401625442,2024-03-14T23:00Z,Kansas State Wildcats at Iowa State Cyclones,Iowa State Cyclones,Kansas State Wildcats,76,57,1.0
+401625561,2024-03-14T23:00Z,Providence Friars at Creighton Bluejays,Creighton Bluejays,Providence Friars,73,78,0.0
+401625562,2024-03-15T01:30Z,Villanova Wildcats at Marquette Golden Eagles,Marquette Golden Eagles,Villanova Wildcats,71,65,1.0
+401625409,2024-03-14T23:00Z,NC State Wolfpack at Duke Blue Devils,Duke Blue Devils,NC State Wolfpack,69,74,0.0
+401625443,2024-03-15T01:53Z,Cincinnati Bearcats at Baylor Bears,Baylor Bears,Cincinnati Bearcats,68,56,1.0
+401625450,2024-03-14T19:30Z,Arkansas Razorbacks at South Carolina Gamecocks,South Carolina Gamecocks,Arkansas Razorbacks,80,66,1.0
+401625525,2024-03-14T19:00Z,Fresno State Bulldogs at Utah State Aggies,Utah State Aggies,Fresno State Bulldogs,87,75,1.0
+401625440,2024-03-14T16:30Z,BYU Cougars at Texas Tech Red Raiders,Texas Tech Red Raiders,BYU Cougars,81,67,1.0
+401625479,2024-03-15T01:00Z,Stanford Cardinal at Washington State Cougars,Washington State Cougars,Stanford Cardinal,79,62,1.0
+401625527,2024-03-15T01:12Z,Colorado State Rams at Nevada Wolf Pack,Nevada Wolf Pack,Colorado State Rams,78,85,0.0
+401625552,2024-03-15T00:27Z,Duquesne Dukes at Dayton Flyers,Dayton Flyers,Duquesne Dukes,57,65,0.0
+401625500,2024-03-14T15:00Z,Kent State Golden Flashes at Toledo Rockets,Toledo Rockets,Kent State Golden Flashes,59,67,0.0
+401625549,2024-03-14T15:30Z,Saint Joseph's Hawks at Richmond Spiders,Richmond Spiders,Saint Joseph's Hawks,61,66,0.0
+401625680,2024-03-14T16:00Z,Minnesota Golden Gophers at Michigan State Spartans,Michigan State Spartans,Minnesota Golden Gophers,77,67,1.0
+401625462,2024-03-14T16:30Z,Tulsa Golden Hurricane at East Carolina Pirates,East Carolina Pirates,Tulsa Golden Hurricane,84,79,1.0
+401625449,2024-03-14T17:00Z,Mississippi State Bulldogs at LSU Tigers,LSU Tigers,Mississippi State Bulldogs,60,70,0.0
+401625501,2024-03-14T17:30Z,Bowling Green Falcons at Central Michigan Chippewas,Central Michigan Chippewas,Bowling Green Falcons,56,66,0.0
+401625550,2024-03-14T18:00Z,VCU Rams at Massachusetts Minutemen,Massachusetts Minutemen,VCU Rams,59,73,0.0
+401625681,2024-03-14T18:30Z,Maryland Terrapins at Wisconsin Badgers,Wisconsin Badgers,Maryland Terrapins,87,56,1.0
+401625560,2024-03-14T18:30Z,St. John's Red Storm at Seton Hall Pirates,Seton Hall Pirates,St. John's Red Storm,72,91,0.0
+401625463,2024-03-14T18:30Z,Wichita State Shockers at Memphis Tigers,Memphis Tigers,Wichita State Shockers,65,71,0.0
+401625408,2024-03-14T18:30Z,Wake Forest Demon Deacons at Pittsburgh Panthers,Pittsburgh Panthers,Wake Forest Demon Deacons,81,69,1.0
+401625674,2024-03-14T19:00Z,Jackson State Tigers at Texas Southern Tigers,Texas Southern Tigers,Jackson State Tigers,73,62,1.0
+401625502,2024-03-14T20:30Z,Miami (OH) RedHawks at Akron Zips,Akron Zips,Miami (OH) RedHawks,75,63,1.0
+401625551,2024-03-14T21:00Z,St. Bonaventure Bonnies at Loyola Chicago Ramblers,Loyola Chicago Ramblers,St. Bonaventure Bonnies,74,75,0.0
+401625478,2024-03-14T21:30Z,UCLA Bruins at Oregon Ducks,Oregon Ducks,UCLA Bruins,68,66,1.0
+401625526,2024-03-14T21:55Z,San Diego State Aztecs at UNLV Rebels,UNLV Rebels,San Diego State Aztecs,71,74,0.0
+401625568,2024-03-14T22:00Z,Morgan State Bears at Howard Bison,Howard Bison,Morgan State Bears,78,65,1.0
+401625682,2024-03-14T22:30Z,Ohio State Buckeyes at Iowa Hawkeyes,Iowa Hawkeyes,Ohio State Buckeyes,78,90,0.0
+401625623,2024-03-14T22:30Z,Niagara Purple Eagles at Marist Red Foxes,Marist Red Foxes,Niagara Purple Eagles,65,59,1.0
+401625487,2024-03-14T22:30Z,UTEP Miners at Liberty Flames,Liberty Flames,UTEP Miners,57,66,0.0
+401625503,2024-03-14T22:38Z,Western Michigan Broncos at Ohio Bobcats,Ohio Bobcats,Western Michigan Broncos,82,55,1.0
+401625464,2024-03-14T23:00Z,Tulane Green Wave at North Texas Mean Green,North Texas Mean Green,Tulane Green Wave,81,71,1.0
+401625451,2024-03-14T23:00Z,Ole Miss Rebels at Texas A&M Aggies,Texas A&M Aggies,Ole Miss Rebels,80,71,1.0
+401625569,2024-03-15T00:45Z,Delaware State Hornets at South Carolina State Bulldogs,South Carolina State Bulldogs,Delaware State Hornets,58,71,0.0
+401625683,2024-03-15T01:00Z,Penn State Nittany Lions at Indiana Hoosiers,Indiana Hoosiers,Penn State Nittany Lions,61,59,1.0
+401625624,2024-03-15T01:00Z,Saint Peter's Peacocks at Rider Broncs,Rider Broncs,Saint Peter's Peacocks,48,50,0.0
+401625535,2024-03-15T01:00Z,Cal State Northridge Matadors at Hawai'i Rainbow Warriors,Hawai'i Rainbow Warriors,Cal State Northridge Matadors,75,68,1.0
+401625510,2024-03-15T01:00Z,California Baptist Lancers at Seattle U Redhawks,Seattle U Redhawks,California Baptist Lancers,81,57,1.0
+401625488,2024-03-15T01:00Z,New Mexico State Aggies at Western Kentucky Hilltoppers,Western Kentucky Hilltoppers,New Mexico State Aggies,89,69,1.0
+401625465,2024-03-15T01:00Z,Temple Owls at SMU Mustangs,SMU Mustangs,Temple Owls,60,75,0.0
+401625673,2024-03-15T01:30Z,Bethune-Cookman Wildcats at Southern Jaguars,Southern Jaguars,Bethune-Cookman Wildcats,58,73,0.0
+401625410,2024-03-15T01:30Z,Boston College Eagles at Virginia Cavaliers,Virginia Cavaliers,Boston College Eagles,66,60,1.0
+401625452,2024-03-15T02:00Z,Georgia Bulldogs at Florida Gators,Florida Gators,Georgia Bulldogs,85,80,1.0
+401625509,2024-03-15T03:30Z,Stephen F. Austin Lumberjacks at UT Arlington Mavericks,UT Arlington Mavericks,Stephen F. Austin Lumberjacks,109,78,1.0
+401625480,2024-03-15T03:30Z,Utah Utes at Colorado Buffaloes,Colorado Buffaloes,Utah Utes,72,58,1.0
+401625534,2024-03-15T03:40Z,UC Riverside Highlanders at Long Beach State Beach,Long Beach State Beach,UC Riverside Highlanders,86,67,1.0
+401625528,2024-03-15T03:59Z,New Mexico Lobos at Boise State Broncos,Boise State Broncos,New Mexico Lobos,66,76,0.0
+401625444,2024-03-15T23:00Z,Texas Tech Red Raiders at Houston Cougars,Houston Cougars,Texas Tech Red Raiders,82,59,1.0
+401625563,2024-03-15T21:30Z,St. John's Red Storm at UConn Huskies,UConn Huskies,St. John's Red Storm,95,90,1.0
+401625684,2024-03-15T16:00Z,Michigan State Spartans at Purdue Boilermakers,Purdue Boilermakers,Michigan State Spartans,67,62,1.0
+401625411,2024-03-15T23:00Z,Pittsburgh Panthers at North Carolina Tar Heels,North Carolina Tar Heels,Pittsburgh Panthers,72,65,1.0
+401625453,2024-03-15T17:00Z,Mississippi State Bulldogs at Tennessee Volunteers,Tennessee Volunteers,Mississippi State Bulldogs,56,73,0.0
+401625481,2024-03-16T00:00Z,Oregon Ducks at Arizona Wildcats,Arizona Wildcats,Oregon Ducks,59,67,0.0
+401625445,2024-03-16T01:30Z,Baylor Bears at Iowa State Cyclones,Iowa State Cyclones,Baylor Bears,76,62,1.0
+401625455,2024-03-15T23:00Z,Texas A&M Aggies at Kentucky Wildcats,Kentucky Wildcats,Texas A&M Aggies,87,97,0.0
+401625564,2024-03-16T00:23Z,Providence Friars at Marquette Golden Eagles,Marquette Golden Eagles,Providence Friars,79,68,1.0
+401625454,2024-03-15T19:39Z,South Carolina Gamecocks at Auburn Tigers,Auburn Tigers,South Carolina Gamecocks,86,55,1.0
+401625686,2024-03-15T22:30Z,Ohio State Buckeyes at Illinois Fighting Illini,Illinois Fighting Illini,Ohio State Buckeyes,77,74,1.0
+401625529,2024-03-16T01:41Z,San Diego State Aztecs at Utah State Aggies,Utah State Aggies,San Diego State Aztecs,70,86,0.0
+401625456,2024-03-16T01:30Z,Florida Gators at Alabama Crimson Tide,Alabama Crimson Tide,Florida Gators,88,102,0.0
+401625482,2024-03-16T02:57Z,Colorado Buffaloes at Washington State Cougars,Washington State Cougars,Colorado Buffaloes,52,58,0.0
+401625489,2024-03-15T16:30Z,UTEP Miners at Sam Houston Bearkats,Sam Houston Bearkats,UTEP Miners,63,65,0.0
+401625466,2024-03-15T17:00Z,East Carolina Pirates at South Florida Bulls,South Florida Bulls,East Carolina Pirates,81,59,1.0
+401625685,2024-03-15T18:52Z,Wisconsin Badgers at Northwestern Wildcats,Northwestern Wildcats,Wisconsin Badgers,61,70,0.0
+401625675,2024-03-15T19:00Z,Bethune-Cookman Wildcats at Grambling Tigers,Grambling Tigers,Bethune-Cookman Wildcats,65,53,1.0
+401625490,2024-03-15T19:20Z,Middle Tennessee Blue Raiders at Western Kentucky Hilltoppers,Western Kentucky Hilltoppers,Middle Tennessee Blue Raiders,85,54,1.0
+401625467,2024-03-15T19:33Z,Wichita State Shockers at UAB Blazers,UAB Blazers,Wichita State Shockers,72,60,1.0
+401625504,2024-03-15T21:00Z,Kent State Golden Flashes at Bowling Green Falcons,Bowling Green Falcons,Kent State Golden Flashes,60,73,0.0
+401625570,2024-03-15T22:00Z,Howard Bison at Norfolk State Spartans,Norfolk State Spartans,Howard Bison,74,80,0.0
+401625626,2024-03-15T22:30Z,Saint Peter's Peacocks at Quinnipiac Bobcats,Quinnipiac Bobcats,Saint Peter's Peacocks,60,62,0.0
+401625468,2024-03-15T23:00Z,North Texas Mean Green at Florida Atlantic Owls,Florida Atlantic Owls,North Texas Mean Green,77,71,1.0
+401625505,2024-03-15T23:47Z,Ohio Bobcats at Akron Zips,Akron Zips,Ohio Bobcats,65,62,1.0
+401625571,2024-03-16T00:00Z,Delaware State Hornets at North Carolina Central Eagles,North Carolina Central Eagles,Delaware State Hornets,58,71,0.0
+401625537,2024-03-16T01:00Z,Long Beach State Beach at UC Irvine Anteaters,UC Irvine Anteaters,Long Beach State Beach,79,83,0.0
+401625512,2024-03-16T01:00Z,Seattle U Redhawks at Grand Canyon Lopes,Grand Canyon Lopes,Seattle U Redhawks,80,72,1.0
+401625687,2024-03-16T01:20Z,Indiana Hoosiers at Nebraska Cornhuskers,Nebraska Cornhuskers,Indiana Hoosiers,93,66,1.0
+401625625,2024-03-16T01:20Z,Marist Red Foxes at Fairfield Stags,Fairfield Stags,Marist Red Foxes,65,61,1.0
+401625676,2024-03-16T01:30Z,Alabama A&M Bulldogs at Texas Southern Tigers,Texas Southern Tigers,Alabama A&M Bulldogs,72,65,1.0
+401625412,2024-03-16T01:30Z,NC State Wolfpack at Virginia Cavaliers,Virginia Cavaliers,NC State Wolfpack,65,73,0.0
+401625469,2024-03-16T01:58Z,Temple Owls at Charlotte 49ers,Charlotte 49ers,Temple Owls,54,58,0.0
+401625511,2024-03-16T03:30Z,UT Arlington Mavericks at Tarleton State Texans,Tarleton State Texans,UT Arlington Mavericks,84,87,0.0
+401625536,2024-03-16T03:56Z,Hawai'i Rainbow Warriors at UC Davis Aggies,UC Davis Aggies,Hawai'i Rainbow Warriors,68,65,1.0
+401625530,2024-03-16T03:59Z,Colorado State Rams at New Mexico Lobos,New Mexico Lobos,Colorado State Rams,74,61,1.0
+401625446,2024-03-16T22:15Z,Iowa State Cyclones at Houston Cougars,Houston Cougars,Iowa State Cyclones,41,69,0.0
+401625565,2024-03-16T22:30Z,Marquette Golden Eagles at UConn Huskies,UConn Huskies,Marquette Golden Eagles,73,57,1.0
+401625688,2024-03-16T17:00Z,Wisconsin Badgers at Purdue Boilermakers,Purdue Boilermakers,Wisconsin Badgers,75,76,0.0
+401625413,2024-03-17T00:30Z,NC State Wolfpack at North Carolina Tar Heels,North Carolina Tar Heels,NC State Wolfpack,76,84,0.0
+401625457,2024-03-16T17:00Z,Mississippi State Bulldogs at Auburn Tigers,Auburn Tigers,Mississippi State Bulldogs,73,66,1.0
+401625689,2024-03-16T20:00Z,Nebraska Cornhuskers at Illinois Fighting Illini,Illinois Fighting Illini,Nebraska Cornhuskers,98,87,1.0
+401625608,2024-03-16T15:00Z,UMass Lowell River Hawks at Vermont Catamounts,Vermont Catamounts,UMass Lowell River Hawks,66,61,1.0
+401625539,2024-03-16T15:00Z,Brown Bears at Princeton Tigers,Princeton Tigers,Brown Bears,81,90,0.0
+401625572,2024-03-16T17:00Z,Delaware State Hornets at Howard Bison,Howard Bison,Delaware State Hornets,70,67,1.0
+401625553,2024-03-16T17:00Z,Saint Joseph's Hawks at VCU Rams,VCU Rams,Saint Joseph's Hawks,66,60,1.0
+401625540,2024-03-16T18:00Z,Cornell Big Red at Yale Bulldogs,Yale Bulldogs,Cornell Big Red,69,57,1.0
+401625470,2024-03-16T19:00Z,UAB Blazers at South Florida Bulls,South Florida Bulls,UAB Blazers,83,93,0.0
+401625554,2024-03-16T19:30Z,St. Bonaventure Bonnies at Duquesne Dukes,Duquesne Dukes,St. Bonaventure Bonnies,70,60,1.0
+401625458,2024-03-16T19:56Z,Texas A&M Aggies at Florida Gators,Florida Gators,Texas A&M Aggies,95,90,1.0
+401625471,2024-03-16T21:54Z,Temple Owls at Florida Atlantic Owls,Florida Atlantic Owls,Temple Owls,73,74,0.0
+401625531,2024-03-16T22:12Z,New Mexico Lobos at San Diego State Aztecs,San Diego State Aztecs,New Mexico Lobos,61,68,0.0
+401625627,2024-03-16T23:30Z,Saint Peter's Peacocks at Fairfield Stags,Fairfield Stags,Saint Peter's Peacocks,63,68,0.0
+401625506,2024-03-16T23:30Z,Kent State Golden Flashes at Akron Zips,Akron Zips,Kent State Golden Flashes,62,61,1.0
+401625491,2024-03-17T00:30Z,UTEP Miners at Western Kentucky Hilltoppers,Western Kentucky Hilltoppers,UTEP Miners,78,71,1.0
+401625483,2024-03-17T01:20Z,Oregon Ducks at Colorado Buffaloes,Colorado Buffaloes,Oregon Ducks,68,75,0.0
+401625677,2024-03-17T01:30Z,Texas Southern Tigers at Grambling Tigers,Grambling Tigers,Texas Southern Tigers,75,66,1.0
+401625538,2024-03-17T01:30Z,Long Beach State Beach at UC Davis Aggies,UC Davis Aggies,Long Beach State Beach,70,74,0.0
+401625513,2024-03-17T03:30Z,UT Arlington Mavericks at Grand Canyon Lopes,Grand Canyon Lopes,UT Arlington Mavericks,89,74,1.0
+401625459,2024-03-17T17:00Z,Florida Gators at Auburn Tigers,Auburn Tigers,Florida Gators,86,67,1.0
+401625690,2024-03-17T19:30Z,Wisconsin Badgers at Illinois Fighting Illini,Illinois Fighting Illini,Wisconsin Badgers,93,87,1.0
+401625541,2024-03-17T16:00Z,Brown Bears at Yale Bulldogs,Yale Bulldogs,Brown Bears,62,61,1.0
+401625555,2024-03-17T17:00Z,Duquesne Dukes at VCU Rams,VCU Rams,Duquesne Dukes,51,57,0.0
+401625472,2024-03-17T19:15Z,Temple Owls at UAB Blazers,UAB Blazers,Temple Owls,85,69,1.0
+401638580,2024-03-20T01:10Z,Colorado State Rams at Virginia Cavaliers,Virginia Cavaliers,Colorado State Rams,42,67,0.0
+401638579,2024-03-19T22:40Z,Wagner Seahawks at Howard Bison,Howard Bison,Wagner Seahawks,68,71,0.0
+401641101,2024-03-19T23:00Z,North Texas Mean Green at LSU Tigers,LSU Tigers,North Texas Mean Green,77,84,0.0
+401641100,2024-03-19T23:00Z,Boston College Eagles at Providence Friars,Providence Friars,Boston College Eagles,57,62,0.0
+401641099,2024-03-19T23:00Z,Xavier Musketeers at Georgia Bulldogs,Georgia Bulldogs,Xavier Musketeers,78,76,1.0
+401641097,2024-03-19T23:00Z,Cornell Big Red at Ohio State Buckeyes,Ohio State Buckeyes,Cornell Big Red,88,83,1.0
+401641102,2024-03-20T01:00Z,South Florida Bulls at UCF Knights,UCF Knights,South Florida Bulls,77,83,0.0
+401641098,2024-03-20T01:00Z,Richmond Spiders at Virginia Tech Hokies,Virginia Tech Hokies,Richmond Spiders,74,58,1.0
+401641096,2024-03-20T01:00Z,Minnesota Golden Gophers at Butler Bulldogs,Butler Bulldogs,Minnesota Golden Gophers,72,73,0.0
+401641095,2024-03-20T01:00Z,Kansas State Wildcats at Iowa Hawkeyes,Iowa Hawkeyes,Kansas State Wildcats,91,82,1.0
+401641094,2024-03-20T03:00Z,UC Irvine Anteaters at Utah Utes,Utah Utes,UC Irvine Anteaters,84,75,1.0
+401648804,2024-03-19T23:00Z,Texas Southern Tigers at Tarleton State Texans,Tarleton State Texans,Texas Southern Tigers,82,71,1.0
+401648805,2024-03-20T01:00Z,Abilene Christian Wildcats at Texas A&M-Corpus Christi Islanders,Texas A&M-Corpus Christi Islanders,Abilene Christian Wildcats,63,73,0.0
+401638582,2024-03-21T01:28Z,Colorado Buffaloes at Boise State Broncos,Boise State Broncos,Colorado Buffaloes,53,60,0.0
+401638581,2024-03-20T22:40Z,Grambling Tigers at Montana State Bobcats,Montana State Bobcats,Grambling Tigers,81,88,0.0
+401641109,2024-03-20T23:00Z,Saint Joseph's Hawks at Seton Hall Pirates,Seton Hall Pirates,Saint Joseph's Hawks,75,72,1.0
+401641106,2024-03-20T23:00Z,SMU Mustangs at Indiana State Sycamores,Indiana State Sycamores,SMU Mustangs,101,92,1.0
+401641105,2024-03-20T23:00Z,Loyola Chicago Ramblers at Bradley Braves,Bradley Braves,Loyola Chicago Ramblers,74,62,1.0
+401641108,2024-03-21T00:00Z,UNLV Rebels at Princeton Tigers,Princeton Tigers,UNLV Rebels,77,84,0.0
+401641107,2024-03-21T00:00Z,App State Mountaineers at Wake Forest Demon Deacons,Wake Forest Demon Deacons,App State Mountaineers,87,76,1.0
+401641104,2024-03-21T01:00Z,San Francisco Dons at Cincinnati Bearcats,Cincinnati Bearcats,San Francisco Dons,73,72,1.0
+401641103,2024-03-21T01:00Z,VCU Rams at Villanova Wildcats,Villanova Wildcats,VCU Rams,61,70,0.0
+401648807,2024-03-20T23:00Z,Purdue Fort Wayne Mastodons at Bowling Green Falcons,Bowling Green Falcons,Purdue Fort Wayne Mastodons,75,77,0.0
+401648806,2024-03-20T23:00Z,Abilene Christian Wildcats at Tarleton State Texans,Tarleton State Texans,Abilene Christian Wildcats,86,59,1.0
+401648808,2024-03-21T00:00Z,Alabama A&M Bulldogs at Austin Peay Governors,Austin Peay Governors,Alabama A&M Bulldogs,71,81,0.0
+401638586,2024-03-21T18:45Z,Wagner Seahawks at North Carolina Tar Heels,North Carolina Tar Heels,Wagner Seahawks,90,62,1.0
+401638583,2024-03-21T18:00Z,Long Beach State Beach at Arizona Wildcats,Arizona Wildcats,Long Beach State Beach,85,65,1.0
+401638595,2024-03-21T23:35Z,South Dakota State Jackrabbits at Iowa State Cyclones,Iowa State Cyclones,South Dakota State Jackrabbits,82,65,1.0
+401638587,2024-03-22T01:20Z,Saint Peter's Peacocks at Tennessee Volunteers,Tennessee Volunteers,Saint Peter's Peacocks,83,49,1.0
+401638589,2024-03-21T17:30Z,Akron Zips at Creighton Bluejays,Creighton Bluejays,Akron Zips,77,60,1.0
+401638597,2024-03-21T19:30Z,Morehead State Eagles at Illinois Fighting Illini,Illinois Fighting Illini,Morehead State Eagles,85,69,1.0
+401638593,2024-03-21T23:20Z,Oakland Golden Grizzlies at Kentucky Wildcats,Kentucky Wildcats,Oakland Golden Grizzlies,76,80,0.0
+401638591,2024-03-22T02:20Z,Samford Bulldogs at Kansas Jayhawks,Kansas Jayhawks,Samford Bulldogs,93,89,1.0
+401638592,2024-03-21T23:47Z,McNeese Cowboys at Gonzaga Bulldogs,Gonzaga Bulldogs,McNeese Cowboys,86,65,1.0
+401638598,2024-03-21T16:40Z,Duquesne Dukes at BYU Cougars,BYU Cougars,Duquesne Dukes,67,71,0.0
+401638590,2024-03-21T20:00Z,Oregon Ducks at South Carolina Gamecocks,South Carolina Gamecocks,Oregon Ducks,73,87,0.0
+401638594,2024-03-22T02:10Z,NC State Wolfpack at Texas Tech Red Raiders,Texas Tech Red Raiders,NC State Wolfpack,67,80,0.0
+401638584,2024-03-21T20:45Z,Nevada Wolf Pack at Dayton Flyers,Dayton Flyers,Nevada Wolf Pack,63,60,1.0
+401638588,2024-03-21T22:50Z,Colorado State Rams at Texas Longhorns,Texas Longhorns,Colorado State Rams,56,44,1.0
+401638596,2024-03-22T02:12Z,Drake Bulldogs at Washington State Cougars,Washington State Cougars,Drake Bulldogs,66,61,1.0
+401638585,2024-03-21T16:15Z,Michigan State Spartans at Mississippi State Bulldogs,Mississippi State Bulldogs,Michigan State Spartans,51,69,0.0
+401638599,2024-03-22T19:22Z,Stetson Hatters at UConn Huskies,UConn Huskies,Stetson Hatters,91,52,1.0
+401638601,2024-03-22T23:59Z,Grambling Tigers at Purdue Boilermakers,Purdue Boilermakers,Grambling Tigers,78,50,1.0
+401638600,2024-03-23T01:49Z,Longwood Lancers at Houston Cougars,Houston Cougars,Longwood Lancers,86,46,1.0
+401638607,2024-03-22T18:00Z,Western Kentucky Hilltoppers at Marquette Golden Eagles,Marquette Golden Eagles,Western Kentucky Hilltoppers,87,69,1.0
+401638602,2024-03-22T16:40Z,Colgate Raiders at Baylor Bears,Baylor Bears,Colgate Raiders,92,67,1.0
+401638612,2024-03-22T20:33Z,Yale Bulldogs at Auburn Tigers,Auburn Tigers,Yale Bulldogs,76,78,0.0
+401638609,2024-03-22T23:10Z,Vermont Catamounts at Duke Blue Devils,Duke Blue Devils,Vermont Catamounts,64,47,1.0
+401638604,2024-03-23T00:03Z,Charleston Cougars at Alabama Crimson Tide,Alabama Crimson Tide,Charleston Cougars,109,96,1.0
+401638613,2024-03-22T17:45Z,UAB Blazers at San Diego State Aztecs,San Diego State Aztecs,UAB Blazers,69,65,1.0
+401638610,2024-03-23T01:50Z,James Madison Dukes at Wisconsin Badgers,Wisconsin Badgers,James Madison Dukes,61,72,0.0
+401638605,2024-03-23T02:57Z,Grand Canyon Lopes at Saint Mary's Gaels,Saint Mary's Gaels,Grand Canyon Lopes,66,75,0.0
+401638603,2024-03-22T19:10Z,New Mexico Lobos at Clemson Tigers,Clemson Tigers,New Mexico Lobos,77,56,1.0
+401638608,2024-03-22T20:38Z,Colorado Buffaloes at Florida Gators,Florida Gators,Colorado Buffaloes,100,102,0.0
+401638614,2024-03-22T16:15Z,Northwestern Wildcats at Florida Atlantic Owls,Florida Atlantic Owls,Northwestern Wildcats,65,77,0.0
+401638611,2024-03-22T23:00Z,Texas A&M Aggies at Nebraska Cornhuskers,Nebraska Cornhuskers,Texas A&M Aggies,83,98,0.0
+401638606,2024-03-23T02:30Z,TCU Horned Frogs at Utah State Aggies,Utah State Aggies,TCU Horned Frogs,88,72,1.0
+401638622,2024-03-23T21:45Z,Michigan State Spartans at North Carolina Tar Heels,North Carolina Tar Heels,Michigan State Spartans,85,69,1.0
+401638621,2024-03-23T16:45Z,Dayton Flyers at Arizona Wildcats,Arizona Wildcats,Dayton Flyers,78,68,1.0
+401638616,2024-03-23T22:10Z,Washington State Cougars at Iowa State Cyclones,Iowa State Cyclones,Washington State Cougars,67,56,1.0
+401638619,2024-03-24T00:25Z,Texas Longhorns at Tennessee Volunteers,Tennessee Volunteers,Texas Longhorns,62,58,1.0
+401638615,2024-03-24T00:49Z,Duquesne Dukes at Illinois Fighting Illini,Illinois Fighting Illini,Duquesne Dukes,89,63,1.0
+401638618,2024-03-24T02:03Z,Oregon Ducks at Creighton Bluejays,Creighton Bluejays,Oregon Ducks,86,73,1.0
+401638617,2024-03-23T19:33Z,Gonzaga Bulldogs at Kansas Jayhawks,Kansas Jayhawks,Gonzaga Bulldogs,68,89,0.0
+401638620,2024-03-23T23:10Z,Oakland Golden Grizzlies at NC State Wolfpack,NC State Wolfpack,Oakland Golden Grizzlies,79,73,1.0
+401641113,2024-03-23T15:30Z,North Texas Mean Green at Seton Hall Pirates,Seton Hall Pirates,North Texas Mean Green,72,58,1.0
+401641111,2024-03-23T18:00Z,Bradley Braves at Cincinnati Bearcats,Cincinnati Bearcats,Bradley Braves,74,57,1.0
+401641112,2024-03-23T23:00Z,Virginia Tech Hokies at Ohio State Buckeyes,Ohio State Buckeyes,Virginia Tech Hokies,81,73,1.0
+401641081,2024-03-23T17:00Z,Arkansas State Red Wolves at Bethune-Cookman Wildcats,Bethune-Cookman Wildcats,Arkansas State Red Wolves,85,86,0.0
+401641083,2024-03-23T19:30Z,UC San Diego Tritons at Chicago State Cougars,Chicago State Cougars,UC San Diego Tritons,77,75,1.0
+401641085,2024-03-23T21:50Z,Seattle U Redhawks at Delaware State Hornets,Delaware State Hornets,Seattle U Redhawks,66,79,0.0
+401648809,2024-03-23T20:00Z,Alabama A&M Bulldogs at Norfolk State Spartans,Norfolk State Spartans,Alabama A&M Bulldogs,81,66,1.0
+401638628,2024-03-24T18:47Z,Utah State Aggies at Purdue Boilermakers,Purdue Boilermakers,Utah State Aggies,106,67,1.0
+401638630,2024-03-24T23:45Z,Northwestern Wildcats at UConn Huskies,UConn Huskies,Northwestern Wildcats,75,58,1.0
+401638626,2024-03-25T00:40Z,Texas A&M Aggies at Houston Cougars,Houston Cougars,Texas A&M Aggies,100,95,1.0
+401638625,2024-03-24T16:10Z,Colorado Buffaloes at Marquette Golden Eagles,Marquette Golden Eagles,Colorado Buffaloes,81,77,1.0
+401638624,2024-03-24T22:10Z,Clemson Tigers at Baylor Bears,Baylor Bears,Clemson Tigers,64,72,0.0
+401638627,2024-03-24T21:15Z,James Madison Dukes at Duke Blue Devils,Duke Blue Devils,James Madison Dukes,93,55,1.0
+401638623,2024-03-24T23:10Z,Grand Canyon Lopes at Alabama Crimson Tide,Alabama Crimson Tide,Grand Canyon Lopes,72,61,1.0
+401638629,2024-03-25T02:12Z,Yale Bulldogs at San Diego State Aztecs,San Diego State Aztecs,Yale Bulldogs,85,57,1.0
+401641110,2024-03-24T18:00Z,Minnesota Golden Gophers at Indiana State Sycamores,Indiana State Sycamores,Minnesota Golden Gophers,76,64,1.0
+401641117,2024-03-24T20:00Z,Georgia Bulldogs at Wake Forest Demon Deacons,Wake Forest Demon Deacons,Georgia Bulldogs,66,72,0.0
+401641116,2024-03-24T23:30Z,VCU Rams at South Florida Bulls,South Florida Bulls,VCU Rams,65,70,0.0
+401641115,2024-03-25T01:00Z,Iowa Hawkeyes at Utah Utes,Utah Utes,Iowa Hawkeyes,91,82,1.0
+401641114,2024-03-25T01:30Z,Boston College Eagles at UNLV Rebels,UNLV Rebels,Boston College Eagles,79,70,1.0
+401641080,2024-03-24T15:00Z,Northern Colorado Bears at Cleveland State Vikings,Cleveland State Vikings,Northern Colorado Bears,51,49,1.0
+401641082,2024-03-24T17:10Z,Montana Grizzlies at Presbyterian Blue Hose,Presbyterian Blue Hose,Montana Grizzlies,79,82,0.0
+401641084,2024-03-24T19:45Z,Fairfield Stags at Little Rock Trojans,Little Rock Trojans,Fairfield Stags,75,82,0.0
+401641086,2024-03-24T21:50Z,Quinnipiac Bobcats at Evansville Purple Aces,Evansville Purple Aces,Quinnipiac Bobcats,64,63,1.0
+401641087,2024-03-25T16:00Z,High Point Panthers at Cleveland State Vikings,Cleveland State Vikings,High Point Panthers,74,93,0.0
+401641088,2024-03-25T18:00Z,Arkansas State Red Wolves at Montana Grizzlies,Montana Grizzlies,Arkansas State Red Wolves,61,74,0.0
+401641089,2024-03-25T20:30Z,Fairfield Stags at Chicago State Cougars,Chicago State Cougars,Fairfield Stags,74,77,0.0
+401641090,2024-03-25T22:45Z,Seattle U Redhawks at Evansville Purple Aces,Evansville Purple Aces,Seattle U Redhawks,57,71,0.0
+401649396,2024-03-25T23:00Z,Purdue Fort Wayne Mastodons at Tarleton State Texans,Tarleton State Texans,Purdue Fort Wayne Mastodons,72,73,0.0
+401641119,2024-03-26T23:00Z,Georgia Bulldogs at Ohio State Buckeyes,Ohio State Buckeyes,Georgia Bulldogs,77,79,0.0
+401641118,2024-03-27T01:00Z,Cincinnati Bearcats at Indiana State Sycamores,Indiana State Sycamores,Cincinnati Bearcats,85,81,1.0
+401641091,2024-03-26T23:00Z,High Point Panthers at Arkansas State Red Wolves,Arkansas State Red Wolves,High Point Panthers,80,81,0.0
+401641092,2024-03-27T01:34Z,Seattle U Redhawks at Fairfield Stags,Fairfield Stags,Seattle U Redhawks,58,75,0.0
+401641121,2024-03-27T23:00Z,UNLV Rebels at Seton Hall Pirates,Seton Hall Pirates,UNLV Rebels,91,68,1.0
+401641120,2024-03-28T01:00Z,VCU Rams at Utah Utes,Utah Utes,VCU Rams,74,54,1.0
+401641093,2024-03-27T21:00Z,High Point Panthers at Seattle U Redhawks,Seattle U Redhawks,High Point Panthers,77,67,1.0
+401651586,2024-03-27T23:00Z,Purdue Fort Wayne Mastodons at Norfolk State Spartans,Norfolk State Spartans,Purdue Fort Wayne Mastodons,75,67,1.0
+401638633,2024-03-28T23:39Z,San Diego State Aztecs at UConn Huskies,UConn Huskies,San Diego State Aztecs,82,52,1.0
+401638632,2024-03-29T01:54Z,Alabama Crimson Tide at North Carolina Tar Heels,North Carolina Tar Heels,Alabama Crimson Tide,87,89,0.0
+401638631,2024-03-28T23:09Z,Clemson Tigers at Arizona Wildcats,Arizona Wildcats,Clemson Tigers,72,77,0.0
+401638634,2024-03-29T02:14Z,Illinois Fighting Illini at Iowa State Cyclones,Iowa State Cyclones,Illinois Fighting Illini,69,72,0.0
+401638635,2024-03-29T23:39Z,Gonzaga Bulldogs at Purdue Boilermakers,Purdue Boilermakers,Gonzaga Bulldogs,80,68,1.0
+401638638,2024-03-30T01:59Z,Duke Blue Devils at Houston Cougars,Houston Cougars,Duke Blue Devils,51,54,0.0
+401638637,2024-03-29T23:09Z,NC State Wolfpack at Marquette Golden Eagles,Marquette Golden Eagles,NC State Wolfpack,58,67,0.0
+401638636,2024-03-30T02:10Z,Creighton Bluejays at Tennessee Volunteers,Tennessee Volunteers,Creighton Bluejays,82,75,1.0
+401638639,2024-03-30T22:09Z,Illinois Fighting Illini at UConn Huskies,UConn Huskies,Illinois Fighting Illini,77,52,1.0
+401638640,2024-03-31T00:49Z,Clemson Tigers at Alabama Crimson Tide,Alabama Crimson Tide,Clemson Tigers,89,82,1.0
+401638642,2024-03-31T18:20Z,Tennessee Volunteers at Purdue Boilermakers,Purdue Boilermakers,Tennessee Volunteers,72,66,1.0
+401638641,2024-03-31T21:05Z,NC State Wolfpack at Duke Blue Devils,Duke Blue Devils,NC State Wolfpack,64,76,0.0

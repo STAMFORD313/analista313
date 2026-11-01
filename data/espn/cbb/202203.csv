@@ -1,0 +1,636 @@
+id,date,event,home,away,hs,as,res
+401413411,2022-03-02T04:00Z,Arizona Wildcats at USC Trojans,USC Trojans,Arizona Wildcats,71,91,0.0
+401369997,2022-03-02T01:00Z,Duke Blue Devils at Pittsburgh Panthers,Pittsburgh Panthers,Duke Blue Devils,56,86,0.0
+401368434,2022-03-02T01:00Z,Kansas Jayhawks at TCU Horned Frogs,TCU Horned Frogs,Kansas Jayhawks,74,64,1.0
+401364960,2022-03-02T00:00Z,Ole Miss Rebels at Kentucky Wildcats,Kentucky Wildcats,Ole Miss Rebels,83,72,1.0
+401364469,2022-03-02T02:00Z,Purdue Boilermakers at Wisconsin Badgers,Wisconsin Badgers,Purdue Boilermakers,70,67,1.0
+401373611,2022-03-01T23:30Z,Providence Friars at Villanova Wildcats,Villanova Wildcats,Providence Friars,76,74,1.0
+401364959,2022-03-01T23:30Z,Tennessee Volunteers at Georgia Bulldogs,Georgia Bulldogs,Tennessee Volunteers,68,75,0.0
+401407948,2022-03-02T02:00Z,Cincinnati Bearcats at Houston Cougars,Houston Cougars,Cincinnati Bearcats,71,53,1.0
+401413556,2022-03-02T00:00Z,Nebraska Cornhuskers at Ohio State Buckeyes,Ohio State Buckeyes,Nebraska Cornhuskers,70,78,0.0
+401365866,2022-03-01T23:30Z,Dayton Flyers at Richmond Spiders,Richmond Spiders,Dayton Flyers,53,55,0.0
+401405859,2022-03-02T00:00Z,Green Bay Phoenix at Detroit Mercy Titans,Detroit Mercy Titans,Green Bay Phoenix,79,62,1.0
+401405858,2022-03-02T00:00Z,Robert Morris Colonials at Youngstown State Penguins,Youngstown State Penguins,Robert Morris Colonials,73,77,0.0
+401403444,2022-03-02T00:00Z,American University Eagles at Holy Cross Crusaders,Holy Cross Crusaders,American University Eagles,63,69,0.0
+401403443,2022-03-02T00:00Z,Bucknell Bison at Lafayette Leopards,Lafayette Leopards,Bucknell Bison,81,82,0.0
+401403387,2022-03-02T00:00Z,Stetson Hatters at Central Arkansas Bears,Central Arkansas Bears,Stetson Hatters,74,73,1.0
+401403386,2022-03-02T00:00Z,Eastern Kentucky Colonels at Kennesaw State Owls,Kennesaw State Owls,Eastern Kentucky Colonels,82,73,1.0
+401403385,2022-03-02T00:00Z,North Alabama Lions at Florida Gulf Coast Eagles,Florida Gulf Coast Eagles,North Alabama Lions,81,72,1.0
+401402797,2022-03-02T00:00Z,Saint Peter's Peacocks at Manhattan Jaspers,Manhattan Jaspers,Saint Peter's Peacocks,51,73,0.0
+401369716,2022-03-02T00:00Z,Vermont Catamounts at Maine Black Bears,Maine Black Bears,Vermont Catamounts,56,75,0.0
+401369715,2022-03-02T00:00Z,NJIT Highlanders at Stony Brook Seawolves,Stony Brook Seawolves,NJIT Highlanders,87,68,1.0
+401369714,2022-03-02T00:00Z,New Hampshire Wildcats at UMass Lowell River Hawks,UMass Lowell River Hawks,New Hampshire Wildcats,48,64,0.0
+401369713,2022-03-02T00:00Z,Hartford Hawks at UAlbany Great Danes,UAlbany Great Danes,Hartford Hawks,55,67,0.0
+401369712,2022-03-02T00:00Z,Binghamton Bearcats at UMBC Retrievers,UMBC Retrievers,Binghamton Bearcats,78,68,1.0
+401368435,2022-03-02T00:00Z,West Virginia Mountaineers at Oklahoma Sooners,Oklahoma Sooners,West Virginia Mountaineers,72,59,1.0
+401365192,2022-03-02T00:00Z,Western Michigan Broncos at Eastern Michigan Eagles,Eastern Michigan Eagles,Western Michigan Broncos,60,71,0.0
+401365191,2022-03-02T00:00Z,Ohio Bobcats at Bowling Green Falcons,Bowling Green Falcons,Ohio Bobcats,80,77,1.0
+401365189,2022-03-02T00:00Z,Akron Zips at Ball State Cardinals,Ball State Cardinals,Akron Zips,60,79,0.0
+401365188,2022-03-02T00:00Z,Toledo Rockets at Buffalo Bulls,Buffalo Bulls,Toledo Rockets,76,92,0.0
+401365187,2022-03-02T00:00Z,Miami (OH) RedHawks at Central Michigan Chippewas,Central Michigan Chippewas,Miami (OH) RedHawks,61,75,0.0
+401364961,2022-03-02T00:00Z,Missouri Tigers at South Carolina Gamecocks,South Carolina Gamecocks,Missouri Tigers,73,69,1.0
+401405861,2022-03-02T01:00Z,IU Indianapolis Jaguars at Oakland Golden Grizzlies,Oakland Golden Grizzlies,IU Indianapolis Jaguars,70,58,1.0
+401405860,2022-03-02T01:00Z,UIC Flames at Milwaukee Panthers,Milwaukee Panthers,UIC Flames,69,80,0.0
+401403384,2022-03-02T01:00Z,North Florida Ospreys at Lipscomb Bisons,Lipscomb Bisons,North Florida Ospreys,74,65,1.0
+401365190,2022-03-02T01:00Z,Kent State Golden Flashes at Northern Illinois Huskies,Northern Illinois Huskies,Kent State Golden Flashes,55,63,0.0
+401412488,2022-03-02T01:30Z,Michigan State Spartans at Michigan Wolverines,Michigan Wolverines,Michigan State Spartans,87,70,1.0
+401365867,2022-03-02T01:30Z,St. Bonaventure Bonnies at VCU Rams,VCU Rams,St. Bonaventure Bonnies,74,51,1.0
+401364962,2022-03-02T01:30Z,Florida Gators at Vanderbilt Commodores,Vanderbilt Commodores,Florida Gators,78,82,0.0
+401414990,2022-03-02T02:00Z,Southern Utah Thunderbirds at Montana State Bobcats,Montana State Bobcats,Southern Utah Thunderbirds,69,53,1.0
+401370035,2022-03-02T02:00Z,Louisville Cardinals at Virginia Tech Hokies,Virginia Tech Hokies,Louisville Cardinals,75,43,1.0
+401364802,2022-03-02T02:00Z,Nevada Wolf Pack at Boise State Broncos,Boise State Broncos,Nevada Wolf Pack,73,67,1.0
+401364801,2022-03-02T02:00Z,San José State Spartans at Air Force Falcons,Air Force Falcons,San José State Spartans,58,54,1.0
+401373747,2022-03-02T03:00Z,Cal State Northridge Matadors at UC Santa Barbara Gauchos,UC Santa Barbara Gauchos,Cal State Northridge Matadors,70,61,1.0
+401364964,2022-03-03T02:00Z,Auburn Tigers at Mississippi State Bulldogs,Mississippi State Bulldogs,Auburn Tigers,68,81,0.0
+401364965,2022-03-03T02:00Z,LSU Tigers at Arkansas Razorbacks,Arkansas Razorbacks,LSU Tigers,77,76,1.0
+401373614,2022-03-03T01:30Z,UConn Huskies at Creighton Bluejays,Creighton Bluejays,UConn Huskies,64,62,1.0
+401364963,2022-03-03T00:00Z,Texas A&M Aggies at Alabama Crimson Tide,Alabama Crimson Tide,Texas A&M Aggies,71,87,0.0
+401405846,2022-03-02T16:30Z,North Carolina A&T Aggies at Radford Highlanders,Radford Highlanders,North Carolina A&T Aggies,71,78,0.0
+401405847,2022-03-02T19:25Z,Charleston Southern Buccaneers at UNC Asheville Bulldogs,UNC Asheville Bulldogs,Charleston Southern Buccaneers,78,79,0.0
+401405848,2022-03-02T23:00Z,Hampton Pirates at High Point Panthers,High Point Panthers,Hampton Pirates,84,77,1.0
+401373612,2022-03-02T23:30Z,Xavier Musketeers at St. John's Red Storm,St. John's Red Storm,Xavier Musketeers,81,66,1.0
+401411739,2022-03-03T00:00Z,Central Connecticut Blue Devils at Bryant Bulldogs,Bryant Bulldogs,Central Connecticut Blue Devils,73,59,1.0
+401411738,2022-03-03T00:00Z,Saint Francis Red Wolves at Wagner Seahawks,Wagner Seahawks,Saint Francis Red Wolves,82,53,1.0
+401411737,2022-03-03T00:00Z,Sacred Heart Pioneers at Long Island University Sharks,Long Island University Sharks,Sacred Heart Pioneers,82,75,1.0
+401411736,2022-03-03T00:00Z,St. Francis Brooklyn Terriers at Mount St. Mary's Mountaineers,Mount St. Mary's Mountaineers,St. Francis Brooklyn Terriers,78,48,1.0
+401373613,2022-03-03T00:00Z,Georgetown Hoyas at Seton Hall Pirates,Seton Hall Pirates,Georgetown Hoyas,73,68,1.0
+401372743,2022-03-03T00:00Z,Western Kentucky Hilltoppers at Marshall Thundering Herd,Marshall Thundering Herd,Western Kentucky Hilltoppers,72,86,0.0
+401372722,2022-03-03T00:00Z,Old Dominion Monarchs at Louisiana Tech Bulldogs,Louisiana Tech Bulldogs,Old Dominion Monarchs,67,54,1.0
+401372672,2022-03-03T00:00Z,Middle Tennessee Blue Raiders at Charlotte 49ers,Charlotte 49ers,Middle Tennessee Blue Raiders,60,56,1.0
+401369941,2022-03-03T00:00Z,Georgia Tech Yellow Jackets at Clemson Tigers,Clemson Tigers,Georgia Tech Yellow Jackets,68,65,1.0
+401369887,2022-03-03T00:00Z,Notre Dame Fighting Irish at Florida State Seminoles,Florida State Seminoles,Notre Dame Fighting Irish,74,70,1.0
+401368436,2022-03-03T00:00Z,Oklahoma State Cowboys at Iowa State Cyclones,Iowa State Cyclones,Oklahoma State Cowboys,36,53,0.0
+401365872,2022-03-03T00:00Z,Saint Louis Billikens at Rhode Island Rams,Rhode Island Rams,Saint Louis Billikens,74,80,0.0
+401365871,2022-03-03T00:00Z,Saint Joseph's Hawks at La Salle Explorers,La Salle Explorers,Saint Joseph's Hawks,49,48,1.0
+401365870,2022-03-03T00:00Z,Fordham Rams at Massachusetts Minutemen,Massachusetts Minutemen,Fordham Rams,81,73,1.0
+401365869,2022-03-03T00:00Z,Duquesne Dukes at George Washington Revolutionaries,George Washington Revolutionaries,Duquesne Dukes,98,93,1.0
+401365868,2022-03-03T00:00Z,George Mason Patriots at Davidson Wildcats,Davidson Wildcats,George Mason Patriots,73,62,1.0
+401364471,2022-03-03T00:00Z,Rutgers Scarlet Knights at Indiana Hoosiers,Indiana Hoosiers,Rutgers Scarlet Knights,63,66,0.0
+401405876,2022-03-03T00:30Z,SIU Edwardsville Cougars at Tennessee State Tigers,Tennessee State Tigers,SIU Edwardsville Cougars,77,62,1.0
+401372818,2022-03-03T01:00Z,UAB Blazers at Southern Miss Golden Eagles,Southern Miss Golden Eagles,UAB Blazers,68,81,0.0
+401371684,2022-03-03T01:00Z,Houston Christian Huskies at LSU New Orleans Privateers,LSU New Orleans Privateers,Houston Christian Huskies,75,74,1.0
+401371552,2022-03-03T01:00Z,UT Rio Grande Valley Vaqueros at Lamar Cardinals,Lamar Cardinals,UT Rio Grande Valley Vaqueros,63,67,0.0
+401371685,2022-03-03T01:30Z,Nicholls Colonels at Texas A&M-Corpus Christi Islanders,Texas A&M-Corpus Christi Islanders,Nicholls Colonels,75,86,0.0
+401405849,2022-03-03T02:00Z,Presbyterian Blue Hose at Campbell Fighting Camels,Campbell Fighting Camels,Presbyterian Blue Hose,75,72,1.0
+401377779,2022-03-03T02:00Z,Wichita State Shockers at Tulsa Golden Hurricane,Tulsa Golden Hurricane,Wichita State Shockers,62,72,0.0
+401373615,2022-03-03T02:00Z,Marquette Golden Eagles at DePaul Blue Demons,DePaul Blue Demons,Marquette Golden Eagles,91,80,1.0
+401371549,2022-03-03T02:00Z,Stephen F. Austin Lumberjacks at New Mexico State Aggies,New Mexico State Aggies,Stephen F. Austin Lumberjacks,71,73,0.0
+401370072,2022-03-03T02:00Z,NC State Wolfpack at Wake Forest Demon Deacons,Wake Forest Demon Deacons,NC State Wolfpack,101,76,1.0
+401369924,2022-03-03T02:00Z,Miami Hurricanes at Boston College Eagles,Boston College Eagles,Miami Hurricanes,70,81,0.0
+401364470,2022-03-03T02:00Z,Minnesota Golden Gophers at Maryland Terrapins,Maryland Terrapins,Minnesota Golden Gophers,84,73,1.0
+401408143,2022-03-03T03:00Z,Chicago State Cougars at California Baptist Lancers,California Baptist Lancers,Chicago State Cougars,62,53,1.0
+401405877,2022-03-03T03:00Z,Tennessee Tech Golden Eagles at Austin Peay Governors,Austin Peay Governors,Tennessee Tech Golden Eagles,51,78,0.0
+401364798,2022-03-03T03:30Z,Wyoming Cowboys at UNLV Rebels,UNLV Rebels,Wyoming Cowboys,64,57,1.0
+401377485,2022-03-04T02:00Z,Stanford Cardinal at Arizona Wildcats,Arizona Wildcats,Stanford Cardinal,81,69,1.0
+401412470,2022-03-04T01:00Z,TCU Horned Frogs at Kansas Jayhawks,Kansas Jayhawks,TCU Horned Frogs,72,68,1.0
+401377782,2022-03-04T00:00Z,Temple Owls at Houston Cougars,Houston Cougars,Temple Owls,84,46,1.0
+401364474,2022-03-04T00:00Z,Penn State Nittany Lions at Illinois Fighting Illini,Illinois Fighting Illini,Penn State Nittany Lions,60,55,1.0
+401364473,2022-03-04T00:00Z,Michigan State Spartans at Ohio State Buckeyes,Ohio State Buckeyes,Michigan State Spartans,80,69,1.0
+401364472,2022-03-04T02:00Z,Iowa Hawkeyes at Michigan Wolverines,Michigan Wolverines,Iowa Hawkeyes,71,82,0.0
+401403472,2022-03-03T17:30Z,UT Arlington Mavericks at Louisiana Ragin' Cajuns,Louisiana Ragin' Cajuns,UT Arlington Mavericks,67,64,1.0
+401403473,2022-03-03T20:20Z,Little Rock Trojans at South Alabama Jaguars,South Alabama Jaguars,Little Rock Trojans,71,75,0.0
+401415714,2022-03-03T23:00Z,UMass Lowell River Hawks at Hartford Hawks,Hartford Hawks,UMass Lowell River Hawks,73,83,0.0
+401403474,2022-03-03T23:00Z,UL Monroe Warhawks at Arkansas State Red Wolves,Arkansas State Red Wolves,UL Monroe Warhawks,81,77,1.0
+401405865,2022-03-04T00:00Z,UIC Flames at Purdue Fort Wayne Mastodons,Purdue Fort Wayne Mastodons,UIC Flames,78,72,1.0
+401405864,2022-03-04T00:00Z,Detroit Mercy Titans at Northern Kentucky Norse,Northern Kentucky Norse,Detroit Mercy Titans,77,59,1.0
+401405863,2022-03-04T00:00Z,Oakland Golden Grizzlies at Wright State Raiders,Wright State Raiders,Oakland Golden Grizzlies,75,63,1.0
+401403448,2022-03-04T00:00Z,Bucknell Bison at Colgate Raiders,Colgate Raiders,Bucknell Bison,96,68,1.0
+401403447,2022-03-04T00:00Z,American University Eagles at Navy Midshipmen,Navy Midshipmen,American University Eagles,71,64,1.0
+401403446,2022-03-04T00:00Z,Loyola Maryland Greyhounds at Boston University Terriers,Boston University Terriers,Loyola Maryland Greyhounds,76,64,1.0
+401403445,2022-03-04T00:00Z,Army Black Knights at Lehigh Mountain Hawks,Lehigh Mountain Hawks,Army Black Knights,91,77,1.0
+401403434,2022-03-04T00:00Z,Indiana State Sycamores at Illinois State Redbirds,Illinois State Redbirds,Indiana State Sycamores,58,53,1.0
+401403391,2022-03-04T00:00Z,Central Arkansas Bears at Jacksonville Dolphins,Jacksonville Dolphins,Central Arkansas Bears,79,69,1.0
+401403390,2022-03-04T00:00Z,Kennesaw State Owls at Jacksonville State Gamecocks,Jacksonville State Gamecocks,Kennesaw State Owls,78,67,1.0
+401403389,2022-03-04T00:00Z,Florida Gulf Coast Eagles at Bellarmine Knights,Bellarmine Knights,Florida Gulf Coast Eagles,81,68,1.0
+401403388,2022-03-04T00:00Z,Lipscomb Bisons at Liberty Flames,Liberty Flames,Lipscomb Bisons,52,47,1.0
+401377780,2022-03-04T00:00Z,Cincinnati Bearcats at SMU Mustangs,SMU Mustangs,Cincinnati Bearcats,76,71,1.0
+401373765,2022-03-04T00:00Z,Florida Atlantic Owls at Florida International Panthers,Florida International Panthers,Florida Atlantic Owls,51,71,0.0
+401365401,2022-03-04T00:00Z,Quinnipiac Bobcats at Monmouth Hawks,Monmouth Hawks,Quinnipiac Bobcats,75,72,1.0
+401365400,2022-03-04T00:00Z,Iona Gaels at Manhattan Jaspers,Manhattan Jaspers,Iona Gaels,74,72,1.0
+401365399,2022-03-04T00:00Z,Siena Saints at Niagara Purple Eagles,Niagara Purple Eagles,Siena Saints,74,52,1.0
+401365398,2022-03-04T00:00Z,Marist Red Foxes at Canisius Golden Griffins,Canisius Golden Griffins,Marist Red Foxes,78,67,1.0
+401405878,2022-03-04T00:30Z,Tennessee State Tigers at Southeast Missouri State Redhawks,Southeast Missouri State Redhawks,Tennessee State Tigers,79,55,1.0
+401381915,2022-03-04T00:30Z,South Carolina State Bulldogs at North Carolina Central Eagles,North Carolina Central Eagles,South Carolina State Bulldogs,67,62,1.0
+401381696,2022-03-04T00:30Z,Howard Bison at Norfolk State Spartans,Norfolk State Spartans,Howard Bison,83,61,1.0
+401373784,2022-03-04T00:30Z,Morgan State Bears at Coppin State Eagles,Coppin State Eagles,Morgan State Bears,59,63,0.0
+401373065,2022-03-04T00:30Z,Delaware State Hornets at Maryland Eastern Shore Hawks,Maryland Eastern Shore Hawks,Delaware State Hornets,63,59,1.0
+401371551,2022-03-04T00:30Z,Tarleton State Texans at Sam Houston Bearkats,Sam Houston Bearkats,Tarleton State Texans,69,50,1.0
+401365397,2022-03-04T00:30Z,Rider Broncs at Fairfield Stags,Fairfield Stags,Rider Broncs,65,59,1.0
+401405862,2022-03-04T01:00Z,Robert Morris Colonials at Cleveland State Vikings,Cleveland State Vikings,Robert Morris Colonials,83,67,1.0
+401377783,2022-03-04T01:00Z,UCF Knights at Tulane Green Wave,Tulane Green Wave,UCF Knights,82,67,1.0
+401377484,2022-03-04T01:00Z,California Golden Bears at Arizona State Sun Devils,Arizona State Sun Devils,California Golden Bears,71,44,1.0
+401373172,2022-03-04T01:00Z,Grambling Tigers at Alabama A&M Bulldogs,Alabama A&M Bulldogs,Grambling Tigers,71,63,1.0
+401372777,2022-03-04T01:00Z,North Texas Mean Green at UTSA Roadrunners,UTSA Roadrunners,North Texas Mean Green,48,59,0.0
+401371550,2022-03-04T01:00Z,Utah Tech Trailblazers at Abilene Christian Wildcats,Abilene Christian Wildcats,Utah Tech Trailblazers,80,64,1.0
+401403475,2022-03-04T01:30Z,Georgia Southern Eagles at Coastal Carolina Chanticleers,Coastal Carolina Chanticleers,Georgia Southern Eagles,64,70,0.0
+401376586,2022-03-04T01:30Z,Arkansas-Pine Bluff Golden Lions at Jackson State Tigers,Jackson State Tigers,Arkansas-Pine Bluff Golden Lions,87,79,1.0
+401373131,2022-03-04T01:30Z,Mississippi Valley State Delta Devils at Alcorn State Braves,Alcorn State Braves,Mississippi Valley State Delta Devils,72,69,1.0
+401403483,2022-03-04T02:00Z,Pacific Tigers at Loyola Marymount Lions,Loyola Marymount Lions,Pacific Tigers,86,66,1.0
+401382341,2022-03-04T02:00Z,Southern Jaguars at Alabama State Hornets,Alabama State Hornets,Southern Jaguars,77,67,1.0
+401377781,2022-03-04T02:00Z,Memphis Tigers at South Florida Bulls,South Florida Bulls,Memphis Tigers,64,73,0.0
+401372802,2022-03-04T02:00Z,Rice Owls at UTEP Miners,UTEP Miners,Rice Owls,70,67,1.0
+401372542,2022-03-04T02:00Z,Sacramento State Hornets at Montana State Bobcats,Montana State Bobcats,Sacramento State Hornets,75,69,1.0
+401372521,2022-03-04T02:00Z,Northern Colorado Bears at Montana Grizzlies,Montana Grizzlies,Northern Colorado Bears,66,75,0.0
+401372503,2022-03-04T02:00Z,Southern Utah Thunderbirds at Idaho State Bengals,Idaho State Bengals,Southern Utah Thunderbirds,71,79,0.0
+401372457,2022-03-04T02:00Z,Portland State Vikings at Idaho Vandals,Idaho Vandals,Portland State Vikings,68,79,0.0
+401372433,2022-03-04T02:00Z,Northern Arizona Lumberjacks at Eastern Washington Eagles,Eastern Washington Eagles,Northern Arizona Lumberjacks,69,62,1.0
+401371553,2022-03-04T02:00Z,Utah Valley Wolverines at Grand Canyon Lopes,Grand Canyon Lopes,Utah Valley Wolverines,68,57,1.0
+401403435,2022-03-04T02:30Z,Evansville Purple Aces at Valparaiso Beacons,Valparaiso Beacons,Evansville Purple Aces,81,59,1.0
+401405879,2022-03-04T03:00Z,Tennessee Tech Golden Eagles at Morehead State Eagles,Morehead State Eagles,Tennessee Tech Golden Eagles,73,56,1.0
+401377486,2022-03-04T03:00Z,Oregon Ducks at Washington Huskies,Washington Huskies,Oregon Ducks,78,67,1.0
+401373752,2022-03-04T03:00Z,UC Davis Aggies at Long Beach State Beach,Long Beach State Beach,UC Davis Aggies,68,65,1.0
+401373751,2022-03-04T03:00Z,Hawai'i Rainbow Warriors at UC Santa Barbara Gauchos,UC Santa Barbara Gauchos,Hawai'i Rainbow Warriors,67,60,1.0
+401373750,2022-03-04T03:00Z,UC San Diego Tritons at Cal State Bakersfield Roadrunners,Cal State Bakersfield Roadrunners,UC San Diego Tritons,70,72,0.0
+401373749,2022-03-04T03:00Z,UC Irvine Anteaters at Cal Poly Mustangs,Cal Poly Mustangs,UC Irvine Anteaters,65,54,1.0
+401410968,2022-03-04T04:00Z,Fresno State Bulldogs at San Diego State Aztecs,San Diego State Aztecs,Fresno State Bulldogs,65,64,1.0
+401377487,2022-03-04T04:00Z,Oregon State Beavers at Washington State Cougars,Washington State Cougars,Oregon State Beavers,71,67,1.0
+401373748,2022-03-04T04:00Z,UC Riverside Highlanders at Cal State Fullerton Titans,Cal State Fullerton Titans,UC Riverside Highlanders,72,75,0.0
+401403484,2022-03-04T04:30Z,Pepperdine Waves at San Diego Toreros,San Diego Toreros,Pepperdine Waves,74,67,1.0
+401405850,2022-03-04T17:00Z,North Carolina A&T Aggies at Longwood Lancers,Longwood Lancers,North Carolina A&T Aggies,79,65,1.0
+401403436,2022-03-04T18:00Z,Illinois State Redbirds at Northern Iowa Panthers,Northern Iowa Panthers,Illinois State Redbirds,78,65,1.0
+401405851,2022-03-04T19:51Z,Charleston Southern Buccaneers at South Carolina Upstate Spartans,South Carolina Upstate Spartans,Charleston Southern Buccaneers,72,62,1.0
+401403437,2022-03-04T20:30Z,Bradley Braves at Loyola Chicago Ramblers,Loyola Chicago Ramblers,Bradley Braves,66,50,1.0
+401403323,2022-03-04T22:00Z,The Citadel Bulldogs at East Tennessee State Buccaneers,East Tennessee State Buccaneers,The Citadel Bulldogs,76,84,0.0
+401405852,2022-03-04T23:00Z,High Point Panthers at Winthrop Eagles,Winthrop Eagles,High Point Panthers,68,51,1.0
+401365194,2022-03-04T23:00Z,Ball State Cardinals at Western Michigan Broncos,Western Michigan Broncos,Ball State Cardinals,63,64,0.0
+401365193,2022-03-04T23:00Z,Buffalo Bulls at Kent State Golden Flashes,Kent State Golden Flashes,Buffalo Bulls,70,65,1.0
+401365196,2022-03-04T23:30Z,Bowling Green Falcons at Toledo Rockets,Toledo Rockets,Bowling Green Falcons,96,56,1.0
+401403438,2022-03-05T00:00Z,Valparaiso Beacons at Missouri State Bears,Missouri State Bears,Valparaiso Beacons,67,58,1.0
+401365873,2022-03-05T00:00Z,Richmond Spiders at St. Bonaventure Bonnies,St. Bonaventure Bonnies,Richmond Spiders,72,65,1.0
+401365197,2022-03-05T00:00Z,Eastern Michigan Eagles at Miami (OH) RedHawks,Miami (OH) RedHawks,Eastern Michigan Eagles,76,63,1.0
+401365195,2022-03-05T00:00Z,Central Michigan Chippewas at Akron Zips,Akron Zips,Central Michigan Chippewas,57,56,1.0
+401403324,2022-03-05T00:45Z,Western Carolina Catamounts at Mercer Bears,Mercer Bears,Western Carolina Catamounts,81,53,1.0
+401405880,2022-03-05T01:00Z,Southeast Missouri State Redhawks at Murray State Racers,Murray State Racers,Southeast Missouri State Redhawks,88,74,1.0
+401365198,2022-03-05T01:00Z,Ohio Bobcats at Northern Illinois Huskies,Northern Illinois Huskies,Ohio Bobcats,58,57,1.0
+401405853,2022-03-05T01:30Z,Campbell Fighting Camels at Gardner-Webb Runnin' Bulldogs,Gardner-Webb Runnin' Bulldogs,Campbell Fighting Camels,54,53,1.0
+401403485,2022-03-05T02:00Z,Loyola Marymount Lions at BYU Cougars,BYU Cougars,Loyola Marymount Lions,85,60,1.0
+401403439,2022-03-05T02:30Z,Southern Illinois Salukis at Drake Bulldogs,Drake Bulldogs,Southern Illinois Salukis,65,52,1.0
+401405881,2022-03-05T03:30Z,Morehead State Eagles at Belmont Bruins,Belmont Bruins,Morehead State Eagles,51,53,0.0
+401378802,2022-03-05T04:00Z,Utah State Aggies at San José State Spartans,San José State Spartans,Utah State Aggies,52,75,0.0
+401403486,2022-03-05T04:30Z,San Diego Toreros at Portland Pilots,Portland Pilots,San Diego Toreros,73,55,1.0
+401377490,2022-03-05T22:00Z,California Golden Bears at Arizona Wildcats,Arizona Wildcats,California Golden Bears,89,61,1.0
+401368437,2022-03-05T23:00Z,Iowa State Cyclones at Baylor Bears,Baylor Bears,Iowa State Cyclones,75,68,1.0
+401369869,2022-03-05T23:00Z,North Carolina Tar Heels at Duke Blue Devils,Duke Blue Devils,North Carolina Tar Heels,81,94,0.0
+401364969,2022-03-05T18:00Z,South Carolina Gamecocks at Auburn Tigers,Auburn Tigers,South Carolina Gamecocks,82,71,1.0
+401368438,2022-03-05T21:00Z,Texas Longhorns at Kansas Jayhawks,Kansas Jayhawks,Texas Longhorns,70,63,1.0
+401364968,2022-03-05T19:00Z,Kentucky Wildcats at Florida Gators,Florida Gators,Kentucky Wildcats,63,71,0.0
+401364475,2022-03-05T19:00Z,Indiana Hoosiers at Purdue Boilermakers,Purdue Boilermakers,Indiana Hoosiers,69,67,1.0
+401373616,2022-03-05T17:00Z,Villanova Wildcats at Butler Bulldogs,Butler Bulldogs,Villanova Wildcats,59,78,0.0
+401368440,2022-03-05T20:00Z,Texas Tech Red Raiders at Oklahoma State Cowboys,Oklahoma State Cowboys,Texas Tech Red Raiders,52,51,1.0
+401377493,2022-03-06T03:00Z,USC Trojans at UCLA Bruins,UCLA Bruins,USC Trojans,75,68,1.0
+401373617,2022-03-05T22:00Z,DePaul Blue Demons at UConn Huskies,UConn Huskies,DePaul Blue Demons,75,68,1.0
+401364967,2022-03-05T17:00Z,Alabama Crimson Tide at LSU Tigers,LSU Tigers,Alabama Crimson Tide,80,77,1.0
+401405854,2022-03-05T17:00Z,South Carolina Upstate Spartans at Longwood Lancers,Longwood Lancers,South Carolina Upstate Spartans,79,70,1.0
+401403325,2022-03-05T17:00Z,The Citadel Bulldogs at Chattanooga Mocs,Chattanooga Mocs,The Citadel Bulldogs,71,66,1.0
+401370121,2022-03-05T17:00Z,Virginia Cavaliers at Louisville Cardinals,Louisville Cardinals,Virginia Cavaliers,61,71,0.0
+401369908,2022-03-05T17:00Z,Boston College Eagles at Georgia Tech Yellow Jackets,Georgia Tech Yellow Jackets,Boston College Eagles,82,78,1.0
+401364972,2022-03-05T17:00Z,Arkansas Razorbacks at Tennessee Volunteers,Tennessee Volunteers,Arkansas Razorbacks,78,74,1.0
+401403476,2022-03-05T17:30Z,Louisiana Ragin' Cajuns at Texas State Bobcats,Texas State Bobcats,Louisiana Ragin' Cajuns,72,79,0.0
+401365874,2022-03-05T17:30Z,Davidson Wildcats at Dayton Flyers,Dayton Flyers,Davidson Wildcats,82,76,1.0
+401370016,2022-03-05T18:00Z,Miami Hurricanes at Syracuse Orange,Syracuse Orange,Miami Hurricanes,72,75,0.0
+401365406,2022-03-05T18:00Z,Fairfield Stags at Saint Peter's Peacocks,Saint Peter's Peacocks,Fairfield Stags,57,41,1.0
+401365405,2022-03-05T18:00Z,Marist Red Foxes at Niagara Purple Eagles,Niagara Purple Eagles,Marist Red Foxes,83,52,1.0
+401365403,2022-03-05T18:00Z,Quinnipiac Bobcats at Iona Gaels,Iona Gaels,Quinnipiac Bobcats,79,61,1.0
+401372766,2022-03-05T19:00Z,Middle Tennessee Blue Raiders at Old Dominion Monarchs,Old Dominion Monarchs,Middle Tennessee Blue Raiders,68,64,1.0
+401372704,2022-03-05T19:00Z,Florida International Panthers at Florida Atlantic Owls,Florida Atlantic Owls,Florida International Panthers,84,76,1.0
+401369942,2022-03-05T19:00Z,Virginia Tech Hokies at Clemson Tigers,Clemson Tigers,Virginia Tech Hokies,63,59,1.0
+401369888,2022-03-05T19:00Z,NC State Wolfpack at Florida State Seminoles,Florida State Seminoles,NC State Wolfpack,89,76,1.0
+401369775,2022-03-05T19:00Z,Dartmouth Big Green at Harvard Crimson,Harvard Crimson,Dartmouth Big Green,54,76,0.0
+401368441,2022-03-05T19:00Z,TCU Horned Frogs at West Virginia Mountaineers,West Virginia Mountaineers,TCU Horned Frogs,70,64,1.0
+401365876,2022-03-05T19:00Z,George Washington Revolutionaries at Fordham Rams,Fordham Rams,George Washington Revolutionaries,70,66,1.0
+401365875,2022-03-05T19:00Z,La Salle Explorers at Duquesne Dukes,Duquesne Dukes,La Salle Explorers,76,85,0.0
+401405855,2022-03-05T19:30Z,Gardner-Webb Runnin' Bulldogs at Winthrop Eagles,Winthrop Eagles,Gardner-Webb Runnin' Bulldogs,76,67,1.0
+401403326,2022-03-05T19:30Z,VMI Keydets at Wofford Terriers,Wofford Terriers,VMI Keydets,68,66,1.0
+401373618,2022-03-05T19:30Z,Seton Hall Pirates at Creighton Bluejays,Creighton Bluejays,Seton Hall Pirates,60,65,0.0
+401369978,2022-03-05T19:30Z,Pittsburgh Panthers at Notre Dame Fighting Irish,Notre Dame Fighting Irish,Pittsburgh Panthers,78,54,1.0
+401365878,2022-03-05T19:30Z,Rhode Island Rams at Saint Joseph's Hawks,Saint Joseph's Hawks,Rhode Island Rams,70,60,1.0
+401403477,2022-03-05T20:00Z,Little Rock Trojans at Troy Trojans,Troy Trojans,Little Rock Trojans,69,62,1.0
+401377784,2022-03-05T20:00Z,East Carolina Pirates at Wichita State Shockers,Wichita State Shockers,East Carolina Pirates,70,62,1.0
+401377488,2022-03-05T20:00Z,Stanford Cardinal at Arizona State Sun Devils,Arizona State Sun Devils,Stanford Cardinal,65,56,1.0
+401372803,2022-03-05T20:00Z,Rice Owls at UTSA Roadrunners,UTSA Roadrunners,Rice Owls,82,71,1.0
+401372778,2022-03-05T20:00Z,North Texas Mean Green at UTEP Miners,UTEP Miners,North Texas Mean Green,70,68,1.0
+401372744,2022-03-05T20:00Z,Marshall Thundering Herd at Western Kentucky Hilltoppers,Western Kentucky Hilltoppers,Marshall Thundering Herd,78,69,1.0
+401372723,2022-03-05T20:00Z,Louisiana Tech Bulldogs at UAB Blazers,UAB Blazers,Louisiana Tech Bulldogs,87,74,1.0
+401372673,2022-03-05T20:00Z,Charlotte 49ers at Southern Miss Golden Eagles,Southern Miss Golden Eagles,Charlotte 49ers,67,70,0.0
+401371556,2022-03-05T20:00Z,California Baptist Lancers at Lamar Cardinals,Lamar Cardinals,California Baptist Lancers,66,78,0.0
+401403440,2022-03-05T20:30Z,Loyola Chicago Ramblers at Northern Iowa Panthers,Northern Iowa Panthers,Loyola Chicago Ramblers,43,66,0.0
+401364966,2022-03-05T20:30Z,Georgia Bulldogs at Missouri Tigers,Missouri Tigers,Georgia Bulldogs,79,69,1.0
+401377489,2022-03-05T21:00Z,Oregon Ducks at Washington State Cougars,Washington State Cougars,Oregon Ducks,94,74,1.0
+401373755,2022-03-05T21:00Z,UC Irvine Anteaters at Cal State Bakersfield Roadrunners,Cal State Bakersfield Roadrunners,UC Irvine Anteaters,61,66,0.0
+401373153,2022-03-05T21:00Z,Bethune-Cookman Wildcats at Florida A&M Rattlers,Florida A&M Rattlers,Bethune-Cookman Wildcats,84,73,1.0
+401371689,2022-03-05T21:00Z,SE Louisiana Lions at Northwestern State Demons,Northwestern State Demons,SE Louisiana Lions,80,85,0.0
+401371558,2022-03-05T21:00Z,Chicago State Cougars at Seattle U Redhawks,Seattle U Redhawks,Chicago State Cougars,74,66,1.0
+401369774,2022-03-05T21:00Z,Cornell Big Red at Columbia Lions,Columbia Lions,Cornell Big Red,64,78,0.0
+401368439,2022-03-05T21:00Z,Oklahoma Sooners at Kansas State Wildcats,Kansas State Wildcats,Oklahoma Sooners,71,78,0.0
+401365879,2022-03-05T21:00Z,VCU Rams at Saint Louis Billikens,Saint Louis Billikens,VCU Rams,69,65,1.0
+401365877,2022-03-05T21:00Z,Massachusetts Minutemen at George Mason Patriots,George Mason Patriots,Massachusetts Minutemen,80,83,0.0
+401365404,2022-03-05T21:00Z,Siena Saints at Canisius Golden Griffins,Canisius Golden Griffins,Siena Saints,67,64,1.0
+401365402,2022-03-05T21:00Z,Monmouth Hawks at Rider Broncs,Rider Broncs,Monmouth Hawks,74,65,1.0
+401364803,2022-03-05T21:00Z,Fresno State Bulldogs at Wyoming Cowboys,Wyoming Cowboys,Fresno State Bulldogs,68,64,1.0
+401371688,2022-03-05T21:30Z,LSU New Orleans Privateers at Nicholls Colonels,Nicholls Colonels,LSU New Orleans Privateers,92,85,1.0
+401408170,2022-03-05T22:00Z,Northeastern Huskies at William & Mary Tribe,William & Mary Tribe,Northeastern Huskies,63,68,0.0
+401381764,2022-03-05T22:00Z,Southern Jaguars at Alabama A&M Bulldogs,Alabama A&M Bulldogs,Southern Jaguars,49,50,0.0
+401372458,2022-03-05T22:00Z,Northern Arizona Lumberjacks at Idaho Vandals,Idaho Vandals,Northern Arizona Lumberjacks,78,69,1.0
+401372434,2022-03-05T22:00Z,Portland State Vikings at Eastern Washington Eagles,Eastern Washington Eagles,Portland State Vikings,83,75,1.0
+401371687,2022-03-05T22:00Z,Texas A&M-Corpus Christi Islanders at Incarnate Word Cardinals,Incarnate Word Cardinals,Texas A&M-Corpus Christi Islanders,68,77,0.0
+401373173,2022-03-05T22:30Z,Grambling Tigers at Alabama State Hornets,Alabama State Hornets,Grambling Tigers,78,75,1.0
+401411740,2022-03-05T23:00Z,Mount St. Mary's Mountaineers at Bryant Bulldogs,Bryant Bulldogs,Mount St. Mary's Mountaineers,70,69,1.0
+401403478,2022-03-05T23:00Z,Arkansas State Red Wolves at Georgia State Panthers,Georgia State Panthers,Arkansas State Red Wolves,65,62,1.0
+401403441,2022-03-05T23:00Z,Drake Bulldogs at Missouri State Bears,Missouri State Bears,Drake Bulldogs,78,79,0.0
+401403392,2022-03-05T23:00Z,Bellarmine Knights at Liberty Flames,Liberty Flames,Bellarmine Knights,50,53,0.0
+401403327,2022-03-05T23:00Z,Mercer Bears at Furman Paladins,Furman Paladins,Mercer Bears,80,66,1.0
+401373132,2022-03-05T23:00Z,Arkansas-Pine Bluff Golden Lions at Alcorn State Braves,Alcorn State Braves,Arkansas-Pine Bluff Golden Lions,100,77,1.0
+401372543,2022-03-05T23:00Z,Northern Colorado Bears at Montana State Bobcats,Montana State Bobcats,Northern Colorado Bears,87,85,1.0
+401369776,2022-03-05T23:00Z,Princeton Tigers at Pennsylvania Quakers,Pennsylvania Quakers,Princeton Tigers,70,93,0.0
+401364970,2022-03-05T23:00Z,Vanderbilt Commodores at Ole Miss Rebels,Ole Miss Rebels,Vanderbilt Commodores,61,63,0.0
+401378660,2022-03-05T23:30Z,Mississippi Valley State Delta Devils at Jackson State Tigers,Jackson State Tigers,Mississippi Valley State Delta Devils,76,69,1.0
+401408163,2022-03-06T00:00Z,Omaha Mavericks at South Dakota State Jackrabbits,South Dakota State Jackrabbits,Omaha Mavericks,87,79,1.0
+401403393,2022-03-06T00:00Z,Jacksonville Dolphins at Jacksonville State Gamecocks,Jacksonville State Gamecocks,Jacksonville Dolphins,51,54,0.0
+401373756,2022-03-06T00:00Z,UC Riverside Highlanders at Long Beach State Beach,Long Beach State Beach,UC Riverside Highlanders,73,72,1.0
+401373619,2022-03-06T00:00Z,Georgetown Hoyas at Xavier Musketeers,Xavier Musketeers,Georgetown Hoyas,97,75,1.0
+401371555,2022-03-06T00:00Z,Tarleton State Texans at Abilene Christian Wildcats,Abilene Christian Wildcats,Tarleton State Texans,61,56,1.0
+401369773,2022-03-06T00:00Z,Brown Bears at Yale Bulldogs,Yale Bulldogs,Brown Bears,74,65,1.0
+401377491,2022-03-06T00:30Z,Oregon State Beavers at Washington Huskies,Washington Huskies,Oregon State Beavers,78,67,1.0
+401411741,2022-03-06T01:00Z,Long Island University Sharks at Wagner Seahawks,Wagner Seahawks,Long Island University Sharks,82,62,1.0
+401372623,2022-03-06T01:00Z,Southern Utah Thunderbirds at Weber State Wildcats,Weber State Wildcats,Southern Utah Thunderbirds,70,80,0.0
+401371686,2022-03-06T01:00Z,McNeese Cowboys at Houston Christian Huskies,Houston Christian Huskies,McNeese Cowboys,149,144,1.0
+401371560,2022-03-06T01:00Z,Utah Tech Trailblazers at Grand Canyon Lopes,Grand Canyon Lopes,Utah Tech Trailblazers,70,53,1.0
+401371559,2022-03-06T01:00Z,Stephen F. Austin Lumberjacks at UT Rio Grande Valley Vaqueros,UT Rio Grande Valley Vaqueros,Stephen F. Austin Lumberjacks,63,93,0.0
+401405882,2022-03-06T01:30Z,Morehead State Eagles at Murray State Racers,Murray State Racers,Morehead State Eagles,71,67,1.0
+401403479,2022-03-06T01:30Z,Georgia Southern Eagles at App State Mountaineers,App State Mountaineers,Georgia Southern Eagles,73,60,1.0
+401403328,2022-03-06T01:30Z,UNC Greensboro Spartans at Samford Bulldogs,Samford Bulldogs,UNC Greensboro Spartans,66,64,1.0
+401373187,2022-03-06T01:30Z,Prairie View A&M Panthers at Texas Southern Tigers,Texas Southern Tigers,Prairie View A&M Panthers,78,77,1.0
+401364971,2022-03-06T01:30Z,Mississippi State Bulldogs at Texas A&M Aggies,Texas A&M Aggies,Mississippi State Bulldogs,67,64,1.0
+401364804,2022-03-06T01:30Z,Boise State Broncos at Colorado State Rams,Colorado State Rams,Boise State Broncos,71,68,1.0
+401373754,2022-03-06T02:00Z,UC Davis Aggies at Cal State Fullerton Titans,Cal State Fullerton Titans,UC Davis Aggies,62,59,1.0
+401373620,2022-03-06T02:00Z,St. John's Red Storm at Marquette Golden Eagles,Marquette Golden Eagles,St. John's Red Storm,85,77,1.0
+401372522,2022-03-06T02:00Z,Sacramento State Hornets at Montana Grizzlies,Montana Grizzlies,Sacramento State Hornets,71,72,0.0
+401371557,2022-03-06T02:00Z,Utah Valley Wolverines at New Mexico State Aggies,New Mexico State Aggies,Utah Valley Wolverines,62,46,1.0
+401408164,2022-03-06T02:30Z,Denver Pioneers at North Dakota State Bison,North Dakota State Bison,Denver Pioneers,82,62,1.0
+401377492,2022-03-06T02:30Z,Colorado Buffaloes at Utah Utes,Utah Utes,Colorado Buffaloes,71,84,0.0
+401373757,2022-03-06T03:00Z,Hawai'i Rainbow Warriors at Cal State Northridge Matadors,Cal State Northridge Matadors,Hawai'i Rainbow Warriors,62,84,0.0
+401373753,2022-03-06T03:00Z,UC San Diego Tritons at Cal Poly Mustangs,Cal Poly Mustangs,UC San Diego Tritons,80,76,1.0
+401403487,2022-03-06T03:30Z,BYU Cougars at San Francisco Dons,San Francisco Dons,BYU Cougars,75,63,1.0
+401364807,2022-03-06T03:30Z,San Diego State Aztecs at Nevada Wolf Pack,Nevada Wolf Pack,San Diego State Aztecs,78,79,0.0
+401364806,2022-03-06T04:00Z,UNLV Rebels at New Mexico Lobos,New Mexico Lobos,UNLV Rebels,76,67,1.0
+401403488,2022-03-06T06:23Z,Portland Pilots at Santa Clara Broncos,Santa Clara Broncos,Portland Pilots,91,67,1.0
+401364480,2022-03-06T19:00Z,Nebraska Cornhuskers at Wisconsin Badgers,Wisconsin Badgers,Nebraska Cornhuskers,73,74,0.0
+401377787,2022-03-06T17:00Z,Houston Cougars at Memphis Tigers,Memphis Tigers,Houston Cougars,75,61,1.0
+401364476,2022-03-07T00:30Z,Iowa Hawkeyes at Illinois Fighting Illini,Illinois Fighting Illini,Iowa Hawkeyes,74,72,1.0
+401364478,2022-03-06T17:30Z,Michigan Wolverines at Ohio State Buckeyes,Ohio State Buckeyes,Michigan Wolverines,69,75,0.0
+401408171,2022-03-06T17:00Z,Northeastern Huskies at Towson Tigers,Towson Tigers,Northeastern Huskies,68,61,1.0
+401405856,2022-03-06T17:00Z,Winthrop Eagles at Longwood Lancers,Longwood Lancers,Winthrop Eagles,79,58,1.0
+401364481,2022-03-06T17:00Z,Penn State Nittany Lions at Rutgers Scarlet Knights,Rutgers Scarlet Knights,Penn State Nittany Lions,59,58,1.0
+401405832,2022-03-06T18:00Z,UMass Lowell River Hawks at UMBC Retrievers,UMBC Retrievers,UMass Lowell River Hawks,93,85,1.0
+401405831,2022-03-06T18:00Z,Binghamton Bearcats at New Hampshire Wildcats,New Hampshire Wildcats,Binghamton Bearcats,69,72,0.0
+401405833,2022-03-06T19:00Z,NJIT Highlanders at Vermont Catamounts,Vermont Catamounts,NJIT Highlanders,98,59,1.0
+401405830,2022-03-06T19:00Z,UAlbany Great Danes at Hartford Hawks,Hartford Hawks,UAlbany Great Danes,61,49,1.0
+401403470,2022-03-06T19:00Z,Lehigh Mountain Hawks at Colgate Raiders,Colgate Raiders,Lehigh Mountain Hawks,81,61,1.0
+401377788,2022-03-06T19:00Z,UCF Knights at Tulsa Golden Hurricane,Tulsa Golden Hurricane,UCF Knights,73,72,1.0
+401377786,2022-03-06T19:00Z,South Florida Bulls at Temple Owls,Temple Owls,South Florida Bulls,75,47,1.0
+401403442,2022-03-06T19:15Z,Loyola Chicago Ramblers at Drake Bulldogs,Drake Bulldogs,Loyola Chicago Ramblers,58,64,0.0
+401408172,2022-03-06T19:45Z,Delaware Blue Hens at Drexel Dragons,Drexel Dragons,Delaware Blue Hens,56,66,0.0
+401377785,2022-03-06T20:00Z,Tulane Green Wave at SMU Mustangs,SMU Mustangs,Tulane Green Wave,74,68,1.0
+401403449,2022-03-06T21:00Z,Boston University Terriers at Navy Midshipmen,Navy Midshipmen,Boston University Terriers,85,80,1.0
+401403329,2022-03-06T21:00Z,Wofford Terriers at Chattanooga Mocs,Chattanooga Mocs,Wofford Terriers,79,56,1.0
+401364477,2022-03-06T21:35Z,Maryland Terrapins at Michigan State Spartans,Michigan State Spartans,Maryland Terrapins,77,67,1.0
+401408173,2022-03-06T23:00Z,Elon Phoenix at UNC Wilmington Seahawks,UNC Wilmington Seahawks,Elon Phoenix,75,58,1.0
+401403480,2022-03-06T23:00Z,Louisiana Ragin' Cajuns at Troy Trojans,Troy Trojans,Louisiana Ragin' Cajuns,57,66,0.0
+401403330,2022-03-06T23:30Z,Samford Bulldogs at Furman Paladins,Furman Paladins,Samford Bulldogs,71,68,1.0
+401408165,2022-03-07T00:00Z,South Dakota Coyotes at Kansas City Roos,Kansas City Roos,South Dakota Coyotes,61,74,0.0
+401364479,2022-03-07T00:30Z,Minnesota Golden Gophers at Northwestern Wildcats,Northwestern Wildcats,Minnesota Golden Gophers,75,62,1.0
+401408174,2022-03-07T01:30Z,Charleston Cougars at Hofstra Pride,Hofstra Pride,Charleston Cougars,76,92,0.0
+401403481,2022-03-07T01:30Z,Georgia State Panthers at App State Mountaineers,App State Mountaineers,Georgia State Panthers,66,71,0.0
+401408166,2022-03-07T02:30Z,Western Illinois Leathernecks at Oral Roberts Golden Eagles,Oral Roberts Golden Eagles,Western Illinois Leathernecks,80,68,1.0
+401408175,2022-03-07T23:00Z,Delaware Blue Hens at Towson Tigers,Towson Tigers,Delaware Blue Hens,56,69,0.0
+401408167,2022-03-08T00:00Z,South Dakota Coyotes at South Dakota State Jackrabbits,South Dakota State Jackrabbits,South Dakota Coyotes,83,60,1.0
+401405866,2022-03-08T00:00Z,Wright State Raiders at Cleveland State Vikings,Cleveland State Vikings,Wright State Raiders,67,82,0.0
+401403482,2022-03-08T00:00Z,Louisiana Ragin' Cajuns at Georgia State Panthers,Georgia State Panthers,Louisiana Ragin' Cajuns,80,71,1.0
+401403331,2022-03-08T00:00Z,Furman Paladins at Chattanooga Mocs,Chattanooga Mocs,Furman Paladins,64,63,1.0
+401408176,2022-03-08T01:50Z,Charleston Cougars at UNC Wilmington Seahawks,UNC Wilmington Seahawks,Charleston Cougars,60,57,1.0
+401403489,2022-03-08T02:00Z,San Francisco Dons at Gonzaga Bulldogs,Gonzaga Bulldogs,San Francisco Dons,81,71,1.0
+401408168,2022-03-08T02:30Z,Oral Roberts Golden Eagles at North Dakota State Bison,North Dakota State Bison,Oral Roberts Golden Eagles,92,72,1.0
+401405867,2022-03-08T02:30Z,Northern Kentucky Norse at Purdue Fort Wayne Mastodons,Purdue Fort Wayne Mastodons,Northern Kentucky Norse,43,57,0.0
+401403490,2022-03-08T04:30Z,Santa Clara Broncos at Saint Mary's Gaels,Saint Mary's Gaels,Santa Clara Broncos,75,72,1.0
+401405793,2022-03-08T19:00Z,Boston College Eagles at Pittsburgh Panthers,Pittsburgh Panthers,Boston College Eagles,46,66,0.0
+401405794,2022-03-08T21:30Z,NC State Wolfpack at Clemson Tigers,Clemson Tigers,NC State Wolfpack,70,64,1.0
+401403417,2022-03-08T22:00Z,Rider Broncs at Manhattan Jaspers,Manhattan Jaspers,Rider Broncs,67,79,0.0
+401403394,2022-03-08T22:00Z,Jacksonville Dolphins at Bellarmine Knights,Bellarmine Knights,Jacksonville Dolphins,77,72,1.0
+401411742,2022-03-09T00:00Z,Wagner Seahawks at Bryant Bulldogs,Bryant Bulldogs,Wagner Seahawks,70,43,1.0
+401408177,2022-03-09T00:00Z,Delaware Blue Hens at UNC Wilmington Seahawks,UNC Wilmington Seahawks,Delaware Blue Hens,55,59,0.0
+401405868,2022-03-09T00:00Z,Wright State Raiders at Northern Kentucky Norse,Northern Kentucky Norse,Wright State Raiders,71,72,0.0
+401405795,2022-03-09T00:00Z,Georgia Tech Yellow Jackets at Louisville Cardinals,Louisville Cardinals,Georgia Tech Yellow Jackets,84,74,1.0
+401403418,2022-03-09T00:00Z,Canisius Golden Griffins at Fairfield Stags,Fairfield Stags,Canisius Golden Griffins,72,50,1.0
+401409386,2022-03-09T00:30Z,Marshall Thundering Herd at Florida International Panthers,Florida International Panthers,Marshall Thundering Herd,62,74,0.0
+401409387,2022-03-09T01:00Z,Southern Miss Golden Eagles at UTSA Roadrunners,UTSA Roadrunners,Southern Miss Golden Eagles,64,67,0.0
+401408169,2022-03-09T02:00Z,North Dakota State Bison at South Dakota State Jackrabbits,South Dakota State Jackrabbits,North Dakota State Bison,75,69,1.0
+401403491,2022-03-09T02:00Z,Saint Mary's Gaels at Gonzaga Bulldogs,Gonzaga Bulldogs,Saint Mary's Gaels,82,69,1.0
+401403408,2022-03-09T02:00Z,Cal State Bakersfield Roadrunners at Cal State Northridge Matadors,Cal State Northridge Matadors,Cal State Bakersfield Roadrunners,45,58,0.0
+401403332,2022-03-09T02:00Z,UT Rio Grande Valley Vaqueros at California Baptist Lancers,California Baptist Lancers,UT Rio Grande Valley Vaqueros,81,80,1.0
+401403419,2022-03-09T02:50Z,Quinnipiac Bobcats at Marist Red Foxes,Marist Red Foxes,Quinnipiac Bobcats,52,77,0.0
+401403409,2022-03-09T04:30Z,Cal Poly Mustangs at UC Davis Aggies,UC Davis Aggies,Cal Poly Mustangs,63,53,1.0
+401403333,2022-03-09T04:30Z,Chicago State Cougars at Utah Valley Wolverines,Utah Valley Wolverines,Chicago State Cougars,69,47,1.0
+401403310,2022-03-09T16:30Z,Idaho Vandals at Sacramento State Hornets,Sacramento State Hornets,Idaho Vandals,57,54,1.0
+401405796,2022-03-09T17:00Z,Syracuse Orange at Florida State Seminoles,Florida State Seminoles,Syracuse Orange,57,96,0.0
+401403371,2022-03-09T18:00Z,Saint Joseph's Hawks at La Salle Explorers,La Salle Explorers,Saint Joseph's Hawks,63,56,1.0
+401409364,2022-03-09T19:00Z,New Mexico Lobos at Nevada Wolf Pack,Nevada Wolf Pack,New Mexico Lobos,79,72,1.0
+401403311,2022-03-09T19:00Z,Idaho State Bengals at Portland State Vikings,Portland State Vikings,Idaho State Bengals,66,52,1.0
+401405797,2022-03-09T19:30Z,Boston College Eagles at Wake Forest Demon Deacons,Wake Forest Demon Deacons,Boston College Eagles,77,82,0.0
+401409374,2022-03-09T20:00Z,Stanford Cardinal at Arizona State Sun Devils,Arizona State Sun Devils,Stanford Cardinal,70,71,0.0
+401405897,2022-03-09T20:00Z,Jackson State Tigers at Texas Southern Tigers,Texas Southern Tigers,Jackson State Tigers,54,50,1.0
+401403372,2022-03-09T20:30Z,Duquesne Dukes at Rhode Island Rams,Rhode Island Rams,Duquesne Dukes,79,77,1.0
+401409365,2022-03-09T21:30Z,Air Force Falcons at Utah State Aggies,Utah State Aggies,Air Force Falcons,83,56,1.0
+401403348,2022-03-09T21:30Z,Butler Bulldogs at Xavier Musketeers,Xavier Musketeers,Butler Bulldogs,82,89,0.0
+401403312,2022-03-09T21:30Z,Northern Arizona Lumberjacks at Eastern Washington Eagles,Eastern Washington Eagles,Northern Arizona Lumberjacks,78,75,1.0
+401409375,2022-03-09T22:30Z,Oregon State Beavers at Oregon Ducks,Oregon Ducks,Oregon State Beavers,86,72,1.0
+401408150,2022-03-09T23:00Z,Ole Miss Rebels at Missouri Tigers,Missouri Tigers,Ole Miss Rebels,72,60,1.0
+401405884,2022-03-09T23:00Z,Incarnate Word Cardinals at Houston Christian Huskies,Houston Christian Huskies,Incarnate Word Cardinals,74,64,1.0
+401403432,2022-03-09T23:00Z,Delaware State Hornets at Norfolk State Spartans,Norfolk State Spartans,Delaware State Hornets,74,66,1.0
+401403395,2022-03-09T23:00Z,Nebraska Cornhuskers at Northwestern Wildcats,Northwestern Wildcats,Nebraska Cornhuskers,71,69,1.0
+401409388,2022-03-09T23:30Z,Rice Owls at Charlotte 49ers,Charlotte 49ers,Rice Owls,61,73,0.0
+401409389,2022-03-10T00:00Z,Marshall Thundering Herd at Louisiana Tech Bulldogs,Louisiana Tech Bulldogs,Marshall Thundering Herd,77,67,1.0
+401409366,2022-03-10T00:00Z,San José State Spartans at Fresno State Bulldogs,Fresno State Bulldogs,San José State Spartans,69,67,1.0
+401405834,2022-03-10T00:00Z,West Virginia Mountaineers at Kansas State Wildcats,Kansas State Wildcats,West Virginia Mountaineers,67,73,0.0
+401405809,2022-03-10T00:00Z,Hartford Hawks at UMBC Retrievers,UMBC Retrievers,Hartford Hawks,80,60,1.0
+401405808,2022-03-10T00:00Z,Binghamton Bearcats at Vermont Catamounts,Vermont Catamounts,Binghamton Bearcats,74,42,1.0
+401405798,2022-03-10T00:00Z,Clemson Tigers at Virginia Tech Hokies,Virginia Tech Hokies,Clemson Tigers,76,75,1.0
+401403420,2022-03-10T00:00Z,Rider Broncs at Iona Gaels,Iona Gaels,Rider Broncs,70,71,0.0
+401403471,2022-03-10T00:30Z,Navy Midshipmen at Colgate Raiders,Colgate Raiders,Navy Midshipmen,74,58,1.0
+401403349,2022-03-10T00:40Z,DePaul Blue Demons at St. John's Red Storm,St. John's Red Storm,DePaul Blue Demons,92,73,1.0
+401408151,2022-03-10T01:25Z,Georgia Bulldogs at Vanderbilt Commodores,Vanderbilt Commodores,Georgia Bulldogs,86,51,1.0
+401405885,2022-03-10T01:30Z,McNeese Cowboys at Northwestern State Demons,Northwestern State Demons,McNeese Cowboys,67,80,0.0
+401403433,2022-03-10T01:30Z,Coppin State Eagles at Howard Bison,Howard Bison,Coppin State Eagles,57,59,0.0
+401403396,2022-03-10T01:50Z,Minnesota Golden Gophers at Penn State Nittany Lions,Penn State Nittany Lions,Minnesota Golden Gophers,60,51,1.0
+401409390,2022-03-10T02:00Z,Old Dominion Monarchs at UTEP Miners,UTEP Miners,Old Dominion Monarchs,74,64,1.0
+401409376,2022-03-10T02:00Z,California Golden Bears at Washington State Cougars,Washington State Cougars,California Golden Bears,66,59,1.0
+401403334,2022-03-10T02:00Z,California Baptist Lancers at Sam Houston Bearkats,Sam Houston Bearkats,California Baptist Lancers,65,35,1.0
+401409391,2022-03-10T02:30Z,Southern Miss Golden Eagles at Florida Atlantic Owls,Florida Atlantic Owls,Southern Miss Golden Eagles,86,59,1.0
+401405896,2022-03-10T02:30Z,Prairie View A&M Panthers at Alcorn State Braves,Alcorn State Braves,Prairie View A&M Panthers,64,63,1.0
+401403421,2022-03-10T02:30Z,Fairfield Stags at Saint Peter's Peacocks,Saint Peter's Peacocks,Fairfield Stags,77,63,1.0
+401405799,2022-03-10T02:50Z,Louisville Cardinals at Virginia Cavaliers,Virginia Cavaliers,Louisville Cardinals,51,50,1.0
+401403370,2022-03-10T03:10Z,Georgetown Hoyas at Seton Hall Pirates,Seton Hall Pirates,Georgetown Hoyas,57,53,1.0
+401409377,2022-03-10T04:30Z,Utah Utes at Washington Huskies,Washington Huskies,Utah Utes,82,70,1.0
+401403335,2022-03-10T04:30Z,Utah Valley Wolverines at Abilene Christian Wildcats,Abilene Christian Wildcats,Utah Valley Wolverines,82,74,1.0
+401405872,2022-03-10T16:00Z,Central Michigan Chippewas at Toledo Rockets,Toledo Rockets,Central Michigan Chippewas,72,71,1.0
+401403398,2022-03-10T16:30Z,Indiana Hoosiers at Michigan Wolverines,Michigan Wolverines,Indiana Hoosiers,69,74,0.0
+401408152,2022-03-10T17:00Z,Florida Gators at Texas A&M Aggies,Texas A&M Aggies,Florida Gators,83,80,1.0
+401405800,2022-03-10T17:00Z,Syracuse Orange at Duke Blue Devils,Duke Blue Devils,Syracuse Orange,88,79,1.0
+401403373,2022-03-10T17:00Z,George Mason Patriots at Fordham Rams,Fordham Rams,George Mason Patriots,54,49,1.0
+401403344,2022-03-10T17:00Z,Butler Bulldogs at Providence Friars,Providence Friars,Butler Bulldogs,65,61,1.0
+401405835,2022-03-10T17:30Z,TCU Horned Frogs at Texas Longhorns,Texas Longhorns,TCU Horned Frogs,60,65,0.0
+401405898,2022-03-10T18:00Z,East Carolina Pirates at Cincinnati Bearcats,Cincinnati Bearcats,East Carolina Pirates,74,63,1.0
+401405871,2022-03-10T18:30Z,Buffalo Bulls at Akron Zips,Akron Zips,Buffalo Bulls,70,68,1.0
+401403397,2022-03-10T19:00Z,Northwestern Wildcats at Iowa Hawkeyes,Iowa Hawkeyes,Northwestern Wildcats,112,76,1.0
+401403313,2022-03-10T19:00Z,Sacramento State Hornets at Montana State Bobcats,Montana State Bobcats,Sacramento State Hornets,83,61,1.0
+401403374,2022-03-10T19:30Z,La Salle Explorers at Saint Louis Billikens,Saint Louis Billikens,La Salle Explorers,71,51,1.0
+401405801,2022-03-10T19:41Z,Boston College Eagles at Miami Hurricanes,Miami Hurricanes,Boston College Eagles,71,69,1.0
+401403345,2022-03-10T19:50Z,Marquette Golden Eagles at Creighton Bluejays,Creighton Bluejays,Marquette Golden Eagles,74,63,1.0
+401409378,2022-03-10T20:00Z,Stanford Cardinal at Arizona Wildcats,Arizona Wildcats,Stanford Cardinal,84,80,1.0
+401409367,2022-03-10T20:00Z,Nevada Wolf Pack at Boise State Broncos,Boise State Broncos,Nevada Wolf Pack,71,69,1.0
+401405895,2022-03-10T20:00Z,Grambling Tigers at Southern Jaguars,Southern Jaguars,Grambling Tigers,58,60,0.0
+401403410,2022-03-10T20:00Z,Cal State Bakersfield Roadrunners at Long Beach State Beach,Long Beach State Beach,Cal State Bakersfield Roadrunners,72,61,1.0
+401408153,2022-03-10T20:17Z,Missouri Tigers at LSU Tigers,LSU Tigers,Missouri Tigers,76,68,1.0
+401405836,2022-03-10T20:21Z,West Virginia Mountaineers at Kansas Jayhawks,Kansas Jayhawks,West Virginia Mountaineers,87,63,1.0
+401405899,2022-03-10T20:39Z,Tulsa Golden Hurricane at Wichita State Shockers,Wichita State Shockers,Tulsa Golden Hurricane,67,73,0.0
+401405870,2022-03-10T21:00Z,Miami (OH) RedHawks at Kent State Golden Flashes,Kent State Golden Flashes,Miami (OH) RedHawks,85,75,1.0
+401403314,2022-03-10T21:30Z,Montana Grizzlies at Weber State Wildcats,Weber State Wildcats,Montana Grizzlies,68,56,1.0
+401409379,2022-03-10T22:30Z,Oregon Ducks at Colorado Buffaloes,Colorado Buffaloes,Oregon Ducks,80,69,1.0
+401409368,2022-03-10T22:30Z,UNLV Rebels at Wyoming Cowboys,Wyoming Cowboys,UNLV Rebels,59,56,1.0
+401403411,2022-03-10T22:30Z,UC Santa Barbara Gauchos at UC Irvine Anteaters,UC Irvine Anteaters,UC Santa Barbara Gauchos,69,78,0.0
+401408154,2022-03-10T23:00Z,Mississippi State Bulldogs at South Carolina Gamecocks,South Carolina Gamecocks,Mississippi State Bulldogs,51,73,0.0
+401405886,2022-03-10T23:00Z,Houston Christian Huskies at Texas A&M-Corpus Christi Islanders,Texas A&M-Corpus Christi Islanders,Houston Christian Huskies,75,60,1.0
+401403430,2022-03-10T23:00Z,South Carolina State Bulldogs at Morgan State Bears,Morgan State Bears,South Carolina State Bulldogs,80,77,1.0
+401403376,2022-03-10T23:00Z,Massachusetts Minutemen at George Washington Revolutionaries,George Washington Revolutionaries,Massachusetts Minutemen,88,99,0.0
+401409395,2022-03-10T23:30Z,Rice Owls at North Texas Mean Green,North Texas Mean Green,Rice Owls,68,50,1.0
+401405869,2022-03-10T23:30Z,Ball State Cardinals at Ohio Bobcats,Ohio Bobcats,Ball State Cardinals,77,67,1.0
+401403399,2022-03-10T23:30Z,Maryland Terrapins at Michigan State Spartans,Michigan State Spartans,Maryland Terrapins,76,72,1.0
+401409394,2022-03-11T00:00Z,Louisiana Tech Bulldogs at Western Kentucky Hilltoppers,Western Kentucky Hilltoppers,Louisiana Tech Bulldogs,57,59,0.0
+401405900,2022-03-11T00:00Z,South Florida Bulls at UCF Knights,UCF Knights,South Florida Bulls,60,58,1.0
+401405838,2022-03-11T00:00Z,Oklahoma Sooners at Baylor Bears,Baylor Bears,Oklahoma Sooners,67,72,0.0
+401405802,2022-03-11T00:00Z,Virginia Tech Hokies at Notre Dame Fighting Irish,Notre Dame Fighting Irish,Virginia Tech Hokies,80,87,0.0
+401403422,2022-03-11T00:00Z,Quinnipiac Bobcats at Siena Saints,Siena Saints,Quinnipiac Bobcats,71,77,0.0
+401403346,2022-03-11T00:00Z,St. John's Red Storm at Villanova Wildcats,Villanova Wildcats,St. John's Red Storm,66,65,1.0
+401403316,2022-03-11T00:30Z,Portland State Vikings at Southern Utah Thunderbirds,Southern Utah Thunderbirds,Portland State Vikings,65,77,0.0
+401405887,2022-03-11T01:30Z,McNeese Cowboys at LSU New Orleans Privateers,LSU New Orleans Privateers,McNeese Cowboys,82,78,1.0
+401403375,2022-03-11T01:30Z,Rhode Island Rams at Richmond Spiders,Richmond Spiders,Rhode Island Rams,64,59,1.0
+401408155,2022-03-11T01:45Z,Vanderbilt Commodores at Alabama Crimson Tide,Alabama Crimson Tide,Vanderbilt Commodores,76,82,0.0
+401409393,2022-03-11T02:00Z,UTEP Miners at Middle Tennessee Blue Raiders,Middle Tennessee Blue Raiders,UTEP Miners,66,59,1.0
+401409380,2022-03-11T02:00Z,Washington State Cougars at UCLA Bruins,UCLA Bruins,Washington State Cougars,75,65,1.0
+401409369,2022-03-11T02:00Z,Utah State Aggies at Colorado State Rams,Colorado State Rams,Utah State Aggies,53,51,1.0
+401403431,2022-03-11T02:00Z,Maryland Eastern Shore Hawks at North Carolina Central Eagles,North Carolina Central Eagles,Maryland Eastern Shore Hawks,68,56,1.0
+401403412,2022-03-11T02:00Z,UC Davis Aggies at Cal State Fullerton Titans,Cal State Fullerton Titans,UC Davis Aggies,73,55,1.0
+401403336,2022-03-11T02:00Z,Sam Houston Bearkats at Grand Canyon Lopes,Grand Canyon Lopes,Sam Houston Bearkats,71,66,1.0
+401403400,2022-03-11T02:14Z,Penn State Nittany Lions at Ohio State Buckeyes,Ohio State Buckeyes,Penn State Nittany Lions,68,71,0.0
+401409392,2022-03-11T02:30Z,Florida Atlantic Owls at UAB Blazers,UAB Blazers,Florida Atlantic Owls,80,66,1.0
+401405839,2022-03-11T02:30Z,Iowa State Cyclones at Texas Tech Red Raiders,Texas Tech Red Raiders,Iowa State Cyclones,72,41,1.0
+401403423,2022-03-11T02:30Z,Niagara Purple Eagles at Monmouth Hawks,Monmouth Hawks,Niagara Purple Eagles,61,58,1.0
+401405894,2022-03-11T02:40Z,Alabama A&M Bulldogs at Florida A&M Rattlers,Florida A&M Rattlers,Alabama A&M Bulldogs,56,61,0.0
+401405803,2022-03-11T02:40Z,Virginia Cavaliers at North Carolina Tar Heels,North Carolina Tar Heels,Virginia Cavaliers,63,43,1.0
+401403347,2022-03-11T02:47Z,Seton Hall Pirates at UConn Huskies,UConn Huskies,Seton Hall Pirates,62,52,1.0
+401403315,2022-03-11T03:00Z,Eastern Washington Eagles at Northern Colorado Bears,Northern Colorado Bears,Eastern Washington Eagles,68,67,1.0
+401409370,2022-03-11T04:30Z,Fresno State Bulldogs at San Diego State Aztecs,San Diego State Aztecs,Fresno State Bulldogs,53,46,1.0
+401403413,2022-03-11T04:30Z,UC Riverside Highlanders at Hawai'i Rainbow Warriors,Hawai'i Rainbow Warriors,UC Riverside Highlanders,68,67,1.0
+401403337,2022-03-11T04:30Z,Abilene Christian Wildcats at Stephen F. Austin Lumberjacks,Stephen F. Austin Lumberjacks,Abilene Christian Wildcats,62,76,0.0
+401409381,2022-03-11T04:40Z,Washington Huskies at USC Trojans,USC Trojans,Washington Huskies,65,61,1.0
+401403401,2022-03-11T16:30Z,Indiana Hoosiers at Illinois Fighting Illini,Illinois Fighting Illini,Indiana Hoosiers,63,65,0.0
+401408156,2022-03-11T17:00Z,Texas A&M Aggies at Auburn Tigers,Auburn Tigers,Texas A&M Aggies,62,67,0.0
+401403377,2022-03-11T17:00Z,Fordham Rams at Davidson Wildcats,Davidson Wildcats,Fordham Rams,74,56,1.0
+401409397,2022-03-11T17:30Z,Louisiana Tech Bulldogs at North Texas Mean Green,North Texas Mean Green,Louisiana Tech Bulldogs,36,42,0.0
+401405901,2022-03-11T18:00Z,Cincinnati Bearcats at Houston Cougars,Houston Cougars,Cincinnati Bearcats,69,56,1.0
+401408157,2022-03-11T19:00Z,LSU Tigers at Arkansas Razorbacks,Arkansas Razorbacks,LSU Tigers,79,67,1.0
+401403402,2022-03-11T19:00Z,Iowa Hawkeyes at Rutgers Scarlet Knights,Rutgers Scarlet Knights,Iowa Hawkeyes,74,84,0.0
+401403378,2022-03-11T19:30Z,Saint Louis Billikens at St. Bonaventure Bonnies,St. Bonaventure Bonnies,Saint Louis Billikens,56,57,0.0
+401409396,2022-03-11T20:00Z,UAB Blazers at Middle Tennessee Blue Raiders,Middle Tennessee Blue Raiders,UAB Blazers,98,102,0.0
+401405902,2022-03-11T20:00Z,Tulane Green Wave at Temple Owls,Temple Owls,Tulane Green Wave,60,69,0.0
+401405893,2022-03-11T20:00Z,Grambling Tigers at Texas Southern Tigers,Texas Southern Tigers,Grambling Tigers,73,54,1.0
+401405874,2022-03-11T22:00Z,Akron Zips at Toledo Rockets,Toledo Rockets,Akron Zips,62,70,0.0
+401408158,2022-03-11T23:00Z,Mississippi State Bulldogs at Tennessee Volunteers,Tennessee Volunteers,Mississippi State Bulldogs,72,59,1.0
+401405888,2022-03-11T23:00Z,Texas A&M-Corpus Christi Islanders at Nicholls Colonels,Nicholls Colonels,Texas A&M-Corpus Christi Islanders,64,71,0.0
+401403428,2022-03-11T23:00Z,Morgan State Bears at Norfolk State Spartans,Norfolk State Spartans,Morgan State Bears,72,63,1.0
+401403424,2022-03-11T23:00Z,Rider Broncs at Monmouth Hawks,Monmouth Hawks,Rider Broncs,72,68,1.0
+401403380,2022-03-11T23:00Z,Massachusetts Minutemen at Dayton Flyers,Dayton Flyers,Massachusetts Minutemen,75,72,1.0
+401403403,2022-03-11T23:30Z,Michigan State Spartans at Wisconsin Badgers,Wisconsin Badgers,Michigan State Spartans,63,69,0.0
+401403342,2022-03-11T23:30Z,Creighton Bluejays at Providence Friars,Providence Friars,Creighton Bluejays,58,85,0.0
+401405903,2022-03-12T00:00Z,Tulsa Golden Hurricane at SMU Mustangs,SMU Mustangs,Tulsa Golden Hurricane,83,58,1.0
+401405840,2022-03-12T00:00Z,TCU Horned Frogs at Kansas Jayhawks,Kansas Jayhawks,TCU Horned Frogs,75,62,1.0
+401405804,2022-03-12T00:00Z,Miami Hurricanes at Duke Blue Devils,Duke Blue Devils,Miami Hurricanes,80,76,1.0
+401405873,2022-03-12T00:30Z,Ohio Bobcats at Kent State Golden Flashes,Kent State Golden Flashes,Ohio Bobcats,67,61,1.0
+401403317,2022-03-12T00:30Z,Weber State Wildcats at Montana State Bobcats,Montana State Bobcats,Weber State Wildcats,69,66,1.0
+401403429,2022-03-12T01:00Z,Coppin State Eagles at North Carolina Central Eagles,North Carolina Central Eagles,Coppin State Eagles,73,79,0.0
+401408159,2022-03-12T01:22Z,Vanderbilt Commodores at Kentucky Wildcats,Kentucky Wildcats,Vanderbilt Commodores,77,71,1.0
+401405889,2022-03-12T01:30Z,LSU New Orleans Privateers at SE Louisiana Lions,SE Louisiana Lions,LSU New Orleans Privateers,74,65,1.0
+401403425,2022-03-12T01:30Z,Quinnipiac Bobcats at Saint Peter's Peacocks,Saint Peter's Peacocks,Quinnipiac Bobcats,64,52,1.0
+401403379,2022-03-12T01:30Z,Richmond Spiders at VCU Rams,VCU Rams,Richmond Spiders,64,75,0.0
+401409382,2022-03-12T02:00Z,Colorado Buffaloes at Arizona Wildcats,Arizona Wildcats,Colorado Buffaloes,82,72,1.0
+401405904,2022-03-12T02:00Z,UCF Knights at Memphis Tigers,Memphis Tigers,UCF Knights,85,69,1.0
+401403414,2022-03-12T02:00Z,UC Santa Barbara Gauchos at Long Beach State Beach,Long Beach State Beach,UC Santa Barbara Gauchos,67,64,1.0
+401403404,2022-03-12T02:00Z,Penn State Nittany Lions at Purdue Boilermakers,Purdue Boilermakers,Penn State Nittany Lions,69,61,1.0
+401403343,2022-03-12T02:00Z,UConn Huskies at Villanova Wildcats,Villanova Wildcats,UConn Huskies,63,60,1.0
+401403338,2022-03-12T02:00Z,Grand Canyon Lopes at New Mexico State Aggies,New Mexico State Aggies,Grand Canyon Lopes,75,70,1.0
+401409371,2022-03-12T02:30Z,Wyoming Cowboys at Boise State Broncos,Boise State Broncos,Wyoming Cowboys,68,61,1.0
+401405892,2022-03-12T02:30Z,Alabama A&M Bulldogs at Alcorn State Braves,Alcorn State Braves,Alabama A&M Bulldogs,69,64,1.0
+401405841,2022-03-12T02:30Z,Oklahoma Sooners at Texas Tech Red Raiders,Texas Tech Red Raiders,Oklahoma Sooners,56,55,1.0
+401405805,2022-03-12T02:30Z,Virginia Tech Hokies at North Carolina Tar Heels,North Carolina Tar Heels,Virginia Tech Hokies,59,72,0.0
+401403318,2022-03-12T03:00Z,Portland State Vikings at Northern Colorado Bears,Northern Colorado Bears,Portland State Vikings,86,79,1.0
+401409383,2022-03-12T04:30Z,USC Trojans at UCLA Bruins,UCLA Bruins,USC Trojans,69,59,1.0
+401403415,2022-03-12T04:30Z,Hawai'i Rainbow Warriors at Cal State Fullerton Titans,Cal State Fullerton Titans,Hawai'i Rainbow Warriors,58,46,1.0
+401403339,2022-03-12T04:30Z,Abilene Christian Wildcats at Seattle U Redhawks,Seattle U Redhawks,Abilene Christian Wildcats,76,78,0.0
+401409372,2022-03-12T04:59Z,San Diego State Aztecs at Colorado State Rams,Colorado State Rams,San Diego State Aztecs,58,63,0.0
+401405807,2022-03-12T16:00Z,UMBC Retrievers at Vermont Catamounts,Vermont Catamounts,UMBC Retrievers,82,43,1.0
+401403320,2022-03-12T16:00Z,Cornell Big Red at Princeton Tigers,Princeton Tigers,Cornell Big Red,77,73,1.0
+401408160,2022-03-12T18:00Z,Texas A&M Aggies at Arkansas Razorbacks,Arkansas Razorbacks,Texas A&M Aggies,64,82,0.0
+401403427,2022-03-12T18:00Z,Coppin State Eagles at Norfolk State Spartans,Norfolk State Spartans,Coppin State Eagles,72,57,1.0
+401403405,2022-03-12T18:00Z,Indiana Hoosiers at Iowa Hawkeyes,Iowa Hawkeyes,Indiana Hoosiers,80,77,1.0
+401403381,2022-03-12T18:00Z,Saint Louis Billikens at Davidson Wildcats,Davidson Wildcats,Saint Louis Billikens,84,69,1.0
+401403321,2022-03-12T19:00Z,Pennsylvania Quakers at Yale Bulldogs,Yale Bulldogs,Pennsylvania Quakers,67,61,1.0
+401408161,2022-03-12T20:00Z,Kentucky Wildcats at Tennessee Volunteers,Tennessee Volunteers,Kentucky Wildcats,69,62,1.0
+401405905,2022-03-12T20:00Z,Tulane Green Wave at Houston Cougars,Houston Cougars,Tulane Green Wave,86,66,1.0
+401403382,2022-03-12T20:30Z,Richmond Spiders at Dayton Flyers,Dayton Flyers,Richmond Spiders,64,68,0.0
+401403406,2022-03-12T20:37Z,Michigan State Spartans at Purdue Boilermakers,Purdue Boilermakers,Michigan State Spartans,75,70,1.0
+401403426,2022-03-12T21:00Z,Monmouth Hawks at Saint Peter's Peacocks,Saint Peter's Peacocks,Monmouth Hawks,60,54,1.0
+401405906,2022-03-12T22:36Z,Memphis Tigers at SMU Mustangs,SMU Mustangs,Memphis Tigers,63,70,0.0
+401409373,2022-03-12T23:00Z,San Diego State Aztecs at Boise State Broncos,Boise State Broncos,San Diego State Aztecs,53,52,1.0
+401405891,2022-03-12T23:00Z,Texas Southern Tigers at Alcorn State Braves,Alcorn State Braves,Texas Southern Tigers,62,87,0.0
+401405842,2022-03-12T23:00Z,Texas Tech Red Raiders at Kansas Jayhawks,Kansas Jayhawks,Texas Tech Red Raiders,74,65,1.0
+401403341,2022-03-12T23:30Z,Creighton Bluejays at Villanova Wildcats,Villanova Wildcats,Creighton Bluejays,54,48,1.0
+401405875,2022-03-13T00:30Z,Akron Zips at Kent State Golden Flashes,Kent State Golden Flashes,Akron Zips,55,75,0.0
+401403319,2022-03-13T01:00Z,Northern Colorado Bears at Montana State Bobcats,Montana State Bobcats,Northern Colorado Bears,87,66,1.0
+401409398,2022-03-13T01:30Z,Louisiana Tech Bulldogs at UAB Blazers,UAB Blazers,Louisiana Tech Bulldogs,82,73,1.0
+401405806,2022-03-13T01:30Z,Virginia Tech Hokies at Duke Blue Devils,Duke Blue Devils,Virginia Tech Hokies,67,82,0.0
+401409384,2022-03-13T02:00Z,UCLA Bruins at Arizona Wildcats,Arizona Wildcats,UCLA Bruins,84,76,1.0
+401405890,2022-03-13T02:30Z,Texas A&M-Corpus Christi Islanders at SE Louisiana Lions,SE Louisiana Lions,Texas A&M-Corpus Christi Islanders,65,73,0.0
+401403340,2022-03-13T03:00Z,Abilene Christian Wildcats at New Mexico State Aggies,New Mexico State Aggies,Abilene Christian Wildcats,66,52,1.0
+401403416,2022-03-13T04:30Z,Cal State Fullerton Titans at Long Beach State Beach,Long Beach State Beach,Cal State Fullerton Titans,71,72,0.0
+401403322,2022-03-13T16:00Z,Yale Bulldogs at Princeton Tigers,Princeton Tigers,Yale Bulldogs,64,66,0.0
+401408162,2022-03-13T17:00Z,Texas A&M Aggies at Tennessee Volunteers,Tennessee Volunteers,Texas A&M Aggies,65,50,1.0
+401403383,2022-03-13T17:00Z,Richmond Spiders at Davidson Wildcats,Davidson Wildcats,Richmond Spiders,62,64,0.0
+401405907,2022-03-13T19:15Z,Memphis Tigers at Houston Cougars,Houston Cougars,Memphis Tigers,71,53,1.0
+401403407,2022-03-13T19:30Z,Iowa Hawkeyes at Purdue Boilermakers,Purdue Boilermakers,Iowa Hawkeyes,66,75,0.0
+401422722,2022-03-15T22:30Z,South Carolina Upstate Spartans at App State Mountaineers,App State Mountaineers,South Carolina Upstate Spartans,74,80,0.0
+401408572,2022-03-15T22:40Z,Texas A&M-Corpus Christi Islanders at Texas Southern Tigers,Texas Southern Tigers,Texas A&M-Corpus Christi Islanders,76,67,1.0
+401408571,2022-03-16T01:25Z,Indiana Hoosiers at Wyoming Cowboys,Wyoming Cowboys,Indiana Hoosiers,58,66,0.0
+401415691,2022-03-15T23:00Z,Princeton Tigers at VCU Rams,VCU Rams,Princeton Tigers,90,79,1.0
+401411697,2022-03-15T23:00Z,Belmont Bruins at Vanderbilt Commodores,Vanderbilt Commodores,Belmont Bruins,82,71,1.0
+401411696,2022-03-15T23:00Z,Missouri State Bears at Oklahoma Sooners,Oklahoma Sooners,Missouri State Bears,89,72,1.0
+401411698,2022-03-16T00:00Z,Texas State Bobcats at North Texas Mean Green,North Texas Mean Green,Texas State Bobcats,67,63,1.0
+401411701,2022-03-16T01:00Z,Cleveland State Vikings at Xavier Musketeers,Xavier Musketeers,Cleveland State Vikings,72,68,1.0
+401411700,2022-03-16T01:00Z,Alcorn State Braves at Texas A&M Aggies,Texas A&M Aggies,Alcorn State Braves,74,62,1.0
+401411699,2022-03-16T01:00Z,Oregon Ducks at Utah State Aggies,Utah State Aggies,Oregon Ducks,72,83,0.0
+401411703,2022-03-16T03:00Z,Santa Clara Broncos at Washington State Cougars,Washington State Cougars,Santa Clara Broncos,63,50,1.0
+401411702,2022-03-16T03:00Z,St. Bonaventure Bonnies at Colorado Buffaloes,Colorado Buffaloes,St. Bonaventure Bonnies,68,76,0.0
+401422727,2022-03-16T23:00Z,Detroit Mercy Titans at Florida Gulf Coast Eagles,Florida Gulf Coast Eagles,Detroit Mercy Titans,95,79,1.0
+401422724,2022-03-16T23:00Z,Maryland Eastern Shore Hawks at Coastal Carolina Chanticleers,Coastal Carolina Chanticleers,Maryland Eastern Shore Hawks,66,42,1.0
+401422728,2022-03-16T23:30Z,Merrimack Warriors at UMBC Retrievers,UMBC Retrievers,Merrimack Warriors,0,1,0.0
+401422726,2022-03-17T00:00Z,SE Louisiana Lions at South Alabama Jaguars,South Alabama Jaguars,SE Louisiana Lions,70,68,1.0
+401422725,2022-03-17T00:00Z,Morgan State Bears at Youngstown State Penguins,Youngstown State Penguins,Morgan State Bears,70,65,1.0
+401422729,2022-03-17T01:00Z,Kent State Golden Flashes at Southern Utah Thunderbirds,Southern Utah Thunderbirds,Kent State Golden Flashes,83,79,1.0
+401408573,2022-03-16T22:40Z,Bryant Bulldogs at Wright State Raiders,Wright State Raiders,Bryant Bulldogs,93,82,1.0
+401408570,2022-03-17T01:36Z,Notre Dame Fighting Irish at Rutgers Scarlet Knights,Rutgers Scarlet Knights,Notre Dame Fighting Irish,87,89,0.0
+401415692,2022-03-16T23:00Z,Towson Tigers at Wake Forest Demon Deacons,Wake Forest Demon Deacons,Towson Tigers,74,64,1.0
+401411707,2022-03-16T23:00Z,Dayton Flyers at Toledo Rockets,Toledo Rockets,Dayton Flyers,55,74,0.0
+401411704,2022-03-16T23:00Z,Mississippi State Bulldogs at Virginia Cavaliers,Virginia Cavaliers,Mississippi State Bulldogs,60,57,1.0
+401415694,2022-03-17T00:00Z,Nicholls Colonels at SMU Mustangs,SMU Mustangs,Nicholls Colonels,68,58,1.0
+401415693,2022-03-17T00:00Z,Northern Iowa Panthers at Saint Louis Billikens,Saint Louis Billikens,Northern Iowa Panthers,68,80,0.0
+401411706,2022-03-17T01:00Z,Long Beach State Beach at BYU Cougars,BYU Cougars,Long Beach State Beach,93,72,1.0
+401411705,2022-03-17T01:00Z,Iona Gaels at Florida Gators,Florida Gators,Iona Gaels,79,74,1.0
+401422750,2022-03-18T02:00Z,Eastern Washington Eagles at Fresno State Bulldogs,Fresno State Bulldogs,Eastern Washington Eagles,83,74,1.0
+401408581,2022-03-17T16:15Z,Michigan Wolverines at Colorado State Rams,Colorado State Rams,Michigan Wolverines,63,75,0.0
+401408576,2022-03-17T16:40Z,South Dakota State Jackrabbits at Providence Friars,Providence Friars,South Dakota State Jackrabbits,66,57,1.0
+401408588,2022-03-17T17:45Z,Memphis Tigers at Boise State Broncos,Boise State Broncos,Memphis Tigers,53,64,0.0
+401408585,2022-03-17T18:00Z,Norfolk State Spartans at Baylor Bears,Baylor Bears,Norfolk State Spartans,85,49,1.0
+401408580,2022-03-17T18:50Z,Longwood Lancers at Tennessee Volunteers,Tennessee Volunteers,Longwood Lancers,88,56,1.0
+401408577,2022-03-17T19:10Z,Richmond Spiders at Iowa Hawkeyes,Iowa Hawkeyes,Richmond Spiders,63,67,0.0
+401408586,2022-03-17T20:27Z,Georgia State Panthers at Gonzaga Bulldogs,Gonzaga Bulldogs,Georgia State Panthers,93,72,1.0
+401408583,2022-03-17T20:41Z,Marquette Golden Eagles at North Carolina Tar Heels,North Carolina Tar Heels,Marquette Golden Eagles,95,63,1.0
+401408574,2022-03-17T23:00Z,New Mexico State Aggies at UConn Huskies,UConn Huskies,New Mexico State Aggies,63,70,0.0
+401408578,2022-03-17T23:10Z,Saint Peter's Peacocks at Kentucky Wildcats,Kentucky Wildcats,Saint Peter's Peacocks,79,85,0.0
+401408589,2022-03-17T23:20Z,Indiana Hoosiers at Saint Mary's Gaels,Saint Mary's Gaels,Indiana Hoosiers,82,53,1.0
+401408584,2022-03-17T23:27Z,Creighton Bluejays at San Diego State Aztecs,San Diego State Aztecs,Creighton Bluejays,69,72,0.0
+401408575,2022-03-18T01:40Z,Vermont Catamounts at Arkansas Razorbacks,Arkansas Razorbacks,Vermont Catamounts,75,71,1.0
+401408587,2022-03-18T02:07Z,Akron Zips at UCLA Bruins,UCLA Bruins,Akron Zips,57,53,1.0
+401408579,2022-03-18T02:14Z,San Francisco Dons at Murray State Racers,Murray State Racers,San Francisco Dons,92,87,1.0
+401408582,2022-03-18T02:43Z,Texas Southern Tigers at Kansas Jayhawks,Kansas Jayhawks,Texas Southern Tigers,83,56,1.0
+401408599,2022-03-18T16:15Z,Loyola Chicago Ramblers at Ohio State Buckeyes,Ohio State Buckeyes,Loyola Chicago Ramblers,54,41,1.0
+401408591,2022-03-18T16:40Z,Jacksonville State Gamecocks at Auburn Tigers,Auburn Tigers,Jacksonville State Gamecocks,80,61,1.0
+401408602,2022-03-18T17:45Z,Montana State Bobcats at Texas Tech Red Raiders,Texas Tech Red Raiders,Montana State Bobcats,97,62,1.0
+401408595,2022-03-18T18:00Z,Yale Bulldogs at Purdue Boilermakers,Purdue Boilermakers,Yale Bulldogs,78,56,1.0
+401408598,2022-03-18T18:58Z,Delaware Blue Hens at Villanova Wildcats,Villanova Wildcats,Delaware Blue Hens,80,60,1.0
+401408590,2022-03-18T19:23Z,Miami Hurricanes at USC Trojans,USC Trojans,Miami Hurricanes,66,68,0.0
+401408605,2022-03-18T20:25Z,Notre Dame Fighting Irish at Alabama Crimson Tide,Alabama Crimson Tide,Notre Dame Fighting Irish,64,78,0.0
+401408596,2022-03-18T20:38Z,Virginia Tech Hokies at Texas Longhorns,Texas Longhorns,Virginia Tech Hokies,81,73,1.0
+401408600,2022-03-18T22:50Z,Chattanooga Mocs at Illinois Fighting Illini,Illinois Fighting Illini,Chattanooga Mocs,54,53,1.0
+401408592,2022-03-18T23:10Z,Cal State Fullerton Titans at Duke Blue Devils,Duke Blue Devils,Cal State Fullerton Titans,78,61,1.0
+401408604,2022-03-18T23:27Z,Wright State Raiders at Arizona Wildcats,Arizona Wildcats,Wright State Raiders,87,70,1.0
+401408597,2022-03-18T23:57Z,Iowa State Cyclones at LSU Tigers,LSU Tigers,Iowa State Cyclones,54,59,0.0
+401408593,2022-03-19T01:37Z,Davidson Wildcats at Michigan State Spartans,Michigan State Spartans,Davidson Wildcats,74,73,1.0
+401408601,2022-03-19T01:40Z,UAB Blazers at Houston Cougars,Houston Cougars,UAB Blazers,82,68,1.0
+401408603,2022-03-19T02:00Z,TCU Horned Frogs at Seton Hall Pirates,Seton Hall Pirates,TCU Horned Frogs,42,69,0.0
+401408594,2022-03-19T02:45Z,Colgate Raiders at Wisconsin Badgers,Wisconsin Badgers,Colgate Raiders,67,60,1.0
+401422723,2022-03-19T19:00Z,Western Illinois Leathernecks at UTEP Miners,UTEP Miners,Western Illinois Leathernecks,80,54,1.0
+401422751,2022-03-20T02:00Z,LSU New Orleans Privateers at Portland Pilots,Portland Pilots,LSU New Orleans Privateers,94,73,1.0
+401423471,2022-03-19T18:00Z,Youngstown State Penguins at Wofford Terriers,Wofford Terriers,Youngstown State Penguins,0,0,0.5
+401408610,2022-03-19T16:10Z,North Carolina Tar Heels at Baylor Bears,Baylor Bears,North Carolina Tar Heels,86,93,0.0
+401408611,2022-03-19T18:40Z,Creighton Bluejays at Kansas Jayhawks,Kansas Jayhawks,Creighton Bluejays,79,72,1.0
+401408608,2022-03-19T21:50Z,Michigan Wolverines at Tennessee Volunteers,Tennessee Volunteers,Michigan Wolverines,68,76,0.0
+401408607,2022-03-19T22:10Z,Richmond Spiders at Providence Friars,Providence Friars,Richmond Spiders,79,51,1.0
+401408612,2022-03-19T23:10Z,Saint Mary's Gaels at UCLA Bruins,UCLA Bruins,Saint Mary's Gaels,72,56,1.0
+401408609,2022-03-20T00:28Z,Saint Peter's Peacocks at Murray State Racers,Murray State Racers,Saint Peter's Peacocks,60,70,0.0
+401408606,2022-03-20T00:40Z,New Mexico State Aggies at Arkansas Razorbacks,Arkansas Razorbacks,New Mexico State Aggies,53,48,1.0
+401408613,2022-03-20T01:40Z,Memphis Tigers at Gonzaga Bulldogs,Gonzaga Bulldogs,Memphis Tigers,82,78,1.0
+401415697,2022-03-19T16:00Z,Oregon Ducks at Texas A&M Aggies,Texas A&M Aggies,Oregon Ducks,75,60,1.0
+401411709,2022-03-19T20:00Z,VCU Rams at Wake Forest Demon Deacons,Wake Forest Demon Deacons,VCU Rams,80,74,1.0
+401411711,2022-03-20T01:00Z,Northern Iowa Panthers at BYU Cougars,BYU Cougars,Northern Iowa Panthers,90,71,1.0
+401411720,2022-03-19T16:00Z,Drake Bulldogs at Purdue Fort Wayne Mastodons,Purdue Fort Wayne Mastodons,Drake Bulldogs,65,87,0.0
+401411721,2022-03-19T18:30Z,Stephen F. Austin Lumberjacks at UNC Asheville Bulldogs,UNC Asheville Bulldogs,Stephen F. Austin Lumberjacks,80,68,1.0
+401411722,2022-03-19T21:00Z,Middle Tennessee Blue Raiders at California Baptist Lancers,California Baptist Lancers,Middle Tennessee Blue Raiders,58,64,0.0
+401411723,2022-03-19T23:30Z,Ohio Bobcats at Rice Owls,Rice Owls,Ohio Bobcats,64,65,0.0
+401408618,2022-03-20T16:10Z,Houston Cougars at Illinois Fighting Illini,Illinois Fighting Illini,Houston Cougars,53,68,0.0
+401408619,2022-03-20T18:54Z,Ohio State Buckeyes at Villanova Wildcats,Villanova Wildcats,Ohio State Buckeyes,71,61,1.0
+401408614,2022-03-20T21:20Z,Michigan State Spartans at Duke Blue Devils,Duke Blue Devils,Michigan State Spartans,85,76,1.0
+401408617,2022-03-20T22:10Z,Iowa State Cyclones at Wisconsin Badgers,Wisconsin Badgers,Iowa State Cyclones,49,54,0.0
+401408620,2022-03-20T23:10Z,Notre Dame Fighting Irish at Texas Tech Red Raiders,Texas Tech Red Raiders,Notre Dame Fighting Irish,59,53,1.0
+401408615,2022-03-21T00:08Z,Miami Hurricanes at Auburn Tigers,Auburn Tigers,Miami Hurricanes,61,79,0.0
+401408616,2022-03-21T01:06Z,Texas Longhorns at Purdue Boilermakers,Purdue Boilermakers,Texas Longhorns,81,71,1.0
+401408621,2022-03-21T01:54Z,TCU Horned Frogs at Arizona Wildcats,Arizona Wildcats,TCU Horned Frogs,85,80,1.0
+401415696,2022-03-20T17:00Z,Florida Gators at Xavier Musketeers,Xavier Musketeers,Florida Gators,72,56,1.0
+401411710,2022-03-20T19:00Z,Washington State Cougars at SMU Mustangs,SMU Mustangs,Washington State Cougars,63,75,0.0
+401411708,2022-03-20T19:00Z,Dayton Flyers at Vanderbilt Commodores,Vanderbilt Commodores,Dayton Flyers,70,68,1.0
+401411712,2022-03-20T22:00Z,Virginia Cavaliers at North Texas Mean Green,North Texas Mean Green,Virginia Cavaliers,69,71,0.0
+401415695,2022-03-21T00:00Z,St. Bonaventure Bonnies at Oklahoma Sooners,Oklahoma Sooners,St. Bonaventure Bonnies,68,70,0.0
+401411724,2022-03-20T16:00Z,VMI Keydets at UNC Wilmington Seahawks,UNC Wilmington Seahawks,VMI Keydets,93,78,1.0
+401411725,2022-03-20T18:30Z,Florida Atlantic Owls at Northern Colorado Bears,Northern Colorado Bears,Florida Atlantic Owls,74,71,1.0
+401411726,2022-03-20T21:00Z,UNC Greensboro Spartans at Boston University Terriers,Boston University Terriers,UNC Greensboro Spartans,71,68,1.0
+401411727,2022-03-20T23:30Z,Abilene Christian Wildcats at Troy Trojans,Troy Trojans,Abilene Christian Wildcats,70,82,0.0
+401423613,2022-03-21T23:00Z,Florida Gulf Coast Eagles at Coastal Carolina Chanticleers,Coastal Carolina Chanticleers,Florida Gulf Coast Eagles,84,68,1.0
+401423830,2022-03-22T00:00Z,South Carolina Upstate Spartans at South Alabama Jaguars,South Alabama Jaguars,South Carolina Upstate Spartans,83,79,1.0
+401411728,2022-03-21T17:00Z,Drake Bulldogs at UNC Wilmington Seahawks,UNC Wilmington Seahawks,Drake Bulldogs,76,75,1.0
+401411729,2022-03-21T19:30Z,Northern Colorado Bears at UNC Asheville Bulldogs,UNC Asheville Bulldogs,Northern Colorado Bears,84,87,0.0
+401411730,2022-03-21T22:00Z,Middle Tennessee Blue Raiders at Boston University Terriers,Boston University Terriers,Middle Tennessee Blue Raiders,46,76,0.0
+401411731,2022-03-22T00:30Z,Ohio Bobcats at Abilene Christian Wildcats,Abilene Christian Wildcats,Ohio Bobcats,91,86,1.0
+401423832,2022-03-23T01:00Z,Southern Utah Thunderbirds at UTEP Miners,UTEP Miners,Southern Utah Thunderbirds,69,82,0.0
+401411713,2022-03-22T23:00Z,St. Bonaventure Bonnies at Virginia Cavaliers,Virginia Cavaliers,St. Bonaventure Bonnies,51,52,0.0
+401411714,2022-03-23T01:00Z,Vanderbilt Commodores at Xavier Musketeers,Xavier Musketeers,Vanderbilt Commodores,75,73,1.0
+401411732,2022-03-22T23:00Z,UNC Wilmington Seahawks at Northern Colorado Bears,Northern Colorado Bears,UNC Wilmington Seahawks,64,80,0.0
+401411733,2022-03-23T01:32Z,Middle Tennessee Blue Raiders at Abilene Christian Wildcats,Abilene Christian Wildcats,Middle Tennessee Blue Raiders,69,85,0.0
+401423831,2022-03-24T02:00Z,Youngstown State Penguins at Fresno State Bulldogs,Fresno State Bulldogs,Youngstown State Penguins,80,71,1.0
+401411715,2022-03-23T23:00Z,Wake Forest Demon Deacons at Texas A&M Aggies,Texas A&M Aggies,Wake Forest Demon Deacons,67,52,1.0
+401411716,2022-03-24T01:00Z,Washington State Cougars at BYU Cougars,BYU Cougars,Washington State Cougars,58,77,0.0
+401411734,2022-03-23T21:00Z,Middle Tennessee Blue Raiders at UNC Wilmington Seahawks,UNC Wilmington Seahawks,Middle Tennessee Blue Raiders,96,90,1.0
+401408625,2022-03-24T23:09Z,Arkansas Razorbacks at Gonzaga Bulldogs,Gonzaga Bulldogs,Arkansas Razorbacks,68,74,0.0
+401408623,2022-03-24T23:29Z,Michigan Wolverines at Villanova Wildcats,Villanova Wildcats,Michigan Wolverines,63,55,1.0
+401408624,2022-03-25T01:39Z,Texas Tech Red Raiders at Duke Blue Devils,Duke Blue Devils,Texas Tech Red Raiders,78,73,1.0
+401408622,2022-03-25T01:59Z,Houston Cougars at Arizona Wildcats,Arizona Wildcats,Houston Cougars,60,72,0.0
+401408628,2022-03-25T23:09Z,Saint Peter's Peacocks at Purdue Boilermakers,Purdue Boilermakers,Saint Peter's Peacocks,64,67,0.0
+401408627,2022-03-25T23:29Z,Providence Friars at Kansas Jayhawks,Kansas Jayhawks,Providence Friars,66,61,1.0
+401408629,2022-03-26T01:58Z,North Carolina Tar Heels at UCLA Bruins,UCLA Bruins,North Carolina Tar Heels,66,73,0.0
+401408626,2022-03-26T02:20Z,Iowa State Cyclones at Miami Hurricanes,Miami Hurricanes,Iowa State Cyclones,70,56,1.0
+401424327,2022-03-26T22:00Z,Portland Pilots at Southern Utah Thunderbirds,Southern Utah Thunderbirds,Portland Pilots,77,66,1.0
+401408630,2022-03-26T22:09Z,Houston Cougars at Villanova Wildcats,Villanova Wildcats,Houston Cougars,50,44,1.0
+401408631,2022-03-27T00:54Z,Arkansas Razorbacks at Duke Blue Devils,Duke Blue Devils,Arkansas Razorbacks,78,69,1.0
+401408632,2022-03-27T18:20Z,Miami Hurricanes at Kansas Jayhawks,Kansas Jayhawks,Miami Hurricanes,76,50,1.0
+401408633,2022-03-27T21:05Z,Saint Peter's Peacocks at North Carolina Tar Heels,North Carolina Tar Heels,Saint Peter's Peacocks,69,49,1.0
+401424323,2022-03-29T00:00Z,Coastal Carolina Chanticleers at South Alabama Jaguars,South Alabama Jaguars,Coastal Carolina Chanticleers,68,69,0.0
+401421316,2022-03-29T02:00Z,Southern Utah Thunderbirds at Fresno State Bulldogs,Fresno State Bulldogs,Southern Utah Thunderbirds,67,48,1.0
+401411717,2022-03-29T23:00Z,St. Bonaventure Bonnies at Xavier Musketeers,Xavier Musketeers,St. Bonaventure Bonnies,84,77,1.0
+401411718,2022-03-30T01:30Z,Washington State Cougars at Texas A&M Aggies,Texas A&M Aggies,Washington State Cougars,72,56,1.0
+401411719,2022-03-31T23:00Z,Xavier Musketeers at Texas A&M Aggies,Texas A&M Aggies,Xavier Musketeers,72,73,0.0

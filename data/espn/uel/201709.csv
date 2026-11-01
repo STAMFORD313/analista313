@@ -1,0 +1,49 @@
+id,date,event,home,away,hs,as,res
+495481,2017-09-14T17:00Z,Lyon at Apollon Limassol,Apollon Limassol,Lyon,1,1,0.5
+495475,2017-09-14T17:00Z,Everton at Atalanta,Atalanta,Everton,3,0,1.0
+495483,2017-09-14T17:00Z,AC Milan at Austria Vienna,Austria Vienna,AC Milan,1,5,0.0
+495484,2017-09-14T17:00Z,Skenderbeu Korce at Dynamo Kyiv,Dynamo Kyiv,Skenderbeu Korce,3,1,1.0
+495479,2017-09-14T17:00Z,Lokomotiv Moscow at F.C. København,F.C. København,Lokomotiv Moscow,0,0,0.5
+495477,2017-09-14T17:00Z,Sheriff Tiraspol at FC Zlín,FC Zlín,Sheriff Tiraspol,0,0,0.5
+495480,2017-09-14T17:00Z,Ludogorets Razgrad at Istanbul Basaksehir,Istanbul Basaksehir,Ludogorets Razgrad,0,0,0.5
+495473,2017-09-14T17:00Z,AEK Athens at Rijeka,Rijeka,AEK Athens,1,2,0.0
+495482,2017-09-14T17:00Z,Maccabi Tel-Aviv at Slavia Prague,Slavia Prague,Maccabi Tel-Aviv,1,0,1.0
+495474,2017-09-14T17:00Z,Braga at TSG Hoffenheim,TSG Hoffenheim,Braga,1,2,0.0
+495476,2017-09-14T17:00Z,FC Astana at Villarreal,Villarreal,FC Astana,3,1,1.0
+495478,2017-09-14T17:00Z,Partizan Belgrade at Young Boys,Young Boys,Partizan Belgrade,1,1,0.5
+495472,2017-09-14T19:05Z,Östersunds FK at FC Zorya Luhansk,FC Zorya Luhansk,Östersunds FK,0,2,0.0
+495470,2017-09-14T19:05Z,Viktoria Plzen at FCSB,FCSB,Viktoria Plzen,3,0,1.0
+495464,2017-09-14T19:05Z,FC Lugano at Hapoel Be'er,Hapoel Be'er,FC Lugano,2,1,1.0
+495462,2017-09-14T19:05Z,Athletic Club at Hertha Berlin,Hertha Berlin,Athletic Club,0,0,0.5
+495466,2017-09-14T19:05Z,Konyaspor at Marseille,Marseille,Konyaspor,1,0,1.0
+495469,2017-09-14T19:05Z,Rosenborg at Real Sociedad,Real Sociedad,Rosenborg,4,0,1.0
+495463,2017-09-14T19:05Z,BATE Borisov at Red Star Belgrade,Red Star Belgrade,BATE Borisov,1,1,0.5
+495471,2017-09-14T19:05Z,Zenit St Petersburg at Vardar,Vardar,Zenit St Petersburg,0,5,0.0
+495467,2017-09-14T19:05Z,Lazio at Vitesse,Vitesse,Lazio,2,3,0.0
+495465,2017-09-14T19:05Z,RB Salzburg at Vitória de Guimaraes,Vitória de Guimaraes,RB Salzburg,1,1,0.5
+495468,2017-09-14T19:05Z,Nice at Zulte-Waregem,Zulte-Waregem,Nice,1,5,0.0
+495461,2017-09-14T20:05Z,FC Cologne at Arsenal,Arsenal,FC Cologne,3,1,1.0
+495446,2017-09-28T15:00Z,Slavia Prague at FC Astana,FC Astana,Slavia Prague,1,1,0.5
+495450,2017-09-28T17:00Z,FC Zorya Luhansk at Athletic Club,Athletic Club,FC Zorya Luhansk,0,1,0.0
+495449,2017-09-28T17:00Z,Arsenal at BATE Borisov,BATE Borisov,Arsenal,2,4,0.0
+495456,2017-09-28T17:00Z,Red Star Belgrade at FC Cologne,FC Cologne,Red Star Belgrade,0,1,0.0
+495458,2017-09-28T17:00Z,FCSB at FC Lugano,FC Lugano,FCSB,1,2,0.0
+495451,2017-09-28T17:00Z,Vitória de Guimaraes at Konyaspor,Konyaspor,Vitória de Guimaraes,2,1,1.0
+495457,2017-09-28T17:00Z,Zulte-Waregem at Lazio,Lazio,Zulte-Waregem,2,0,1.0
+495460,2017-09-28T17:00Z,Vitesse at Nice,Nice,Vitesse,3,0,1.0
+495453,2017-09-28T17:00Z,Hertha Berlin at Östersunds FK,Östersunds FK,Hertha Berlin,1,0,1.0
+495454,2017-09-28T17:00Z,Marseille at RB Salzburg,RB Salzburg,Marseille,1,0,1.0
+495459,2017-09-28T17:00Z,Vardar at Rosenborg,Rosenborg,Vardar,3,1,1.0
+495452,2017-09-28T17:00Z,Hapoel Be'er at Viktoria Plzen,Viktoria Plzen,Hapoel Be'er,3,1,1.0
+495455,2017-09-28T17:00Z,Real Sociedad at Zenit St Petersburg,Zenit St Petersburg,Real Sociedad,3,1,1.0
+495445,2017-09-28T19:05Z,Rijeka at AC Milan,AC Milan,Rijeka,3,2,1.0
+495442,2017-09-28T19:05Z,Austria Vienna at AEK Athens,AEK Athens,Austria Vienna,2,2,0.5
+495444,2017-09-28T19:05Z,Istanbul Basaksehir at Braga,Braga,Istanbul Basaksehir,2,1,1.0
+495437,2017-09-28T19:05Z,Apollon Limassol at Everton,Everton,Apollon Limassol,2,2,0.5
+495441,2017-09-28T19:05Z,FC Zlín at Lokomotiv Moscow,Lokomotiv Moscow,FC Zlín,3,0,1.0
+495443,2017-09-28T19:05Z,TSG Hoffenheim at Ludogorets Razgrad,Ludogorets Razgrad,TSG Hoffenheim,2,1,1.0
+495438,2017-09-28T19:05Z,Atalanta at Lyon,Lyon,Atalanta,1,1,0.5
+495447,2017-09-28T19:05Z,Villarreal at Maccabi Tel-Aviv,Maccabi Tel-Aviv,Villarreal,0,0,0.5
+495439,2017-09-28T19:05Z,Dynamo Kyiv at Partizan Belgrade,Partizan Belgrade,Dynamo Kyiv,2,3,0.0
+495440,2017-09-28T19:05Z,F.C. København at Sheriff Tiraspol,Sheriff Tiraspol,F.C. København,0,0,0.5
+495448,2017-09-28T19:05Z,Young Boys at Skenderbeu Korce,Skenderbeu Korce,Young Boys,1,1,0.5

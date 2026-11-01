@@ -1,0 +1,153 @@
+id,date,event,home,away,hs,as,res
+541451,2019-07-02T15:45Z,Prishtina at St. Joseph's,St. Joseph's,Prishtina,2,0,1.0
+541452,2019-07-04T17:30Z,Progres Niederkorn at Cardiff MU,Cardiff MU,Progres Niederkorn,2,1,0.0
+541453,2019-07-04T17:30Z,Fiorita at UE Engordany,UE Engordany,Fiorita,2,1,1.0
+541449,2019-07-04T18:00Z,Ballymena at NSI Runavik,NSI Runavik,Ballymena,0,0,0.0
+541455,2019-07-04T18:30Z,UE Sant Julia at Europa FC,Europa FC,UE Sant Julia,4,0,1.0
+541450,2019-07-04T18:45Z,Barry Town at Cliftonville,Cliftonville,Barry Town,4,0,1.0
+541459,2019-07-04T18:45Z,KI Klaksvik at Tre Fiori,Tre Fiori,KI Klaksvik,0,4,0.0
+543815,2019-07-09T15:55Z,Rangers at St. Joseph's,St. Joseph's,Rangers,0,4,0.0
+543798,2019-07-09T16:00Z,Hajduk Split at Gzira United,Gzira United,Hajduk Split,0,2,0.0
+543811,2019-07-09T17:30Z,Mladost Pogorica at CSKA Sofia,CSKA Sofia,Mladost Pogorica,4,0,1.0
+543826,2019-07-10T15:55Z,Tobol Kostanay at Jeunesse Esch,Jeunesse Esch,Tobol Kostanay,0,0,0.5
+543819,2019-07-11T13:30Z,Shkupi at Pyunik,Pyunik,Shkupi,3,3,0.5
+543827,2019-07-11T14:00Z,Torpedo Kutaisi at Ordabasy Shymkent,Ordabasy Shymkent,Torpedo Kutaisi,1,0,1.0
+543803,2019-07-11T14:45Z,KS Teuta at FK Ventspils,FK Ventspils,KS Teuta,3,0,1.0
+543810,2019-07-11T15:00Z,FK Makedonija at Alashkert FC,Alashkert FC,FK Makedonija,3,1,1.0
+543814,2019-07-11T15:30Z,Petrocub at AEK Larnaca,AEK Larnaca,Petrocub,1,0,1.0
+543742,2019-07-11T15:30Z,Buducnost Podgorica at JK Narva Trans,JK Narva Trans,Buducnost Podgorica,0,2,0.0
+543799,2019-07-11T15:30Z,Hapoel Be'er at KF Laci,KF Laci,Hapoel Be'er,1,1,0.5
+543772,2019-07-11T16:00Z,Radnicki Nis at Flora,Flora,Radnicki Nis,2,0,1.0
+543755,2019-07-11T16:00Z,FC Vitebsk at KuPS Kuopio,KuPS Kuopio,FC Vitebsk,2,0,1.0
+543788,2019-07-11T16:00Z,CSU Craiova at Sabail,Sabail,CSU Craiova,2,3,0.0
+543768,2019-07-11T16:30Z,NK Domzale at Balzan FC,Balzan FC,NK Domzale,3,4,0.0
+543764,2019-07-11T16:30Z,Levski Sofia at MFK Ruzomberok,MFK Ruzomberok,Levski Sofia,0,2,0.0
+543825,2019-07-11T16:30Z,KI Klaksvik at Trakai,Trakai,KI Klaksvik,1,1,0.5
+543830,2019-07-11T17:00Z,Zrinjski Mostar at Akademija Pandev,Akademija Pandev,Zrinjski Mostar,0,3,0.0
+543752,2019-07-11T17:00Z,FC Inter Turku at Brøndby IF,Brøndby IF,FC Inter Turku,4,1,1.0
+543785,2019-07-11T17:00Z,B36 Torshavn at Crusaders,Crusaders,B36 Torshavn,2,0,1.0
+543795,2019-07-11T17:00Z,FK Kukesi at Debrecen,Debrecen,FK Kukesi,3,0,1.0
+543823,2019-07-11T17:00Z,UE Engordany at Dinamo Tbilisi,Dinamo Tbilisi,UE Engordany,6,0,1.0
+543750,2019-07-11T17:00Z,Dinamo Minsk at FK Liepaja,FK Liepaja,Dinamo Minsk,1,1,0.5
+543784,2019-07-11T17:00Z,Apollon Limassol at Kauno Zalgiris,Kauno Zalgiris,Apollon Limassol,0,2,0.0
+543812,2019-07-11T17:00Z,NS Mura at Maccabi Haifa,Maccabi Haifa,NS Mura,2,0,1.0
+543824,2019-07-11T17:00Z,Ballymena at Malmö FF,Malmö FF,Ballymena,7,0,1.0
+543802,2019-07-11T17:00Z,KR Reykjavik at Molde,Molde,KR Reykjavik,7,1,1.0
+543793,2019-07-11T17:00Z,FC Spartak Trnava at Radnik Bijeljina,Radnik Bijeljina,FC Spartak Trnava,2,0,1.0
+543801,2019-07-11T17:00Z,Hibernians at Shakhter Soligorsk,Shakhter Soligorsk,Hibernians,1,0,1.0
+543818,2019-07-11T17:00Z,Shamrock Rovers at SK Brann,SK Brann,Shamrock Rovers,2,2,0.5
+543769,2019-07-11T17:00Z,Neftchi at Speranta Nisporeni,Speranta Nisporeni,Neftchi,0,3,0.0
+543789,2019-07-11T17:30Z,Chikhura Sachkhere at CS Fola Esch,CS Fola Esch,Chikhura Sachkhere,1,2,0.0
+543805,2019-07-11T18:00Z,Kilmarnock at Connah's Quay,Connah's Quay,Kilmarnock,1,2,0.0
+543816,2019-07-11T18:00Z,Rigas Futbola Skola at Olimpija Ljubljana,Olimpija Ljubljana,Rigas Futbola Skola,2,3,0.0
+543791,2019-07-11T18:30Z,FC Urartu at Cukaricki Belgrade,Cukaricki Belgrade,FC Urartu,3,0,1.0
+543746,2019-07-11T18:30Z,Cracovia at Dunajska Streda,Dunajska Streda,Cracovia,1,1,0.5
+543807,2019-07-11T18:30Z,Legia Warsaw at Europa FC,Europa FC,Legia Warsaw,0,0,0.5
+543792,2019-07-11T18:30Z,FC Milsami at FCSB,FCSB,FC Milsami,2,0,1.0
+543828,2019-07-11T18:30Z,Fehérvár at FK Zeta,FK Zeta,Fehérvár,1,5,0.0
+543817,2019-07-11T18:45Z,RoPS at Aberdeen,Aberdeen,RoPS,2,1,1.0
+543800,2019-07-11T18:45Z,Haugesund at Cliftonville,Cliftonville,Haugesund,0,1,0.0
+543822,2019-07-11T18:45Z,Progres Niederkorn at Cork,Cork,Progres Niederkorn,0,2,0.0
+543760,2019-07-11T18:45Z,IFK Norrköping at St Patrick's Athletic,St Patrick's Athletic,IFK Norrköping,0,2,0.0
+543829,2019-07-11T19:00Z,Zalgiris Vilnius at Honvéd,Honvéd,Zalgiris Vilnius,3,1,1.0
+543804,2019-07-11T19:00Z,Kairat Almaty at Siroki Brijeg,Siroki Brijeg,Kairat Almaty,1,2,0.0
+543794,2019-07-11T20:00Z,FC Vaduz at Breidablik,Breidablik,FC Vaduz,0,0,0.5
+543808,2019-07-11T20:00Z,FC Levadia Tallinn at Stjarnan,Stjarnan,FC Levadia Tallinn,2,1,1.0
+543748,2019-07-16T15:00Z,Cukaricki Belgrade at FC Urartu,FC Urartu,Cukaricki Belgrade,0,5,0.0
+543781,2019-07-16T17:00Z,Trakai at KI Klaksvik,KI Klaksvik,Trakai,0,0,1.0
+543744,2019-07-16T18:30Z,CSKA Sofia at Mladost Pogorica,Mladost Pogorica,CSKA Sofia,0,0,0.0
+543743,2019-07-17T16:00Z,CS Fola Esch at Chikhura Sachkhere,Chikhura Sachkhere,CS Fola Esch,2,1,1.0
+543761,2019-07-18T12:00Z,Jeunesse Esch at Tobol Kostanay,Tobol Kostanay,Jeunesse Esch,1,1,0.0
+543740,2019-07-18T14:30Z,Alashkert FC at FK Makedonija,FK Makedonija,Alashkert FC,0,3,0.0
+543776,2019-07-18T14:30Z,Siroki Brijeg at Kairat Almaty,Kairat Almaty,Siroki Brijeg,2,1,1.0
+543756,2019-07-18T15:00Z,FK Ventspils at KS Teuta,KS Teuta,FK Ventspils,1,0,0.0
+543787,2019-07-18T15:30Z,Brøndby IF at FC Inter Turku,FC Inter Turku,Brøndby IF,2,0,0.0
+543775,2019-07-18T16:00Z,Sabail at CSU Craiova,CSU Craiova,Sabail,3,2,1.0
+543782,2019-07-18T16:00Z,Stjarnan at FC Levadia Tallinn,FC Levadia Tallinn,Stjarnan,3,2,0.0
+543770,2019-07-18T16:00Z,Olimpija Ljubljana at Rigas Futbola Skola,Rigas Futbola Skola,Olimpija Ljubljana,0,2,0.0
+543738,2019-07-18T16:00Z,Aberdeen at RoPS,RoPS,Aberdeen,1,2,0.0
+543796,2019-07-18T16:30Z,FK Liepaja at Dinamo Minsk,Dinamo Minsk,FK Liepaja,1,2,0.0
+543809,2019-07-18T16:30Z,MFK Ruzomberok at Levski Sofia,Levski Sofia,MFK Ruzomberok,2,0,1.0
+543762,2019-07-18T17:00Z,Kauno Zalgiris at Apollon Limassol,Apollon Limassol,Kauno Zalgiris,4,0,1.0
+543790,2019-07-18T17:00Z,Dunajska Streda at Cracovia,Cracovia,Dunajska Streda,2,2,0.0
+543777,2019-07-18T17:00Z,FCSB at FC Milsami,FC Milsami,FCSB,1,2,0.0
+543741,2019-07-18T17:00Z,Breidablik at FC Vaduz,FC Vaduz,Breidablik,2,1,1.0
+543778,2019-07-18T17:00Z,Cliftonville at Haugesund,Haugesund,Cliftonville,5,1,1.0
+543820,2019-07-18T17:00Z,Speranta Nisporeni at Neftchi,Neftchi,Speranta Nisporeni,6,0,1.0
+543737,2019-07-18T17:00Z,AEK Larnaca at Petrocub,Petrocub,AEK Larnaca,0,1,0.0
+543771,2019-07-18T17:00Z,Ordabasy Shymkent at Torpedo Kutaisi,Torpedo Kutaisi,Ordabasy Shymkent,0,2,0.0
+543759,2019-07-18T17:00Z,Honvéd at Zalgiris Vilnius,Zalgiris Vilnius,Honvéd,1,1,0.0
+543739,2019-07-18T17:00Z,Akademija Pandev at Zrinjski Mostar,Zrinjski Mostar,Akademija Pandev,3,0,1.0
+543763,2019-07-18T17:30Z,KF Laci at Hapoel Be'er,Hapoel Be'er,KF Laci,1,0,1.0
+543745,2019-07-18T17:30Z,Cork at Progres Niederkorn,Progres Niederkorn,Cork,1,2,1.0
+543751,2019-07-18T17:30Z,Dinamo Tbilisi at UE Engordany,UE Engordany,Dinamo Tbilisi,0,1,0.0
+543747,2019-07-18T18:00Z,Crusaders at B36 Torshavn,B36 Torshavn,Crusaders,2,3,0.0
+543783,2019-07-18T18:00Z,FK Zeta at Fehérvár,Fehérvár,FK Zeta,0,0,1.0
+543749,2019-07-18T18:00Z,Debrecen at FK Kukesi,FK Kukesi,Debrecen,1,1,0.0
+543758,2019-07-18T18:00Z,Gzira United at Hajduk Split,Hajduk Split,Gzira United,1,3,0.0
+543754,2019-07-18T18:00Z,Shakhter Soligorsk at Hibernians,Hibernians,Shakhter Soligorsk,0,1,0.0
+543821,2019-07-18T18:00Z,St Patrick's Athletic at IFK Norrköping,IFK Norrköping,St Patrick's Athletic,2,1,1.0
+543765,2019-07-18T18:00Z,Maccabi Haifa at NS Mura,NS Mura,Maccabi Haifa,2,3,0.0
+543806,2019-07-18T18:30Z,KuPS Kuopio at FC Vitebsk,FC Vitebsk,KuPS Kuopio,1,1,0.0
+543753,2019-07-18T18:30Z,Pyunik at Shkupi,Shkupi,Pyunik,1,2,0.0
+543766,2019-07-18T18:45Z,Malmö FF at Ballymena,Ballymena,Malmö FF,0,4,0.0
+543813,2019-07-18T18:45Z,JK Narva Trans at Buducnost Podgorica,Buducnost Podgorica,JK Narva Trans,4,1,1.0
+543773,2019-07-18T18:45Z,Radnik Bijeljina at FC Spartak Trnava,FC Spartak Trnava,Radnik Bijeljina,2,0,1.0
+543757,2019-07-18T18:45Z,Connah's Quay at Kilmarnock,Kilmarnock,Connah's Quay,0,2,0.0
+543786,2019-07-18T18:45Z,Balzan FC at NK Domzale,NK Domzale,Balzan FC,1,0,1.0
+543797,2019-07-18T18:45Z,Flora at Radnicki Nis,Radnicki Nis,Flora,2,2,0.0
+543780,2019-07-18T18:45Z,St. Joseph's at Rangers,Rangers,St. Joseph's,6,0,1.0
+543767,2019-07-18T19:00Z,Molde at KR Reykjavik,KR Reykjavik,Molde,0,0,0.0
+543779,2019-07-18T19:00Z,Europa FC at Legia Warsaw,Legia Warsaw,Europa FC,3,0,1.0
+543774,2019-07-18T19:00Z,SK Brann at Shamrock Rovers,Shamrock Rovers,SK Brann,2,1,1.0
+552867,2019-07-23T15:00Z,Lincoln Red Imps at Ararat-Armenia,Ararat-Armenia,Lincoln Red Imps,2,0,1.0
+552865,2019-07-23T15:45Z,Linfield at HB Torshavn,HB Torshavn,Linfield,2,2,0.5
+552866,2019-07-23T15:55Z,F91 Dudelange at KF Shkëndija,KF Shkëndija,F91 Dudelange,1,2,0.0
+552864,2019-07-23T18:00Z,FC Astana at Santa Coloma,Santa Coloma,FC Astana,0,0,0.5
+552863,2019-07-23T18:30Z,FK Suduva at Tre Penne,Tre Penne,FK Suduva,0,5,0.0
+552862,2019-07-24T16:00Z,Feronikeli at Slovan Bratislava,Slovan Bratislava,Feronikeli,2,1,1.0
+552849,2019-07-25T13:30Z,Jablonec at Pyunik,Pyunik,Jablonec,2,1,1.0
+552848,2019-07-25T14:45Z,Gzira United at FK Ventspils,FK Ventspils,Gzira United,4,0,1.0
+552840,2019-07-25T15:00Z,Dinamo Tbilisi at FK Qabala,FK Qabala,Dinamo Tbilisi,0,2,0.0
+552852,2019-07-25T15:30Z,Levski Sofia at AEK Larnaca,AEK Larnaca,Levski Sofia,3,0,1.0
+552831,2019-07-25T15:30Z,Sheriff Tiraspol at Partizani Tirana,Partizani Tirana,Sheriff Tiraspol,0,1,0.0
+552861,2019-07-25T16:30Z,Zrinjski Mostar at FC Utrecht,FC Utrecht,Zrinjski Mostar,1,1,0.5
+552788,2019-07-25T16:45Z,Aberdeen at Chikhura Sachkhere,Chikhura Sachkhere,Aberdeen,1,1,0.5
+552835,2019-07-25T16:55Z,CSU Craiova at Honvéd,Honvéd,CSU Craiova,0,0,0.5
+552859,2019-07-25T17:00Z,FCSB at Alashkert FC,Alashkert FC,FCSB,0,3,0.0
+552830,2019-07-25T17:00Z,Neftchi at FC Arsenal Tula,FC Arsenal Tula,Neftchi,0,1,0.0
+552822,2019-07-25T17:00Z,Eintracht Frankfurt at Flora,Flora,Eintracht Frankfurt,1,2,0.0
+552858,2019-07-25T17:00Z,SK Sturm Graz at Haugesund,Haugesund,SK Sturm Graz,2,0,1.0
+552834,2019-07-25T17:00Z,Brøndby IF at Lechia Gdansk,Lechia Gdansk,Brøndby IF,2,1,1.0
+552856,2019-07-25T17:00Z,Ordabasy Shymkent at Mlada Boleslav,Mlada Boleslav,Ordabasy Shymkent,1,1,0.5
+552838,2019-07-25T17:00Z,Cukaricki Belgrade at Molde,Molde,Cukaricki Belgrade,0,0,0.5
+552841,2019-07-25T17:00Z,Esbjerg FB at Shakhter Soligorsk,Shakhter Soligorsk,Esbjerg FB,2,0,1.0
+552855,2019-07-25T17:00Z,Olimpija Ljubljana at Yeni Malatyaspor,Yeni Malatyaspor,Olimpija Ljubljana,2,2,0.5
+552846,2019-07-25T17:30Z,Partizan Belgrade at Connah's Quay,Connah's Quay,Partizan Belgrade,0,1,0.0
+552829,2019-07-25T17:30Z,Osijek at CSKA Sofia,CSKA Sofia,Osijek,1,0,1.0
+552850,2019-07-25T17:30Z,Kairat Almaty at Hapoel Be'er,Hapoel Be'er,Kairat Almaty,2,0,1.0
+552842,2019-07-25T17:30Z,FC Spartak Trnava at Lokomotiv Plovdiv,Lokomotiv Plovdiv,FC Spartak Trnava,2,0,1.0
+552843,2019-07-25T18:00Z,FC Vaduz at Fehérvár,Fehérvár,FC Vaduz,1,0,1.0
+552845,2019-07-25T18:00Z,FK Liepaja at IFK Norrköping,IFK Norrköping,FK Liepaja,2,0,1.0
+552828,2019-07-25T18:00Z,Riga FC at Piast Gliwice,Piast Gliwice,Riga FC,3,2,1.0
+552827,2019-07-25T18:15Z,KI Klaksvik at FC Luzern,FC Luzern,KI Klaksvik,1,0,1.0
+552825,2019-07-25T18:30Z,AEL at Aris,Aris,AEL,0,0,0.5
+552826,2019-07-25T18:30Z,BK Häcken at AZ Alkmaar,AZ Alkmaar,BK Häcken,0,0,0.5
+552833,2019-07-25T18:30Z,Atromitos at Dunajska Streda,Dunajska Streda,Atromitos,1,2,0.0
+552847,2019-07-25T18:30Z,Vitória de Guimaraes at Jeunesse Esch,Jeunesse Esch,Vitória de Guimaraes,0,1,0.0
+552824,2019-07-25T18:30Z,Viitorul Constanta at KAA Gent,KAA Gent,Viitorul Constanta,6,3,1.0
+552844,2019-07-25T18:45Z,FC Zorya Luhansk at Buducnost Podgorica,Buducnost Podgorica,FC Zorya Luhansk,1,3,0.0
+552854,2019-07-25T18:45Z,Malmö FF at NK Domzale,NK Domzale,Malmö FF,2,2,0.5
+552857,2019-07-25T18:45Z,Progres Niederkorn at Rangers,Rangers,Progres Niederkorn,2,0,1.0
+552853,2019-07-25T18:45Z,Maccabi Haifa at Strasbourg,Strasbourg,Maccabi Haifa,3,1,1.0
+552837,2019-07-25T18:45Z,Crusaders at Wolverhampton Wanderers,Wolverhampton Wanderers,Crusaders,2,0,1.0
+552860,2019-07-25T19:00Z,Stjarnan at Espanyol,Espanyol,Stjarnan,4,0,1.0
+552851,2019-07-25T19:00Z,KuPS Kuopio at Legia Warsaw,Legia Warsaw,KuPS Kuopio,1,0,1.0
+552832,2019-07-25T19:00Z,Apollon Limassol at Shamrock Rovers,Shamrock Rovers,Apollon Limassol,2,1,1.0
+552839,2019-07-25T19:00Z,Debrecen at Torino,Torino,Debrecen,3,0,1.0
+552823,2019-07-25T19:00Z,Ludogorets Razgrad at Valur Reykjavik,Valur Reykjavik,Ludogorets Razgrad,1,1,0.5
+552821,2019-07-30T15:45Z,Tre Penne at FK Suduva,FK Suduva,Tre Penne,5,0,1.0
+552790,2019-07-30T15:45Z,Ararat-Armenia at Lincoln Red Imps,Lincoln Red Imps,Ararat-Armenia,1,2,0.0
+552820,2019-07-30T15:55Z,KF Shkëndija at F91 Dudelange,F91 Dudelange,KF Shkëndija,1,1,1.0
+552814,2019-07-30T16:00Z,Slovan Bratislava at Feronikeli,Feronikeli,Slovan Bratislava,0,2,0.0
+552810,2019-07-31T18:45Z,Molde at Cukaricki Belgrade,Cukaricki Belgrade,Molde,1,3,0.0

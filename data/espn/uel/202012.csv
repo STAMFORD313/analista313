@@ -1,0 +1,49 @@
+id,date,event,home,away,hs,as,res
+585880,2020-12-03T17:55Z,Celtic at AC Milan,AC Milan,Celtic,4,2,1.0
+585895,2020-12-03T17:55Z,Braga at AEK Athens,AEK Athens,Braga,2,4,0.0
+585899,2020-12-03T17:55Z,Ludogorets Razgrad at Antwerp,Antwerp,Ludogorets Razgrad,3,1,1.0
+585894,2020-12-03T17:55Z,Wolfsberger at CSKA Moscow,CSKA Moscow,Wolfsberger,0,1,0.0
+585898,2020-12-03T17:55Z,Leicester City at FC Zorya Luhansk,FC Zorya Luhansk,Leicester City,1,0,1.0
+585896,2020-12-03T17:55Z,Dinamo Zagreb at Feyenoord Rotterdam,Feyenoord Rotterdam,Dinamo Zagreb,0,2,0.0
+585900,2020-12-03T17:55Z,Maccabi Tel-Aviv at FK Qarabag,FK Qarabag,Maccabi Tel-Aviv,1,1,0.5
+585901,2020-12-03T17:55Z,Liberec at KAA Gent,KAA Gent,Liberec,1,2,0.0
+585902,2020-12-03T17:55Z,Tottenham Hotspur at LASK Linz,LASK Linz,Tottenham Hotspur,3,3,0.5
+585881,2020-12-03T17:55Z,Sparta Prague at Lille,Lille,Sparta Prague,2,1,1.0
+585897,2020-12-03T17:55Z,TSG Hoffenheim at Red Star Belgrade,Red Star Belgrade,TSG Hoffenheim,0,0,0.5
+585903,2020-12-03T17:55Z,Villarreal at Sivasspor,Sivasspor,Villarreal,0,1,0.0
+585890,2020-12-03T20:00Z,Rapid Vienna at Arsenal,Arsenal,Rapid Vienna,4,1,1.0
+585893,2020-12-03T20:00Z,Young Boys at AS Roma,AS Roma,Young Boys,3,1,1.0
+585887,2020-12-03T20:00Z,Napoli at AZ Alkmaar,AZ Alkmaar,Napoli,1,1,0.5
+585886,2020-12-03T20:00Z,Lech Poznan at Benfica,Benfica,Lech Poznan,4,0,1.0
+585883,2020-12-03T20:00Z,CSKA Sofia at CFR Cluj-Napoca,CFR Cluj-Napoca,CSKA Sofia,0,0,0.5
+585889,2020-12-03T20:00Z,PSV Eindhoven at Granada,Granada,PSV Eindhoven,0,1,0.0
+585884,2020-12-03T20:00Z,Dundalk at Molde,Molde,Dundalk,3,1,1.0
+585882,2020-12-03T20:00Z,Bayer Leverkusen at Nice,Nice,Bayer Leverkusen,2,3,0.0
+585888,2020-12-03T20:00Z,PAOK at Omonia Nicosia,Omonia Nicosia,PAOK,2,1,1.0
+585892,2020-12-03T20:00Z,Standard Liege at Rangers,Rangers,Standard Liege,3,2,1.0
+585891,2020-12-03T20:00Z,Rijeka at Real Sociedad,Real Sociedad,Rijeka,2,2,0.5
+585885,2020-12-03T20:00Z,Hapoel Be'er at Slavia Prague,Slavia Prague,Hapoel Be'er,3,0,1.0
+585879,2020-12-10T17:55Z,Slavia Prague at Bayer Leverkusen,Bayer Leverkusen,Slavia Prague,4,0,1.0
+585878,2020-12-10T17:55Z,AS Roma at CSKA Sofia,CSKA Sofia,AS Roma,3,1,1.0
+585869,2020-12-10T17:55Z,Arsenal at Dundalk,Dundalk,Arsenal,2,4,0.0
+585874,2020-12-10T17:55Z,Nice at Hapoel Be'er,Hapoel Be'er,Nice,1,0,1.0
+585876,2020-12-10T17:55Z,Rangers at Lech Poznan,Lech Poznan,Rangers,0,2,0.0
+585877,2020-12-10T17:55Z,Real Sociedad at Napoli,Napoli,Real Sociedad,1,1,0.5
+585872,2020-12-10T17:55Z,Granada at PAOK,PAOK,Granada,0,0,0.5
+585875,2020-12-10T17:55Z,Omonia Nicosia at PSV Eindhoven,PSV Eindhoven,Omonia Nicosia,4,0,1.0
+585873,2020-12-10T17:55Z,Molde at Rapid Vienna,Rapid Vienna,Molde,2,2,0.5
+585868,2020-12-10T17:55Z,AZ Alkmaar at Rijeka,Rijeka,AZ Alkmaar,2,1,1.0
+585870,2020-12-10T17:55Z,Benfica at Standard Liege,Standard Liege,Benfica,2,2,0.5
+585871,2020-12-10T17:55Z,CFR Cluj-Napoca at Young Boys,Young Boys,CFR Cluj-Napoca,2,1,1.0
+585859,2020-12-10T20:00Z,FC Zorya Luhansk at Braga,Braga,FC Zorya Luhansk,2,0,1.0
+585864,2020-12-10T20:00Z,Lille at Celtic,Celtic,Lille,3,2,1.0
+585858,2020-12-10T20:00Z,CSKA Moscow at Dinamo Zagreb,Dinamo Zagreb,CSKA Moscow,3,1,1.0
+585856,2020-12-10T20:00Z,AEK Athens at Leicester City,Leicester City,AEK Athens,2,0,1.0
+585866,2020-12-10T20:00Z,Red Star Belgrade at Liberec,Liberec,Red Star Belgrade,0,0,0.5
+585863,2020-12-10T20:00Z,LASK Linz at Ludogorets Razgrad,Ludogorets Razgrad,LASK Linz,1,3,0.0
+585867,2020-12-10T20:00Z,Sivasspor at Maccabi Tel-Aviv,Maccabi Tel-Aviv,Sivasspor,1,0,1.0
+585865,2020-12-10T20:00Z,AC Milan at Sparta Prague,Sparta Prague,AC Milan,0,1,0.0
+585857,2020-12-10T20:00Z,Antwerp at Tottenham Hotspur,Tottenham Hotspur,Antwerp,2,0,1.0
+585862,2020-12-10T20:00Z,KAA Gent at TSG Hoffenheim,TSG Hoffenheim,KAA Gent,4,1,1.0
+585860,2020-12-10T20:00Z,FK Qarabag at Villarreal,Villarreal,FK Qarabag,0,0,1.0
+585861,2020-12-10T20:00Z,Feyenoord Rotterdam at Wolfsberger,Wolfsberger,Feyenoord Rotterdam,1,0,1.0

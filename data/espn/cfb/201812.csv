@@ -1,0 +1,56 @@
+id,date,event,home,away,hs,as,res
+401056705,2018-12-01T21:00Z,Alabama Crimson Tide at Georgia Bulldogs,Georgia Bulldogs,Alabama Crimson Tide,28,35,0.0
+401056698,2018-12-01T17:00Z,Texas Longhorns at Oklahoma Sooners,Oklahoma Sooners,Texas Longhorns,39,27,1.0
+401056702,2018-12-02T01:00Z,Northwestern Wildcats at Ohio State Buckeyes,Ohio State Buckeyes,Northwestern Wildcats,45,24,1.0
+401056700,2018-12-02T00:45Z,Fresno State Bulldogs at Boise State Broncos,Boise State Broncos,Fresno State Bulldogs,16,19,0.0
+401082044,2018-12-01T17:00Z,Drake Bulldogs at Iowa State Cyclones,Iowa State Cyclones,Drake Bulldogs,27,24,1.0
+401056701,2018-12-01T17:00Z,Louisiana Ragin' Cajuns at Appalachian State Mountaineers,Appalachian State Mountaineers,Louisiana Ragin' Cajuns,30,19,1.0
+401088766,2018-12-01T17:00Z,East Carolina Pirates at NC State Wolfpack,NC State Wolfpack,East Carolina Pirates,58,3,1.0
+401098253,2018-12-01T17:00Z,Akron Zips at South Carolina Gamecocks,South Carolina Gamecocks,Akron Zips,28,3,1.0
+401100049,2018-12-01T17:00Z,Jacksonville State Gamecocks at Maine Black Bears,Maine Black Bears,Jacksonville State Gamecocks,55,27,1.0
+401100159,2018-12-01T17:00Z,Marshall Thundering Herd at Virginia Tech Hokies,Virginia Tech Hokies,Marshall Thundering Herd,41,20,1.0
+401100044,2018-12-01T18:00Z,James Madison Dukes at Colgate Raiders,Colgate Raiders,James Madison Dukes,23,20,1.0
+401056703,2018-12-01T18:30Z,UAB Blazers at Middle Tennessee Blue Raiders,Middle Tennessee Blue Raiders,UAB Blazers,25,27,0.0
+401081953,2018-12-01T19:00Z,Norfolk State Spartans at Liberty Flames,Liberty Flames,Norfolk State Spartans,52,17,1.0
+401100046,2018-12-01T19:00Z,Wofford Terriers at Kennesaw State Owls,Kennesaw State Owls,Wofford Terriers,13,10,1.0
+401099853,2018-12-01T20:00Z,Stanford Cardinal at California Golden Bears,California Golden Bears,Stanford Cardinal,13,23,0.0
+401100043,2018-12-01T20:00Z,Montana State Bobcats at North Dakota State Bison,North Dakota State Bison,Montana State Bobcats,52,10,1.0
+401056699,2018-12-01T20:45Z,Memphis Tigers at UCF Knights,UCF Knights,Memphis Tigers,56,41,1.0
+401056697,2018-12-02T01:00Z,Clemson Tigers at Pittsburgh Panthers,Pittsburgh Panthers,Clemson Tigers,10,42,0.0
+401101694,2018-12-08T17:00Z,Colgate Raiders at North Dakota State Bison,North Dakota State Bison,Colgate Raiders,35,0,1.0
+401101695,2018-12-08T19:00Z,South Dakota State Jackrabbits at Kennesaw State Owls,Kennesaw State Owls,South Dakota State Jackrabbits,17,27,0.0
+401013376,2018-12-08T20:00Z,Navy Midshipmen at Army Black Knights,Army Black Knights,Navy Midshipmen,17,10,1.0
+401102913,2018-12-15T01:00Z,South Dakota State Jackrabbits at North Dakota State Bison,North Dakota State Bison,South Dakota State Jackrabbits,44,21,1.0
+401032055,2018-12-15T20:30Z,Arizona State Sun Devils at Fresno State Bulldogs,Fresno State Bulldogs,Arizona State Sun Devils,31,20,1.0
+401035253,2018-12-15T18:30Z,Tulane Green Wave at Louisiana Ragin' Cajuns,Louisiana Ragin' Cajuns,Tulane Green Wave,24,41,0.0
+401032054,2018-12-15T19:00Z,Utah State Aggies at North Texas Mean Green,North Texas Mean Green,Utah State Aggies,13,52,0.0
+401032056,2018-12-15T22:30Z,Georgia Southern Eagles at Eastern Michigan Eagles,Eastern Michigan Eagles,Georgia Southern Eagles,21,23,0.0
+401032057,2018-12-16T02:00Z,Middle Tennessee Blue Raiders at Appalachian State Mountaineers,Appalachian State Mountaineers,Middle Tennessee Blue Raiders,45,13,1.0
+401032058,2018-12-19T00:00Z,UAB Blazers at Northern Illinois Huskies,Northern Illinois Huskies,UAB Blazers,13,37,0.0
+401032059,2018-12-20T01:00Z,San Diego State Aztecs at Ohio Bobcats,Ohio Bobcats,San Diego State Aztecs,27,0,1.0
+401032060,2018-12-21T01:00Z,Marshall Thundering Herd at South Florida Bulls,South Florida Bulls,Marshall Thundering Herd,20,38,0.0
+401032061,2018-12-21T17:30Z,Florida International Panthers at Toledo Rockets,Toledo Rockets,Florida International Panthers,32,35,0.0
+401032062,2018-12-21T21:00Z,Western Michigan Broncos at BYU Cougars,BYU Cougars,Western Michigan Broncos,49,18,1.0
+401032063,2018-12-22T17:00Z,Memphis Tigers at Wake Forest Demon Deacons,Wake Forest Demon Deacons,Memphis Tigers,37,34,1.0
+401032064,2018-12-22T20:30Z,Houston Cougars at Army Black Knights,Army Black Knights,Houston Cougars,70,14,1.0
+401032065,2018-12-23T00:00Z,Buffalo Bulls at Troy Trojans,Troy Trojans,Buffalo Bulls,42,32,1.0
+401032066,2018-12-23T03:30Z,Hawai'i Rainbow Warriors at Louisiana Tech Bulldogs,Louisiana Tech Bulldogs,Hawai'i Rainbow Warriors,31,14,1.0
+401032068,2018-12-26T22:15Z,Minnesota Golden Gophers at Georgia Tech Yellow Jackets,Georgia Tech Yellow Jackets,Minnesota Golden Gophers,10,34,0.0
+401032069,2018-12-27T02:00Z,California Golden Bears at TCU Horned Frogs,TCU Horned Frogs,California Golden Bears,10,7,1.0
+401032070,2018-12-27T18:30Z,Temple Owls at Duke Blue Devils,Duke Blue Devils,Temple Owls,56,27,1.0
+401032071,2018-12-27T22:15Z,Miami Hurricanes at Wisconsin Badgers,Wisconsin Badgers,Miami Hurricanes,35,3,1.0
+401032072,2018-12-28T02:00Z,Baylor Bears at Vanderbilt Commodores,Vanderbilt Commodores,Baylor Bears,38,45,0.0
+401032075,2018-12-29T02:00Z,Iowa State Cyclones at Washington State Cougars,Washington State Cougars,Iowa State Cyclones,28,26,1.0
+401032074,2018-12-28T22:15Z,West Virginia Mountaineers at Syracuse Orange,Syracuse Orange,West Virginia Mountaineers,34,18,1.0
+401032073,2018-12-28T18:30Z,Purdue Boilermakers at Auburn Tigers,Auburn Tigers,Purdue Boilermakers,63,14,1.0
+401032078,2018-12-30T01:00Z,Oklahoma Sooners at Alabama Crimson Tide,Alabama Crimson Tide,Oklahoma Sooners,45,34,1.0
+401032076,2018-12-29T17:00Z,Florida Gators at Michigan Wolverines,Michigan Wolverines,Florida Gators,15,41,0.0
+401032077,2018-12-29T17:00Z,South Carolina Gamecocks at Virginia Cavaliers,Virginia Cavaliers,South Carolina Gamecocks,28,0,1.0
+401035252,2018-12-29T18:15Z,Arkansas State Red Wolves at Nevada Wolf Pack,Nevada Wolf Pack,Arkansas State Red Wolves,16,13,1.0
+401032079,2018-12-29T21:00Z,Notre Dame Fighting Irish at Clemson Tigers,Clemson Tigers,Notre Dame Fighting Irish,30,3,1.0
+401035250,2019-01-01T00:00Z,Northwestern Wildcats at Utah Utes,Utah Utes,Northwestern Wildcats,20,31,0.0
+401032082,2019-01-01T00:30Z,NC State Wolfpack at Texas A&M Aggies,Texas A&M Aggies,NC State Wolfpack,52,13,1.0
+401032081,2018-12-31T20:45Z,Missouri Tigers at Oklahoma State Cowboys,Oklahoma State Cowboys,Missouri Tigers,38,33,1.0
+401032080,2018-12-31T17:00Z,Cincinnati Bearcats at Virginia Tech Hokies,Virginia Tech Hokies,Cincinnati Bearcats,31,35,0.0
+401035251,2018-12-31T19:00Z,Stanford Cardinal at Pittsburgh Panthers,Pittsburgh Panthers,Stanford Cardinal,13,14,0.0
+401035254,2018-12-31T20:00Z,Michigan State Spartans at Oregon Ducks,Oregon Ducks,Michigan State Spartans,7,6,1.0

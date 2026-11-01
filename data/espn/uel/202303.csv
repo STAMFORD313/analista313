@@ -1,0 +1,17 @@
+id,date,event,home,away,hs,as,res
+666727,2023-03-09T17:45Z,Union St.-Gilloise at 1. FC Union Berlin,1. FC Union Berlin,Union St.-Gilloise,3,3,0.5
+666731,2023-03-09T17:45Z,Real Sociedad at AS Roma,AS Roma,Real Sociedad,2,0,1.0
+666726,2023-03-09T17:45Z,Ferencvaros at Bayer Leverkusen,Bayer Leverkusen,Ferencvaros,2,0,1.0
+666725,2023-03-09T17:45Z,Arsenal at Sporting CP,Sporting CP,Arsenal,2,2,0.5
+666729,2023-03-09T20:00Z,SC Freiburg at Juventus,Juventus,SC Freiburg,1,0,1.0
+666730,2023-03-09T20:00Z,Real Betis at Manchester United,Manchester United,Real Betis,4,1,1.0
+666732,2023-03-09T20:00Z,Fenerbahce at Sevilla,Sevilla,Fenerbahce,2,0,1.0
+666728,2023-03-09T20:00Z,Feyenoord Rotterdam at Shakhtar Donetsk,Shakhtar Donetsk,Feyenoord Rotterdam,1,1,0.5
+666736,2023-03-16T17:45Z,Sevilla at Fenerbahce,Fenerbahce,Sevilla,1,0,0.0
+666738,2023-03-16T17:45Z,Shakhtar Donetsk at Feyenoord Rotterdam,Feyenoord Rotterdam,Shakhtar Donetsk,7,1,1.0
+666739,2023-03-16T17:45Z,Manchester United at Real Betis,Real Betis,Manchester United,0,1,0.0
+666740,2023-03-16T17:45Z,Juventus at SC Freiburg,SC Freiburg,Juventus,0,2,0.0
+666733,2023-03-16T20:00Z,Sporting CP at Arsenal,Arsenal,Sporting CP,1,1,0.0
+666737,2023-03-16T20:00Z,Bayer Leverkusen at Ferencvaros,Ferencvaros,Bayer Leverkusen,0,2,0.0
+666735,2023-03-16T20:00Z,AS Roma at Real Sociedad,Real Sociedad,AS Roma,0,0,0.0
+666734,2023-03-16T20:00Z,1. FC Union Berlin at Union St.-Gilloise,Union St.-Gilloise,1. FC Union Berlin,3,0,1.0

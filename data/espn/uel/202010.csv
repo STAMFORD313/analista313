@@ -1,0 +1,49 @@
+id,date,event,home,away,hs,as,res
+585992,2020-10-22T16:55Z,Nice at Bayer Leverkusen,Bayer Leverkusen,Nice,6,2,1.0
+585989,2020-10-22T16:55Z,CFR Cluj-Napoca at CSKA Sofia,CSKA Sofia,CFR Cluj-Napoca,0,2,0.0
+585991,2020-10-22T16:55Z,Molde at Dundalk,Dundalk,Molde,1,2,0.0
+585997,2020-10-22T16:55Z,Slavia Prague at Hapoel Be'er,Hapoel Be'er,Slavia Prague,3,1,1.0
+585988,2020-10-22T16:55Z,Benfica at Lech Poznan,Lech Poznan,Benfica,2,4,0.0
+585986,2020-10-22T16:55Z,AZ Alkmaar at Napoli,Napoli,AZ Alkmaar,0,1,0.0
+585993,2020-10-22T16:55Z,Omonia Nicosia at PAOK,PAOK,Omonia Nicosia,1,1,0.5
+585990,2020-10-22T16:55Z,Granada at PSV Eindhoven,PSV Eindhoven,Granada,1,2,0.0
+585987,2020-10-22T16:55Z,Arsenal at Rapid Vienna,Rapid Vienna,Arsenal,1,2,0.0
+585995,2020-10-22T16:55Z,Real Sociedad at Rijeka,Rijeka,Real Sociedad,0,1,0.0
+585994,2020-10-22T16:55Z,Rangers at Standard Liege,Standard Liege,Rangers,0,2,0.0
+585996,2020-10-22T16:55Z,AS Roma at Young Boys,Young Boys,AS Roma,1,2,0.0
+585975,2020-10-22T19:00Z,AEK Athens at Braga,Braga,AEK Athens,3,0,1.0
+585983,2020-10-22T19:00Z,AC Milan at Celtic,Celtic,AC Milan,1,3,0.0
+585979,2020-10-22T19:00Z,Feyenoord Rotterdam at Dinamo Zagreb,Dinamo Zagreb,Feyenoord Rotterdam,0,0,0.5
+585977,2020-10-22T19:00Z,FC Zorya Luhansk at Leicester City,Leicester City,FC Zorya Luhansk,3,0,1.0
+585980,2020-10-22T19:00Z,KAA Gent at Liberec,Liberec,KAA Gent,1,0,1.0
+585976,2020-10-22T19:00Z,Antwerp at Ludogorets Razgrad,Ludogorets Razgrad,Antwerp,1,2,0.0
+585978,2020-10-22T19:00Z,FK Qarabag at Maccabi Tel-Aviv,Maccabi Tel-Aviv,FK Qarabag,1,0,1.0
+585982,2020-10-22T19:00Z,Lille at Sparta Prague,Sparta Prague,Lille,1,4,0.0
+585981,2020-10-22T19:00Z,LASK Linz at Tottenham Hotspur,Tottenham Hotspur,LASK Linz,3,0,1.0
+585984,2020-10-22T19:00Z,Red Star Belgrade at TSG Hoffenheim,TSG Hoffenheim,Red Star Belgrade,2,0,1.0
+585985,2020-10-22T19:00Z,Sivasspor at Villarreal,Villarreal,Sivasspor,5,3,1.0
+585999,2020-10-22T19:00Z,CSKA Moscow at Wolfsberger,Wolfsberger,CSKA Moscow,1,1,0.5
+585972,2020-10-29T17:55Z,Sparta Prague at AC Milan,AC Milan,Sparta Prague,3,0,1.0
+585968,2020-10-29T17:55Z,Leicester City at AEK Athens,AEK Athens,Leicester City,1,2,0.0
+585973,2020-10-29T17:55Z,Tottenham Hotspur at Antwerp,Antwerp,Tottenham Hotspur,1,0,1.0
+585966,2020-10-29T17:55Z,Dinamo Zagreb at CSKA Moscow,CSKA Moscow,Dinamo Zagreb,0,0,0.5
+585964,2020-10-29T17:55Z,Braga at FC Zorya Luhansk,FC Zorya Luhansk,Braga,1,2,0.0
+585998,2020-10-29T17:55Z,Wolfsberger at Feyenoord Rotterdam,Feyenoord Rotterdam,Wolfsberger,1,4,0.0
+585974,2020-10-29T17:55Z,Villarreal at FK Qarabag,FK Qarabag,Villarreal,1,3,0.0
+585967,2020-10-29T17:55Z,TSG Hoffenheim at KAA Gent,KAA Gent,TSG Hoffenheim,1,4,0.0
+585969,2020-10-29T17:55Z,Ludogorets Razgrad at LASK Linz,LASK Linz,Ludogorets Razgrad,4,3,1.0
+585965,2020-10-29T17:55Z,Celtic at Lille,Lille,Celtic,2,2,0.5
+585971,2020-10-29T17:55Z,Liberec at Red Star Belgrade,Red Star Belgrade,Liberec,5,1,1.0
+585970,2020-10-29T17:55Z,Maccabi Tel-Aviv at Sivasspor,Sivasspor,Maccabi Tel-Aviv,1,2,0.0
+585954,2020-10-29T20:00Z,Dundalk at Arsenal,Arsenal,Dundalk,3,0,1.0
+585953,2020-10-29T20:00Z,CSKA Sofia at AS Roma,AS Roma,CSKA Sofia,0,0,0.5
+585961,2020-10-29T20:00Z,Rijeka at AZ Alkmaar,AZ Alkmaar,Rijeka,4,1,1.0
+585962,2020-10-29T20:00Z,Standard Liege at Benfica,Benfica,Standard Liege,3,0,1.0
+585963,2020-10-29T20:00Z,Young Boys at CFR Cluj-Napoca,CFR Cluj-Napoca,Young Boys,1,1,0.5
+585958,2020-10-29T20:00Z,PAOK at Granada,Granada,PAOK,0,0,0.5
+585960,2020-10-29T20:00Z,Rapid Vienna at Molde,Molde,Rapid Vienna,1,0,1.0
+585955,2020-10-29T20:00Z,Hapoel Be'er at Nice,Nice,Hapoel Be'er,1,0,1.0
+585959,2020-10-29T20:00Z,PSV Eindhoven at Omonia Nicosia,Omonia Nicosia,PSV Eindhoven,1,2,0.0
+585956,2020-10-29T20:00Z,Lech Poznan at Rangers,Rangers,Lech Poznan,1,0,1.0
+585957,2020-10-29T20:00Z,Napoli at Real Sociedad,Real Sociedad,Napoli,0,1,0.0
+585952,2020-10-29T20:00Z,Bayer Leverkusen at Slavia Prague,Slavia Prague,Bayer Leverkusen,1,0,1.0

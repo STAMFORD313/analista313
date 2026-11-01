@@ -1,0 +1,33 @@
+id,date,event,home,away,hs,as,res
+561007,2020-02-20T17:55Z,Sevilla at CFR Cluj-Napoca,CFR Cluj-Napoca,Sevilla,1,1,0.5
+561005,2020-02-20T17:55Z,Manchester United at Club Brugge,Club Brugge,Manchester United,1,1,0.5
+561006,2020-02-20T17:55Z,RB Salzburg at Eintracht Frankfurt,Eintracht Frankfurt,RB Salzburg,4,1,1.0
+561002,2020-02-20T17:55Z,Celtic at F.C. København,F.C. København,Celtic,1,1,0.5
+561000,2020-02-20T17:55Z,Ajax Amsterdam at Getafe,Getafe,Ajax Amsterdam,2,0,1.0
+561003,2020-02-20T17:55Z,Internazionale at Ludogorets Razgrad,Ludogorets Razgrad,Internazionale,0,2,0.0
+561001,2020-02-20T17:55Z,Benfica at Shakhtar Donetsk,Shakhtar Donetsk,Benfica,2,1,1.0
+561004,2020-02-20T17:55Z,Istanbul Basaksehir at Sporting CP,Sporting CP,Istanbul Basaksehir,3,1,1.0
+560993,2020-02-20T20:00Z,FC Basel at Apoel Nicosia,Apoel Nicosia,FC Basel,0,3,0.0
+560997,2020-02-20T20:00Z,KAA Gent at AS Roma,AS Roma,KAA Gent,1,0,1.0
+560998,2020-02-20T20:00Z,LASK Linz at AZ Alkmaar,AZ Alkmaar,LASK Linz,1,1,0.5
+560996,2020-02-20T20:00Z,FC Porto at Bayer Leverkusen,Bayer Leverkusen,FC Porto,2,1,1.0
+560992,2020-02-20T20:00Z,Arsenal at Olympiacos,Olympiacos,Arsenal,0,1,0.0
+560994,2020-02-20T20:00Z,Braga at Rangers,Rangers,Braga,3,2,1.0
+560999,2020-02-20T20:00Z,Malmö FF at VfL Wolfsburg,VfL Wolfsburg,Malmö FF,2,1,1.0
+560995,2020-02-20T20:00Z,Espanyol at Wolverhampton Wanderers,Wolverhampton Wanderers,Espanyol,4,0,1.0
+560991,2020-02-26T17:00Z,Rangers at Braga,Braga,Rangers,0,1,0.0
+560990,2020-02-27T17:55Z,Wolverhampton Wanderers at Espanyol,Espanyol,Wolverhampton Wanderers,3,2,0.0
+560986,2020-02-27T17:55Z,Apoel Nicosia at FC Basel,FC Basel,Apoel Nicosia,1,0,1.0
+560987,2020-02-27T17:55Z,Bayer Leverkusen at FC Porto,FC Porto,Bayer Leverkusen,1,3,0.0
+560984,2020-02-27T17:55Z,Sporting CP at Istanbul Basaksehir,Istanbul Basaksehir,Sporting CP,4,1,1.0
+560988,2020-02-27T17:55Z,AS Roma at KAA Gent,KAA Gent,AS Roma,1,1,0.0
+560985,2020-02-27T17:55Z,AZ Alkmaar at LASK Linz,LASK Linz,AZ Alkmaar,2,0,1.0
+560989,2020-02-27T17:55Z,VfL Wolfsburg at Malmö FF,Malmö FF,VfL Wolfsburg,0,3,0.0
+560980,2020-02-27T20:00Z,Getafe at Ajax Amsterdam,Ajax Amsterdam,Getafe,2,1,0.0
+560982,2020-02-27T20:00Z,Olympiacos at Arsenal,Arsenal,Olympiacos,1,2,0.0
+560983,2020-02-27T20:00Z,Shakhtar Donetsk at Benfica,Benfica,Shakhtar Donetsk,3,3,0.0
+560979,2020-02-27T20:00Z,F.C. København at Celtic,Celtic,F.C. København,1,3,0.0
+560981,2020-02-27T20:00Z,Ludogorets Razgrad at Internazionale,Internazionale,Ludogorets Razgrad,2,1,1.0
+560977,2020-02-27T20:00Z,Club Brugge at Manchester United,Manchester United,Club Brugge,5,0,1.0
+560976,2020-02-27T20:00Z,CFR Cluj-Napoca at Sevilla,Sevilla,CFR Cluj-Napoca,0,0,1.0
+560978,2020-02-28T17:00Z,Eintracht Frankfurt at RB Salzburg,RB Salzburg,Eintracht Frankfurt,2,2,0.0

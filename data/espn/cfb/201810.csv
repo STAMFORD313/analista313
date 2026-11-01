@@ -1,0 +1,256 @@
+id,date,event,home,away,hs,as,res
+401021669,2018-10-04T23:30Z,Georgia State Panthers at Troy Trojans,Troy Trojans,Georgia State Panthers,37,20,1.0
+401019499,2018-10-05T00:00Z,Tulsa Golden Hurricane at Houston Cougars,Houston Cougars,Tulsa Golden Hurricane,41,26,1.0
+401013138,2018-10-05T23:00Z,Georgia Tech Yellow Jackets at Louisville Cardinals,Louisville Cardinals,Georgia Tech Yellow Jackets,31,66,0.0
+401015010,2018-10-05T23:30Z,Middle Tennessee Blue Raiders at Marshall Thundering Herd,Marshall Thundering Herd,Middle Tennessee Blue Raiders,24,34,0.0
+401016407,2018-10-06T01:00Z,Utah State Aggies at BYU Cougars,BYU Cougars,Utah State Aggies,20,45,0.0
+401012300,2018-10-06T16:00Z,Alabama Crimson Tide at Arkansas Razorbacks,Arkansas Razorbacks,Alabama Crimson Tide,31,65,0.0
+401012302,2018-10-06T23:30Z,Vanderbilt Commodores at Georgia Bulldogs,Georgia Bulldogs,Vanderbilt Commodores,41,13,1.0
+401012855,2018-10-06T20:00Z,Indiana Hoosiers at Ohio State Buckeyes,Ohio State Buckeyes,Indiana Hoosiers,49,26,1.0
+401012301,2018-10-06T19:30Z,LSU Tigers at Florida Gators,Florida Gators,LSU Tigers,27,19,1.0
+401013143,2018-10-07T00:00Z,Notre Dame Fighting Irish at Virginia Tech Hokies,Virginia Tech Hokies,Notre Dame Fighting Irish,23,45,0.0
+401013067,2018-10-06T16:00Z,Texas Longhorns at Oklahoma Sooners,Oklahoma Sooners,Texas Longhorns,45,48,0.0
+401012304,2018-10-06T23:30Z,Auburn Tigers at Mississippi State Bulldogs,Mississippi State Bulldogs,Auburn Tigers,23,9,1.0
+401013051,2018-10-06T16:00Z,Kansas Jayhawks at West Virginia Mountaineers,West Virginia Mountaineers,Kansas Jayhawks,38,22,1.0
+401012760,2018-10-06T23:30Z,Washington Huskies at UCLA Bruins,UCLA Bruins,Washington Huskies,24,31,0.0
+401019500,2018-10-06T23:00Z,SMU Mustangs at UCF Knights,UCF Knights,SMU Mustangs,48,20,1.0
+401012306,2018-10-06T23:00Z,Kentucky Wildcats at Texas A&M Aggies,Texas A&M Aggies,Kentucky Wildcats,20,14,1.0
+401012763,2018-10-07T02:30Z,Utah Utes at Stanford Cardinal,Stanford Cardinal,Utah Utes,21,40,0.0
+401012876,2018-10-06T16:00Z,Maryland Terrapins at Michigan Wolverines,Michigan Wolverines,Maryland Terrapins,42,21,1.0
+401013339,2018-10-06T23:30Z,Nebraska Cornhuskers at Wisconsin Badgers,Wisconsin Badgers,Nebraska Cornhuskers,41,24,1.0
+401013141,2018-10-06T19:30Z,Florida State Seminoles at Miami Hurricanes,Miami Hurricanes,Florida State Seminoles,28,27,1.0
+401012882,2018-10-06T16:00Z,Northwestern Wildcats at Michigan State Spartans,Michigan State Spartans,Northwestern Wildcats,19,29,0.0
+401012761,2018-10-06T20:00Z,Arizona State Sun Devils at Colorado Buffaloes,Colorado Buffaloes,Arizona State Sun Devils,28,21,1.0
+401013139,2018-10-06T16:30Z,Boston College Eagles at NC State Wolfpack,NC State Wolfpack,Boston College Eagles,28,23,1.0
+401013042,2018-10-06T19:30Z,Iowa State Cyclones at Oklahoma State Cowboys,Oklahoma State Cowboys,Iowa State Cyclones,42,48,0.0
+401012305,2018-10-06T16:00Z,Missouri Tigers at South Carolina Gamecocks,South Carolina Gamecocks,Missouri Tigers,37,35,1.0
+401012808,2018-10-06T16:00Z,Illinois Fighting Illini at Rutgers Scarlet Knights,Rutgers Scarlet Knights,Illinois Fighting Illini,17,38,0.0
+401019501,2018-10-06T16:00Z,Tulane Green Wave at Cincinnati Bearcats,Cincinnati Bearcats,Tulane Green Wave,37,21,1.0
+401019503,2018-10-06T16:00Z,East Carolina Pirates at Temple Owls,Temple Owls,East Carolina Pirates,49,6,1.0
+401020752,2018-10-06T16:00Z,Buffalo Bulls at Central Michigan Chippewas,Central Michigan Chippewas,Buffalo Bulls,24,34,0.0
+401020753,2018-10-06T16:00Z,Eastern Michigan Eagles at Western Michigan Broncos,Western Michigan Broncos,Eastern Michigan Eagles,27,24,1.0
+401013142,2018-10-06T16:20Z,Syracuse Orange at Pittsburgh Panthers,Pittsburgh Panthers,Syracuse Orange,44,37,1.0
+401029907,2018-10-06T17:30Z,Elon Phoenix at James Madison Dukes,James Madison Dukes,Elon Phoenix,24,27,0.0
+401029748,2018-10-06T18:00Z,North Dakota State Bison at Northern Iowa Panthers,Northern Iowa Panthers,North Dakota State Bison,31,56,0.0
+401029998,2018-10-06T18:00Z,Presbyterian College Blue Hose at Kennesaw State Owls,Kennesaw State Owls,Presbyterian College Blue Hose,56,0,1.0
+401030220,2018-10-06T18:00Z,Stephen F. Austin Lumberjacks at Sam Houston State Bearkats,Sam Houston State Bearkats,Stephen F. Austin Lumberjacks,54,21,1.0
+401020754,2018-10-06T19:00Z,Northern Illinois Huskies at Ball State Cardinals,Ball State Cardinals,Northern Illinois Huskies,16,24,0.0
+401029897,2018-10-06T19:00Z,Delaware Blue Hens at Richmond Spiders,Richmond Spiders,Delaware Blue Hens,28,43,0.0
+401030121,2018-10-06T19:00Z,Missouri State Bears at South Dakota Coyotes,South Dakota Coyotes,Missouri State Bears,35,28,1.0
+401012866,2018-10-06T19:30Z,Iowa Hawkeyes at Minnesota Golden Gophers,Minnesota Golden Gophers,Iowa Hawkeyes,31,48,0.0
+401013031,2018-10-06T19:30Z,Kansas State Wildcats at Baylor Bears,Baylor Bears,Kansas State Wildcats,37,34,1.0
+401013140,2018-10-06T19:30Z,Clemson Tigers at Wake Forest Demon Deacons,Wake Forest Demon Deacons,Clemson Tigers,3,63,0.0
+401013362,2018-10-06T19:30Z,South Florida Bulls at Massachusetts Minutemen,Massachusetts Minutemen,South Florida Bulls,42,58,0.0
+401019504,2018-10-06T19:30Z,Navy Midshipmen at Air Force Falcons,Air Force Falcons,Navy Midshipmen,35,7,1.0
+401020751,2018-10-06T19:30Z,Bowling Green Falcons at Toledo Rockets,Toledo Rockets,Bowling Green Falcons,52,36,1.0
+401020755,2018-10-06T19:30Z,Ohio Bobcats at Kent State Golden Flashes,Kent State Golden Flashes,Ohio Bobcats,26,27,0.0
+401020812,2018-10-06T19:30Z,Miami (OH) RedHawks at Akron Zips,Akron Zips,Miami (OH) RedHawks,17,41,0.0
+401021670,2018-10-06T19:30Z,South Alabama Jaguars at Georgia Southern Eagles,Georgia Southern Eagles,South Alabama Jaguars,48,13,1.0
+401022528,2018-10-06T19:30Z,San Diego State Aztecs at Boise State Broncos,Boise State Broncos,San Diego State Aztecs,13,19,0.0
+401012303,2018-10-06T20:00Z,UL Monroe Warhawks at Ole Miss Rebels,Ole Miss Rebels,UL Monroe Warhawks,70,21,1.0
+401022530,2018-10-06T20:00Z,New Mexico Lobos at UNLV Rebels,UNLV Rebels,New Mexico Lobos,14,50,0.0
+401030236,2018-10-06T20:00Z,Jacksonville State Gamecocks at Eastern Kentucky Colonels,Eastern Kentucky Colonels,Jacksonville State Gamecocks,7,56,0.0
+401015008,2018-10-06T21:00Z,Old Dominion Monarchs at Florida Atlantic Owls,Florida Atlantic Owls,Old Dominion Monarchs,52,33,1.0
+401015009,2018-10-06T23:00Z,UAB Blazers at Louisiana Tech Bulldogs,Louisiana Tech Bulldogs,UAB Blazers,7,28,0.0
+401015012,2018-10-06T23:00Z,UTSA Roadrunners at Rice Owls,Rice Owls,UTSA Roadrunners,3,20,0.0
+401019502,2018-10-06T23:00Z,UConn Huskies at Memphis Tigers,Memphis Tigers,UConn Huskies,55,14,1.0
+401021671,2018-10-06T23:00Z,Louisiana Ragin' Cajuns at Texas State Bobcats,Texas State Bobcats,Louisiana Ragin' Cajuns,27,42,0.0
+401015011,2018-10-06T23:30Z,North Texas Mean Green at UTEP Miners,UTEP Miners,North Texas Mean Green,24,27,0.0
+401013441,2018-10-07T00:00Z,Liberty Flames at New Mexico State Aggies,New Mexico State Aggies,Liberty Flames,49,41,1.0
+401012762,2018-10-07T01:00Z,Washington State Cougars at Oregon State Beavers,Oregon State Beavers,Washington State Cougars,37,56,0.0
+401030013,2018-10-07T01:00Z,Cal Poly Mustangs at Sacramento State Hornets,Sacramento State Hornets,Cal Poly Mustangs,27,41,0.0
+401012759,2018-10-07T02:00Z,California Golden Bears at Arizona Wildcats,Arizona Wildcats,California Golden Bears,24,17,1.0
+401022529,2018-10-07T02:30Z,Colorado State Rams at San Jose State Spartans,San Jose State Spartans,Colorado State Rams,30,42,0.0
+401022532,2018-10-07T02:30Z,Fresno State Bulldogs at Nevada Wolf Pack,Nevada Wolf Pack,Fresno State Bulldogs,3,21,0.0
+401022531,2018-10-07T03:59Z,Wyoming Cowboys at Hawai'i Rainbow Warriors,Hawai'i Rainbow Warriors,Wyoming Cowboys,17,13,1.0
+401021672,2018-10-10T00:00Z,Appalachian State Mountaineers at Arkansas State Red Wolves,Arkansas State Red Wolves,Appalachian State Mountaineers,9,35,0.0
+401013076,2018-10-11T23:30Z,Texas Tech Red Raiders at TCU Horned Frogs,TCU Horned Frogs,Texas Tech Red Raiders,14,17,0.0
+401021673,2018-10-11T23:30Z,Georgia Southern Eagles at Texas State Bobcats,Texas State Bobcats,Georgia Southern Eagles,13,15,0.0
+401019505,2018-10-12T23:00Z,South Florida Bulls at Tulsa Golden Hurricane,Tulsa Golden Hurricane,South Florida Bulls,24,25,0.0
+401022533,2018-10-13T01:00Z,Air Force Falcons at San Diego State Aztecs,San Diego State Aztecs,Air Force Falcons,21,17,1.0
+401012764,2018-10-13T02:00Z,Arizona Wildcats at Utah Utes,Utah Utes,Arizona Wildcats,42,10,1.0
+401012307,2018-10-13T23:00Z,Missouri Tigers at Alabama Crimson Tide,Alabama Crimson Tide,Missouri Tigers,39,10,1.0
+401012310,2018-10-13T19:30Z,Georgia Bulldogs at LSU Tigers,LSU Tigers,Georgia Bulldogs,36,16,1.0
+401013331,2018-10-13T16:00Z,Minnesota Golden Gophers at Ohio State Buckeyes,Ohio State Buckeyes,Minnesota Golden Gophers,30,14,1.0
+401013148,2018-10-13T18:30Z,Pittsburgh Panthers at Notre Dame Fighting Irish,Notre Dame Fighting Irish,Pittsburgh Panthers,19,14,1.0
+401013043,2018-10-13T23:00Z,West Virginia Mountaineers at Iowa State Cyclones,Iowa State Cyclones,West Virginia Mountaineers,30,14,1.0
+401012766,2018-10-13T19:30Z,Washington Huskies at Oregon Ducks,Oregon Ducks,Washington Huskies,30,27,1.0
+401012883,2018-10-13T19:30Z,Michigan State Spartans at Penn State Nittany Lions,Penn State Nittany Lions,Michigan State Spartans,17,21,0.0
+401013032,2018-10-13T19:30Z,Baylor Bears at Texas Longhorns,Texas Longhorns,Baylor Bears,23,17,1.0
+401019506,2018-10-13T19:30Z,UCF Knights at Memphis Tigers,Memphis Tigers,UCF Knights,30,31,0.0
+401012893,2018-10-13T23:30Z,Wisconsin Badgers at Michigan Wolverines,Michigan Wolverines,Wisconsin Badgers,38,13,1.0
+401012312,2018-10-13T16:00Z,Florida Gators at Vanderbilt Commodores,Vanderbilt Commodores,Florida Gators,27,37,0.0
+401013146,2018-10-13T23:00Z,Miami Hurricanes at Virginia Cavaliers,Virginia Cavaliers,Miami Hurricanes,16,13,1.0
+401012765,2018-10-14T02:30Z,Colorado Buffaloes at USC Trojans,USC Trojans,Colorado Buffaloes,31,20,1.0
+401012309,2018-10-13T16:00Z,Tennessee Volunteers at Auburn Tigers,Auburn Tigers,Tennessee Volunteers,24,30,0.0
+401012311,2018-10-13T19:30Z,Texas A&M Aggies at South Carolina Gamecocks,South Carolina Gamecocks,Texas A&M Aggies,23,26,0.0
+401012825,2018-10-13T16:00Z,Rutgers Scarlet Knights at Maryland Terrapins,Maryland Terrapins,Rutgers Scarlet Knights,34,7,1.0
+401012856,2018-10-13T16:00Z,Iowa Hawkeyes at Indiana Hoosiers,Indiana Hoosiers,Iowa Hawkeyes,16,42,0.0
+401013061,2018-10-13T16:00Z,Oklahoma State Cowboys at Kansas State Wildcats,Kansas State Wildcats,Oklahoma State Cowboys,31,12,1.0
+401013340,2018-10-13T16:00Z,Nebraska Cornhuskers at Northwestern Wildcats,Northwestern Wildcats,Nebraska Cornhuskers,34,31,1.0
+401020756,2018-10-13T16:00Z,Akron Zips at Buffalo Bulls,Buffalo Bulls,Akron Zips,24,6,1.0
+401020759,2018-10-13T16:00Z,Toledo Rockets at Eastern Michigan Eagles,Eastern Michigan Eagles,Toledo Rockets,28,26,1.0
+401013145,2018-10-13T16:20Z,Duke Blue Devils at Georgia Tech Yellow Jackets,Georgia Tech Yellow Jackets,Duke Blue Devils,14,28,0.0
+401013144,2018-10-13T16:30Z,Louisville Cardinals at Boston College Eagles,Boston College Eagles,Louisville Cardinals,38,20,1.0
+401015018,2018-10-13T17:00Z,UAB Blazers at Rice Owls,Rice Owls,UAB Blazers,0,42,0.0
+401029916,2018-10-13T17:00Z,James Madison Dukes at Villanova Wildcats,Villanova Wildcats,James Madison Dukes,0,37,0.0
+401029991,2018-10-13T17:30Z,Kennesaw State Owls at Gardner-Webb Bulldogs,Gardner-Webb Bulldogs,Kennesaw State Owls,17,56,0.0
+401013452,2018-10-13T18:00Z,Troy Trojans at Liberty Flames,Liberty Flames,Troy Trojans,22,16,1.0
+401015017,2018-10-13T18:00Z,Southern Mississippi Golden Eagles at North Texas Mean Green,North Texas Mean Green,Southern Mississippi Golden Eagles,30,7,1.0
+401030101,2018-10-13T18:00Z,Missouri State Bears at Indiana State Sycamores,Indiana State Sycamores,Missouri State Bears,26,29,0.0
+401020810,2018-10-13T18:30Z,Kent State Golden Flashes at Miami (OH) RedHawks,Miami (OH) RedHawks,Kent State Golden Flashes,31,6,1.0
+401020757,2018-10-13T19:00Z,Ball State Cardinals at Central Michigan Chippewas,Central Michigan Chippewas,Ball State Cardinals,23,24,0.0
+401020760,2018-10-13T19:00Z,Western Michigan Broncos at Bowling Green Falcons,Bowling Green Falcons,Western Michigan Broncos,35,42,0.0
+401012809,2018-10-13T19:30Z,Purdue Boilermakers at Illinois Fighting Illini,Illinois Fighting Illini,Purdue Boilermakers,7,46,0.0
+401013370,2018-10-13T19:30Z,Army Black Knights at San Jose State Spartans,San Jose State Spartans,Army Black Knights,3,52,0.0
+401015013,2018-10-13T19:30Z,Western Kentucky Hilltoppers at Charlotte 49ers,Charlotte 49ers,Western Kentucky Hilltoppers,40,14,1.0
+401015016,2018-10-13T19:30Z,Marshall Thundering Herd at Old Dominion Monarchs,Old Dominion Monarchs,Marshall Thundering Herd,20,42,0.0
+401019508,2018-10-13T19:30Z,Temple Owls at Navy Midshipmen,Navy Midshipmen,Temple Owls,17,24,0.0
+401020758,2018-10-13T19:30Z,Ohio Bobcats at Northern Illinois Huskies,Northern Illinois Huskies,Ohio Bobcats,24,21,1.0
+401029898,2018-10-13T19:30Z,Elon Phoenix at Delaware Blue Hens,Delaware Blue Hens,Elon Phoenix,28,16,1.0
+401022535,2018-10-13T20:00Z,New Mexico Lobos at Colorado State Rams,Colorado State Rams,New Mexico Lobos,20,18,1.0
+401022536,2018-10-13T20:00Z,UNLV Rebels at Utah State Aggies,Utah State Aggies,UNLV Rebels,59,28,1.0
+401030230,2018-10-13T20:00Z,Eastern Illinois Panthers at Jacksonville State Gamecocks,Jacksonville State Gamecocks,Eastern Illinois Panthers,49,22,1.0
+401013442,2018-10-13T21:00Z,New Mexico State Aggies at Louisiana Ragin' Cajuns,Louisiana Ragin' Cajuns,New Mexico State Aggies,66,38,1.0
+401021675,2018-10-13T21:00Z,Alabama State Hornets at South Alabama Jaguars,South Alabama Jaguars,Alabama State Hornets,45,7,1.0
+401021674,2018-10-13T22:00Z,UL Monroe Warhawks at Coastal Carolina Chanticleers,Coastal Carolina Chanticleers,UL Monroe Warhawks,20,45,0.0
+401012767,2018-10-13T23:00Z,UCLA Bruins at California Golden Bears,California Golden Bears,UCLA Bruins,7,37,0.0
+401013147,2018-10-13T23:00Z,Virginia Tech Hokies at North Carolina Tar Heels,North Carolina Tar Heels,Virginia Tech Hokies,19,22,0.0
+401015015,2018-10-13T23:00Z,Louisiana Tech Bulldogs at UTSA Roadrunners,UTSA Roadrunners,Louisiana Tech Bulldogs,3,31,0.0
+401019507,2018-10-13T23:00Z,Houston Cougars at East Carolina Pirates,East Carolina Pirates,Houston Cougars,20,42,0.0
+401029749,2018-10-13T23:00Z,North Dakota State Bison at Western Illinois Leathernecks,Western Illinois Leathernecks,North Dakota State Bison,7,34,0.0
+401030217,2018-10-13T23:00Z,Sam Houston State Bearkats at Northwestern State Demons,Northwestern State Demons,Sam Houston State Bearkats,28,42,0.0
+401012308,2018-10-13T23:30Z,Ole Miss Rebels at Arkansas Razorbacks,Arkansas Razorbacks,Ole Miss Rebels,33,37,0.0
+401015014,2018-10-13T23:30Z,Middle Tennessee Blue Raiders at Florida International Panthers,Florida International Panthers,Middle Tennessee Blue Raiders,24,21,1.0
+401030427,2018-10-14T00:00Z,Sacramento State Hornets at Southern Utah Thunderbirds,Southern Utah Thunderbirds,Sacramento State Hornets,48,27,1.0
+401016408,2018-10-14T02:15Z,Hawai'i Rainbow Warriors at BYU Cougars,BYU Cougars,Hawai'i Rainbow Warriors,49,23,1.0
+401022534,2018-10-14T02:30Z,Boise State Broncos at Nevada Wolf Pack,Nevada Wolf Pack,Boise State Broncos,27,31,0.0
+401022537,2018-10-14T02:30Z,Wyoming Cowboys at Fresno State Bulldogs,Fresno State Bulldogs,Wyoming Cowboys,27,3,1.0
+401021676,2018-10-18T23:30Z,Georgia State Panthers at Arkansas State Red Wolves,Arkansas State Red Wolves,Georgia State Panthers,51,35,1.0
+401012768,2018-10-19T01:00Z,Stanford Cardinal at Arizona State Sun Devils,Arizona State Sun Devils,Stanford Cardinal,13,20,0.0
+401022538,2018-10-20T01:00Z,Colorado State Rams at Boise State Broncos,Boise State Broncos,Colorado State Rams,56,28,1.0
+401022539,2018-10-20T02:00Z,Air Force Falcons at UNLV Rebels,UNLV Rebels,Air Force Falcons,35,41,0.0
+401012318,2018-10-20T19:30Z,Alabama Crimson Tide at Tennessee Volunteers,Tennessee Volunteers,Alabama Crimson Tide,21,58,0.0
+401013348,2018-10-20T23:30Z,Ohio State Buckeyes at Purdue Boilermakers,Purdue Boilermakers,Ohio State Buckeyes,49,20,1.0
+401012315,2018-10-20T23:00Z,Mississippi State Bulldogs at LSU Tigers,LSU Tigers,Mississippi State Bulldogs,19,3,1.0
+401012884,2018-10-20T16:00Z,Michigan Wolverines at Michigan State Spartans,Michigan State Spartans,Michigan Wolverines,7,21,0.0
+401013068,2018-10-20T16:00Z,Oklahoma Sooners at TCU Horned Frogs,TCU Horned Frogs,Oklahoma Sooners,27,52,0.0
+401019509,2018-10-20T23:00Z,UCF Knights at East Carolina Pirates,East Carolina Pirates,UCF Knights,10,37,0.0
+401012773,2018-10-20T23:30Z,Oregon Ducks at Washington State Cougars,Washington State Cougars,Oregon Ducks,34,20,1.0
+401012314,2018-10-20T23:30Z,Vanderbilt Commodores at Kentucky Wildcats,Kentucky Wildcats,Vanderbilt Commodores,14,7,1.0
+401012772,2018-10-20T19:30Z,Colorado Buffaloes at Washington Huskies,Washington Huskies,Colorado Buffaloes,27,13,1.0
+401012857,2018-10-20T19:30Z,Penn State Nittany Lions at Indiana Hoosiers,Indiana Hoosiers,Penn State Nittany Lions,28,33,0.0
+401012867,2018-10-20T16:00Z,Maryland Terrapins at Iowa Hawkeyes,Iowa Hawkeyes,Maryland Terrapins,23,0,1.0
+401019510,2018-10-20T16:00Z,Cincinnati Bearcats at Temple Owls,Temple Owls,Cincinnati Bearcats,24,17,1.0
+401019511,2018-10-20T23:00Z,UConn Huskies at South Florida Bulls,South Florida Bulls,UConn Huskies,38,30,1.0
+401012810,2018-10-20T16:00Z,Illinois Fighting Illini at Wisconsin Badgers,Wisconsin Badgers,Illinois Fighting Illini,49,20,1.0
+401012313,2018-10-20T16:00Z,Tulsa Golden Hurricane at Arkansas Razorbacks,Arkansas Razorbacks,Tulsa Golden Hurricane,23,0,1.0
+401012316,2018-10-20T16:00Z,Auburn Tigers at Ole Miss Rebels,Ole Miss Rebels,Auburn Tigers,16,31,0.0
+401012846,2018-10-20T16:00Z,Northwestern Wildcats at Rutgers Scarlet Knights,Rutgers Scarlet Knights,Northwestern Wildcats,15,18,0.0
+401013371,2018-10-20T16:00Z,Miami (OH) RedHawks at Army Black Knights,Army Black Knights,Miami (OH) RedHawks,31,30,1.0
+401020763,2018-10-20T16:00Z,Buffalo Bulls at Toledo Rockets,Toledo Rockets,Buffalo Bulls,17,31,0.0
+401013152,2018-10-20T16:20Z,North Carolina Tar Heels at Syracuse Orange,Syracuse Orange,North Carolina Tar Heels,40,37,1.0
+401013150,2018-10-20T16:30Z,Virginia Cavaliers at Duke Blue Devils,Duke Blue Devils,Virginia Cavaliers,14,28,0.0
+401013453,2018-10-20T18:00Z,Idaho State Bengals at Liberty Flames,Liberty Flames,Idaho State Bengals,48,41,1.0
+401020762,2018-10-20T18:00Z,Bowling Green Falcons at Ohio Bobcats,Ohio Bobcats,Bowling Green Falcons,49,14,1.0
+401030244,2018-10-20T18:00Z,Jacksonville State Gamecocks at Southeast Missouri State Redhawks,Southeast Missouri State Redhawks,Jacksonville State Gamecocks,37,14,1.0
+401015021,2018-10-20T18:30Z,Florida Atlantic Owls at Marshall Thundering Herd,Marshall Thundering Herd,Florida Atlantic Owls,31,7,1.0
+401022540,2018-10-20T18:30Z,Utah State Aggies at Wyoming Cowboys,Wyoming Cowboys,Utah State Aggies,16,24,0.0
+401015019,2018-10-20T19:00Z,Charlotte 49ers at Middle Tennessee Blue Raiders,Middle Tennessee Blue Raiders,Charlotte 49ers,21,13,1.0
+401020764,2018-10-20T19:00Z,Eastern Michigan Eagles at Ball State Cardinals,Ball State Cardinals,Eastern Michigan Eagles,20,42,0.0
+401020765,2018-10-20T19:00Z,Western Michigan Broncos at Central Michigan Chippewas,Central Michigan Chippewas,Western Michigan Broncos,10,35,0.0
+401030108,2018-10-20T19:00Z,Western Illinois Leathernecks at Missouri State Bears,Missouri State Bears,Western Illinois Leathernecks,14,31,0.0
+401013052,2018-10-20T19:30Z,Kansas Jayhawks at Texas Tech Red Raiders,Texas Tech Red Raiders,Kansas Jayhawks,48,16,1.0
+401013149,2018-10-20T19:30Z,NC State Wolfpack at Clemson Tigers,Clemson Tigers,NC State Wolfpack,41,7,1.0
+401013151,2018-10-20T19:30Z,Wake Forest Demon Deacons at Florida State Seminoles,Florida State Seminoles,Wake Forest Demon Deacons,38,17,1.0
+401013332,2018-10-20T19:30Z,Minnesota Golden Gophers at Nebraska Cornhuskers,Nebraska Cornhuskers,Minnesota Golden Gophers,53,28,1.0
+401013363,2018-10-20T19:30Z,Coastal Carolina Chanticleers at Massachusetts Minutemen,Massachusetts Minutemen,Coastal Carolina Chanticleers,13,24,0.0
+401015022,2018-10-20T19:30Z,UTEP Miners at Louisiana Tech Bulldogs,Louisiana Tech Bulldogs,UTEP Miners,31,24,1.0
+401019512,2018-10-20T19:30Z,Houston Cougars at Navy Midshipmen,Navy Midshipmen,Houston Cougars,36,49,0.0
+401019513,2018-10-20T19:30Z,SMU Mustangs at Tulane Green Wave,Tulane Green Wave,SMU Mustangs,23,27,0.0
+401020761,2018-10-20T19:30Z,Akron Zips at Kent State Golden Flashes,Kent State Golden Flashes,Akron Zips,23,24,0.0
+401021677,2018-10-20T19:30Z,Louisiana Ragin' Cajuns at Appalachian State Mountaineers,Appalachian State Mountaineers,Louisiana Ragin' Cajuns,27,17,1.0
+401029750,2018-10-20T19:30Z,Illinois State Redbirds at North Dakota State Bison,North Dakota State Bison,Illinois State Redbirds,28,14,1.0
+401029899,2018-10-20T19:30Z,Delaware Blue Hens at New Hampshire Wildcats,New Hampshire Wildcats,Delaware Blue Hens,14,38,0.0
+401012317,2018-10-20T20:00Z,Memphis Tigers at Missouri Tigers,Missouri Tigers,Memphis Tigers,65,33,1.0
+401012771,2018-10-20T20:00Z,California Golden Bears at Oregon State Beavers,Oregon State Beavers,California Golden Bears,7,49,0.0
+401030196,2018-10-20T20:00Z,Sam Houston State Bearkats at Lamar Cardinals,Lamar Cardinals,Sam Houston State Bearkats,41,23,1.0
+401013443,2018-10-20T22:00Z,Georgia Southern Eagles at New Mexico State Aggies,New Mexico State Aggies,Georgia Southern Eagles,31,48,0.0
+401015025,2018-10-20T23:00Z,UTSA Roadrunners at Southern Mississippi Golden Eagles,Southern Mississippi Golden Eagles,UTSA Roadrunners,27,17,1.0
+401021678,2018-10-20T23:00Z,Texas State Bobcats at UL Monroe Warhawks,UL Monroe Warhawks,Texas State Bobcats,20,14,1.0
+401015020,2018-10-20T23:30Z,Rice Owls at Florida International Panthers,Florida International Panthers,Rice Owls,36,17,1.0
+401015023,2018-10-20T23:30Z,North Texas Mean Green at UAB Blazers,UAB Blazers,North Texas Mean Green,29,21,1.0
+401015024,2018-10-20T23:30Z,Old Dominion Monarchs at Western Kentucky Hilltoppers,Western Kentucky Hilltoppers,Old Dominion Monarchs,34,37,0.0
+401022541,2018-10-20T23:30Z,Fresno State Bulldogs at New Mexico Lobos,New Mexico Lobos,Fresno State Bulldogs,7,38,0.0
+401012770,2018-10-21T00:00Z,USC Trojans at Utah Utes,Utah Utes,USC Trojans,41,28,1.0
+401030404,2018-10-21T01:00Z,North Dakota Fighting Hawks at Sacramento State Hornets,Sacramento State Hornets,North Dakota Fighting Hawks,15,41,0.0
+401012769,2018-10-21T02:30Z,Arizona Wildcats at UCLA Bruins,UCLA Bruins,Arizona Wildcats,31,30,1.0
+401022543,2018-10-21T02:30Z,San Jose State Spartans at San Diego State Aztecs,San Diego State Aztecs,San Jose State Spartans,16,13,1.0
+401022542,2018-10-21T03:59Z,Nevada Wolf Pack at Hawai'i Rainbow Warriors,Hawai'i Rainbow Warriors,Nevada Wolf Pack,22,40,0.0
+401021679,2018-10-24T00:00Z,Troy Trojans at South Alabama Jaguars,South Alabama Jaguars,Troy Trojans,17,38,0.0
+401013033,2018-10-25T23:00Z,Baylor Bears at West Virginia Mountaineers,West Virginia Mountaineers,Baylor Bears,58,14,1.0
+401021680,2018-10-25T23:30Z,Appalachian State Mountaineers at Georgia Southern Eagles,Georgia Southern Eagles,Appalachian State Mountaineers,34,14,1.0
+401020766,2018-10-25T23:00Z,Ball State Cardinals at Ohio Bobcats,Ohio Bobcats,Ball State Cardinals,52,14,1.0
+401020767,2018-10-25T23:00Z,Toledo Rockets at Western Michigan Broncos,Western Michigan Broncos,Toledo Rockets,24,51,0.0
+401013153,2018-10-25T23:30Z,Georgia Tech Yellow Jackets at Virginia Tech Hokies,Virginia Tech Hokies,Georgia Tech Yellow Jackets,28,49,0.0
+401012774,2018-10-27T02:30Z,Utah Utes at UCLA Bruins,UCLA Bruins,Utah Utes,10,41,0.0
+401015028,2018-10-26T22:30Z,Louisiana Tech Bulldogs at Florida Atlantic Owls,Florida Atlantic Owls,Louisiana Tech Bulldogs,13,21,0.0
+401013154,2018-10-26T23:00Z,Miami Hurricanes at Boston College Eagles,Boston College Eagles,Miami Hurricanes,27,14,1.0
+401012858,2018-10-27T00:00Z,Indiana Hoosiers at Minnesota Golden Gophers,Minnesota Golden Gophers,Indiana Hoosiers,38,31,1.0
+401022546,2018-10-27T02:00Z,Wyoming Cowboys at Colorado State Rams,Colorado State Rams,Wyoming Cowboys,21,34,0.0
+401013189,2018-10-28T00:00Z,Notre Dame Fighting Irish at Navy Midshipmen,Navy Midshipmen,Notre Dame Fighting Irish,22,44,0.0
+401013320,2018-10-28T00:00Z,Texas Longhorns at Oklahoma State Cowboys,Oklahoma State Cowboys,Texas Longhorns,38,35,1.0
+401012320,2018-10-27T19:30Z,Florida Gators at Georgia Bulldogs,Georgia Bulldogs,Florida Gators,36,17,1.0
+401013062,2018-10-27T19:30Z,Kansas State Wildcats at Oklahoma Sooners,Oklahoma Sooners,Kansas State Wildcats,51,14,1.0
+401012322,2018-10-27T20:00Z,Kentucky Wildcats at Missouri Tigers,Missouri Tigers,Kentucky Wildcats,14,15,0.0
+401012779,2018-10-27T23:00Z,Washington State Cougars at Stanford Cardinal,Stanford Cardinal,Washington State Cougars,38,41,0.0
+401012778,2018-10-27T22:30Z,Washington Huskies at California Golden Bears,California Golden Bears,Washington Huskies,12,10,1.0
+401012321,2018-10-27T23:00Z,Texas A&M Aggies at Mississippi State Bulldogs,Mississippi State Bulldogs,Texas A&M Aggies,28,13,1.0
+401012868,2018-10-27T19:30Z,Iowa Hawkeyes at Penn State Nittany Lions,Penn State Nittany Lions,Iowa Hawkeyes,30,24,1.0
+401012775,2018-10-28T02:30Z,Oregon Ducks at Arizona Wildcats,Arizona Wildcats,Oregon Ducks,44,15,1.0
+401013344,2018-10-27T16:00Z,Wisconsin Badgers at Northwestern Wildcats,Northwestern Wildcats,Wisconsin Badgers,31,17,1.0
+401019515,2018-10-27T19:30Z,South Florida Bulls at Houston Cougars,Houston Cougars,South Florida Bulls,57,36,1.0
+401013159,2018-10-27T23:00Z,NC State Wolfpack at Syracuse Orange,Syracuse Orange,NC State Wolfpack,51,41,1.0
+401012319,2018-10-27T16:00Z,Vanderbilt Commodores at Arkansas Razorbacks,Arkansas Razorbacks,Vanderbilt Commodores,31,45,0.0
+401012885,2018-10-27T16:00Z,Purdue Boilermakers at Michigan State Spartans,Michigan State Spartans,Purdue Boilermakers,23,13,1.0
+401013044,2018-10-27T16:00Z,Texas Tech Red Raiders at Iowa State Cyclones,Iowa State Cyclones,Texas Tech Red Raiders,40,31,1.0
+401013155,2018-10-27T16:00Z,Clemson Tigers at Florida State Seminoles,Florida State Seminoles,Clemson Tigers,10,59,0.0
+401013157,2018-10-27T16:00Z,Wake Forest Demon Deacons at Louisville Cardinals,Louisville Cardinals,Wake Forest Demon Deacons,35,56,0.0
+401013364,2018-10-27T16:00Z,Massachusetts Minutemen at UConn Huskies,UConn Huskies,Massachusetts Minutemen,17,22,0.0
+401013372,2018-10-27T16:00Z,Army Black Knights at Eastern Michigan Eagles,Eastern Michigan Eagles,Army Black Knights,22,37,0.0
+401020768,2018-10-27T16:00Z,Central Michigan Chippewas at Akron Zips,Akron Zips,Central Michigan Chippewas,17,10,1.0
+401085385,2018-10-27T16:00Z,Bethune-Cookman Wildcats at Nebraska Cornhuskers,Nebraska Cornhuskers,Bethune-Cookman Wildcats,45,9,1.0
+401013158,2018-10-27T16:20Z,North Carolina Tar Heels at Virginia Cavaliers,Virginia Cavaliers,North Carolina Tar Heels,31,21,1.0
+401015026,2018-10-27T18:00Z,Southern Mississippi Golden Eagles at Charlotte 49ers,Charlotte 49ers,Southern Mississippi Golden Eagles,20,17,1.0
+401021682,2018-10-27T18:00Z,Coastal Carolina Chanticleers at Georgia State Panthers,Georgia State Panthers,Coastal Carolina Chanticleers,34,37,0.0
+401030224,2018-10-27T18:00Z,Southeastern Louisiana Lions at Sam Houston State Bearkats,Sam Houston State Bearkats,Southeastern Louisiana Lions,28,25,1.0
+401012777,2018-10-27T19:00Z,Oregon State Beavers at Colorado Buffaloes,Colorado Buffaloes,Oregon State Beavers,34,41,0.0
+401013053,2018-10-27T19:00Z,TCU Horned Frogs at Kansas Jayhawks,Kansas Jayhawks,TCU Horned Frogs,27,26,1.0
+401029751,2018-10-27T19:00Z,North Dakota State Bison at South Dakota Coyotes,South Dakota Coyotes,North Dakota State Bison,14,59,0.0
+401030109,2018-10-27T19:00Z,Southern Illinois Salukis at Missouri State Bears,Missouri State Bears,Southern Illinois Salukis,35,49,0.0
+401012776,2018-10-27T19:30Z,Arizona State Sun Devils at USC Trojans,USC Trojans,Arizona State Sun Devils,35,38,0.0
+401012811,2018-10-27T19:30Z,Illinois Fighting Illini at Maryland Terrapins,Maryland Terrapins,Illinois Fighting Illini,63,33,1.0
+401013156,2018-10-27T19:30Z,Duke Blue Devils at Pittsburgh Panthers,Pittsburgh Panthers,Duke Blue Devils,54,45,1.0
+401015029,2018-10-27T19:30Z,Middle Tennessee Blue Raiders at Old Dominion Monarchs,Old Dominion Monarchs,Middle Tennessee Blue Raiders,17,51,0.0
+401016409,2018-10-27T19:30Z,Northern Illinois Huskies at BYU Cougars,BYU Cougars,Northern Illinois Huskies,6,7,0.0
+401019514,2018-10-27T19:30Z,Cincinnati Bearcats at SMU Mustangs,SMU Mustangs,Cincinnati Bearcats,20,26,0.0
+401029900,2018-10-27T19:30Z,Towson Tigers at Delaware Blue Hens,Delaware Blue Hens,Towson Tigers,40,36,1.0
+401029917,2018-10-27T19:30Z,Stony Brook Seawolves at James Madison Dukes,James Madison Dukes,Stony Brook Seawolves,13,10,1.0
+401015030,2018-10-27T20:00Z,Rice Owls at North Texas Mean Green,North Texas Mean Green,Rice Owls,41,17,1.0
+401022545,2018-10-27T20:00Z,New Mexico Lobos at Utah State Aggies,Utah State Aggies,New Mexico Lobos,61,19,1.0
+401030245,2018-10-27T20:00Z,Jacksonville State Gamecocks at Murray State Racers,Murray State Racers,Jacksonville State Gamecocks,15,42,0.0
+401029983,2018-10-27T22:00Z,Kennesaw State Owls at Charleston Southern Buccaneers,Charleston Southern Buccaneers,Kennesaw State Owls,10,38,0.0
+401022549,2018-10-27T22:30Z,UNLV Rebels at San Jose State Spartans,San Jose State Spartans,UNLV Rebels,50,37,1.0
+401013444,2018-10-27T23:00Z,New Mexico State Aggies at Texas State Bobcats,Texas State Bobcats,New Mexico State Aggies,27,20,1.0
+401019516,2018-10-27T23:00Z,Tulane Green Wave at Tulsa Golden Hurricane,Tulsa Golden Hurricane,Tulane Green Wave,17,24,0.0
+401021681,2018-10-27T23:00Z,Arkansas State Red Wolves at Louisiana Ragin' Cajuns,Louisiana Ragin' Cajuns,Arkansas State Red Wolves,47,43,1.0
+401022544,2018-10-27T23:00Z,Boise State Broncos at Air Force Falcons,Air Force Falcons,Boise State Broncos,38,48,0.0
+401012323,2018-10-27T23:30Z,Tennessee Volunteers at South Carolina Gamecocks,South Carolina Gamecocks,Tennessee Volunteers,27,24,1.0
+401015027,2018-10-27T23:30Z,Florida International Panthers at Western Kentucky Hilltoppers,Western Kentucky Hilltoppers,Florida International Panthers,17,38,0.0
+401015031,2018-10-27T23:30Z,UAB Blazers at UTEP Miners,UTEP Miners,UAB Blazers,0,19,0.0
+401030424,2018-10-28T01:00Z,Portland State Vikings at Sacramento State Hornets,Sacramento State Hornets,Portland State Vikings,14,41,0.0
+401022547,2018-10-28T02:30Z,Hawai'i Rainbow Warriors at Fresno State Bulldogs,Fresno State Bulldogs,Hawai'i Rainbow Warriors,50,20,1.0
+401022548,2018-10-28T02:30Z,San Diego State Aztecs at Nevada Wolf Pack,Nevada Wolf Pack,San Diego State Aztecs,28,24,1.0
+401020769,2018-10-31T00:00Z,Kent State Golden Flashes at Bowling Green Falcons,Bowling Green Falcons,Kent State Golden Flashes,28,35,0.0
+401020770,2018-10-31T00:00Z,Miami (OH) RedHawks at Buffalo Bulls,Buffalo Bulls,Miami (OH) RedHawks,51,42,1.0
+401020771,2018-10-31T23:30Z,Ball State Cardinals at Toledo Rockets,Toledo Rockets,Ball State Cardinals,45,13,1.0

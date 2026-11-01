@@ -1,0 +1,32 @@
+id,date,event,home,away,hs,as,res
+687744,2023-10-05T14:30Z,Viktoria Plzen at FC Astana,FC Astana,Viktoria Plzen,1,2,0.0
+687745,2023-10-05T16:45Z,Dinamo Zagreb at Ballkani,Ballkani,Dinamo Zagreb,2,0,1.0
+687746,2023-10-05T16:45Z,FC Lugano at Besiktas,Besiktas,FC Lugano,2,3,0.0
+687747,2023-10-05T16:45Z,Club Brugge at Bodo/Glimt,Bodo/Glimt,Club Brugge,0,1,0.0
+687748,2023-10-05T16:45Z,FC Zorya Luhansk at Breidablik,Breidablik,FC Zorya Luhansk,0,1,0.0
+687749,2023-10-05T16:45Z,Maccabi Tel-Aviv at KAA Gent,KAA Gent,Maccabi Tel-Aviv,2,0,1.0
+687751,2023-10-05T16:45Z,Lille at KI Klaksvik,KI Klaksvik,Lille,0,0,0.5
+687750,2023-10-05T16:45Z,Slovan Bratislava at Olimpija Ljubljana,Olimpija Ljubljana,Slovan Bratislava,0,1,0.0
+687758,2023-10-05T19:00Z,HJK Helsinki at Aberdeen,Aberdeen,HJK Helsinki,1,1,0.5
+687755,2023-10-05T19:00Z,Zrinjski Mostar at Aston Villa,Aston Villa,Zrinjski Mostar,1,0,1.0
+687754,2023-10-05T19:00Z,Legia Warsaw at AZ Alkmaar,AZ Alkmaar,Legia Warsaw,1,0,1.0
+687756,2023-10-05T19:00Z,Racing Genk at Cukaricki Belgrade,Cukaricki Belgrade,Racing Genk,0,2,0.0
+687759,2023-10-05T19:00Z,Ludogorets Razgrad at FC Nordsjælland,FC Nordsjælland,Ludogorets Razgrad,7,1,1.0
+687753,2023-10-05T19:00Z,Fenerbahce at FC Spartak Trnava,FC Spartak Trnava,Fenerbahce,1,2,0.0
+687757,2023-10-05T19:00Z,Ferencvaros at Fiorentina,Fiorentina,Ferencvaros,2,2,0.5
+687752,2023-10-05T19:00Z,Eintracht Frankfurt at PAOK,PAOK,Eintracht Frankfurt,2,1,1.0
+687760,2023-10-26T16:45Z,Aston Villa at AZ Alkmaar,AZ Alkmaar,Aston Villa,1,4,0.0
+687762,2023-10-26T16:45Z,FC Astana at Ballkani,Ballkani,FC Astana,1,2,0.0
+687767,2023-10-26T16:45Z,Club Brugge at FC Lugano,FC Lugano,Club Brugge,1,3,0.0
+687761,2023-10-26T16:45Z,Ludogorets Razgrad at Fenerbahce,Fenerbahce,Ludogorets Razgrad,3,1,1.0
+687763,2023-10-26T16:45Z,Breidablik at KAA Gent,KAA Gent,Breidablik,5,0,1.0
+687764,2023-10-26T16:45Z,Olimpija Ljubljana at KI Klaksvik,KI Klaksvik,Olimpija Ljubljana,3,0,1.0
+687766,2023-10-26T16:45Z,Slovan Bratislava at Lille,Lille,Slovan Bratislava,2,1,1.0
+687770,2023-10-26T19:00Z,PAOK at Aberdeen,Aberdeen,PAOK,2,3,0.0
+687771,2023-10-26T19:00Z,Besiktas at Bodo/Glimt,Bodo/Glimt,Besiktas,3,1,1.0
+687772,2023-10-26T19:00Z,Viktoria Plzen at Dinamo Zagreb,Dinamo Zagreb,Viktoria Plzen,0,1,0.0
+687773,2023-10-26T19:00Z,HJK Helsinki at Eintracht Frankfurt,Eintracht Frankfurt,HJK Helsinki,6,0,1.0
+687768,2023-10-26T19:00Z,FC Nordsjælland at FC Spartak Trnava,FC Spartak Trnava,FC Nordsjælland,0,2,0.0
+687774,2023-10-26T19:00Z,Cukaricki Belgrade at Fiorentina,Fiorentina,Cukaricki Belgrade,6,0,1.0
+687775,2023-10-26T19:00Z,Ferencvaros at Racing Genk,Racing Genk,Ferencvaros,0,0,0.5
+687769,2023-10-26T19:00Z,Legia Warsaw at Zrinjski Mostar,Zrinjski Mostar,Legia Warsaw,1,2,0.0

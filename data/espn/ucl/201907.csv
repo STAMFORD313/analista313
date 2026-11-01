@@ -1,0 +1,57 @@
+id,date,event,home,away,hs,as,res
+543722,2019-07-09T13:00Z,CFR Cluj-Napoca at FC Astana,FC Astana,CFR Cluj-Napoca,1,0,1.0
+543721,2019-07-09T14:00Z,AIK at Ararat-Armenia,Ararat-Armenia,AIK,2,1,1.0
+543727,2019-07-09T16:00Z,HB Torshavn at HJK Helsinki,HJK Helsinki,HB Torshavn,3,0,1.0
+543728,2019-07-09T16:00Z,KF Shkëndija at Nomme Kalju,Nomme Kalju,KF Shkëndija,0,1,0.0
+543707,2019-07-09T17:45Z,Celtic at FK Sarajevo,FK Sarajevo,Celtic,1,3,0.0
+543736,2019-07-09T18:00Z,Valletta at F91 Dudelange,F91 Dudelange,Valletta,2,2,0.5
+543731,2019-07-09T18:00Z,Red Star Belgrade at FK Suduva,FK Suduva,Red Star Belgrade,0,0,0.5
+543735,2019-07-09T18:00Z,Feronikeli at The New Saints,The New Saints,Feronikeli,2,2,0.5
+543723,2019-07-10T15:30Z,FK Qarabag at Partizani Tirana,Partizani Tirana,FK Qarabag,0,0,0.5
+543730,2019-07-10T17:00Z,Piast Gliwice at BATE Borisov,BATE Borisov,Piast Gliwice,1,1,0.5
+543734,2019-07-10T17:00Z,Iberia 1999 at Sheriff Tiraspol,Sheriff Tiraspol,Iberia 1999,0,3,0.0
+543715,2019-07-10T18:00Z,Ludogorets Razgrad at Ferencvaros,Ferencvaros,Ludogorets Razgrad,2,1,1.0
+543725,2019-07-10T18:15Z,FK Sutjeska at Slovan Bratislava,Slovan Bratislava,FK Sutjeska,1,1,0.5
+543732,2019-07-10T18:45Z,Riga FC at Dundalk,Dundalk,Riga FC,0,0,0.5
+543733,2019-07-10T18:45Z,Rosenborg at Linfield,Linfield,Rosenborg,0,2,0.0
+543729,2019-07-10T20:00Z,NK Maribor at Valur Reykjavik,Valur Reykjavik,NK Maribor,0,3,0.0
+543716,2019-07-16T15:00Z,Nomme Kalju at KF Shkëndija,KF Shkëndija,Nomme Kalju,1,2,0.0
+543711,2019-07-16T17:30Z,Sheriff Tiraspol at Iberia 1999,Iberia 1999,Sheriff Tiraspol,1,3,1.0
+543713,2019-07-16T18:00Z,HJK Helsinki at HB Torshavn,HB Torshavn,HJK Helsinki,2,2,0.0
+543709,2019-07-16T18:00Z,F91 Dudelange at Valletta,Valletta,F91 Dudelange,1,1,1.0
+543719,2019-07-16T18:45Z,The New Saints at Feronikeli,Feronikeli,The New Saints,0,1,0.0
+543712,2019-07-16T18:45Z,FK Suduva at Red Star Belgrade,Red Star Belgrade,FK Suduva,2,1,1.0
+543708,2019-07-17T16:30Z,Dundalk at Riga FC,Riga FC,Dundalk,0,0,0.0
+543705,2019-07-17T17:00Z,Ararat-Armenia at AIK,AIK,Ararat-Armenia,3,1,1.0
+543717,2019-07-17T17:00Z,Partizani Tirana at FK Qarabag,FK Qarabag,Partizani Tirana,2,0,1.0
+543714,2019-07-17T17:00Z,Linfield at Rosenborg,Rosenborg,Linfield,4,0,1.0
+543726,2019-07-17T17:30Z,Ferencvaros at Ludogorets Razgrad,Ludogorets Razgrad,Ferencvaros,2,3,0.0
+543710,2019-07-17T18:00Z,FC Astana at CFR Cluj-Napoca,CFR Cluj-Napoca,FC Astana,3,1,1.0
+543706,2019-07-17T18:00Z,BATE Borisov at Piast Gliwice,Piast Gliwice,BATE Borisov,1,2,0.0
+543718,2019-07-17T18:15Z,Slovan Bratislava at FK Sutjeska,FK Sutjeska,Slovan Bratislava,1,1,1.0
+543720,2019-07-17T18:15Z,Valur Reykjavik at NK Maribor,NK Maribor,Valur Reykjavik,2,0,1.0
+543724,2019-07-17T18:45Z,FK Sarajevo at Celtic,Celtic,FK Sarajevo,2,1,1.0
+552343,2019-07-23T17:00Z,Olympiacos at Viktoria Plzen,Viktoria Plzen,Olympiacos,0,0,0.5
+552342,2019-07-23T17:30Z,Dinamo Zagreb at Iberia 1999,Iberia 1999,Dinamo Zagreb,0,2,0.0
+552340,2019-07-23T18:00Z,FC Basel at PSV Eindhoven,PSV Eindhoven,FC Basel,3,2,1.0
+552341,2019-07-23T18:00Z,F.C. København at The New Saints,The New Saints,F.C. København,0,2,0.0
+552345,2019-07-23T18:15Z,Apoel Nicosia at FK Sutjeska,FK Sutjeska,Apoel Nicosia,0,1,0.0
+552349,2019-07-24T17:00Z,Rosenborg at BATE Borisov,BATE Borisov,Rosenborg,2,1,1.0
+552347,2019-07-24T18:00Z,Maccabi Tel-Aviv at CFR Cluj-Napoca,CFR Cluj-Napoca,Maccabi Tel-Aviv,1,0,1.0
+552350,2019-07-24T18:00Z,Valletta at Ferencvaros,Ferencvaros,Valletta,3,1,1.0
+552344,2019-07-24T18:15Z,AIK at NK Maribor,NK Maribor,AIK,2,1,1.0
+552348,2019-07-24T18:45Z,Nomme Kalju at Celtic,Celtic,Nomme Kalju,5,0,1.0
+552346,2019-07-24T18:45Z,FK Qarabag at Dundalk,Dundalk,FK Qarabag,1,1,0.5
+552339,2019-07-24T18:45Z,HJK Helsinki at Red Star Belgrade,Red Star Belgrade,HJK Helsinki,2,0,1.0
+552337,2019-07-30T17:00Z,FK Sutjeska at Apoel Nicosia,Apoel Nicosia,FK Sutjeska,3,0,1.0
+552334,2019-07-30T17:00Z,CFR Cluj-Napoca at Maccabi Tel-Aviv,Maccabi Tel-Aviv,CFR Cluj-Napoca,2,2,0.0
+552335,2019-07-30T17:00Z,Celtic at Nomme Kalju,Nomme Kalju,Celtic,0,2,0.0
+552332,2019-07-30T18:00Z,Iberia 1999 at Dinamo Zagreb,Dinamo Zagreb,Iberia 1999,3,0,1.0
+552331,2019-07-30T18:00Z,PSV Eindhoven at FC Basel,FC Basel,PSV Eindhoven,2,1,1.0
+552329,2019-07-30T18:00Z,Ferencvaros at Valletta,Valletta,Ferencvaros,1,1,0.0
+552330,2019-07-30T18:30Z,Viktoria Plzen at Olympiacos,Olympiacos,Viktoria Plzen,4,0,1.0
+552328,2019-07-31T16:00Z,Red Star Belgrade at HJK Helsinki,HJK Helsinki,Red Star Belgrade,2,1,0.0
+552338,2019-07-31T17:00Z,NK Maribor at AIK,AIK,NK Maribor,3,2,0.0
+552336,2019-07-31T17:00Z,Dundalk at FK Qarabag,FK Qarabag,Dundalk,3,0,1.0
+552333,2019-07-31T17:00Z,BATE Borisov at Rosenborg,Rosenborg,BATE Borisov,2,0,1.0
+552327,2019-07-31T17:45Z,The New Saints at F.C. København,F.C. København,The New Saints,1,0,1.0

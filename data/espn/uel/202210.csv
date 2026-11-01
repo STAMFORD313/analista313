@@ -1,0 +1,50 @@
+id,date,event,home,away,hs,as,res
+652716,2022-10-06T16:45Z,Trabzonspor at AS Monaco,AS Monaco,Trabzonspor,3,1,1.0
+652717,2022-10-06T16:45Z,PSV Eindhoven at FC Zürich,FC Zürich,PSV Eindhoven,1,5,0.0
+652720,2022-10-06T16:45Z,Ludogorets Razgrad at HJK Helsinki,HJK Helsinki,Ludogorets Razgrad,1,1,0.5
+652721,2022-10-06T16:45Z,1. FC Union Berlin at Malmö FF,Malmö FF,1. FC Union Berlin,0,1,0.0
+652719,2022-10-06T16:45Z,Manchester United at Omonia Nicosia,Omonia Nicosia,Manchester United,2,3,0.0
+652718,2022-10-06T16:45Z,Ferencvaros at Red Star Belgrade,Red Star Belgrade,Ferencvaros,4,1,1.0
+652715,2022-10-06T16:45Z,Real Sociedad at Sheriff Tiraspol,Sheriff Tiraspol,Real Sociedad,0,2,0.0
+652714,2022-10-06T16:45Z,Lazio at SK Sturm Graz,SK Sturm Graz,Lazio,0,0,0.5
+652725,2022-10-06T19:00Z,Bodo/Glimt at Arsenal,Arsenal,Bodo/Glimt,3,0,1.0
+652723,2022-10-06T19:00Z,Real Betis at AS Roma,AS Roma,Real Betis,1,2,0.0
+652722,2022-10-06T19:00Z,Union St.-Gilloise at Braga,Braga,Union St.-Gilloise,1,2,0.0
+652726,2022-10-06T19:00Z,Feyenoord Rotterdam at FC Midtjylland,FC Midtjylland,Feyenoord Rotterdam,2,2,0.5
+652727,2022-10-06T19:00Z,AEK Larnaca at Fenerbahce,Fenerbahce,AEK Larnaca,2,0,1.0
+652728,2022-10-06T19:00Z,FK Qarabag at Olympiacos,Olympiacos,FK Qarabag,0,3,0.0
+652729,2022-10-06T19:00Z,Nantes at SC Freiburg,SC Freiburg,Nantes,2,0,1.0
+652724,2022-10-06T19:00Z,Dynamo Kyiv at Stade Rennais,Stade Rennais,Dynamo Kyiv,2,1,1.0
+652730,2022-10-13T16:45Z,Fenerbahce at AEK Larnaca,AEK Larnaca,Fenerbahce,1,2,0.0
+652731,2022-10-13T16:45Z,Arsenal at Bodo/Glimt,Bodo/Glimt,Arsenal,0,1,0.0
+652732,2022-10-13T16:45Z,Stade Rennais at Dynamo Kyiv,Dynamo Kyiv,Stade Rennais,0,1,0.0
+652734,2022-10-13T16:45Z,FC Midtjylland at Feyenoord Rotterdam,Feyenoord Rotterdam,FC Midtjylland,2,2,0.5
+652733,2022-10-13T16:45Z,Olympiacos at FK Qarabag,FK Qarabag,Olympiacos,0,0,0.5
+652735,2022-10-13T16:45Z,SC Freiburg at Nantes,Nantes,SC Freiburg,0,4,0.0
+652736,2022-10-13T16:45Z,AS Roma at Real Betis,Real Betis,AS Roma,1,1,0.5
+652737,2022-10-13T16:45Z,Braga at Union St.-Gilloise,Union St.-Gilloise,Braga,3,3,0.5
+652745,2022-10-13T19:00Z,Malmö FF at 1. FC Union Berlin,1. FC Union Berlin,Malmö FF,1,0,1.0
+652739,2022-10-13T19:00Z,Red Star Belgrade at Ferencvaros,Ferencvaros,Red Star Belgrade,2,1,1.0
+652738,2022-10-13T19:00Z,SK Sturm Graz at Lazio,Lazio,SK Sturm Graz,2,2,0.5
+652744,2022-10-13T19:00Z,HJK Helsinki at Ludogorets Razgrad,Ludogorets Razgrad,HJK Helsinki,2,0,1.0
+652743,2022-10-13T19:00Z,Omonia Nicosia at Manchester United,Manchester United,Omonia Nicosia,1,0,1.0
+652742,2022-10-13T19:00Z,FC Zürich at PSV Eindhoven,PSV Eindhoven,FC Zürich,5,0,1.0
+652741,2022-10-13T19:00Z,Sheriff Tiraspol at Real Sociedad,Real Sociedad,Sheriff Tiraspol,3,0,1.0
+652740,2022-10-13T19:00Z,AS Monaco at Trabzonspor,Trabzonspor,AS Monaco,4,0,1.0
+652711,2022-10-20T17:00Z,PSV Eindhoven at Arsenal,Arsenal,PSV Eindhoven,1,0,1.0
+652746,2022-10-27T16:45Z,Braga at 1. FC Union Berlin,1. FC Union Berlin,Braga,1,0,1.0
+652752,2022-10-27T16:45Z,Dynamo Kyiv at AEK Larnaca,AEK Larnaca,Dynamo Kyiv,3,3,0.5
+652751,2022-10-27T16:45Z,Bodo/Glimt at FC Zürich,FC Zürich,Bodo/Glimt,2,1,1.0
+652753,2022-10-27T16:45Z,Stade Rennais at Fenerbahce,Fenerbahce,Stade Rennais,3,3,0.5
+652747,2022-10-27T16:45Z,FC Midtjylland at Lazio,Lazio,FC Midtjylland,2,1,1.0
+652748,2022-10-27T16:45Z,Real Betis at Ludogorets Razgrad,Ludogorets Razgrad,Real Betis,0,1,0.0
+652749,2022-10-27T16:45Z,Union St.-Gilloise at Malmö FF,Malmö FF,Union St.-Gilloise,0,2,0.0
+652750,2022-10-27T16:45Z,Arsenal at PSV Eindhoven,PSV Eindhoven,Arsenal,2,0,1.0
+652754,2022-10-27T19:00Z,AS Monaco at Ferencvaros,Ferencvaros,AS Monaco,1,1,0.5
+652757,2022-10-27T19:00Z,AS Roma at HJK Helsinki,HJK Helsinki,AS Roma,1,2,0.0
+652756,2022-10-27T19:00Z,Sheriff Tiraspol at Manchester United,Manchester United,Sheriff Tiraspol,3,0,1.0
+652758,2022-10-27T19:00Z,FK Qarabag at Nantes,Nantes,FK Qarabag,2,1,1.0
+652759,2022-10-27T19:00Z,Real Sociedad at Omonia Nicosia,Omonia Nicosia,Real Sociedad,0,2,0.0
+652755,2022-10-27T19:00Z,Trabzonspor at Red Star Belgrade,Red Star Belgrade,Trabzonspor,2,1,1.0
+652760,2022-10-27T19:00Z,Olympiacos at SC Freiburg,SC Freiburg,Olympiacos,1,1,0.5
+652761,2022-10-27T19:00Z,Feyenoord Rotterdam at SK Sturm Graz,SK Sturm Graz,Feyenoord Rotterdam,1,0,1.0

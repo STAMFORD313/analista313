@@ -1,0 +1,49 @@
+id,date,event,home,away,hs,as,res
+652812,2022-10-06T16:45Z,West Ham United at Anderlecht,Anderlecht,West Ham United,0,1,0.0
+652814,2022-10-06T16:45Z,Hapoel Be'er at Lech Poznan,Lech Poznan,Hapoel Be'er,0,0,0.5
+652810,2022-10-06T16:45Z,Shamrock Rovers at Molde,Molde,Shamrock Rovers,3,0,1.0
+652813,2022-10-06T16:45Z,Zalgiris Vilnius at Pyunik,Pyunik,Zalgiris Vilnius,2,0,1.0
+652817,2022-10-06T16:45Z,FC Vaduz at SC Dnipro-1,SC Dnipro-1,FC Vaduz,2,2,0.5
+652811,2022-10-06T16:45Z,FCSB at Silkeborg IF,Silkeborg IF,FCSB,5,0,1.0
+652815,2022-10-06T16:45Z,Ballkani at Sivasspor,Sivasspor,Ballkani,3,4,0.0
+652816,2022-10-06T16:45Z,Nice at Slovacko,Slovacko,Nice,0,1,0.0
+652822,2022-10-06T19:00Z,Apollon Limassol at AZ Alkmaar,AZ Alkmaar,Apollon Limassol,3,2,1.0
+652821,2022-10-06T19:00Z,Slovan Bratislava at FC Basel,FC Basel,Slovan Bratislava,0,2,0.0
+652823,2022-10-06T19:00Z,Partizan Belgrade at FC Cologne,FC Cologne,Partizan Belgrade,0,1,0.0
+652819,2022-10-06T19:00Z,Fiorentina at Heart of Midlothian,Heart of Midlothian,Fiorentina,0,3,0.0
+652818,2022-10-06T19:00Z,Djurgården at KAA Gent,KAA Gent,Djurgården,0,1,0.0
+652820,2022-10-06T19:00Z,Istanbul Basaksehir at Rigas Futbola Skola,Rigas Futbola Skola,Istanbul Basaksehir,0,0,0.5
+652825,2022-10-06T19:00Z,CFR Cluj-Napoca at Slavia Prague,Slavia Prague,CFR Cluj-Napoca,0,1,0.0
+652824,2022-10-06T19:00Z,Austria Vienna at Villarreal,Villarreal,Austria Vienna,5,0,1.0
+652830,2022-10-13T16:45Z,AZ Alkmaar at Apollon Limassol,Apollon Limassol,AZ Alkmaar,1,0,1.0
+652833,2022-10-13T16:45Z,Villarreal at Austria Vienna,Austria Vienna,Villarreal,0,1,0.0
+652827,2022-10-13T16:45Z,Slavia Prague at CFR Cluj-Napoca,CFR Cluj-Napoca,Slavia Prague,2,0,1.0
+652826,2022-10-13T16:45Z,KAA Gent at Djurgården,Djurgården,KAA Gent,4,2,1.0
+652829,2022-10-13T16:45Z,Heart of Midlothian at Fiorentina,Fiorentina,Heart of Midlothian,5,1,1.0
+652832,2022-10-13T16:45Z,Rigas Futbola Skola at Istanbul Basaksehir,Istanbul Basaksehir,Rigas Futbola Skola,3,0,1.0
+652831,2022-10-13T16:45Z,FC Cologne at Partizan Belgrade,Partizan Belgrade,FC Cologne,2,0,1.0
+652828,2022-10-13T16:45Z,FC Basel at Slovan Bratislava,Slovan Bratislava,FC Basel,3,3,0.5
+652836,2022-10-13T19:00Z,Sivasspor at Ballkani,Ballkani,Sivasspor,1,2,0.0
+652841,2022-10-13T19:00Z,SC Dnipro-1 at FC Vaduz,FC Vaduz,SC Dnipro-1,1,2,0.0
+652835,2022-10-13T19:00Z,Silkeborg IF at FCSB,FCSB,Silkeborg IF,0,5,0.0
+652837,2022-10-13T19:00Z,Lech Poznan at Hapoel Be'er,Hapoel Be'er,Lech Poznan,1,1,0.5
+652834,2022-10-13T19:00Z,Slovacko at Nice,Nice,Slovacko,1,2,0.0
+652840,2022-10-13T19:00Z,Molde at Shamrock Rovers,Shamrock Rovers,Molde,0,2,0.0
+652839,2022-10-13T19:00Z,Anderlecht at West Ham United,West Ham United,Anderlecht,2,1,1.0
+652838,2022-10-13T19:00Z,Pyunik at Zalgiris Vilnius,Zalgiris Vilnius,Pyunik,2,1,1.0
+652846,2022-10-27T16:45Z,FCSB at Anderlecht,Anderlecht,FCSB,2,2,0.5
+652848,2022-10-27T16:45Z,Lech Poznan at Austria Vienna,Austria Vienna,Lech Poznan,1,1,0.5
+652847,2022-10-27T16:45Z,AZ Alkmaar at FC Vaduz,FC Vaduz,AZ Alkmaar,1,2,0.0
+652844,2022-10-27T16:45Z,Istanbul Basaksehir at Fiorentina,Fiorentina,Istanbul Basaksehir,2,1,1.0
+652845,2022-10-27T16:45Z,Partizan Belgrade at Nice,Nice,Partizan Belgrade,2,1,1.0
+652842,2022-10-27T16:45Z,Hapoel Be'er at Villarreal,Villarreal,Hapoel Be'er,2,2,0.5
+652852,2022-10-27T19:00Z,Slavia Prague at Ballkani,Ballkani,Slavia Prague,0,1,0.0
+652851,2022-10-27T19:00Z,Zalgiris Vilnius at FC Basel,FC Basel,Zalgiris Vilnius,2,2,0.5
+652850,2022-10-27T19:00Z,Rigas Futbola Skola at Heart of Midlothian,Heart of Midlothian,Rigas Futbola Skola,2,1,1.0
+652849,2022-10-27T19:00Z,Djurgården at Molde,Molde,Djurgården,2,3,0.0
+652854,2022-10-27T19:00Z,Apollon Limassol at SC Dnipro-1,SC Dnipro-1,Apollon Limassol,1,0,1.0
+652855,2022-10-27T19:00Z,KAA Gent at Shamrock Rovers,Shamrock Rovers,KAA Gent,1,1,0.5
+652853,2022-10-27T19:00Z,CFR Cluj-Napoca at Sivasspor,Sivasspor,CFR Cluj-Napoca,3,0,1.0
+652857,2022-10-27T19:00Z,Pyunik at Slovan Bratislava,Slovan Bratislava,Pyunik,2,1,1.0
+652856,2022-10-27T19:00Z,Silkeborg IF at West Ham United,West Ham United,Silkeborg IF,1,0,1.0
+652843,2022-10-28T11:00Z,FC Cologne at Slovacko,Slovacko,FC Cologne,0,1,0.0

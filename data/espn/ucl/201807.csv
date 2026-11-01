@@ -1,0 +1,48 @@
+id,date,event,home,away,hs,as,res
+515120,2018-07-10T15:30Z,Hapoel Be'er at Flora,Flora,Hapoel Be'er,1,4,0.0
+515117,2018-07-10T15:30Z,Sheriff Tiraspol at Torpedo Kutaisi,Torpedo Kutaisi,Sheriff Tiraspol,2,1,1.0
+515115,2018-07-10T16:00Z,Celtic at Alashkert FC,Alashkert FC,Celtic,0,3,0.0
+515127,2018-07-10T16:00Z,Fehérvár at F91 Dudelange,F91 Dudelange,Fehérvár,1,1,0.5
+515107,2018-07-10T18:00Z,HJK Helsinki at Víkingur,Víkingur,HJK Helsinki,1,2,0.0
+515125,2018-07-10T18:15Z,The New Saints at KF Shkëndija,KF Shkëndija,The New Saints,5,0,1.0
+515121,2018-07-10T18:45Z,Legia Warsaw at Cork,Cork,Legia Warsaw,0,1,0.0
+515122,2018-07-10T18:45Z,Malmö FF at Drita Gjilan,Drita Gjilan,Malmö FF,0,3,0.0
+515119,2018-07-11T14:00Z,FK Sutjeska at FC Astana,FC Astana,FK Sutjeska,1,0,1.0
+515129,2018-07-11T16:00Z,Zrinjski Mostar at FC Spartak Trnava,FC Spartak Trnava,Zrinjski Mostar,1,0,1.0
+515123,2018-07-11T16:00Z,Red Star Belgrade at FK Spartaks Jurmala,FK Spartaks Jurmala,Red Star Belgrade,0,0,0.5
+515114,2018-07-11T16:00Z,Apoel Nicosia at FK Suduva,FK Suduva,Apoel Nicosia,3,1,1.0
+515126,2018-07-11T17:00Z,Valletta at FK Kukesi,FK Kukesi,Valletta,0,0,0.5
+515116,2018-07-11T17:00Z,Crusaders at Ludogorets Razgrad,Ludogorets Razgrad,Crusaders,7,0,1.0
+515118,2018-07-11T18:00Z,FK Qarabag at Olimpija Ljubljana,Olimpija Ljubljana,FK Qarabag,0,1,0.0
+515124,2018-07-11T20:00Z,Rosenborg at Valur Reykjavik,Valur Reykjavik,Rosenborg,1,0,1.0
+515128,2018-07-17T16:00Z,Víkingur at HJK Helsinki,HJK Helsinki,Víkingur,3,1,1.0
+515103,2018-07-17T16:00Z,FK Kukesi at Valletta,Valletta,FK Kukesi,1,1,0.0
+515105,2018-07-17T17:00Z,FK Suduva at Apoel Nicosia,Apoel Nicosia,FK Suduva,1,0,0.0
+515106,2018-07-17T17:00Z,Flora at Hapoel Be'er,Hapoel Be'er,Flora,3,1,1.0
+515111,2018-07-17T17:00Z,Drita Gjilan at Malmö FF,Malmö FF,Drita Gjilan,2,0,1.0
+515108,2018-07-17T18:00Z,KF Shkëndija at The New Saints,The New Saints,KF Shkëndija,4,0,0.0
+515100,2018-07-17T18:15Z,F91 Dudelange at Fehérvár,Fehérvár,F91 Dudelange,2,1,1.0
+515104,2018-07-17T18:30Z,FK Spartaks Jurmala at Red Star Belgrade,Red Star Belgrade,FK Spartaks Jurmala,2,0,1.0
+515109,2018-07-17T19:00Z,Ludogorets Razgrad at Crusaders,Crusaders,Ludogorets Razgrad,0,2,0.0
+515099,2018-07-17T19:00Z,Cork at Legia Warsaw,Legia Warsaw,Cork,3,0,1.0
+515110,2018-07-18T17:00Z,Olimpija Ljubljana at FK Qarabag,FK Qarabag,Olimpija Ljubljana,0,0,1.0
+515112,2018-07-18T17:00Z,Torpedo Kutaisi at Sheriff Tiraspol,Sheriff Tiraspol,Torpedo Kutaisi,3,0,1.0
+515102,2018-07-18T17:00Z,FC Spartak Trnava at Zrinjski Mostar,Zrinjski Mostar,FC Spartak Trnava,1,1,0.0
+515113,2018-07-18T17:45Z,Valur Reykjavik at Rosenborg,Rosenborg,Valur Reykjavik,3,1,1.0
+515101,2018-07-18T18:00Z,FC Astana at FK Sutjeska,FK Sutjeska,FC Astana,0,2,0.0
+515098,2018-07-18T18:45Z,Alashkert FC at Celtic,Celtic,Alashkert FC,3,0,1.0
+517406,2018-07-24T14:00Z,FC Midtjylland at FC Astana,FC Astana,FC Midtjylland,2,1,1.0
+521087,2018-07-24T16:00Z,Malmö FF at CFR Cluj-Napoca,CFR Cluj-Napoca,Malmö FF,0,1,0.0
+517405,2018-07-24T17:30Z,FC Basel at PAOK,PAOK,FC Basel,2,1,1.0
+517408,2018-07-24T18:00Z,Hapoel Be'er at Dinamo Zagreb,Dinamo Zagreb,Hapoel Be'er,5,0,1.0
+521088,2018-07-24T18:15Z,Sheriff Tiraspol at KF Shkëndija,KF Shkëndija,Sheriff Tiraspol,1,0,1.0
+521086,2018-07-24T18:30Z,FK Suduva at Red Star Belgrade,Red Star Belgrade,FK Suduva,3,0,1.0
+521089,2018-07-24T19:00Z,FC Spartak Trnava at Legia Warsaw,Legia Warsaw,FC Spartak Trnava,0,2,0.0
+517407,2018-07-25T17:00Z,HJK Helsinki at BATE Borisov,BATE Borisov,HJK Helsinki,0,0,0.5
+521090,2018-07-25T17:00Z,FK Qarabag at FK Kukesi,FK Kukesi,FK Qarabag,0,0,0.5
+521085,2018-07-25T17:00Z,Fehérvár at Ludogorets Razgrad,Ludogorets Razgrad,Fehérvár,0,0,0.5
+517404,2018-07-25T18:30Z,SK Sturm Graz at Ajax Amsterdam,Ajax Amsterdam,SK Sturm Graz,2,0,1.0
+521091,2018-07-25T18:45Z,Rosenborg at Celtic,Celtic,Rosenborg,3,1,1.0
+517402,2018-07-31T17:00Z,Dinamo Zagreb at Hapoel Be'er,Hapoel Be'er,Dinamo Zagreb,2,2,0.0
+521083,2018-07-31T17:00Z,KF Shkëndija at Sheriff Tiraspol,Sheriff Tiraspol,KF Shkëndija,0,0,0.0
+521084,2018-07-31T18:30Z,Legia Warsaw at FC Spartak Trnava,FC Spartak Trnava,Legia Warsaw,0,1,1.0

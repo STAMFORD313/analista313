@@ -1,0 +1,55 @@
+id,date,event,home,away,hs,as,res
+483030,2017-07-04T16:00Z,Hibernians at FCI Tallinn,FCI Tallinn,Hibernians,0,1,0.0
+483033,2017-07-04T16:00Z,Víkingur at Trepca 89,Trepca 89,Víkingur,1,4,0.0
+483032,2017-07-04T17:30Z,The New Saints at Europa FC,Europa FC,The New Saints,1,3,0.0
+483031,2017-07-04T18:30Z,Linfield at Fiorita,Fiorita,Linfield,0,0,0.0
+483029,2017-07-04T18:30Z,Alashkert FC at Santa Coloma,Santa Coloma,Alashkert FC,1,1,0.0
+483024,2017-07-11T17:00Z,FC Samtredia at FK Qarabag,FK Qarabag,FC Samtredia,5,0,1.0
+483016,2017-07-11T18:30Z,RB Salzburg at Hibernians,Hibernians,RB Salzburg,0,3,0.0
+483012,2017-07-11T18:45Z,Buducnost Podgorica at Partizan Belgrade,Partizan Belgrade,Buducnost Podgorica,2,0,1.0
+483027,2017-07-11T18:45Z,The New Saints at Rijeka,Rijeka,The New Saints,2,0,1.0
+483018,2017-07-12T16:00Z,FC Astana at FK Spartaks Jurmala,FK Spartaks Jurmala,FC Astana,0,1,0.0
+483014,2017-07-12T17:00Z,F91 Dudelange at Apoel Nicosia,Apoel Nicosia,F91 Dudelange,1,0,1.0
+483019,2017-07-12T17:00Z,Honvéd at Hapoel Be'er,Hapoel Be'er,Honvéd,2,1,1.0
+483028,2017-07-12T17:00Z,Vardar at Malmö FF,Malmö FF,Vardar,1,1,0.5
+483017,2017-07-12T17:00Z,FK Kukesi at Sheriff Tiraspol,Sheriff Tiraspol,FK Kukesi,1,0,1.0
+483022,2017-07-12T17:00Z,NK Maribor at Zrinjski Mostar,Zrinjski Mostar,NK Maribor,1,2,0.0
+483025,2017-07-12T17:30Z,Alashkert FC at BATE Borisov,BATE Borisov,Alashkert FC,1,1,0.5
+483020,2017-07-12T18:00Z,Legia Warsaw at IFK Mariehamn,IFK Mariehamn,Legia Warsaw,0,3,0.0
+483021,2017-07-12T18:00Z,Ludogorets Razgrad at Zalgiris Vilnius,Zalgiris Vilnius,Ludogorets Razgrad,2,1,1.0
+483015,2017-07-12T18:15Z,F.C. København at MSK Zilina,MSK Zilina,F.C. København,1,3,0.0
+483023,2017-07-12T18:45Z,Rosenborg at Dundalk,Dundalk,Rosenborg,1,1,0.5
+483026,2017-07-12T19:15Z,Víkingur at FH Hafnarfjordur,FH Hafnarfjordur,Víkingur,1,1,0.5
+483013,2017-07-14T16:00Z,Celtic at Linfield,Linfield,Celtic,0,2,0.0
+482998,2017-07-18T14:00Z,FK Spartaks Jurmala at FC Astana,FC Astana,FK Spartaks Jurmala,1,1,1.0
+482996,2017-07-18T16:00Z,BATE Borisov at Alashkert FC,Alashkert FC,BATE Borisov,1,3,0.0
+483006,2017-07-18T16:00Z,Malmö FF at Vardar,Vardar,Malmö FF,3,1,1.0
+483002,2017-07-18T17:00Z,FK Qarabag at FC Samtredia,FC Samtredia,FK Qarabag,0,1,0.0
+483007,2017-07-18T18:00Z,Rijeka at The New Saints,The New Saints,Rijeka,1,5,0.0
+483000,2017-07-18T18:00Z,FH Hafnarfjordur at Víkingur,Víkingur,FH Hafnarfjordur,0,2,0.0
+483001,2017-07-18T18:45Z,Partizan Belgrade at Buducnost Podgorica,Buducnost Podgorica,Partizan Belgrade,0,0,0.0
+482995,2017-07-19T16:00Z,Apoel Nicosia at F91 Dudelange,F91 Dudelange,Apoel Nicosia,0,1,0.0
+482997,2017-07-19T17:15Z,Dundalk at Rosenborg,Rosenborg,Dundalk,2,1,1.0
+483005,2017-07-19T17:30Z,MSK Zilina at F.C. København,F.C. København,MSK Zilina,1,2,1.0
+482999,2017-07-19T17:30Z,Sheriff Tiraspol at FK Kukesi,FK Kukesi,Sheriff Tiraspol,2,1,0.0
+483010,2017-07-19T18:00Z,Zalgiris Vilnius at Ludogorets Razgrad,Ludogorets Razgrad,Zalgiris Vilnius,4,1,1.0
+483011,2017-07-19T18:15Z,Zrinjski Mostar at NK Maribor,NK Maribor,Zrinjski Mostar,1,1,1.0
+483009,2017-07-19T18:30Z,Hibernians at RB Salzburg,RB Salzburg,Hibernians,3,0,1.0
+483008,2017-07-19T18:45Z,Linfield at Celtic,Celtic,Linfield,4,0,1.0
+483004,2017-07-19T18:45Z,IFK Mariehamn at Legia Warsaw,Legia Warsaw,IFK Mariehamn,6,0,1.0
+483003,2017-07-19T19:15Z,Hapoel Be'er at Honvéd,Honvéd,Hapoel Be'er,2,3,0.0
+490323,2017-07-25T17:00Z,Sheriff Tiraspol at FK Qarabag,FK Qarabag,Sheriff Tiraspol,0,0,0.5
+490322,2017-07-25T17:00Z,BATE Borisov at Slavia Prague,Slavia Prague,BATE Borisov,1,0,1.0
+490320,2017-07-25T17:30Z,CSKA Moscow at AEK Athens,AEK Athens,CSKA Moscow,0,2,0.0
+490321,2017-07-25T17:30Z,Viktoria Plzen at FCSB,FCSB,Viktoria Plzen,2,2,0.5
+490307,2017-07-25T18:00Z,F.C. København at Vardar,Vardar,F.C. København,1,0,1.0
+490319,2017-07-25T18:45Z,Olympiacos at Partizan Belgrade,Partizan Belgrade,Olympiacos,1,3,0.0
+490318,2017-07-26T14:00Z,Legia Warsaw at FC Astana,FC Astana,Legia Warsaw,3,1,1.0
+490317,2017-07-26T16:30Z,Young Boys at Dynamo Kyiv,Dynamo Kyiv,Young Boys,3,1,1.0
+490313,2017-07-26T16:45Z,Rijeka at RB Salzburg,RB Salzburg,Rijeka,1,1,0.5
+490316,2017-07-26T17:00Z,Ludogorets Razgrad at Hapoel Be'er,Hapoel Be'er,Ludogorets Razgrad,2,0,1.0
+490315,2017-07-26T18:00Z,Apoel Nicosia at Viitorul Constanta,Viitorul Constanta,Apoel Nicosia,1,0,1.0
+490314,2017-07-26T18:20Z,FH Hafnarfjordur at NK Maribor,NK Maribor,FH Hafnarfjordur,1,0,1.0
+490312,2017-07-26T18:45Z,Rosenborg at Celtic,Celtic,Rosenborg,0,0,0.5
+490311,2017-07-26T18:45Z,Ajax Amsterdam at Nice,Nice,Ajax Amsterdam,1,1,0.5
+490310,2017-07-26T19:00Z,Istanbul Basaksehir at Club Brugge,Club Brugge,Istanbul Basaksehir,3,3,0.5

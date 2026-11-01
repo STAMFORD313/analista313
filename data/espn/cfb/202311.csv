@@ -1,0 +1,278 @@
+id,date,event,home,away,hs,as,res
+401532435,2023-11-01T23:00Z,Ball State Cardinals at Bowling Green Falcons,Bowling Green Falcons,Ball State Cardinals,24,21,1.0
+401532436,2023-11-01T23:30Z,Kent State Golden Flashes at Akron Zips,Akron Zips,Kent State Golden Flashes,31,27,1.0
+401525879,2023-11-02T23:00Z,TCU Horned Frogs at Texas Tech Red Raiders,Texas Tech Red Raiders,TCU Horned Frogs,35,28,1.0
+401525539,2023-11-02T23:30Z,Wake Forest Demon Deacons at Duke Blue Devils,Duke Blue Devils,Wake Forest Demon Deacons,24,21,1.0
+401531904,2023-11-02T23:30Z,South Alabama Jaguars at Troy Trojans,Troy Trojans,South Alabama Jaguars,28,10,1.0
+401525540,2023-11-03T23:30Z,Boston College Eagles at Syracuse Orange,Syracuse Orange,Boston College Eagles,10,17,0.0
+401532609,2023-11-04T00:00Z,Colorado State Rams at Wyoming Cowboys,Wyoming Cowboys,Colorado State Rams,24,15,1.0
+401520375,2023-11-04T16:00Z,Ohio State Buckeyes at Rutgers Scarlet Knights,Rutgers Scarlet Knights,Ohio State Buckeyes,16,35,0.0
+401520364,2023-11-04T19:30Z,Missouri Tigers at Georgia Bulldogs,Georgia Bulldogs,Missouri Tigers,30,21,1.0
+401520368,2023-11-04T23:30Z,Purdue Boilermakers at Michigan Wolverines,Michigan Wolverines,Purdue Boilermakers,41,13,1.0
+401525541,2023-11-04T19:30Z,Florida State Seminoles at Pittsburgh Panthers,Pittsburgh Panthers,Florida State Seminoles,7,24,0.0
+401524048,2023-11-04T23:30Z,Washington Huskies at USC Trojans,USC Trojans,Washington Huskies,42,52,0.0
+401524047,2023-11-04T21:30Z,California Golden Bears at Oregon Ducks,Oregon Ducks,California Golden Bears,63,19,1.0
+401525884,2023-11-04T16:00Z,Kansas State Wildcats at Texas Longhorns,Texas Longhorns,Kansas State Wildcats,33,30,1.0
+401520362,2023-11-04T23:45Z,LSU Tigers at Alabama Crimson Tide,Alabama Crimson Tide,LSU Tigers,42,28,1.0
+401525883,2023-11-04T19:30Z,Oklahoma Sooners at Oklahoma State Cowboys,Oklahoma State Cowboys,Oklahoma Sooners,27,24,1.0
+401520374,2023-11-04T16:00Z,Texas A&M Aggies at Ole Miss Rebels,Ole Miss Rebels,Texas A&M Aggies,38,35,1.0
+401520367,2023-11-04T19:30Z,Penn State Nittany Lions at Maryland Terrapins,Maryland Terrapins,Penn State Nittany Lions,15,51,0.0
+401525543,2023-11-04T19:30Z,Virginia Tech Hokies at Louisville Cardinals,Louisville Cardinals,Virginia Tech Hokies,34,3,1.0
+401525441,2023-11-04T16:00Z,Notre Dame Fighting Irish at Clemson Tigers,Clemson Tigers,Notre Dame Fighting Irish,31,23,1.0
+401524046,2023-11-05T02:00Z,Oregon State Beavers at Colorado Buffaloes,Colorado Buffaloes,Oregon State Beavers,19,26,0.0
+401520377,2023-11-04T16:00Z,UConn Huskies at Tennessee Volunteers,Tennessee Volunteers,UConn Huskies,59,3,1.0
+401524049,2023-11-04T18:00Z,Arizona State Sun Devils at Utah Utes,Utah Utes,Arizona State Sun Devils,55,3,1.0
+401524045,2023-11-05T02:30Z,UCLA Bruins at Arizona Wildcats,Arizona Wildcats,UCLA Bruins,27,10,1.0
+401525882,2023-11-04T23:00Z,Kansas Jayhawks at Iowa State Cyclones,Iowa State Cyclones,Kansas Jayhawks,21,28,0.0
+401531374,2023-11-04T19:30Z,Tulane Green Wave at East Carolina Pirates,East Carolina Pirates,Tulane Green Wave,10,13,0.0
+401520361,2023-11-04T18:30Z,Army Black Knights at Air Force Falcons,Air Force Falcons,Army Black Knights,3,23,0.0
+401520363,2023-11-04T16:00Z,Arkansas Razorbacks at Florida Gators,Florida Gators,Arkansas Razorbacks,36,39,0.0
+401520365,2023-11-04T16:00Z,Wisconsin Badgers at Indiana Hoosiers,Indiana Hoosiers,Wisconsin Badgers,20,14,1.0
+401520369,2023-11-04T16:00Z,Nebraska Cornhuskers at Michigan State Spartans,Michigan State Spartans,Nebraska Cornhuskers,20,17,1.0
+401520376,2023-11-04T16:00Z,Jacksonville State Gamecocks at South Carolina Gamecocks,South Carolina Gamecocks,Jacksonville State Gamecocks,38,28,1.0
+401525545,2023-11-04T16:00Z,Campbell Fighting Camels at North Carolina Tar Heels,North Carolina Tar Heels,Campbell Fighting Camels,59,7,1.0
+401525451,2023-11-04T17:00Z,Kennesaw State Owls at Sam Houston Bearkats,Sam Houston Bearkats,Kennesaw State Owls,24,21,1.0
+401540328,2023-11-04T17:00Z,Elon Phoenix at Delaware Blue Hens,Delaware Blue Hens,Elon Phoenix,27,33,0.0
+401525542,2023-11-04T18:00Z,Georgia Tech Yellow Jackets at Virginia Cavaliers,Virginia Cavaliers,Georgia Tech Yellow Jackets,17,45,0.0
+401531392,2023-11-04T18:00Z,Navy Midshipmen at Temple Owls,Temple Owls,Navy Midshipmen,32,18,1.0
+401531383,2023-11-04T19:00Z,Florida Atlantic Owls at UAB Blazers,UAB Blazers,Florida Atlantic Owls,45,42,1.0
+401531399,2023-11-04T19:00Z,UTSA Roadrunners at North Texas Mean Green,North Texas Mean Green,UTSA Roadrunners,29,37,0.0
+401531425,2023-11-04T19:00Z,South Florida Bulls at Memphis Tigers,Memphis Tigers,South Florida Bulls,59,50,1.0
+401531908,2023-11-04T19:00Z,Louisiana Ragin' Cajuns at Arkansas State Red Wolves,Arkansas State Red Wolves,Louisiana Ragin' Cajuns,37,17,1.0
+401540107,2023-11-04T19:00Z,Illinois State Redbirds at Missouri State Bears,Missouri State Bears,Illinois State Redbirds,35,36,0.0
+401540386,2023-11-04T19:00Z,North Dakota State Bison at South Dakota State Jackrabbits,South Dakota State Jackrabbits,North Dakota State Bison,33,16,1.0
+401520370,2023-11-04T19:30Z,Illinois Fighting Illini at Minnesota Golden Gophers,Minnesota Golden Gophers,Illinois Fighting Illini,26,27,0.0
+401520373,2023-11-04T19:30Z,Iowa Hawkeyes at Northwestern Wildcats,Northwestern Wildcats,Iowa Hawkeyes,7,10,0.0
+401520400,2023-11-04T19:30Z,Merrimack Warriors at Massachusetts Minutemen,Massachusetts Minutemen,Merrimack Warriors,31,21,1.0
+401525880,2023-11-04T19:30Z,Houston Cougars at Baylor Bears,Baylor Bears,Houston Cougars,24,25,0.0
+401525881,2023-11-04T19:30Z,UCF Knights at Cincinnati Bearcats,Cincinnati Bearcats,UCF Knights,26,28,0.0
+401531906,2023-11-04T19:30Z,James Madison Dukes at Georgia State Panthers,Georgia State Panthers,James Madison Dukes,14,42,0.0
+401531907,2023-11-04T19:30Z,Coastal Carolina Chanticleers at Old Dominion Monarchs,Old Dominion Monarchs,Coastal Carolina Chanticleers,24,28,0.0
+401520379,2023-11-04T20:00Z,Auburn Tigers at Vanderbilt Commodores,Vanderbilt Commodores,Auburn Tigers,15,31,0.0
+401531343,2023-11-04T20:00Z,Charlotte 49ers at Tulsa Golden Hurricane,Tulsa Golden Hurricane,Charlotte 49ers,26,33,0.0
+401531909,2023-11-04T20:00Z,UL Monroe Warhawks at Southern Miss Golden Eagles,Southern Miss Golden Eagles,UL Monroe Warhawks,24,7,1.0
+401532610,2023-11-04T20:00Z,Hawai'i Rainbow Warriors at Nevada Wolf Pack,Nevada Wolf Pack,Hawai'i Rainbow Warriors,14,27,0.0
+401531910,2023-11-04T21:00Z,Georgia Southern Eagles at Texas State Bobcats,Texas State Bobcats,Georgia Southern Eagles,45,24,1.0
+401520366,2023-11-04T22:00Z,Louisiana Tech Bulldogs at Liberty Flames,Liberty Flames,Louisiana Tech Bulldogs,56,30,1.0
+401520372,2023-11-04T22:00Z,Middle Tennessee Blue Raiders at New Mexico State Aggies,New Mexico State Aggies,Middle Tennessee Blue Raiders,13,7,1.0
+401531905,2023-11-04T22:00Z,Marshall Thundering Herd at Appalachian State Mountaineers,Appalachian State Mountaineers,Marshall Thundering Herd,31,9,1.0
+401532611,2023-11-04T22:00Z,UNLV Rebels at New Mexico Lobos,New Mexico Lobos,UNLV Rebels,14,56,0.0
+401525885,2023-11-04T23:00Z,BYU Cougars at West Virginia Mountaineers,West Virginia Mountaineers,BYU Cougars,37,7,1.0
+401532612,2023-11-04T23:00Z,Utah State Aggies at San Diego State Aztecs,San Diego State Aztecs,Utah State Aggies,24,32,0.0
+401520371,2023-11-04T23:30Z,Kentucky Wildcats at Mississippi State Bulldogs,Mississippi State Bulldogs,Kentucky Wildcats,3,24,0.0
+401531440,2023-11-04T23:30Z,SMU Mustangs at Rice Owls,Rice Owls,SMU Mustangs,31,36,0.0
+401525544,2023-11-05T00:00Z,Miami Hurricanes at NC State Wolfpack,NC State Wolfpack,Miami Hurricanes,20,6,1.0
+401540263,2023-11-05T00:00Z,Sacramento State Hornets at Montana Grizzlies,Montana Grizzlies,Sacramento State Hornets,34,7,1.0
+401520378,2023-11-05T01:00Z,Western Kentucky Hilltoppers at UTEP Miners,UTEP Miners,Western Kentucky Hilltoppers,13,21,0.0
+401524050,2023-11-05T01:00Z,Stanford Cardinal at Washington State Cougars,Washington State Cougars,Stanford Cardinal,7,10,0.0
+401532608,2023-11-05T02:00Z,Boise State Broncos at Fresno State Bulldogs,Fresno State Bulldogs,Boise State Broncos,37,30,1.0
+401532437,2023-11-08T00:00Z,Ball State Cardinals at Northern Illinois Huskies,Northern Illinois Huskies,Ball State Cardinals,17,20,0.0
+401532438,2023-11-08T00:00Z,Central Michigan Chippewas at Western Michigan Broncos,Western Michigan Broncos,Central Michigan Chippewas,38,28,1.0
+401532439,2023-11-08T00:30Z,Ohio Bobcats at Buffalo Bulls,Buffalo Bulls,Ohio Bobcats,10,20,0.0
+401532441,2023-11-09T00:00Z,Akron Zips at Miami (OH) RedHawks,Miami (OH) RedHawks,Akron Zips,19,0,1.0
+401532442,2023-11-09T00:00Z,Bowling Green Falcons at Kent State Golden Flashes,Kent State Golden Flashes,Bowling Green Falcons,19,49,0.0
+401532440,2023-11-09T00:30Z,Eastern Michigan Eagles at Toledo Rockets,Toledo Rockets,Eastern Michigan Eagles,49,23,1.0
+401525546,2023-11-10T00:30Z,Virginia Cavaliers at Louisville Cardinals,Louisville Cardinals,Virginia Cavaliers,31,24,1.0
+401531911,2023-11-10T00:30Z,Southern Miss Golden Eagles at Louisiana Ragin' Cajuns,Louisiana Ragin' Cajuns,Southern Miss Golden Eagles,31,34,0.0
+401531437,2023-11-11T02:00Z,North Texas Mean Green at SMU Mustangs,SMU Mustangs,North Texas Mean Green,45,21,1.0
+401532618,2023-11-11T03:45Z,Wyoming Cowboys at UNLV Rebels,UNLV Rebels,Wyoming Cowboys,34,14,1.0
+401520393,2023-11-12T00:30Z,Michigan State Spartans at Ohio State Buckeyes,Ohio State Buckeyes,Michigan State Spartans,38,3,1.0
+401520382,2023-11-12T00:00Z,Ole Miss Rebels at Georgia Bulldogs,Georgia Bulldogs,Ole Miss Rebels,52,17,1.0
+401520394,2023-11-11T17:00Z,Michigan Wolverines at Penn State Nittany Lions,Penn State Nittany Lions,Michigan Wolverines,15,24,0.0
+401525550,2023-11-11T20:30Z,Miami Hurricanes at Florida State Seminoles,Florida State Seminoles,Miami Hurricanes,27,20,1.0
+401524056,2023-11-11T20:30Z,Utah Utes at Washington Huskies,Washington Huskies,Utah Utes,35,28,1.0
+401524053,2023-11-12T03:30Z,USC Trojans at Oregon Ducks,Oregon Ducks,USC Trojans,36,27,1.0
+401525891,2023-11-12T00:30Z,Texas Longhorns at TCU Horned Frogs,TCU Horned Frogs,Texas Longhorns,26,29,0.0
+401520386,2023-11-11T17:00Z,Alabama Crimson Tide at Kentucky Wildcats,Kentucky Wildcats,Alabama Crimson Tide,21,49,0.0
+401524054,2023-11-11T22:30Z,Stanford Cardinal at Oregon State Beavers,Oregon State Beavers,Stanford Cardinal,62,17,1.0
+401520391,2023-11-11T20:30Z,Tennessee Volunteers at Missouri Tigers,Missouri Tigers,Tennessee Volunteers,36,7,1.0
+401525892,2023-11-11T20:30Z,Oklahoma State Cowboys at UCF Knights,UCF Knights,Oklahoma State Cowboys,45,3,1.0
+401525888,2023-11-11T17:00Z,Texas Tech Red Raiders at Kansas Jayhawks,Kansas Jayhawks,Texas Tech Red Raiders,13,16,0.0
+401525890,2023-11-12T00:00Z,West Virginia Mountaineers at Oklahoma Sooners,Oklahoma Sooners,West Virginia Mountaineers,59,20,1.0
+401520389,2023-11-12T00:30Z,Florida Gators at LSU Tigers,LSU Tigers,Florida Gators,52,35,1.0
+401524052,2023-11-11T19:00Z,Arizona Wildcats at Colorado Buffaloes,Colorado Buffaloes,Arizona Wildcats,31,34,0.0
+401520384,2023-11-11T20:30Z,Rutgers Scarlet Knights at Iowa Hawkeyes,Iowa Hawkeyes,Rutgers Scarlet Knights,22,0,1.0
+401531344,2023-11-11T17:00Z,Tulsa Golden Hurricane at Tulane Green Wave,Tulane Green Wave,Tulsa Golden Hurricane,24,22,1.0
+401525549,2023-11-12T01:00Z,Duke Blue Devils at North Carolina Tar Heels,North Carolina Tar Heels,Duke Blue Devils,47,45,1.0
+401525889,2023-11-11T20:00Z,Baylor Bears at Kansas State Wildcats,Kansas State Wildcats,Baylor Bears,59,25,1.0
+401520381,2023-11-11T17:00Z,Holy Cross Crusaders at Army Black Knights,Army Black Knights,Holy Cross Crusaders,17,14,1.0
+401520383,2023-11-11T17:00Z,Indiana Hoosiers at Illinois Fighting Illini,Illinois Fighting Illini,Indiana Hoosiers,48,45,1.0
+401520392,2023-11-11T17:00Z,Maryland Terrapins at Nebraska Cornhuskers,Nebraska Cornhuskers,Maryland Terrapins,10,13,0.0
+401520396,2023-11-11T17:00Z,Vanderbilt Commodores at South Carolina Gamecocks,South Carolina Gamecocks,Vanderbilt Commodores,47,6,1.0
+401525547,2023-11-11T17:00Z,Virginia Tech Hokies at Boston College Eagles,Boston College Eagles,Virginia Tech Hokies,22,48,0.0
+401525548,2023-11-11T17:00Z,Georgia Tech Yellow Jackets at Clemson Tigers,Clemson Tigers,Georgia Tech Yellow Jackets,42,21,1.0
+401531393,2023-11-11T17:00Z,Temple Owls at South Florida Bulls,South Florida Bulls,Temple Owls,27,23,1.0
+401520388,2023-11-11T18:00Z,Old Dominion Monarchs at Liberty Flames,Liberty Flames,Old Dominion Monarchs,38,10,1.0
+401540318,2023-11-11T18:00Z,Delaware Blue Hens at Campbell Fighting Camels,Campbell Fighting Camels,Delaware Blue Hens,7,45,0.0
+401520385,2023-11-11T19:00Z,UConn Huskies at James Madison Dukes,James Madison Dukes,UConn Huskies,44,6,1.0
+401525551,2023-11-11T19:00Z,NC State Wolfpack at Wake Forest Demon Deacons,Wake Forest Demon Deacons,NC State Wolfpack,6,26,0.0
+401531408,2023-11-11T19:00Z,Memphis Tigers at Charlotte 49ers,Charlotte 49ers,Memphis Tigers,38,44,0.0
+401531913,2023-11-11T19:00Z,Appalachian State Mountaineers at Georgia State Panthers,Georgia State Panthers,Appalachian State Mountaineers,14,42,0.0
+401531915,2023-11-11T19:00Z,Troy Trojans at UL Monroe Warhawks,UL Monroe Warhawks,Troy Trojans,14,45,0.0
+401520387,2023-11-11T20:00Z,Sam Houston Bearkats at Louisiana Tech Bulldogs,Louisiana Tech Bulldogs,Sam Houston Bearkats,27,42,0.0
+401532615,2023-11-11T20:00Z,Nevada Wolf Pack at Utah State Aggies,Utah State Aggies,Nevada Wolf Pack,41,24,1.0
+401540352,2023-11-11T20:00Z,Northern Iowa Panthers at Missouri State Bears,Missouri State Bears,Northern Iowa Panthers,35,16,1.0
+401540610,2023-11-11T20:00Z,Virginia Lynchburg Dragons at Kennesaw State Owls,Kennesaw State Owls,Virginia Lynchburg Dragons,63,3,1.0
+401520390,2023-11-11T20:30Z,Florida International Panthers at Middle Tennessee Blue Raiders,Middle Tennessee Blue Raiders,Florida International Panthers,40,6,1.0
+401520395,2023-11-11T20:30Z,Minnesota Golden Gophers at Purdue Boilermakers,Purdue Boilermakers,Minnesota Golden Gophers,49,30,1.0
+401520398,2023-11-11T20:30Z,Northwestern Wildcats at Wisconsin Badgers,Wisconsin Badgers,Northwestern Wildcats,10,24,0.0
+401520399,2023-11-11T20:30Z,New Mexico State Aggies at Western Kentucky Hilltoppers,Western Kentucky Hilltoppers,New Mexico State Aggies,29,38,0.0
+401525552,2023-11-11T20:30Z,Pittsburgh Panthers at Syracuse Orange,Syracuse Orange,Pittsburgh Panthers,28,13,1.0
+401531384,2023-11-11T20:30Z,UAB Blazers at Navy Midshipmen,Navy Midshipmen,UAB Blazers,31,6,1.0
+401531912,2023-11-11T20:30Z,Texas State Bobcats at Coastal Carolina Chanticleers,Coastal Carolina Chanticleers,Texas State Bobcats,31,23,1.0
+401540387,2023-11-11T20:30Z,Southern Illinois Salukis at North Dakota State Bison,North Dakota State Bison,Southern Illinois Salukis,34,10,1.0
+401520380,2023-11-11T21:00Z,Auburn Tigers at Arkansas Razorbacks,Arkansas Razorbacks,Auburn Tigers,10,48,0.0
+401524051,2023-11-11T21:00Z,Washington State Cougars at California Golden Bears,California Golden Bears,Washington State Cougars,42,39,1.0
+401531416,2023-11-11T21:00Z,East Carolina Pirates at Florida Atlantic Owls,Florida Atlantic Owls,East Carolina Pirates,7,22,0.0
+401531916,2023-11-11T22:00Z,Arkansas State Red Wolves at South Alabama Jaguars,South Alabama Jaguars,Arkansas State Red Wolves,21,14,1.0
+401540233,2023-11-11T22:00Z,Cal Poly Mustangs at Sacramento State Hornets,Sacramento State Hornets,Cal Poly Mustangs,41,30,1.0
+401525887,2023-11-12T00:00Z,Cincinnati Bearcats at Houston Cougars,Houston Cougars,Cincinnati Bearcats,14,24,0.0
+401531914,2023-11-12T00:00Z,Georgia Southern Eagles at Marshall Thundering Herd,Marshall Thundering Herd,Georgia Southern Eagles,38,33,1.0
+401532617,2023-11-12T00:00Z,San Diego State Aztecs at Colorado State Rams,Colorado State Rams,San Diego State Aztecs,22,19,1.0
+401520397,2023-11-12T00:30Z,Mississippi State Bulldogs at Texas A&M Aggies,Texas A&M Aggies,Mississippi State Bulldogs,51,10,1.0
+401531400,2023-11-12T00:30Z,Rice Owls at UTSA Roadrunners,UTSA Roadrunners,Rice Owls,34,14,1.0
+401524055,2023-11-12T02:00Z,Arizona State Sun Devils at UCLA Bruins,UCLA Bruins,Arizona State Sun Devils,7,17,0.0
+401532616,2023-11-12T03:00Z,New Mexico Lobos at Boise State Broncos,Boise State Broncos,New Mexico Lobos,42,14,1.0
+401525886,2023-11-12T03:15Z,Iowa State Cyclones at BYU Cougars,BYU Cougars,Iowa State Cyclones,13,45,0.0
+401532614,2023-11-12T03:30Z,Fresno State Bulldogs at San José State Spartans,San José State Spartans,Fresno State Bulldogs,42,18,1.0
+401532613,2023-11-12T04:00Z,Air Force Falcons at Hawai'i Rainbow Warriors,Hawai'i Rainbow Warriors,Air Force Falcons,27,13,1.0
+401532443,2023-11-15T00:00Z,Toledo Rockets at Bowling Green Falcons,Bowling Green Falcons,Toledo Rockets,31,32,0.0
+401532444,2023-11-15T00:00Z,Western Michigan Broncos at Northern Illinois Huskies,Northern Illinois Huskies,Western Michigan Broncos,24,0,1.0
+401532445,2023-11-15T00:00Z,Akron Zips at Eastern Michigan Eagles,Eastern Michigan Eagles,Akron Zips,30,27,1.0
+401532446,2023-11-16T00:00Z,Central Michigan Chippewas at Ohio Bobcats,Ohio Bobcats,Central Michigan Chippewas,34,20,1.0
+401532447,2023-11-16T00:00Z,Buffalo Bulls at Miami (OH) RedHawks,Miami (OH) RedHawks,Buffalo Bulls,23,10,1.0
+401525553,2023-11-17T00:00Z,Boston College Eagles at Pittsburgh Panthers,Pittsburgh Panthers,Boston College Eagles,24,16,1.0
+401531401,2023-11-18T02:00Z,South Florida Bulls at UTSA Roadrunners,UTSA Roadrunners,South Florida Bulls,49,21,1.0
+401524057,2023-11-18T03:30Z,Colorado Buffaloes at Washington State Cougars,Washington State Cougars,Colorado Buffaloes,56,14,1.0
+401520419,2023-11-18T20:30Z,Georgia Bulldogs at Tennessee Volunteers,Tennessee Volunteers,Georgia Bulldogs,10,38,0.0
+401520415,2023-11-18T21:00Z,Minnesota Golden Gophers at Ohio State Buckeyes,Ohio State Buckeyes,Minnesota Golden Gophers,37,3,1.0
+401520410,2023-11-18T17:00Z,Michigan Wolverines at Maryland Terrapins,Maryland Terrapins,Michigan Wolverines,24,31,0.0
+401525556,2023-11-18T23:30Z,North Alabama Lions at Florida State Seminoles,Florida State Seminoles,North Alabama Lions,58,13,1.0
+401524060,2023-11-19T00:30Z,Washington Huskies at Oregon State Beavers,Oregon State Beavers,Washington Huskies,20,22,0.0
+401524059,2023-11-18T21:00Z,Oregon Ducks at Arizona State Sun Devils,Arizona State Sun Devils,Oregon Ducks,13,49,0.0
+401525895,2023-11-19T01:00Z,Texas Longhorns at Iowa State Cyclones,Iowa State Cyclones,Texas Longhorns,16,26,0.0
+401520401,2023-11-18T17:00Z,Chattanooga Mocs at Alabama Crimson Tide,Alabama Crimson Tide,Chattanooga Mocs,66,10,1.0
+401520413,2023-11-19T00:30Z,Florida Gators at Missouri Tigers,Missouri Tigers,Florida Gators,33,31,1.0
+401525558,2023-11-18T17:00Z,Louisville Cardinals at Miami Hurricanes,Miami Hurricanes,Louisville Cardinals,31,38,0.0
+401520417,2023-11-18T17:00Z,Rutgers Scarlet Knights at Penn State Nittany Lions,Penn State Nittany Lions,Rutgers Scarlet Knights,27,6,1.0
+401520416,2023-11-18T17:00Z,UL Monroe Warhawks at Ole Miss Rebels,Ole Miss Rebels,UL Monroe Warhawks,35,3,1.0
+401525893,2023-11-18T17:00Z,Oklahoma Sooners at BYU Cougars,BYU Cougars,Oklahoma Sooners,24,31,0.0
+401520409,2023-11-19T01:00Z,Georgia State Panthers at LSU Tigers,LSU Tigers,Georgia State Panthers,56,14,1.0
+401520406,2023-11-18T20:30Z,Illinois Fighting Illini at Iowa Hawkeyes,Iowa Hawkeyes,Illinois Fighting Illini,15,13,1.0
+401524058,2023-11-18T19:30Z,Utah Utes at Arizona Wildcats,Arizona Wildcats,Utah Utes,42,18,1.0
+401525442,2023-11-18T20:30Z,Wake Forest Demon Deacons at Notre Dame Fighting Irish,Notre Dame Fighting Irish,Wake Forest Demon Deacons,45,7,1.0
+401525554,2023-11-18T20:30Z,North Carolina Tar Heels at Clemson Tigers,Clemson Tigers,North Carolina Tar Heels,31,20,1.0
+401525896,2023-11-19T00:00Z,Kansas State Wildcats at Kansas Jayhawks,Kansas Jayhawks,Kansas State Wildcats,27,31,0.0
+401525894,2023-11-18T21:00Z,Oklahoma State Cowboys at Houston Cougars,Houston Cougars,Oklahoma State Cowboys,30,43,0.0
+401531375,2023-11-18T17:00Z,Tulane Green Wave at Florida Atlantic Owls,Florida Atlantic Owls,Tulane Green Wave,8,24,0.0
+401520403,2023-11-18T17:00Z,Coastal Carolina Chanticleers at Army Black Knights,Army Black Knights,Coastal Carolina Chanticleers,28,21,1.0
+401520405,2023-11-18T17:00Z,Michigan State Spartans at Indiana Hoosiers,Indiana Hoosiers,Michigan State Spartans,21,24,0.0
+401520412,2023-11-18T17:00Z,Southern Miss Golden Eagles at Mississippi State Bulldogs,Mississippi State Bulldogs,Southern Miss Golden Eagles,41,20,1.0
+401520414,2023-11-18T17:00Z,Purdue Boilermakers at Northwestern Wildcats,Northwestern Wildcats,Purdue Boilermakers,23,15,1.0
+401520420,2023-11-18T17:00Z,Abilene Christian Wildcats at Texas A&M Aggies,Texas A&M Aggies,Abilene Christian Wildcats,38,10,1.0
+401520421,2023-11-18T17:00Z,Sacred Heart Pioneers at UConn Huskies,UConn Huskies,Sacred Heart Pioneers,31,3,1.0
+401531417,2023-11-18T17:00Z,East Carolina Pirates at Navy Midshipmen,Navy Midshipmen,East Carolina Pirates,10,0,1.0
+401531431,2023-11-18T17:00Z,SMU Mustangs at Memphis Tigers,Memphis Tigers,SMU Mustangs,34,38,0.0
+401520408,2023-11-18T18:00Z,Massachusetts Minutemen at Liberty Flames,Liberty Flames,Massachusetts Minutemen,49,25,1.0
+401540329,2023-11-18T18:00Z,Villanova Wildcats at Delaware Blue Hens,Delaware Blue Hens,Villanova Wildcats,7,35,0.0
+401520407,2023-11-18T19:00Z,Louisiana Tech Bulldogs at Jacksonville State Gamecocks,Jacksonville State Gamecocks,Louisiana Tech Bulldogs,56,17,1.0
+401520411,2023-11-18T19:00Z,UTEP Miners at Middle Tennessee Blue Raiders,Middle Tennessee Blue Raiders,UTEP Miners,34,30,1.0
+401531409,2023-11-18T19:00Z,Rice Owls at Charlotte 49ers,Charlotte 49ers,Rice Owls,7,28,0.0
+401531918,2023-11-18T19:00Z,Appalachian State Mountaineers at James Madison Dukes,James Madison Dukes,Appalachian State Mountaineers,23,26,0.0
+401532448,2023-11-18T19:00Z,Kent State Golden Flashes at Ball State Cardinals,Ball State Cardinals,Kent State Golden Flashes,34,3,1.0
+401532620,2023-11-18T19:00Z,Hawai'i Rainbow Warriors at Wyoming Cowboys,Wyoming Cowboys,Hawai'i Rainbow Warriors,42,9,1.0
+401525899,2023-11-18T19:30Z,Cincinnati Bearcats at West Virginia Mountaineers,West Virginia Mountaineers,Cincinnati Bearcats,42,21,1.0
+401525555,2023-11-18T20:00Z,Duke Blue Devils at Virginia Cavaliers,Virginia Cavaliers,Duke Blue Devils,30,27,1.0
+401531345,2023-11-18T20:00Z,North Texas Mean Green at Tulsa Golden Hurricane,Tulsa Golden Hurricane,North Texas Mean Green,28,35,0.0
+401531385,2023-11-18T20:00Z,Temple Owls at UAB Blazers,UAB Blazers,Temple Owls,34,24,1.0
+401531919,2023-11-18T20:00Z,Texas State Bobcats at Arkansas State Red Wolves,Arkansas State Red Wolves,Texas State Bobcats,77,31,1.0
+401532621,2023-11-18T20:00Z,Nevada Wolf Pack at Colorado State Rams,Colorado State Rams,Nevada Wolf Pack,30,20,1.0
+401540287,2023-11-18T20:00Z,Sacramento State Hornets at UC Davis Aggies,UC Davis Aggies,Sacramento State Hornets,31,21,1.0
+401540353,2023-11-18T20:00Z,Missouri State Bears at South Dakota State Jackrabbits,South Dakota State Jackrabbits,Missouri State Bears,35,17,1.0
+401520423,2023-11-18T20:30Z,Sam Houston Bearkats at Western Kentucky Hilltoppers,Western Kentucky Hilltoppers,Sam Houston Bearkats,28,23,1.0
+401524062,2023-11-18T20:30Z,UCLA Bruins at USC Trojans,USC Trojans,UCLA Bruins,20,38,0.0
+401525559,2023-11-18T20:30Z,NC State Wolfpack at Virginia Tech Hokies,Virginia Tech Hokies,NC State Wolfpack,28,35,0.0
+401525897,2023-11-18T20:30Z,Baylor Bears at TCU Horned Frogs,TCU Horned Frogs,Baylor Bears,42,17,1.0
+401531921,2023-11-18T20:30Z,Louisiana Ragin' Cajuns at Troy Trojans,Troy Trojans,Louisiana Ragin' Cajuns,31,24,1.0
+401532624,2023-11-18T20:30Z,UNLV Rebels at Air Force Falcons,Air Force Falcons,UNLV Rebels,27,31,0.0
+401520404,2023-11-18T21:00Z,New Mexico State Aggies at Auburn Tigers,Auburn Tigers,New Mexico State Aggies,10,31,0.0
+401525898,2023-11-18T22:00Z,UCF Knights at Texas Tech Red Raiders,Texas Tech Red Raiders,UCF Knights,24,23,1.0
+401531920,2023-11-18T22:00Z,Marshall Thundering Herd at South Alabama Jaguars,South Alabama Jaguars,Marshall Thundering Herd,28,0,1.0
+401540388,2023-11-18T22:00Z,North Dakota State Bison at Northern Iowa Panthers,Northern Iowa Panthers,North Dakota State Bison,27,48,0.0
+401531917,2023-11-18T23:00Z,Old Dominion Monarchs at Georgia Southern Eagles,Georgia Southern Eagles,Old Dominion Monarchs,17,20,0.0
+401524061,2023-11-18T23:30Z,California Golden Bears at Stanford Cardinal,Stanford Cardinal,California Golden Bears,15,27,0.0
+401532619,2023-11-19T00:00Z,Boise State Broncos at Utah State Aggies,Utah State Aggies,Boise State Broncos,10,45,0.0
+401520402,2023-11-19T00:30Z,Florida International Panthers at Arkansas Razorbacks,Arkansas Razorbacks,Florida International Panthers,44,20,1.0
+401520418,2023-11-19T00:30Z,Kentucky Wildcats at South Carolina Gamecocks,South Carolina Gamecocks,Kentucky Wildcats,17,14,1.0
+401520422,2023-11-19T00:30Z,Nebraska Cornhuskers at Wisconsin Badgers,Wisconsin Badgers,Nebraska Cornhuskers,24,17,1.0
+401525557,2023-11-19T01:00Z,Syracuse Orange at Georgia Tech Yellow Jackets,Georgia Tech Yellow Jackets,Syracuse Orange,31,22,1.0
+401532622,2023-11-19T03:30Z,New Mexico Lobos at Fresno State Bulldogs,Fresno State Bulldogs,New Mexico Lobos,17,25,0.0
+401532623,2023-11-19T03:30Z,San Diego State Aztecs at San José State Spartans,San José State Spartans,San Diego State Aztecs,24,13,1.0
+401532450,2023-11-22T00:00Z,Bowling Green Falcons at Western Michigan Broncos,Western Michigan Broncos,Bowling Green Falcons,10,34,0.0
+401532449,2023-11-22T00:30Z,Eastern Michigan Eagles at Buffalo Bulls,Buffalo Bulls,Eastern Michigan Eagles,11,24,0.0
+401520424,2023-11-24T00:30Z,Ole Miss Rebels at Mississippi State Bulldogs,Mississippi State Bulldogs,Ole Miss Rebels,7,17,0.0
+401524063,2023-11-25T01:30Z,Oregon State Beavers at Oregon Ducks,Oregon Ducks,Oregon State Beavers,31,7,1.0
+401525901,2023-11-25T00:30Z,Texas Tech Red Raiders at Texas Longhorns,Texas Longhorns,Texas Tech Red Raiders,57,7,1.0
+401520426,2023-11-24T21:00Z,Missouri Tigers at Arkansas Razorbacks,Arkansas Razorbacks,Missouri Tigers,14,48,0.0
+401520435,2023-11-25T00:30Z,Penn State Nittany Lions at Michigan State Spartans,Michigan State Spartans,Penn State Nittany Lions,0,42,0.0
+401525900,2023-11-24T17:00Z,TCU Horned Frogs at Oklahoma Sooners,Oklahoma Sooners,TCU Horned Frogs,69,45,1.0
+401520425,2023-11-24T17:00Z,Iowa Hawkeyes at Nebraska Cornhuskers,Nebraska Cornhuskers,Iowa Hawkeyes,10,13,0.0
+401531376,2023-11-24T20:30Z,UTSA Roadrunners at Tulane Green Wave,Tulane Green Wave,UTSA Roadrunners,29,16,1.0
+401525560,2023-11-24T17:00Z,Miami Hurricanes at Boston College Eagles,Boston College Eagles,Miami Hurricanes,20,45,0.0
+401531394,2023-11-24T17:00Z,Memphis Tigers at Temple Owls,Temple Owls,Memphis Tigers,21,45,0.0
+401532451,2023-11-24T17:00Z,Toledo Rockets at Central Michigan Chippewas,Central Michigan Chippewas,Toledo Rockets,17,32,0.0
+401532452,2023-11-24T17:00Z,Ohio Bobcats at Akron Zips,Akron Zips,Ohio Bobcats,14,25,0.0
+401532629,2023-11-24T20:30Z,Utah State Aggies at New Mexico Lobos,New Mexico Lobos,Utah State Aggies,41,44,0.0
+401532625,2023-11-24T21:00Z,Air Force Falcons at Boise State Broncos,Boise State Broncos,Air Force Falcons,27,19,1.0
+401520430,2023-11-26T00:30Z,Georgia Bulldogs at Georgia Tech Yellow Jackets,Georgia Tech Yellow Jackets,Georgia Bulldogs,23,31,0.0
+401520434,2023-11-25T17:00Z,Ohio State Buckeyes at Michigan Wolverines,Michigan Wolverines,Ohio State Buckeyes,30,24,1.0
+401524068,2023-11-25T21:00Z,Washington State Cougars at Washington Huskies,Washington Huskies,Washington State Cougars,24,21,1.0
+401520429,2023-11-26T00:00Z,Florida State Seminoles at Florida Gators,Florida Gators,Florida State Seminoles,15,24,0.0
+401520427,2023-11-25T20:30Z,Alabama Crimson Tide at Auburn Tigers,Auburn Tigers,Alabama Crimson Tide,24,27,0.0
+401520432,2023-11-25T17:00Z,Kentucky Wildcats at Louisville Cardinals,Louisville Cardinals,Kentucky Wildcats,31,38,0.0
+401520433,2023-11-25T17:00Z,Texas A&M Aggies at LSU Tigers,LSU Tigers,Texas A&M Aggies,42,30,1.0
+401524064,2023-11-25T20:30Z,Arizona Wildcats at Arizona State Sun Devils,Arizona State Sun Devils,Arizona Wildcats,23,59,0.0
+401524065,2023-11-26T00:00Z,Notre Dame Fighting Irish at Stanford Cardinal,Stanford Cardinal,Notre Dame Fighting Irish,23,56,0.0
+401525904,2023-11-26T01:00Z,Iowa State Cyclones at Kansas State Wildcats,Kansas State Wildcats,Iowa State Cyclones,35,42,0.0
+401525905,2023-11-25T20:30Z,BYU Cougars at Oklahoma State Cowboys,Oklahoma State Cowboys,BYU Cougars,40,34,1.0
+401520442,2023-11-25T20:30Z,Vanderbilt Commodores at Tennessee Volunteers,Tennessee Volunteers,Vanderbilt Commodores,48,24,1.0
+401525562,2023-11-26T01:00Z,North Carolina Tar Heels at NC State Wolfpack,NC State Wolfpack,North Carolina Tar Heels,39,20,1.0
+401520441,2023-11-26T00:30Z,Clemson Tigers at South Carolina Gamecocks,South Carolina Gamecocks,Clemson Tigers,7,16,0.0
+401520444,2023-11-25T20:30Z,Liberty Flames at UTEP Miners,UTEP Miners,Liberty Flames,28,42,0.0
+401520438,2023-11-25T17:00Z,Indiana Hoosiers at Purdue Boilermakers,Purdue Boilermakers,Indiana Hoosiers,35,31,1.0
+401520440,2023-11-25T17:00Z,Middle Tennessee Blue Raiders at Sam Houston Bearkats,Sam Houston Bearkats,Middle Tennessee Blue Raiders,23,20,1.0
+401520443,2023-11-25T17:00Z,UConn Huskies at Massachusetts Minutemen,Massachusetts Minutemen,UConn Huskies,18,31,0.0
+401525561,2023-11-25T17:00Z,Pittsburgh Panthers at Duke Blue Devils,Duke Blue Devils,Pittsburgh Panthers,30,19,1.0
+401525906,2023-11-25T17:00Z,Houston Cougars at UCF Knights,UCF Knights,Houston Cougars,27,13,1.0
+401531435,2023-11-25T17:00Z,Navy Midshipmen at SMU Mustangs,SMU Mustangs,Navy Midshipmen,59,14,1.0
+401531927,2023-11-25T17:00Z,Troy Trojans at Southern Miss Golden Eagles,Southern Miss Golden Eagles,Troy Trojans,17,35,0.0
+401532453,2023-11-25T17:00Z,Northern Illinois Huskies at Kent State Golden Flashes,Kent State Golden Flashes,Northern Illinois Huskies,27,37,0.0
+401532454,2023-11-25T17:00Z,Miami (OH) RedHawks at Ball State Cardinals,Ball State Cardinals,Miami (OH) RedHawks,15,17,0.0
+401531421,2023-11-25T18:00Z,Florida Atlantic Owls at Rice Owls,Rice Owls,Florida Atlantic Owls,24,21,1.0
+401614603,2023-11-25T18:00Z,Sacramento State Hornets at North Dakota Fighting Hawks,North Dakota Fighting Hawks,Sacramento State Hornets,35,42,0.0
+401525563,2023-11-25T19:00Z,Wake Forest Demon Deacons at Syracuse Orange,Syracuse Orange,Wake Forest Demon Deacons,35,31,1.0
+401531346,2023-11-25T19:00Z,Tulsa Golden Hurricane at East Carolina Pirates,East Carolina Pirates,Tulsa Golden Hurricane,27,29,0.0
+401531386,2023-11-25T19:00Z,UAB Blazers at North Texas Mean Green,North Texas Mean Green,UAB Blazers,45,42,1.0
+401531925,2023-11-25T19:00Z,Georgia State Panthers at Old Dominion Monarchs,Old Dominion Monarchs,Georgia State Panthers,25,24,1.0
+401614616,2023-11-25T19:00Z,Lafayette Leopards at Delaware Blue Hens,Delaware Blue Hens,Lafayette Leopards,36,34,1.0
+401520428,2023-11-25T20:00Z,Western Kentucky Hilltoppers at Florida International Panthers,Florida International Panthers,Western Kentucky Hilltoppers,28,41,0.0
+401524067,2023-11-25T20:00Z,Colorado Buffaloes at Utah Utes,Utah Utes,Colorado Buffaloes,23,17,1.0
+401531926,2023-11-25T20:00Z,UL Monroe Warhawks at Louisiana Ragin' Cajuns,Louisiana Ragin' Cajuns,UL Monroe Warhawks,52,21,1.0
+401532628,2023-11-25T20:00Z,San José State Spartans at UNLV Rebels,UNLV Rebels,San José State Spartans,31,37,0.0
+401520431,2023-11-25T20:30Z,Northwestern Wildcats at Illinois Fighting Illini,Illinois Fighting Illini,Northwestern Wildcats,43,45,0.0
+401520436,2023-11-25T20:30Z,Wisconsin Badgers at Minnesota Golden Gophers,Minnesota Golden Gophers,Wisconsin Badgers,14,28,0.0
+401520439,2023-11-25T20:30Z,Maryland Terrapins at Rutgers Scarlet Knights,Rutgers Scarlet Knights,Maryland Terrapins,24,42,0.0
+401525564,2023-11-25T20:30Z,Virginia Tech Hokies at Virginia Cavaliers,Virginia Cavaliers,Virginia Tech Hokies,17,55,0.0
+401531922,2023-11-25T20:30Z,Georgia Southern Eagles at Appalachian State Mountaineers,Appalachian State Mountaineers,Georgia Southern Eagles,55,27,1.0
+401531923,2023-11-25T20:30Z,James Madison Dukes at Coastal Carolina Chanticleers,Coastal Carolina Chanticleers,James Madison Dukes,14,56,0.0
+401531924,2023-11-25T20:30Z,Arkansas State Red Wolves at Marshall Thundering Herd,Marshall Thundering Herd,Arkansas State Red Wolves,35,21,1.0
+401614604,2023-11-25T20:30Z,Drake Bulldogs at North Dakota State Bison,North Dakota State Bison,Drake Bulldogs,66,3,1.0
+401520437,2023-11-25T21:00Z,Jacksonville State Gamecocks at New Mexico State Aggies,New Mexico State Aggies,Jacksonville State Gamecocks,20,17,1.0
+401525902,2023-11-26T00:00Z,West Virginia Mountaineers at Baylor Bears,Baylor Bears,West Virginia Mountaineers,31,34,0.0
+401531928,2023-11-26T00:00Z,South Alabama Jaguars at Texas State Bobcats,Texas State Bobcats,South Alabama Jaguars,52,44,1.0
+401525903,2023-11-26T00:30Z,Kansas Jayhawks at Cincinnati Bearcats,Cincinnati Bearcats,Kansas Jayhawks,16,49,0.0
+401531410,2023-11-26T00:30Z,Charlotte 49ers at South Florida Bulls,South Florida Bulls,Charlotte 49ers,48,14,1.0
+401532630,2023-11-26T02:00Z,Wyoming Cowboys at Nevada Wolf Pack,Nevada Wolf Pack,Wyoming Cowboys,6,42,0.0
+401524066,2023-11-26T03:30Z,California Golden Bears at UCLA Bruins,UCLA Bruins,California Golden Bears,7,33,0.0
+401532627,2023-11-26T03:30Z,Fresno State Bulldogs at San Diego State Aztecs,San Diego State Aztecs,Fresno State Bulldogs,33,18,1.0
+401532626,2023-11-26T04:00Z,Colorado State Rams at Hawai'i Rainbow Warriors,Hawai'i Rainbow Warriors,Colorado State Rams,27,24,1.0

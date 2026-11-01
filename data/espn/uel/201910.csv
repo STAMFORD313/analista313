@@ -1,0 +1,49 @@
+id,date,event,home,away,hs,as,res
+557305,2019-10-03T14:50Z,Partizan Belgrade at FC Astana,FC Astana,Partizan Belgrade,1,2,0.0
+557299,2019-10-03T16:55Z,Manchester United at AZ Alkmaar,AZ Alkmaar,Manchester United,0,0,0.5
+557304,2019-10-03T16:55Z,Wolverhampton Wanderers at Besiktas,Besiktas,Wolverhampton Wanderers,0,1,0.0
+557302,2019-10-03T16:55Z,Slovan Bratislava at Braga,Braga,Slovan Bratislava,2,2,0.5
+557295,2019-10-03T16:55Z,Espanyol at CSKA Moscow,CSKA Moscow,Espanyol,0,2,0.0
+557297,2019-10-03T16:55Z,KAA Gent at FC Olexandriya,FC Olexandriya,KAA Gent,1,1,0.5
+557298,2019-10-03T16:55Z,Ludogorets Razgrad at Ferencvaros,Ferencvaros,Ludogorets Razgrad,0,3,0.0
+557296,2019-10-03T16:55Z,FC Porto at Feyenoord Rotterdam,Feyenoord Rotterdam,FC Porto,2,0,1.0
+557294,2019-10-03T16:55Z,Borussia Mönchengladbach at Istanbul Basaksehir,Istanbul Basaksehir,Borussia Mönchengladbach,1,1,0.5
+557303,2019-10-03T16:55Z,VfL Wolfsburg at Saint-Étienne,Saint-Étienne,VfL Wolfsburg,1,1,0.5
+557301,2019-10-03T16:55Z,AS Roma at Wolfsberger,Wolfsberger,AS Roma,1,1,0.5
+557300,2019-10-03T16:55Z,Rangers at Young Boys,Young Boys,Rangers,2,1,1.0
+557293,2019-10-03T19:00Z,Standard Liege at Arsenal,Arsenal,Standard Liege,4,0,1.0
+557285,2019-10-03T19:00Z,CFR Cluj-Napoca at Celtic,Celtic,CFR Cluj-Napoca,2,0,1.0
+557288,2019-10-03T19:00Z,FK Qarabag at F91 Dudelange,F91 Dudelange,FK Qarabag,1,4,0.0
+557286,2019-10-03T19:00Z,Dynamo Kyiv at FC Lugano,FC Lugano,Dynamo Kyiv,0,0,0.5
+557289,2019-10-03T19:00Z,Getafe at Krasnodar,Krasnodar,Getafe,1,2,0.0
+557292,2019-10-03T19:00Z,Stade Rennais at Lazio,Lazio,Stade Rennais,2,1,1.0
+557287,2019-10-03T19:00Z,F.C. København at Malmö FF,Malmö FF,F.C. København,1,1,0.5
+557291,2019-10-03T19:00Z,PSV Eindhoven at Rosenborg,Rosenborg,PSV Eindhoven,1,4,0.0
+557283,2019-10-03T19:00Z,Apoel Nicosia at Sevilla,Sevilla,Apoel Nicosia,1,0,1.0
+557290,2019-10-03T19:00Z,LASK Linz at Sporting CP,Sporting CP,LASK Linz,2,1,1.0
+557284,2019-10-03T19:00Z,FC Basel at Trabzonspor,Trabzonspor,FC Basel,2,2,0.5
+557306,2019-10-03T19:00Z,Eintracht Frankfurt at Vitória de Guimaraes,Vitória de Guimaraes,Eintracht Frankfurt,0,1,0.0
+557271,2019-10-24T16:55Z,Borussia Mönchengladbach at AS Roma,AS Roma,Borussia Mönchengladbach,1,1,0.5
+557274,2019-10-24T16:55Z,FC Astana at AZ Alkmaar,AZ Alkmaar,FC Astana,6,0,1.0
+557272,2019-10-24T16:55Z,Braga at Besiktas,Besiktas,Braga,1,2,0.0
+557276,2019-10-24T16:55Z,Ferencvaros at CSKA Moscow,CSKA Moscow,Ferencvaros,0,1,0.0
+557280,2019-10-24T16:55Z,Rangers at FC Porto,FC Porto,Rangers,1,1,0.5
+557270,2019-10-24T16:55Z,Apoel Nicosia at FK Qarabag,FK Qarabag,Apoel Nicosia,2,2,0.5
+557279,2019-10-24T16:55Z,Wolfsberger at Istanbul Basaksehir,Istanbul Basaksehir,Wolfsberger,1,0,1.0
+557281,2019-10-24T16:55Z,VfL Wolfsburg at KAA Gent,KAA Gent,VfL Wolfsburg,2,2,0.5
+557273,2019-10-24T16:55Z,Espanyol at Ludogorets Razgrad,Ludogorets Razgrad,Espanyol,0,1,0.0
+557278,2019-10-24T16:55Z,Manchester United at Partizan Belgrade,Partizan Belgrade,Manchester United,0,1,0.0
+557275,2019-10-24T16:55Z,FC Olexandriya at Saint-Étienne,Saint-Étienne,FC Olexandriya,1,1,0.5
+557282,2019-10-24T16:55Z,Wolverhampton Wanderers at Slovan Bratislava,Slovan Bratislava,Wolverhampton Wanderers,1,2,0.0
+557277,2019-10-24T16:55Z,Feyenoord Rotterdam at Young Boys,Young Boys,Feyenoord Rotterdam,2,0,1.0
+557265,2019-10-24T19:00Z,Vitória de Guimaraes at Arsenal,Arsenal,Vitória de Guimaraes,3,2,1.0
+557267,2019-10-24T19:00Z,Lazio at Celtic,Celtic,Lazio,2,1,1.0
+557262,2019-10-24T19:00Z,F.C. København at Dynamo Kyiv,Dynamo Kyiv,F.C. København,1,1,0.5
+557269,2019-10-24T19:00Z,Standard Liege at Eintracht Frankfurt,Eintracht Frankfurt,Standard Liege,2,1,1.0
+557259,2019-10-24T19:00Z,FC Basel at Getafe,Getafe,FC Basel,0,1,0.0
+557264,2019-10-24T19:00Z,FC Lugano at Malmö FF,Malmö FF,FC Lugano,2,1,1.0
+557266,2019-10-24T19:00Z,LASK Linz at PSV Eindhoven,PSV Eindhoven,LASK Linz,0,0,0.5
+557261,2019-10-24T19:00Z,F91 Dudelange at Sevilla,Sevilla,F91 Dudelange,3,0,1.0
+557268,2019-10-24T19:00Z,Rosenborg at Sporting CP,Sporting CP,Rosenborg,1,0,1.0
+557260,2019-10-24T19:00Z,CFR Cluj-Napoca at Stade Rennais,Stade Rennais,CFR Cluj-Napoca,0,1,0.0
+557263,2019-10-24T19:00Z,Krasnodar at Trabzonspor,Trabzonspor,Krasnodar,0,2,0.0

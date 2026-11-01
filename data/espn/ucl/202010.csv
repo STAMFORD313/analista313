@@ -1,0 +1,33 @@
+id,date,event,home,away,hs,as,res
+585854,2020-10-20T16:55Z,Juventus at Dynamo Kyiv,Dynamo Kyiv,Juventus,0,2,0.0
+585853,2020-10-20T16:55Z,Club Brugge at Zenit St Petersburg,Zenit St Petersburg,Club Brugge,1,2,0.0
+585849,2020-10-20T19:00Z,Ferencvaros at Barcelona,Barcelona,Ferencvaros,5,1,1.0
+585852,2020-10-20T19:00Z,Sevilla at Chelsea,Chelsea,Sevilla,0,0,0.5
+585847,2020-10-20T19:00Z,Borussia Dortmund at Lazio,Lazio,Borussia Dortmund,3,1,1.0
+585851,2020-10-20T19:00Z,Manchester United at Paris Saint-Germain,Paris Saint-Germain,Manchester United,1,2,0.0
+585850,2020-10-20T19:00Z,Istanbul Basaksehir at RB Leipzig,RB Leipzig,Istanbul Basaksehir,2,0,1.0
+585848,2020-10-20T19:00Z,Krasnodar at Stade Rennais,Stade Rennais,Krasnodar,1,1,0.5
+585845,2020-10-21T16:55Z,Lokomotiv Moscow at RB Salzburg,RB Salzburg,Lokomotiv Moscow,2,2,0.5
+585846,2020-10-21T16:55Z,Shakhtar Donetsk at Real Madrid,Real Madrid,Shakhtar Donetsk,2,3,0.0
+585843,2020-10-21T19:00Z,Liverpool at Ajax Amsterdam,Ajax Amsterdam,Liverpool,0,1,0.0
+585840,2020-10-21T19:00Z,Atlético Madrid at Bayern Munich,Bayern Munich,Atlético Madrid,4,0,1.0
+585839,2020-10-21T19:00Z,Atalanta at FC Midtjylland,FC Midtjylland,Atalanta,0,4,0.0
+585841,2020-10-21T19:00Z,Borussia Mönchengladbach at Internazionale,Internazionale,Borussia Mönchengladbach,2,2,0.5
+585842,2020-10-21T19:00Z,FC Porto at Manchester City,Manchester City,FC Porto,3,1,1.0
+585844,2020-10-21T19:00Z,Marseille at Olympiacos,Olympiacos,Marseille,1,0,1.0
+585837,2020-10-27T17:55Z,Bayern Munich at Lokomotiv Moscow,Lokomotiv Moscow,Bayern Munich,1,2,0.0
+585838,2020-10-27T17:55Z,Internazionale at Shakhtar Donetsk,Shakhtar Donetsk,Internazionale,0,0,0.5
+585831,2020-10-27T20:00Z,Ajax Amsterdam at Atalanta,Atalanta,Ajax Amsterdam,2,2,0.5
+585836,2020-10-27T20:00Z,RB Salzburg at Atlético Madrid,Atlético Madrid,RB Salzburg,3,2,1.0
+585835,2020-10-27T20:00Z,Real Madrid at Borussia Mönchengladbach,Borussia Mönchengladbach,Real Madrid,2,2,0.5
+585834,2020-10-27T20:00Z,Olympiacos at FC Porto,FC Porto,Olympiacos,2,0,1.0
+585832,2020-10-27T20:00Z,FC Midtjylland at Liverpool,Liverpool,FC Midtjylland,2,0,1.0
+585833,2020-10-27T20:00Z,Manchester City at Marseille,Marseille,Manchester City,0,3,0.0
+585830,2020-10-28T17:55Z,Paris Saint-Germain at Istanbul Basaksehir,Istanbul Basaksehir,Paris Saint-Germain,0,2,0.0
+585829,2020-10-28T17:55Z,Chelsea at Krasnodar,Krasnodar,Chelsea,0,4,0.0
+585828,2020-10-28T20:00Z,Zenit St Petersburg at Borussia Dortmund,Borussia Dortmund,Zenit St Petersburg,2,0,1.0
+585825,2020-10-28T20:00Z,Lazio at Club Brugge,Club Brugge,Lazio,1,1,0.5
+585824,2020-10-28T20:00Z,Dynamo Kyiv at Ferencvaros,Ferencvaros,Dynamo Kyiv,2,2,0.5
+585823,2020-10-28T20:00Z,Barcelona at Juventus,Juventus,Barcelona,0,2,0.0
+585826,2020-10-28T20:00Z,RB Leipzig at Manchester United,Manchester United,RB Leipzig,5,0,1.0
+585827,2020-10-28T20:00Z,Stade Rennais at Sevilla,Sevilla,Stade Rennais,1,0,1.0

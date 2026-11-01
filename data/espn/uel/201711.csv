@@ -1,0 +1,49 @@
+id,date,event,home,away,hs,as,res
+495410,2017-11-02T18:00Z,AC Milan at AEK Athens,AEK Athens,AC Milan,0,0,0.5
+495401,2017-11-02T18:00Z,Atalanta at Apollon Limassol,Apollon Limassol,Atalanta,1,1,0.5
+495407,2017-11-02T18:00Z,FC Zlín at F.C. København,F.C. København,FC Zlín,3,0,1.0
+495409,2017-11-02T18:00Z,TSG Hoffenheim at Istanbul Basaksehir,Istanbul Basaksehir,TSG Hoffenheim,1,1,0.5
+495406,2017-11-02T18:00Z,Sheriff Tiraspol at Lokomotiv Moscow,Lokomotiv Moscow,Sheriff Tiraspol,1,2,0.0
+495402,2017-11-02T18:00Z,Braga at Ludogorets Razgrad,Ludogorets Razgrad,Braga,1,1,0.5
+495404,2017-11-02T18:00Z,Everton at Lyon,Lyon,Everton,3,0,1.0
+495405,2017-11-02T18:00Z,FC Astana at Maccabi Tel-Aviv,Maccabi Tel-Aviv,FC Astana,0,1,0.0
+495411,2017-11-02T18:00Z,Skenderbeu Korce at Partizan Belgrade,Partizan Belgrade,Skenderbeu Korce,2,0,1.0
+495408,2017-11-02T18:00Z,Austria Vienna at Rijeka,Rijeka,Austria Vienna,1,4,0.0
+495412,2017-11-02T18:00Z,Villarreal at Slavia Prague,Slavia Prague,Villarreal,0,2,0.0
+495403,2017-11-02T18:00Z,Dynamo Kyiv at Young Boys,Young Boys,Dynamo Kyiv,0,1,0.0
+495396,2017-11-02T20:05Z,Red Star Belgrade at Arsenal,Arsenal,Red Star Belgrade,0,0,0.5
+495400,2017-11-02T20:05Z,Östersunds FK at Athletic Club,Athletic Club,Östersunds FK,1,0,1.0
+495389,2017-11-02T20:05Z,BATE Borisov at FC Cologne,FC Cologne,BATE Borisov,5,2,1.0
+495392,2017-11-02T20:05Z,Hapoel Be'er at FCSB,FCSB,Hapoel Be'er,1,1,0.5
+495391,2017-11-02T20:05Z,FC Zorya Luhansk at Hertha Berlin,Hertha Berlin,FC Zorya Luhansk,2,0,1.0
+495395,2017-11-02T20:05Z,Nice at Lazio,Lazio,Nice,1,0,1.0
+495393,2017-11-02T20:05Z,Konyaspor at RB Salzburg,RB Salzburg,Konyaspor,0,0,0.5
+495398,2017-11-02T20:05Z,Vardar at Real Sociedad,Real Sociedad,Vardar,3,0,1.0
+495399,2017-11-02T20:05Z,Zenit St Petersburg at Rosenborg,Rosenborg,Zenit St Petersburg,1,1,0.5
+495390,2017-11-02T20:05Z,FC Lugano at Viktoria Plzen,Viktoria Plzen,FC Lugano,4,1,1.0
+495397,2017-11-02T20:05Z,Zulte-Waregem at Vitesse,Vitesse,Zulte-Waregem,0,2,0.0
+495394,2017-11-02T20:05Z,Marseille at Vitória de Guimaraes,Vitória de Guimaraes,Marseille,1,0,1.0
+495375,2017-11-23T16:00Z,Villarreal at FC Astana,FC Astana,Villarreal,2,3,0.0
+495381,2017-11-23T18:00Z,Hertha Berlin at Athletic Club,Athletic Club,Hertha Berlin,3,2,1.0
+495384,2017-11-23T18:00Z,Red Star Belgrade at BATE Borisov,BATE Borisov,Red Star Belgrade,0,0,0.5
+495377,2017-11-23T18:00Z,Arsenal at FC Cologne,FC Cologne,Arsenal,1,0,1.0
+495380,2017-11-23T18:00Z,Hapoel Be'er at FC Lugano,FC Lugano,Hapoel Be'er,1,0,1.0
+495382,2017-11-23T18:00Z,Marseille at Konyaspor,Konyaspor,Marseille,1,1,0.5
+495388,2017-11-23T18:00Z,Vitesse at Lazio,Lazio,Vitesse,1,1,0.5
+495368,2017-11-23T18:00Z,F.C. København at Lokomotiv Moscow,Lokomotiv Moscow,F.C. København,2,1,1.0
+495385,2017-11-23T18:00Z,Zulte-Waregem at Nice,Nice,Zulte-Waregem,3,1,1.0
+495378,2017-11-23T18:00Z,FC Zorya Luhansk at Östersunds FK,Östersunds FK,FC Zorya Luhansk,2,0,1.0
+495379,2017-11-23T18:00Z,Vitória de Guimaraes at RB Salzburg,RB Salzburg,Vitória de Guimaraes,3,0,1.0
+495383,2017-11-23T18:00Z,Real Sociedad at Rosenborg,Rosenborg,Real Sociedad,0,1,0.0
+495386,2017-11-23T18:00Z,FCSB at Viktoria Plzen,Viktoria Plzen,FCSB,2,0,1.0
+495387,2017-11-23T18:00Z,Vardar at Zenit St Petersburg,Zenit St Petersburg,Vardar,2,1,1.0
+495370,2017-11-23T20:05Z,Austria Vienna at AC Milan,AC Milan,Austria Vienna,5,1,1.0
+495373,2017-11-23T20:05Z,Rijeka at AEK Athens,AEK Athens,Rijeka,2,2,0.5
+495371,2017-11-23T20:05Z,TSG Hoffenheim at Braga,Braga,TSG Hoffenheim,3,1,1.0
+495366,2017-11-23T20:05Z,Atalanta at Everton,Everton,Atalanta,1,5,0.0
+495372,2017-11-23T20:05Z,Istanbul Basaksehir at Ludogorets Razgrad,Ludogorets Razgrad,Istanbul Basaksehir,1,2,0.0
+495365,2017-11-23T20:05Z,Apollon Limassol at Lyon,Lyon,Apollon Limassol,4,0,1.0
+495374,2017-11-23T20:05Z,Slavia Prague at Maccabi Tel-Aviv,Maccabi Tel-Aviv,Slavia Prague,0,2,0.0
+495376,2017-11-23T20:05Z,Young Boys at Partizan Belgrade,Partizan Belgrade,Young Boys,2,1,1.0
+495369,2017-11-23T20:05Z,FC Zlín at Sheriff Tiraspol,Sheriff Tiraspol,FC Zlín,1,0,1.0
+495367,2017-11-23T20:05Z,Dynamo Kyiv at Skenderbeu Korce,Skenderbeu Korce,Dynamo Kyiv,3,2,1.0

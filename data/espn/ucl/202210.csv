@@ -1,0 +1,49 @@
+id,date,event,home,away,hs,as,res
+652619,2022-10-04T16:45Z,Viktoria Plzen at Bayern Munich,Bayern Munich,Viktoria Plzen,5,0,1.0
+652618,2022-10-04T17:00Z,Sporting CP at Marseille,Marseille,Sporting CP,4,1,1.0
+652620,2022-10-04T19:00Z,Napoli at Ajax Amsterdam,Ajax Amsterdam,Napoli,1,6,0.0
+652624,2022-10-04T19:00Z,Atlético Madrid at Club Brugge,Club Brugge,Atlético Madrid,2,0,1.0
+652623,2022-10-04T19:00Z,Tottenham Hotspur at Eintracht Frankfurt,Eintracht Frankfurt,Tottenham Hotspur,0,0,0.5
+652622,2022-10-04T19:00Z,Bayer Leverkusen at FC Porto,FC Porto,Bayer Leverkusen,2,0,1.0
+652621,2022-10-04T19:00Z,Barcelona at Internazionale,Internazionale,Barcelona,1,0,1.0
+652625,2022-10-04T19:00Z,Rangers at Liverpool,Liverpool,Rangers,2,0,1.0
+652626,2022-10-05T16:45Z,Celtic at RB Leipzig,RB Leipzig,Celtic,3,1,1.0
+652627,2022-10-05T16:45Z,Dinamo Zagreb at RB Salzburg,RB Salzburg,Dinamo Zagreb,1,0,1.0
+652630,2022-10-05T19:00Z,Paris Saint-Germain at Benfica,Benfica,Paris Saint-Germain,1,1,0.5
+652631,2022-10-05T19:00Z,AC Milan at Chelsea,Chelsea,AC Milan,3,0,1.0
+652632,2022-10-05T19:00Z,Maccabi Haifa at Juventus,Juventus,Maccabi Haifa,3,1,1.0
+652628,2022-10-05T19:00Z,F.C. København at Manchester City,Manchester City,F.C. København,5,0,1.0
+652633,2022-10-05T19:00Z,Shakhtar Donetsk at Real Madrid,Real Madrid,Shakhtar Donetsk,2,1,1.0
+652629,2022-10-05T19:00Z,Borussia Dortmund at Sevilla,Sevilla,Borussia Dortmund,1,4,0.0
+652634,2022-10-11T16:45Z,Manchester City at F.C. København,F.C. København,Manchester City,0,0,0.5
+652635,2022-10-11T16:45Z,Juventus at Maccabi Haifa,Maccabi Haifa,Juventus,2,0,1.0
+652639,2022-10-11T19:00Z,Chelsea at AC Milan,AC Milan,Chelsea,0,2,0.0
+652637,2022-10-11T19:00Z,Sevilla at Borussia Dortmund,Borussia Dortmund,Sevilla,1,1,0.5
+652636,2022-10-11T19:00Z,RB Leipzig at Celtic,Celtic,RB Leipzig,0,2,0.0
+652638,2022-10-11T19:00Z,RB Salzburg at Dinamo Zagreb,Dinamo Zagreb,RB Salzburg,1,1,0.5
+652640,2022-10-11T19:00Z,Benfica at Paris Saint-Germain,Paris Saint-Germain,Benfica,1,1,0.5
+652641,2022-10-11T19:00Z,Real Madrid at Shakhtar Donetsk,Shakhtar Donetsk,Real Madrid,1,1,0.5
+652642,2022-10-12T16:45Z,Club Brugge at Atlético Madrid,Atlético Madrid,Club Brugge,0,0,0.5
+652643,2022-10-12T16:45Z,Ajax Amsterdam at Napoli,Napoli,Ajax Amsterdam,4,2,1.0
+652644,2022-10-12T19:00Z,Internazionale at Barcelona,Barcelona,Internazionale,3,3,0.5
+652645,2022-10-12T19:00Z,FC Porto at Bayer Leverkusen,Bayer Leverkusen,FC Porto,0,3,0.0
+652647,2022-10-12T19:00Z,Liverpool at Rangers,Rangers,Liverpool,1,7,0.0
+652648,2022-10-12T19:00Z,Marseille at Sporting CP,Sporting CP,Marseille,0,2,0.0
+652649,2022-10-12T19:00Z,Eintracht Frankfurt at Tottenham Hotspur,Tottenham Hotspur,Eintracht Frankfurt,3,2,1.0
+652646,2022-10-12T19:00Z,Bayern Munich at Viktoria Plzen,Viktoria Plzen,Bayern Munich,2,4,0.0
+652650,2022-10-25T16:45Z,Chelsea at RB Salzburg,RB Salzburg,Chelsea,1,2,0.0
+652651,2022-10-25T16:45Z,F.C. København at Sevilla,Sevilla,F.C. København,3,0,1.0
+652652,2022-10-25T19:00Z,Juventus at Benfica,Benfica,Juventus,4,3,1.0
+652653,2022-10-25T19:00Z,Manchester City at Borussia Dortmund,Borussia Dortmund,Manchester City,0,0,0.5
+652656,2022-10-25T19:00Z,Shakhtar Donetsk at Celtic,Celtic,Shakhtar Donetsk,1,1,0.5
+652657,2022-10-25T19:00Z,AC Milan at Dinamo Zagreb,Dinamo Zagreb,AC Milan,0,4,0.0
+652654,2022-10-25T19:00Z,Maccabi Haifa at Paris Saint-Germain,Paris Saint-Germain,Maccabi Haifa,7,2,1.0
+652655,2022-10-25T19:00Z,Real Madrid at RB Leipzig,RB Leipzig,Real Madrid,3,2,1.0
+652658,2022-10-26T16:45Z,FC Porto at Club Brugge,Club Brugge,FC Porto,0,4,0.0
+652659,2022-10-26T16:45Z,Viktoria Plzen at Internazionale,Internazionale,Viktoria Plzen,4,0,1.0
+652662,2022-10-26T19:00Z,Liverpool at Ajax Amsterdam,Ajax Amsterdam,Liverpool,0,3,0.0
+652661,2022-10-26T19:00Z,Bayer Leverkusen at Atlético Madrid,Atlético Madrid,Bayer Leverkusen,2,2,0.5
+652665,2022-10-26T19:00Z,Bayern Munich at Barcelona,Barcelona,Bayern Munich,0,3,0.0
+652660,2022-10-26T19:00Z,Marseille at Eintracht Frankfurt,Eintracht Frankfurt,Marseille,2,1,1.0
+652663,2022-10-26T19:00Z,Rangers at Napoli,Napoli,Rangers,3,0,1.0
+652664,2022-10-26T19:00Z,Sporting CP at Tottenham Hotspur,Tottenham Hotspur,Sporting CP,1,1,0.5

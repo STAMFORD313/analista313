@@ -1,0 +1,12 @@
+id,date,event,home,away,hs,as,res
+560953,2020-08-07T19:00Z,Lyon at Juventus,Juventus,Lyon,2,1,0.0
+560954,2020-08-07T19:00Z,Real Madrid at Manchester City,Manchester City,Real Madrid,2,1,1.0
+560952,2020-08-08T19:00Z,Napoli at Barcelona,Barcelona,Napoli,3,1,1.0
+560951,2020-08-08T19:00Z,Chelsea at Bayern Munich,Bayern Munich,Chelsea,4,1,1.0
+573701,2020-08-12T19:00Z,Paris Saint-Germain at Atalanta,Atalanta,Paris Saint-Germain,1,2,0.0
+573703,2020-08-13T19:00Z,Atlético Madrid at RB Leipzig,RB Leipzig,Atlético Madrid,2,1,1.0
+573704,2020-08-14T19:00Z,Bayern Munich at Barcelona,Barcelona,Bayern Munich,2,8,0.0
+573702,2020-08-15T19:00Z,Lyon at Manchester City,Manchester City,Lyon,1,3,0.0
+573700,2020-08-18T19:00Z,Paris Saint-Germain at RB Leipzig,RB Leipzig,Paris Saint-Germain,0,3,0.0
+573699,2020-08-19T19:00Z,Bayern Munich at Lyon,Lyon,Bayern Munich,0,3,0.0
+573698,2020-08-23T19:00Z,Bayern Munich at Paris Saint-Germain,Paris Saint-Germain,Bayern Munich,0,1,0.0

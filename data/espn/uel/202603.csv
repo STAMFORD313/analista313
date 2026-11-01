@@ -1,0 +1,17 @@
+id,date,event,home,away,hs,as,res
+401862871,2026-03-12T17:45Z,AS Roma at Bologna,Bologna,AS Roma,1,1,0.5
+401862754,2026-03-12T17:45Z,Aston Villa at Lille,Lille,Aston Villa,0,1,0.0
+401862753,2026-03-12T17:45Z,Real Betis at Panathinaikos,Panathinaikos,Real Betis,1,0,1.0
+401862752,2026-03-12T17:45Z,FC Porto at VfB Stuttgart,VfB Stuttgart,FC Porto,1,2,0.0
+401862872,2026-03-12T20:00Z,Lyon at Celta Vigo,Celta Vigo,Lyon,1,1,0.5
+401862755,2026-03-12T20:00Z,Braga at Ferencvaros,Ferencvaros,Braga,2,0,1.0
+401862770,2026-03-12T20:00Z,FC Midtjylland at Nottingham Forest,Nottingham Forest,FC Midtjylland,0,1,0.0
+401862769,2026-03-12T20:00Z,SC Freiburg at Racing Genk,Racing Genk,SC Freiburg,1,0,1.0
+401862758,2026-03-18T15:30Z,Ferencvaros at Braga,Braga,Ferencvaros,4,0,1.0
+401862875,2026-03-19T17:45Z,Nottingham Forest at FC Midtjylland,FC Midtjylland,Nottingham Forest,1,2,0.0
+401862876,2026-03-19T17:45Z,Celta Vigo at Lyon,Lyon,Celta Vigo,0,2,0.0
+401862873,2026-03-19T17:45Z,Racing Genk at SC Freiburg,SC Freiburg,Racing Genk,5,1,1.0
+401862874,2026-03-19T20:00Z,Bologna at AS Roma,AS Roma,Bologna,3,4,0.0
+401862759,2026-03-19T20:00Z,Lille at Aston Villa,Aston Villa,Lille,2,0,1.0
+401862756,2026-03-19T20:00Z,VfB Stuttgart at FC Porto,FC Porto,VfB Stuttgart,2,0,1.0
+401862757,2026-03-19T20:00Z,Panathinaikos at Real Betis,Real Betis,Panathinaikos,4,0,1.0

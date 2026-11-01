@@ -1,0 +1,17 @@
+id,date,event,home,away,hs,as,res
+632490,2022-03-09T17:45Z,Lyon at FC Porto,FC Porto,Lyon,0,1,0.0
+632489,2022-03-09T17:45Z,Eintracht Frankfurt at Real Betis,Real Betis,Eintracht Frankfurt,1,2,0.0
+632487,2022-03-10T17:45Z,Spartak Moscow at RB Leipzig,RB Leipzig,Spartak Moscow,0,0,1.0
+632488,2022-03-10T17:45Z,West Ham United at Sevilla,Sevilla,West Ham United,1,0,1.0
+632484,2022-03-10T20:00Z,Bayer Leverkusen at Atalanta,Atalanta,Bayer Leverkusen,3,2,1.0
+632485,2022-03-10T20:00Z,Galatasaray at Barcelona,Barcelona,Galatasaray,0,0,0.5
+632483,2022-03-10T20:00Z,AS Monaco at Braga,Braga,AS Monaco,2,0,1.0
+632486,2022-03-10T20:00Z,Red Star Belgrade at Rangers,Rangers,Red Star Belgrade,3,0,1.0
+632477,2022-03-17T17:45Z,Braga at AS Monaco,AS Monaco,Braga,1,1,0.0
+632475,2022-03-17T17:45Z,Atalanta at Bayer Leverkusen,Bayer Leverkusen,Atalanta,0,1,0.0
+632476,2022-03-17T17:45Z,Barcelona at Galatasaray,Galatasaray,Barcelona,1,2,0.0
+632480,2022-03-17T17:45Z,Rangers at Red Star Belgrade,Red Star Belgrade,Rangers,2,1,0.0
+632479,2022-03-17T18:00Z,RB Leipzig at Spartak Moscow,Spartak Moscow,RB Leipzig,0,0,0.0
+632481,2022-03-17T20:00Z,Real Betis at Eintracht Frankfurt,Eintracht Frankfurt,Real Betis,1,1,1.0
+632478,2022-03-17T20:00Z,FC Porto at Lyon,Lyon,FC Porto,1,1,1.0
+632482,2022-03-17T20:00Z,Sevilla at West Ham United,West Ham United,Sevilla,2,0,1.0

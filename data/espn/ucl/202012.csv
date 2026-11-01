@@ -1,0 +1,33 @@
+id,date,event,home,away,hs,as,res
+585790,2020-12-01T17:55Z,RB Salzburg at Lokomotiv Moscow,Lokomotiv Moscow,RB Salzburg,1,3,0.0
+585789,2020-12-01T17:55Z,Real Madrid at Shakhtar Donetsk,Shakhtar Donetsk,Real Madrid,2,0,1.0
+585785,2020-12-01T20:00Z,FC Midtjylland at Atalanta,Atalanta,FC Midtjylland,1,1,0.5
+585784,2020-12-01T20:00Z,Bayern Munich at Atlético Madrid,Atlético Madrid,Bayern Munich,1,1,0.5
+585786,2020-12-01T20:00Z,Internazionale at Borussia Mönchengladbach,Borussia Mönchengladbach,Internazionale,2,3,0.0
+585787,2020-12-01T20:00Z,Manchester City at FC Porto,FC Porto,Manchester City,0,0,0.5
+585783,2020-12-01T20:00Z,Ajax Amsterdam at Liverpool,Liverpool,Ajax Amsterdam,1,0,1.0
+585788,2020-12-01T20:00Z,Olympiacos at Marseille,Marseille,Olympiacos,2,1,1.0
+585781,2020-12-02T17:55Z,RB Leipzig at Istanbul Basaksehir,Istanbul Basaksehir,RB Leipzig,3,4,0.0
+585782,2020-12-02T17:55Z,Stade Rennais at Krasnodar,Krasnodar,Stade Rennais,1,0,1.0
+585778,2020-12-02T20:00Z,Lazio at Borussia Dortmund,Borussia Dortmund,Lazio,1,1,0.5
+585780,2020-12-02T20:00Z,Zenit St Petersburg at Club Brugge,Club Brugge,Zenit St Petersburg,3,0,1.0
+585775,2020-12-02T20:00Z,Barcelona at Ferencvaros,Ferencvaros,Barcelona,0,3,0.0
+585777,2020-12-02T20:00Z,Dynamo Kyiv at Juventus,Juventus,Dynamo Kyiv,3,0,1.0
+585779,2020-12-02T20:00Z,Paris Saint-Germain at Manchester United,Manchester United,Paris Saint-Germain,1,3,0.0
+585776,2020-12-02T20:00Z,Chelsea at Sevilla,Sevilla,Chelsea,0,4,0.0
+585774,2020-12-08T17:55Z,Club Brugge at Lazio,Lazio,Club Brugge,2,2,0.5
+585773,2020-12-08T17:55Z,Borussia Dortmund at Zenit St Petersburg,Zenit St Petersburg,Borussia Dortmund,1,2,0.0
+585770,2020-12-08T20:00Z,Juventus at Barcelona,Barcelona,Juventus,0,3,0.0
+585767,2020-12-08T20:00Z,Krasnodar at Chelsea,Chelsea,Krasnodar,1,1,0.5
+585768,2020-12-08T20:00Z,Ferencvaros at Dynamo Kyiv,Dynamo Kyiv,Ferencvaros,1,0,1.0
+585771,2020-12-08T20:00Z,Manchester United at RB Leipzig,RB Leipzig,Manchester United,3,2,1.0
+585772,2020-12-08T20:00Z,Sevilla at Stade Rennais,Stade Rennais,Sevilla,1,3,0.0
+585765,2020-12-09T17:55Z,Atalanta at Ajax Amsterdam,Ajax Amsterdam,Atalanta,0,1,0.0
+585766,2020-12-09T17:55Z,Liverpool at FC Midtjylland,FC Midtjylland,Liverpool,1,1,0.5
+585769,2020-12-09T17:55Z,Istanbul Basaksehir at Paris Saint-Germain,Paris Saint-Germain,Istanbul Basaksehir,5,1,1.0
+585762,2020-12-09T20:00Z,Lokomotiv Moscow at Bayern Munich,Bayern Munich,Lokomotiv Moscow,2,0,1.0
+585764,2020-12-09T20:00Z,Shakhtar Donetsk at Internazionale,Internazionale,Shakhtar Donetsk,0,0,0.5
+585763,2020-12-09T20:00Z,Marseille at Manchester City,Manchester City,Marseille,3,0,1.0
+585761,2020-12-09T20:00Z,FC Porto at Olympiacos,Olympiacos,FC Porto,0,2,0.0
+585759,2020-12-09T20:00Z,Atlético Madrid at RB Salzburg,RB Salzburg,Atlético Madrid,0,2,0.0
+585760,2020-12-09T20:00Z,Borussia Mönchengladbach at Real Madrid,Real Madrid,Borussia Mönchengladbach,2,0,1.0
