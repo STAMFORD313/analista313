@@ -1,15 +1,25 @@
 # Estadísticas del bot
 
-Actualizado: 02/11/2026 00:03
+Actualizado: 02/11/2026 00:06
 
-**Ganadas 0 / perdidas 0** (0 % acierto) · beneficio +0.00 $ · ROI +0.0 % · banca 100.00 $
+**Ganadas 0 / perdidas 1** (0 % acierto) · beneficio -3.61 $ · ROI -100.0 % · banca 96.39 $
 
-—
+🟥
 
 ## Por segmento (deporte y tipo de apuesta)
 
 | Segmento | Apuestas | Ganadas | % | Beneficio | ROI |
 |---|---|---|---|---|---|
+| ? no favorito | 1 | 0 | 0 % | -3.61 $ | -100.0 % |
+
+## Calibración del modelo (todas las señales liquidadas)
+
+Si el bot está bien calibrado, el acierto real se parece a la prob. media. Brier: menor es mejor; si el del bot no baja del de las casas, no hay ventaja real.
+
+| Prob. bot | Señales | Prob. media | Acierto real | Brier bot | Brier casas | ROI a 1 u. |
+|---|---|---|---|---|---|---|
+| 0%-40% | 1 | 40% | 0% | 0.157 | 0.086 | -100.0 % |
+| Total | 1 | 40% | 0% | 0.157 | 0.086 | -100.0 % |
 
 ## Historial (lo más reciente primero)
 
@@ -29,4 +39,4 @@ Actualizado: 02/11/2026 00:03
 | 2026-11-01 | Denver Broncos vs Kansas City Chiefs → Denver Broncos @ 1.93 | 1.93 | 3.45 $ | ⏳ +0.00 $ |  |
 | 2026-11-01 | Miami Dolphins vs New England Patriots → Miami Dolphins @ 3.75 | 3.75 | 2.04 $ | ⏳ +0.00 $ |  |
 | 2026-11-01 | Washington Commanders vs Philadelphia Eagles → Philadelphia Eagles @ 3.20 | 3.2 | 3.24 $ | ⏳ +0.00 $ |  |
-| 2026-11-01 | Orlando Magic vs Boston Celtics → Orlando Magic @ 3.40 | 3.4 | 3.61 $ | ⏳ +0.00 $ |  |
+| 2026-11-01 | Orlando Magic vs Boston Celtics → Orlando Magic @ 3.40 | 3.4 | 3.61 $ | 🟥 -3.61 $ | El modelo sobreestimó la probabilidad de Orlando (40%) frente a un equipo de élite como Boston, generando una falsa percepción de valor al subestimar la brecha de eficiencia ofensiva entre ambos. |
