@@ -15,4 +15,4 @@
 ## Competición
 - [agente-cs2] 1 mejora medida (Elo CS2: K equipos nuevos + inactividad, log-loss 0.6298→0.6226).
 - [agente-datos] 1 mejora medida (features Elo+tiros+descanso sobre Poisson).
-- [agente-auditor] 7 mejoras medidas (6 bugs reales con test + calibración/Brier con test).
+- [agente-auditor] 8 mejoras medidas (6 bugs reales con test + calibración/Brier con test + Kelly 1/10 con backtest de banca).

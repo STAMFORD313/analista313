@@ -1,6 +1,6 @@
 """Banca virtual: el bot empieza con 100 $ y apuesta (simulado) a las señales de valor con cuotas reales
 (la mejor entre casas en fútbol; DraftKings en NBA/NFL/NHL/MLB/UFC). Antes de cada apuesta la IA revisa
-todos los datos y puede vetarla. Simples con 1/4 de Kelly + una combinada por ejecución.
+todos los datos y puede vetarla. Simples con 1/10 de Kelly + una combinada por ejecución.
 Cada apuesta y cada resultado se envía como una tarjeta de Telegram."""
 import json, math, os
 
@@ -9,7 +9,7 @@ import pandas as pd
 import analyst as A
 
 START = 100.0
-KELLY, MAX_STAKE, MAX_EXPOSURE = 0.25, 0.05, 0.30  # 1/4 Kelly, máx. 5 % por apuesta y 30 % de la banca en juego
+KELLY, MAX_STAKE, MAX_EXPOSURE = 0.10, 0.05, 0.30  # 1/10 Kelly (backtest: ver MEJORAS.md), máx. 5 % por apuesta y 30 % en juego
 MAX_SINGLES, COMBO_LEGS, COMBO_MIN_P, COMBO_STAKE = 8, 3, 0.55, 0.02
 SURE_P, SURE_CONF = 0.55, 4  # solo apuesta (y manda) lo que de verdad cree que gana: prob >= 55 % y la IA con confianza >= 4/5
 SEG_MIN, SEG_ROI = 15, -0.10  # autoajuste: deja de apostar en segmentos con >= 15 apuestas y ROI < -10 %
