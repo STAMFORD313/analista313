@@ -1,0 +1,525 @@
+id,date,event,home,away,hs,as,res
+138437,2023-09-26T03:00Z,China Open,Brandon Nakashima,Aleksandar Vukic,,,0.0
+138438,2023-09-26T03:00Z,China Open,Matteo Arnaldi,Daniel Elahi Galan,,,1.0
+138440,2023-09-26T03:00Z,China Open,Max Purcell,Li Hanwen,,,1.0
+138427,2023-09-26T04:30Z,China Open,Bai Yan,J.J. Wolf,,,0.0
+138432,2023-09-26T04:30Z,China Open,Lloyd Harris,Daniel Altmaier,,,1.0
+138436,2023-09-26T04:30Z,China Open,Yannick Hanfmann,Dusan Lajovic,,,1.0
+138429,2023-09-26T07:00Z,China Open,Miomir Kecmanovic,Pavel Kotov,,,1.0
+138434,2023-09-26T07:00Z,China Open,Cristian Garin,Cui Jie,,,1.0
+138443,2023-09-27T03:00Z,China Open,Matteo Arnaldi,Aleksandar Vukic,,,1.0
+138445,2023-09-27T03:00Z,China Open,Max Purcell,J.J. Wolf,,,0.0
+138444,2023-09-27T04:30Z,China Open,Cristian Garin,Lloyd Harris,,,0.0
+138442,2023-09-27T05:30Z,China Open,Miomir Kecmanovic,Yannick Hanfmann,,,0.0
+138465,2023-09-28T04:30Z,China Open,Ugo Humbert,Lorenzo Sonego,,,1.0
+138449,2023-09-28T06:10Z,China Open,Matteo Arnaldi,J.J. Wolf,,,1.0
+138446,2023-09-28T07:25Z,China Open,Lloyd Harris,Tomas Martin Etcheverry,,,0.0
+138463,2023-09-28T10:40Z,China Open,Alejandro Davidovich Fokina,Zhou Yi,,,1.0
+138457,2023-09-28T12:10Z,China Open,Alex de Minaur,Andy Murray,,,1.0
+138452,2023-09-29T04:40Z,China Open,Daniel Evans,Jannik Sinner,,,0.0
+138462,2023-09-29T04:40Z,China Open,Mackenzie McDonald,Grigor Dimitrov,,,0.0
+138467,2023-09-29T04:40Z,China Open,Tommy Paul,Daniil Medvedev,,,0.0
+138447,2023-09-29T06:20Z,China Open,Holger Rune,Felix Auger-Aliassime,,,1.0
+138464,2023-09-29T07:10Z,China Open,Andrey Rublev,Cameron Norrie,,,1.0
+138455,2023-09-29T07:55Z,China Open,Nicolas Jarry,Stefanos Tsitsipas,,,1.0
+138448,2023-09-29T08:05Z,China Open,Alexander Zverev,Diego Schwartzman,,,1.0
+138454,2023-09-29T09:40Z,China Open,Karen Khachanov,Lorenzo Musetti,,,0.0
+138450,2023-09-29T09:45Z,China Open,Shang Juncheng,Yoshihito Nishioka,,,0.0
+138451,2023-09-29T11:40Z,China Open,Carlos Alcaraz,Yannick Hanfmann,,,1.0
+138461,2023-09-29T12:30Z,China Open,Jan-Lennard Struff,Casper Ruud,,,0.0
+138470,2023-09-30T04:40Z,China Open,Matteo Arnaldi,Nicolas Jarry,,,0.0
+138472,2023-09-30T08:00Z,China Open,Alex de Minaur,Daniil Medvedev,,,0.0
+138473,2023-09-30T10:55Z,China Open,Andrey Rublev,Ugo Humbert,,,0.0
+138471,2023-09-30T16:10Z,China Open,Alexander Zverev,Alejandro Davidovich Fokina,,,1.0
+138468,2023-10-01T06:30Z,China Open,Tomas Martin Etcheverry,Casper Ruud,,,0.0
+138466,2023-10-01T08:10Z,China Open,Carlos Alcaraz,Lorenzo Musetti,,,1.0
+138469,2023-10-01T09:45Z,China Open,Yoshihito Nishioka,Jannik Sinner,,,0.0
+138453,2023-10-01T11:40Z,China Open,Holger Rune,Grigor Dimitrov,,,0.0
+138456,2023-10-02T04:40Z,China Open,Ugo Humbert,Daniil Medvedev,,,0.0
+138458,2023-10-02T07:15Z,China Open,Alexander Zverev,Nicolas Jarry,,,1.0
+138475,2023-10-02T11:40Z,China Open,Carlos Alcaraz,Casper Ruud,,,1.0
+138474,2023-10-02T13:10Z,China Open,Grigor Dimitrov,Jannik Sinner,,,0.0
+138459,2023-10-03T11:00Z,China Open,Alexander Zverev,Daniil Medvedev,,,0.0
+138460,2023-10-03T13:00Z,China Open,Carlos Alcaraz,Jannik Sinner,,,0.0
+138476,2023-10-04T12:00Z,China Open,Jannik Sinner,Daniil Medvedev,,,1.0
+138522,2023-09-29T03:10Z,China Open,Katie Boulter,Bai Zhuoxuan,,,1.0
+138523,2023-09-29T03:10Z,China Open,Diane Parry,Magdalena Frech,,,0.0
+138526,2023-09-29T03:10Z,China Open,Emina Bektas,Kamilla Rakhimova,,,0.0
+138529,2023-09-29T03:10Z,China Open,Bernarda Pera,Claire Liu,,,0.0
+138534,2023-09-29T04:30Z,China Open,Jodie Burrage,Yulia Putintseva,,,0.0
+138533,2023-09-29T04:40Z,China Open,Wei Sijia,Yanina Wickmayer,,,0.0
+138527,2023-09-29T05:10Z,China Open,Rebeka Masarova,Kateryna Baindl,,,0.0
+138525,2023-09-29T05:30Z,China Open,Elina Avanesyan,Ren Yufei,,,1.0
+138530,2023-09-29T06:15Z,China Open,You Xiaodi,Anna Kalinskaya,,,0.0
+138521,2023-09-29T06:30Z,China Open,Mirra Andreeva,Kimberly Birrell,,,1.0
+138535,2023-09-29T06:40Z,China Open,Kayla Day,Cristina Bucsa,,,0.0
+138532,2023-09-29T07:05Z,China Open,Peyton Stearns,Anna-Lena Friedsam,,,1.0
+138520,2023-09-29T08:00Z,China Open,Lucia Bronzetti,Rebecca Marino,,,1.0
+138531,2023-09-29T08:20Z,China Open,Laura Pigossi,Aliaksandra Sasnovich,,,1.0
+138524,2023-09-29T08:55Z,China Open,Tamara Korpatsch,Ashlyn Krueger,,,0.0
+138528,2023-09-29T09:05Z,China Open,Leylah Fernandez,Eva Lys,,,0.0
+138539,2023-09-30T03:00Z,China Open,Claire Liu,Magdalena Frech,,,0.0
+138540,2023-09-30T03:05Z,China Open,Kateryna Baindl,Yanina Wickmayer,,,1.0
+138542,2023-09-30T03:05Z,China Open,Katie Boulter,Kamilla Rakhimova,,,1.0
+138556,2023-09-30T03:05Z,China Open,Donna Vekic,Anna Blinkova,,,0.0
+138536,2023-09-30T04:10Z,China Open,Mirra Andreeva,Anna Kalinskaya,,,1.0
+138541,2023-09-30T04:20Z,China Open,Elina Avanesyan,Yulia Putintseva,,,0.0
+138557,2023-09-30T04:40Z,China Open,Anastasia Potapova,Varvara Gracheva,,,0.0
+138574,2023-09-30T05:05Z,China Open,Marta Kostyuk,Elisabetta Cocciaretto,,,1.0
+138537,2023-09-30T05:20Z,China Open,Eva Lys,Cristina Bucsa,,,1.0
+138543,2023-09-30T05:20Z,China Open,Peyton Stearns,Laura Pigossi,,,1.0
+138538,2023-09-30T06:00Z,China Open,Lucia Bronzetti,Ashlyn Krueger,,,0.0
+138564,2023-09-30T06:40Z,China Open,Martina Trevisan,Tatjana Maria,,,0.0
+138551,2023-09-30T08:05Z,China Open,Sorana Cirstea,Petra Martic,,,0.0
+138567,2023-09-30T10:15Z,China Open,Yuan Yue,Elise Mertens,,,1.0
+138555,2023-09-30T13:35Z,China Open,Victoria Azarenka,Magda Linette,,,0.0
+138566,2023-10-01T03:10Z,China Open,Jasmine Paolini,Beatriz Haddad Maia,,,1.0
+138552,2023-10-01T04:40Z,China Open,Daria Saville,Katerina Siniakova,,,1.0
+138554,2023-10-01T04:40Z,China Open,Marketa Vondrousova,Anhelina Kalinina,,,0.0
+138575,2023-10-01T04:40Z,China Open,Alycia Parks,Liudmila Samsonova,,,0.0
+138545,2023-10-01T06:25Z,China Open,Marie Bouzkova,Yulia Putintseva,,,0.0
+138560,2023-10-01T06:40Z,China Open,Aryna Sabalenka,Sofia Kenin,,,1.0
+138558,2023-10-01T06:55Z,China Open,Jennifer Brady,Peyton Stearns,,,1.0
+138573,2023-10-01T08:30Z,China Open,Eva Lys,Jelena Ostapenko,,,0.0
+138569,2023-10-01T08:50Z,China Open,Linda Fruhvirtova,Arantxa Rus,,,1.0
+138565,2023-10-01T10:45Z,China Open,Magdalena Frech,Katie Boulter,,,0.0
+138571,2023-10-01T11:10Z,China Open,Tian Fangran,Linda Noskova,,,0.0
+138562,2023-10-01T11:30Z,China Open,Barbora Krejcikova,Mirra Andreeva,,,0.0
+138572,2023-10-01T13:35Z,China Open,Petra Kvitova,Wang Xiyu,,,1.0
+138548,2023-10-02T03:00Z,China Open,Lesia Tsurenko,Zhu Lin,,,1.0
+138559,2023-10-02T04:30Z,China Open,Sara Sorribes Tormo,Iga Swiatek,,,0.0
+138544,2023-10-02T04:35Z,China Open,Kateryna Baindl,Caroline Garcia,,,0.0
+138547,2023-10-02T04:35Z,China Open,Wang Xinyu,Vera Zvonareva,,,1.0
+138589,2023-10-02T04:35Z,China Open,Anhelina Kalinina,Daria Saville,,,1.0
+138576,2023-10-02T06:00Z,China Open,Linda Noskova,Jelena Ostapenko,,,0.0
+138546,2023-10-02T06:10Z,China Open,Mayar Sherif,Daria Kasatkina,,,0.0
+138553,2023-10-02T06:20Z,China Open,Ashlyn Krueger,Ons Jabeur,,,0.0
+138579,2023-10-02T06:30Z,China Open,Yuan Yue,Jasmine Paolini,,,0.0
+138591,2023-10-02T08:55Z,China Open,Magda Linette,Jennifer Brady,,,1.0
+138583,2023-10-02T09:40Z,China Open,Petra Kvitova,Liudmila Samsonova,,,0.0
+138550,2023-10-02T09:50Z,China Open,Ekaterina Alexandrova,Coco Gauff,,,0.0
+138563,2023-10-02T11:40Z,China Open,Zheng Qinwen,Elena Rybakina,,,0.0
+138577,2023-10-03T04:40Z,China Open,Aryna Sabalenka,Katie Boulter,,,1.0
+138580,2023-10-03T04:40Z,China Open,Jessica Pegula,Anna Blinkova,,,1.0
+138588,2023-10-03T04:40Z,China Open,Yulia Putintseva,Caroline Garcia,,,0.0
+138584,2023-10-03T07:05Z,China Open,Wang Xinyu,Daria Kasatkina,,,1.0
+138582,2023-10-03T07:10Z,China Open,Marta Kostyuk,Ons Jabeur,,,1.0
+138586,2023-10-03T07:30Z,China Open,Petra Martic,Coco Gauff,,,0.0
+138587,2023-10-03T08:50Z,China Open,Veronika Kudermetova,Lesia Tsurenko,,,1.0
+138590,2023-10-03T08:50Z,China Open,Varvara Gracheva,Iga Swiatek,,,0.0
+138581,2023-10-03T12:05Z,China Open,Tatjana Maria,Elena Rybakina,,,0.0
+138578,2023-10-03T12:10Z,China Open,Mirra Andreeva,Anastasia Pavlyuchenkova,,,1.0
+138585,2023-10-03T15:20Z,China Open,Maria Sakkari,Linda Fruhvirtova,,,1.0
+138593,2023-10-04T04:05Z,China Open,Jessica Pegula,Jelena Ostapenko,,,0.0
+138596,2023-10-04T06:20Z,China Open,Liudmila Samsonova,Marta Kostyuk,,,1.0
+138599,2023-10-04T09:30Z,China Open,Magda Linette,Iga Swiatek,,,0.0
+138594,2023-10-04T10:55Z,China Open,Mirra Andreeva,Elena Rybakina,,,0.0
+138597,2023-10-05T04:40Z,China Open,Anhelina Kalinina,Caroline Garcia,,,0.0
+138598,2023-10-05T06:40Z,China Open,Veronika Kudermetova,Coco Gauff,,,0.0
+138595,2023-10-05T08:40Z,China Open,Maria Sakkari,Wang Xinyu,,,1.0
+138592,2023-10-05T11:40Z,China Open,Aryna Sabalenka,Jasmine Paolini,,,1.0
+138602,2023-10-06T04:35Z,China Open,Caroline Garcia,Iga Swiatek,,,0.0
+138603,2023-10-06T07:30Z,China Open,Maria Sakkari,Coco Gauff,,,0.0
+138601,2023-10-06T09:00Z,China Open,Jelena Ostapenko,Liudmila Samsonova,,,0.0
+138600,2023-10-06T11:35Z,China Open,Aryna Sabalenka,Elena Rybakina,,,0.0
+138604,2023-10-07T06:40Z,China Open,Coco Gauff,Iga Swiatek,,,0.0
+138605,2023-10-07T08:35Z,China Open,Elena Rybakina,Liudmila Samsonova,,,0.0
+138606,2023-10-08T11:40Z,China Open,Liudmila Samsonova,Iga Swiatek,,,0.0
+139530,2023-10-07T02:35Z,Prudential Hong Kong Tennis Open,Ya Yi Yang,Dasha Ivanova,,,1.0
+139534,2023-10-07T02:35Z,Prudential Hong Kong Tennis Open,Sin Yu Che,Daria Lodikova,,,0.0
+139535,2023-10-07T02:35Z,Prudential Hong Kong Tennis Open,Karman Thandi,Anna Danilina,,,0.0
+139533,2023-10-07T03:55Z,Prudential Hong Kong Tennis Open,Man Ying Maggie Ng,Sofya Lansere,,,0.0
+139529,2023-10-07T04:20Z,Prudential Hong Kong Tennis Open,Ekaterina Yashina,Conny Perrin,,,0.0
+139531,2023-10-07T05:40Z,Prudential Hong Kong Tennis Open,Dalila Jakupovic,Ching Laam Lai,,,1.0
+139532,2023-10-07T06:00Z,Prudential Hong Kong Tennis Open,Chia Yi Tsao,Daria Saville,,,0.0
+139528,2023-10-07T06:15Z,Prudential Hong Kong Tennis Open,Alina Korneeva,Amina Anshba,,,1.0
+139538,2023-10-10T03:10Z,Prudential Hong Kong Tennis Open,Anna Danilina,Daria Lodikova,,,1.0
+139536,2023-10-10T03:10Z,Prudential Hong Kong Tennis Open,Ya Yi Yang,Sofya Lansere,,,0.0
+139537,2023-10-10T04:45Z,Prudential Hong Kong Tennis Open,Alina Korneeva,Conny Perrin,,,1.0
+139539,2023-10-10T05:25Z,Prudential Hong Kong Tennis Open,Dalila Jakupovic,Daria Saville,,,0.0
+138927,2023-10-10T07:00Z,Prudential Hong Kong Tennis Open,Wang Xiyu,Katerina Siniakova,,,0.0
+138935,2023-10-10T07:10Z,Prudential Hong Kong Tennis Open,Mirra Andreeva,Dayana Yastremska,,,1.0
+138930,2023-10-10T08:00Z,Prudential Hong Kong Tennis Open,Varvara Gracheva,Kamilla Rakhimova,,,0.0
+138949,2023-10-10T08:50Z,Prudential Hong Kong Tennis Open,Priscilla Hon,Eudice Wong Chong,,,1.0
+138947,2023-10-10T09:35Z,Prudential Hong Kong Tennis Open,Martina Trevisan,Cristina Bucsa,,,1.0
+138950,2023-10-10T09:35Z,Prudential Hong Kong Tennis Open,Yulia Putintseva,Anna Blinkova,,,0.0
+138951,2023-10-10T11:20Z,Prudential Hong Kong Tennis Open,Victoria Azarenka,Leylah Fernandez,,,0.0
+138945,2023-10-10T11:30Z,Prudential Hong Kong Tennis Open,Linda Fruhvirtova,Peyton Stearns,,,1.0
+138928,2023-10-10T11:45Z,Prudential Hong Kong Tennis Open,Anastasia Pavlyuchenkova,Jana Fett,,,1.0
+138939,2023-10-10T13:00Z,Prudential Hong Kong Tennis Open,Wang Xinyu,Elina Avanesyan,,,1.0
+138925,2023-10-11T07:10Z,Prudential Hong Kong Tennis Open,Aliaksandra Sasnovich,Beatriz Haddad Maia,,,0.0
+138948,2023-10-11T07:10Z,Prudential Hong Kong Tennis Open,Anna Danilina,Magdalena Frech,,,0.0
+138941,2023-10-11T07:10Z,Prudential Hong Kong Tennis Open,Ho Ching Wu,Sara Sorribes Tormo,,,0.0
+138952,2023-10-11T08:30Z,Prudential Hong Kong Tennis Open,Daria Saville,Elise Mertens,,,0.0
+138943,2023-10-11T08:40Z,Prudential Hong Kong Tennis Open,Alina Korneeva,Valeria Savinykh,,,1.0
+138938,2023-10-11T11:00Z,Prudential Hong Kong Tennis Open,Sofya Lansere,Hong Yi Cody Wong,,,1.0
+138929,2023-10-11T12:55Z,Prudential Hong Kong Tennis Open,Priscilla Hon,Anna Blinkova,,,0.0
+138934,2023-10-11T13:00Z,Prudential Hong Kong Tennis Open,Kamilla Rakhimova,Katerina Siniakova,,,0.0
+138931,2023-10-12T07:00Z,Prudential Hong Kong Tennis Open,Martina Trevisan,Magdalena Frech,,,1.0
+138933,2023-10-12T07:10Z,Prudential Hong Kong Tennis Open,Wang Xinyu,Sara Sorribes Tormo,,,0.0
+138936,2023-10-12T09:20Z,Prudential Hong Kong Tennis Open,Anastasia Pavlyuchenkova,Beatriz Haddad Maia,,,1.0
+138937,2023-10-12T10:10Z,Prudential Hong Kong Tennis Open,Sofya Lansere,Elise Mertens,,,0.0
+138932,2023-10-12T12:25Z,Prudential Hong Kong Tennis Open,Alina Korneeva,Linda Fruhvirtova,,,0.0
+138926,2023-10-12T12:35Z,Prudential Hong Kong Tennis Open,Leylah Fernandez,Mirra Andreeva,,,1.0
+138946,2023-10-13T06:00Z,Prudential Hong Kong Tennis Open,Sara Sorribes Tormo,Anna Blinkova,,,0.0
+138940,2023-10-13T08:20Z,Prudential Hong Kong Tennis Open,Martina Trevisan,Elise Mertens,,,1.0
+138944,2023-10-13T10:00Z,Prudential Hong Kong Tennis Open,Leylah Fernandez,Linda Fruhvirtova,,,1.0
+138942,2023-10-13T12:05Z,Prudential Hong Kong Tennis Open,Katerina Siniakova,Anastasia Pavlyuchenkova,,,1.0
+138954,2023-10-14T06:05Z,Prudential Hong Kong Tennis Open,Leylah Fernandez,Anna Blinkova,,,1.0
+138955,2023-10-14T08:00Z,Prudential Hong Kong Tennis Open,Martina Trevisan,Katerina Siniakova,,,0.0
+138953,2023-10-15T08:05Z,Prudential Hong Kong Tennis Open,Leylah Fernandez,Katerina Siniakova,,,1.0
+139516,2023-10-07T03:10Z,Zhengzhou Open,Lesia Tsurenko,Ulrikke Eikeri,,,1.0
+139517,2023-10-07T03:10Z,Zhengzhou Open,Erin Routliffe,Kateryna Volodko,,,0.0
+139526,2023-10-07T03:10Z,Zhengzhou Open,Sofia Shapatava,Moyuka Uchijima,,,0.0
+139518,2023-10-07T03:10Z,Zhengzhou Open,Nao Hibino,Zhao Xichen,,,1.0
+139525,2023-10-07T04:30Z,Zhengzhou Open,Miyu Kato,Timea Babos,,,0.0
+139522,2023-10-07T04:30Z,Zhengzhou Open,Wei Sijia,You Xiaodi,,,0.0
+139520,2023-10-07T04:30Z,Zhengzhou Open,Tamara Korpatsch,Ena Shibahara,,,1.0
+139519,2023-10-07T04:30Z,Zhengzhou Open,Jiang Xinyu,Carol Zhao,,,0.0
+139521,2023-10-07T06:30Z,Zhengzhou Open,Ellen Perez,Ma YeXin,,,1.0
+139527,2023-10-07T06:35Z,Zhengzhou Open,Diana Shnaider,Jiang Zijun,,,1.0
+139524,2023-10-07T07:10Z,Zhengzhou Open,Wang Meiling,Laura Siegemund,,,0.0
+139523,2023-10-07T07:25Z,Zhengzhou Open,Camila Osorio,Vera Zvonareva,,,0.0
+139549,2023-10-08T04:00Z,Zhengzhou Open,Nao Hibino,Carol Zhao,,,1.0
+139544,2023-10-08T04:00Z,Zhengzhou Open,Lesia Tsurenko,Moyuka Uchijima,,,1.0
+139545,2023-10-08T04:00Z,Zhengzhou Open,Kateryna Volodko,You Xiaodi,,,1.0
+139548,2023-10-08T05:30Z,Zhengzhou Open,Vera Zvonareva,Timea Babos,,,1.0
+139547,2023-10-08T05:45Z,Zhengzhou Open,Tamara Korpatsch,Ellen Perez,,,0.0
+139546,2023-10-08T06:50Z,Zhengzhou Open,Diana Shnaider,Laura Siegemund,,,0.0
+139166,2023-10-09T07:05Z,Zhengzhou Open,Nao Hibino,Donna Vekic,,,0.0
+139165,2023-10-09T08:30Z,Zhengzhou Open,Lucia Bronzetti,Guo Hanyu,,,1.0
+139167,2023-10-09T09:00Z,Zhengzhou Open,Moyuka Uchijima,Jasmine Paolini,,,0.0
+139176,2023-10-09T10:40Z,Zhengzhou Open,Lesia Tsurenko,Diana Shnaider,,,1.0
+139178,2023-10-09T11:00Z,Zhengzhou Open,Kateryna Volodko,Zheng Qinwen,,,0.0
+139171,2023-10-09T12:45Z,Zhengzhou Open,Anhelina Kalinina,Ellen Perez,,,1.0
+139170,2023-10-10T07:05Z,Zhengzhou Open,Veronika Kudermetova,Vera Zvonareva,,,0.0
+139174,2023-10-10T07:10Z,Zhengzhou Open,Petra Martic,Magda Linette,,,1.0
+139175,2023-10-10T09:10Z,Zhengzhou Open,Liudmila Samsonova,Tatjana Maria,,,1.0
+139177,2023-10-10T09:15Z,Zhengzhou Open,Zhu Lin,Laura Siegemund,,,0.0
+139172,2023-10-10T11:20Z,Zhengzhou Open,Tamara Korpatsch,Bai Zhuoxuan,,,0.0
+139173,2023-10-10T13:50Z,Zhengzhou Open,Timea Babos,Daria Kasatkina,,,0.0
+139183,2023-10-11T07:10Z,Zhengzhou Open,Vera Zvonareva,Anhelina Kalinina,,,0.0
+139186,2023-10-11T09:00Z,Zhengzhou Open,Jasmine Paolini,Caroline Garcia,,,1.0
+139188,2023-10-11T11:35Z,Zhengzhou Open,Zheng Qinwen,Maria Sakkari,,,1.0
+139184,2023-10-11T13:35Z,Zhengzhou Open,Lesia Tsurenko,Donna Vekic,,,1.0
+139189,2023-10-12T07:10Z,Zhengzhou Open,Liudmila Samsonova,Laura Siegemund,,,0.0
+139185,2023-10-12T09:20Z,Zhengzhou Open,Ons Jabeur,Lucia Bronzetti,,,1.0
+139182,2023-10-12T12:00Z,Zhengzhou Open,Bai Zhuoxuan,Daria Kasatkina,,,0.0
+139194,2023-10-12T13:45Z,Zhengzhou Open,Barbora Krejcikova,Petra Martic,,,1.0
+139181,2023-10-13T08:00Z,Zhengzhou Open,Ons Jabeur,Daria Kasatkina,,,0.0
+139191,2023-10-13T08:55Z,Zhengzhou Open,Laura Siegemund,Jasmine Paolini,,,0.0
+139190,2023-10-13T11:00Z,Zhengzhou Open,Anhelina Kalinina,Zheng Qinwen,,,0.0
+139187,2023-10-13T12:45Z,Zhengzhou Open,Barbora Krejcikova,Lesia Tsurenko,,,1.0
+139193,2023-10-14T10:30Z,Zhengzhou Open,Zheng Qinwen,Jasmine Paolini,,,1.0
+139192,2023-10-14T12:10Z,Zhengzhou Open,Barbora Krejcikova,Daria Kasatkina,,,1.0
+139195,2023-10-15T11:40Z,Zhengzhou Open,Barbora Krejcikova,Zheng Qinwen,,,0.0
+139508,2023-10-07T02:10Z,Korea Open,Dabin Kim,Irina Khromacheva,,,0.0
+139515,2023-10-07T02:10Z,Korea Open,Arianne Hartono,Eri Hozumi,,,1.0
+139509,2023-10-07T02:10Z,Korea Open,En-Shuo Liang,Luksika Kumkhum,,,1.0
+139512,2023-10-07T03:40Z,Korea Open,Bethanie Mattek-Sands,Ksenia Zaytseva,,,0.0
+139510,2023-10-07T03:40Z,Korea Open,Sohyun Park,Yeonwoo Ku,,,0.0
+139513,2023-10-07T04:35Z,Korea Open,Mei Yamaguchi,Peangtarn Plipuech,,,1.0
+139511,2023-10-07T05:35Z,Korea Open,Quinn Gleason,Ya-Hsuan Lee,,,0.0
+139514,2023-10-07T06:10Z,Korea Open,Sachia Vickery,Boyoung Jeong,,,1.0
+139542,2023-10-08T02:00Z,Korea Open,En-Shuo Liang,Mei Yamaguchi,,,1.0
+139540,2023-10-08T02:00Z,Korea Open,Arianne Hartono,Irina Khromacheva,,,1.0
+139541,2023-10-08T03:30Z,Korea Open,Sachia Vickery,Ksenia Zaytseva,,,1.0
+139543,2023-10-08T04:15Z,Korea Open,Yeonwoo Ku,Ya-Hsuan Lee,,,1.0
+138840,2023-10-09T03:30Z,Korea Open,En-Shuo Liang,Yanina Wickmayer,,,0.0
+138834,2023-10-09T03:30Z,Korea Open,Claire Liu,Yeonwoo Ku,,,1.0
+138836,2023-10-09T03:40Z,Korea Open,Kathinka von Deichmann,Irina Khromacheva,,,1.0
+138835,2023-10-09T05:25Z,Korea Open,Ekaterina Alexandrova,Mai Hontama,,,1.0
+138833,2023-10-09T05:30Z,Korea Open,Polina Kudermetova,Alycia Parks,,,1.0
+138849,2023-10-09T06:10Z,Korea Open,Arianne Hartono,Yuan Yue,,,0.0
+138832,2023-10-09T06:45Z,Korea Open,Na-Lae Han,Arantxa Rus,,,0.0
+138839,2023-10-09T07:30Z,Korea Open,Katie Boulter,Kaja Juvan,,,0.0
+138837,2023-10-10T03:10Z,Korea Open,Nadia Podoroska,Ashlyn Krueger,,,0.0
+138843,2023-10-10T03:10Z,Korea Open,Eva Lys,Anna Karolina Schmiedlova,,,1.0
+138853,2023-10-10T03:10Z,Korea Open,Sofia Kenin,Su-Jeong Jang,,,0.0
+138855,2023-10-10T04:45Z,Korea Open,Laura Pigossi,Emina Bektas,,,0.0
+138845,2023-10-10T04:50Z,Korea Open,Jessica Pegula,Viktoria Hruncakova,,,1.0
+138851,2023-10-10T05:05Z,Korea Open,Sachia Vickery,Kimberly Birrell,,,0.0
+138852,2023-10-10T06:20Z,Korea Open,Dayeon Back,Jelena Ostapenko,,,1.0
+138846,2023-10-10T08:20Z,Korea Open,Kayla Day,Marie Bouzkova,,,0.0
+138842,2023-10-11T03:00Z,Korea Open,Claire Liu,Arantxa Rus,,,1.0
+138848,2023-10-11T05:00Z,Korea Open,Kathinka von Deichmann,Polina Kudermetova,,,0.0
+138838,2023-10-11T06:50Z,Korea Open,Ekaterina Alexandrova,Yanina Wickmayer,,,0.0
+138850,2023-10-11T09:05Z,Korea Open,Kaja Juvan,Yuan Yue,,,0.0
+138847,2023-10-12T03:00Z,Korea Open,Su-Jeong Jang,Emina Bektas,,,0.0
+138844,2023-10-12T03:05Z,Korea Open,Eva Lys,Marie Bouzkova,,,0.0
+138854,2023-10-12T05:00Z,Korea Open,Kimberly Birrell,Dayeon Back,,,1.0
+138841,2023-10-12T06:30Z,Korea Open,Jessica Pegula,Ashlyn Krueger,,,1.0
+138856,2023-10-13T03:00Z,Korea Open,Emina Bektas,Kimberly Birrell,,,1.0
+138859,2023-10-13T05:40Z,Korea Open,Jessica Pegula,Claire Liu,,,1.0
+138858,2023-10-13T08:15Z,Korea Open,Yuan Yue,Marie Bouzkova,,,1.0
+138857,2023-10-13T11:20Z,Korea Open,Yanina Wickmayer,Polina Kudermetova,,,1.0
+138861,2023-10-14T05:40Z,Korea Open,Yuan Yue,Emina Bektas,,,1.0
+138860,2023-10-14T08:15Z,Korea Open,Jessica Pegula,Yanina Wickmayer,,,1.0
+138862,2023-10-15T06:00Z,Korea Open,Jessica Pegula,Yuan Yue,,,1.0
+139553,2023-10-08T12:10Z,Open Capfinances Rouen Métropole,Astra Sharma,Anna Siskova,,,1.0
+139550,2023-10-08T12:10Z,Open Capfinances Rouen Métropole,Noma Noha Akugue,Tiphanie Lemaitre,,,0.0
+139551,2023-10-08T13:30Z,Open Capfinances Rouen Métropole,Erika Andreeva,Magali Kempen,,,1.0
+139552,2023-10-08T14:25Z,Open Capfinances Rouen Métropole,Iryna Shymanovich,Margaux Rouvroy,,,0.0
+139206,2023-10-09T09:40Z,Open Capfinances Rouen Métropole,Jil Teichmann,Erika Andreeva,,,0.0
+139215,2023-10-09T13:10Z,Open Capfinances Rouen Métropole,Daria Snigur,Jodie Burrage,,,0.0
+139210,2023-10-09T13:10Z,Open Capfinances Rouen Métropole,Leolia Jeanjean,Celine Naef,,,0.0
+139214,2023-10-09T14:40Z,Open Capfinances Rouen Métropole,Greet Minnen,Yuriko Lily Miyazaki,,,1.0
+139217,2023-10-09T16:20Z,Open Capfinances Rouen Métropole,Simona Waltert,Chloe Paquet,,,1.0
+139208,2023-10-09T18:30Z,Open Capfinances Rouen Métropole,Anna-Lena Friedsam,Alice Robbe,,,0.0
+139212,2023-10-10T09:40Z,Open Capfinances Rouen Métropole,Lucrezia Stefanini,Jaqueline Cristian,,,0.0
+139211,2023-10-10T10:05Z,Open Capfinances Rouen Métropole,Dalma Galfi,Kaia Kanepi,,,1.0
+139197,2023-10-10T11:40Z,Open Capfinances Rouen Métropole,Margaux Rouvroy,Tiphanie Lemaitre,,,0.0
+139213,2023-10-10T14:10Z,Open Capfinances Rouen Métropole,Nuria Parrizas Diaz,Astra Sharma,,,1.0
+139204,2023-10-10T14:30Z,Open Capfinances Rouen Métropole,Anna Bondar,Oceane Dodin,,,0.0
+139218,2023-10-10T16:55Z,Open Capfinances Rouen Métropole,Alize Cornet,Jessika Ponchet,,,1.0
+139202,2023-10-10T19:50Z,Open Capfinances Rouen Métropole,Marina Bassols Ribera,Clara Burel,,,1.0
+139203,2023-10-11T09:40Z,Open Capfinances Rouen Métropole,Greet Minnen,Simona Waltert,,,1.0
+139196,2023-10-11T09:40Z,Open Capfinances Rouen Métropole,Aliona Bolsova,Iryna Shymanovich,,,1.0
+139201,2023-10-11T11:10Z,Open Capfinances Rouen Métropole,Viktorija Golubic,Elsa Jacquemot,,,1.0
+139198,2023-10-11T11:40Z,Open Capfinances Rouen Métropole,Celine Naef,Jaqueline Cristian,,,0.0
+139199,2023-10-11T13:40Z,Open Capfinances Rouen Métropole,Fiona Ferro,Viktoriya Tomova,,,1.0
+139207,2023-10-11T15:50Z,Open Capfinances Rouen Métropole,Oceane Dodin,Erika Andreeva,,,0.0
+139209,2023-10-11T17:35Z,Open Capfinances Rouen Métropole,Alice Robbe,Jodie Burrage,,,0.0
+139205,2023-10-12T11:55Z,Open Capfinances Rouen Métropole,Aliona Bolsova,Fiona Ferro,,,0.0
+139219,2023-10-12T14:30Z,Open Capfinances Rouen Métropole,Nuria Parrizas Diaz,Marina Bassols Ribera,,,1.0
+139216,2023-10-12T17:15Z,Open Capfinances Rouen Métropole,Alize Cornet,Dalma Galfi,,,1.0
+139200,2023-10-12T19:15Z,Open Capfinances Rouen Métropole,Viktorija Golubic,Tiphanie Lemaitre,,,1.0
+139222,2023-10-13T11:30Z,Open Capfinances Rouen Métropole,Erika Andreeva,Jodie Burrage,,,1.0
+139221,2023-10-13T13:05Z,Open Capfinances Rouen Métropole,Viktorija Golubic,Fiona Ferro,,,1.0
+139223,2023-10-13T15:40Z,Open Capfinances Rouen Métropole,Alize Cornet,Nuria Parrizas Diaz,,,1.0
+139220,2023-10-13T18:30Z,Open Capfinances Rouen Métropole,Greet Minnen,Jaqueline Cristian,,,0.0
+139225,2023-10-14T13:20Z,Open Capfinances Rouen Métropole,Erika Andreeva,Alize Cornet,,,1.0
+139224,2023-10-14T14:50Z,Open Capfinances Rouen Métropole,Jaqueline Cristian,Viktorija Golubic,,,0.0
+139226,2023-10-15T13:00Z,Open Capfinances Rouen Métropole,Viktorija Golubic,Erika Andreeva,,,1.0
+139568,2023-10-14T03:00Z,Jiangxi Open,Jessy Rompies,Dang Yiming,,,1.0
+139573,2023-10-14T04:00Z,Jiangxi Open,Kathinka von Deichmann,Prarthana Thombare,,,1.0
+139567,2023-10-14T05:05Z,Jiangxi Open,Hou Yanan,Ulrikke Eikeri,,,0.0
+139570,2023-10-14T05:30Z,Jiangxi Open,Anastasia Detiuc,Amina Anshba,,,0.0
+139572,2023-10-14T08:00Z,Jiangxi Open,Tereza Mihalikova,Xun Fang Ying,,,1.0
+139577,2023-10-15T05:30Z,Jiangxi Open,Kathinka von Deichmann,Ulrikke Eikeri,,,1.0
+139575,2023-10-15T05:30Z,Jiangxi Open,Wei Sijia,Amina Anshba,,,1.0
+139574,2023-10-15T07:25Z,Jiangxi Open,You Xiaodi,Jessy Rompies,,,1.0
+139576,2023-10-15T07:30Z,Jiangxi Open,Ma YeXin,Tereza Mihalikova,,,1.0
+139275,2023-10-16T06:00Z,Jiangxi Open,Elina Avanesyan,Amina Anshba,,,0.0
+139271,2023-10-16T06:00Z,Jiangxi Open,Camila Osorio,Ma YeXin,,,1.0
+139262,2023-10-16T06:00Z,Jiangxi Open,Vera Zvonareva,Arianne Hartono,,,1.0
+139259,2023-10-16T07:30Z,Jiangxi Open,Jiang Xinyu,Sara Sorribes Tormo,,,0.0
+139268,2023-10-16T08:40Z,Jiangxi Open,Wei Sijia,Kimberly Birrell,,,0.0
+139261,2023-10-16T11:20Z,Jiangxi Open,Diana Shnaider,Zhu Lin,,,1.0
+139274,2023-10-17T06:10Z,Jiangxi Open,Valeria Savinykh,Magda Linette,,,1.0
+139269,2023-10-17T06:10Z,Jiangxi Open,Anna Blinkova,You Xiaodi,,,0.0
+139260,2023-10-17T06:10Z,Jiangxi Open,Beatriz Haddad Maia,Nao Hibino,,,0.0
+139278,2023-10-17T07:30Z,Jiangxi Open,Ulrikke Eikeri,Kaja Juvan,,,1.0
+139264,2023-10-17T08:30Z,Jiangxi Open,Leylah Fernandez,Guo Hanyu,,,1.0
+139265,2023-10-17T08:40Z,Jiangxi Open,Viktoria Hruncakova,Aliaksandra Sasnovich,,,0.0
+139263,2023-10-17T09:25Z,Jiangxi Open,Varvara Gracheva,Kamilla Rakhimova,,,1.0
+139273,2023-10-17T11:10Z,Jiangxi Open,Marie Bouzkova,Kathinka von Deichmann,,,1.0
+139266,2023-10-17T12:15Z,Jiangxi Open,Laura Siegemund,Wang Xinyu,,,1.0
+139258,2023-10-17T12:45Z,Jiangxi Open,Wang Yuhan,Katerina Siniakova,,,0.0
+139280,2023-10-18T06:05Z,Jiangxi Open,Marie Bouzkova,Amina Anshba,,,1.0
+139276,2023-10-18T06:05Z,Jiangxi Open,Nao Hibino,Kimberly Birrell,,,1.0
+139272,2023-10-18T07:50Z,Jiangxi Open,Vera Zvonareva,Diana Shnaider,,,0.0
+139281,2023-10-18T11:10Z,Jiangxi Open,Camila Osorio,Sara Sorribes Tormo,,,1.0
+139279,2023-10-20T03:10Z,Jiangxi Open,Ulrikke Eikeri,Laura Siegemund,,,0.0
+139277,2023-10-20T03:10Z,Jiangxi Open,Varvara Gracheva,Katerina Siniakova,,,0.0
+139270,2023-10-20T04:50Z,Jiangxi Open,Aliaksandra Sasnovich,Valeria Savinykh,,,1.0
+139267,2023-10-20T05:05Z,Jiangxi Open,You Xiaodi,Leylah Fernandez,,,0.0
+139282,2023-10-20T06:45Z,Jiangxi Open,Nao Hibino,Diana Shnaider,,,0.0
+139283,2023-10-20T08:15Z,Jiangxi Open,Marie Bouzkova,Camila Osorio,,,1.0
+139284,2023-10-20T09:00Z,Jiangxi Open,Katerina Siniakova,Laura Siegemund,,,1.0
+139285,2023-10-20T11:00Z,Jiangxi Open,Leylah Fernandez,Aliaksandra Sasnovich,,,1.0
+139286,2023-10-21T07:20Z,Jiangxi Open,Diana Shnaider,Marie Bouzkova,,,0.0
+139287,2023-10-21T09:20Z,Jiangxi Open,Katerina Siniakova,Leylah Fernandez,,,1.0
+139288,2023-10-22T08:35Z,Jiangxi Open,Marie Bouzkova,Katerina Siniakova,,,0.0
+139585,2023-10-14T08:00Z,Transylvania Open powered by Kaufland,Susan Bandecchi,Valentini Grammatikopoulou,,,1.0
+139581,2023-10-14T09:05Z,Transylvania Open powered by Kaufland,Ipek Oz,Quinn Gleason,,,1.0
+139580,2023-10-14T10:45Z,Transylvania Open powered by Kaufland,Ilinca Amariei,Valeriya Strakhova,,,0.0
+139579,2023-10-14T11:10Z,Transylvania Open powered by Kaufland,Mara Gae,Martha Matoula,,,0.0
+139583,2023-10-14T12:40Z,Transylvania Open powered by Kaufland,Maria Sara Popa,Anastasiia Sobolieva,,,0.0
+139584,2023-10-14T13:35Z,Transylvania Open powered by Kaufland,Ekaterina Makarova,Briana Szabo,,,1.0
+139582,2023-10-14T15:25Z,Transylvania Open powered by Kaufland,Dalila Jakupovic,Vivian Heisen,,,0.0
+139589,2023-10-15T09:10Z,Transylvania Open powered by Kaufland,Ipek Oz,Martha Matoula,,,0.0
+139588,2023-10-15T09:10Z,Transylvania Open powered by Kaufland,Ekaterina Makarova,Susan Bandecchi,,,1.0
+139586,2023-10-15T11:20Z,Transylvania Open powered by Kaufland,Vivian Heisen,Anastasiia Sobolieva,,,0.0
+139587,2023-10-15T12:35Z,Transylvania Open powered by Kaufland,Ilona Georgiana Ghioroaie,Valeriya Strakhova,,,1.0
+139290,2023-10-16T09:10Z,Transylvania Open powered by Kaufland,Noma Noha Akugue,Rebeka Masarova,,,0.0
+139305,2023-10-16T09:10Z,Transylvania Open powered by Kaufland,Nikola Bartunkova,Dayana Yastremska,,,1.0
+139315,2023-10-16T10:45Z,Transylvania Open powered by Kaufland,Ekaterina Makarova,Kateryna Baindl,,,1.0
+139306,2023-10-16T13:20Z,Transylvania Open powered by Kaufland,Ankita Raina,Jodie Burrage,,,0.0
+139308,2023-10-16T15:00Z,Transylvania Open powered by Kaufland,Miriam Bulgaru,Ipek Oz,,,1.0
+139289,2023-10-16T17:15Z,Transylvania Open powered by Kaufland,Patricia Maria Tig,Martha Matoula,,,1.0
+139303,2023-10-17T09:10Z,Transylvania Open powered by Kaufland,Anna Bondar,Anastasiia Sobolieva,,,1.0
+139307,2023-10-17T09:10Z,Transylvania Open powered by Kaufland,Greet Minnen,Daria Snigur,,,0.0
+139312,2023-10-17T10:30Z,Transylvania Open powered by Kaufland,Anna-Lena Friedsam,Ilona Georgiana Ghioroaie,,,1.0
+139291,2023-10-17T11:30Z,Transylvania Open powered by Kaufland,Leolia Jeanjean,Tamara Korpatsch,,,0.0
+139304,2023-10-17T13:00Z,Transylvania Open powered by Kaufland,Ana Bogdan,Viktoriya Tomova,,,1.0
+139302,2023-10-17T14:05Z,Transylvania Open powered by Kaufland,Emiliana Arango,Jessika Ponchet,,,1.0
+139300,2023-10-17T15:10Z,Transylvania Open powered by Kaufland,Elena-Gabriela Ruse,Alycia Parks,,,1.0
+139297,2023-10-17T17:40Z,Transylvania Open powered by Kaufland,Sorana Cirstea,Eva Lys,,,0.0
+139295,2023-10-18T09:00Z,Transylvania Open powered by Kaufland,Daria Snigur,Anna-Lena Friedsam,,,1.0
+139299,2023-10-18T11:00Z,Transylvania Open powered by Kaufland,Yanina Wickmayer,Jil Teichmann,,,0.0
+139298,2023-10-18T13:00Z,Transylvania Open powered by Kaufland,Celine Naef,Jaqueline Cristian,,,0.0
+139296,2023-10-18T15:10Z,Transylvania Open powered by Kaufland,Miriam Bulgaru,Rebeka Masarova,,,0.0
+139294,2023-10-18T18:05Z,Transylvania Open powered by Kaufland,Patricia Maria Tig,Ekaterina Makarova,,,0.0
+139309,2023-10-19T09:05Z,Transylvania Open powered by Kaufland,Jil Teichmann,Emiliana Arango,,,0.0
+139292,2023-10-19T10:45Z,Transylvania Open powered by Kaufland,Tamara Korpatsch,Jodie Burrage,,,1.0
+139310,2023-10-19T13:15Z,Transylvania Open powered by Kaufland,Anna Bondar,Elena-Gabriela Ruse,,,0.0
+139293,2023-10-19T15:30Z,Transylvania Open powered by Kaufland,Ana Bogdan,Nikola Bartunkova,,,1.0
+139301,2023-10-19T19:00Z,Transylvania Open powered by Kaufland,Eva Lys,Jaqueline Cristian,,,1.0
+139316,2023-10-20T11:10Z,Transylvania Open powered by Kaufland,Daria Snigur,Tamara Korpatsch,,,0.0
+139313,2023-10-20T13:30Z,Transylvania Open powered by Kaufland,Emiliana Arango,Elena-Gabriela Ruse,,,0.0
+139314,2023-10-20T15:35Z,Transylvania Open powered by Kaufland,Eva Lys,Ekaterina Makarova,,,1.0
+139311,2023-10-20T17:05Z,Transylvania Open powered by Kaufland,Ana Bogdan,Rebeka Masarova,,,0.0
+139317,2023-10-21T12:05Z,Transylvania Open powered by Kaufland,Eva Lys,Tamara Korpatsch,,,0.0
+139318,2023-10-21T14:00Z,Transylvania Open powered by Kaufland,Rebeka Masarova,Elena-Gabriela Ruse,,,0.0
+139319,2023-10-22T14:35Z,Transylvania Open powered by Kaufland,Tamara Korpatsch,Elena-Gabriela Ruse,,,1.0
+139591,2023-10-14T10:00Z,Jasmin Open Tunisia,Chiraz Bechri,Natalija Stevanovic,,,0.0
+139593,2023-10-14T10:10Z,Jasmin Open Tunisia,Cagla Buyukakcay,Chloe Paquet,,,0.0
+139592,2023-10-14T10:10Z,Jasmin Open Tunisia,Katarina Zavatska,Despina Papamichail,,,1.0
+139597,2023-10-14T11:30Z,Jasmin Open Tunisia,Weronika Falkowska,Carole Monnet,,,0.0
+139596,2023-10-14T12:20Z,Jasmin Open Tunisia,Elsa Jacquemot,Irene Burillo,,,1.0
+139590,2023-10-14T12:55Z,Jasmin Open Tunisia,Sachia Vickery,Anna Siskova,,,1.0
+139595,2023-10-14T14:15Z,Jasmin Open Tunisia,Conny Perrin,Camilla Rosatello,,,0.0
+139594,2023-10-14T14:25Z,Jasmin Open Tunisia,Feryel Ben Hassen,Alexandra Eala,,,0.0
+139601,2023-10-15T10:10Z,Jasmin Open Tunisia,Sachia Vickery,Chloe Paquet,,,0.0
+139599,2023-10-15T10:10Z,Jasmin Open Tunisia,Katarina Zavatska,Natalija Stevanovic,,,1.0
+139600,2023-10-15T11:50Z,Jasmin Open Tunisia,Camilla Rosatello,Carole Monnet,,,1.0
+139598,2023-10-15T12:35Z,Jasmin Open Tunisia,Elsa Jacquemot,Alexandra Eala,,,0.0
+139243,2023-10-16T09:40Z,Jasmin Open Tunisia,Clara Burel,Cristina Bucsa,,,1.0
+139242,2023-10-16T11:00Z,Jasmin Open Tunisia,Laura Pigossi,Iryna Shymanovich,,,0.0
+139228,2023-10-16T14:00Z,Jasmin Open Tunisia,Anna Karolina Schmiedlova,Nadia Podoroska,,,0.0
+139232,2023-10-16T14:00Z,Jasmin Open Tunisia,Lucrezia Stefanini,Camilla Rosatello,,,1.0
+139230,2023-10-16T17:15Z,Jasmin Open Tunisia,Tamara Zidansek,Sara Errani,,,0.0
+139237,2023-10-17T09:40Z,Jasmin Open Tunisia,Kristina Kucova,Lucia Bronzetti,,,0.0
+139247,2023-10-17T09:40Z,Jasmin Open Tunisia,Katarina Zavatska,Jessica Bouzas Maneiro,,,1.0
+139249,2023-10-17T09:40Z,Jasmin Open Tunisia,Nuria Parrizas Diaz,Magdalena Frech,,,1.0
+139240,2023-10-17T11:00Z,Jasmin Open Tunisia,Claire Liu,Emina Bektas,,,1.0
+139231,2023-10-17T11:35Z,Jasmin Open Tunisia,Aliona Bolsova,Mai Hontama,,,0.0
+139239,2023-10-17T12:10Z,Jasmin Open Tunisia,Alexandra Eala,Elise Mertens,,,0.0
+139227,2023-10-17T12:30Z,Jasmin Open Tunisia,Marina Bassols Ribera,Petra Marcinko,,,0.0
+139245,2023-10-17T13:50Z,Jasmin Open Tunisia,Darja Semenistaja,Erika Andreeva,,,0.0
+139235,2023-10-17T14:10Z,Jasmin Open Tunisia,Katarzyna Kawa,Martina Trevisan,,,1.0
+139234,2023-10-17T16:40Z,Jasmin Open Tunisia,Jasmine Paolini,Alize Cornet,,,1.0
+139238,2023-10-17T18:15Z,Jasmin Open Tunisia,Lesia Tsurenko,Chloe Paquet,,,1.0
+139248,2023-10-18T09:40Z,Jasmin Open Tunisia,Sara Errani,Lucia Bronzetti,,,0.0
+139229,2023-10-18T11:40Z,Jasmin Open Tunisia,Iryna Shymanovich,Elise Mertens,,,0.0
+139236,2023-10-18T13:00Z,Jasmin Open Tunisia,Nadia Podoroska,Mai Hontama,,,0.0
+139233,2023-10-18T17:10Z,Jasmin Open Tunisia,Lucrezia Stefanini,Katarzyna Kawa,,,1.0
+139246,2023-10-19T09:35Z,Jasmin Open Tunisia,Clara Burel,Erika Andreeva,,,1.0
+139241,2023-10-19T12:30Z,Jasmin Open Tunisia,Jasmine Paolini,Petra Marcinko,,,1.0
+139244,2023-10-19T14:40Z,Jasmin Open Tunisia,Katarina Zavatska,Nuria Parrizas Diaz,,,0.0
+139250,2023-10-19T17:40Z,Jasmin Open Tunisia,Lesia Tsurenko,Claire Liu,,,1.0
+139253,2023-10-20T12:10Z,Jasmin Open Tunisia,Jasmine Paolini,Lucia Bronzetti,,,1.0
+139254,2023-10-20T14:20Z,Jasmin Open Tunisia,Lesia Tsurenko,Nuria Parrizas Diaz,,,1.0
+139252,2023-10-20T15:40Z,Jasmin Open Tunisia,Mai Hontama,Elise Mertens,,,0.0
+139251,2023-10-20T17:30Z,Jasmin Open Tunisia,Clara Burel,Lucrezia Stefanini,,,1.0
+139255,2023-10-21T13:10Z,Jasmin Open Tunisia,Jasmine Paolini,Lesia Tsurenko,,,1.0
+139256,2023-10-21T15:45Z,Jasmin Open Tunisia,Clara Burel,Elise Mertens,,,0.0
+139257,2023-10-22T13:05Z,Jasmin Open Tunisia,Jasmine Paolini,Elise Mertens,,,0.0
+139657,2023-10-21T16:10Z,Abierto Tampico,Fernanda Regalado Macias,Daniela Martinez Guerrero,,,0.0
+139656,2023-10-21T16:10Z,Abierto Tampico,Jessica Hinojosa Gomez,Alina Zolotareva,,,1.0
+139654,2023-10-21T17:40Z,Abierto Tampico,Jessie Aney,Daniela Schekaiban,,,1.0
+139322,2023-10-23T21:35Z,Abierto Tampico,Victoria Rodriguez,Alina Zolotareva,,,1.0
+139324,2023-10-23T21:35Z,Abierto Tampico,Elizabeth Mandlik,Peyton Stearns,,,1.0
+139331,2023-10-24T01:10Z,Abierto Tampico,Jessie Aney,Anna Kalinskaya,,,0.0
+139330,2023-10-24T01:10Z,Abierto Tampico,Heather Watson,Ann Li,,,0.0
+139325,2023-10-24T01:10Z,Abierto Tampico,Katrina Scott,Hailey Baptiste,,,0.0
+139329,2023-10-24T03:15Z,Abierto Tampico,Fernanda Contreras Gomez,Victoria Jimenez Kasintseva,,,1.0
+139332,2023-10-24T21:05Z,Abierto Tampico,Emiliana Arango,Daniela Martinez Guerrero,,,1.0
+139328,2023-10-24T21:05Z,Abierto Tampico,Katie Volynets,Ana Sofia Sanchez,,,1.0
+139335,2023-10-24T21:05Z,Abierto Tampico,Daniela Schekaiban,Anastasia Tikhonova,,,0.0
+139320,2023-10-24T22:00Z,Abierto Tampico,Katarina Kozarov,Carole Monnet,,,1.0
+139323,2023-10-24T22:10Z,Abierto Tampico,Renata Zarazua,Emina Bektas,,,0.0
+139327,2023-10-24T22:55Z,Abierto Tampico,Raluka Serban,Kamilla Rakhimova,,,0.0
+139321,2023-10-25T01:10Z,Abierto Tampico,Caroline Dolehide,Ashley Lahey,,,1.0
+139336,2023-10-25T01:30Z,Abierto Tampico,Panna Udvardy,Jessica Hinojosa Gomez,,,1.0
+139326,2023-10-25T01:45Z,Abierto Tampico,Jana Kolodynska,Varvara Lepchenko,,,0.0
+139341,2023-10-25T03:15Z,Abierto Tampico,Ajla Tomljanovic,Whitney Osuigwe,,,1.0
+139338,2023-10-26T20:15Z,Abierto Tampico,Varvara Lepchenko,Anna Kalinskaya,,,0.0
+139334,2023-10-26T20:15Z,Abierto Tampico,Ajla Tomljanovic,Emina Bektas,,,0.0
+139333,2023-10-26T20:15Z,Abierto Tampico,Caroline Dolehide,Victoria Rodriguez,,,1.0
+139339,2023-10-26T23:35Z,Abierto Tampico,Anastasia Tikhonova,Panna Udvardy,,,1.0
+139345,2023-10-27T00:25Z,Abierto Tampico,Ann Li,Elizabeth Mandlik,,,0.0
+139337,2023-10-27T00:55Z,Abierto Tampico,Katie Volynets,Hailey Baptiste,,,1.0
+139340,2023-10-27T01:15Z,Abierto Tampico,Katarina Kozarov,Kamilla Rakhimova,,,0.0
+139344,2023-10-27T18:00Z,Abierto Tampico,Emiliana Arango,Fernanda Contreras Gomez,,,0.0
+139347,2023-10-27T20:10Z,Abierto Tampico,Katie Volynets,Anna Kalinskaya,,,0.0
+139343,2023-10-27T20:10Z,Abierto Tampico,Anastasia Tikhonova,Kamilla Rakhimova,,,0.0
+139346,2023-10-27T22:30Z,Abierto Tampico,Fernanda Contreras Gomez,Elizabeth Mandlik,,,0.0
+139342,2023-10-28T01:05Z,Abierto Tampico,Caroline Dolehide,Emina Bektas,,,0.0
+139350,2023-10-28T23:10Z,Abierto Tampico,Emina Bektas,Kamilla Rakhimova,,,1.0
+139348,2023-10-29T01:55Z,Abierto Tampico,Anna Kalinskaya,Elizabeth Mandlik,,,1.0
+139349,2023-10-29T22:10Z,Abierto Tampico,Emina Bektas,Anna Kalinskaya,,,1.0
+139661,2023-10-24T07:10Z,WTA Elite Trophy,Madison Keys,Beatriz Haddad Maia,,,0.0
+139659,2023-10-24T09:10Z,WTA Elite Trophy,Barbora Krejcikova,Magda Linette,,,1.0
+139669,2023-10-24T11:10Z,WTA Elite Trophy,Veronika Kudermetova,Zhu Lin,,,0.0
+139662,2023-10-25T07:10Z,WTA Elite Trophy,Madison Keys,Caroline Garcia,,,0.0
+139658,2023-10-25T08:50Z,WTA Elite Trophy,Barbora Krejcikova,Daria Kasatkina,,,0.0
+139666,2023-10-25T11:20Z,WTA Elite Trophy,Zheng Qinwen,Donna Vekic,,,1.0
+139660,2023-10-26T07:10Z,WTA Elite Trophy,Daria Kasatkina,Magda Linette,,,1.0
+139665,2023-10-26T09:35Z,WTA Elite Trophy,Jelena Ostapenko,Donna Vekic,,,1.0
+139668,2023-10-26T11:55Z,WTA Elite Trophy,Liudmila Samsonova,Zhu Lin,,,1.0
+139663,2023-10-27T07:10Z,WTA Elite Trophy,Beatriz Haddad Maia,Caroline Garcia,,,1.0
+139667,2023-10-27T09:00Z,WTA Elite Trophy,Liudmila Samsonova,Veronika Kudermetova,,,0.0
+139664,2023-10-27T12:20Z,WTA Elite Trophy,Jelena Ostapenko,Zheng Qinwen,,,0.0
+139670,2023-10-28T06:10Z,WTA Elite Trophy,Daria Kasatkina,Beatriz Haddad Maia,,,0.0
+139671,2023-10-28T08:10Z,WTA Elite Trophy,Zhu Lin,Zheng Qinwen,,,0.0
+139721,2023-10-29T07:40Z,WTA Elite Trophy,Beatriz Haddad Maia,Zheng Qinwen,,,1.0
+139696,2023-10-29T22:10Z,WTA Finals,Elena Rybakina,Jessica Pegula,,,0.0
+139695,2023-10-30T00:05Z,WTA Finals,Aryna Sabalenka,Maria Sakkari,,,1.0
+139701,2023-10-30T22:10Z,WTA Finals,Iga Swiatek,Marketa Vondrousova,,,1.0
+139702,2023-10-31T01:10Z,WTA Finals,Coco Gauff,Ons Jabeur,,,1.0
+139694,2023-10-31T22:10Z,WTA Finals,Aryna Sabalenka,Jessica Pegula,,,0.0
+139697,2023-11-01T00:05Z,WTA Finals,Elena Rybakina,Maria Sakkari,,,1.0
+139699,2023-11-01T22:10Z,WTA Finals,Iga Swiatek,Coco Gauff,,,1.0
+139704,2023-11-02T00:00Z,WTA Finals,Ons Jabeur,Marketa Vondrousova,,,1.0
+139698,2023-11-02T23:25Z,WTA Finals,Jessica Pegula,Maria Sakkari,,,1.0
+139693,2023-11-03T20:15Z,WTA Finals,Aryna Sabalenka,Elena Rybakina,,,1.0
+139703,2023-11-03T21:40Z,WTA Finals,Coco Gauff,Marketa Vondrousova,,,1.0
+139700,2023-11-04T01:50Z,WTA Finals,Iga Swiatek,Ons Jabeur,,,1.0
+139909,2023-11-04T22:55Z,WTA Finals,Jessica Pegula,Coco Gauff,,,1.0
+139911,2023-11-05T23:10Z,WTA Finals,Aryna Sabalenka,Iga Swiatek,,,0.0
+139910,2023-11-06T21:45Z,WTA Finals,Jessica Pegula,Iga Swiatek,,,0.0
+139723,2023-10-29T14:10Z,Dow Tennis Classic,Tori Kinard,Chloe Beck,,,0.0
+139725,2023-10-29T14:10Z,Dow Tennis Classic,Dalayna Hewitt,Robin Anderson,,,0.0
+139722,2023-10-29T16:00Z,Dow Tennis Classic,Varvara Lepchenko,Grace Min,,,1.0
+139727,2023-10-29T16:05Z,Dow Tennis Classic,Victoria Jimenez Kasintseva,Elizabeth Coleman,,,1.0
+139726,2023-10-29T18:05Z,Dow Tennis Classic,Victoria Hu,Ashley Lahey,,,1.0
+139724,2023-10-29T18:10Z,Dow Tennis Classic,Jana Kolodynska,Catherine Harrison,,,1.0
+139728,2023-10-29T19:35Z,Dow Tennis Classic,Whitney Osuigwe,Louisa Chirico,,,0.0
+139729,2023-10-29T20:25Z,Dow Tennis Classic,Lulu Sun,Conny Perrin,,,1.0
+139733,2023-10-30T14:10Z,Dow Tennis Classic,Chloe Beck,Robin Anderson,,,0.0
+139732,2023-10-30T14:10Z,Dow Tennis Classic,Jana Kolodynska,Varvara Lepchenko,,,0.0
+139368,2023-10-30T15:40Z,Dow Tennis Classic,Iryna Shymanovich,Carole Monnet,,,0.0
+139731,2023-10-30T16:05Z,Dow Tennis Classic,Lulu Sun,Louisa Chirico,,,1.0
+139362,2023-10-30T17:00Z,Dow Tennis Classic,Ann Li,Alycia Parks,,,0.0
+139730,2023-10-30T17:25Z,Dow Tennis Classic,Victoria Jimenez Kasintseva,Victoria Hu,,,0.0
+139360,2023-10-30T20:20Z,Dow Tennis Classic,Sophie Chang,Yuliia Starodubtseva,,,0.0
+139351,2023-10-30T22:20Z,Dow Tennis Classic,Victoria Jimenez Kasintseva,Peyton Stearns,,,0.0
+139366,2023-10-31T14:00Z,Dow Tennis Classic,Katherine Sebov,Lulu Sun,,,1.0
+139359,2023-10-31T14:00Z,Dow Tennis Classic,Ashlyn Krueger,Varvara Lepchenko,,,1.0
+139372,2023-10-31T15:30Z,Dow Tennis Classic,Taylor Townsend,Raluka Serban,,,1.0
+139374,2023-10-31T17:15Z,Dow Tennis Classic,Katrina Scott,Renata Zarazua,,,1.0
+139354,2023-10-31T17:55Z,Dow Tennis Classic,Victoria Hu,Hailey Baptiste,,,0.0
+139361,2023-10-31T20:05Z,Dow Tennis Classic,Arianne Hartono,Jana Fett,,,0.0
+139373,2023-10-31T21:55Z,Dow Tennis Classic,Robin Anderson,Elvina Kalieva,,,1.0
+139364,2023-11-01T00:30Z,Dow Tennis Classic,Katie Volynets,Tatiana Prozorova,,,0.0
+139370,2023-11-01T16:10Z,Dow Tennis Classic,Emma Navarro,Chloe Beck,,,1.0
+139358,2023-11-01T16:10Z,Dow Tennis Classic,Rebecca Marino,Emiliana Arango,,,1.0
+139371,2023-11-01T17:30Z,Dow Tennis Classic,McCartney Kessler,Emina Bektas,,,0.0
+139353,2023-11-01T18:50Z,Dow Tennis Classic,Anna Kalinskaya,Heather Watson,,,1.0
+139369,2023-11-01T19:30Z,Dow Tennis Classic,Carole Monnet,Alycia Parks,,,0.0
+139367,2023-11-01T20:30Z,Dow Tennis Classic,Ashlyn Krueger,Katherine Sebov,,,0.0
+139365,2023-11-01T23:10Z,Dow Tennis Classic,Hailey Baptiste,Peyton Stearns,,,1.0
+139357,2023-11-01T23:30Z,Dow Tennis Classic,Taylor Townsend,Yuliia Starodubtseva,,,1.0
+139363,2023-11-02T16:10Z,Dow Tennis Classic,Tatiana Prozorova,Anna Kalinskaya,,,0.0
+139355,2023-11-02T18:10Z,Dow Tennis Classic,Jana Fett,Rebecca Marino,,,1.0
+139356,2023-11-02T20:20Z,Dow Tennis Classic,Katrina Scott,Emina Bektas,,,0.0
+139352,2023-11-02T23:15Z,Dow Tennis Classic,Emma Navarro,Robin Anderson,,,1.0
+139378,2023-11-03T16:30Z,Dow Tennis Classic,Taylor Townsend,Jana Fett,,,0.0
+139376,2023-11-03T18:10Z,Dow Tennis Classic,Anna Kalinskaya,Hailey Baptiste,,,1.0
+139377,2023-11-03T21:15Z,Dow Tennis Classic,Emma Navarro,Emina Bektas,,,1.0
+139375,2023-11-03T23:10Z,Dow Tennis Classic,Katherine Sebov,Alycia Parks,,,0.0
+139379,2023-11-04T18:10Z,Dow Tennis Classic,Emma Navarro,Jana Fett,,,0.0
+139380,2023-11-04T20:20Z,Dow Tennis Classic,Alycia Parks,Anna Kalinskaya,,,0.0
+139381,2023-11-05T19:10Z,Dow Tennis Classic,Jana Fett,Anna Kalinskaya,,,0.0

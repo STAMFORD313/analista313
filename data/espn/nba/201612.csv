@@ -1,0 +1,233 @@
+id,date,event,home,away,hs,as,res
+400899365,2016-12-02T00:00Z,Dallas Mavericks at Charlotte Hornets,Charlotte Hornets,Dallas Mavericks,97,87,1.0
+400899367,2016-12-02T00:30Z,Milwaukee Bucks at Brooklyn Nets,Brooklyn Nets,Milwaukee Bucks,93,111,0.0
+400899392,2016-12-02T01:00Z,Orlando Magic at Memphis Grizzlies,Memphis Grizzlies,Orlando Magic,95,94,1.0
+400899395,2016-12-02T01:00Z,LA Clippers at Cleveland Cavaliers,Cleveland Cavaliers,LA Clippers,94,113,0.0
+400899434,2016-12-02T02:00Z,Miami Heat at Utah Jazz,Utah Jazz,Miami Heat,110,111,0.0
+400899436,2016-12-02T03:30Z,Houston Rockets at Golden State Warriors,Golden State Warriors,Houston Rockets,127,132,0.0
+400899443,2016-12-03T00:00Z,Orlando Magic at Philadelphia 76ers,Philadelphia 76ers,Orlando Magic,88,105,0.0
+400899447,2016-12-03T00:30Z,Sacramento Kings at Boston Celtics,Boston Celtics,Sacramento Kings,97,92,1.0
+400899726,2016-12-03T00:30Z,Los Angeles Lakers at Toronto Raptors,Toronto Raptors,Los Angeles Lakers,113,80,1.0
+400899727,2016-12-03T00:30Z,Minnesota Timberwolves at New York Knicks,New York Knicks,Minnesota Timberwolves,118,114,1.0
+400899728,2016-12-03T01:00Z,Cleveland Cavaliers at Chicago Bulls,Chicago Bulls,Cleveland Cavaliers,111,105,1.0
+400899729,2016-12-03T01:00Z,LA Clippers at New Orleans Pelicans,New Orleans Pelicans,LA Clippers,96,114,0.0
+400899730,2016-12-03T01:00Z,Detroit Pistons at Atlanta Hawks,Atlanta Hawks,Detroit Pistons,85,121,0.0
+400899731,2016-12-03T01:30Z,Washington Wizards at San Antonio Spurs,San Antonio Spurs,Washington Wizards,107,105,1.0
+400899732,2016-12-03T03:30Z,Houston Rockets at Denver Nuggets,Denver Nuggets,Houston Rockets,110,128,0.0
+400899733,2016-12-03T22:00Z,Brooklyn Nets at Milwaukee Bucks,Milwaukee Bucks,Brooklyn Nets,112,103,1.0
+400899734,2016-12-04T00:00Z,Minnesota Timberwolves at Charlotte Hornets,Charlotte Hornets,Minnesota Timberwolves,120,125,0.0
+400899735,2016-12-04T00:30Z,Atlanta Hawks at Toronto Raptors,Toronto Raptors,Atlanta Hawks,128,84,1.0
+400899736,2016-12-04T00:30Z,Boston Celtics at Philadelphia 76ers,Philadelphia 76ers,Boston Celtics,106,107,0.0
+400899737,2016-12-04T01:00Z,Los Angeles Lakers at Memphis Grizzlies,Memphis Grizzlies,Los Angeles Lakers,103,100,1.0
+400899738,2016-12-04T01:30Z,Chicago Bulls at Dallas Mavericks,Dallas Mavericks,Chicago Bulls,107,82,1.0
+400899739,2016-12-04T02:00Z,Denver Nuggets at Utah Jazz,Utah Jazz,Denver Nuggets,105,98,1.0
+400899740,2016-12-04T03:00Z,Miami Heat at Portland Trail Blazers,Portland Trail Blazers,Miami Heat,99,92,1.0
+400899741,2016-12-04T03:30Z,Phoenix Suns at Golden State Warriors,Golden State Warriors,Phoenix Suns,138,109,1.0
+400899742,2016-12-04T23:00Z,Orlando Magic at Detroit Pistons,Detroit Pistons,Orlando Magic,92,98,0.0
+400899743,2016-12-05T00:00Z,New Orleans Pelicans at Oklahoma City Thunder,Oklahoma City Thunder,New Orleans Pelicans,101,92,1.0
+400899744,2016-12-05T00:30Z,Sacramento Kings at New York Knicks,New York Knicks,Sacramento Kings,106,98,1.0
+400899745,2016-12-05T02:30Z,Indiana Pacers at LA Clippers,LA Clippers,Indiana Pacers,102,111,0.0
+400899746,2016-12-06T00:00Z,Denver Nuggets at Philadelphia 76ers,Philadelphia 76ers,Denver Nuggets,98,106,0.0
+400899747,2016-12-06T00:30Z,Cleveland Cavaliers at Toronto Raptors,Toronto Raptors,Cleveland Cavaliers,112,116,0.0
+400899748,2016-12-06T00:30Z,Washington Wizards at Brooklyn Nets,Brooklyn Nets,Washington Wizards,113,118,0.0
+400899749,2016-12-06T00:30Z,Oklahoma City Thunder at Atlanta Hawks,Atlanta Hawks,Oklahoma City Thunder,99,102,0.0
+400899750,2016-12-06T01:00Z,Portland Trail Blazers at Chicago Bulls,Chicago Bulls,Portland Trail Blazers,110,112,0.0
+400899751,2016-12-06T01:00Z,San Antonio Spurs at Milwaukee Bucks,Milwaukee Bucks,San Antonio Spurs,96,97,0.0
+400899752,2016-12-06T01:00Z,Memphis Grizzlies at New Orleans Pelicans,New Orleans Pelicans,Memphis Grizzlies,108,110,0.0
+400899753,2016-12-06T01:00Z,Boston Celtics at Houston Rockets,Houston Rockets,Boston Celtics,107,106,1.0
+400899754,2016-12-06T01:30Z,Charlotte Hornets at Dallas Mavericks,Dallas Mavericks,Charlotte Hornets,101,109,0.0
+400899755,2016-12-06T03:30Z,Utah Jazz at Los Angeles Lakers,Los Angeles Lakers,Utah Jazz,101,107,0.0
+400899756,2016-12-06T03:30Z,Indiana Pacers at Golden State Warriors,Golden State Warriors,Indiana Pacers,142,106,1.0
+400899757,2016-12-07T00:00Z,Orlando Magic at Washington Wizards,Washington Wizards,Orlando Magic,116,124,0.0
+400899758,2016-12-07T00:30Z,New York Knicks at Miami Heat,Miami Heat,New York Knicks,103,114,0.0
+400899759,2016-12-07T00:30Z,Chicago Bulls at Detroit Pistons,Detroit Pistons,Chicago Bulls,102,91,1.0
+400899760,2016-12-07T01:00Z,Philadelphia 76ers at Memphis Grizzlies,Memphis Grizzlies,Philadelphia 76ers,96,91,1.0
+400899761,2016-12-07T01:00Z,San Antonio Spurs at Minnesota Timberwolves,Minnesota Timberwolves,San Antonio Spurs,91,105,0.0
+400899762,2016-12-07T02:00Z,Phoenix Suns at Utah Jazz,Utah Jazz,Phoenix Suns,112,105,1.0
+400899763,2016-12-08T00:00Z,Detroit Pistons at Charlotte Hornets,Charlotte Hornets,Detroit Pistons,87,77,1.0
+400899764,2016-12-08T00:00Z,Boston Celtics at Orlando Magic,Orlando Magic,Boston Celtics,87,117,0.0
+400899765,2016-12-08T00:30Z,Denver Nuggets at Brooklyn Nets,Brooklyn Nets,Denver Nuggets,116,111,1.0
+400899766,2016-12-08T00:30Z,Miami Heat at Atlanta Hawks,Atlanta Hawks,Miami Heat,103,95,1.0
+400899767,2016-12-08T01:00Z,Portland Trail Blazers at Milwaukee Bucks,Milwaukee Bucks,Portland Trail Blazers,115,107,1.0
+400899768,2016-12-08T01:00Z,Los Angeles Lakers at Houston Rockets,Houston Rockets,Los Angeles Lakers,134,95,1.0
+400899769,2016-12-08T01:00Z,Cleveland Cavaliers at New York Knicks,New York Knicks,Cleveland Cavaliers,94,126,0.0
+400899770,2016-12-08T01:30Z,Sacramento Kings at Dallas Mavericks,Dallas Mavericks,Sacramento Kings,89,120,0.0
+400899771,2016-12-08T02:00Z,Indiana Pacers at Phoenix Suns,Phoenix Suns,Indiana Pacers,94,109,0.0
+400899772,2016-12-08T03:30Z,Golden State Warriors at LA Clippers,LA Clippers,Golden State Warriors,98,115,0.0
+400899773,2016-12-09T00:00Z,Minnesota Timberwolves at Toronto Raptors,Toronto Raptors,Minnesota Timberwolves,124,110,1.0
+400899774,2016-12-09T00:00Z,Denver Nuggets at Washington Wizards,Washington Wizards,Denver Nuggets,92,85,1.0
+400899775,2016-12-09T01:00Z,Portland Trail Blazers at Memphis Grizzlies,Memphis Grizzlies,Portland Trail Blazers,88,86,1.0
+400899776,2016-12-09T01:00Z,Philadelphia 76ers at New Orleans Pelicans,New Orleans Pelicans,Philadelphia 76ers,88,99,0.0
+400899777,2016-12-09T02:00Z,Golden State Warriors at Utah Jazz,Utah Jazz,Golden State Warriors,99,106,0.0
+400899778,2016-12-09T02:30Z,San Antonio Spurs at Chicago Bulls,Chicago Bulls,San Antonio Spurs,95,91,1.0
+400899779,2016-12-10T00:00Z,Orlando Magic at Charlotte Hornets,Charlotte Hornets,Orlando Magic,109,88,1.0
+400899780,2016-12-10T00:30Z,Miami Heat at Cleveland Cavaliers,Cleveland Cavaliers,Miami Heat,114,84,1.0
+400899781,2016-12-10T00:30Z,Toronto Raptors at Boston Celtics,Boston Celtics,Toronto Raptors,94,101,0.0
+400899782,2016-12-10T01:00Z,Atlanta Hawks at Milwaukee Bucks,Milwaukee Bucks,Atlanta Hawks,110,114,0.0
+400899783,2016-12-10T01:00Z,Houston Rockets at Oklahoma City Thunder,Oklahoma City Thunder,Houston Rockets,99,102,0.0
+400899784,2016-12-10T01:00Z,Detroit Pistons at Minnesota Timberwolves,Minnesota Timberwolves,Detroit Pistons,90,117,0.0
+400899785,2016-12-10T01:30Z,Indiana Pacers at Dallas Mavericks,Dallas Mavericks,Indiana Pacers,111,103,1.0
+400899786,2016-12-10T03:30Z,Phoenix Suns at Los Angeles Lakers,Los Angeles Lakers,Phoenix Suns,115,119,0.0
+400899787,2016-12-10T03:30Z,New York Knicks at Sacramento Kings,Sacramento Kings,New York Knicks,100,103,0.0
+400899788,2016-12-11T00:00Z,Milwaukee Bucks at Washington Wizards,Washington Wizards,Milwaukee Bucks,110,105,1.0
+400899789,2016-12-11T00:00Z,Denver Nuggets at Orlando Magic,Orlando Magic,Denver Nuggets,113,121,0.0
+400899790,2016-12-11T00:00Z,Portland Trail Blazers at Indiana Pacers,Indiana Pacers,Portland Trail Blazers,118,111,1.0
+400899791,2016-12-11T00:30Z,Charlotte Hornets at Cleveland Cavaliers,Cleveland Cavaliers,Charlotte Hornets,116,105,1.0
+400899792,2016-12-11T01:00Z,Miami Heat at Chicago Bulls,Chicago Bulls,Miami Heat,105,100,1.0
+400899793,2016-12-11T01:00Z,Golden State Warriors at Memphis Grizzlies,Memphis Grizzlies,Golden State Warriors,110,89,1.0
+400899794,2016-12-11T01:00Z,Dallas Mavericks at Houston Rockets,Houston Rockets,Dallas Mavericks,109,87,1.0
+400899795,2016-12-11T01:30Z,Brooklyn Nets at San Antonio Spurs,San Antonio Spurs,Brooklyn Nets,130,101,1.0
+400899796,2016-12-11T02:00Z,Sacramento Kings at Utah Jazz,Utah Jazz,Sacramento Kings,104,84,1.0
+400899797,2016-12-11T03:30Z,New Orleans Pelicans at LA Clippers,LA Clippers,New Orleans Pelicans,133,105,1.0
+400899798,2016-12-11T23:00Z,Philadelphia 76ers at Detroit Pistons,Detroit Pistons,Philadelphia 76ers,79,97,0.0
+400899799,2016-12-12T00:00Z,Boston Celtics at Oklahoma City Thunder,Oklahoma City Thunder,Boston Celtics,99,96,1.0
+400899800,2016-12-12T00:00Z,Golden State Warriors at Minnesota Timberwolves,Minnesota Timberwolves,Golden State Warriors,108,116,0.0
+400899801,2016-12-12T01:30Z,New Orleans Pelicans at Phoenix Suns,Phoenix Suns,New Orleans Pelicans,119,120,0.0
+400899802,2016-12-12T02:30Z,New York Knicks at Los Angeles Lakers,Los Angeles Lakers,New York Knicks,112,118,0.0
+400899803,2016-12-13T00:00Z,Charlotte Hornets at Indiana Pacers,Indiana Pacers,Charlotte Hornets,110,94,1.0
+400899804,2016-12-13T00:30Z,Milwaukee Bucks at Toronto Raptors,Toronto Raptors,Milwaukee Bucks,122,100,1.0
+400899805,2016-12-13T00:30Z,Washington Wizards at Miami Heat,Miami Heat,Washington Wizards,112,101,1.0
+400899806,2016-12-13T01:00Z,Brooklyn Nets at Houston Rockets,Houston Rockets,Brooklyn Nets,122,118,1.0
+400899807,2016-12-13T01:30Z,Denver Nuggets at Dallas Mavericks,Dallas Mavericks,Denver Nuggets,112,92,1.0
+400899808,2016-12-13T03:30Z,Portland Trail Blazers at LA Clippers,LA Clippers,Portland Trail Blazers,121,120,1.0
+400899809,2016-12-13T03:30Z,Los Angeles Lakers at Sacramento Kings,Sacramento Kings,Los Angeles Lakers,116,92,1.0
+400899810,2016-12-14T00:00Z,Memphis Grizzlies at Cleveland Cavaliers,Cleveland Cavaliers,Memphis Grizzlies,103,86,1.0
+400899811,2016-12-14T00:30Z,Orlando Magic at Atlanta Hawks,Atlanta Hawks,Orlando Magic,120,131,0.0
+400899812,2016-12-14T01:00Z,Minnesota Timberwolves at Chicago Bulls,Chicago Bulls,Minnesota Timberwolves,94,99,0.0
+400899813,2016-12-14T01:00Z,Golden State Warriors at New Orleans Pelicans,New Orleans Pelicans,Golden State Warriors,109,113,0.0
+400899814,2016-12-14T02:00Z,New York Knicks at Phoenix Suns,Phoenix Suns,New York Knicks,113,111,1.0
+400899815,2016-12-14T03:30Z,Oklahoma City Thunder at Portland Trail Blazers,Portland Trail Blazers,Oklahoma City Thunder,114,95,1.0
+400899816,2016-12-15T00:00Z,Toronto Raptors at Philadelphia 76ers,Philadelphia 76ers,Toronto Raptors,114,123,0.0
+400899817,2016-12-15T00:00Z,Charlotte Hornets at Washington Wizards,Washington Wizards,Charlotte Hornets,109,106,1.0
+400899818,2016-12-15T00:00Z,LA Clippers at Orlando Magic,Orlando Magic,LA Clippers,108,113,0.0
+400899819,2016-12-15T00:00Z,Indiana Pacers at Miami Heat,Miami Heat,Indiana Pacers,95,89,1.0
+400899820,2016-12-15T00:30Z,Los Angeles Lakers at Brooklyn Nets,Brooklyn Nets,Los Angeles Lakers,107,97,1.0
+400899821,2016-12-15T01:00Z,Cleveland Cavaliers at Memphis Grizzlies,Memphis Grizzlies,Cleveland Cavaliers,93,85,1.0
+400899822,2016-12-15T01:00Z,Sacramento Kings at Houston Rockets,Houston Rockets,Sacramento Kings,132,98,1.0
+400899823,2016-12-15T01:30Z,Detroit Pistons at Dallas Mavericks,Dallas Mavericks,Detroit Pistons,85,95,0.0
+400899824,2016-12-15T02:00Z,Oklahoma City Thunder at Utah Jazz,Utah Jazz,Oklahoma City Thunder,109,89,1.0
+400899825,2016-12-15T02:30Z,Boston Celtics at San Antonio Spurs,San Antonio Spurs,Boston Celtics,108,101,1.0
+400899826,2016-12-16T01:00Z,Chicago Bulls at Milwaukee Bucks,Milwaukee Bucks,Chicago Bulls,108,97,1.0
+400899827,2016-12-16T01:00Z,Indiana Pacers at New Orleans Pelicans,New Orleans Pelicans,Indiana Pacers,102,95,1.0
+400899828,2016-12-16T02:00Z,Portland Trail Blazers at Denver Nuggets,Denver Nuggets,Portland Trail Blazers,132,120,1.0
+400899829,2016-12-16T02:00Z,San Antonio Spurs at Phoenix Suns,Phoenix Suns,San Antonio Spurs,92,107,0.0
+400899830,2016-12-16T03:30Z,New York Knicks at Golden State Warriors,Golden State Warriors,New York Knicks,103,90,1.0
+400899831,2016-12-17T00:00Z,Detroit Pistons at Washington Wizards,Washington Wizards,Detroit Pistons,122,108,1.0
+400899832,2016-12-17T00:00Z,Brooklyn Nets at Orlando Magic,Orlando Magic,Brooklyn Nets,118,111,1.0
+400899833,2016-12-17T00:30Z,Charlotte Hornets at Boston Celtics,Boston Celtics,Charlotte Hornets,96,88,1.0
+400899834,2016-12-17T00:30Z,Atlanta Hawks at Toronto Raptors,Toronto Raptors,Atlanta Hawks,121,125,0.0
+400899835,2016-12-17T01:00Z,Milwaukee Bucks at Chicago Bulls,Chicago Bulls,Milwaukee Bucks,69,95,0.0
+400899836,2016-12-17T01:00Z,Sacramento Kings at Memphis Grizzlies,Memphis Grizzlies,Sacramento Kings,92,96,0.0
+400899837,2016-12-17T01:00Z,New Orleans Pelicans at Houston Rockets,Houston Rockets,New Orleans Pelicans,122,100,1.0
+400899838,2016-12-17T01:00Z,Los Angeles Lakers at Philadelphia 76ers,Philadelphia 76ers,Los Angeles Lakers,89,100,0.0
+400899839,2016-12-17T01:00Z,LA Clippers at Miami Heat,Miami Heat,LA Clippers,98,102,0.0
+400899840,2016-12-17T03:30Z,Dallas Mavericks at Utah Jazz,Utah Jazz,Dallas Mavericks,103,100,1.0
+400899841,2016-12-17T22:00Z,Phoenix Suns at Oklahoma City Thunder,Oklahoma City Thunder,Phoenix Suns,114,101,1.0
+400899842,2016-12-18T00:00Z,Indiana Pacers at Detroit Pistons,Detroit Pistons,Indiana Pacers,90,105,0.0
+400899843,2016-12-18T00:30Z,Charlotte Hornets at Atlanta Hawks,Atlanta Hawks,Charlotte Hornets,99,107,0.0
+400899844,2016-12-18T00:30Z,Los Angeles Lakers at Cleveland Cavaliers,Cleveland Cavaliers,Los Angeles Lakers,119,108,1.0
+400899845,2016-12-18T01:00Z,Houston Rockets at Minnesota Timberwolves,Minnesota Timberwolves,Houston Rockets,109,111,0.0
+400899846,2016-12-18T02:00Z,New York Knicks at Denver Nuggets,Denver Nuggets,New York Knicks,127,114,1.0
+400899847,2016-12-18T03:30Z,Portland Trail Blazers at Golden State Warriors,Golden State Warriors,Portland Trail Blazers,135,90,1.0
+400899848,2016-12-18T20:30Z,LA Clippers at Washington Wizards,Washington Wizards,LA Clippers,117,110,1.0
+400899853,2016-12-18T21:00Z,Sacramento Kings at Dallas Mavericks,Dallas Mavericks,Sacramento Kings,99,79,1.0
+400899849,2016-12-18T23:00Z,Utah Jazz at Memphis Grizzlies,Memphis Grizzlies,Utah Jazz,73,82,0.0
+400899850,2016-12-18T23:00Z,Brooklyn Nets at Philadelphia 76ers,Philadelphia 76ers,Brooklyn Nets,108,107,1.0
+400899851,2016-12-18T23:00Z,Toronto Raptors at Orlando Magic,Orlando Magic,Toronto Raptors,79,109,0.0
+400899852,2016-12-18T23:00Z,Boston Celtics at Miami Heat,Miami Heat,Boston Celtics,95,105,0.0
+400899854,2016-12-19T00:00Z,New Orleans Pelicans at San Antonio Spurs,San Antonio Spurs,New Orleans Pelicans,113,100,1.0
+400899855,2016-12-20T00:00Z,Washington Wizards at Indiana Pacers,Indiana Pacers,Washington Wizards,107,105,1.0
+400899856,2016-12-20T01:00Z,Detroit Pistons at Chicago Bulls,Chicago Bulls,Detroit Pistons,113,82,1.0
+400899857,2016-12-20T01:00Z,Atlanta Hawks at Oklahoma City Thunder,Oklahoma City Thunder,Atlanta Hawks,108,110,0.0
+400899858,2016-12-20T01:00Z,Phoenix Suns at Minnesota Timberwolves,Minnesota Timberwolves,Phoenix Suns,115,108,1.0
+400899859,2016-12-20T02:00Z,Dallas Mavericks at Denver Nuggets,Denver Nuggets,Dallas Mavericks,117,107,1.0
+400899860,2016-12-21T00:00Z,New Orleans Pelicans at Philadelphia 76ers,Philadelphia 76ers,New Orleans Pelicans,93,108,0.0
+400899861,2016-12-21T00:00Z,Los Angeles Lakers at Charlotte Hornets,Charlotte Hornets,Los Angeles Lakers,117,113,1.0
+400899862,2016-12-21T00:30Z,Brooklyn Nets at Toronto Raptors,Toronto Raptors,Brooklyn Nets,116,104,1.0
+400899863,2016-12-21T00:30Z,Indiana Pacers at New York Knicks,New York Knicks,Indiana Pacers,118,111,1.0
+400899864,2016-12-21T00:30Z,Orlando Magic at Miami Heat,Miami Heat,Orlando Magic,130,136,0.0
+400899865,2016-12-21T01:00Z,Cleveland Cavaliers at Milwaukee Bucks,Milwaukee Bucks,Cleveland Cavaliers,108,114,0.0
+400899866,2016-12-21T01:00Z,Boston Celtics at Memphis Grizzlies,Memphis Grizzlies,Boston Celtics,109,112,0.0
+400899867,2016-12-21T01:00Z,San Antonio Spurs at Houston Rockets,Houston Rockets,San Antonio Spurs,100,102,0.0
+400899868,2016-12-21T03:30Z,Denver Nuggets at LA Clippers,LA Clippers,Denver Nuggets,119,102,1.0
+400899869,2016-12-21T03:30Z,Utah Jazz at Golden State Warriors,Golden State Warriors,Utah Jazz,104,74,1.0
+400899870,2016-12-21T03:30Z,Portland Trail Blazers at Sacramento Kings,Sacramento Kings,Portland Trail Blazers,126,121,1.0
+400899871,2016-12-22T00:00Z,Milwaukee Bucks at Cleveland Cavaliers,Cleveland Cavaliers,Milwaukee Bucks,113,102,1.0
+400899872,2016-12-22T00:30Z,Minnesota Timberwolves at Atlanta Hawks,Atlanta Hawks,Minnesota Timberwolves,84,92,0.0
+400899873,2016-12-22T00:30Z,Memphis Grizzlies at Detroit Pistons,Detroit Pistons,Memphis Grizzlies,86,98,0.0
+400899874,2016-12-22T01:00Z,Washington Wizards at Chicago Bulls,Chicago Bulls,Washington Wizards,97,107,0.0
+400899875,2016-12-22T01:00Z,Oklahoma City Thunder at New Orleans Pelicans,New Orleans Pelicans,Oklahoma City Thunder,110,121,0.0
+400899876,2016-12-22T02:00Z,Sacramento Kings at Utah Jazz,Utah Jazz,Sacramento Kings,93,94,0.0
+400899877,2016-12-22T02:00Z,Houston Rockets at Phoenix Suns,Phoenix Suns,Houston Rockets,111,125,0.0
+400899878,2016-12-22T03:00Z,Dallas Mavericks at Portland Trail Blazers,Portland Trail Blazers,Dallas Mavericks,95,96,0.0
+400899882,2016-12-23T00:00Z,Boston Celtics at Indiana Pacers,Indiana Pacers,Boston Celtics,102,109,0.0
+400899879,2016-12-23T00:30Z,Golden State Warriors at Brooklyn Nets,Brooklyn Nets,Golden State Warriors,101,117,0.0
+400899880,2016-12-23T00:30Z,Orlando Magic at New York Knicks,New York Knicks,Orlando Magic,106,95,1.0
+400899881,2016-12-23T01:00Z,Los Angeles Lakers at Miami Heat,Miami Heat,Los Angeles Lakers,115,107,1.0
+400899883,2016-12-23T03:30Z,San Antonio Spurs at LA Clippers,LA Clippers,San Antonio Spurs,106,101,1.0
+400899884,2016-12-24T00:00Z,Chicago Bulls at Charlotte Hornets,Charlotte Hornets,Chicago Bulls,103,91,1.0
+400899885,2016-12-24T00:00Z,Los Angeles Lakers at Orlando Magic,Orlando Magic,Los Angeles Lakers,109,90,1.0
+400899886,2016-12-24T00:30Z,Brooklyn Nets at Cleveland Cavaliers,Cleveland Cavaliers,Brooklyn Nets,119,99,1.0
+400899887,2016-12-24T00:30Z,Oklahoma City Thunder at Boston Celtics,Boston Celtics,Oklahoma City Thunder,112,117,0.0
+400899888,2016-12-24T00:30Z,Golden State Warriors at Detroit Pistons,Detroit Pistons,Golden State Warriors,113,119,0.0
+400899889,2016-12-24T01:00Z,Washington Wizards at Milwaukee Bucks,Milwaukee Bucks,Washington Wizards,123,96,1.0
+400899890,2016-12-24T01:00Z,Houston Rockets at Memphis Grizzlies,Memphis Grizzlies,Houston Rockets,115,109,1.0
+400899891,2016-12-24T01:00Z,Miami Heat at New Orleans Pelicans,New Orleans Pelicans,Miami Heat,91,87,1.0
+400899892,2016-12-24T01:00Z,Sacramento Kings at Minnesota Timberwolves,Minnesota Timberwolves,Sacramento Kings,105,109,0.0
+400899893,2016-12-24T02:00Z,Atlanta Hawks at Denver Nuggets,Denver Nuggets,Atlanta Hawks,108,109,0.0
+400899894,2016-12-24T02:00Z,Toronto Raptors at Utah Jazz,Utah Jazz,Toronto Raptors,98,104,0.0
+400899895,2016-12-24T02:00Z,Philadelphia 76ers at Phoenix Suns,Phoenix Suns,Philadelphia 76ers,123,116,1.0
+400899896,2016-12-24T03:00Z,San Antonio Spurs at Portland Trail Blazers,Portland Trail Blazers,San Antonio Spurs,90,110,0.0
+400899897,2016-12-24T03:30Z,Dallas Mavericks at LA Clippers,LA Clippers,Dallas Mavericks,88,90,0.0
+400899898,2016-12-25T17:00Z,Boston Celtics at New York Knicks,New York Knicks,Boston Celtics,114,119,0.0
+400899899,2016-12-25T19:30Z,Golden State Warriors at Cleveland Cavaliers,Cleveland Cavaliers,Golden State Warriors,109,108,1.0
+400899900,2016-12-25T22:18Z,Chicago Bulls at San Antonio Spurs,San Antonio Spurs,Chicago Bulls,119,100,1.0
+400899901,2016-12-26T01:00Z,Minnesota Timberwolves at Oklahoma City Thunder,Oklahoma City Thunder,Minnesota Timberwolves,112,100,1.0
+400899902,2016-12-26T03:30Z,LA Clippers at Los Angeles Lakers,Los Angeles Lakers,LA Clippers,111,102,1.0
+400899903,2016-12-27T00:00Z,Milwaukee Bucks at Washington Wizards,Washington Wizards,Milwaukee Bucks,107,102,1.0
+400899904,2016-12-27T00:00Z,Memphis Grizzlies at Orlando Magic,Orlando Magic,Memphis Grizzlies,112,102,1.0
+400899905,2016-12-27T00:30Z,Charlotte Hornets at Brooklyn Nets,Brooklyn Nets,Charlotte Hornets,120,118,1.0
+400899906,2016-12-27T00:30Z,Cleveland Cavaliers at Detroit Pistons,Detroit Pistons,Cleveland Cavaliers,106,90,1.0
+400899907,2016-12-27T01:00Z,Indiana Pacers at Chicago Bulls,Chicago Bulls,Indiana Pacers,90,85,1.0
+400899908,2016-12-27T01:00Z,Dallas Mavericks at New Orleans Pelicans,New Orleans Pelicans,Dallas Mavericks,111,104,1.0
+400899909,2016-12-27T01:00Z,Phoenix Suns at Houston Rockets,Houston Rockets,Phoenix Suns,131,115,1.0
+400899910,2016-12-27T01:00Z,Atlanta Hawks at Minnesota Timberwolves,Minnesota Timberwolves,Atlanta Hawks,104,90,1.0
+400899911,2016-12-27T03:00Z,Toronto Raptors at Portland Trail Blazers,Portland Trail Blazers,Toronto Raptors,91,95,0.0
+400899912,2016-12-27T03:30Z,Denver Nuggets at LA Clippers,LA Clippers,Denver Nuggets,102,106,0.0
+400899913,2016-12-27T03:30Z,Philadelphia 76ers at Sacramento Kings,Sacramento Kings,Philadelphia 76ers,102,100,1.0
+400899914,2016-12-28T00:30Z,Memphis Grizzlies at Boston Celtics,Boston Celtics,Memphis Grizzlies,113,103,1.0
+400899915,2016-12-28T00:30Z,Oklahoma City Thunder at Miami Heat,Miami Heat,Oklahoma City Thunder,94,106,0.0
+400899916,2016-12-28T01:30Z,Houston Rockets at Dallas Mavericks,Dallas Mavericks,Houston Rockets,107,123,0.0
+400899917,2016-12-28T03:30Z,Utah Jazz at Los Angeles Lakers,Los Angeles Lakers,Utah Jazz,100,102,0.0
+400899918,2016-12-29T00:00Z,Indiana Pacers at Washington Wizards,Washington Wizards,Indiana Pacers,111,105,1.0
+400899919,2016-12-29T00:00Z,Charlotte Hornets at Orlando Magic,Orlando Magic,Charlotte Hornets,101,120,0.0
+400899920,2016-12-29T00:30Z,New York Knicks at Atlanta Hawks,Atlanta Hawks,New York Knicks,102,98,1.0
+400899921,2016-12-29T00:30Z,Milwaukee Bucks at Detroit Pistons,Detroit Pistons,Milwaukee Bucks,94,119,0.0
+400899922,2016-12-29T01:00Z,Brooklyn Nets at Chicago Bulls,Chicago Bulls,Brooklyn Nets,101,99,1.0
+400899923,2016-12-29T01:00Z,LA Clippers at New Orleans Pelicans,New Orleans Pelicans,LA Clippers,102,98,1.0
+400899924,2016-12-29T01:30Z,Phoenix Suns at San Antonio Spurs,San Antonio Spurs,Phoenix Suns,119,98,1.0
+400899925,2016-12-29T02:00Z,Minnesota Timberwolves at Denver Nuggets,Denver Nuggets,Minnesota Timberwolves,105,103,1.0
+400899926,2016-12-29T03:00Z,Sacramento Kings at Portland Trail Blazers,Portland Trail Blazers,Sacramento Kings,102,89,1.0
+400899927,2016-12-29T03:30Z,Toronto Raptors at Golden State Warriors,Golden State Warriors,Toronto Raptors,121,111,1.0
+400899928,2016-12-30T00:00Z,Miami Heat at Charlotte Hornets,Charlotte Hornets,Miami Heat,91,82,1.0
+400899929,2016-12-30T01:00Z,Oklahoma City Thunder at Memphis Grizzlies,Memphis Grizzlies,Oklahoma City Thunder,114,80,1.0
+400899930,2016-12-30T01:00Z,Boston Celtics at Cleveland Cavaliers,Cleveland Cavaliers,Boston Celtics,124,118,1.0
+400899931,2016-12-30T02:00Z,Philadelphia 76ers at Utah Jazz,Utah Jazz,Philadelphia 76ers,100,83,1.0
+400899932,2016-12-30T02:00Z,Toronto Raptors at Phoenix Suns,Phoenix Suns,Toronto Raptors,99,91,1.0
+400899933,2016-12-30T03:30Z,Dallas Mavericks at Los Angeles Lakers,Los Angeles Lakers,Dallas Mavericks,89,101,0.0
+400899934,2016-12-30T21:00Z,Chicago Bulls at Indiana Pacers,Indiana Pacers,Chicago Bulls,111,101,1.0
+400899935,2016-12-31T00:00Z,Brooklyn Nets at Washington Wizards,Washington Wizards,Brooklyn Nets,118,95,1.0
+400899936,2016-12-31T00:30Z,Miami Heat at Boston Celtics,Boston Celtics,Miami Heat,117,114,1.0
+400899937,2016-12-31T01:00Z,New York Knicks at New Orleans Pelicans,New Orleans Pelicans,New York Knicks,104,92,1.0
+400899938,2016-12-31T01:00Z,LA Clippers at Houston Rockets,Houston Rockets,LA Clippers,140,116,1.0
+400899939,2016-12-31T01:00Z,Milwaukee Bucks at Minnesota Timberwolves,Minnesota Timberwolves,Milwaukee Bucks,116,99,1.0
+400899940,2016-12-31T01:00Z,Detroit Pistons at Atlanta Hawks,Atlanta Hawks,Detroit Pistons,105,98,1.0
+400899941,2016-12-31T01:30Z,Portland Trail Blazers at San Antonio Spurs,San Antonio Spurs,Portland Trail Blazers,110,94,1.0
+400899942,2016-12-31T02:00Z,Philadelphia 76ers at Denver Nuggets,Denver Nuggets,Philadelphia 76ers,122,124,0.0
+400899943,2016-12-31T03:30Z,Dallas Mavericks at Golden State Warriors,Golden State Warriors,Dallas Mavericks,108,99,1.0
+400899944,2016-12-31T22:00Z,Memphis Grizzlies at Sacramento Kings,Sacramento Kings,Memphis Grizzlies,98,112,0.0
+400899945,2017-01-01T00:00Z,Milwaukee Bucks at Chicago Bulls,Chicago Bulls,Milwaukee Bucks,96,116,0.0
+400899947,2017-01-01T00:00Z,Cleveland Cavaliers at Charlotte Hornets,Charlotte Hornets,Cleveland Cavaliers,109,121,0.0
+400899946,2017-01-01T01:00Z,New York Knicks at Houston Rockets,Houston Rockets,New York Knicks,129,122,1.0
+400899948,2017-01-01T01:00Z,Phoenix Suns at Utah Jazz,Utah Jazz,Phoenix Suns,91,86,1.0
+400899949,2017-01-01T01:00Z,LA Clippers at Oklahoma City Thunder,Oklahoma City Thunder,LA Clippers,114,88,1.0

@@ -1,0 +1,471 @@
+id,date,event,home,away,hs,as,res
+102300,2020-01-05T04:00Z,Shenzhen Open,Lesia Tsurenko,Elise Mertens,,,0.0
+102303,2020-01-05T05:45Z,Shenzhen Open,Sorana Cirstea,Wang Xiyu,,,0.0
+102299,2020-01-05T06:30Z,Shenzhen Open,Kateryna Volodko,Misaki Doi,,,1.0
+102295,2020-01-05T07:20Z,Shenzhen Open,Katerina Siniakova,Ekaterina Alexandrova,,,0.0
+102302,2020-01-05T07:45Z,Shenzhen Open,Zhang Shuai,Magda Linette,,,1.0
+102301,2020-01-05T09:00Z,Shenzhen Open,Sara Sorribes Tormo,Wang Yafan,,,0.0
+102307,2020-01-06T03:00Z,Shenzhen Open,Margarita Gasparyan,Aryna Sabalenka,,,0.5
+102296,2020-01-06T03:00Z,Shenzhen Open,Elena Rybakina,Zheng Saisai,,,0.5
+102291,2020-01-06T03:05Z,Shenzhen Open,Shelby Rogers,Nicole Gibbs,,,0.5
+102298,2020-01-06T04:30Z,Shenzhen Open,Wang Xinyu,Garbine Muguruza,,,0.5
+102306,2020-01-06T05:15Z,Shenzhen Open,Kristyna Pliskova,Irina-Camelia Begu,,,0.5
+102293,2020-01-06T05:50Z,Shenzhen Open,Aliaksandra Sasnovich,Anna-Lena Friedsam,,,0.5
+102294,2020-01-06T06:20Z,Shenzhen Open,Wang Qiang,Ons Jabeur,,,0.5
+102297,2020-01-06T06:45Z,Shenzhen Open,Peng Shuai,Zhu Lin,,,0.5
+102290,2020-01-07T03:00Z,Shenzhen Open,Belinda Bencic,Anna Blinkova,,,0.5
+102292,2020-01-07T03:05Z,Shenzhen Open,Duan Yingying,Zarina Diyas,,,0.5
+102309,2020-01-07T04:30Z,Shenzhen Open,Zhang Shuai,Kateryna Volodko,,,0.5
+102313,2020-01-07T05:10Z,Shenzhen Open,Kristyna Pliskova,Aryna Sabalenka,,,0.5
+102314,2020-01-07T06:55Z,Shenzhen Open,Wang Xiyu,Elise Mertens,,,0.5
+102311,2020-01-07T08:35Z,Shenzhen Open,Elena Rybakina,Wang Yafan,,,1.0
+102305,2020-01-08T03:05Z,Shenzhen Open,Anna Blinkova,Zarina Diyas,,,0.0
+102308,2020-01-08T03:05Z,Shenzhen Open,Shelby Rogers,Garbine Muguruza,,,0.0
+102315,2020-01-08T04:45Z,Shenzhen Open,Peng Shuai,Ekaterina Alexandrova,,,0.0
+102304,2020-01-08T06:25Z,Shenzhen Open,Wang Qiang,Aliaksandra Sasnovich,,,1.0
+102310,2020-01-09T03:05Z,Shenzhen Open,Zarina Diyas,Garbine Muguruza,,,0.0
+102312,2020-01-09T05:30Z,Shenzhen Open,Wang Qiang,Ekaterina Alexandrova,,,0.0
+102316,2020-01-09T07:50Z,Shenzhen Open,Elena Rybakina,Elise Mertens,,,1.0
+102318,2020-01-09T10:10Z,Shenzhen Open,Kateryna Volodko,Kristyna Pliskova,,,0.0
+102317,2020-01-10T05:00Z,Shenzhen Open,Garbine Muguruza,Ekaterina Alexandrova,,,0.0
+102320,2020-01-10T06:35Z,Shenzhen Open,Elena Rybakina,Kristyna Pliskova,,,1.0
+102319,2020-01-11T05:00Z,Shenzhen Open,Ekaterina Alexandrova,Elena Rybakina,,,1.0
+123996,2020-01-04T05:30Z,Brisbane International,Anna Karolina Schmiedlova,Viktoriya Tomova,,,1.0
+124003,2020-01-05T04:00Z,Brisbane International,Anna Karolina Schmiedlova,Marta Kostyuk,,,0.0
+102272,2020-01-06T04:05Z,Brisbane International,Johanna Konta,Barbora Strycova,,,0.5
+102268,2020-01-06T04:45Z,Brisbane International,Sofia Kenin,Anastasija Sevastova,,,0.5
+102261,2020-01-06T06:35Z,Brisbane International,Samantha Stosur,Angelique Kerber,,,0.5
+102269,2020-01-06T06:35Z,Brisbane International,Alison Riske-Amritraj,Karolina Muchova,,,0.5
+102270,2020-01-06T08:05Z,Brisbane International,Ajla Tomljanovic,Priscilla Hon,,,0.5
+102264,2020-01-06T08:50Z,Brisbane International,Elina Svitolina,Danielle Collins,,,0.5
+102262,2020-01-07T01:00Z,Brisbane International,Sloane Stephens,Liudmila Samsonova,,,0.5
+102267,2020-01-07T01:00Z,Brisbane International,Marie Bouzkova,Madison Keys,,,0.5
+102260,2020-01-07T02:20Z,Brisbane International,Donna Vekic,Yulia Putintseva,,,0.5
+102271,2020-01-07T03:25Z,Brisbane International,Maria Sakkari,Naomi Osaka,,,0.5
+102288,2020-01-07T05:00Z,Brisbane International,TBD,Karolina Pliskova,,,0.0
+102285,2020-01-07T05:00Z,Brisbane International,Ashleigh Barty,TBD,,,1.0
+102265,2020-01-07T05:05Z,Brisbane International,Anett Kontaveit,Su-Wei Hsieh,,,0.5
+102266,2020-01-07T05:55Z,Brisbane International,Kiki Bertens,Dayana Yastremska,,,0.5
+102263,2020-01-07T08:10Z,Brisbane International,Anastasia Pavlyuchenkova,Petra Kvitova,,,0.0
+102259,2020-01-07T10:15Z,Brisbane International,Maria Sharapova,Jennifer Brady,,,0.0
+102274,2020-01-08T01:05Z,Brisbane International,Barbora Strycova,Alison Riske-Amritraj,,,0.0
+102273,2020-01-08T03:00Z,Brisbane International,Danielle Collins,Yulia Putintseva,,,1.0
+102276,2020-01-08T04:10Z,Brisbane International,Samantha Stosur,Madison Keys,,,0.0
+102286,2020-01-09T01:00Z,Brisbane International,Ashleigh Barty,Jennifer Brady,,,0.0
+102289,2020-01-09T02:55Z,Brisbane International,Ajla Tomljanovic,Karolina Pliskova,,,0.0
+102277,2020-01-09T05:15Z,Brisbane International,Liudmila Samsonova,Petra Kvitova,,,0.0
+102278,2020-01-09T09:00Z,Brisbane International,Sofia Kenin,Naomi Osaka,,,0.0
+102275,2020-01-09T11:45Z,Brisbane International,Kiki Bertens,Anett Kontaveit,,,1.0
+102284,2020-01-10T01:00Z,Brisbane International,Danielle Collins,Madison Keys,,,0.0
+102281,2020-01-10T02:25Z,Brisbane International,Jennifer Brady,Petra Kvitova,,,0.0
+102282,2020-01-10T04:35Z,Brisbane International,Kiki Bertens,Naomi Osaka,,,0.0
+102279,2020-01-10T09:00Z,Brisbane International,Alison Riske-Amritraj,Karolina Pliskova,,,0.0
+122114,2020-01-10T09:05Z,Brisbane International,Alison Riske-Amritraj,Karolina Pliskova,,,0.0
+102283,2020-01-11T04:20Z,Brisbane International,Petra Kvitova,Madison Keys,,,0.0
+102280,2020-01-11T06:40Z,Brisbane International,Naomi Osaka,Karolina Pliskova,,,0.0
+102287,2020-01-12T04:10Z,Brisbane International,Madison Keys,Karolina Pliskova,,,0.0
+102234,2020-01-06T01:55Z,ASB Classic 2020,Carla Suarez Navarro,Daria Kasatkina,,,0.5
+102240,2020-01-06T02:00Z,ASB Classic 2020,Catherine Bellis,Jessica Pegula,,,0.5
+102236,2020-01-06T02:05Z,ASB Classic 2020,Taylor Townsend,Caroline Garcia,,,0.5
+102243,2020-01-06T03:15Z,ASB Classic 2020,Rebecca Peterson,Tamara Zidansek,,,0.5
+102239,2020-01-06T04:00Z,ASB Classic 2020,Jil Teichmann,Valentina Ivanov,,,0.5
+102229,2020-01-06T04:55Z,ASB Classic 2020,Coco Gauff,Viktoria Hruncakova,,,0.5
+102232,2020-01-06T07:45Z,ASB Classic 2020,Eugenie Bouchard,Kirsten Flipkens,,,0.5
+102242,2020-01-07T01:00Z,ASB Classic 2020,Alize Cornet,Ysaline Bonaventure,,,1.0
+102241,2020-01-07T01:00Z,ASB Classic 2020,Alison Van Uytvanck,Petra Martic,,,0.5
+102231,2020-01-07T02:00Z,ASB Classic 2020,Amanda Anisimova,Kateryna Baindl,,,0.5
+102228,2020-01-07T03:40Z,ASB Classic 2020,Serena Williams,Svetlana Kuznetsova,,,0.5
+102233,2020-01-07T04:00Z,ASB Classic 2020,Laura Siegemund,Alison Van Uytvanck,,,0.5
+102230,2020-01-07T05:00Z,ASB Classic 2020,Christina McHale,Ann Li,,,1.0
+102238,2020-01-07T05:05Z,ASB Classic 2020,Caroline Wozniacki,Paige Mary Hourigan,,,0.5
+102237,2020-01-07T05:35Z,ASB Classic 2020,Lauren Davis,Varvara Lepchenko,,,1.0
+102235,2020-01-07T06:15Z,ASB Classic 2020,Greet Minnen,Julia Goerges,,,0.0
+102252,2020-01-07T23:00Z,ASB Classic 2020,Alize Cornet,Petra Martic,,,1.0
+102250,2020-01-07T23:05Z,ASB Classic 2020,Tamara Zidansek,Jessica Pegula,,,0.0
+102245,2020-01-08T01:35Z,ASB Classic 2020,Eugenie Bouchard,Caroline Garcia,,,1.0
+102246,2020-01-08T07:20Z,ASB Classic 2020,Amanda Anisimova,Daria Kasatkina,,,1.0
+102248,2020-01-08T23:05Z,ASB Classic 2020,Coco Gauff,Laura Siegemund,,,0.0
+102247,2020-01-09T01:35Z,ASB Classic 2020,Serena Williams,Christina McHale,,,1.0
+102249,2020-01-09T03:50Z,ASB Classic 2020,Jil Teichmann,Julia Goerges,,,0.0
+102244,2020-01-09T06:05Z,ASB Classic 2020,Caroline Wozniacki,Lauren Davis,,,1.0
+102255,2020-01-09T23:00Z,ASB Classic 2020,Jessica Pegula,Alize Cornet,,,1.0
+102251,2020-01-10T00:20Z,ASB Classic 2020,Serena Williams,Laura Siegemund,,,1.0
+102254,2020-01-10T02:35Z,ASB Classic 2020,Caroline Wozniacki,Julia Goerges,,,1.0
+102253,2020-01-10T06:05Z,ASB Classic 2020,Amanda Anisimova,Eugenie Bouchard,,,1.0
+102256,2020-01-11T02:00Z,ASB Classic 2020,Caroline Wozniacki,Jessica Pegula,,,0.0
+102258,2020-01-11T04:15Z,ASB Classic 2020,Serena Williams,Amanda Anisimova,,,1.0
+102257,2020-01-12T04:05Z,ASB Classic 2020,Serena Williams,Jessica Pegula,,,1.0
+123698,2020-01-10T23:30Z,ASB Classic 2020,Thiago Monteiro,Ajeet Rai,,,1.0
+118839,2020-01-11T01:00Z,ASB Classic 2020,Kiranpal Pannu,Vasek Pospisil,,,0.0
+123683,2020-01-11T22:00Z,ASB Classic 2020,Thiago Monteiro,Leonardo Mayer,,,1.0
+122869,2020-01-11T23:30Z,ASB Classic 2020,Holger Rune,Vasek Pospisil,,,0.0
+123719,2020-01-15T03:05Z,ASB Classic 2020,Thiago Monteiro,Benoit Paire,,,0.0
+122225,2020-01-12T03:30Z,Adelaide International,Taylor Fritz,Alexander Bublik,,,0.0
+102518,2020-01-12T04:25Z,Adelaide International,Taylor Fritz,Alexander Bublik,,,0.0
+102513,2020-01-12T06:20Z,Adelaide International,Pablo Cuevas,Reilly Opelka,,,1.0
+102512,2020-01-12T08:00Z,Adelaide International,Alexei Popyrin,Laslo Djere,,,0.0
+102510,2020-01-13T00:35Z,Adelaide International,Gilles Simon,Jeremy Chardy,,,0.0
+102514,2020-01-13T02:50Z,Adelaide International,Juan Ignacio Londero,Daniel Evans,,,0.0
+123266,2020-01-13T03:00Z,Adelaide International,Lloyd Harris,Cristian Garin,,,1.0
+102511,2020-01-13T04:05Z,Adelaide International,Lloyd Harris,Cristian Garin,,,1.0
+102516,2020-01-13T04:30Z,Adelaide International,Sam Querrey,Gregoire Barrere,,,1.0
+102519,2020-01-13T08:00Z,Adelaide International,Federico Delbonis,James Duckworth,,,0.0
+102507,2020-01-14T00:30Z,Adelaide International,Aljaz Bedene,Tommy Paul,,,0.0
+102526,2020-01-14T02:05Z,Adelaide International,Alexander Bublik,Daniel Evans,,,0.0
+123237,2020-01-14T03:30Z,Adelaide International,Albert Ramos-Vinolas,Jordan Thompson,,,1.0
+102508,2020-01-14T04:30Z,Adelaide International,Albert Ramos-Vinolas,Jordan Thompson,,,1.0
+102517,2020-01-14T08:10Z,Adelaide International,Jan-Lennard Struff,Salvatore Caruso,,,1.0
+102521,2020-01-14T10:05Z,Adelaide International,Stephane Robert,Alex Bolt,,,0.0
+102529,2020-01-15T00:35Z,Adelaide International,Sam Querrey,Andrey Rublev,,,0.0
+102527,2020-01-15T00:35Z,Adelaide International,Laslo Djere,Lloyd Harris,,,0.0
+102524,2020-01-15T02:45Z,Adelaide International,Tommy Paul,Pablo Cuevas,,,1.0
+102520,2020-01-15T02:50Z,Adelaide International,Pablo Carreno Busta,Jeremy Chardy,,,1.0
+102522,2020-01-15T04:25Z,Adelaide International,Jaume Munar,Albert Ramos-Vinolas,,,0.0
+102525,2020-01-15T06:50Z,Adelaide International,Jan-Lennard Struff,Alex Bolt,,,0.0
+102528,2020-01-15T08:00Z,Adelaide International,James Duckworth,Felix Auger-Aliassime,,,0.0
+102531,2020-01-16T02:50Z,Adelaide International,Pablo Carreno Busta,Lloyd Harris,,,0.0
+123156,2020-01-16T03:30Z,Adelaide International,Albert Ramos-Vinolas,Tommy Paul,,,0.0
+102533,2020-01-16T04:00Z,Adelaide International,Daniel Evans,Andrey Rublev,,,0.0
+102532,2020-01-16T04:15Z,Adelaide International,Albert Ramos-Vinolas,Tommy Paul,,,0.0
+102530,2020-01-16T09:45Z,Adelaide International,Alex Bolt,Felix Auger-Aliassime,,,0.0
+102536,2020-01-17T02:40Z,Adelaide International,Tommy Paul,Lloyd Harris,,,0.0
+102534,2020-01-17T10:15Z,Adelaide International,Andrey Rublev,Felix Auger-Aliassime,,,1.0
+123280,2020-01-18T08:15Z,Adelaide International,Lloyd Harris,Andrey Rublev,,,0.0
+102535,2020-01-18T08:15Z,Adelaide International,Lloyd Harris,Andrey Rublev,,,0.0
+102538,2020-01-13T00:30Z,Adelaide International,Anastasia Pavlyuchenkova,Anett Kontaveit,,,1.0
+102554,2020-01-13T00:35Z,Adelaide International,Yulia Putintseva,Ajla Tomljanovic,,,0.0
+102548,2020-01-13T00:35Z,Adelaide International,Anastasija Sevastova,Donna Vekic,,,0.0
+102543,2020-01-13T02:25Z,Adelaide International,Belinda Bencic,Daria Kasatkina,,,1.0
+102540,2020-01-13T02:50Z,Adelaide International,Danielle Collins,Aliaksandra Sasnovich,,,1.0
+102541,2020-01-13T04:10Z,Adelaide International,Viktorija Golubic,Sofia Kenin,,,0.0
+102545,2020-01-13T05:25Z,Adelaide International,Dayana Yastremska,Timea Babos,,,1.0
+102549,2020-01-13T09:30Z,Adelaide International,Wang Qiang,Angelique Kerber,,,0.0
+102537,2020-01-14T00:30Z,Adelaide International,Arina Rodionova,Sloane Stephens,,,1.0
+102547,2020-01-14T00:30Z,Adelaide International,Vitalia Diatchenko,Maria Sakkari,,,0.0
+102552,2020-01-14T02:00Z,Adelaide International,Ashleigh Barty,Anastasia Pavlyuchenkova,,,1.0
+102544,2020-01-14T02:15Z,Adelaide International,Tatjana Maria,Marketa Vondrousova,,,0.0
+102555,2020-01-14T03:30Z,Adelaide International,Bernarda Pera,Barbora Strycova,,,1.0
+102542,2020-01-14T03:35Z,Adelaide International,Julia Goerges,Priscilla Hon,,,1.0
+102546,2020-01-14T05:40Z,Adelaide International,Aryna Sabalenka,Su-Wei Hsieh,,,1.0
+102559,2020-01-14T08:00Z,Adelaide International,Ajla Tomljanovic,Simona Halep,,,0.0
+102561,2020-01-15T00:30Z,Adelaide International,Maria Sakkari,Donna Vekic,,,0.0
+102558,2020-01-15T02:35Z,Adelaide International,Dayana Yastremska,Angelique Kerber,,,1.0
+102557,2020-01-15T03:55Z,Adelaide International,Danielle Collins,Sofia Kenin,,,1.0
+102560,2020-01-15T06:40Z,Adelaide International,Aryna Sabalenka,Bernarda Pera,,,1.0
+102551,2020-01-15T08:15Z,Adelaide International,Arina Rodionova,Marketa Vondrousova,,,0.0
+102553,2020-01-15T10:00Z,Adelaide International,Belinda Bencic,Julia Goerges,,,1.0
+102562,2020-01-16T00:30Z,Adelaide International,Donna Vekic,Dayana Yastremska,,,0.0
+102565,2020-01-16T02:30Z,Adelaide International,Aryna Sabalenka,Simona Halep,,,1.0
+102563,2020-01-16T05:50Z,Adelaide International,Belinda Bencic,Danielle Collins,,,0.0
+102556,2020-01-16T08:05Z,Adelaide International,Ashleigh Barty,Marketa Vondrousova,,,1.0
+102564,2020-01-17T00:35Z,Adelaide International,Dayana Yastremska,Aryna Sabalenka,,,1.0
+102566,2020-01-17T08:00Z,Adelaide International,Ashleigh Barty,Danielle Collins,,,1.0
+102596,2020-01-18T06:20Z,Adelaide International,Ashleigh Barty,Dayana Yastremska,,,1.0
+102579,2020-01-13T00:00Z,Hobart International,Kateryna Baindl,Sara Sorribes Tormo,,,1.0
+102576,2020-01-13T01:00Z,Hobart International,Astra Sharma,Lauren Davis,,,0.0
+102568,2020-01-13T01:40Z,Hobart International,Jil Teichmann,Heather Watson,,,0.0
+102567,2020-01-13T03:50Z,Hobart International,Fiona Ferro,Rebecca Peterson,,,1.0
+102578,2020-01-13T05:10Z,Hobart International,Magda Linette,Svetlana Kuznetsova,,,1.0
+102570,2020-01-13T07:10Z,Hobart International,Zhu Lin,Viktoria Hruncakova,,,0.0
+102577,2020-01-13T07:30Z,Hobart International,Veronika Kudermetova,Samantha Stosur,,,1.0
+102574,2020-01-13T08:50Z,Hobart International,Nina Stojanovic,Kristyna Pliskova,,,0.0
+102583,2020-01-14T00:00Z,Hobart International,Catherine Bellis,Marie Bouzkova,,,1.0
+102580,2020-01-14T00:00Z,Hobart International,Anna Blinkova,Ons Jabeur,,,0.0
+102572,2020-01-14T01:00Z,Hobart International,Lizette Cabrera,Caroline Garcia,,,1.0
+102571,2020-01-14T03:05Z,Hobart International,Alison Van Uytvanck,Alize Cornet,,,0.0
+102575,2020-01-14T03:20Z,Hobart International,Kirsten Flipkens,Zhang Shuai,,,0.0
+102584,2020-01-14T05:50Z,Hobart International,Wang Yafan,Garbine Muguruza,,,0.0
+102569,2020-01-14T07:50Z,Hobart International,Elise Mertens,Christina McHale,,,1.0
+102573,2020-01-14T09:05Z,Hobart International,Elena Rybakina,Tamara Zidansek,,,1.0
+102588,2020-01-15T00:00Z,Hobart International,Veronika Kudermetova,Catherine Bellis,,,1.0
+102589,2020-01-15T01:00Z,Hobart International,Kristyna Pliskova,Lizette Cabrera,,,0.0
+102585,2020-01-15T01:55Z,Hobart International,Magda Linette,Lauren Davis,,,0.0
+102587,2020-01-15T03:20Z,Hobart International,Ons Jabeur,Garbine Muguruza,,,0.0
+102590,2020-01-15T04:00Z,Hobart International,Kateryna Baindl,Zhang Shuai,,,0.0
+102586,2020-01-15T08:25Z,Hobart International,Elena Rybakina,Alize Cornet,,,1.0
+102582,2020-01-15T08:35Z,Hobart International,Heather Watson,Fiona Ferro,,,1.0
+102581,2020-01-15T10:10Z,Hobart International,Elise Mertens,Viktoria Hruncakova,,,1.0
+102594,2020-01-16T02:45Z,Hobart International,Lauren Davis,Zhang Shuai,,,0.0
+102593,2020-01-16T04:30Z,Hobart International,Elise Mertens,Heather Watson,,,0.0
+102592,2020-01-16T05:00Z,Hobart International,Veronika Kudermetova,Garbine Muguruza,,,1.0
+102591,2020-01-16T09:25Z,Hobart International,Elena Rybakina,Lizette Cabrera,,,1.0
+102597,2020-01-17T05:30Z,Hobart International,Zhang Shuai,Veronika Kudermetova,,,1.0
+102595,2020-01-17T06:55Z,Hobart International,Heather Watson,Elena Rybakina,,,0.0
+102598,2020-01-18T02:00Z,Hobart International,Elena Rybakina,Zhang Shuai,,,1.0
+122900,2020-01-14T02:00Z,Australian Open,Pedro Martinez,Julian Lenz,,,1.0
+123751,2020-01-14T04:00Z,Australian Open,Daniel Elahi Galan,Filippo Baldi,,,1.0
+117922,2020-01-14T06:25Z,Australian Open,Bernabe Zapata Miralles,Alejandro Tabilo,,,0.0
+129788,2020-01-15T02:05Z,Australian Open,Ernesto Escobedo,Mitchell Krueger,,,1.0
+122941,2020-01-16T05:15Z,Australian Open,Pedro Martinez,Juan Pablo Varillas,,,1.0
+123744,2020-01-16T08:00Z,Australian Open,Daniel Elahi Galan,Jason Jung,,,1.0
+117672,2020-01-18T03:00Z,Australian Open,Elliot Benchetrit,Dmitry Popko,,,1.0
+102680,2020-01-20T00:05Z,Australian Open,Mohamed Safwat,Gregoire Barrere,,,0.0
+102682,2020-01-20T00:05Z,Australian Open,Sam Querrey,Borna Coric,,,1.0
+102713,2020-01-20T00:05Z,Australian Open,Yoshihito Nishioka,Laslo Djere,,,1.0
+102714,2020-01-20T00:05Z,Australian Open,Daniel Evans,Mackenzie McDonald,,,1.0
+123518,2020-01-20T00:05Z,Australian Open,Roberto Carballes Baena,Ricardas Berankis,,,0.0
+102669,2020-01-20T00:10Z,Australian Open,Matteo Berrettini,Andrew Harris,,,1.0
+102681,2020-01-20T00:10Z,Australian Open,Guido Pella,John-Patrick Smith,,,1.0
+102683,2020-01-20T00:10Z,Australian Open,Roberto Carballes Baena,Ricardas Berankis,,,0.0
+102692,2020-01-20T00:10Z,Australian Open,Denis Shapovalov,Marton Fucsovics,,,0.0
+102695,2020-01-20T03:20Z,Australian Open,Steve Johnson,Roger Federer,,,0.0
+102689,2020-01-20T04:20Z,Australian Open,Juan Ignacio Londero,Grigor Dimitrov,,,0.0
+102694,2020-01-20T08:10Z,Australian Open,Stefanos Tsitsipas,Salvatore Caruso,,,1.0
+102693,2020-01-20T09:20Z,Australian Open,Philipp Kohlschreiber,Marcos Giron,,,1.0
+102711,2020-01-20T10:10Z,Australian Open,Jan-Lennard Struff,Novak Djokovic,,,0.0
+102700,2020-01-20T23:35Z,Australian Open,Marin Cilic,Corentin Moutet,,,1.0
+102701,2020-01-20T23:35Z,Australian Open,Benoit Paire,Cedrik-Marcel Stebe,,,1.0
+102706,2020-01-20T23:35Z,Australian Open,Alejandro Davidovich Fokina,Norbert Gombos,,,1.0
+102712,2020-01-20T23:35Z,Australian Open,Tatsuma Ito,Prajnesh Gunneswaran,,,1.0
+102688,2020-01-20T23:40Z,Australian Open,Hubert Hurkacz,Dennis Novak,,,1.0
+102697,2020-01-20T23:40Z,Australian Open,John Millman,Ugo Humbert,,,1.0
+102707,2020-01-20T23:40Z,Australian Open,Diego Schwartzman,Lloyd Harris,,,1.0
+102678,2020-01-21T01:00Z,Australian Open,Reilly Opelka,Fabio Fognini,,,0.0
+102691,2020-01-21T01:00Z,Australian Open,Jannik Sinner,Max Purcell,,,1.0
+102698,2020-01-21T01:00Z,Australian Open,Feliciano Lopez,Roberto Bautista Agut,,,0.0
+102704,2020-01-21T01:00Z,Australian Open,Kyle Edmund,Dusan Lajovic,,,0.0
+102705,2020-01-21T01:15Z,Australian Open,Marc Polmans,Mikhail Kukushkin,,,1.0
+102668,2020-01-21T01:30Z,Australian Open,Tennys Sandgren,Marco Trungelliti,,,1.0
+102696,2020-01-21T01:30Z,Australian Open,Quentin Halys,Filip Krajinovic,,,0.0
+102702,2020-01-21T01:30Z,Australian Open,Lorenzo Giustino,Milos Raonic,,,0.0
+102703,2020-01-21T01:30Z,Australian Open,Cristian Garin,Stefano Travaglia,,,1.0
+102690,2020-01-21T01:50Z,Australian Open,Leonardo Mayer,Tommy Paul,,,0.0
+102610,2020-01-21T02:05Z,Australian Open,Mario Vilella Martinez,Karen Khachanov,,,0.0
+102617,2020-01-21T02:10Z,Australian Open,Adrian Mannarino,Dominic Thiem,,,0.0
+102612,2020-01-21T03:00Z,Australian Open,Ernests Gulbis,Felix Auger-Aliassime,,,1.0
+102623,2020-01-21T03:05Z,Australian Open,Damir Dzumhur,Stan Wawrinka,,,0.0
+102679,2020-01-21T03:20Z,Australian Open,Jordan Thompson,Alexander Bublik,,,1.0
+102603,2020-01-21T03:35Z,Australian Open,Rafael Nadal,Hugo Dellien,,,1.0
+102604,2020-01-21T03:35Z,Australian Open,Jozef Kovalik,Pablo Carreno Busta,,,0.0
+102609,2020-01-21T03:35Z,Australian Open,James Duckworth,Aljaz Bedene,,,0.0
+102608,2020-01-21T03:45Z,Australian Open,Yasutaka Uchiyama,Mikael Ymer,,,0.0
+102699,2020-01-21T04:10Z,Australian Open,Pablo Andujar,Michael Mmoh,,,0.0
+102662,2020-01-21T04:45Z,Australian Open,Nikoloz Basilashvili,SoonWoo Kwon,,,1.0
+102661,2020-01-21T05:20Z,Australian Open,Fernando Verdasco,Evgeny Donskoy,,,1.0
+102615,2020-01-21T05:55Z,Australian Open,Alex Bolt,Albert Ramos-Vinolas,,,1.0
+102622,2020-01-21T06:25Z,Australian Open,Alexei Popyrin,Jo-Wilfried Tsonga,,,1.0
+102626,2020-01-21T06:25Z,Australian Open,Miomir Kecmanovic,Andreas Seppi,,,0.0
+102663,2020-01-21T07:15Z,Australian Open,Christopher O'Connell,Andrey Rublev,,,0.0
+102606,2020-01-21T07:35Z,Australian Open,Christopher Eubanks,Peter Gojowczyk,,,0.0
+102664,2020-01-21T07:35Z,Australian Open,Yuichi Sugita,Elliot Benchetrit,,,1.0
+102627,2020-01-21T08:05Z,Australian Open,Pierre-Hugues Herbert,Cameron Norrie,,,1.0
+102618,2020-01-21T08:10Z,Australian Open,Daniil Medvedev,Frances Tiafoe,,,1.0
+102613,2020-01-21T08:30Z,Australian Open,Gael Monfils,Yen-Hsun Lu,,,1.0
+102607,2020-01-21T08:45Z,Australian Open,Nick Kyrgios,Lorenzo Sonego,,,1.0
+102619,2020-01-21T08:45Z,Australian Open,Hugo Gaston,Jaume Munar,,,0.0
+102614,2020-01-21T09:05Z,Australian Open,Taylor Fritz,Tallon Griekspoor,,,1.0
+122240,2020-01-21T09:10Z,Australian Open,Taylor Fritz,Tallon Griekspoor,,,1.0
+102625,2020-01-21T09:15Z,Australian Open,David Goffin,Jeremy Chardy,,,1.0
+102602,2020-01-21T09:40Z,Australian Open,Federico Delbonis,João Sousa,,,1.0
+102620,2020-01-21T10:00Z,Australian Open,John Isner,Thiago Monteiro,,,1.0
+102624,2020-01-21T10:00Z,Australian Open,Alejandro Tabilo,Daniel Elahi Galan,,,1.0
+102670,2020-01-21T10:05Z,Australian Open,Marco Cecchinato,Alexander Zverev,,,0.0
+102621,2020-01-21T10:25Z,Australian Open,Dominik Koepfer,Pedro Martinez,,,0.0
+102616,2020-01-21T10:35Z,Australian Open,Ilya Ivashka,Kevin Anderson,,,0.0
+102611,2020-01-21T10:40Z,Australian Open,Ivo Karlovic,Vasek Pospisil,,,1.0
+102672,2020-01-21T10:50Z,Australian Open,Casper Ruud,Egor Gerasimov,,,0.0
+102605,2020-01-21T11:20Z,Australian Open,Pablo Cuevas,Gilles Simon,,,0.0
+102637,2020-01-22T00:05Z,Australian Open,Ricardas Berankis,Sam Querrey,,,0.0
+102636,2020-01-22T01:55Z,Australian Open,Guido Pella,Gregoire Barrere,,,1.0
+102649,2020-01-22T02:25Z,Australian Open,Daniel Evans,Yoshihito Nishioka,,,0.0
+102653,2020-01-22T02:35Z,Australian Open,Benoit Paire,Marin Cilic,,,0.0
+102651,2020-01-22T02:45Z,Australian Open,Diego Schwartzman,Alejandro Davidovich Fokina,,,1.0
+102634,2020-01-22T03:00Z,Australian Open,Marton Fucsovics,Jannik Sinner,,,1.0
+102648,2020-01-22T03:40Z,Australian Open,Tatsuma Ito,Novak Djokovic,,,0.0
+102643,2020-01-22T03:45Z,Australian Open,Matteo Berrettini,Tennys Sandgren,,,0.0
+102628,2020-01-22T04:00Z,Australian Open,Stefanos Tsitsipas,Philipp Kohlschreiber,,,1.0
+102633,2020-01-22T04:10Z,Australian Open,Tommy Paul,Grigor Dimitrov,,,1.0
+102641,2020-01-22T04:55Z,Australian Open,Cristian Garin,Milos Raonic,,,0.0
+102650,2020-01-22T06:25Z,Australian Open,Marc Polmans,Dusan Lajovic,,,0.0
+102632,2020-01-22T06:55Z,Australian Open,Hubert Hurkacz,John Millman,,,0.0
+102652,2020-01-22T07:25Z,Australian Open,Michael Mmoh,Roberto Bautista Agut,,,0.0
+102635,2020-01-22T09:05Z,Australian Open,Jordan Thompson,Fabio Fognini,,,0.0
+102630,2020-01-22T09:50Z,Australian Open,Filip Krajinovic,Roger Federer,,,0.0
+102715,2020-01-23T02:10Z,Australian Open,Aljaz Bedene,Ernests Gulbis,,,0.0
+102723,2020-01-23T02:15Z,Australian Open,Daniil Medvedev,Pedro Martinez,,,1.0
+102724,2020-01-23T03:30Z,Australian Open,Alex Bolt,Dominic Thiem,,,0.0
+102726,2020-01-23T04:35Z,Australian Open,Egor Gerasimov,Alexander Zverev,,,0.0
+102722,2020-01-23T05:10Z,Australian Open,Jaume Munar,Alexei Popyrin,,,0.0
+102716,2020-01-23T05:25Z,Australian Open,Gael Monfils,Ivo Karlovic,,,1.0
+102718,2020-01-23T05:55Z,Australian Open,Yuichi Sugita,Andrey Rublev,,,0.0
+102727,2020-01-23T06:30Z,Australian Open,Nikoloz Basilashvili,Fernando Verdasco,,,0.0
+102721,2020-01-23T06:40Z,Australian Open,John Isner,Alejandro Tabilo,,,1.0
+102719,2020-01-23T07:30Z,Australian Open,David Goffin,Pierre-Hugues Herbert,,,1.0
+102717,2020-01-23T07:35Z,Australian Open,Mikael Ymer,Karen Khachanov,,,0.0
+102708,2020-01-23T08:00Z,Australian Open,Nick Kyrgios,Gilles Simon,,,1.0
+102709,2020-01-23T08:00Z,Australian Open,Peter Gojowczyk,Pablo Carreno Busta,,,0.0
+102720,2020-01-23T08:10Z,Australian Open,Andreas Seppi,Stan Wawrinka,,,0.0
+102725,2020-01-23T08:20Z,Australian Open,Taylor Fritz,Kevin Anderson,,,1.0
+122227,2020-01-23T08:25Z,Australian Open,Taylor Fritz,Kevin Anderson,,,1.0
+102710,2020-01-23T09:50Z,Australian Open,Rafael Nadal,Federico Delbonis,,,1.0
+102687,2020-01-24T00:05Z,Australian Open,Diego Schwartzman,Dusan Lajovic,,,1.0
+102657,2020-01-24T01:50Z,Australian Open,Marton Fucsovics,Tommy Paul,,,1.0
+102654,2020-01-24T04:25Z,Australian Open,Marin Cilic,Roberto Bautista Agut,,,1.0
+102686,2020-01-24T04:50Z,Australian Open,Yoshihito Nishioka,Novak Djokovic,,,0.0
+102659,2020-01-24T06:40Z,Australian Open,Tennys Sandgren,Sam Querrey,,,1.0
+102655,2020-01-24T08:10Z,Australian Open,Stefanos Tsitsipas,Milos Raonic,,,0.0
+102658,2020-01-24T08:55Z,Australian Open,Guido Pella,Fabio Fognini,,,0.0
+102656,2020-01-24T09:40Z,Australian Open,John Millman,Roger Federer,,,0.0
+102645,2020-01-25T02:10Z,Australian Open,Gael Monfils,Ernests Gulbis,,,1.0
+102644,2020-01-25T03:40Z,Australian Open,Taylor Fritz,Dominic Thiem,,,0.0
+102665,2020-01-25T03:50Z,Australian Open,David Goffin,Andrey Rublev,,,0.0
+122246,2020-01-25T04:00Z,Australian Open,Taylor Fritz,Dominic Thiem,,,0.0
+102647,2020-01-25T04:35Z,Australian Open,Rafael Nadal,Pablo Carreno Busta,,,1.0
+102666,2020-01-25T07:15Z,Australian Open,John Isner,Stan Wawrinka,,,0.0
+102646,2020-01-25T08:05Z,Australian Open,Nick Kyrgios,Karen Khachanov,,,1.0
+102660,2020-01-25T08:10Z,Australian Open,Fernando Verdasco,Alexander Zverev,,,0.0
+102667,2020-01-25T09:35Z,Australian Open,Daniil Medvedev,Alexei Popyrin,,,1.0
+102673,2020-01-26T02:05Z,Australian Open,Milos Raonic,Marin Cilic,,,1.0
+102671,2020-01-26T03:50Z,Australian Open,Diego Schwartzman,Novak Djokovic,,,0.0
+102675,2020-01-26T06:10Z,Australian Open,Tennys Sandgren,Fabio Fognini,,,1.0
+102674,2020-01-26T10:05Z,Australian Open,Marton Fucsovics,Roger Federer,,,0.0
+102684,2020-01-27T02:05Z,Australian Open,Gael Monfils,Dominic Thiem,,,0.0
+102677,2020-01-27T04:10Z,Australian Open,Daniil Medvedev,Stan Wawrinka,,,0.0
+102685,2020-01-27T08:15Z,Australian Open,Rafael Nadal,Nick Kyrgios,,,1.0
+102676,2020-01-27T09:00Z,Australian Open,Andrey Rublev,Alexander Zverev,,,0.0
+102642,2020-01-28T04:10Z,Australian Open,Tennys Sandgren,Roger Federer,,,0.0
+102640,2020-01-28T08:45Z,Australian Open,Milos Raonic,Novak Djokovic,,,0.0
+102629,2020-01-29T03:40Z,Australian Open,Stan Wawrinka,Alexander Zverev,,,0.0
+102631,2020-01-29T08:40Z,Australian Open,Rafael Nadal,Dominic Thiem,,,0.0
+102638,2020-01-30T08:40Z,Australian Open,Roger Federer,Novak Djokovic,,,0.0
+102639,2020-01-31T08:40Z,Australian Open,Dominic Thiem,Alexander Zverev,,,1.0
+102728,2020-02-02T08:40Z,Australian Open,Dominic Thiem,Novak Djokovic,,,0.0
+123840,2020-01-14T03:10Z,Australian Open,Camila Osorio,Natalija Stevanovic,,,1.0
+124114,2020-01-15T02:05Z,Australian Open,Reka Luca Jani,Allie Kiick,,,0.0
+128559,2020-01-16T00:45Z,Australian Open,Storm Hunter,Robin Anderson,,,1.0
+123843,2020-01-16T08:10Z,Australian Open,Camila Osorio,Wang Xiyu,,,0.0
+124061,2020-01-16T23:10Z,Australian Open,Lesley Pattinama Kerkhove,Barbara Haas,,,0.0
+128593,2020-01-17T01:30Z,Australian Open,Storm Hunter,Kaja Juvan,,,0.0
+102735,2020-01-20T00:05Z,Australian Open,Viktorija Golubic,Zhu Lin,,,0.0
+102736,2020-01-20T00:05Z,Australian Open,Christina McHale,Petra Martic,,,0.0
+102741,2020-01-20T00:05Z,Australian Open,Ekaterina Alexandrova,Jil Teichmann,,,1.0
+102744,2020-01-20T00:05Z,Australian Open,Paula Badosa,Johanna Larsson,,,1.0
+102733,2020-01-20T00:10Z,Australian Open,Julia Goerges,Viktoria Hruncakova,,,1.0
+102745,2020-01-20T00:10Z,Australian Open,Naomi Osaka,Marie Bouzkova,,,1.0
+102746,2020-01-20T00:10Z,Australian Open,Zheng Saisai,Anna Kalinskaya,,,1.0
+102750,2020-01-20T00:15Z,Australian Open,Martina Trevisan,Sofia Kenin,,,0.0
+102747,2020-01-20T01:15Z,Australian Open,Sorana Cirstea,Barbora Strycova,,,1.0
+102742,2020-01-20T01:20Z,Australian Open,Kaia Kanepi,Barbora Krejcikova,,,0.0
+102752,2020-01-20T01:45Z,Australian Open,Ann Li,Lizette Cabrera,,,1.0
+102794,2020-01-20T01:55Z,Australian Open,Anastasia Potapova,Serena Williams,,,0.0
+102753,2020-01-20T02:20Z,Australian Open,Kristie Ahn,Caroline Wozniacki,,,0.0
+102795,2020-01-20T02:25Z,Australian Open,Tamara Zidansek,Na-Lae Han,,,1.0
+102743,2020-01-20T03:50Z,Australian Open,Katerina Siniakova,Petra Kvitova,,,0.0
+102748,2020-01-20T05:00Z,Australian Open,Venus Williams,Coco Gauff,,,0.0
+102749,2020-01-20T07:15Z,Australian Open,Samantha Stosur,Catherine McNally,,,0.0
+102730,2020-01-20T08:15Z,Australian Open,Ashleigh Barty,Lesia Tsurenko,,,1.0
+102751,2020-01-20T10:20Z,Australian Open,Sloane Stephens,Zhang Shuai,,,0.0
+102740,2020-01-20T23:35Z,Australian Open,Margarita Gasparyan,Maria Sakkari,,,0.0
+102754,2020-01-20T23:35Z,Australian Open,Madison Brengle,Caroline Garcia,,,0.0
+102755,2020-01-20T23:35Z,Australian Open,Johanna Konta,Ons Jabeur,,,0.0
+102739,2020-01-20T23:40Z,Australian Open,Nao Hibino,Peng Shuai,,,1.0
+102757,2020-01-20T23:40Z,Australian Open,Kaja Juvan,Dayana Yastremska,,,0.0
+102758,2020-01-20T23:40Z,Australian Open,Fiona Ferro,Alison Van Uytvanck,,,1.0
+102729,2020-01-21T00:05Z,Australian Open,Polona Hercog,Rebecca Peterson,,,1.0
+102793,2020-01-21T00:10Z,Australian Open,Belinda Bencic,Anna Karolina Schmiedlova,,,1.0
+102855,2020-01-21T00:10Z,Australian Open,Kristina Mladenovic,Karolina Pliskova,,,0.0
+102734,2020-01-21T01:30Z,Australian Open,Alison Riske-Amritraj,Wang Yafan,,,1.0
+122110,2020-01-21T01:45Z,Australian Open,Alison Riske-Amritraj,Wang Yafan,,,1.0
+102737,2020-01-21T01:50Z,Australian Open,Madison Keys,Daria Kasatkina,,,1.0
+102798,2020-01-21T01:50Z,Australian Open,Donna Vekic,Maria Sharapova,,,1.0
+102738,2020-01-21T01:55Z,Australian Open,Magda Linette,Arantxa Rus,,,0.0
+102732,2020-01-21T02:10Z,Australian Open,Bernarda Pera,Elena Rybakina,,,0.0
+102756,2020-01-21T02:20Z,Australian Open,Wang Qiang,Pauline Parmentier,,,1.0
+102731,2020-01-21T03:35Z,Australian Open,Aliaksandra Sasnovich,Greet Minnen,,,0.0
+102801,2020-01-21T04:25Z,Australian Open,Liudmila Samsonova,Jelena Ostapenko,,,0.0
+102814,2020-01-21T04:50Z,Australian Open,Ajla Tomljanovic,Anastasija Sevastova,,,1.0
+102813,2020-01-21T05:10Z,Australian Open,Amanda Anisimova,Zarina Diyas,,,0.0
+102806,2020-01-21T05:55Z,Australian Open,Lauren Davis,Leylah Fernandez,,,1.0
+102815,2020-01-21T05:55Z,Australian Open,Garbine Muguruza,Shelby Rogers,,,1.0
+102820,2020-01-21T06:00Z,Australian Open,Antonia Lottner,Camila Giorgi,,,0.0
+102810,2020-01-21T06:30Z,Australian Open,Yulia Putintseva,Su-Wei Hsieh,,,1.0
+102812,2020-01-21T06:30Z,Australian Open,Kirsten Flipkens,Karolina Muchova,,,0.0
+102831,2020-01-21T06:40Z,Australian Open,Laura Siegemund,Coco Vandeweghe,,,1.0
+102807,2020-01-21T06:50Z,Australian Open,Elina Svitolina,Katie Boulter,,,1.0
+102802,2020-01-21T07:10Z,Australian Open,Catherine Bellis,Tatjana Maria,,,1.0
+102822,2020-01-21T07:45Z,Australian Open,Irina-Camelia Begu,Kiki Bertens,,,0.0
+102823,2020-01-21T07:50Z,Australian Open,Kateryna Volodko,Arina Rodionova,,,0.0
+118510,2020-01-21T08:00Z,Australian Open,Kateryna Volodko,Arina Rodionova,,,0.0
+102808,2020-01-21T08:05Z,Australian Open,Jennifer Brady,Simona Halep,,,0.0
+102811,2020-01-21T08:20Z,Australian Open,Danielle Collins,Vitalia Diatchenko,,,1.0
+102824,2020-01-21T08:20Z,Australian Open,Jasmine Paolini,Anna Blinkova,,,0.0
+102797,2020-01-21T09:00Z,Australian Open,Alize Cornet,Monica Niculescu,,,1.0
+102809,2020-01-21T09:05Z,Australian Open,Harriet Dart,Misaki Doi,,,1.0
+102821,2020-01-21T09:35Z,Australian Open,Marketa Vondrousova,Svetlana Kuznetsova,,,0.0
+102818,2020-01-21T11:05Z,Australian Open,Elisabetta Cocciaretto,Angelique Kerber,,,0.0
+102819,2020-01-21T11:20Z,Australian Open,Kateryna Baindl,Priscilla Hon,,,0.0
+102816,2020-01-22T00:00Z,Australian Open,Anastasia Pavlyuchenkova,Nina Stojanovic,,,1.0
+102769,2020-01-22T00:05Z,Australian Open,Ann Li,Sofia Kenin,,,0.0
+102777,2020-01-22T00:05Z,Australian Open,Zhang Shuai,Catherine McNally,,,1.0
+102796,2020-01-22T00:05Z,Australian Open,Iga Swiatek,Timea Babos,,,1.0
+102799,2020-01-22T00:05Z,Australian Open,Astra Sharma,Anett Kontaveit,,,0.0
+102800,2020-01-22T00:05Z,Australian Open,Sara Sorribes Tormo,Veronika Kudermetova,,,1.0
+102803,2020-01-22T00:05Z,Australian Open,Kristyna Pliskova,Heather Watson,,,0.0
+102805,2020-01-22T00:05Z,Australian Open,Carla Suarez Navarro,Aryna Sabalenka,,,1.0
+102833,2020-01-22T00:05Z,Australian Open,Taylor Townsend,Jessica Pegula,,,1.0
+102835,2020-01-22T00:05Z,Australian Open,Paula Badosa,Petra Kvitova,,,0.0
+102841,2020-01-22T00:05Z,Australian Open,Julia Goerges,Petra Martic,,,1.0
+102852,2020-01-22T00:10Z,Australian Open,Naomi Osaka,Zheng Saisai,,,1.0
+102837,2020-01-22T01:15Z,Australian Open,Ekaterina Alexandrova,Barbora Krejcikova,,,1.0
+102842,2020-01-22T01:20Z,Australian Open,Alison Riske-Amritraj,Zhu Lin,,,1.0
+122002,2020-01-22T01:30Z,Australian Open,Alison Riske-Amritraj,Zhu Lin,,,1.0
+102767,2020-01-22T01:50Z,Australian Open,Caroline Wozniacki,Dayana Yastremska,,,1.0
+102844,2020-01-22T02:05Z,Australian Open,Ashleigh Barty,Polona Hercog,,,1.0
+102768,2020-01-22T02:10Z,Australian Open,Ons Jabeur,Caroline Garcia,,,1.0
+102778,2020-01-22T02:30Z,Australian Open,Coco Gauff,Sorana Cirstea,,,1.0
+102804,2020-01-22T02:30Z,Australian Open,Elise Mertens,Danka Kovinic,,,1.0
+120495,2020-01-22T02:30Z,Australian Open,Coco Gauff,Sorana Cirstea,,,1.0
+102843,2020-01-22T02:55Z,Australian Open,Greet Minnen,Elena Rybakina,,,0.0
+102766,2020-01-22T04:50Z,Australian Open,Wang Qiang,Fiona Ferro,,,1.0
+102839,2020-01-22T04:55Z,Australian Open,Nao Hibino,Maria Sakkari,,,0.0
+102765,2020-01-22T08:10Z,Australian Open,Tamara Zidansek,Serena Williams,,,0.0
+102840,2020-01-22T11:50Z,Australian Open,Madison Keys,Arantxa Rus,,,1.0
+102759,2020-01-23T00:05Z,Australian Open,Donna Vekic,Alize Cornet,,,1.0
+102763,2020-01-23T00:10Z,Australian Open,Belinda Bencic,Jelena Ostapenko,,,1.0
+102786,2020-01-23T00:10Z,Australian Open,Garbine Muguruza,Ajla Tomljanovic,,,1.0
+102784,2020-01-23T01:30Z,Australian Open,Zarina Diyas,Anna Blinkova,,,1.0
+102832,2020-01-23T02:50Z,Australian Open,Laura Siegemund,Karolina Pliskova,,,0.0
+102790,2020-01-23T03:50Z,Australian Open,Catherine Bellis,Karolina Muchova,,,1.0
+102817,2020-01-23T04:40Z,Australian Open,Priscilla Hon,Angelique Kerber,,,0.0
+102791,2020-01-23T05:30Z,Australian Open,Elise Mertens,Heather Watson,,,1.0
+102782,2020-01-23T05:45Z,Australian Open,Arina Rodionova,Kiki Bertens,,,0.0
+102761,2020-01-23T06:00Z,Australian Open,Sara Sorribes Tormo,Anett Kontaveit,,,0.0
+102792,2020-01-23T06:20Z,Australian Open,Iga Swiatek,Carla Suarez Navarro,,,1.0
+102834,2020-01-23T06:35Z,Australian Open,Anastasia Pavlyuchenkova,Taylor Townsend,,,1.0
+102788,2020-01-23T08:10Z,Australian Open,Harriet Dart,Simona Halep,,,0.0
+102780,2020-01-23T08:20Z,Australian Open,Svetlana Kuznetsova,Camila Giorgi,,,0.0
+102789,2020-01-23T09:10Z,Australian Open,Danielle Collins,Yulia Putintseva,,,0.0
+102787,2020-01-23T12:05Z,Australian Open,Elina Svitolina,Lauren Davis,,,1.0
+102830,2020-01-24T00:05Z,Australian Open,Ashleigh Barty,Elena Rybakina,,,1.0
+102854,2020-01-24T01:40Z,Australian Open,Ons Jabeur,Caroline Wozniacki,,,1.0
+102838,2020-01-24T01:45Z,Australian Open,Wang Qiang,Serena Williams,,,1.0
+102827,2020-01-24T02:40Z,Australian Open,Ekaterina Alexandrova,Petra Kvitova,,,0.0
+102828,2020-01-24T03:50Z,Australian Open,Madison Keys,Maria Sakkari,,,0.0
+102829,2020-01-24T04:10Z,Australian Open,Alison Riske-Amritraj,Julia Goerges,,,1.0
+121983,2020-01-24T04:15Z,Australian Open,Alison Riske-Amritraj,Julia Goerges,,,1.0
+102826,2020-01-24T08:10Z,Australian Open,Naomi Osaka,Coco Gauff,,,0.0
+102825,2020-01-24T10:55Z,Australian Open,Zhang Shuai,Sofia Kenin,,,0.0
+102846,2020-01-25T00:05Z,Australian Open,Anastasia Pavlyuchenkova,Karolina Pliskova,,,1.0
+102847,2020-01-25T00:05Z,Australian Open,Camila Giorgi,Angelique Kerber,,,0.0
+102853,2020-01-25T01:55Z,Australian Open,Donna Vekic,Iga Swiatek,,,0.0
+102836,2020-01-25T02:35Z,Australian Open,Belinda Bencic,Anett Kontaveit,,,0.0
+102850,2020-01-25T02:50Z,Australian Open,Yulia Putintseva,Simona Halep,,,0.0
+102851,2020-01-25T04:55Z,Australian Open,Elise Mertens,Catherine Bellis,,,1.0
+102849,2020-01-25T08:10Z,Australian Open,Elina Svitolina,Garbine Muguruza,,,0.0
+102848,2020-01-25T10:25Z,Australian Open,Zarina Diyas,Kiki Bertens,,,0.0
+102764,2020-01-26T01:10Z,Australian Open,Maria Sakkari,Petra Kvitova,,,0.0
+120545,2020-01-26T03:30Z,Australian Open,Coco Gauff,Sofia Kenin,,,0.0
+102762,2020-01-26T03:40Z,Australian Open,Coco Gauff,Sofia Kenin,,,0.0
+102760,2020-01-26T04:45Z,Australian Open,Ons Jabeur,Wang Qiang,,,1.0
+102845,2020-01-26T08:15Z,Australian Open,Ashleigh Barty,Alison Riske-Amritraj,,,1.0
+102775,2020-01-27T00:05Z,Australian Open,Elise Mertens,Simona Halep,,,0.0
+102776,2020-01-27T01:40Z,Australian Open,Anett Kontaveit,Iga Swiatek,,,1.0
+102774,2020-01-27T04:20Z,Australian Open,Garbine Muguruza,Kiki Bertens,,,1.0
+102773,2020-01-27T07:55Z,Australian Open,Angelique Kerber,Anastasia Pavlyuchenkova,,,0.0
+102771,2020-01-28T00:05Z,Australian Open,Sofia Kenin,Ons Jabeur,,,1.0
+102772,2020-01-28T02:00Z,Australian Open,Ashleigh Barty,Petra Kvitova,,,1.0
+102770,2020-01-29T00:10Z,Australian Open,Anett Kontaveit,Simona Halep,,,0.0
+102785,2020-01-29T01:35Z,Australian Open,Garbine Muguruza,Anastasia Pavlyuchenkova,,,1.0
+102783,2020-01-30T03:10Z,Australian Open,Ashleigh Barty,Sofia Kenin,,,0.0
+102781,2020-01-30T05:20Z,Australian Open,Simona Halep,Garbine Muguruza,,,0.0
+102779,2020-02-01T08:40Z,Australian Open,Sofia Kenin,Garbine Muguruza,,,1.0

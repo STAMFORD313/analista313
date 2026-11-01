@@ -1,0 +1,77 @@
+id,date,event,home,away,hs,as,res
+401801790,2025-09-20T23:00Z,St. Louis Blues at Dallas Stars,Dallas Stars,St. Louis Blues,2,1,1.0
+401790291,2025-09-21T17:00Z,New York Rangers at New Jersey Devils,New Jersey Devils,New York Rangers,3,5,0.0
+401790355,2025-09-21T19:00Z,Florida Panthers at Nashville Predators,Nashville Predators,Florida Panthers,5,0,1.0
+401790361,2025-09-21T19:00Z,Toronto Maple Leafs at Ottawa Senators,Ottawa Senators,Toronto Maple Leafs,3,4,0.0
+401790293,2025-09-21T21:00Z,St. Louis Blues at Columbus Blue Jackets,Columbus Blue Jackets,St. Louis Blues,4,1,1.0
+401790295,2025-09-21T21:00Z,Washington Capitals at Boston Bruins,Boston Bruins,Washington Capitals,2,5,0.0
+401794778,2025-09-21T21:00Z,Minnesota Wild at Winnipeg Jets,Winnipeg Jets,Minnesota Wild,2,3,0.0
+401790290,2025-09-21T22:00Z,Anaheim Ducks at Los Angeles Kings,Los Angeles Kings,Anaheim Ducks,3,1,1.0
+401790292,2025-09-21T23:00Z,Philadelphia Flyers at New York Islanders,New York Islanders,Philadelphia Flyers,2,3,0.0
+401790356,2025-09-21T23:00Z,Florida Panthers at Nashville Predators,Nashville Predators,Florida Panthers,5,3,1.0
+401790359,2025-09-21T23:00Z,Colorado Avalanche at Utah Mammoth,Utah Mammoth,Colorado Avalanche,1,5,0.0
+401790294,2025-09-22T00:00Z,Vegas Golden Knights at San Jose Sharks,San Jose Sharks,Vegas Golden Knights,3,0,1.0
+401794791,2025-09-22T00:00Z,Edmonton Oilers at Calgary Flames,Calgary Flames,Edmonton Oilers,0,3,0.0
+401794792,2025-09-22T00:00Z,Calgary Flames at Edmonton Oilers,Edmonton Oilers,Calgary Flames,2,3,0.0
+401794798,2025-09-22T00:00Z,Vancouver Canucks at Seattle Kraken,Seattle Kraken,Vancouver Canucks,5,3,1.0
+401790360,2025-09-22T01:30Z,Utah Mammoth at Colorado Avalanche,Colorado Avalanche,Utah Mammoth,3,2,1.0
+401790296,2025-09-22T23:00Z,Buffalo Sabres at Columbus Blue Jackets,Columbus Blue Jackets,Buffalo Sabres,0,4,0.0
+401790297,2025-09-22T23:00Z,Pittsburgh Penguins at Montreal Canadiens,Montreal Canadiens,Pittsburgh Penguins,2,1,1.0
+401790298,2025-09-22T23:00Z,Tampa Bay Lightning at Carolina Hurricanes,Carolina Hurricanes,Tampa Bay Lightning,1,2,0.0
+401790299,2025-09-23T02:00Z,Utah Mammoth at Anaheim Ducks,Anaheim Ducks,Utah Mammoth,6,1,1.0
+401790300,2025-09-23T23:00Z,Boston Bruins at New York Rangers,New York Rangers,Boston Bruins,4,5,0.0
+401790301,2025-09-23T23:00Z,Chicago Blackhawks at Detroit Red Wings,Detroit Red Wings,Chicago Blackhawks,3,2,1.0
+401790302,2025-09-23T23:00Z,Columbus Blue Jackets at Buffalo Sabres,Buffalo Sabres,Columbus Blue Jackets,2,1,1.0
+401790304,2025-09-23T23:00Z,New York Islanders at New Jersey Devils,New Jersey Devils,New York Islanders,6,2,1.0
+401790305,2025-09-23T23:00Z,Philadelphia Flyers at Montreal Canadiens,Montreal Canadiens,Philadelphia Flyers,4,2,1.0
+401790362,2025-09-23T23:00Z,Ottawa Senators at Toronto Maple Leafs,Toronto Maple Leafs,Ottawa Senators,2,3,0.0
+401790306,2025-09-24T00:00Z,Tampa Bay Lightning at Nashville Predators,Nashville Predators,Tampa Bay Lightning,2,3,0.0
+401794779,2025-09-24T00:00Z,Edmonton Oilers at Winnipeg Jets,Winnipeg Jets,Edmonton Oilers,2,3,0.0
+401800984,2025-09-24T00:00Z,Minnesota Wild at Dallas Stars,Dallas Stars,Minnesota Wild,3,2,1.0
+401794793,2025-09-24T01:00Z,Seattle Kraken at Calgary Flames,Calgary Flames,Seattle Kraken,4,1,1.0
+401790303,2025-09-24T02:00Z,Los Angeles Kings at Vegas Golden Knights,Vegas Golden Knights,Los Angeles Kings,1,3,0.0
+401790307,2025-09-24T22:00Z,Florida Panthers at Carolina Hurricanes,Carolina Hurricanes,Florida Panthers,2,4,0.0
+401790309,2025-09-24T23:00Z,Pittsburgh Penguins at Columbus Blue Jackets,Columbus Blue Jackets,Pittsburgh Penguins,4,1,1.0
+401794799,2025-09-25T01:00Z,Seattle Kraken at Edmonton Oilers,Edmonton Oilers,Seattle Kraken,1,4,0.0
+401790308,2025-09-25T02:00Z,Los Angeles Kings at Anaheim Ducks,Anaheim Ducks,Los Angeles Kings,0,3,0.0
+401794795,2025-09-25T02:00Z,Calgary Flames at Vancouver Canucks,Vancouver Canucks,Calgary Flames,3,1,1.0
+401790310,2025-09-25T23:00Z,Buffalo Sabres at Detroit Red Wings,Detroit Red Wings,Buffalo Sabres,5,2,1.0
+401790311,2025-09-25T23:00Z,New York Islanders at New York Rangers,New York Rangers,New York Islanders,4,5,0.0
+401790312,2025-09-25T23:00Z,Philadelphia Flyers at Washington Capitals,Washington Capitals,Philadelphia Flyers,5,1,1.0
+401790363,2025-09-25T23:00Z,Toronto Maple Leafs at Montreal Canadiens,Montreal Canadiens,Toronto Maple Leafs,2,7,0.0
+401800985,2025-09-26T00:00Z,Dallas Stars at Minnesota Wild,Minnesota Wild,Dallas Stars,2,5,0.0
+401790313,2025-09-26T02:00Z,Utah Mammoth at Vegas Golden Knights,Vegas Golden Knights,Utah Mammoth,3,2,1.0
+401790314,2025-09-26T23:00Z,Carolina Hurricanes at Tampa Bay Lightning,Tampa Bay Lightning,Carolina Hurricanes,6,5,1.0
+401790315,2025-09-26T23:00Z,Detroit Red Wings at Pittsburgh Penguins,Pittsburgh Penguins,Detroit Red Wings,3,2,1.0
+401790316,2025-09-26T23:00Z,New Jersey Devils at New York Islanders,New York Islanders,New Jersey Devils,2,4,0.0
+401794780,2025-09-27T01:00Z,Winnipeg Jets at Edmonton Oilers,Edmonton Oilers,Winnipeg Jets,4,0,1.0
+401790317,2025-09-27T02:00Z,Vegas Golden Knights at San Jose Sharks,San Jose Sharks,Vegas Golden Knights,1,2,0.0
+401794800,2025-09-27T02:00Z,Seattle Kraken at Vancouver Canucks,Vancouver Canucks,Seattle Kraken,4,2,1.0
+401790322,2025-09-27T19:00Z,Detroit Red Wings at Buffalo Sabres,Buffalo Sabres,Detroit Red Wings,5,2,1.0
+401790319,2025-09-27T21:00Z,Boston Bruins at Philadelphia Flyers,Philadelphia Flyers,Boston Bruins,3,4,0.0
+401790318,2025-09-27T22:00Z,Anaheim Ducks at Los Angeles Kings,Los Angeles Kings,Anaheim Ducks,3,5,0.0
+401790320,2025-09-27T23:00Z,Columbus Blue Jackets at Pittsburgh Penguins,Pittsburgh Penguins,Columbus Blue Jackets,4,1,1.0
+401790321,2025-09-27T23:00Z,Dallas Stars at Colorado Avalanche,Colorado Avalanche,Dallas Stars,4,1,1.0
+401790323,2025-09-27T23:00Z,Nashville Predators at Tampa Bay Lightning,Tampa Bay Lightning,Nashville Predators,4,1,1.0
+401790364,2025-09-27T23:00Z,Montreal Canadiens at Toronto Maple Leafs,Toronto Maple Leafs,Montreal Canadiens,2,4,0.0
+401800940,2025-09-27T23:00Z,Chicago Blackhawks at St. Louis Blues,St. Louis Blues,Chicago Blackhawks,2,4,0.0
+401794781,2025-09-28T00:00Z,Calgary Flames at Winnipeg Jets,Winnipeg Jets,Calgary Flames,4,2,1.0
+401790357,2025-09-28T19:00Z,New Jersey Devils at Ottawa Senators,Ottawa Senators,New Jersey Devils,2,0,1.0
+401790358,2025-09-28T19:00Z,Washington Capitals at New Jersey Devils,New Jersey Devils,Washington Capitals,2,3,0.0
+401800981,2025-09-28T22:00Z,Chicago Blackhawks at Minnesota Wild,Minnesota Wild,Chicago Blackhawks,1,4,0.0
+401790324,2025-09-28T23:00Z,Nashville Predators at Carolina Hurricanes,Carolina Hurricanes,Nashville Predators,4,2,1.0
+401794802,2025-09-29T00:00Z,Vancouver Canucks at Edmonton Oilers,Edmonton Oilers,Vancouver Canucks,4,3,1.0
+401790325,2025-09-29T22:00Z,Carolina Hurricanes at Florida Panthers,Florida Panthers,Carolina Hurricanes,4,3,1.0
+401790326,2025-09-29T23:00Z,New York Rangers at New York Islanders,New York Islanders,New York Rangers,2,3,0.0
+401790327,2025-09-29T23:00Z,Philadelphia Flyers at Boston Bruins,Boston Bruins,Philadelphia Flyers,2,3,0.0
+401790328,2025-09-29T23:00Z,Pittsburgh Penguins at Detroit Red Wings,Detroit Red Wings,Pittsburgh Penguins,1,2,0.0
+401790329,2025-09-30T02:00Z,San Jose Sharks at Anaheim Ducks,Anaheim Ducks,San Jose Sharks,3,2,1.0
+401794796,2025-09-30T02:00Z,Calgary Flames at Seattle Kraken,Seattle Kraken,Calgary Flames,1,2,0.0
+401790331,2025-09-30T23:00Z,Florida Panthers at Tampa Bay Lightning,Tampa Bay Lightning,Florida Panthers,3,2,1.0
+401790334,2025-09-30T23:00Z,Washington Capitals at Columbus Blue Jackets,Columbus Blue Jackets,Washington Capitals,3,4,0.0
+401790365,2025-09-30T23:00Z,Montreal Canadiens at Ottawa Senators,Ottawa Senators,Montreal Canadiens,0,5,0.0
+401790330,2025-10-01T00:00Z,Detroit Red Wings at Chicago Blackhawks,Chicago Blackhawks,Detroit Red Wings,1,3,0.0
+401790333,2025-10-01T00:00Z,Vegas Golden Knights at Colorado Avalanche,Colorado Avalanche,Vegas Golden Knights,4,2,1.0
+401794782,2025-10-01T00:00Z,Winnipeg Jets at Minnesota Wild,Minnesota Wild,Winnipeg Jets,3,2,1.0
+401801791,2025-10-01T00:00Z,Dallas Stars at St. Louis Blues,St. Louis Blues,Dallas Stars,3,5,0.0
+401790332,2025-10-01T01:00Z,Los Angeles Kings at Utah Mammoth,Utah Mammoth,Los Angeles Kings,2,3,0.0

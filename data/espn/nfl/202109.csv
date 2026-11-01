@@ -1,0 +1,50 @@
+id,date,event,home,away,hs,as,res
+401326322,2021-09-10T00:20Z,Dallas Cowboys at Tampa Bay Buccaneers,Tampa Bay Buccaneers,Dallas Cowboys,31,29,1.0
+401326315,2021-09-12T17:00Z,Philadelphia Eagles at Atlanta Falcons,Atlanta Falcons,Philadelphia Eagles,6,32,0.0
+401326308,2021-09-12T17:00Z,Pittsburgh Steelers at Buffalo Bills,Buffalo Bills,Pittsburgh Steelers,16,23,0.0
+401326316,2021-09-12T17:00Z,Minnesota Vikings at Cincinnati Bengals,Cincinnati Bengals,Minnesota Vikings,27,24,1.0
+401326317,2021-09-12T17:00Z,San Francisco 49ers at Detroit Lions,Detroit Lions,San Francisco 49ers,33,41,0.0
+401326311,2021-09-12T17:00Z,Arizona Cardinals at Tennessee Titans,Tennessee Titans,Arizona Cardinals,13,38,0.0
+401326318,2021-09-12T17:00Z,Seattle Seahawks at Indianapolis Colts,Indianapolis Colts,Seattle Seahawks,16,28,0.0
+401326312,2021-09-12T17:00Z,Los Angeles Chargers at Washington Commanders,Washington Commanders,Los Angeles Chargers,16,20,0.0
+401326309,2021-09-12T17:00Z,New York Jets at Carolina Panthers,Carolina Panthers,New York Jets,19,14,1.0
+401326310,2021-09-12T17:00Z,Jacksonville Jaguars at Houston Texans,Houston Texans,Jacksonville Jaguars,37,21,1.0
+401326314,2021-09-12T20:25Z,Cleveland Browns at Kansas City Chiefs,Kansas City Chiefs,Cleveland Browns,33,29,1.0
+401326313,2021-09-12T20:25Z,Miami Dolphins at New England Patriots,New England Patriots,Miami Dolphins,16,17,0.0
+401326319,2021-09-12T20:25Z,Green Bay Packers at New Orleans Saints,New Orleans Saints,Green Bay Packers,38,3,1.0
+401326320,2021-09-12T20:25Z,Denver Broncos at New York Giants,New York Giants,Denver Broncos,13,27,0.0
+401326323,2021-09-13T00:20Z,Chicago Bears at Los Angeles Rams,Los Angeles Rams,Chicago Bears,34,14,1.0
+401326321,2021-09-14T00:15Z,Baltimore Ravens at Las Vegas Raiders,Las Vegas Raiders,Baltimore Ravens,33,27,1.0
+401326127,2021-09-17T00:20Z,New York Giants at Washington Commanders,Washington Commanders,New York Giants,30,29,1.0
+401326129,2021-09-19T17:00Z,Cincinnati Bengals at Chicago Bears,Chicago Bears,Cincinnati Bengals,20,17,1.0
+401326130,2021-09-19T17:00Z,Houston Texans at Cleveland Browns,Cleveland Browns,Houston Texans,31,21,1.0
+401326131,2021-09-19T17:00Z,Los Angeles Rams at Indianapolis Colts,Indianapolis Colts,Los Angeles Rams,24,27,0.0
+401326353,2021-09-19T17:00Z,Buffalo Bills at Miami Dolphins,Miami Dolphins,Buffalo Bills,0,35,0.0
+401326354,2021-09-19T17:00Z,New England Patriots at New York Jets,New York Jets,New England Patriots,6,25,0.0
+401326355,2021-09-19T17:00Z,San Francisco 49ers at Philadelphia Eagles,Philadelphia Eagles,San Francisco 49ers,11,17,0.0
+401326356,2021-09-19T17:00Z,Las Vegas Raiders at Pittsburgh Steelers,Pittsburgh Steelers,Las Vegas Raiders,17,26,0.0
+401326128,2021-09-19T17:00Z,New Orleans Saints at Carolina Panthers,Carolina Panthers,New Orleans Saints,26,7,1.0
+401326132,2021-09-19T17:00Z,Denver Broncos at Jacksonville Jaguars,Jacksonville Jaguars,Denver Broncos,13,23,0.0
+401326357,2021-09-19T20:05Z,Minnesota Vikings at Arizona Cardinals,Arizona Cardinals,Minnesota Vikings,34,33,1.0
+401326358,2021-09-19T20:05Z,Atlanta Falcons at Tampa Bay Buccaneers,Tampa Bay Buccaneers,Atlanta Falcons,48,25,1.0
+401326359,2021-09-19T20:25Z,Dallas Cowboys at Los Angeles Chargers,Los Angeles Chargers,Dallas Cowboys,17,20,0.0
+401326360,2021-09-19T20:25Z,Tennessee Titans at Seattle Seahawks,Seattle Seahawks,Tennessee Titans,30,33,0.0
+401326361,2021-09-20T00:20Z,Kansas City Chiefs at Baltimore Ravens,Baltimore Ravens,Kansas City Chiefs,36,35,1.0
+401326362,2021-09-21T00:15Z,Detroit Lions at Green Bay Packers,Green Bay Packers,Detroit Lions,35,17,1.0
+401326363,2021-09-24T00:20Z,Carolina Panthers at Houston Texans,Houston Texans,Carolina Panthers,9,24,0.0
+401326364,2021-09-26T17:00Z,Washington Commanders at Buffalo Bills,Buffalo Bills,Washington Commanders,43,21,1.0
+401326365,2021-09-26T17:00Z,Chicago Bears at Cleveland Browns,Cleveland Browns,Chicago Bears,26,6,1.0
+401326366,2021-09-26T17:00Z,Baltimore Ravens at Detroit Lions,Detroit Lions,Baltimore Ravens,17,19,0.0
+401326372,2021-09-26T17:00Z,Indianapolis Colts at Tennessee Titans,Tennessee Titans,Indianapolis Colts,25,16,1.0
+401326368,2021-09-26T17:00Z,Los Angeles Chargers at Kansas City Chiefs,Kansas City Chiefs,Los Angeles Chargers,24,30,0.0
+401326369,2021-09-26T17:00Z,New Orleans Saints at New England Patriots,New England Patriots,New Orleans Saints,13,28,0.0
+401326370,2021-09-26T17:00Z,Atlanta Falcons at New York Giants,New York Giants,Atlanta Falcons,14,17,0.0
+401326371,2021-09-26T17:00Z,Cincinnati Bengals at Pittsburgh Steelers,Pittsburgh Steelers,Cincinnati Bengals,10,24,0.0
+401326367,2021-09-26T17:00Z,Arizona Cardinals at Jacksonville Jaguars,Jacksonville Jaguars,Arizona Cardinals,19,31,0.0
+401326373,2021-09-26T20:05Z,New York Jets at Denver Broncos,Denver Broncos,New York Jets,26,0,1.0
+401326374,2021-09-26T20:05Z,Miami Dolphins at Las Vegas Raiders,Las Vegas Raiders,Miami Dolphins,31,28,1.0
+401326375,2021-09-26T20:25Z,Tampa Bay Buccaneers at Los Angeles Rams,Los Angeles Rams,Tampa Bay Buccaneers,34,24,1.0
+401326376,2021-09-26T20:25Z,Seattle Seahawks at Minnesota Vikings,Minnesota Vikings,Seattle Seahawks,30,17,1.0
+401326377,2021-09-27T00:20Z,Green Bay Packers at San Francisco 49ers,San Francisco 49ers,Green Bay Packers,28,30,0.0
+401326378,2021-09-28T00:15Z,Philadelphia Eagles at Dallas Cowboys,Dallas Cowboys,Philadelphia Eagles,41,21,1.0
+401326379,2021-10-01T00:20Z,Jacksonville Jaguars at Cincinnati Bengals,Cincinnati Bengals,Jacksonville Jaguars,24,21,1.0

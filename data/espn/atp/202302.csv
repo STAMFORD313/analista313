@@ -1,0 +1,564 @@
+id,date,event,home,away,hs,as,res
+130166,2023-02-04T13:00Z,Cordoba Open,Camilo Ugo Carabelli,Facundo Mena,,,1.0
+130167,2023-02-04T13:00Z,Cordoba Open,Andrea Vavassori,Andrea Pellegrino,,,1.0
+130169,2023-02-04T13:00Z,Cordoba Open,Nicolas Kicker,Franco Agamenone,,,1.0
+130163,2023-02-04T14:30Z,Cordoba Open,Thiago Agustin Tirante,Andrea Collarini,,,1.0
+130165,2023-02-04T14:30Z,Cordoba Open,Juan Pablo Ficovich,Renzo Olivo,,,1.0
+130168,2023-02-04T14:30Z,Cordoba Open,Hugo Dellien,Thiago Seyboth Wild,,,1.0
+130164,2023-02-04T16:00Z,Cordoba Open,Yannick Hanfmann,Luciano Darderi,,,0.0
+130162,2023-02-04T16:00Z,Cordoba Open,Federico Delbonis,Mariano Navone,,,1.0
+130215,2023-02-05T15:00Z,Cordoba Open,Camilo Ugo Carabelli,Andrea Vavassori,,,0.0
+130216,2023-02-05T15:00Z,Cordoba Open,Hugo Dellien,Nicolas Kicker,,,1.0
+130213,2023-02-05T16:30Z,Cordoba Open,Federico Delbonis,Thiago Agustin Tirante,,,1.0
+130214,2023-02-05T16:30Z,Cordoba Open,Luciano Darderi,Juan Pablo Ficovich,,,1.0
+130276,2023-02-06T17:40Z,Cordoba Open,Roberto Carballes Baena,Bernabe Zapata Miralles,,,0.0
+130274,2023-02-06T21:35Z,Cordoba Open,Dusan Lajovic,Juan Pablo Varillas,,,1.0
+130278,2023-02-07T00:00Z,Cordoba Open,Pablo Andujar,Juan Manuel Cerundolo,,,0.0
+130261,2023-02-07T01:15Z,Cordoba Open,Luciano Darderi,Hugo Gaston,,,1.0
+130277,2023-02-07T17:40Z,Cordoba Open,Federico Coria,Thiago Monteiro,,,1.0
+130264,2023-02-07T19:10Z,Cordoba Open,Daniel Elahi Galan,Tomas Barrios Vera,,,0.0
+130265,2023-02-07T20:50Z,Cordoba Open,Pedro Martinez,Cristian Garin,,,0.0
+130280,2023-02-07T23:30Z,Cordoba Open,Federico Delbonis,Alejandro Tabilo,,,1.0
+130273,2023-02-08T02:55Z,Cordoba Open,Guido Pella,Andrea Vavassori,,,1.0
+130275,2023-02-08T17:40Z,Cordoba Open,João Sousa,Tomas Martin Etcheverry,,,1.0
+130267,2023-02-08T19:15Z,Cordoba Open,Tomas Barrios Vera,Bernabe Zapata Miralles,,,1.0
+130266,2023-02-08T21:10Z,Cordoba Open,Facundo Bagnis,Marco Cecchinato,,,0.0
+130260,2023-02-08T23:00Z,Cordoba Open,Hugo Dellien,Pedro Cachin,,,1.0
+130283,2023-02-09T00:35Z,Cordoba Open,Sebastian Baez,Luciano Darderi,,,1.0
+130282,2023-02-09T17:10Z,Cordoba Open,Cristian Garin,João Sousa,,,0.0
+130269,2023-02-09T17:40Z,Cordoba Open,Federico Coria,Marco Cecchinato,,,1.0
+130271,2023-02-09T19:00Z,Cordoba Open,Guido Pella,Hugo Dellien,,,0.0
+130290,2023-02-09T19:30Z,Cordoba Open,Dusan Lajovic,Albert Ramos-Vinolas,,,0.0
+130281,2023-02-09T21:40Z,Cordoba Open,Federico Delbonis,Francisco Cerundolo,,,0.0
+130286,2023-02-10T00:25Z,Cordoba Open,Diego Schwartzman,Juan Manuel Cerundolo,,,0.0
+130288,2023-02-10T15:40Z,Cordoba Open,João Sousa,Albert Ramos-Vinolas,,,0.0
+130285,2023-02-10T18:10Z,Cordoba Open,Federico Coria,Francisco Cerundolo,,,1.0
+130270,2023-02-10T19:45Z,Cordoba Open,Sebastian Baez,Tomas Barrios Vera,,,1.0
+130268,2023-02-10T22:20Z,Cordoba Open,Juan Manuel Cerundolo,Hugo Dellien,,,0.0
+130284,2023-02-11T15:40Z,Cordoba Open,Albert Ramos-Vinolas,Federico Coria,,,0.0
+130289,2023-02-11T19:05Z,Cordoba Open,Hugo Dellien,Sebastian Baez,,,0.0
+130287,2023-02-12T22:10Z,Cordoba Open,Sebastian Baez,Federico Coria,,,1.0
+130293,2023-02-05T09:30Z,Open Occitanie,Albano Olivetti,Ivan Gakhov,,,0.0
+130294,2023-02-05T09:30Z,Open Occitanie,Antoine Bellier,Manuel Guinard,,,1.0
+130292,2023-02-05T11:00Z,Open Occitanie,Clement Chidekh,Alexandre Muller,,,1.0
+130291,2023-02-05T11:00Z,Open Occitanie,Zhang Zhizhen,Marco Trungelliti,,,0.0
+130297,2023-02-05T12:30Z,Open Occitanie,Geoffrey Blancaneaux,Alexey Vatutin,,,1.0
+130298,2023-02-05T12:30Z,Open Occitanie,Arthur Cazaux,Emilio Nava,,,1.0
+130295,2023-02-05T14:00Z,Open Occitanie,Hugo Grenier,Benoit Paire,,,0.0
+130296,2023-02-05T14:00Z,Open Occitanie,Maxime Janvier,Luca Nardi,,,0.0
+130351,2023-02-06T11:00Z,Open Occitanie,Ivan Gakhov,Antoine Bellier,,,0.0
+130350,2023-02-06T11:00Z,Open Occitanie,Marco Trungelliti,Clement Chidekh,,,0.0
+130353,2023-02-06T12:30Z,Open Occitanie,Geoffrey Blancaneaux,Arthur Cazaux,,,1.0
+130352,2023-02-06T15:30Z,Open Occitanie,Benoit Paire,Luca Nardi,,,0.0
+130189,2023-02-06T19:00Z,Open Occitanie,Arthur Fils,Richard Gasquet,,,1.0
+130170,2023-02-06T21:05Z,Open Occitanie,Nikoloz Basilashvili,Constant Lestienne,,,1.0
+130197,2023-02-07T11:40Z,Open Occitanie,Filip Krajinovic,Aslan Karatsev,,,1.0
+130188,2023-02-07T13:40Z,Open Occitanie,Clement Chidekh,Quentin Halys,,,0.0
+130194,2023-02-07T14:00Z,Open Occitanie,Maxime Cressy,Antoine Bellier,,,1.0
+130196,2023-02-07T15:30Z,Open Occitanie,Marton Fucsovics,Geoffrey Blancaneaux,,,1.0
+130173,2023-02-07T16:20Z,Open Occitanie,Marc-Andrea Huesler,Luca Van Assche,,,1.0
+130187,2023-02-07T18:00Z,Open Occitanie,Benjamin Bonzi,Lorenzo Sonego,,,0.0
+130192,2023-02-07T20:10Z,Open Occitanie,Luca Nardi,Arthur Rinderknech,,,0.0
+130190,2023-02-08T12:45Z,Open Occitanie,Mikael Ymer,Emil Ruusuvuori,,,0.0
+130191,2023-02-08T13:40Z,Open Occitanie,Alejandro Davidovich Fokina,Ugo Humbert,,,1.0
+130180,2023-02-08T16:05Z,Open Occitanie,Gregoire Barrere,Alexander Bublik,,,1.0
+130184,2023-02-08T18:00Z,Open Occitanie,Marton Fucsovics,Jannik Sinner,,,0.0
+130175,2023-02-08T18:55Z,Open Occitanie,Arthur Fils,Roberto Bautista Agut,,,1.0
+130177,2023-02-09T13:00Z,Open Occitanie,Maxime Cressy,Emil Ruusuvuori,,,1.0
+130174,2023-02-09T13:40Z,Open Occitanie,Alejandro Davidovich Fokina,Quentin Halys,,,0.0
+130172,2023-02-09T14:40Z,Open Occitanie,Lorenzo Sonego,Filip Krajinovic,,,1.0
+130176,2023-02-09T15:15Z,Open Occitanie,Borna Coric,Arthur Rinderknech,,,1.0
+130195,2023-02-09T18:10Z,Open Occitanie,Holger Rune,Marc-Andrea Huesler,,,1.0
+130178,2023-02-09T19:55Z,Open Occitanie,Nikoloz Basilashvili,Gregoire Barrere,,,0.0
+130183,2023-02-10T13:40Z,Open Occitanie,Quentin Halys,Arthur Fils,,,0.0
+130193,2023-02-10T15:20Z,Open Occitanie,Lorenzo Sonego,Jannik Sinner,,,0.0
+130185,2023-02-10T18:10Z,Open Occitanie,Holger Rune,Gregoire Barrere,,,1.0
+130181,2023-02-10T20:20Z,Open Occitanie,Borna Coric,Maxime Cressy,,,0.0
+130198,2023-02-11T14:10Z,Open Occitanie,Arthur Fils,Jannik Sinner,,,0.0
+130200,2023-02-11T16:05Z,Open Occitanie,Holger Rune,Maxime Cressy,,,0.0
+130199,2023-02-12T14:10Z,Open Occitanie,Maxime Cressy,Jannik Sinner,,,0.0
+130332,2023-02-05T17:00Z,Nexo Dallas Open,Aleksandar Vukic,Zachary Svajda,,,0.0
+130335,2023-02-05T17:00Z,Nexo Dallas Open,Alex Rybakov,Jonas Forejtek,,,1.0
+130334,2023-02-05T18:30Z,Nexo Dallas Open,Shang Juncheng,Elmar Ejupovic,,,0.0
+130333,2023-02-05T18:30Z,Nexo Dallas Open,Thai-Son Kwiatkowski,Stefan Kozlov,,,0.0
+130331,2023-02-05T20:00Z,Nexo Dallas Open,Jack Pinnington Jones,Mitchell Krueger,,,0.0
+130330,2023-02-05T20:00Z,Nexo Dallas Open,Fernando Verdasco,Evan Zhu,,,1.0
+130337,2023-02-05T21:30Z,Nexo Dallas Open,Antonio Muniz Hidalgo,Gabriel Diallo,,,0.0
+130336,2023-02-05T21:30Z,Nexo Dallas Open,Brandon Holt,Nick Chappell,,,1.0
+130387,2023-02-06T18:00Z,Nexo Dallas Open,Elmar Ejupovic,Alex Rybakov,,,0.0
+130386,2023-02-06T18:00Z,Nexo Dallas Open,Zachary Svajda,Stefan Kozlov,,,1.0
+130388,2023-02-06T19:30Z,Nexo Dallas Open,Brandon Holt,Gabriel Diallo,,,1.0
+130385,2023-02-06T19:30Z,Nexo Dallas Open,Fernando Verdasco,Mitchell Krueger,,,1.0
+130326,2023-02-07T01:10Z,Nexo Dallas Open,Jack Sock,Ilya Ivashka,,,1.0
+130313,2023-02-07T18:10Z,Nexo Dallas Open,Fernando Verdasco,Mackenzie McDonald,,,0.0
+130324,2023-02-07T18:10Z,Nexo Dallas Open,Alex Rybakov,Marcos Giron,,,0.0
+130311,2023-02-07T20:00Z,Nexo Dallas Open,Jordan Thompson,Denis Kudla,,,1.0
+130307,2023-02-07T20:40Z,Nexo Dallas Open,Steve Johnson,Adrian Mannarino,,,0.0
+130314,2023-02-07T22:30Z,Nexo Dallas Open,J.J. Wolf,Brandon Holt,,,1.0
+130315,2023-02-08T01:15Z,Nexo Dallas Open,Radu Albot,Liam Krall,,,1.0
+130310,2023-02-08T02:40Z,Nexo Dallas Open,Wu Yibing,Michael Mmoh,,,1.0
+130318,2023-02-08T03:20Z,Nexo Dallas Open,John Isner,Chun-Hsin Tseng,,,1.0
+130316,2023-02-08T18:10Z,Nexo Dallas Open,Emilio Gomez,Gabriel Diallo,,,1.0
+130319,2023-02-08T18:55Z,Nexo Dallas Open,Zachary Svajda,Daniel Altmaier,,,0.0
+130327,2023-02-08T21:05Z,Nexo Dallas Open,Oscar Otte,Christopher Eubanks,,,1.0
+130303,2023-02-08T23:10Z,Nexo Dallas Open,J.J. Wolf,Radu Albot,,,1.0
+130304,2023-02-09T01:20Z,Nexo Dallas Open,Mackenzie McDonald,Frances Tiafoe,,,0.0
+130308,2023-02-09T02:35Z,Nexo Dallas Open,Denis Shapovalov,Wu Yibing,,,0.0
+130306,2023-02-09T18:10Z,Nexo Dallas Open,Emilio Gomez,Miomir Kecmanovic,,,1.0
+130309,2023-02-09T20:35Z,Nexo Dallas Open,Jordan Thompson,Adrian Mannarino,,,0.0
+130305,2023-02-09T22:35Z,Nexo Dallas Open,John Isner,Daniel Altmaier,,,1.0
+130312,2023-02-10T01:10Z,Nexo Dallas Open,Taylor Fritz,Jack Sock,,,1.0
+130321,2023-02-10T03:00Z,Nexo Dallas Open,Oscar Otte,Marcos Giron,,,0.0
+130300,2023-02-10T18:10Z,Nexo Dallas Open,J.J. Wolf,Frances Tiafoe,,,1.0
+130299,2023-02-10T20:30Z,Nexo Dallas Open,John Isner,Emilio Gomez,,,1.0
+130301,2023-02-11T01:05Z,Nexo Dallas Open,Taylor Fritz,Marcos Giron,,,1.0
+130302,2023-02-11T03:15Z,Nexo Dallas Open,Wu Yibing,Adrian Mannarino,,,1.0
+130320,2023-02-11T20:10Z,Nexo Dallas Open,John Isner,J.J. Wolf,,,1.0
+130323,2023-02-11T23:10Z,Nexo Dallas Open,Taylor Fritz,Wu Yibing,,,0.0
+130329,2023-02-12T19:10Z,Nexo Dallas Open,Wu Yibing,John Isner,,,1.0
+130442,2023-02-11T10:00Z,ABN Amro Open,Mikael Ymer,Borna Gojo,,,1.0
+130439,2023-02-11T10:00Z,ABN Amro Open,Sidane Pontjodikromo,Aslan Karatsev,,,0.0
+130443,2023-02-11T11:30Z,ABN Amro Open,Elias Ymer,Roman Safiullin,,,0.0
+130437,2023-02-11T11:30Z,ABN Amro Open,Max Houkes,Nikoloz Basilashvili,,,0.0
+130438,2023-02-11T13:00Z,ABN Amro Open,Arthur Rinderknech,Jurij Rodionov,,,0.0
+130436,2023-02-11T14:00Z,ABN Amro Open,Constant Lestienne,Maximilian Marterer,,,1.0
+130441,2023-02-11T15:00Z,ABN Amro Open,Jesper de Jong,Gregoire Barrere,,,0.0
+130440,2023-02-11T15:30Z,ABN Amro Open,Quentin Halys,Zizou Bergs,,,1.0
+130502,2023-02-12T10:00Z,ABN Amro Open,Mikael Ymer,Roman Safiullin,,,1.0
+130500,2023-02-12T10:00Z,ABN Amro Open,Jurij Rodionov,Aslan Karatsev,,,0.0
+130501,2023-02-12T11:30Z,ABN Amro Open,Quentin Halys,Gregoire Barrere,,,0.0
+130499,2023-02-12T11:30Z,ABN Amro Open,Constant Lestienne,Nikoloz Basilashvili,,,1.0
+130413,2023-02-13T12:10Z,ABN Amro Open,Richard Gasquet,Pablo Carreno Busta,,,1.0
+130427,2023-02-13T14:40Z,ABN Amro Open,Grigor Dimitrov,Aslan Karatsev,,,1.0
+130405,2023-02-13T18:45Z,ABN Amro Open,Stan Wawrinka,Alexander Bublik,,,1.0
+130432,2023-02-13T20:40Z,ABN Amro Open,David Goffin,Gregoire Barrere,,,0.0
+130423,2023-02-14T10:10Z,ABN Amro Open,Gijs Brouwer,Marc-Andrea Huesler,,,1.0
+130430,2023-02-14T10:10Z,ABN Amro Open,Hubert Hurkacz,Roberto Bautista Agut,,,1.0
+130410,2023-02-14T13:20Z,ABN Amro Open,Mikael Ymer,Tallon Griekspoor,,,0.0
+130414,2023-02-14T13:35Z,ABN Amro Open,SoonWoo Kwon,Alexander Zverev,,,0.0
+130429,2023-02-14T15:30Z,ABN Amro Open,Lorenzo Sonego,Felix Auger-Aliassime,,,0.0
+130417,2023-02-14T18:40Z,ABN Amro Open,Stefanos Tsitsipas,Emil Ruusuvuori,,,1.0
+130434,2023-02-14T20:35Z,ABN Amro Open,Daniil Medvedev,Alejandro Davidovich Fokina,,,1.0
+130406,2023-02-15T10:10Z,ABN Amro Open,Benjamin Bonzi,Jannik Sinner,,,0.0
+130428,2023-02-15T10:10Z,ABN Amro Open,Tim Van Rijthoven,Maxime Cressy,,,0.0
+130435,2023-02-15T12:30Z,ABN Amro Open,Stan Wawrinka,Richard Gasquet,,,1.0
+130416,2023-02-15T12:35Z,ABN Amro Open,Holger Rune,Constant Lestienne,,,1.0
+130418,2023-02-15T14:00Z,ABN Amro Open,Hubert Hurkacz,Grigor Dimitrov,,,0.0
+130431,2023-02-15T14:15Z,ABN Amro Open,Botic Van De Zandschulp,Quentin Halys,,,1.0
+130411,2023-02-15T18:30Z,ABN Amro Open,Alex de Minaur,Andrey Rublev,,,1.0
+130422,2023-02-15T20:20Z,ABN Amro Open,Tallon Griekspoor,Alexander Zverev,,,1.0
+130420,2023-02-16T10:10Z,ABN Amro Open,Gregoire Barrere,Felix Auger-Aliassime,,,0.0
+130419,2023-02-16T12:10Z,ABN Amro Open,Daniil Medvedev,Botic Van De Zandschulp,,,1.0
+130407,2023-02-16T13:55Z,ABN Amro Open,Maxime Cressy,Alex de Minaur,,,0.0
+130408,2023-02-16T18:40Z,ABN Amro Open,Stefanos Tsitsipas,Jannik Sinner,,,0.0
+130421,2023-02-16T20:25Z,ABN Amro Open,Holger Rune,Gijs Brouwer,,,0.0
+130424,2023-02-17T12:10Z,ABN Amro Open,Grigor Dimitrov,Alex de Minaur,,,1.0
+130426,2023-02-17T15:10Z,ABN Amro Open,Daniil Medvedev,Felix Auger-Aliassime,,,1.0
+130415,2023-02-17T19:15Z,ABN Amro Open,Jannik Sinner,Stan Wawrinka,,,1.0
+130409,2023-02-17T20:50Z,ABN Amro Open,Gijs Brouwer,Tallon Griekspoor,,,0.0
+130433,2023-02-18T14:10Z,ABN Amro Open,Daniil Medvedev,Grigor Dimitrov,,,1.0
+130425,2023-02-18T18:40Z,ABN Amro Open,Jannik Sinner,Tallon Griekspoor,,,1.0
+130412,2023-02-19T14:45Z,ABN Amro Open,Jannik Sinner,Daniil Medvedev,,,0.0
+130481,2023-02-11T15:00Z,Delray Beach Open,Rinky Hijikata,Evan Zhu,,,0.0
+130482,2023-02-11T15:00Z,Delray Beach Open,Brandon Holt,Tung-lin Wu,,,0.0
+130479,2023-02-11T16:30Z,Delray Beach Open,Matija Pecotic,Stefan Kozlov,,,1.0
+130480,2023-02-11T16:30Z,Delray Beach Open,Tennys Sandgren,Mattia Bellucci,,,1.0
+130476,2023-02-11T18:00Z,Delray Beach Open,Alex Rybakov,Aleksandar Vukic,,,0.0
+130477,2023-02-11T19:30Z,Delray Beach Open,Nuno Borges,Jonas Forejtek,,,1.0
+130475,2023-02-11T19:30Z,Delray Beach Open,Christopher Eubanks,Mitchell Krueger,,,1.0
+130478,2023-02-11T21:00Z,Delray Beach Open,Hernan Casanova,Steve Johnson,,,0.0
+130537,2023-02-12T15:00Z,Delray Beach Open,Evan Zhu,Tung-lin Wu,,,0.0
+130536,2023-02-12T15:00Z,Delray Beach Open,Matija Pecotic,Tennys Sandgren,,,1.0
+130534,2023-02-12T17:00Z,Delray Beach Open,Christopher Eubanks,Aleksandar Vukic,,,1.0
+130535,2023-02-12T19:00Z,Delray Beach Open,Nuno Borges,Steve Johnson,,,1.0
+130467,2023-02-13T18:00Z,Delray Beach Open,Jordan Thompson,Denis Kudla,,,0.0
+130459,2023-02-13T20:10Z,Delray Beach Open,Emilio Gomez,Tung-lin Wu,,,1.0
+130470,2023-02-13T20:50Z,Delray Beach Open,Steve Johnson,Nuno Borges,,,0.0
+130445,2023-02-13T23:00Z,Delray Beach Open,Oscar Otte,Yoshihito Nishioka,,,0.0
+130453,2023-02-14T01:40Z,Delray Beach Open,Michael Mmoh,Aleksandar Kovacevic,,,1.0
+130444,2023-02-14T16:05Z,Delray Beach Open,Daniel Altmaier,Adrian Mannarino,,,0.0
+130457,2023-02-14T18:10Z,Delray Beach Open,Ilya Ivashka,J.J. Wolf,,,0.0
+130455,2023-02-14T18:45Z,Delray Beach Open,Taro Daniel,Mackenzie McDonald,,,0.0
+130448,2023-02-14T20:05Z,Delray Beach Open,Radu Albot,Fernando Verdasco,,,1.0
+130469,2023-02-14T20:10Z,Delray Beach Open,Aleksandar Vukic,Christopher Eubanks,,,1.0
+130472,2023-02-14T23:10Z,Delray Beach Open,Jack Sock,Matija Pecotic,,,0.0
+130452,2023-02-15T01:35Z,Delray Beach Open,Ben Shelton,Marcos Giron,,,0.0
+130461,2023-02-15T18:10Z,Delray Beach Open,Nuno Borges,Miomir Kecmanovic,,,0.0
+130449,2023-02-15T19:50Z,Delray Beach Open,Mackenzie McDonald,Yoshihito Nishioka,,,1.0
+130464,2023-02-15T23:10Z,Delray Beach Open,Marcos Giron,Matija Pecotic,,,1.0
+130465,2023-02-16T01:10Z,Delray Beach Open,Denis Shapovalov,Michael Mmoh,,,0.0
+130463,2023-02-16T18:10Z,Delray Beach Open,Aleksandar Vukic,Radu Albot,,,0.0
+130447,2023-02-16T20:10Z,Delray Beach Open,Denis Kudla,Tommy Paul,,,0.0
+130450,2023-02-16T23:10Z,Delray Beach Open,Adrian Mannarino,J.J. Wolf,,,1.0
+130466,2023-02-17T01:10Z,Delray Beach Open,Taylor Fritz,Emilio Gomez,,,1.0
+130451,2023-02-17T18:50Z,Delray Beach Open,Marcos Giron,Miomir Kecmanovic,,,0.0
+130454,2023-02-17T22:45Z,Delray Beach Open,Radu Albot,Tommy Paul,,,1.0
+130458,2023-02-18T00:20Z,Delray Beach Open,Michael Mmoh,Mackenzie McDonald,,,0.0
+130460,2023-02-18T02:50Z,Delray Beach Open,Taylor Fritz,Adrian Mannarino,,,1.0
+130473,2023-02-18T20:10Z,Delray Beach Open,Miomir Kecmanovic,Radu Albot,,,1.0
+130456,2023-02-19T01:10Z,Delray Beach Open,Taylor Fritz,Mackenzie McDonald,,,1.0
+130474,2023-02-19T20:10Z,Delray Beach Open,Taylor Fritz,Miomir Kecmanovic,,,1.0
+130484,2023-02-11T15:00Z,IEB+ Argentina Open,Camilo Ugo Carabelli,Timofey Skatov,,,1.0
+130483,2023-02-11T15:00Z,IEB+ Argentina Open,Facundo Bagnis,Franco Agamenone,,,1.0
+130487,2023-02-11T16:30Z,IEB+ Argentina Open,Juan Pablo Varillas,Thiago Agustin Tirante,,,1.0
+130488,2023-02-11T16:30Z,IEB+ Argentina Open,Andrea Pellegrino,Federico Delbonis,,,0.0
+130486,2023-02-11T18:00Z,IEB+ Argentina Open,Felipe Meligeni Alves,Nicolas Jarry,,,1.0
+130485,2023-02-11T18:00Z,IEB+ Argentina Open,Dusan Lajovic,Renzo Olivo,,,1.0
+130489,2023-02-11T19:30Z,IEB+ Argentina Open,Hugo Gaston,Jozef Kovalik,,,1.0
+130490,2023-02-11T20:30Z,IEB+ Argentina Open,Yannick Hanfmann,Juan Manuel Cerundolo,,,1.0
+130538,2023-02-12T15:00Z,IEB+ Argentina Open,Facundo Bagnis,Camilo Ugo Carabelli,,,0.0
+130540,2023-02-12T17:00Z,IEB+ Argentina Open,Juan Pablo Varillas,Federico Delbonis,,,1.0
+130539,2023-02-12T18:00Z,IEB+ Argentina Open,Dusan Lajovic,Felipe Meligeni Alves,,,1.0
+130541,2023-02-12T18:00Z,IEB+ Argentina Open,Hugo Gaston,Yannick Hanfmann,,,0.0
+130566,2023-02-13T16:45Z,IEB+ Argentina Open,Pedro Martinez,Bernabe Zapata Miralles,,,0.0
+130552,2023-02-13T20:15Z,IEB+ Argentina Open,Thiago Monteiro,Pedro Cachin,,,0.0
+130542,2023-02-13T22:45Z,IEB+ Argentina Open,Fabio Fognini,Laslo Djere,,,0.0
+130565,2023-02-14T00:30Z,IEB+ Argentina Open,Jaume Munar,Guido Pella,,,1.0
+130568,2023-02-14T16:40Z,IEB+ Argentina Open,Albert Ramos-Vinolas,Roberto Carballes Baena,,,0.0
+130545,2023-02-14T16:40Z,IEB+ Argentina Open,Tomas Martin Etcheverry,Hugo Dellien,,,1.0
+130563,2023-02-14T19:15Z,IEB+ Argentina Open,Daniel Elahi Galan,Camilo Ugo Carabelli,,,0.0
+130562,2023-02-14T19:20Z,IEB+ Argentina Open,Yannick Hanfmann,Francisco Cerundolo,,,0.0
+130547,2023-02-14T21:30Z,IEB+ Argentina Open,Facundo Diaz Acosta,Federico Coria,,,1.0
+130557,2023-02-14T22:15Z,IEB+ Argentina Open,Dusan Lajovic,Sebastian Baez,,,1.0
+130567,2023-02-14T23:45Z,IEB+ Argentina Open,Juan Pablo Varillas,João Sousa,,,1.0
+130558,2023-02-15T01:10Z,IEB+ Argentina Open,Alex Molcan,Dominic Thiem,,,0.0
+130551,2023-02-15T16:30Z,IEB+ Argentina Open,Roberto Carballes Baena,Tomas Martin Etcheverry,,,0.0
+130553,2023-02-15T19:30Z,IEB+ Argentina Open,Facundo Diaz Acosta,Cameron Norrie,,,0.0
+130572,2023-02-15T23:10Z,IEB+ Argentina Open,Camilo Ugo Carabelli,Dusan Lajovic,,,0.0
+130571,2023-02-16T01:10Z,IEB+ Argentina Open,Carlos Alcaraz,Laslo Djere,,,1.0
+130549,2023-02-16T17:00Z,IEB+ Argentina Open,Dominic Thiem,Juan Pablo Varillas,,,0.0
+130561,2023-02-16T19:05Z,IEB+ Argentina Open,Jaume Munar,Francisco Cerundolo,,,0.0
+130564,2023-02-16T21:40Z,IEB+ Argentina Open,Pedro Cachin,Lorenzo Musetti,,,0.0
+130559,2023-02-16T23:20Z,IEB+ Argentina Open,Diego Schwartzman,Bernabe Zapata Miralles,,,0.0
+130546,2023-02-17T16:40Z,IEB+ Argentina Open,Tomas Martin Etcheverry,Cameron Norrie,,,0.0
+130554,2023-02-17T21:25Z,IEB+ Argentina Open,Juan Pablo Varillas,Lorenzo Musetti,,,1.0
+130548,2023-02-17T23:55Z,IEB+ Argentina Open,Carlos Alcaraz,Dusan Lajovic,,,1.0
+130569,2023-02-18T01:45Z,IEB+ Argentina Open,Bernabe Zapata Miralles,Francisco Cerundolo,,,1.0
+130570,2023-02-18T19:10Z,IEB+ Argentina Open,Juan Pablo Varillas,Cameron Norrie,,,0.0
+130555,2023-02-18T21:25Z,IEB+ Argentina Open,Carlos Alcaraz,Bernabe Zapata Miralles,,,1.0
+130556,2023-02-19T19:10Z,IEB+ Argentina Open,Carlos Alcaraz,Cameron Norrie,,,1.0
+130581,2023-02-17T06:10Z,Dubai Duty Free Tennis Championships,Anna Kalinskaya,Su-Jeong Jang,,,0.0
+130582,2023-02-17T06:10Z,Dubai Duty Free Tennis Championships,Ankita Raina,Viktoriya Tomova,,,0.0
+130587,2023-02-17T06:10Z,Dubai Duty Free Tennis Championships,Jasmine Paolini,Margarita Gasparyan,,,1.0
+130588,2023-02-17T06:10Z,Dubai Duty Free Tennis Championships,Reka Luca Jani,Oceane Dodin,,,0.0
+130584,2023-02-17T07:50Z,Dubai Duty Free Tennis Championships,Laura Siegemund,Cristina Bucsa,,,1.0
+130585,2023-02-17T08:05Z,Dubai Duty Free Tennis Championships,Danka Kovinic,Stefania Bojica,,,0.0
+130586,2023-02-17T08:45Z,Dubai Duty Free Tennis Championships,Katarina Zavatska,Madison Brengle,,,1.0
+130583,2023-02-17T08:50Z,Dubai Duty Free Tennis Championships,Claire Liu,Kristina Kucova,,,1.0
+130580,2023-02-17T09:15Z,Dubai Duty Free Tennis Championships,Sara Errani,Dayana Yastremska,,,0.0
+130590,2023-02-17T10:10Z,Dubai Duty Free Tennis Championships,Olga Danilovic,Rebeka Masarova,,,0.0
+130591,2023-02-17T10:45Z,Dubai Duty Free Tennis Championships,Ana Bogdan,Clara Burel,,,1.0
+130579,2023-02-17T10:55Z,Dubai Duty Free Tennis Championships,Lauren Davis,Anna Danilina,,,1.0
+130589,2023-02-17T10:55Z,Dubai Duty Free Tennis Championships,Rebecca Marino,Harriet Dart,,,1.0
+130594,2023-02-17T11:30Z,Dubai Duty Free Tennis Championships,Eden Silva,Julia Grabher,,,0.0
+130593,2023-02-17T12:15Z,Dubai Duty Free Tennis Championships,Maryna Zanevska,Kristina Mladenovic,,,0.0
+130592,2023-02-17T13:30Z,Dubai Duty Free Tennis Championships,Magdalena Frech,Tereza Martincova,,,0.0
+130602,2023-02-18T06:10Z,Dubai Duty Free Tennis Championships,Su-Jeong Jang,Viktoriya Tomova,,,0.0
+130603,2023-02-18T06:10Z,Dubai Duty Free Tennis Championships,Claire Liu,Laura Siegemund,,,0.0
+130605,2023-02-18T06:10Z,Dubai Duty Free Tennis Championships,Jasmine Paolini,Oceane Dodin,,,1.0
+130604,2023-02-18T07:45Z,Dubai Duty Free Tennis Championships,Stefania Bojica,Katarina Zavatska,,,0.0
+130606,2023-02-18T08:10Z,Dubai Duty Free Tennis Championships,Rebecca Marino,Rebeka Masarova,,,0.0
+130601,2023-02-18T08:15Z,Dubai Duty Free Tennis Championships,Lauren Davis,Dayana Yastremska,,,0.0
+130607,2023-02-18T09:10Z,Dubai Duty Free Tennis Championships,Ana Bogdan,Tereza Martincova,,,1.0
+130608,2023-02-18T10:00Z,Dubai Duty Free Tennis Championships,Kristina Mladenovic,Julia Grabher,,,0.0
+130674,2023-02-19T08:10Z,Dubai Duty Free Tennis Championships,Dayana Yastremska,Alize Cornet,,,1.0
+130696,2023-02-19T08:10Z,Dubai Duty Free Tennis Championships,Irina-Camelia Begu,Barbora Krejcikova,,,0.0
+130712,2023-02-19T08:10Z,Dubai Duty Free Tennis Championships,Jasmine Paolini,Madison Keys,,,0.0
+130692,2023-02-19T09:30Z,Dubai Duty Free Tennis Championships,Martina Trevisan,Petra Kvitova,,,0.0
+130684,2023-02-19T09:40Z,Dubai Duty Free Tennis Championships,Zheng Qinwen,Zhang Shuai,,,1.0
+130724,2023-02-19T10:00Z,Dubai Duty Free Tennis Championships,Sofia Kenin,Marie Bouzkova,,,0.0
+130678,2023-02-19T11:00Z,Dubai Duty Free Tennis Championships,Paula Badosa,Liudmila Samsonova,,,0.0
+130705,2023-02-19T11:00Z,Dubai Duty Free Tennis Championships,Kaia Kanepi,Viktoriya Tomova,,,0.0
+130713,2023-02-19T11:20Z,Dubai Duty Free Tennis Championships,Amanda Anisimova,Vera Zvonareva,,,1.0
+130689,2023-02-19T12:50Z,Dubai Duty Free Tennis Championships,Linda Fruhvirtova,Danielle Collins,,,1.0
+130682,2023-02-19T15:15Z,Dubai Duty Free Tennis Championships,Julia Grabher,Leylah Fernandez,,,0.0
+130702,2023-02-19T16:45Z,Dubai Duty Free Tennis Championships,Ipek Oz,Marta Kostyuk,,,0.0
+130680,2023-02-20T08:10Z,Dubai Duty Free Tennis Championships,Veronika Kudermetova,Anhelina Kalinina,,,0.0
+130707,2023-02-20T08:10Z,Dubai Duty Free Tennis Championships,Laura Siegemund,Ana Bogdan,,,0.0
+130711,2023-02-20T08:10Z,Dubai Duty Free Tennis Championships,Sorana Cirstea,Beatriz Haddad Maia,,,1.0
+130701,2023-02-20T10:25Z,Dubai Duty Free Tennis Championships,Karolina Muchova,Bernarda Pera,,,1.0
+130687,2023-02-20T11:30Z,Dubai Duty Free Tennis Championships,Jil Teichmann,Lauren Davis,,,0.0
+130676,2023-02-20T11:55Z,Dubai Duty Free Tennis Championships,Karolina Pliskova,Marketa Vondrousova,,,1.0
+130718,2023-02-20T11:55Z,Dubai Duty Free Tennis Championships,Aliaksandra Sasnovich,Rebeka Masarova,,,1.0
+130727,2023-02-20T13:40Z,Dubai Duty Free Tennis Championships,Anastasia Pavlyuchenkova,Victoria Azarenka,,,0.0
+130694,2023-02-20T14:10Z,Dubai Duty Free Tennis Championships,Petra Martic,Yulia Putintseva,,,0.0
+130673,2023-02-20T15:35Z,Dubai Duty Free Tennis Championships,Jelena Ostapenko,Katarina Zavatska,,,1.0
+130709,2023-02-20T16:05Z,Dubai Duty Free Tennis Championships,Claire Liu,Shelby Rogers,,,0.0
+130722,2023-02-20T17:20Z,Dubai Duty Free Tennis Championships,Elena Rybakina,Bianca Andreescu,,,1.0
+130688,2023-02-21T07:10Z,Dubai Duty Free Tennis Championships,Daria Kasatkina,Barbora Krejcikova,,,0.0
+130710,2023-02-21T07:10Z,Dubai Duty Free Tennis Championships,Anhelina Kalinina,Dayana Yastremska,,,1.0
+130706,2023-02-21T08:10Z,Dubai Duty Free Tennis Championships,Caroline Garcia,Madison Keys,,,0.0
+130708,2023-02-21T08:10Z,Dubai Duty Free Tennis Championships,Karolina Pliskova,Maria Sakkari,,,1.0
+130704,2023-02-21T09:40Z,Dubai Duty Free Tennis Championships,Amanda Anisimova,Victoria Azarenka,,,0.0
+130697,2023-02-21T09:45Z,Dubai Duty Free Tennis Championships,Karolina Muchova,Sorana Cirstea,,,1.0
+130703,2023-02-21T10:00Z,Dubai Duty Free Tennis Championships,Zheng Qinwen,Liudmila Samsonova,,,0.0
+130693,2023-02-21T10:15Z,Dubai Duty Free Tennis Championships,Viktoriya Tomova,Jessica Pegula,,,0.0
+130686,2023-02-21T10:50Z,Dubai Duty Free Tennis Championships,Yulia Putintseva,Petra Kvitova,,,0.0
+130695,2023-02-21T12:20Z,Dubai Duty Free Tennis Championships,Shelby Rogers,Ana Bogdan,,,0.0
+130679,2023-02-21T12:25Z,Dubai Duty Free Tennis Championships,Lauren Davis,Aryna Sabalenka,,,0.0
+130683,2023-02-21T12:25Z,Dubai Duty Free Tennis Championships,Jelena Ostapenko,Linda Fruhvirtova,,,1.0
+130699,2023-02-21T12:25Z,Dubai Duty Free Tennis Championships,Belinda Bencic,Marta Kostyuk,,,1.0
+130717,2023-02-21T15:10Z,Dubai Duty Free Tennis Championships,Iga Swiatek,Leylah Fernandez,,,1.0
+130690,2023-02-21T16:15Z,Dubai Duty Free Tennis Championships,Elena Rybakina,Marie Bouzkova,,,1.0
+130700,2023-02-21T16:45Z,Dubai Duty Free Tennis Championships,Aliaksandra Sasnovich,Coco Gauff,,,0.0
+130675,2023-02-22T08:10Z,Dubai Duty Free Tennis Championships,Anhelina Kalinina,Karolina Pliskova,,,0.0
+130730,2023-02-22T08:10Z,Dubai Duty Free Tennis Championships,Ana Bogdan,Jessica Pegula,,,0.0
+130677,2023-02-22T10:10Z,Dubai Duty Free Tennis Championships,Madison Keys,Victoria Azarenka,,,1.0
+130729,2023-02-22T11:10Z,Dubai Duty Free Tennis Championships,Belinda Bencic,Karolina Muchova,,,0.0
+130681,2023-02-22T11:30Z,Dubai Duty Free Tennis Championships,Iga Swiatek,Liudmila Samsonova,,,1.0
+130731,2023-02-22T12:30Z,Dubai Duty Free Tennis Championships,Elena Rybakina,Coco Gauff,,,0.0
+130728,2023-02-22T15:10Z,Dubai Duty Free Tennis Championships,Jelena Ostapenko,Aryna Sabalenka,,,0.0
+130726,2023-02-22T17:10Z,Dubai Duty Free Tennis Championships,Barbora Krejcikova,Petra Kvitova,,,1.0
+130725,2023-02-23T13:20Z,Dubai Duty Free Tennis Championships,Madison Keys,Coco Gauff,,,0.0
+130721,2023-02-23T15:00Z,Dubai Duty Free Tennis Championships,Barbora Krejcikova,Aryna Sabalenka,,,1.0
+130719,2023-02-23T17:10Z,Dubai Duty Free Tennis Championships,Karolina Muchova,Jessica Pegula,,,0.0
+130734,2023-02-24T13:10Z,Dubai Duty Free Tennis Championships,Iga Swiatek,Coco Gauff,,,1.0
+130733,2023-02-24T15:10Z,Dubai Duty Free Tennis Championships,Jessica Pegula,Barbora Krejcikova,,,0.0
+130723,2023-02-25T05:00Z,Dubai Duty Free Tennis Championships,Iga Swiatek,Karolina Pliskova,,,1.0
+130732,2023-02-25T15:25Z,Dubai Duty Free Tennis Championships,Iga Swiatek,Barbora Krejcikova,,,0.0
+130863,2023-02-25T07:00Z,Dubai Duty Free Tennis Championships,Marton Fucsovics,Tomas Machac,,,0.0
+130864,2023-02-25T07:00Z,Dubai Duty Free Tennis Championships,Simon carr,Matteo Arnaldi,,,0.0
+130868,2023-02-25T07:00Z,Dubai Duty Free Tennis Championships,Yuki Bhambri,Francesco Passaro,,,0.0
+130865,2023-02-25T08:30Z,Dubai Duty Free Tennis Championships,Ilya Ivashka,Aleksandr Shevchenko,,,0.0
+130866,2023-02-25T08:30Z,Dubai Duty Free Tennis Championships,Pavel Kotov,Roman Safiullin,,,1.0
+130867,2023-02-25T08:30Z,Dubai Duty Free Tennis Championships,Zhang Zhizhen,Alexandar Lazarov,,,0.0
+130861,2023-02-25T10:00Z,Dubai Duty Free Tennis Championships,Quentin Halys,Nikoloz Basilashvili,,,1.0
+130862,2023-02-25T10:00Z,Dubai Duty Free Tennis Championships,Kareem Al Allaf,Christopher O'Connell,,,0.0
+130910,2023-02-26T07:00Z,Dubai Duty Free Tennis Championships,Tomas Machac,Matteo Arnaldi,,,1.0
+130912,2023-02-26T07:00Z,Dubai Duty Free Tennis Championships,Alexandar Lazarov,Francesco Passaro,,,1.0
+130909,2023-02-26T08:30Z,Dubai Duty Free Tennis Championships,Quentin Halys,Christopher O'Connell,,,0.0
+130911,2023-02-26T08:30Z,Dubai Duty Free Tennis Championships,Aleksandr Shevchenko,Pavel Kotov,,,0.0
+130920,2023-02-27T10:10Z,Dubai Duty Free Tennis Championships,Marc-Andrea Huesler,Lorenzo Sonego,,,0.0
+130922,2023-02-27T10:10Z,Dubai Duty Free Tennis Championships,Thanasi Kokkinakis,Quentin Halys,,,1.0
+130926,2023-02-27T11:50Z,Dubai Duty Free Tennis Championships,Tallon Griekspoor,Constant Lestienne,,,1.0
+130917,2023-02-27T12:25Z,Dubai Duty Free Tennis Championships,Malek Jaziri,Alejandro Davidovich Fokina,,,0.0
+130928,2023-02-27T14:10Z,Dubai Duty Free Tennis Championships,Alexei Popyrin,Pavel Kotov,,,0.0
+130935,2023-02-27T15:10Z,Dubai Duty Free Tennis Championships,Filip Krajinovic,Andrey Rublev,,,0.0
+130916,2023-02-27T17:00Z,Dubai Duty Free Tennis Championships,Alexander Zverev,Jiri Lehecka,,,1.0
+130913,2023-02-28T10:10Z,Dubai Duty Free Tennis Championships,Emil Ruusuvuori,Christopher O'Connell,,,0.0
+130921,2023-02-28T10:10Z,Dubai Duty Free Tennis Championships,Maxime Cressy,Felix Auger-Aliassime,,,0.0
+130918,2023-02-28T10:15Z,Dubai Duty Free Tennis Championships,Karen Khachanov,Botic Van De Zandschulp,,,0.0
+130923,2023-02-28T12:10Z,Dubai Duty Free Tennis Championships,Daniel Evans,Borna Coric,,,0.0
+130919,2023-02-28T12:15Z,Dubai Duty Free Tennis Championships,Francesco Passaro,Mikael Ymer,,,0.0
+130914,2023-02-28T13:10Z,Dubai Duty Free Tennis Championships,Alexander Bublik,Alexandar Lazarov,,,1.0
+130925,2023-02-28T13:35Z,Dubai Duty Free Tennis Championships,Daniil Medvedev,Matteo Arnaldi,,,1.0
+130915,2023-02-28T15:35Z,Dubai Duty Free Tennis Championships,Novak Djokovic,Tomas Machac,,,1.0
+130924,2023-02-28T18:30Z,Dubai Duty Free Tennis Championships,Aleksandr Shevchenko,Hubert Hurkacz,,,0.0
+130927,2023-03-01T10:10Z,Dubai Duty Free Tennis Championships,Alejandro Davidovich Fokina,Andrey Rublev,,,0.0
+130930,2023-03-01T10:10Z,Dubai Duty Free Tennis Championships,Botic Van De Zandschulp,Mikael Ymer,,,1.0
+130929,2023-03-01T13:00Z,Dubai Duty Free Tennis Championships,Lorenzo Sonego,Felix Auger-Aliassime,,,1.0
+130932,2023-03-01T13:05Z,Dubai Duty Free Tennis Championships,Alexander Zverev,Christopher O'Connell,,,1.0
+130931,2023-03-01T14:45Z,Dubai Duty Free Tennis Championships,Thanasi Kokkinakis,Borna Coric,,,0.0
+130936,2023-03-01T15:20Z,Dubai Duty Free Tennis Championships,Novak Djokovic,Tallon Griekspoor,,,1.0
+130934,2023-03-01T17:05Z,Dubai Duty Free Tennis Championships,Daniil Medvedev,Alexander Bublik,,,1.0
+130933,2023-03-01T18:00Z,Dubai Duty Free Tennis Championships,Pavel Kotov,Hubert Hurkacz,,,0.0
+130937,2023-03-02T11:15Z,Dubai Duty Free Tennis Championships,Alexander Zverev,Lorenzo Sonego,,,1.0
+130938,2023-03-02T13:25Z,Dubai Duty Free Tennis Championships,Botic Van De Zandschulp,Andrey Rublev,,,0.0
+130940,2023-03-02T15:45Z,Dubai Duty Free Tennis Championships,Novak Djokovic,Hubert Hurkacz,,,1.0
+130939,2023-03-02T17:25Z,Dubai Duty Free Tennis Championships,Daniil Medvedev,Borna Coric,,,1.0
+130942,2023-03-03T13:15Z,Dubai Duty Free Tennis Championships,Alexander Zverev,Andrey Rublev,,,0.0
+130941,2023-03-03T15:40Z,Dubai Duty Free Tennis Championships,Novak Djokovic,Daniil Medvedev,,,0.0
+130943,2023-03-04T15:10Z,Dubai Duty Free Tennis Championships,Daniil Medvedev,Andrey Rublev,,,1.0
+130610,2023-02-18T08:00Z,Qatar ExxonMobil Open,Mubarak Shannan Zayid,Liam Broady,,,0.0
+130614,2023-02-18T08:00Z,Qatar ExxonMobil Open,Otto Virtanen,Aleksandr Shevchenko,,,1.0
+130615,2023-02-18T08:00Z,Qatar ExxonMobil Open,Matteo Arnaldi,Oleksii Krutykh,,,0.0
+130609,2023-02-18T08:00Z,Qatar ExxonMobil Open,Nikoloz Basilashvili,Cem Ilkel,,,1.0
+130611,2023-02-18T09:30Z,Qatar ExxonMobil Open,Zhang Zhizhen,Alexandre Muller,,,0.0
+130612,2023-02-18T09:30Z,Qatar ExxonMobil Open,Vit Kopriva,Tomas Machac,,,0.0
+130613,2023-02-18T09:30Z,Qatar ExxonMobil Open,Francesco Passaro,Damir Dzumhur,,,0.0
+130616,2023-02-18T09:30Z,Qatar ExxonMobil Open,Yuki Bhambri,Pavel Kotov,,,0.0
+130671,2023-02-19T12:30Z,Qatar ExxonMobil Open,Oleksii Krutykh,Pavel Kotov,,,1.0
+130668,2023-02-19T12:30Z,Qatar ExxonMobil Open,Nikoloz Basilashvili,Liam Broady,,,0.0
+130669,2023-02-19T12:30Z,Qatar ExxonMobil Open,Alexandre Muller,Tomas Machac,,,1.0
+130670,2023-02-19T12:30Z,Qatar ExxonMobil Open,Damir Dzumhur,Otto Virtanen,,,1.0
+130650,2023-02-20T11:40Z,Qatar ExxonMobil Open,Aslan Karatsev,Jason Kubler,,,0.0
+130657,2023-02-20T13:15Z,Qatar ExxonMobil Open,Fernando Verdasco,Christopher O'Connell,,,0.0
+130644,2023-02-20T15:05Z,Qatar ExxonMobil Open,Oleksii Krutykh,Liam Broady,,,0.0
+130662,2023-02-20T15:20Z,Qatar ExxonMobil Open,Lorenzo Sonego,Andy Murray,,,0.0
+130652,2023-02-20T18:10Z,Qatar ExxonMobil Open,Alejandro Davidovich Fokina,Constant Lestienne,,,1.0
+130665,2023-02-21T11:40Z,Qatar ExxonMobil Open,Tallon Griekspoor,Quentin Halys,,,1.0
+130660,2023-02-21T11:40Z,Qatar ExxonMobil Open,Ilya Ivashka,Botic Van De Zandschulp,,,0.0
+130664,2023-02-21T13:30Z,Qatar ExxonMobil Open,Emil Ruusuvuori,Daniel Evans,,,1.0
+130659,2023-02-21T14:10Z,Qatar ExxonMobil Open,Nikoloz Basilashvili,Alexandre Muller,,,0.0
+130653,2023-02-21T15:40Z,Qatar ExxonMobil Open,Abdullah Shelbayh,SoonWoo Kwon,,,0.0
+130663,2023-02-21T17:10Z,Qatar ExxonMobil Open,Damir Dzumhur,Jiri Lehecka,,,0.0
+130656,2023-02-21T17:55Z,Qatar ExxonMobil Open,Roberto Bautista Agut,Marton Fucsovics,,,1.0
+130642,2023-02-22T11:45Z,Qatar ExxonMobil Open,Jason Kubler,Felix Auger-Aliassime,,,0.0
+130649,2023-02-22T13:15Z,Qatar ExxonMobil Open,Jiri Lehecka,Emil Ruusuvuori,,,1.0
+130647,2023-02-22T14:15Z,Qatar ExxonMobil Open,Alexandre Muller,Botic Van De Zandschulp,,,1.0
+130648,2023-02-22T14:25Z,Qatar ExxonMobil Open,Andrey Rublev,Tallon Griekspoor,,,1.0
+130655,2023-02-22T14:30Z,Qatar ExxonMobil Open,Alejandro Davidovich Fokina,SoonWoo Kwon,,,1.0
+130646,2023-02-22T16:40Z,Qatar ExxonMobil Open,Alexander Zverev,Andy Murray,,,0.0
+130658,2023-02-22T17:25Z,Qatar ExxonMobil Open,Roberto Bautista Agut,Christopher O'Connell,,,0.0
+130654,2023-02-22T20:05Z,Qatar ExxonMobil Open,Liam Broady,Daniil Medvedev,,,0.0
+130643,2023-02-23T11:40Z,Qatar ExxonMobil Open,Andrey Rublev,Jiri Lehecka,,,0.0
+130640,2023-02-23T13:40Z,Qatar ExxonMobil Open,Andy Murray,Alexandre Muller,,,1.0
+130641,2023-02-23T16:10Z,Qatar ExxonMobil Open,Christopher O'Connell,Daniil Medvedev,,,0.0
+130639,2023-02-23T18:25Z,Qatar ExxonMobil Open,Alejandro Davidovich Fokina,Felix Auger-Aliassime,,,0.0
+130667,2023-02-24T14:40Z,Qatar ExxonMobil Open,Jiri Lehecka,Andy Murray,,,0.0
+130666,2023-02-24T17:30Z,Qatar ExxonMobil Open,Daniil Medvedev,Felix Auger-Aliassime,,,1.0
+130637,2023-02-25T15:15Z,Qatar ExxonMobil Open,Andy Murray,Daniil Medvedev,,,0.0
+130618,2023-02-18T19:00Z,Rio Open presented by Claro,Federico Delbonis,Yannick Hanfmann,,,0.0
+130623,2023-02-18T19:00Z,Rio Open presented by Claro,Juan Manuel Cerundolo,Matheus Pucinelli De Almeida,,,1.0
+130624,2023-02-18T19:00Z,Rio Open presented by Claro,Nicolas Jarry,Camilo Ugo Carabelli,,,1.0
+130617,2023-02-18T19:00Z,Rio Open presented by Claro,Facundo Bagnis,Joao Lucas Reis Da Silva,,,1.0
+130619,2023-02-18T20:30Z,Rio Open presented by Claro,Marco Cecchinato,Alejandro Tabilo,,,0.0
+130620,2023-02-18T20:30Z,Rio Open presented by Claro,Tomas Barrios Vera,Jozef Kovalik,,,1.0
+130621,2023-02-18T20:30Z,Rio Open presented by Claro,Hugo Gaston,Felipe Meligeni Alves,,,1.0
+130622,2023-02-18T20:30Z,Rio Open presented by Claro,Eduardo Ribeiro,Timofey Skatov,,,1.0
+130781,2023-02-19T19:00Z,Rio Open presented by Claro,Alejandro Tabilo,Tomas Barrios Vera,,,0.0
+130783,2023-02-19T19:00Z,Rio Open presented by Claro,Juan Manuel Cerundolo,Nicolas Jarry,,,0.0
+130782,2023-02-19T19:00Z,Rio Open presented by Claro,Hugo Gaston,Eduardo Ribeiro,,,1.0
+130780,2023-02-19T19:00Z,Rio Open presented by Claro,Facundo Bagnis,Yannick Hanfmann,,,1.0
+130786,2023-02-20T19:40Z,Rio Open presented by Claro,João Sousa,Hugo Dellien,,,0.0
+130794,2023-02-20T19:40Z,Rio Open presented by Claro,Pedro Martinez,Cristian Garin,,,1.0
+130788,2023-02-20T19:40Z,Rio Open presented by Claro,Alex Molcan,Joao Fonseca,,,1.0
+130785,2023-02-20T22:10Z,Rio Open presented by Claro,Dominic Thiem,Thiago Monteiro,,,0.0
+130800,2023-02-20T22:20Z,Rio Open presented by Claro,Laslo Djere,Facundo Bagnis,,,1.0
+130799,2023-02-21T01:20Z,Rio Open presented by Claro,Lorenzo Musetti,Nicolas Jarry,,,0.0
+130796,2023-02-21T19:40Z,Rio Open presented by Claro,Hugo Gaston,Juan Pablo Varillas,,,0.0
+130789,2023-02-21T19:40Z,Rio Open presented by Claro,Pedro Cachin,Daniel Elahi Galan,,,0.0
+130787,2023-02-21T19:40Z,Rio Open presented by Claro,Roberto Carballes Baena,Francisco Cerundolo,,,0.0
+130810,2023-02-21T19:40Z,Rio Open presented by Claro,Juan Manuel Cerundolo,Cameron Norrie,,,0.0
+130790,2023-02-22T19:40Z,Rio Open presented by Claro,Jaume Munar,Bernabe Zapata Miralles,,,0.0
+130802,2023-02-22T19:45Z,Rio Open presented by Claro,Dusan Lajovic,Diego Schwartzman,,,1.0
+130793,2023-02-22T20:40Z,Rio Open presented by Claro,Albert Ramos-Vinolas,Tomas Martin Etcheverry,,,1.0
+130784,2023-02-22T21:30Z,Rio Open presented by Claro,Fabio Fognini,Tomas Barrios Vera,,,1.0
+130803,2023-02-22T21:30Z,Rio Open presented by Claro,Carlos Alcaraz,Mateus De Carvalho Cardoso Alves,,,1.0
+130804,2023-02-22T21:45Z,Rio Open presented by Claro,Alex Molcan,Hugo Dellien,,,0.0
+130791,2023-02-22T22:15Z,Rio Open presented by Claro,Thomaz Bellucci,Sebastian Baez,,,0.0
+130805,2023-02-23T00:25Z,Rio Open presented by Claro,Thiago Monteiro,Cameron Norrie,,,0.0
+130807,2023-02-23T19:40Z,Rio Open presented by Claro,Bernabe Zapata Miralles,Francisco Cerundolo,,,1.0
+130806,2023-02-23T19:40Z,Rio Open presented by Claro,Albert Ramos-Vinolas,Daniel Elahi Galan,,,1.0
+130808,2023-02-23T21:15Z,Rio Open presented by Claro,Nicolas Jarry,Pedro Martinez,,,1.0
+130809,2023-02-23T21:40Z,Rio Open presented by Claro,Juan Pablo Varillas,Sebastian Baez,,,0.0
+130798,2023-02-23T22:10Z,Rio Open presented by Claro,Carlos Alcaraz,Fabio Fognini,,,1.0
+130811,2023-02-24T01:20Z,Rio Open presented by Claro,Laslo Djere,Dusan Lajovic,,,0.0
+130813,2023-02-24T19:10Z,Rio Open presented by Claro,Albert Ramos-Vinolas,Bernabe Zapata Miralles,,,0.0
+130795,2023-02-24T19:30Z,Rio Open presented by Claro,Hugo Dellien,Cameron Norrie,,,0.0
+130801,2023-02-24T22:00Z,Rio Open presented by Claro,Carlos Alcaraz,Dusan Lajovic,,,1.0
+130812,2023-02-25T00:15Z,Rio Open presented by Claro,Nicolas Jarry,Sebastian Baez,,,1.0
+130792,2023-02-25T20:10Z,Rio Open presented by Claro,Bernabe Zapata Miralles,Cameron Norrie,,,0.0
+130797,2023-02-25T23:10Z,Rio Open presented by Claro,Carlos Alcaraz,Nicolas Jarry,,,1.0
+130814,2023-02-26T20:10Z,Rio Open presented by Claro,Carlos Alcaraz,Cameron Norrie,,,0.0
+130773,2023-02-19T10:00Z,Grand Prix Auvergne-Rhône-Alpes,Alexander Ritschard,Fabian Marozsan,,,1.0
+130772,2023-02-19T10:00Z,Grand Prix Auvergne-Rhône-Alpes,Hugo Grenier,Antoine Bellier,,,0.0
+130768,2023-02-19T11:30Z,Grand Prix Auvergne-Rhône-Alpes,Lukas Klein,Clement Chidekh,,,1.0
+130769,2023-02-19T12:00Z,Grand Prix Auvergne-Rhône-Alpes,Zsombor Piros,Manuel Guinard,,,1.0
+130771,2023-02-19T13:00Z,Grand Prix Auvergne-Rhône-Alpes,Egor Gerasimov,Laurent Lokoli,,,0.0
+130766,2023-02-19T13:30Z,Grand Prix Auvergne-Rhône-Alpes,Raul Brancaccio,Emilio Nava,,,1.0
+130767,2023-02-19T14:30Z,Grand Prix Auvergne-Rhône-Alpes,Sascha Gueymard Wayenburg,Gijs Brouwer,,,0.0
+130770,2023-02-19T15:00Z,Grand Prix Auvergne-Rhône-Alpes,Filip Misolic,Kimmer Coppejans,,,1.0
+130849,2023-02-20T11:00Z,Grand Prix Auvergne-Rhône-Alpes,Antoine Bellier,Alexander Ritschard,,,0.0
+130847,2023-02-20T11:00Z,Grand Prix Auvergne-Rhône-Alpes,Lukas Klein,Zsombor Piros,,,1.0
+130848,2023-02-20T12:30Z,Grand Prix Auvergne-Rhône-Alpes,Filip Misolic,Laurent Lokoli,,,0.0
+130846,2023-02-20T12:30Z,Grand Prix Auvergne-Rhône-Alpes,Raul Brancaccio,Gijs Brouwer,,,0.0
+130763,2023-02-20T15:10Z,Grand Prix Auvergne-Rhône-Alpes,Alexander Bublik,Filip Krajinovic,,,1.0
+130736,2023-02-20T17:35Z,Grand Prix Auvergne-Rhône-Alpes,Benjamin Bonzi,Luca Van Assche,,,1.0
+130746,2023-02-20T19:00Z,Grand Prix Auvergne-Rhône-Alpes,Zizou Bergs,Stan Wawrinka,,,0.0
+130757,2023-02-21T11:40Z,Grand Prix Auvergne-Rhône-Alpes,Elias Ymer,Gijs Brouwer,,,0.0
+130764,2023-02-21T12:40Z,Grand Prix Auvergne-Rhône-Alpes,Gregoire Barrere,Marc-Andrea Huesler,,,1.0
+130742,2023-02-21T14:00Z,Grand Prix Auvergne-Rhône-Alpes,Maxime Cressy,Geoffrey Blancaneaux,,,1.0
+130750,2023-02-21T17:10Z,Grand Prix Auvergne-Rhône-Alpes,Richard Gasquet,Laurent Lokoli,,,1.0
+130744,2023-02-21T17:30Z,Grand Prix Auvergne-Rhône-Alpes,Lukas Klein,David Goffin,,,0.0
+130761,2023-02-21T19:10Z,Grand Prix Auvergne-Rhône-Alpes,Alexander Ritschard,Pablo Andujar,,,1.0
+130756,2023-02-21T20:45Z,Grand Prix Auvergne-Rhône-Alpes,Arthur Rinderknech,Leandro Riedi,,,0.0
+130748,2023-02-22T11:40Z,Grand Prix Auvergne-Rhône-Alpes,Mikael Ymer,Radu Albot,,,1.0
+130758,2023-02-22T12:40Z,Grand Prix Auvergne-Rhône-Alpes,Maxime Cressy,Benjamin Bonzi,,,0.0
+130751,2023-02-22T15:10Z,Grand Prix Auvergne-Rhône-Alpes,Arthur Fils,Roman Safiullin,,,1.0
+130740,2023-02-22T17:10Z,Grand Prix Auvergne-Rhône-Alpes,Alexander Bublik,Gregoire Barrere,,,1.0
+130752,2023-02-22T19:10Z,Grand Prix Auvergne-Rhône-Alpes,Richard Gasquet,Stan Wawrinka,,,0.0
+130738,2023-02-23T10:40Z,Grand Prix Auvergne-Rhône-Alpes,Mikael Ymer,David Goffin,,,1.0
+130760,2023-02-23T12:40Z,Grand Prix Auvergne-Rhône-Alpes,Hubert Hurkacz,Leandro Riedi,,,1.0
+130759,2023-02-23T14:45Z,Grand Prix Auvergne-Rhône-Alpes,Grigor Dimitrov,Gijs Brouwer,,,1.0
+130737,2023-02-23T17:00Z,Grand Prix Auvergne-Rhône-Alpes,Arthur Fils,Jannik Sinner,,,1.0
+130739,2023-02-23T19:05Z,Grand Prix Auvergne-Rhône-Alpes,Alexander Ritschard,Alex de Minaur,,,0.0
+130745,2023-02-24T13:30Z,Grand Prix Auvergne-Rhône-Alpes,Hubert Hurkacz,Mikael Ymer,,,1.0
+130735,2023-02-24T16:45Z,Grand Prix Auvergne-Rhône-Alpes,Grigor Dimitrov,Alexander Bublik,,,0.0
+130765,2023-02-24T19:30Z,Grand Prix Auvergne-Rhône-Alpes,Stan Wawrinka,Arthur Fils,,,0.0
+130755,2023-02-24T20:55Z,Grand Prix Auvergne-Rhône-Alpes,Benjamin Bonzi,Alex de Minaur,,,1.0
+130743,2023-02-25T13:40Z,Grand Prix Auvergne-Rhône-Alpes,Hubert Hurkacz,Alexander Bublik,,,1.0
+130741,2023-02-25T15:30Z,Grand Prix Auvergne-Rhône-Alpes,Benjamin Bonzi,Arthur Fils,,,1.0
+130749,2023-02-26T13:10Z,Grand Prix Auvergne-Rhône-Alpes,Hubert Hurkacz,Benjamin Bonzi,,,1.0
+130882,2023-02-25T15:00Z,BCI Seguros Chile Open,Gonzalo Lama,Riccardo Bonadio,,,0.0
+130885,2023-02-25T15:00Z,BCI Seguros Chile Open,Camilo Ugo Carabelli,Facundo Diaz Acosta,,,1.0
+130881,2023-02-25T15:00Z,BCI Seguros Chile Open,Hugo Gaston,Renzo Olivo,,,0.0
+130884,2023-02-25T16:30Z,BCI Seguros Chile Open,Federico Delbonis,Felipe Meligeni Alves,,,1.0
+130886,2023-02-25T16:30Z,BCI Seguros Chile Open,Thiago Seyboth Wild,Franco Agamenone,,,1.0
+130883,2023-02-25T17:00Z,BCI Seguros Chile Open,Juan Manuel Cerundolo,Tomas Barrios Vera,,,1.0
+130887,2023-02-25T18:00Z,BCI Seguros Chile Open,Yannick Hanfmann,Andrea Pellegrino,,,1.0
+130888,2023-02-25T18:00Z,BCI Seguros Chile Open,Carlos Taberner,Jozef Kovalik,,,1.0
+130944,2023-02-26T15:00Z,BCI Seguros Chile Open,Renzo Olivo,Riccardo Bonadio,,,0.0
+130945,2023-02-26T15:00Z,BCI Seguros Chile Open,Juan Manuel Cerundolo,Federico Delbonis,,,1.0
+130946,2023-02-26T16:00Z,BCI Seguros Chile Open,Camilo Ugo Carabelli,Thiago Seyboth Wild,,,1.0
+130947,2023-02-26T16:30Z,BCI Seguros Chile Open,Yannick Hanfmann,Carlos Taberner,,,1.0
+131050,2023-02-27T17:10Z,BCI Seguros Chile Open,Pedro Martinez,Yannick Hanfmann,,,0.0
+131045,2023-02-27T19:05Z,BCI Seguros Chile Open,Pedro Cachin,Juan Manuel Cerundolo,,,0.0
+131048,2023-02-27T22:05Z,BCI Seguros Chile Open,Riccardo Bonadio,Daniel Elahi Galan,,,1.0
+131027,2023-02-27T23:40Z,BCI Seguros Chile Open,Alejandro Tabilo,Jaume Munar,,,0.0
+131025,2023-02-28T17:00Z,BCI Seguros Chile Open,Thiago Monteiro,Albert Ramos-Vinolas,,,1.0
+131043,2023-02-28T17:00Z,BCI Seguros Chile Open,Camilo Ugo Carabelli,Dusan Lajovic,,,0.0
+131038,2023-02-28T17:00Z,BCI Seguros Chile Open,Fabio Fognini,Tomas Martin Etcheverry,,,0.0
+131049,2023-02-28T18:40Z,BCI Seguros Chile Open,Roberto Carballes Baena,Carlos Taberner,,,1.0
+131039,2023-02-28T19:20Z,BCI Seguros Chile Open,Laslo Djere,João Sousa,,,1.0
+131026,2023-02-28T20:30Z,BCI Seguros Chile Open,Facundo Bagnis,Marco Cecchinato,,,0.0
+131051,2023-02-28T20:55Z,BCI Seguros Chile Open,Nicolas Jarry,Juan Pablo Varillas,,,1.0
+131047,2023-02-28T23:40Z,BCI Seguros Chile Open,Dominic Thiem,Cristian Garin,,,0.0
+131033,2023-03-01T17:10Z,BCI Seguros Chile Open,Yannick Hanfmann,Roberto Carballes Baena,,,1.0
+131036,2023-03-01T19:25Z,BCI Seguros Chile Open,Lorenzo Musetti,Jaume Munar,,,0.0
+131035,2023-03-01T21:45Z,BCI Seguros Chile Open,Marco Cecchinato,Thiago Monteiro,,,0.0
+131034,2023-03-01T23:40Z,BCI Seguros Chile Open,Diego Schwartzman,Nicolas Jarry,,,0.0
+131030,2023-03-02T17:10Z,BCI Seguros Chile Open,Juan Manuel Cerundolo,Dusan Lajovic,,,0.0
+131032,2023-03-02T19:10Z,BCI Seguros Chile Open,Laslo Djere,Riccardo Bonadio,,,1.0
+131028,2023-03-02T20:05Z,BCI Seguros Chile Open,Tomas Martin Etcheverry,Francisco Cerundolo,,,1.0
+131031,2023-03-02T22:55Z,BCI Seguros Chile Open,Cristian Garin,Sebastian Baez,,,0.0
+131040,2023-03-03T17:10Z,BCI Seguros Chile Open,Dusan Lajovic,Tomas Martin Etcheverry,,,0.0
+131041,2023-03-03T19:10Z,BCI Seguros Chile Open,Laslo Djere,Sebastian Baez,,,0.0
+131044,2023-03-03T21:25Z,BCI Seguros Chile Open,Jaume Munar,Thiago Monteiro,,,1.0
+131042,2023-03-04T00:25Z,BCI Seguros Chile Open,Nicolas Jarry,Yannick Hanfmann,,,1.0
+131023,2023-03-04T21:10Z,BCI Seguros Chile Open,Sebastian Baez,Tomas Martin Etcheverry,,,0.0
+131024,2023-03-04T23:10Z,BCI Seguros Chile Open,Jaume Munar,Nicolas Jarry,,,0.0
+131022,2023-03-05T22:10Z,BCI Seguros Chile Open,Nicolas Jarry,Tomas Martin Etcheverry,,,1.0
+130907,2023-02-25T23:00Z,Abierto Mexicano Telcel presentado por HSBC,Elias Ymer,Bradley Klahn,,,1.0
+130908,2023-02-25T23:00Z,Abierto Mexicano Telcel presentado por HSBC,Guido Andreozzi,Facundo Mena,,,1.0
+130901,2023-02-25T23:00Z,Abierto Mexicano Telcel presentado por HSBC,Taro Daniel,Alex Hernandez,,,1.0
+130902,2023-02-26T00:30Z,Abierto Mexicano Telcel presentado por HSBC,Ernesto Escobedo,Brandon Holt,,,0.0
+130905,2023-02-26T00:30Z,Abierto Mexicano Telcel presentado por HSBC,Geoffrey Blancaneaux,Jacopo Berrettini,,,0.0
+130906,2023-02-26T00:30Z,Abierto Mexicano Telcel presentado por HSBC,Yuichi Sugita,Luciano Darderi,,,0.0
+130903,2023-02-26T02:00Z,Abierto Mexicano Telcel presentado por HSBC,Steve Johnson,Nick Chappell,,,0.0
+130904,2023-02-26T02:00Z,Abierto Mexicano Telcel presentado por HSBC,Rubin Statham,Gonzalo Villanueva,,,1.0
+131087,2023-02-26T23:00Z,Abierto Mexicano Telcel presentado por HSBC,Elias Ymer,Guido Andreozzi,,,0.0
+131084,2023-02-26T23:00Z,Abierto Mexicano Telcel presentado por HSBC,Taro Daniel,Brandon Holt,,,1.0
+131086,2023-02-27T00:30Z,Abierto Mexicano Telcel presentado por HSBC,Jacopo Berrettini,Luciano Darderi,,,1.0
+131085,2023-02-27T00:30Z,Abierto Mexicano Telcel presentado por HSBC,Nick Chappell,Rubin Statham,,,1.0
+130968,2023-02-28T00:10Z,Abierto Mexicano Telcel presentado por HSBC,Denis Shapovalov,Miomir Kecmanovic,,,1.0
+130970,2023-02-28T00:10Z,Abierto Mexicano Telcel presentado por HSBC,Taylor Fritz,John Isner,,,1.0
+130974,2023-02-28T00:10Z,Abierto Mexicano Telcel presentado por HSBC,Marcos Giron,Michael Mmoh,,,0.0
+130960,2023-02-28T02:25Z,Abierto Mexicano Telcel presentado por HSBC,Ben Shelton,Holger Rune,,,0.0
+130966,2023-02-28T02:25Z,Abierto Mexicano Telcel presentado por HSBC,Christopher Eubanks,Feliciano López,,,0.0
+130964,2023-02-28T02:40Z,Abierto Mexicano Telcel presentado por HSBC,Yoshihito Nishioka,Frances Tiafoe,,,0.0
+130987,2023-02-28T04:25Z,Abierto Mexicano Telcel presentado por HSBC,Taro Daniel,J.J. Wolf,,,1.0
+130972,2023-02-28T04:50Z,Abierto Mexicano Telcel presentado por HSBC,Emilio Gomez,Tommy Paul,,,0.0
+130985,2023-02-28T05:00Z,Abierto Mexicano Telcel presentado por HSBC,Guido Andreozzi,Casper Ruud,,,0.0
+130963,2023-03-01T00:10Z,Abierto Mexicano Telcel presentado por HSBC,Elias Ymer,Adrian Mannarino,,,1.0
+130961,2023-03-01T00:10Z,Abierto Mexicano Telcel presentado por HSBC,Nuno Borges,Nick Chappell,,,1.0
+130962,2023-03-01T00:10Z,Abierto Mexicano Telcel presentado por HSBC,Matteo Berrettini,Alex Molcan,,,1.0
+130978,2023-03-01T01:20Z,Abierto Mexicano Telcel presentado por HSBC,Daniel Altmaier,Brandon Nakashima,,,0.0
+130988,2023-03-01T02:10Z,Abierto Mexicano Telcel presentado por HSBC,Jacopo Berrettini,Oscar Otte,,,1.0
+130979,2023-03-01T03:00Z,Abierto Mexicano Telcel presentado por HSBC,Luciano Darderi,Mackenzie McDonald,,,0.0
+130989,2023-03-01T03:50Z,Abierto Mexicano Telcel presentado por HSBC,Alex de Minaur,Rodrigo Pacheco Mendez,,,1.0
+130976,2023-03-02T00:10Z,Abierto Mexicano Telcel presentado por HSBC,Taro Daniel,Casper Ruud,,,1.0
+130986,2023-03-02T00:10Z,Abierto Mexicano Telcel presentado por HSBC,Mackenzie McDonald,Brandon Nakashima,,,1.0
+130982,2023-03-02T00:10Z,Abierto Mexicano Telcel presentado por HSBC,Feliciano López,Frances Tiafoe,,,0.0
+130984,2023-03-02T01:30Z,Abierto Mexicano Telcel presentado por HSBC,Michael Mmoh,Tommy Paul,,,0.0
+130977,2023-03-02T01:55Z,Abierto Mexicano Telcel presentado por HSBC,Alex de Minaur,Jacopo Berrettini,,,1.0
+130981,2023-03-02T03:15Z,Abierto Mexicano Telcel presentado por HSBC,Elias Ymer,Matteo Berrettini,,,0.0
+130983,2023-03-02T03:30Z,Abierto Mexicano Telcel presentado por HSBC,Taylor Fritz,Denis Shapovalov,,,1.0
+130980,2023-03-02T05:10Z,Abierto Mexicano Telcel presentado por HSBC,Nuno Borges,Holger Rune,,,0.0
+130975,2023-03-02T22:40Z,Abierto Mexicano Telcel presentado por HSBC,Mackenzie McDonald,Tommy Paul,,,0.0
+130969,2023-03-03T00:10Z,Abierto Mexicano Telcel presentado por HSBC,Alex de Minaur,Taro Daniel,,,1.0
+130973,2023-03-03T02:10Z,Abierto Mexicano Telcel presentado por HSBC,Taylor Fritz,Frances Tiafoe,,,1.0
+130971,2023-03-03T04:15Z,Abierto Mexicano Telcel presentado por HSBC,Matteo Berrettini,Holger Rune,,,0.0
+130967,2023-03-04T02:10Z,Abierto Mexicano Telcel presentado por HSBC,Tommy Paul,Taylor Fritz,,,1.0
+130965,2023-03-04T05:55Z,Abierto Mexicano Telcel presentado por HSBC,Holger Rune,Alex de Minaur,,,0.0
+130990,2023-03-05T03:10Z,Abierto Mexicano Telcel presentado por HSBC,Tommy Paul,Alex de Minaur,,,0.0

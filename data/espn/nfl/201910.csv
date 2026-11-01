@@ -1,0 +1,60 @@
+id,date,event,home,away,hs,as,res
+401127927,2019-10-04T00:20Z,Los Angeles Rams at Seattle Seahawks,Seattle Seahawks,Los Angeles Rams,30,29,1.0
+401127958,2019-10-06T17:00Z,Arizona Cardinals at Cincinnati Bengals,Cincinnati Bengals,Arizona Cardinals,23,26,0.0
+401128014,2019-10-06T17:00Z,Buffalo Bills at Tennessee Titans,Tennessee Titans,Buffalo Bills,7,14,0.0
+401128001,2019-10-06T17:00Z,Chicago Bears at Oakland Raiders,Oakland Raiders,Chicago Bears,24,21,1.0
+401127965,2019-10-06T17:00Z,Tampa Bay Buccaneers at New Orleans Saints,New Orleans Saints,Tampa Bay Buccaneers,31,24,1.0
+401127971,2019-10-06T17:00Z,Minnesota Vikings at New York Giants,New York Giants,Minnesota Vikings,10,28,0.0
+401128006,2019-10-06T17:00Z,New York Jets at Philadelphia Eagles,Philadelphia Eagles,New York Jets,31,6,1.0
+401128011,2019-10-06T17:00Z,Baltimore Ravens at Pittsburgh Steelers,Pittsburgh Steelers,Baltimore Ravens,23,26,0.0
+401127864,2019-10-06T17:00Z,New England Patriots at Washington Commanders,Washington Commanders,New England Patriots,7,33,0.0
+401127932,2019-10-06T17:00Z,Jacksonville Jaguars at Carolina Panthers,Carolina Panthers,Jacksonville Jaguars,34,27,1.0
+401127960,2019-10-06T17:00Z,Atlanta Falcons at Houston Texans,Houston Texans,Atlanta Falcons,53,32,1.0
+401128019,2019-10-06T20:05Z,Denver Broncos at Los Angeles Chargers,Los Angeles Chargers,Denver Broncos,13,20,0.0
+401128029,2019-10-06T20:25Z,Green Bay Packers at Dallas Cowboys,Dallas Cowboys,Green Bay Packers,24,34,0.0
+401128053,2019-10-07T00:20Z,Indianapolis Colts at Kansas City Chiefs,Kansas City Chiefs,Indianapolis Colts,13,19,0.0
+401128062,2019-10-08T00:15Z,Cleveland Browns at San Francisco 49ers,San Francisco 49ers,Cleveland Browns,31,3,1.0
+401127917,2019-10-11T00:20Z,New York Giants at New England Patriots,New England Patriots,New York Giants,35,14,1.0
+401128096,2019-10-13T13:30Z,Carolina Panthers at Tampa Bay Buccaneers,Tampa Bay Buccaneers,Carolina Panthers,26,37,0.0
+401128111,2019-10-13T17:00Z,Seattle Seahawks at Cleveland Browns,Cleveland Browns,Seattle Seahawks,28,32,0.0
+401128119,2019-10-13T17:00Z,Houston Texans at Kansas City Chiefs,Kansas City Chiefs,Houston Texans,24,31,0.0
+401128121,2019-10-13T17:00Z,Washington Commanders at Miami Dolphins,Miami Dolphins,Washington Commanders,16,17,0.0
+401128123,2019-10-13T17:00Z,Philadelphia Eagles at Minnesota Vikings,Minnesota Vikings,Philadelphia Eagles,38,20,1.0
+401128116,2019-10-13T17:00Z,New Orleans Saints at Jacksonville Jaguars,Jacksonville Jaguars,New Orleans Saints,6,13,0.0
+401128105,2019-10-13T17:00Z,Cincinnati Bengals at Baltimore Ravens,Baltimore Ravens,Cincinnati Bengals,23,17,1.0
+401128128,2019-10-13T20:05Z,San Francisco 49ers at Los Angeles Rams,Los Angeles Rams,San Francisco 49ers,7,20,0.0
+401128126,2019-10-13T20:05Z,Atlanta Falcons at Arizona Cardinals,Arizona Cardinals,Atlanta Falcons,34,33,1.0
+401128129,2019-10-13T20:25Z,Tennessee Titans at Denver Broncos,Denver Broncos,Tennessee Titans,16,0,1.0
+401128130,2019-10-13T20:25Z,Dallas Cowboys at New York Jets,New York Jets,Dallas Cowboys,24,22,1.0
+401128131,2019-10-14T00:20Z,Pittsburgh Steelers at Los Angeles Chargers,Los Angeles Chargers,Pittsburgh Steelers,17,24,0.0
+401128132,2019-10-15T00:15Z,Detroit Lions at Green Bay Packers,Green Bay Packers,Detroit Lions,23,22,1.0
+401127902,2019-10-18T00:20Z,Kansas City Chiefs at Denver Broncos,Denver Broncos,Kansas City Chiefs,6,30,0.0
+401127940,2019-10-20T17:00Z,Los Angeles Rams at Atlanta Falcons,Atlanta Falcons,Los Angeles Rams,10,37,0.0
+401127942,2019-10-20T17:00Z,Miami Dolphins at Buffalo Bills,Buffalo Bills,Miami Dolphins,31,21,1.0
+401127945,2019-10-20T17:00Z,Jacksonville Jaguars at Cincinnati Bengals,Cincinnati Bengals,Jacksonville Jaguars,17,27,0.0
+401127947,2019-10-20T17:00Z,Minnesota Vikings at Detroit Lions,Detroit Lions,Minnesota Vikings,30,42,0.0
+401127949,2019-10-20T17:00Z,Oakland Raiders at Green Bay Packers,Green Bay Packers,Oakland Raiders,42,24,1.0
+401127951,2019-10-20T17:00Z,Houston Texans at Indianapolis Colts,Indianapolis Colts,Houston Texans,30,23,1.0
+401127974,2019-10-20T17:00Z,Arizona Cardinals at New York Giants,New York Giants,Arizona Cardinals,21,27,0.0
+401127977,2019-10-20T17:00Z,San Francisco 49ers at Washington Commanders,Washington Commanders,San Francisco 49ers,0,9,0.0
+401127979,2019-10-20T20:05Z,Los Angeles Chargers at Tennessee Titans,Tennessee Titans,Los Angeles Chargers,23,20,1.0
+401127982,2019-10-20T20:25Z,New Orleans Saints at Chicago Bears,Chicago Bears,New Orleans Saints,25,36,0.0
+401127985,2019-10-20T20:25Z,Baltimore Ravens at Seattle Seahawks,Seattle Seahawks,Baltimore Ravens,16,30,0.0
+401127987,2019-10-21T00:20Z,Philadelphia Eagles at Dallas Cowboys,Dallas Cowboys,Philadelphia Eagles,37,10,1.0
+401127894,2019-10-22T00:15Z,New England Patriots at New York Jets,New York Jets,New England Patriots,0,33,0.0
+401127905,2019-10-25T00:20Z,Washington Commanders at Minnesota Vikings,Minnesota Vikings,Washington Commanders,19,9,1.0
+401128035,2019-10-27T17:00Z,Seattle Seahawks at Atlanta Falcons,Atlanta Falcons,Seattle Seahawks,20,27,0.0
+401128037,2019-10-27T17:00Z,Philadelphia Eagles at Buffalo Bills,Buffalo Bills,Philadelphia Eagles,13,31,0.0
+401128039,2019-10-27T17:00Z,Los Angeles Chargers at Chicago Bears,Chicago Bears,Los Angeles Chargers,16,17,0.0
+401128042,2019-10-27T17:00Z,New York Giants at Detroit Lions,Detroit Lions,New York Giants,31,26,1.0
+401128048,2019-10-27T17:00Z,Tampa Bay Buccaneers at Tennessee Titans,Tennessee Titans,Tampa Bay Buccaneers,27,23,1.0
+401128051,2019-10-27T17:00Z,Denver Broncos at Indianapolis Colts,Indianapolis Colts,Denver Broncos,15,13,1.0
+401127912,2019-10-27T17:00Z,Cincinnati Bengals at Los Angeles Rams,Los Angeles Rams,Cincinnati Bengals,24,10,1.0
+401128046,2019-10-27T17:00Z,Arizona Cardinals at New Orleans Saints,New Orleans Saints,Arizona Cardinals,31,9,1.0
+401128045,2019-10-27T17:00Z,New York Jets at Jacksonville Jaguars,Jacksonville Jaguars,New York Jets,29,15,1.0
+401128050,2019-10-27T20:05Z,Carolina Panthers at San Francisco 49ers,San Francisco 49ers,Carolina Panthers,51,13,1.0
+401127895,2019-10-27T20:25Z,Cleveland Browns at New England Patriots,New England Patriots,Cleveland Browns,27,13,1.0
+401128043,2019-10-27T20:25Z,Oakland Raiders at Houston Texans,Houston Texans,Oakland Raiders,27,24,1.0
+401128073,2019-10-28T00:20Z,Green Bay Packers at Kansas City Chiefs,Kansas City Chiefs,Green Bay Packers,24,31,0.0
+401128074,2019-10-29T00:15Z,Miami Dolphins at Pittsburgh Steelers,Pittsburgh Steelers,Miami Dolphins,27,14,1.0
+401127908,2019-11-01T00:20Z,San Francisco 49ers at Arizona Cardinals,Arizona Cardinals,San Francisco 49ers,25,28,0.0

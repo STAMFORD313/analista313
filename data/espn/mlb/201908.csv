@@ -1,0 +1,420 @@
+id,date,event,home,away,hs,as,res
+401076367,2019-08-01T16:10Z,Minnesota Twins at Miami Marlins,Miami Marlins,Minnesota Twins,5,4,1.0
+401076368,2019-08-01T17:05Z,San Francisco Giants at Philadelphia Phillies,Philadelphia Phillies,San Francisco Giants,10,2,1.0
+401076364,2019-08-01T18:10Z,New York Mets at Chicago White Sox,Chicago White Sox,New York Mets,0,4,0.0
+401076369,2019-08-01T19:37Z,Milwaukee Brewers at Oakland Athletics,Oakland Athletics,Milwaukee Brewers,5,3,1.0
+401076370,2019-08-01T23:05Z,Toronto Blue Jays at Baltimore Orioles,Baltimore Orioles,Toronto Blue Jays,2,11,0.0
+401076363,2019-08-01T23:10Z,Houston Astros at Cleveland Indians,Cleveland Indians,Houston Astros,1,7,0.0
+401076366,2019-08-01T23:10Z,Tampa Bay Rays at Boston Red Sox,Boston Red Sox,Tampa Bay Rays,4,9,0.0
+401076362,2019-08-01T23:15Z,Chicago Cubs at St. Louis Cardinals,St. Louis Cardinals,Chicago Cubs,8,0,1.0
+401076371,2019-08-01T23:20Z,Cincinnati Reds at Atlanta Braves,Atlanta Braves,Cincinnati Reds,4,1,1.0
+401076365,2019-08-02T02:10Z,San Diego Padres at Los Angeles Dodgers,Los Angeles Dodgers,San Diego Padres,8,2,1.0
+401076375,2019-08-02T18:20Z,Milwaukee Brewers at Chicago Cubs,Chicago Cubs,Milwaukee Brewers,6,2,1.0
+401076373,2019-08-02T23:05Z,Boston Red Sox at New York Yankees,New York Yankees,Boston Red Sox,4,2,1.0
+401076379,2019-08-02T23:05Z,Chicago White Sox at Philadelphia Phillies,Philadelphia Phillies,Chicago White Sox,3,4,0.0
+401076380,2019-08-02T23:05Z,New York Mets at Pittsburgh Pirates,Pittsburgh Pirates,New York Mets,8,4,1.0
+401076381,2019-08-02T23:05Z,Toronto Blue Jays at Baltimore Orioles,Baltimore Orioles,Toronto Blue Jays,2,5,0.0
+401076372,2019-08-02T23:10Z,Los Angeles Angels at Cleveland Indians,Cleveland Indians,Los Angeles Angels,7,3,1.0
+401076382,2019-08-02T23:20Z,Cincinnati Reds at Atlanta Braves,Atlanta Braves,Cincinnati Reds,2,5,0.0
+401076374,2019-08-03T00:05Z,Detroit Tigers at Texas Rangers,Texas Rangers,Detroit Tigers,5,4,1.0
+401076377,2019-08-03T00:10Z,Seattle Mariners at Houston Astros,Houston Astros,Seattle Mariners,10,2,1.0
+401076383,2019-08-03T00:10Z,Kansas City Royals at Minnesota Twins,Minnesota Twins,Kansas City Royals,11,9,1.0
+401076384,2019-08-03T00:40Z,San Francisco Giants at Colorado Rockies,Colorado Rockies,San Francisco Giants,5,4,1.0
+401076378,2019-08-03T01:40Z,Washington Nationals at Arizona Diamondbacks,Arizona Diamondbacks,Washington Nationals,0,3,0.0
+401076376,2019-08-03T02:10Z,San Diego Padres at Los Angeles Dodgers,Los Angeles Dodgers,San Diego Padres,2,5,0.0
+401076386,2019-08-03T17:05Z,Boston Red Sox at New York Yankees,New York Yankees,Boston Red Sox,9,2,1.0
+401076391,2019-08-03T18:20Z,Milwaukee Brewers at Chicago Cubs,Chicago Cubs,Milwaukee Brewers,4,1,1.0
+401076390,2019-08-03T22:10Z,Miami Marlins at Tampa Bay Rays,Tampa Bay Rays,Miami Marlins,8,6,1.0
+401076395,2019-08-03T23:05Z,Chicago White Sox at Philadelphia Phillies,Philadelphia Phillies,Chicago White Sox,3,2,1.0
+401076396,2019-08-03T23:05Z,New York Mets at Pittsburgh Pirates,Pittsburgh Pirates,New York Mets,5,7,0.0
+401076397,2019-08-03T23:05Z,Toronto Blue Jays at Baltimore Orioles,Baltimore Orioles,Toronto Blue Jays,6,4,1.0
+401136073,2019-08-03T23:05Z,Boston Red Sox at New York Yankees,New York Yankees,Boston Red Sox,6,4,1.0
+401076385,2019-08-03T23:10Z,Los Angeles Angels at Cleveland Indians,Cleveland Indians,Los Angeles Angels,7,2,1.0
+401076389,2019-08-03T23:10Z,Kansas City Royals at Minnesota Twins,Minnesota Twins,Kansas City Royals,11,3,1.0
+401076393,2019-08-03T23:10Z,Seattle Mariners at Houston Astros,Houston Astros,Seattle Mariners,9,0,1.0
+401076387,2019-08-03T23:20Z,Cincinnati Reds at Atlanta Braves,Atlanta Braves,Cincinnati Reds,5,4,1.0
+401076388,2019-08-04T00:05Z,Detroit Tigers at Texas Rangers,Texas Rangers,Detroit Tigers,5,4,1.0
+401076394,2019-08-04T00:10Z,Washington Nationals at Arizona Diamondbacks,Arizona Diamondbacks,Washington Nationals,18,7,1.0
+401076398,2019-08-04T00:10Z,San Francisco Giants at Colorado Rockies,Colorado Rockies,San Francisco Giants,5,6,0.0
+401076399,2019-08-04T01:07Z,St. Louis Cardinals at Oakland Athletics,Oakland Athletics,St. Louis Cardinals,8,3,1.0
+401076392,2019-08-04T01:10Z,San Diego Padres at Los Angeles Dodgers,Los Angeles Dodgers,San Diego Padres,4,1,1.0
+401076408,2019-08-04T17:05Z,Chicago White Sox at Philadelphia Phillies,Philadelphia Phillies,Chicago White Sox,5,10,0.0
+401076409,2019-08-04T17:05Z,Toronto Blue Jays at Baltimore Orioles,Baltimore Orioles,Toronto Blue Jays,6,5,1.0
+401076400,2019-08-04T17:10Z,Los Angeles Angels at Cleveland Indians,Cleveland Indians,Los Angeles Angels,6,2,1.0
+401076403,2019-08-04T17:10Z,Miami Marlins at Tampa Bay Rays,Tampa Bay Rays,Miami Marlins,7,2,1.0
+401076410,2019-08-04T17:20Z,Cincinnati Reds at Atlanta Braves,Atlanta Braves,Cincinnati Reds,4,6,0.0
+401076411,2019-08-04T17:35Z,New York Mets at Pittsburgh Pirates,Pittsburgh Pirates,New York Mets,2,13,0.0
+401076406,2019-08-04T18:10Z,Seattle Mariners at Houston Astros,Houston Astros,Seattle Mariners,3,1,1.0
+401076412,2019-08-04T18:10Z,Kansas City Royals at Minnesota Twins,Minnesota Twins,Kansas City Royals,3,0,1.0
+401076404,2019-08-04T18:20Z,Milwaukee Brewers at Chicago Cubs,Chicago Cubs,Milwaukee Brewers,7,2,1.0
+401076402,2019-08-04T19:05Z,Detroit Tigers at Texas Rangers,Texas Rangers,Detroit Tigers,9,4,1.0
+401076413,2019-08-04T19:10Z,San Francisco Giants at Colorado Rockies,Colorado Rockies,San Francisco Giants,6,2,1.0
+401076414,2019-08-04T20:07Z,St. Louis Cardinals at Oakland Athletics,Oakland Athletics,St. Louis Cardinals,4,2,1.0
+401076405,2019-08-04T20:10Z,San Diego Padres at Los Angeles Dodgers,Los Angeles Dodgers,San Diego Padres,11,10,1.0
+401076407,2019-08-04T20:10Z,Washington Nationals at Arizona Diamondbacks,Arizona Diamondbacks,Washington Nationals,7,5,1.0
+401076401,2019-08-05T00:15Z,Boston Red Sox at New York Yankees,New York Yankees,Boston Red Sox,7,4,1.0
+401131953,2019-08-05T20:10Z,Miami Marlins at New York Mets,New York Mets,Miami Marlins,6,2,1.0
+401076424,2019-08-05T23:05Z,Milwaukee Brewers at Pittsburgh Pirates,Pittsburgh Pirates,Milwaukee Brewers,7,9,0.0
+401076425,2019-08-05T23:05Z,New York Yankees at Baltimore Orioles,Baltimore Orioles,New York Yankees,6,9,0.0
+401076415,2019-08-05T23:10Z,Chicago White Sox at Detroit Tigers,Detroit Tigers,Chicago White Sox,4,7,0.0
+401076416,2019-08-05T23:10Z,Kansas City Royals at Boston Red Sox,Boston Red Sox,Kansas City Royals,7,5,1.0
+401076417,2019-08-05T23:10Z,Miami Marlins at New York Mets,New York Mets,Miami Marlins,5,4,1.0
+401076421,2019-08-05T23:10Z,Texas Rangers at Cleveland Indians,Cleveland Indians,Texas Rangers,0,1,0.0
+401076422,2019-08-05T23:10Z,Toronto Blue Jays at Tampa Bay Rays,Tampa Bay Rays,Toronto Blue Jays,0,2,0.0
+401076426,2019-08-05T23:10Z,Los Angeles Angels at Cincinnati Reds,Cincinnati Reds,Los Angeles Angels,7,4,1.0
+401076418,2019-08-06T00:00Z,Oakland Athletics at Chicago Cubs,Chicago Cubs,Oakland Athletics,6,5,1.0
+401076427,2019-08-06T00:10Z,Atlanta Braves at Minnesota Twins,Minnesota Twins,Atlanta Braves,5,3,1.0
+401076419,2019-08-06T01:40Z,Philadelphia Phillies at Arizona Diamondbacks,Arizona Diamondbacks,Philadelphia Phillies,3,7,0.0
+401076423,2019-08-06T01:45Z,Washington Nationals at San Francisco Giants,San Francisco Giants,Washington Nationals,0,4,0.0
+401076420,2019-08-06T02:10Z,St. Louis Cardinals at Los Angeles Dodgers,Los Angeles Dodgers,St. Louis Cardinals,8,0,1.0
+401128334,2019-08-06T17:10Z,Chicago White Sox at Detroit Tigers,Detroit Tigers,Chicago White Sox,3,5,0.0
+401076438,2019-08-06T23:05Z,Milwaukee Brewers at Pittsburgh Pirates,Pittsburgh Pirates,Milwaukee Brewers,3,4,0.0
+401076439,2019-08-06T23:05Z,New York Yankees at Baltimore Orioles,Baltimore Orioles,New York Yankees,4,9,0.0
+401076428,2019-08-06T23:10Z,Chicago White Sox at Detroit Tigers,Detroit Tigers,Chicago White Sox,10,6,1.0
+401076430,2019-08-06T23:10Z,Kansas City Royals at Boston Red Sox,Boston Red Sox,Kansas City Royals,2,6,0.0
+401076431,2019-08-06T23:10Z,Miami Marlins at New York Mets,New York Mets,Miami Marlins,5,0,1.0
+401076435,2019-08-06T23:10Z,Texas Rangers at Cleveland Indians,Cleveland Indians,Texas Rangers,0,0,0.5
+401076436,2019-08-06T23:10Z,Toronto Blue Jays at Tampa Bay Rays,Tampa Bay Rays,Toronto Blue Jays,7,6,1.0
+401076440,2019-08-06T23:10Z,Los Angeles Angels at Cincinnati Reds,Cincinnati Reds,Los Angeles Angels,8,4,1.0
+401076432,2019-08-07T00:05Z,Oakland Athletics at Chicago Cubs,Chicago Cubs,Oakland Athletics,4,11,0.0
+401076429,2019-08-07T00:10Z,Colorado Rockies at Houston Astros,Houston Astros,Colorado Rockies,11,6,1.0
+401076441,2019-08-07T00:10Z,Atlanta Braves at Minnesota Twins,Minnesota Twins,Atlanta Braves,7,12,0.0
+401076433,2019-08-07T01:40Z,Philadelphia Phillies at Arizona Diamondbacks,Arizona Diamondbacks,Philadelphia Phillies,8,4,1.0
+401076437,2019-08-07T01:45Z,Washington Nationals at San Francisco Giants,San Francisco Giants,Washington Nationals,3,5,0.0
+401076434,2019-08-07T02:10Z,St. Louis Cardinals at Los Angeles Dodgers,Los Angeles Dodgers,St. Louis Cardinals,3,1,1.0
+401076442,2019-08-07T02:10Z,San Diego Padres at Seattle Mariners,Seattle Mariners,San Diego Padres,4,9,0.0
+401076446,2019-08-07T16:10Z,Miami Marlins at New York Mets,New York Mets,Miami Marlins,7,2,1.0
+401076443,2019-08-07T17:10Z,Chicago White Sox at Detroit Tigers,Detroit Tigers,Chicago White Sox,1,8,0.0
+401076451,2019-08-07T17:10Z,Texas Rangers at Cleveland Indians,Cleveland Indians,Texas Rangers,2,0,1.0
+401076452,2019-08-07T17:10Z,Toronto Blue Jays at Tampa Bay Rays,Tampa Bay Rays,Toronto Blue Jays,3,4,0.0
+401076454,2019-08-07T17:10Z,Atlanta Braves at Minnesota Twins,Minnesota Twins,Atlanta Braves,7,11,0.0
+401076444,2019-08-07T18:10Z,Colorado Rockies at Houston Astros,Houston Astros,Colorado Rockies,14,3,1.0
+401076447,2019-08-07T18:20Z,Oakland Athletics at Chicago Cubs,Chicago Cubs,Oakland Athletics,10,1,1.0
+401076450,2019-08-07T19:10Z,St. Louis Cardinals at Los Angeles Dodgers,Los Angeles Dodgers,St. Louis Cardinals,2,1,1.0
+401076453,2019-08-07T19:45Z,Washington Nationals at San Francisco Giants,San Francisco Giants,Washington Nationals,1,4,0.0
+401156993,2019-08-07T20:10Z,Texas Rangers at Cleveland Indians,Cleveland Indians,Texas Rangers,5,1,1.0
+401076449,2019-08-07T22:40Z,San Diego Padres at Seattle Mariners,Seattle Mariners,San Diego Padres,3,2,1.0
+401076455,2019-08-07T23:00Z,Milwaukee Brewers at Pittsburgh Pirates,Pittsburgh Pirates,Milwaukee Brewers,3,8,0.0
+401076456,2019-08-07T23:05Z,New York Yankees at Baltimore Orioles,Baltimore Orioles,New York Yankees,2,14,0.0
+401076445,2019-08-07T23:10Z,Kansas City Royals at Boston Red Sox,Boston Red Sox,Kansas City Royals,5,4,1.0
+401076448,2019-08-08T01:40Z,Philadelphia Phillies at Arizona Diamondbacks,Arizona Diamondbacks,Philadelphia Phillies,6,1,1.0
+401076460,2019-08-08T23:07Z,New York Yankees at Toronto Blue Jays,Toronto Blue Jays,New York Yankees,6,12,0.0
+401076457,2019-08-08T23:10Z,Los Angeles Angels at Boston Red Sox,Boston Red Sox,Los Angeles Angels,3,0,1.0
+401076459,2019-08-08T23:10Z,Kansas City Royals at Detroit Tigers,Detroit Tigers,Kansas City Royals,10,8,1.0
+401076462,2019-08-08T23:10Z,Atlanta Braves at Miami Marlins,Miami Marlins,Atlanta Braves,9,2,1.0
+401076463,2019-08-08T23:10Z,Chicago Cubs at Cincinnati Reds,Cincinnati Reds,Chicago Cubs,5,12,0.0
+401076464,2019-08-09T00:10Z,Cleveland Indians at Minnesota Twins,Minnesota Twins,Cleveland Indians,5,7,0.0
+401076461,2019-08-09T01:45Z,Philadelphia Phillies at San Francisco Giants,San Francisco Giants,Philadelphia Phillies,5,0,1.0
+401076458,2019-08-09T02:10Z,Colorado Rockies at San Diego Padres,San Diego Padres,Colorado Rockies,9,3,1.0
+401076470,2019-08-09T19:10Z,Oakland Athletics at Chicago White Sox,Chicago White Sox,Oakland Athletics,0,7,0.0
+401076475,2019-08-09T23:05Z,Houston Astros at Baltimore Orioles,Baltimore Orioles,Houston Astros,2,3,0.0
+401076469,2019-08-09T23:07Z,New York Yankees at Toronto Blue Jays,Toronto Blue Jays,New York Yankees,8,2,1.0
+401076465,2019-08-09T23:10Z,Los Angeles Angels at Boston Red Sox,Boston Red Sox,Los Angeles Angels,16,4,1.0
+401076468,2019-08-09T23:10Z,Kansas City Royals at Detroit Tigers,Detroit Tigers,Kansas City Royals,5,2,1.0
+401076474,2019-08-09T23:10Z,Washington Nationals at New York Mets,New York Mets,Washington Nationals,7,6,1.0
+401076476,2019-08-09T23:10Z,Atlanta Braves at Miami Marlins,Miami Marlins,Atlanta Braves,4,8,0.0
+401076477,2019-08-09T23:10Z,Chicago Cubs at Cincinnati Reds,Cincinnati Reds,Chicago Cubs,5,2,1.0
+401076473,2019-08-10T00:10Z,Texas Rangers at Milwaukee Brewers,Milwaukee Brewers,Texas Rangers,6,5,1.0
+401076478,2019-08-10T00:10Z,Cleveland Indians at Minnesota Twins,Minnesota Twins,Cleveland Indians,2,6,0.0
+401076472,2019-08-10T00:15Z,Pittsburgh Pirates at St. Louis Cardinals,St. Louis Cardinals,Pittsburgh Pirates,6,2,1.0
+401076466,2019-08-10T02:10Z,Arizona Diamondbacks at Los Angeles Dodgers,Los Angeles Dodgers,Arizona Diamondbacks,2,3,0.0
+401076467,2019-08-10T02:10Z,Colorado Rockies at San Diego Padres,San Diego Padres,Colorado Rockies,7,1,1.0
+401076479,2019-08-10T02:10Z,Tampa Bay Rays at Seattle Mariners,Seattle Mariners,Tampa Bay Rays,3,5,0.0
+401076471,2019-08-10T02:15Z,Philadelphia Phillies at San Francisco Giants,San Francisco Giants,Philadelphia Phillies,6,9,0.0
+401076485,2019-08-10T19:07Z,New York Yankees at Toronto Blue Jays,Toronto Blue Jays,New York Yankees,5,4,1.0
+401076480,2019-08-10T20:05Z,Los Angeles Angels at Boston Red Sox,Boston Red Sox,Los Angeles Angels,4,12,0.0
+401076487,2019-08-10T20:05Z,Philadelphia Phillies at San Francisco Giants,San Francisco Giants,Philadelphia Phillies,3,1,1.0
+401076484,2019-08-10T22:10Z,Kansas City Royals at Detroit Tigers,Detroit Tigers,Kansas City Royals,0,7,0.0
+401076491,2019-08-10T22:10Z,Atlanta Braves at Miami Marlins,Miami Marlins,Atlanta Braves,7,6,1.0
+401076492,2019-08-10T23:05Z,Houston Astros at Baltimore Orioles,Baltimore Orioles,Houston Astros,2,23,0.0
+401076482,2019-08-10T23:10Z,Cleveland Indians at Minnesota Twins,Minnesota Twins,Cleveland Indians,4,1,1.0
+401076486,2019-08-10T23:10Z,Oakland Athletics at Chicago White Sox,Chicago White Sox,Oakland Athletics,3,2,1.0
+401076489,2019-08-10T23:10Z,Texas Rangers at Milwaukee Brewers,Milwaukee Brewers,Texas Rangers,3,2,1.0
+401076490,2019-08-10T23:10Z,Washington Nationals at New York Mets,New York Mets,Washington Nationals,4,3,1.0
+401076493,2019-08-10T23:10Z,Chicago Cubs at Cincinnati Reds,Cincinnati Reds,Chicago Cubs,10,1,1.0
+401076488,2019-08-10T23:15Z,Pittsburgh Pirates at St. Louis Cardinals,St. Louis Cardinals,Pittsburgh Pirates,3,1,1.0
+401076483,2019-08-11T00:40Z,Colorado Rockies at San Diego Padres,San Diego Padres,Colorado Rockies,8,5,1.0
+401076481,2019-08-11T01:10Z,Arizona Diamondbacks at Los Angeles Dodgers,Los Angeles Dodgers,Arizona Diamondbacks,4,0,1.0
+401076494,2019-08-11T02:10Z,Tampa Bay Rays at Seattle Mariners,Seattle Mariners,Tampa Bay Rays,4,5,0.0
+401076495,2019-08-11T17:05Z,Los Angeles Angels at Boston Red Sox,Boston Red Sox,Los Angeles Angels,4,5,0.0
+401076505,2019-08-11T17:05Z,Houston Astros at Baltimore Orioles,Baltimore Orioles,Houston Astros,8,7,1.0
+401076499,2019-08-11T17:07Z,New York Yankees at Toronto Blue Jays,Toronto Blue Jays,New York Yankees,0,1,0.0
+401076498,2019-08-11T17:10Z,Kansas City Royals at Detroit Tigers,Detroit Tigers,Kansas City Royals,2,10,0.0
+401076504,2019-08-11T17:10Z,Washington Nationals at New York Mets,New York Mets,Washington Nationals,4,7,0.0
+401076506,2019-08-11T17:10Z,Atlanta Braves at Miami Marlins,Miami Marlins,Atlanta Braves,4,5,0.0
+401076507,2019-08-11T17:10Z,Chicago Cubs at Cincinnati Reds,Cincinnati Reds,Chicago Cubs,3,6,0.0
+401076500,2019-08-11T18:10Z,Oakland Athletics at Chicago White Sox,Chicago White Sox,Oakland Athletics,0,2,0.0
+401076503,2019-08-11T18:10Z,Texas Rangers at Milwaukee Brewers,Milwaukee Brewers,Texas Rangers,0,1,0.0
+401076508,2019-08-11T18:10Z,Cleveland Indians at Minnesota Twins,Minnesota Twins,Cleveland Indians,3,7,0.0
+401076502,2019-08-11T18:15Z,Pittsburgh Pirates at St. Louis Cardinals,St. Louis Cardinals,Pittsburgh Pirates,11,9,1.0
+401076497,2019-08-11T19:40Z,Colorado Rockies at San Diego Padres,San Diego Padres,Colorado Rockies,3,8,0.0
+401076496,2019-08-11T20:10Z,Arizona Diamondbacks at Los Angeles Dodgers,Los Angeles Dodgers,Arizona Diamondbacks,9,3,1.0
+401076509,2019-08-11T20:10Z,Tampa Bay Rays at Seattle Mariners,Seattle Mariners,Tampa Bay Rays,0,1,0.0
+401076501,2019-08-11T23:00Z,Philadelphia Phillies at San Francisco Giants,San Francisco Giants,Philadelphia Phillies,9,6,1.0
+401132778,2019-08-12T17:05Z,Baltimore Orioles at New York Yankees,New York Yankees,Baltimore Orioles,8,5,1.0
+401076511,2019-08-12T23:00Z,Boston Red Sox at Cleveland Indians,Cleveland Indians,Boston Red Sox,6,5,1.0
+401076510,2019-08-12T23:05Z,Baltimore Orioles at New York Yankees,New York Yankees,Baltimore Orioles,11,8,1.0
+401076512,2019-08-12T23:05Z,Cincinnati Reds at Washington Nationals,Washington Nationals,Cincinnati Reds,7,6,1.0
+401076516,2019-08-12T23:07Z,Texas Rangers at Toronto Blue Jays,Toronto Blue Jays,Texas Rangers,19,4,1.0
+401076513,2019-08-13T00:10Z,Houston Astros at Chicago White Sox,Chicago White Sox,Houston Astros,0,0,0.5
+401076517,2019-08-13T00:40Z,Arizona Diamondbacks at Colorado Rockies,Colorado Rockies,Arizona Diamondbacks,6,8,0.0
+401076514,2019-08-13T02:07Z,Pittsburgh Pirates at Los Angeles Angels,Los Angeles Angels,Pittsburgh Pirates,2,10,0.0
+401076515,2019-08-13T02:10Z,Tampa Bay Rays at San Diego Padres,San Diego Padres,Tampa Bay Rays,4,10,0.0
+401161873,2019-08-13T20:40Z,Houston Astros at Chicago White Sox,Chicago White Sox,Houston Astros,2,6,0.0
+401076518,2019-08-13T23:05Z,Baltimore Orioles at New York Yankees,New York Yankees,Baltimore Orioles,8,3,1.0
+401076520,2019-08-13T23:05Z,Cincinnati Reds at Washington Nationals,Washington Nationals,Cincinnati Reds,3,1,1.0
+401076529,2019-08-13T23:05Z,Chicago Cubs at Philadelphia Phillies,Philadelphia Phillies,Chicago Cubs,4,2,1.0
+401076528,2019-08-13T23:07Z,Texas Rangers at Toronto Blue Jays,Toronto Blue Jays,Texas Rangers,3,0,1.0
+401076519,2019-08-13T23:10Z,Boston Red Sox at Cleveland Indians,Cleveland Indians,Boston Red Sox,6,7,0.0
+401076525,2019-08-13T23:10Z,Seattle Mariners at Detroit Tigers,Detroit Tigers,Seattle Mariners,6,11,0.0
+401076530,2019-08-13T23:10Z,Los Angeles Dodgers at Miami Marlins,Miami Marlins,Los Angeles Dodgers,1,15,0.0
+401076531,2019-08-13T23:20Z,New York Mets at Atlanta Braves,Atlanta Braves,New York Mets,5,3,1.0
+401076522,2019-08-14T00:10Z,Minnesota Twins at Milwaukee Brewers,Milwaukee Brewers,Minnesota Twins,5,7,0.0
+401076526,2019-08-14T00:15Z,St. Louis Cardinals at Kansas City Royals,Kansas City Royals,St. Louis Cardinals,0,2,0.0
+401076532,2019-08-14T00:40Z,Arizona Diamondbacks at Colorado Rockies,Colorado Rockies,Arizona Diamondbacks,3,9,0.0
+401076521,2019-08-14T01:00Z,Houston Astros at Chicago White Sox,Chicago White Sox,Houston Astros,4,1,1.0
+401076523,2019-08-14T01:45Z,Oakland Athletics at San Francisco Giants,San Francisco Giants,Oakland Athletics,3,2,1.0
+401076524,2019-08-14T02:07Z,Pittsburgh Pirates at Los Angeles Angels,Los Angeles Angels,Pittsburgh Pirates,7,10,0.0
+401076527,2019-08-14T02:10Z,Tampa Bay Rays at San Diego Padres,San Diego Padres,Tampa Bay Rays,5,7,0.0
+401076543,2019-08-14T16:37Z,Texas Rangers at Toronto Blue Jays,Toronto Blue Jays,Texas Rangers,3,7,0.0
+401076533,2019-08-14T17:05Z,Baltimore Orioles at New York Yankees,New York Yankees,Baltimore Orioles,6,5,1.0
+401076534,2019-08-14T17:10Z,Boston Red Sox at Cleveland Indians,Cleveland Indians,Boston Red Sox,1,5,0.0
+401076536,2019-08-14T18:10Z,Houston Astros at Chicago White Sox,Chicago White Sox,Houston Astros,13,9,1.0
+401076537,2019-08-14T18:10Z,Minnesota Twins at Milwaukee Brewers,Milwaukee Brewers,Minnesota Twins,6,5,1.0
+401076544,2019-08-14T19:10Z,Arizona Diamondbacks at Colorado Rockies,Colorado Rockies,Arizona Diamondbacks,7,6,1.0
+401076542,2019-08-14T19:40Z,Tampa Bay Rays at San Diego Padres,San Diego Padres,Tampa Bay Rays,7,2,1.0
+401076538,2019-08-14T19:45Z,Oakland Athletics at San Francisco Giants,San Francisco Giants,Oakland Athletics,5,9,0.0
+401076535,2019-08-14T20:05Z,Cincinnati Reds at Washington Nationals,Washington Nationals,Cincinnati Reds,17,7,1.0
+401076545,2019-08-14T23:00Z,Chicago Cubs at Philadelphia Phillies,Philadelphia Phillies,Chicago Cubs,11,1,1.0
+401076540,2019-08-14T23:10Z,Seattle Mariners at Detroit Tigers,Detroit Tigers,Seattle Mariners,3,2,1.0
+401076546,2019-08-14T23:10Z,Los Angeles Dodgers at Miami Marlins,Miami Marlins,Los Angeles Dodgers,1,9,0.0
+401076547,2019-08-14T23:20Z,New York Mets at Atlanta Braves,Atlanta Braves,New York Mets,6,4,1.0
+401076539,2019-08-15T00:07Z,Pittsburgh Pirates at Los Angeles Angels,Los Angeles Angels,Pittsburgh Pirates,7,4,1.0
+401076541,2019-08-15T00:15Z,St. Louis Cardinals at Kansas City Royals,Kansas City Royals,St. Louis Cardinals,0,6,0.0
+401076551,2019-08-15T17:10Z,Seattle Mariners at Detroit Tigers,Detroit Tigers,Seattle Mariners,2,7,0.0
+401076553,2019-08-15T19:05Z,Los Angeles Dodgers at Miami Marlins,Miami Marlins,Los Angeles Dodgers,13,7,1.0
+401076549,2019-08-15T23:05Z,Cleveland Indians at New York Yankees,New York Yankees,Cleveland Indians,5,19,0.0
+401076554,2019-08-15T23:05Z,Chicago Cubs at Philadelphia Phillies,Philadelphia Phillies,Chicago Cubs,7,5,1.0
+401076555,2019-08-15T23:10Z,St. Louis Cardinals at Cincinnati Reds,Cincinnati Reds,St. Louis Cardinals,2,1,1.0
+401076556,2019-08-15T23:20Z,New York Mets at Atlanta Braves,Atlanta Braves,New York Mets,8,10,0.0
+401076550,2019-08-16T00:05Z,Minnesota Twins at Texas Rangers,Texas Rangers,Minnesota Twins,6,13,0.0
+401076552,2019-08-16T01:40Z,San Francisco Giants at Arizona Diamondbacks,Arizona Diamondbacks,San Francisco Giants,0,7,0.0
+401076548,2019-08-16T02:07Z,Chicago White Sox at Los Angeles Angels,Los Angeles Angels,Chicago White Sox,8,7,1.0
+401076557,2019-08-16T02:07Z,Houston Astros at Oakland Athletics,Oakland Athletics,Houston Astros,7,6,1.0
+401076560,2019-08-16T23:05Z,Cleveland Indians at New York Yankees,New York Yankees,Cleveland Indians,3,2,1.0
+401076562,2019-08-16T23:05Z,Milwaukee Brewers at Washington Nationals,Washington Nationals,Milwaukee Brewers,2,1,1.0
+401076567,2019-08-16T23:05Z,Chicago Cubs at Pittsburgh Pirates,Pittsburgh Pirates,Chicago Cubs,3,2,1.0
+401076568,2019-08-16T23:05Z,San Diego Padres at Philadelphia Phillies,Philadelphia Phillies,San Diego Padres,8,4,1.0
+401076565,2019-08-16T23:07Z,Seattle Mariners at Toronto Blue Jays,Toronto Blue Jays,Seattle Mariners,7,3,1.0
+401076558,2019-08-16T23:10Z,Baltimore Orioles at Boston Red Sox,Boston Red Sox,Baltimore Orioles,9,1,1.0
+401076561,2019-08-16T23:10Z,Detroit Tigers at Tampa Bay Rays,Tampa Bay Rays,Detroit Tigers,0,2,0.0
+401076569,2019-08-16T23:10Z,St. Louis Cardinals at Cincinnati Reds,Cincinnati Reds,St. Louis Cardinals,4,13,0.0
+401076570,2019-08-16T23:20Z,Los Angeles Dodgers at Atlanta Braves,Atlanta Braves,Los Angeles Dodgers,3,8,0.0
+401076563,2019-08-17T00:05Z,Minnesota Twins at Texas Rangers,Texas Rangers,Minnesota Twins,3,4,0.0
+401076564,2019-08-17T00:15Z,New York Mets at Kansas City Royals,Kansas City Royals,New York Mets,4,1,1.0
+401076571,2019-08-17T00:40Z,Miami Marlins at Colorado Rockies,Colorado Rockies,Miami Marlins,3,0,1.0
+401076566,2019-08-17T01:40Z,San Francisco Giants at Arizona Diamondbacks,Arizona Diamondbacks,San Francisco Giants,9,10,0.0
+401076559,2019-08-17T02:07Z,Chicago White Sox at Los Angeles Angels,Los Angeles Angels,Chicago White Sox,2,7,0.0
+401076572,2019-08-17T02:07Z,Houston Astros at Oakland Athletics,Oakland Athletics,Houston Astros,3,2,1.0
+401076575,2019-08-17T17:05Z,Cleveland Indians at New York Yankees,New York Yankees,Cleveland Indians,6,5,1.0
+401076583,2019-08-17T17:35Z,Chicago Cubs at Pittsburgh Pirates,Pittsburgh Pirates,Chicago Cubs,0,2,0.0
+401076581,2019-08-17T19:07Z,Seattle Mariners at Toronto Blue Jays,Toronto Blue Jays,Seattle Mariners,3,4,0.0
+401076587,2019-08-17T20:05Z,Houston Astros at Oakland Athletics,Oakland Athletics,Houston Astros,8,4,1.0
+401076576,2019-08-17T22:10Z,Detroit Tigers at Tampa Bay Rays,Tampa Bay Rays,Detroit Tigers,1,0,1.0
+401076585,2019-08-17T22:40Z,St. Louis Cardinals at Cincinnati Reds,Cincinnati Reds,St. Louis Cardinals,6,1,1.0
+401076578,2019-08-17T23:05Z,Milwaukee Brewers at Washington Nationals,Washington Nationals,Milwaukee Brewers,14,15,0.0
+401076584,2019-08-17T23:05Z,San Diego Padres at Philadelphia Phillies,Philadelphia Phillies,San Diego Padres,3,5,0.0
+401076573,2019-08-17T23:10Z,Baltimore Orioles at Boston Red Sox,Boston Red Sox,Baltimore Orioles,4,0,1.0
+401076580,2019-08-17T23:15Z,New York Mets at Kansas City Royals,Kansas City Royals,New York Mets,1,4,0.0
+401076577,2019-08-17T23:20Z,Los Angeles Dodgers at Atlanta Braves,Atlanta Braves,Los Angeles Dodgers,4,3,1.0
+401076579,2019-08-18T00:05Z,Minnesota Twins at Texas Rangers,Texas Rangers,Minnesota Twins,7,12,0.0
+401076582,2019-08-18T00:10Z,San Francisco Giants at Arizona Diamondbacks,Arizona Diamondbacks,San Francisco Giants,6,11,0.0
+401076586,2019-08-18T00:10Z,Miami Marlins at Colorado Rockies,Colorado Rockies,Miami Marlins,11,4,1.0
+401076574,2019-08-18T01:07Z,Chicago White Sox at Los Angeles Angels,Los Angeles Angels,Chicago White Sox,6,5,1.0
+401076588,2019-08-18T17:05Z,Baltimore Orioles at Boston Red Sox,Boston Red Sox,Baltimore Orioles,13,7,1.0
+401076590,2019-08-18T17:05Z,Cleveland Indians at New York Yankees,New York Yankees,Cleveland Indians,4,8,0.0
+401076597,2019-08-18T17:05Z,San Diego Padres at Philadelphia Phillies,Philadelphia Phillies,San Diego Padres,2,3,0.0
+401076595,2019-08-18T17:07Z,Seattle Mariners at Toronto Blue Jays,Toronto Blue Jays,Seattle Mariners,0,7,0.0
+401076591,2019-08-18T17:10Z,Detroit Tigers at Tampa Bay Rays,Tampa Bay Rays,Detroit Tigers,5,4,1.0
+401076598,2019-08-18T17:10Z,St. Louis Cardinals at Cincinnati Reds,Cincinnati Reds,St. Louis Cardinals,4,5,0.0
+401076599,2019-08-18T17:20Z,Los Angeles Dodgers at Atlanta Braves,Atlanta Braves,Los Angeles Dodgers,5,3,1.0
+401076592,2019-08-18T17:35Z,Milwaukee Brewers at Washington Nationals,Washington Nationals,Milwaukee Brewers,16,8,1.0
+401076594,2019-08-18T18:15Z,New York Mets at Kansas City Royals,Kansas City Royals,New York Mets,5,11,0.0
+401076593,2019-08-18T19:05Z,Minnesota Twins at Texas Rangers,Texas Rangers,Minnesota Twins,3,6,0.0
+401076600,2019-08-18T19:10Z,Miami Marlins at Colorado Rockies,Colorado Rockies,Miami Marlins,7,6,1.0
+401076589,2019-08-18T20:07Z,Chicago White Sox at Los Angeles Angels,Los Angeles Angels,Chicago White Sox,9,2,1.0
+401076601,2019-08-18T20:07Z,Houston Astros at Oakland Athletics,Oakland Athletics,Houston Astros,1,4,0.0
+401076596,2019-08-18T20:10Z,San Francisco Giants at Arizona Diamondbacks,Arizona Diamondbacks,San Francisco Giants,6,1,1.0
+401076602,2019-08-18T23:00Z,Chicago Cubs at Pittsburgh Pirates,Pittsburgh Pirates,Chicago Cubs,1,7,0.0
+401076608,2019-08-19T23:05Z,Kansas City Royals at Baltimore Orioles,Baltimore Orioles,Kansas City Royals,4,5,0.0
+401076609,2019-08-19T23:05Z,Washington Nationals at Pittsburgh Pirates,Pittsburgh Pirates,Washington Nationals,0,13,0.0
+401076607,2019-08-19T23:10Z,Seattle Mariners at Tampa Bay Rays,Tampa Bay Rays,Seattle Mariners,3,9,0.0
+401076610,2019-08-19T23:10Z,San Diego Padres at Cincinnati Reds,Cincinnati Reds,San Diego Padres,2,3,0.0
+401076606,2019-08-19T23:45Z,Milwaukee Brewers at St. Louis Cardinals,St. Louis Cardinals,Milwaukee Brewers,3,0,1.0
+401076603,2019-08-20T00:05Z,Los Angeles Angels at Texas Rangers,Texas Rangers,Los Angeles Angels,8,7,1.0
+401076605,2019-08-20T00:10Z,Detroit Tigers at Houston Astros,Houston Astros,Detroit Tigers,5,4,1.0
+401076611,2019-08-20T00:10Z,Chicago White Sox at Minnesota Twins,Minnesota Twins,Chicago White Sox,4,6,0.0
+401076604,2019-08-20T01:40Z,Colorado Rockies at Arizona Diamondbacks,Arizona Diamondbacks,Colorado Rockies,5,3,1.0
+401151613,2019-08-20T18:05Z,Los Angeles Angels at Texas Rangers,Texas Rangers,Los Angeles Angels,1,5,0.0
+401076621,2019-08-20T23:05Z,Kansas City Royals at Baltimore Orioles,Baltimore Orioles,Kansas City Royals,4,1,1.0
+401076622,2019-08-20T23:05Z,Washington Nationals at Pittsburgh Pirates,Pittsburgh Pirates,Washington Nationals,4,1,1.0
+401076613,2019-08-20T23:10Z,Cleveland Indians at New York Mets,New York Mets,Cleveland Indians,9,2,1.0
+401076617,2019-08-20T23:10Z,Philadelphia Phillies at Boston Red Sox,Boston Red Sox,Philadelphia Phillies,2,3,0.0
+401076618,2019-08-20T23:10Z,Seattle Mariners at Tampa Bay Rays,Tampa Bay Rays,Seattle Mariners,4,7,0.0
+401076623,2019-08-20T23:10Z,San Diego Padres at Cincinnati Reds,Cincinnati Reds,San Diego Padres,3,2,1.0
+401076624,2019-08-20T23:20Z,Miami Marlins at Atlanta Braves,Atlanta Braves,Miami Marlins,5,1,1.0
+401076616,2019-08-20T23:45Z,Milwaukee Brewers at St. Louis Cardinals,St. Louis Cardinals,Milwaukee Brewers,9,4,1.0
+401076612,2019-08-21T00:05Z,Los Angeles Angels at Texas Rangers,Texas Rangers,Los Angeles Angels,3,2,1.0
+401076619,2019-08-21T00:05Z,San Francisco Giants at Chicago Cubs,Chicago Cubs,San Francisco Giants,5,3,1.0
+401076615,2019-08-21T00:10Z,Detroit Tigers at Houston Astros,Houston Astros,Detroit Tigers,6,3,1.0
+401076625,2019-08-21T00:10Z,Chicago White Sox at Minnesota Twins,Minnesota Twins,Chicago White Sox,14,4,1.0
+401076614,2019-08-21T01:40Z,Colorado Rockies at Arizona Diamondbacks,Arizona Diamondbacks,Colorado Rockies,8,7,1.0
+401076626,2019-08-21T02:00Z,New York Yankees at Oakland Athletics,Oakland Athletics,New York Yankees,6,2,1.0
+401076620,2019-08-21T02:10Z,Toronto Blue Jays at Los Angeles Dodgers,Los Angeles Dodgers,Toronto Blue Jays,16,3,1.0
+401076636,2019-08-21T16:35Z,San Diego Padres at Cincinnati Reds,Cincinnati Reds,San Diego Padres,4,2,1.0
+401076633,2019-08-21T17:10Z,Seattle Mariners at Tampa Bay Rays,Tampa Bay Rays,Seattle Mariners,7,6,1.0
+401076637,2019-08-21T17:10Z,Chicago White Sox at Minnesota Twins,Minnesota Twins,Chicago White Sox,0,4,0.0
+401076629,2019-08-21T19:40Z,Colorado Rockies at Arizona Diamondbacks,Arizona Diamondbacks,Colorado Rockies,2,7,0.0
+401076627,2019-08-21T23:05Z,Los Angeles Angels at Texas Rangers,Texas Rangers,Los Angeles Angels,8,7,1.0
+401076638,2019-08-21T23:05Z,Kansas City Royals at Baltimore Orioles,Baltimore Orioles,Kansas City Royals,8,1,1.0
+401076639,2019-08-21T23:05Z,Washington Nationals at Pittsburgh Pirates,Pittsburgh Pirates,Washington Nationals,1,11,0.0
+401076628,2019-08-21T23:10Z,Cleveland Indians at New York Mets,New York Mets,Cleveland Indians,4,3,1.0
+401076632,2019-08-21T23:10Z,Philadelphia Phillies at Boston Red Sox,Boston Red Sox,Philadelphia Phillies,2,5,0.0
+401076640,2019-08-21T23:20Z,Miami Marlins at Atlanta Braves,Atlanta Braves,Miami Marlins,5,0,1.0
+401076631,2019-08-21T23:45Z,Milwaukee Brewers at St. Louis Cardinals,St. Louis Cardinals,Milwaukee Brewers,3,5,0.0
+401076634,2019-08-22T00:05Z,San Francisco Giants at Chicago Cubs,Chicago Cubs,San Francisco Giants,12,11,1.0
+401076630,2019-08-22T00:10Z,Detroit Tigers at Houston Astros,Houston Astros,Detroit Tigers,1,2,0.0
+401076641,2019-08-22T02:00Z,New York Yankees at Oakland Athletics,Oakland Athletics,New York Yankees,6,4,1.0
+401076635,2019-08-22T02:10Z,Toronto Blue Jays at Los Angeles Dodgers,Los Angeles Dodgers,Toronto Blue Jays,2,1,1.0
+401076645,2019-08-22T18:20Z,San Francisco Giants at Chicago Cubs,Chicago Cubs,San Francisco Giants,1,0,1.0
+401076648,2019-08-22T23:05Z,Tampa Bay Rays at Baltimore Orioles,Baltimore Orioles,Tampa Bay Rays,2,5,0.0
+401076649,2019-08-22T23:05Z,Washington Nationals at Pittsburgh Pirates,Pittsburgh Pirates,Washington Nationals,1,7,0.0
+401076642,2019-08-22T23:10Z,Cleveland Indians at New York Mets,New York Mets,Cleveland Indians,2,0,1.0
+401076650,2019-08-22T23:20Z,Miami Marlins at Atlanta Braves,Atlanta Braves,Miami Marlins,3,2,1.0
+401076643,2019-08-22T23:45Z,Colorado Rockies at St. Louis Cardinals,St. Louis Cardinals,Colorado Rockies,6,5,1.0
+401076644,2019-08-23T00:10Z,Detroit Tigers at Houston Astros,Houston Astros,Detroit Tigers,6,3,1.0
+401076646,2019-08-23T00:10Z,Texas Rangers at Chicago White Sox,Chicago White Sox,Texas Rangers,6,1,1.0
+401076651,2019-08-23T01:37Z,New York Yankees at Oakland Athletics,Oakland Athletics,New York Yankees,5,3,1.0
+401076647,2019-08-23T02:10Z,Toronto Blue Jays at Los Angeles Dodgers,Los Angeles Dodgers,Toronto Blue Jays,3,2,1.0
+401076660,2019-08-23T18:20Z,Washington Nationals at Chicago Cubs,Chicago Cubs,Washington Nationals,3,9,0.0
+401076661,2019-08-23T23:05Z,Cincinnati Reds at Pittsburgh Pirates,Pittsburgh Pirates,Cincinnati Reds,3,2,1.0
+401076662,2019-08-23T23:05Z,Tampa Bay Rays at Baltimore Orioles,Baltimore Orioles,Tampa Bay Rays,1,7,0.0
+401076654,2019-08-23T23:10Z,Atlanta Braves at New York Mets,New York Mets,Atlanta Braves,1,2,0.0
+401076657,2019-08-23T23:10Z,Kansas City Royals at Cleveland Indians,Cleveland Indians,Kansas City Royals,4,1,1.0
+401076663,2019-08-23T23:10Z,Philadelphia Phillies at Miami Marlins,Miami Marlins,Philadelphia Phillies,19,11,1.0
+401076652,2019-08-24T00:10Z,Los Angeles Angels at Houston Astros,Houston Astros,Los Angeles Angels,5,4,1.0
+401076653,2019-08-24T00:10Z,Arizona Diamondbacks at Milwaukee Brewers,Milwaukee Brewers,Arizona Diamondbacks,6,1,1.0
+401076659,2019-08-24T00:10Z,Texas Rangers at Chicago White Sox,Chicago White Sox,Texas Rangers,8,3,1.0
+401076664,2019-08-24T00:10Z,Detroit Tigers at Minnesota Twins,Minnesota Twins,Detroit Tigers,6,9,0.0
+401076656,2019-08-24T00:15Z,Colorado Rockies at St. Louis Cardinals,St. Louis Cardinals,Colorado Rockies,8,3,1.0
+401076655,2019-08-24T02:10Z,Boston Red Sox at San Diego Padres,San Diego Padres,Boston Red Sox,0,11,0.0
+401076658,2019-08-24T02:10Z,New York Yankees at Los Angeles Dodgers,Los Angeles Dodgers,New York Yankees,2,10,0.0
+401076665,2019-08-24T02:10Z,Toronto Blue Jays at Seattle Mariners,Seattle Mariners,Toronto Blue Jays,7,4,1.0
+401076675,2019-08-24T18:20Z,Washington Nationals at Chicago Cubs,Chicago Cubs,Washington Nationals,2,7,0.0
+401076673,2019-08-24T20:05Z,New York Yankees at Los Angeles Dodgers,Los Angeles Dodgers,New York Yankees,2,1,1.0
+401076676,2019-08-24T22:10Z,Philadelphia Phillies at Miami Marlins,Miami Marlins,Philadelphia Phillies,3,9,0.0
+401076677,2019-08-24T23:05Z,Cincinnati Reds at Pittsburgh Pirates,Pittsburgh Pirates,Cincinnati Reds,14,0,1.0
+401076678,2019-08-24T23:05Z,Tampa Bay Rays at Baltimore Orioles,Baltimore Orioles,Tampa Bay Rays,7,1,1.0
+401076666,2019-08-24T23:10Z,Los Angeles Angels at Houston Astros,Houston Astros,Los Angeles Angels,5,2,1.0
+401076667,2019-08-24T23:10Z,Arizona Diamondbacks at Milwaukee Brewers,Milwaukee Brewers,Arizona Diamondbacks,4,0,1.0
+401076668,2019-08-24T23:10Z,Atlanta Braves at New York Mets,New York Mets,Atlanta Braves,5,9,0.0
+401076671,2019-08-24T23:10Z,Detroit Tigers at Minnesota Twins,Minnesota Twins,Detroit Tigers,8,5,1.0
+401076672,2019-08-24T23:10Z,Kansas City Royals at Cleveland Indians,Cleveland Indians,Kansas City Royals,4,2,1.0
+401076674,2019-08-24T23:10Z,Texas Rangers at Chicago White Sox,Chicago White Sox,Texas Rangers,0,4,0.0
+401076670,2019-08-24T23:15Z,Colorado Rockies at St. Louis Cardinals,St. Louis Cardinals,Colorado Rockies,6,0,1.0
+401076669,2019-08-25T00:40Z,Boston Red Sox at San Diego Padres,San Diego Padres,Boston Red Sox,4,5,0.0
+401076679,2019-08-25T01:07Z,San Francisco Giants at Oakland Athletics,Oakland Athletics,San Francisco Giants,5,10,0.0
+401076680,2019-08-25T01:10Z,Toronto Blue Jays at Seattle Mariners,Seattle Mariners,Toronto Blue Jays,5,7,0.0
+401076690,2019-08-25T17:05Z,Tampa Bay Rays at Baltimore Orioles,Baltimore Orioles,Tampa Bay Rays,8,3,1.0
+401076683,2019-08-25T17:10Z,Atlanta Braves at New York Mets,New York Mets,Atlanta Braves,1,2,0.0
+401076686,2019-08-25T17:10Z,Kansas City Royals at Cleveland Indians,Cleveland Indians,Kansas City Royals,8,9,0.0
+401076691,2019-08-25T17:10Z,Philadelphia Phillies at Miami Marlins,Miami Marlins,Philadelphia Phillies,3,2,1.0
+401076692,2019-08-25T17:35Z,Cincinnati Reds at Pittsburgh Pirates,Pittsburgh Pirates,Cincinnati Reds,9,8,1.0
+401076681,2019-08-25T18:10Z,Los Angeles Angels at Houston Astros,Houston Astros,Los Angeles Angels,11,2,1.0
+401076682,2019-08-25T18:10Z,Arizona Diamondbacks at Milwaukee Brewers,Milwaukee Brewers,Arizona Diamondbacks,2,5,0.0
+401076688,2019-08-25T18:10Z,Texas Rangers at Chicago White Sox,Chicago White Sox,Texas Rangers,2,0,1.0
+401076693,2019-08-25T18:10Z,Detroit Tigers at Minnesota Twins,Minnesota Twins,Detroit Tigers,7,4,1.0
+401076685,2019-08-25T18:15Z,Colorado Rockies at St. Louis Cardinals,St. Louis Cardinals,Colorado Rockies,11,4,1.0
+401076689,2019-08-25T18:20Z,Washington Nationals at Chicago Cubs,Chicago Cubs,Washington Nationals,5,7,0.0
+401076694,2019-08-25T20:07Z,San Francisco Giants at Oakland Athletics,Oakland Athletics,San Francisco Giants,4,5,0.0
+401076684,2019-08-25T20:10Z,Boston Red Sox at San Diego Padres,San Diego Padres,Boston Red Sox,3,1,1.0
+401076695,2019-08-25T20:10Z,Toronto Blue Jays at Seattle Mariners,Seattle Mariners,Toronto Blue Jays,3,1,1.0
+401076687,2019-08-25T23:00Z,New York Yankees at Los Angeles Dodgers,Los Angeles Dodgers,New York Yankees,1,5,0.0
+401126695,2019-08-26T19:10Z,Atlanta Braves at Colorado Rockies,Colorado Rockies,Atlanta Braves,3,1,1.0
+401076699,2019-08-26T23:00Z,St. Louis Cardinals at Milwaukee Brewers,Milwaukee Brewers,St. Louis Cardinals,2,12,0.0
+401076700,2019-08-26T23:05Z,Pittsburgh Pirates at Philadelphia Phillies,Philadelphia Phillies,Pittsburgh Pirates,6,5,1.0
+401076701,2019-08-26T23:10Z,Cincinnati Reds at Miami Marlins,Miami Marlins,Cincinnati Reds,3,6,0.0
+401076698,2019-08-27T00:15Z,Oakland Athletics at Kansas City Royals,Kansas City Royals,Oakland Athletics,4,19,0.0
+401076696,2019-08-27T01:45Z,Arizona Diamondbacks at San Francisco Giants,San Francisco Giants,Arizona Diamondbacks,4,6,0.0
+401076702,2019-08-27T02:00Z,New York Yankees at Seattle Mariners,Seattle Mariners,New York Yankees,4,5,0.0
+401076697,2019-08-27T02:10Z,Los Angeles Dodgers at San Diego Padres,San Diego Padres,Los Angeles Dodgers,4,3,1.0
+401076705,2019-08-27T23:05Z,Baltimore Orioles at Washington Nationals,Washington Nationals,Baltimore Orioles,0,2,0.0
+401076714,2019-08-27T23:05Z,Pittsburgh Pirates at Philadelphia Phillies,Philadelphia Phillies,Pittsburgh Pirates,4,5,0.0
+401076704,2019-08-27T23:07Z,Atlanta Braves at Toronto Blue Jays,Toronto Blue Jays,Atlanta Braves,3,1,1.0
+401076706,2019-08-27T23:10Z,Chicago Cubs at New York Mets,New York Mets,Chicago Cubs,2,5,0.0
+401076707,2019-08-27T23:10Z,Cleveland Indians at Detroit Tigers,Detroit Tigers,Cleveland Indians,1,10,0.0
+401076715,2019-08-27T23:10Z,Cincinnati Reds at Miami Marlins,Miami Marlins,Cincinnati Reds,5,8,0.0
+401076711,2019-08-27T23:40Z,St. Louis Cardinals at Milwaukee Brewers,Milwaukee Brewers,St. Louis Cardinals,3,6,0.0
+401076709,2019-08-28T00:10Z,Minnesota Twins at Chicago White Sox,Chicago White Sox,Minnesota Twins,1,3,0.0
+401076712,2019-08-28T00:10Z,Tampa Bay Rays at Houston Astros,Houston Astros,Tampa Bay Rays,15,1,1.0
+401076710,2019-08-28T00:15Z,Oakland Athletics at Kansas City Royals,Kansas City Royals,Oakland Athletics,1,2,0.0
+401076716,2019-08-28T00:40Z,Boston Red Sox at Colorado Rockies,Colorado Rockies,Boston Red Sox,6,10,0.0
+401076703,2019-08-28T01:45Z,Arizona Diamondbacks at San Francisco Giants,San Francisco Giants,Arizona Diamondbacks,2,3,0.0
+401076713,2019-08-28T02:07Z,Texas Rangers at Los Angeles Angels,Los Angeles Angels,Texas Rangers,5,2,1.0
+401076708,2019-08-28T02:10Z,Los Angeles Dodgers at San Diego Padres,San Diego Padres,Los Angeles Dodgers,0,9,0.0
+401076717,2019-08-28T02:10Z,New York Yankees at Seattle Mariners,Seattle Mariners,New York Yankees,0,7,0.0
+401076725,2019-08-28T18:10Z,St. Louis Cardinals at Milwaukee Brewers,Milwaukee Brewers,St. Louis Cardinals,4,1,1.0
+401076728,2019-08-28T20:10Z,New York Yankees at Seattle Mariners,Seattle Mariners,New York Yankees,3,7,0.0
+401076729,2019-08-28T22:05Z,Pittsburgh Pirates at Philadelphia Phillies,Philadelphia Phillies,Pittsburgh Pirates,12,3,1.0
+401076719,2019-08-28T23:05Z,Baltimore Orioles at Washington Nationals,Washington Nationals,Baltimore Orioles,8,4,1.0
+401076718,2019-08-28T23:07Z,Atlanta Braves at Toronto Blue Jays,Toronto Blue Jays,Atlanta Braves,4,9,0.0
+401076720,2019-08-28T23:10Z,Chicago Cubs at New York Mets,New York Mets,Chicago Cubs,7,10,0.0
+401076721,2019-08-28T23:10Z,Cleveland Indians at Detroit Tigers,Detroit Tigers,Cleveland Indians,2,4,0.0
+401076730,2019-08-28T23:10Z,Cincinnati Reds at Miami Marlins,Miami Marlins,Cincinnati Reds,0,5,0.0
+401076723,2019-08-29T00:10Z,Minnesota Twins at Chicago White Sox,Chicago White Sox,Minnesota Twins,2,8,0.0
+401076726,2019-08-29T00:10Z,Tampa Bay Rays at Houston Astros,Houston Astros,Tampa Bay Rays,8,6,1.0
+401076724,2019-08-29T00:15Z,Oakland Athletics at Kansas City Royals,Kansas City Royals,Oakland Athletics,6,4,1.0
+401076731,2019-08-29T00:40Z,Boston Red Sox at Colorado Rockies,Colorado Rockies,Boston Red Sox,4,7,0.0
+401076722,2019-08-29T01:10Z,Los Angeles Dodgers at San Diego Padres,San Diego Padres,Los Angeles Dodgers,4,6,0.0
+401076727,2019-08-29T02:07Z,Texas Rangers at Los Angeles Angels,Los Angeles Angels,Texas Rangers,0,3,0.0
+401076733,2019-08-29T17:10Z,Cleveland Indians at Detroit Tigers,Detroit Tigers,Cleveland Indians,0,2,0.0
+401076736,2019-08-29T17:15Z,Oakland Athletics at Kansas City Royals,Kansas City Royals,Oakland Athletics,8,9,0.0
+401076735,2019-08-29T18:10Z,Minnesota Twins at Chicago White Sox,Chicago White Sox,Minnesota Twins,5,10,0.0
+401076739,2019-08-29T18:10Z,Tampa Bay Rays at Houston Astros,Houston Astros,Tampa Bay Rays,8,9,0.0
+401076732,2019-08-29T23:10Z,Chicago Cubs at New York Mets,New York Mets,Chicago Cubs,1,4,0.0
+401076740,2019-08-29T23:10Z,Cincinnati Reds at Miami Marlins,Miami Marlins,Cincinnati Reds,4,3,1.0
+401076738,2019-08-30T00:05Z,Seattle Mariners at Texas Rangers,Texas Rangers,Seattle Mariners,3,5,0.0
+401076741,2019-08-30T00:40Z,Pittsburgh Pirates at Colorado Rockies,Colorado Rockies,Pittsburgh Pirates,8,11,0.0
+401076734,2019-08-30T01:40Z,Los Angeles Dodgers at Arizona Diamondbacks,Arizona Diamondbacks,Los Angeles Dodgers,11,5,1.0
+401076737,2019-08-30T01:45Z,San Diego Padres at San Francisco Giants,San Francisco Giants,San Diego Padres,3,5,0.0
+401076749,2019-08-30T18:20Z,Milwaukee Brewers at Chicago Cubs,Chicago Cubs,Milwaukee Brewers,7,1,1.0
+401076748,2019-08-30T23:05Z,Miami Marlins at Washington Nationals,Washington Nationals,Miami Marlins,7,6,1.0
+401076751,2019-08-30T23:05Z,Oakland Athletics at New York Yankees,New York Yankees,Oakland Athletics,2,8,0.0
+401076754,2019-08-30T23:05Z,New York Mets at Philadelphia Phillies,Philadelphia Phillies,New York Mets,5,11,0.0
+401076746,2019-08-30T23:07Z,Houston Astros at Toronto Blue Jays,Toronto Blue Jays,Houston Astros,4,7,0.0
+401076745,2019-08-30T23:10Z,Cleveland Indians at Tampa Bay Rays,Tampa Bay Rays,Cleveland Indians,4,0,1.0
+401076750,2019-08-30T23:15Z,Minnesota Twins at Detroit Tigers,Detroit Tigers,Minnesota Twins,5,13,0.0
+401076755,2019-08-30T23:20Z,Chicago White Sox at Atlanta Braves,Atlanta Braves,Chicago White Sox,10,7,1.0
+401076753,2019-08-31T00:05Z,Seattle Mariners at Texas Rangers,Texas Rangers,Seattle Mariners,6,3,1.0
+401076742,2019-08-31T00:15Z,Baltimore Orioles at Kansas City Royals,Kansas City Royals,Baltimore Orioles,2,14,0.0
+401076744,2019-08-31T00:15Z,Cincinnati Reds at St. Louis Cardinals,St. Louis Cardinals,Cincinnati Reds,0,0,0.5
+401076756,2019-08-31T00:40Z,Pittsburgh Pirates at Colorado Rockies,Colorado Rockies,Pittsburgh Pirates,4,9,0.0
+401076747,2019-08-31T01:40Z,Los Angeles Dodgers at Arizona Diamondbacks,Arizona Diamondbacks,Los Angeles Dodgers,5,4,1.0
+401076743,2019-08-31T02:07Z,Boston Red Sox at Los Angeles Angels,Los Angeles Angels,Boston Red Sox,6,7,0.0
+401076752,2019-08-31T02:15Z,San Diego Padres at San Francisco Giants,San Francisco Giants,San Diego Padres,8,3,1.0
+401076767,2019-08-31T17:05Z,Oakland Athletics at New York Yankees,New York Yankees,Oakland Athletics,4,3,1.0
+401136834,2019-08-31T17:15Z,Cincinnati Reds at St. Louis Cardinals,St. Louis Cardinals,Cincinnati Reds,10,6,1.0
+401076765,2019-08-31T18:20Z,Milwaukee Brewers at Chicago Cubs,Chicago Cubs,Milwaukee Brewers,0,2,0.0
+401076762,2019-08-31T19:07Z,Houston Astros at Toronto Blue Jays,Toronto Blue Jays,Houston Astros,6,4,1.0
+401076770,2019-08-31T20:05Z,New York Mets at Philadelphia Phillies,Philadelphia Phillies,New York Mets,3,6,0.0
+401076761,2019-08-31T22:10Z,Cleveland Indians at Tampa Bay Rays,Tampa Bay Rays,Cleveland Indians,9,6,1.0
+401076766,2019-08-31T22:10Z,Minnesota Twins at Detroit Tigers,Detroit Tigers,Minnesota Twins,10,7,1.0
+401076764,2019-08-31T23:05Z,Miami Marlins at Washington Nationals,Washington Nationals,Miami Marlins,7,0,1.0
+401076757,2019-08-31T23:15Z,Baltimore Orioles at Kansas City Royals,Kansas City Royals,Baltimore Orioles,7,5,1.0
+401076760,2019-08-31T23:15Z,Cincinnati Reds at St. Louis Cardinals,St. Louis Cardinals,Cincinnati Reds,3,2,1.0
+401076759,2019-08-31T23:20Z,Chicago White Sox at Atlanta Braves,Atlanta Braves,Chicago White Sox,11,5,1.0
+401076769,2019-09-01T00:05Z,Seattle Mariners at Texas Rangers,Texas Rangers,Seattle Mariners,3,2,1.0
+401076763,2019-09-01T00:10Z,Los Angeles Dodgers at Arizona Diamondbacks,Arizona Diamondbacks,Los Angeles Dodgers,6,5,1.0
+401076771,2019-09-01T00:10Z,Pittsburgh Pirates at Colorado Rockies,Colorado Rockies,Pittsburgh Pirates,4,11,0.0
+401076768,2019-09-01T01:05Z,San Diego Padres at San Francisco Giants,San Francisco Giants,San Diego Padres,1,4,0.0
+401076758,2019-09-01T01:07Z,Boston Red Sox at Los Angeles Angels,Los Angeles Angels,Boston Red Sox,10,4,1.0

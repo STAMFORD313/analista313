@@ -1,0 +1,76 @@
+id,date,event,home,away,hs,as,res
+401430120,2022-05-01T18:00Z,Seattle Kraken at Winnipeg Jets,Winnipeg Jets,Seattle Kraken,4,3,1.0
+401434785,2022-05-02T23:00Z,Boston Bruins at Carolina Hurricanes,Carolina Hurricanes,Boston Bruins,5,1,1.0
+401434811,2022-05-02T23:30Z,Tampa Bay Lightning at Toronto Maple Leafs,Toronto Maple Leafs,Tampa Bay Lightning,5,0,1.0
+401434818,2022-05-03T01:30Z,St. Louis Blues at Minnesota Wild,Minnesota Wild,St. Louis Blues,0,4,0.0
+401434792,2022-05-03T02:15Z,Los Angeles Kings at Edmonton Oilers,Edmonton Oilers,Los Angeles Kings,3,4,0.0
+401434787,2022-05-03T23:00Z,Pittsburgh Penguins at New York Rangers,New York Rangers,Pittsburgh Penguins,3,4,0.0
+401434793,2022-05-03T23:30Z,Washington Capitals at Florida Panthers,Florida Panthers,Washington Capitals,2,4,0.0
+401434778,2022-05-04T01:45Z,Nashville Predators at Colorado Avalanche,Colorado Avalanche,Nashville Predators,7,2,1.0
+401434806,2022-05-04T02:15Z,Dallas Stars at Calgary Flames,Calgary Flames,Dallas Stars,1,0,1.0
+401434786,2022-05-04T23:00Z,Boston Bruins at Carolina Hurricanes,Carolina Hurricanes,Boston Bruins,5,2,1.0
+401434814,2022-05-04T23:30Z,Tampa Bay Lightning at Toronto Maple Leafs,Toronto Maple Leafs,Tampa Bay Lightning,3,5,0.0
+401434821,2022-05-05T01:42Z,St. Louis Blues at Minnesota Wild,Minnesota Wild,St. Louis Blues,6,2,1.0
+401434794,2022-05-05T02:14Z,Los Angeles Kings at Edmonton Oilers,Edmonton Oilers,Los Angeles Kings,6,0,1.0
+401434788,2022-05-05T23:00Z,Pittsburgh Penguins at New York Rangers,New York Rangers,Pittsburgh Penguins,5,2,1.0
+401434795,2022-05-05T23:30Z,Washington Capitals at Florida Panthers,Florida Panthers,Washington Capitals,5,1,1.0
+401434779,2022-05-06T01:30Z,Nashville Predators at Colorado Avalanche,Colorado Avalanche,Nashville Predators,2,1,1.0
+401434807,2022-05-06T02:00Z,Dallas Stars at Calgary Flames,Calgary Flames,Dallas Stars,0,2,0.0
+401434830,2022-05-06T23:00Z,Carolina Hurricanes at Boston Bruins,Boston Bruins,Carolina Hurricanes,4,2,1.0
+401434815,2022-05-06T23:30Z,Toronto Maple Leafs at Tampa Bay Lightning,Tampa Bay Lightning,Toronto Maple Leafs,2,5,0.0
+401434822,2022-05-07T01:30Z,Minnesota Wild at St. Louis Blues,St. Louis Blues,Minnesota Wild,1,5,0.0
+401434796,2022-05-07T02:00Z,Edmonton Oilers at Los Angeles Kings,Los Angeles Kings,Edmonton Oilers,2,8,0.0
+401434797,2022-05-07T17:00Z,Florida Panthers at Washington Capitals,Washington Capitals,Florida Panthers,6,1,1.0
+401434780,2022-05-07T20:30Z,Colorado Avalanche at Nashville Predators,Nashville Predators,Colorado Avalanche,3,7,0.0
+401434789,2022-05-07T23:00Z,New York Rangers at Pittsburgh Penguins,Pittsburgh Penguins,New York Rangers,7,4,1.0
+401434808,2022-05-08T01:30Z,Calgary Flames at Dallas Stars,Dallas Stars,Calgary Flames,4,2,1.0
+401434832,2022-05-08T16:30Z,Carolina Hurricanes at Boston Bruins,Boston Bruins,Carolina Hurricanes,5,2,1.0
+401434823,2022-05-08T20:30Z,Minnesota Wild at St. Louis Blues,St. Louis Blues,Minnesota Wild,5,2,1.0
+401434816,2022-05-08T23:00Z,Toronto Maple Leafs at Tampa Bay Lightning,Tampa Bay Lightning,Toronto Maple Leafs,7,3,1.0
+401434798,2022-05-09T02:00Z,Edmonton Oilers at Los Angeles Kings,Los Angeles Kings,Edmonton Oilers,4,0,1.0
+401434799,2022-05-09T23:00Z,Florida Panthers at Washington Capitals,Washington Capitals,Florida Panthers,2,3,0.0
+401434831,2022-05-09T23:00Z,New York Rangers at Pittsburgh Penguins,Pittsburgh Penguins,New York Rangers,7,2,1.0
+401434809,2022-05-10T01:30Z,Calgary Flames at Dallas Stars,Dallas Stars,Calgary Flames,1,4,0.0
+401434781,2022-05-10T01:50Z,Colorado Avalanche at Nashville Predators,Nashville Predators,Colorado Avalanche,3,5,0.0
+401434835,2022-05-10T23:00Z,Boston Bruins at Carolina Hurricanes,Carolina Hurricanes,Boston Bruins,5,1,1.0
+401434817,2022-05-10T23:30Z,Tampa Bay Lightning at Toronto Maple Leafs,Toronto Maple Leafs,Tampa Bay Lightning,4,3,1.0
+401434824,2022-05-11T01:47Z,St. Louis Blues at Minnesota Wild,Minnesota Wild,St. Louis Blues,2,5,0.0
+401434800,2022-05-11T02:20Z,Los Angeles Kings at Edmonton Oilers,Edmonton Oilers,Los Angeles Kings,4,5,0.0
+401434833,2022-05-11T23:00Z,Pittsburgh Penguins at New York Rangers,New York Rangers,Pittsburgh Penguins,5,3,1.0
+401434801,2022-05-11T23:30Z,Washington Capitals at Florida Panthers,Florida Panthers,Washington Capitals,5,3,1.0
+401434810,2022-05-12T01:50Z,Dallas Stars at Calgary Flames,Calgary Flames,Dallas Stars,3,1,1.0
+401434836,2022-05-12T23:00Z,Carolina Hurricanes at Boston Bruins,Boston Bruins,Carolina Hurricanes,5,2,1.0
+401434819,2022-05-12T23:30Z,Toronto Maple Leafs at Tampa Bay Lightning,Tampa Bay Lightning,Toronto Maple Leafs,4,3,1.0
+401434825,2022-05-13T01:30Z,Minnesota Wild at St. Louis Blues,St. Louis Blues,Minnesota Wild,5,1,1.0
+401434802,2022-05-13T02:00Z,Edmonton Oilers at Los Angeles Kings,Los Angeles Kings,Edmonton Oilers,2,4,0.0
+401434834,2022-05-13T23:00Z,New York Rangers at Pittsburgh Penguins,Pittsburgh Penguins,New York Rangers,3,5,0.0
+401434804,2022-05-13T23:30Z,Florida Panthers at Washington Capitals,Washington Capitals,Florida Panthers,3,4,0.0
+401434812,2022-05-14T01:30Z,Calgary Flames at Dallas Stars,Dallas Stars,Calgary Flames,4,2,1.0
+401434838,2022-05-14T20:30Z,Boston Bruins at Carolina Hurricanes,Carolina Hurricanes,Boston Bruins,3,2,1.0
+401434820,2022-05-14T23:00Z,Tampa Bay Lightning at Toronto Maple Leafs,Toronto Maple Leafs,Tampa Bay Lightning,1,2,0.0
+401434803,2022-05-15T02:00Z,Los Angeles Kings at Edmonton Oilers,Edmonton Oilers,Los Angeles Kings,2,0,1.0
+401434837,2022-05-15T23:00Z,Pittsburgh Penguins at New York Rangers,New York Rangers,Pittsburgh Penguins,4,3,1.0
+401434813,2022-05-16T01:30Z,Dallas Stars at Calgary Flames,Calgary Flames,Dallas Stars,3,2,1.0
+401438997,2022-05-17T23:00Z,Tampa Bay Lightning at Florida Panthers,Florida Panthers,Tampa Bay Lightning,1,4,0.0
+401439014,2022-05-18T01:30Z,St. Louis Blues at Colorado Avalanche,Colorado Avalanche,St. Louis Blues,3,2,1.0
+401439004,2022-05-18T23:00Z,New York Rangers at Carolina Hurricanes,Carolina Hurricanes,New York Rangers,2,1,1.0
+401439021,2022-05-19T01:50Z,Edmonton Oilers at Calgary Flames,Calgary Flames,Edmonton Oilers,9,6,1.0
+401438998,2022-05-19T23:00Z,Tampa Bay Lightning at Florida Panthers,Florida Panthers,Tampa Bay Lightning,1,2,0.0
+401439015,2022-05-20T01:30Z,St. Louis Blues at Colorado Avalanche,Colorado Avalanche,St. Louis Blues,1,4,0.0
+401439005,2022-05-21T00:00Z,New York Rangers at Carolina Hurricanes,Carolina Hurricanes,New York Rangers,2,0,1.0
+401439022,2022-05-21T02:45Z,Edmonton Oilers at Calgary Flames,Calgary Flames,Edmonton Oilers,3,5,0.0
+401439016,2022-05-22T00:00Z,Colorado Avalanche at St. Louis Blues,St. Louis Blues,Colorado Avalanche,2,5,0.0
+401438999,2022-05-22T17:30Z,Florida Panthers at Tampa Bay Lightning,Tampa Bay Lightning,Florida Panthers,5,1,1.0
+401439006,2022-05-22T19:30Z,Carolina Hurricanes at New York Rangers,New York Rangers,Carolina Hurricanes,3,1,1.0
+401439023,2022-05-23T00:00Z,Calgary Flames at Edmonton Oilers,Edmonton Oilers,Calgary Flames,4,1,1.0
+401439000,2022-05-23T23:00Z,Florida Panthers at Tampa Bay Lightning,Tampa Bay Lightning,Florida Panthers,2,0,1.0
+401439017,2022-05-24T01:30Z,Colorado Avalanche at St. Louis Blues,St. Louis Blues,Colorado Avalanche,3,6,0.0
+401439007,2022-05-24T23:00Z,Carolina Hurricanes at New York Rangers,New York Rangers,Carolina Hurricanes,4,1,1.0
+401439024,2022-05-25T01:50Z,Calgary Flames at Edmonton Oilers,Edmonton Oilers,Calgary Flames,5,3,1.0
+401439018,2022-05-26T00:00Z,St. Louis Blues at Colorado Avalanche,Colorado Avalanche,St. Louis Blues,4,5,0.0
+401439008,2022-05-26T23:00Z,New York Rangers at Carolina Hurricanes,Carolina Hurricanes,New York Rangers,3,1,1.0
+401439025,2022-05-27T01:50Z,Edmonton Oilers at Calgary Flames,Calgary Flames,Edmonton Oilers,4,5,0.0
+401439019,2022-05-28T00:00Z,Colorado Avalanche at St. Louis Blues,St. Louis Blues,Colorado Avalanche,2,3,0.0
+401439009,2022-05-29T00:00Z,Carolina Hurricanes at New York Rangers,New York Rangers,Carolina Hurricanes,5,2,1.0
+401439030,2022-05-31T00:00Z,New York Rangers at Carolina Hurricanes,Carolina Hurricanes,New York Rangers,2,6,0.0
+401442762,2022-06-01T00:00Z,Edmonton Oilers at Colorado Avalanche,Colorado Avalanche,Edmonton Oilers,8,6,1.0

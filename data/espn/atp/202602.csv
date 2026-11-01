@@ -1,0 +1,972 @@
+id,date,event,home,away,hs,as,res
+171062,2026-01-11T23:00Z,Australian Open,Nuria Brancaccio,Mary Stoiana,,,0.0
+171063,2026-01-11T23:05Z,Australian Open,Lucia Bronzetti,Aliona Bolsova,,,1.0
+171073,2026-01-11T23:05Z,Australian Open,Zeynep Sonmez,Laura Samson,,,1.0
+171091,2026-01-11T23:05Z,Australian Open,Tina Nadine Smith,Cadence Brace,,,1.0
+171093,2026-01-11T23:05Z,Australian Open,Nikola Bartunkova,Selena Janicijevic,,,1.0
+171071,2026-01-11T23:10Z,Australian Open,Julia Riera,Ena Shibahara,,,1.0
+171061,2026-01-12T00:25Z,Australian Open,Sloane Stephens,Barbora Palicova,,,1.0
+171060,2026-01-12T00:30Z,Australian Open,Olivia Gadecki,Arantxa Rus,,,1.0
+171086,2026-01-12T00:35Z,Australian Open,Yuliia Starodubtseva,Alice Tubello,,,1.0
+171085,2026-01-12T00:50Z,Australian Open,Despina Papamichail,Sachia Vickery,,,1.0
+171099,2026-01-12T01:15Z,Australian Open,Laura Pigossi,Zhu Lin,,,0.0
+171098,2026-01-12T01:25Z,Australian Open,Bernarda Pera,Viktoriya Tomova,,,0.0
+171084,2026-01-12T01:30Z,Australian Open,Viktoria Hruncakova,Sada Nahimana,,,1.0
+171100,2026-01-12T02:05Z,Australian Open,Victoria Jimenez Kasintseva,Kayla Cross,,,1.0
+171067,2026-01-12T02:10Z,Australian Open,Andrea Lazaro Garcia,Tatiana Prozorova,,,0.0
+171117,2026-01-12T02:15Z,Australian Open,Gabriela Knutson,Lizette Cabrera,,,0.0
+171058,2026-01-12T02:35Z,Australian Open,Mayar Sherif,Guiomar Maristany Zuleta De Reales,,,0.0
+171105,2026-01-12T02:55Z,Australian Open,Maja Chwalinska,Madison Brengle,,,1.0
+171116,2026-01-12T03:00Z,Australian Open,Stefani Webb,Linda Klimovicova,,,0.0
+171106,2026-01-12T03:15Z,Australian Open,Rebeka Masarova,Alina Charaeva,,,1.0
+171113,2026-01-12T04:30Z,Australian Open,Taylor Townsend,Nao Hibino,,,1.0
+171103,2026-01-12T04:35Z,Australian Open,Kathinka von Deichmann,Renee Alame,,,1.0
+171090,2026-01-12T04:40Z,Australian Open,Aliaksandra Sasnovich,Ksenia Efremova,,,1.0
+171108,2026-01-12T04:50Z,Australian Open,Tereza Mrdeza,Teodora Kostovic,,,0.0
+171087,2026-01-12T05:55Z,Australian Open,Anastasia Gasanova,Kaitlin Quevedo,,,1.0
+171069,2026-01-12T06:05Z,Australian Open,Camilla Rosatello,Justina Mikulskyte,,,0.0
+171076,2026-01-12T06:10Z,Australian Open,Tamara Zidansek,Jessika Ponchet,,,1.0
+171112,2026-01-12T06:15Z,Australian Open,Alice Rame,Jazmin Ortenzi,,,0.0
+171077,2026-01-12T06:55Z,Australian Open,Sinja Kraus,Lina Gjorcheska,,,0.0
+171107,2026-01-12T07:00Z,Australian Open,Nuria Parrizas Diaz,Marina Stakusic,,,0.0
+171095,2026-01-12T07:05Z,Australian Open,Anna-Lena Friedsam,Linda Fruhvirtova,,,0.0
+171078,2026-01-12T07:25Z,Australian Open,Fiona Ferro,Yeonwoo Ku,,,1.0
+171066,2026-01-12T23:05Z,Australian Open,Wei Sijia,Elvina Kalieva,,,0.0
+171110,2026-01-12T23:05Z,Australian Open,Alana Subasic,Lola Radivojevic,,,0.0
+171111,2026-01-12T23:05Z,Australian Open,Storm Hunter,Ekaterine Gorgodze,,,1.0
+171118,2026-01-12T23:05Z,Australian Open,Jessica Pieri,Harmony Tan,,,0.0
+171065,2026-01-12T23:10Z,Australian Open,Ma YeXin,Varvara Lepchenko,,,1.0
+171109,2026-01-12T23:10Z,Australian Open,Greet Minnen,Francisca Jorge,,,1.0
+171114,2026-01-12T23:10Z,Australian Open,Anhelina Kalinina,Joanna Garland,,,1.0
+171104,2026-01-12T23:35Z,Australian Open,Tahlia Kokkinis,Anouk Koevermans,,,0.0
+171089,2026-01-13T00:40Z,Australian Open,Anastasija Sevastova,Whitney Osuigwe,,,0.0
+171101,2026-01-13T00:55Z,Australian Open,Daria Snigur,Katarzyna Kawa,,,1.0
+171079,2026-01-13T01:15Z,Australian Open,Carole Monnet,Elena Micic,,,0.0
+171102,2026-01-13T01:20Z,Australian Open,Astra Sharma,Carson Branstine,,,0.0
+171080,2026-01-13T01:35Z,Australian Open,Hanne Vandewinkel,Carol Young Suh Lee,,,0.0
+171055,2026-01-13T01:45Z,Australian Open,Bai Zhuoxuan,Alina Korneeva,,,1.0
+171088,2026-01-13T02:00Z,Australian Open,Eva Vedder,Lucrezia Stefanini,,,0.0
+171056,2026-01-13T02:35Z,Australian Open,Chloe Paquet,Kristina Mladenovic,,,1.0
+171057,2026-01-13T02:45Z,Australian Open,Louisa Chirico,Yuan Yue,,,0.0
+171075,2026-01-13T02:45Z,Australian Open,Polina Iatcenko,Maria Lourdes Carle,,,0.0
+171082,2026-01-13T03:15Z,Australian Open,Tara Wuerth,Claire Liu,,,0.0
+171064,2026-01-13T03:30Z,Australian Open,Darja Vidmanova,Mimi Xu,,,1.0
+171068,2026-01-13T03:30Z,Australian Open,Tamara Korpatsch,Miriam Bulgaru,,,1.0
+171059,2026-01-13T03:40Z,Australian Open,Guo Hanyu,Dominika Salkova,,,0.0
+171081,2026-01-13T03:50Z,Australian Open,Maddison Inglis,Leyre Romero Gormaz,,,1.0
+171083,2026-01-13T04:10Z,Australian Open,Silvia Ambrosio,Ana Sofia Sanchez,,,1.0
+171094,2026-01-13T04:45Z,Australian Open,Manon Leonard,Himeno Sakatsume,,,0.0
+171092,2026-01-13T05:00Z,Australian Open,Mai Hontama,Maria Timofeeva,,,1.0
+171096,2026-01-13T05:45Z,Australian Open,Iryna Shymanovich,Arina Rodionova,,,1.0
+171072,2026-01-13T06:15Z,Australian Open,Destanee Aiava,Harriet Dart,,,0.0
+171097,2026-01-13T07:00Z,Australian Open,Marina Bassols Ribera,Luisina Giovannini,,,1.0
+171070,2026-01-13T07:10Z,Australian Open,Sofia Costoulas,Lanlana Tararudee,,,0.0
+171074,2026-01-13T07:10Z,Australian Open,Lilli Tagger,Gao Xinyu,,,1.0
+171115,2026-01-13T07:45Z,Australian Open,Diane Parry,Elena Pridankina,,,0.0
+171769,2026-01-13T23:05Z,Australian Open,Justina Mikulskyte,Anastasia Gasanova,,,0.0
+171770,2026-01-13T23:05Z,Australian Open,Zeynep Sonmez,Julia Riera,,,1.0
+171773,2026-01-13T23:05Z,Australian Open,Elvina Kalieva,Ma YeXin,,,1.0
+171774,2026-01-13T23:05Z,Australian Open,Guiomar Maristany Zuleta De Reales,Tatiana Prozorova,,,1.0
+171778,2026-01-13T23:05Z,Australian Open,Viktoria Hruncakova,Viktoriya Tomova,,,0.0
+171776,2026-01-13T23:10Z,Australian Open,Lucia Bronzetti,Mary Stoiana,,,1.0
+171779,2026-01-13T23:10Z,Australian Open,Yuliia Starodubtseva,Despina Papamichail,,,1.0
+171775,2026-01-14T00:05Z,Australian Open,Sloane Stephens,Olivia Gadecki,,,1.0
+171780,2026-01-14T00:50Z,Australian Open,Anouk Koevermans,Anhelina Kalinina,,,0.0
+171781,2026-01-14T01:00Z,Australian Open,Rebeka Masarova,Maja Chwalinska,,,0.0
+171787,2026-01-14T01:50Z,Australian Open,Lizette Cabrera,Linda Klimovicova,,,0.0
+171791,2026-01-14T01:50Z,Australian Open,Fiona Ferro,Linda Fruhvirtova,,,0.0
+171797,2026-01-14T01:55Z,Australian Open,Whitney Osuigwe,Lucrezia Stefanini,,,1.0
+171788,2026-01-14T02:15Z,Australian Open,Greet Minnen,Harmony Tan,,,1.0
+171792,2026-01-14T02:15Z,Australian Open,Carol Young Suh Lee,Elena Micic,,,1.0
+171782,2026-01-14T02:20Z,Australian Open,Teodora Kostovic,Marina Stakusic,,,0.0
+171783,2026-01-14T03:35Z,Australian Open,Victoria Jimenez Kasintseva,Zhu Lin,,,0.0
+171798,2026-01-14T03:45Z,Australian Open,Nikola Bartunkova,Tina Nadine Smith,,,1.0
+171771,2026-01-14T03:50Z,Australian Open,Maria Lourdes Carle,Yuan Yue,,,0.0
+171790,2026-01-14T03:55Z,Australian Open,Taylor Townsend,Jazmin Ortenzi,,,1.0
+171772,2026-01-14T04:15Z,Australian Open,Lina Gjorcheska,Tamara Zidansek,,,0.0
+171768,2026-01-14T04:50Z,Australian Open,Chloe Paquet,Bai Zhuoxuan,,,0.0
+171767,2026-01-14T05:00Z,Australian Open,Darja Vidmanova,Dominika Salkova,,,1.0
+171794,2026-01-14T05:00Z,Australian Open,Tamara Korpatsch,Silvia Ambrosio,,,1.0
+171789,2026-01-14T05:30Z,Australian Open,Storm Hunter,Lola Radivojevic,,,1.0
+171793,2026-01-14T05:45Z,Australian Open,Claire Liu,Maddison Inglis,,,0.0
+171784,2026-01-14T06:05Z,Australian Open,Carson Branstine,Daria Snigur,,,0.0
+171785,2026-01-14T06:10Z,Australian Open,Aliaksandra Sasnovich,Kathinka von Deichmann,,,1.0
+171795,2026-01-14T06:30Z,Australian Open,Harriet Dart,Lanlana Tararudee,,,0.0
+171777,2026-01-14T06:50Z,Australian Open,Marina Bassols Ribera,Iryna Shymanovich,,,1.0
+171786,2026-01-14T06:50Z,Australian Open,Himeno Sakatsume,Mai Hontama,,,1.0
+171796,2026-01-14T07:35Z,Australian Open,Elena Pridankina,Lilli Tagger,,,0.0
+171803,2026-01-15T00:05Z,Australian Open,Zeynep Sonmez,Anastasia Gasanova,,,1.0
+171805,2026-01-15T00:05Z,Australian Open,Maja Chwalinska,Anhelina Kalinina,,,0.0
+171807,2026-01-15T00:05Z,Australian Open,Greet Minnen,Linda Klimovicova,,,0.0
+171810,2026-01-15T00:05Z,Australian Open,Guiomar Maristany Zuleta De Reales,Elvina Kalieva,,,1.0
+171813,2026-01-15T00:05Z,Australian Open,Lucia Bronzetti,Sloane Stephens,,,0.0
+171812,2026-01-15T00:10Z,Australian Open,Yuliia Starodubtseva,Viktoriya Tomova,,,1.0
+171806,2026-01-15T01:30Z,Australian Open,Bai Zhuoxuan,Darja Vidmanova,,,1.0
+171799,2026-01-15T01:55Z,Australian Open,Nikola Bartunkova,Whitney Osuigwe,,,1.0
+171809,2026-01-15T01:55Z,Australian Open,Zhu Lin,Marina Stakusic,,,0.0
+171804,2026-01-15T02:05Z,Australian Open,Carol Young Suh Lee,Linda Fruhvirtova,,,0.0
+171808,2026-01-15T03:15Z,Australian Open,Aliaksandra Sasnovich,Daria Snigur,,,1.0
+171802,2026-01-15T03:25Z,Australian Open,Tamara Zidansek,Yuan Yue,,,0.0
+171800,2026-01-15T03:35Z,Australian Open,Taylor Townsend,Storm Hunter,,,0.0
+171814,2026-01-15T04:20Z,Australian Open,Marina Bassols Ribera,Himeno Sakatsume,,,0.0
+171811,2026-01-15T05:20Z,Australian Open,Tamara Korpatsch,Maddison Inglis,,,0.0
+171801,2026-01-15T05:40Z,Australian Open,Lilli Tagger,Lanlana Tararudee,,,0.0
+168384,2026-01-18T00:10Z,Australian Open,Yulia Putintseva,Beatriz Haddad Maia,,,1.0
+168409,2026-01-18T00:10Z,Australian Open,Dayana Yastremska,Elena-Gabriela Ruse,,,0.0
+168411,2026-01-18T00:10Z,Australian Open,Talia Gibson,Anna Blinkova,,,1.0
+168397,2026-01-18T00:40Z,Australian Open,Aliaksandra Sasnovich,Jasmine Paolini,,,0.0
+168407,2026-01-18T00:40Z,Australian Open,Maria Sakkari,Leolia Jeanjean,,,1.0
+168371,2026-01-18T02:10Z,Australian Open,Catherine McNally,Himeno Sakatsume,,,1.0
+168381,2026-01-18T02:20Z,Australian Open,Elsa Jacquemot,Marta Kostyuk,,,1.0
+168413,2026-01-18T02:50Z,Australian Open,Elina Svitolina,Cristina Bucsa,,,1.0
+168390,2026-01-18T03:10Z,Australian Open,Hailey Baptiste,Taylor Townsend,,,1.0
+168369,2026-01-18T04:20Z,Australian Open,Ekaterina Alexandrova,Zeynep Sonmez,,,0.0
+168373,2026-01-18T06:15Z,Australian Open,Polina Kudermetova,Guiomar Maristany Zuleta De Reales,,,1.0
+168350,2026-01-18T08:10Z,Australian Open,Aryna Sabalenka,Tiantsoa Rakotomanga Rajaonah,,,1.0
+168362,2026-01-18T08:50Z,Australian Open,Suzan Lamens,Anastasia Potapova,,,0.0
+168360,2026-01-18T08:55Z,Australian Open,Anastasia Pavlyuchenkova,Bai Zhuoxuan,,,0.0
+168393,2026-01-18T08:55Z,Australian Open,Olga Danilovic,Venus Williams,,,1.0
+168375,2026-01-18T10:40Z,Australian Open,Mananchaya Sawangkaew,Emma Raducanu,,,0.0
+168366,2026-01-19T00:05Z,Australian Open,Sofia Kenin,Peyton Stearns,,,0.0
+168379,2026-01-19T00:05Z,Australian Open,Petra Marcinko,Tatjana Maria,,,1.0
+168412,2026-01-19T00:05Z,Australian Open,Magda Linette,Emma Navarro,,,1.0
+168353,2026-01-19T00:10Z,Australian Open,Emiliana Arango,McCartney Kessler,,,0.0
+168383,2026-01-19T00:10Z,Australian Open,Anna Bondar,Elizabeth Mandlik,,,1.0
+168388,2026-01-19T00:10Z,Australian Open,Storm Hunter,Jessica Bouzas Maneiro,,,1.0
+168395,2026-01-19T00:10Z,Australian Open,Veronika Erjavec,Magdalena Frech,,,0.0
+168402,2026-01-19T00:10Z,Australian Open,Ann Li,Camila Osorio,,,1.0
+168391,2026-01-19T00:35Z,Australian Open,Coco Gauff,Kamilla Rakhimova,,,1.0
+168400,2026-01-19T01:40Z,Australian Open,Priscilla Hon,Marina Stakusic,,,1.0
+168410,2026-01-19T02:30Z,Australian Open,Linda Klimovicova,Francesca Jones,,,1.0
+168352,2026-01-19T03:10Z,Australian Open,Jessica Pegula,Anastasia Zakharova,,,1.0
+168367,2026-01-19T03:30Z,Australian Open,Dalma Galfi,Clara Tauson,,,0.0
+168404,2026-01-19T03:45Z,Australian Open,Alycia Parks,Alexandra Eala,,,1.0
+168403,2026-01-19T03:50Z,Australian Open,Karolina Muchova,Jaqueline Cristian,,,1.0
+168376,2026-01-19T03:55Z,Australian Open,Simona Waltert,Amanda Anisimova,,,0.0
+168361,2026-01-19T04:05Z,Australian Open,Oksana Selekhmeteva,Ella Seidel,,,1.0
+168382,2026-01-19T05:30Z,Australian Open,Iva Jovic,Katie Volynets,,,1.0
+168354,2026-01-19T05:55Z,Australian Open,Linda Noskova,Darja Semenistaja,,,1.0
+168377,2026-01-19T06:00Z,Australian Open,Victoria Mboko,Emerson Jones,,,1.0
+168406,2026-01-19T06:10Z,Australian Open,Yuliia Starodubtseva,Ajla Tomljanovic,,,0.0
+168363,2026-01-19T06:50Z,Australian Open,Zarina Diyas,Paula Badosa,,,0.0
+168389,2026-01-19T07:15Z,Australian Open,Renata Zarazua,Marie Bouzkova,,,0.0
+168351,2026-01-19T08:05Z,Australian Open,Donna Vekic,Mirra Andreeva,,,0.0
+168408,2026-01-19T08:05Z,Australian Open,Barbora Krejcikova,Diana Shnaider,,,0.0
+168405,2026-01-19T08:15Z,Australian Open,Yuan Yue,Iga Swiatek,,,0.0
+168387,2026-01-19T08:30Z,Australian Open,Solana Sierra,Moyuka Uchijima,,,0.0
+168370,2026-01-19T08:45Z,Australian Open,Elise Mertens,Lanlana Tararudee,,,1.0
+168356,2026-01-20T00:05Z,Australian Open,Ashlyn Krueger,Sara Bejlek,,,1.0
+168358,2026-01-20T00:05Z,Australian Open,Leylah Fernandez,Janice Tjen,,,0.0
+168355,2026-01-20T00:10Z,Australian Open,Zhang Shuai,Taylah Preston,,,0.0
+168368,2026-01-20T00:10Z,Australian Open,Tereza Valentova,Maya Joint,,,1.0
+168372,2026-01-20T00:10Z,Australian Open,Varvara Gracheva,Viktorija Golubic,,,1.0
+168380,2026-01-20T00:10Z,Australian Open,Panna Udvardy,Katerina Siniakova,,,0.0
+168357,2026-01-20T00:40Z,Australian Open,Oleksandra Oliynykova,Madison Keys,,,0.0
+168394,2026-01-20T01:40Z,Australian Open,Julia Grabher,Elisabetta Cocciaretto,,,1.0
+168364,2026-01-20T01:45Z,Australian Open,Wang Xinyu,Anhelina Kalinina,,,1.0
+168359,2026-01-20T02:10Z,Australian Open,Karolina Pliskova,Sloane Stephens,,,1.0
+168374,2026-01-20T02:15Z,Australian Open,Lulu Sun,Linda Fruhvirtova,,,0.0
+168392,2026-01-20T04:10Z,Australian Open,Anna Kalinskaya,Sonay Kartal,,,1.0
+168378,2026-01-20T04:15Z,Australian Open,Elena Rybakina,Kaja Juvan,,,1.0
+168401,2026-01-20T06:05Z,Australian Open,Sorana Cirstea,Eva Lys,,,1.0
+168365,2026-01-20T06:15Z,Australian Open,Rebecca Sramkova,Jelena Ostapenko,,,0.0
+168398,2026-01-20T07:50Z,Australian Open,Laura Siegemund,Liudmila Samsonova,,,1.0
+168386,2026-01-20T08:10Z,Australian Open,Katie Boulter,Belinda Bencic,,,0.0
+168399,2026-01-20T10:00Z,Australian Open,Naomi Osaka,Antonia Ruzic,,,1.0
+168396,2026-01-20T10:15Z,Australian Open,Maddison Inglis,Kimberly Birrell,,,1.0
+168385,2026-01-20T10:30Z,Australian Open,Daria Kasatkina,Nikola Bartunkova,,,0.0
+168445,2026-01-21T00:05Z,Australian Open,Zeynep Sonmez,Anna Bondar,,,1.0
+168414,2026-01-21T00:10Z,Australian Open,Elina Svitolina,Linda Klimovicova,,,1.0
+168415,2026-01-21T00:10Z,Australian Open,Talia Gibson,Diana Shnaider,,,0.0
+168439,2026-01-21T00:40Z,Australian Open,Aryna Sabalenka,Bai Zhuoxuan,,,1.0
+168442,2026-01-21T01:40Z,Australian Open,Yulia Putintseva,Elsa Jacquemot,,,1.0
+168418,2026-01-21T02:00Z,Australian Open,Storm Hunter,Hailey Baptiste,,,0.0
+168438,2026-01-21T02:30Z,Australian Open,Victoria Mboko,Catherine McNally,,,1.0
+168444,2026-01-21T02:50Z,Australian Open,Polina Kudermetova,Clara Tauson,,,0.0
+168437,2026-01-21T03:25Z,Australian Open,Anastasia Potapova,Emma Raducanu,,,1.0
+168441,2026-01-21T03:55Z,Australian Open,Coco Gauff,Olga Danilovic,,,1.0
+168422,2026-01-21T06:10Z,Australian Open,Elena-Gabriela Ruse,Ajla Tomljanovic,,,1.0
+168417,2026-01-21T07:40Z,Australian Open,Ann Li,Magda Linette,,,0.0
+168416,2026-01-21T07:45Z,Australian Open,Karolina Muchova,Alycia Parks,,,1.0
+168423,2026-01-21T08:10Z,Australian Open,Maria Sakkari,Mirra Andreeva,,,0.0
+168440,2026-01-21T09:25Z,Australian Open,Magdalena Frech,Jasmine Paolini,,,0.0
+168443,2026-01-21T11:55Z,Australian Open,Iva Jovic,Priscilla Hon,,,1.0
+168421,2026-01-22T00:10Z,Australian Open,Oksana Selekhmeteva,Paula Badosa,,,1.0
+168428,2026-01-22T00:10Z,Australian Open,Ashlyn Krueger,Madison Keys,,,0.0
+168420,2026-01-22T00:40Z,Australian Open,Jessica Pegula,McCartney Kessler,,,1.0
+168419,2026-01-22T01:35Z,Australian Open,Janice Tjen,Karolina Pliskova,,,0.0
+168434,2026-01-22T02:25Z,Australian Open,Anna Kalinskaya,Julia Grabher,,,1.0
+168436,2026-01-22T02:30Z,Australian Open,Maddison Inglis,Laura Siegemund,,,1.0
+168426,2026-01-22T03:00Z,Australian Open,Wang Xinyu,Jelena Ostapenko,,,1.0
+168429,2026-01-22T03:00Z,Australian Open,Linda Noskova,Taylah Preston,,,1.0
+168427,2026-01-22T03:10Z,Australian Open,Peyton Stearns,Petra Marcinko,,,1.0
+168424,2026-01-22T03:55Z,Australian Open,Katerina Siniakova,Amanda Anisimova,,,0.0
+168433,2026-01-22T04:40Z,Australian Open,Elise Mertens,Moyuka Uchijima,,,1.0
+168432,2026-01-22T06:05Z,Australian Open,Linda Fruhvirtova,Tereza Valentova,,,0.0
+168435,2026-01-22T06:10Z,Australian Open,Marie Bouzkova,Iga Swiatek,,,0.0
+168431,2026-01-22T08:10Z,Australian Open,Naomi Osaka,Sorana Cirstea,,,1.0
+168430,2026-01-22T09:35Z,Australian Open,Nikola Bartunkova,Belinda Bencic,,,1.0
+168425,2026-01-22T10:30Z,Australian Open,Elena Rybakina,Varvara Gracheva,,,1.0
+168473,2026-01-23T00:10Z,Australian Open,Victoria Mboko,Clara Tauson,,,1.0
+168472,2026-01-23T00:40Z,Australian Open,Aryna Sabalenka,Anastasia Potapova,,,1.0
+168446,2026-01-23T02:35Z,Australian Open,Zeynep Sonmez,Yulia Putintseva,,,0.0
+168475,2026-01-23T04:45Z,Australian Open,Coco Gauff,Hailey Baptiste,,,1.0
+168476,2026-01-23T05:25Z,Australian Open,Karolina Muchova,Magda Linette,,,1.0
+168448,2026-01-23T06:10Z,Australian Open,Iva Jovic,Jasmine Paolini,,,1.0
+168474,2026-01-23T08:10Z,Australian Open,Elina Svitolina,Diana Shnaider,,,1.0
+168453,2026-01-23T11:20Z,Australian Open,Elena-Gabriela Ruse,Mirra Andreeva,,,0.0
+168449,2026-01-23T23:40Z,Australian Open,Karolina Pliskova,Madison Keys,,,0.0
+168452,2026-01-23T23:40Z,Australian Open,Jessica Pegula,Oksana Selekhmeteva,,,1.0
+168451,2026-01-24T01:10Z,Australian Open,Peyton Stearns,Amanda Anisimova,,,0.0
+168450,2026-01-24T03:25Z,Australian Open,Linda Noskova,Wang Xinyu,,,0.0
+168457,2026-01-24T04:30Z,Australian Open,Elise Mertens,Nikola Bartunkova,,,1.0
+168455,2026-01-24T08:10Z,Australian Open,Anna Kalinskaya,Iga Swiatek,,,0.0
+168454,2026-01-24T10:00Z,Australian Open,Naomi Osaka,Maddison Inglis,,,0.0
+168456,2026-01-24T10:00Z,Australian Open,Elena Rybakina,Tereza Valentova,,,1.0
+168447,2026-01-25T00:40Z,Australian Open,Aryna Sabalenka,Victoria Mboko,,,1.0
+168462,2026-01-25T02:30Z,Australian Open,Yulia Putintseva,Iva Jovic,,,0.0
+168463,2026-01-25T05:05Z,Australian Open,Coco Gauff,Karolina Muchova,,,1.0
+168460,2026-01-25T10:10Z,Australian Open,Elina Svitolina,Mirra Andreeva,,,1.0
+168461,2026-01-26T00:40Z,Australian Open,Jessica Pegula,Madison Keys,,,1.0
+168458,2026-01-26T03:05Z,Australian Open,Wang Xinyu,Amanda Anisimova,,,0.0
+168459,2026-01-26T05:30Z,Australian Open,Elena Rybakina,Elise Mertens,,,1.0
+168466,2026-01-26T08:10Z,Australian Open,Maddison Inglis,Iga Swiatek,,,0.0
+168467,2026-01-27T00:40Z,Australian Open,Aryna Sabalenka,Iva Jovic,,,1.0
+168464,2026-01-27T08:05Z,Australian Open,Coco Gauff,Elina Svitolina,,,0.0
+168471,2026-01-28T00:40Z,Australian Open,Elena Rybakina,Iga Swiatek,,,1.0
+168465,2026-01-28T02:40Z,Australian Open,Jessica Pegula,Amanda Anisimova,,,1.0
+168469,2026-01-29T08:40Z,Australian Open,Aryna Sabalenka,Elina Svitolina,,,1.0
+168470,2026-01-29T10:20Z,Australian Open,Jessica Pegula,Elena Rybakina,,,0.0
+168468,2026-01-31T08:40Z,Australian Open,Aryna Sabalenka,Elena Rybakina,,,0.0
+171004,2026-01-11T23:05Z,Australian Open,Titouan Droguet,Nicolas Jarry,,,1.0
+171006,2026-01-11T23:05Z,Australian Open,Martin Damm,Gauthier Onclin,,,1.0
+171007,2026-01-11T23:05Z,Australian Open,Yoshihito Nishioka,Nerman Fatic,,,1.0
+171008,2026-01-11T23:05Z,Australian Open,Jack Pinnington Jones,Gilles Arnaud Bailly,,,0.0
+171016,2026-01-11T23:05Z,Australian Open,August Holmgren,Sebastian Ofner,,,0.0
+170976,2026-01-11T23:10Z,Australian Open,Roberto Carballes Baena,Arthur Bouquier,,,1.0
+171003,2026-01-11T23:10Z,Australian Open,Alexis Galarneau,Nishesh Basavareddy,,,0.0
+171005,2026-01-11T23:10Z,Australian Open,Justin Engel,George Loffhagen,,,0.0
+170972,2026-01-12T00:40Z,Australian Open,Arthur Fery,Edward Winter,,,1.0
+170974,2026-01-12T00:40Z,Australian Open,Dino Prizmic,Genaro Alberto Olivieri,,,1.0
+171018,2026-01-12T00:45Z,Australian Open,Dane Sweeny,Andrea Pellegrino,,,1.0
+170973,2026-01-12T01:05Z,Australian Open,Gustavo Heide,Jay Clarke,,,1.0
+171019,2026-01-12T01:40Z,Australian Open,Jerome Kym,Juan Carlos Prado Angelo,,,1.0
+170989,2026-01-12T02:25Z,Australian Open,Philip Sekulic,Marco Trungelliti,,,0.0
+170977,2026-01-12T02:30Z,Australian Open,Brandon Holt,Lukas Neumayer,,,1.0
+170968,2026-01-12T02:45Z,Australian Open,Matej Dodig,Benjamin Hassan,,,0.0
+170980,2026-01-12T02:45Z,Australian Open,Jaime Faria,Luka Mikrut,,,1.0
+170994,2026-01-12T03:10Z,Australian Open,Luka Pavlovic,Colton Smith,,,0.0
+170996,2026-01-12T03:10Z,Australian Open,Giulio Zeppieri,Dan Added,,,1.0
+170981,2026-01-12T03:15Z,Australian Open,Joao Lucas Reis Da Silva,Henrique Rocha,,,0.0
+171022,2026-01-12T03:45Z,Australian Open,Tristan Boyer,Alex Barrena,,,1.0
+171031,2026-01-12T04:25Z,Australian Open,Mark Lajal,Francesco Passaro,,,0.0
+170984,2026-01-12T04:45Z,Australian Open,Nikoloz Basilashvili,Gonzalo Bueno,,,0.0
+170983,2026-01-12T04:50Z,Australian Open,Pierre-Hugues Herbert,Guy Den Ouden,,,1.0
+171029,2026-01-12T04:50Z,Australian Open,Murphy Cassone,Yu Hsiou Hsu,,,1.0
+170979,2026-01-12T04:55Z,Australian Open,Daniil Glinka,Clement Tabur,,,1.0
+170995,2026-01-12T04:55Z,Australian Open,Rei Sakamoto,Daniel Evans,,,1.0
+170978,2026-01-12T05:00Z,Australian Open,Luca Van Assche,Moez Echargui,,,1.0
+171030,2026-01-12T05:15Z,Australian Open,Dusan Lajovic,Facundo Diaz Acosta,,,1.0
+170971,2026-01-12T06:15Z,Australian Open,Bernard Tomic,Hugo Dellien,,,1.0
+170997,2026-01-12T06:40Z,Australian Open,Zsombor Piros,Lukas Klein,,,0.0
+170998,2026-01-12T07:00Z,Australian Open,Oliver Crawford,Daniel Merida,,,0.0
+170975,2026-01-12T23:05Z,Australian Open,Lorenzo Giustino,Francesco Maestrelli,,,0.0
+170992,2026-01-12T23:05Z,Australian Open,Yosuke Watanuki,Nicolai Budkov Kjaer,,,0.0
+171020,2026-01-12T23:05Z,Australian Open,Blake Ellis,Stefano Travaglia,,,0.0
+171021,2026-01-12T23:05Z,Australian Open,Chun-Hsin Tseng,Martin Landaluce,,,0.0
+171028,2026-01-12T23:05Z,Australian Open,Alvaro Guillen Meza,Thiago Seyboth Wild,,,0.0
+170982,2026-01-12T23:15Z,Australian Open,Pavle Marinkov,James McCabe,,,0.0
+170970,2026-01-13T00:30Z,Australian Open,Billy Harris,Chris Rodesch,,,0.0
+171014,2026-01-13T00:45Z,Australian Open,Alex Bolt,Elias Ymer,,,0.0
+171023,2026-01-13T00:45Z,Australian Open,Wu Yibing,Mitchell Krueger,,,1.0
+171024,2026-01-13T00:50Z,Australian Open,Otto Virtanen,Nicolas Mejia,,,0.0
+171012,2026-01-13T01:15Z,Australian Open,Chak Lam Coleman Wong,Ugo Blanchet,,,1.0
+171015,2026-01-13T01:15Z,Australian Open,Elmer Moller,Marc Polmans,,,1.0
+171013,2026-01-13T01:20Z,Australian Open,Pablo Llamas Ruiz,Henry Bernet,,,1.0
+170969,2026-01-13T02:05Z,Australian Open,Li Tu,Rafael Jodar,,,0.0
+170990,2026-01-13T03:00Z,Australian Open,Cruz Hewitt,Michael Zheng,,,0.0
+171010,2026-01-13T03:10Z,Australian Open,Jason Kubler,Harold Mayot,,,1.0
+171025,2026-01-13T03:25Z,Australian Open,Hady Habib,Zachary Svajda,,,0.0
+170991,2026-01-13T03:45Z,Australian Open,Tomas Barrios Vera,Sascha Gueymard Wayenburg,,,1.0
+171009,2026-01-13T04:00Z,Australian Open,Nicolas Moreno De Alboran,Vilius Gaubas,,,0.0
+171027,2026-01-13T04:35Z,Australian Open,Kimmer Coppejans,Omar Jasika,,,1.0
+170993,2026-01-13T04:50Z,Australian Open,Mackenzie McDonald,Dmitry Popko,,,1.0
+171011,2026-01-13T04:50Z,Australian Open,Sho Shimabukuro,Alex Molcan,,,0.0
+171017,2026-01-13T05:30Z,Australian Open,Jan Choinski,Leandro Riedi,,,0.0
+171026,2026-01-13T05:30Z,Australian Open,Juan Pablo Ficovich,Jurij Rodionov,,,0.0
+170985,2026-01-13T05:40Z,Australian Open,Rodrigo Pacheco Mendez,Adolfo Daniel Vallejo,,,0.0
+170999,2026-01-13T05:45Z,Australian Open,Alexander Blockx,Marco Cecchinato,,,1.0
+171001,2026-01-13T05:50Z,Australian Open,Vitaliy Sachko,Viktor Durasovic,,,1.0
+171002,2026-01-13T06:05Z,Australian Open,Daniel Elahi Galan,Hugo Grenier,,,0.0
+170986,2026-01-13T06:15Z,Australian Open,Lloyd Harris,Federico Cina,,,0.0
+171000,2026-01-13T06:25Z,Australian Open,Moerani Bouzige,Liam Draxl,,,0.0
+170988,2026-01-13T07:10Z,Australian Open,Roman Andres Burruchaga,Ryan Peniston,,,1.0
+170987,2026-01-13T07:45Z,Australian Open,Zdenek Kolar,Arthur Gea,,,0.0
+171034,2026-01-13T23:05Z,Australian Open,Brandon Holt,Giulio Zeppieri,,,0.0
+171038,2026-01-13T23:05Z,Australian Open,Nishesh Basavareddy,Sebastian Ofner,,,1.0
+171128,2026-01-13T23:05Z,Australian Open,Roberto Carballes Baena,Gilles Arnaud Bailly,,,0.0
+171137,2026-01-13T23:05Z,Australian Open,Rei Sakamoto,Colton Smith,,,1.0
+171129,2026-01-13T23:10Z,Australian Open,Martin Damm,Titouan Droguet,,,1.0
+171138,2026-01-13T23:10Z,Australian Open,Yoshihito Nishioka,George Loffhagen,,,0.0
+171043,2026-01-14T00:40Z,Australian Open,Jerome Kym,Dane Sweeny,,,0.0
+171122,2026-01-14T00:40Z,Australian Open,Gonzalo Bueno,Pierre-Hugues Herbert,,,0.0
+171125,2026-01-14T00:40Z,Australian Open,Benjamin Hassan,Jaime Faria,,,0.0
+171134,2026-01-14T00:45Z,Australian Open,Dino Prizmic,Gustavo Heide,,,1.0
+171135,2026-01-14T00:50Z,Australian Open,Henrique Rocha,Marco Trungelliti,,,0.0
+171127,2026-01-14T01:55Z,Australian Open,Martin Landaluce,Stefano Travaglia,,,0.0
+171142,2026-01-14T02:35Z,Australian Open,Pablo Llamas Ruiz,Chak Lam Coleman Wong,,,0.0
+171136,2026-01-14T02:40Z,Australian Open,James McCabe,Nicolai Budkov Kjaer,,,0.0
+171037,2026-01-14T03:00Z,Australian Open,Thiago Seyboth Wild,Francesco Maestrelli,,,0.0
+171139,2026-01-14T03:00Z,Australian Open,Nicolas Mejia,Wu Yibing,,,0.0
+171041,2026-01-14T03:05Z,Australian Open,Arthur Fery,Bernard Tomic,,,1.0
+171042,2026-01-14T03:40Z,Australian Open,Chris Rodesch,Rafael Jodar,,,0.0
+171036,2026-01-14T04:05Z,Australian Open,Elmer Moller,Elias Ymer,,,0.0
+171126,2026-01-14T04:10Z,Australian Open,Tristan Boyer,Francesco Passaro,,,1.0
+171141,2026-01-14T04:15Z,Australian Open,Leandro Riedi,Kimmer Coppejans,,,0.0
+171040,2026-01-14T04:30Z,Australian Open,Dusan Lajovic,Murphy Cassone,,,1.0
+171039,2026-01-14T04:35Z,Australian Open,Daniil Glinka,Luca Van Assche,,,0.0
+171121,2026-01-14T05:35Z,Australian Open,Tomas Barrios Vera,Michael Zheng,,,0.0
+171123,2026-01-14T05:45Z,Australian Open,Alexander Blockx,Alex Molcan,,,1.0
+171033,2026-01-14T06:25Z,Australian Open,Federico Cina,Adolfo Daniel Vallejo,,,0.0
+171032,2026-01-14T06:45Z,Australian Open,Daniel Merida,Lukas Klein,,,0.0
+171119,2026-01-14T06:45Z,Australian Open,Mackenzie McDonald,Hugo Grenier,,,1.0
+171120,2026-01-14T06:55Z,Australian Open,Roman Andres Burruchaga,Arthur Gea,,,0.0
+171140,2026-01-14T07:05Z,Australian Open,Jurij Rodionov,Zachary Svajda,,,0.0
+171124,2026-01-14T07:20Z,Australian Open,Jason Kubler,Vilius Gaubas,,,1.0
+171035,2026-01-14T07:35Z,Australian Open,Vitaliy Sachko,Liam Draxl,,,0.0
+171048,2026-01-15T00:05Z,Australian Open,Giulio Zeppieri,Rei Sakamoto,,,0.0
+171049,2026-01-15T00:05Z,Australian Open,Stefano Travaglia,Dane Sweeny,,,0.0
+171052,2026-01-15T00:10Z,Australian Open,Dino Prizmic,Arthur Fery,,,0.0
+171131,2026-01-15T00:10Z,Australian Open,Jaime Faria,Marco Trungelliti,,,1.0
+171132,2026-01-15T00:10Z,Australian Open,George Loffhagen,Nishesh Basavareddy,,,0.0
+171045,2026-01-15T01:50Z,Australian Open,Pierre-Hugues Herbert,Nicolai Budkov Kjaer,,,0.0
+171143,2026-01-15T02:00Z,Australian Open,Wu Yibing,Tristan Boyer,,,1.0
+171053,2026-01-15T02:10Z,Australian Open,Rafael Jodar,Luca Van Assche,,,1.0
+171051,2026-01-15T02:35Z,Australian Open,Elias Ymer,Chak Lam Coleman Wong,,,1.0
+171133,2026-01-15T02:50Z,Australian Open,Dusan Lajovic,Francesco Maestrelli,,,0.0
+171130,2026-01-15T03:15Z,Australian Open,Mackenzie McDonald,Liam Draxl,,,0.0
+171054,2026-01-15T03:20Z,Australian Open,Gilles Arnaud Bailly,Martin Damm,,,0.0
+171047,2026-01-15T03:55Z,Australian Open,Arthur Gea,Adolfo Daniel Vallejo,,,1.0
+171044,2026-01-15T04:20Z,Australian Open,Michael Zheng,Lukas Klein,,,1.0
+171046,2026-01-15T05:10Z,Australian Open,Alexander Blockx,Jason Kubler,,,0.0
+171050,2026-01-15T05:10Z,Australian Open,Kimmer Coppejans,Zachary Svajda,,,0.0
+168479,2026-01-18T00:10Z,Australian Open,Miomir Kecmanovic,Tomas Martin Etcheverry,,,0.0
+168501,2026-01-18T00:10Z,Australian Open,Arthur Fery,Flavio Cobolli,,,1.0
+168513,2026-01-18T01:45Z,Australian Open,Tristan Schoolkate,Corentin Moutet,,,0.0
+168496,2026-01-18T02:20Z,Australian Open,Alexander Zverev,Gabriel Diallo,,,1.0
+168538,2026-01-18T02:30Z,Australian Open,Francisco Cerundolo,Zhang Zhizhen,,,1.0
+168484,2026-01-18T03:10Z,Australian Open,Patrick Kypson,Francisco Comesana,,,0.0
+168508,2026-01-18T03:20Z,Australian Open,Emilio Nava,Kyrian Jacquet,,,1.0
+168536,2026-01-18T03:50Z,Australian Open,Liam Draxl,Damir Dzumhur,,,0.0
+168497,2026-01-18T04:45Z,Australian Open,Michael Zheng,Sebastian Korda,,,1.0
+168505,2026-01-18T06:05Z,Australian Open,Alexander Blockx,Jaime Faria,,,0.0
+168523,2026-01-18T06:05Z,Australian Open,Camilo Ugo Carabelli,Marton Fucsovics,,,0.0
+168500,2026-01-18T06:15Z,Australian Open,Frances Tiafoe,Jason Kubler,,,1.0
+168481,2026-01-18T07:10Z,Australian Open,Yannick Hanfmann,Zachary Svajda,,,1.0
+168503,2026-01-18T07:20Z,Australian Open,Benjamin Bonzi,Cameron Norrie,,,0.0
+168521,2026-01-18T08:15Z,Australian Open,Alexander Bublik,Jenson Brooksby,,,1.0
+168478,2026-01-18T09:55Z,Australian Open,Carlos Alcaraz,Adam Walton,,,1.0
+168495,2026-01-19T00:05Z,Australian Open,Elias Ymer,Aleksandr Shevchenko,,,0.0
+168480,2026-01-19T00:10Z,Australian Open,Quentin Halys,Alejandro Tabilo,,,1.0
+168492,2026-01-19T00:10Z,Australian Open,Nuno Borges,Felix Auger-Aliassime,,,1.0
+168527,2026-01-19T00:10Z,Australian Open,Mariano Navone,Hamad Medjedovic,,,0.0
+168535,2026-01-19T00:40Z,Australian Open,Daniil Medvedev,Jesper de Jong,,,1.0
+168483,2026-01-19T01:30Z,Australian Open,Fabian Marozsan,Arthur Rinderknech,,,1.0
+168504,2026-01-19T01:40Z,Australian Open,Shang Juncheng,Roberto Bautista Agut,,,1.0
+168514,2026-01-19T01:40Z,Australian Open,Tommy Paul,Aleksandar Kovacevic,,,1.0
+168489,2026-01-19T01:55Z,Australian Open,Nicolai Budkov Kjaer,Reilly Opelka,,,0.0
+168534,2026-01-19T02:00Z,Australian Open,Matteo Arnaldi,Andrey Rublev,,,0.0
+168491,2026-01-19T02:30Z,Australian Open,Juan Manuel Cerundolo,Jordan Thompson,,,0.0
+168528,2026-01-19T02:45Z,Australian Open,Mackenzie McDonald,Alex de Minaur,,,0.0
+168493,2026-01-19T02:55Z,Australian Open,Learner Tien,Marcos Giron,,,1.0
+168486,2026-01-19T03:30Z,Australian Open,Filip Misolic,Alejandro Davidovich Fokina,,,0.0
+168477,2026-01-19T04:00Z,Australian Open,Thiago Agustin Tirante,Aleksandar Vukic,,,1.0
+168498,2026-01-19T04:20Z,Australian Open,Laslo Djere,Stan Wawrinka,,,0.0
+168482,2026-01-19T04:50Z,Australian Open,Kamil Majchrzak,Jacob Fearnley,,,1.0
+168524,2026-01-19T04:55Z,Australian Open,Daniel Altmaier,Marin Cilic,,,0.0
+168507,2026-01-19T05:00Z,Australian Open,Brandon Nakashima,Botic Van De Zandschulp,,,0.0
+168517,2026-01-19T05:55Z,Australian Open,Terence Atmane,Francesco Maestrelli,,,0.0
+168522,2026-01-19T06:10Z,Australian Open,Denis Shapovalov,Bu Yunchaokete,,,1.0
+168519,2026-01-19T06:15Z,Australian Open,Jaume Munar,Dalibor Svrcina,,,1.0
+168525,2026-01-19T07:15Z,Australian Open,Adrian Mannarino,Rinky Hijikata,,,0.0
+168502,2026-01-19T07:35Z,Australian Open,Jiri Lehecka,Arthur Gea,,,0.0
+168526,2026-01-19T07:55Z,Australian Open,Martin Damm,Valentin Vacherot,,,0.0
+168494,2026-01-19T09:05Z,Australian Open,Alexei Popyrin,Alexandre Muller,,,0.0
+168520,2026-01-19T10:30Z,Australian Open,Mattia Bellucci,Casper Ruud,,,0.0
+168518,2026-01-19T10:35Z,Australian Open,Pedro Martinez,Novak Djokovic,,,0.0
+168529,2026-01-20T00:05Z,Australian Open,Cristian Garin,Luciano Darderi,,,0.0
+168490,2026-01-20T00:10Z,Australian Open,Lorenzo Sonego,Carlos Taberner,,,1.0
+168488,2026-01-20T00:40Z,Australian Open,Lorenzo Musetti,Raphael Collignon,,,1.0
+168506,2026-01-20T01:30Z,Australian Open,Ethan Quinn,Tallon Griekspoor,,,1.0
+168532,2026-01-20T01:45Z,Australian Open,Giovanni Mpetshi Perricard,Sebastian Baez,,,0.0
+168512,2026-01-20T02:10Z,Australian Open,Jakub Mensik,Pablo Carreno Busta,,,1.0
+168531,2026-01-20T02:10Z,Australian Open,Christopher O'Connell,Nishesh Basavareddy,,,0.0
+168533,2026-01-20T02:10Z,Australian Open,Karen Khachanov,Alex Michelsen,,,1.0
+168515,2026-01-20T02:45Z,Australian Open,Ben Shelton,Ugo Humbert,,,1.0
+168530,2026-01-20T03:20Z,Australian Open,Joao Fonseca,Eliot Spizzirri,,,0.0
+168539,2026-01-20T03:30Z,Australian Open,Luca Nardi,Wu Yibing,,,0.0
+168516,2026-01-20T04:05Z,Australian Open,Dane Sweeny,Gael Monfils,,,1.0
+168509,2026-01-20T05:10Z,Australian Open,Rei Sakamoto,Rafael Jodar,,,0.0
+168510,2026-01-20T06:40Z,Australian Open,Hubert Hurkacz,Zizou Bergs,,,1.0
+168540,2026-01-20T06:40Z,Australian Open,James Duckworth,Dino Prizmic,,,1.0
+168511,2026-01-20T06:50Z,Australian Open,Valentin Royer,Taylor Fritz,,,0.0
+168499,2026-01-20T06:55Z,Australian Open,Vit Kopriva,Jan-Lennard Struff,,,1.0
+168537,2026-01-20T08:15Z,Australian Open,Hugo Gaston,Jannik Sinner,,,0.0
+168485,2026-01-20T08:20Z,Australian Open,Grigor Dimitrov,Tomas Machac,,,0.0
+168487,2026-01-20T10:00Z,Australian Open,Shintaro Mochizuki,Stefanos Tsitsipas,,,0.0
+168541,2026-01-21T00:05Z,Australian Open,Tommy Paul,Thiago Agustin Tirante,,,1.0
+168542,2026-01-21T00:10Z,Australian Open,Francisco Cerundolo,Damir Dzumhur,,,1.0
+168552,2026-01-21T00:10Z,Australian Open,Kamil Majchrzak,Fabian Marozsan,,,0.0
+168577,2026-01-21T00:40Z,Australian Open,Jaime Faria,Andrey Rublev,,,0.0
+168556,2026-01-21T01:50Z,Australian Open,Daniil Medvedev,Quentin Halys,,,1.0
+168544,2026-01-21T02:00Z,Australian Open,Tomas Martin Etcheverry,Arthur Fery,,,1.0
+168576,2026-01-21T02:40Z,Australian Open,Reilly Opelka,Alejandro Davidovich Fokina,,,0.0
+168591,2026-01-21T03:10Z,Australian Open,Carlos Alcaraz,Yannick Hanfmann,,,1.0
+168581,2026-01-21T04:20Z,Australian Open,Jordan Thompson,Nuno Borges,,,0.0
+168590,2026-01-21T05:00Z,Australian Open,Michael Zheng,Corentin Moutet,,,0.0
+168580,2026-01-21T05:15Z,Australian Open,Learner Tien,Aleksandr Shevchenko,,,1.0
+168579,2026-01-21T06:50Z,Australian Open,Emilio Nava,Cameron Norrie,,,0.0
+168575,2026-01-21T06:55Z,Australian Open,Alexander Bublik,Marton Fucsovics,,,1.0
+168578,2026-01-21T08:05Z,Australian Open,Alexander Zverev,Alexandre Muller,,,1.0
+168545,2026-01-21T08:15Z,Australian Open,Hamad Medjedovic,Alex de Minaur,,,0.0
+168543,2026-01-21T09:45Z,Australian Open,Frances Tiafoe,Francisco Comesana,,,1.0
+168551,2026-01-22T00:10Z,Australian Open,Jakub Mensik,Rafael Jodar,,,1.0
+168553,2026-01-22T00:10Z,Australian Open,Rinky Hijikata,Valentin Vacherot,,,0.0
+168586,2026-01-22T00:10Z,Australian Open,Sebastian Baez,Luciano Darderi,,,0.0
+168589,2026-01-22T00:10Z,Australian Open,Karen Khachanov,Nishesh Basavareddy,,,1.0
+168583,2026-01-22T00:40Z,Australian Open,Lorenzo Musetti,Lorenzo Sonego,,,1.0
+168548,2026-01-22T01:45Z,Australian Open,Ben Shelton,Dane Sweeny,,,1.0
+168547,2026-01-22T02:05Z,Australian Open,Hubert Hurkacz,Ethan Quinn,,,0.0
+168554,2026-01-22T02:40Z,Australian Open,Francesco Maestrelli,Novak Djokovic,,,0.0
+168550,2026-01-22T03:30Z,Australian Open,Botic Van De Zandschulp,Shang Juncheng,,,1.0
+168587,2026-01-22T04:00Z,Australian Open,Eliot Spizzirri,Wu Yibing,,,1.0
+168549,2026-01-22T05:05Z,Australian Open,Arthur Gea,Stan Wawrinka,,,0.0
+168546,2026-01-22T06:10Z,Australian Open,Tomas Machac,Stefanos Tsitsipas,,,1.0
+168584,2026-01-22T06:10Z,Australian Open,Denis Shapovalov,Marin Cilic,,,0.0
+168582,2026-01-22T08:00Z,Australian Open,Vit Kopriva,Taylor Fritz,,,0.0
+168585,2026-01-22T08:15Z,Australian Open,James Duckworth,Jannik Sinner,,,0.0
+168588,2026-01-22T10:35Z,Australian Open,Jaume Munar,Casper Ruud,,,0.0
+168595,2026-01-23T00:10Z,Australian Open,Learner Tien,Nuno Borges,,,1.0
+168560,2026-01-23T00:40Z,Australian Open,Daniil Medvedev,Fabian Marozsan,,,1.0
+168555,2026-01-23T02:55Z,Australian Open,Tommy Paul,Alejandro Davidovich Fokina,,,1.0
+168562,2026-01-23T03:05Z,Australian Open,Carlos Alcaraz,Corentin Moutet,,,1.0
+168593,2026-01-23T06:55Z,Australian Open,Francisco Cerundolo,Andrey Rublev,,,1.0
+168561,2026-01-23T08:15Z,Australian Open,Frances Tiafoe,Alex de Minaur,,,0.0
+168592,2026-01-23T08:20Z,Australian Open,Alexander Zverev,Cameron Norrie,,,1.0
+168594,2026-01-23T10:10Z,Australian Open,Alexander Bublik,Tomas Martin Etcheverry,,,1.0
+168558,2026-01-23T23:40Z,Australian Open,Lorenzo Musetti,Tomas Machac,,,1.0
+168566,2026-01-23T23:40Z,Australian Open,Karen Khachanov,Luciano Darderi,,,0.0
+168596,2026-01-24T01:20Z,Australian Open,Eliot Spizzirri,Jannik Sinner,,,0.0
+168598,2026-01-24T03:50Z,Australian Open,Ben Shelton,Valentin Vacherot,,,1.0
+168563,2026-01-24T06:35Z,Australian Open,Stan Wawrinka,Taylor Fritz,,,0.0
+168559,2026-01-24T08:15Z,Australian Open,Botic Van De Zandschulp,Novak Djokovic,,,0.0
+168599,2026-01-24T10:00Z,Australian Open,Jakub Mensik,Ethan Quinn,,,1.0
+168557,2026-01-24T10:20Z,Australian Open,Marin Cilic,Casper Ruud,,,0.0
+168597,2026-01-25T02:45Z,Australian Open,Carlos Alcaraz,Tommy Paul,,,1.0
+168567,2026-01-25T06:15Z,Australian Open,Alexander Zverev,Francisco Cerundolo,,,1.0
+168600,2026-01-25T07:30Z,Australian Open,Daniil Medvedev,Learner Tien,,,0.0
+168565,2026-01-25T08:15Z,Australian Open,Alexander Bublik,Alex de Minaur,,,0.0
+168568,2026-01-26T03:10Z,Australian Open,Lorenzo Musetti,Taylor Fritz,,,1.0
+168569,2026-01-26T07:10Z,Australian Open,Luciano Darderi,Jannik Sinner,,,0.0
+168603,2026-01-26T09:30Z,Australian Open,Jakub Mensik,Novak Djokovic,,,0.0
+168564,2026-01-26T09:55Z,Australian Open,Ben Shelton,Casper Ruud,,,1.0
+168602,2026-01-27T02:45Z,Australian Open,Alexander Zverev,Learner Tien,,,1.0
+168601,2026-01-27T09:25Z,Australian Open,Carlos Alcaraz,Alex de Minaur,,,1.0
+168574,2026-01-28T04:35Z,Australian Open,Lorenzo Musetti,Novak Djokovic,,,0.0
+168570,2026-01-28T08:30Z,Australian Open,Ben Shelton,Jannik Sinner,,,0.0
+168573,2026-01-30T03:45Z,Australian Open,Carlos Alcaraz,Alexander Zverev,,,1.0
+168572,2026-01-30T10:20Z,Australian Open,Novak Djokovic,Jannik Sinner,,,1.0
+168571,2026-02-01T08:45Z,Australian Open,Carlos Alcaraz,Novak Djokovic,,,1.0
+172091,2026-02-01T09:30Z,Open Occitanie,Matteo Martineau,Martin Damm,,,0.0
+172093,2026-02-01T09:30Z,Open Occitanie,Robin Bertrand,Titouan Droguet,,,0.0
+172092,2026-02-01T11:00Z,Open Occitanie,Ugo Blanchet,Bernabe Zapata Miralles,,,1.0
+172096,2026-02-01T11:00Z,Open Occitanie,Martin Landaluce,Clement Chidekh,,,0.0
+172090,2026-02-01T12:30Z,Open Occitanie,Billy Harris,Clement Tabur,,,0.0
+172097,2026-02-01T12:30Z,Open Occitanie,Moise Kouame,Elias Ymer,,,1.0
+172094,2026-02-01T14:00Z,Open Occitanie,Roberto Carballes Baena,Andrea Vavassori,,,0.0
+172095,2026-02-01T14:00Z,Open Occitanie,Geoffrey Blancaneaux,Hugo Grenier,,,0.0
+172099,2026-02-02T11:00Z,Open Occitanie,Ugo Blanchet,Titouan Droguet,,,0.0
+172098,2026-02-02T11:00Z,Open Occitanie,Clement Tabur,Martin Damm,,,0.0
+172101,2026-02-02T12:30Z,Open Occitanie,Clement Chidekh,Moise Kouame,,,0.0
+172100,2026-02-02T12:30Z,Open Occitanie,Andrea Vavassori,Hugo Grenier,,,1.0
+169476,2026-02-02T16:50Z,Open Occitanie,Pedro Martinez,Adrian Mannarino,,,0.0
+169470,2026-02-02T18:45Z,Open Occitanie,Arthur Gea,Giovanni Mpetshi Perricard,,,1.0
+169469,2026-02-02T19:50Z,Open Occitanie,Roberto Bautista Agut,Christopher O'Connell,,,1.0
+169457,2026-02-03T11:35Z,Open Occitanie,Miomir Kecmanovic,Pablo Carreno Busta,,,0.0
+169466,2026-02-03T13:45Z,Open Occitanie,Hubert Hurkacz,Martin Damm,,,0.0
+169459,2026-02-03T13:55Z,Open Occitanie,Titouan Droguet,Jan Choinski,,,1.0
+169456,2026-02-03T15:35Z,Open Occitanie,Ugo Humbert,Botic Van De Zandschulp,,,1.0
+169461,2026-02-03T17:40Z,Open Occitanie,Valentin Royer,Arthur Fils,,,0.0
+169468,2026-02-03T20:30Z,Open Occitanie,Andrea Vavassori,Ugo Blanchet,,,0.0
+169462,2026-02-04T11:10Z,Open Occitanie,Nikoloz Basilashvili,Luca Nardi,,,0.0
+169474,2026-02-04T12:25Z,Open Occitanie,Martin Damm,Roberto Bautista Agut,,,1.0
+169454,2026-02-04T13:35Z,Open Occitanie,Moise Kouame,Aleksandar Kovacevic,,,0.0
+169465,2026-02-04T15:50Z,Open Occitanie,Hamad Medjedovic,Stan Wawrinka,,,0.0
+169477,2026-02-04T17:45Z,Open Occitanie,Ugo Humbert,Adrian Mannarino,,,0.0
+169471,2026-02-04T20:50Z,Open Occitanie,Arthur Gea,Tomas Machac,,,1.0
+169475,2026-02-05T12:10Z,Open Occitanie,Titouan Droguet,Aleksandar Kovacevic,,,1.0
+169455,2026-02-05T13:35Z,Open Occitanie,Tallon Griekspoor,Pablo Carreno Busta,,,1.0
+169467,2026-02-05T15:00Z,Open Occitanie,Luca Nardi,Flavio Cobolli,,,1.0
+169458,2026-02-05T17:40Z,Open Occitanie,Felix Auger-Aliassime,Stan Wawrinka,,,1.0
+169460,2026-02-05T19:50Z,Open Occitanie,Ugo Blanchet,Arthur Fils,,,0.0
+169480,2026-02-06T13:35Z,Open Occitanie,Adrian Mannarino,Arthur Gea,,,1.0
+169478,2026-02-06T16:25Z,Open Occitanie,Martin Damm,Luca Nardi,,,1.0
+169481,2026-02-06T18:10Z,Open Occitanie,Felix Auger-Aliassime,Arthur Fils,,,1.0
+169479,2026-02-06T19:40Z,Open Occitanie,Tallon Griekspoor,Titouan Droguet,,,0.0
+169483,2026-02-07T14:10Z,Open Occitanie,Adrian Mannarino,Martin Damm,,,1.0
+169482,2026-02-07T16:10Z,Open Occitanie,Felix Auger-Aliassime,Titouan Droguet,,,1.0
+169484,2026-02-08T14:10Z,Open Occitanie,Felix Auger-Aliassime,Adrian Mannarino,,,1.0
+172303,2026-02-07T10:00Z,ABN Amro Open,Hugo Grenier,Jan Choinski,,,1.0
+172305,2026-02-07T10:00Z,ABN Amro Open,Vitaliy Sachko,Christopher O'Connell,,,0.0
+172302,2026-02-07T11:30Z,ABN Amro Open,Kimmer Coppejans,Thijs Boogaard,,,0.0
+172304,2026-02-07T11:30Z,ABN Amro Open,Hugo Gaston,Alec Deckers,,,1.0
+172301,2026-02-07T13:00Z,ABN Amro Open,Luka Pavlovic,Billy Harris,,,1.0
+172307,2026-02-07T13:00Z,ABN Amro Open,Mees Rottgering,Kyrian Jacquet,,,1.0
+172300,2026-02-07T14:30Z,ABN Amro Open,Hamad Medjedovic,Nikoloz Basilashvili,,,1.0
+172306,2026-02-07T14:30Z,ABN Amro Open,Pablo Carreno Busta,Roberto Carballes Baena,,,0.0
+172309,2026-02-08T10:00Z,ABN Amro Open,Thijs Boogaard,Hugo Grenier,,,0.0
+172310,2026-02-08T10:00Z,ABN Amro Open,Hugo Gaston,Christopher O'Connell,,,0.0
+172308,2026-02-08T11:30Z,ABN Amro Open,Hamad Medjedovic,Luka Pavlovic,,,0.0
+172311,2026-02-08T11:30Z,ABN Amro Open,Roberto Carballes Baena,Mees Rottgering,,,0.0
+169505,2026-02-09T12:10Z,ABN Amro Open,Roberto Bautista Agut,Cameron Norrie,,,0.0
+169507,2026-02-09T14:25Z,ABN Amro Open,Daniil Medvedev,Ugo Humbert,,,0.0
+169512,2026-02-09T16:15Z,ABN Amro Open,Valentin Royer,Christopher O'Connell,,,0.0
+169500,2026-02-09T18:40Z,ABN Amro Open,Luka Pavlovic,Botic Van De Zandschulp,,,0.0
+169511,2026-02-09T20:40Z,ABN Amro Open,Nicolai Budkov Kjaer,Jaume Munar,,,0.0
+169508,2026-02-10T10:10Z,ABN Amro Open,Quentin Halys,Mees Rottgering,,,1.0
+169515,2026-02-10T12:25Z,ABN Amro Open,Tallon Griekspoor,Giovanni Mpetshi Perricard,,,1.0
+169504,2026-02-10T14:00Z,ABN Amro Open,Hugo Grenier,Jan-Lennard Struff,,,0.0
+169513,2026-02-10T18:40Z,ABN Amro Open,Alex de Minaur,Arthur Fils,,,1.0
+169510,2026-02-10T20:35Z,ABN Amro Open,Zizou Bergs,Hamad Medjedovic,,,0.0
+169501,2026-02-11T10:10Z,ABN Amro Open,Guy Den Ouden,Marton Fucsovics,,,1.0
+169506,2026-02-11T10:10Z,ABN Amro Open,Thijs Boogaard,Stan Wawrinka,,,0.0
+169509,2026-02-11T11:50Z,ABN Amro Open,Stefanos Tsitsipas,Arthur Rinderknech,,,1.0
+169503,2026-02-11T12:20Z,ABN Amro Open,Karen Khachanov,Jesper de Jong,,,1.0
+169502,2026-02-11T13:40Z,ABN Amro Open,Hubert Hurkacz,Alexander Bublik,,,0.0
+169514,2026-02-11T15:05Z,ABN Amro Open,Christopher O'Connell,Cameron Norrie,,,1.0
+169525,2026-02-11T18:40Z,ABN Amro Open,Alexei Popyrin,Felix Auger-Aliassime,,,0.0
+169516,2026-02-11T20:35Z,ABN Amro Open,Tallon Griekspoor,Quentin Halys,,,1.0
+169523,2026-02-12T10:05Z,ABN Amro Open,Ugo Humbert,Guy Den Ouden,,,1.0
+169519,2026-02-12T10:10Z,ABN Amro Open,Karen Khachanov,Jaume Munar,,,0.0
+169524,2026-02-12T13:05Z,ABN Amro Open,Botic Van De Zandschulp,Stefanos Tsitsipas,,,1.0
+169521,2026-02-12T15:20Z,ABN Amro Open,Alex de Minaur,Stan Wawrinka,,,1.0
+169518,2026-02-12T18:40Z,ABN Amro Open,Hamad Medjedovic,Felix Auger-Aliassime,,,0.0
+169522,2026-02-12T20:35Z,ABN Amro Open,Jan-Lennard Struff,Alexander Bublik,,,0.0
+169529,2026-02-13T12:10Z,ABN Amro Open,Ugo Humbert,Christopher O'Connell,,,1.0
+169517,2026-02-13T13:50Z,ABN Amro Open,Alex de Minaur,Botic Van De Zandschulp,,,1.0
+169528,2026-02-13T18:40Z,ABN Amro Open,Tallon Griekspoor,Felix Auger-Aliassime,,,0.0
+169530,2026-02-13T20:45Z,ABN Amro Open,Jaume Munar,Alexander Bublik,,,0.0
+169526,2026-02-14T14:10Z,ABN Amro Open,Alex de Minaur,Ugo Humbert,,,1.0
+169527,2026-02-14T18:40Z,ABN Amro Open,Alexander Bublik,Felix Auger-Aliassime,,,0.0
+169520,2026-02-15T14:45Z,ABN Amro Open,Alex de Minaur,Felix Auger-Aliassime,,,1.0
+172323,2026-02-07T16:00Z,IEB+ Argentina Open,Francesco Passaro,Nicolas Kicker,,,1.0
+172324,2026-02-07T16:00Z,IEB+ Argentina Open,Santiago Rodriguez Taverna,Marco Cecchinato,,,0.0
+172325,2026-02-07T16:00Z,IEB+ Argentina Open,Daniel Elahi Galan,Juan Bautista Torres,,,1.0
+172321,2026-02-07T17:30Z,IEB+ Argentina Open,Franco Agamenone,Thiago Monteiro,,,0.0
+172322,2026-02-07T17:30Z,IEB+ Argentina Open,Andrea Collarini,Thiago Seyboth Wild,,,0.0
+172326,2026-02-07T17:30Z,IEB+ Argentina Open,Lautaro Midon,Felipe Meligeni Alves,,,1.0
+172320,2026-02-07T19:30Z,IEB+ Argentina Open,Andrea Pellegrino,Juan Manuel La Serna,,,1.0
+172327,2026-02-07T19:30Z,IEB+ Argentina Open,Hugo Dellien,Genaro Alberto Olivieri,,,1.0
+172331,2026-02-08T16:00Z,IEB+ Argentina Open,Daniel Elahi Galan,Lautaro Midon,,,0.0
+172330,2026-02-08T16:00Z,IEB+ Argentina Open,Francesco Passaro,Marco Cecchinato,,,1.0
+172329,2026-02-08T18:00Z,IEB+ Argentina Open,Hugo Dellien,Thiago Monteiro,,,1.0
+172328,2026-02-08T18:00Z,IEB+ Argentina Open,Andrea Pellegrino,Thiago Seyboth Wild,,,1.0
+169597,2026-02-09T16:10Z,IEB+ Argentina Open,Damir Dzumhur,Hugo Dellien,,,0.0
+169592,2026-02-09T17:40Z,IEB+ Argentina Open,Lautaro Midon,Pedro Martinez,,,0.0
+169602,2026-02-09T21:40Z,IEB+ Argentina Open,Andrea Pellegrino,Tomas Martin Etcheverry,,,0.0
+169605,2026-02-09T23:35Z,IEB+ Argentina Open,Alex Barrena,Vit Kopriva,,,0.0
+169607,2026-02-10T16:05Z,IEB+ Argentina Open,Tomas Barrios Vera,Thiago Seyboth Wild,,,1.0
+169598,2026-02-10T16:05Z,IEB+ Argentina Open,Daniel Altmaier,Juan Manuel Cerundolo,,,0.0
+169604,2026-02-10T17:55Z,IEB+ Argentina Open,Facundo Diaz Acosta,Alejandro Tabilo,,,0.0
+169601,2026-02-10T18:30Z,IEB+ Argentina Open,Roman Andres Burruchaga,Laslo Djere,,,1.0
+169595,2026-02-10T20:10Z,IEB+ Argentina Open,Ignacio Buse,Francesco Passaro,,,1.0
+169606,2026-02-10T21:40Z,IEB+ Argentina Open,Federico Coria,Matteo Berrettini,,,0.0
+169599,2026-02-11T00:10Z,IEB+ Argentina Open,Camilo Ugo Carabelli,Francisco Comesana,,,1.0
+169611,2026-02-11T16:10Z,IEB+ Argentina Open,Roman Andres Burruchaga,Tomas Martin Etcheverry,,,0.0
+169600,2026-02-11T16:10Z,IEB+ Argentina Open,Mariano Navone,Emilio Nava,,,1.0
+169608,2026-02-11T20:05Z,IEB+ Argentina Open,Vit Kopriva,Matteo Berrettini,,,1.0
+169609,2026-02-11T22:25Z,IEB+ Argentina Open,Joao Fonseca,Alejandro Tabilo,,,0.0
+169612,2026-02-12T01:10Z,IEB+ Argentina Open,Francisco Cerundolo,Hugo Dellien,,,1.0
+169613,2026-02-12T16:10Z,IEB+ Argentina Open,Tomas Barrios Vera,Luciano Darderi,,,0.0
+169619,2026-02-12T18:35Z,IEB+ Argentina Open,Juan Manuel Cerundolo,Pedro Martinez,,,0.0
+169610,2026-02-12T21:35Z,IEB+ Argentina Open,Ignacio Buse,Sebastian Baez,,,0.0
+169614,2026-02-12T23:20Z,IEB+ Argentina Open,Camilo Ugo Carabelli,Mariano Navone,,,1.0
+169616,2026-02-13T16:05Z,IEB+ Argentina Open,Alejandro Tabilo,Tomas Martin Etcheverry,,,0.0
+169618,2026-02-13T18:30Z,IEB+ Argentina Open,Francisco Cerundolo,Vit Kopriva,,,1.0
+169615,2026-02-13T21:40Z,IEB+ Argentina Open,Camilo Ugo Carabelli,Sebastian Baez,,,0.0
+169617,2026-02-13T23:55Z,IEB+ Argentina Open,Pedro Martinez,Luciano Darderi,,,0.0
+169620,2026-02-14T19:10Z,IEB+ Argentina Open,Francisco Cerundolo,Tomas Martin Etcheverry,,,1.0
+169621,2026-02-14T21:00Z,IEB+ Argentina Open,Sebastian Baez,Luciano Darderi,,,0.0
+169637,2026-02-15T19:10Z,IEB+ Argentina Open,Francisco Cerundolo,Luciano Darderi,,,1.0
+172312,2026-02-07T16:00Z,Nexo Dallas Open,Patrick Kypson,Pedro Sakamoto,,,1.0
+172315,2026-02-07T16:00Z,Nexo Dallas Open,Alex Finkelstein,Tristan Boyer,,,0.0
+172313,2026-02-07T17:30Z,Nexo Dallas Open,Daniel Dutra da Silva,Jack Pinnington Jones,,,0.0
+172314,2026-02-07T17:30Z,Nexo Dallas Open,Zachary Svajda,Georgi Georgiev,,,1.0
+172319,2026-02-07T19:00Z,Nexo Dallas Open,Krish Arora,Bernard Tomic,,,0.0
+172318,2026-02-07T19:00Z,Nexo Dallas Open,Sho Shimabukuro,Thai-Son Kwiatkowski,,,1.0
+172316,2026-02-07T20:30Z,Nexo Dallas Open,Rafael Jodar,Mitchell Krueger,,,1.0
+172317,2026-02-07T20:30Z,Nexo Dallas Open,Alex Rybakov,Murphy Cassone,,,0.0
+172332,2026-02-08T18:00Z,Nexo Dallas Open,Patrick Kypson,Jack Pinnington Jones,,,0.0
+172333,2026-02-08T18:00Z,Nexo Dallas Open,Zachary Svajda,Tristan Boyer,,,1.0
+172335,2026-02-08T19:30Z,Nexo Dallas Open,Sho Shimabukuro,Bernard Tomic,,,1.0
+172334,2026-02-08T19:30Z,Nexo Dallas Open,Rafael Jodar,Murphy Cassone,,,1.0
+169555,2026-02-09T18:10Z,Nexo Dallas Open,Brandon Nakashima,Mattia Bellucci,,,1.0
+169559,2026-02-09T19:35Z,Nexo Dallas Open,Zachary Svajda,Alejandro Davidovich Fokina,,,0.0
+169550,2026-02-10T01:10Z,Nexo Dallas Open,Terence Atmane,Frances Tiafoe,,,0.0
+169546,2026-02-10T03:20Z,Nexo Dallas Open,Michael Zheng,Sebastian Korda,,,0.0
+169561,2026-02-10T18:10Z,Nexo Dallas Open,Marin Cilic,Learner Tien,,,1.0
+169558,2026-02-10T19:25Z,Nexo Dallas Open,Sho Shimabukuro,Miomir Kecmanovic,,,0.0
+169556,2026-02-10T20:20Z,Nexo Dallas Open,Grigor Dimitrov,Alex Michelsen,,,0.0
+169553,2026-02-10T21:40Z,Nexo Dallas Open,Flavio Cobolli,Jack Pinnington Jones,,,0.0
+169554,2026-02-10T22:45Z,Nexo Dallas Open,Gabriel Diallo,Ben Shelton,,,0.0
+169552,2026-02-11T01:30Z,Nexo Dallas Open,Taylor Fritz,Marcos Giron,,,1.0
+169547,2026-02-11T01:40Z,Nexo Dallas Open,Aleksandar Kovacevic,Patrick Kypson,,,1.0
+169560,2026-02-11T04:15Z,Nexo Dallas Open,Denis Shapovalov,Rafael Jodar,,,1.0
+169557,2026-02-11T18:10Z,Nexo Dallas Open,Tommy Paul,Jenson Brooksby,,,1.0
+169549,2026-02-11T18:10Z,Nexo Dallas Open,Trevor Svajda,Ethan Quinn,,,0.0
+169548,2026-02-11T20:10Z,Nexo Dallas Open,James Duckworth,Eliot Spizzirri,,,0.0
+169564,2026-02-11T20:50Z,Nexo Dallas Open,Alex Michelsen,Alejandro Davidovich Fokina,,,0.0
+169551,2026-02-11T21:45Z,Nexo Dallas Open,Adam Walton,Adrian Mannarino,,,0.0
+169562,2026-02-12T01:10Z,Nexo Dallas Open,Taylor Fritz,Brandon Nakashima,,,1.0
+169568,2026-02-12T02:35Z,Nexo Dallas Open,Sebastian Korda,Frances Tiafoe,,,1.0
+169566,2026-02-12T18:10Z,Nexo Dallas Open,Ethan Quinn,Marin Cilic,,,0.0
+169569,2026-02-12T18:10Z,Nexo Dallas Open,Jack Pinnington Jones,Eliot Spizzirri,,,1.0
+169567,2026-02-12T20:05Z,Nexo Dallas Open,Denis Shapovalov,Aleksandar Kovacevic,,,1.0
+169563,2026-02-13T01:10Z,Nexo Dallas Open,Adrian Mannarino,Ben Shelton,,,0.0
+169565,2026-02-13T04:10Z,Nexo Dallas Open,Tommy Paul,Miomir Kecmanovic,,,0.0
+169576,2026-02-13T18:10Z,Nexo Dallas Open,Jack Pinnington Jones,Marin Cilic,,,0.0
+169571,2026-02-13T19:45Z,Nexo Dallas Open,Taylor Fritz,Sebastian Korda,,,1.0
+169572,2026-02-14T01:15Z,Nexo Dallas Open,Miomir Kecmanovic,Ben Shelton,,,0.0
+169570,2026-02-14T03:35Z,Nexo Dallas Open,Denis Shapovalov,Alejandro Davidovich Fokina,,,1.0
+169573,2026-02-14T20:10Z,Nexo Dallas Open,Taylor Fritz,Marin Cilic,,,1.0
+169575,2026-02-14T23:10Z,Nexo Dallas Open,Denis Shapovalov,Ben Shelton,,,0.0
+169574,2026-02-15T19:10Z,Nexo Dallas Open,Taylor Fritz,Ben Shelton,,,0.0
+172461,2026-02-13T06:00Z,Dubai Duty Free Tennis Championships,Magdalena Frech,Ekaterina Yashina,,,1.0
+172471,2026-02-13T06:00Z,Dubai Duty Free Tennis Championships,Solana Sierra,Kamilla Rakhimova,,,0.0
+172469,2026-02-13T06:05Z,Dubai Duty Free Tennis Championships,Elsa Jacquemot,Veronika Erjavec,,,0.0
+172470,2026-02-13T06:05Z,Dubai Duty Free Tennis Championships,Moyuka Uchijima,Anna Bondar,,,1.0
+172462,2026-02-13T07:35Z,Dubai Duty Free Tennis Championships,Rebecca Sramkova,Antonia Ruzic,,,1.0
+172472,2026-02-13T07:45Z,Dubai Duty Free Tennis Championships,Ella Seidel,Anastasia Potapova,,,1.0
+172476,2026-02-13T07:55Z,Dubai Duty Free Tennis Championships,Priscilla Hon,Varvara Gracheva,,,0.0
+172468,2026-02-13T08:30Z,Dubai Duty Free Tennis Championships,Hailey Baptiste,Zhang Shuai,,,1.0
+172467,2026-02-13T09:30Z,Dubai Duty Free Tennis Championships,Peyton Stearns,Vera Zvonareva,,,1.0
+172473,2026-02-13T09:40Z,Dubai Duty Free Tennis Championships,Yuliia Starodubtseva,Elena-Gabriela Ruse,,,0.0
+172463,2026-02-13T10:15Z,Dubai Duty Free Tennis Championships,Tereza Valentova,Kimberly Birrell,,,0.0
+172464,2026-02-13T10:15Z,Dubai Duty Free Tennis Championships,Katie Volynets,Alycia Parks,,,1.0
+172465,2026-02-13T11:55Z,Dubai Duty Free Tennis Championships,Sonay Kartal,Storm Hunter,,,1.0
+172475,2026-02-13T11:55Z,Dubai Duty Free Tennis Championships,Anastasia Zakharova,Julia Grabher,,,1.0
+172466,2026-02-13T12:20Z,Dubai Duty Free Tennis Championships,Aliaksandra Sasnovich,Petra Marcinko,,,1.0
+172474,2026-02-13T13:30Z,Dubai Duty Free Tennis Championships,Elisabetta Cocciaretto,Donna Vekic,,,1.0
+172478,2026-02-14T06:05Z,Dubai Duty Free Tennis Championships,Kamilla Rakhimova,Ella Seidel,,,0.0
+172483,2026-02-14T06:05Z,Dubai Duty Free Tennis Championships,Veronika Erjavec,Moyuka Uchijima,,,0.0
+172484,2026-02-14T06:10Z,Dubai Duty Free Tennis Championships,Hailey Baptiste,Rebecca Sramkova,,,0.0
+172482,2026-02-14T07:50Z,Dubai Duty Free Tennis Championships,Peyton Stearns,Elena-Gabriela Ruse,,,0.0
+172481,2026-02-14T08:00Z,Dubai Duty Free Tennis Championships,Kimberly Birrell,Katie Volynets,,,1.0
+172477,2026-02-14T09:00Z,Dubai Duty Free Tennis Championships,Magdalena Frech,Varvara Gracheva,,,0.0
+172479,2026-02-14T09:25Z,Dubai Duty Free Tennis Championships,Elisabetta Cocciaretto,Anastasia Zakharova,,,1.0
+172480,2026-02-14T10:20Z,Dubai Duty Free Tennis Championships,Sonay Kartal,Aliaksandra Sasnovich,,,0.0
+170147,2026-02-15T07:05Z,Dubai Duty Free Tennis Championships,Dayana Yastremska,Janice Tjen,,,0.0
+170184,2026-02-15T07:05Z,Dubai Duty Free Tennis Championships,Linda Noskova,Ann Li,,,1.0
+170189,2026-02-15T08:40Z,Dubai Duty Free Tennis Championships,Peyton Stearns,Magdalena Frech,,,1.0
+170166,2026-02-15T08:50Z,Dubai Duty Free Tennis Championships,Tatjana Maria,Kimberly Birrell,,,0.0
+170186,2026-02-15T09:30Z,Dubai Duty Free Tennis Championships,Marie Bouzkova,Elise Mertens,,,0.0
+170146,2026-02-15T10:30Z,Dubai Duty Free Tennis Championships,Anastasia Pavlyuchenkova,Barbora Krejcikova,,,0.0
+170148,2026-02-15T11:15Z,Dubai Duty Free Tennis Championships,Liudmila Samsonova,Leylah Fernandez,,,0.0
+170191,2026-02-15T11:55Z,Dubai Duty Free Tennis Championships,Ella Seidel,Cristina Bucsa,,,1.0
+170196,2026-02-15T12:15Z,Dubai Duty Free Tennis Championships,Diana Shnaider,Maya Joint,,,1.0
+170190,2026-02-15T13:45Z,Dubai Duty Free Tennis Championships,Lulu Sun,Magda Linette,,,0.0
+170182,2026-02-15T15:05Z,Dubai Duty Free Tennis Championships,Hailey Baptiste,Alexandra Eala,,,0.0
+170161,2026-02-15T16:40Z,Dubai Duty Free Tennis Championships,Zeynep Sonmez,Sara Bejlek,,,0.0
+170197,2026-02-16T07:05Z,Dubai Duty Free Tennis Championships,Iva Jovic,Kamilla Rakhimova,,,1.0
+170185,2026-02-16T07:10Z,Dubai Duty Free Tennis Championships,Elena-Gabriela Ruse,Emma Navarro,,,0.0
+170195,2026-02-16T07:15Z,Dubai Duty Free Tennis Championships,Varvara Gracheva,Rebecca Sramkova,,,1.0
+170183,2026-02-16T09:15Z,Dubai Duty Free Tennis Championships,Sorana Cirstea,Aliaksandra Sasnovich,,,1.0
+170188,2026-02-16T09:15Z,Dubai Duty Free Tennis Championships,Sofia Kenin,Clara Tauson,,,0.0
+170192,2026-02-16T09:55Z,Dubai Duty Free Tennis Championships,Laura Siegemund,Daria Kasatkina,,,0.0
+170162,2026-02-16T11:00Z,Dubai Duty Free Tennis Championships,Belinda Bencic,Jessica Bouzas Maneiro,,,1.0
+170165,2026-02-16T11:20Z,Dubai Duty Free Tennis Championships,Leylah Fernandez,Janice Tjen,,,0.0
+170163,2026-02-16T11:45Z,Dubai Duty Free Tennis Championships,Moyuka Uchijima,Anastasia Zakharova,,,0.0
+170164,2026-02-16T13:20Z,Dubai Duty Free Tennis Championships,Antonia Ruzic,Emma Raducanu,,,1.0
+170187,2026-02-16T13:20Z,Dubai Duty Free Tennis Championships,Jelena Ostapenko,Anna Kalinskaya,,,0.0
+170172,2026-02-16T15:05Z,Dubai Duty Free Tennis Championships,Katerina Siniakova,Paula Badosa,,,0.0
+170149,2026-02-16T15:55Z,Dubai Duty Free Tennis Championships,Jaqueline Cristian,Petra Marcinko,,,1.0
+170179,2026-02-16T16:30Z,Dubai Duty Free Tennis Championships,Barbora Krejcikova,Amanda Anisimova,,,0.0
+170156,2026-02-17T07:05Z,Dubai Duty Free Tennis Championships,Peyton Stearns,Clara Tauson,,,0.0
+170157,2026-02-17T07:05Z,Dubai Duty Free Tennis Championships,Ekaterina Alexandrova,Magda Linette,,,0.0
+170170,2026-02-17T07:10Z,Dubai Duty Free Tennis Championships,Varvara Gracheva,Jessica Pegula,,,0.0
+170152,2026-02-17T08:30Z,Dubai Duty Free Tennis Championships,Belinda Bencic,Sara Bejlek,,,1.0
+170169,2026-02-17T08:30Z,Dubai Duty Free Tennis Championships,Mirra Andreeva,Daria Kasatkina,,,1.0
+170171,2026-02-17T08:40Z,Dubai Duty Free Tennis Championships,Iva Jovic,Diana Shnaider,,,1.0
+170160,2026-02-17T09:10Z,Dubai Duty Free Tennis Championships,Elise Mertens,Emma Navarro,,,1.0
+170167,2026-02-17T10:05Z,Dubai Duty Free Tennis Championships,Ella Seidel,Jaqueline Cristian,,,0.0
+170153,2026-02-17T10:40Z,Dubai Duty Free Tennis Championships,Antonia Ruzic,Anastasia Zakharova,,,1.0
+170150,2026-02-17T10:45Z,Dubai Duty Free Tennis Championships,Coco Gauff,Anna Kalinskaya,,,1.0
+170151,2026-02-17T13:10Z,Dubai Duty Free Tennis Championships,Paula Badosa,Elina Svitolina,,,0.0
+170159,2026-02-17T14:35Z,Dubai Duty Free Tennis Championships,Linda Noskova,Sorana Cirstea,,,0.0
+170154,2026-02-17T15:10Z,Dubai Duty Free Tennis Championships,Elena Rybakina,Kimberly Birrell,,,1.0
+170158,2026-02-17T16:30Z,Dubai Duty Free Tennis Championships,Alexandra Eala,Jasmine Paolini,,,1.0
+170222,2026-02-18T07:05Z,Dubai Duty Free Tennis Championships,Magda Linette,Clara Tauson,,,0.0
+170219,2026-02-18T07:10Z,Dubai Duty Free Tennis Championships,Janice Tjen,Amanda Anisimova,,,0.0
+170220,2026-02-18T08:40Z,Dubai Duty Free Tennis Championships,Mirra Andreeva,Jaqueline Cristian,,,1.0
+170221,2026-02-18T09:05Z,Dubai Duty Free Tennis Championships,Iva Jovic,Jessica Pegula,,,0.0
+170218,2026-02-18T10:40Z,Dubai Duty Free Tennis Championships,Elena Rybakina,Antonia Ruzic,,,0.0
+170217,2026-02-18T12:00Z,Dubai Duty Free Tennis Championships,Belinda Bencic,Elina Svitolina,,,0.0
+170224,2026-02-18T15:10Z,Dubai Duty Free Tennis Championships,Coco Gauff,Elise Mertens,,,1.0
+170223,2026-02-18T17:45Z,Dubai Duty Free Tennis Championships,Sorana Cirstea,Alexandra Eala,,,0.0
+170176,2026-02-19T10:05Z,Dubai Duty Free Tennis Championships,Clara Tauson,Jessica Pegula,,,0.0
+170175,2026-02-19T12:20Z,Dubai Duty Free Tennis Championships,Mirra Andreeva,Amanda Anisimova,,,0.0
+170177,2026-02-19T15:20Z,Dubai Duty Free Tennis Championships,Coco Gauff,Alexandra Eala,,,1.0
+170178,2026-02-19T16:45Z,Dubai Duty Free Tennis Championships,Antonia Ruzic,Elina Svitolina,,,0.0
+170200,2026-02-20T13:55Z,Dubai Duty Free Tennis Championships,Jessica Pegula,Amanda Anisimova,,,1.0
+170198,2026-02-20T16:15Z,Dubai Duty Free Tennis Championships,Elina Svitolina,Coco Gauff,,,1.0
+170199,2026-02-21T15:10Z,Dubai Duty Free Tennis Championships,Elina Svitolina,Jessica Pegula,,,0.0
+172601,2026-02-21T07:00Z,Dubai Duty Free Tennis Championships,Otto Virtanen,Aleksandar Vukic,,,1.0
+172603,2026-02-21T07:00Z,Dubai Duty Free Tennis Championships,Giovanni Mpetshi Perricard,Shintaro Mochizuki,,,1.0
+172604,2026-02-21T07:00Z,Dubai Duty Free Tennis Championships,Jan Choinski,Jesper de Jong,,,1.0
+172600,2026-02-21T08:30Z,Dubai Duty Free Tennis Championships,Jan-Lennard Struff,Abdulrahman Al Janahi,,,1.0
+172602,2026-02-21T08:30Z,Dubai Duty Free Tennis Championships,Marco Trungelliti,Luca Nardi,,,0.0
+172606,2026-02-21T08:30Z,Dubai Duty Free Tennis Championships,Botic Van De Zandschulp,Pablo Carreno Busta,,,0.0
+172599,2026-02-21T10:00Z,Dubai Duty Free Tennis Championships,Nikoloz Basilashvili,Aleksandr Shevchenko,,,0.0
+172605,2026-02-21T10:00Z,Dubai Duty Free Tennis Championships,Quentin Halys,Christopher O'Connell,,,1.0
+172608,2026-02-22T07:00Z,Dubai Duty Free Tennis Championships,Giovanni Mpetshi Perricard,Jan Choinski,,,1.0
+172610,2026-02-22T07:00Z,Dubai Duty Free Tennis Championships,Jan-Lennard Struff,Otto Virtanen,,,0.0
+172607,2026-02-22T08:30Z,Dubai Duty Free Tennis Championships,Pablo Carreno Busta,Luca Nardi,,,1.0
+172609,2026-02-22T08:30Z,Dubai Duty Free Tennis Championships,Quentin Halys,Aleksandr Shevchenko,,,1.0
+169881,2026-02-23T10:10Z,Dubai Duty Free Tennis Championships,Moez Echargui,Giovanni Mpetshi Perricard,,,0.0
+169877,2026-02-23T13:05Z,Dubai Duty Free Tennis Championships,Stan Wawrinka,Benjamin Hassan,,,1.0
+169868,2026-02-23T15:10Z,Dubai Duty Free Tennis Championships,Felix Auger-Aliassime,Zhang Zhizhen,,,1.0
+169875,2026-02-23T17:25Z,Dubai Duty Free Tennis Championships,Quentin Halys,Jack Draper,,,0.0
+169874,2026-02-24T10:10Z,Dubai Duty Free Tennis Championships,Daniil Medvedev,Shang Juncheng,,,1.0
+169876,2026-02-24T10:10Z,Dubai Duty Free Tennis Championships,Pablo Carreno Busta,Denis Shapovalov,,,1.0
+169884,2026-02-24T10:10Z,Dubai Duty Free Tennis Championships,Zizou Bergs,Jenson Brooksby,,,0.0
+169886,2026-02-24T11:50Z,Dubai Duty Free Tennis Championships,Aleksandr Shevchenko,Karen Khachanov,,,0.0
+169872,2026-02-24T12:05Z,Dubai Duty Free Tennis Championships,Fabian Marozsan,Arthur Rinderknech,,,0.0
+169888,2026-02-24T12:10Z,Dubai Duty Free Tennis Championships,Jan-Lennard Struff,Alexander Bublik,,,0.0
+169871,2026-02-24T14:15Z,Dubai Duty Free Tennis Championships,Otto Virtanen,Tallon Griekspoor,,,0.0
+169869,2026-02-24T14:25Z,Dubai Duty Free Tennis Championships,Luca Nardi,Jiri Lehecka,,,0.0
+169870,2026-02-24T15:10Z,Dubai Duty Free Tennis Championships,Ugo Humbert,Stefanos Tsitsipas,,,1.0
+169878,2026-02-24T15:50Z,Dubai Duty Free Tennis Championships,Alexei Popyrin,Kamil Majchrzak,,,1.0
+169879,2026-02-24T16:50Z,Dubai Duty Free Tennis Championships,Jakub Mensik,Hubert Hurkacz,,,1.0
+169873,2026-02-24T17:00Z,Dubai Duty Free Tennis Championships,Andrey Rublev,Valentin Royer,,,1.0
+169887,2026-02-25T10:10Z,Dubai Duty Free Tennis Championships,Jenson Brooksby,Karen Khachanov,,,1.0
+169889,2026-02-25T10:10Z,Dubai Duty Free Tennis Championships,Daniil Medvedev,Stan Wawrinka,,,1.0
+169891,2026-02-25T12:10Z,Dubai Duty Free Tennis Championships,Felix Auger-Aliassime,Giovanni Mpetshi Perricard,,,1.0
+169890,2026-02-25T12:20Z,Dubai Duty Free Tennis Championships,Pablo Carreno Busta,Jiri Lehecka,,,0.0
+169880,2026-02-25T14:35Z,Dubai Duty Free Tennis Championships,Tallon Griekspoor,Alexander Bublik,,,1.0
+169885,2026-02-25T15:10Z,Dubai Duty Free Tennis Championships,Andrey Rublev,Ugo Humbert,,,1.0
+169882,2026-02-25T16:20Z,Dubai Duty Free Tennis Championships,Jakub Mensik,Alexei Popyrin,,,1.0
+169883,2026-02-25T18:00Z,Dubai Duty Free Tennis Championships,Arthur Rinderknech,Jack Draper,,,1.0
+169892,2026-02-26T10:10Z,Dubai Duty Free Tennis Championships,Daniil Medvedev,Jenson Brooksby,,,1.0
+169893,2026-02-26T12:10Z,Dubai Duty Free Tennis Championships,Felix Auger-Aliassime,Jiri Lehecka,,,1.0
+169906,2026-02-26T15:10Z,Dubai Duty Free Tennis Championships,Andrey Rublev,Arthur Rinderknech,,,1.0
+169905,2026-02-26T16:50Z,Dubai Duty Free Tennis Championships,Jakub Mensik,Tallon Griekspoor,,,0.0
+169899,2026-02-27T13:10Z,Dubai Duty Free Tennis Championships,Felix Auger-Aliassime,Daniil Medvedev,,,0.0
+169904,2026-02-27T15:10Z,Dubai Duty Free Tennis Championships,Andrey Rublev,Tallon Griekspoor,,,0.0
+169900,2026-02-28T15:00Z,Dubai Duty Free Tennis Championships,Daniil Medvedev,Tallon Griekspoor,,,1.0
+172488,2026-02-14T08:00Z,Qatar ExxonMobil Open,Aleksandar Vukic,Pierre-Hugues Herbert,,,0.0
+172487,2026-02-14T08:00Z,Qatar ExxonMobil Open,James McCabe,Jan Choinski,,,0.0
+172486,2026-02-14T08:00Z,Qatar ExxonMobil Open,Quentin Halys,Mert Alkaya,,,1.0
+172491,2026-02-14T08:00Z,Qatar ExxonMobil Open,Shintaro Mochizuki,Ghanim Al Sulaiti,,,1.0
+172489,2026-02-14T09:30Z,Qatar ExxonMobil Open,Nikoloz Basilashvili,Elias Ymer,,,0.0
+172485,2026-02-14T09:30Z,Qatar ExxonMobil Open,Pablo Carreno Busta,Reda Bennani,,,1.0
+172490,2026-02-14T09:30Z,Qatar ExxonMobil Open,Marco Trungelliti,Billy Harris,,,0.0
+172492,2026-02-14T11:00Z,Qatar ExxonMobil Open,Roberto Carballes Baena,Lucas Miedler,,,1.0
+172493,2026-02-15T10:30Z,Qatar ExxonMobil Open,Quentin Halys,Jan Choinski,,,0.0
+172494,2026-02-15T10:30Z,Qatar ExxonMobil Open,Pablo Carreno Busta,Billy Harris,,,1.0
+172495,2026-02-15T10:30Z,Qatar ExxonMobil Open,Shintaro Mochizuki,Roberto Carballes Baena,,,0.0
+172496,2026-02-15T10:30Z,Qatar ExxonMobil Open,Pierre-Hugues Herbert,Elias Ymer,,,1.0
+169693,2026-02-16T10:40Z,Qatar ExxonMobil Open,Mubarak Shannan Zayid,Alexei Popyrin,,,0.0
+169696,2026-02-16T12:05Z,Qatar ExxonMobil Open,Valentin Royer,Pierre-Hugues Herbert,,,1.0
+169697,2026-02-16T12:05Z,Qatar ExxonMobil Open,Jakub Mensik,Jan Choinski,,,1.0
+169699,2026-02-16T14:05Z,Qatar ExxonMobil Open,Arthur Fils,Kamil Majchrzak,,,1.0
+169688,2026-02-16T16:40Z,Qatar ExxonMobil Open,Tomas Machac,Jannik Sinner,,,0.0
+169687,2026-02-16T18:10Z,Qatar ExxonMobil Open,Daniil Medvedev,Shang Juncheng,,,1.0
+169690,2026-02-17T10:35Z,Qatar ExxonMobil Open,Marton Fucsovics,Hady Habib,,,1.0
+169695,2026-02-17T10:40Z,Qatar ExxonMobil Open,Pablo Carreno Busta,Quentin Halys,,,0.0
+169689,2026-02-17T10:40Z,Qatar ExxonMobil Open,Moez Echargui,Stefanos Tsitsipas,,,0.0
+169684,2026-02-17T12:05Z,Qatar ExxonMobil Open,Jiri Lehecka,Jenson Brooksby,,,1.0
+169692,2026-02-17T12:25Z,Qatar ExxonMobil Open,Shintaro Mochizuki,Karen Khachanov,,,0.0
+169691,2026-02-17T13:15Z,Qatar ExxonMobil Open,Zhang Zhizhen,Roberto Carballes Baena,,,1.0
+169685,2026-02-17T13:45Z,Qatar ExxonMobil Open,Ugo Humbert,Fabian Marozsan,,,0.0
+169698,2026-02-17T14:45Z,Qatar ExxonMobil Open,Zizou Bergs,Giovanni Mpetshi Perricard,,,1.0
+169694,2026-02-17T16:40Z,Qatar ExxonMobil Open,Carlos Alcaraz,Arthur Rinderknech,,,1.0
+169686,2026-02-17T18:45Z,Qatar ExxonMobil Open,Jesper de Jong,Andrey Rublev,,,0.0
+169700,2026-02-18T10:40Z,Qatar ExxonMobil Open,Marton Fucsovics,Karen Khachanov,,,0.0
+169707,2026-02-18T12:30Z,Qatar ExxonMobil Open,Arthur Fils,Quentin Halys,,,1.0
+169706,2026-02-18T12:40Z,Qatar ExxonMobil Open,Jiri Lehecka,Zizou Bergs,,,1.0
+169701,2026-02-18T13:00Z,Qatar ExxonMobil Open,Daniil Medvedev,Stefanos Tsitsipas,,,0.0
+169702,2026-02-18T14:35Z,Qatar ExxonMobil Open,Fabian Marozsan,Andrey Rublev,,,0.0
+169704,2026-02-18T16:00Z,Qatar ExxonMobil Open,Jakub Mensik,Zhang Zhizhen,,,1.0
+169705,2026-02-18T16:40Z,Qatar ExxonMobil Open,Alexei Popyrin,Jannik Sinner,,,0.0
+169703,2026-02-18T18:25Z,Qatar ExxonMobil Open,Carlos Alcaraz,Valentin Royer,,,1.0
+169710,2026-02-19T12:10Z,Qatar ExxonMobil Open,Stefanos Tsitsipas,Andrey Rublev,,,0.0
+169725,2026-02-19T14:10Z,Qatar ExxonMobil Open,Jiri Lehecka,Arthur Fils,,,0.0
+169709,2026-02-19T16:40Z,Qatar ExxonMobil Open,Carlos Alcaraz,Karen Khachanov,,,1.0
+169708,2026-02-19T19:30Z,Qatar ExxonMobil Open,Jakub Mensik,Jannik Sinner,,,1.0
+169712,2026-02-20T16:40Z,Qatar ExxonMobil Open,Carlos Alcaraz,Andrey Rublev,,,1.0
+169711,2026-02-20T19:05Z,Qatar ExxonMobil Open,Arthur Fils,Jakub Mensik,,,1.0
+169719,2026-02-21T18:15Z,Qatar ExxonMobil Open,Carlos Alcaraz,Arthur Fils,,,1.0
+172516,2026-02-14T15:00Z,Delray Beach Open,Wu Yibing,Colton Smith,,,1.0
+172514,2026-02-14T15:00Z,Delray Beach Open,Yoshihito Nishioka,Chak Lam Coleman Wong,,,0.0
+172517,2026-02-14T16:30Z,Delray Beach Open,Tristan Schoolkate,Murphy Cassone,,,1.0
+172515,2026-02-14T16:30Z,Delray Beach Open,Zachary Svajda,Liam Draxl,,,1.0
+172520,2026-02-14T18:00Z,Delray Beach Open,Michael Mmoh,Rinky Hijikata,,,0.0
+172519,2026-02-14T18:00Z,Delray Beach Open,Dalibor Svrcina,Nicolas Mejia,,,1.0
+172518,2026-02-14T19:30Z,Delray Beach Open,Benjamin Willwerth,Sho Shimabukuro,,,0.0
+172513,2026-02-14T21:00Z,Delray Beach Open,Adam Walton,Nicolas Moreno De Alboran,,,1.0
+172511,2026-02-15T15:00Z,Delray Beach Open,Tristan Schoolkate,Chak Lam Coleman Wong,,,0.0
+172512,2026-02-15T15:00Z,Delray Beach Open,Zachary Svajda,Wu Yibing,,,1.0
+172510,2026-02-15T16:30Z,Delray Beach Open,Dalibor Svrcina,Rinky Hijikata,,,0.0
+172509,2026-02-15T18:00Z,Delray Beach Open,Adam Walton,Sho Shimabukuro,,,0.0
+169650,2026-02-16T18:10Z,Delray Beach Open,Nuno Borges,Chak Lam Coleman Wong,,,0.0
+169645,2026-02-16T18:10Z,Delray Beach Open,Patrick Kypson,Terence Atmane,,,0.0
+169651,2026-02-16T20:15Z,Delray Beach Open,Valentin Vacherot,Alex Michelsen,,,0.0
+169664,2026-02-16T23:10Z,Delray Beach Open,Sho Shimabukuro,Marcos Giron,,,0.0
+169649,2026-02-17T01:10Z,Delray Beach Open,Rinky Hijikata,Frances Tiafoe,,,0.0
+169640,2026-02-17T17:15Z,Delray Beach Open,Aleksandar Kovacevic,Zachary Svajda,,,0.0
+169648,2026-02-17T18:40Z,Delray Beach Open,Sebastian Korda,Mackenzie McDonald,,,1.0
+169644,2026-02-17T20:30Z,Delray Beach Open,Brandon Nakashima,Marin Cilic,,,1.0
+169646,2026-02-17T20:40Z,Delray Beach Open,Ethan Quinn,Rafael Jodar,,,0.0
+169638,2026-02-17T22:10Z,Delray Beach Open,Adam Walton,Gabriel Diallo,,,1.0
+169643,2026-02-17T23:20Z,Delray Beach Open,Miomir Kecmanovic,Mattia Bellucci,,,1.0
+169639,2026-02-18T01:10Z,Delray Beach Open,Corentin Moutet,Tommy Paul,,,0.0
+169655,2026-02-18T18:10Z,Delray Beach Open,Terence Atmane,Flavio Cobolli,,,0.0
+169658,2026-02-18T20:10Z,Delray Beach Open,Brandon Nakashima,Chak Lam Coleman Wong,,,0.0
+169656,2026-02-18T23:05Z,Delray Beach Open,Alex Michelsen,Sebastian Korda,,,0.0
+169653,2026-02-19T01:10Z,Delray Beach Open,Marcos Giron,Casper Ruud,,,0.0
+169666,2026-02-19T18:10Z,Delray Beach Open,Learner Tien,Miomir Kecmanovic,,,1.0
+169657,2026-02-19T20:40Z,Delray Beach Open,Zachary Svajda,Frances Tiafoe,,,0.0
+169652,2026-02-19T23:40Z,Delray Beach Open,Adam Walton,Tommy Paul,,,0.0
+169668,2026-02-20T01:35Z,Delray Beach Open,Taylor Fritz,Rafael Jodar,,,1.0
+169661,2026-02-20T18:15Z,Delray Beach Open,Chak Lam Coleman Wong,Flavio Cobolli,,,0.0
+169662,2026-02-20T20:45Z,Delray Beach Open,Sebastian Korda,Casper Ruud,,,1.0
+169663,2026-02-20T23:35Z,Delray Beach Open,Learner Tien,Frances Tiafoe,,,1.0
+169654,2026-02-21T02:10Z,Delray Beach Open,Taylor Fritz,Tommy Paul,,,0.0
+169660,2026-02-21T20:10Z,Delray Beach Open,Flavio Cobolli,Sebastian Korda,,,0.0
+169659,2026-02-22T01:10Z,Delray Beach Open,Tommy Paul,Learner Tien,,,1.0
+169665,2026-02-22T21:10Z,Delray Beach Open,Tommy Paul,Sebastian Korda,,,0.0
+172503,2026-02-14T19:00Z,Rio Open presented by Claro,Elmer Moller,Francesco Passaro,,,0.0
+172504,2026-02-14T19:00Z,Rio Open presented by Claro,Jaime Faria,Nicolas Jarry,,,1.0
+172507,2026-02-14T19:00Z,Rio Open presented by Claro,Chun-Hsin Tseng,Igor Ribeiro Marcondes,,,0.0
+172508,2026-02-14T19:00Z,Rio Open presented by Claro,Andrea Pellegrino,Vilius Gaubas,,,0.0
+172502,2026-02-14T20:30Z,Rio Open presented by Claro,Daniel Elahi Galan,Dino Prizmic,,,0.0
+172505,2026-02-14T20:30Z,Rio Open presented by Claro,Hugo Dellien,Dusan Lajovic,,,0.0
+172506,2026-02-14T20:30Z,Rio Open presented by Claro,Tomas Barrios Vera,Pedro Boscardin Dias,,,1.0
+172501,2026-02-14T20:30Z,Rio Open presented by Claro,Adolfo Daniel Vallejo,Thiago Monteiro,,,0.0
+172497,2026-02-15T19:00Z,Rio Open presented by Claro,Thiago Monteiro,Dusan Lajovic,,,1.0
+172500,2026-02-15T19:00Z,Rio Open presented by Claro,Francesco Passaro,Vilius Gaubas,,,0.0
+172498,2026-02-15T19:00Z,Rio Open presented by Claro,Tomas Barrios Vera,Dino Prizmic,,,0.0
+172499,2026-02-15T19:00Z,Rio Open presented by Claro,Igor Ribeiro Marcondes,Jaime Faria,,,1.0
+169748,2026-02-16T19:40Z,Rio Open presented by Claro,Cristian Garin,Thiago Agustin Tirante,,,0.0
+169741,2026-02-16T21:05Z,Rio Open presented by Claro,Dusan Lajovic,Daniel Altmaier,,,1.0
+169750,2026-02-16T21:50Z,Rio Open presented by Claro,Alejandro Tabilo,Emilio Nava,,,1.0
+169751,2026-02-16T22:20Z,Rio Open presented by Claro,Gustavo Heide,Vit Kopriva,,,0.0
+169746,2026-02-16T23:15Z,Rio Open presented by Claro,Igor Ribeiro Marcondes,Ignacio Buse,,,0.0
+169752,2026-02-17T00:35Z,Rio Open presented by Claro,Yannick Hanfmann,Joao Lucas Reis Da Silva,,,1.0
+169749,2026-02-17T19:40Z,Rio Open presented by Claro,Camilo Ugo Carabelli,Roman Andres Burruchaga,,,0.0
+169742,2026-02-17T19:40Z,Rio Open presented by Claro,Dino Prizmic,Francesco Passaro,,,0.0
+169739,2026-02-17T19:40Z,Rio Open presented by Claro,Tomas Barrios Vera,Matteo Berrettini,,,0.0
+169735,2026-02-17T19:40Z,Rio Open presented by Claro,Tomas Martin Etcheverry,Francisco Comesana,,,1.0
+169745,2026-02-17T21:40Z,Rio Open presented by Claro,Juan Manuel Cerundolo,Luciano Darderi,,,1.0
+169732,2026-02-17T22:35Z,Rio Open presented by Claro,Francisco Cerundolo,Mariano Navone,,,1.0
+169744,2026-02-17T22:50Z,Rio Open presented by Claro,Joao Fonseca,Thiago Monteiro,,,1.0
+169730,2026-02-17T23:25Z,Rio Open presented by Claro,Damir Dzumhur,Pedro Martinez,,,1.0
+169733,2026-02-18T00:25Z,Rio Open presented by Claro,Jaime Faria,Sebastian Baez,,,1.0
+169737,2026-02-18T01:00Z,Rio Open presented by Claro,Guto Miguel,Vilius Gaubas,,,0.0
+169734,2026-02-18T19:35Z,Rio Open presented by Claro,Roman Andres Burruchaga,Vit Kopriva,,,0.0
+169753,2026-02-18T19:40Z,Rio Open presented by Claro,Yannick Hanfmann,Juan Manuel Cerundolo,,,0.0
+169747,2026-02-18T22:10Z,Rio Open presented by Claro,Francisco Cerundolo,Thiago Agustin Tirante,,,0.0
+169740,2026-02-18T23:55Z,Rio Open presented by Claro,Alejandro Tabilo,Francesco Passaro,,,1.0
+169731,2026-02-19T19:35Z,Rio Open presented by Claro,Damir Dzumhur,Jaime Faria,,,0.0
+169738,2026-02-19T19:45Z,Rio Open presented by Claro,Tomas Martin Etcheverry,Vilius Gaubas,,,1.0
+169743,2026-02-20T00:40Z,Rio Open presented by Claro,Joao Fonseca,Ignacio Buse,,,0.0
+169736,2026-02-20T01:10Z,Rio Open presented by Claro,Matteo Berrettini,Dusan Lajovic,,,1.0
+169758,2026-02-20T19:10Z,Rio Open presented by Claro,Vit Kopriva,Juan Manuel Cerundolo,,,1.0
+169757,2026-02-20T20:10Z,Rio Open presented by Claro,Tomas Martin Etcheverry,Jaime Faria,,,1.0
+169760,2026-02-20T22:50Z,Rio Open presented by Claro,Ignacio Buse,Matteo Berrettini,,,1.0
+169759,2026-02-21T01:35Z,Rio Open presented by Claro,Thiago Agustin Tirante,Alejandro Tabilo,,,0.0
+169756,2026-02-22T14:10Z,Rio Open presented by Claro,Tomas Martin Etcheverry,Vit Kopriva,,,1.0
+169755,2026-02-22T14:10Z,Rio Open presented by Claro,Alejandro Tabilo,Ignacio Buse,,,1.0
+169754,2026-02-22T21:15Z,Rio Open presented by Claro,Alejandro Tabilo,Tomas Martin Etcheverry,,,0.0
+172659,2026-02-21T14:00Z,BCI Seguros Chile Open,Vilius Gaubas,Joao Lucas Reis Da Silva,,,1.0
+172658,2026-02-21T14:00Z,BCI Seguros Chile Open,Benjamin Torrealba,Hugo Dellien,,,0.0
+172661,2026-02-21T15:30Z,BCI Seguros Chile Open,Andrea Pellegrino,Nicolas Villalon,,,1.0
+172660,2026-02-21T15:30Z,BCI Seguros Chile Open,Daniel Antonio Nunez,Alex Barrena,,,0.0
+172657,2026-02-21T16:00Z,BCI Seguros Chile Open,Dino Prizmic,Gustavo Heide,,,1.0
+172655,2026-02-21T17:00Z,BCI Seguros Chile Open,Adolfo Daniel Vallejo,Thiago Monteiro,,,1.0
+172662,2026-02-21T18:00Z,BCI Seguros Chile Open,Facundo Mena,Daniel Elahi Galan,,,0.0
+172656,2026-02-21T18:00Z,BCI Seguros Chile Open,Orlando Luz,Henrique Rocha,,,0.0
+172666,2026-02-22T14:00Z,BCI Seguros Chile Open,Vilius Gaubas,Alex Barrena,,,0.0
+172665,2026-02-22T14:00Z,BCI Seguros Chile Open,Dino Prizmic,Hugo Dellien,,,1.0
+172664,2026-02-22T15:00Z,BCI Seguros Chile Open,Andrea Pellegrino,Daniel Elahi Galan,,,1.0
+172663,2026-02-22T15:30Z,BCI Seguros Chile Open,Adolfo Daniel Vallejo,Henrique Rocha,,,1.0
+169830,2026-02-23T16:10Z,BCI Seguros Chile Open,Dusan Lajovic,Yannick Hanfmann,,,0.0
+169831,2026-02-23T18:10Z,BCI Seguros Chile Open,Andrea Pellegrino,Alex Barrena,,,1.0
+169824,2026-02-23T20:20Z,BCI Seguros Chile Open,Francisco Comesana,Pedro Martinez,,,1.0
+169827,2026-02-23T23:30Z,BCI Seguros Chile Open,Nicolas Jarry,Dino Prizmic,,,0.0
+169825,2026-02-24T16:10Z,BCI Seguros Chile Open,Elmer Moller,Roman Andres Burruchaga,,,1.0
+169829,2026-02-24T16:10Z,BCI Seguros Chile Open,Matias Soto,Vilius Gaubas,,,0.0
+169828,2026-02-24T18:10Z,BCI Seguros Chile Open,Emilio Nava,Matteo Berrettini,,,1.0
+169840,2026-02-24T18:55Z,BCI Seguros Chile Open,Mariano Navone,Vit Kopriva,,,1.0
+169822,2026-02-24T20:30Z,BCI Seguros Chile Open,Thiago Agustin Tirante,Ignacio Buse,,,1.0
+169826,2026-02-24T21:40Z,BCI Seguros Chile Open,Juan Manuel Cerundolo,Cristian Garin,,,0.0
+169835,2026-02-24T23:15Z,BCI Seguros Chile Open,Francesco Passaro,Adolfo Daniel Vallejo,,,0.0
+169823,2026-02-25T00:20Z,BCI Seguros Chile Open,Alejandro Tabilo,Tomas Barrios Vera,,,1.0
+169837,2026-02-25T16:10Z,BCI Seguros Chile Open,Camilo Ugo Carabelli,Yannick Hanfmann,,,0.0
+169850,2026-02-25T18:10Z,BCI Seguros Chile Open,Francisco Comesana,Andrea Pellegrino,,,0.0
+169841,2026-02-25T19:50Z,BCI Seguros Chile Open,Dino Prizmic,Vilius Gaubas,,,0.0
+169851,2026-02-25T23:10Z,BCI Seguros Chile Open,Mariano Navone,Luciano Darderi,,,0.0
+169836,2026-02-26T16:10Z,BCI Seguros Chile Open,Adolfo Daniel Vallejo,Emilio Nava,,,0.0
+169839,2026-02-26T18:10Z,BCI Seguros Chile Open,Francisco Cerundolo,Elmer Moller,,,1.0
+169843,2026-02-26T21:35Z,BCI Seguros Chile Open,Cristian Garin,Sebastian Baez,,,0.0
+169842,2026-02-27T00:25Z,BCI Seguros Chile Open,Alejandro Tabilo,Thiago Agustin Tirante,,,1.0
+169849,2026-02-27T16:10Z,BCI Seguros Chile Open,Yannick Hanfmann,Vilius Gaubas,,,1.0
+169848,2026-02-27T18:40Z,BCI Seguros Chile Open,Francisco Cerundolo,Emilio Nava,,,1.0
+169847,2026-02-27T21:30Z,BCI Seguros Chile Open,Andrea Pellegrino,Luciano Darderi,,,0.0
+169846,2026-02-28T00:00Z,BCI Seguros Chile Open,Alejandro Tabilo,Sebastian Baez,,,0.0
+169844,2026-02-28T21:10Z,BCI Seguros Chile Open,Francisco Cerundolo,Yannick Hanfmann,,,0.0
+169845,2026-02-28T22:55Z,BCI Seguros Chile Open,Sebastian Baez,Luciano Darderi,,,0.0
+169852,2026-03-01T22:40Z,BCI Seguros Chile Open,Yannick Hanfmann,Luciano Darderi,,,0.0
+172653,2026-02-21T23:00Z,Abierto Mexicano Telcel presentado por HSBC,Mackenzie McDonald,Elias Ymer,,,0.0
+172650,2026-02-21T23:00Z,Abierto Mexicano Telcel presentado por HSBC,Rafael De Alba,Sho Shimabukuro,,,0.0
+172651,2026-02-21T23:00Z,Abierto Mexicano Telcel presentado por HSBC,Rinky Hijikata,Alan Magadan,,,1.0
+172654,2026-02-22T00:30Z,Abierto Mexicano Telcel presentado por HSBC,Bernard Tomic,Nicolas Mejia,,,0.0
+172649,2026-02-22T00:30Z,Abierto Mexicano Telcel presentado por HSBC,Zachary Svajda,Andres Martin,,,1.0
+172652,2026-02-22T00:30Z,Abierto Mexicano Telcel presentado por HSBC,Juan Pablo Ficovich,Wu Yibing,,,0.0
+172647,2026-02-22T02:00Z,Abierto Mexicano Telcel presentado por HSBC,Patrick Kypson,Stefan Kozlov,,,1.0
+172648,2026-02-22T02:00Z,Abierto Mexicano Telcel presentado por HSBC,Alex Hernandez,Chak Lam Coleman Wong,,,0.0
+172670,2026-02-23T00:00Z,Abierto Mexicano Telcel presentado por HSBC,Zachary Svajda,Sho Shimabukuro,,,0.0
+172671,2026-02-23T00:00Z,Abierto Mexicano Telcel presentado por HSBC,Rinky Hijikata,Wu Yibing,,,0.0
+172672,2026-02-23T00:00Z,Abierto Mexicano Telcel presentado por HSBC,Elias Ymer,Nicolas Mejia,,,1.0
+172669,2026-02-23T01:30Z,Abierto Mexicano Telcel presentado por HSBC,Patrick Kypson,Chak Lam Coleman Wong,,,1.0
+169776,2026-02-24T00:10Z,Abierto Mexicano Telcel presentado por HSBC,Tristan Schoolkate,Miomir Kecmanovic,,,0.0
+169789,2026-02-24T00:10Z,Abierto Mexicano Telcel presentado por HSBC,Daniel Altmaier,Alejandro Davidovich Fokina,,,0.0
+169787,2026-02-24T01:30Z,Abierto Mexicano Telcel presentado por HSBC,Brandon Nakashima,Elias Ymer,,,1.0
+169781,2026-02-24T02:05Z,Abierto Mexicano Telcel presentado por HSBC,Patrick Kypson,Alex de Minaur,,,1.0
+169791,2026-02-24T03:05Z,Abierto Mexicano Telcel presentado por HSBC,Valentin Vacherot,Chak Lam Coleman Wong,,,1.0
+169780,2026-02-24T03:30Z,Abierto Mexicano Telcel presentado por HSBC,Adam Walton,Aleksandar Kovacevic,,,0.0
+169786,2026-02-24T05:00Z,Abierto Mexicano Telcel presentado por HSBC,Rafael Jodar,Cameron Norrie,,,1.0
+169796,2026-02-25T00:05Z,Abierto Mexicano Telcel presentado por HSBC,Rodrigo Pacheco Mendez,Flavio Cobolli,,,0.0
+169784,2026-02-25T00:10Z,Abierto Mexicano Telcel presentado por HSBC,Terence Atmane,Grigor Dimitrov,,,1.0
+169778,2026-02-25T00:10Z,Abierto Mexicano Telcel presentado por HSBC,James Duckworth,Dalibor Svrcina,,,0.0
+169794,2026-02-25T02:00Z,Abierto Mexicano Telcel presentado por HSBC,Rinky Hijikata,Mattia Bellucci,,,0.0
+169788,2026-02-25T02:05Z,Abierto Mexicano Telcel presentado por HSBC,Alexander Zverev,Corentin Moutet,,,1.0
+169777,2026-02-25T02:25Z,Abierto Mexicano Telcel presentado por HSBC,Frances Tiafoe,Nuno Borges,,,1.0
+169779,2026-02-25T03:55Z,Abierto Mexicano Telcel presentado por HSBC,Casper Ruud,Wu Yibing,,,0.0
+169785,2026-02-25T04:15Z,Abierto Mexicano Telcel presentado por HSBC,Damir Dzumhur,Gael Monfils,,,0.0
+169782,2026-02-25T04:20Z,Abierto Mexicano Telcel presentado por HSBC,Adrian Mannarino,Sho Shimabukuro,,,0.0
+169798,2026-02-26T00:05Z,Abierto Mexicano Telcel presentado por HSBC,Dalibor Svrcina,Flavio Cobolli,,,0.0
+169799,2026-02-26T00:10Z,Abierto Mexicano Telcel presentado por HSBC,Terence Atmane,Rafael Jodar,,,1.0
+169783,2026-02-26T00:15Z,Abierto Mexicano Telcel presentado por HSBC,Alexander Zverev,Miomir Kecmanovic,,,0.0
+169792,2026-02-26T02:05Z,Abierto Mexicano Telcel presentado por HSBC,Brandon Nakashima,Patrick Kypson,,,1.0
+169797,2026-02-26T02:15Z,Abierto Mexicano Telcel presentado por HSBC,Wu Yibing,Sho Shimabukuro,,,1.0
+169793,2026-02-26T03:10Z,Abierto Mexicano Telcel presentado por HSBC,Frances Tiafoe,Aleksandar Kovacevic,,,1.0
+169795,2026-02-26T04:00Z,Abierto Mexicano Telcel presentado por HSBC,Mattia Bellucci,Alejandro Davidovich Fokina,,,1.0
+169790,2026-02-26T05:50Z,Abierto Mexicano Telcel presentado por HSBC,Valentin Vacherot,Gael Monfils,,,1.0
+169802,2026-02-27T00:10Z,Abierto Mexicano Telcel presentado por HSBC,Wu Yibing,Flavio Cobolli,,,0.0
+169801,2026-02-27T02:05Z,Abierto Mexicano Telcel presentado por HSBC,Miomir Kecmanovic,Terence Atmane,,,1.0
+169800,2026-02-27T02:15Z,Abierto Mexicano Telcel presentado por HSBC,Frances Tiafoe,Mattia Bellucci,,,1.0
+169803,2026-02-27T04:25Z,Abierto Mexicano Telcel presentado por HSBC,Valentin Vacherot,Brandon Nakashima,,,0.0
+169806,2026-02-28T01:10Z,Abierto Mexicano Telcel presentado por HSBC,Miomir Kecmanovic,Flavio Cobolli,,,0.0
+169804,2026-02-28T03:55Z,Abierto Mexicano Telcel presentado por HSBC,Frances Tiafoe,Brandon Nakashima,,,1.0
+169805,2026-03-01T03:10Z,Abierto Mexicano Telcel presentado por HSBC,Flavio Cobolli,Frances Tiafoe,,,1.0

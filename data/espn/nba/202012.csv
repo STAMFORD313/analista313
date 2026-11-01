@@ -1,0 +1,118 @@
+id,date,event,home,away,hs,as,res
+401265784,2020-12-12T00:00Z,Orlando Magic at Atlanta Hawks,Atlanta Hawks,Orlando Magic,112,116,0.0
+401265785,2020-12-12T00:00Z,New York Knicks at Detroit Pistons,Detroit Pistons,New York Knicks,84,90,0.0
+401265786,2020-12-12T01:00Z,Houston Rockets at Chicago Bulls,Chicago Bulls,Houston Rockets,104,125,0.0
+401265787,2020-12-12T03:00Z,LA Clippers at Los Angeles Lakers,Los Angeles Lakers,LA Clippers,87,81,1.0
+401265788,2020-12-12T03:30Z,Sacramento Kings at Portland Trail Blazers,Portland Trail Blazers,Sacramento Kings,127,102,1.0
+401265789,2020-12-13T00:00Z,Toronto Raptors at Charlotte Hornets,Charlotte Hornets,Toronto Raptors,100,111,0.0
+401265790,2020-12-13T00:00Z,Indiana Pacers at Cleveland Cavaliers,Cleveland Cavaliers,Indiana Pacers,107,104,1.0
+401265791,2020-12-13T00:00Z,Oklahoma City Thunder at San Antonio Spurs,San Antonio Spurs,Oklahoma City Thunder,108,121,0.0
+401265792,2020-12-13T01:00Z,Dallas Mavericks at Milwaukee Bucks,Milwaukee Bucks,Dallas Mavericks,102,112,0.0
+401265833,2020-12-13T01:00Z,Memphis Grizzlies at Minnesota Timberwolves,Minnesota Timberwolves,Memphis Grizzlies,105,107,0.0
+401265834,2020-12-13T01:30Z,Denver Nuggets at Golden State Warriors,Golden State Warriors,Denver Nuggets,107,105,1.0
+401265835,2020-12-13T02:00Z,Phoenix Suns at Utah Jazz,Utah Jazz,Phoenix Suns,119,105,1.0
+401265836,2020-12-13T22:00Z,Orlando Magic at Atlanta Hawks,Atlanta Hawks,Orlando Magic,116,107,1.0
+401265837,2020-12-13T23:00Z,Washington Wizards at Brooklyn Nets,Brooklyn Nets,Washington Wizards,119,114,1.0
+401265838,2020-12-14T00:00Z,New York Knicks at Detroit Pistons,Detroit Pistons,New York Knicks,99,91,1.0
+401265839,2020-12-14T01:00Z,Houston Rockets at Chicago Bulls,Chicago Bulls,Houston Rockets,104,91,1.0
+401265841,2020-12-14T01:30Z,LA Clippers at Los Angeles Lakers,Los Angeles Lakers,LA Clippers,131,106,1.0
+401265840,2020-12-14T02:00Z,Sacramento Kings at Portland Trail Blazers,Portland Trail Blazers,Sacramento Kings,106,121,0.0
+401265842,2020-12-14T23:00Z,Indiana Pacers at Cleveland Cavaliers,Cleveland Cavaliers,Indiana Pacers,116,106,1.0
+401265843,2020-12-15T00:00Z,Toronto Raptors at Charlotte Hornets,Charlotte Hornets,Toronto Raptors,109,112,0.0
+401265844,2020-12-15T00:00Z,New Orleans Pelicans at Miami Heat,Miami Heat,New Orleans Pelicans,92,114,0.0
+401265845,2020-12-15T01:00Z,Dallas Mavericks at Milwaukee Bucks,Milwaukee Bucks,Dallas Mavericks,112,128,0.0
+401265846,2020-12-15T01:00Z,Memphis Grizzlies at Minnesota Timberwolves,Minnesota Timberwolves,Memphis Grizzlies,104,123,0.0
+401265847,2020-12-15T02:00Z,Phoenix Suns at Utah Jazz,Utah Jazz,Phoenix Suns,111,92,1.0
+401265848,2020-12-16T00:30Z,Boston Celtics at Philadelphia 76ers,Philadelphia 76ers,Boston Celtics,108,99,1.0
+401265849,2020-12-16T01:00Z,San Antonio Spurs at Houston Rockets,Houston Rockets,San Antonio Spurs,112,98,1.0
+401265850,2020-12-16T03:00Z,Golden State Warriors at Sacramento Kings,Sacramento Kings,Golden State Warriors,114,113,1.0
+401265851,2020-12-17T00:30Z,Cleveland Cavaliers at New York Knicks,New York Knicks,Cleveland Cavaliers,100,93,1.0
+401265852,2020-12-17T01:00Z,Chicago Bulls at Oklahoma City Thunder,Oklahoma City Thunder,Chicago Bulls,103,124,0.0
+401265853,2020-12-17T02:00Z,Portland Trail Blazers at Denver Nuggets,Denver Nuggets,Portland Trail Blazers,126,95,1.0
+401265854,2020-12-17T02:00Z,Los Angeles Lakers at Phoenix Suns,Phoenix Suns,Los Angeles Lakers,107,112,0.0
+401265855,2020-12-18T00:00Z,Charlotte Hornets at Orlando Magic,Orlando Magic,Charlotte Hornets,115,123,0.0
+401265856,2020-12-18T00:00Z,Detroit Pistons at Washington Wizards,Washington Wizards,Detroit Pistons,86,97,0.0
+401265857,2020-12-18T01:00Z,San Antonio Spurs at Houston Rockets,Houston Rockets,San Antonio Spurs,128,106,1.0
+401265858,2020-12-18T01:00Z,Atlanta Hawks at Memphis Grizzlies,Memphis Grizzlies,Atlanta Hawks,128,106,1.0
+401265859,2020-12-18T01:30Z,Minnesota Timberwolves at Dallas Mavericks,Dallas Mavericks,Minnesota Timberwolves,127,129,0.0
+401265861,2020-12-18T02:00Z,Golden State Warriors at Sacramento Kings,Sacramento Kings,Golden State Warriors,105,113,0.0
+401265860,2020-12-18T03:00Z,Utah Jazz at LA Clippers,LA Clippers,Utah Jazz,105,125,0.0
+401265862,2020-12-18T23:00Z,Philadelphia 76ers at Indiana Pacers,Indiana Pacers,Philadelphia 76ers,107,113,0.0
+401265863,2020-12-19T00:00Z,Miami Heat at Toronto Raptors,Toronto Raptors,Miami Heat,105,117,0.0
+401265865,2020-12-19T00:30Z,Cleveland Cavaliers at New York Knicks,New York Knicks,Cleveland Cavaliers,119,83,1.0
+401265864,2020-12-19T01:00Z,Brooklyn Nets at Boston Celtics,Boston Celtics,Brooklyn Nets,89,113,0.0
+401265866,2020-12-19T01:00Z,Milwaukee Bucks at New Orleans Pelicans,New Orleans Pelicans,Milwaukee Bucks,127,113,1.0
+401265867,2020-12-19T01:00Z,Chicago Bulls at Oklahoma City Thunder,Oklahoma City Thunder,Chicago Bulls,103,105,0.0
+401265868,2020-12-19T02:00Z,Portland Trail Blazers at Denver Nuggets,Denver Nuggets,Portland Trail Blazers,129,96,1.0
+401265869,2020-12-19T03:30Z,Los Angeles Lakers at Phoenix Suns,Phoenix Suns,Los Angeles Lakers,113,114,0.0
+401265870,2020-12-20T00:00Z,Charlotte Hornets at Orlando Magic,Orlando Magic,Charlotte Hornets,120,117,1.0
+401265871,2020-12-20T00:00Z,Detroit Pistons at Washington Wizards,Washington Wizards,Detroit Pistons,99,96,1.0
+401265872,2020-12-20T01:00Z,Atlanta Hawks at Memphis Grizzlies,Memphis Grizzlies,Atlanta Hawks,116,117,0.0
+401266805,2020-12-23T00:00Z,Golden State Warriors at Brooklyn Nets,Brooklyn Nets,Golden State Warriors,125,99,1.0
+401266806,2020-12-23T03:00Z,LA Clippers at Los Angeles Lakers,Los Angeles Lakers,LA Clippers,109,116,0.0
+401267150,2020-12-24T00:00Z,Charlotte Hornets at Cleveland Cavaliers,Cleveland Cavaliers,Charlotte Hornets,121,114,1.0
+401267151,2020-12-24T00:00Z,New York Knicks at Indiana Pacers,Indiana Pacers,New York Knicks,121,107,1.0
+401267152,2020-12-24T00:00Z,Miami Heat at Orlando Magic,Orlando Magic,Miami Heat,113,107,1.0
+401267173,2020-12-24T00:00Z,Washington Wizards at Philadelphia 76ers,Philadelphia 76ers,Washington Wizards,113,107,1.0
+401266804,2020-12-24T00:30Z,Milwaukee Bucks at Boston Celtics,Boston Celtics,Milwaukee Bucks,122,121,1.0
+401267174,2020-12-24T00:30Z,New Orleans Pelicans at Toronto Raptors,Toronto Raptors,New Orleans Pelicans,99,113,0.0
+401267175,2020-12-24T01:00Z,Atlanta Hawks at Chicago Bulls,Chicago Bulls,Atlanta Hawks,104,124,0.0
+401267176,2020-12-24T01:00Z,Oklahoma City Thunder at Houston Rockets,Houston Rockets,Oklahoma City Thunder,0,0,0.5
+401267177,2020-12-24T01:00Z,San Antonio Spurs at Memphis Grizzlies,Memphis Grizzlies,San Antonio Spurs,119,131,0.0
+401267178,2020-12-24T01:00Z,Detroit Pistons at Minnesota Timberwolves,Minnesota Timberwolves,Detroit Pistons,111,101,1.0
+401267179,2020-12-24T02:00Z,Sacramento Kings at Denver Nuggets,Denver Nuggets,Sacramento Kings,122,124,0.0
+401267180,2020-12-24T03:00Z,Utah Jazz at Portland Trail Blazers,Portland Trail Blazers,Utah Jazz,100,120,0.0
+401266796,2020-12-24T03:30Z,Dallas Mavericks at Phoenix Suns,Phoenix Suns,Dallas Mavericks,106,102,1.0
+401266794,2020-12-25T17:00Z,New Orleans Pelicans at Miami Heat,Miami Heat,New Orleans Pelicans,111,98,1.0
+401266797,2020-12-25T19:30Z,Golden State Warriors at Milwaukee Bucks,Milwaukee Bucks,Golden State Warriors,138,99,1.0
+401266798,2020-12-25T22:00Z,Brooklyn Nets at Boston Celtics,Boston Celtics,Brooklyn Nets,95,123,0.0
+401266799,2020-12-26T01:00Z,Dallas Mavericks at Los Angeles Lakers,Los Angeles Lakers,Dallas Mavericks,138,115,1.0
+401266795,2020-12-26T03:30Z,LA Clippers at Denver Nuggets,Denver Nuggets,LA Clippers,108,121,0.0
+401267181,2020-12-26T22:00Z,Atlanta Hawks at Memphis Grizzlies,Memphis Grizzlies,Atlanta Hawks,112,122,0.0
+401267182,2020-12-27T00:00Z,Oklahoma City Thunder at Charlotte Hornets,Charlotte Hornets,Oklahoma City Thunder,107,109,0.0
+401267183,2020-12-27T00:00Z,Cleveland Cavaliers at Detroit Pistons,Detroit Pistons,Cleveland Cavaliers,119,128,0.0
+401267184,2020-12-27T00:00Z,Orlando Magic at Washington Wizards,Washington Wizards,Orlando Magic,120,130,0.0
+401267185,2020-12-27T00:30Z,Philadelphia 76ers at New York Knicks,New York Knicks,Philadelphia 76ers,89,109,0.0
+401267186,2020-12-27T01:00Z,Indiana Pacers at Chicago Bulls,Chicago Bulls,Indiana Pacers,106,125,0.0
+401267187,2020-12-27T01:30Z,Toronto Raptors at San Antonio Spurs,San Antonio Spurs,Toronto Raptors,119,114,1.0
+401267188,2020-12-27T02:00Z,Minnesota Timberwolves at Utah Jazz,Utah Jazz,Minnesota Timberwolves,111,116,0.0
+401267189,2020-12-27T03:00Z,Houston Rockets at Portland Trail Blazers,Portland Trail Blazers,Houston Rockets,128,126,1.0
+401267190,2020-12-27T03:00Z,Phoenix Suns at Sacramento Kings,Sacramento Kings,Phoenix Suns,106,103,1.0
+401267191,2020-12-27T20:30Z,Dallas Mavericks at LA Clippers,LA Clippers,Dallas Mavericks,73,124,0.0
+401267192,2020-12-28T00:00Z,Brooklyn Nets at Charlotte Hornets,Charlotte Hornets,Brooklyn Nets,106,104,1.0
+401267193,2020-12-28T00:00Z,Orlando Magic at Washington Wizards,Washington Wizards,Orlando Magic,113,120,0.0
+401267194,2020-12-28T00:00Z,San Antonio Spurs at New Orleans Pelicans,New Orleans Pelicans,San Antonio Spurs,98,95,1.0
+401267195,2020-12-28T00:30Z,Philadelphia 76ers at Cleveland Cavaliers,Cleveland Cavaliers,Philadelphia 76ers,118,94,1.0
+401267196,2020-12-28T00:30Z,Milwaukee Bucks at New York Knicks,New York Knicks,Milwaukee Bucks,130,110,1.0
+401267197,2020-12-28T01:00Z,Boston Celtics at Indiana Pacers,Indiana Pacers,Boston Celtics,108,107,1.0
+401267198,2020-12-28T01:00Z,Golden State Warriors at Chicago Bulls,Chicago Bulls,Golden State Warriors,128,129,0.0
+401267199,2020-12-28T02:00Z,Phoenix Suns at Sacramento Kings,Sacramento Kings,Phoenix Suns,100,116,0.0
+401267200,2020-12-28T03:00Z,Minnesota Timberwolves at Los Angeles Lakers,Los Angeles Lakers,Minnesota Timberwolves,127,91,1.0
+401267201,2020-12-29T00:30Z,Detroit Pistons at Atlanta Hawks,Atlanta Hawks,Detroit Pistons,128,120,1.0
+401267202,2020-12-29T00:30Z,Memphis Grizzlies at Brooklyn Nets,Brooklyn Nets,Memphis Grizzlies,111,116,0.0
+401267203,2020-12-29T01:00Z,Utah Jazz at Oklahoma City Thunder,Oklahoma City Thunder,Utah Jazz,109,110,0.0
+401267204,2020-12-29T02:00Z,Houston Rockets at Denver Nuggets,Denver Nuggets,Houston Rockets,124,111,1.0
+401267205,2020-12-29T03:00Z,Portland Trail Blazers at Los Angeles Lakers,Los Angeles Lakers,Portland Trail Blazers,107,115,0.0
+401267206,2020-12-30T00:00Z,New York Knicks at Cleveland Cavaliers,Cleveland Cavaliers,New York Knicks,86,95,0.0
+401267207,2020-12-30T00:00Z,Golden State Warriors at Detroit Pistons,Detroit Pistons,Golden State Warriors,106,116,0.0
+401267208,2020-12-30T00:00Z,Boston Celtics at Indiana Pacers,Indiana Pacers,Boston Celtics,111,116,0.0
+401267209,2020-12-30T00:00Z,Toronto Raptors at Philadelphia 76ers,Philadelphia 76ers,Toronto Raptors,100,93,1.0
+401267210,2020-12-30T00:00Z,Chicago Bulls at Washington Wizards,Washington Wizards,Chicago Bulls,107,115,0.0
+401267211,2020-12-30T00:30Z,Milwaukee Bucks at Miami Heat,Miami Heat,Milwaukee Bucks,97,144,0.0
+401267212,2020-12-30T01:00Z,Orlando Magic at Oklahoma City Thunder,Oklahoma City Thunder,Orlando Magic,107,118,0.0
+401267213,2020-12-30T03:00Z,New Orleans Pelicans at Phoenix Suns,Phoenix Suns,New Orleans Pelicans,111,86,1.0
+401267214,2020-12-30T03:00Z,Minnesota Timberwolves at LA Clippers,LA Clippers,Minnesota Timberwolves,124,101,1.0
+401267215,2020-12-30T03:00Z,Denver Nuggets at Sacramento Kings,Sacramento Kings,Denver Nuggets,125,115,1.0
+401267216,2020-12-31T00:30Z,Memphis Grizzlies at Boston Celtics,Boston Celtics,Memphis Grizzlies,126,107,1.0
+401267217,2020-12-31T00:30Z,Atlanta Hawks at Brooklyn Nets,Brooklyn Nets,Atlanta Hawks,145,141,1.0
+401267218,2020-12-31T00:30Z,Milwaukee Bucks at Miami Heat,Miami Heat,Milwaukee Bucks,119,108,1.0
+401267219,2020-12-31T01:30Z,Charlotte Hornets at Dallas Mavericks,Dallas Mavericks,Charlotte Hornets,99,118,0.0
+401267220,2020-12-31T01:30Z,Los Angeles Lakers at San Antonio Spurs,San Antonio Spurs,Los Angeles Lakers,107,121,0.0
+401267221,2020-12-31T03:00Z,Portland Trail Blazers at LA Clippers,LA Clippers,Portland Trail Blazers,128,105,1.0
+401267222,2020-12-31T20:00Z,Cleveland Cavaliers at Indiana Pacers,Indiana Pacers,Cleveland Cavaliers,119,99,1.0
+401267223,2020-12-31T22:00Z,Chicago Bulls at Washington Wizards,Washington Wizards,Chicago Bulls,130,133,0.0
+401267224,2020-12-31T23:30Z,Philadelphia 76ers at Orlando Magic,Orlando Magic,Philadelphia 76ers,92,116,0.0
+401267225,2021-01-01T00:00Z,Sacramento Kings at Houston Rockets,Houston Rockets,Sacramento Kings,122,119,1.0
+401267226,2021-01-01T00:30Z,New York Knicks at Toronto Raptors,Toronto Raptors,New York Knicks,100,83,1.0
+401267227,2021-01-01T01:00Z,New Orleans Pelicans at Oklahoma City Thunder,Oklahoma City Thunder,New Orleans Pelicans,80,113,0.0
+401267228,2021-01-01T02:00Z,Phoenix Suns at Utah Jazz,Utah Jazz,Phoenix Suns,95,106,0.0

@@ -1,0 +1,42 @@
+id,date,event,home,away,hs,as,res
+401655103,2024-05-01T23:30Z,Miami Heat at Boston Celtics,Boston Celtics,Miami Heat,118,84,1.0
+401655097,2024-05-02T02:00Z,Dallas Mavericks at LA Clippers,LA Clippers,Dallas Mavericks,93,123,0.0
+401655116,2024-05-02T22:30Z,Milwaukee Bucks at Indiana Pacers,Indiana Pacers,Milwaukee Bucks,120,98,1.0
+401655110,2024-05-03T01:00Z,New York Knicks at Philadelphia 76ers,Philadelphia 76ers,New York Knicks,115,118,0.0
+401655122,2024-05-03T23:00Z,Cleveland Cavaliers at Orlando Magic,Orlando Magic,Cleveland Cavaliers,103,96,1.0
+401655098,2024-05-04T01:30Z,LA Clippers at Dallas Mavericks,Dallas Mavericks,LA Clippers,114,101,1.0
+401657182,2024-05-04T23:00Z,Minnesota Timberwolves at Denver Nuggets,Denver Nuggets,Minnesota Timberwolves,99,106,0.0
+401655123,2024-05-05T17:00Z,Orlando Magic at Cleveland Cavaliers,Cleveland Cavaliers,Orlando Magic,106,94,1.0
+401657420,2024-05-06T23:30Z,Indiana Pacers at New York Knicks,New York Knicks,Indiana Pacers,121,117,1.0
+401657183,2024-05-07T02:00Z,Minnesota Timberwolves at Denver Nuggets,Denver Nuggets,Minnesota Timberwolves,80,106,0.0
+401658224,2024-05-07T23:00Z,Cleveland Cavaliers at Boston Celtics,Boston Celtics,Cleveland Cavaliers,120,95,1.0
+401657231,2024-05-08T01:30Z,Dallas Mavericks at Oklahoma City Thunder,Oklahoma City Thunder,Dallas Mavericks,117,95,1.0
+401657421,2024-05-09T00:00Z,Indiana Pacers at New York Knicks,New York Knicks,Indiana Pacers,130,121,1.0
+401658225,2024-05-09T23:00Z,Cleveland Cavaliers at Boston Celtics,Boston Celtics,Cleveland Cavaliers,94,118,0.0
+401658188,2024-05-10T01:30Z,Dallas Mavericks at Oklahoma City Thunder,Oklahoma City Thunder,Dallas Mavericks,110,119,0.0
+401657422,2024-05-10T23:00Z,New York Knicks at Indiana Pacers,Indiana Pacers,New York Knicks,111,106,1.0
+401657184,2024-05-11T01:30Z,Denver Nuggets at Minnesota Timberwolves,Minnesota Timberwolves,Denver Nuggets,90,117,0.0
+401658190,2024-05-11T19:30Z,Oklahoma City Thunder at Dallas Mavericks,Dallas Mavericks,Oklahoma City Thunder,105,101,1.0
+401658226,2024-05-12T00:30Z,Boston Celtics at Cleveland Cavaliers,Cleveland Cavaliers,Boston Celtics,93,106,0.0
+401657423,2024-05-12T19:30Z,New York Knicks at Indiana Pacers,Indiana Pacers,New York Knicks,121,89,1.0
+401657185,2024-05-13T00:00Z,Denver Nuggets at Minnesota Timberwolves,Minnesota Timberwolves,Denver Nuggets,107,115,0.0
+401658227,2024-05-13T23:00Z,Boston Celtics at Cleveland Cavaliers,Cleveland Cavaliers,Boston Celtics,102,109,0.0
+401658191,2024-05-14T01:30Z,Oklahoma City Thunder at Dallas Mavericks,Dallas Mavericks,Oklahoma City Thunder,96,100,0.0
+401658196,2024-05-15T00:00Z,Indiana Pacers at New York Knicks,New York Knicks,Indiana Pacers,121,91,1.0
+401657186,2024-05-15T02:30Z,Minnesota Timberwolves at Denver Nuggets,Denver Nuggets,Minnesota Timberwolves,112,97,1.0
+401658228,2024-05-15T23:00Z,Cleveland Cavaliers at Boston Celtics,Boston Celtics,Cleveland Cavaliers,113,98,1.0
+401658192,2024-05-16T01:30Z,Dallas Mavericks at Oklahoma City Thunder,Oklahoma City Thunder,Dallas Mavericks,92,104,0.0
+401657187,2024-05-17T00:30Z,Denver Nuggets at Minnesota Timberwolves,Minnesota Timberwolves,Denver Nuggets,115,70,1.0
+401658197,2024-05-18T00:30Z,New York Knicks at Indiana Pacers,Indiana Pacers,New York Knicks,116,103,1.0
+401658194,2024-05-19T00:00Z,Oklahoma City Thunder at Dallas Mavericks,Dallas Mavericks,Oklahoma City Thunder,117,116,1.0
+401658198,2024-05-19T19:30Z,Indiana Pacers at New York Knicks,New York Knicks,Indiana Pacers,109,130,0.0
+401657188,2024-05-20T00:00Z,Minnesota Timberwolves at Denver Nuggets,Denver Nuggets,Minnesota Timberwolves,90,98,0.0
+401671998,2024-05-22T00:00Z,Indiana Pacers at Boston Celtics,Boston Celtics,Indiana Pacers,133,128,1.0
+401672976,2024-05-23T00:30Z,Dallas Mavericks at Minnesota Timberwolves,Minnesota Timberwolves,Dallas Mavericks,105,108,0.0
+401671999,2024-05-24T00:00Z,Indiana Pacers at Boston Celtics,Boston Celtics,Indiana Pacers,126,110,1.0
+401672977,2024-05-25T00:30Z,Dallas Mavericks at Minnesota Timberwolves,Minnesota Timberwolves,Dallas Mavericks,108,109,0.0
+401672000,2024-05-26T00:30Z,Boston Celtics at Indiana Pacers,Indiana Pacers,Boston Celtics,111,114,0.0
+401672978,2024-05-27T00:00Z,Minnesota Timberwolves at Dallas Mavericks,Dallas Mavericks,Minnesota Timberwolves,116,107,1.0
+401672001,2024-05-28T00:00Z,Boston Celtics at Indiana Pacers,Indiana Pacers,Boston Celtics,102,105,0.0
+401672979,2024-05-29T00:30Z,Minnesota Timberwolves at Dallas Mavericks,Dallas Mavericks,Minnesota Timberwolves,100,105,0.0
+401672980,2024-05-31T00:30Z,Dallas Mavericks at Minnesota Timberwolves,Minnesota Timberwolves,Dallas Mavericks,103,124,0.0

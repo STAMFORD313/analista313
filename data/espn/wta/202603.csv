@@ -1,0 +1,939 @@
+id,date,event,home,away,hs,as,res
+172629,2026-02-21T16:05Z,ATX Open,Emily Appleton,Louisa Chirico,,,0.0
+172634,2026-02-21T16:05Z,ATX Open,Jennifer Brady,Elizabeth Mandlik,,,0.0
+172630,2026-02-21T16:05Z,ATX Open,Nikola Bartunkova,Mariia Tkacheva,,,1.0
+172631,2026-02-21T17:20Z,ATX Open,Rebeka Masarova,Gina Feistel,,,1.0
+172633,2026-02-21T18:00Z,ATX Open,Linda Fruhvirtova,Anna Rogers,,,1.0
+172635,2026-02-21T18:10Z,ATX Open,Caroline Dolehide,Ena Shibahara,,,1.0
+172636,2026-02-21T18:45Z,ATX Open,Gabriela Lee,Nao Hibino,,,0.0
+172632,2026-02-21T19:25Z,ATX Open,Madison Brengle,Kayla Day,,,1.0
+172640,2026-02-21T20:30Z,ATX Open,Claire Liu,Himeno Sakatsume,,,1.0
+172637,2026-02-21T20:40Z,ATX Open,Yuan Yue,Nadia Elle Valdez,,,1.0
+172639,2026-02-21T21:05Z,ATX Open,Joanna Garland,You Xiaodi,,,1.0
+172638,2026-02-21T21:50Z,ATX Open,Carmen Andreea Herea,Whitney Osuigwe,,,0.0
+172641,2026-02-22T17:05Z,ATX Open,Caroline Dolehide,Nao Hibino,,,1.0
+172644,2026-02-22T17:05Z,ATX Open,Linda Fruhvirtova,Elizabeth Mandlik,,,0.0
+172642,2026-02-22T17:10Z,ATX Open,Nikola Bartunkova,Louisa Chirico,,,1.0
+172645,2026-02-22T18:20Z,ATX Open,Yuan Yue,Whitney Osuigwe,,,0.0
+172643,2026-02-22T18:30Z,ATX Open,Rebeka Masarova,Madison Brengle,,,1.0
+172646,2026-02-22T18:40Z,ATX Open,Joanna Garland,Claire Liu,,,0.0
+170247,2026-02-23T17:05Z,ATX Open,Alycia Parks,Oksana Selekhmeteva,,,0.0
+170248,2026-02-23T19:05Z,ATX Open,Anna Bondar,Kamilla Rakhimova,,,0.0
+170250,2026-02-23T19:30Z,ATX Open,Katie Volynets,Nikola Bartunkova,,,0.0
+170251,2026-02-24T00:00Z,ATX Open,Elizabeth Mandlik,Whitney Osuigwe,,,0.0
+170249,2026-02-24T00:05Z,ATX Open,Taylor Townsend,Linda Fruhvirtova,,,1.0
+170252,2026-02-24T03:20Z,ATX Open,Wang Xinyu,Rebeka Masarova,,,0.0
+170253,2026-02-24T17:05Z,ATX Open,Anna Blinkova,Iva Jovic,,,0.0
+170241,2026-02-24T18:05Z,ATX Open,Bianca Andreescu,Dalma Galfi,,,0.0
+170246,2026-02-24T18:05Z,ATX Open,Kaja Juvan,Claire Liu,,,1.0
+170255,2026-02-24T18:50Z,ATX Open,Venus Williams,Ajla Tomljanovic,,,0.0
+170242,2026-02-24T20:30Z,ATX Open,Petra Marcinko,Kimberly Birrell,,,0.0
+170254,2026-02-24T20:30Z,ATX Open,Ashlyn Krueger,Catherine McNally,,,1.0
+170243,2026-02-24T22:30Z,ATX Open,Yuan Yue,Rebecca Sramkova,,,1.0
+170244,2026-02-25T00:05Z,ATX Open,Francesca Jones,Peyton Stearns,,,0.0
+170240,2026-02-25T01:00Z,ATX Open,Anastasia Zakharova,Mary Stoiana,,,1.0
+170245,2026-02-25T02:25Z,ATX Open,Lulu Sun,Caroline Dolehide,,,0.0
+170259,2026-02-25T18:05Z,ATX Open,Kamilla Rakhimova,Oksana Selekhmeteva,,,0.0
+170261,2026-02-25T18:05Z,ATX Open,Rebeka Masarova,Whitney Osuigwe,,,1.0
+170260,2026-02-25T19:55Z,ATX Open,Nikola Bartunkova,Taylor Townsend,,,0.0
+170263,2026-02-26T01:45Z,ATX Open,Yuan Yue,Dalma Galfi,,,1.0
+170262,2026-02-26T17:05Z,ATX Open,Anastasia Zakharova,Ashlyn Krueger,,,0.0
+170258,2026-02-26T19:05Z,ATX Open,Kaja Juvan,Peyton Stearns,,,0.0
+170256,2026-02-26T20:35Z,ATX Open,Kimberly Birrell,Caroline Dolehide,,,1.0
+170257,2026-02-27T00:05Z,ATX Open,Ajla Tomljanovic,Iva Jovic,,,1.0
+170265,2026-02-27T19:05Z,ATX Open,Kimberly Birrell,Ajla Tomljanovic,,,1.0
+170267,2026-02-27T20:50Z,ATX Open,Rebeka Masarova,Taylor Townsend,,,0.0
+170266,2026-02-28T00:05Z,ATX Open,Oksana Selekhmeteva,Peyton Stearns,,,0.0
+170264,2026-02-28T02:55Z,ATX Open,Yuan Yue,Ashlyn Krueger,,,0.0
+170269,2026-02-28T19:05Z,ATX Open,Peyton Stearns,Kimberly Birrell,,,1.0
+170270,2026-02-28T21:35Z,ATX Open,Ashlyn Krueger,Taylor Townsend,,,0.0
+170268,2026-03-01T18:05Z,ATX Open,Taylor Townsend,Peyton Stearns,,,0.0
+172611,2026-02-21T17:05Z,Mérida Open Akron,Priscilla Hon,Victoria Rodriguez,,,1.0
+172622,2026-02-21T17:05Z,Mérida Open Akron,Sachia Vickery,Cadence Brace,,,0.0
+172612,2026-02-21T17:10Z,Mérida Open Akron,Zhang Shuai,Katarzyna Piter,,,1.0
+172617,2026-02-21T18:35Z,Mérida Open Akron,Martina Trevisan,Ana Sofia Sanchez,,,1.0
+172613,2026-02-21T18:40Z,Mérida Open Akron,Varvara Lepchenko,Katrina Scott,,,1.0
+172615,2026-02-21T18:45Z,Mérida Open Akron,Maria Timofeeva,Martina Capurro Taborda,,,1.0
+172616,2026-02-21T20:30Z,Mérida Open Akron,Tiphanie Lemaitre,Maria Lourdes Carle,,,0.0
+172614,2026-02-21T20:40Z,Mérida Open Akron,Marian Gomez Pezuela Cano,Elina Avanesyan,,,0.0
+172619,2026-02-21T21:10Z,Mérida Open Akron,Lia Karatancheva,Kayla Cross,,,1.0
+172620,2026-02-21T22:25Z,Mérida Open Akron,Victoria Jimenez Kasintseva,Katarina Jokic,,,1.0
+172618,2026-02-21T22:40Z,Mérida Open Akron,Diane Parry,Heather Watson,,,0.0
+172621,2026-02-21T22:40Z,Mérida Open Akron,Miriana Tona,Valeriya Strakhova,,,1.0
+172623,2026-02-22T17:50Z,Mérida Open Akron,Zhang Shuai,Martina Trevisan,,,1.0
+172628,2026-02-22T17:50Z,Mérida Open Akron,Maria Timofeeva,Maria Lourdes Carle,,,1.0
+172626,2026-02-22T17:50Z,Mérida Open Akron,Priscilla Hon,Cadence Brace,,,0.0
+172627,2026-02-22T19:30Z,Mérida Open Akron,Varvara Lepchenko,Elina Avanesyan,,,1.0
+172624,2026-02-22T19:55Z,Mérida Open Akron,Heather Watson,Lia Karatancheva,,,1.0
+172625,2026-02-22T20:00Z,Mérida Open Akron,Victoria Jimenez Kasintseva,Miriana Tona,,,1.0
+170291,2026-02-23T20:05Z,Mérida Open Akron,Marina Stakusic,Dayana Yastremska,,,1.0
+170299,2026-02-23T21:50Z,Mérida Open Akron,Victoria Jimenez Kasintseva,Yulia Putintseva,,,1.0
+170298,2026-02-24T00:40Z,Mérida Open Akron,Katie Boulter,Beatriz Haddad Maia,,,1.0
+170288,2026-02-24T02:50Z,Mérida Open Akron,Emiliana Arango,Anastasia Potapova,,,1.0
+170301,2026-02-24T20:05Z,Mérida Open Akron,Magda Linette,Tatjana Maria,,,1.0
+170296,2026-02-24T20:05Z,Mérida Open Akron,Camila Osorio,Janice Tjen,,,1.0
+170292,2026-02-24T21:40Z,Mérida Open Akron,Cristina Bucsa,Donna Vekic,,,1.0
+170290,2026-02-24T22:05Z,Mérida Open Akron,Jessica Bouzas Maneiro,Heather Watson,,,1.0
+170289,2026-02-24T23:30Z,Mérida Open Akron,Magdalena Frech,Maria Timofeeva,,,1.0
+170293,2026-02-25T00:10Z,Mérida Open Akron,Cadence Brace,Zeynep Sonmez,,,0.0
+170300,2026-02-25T01:25Z,Mérida Open Akron,Priscilla Hon,Renata Zarazua,,,1.0
+170297,2026-02-25T02:00Z,Mérida Open Akron,Varvara Lepchenko,Zhang Shuai,,,0.0
+170322,2026-02-25T20:05Z,Mérida Open Akron,Magda Linette,Victoria Jimenez Kasintseva,,,0.0
+170323,2026-02-25T23:45Z,Mérida Open Akron,Emiliana Arango,Marie Bouzkova,,,0.0
+170327,2026-02-26T01:45Z,Mérida Open Akron,Katie Boulter,Camila Osorio,,,1.0
+170325,2026-02-26T02:50Z,Mérida Open Akron,Cristina Bucsa,Marina Stakusic,,,1.0
+170324,2026-02-26T20:05Z,Mérida Open Akron,Jessica Bouzas Maneiro,Magdalena Frech,,,0.0
+170326,2026-02-26T21:40Z,Mérida Open Akron,Ann Li,Zeynep Sonmez,,,0.0
+170320,2026-02-27T00:25Z,Mérida Open Akron,Jasmine Paolini,Priscilla Hon,,,1.0
+170331,2026-02-27T01:55Z,Mérida Open Akron,Zhang Shuai,Emma Navarro,,,1.0
+170328,2026-02-27T20:05Z,Mérida Open Akron,Magdalena Frech,Marie Bouzkova,,,1.0
+170329,2026-02-27T23:30Z,Mérida Open Akron,Zeynep Sonmez,Cristina Bucsa,,,0.0
+170321,2026-02-28T01:25Z,Mérida Open Akron,Victoria Jimenez Kasintseva,Zhang Shuai,,,0.0
+170330,2026-02-28T03:15Z,Mérida Open Akron,Jasmine Paolini,Katie Boulter,,,1.0
+170318,2026-03-01T00:05Z,Mérida Open Akron,Magdalena Frech,Zhang Shuai,,,1.0
+170319,2026-03-01T03:00Z,Mérida Open Akron,Jasmine Paolini,Cristina Bucsa,,,0.0
+170316,2026-03-01T23:05Z,Mérida Open Akron,Cristina Bucsa,Magdalena Frech,,,1.0
+172688,2026-02-22T07:35Z,Megasaray Hotels Open 1,Iryna Shymanovich,Denislava Glushkova,,,1.0
+172687,2026-02-22T07:35Z,Megasaray Hotels Open 1,Alevtina Ibragimova,Polona Hercog,,,1.0
+172686,2026-02-22T07:35Z,Megasaray Hotels Open 1,Mia Ristic,Darya Astakhova,,,1.0
+172682,2026-02-22T07:40Z,Megasaray Hotels Open 1,Carolina Alves,Martina Colmegna,,,0.0
+172685,2026-02-22T09:25Z,Megasaray Hotels Open 1,Ikumi Yamazaki,Dalila Spiteri,,,0.0
+172683,2026-02-22T09:40Z,Megasaray Hotels Open 1,Deniz Cakil,Anastasia Zolotareva,,,0.0
+172684,2026-02-22T09:55Z,Megasaray Hotels Open 1,Amarissa Toth,Sofia Shapatava,,,1.0
+172681,2026-02-22T10:00Z,Megasaray Hotels Open 1,Defne Cirpanli,Katarina Zavatska,,,0.0
+172680,2026-02-23T07:35Z,Megasaray Hotels Open 1,Mia Ristic,Alevtina Ibragimova,,,0.0
+172678,2026-02-23T07:35Z,Megasaray Hotels Open 1,Martina Colmegna,Anastasia Zolotareva,,,0.0
+172677,2026-02-23T09:05Z,Megasaray Hotels Open 1,Iryna Shymanovich,Katarina Zavatska,,,0.0
+172679,2026-02-23T09:05Z,Megasaray Hotels Open 1,Amarissa Toth,Dalila Spiteri,,,0.0
+170564,2026-02-24T07:35Z,Megasaray Hotels Open 1,Julia Riera,Anastasia Zolotareva,,,0.0
+170562,2026-02-24T07:35Z,Megasaray Hotels Open 1,Guiomar Maristany Zuleta De Reales,Mayar Sherif,,,0.0
+170560,2026-02-24T07:35Z,Megasaray Hotels Open 1,Moyuka Uchijima,Katarzyna Kawa,,,1.0
+170566,2026-02-24T09:25Z,Megasaray Hotels Open 1,Nuria Brancaccio,Ada Kumru,,,1.0
+170559,2026-02-24T10:00Z,Megasaray Hotels Open 1,Laura Pigossi,Iryna Shymanovich,,,0.0
+170557,2026-02-24T10:20Z,Megasaray Hotels Open 1,Veronika Erjavec,Ilay Yoruk,,,1.0
+170554,2026-02-24T11:00Z,Megasaray Hotels Open 1,Leyre Romero Gormaz,Dalila Spiteri,,,1.0
+170555,2026-02-25T07:05Z,Megasaray Hotels Open 1,Alice Rame,Amarissa Toth,,,0.0
+170565,2026-02-25T07:05Z,Megasaray Hotels Open 1,Adelina Lacinova,Ekaterine Gorgodze,,,0.0
+170567,2026-02-25T07:05Z,Megasaray Hotels Open 1,Arantxa Rus,Selena Janicijevic,,,0.0
+170569,2026-02-25T07:05Z,Megasaray Hotels Open 1,Carole Monnet,Panna Udvardy,,,0.0
+170561,2026-02-25T08:30Z,Megasaray Hotels Open 1,Katarina Zavatska,Julia Grabher,,,1.0
+170556,2026-02-25T08:40Z,Megasaray Hotels Open 1,Ipek Oz,Anastasia Gasanova,,,0.0
+170558,2026-02-25T09:20Z,Megasaray Hotels Open 1,Despina Papamichail,Lucia Bronzetti,,,1.0
+170563,2026-02-25T09:35Z,Megasaray Hotels Open 1,Anhelina Kalinina,Alevtina Ibragimova,,,1.0
+170568,2026-02-25T10:40Z,Megasaray Hotels Open 1,Oleksandra Oliynykova,Polina Kudermetova,,,1.0
+170570,2026-02-26T07:35Z,Megasaray Hotels Open 1,Nuria Brancaccio,Panna Udvardy,,,1.0
+170574,2026-02-26T07:35Z,Megasaray Hotels Open 1,Moyuka Uchijima,Anastasia Gasanova,,,1.0
+170571,2026-02-26T07:35Z,Megasaray Hotels Open 1,Veronika Erjavec,Leyre Romero Gormaz,,,1.0
+170573,2026-02-26T07:40Z,Megasaray Hotels Open 1,Iryna Shymanovich,Despina Papamichail,,,0.0
+170577,2026-02-26T09:15Z,Megasaray Hotels Open 1,Selena Janicijevic,Ekaterine Gorgodze,,,0.0
+170572,2026-02-26T09:25Z,Megasaray Hotels Open 1,Anastasia Zolotareva,Mayar Sherif,,,0.0
+170575,2026-02-26T09:55Z,Megasaray Hotels Open 1,Oleksandra Oliynykova,Amarissa Toth,,,0.0
+170576,2026-02-26T11:05Z,Megasaray Hotels Open 1,Anhelina Kalinina,Katarina Zavatska,,,1.0
+170578,2026-02-27T07:40Z,Megasaray Hotels Open 1,Ekaterine Gorgodze,Anhelina Kalinina,,,0.0
+170580,2026-02-27T09:10Z,Megasaray Hotels Open 1,Moyuka Uchijima,Despina Papamichail,,,1.0
+170579,2026-02-27T09:25Z,Megasaray Hotels Open 1,Veronika Erjavec,Nuria Brancaccio,,,1.0
+170581,2026-02-27T11:50Z,Megasaray Hotels Open 1,Amarissa Toth,Mayar Sherif,,,0.0
+170583,2026-02-28T09:55Z,Megasaray Hotels Open 1,Mayar Sherif,Moyuka Uchijima,,,0.0
+170582,2026-02-28T10:20Z,Megasaray Hotels Open 1,Veronika Erjavec,Anhelina Kalinina,,,0.0
+170584,2026-03-01T09:40Z,Megasaray Hotels Open 1,Moyuka Uchijima,Anhelina Kalinina,,,1.0
+173654,2026-03-01T18:05Z,BNP Paribas Open,Anastasia Zakharova,Caroline Dolehide,,,1.0
+173657,2026-03-01T18:05Z,BNP Paribas Open,Emerson Jones,Nikola Bartunkova,,,0.0
+173652,2026-03-01T18:10Z,BNP Paribas Open,Simona Waltert,Himeno Sakatsume,,,0.0
+173661,2026-03-01T18:10Z,BNP Paribas Open,Varvara Lepchenko,Linda Fruhvirtova,,,0.0
+173644,2026-03-01T19:35Z,BNP Paribas Open,Lulu Sun,Maddison Inglis,,,1.0
+173643,2026-03-01T19:50Z,BNP Paribas Open,Elizabeth Mandlik,Diane Parry,,,0.0
+173658,2026-03-01T19:55Z,BNP Paribas Open,Kamilla Rakhimova,Maria Lourdes Carle,,,1.0
+173642,2026-03-01T20:10Z,BNP Paribas Open,Maria Timofeeva,Suzan Lamens,,,1.0
+173647,2026-03-01T21:20Z,BNP Paribas Open,Yuliia Starodubtseva,Elvina Kalieva,,,0.0
+173662,2026-03-01T21:20Z,BNP Paribas Open,Viktorija Golubic,Marina Stakusic,,,0.0
+173659,2026-03-01T21:40Z,BNP Paribas Open,Martina Trevisan,Darja Vidmanova,,,0.0
+173650,2026-03-01T21:45Z,BNP Paribas Open,Madison Brengle,Talia Gibson,,,0.0
+173645,2026-03-01T23:10Z,BNP Paribas Open,Kayla Day,Aliaksandra Sasnovich,,,1.0
+173648,2026-03-01T23:15Z,BNP Paribas Open,Mary Stoiana,Leolia Jeanjean,,,0.0
+173646,2026-03-01T23:20Z,BNP Paribas Open,Darja Semenistaja,Whitney Osuigwe,,,1.0
+173655,2026-03-01T23:30Z,BNP Paribas Open,Julieta Pareja,Lanlana Tararudee,,,0.0
+173639,2026-03-02T21:15Z,BNP Paribas Open,Katie Boulter,Viktoriya Tomova,,,1.0
+173656,2026-03-02T21:40Z,BNP Paribas Open,Dalma Galfi,Yuan Yue,,,1.0
+173653,2026-03-02T22:00Z,BNP Paribas Open,Mananchaya Sawangkaew,Rebeka Masarova,,,1.0
+173660,2026-03-02T22:35Z,BNP Paribas Open,Renata Zarazua,Priscilla Hon,,,0.0
+173640,2026-03-02T22:55Z,BNP Paribas Open,Joanna Garland,Taylor Townsend,,,0.0
+173641,2026-03-02T23:15Z,BNP Paribas Open,Louisa Chirico,Akasha Urhobo,,,0.0
+173649,2026-03-02T23:50Z,BNP Paribas Open,Sinja Kraus,Storm Hunter,,,0.0
+173651,2026-03-03T01:05Z,BNP Paribas Open,Lucrezia Stefanini,Victoria Jimenez Kasintseva,,,0.0
+173664,2026-03-03T18:05Z,BNP Paribas Open,Elvina Kalieva,Talia Gibson,,,0.0
+173666,2026-03-03T18:05Z,BNP Paribas Open,Darja Semenistaja,Kayla Day,,,0.0
+173668,2026-03-03T18:05Z,BNP Paribas Open,Lulu Sun,Diane Parry,,,0.0
+173671,2026-03-03T18:05Z,BNP Paribas Open,Kamilla Rakhimova,Maria Timofeeva,,,1.0
+173673,2026-03-03T18:05Z,BNP Paribas Open,Marina Stakusic,Mananchaya Sawangkaew,,,1.0
+173674,2026-03-03T18:05Z,BNP Paribas Open,Anastasia Zakharova,Linda Fruhvirtova,,,1.0
+173669,2026-03-03T21:50Z,BNP Paribas Open,Katie Boulter,Victoria Jimenez Kasintseva,,,0.0
+173667,2026-03-03T21:55Z,BNP Paribas Open,Dalma Galfi,Lanlana Tararudee,,,0.0
+173670,2026-03-03T22:05Z,BNP Paribas Open,Priscilla Hon,Darja Vidmanova,,,0.0
+173663,2026-03-03T22:15Z,BNP Paribas Open,Himeno Sakatsume,Nikola Bartunkova,,,1.0
+173672,2026-03-03T22:35Z,BNP Paribas Open,Storm Hunter,Leolia Jeanjean,,,1.0
+173665,2026-03-03T22:40Z,BNP Paribas Open,Akasha Urhobo,Taylor Townsend,,,0.0
+172734,2026-03-04T19:05Z,BNP Paribas Open,Sorana Cirstea,Tatjana Maria,,,1.0
+172712,2026-03-04T19:10Z,BNP Paribas Open,Kimberly Birrell,Oksana Selekhmeteva,,,1.0
+172742,2026-03-04T19:10Z,BNP Paribas Open,Yulia Putintseva,Paula Badosa,,,1.0
+172746,2026-03-04T20:05Z,BNP Paribas Open,Anastasia Potapova,Marina Stakusic,,,1.0
+172745,2026-03-04T20:50Z,BNP Paribas Open,Ajla Tomljanovic,Elena-Gabriela Ruse,,,1.0
+172714,2026-03-04T21:20Z,BNP Paribas Open,Zeynep Sonmez,McCartney Kessler,,,1.0
+172738,2026-03-04T21:20Z,BNP Paribas Open,Talia Gibson,Ann Li,,,1.0
+172735,2026-03-04T22:40Z,BNP Paribas Open,Jessica Bouzas Maneiro,Beatriz Haddad Maia,,,1.0
+172720,2026-03-04T22:45Z,BNP Paribas Open,Ella Seidel,Anastasia Zakharova,,,0.0
+172697,2026-03-04T23:20Z,BNP Paribas Open,Himeno Sakatsume,Alycia Parks,,,1.0
+172707,2026-03-04T23:20Z,BNP Paribas Open,Victoria Jimenez Kasintseva,Catherine McNally,,,1.0
+172722,2026-03-05T00:10Z,BNP Paribas Open,Dalma Galfi,Anna Blinkova,,,0.0
+172699,2026-03-05T02:05Z,BNP Paribas Open,Jaqueline Cristian,Janice Tjen,,,1.0
+172728,2026-03-05T02:20Z,BNP Paribas Open,Bianca Andreescu,Kamilla Rakhimova,,,0.0
+172706,2026-03-05T04:40Z,BNP Paribas Open,Sloane Stephens,Camila Osorio,,,0.0
+172729,2026-03-05T05:10Z,BNP Paribas Open,Dayana Yastremska,Zhang Shuai,,,1.0
+172698,2026-03-05T19:05Z,BNP Paribas Open,Marie Bouzkova,Taylor Townsend,,,0.0
+172713,2026-03-05T19:05Z,BNP Paribas Open,Magda Linette,Ashlyn Krueger,,,0.0
+172693,2026-03-05T19:10Z,BNP Paribas Open,Lanlana Tararudee,Sonay Kartal,,,0.0
+172715,2026-03-05T19:10Z,BNP Paribas Open,Laura Siegemund,Petra Marcinko,,,1.0
+172749,2026-03-05T20:45Z,BNP Paribas Open,Donna Vekic,Tereza Valentova,,,1.0
+172730,2026-03-05T21:15Z,BNP Paribas Open,Francesca Jones,Kayla Day,,,0.0
+172692,2026-03-05T21:55Z,BNP Paribas Open,Diane Parry,Venus Williams,,,1.0
+172721,2026-03-05T22:10Z,BNP Paribas Open,Elsa Jacquemot,Anna Bondar,,,0.0
+172689,2026-03-05T22:45Z,BNP Paribas Open,Cristina Bucsa,Darja Vidmanova,,,1.0
+172741,2026-03-05T23:40Z,BNP Paribas Open,Varvara Gracheva,Lilli Tagger,,,0.0
+172725,2026-03-06T00:35Z,BNP Paribas Open,Katerina Siniakova,Sofia Kenin,,,1.0
+172690,2026-03-06T00:40Z,BNP Paribas Open,Storm Hunter,Magdalena Frech,,,1.0
+172750,2026-03-06T01:35Z,BNP Paribas Open,Katie Volynets,Rebecca Sramkova,,,1.0
+172723,2026-03-06T02:05Z,BNP Paribas Open,Antonia Ruzic,Jennifer Brady,,,1.0
+172700,2026-03-06T02:45Z,BNP Paribas Open,Emiliana Arango,Hailey Baptiste,,,0.0
+172724,2026-03-06T04:30Z,BNP Paribas Open,Peyton Stearns,Solana Sierra,,,0.0
+172770,2026-03-06T19:05Z,BNP Paribas Open,Victoria Mboko,Kimberly Birrell,,,1.0
+172763,2026-03-06T19:10Z,BNP Paribas Open,Ekaterina Alexandrova,Talia Gibson,,,0.0
+172765,2026-03-06T19:10Z,BNP Paribas Open,Jessica Bouzas Maneiro,Linda Noskova,,,0.0
+172769,2026-03-06T19:10Z,BNP Paribas Open,Yulia Putintseva,Clara Tauson,,,0.0
+172771,2026-03-06T19:10Z,BNP Paribas Open,Emma Raducanu,Anastasia Zakharova,,,1.0
+172760,2026-03-06T20:50Z,BNP Paribas Open,Diana Shnaider,Sorana Cirstea,,,0.0
+172772,2026-03-06T21:00Z,BNP Paribas Open,Zeynep Sonmez,Anna Kalinskaya,,,0.0
+172762,2026-03-06T21:10Z,BNP Paribas Open,Aryna Sabalenka,Himeno Sakatsume,,,1.0
+172767,2026-03-06T21:35Z,BNP Paribas Open,Wang Xinyu,Ajla Tomljanovic,,,0.0
+172773,2026-03-06T22:40Z,BNP Paribas Open,Coco Gauff,Kamilla Rakhimova,,,1.0
+172780,2026-03-06T22:40Z,BNP Paribas Open,Anastasia Potapova,Jasmine Paolini,,,0.0
+172764,2026-03-06T23:00Z,BNP Paribas Open,Jaqueline Cristian,Maya Joint,,,1.0
+172768,2026-03-07T02:05Z,BNP Paribas Open,Victoria Jimenez Kasintseva,Naomi Osaka,,,0.0
+172766,2026-03-07T02:10Z,BNP Paribas Open,Iva Jovic,Camila Osorio,,,0.0
+172774,2026-03-07T04:10Z,BNP Paribas Open,Anna Blinkova,Amanda Anisimova,,,0.0
+172761,2026-03-07T05:10Z,BNP Paribas Open,Dayana Yastremska,Alexandra Eala,,,0.0
+172756,2026-03-07T19:05Z,BNP Paribas Open,Karolina Muchova,Anna Bondar,,,1.0
+172758,2026-03-07T19:05Z,BNP Paribas Open,Maria Sakkari,Lilli Tagger,,,1.0
+172777,2026-03-07T19:05Z,BNP Paribas Open,Hailey Baptiste,Elena Rybakina,,,0.0
+172783,2026-03-07T19:05Z,BNP Paribas Open,Storm Hunter,Belinda Bencic,,,0.0
+172781,2026-03-07T20:40Z,BNP Paribas Open,Katie Volynets,Jelena Ostapenko,,,0.0
+172775,2026-03-07T21:00Z,BNP Paribas Open,Sonay Kartal,Emma Navarro,,,1.0
+172754,2026-03-07T21:10Z,BNP Paribas Open,Liudmila Samsonova,Ashlyn Krueger,,,0.0
+172753,2026-03-07T21:15Z,BNP Paribas Open,Kayla Day,Iga Swiatek,,,0.0
+172779,2026-03-07T23:30Z,BNP Paribas Open,Mirra Andreeva,Solana Sierra,,,1.0
+172755,2026-03-07T23:50Z,BNP Paribas Open,Katerina Siniakova,Leylah Fernandez,,,1.0
+172759,2026-03-07T23:50Z,BNP Paribas Open,Antonia Ruzic,Zheng Qinwen,,,1.0
+172784,2026-03-08T00:35Z,BNP Paribas Open,Elise Mertens,Cristina Bucsa,,,1.0
+172782,2026-03-08T02:10Z,BNP Paribas Open,Jessica Pegula,Donna Vekic,,,1.0
+172776,2026-03-08T02:25Z,BNP Paribas Open,Madison Keys,Diane Parry,,,1.0
+172778,2026-03-08T04:30Z,BNP Paribas Open,Marta Kostyuk,Taylor Townsend,,,1.0
+172757,2026-03-08T04:45Z,BNP Paribas Open,Laura Siegemund,Elina Svitolina,,,0.0
+172792,2026-03-08T18:05Z,BNP Paribas Open,Sorana Cirstea,Linda Noskova,,,0.0
+172795,2026-03-08T18:05Z,BNP Paribas Open,Talia Gibson,Clara Tauson,,,1.0
+172785,2026-03-08T18:10Z,BNP Paribas Open,Aryna Sabalenka,Jaqueline Cristian,,,1.0
+172794,2026-03-08T20:45Z,BNP Paribas Open,Ajla Tomljanovic,Jasmine Paolini,,,0.0
+172787,2026-03-08T21:05Z,BNP Paribas Open,Camila Osorio,Naomi Osaka,,,0.0
+172791,2026-03-08T23:05Z,BNP Paribas Open,Emma Raducanu,Amanda Anisimova,,,0.0
+172793,2026-03-09T01:10Z,BNP Paribas Open,Coco Gauff,Alexandra Eala,,,0.0
+172786,2026-03-09T03:05Z,BNP Paribas Open,Victoria Mboko,Anna Kalinskaya,,,1.0
+172797,2026-03-09T18:10Z,BNP Paribas Open,Jessica Pegula,Jelena Ostapenko,,,1.0
+172800,2026-03-09T18:10Z,BNP Paribas Open,Karolina Muchova,Antonia Ruzic,,,1.0
+172790,2026-03-09T20:30Z,BNP Paribas Open,Mirra Andreeva,Katerina Siniakova,,,0.0
+172796,2026-03-09T21:15Z,BNP Paribas Open,Elise Mertens,Belinda Bencic,,,0.0
+172801,2026-03-09T22:55Z,BNP Paribas Open,Ashlyn Krueger,Elina Svitolina,,,0.0
+172803,2026-03-09T23:40Z,BNP Paribas Open,Maria Sakkari,Iga Swiatek,,,0.0
+172789,2026-03-10T01:10Z,BNP Paribas Open,Madison Keys,Sonay Kartal,,,0.0
+172788,2026-03-10T04:25Z,BNP Paribas Open,Marta Kostyuk,Elena Rybakina,,,0.0
+172802,2026-03-10T18:10Z,BNP Paribas Open,Aryna Sabalenka,Naomi Osaka,,,1.0
+172807,2026-03-10T20:20Z,BNP Paribas Open,Talia Gibson,Jasmine Paolini,,,1.0
+172805,2026-03-11T01:05Z,BNP Paribas Open,Victoria Mboko,Amanda Anisimova,,,1.0
+172804,2026-03-11T03:30Z,BNP Paribas Open,Alexandra Eala,Linda Noskova,,,0.0
+172808,2026-03-11T18:10Z,BNP Paribas Open,Karolina Muchova,Iga Swiatek,,,0.0
+172806,2026-03-11T19:50Z,BNP Paribas Open,Jessica Pegula,Belinda Bencic,,,1.0
+172798,2026-03-11T22:10Z,BNP Paribas Open,Katerina Siniakova,Elina Svitolina,,,0.0
+172799,2026-03-11T23:25Z,BNP Paribas Open,Sonay Kartal,Elena Rybakina,,,0.0
+172810,2026-03-12T18:10Z,BNP Paribas Open,Aryna Sabalenka,Victoria Mboko,,,1.0
+172809,2026-03-12T20:10Z,BNP Paribas Open,Linda Noskova,Talia Gibson,,,1.0
+172811,2026-03-12T22:10Z,BNP Paribas Open,Elina Svitolina,Iga Swiatek,,,1.0
+172812,2026-03-13T00:10Z,BNP Paribas Open,Jessica Pegula,Elena Rybakina,,,0.0
+172814,2026-03-13T23:05Z,BNP Paribas Open,Aryna Sabalenka,Linda Noskova,,,1.0
+172813,2026-03-14T01:10Z,BNP Paribas Open,Elena Rybakina,Elina Svitolina,,,1.0
+172815,2026-03-15T18:05Z,BNP Paribas Open,Aryna Sabalenka,Elena Rybakina,,,1.0
+173675,2026-03-02T18:10Z,BNP Paribas Open,Thiago Agustin Tirante,Izyan Ahmad,,,1.0
+173680,2026-03-02T18:10Z,BNP Paribas Open,Colton Smith,Sho Shimabukuro,,,0.0
+173681,2026-03-02T18:10Z,BNP Paribas Open,Alexander Blockx,Martin Landaluce,,,0.0
+173687,2026-03-02T18:10Z,BNP Paribas Open,Nicolas Jarry,Francesco Maestrelli,,,0.0
+173691,2026-03-02T18:10Z,BNP Paribas Open,Christopher O'Connell,Billy Harris,,,1.0
+173696,2026-03-02T18:10Z,BNP Paribas Open,Federico Agustin Gomez,Shintaro Mochizuki,,,0.0
+173697,2026-03-02T18:10Z,BNP Paribas Open,Benjamin Bonzi,Jack Pinnington Jones,,,1.0
+173682,2026-03-02T19:25Z,BNP Paribas Open,Ignacio Buse,Liam Draxl,,,1.0
+173698,2026-03-02T19:40Z,BNP Paribas Open,Andrew Johnson,Dane Sweeny,,,0.0
+173689,2026-03-02T19:50Z,BNP Paribas Open,Tristan Schoolkate,Alex Bolt,,,1.0
+173686,2026-03-02T19:55Z,BNP Paribas Open,Aleksandar Vukic,Stefano Travaglia,,,1.0
+173692,2026-03-02T20:20Z,BNP Paribas Open,Patrick Kypson,Daniel Merida,,,0.0
+173690,2026-03-02T20:35Z,BNP Paribas Open,Nicolas Mejia,Nikoloz Basilashvili,,,0.0
+173685,2026-03-02T21:05Z,BNP Paribas Open,Darwin Blanch,Dino Prizmic,,,0.0
+173676,2026-03-02T22:25Z,BNP Paribas Open,Leandro Riedi,Rinky Hijikata,,,0.0
+173688,2026-03-02T22:30Z,BNP Paribas Open,Elias Ymer,Chak Lam Coleman Wong,,,1.0
+173695,2026-03-02T22:40Z,BNP Paribas Open,Chun-Hsin Tseng,David Goffin,,,1.0
+173677,2026-03-03T00:10Z,BNP Paribas Open,Vitaliy Sachko,Mackenzie McDonald,,,0.0
+173679,2026-03-03T00:15Z,BNP Paribas Open,Roman Andres Burruchaga,Moez Echargui,,,1.0
+173684,2026-03-03T00:55Z,BNP Paribas Open,Vit Kopriva,Rei Sakamoto,,,1.0
+173694,2026-03-03T01:00Z,BNP Paribas Open,Luca Van Assche,Alexis Galarneau,,,0.0
+173693,2026-03-03T01:05Z,BNP Paribas Open,Jagger Leach,Tomas Barrios Vera,,,0.0
+173678,2026-03-03T01:20Z,BNP Paribas Open,Luca Nardi,Trevor Svajda,,,0.0
+173683,2026-03-03T02:10Z,BNP Paribas Open,Mitchell Krueger,Dalibor Svrcina,,,0.0
+173704,2026-03-03T19:40Z,BNP Paribas Open,Benjamin Bonzi,Shintaro Mochizuki,,,1.0
+173705,2026-03-03T19:40Z,BNP Paribas Open,Martin Landaluce,Sho Shimabukuro,,,0.0
+173706,2026-03-03T19:45Z,BNP Paribas Open,Daniel Merida,Dane Sweeny,,,1.0
+173710,2026-03-03T20:15Z,BNP Paribas Open,Christopher O'Connell,Nikoloz Basilashvili,,,1.0
+173700,2026-03-03T20:25Z,BNP Paribas Open,Thiago Agustin Tirante,Francesco Maestrelli,,,0.0
+173699,2026-03-03T21:00Z,BNP Paribas Open,Aleksandar Vukic,Dino Prizmic,,,0.0
+173701,2026-03-03T23:35Z,BNP Paribas Open,Tristan Schoolkate,Elias Ymer,,,1.0
+173707,2026-03-03T23:55Z,BNP Paribas Open,Alexis Galarneau,Tomas Barrios Vera,,,1.0
+173708,2026-03-04T00:05Z,BNP Paribas Open,Vit Kopriva,Dalibor Svrcina,,,0.0
+173702,2026-03-04T00:15Z,BNP Paribas Open,Roman Andres Burruchaga,Chun-Hsin Tseng,,,0.0
+173709,2026-03-04T00:30Z,BNP Paribas Open,Trevor Svajda,Mackenzie McDonald,,,0.0
+173703,2026-03-04T00:40Z,BNP Paribas Open,Ignacio Buse,Rinky Hijikata,,,0.0
+172819,2026-03-04T19:10Z,BNP Paribas Open,Camilo Ugo Carabelli,Martin Damm,,,1.0
+172822,2026-03-04T19:10Z,BNP Paribas Open,Quentin Halys,Adam Walton,,,0.0
+172855,2026-03-04T19:10Z,BNP Paribas Open,Mariano Navone,Marcos Giron,,,0.0
+172878,2026-03-04T20:05Z,BNP Paribas Open,Daniel Altmaier,Miomir Kecmanovic,,,0.0
+172842,2026-03-04T20:45Z,BNP Paribas Open,Zizou Bergs,Jan-Lennard Struff,,,1.0
+172823,2026-03-04T21:05Z,BNP Paribas Open,Reilly Opelka,Ethan Quinn,,,1.0
+172875,2026-03-04T21:45Z,BNP Paribas Open,Mattia Bellucci,Gabriel Diallo,,,0.0
+172863,2026-03-04T22:10Z,BNP Paribas Open,Dalibor Svrcina,James Duckworth,,,1.0
+172870,2026-03-04T22:15Z,BNP Paribas Open,Marton Fucsovics,Christopher O'Connell,,,1.0
+172818,2026-03-04T23:10Z,BNP Paribas Open,Matteo Berrettini,Adrian Mannarino,,,1.0
+172869,2026-03-05T00:00Z,BNP Paribas Open,Dino Prizmic,Tristan Schoolkate,,,1.0
+172830,2026-03-05T00:15Z,BNP Paribas Open,Jenson Brooksby,Alexei Popyrin,,,1.0
+172874,2026-03-05T01:10Z,BNP Paribas Open,Gael Monfils,Alexis Galarneau,,,1.0
+172850,2026-03-05T02:30Z,BNP Paribas Open,Zachary Svajda,Marin Cilic,,,1.0
+172839,2026-03-05T02:55Z,BNP Paribas Open,Joao Fonseca,Raphael Collignon,,,1.0
+172843,2026-03-05T05:00Z,BNP Paribas Open,Stefanos Tsitsipas,Denis Shapovalov,,,0.0
+172828,2026-03-05T19:10Z,BNP Paribas Open,Aleksandr Shevchenko,Sho Shimabukuro,,,1.0
+172848,2026-03-05T19:10Z,BNP Paribas Open,Kamil Majchrzak,Giovanni Mpetshi Perricard,,,1.0
+172873,2026-03-05T19:10Z,BNP Paribas Open,Terence Atmane,Grigor Dimitrov,,,0.0
+172847,2026-03-05T21:10Z,BNP Paribas Open,Hubert Hurkacz,Aleksandar Kovacevic,,,0.0
+172866,2026-03-05T21:10Z,BNP Paribas Open,Jacob Fearnley,Damir Dzumhur,,,1.0
+172861,2026-03-05T21:35Z,BNP Paribas Open,Chun-Hsin Tseng,Sebastian Baez,,,0.0
+172857,2026-03-05T22:55Z,BNP Paribas Open,Fabian Marozsan,Roberto Bautista Agut,,,0.0
+172854,2026-03-05T23:05Z,BNP Paribas Open,Valentin Royer,Benjamin Bonzi,,,0.0
+172862,2026-03-05T23:20Z,BNP Paribas Open,Daniel Merida,Alex Michelsen,,,0.0
+172817,2026-03-06T00:40Z,BNP Paribas Open,Juan Manuel Cerundolo,Botic Van De Zandschulp,,,1.0
+172858,2026-03-06T01:00Z,BNP Paribas Open,Alejandro Tabilo,Rafael Jodar,,,1.0
+172825,2026-03-06T01:20Z,BNP Paribas Open,Nuno Borges,Emilio Nava,,,1.0
+172834,2026-03-06T02:40Z,BNP Paribas Open,Francesco Maestrelli,Rinky Hijikata,,,0.0
+172837,2026-03-06T02:50Z,BNP Paribas Open,Sebastian Korda,Francisco Comesana,,,1.0
+172838,2026-03-06T03:30Z,BNP Paribas Open,Matteo Arnaldi,Mackenzie McDonald,,,0.0
+172829,2026-03-06T04:30Z,BNP Paribas Open,Michael Zheng,Vit Kopriva,,,0.0
+172881,2026-03-06T19:05Z,BNP Paribas Open,Adam Walton,Learner Tien,,,0.0
+172884,2026-03-06T19:10Z,BNP Paribas Open,Flavio Cobolli,Miomir Kecmanovic,,,1.0
+172889,2026-03-06T19:15Z,BNP Paribas Open,Matteo Berrettini,Alexander Zverev,,,0.0
+172888,2026-03-06T21:10Z,BNP Paribas Open,Ben Shelton,Reilly Opelka,,,1.0
+172905,2026-03-06T21:10Z,BNP Paribas Open,Lorenzo Musetti,Marton Fucsovics,,,0.0
+172904,2026-03-06T22:10Z,BNP Paribas Open,Dino Prizmic,Arthur Fils,,,0.0
+172886,2026-03-06T22:55Z,BNP Paribas Open,Brandon Nakashima,Camilo Ugo Carabelli,,,1.0
+172885,2026-03-06T23:05Z,BNP Paribas Open,Gael Monfils,Felix Auger-Aliassime,,,0.0
+172887,2026-03-06T23:45Z,BNP Paribas Open,Jenson Brooksby,Frances Tiafoe,,,0.0
+172893,2026-03-07T01:35Z,BNP Paribas Open,Tomas Martin Etcheverry,Denis Shapovalov,,,0.0
+172880,2026-03-07T02:10Z,BNP Paribas Open,Alejandro Davidovich Fokina,Zachary Svajda,,,1.0
+172892,2026-03-07T02:10Z,BNP Paribas Open,Dalibor Svrcina,Jannik Sinner,,,0.0
+172890,2026-03-07T03:55Z,BNP Paribas Open,Zizou Bergs,Tommy Paul,,,0.0
+172882,2026-03-07T04:30Z,BNP Paribas Open,Marcos Giron,Jakub Mensik,,,0.0
+172895,2026-03-07T19:10Z,BNP Paribas Open,Aleksandr Shevchenko,Casper Ruud,,,0.0
+172906,2026-03-07T19:10Z,BNP Paribas Open,Aleksandar Kovacevic,Corentin Moutet,,,1.0
+172908,2026-03-07T19:10Z,BNP Paribas Open,Roberto Bautista Agut,Jack Draper,,,0.0
+172909,2026-03-07T19:10Z,BNP Paribas Open,Francisco Cerundolo,Benjamin Bonzi,,,1.0
+172891,2026-03-07T21:00Z,BNP Paribas Open,Karen Khachanov,Joao Fonseca,,,0.0
+172883,2026-03-07T21:15Z,BNP Paribas Open,Andrey Rublev,Gabriel Diallo,,,0.0
+172900,2026-03-07T21:50Z,BNP Paribas Open,Valentin Vacherot,Nuno Borges,,,1.0
+172907,2026-03-07T21:50Z,BNP Paribas Open,Novak Djokovic,Kamil Majchrzak,,,1.0
+172901,2026-03-07T23:30Z,BNP Paribas Open,Juan Manuel Cerundolo,Arthur Rinderknech,,,0.0
+172898,2026-03-07T23:40Z,BNP Paribas Open,Sebastian Korda,Alex de Minaur,,,0.0
+172897,2026-03-07T23:55Z,BNP Paribas Open,Rinky Hijikata,Luciano Darderi,,,1.0
+172896,2026-03-08T00:25Z,BNP Paribas Open,Cameron Norrie,Mackenzie McDonald,,,1.0
+172899,2026-03-08T00:25Z,BNP Paribas Open,Carlos Alcaraz,Grigor Dimitrov,,,1.0
+172902,2026-03-08T02:10Z,BNP Paribas Open,Jacob Fearnley,Taylor Fritz,,,0.0
+172910,2026-03-08T03:25Z,BNP Paribas Open,Sebastian Baez,Jiri Lehecka,,,1.0
+172894,2026-03-08T03:35Z,BNP Paribas Open,Alexander Bublik,Vit Kopriva,,,1.0
+172903,2026-03-08T03:40Z,BNP Paribas Open,Ugo Humbert,Alex Michelsen,,,0.0
+172911,2026-03-08T04:30Z,BNP Paribas Open,Daniil Medvedev,Alejandro Tabilo,,,1.0
+172925,2026-03-08T18:10Z,BNP Paribas Open,Brandon Nakashima,Alexander Zverev,,,0.0
+172924,2026-03-08T20:10Z,BNP Paribas Open,Ben Shelton,Learner Tien,,,0.0
+172927,2026-03-08T21:10Z,BNP Paribas Open,Alejandro Davidovich Fokina,Jakub Mensik,,,1.0
+172919,2026-03-08T22:40Z,BNP Paribas Open,Denis Shapovalov,Jannik Sinner,,,0.0
+172920,2026-03-08T23:30Z,BNP Paribas Open,Marton Fucsovics,Arthur Fils,,,0.0
+172922,2026-03-09T01:05Z,BNP Paribas Open,Flavio Cobolli,Frances Tiafoe,,,0.0
+172923,2026-03-09T01:15Z,BNP Paribas Open,Gabriel Diallo,Felix Auger-Aliassime,,,0.0
+172926,2026-03-09T02:40Z,BNP Paribas Open,Joao Fonseca,Tommy Paul,,,1.0
+172913,2026-03-09T18:10Z,BNP Paribas Open,Novak Djokovic,Aleksandar Kovacevic,,,1.0
+172916,2026-03-09T18:10Z,BNP Paribas Open,Cameron Norrie,Alex de Minaur,,,1.0
+172917,2026-03-09T20:10Z,BNP Paribas Open,Alexander Bublik,Rinky Hijikata,,,0.0
+172912,2026-03-09T20:25Z,BNP Paribas Open,Francisco Cerundolo,Jack Draper,,,0.0
+172921,2026-03-09T22:05Z,BNP Paribas Open,Alex Michelsen,Taylor Fritz,,,1.0
+172914,2026-03-09T23:10Z,BNP Paribas Open,Valentin Vacherot,Casper Ruud,,,0.0
+172915,2026-03-10T01:45Z,BNP Paribas Open,Carlos Alcaraz,Arthur Rinderknech,,,1.0
+172918,2026-03-10T03:25Z,BNP Paribas Open,Daniil Medvedev,Sebastian Baez,,,1.0
+172933,2026-03-10T18:10Z,BNP Paribas Open,Arthur Fils,Felix Auger-Aliassime,,,1.0
+172932,2026-03-10T20:10Z,BNP Paribas Open,Frances Tiafoe,Alexander Zverev,,,0.0
+172935,2026-03-10T22:05Z,BNP Paribas Open,Learner Tien,Alejandro Davidovich Fokina,,,1.0
+172934,2026-03-11T01:10Z,BNP Paribas Open,Joao Fonseca,Jannik Sinner,,,0.0
+172928,2026-03-11T18:10Z,BNP Paribas Open,Rinky Hijikata,Cameron Norrie,,,0.0
+172930,2026-03-11T20:05Z,BNP Paribas Open,Daniil Medvedev,Alex Michelsen,,,1.0
+172929,2026-03-11T22:05Z,BNP Paribas Open,Carlos Alcaraz,Casper Ruud,,,1.0
+172931,2026-03-12T01:10Z,BNP Paribas Open,Novak Djokovic,Jack Draper,,,0.0
+172938,2026-03-12T18:10Z,BNP Paribas Open,Arthur Fils,Alexander Zverev,,,0.0
+172940,2026-03-12T20:20Z,BNP Paribas Open,Learner Tien,Jannik Sinner,,,0.0
+172936,2026-03-13T00:40Z,BNP Paribas Open,Jack Draper,Daniil Medvedev,,,0.0
+172937,2026-03-13T02:15Z,BNP Paribas Open,Carlos Alcaraz,Cameron Norrie,,,1.0
+172942,2026-03-14T20:40Z,BNP Paribas Open,Alexander Zverev,Jannik Sinner,,,0.0
+172939,2026-03-14T22:30Z,BNP Paribas Open,Carlos Alcaraz,Daniil Medvedev,,,0.0
+172941,2026-03-15T21:25Z,BNP Paribas Open,Daniil Medvedev,Jannik Sinner,,,0.0
+173627,2026-03-01T07:35Z,Megasaray Hotels Open 2,Teodora Kostovic,Lia Karatancheva,,,1.0
+173634,2026-03-01T07:35Z,Megasaray Hotels Open 2,Elena Pridankina,Ani Amiraghyan,,,1.0
+173632,2026-03-01T07:35Z,Megasaray Hotels Open 2,Alevtina Ibragimova,Laura Pigossi,,,0.0
+173633,2026-03-01T09:00Z,Megasaray Hotels Open 2,Mia Ristic,Mai Hontama,,,1.0
+173629,2026-03-01T09:15Z,Megasaray Hotels Open 2,Lisa Pigato,Anastasiia Sobolieva,,,1.0
+173631,2026-03-01T10:35Z,Megasaray Hotels Open 2,Alice Rame,Berrak Kocak,,,0.0
+173630,2026-03-01T10:35Z,Megasaray Hotels Open 2,Katarina Zavatska,Caroline Werner,,,1.0
+173628,2026-03-01T10:55Z,Megasaray Hotels Open 2,Anastasia Zolotareva,Amarissa Toth,,,1.0
+173638,2026-03-02T07:35Z,Megasaray Hotels Open 2,Teodora Kostovic,Laura Pigossi,,,1.0
+173637,2026-03-02T07:35Z,Megasaray Hotels Open 2,Elena Pridankina,Mia Ristic,,,0.0
+173635,2026-03-02T09:20Z,Megasaray Hotels Open 2,Lisa Pigato,Anastasia Zolotareva,,,1.0
+173636,2026-03-02T09:35Z,Megasaray Hotels Open 2,Berrak Kocak,Katarina Zavatska,,,0.0
+173465,2026-03-03T07:35Z,Megasaray Hotels Open 2,Leyre Romero Gormaz,Carole Monnet,,,1.0
+173464,2026-03-03T07:35Z,Megasaray Hotels Open 2,Mayar Sherif,Katarzyna Kawa,,,0.0
+173463,2026-03-03T07:35Z,Megasaray Hotels Open 2,Despina Papamichail,Mia Ristic,,,1.0
+173462,2026-03-03T07:35Z,Megasaray Hotels Open 2,Adelina Lacinova,Maja Chwalinska,,,0.0
+173469,2026-03-03T09:15Z,Megasaray Hotels Open 2,Oleksandra Oliynykova,Nuria Brancaccio,,,1.0
+173473,2026-03-03T09:40Z,Megasaray Hotels Open 2,Julia Riera,Teodora Kostovic,,,1.0
+173467,2026-03-03T09:45Z,Megasaray Hotels Open 2,Iryna Shymanovich,Lisa Pigato,,,1.0
+173461,2026-03-03T09:55Z,Megasaray Hotels Open 2,Anastasia Gasanova,Panna Udvardy,,,0.0
+173474,2026-03-04T07:35Z,Megasaray Hotels Open 2,Anhelina Kalinina,Ekaterine Gorgodze,,,1.0
+173471,2026-03-04T07:35Z,Megasaray Hotels Open 2,Guiomar Maristany Zuleta De Reales,Arantxa Rus,,,1.0
+173470,2026-03-04T07:35Z,Megasaray Hotels Open 2,Tamara Zidansek,Veronika Erjavec,,,1.0
+173460,2026-03-04T07:40Z,Megasaray Hotels Open 2,Moyuka Uchijima,Ada Kumru,,,1.0
+173459,2026-03-04T09:05Z,Megasaray Hotels Open 2,Berfu Cengiz,Lucia Bronzetti,,,0.0
+173466,2026-03-04T10:30Z,Megasaray Hotels Open 2,Ipek Oz,Katarina Zavatska,,,1.0
+173468,2026-03-04T10:45Z,Megasaray Hotels Open 2,Dominika Salkova,Elina Avanesyan,,,0.0
+173472,2026-03-04T11:05Z,Megasaray Hotels Open 2,Alina Charaeva,Polina Kudermetova,,,0.0
+173480,2026-03-05T07:35Z,Megasaray Hotels Open 2,Katarzyna Kawa,Ipek Oz,,,1.0
+173482,2026-03-05T07:35Z,Megasaray Hotels Open 2,Elina Avanesyan,Anhelina Kalinina,,,0.0
+173476,2026-03-05T07:35Z,Megasaray Hotels Open 2,Moyuka Uchijima,Lucia Bronzetti,,,1.0
+173475,2026-03-05T07:35Z,Megasaray Hotels Open 2,Oleksandra Oliynykova,Iryna Shymanovich,,,1.0
+173477,2026-03-05T09:15Z,Megasaray Hotels Open 2,Julia Riera,Guiomar Maristany Zuleta De Reales,,,0.0
+173479,2026-03-05T09:25Z,Megasaray Hotels Open 2,Leyre Romero Gormaz,Tamara Zidansek,,,0.0
+173478,2026-03-05T09:25Z,Megasaray Hotels Open 2,Despina Papamichail,Maja Chwalinska,,,0.0
+173481,2026-03-05T09:55Z,Megasaray Hotels Open 2,Polina Kudermetova,Panna Udvardy,,,0.0
+173483,2026-03-06T08:05Z,Megasaray Hotels Open 2,Moyuka Uchijima,Maja Chwalinska,,,1.0
+173484,2026-03-06T08:05Z,Megasaray Hotels Open 2,Oleksandra Oliynykova,Guiomar Maristany Zuleta De Reales,,,1.0
+173485,2026-03-06T08:05Z,Megasaray Hotels Open 2,Anhelina Kalinina,Panna Udvardy,,,1.0
+173486,2026-03-06T10:50Z,Megasaray Hotels Open 2,Katarzyna Kawa,Tamara Zidansek,,,1.0
+173488,2026-03-07T08:05Z,Megasaray Hotels Open 2,Katarzyna Kawa,Anhelina Kalinina,,,0.0
+173487,2026-03-07T08:10Z,Megasaray Hotels Open 2,Oleksandra Oliynykova,Moyuka Uchijima,,,1.0
+173489,2026-03-08T09:40Z,Megasaray Hotels Open 2,Oleksandra Oliynykova,Anhelina Kalinina,,,0.0
+173716,2026-03-08T07:35Z,Megasaray Hotels Open 3,Julia Riera,Katarina Zavatska,,,0.0
+173718,2026-03-08T07:35Z,Megasaray Hotels Open 3,Carole Monnet,Selina Atay,,,1.0
+173717,2026-03-08T07:35Z,Megasaray Hotels Open 3,Lia Karatancheva,Chloe Paquet,,,1.0
+173711,2026-03-08T08:45Z,Megasaray Hotels Open 3,Irem Kurt,Mai Hontama,,,0.0
+173712,2026-03-08T09:15Z,Megasaray Hotels Open 3,Anastasia Gasanova,Caroline Werner,,,1.0
+173713,2026-03-08T10:25Z,Megasaray Hotels Open 3,Mia Ristic,Lisa Pigato,,,0.0
+173715,2026-03-08T10:55Z,Megasaray Hotels Open 3,Ekaterina Reyngold,Elena Pridankina,,,0.0
+173714,2026-03-08T11:50Z,Megasaray Hotels Open 3,Dalila Jakupovic,Nuria Parrizas Diaz,,,1.0
+173720,2026-03-09T07:35Z,Megasaray Hotels Open 3,Anastasia Gasanova,Mai Hontama,,,0.0
+173719,2026-03-09T07:35Z,Megasaray Hotels Open 3,Carole Monnet,Lia Karatancheva,,,1.0
+173721,2026-03-09T08:55Z,Megasaray Hotels Open 3,Dalila Jakupovic,Lisa Pigato,,,0.0
+173722,2026-03-09T09:25Z,Megasaray Hotels Open 3,Katarina Zavatska,Elena Pridankina,,,0.0
+173519,2026-03-10T07:35Z,Megasaray Hotels Open 3,Elina Avanesyan,Tiantsoa Rakotomanga Rajaonah,,,1.0
+173514,2026-03-10T07:35Z,Megasaray Hotels Open 3,Arantxa Rus,Ekaterine Gorgodze,,,0.0
+173509,2026-03-10T07:35Z,Megasaray Hotels Open 3,Berfu Cengiz,Dominika Salkova,,,0.0
+173508,2026-03-10T07:35Z,Megasaray Hotels Open 3,Katarzyna Kawa,Despina Papamichail,,,1.0
+173507,2026-03-10T09:00Z,Megasaray Hotels Open 3,Carole Monnet,Iryna Shymanovich,,,1.0
+173511,2026-03-10T09:05Z,Megasaray Hotels Open 3,Teodora Kostovic,Lisa Pigato,,,1.0
+173518,2026-03-10T10:30Z,Megasaray Hotels Open 3,Maria Lourdes Carle,Moyuka Uchijima,,,0.0
+173516,2026-03-10T10:40Z,Megasaray Hotels Open 3,Maria Sara Popa,Tamara Zidansek,,,0.0
+173520,2026-03-10T13:10Z,Megasaray Hotels Open 3,Polina Kudermetova,Guiomar Maristany Zuleta De Reales,,,1.0
+173506,2026-03-11T07:30Z,Megasaray Hotels Open 3,Alina Charaeva,Lia Karatancheva,,,1.0
+173513,2026-03-11T07:35Z,Megasaray Hotels Open 3,Maja Chwalinska,Ada Kumru,,,1.0
+173515,2026-03-11T07:35Z,Megasaray Hotels Open 3,Mai Hontama,Julia Grabher,,,0.0
+173517,2026-03-11T07:35Z,Megasaray Hotels Open 3,Panna Udvardy,Leyre Romero Gormaz,,,0.0
+173512,2026-03-11T09:00Z,Megasaray Hotels Open 3,Anhelina Kalinina,Elena Pridankina,,,1.0
+173510,2026-03-11T09:10Z,Megasaray Hotels Open 3,Lucia Bronzetti,Nuria Brancaccio,,,0.0
+173505,2026-03-11T09:15Z,Megasaray Hotels Open 3,Veronika Erjavec,Ipek Oz,,,1.0
+173527,2026-03-12T07:35Z,Megasaray Hotels Open 3,Maja Chwalinska,Tamara Zidansek,,,0.0
+173523,2026-03-12T07:35Z,Megasaray Hotels Open 3,Carole Monnet,Dominika Salkova,,,1.0
+173522,2026-03-12T07:35Z,Megasaray Hotels Open 3,Ekaterine Gorgodze,Anhelina Kalinina,,,0.0
+173521,2026-03-12T07:35Z,Megasaray Hotels Open 3,Alina Charaeva,Elina Avanesyan,,,1.0
+173528,2026-03-12T09:10Z,Megasaray Hotels Open 3,Polina Kudermetova,Moyuka Uchijima,,,1.0
+173524,2026-03-12T09:10Z,Megasaray Hotels Open 3,Leyre Romero Gormaz,Katarzyna Kawa,,,0.0
+173525,2026-03-12T09:20Z,Megasaray Hotels Open 3,Nuria Brancaccio,Julia Grabher,,,1.0
+173526,2026-03-12T11:10Z,Megasaray Hotels Open 3,Veronika Erjavec,Teodora Kostovic,,,1.0
+173531,2026-03-13T08:00Z,Megasaray Hotels Open 3,Veronika Erjavec,Nuria Brancaccio,,,1.0
+173530,2026-03-13T08:05Z,Megasaray Hotels Open 3,Anhelina Kalinina,Alina Charaeva,,,1.0
+173532,2026-03-13T08:05Z,Megasaray Hotels Open 3,Katarzyna Kawa,Carole Monnet,,,1.0
+173529,2026-03-13T09:45Z,Megasaray Hotels Open 3,Tamara Zidansek,Polina Kudermetova,,,1.0
+173534,2026-03-14T08:05Z,Megasaray Hotels Open 3,Veronika Erjavec,Tamara Zidansek,,,0.0
+173533,2026-03-14T08:10Z,Megasaray Hotels Open 3,Anhelina Kalinina,Katarzyna Kawa,,,1.0
+173535,2026-03-15T08:00Z,Megasaray Hotels Open 3,Anhelina Kalinina,Tamara Zidansek,,,1.0
+174695,2026-03-09T16:10Z,Austin 125 2,Lanlana Tararudee,Malaika Rapolu,,,1.0
+174692,2026-03-09T16:10Z,Austin 125 2,Leolia Jeanjean,Lucrezia Stefanini,,,0.0
+174694,2026-03-09T16:15Z,Austin 125 2,Himeno Sakatsume,Emerson Jones,,,0.0
+174693,2026-03-09T17:25Z,Austin 125 2,Anastasia Zakharova,Sloane Stephens,,,1.0
+173552,2026-03-09T18:05Z,Austin 125 2,Linda Fruhvirtova,Beatriz Haddad Maia,,,1.0
+173557,2026-03-09T18:30Z,Austin 125 2,Yuan Yue,Oksana Selekhmeteva,,,0.0
+173554,2026-03-09T19:50Z,Austin 125 2,Suzan Lamens,Kamilla Rakhimova,,,0.0
+173560,2026-03-09T20:20Z,Austin 125 2,Catherine McNally,Yuliia Starodubtseva,,,1.0
+173559,2026-03-09T21:05Z,Austin 125 2,Renata Zarazua,Anna Blinkova,,,1.0
+173555,2026-03-09T23:30Z,Austin 125 2,Simona Waltert,McCartney Kessler,,,0.0
+173562,2026-03-10T17:20Z,Austin 125 2,Anastasia Zakharova,Viktorija Golubic,,,1.0
+173556,2026-03-10T17:20Z,Austin 125 2,Solana Sierra,Bianca Andreescu,,,0.0
+173563,2026-03-10T17:30Z,Austin 125 2,Dalma Galfi,Lanlana Tararudee,,,0.0
+173565,2026-03-10T19:15Z,Austin 125 2,Lucrezia Stefanini,Sinja Kraus,,,0.0
+173558,2026-03-10T19:25Z,Austin 125 2,Maddison Inglis,Emerson Jones,,,0.0
+173561,2026-03-10T19:30Z,Austin 125 2,Donna Vekic,Petra Marcinko,,,1.0
+173551,2026-03-10T20:55Z,Austin 125 2,Kimberly Birrell,Ella Seidel,,,1.0
+173553,2026-03-10T20:55Z,Austin 125 2,Himeno Sakatsume,Kaja Juvan,,,0.0
+173566,2026-03-10T20:55Z,Austin 125 2,Paula Badosa,Elena-Gabriela Ruse,,,1.0
+173564,2026-03-10T23:35Z,Austin 125 2,Emma Navarro,Lulu Sun,,,0.0
+173572,2026-03-11T17:05Z,Austin 125 2,Bianca Andreescu,Renata Zarazua,,,1.0
+173574,2026-03-11T17:05Z,Austin 125 2,Catherine McNally,Lanlana Tararudee,,,0.0
+173573,2026-03-11T17:10Z,Austin 125 2,Anastasia Zakharova,Linda Fruhvirtova,,,1.0
+173571,2026-03-11T18:25Z,Austin 125 2,Emerson Jones,Donna Vekic,,,1.0
+173567,2026-03-11T19:05Z,Austin 125 2,Kaja Juvan,McCartney Kessler,,,0.0
+173570,2026-03-11T19:40Z,Austin 125 2,Sinja Kraus,Oksana Selekhmeteva,,,1.0
+173568,2026-03-11T20:10Z,Austin 125 2,Kimberly Birrell,Kamilla Rakhimova,,,1.0
+173569,2026-03-11T22:05Z,Austin 125 2,Lulu Sun,Paula Badosa,,,0.0
+173577,2026-03-12T17:05Z,Austin 125 2,Lanlana Tararudee,Anastasia Zakharova,,,1.0
+173578,2026-03-12T18:05Z,Austin 125 2,Kimberly Birrell,McCartney Kessler,,,1.0
+173576,2026-03-12T20:15Z,Austin 125 2,Paula Badosa,Sinja Kraus,,,1.0
+173575,2026-03-12T22:05Z,Austin 125 2,Bianca Andreescu,Emerson Jones,,,1.0
+173580,2026-03-13T20:05Z,Austin 125 2,Lanlana Tararudee,Kimberly Birrell,,,1.0
+173579,2026-03-13T22:25Z,Austin 125 2,Paula Badosa,Bianca Andreescu,,,0.0
+173581,2026-03-14T19:40Z,Austin 125 2,Bianca Andreescu,Lanlana Tararudee,,,0.0
+174750,2026-03-16T14:05Z,Miami Open presented by Itau,Victoria Jimenez Kasintseva,Varvara Lepchenko,,,0.0
+174761,2026-03-16T14:05Z,Miami Open presented by Itau,Katie Volynets,Priscilla Hon,,,1.0
+174762,2026-03-16T14:05Z,Miami Open presented by Itau,Madison Brengle,Linda Fruhvirtova,,,0.0
+174742,2026-03-16T14:10Z,Miami Open presented by Itau,Kimberly Birrell,Viktoriya Tomova,,,1.0
+174747,2026-03-16T14:10Z,Miami Open presented by Itau,Reese Brantmeier,Yuan Yue,,,0.0
+174756,2026-03-16T14:10Z,Miami Open presented by Itau,Ekaterine Gorgodze,Talia Gibson,,,0.0
+174757,2026-03-16T14:10Z,Miami Open presented by Itau,Kamilla Rakhimova,Leolia Jeanjean,,,1.0
+174754,2026-03-16T16:00Z,Miami Open presented by Itau,Ayla Aksu,Aliaksandra Sasnovich,,,0.0
+174752,2026-03-16T16:10Z,Miami Open presented by Itau,Erika Andreeva,Rebecca Sramkova,,,0.0
+174753,2026-03-16T17:45Z,Miami Open presented by Itau,Anastasia Zakharova,Louisa Chirico,,,1.0
+174755,2026-03-16T17:55Z,Miami Open presented by Itau,Renata Zarazua,Martina Trevisan,,,1.0
+174760,2026-03-16T17:55Z,Miami Open presented by Itau,Bianca Andreescu,Suzan Lamens,,,1.0
+174744,2026-03-16T18:00Z,Miami Open presented by Itau,Storm Hunter,Rebeka Masarova,,,0.0
+174764,2026-03-16T19:10Z,Miami Open presented by Itau,Lulu Sun,Maria Timofeeva,,,1.0
+174746,2026-03-16T20:10Z,Miami Open presented by Itau,Marina Melnikova,Elvina Kalieva,,,0.0
+174743,2026-03-16T20:30Z,Miami Open presented by Itau,Lucrezia Stefanini,Diane Parry,,,0.0
+174763,2026-03-16T20:30Z,Miami Open presented by Itau,Whitney Osuigwe,Donna Vekic,,,0.0
+174748,2026-03-16T21:05Z,Miami Open presented by Itau,Ella Seidel,Marina Stakusic,,,1.0
+174759,2026-03-16T21:05Z,Miami Open presented by Itau,Darja Semenistaja,Monika Ekstrand,,,1.0
+174745,2026-03-16T21:40Z,Miami Open presented by Itau,Viktorija Golubic,Thea Frodin,,,1.0
+174765,2026-03-16T22:00Z,Miami Open presented by Itau,Lola Radivojevic,Sinja Kraus,,,0.0
+174749,2026-03-16T22:15Z,Miami Open presented by Itau,Caroline Dolehide,Nikola Bartunkova,,,0.0
+174758,2026-03-16T22:50Z,Miami Open presented by Itau,Kaja Juvan,Mary Stoiana,,,0.0
+174751,2026-03-16T23:20Z,Miami Open presented by Itau,Maddison Inglis,Yuliia Starodubtseva,,,0.0
+174771,2026-03-17T15:05Z,Miami Open presented by Itau,Anastasia Zakharova,Rebecca Sramkova,,,1.0
+174776,2026-03-17T15:05Z,Miami Open presented by Itau,Kamilla Rakhimova,Talia Gibson,,,0.0
+174766,2026-03-17T15:10Z,Miami Open presented by Itau,Katie Volynets,Bianca Andreescu,,,1.0
+174767,2026-03-17T15:10Z,Miami Open presented by Itau,Varvara Lepchenko,Linda Fruhvirtova,,,0.0
+174772,2026-03-17T15:10Z,Miami Open presented by Itau,Kimberly Birrell,Yuan Yue,,,1.0
+174775,2026-03-17T15:10Z,Miami Open presented by Itau,Renata Zarazua,Aliaksandra Sasnovich,,,0.0
+174769,2026-03-17T16:30Z,Miami Open presented by Itau,Ella Seidel,Rebeka Masarova,,,0.0
+173065,2026-03-17T16:50Z,Miami Open presented by Itau,Darja Vidmanova,Elsa Jacquemot,,,0.0
+174773,2026-03-17T17:00Z,Miami Open presented by Itau,Lulu Sun,Donna Vekic,,,1.0
+173038,2026-03-17T17:10Z,Miami Open presented by Itau,Simona Waltert,Ajla Tomljanovic,,,0.0
+174768,2026-03-17T17:20Z,Miami Open presented by Itau,Elvina Kalieva,Diane Parry,,,1.0
+173026,2026-03-17T17:55Z,Miami Open presented by Itau,Magda Linette,Varvara Gracheva,,,1.0
+174770,2026-03-17T19:05Z,Miami Open presented by Itau,Viktorija Golubic,Nikola Bartunkova,,,1.0
+174777,2026-03-17T19:30Z,Miami Open presented by Itau,Darja Semenistaja,Sinja Kraus,,,0.0
+174774,2026-03-17T19:45Z,Miami Open presented by Itau,Mary Stoiana,Yuliia Starodubtseva,,,0.0
+173059,2026-03-17T20:00Z,Miami Open presented by Itau,McCartney Kessler,Magdalena Frech,,,1.0
+173013,2026-03-17T20:50Z,Miami Open presented by Itau,Laura Siegemund,Petra Marcinko,,,1.0
+173012,2026-03-17T21:10Z,Miami Open presented by Itau,Katie Boulter,Jessica Bouzas Maneiro,,,1.0
+173048,2026-03-17T22:45Z,Miami Open presented by Itau,Zhang Shuai,Sorana Cirstea,,,0.0
+173043,2026-03-17T23:10Z,Miami Open presented by Itau,Zeynep Sonmez,Beatriz Haddad Maia,,,1.0
+173008,2026-03-17T23:15Z,Miami Open presented by Itau,Sofia Kenin,Anna Blinkova,,,0.0
+173009,2026-03-18T00:55Z,Miami Open presented by Itau,Katerina Siniakova,Camila Osorio,,,0.0
+173005,2026-03-19T14:05Z,Miami Open presented by Itau,Sara Bejlek,Talia Gibson,,,0.0
+173007,2026-03-19T14:05Z,Miami Open presented by Itau,Paula Badosa,Aliaksandra Sasnovich,,,1.0
+173044,2026-03-19T15:05Z,Miami Open presented by Itau,Tereza Valentova,Katie Volynets,,,1.0
+173050,2026-03-19T15:05Z,Miami Open presented by Itau,Alycia Parks,Sinja Kraus,,,1.0
+173047,2026-03-19T15:35Z,Miami Open presented by Itau,Dalma Galfi,Elvina Kalieva,,,0.0
+173022,2026-03-19T16:10Z,Miami Open presented by Itau,Anastasia Zakharova,Anna Bondar,,,1.0
+173071,2026-03-19T16:10Z,Miami Open presented by Itau,Alexandra Eala,Laura Siegemund,,,1.0
+173037,2026-03-19T16:15Z,Miami Open presented by Itau,Eva Lys,Yuliia Starodubtseva,,,0.0
+173057,2026-03-19T16:20Z,Miami Open presented by Itau,Darja Semenistaja,Elisabetta Cocciaretto,,,0.0
+173035,2026-03-19T17:15Z,Miami Open presented by Itau,Francesca Jones,Venus Williams,,,1.0
+173031,2026-03-19T17:55Z,Miami Open presented by Itau,Viktorija Golubic,Peyton Stearns,,,0.0
+173028,2026-03-19T18:55Z,Miami Open presented by Itau,Lilli Tagger,Ella Seidel,,,1.0
+173032,2026-03-19T19:10Z,Miami Open presented by Itau,Emiliana Arango,Oksana Selekhmeteva,,,0.0
+173020,2026-03-19T20:05Z,Miami Open presented by Itau,Janice Tjen,Yulia Putintseva,,,0.0
+173023,2026-03-19T20:05Z,Miami Open presented by Itau,Ann Li,Kimberly Birrell,,,1.0
+173053,2026-03-19T20:50Z,Miami Open presented by Itau,Hailey Baptiste,Tatjana Maria,,,1.0
+173040,2026-03-19T21:40Z,Miami Open presented by Itau,Catherine McNally,Rebeka Masarova,,,1.0
+173019,2026-03-19T21:55Z,Miami Open presented by Itau,Solana Sierra,Kamilla Rakhimova,,,0.0
+173016,2026-03-19T22:10Z,Miami Open presented by Itau,Dayana Yastremska,Ashlyn Krueger,,,1.0
+173070,2026-03-19T22:10Z,Miami Open presented by Itau,Magda Linette,Iga Swiatek,,,1.0
+173015,2026-03-19T22:25Z,Miami Open presented by Itau,Lulu Sun,Taylor Townsend,,,0.0
+173094,2026-03-19T22:35Z,Miami Open presented by Itau,Elsa Jacquemot,Marie Bouzkova,,,0.0
+173064,2026-03-19T23:30Z,Miami Open presented by Itau,Elena-Gabriela Ruse,Antonia Ruzic,,,1.0
+173066,2026-03-19T23:50Z,Miami Open presented by Itau,Emerson Jones,Linda Fruhvirtova,,,1.0
+173058,2026-03-19T23:55Z,Miami Open presented by Itau,Jennifer Brady,Sloane Stephens,,,0.0
+173091,2026-03-20T02:40Z,Miami Open presented by Itau,Mirra Andreeva,McCartney Kessler,,,1.0
+173096,2026-03-20T14:35Z,Miami Open presented by Itau,Anna Blinkova,Victoria Mboko,,,0.0
+173087,2026-03-20T14:40Z,Miami Open presented by Itau,Diana Shnaider,Tereza Valentova,,,1.0
+173093,2026-03-20T14:40Z,Miami Open presented by Itau,Anna Kalinskaya,Anastasia Zakharova,,,0.0
+173097,2026-03-20T14:40Z,Miami Open presented by Itau,Linda Noskova,Sorana Cirstea,,,0.0
+173098,2026-03-20T14:40Z,Miami Open presented by Itau,Zeynep Sonmez,Belinda Bencic,,,0.0
+173086,2026-03-20T16:40Z,Miami Open presented by Itau,Amanda Anisimova,Ajla Tomljanovic,,,1.0
+173099,2026-03-20T18:10Z,Miami Open presented by Itau,Maria Sakkari,Alycia Parks,,,0.0
+173069,2026-03-20T18:20Z,Miami Open presented by Itau,Katie Boulter,Clara Tauson,,,1.0
+173085,2026-03-20T20:20Z,Miami Open presented by Itau,Yuliia Starodubtseva,Cristina Bucsa,,,1.0
+173079,2026-03-20T20:30Z,Miami Open presented by Itau,Taylor Townsend,Jasmine Paolini,,,0.0
+173095,2026-03-20T20:30Z,Miami Open presented by Itau,Karolina Muchova,Camila Osorio,,,1.0
+173100,2026-03-20T20:30Z,Miami Open presented by Itau,Elvina Kalieva,Elise Mertens,,,0.0
+173092,2026-03-20T21:05Z,Miami Open presented by Itau,Elisabetta Cocciaretto,Coco Gauff,,,0.0
+173077,2026-03-20T21:20Z,Miami Open presented by Itau,Hailey Baptiste,Liudmila Samsonova,,,1.0
+173076,2026-03-20T21:55Z,Miami Open presented by Itau,Jelena Ostapenko,Dayana Yastremska,,,1.0
+173082,2026-03-20T22:50Z,Miami Open presented by Itau,Ekaterina Alexandrova,Lilli Tagger,,,1.0
+173073,2026-03-20T23:45Z,Miami Open presented by Itau,Catherine McNally,Wang Xinyu,,,1.0
+173074,2026-03-20T23:45Z,Miami Open presented by Itau,Elina Svitolina,Emerson Jones,,,1.0
+173088,2026-03-21T00:15Z,Miami Open presented by Itau,Kamilla Rakhimova,Marta Kostyuk,,,0.0
+173080,2026-03-21T00:25Z,Miami Open presented by Itau,Aryna Sabalenka,Ann Li,,,1.0
+173081,2026-03-21T01:50Z,Miami Open presented by Itau,Peyton Stearns,Jaqueline Cristian,,,0.0
+173078,2026-03-21T02:20Z,Miami Open presented by Itau,Elena Rybakina,Yulia Putintseva,,,1.0
+173084,2026-03-21T15:05Z,Miami Open presented by Itau,Leylah Fernandez,Oksana Selekhmeteva,,,1.0
+173090,2026-03-21T15:05Z,Miami Open presented by Itau,Iva Jovic,Paula Badosa,,,1.0
+173083,2026-03-21T16:10Z,Miami Open presented by Itau,Francesca Jones,Jessica Pegula,,,0.0
+173072,2026-03-21T16:45Z,Miami Open presented by Itau,Zheng Qinwen,Sloane Stephens,,,1.0
+173075,2026-03-21T17:35Z,Miami Open presented by Itau,Elena-Gabriela Ruse,Madison Keys,,,0.0
+173089,2026-03-21T17:50Z,Miami Open presented by Itau,Talia Gibson,Naomi Osaka,,,1.0
+173115,2026-03-21T18:15Z,Miami Open presented by Itau,Diana Shnaider,Belinda Bencic,,,0.0
+173116,2026-03-21T18:25Z,Miami Open presented by Itau,Mirra Andreeva,Marie Bouzkova,,,1.0
+173112,2026-03-21T19:10Z,Miami Open presented by Itau,Amanda Anisimova,Yuliia Starodubtseva,,,1.0
+173109,2026-03-21T19:40Z,Miami Open presented by Itau,Anastasia Zakharova,Victoria Mboko,,,0.0
+173108,2026-03-21T20:05Z,Miami Open presented by Itau,Karolina Muchova,Katie Boulter,,,1.0
+173114,2026-03-21T20:40Z,Miami Open presented by Itau,Sorana Cirstea,Elise Mertens,,,1.0
+173111,2026-03-21T20:50Z,Miami Open presented by Itau,Alexandra Eala,Magda Linette,,,1.0
+173117,2026-03-21T23:05Z,Miami Open presented by Itau,Alycia Parks,Coco Gauff,,,0.0
+173101,2026-03-22T15:05Z,Miami Open presented by Itau,Jelena Ostapenko,Jasmine Paolini,,,1.0
+173105,2026-03-22T15:05Z,Miami Open presented by Itau,Ekaterina Alexandrova,Jaqueline Cristian,,,0.0
+173113,2026-03-22T16:10Z,Miami Open presented by Itau,Leylah Fernandez,Jessica Pegula,,,0.0
+173102,2026-03-22T17:40Z,Miami Open presented by Itau,Elina Svitolina,Hailey Baptiste,,,0.0
+173103,2026-03-22T18:05Z,Miami Open presented by Itau,Iva Jovic,Talia Gibson,,,0.0
+173104,2026-03-22T19:35Z,Miami Open presented by Itau,Elena Rybakina,Marta Kostyuk,,,1.0
+173106,2026-03-22T21:15Z,Miami Open presented by Itau,Zheng Qinwen,Madison Keys,,,1.0
+173107,2026-03-22T23:05Z,Miami Open presented by Itau,Aryna Sabalenka,Catherine McNally,,,1.0
+173126,2026-03-23T15:05Z,Miami Open presented by Itau,Karolina Muchova,Alexandra Eala,,,1.0
+173127,2026-03-23T16:50Z,Miami Open presented by Itau,Mirra Andreeva,Victoria Mboko,,,0.0
+173124,2026-03-23T18:45Z,Miami Open presented by Itau,Sorana Cirstea,Coco Gauff,,,0.0
+173121,2026-03-23T19:35Z,Miami Open presented by Itau,Hailey Baptiste,Jelena Ostapenko,,,1.0
+173110,2026-03-23T21:15Z,Miami Open presented by Itau,Aryna Sabalenka,Zheng Qinwen,,,1.0
+173122,2026-03-23T21:15Z,Miami Open presented by Itau,Jaqueline Cristian,Jessica Pegula,,,0.0
+173123,2026-03-24T01:00Z,Miami Open presented by Itau,Elena Rybakina,Talia Gibson,,,1.0
+173125,2026-03-24T01:05Z,Miami Open presented by Itau,Amanda Anisimova,Belinda Bencic,,,0.0
+173129,2026-03-24T18:50Z,Miami Open presented by Itau,Victoria Mboko,Karolina Muchova,,,0.0
+173120,2026-03-24T23:25Z,Miami Open presented by Itau,Belinda Bencic,Coco Gauff,,,0.0
+173118,2026-03-25T17:10Z,Miami Open presented by Itau,Elena Rybakina,Jessica Pegula,,,1.0
+173119,2026-03-25T23:05Z,Miami Open presented by Itau,Aryna Sabalenka,Hailey Baptiste,,,1.0
+173131,2026-03-26T19:05Z,Miami Open presented by Itau,Coco Gauff,Karolina Muchova,,,1.0
+173128,2026-03-27T00:35Z,Miami Open presented by Itau,Aryna Sabalenka,Elena Rybakina,,,1.0
+173130,2026-03-28T19:00Z,Miami Open presented by Itau,Aryna Sabalenka,Coco Gauff,,,1.0
+174838,2026-03-16T14:05Z,Miami Open presented by Itau,Bu Yunchaokete,Tristan Schoolkate,,,1.0
+174839,2026-03-16T14:10Z,Miami Open presented by Itau,Roman Andres Burruchaga,Arthur Fery,,,0.0
+174825,2026-03-16T16:25Z,Miami Open presented by Itau,Benjamin Willwerth,Luca Van Assche,,,0.0
+174819,2026-03-16T17:10Z,Miami Open presented by Itau,Jack Pinnington Jones,Chak Lam Coleman Wong,,,0.0
+174820,2026-03-16T17:30Z,Miami Open presented by Itau,Ignacio Buse,Moez Echargui,,,1.0
+174821,2026-03-16T17:55Z,Miami Open presented by Itau,Yannick Hanfmann,Leandro Riedi,,,1.0
+174835,2026-03-16T18:10Z,Miami Open presented by Itau,Alex Bolt,Sho Shimabukuro,,,0.0
+174833,2026-03-16T18:35Z,Miami Open presented by Itau,Nicolas Mejia,Christopher O'Connell,,,0.0
+174827,2026-03-16T19:30Z,Miami Open presented by Itau,Jay Clarke,Shintaro Mochizuki,,,1.0
+174828,2026-03-16T20:05Z,Miami Open presented by Itau,Cristian Garin,Liam Draxl,,,0.0
+174836,2026-03-16T20:30Z,Miami Open presented by Itau,Patrick Kypson,Nikoloz Basilashvili,,,0.0
+174834,2026-03-16T20:45Z,Miami Open presented by Itau,Alexander Blockx,Chun-Hsin Tseng,,,1.0
+174824,2026-03-16T22:05Z,Miami Open presented by Itau,Thiago Agustin Tirante,Diego Dedura,,,1.0
+174840,2026-03-16T22:35Z,Miami Open presented by Itau,Guto Miguel,Benjamin Bonzi,,,0.0
+174841,2026-03-16T23:40Z,Miami Open presented by Itau,Rafael Jodar,Manas Dhamne,,,1.0
+174842,2026-03-16T23:40Z,Miami Open presented by Itau,Daniel Merida,Dalibor Svrcina,,,1.0
+174832,2026-03-17T00:10Z,Miami Open presented by Itau,Dane Sweeny,Rinky Hijikata,,,0.0
+174830,2026-03-17T00:20Z,Miami Open presented by Itau,Murphy Cassone,Francesco Maestrelli,,,1.0
+174823,2026-03-17T00:30Z,Miami Open presented by Itau,Martin Landaluce,Mackenzie McDonald,,,1.0
+174826,2026-03-17T00:35Z,Miami Open presented by Itau,Adam Walton,Chris Rodesch,,,1.0
+174829,2026-03-17T01:10Z,Miami Open presented by Itau,Nishesh Basavareddy,Tomas Barrios Vera,,,0.0
+174831,2026-03-17T01:25Z,Miami Open presented by Itau,Mattia Bellucci,Nicolas Jarry,,,1.0
+174849,2026-03-17T15:10Z,Miami Open presented by Itau,Yannick Hanfmann,Luca Van Assche,,,1.0
+174851,2026-03-17T15:10Z,Miami Open presented by Itau,Arthur Fery,Bu Yunchaokete,,,1.0
+174843,2026-03-17T15:15Z,Miami Open presented by Itau,Ignacio Buse,Chak Lam Coleman Wong,,,1.0
+174850,2026-03-17T17:20Z,Miami Open presented by Itau,Alexander Blockx,Christopher O'Connell,,,0.0
+174822,2026-03-17T17:35Z,Miami Open presented by Itau,Aleksandar Vukic,Billy Harris,,,1.0
+174837,2026-03-17T18:10Z,Miami Open presented by Itau,Zachary Svajda,Colton Smith,,,1.0
+174853,2026-03-17T19:20Z,Miami Open presented by Itau,Nikoloz Basilashvili,Sho Shimabukuro,,,1.0
+174845,2026-03-17T19:50Z,Miami Open presented by Itau,Liam Draxl,Jay Clarke,,,1.0
+174852,2026-03-17T20:10Z,Miami Open presented by Itau,Rafael Jodar,Benjamin Bonzi,,,1.0
+174848,2026-03-17T21:00Z,Miami Open presented by Itau,Adam Walton,Rinky Hijikata,,,1.0
+174846,2026-03-17T21:15Z,Miami Open presented by Itau,Mattia Bellucci,Murphy Cassone,,,1.0
+174844,2026-03-17T21:45Z,Miami Open presented by Itau,Aleksandar Vukic,Tomas Barrios Vera,,,0.0
+174847,2026-03-17T21:55Z,Miami Open presented by Itau,Zachary Svajda,Daniel Merida,,,1.0
+174854,2026-03-17T22:45Z,Miami Open presented by Itau,Thiago Agustin Tirante,Martin Landaluce,,,0.0
+173132,2026-03-19T14:10Z,Miami Open presented by Itau,James Duckworth,Roberto Bautista Agut,,,0.0
+173145,2026-03-19T14:10Z,Miami Open presented by Itau,Moise Kouame,Zachary Svajda,,,1.0
+173153,2026-03-19T14:10Z,Miami Open presented by Itau,Rafael Jodar,Yannick Hanfmann,,,1.0
+173172,2026-03-19T14:10Z,Miami Open presented by Itau,Nikoloz Basilashvili,Mariano Navone,,,0.0
+173161,2026-03-19T15:10Z,Miami Open presented by Itau,Zizou Bergs,Jenson Brooksby,,,1.0
+173162,2026-03-19T16:35Z,Miami Open presented by Itau,Zhang Zhizhen,Adrian Mannarino,,,0.0
+173146,2026-03-19T16:50Z,Miami Open presented by Itau,Ethan Quinn,Hubert Hurkacz,,,1.0
+173173,2026-03-19T16:55Z,Miami Open presented by Itau,Darwin Blanch,Jan-Lennard Struff,,,1.0
+173181,2026-03-19T17:00Z,Miami Open presented by Itau,Marcos Giron,Martin Landaluce,,,0.0
+173195,2026-03-19T17:55Z,Miami Open presented by Itau,Giovanni Mpetshi Perricard,Camilo Ugo Carabelli,,,0.0
+173149,2026-03-19T18:05Z,Miami Open presented by Itau,Denis Shapovalov,Botic Van De Zandschulp,,,0.0
+173167,2026-03-19T18:15Z,Miami Open presented by Itau,Alexandre Muller,Matteo Berrettini,,,0.0
+173151,2026-03-19T18:30Z,Miami Open presented by Itau,Reilly Opelka,Nuno Borges,,,1.0
+173176,2026-03-19T19:00Z,Miami Open presented by Itau,Stefanos Tsitsipas,Arthur Fery,,,1.0
+173166,2026-03-19T19:30Z,Miami Open presented by Itau,Raphael Collignon,Grigor Dimitrov,,,1.0
+173157,2026-03-19T19:55Z,Miami Open presented by Itau,Ignacio Buse,Damir Dzumhur,,,0.0
+173191,2026-03-19T19:55Z,Miami Open presented by Itau,Fabian Marozsan,Joao Fonseca,,,0.0
+173133,2026-03-19T20:00Z,Miami Open presented by Itau,Marin Cilic,Alexei Popyrin,,,1.0
+173152,2026-03-19T20:50Z,Miami Open presented by Itau,Martin Damm,Jacob Fearnley,,,1.0
+173158,2026-03-19T21:55Z,Miami Open presented by Itau,Emilio Nava,Tomas Machac,,,0.0
+173187,2026-03-19T22:00Z,Miami Open presented by Itau,Kamil Majchrzak,Miomir Kecmanovic,,,1.0
+173170,2026-03-19T22:20Z,Miami Open presented by Itau,Alejandro Tabilo,Francisco Comesana,,,1.0
+173188,2026-03-19T22:50Z,Miami Open presented by Itau,Quentin Halys,Liam Draxl,,,1.0
+173168,2026-03-20T01:15Z,Miami Open presented by Itau,Alex Michelsen,Mattia Bellucci,,,1.0
+173138,2026-03-20T14:40Z,Miami Open presented by Itau,Terence Atmane,Daniel Altmaier,,,1.0
+173184,2026-03-20T14:40Z,Miami Open presented by Itau,Valentin Royer,Thiago Agustin Tirante,,,0.0
+173182,2026-03-20T16:40Z,Miami Open presented by Itau,Aleksandar Kovacevic,Rei Sakamoto,,,0.0
+173217,2026-03-20T17:35Z,Miami Open presented by Itau,Casper Ruud,Ethan Quinn,,,0.0
+173134,2026-03-20T18:30Z,Miami Open presented by Itau,Christopher O'Connell,Marton Fucsovics,,,0.0
+173213,2026-03-20T19:55Z,Miami Open presented by Itau,Tommy Paul,Adrian Mannarino,,,1.0
+173209,2026-03-20T20:35Z,Miami Open presented by Itau,Jack Draper,Reilly Opelka,,,0.0
+173180,2026-03-20T21:35Z,Miami Open presented by Itau,Gabriel Diallo,Wu Yibing,,,1.0
+173142,2026-03-20T21:55Z,Miami Open presented by Itau,Adam Walton,Sebastian Baez,,,1.0
+173177,2026-03-20T21:55Z,Miami Open presented by Itau,Matteo Arnaldi,Aleksandr Shevchenko,,,0.0
+173223,2026-03-20T22:25Z,Miami Open presented by Itau,Alexander Bublik,Matteo Berrettini,,,0.0
+173208,2026-03-20T22:35Z,Miami Open presented by Itau,Botic Van De Zandschulp,Taylor Fritz,,,0.0
+173214,2026-03-20T22:40Z,Miami Open presented by Itau,Roberto Bautista Agut,Karen Khachanov,,,0.0
+173139,2026-03-20T23:25Z,Miami Open presented by Itau,Arthur Cazaux,Tomas Barrios Vera,,,1.0
+173224,2026-03-20T23:25Z,Miami Open presented by Itau,Arthur Fils,Darwin Blanch,,,1.0
+173207,2026-03-21T00:10Z,Miami Open presented by Itau,Camilo Ugo Carabelli,Sebastian Korda,,,0.0
+173206,2026-03-21T00:25Z,Miami Open presented by Itau,Carlos Alcaraz,Joao Fonseca,,,1.0
+173212,2026-03-21T00:50Z,Miami Open presented by Itau,Raphael Collignon,Flavio Cobolli,,,1.0
+173227,2026-03-21T01:00Z,Miami Open presented by Itau,Stefanos Tsitsipas,Alex de Minaur,,,1.0
+173216,2026-03-21T01:20Z,Miami Open presented by Itau,Moise Kouame,Jiri Lehecka,,,0.0
+173215,2026-03-21T01:40Z,Miami Open presented by Itau,Luciano Darderi,Martin Landaluce,,,0.0
+173225,2026-03-21T01:55Z,Miami Open presented by Itau,Mariano Navone,Valentin Vacherot,,,0.0
+173210,2026-03-21T15:10Z,Miami Open presented by Itau,Zizou Bergs,Tomas Martin Etcheverry,,,0.0
+173211,2026-03-21T15:10Z,Miami Open presented by Itau,Aleksandar Vukic,Rafael Jodar,,,0.0
+173220,2026-03-21T15:10Z,Miami Open presented by Itau,Alejandro Davidovich Fokina,Quentin Halys,,,0.0
+173222,2026-03-21T15:10Z,Miami Open presented by Itau,Kamil Majchrzak,Learner Tien,,,1.0
+173202,2026-03-21T16:25Z,Miami Open presented by Itau,Terence Atmane,Arthur Rinderknech,,,1.0
+173198,2026-03-21T17:15Z,Miami Open presented by Itau,Damir Dzumhur,Jannik Sinner,,,0.0
+173203,2026-03-21T17:25Z,Miami Open presented by Itau,Felix Auger-Aliassime,Marton Fucsovics,,,1.0
+173199,2026-03-21T18:10Z,Miami Open presented by Itau,Corentin Moutet,Tomas Machac,,,1.0
+173221,2026-03-21T18:50Z,Miami Open presented by Itau,Rei Sakamoto,Daniil Medvedev,,,0.0
+173196,2026-03-21T19:55Z,Miami Open presented by Itau,Alex Michelsen,Cameron Norrie,,,1.0
+173197,2026-03-21T20:20Z,Miami Open presented by Itau,Andrey Rublev,Alejandro Tabilo,,,0.0
+173204,2026-03-21T21:25Z,Miami Open presented by Itau,Adam Walton,Jakub Mensik,,,0.0
+173218,2026-03-21T22:50Z,Miami Open presented by Itau,Francisco Cerundolo,Thiago Agustin Tirante,,,1.0
+173219,2026-03-21T22:55Z,Miami Open presented by Itau,Gabriel Diallo,Ugo Humbert,,,0.0
+173226,2026-03-21T23:10Z,Miami Open presented by Itau,Ben Shelton,Aleksandr Shevchenko,,,0.0
+173205,2026-03-21T23:40Z,Miami Open presented by Itau,Frances Tiafoe,Arthur Cazaux,,,1.0
+173201,2026-03-22T00:20Z,Miami Open presented by Itau,Brandon Nakashima,Marin Cilic,,,0.0
+173200,2026-03-22T01:20Z,Miami Open presented by Itau,Martin Damm,Alexander Zverev,,,0.0
+173233,2026-03-22T15:10Z,Miami Open presented by Itau,Ethan Quinn,Jiri Lehecka,,,0.0
+173236,2026-03-22T17:40Z,Miami Open presented by Itau,Reilly Opelka,Taylor Fritz,,,0.0
+173235,2026-03-22T18:00Z,Miami Open presented by Itau,Rafael Jodar,Tomas Martin Etcheverry,,,0.0
+173232,2026-03-22T19:05Z,Miami Open presented by Itau,Carlos Alcaraz,Sebastian Korda,,,0.0
+173238,2026-03-22T20:10Z,Miami Open presented by Itau,Tommy Paul,Raphael Collignon,,,1.0
+173234,2026-03-22T22:50Z,Miami Open presented by Itau,Martin Landaluce,Karen Khachanov,,,1.0
+173237,2026-03-22T23:55Z,Miami Open presented by Itau,Matteo Berrettini,Valentin Vacherot,,,0.0
+173230,2026-03-23T00:55Z,Miami Open presented by Itau,Arthur Fils,Stefanos Tsitsipas,,,1.0
+173229,2026-03-23T15:10Z,Miami Open presented by Itau,Aleksandr Shevchenko,Ugo Humbert,,,0.0
+173231,2026-03-23T16:10Z,Miami Open presented by Itau,Francisco Cerundolo,Daniil Medvedev,,,1.0
+173244,2026-03-23T16:30Z,Miami Open presented by Itau,Felix Auger-Aliassime,Terence Atmane,,,0.0
+173243,2026-03-23T18:45Z,Miami Open presented by Itau,Frances Tiafoe,Jakub Mensik,,,1.0
+173246,2026-03-23T20:10Z,Miami Open presented by Itau,Alejandro Tabilo,Alex Michelsen,,,0.0
+173241,2026-03-23T22:00Z,Miami Open presented by Itau,Marin Cilic,Alexander Zverev,,,0.0
+173242,2026-03-23T22:45Z,Miami Open presented by Itau,Quentin Halys,Kamil Majchrzak,,,1.0
+173245,2026-03-23T23:30Z,Miami Open presented by Itau,Corentin Moutet,Jannik Sinner,,,0.0
+173248,2026-03-24T15:10Z,Miami Open presented by Itau,Sebastian Korda,Martin Landaluce,,,0.0
+173247,2026-03-24T16:10Z,Miami Open presented by Itau,Jiri Lehecka,Taylor Fritz,,,1.0
+173239,2026-03-24T18:00Z,Miami Open presented by Itau,Valentin Vacherot,Arthur Fils,,,0.0
+173240,2026-03-24T20:35Z,Miami Open presented by Itau,Tomas Martin Etcheverry,Tommy Paul,,,0.0
+173254,2026-03-24T21:00Z,Miami Open presented by Itau,Alex Michelsen,Jannik Sinner,,,0.0
+173251,2026-03-24T22:15Z,Miami Open presented by Itau,Terence Atmane,Frances Tiafoe,,,0.0
+173249,2026-03-25T00:30Z,Miami Open presented by Itau,Ugo Humbert,Francisco Cerundolo,,,0.0
+173252,2026-03-25T02:05Z,Miami Open presented by Itau,Quentin Halys,Alexander Zverev,,,0.0
+173253,2026-03-25T19:45Z,Miami Open presented by Itau,Martin Landaluce,Jiri Lehecka,,,0.0
+173256,2026-03-26T00:50Z,Miami Open presented by Itau,Tommy Paul,Arthur Fils,,,0.0
+173258,2026-03-26T17:10Z,Miami Open presented by Itau,Frances Tiafoe,Jannik Sinner,,,0.0
+173255,2026-03-26T23:10Z,Miami Open presented by Itau,Francisco Cerundolo,Alexander Zverev,,,0.0
+173257,2026-03-27T19:10Z,Miami Open presented by Itau,Jiri Lehecka,Arthur Fils,,,1.0
+173250,2026-03-27T23:10Z,Miami Open presented by Itau,Alexander Zverev,Jannik Sinner,,,0.0
+173228,2026-03-29T20:30Z,Miami Open presented by Itau,Jiri Lehecka,Jannik Sinner,,,0.0
+174861,2026-03-22T10:05Z,Dubrovnik Open,Noma Noha Akugue,Min Liu,,,1.0
+174862,2026-03-22T10:05Z,Dubrovnik Open,Katarzyna Piter,Mia Ristic,,,0.0
+174855,2026-03-22T10:35Z,Dubrovnik Open,Tara Wuerth,Vlada Kozak,,,1.0
+174857,2026-03-22T11:35Z,Dubrovnik Open,Marina Bassols Ribera,Jule Niemeier,,,0.0
+174859,2026-03-22T11:50Z,Dubrovnik Open,Sada Nahimana,Sara Sorribes Tormo,,,0.0
+174856,2026-03-22T11:50Z,Dubrovnik Open,Anastasia Detiuc,Amarissa Toth,,,0.0
+174858,2026-03-22T13:20Z,Dubrovnik Open,Nika Radisic,Polona Hercog,,,0.0
+174865,2026-03-23T09:05Z,Dubrovnik Open,Tara Wuerth,Amarissa Toth,,,0.0
+174866,2026-03-23T09:05Z,Dubrovnik Open,Noma Noha Akugue,Mia Ristic,,,0.0
+174863,2026-03-23T09:10Z,Dubrovnik Open,Jule Niemeier,Polona Hercog,,,0.0
+173599,2026-03-23T10:30Z,Dubrovnik Open,Dominika Salkova,Kaitlin Quevedo,,,0.0
+173604,2026-03-23T10:35Z,Dubrovnik Open,Guiomar Maristany Zuleta De Reales,Veronika Erjavec,,,0.0
+174864,2026-03-23T11:15Z,Dubrovnik Open,Sara Sorribes Tormo,Ana Petkovic,,,1.0
+173595,2026-03-23T12:30Z,Dubrovnik Open,Maja Chwalinska,Tamara Zidansek,,,0.0
+173594,2026-03-23T12:45Z,Dubrovnik Open,Lola Radivojevic,Alina Charaeva,,,0.0
+173589,2026-03-23T12:55Z,Dubrovnik Open,Yasmine Kabbaj,Suzan Lamens,,,0.0
+173603,2026-03-23T14:05Z,Dubrovnik Open,Mayar Sherif,Noma Noha Akugue,,,1.0
+173590,2026-03-23T14:25Z,Dubrovnik Open,Leyre Romero Gormaz,Lina Gjorcheska,,,1.0
+173600,2026-03-24T10:05Z,Dubrovnik Open,Amarissa Toth,Andrea Lazaro Garcia,,,0.0
+173601,2026-03-24T10:05Z,Dubrovnik Open,Tiantsoa Rakotomanga Rajaonah,Sara Sorribes Tormo,,,0.0
+173602,2026-03-24T10:05Z,Dubrovnik Open,Lucija Ciric Bagaric,Mia Ristic,,,0.0
+173598,2026-03-24T11:20Z,Dubrovnik Open,Tena Lukas,Anastasia Pavlyuchenkova,,,1.0
+173591,2026-03-24T12:00Z,Dubrovnik Open,Anhelina Kalinina,Lucia Bronzetti,,,1.0
+173597,2026-03-24T13:55Z,Dubrovnik Open,Ana Konjuh,Tamara Korpatsch,,,0.0
+173592,2026-03-24T14:20Z,Dubrovnik Open,Elena Pridankina,Polona Hercog,,,0.0
+173596,2026-03-24T15:40Z,Dubrovnik Open,Petra Marcinko,Teodora Kostovic,,,0.0
+173593,2026-03-24T15:55Z,Dubrovnik Open,Nuria Brancaccio,Lisa Pigato,,,1.0
+173605,2026-03-25T10:05Z,Dubrovnik Open,Mayar Sherif,Mia Ristic,,,1.0
+173612,2026-03-25T11:05Z,Dubrovnik Open,Leyre Romero Gormaz,Suzan Lamens,,,1.0
+173610,2026-03-25T12:10Z,Dubrovnik Open,Tamara Zidansek,Sara Sorribes Tormo,,,1.0
+173609,2026-03-25T15:40Z,Dubrovnik Open,Kaitlin Quevedo,Veronika Erjavec,,,0.0
+173608,2026-03-26T09:35Z,Dubrovnik Open,Anhelina Kalinina,Nuria Brancaccio,,,1.0
+173607,2026-03-27T13:35Z,Dubrovnik Open,Polona Hercog,Tamara Korpatsch,,,1.0
+173611,2026-03-27T13:35Z,Dubrovnik Open,Teodora Kostovic,Alina Charaeva,,,0.0
+173606,2026-03-27T15:00Z,Dubrovnik Open,Andrea Lazaro Garcia,Tena Lukas,,,1.0
+173615,2026-03-27T15:05Z,Dubrovnik Open,Tamara Zidansek,Veronika Erjavec,,,1.0
+173613,2026-03-27T16:25Z,Dubrovnik Open,Mayar Sherif,Leyre Romero Gormaz,,,1.0
+173616,2026-03-27T17:10Z,Dubrovnik Open,Anhelina Kalinina,Polona Hercog,,,1.0
+173614,2026-03-27T19:05Z,Dubrovnik Open,Alina Charaeva,Andrea Lazaro Garcia,,,0.0
+173619,2026-03-28T13:05Z,Dubrovnik Open,Anhelina Kalinina,Tamara Zidansek,,,1.0
+173617,2026-03-28T13:05Z,Dubrovnik Open,Andrea Lazaro Garcia,Mayar Sherif,,,1.0
+173618,2026-03-29T13:05Z,Dubrovnik Open,Andrea Lazaro Garcia,Anhelina Kalinina,,,1.0
+175082,2026-03-28T15:05Z,Credit One Charleston Open,Tatiana Pieri,Ayana Akli,,,0.0
+175084,2026-03-28T15:05Z,Credit One Charleston Open,Eva Vedder,Aoi Ito,,,1.0
+175083,2026-03-28T15:15Z,Credit One Charleston Open,Usue Maitane Arconada,Viktoriya Tomova,,,0.0
+175080,2026-03-28T16:20Z,Credit One Charleston Open,Aliona Bolsova,Ekaterine Gorgodze,,,0.0
+175079,2026-03-28T16:35Z,Credit One Charleston Open,Donna Vekic,Sachia Vickery,,,1.0
+175078,2026-03-28T16:55Z,Credit One Charleston Open,Polina Kudermetova,Carolyn Ansari,,,1.0
+175085,2026-03-28T18:05Z,Credit One Charleston Open,Elvina Kalieva,Madison Brengle,,,1.0
+175081,2026-03-28T18:45Z,Credit One Charleston Open,Darja Vidmanova,Katarina Jokic,,,1.0
+175086,2026-03-28T19:00Z,Credit One Charleston Open,Akasha Urhobo,Whitney Osuigwe,,,1.0
+175077,2026-03-28T19:15Z,Credit One Charleston Open,Haley Giavara,Kayla Day,,,0.0
+175075,2026-03-28T20:20Z,Credit One Charleston Open,Kristina Mladenovic,Mary Stoiana,,,0.0
+175076,2026-03-28T20:20Z,Credit One Charleston Open,Yuan Yue,Kajsa Rinaldo Persson,,,1.0
+175092,2026-03-29T15:05Z,Credit One Charleston Open,Ayana Akli,Viktoriya Tomova,,,0.0
+175087,2026-03-29T15:05Z,Credit One Charleston Open,Polina Kudermetova,Eva Vedder,,,1.0
+175088,2026-03-29T16:30Z,Credit One Charleston Open,Elvina Kalieva,Akasha Urhobo,,,0.0
+175090,2026-03-29T17:15Z,Credit One Charleston Open,Donna Vekic,Ekaterine Gorgodze,,,1.0
+175089,2026-03-29T17:50Z,Credit One Charleston Open,Yuan Yue,Kayla Day,,,0.0
+175091,2026-03-29T18:30Z,Credit One Charleston Open,Darja Vidmanova,Mary Stoiana,,,0.0
+173746,2026-03-30T15:05Z,Credit One Charleston Open,Yulia Putintseva,Lulu Sun,,,1.0
+173732,2026-03-30T15:05Z,Credit One Charleston Open,Eva Lys,Katie Volynets,,,0.0
+173736,2026-03-30T15:10Z,Credit One Charleston Open,Anastasia Zakharova,Dayana Yastremska,,,0.0
+173740,2026-03-30T17:00Z,Credit One Charleston Open,Elvina Kalieva,McCartney Kessler,,,0.0
+173737,2026-03-30T17:25Z,Credit One Charleston Open,Solana Sierra,Akasha Urhobo,,,0.0
+173748,2026-03-30T17:35Z,Credit One Charleston Open,Sloane Stephens,Renata Zarazua,,,0.0
+173727,2026-03-30T19:00Z,Credit One Charleston Open,Viktoriya Tomova,Jennifer Brady,,,1.0
+173731,2026-03-30T19:15Z,Credit One Charleston Open,Darja Vidmanova,Anna Bondar,,,0.0
+173733,2026-03-30T22:05Z,Credit One Charleston Open,Ajla Tomljanovic,Donna Vekic,,,0.0
+173724,2026-03-31T00:30Z,Credit One Charleston Open,Alycia Parks,Mary Stoiana,,,1.0
+173723,2026-03-31T15:05Z,Credit One Charleston Open,Bianca Andreescu,Dalma Galfi,,,1.0
+173745,2026-03-31T15:05Z,Credit One Charleston Open,Mayar Sherif,Yuan Yue,,,0.0
+173754,2026-03-31T15:05Z,Credit One Charleston Open,Zhang Shuai,Yuliia Starodubtseva,,,0.0
+173741,2026-03-31T16:15Z,Credit One Charleston Open,Ashlyn Krueger,Catherine McNally,,,1.0
+173728,2026-03-31T17:25Z,Credit One Charleston Open,Kayla Day,Paula Badosa,,,0.0
+173734,2026-03-31T19:00Z,Credit One Charleston Open,Polina Kudermetova,Oleksandra Oliynykova,,,1.0
+173757,2026-03-31T19:15Z,Credit One Charleston Open,Viktoriya Tomova,Anna Kalinskaya,,,0.0
+173762,2026-03-31T21:40Z,Credit One Charleston Open,Sara Bejlek,Akasha Urhobo,,,1.0
+173761,2026-03-31T22:05Z,Credit One Charleston Open,Dayana Yastremska,Belinda Bencic,,,0.0
+173769,2026-04-01T00:50Z,Credit One Charleston Open,Katie Volynets,Diana Shnaider,,,0.0
+173765,2026-04-01T15:05Z,Credit One Charleston Open,McCartney Kessler,Janice Tjen,,,1.0
+173766,2026-04-01T15:05Z,Credit One Charleston Open,Yuan Yue,Elisabetta Cocciaretto,,,0.0
+173768,2026-04-01T15:05Z,Credit One Charleston Open,Iva Jovic,Alycia Parks,,,1.0
+173760,2026-04-01T16:35Z,Credit One Charleston Open,Peyton Stearns,Ashlyn Krueger,,,1.0
+173763,2026-04-01T17:00Z,Credit One Charleston Open,Anna Bondar,Magdalena Frech,,,1.0
+173767,2026-04-01T17:00Z,Credit One Charleston Open,Jessica Pegula,Yulia Putintseva,,,1.0
+173758,2026-04-01T18:55Z,Credit One Charleston Open,Maria Sakkari,Paula Badosa,,,0.0
+173770,2026-04-01T19:15Z,Credit One Charleston Open,Leylah Fernandez,Polina Kudermetova,,,1.0
+173756,2026-04-01T20:25Z,Credit One Charleston Open,Madison Keys,Donna Vekic,,,1.0
+173759,2026-04-01T22:05Z,Credit One Charleston Open,Bianca Andreescu,Sofia Kenin,,,0.0
+173755,2026-04-01T22:05Z,Credit One Charleston Open,Yuliia Starodubtseva,Ekaterine Gorgodze,,,1.0
+173764,2026-04-02T00:00Z,Credit One Charleston Open,Hailey Baptiste,Renata Zarazua,,,0.0
+173777,2026-04-02T15:05Z,Credit One Charleston Open,Sara Bejlek,Belinda Bencic,,,0.0
+173776,2026-04-02T15:05Z,Credit One Charleston Open,Peyton Stearns,McCartney Kessler,,,0.0
+173774,2026-04-02T17:10Z,Credit One Charleston Open,Jessica Pegula,Elisabetta Cocciaretto,,,1.0
+173773,2026-04-02T17:20Z,Credit One Charleston Open,Leylah Fernandez,Diana Shnaider,,,0.0
+173775,2026-04-02T19:05Z,Credit One Charleston Open,Renata Zarazua,Yuliia Starodubtseva,,,0.0
+173778,2026-04-02T19:35Z,Credit One Charleston Open,Madison Keys,Anna Bondar,,,1.0
+173772,2026-04-02T22:05Z,Credit One Charleston Open,Iva Jovic,Sofia Kenin,,,1.0
+173771,2026-04-03T00:30Z,Credit One Charleston Open,Paula Badosa,Anna Kalinskaya,,,0.0
+173782,2026-04-03T15:05Z,Credit One Charleston Open,Jessica Pegula,Diana Shnaider,,,1.0
+173780,2026-04-03T17:35Z,Credit One Charleston Open,Madison Keys,Belinda Bencic,,,1.0
+173781,2026-04-03T20:15Z,Credit One Charleston Open,Iva Jovic,Anna Kalinskaya,,,1.0
+173779,2026-04-03T22:05Z,Credit One Charleston Open,McCartney Kessler,Yuliia Starodubtseva,,,0.0
+173784,2026-04-04T17:05Z,Credit One Charleston Open,Jessica Pegula,Iva Jovic,,,1.0
+173783,2026-04-04T20:00Z,Credit One Charleston Open,Madison Keys,Yuliia Starodubtseva,,,0.0
+173785,2026-04-05T17:05Z,Credit One Charleston Open,Jessica Pegula,Yuliia Starodubtseva,,,1.0
+175107,2026-03-28T15:15Z,Copa Colsanitas Colsubsidio,Emanuela Lares,Anastasia Tikhonova,,,0.0
+175110,2026-03-28T15:20Z,Copa Colsanitas Colsubsidio,Ana Sofia Sanchez,Gabriela Ce,,,1.0
+175106,2026-03-28T15:40Z,Copa Colsanitas Colsubsidio,Lea Ma,Alisa Oktiabreva,,,0.0
+175108,2026-03-28T16:40Z,Copa Colsanitas Colsubsidio,Laura Pigossi,Katarina Zavatska,,,0.0
+175103,2026-03-28T17:35Z,Copa Colsanitas Colsubsidio,En-Shuo Liang,Selena Janicijevic,,,0.0
+175099,2026-03-28T20:45Z,Copa Colsanitas Colsubsidio,Marina Bassols Ribera,Alicia Herrero Linana,,,1.0
+175109,2026-03-28T22:35Z,Copa Colsanitas Colsubsidio,Carol Zhao,Lia Karatancheva,,,0.0
+175102,2026-03-29T00:45Z,Copa Colsanitas Colsubsidio,Miriana Tona,Berfu Cengiz,,,1.0
+175105,2026-03-29T02:00Z,Copa Colsanitas Colsubsidio,Jazmin Ortenzi,Sara Alejandra Lozano Avellaneda,,,1.0
+175101,2026-03-29T02:30Z,Copa Colsanitas Colsubsidio,Elina Avanesyan,Sara Saito,,,1.0
+175100,2026-03-29T02:45Z,Copa Colsanitas Colsubsidio,Irene Burillo,Mariana Isabel Higuita Barraza,,,1.0
+175104,2026-03-29T03:05Z,Copa Colsanitas Colsubsidio,Laura Valentina Villamil Arias,Caroline Werner,,,0.0
+175094,2026-03-29T15:00Z,Copa Colsanitas Colsubsidio,Ana Sofia Sanchez,Alisa Oktiabreva,,,1.0
+175096,2026-03-29T15:05Z,Copa Colsanitas Colsubsidio,Katarina Zavatska,Selena Janicijevic,,,0.0
+175093,2026-03-29T18:35Z,Copa Colsanitas Colsubsidio,Miriana Tona,Lia Karatancheva,,,0.0
+175095,2026-03-29T19:15Z,Copa Colsanitas Colsubsidio,Marina Bassols Ribera,Anastasia Tikhonova,,,0.0
+175098,2026-03-29T20:05Z,Copa Colsanitas Colsubsidio,Jazmin Ortenzi,Elina Avanesyan,,,1.0
+175097,2026-03-29T21:50Z,Copa Colsanitas Colsubsidio,Irene Burillo,Caroline Werner,,,1.0
+173808,2026-03-30T15:35Z,Copa Colsanitas Colsubsidio,Carole Monnet,Katarzyna Kawa,,,0.0
+173809,2026-03-30T16:40Z,Copa Colsanitas Colsubsidio,Selena Janicijevic,Julia Riera,,,0.0
+173801,2026-03-30T17:05Z,Copa Colsanitas Colsubsidio,Elizabeth Mandlik,Julieta Pareja,,,0.0
+173802,2026-03-30T18:25Z,Copa Colsanitas Colsubsidio,Anastasia Tikhonova,Despina Papamichail,,,0.0
+173807,2026-03-30T18:50Z,Copa Colsanitas Colsubsidio,Valentina Mediorreal Arias,Tatjana Maria,,,0.0
+173815,2026-03-30T23:05Z,Copa Colsanitas Colsubsidio,Panna Udvardy,Maria Camila Torres Murcia,,,1.0
+173813,2026-03-31T15:35Z,Copa Colsanitas Colsubsidio,Darja Semenistaja,Ella Seidel,,,1.0
+173814,2026-03-31T15:35Z,Copa Colsanitas Colsubsidio,Lia Karatancheva,Varvara Lepchenko,,,0.0
+173805,2026-03-31T17:05Z,Copa Colsanitas Colsubsidio,Francesca Jones,Guiomar Maristany Zuleta De Reales,,,0.0
+173811,2026-03-31T17:05Z,Copa Colsanitas Colsubsidio,Camila Osorio,Caroline Dolehide,,,1.0
+173816,2026-03-31T17:55Z,Copa Colsanitas Colsubsidio,Robin Montgomery,Anna Blinkova,,,0.0
+173812,2026-03-31T18:30Z,Copa Colsanitas Colsubsidio,Tiantsoa Rakotomanga Rajaonah,Jessica Bouzas Maneiro,,,0.0
+173810,2026-03-31T19:30Z,Copa Colsanitas Colsubsidio,Irene Burillo,Jazmin Ortenzi,,,0.0
+173803,2026-03-31T19:35Z,Copa Colsanitas Colsubsidio,Emiliana Arango,Maria Lourdes Carle,,,1.0
+173804,2026-03-31T20:00Z,Copa Colsanitas Colsubsidio,Hanne Vandewinkel,Sofia Costoulas,,,1.0
+173806,2026-03-31T23:10Z,Copa Colsanitas Colsubsidio,Marie Bouzkova,Ana Sofia Sanchez,,,1.0
+173822,2026-04-01T15:35Z,Copa Colsanitas Colsubsidio,Despina Papamichail,Darja Semenistaja,,,0.0
+173817,2026-04-01T17:05Z,Copa Colsanitas Colsubsidio,Panna Udvardy,Julieta Pareja,,,1.0
+173821,2026-04-01T19:05Z,Copa Colsanitas Colsubsidio,Katarzyna Kawa,Tatjana Maria,,,1.0
+173818,2026-04-01T23:05Z,Copa Colsanitas Colsubsidio,Julia Riera,Anna Blinkova,,,1.0
+173820,2026-04-02T16:05Z,Copa Colsanitas Colsubsidio,Guiomar Maristany Zuleta De Reales,Emiliana Arango,,,0.0
+173824,2026-04-02T18:05Z,Copa Colsanitas Colsubsidio,Camila Osorio,Jazmin Ortenzi,,,0.0
+173823,2026-04-02T20:30Z,Copa Colsanitas Colsubsidio,Marie Bouzkova,Hanne Vandewinkel,,,1.0
+173819,2026-04-02T21:40Z,Copa Colsanitas Colsubsidio,Varvara Lepchenko,Jessica Bouzas Maneiro,,,1.0
+173825,2026-04-03T16:05Z,Copa Colsanitas Colsubsidio,Jazmin Ortenzi,Julia Riera,,,1.0
+173826,2026-04-03T18:40Z,Copa Colsanitas Colsubsidio,Marie Bouzkova,Darja Semenistaja,,,1.0
+173827,2026-04-03T20:35Z,Copa Colsanitas Colsubsidio,Emiliana Arango,Varvara Lepchenko,,,1.0
+173829,2026-04-03T22:10Z,Copa Colsanitas Colsubsidio,Panna Udvardy,Katarzyna Kawa,,,1.0
+173830,2026-04-04T16:05Z,Copa Colsanitas Colsubsidio,Marie Bouzkova,Jazmin Ortenzi,,,1.0
+173828,2026-04-04T18:20Z,Copa Colsanitas Colsubsidio,Panna Udvardy,Emiliana Arango,,,1.0
+173831,2026-04-05T17:05Z,Copa Colsanitas Colsubsidio,Marie Bouzkova,Panna Udvardy,,,1.0

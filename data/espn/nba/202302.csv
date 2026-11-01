@@ -1,0 +1,166 @@
+id,date,event,home,away,hs,as,res
+401468924,2023-02-02T00:00Z,Washington Wizards at Detroit Pistons,Detroit Pistons,Washington Wizards,0,0,0.5
+401468925,2023-02-02T00:00Z,Orlando Magic at Philadelphia 76ers,Philadelphia 76ers,Orlando Magic,105,94,1.0
+401468926,2023-02-02T00:00Z,Portland Trail Blazers at Memphis Grizzlies,Memphis Grizzlies,Portland Trail Blazers,112,122,0.0
+401468927,2023-02-02T00:30Z,Brooklyn Nets at Boston Celtics,Boston Celtics,Brooklyn Nets,139,96,1.0
+401468928,2023-02-02T01:00Z,Oklahoma City Thunder at Houston Rockets,Houston Rockets,Oklahoma City Thunder,112,106,1.0
+401468929,2023-02-02T01:00Z,Golden State Warriors at Minnesota Timberwolves,Minnesota Timberwolves,Golden State Warriors,119,114,1.0
+401468930,2023-02-02T01:00Z,Sacramento Kings at San Antonio Spurs,San Antonio Spurs,Sacramento Kings,109,119,0.0
+401468931,2023-02-02T02:00Z,Toronto Raptors at Utah Jazz,Utah Jazz,Toronto Raptors,131,128,1.0
+401468932,2023-02-02T03:00Z,Atlanta Hawks at Phoenix Suns,Phoenix Suns,Atlanta Hawks,100,132,0.0
+401468933,2023-02-03T00:00Z,Los Angeles Lakers at Indiana Pacers,Indiana Pacers,Los Angeles Lakers,111,112,0.0
+401468934,2023-02-03T00:30Z,Memphis Grizzlies at Cleveland Cavaliers,Cleveland Cavaliers,Memphis Grizzlies,128,113,1.0
+401468935,2023-02-03T00:30Z,Miami Heat at New York Knicks,New York Knicks,Miami Heat,106,104,1.0
+401468936,2023-02-03T01:00Z,Charlotte Hornets at Chicago Bulls,Chicago Bulls,Charlotte Hornets,114,98,1.0
+401468937,2023-02-03T01:30Z,New Orleans Pelicans at Dallas Mavericks,Dallas Mavericks,New Orleans Pelicans,111,106,1.0
+401468938,2023-02-03T02:00Z,Golden State Warriors at Denver Nuggets,Denver Nuggets,Golden State Warriors,134,117,1.0
+401468939,2023-02-03T03:00Z,LA Clippers at Milwaukee Bucks,Milwaukee Bucks,LA Clippers,106,105,1.0
+401468940,2023-02-04T00:00Z,Charlotte Hornets at Detroit Pistons,Detroit Pistons,Charlotte Hornets,118,112,1.0
+401468941,2023-02-04T00:00Z,Sacramento Kings at Indiana Pacers,Indiana Pacers,Sacramento Kings,107,104,1.0
+401468942,2023-02-04T00:00Z,Portland Trail Blazers at Washington Wizards,Washington Wizards,Portland Trail Blazers,116,124,0.0
+401468943,2023-02-04T00:30Z,Phoenix Suns at Boston Celtics,Boston Celtics,Phoenix Suns,94,106,0.0
+401468944,2023-02-04T01:00Z,Toronto Raptors at Houston Rockets,Houston Rockets,Toronto Raptors,111,117,0.0
+401468945,2023-02-04T01:00Z,Orlando Magic at Minnesota Timberwolves,Minnesota Timberwolves,Orlando Magic,120,127,0.0
+401468946,2023-02-04T01:00Z,Philadelphia 76ers at San Antonio Spurs,San Antonio Spurs,Philadelphia 76ers,125,137,0.0
+401468947,2023-02-04T02:00Z,Atlanta Hawks at Utah Jazz,Utah Jazz,Atlanta Hawks,108,115,0.0
+401468948,2023-02-04T23:00Z,Washington Wizards at Brooklyn Nets,Brooklyn Nets,Washington Wizards,125,123,1.0
+401468953,2023-02-04T23:00Z,Los Angeles Lakers at New Orleans Pelicans,New Orleans Pelicans,Los Angeles Lakers,131,126,1.0
+401468949,2023-02-05T00:00Z,Phoenix Suns at Detroit Pistons,Detroit Pistons,Phoenix Suns,100,116,0.0
+401468950,2023-02-05T00:00Z,LA Clippers at New York Knicks,New York Knicks,LA Clippers,128,134,0.0
+401468951,2023-02-05T01:00Z,Portland Trail Blazers at Chicago Bulls,Chicago Bulls,Portland Trail Blazers,129,121,1.0
+401468952,2023-02-05T01:00Z,Miami Heat at Milwaukee Bucks,Milwaukee Bucks,Miami Heat,123,115,1.0
+401468954,2023-02-05T01:00Z,Houston Rockets at Oklahoma City Thunder,Oklahoma City Thunder,Houston Rockets,153,121,1.0
+401468955,2023-02-05T01:30Z,Dallas Mavericks at Golden State Warriors,Golden State Warriors,Dallas Mavericks,119,113,1.0
+401468956,2023-02-05T02:00Z,Atlanta Hawks at Denver Nuggets,Denver Nuggets,Atlanta Hawks,128,108,1.0
+401468957,2023-02-05T18:00Z,Orlando Magic at Charlotte Hornets,Charlotte Hornets,Orlando Magic,113,119,0.0
+401468958,2023-02-05T22:00Z,Cleveland Cavaliers at Indiana Pacers,Indiana Pacers,Cleveland Cavaliers,103,122,0.0
+401468959,2023-02-05T23:00Z,Philadelphia 76ers at New York Knicks,New York Knicks,Philadelphia 76ers,108,97,1.0
+401468960,2023-02-05T23:00Z,Toronto Raptors at Memphis Grizzlies,Memphis Grizzlies,Toronto Raptors,103,106,0.0
+401468961,2023-02-06T00:00Z,Denver Nuggets at Minnesota Timberwolves,Minnesota Timberwolves,Denver Nuggets,128,98,1.0
+401468962,2023-02-06T00:00Z,Sacramento Kings at New Orleans Pelicans,New Orleans Pelicans,Sacramento Kings,136,104,1.0
+401468963,2023-02-07T00:00Z,Boston Celtics at Detroit Pistons,Detroit Pistons,Boston Celtics,99,111,0.0
+401468964,2023-02-07T00:00Z,Cleveland Cavaliers at Washington Wizards,Washington Wizards,Cleveland Cavaliers,91,114,0.0
+401468965,2023-02-07T00:30Z,LA Clippers at Brooklyn Nets,Brooklyn Nets,LA Clippers,116,124,0.0
+401468966,2023-02-07T01:00Z,San Antonio Spurs at Chicago Bulls,Chicago Bulls,San Antonio Spurs,128,104,1.0
+401468967,2023-02-07T01:00Z,Sacramento Kings at Houston Rockets,Houston Rockets,Sacramento Kings,120,140,0.0
+401468968,2023-02-07T02:00Z,Dallas Mavericks at Utah Jazz,Utah Jazz,Dallas Mavericks,111,124,0.0
+401468969,2023-02-07T03:00Z,Oklahoma City Thunder at Golden State Warriors,Golden State Warriors,Oklahoma City Thunder,141,114,1.0
+401468970,2023-02-07T03:00Z,Milwaukee Bucks at Portland Trail Blazers,Portland Trail Blazers,Milwaukee Bucks,108,127,0.0
+401468971,2023-02-08T00:00Z,New York Knicks at Orlando Magic,Orlando Magic,New York Knicks,98,102,0.0
+401468972,2023-02-08T00:30Z,Phoenix Suns at Brooklyn Nets,Brooklyn Nets,Phoenix Suns,112,116,0.0
+401468973,2023-02-08T00:30Z,Atlanta Hawks at New Orleans Pelicans,New Orleans Pelicans,Atlanta Hawks,116,107,1.0
+401468974,2023-02-08T01:00Z,Chicago Bulls at Memphis Grizzlies,Memphis Grizzlies,Chicago Bulls,104,89,1.0
+401468975,2023-02-08T02:00Z,Minnesota Timberwolves at Denver Nuggets,Denver Nuggets,Minnesota Timberwolves,146,112,1.0
+401468976,2023-02-08T03:00Z,Oklahoma City Thunder at Los Angeles Lakers,Los Angeles Lakers,Oklahoma City Thunder,130,133,0.0
+401468977,2023-02-09T00:00Z,Detroit Pistons at Cleveland Cavaliers,Cleveland Cavaliers,Detroit Pistons,113,85,1.0
+401468978,2023-02-09T00:00Z,Charlotte Hornets at Washington Wizards,Washington Wizards,Charlotte Hornets,118,104,1.0
+401468979,2023-02-09T00:30Z,Philadelphia 76ers at Boston Celtics,Boston Celtics,Philadelphia 76ers,106,99,1.0
+401468980,2023-02-09T00:30Z,Indiana Pacers at Miami Heat,Miami Heat,Indiana Pacers,116,111,1.0
+401468981,2023-02-09T00:30Z,San Antonio Spurs at Toronto Raptors,Toronto Raptors,San Antonio Spurs,112,98,1.0
+401468982,2023-02-09T01:00Z,Sacramento Kings at Houston Rockets,Houston Rockets,Sacramento Kings,128,130,0.0
+401468983,2023-02-09T02:00Z,Minnesota Timberwolves at Utah Jazz,Utah Jazz,Minnesota Timberwolves,118,143,0.0
+401468984,2023-02-09T03:00Z,Dallas Mavericks at LA Clippers,LA Clippers,Dallas Mavericks,104,110,0.0
+401468985,2023-02-09T03:00Z,Golden State Warriors at Portland Trail Blazers,Portland Trail Blazers,Golden State Warriors,125,122,1.0
+401468986,2023-02-10T00:00Z,Denver Nuggets at Orlando Magic,Orlando Magic,Denver Nuggets,115,104,1.0
+401468987,2023-02-10T00:30Z,Phoenix Suns at Atlanta Hawks,Atlanta Hawks,Phoenix Suns,116,107,1.0
+401468988,2023-02-10T00:30Z,Chicago Bulls at Brooklyn Nets,Brooklyn Nets,Chicago Bulls,116,105,1.0
+401468989,2023-02-10T03:00Z,Milwaukee Bucks at Los Angeles Lakers,Los Angeles Lakers,Milwaukee Bucks,106,115,0.0
+401468990,2023-02-11T00:00Z,San Antonio Spurs at Detroit Pistons,Detroit Pistons,San Antonio Spurs,138,131,1.0
+401468991,2023-02-11T00:00Z,Phoenix Suns at Indiana Pacers,Indiana Pacers,Phoenix Suns,104,117,0.0
+401468992,2023-02-11T00:00Z,New York Knicks at Philadelphia 76ers,Philadelphia 76ers,New York Knicks,119,108,1.0
+401468993,2023-02-11T00:30Z,Charlotte Hornets at Boston Celtics,Boston Celtics,Charlotte Hornets,127,116,1.0
+401468994,2023-02-11T00:30Z,Utah Jazz at Toronto Raptors,Toronto Raptors,Utah Jazz,116,122,0.0
+401468995,2023-02-11T01:00Z,Houston Rockets at Miami Heat,Miami Heat,Houston Rockets,97,95,1.0
+401468996,2023-02-11T01:00Z,Minnesota Timberwolves at Memphis Grizzlies,Memphis Grizzlies,Minnesota Timberwolves,128,107,1.0
+401468997,2023-02-11T03:00Z,Cleveland Cavaliers at New Orleans Pelicans,New Orleans Pelicans,Cleveland Cavaliers,107,118,0.0
+401468998,2023-02-11T03:00Z,Oklahoma City Thunder at Portland Trail Blazers,Portland Trail Blazers,Oklahoma City Thunder,129,138,0.0
+401468999,2023-02-11T03:00Z,Dallas Mavericks at Sacramento Kings,Sacramento Kings,Dallas Mavericks,114,122,0.0
+401469000,2023-02-11T03:30Z,Milwaukee Bucks at LA Clippers,LA Clippers,Milwaukee Bucks,106,119,0.0
+401469001,2023-02-11T23:00Z,Philadelphia 76ers at Brooklyn Nets,Brooklyn Nets,Philadelphia 76ers,98,101,0.0
+401469002,2023-02-12T00:00Z,Denver Nuggets at Charlotte Hornets,Charlotte Hornets,Denver Nuggets,105,119,0.0
+401469003,2023-02-12T00:00Z,Miami Heat at Orlando Magic,Orlando Magic,Miami Heat,103,107,0.0
+401469004,2023-02-12T00:00Z,Indiana Pacers at Washington Wizards,Washington Wizards,Indiana Pacers,127,113,1.0
+401469005,2023-02-12T00:30Z,San Antonio Spurs at Atlanta Hawks,Atlanta Hawks,San Antonio Spurs,125,106,1.0
+401469006,2023-02-12T00:30Z,Utah Jazz at New York Knicks,New York Knicks,Utah Jazz,126,120,1.0
+401469007,2023-02-12T01:00Z,Chicago Bulls at Cleveland Cavaliers,Cleveland Cavaliers,Chicago Bulls,97,89,1.0
+401469008,2023-02-12T01:30Z,Los Angeles Lakers at Golden State Warriors,Golden State Warriors,Los Angeles Lakers,103,109,0.0
+401469009,2023-02-12T03:00Z,Dallas Mavericks at Sacramento Kings,Sacramento Kings,Dallas Mavericks,133,128,1.0
+401469010,2023-02-12T19:00Z,Memphis Grizzlies at Boston Celtics,Boston Celtics,Memphis Grizzlies,119,109,1.0
+401469011,2023-02-12T20:00Z,Detroit Pistons at Toronto Raptors,Toronto Raptors,Detroit Pistons,119,118,1.0
+401469012,2023-02-14T00:00Z,Atlanta Hawks at Charlotte Hornets,Charlotte Hornets,Atlanta Hawks,144,138,1.0
+401469013,2023-02-14T00:00Z,San Antonio Spurs at Cleveland Cavaliers,Cleveland Cavaliers,San Antonio Spurs,117,109,1.0
+401469014,2023-02-14T00:00Z,Utah Jazz at Indiana Pacers,Indiana Pacers,Utah Jazz,117,123,0.0
+401469015,2023-02-14T00:00Z,Houston Rockets at Philadelphia 76ers,Philadelphia 76ers,Houston Rockets,123,104,1.0
+401469016,2023-02-14T00:30Z,Denver Nuggets at Miami Heat,Miami Heat,Denver Nuggets,108,112,0.0
+401469017,2023-02-14T00:30Z,Brooklyn Nets at New York Knicks,New York Knicks,Brooklyn Nets,124,106,1.0
+401469018,2023-02-14T01:00Z,Orlando Magic at Chicago Bulls,Chicago Bulls,Orlando Magic,91,100,0.0
+401469019,2023-02-14T01:00Z,New Orleans Pelicans at Oklahoma City Thunder,Oklahoma City Thunder,New Orleans Pelicans,100,103,0.0
+401469020,2023-02-14T01:30Z,Minnesota Timberwolves at Dallas Mavericks,Dallas Mavericks,Minnesota Timberwolves,121,124,0.0
+401469021,2023-02-14T03:00Z,Washington Wizards at Golden State Warriors,Golden State Warriors,Washington Wizards,135,126,1.0
+401469022,2023-02-14T03:00Z,Los Angeles Lakers at Portland Trail Blazers,Portland Trail Blazers,Los Angeles Lakers,127,115,1.0
+401469023,2023-02-15T00:30Z,Orlando Magic at Toronto Raptors,Toronto Raptors,Orlando Magic,123,113,1.0
+401469024,2023-02-15T00:30Z,Boston Celtics at Milwaukee Bucks,Milwaukee Bucks,Boston Celtics,131,125,1.0
+401469025,2023-02-15T02:00Z,Sacramento Kings at Phoenix Suns,Phoenix Suns,Sacramento Kings,120,109,1.0
+401469026,2023-02-15T03:00Z,Golden State Warriors at LA Clippers,LA Clippers,Golden State Warriors,134,124,1.0
+401469027,2023-02-15T03:00Z,Washington Wizards at Portland Trail Blazers,Portland Trail Blazers,Washington Wizards,101,126,0.0
+401469028,2023-02-16T00:00Z,San Antonio Spurs at Charlotte Hornets,Charlotte Hornets,San Antonio Spurs,120,110,1.0
+401469029,2023-02-16T00:00Z,Chicago Bulls at Indiana Pacers,Indiana Pacers,Chicago Bulls,117,113,1.0
+401469030,2023-02-16T00:30Z,Cleveland Cavaliers at Philadelphia 76ers,Philadelphia 76ers,Cleveland Cavaliers,118,112,1.0
+401469031,2023-02-16T00:30Z,New York Knicks at Atlanta Hawks,Atlanta Hawks,New York Knicks,101,122,0.0
+401469032,2023-02-16T00:30Z,Detroit Pistons at Boston Celtics,Boston Celtics,Detroit Pistons,127,109,1.0
+401469033,2023-02-16T00:30Z,Miami Heat at Brooklyn Nets,Brooklyn Nets,Miami Heat,116,105,1.0
+401469034,2023-02-16T01:00Z,Utah Jazz at Memphis Grizzlies,Memphis Grizzlies,Utah Jazz,117,111,1.0
+401469035,2023-02-16T01:00Z,Houston Rockets at Oklahoma City Thunder,Oklahoma City Thunder,Houston Rockets,133,96,1.0
+401469036,2023-02-16T02:00Z,Dallas Mavericks at Denver Nuggets,Denver Nuggets,Dallas Mavericks,118,109,1.0
+401469037,2023-02-16T03:00Z,New Orleans Pelicans at Los Angeles Lakers,Los Angeles Lakers,New Orleans Pelicans,120,102,1.0
+401469038,2023-02-17T00:30Z,Milwaukee Bucks at Chicago Bulls,Chicago Bulls,Milwaukee Bucks,100,112,0.0
+401469039,2023-02-17T01:00Z,Washington Wizards at Minnesota Timberwolves,Minnesota Timberwolves,Washington Wizards,106,114,0.0
+401469040,2023-02-17T03:00Z,LA Clippers at Phoenix Suns,Phoenix Suns,LA Clippers,107,116,0.0
+401469041,2023-02-24T00:00Z,Denver Nuggets at Cleveland Cavaliers,Cleveland Cavaliers,Denver Nuggets,109,115,0.0
+401469042,2023-02-24T00:00Z,Boston Celtics at Indiana Pacers,Indiana Pacers,Boston Celtics,138,142,0.0
+401469043,2023-02-24T00:00Z,Detroit Pistons at Orlando Magic,Orlando Magic,Detroit Pistons,108,106,1.0
+401469044,2023-02-24T00:30Z,Memphis Grizzlies at Philadelphia 76ers,Philadelphia 76ers,Memphis Grizzlies,110,105,1.0
+401469045,2023-02-24T00:30Z,New Orleans Pelicans at Toronto Raptors,Toronto Raptors,New Orleans Pelicans,115,110,1.0
+401469046,2023-02-24T01:30Z,San Antonio Spurs at Dallas Mavericks,Dallas Mavericks,San Antonio Spurs,142,116,1.0
+401469047,2023-02-24T02:00Z,Oklahoma City Thunder at Utah Jazz,Utah Jazz,Oklahoma City Thunder,120,119,1.0
+401469048,2023-02-24T03:00Z,Golden State Warriors at Los Angeles Lakers,Los Angeles Lakers,Golden State Warriors,124,111,1.0
+401469049,2023-02-24T03:00Z,Portland Trail Blazers at Sacramento Kings,Sacramento Kings,Portland Trail Blazers,133,116,1.0
+401469050,2023-02-25T00:00Z,New York Knicks at Washington Wizards,Washington Wizards,New York Knicks,109,115,0.0
+401469051,2023-02-25T00:30Z,Cleveland Cavaliers at Atlanta Hawks,Atlanta Hawks,Cleveland Cavaliers,136,119,1.0
+401469052,2023-02-25T00:30Z,Miami Heat at Milwaukee Bucks,Milwaukee Bucks,Miami Heat,128,99,1.0
+401469053,2023-02-25T01:00Z,Charlotte Hornets at Minnesota Timberwolves,Minnesota Timberwolves,Charlotte Hornets,113,121,0.0
+401469055,2023-02-25T01:00Z,Brooklyn Nets at Chicago Bulls,Chicago Bulls,Brooklyn Nets,131,87,1.0
+401469054,2023-02-25T03:00Z,Oklahoma City Thunder at Phoenix Suns,Phoenix Suns,Oklahoma City Thunder,124,115,1.0
+401469056,2023-02-25T03:00Z,Houston Rockets at Golden State Warriors,Golden State Warriors,Houston Rockets,116,101,1.0
+401469057,2023-02-25T03:30Z,Sacramento Kings at LA Clippers,LA Clippers,Sacramento Kings,175,176,0.0
+401469058,2023-02-25T17:00Z,Toronto Raptors at Detroit Pistons,Detroit Pistons,Toronto Raptors,91,95,0.0
+401469059,2023-02-26T00:00Z,Miami Heat at Charlotte Hornets,Charlotte Hornets,Miami Heat,108,103,1.0
+401469060,2023-02-26T00:00Z,Indiana Pacers at Orlando Magic,Orlando Magic,Indiana Pacers,108,121,0.0
+401469061,2023-02-26T00:30Z,New Orleans Pelicans at New York Knicks,New York Knicks,New Orleans Pelicans,128,106,1.0
+401469062,2023-02-26T01:00Z,Denver Nuggets at Memphis Grizzlies,Memphis Grizzlies,Denver Nuggets,112,94,1.0
+401469063,2023-02-26T01:30Z,Boston Celtics at Philadelphia 76ers,Philadelphia 76ers,Boston Celtics,107,110,0.0
+401469064,2023-02-26T02:00Z,San Antonio Spurs at Utah Jazz,Utah Jazz,San Antonio Spurs,118,102,1.0
+401469065,2023-02-26T18:00Z,Phoenix Suns at Milwaukee Bucks,Milwaukee Bucks,Phoenix Suns,104,101,1.0
+401469066,2023-02-26T20:00Z,Brooklyn Nets at Atlanta Hawks,Atlanta Hawks,Brooklyn Nets,129,127,1.0
+401469067,2023-02-26T20:30Z,Washington Wizards at Chicago Bulls,Chicago Bulls,Washington Wizards,102,82,1.0
+401469068,2023-02-26T20:30Z,Los Angeles Lakers at Dallas Mavericks,Dallas Mavericks,Los Angeles Lakers,108,111,0.0
+401469069,2023-02-26T23:00Z,Toronto Raptors at Cleveland Cavaliers,Cleveland Cavaliers,Toronto Raptors,118,93,1.0
+401469070,2023-02-27T00:00Z,Sacramento Kings at Oklahoma City Thunder,Oklahoma City Thunder,Sacramento Kings,115,124,0.0
+401469071,2023-02-27T00:30Z,Minnesota Timberwolves at Golden State Warriors,Golden State Warriors,Minnesota Timberwolves,109,104,1.0
+401469072,2023-02-27T02:00Z,Houston Rockets at Portland Trail Blazers,Portland Trail Blazers,Houston Rockets,131,114,1.0
+401469073,2023-02-27T03:00Z,LA Clippers at Denver Nuggets,Denver Nuggets,LA Clippers,134,124,1.0
+401469074,2023-02-28T00:00Z,Detroit Pistons at Charlotte Hornets,Charlotte Hornets,Detroit Pistons,117,106,1.0
+401469075,2023-02-28T00:00Z,Miami Heat at Philadelphia 76ers,Philadelphia 76ers,Miami Heat,99,101,0.0
+401469076,2023-02-28T00:30Z,Boston Celtics at New York Knicks,New York Knicks,Boston Celtics,109,94,1.0
+401469077,2023-02-28T01:00Z,Orlando Magic at New Orleans Pelicans,New Orleans Pelicans,Orlando Magic,93,101,0.0
+401469078,2023-03-01T00:30Z,Washington Wizards at Atlanta Hawks,Atlanta Hawks,Washington Wizards,116,119,0.0
+401469079,2023-03-01T00:30Z,Milwaukee Bucks at Brooklyn Nets,Brooklyn Nets,Milwaukee Bucks,104,118,0.0
+401469080,2023-03-01T00:30Z,Chicago Bulls at Toronto Raptors,Toronto Raptors,Chicago Bulls,104,98,1.0
+401469082,2023-03-01T00:30Z,Los Angeles Lakers at Memphis Grizzlies,Memphis Grizzlies,Los Angeles Lakers,121,109,1.0
+401469081,2023-03-01T01:00Z,Denver Nuggets at Houston Rockets,Houston Rockets,Denver Nuggets,112,133,0.0
+401469083,2023-03-01T01:00Z,Sacramento Kings at Oklahoma City Thunder,Oklahoma City Thunder,Sacramento Kings,117,123,0.0
+401469084,2023-03-01T01:30Z,Indiana Pacers at Dallas Mavericks,Dallas Mavericks,Indiana Pacers,122,124,0.0
+401469085,2023-03-01T02:00Z,San Antonio Spurs at Utah Jazz,Utah Jazz,San Antonio Spurs,94,102,0.0
+401469086,2023-03-01T03:00Z,Portland Trail Blazers at Golden State Warriors,Golden State Warriors,Portland Trail Blazers,123,105,1.0
+401469087,2023-03-01T03:00Z,Minnesota Timberwolves at LA Clippers,LA Clippers,Minnesota Timberwolves,101,108,0.0
+401524696,2023-02-20T00:30Z,Team Giannis Team Giannis at Team LeBron Team LeBron,Team LeBron,Team Giannis,175,184,0.0

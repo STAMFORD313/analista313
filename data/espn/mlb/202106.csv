@@ -1,0 +1,407 @@
+id,date,event,home,away,hs,as,res
+401227864,2021-06-01T22:10Z,Chicago White Sox at Cleveland Indians,Cleveland Indians,Chicago White Sox,6,5,1.0
+401227874,2021-06-01T23:00Z,Tampa Bay Rays at New York Yankees,New York Yankees,Tampa Bay Rays,5,3,1.0
+401227867,2021-06-01T23:05Z,Minnesota Twins at Baltimore Orioles,Baltimore Orioles,Minnesota Twins,7,4,1.0
+401227866,2021-06-01T23:07Z,Miami Marlins at Toronto Blue Jays,Toronto Blue Jays,Miami Marlins,5,1,1.0
+401227870,2021-06-01T23:10Z,Philadelphia Phillies at Cincinnati Reds,Cincinnati Reds,Philadelphia Phillies,3,17,0.0
+401227876,2021-06-01T23:20Z,Washington Nationals at Atlanta Braves,Atlanta Braves,Washington Nationals,6,11,0.0
+401227865,2021-06-01T23:40Z,Detroit Tigers at Milwaukee Brewers,Milwaukee Brewers,Detroit Tigers,7,10,0.0
+401227872,2021-06-02T00:05Z,San Diego Padres at Chicago Cubs,Chicago Cubs,San Diego Padres,4,3,1.0
+401227863,2021-06-02T00:10Z,Boston Red Sox at Houston Astros,Houston Astros,Boston Red Sox,5,1,1.0
+401227871,2021-06-02T00:10Z,Pittsburgh Pirates at Kansas City Royals,Kansas City Royals,Pittsburgh Pirates,10,5,1.0
+401227875,2021-06-02T00:40Z,Texas Rangers at Colorado Rockies,Colorado Rockies,Texas Rangers,3,2,1.0
+401227868,2021-06-02T01:40Z,New York Mets at Arizona Diamondbacks,Arizona Diamondbacks,New York Mets,6,5,1.0
+401227862,2021-06-02T01:45Z,Los Angeles Angels at San Francisco Giants,San Francisco Giants,Los Angeles Angels,1,8,0.0
+401227869,2021-06-02T02:10Z,Oakland Athletics at Seattle Mariners,Seattle Mariners,Oakland Athletics,6,12,0.0
+401227873,2021-06-02T02:10Z,St. Louis Cardinals at Los Angeles Dodgers,Los Angeles Dodgers,St. Louis Cardinals,2,3,0.0
+401227883,2021-06-02T16:35Z,Philadelphia Phillies at Cincinnati Reds,Cincinnati Reds,Philadelphia Phillies,0,0,0.5
+401227878,2021-06-02T17:10Z,Chicago White Sox at Cleveland Indians,Cleveland Indians,Chicago White Sox,0,0,0.5
+401227884,2021-06-02T18:20Z,San Diego Padres at Chicago Cubs,Chicago Cubs,San Diego Padres,6,1,1.0
+401227881,2021-06-02T19:40Z,New York Mets at Arizona Diamondbacks,Arizona Diamondbacks,New York Mets,6,7,0.0
+401227880,2021-06-02T23:05Z,Minnesota Twins at Baltimore Orioles,Baltimore Orioles,Minnesota Twins,6,3,1.0
+401227886,2021-06-02T23:05Z,Tampa Bay Rays at New York Yankees,New York Yankees,Tampa Bay Rays,4,3,1.0
+401227879,2021-06-02T23:07Z,Miami Marlins at Toronto Blue Jays,Toronto Blue Jays,Miami Marlins,6,5,1.0
+401227888,2021-06-02T23:20Z,Washington Nationals at Atlanta Braves,Atlanta Braves,Washington Nationals,3,5,0.0
+401227877,2021-06-03T00:00Z,Boston Red Sox at Houston Astros,Houston Astros,Boston Red Sox,2,1,1.0
+401227887,2021-06-03T00:40Z,Texas Rangers at Colorado Rockies,Colorado Rockies,Texas Rangers,6,3,1.0
+401227885,2021-06-03T01:10Z,St. Louis Cardinals at Los Angeles Dodgers,Los Angeles Dodgers,St. Louis Cardinals,14,3,1.0
+401227882,2021-06-03T02:10Z,Oakland Athletics at Seattle Mariners,Seattle Mariners,Oakland Athletics,0,6,0.0
+401227900,2021-06-03T16:20Z,Washington Nationals at Atlanta Braves,Atlanta Braves,Washington Nationals,5,1,1.0
+401227898,2021-06-03T17:05Z,Tampa Bay Rays at New York Yankees,New York Yankees,Tampa Bay Rays,2,9,0.0
+401227890,2021-06-03T18:10Z,Boston Red Sox at Houston Astros,Houston Astros,Boston Red Sox,1,5,0.0
+401227899,2021-06-03T19:10Z,Texas Rangers at Colorado Rockies,Colorado Rockies,Texas Rangers,11,6,1.0
+401227894,2021-06-03T23:05Z,Miami Marlins at Pittsburgh Pirates,Pittsburgh Pirates,Miami Marlins,5,3,1.0
+401227889,2021-06-03T23:40Z,Arizona Diamondbacks at Milwaukee Brewers,Milwaukee Brewers,Arizona Diamondbacks,7,4,1.0
+401227893,2021-06-04T00:10Z,Detroit Tigers at Chicago White Sox,Chicago White Sox,Detroit Tigers,4,1,1.0
+401227895,2021-06-04T00:10Z,Minnesota Twins at Kansas City Royals,Kansas City Royals,Minnesota Twins,6,5,1.0
+401227892,2021-06-04T00:15Z,Cincinnati Reds at St. Louis Cardinals,St. Louis Cardinals,Cincinnati Reds,2,4,0.0
+401227897,2021-06-04T01:38Z,Seattle Mariners at Los Angeles Angels,Los Angeles Angels,Seattle Mariners,2,6,0.0
+401227891,2021-06-04T01:45Z,Chicago Cubs at San Francisco Giants,San Francisco Giants,Chicago Cubs,7,2,1.0
+401227896,2021-06-04T02:00Z,New York Mets at San Diego Padres,San Diego Padres,New York Mets,4,3,1.0
+401227902,2021-06-04T23:05Z,Boston Red Sox at New York Yankees,New York Yankees,Boston Red Sox,2,5,0.0
+401227905,2021-06-04T23:05Z,Cleveland Indians at Baltimore Orioles,Baltimore Orioles,Cleveland Indians,3,1,1.0
+401227909,2021-06-04T23:05Z,Miami Marlins at Pittsburgh Pirates,Pittsburgh Pirates,Miami Marlins,9,2,1.0
+401227915,2021-06-04T23:05Z,Washington Nationals at Philadelphia Phillies,Philadelphia Phillies,Washington Nationals,1,2,0.0
+401227907,2021-06-04T23:07Z,Houston Astros at Toronto Blue Jays,Toronto Blue Jays,Houston Astros,1,13,0.0
+401227908,2021-06-04T23:20Z,Los Angeles Dodgers at Atlanta Braves,Atlanta Braves,Los Angeles Dodgers,5,9,0.0
+401227914,2021-06-05T00:05Z,Tampa Bay Rays at Texas Rangers,Texas Rangers,Tampa Bay Rays,5,4,1.0
+401227901,2021-06-05T00:10Z,Arizona Diamondbacks at Milwaukee Brewers,Milwaukee Brewers,Arizona Diamondbacks,5,1,1.0
+401227906,2021-06-05T00:10Z,Detroit Tigers at Chicago White Sox,Chicago White Sox,Detroit Tigers,9,8,1.0
+401227910,2021-06-05T00:10Z,Minnesota Twins at Kansas City Royals,Kansas City Royals,Minnesota Twins,14,5,1.0
+401227904,2021-06-05T00:15Z,Cincinnati Reds at St. Louis Cardinals,St. Louis Cardinals,Cincinnati Reds,4,6,0.0
+401227912,2021-06-05T00:40Z,Oakland Athletics at Colorado Rockies,Colorado Rockies,Oakland Athletics,5,9,0.0
+401227913,2021-06-05T01:38Z,Seattle Mariners at Los Angeles Angels,Los Angeles Angels,Seattle Mariners,3,2,1.0
+401227903,2021-06-05T01:45Z,Chicago Cubs at San Francisco Giants,San Francisco Giants,Chicago Cubs,8,5,1.0
+401227911,2021-06-05T02:10Z,New York Mets at San Diego Padres,San Diego Padres,New York Mets,2,0,1.0
+401227921,2021-06-05T18:10Z,Detroit Tigers at Chicago White Sox,Chicago White Sox,Detroit Tigers,3,4,0.0
+401227919,2021-06-05T18:15Z,Cincinnati Reds at St. Louis Cardinals,St. Louis Cardinals,Cincinnati Reds,2,5,0.0
+401227922,2021-06-05T19:07Z,Houston Astros at Toronto Blue Jays,Toronto Blue Jays,Houston Astros,6,2,1.0
+401227920,2021-06-05T20:05Z,Cleveland Indians at Baltimore Orioles,Baltimore Orioles,Cleveland Indians,4,10,0.0
+401227924,2021-06-05T20:05Z,Miami Marlins at Pittsburgh Pirates,Pittsburgh Pirates,Miami Marlins,8,7,1.0
+401227929,2021-06-05T20:05Z,Tampa Bay Rays at Texas Rangers,Texas Rangers,Tampa Bay Rays,0,3,0.0
+401227930,2021-06-05T20:05Z,Washington Nationals at Philadelphia Phillies,Philadelphia Phillies,Washington Nationals,5,2,1.0
+401227916,2021-06-05T20:10Z,Arizona Diamondbacks at Milwaukee Brewers,Milwaukee Brewers,Arizona Diamondbacks,7,5,1.0
+401227925,2021-06-05T20:10Z,Minnesota Twins at Kansas City Royals,Kansas City Royals,Minnesota Twins,4,5,0.0
+401227917,2021-06-05T23:15Z,Boston Red Sox at New York Yankees,New York Yankees,Boston Red Sox,3,7,0.0
+401227918,2021-06-05T23:15Z,Chicago Cubs at San Francisco Giants,San Francisco Giants,Chicago Cubs,4,3,1.0
+401227923,2021-06-05T23:15Z,Los Angeles Dodgers at Atlanta Braves,Atlanta Braves,Los Angeles Dodgers,6,4,1.0
+401227927,2021-06-06T01:10Z,Oakland Athletics at Colorado Rockies,Colorado Rockies,Oakland Athletics,3,6,0.0
+401227928,2021-06-06T02:07Z,Seattle Mariners at Los Angeles Angels,Los Angeles Angels,Seattle Mariners,12,5,1.0
+401227926,2021-06-06T02:10Z,New York Mets at San Diego Padres,San Diego Padres,New York Mets,0,4,0.0
+401227935,2021-06-06T17:05Z,Cleveland Indians at Baltimore Orioles,Baltimore Orioles,Cleveland Indians,18,5,1.0
+401227939,2021-06-06T17:05Z,Miami Marlins at Pittsburgh Pirates,Pittsburgh Pirates,Miami Marlins,1,3,0.0
+401227945,2021-06-06T17:05Z,Washington Nationals at Philadelphia Phillies,Philadelphia Phillies,Washington Nationals,12,6,1.0
+401227937,2021-06-06T17:07Z,Houston Astros at Toronto Blue Jays,Toronto Blue Jays,Houston Astros,3,6,0.0
+401227938,2021-06-06T17:20Z,Los Angeles Dodgers at Atlanta Braves,Atlanta Braves,Los Angeles Dodgers,4,2,1.0
+401227931,2021-06-06T18:10Z,Arizona Diamondbacks at Milwaukee Brewers,Milwaukee Brewers,Arizona Diamondbacks,2,0,1.0
+401227936,2021-06-06T18:10Z,Detroit Tigers at Chicago White Sox,Chicago White Sox,Detroit Tigers,3,0,1.0
+401227940,2021-06-06T18:10Z,Minnesota Twins at Kansas City Royals,Kansas City Royals,Minnesota Twins,1,2,0.0
+401227934,2021-06-06T18:15Z,Cincinnati Reds at St. Louis Cardinals,St. Louis Cardinals,Cincinnati Reds,7,8,0.0
+401227944,2021-06-06T18:35Z,Tampa Bay Rays at Texas Rangers,Texas Rangers,Tampa Bay Rays,1,7,0.0
+401227942,2021-06-06T19:10Z,Oakland Athletics at Colorado Rockies,Colorado Rockies,Oakland Athletics,3,1,1.0
+401227933,2021-06-06T20:05Z,Chicago Cubs at San Francisco Giants,San Francisco Giants,Chicago Cubs,3,4,0.0
+401227943,2021-06-06T20:07Z,Seattle Mariners at Los Angeles Angels,Los Angeles Angels,Seattle Mariners,5,9,0.0
+401227941,2021-06-06T20:10Z,New York Mets at San Diego Padres,San Diego Padres,New York Mets,2,6,0.0
+401227932,2021-06-06T23:00Z,Boston Red Sox at New York Yankees,New York Yankees,Boston Red Sox,5,6,0.0
+401331792,2021-06-07T21:10Z,Miami Marlins at Boston Red Sox,Boston Red Sox,Miami Marlins,5,3,1.0
+401227947,2021-06-08T01:38Z,Kansas City Royals at Los Angeles Angels,Los Angeles Angels,Kansas City Royals,8,3,1.0
+401227946,2021-06-08T02:00Z,Chicago Cubs at San Diego Padres,San Diego Padres,Chicago Cubs,9,4,1.0
+401227949,2021-06-08T23:05Z,Atlanta Braves at Philadelphia Phillies,Philadelphia Phillies,Atlanta Braves,5,9,0.0
+401227955,2021-06-08T23:05Z,Los Angeles Dodgers at Pittsburgh Pirates,Pittsburgh Pirates,Los Angeles Dodgers,3,5,0.0
+401227958,2021-06-08T23:05Z,New York Mets at Baltimore Orioles,Baltimore Orioles,New York Mets,10,3,1.0
+401227952,2021-06-08T23:10Z,Colorado Rockies at Miami Marlins,Miami Marlins,Colorado Rockies,6,2,1.0
+401227953,2021-06-08T23:10Z,Houston Astros at Boston Red Sox,Boston Red Sox,Houston Astros,1,7,0.0
+401227956,2021-06-08T23:10Z,Milwaukee Brewers at Cincinnati Reds,Cincinnati Reds,Milwaukee Brewers,1,5,0.0
+401227959,2021-06-08T23:10Z,Seattle Mariners at Detroit Tigers,Detroit Tigers,Seattle Mariners,5,3,1.0
+401227962,2021-06-08T23:10Z,Washington Nationals at Tampa Bay Rays,Tampa Bay Rays,Washington Nationals,3,1,1.0
+401227960,2021-06-09T00:05Z,San Francisco Giants at Texas Rangers,Texas Rangers,San Francisco Giants,4,9,0.0
+401227957,2021-06-09T00:10Z,New York Yankees at Minnesota Twins,Minnesota Twins,New York Yankees,4,8,0.0
+401227961,2021-06-09T00:10Z,Toronto Blue Jays at Chicago White Sox,Chicago White Sox,Toronto Blue Jays,6,1,1.0
+401227951,2021-06-09T00:15Z,Cleveland Indians at St. Louis Cardinals,St. Louis Cardinals,Cleveland Indians,1,10,0.0
+401227954,2021-06-09T01:38Z,Kansas City Royals at Los Angeles Angels,Los Angeles Angels,Kansas City Royals,8,1,1.0
+401227948,2021-06-09T01:40Z,Arizona Diamondbacks at Oakland Athletics,Oakland Athletics,Arizona Diamondbacks,5,2,1.0
+401227950,2021-06-09T02:00Z,Chicago Cubs at San Diego Padres,San Diego Padres,Chicago Cubs,1,7,0.0
+401227975,2021-06-09T18:05Z,San Francisco Giants at Texas Rangers,Texas Rangers,San Francisco Giants,4,3,1.0
+401227963,2021-06-09T19:37Z,Arizona Diamondbacks at Oakland Athletics,Oakland Athletics,Arizona Diamondbacks,4,0,1.0
+401227965,2021-06-09T20:10Z,Chicago Cubs at San Diego Padres,San Diego Padres,Chicago Cubs,1,3,0.0
+401227964,2021-06-09T23:05Z,Atlanta Braves at Philadelphia Phillies,Philadelphia Phillies,Atlanta Braves,2,1,1.0
+401227970,2021-06-09T23:05Z,Los Angeles Dodgers at Pittsburgh Pirates,Pittsburgh Pirates,Los Angeles Dodgers,1,2,0.0
+401227973,2021-06-09T23:05Z,New York Mets at Baltimore Orioles,Baltimore Orioles,New York Mets,1,14,0.0
+401227967,2021-06-09T23:10Z,Colorado Rockies at Miami Marlins,Miami Marlins,Colorado Rockies,3,4,0.0
+401227968,2021-06-09T23:10Z,Houston Astros at Boston Red Sox,Boston Red Sox,Houston Astros,3,8,0.0
+401227971,2021-06-09T23:10Z,Milwaukee Brewers at Cincinnati Reds,Cincinnati Reds,Milwaukee Brewers,7,3,1.0
+401227974,2021-06-09T23:10Z,Seattle Mariners at Detroit Tigers,Detroit Tigers,Seattle Mariners,6,9,0.0
+401227977,2021-06-09T23:10Z,Washington Nationals at Tampa Bay Rays,Tampa Bay Rays,Washington Nationals,7,9,0.0
+401227972,2021-06-10T00:10Z,New York Yankees at Minnesota Twins,Minnesota Twins,New York Yankees,6,9,0.0
+401227976,2021-06-10T00:10Z,Toronto Blue Jays at Chicago White Sox,Chicago White Sox,Toronto Blue Jays,2,6,0.0
+401227966,2021-06-10T00:15Z,Cleveland Indians at St. Louis Cardinals,St. Louis Cardinals,Cleveland Indians,8,2,1.0
+401227969,2021-06-10T01:30Z,Kansas City Royals at Los Angeles Angels,Los Angeles Angels,Kansas City Royals,6,1,1.0
+401227982,2021-06-10T16:35Z,Los Angeles Dodgers at Pittsburgh Pirates,Pittsburgh Pirates,Los Angeles Dodgers,3,6,0.0
+401227983,2021-06-10T16:35Z,Milwaukee Brewers at Cincinnati Reds,Cincinnati Reds,Milwaukee Brewers,2,7,0.0
+401227978,2021-06-10T17:05Z,Atlanta Braves at Philadelphia Phillies,Philadelphia Phillies,Atlanta Braves,4,3,1.0
+401227985,2021-06-10T17:10Z,Seattle Mariners at Detroit Tigers,Detroit Tigers,Seattle Mariners,8,3,1.0
+401227986,2021-06-10T23:05Z,San Francisco Giants at Washington Nationals,Washington Nationals,San Francisco Giants,0,0,0.5
+401227979,2021-06-10T23:10Z,Colorado Rockies at Miami Marlins,Miami Marlins,Colorado Rockies,11,4,1.0
+401227980,2021-06-10T23:10Z,Houston Astros at Boston Red Sox,Boston Red Sox,Houston Astros,12,8,1.0
+401227987,2021-06-11T00:00Z,Toronto Blue Jays at Chicago White Sox,Chicago White Sox,Toronto Blue Jays,5,2,1.0
+401227984,2021-06-11T00:10Z,New York Yankees at Minnesota Twins,Minnesota Twins,New York Yankees,7,5,1.0
+401227981,2021-06-11T01:40Z,Kansas City Royals at Oakland Athletics,Oakland Athletics,Kansas City Royals,1,6,0.0
+401227999,2021-06-11T18:20Z,St. Louis Cardinals at Chicago Cubs,Chicago Cubs,St. Louis Cardinals,8,5,1.0
+401227998,2021-06-11T23:05Z,San Francisco Giants at Washington Nationals,Washington Nationals,San Francisco Giants,0,1,0.0
+401227989,2021-06-11T23:10Z,Atlanta Braves at Miami Marlins,Miami Marlins,Atlanta Braves,4,3,1.0
+401227990,2021-06-11T23:10Z,Baltimore Orioles at Tampa Bay Rays,Tampa Bay Rays,Baltimore Orioles,4,2,1.0
+401227991,2021-06-11T23:10Z,Chicago White Sox at Detroit Tigers,Detroit Tigers,Chicago White Sox,4,5,0.0
+401227992,2021-06-11T23:10Z,Colorado Rockies at Cincinnati Reds,Cincinnati Reds,Colorado Rockies,11,5,1.0
+401227996,2021-06-11T23:10Z,San Diego Padres at New York Mets,New York Mets,San Diego Padres,3,2,1.0
+401227997,2021-06-11T23:10Z,Seattle Mariners at Cleveland Indians,Cleveland Indians,Seattle Mariners,7,0,1.0
+401228001,2021-06-11T23:10Z,Toronto Blue Jays at Boston Red Sox,Boston Red Sox,Toronto Blue Jays,6,5,1.0
+401227993,2021-06-12T00:10Z,Houston Astros at Minnesota Twins,Minnesota Twins,Houston Astros,4,6,0.0
+401227995,2021-06-12T00:10Z,Pittsburgh Pirates at Milwaukee Brewers,Milwaukee Brewers,Pittsburgh Pirates,7,4,1.0
+401227988,2021-06-12T01:40Z,Los Angeles Angels at Arizona Diamondbacks,Arizona Diamondbacks,Los Angeles Angels,5,6,0.0
+401227994,2021-06-12T01:40Z,Kansas City Royals at Oakland Athletics,Oakland Athletics,Kansas City Royals,4,3,1.0
+401228000,2021-06-12T02:10Z,Texas Rangers at Los Angeles Dodgers,Los Angeles Dodgers,Texas Rangers,12,1,1.0
+401334713,2021-06-12T18:05Z,San Francisco Giants at Washington Nationals,Washington Nationals,San Francisco Giants,2,0,1.0
+401228009,2021-06-12T20:05Z,New York Yankees at Philadelphia Phillies,Philadelphia Phillies,New York Yankees,8,7,1.0
+401228008,2021-06-12T20:07Z,Kansas City Royals at Oakland Athletics,Oakland Athletics,Kansas City Royals,11,2,1.0
+401228002,2021-06-12T20:10Z,Los Angeles Angels at Arizona Diamondbacks,Arizona Diamondbacks,Los Angeles Angels,7,8,0.0
+401228003,2021-06-12T20:10Z,Atlanta Braves at Miami Marlins,Miami Marlins,Atlanta Braves,4,2,1.0
+401228004,2021-06-12T20:10Z,Baltimore Orioles at Tampa Bay Rays,Tampa Bay Rays,Baltimore Orioles,5,4,1.0
+401228005,2021-06-12T20:10Z,Chicago White Sox at Detroit Tigers,Detroit Tigers,Chicago White Sox,2,15,0.0
+401228010,2021-06-12T20:10Z,Pittsburgh Pirates at Milwaukee Brewers,Milwaukee Brewers,Pittsburgh Pirates,7,4,1.0
+401228011,2021-06-12T20:10Z,San Diego Padres at New York Mets,New York Mets,San Diego Padres,4,1,1.0
+401228012,2021-06-12T20:10Z,Seattle Mariners at Cleveland Indians,Cleveland Indians,Seattle Mariners,5,4,1.0
+401228016,2021-06-12T20:10Z,Toronto Blue Jays at Boston Red Sox,Boston Red Sox,Toronto Blue Jays,2,7,0.0
+401228006,2021-06-12T20:15Z,Colorado Rockies at Cincinnati Reds,Cincinnati Reds,Colorado Rockies,10,3,1.0
+401228007,2021-06-12T23:15Z,Houston Astros at Minnesota Twins,Minnesota Twins,Houston Astros,5,2,1.0
+401228013,2021-06-12T23:15Z,San Francisco Giants at Washington Nationals,Washington Nationals,San Francisco Giants,1,2,0.0
+401228014,2021-06-12T23:15Z,St. Louis Cardinals at Chicago Cubs,Chicago Cubs,St. Louis Cardinals,7,2,1.0
+401228015,2021-06-13T02:10Z,Texas Rangers at Los Angeles Dodgers,Los Angeles Dodgers,Texas Rangers,1,12,0.0
+401228024,2021-06-13T17:05Z,New York Yankees at Philadelphia Phillies,Philadelphia Phillies,New York Yankees,7,0,1.0
+401228028,2021-06-13T17:05Z,San Francisco Giants at Washington Nationals,Washington Nationals,San Francisco Giants,5,0,1.0
+401228018,2021-06-13T17:10Z,Atlanta Braves at Miami Marlins,Miami Marlins,Atlanta Braves,4,6,0.0
+401228019,2021-06-13T17:10Z,Baltimore Orioles at Tampa Bay Rays,Tampa Bay Rays,Baltimore Orioles,7,1,1.0
+401228020,2021-06-13T17:10Z,Chicago White Sox at Detroit Tigers,Detroit Tigers,Chicago White Sox,1,4,0.0
+401228021,2021-06-13T17:10Z,Colorado Rockies at Cincinnati Reds,Cincinnati Reds,Colorado Rockies,6,2,1.0
+401228026,2021-06-13T17:10Z,San Diego Padres at New York Mets,New York Mets,San Diego Padres,3,7,0.0
+401228027,2021-06-13T17:10Z,Seattle Mariners at Cleveland Indians,Cleveland Indians,Seattle Mariners,2,6,0.0
+401228031,2021-06-13T17:10Z,Toronto Blue Jays at Boston Red Sox,Boston Red Sox,Toronto Blue Jays,4,18,0.0
+401228022,2021-06-13T18:10Z,Houston Astros at Minnesota Twins,Minnesota Twins,Houston Astros,3,14,0.0
+401228025,2021-06-13T18:10Z,Pittsburgh Pirates at Milwaukee Brewers,Milwaukee Brewers,Pittsburgh Pirates,5,2,1.0
+401228023,2021-06-13T20:07Z,Kansas City Royals at Oakland Athletics,Oakland Athletics,Kansas City Royals,6,3,1.0
+401228017,2021-06-13T20:10Z,Los Angeles Angels at Arizona Diamondbacks,Arizona Diamondbacks,Los Angeles Angels,3,10,0.0
+401228030,2021-06-13T20:10Z,Texas Rangers at Los Angeles Dodgers,Los Angeles Dodgers,Texas Rangers,5,3,1.0
+401228029,2021-06-13T23:00Z,St. Louis Cardinals at Chicago Cubs,Chicago Cubs,St. Louis Cardinals,2,0,1.0
+401228035,2021-06-14T23:00Z,Chicago Cubs at New York Mets,New York Mets,Chicago Cubs,5,2,1.0
+401228041,2021-06-14T23:05Z,Pittsburgh Pirates at Washington Nationals,Washington Nationals,Pittsburgh Pirates,3,2,1.0
+401228034,2021-06-14T23:10Z,Baltimore Orioles at Cleveland Indians,Cleveland Indians,Baltimore Orioles,4,3,1.0
+401228044,2021-06-14T23:10Z,Toronto Blue Jays at Boston Red Sox,Boston Red Sox,Toronto Blue Jays,2,1,1.0
+401228036,2021-06-15T00:10Z,Cincinnati Reds at Milwaukee Brewers,Milwaukee Brewers,Cincinnati Reds,2,10,0.0
+401228037,2021-06-15T00:10Z,Detroit Tigers at Kansas City Royals,Kansas City Royals,Detroit Tigers,3,10,0.0
+401228043,2021-06-15T00:10Z,Tampa Bay Rays at Chicago White Sox,Chicago White Sox,Tampa Bay Rays,2,5,0.0
+401228038,2021-06-15T00:15Z,Miami Marlins at St. Louis Cardinals,St. Louis Cardinals,Miami Marlins,4,2,1.0
+401228042,2021-06-15T00:40Z,San Diego Padres at Colorado Rockies,Colorado Rockies,San Diego Padres,3,2,1.0
+401228032,2021-06-15T01:40Z,Los Angeles Angels at Oakland Athletics,Oakland Athletics,Los Angeles Angels,8,5,1.0
+401228033,2021-06-15T01:45Z,Arizona Diamondbacks at San Francisco Giants,San Francisco Giants,Arizona Diamondbacks,5,2,1.0
+401228039,2021-06-15T02:10Z,Minnesota Twins at Seattle Mariners,Seattle Mariners,Minnesota Twins,4,3,1.0
+401228040,2021-06-15T02:10Z,Philadelphia Phillies at Los Angeles Dodgers,Los Angeles Dodgers,Philadelphia Phillies,3,1,1.0
+401228049,2021-06-15T23:00Z,Chicago Cubs at New York Mets,New York Mets,Chicago Cubs,3,2,1.0
+401228056,2021-06-15T23:05Z,Pittsburgh Pirates at Washington Nationals,Washington Nationals,Pittsburgh Pirates,8,1,1.0
+401228054,2021-06-15T23:07Z,New York Yankees at Toronto Blue Jays,Toronto Blue Jays,New York Yankees,5,6,0.0
+401228047,2021-06-15T23:10Z,Baltimore Orioles at Cleveland Indians,Cleveland Indians,Baltimore Orioles,7,2,1.0
+401228048,2021-06-15T23:20Z,Boston Red Sox at Atlanta Braves,Atlanta Braves,Boston Red Sox,8,10,0.0
+401228050,2021-06-16T00:10Z,Cincinnati Reds at Milwaukee Brewers,Milwaukee Brewers,Cincinnati Reds,1,2,0.0
+401228051,2021-06-16T00:10Z,Detroit Tigers at Kansas City Royals,Kansas City Royals,Detroit Tigers,3,4,0.0
+401228058,2021-06-16T00:10Z,Tampa Bay Rays at Chicago White Sox,Chicago White Sox,Tampa Bay Rays,3,0,1.0
+401228059,2021-06-16T00:10Z,Texas Rangers at Houston Astros,Houston Astros,Texas Rangers,6,3,1.0
+401228052,2021-06-16T00:15Z,Miami Marlins at St. Louis Cardinals,St. Louis Cardinals,Miami Marlins,2,1,1.0
+401228057,2021-06-16T00:40Z,San Diego Padres at Colorado Rockies,Colorado Rockies,San Diego Padres,8,4,1.0
+401228045,2021-06-16T01:40Z,Los Angeles Angels at Oakland Athletics,Oakland Athletics,Los Angeles Angels,6,4,1.0
+401228046,2021-06-16T01:45Z,Arizona Diamondbacks at San Francisco Giants,San Francisco Giants,Arizona Diamondbacks,9,8,1.0
+401228053,2021-06-16T02:10Z,Minnesota Twins at Seattle Mariners,Seattle Mariners,Minnesota Twins,10,0,1.0
+401228055,2021-06-16T02:10Z,Philadelphia Phillies at Los Angeles Dodgers,Los Angeles Dodgers,Philadelphia Phillies,5,3,1.0
+401228067,2021-06-16T17:15Z,Miami Marlins at St. Louis Cardinals,St. Louis Cardinals,Miami Marlins,1,0,1.0
+401228065,2021-06-16T18:10Z,Cincinnati Reds at Milwaukee Brewers,Milwaukee Brewers,Cincinnati Reds,1,2,0.0
+401228066,2021-06-16T18:10Z,Detroit Tigers at Kansas City Royals,Kansas City Royals,Detroit Tigers,5,6,0.0
+401228073,2021-06-16T18:10Z,Tampa Bay Rays at Chicago White Sox,Chicago White Sox,Tampa Bay Rays,8,7,1.0
+401228072,2021-06-16T19:10Z,San Diego Padres at Colorado Rockies,Colorado Rockies,San Diego Padres,8,7,1.0
+401228060,2021-06-16T19:37Z,Los Angeles Angels at Oakland Athletics,Oakland Athletics,Los Angeles Angels,8,4,1.0
+401228071,2021-06-16T20:05Z,Pittsburgh Pirates at Washington Nationals,Washington Nationals,Pittsburgh Pirates,3,1,1.0
+401228063,2021-06-16T23:00Z,Boston Red Sox at Atlanta Braves,Atlanta Braves,Boston Red Sox,8,10,0.0
+401228069,2021-06-16T23:07Z,New York Yankees at Toronto Blue Jays,Toronto Blue Jays,New York Yankees,2,3,0.0
+401228062,2021-06-16T23:10Z,Baltimore Orioles at Cleveland Indians,Cleveland Indians,Baltimore Orioles,8,7,1.0
+401228064,2021-06-16T23:10Z,Chicago Cubs at New York Mets,New York Mets,Chicago Cubs,6,3,1.0
+401228074,2021-06-17T00:10Z,Texas Rangers at Houston Astros,Houston Astros,Texas Rangers,8,4,1.0
+401228061,2021-06-17T01:45Z,Arizona Diamondbacks at San Francisco Giants,San Francisco Giants,Arizona Diamondbacks,13,7,1.0
+401228068,2021-06-17T02:10Z,Minnesota Twins at Seattle Mariners,Seattle Mariners,Minnesota Twins,2,7,0.0
+401228070,2021-06-17T02:10Z,Philadelphia Phillies at Los Angeles Dodgers,Los Angeles Dodgers,Philadelphia Phillies,0,2,0.0
+401228076,2021-06-17T17:10Z,Baltimore Orioles at Cleveland Indians,Cleveland Indians,Baltimore Orioles,10,3,1.0
+401228075,2021-06-17T19:45Z,Arizona Diamondbacks at San Francisco Giants,San Francisco Giants,Arizona Diamondbacks,10,3,1.0
+401228082,2021-06-17T23:07Z,New York Yankees at Toronto Blue Jays,Toronto Blue Jays,New York Yankees,4,8,0.0
+401228078,2021-06-17T23:10Z,Chicago Cubs at New York Mets,New York Mets,Chicago Cubs,0,2,0.0
+401228083,2021-06-17T23:20Z,St. Louis Cardinals at Atlanta Braves,Atlanta Braves,St. Louis Cardinals,4,0,1.0
+401228077,2021-06-18T00:10Z,Chicago White Sox at Houston Astros,Houston Astros,Chicago White Sox,10,2,1.0
+401228079,2021-06-18T00:40Z,Cincinnati Reds at San Diego Padres,San Diego Padres,Cincinnati Reds,6,4,1.0
+401228081,2021-06-18T00:40Z,Milwaukee Brewers at Colorado Rockies,Colorado Rockies,Milwaukee Brewers,7,3,1.0
+401228080,2021-06-18T01:38Z,Detroit Tigers at Los Angeles Angels,Los Angeles Angels,Detroit Tigers,7,5,1.0
+401228084,2021-06-18T02:10Z,Tampa Bay Rays at Seattle Mariners,Seattle Mariners,Tampa Bay Rays,6,5,1.0
+401228088,2021-06-18T23:05Z,Cleveland Indians at Pittsburgh Pirates,Pittsburgh Pirates,Cleveland Indians,11,10,1.0
+401228094,2021-06-18T23:05Z,New York Mets at Washington Nationals,Washington Nationals,New York Mets,1,0,1.0
+401228095,2021-06-18T23:05Z,Oakland Athletics at New York Yankees,New York Yankees,Oakland Athletics,3,5,0.0
+401228099,2021-06-18T23:05Z,Toronto Blue Jays at Baltimore Orioles,Baltimore Orioles,Toronto Blue Jays,7,1,1.0
+401228097,2021-06-18T23:20Z,St. Louis Cardinals at Atlanta Braves,Atlanta Braves,St. Louis Cardinals,9,1,1.0
+401228091,2021-06-19T00:05Z,Miami Marlins at Chicago Cubs,Chicago Cubs,Miami Marlins,2,10,0.0
+401228093,2021-06-19T00:05Z,Minnesota Twins at Texas Rangers,Texas Rangers,Minnesota Twins,5,7,0.0
+401228085,2021-06-19T00:10Z,Boston Red Sox at Kansas City Royals,Kansas City Royals,Boston Red Sox,5,3,1.0
+401228086,2021-06-19T00:10Z,Chicago White Sox at Houston Astros,Houston Astros,Chicago White Sox,2,1,1.0
+401228092,2021-06-19T00:40Z,Milwaukee Brewers at Colorado Rockies,Colorado Rockies,Milwaukee Brewers,6,5,1.0
+401228089,2021-06-19T01:38Z,Detroit Tigers at Los Angeles Angels,Los Angeles Angels,Detroit Tigers,11,3,1.0
+401228090,2021-06-19T01:40Z,Los Angeles Dodgers at Arizona Diamondbacks,Arizona Diamondbacks,Los Angeles Dodgers,0,3,0.0
+401228096,2021-06-19T01:45Z,Philadelphia Phillies at San Francisco Giants,San Francisco Giants,Philadelphia Phillies,5,3,1.0
+401228087,2021-06-19T02:10Z,Cincinnati Reds at San Diego Padres,San Diego Padres,Cincinnati Reds,8,2,1.0
+401228098,2021-06-19T02:10Z,Tampa Bay Rays at Seattle Mariners,Seattle Mariners,Tampa Bay Rays,5,1,1.0
+401228110,2021-06-19T17:05Z,Oakland Athletics at New York Yankees,New York Yankees,Oakland Athletics,7,5,1.0
+401319234,2021-06-19T17:05Z,New York Mets at Washington Nationals,Washington Nationals,New York Mets,1,5,0.0
+401228106,2021-06-19T18:20Z,Miami Marlins at Chicago Cubs,Chicago Cubs,Miami Marlins,1,11,0.0
+401228103,2021-06-19T20:05Z,Cleveland Indians at Pittsburgh Pirates,Pittsburgh Pirates,Cleveland Indians,6,3,1.0
+401228108,2021-06-19T20:05Z,Minnesota Twins at Texas Rangers,Texas Rangers,Minnesota Twins,2,3,0.0
+401228111,2021-06-19T20:05Z,Philadelphia Phillies at San Francisco Giants,San Francisco Giants,Philadelphia Phillies,6,13,0.0
+401228114,2021-06-19T20:05Z,Toronto Blue Jays at Baltimore Orioles,Baltimore Orioles,Toronto Blue Jays,7,10,0.0
+401228100,2021-06-19T20:10Z,Boston Red Sox at Kansas City Royals,Kansas City Royals,Boston Red Sox,1,7,0.0
+401228109,2021-06-19T22:05Z,New York Mets at Washington Nationals,Washington Nationals,New York Mets,6,2,1.0
+401228101,2021-06-19T23:15Z,Chicago White Sox at Houston Astros,Houston Astros,Chicago White Sox,7,3,1.0
+401228102,2021-06-19T23:15Z,Cincinnati Reds at San Diego Padres,San Diego Padres,Cincinnati Reds,7,5,1.0
+401228112,2021-06-19T23:15Z,St. Louis Cardinals at Atlanta Braves,Atlanta Braves,St. Louis Cardinals,0,0,0.5
+401228107,2021-06-20T01:10Z,Milwaukee Brewers at Colorado Rockies,Colorado Rockies,Milwaukee Brewers,5,6,0.0
+401228104,2021-06-20T02:07Z,Detroit Tigers at Los Angeles Angels,Los Angeles Angels,Detroit Tigers,8,3,1.0
+401228105,2021-06-20T02:10Z,Los Angeles Dodgers at Arizona Diamondbacks,Arizona Diamondbacks,Los Angeles Dodgers,3,9,0.0
+401228113,2021-06-20T02:10Z,Tampa Bay Rays at Seattle Mariners,Seattle Mariners,Tampa Bay Rays,6,5,1.0
+401228118,2021-06-20T17:05Z,Cleveland Indians at Pittsburgh Pirates,Pittsburgh Pirates,Cleveland Indians,1,2,0.0
+401228124,2021-06-20T17:05Z,New York Mets at Washington Nationals,Washington Nationals,New York Mets,5,2,1.0
+401228125,2021-06-20T17:05Z,Oakland Athletics at New York Yankees,New York Yankees,Oakland Athletics,2,1,1.0
+401228129,2021-06-20T17:05Z,Toronto Blue Jays at Baltimore Orioles,Baltimore Orioles,Toronto Blue Jays,4,7,0.0
+401228115,2021-06-20T18:10Z,Boston Red Sox at Kansas City Royals,Kansas City Royals,Boston Red Sox,7,3,1.0
+401228116,2021-06-20T18:10Z,Chicago White Sox at Houston Astros,Houston Astros,Chicago White Sox,8,2,1.0
+401337348,2021-06-20T18:10Z,St. Louis Cardinals at Atlanta Braves,Atlanta Braves,St. Louis Cardinals,1,9,0.0
+401228121,2021-06-20T18:20Z,Miami Marlins at Chicago Cubs,Chicago Cubs,Miami Marlins,2,0,1.0
+401228123,2021-06-20T18:35Z,Minnesota Twins at Texas Rangers,Texas Rangers,Minnesota Twins,2,4,0.0
+401228122,2021-06-20T19:10Z,Milwaukee Brewers at Colorado Rockies,Colorado Rockies,Milwaukee Brewers,6,7,0.0
+401228126,2021-06-20T20:05Z,Philadelphia Phillies at San Francisco Giants,San Francisco Giants,Philadelphia Phillies,11,2,1.0
+401228119,2021-06-20T20:07Z,Detroit Tigers at Los Angeles Angels,Los Angeles Angels,Detroit Tigers,3,5,0.0
+401228117,2021-06-20T20:10Z,Cincinnati Reds at San Diego Padres,San Diego Padres,Cincinnati Reds,3,2,1.0
+401228120,2021-06-20T20:10Z,Los Angeles Dodgers at Arizona Diamondbacks,Arizona Diamondbacks,Los Angeles Dodgers,8,9,0.0
+401228128,2021-06-20T20:10Z,Tampa Bay Rays at Seattle Mariners,Seattle Mariners,Tampa Bay Rays,6,2,1.0
+401228127,2021-06-20T23:00Z,St. Louis Cardinals at Atlanta Braves,Atlanta Braves,St. Louis Cardinals,1,0,1.0
+401331817,2021-06-21T21:10Z,Atlanta Braves at New York Mets,New York Mets,Atlanta Braves,4,2,1.0
+401228133,2021-06-21T23:05Z,Houston Astros at Baltimore Orioles,Baltimore Orioles,Houston Astros,2,10,0.0
+401228132,2021-06-22T00:05Z,Cleveland Indians at Chicago Cubs,Chicago Cubs,Cleveland Indians,0,4,0.0
+401228136,2021-06-22T00:05Z,Oakland Athletics at Texas Rangers,Texas Rangers,Oakland Athletics,8,3,1.0
+401228130,2021-06-22T00:10Z,Atlanta Braves at New York Mets,New York Mets,Atlanta Braves,0,1,0.0
+401228131,2021-06-22T00:10Z,Cincinnati Reds at Minnesota Twins,Minnesota Twins,Cincinnati Reds,7,5,1.0
+401228135,2021-06-22T01:40Z,Milwaukee Brewers at Arizona Diamondbacks,Arizona Diamondbacks,Milwaukee Brewers,5,1,1.0
+401228134,2021-06-22T02:00Z,Los Angeles Dodgers at San Diego Padres,San Diego Padres,Los Angeles Dodgers,6,2,1.0
+401228140,2021-06-22T17:10Z,Cincinnati Reds at Minnesota Twins,Minnesota Twins,Cincinnati Reds,7,10,0.0
+401228139,2021-06-22T23:05Z,Chicago White Sox at Pittsburgh Pirates,Pittsburgh Pirates,Chicago White Sox,6,3,1.0
+401228143,2021-06-22T23:05Z,Houston Astros at Baltimore Orioles,Baltimore Orioles,Houston Astros,1,3,0.0
+401228144,2021-06-22T23:05Z,Kansas City Royals at New York Yankees,New York Yankees,Kansas City Royals,5,6,0.0
+401228151,2021-06-22T23:05Z,Washington Nationals at Philadelphia Phillies,Philadelphia Phillies,Washington Nationals,2,3,0.0
+401228137,2021-06-22T23:10Z,Atlanta Braves at New York Mets,New York Mets,Atlanta Braves,0,3,0.0
+401228138,2021-06-22T23:10Z,Boston Red Sox at Tampa Bay Rays,Tampa Bay Rays,Boston Red Sox,5,9,0.0
+401228149,2021-06-22T23:10Z,St. Louis Cardinals at Detroit Tigers,Detroit Tigers,St. Louis Cardinals,8,2,1.0
+401228150,2021-06-22T23:10Z,Toronto Blue Jays at Miami Marlins,Miami Marlins,Toronto Blue Jays,1,2,0.0
+401228141,2021-06-23T00:05Z,Cleveland Indians at Chicago Cubs,Chicago Cubs,Cleveland Indians,7,1,1.0
+401228147,2021-06-23T00:05Z,Oakland Athletics at Texas Rangers,Texas Rangers,Oakland Athletics,6,13,0.0
+401228148,2021-06-23T01:38Z,San Francisco Giants at Los Angeles Angels,Los Angeles Angels,San Francisco Giants,0,5,0.0
+401228146,2021-06-23T01:40Z,Milwaukee Brewers at Arizona Diamondbacks,Arizona Diamondbacks,Milwaukee Brewers,0,5,0.0
+401228145,2021-06-23T02:00Z,Los Angeles Dodgers at San Diego Padres,San Diego Padres,Los Angeles Dodgers,3,2,1.0
+401228142,2021-06-23T02:10Z,Colorado Rockies at Seattle Mariners,Seattle Mariners,Colorado Rockies,2,1,1.0
+401228154,2021-06-23T16:35Z,Chicago White Sox at Pittsburgh Pirates,Pittsburgh Pirates,Chicago White Sox,3,4,0.0
+401228164,2021-06-23T17:05Z,Washington Nationals at Philadelphia Phillies,Philadelphia Phillies,Washington Nationals,12,13,0.0
+401228162,2021-06-23T17:10Z,St. Louis Cardinals at Detroit Tigers,Detroit Tigers,St. Louis Cardinals,6,2,1.0
+401228159,2021-06-23T19:40Z,Milwaukee Brewers at Arizona Diamondbacks,Arizona Diamondbacks,Milwaukee Brewers,2,3,0.0
+401228161,2021-06-23T20:07Z,San Francisco Giants at Los Angeles Angels,Los Angeles Angels,San Francisco Giants,3,9,0.0
+401228155,2021-06-23T20:10Z,Colorado Rockies at Seattle Mariners,Seattle Mariners,Colorado Rockies,2,5,0.0
+401228156,2021-06-23T23:05Z,Houston Astros at Baltimore Orioles,Baltimore Orioles,Houston Astros,0,13,0.0
+401228157,2021-06-23T23:05Z,Kansas City Royals at New York Yankees,New York Yankees,Kansas City Royals,6,5,1.0
+401228152,2021-06-23T23:10Z,Atlanta Braves at New York Mets,New York Mets,Atlanta Braves,7,3,1.0
+401228153,2021-06-23T23:10Z,Boston Red Sox at Tampa Bay Rays,Tampa Bay Rays,Boston Red Sox,8,2,1.0
+401228163,2021-06-23T23:10Z,Toronto Blue Jays at Miami Marlins,Miami Marlins,Toronto Blue Jays,1,3,0.0
+401228160,2021-06-24T00:05Z,Oakland Athletics at Texas Rangers,Texas Rangers,Oakland Athletics,5,3,1.0
+401228158,2021-06-24T02:00Z,Los Angeles Dodgers at San Diego Padres,San Diego Padres,Los Angeles Dodgers,5,3,1.0
+401228171,2021-06-24T17:05Z,Kansas City Royals at New York Yankees,New York Yankees,Kansas City Royals,8,1,1.0
+401228172,2021-06-24T18:05Z,Oakland Athletics at Texas Rangers,Texas Rangers,Oakland Athletics,1,5,0.0
+401228166,2021-06-24T23:07Z,Baltimore Orioles at Toronto Blue Jays,Toronto Blue Jays,Baltimore Orioles,9,0,1.0
+401228165,2021-06-24T23:10Z,Atlanta Braves at Cincinnati Reds,Cincinnati Reds,Atlanta Braves,5,3,1.0
+401228167,2021-06-24T23:10Z,Boston Red Sox at Tampa Bay Rays,Tampa Bay Rays,Boston Red Sox,1,0,1.0
+401228170,2021-06-24T23:10Z,Houston Astros at Detroit Tigers,Detroit Tigers,Houston Astros,3,12,0.0
+401228174,2021-06-24T23:10Z,Washington Nationals at Miami Marlins,Miami Marlins,Washington Nationals,3,7,0.0
+401228169,2021-06-25T00:10Z,Cleveland Indians at Minnesota Twins,Minnesota Twins,Cleveland Indians,1,4,0.0
+401228173,2021-06-25T00:15Z,Pittsburgh Pirates at St. Louis Cardinals,St. Louis Cardinals,Pittsburgh Pirates,2,8,0.0
+401228168,2021-06-25T02:10Z,Chicago Cubs at Los Angeles Dodgers,Los Angeles Dodgers,Chicago Cubs,0,4,0.0
+401228181,2021-06-25T20:10Z,Colorado Rockies at Milwaukee Brewers,Milwaukee Brewers,Colorado Rockies,5,4,1.0
+401320853,2021-06-25T20:10Z,Philadelphia Phillies at New York Mets,New York Mets,Philadelphia Phillies,2,1,1.0
+401228178,2021-06-25T23:07Z,Baltimore Orioles at Toronto Blue Jays,Toronto Blue Jays,Baltimore Orioles,5,6,0.0
+401228175,2021-06-25T23:10Z,Los Angeles Angels at Tampa Bay Rays,Tampa Bay Rays,Los Angeles Angels,4,3,1.0
+401228177,2021-06-25T23:10Z,Atlanta Braves at Cincinnati Reds,Cincinnati Reds,Atlanta Braves,2,3,0.0
+401228182,2021-06-25T23:10Z,Houston Astros at Detroit Tigers,Detroit Tigers,Houston Astros,0,0,0.5
+401228184,2021-06-25T23:10Z,New York Yankees at Boston Red Sox,Boston Red Sox,New York Yankees,5,3,1.0
+401228189,2021-06-25T23:10Z,Washington Nationals at Miami Marlins,Miami Marlins,Washington Nationals,11,2,1.0
+401228186,2021-06-25T23:40Z,Philadelphia Phillies at New York Mets,New York Mets,Philadelphia Phillies,1,2,0.0
+401228183,2021-06-26T00:05Z,Kansas City Royals at Texas Rangers,Texas Rangers,Kansas City Royals,9,4,1.0
+401228180,2021-06-26T00:10Z,Cleveland Indians at Minnesota Twins,Minnesota Twins,Cleveland Indians,8,7,1.0
+401228188,2021-06-26T00:10Z,Seattle Mariners at Chicago White Sox,Chicago White Sox,Seattle Mariners,3,9,0.0
+401228187,2021-06-26T00:15Z,Pittsburgh Pirates at St. Louis Cardinals,St. Louis Cardinals,Pittsburgh Pirates,4,5,0.0
+401228185,2021-06-26T01:45Z,Oakland Athletics at San Francisco Giants,San Francisco Giants,Oakland Athletics,2,0,1.0
+401228176,2021-06-26T02:10Z,Arizona Diamondbacks at San Diego Padres,San Diego Padres,Arizona Diamondbacks,11,5,1.0
+401228179,2021-06-26T02:10Z,Chicago Cubs at Los Angeles Dodgers,Los Angeles Dodgers,Chicago Cubs,6,2,1.0
+401341478,2021-06-26T17:10Z,Houston Astros at Detroit Tigers,Detroit Tigers,Houston Astros,3,1,1.0
+401228195,2021-06-26T18:10Z,Cleveland Indians at Minnesota Twins,Minnesota Twins,Cleveland Indians,0,0,0.5
+401228203,2021-06-26T18:10Z,Seattle Mariners at Chicago White Sox,Chicago White Sox,Seattle Mariners,2,3,0.0
+401228202,2021-06-26T18:15Z,Pittsburgh Pirates at St. Louis Cardinals,St. Louis Cardinals,Pittsburgh Pirates,3,1,1.0
+401228193,2021-06-26T19:07Z,Baltimore Orioles at Toronto Blue Jays,Toronto Blue Jays,Baltimore Orioles,12,4,1.0
+401228198,2021-06-26T20:05Z,Kansas City Royals at Texas Rangers,Texas Rangers,Kansas City Royals,8,0,1.0
+401228190,2021-06-26T20:10Z,Los Angeles Angels at Tampa Bay Rays,Tampa Bay Rays,Los Angeles Angels,13,3,1.0
+401228192,2021-06-26T20:10Z,Atlanta Braves at Cincinnati Reds,Cincinnati Reds,Atlanta Braves,4,1,1.0
+401228196,2021-06-26T20:10Z,Colorado Rockies at Milwaukee Brewers,Milwaukee Brewers,Colorado Rockies,10,4,1.0
+401228201,2021-06-26T20:10Z,Philadelphia Phillies at New York Mets,New York Mets,Philadelphia Phillies,4,3,1.0
+401228204,2021-06-26T20:10Z,Washington Nationals at Miami Marlins,Miami Marlins,Washington Nationals,3,2,1.0
+401228197,2021-06-26T22:10Z,Houston Astros at Detroit Tigers,Detroit Tigers,Houston Astros,2,3,0.0
+401228194,2021-06-26T23:15Z,Chicago Cubs at Los Angeles Dodgers,Los Angeles Dodgers,Chicago Cubs,3,2,1.0
+401228199,2021-06-26T23:15Z,New York Yankees at Boston Red Sox,Boston Red Sox,New York Yankees,4,2,1.0
+401228200,2021-06-27T02:05Z,Oakland Athletics at San Francisco Giants,San Francisco Giants,Oakland Athletics,6,5,1.0
+401228191,2021-06-27T02:10Z,Arizona Diamondbacks at San Diego Padres,San Diego Padres,Arizona Diamondbacks,1,10,0.0
+401228208,2021-06-27T17:07Z,Baltimore Orioles at Toronto Blue Jays,Toronto Blue Jays,Baltimore Orioles,5,2,1.0
+401228205,2021-06-27T17:10Z,Los Angeles Angels at Tampa Bay Rays,Tampa Bay Rays,Los Angeles Angels,4,6,0.0
+401228207,2021-06-27T17:10Z,Atlanta Braves at Cincinnati Reds,Cincinnati Reds,Atlanta Braves,0,4,0.0
+401228212,2021-06-27T17:10Z,Houston Astros at Detroit Tigers,Detroit Tigers,Houston Astros,2,1,1.0
+401228214,2021-06-27T17:10Z,New York Yankees at Boston Red Sox,Boston Red Sox,New York Yankees,9,2,1.0
+401228216,2021-06-27T17:10Z,Philadelphia Phillies at New York Mets,New York Mets,Philadelphia Phillies,2,4,0.0
+401228219,2021-06-27T17:10Z,Washington Nationals at Miami Marlins,Miami Marlins,Washington Nationals,1,5,0.0
+401228210,2021-06-27T18:10Z,Cleveland Indians at Minnesota Twins,Minnesota Twins,Cleveland Indians,8,2,1.0
+401228211,2021-06-27T18:10Z,Colorado Rockies at Milwaukee Brewers,Milwaukee Brewers,Colorado Rockies,5,0,1.0
+401228217,2021-06-27T18:15Z,Pittsburgh Pirates at St. Louis Cardinals,St. Louis Cardinals,Pittsburgh Pirates,2,7,0.0
+401228213,2021-06-27T18:35Z,Kansas City Royals at Texas Rangers,Texas Rangers,Kansas City Royals,4,1,1.0
+401228215,2021-06-27T20:05Z,Oakland Athletics at San Francisco Giants,San Francisco Giants,Oakland Athletics,2,6,0.0
+401228206,2021-06-27T20:10Z,Arizona Diamondbacks at San Diego Padres,San Diego Padres,Arizona Diamondbacks,5,4,1.0
+401228218,2021-06-27T21:15Z,Seattle Mariners at Chicago White Sox,Chicago White Sox,Seattle Mariners,7,5,1.0
+401228209,2021-06-27T23:00Z,Chicago Cubs at Los Angeles Dodgers,Los Angeles Dodgers,Chicago Cubs,7,1,1.0
+401228227,2021-06-28T21:10Z,Pittsburgh Pirates at Colorado Rockies,Colorado Rockies,Pittsburgh Pirates,2,0,1.0
+401332361,2021-06-28T22:40Z,Philadelphia Phillies at Cincinnati Reds,Cincinnati Reds,Philadelphia Phillies,12,4,1.0
+401228220,2021-06-28T23:05Z,Los Angeles Angels at New York Yankees,New York Yankees,Los Angeles Angels,3,5,0.0
+401319235,2021-06-28T23:05Z,New York Mets at Washington Nationals,Washington Nationals,New York Mets,8,4,1.0
+401228224,2021-06-28T23:10Z,Detroit Tigers at Cleveland Indians,Cleveland Indians,Detroit Tigers,13,5,1.0
+401228225,2021-06-28T23:10Z,Kansas City Royals at Boston Red Sox,Boston Red Sox,Kansas City Royals,6,5,1.0
+401228222,2021-06-29T00:10Z,Baltimore Orioles at Houston Astros,Houston Astros,Baltimore Orioles,7,9,0.0
+401228223,2021-06-29T00:10Z,Chicago Cubs at Milwaukee Brewers,Milwaukee Brewers,Chicago Cubs,14,4,1.0
+401228226,2021-06-29T00:10Z,Minnesota Twins at Chicago White Sox,Chicago White Sox,Minnesota Twins,0,0,0.5
+401228221,2021-06-29T00:15Z,Arizona Diamondbacks at St. Louis Cardinals,St. Louis Cardinals,Arizona Diamondbacks,7,1,1.0
+401228228,2021-06-29T02:10Z,San Francisco Giants at Los Angeles Dodgers,Los Angeles Dodgers,San Francisco Giants,3,2,1.0
+401228229,2021-06-29T23:05Z,Los Angeles Angels at New York Yankees,New York Yankees,Los Angeles Angels,11,5,1.0
+401228235,2021-06-29T23:05Z,Miami Marlins at Philadelphia Phillies,Philadelphia Phillies,Miami Marlins,4,3,1.0
+401228242,2021-06-29T23:05Z,Tampa Bay Rays at Washington Nationals,Washington Nationals,Tampa Bay Rays,4,3,1.0
+401228240,2021-06-29T23:07Z,Seattle Mariners at Toronto Blue Jays,Toronto Blue Jays,Seattle Mariners,9,3,1.0
+401228233,2021-06-29T23:10Z,Detroit Tigers at Cleveland Indians,Cleveland Indians,Detroit Tigers,0,0,0.5
+401228234,2021-06-29T23:10Z,Kansas City Royals at Boston Red Sox,Boston Red Sox,Kansas City Royals,7,6,1.0
+401228239,2021-06-29T23:10Z,San Diego Padres at Cincinnati Reds,Cincinnati Reds,San Diego Padres,4,5,0.0
+401228237,2021-06-29T23:20Z,New York Mets at Atlanta Braves,Atlanta Braves,New York Mets,3,4,0.0
+401228231,2021-06-30T00:10Z,Baltimore Orioles at Houston Astros,Houston Astros,Baltimore Orioles,3,13,0.0
+401228232,2021-06-30T00:10Z,Chicago Cubs at Milwaukee Brewers,Milwaukee Brewers,Chicago Cubs,2,1,1.0
+401228236,2021-06-30T00:10Z,Minnesota Twins at Chicago White Sox,Chicago White Sox,Minnesota Twins,7,6,1.0
+401228230,2021-06-30T00:15Z,Arizona Diamondbacks at St. Louis Cardinals,St. Louis Cardinals,Arizona Diamondbacks,3,2,1.0
+401228238,2021-06-30T00:40Z,Pittsburgh Pirates at Colorado Rockies,Colorado Rockies,Pittsburgh Pirates,8,0,1.0
+401228243,2021-06-30T01:40Z,Texas Rangers at Oakland Athletics,Oakland Athletics,Texas Rangers,4,5,0.0
+401228241,2021-06-30T02:00Z,San Francisco Giants at Los Angeles Dodgers,Los Angeles Dodgers,San Francisco Giants,3,1,1.0
+401228245,2021-06-30T17:15Z,Arizona Diamondbacks at St. Louis Cardinals,St. Louis Cardinals,Arizona Diamondbacks,7,4,1.0
+401228247,2021-06-30T18:10Z,Chicago Cubs at Milwaukee Brewers,Milwaukee Brewers,Chicago Cubs,15,7,1.0
+401228253,2021-06-30T19:10Z,Pittsburgh Pirates at Colorado Rockies,Colorado Rockies,Pittsburgh Pirates,6,2,1.0
+401228256,2021-06-30T20:05Z,Tampa Bay Rays at Washington Nationals,Washington Nationals,Tampa Bay Rays,15,6,1.0
+401228248,2021-06-30T20:10Z,Detroit Tigers at Cleveland Indians,Cleveland Indians,Detroit Tigers,4,9,0.0
+401228244,2021-06-30T23:00Z,Los Angeles Angels at New York Yankees,New York Yankees,Los Angeles Angels,8,11,0.0
+401228250,2021-06-30T23:05Z,Miami Marlins at Philadelphia Phillies,Philadelphia Phillies,Miami Marlins,6,11,0.0
+401228255,2021-06-30T23:07Z,Seattle Mariners at Toronto Blue Jays,Toronto Blue Jays,Seattle Mariners,7,9,0.0
+401228249,2021-06-30T23:10Z,Kansas City Royals at Boston Red Sox,Boston Red Sox,Kansas City Royals,6,2,1.0
+401228254,2021-06-30T23:10Z,San Diego Padres at Cincinnati Reds,Cincinnati Reds,San Diego Padres,5,7,0.0
+401228252,2021-06-30T23:20Z,New York Mets at Atlanta Braves,Atlanta Braves,New York Mets,20,2,1.0
+401228246,2021-07-01T00:10Z,Baltimore Orioles at Houston Astros,Houston Astros,Baltimore Orioles,2,5,0.0
+401228251,2021-07-01T00:10Z,Minnesota Twins at Chicago White Sox,Chicago White Sox,Minnesota Twins,13,3,1.0
+401228257,2021-07-01T01:40Z,Texas Rangers at Oakland Athletics,Oakland Athletics,Texas Rangers,3,1,1.0
+401341953,2021-07-01T02:15Z,Detroit Tigers at Cleveland Indians,Cleveland Indians,Detroit Tigers,1,7,0.0

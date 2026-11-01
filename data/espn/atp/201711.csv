@@ -1,0 +1,63 @@
+id,date,event,home,away,hs,as,res
+84136,2017-10-30T04:00Z,ATP Rolex Paris Masters,Mischa Zverev,Hyeon Chung,,,0.0
+84140,2017-10-30T04:00Z,ATP Rolex Paris Masters,Filip Krajinovic,Yuichi Sugita,,,1.0
+84141,2017-10-30T04:00Z,ATP Rolex Paris Masters,Vasek Pospisil,Nicolas Mahut,,,0.0
+84149,2017-10-30T04:00Z,ATP Rolex Paris Masters,Richard Gasquet,Benoit Paire,,,1.0
+84153,2017-10-30T04:00Z,ATP Rolex Paris Masters,Julien Benneteau,Denis Shapovalov,,,1.0
+84156,2017-10-30T04:00Z,ATP Rolex Paris Masters,Gilles Simon,Jeremy Chardy,,,0.0
+84144,2017-10-30T10:00Z,ATP Rolex Paris Masters,Steve Johnson,Robin Haase,,,0.0
+84160,2017-10-30T10:00Z,ATP Rolex Paris Masters,Ryan Harrison,Peter Gojowczyk,,,0.0
+84137,2017-10-31T04:00Z,ATP Rolex Paris Masters,Pablo Cuevas,Karen Khachanov,,,1.0
+84179,2017-10-31T04:00Z,ATP Rolex Paris Masters,Dominic Thiem,Peter Gojowczyk,,,1.0
+84170,2017-10-31T04:00Z,ATP Rolex Paris Masters,Nicolas Mahut,Pablo Carreno Busta,,,1.0
+84169,2017-10-31T04:00Z,ATP Rolex Paris Masters,Sam Querrey,Filip Krajinovic,,,0.0
+84165,2017-10-31T04:00Z,ATP Rolex Paris Masters,Pierre-Hugues Herbert,Feliciano Lopez,,,0.0
+84161,2017-10-31T04:00Z,ATP Rolex Paris Masters,Fernando Verdasco,Andrey Rublev,,,1.0
+84157,2017-10-31T04:00Z,ATP Rolex Paris Masters,Jan-Lennard Struff,Borna Coric,,,0.0
+84152,2017-10-31T04:00Z,ATP Rolex Paris Masters,Adrian Mannarino,David Ferrer,,,1.0
+84164,2017-10-31T10:00Z,ATP Rolex Paris Masters,Kyle Edmund,Evgeny Donskoy,,,1.0
+84148,2017-10-31T10:00Z,ATP Rolex Paris Masters,Diego Schwartzman,Viktor Troicki,,,1.0
+84145,2017-10-31T11:00Z,ATP Rolex Paris Masters,João Sousa,Paolo Lorenzi,,,1.0
+84182,2017-11-01T04:00Z,ATP Rolex Paris Masters,Feliciano Lopez,Lucas Pouille,,,0.0
+84181,2017-11-01T04:00Z,ATP Rolex Paris Masters,Jack Sock,Kyle Edmund,,,1.0
+84180,2017-11-01T04:00Z,ATP Rolex Paris Masters,Fernando Verdasco,Kevin Anderson,,,1.0
+84178,2017-11-01T04:00Z,ATP Rolex Paris Masters,Borna Coric,Marin Cilic,,,0.0
+84174,2017-11-01T04:00Z,ATP Rolex Paris Masters,Richard Gasquet,Grigor Dimitrov,,,0.0
+84177,2017-11-01T04:00Z,ATP Rolex Paris Masters,Roberto Bautista Agut,Jeremy Chardy,,,1.0
+84175,2017-11-01T04:00Z,ATP Rolex Paris Masters,David Goffin,Adrian Mannarino,,,1.0
+84172,2017-11-01T04:00Z,ATP Rolex Paris Masters,João Sousa,Juan Martin del Potro,,,0.0
+84167,2017-11-01T04:00Z,ATP Rolex Paris Masters,Rafael Nadal,Hyeon Chung,,,1.0
+84176,2017-11-01T04:00Z,ATP Rolex Paris Masters,Julien Benneteau,Jo-Wilfried Tsonga,,,1.0
+84173,2017-11-01T10:00Z,ATP Rolex Paris Masters,John Isner,Diego Schwartzman,,,1.0
+84171,2017-11-01T10:00Z,ATP Rolex Paris Masters,Alexander Zverev,Robin Haase,,,0.0
+84168,2017-11-01T10:00Z,ATP Rolex Paris Masters,Pablo Cuevas,Albert Ramos-Vinolas,,,1.0
+84199,2017-11-02T04:00Z,ATP Rolex Paris Masters,Jack Sock,Lucas Pouille,,,1.0
+84202,2017-11-02T04:00Z,ATP Rolex Paris Masters,Roberto Bautista Agut,Marin Cilic,,,0.0
+84201,2017-11-02T04:00Z,ATP Rolex Paris Masters,David Goffin,Julien Benneteau,,,0.0
+84200,2017-11-02T04:00Z,ATP Rolex Paris Masters,Rafael Nadal,Pablo Cuevas,,,1.0
+84198,2017-11-02T04:00Z,ATP Rolex Paris Masters,John Isner,Grigor Dimitrov,,,1.0
+84196,2017-11-02T04:00Z,ATP Rolex Paris Masters,Dominic Thiem,Fernando Verdasco,,,0.0
+84197,2017-11-02T10:00Z,ATP Rolex Paris Masters,Robin Haase,Juan Martin del Potro,,,0.0
+84195,2017-11-02T14:00Z,ATP Rolex Paris Masters,Filip Krajinovic,Nicolas Mahut,,,1.0
+84204,2017-11-03T04:00Z,ATP Rolex Paris Masters,Fernando Verdasco,Jack Sock,,,0.0
+84205,2017-11-03T04:00Z,ATP Rolex Paris Masters,Rafael Nadal,Filip Krajinovic,,,0.0
+84206,2017-11-03T04:00Z,ATP Rolex Paris Masters,Julien Benneteau,Marin Cilic,,,1.0
+84203,2017-11-03T13:00Z,ATP Rolex Paris Masters,Juan Martin del Potro,John Isner,,,0.0
+84210,2017-11-04T04:00Z,ATP Rolex Paris Masters,Julien Benneteau,Jack Sock,,,0.0
+84209,2017-11-04T13:00Z,ATP Rolex Paris Masters,Filip Krajinovic,John Isner,,,1.0
+84212,2017-11-05T14:00Z,ATP Rolex Paris Masters,Filip Krajinovic,Jack Sock,,,0.0
+84218,2017-11-12T14:00Z,Nitto ATP Finals,Roger Federer,Jack Sock,,,1.0
+84219,2017-11-12T20:00Z,Nitto ATP Finals,Alexander Zverev,Marin Cilic,,,1.0
+84220,2017-11-13T14:00Z,Nitto ATP Finals,Dominic Thiem,Grigor Dimitrov,,,0.0
+84221,2017-11-13T20:00Z,Nitto ATP Finals,Rafael Nadal,David Goffin,,,0.0
+84222,2017-11-14T14:00Z,Nitto ATP Finals,Marin Cilic,Jack Sock,,,0.0
+84223,2017-11-14T20:00Z,Nitto ATP Finals,Roger Federer,Alexander Zverev,,,1.0
+84224,2017-11-15T14:00Z,Nitto ATP Finals,Grigor Dimitrov,David Goffin,,,1.0
+84225,2017-11-15T20:00Z,Nitto ATP Finals,Pablo Carreno Busta,Dominic Thiem,,,0.0
+84226,2017-11-16T14:00Z,Nitto ATP Finals,Roger Federer,Marin Cilic,,,1.0
+84227,2017-11-16T20:00Z,Nitto ATP Finals,Alexander Zverev,Jack Sock,,,0.0
+84228,2017-11-17T14:00Z,Nitto ATP Finals,Dominic Thiem,David Goffin,,,0.0
+84229,2017-11-17T20:00Z,Nitto ATP Finals,Pablo Carreno Busta,Grigor Dimitrov,,,0.0
+84230,2017-11-18T14:00Z,Nitto ATP Finals,Roger Federer,David Goffin,,,0.0
+84231,2017-11-18T20:00Z,Nitto ATP Finals,Grigor Dimitrov,Jack Sock,,,1.0
+84232,2017-11-19T18:00Z,Nitto ATP Finals,Grigor Dimitrov,David Goffin,,,1.0

@@ -1,0 +1,424 @@
+id,date,event,home,away,hs,as,res
+401355759,2022-08-01T22:40Z,Cincinnati Reds at Miami Marlins,Miami Marlins,Cincinnati Reds,1,3,0.0
+401355764,2022-08-01T23:05Z,New York Mets at Washington Nationals,Washington Nationals,New York Mets,3,7,0.0
+401355765,2022-08-01T23:05Z,Seattle Mariners at New York Yankees,New York Yankees,Seattle Mariners,7,2,1.0
+401355756,2022-08-01T23:10Z,Arizona Diamondbacks at Cleveland Guardians,Cleveland Guardians,Arizona Diamondbacks,6,5,1.0
+401355761,2022-08-01T23:40Z,Detroit Tigers at Minnesota Twins,Minnesota Twins,Detroit Tigers,5,3,1.0
+401355758,2022-08-02T00:00Z,Boston Red Sox at Houston Astros,Houston Astros,Boston Red Sox,2,3,0.0
+401355757,2022-08-02T00:05Z,Baltimore Orioles at Texas Rangers,Texas Rangers,Baltimore Orioles,2,7,0.0
+401355762,2022-08-02T00:10Z,Kansas City Royals at Chicago White Sox,Chicago White Sox,Kansas City Royals,1,2,0.0
+401355760,2022-08-02T01:40Z,Colorado Rockies at San Diego Padres,San Diego Padres,Colorado Rockies,4,1,1.0
+401355763,2022-08-02T01:45Z,Los Angeles Dodgers at San Francisco Giants,San Francisco Giants,Los Angeles Dodgers,2,8,0.0
+401423245,2022-08-02T20:10Z,Colorado Rockies at San Diego Padres,San Diego Padres,Colorado Rockies,13,5,1.0
+401355770,2022-08-02T22:40Z,Cincinnati Reds at Miami Marlins,Miami Marlins,Cincinnati Reds,1,2,0.0
+401355775,2022-08-02T23:05Z,Milwaukee Brewers at Pittsburgh Pirates,Pittsburgh Pirates,Milwaukee Brewers,5,3,1.0
+401355776,2022-08-02T23:05Z,New York Mets at Washington Nationals,Washington Nationals,New York Mets,5,1,1.0
+401355779,2022-08-02T23:05Z,Seattle Mariners at New York Yankees,New York Yankees,Seattle Mariners,6,8,0.0
+401355766,2022-08-02T23:10Z,Arizona Diamondbacks at Cleveland Guardians,Cleveland Guardians,Arizona Diamondbacks,3,6,0.0
+401355780,2022-08-02T23:10Z,Toronto Blue Jays at Tampa Bay Rays,Tampa Bay Rays,Toronto Blue Jays,1,3,0.0
+401355778,2022-08-02T23:20Z,Philadelphia Phillies at Atlanta Braves,Atlanta Braves,Philadelphia Phillies,13,1,1.0
+401355772,2022-08-02T23:40Z,Detroit Tigers at Minnesota Twins,Minnesota Twins,Detroit Tigers,3,5,0.0
+401355769,2022-08-02T23:45Z,Chicago Cubs at St. Louis Cardinals,St. Louis Cardinals,Chicago Cubs,6,0,1.0
+401355767,2022-08-03T00:05Z,Baltimore Orioles at Texas Rangers,Texas Rangers,Baltimore Orioles,2,8,0.0
+401355768,2022-08-03T00:10Z,Boston Red Sox at Houston Astros,Houston Astros,Boston Red Sox,1,2,0.0
+401355773,2022-08-03T00:10Z,Kansas City Royals at Chicago White Sox,Chicago White Sox,Kansas City Royals,9,2,1.0
+401355777,2022-08-03T01:38Z,Oakland Athletics at Los Angeles Angels,Los Angeles Angels,Oakland Athletics,3,1,1.0
+401355774,2022-08-03T01:45Z,Los Angeles Dodgers at San Francisco Giants,San Francisco Giants,Los Angeles Dodgers,5,9,0.0
+401355771,2022-08-03T02:10Z,Colorado Rockies at San Diego Padres,San Diego Padres,Colorado Rockies,3,2,1.0
+401355795,2022-08-03T16:10Z,Toronto Blue Jays at Tampa Bay Rays,Tampa Bay Rays,Toronto Blue Jays,3,2,1.0
+401355793,2022-08-03T16:20Z,Philadelphia Phillies at Atlanta Braves,Atlanta Braves,Philadelphia Phillies,1,3,0.0
+401355794,2022-08-03T17:05Z,Seattle Mariners at New York Yankees,New York Yankees,Seattle Mariners,3,7,0.0
+401355781,2022-08-03T17:10Z,Arizona Diamondbacks at Cleveland Guardians,Cleveland Guardians,Arizona Diamondbacks,7,4,1.0
+401355787,2022-08-03T17:10Z,Detroit Tigers at Minnesota Twins,Minnesota Twins,Detroit Tigers,4,1,1.0
+401355782,2022-08-03T18:05Z,Baltimore Orioles at Texas Rangers,Texas Rangers,Baltimore Orioles,3,6,0.0
+401355783,2022-08-03T18:10Z,Boston Red Sox at Houston Astros,Houston Astros,Boston Red Sox,6,1,1.0
+401355788,2022-08-03T18:10Z,Kansas City Royals at Chicago White Sox,Chicago White Sox,Kansas City Royals,4,1,1.0
+401355791,2022-08-03T20:05Z,New York Mets at Washington Nationals,Washington Nationals,New York Mets,5,9,0.0
+401355785,2022-08-03T22:40Z,Cincinnati Reds at Miami Marlins,Miami Marlins,Cincinnati Reds,3,0,1.0
+401355790,2022-08-03T23:05Z,Milwaukee Brewers at Pittsburgh Pirates,Pittsburgh Pirates,Milwaukee Brewers,8,7,1.0
+401355784,2022-08-03T23:45Z,Chicago Cubs at St. Louis Cardinals,St. Louis Cardinals,Chicago Cubs,0,0,0.5
+401355792,2022-08-04T01:38Z,Oakland Athletics at Los Angeles Angels,Los Angeles Angels,Oakland Athletics,1,3,0.0
+401355786,2022-08-04T01:40Z,Colorado Rockies at San Diego Padres,San Diego Padres,Colorado Rockies,9,1,1.0
+401355789,2022-08-04T01:45Z,Los Angeles Dodgers at San Francisco Giants,San Francisco Giants,Los Angeles Dodgers,0,3,0.0
+401355803,2022-08-04T16:35Z,Milwaukee Brewers at Pittsburgh Pirates,Pittsburgh Pirates,Milwaukee Brewers,5,4,1.0
+401465780,2022-08-04T17:15Z,Chicago Cubs at St. Louis Cardinals,St. Louis Cardinals,Chicago Cubs,4,3,1.0
+401355802,2022-08-04T19:45Z,Los Angeles Dodgers at San Francisco Giants,San Francisco Giants,Los Angeles Dodgers,3,5,0.0
+401355804,2022-08-04T20:07Z,Oakland Athletics at Los Angeles Angels,Los Angeles Angels,Oakland Athletics,7,8,0.0
+401355800,2022-08-04T20:10Z,Colorado Rockies at San Diego Padres,San Diego Padres,Colorado Rockies,3,7,0.0
+401355807,2022-08-04T23:05Z,Washington Nationals at Philadelphia Phillies,Philadelphia Phillies,Washington Nationals,5,4,1.0
+401355796,2022-08-04T23:10Z,Atlanta Braves at New York Mets,New York Mets,Atlanta Braves,6,4,1.0
+401355801,2022-08-04T23:10Z,Houston Astros at Cleveland Guardians,Cleveland Guardians,Houston Astros,0,6,0.0
+401355805,2022-08-04T23:10Z,Tampa Bay Rays at Detroit Tigers,Detroit Tigers,Tampa Bay Rays,2,6,0.0
+401355806,2022-08-04T23:40Z,Toronto Blue Jays at Minnesota Twins,Minnesota Twins,Toronto Blue Jays,3,9,0.0
+401355799,2022-08-04T23:45Z,Chicago Cubs at St. Louis Cardinals,St. Louis Cardinals,Chicago Cubs,7,2,1.0
+401355798,2022-08-05T00:05Z,Chicago White Sox at Texas Rangers,Texas Rangers,Chicago White Sox,3,2,1.0
+401355797,2022-08-05T00:10Z,Boston Red Sox at Kansas City Royals,Kansas City Royals,Boston Red Sox,7,3,1.0
+401355815,2022-08-05T18:20Z,Miami Marlins at Chicago Cubs,Chicago Cubs,Miami Marlins,2,1,1.0
+401355817,2022-08-05T23:05Z,Pittsburgh Pirates at Baltimore Orioles,Baltimore Orioles,Pittsburgh Pirates,1,0,1.0
+401355821,2022-08-05T23:05Z,Washington Nationals at Philadelphia Phillies,Philadelphia Phillies,Washington Nationals,7,2,1.0
+401355809,2022-08-05T23:10Z,Atlanta Braves at New York Mets,New York Mets,Atlanta Braves,6,9,0.0
+401355814,2022-08-05T23:10Z,Houston Astros at Cleveland Guardians,Cleveland Guardians,Houston Astros,3,9,0.0
+401355819,2022-08-05T23:10Z,Tampa Bay Rays at Detroit Tigers,Detroit Tigers,Tampa Bay Rays,3,5,0.0
+401355811,2022-08-06T00:05Z,Chicago White Sox at Texas Rangers,Texas Rangers,Chicago White Sox,1,2,0.0
+401355810,2022-08-06T00:10Z,Boston Red Sox at Kansas City Royals,Kansas City Royals,Boston Red Sox,4,7,0.0
+401355812,2022-08-06T00:10Z,Cincinnati Reds at Milwaukee Brewers,Milwaukee Brewers,Cincinnati Reds,5,1,1.0
+401355820,2022-08-06T00:10Z,Toronto Blue Jays at Minnesota Twins,Minnesota Twins,Toronto Blue Jays,6,5,1.0
+401355816,2022-08-06T00:15Z,New York Yankees at St. Louis Cardinals,St. Louis Cardinals,New York Yankees,4,3,1.0
+401355813,2022-08-06T01:40Z,Colorado Rockies at Arizona Diamondbacks,Arizona Diamondbacks,Colorado Rockies,6,5,1.0
+401355808,2022-08-06T02:10Z,Los Angeles Angels at Seattle Mariners,Seattle Mariners,Los Angeles Angels,3,4,0.0
+401355818,2022-08-06T02:10Z,San Diego Padres at Los Angeles Dodgers,Los Angeles Dodgers,San Diego Padres,8,1,1.0
+401423247,2022-08-06T17:10Z,Atlanta Braves at New York Mets,New York Mets,Atlanta Braves,8,5,1.0
+401355829,2022-08-06T18:20Z,Miami Marlins at Chicago Cubs,Chicago Cubs,Miami Marlins,4,0,1.0
+401355822,2022-08-06T20:10Z,Los Angeles Angels at Seattle Mariners,Seattle Mariners,Los Angeles Angels,2,1,1.0
+401355831,2022-08-06T21:05Z,Pittsburgh Pirates at Baltimore Orioles,Baltimore Orioles,Pittsburgh Pirates,6,3,1.0
+401355836,2022-08-06T22:05Z,Washington Nationals at Philadelphia Phillies,Philadelphia Phillies,Washington Nationals,11,5,1.0
+401355828,2022-08-06T22:10Z,Houston Astros at Cleveland Guardians,Cleveland Guardians,Houston Astros,4,1,1.0
+401355834,2022-08-06T22:10Z,Tampa Bay Rays at Detroit Tigers,Detroit Tigers,Tampa Bay Rays,9,1,1.0
+401355825,2022-08-06T23:05Z,Chicago White Sox at Texas Rangers,Texas Rangers,Chicago White Sox,8,0,1.0
+401355833,2022-08-06T23:07Z,San Francisco Giants at Oakland Athletics,Oakland Athletics,San Francisco Giants,3,7,0.0
+401355823,2022-08-06T23:10Z,Atlanta Braves at New York Mets,New York Mets,Atlanta Braves,6,2,1.0
+401355824,2022-08-06T23:10Z,Boston Red Sox at Kansas City Royals,Kansas City Royals,Boston Red Sox,5,4,1.0
+401355835,2022-08-06T23:10Z,Toronto Blue Jays at Minnesota Twins,Minnesota Twins,Toronto Blue Jays,7,3,1.0
+401355826,2022-08-06T23:15Z,Cincinnati Reds at Milwaukee Brewers,Milwaukee Brewers,Cincinnati Reds,5,7,0.0
+401355830,2022-08-06T23:15Z,New York Yankees at St. Louis Cardinals,St. Louis Cardinals,New York Yankees,1,0,1.0
+401355827,2022-08-07T00:10Z,Colorado Rockies at Arizona Diamondbacks,Arizona Diamondbacks,Colorado Rockies,2,3,0.0
+401355832,2022-08-07T01:10Z,San Diego Padres at Los Angeles Dodgers,Los Angeles Dodgers,San Diego Padres,8,3,1.0
+401423246,2022-08-07T02:10Z,Los Angeles Angels at Seattle Mariners,Seattle Mariners,Los Angeles Angels,1,7,0.0
+401355843,2022-08-07T16:05Z,Houston Astros at Cleveland Guardians,Cleveland Guardians,Houston Astros,1,0,1.0
+401355846,2022-08-07T17:35Z,Pittsburgh Pirates at Baltimore Orioles,Baltimore Orioles,Pittsburgh Pirates,1,8,0.0
+401355851,2022-08-07T17:35Z,Washington Nationals at Philadelphia Phillies,Philadelphia Phillies,Washington Nationals,13,1,1.0
+401355849,2022-08-07T17:40Z,Tampa Bay Rays at Detroit Tigers,Detroit Tigers,Tampa Bay Rays,0,7,0.0
+401355839,2022-08-07T18:10Z,Boston Red Sox at Kansas City Royals,Kansas City Royals,Boston Red Sox,13,5,1.0
+401355841,2022-08-07T18:10Z,Cincinnati Reds at Milwaukee Brewers,Milwaukee Brewers,Cincinnati Reds,2,4,0.0
+401355850,2022-08-07T18:10Z,Toronto Blue Jays at Minnesota Twins,Minnesota Twins,Toronto Blue Jays,2,3,0.0
+401355845,2022-08-07T18:15Z,New York Yankees at St. Louis Cardinals,St. Louis Cardinals,New York Yankees,12,9,1.0
+401355844,2022-08-07T18:20Z,Miami Marlins at Chicago Cubs,Chicago Cubs,Miami Marlins,0,3,0.0
+401355840,2022-08-07T18:35Z,Chicago White Sox at Texas Rangers,Texas Rangers,Chicago White Sox,2,8,0.0
+401355848,2022-08-07T20:07Z,San Francisco Giants at Oakland Athletics,Oakland Athletics,San Francisco Giants,4,6,0.0
+401355837,2022-08-07T20:10Z,Los Angeles Angels at Seattle Mariners,Seattle Mariners,Los Angeles Angels,6,3,1.0
+401355838,2022-08-07T20:10Z,Atlanta Braves at New York Mets,New York Mets,Atlanta Braves,5,2,1.0
+401355842,2022-08-07T20:10Z,Colorado Rockies at Arizona Diamondbacks,Arizona Diamondbacks,Colorado Rockies,6,4,1.0
+401355847,2022-08-07T23:00Z,San Diego Padres at Los Angeles Dodgers,Los Angeles Dodgers,San Diego Padres,4,0,1.0
+401355857,2022-08-08T23:05Z,Toronto Blue Jays at Baltimore Orioles,Baltimore Orioles,Toronto Blue Jays,7,4,1.0
+401355853,2022-08-08T23:10Z,Cincinnati Reds at New York Mets,New York Mets,Cincinnati Reds,5,1,1.0
+401355858,2022-08-09T00:05Z,Washington Nationals at Chicago Cubs,Chicago Cubs,Washington Nationals,6,3,1.0
+401355852,2022-08-09T01:40Z,Los Angeles Angels at Oakland Athletics,Oakland Athletics,Los Angeles Angels,0,1,0.0
+401355855,2022-08-09T01:40Z,Pittsburgh Pirates at Arizona Diamondbacks,Arizona Diamondbacks,Pittsburgh Pirates,3,0,1.0
+401355856,2022-08-09T01:40Z,San Francisco Giants at San Diego Padres,San Diego Padres,San Francisco Giants,0,1,0.0
+401355854,2022-08-09T02:10Z,New York Yankees at Seattle Mariners,Seattle Mariners,New York Yankees,4,9,0.0
+401355861,2022-08-09T20:10Z,Chicago White Sox at Kansas City Royals,Kansas City Royals,Chicago White Sox,4,2,1.0
+401355864,2022-08-09T23:05Z,Miami Marlins at Philadelphia Phillies,Philadelphia Phillies,Miami Marlins,4,1,1.0
+401355872,2022-08-09T23:05Z,Toronto Blue Jays at Baltimore Orioles,Baltimore Orioles,Toronto Blue Jays,6,5,1.0
+401355860,2022-08-09T23:10Z,Atlanta Braves at Boston Red Sox,Boston Red Sox,Atlanta Braves,7,9,0.0
+401355862,2022-08-09T23:10Z,Cincinnati Reds at New York Mets,New York Mets,Cincinnati Reds,6,2,1.0
+401355863,2022-08-09T23:10Z,Cleveland Guardians at Detroit Tigers,Detroit Tigers,Cleveland Guardians,2,5,0.0
+401423248,2022-08-09T23:30Z,Chicago White Sox at Kansas City Royals,Kansas City Royals,Chicago White Sox,2,3,0.0
+401355873,2022-08-10T00:05Z,Washington Nationals at Chicago Cubs,Chicago Cubs,Washington Nationals,5,6,0.0
+401355870,2022-08-10T00:10Z,Tampa Bay Rays at Milwaukee Brewers,Milwaukee Brewers,Tampa Bay Rays,5,3,1.0
+401355871,2022-08-10T00:10Z,Texas Rangers at Houston Astros,Houston Astros,Texas Rangers,7,5,1.0
+401355869,2022-08-10T00:40Z,St. Louis Cardinals at Colorado Rockies,Colorado Rockies,St. Louis Cardinals,16,5,1.0
+401355859,2022-08-10T01:40Z,Los Angeles Angels at Oakland Athletics,Oakland Athletics,Los Angeles Angels,1,5,0.0
+401355867,2022-08-10T01:40Z,Pittsburgh Pirates at Arizona Diamondbacks,Arizona Diamondbacks,Pittsburgh Pirates,6,4,1.0
+401355868,2022-08-10T01:40Z,San Francisco Giants at San Diego Padres,San Diego Padres,San Francisco Giants,7,4,1.0
+401355865,2022-08-10T02:10Z,Minnesota Twins at Los Angeles Dodgers,Los Angeles Dodgers,Minnesota Twins,10,3,1.0
+401355866,2022-08-10T02:10Z,New York Yankees at Seattle Mariners,Seattle Mariners,New York Yankees,1,0,1.0
+401355877,2022-08-10T17:10Z,Cincinnati Reds at New York Mets,New York Mets,Cincinnati Reds,10,2,1.0
+401355885,2022-08-10T18:10Z,Tampa Bay Rays at Milwaukee Brewers,Milwaukee Brewers,Tampa Bay Rays,4,3,1.0
+401355888,2022-08-10T18:20Z,Washington Nationals at Chicago Cubs,Chicago Cubs,Washington Nationals,4,2,1.0
+401355874,2022-08-10T19:37Z,Los Angeles Angels at Oakland Athletics,Oakland Athletics,Los Angeles Angels,4,5,0.0
+401355881,2022-08-10T20:10Z,New York Yankees at Seattle Mariners,Seattle Mariners,New York Yankees,4,3,1.0
+401355883,2022-08-10T20:10Z,San Francisco Giants at San Diego Padres,San Diego Padres,San Francisco Giants,13,7,1.0
+401355879,2022-08-10T23:05Z,Miami Marlins at Philadelphia Phillies,Philadelphia Phillies,Miami Marlins,4,3,1.0
+401355887,2022-08-10T23:05Z,Toronto Blue Jays at Baltimore Orioles,Baltimore Orioles,Toronto Blue Jays,0,0,0.5
+401355875,2022-08-10T23:10Z,Atlanta Braves at Boston Red Sox,Boston Red Sox,Atlanta Braves,4,8,0.0
+401355878,2022-08-10T23:10Z,Cleveland Guardians at Detroit Tigers,Detroit Tigers,Cleveland Guardians,2,3,0.0
+401355876,2022-08-11T00:10Z,Chicago White Sox at Kansas City Royals,Kansas City Royals,Chicago White Sox,8,3,1.0
+401355886,2022-08-11T00:10Z,Texas Rangers at Houston Astros,Houston Astros,Texas Rangers,4,8,0.0
+401355884,2022-08-11T00:40Z,St. Louis Cardinals at Colorado Rockies,Colorado Rockies,St. Louis Cardinals,5,9,0.0
+401355882,2022-08-11T01:40Z,Pittsburgh Pirates at Arizona Diamondbacks,Arizona Diamondbacks,Pittsburgh Pirates,4,6,0.0
+401355880,2022-08-11T02:10Z,Minnesota Twins at Los Angeles Dodgers,Los Angeles Dodgers,Minnesota Twins,8,5,1.0
+401355891,2022-08-11T17:05Z,Miami Marlins at Philadelphia Phillies,Philadelphia Phillies,Miami Marlins,0,3,0.0
+401355890,2022-08-11T17:10Z,Cleveland Guardians at Detroit Tigers,Detroit Tigers,Cleveland Guardians,3,4,0.0
+401355889,2022-08-11T18:10Z,Chicago White Sox at Kansas City Royals,Kansas City Royals,Chicago White Sox,5,3,1.0
+401355894,2022-08-11T18:10Z,Texas Rangers at Houston Astros,Houston Astros,Texas Rangers,7,3,1.0
+401355893,2022-08-11T19:10Z,St. Louis Cardinals at Colorado Rockies,Colorado Rockies,St. Louis Cardinals,8,6,1.0
+401355892,2022-08-11T19:40Z,Pittsburgh Pirates at Arizona Diamondbacks,Arizona Diamondbacks,Pittsburgh Pirates,9,3,1.0
+401423250,2022-08-11T23:10Z,Baltimore Orioles at Boston Red Sox,Boston Red Sox,Baltimore Orioles,4,3,1.0
+401355898,2022-08-11T23:15Z,Chicago Cubs at Cincinnati Reds,Cincinnati Reds,Chicago Cubs,2,4,0.0
+401355896,2022-08-12T22:40Z,Atlanta Braves at Miami Marlins,Miami Marlins,Atlanta Braves,3,4,0.0
+401355908,2022-08-12T23:05Z,San Diego Padres at Washington Nationals,Washington Nationals,San Diego Padres,5,10,0.0
+401355899,2022-08-12T23:07Z,Cleveland Guardians at Toronto Blue Jays,Toronto Blue Jays,Cleveland Guardians,0,8,0.0
+401355897,2022-08-12T23:10Z,Baltimore Orioles at Tampa Bay Rays,Tampa Bay Rays,Baltimore Orioles,3,10,0.0
+401355900,2022-08-12T23:10Z,Detroit Tigers at Chicago White Sox,Chicago White Sox,Detroit Tigers,2,0,1.0
+401355904,2022-08-12T23:10Z,New York Yankees at Boston Red Sox,Boston Red Sox,New York Yankees,3,2,1.0
+401355906,2022-08-12T23:10Z,Philadelphia Phillies at New York Mets,New York Mets,Philadelphia Phillies,1,2,0.0
+401355909,2022-08-13T00:05Z,Seattle Mariners at Texas Rangers,Texas Rangers,Seattle Mariners,2,6,0.0
+401355901,2022-08-13T00:10Z,Los Angeles Dodgers at Kansas City Royals,Kansas City Royals,Los Angeles Dodgers,3,8,0.0
+401355905,2022-08-13T00:10Z,Oakland Athletics at Houston Astros,Houston Astros,Oakland Athletics,7,5,1.0
+401355902,2022-08-13T00:15Z,Milwaukee Brewers at St. Louis Cardinals,St. Louis Cardinals,Milwaukee Brewers,3,1,1.0
+401355895,2022-08-13T00:40Z,Arizona Diamondbacks at Colorado Rockies,Colorado Rockies,Arizona Diamondbacks,5,3,1.0
+401355903,2022-08-13T01:38Z,Minnesota Twins at Los Angeles Angels,Los Angeles Angels,Minnesota Twins,0,4,0.0
+401355907,2022-08-13T02:15Z,Pittsburgh Pirates at San Francisco Giants,San Francisco Giants,Pittsburgh Pirates,5,3,1.0
+401423251,2022-08-13T17:10Z,Atlanta Braves at Miami Marlins,Miami Marlins,Atlanta Braves,2,5,0.0
+401355914,2022-08-13T19:07Z,Cleveland Guardians at Toronto Blue Jays,Toronto Blue Jays,Cleveland Guardians,2,1,1.0
+401355912,2022-08-13T20:10Z,Baltimore Orioles at Tampa Bay Rays,Tampa Bay Rays,Baltimore Orioles,8,2,1.0
+401355913,2022-08-13T22:40Z,Chicago Cubs at Cincinnati Reds,Cincinnati Reds,Chicago Cubs,2,7,0.0
+401355923,2022-08-13T23:05Z,San Diego Padres at Washington Nationals,Washington Nationals,San Diego Padres,4,3,1.0
+401355911,2022-08-13T23:10Z,Atlanta Braves at Miami Marlins,Miami Marlins,Atlanta Braves,2,6,0.0
+401355915,2022-08-13T23:10Z,Detroit Tigers at Chicago White Sox,Chicago White Sox,Detroit Tigers,6,4,1.0
+401355916,2022-08-13T23:10Z,Los Angeles Dodgers at Kansas City Royals,Kansas City Royals,Los Angeles Dodgers,3,13,0.0
+401355920,2022-08-13T23:10Z,Oakland Athletics at Houston Astros,Houston Astros,Oakland Athletics,8,0,1.0
+401355921,2022-08-13T23:10Z,Philadelphia Phillies at New York Mets,New York Mets,Philadelphia Phillies,1,0,1.0
+401355917,2022-08-13T23:15Z,Milwaukee Brewers at St. Louis Cardinals,St. Louis Cardinals,Milwaukee Brewers,2,3,0.0
+401355919,2022-08-13T23:15Z,New York Yankees at Boston Red Sox,Boston Red Sox,New York Yankees,2,3,0.0
+401355924,2022-08-13T23:15Z,Seattle Mariners at Texas Rangers,Texas Rangers,Seattle Mariners,7,4,1.0
+401355910,2022-08-14T00:10Z,Arizona Diamondbacks at Colorado Rockies,Colorado Rockies,Arizona Diamondbacks,0,6,0.0
+401355922,2022-08-14T01:05Z,Pittsburgh Pirates at San Francisco Giants,San Francisco Giants,Pittsburgh Pirates,2,0,1.0
+401355918,2022-08-14T01:07Z,Minnesota Twins at Los Angeles Angels,Los Angeles Angels,Minnesota Twins,5,3,1.0
+401355938,2022-08-14T16:05Z,San Diego Padres at Washington Nationals,Washington Nationals,San Diego Padres,0,6,0.0
+401355929,2022-08-14T17:37Z,Cleveland Guardians at Toronto Blue Jays,Toronto Blue Jays,Cleveland Guardians,2,7,0.0
+401355926,2022-08-14T17:40Z,Atlanta Braves at Miami Marlins,Miami Marlins,Atlanta Braves,1,3,0.0
+401355927,2022-08-14T17:40Z,Baltimore Orioles at Tampa Bay Rays,Tampa Bay Rays,Baltimore Orioles,4,1,1.0
+401355928,2022-08-14T17:40Z,Chicago Cubs at Cincinnati Reds,Cincinnati Reds,Chicago Cubs,8,5,1.0
+401355936,2022-08-14T17:40Z,Philadelphia Phillies at New York Mets,New York Mets,Philadelphia Phillies,6,0,1.0
+401355930,2022-08-14T18:10Z,Detroit Tigers at Chicago White Sox,Chicago White Sox,Detroit Tigers,5,3,1.0
+401355931,2022-08-14T18:10Z,Los Angeles Dodgers at Kansas City Royals,Kansas City Royals,Los Angeles Dodgers,4,0,1.0
+401355935,2022-08-14T18:10Z,Oakland Athletics at Houston Astros,Houston Astros,Oakland Athletics,6,3,1.0
+401355932,2022-08-14T18:15Z,Milwaukee Brewers at St. Louis Cardinals,St. Louis Cardinals,Milwaukee Brewers,6,3,1.0
+401355939,2022-08-14T18:35Z,Seattle Mariners at Texas Rangers,Texas Rangers,Seattle Mariners,5,3,1.0
+401355925,2022-08-14T19:10Z,Arizona Diamondbacks at Colorado Rockies,Colorado Rockies,Arizona Diamondbacks,4,7,0.0
+401355937,2022-08-14T20:05Z,Pittsburgh Pirates at San Francisco Giants,San Francisco Giants,Pittsburgh Pirates,8,7,1.0
+401355933,2022-08-14T20:07Z,Minnesota Twins at Los Angeles Angels,Los Angeles Angels,Minnesota Twins,4,2,1.0
+401355934,2022-08-14T23:00Z,New York Yankees at Boston Red Sox,Boston Red Sox,New York Yankees,3,0,1.0
+401463303,2022-08-15T19:10Z,Detroit Tigers at Cleveland Guardians,Cleveland Guardians,Detroit Tigers,4,1,1.0
+401355949,2022-08-15T22:40Z,Philadelphia Phillies at Cincinnati Reds,Cincinnati Reds,Philadelphia Phillies,3,4,0.0
+401355950,2022-08-15T22:40Z,San Diego Padres at Miami Marlins,Miami Marlins,San Diego Padres,3,0,1.0
+401355943,2022-08-15T22:45Z,Detroit Tigers at Cleveland Guardians,Cleveland Guardians,Detroit Tigers,5,7,0.0
+401355942,2022-08-15T23:05Z,Chicago Cubs at Washington Nationals,Washington Nationals,Chicago Cubs,5,4,1.0
+401355952,2022-08-15T23:05Z,Tampa Bay Rays at New York Yankees,New York Yankees,Tampa Bay Rays,0,4,0.0
+401355941,2022-08-15T23:07Z,Baltimore Orioles at Toronto Blue Jays,Toronto Blue Jays,Baltimore Orioles,3,7,0.0
+401355947,2022-08-15T23:20Z,New York Mets at Atlanta Braves,Atlanta Braves,New York Mets,13,1,1.0
+401355945,2022-08-15T23:40Z,Kansas City Royals at Minnesota Twins,Minnesota Twins,Kansas City Royals,4,2,1.0
+401355948,2022-08-16T00:05Z,Oakland Athletics at Texas Rangers,Texas Rangers,Oakland Athletics,2,1,1.0
+401355944,2022-08-16T00:10Z,Houston Astros at Chicago White Sox,Chicago White Sox,Houston Astros,4,2,1.0
+401355946,2022-08-16T00:10Z,Los Angeles Dodgers at Milwaukee Brewers,Milwaukee Brewers,Los Angeles Dodgers,0,4,0.0
+401355951,2022-08-16T01:38Z,Seattle Mariners at Los Angeles Angels,Los Angeles Angels,Seattle Mariners,2,6,0.0
+401355940,2022-08-16T01:45Z,Arizona Diamondbacks at San Francisco Giants,San Francisco Giants,Arizona Diamondbacks,6,1,1.0
+401355964,2022-08-16T22:40Z,Philadelphia Phillies at Cincinnati Reds,Cincinnati Reds,Philadelphia Phillies,4,11,0.0
+401355965,2022-08-16T22:40Z,San Diego Padres at Miami Marlins,Miami Marlins,San Diego Padres,4,3,1.0
+401355955,2022-08-16T23:05Z,Boston Red Sox at Pittsburgh Pirates,Pittsburgh Pirates,Boston Red Sox,3,5,0.0
+401355956,2022-08-16T23:05Z,Chicago Cubs at Washington Nationals,Washington Nationals,Chicago Cubs,5,7,0.0
+401355967,2022-08-16T23:05Z,Tampa Bay Rays at New York Yankees,New York Yankees,Tampa Bay Rays,1,3,0.0
+401355954,2022-08-16T23:07Z,Baltimore Orioles at Toronto Blue Jays,Toronto Blue Jays,Baltimore Orioles,2,4,0.0
+401355958,2022-08-16T23:10Z,Detroit Tigers at Cleveland Guardians,Cleveland Guardians,Detroit Tigers,3,4,0.0
+401355962,2022-08-16T23:20Z,New York Mets at Atlanta Braves,Atlanta Braves,New York Mets,5,0,1.0
+401355960,2022-08-16T23:40Z,Kansas City Royals at Minnesota Twins,Minnesota Twins,Kansas City Royals,9,0,1.0
+401355957,2022-08-16T23:45Z,Colorado Rockies at St. Louis Cardinals,St. Louis Cardinals,Colorado Rockies,5,4,1.0
+401355963,2022-08-17T00:05Z,Oakland Athletics at Texas Rangers,Texas Rangers,Oakland Athletics,1,5,0.0
+401355959,2022-08-17T00:10Z,Houston Astros at Chicago White Sox,Chicago White Sox,Houston Astros,4,3,1.0
+401355961,2022-08-17T00:10Z,Los Angeles Dodgers at Milwaukee Brewers,Milwaukee Brewers,Los Angeles Dodgers,5,4,1.0
+401355966,2022-08-17T01:38Z,Seattle Mariners at Los Angeles Angels,Los Angeles Angels,Seattle Mariners,2,8,0.0
+401355953,2022-08-17T01:45Z,Arizona Diamondbacks at San Francisco Giants,San Francisco Giants,Arizona Diamondbacks,2,1,1.0
+401355979,2022-08-17T16:35Z,Philadelphia Phillies at Cincinnati Reds,Cincinnati Reds,Philadelphia Phillies,1,0,1.0
+401355971,2022-08-17T17:05Z,Chicago Cubs at Washington Nationals,Washington Nationals,Chicago Cubs,2,3,0.0
+401355975,2022-08-17T17:10Z,Kansas City Royals at Minnesota Twins,Minnesota Twins,Kansas City Royals,4,0,1.0
+401355969,2022-08-17T19:07Z,Baltimore Orioles at Toronto Blue Jays,Toronto Blue Jays,Baltimore Orioles,6,1,1.0
+401355981,2022-08-17T20:07Z,Seattle Mariners at Los Angeles Angels,Los Angeles Angels,Seattle Mariners,7,11,0.0
+401355980,2022-08-17T20:10Z,San Diego Padres at Miami Marlins,Miami Marlins,San Diego Padres,3,10,0.0
+401355970,2022-08-17T23:05Z,Boston Red Sox at Pittsburgh Pirates,Pittsburgh Pirates,Boston Red Sox,3,8,0.0
+401355982,2022-08-17T23:05Z,Tampa Bay Rays at New York Yankees,New York Yankees,Tampa Bay Rays,8,7,1.0
+401355973,2022-08-17T23:10Z,Detroit Tigers at Cleveland Guardians,Cleveland Guardians,Detroit Tigers,8,4,1.0
+401355977,2022-08-17T23:20Z,New York Mets at Atlanta Braves,Atlanta Braves,New York Mets,7,9,0.0
+401355972,2022-08-17T23:45Z,Colorado Rockies at St. Louis Cardinals,St. Louis Cardinals,Colorado Rockies,5,1,1.0
+401355978,2022-08-18T00:05Z,Oakland Athletics at Texas Rangers,Texas Rangers,Oakland Athletics,2,7,0.0
+401355974,2022-08-18T00:10Z,Houston Astros at Chicago White Sox,Chicago White Sox,Houston Astros,2,3,0.0
+401355976,2022-08-18T00:10Z,Los Angeles Dodgers at Milwaukee Brewers,Milwaukee Brewers,Los Angeles Dodgers,1,2,0.0
+401355968,2022-08-18T01:45Z,Arizona Diamondbacks at San Francisco Giants,San Francisco Giants,Arizona Diamondbacks,2,3,0.0
+401355985,2022-08-18T17:15Z,Colorado Rockies at St. Louis Cardinals,St. Louis Cardinals,Colorado Rockies,13,0,1.0
+401355990,2022-08-18T18:05Z,Oakland Athletics at Texas Rangers,Texas Rangers,Oakland Athletics,10,3,1.0
+401355986,2022-08-18T18:10Z,Houston Astros at Chicago White Sox,Chicago White Sox,Houston Astros,5,21,0.0
+401355988,2022-08-18T18:10Z,Los Angeles Dodgers at Milwaukee Brewers,Milwaukee Brewers,Los Angeles Dodgers,5,3,1.0
+401445332,2022-08-18T19:05Z,Chicago Cubs at Baltimore Orioles,Baltimore Orioles,Chicago Cubs,2,3,0.0
+401355983,2022-08-18T19:45Z,Arizona Diamondbacks at San Francisco Giants,San Francisco Giants,Arizona Diamondbacks,0,5,0.0
+401355984,2022-08-18T23:05Z,Boston Red Sox at Pittsburgh Pirates,Pittsburgh Pirates,Boston Red Sox,8,2,1.0
+401355991,2022-08-18T23:05Z,Toronto Blue Jays at New York Yankees,New York Yankees,Toronto Blue Jays,2,9,0.0
+401355987,2022-08-18T23:10Z,Kansas City Royals at Tampa Bay Rays,Tampa Bay Rays,Kansas City Royals,7,1,1.0
+401355989,2022-08-18T23:20Z,New York Mets at Atlanta Braves,Atlanta Braves,New York Mets,3,2,1.0
+401355992,2022-08-19T01:40Z,Washington Nationals at San Diego Padres,San Diego Padres,Washington Nationals,1,3,0.0
+401356000,2022-08-19T18:20Z,Milwaukee Brewers at Chicago Cubs,Chicago Cubs,Milwaukee Brewers,8,7,1.0
+401355994,2022-08-19T23:05Z,Boston Red Sox at Baltimore Orioles,Baltimore Orioles,Boston Red Sox,15,10,1.0
+401355996,2022-08-19T23:05Z,Cincinnati Reds at Pittsburgh Pirates,Pittsburgh Pirates,Cincinnati Reds,5,4,1.0
+401356001,2022-08-19T23:05Z,New York Mets at Philadelphia Phillies,Philadelphia Phillies,New York Mets,2,7,0.0
+401356006,2022-08-19T23:05Z,Toronto Blue Jays at New York Yankees,New York Yankees,Toronto Blue Jays,0,4,0.0
+401355993,2022-08-19T23:10Z,Los Angeles Angels at Detroit Tigers,Detroit Tigers,Los Angeles Angels,0,1,0.0
+401355995,2022-08-19T23:10Z,Chicago White Sox at Cleveland Guardians,Cleveland Guardians,Chicago White Sox,5,2,1.0
+401355998,2022-08-19T23:10Z,Kansas City Royals at Tampa Bay Rays,Tampa Bay Rays,Kansas City Royals,2,3,0.0
+401355997,2022-08-19T23:20Z,Houston Astros at Atlanta Braves,Atlanta Braves,Houston Astros,6,2,1.0
+401356005,2022-08-20T00:10Z,Texas Rangers at Minnesota Twins,Minnesota Twins,Texas Rangers,2,1,1.0
+401356003,2022-08-20T00:40Z,San Francisco Giants at Colorado Rockies,Colorado Rockies,San Francisco Giants,7,4,1.0
+401356002,2022-08-20T01:40Z,Seattle Mariners at Oakland Athletics,Oakland Athletics,Seattle Mariners,2,10,0.0
+401356004,2022-08-20T01:40Z,St. Louis Cardinals at Arizona Diamondbacks,Arizona Diamondbacks,St. Louis Cardinals,1,5,0.0
+401356007,2022-08-20T01:40Z,Washington Nationals at San Diego Padres,San Diego Padres,Washington Nationals,3,6,0.0
+401355999,2022-08-20T02:10Z,Miami Marlins at Los Angeles Dodgers,Los Angeles Dodgers,Miami Marlins,2,1,1.0
+401356021,2022-08-20T17:05Z,Toronto Blue Jays at New York Yankees,New York Yankees,Toronto Blue Jays,2,5,0.0
+401435858,2022-08-20T17:05Z,New York Mets at Philadelphia Phillies,Philadelphia Phillies,New York Mets,2,8,0.0
+401356008,2022-08-20T17:10Z,Los Angeles Angels at Detroit Tigers,Detroit Tigers,Los Angeles Angels,4,3,1.0
+401356015,2022-08-20T18:20Z,Milwaukee Brewers at Chicago Cubs,Chicago Cubs,Milwaukee Brewers,6,5,1.0
+401356009,2022-08-20T20:05Z,Boston Red Sox at Baltimore Orioles,Baltimore Orioles,Boston Red Sox,3,4,0.0
+401356013,2022-08-20T20:10Z,Kansas City Royals at Tampa Bay Rays,Tampa Bay Rays,Kansas City Royals,5,2,1.0
+401356010,2022-08-20T22:10Z,Chicago White Sox at Cleveland Guardians,Cleveland Guardians,Chicago White Sox,0,2,0.0
+401356011,2022-08-20T23:05Z,Cincinnati Reds at Pittsburgh Pirates,Pittsburgh Pirates,Cincinnati Reds,1,10,0.0
+401356020,2022-08-20T23:10Z,Texas Rangers at Minnesota Twins,Minnesota Twins,Texas Rangers,3,4,0.0
+401356012,2022-08-20T23:15Z,Houston Astros at Atlanta Braves,Atlanta Braves,Houston Astros,5,4,1.0
+401356016,2022-08-20T23:15Z,New York Mets at Philadelphia Phillies,Philadelphia Phillies,New York Mets,4,1,1.0
+401356017,2022-08-20T23:15Z,Seattle Mariners at Oakland Athletics,Oakland Athletics,Seattle Mariners,4,3,1.0
+401356018,2022-08-21T00:10Z,San Francisco Giants at Colorado Rockies,Colorado Rockies,San Francisco Giants,4,3,1.0
+401356019,2022-08-21T00:10Z,St. Louis Cardinals at Arizona Diamondbacks,Arizona Diamondbacks,St. Louis Cardinals,7,16,0.0
+401356022,2022-08-21T00:40Z,Washington Nationals at San Diego Padres,San Diego Padres,Washington Nationals,2,1,1.0
+401356014,2022-08-21T01:10Z,Miami Marlins at Los Angeles Dodgers,Los Angeles Dodgers,Miami Marlins,7,0,1.0
+401356025,2022-08-21T16:05Z,Chicago White Sox at Cleveland Guardians,Cleveland Guardians,Chicago White Sox,0,0,0.5
+401356026,2022-08-21T17:35Z,Cincinnati Reds at Pittsburgh Pirates,Pittsburgh Pirates,Cincinnati Reds,5,9,0.0
+401356027,2022-08-21T17:35Z,Houston Astros at Atlanta Braves,Atlanta Braves,Houston Astros,4,5,0.0
+401356031,2022-08-21T17:35Z,New York Mets at Philadelphia Phillies,Philadelphia Phillies,New York Mets,9,10,0.0
+401356023,2022-08-21T17:40Z,Los Angeles Angels at Detroit Tigers,Detroit Tigers,Los Angeles Angels,4,0,1.0
+401356028,2022-08-21T17:40Z,Kansas City Royals at Tampa Bay Rays,Tampa Bay Rays,Kansas City Royals,3,2,1.0
+401356036,2022-08-21T17:53Z,Toronto Blue Jays at New York Yankees,New York Yankees,Toronto Blue Jays,4,2,1.0
+401356035,2022-08-21T18:10Z,Texas Rangers at Minnesota Twins,Minnesota Twins,Texas Rangers,0,7,0.0
+401356030,2022-08-21T18:20Z,Milwaukee Brewers at Chicago Cubs,Chicago Cubs,Milwaukee Brewers,2,5,0.0
+401356033,2022-08-21T19:10Z,San Francisco Giants at Colorado Rockies,Colorado Rockies,San Francisco Giants,8,9,0.0
+401356032,2022-08-21T20:07Z,Seattle Mariners at Oakland Athletics,Oakland Athletics,Seattle Mariners,5,3,1.0
+401356029,2022-08-21T20:10Z,Miami Marlins at Los Angeles Dodgers,Los Angeles Dodgers,Miami Marlins,10,3,1.0
+401356034,2022-08-21T20:10Z,St. Louis Cardinals at Arizona Diamondbacks,Arizona Diamondbacks,St. Louis Cardinals,4,6,0.0
+401356037,2022-08-21T20:10Z,Washington Nationals at San Diego Padres,San Diego Padres,Washington Nationals,2,1,1.0
+401356024,2022-08-21T23:00Z,Boston Red Sox at Baltimore Orioles,Baltimore Orioles,Boston Red Sox,5,3,1.0
+401423253,2022-08-22T18:10Z,Chicago White Sox at Kansas City Royals,Kansas City Royals,Chicago White Sox,6,4,1.0
+401356039,2022-08-22T23:05Z,Atlanta Braves at Pittsburgh Pirates,Pittsburgh Pirates,Atlanta Braves,1,2,0.0
+401356040,2022-08-22T23:05Z,Cincinnati Reds at Philadelphia Phillies,Philadelphia Phillies,Cincinnati Reds,4,1,1.0
+401356043,2022-08-22T23:05Z,New York Mets at New York Yankees,New York Yankees,New York Mets,4,2,1.0
+401356038,2022-08-22T23:10Z,Los Angeles Angels at Tampa Bay Rays,Tampa Bay Rays,Los Angeles Angels,2,1,1.0
+401356045,2022-08-22T23:10Z,Texas Rangers at Minnesota Twins,Minnesota Twins,Texas Rangers,1,2,0.0
+401356044,2022-08-23T00:05Z,St. Louis Cardinals at Chicago Cubs,Chicago Cubs,St. Louis Cardinals,0,1,0.0
+401356041,2022-08-23T01:40Z,Miami Marlins at Oakland Athletics,Oakland Athletics,Miami Marlins,0,3,0.0
+401356042,2022-08-23T02:10Z,Milwaukee Brewers at Los Angeles Dodgers,Los Angeles Dodgers,Milwaukee Brewers,0,4,0.0
+401423255,2022-08-23T18:20Z,St. Louis Cardinals at Chicago Cubs,Chicago Cubs,St. Louis Cardinals,2,0,1.0
+401356048,2022-08-23T23:05Z,Atlanta Braves at Pittsburgh Pirates,Pittsburgh Pirates,Atlanta Braves,1,6,0.0
+401356049,2022-08-23T23:05Z,Chicago White Sox at Baltimore Orioles,Baltimore Orioles,Chicago White Sox,5,3,1.0
+401356050,2022-08-23T23:05Z,Cincinnati Reds at Philadelphia Phillies,Philadelphia Phillies,Cincinnati Reds,7,6,1.0
+401356055,2022-08-23T23:05Z,New York Mets at New York Yankees,New York Yankees,New York Mets,4,2,1.0
+401356046,2022-08-23T23:10Z,Los Angeles Angels at Tampa Bay Rays,Tampa Bay Rays,Los Angeles Angels,11,1,1.0
+401356056,2022-08-23T23:10Z,San Francisco Giants at Detroit Tigers,Detroit Tigers,San Francisco Giants,1,3,0.0
+401356059,2022-08-23T23:10Z,Toronto Blue Jays at Boston Red Sox,Boston Red Sox,Toronto Blue Jays,3,9,0.0
+401356057,2022-08-24T00:05Z,St. Louis Cardinals at Chicago Cubs,Chicago Cubs,St. Louis Cardinals,3,13,0.0
+401356047,2022-08-24T00:10Z,Arizona Diamondbacks at Kansas City Royals,Kansas City Royals,Arizona Diamondbacks,3,7,0.0
+401356054,2022-08-24T00:10Z,Minnesota Twins at Houston Astros,Houston Astros,Minnesota Twins,4,2,1.0
+401356058,2022-08-24T00:40Z,Texas Rangers at Colorado Rockies,Colorado Rockies,Texas Rangers,7,6,1.0
+401356051,2022-08-24T01:40Z,Cleveland Guardians at San Diego Padres,San Diego Padres,Cleveland Guardians,1,3,0.0
+401356052,2022-08-24T01:40Z,Miami Marlins at Oakland Athletics,Oakland Athletics,Miami Marlins,3,5,0.0
+401356053,2022-08-24T02:10Z,Milwaukee Brewers at Los Angeles Dodgers,Los Angeles Dodgers,Milwaukee Brewers,10,1,1.0
+401356060,2022-08-24T02:10Z,Washington Nationals at Seattle Mariners,Seattle Mariners,Washington Nationals,4,2,1.0
+401356063,2022-08-24T16:35Z,Atlanta Braves at Pittsburgh Pirates,Pittsburgh Pirates,Atlanta Braves,2,14,0.0
+401356070,2022-08-24T17:10Z,San Francisco Giants at Detroit Tigers,Detroit Tigers,San Francisco Giants,6,1,1.0
+401356072,2022-08-24T19:10Z,Texas Rangers at Colorado Rockies,Colorado Rockies,Texas Rangers,4,16,0.0
+401356067,2022-08-24T19:37Z,Miami Marlins at Oakland Athletics,Oakland Athletics,Miami Marlins,3,2,1.0
+401356066,2022-08-24T20:10Z,Cleveland Guardians at San Diego Padres,San Diego Padres,Cleveland Guardians,0,7,0.0
+401356074,2022-08-24T20:10Z,Washington Nationals at Seattle Mariners,Seattle Mariners,Washington Nationals,1,3,0.0
+401356064,2022-08-24T23:05Z,Chicago White Sox at Baltimore Orioles,Baltimore Orioles,Chicago White Sox,3,5,0.0
+401356065,2022-08-24T23:05Z,Cincinnati Reds at Philadelphia Phillies,Philadelphia Phillies,Cincinnati Reds,7,5,1.0
+401356061,2022-08-24T23:10Z,Los Angeles Angels at Tampa Bay Rays,Tampa Bay Rays,Los Angeles Angels,4,3,1.0
+401356073,2022-08-24T23:10Z,Toronto Blue Jays at Boston Red Sox,Boston Red Sox,Toronto Blue Jays,2,3,0.0
+401356071,2022-08-25T00:05Z,St. Louis Cardinals at Chicago Cubs,Chicago Cubs,St. Louis Cardinals,7,1,1.0
+401356062,2022-08-25T00:10Z,Arizona Diamondbacks at Kansas City Royals,Kansas City Royals,Arizona Diamondbacks,5,3,1.0
+401356069,2022-08-25T00:10Z,Minnesota Twins at Houston Astros,Houston Astros,Minnesota Twins,5,3,1.0
+401356068,2022-08-25T01:00Z,Milwaukee Brewers at Los Angeles Dodgers,Los Angeles Dodgers,Milwaukee Brewers,12,6,1.0
+401356075,2022-08-25T17:10Z,Los Angeles Angels at Tampa Bay Rays,Tampa Bay Rays,Los Angeles Angels,8,3,1.0
+401356082,2022-08-25T18:20Z,St. Louis Cardinals at Chicago Cubs,Chicago Cubs,St. Louis Cardinals,3,8,0.0
+401356078,2022-08-25T20:10Z,Cleveland Guardians at Seattle Mariners,Seattle Mariners,Cleveland Guardians,3,1,1.0
+401356076,2022-08-25T23:05Z,Chicago White Sox at Baltimore Orioles,Baltimore Orioles,Chicago White Sox,4,3,1.0
+401356077,2022-08-25T23:05Z,Cincinnati Reds at Philadelphia Phillies,Philadelphia Phillies,Cincinnati Reds,4,0,1.0
+401356079,2022-08-25T23:10Z,Colorado Rockies at New York Mets,New York Mets,Colorado Rockies,3,1,1.0
+401356083,2022-08-25T23:10Z,Toronto Blue Jays at Boston Red Sox,Boston Red Sox,Toronto Blue Jays,5,6,0.0
+401356080,2022-08-26T00:10Z,Minnesota Twins at Houston Astros,Houston Astros,Minnesota Twins,6,3,1.0
+401356081,2022-08-26T01:40Z,New York Yankees at Oakland Athletics,Oakland Athletics,New York Yankees,4,13,0.0
+401356093,2022-08-26T22:40Z,Los Angeles Dodgers at Miami Marlins,Miami Marlins,Los Angeles Dodgers,6,10,0.0
+401356089,2022-08-26T23:05Z,Cincinnati Reds at Washington Nationals,Washington Nationals,Cincinnati Reds,3,7,0.0
+401356095,2022-08-26T23:05Z,Pittsburgh Pirates at Philadelphia Phillies,Philadelphia Phillies,Pittsburgh Pirates,7,4,1.0
+401356084,2022-08-26T23:07Z,Los Angeles Angels at Toronto Blue Jays,Toronto Blue Jays,Los Angeles Angels,0,12,0.0
+401356091,2022-08-26T23:10Z,Colorado Rockies at New York Mets,New York Mets,Colorado Rockies,7,6,1.0
+401356098,2022-08-26T23:10Z,Tampa Bay Rays at Boston Red Sox,Boston Red Sox,Tampa Bay Rays,9,8,1.0
+401356092,2022-08-27T00:05Z,Detroit Tigers at Texas Rangers,Texas Rangers,Detroit Tigers,7,6,1.0
+401356085,2022-08-27T00:10Z,Arizona Diamondbacks at Chicago White Sox,Chicago White Sox,Arizona Diamondbacks,2,7,0.0
+401356087,2022-08-27T00:10Z,Baltimore Orioles at Houston Astros,Houston Astros,Baltimore Orioles,0,2,0.0
+401356088,2022-08-27T00:10Z,Chicago Cubs at Milwaukee Brewers,Milwaukee Brewers,Chicago Cubs,3,4,0.0
+401356096,2022-08-27T00:10Z,San Diego Padres at Kansas City Royals,Kansas City Royals,San Diego Padres,5,13,0.0
+401356097,2022-08-27T00:10Z,San Francisco Giants at Minnesota Twins,Minnesota Twins,San Francisco Giants,9,0,1.0
+401356086,2022-08-27T00:15Z,Atlanta Braves at St. Louis Cardinals,St. Louis Cardinals,Atlanta Braves,4,11,0.0
+401356094,2022-08-27T01:40Z,New York Yankees at Oakland Athletics,Oakland Athletics,New York Yankees,2,3,0.0
+401356090,2022-08-27T02:10Z,Cleveland Guardians at Seattle Mariners,Seattle Mariners,Cleveland Guardians,3,2,1.0
+401356099,2022-08-27T19:07Z,Los Angeles Angels at Toronto Blue Jays,Toronto Blue Jays,Los Angeles Angels,0,2,0.0
+401356113,2022-08-27T20:10Z,Tampa Bay Rays at Boston Red Sox,Boston Red Sox,Tampa Bay Rays,5,1,1.0
+401356110,2022-08-27T22:05Z,Pittsburgh Pirates at Philadelphia Phillies,Philadelphia Phillies,Pittsburgh Pirates,6,0,1.0
+401356108,2022-08-27T22:10Z,Los Angeles Dodgers at Miami Marlins,Miami Marlins,Los Angeles Dodgers,2,1,1.0
+401356104,2022-08-27T23:05Z,Cincinnati Reds at Washington Nationals,Washington Nationals,Cincinnati Reds,2,6,0.0
+401356107,2022-08-27T23:05Z,Detroit Tigers at Texas Rangers,Texas Rangers,Detroit Tigers,2,11,0.0
+401356100,2022-08-27T23:10Z,Arizona Diamondbacks at Chicago White Sox,Chicago White Sox,Arizona Diamondbacks,5,10,0.0
+401356102,2022-08-27T23:10Z,Baltimore Orioles at Houston Astros,Houston Astros,Baltimore Orioles,1,3,0.0
+401356103,2022-08-27T23:10Z,Chicago Cubs at Milwaukee Brewers,Milwaukee Brewers,Chicago Cubs,7,0,1.0
+401356106,2022-08-27T23:10Z,Colorado Rockies at New York Mets,New York Mets,Colorado Rockies,3,0,1.0
+401356111,2022-08-27T23:10Z,San Diego Padres at Kansas City Royals,Kansas City Royals,San Diego Padres,3,4,0.0
+401356101,2022-08-27T23:15Z,Atlanta Braves at St. Louis Cardinals,St. Louis Cardinals,Atlanta Braves,6,5,1.0
+401356112,2022-08-27T23:15Z,San Francisco Giants at Minnesota Twins,Minnesota Twins,San Francisco Giants,3,2,1.0
+401356109,2022-08-28T01:07Z,New York Yankees at Oakland Athletics,Oakland Athletics,New York Yankees,3,2,1.0
+401356105,2022-08-28T02:10Z,Cleveland Guardians at Seattle Mariners,Seattle Mariners,Cleveland Guardians,3,4,0.0
+401356123,2022-08-28T16:05Z,Los Angeles Dodgers at Miami Marlins,Miami Marlins,Los Angeles Dodgers,1,8,0.0
+401356119,2022-08-28T17:35Z,Cincinnati Reds at Washington Nationals,Washington Nationals,Cincinnati Reds,3,2,1.0
+401356125,2022-08-28T17:35Z,Pittsburgh Pirates at Philadelphia Phillies,Philadelphia Phillies,Pittsburgh Pirates,0,5,0.0
+401356128,2022-08-28T17:35Z,Tampa Bay Rays at Boston Red Sox,Boston Red Sox,Tampa Bay Rays,4,12,0.0
+401356114,2022-08-28T17:37Z,Los Angeles Angels at Toronto Blue Jays,Toronto Blue Jays,Los Angeles Angels,3,8,0.0
+401356121,2022-08-28T17:40Z,Colorado Rockies at New York Mets,New York Mets,Colorado Rockies,0,1,0.0
+401356115,2022-08-28T18:10Z,Arizona Diamondbacks at Chicago White Sox,Chicago White Sox,Arizona Diamondbacks,2,3,0.0
+401356117,2022-08-28T18:10Z,Baltimore Orioles at Houston Astros,Houston Astros,Baltimore Orioles,3,1,1.0
+401356118,2022-08-28T18:10Z,Chicago Cubs at Milwaukee Brewers,Milwaukee Brewers,Chicago Cubs,9,7,1.0
+401356126,2022-08-28T18:10Z,San Diego Padres at Kansas City Royals,Kansas City Royals,San Diego Padres,15,7,1.0
+401356127,2022-08-28T18:10Z,San Francisco Giants at Minnesota Twins,Minnesota Twins,San Francisco Giants,8,3,1.0
+401356122,2022-08-28T18:35Z,Detroit Tigers at Texas Rangers,Texas Rangers,Detroit Tigers,8,9,0.0
+401356124,2022-08-28T20:07Z,New York Yankees at Oakland Athletics,Oakland Athletics,New York Yankees,4,1,1.0
+401356120,2022-08-28T20:10Z,Cleveland Guardians at Seattle Mariners,Seattle Mariners,Cleveland Guardians,4,0,1.0
+401356116,2022-08-28T23:00Z,Atlanta Braves at St. Louis Cardinals,St. Louis Cardinals,Atlanta Braves,6,3,1.0
+401356131,2022-08-29T22:40Z,Los Angeles Dodgers at Miami Marlins,Miami Marlins,Los Angeles Dodgers,2,3,0.0
+401356136,2022-08-29T22:40Z,St. Louis Cardinals at Cincinnati Reds,Cincinnati Reds,St. Louis Cardinals,4,13,0.0
+401356130,2022-08-29T23:07Z,Chicago Cubs at Toronto Blue Jays,Toronto Blue Jays,Chicago Cubs,5,4,1.0
+401356129,2022-08-29T23:40Z,Boston Red Sox at Minnesota Twins,Minnesota Twins,Boston Red Sox,4,2,1.0
+401356134,2022-08-30T00:10Z,Pittsburgh Pirates at Milwaukee Brewers,Milwaukee Brewers,Pittsburgh Pirates,7,5,1.0
+401356132,2022-08-30T01:38Z,New York Yankees at Los Angeles Angels,Los Angeles Angels,New York Yankees,4,3,1.0
+401356133,2022-08-30T01:40Z,Philadelphia Phillies at Arizona Diamondbacks,Arizona Diamondbacks,Philadelphia Phillies,13,7,1.0
+401356135,2022-08-30T01:45Z,San Diego Padres at San Francisco Giants,San Francisco Giants,San Diego Padres,5,6,0.0
+401356137,2022-08-30T22:10Z,Baltimore Orioles at Cleveland Guardians,Cleveland Guardians,Baltimore Orioles,5,1,1.0
+401356150,2022-08-30T22:40Z,St. Louis Cardinals at Cincinnati Reds,Cincinnati Reds,St. Louis Cardinals,5,1,1.0
+401356151,2022-08-30T22:40Z,Tampa Bay Rays at Miami Marlins,Miami Marlins,Tampa Bay Rays,2,7,0.0
+401356145,2022-08-30T23:05Z,Oakland Athletics at Washington Nationals,Washington Nationals,Oakland Athletics,6,10,0.0
+401356139,2022-08-30T23:07Z,Chicago Cubs at Toronto Blue Jays,Toronto Blue Jays,Chicago Cubs,5,3,1.0
+401356143,2022-08-30T23:10Z,Los Angeles Dodgers at New York Mets,New York Mets,Los Angeles Dodgers,3,4,0.0
+401356149,2022-08-30T23:10Z,Seattle Mariners at Detroit Tigers,Detroit Tigers,Seattle Mariners,3,9,0.0
+401356140,2022-08-30T23:20Z,Colorado Rockies at Atlanta Braves,Atlanta Braves,Colorado Rockies,2,3,0.0
+401356138,2022-08-30T23:40Z,Boston Red Sox at Minnesota Twins,Minnesota Twins,Boston Red Sox,10,5,1.0
+401356141,2022-08-31T00:05Z,Houston Astros at Texas Rangers,Texas Rangers,Houston Astros,2,4,0.0
+401356142,2022-08-31T00:10Z,Kansas City Royals at Chicago White Sox,Chicago White Sox,Kansas City Royals,7,9,0.0
+401356147,2022-08-31T00:10Z,Pittsburgh Pirates at Milwaukee Brewers,Milwaukee Brewers,Pittsburgh Pirates,2,4,0.0
+401356144,2022-08-31T01:38Z,New York Yankees at Los Angeles Angels,Los Angeles Angels,New York Yankees,4,7,0.0
+401356146,2022-08-31T01:40Z,Philadelphia Phillies at Arizona Diamondbacks,Arizona Diamondbacks,Philadelphia Phillies,12,3,1.0
+401356148,2022-08-31T01:45Z,San Diego Padres at San Francisco Giants,San Francisco Giants,San Diego Padres,3,4,0.0
+401356156,2022-08-31T18:05Z,Houston Astros at Texas Rangers,Texas Rangers,Houston Astros,3,5,0.0
+401356162,2022-08-31T18:10Z,Pittsburgh Pirates at Milwaukee Brewers,Milwaukee Brewers,Pittsburgh Pirates,6,1,1.0
+401356163,2022-08-31T19:45Z,San Diego Padres at San Francisco Giants,San Francisco Giants,San Diego Padres,4,5,0.0
+401356152,2022-08-31T22:10Z,Baltimore Orioles at Cleveland Guardians,Cleveland Guardians,Baltimore Orioles,0,4,0.0
+401356165,2022-08-31T22:40Z,St. Louis Cardinals at Cincinnati Reds,Cincinnati Reds,St. Louis Cardinals,3,5,0.0
+401356166,2022-08-31T22:40Z,Tampa Bay Rays at Miami Marlins,Miami Marlins,Tampa Bay Rays,1,2,0.0
+401356160,2022-08-31T23:05Z,Oakland Athletics at Washington Nationals,Washington Nationals,Oakland Athletics,5,1,1.0
+401356154,2022-08-31T23:07Z,Chicago Cubs at Toronto Blue Jays,Toronto Blue Jays,Chicago Cubs,5,7,0.0
+401356158,2022-08-31T23:10Z,Los Angeles Dodgers at New York Mets,New York Mets,Los Angeles Dodgers,2,1,1.0
+401356164,2022-08-31T23:10Z,Seattle Mariners at Detroit Tigers,Detroit Tigers,Seattle Mariners,3,5,0.0
+401356155,2022-08-31T23:20Z,Colorado Rockies at Atlanta Braves,Atlanta Braves,Colorado Rockies,3,2,1.0
+401356153,2022-08-31T23:40Z,Boston Red Sox at Minnesota Twins,Minnesota Twins,Boston Red Sox,5,6,0.0
+401356157,2022-09-01T00:10Z,Kansas City Royals at Chicago White Sox,Chicago White Sox,Kansas City Royals,4,2,1.0
+401356159,2022-09-01T01:38Z,New York Yankees at Los Angeles Angels,Los Angeles Angels,New York Yankees,3,2,1.0
+401356161,2022-09-01T01:40Z,Philadelphia Phillies at Arizona Diamondbacks,Arizona Diamondbacks,Philadelphia Phillies,2,18,0.0

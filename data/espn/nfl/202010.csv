@@ -1,0 +1,59 @@
+id,date,event,home,away,hs,as,res
+401220141,2020-10-02T00:20Z,Denver Broncos at New York Jets,New York Jets,Denver Broncos,28,37,0.0
+401220157,2020-10-04T17:00Z,Jacksonville Jaguars at Cincinnati Bengals,Cincinnati Bengals,Jacksonville Jaguars,33,25,1.0
+401220247,2020-10-04T17:00Z,Cleveland Browns at Dallas Cowboys,Dallas Cowboys,Cleveland Browns,38,49,0.0
+401220285,2020-10-04T17:00Z,New Orleans Saints at Detroit Lions,Detroit Lions,New Orleans Saints,29,35,0.0
+401220128,2020-10-04T17:00Z,Seattle Seahawks at Miami Dolphins,Miami Dolphins,Seattle Seahawks,23,31,0.0
+401220334,2020-10-04T17:00Z,Los Angeles Chargers at Tampa Bay Buccaneers,Tampa Bay Buccaneers,Los Angeles Chargers,38,31,1.0
+401220271,2020-10-04T17:00Z,Baltimore Ravens at Washington Commanders,Washington Commanders,Baltimore Ravens,17,31,0.0
+401220320,2020-10-04T17:00Z,Arizona Cardinals at Carolina Panthers,Carolina Panthers,Arizona Cardinals,31,21,1.0
+401220184,2020-10-04T17:00Z,Minnesota Vikings at Houston Texans,Houston Texans,Minnesota Vikings,23,31,0.0
+401220348,2020-10-04T20:05Z,New York Giants at Los Angeles Rams,Los Angeles Rams,New York Giants,17,9,1.0
+401220280,2020-10-04T20:25Z,Indianapolis Colts at Chicago Bears,Chicago Bears,Indianapolis Colts,11,19,0.0
+401220229,2020-10-04T20:25Z,Buffalo Bills at Las Vegas Raiders,Las Vegas Raiders,Buffalo Bills,23,30,0.0
+401220355,2020-10-05T00:20Z,Philadelphia Eagles at San Francisco 49ers,San Francisco 49ers,Philadelphia Eagles,20,25,0.0
+401220221,2020-10-05T23:05Z,New England Patriots at Kansas City Chiefs,Kansas City Chiefs,New England Patriots,26,10,1.0
+401220293,2020-10-06T01:00Z,Atlanta Falcons at Green Bay Packers,Green Bay Packers,Atlanta Falcons,30,16,1.0
+401220278,2020-10-09T00:20Z,Tampa Bay Buccaneers at Chicago Bears,Chicago Bears,Tampa Bay Buccaneers,20,19,1.0
+401220306,2020-10-11T17:00Z,Carolina Panthers at Atlanta Falcons,Atlanta Falcons,Carolina Panthers,16,23,0.0
+401220219,2020-10-11T17:00Z,Las Vegas Raiders at Kansas City Chiefs,Kansas City Chiefs,Las Vegas Raiders,32,40,0.0
+401220143,2020-10-11T17:00Z,Arizona Cardinals at New York Jets,New York Jets,Arizona Cardinals,10,30,0.0
+401220175,2020-10-11T17:00Z,Philadelphia Eagles at Pittsburgh Steelers,Pittsburgh Steelers,Philadelphia Eagles,38,29,1.0
+401220269,2020-10-11T17:00Z,Los Angeles Rams at Washington Commanders,Washington Commanders,Los Angeles Rams,10,30,0.0
+401220146,2020-10-11T17:00Z,Cincinnati Bengals at Baltimore Ravens,Baltimore Ravens,Cincinnati Bengals,27,3,1.0
+401220179,2020-10-11T17:00Z,Jacksonville Jaguars at Houston Texans,Houston Texans,Jacksonville Jaguars,30,14,1.0
+401220358,2020-10-11T20:05Z,Miami Dolphins at San Francisco 49ers,San Francisco 49ers,Miami Dolphins,17,43,0.0
+401220166,2020-10-11T20:25Z,Indianapolis Colts at Cleveland Browns,Cleveland Browns,Indianapolis Colts,32,23,1.0
+401220242,2020-10-11T20:25Z,New York Giants at Dallas Cowboys,Dallas Cowboys,New York Giants,37,34,1.0
+401220367,2020-10-12T00:20Z,Minnesota Vikings at Seattle Seahawks,Seattle Seahawks,Minnesota Vikings,27,26,1.0
+401220326,2020-10-13T00:15Z,Los Angeles Chargers at New Orleans Saints,New Orleans Saints,Los Angeles Chargers,30,27,1.0
+401220209,2020-10-13T23:00Z,Buffalo Bills at Tennessee Titans,Tennessee Titans,Buffalo Bills,42,16,1.0
+401220202,2020-10-18T17:00Z,Houston Texans at Tennessee Titans,Tennessee Titans,Houston Texans,42,36,1.0
+401220190,2020-10-18T17:00Z,Cincinnati Bengals at Indianapolis Colts,Indianapolis Colts,Cincinnati Bengals,31,27,1.0
+401220301,2020-10-18T17:00Z,Atlanta Falcons at Minnesota Vikings,Minnesota Vikings,Atlanta Falcons,23,40,0.0
+401220133,2020-10-18T17:00Z,Denver Broncos at New England Patriots,New England Patriots,Denver Broncos,12,18,0.0
+401220252,2020-10-18T17:00Z,Washington Commanders at New York Giants,New York Giants,Washington Commanders,20,19,1.0
+401220263,2020-10-18T17:00Z,Baltimore Ravens at Philadelphia Eagles,Philadelphia Eagles,Baltimore Ravens,28,30,0.0
+401220172,2020-10-18T17:00Z,Cleveland Browns at Pittsburgh Steelers,Pittsburgh Steelers,Cleveland Browns,38,7,1.0
+401220317,2020-10-18T17:00Z,Chicago Bears at Carolina Panthers,Carolina Panthers,Chicago Bears,16,23,0.0
+401220200,2020-10-18T17:00Z,Detroit Lions at Jacksonville Jaguars,Jacksonville Jaguars,Detroit Lions,16,34,0.0
+401220124,2020-10-18T20:05Z,New York Jets at Miami Dolphins,Miami Dolphins,New York Jets,24,0,1.0
+401220331,2020-10-18T20:25Z,Green Bay Packers at Tampa Bay Buccaneers,Tampa Bay Buccaneers,Green Bay Packers,38,10,1.0
+401220353,2020-10-19T00:20Z,Los Angeles Rams at San Francisco 49ers,San Francisco 49ers,Los Angeles Rams,24,16,1.0
+401220117,2020-10-19T21:00Z,Kansas City Chiefs at Buffalo Bills,Buffalo Bills,Kansas City Chiefs,17,26,0.0
+401220245,2020-10-20T00:15Z,Arizona Cardinals at Dallas Cowboys,Dallas Cowboys,Arizona Cardinals,10,38,0.0
+401220259,2020-10-23T00:20Z,New York Giants at Philadelphia Eagles,Philadelphia Eagles,New York Giants,22,21,1.0
+401220310,2020-10-25T17:00Z,Detroit Lions at Atlanta Falcons,Atlanta Falcons,Detroit Lions,22,23,0.0
+401220155,2020-10-25T17:00Z,Cleveland Browns at Cincinnati Bengals,Cincinnati Bengals,Cleveland Browns,34,37,0.0
+401249063,2020-10-25T17:00Z,Pittsburgh Steelers at Tennessee Titans,Tennessee Titans,Pittsburgh Steelers,24,27,0.0
+401220322,2020-10-25T17:00Z,Carolina Panthers at New Orleans Saints,New Orleans Saints,Carolina Panthers,27,24,1.0
+401220138,2020-10-25T17:00Z,Buffalo Bills at New York Jets,New York Jets,Buffalo Bills,10,18,0.0
+401220266,2020-10-25T17:00Z,Dallas Cowboys at Washington Commanders,Washington Commanders,Dallas Cowboys,25,3,1.0
+401220183,2020-10-25T17:00Z,Green Bay Packers at Houston Texans,Houston Texans,Green Bay Packers,20,35,0.0
+401220232,2020-10-25T20:05Z,Tampa Bay Buccaneers at Las Vegas Raiders,Las Vegas Raiders,Tampa Bay Buccaneers,20,45,0.0
+401220210,2020-10-25T20:25Z,Kansas City Chiefs at Denver Broncos,Denver Broncos,Kansas City Chiefs,16,43,0.0
+401220136,2020-10-25T20:25Z,San Francisco 49ers at New England Patriots,New England Patriots,San Francisco 49ers,6,33,0.0
+401220241,2020-10-25T20:25Z,Jacksonville Jaguars at Los Angeles Chargers,Los Angeles Chargers,Jacksonville Jaguars,39,29,1.0
+401220338,2020-10-26T00:20Z,Seattle Seahawks at Arizona Cardinals,Arizona Cardinals,Seattle Seahawks,37,34,1.0
+401220351,2020-10-27T00:15Z,Chicago Bears at Los Angeles Rams,Los Angeles Rams,Chicago Bears,24,10,1.0
+401220314,2020-10-30T00:20Z,Atlanta Falcons at Carolina Panthers,Carolina Panthers,Atlanta Falcons,17,25,0.0

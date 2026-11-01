@@ -1,6 +1,7 @@
 # Analista deportivo (Telegram)
 
-Cada hora, gratis en GitHub Actions:
+Cada hora, gratis en GitHub Actions (fútbol, NBA, NFL, NHL, MLB, tenis ATP/WTA y esports con `PANDASCORE_TOKEN`).
+Por defecto solo manda por Telegram las apuestas de la banca virtual de 100 $ y sus resultados; con `VERBOSE=1` manda también análisis, grafos y PDF:
 - Historial de 5 grandes ligas desde 2005 (~38.000 partidos, football-data.co.uk) con cuotas.
 - Modelo Poisson (vida media 1 año) mezclado con el mercado → probabilidades y **señales de valor**.
 - IA Gemini con búsqueda en Google: bajas, dudas, sancionados, alineación probable y análisis experto.

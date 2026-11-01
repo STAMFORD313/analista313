@@ -1,0 +1,380 @@
+id,date,event,home,away,hs,as,res
+401815979,2026-07-01T16:35Z,Chicago White Sox at Baltimore Orioles,Baltimore Orioles,Chicago White Sox,6,1,1.0
+401815984,2026-07-01T17:10Z,Texas Rangers at Cleveland Guardians,Cleveland Guardians,Texas Rangers,9,4,1.0
+401815980,2026-07-01T17:35Z,Detroit Tigers at New York Yankees,New York Yankees,Detroit Tigers,2,6,0.0
+401815985,2026-07-01T17:35Z,Washington Nationals at Boston Red Sox,Boston Red Sox,Washington Nationals,2,10,0.0
+401815988,2026-07-01T18:20Z,San Diego Padres at Chicago Cubs,Chicago Cubs,San Diego Padres,23,3,1.0
+401815981,2026-07-01T19:07Z,New York Mets at Toronto Blue Jays,Toronto Blue Jays,New York Mets,9,3,1.0
+401815982,2026-07-01T22:40Z,Pittsburgh Pirates at Philadelphia Phillies,Philadelphia Phillies,Pittsburgh Pirates,10,6,1.0
+401815983,2026-07-01T23:15Z,St. Louis Cardinals at Atlanta Braves,Atlanta Braves,St. Louis Cardinals,5,1,1.0
+401815989,2026-07-01T23:40Z,Tampa Bay Rays at Kansas City Royals,Kansas City Royals,Tampa Bay Rays,0,4,0.0
+401815986,2026-07-02T00:00Z,Cincinnati Reds at Milwaukee Brewers,Milwaukee Brewers,Cincinnati Reds,4,2,1.0
+401815987,2026-07-02T00:10Z,Minnesota Twins at Houston Astros,Houston Astros,Minnesota Twins,3,8,0.0
+401815990,2026-07-02T00:40Z,Miami Marlins at Colorado Rockies,Colorado Rockies,Miami Marlins,6,3,1.0
+401815991,2026-07-02T01:40Z,Los Angeles Dodgers at Athletics Athletics,Athletics,Los Angeles Dodgers,7,1,1.0
+401815992,2026-07-02T01:40Z,San Francisco Giants at Arizona Diamondbacks,Arizona Diamondbacks,San Francisco Giants,4,6,0.0
+401815994,2026-07-02T16:35Z,Pittsburgh Pirates at Philadelphia Phillies,Philadelphia Phillies,Pittsburgh Pirates,1,6,0.0
+401815996,2026-07-02T18:10Z,Cincinnati Reds at Milwaukee Brewers,Milwaukee Brewers,Cincinnati Reds,2,7,0.0
+401815999,2026-07-02T19:10Z,Miami Marlins at Colorado Rockies,Colorado Rockies,Miami Marlins,14,4,1.0
+401815993,2026-07-02T22:40Z,Chicago White Sox at Cleveland Guardians,Cleveland Guardians,Chicago White Sox,6,5,1.0
+401815995,2026-07-02T23:15Z,St. Louis Cardinals at Atlanta Braves,Atlanta Braves,St. Louis Cardinals,5,11,0.0
+401815998,2026-07-02T23:40Z,Tampa Bay Rays at Kansas City Royals,Kansas City Royals,Tampa Bay Rays,2,5,0.0
+401815997,2026-07-03T00:05Z,Detroit Tigers at Texas Rangers,Texas Rangers,Detroit Tigers,10,4,1.0
+401816000,2026-07-03T01:40Z,Los Angeles Angels at Seattle Mariners,Seattle Mariners,Los Angeles Angels,1,0,1.0
+401816001,2026-07-03T02:10Z,San Diego Padres at Los Angeles Dodgers,Los Angeles Dodgers,San Diego Padres,12,7,1.0
+401816007,2026-07-03T20:05Z,St. Louis Cardinals at Chicago Cubs,Chicago Cubs,St. Louis Cardinals,1,17,0.0
+401816006,2026-07-03T22:45Z,Pittsburgh Pirates at Washington Nationals,Washington Nationals,Pittsburgh Pirates,9,5,1.0
+401816004,2026-07-03T23:05Z,Minnesota Twins at New York Yankees,New York Yankees,Minnesota Twins,5,2,1.0
+401816002,2026-07-03T23:10Z,Baltimore Orioles at Cincinnati Reds,Cincinnati Reds,Baltimore Orioles,0,3,0.0
+401816003,2026-07-03T23:10Z,Chicago White Sox at Cleveland Guardians,Cleveland Guardians,Chicago White Sox,4,3,1.0
+401816005,2026-07-03T23:15Z,New York Mets at Atlanta Braves,Atlanta Braves,New York Mets,5,3,1.0
+401816009,2026-07-04T00:10Z,San Francisco Giants at Colorado Rockies,Colorado Rockies,San Francisco Giants,15,3,1.0
+401816008,2026-07-04T00:15Z,Tampa Bay Rays at Houston Astros,Houston Astros,Tampa Bay Rays,1,3,0.0
+401816010,2026-07-04T01:38Z,Boston Red Sox at Los Angeles Angels,Los Angeles Angels,Boston Red Sox,2,5,0.0
+401816011,2026-07-04T01:40Z,Miami Marlins at Athletics Athletics,Athletics,Miami Marlins,5,12,0.0
+401816012,2026-07-04T01:45Z,Milwaukee Brewers at Arizona Diamondbacks,Arizona Diamondbacks,Milwaukee Brewers,4,7,0.0
+401816013,2026-07-04T02:10Z,San Diego Padres at Los Angeles Dodgers,Los Angeles Dodgers,San Diego Padres,4,3,1.0
+401816014,2026-07-04T02:10Z,Toronto Blue Jays at Seattle Mariners,Seattle Mariners,Toronto Blue Jays,0,2,0.0
+401816019,2026-07-04T15:05Z,Pittsburgh Pirates at Washington Nationals,Washington Nationals,Pittsburgh Pirates,1,7,0.0
+401816017,2026-07-04T17:35Z,Minnesota Twins at New York Yankees,New York Yankees,Minnesota Twins,4,11,0.0
+401816020,2026-07-04T20:05Z,Detroit Tigers at Texas Rangers,Texas Rangers,Detroit Tigers,0,3,0.0
+401816029,2026-07-04T20:10Z,Toronto Blue Jays at Seattle Mariners,Seattle Mariners,Toronto Blue Jays,11,0,1.0
+401816015,2026-07-04T23:10Z,Baltimore Orioles at Cincinnati Reds,Cincinnati Reds,Baltimore Orioles,5,8,0.0
+401816016,2026-07-04T23:10Z,Chicago White Sox at Cleveland Guardians,Cleveland Guardians,Chicago White Sox,1,3,0.0
+401816023,2026-07-04T23:10Z,Tampa Bay Rays at Houston Astros,Houston Astros,Tampa Bay Rays,10,8,1.0
+401816018,2026-07-05T00:08Z,New York Mets at Atlanta Braves,Atlanta Braves,New York Mets,14,3,1.0
+401816022,2026-07-05T00:08Z,St. Louis Cardinals at Chicago Cubs,Chicago Cubs,St. Louis Cardinals,0,3,0.0
+401816021,2026-07-05T00:10Z,Philadelphia Phillies at Kansas City Royals,Kansas City Royals,Philadelphia Phillies,1,6,0.0
+401816024,2026-07-05T00:10Z,San Francisco Giants at Colorado Rockies,Colorado Rockies,San Francisco Giants,4,6,0.0
+401816025,2026-07-05T01:38Z,Boston Red Sox at Los Angeles Angels,Los Angeles Angels,Boston Red Sox,1,8,0.0
+401816026,2026-07-05T01:40Z,Miami Marlins at Athletics Athletics,Athletics,Miami Marlins,2,7,0.0
+401816027,2026-07-05T01:40Z,Milwaukee Brewers at Arizona Diamondbacks,Arizona Diamondbacks,Milwaukee Brewers,4,3,1.0
+401816028,2026-07-05T02:10Z,San Diego Padres at Los Angeles Dodgers,Los Angeles Dodgers,San Diego Padres,3,0,1.0
+401816033,2026-07-05T16:30Z,New York Mets at Atlanta Braves,Atlanta Braves,New York Mets,9,10,0.0
+401816034,2026-07-05T17:00Z,Pittsburgh Pirates at Washington Nationals,Washington Nationals,Pittsburgh Pirates,5,11,0.0
+401816030,2026-07-05T17:05Z,Baltimore Orioles at Cincinnati Reds,Cincinnati Reds,Baltimore Orioles,3,2,1.0
+401816032,2026-07-05T17:35Z,Minnesota Twins at New York Yankees,New York Yankees,Minnesota Twins,1,6,0.0
+401816031,2026-07-05T18:00Z,Chicago White Sox at Cleveland Guardians,Cleveland Guardians,Chicago White Sox,6,7,0.0
+401816037,2026-07-05T18:30Z,St. Louis Cardinals at Chicago Cubs,Chicago Cubs,St. Louis Cardinals,6,4,1.0
+401816036,2026-07-05T19:00Z,Philadelphia Phillies at Kansas City Royals,Kansas City Royals,Philadelphia Phillies,5,2,1.0
+401816035,2026-07-05T19:30Z,Detroit Tigers at Texas Rangers,Texas Rangers,Detroit Tigers,3,6,0.0
+401816038,2026-07-05T19:30Z,Tampa Bay Rays at Houston Astros,Houston Astros,Tampa Bay Rays,2,0,1.0
+401816039,2026-07-05T20:00Z,San Francisco Giants at Colorado Rockies,Colorado Rockies,San Francisco Giants,7,6,1.0
+401816042,2026-07-05T20:00Z,Milwaukee Brewers at Arizona Diamondbacks,Arizona Diamondbacks,Milwaukee Brewers,2,3,0.0
+401816041,2026-07-05T20:30Z,Miami Marlins at Athletics Athletics,Athletics,Miami Marlins,8,9,0.0
+401816044,2026-07-05T21:00Z,Toronto Blue Jays at Seattle Mariners,Seattle Mariners,Toronto Blue Jays,4,0,1.0
+401816043,2026-07-05T23:20Z,San Diego Padres at Los Angeles Dodgers,Los Angeles Dodgers,San Diego Padres,2,5,0.0
+401816040,2026-07-06T01:30Z,Boston Red Sox at Los Angeles Angels,Los Angeles Angels,Boston Red Sox,5,7,0.0
+401816049,2026-07-06T18:10Z,Philadelphia Phillies at Kansas City Royals,Kansas City Royals,Philadelphia Phillies,15,1,1.0
+401816046,2026-07-06T22:40Z,New York Yankees at Tampa Bay Rays,Tampa Bay Rays,New York Yankees,1,5,0.0
+401816045,2026-07-06T22:45Z,Houston Astros at Washington Nationals,Washington Nationals,Houston Astros,12,11,1.0
+401816047,2026-07-06T23:15Z,New York Mets at Atlanta Braves,Atlanta Braves,New York Mets,6,7,0.0
+401816048,2026-07-06T23:45Z,Milwaukee Brewers at St. Louis Cardinals,St. Louis Cardinals,Milwaukee Brewers,3,4,0.0
+401816050,2026-07-07T01:40Z,Arizona Diamondbacks at San Diego Padres,San Diego Padres,Arizona Diamondbacks,0,8,0.0
+401816052,2026-07-07T01:45Z,Toronto Blue Jays at San Francisco Giants,San Francisco Giants,Toronto Blue Jays,10,1,1.0
+401816051,2026-07-07T02:10Z,Colorado Rockies at Los Angeles Dodgers,Los Angeles Dodgers,Colorado Rockies,8,7,1.0
+401871790,2026-07-07T18:15Z,Milwaukee Brewers at St. Louis Cardinals,St. Louis Cardinals,Milwaukee Brewers,3,4,0.0
+401816055,2026-07-07T22:35Z,Chicago Cubs at Baltimore Orioles,Baltimore Orioles,Chicago Cubs,2,5,0.0
+401816053,2026-07-07T22:40Z,Athletics Athletics at Detroit Tigers,Detroit Tigers,Athletics,6,2,1.0
+401816054,2026-07-07T22:40Z,Atlanta Braves at Pittsburgh Pirates,Pittsburgh Pirates,Atlanta Braves,12,4,1.0
+401816058,2026-07-07T22:40Z,New York Yankees at Tampa Bay Rays,Tampa Bay Rays,New York Yankees,6,4,1.0
+401816060,2026-07-07T22:40Z,Seattle Mariners at Miami Marlins,Miami Marlins,Seattle Mariners,6,5,1.0
+401816056,2026-07-07T22:45Z,Houston Astros at Washington Nationals,Washington Nationals,Houston Astros,3,6,0.0
+401816057,2026-07-07T23:10Z,Kansas City Royals at New York Mets,New York Mets,Kansas City Royals,12,16,0.0
+401816059,2026-07-07T23:10Z,Philadelphia Phillies at Cincinnati Reds,Cincinnati Reds,Philadelphia Phillies,1,4,0.0
+401816062,2026-07-07T23:40Z,Boston Red Sox at Chicago White Sox,Chicago White Sox,Boston Red Sox,1,8,0.0
+401816063,2026-07-07T23:40Z,Cleveland Guardians at Minnesota Twins,Minnesota Twins,Cleveland Guardians,3,1,1.0
+401816064,2026-07-07T23:45Z,Milwaukee Brewers at St. Louis Cardinals,St. Louis Cardinals,Milwaukee Brewers,2,10,0.0
+401816061,2026-07-08T00:05Z,Los Angeles Angels at Texas Rangers,Texas Rangers,Los Angeles Angels,8,3,1.0
+401816065,2026-07-08T01:40Z,Arizona Diamondbacks at San Diego Padres,San Diego Padres,Arizona Diamondbacks,4,1,1.0
+401816067,2026-07-08T01:45Z,Toronto Blue Jays at San Francisco Giants,San Francisco Giants,Toronto Blue Jays,3,9,0.0
+401816066,2026-07-08T02:10Z,Colorado Rockies at Los Angeles Dodgers,Los Angeles Dodgers,Colorado Rockies,3,4,0.0
+401816082,2026-07-08T19:45Z,Toronto Blue Jays at San Francisco Giants,San Francisco Giants,Toronto Blue Jays,0,10,0.0
+401816070,2026-07-08T22:35Z,Chicago Cubs at Baltimore Orioles,Baltimore Orioles,Chicago Cubs,7,9,0.0
+401816068,2026-07-08T22:40Z,Athletics Athletics at Detroit Tigers,Detroit Tigers,Athletics,6,1,1.0
+401816069,2026-07-08T22:40Z,Atlanta Braves at Pittsburgh Pirates,Pittsburgh Pirates,Atlanta Braves,0,3,0.0
+401816073,2026-07-08T22:40Z,New York Yankees at Tampa Bay Rays,Tampa Bay Rays,New York Yankees,3,0,1.0
+401816075,2026-07-08T22:40Z,Seattle Mariners at Miami Marlins,Miami Marlins,Seattle Mariners,2,0,1.0
+401816071,2026-07-08T22:45Z,Houston Astros at Washington Nationals,Washington Nationals,Houston Astros,8,2,1.0
+401816074,2026-07-08T23:00Z,Philadelphia Phillies at Cincinnati Reds,Cincinnati Reds,Philadelphia Phillies,11,5,1.0
+401816072,2026-07-08T23:10Z,Kansas City Royals at New York Mets,New York Mets,Kansas City Royals,6,2,1.0
+401816077,2026-07-08T23:40Z,Boston Red Sox at Chicago White Sox,Chicago White Sox,Boston Red Sox,0,5,0.0
+401816078,2026-07-08T23:40Z,Cleveland Guardians at Minnesota Twins,Minnesota Twins,Cleveland Guardians,6,5,1.0
+401816079,2026-07-08T23:45Z,Milwaukee Brewers at St. Louis Cardinals,St. Louis Cardinals,Milwaukee Brewers,5,1,1.0
+401816076,2026-07-09T00:05Z,Los Angeles Angels at Texas Rangers,Texas Rangers,Los Angeles Angels,1,13,0.0
+401816080,2026-07-09T02:00Z,Arizona Diamondbacks at San Diego Padres,San Diego Padres,Arizona Diamondbacks,10,4,1.0
+401816081,2026-07-09T02:10Z,Colorado Rockies at Los Angeles Dodgers,Los Angeles Dodgers,Colorado Rockies,4,3,1.0
+401816084,2026-07-09T16:35Z,Atlanta Braves at Pittsburgh Pirates,Pittsburgh Pirates,Atlanta Braves,5,10,0.0
+401816086,2026-07-09T17:10Z,Kansas City Royals at New York Mets,New York Mets,Kansas City Royals,7,3,1.0
+401816087,2026-07-09T17:10Z,New York Yankees at Tampa Bay Rays,Tampa Bay Rays,New York Yankees,4,12,0.0
+401816085,2026-07-09T17:30Z,Chicago Cubs at Baltimore Orioles,Baltimore Orioles,Chicago Cubs,3,2,1.0
+401816092,2026-07-09T17:40Z,Cleveland Guardians at Minnesota Twins,Minnesota Twins,Cleveland Guardians,2,5,0.0
+401816091,2026-07-09T18:10Z,Boston Red Sox at Chicago White Sox,Chicago White Sox,Boston Red Sox,1,2,0.0
+401816083,2026-07-09T22:40Z,Athletics Athletics at Detroit Tigers,Detroit Tigers,Athletics,4,1,1.0
+401816089,2026-07-09T22:40Z,Seattle Mariners at Miami Marlins,Miami Marlins,Seattle Mariners,8,4,1.0
+401816088,2026-07-09T23:10Z,Philadelphia Phillies at Cincinnati Reds,Cincinnati Reds,Philadelphia Phillies,0,1,0.0
+401816093,2026-07-09T23:45Z,Milwaukee Brewers at St. Louis Cardinals,St. Louis Cardinals,Milwaukee Brewers,4,8,0.0
+401816090,2026-07-10T00:05Z,Los Angeles Angels at Texas Rangers,Texas Rangers,Los Angeles Angels,7,6,1.0
+401816094,2026-07-10T01:40Z,Arizona Diamondbacks at San Diego Padres,San Diego Padres,Arizona Diamondbacks,1,3,0.0
+401816095,2026-07-10T01:45Z,Colorado Rockies at San Francisco Giants,San Francisco Giants,Colorado Rockies,8,2,1.0
+401816100,2026-07-10T22:40Z,Milwaukee Brewers at Pittsburgh Pirates,Pittsburgh Pirates,Milwaukee Brewers,0,0,0.5
+401816102,2026-07-10T22:40Z,Philadelphia Phillies at Detroit Tigers,Detroit Tigers,Philadelphia Phillies,10,2,1.0
+401816101,2026-07-10T22:45Z,New York Yankees at Washington Nationals,Washington Nationals,New York Yankees,3,5,0.0
+401816099,2026-07-10T23:05Z,Kansas City Royals at Baltimore Orioles,Baltimore Orioles,Kansas City Royals,5,3,1.0
+401816097,2026-07-10T23:10Z,Chicago Cubs at Cincinnati Reds,Cincinnati Reds,Chicago Cubs,4,0,1.0
+401816098,2026-07-10T23:10Z,Cleveland Guardians at Miami Marlins,Miami Marlins,Cleveland Guardians,2,3,0.0
+401816103,2026-07-10T23:10Z,Seattle Mariners at Tampa Bay Rays,Tampa Bay Rays,Seattle Mariners,7,2,1.0
+401816105,2026-07-10T23:40Z,Athletics Athletics at Chicago White Sox,Chicago White Sox,Athletics,14,1,1.0
+401816096,2026-07-10T23:50Z,Boston Red Sox at New York Mets,New York Mets,Boston Red Sox,2,6,0.0
+401816107,2026-07-11T00:05Z,Houston Astros at Texas Rangers,Texas Rangers,Houston Astros,7,3,1.0
+401816104,2026-07-11T00:10Z,Los Angeles Angels at Minnesota Twins,Minnesota Twins,Los Angeles Angels,3,4,0.0
+401816106,2026-07-11T00:15Z,Atlanta Braves at St. Louis Cardinals,St. Louis Cardinals,Atlanta Braves,2,1,1.0
+401816110,2026-07-11T01:40Z,Toronto Blue Jays at San Diego Padres,San Diego Padres,Toronto Blue Jays,3,5,0.0
+401816108,2026-07-11T02:10Z,Arizona Diamondbacks at Los Angeles Dodgers,Los Angeles Dodgers,Arizona Diamondbacks,3,9,0.0
+401816109,2026-07-11T02:15Z,Colorado Rockies at San Francisco Giants,San Francisco Giants,Colorado Rockies,3,4,0.0
+401889917,2026-07-11T16:05Z,Milwaukee Brewers at Pittsburgh Pirates,Pittsburgh Pirates,Milwaukee Brewers,7,6,1.0
+401816119,2026-07-11T18:10Z,Los Angeles Angels at Minnesota Twins,Minnesota Twins,Los Angeles Angels,5,3,1.0
+401816120,2026-07-11T18:10Z,Athletics Athletics at Chicago White Sox,Chicago White Sox,Athletics,1,0,1.0
+401816116,2026-07-11T20:05Z,New York Yankees at Washington Nationals,Washington Nationals,New York Yankees,2,4,0.0
+401816124,2026-07-11T20:05Z,Colorado Rockies at San Francisco Giants,San Francisco Giants,Colorado Rockies,4,2,1.0
+401816111,2026-07-11T20:10Z,Boston Red Sox at New York Mets,New York Mets,Boston Red Sox,0,4,0.0
+401816113,2026-07-11T20:10Z,Cleveland Guardians at Miami Marlins,Miami Marlins,Cleveland Guardians,1,4,0.0
+401816118,2026-07-11T20:10Z,Seattle Mariners at Tampa Bay Rays,Tampa Bay Rays,Seattle Mariners,6,1,1.0
+401816115,2026-07-11T20:15Z,Milwaukee Brewers at Pittsburgh Pirates,Pittsburgh Pirates,Milwaukee Brewers,3,2,1.0
+401816117,2026-07-11T22:10Z,Philadelphia Phillies at Detroit Tigers,Detroit Tigers,Philadelphia Phillies,2,4,0.0
+401816114,2026-07-11T23:05Z,Kansas City Royals at Baltimore Orioles,Baltimore Orioles,Kansas City Royals,6,1,1.0
+401816122,2026-07-11T23:05Z,Houston Astros at Texas Rangers,Texas Rangers,Houston Astros,3,9,0.0
+401816112,2026-07-11T23:10Z,Chicago Cubs at Cincinnati Reds,Cincinnati Reds,Chicago Cubs,3,5,0.0
+401816121,2026-07-11T23:15Z,Atlanta Braves at St. Louis Cardinals,St. Louis Cardinals,Atlanta Braves,4,1,1.0
+401816125,2026-07-12T00:40Z,Toronto Blue Jays at San Diego Padres,San Diego Padres,Toronto Blue Jays,8,7,1.0
+401816123,2026-07-12T01:10Z,Arizona Diamondbacks at Los Angeles Dodgers,Los Angeles Dodgers,Arizona Diamondbacks,2,9,0.0
+401816130,2026-07-12T16:15Z,Milwaukee Brewers at Pittsburgh Pirates,Pittsburgh Pirates,Milwaukee Brewers,14,5,1.0
+401816129,2026-07-12T17:35Z,Kansas City Royals at Baltimore Orioles,Baltimore Orioles,Kansas City Royals,8,2,1.0
+401816131,2026-07-12T17:35Z,New York Yankees at Washington Nationals,Washington Nationals,New York Yankees,3,5,0.0
+401816126,2026-07-12T17:40Z,Boston Red Sox at New York Mets,New York Mets,Boston Red Sox,2,3,0.0
+401816127,2026-07-12T17:40Z,Chicago Cubs at Cincinnati Reds,Cincinnati Reds,Chicago Cubs,4,8,0.0
+401816128,2026-07-12T17:40Z,Cleveland Guardians at Miami Marlins,Miami Marlins,Cleveland Guardians,2,5,0.0
+401816132,2026-07-12T17:40Z,Philadelphia Phillies at Detroit Tigers,Detroit Tigers,Philadelphia Phillies,0,5,0.0
+401816133,2026-07-12T17:40Z,Seattle Mariners at Tampa Bay Rays,Tampa Bay Rays,Seattle Mariners,2,8,0.0
+401816134,2026-07-12T18:10Z,Los Angeles Angels at Minnesota Twins,Minnesota Twins,Los Angeles Angels,4,2,1.0
+401816135,2026-07-12T18:10Z,Athletics Athletics at Chicago White Sox,Chicago White Sox,Athletics,9,1,1.0
+401816136,2026-07-12T18:15Z,Atlanta Braves at St. Louis Cardinals,St. Louis Cardinals,Atlanta Braves,3,4,0.0
+401816137,2026-07-12T18:35Z,Houston Astros at Texas Rangers,Texas Rangers,Houston Astros,6,5,1.0
+401816139,2026-07-12T20:05Z,Colorado Rockies at San Francisco Giants,San Francisco Giants,Colorado Rockies,3,1,1.0
+401816138,2026-07-12T20:10Z,Arizona Diamondbacks at Los Angeles Dodgers,Los Angeles Dodgers,Arizona Diamondbacks,3,5,0.0
+401816140,2026-07-12T20:10Z,Toronto Blue Jays at San Diego Padres,San Diego Padres,Toronto Blue Jays,5,4,1.0
+401816143,2026-07-16T22:00Z,New York Mets at Philadelphia Phillies,Philadelphia Phillies,New York Mets,1,4,0.0
+401872178,2026-07-17T17:35Z,Tampa Bay Rays at Boston Red Sox,Boston Red Sox,Tampa Bay Rays,10,0,1.0
+401816142,2026-07-17T23:05Z,Los Angeles Dodgers at New York Yankees,New York Yankees,Los Angeles Dodgers,1,2,0.0
+401816144,2026-07-17T23:10Z,Pittsburgh Pirates at Cleveland Guardians,Cleveland Guardians,Pittsburgh Pirates,0,0,0.5
+401816145,2026-07-17T23:10Z,Tampa Bay Rays at Boston Red Sox,Boston Red Sox,Tampa Bay Rays,5,3,1.0
+401816141,2026-07-17T23:15Z,Chicago White Sox at Toronto Blue Jays,Toronto Blue Jays,Chicago White Sox,4,12,0.0
+401816146,2026-07-17T23:15Z,Texas Rangers at Atlanta Braves,Atlanta Braves,Texas Rangers,15,1,1.0
+401816148,2026-07-17T23:40Z,Miami Marlins at Milwaukee Brewers,Milwaukee Brewers,Miami Marlins,2,1,1.0
+401816149,2026-07-18T00:05Z,Minnesota Twins at Chicago Cubs,Chicago Cubs,Minnesota Twins,2,5,0.0
+401816147,2026-07-18T00:10Z,Baltimore Orioles at Houston Astros,Houston Astros,Baltimore Orioles,2,3,0.0
+401816150,2026-07-18T00:10Z,San Diego Padres at Kansas City Royals,Kansas City Royals,San Diego Padres,7,6,1.0
+401816151,2026-07-18T00:40Z,Cincinnati Reds at Colorado Rockies,Colorado Rockies,Cincinnati Reds,2,7,0.0
+401816152,2026-07-18T01:38Z,Detroit Tigers at Los Angeles Angels,Los Angeles Angels,Detroit Tigers,1,2,0.0
+401816154,2026-07-18T01:40Z,St. Louis Cardinals at Arizona Diamondbacks,Arizona Diamondbacks,St. Louis Cardinals,4,5,0.0
+401816155,2026-07-18T01:40Z,Washington Nationals at Athletics Athletics,Athletics,Washington Nationals,4,23,0.0
+401816153,2026-07-18T02:10Z,San Francisco Giants at Seattle Mariners,Seattle Mariners,San Francisco Giants,0,7,0.0
+401896568,2026-07-18T17:10Z,Pittsburgh Pirates at Cleveland Guardians,Cleveland Guardians,Pittsburgh Pirates,1,7,0.0
+401816164,2026-07-18T18:20Z,Minnesota Twins at Chicago Cubs,Chicago Cubs,Minnesota Twins,6,2,1.0
+401816158,2026-07-18T19:05Z,New York Mets at Philadelphia Phillies,Philadelphia Phillies,New York Mets,6,1,1.0
+401816156,2026-07-18T19:07Z,Chicago White Sox at Toronto Blue Jays,Toronto Blue Jays,Chicago White Sox,1,0,1.0
+401816166,2026-07-18T19:10Z,Cincinnati Reds at Colorado Rockies,Colorado Rockies,Cincinnati Reds,10,3,1.0
+401816160,2026-07-18T20:10Z,Tampa Bay Rays at Boston Red Sox,Boston Red Sox,Tampa Bay Rays,7,6,1.0
+401816161,2026-07-18T20:10Z,Texas Rangers at Atlanta Braves,Atlanta Braves,Texas Rangers,6,7,0.0
+401816162,2026-07-18T20:10Z,Baltimore Orioles at Houston Astros,Houston Astros,Baltimore Orioles,2,4,0.0
+401816163,2026-07-18T20:10Z,Miami Marlins at Milwaukee Brewers,Milwaukee Brewers,Miami Marlins,8,6,1.0
+401816165,2026-07-18T20:10Z,San Diego Padres at Kansas City Royals,Kansas City Royals,San Diego Padres,6,1,1.0
+401816169,2026-07-18T20:10Z,St. Louis Cardinals at Arizona Diamondbacks,Arizona Diamondbacks,St. Louis Cardinals,5,3,1.0
+401816159,2026-07-18T23:10Z,Pittsburgh Pirates at Cleveland Guardians,Cleveland Guardians,Pittsburgh Pirates,5,3,1.0
+401816157,2026-07-19T00:08Z,Los Angeles Dodgers at New York Yankees,New York Yankees,Los Angeles Dodgers,0,0,0.5
+401816168,2026-07-19T00:08Z,San Francisco Giants at Seattle Mariners,Seattle Mariners,San Francisco Giants,4,3,1.0
+401816170,2026-07-19T02:05Z,Washington Nationals at Athletics Athletics,Athletics,Washington Nationals,15,1,1.0
+401816167,2026-07-19T02:07Z,Detroit Tigers at Los Angeles Angels,Los Angeles Angels,Detroit Tigers,0,7,0.0
+401816171,2026-07-19T16:15Z,Chicago White Sox at Toronto Blue Jays,Toronto Blue Jays,Chicago White Sox,0,3,0.0
+401897386,2026-07-19T16:35Z,Los Angeles Dodgers at New York Yankees,New York Yankees,Los Angeles Dodgers,2,8,0.0
+401816173,2026-07-19T17:35Z,New York Mets at Philadelphia Phillies,Philadelphia Phillies,New York Mets,1,6,0.0
+401816175,2026-07-19T17:35Z,Tampa Bay Rays at Boston Red Sox,Boston Red Sox,Tampa Bay Rays,6,1,1.0
+401816176,2026-07-19T17:35Z,Texas Rangers at Atlanta Braves,Atlanta Braves,Texas Rangers,8,5,1.0
+401816174,2026-07-19T17:40Z,Pittsburgh Pirates at Cleveland Guardians,Cleveland Guardians,Pittsburgh Pirates,1,7,0.0
+401816177,2026-07-19T18:10Z,Baltimore Orioles at Houston Astros,Houston Astros,Baltimore Orioles,2,5,0.0
+401816178,2026-07-19T18:10Z,Miami Marlins at Milwaukee Brewers,Milwaukee Brewers,Miami Marlins,3,1,1.0
+401816180,2026-07-19T18:10Z,San Diego Padres at Kansas City Royals,Kansas City Royals,San Diego Padres,2,19,0.0
+401816179,2026-07-19T18:20Z,Minnesota Twins at Chicago Cubs,Chicago Cubs,Minnesota Twins,10,1,1.0
+401816181,2026-07-19T19:10Z,Cincinnati Reds at Colorado Rockies,Colorado Rockies,Cincinnati Reds,6,9,0.0
+401816185,2026-07-19T20:05Z,Washington Nationals at Athletics Athletics,Athletics,Washington Nationals,2,5,0.0
+401816182,2026-07-19T20:07Z,Detroit Tigers at Los Angeles Angels,Los Angeles Angels,Detroit Tigers,3,2,1.0
+401816183,2026-07-19T20:10Z,San Francisco Giants at Seattle Mariners,Seattle Mariners,San Francisco Giants,6,3,1.0
+401816184,2026-07-19T20:10Z,St. Louis Cardinals at Arizona Diamondbacks,Arizona Diamondbacks,St. Louis Cardinals,8,7,1.0
+401816172,2026-07-19T23:20Z,Los Angeles Dodgers at New York Yankees,New York Yankees,Los Angeles Dodgers,2,1,1.0
+401816188,2026-07-20T22:40Z,Minnesota Twins at Cleveland Guardians,Cleveland Guardians,Minnesota Twins,13,4,1.0
+401816187,2026-07-20T23:00Z,Los Angeles Dodgers at Philadelphia Phillies,Philadelphia Phillies,Los Angeles Dodgers,10,7,1.0
+401816189,2026-07-20T23:05Z,Pittsburgh Pirates at New York Yankees,New York Yankees,Pittsburgh Pirates,8,5,1.0
+401816191,2026-07-20T23:07Z,Tampa Bay Rays at Toronto Blue Jays,Toronto Blue Jays,Tampa Bay Rays,1,7,0.0
+401816186,2026-07-20T23:10Z,Baltimore Orioles at Boston Red Sox,Boston Red Sox,Baltimore Orioles,6,5,1.0
+401816190,2026-07-20T23:15Z,San Diego Padres at Atlanta Braves,Atlanta Braves,San Diego Padres,3,2,1.0
+401816195,2026-07-20T23:40Z,New York Mets at Milwaukee Brewers,Milwaukee Brewers,New York Mets,8,3,1.0
+401816196,2026-07-20T23:40Z,San Francisco Giants at Kansas City Royals,Kansas City Royals,San Francisco Giants,4,3,1.0
+401816192,2026-07-21T00:05Z,Chicago White Sox at Texas Rangers,Texas Rangers,Chicago White Sox,3,10,0.0
+401816193,2026-07-21T00:05Z,Detroit Tigers at Chicago Cubs,Chicago Cubs,Detroit Tigers,6,8,0.0
+401816194,2026-07-21T00:10Z,Miami Marlins at Houston Astros,Houston Astros,Miami Marlins,8,5,1.0
+401816197,2026-07-21T00:40Z,Washington Nationals at Colorado Rockies,Colorado Rockies,Washington Nationals,3,7,0.0
+401816198,2026-07-21T01:40Z,Athletics Athletics at Arizona Diamondbacks,Arizona Diamondbacks,Athletics,2,5,0.0
+401816199,2026-07-21T01:40Z,Cincinnati Reds at Seattle Mariners,Seattle Mariners,Cincinnati Reds,8,0,1.0
+401816200,2026-07-21T02:00Z,St. Louis Cardinals at Los Angeles Angels,Los Angeles Angels,St. Louis Cardinals,3,2,1.0
+401816202,2026-07-21T22:40Z,Los Angeles Dodgers at Philadelphia Phillies,Philadelphia Phillies,Los Angeles Dodgers,1,2,0.0
+401816203,2026-07-21T22:40Z,Minnesota Twins at Cleveland Guardians,Cleveland Guardians,Minnesota Twins,5,2,1.0
+401816204,2026-07-21T23:05Z,Pittsburgh Pirates at New York Yankees,New York Yankees,Pittsburgh Pirates,0,0,0.5
+401816206,2026-07-21T23:07Z,Tampa Bay Rays at Toronto Blue Jays,Toronto Blue Jays,Tampa Bay Rays,2,12,0.0
+401816201,2026-07-21T23:10Z,Baltimore Orioles at Boston Red Sox,Boston Red Sox,Baltimore Orioles,0,0,0.5
+401816205,2026-07-21T23:15Z,San Diego Padres at Atlanta Braves,Atlanta Braves,San Diego Padres,3,8,0.0
+401816210,2026-07-21T23:40Z,New York Mets at Milwaukee Brewers,Milwaukee Brewers,New York Mets,0,4,0.0
+401816211,2026-07-21T23:40Z,San Francisco Giants at Kansas City Royals,Kansas City Royals,San Francisco Giants,3,2,1.0
+401816207,2026-07-22T00:05Z,Chicago White Sox at Texas Rangers,Texas Rangers,Chicago White Sox,10,0,1.0
+401816208,2026-07-22T00:05Z,Detroit Tigers at Chicago Cubs,Chicago Cubs,Detroit Tigers,11,2,1.0
+401816209,2026-07-22T00:10Z,Miami Marlins at Houston Astros,Houston Astros,Miami Marlins,5,3,1.0
+401816212,2026-07-22T00:40Z,Washington Nationals at Colorado Rockies,Colorado Rockies,Washington Nationals,8,7,1.0
+401816215,2026-07-22T01:38Z,St. Louis Cardinals at Los Angeles Angels,Los Angeles Angels,St. Louis Cardinals,5,1,1.0
+401816213,2026-07-22T01:40Z,Athletics Athletics at Arizona Diamondbacks,Arizona Diamondbacks,Athletics,6,5,1.0
+401816214,2026-07-22T01:40Z,Cincinnati Reds at Seattle Mariners,Seattle Mariners,Cincinnati Reds,2,4,0.0
+401816219,2026-07-22T17:05Z,Pittsburgh Pirates at New York Yankees,New York Yankees,Pittsburgh Pirates,3,5,0.0
+401898715,2026-07-22T17:35Z,Baltimore Orioles at Boston Red Sox,Boston Red Sox,Baltimore Orioles,6,3,1.0
+401816225,2026-07-22T18:10Z,New York Mets at Milwaukee Brewers,Milwaukee Brewers,New York Mets,4,3,1.0
+401816226,2026-07-22T18:10Z,San Francisco Giants at Kansas City Royals,Kansas City Royals,San Francisco Giants,5,4,1.0
+401816227,2026-07-22T19:10Z,Washington Nationals at Colorado Rockies,Colorado Rockies,Washington Nationals,0,8,0.0
+401816228,2026-07-22T19:40Z,Athletics Athletics at Arizona Diamondbacks,Arizona Diamondbacks,Athletics,15,5,1.0
+401816229,2026-07-22T19:40Z,Cincinnati Reds at Seattle Mariners,Seattle Mariners,Cincinnati Reds,3,5,0.0
+401816230,2026-07-22T20:07Z,St. Louis Cardinals at Los Angeles Angels,Los Angeles Angels,St. Louis Cardinals,0,1,0.0
+401816217,2026-07-22T22:40Z,Los Angeles Dodgers at Philadelphia Phillies,Philadelphia Phillies,Los Angeles Dodgers,5,9,0.0
+401816218,2026-07-22T22:40Z,Minnesota Twins at Cleveland Guardians,Cleveland Guardians,Minnesota Twins,6,10,0.0
+401898714,2026-07-22T23:05Z,Pittsburgh Pirates at New York Yankees,New York Yankees,Pittsburgh Pirates,2,0,1.0
+401816221,2026-07-22T23:07Z,Tampa Bay Rays at Toronto Blue Jays,Toronto Blue Jays,Tampa Bay Rays,2,4,0.0
+401816216,2026-07-22T23:10Z,Baltimore Orioles at Boston Red Sox,Boston Red Sox,Baltimore Orioles,1,5,0.0
+401816220,2026-07-22T23:15Z,San Diego Padres at Atlanta Braves,Atlanta Braves,San Diego Padres,7,6,1.0
+401816223,2026-07-23T00:00Z,Detroit Tigers at Chicago Cubs,Chicago Cubs,Detroit Tigers,1,5,0.0
+401816222,2026-07-23T00:05Z,Chicago White Sox at Texas Rangers,Texas Rangers,Chicago White Sox,2,4,0.0
+401816224,2026-07-23T00:10Z,Miami Marlins at Houston Astros,Houston Astros,Miami Marlins,5,2,1.0
+401816233,2026-07-23T16:15Z,San Diego Padres at Atlanta Braves,Atlanta Braves,San Diego Padres,6,5,1.0
+401816232,2026-07-23T17:10Z,Minnesota Twins at Cleveland Guardians,Cleveland Guardians,Minnesota Twins,1,3,0.0
+401816234,2026-07-23T19:07Z,Tampa Bay Rays at Toronto Blue Jays,Toronto Blue Jays,Tampa Bay Rays,3,1,1.0
+401881162,2026-07-23T21:15Z,Arizona Diamondbacks at St. Louis Cardinals,St. Louis Cardinals,Arizona Diamondbacks,6,10,0.0
+401816231,2026-07-23T22:40Z,Kansas City Royals at Detroit Tigers,Detroit Tigers,Kansas City Royals,4,3,1.0
+401816246,2026-07-24T20:10Z,Colorado Rockies at Milwaukee Brewers,Milwaukee Brewers,Colorado Rockies,2,5,0.0
+401816237,2026-07-24T22:40Z,Chicago Cubs at Pittsburgh Pirates,Pittsburgh Pirates,Chicago Cubs,2,3,0.0
+401816239,2026-07-24T22:40Z,Kansas City Royals at Detroit Tigers,Detroit Tigers,Kansas City Royals,2,1,1.0
+401816235,2026-07-24T22:45Z,Arizona Diamondbacks at Washington Nationals,Washington Nationals,Arizona Diamondbacks,2,3,0.0
+401816241,2026-07-24T22:45Z,New York Yankees at Philadelphia Phillies,Philadelphia Phillies,New York Yankees,0,1,0.0
+401816236,2026-07-24T23:05Z,Atlanta Braves at Baltimore Orioles,Baltimore Orioles,Atlanta Braves,6,7,0.0
+401816238,2026-07-24T23:10Z,Cleveland Guardians at Tampa Bay Rays,Tampa Bay Rays,Cleveland Guardians,11,3,1.0
+401816240,2026-07-24T23:10Z,Los Angeles Dodgers at New York Mets,New York Mets,Los Angeles Dodgers,2,4,0.0
+401816242,2026-07-24T23:10Z,San Diego Padres at Miami Marlins,Miami Marlins,San Diego Padres,2,4,0.0
+401816243,2026-07-24T23:15Z,Toronto Blue Jays at Boston Red Sox,Boston Red Sox,Toronto Blue Jays,6,4,1.0
+401816247,2026-07-24T23:40Z,Houston Astros at Chicago White Sox,Chicago White Sox,Houston Astros,5,9,0.0
+401816248,2026-07-25T00:05Z,Seattle Mariners at Texas Rangers,Texas Rangers,Seattle Mariners,5,4,1.0
+401816244,2026-07-25T00:10Z,Athletics Athletics at Minnesota Twins,Minnesota Twins,Athletics,0,2,0.0
+401816245,2026-07-25T00:15Z,Cincinnati Reds at St. Louis Cardinals,St. Louis Cardinals,Cincinnati Reds,2,4,0.0
+401816249,2026-07-25T02:15Z,Los Angeles Angels at San Francisco Giants,San Francisco Giants,Los Angeles Angels,7,6,1.0
+401816254,2026-07-25T17:10Z,Kansas City Royals at Detroit Tigers,Detroit Tigers,Kansas City Royals,2,3,0.0
+401816250,2026-07-25T20:05Z,Arizona Diamondbacks at Washington Nationals,Washington Nationals,Arizona Diamondbacks,5,3,1.0
+401816264,2026-07-25T20:05Z,Los Angeles Angels at San Francisco Giants,San Francisco Giants,Los Angeles Angels,9,2,1.0
+401816257,2026-07-25T20:10Z,San Diego Padres at Miami Marlins,Miami Marlins,San Diego Padres,2,7,0.0
+401816258,2026-07-25T20:10Z,Toronto Blue Jays at Boston Red Sox,Boston Red Sox,Toronto Blue Jays,0,6,0.0
+401816256,2026-07-25T22:05Z,New York Yankees at Philadelphia Phillies,Philadelphia Phillies,New York Yankees,1,3,0.0
+401816253,2026-07-25T22:10Z,Cleveland Guardians at Tampa Bay Rays,Tampa Bay Rays,Cleveland Guardians,3,0,1.0
+401816252,2026-07-25T22:40Z,Chicago Cubs at Pittsburgh Pirates,Pittsburgh Pirates,Chicago Cubs,0,11,0.0
+401816251,2026-07-25T23:05Z,Atlanta Braves at Baltimore Orioles,Baltimore Orioles,Atlanta Braves,3,2,1.0
+401816259,2026-07-25T23:10Z,Athletics Athletics at Minnesota Twins,Minnesota Twins,Athletics,2,0,1.0
+401816261,2026-07-25T23:10Z,Colorado Rockies at Milwaukee Brewers,Milwaukee Brewers,Colorado Rockies,8,5,1.0
+401816262,2026-07-25T23:10Z,Houston Astros at Chicago White Sox,Chicago White Sox,Houston Astros,1,4,0.0
+401816255,2026-07-25T23:15Z,Los Angeles Dodgers at New York Mets,New York Mets,Los Angeles Dodgers,3,4,0.0
+401816260,2026-07-25T23:15Z,Cincinnati Reds at St. Louis Cardinals,St. Louis Cardinals,Cincinnati Reds,7,0,1.0
+401816263,2026-07-25T23:15Z,Seattle Mariners at Texas Rangers,Texas Rangers,Seattle Mariners,7,1,1.0
+401816268,2026-07-26T16:15Z,Cleveland Guardians at Tampa Bay Rays,Tampa Bay Rays,Cleveland Guardians,1,0,1.0
+401816265,2026-07-26T17:35Z,Arizona Diamondbacks at Washington Nationals,Washington Nationals,Arizona Diamondbacks,10,7,1.0
+401816266,2026-07-26T17:35Z,Atlanta Braves at Baltimore Orioles,Baltimore Orioles,Atlanta Braves,2,3,0.0
+401816267,2026-07-26T17:35Z,Chicago Cubs at Pittsburgh Pirates,Pittsburgh Pirates,Chicago Cubs,8,7,1.0
+401816273,2026-07-26T17:35Z,Toronto Blue Jays at Boston Red Sox,Boston Red Sox,Toronto Blue Jays,6,1,1.0
+401816269,2026-07-26T17:40Z,Kansas City Royals at Detroit Tigers,Detroit Tigers,Kansas City Royals,4,5,0.0
+401816270,2026-07-26T17:40Z,Los Angeles Dodgers at New York Mets,New York Mets,Los Angeles Dodgers,8,3,1.0
+401816272,2026-07-26T17:40Z,San Diego Padres at Miami Marlins,Miami Marlins,San Diego Padres,3,5,0.0
+401816274,2026-07-26T18:10Z,Athletics Athletics at Minnesota Twins,Minnesota Twins,Athletics,11,8,1.0
+401816276,2026-07-26T18:10Z,Colorado Rockies at Milwaukee Brewers,Milwaukee Brewers,Colorado Rockies,11,2,1.0
+401816277,2026-07-26T18:10Z,Houston Astros at Chicago White Sox,Chicago White Sox,Houston Astros,12,3,1.0
+401816275,2026-07-26T18:15Z,Cincinnati Reds at St. Louis Cardinals,St. Louis Cardinals,Cincinnati Reds,3,5,0.0
+401816278,2026-07-26T18:35Z,Seattle Mariners at Texas Rangers,Texas Rangers,Seattle Mariners,4,6,0.0
+401816279,2026-07-26T20:05Z,Los Angeles Angels at San Francisco Giants,San Francisco Giants,Los Angeles Angels,3,4,0.0
+401816271,2026-07-26T23:20Z,New York Yankees at Philadelphia Phillies,Philadelphia Phillies,New York Yankees,11,4,1.0
+401816288,2026-07-27T18:35Z,Seattle Mariners at Texas Rangers,Texas Rangers,Seattle Mariners,7,3,1.0
+401816280,2026-07-27T22:40Z,Arizona Diamondbacks at Pittsburgh Pirates,Pittsburgh Pirates,Arizona Diamondbacks,3,2,1.0
+401816282,2026-07-27T22:40Z,Baltimore Orioles at Detroit Tigers,Detroit Tigers,Baltimore Orioles,5,8,0.0
+401816284,2026-07-27T22:40Z,Philadelphia Phillies at Miami Marlins,Miami Marlins,Philadelphia Phillies,8,7,1.0
+401816285,2026-07-27T22:45Z,Toronto Blue Jays at Washington Nationals,Washington Nationals,Toronto Blue Jays,2,3,0.0
+401816283,2026-07-27T23:00Z,Cleveland Guardians at Cincinnati Reds,Cincinnati Reds,Cleveland Guardians,0,0,0.5
+401816281,2026-07-27T23:10Z,Atlanta Braves at New York Mets,New York Mets,Atlanta Braves,14,3,1.0
+401816287,2026-07-27T23:40Z,New York Yankees at Chicago White Sox,Chicago White Sox,New York Yankees,5,9,0.0
+401816286,2026-07-27T23:45Z,Chicago Cubs at St. Louis Cardinals,St. Louis Cardinals,Chicago Cubs,3,7,0.0
+401816290,2026-07-28T01:38Z,Houston Astros at Los Angeles Angels,Los Angeles Angels,Houston Astros,4,6,0.0
+401816289,2026-07-28T01:40Z,Boston Red Sox at Athletics Athletics,Athletics,Boston Red Sox,2,4,0.0
+401816291,2026-07-28T01:45Z,Milwaukee Brewers at San Francisco Giants,San Francisco Giants,Milwaukee Brewers,3,0,1.0
+401901849,2026-07-28T17:40Z,Cleveland Guardians at Cincinnati Reds,Cincinnati Reds,Cleveland Guardians,5,6,0.0
+401816292,2026-07-28T22:40Z,Arizona Diamondbacks at Pittsburgh Pirates,Pittsburgh Pirates,Arizona Diamondbacks,7,8,0.0
+401816294,2026-07-28T22:40Z,Baltimore Orioles at Detroit Tigers,Detroit Tigers,Baltimore Orioles,14,0,1.0
+401816296,2026-07-28T22:40Z,Philadelphia Phillies at Miami Marlins,Miami Marlins,Philadelphia Phillies,1,0,1.0
+401816297,2026-07-28T22:40Z,Texas Rangers at Tampa Bay Rays,Tampa Bay Rays,Texas Rangers,1,4,0.0
+401816298,2026-07-28T22:45Z,Toronto Blue Jays at Washington Nationals,Washington Nationals,Toronto Blue Jays,8,6,1.0
+401816293,2026-07-28T23:10Z,Atlanta Braves at New York Mets,New York Mets,Atlanta Braves,0,0,0.5
+401816295,2026-07-28T23:10Z,Cleveland Guardians at Cincinnati Reds,Cincinnati Reds,Cleveland Guardians,2,0,1.0
+401816300,2026-07-28T23:40Z,Kansas City Royals at Minnesota Twins,Minnesota Twins,Kansas City Royals,3,2,1.0
+401816301,2026-07-28T23:40Z,New York Yankees at Chicago White Sox,Chicago White Sox,New York Yankees,2,3,0.0
+401816299,2026-07-28T23:45Z,Chicago Cubs at St. Louis Cardinals,St. Louis Cardinals,Chicago Cubs,2,10,0.0
+401816304,2026-07-29T01:38Z,Houston Astros at Los Angeles Angels,Los Angeles Angels,Houston Astros,2,3,0.0
+401816302,2026-07-29T01:40Z,Boston Red Sox at Athletics Athletics,Athletics,Boston Red Sox,4,3,1.0
+401816303,2026-07-29T01:40Z,Colorado Rockies at San Diego Padres,San Diego Padres,Colorado Rockies,8,7,1.0
+401816305,2026-07-29T01:45Z,Milwaukee Brewers at San Francisco Giants,San Francisco Giants,Milwaukee Brewers,2,8,0.0
+401816306,2026-07-29T02:10Z,Seattle Mariners at Los Angeles Dodgers,Los Angeles Dodgers,Seattle Mariners,6,7,0.0
+401816311,2026-07-29T16:10Z,Philadelphia Phillies at Miami Marlins,Miami Marlins,Philadelphia Phillies,8,6,1.0
+401816307,2026-07-29T16:35Z,Arizona Diamondbacks at Pittsburgh Pirates,Pittsburgh Pirates,Arizona Diamondbacks,0,3,0.0
+401816313,2026-07-29T17:05Z,Toronto Blue Jays at Washington Nationals,Washington Nationals,Toronto Blue Jays,2,5,0.0
+401816308,2026-07-29T17:10Z,Atlanta Braves at New York Mets,New York Mets,Atlanta Braves,3,2,1.0
+401816309,2026-07-29T17:10Z,Baltimore Orioles at Detroit Tigers,Detroit Tigers,Baltimore Orioles,9,10,0.0
+401816320,2026-07-29T19:45Z,Milwaukee Brewers at San Francisco Giants,San Francisco Giants,Milwaukee Brewers,16,3,1.0
+401816318,2026-07-29T20:10Z,Colorado Rockies at San Diego Padres,San Diego Padres,Colorado Rockies,3,1,1.0
+401816312,2026-07-29T22:40Z,Texas Rangers at Tampa Bay Rays,Tampa Bay Rays,Texas Rangers,3,0,1.0
+401816310,2026-07-29T23:10Z,Cleveland Guardians at Cincinnati Reds,Cincinnati Reds,Cleveland Guardians,1,6,0.0
+401902545,2026-07-29T23:10Z,Atlanta Braves at New York Mets,New York Mets,Atlanta Braves,0,1,0.0
+401816315,2026-07-29T23:40Z,Kansas City Royals at Minnesota Twins,Minnesota Twins,Kansas City Royals,0,4,0.0
+401816316,2026-07-29T23:40Z,New York Yankees at Chicago White Sox,Chicago White Sox,New York Yankees,6,5,1.0
+401816314,2026-07-29T23:45Z,Chicago Cubs at St. Louis Cardinals,St. Louis Cardinals,Chicago Cubs,3,2,1.0
+401816319,2026-07-30T01:38Z,Houston Astros at Los Angeles Angels,Los Angeles Angels,Houston Astros,4,7,0.0
+401816317,2026-07-30T01:40Z,Boston Red Sox at Athletics Athletics,Athletics,Boston Red Sox,2,4,0.0
+401816321,2026-07-30T02:10Z,Seattle Mariners at Los Angeles Dodgers,Los Angeles Dodgers,Seattle Mariners,4,2,1.0
+401816324,2026-07-30T16:10Z,Texas Rangers at Tampa Bay Rays,Tampa Bay Rays,Texas Rangers,3,2,1.0
+401816327,2026-07-30T17:40Z,Kansas City Royals at Minnesota Twins,Minnesota Twins,Kansas City Royals,4,3,1.0
+401816328,2026-07-30T18:10Z,New York Yankees at Chicago White Sox,Chicago White Sox,New York Yankees,2,1,1.0
+401816326,2026-07-30T18:15Z,Chicago Cubs at St. Louis Cardinals,St. Louis Cardinals,Chicago Cubs,2,4,0.0
+401816325,2026-07-30T23:00Z,Washington Nationals at Atlanta Braves,Atlanta Braves,Washington Nationals,5,4,1.0
+401816322,2026-07-30T23:10Z,Miami Marlins at New York Mets,New York Mets,Miami Marlins,4,2,1.0
+401816323,2026-07-30T23:10Z,Pittsburgh Pirates at Cincinnati Reds,Cincinnati Reds,Pittsburgh Pirates,3,2,1.0
+401816329,2026-07-31T01:40Z,Boston Red Sox at Athletics Athletics,Athletics,Boston Red Sox,4,5,0.0
+401816331,2026-07-31T01:40Z,San Francisco Giants at San Diego Padres,San Diego Padres,San Francisco Giants,1,4,0.0
+401816330,2026-07-31T02:10Z,Seattle Mariners at Los Angeles Dodgers,Los Angeles Dodgers,Seattle Mariners,6,2,1.0
+401816339,2026-07-31T18:20Z,New York Yankees at Chicago Cubs,Chicago Cubs,New York Yankees,0,2,0.0
+401816336,2026-07-31T22:10Z,Pittsburgh Pirates at Cincinnati Reds,Cincinnati Reds,Pittsburgh Pirates,8,7,1.0
+401816335,2026-07-31T23:05Z,Philadelphia Phillies at Baltimore Orioles,Baltimore Orioles,Philadelphia Phillies,6,4,1.0
+401816337,2026-07-31T23:07Z,St. Louis Cardinals at Toronto Blue Jays,Toronto Blue Jays,St. Louis Cardinals,3,1,1.0
+401816332,2026-07-31T23:10Z,Arizona Diamondbacks at Cleveland Guardians,Cleveland Guardians,Arizona Diamondbacks,1,4,0.0
+401816333,2026-07-31T23:10Z,Chicago White Sox at Tampa Bay Rays,Tampa Bay Rays,Chicago White Sox,1,6,0.0
+401816334,2026-07-31T23:10Z,Miami Marlins at New York Mets,New York Mets,Miami Marlins,2,5,0.0
+401816338,2026-07-31T23:15Z,Washington Nationals at Atlanta Braves,Atlanta Braves,Washington Nationals,6,2,1.0
+401816340,2026-08-01T00:15Z,Texas Rangers at Houston Astros,Houston Astros,Texas Rangers,11,2,1.0
+401816341,2026-08-01T00:40Z,Kansas City Royals at Colorado Rockies,Colorado Rockies,Kansas City Royals,3,1,1.0
+401816344,2026-08-01T01:38Z,Milwaukee Brewers at Los Angeles Angels,Los Angeles Angels,Milwaukee Brewers,2,6,0.0
+401816343,2026-08-01T01:40Z,Detroit Tigers at Athletics Athletics,Athletics,Detroit Tigers,1,13,0.0
+401816346,2026-08-01T01:45Z,San Francisco Giants at San Diego Padres,San Diego Padres,San Francisco Giants,7,0,1.0
+401816342,2026-08-01T02:10Z,Boston Red Sox at Los Angeles Dodgers,Los Angeles Dodgers,Boston Red Sox,4,9,0.0
+401816345,2026-08-01T02:10Z,Minnesota Twins at Seattle Mariners,Seattle Mariners,Minnesota Twins,3,5,0.0
+401817370,2026-07-15T00:00Z,American All-Stars at National All-Stars,National All-Stars,American All-Stars,0,4,0.0

@@ -1,0 +1,233 @@
+id,date,event,home,away,hs,as,res
+401350217,2022-04-01T23:00Z,Nashville Predators at Buffalo Sabres,Buffalo Sabres,Nashville Predators,4,3,1.0
+401350219,2022-04-01T23:00Z,Chicago Blackhawks at Tampa Bay Lightning,Tampa Bay Lightning,Chicago Blackhawks,5,2,1.0
+401350220,2022-04-01T23:00Z,New York Islanders at New York Rangers,New York Rangers,New York Islanders,0,3,0.0
+401350218,2022-04-01T23:30Z,Ottawa Senators at Detroit Red Wings,Detroit Red Wings,Ottawa Senators,2,5,0.0
+401350221,2022-04-02T01:00Z,St. Louis Blues at Edmonton Oilers,Edmonton Oilers,St. Louis Blues,6,5,1.0
+401350223,2022-04-02T02:00Z,Vegas Golden Knights at Seattle Kraken,Seattle Kraken,Vegas Golden Knights,2,5,0.0
+401350222,2022-04-02T02:30Z,Anaheim Ducks at Arizona Coyotes,Arizona Coyotes,Anaheim Ducks,0,5,0.0
+401350226,2022-04-02T16:30Z,Florida Panthers at New Jersey Devils,New Jersey Devils,Florida Panthers,6,7,0.0
+401350231,2022-04-02T19:00Z,Pittsburgh Penguins at Colorado Avalanche,Colorado Avalanche,Pittsburgh Penguins,3,2,1.0
+401350224,2022-04-02T23:00Z,Columbus Blue Jackets at Boston Bruins,Boston Bruins,Columbus Blue Jackets,5,2,1.0
+401350225,2022-04-02T23:00Z,Montreal Canadiens at Tampa Bay Lightning,Tampa Bay Lightning,Montreal Canadiens,4,5,0.0
+401350227,2022-04-02T23:00Z,Toronto Maple Leafs at Philadelphia Flyers,Philadelphia Flyers,Toronto Maple Leafs,3,6,0.0
+401350228,2022-04-02T23:00Z,Minnesota Wild at Carolina Hurricanes,Carolina Hurricanes,Minnesota Wild,1,3,0.0
+401350230,2022-04-02T23:00Z,Los Angeles Kings at Winnipeg Jets,Winnipeg Jets,Los Angeles Kings,2,3,0.0
+401350232,2022-04-03T02:00Z,St. Louis Blues at Calgary Flames,Calgary Flames,St. Louis Blues,4,6,0.0
+401350233,2022-04-03T02:30Z,Dallas Stars at San Jose Sharks,San Jose Sharks,Dallas Stars,4,5,0.0
+401350234,2022-04-03T17:00Z,Florida Panthers at Buffalo Sabres,Buffalo Sabres,Florida Panthers,3,5,0.0
+401350235,2022-04-03T17:00Z,Detroit Red Wings at Ottawa Senators,Ottawa Senators,Detroit Red Wings,5,2,1.0
+401350236,2022-04-03T20:00Z,New York Islanders at New Jersey Devils,New Jersey Devils,New York Islanders,3,4,0.0
+401350237,2022-04-03T23:00Z,Philadelphia Flyers at New York Rangers,New York Rangers,Philadelphia Flyers,3,4,0.0
+401350238,2022-04-03T23:00Z,Minnesota Wild at Washington Capitals,Washington Capitals,Minnesota Wild,1,5,0.0
+401350239,2022-04-03T23:00Z,Arizona Coyotes at Chicago Blackhawks,Chicago Blackhawks,Arizona Coyotes,2,3,0.0
+401350240,2022-04-03T23:00Z,Vegas Golden Knights at Vancouver Canucks,Vancouver Canucks,Vegas Golden Knights,2,3,0.0
+401350241,2022-04-04T00:00Z,Edmonton Oilers at Anaheim Ducks,Anaheim Ducks,Edmonton Oilers,1,6,0.0
+401350242,2022-04-04T01:00Z,Dallas Stars at Seattle Kraken,Seattle Kraken,Dallas Stars,4,1,1.0
+401350244,2022-04-04T23:00Z,Boston Bruins at Columbus Blue Jackets,Columbus Blue Jackets,Boston Bruins,2,3,0.0
+401350243,2022-04-04T23:30Z,Toronto Maple Leafs at Tampa Bay Lightning,Tampa Bay Lightning,Toronto Maple Leafs,2,6,0.0
+401350245,2022-04-05T00:00Z,Arizona Coyotes at St. Louis Blues,St. Louis Blues,Arizona Coyotes,5,1,1.0
+401350246,2022-04-05T02:30Z,Calgary Flames at Los Angeles Kings,Los Angeles Kings,Calgary Flames,2,3,0.0
+401350247,2022-04-05T23:00Z,Carolina Hurricanes at Buffalo Sabres,Buffalo Sabres,Carolina Hurricanes,4,2,1.0
+401350248,2022-04-05T23:00Z,Ottawa Senators at Montreal Canadiens,Montreal Canadiens,Ottawa Senators,3,6,0.0
+401350250,2022-04-05T23:00Z,Toronto Maple Leafs at Florida Panthers,Florida Panthers,Toronto Maple Leafs,7,6,1.0
+401350251,2022-04-05T23:00Z,New York Rangers at New Jersey Devils,New Jersey Devils,New York Rangers,1,3,0.0
+401350252,2022-04-05T23:00Z,Columbus Blue Jackets at Philadelphia Flyers,Philadelphia Flyers,Columbus Blue Jackets,2,4,0.0
+401350253,2022-04-05T23:00Z,Colorado Avalanche at Pittsburgh Penguins,Pittsburgh Penguins,Colorado Avalanche,4,6,0.0
+401350249,2022-04-05T23:30Z,Boston Bruins at Detroit Red Wings,Detroit Red Wings,Boston Bruins,5,3,1.0
+401350254,2022-04-06T00:00Z,Minnesota Wild at Nashville Predators,Nashville Predators,Minnesota Wild,6,2,1.0
+401350255,2022-04-06T00:30Z,New York Islanders at Dallas Stars,Dallas Stars,New York Islanders,3,2,1.0
+401350256,2022-04-06T02:30Z,Edmonton Oilers at San Jose Sharks,San Jose Sharks,Edmonton Oilers,1,2,0.0
+401350257,2022-04-06T23:30Z,Tampa Bay Lightning at Washington Capitals,Washington Capitals,Tampa Bay Lightning,4,3,1.0
+401350259,2022-04-06T23:30Z,Detroit Red Wings at Winnipeg Jets,Winnipeg Jets,Detroit Red Wings,1,3,0.0
+401350258,2022-04-07T00:00Z,Seattle Kraken at St. Louis Blues,St. Louis Blues,Seattle Kraken,4,1,1.0
+401350260,2022-04-07T02:00Z,Vancouver Canucks at Vegas Golden Knights,Vegas Golden Knights,Vancouver Canucks,1,5,0.0
+401350261,2022-04-07T02:00Z,Calgary Flames at Anaheim Ducks,Anaheim Ducks,Calgary Flames,2,4,0.0
+401350263,2022-04-07T23:00Z,Pittsburgh Penguins at New York Rangers,New York Rangers,Pittsburgh Penguins,3,0,1.0
+401350265,2022-04-07T23:00Z,Philadelphia Flyers at Columbus Blue Jackets,Columbus Blue Jackets,Philadelphia Flyers,1,4,0.0
+401406996,2022-04-07T23:00Z,Nashville Predators at Ottawa Senators,Ottawa Senators,Nashville Predators,2,3,0.0
+401406997,2022-04-07T23:00Z,Montreal Canadiens at New Jersey Devils,New Jersey Devils,Montreal Canadiens,4,7,0.0
+401350264,2022-04-07T23:30Z,Buffalo Sabres at Carolina Hurricanes,Carolina Hurricanes,Buffalo Sabres,5,3,1.0
+401350266,2022-04-08T00:30Z,Seattle Kraken at Chicago Blackhawks,Chicago Blackhawks,Seattle Kraken,0,2,0.0
+401350267,2022-04-08T00:30Z,Toronto Maple Leafs at Dallas Stars,Dallas Stars,Toronto Maple Leafs,3,4,0.0
+401350268,2022-04-08T02:00Z,Vancouver Canucks at Arizona Coyotes,Arizona Coyotes,Vancouver Canucks,1,5,0.0
+401350269,2022-04-08T02:30Z,Edmonton Oilers at Los Angeles Kings,Los Angeles Kings,Edmonton Oilers,2,3,0.0
+401350270,2022-04-08T02:30Z,Calgary Flames at San Jose Sharks,San Jose Sharks,Calgary Flames,2,4,0.0
+401350271,2022-04-08T23:00Z,Boston Bruins at Tampa Bay Lightning,Tampa Bay Lightning,Boston Bruins,1,2,0.0
+401350272,2022-04-08T23:00Z,Buffalo Sabres at Florida Panthers,Florida Panthers,Buffalo Sabres,4,3,1.0
+401350273,2022-04-08T23:00Z,New York Islanders at Carolina Hurricanes,Carolina Hurricanes,New York Islanders,1,2,0.0
+401350274,2022-04-09T00:00Z,Minnesota Wild at St. Louis Blues,St. Louis Blues,Minnesota Wild,4,3,1.0
+401350275,2022-04-09T00:00Z,Colorado Avalanche at Winnipeg Jets,Winnipeg Jets,Colorado Avalanche,4,5,0.0
+401350283,2022-04-09T18:00Z,New Jersey Devils at Dallas Stars,Dallas Stars,New Jersey Devils,1,3,0.0
+401350280,2022-04-09T19:00Z,Washington Capitals at Pittsburgh Penguins,Pittsburgh Penguins,Washington Capitals,3,6,0.0
+401350282,2022-04-09T22:00Z,Florida Panthers at Nashville Predators,Nashville Predators,Florida Panthers,1,4,0.0
+401350276,2022-04-09T23:00Z,Montreal Canadiens at Toronto Maple Leafs,Toronto Maple Leafs,Montreal Canadiens,3,2,1.0
+401350277,2022-04-09T23:00Z,Columbus Blue Jackets at Detroit Red Wings,Detroit Red Wings,Columbus Blue Jackets,4,5,0.0
+401350278,2022-04-09T23:00Z,Ottawa Senators at New York Rangers,New York Rangers,Ottawa Senators,5,1,1.0
+401350288,2022-04-09T23:00Z,Calgary Flames at Seattle Kraken,Seattle Kraken,Calgary Flames,1,4,0.0
+401350279,2022-04-09T23:30Z,Anaheim Ducks at Philadelphia Flyers,Philadelphia Flyers,Anaheim Ducks,3,5,0.0
+401350281,2022-04-10T00:00Z,New York Islanders at St. Louis Blues,St. Louis Blues,New York Islanders,6,1,1.0
+401350285,2022-04-10T02:00Z,Colorado Avalanche at Edmonton Oilers,Edmonton Oilers,Colorado Avalanche,1,2,0.0
+401350286,2022-04-10T02:00Z,San Jose Sharks at Vancouver Canucks,Vancouver Canucks,San Jose Sharks,4,2,1.0
+401350287,2022-04-10T02:00Z,Arizona Coyotes at Vegas Golden Knights,Vegas Golden Knights,Arizona Coyotes,6,1,1.0
+401350292,2022-04-10T17:30Z,Boston Bruins at Washington Capitals,Washington Capitals,Boston Bruins,4,2,1.0
+401350291,2022-04-10T20:00Z,Nashville Predators at Pittsburgh Penguins,Pittsburgh Penguins,Nashville Predators,3,2,1.0
+401350290,2022-04-10T21:00Z,Buffalo Sabres at Tampa Bay Lightning,Tampa Bay Lightning,Buffalo Sabres,5,0,1.0
+401358473,2022-04-10T21:00Z,Los Angeles Kings at Minnesota Wild,Minnesota Wild,Los Angeles Kings,6,3,1.0
+401350293,2022-04-10T22:00Z,Anaheim Ducks at Carolina Hurricanes,Carolina Hurricanes,Anaheim Ducks,5,2,1.0
+401350294,2022-04-10T23:00Z,Dallas Stars at Chicago Blackhawks,Chicago Blackhawks,Dallas Stars,4,6,0.0
+401350289,2022-04-10T23:30Z,Winnipeg Jets at Ottawa Senators,Ottawa Senators,Winnipeg Jets,3,4,0.0
+401350296,2022-04-11T23:00Z,Winnipeg Jets at Montreal Canadiens,Montreal Canadiens,Winnipeg Jets,2,4,0.0
+401350298,2022-04-12T23:00Z,St. Louis Blues at Boston Bruins,Boston Bruins,St. Louis Blues,2,4,0.0
+401350299,2022-04-12T23:00Z,Buffalo Sabres at Toronto Maple Leafs,Toronto Maple Leafs,Buffalo Sabres,2,5,0.0
+401350301,2022-04-12T23:00Z,Anaheim Ducks at Florida Panthers,Florida Panthers,Anaheim Ducks,3,2,1.0
+401350302,2022-04-12T23:00Z,Carolina Hurricanes at New York Rangers,New York Rangers,Carolina Hurricanes,2,4,0.0
+401350304,2022-04-12T23:00Z,Philadelphia Flyers at Washington Capitals,Washington Capitals,Philadelphia Flyers,9,2,1.0
+401350300,2022-04-12T23:30Z,Ottawa Senators at Detroit Red Wings,Detroit Red Wings,Ottawa Senators,1,4,0.0
+401418730,2022-04-12T23:30Z,Pittsburgh Penguins at New York Islanders,New York Islanders,Pittsburgh Penguins,5,4,1.0
+401350297,2022-04-13T00:00Z,Edmonton Oilers at Minnesota Wild,Minnesota Wild,Edmonton Oilers,5,1,1.0
+401350322,2022-04-13T00:00Z,San Jose Sharks at Nashville Predators,Nashville Predators,San Jose Sharks,1,0,1.0
+401350321,2022-04-13T00:30Z,Los Angeles Kings at Chicago Blackhawks,Chicago Blackhawks,Los Angeles Kings,2,5,0.0
+401350308,2022-04-13T01:00Z,Seattle Kraken at Calgary Flames,Calgary Flames,Seattle Kraken,5,3,1.0
+401350307,2022-04-13T01:30Z,Tampa Bay Lightning at Dallas Stars,Dallas Stars,Tampa Bay Lightning,1,0,1.0
+401350309,2022-04-13T02:00Z,Vegas Golden Knights at Vancouver Canucks,Vancouver Canucks,Vegas Golden Knights,5,4,1.0
+401350310,2022-04-13T02:00Z,New Jersey Devils at Arizona Coyotes,Arizona Coyotes,New Jersey Devils,2,6,0.0
+401350311,2022-04-13T23:00Z,New York Rangers at Philadelphia Flyers,Philadelphia Flyers,New York Rangers,0,4,0.0
+401350312,2022-04-13T23:00Z,Montreal Canadiens at Columbus Blue Jackets,Columbus Blue Jackets,Montreal Canadiens,5,1,1.0
+401350313,2022-04-14T00:30Z,Seattle Kraken at Winnipeg Jets,Winnipeg Jets,Seattle Kraken,0,0,0.5
+401350314,2022-04-14T01:30Z,Los Angeles Kings at Colorado Avalanche,Colorado Avalanche,Los Angeles Kings,9,3,1.0
+401350315,2022-04-14T23:00Z,Ottawa Senators at Boston Bruins,Boston Bruins,Ottawa Senators,2,3,0.0
+401350316,2022-04-14T23:00Z,St. Louis Blues at Buffalo Sabres,Buffalo Sabres,St. Louis Blues,2,6,0.0
+401350317,2022-04-14T23:00Z,Washington Capitals at Toronto Maple Leafs,Toronto Maple Leafs,Washington Capitals,7,3,1.0
+401350318,2022-04-14T23:00Z,Anaheim Ducks at Tampa Bay Lightning,Tampa Bay Lightning,Anaheim Ducks,4,3,1.0
+401350319,2022-04-14T23:00Z,New York Islanders at Pittsburgh Penguins,Pittsburgh Penguins,New York Islanders,6,3,1.0
+401350320,2022-04-14T23:00Z,Detroit Red Wings at Carolina Hurricanes,Carolina Hurricanes,Detroit Red Wings,0,3,0.0
+401350306,2022-04-15T00:00Z,Edmonton Oilers at Nashville Predators,Nashville Predators,Edmonton Oilers,0,4,0.0
+401350323,2022-04-15T00:00Z,Minnesota Wild at Dallas Stars,Dallas Stars,Minnesota Wild,2,3,0.0
+401350305,2022-04-15T00:30Z,San Jose Sharks at Chicago Blackhawks,Chicago Blackhawks,San Jose Sharks,5,4,1.0
+401350324,2022-04-15T01:00Z,New Jersey Devils at Colorado Avalanche,Colorado Avalanche,New Jersey Devils,3,1,1.0
+401350325,2022-04-15T01:00Z,Vegas Golden Knights at Calgary Flames,Calgary Flames,Vegas Golden Knights,1,6,0.0
+401350326,2022-04-15T02:00Z,Arizona Coyotes at Vancouver Canucks,Vancouver Canucks,Arizona Coyotes,7,1,1.0
+401350327,2022-04-15T23:00Z,New York Islanders at Montreal Canadiens,Montreal Canadiens,New York Islanders,0,3,0.0
+401350328,2022-04-15T23:00Z,Winnipeg Jets at Florida Panthers,Florida Panthers,Winnipeg Jets,6,1,1.0
+401350330,2022-04-16T16:30Z,Pittsburgh Penguins at Boston Bruins,Boston Bruins,Pittsburgh Penguins,2,1,1.0
+401350335,2022-04-16T16:30Z,Detroit Red Wings at New York Rangers,New York Rangers,Detroit Red Wings,4,0,1.0
+401350337,2022-04-16T16:30Z,Chicago Blackhawks at Nashville Predators,Nashville Predators,Chicago Blackhawks,4,3,1.0
+401350336,2022-04-16T19:00Z,Minnesota Wild at St. Louis Blues,St. Louis Blues,Minnesota Wild,6,5,1.0
+401350329,2022-04-16T20:00Z,Vegas Golden Knights at Edmonton Oilers,Edmonton Oilers,Vegas Golden Knights,4,0,1.0
+401350331,2022-04-16T23:00Z,Philadelphia Flyers at Buffalo Sabres,Buffalo Sabres,Philadelphia Flyers,4,3,1.0
+401350332,2022-04-16T23:00Z,Washington Capitals at Montreal Canadiens,Montreal Canadiens,Washington Capitals,4,8,0.0
+401350333,2022-04-16T23:00Z,Toronto Maple Leafs at Ottawa Senators,Ottawa Senators,Toronto Maple Leafs,4,5,0.0
+401350334,2022-04-16T23:00Z,Winnipeg Jets at Tampa Bay Lightning,Tampa Bay Lightning,Winnipeg Jets,7,4,1.0
+401350338,2022-04-17T00:00Z,San Jose Sharks at Dallas Stars,Dallas Stars,San Jose Sharks,2,1,1.0
+401350339,2022-04-17T01:00Z,Carolina Hurricanes at Colorado Avalanche,Colorado Avalanche,Carolina Hurricanes,7,4,1.0
+401350340,2022-04-17T02:00Z,Arizona Coyotes at Calgary Flames,Calgary Flames,Arizona Coyotes,9,1,1.0
+401350343,2022-04-17T02:00Z,New Jersey Devils at Seattle Kraken,Seattle Kraken,New Jersey Devils,4,3,1.0
+401350342,2022-04-17T02:30Z,Columbus Blue Jackets at Los Angeles Kings,Los Angeles Kings,Columbus Blue Jackets,2,1,1.0
+401350344,2022-04-17T17:00Z,Florida Panthers at Detroit Red Wings,Detroit Red Wings,Florida Panthers,1,6,0.0
+401350346,2022-04-17T21:00Z,Buffalo Sabres at Philadelphia Flyers,Philadelphia Flyers,Buffalo Sabres,3,5,0.0
+401350347,2022-04-17T22:00Z,St. Louis Blues at Nashville Predators,Nashville Predators,St. Louis Blues,3,8,0.0
+401350348,2022-04-17T22:00Z,San Jose Sharks at Minnesota Wild,Minnesota Wild,San Jose Sharks,5,4,1.0
+401350345,2022-04-17T23:30Z,New York Islanders at Toronto Maple Leafs,Toronto Maple Leafs,New York Islanders,4,2,1.0
+401350349,2022-04-18T00:30Z,Columbus Blue Jackets at Anaheim Ducks,Anaheim Ducks,Columbus Blue Jackets,6,4,1.0
+401406998,2022-04-19T00:00Z,Calgary Flames at Chicago Blackhawks,Chicago Blackhawks,Calgary Flames,2,5,0.0
+401350350,2022-04-19T01:00Z,Washington Capitals at Colorado Avalanche,Colorado Avalanche,Washington Capitals,2,3,0.0
+401350352,2022-04-19T02:00Z,Carolina Hurricanes at Arizona Coyotes,Arizona Coyotes,Carolina Hurricanes,3,5,0.0
+401350353,2022-04-19T02:00Z,New Jersey Devils at Vegas Golden Knights,Vegas Golden Knights,New Jersey Devils,2,3,0.0
+401406999,2022-04-19T02:00Z,Ottawa Senators at Seattle Kraken,Seattle Kraken,Ottawa Senators,4,2,1.0
+401350351,2022-04-19T02:30Z,Dallas Stars at Vancouver Canucks,Vancouver Canucks,Dallas Stars,6,2,1.0
+401350354,2022-04-19T23:00Z,Philadelphia Flyers at Toronto Maple Leafs,Toronto Maple Leafs,Philadelphia Flyers,5,2,1.0
+401350355,2022-04-19T23:00Z,Minnesota Wild at Montreal Canadiens,Montreal Canadiens,Minnesota Wild,0,2,0.0
+401350356,2022-04-19T23:00Z,Detroit Red Wings at Tampa Bay Lightning,Tampa Bay Lightning,Detroit Red Wings,3,4,0.0
+401350358,2022-04-19T23:00Z,Winnipeg Jets at New York Rangers,New York Rangers,Winnipeg Jets,3,0,1.0
+401350357,2022-04-19T23:30Z,Florida Panthers at New York Islanders,New York Islanders,Florida Panthers,2,3,0.0
+401350359,2022-04-20T00:00Z,Boston Bruins at St. Louis Blues,St. Louis Blues,Boston Bruins,2,3,0.0
+401407000,2022-04-20T00:00Z,Calgary Flames at Nashville Predators,Nashville Predators,Calgary Flames,3,2,1.0
+401350360,2022-04-20T02:00Z,Los Angeles Kings at Anaheim Ducks,Anaheim Ducks,Los Angeles Kings,1,2,0.0
+401407001,2022-04-20T02:00Z,Ottawa Senators at Vancouver Canucks,Vancouver Canucks,Ottawa Senators,3,4,0.0
+401350361,2022-04-20T02:30Z,Columbus Blue Jackets at San Jose Sharks,San Jose Sharks,Columbus Blue Jackets,3,2,1.0
+401350363,2022-04-21T00:30Z,Dallas Stars at Edmonton Oilers,Edmonton Oilers,Dallas Stars,5,2,1.0
+401350364,2022-04-21T02:00Z,Chicago Blackhawks at Arizona Coyotes,Arizona Coyotes,Chicago Blackhawks,3,4,0.0
+401350365,2022-04-21T02:00Z,Washington Capitals at Vegas Golden Knights,Vegas Golden Knights,Washington Capitals,4,3,1.0
+401350366,2022-04-21T02:00Z,Colorado Avalanche at Seattle Kraken,Seattle Kraken,Colorado Avalanche,3,2,1.0
+401350367,2022-04-21T23:00Z,Philadelphia Flyers at Montreal Canadiens,Montreal Canadiens,Philadelphia Flyers,3,6,0.0
+401350369,2022-04-21T23:00Z,Detroit Red Wings at Florida Panthers,Florida Panthers,Detroit Red Wings,5,2,1.0
+401350370,2022-04-21T23:00Z,Buffalo Sabres at New Jersey Devils,New Jersey Devils,Buffalo Sabres,2,5,0.0
+401350372,2022-04-21T23:00Z,Boston Bruins at Pittsburgh Penguins,Pittsburgh Penguins,Boston Bruins,4,0,1.0
+401350373,2022-04-21T23:00Z,Winnipeg Jets at Carolina Hurricanes,Carolina Hurricanes,Winnipeg Jets,4,2,1.0
+401350371,2022-04-21T23:30Z,New York Rangers at New York Islanders,New York Islanders,New York Rangers,3,6,0.0
+401350368,2022-04-22T00:00Z,Toronto Maple Leafs at Tampa Bay Lightning,Tampa Bay Lightning,Toronto Maple Leafs,8,1,1.0
+401350374,2022-04-22T00:00Z,Vancouver Canucks at Minnesota Wild,Minnesota Wild,Vancouver Canucks,6,3,1.0
+401350375,2022-04-22T01:00Z,Dallas Stars at Calgary Flames,Calgary Flames,Dallas Stars,4,2,1.0
+401350376,2022-04-22T02:30Z,Chicago Blackhawks at Los Angeles Kings,Los Angeles Kings,Chicago Blackhawks,4,1,1.0
+401350377,2022-04-22T02:30Z,St. Louis Blues at San Jose Sharks,San Jose Sharks,St. Louis Blues,1,3,0.0
+401350378,2022-04-22T23:00Z,Ottawa Senators at Columbus Blue Jackets,Columbus Blue Jackets,Ottawa Senators,1,2,0.0
+401350379,2022-04-23T00:00Z,Seattle Kraken at Minnesota Wild,Minnesota Wild,Seattle Kraken,6,3,1.0
+401350380,2022-04-23T01:00Z,Colorado Avalanche at Edmonton Oilers,Edmonton Oilers,Colorado Avalanche,6,3,1.0
+401350381,2022-04-23T02:30Z,Washington Capitals at Arizona Coyotes,Arizona Coyotes,Washington Capitals,0,2,0.0
+401350383,2022-04-23T16:30Z,New York Islanders at Buffalo Sabres,Buffalo Sabres,New York Islanders,5,3,1.0
+401350385,2022-04-23T16:30Z,Pittsburgh Penguins at Detroit Red Wings,Detroit Red Wings,Pittsburgh Penguins,2,7,0.0
+401350388,2022-04-23T16:30Z,Carolina Hurricanes at New Jersey Devils,New Jersey Devils,Carolina Hurricanes,2,3,0.0
+401350382,2022-04-23T19:00Z,New York Rangers at Boston Bruins,Boston Bruins,New York Rangers,3,1,1.0
+401350384,2022-04-23T23:00Z,Montreal Canadiens at Ottawa Senators,Ottawa Senators,Montreal Canadiens,6,4,1.0
+401350386,2022-04-23T23:00Z,Nashville Predators at Tampa Bay Lightning,Tampa Bay Lightning,Nashville Predators,6,2,1.0
+401350387,2022-04-23T23:00Z,Toronto Maple Leafs at Florida Panthers,Florida Panthers,Toronto Maple Leafs,3,2,1.0
+401350389,2022-04-24T00:00Z,Seattle Kraken at Dallas Stars,Dallas Stars,Seattle Kraken,3,2,1.0
+401350393,2022-04-24T00:00Z,Chicago Blackhawks at San Jose Sharks,San Jose Sharks,Chicago Blackhawks,4,1,1.0
+401350390,2022-04-24T02:00Z,Vancouver Canucks at Calgary Flames,Calgary Flames,Vancouver Canucks,6,3,1.0
+401350391,2022-04-24T02:00Z,St. Louis Blues at Arizona Coyotes,Arizona Coyotes,St. Louis Blues,4,5,0.0
+401350392,2022-04-24T02:30Z,Anaheim Ducks at Los Angeles Kings,Los Angeles Kings,Anaheim Ducks,4,2,1.0
+401350395,2022-04-24T17:00Z,Detroit Red Wings at New Jersey Devils,New Jersey Devils,Detroit Red Wings,0,3,0.0
+401350396,2022-04-24T17:00Z,Carolina Hurricanes at New York Islanders,New York Islanders,Carolina Hurricanes,2,5,0.0
+401350400,2022-04-24T17:00Z,Edmonton Oilers at Columbus Blue Jackets,Columbus Blue Jackets,Edmonton Oilers,5,2,1.0
+401350398,2022-04-24T20:00Z,Pittsburgh Penguins at Philadelphia Flyers,Philadelphia Flyers,Pittsburgh Penguins,4,1,1.0
+401350394,2022-04-24T23:00Z,Tampa Bay Lightning at Florida Panthers,Florida Panthers,Tampa Bay Lightning,4,8,0.0
+401350399,2022-04-24T23:00Z,Toronto Maple Leafs at Washington Capitals,Washington Capitals,Toronto Maple Leafs,3,4,0.0
+401350402,2022-04-24T23:00Z,Colorado Avalanche at Winnipeg Jets,Winnipeg Jets,Colorado Avalanche,4,1,1.0
+401407002,2022-04-24T23:00Z,Boston Bruins at Montreal Canadiens,Montreal Canadiens,Boston Bruins,3,5,0.0
+401350401,2022-04-25T00:00Z,Minnesota Wild at Nashville Predators,Nashville Predators,Minnesota Wild,4,5,0.0
+401350404,2022-04-25T00:30Z,St. Louis Blues at Anaheim Ducks,Anaheim Ducks,St. Louis Blues,3,6,0.0
+401350403,2022-04-25T02:00Z,San Jose Sharks at Vegas Golden Knights,Vegas Golden Knights,San Jose Sharks,4,5,0.0
+401350405,2022-04-26T00:00Z,Philadelphia Flyers at Chicago Blackhawks,Chicago Blackhawks,Philadelphia Flyers,3,1,1.0
+401350406,2022-04-26T23:00Z,Florida Panthers at Boston Bruins,Boston Bruins,Florida Panthers,4,2,1.0
+401350408,2022-04-26T23:00Z,New Jersey Devils at Ottawa Senators,Ottawa Senators,New Jersey Devils,5,4,1.0
+401350410,2022-04-26T23:00Z,Columbus Blue Jackets at Tampa Bay Lightning,Tampa Bay Lightning,Columbus Blue Jackets,4,1,1.0
+401350411,2022-04-26T23:00Z,Carolina Hurricanes at New York Rangers,New York Rangers,Carolina Hurricanes,3,4,0.0
+401350412,2022-04-26T23:00Z,Edmonton Oilers at Pittsburgh Penguins,Pittsburgh Penguins,Edmonton Oilers,1,5,0.0
+401350413,2022-04-26T23:00Z,New York Islanders at Washington Capitals,Washington Capitals,New York Islanders,1,4,0.0
+401418732,2022-04-26T23:00Z,Detroit Red Wings at Toronto Maple Leafs,Toronto Maple Leafs,Detroit Red Wings,3,0,1.0
+401350414,2022-04-27T00:00Z,Calgary Flames at Nashville Predators,Nashville Predators,Calgary Flames,4,5,0.0
+401350416,2022-04-27T00:00Z,Arizona Coyotes at Minnesota Wild,Minnesota Wild,Arizona Coyotes,3,5,0.0
+401350415,2022-04-27T00:30Z,Vegas Golden Knights at Dallas Stars,Dallas Stars,Vegas Golden Knights,3,2,1.0
+401350417,2022-04-27T01:30Z,St. Louis Blues at Colorado Avalanche,Colorado Avalanche,St. Louis Blues,5,3,1.0
+401350418,2022-04-27T02:00Z,Seattle Kraken at Vancouver Canucks,Vancouver Canucks,Seattle Kraken,5,2,1.0
+401350419,2022-04-27T02:30Z,Anaheim Ducks at San Jose Sharks,San Jose Sharks,Anaheim Ducks,2,5,0.0
+401350422,2022-04-27T23:30Z,Philadelphia Flyers at Winnipeg Jets,Winnipeg Jets,Philadelphia Flyers,4,0,1.0
+401407003,2022-04-27T23:30Z,Montreal Canadiens at New York Rangers,New York Rangers,Montreal Canadiens,3,4,0.0
+401350420,2022-04-28T00:30Z,Vegas Golden Knights at Chicago Blackhawks,Chicago Blackhawks,Vegas Golden Knights,4,3,1.0
+401350421,2022-04-28T00:30Z,Arizona Coyotes at Dallas Stars,Dallas Stars,Arizona Coyotes,3,4,0.0
+401350423,2022-04-28T02:00Z,Los Angeles Kings at Seattle Kraken,Seattle Kraken,Los Angeles Kings,3,5,0.0
+401350424,2022-04-28T23:00Z,Buffalo Sabres at Boston Bruins,Boston Bruins,Buffalo Sabres,5,0,1.0
+401350425,2022-04-28T23:00Z,Florida Panthers at Ottawa Senators,Ottawa Senators,Florida Panthers,0,4,0.0
+401350428,2022-04-28T23:00Z,New Jersey Devils at Carolina Hurricanes,Carolina Hurricanes,New Jersey Devils,6,3,1.0
+401407004,2022-04-28T23:00Z,Washington Capitals at New York Islanders,New York Islanders,Washington Capitals,5,1,1.0
+401407040,2022-04-28T23:00Z,Tampa Bay Lightning at Columbus Blue Jackets,Columbus Blue Jackets,Tampa Bay Lightning,5,2,1.0
+401350429,2022-04-29T00:00Z,Calgary Flames at Minnesota Wild,Minnesota Wild,Calgary Flames,3,2,1.0
+401350430,2022-04-29T01:00Z,Nashville Predators at Colorado Avalanche,Colorado Avalanche,Nashville Predators,4,5,0.0
+401350431,2022-04-29T01:00Z,San Jose Sharks at Edmonton Oilers,Edmonton Oilers,San Jose Sharks,5,4,1.0
+401350444,2022-04-29T02:00Z,Los Angeles Kings at Vancouver Canucks,Vancouver Canucks,Los Angeles Kings,3,2,1.0
+401350432,2022-04-29T23:00Z,Chicago Blackhawks at Buffalo Sabres,Buffalo Sabres,Chicago Blackhawks,3,2,1.0
+401350433,2022-04-29T23:00Z,Boston Bruins at Toronto Maple Leafs,Toronto Maple Leafs,Boston Bruins,5,2,1.0
+401350434,2022-04-29T23:00Z,Florida Panthers at Montreal Canadiens,Montreal Canadiens,Florida Panthers,10,2,1.0
+401350435,2022-04-29T23:00Z,Detroit Red Wings at New Jersey Devils,New Jersey Devils,Detroit Red Wings,3,5,0.0
+401350436,2022-04-29T23:00Z,Washington Capitals at New York Rangers,New York Rangers,Washington Capitals,3,2,1.0
+401350437,2022-04-29T23:00Z,Ottawa Senators at Philadelphia Flyers,Philadelphia Flyers,Ottawa Senators,2,4,0.0
+401418731,2022-04-29T23:00Z,Columbus Blue Jackets at Pittsburgh Penguins,Pittsburgh Penguins,Columbus Blue Jackets,5,3,1.0
+401407011,2022-04-29T23:30Z,Tampa Bay Lightning at New York Islanders,New York Islanders,Tampa Bay Lightning,4,6,0.0
+401350440,2022-04-30T00:00Z,Vegas Golden Knights at St. Louis Blues,St. Louis Blues,Vegas Golden Knights,4,7,0.0
+401350442,2022-04-30T00:00Z,Colorado Avalanche at Minnesota Wild,Minnesota Wild,Colorado Avalanche,4,1,1.0
+401350443,2022-04-30T00:00Z,Calgary Flames at Winnipeg Jets,Winnipeg Jets,Calgary Flames,3,1,1.0
+401350441,2022-04-30T00:30Z,Anaheim Ducks at Dallas Stars,Dallas Stars,Anaheim Ducks,4,2,1.0
+401350341,2022-04-30T01:00Z,Vancouver Canucks at Edmonton Oilers,Edmonton Oilers,Vancouver Canucks,3,2,1.0
+401350446,2022-04-30T02:00Z,San Jose Sharks at Seattle Kraken,Seattle Kraken,San Jose Sharks,3,0,1.0
+401350445,2022-04-30T02:30Z,Nashville Predators at Arizona Coyotes,Arizona Coyotes,Nashville Predators,5,4,1.0

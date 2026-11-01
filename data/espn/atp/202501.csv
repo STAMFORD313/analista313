@@ -1,0 +1,845 @@
+id,date,event,home,away,hs,as,res
+152609,2024-12-27T01:10Z,Brisbane International presented by ANZ,Ysaline Bonaventure,Maddison Inglis,,,0.0
+152613,2024-12-27T01:10Z,Brisbane International presented by ANZ,Mirjam Bjorklund,Anca Todoni,,,0.0
+152616,2024-12-27T01:10Z,Brisbane International presented by ANZ,Daria Saville,Anastasiia Sobolieva,,,0.0
+152611,2024-12-27T02:30Z,Brisbane International presented by ANZ,Anna Karolina Schmiedlova,Melisa Ercan,,,1.0
+152618,2024-12-27T02:35Z,Brisbane International presented by ANZ,Zeynep Sonmez,Ekaterina Makarova,,,1.0
+152615,2024-12-27T03:45Z,Brisbane International presented by ANZ,Guo Hanyu,Eva Lys,,,1.0
+152614,2024-12-27T03:55Z,Brisbane International presented by ANZ,Sara Sorribes Tormo,Tahlia Kokkinis,,,1.0
+152617,2024-12-27T04:30Z,Brisbane International presented by ANZ,Tina Nadine Smith,Sara Bejlek,,,0.0
+152608,2024-12-27T05:35Z,Brisbane International presented by ANZ,Astra Sharma,Polina Kudermetova,,,0.0
+152610,2024-12-27T06:20Z,Brisbane International presented by ANZ,Emiliana Arango,Heather Watson,,,1.0
+152612,2024-12-27T06:30Z,Brisbane International presented by ANZ,Ana Bogdan,Arina Rodionova,,,1.0
+152619,2024-12-27T07:00Z,Brisbane International presented by ANZ,Harriet Dart,Priscilla Hon,,,0.0
+152622,2024-12-28T01:10Z,Brisbane International presented by ANZ,Anastasiia Sobolieva,Maddison Inglis,,,0.0
+152625,2024-12-28T01:10Z,Brisbane International presented by ANZ,Anna Karolina Schmiedlova,Anca Todoni,,,0.0
+152621,2024-12-28T02:25Z,Brisbane International presented by ANZ,Zeynep Sonmez,Polina Kudermetova,,,0.0
+152624,2024-12-28T02:45Z,Brisbane International presented by ANZ,Sara Sorribes Tormo,Sara Bejlek,,,0.0
+152620,2024-12-28T04:00Z,Brisbane International presented by ANZ,Priscilla Hon,Guo Hanyu,,,1.0
+152623,2024-12-28T05:30Z,Brisbane International presented by ANZ,Ana Bogdan,Emiliana Arango,,,1.0
+152282,2024-12-29T01:10Z,Brisbane International presented by ANZ,Ashlyn Krueger,Moyuka Uchijima,,,1.0
+152283,2024-12-29T01:10Z,Brisbane International presented by ANZ,Kamilla Rakhimova,Suzan Lamens,,,0.0
+152294,2024-12-29T02:35Z,Brisbane International presented by ANZ,Maddison Inglis,Maya Joint,,,0.0
+152302,2024-12-29T03:00Z,Brisbane International presented by ANZ,Viktoriya Tomova,Renata Zarazua,,,0.0
+152309,2024-12-29T03:10Z,Brisbane International presented by ANZ,Elina Avanesyan,Rebecca Sramkova,,,1.0
+152287,2024-12-29T05:15Z,Brisbane International presented by ANZ,Anna Blinkova,Sara Bejlek,,,1.0
+152296,2024-12-29T08:35Z,Brisbane International presented by ANZ,Marie Bouzkova,Talia Gibson,,,1.0
+152304,2024-12-29T08:55Z,Brisbane International presented by ANZ,Magda Linette,McCartney Kessler,,,0.0
+152289,2024-12-30T01:05Z,Brisbane International presented by ANZ,Priscilla Hon,Kimberly Birrell,,,0.0
+152301,2024-12-30T03:50Z,Brisbane International presented by ANZ,Veronika Kudermetova,Peyton Stearns,,,0.0
+152307,2024-12-30T04:20Z,Brisbane International presented by ANZ,Anhelina Kalinina,Wang Yafan,,,1.0
+152279,2024-12-30T05:35Z,Brisbane International presented by ANZ,Wang Xinyu,Polina Kudermetova,,,0.0
+152286,2024-12-30T05:45Z,Brisbane International presented by ANZ,Anca Todoni,Cristina Bucsa,,,1.0
+152293,2024-12-30T08:05Z,Brisbane International presented by ANZ,Yuan Yue,Arantxa Rus,,,1.0
+152299,2024-12-30T08:50Z,Brisbane International presented by ANZ,Anastasia Potapova,Ana Bogdan,,,1.0
+152291,2024-12-30T10:55Z,Brisbane International presented by ANZ,Ons Jabeur,Zheng Saisai,,,1.0
+152317,2024-12-31T01:05Z,Brisbane International presented by ANZ,McCartney Kessler,Yulia Putintseva,,,0.0
+152320,2024-12-31T01:05Z,Brisbane International presented by ANZ,Paula Badosa,Elina Avanesyan,,,0.0
+152310,2024-12-31T03:05Z,Brisbane International presented by ANZ,Anna Kalinskaya,Ashlyn Krueger,,,0.0
+152321,2024-12-31T03:30Z,Brisbane International presented by ANZ,Aryna Sabalenka,Renata Zarazua,,,1.0
+152316,2024-12-31T04:25Z,Brisbane International presented by ANZ,Anna Blinkova,Mirra Andreeva,,,0.0
+152319,2024-12-31T06:10Z,Brisbane International presented by ANZ,Marie Bouzkova,Jelena Ostapenko,,,1.0
+152314,2024-12-31T08:40Z,Brisbane International presented by ANZ,Ons Jabeur,Ekaterina Alexandrova,,,1.0
+152322,2024-12-31T08:40Z,Brisbane International presented by ANZ,Diana Shnaider,Anhelina Kalinina,,,0.0
+152312,2025-01-01T01:05Z,Brisbane International presented by ANZ,Liudmila Samsonova,Polina Kudermetova,,,0.0
+152325,2025-01-01T01:05Z,Brisbane International presented by ANZ,Kimberly Birrell,Emma Navarro,,,1.0
+152313,2025-01-01T03:40Z,Brisbane International presented by ANZ,Peyton Stearns,Daria Kasatkina,,,0.0
+152324,2025-01-01T03:40Z,Brisbane International presented by ANZ,Dayana Yastremska,Anastasia Potapova,,,0.0
+152311,2025-01-01T05:35Z,Brisbane International presented by ANZ,Suzan Lamens,Magdalena Frech,,,1.0
+152323,2025-01-01T07:25Z,Brisbane International presented by ANZ,Yuan Yue,Marta Kostyuk,,,1.0
+152318,2025-01-01T08:40Z,Brisbane International presented by ANZ,Victoria Azarenka,Maya Joint,,,1.0
+152315,2025-01-01T09:10Z,Brisbane International presented by ANZ,Linda Noskova,Anca Todoni,,,1.0
+152330,2025-01-02T01:10Z,Brisbane International presented by ANZ,Anastasia Potapova,Kimberly Birrell,,,0.0
+152335,2025-01-02T02:35Z,Brisbane International presented by ANZ,Ashlyn Krueger,Suzan Lamens,,,1.0
+152336,2025-01-02T03:15Z,Brisbane International presented by ANZ,Polina Kudermetova,Daria Kasatkina,,,1.0
+152337,2025-01-02T04:05Z,Brisbane International presented by ANZ,Anhelina Kalinina,Yuan Yue,,,1.0
+152334,2025-01-02T05:05Z,Brisbane International presented by ANZ,Linda Noskova,Mirra Andreeva,,,0.0
+152338,2025-01-02T06:00Z,Brisbane International presented by ANZ,Elina Avanesyan,Ons Jabeur,,,0.0
+152339,2025-01-02T06:45Z,Brisbane International presented by ANZ,Victoria Azarenka,Marie Bouzkova,,,0.0
+152326,2025-01-02T10:15Z,Brisbane International presented by ANZ,Aryna Sabalenka,Yulia Putintseva,,,1.0
+152329,2025-01-03T01:10Z,Brisbane International presented by ANZ,Anhelina Kalinina,Kimberly Birrell,,,1.0
+152332,2025-01-03T04:10Z,Brisbane International presented by ANZ,Ons Jabeur,Mirra Andreeva,,,0.0
+152333,2025-01-03T05:05Z,Brisbane International presented by ANZ,Ashlyn Krueger,Polina Kudermetova,,,0.0
+152331,2025-01-03T08:40Z,Brisbane International presented by ANZ,Aryna Sabalenka,Marie Bouzkova,,,1.0
+152328,2025-01-04T02:05Z,Brisbane International presented by ANZ,Polina Kudermetova,Anhelina Kalinina,,,1.0
+152327,2025-01-04T08:40Z,Brisbane International presented by ANZ,Aryna Sabalenka,Mirra Andreeva,,,1.0
+152340,2025-01-05T06:35Z,Brisbane International presented by ANZ,Aryna Sabalenka,Polina Kudermetova,,,1.0
+152644,2024-12-28T01:00Z,Brisbane International presented by ANZ,Derek Pham,Richard Gasquet,,,0.0
+152645,2024-12-28T01:00Z,Brisbane International presented by ANZ,Yannick Hanfmann,Jacob Bradshaw,,,1.0
+152646,2024-12-28T01:00Z,Brisbane International presented by ANZ,Borna Gojo,Nishesh Basavareddy,,,0.0
+152647,2024-12-28T02:30Z,Brisbane International presented by ANZ,Lucas Pouille,Jason Kubler,,,1.0
+152648,2024-12-28T02:30Z,Brisbane International presented by ANZ,Andrea Collarini,Mikhail Kukushkin,,,0.0
+152650,2024-12-28T02:30Z,Brisbane International presented by ANZ,James Duckworth,Tristan Schoolkate,,,0.0
+152649,2024-12-28T04:00Z,Brisbane International presented by ANZ,Yoshihito Nishioka,Alex Bolt,,,1.0
+152653,2024-12-28T04:00Z,Brisbane International presented by ANZ,Li Tu,Lukas Klein,,,1.0
+152654,2024-12-28T04:00Z,Brisbane International presented by ANZ,Dusan Lajovic,Casey Hoole,,,1.0
+152651,2024-12-28T05:30Z,Brisbane International presented by ANZ,Ugo Blanchet,Federico Agustin Gomez,,,0.0
+152652,2024-12-28T05:30Z,Brisbane International presented by ANZ,Benjamin Bonzi,James McCabe,,,1.0
+152655,2024-12-28T05:30Z,Brisbane International presented by ANZ,Adrian Andreev,Chun-Hsin Tseng,,,1.0
+152656,2024-12-29T01:00Z,Brisbane International presented by ANZ,Yannick Hanfmann,Richard Gasquet,,,1.0
+152659,2024-12-29T01:00Z,Brisbane International presented by ANZ,Tristan Schoolkate,Mikhail Kukushkin,,,0.0
+152661,2024-12-29T02:00Z,Brisbane International presented by ANZ,Lucas Pouille,Nishesh Basavareddy,,,0.0
+152658,2024-12-29T02:30Z,Brisbane International presented by ANZ,Yoshihito Nishioka,Li Tu,,,1.0
+152660,2024-12-29T02:30Z,Brisbane International presented by ANZ,Dusan Lajovic,Federico Agustin Gomez,,,0.0
+152657,2024-12-29T03:30Z,Brisbane International presented by ANZ,Benjamin Bonzi,Adrian Andreev,,,1.0
+152356,2024-12-29T11:55Z,Brisbane International presented by ANZ,David Goffin,Aleksandar Vukic,,,0.0
+152345,2024-12-30T01:10Z,Brisbane International presented by ANZ,Alejandro Tabilo,Benjamin Bonzi,,,0.0
+152355,2024-12-30T01:10Z,Brisbane International presented by ANZ,Alex Michelsen,Christopher O'Connell,,,1.0
+152347,2024-12-30T02:45Z,Brisbane International presented by ANZ,Arthur Rinderknech,Yoshihito Nishioka,,,0.0
+152354,2024-12-30T03:40Z,Brisbane International presented by ANZ,Jordan Thompson,Matteo Berrettini,,,1.0
+152346,2024-12-30T04:25Z,Brisbane International presented by ANZ,Mariano Navone,Nicolas Jarry,,,0.0
+152352,2024-12-30T05:10Z,Brisbane International presented by ANZ,Yannick Hanfmann,Grigor Dimitrov,,,0.0
+152353,2024-12-30T07:10Z,Brisbane International presented by ANZ,Jiri Lehecka,Holger Rune,,,1.0
+152343,2024-12-31T01:10Z,Brisbane International presented by ANZ,Federico Agustin Gomez,Reilly Opelka,,,0.0
+152348,2024-12-31T01:10Z,Brisbane International presented by ANZ,Matteo Arnaldi,Alexei Popyrin,,,1.0
+152349,2024-12-31T02:40Z,Brisbane International presented by ANZ,Frances Tiafoe,Adam Walton,,,1.0
+152351,2024-12-31T03:45Z,Brisbane International presented by ANZ,Jakub Mensik,Mikhail Kukushkin,,,1.0
+152344,2024-12-31T04:35Z,Brisbane International presented by ANZ,Arthur Cazaux,Dusan Lajovic,,,0.0
+152350,2024-12-31T05:00Z,Brisbane International presented by ANZ,Giovanni Mpetshi Perricard,Nick Kyrgios,,,1.0
+152342,2024-12-31T06:35Z,Brisbane International presented by ANZ,Nishesh Basavareddy,Gael Monfils,,,0.0
+152341,2024-12-31T07:50Z,Brisbane International presented by ANZ,Novak Djokovic,Rinky Hijikata,,,1.0
+152365,2025-01-01T01:10Z,Brisbane International presented by ANZ,Yoshihito Nishioka,Jiri Lehecka,,,0.0
+152364,2025-01-01T02:10Z,Brisbane International presented by ANZ,Benjamin Bonzi,Nicolas Jarry,,,0.0
+152369,2025-01-01T03:35Z,Brisbane International presented by ANZ,Aleksandar Vukic,Grigor Dimitrov,,,0.0
+152368,2025-01-01T11:35Z,Brisbane International presented by ANZ,Jordan Thompson,Alex Michelsen,,,1.0
+152363,2025-01-02T01:10Z,Brisbane International presented by ANZ,Jakub Mensik,Dusan Lajovic,,,1.0
+152366,2025-01-02T02:35Z,Brisbane International presented by ANZ,Reilly Opelka,Matteo Arnaldi,,,1.0
+152362,2025-01-02T05:20Z,Brisbane International presented by ANZ,Frances Tiafoe,Giovanni Mpetshi Perricard,,,0.0
+152361,2025-01-02T08:40Z,Brisbane International presented by ANZ,Novak Djokovic,Gael Monfils,,,1.0
+152367,2025-01-03T02:40Z,Brisbane International presented by ANZ,Nicolas Jarry,Jiri Lehecka,,,0.0
+152359,2025-01-03T06:00Z,Brisbane International presented by ANZ,Jordan Thompson,Grigor Dimitrov,,,0.0
+152371,2025-01-03T06:50Z,Brisbane International presented by ANZ,Giovanni Mpetshi Perricard,Jakub Mensik,,,1.0
+152370,2025-01-03T10:45Z,Brisbane International presented by ANZ,Novak Djokovic,Reilly Opelka,,,0.0
+152357,2025-01-04T05:05Z,Brisbane International presented by ANZ,Jiri Lehecka,Grigor Dimitrov,,,1.0
+152360,2025-01-04T10:40Z,Brisbane International presented by ANZ,Reilly Opelka,Giovanni Mpetshi Perricard,,,1.0
+152358,2025-01-05T09:05Z,Brisbane International presented by ANZ,Reilly Opelka,Jiri Lehecka,,,0.0
+152634,2024-12-27T22:10Z,ASB Classic,Ena Shibahara,Monique Barry,,,0.0
+152626,2024-12-27T22:15Z,ASB Classic,Lina Glushko,Louisa Chirico,,,1.0
+152636,2024-12-27T22:15Z,ASB Classic,Lucrezia Stefanini,Haruka Kaji,,,1.0
+152627,2024-12-28T00:10Z,ASB Classic,Miriam Bulgaru,Emina Bektas,,,0.0
+152635,2024-12-28T00:10Z,ASB Classic,Nao Hibino,Elyse Tse,,,1.0
+152637,2024-12-28T00:30Z,ASB Classic,Sachia Vickery,Laura Pigossi,,,1.0
+152633,2024-12-28T01:30Z,ASB Classic,Leyre Romero Gormaz,Valentina Ivanov,,,1.0
+152631,2024-12-28T02:10Z,ASB Classic,Mai Hontama,Irene Burillo,,,1.0
+152632,2024-12-28T02:40Z,ASB Classic,Katarina Zavatska,Selena Janicijevic,,,0.0
+152630,2024-12-28T03:45Z,ASB Classic,Anna-Lena Friedsam,Nuria Brancaccio,,,1.0
+152629,2024-12-28T04:50Z,ASB Classic,Victoria Jimenez Kasintseva,Ana Konjuh,,,1.0
+152628,2024-12-28T05:00Z,ASB Classic,Mariam Bolkvadze,Jodie Burrage,,,0.0
+152642,2024-12-28T22:05Z,ASB Classic,Monique Barry,Lina Glushko,,,0.0
+152643,2024-12-28T22:05Z,ASB Classic,Lucrezia Stefanini,Emina Bektas,,,1.0
+152641,2024-12-28T22:10Z,ASB Classic,Nao Hibino,Sachia Vickery,,,1.0
+152640,2024-12-28T23:35Z,ASB Classic,Victoria Jimenez Kasintseva,Jodie Burrage,,,1.0
+152639,2024-12-28T23:50Z,ASB Classic,Leyre Romero Gormaz,Selena Janicijevic,,,1.0
+152638,2024-12-29T00:20Z,ASB Classic,Mai Hontama,Anna-Lena Friedsam,,,0.0
+152382,2024-12-29T22:40Z,ASB Classic,Lucrezia Stefanini,Clara Tauson,,,0.0
+152387,2024-12-29T22:40Z,ASB Classic,Jule Niemeier,Nao Hibino,,,0.0
+152384,2024-12-30T00:15Z,ASB Classic,Lulu Sun,Rebecca Marino,,,0.0
+152386,2024-12-30T00:35Z,ASB Classic,Bernarda Pera,Victoria Jimenez Kasintseva,,,1.0
+152376,2024-12-30T03:40Z,ASB Classic,Naomi Osaka,Lina Glushko,,,1.0
+152378,2024-12-30T04:00Z,ASB Classic,Leyre Romero Gormaz,Julia Grabher,,,0.0
+152381,2024-12-30T05:40Z,ASB Classic,Ann Li,Sloane Stephens,,,1.0
+152380,2024-12-30T08:20Z,ASB Classic,Katie Volynets,Erika Andreeva,,,1.0
+152375,2024-12-30T22:35Z,ASB Classic,Yuliia Starodubtseva,Jaqueline Cristian,,,0.0
+152377,2024-12-30T22:35Z,ASB Classic,Sofia Kenin,Wang Xiyu,,,1.0
+152383,2024-12-31T00:10Z,ASB Classic,Hailey Baptiste,Renata Jamrichova,,,1.0
+152373,2024-12-31T00:25Z,ASB Classic,Madison Keys,Lucia Bronzetti,,,1.0
+152372,2024-12-31T01:45Z,ASB Classic,Greet Minnen,Anna-Lena Friedsam,,,1.0
+152385,2024-12-31T02:15Z,ASB Classic,Vivian Yang,Jodie Burrage,,,0.0
+152379,2024-12-31T05:35Z,ASB Classic,Robin Montgomery,Mai Hontama,,,1.0
+152374,2024-12-31T07:40Z,ASB Classic,Alycia Parks,Amanda Anisimova,,,1.0
+152392,2024-12-31T22:35Z,ASB Classic,Rebecca Marino,Bernarda Pera,,,0.0
+152389,2025-01-01T00:30Z,ASB Classic,Naomi Osaka,Julia Grabher,,,1.0
+152395,2025-01-01T02:45Z,ASB Classic,Sofia Kenin,Clara Tauson,,,0.0
+152391,2025-01-01T06:15Z,ASB Classic,Katie Volynets,Ann Li,,,1.0
+152394,2025-01-02T00:30Z,ASB Classic,Madison Keys,Jaqueline Cristian,,,1.0
+152393,2025-01-02T02:50Z,ASB Classic,Nao Hibino,Robin Montgomery,,,0.0
+152388,2025-01-02T05:35Z,ASB Classic,Greet Minnen,Alycia Parks,,,0.0
+152390,2025-01-02T07:20Z,ASB Classic,Hailey Baptiste,Jodie Burrage,,,1.0
+152396,2025-01-02T23:05Z,ASB Classic,Bernarda Pera,Robin Montgomery,,,0.0
+152401,2025-01-03T00:35Z,ASB Classic,Naomi Osaka,Hailey Baptiste,,,1.0
+152397,2025-01-03T22:50Z,ASB Classic,Madison Keys,Clara Tauson,,,0.0
+152399,2025-01-03T23:20Z,ASB Classic,Katie Volynets,Alycia Parks,,,0.0
+152400,2025-01-04T02:05Z,ASB Classic,Clara Tauson,Robin Montgomery,,,1.0
+152398,2025-01-04T04:40Z,ASB Classic,Alycia Parks,Naomi Osaka,,,0.0
+152402,2025-01-05T04:00Z,ASB Classic,Clara Tauson,Naomi Osaka,,,1.0
+153380,2025-01-03T23:00Z,ASB Classic,Botic Van De Zandschulp,Nishesh Basavareddy,,,0.0
+153382,2025-01-03T23:00Z,ASB Classic,Charles Broom,Daniel Altmaier,,,0.0
+153383,2025-01-04T00:30Z,ASB Classic,Daniel Masur,Luca Nardi,,,0.0
+153385,2025-01-04T00:30Z,ASB Classic,Facundo Diaz Acosta,Ajeet Rai,,,1.0
+153379,2025-01-04T02:00Z,ASB Classic,Alexander Klintcharov,Sumit Nagal,,,0.0
+153381,2025-01-04T02:00Z,ASB Classic,Adrian Mannarino,Dominic Stricker,,,1.0
+153384,2025-01-04T03:30Z,ASB Classic,Maxime Janvier,Francisco Comesana,,,0.0
+153386,2025-01-04T03:30Z,ASB Classic,Zizou Bergs,Pablo Carreno Busta,,,1.0
+153387,2025-01-04T22:00Z,ASB Classic,Facundo Diaz Acosta,Luca Nardi,,,0.0
+153388,2025-01-04T22:00Z,ASB Classic,Nishesh Basavareddy,Daniel Altmaier,,,1.0
+153389,2025-01-04T23:30Z,ASB Classic,Adrian Mannarino,Sumit Nagal,,,0.0
+153390,2025-01-05T00:00Z,ASB Classic,Zizou Bergs,Francisco Comesana,,,1.0
+152915,2025-01-05T22:40Z,ASB Classic,Luciano Darderi,Nuno Borges,,,0.0
+152918,2025-01-06T01:00Z,ASB Classic,Roberto Carballes Baena,Daniel Altmaier,,,1.0
+152917,2025-01-06T04:00Z,ASB Classic,Zizou Bergs,Isaac Becroft,,,1.0
+152897,2025-01-06T06:15Z,ASB Classic,Alex Michelsen,Sumit Nagal,,,1.0
+152893,2025-01-06T22:40Z,ASB Classic,Mariano Navone,Adrian Mannarino,,,1.0
+152899,2025-01-06T22:40Z,ASB Classic,Gabriel Diallo,Lorenzo Sonego,,,0.0
+152911,2025-01-06T22:40Z,ASB Classic,Luca Nardi,Flavio Cobolli,,,1.0
+152901,2025-01-07T00:00Z,ASB Classic,Cameron Norrie,Facundo Diaz Acosta,,,0.0
+152907,2025-01-07T01:45Z,ASB Classic,Pedro Martinez,Gael Monfils,,,0.0
+152905,2025-01-07T01:50Z,ASB Classic,Jan-Lennard Struff,Bu Yunchaokete,,,1.0
+152892,2025-01-07T02:05Z,ASB Classic,Nishesh Basavareddy,Francisco Comesana,,,1.0
+152895,2025-01-07T05:40Z,ASB Classic,Pablo Carreno Busta,Jakub Mensik,,,0.0
+152891,2025-01-07T22:40Z,ASB Classic,Nishesh Basavareddy,Alejandro Tabilo,,,1.0
+152906,2025-01-07T22:40Z,ASB Classic,Zizou Bergs,Luca Nardi,,,1.0
+152898,2025-01-08T00:15Z,ASB Classic,Alex Michelsen,Lorenzo Sonego,,,1.0
+152902,2025-01-08T00:25Z,ASB Classic,Facundo Diaz Acosta,Sebastian Baez,,,1.0
+152904,2025-01-08T02:35Z,ASB Classic,Francisco Cerundolo,Roberto Carballes Baena,,,0.0
+152900,2025-01-08T03:50Z,ASB Classic,Jan-Lennard Struff,Gael Monfils,,,0.0
+152910,2025-01-08T04:20Z,ASB Classic,Mariano Navone,Nuno Borges,,,0.0
+152912,2025-01-08T07:30Z,ASB Classic,Ben Shelton,Jakub Mensik,,,0.0
+152919,2025-01-08T22:40Z,ASB Classic,Alex Michelsen,Nishesh Basavareddy,,,0.0
+152914,2025-01-09T00:40Z,ASB Classic,Gael Monfils,Facundo Diaz Acosta,,,1.0
+152916,2025-01-09T02:20Z,ASB Classic,Roberto Carballes Baena,Zizou Bergs,,,0.0
+152896,2025-01-09T05:40Z,ASB Classic,Jakub Mensik,Nuno Borges,,,0.0
+152908,2025-01-10T00:10Z,ASB Classic,Gael Monfils,Nishesh Basavareddy,,,1.0
+152909,2025-01-10T02:15Z,ASB Classic,Nuno Borges,Zizou Bergs,,,0.0
+152920,2025-01-11T01:10Z,ASB Classic,Zizou Bergs,Gael Monfils,,,0.0
+152686,2024-12-29T04:00Z,Bank of China Hong Kong Tennis Open,Marc-Andrea Huesler,Laslo Djere,,,1.0
+152687,2024-12-29T04:00Z,Bank of China Hong Kong Tennis Open,Denis Yevseyev,Cristian Garin,,,1.0
+152688,2024-12-29T04:00Z,Bank of China Hong Kong Tennis Open,Francesco Passaro,Aziz Dougaz,,,1.0
+152691,2024-12-29T05:30Z,Bank of China Hong Kong Tennis Open,Cui Jie,Juan Manuel Cerundolo,,,1.0
+152692,2024-12-29T05:30Z,Bank of China Hong Kong Tennis Open,Daniel Altmaier,Alejandro Moro Canas,,,0.0
+152693,2024-12-29T05:30Z,Bank of China Hong Kong Tennis Open,Pavel Kotov,Valentin Royer,,,1.0
+152689,2024-12-29T07:00Z,Bank of China Hong Kong Tennis Open,Terence Atmane,Hugo Grenier,,,0.0
+152690,2024-12-29T07:00Z,Bank of China Hong Kong Tennis Open,Gabriel Diallo,Ki Lung Ng,,,1.0
+152697,2024-12-30T03:00Z,Bank of China Hong Kong Tennis Open,Alejandro Moro Canas,Cui Jie,,,1.0
+152696,2024-12-30T03:00Z,Bank of China Hong Kong Tennis Open,Francesco Passaro,Denis Yevseyev,,,1.0
+152694,2024-12-30T04:30Z,Bank of China Hong Kong Tennis Open,Gabriel Diallo,Hugo Grenier,,,1.0
+152695,2024-12-30T04:30Z,Bank of China Hong Kong Tennis Open,Pavel Kotov,Marc-Andrea Huesler,,,0.0
+152410,2024-12-30T06:10Z,Bank of China Hong Kong Tennis Open,Luciano Darderi,Miomir Kecmanovic,,,0.0
+152403,2024-12-30T07:25Z,Bank of China Hong Kong Tennis Open,Roman Safiullin,Fabian Marozsan,,,0.0
+152408,2024-12-30T07:40Z,Bank of China Hong Kong Tennis Open,Lorenzo Sonego,Brandon Nakashima,,,1.0
+152406,2024-12-30T11:10Z,Bank of China Hong Kong Tennis Open,Cameron Norrie,Learner Tien,,,1.0
+152420,2024-12-31T04:10Z,Bank of China Hong Kong Tennis Open,Zizou Bergs,Alejandro Moro Canas,,,1.0
+152418,2024-12-31T04:10Z,Bank of China Hong Kong Tennis Open,Alexandre Muller,Marc-Andrea Huesler,,,1.0
+152425,2024-12-31T05:10Z,Bank of China Hong Kong Tennis Open,Nuno Borges,Bu Yunchaokete,,,1.0
+152416,2024-12-31T06:25Z,Bank of China Hong Kong Tennis Open,Jaume Munar,Alejandro Davidovich Fokina,,,1.0
+152417,2024-12-31T07:35Z,Bank of China Hong Kong Tennis Open,Francesco Passaro,Pedro Martinez,,,0.0
+152404,2024-12-31T07:45Z,Bank of China Hong Kong Tennis Open,Denis Shapovalov,Kei Nishikori,,,0.0
+152412,2024-12-31T08:45Z,Bank of China Hong Kong Tennis Open,Gabriel Diallo,Roberto Carballes Baena,,,1.0
+152415,2024-12-31T09:00Z,Bank of China Hong Kong Tennis Open,Shang Juncheng,Chak Lam Coleman Wong,,,1.0
+152419,2025-01-01T05:10Z,Bank of China Hong Kong Tennis Open,Miomir Kecmanovic,Alexandre Muller,,,0.0
+152411,2025-01-01T05:10Z,Bank of China Hong Kong Tennis Open,Cameron Norrie,Lorenzo Sonego,,,1.0
+152421,2025-01-01T09:50Z,Bank of China Hong Kong Tennis Open,Zizou Bergs,Arthur Fils,,,0.0
+152409,2025-01-01T11:55Z,Bank of China Hong Kong Tennis Open,Karen Khachanov,Kei Nishikori,,,0.0
+152426,2025-01-02T05:10Z,Bank of China Hong Kong Tennis Open,Gabriel Diallo,Lorenzo Musetti,,,0.0
+152424,2025-01-02T05:10Z,Bank of China Hong Kong Tennis Open,Nuno Borges,Jaume Munar,,,0.0
+152407,2025-01-02T07:00Z,Bank of China Hong Kong Tennis Open,Shang Juncheng,Pedro Martinez,,,1.0
+152405,2025-01-02T10:40Z,Bank of China Hong Kong Tennis Open,Andrey Rublev,Fabian Marozsan,,,0.0
+152432,2025-01-03T05:10Z,Bank of China Hong Kong Tennis Open,Alexandre Muller,Arthur Fils,,,1.0
+152427,2025-01-03T07:20Z,Bank of China Hong Kong Tennis Open,Jaume Munar,Lorenzo Musetti,,,1.0
+152430,2025-01-03T10:20Z,Bank of China Hong Kong Tennis Open,Fabian Marozsan,Shang Juncheng,,,0.0
+152431,2025-01-03T12:20Z,Bank of China Hong Kong Tennis Open,Kei Nishikori,Cameron Norrie,,,1.0
+152429,2025-01-04T06:10Z,Bank of China Hong Kong Tennis Open,Alexandre Muller,Jaume Munar,,,1.0
+152428,2025-01-04T08:55Z,Bank of China Hong Kong Tennis Open,Shang Juncheng,Kei Nishikori,,,0.0
+152433,2025-01-05T08:40Z,Bank of China Hong Kong Tennis Open,Kei Nishikori,Alexandre Muller,,,0.0
+153392,2025-01-03T23:40Z,Adelaide International,Kaylah McPhee,Irina-Camelia Begu,,,0.0
+153395,2025-01-03T23:40Z,Adelaide International,Malene Helgo,Peyton Stearns,,,0.0
+153396,2025-01-03T23:40Z,Adelaide International,Maria Sakkari,Zheng Saisai,,,1.0
+153397,2025-01-03T23:40Z,Adelaide International,Wang Xinyu,Tatjana Maria,,,1.0
+153391,2025-01-04T01:00Z,Adelaide International,Leylah Fernandez,Jodie Burrage,,,1.0
+153401,2025-01-04T01:05Z,Adelaide International,Jule Niemeier,Sorana Cirstea,,,1.0
+153399,2025-01-04T01:20Z,Adelaide International,Belinda Bencic,Moyuka Uchijima,,,1.0
+153393,2025-01-04T01:35Z,Adelaide International,Jaqueline Cristian,Kamilla Rakhimova,,,0.0
+153398,2025-01-04T02:55Z,Adelaide International,Guo Hanyu,Laura Siegemund,,,0.0
+153394,2025-01-04T03:05Z,Adelaide International,Marie Bouzkova,Gabriella Da Silva Fick,,,1.0
+153400,2025-01-04T03:10Z,Adelaide International,Ajla Tomljanovic,Ashlyn Krueger,,,0.0
+153402,2025-01-04T03:55Z,Adelaide International,Katerina Siniakova,Cristina Bucsa,,,1.0
+153405,2025-01-04T23:35Z,Adelaide International,Maria Sakkari,Peyton Stearns,,,0.0
+153406,2025-01-05T00:05Z,Adelaide International,Leylah Fernandez,Irina-Camelia Begu,,,1.0
+153408,2025-01-05T01:30Z,Adelaide International,Wang Xinyu,Kamilla Rakhimova,,,1.0
+153404,2025-01-05T02:40Z,Adelaide International,Laura Siegemund,Belinda Bencic,,,0.0
+153407,2025-01-05T03:00Z,Adelaide International,Marie Bouzkova,Jule Niemeier,,,1.0
+153403,2025-01-05T03:15Z,Adelaide International,Katerina Siniakova,Ashlyn Krueger,,,1.0
+152803,2025-01-06T00:35Z,Adelaide International,Donna Vekic,Yulia Putintseva,,,0.0
+152821,2025-01-06T00:35Z,Adelaide International,Wang Xinyu,Emerson Jones,,,0.0
+152814,2025-01-06T02:10Z,Adelaide International,Leylah Fernandez,Ekaterina Alexandrova,,,0.0
+152804,2025-01-06T02:30Z,Adelaide International,Olivia Gadecki,Daria Kasatkina,,,0.0
+152797,2025-01-06T04:40Z,Adelaide International,Anastasia Pavlyuchenkova,Marketa Vondrousova,,,0.0
+152810,2025-01-06T08:10Z,Adelaide International,Peyton Stearns,Paula Badosa,,,0.0
+152822,2025-01-07T00:40Z,Adelaide International,Beatriz Haddad Maia,Madison Keys,,,0.0
+152798,2025-01-07T02:00Z,Adelaide International,Linda Noskova,Maria Sakkari,,,0.0
+152820,2025-01-07T02:10Z,Adelaide International,Marie Bouzkova,Liudmila Samsonova,,,0.0
+152802,2025-01-07T04:10Z,Adelaide International,Jelena Ostapenko,Magdalena Frech,,,1.0
+152825,2025-01-07T04:55Z,Adelaide International,Katerina Siniakova,Diana Shnaider,,,0.0
+152799,2025-01-07T06:50Z,Adelaide International,Marta Kostyuk,Ashlyn Krueger,,,0.0
+152818,2025-01-07T07:45Z,Adelaide International,Anna Kalinskaya,Belinda Bencic,,,0.0
+152801,2025-01-07T10:20Z,Adelaide International,Danielle Collins,Ons Jabeur,,,0.0
+152808,2025-01-08T00:40Z,Adelaide International,Ekaterina Alexandrova,Emma Navarro,,,0.0
+152817,2025-01-08T02:55Z,Adelaide International,Jessica Pegula,Maria Sakkari,,,1.0
+152812,2025-01-08T04:30Z,Adelaide International,Belinda Bencic,Liudmila Samsonova,,,0.0
+152819,2025-01-08T05:25Z,Adelaide International,Ashlyn Krueger,Paula Badosa,,,1.0
+152815,2025-01-08T07:50Z,Adelaide International,Marketa Vondrousova,Diana Shnaider,,,0.0
+152806,2025-01-08T08:05Z,Adelaide International,Jelena Ostapenko,Madison Keys,,,0.0
+152805,2025-01-08T10:30Z,Adelaide International,Ons Jabeur,Yulia Putintseva,,,0.0
+152813,2025-01-08T11:30Z,Adelaide International,Emerson Jones,Daria Kasatkina,,,0.0
+152824,2025-01-09T00:40Z,Adelaide International,Liudmila Samsonova,Emma Navarro,,,1.0
+152807,2025-01-09T04:00Z,Adelaide International,Jessica Pegula,Ashlyn Krueger,,,1.0
+152809,2025-01-09T08:10Z,Adelaide International,Madison Keys,Daria Kasatkina,,,1.0
+152811,2025-01-09T09:35Z,Adelaide International,Yulia Putintseva,Diana Shnaider,,,1.0
+152826,2025-01-10T04:00Z,Adelaide International,Madison Keys,Liudmila Samsonova,,,1.0
+152823,2025-01-10T09:35Z,Adelaide International,Jessica Pegula,Yulia Putintseva,,,1.0
+152827,2025-01-11T06:15Z,Adelaide International,Jessica Pegula,Madison Keys,,,0.0
+153419,2025-01-04T23:30Z,Adelaide International,Manuel Guinard,Taro Daniel,,,1.0
+153420,2025-01-04T23:30Z,Adelaide International,Yannick Hanfmann,Hugo Gaston,,,1.0
+153415,2025-01-05T01:00Z,Adelaide International,James McCabe,Damir Dzumhur,,,1.0
+153417,2025-01-05T01:00Z,Adelaide International,Benjamin Bonzi,Fabio Fognini,,,1.0
+153416,2025-01-05T02:30Z,Adelaide International,Quentin Halys,Jacob Bradshaw,,,0.0
+153418,2025-01-05T03:30Z,Adelaide International,Pavel Kotov,James Duckworth,,,0.0
+153422,2025-01-05T04:00Z,Adelaide International,Adam Walton,Dusan Lajovic,,,1.0
+153421,2025-01-05T05:00Z,Adelaide International,Rinky Hijikata,Omar Jasika,,,1.0
+153424,2025-01-06T00:30Z,Adelaide International,Manuel Guinard,Yannick Hanfmann,,,0.0
+153426,2025-01-06T00:30Z,Adelaide International,Benjamin Bonzi,James McCabe,,,1.0
+153423,2025-01-06T02:30Z,Adelaide International,Rinky Hijikata,Adam Walton,,,0.0
+153425,2025-01-06T02:30Z,Adelaide International,Jacob Bradshaw,James Duckworth,,,0.0
+152759,2025-01-06T04:00Z,Adelaide International,Denis Shapovalov,Zhang Zhizhen,,,1.0
+152756,2025-01-06T07:45Z,Adelaide International,Roberto Bautista Agut,Alejandro Davidovich Fokina,,,0.0
+152757,2025-01-06T09:45Z,Adelaide International,Arthur Rinderknech,Christopher O'Connell,,,0.0
+152747,2025-01-06T11:20Z,Adelaide International,Yoshihito Nishioka,Thanasi Kokkinakis,,,0.0
+152737,2025-01-07T00:40Z,Adelaide International,James Duckworth,Li Tu,,,0.0
+152744,2025-01-07T00:40Z,Adelaide International,Manuel Guinard,Roman Safiullin,,,1.0
+152761,2025-01-07T00:40Z,Adelaide International,Aleksandar Vukic,Marcos Giron,,,0.0
+152763,2025-01-07T02:45Z,Adelaide International,Alexander Bublik,Miomir Kecmanovic,,,0.0
+152752,2025-01-07T03:15Z,Adelaide International,Arthur Cazaux,Adam Walton,,,1.0
+152749,2025-01-07T04:10Z,Adelaide International,Yannick Hanfmann,Brandon Nakashima,,,0.0
+152743,2025-01-07T06:10Z,Adelaide International,David Goffin,Rinky Hijikata,,,0.0
+152745,2025-01-07T08:10Z,Adelaide International,Tomas Martin Etcheverry,Tristan Schoolkate,,,1.0
+152736,2025-01-08T00:40Z,Adelaide International,Marcos Giron,Denis Shapovalov,,,1.0
+152758,2025-01-08T00:40Z,Adelaide International,Felix Auger-Aliassime,Arthur Cazaux,,,1.0
+152739,2025-01-08T01:40Z,Adelaide International,Miomir Kecmanovic,Christopher O'Connell,,,1.0
+152735,2025-01-08T02:20Z,Adelaide International,Rinky Hijikata,Brandon Nakashima,,,1.0
+152746,2025-01-08T03:15Z,Adelaide International,Li Tu,Benjamin Bonzi,,,0.0
+152742,2025-01-08T03:35Z,Adelaide International,Alejandro Davidovich Fokina,Sebastian Korda,,,0.0
+152764,2025-01-08T04:30Z,Adelaide International,Tommy Paul,Manuel Guinard,,,1.0
+152748,2025-01-08T08:10Z,Adelaide International,Tomas Martin Etcheverry,Thanasi Kokkinakis,,,0.0
+152741,2025-01-09T02:20Z,Adelaide International,Tommy Paul,Rinky Hijikata,,,1.0
+152751,2025-01-09T03:50Z,Adelaide International,Felix Auger-Aliassime,Marcos Giron,,,1.0
+152755,2025-01-09T05:45Z,Adelaide International,Miomir Kecmanovic,Benjamin Bonzi,,,1.0
+152753,2025-01-09T08:00Z,Adelaide International,Thanasi Kokkinakis,Sebastian Korda,,,0.0
+152762,2025-01-10T06:20Z,Adelaide International,Tommy Paul,Felix Auger-Aliassime,,,0.0
+152760,2025-01-10T11:30Z,Adelaide International,Miomir Kecmanovic,Sebastian Korda,,,0.0
+152765,2025-01-11T08:35Z,Adelaide International,Felix Auger-Aliassime,Sebastian Korda,,,1.0
+141998,2025-01-06T05:10Z,Australian Open,Harold Mayot,Yasutaka Uchiyama,,,0.0
+141999,2025-01-06T05:10Z,Australian Open,Adrian Andreev,Adolfo Daniel Vallejo,,,0.0
+142024,2025-01-06T05:10Z,Australian Open,Chun-Hsin Tseng,Federico Arnaboldi,,,1.0
+142026,2025-01-06T05:10Z,Australian Open,Hady Habib,Patrick Kypson,,,1.0
+142039,2025-01-06T05:10Z,Australian Open,Khumoyun Sultanov,Daniel Elahi Galan,,,1.0
+142044,2025-01-06T05:10Z,Australian Open,Ugo Blanchet,Dalibor Svrcina,,,0.0
+142052,2025-01-06T05:10Z,Australian Open,Cristian Garin,Murkel Dellien,,,1.0
+142054,2025-01-06T05:10Z,Australian Open,Laslo Djere,Gustavo Heide,,,1.0
+141997,2025-01-06T06:15Z,Australian Open,Duje Ajdukovic,Richard Gasquet,,,1.0
+142001,2025-01-06T06:30Z,Australian Open,Maximilian Marterer,Hugo Dellien,,,0.0
+142010,2025-01-06T06:55Z,Australian Open,James Trotter,Daniel Evans,,,1.0
+142000,2025-01-06T07:25Z,Australian Open,Vilius Gaubas,Maks Kasnikowski,,,0.0
+141995,2025-01-06T07:35Z,Australian Open,Mitchell Krueger,Filip Cristian Jianu,,,1.0
+142025,2025-01-06T08:00Z,Australian Open,Francesco Passaro,Giulio Zeppieri,,,1.0
+142043,2025-01-06T08:00Z,Australian Open,Roman Andres Burruchaga,Gauthier Onclin,,,0.0
+142009,2025-01-06T08:05Z,Australian Open,Raphael Collignon,Martin Landaluce,,,0.0
+142040,2025-01-06T08:10Z,Australian Open,Alex Bolt,Mackenzie McDonald,,,0.0
+142020,2025-01-06T09:15Z,Australian Open,Javier Barranco Cosano,Facundo Mena,,,1.0
+142027,2025-01-06T09:25Z,Australian Open,Juan Pablo Varillas,Alejandro Moro Canas,,,0.0
+142038,2025-01-06T09:25Z,Australian Open,Brandon Holt,Gianluca Mager,,,1.0
+142013,2025-01-06T09:35Z,Australian Open,Nick Hardt,Matteo Gigante,,,0.0
+142016,2025-01-06T09:45Z,Australian Open,Lukas Neumayer,Elmer Moller,,,1.0
+142014,2025-01-06T09:50Z,Australian Open,Christopher Eubanks,Hugo Grenier,,,1.0
+142042,2025-01-06T10:10Z,Australian Open,Aleksandar Kovacevic,Andrea Collarini,,,1.0
+142021,2025-01-06T23:05Z,Australian Open,Felipe Meligeni Alves,Clement Chidekh,,,0.0
+142022,2025-01-06T23:05Z,Australian Open,Tim Van Rijthoven,Jerome Kym,,,0.0
+142036,2025-01-06T23:10Z,Australian Open,Juan Pablo Ficovich,Paul Jubb,,,1.0
+142041,2025-01-06T23:10Z,Australian Open,Learner Tien,Gregoire Barrere,,,1.0
+142037,2025-01-07T00:40Z,Australian Open,Hayden Jones,August Holmgren,,,0.0
+142035,2025-01-07T00:45Z,Australian Open,Bernard Tomic,Jozef Kovalik,,,0.0
+142033,2025-01-07T00:55Z,Australian Open,Cruz Hewitt,Nikoloz Basilashvili,,,0.0
+142015,2025-01-07T01:00Z,Australian Open,Henri Squire,Henrique Rocha,,,0.0
+142028,2025-01-07T01:00Z,Australian Open,Tomas Barrios Vera,Emilio Nava,,,1.0
+142023,2025-01-07T01:10Z,Australian Open,Rei Sakamoto,Tristan Boyer,,,0.0
+142034,2025-01-07T01:10Z,Australian Open,Alibek Kachmazov,Shintaro Mochizuki,,,1.0
+142017,2025-01-07T01:25Z,Australian Open,Marton Fucsovics,Oriol Roca Batalla,,,1.0
+142045,2025-01-07T01:25Z,Australian Open,Radu Albot,Sho Shimabukuro,,,0.0
+142048,2025-01-07T01:40Z,Australian Open,Mikhail Kukushkin,Mark Lajal,,,0.0
+142053,2025-01-07T02:20Z,Australian Open,Gijs Brouwer,Jaime Faria,,,0.0
+142029,2025-01-07T02:35Z,Australian Open,Kimmer Coppejans,Matteo Martineau,,,1.0
+142046,2025-01-07T02:35Z,Australian Open,Pierre-Hugues Herbert,Dane Sweeny,,,0.0
+142004,2025-01-07T03:50Z,Australian Open,Mattia Bellucci,Pavle Marinkov,,,1.0
+142031,2025-01-07T03:50Z,Australian Open,Thiago Monteiro,Jason Kubler,,,1.0
+142030,2025-01-07T04:00Z,Australian Open,Marc-Andrea Huesler,Valentin Vacherot,,,0.0
+142018,2025-01-07T05:00Z,Australian Open,Kamil Majchrzak,Marco Trungelliti,,,1.0
+141996,2025-01-07T05:10Z,Australian Open,Alexander Blockx,Eliot Spizzirri,,,0.0
+142012,2025-01-07T05:10Z,Australian Open,Yuta Shimizu,Billy Harris,,,0.0
+142032,2025-01-07T05:15Z,Australian Open,Valentin Royer,Marc Polmans,,,1.0
+142003,2025-01-07T05:40Z,Australian Open,Alexis Galarneau,Lukas Klein,,,0.0
+142007,2025-01-07T05:45Z,Australian Open,Chak Lam Coleman Wong,Dmitry Popko,,,1.0
+142005,2025-01-07T06:10Z,Australian Open,Terence Atmane,Matthew Dellavedova,,,1.0
+141993,2025-01-07T06:30Z,Australian Open,Ethan Quinn,Calvin Hemery,,,1.0
+142011,2025-01-07T06:30Z,Australian Open,Edward Winter,Carlos Taberner,,,0.0
+141992,2025-01-07T06:40Z,Australian Open,Thiago Agustin Tirante,Jurij Rodionov,,,1.0
+142006,2025-01-07T07:25Z,Australian Open,Antoine Escoffier,Blake Ellis,,,0.0
+141994,2025-01-07T07:40Z,Australian Open,Titouan Droguet,Jan Choinski,,,1.0
+142019,2025-01-07T07:40Z,Australian Open,Zachary Svajda,Enzo Couacaud,,,1.0
+142051,2025-01-07T07:50Z,Australian Open,Jesper de Jong,Aziz Dougaz,,,0.0
+142049,2025-01-07T08:15Z,Australian Open,Nicolas Mejia,Benjamin Hassan,,,0.0
+141991,2025-01-07T08:35Z,Australian Open,Dominik Koepfer,Ignacio Buse,,,1.0
+142008,2025-01-07T08:35Z,Australian Open,Joao Fonseca,Federico Agustin Gomez,,,1.0
+142047,2025-01-07T09:00Z,Australian Open,Constant Lestienne,Vit Kopriva,,,0.0
+142002,2025-01-07T09:20Z,Australian Open,Yosuke Watanuki,Juan Manuel Cerundolo,,,1.0
+142050,2025-01-07T09:55Z,Australian Open,Borna Gojo,Timofey Skatov,,,1.0
+153550,2025-01-07T23:10Z,Australian Open,Mitchell Krueger,Duje Ajdukovic,,,1.0
+153552,2025-01-07T23:10Z,Australian Open,Maks Kasnikowski,Hugo Dellien,,,0.0
+153553,2025-01-07T23:10Z,Australian Open,Yasutaka Uchiyama,Adolfo Daniel Vallejo,,,1.0
+153555,2025-01-07T23:10Z,Australian Open,Laslo Djere,Cristian Garin,,,0.0
+153565,2025-01-07T23:10Z,Australian Open,Clement Chidekh,Jerome Kym,,,1.0
+153568,2025-01-07T23:10Z,Australian Open,Chun-Hsin Tseng,Hady Habib,,,0.0
+153571,2025-01-08T00:40Z,Australian Open,Learner Tien,Juan Pablo Ficovich,,,1.0
+153569,2025-01-08T00:50Z,Australian Open,August Holmgren,Jozef Kovalik,,,0.0
+153542,2025-01-08T01:05Z,Australian Open,Lukas Neumayer,Matteo Gigante,,,0.0
+153545,2025-01-08T01:20Z,Australian Open,Marton Fucsovics,Henrique Rocha,,,0.0
+153573,2025-01-08T01:45Z,Australian Open,Martin Landaluce,James Trotter,,,1.0
+153570,2025-01-08T01:50Z,Australian Open,Dalibor Svrcina,Khumoyun Sultanov,,,1.0
+153544,2025-01-08T02:10Z,Australian Open,Tomas Barrios Vera,Tristan Boyer,,,0.0
+153560,2025-01-08T02:10Z,Australian Open,Aleksandar Kovacevic,Gauthier Onclin,,,0.0
+153564,2025-01-08T02:40Z,Australian Open,Nikoloz Basilashvili,Alibek Kachmazov,,,1.0
+153558,2025-01-08T03:05Z,Australian Open,Brandon Holt,Mackenzie McDonald,,,0.0
+153543,2025-01-08T03:15Z,Australian Open,Christopher Eubanks,Alejandro Moro Canas,,,1.0
+153554,2025-01-08T03:20Z,Australian Open,Dane Sweeny,Jaime Faria,,,0.0
+153563,2025-01-08T03:50Z,Australian Open,Francesco Passaro,Javier Barranco Cosano,,,1.0
+153557,2025-01-08T04:25Z,Australian Open,Mark Lajal,Sho Shimabukuro,,,1.0
+153546,2025-01-08T04:30Z,Australian Open,Eliot Spizzirri,Lukas Klein,,,0.0
+153551,2025-01-08T04:30Z,Australian Open,Thiago Agustin Tirante,Titouan Droguet,,,1.0
+153548,2025-01-08T04:45Z,Australian Open,Mattia Bellucci,Terence Atmane,,,0.0
+153566,2025-01-08T04:55Z,Australian Open,Kamil Majchrzak,Zachary Svajda,,,1.0
+153572,2025-01-08T05:00Z,Australian Open,Carlos Taberner,Billy Harris,,,0.0
+153567,2025-01-08T05:25Z,Australian Open,Chak Lam Coleman Wong,Joao Fonseca,,,0.0
+153556,2025-01-08T06:30Z,Australian Open,Borna Gojo,Vit Kopriva,,,1.0
+153559,2025-01-08T06:30Z,Australian Open,Aziz Dougaz,Benjamin Hassan,,,1.0
+153561,2025-01-08T06:40Z,Australian Open,Thiago Monteiro,Valentin Royer,,,1.0
+153547,2025-01-08T06:45Z,Australian Open,Blake Ellis,Yosuke Watanuki,,,1.0
+153549,2025-01-08T06:50Z,Australian Open,Dominik Koepfer,Ethan Quinn,,,1.0
+153562,2025-01-08T07:10Z,Australian Open,Kimmer Coppejans,Valentin Vacherot,,,1.0
+153578,2025-01-09T00:05Z,Australian Open,Henrique Rocha,Matteo Gigante,,,0.0
+153580,2025-01-09T00:05Z,Australian Open,Yasutaka Uchiyama,Mitchell Krueger,,,0.0
+153582,2025-01-09T00:05Z,Australian Open,Cristian Garin,Hugo Dellien,,,1.0
+153589,2025-01-09T00:05Z,Australian Open,Hady Habib,Clement Chidekh,,,1.0
+153575,2025-01-09T01:45Z,Australian Open,Christopher Eubanks,Tristan Boyer,,,0.0
+153587,2025-01-09T01:45Z,Australian Open,Martin Landaluce,Dalibor Svrcina,,,1.0
+153579,2025-01-09T02:30Z,Australian Open,Terence Atmane,Lukas Klein,,,0.0
+153585,2025-01-09T03:00Z,Australian Open,Learner Tien,Jozef Kovalik,,,1.0
+153583,2025-01-09T03:10Z,Australian Open,Gauthier Onclin,Mackenzie McDonald,,,1.0
+153576,2025-01-09T03:20Z,Australian Open,Francesco Passaro,Nikoloz Basilashvili,,,0.0
+153586,2025-01-09T03:25Z,Australian Open,Kamil Majchrzak,Billy Harris,,,1.0
+153588,2025-01-09T04:00Z,Australian Open,Thiago Agustin Tirante,Joao Fonseca,,,0.0
+153581,2025-01-09T04:30Z,Australian Open,Mark Lajal,Jaime Faria,,,0.0
+153577,2025-01-09T05:10Z,Australian Open,Thiago Monteiro,Kimmer Coppejans,,,1.0
+153584,2025-01-09T05:35Z,Australian Open,Aziz Dougaz,Borna Gojo,,,1.0
+153574,2025-01-09T07:10Z,Australian Open,Dominik Koepfer,Blake Ellis,,,1.0
+153154,2025-01-12T00:10Z,Australian Open,Hugo Gaston,Omar Jasika,,,1.0
+153165,2025-01-12T00:40Z,Australian Open,Otto Virtanen,Arthur Fils,,,0.0
+153167,2025-01-12T02:15Z,Australian Open,Kei Nishikori,Thiago Monteiro,,,1.0
+153178,2025-01-12T03:05Z,Australian Open,Casper Ruud,Jaume Munar,,,1.0
+153161,2025-01-12T07:30Z,Australian Open,Hady Habib,Bu Yunchaokete,,,1.0
+153153,2025-01-12T08:10Z,Australian Open,Jiri Lehecka,Li Tu,,,1.0
+153155,2025-01-12T08:40Z,Australian Open,Sumit Nagal,Tomas Machac,,,0.0
+153200,2025-01-12T08:55Z,Australian Open,Pedro Martinez,Luciano Darderi,,,1.0
+153170,2025-01-12T09:00Z,Australian Open,Ugo Humbert,Matteo Gigante,,,1.0
+153157,2025-01-12T09:15Z,Australian Open,Gauthier Onclin,Reilly Opelka,,,0.0
+153160,2025-01-12T09:30Z,Australian Open,Adam Walton,Quentin Halys,,,0.0
+153204,2025-01-12T09:50Z,Australian Open,Lucas Pouille,Alexander Zverev,,,0.0
+153149,2025-01-13T00:10Z,Australian Open,Arthur Rinderknech,Frances Tiafoe,,,0.0
+153174,2025-01-13T00:10Z,Australian Open,Alejandro Tabilo,Roberto Carballes Baena,,,0.0
+153177,2025-01-13T00:10Z,Australian Open,Nikoloz Basilashvili,Jakub Mensik,,,0.0
+153198,2025-01-13T00:10Z,Australian Open,Stefanos Tsitsipas,Alex Michelsen,,,0.0
+153179,2025-01-13T02:05Z,Australian Open,Alexandre Muller,Nuno Borges,,,0.0
+153147,2025-01-13T02:20Z,Australian Open,Thiago Seyboth Wild,Fabian Marozsan,,,0.0
+153173,2025-01-13T02:40Z,Australian Open,James Duckworth,Dominic Stricker,,,1.0
+153194,2025-01-13T02:45Z,Australian Open,James McCabe,Martin Landaluce,,,1.0
+153168,2025-01-13T03:05Z,Australian Open,Jannik Sinner,Nicolas Jarry,,,1.0
+153180,2025-01-13T03:30Z,Australian Open,Jordan Thompson,Dominik Koepfer,,,1.0
+153159,2025-01-13T03:35Z,Australian Open,Tristan Schoolkate,Taro Daniel,,,1.0
+153185,2025-01-13T03:40Z,Australian Open,Damir Dzumhur,Aleksandar Vukic,,,0.0
+153150,2025-01-13T04:30Z,Australian Open,Jack Draper,Mariano Navone,,,1.0
+153183,2025-01-13T05:00Z,Australian Open,Thanasi Kokkinakis,Roman Safiullin,,,1.0
+153163,2025-01-13T05:15Z,Australian Open,Sebastian Baez,Arthur Cazaux,,,0.0
+153182,2025-01-13T05:40Z,Australian Open,Yoshihito Nishioka,Aziz Dougaz,,,1.0
+153184,2025-01-13T06:35Z,Australian Open,Lukas Klein,Sebastian Korda,,,0.0
+153156,2025-01-13T07:00Z,Australian Open,Jaime Faria,Pavel Kotov,,,1.0
+153171,2025-01-13T07:20Z,Australian Open,Jan-Lennard Struff,Felix Auger-Aliassime,,,0.0
+153172,2025-01-13T07:45Z,Australian Open,Shang Juncheng,Alejandro Davidovich Fokina,,,0.0
+153181,2025-01-13T08:10Z,Australian Open,Aleksandr Shevchenko,Carlos Alcaraz,,,0.0
+153158,2025-01-13T08:15Z,Australian Open,Novak Djokovic,Nishesh Basavareddy,,,1.0
+153201,2025-01-13T08:15Z,Australian Open,Jacob Fearnley,Nick Kyrgios,,,1.0
+153151,2025-01-13T08:55Z,Australian Open,David Goffin,Benjamin Bonzi,,,0.0
+153152,2025-01-13T08:55Z,Australian Open,Francesco Passaro,Grigor Dimitrov,,,1.0
+153166,2025-01-13T09:20Z,Australian Open,Christopher O'Connell,Tommy Paul,,,0.0
+153190,2025-01-14T00:10Z,Australian Open,Adrian Mannarino,Karen Khachanov,,,0.0
+153195,2025-01-14T00:10Z,Australian Open,Gabriel Diallo,Luca Nardi,,,1.0
+153202,2025-01-14T00:10Z,Australian Open,Matteo Berrettini,Cameron Norrie,,,1.0
+153203,2025-01-14T00:10Z,Australian Open,Miomir Kecmanovic,Dusan Lajovic,,,1.0
+153197,2025-01-14T00:40Z,Australian Open,Zhang Zhizhen,Holger Rune,,,0.0
+153148,2025-01-14T01:45Z,Australian Open,Taylor Fritz,Jenson Brooksby,,,1.0
+153143,2025-01-14T01:50Z,Australian Open,Camilo Ugo Carabelli,Learner Tien,,,0.0
+153146,2025-01-14T01:55Z,Australian Open,Borna Coric,Cristian Garin,,,0.0
+153191,2025-01-14T02:30Z,Australian Open,Francisco Cerundolo,Alexander Bublik,,,1.0
+153176,2025-01-14T02:40Z,Australian Open,Gael Monfils,Giovanni Mpetshi Perricard,,,1.0
+153199,2025-01-14T03:05Z,Australian Open,Hubert Hurkacz,Tallon Griekspoor,,,1.0
+153145,2025-01-14T04:25Z,Australian Open,Kasidit Samrej,Daniil Medvedev,,,0.0
+153188,2025-01-14T04:25Z,Australian Open,Facundo Diaz Acosta,Zizou Bergs,,,1.0
+153169,2025-01-14T04:55Z,Australian Open,Francisco Comesana,Daniel Altmaier,,,0.0
+153192,2025-01-14T05:15Z,Australian Open,Matteo Arnaldi,Lorenzo Musetti,,,0.0
+153175,2025-01-14T05:55Z,Australian Open,Ben Shelton,Brandon Nakashima,,,1.0
+153193,2025-01-14T06:05Z,Australian Open,Lorenzo Sonego,Stan Wawrinka,,,1.0
+153186,2025-01-14T06:15Z,Australian Open,Tristan Boyer,Federico Coria,,,1.0
+153142,2025-01-14T06:45Z,Australian Open,Rinky Hijikata,Mitchell Krueger,,,0.0
+153162,2025-01-14T07:05Z,Australian Open,Tomas Martin Etcheverry,Flavio Cobolli,,,1.0
+153164,2025-01-14T07:55Z,Australian Open,Marcos Giron,Yannick Hanfmann,,,1.0
+153144,2025-01-14T08:10Z,Australian Open,Alexei Popyrin,Corentin Moutet,,,0.0
+153205,2025-01-14T08:10Z,Australian Open,Roberto Bautista Agut,Denis Shapovalov,,,0.0
+153187,2025-01-14T08:25Z,Australian Open,Botic Van De Zandschulp,Alex de Minaur,,,0.0
+153196,2025-01-14T09:00Z,Australian Open,Pablo Carreno Busta,Kamil Majchrzak,,,1.0
+153189,2025-01-14T09:45Z,Australian Open,Andrey Rublev,Joao Fonseca,,,0.0
+153127,2025-01-15T00:40Z,Australian Open,Reilly Opelka,Tomas Machac,,,0.0
+153084,2025-01-15T02:10Z,Australian Open,Yoshihito Nishioka,Carlos Alcaraz,,,0.0
+153085,2025-01-15T02:10Z,Australian Open,Jiri Lehecka,Hugo Gaston,,,1.0
+153093,2025-01-15T02:30Z,Australian Open,Benjamin Bonzi,Francesco Passaro,,,1.0
+153083,2025-01-15T03:00Z,Australian Open,Jordan Thompson,Nuno Borges,,,0.0
+153108,2025-01-15T03:15Z,Australian Open,Roberto Carballes Baena,James Duckworth,,,1.0
+153129,2025-01-15T03:15Z,Australian Open,Novak Djokovic,Jaime Faria,,,1.0
+153097,2025-01-15T03:55Z,Australian Open,Quentin Halys,Arthur Fils,,,0.0
+153080,2025-01-15T04:25Z,Australian Open,Aleksandar Vukic,Sebastian Korda,,,1.0
+153098,2025-01-15T06:25Z,Australian Open,Arthur Cazaux,Jacob Fearnley,,,0.0
+153106,2025-01-15T08:10Z,Australian Open,Casper Ruud,Jakub Mensik,,,0.0
+153082,2025-01-15T08:15Z,Australian Open,Jack Draper,Thanasi Kokkinakis,,,1.0
+153102,2025-01-15T09:00Z,Australian Open,Alejandro Davidovich Fokina,Felix Auger-Aliassime,,,1.0
+153100,2025-01-15T09:20Z,Australian Open,Ugo Humbert,Hady Habib,,,1.0
+153099,2025-01-15T10:10Z,Australian Open,Kei Nishikori,Tommy Paul,,,0.0
+153101,2025-01-15T10:10Z,Australian Open,Pedro Martinez,Alexander Zverev,,,0.0
+153132,2025-01-16T00:10Z,Australian Open,Hubert Hurkacz,Miomir Kecmanovic,,,0.0
+153122,2025-01-16T01:30Z,Australian Open,Gabriel Diallo,Karen Khachanov,,,0.0
+153120,2025-01-16T01:40Z,Australian Open,Francisco Cerundolo,Facundo Diaz Acosta,,,1.0
+153109,2025-01-16T01:45Z,Australian Open,Daniel Altmaier,Gael Monfils,,,0.0
+153115,2025-01-16T02:00Z,Australian Open,Denis Shapovalov,Lorenzo Musetti,,,0.0
+153114,2025-01-16T02:30Z,Australian Open,Ben Shelton,Pablo Carreno Busta,,,1.0
+153119,2025-01-16T02:45Z,Australian Open,Tristan Boyer,Alex de Minaur,,,0.0
+153141,2025-01-16T03:00Z,Australian Open,Corentin Moutet,Mitchell Krueger,,,1.0
+153088,2025-01-16T03:15Z,Australian Open,Taylor Fritz,Cristian Garin,,,1.0
+153131,2025-01-16T03:55Z,Australian Open,Marcos Giron,Tomas Martin Etcheverry,,,1.0
+153126,2025-01-16T05:05Z,Australian Open,Alex Michelsen,James McCabe,,,1.0
+153135,2025-01-16T05:30Z,Australian Open,Fabian Marozsan,Frances Tiafoe,,,1.0
+153112,2025-01-16T06:05Z,Australian Open,Joao Fonseca,Lorenzo Sonego,,,0.0
+153125,2025-01-16T06:15Z,Australian Open,Matteo Berrettini,Holger Rune,,,0.0
+153133,2025-01-16T08:15Z,Australian Open,Jannik Sinner,Tristan Schoolkate,,,1.0
+153123,2025-01-16T11:05Z,Australian Open,Learner Tien,Daniil Medvedev,,,1.0
+153087,2025-01-17T02:10Z,Australian Open,Roberto Carballes Baena,Tommy Paul,,,0.0
+153130,2025-01-17T03:10Z,Australian Open,Nuno Borges,Carlos Alcaraz,,,0.0
+153081,2025-01-17T04:00Z,Australian Open,Jacob Fearnley,Alexander Zverev,,,0.0
+153091,2025-01-17T04:35Z,Australian Open,Jakub Mensik,Alejandro Davidovich Fokina,,,0.0
+153095,2025-01-17T07:55Z,Australian Open,Ugo Humbert,Arthur Fils,,,1.0
+153139,2025-01-17T08:15Z,Australian Open,Novak Djokovic,Tomas Machac,,,1.0
+153137,2025-01-17T08:30Z,Australian Open,Jiri Lehecka,Benjamin Bonzi,,,1.0
+153124,2025-01-17T09:55Z,Australian Open,Jack Draper,Aleksandar Vukic,,,1.0
+153090,2025-01-18T00:15Z,Australian Open,Alex Michelsen,Karen Khachanov,,,1.0
+153110,2025-01-18T03:10Z,Australian Open,Francisco Cerundolo,Alex de Minaur,,,0.0
+153113,2025-01-18T03:10Z,Australian Open,Taylor Fritz,Gael Monfils,,,0.0
+153134,2025-01-18T04:25Z,Australian Open,Lorenzo Sonego,Fabian Marozsan,,,1.0
+153136,2025-01-18T04:40Z,Australian Open,Corentin Moutet,Learner Tien,,,0.0
+153111,2025-01-18T06:05Z,Australian Open,Ben Shelton,Lorenzo Musetti,,,1.0
+153118,2025-01-18T08:10Z,Australian Open,Jannik Sinner,Marcos Giron,,,1.0
+153089,2025-01-18T10:20Z,Australian Open,Miomir Kecmanovic,Holger Rune,,,0.0
+153094,2025-01-19T04:35Z,Australian Open,Alejandro Davidovich Fokina,Tommy Paul,,,0.0
+153086,2025-01-19T05:00Z,Australian Open,Jack Draper,Carlos Alcaraz,,,0.0
+153079,2025-01-19T07:10Z,Australian Open,Ugo Humbert,Alexander Zverev,,,0.0
+153092,2025-01-19T08:15Z,Australian Open,Novak Djokovic,Jiri Lehecka,,,1.0
+153140,2025-01-20T03:10Z,Australian Open,Jannik Sinner,Holger Rune,,,1.0
+153128,2025-01-20T04:35Z,Australian Open,Lorenzo Sonego,Learner Tien,,,1.0
+153121,2025-01-20T05:45Z,Australian Open,Gael Monfils,Ben Shelton,,,0.0
+153138,2025-01-20T09:35Z,Australian Open,Alex Michelsen,Alex de Minaur,,,0.0
+153107,2025-01-21T03:15Z,Australian Open,Tommy Paul,Alexander Zverev,,,0.0
+153103,2025-01-21T10:20Z,Australian Open,Novak Djokovic,Carlos Alcaraz,,,1.0
+153105,2025-01-22T04:40Z,Australian Open,Ben Shelton,Lorenzo Sonego,,,1.0
+153104,2025-01-22T09:25Z,Australian Open,Jannik Sinner,Alex de Minaur,,,1.0
+153117,2025-01-24T03:45Z,Australian Open,Novak Djokovic,Alexander Zverev,,,0.0
+153096,2025-01-24T08:45Z,Australian Open,Jannik Sinner,Ben Shelton,,,1.0
+153116,2025-01-26T08:45Z,Australian Open,Jannik Sinner,Alexander Zverev,,,1.0
+153439,2025-01-06T05:10Z,Australian Open,Hanna Chang,Varvara Lepchenko,,,0.0
+153442,2025-01-06T05:10Z,Australian Open,Lucrezia Stefanini,Leyre Romero Gormaz,,,0.0
+153444,2025-01-06T05:10Z,Australian Open,Heather Watson,Lola Radivojevic,,,1.0
+153451,2025-01-06T05:10Z,Australian Open,Harriet Dart,Lizette Cabrera,,,1.0
+153452,2025-01-06T05:10Z,Australian Open,Mona Barthel,Taylah Preston,,,0.0
+153466,2025-01-06T05:10Z,Australian Open,Anca Todoni,Victoria Jimenez Kasintseva,,,1.0
+153487,2025-01-06T06:30Z,Australian Open,Anna Karolina Schmiedlova,Tina Nadine Smith,,,1.0
+153480,2025-01-06T06:35Z,Australian Open,Rebeka Masarova,Irene Burillo,,,1.0
+153486,2025-01-06T06:45Z,Australian Open,Elena-Gabriela Ruse,Leonie Kung,,,1.0
+153478,2025-01-06T06:55Z,Australian Open,Simona Waltert,Barbora Palicova,,,0.0
+153488,2025-01-06T06:55Z,Australian Open,Anna-Lena Friedsam,Aliona Bolsova,,,1.0
+153445,2025-01-06T07:15Z,Australian Open,Ekaterina Makarova,Noma Noha Akugue,,,1.0
+153446,2025-01-06T07:35Z,Australian Open,Nao Hibino,Marina Stakusic,,,1.0
+153479,2025-01-06T08:10Z,Australian Open,Emiliana Arango,Daria Snigur,,,0.0
+153461,2025-01-06T08:20Z,Australian Open,Panna Udvardy,Melisa Ercan,,,1.0
+153459,2025-01-06T08:30Z,Australian Open,Ana Bogdan,Destanee Aiava,,,0.0
+153437,2025-01-06T08:35Z,Australian Open,Lanlana Tararudee,Tamara Zidansek,,,0.0
+153483,2025-01-06T09:20Z,Australian Open,Arianne Hartono,Emina Bektas,,,0.0
+153433,2025-01-06T09:50Z,Australian Open,Miriam Bulgaru,Giorgia Pedone,,,1.0
+153449,2025-01-06T09:50Z,Australian Open,Raluka Serban,Jessika Ponchet,,,1.0
+153430,2025-01-06T10:10Z,Australian Open,Lea Boskovic,Julia Riera,,,0.0
+153484,2025-01-06T10:25Z,Australian Open,Alice Tubello,Maria Timofeeva,,,0.0
+153436,2025-01-06T23:05Z,Australian Open,Manon Leonard,Renata Jamrichova,,,0.0
+153447,2025-01-06T23:05Z,Australian Open,Mariam Bolkvadze,Antonia Ruzic,,,1.0
+153448,2025-01-06T23:05Z,Australian Open,Lina Glushko,Leolia Jeanjean,,,0.0
+153450,2025-01-06T23:05Z,Australian Open,Zhu Lin,Selena Janicijevic,,,0.0
+153462,2025-01-06T23:05Z,Australian Open,Solana Sierra,Lucija Ciric Bagaric,,,0.0
+153465,2025-01-06T23:05Z,Australian Open,Alycia Parks,Mirjam Bjorklund,,,0.0
+153491,2025-01-06T23:05Z,Australian Open,Claire Liu,Ella Seidel,,,0.0
+153432,2025-01-06T23:10Z,Australian Open,Elsa Jacquemot,Maddison Inglis,,,0.0
+153435,2025-01-06T23:10Z,Australian Open,Sara Sorribes Tormo,Jaimee Fourlis,,,1.0
+153440,2025-01-06T23:10Z,Australian Open,Darja Semenistaja,Carole Monnet,,,0.0
+153457,2025-01-07T00:15Z,Australian Open,Hanne Vandewinkel,Eva Lys,,,0.0
+153463,2025-01-07T01:00Z,Australian Open,Viktoria Hruncakova,Sinja Kraus,,,0.0
+153458,2025-01-07T01:45Z,Australian Open,Alexandra Eala,Jana Fett,,,0.0
+153472,2025-01-07T02:00Z,Australian Open,Kimberly Birrell,Sara Saito,,,1.0
+153473,2025-01-07T02:05Z,Australian Open,Usue Maitane Arconada,Priscilla Hon,,,0.0
+153469,2025-01-07T02:20Z,Australian Open,Robin Montgomery,Polona Hercog,,,1.0
+153464,2025-01-07T02:55Z,Australian Open,Oksana Selekhmeteva,Dalma Galfi,,,1.0
+153468,2025-01-07T03:00Z,Australian Open,Aliaksandra Sasnovich,Wei Sijia,,,0.0
+153471,2025-01-07T03:00Z,Australian Open,Mai Hontama,Astra Sharma,,,0.0
+153456,2025-01-07T03:05Z,Australian Open,Aliona Falei,Arina Rodionova,,,0.0
+153467,2025-01-07T03:05Z,Australian Open,Tamara Korpatsch,Nuria Brancaccio,,,1.0
+153470,2025-01-07T03:15Z,Australian Open,Celine Naef,Nina Stojanovic,,,0.0
+153455,2025-01-07T03:30Z,Australian Open,Laura Pigossi,Guiomar Maristany Zuleta De Reales,,,1.0
+153453,2025-01-07T03:40Z,Australian Open,Sachia Vickery,Ana Konjuh,,,1.0
+153441,2025-01-07T04:10Z,Australian Open,Sara Errani,Alina Korneeva,,,1.0
+153454,2025-01-07T04:40Z,Australian Open,Sayaka Ishii,Aoi Ito,,,1.0
+153431,2025-01-07T05:00Z,Australian Open,Polina Kudermetova,Susan Bandecchi,,,1.0
+153460,2025-01-07T05:15Z,Australian Open,Viktorija Golubic,Anastasiia Sobolieva,,,1.0
+153443,2025-01-07T05:30Z,Australian Open,Brenda Fruhvirtova,Ysaline Bonaventure,,,1.0
+153481,2025-01-07T05:30Z,Australian Open,Petra Martic,Petra Hule,,,1.0
+153489,2025-01-07T05:35Z,Australian Open,Kristina Mladenovic,Louisa Chirico,,,1.0
+153492,2025-01-07T06:20Z,Australian Open,Veronika Erjavec,Alana Subasic,,,1.0
+153493,2025-01-07T06:30Z,Australian Open,Marina Bassols Ribera,Mananchaya Sawangkaew,,,0.0
+153438,2025-01-07T06:45Z,Australian Open,Yuriko Lily Miyazaki,Marie Benoit,,,0.0
+153434,2025-01-07T07:15Z,Australian Open,Dominika Salkova,Maja Chwalinska,,,0.0
+153482,2025-01-07T08:00Z,Australian Open,Gao Xinyu,Anouk Koevermans,,,1.0
+153490,2025-01-07T08:00Z,Australian Open,Elena Pridankina,Elena Micic,,,0.0
+153477,2025-01-07T08:10Z,Australian Open,Sara Bejlek,Kathinka von Deichmann,,,1.0
+153474,2025-01-07T08:20Z,Australian Open,Linda Fruhvirtova,Francesca Jones,,,0.0
+153485,2025-01-07T09:00Z,Australian Open,Darya Astakhova,Ena Shibahara,,,1.0
+153475,2025-01-07T09:20Z,Australian Open,Shi Han,Jil Teichmann,,,0.0
+153476,2025-01-07T09:30Z,Australian Open,Anastasia Zakharova,Kyoka Okamura,,,1.0
+153502,2025-01-07T23:10Z,Australian Open,Sinja Kraus,Jana Fett,,,0.0
+153505,2025-01-07T23:10Z,Australian Open,Mirjam Bjorklund,Lucija Ciric Bagaric,,,0.0
+153509,2025-01-07T23:10Z,Australian Open,Leolia Jeanjean,Ella Seidel,,,1.0
+153512,2025-01-07T23:10Z,Australian Open,Selena Janicijevic,Mariam Bolkvadze,,,1.0
+153513,2025-01-07T23:10Z,Australian Open,Heather Watson,Varvara Lepchenko,,,0.0
+153516,2025-01-07T23:10Z,Australian Open,Anca Todoni,Leyre Romero Gormaz,,,1.0
+153523,2025-01-07T23:10Z,Australian Open,Anna Karolina Schmiedlova,Rebeka Masarova,,,0.0
+153524,2025-01-07T23:10Z,Australian Open,Barbora Palicova,Daria Snigur,,,0.0
+153511,2025-01-08T00:40Z,Australian Open,Tamara Zidansek,Raluka Serban,,,1.0
+153510,2025-01-08T00:45Z,Australian Open,Elena-Gabriela Ruse,Anna-Lena Friedsam,,,1.0
+153503,2025-01-08T00:50Z,Australian Open,Miriam Bulgaru,Julia Riera,,,0.0
+153514,2025-01-08T01:15Z,Australian Open,Carole Monnet,Renata Jamrichova,,,1.0
+153501,2025-01-08T01:20Z,Australian Open,Harriet Dart,Taylah Preston,,,1.0
+153497,2025-01-08T01:30Z,Australian Open,Sara Sorribes Tormo,Maddison Inglis,,,0.0
+153507,2025-01-08T01:45Z,Australian Open,Emina Bektas,Maria Timofeeva,,,1.0
+153498,2025-01-08T01:50Z,Australian Open,Ekaterina Makarova,Nao Hibino,,,0.0
+153518,2025-01-08T03:05Z,Australian Open,Arina Rodionova,Eva Lys,,,0.0
+153519,2025-01-08T03:40Z,Australian Open,Kimberly Birrell,Priscilla Hon,,,1.0
+153515,2025-01-08T03:50Z,Australian Open,Tamara Korpatsch,Wei Sijia,,,0.0
+153520,2025-01-08T03:50Z,Australian Open,Astra Sharma,Oksana Selekhmeteva,,,0.0
+153517,2025-01-08T03:55Z,Australian Open,Destanee Aiava,Panna Udvardy,,,1.0
+153525,2025-01-08T04:25Z,Australian Open,Robin Montgomery,Nina Stojanovic,,,0.0
+153496,2025-01-08T04:30Z,Australian Open,Marie Benoit,Maja Chwalinska,,,0.0
+153499,2025-01-08T04:40Z,Australian Open,Sara Errani,Brenda Fruhvirtova,,,0.0
+153508,2025-01-08T05:40Z,Australian Open,Petra Martic,Gao Xinyu,,,1.0
+153506,2025-01-08T06:10Z,Australian Open,Veronika Erjavec,Mananchaya Sawangkaew,,,1.0
+153521,2025-01-08T06:25Z,Australian Open,Anastasia Zakharova,Sara Bejlek,,,0.0
+153504,2025-01-08T06:35Z,Australian Open,Polina Kudermetova,Kristina Mladenovic,,,1.0
+153500,2025-01-08T06:55Z,Australian Open,Sachia Vickery,Sayaka Ishii,,,1.0
+153494,2025-01-08T07:05Z,Australian Open,Viktorija Golubic,Laura Pigossi,,,1.0
+153495,2025-01-08T07:10Z,Australian Open,Elena Micic,Darya Astakhova,,,1.0
+153522,2025-01-08T07:40Z,Australian Open,Francesca Jones,Jil Teichmann,,,0.0
+153528,2025-01-09T00:05Z,Australian Open,Rebeka Masarova,Daria Snigur,,,0.0
+153530,2025-01-09T00:05Z,Australian Open,Selena Janicijevic,Leolia Jeanjean,,,0.0
+153532,2025-01-09T00:05Z,Australian Open,Anca Todoni,Varvara Lepchenko,,,1.0
+153533,2025-01-09T00:05Z,Australian Open,Carole Monnet,Tamara Zidansek,,,0.0
+153541,2025-01-09T00:05Z,Australian Open,Lucija Ciric Bagaric,Jana Fett,,,0.0
+153526,2025-01-09T01:35Z,Australian Open,Harriet Dart,Nao Hibino,,,0.0
+153531,2025-01-09T01:40Z,Australian Open,Elena-Gabriela Ruse,Emina Bektas,,,1.0
+153538,2025-01-09T02:05Z,Australian Open,Maddison Inglis,Julia Riera,,,0.0
+153534,2025-01-09T02:30Z,Australian Open,Destanee Aiava,Eva Lys,,,1.0
+153527,2025-01-09T03:35Z,Australian Open,Viktorija Golubic,Sachia Vickery,,,1.0
+153535,2025-01-09T03:45Z,Australian Open,Nina Stojanovic,Wei Sijia,,,0.0
+153540,2025-01-09T04:30Z,Australian Open,Brenda Fruhvirtova,Maja Chwalinska,,,0.0
+153536,2025-01-09T04:40Z,Australian Open,Kimberly Birrell,Oksana Selekhmeteva,,,1.0
+153537,2025-01-09T05:10Z,Australian Open,Sara Bejlek,Jil Teichmann,,,1.0
+153529,2025-01-09T06:00Z,Australian Open,Petra Martic,Veronika Erjavec,,,0.0
+153539,2025-01-09T06:00Z,Australian Open,Polina Kudermetova,Elena Micic,,,1.0
+153056,2025-01-12T00:10Z,Australian Open,Marie Bouzkova,Mirra Andreeva,,,0.0
+153062,2025-01-12T00:10Z,Australian Open,Bernarda Pera,Tatjana Maria,,,0.0
+153069,2025-01-12T00:10Z,Australian Open,Veronika Erjavec,Suzan Lamens,,,0.0
+153075,2025-01-12T00:10Z,Australian Open,Yuliia Starodubtseva,Leylah Fernandez,,,0.0
+153055,2025-01-12T00:40Z,Australian Open,Anca Todoni,Zheng Qinwen,,,0.0
+153053,2025-01-12T03:40Z,Australian Open,Diane Parry,Donna Vekic,,,0.0
+153024,2025-01-12T07:10Z,Australian Open,Paula Badosa,Wang Xinyu,,,1.0
+153060,2025-01-12T07:30Z,Australian Open,Clara Tauson,Linda Noskova,,,1.0
+153041,2025-01-12T07:40Z,Australian Open,Sonay Kartal,Jessica Bouzas Maneiro,,,0.0
+153038,2025-01-12T08:15Z,Australian Open,Aryna Sabalenka,Sloane Stephens,,,1.0
+153076,2025-01-12T09:20Z,Australian Open,Cristina Bucsa,Chloe Paquet,,,1.0
+153064,2025-01-12T10:50Z,Australian Open,Anna Blinkova,Daria Saville,,,1.0
+153015,2025-01-13T00:10Z,Australian Open,Liudmila Samsonova,Kamilla Rakhimova,,,1.0
+153022,2025-01-13T00:10Z,Australian Open,Zeynep Sonmez,Talia Gibson,,,0.0
+153046,2025-01-13T00:10Z,Australian Open,Arantxa Rus,Olga Danilovic,,,0.0
+153052,2025-01-13T00:10Z,Australian Open,Laura Siegemund,Hailey Baptiste,,,1.0
+153057,2025-01-13T00:10Z,Australian Open,Moyuka Uchijima,Magda Linette,,,1.0
+153059,2025-01-13T00:10Z,Australian Open,Diana Shnaider,Elisabetta Cocciaretto,,,1.0
+153067,2025-01-13T00:10Z,Australian Open,Rebecca Sramkova,Katie Volynets,,,1.0
+153078,2025-01-13T00:10Z,Australian Open,Leolia Jeanjean,Jodie Burrage,,,0.0
+153058,2025-01-13T00:40Z,Australian Open,Ajla Tomljanovic,Ashlyn Krueger,,,1.0
+153077,2025-01-13T00:40Z,Australian Open,Coco Gauff,Sofia Kenin,,,1.0
+153066,2025-01-13T01:40Z,Australian Open,Magdalena Frech,Polina Kudermetova,,,1.0
+153042,2025-01-13T01:50Z,Australian Open,Elina Svitolina,Sorana Cirstea,,,1.0
+153029,2025-01-13T02:30Z,Australian Open,Lucia Bronzetti,Victoria Azarenka,,,1.0
+153068,2025-01-13T02:55Z,Australian Open,Harriet Dart,Jana Fett,,,1.0
+153044,2025-01-13T03:20Z,Australian Open,Sara Bejlek,Caroline Dolehide,,,0.0
+153065,2025-01-13T03:20Z,Australian Open,Katerina Siniakova,Iga Swiatek,,,0.0
+153051,2025-01-13T03:45Z,Australian Open,Tamara Zidansek,Anastasia Potapova,,,0.0
+153025,2025-01-13T04:45Z,Australian Open,Belinda Bencic,Jelena Ostapenko,,,1.0
+153054,2025-01-13T05:15Z,Australian Open,Anastasia Pavlyuchenkova,Yuan Yue,,,1.0
+153018,2025-01-13T05:20Z,Australian Open,Jule Niemeier,Maja Chwalinska,,,1.0
+153074,2025-01-13T06:15Z,Australian Open,Maya Joint,Jessica Pegula,,,0.0
+153039,2025-01-13T06:25Z,Australian Open,Petra Martic,Jaqueline Cristian,,,0.0
+153016,2025-01-13T06:55Z,Australian Open,Nao Hibino,Marta Kostyuk,,,0.0
+153071,2025-01-13T08:00Z,Australian Open,Elise Mertens,Viktorija Golubic,,,1.0
+153017,2025-01-13T09:00Z,Australian Open,Greet Minnen,Destanee Aiava,,,0.0
+153072,2025-01-13T09:15Z,Australian Open,Karolina Muchova,Nadia Podoroska,,,1.0
+153020,2025-01-13T10:25Z,Australian Open,Daria Snigur,Danielle Collins,,,0.0
+153070,2025-01-13T11:35Z,Australian Open,Naomi Osaka,Caroline Garcia,,,1.0
+153021,2025-01-14T00:10Z,Australian Open,Beatriz Haddad Maia,Julia Riera,,,1.0
+153030,2025-01-14T00:10Z,Australian Open,Anna Bondar,Wang Yafan,,,0.0
+153033,2025-01-14T00:10Z,Australian Open,Viktoriya Tomova,Daria Kasatkina,,,0.0
+153035,2025-01-14T00:10Z,Australian Open,Wang Xiyu,Julia Grabher,,,1.0
+153047,2025-01-14T00:10Z,Australian Open,Zheng Saisai,Erika Andreeva,,,0.0
+153061,2025-01-14T00:10Z,Australian Open,Maria Lourdes Carle,Amanda Anisimova,,,0.0
+153063,2025-01-14T00:10Z,Australian Open,Ekaterina Alexandrova,Emma Raducanu,,,0.0
+153050,2025-01-14T00:40Z,Australian Open,Emma Navarro,Peyton Stearns,,,1.0
+153023,2025-01-14T02:50Z,Australian Open,Nuria Parrizas Diaz,Iva Jovic,,,0.0
+153028,2025-01-14T02:50Z,Australian Open,Mayar Sherif,Dayana Yastremska,,,0.0
+153032,2025-01-14T03:35Z,Australian Open,Eva Lys,Kimberly Birrell,,,1.0
+153040,2025-01-14T04:00Z,Australian Open,Varvara Gracheva,Catherine McNally,,,1.0
+153027,2025-01-14T04:15Z,Australian Open,Danka Kovinic,Lulu Sun,,,1.0
+153073,2025-01-14T04:15Z,Australian Open,Elena Rybakina,Emerson Jones,,,1.0
+153036,2025-01-14T04:35Z,Australian Open,Yulia Putintseva,Elina Avanesyan,,,1.0
+153019,2025-01-14T04:40Z,Australian Open,Irina-Camelia Begu,Elena-Gabriela Ruse,,,0.0
+153031,2025-01-14T04:45Z,Australian Open,Zhang Shuai,McCartney Kessler,,,1.0
+153026,2025-01-14T06:10Z,Australian Open,Madison Keys,Ann Li,,,1.0
+153048,2025-01-14T08:10Z,Australian Open,Wei Sijia,Jasmine Paolini,,,0.0
+153034,2025-01-14T08:50Z,Australian Open,Anhelina Kalinina,Ons Jabeur,,,0.0
+153049,2025-01-14T08:50Z,Australian Open,Taylor Townsend,Renata Zarazua,,,0.0
+153037,2025-01-14T09:10Z,Australian Open,Camila Osorio,Maria Sakkari,,,1.0
+153043,2025-01-14T09:35Z,Australian Open,Rebecca Marino,Katie Boulter,,,0.0
+153045,2025-01-14T11:05Z,Australian Open,Veronika Kudermetova,Olivia Gadecki,,,1.0
+153008,2025-01-15T00:10Z,Australian Open,Laura Siegemund,Zheng Qinwen,,,1.0
+152964,2025-01-15T00:40Z,Australian Open,Magdalena Frech,Anna Blinkova,,,1.0
+152966,2025-01-15T00:40Z,Australian Open,Moyuka Uchijima,Mirra Andreeva,,,0.0
+152974,2025-01-15T00:40Z,Australian Open,Tatjana Maria,Clara Tauson,,,0.0
+152977,2025-01-15T00:40Z,Australian Open,Elise Mertens,Jessica Pegula,,,0.0
+152985,2025-01-15T00:40Z,Australian Open,Liudmila Samsonova,Olga Danilovic,,,0.0
+152987,2025-01-15T00:40Z,Australian Open,Aryna Sabalenka,Jessica Bouzas Maneiro,,,1.0
+152998,2025-01-15T00:45Z,Australian Open,Suzan Lamens,Belinda Bencic,,,0.0
+153004,2025-01-15T02:05Z,Australian Open,Karolina Muchova,Naomi Osaka,,,0.0
+153007,2025-01-15T02:45Z,Australian Open,Cristina Bucsa,Leylah Fernandez,,,0.0
+152956,2025-01-15T04:20Z,Australian Open,Anastasia Pavlyuchenkova,Anastasia Potapova,,,1.0
+152958,2025-01-15T06:10Z,Australian Open,Diana Shnaider,Ajla Tomljanovic,,,1.0
+153006,2025-01-15T08:15Z,Australian Open,Coco Gauff,Jodie Burrage,,,1.0
+152991,2025-01-15T09:10Z,Australian Open,Jule Niemeier,Marta Kostyuk,,,0.0
+152962,2025-01-15T09:20Z,Australian Open,Harriet Dart,Donna Vekic,,,0.0
+152992,2025-01-15T11:15Z,Australian Open,Paula Badosa,Talia Gibson,,,1.0
+152960,2025-01-16T00:10Z,Australian Open,Danka Kovinic,Dayana Yastremska,,,0.0
+152968,2025-01-16T00:10Z,Australian Open,Wang Yafan,Daria Kasatkina,,,0.0
+152972,2025-01-16T00:10Z,Australian Open,Emma Raducanu,Amanda Anisimova,,,1.0
+152986,2025-01-16T00:10Z,Australian Open,Ons Jabeur,Camila Osorio,,,1.0
+152980,2025-01-16T00:40Z,Australian Open,Emma Navarro,Wang Xiyu,,,1.0
+153010,2025-01-16T00:45Z,Australian Open,Rebecca Sramkova,Iga Swiatek,,,0.0
+152988,2025-01-16T01:40Z,Australian Open,Yulia Putintseva,Zhang Shuai,,,1.0
+152965,2025-01-16T02:25Z,Australian Open,Elena Rybakina,Iva Jovic,,,1.0
+152959,2025-01-16T04:15Z,Australian Open,Eva Lys,Varvara Gracheva,,,1.0
+152993,2025-01-16T04:20Z,Australian Open,Beatriz Haddad Maia,Erika Andreeva,,,1.0
+152970,2025-01-16T05:00Z,Australian Open,Jaqueline Cristian,Lucia Bronzetti,,,1.0
+152999,2025-01-16T07:00Z,Australian Open,Elina Svitolina,Caroline Dolehide,,,1.0
+153000,2025-01-16T07:35Z,Australian Open,Veronika Kudermetova,Katie Boulter,,,1.0
+152952,2025-01-16T08:10Z,Australian Open,Madison Keys,Elena-Gabriela Ruse,,,1.0
+153009,2025-01-16T09:00Z,Australian Open,Destanee Aiava,Danielle Collins,,,0.0
+152979,2025-01-16T11:25Z,Australian Open,Renata Zarazua,Jasmine Paolini,,,0.0
+153003,2025-01-17T00:10Z,Australian Open,Anastasia Pavlyuchenkova,Laura Siegemund,,,1.0
+153005,2025-01-17T00:40Z,Australian Open,Diana Shnaider,Donna Vekic,,,0.0
+152954,2025-01-17T00:45Z,Australian Open,Aryna Sabalenka,Clara Tauson,,,1.0
+152995,2025-01-17T01:45Z,Australian Open,Paula Badosa,Marta Kostyuk,,,1.0
+153013,2025-01-17T04:05Z,Australian Open,Magdalena Frech,Mirra Andreeva,,,0.0
+152989,2025-01-17T06:10Z,Australian Open,Naomi Osaka,Belinda Bencic,,,0.0
+152997,2025-01-17T08:15Z,Australian Open,Coco Gauff,Leylah Fernandez,,,1.0
+152990,2025-01-17T11:00Z,Australian Open,Olga Danilovic,Jessica Pegula,,,1.0
+152953,2025-01-18T00:40Z,Australian Open,Emma Navarro,Ons Jabeur,,,1.0
+153001,2025-01-18T00:40Z,Australian Open,Emma Raducanu,Iga Swiatek,,,0.0
+153012,2025-01-18T01:40Z,Australian Open,Eva Lys,Jaqueline Cristian,,,1.0
+153011,2025-01-18T02:10Z,Australian Open,Yulia Putintseva,Daria Kasatkina,,,0.0
+152983,2025-01-18T03:10Z,Australian Open,Elena Rybakina,Dayana Yastremska,,,1.0
+152975,2025-01-18T05:15Z,Australian Open,Beatriz Haddad Maia,Veronika Kudermetova,,,0.0
+152967,2025-01-18T08:10Z,Australian Open,Elina Svitolina,Jasmine Paolini,,,1.0
+152973,2025-01-18T10:40Z,Australian Open,Madison Keys,Danielle Collins,,,1.0
+152971,2025-01-19T00:35Z,Australian Open,Aryna Sabalenka,Mirra Andreeva,,,1.0
+152978,2025-01-19T02:05Z,Australian Open,Coco Gauff,Belinda Bencic,,,1.0
+152982,2025-01-19T02:45Z,Australian Open,Donna Vekic,Anastasia Pavlyuchenkova,,,0.0
+152976,2025-01-19T02:50Z,Australian Open,Paula Badosa,Olga Danilovic,,,1.0
+152957,2025-01-20T00:40Z,Australian Open,Veronika Kudermetova,Elina Svitolina,,,0.0
+152969,2025-01-20T03:30Z,Australian Open,Elena Rybakina,Madison Keys,,,0.0
+152955,2025-01-20T07:20Z,Australian Open,Emma Navarro,Daria Kasatkina,,,1.0
+152994,2025-01-20T08:15Z,Australian Open,Eva Lys,Iga Swiatek,,,0.0
+153002,2025-01-21T00:40Z,Australian Open,Coco Gauff,Paula Badosa,,,0.0
+152996,2025-01-21T08:05Z,Australian Open,Aryna Sabalenka,Anastasia Pavlyuchenkova,,,1.0
+152984,2025-01-22T00:40Z,Australian Open,Madison Keys,Elina Svitolina,,,1.0
+152981,2025-01-22T02:50Z,Australian Open,Emma Navarro,Iga Swiatek,,,0.0
+152961,2025-01-23T08:45Z,Australian Open,Aryna Sabalenka,Paula Badosa,,,1.0
+152963,2025-01-23T10:35Z,Australian Open,Madison Keys,Iga Swiatek,,,1.0
+153014,2025-01-25T08:45Z,Australian Open,Aryna Sabalenka,Madison Keys,,,0.0
+154212,2025-01-26T09:30Z,Open Occitanie,Alibek Kachmazov,Alejandro Moro Canas,,,1.0
+154215,2025-01-26T09:30Z,Open Occitanie,Hugo Grenier,Calvin Hemery,,,1.0
+154213,2025-01-26T11:00Z,Open Occitanie,Terence Atmane,Clement Chidekh,,,1.0
+154211,2025-01-26T11:00Z,Open Occitanie,Aleksandar Kovacevic,Robin Bertrand,,,1.0
+154209,2025-01-26T12:30Z,Open Occitanie,Dalibor Svrcina,Pablo Carreno Busta,,,0.0
+154208,2025-01-26T12:30Z,Open Occitanie,Benoit Paire,Constant Lestienne,,,0.0
+154210,2025-01-26T14:00Z,Open Occitanie,Matteo Gigante,Nikoloz Basilashvili,,,0.0
+154214,2025-01-26T14:00Z,Open Occitanie,Valentin Royer,Titouan Droguet,,,0.0
+154217,2025-01-27T11:00Z,Open Occitanie,Terence Atmane,Constant Lestienne,,,0.0
+154216,2025-01-27T11:00Z,Open Occitanie,Hugo Grenier,Alibek Kachmazov,,,0.0
+154219,2025-01-27T12:30Z,Open Occitanie,Nikoloz Basilashvili,Titouan Droguet,,,1.0
+154218,2025-01-27T12:30Z,Open Occitanie,Aleksandar Kovacevic,Pablo Carreno Busta,,,1.0
+152930,2025-01-27T15:40Z,Open Occitanie,Bu Yunchaokete,Daniel Altmaier,,,1.0
+152926,2025-01-27T17:40Z,Open Occitanie,Stan Wawrinka,Arthur Cazaux,,,0.0
+152936,2025-01-27T19:35Z,Open Occitanie,Gregoire Barrere,Dominik Koepfer,,,0.0
+152924,2025-01-28T11:40Z,Open Occitanie,Christopher Eubanks,Alibek Kachmazov,,,1.0
+152922,2025-01-28T13:15Z,Open Occitanie,Borna Coric,Constant Lestienne,,,0.0
+152945,2025-01-28T13:45Z,Open Occitanie,Tallon Griekspoor,Botic Van De Zandschulp,,,1.0
+152942,2025-01-28T15:35Z,Open Occitanie,Mattia Bellucci,Lucas Pouille,,,1.0
+152938,2025-01-28T17:40Z,Open Occitanie,Adrian Mannarino,Richard Gasquet,,,0.0
+152934,2025-01-28T19:15Z,Open Occitanie,Harold Mayot,Arthur Rinderknech,,,0.0
+152928,2025-01-29T11:40Z,Open Occitanie,Nikoloz Basilashvili,Mikhail Kukushkin,,,1.0
+152950,2025-01-29T13:40Z,Open Occitanie,Jesper de Jong,Quentin Halys,,,1.0
+152947,2025-01-29T13:45Z,Open Occitanie,Aleksandar Kovacevic,David Goffin,,,1.0
+152939,2025-01-29T15:15Z,Open Occitanie,Andrey Rublev,Christopher Eubanks,,,1.0
+152927,2025-01-29T15:55Z,Open Occitanie,Bu Yunchaokete,Constant Lestienne,,,1.0
+152935,2025-01-29T17:40Z,Open Occitanie,Arthur Cazaux,Felix Auger-Aliassime,,,0.0
+152949,2025-01-29T19:45Z,Open Occitanie,Alexander Bublik,Dominik Koepfer,,,1.0
+152925,2025-01-30T13:40Z,Open Occitanie,Jesper de Jong,Flavio Cobolli,,,1.0
+152931,2025-01-30T15:55Z,Open Occitanie,Mattia Bellucci,Aleksandar Kovacevic,,,0.0
+152932,2025-01-30T18:00Z,Open Occitanie,Tallon Griekspoor,Richard Gasquet,,,1.0
+152941,2025-01-30T20:30Z,Open Occitanie,Nikoloz Basilashvili,Arthur Rinderknech,,,1.0
+152943,2025-01-31T13:40Z,Open Occitanie,Bu Yunchaokete,Felix Auger-Aliassime,,,0.0
+152944,2025-01-31T15:20Z,Open Occitanie,Tallon Griekspoor,Jesper de Jong,,,0.0
+152933,2025-01-31T17:40Z,Open Occitanie,Andrey Rublev,Nikoloz Basilashvili,,,1.0
+152923,2025-01-31T18:45Z,Open Occitanie,Alexander Bublik,Aleksandar Kovacevic,,,0.0
+152946,2025-02-01T14:10Z,Open Occitanie,Jesper de Jong,Felix Auger-Aliassime,,,0.0
+152948,2025-02-01T16:35Z,Open Occitanie,Andrey Rublev,Aleksandar Kovacevic,,,0.0
+152940,2025-02-02T14:10Z,Open Occitanie,Aleksandar Kovacevic,Felix Auger-Aliassime,,,0.0

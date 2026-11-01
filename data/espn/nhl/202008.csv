@@ -1,0 +1,110 @@
+id,date,event,home,away,hs,as,res
+401230340,2020-08-01T16:00Z,New York Rangers at Carolina Hurricanes,Carolina Hurricanes,New York Rangers,3,2,1.0
+401230343,2020-08-01T19:00Z,Chicago Blackhawks at Edmonton Oilers,Edmonton Oilers,Chicago Blackhawks,4,6,0.0
+401230341,2020-08-01T20:00Z,Florida Panthers at New York Islanders,New York Islanders,Florida Panthers,2,1,1.0
+401230342,2020-08-02T00:00Z,Montreal Canadiens at Pittsburgh Penguins,Pittsburgh Penguins,Montreal Canadiens,2,3,0.0
+401230344,2020-08-02T02:30Z,Winnipeg Jets at Calgary Flames,Calgary Flames,Winnipeg Jets,4,1,1.0
+401230349,2020-08-02T18:00Z,Arizona Coyotes at Nashville Predators,Nashville Predators,Arizona Coyotes,3,4,0.0
+401230351,2020-08-02T19:00Z,Philadelphia Flyers at Boston Bruins,Boston Bruins,Philadelphia Flyers,1,4,0.0
+401230350,2020-08-02T22:30Z,St. Louis Blues at Colorado Avalanche,Colorado Avalanche,St. Louis Blues,2,1,1.0
+401230352,2020-08-03T00:00Z,Columbus Blue Jackets at Toronto Maple Leafs,Toronto Maple Leafs,Columbus Blue Jackets,0,2,0.0
+401230348,2020-08-03T02:30Z,Minnesota Wild at Vancouver Canucks,Vancouver Canucks,Minnesota Wild,0,3,0.0
+401230346,2020-08-03T16:00Z,New York Rangers at Carolina Hurricanes,Carolina Hurricanes,New York Rangers,4,1,1.0
+401230359,2020-08-03T18:30Z,Winnipeg Jets at Calgary Flames,Calgary Flames,Winnipeg Jets,2,3,0.0
+401230345,2020-08-03T20:00Z,Washington Capitals at Tampa Bay Lightning,Tampa Bay Lightning,Washington Capitals,3,2,1.0
+401230361,2020-08-03T22:30Z,Dallas Stars at Vegas Golden Knights,Vegas Golden Knights,Dallas Stars,5,3,1.0
+401230347,2020-08-04T00:00Z,Montreal Canadiens at Pittsburgh Penguins,Pittsburgh Penguins,Montreal Canadiens,3,1,1.0
+401230360,2020-08-04T02:30Z,Chicago Blackhawks at Edmonton Oilers,Edmonton Oilers,Chicago Blackhawks,6,3,1.0
+401230364,2020-08-04T16:00Z,Florida Panthers at New York Islanders,New York Islanders,Florida Panthers,4,2,1.0
+401230373,2020-08-04T18:30Z,Arizona Coyotes at Nashville Predators,Nashville Predators,Arizona Coyotes,4,2,1.0
+401230362,2020-08-04T20:00Z,Columbus Blue Jackets at Toronto Maple Leafs,Toronto Maple Leafs,Columbus Blue Jackets,3,0,1.0
+401230376,2020-08-04T22:45Z,Calgary Flames at Winnipeg Jets,Winnipeg Jets,Calgary Flames,2,6,0.0
+401230363,2020-08-05T00:00Z,Carolina Hurricanes at New York Rangers,New York Rangers,Carolina Hurricanes,1,4,0.0
+401230374,2020-08-05T02:45Z,Minnesota Wild at Vancouver Canucks,Vancouver Canucks,Minnesota Wild,4,3,1.0
+401230378,2020-08-05T16:00Z,New York Islanders at Florida Panthers,Florida Panthers,New York Islanders,3,2,1.0
+401230377,2020-08-05T18:30Z,Nashville Predators at Arizona Coyotes,Arizona Coyotes,Nashville Predators,4,1,1.0
+401230375,2020-08-05T20:00Z,Tampa Bay Lightning at Boston Bruins,Boston Bruins,Tampa Bay Lightning,2,3,0.0
+401230381,2020-08-05T22:30Z,Colorado Avalanche at Dallas Stars,Dallas Stars,Colorado Avalanche,0,4,0.0
+401230379,2020-08-06T00:00Z,Pittsburgh Penguins at Montreal Canadiens,Montreal Canadiens,Pittsburgh Penguins,4,3,1.0
+401230380,2020-08-06T02:30Z,Edmonton Oilers at Chicago Blackhawks,Chicago Blackhawks,Edmonton Oilers,4,3,1.0
+401230386,2020-08-06T18:30Z,Vancouver Canucks at Minnesota Wild,Minnesota Wild,Vancouver Canucks,0,3,0.0
+401230365,2020-08-06T20:00Z,Washington Capitals at Philadelphia Flyers,Philadelphia Flyers,Washington Capitals,3,1,1.0
+401230385,2020-08-06T22:30Z,Vegas Golden Knights at St. Louis Blues,St. Louis Blues,Vegas Golden Knights,4,6,0.0
+401230366,2020-08-07T00:00Z,Toronto Maple Leafs at Columbus Blue Jackets,Columbus Blue Jackets,Toronto Maple Leafs,4,3,1.0
+401230387,2020-08-07T02:30Z,Calgary Flames at Winnipeg Jets,Winnipeg Jets,Calgary Flames,0,4,0.0
+401230383,2020-08-07T16:00Z,New York Islanders at Florida Panthers,Florida Panthers,New York Islanders,1,5,0.0
+401230388,2020-08-07T18:30Z,Nashville Predators at Arizona Coyotes,Arizona Coyotes,Nashville Predators,4,3,1.0
+401230384,2020-08-07T20:00Z,Pittsburgh Penguins at Montreal Canadiens,Montreal Canadiens,Pittsburgh Penguins,2,0,1.0
+401230389,2020-08-07T23:01Z,Edmonton Oilers at Chicago Blackhawks,Chicago Blackhawks,Edmonton Oilers,3,2,1.0
+401230382,2020-08-08T00:00Z,Toronto Maple Leafs at Columbus Blue Jackets,Columbus Blue Jackets,Toronto Maple Leafs,3,4,0.0
+401230390,2020-08-08T02:45Z,Vancouver Canucks at Minnesota Wild,Minnesota Wild,Vancouver Canucks,4,5,0.0
+401230368,2020-08-08T19:00Z,Vegas Golden Knights at Colorado Avalanche,Colorado Avalanche,Vegas Golden Knights,3,4,0.0
+401230394,2020-08-09T00:00Z,Philadelphia Flyers at Tampa Bay Lightning,Tampa Bay Lightning,Philadelphia Flyers,1,4,0.0
+401230391,2020-08-09T16:00Z,Boston Bruins at Washington Capitals,Washington Capitals,Boston Bruins,2,1,1.0
+401230395,2020-08-09T19:00Z,Dallas Stars at St. Louis Blues,St. Louis Blues,Dallas Stars,1,2,0.0
+401230397,2020-08-10T00:00Z,Columbus Blue Jackets at Toronto Maple Leafs,Toronto Maple Leafs,Columbus Blue Jackets,0,3,0.0
+401235639,2020-08-11T19:00Z,Columbus Blue Jackets at Tampa Bay Lightning,Tampa Bay Lightning,Columbus Blue Jackets,3,2,1.0
+401235680,2020-08-11T21:30Z,Calgary Flames at Dallas Stars,Dallas Stars,Calgary Flames,2,3,0.0
+401235660,2020-08-12T02:30Z,Chicago Blackhawks at Vegas Golden Knights,Vegas Golden Knights,Chicago Blackhawks,4,1,1.0
+401235652,2020-08-12T15:00Z,Carolina Hurricanes at Boston Bruins,Boston Bruins,Carolina Hurricanes,4,3,1.0
+401235642,2020-08-12T20:00Z,New York Islanders at Washington Capitals,Washington Capitals,New York Islanders,2,4,0.0
+401235682,2020-08-12T21:30Z,Arizona Coyotes at Colorado Avalanche,Colorado Avalanche,Arizona Coyotes,3,0,1.0
+401235653,2020-08-13T00:00Z,Montreal Canadiens at Philadelphia Flyers,Philadelphia Flyers,Montreal Canadiens,2,1,1.0
+401235667,2020-08-13T02:30Z,Vancouver Canucks at St. Louis Blues,St. Louis Blues,Vancouver Canucks,2,5,0.0
+401235640,2020-08-13T19:00Z,Columbus Blue Jackets at Tampa Bay Lightning,Tampa Bay Lightning,Columbus Blue Jackets,1,3,0.0
+401235661,2020-08-13T21:30Z,Chicago Blackhawks at Vegas Golden Knights,Vegas Golden Knights,Chicago Blackhawks,4,3,1.0
+401235674,2020-08-14T00:00Z,Carolina Hurricanes at Boston Bruins,Boston Bruins,Carolina Hurricanes,2,3,0.0
+401235681,2020-08-14T02:30Z,Calgary Flames at Dallas Stars,Dallas Stars,Calgary Flames,5,4,1.0
+401235684,2020-08-14T18:00Z,Arizona Coyotes at Colorado Avalanche,Colorado Avalanche,Arizona Coyotes,3,2,1.0
+401235654,2020-08-14T19:00Z,Montreal Canadiens at Philadelphia Flyers,Philadelphia Flyers,Montreal Canadiens,0,5,0.0
+401235668,2020-08-14T22:30Z,Vancouver Canucks at St. Louis Blues,St. Louis Blues,Vancouver Canucks,3,4,0.0
+401235644,2020-08-15T00:00Z,New York Islanders at Washington Capitals,Washington Capitals,New York Islanders,2,5,0.0
+401235683,2020-08-15T02:30Z,Dallas Stars at Calgary Flames,Calgary Flames,Dallas Stars,2,0,1.0
+401235675,2020-08-15T16:00Z,Boston Bruins at Carolina Hurricanes,Carolina Hurricanes,Boston Bruins,1,3,0.0
+401235687,2020-08-15T19:00Z,Colorado Avalanche at Arizona Coyotes,Arizona Coyotes,Colorado Avalanche,4,2,1.0
+401235641,2020-08-15T23:30Z,Tampa Bay Lightning at Columbus Blue Jackets,Columbus Blue Jackets,Tampa Bay Lightning,2,3,0.0
+401235662,2020-08-16T00:00Z,Vegas Golden Knights at Chicago Blackhawks,Chicago Blackhawks,Vegas Golden Knights,1,2,0.0
+401235646,2020-08-16T16:00Z,Washington Capitals at New York Islanders,New York Islanders,Washington Capitals,2,1,1.0
+401235685,2020-08-16T18:00Z,Dallas Stars at Calgary Flames,Calgary Flames,Dallas Stars,4,5,0.0
+401235663,2020-08-16T22:48Z,Vegas Golden Knights at Chicago Blackhawks,Chicago Blackhawks,Vegas Golden Knights,3,1,1.0
+401235655,2020-08-17T00:00Z,Philadelphia Flyers at Montreal Canadiens,Montreal Canadiens,Philadelphia Flyers,0,1,0.0
+401235669,2020-08-17T02:30Z,St. Louis Blues at Vancouver Canucks,Vancouver Canucks,St. Louis Blues,2,3,0.0
+401235643,2020-08-17T19:00Z,Tampa Bay Lightning at Columbus Blue Jackets,Columbus Blue Jackets,Tampa Bay Lightning,1,2,0.0
+401235689,2020-08-17T21:30Z,Colorado Avalanche at Arizona Coyotes,Arizona Coyotes,Colorado Avalanche,1,7,0.0
+401235676,2020-08-18T00:00Z,Boston Bruins at Carolina Hurricanes,Carolina Hurricanes,Boston Bruins,3,4,0.0
+401235670,2020-08-18T02:30Z,St. Louis Blues at Vancouver Canucks,Vancouver Canucks,St. Louis Blues,1,3,0.0
+401235656,2020-08-18T19:00Z,Philadelphia Flyers at Montreal Canadiens,Montreal Canadiens,Philadelphia Flyers,0,2,0.0
+401235686,2020-08-18T21:30Z,Calgary Flames at Dallas Stars,Dallas Stars,Calgary Flames,2,1,1.0
+401235649,2020-08-19T00:00Z,Washington Capitals at New York Islanders,New York Islanders,Washington Capitals,2,3,0.0
+401235664,2020-08-19T02:30Z,Chicago Blackhawks at Vegas Golden Knights,Vegas Golden Knights,Chicago Blackhawks,4,3,1.0
+401235645,2020-08-19T16:00Z,Columbus Blue Jackets at Tampa Bay Lightning,Tampa Bay Lightning,Columbus Blue Jackets,5,4,1.0
+401235677,2020-08-19T20:20Z,Carolina Hurricanes at Boston Bruins,Boston Bruins,Carolina Hurricanes,2,1,1.0
+401235691,2020-08-19T21:30Z,Arizona Coyotes at Colorado Avalanche,Colorado Avalanche,Arizona Coyotes,7,1,1.0
+401235657,2020-08-20T00:00Z,Montreal Canadiens at Philadelphia Flyers,Philadelphia Flyers,Montreal Canadiens,3,5,0.0
+401235671,2020-08-20T02:30Z,Vancouver Canucks at St. Louis Blues,St. Louis Blues,Vancouver Canucks,3,4,0.0
+401235650,2020-08-21T00:00Z,New York Islanders at Washington Capitals,Washington Capitals,New York Islanders,0,4,0.0
+401235688,2020-08-21T02:30Z,Dallas Stars at Calgary Flames,Calgary Flames,Dallas Stars,3,7,0.0
+401235658,2020-08-21T23:00Z,Philadelphia Flyers at Montreal Canadiens,Montreal Canadiens,Philadelphia Flyers,2,3,0.0
+401235672,2020-08-22T01:45Z,St. Louis Blues at Vancouver Canucks,Vancouver Canucks,St. Louis Blues,6,2,1.0
+401239913,2020-08-23T00:00Z,Dallas Stars at Colorado Avalanche,Colorado Avalanche,Dallas Stars,3,5,0.0
+401239933,2020-08-24T00:00Z,Boston Bruins at Tampa Bay Lightning,Tampa Bay Lightning,Boston Bruins,2,3,0.0
+401239934,2020-08-24T02:30Z,Vancouver Canucks at Vegas Golden Knights,Vegas Golden Knights,Vancouver Canucks,5,0,1.0
+401239935,2020-08-24T23:00Z,New York Islanders at Philadelphia Flyers,Philadelphia Flyers,New York Islanders,0,4,0.0
+401239954,2020-08-25T01:45Z,Dallas Stars at Colorado Avalanche,Colorado Avalanche,Dallas Stars,2,5,0.0
+401239942,2020-08-25T23:00Z,Boston Bruins at Tampa Bay Lightning,Tampa Bay Lightning,Boston Bruins,4,3,1.0
+401239948,2020-08-26T01:45Z,Vancouver Canucks at Vegas Golden Knights,Vegas Golden Knights,Vancouver Canucks,2,5,0.0
+401239936,2020-08-26T19:00Z,New York Islanders at Philadelphia Flyers,Philadelphia Flyers,New York Islanders,4,3,1.0
+401239943,2020-08-27T00:00Z,Tampa Bay Lightning at Boston Bruins,Boston Bruins,Tampa Bay Lightning,1,7,0.0
+401239955,2020-08-27T02:30Z,Colorado Avalanche at Dallas Stars,Dallas Stars,Colorado Avalanche,4,6,0.0
+401239937,2020-08-27T23:00Z,Philadelphia Flyers at New York Islanders,New York Islanders,Philadelphia Flyers,0,0,0.5
+401239949,2020-08-28T01:45Z,Vegas Golden Knights at Vancouver Canucks,Vancouver Canucks,Vegas Golden Knights,0,0,0.5
+401239944,2020-08-28T23:30Z,Tampa Bay Lightning at Boston Bruins,Boston Bruins,Tampa Bay Lightning,0,0,0.5
+401239956,2020-08-29T02:00Z,Colorado Avalanche at Dallas Stars,Dallas Stars,Colorado Avalanche,0,0,0.5
+401239945,2020-08-29T16:00Z,Tampa Bay Lightning at Boston Bruins,Boston Bruins,Tampa Bay Lightning,1,3,0.0
+401239938,2020-08-29T23:00Z,Philadelphia Flyers at New York Islanders,New York Islanders,Philadelphia Flyers,3,1,1.0
+401239950,2020-08-30T01:45Z,Vegas Golden Knights at Vancouver Canucks,Vancouver Canucks,Vegas Golden Knights,0,3,0.0
+401239957,2020-08-30T22:00Z,Colorado Avalanche at Dallas Stars,Dallas Stars,Colorado Avalanche,5,4,1.0
+401239939,2020-08-31T00:00Z,Philadelphia Flyers at New York Islanders,New York Islanders,Philadelphia Flyers,3,2,1.0
+401239951,2020-08-31T02:30Z,Vegas Golden Knights at Vancouver Canucks,Vancouver Canucks,Vegas Golden Knights,3,5,0.0
+401239946,2020-08-31T23:00Z,Boston Bruins at Tampa Bay Lightning,Tampa Bay Lightning,Boston Bruins,3,2,1.0
+401239958,2020-09-01T01:45Z,Dallas Stars at Colorado Avalanche,Colorado Avalanche,Dallas Stars,6,3,1.0

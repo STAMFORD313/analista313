@@ -1,0 +1,231 @@
+id,date,event,home,away,hs,as,res
+401045311,2019-03-02T00:00Z,Pittsburgh Penguins at Buffalo Sabres,Buffalo Sabres,Pittsburgh Penguins,4,3,1.0
+401045312,2019-03-02T00:00Z,Philadelphia Flyers at New Jersey Devils,New Jersey Devils,Philadelphia Flyers,3,6,0.0
+401045313,2019-03-02T00:00Z,Washington Capitals at New York Islanders,New York Islanders,Washington Capitals,1,3,0.0
+401045314,2019-03-02T00:00Z,Montreal Canadiens at New York Rangers,New York Rangers,Montreal Canadiens,2,4,0.0
+401045315,2019-03-02T00:30Z,St. Louis Blues at Carolina Hurricanes,Carolina Hurricanes,St. Louis Blues,5,2,1.0
+401045316,2019-03-02T01:00Z,Nashville Predators at Winnipeg Jets,Winnipeg Jets,Nashville Predators,5,3,1.0
+401045317,2019-03-02T03:00Z,Vegas Golden Knights at Anaheim Ducks,Anaheim Ducks,Vegas Golden Knights,0,3,0.0
+401045318,2019-03-02T03:30Z,Colorado Avalanche at San Jose Sharks,San Jose Sharks,Colorado Avalanche,4,3,1.0
+401045319,2019-03-02T18:00Z,Edmonton Oilers at Columbus Blue Jackets,Columbus Blue Jackets,Edmonton Oilers,0,4,0.0
+401045320,2019-03-02T21:00Z,Chicago Blackhawks at Los Angeles Kings,Los Angeles Kings,Chicago Blackhawks,6,3,1.0
+401045321,2019-03-03T00:00Z,New Jersey Devils at Boston Bruins,Boston Bruins,New Jersey Devils,1,0,1.0
+401045322,2019-03-03T00:00Z,Buffalo Sabres at Toronto Maple Leafs,Toronto Maple Leafs,Buffalo Sabres,5,2,1.0
+401045323,2019-03-03T00:00Z,Pittsburgh Penguins at Montreal Canadiens,Montreal Canadiens,Pittsburgh Penguins,1,5,0.0
+401045324,2019-03-03T00:00Z,Ottawa Senators at Tampa Bay Lightning,Tampa Bay Lightning,Ottawa Senators,5,1,1.0
+401045325,2019-03-03T00:00Z,Carolina Hurricanes at Florida Panthers,Florida Panthers,Carolina Hurricanes,3,4,0.0
+401045326,2019-03-03T01:00Z,Dallas Stars at St. Louis Blues,St. Louis Blues,Dallas Stars,1,4,0.0
+401045327,2019-03-03T01:00Z,Detroit Red Wings at Arizona Coyotes,Arizona Coyotes,Detroit Red Wings,3,1,1.0
+401045328,2019-03-03T03:00Z,Minnesota Wild at Calgary Flames,Calgary Flames,Minnesota Wild,2,4,0.0
+401045329,2019-03-03T17:30Z,Washington Capitals at New York Rangers,New York Rangers,Washington Capitals,2,3,0.0
+401045330,2019-03-03T20:00Z,Philadelphia Flyers at New York Islanders,New York Islanders,Philadelphia Flyers,1,4,0.0
+401045331,2019-03-03T21:00Z,Vancouver Canucks at Vegas Golden Knights,Vegas Golden Knights,Vancouver Canucks,3,0,1.0
+401045332,2019-03-03T21:00Z,Colorado Avalanche at Anaheim Ducks,Anaheim Ducks,Colorado Avalanche,2,1,1.0
+401045333,2019-03-03T22:00Z,Ottawa Senators at Florida Panthers,Florida Panthers,Ottawa Senators,2,3,0.0
+401045334,2019-03-04T00:00Z,Winnipeg Jets at Columbus Blue Jackets,Columbus Blue Jackets,Winnipeg Jets,2,5,0.0
+401045335,2019-03-04T00:30Z,Nashville Predators at Minnesota Wild,Minnesota Wild,Nashville Predators,2,3,0.0
+401045336,2019-03-04T03:00Z,Chicago Blackhawks at San Jose Sharks,San Jose Sharks,Chicago Blackhawks,5,2,1.0
+401045337,2019-03-05T00:00Z,Edmonton Oilers at Buffalo Sabres,Buffalo Sabres,Edmonton Oilers,3,4,0.0
+401045338,2019-03-05T02:00Z,Toronto Maple Leafs at Calgary Flames,Calgary Flames,Toronto Maple Leafs,2,6,0.0
+401045339,2019-03-06T00:00Z,Carolina Hurricanes at Boston Bruins,Boston Bruins,Carolina Hurricanes,4,3,1.0
+401045340,2019-03-06T00:00Z,Columbus Blue Jackets at New Jersey Devils,New Jersey Devils,Columbus Blue Jackets,1,2,0.0
+401045341,2019-03-06T00:00Z,Ottawa Senators at New York Islanders,New York Islanders,Ottawa Senators,5,4,1.0
+401045342,2019-03-06T00:00Z,Florida Panthers at Pittsburgh Penguins,Pittsburgh Penguins,Florida Panthers,3,2,1.0
+401045343,2019-03-06T00:30Z,Winnipeg Jets at Tampa Bay Lightning,Tampa Bay Lightning,Winnipeg Jets,5,2,1.0
+401045344,2019-03-06T01:00Z,Minnesota Wild at Nashville Predators,Nashville Predators,Minnesota Wild,5,4,1.0
+401045345,2019-03-06T01:30Z,New York Rangers at Dallas Stars,Dallas Stars,New York Rangers,1,0,1.0
+401045346,2019-03-06T02:00Z,Detroit Red Wings at Colorado Avalanche,Colorado Avalanche,Detroit Red Wings,4,3,1.0
+401045347,2019-03-06T02:00Z,Anaheim Ducks at Arizona Coyotes,Arizona Coyotes,Anaheim Ducks,1,3,0.0
+401045348,2019-03-06T03:30Z,Montreal Canadiens at Los Angeles Kings,Los Angeles Kings,Montreal Canadiens,1,3,0.0
+401045349,2019-03-07T00:30Z,Washington Capitals at Philadelphia Flyers,Philadelphia Flyers,Washington Capitals,3,5,0.0
+401045350,2019-03-07T02:00Z,Toronto Maple Leafs at Vancouver Canucks,Vancouver Canucks,Toronto Maple Leafs,3,2,1.0
+401045351,2019-03-07T03:00Z,St. Louis Blues at Anaheim Ducks,Anaheim Ducks,St. Louis Blues,4,5,0.0
+401045352,2019-03-07T03:30Z,Calgary Flames at Vegas Golden Knights,Vegas Golden Knights,Calgary Flames,2,1,1.0
+401045353,2019-03-08T00:00Z,Florida Panthers at Boston Bruins,Boston Bruins,Florida Panthers,4,3,1.0
+401045354,2019-03-08T00:00Z,Columbus Blue Jackets at Pittsburgh Penguins,Pittsburgh Penguins,Columbus Blue Jackets,3,0,1.0
+401045355,2019-03-08T00:30Z,New York Islanders at Ottawa Senators,Ottawa Senators,New York Islanders,2,4,0.0
+401045356,2019-03-08T00:30Z,New York Rangers at Detroit Red Wings,Detroit Red Wings,New York Rangers,3,2,1.0
+401045357,2019-03-08T00:30Z,Minnesota Wild at Tampa Bay Lightning,Tampa Bay Lightning,Minnesota Wild,0,3,0.0
+401045358,2019-03-08T01:30Z,Buffalo Sabres at Chicago Blackhawks,Chicago Blackhawks,Buffalo Sabres,5,4,1.0
+401045359,2019-03-08T01:30Z,Colorado Avalanche at Dallas Stars,Dallas Stars,Colorado Avalanche,4,0,1.0
+401045360,2019-03-08T02:00Z,Vancouver Canucks at Edmonton Oilers,Edmonton Oilers,Vancouver Canucks,3,2,1.0
+401045361,2019-03-08T02:00Z,Calgary Flames at Arizona Coyotes,Arizona Coyotes,Calgary Flames,2,0,1.0
+401045362,2019-03-08T03:30Z,St. Louis Blues at Los Angeles Kings,Los Angeles Kings,St. Louis Blues,0,4,0.0
+401045363,2019-03-08T03:30Z,Montreal Canadiens at San Jose Sharks,San Jose Sharks,Montreal Canadiens,5,2,1.0
+401045364,2019-03-09T00:00Z,Minnesota Wild at Florida Panthers,Florida Panthers,Minnesota Wild,6,2,1.0
+401045365,2019-03-09T00:00Z,New Jersey Devils at Washington Capitals,Washington Capitals,New Jersey Devils,3,0,1.0
+401045366,2019-03-09T00:30Z,Winnipeg Jets at Carolina Hurricanes,Carolina Hurricanes,Winnipeg Jets,1,8,0.0
+401045367,2019-03-09T03:00Z,Montreal Canadiens at Anaheim Ducks,Anaheim Ducks,Montreal Canadiens,8,2,1.0
+401045368,2019-03-09T20:00Z,Buffalo Sabres at Colorado Avalanche,Colorado Avalanche,Buffalo Sabres,3,0,1.0
+401045369,2019-03-09T21:00Z,St. Louis Blues at San Jose Sharks,San Jose Sharks,St. Louis Blues,3,2,1.0
+401045370,2019-03-10T00:00Z,Ottawa Senators at Boston Bruins,Boston Bruins,Ottawa Senators,3,2,1.0
+401045371,2019-03-10T00:00Z,Detroit Red Wings at Tampa Bay Lightning,Tampa Bay Lightning,Detroit Red Wings,3,2,1.0
+401045372,2019-03-10T00:00Z,Philadelphia Flyers at New York Islanders,New York Islanders,Philadelphia Flyers,2,5,0.0
+401045373,2019-03-10T00:00Z,New Jersey Devils at New York Rangers,New York Rangers,New Jersey Devils,4,2,1.0
+401045374,2019-03-10T00:00Z,Pittsburgh Penguins at Columbus Blue Jackets,Columbus Blue Jackets,Pittsburgh Penguins,4,1,1.0
+401045375,2019-03-10T00:00Z,Toronto Maple Leafs at Edmonton Oilers,Edmonton Oilers,Toronto Maple Leafs,2,3,0.0
+401045376,2019-03-10T01:00Z,Carolina Hurricanes at Nashville Predators,Nashville Predators,Carolina Hurricanes,3,5,0.0
+401045377,2019-03-10T01:00Z,Chicago Blackhawks at Dallas Stars,Dallas Stars,Chicago Blackhawks,1,2,0.0
+401045378,2019-03-10T01:00Z,Los Angeles Kings at Arizona Coyotes,Arizona Coyotes,Los Angeles Kings,4,2,1.0
+401045379,2019-03-10T03:00Z,Vegas Golden Knights at Vancouver Canucks,Vancouver Canucks,Vegas Golden Knights,2,6,0.0
+401045380,2019-03-10T21:00Z,Detroit Red Wings at Florida Panthers,Florida Panthers,Detroit Red Wings,6,1,1.0
+401045381,2019-03-10T23:00Z,Winnipeg Jets at Washington Capitals,Washington Capitals,Winnipeg Jets,3,1,1.0
+401045382,2019-03-10T23:30Z,Boston Bruins at Pittsburgh Penguins,Pittsburgh Penguins,Boston Bruins,4,2,1.0
+401045383,2019-03-11T01:30Z,Vegas Golden Knights at Calgary Flames,Calgary Flames,Vegas Golden Knights,6,3,1.0
+401045384,2019-03-11T02:00Z,Los Angeles Kings at Anaheim Ducks,Anaheim Ducks,Los Angeles Kings,2,3,0.0
+401045385,2019-03-11T23:00Z,Tampa Bay Lightning at Toronto Maple Leafs,Toronto Maple Leafs,Tampa Bay Lightning,2,6,0.0
+401045386,2019-03-11T23:00Z,Columbus Blue Jackets at New York Islanders,New York Islanders,Columbus Blue Jackets,2,0,1.0
+401045387,2019-03-11T23:00Z,Ottawa Senators at Philadelphia Flyers,Philadelphia Flyers,Ottawa Senators,3,2,1.0
+401045388,2019-03-12T00:00Z,San Jose Sharks at Minnesota Wild,Minnesota Wild,San Jose Sharks,0,3,0.0
+401045389,2019-03-12T00:30Z,Arizona Coyotes at Chicago Blackhawks,Chicago Blackhawks,Arizona Coyotes,7,1,1.0
+401045390,2019-03-12T01:00Z,Carolina Hurricanes at Colorado Avalanche,Colorado Avalanche,Carolina Hurricanes,0,3,0.0
+401045391,2019-03-12T01:00Z,New York Rangers at Edmonton Oilers,Edmonton Oilers,New York Rangers,3,2,1.0
+401045392,2019-03-12T23:00Z,Dallas Stars at Buffalo Sabres,Buffalo Sabres,Dallas Stars,0,2,0.0
+401045393,2019-03-12T23:00Z,Washington Capitals at Pittsburgh Penguins,Pittsburgh Penguins,Washington Capitals,5,3,1.0
+401045394,2019-03-12T23:00Z,Boston Bruins at Columbus Blue Jackets,Columbus Blue Jackets,Boston Bruins,7,4,1.0
+401045395,2019-03-12T23:30Z,Detroit Red Wings at Montreal Canadiens,Montreal Canadiens,Detroit Red Wings,3,1,1.0
+401045396,2019-03-13T00:00Z,Arizona Coyotes at St. Louis Blues,St. Louis Blues,Arizona Coyotes,1,3,0.0
+401045397,2019-03-13T00:00Z,San Jose Sharks at Winnipeg Jets,Winnipeg Jets,San Jose Sharks,4,5,0.0
+401045398,2019-03-13T01:00Z,New Jersey Devils at Calgary Flames,Calgary Flames,New Jersey Devils,9,4,1.0
+401045399,2019-03-13T02:00Z,Nashville Predators at Anaheim Ducks,Anaheim Ducks,Nashville Predators,3,2,1.0
+401045400,2019-03-13T23:00Z,Chicago Blackhawks at Toronto Maple Leafs,Toronto Maple Leafs,Chicago Blackhawks,4,5,0.0
+401045401,2019-03-14T01:30Z,New Jersey Devils at Edmonton Oilers,Edmonton Oilers,New Jersey Devils,3,6,0.0
+401045402,2019-03-14T02:00Z,New York Rangers at Vancouver Canucks,Vancouver Canucks,New York Rangers,4,1,1.0
+401045403,2019-03-14T23:00Z,Pittsburgh Penguins at Buffalo Sabres,Buffalo Sabres,Pittsburgh Penguins,0,5,0.0
+401045404,2019-03-14T23:00Z,Montreal Canadiens at New York Islanders,New York Islanders,Montreal Canadiens,2,1,1.0
+401045405,2019-03-14T23:00Z,Washington Capitals at Philadelphia Flyers,Philadelphia Flyers,Washington Capitals,2,5,0.0
+401045406,2019-03-14T23:30Z,St. Louis Blues at Ottawa Senators,Ottawa Senators,St. Louis Blues,2,0,1.0
+401045407,2019-03-14T23:30Z,Tampa Bay Lightning at Detroit Red Wings,Detroit Red Wings,Tampa Bay Lightning,4,5,0.0
+401045408,2019-03-15T00:00Z,Dallas Stars at Minnesota Wild,Minnesota Wild,Dallas Stars,1,4,0.0
+401045409,2019-03-15T00:00Z,Boston Bruins at Winnipeg Jets,Winnipeg Jets,Boston Bruins,4,3,1.0
+401045410,2019-03-15T02:00Z,Anaheim Ducks at Arizona Coyotes,Arizona Coyotes,Anaheim Ducks,6,1,1.0
+401045411,2019-03-15T02:30Z,Nashville Predators at Los Angeles Kings,Los Angeles Kings,Nashville Predators,1,3,0.0
+401045412,2019-03-15T02:30Z,Florida Panthers at San Jose Sharks,San Jose Sharks,Florida Panthers,2,4,0.0
+401045413,2019-03-15T23:00Z,Philadelphia Flyers at Toronto Maple Leafs,Toronto Maple Leafs,Philadelphia Flyers,7,6,1.0
+401045414,2019-03-15T23:00Z,Carolina Hurricanes at Columbus Blue Jackets,Columbus Blue Jackets,Carolina Hurricanes,3,0,1.0
+401045415,2019-03-16T00:00Z,Vegas Golden Knights at Dallas Stars,Dallas Stars,Vegas Golden Knights,1,2,0.0
+401045416,2019-03-16T01:00Z,Anaheim Ducks at Colorado Avalanche,Colorado Avalanche,Anaheim Ducks,3,5,0.0
+401045417,2019-03-16T01:00Z,New York Rangers at Calgary Flames,Calgary Flames,New York Rangers,5,1,1.0
+401045418,2019-03-16T02:00Z,New Jersey Devils at Vancouver Canucks,Vancouver Canucks,New Jersey Devils,2,3,0.0
+401045419,2019-03-16T17:00Z,St. Louis Blues at Pittsburgh Penguins,Pittsburgh Penguins,St. Louis Blues,1,5,0.0
+401045420,2019-03-16T17:00Z,New York Islanders at Detroit Red Wings,Detroit Red Wings,New York Islanders,2,1,1.0
+401045421,2019-03-16T20:00Z,Florida Panthers at Los Angeles Kings,Los Angeles Kings,Florida Panthers,3,4,0.0
+401045422,2019-03-16T23:00Z,Columbus Blue Jackets at Boston Bruins,Boston Bruins,Columbus Blue Jackets,2,1,1.0
+401045423,2019-03-16T23:00Z,Chicago Blackhawks at Montreal Canadiens,Montreal Canadiens,Chicago Blackhawks,0,2,0.0
+401045424,2019-03-16T23:00Z,Toronto Maple Leafs at Ottawa Senators,Ottawa Senators,Toronto Maple Leafs,6,2,1.0
+401045425,2019-03-16T23:00Z,Washington Capitals at Tampa Bay Lightning,Tampa Bay Lightning,Washington Capitals,6,3,1.0
+401045426,2019-03-16T23:00Z,Buffalo Sabres at Carolina Hurricanes,Carolina Hurricanes,Buffalo Sabres,4,2,1.0
+401045427,2019-03-16T23:00Z,Calgary Flames at Winnipeg Jets,Winnipeg Jets,Calgary Flames,2,1,1.0
+401045428,2019-03-17T00:00Z,New York Rangers at Minnesota Wild,Minnesota Wild,New York Rangers,5,2,1.0
+401045429,2019-03-17T02:00Z,Edmonton Oilers at Arizona Coyotes,Arizona Coyotes,Edmonton Oilers,2,3,0.0
+401045430,2019-03-17T02:30Z,Nashville Predators at San Jose Sharks,San Jose Sharks,Nashville Predators,2,4,0.0
+401045431,2019-03-17T19:00Z,New Jersey Devils at Colorado Avalanche,Colorado Avalanche,New Jersey Devils,3,0,1.0
+401045432,2019-03-17T21:00Z,St. Louis Blues at Buffalo Sabres,Buffalo Sabres,St. Louis Blues,4,3,1.0
+401045433,2019-03-17T22:00Z,New York Islanders at Minnesota Wild,Minnesota Wild,New York Islanders,2,3,0.0
+401045434,2019-03-17T23:00Z,Vancouver Canucks at Dallas Stars,Dallas Stars,Vancouver Canucks,2,3,0.0
+401045435,2019-03-17T23:30Z,Philadelphia Flyers at Pittsburgh Penguins,Pittsburgh Penguins,Philadelphia Flyers,1,2,0.0
+401045436,2019-03-18T01:00Z,Florida Panthers at Anaheim Ducks,Anaheim Ducks,Florida Panthers,3,2,1.0
+401045437,2019-03-18T02:00Z,Edmonton Oilers at Vegas Golden Knights,Vegas Golden Knights,Edmonton Oilers,6,3,1.0
+401045438,2019-03-18T23:30Z,Arizona Coyotes at Tampa Bay Lightning,Tampa Bay Lightning,Arizona Coyotes,4,1,1.0
+401045439,2019-03-19T00:30Z,Vancouver Canucks at Chicago Blackhawks,Chicago Blackhawks,Vancouver Canucks,2,3,0.0
+401045440,2019-03-19T02:30Z,Winnipeg Jets at Los Angeles Kings,Los Angeles Kings,Winnipeg Jets,2,3,0.0
+401045441,2019-03-19T02:30Z,Vegas Golden Knights at San Jose Sharks,San Jose Sharks,Vegas Golden Knights,3,7,0.0
+401045443,2019-03-19T23:00Z,Boston Bruins at New York Islanders,New York Islanders,Boston Bruins,0,5,0.0
+401045444,2019-03-19T23:00Z,Detroit Red Wings at New York Rangers,New York Rangers,Detroit Red Wings,2,3,0.0
+401045445,2019-03-19T23:00Z,Montreal Canadiens at Philadelphia Flyers,Philadelphia Flyers,Montreal Canadiens,1,3,0.0
+401045446,2019-03-19T23:00Z,Pittsburgh Penguins at Carolina Hurricanes,Carolina Hurricanes,Pittsburgh Penguins,3,2,1.0
+401045442,2019-03-19T23:30Z,Washington Capitals at New Jersey Devils,New Jersey Devils,Washington Capitals,1,4,0.0
+401045447,2019-03-20T00:00Z,Edmonton Oilers at St. Louis Blues,St. Louis Blues,Edmonton Oilers,7,2,1.0
+401045448,2019-03-20T00:00Z,Toronto Maple Leafs at Nashville Predators,Nashville Predators,Toronto Maple Leafs,3,0,1.0
+401045449,2019-03-20T00:00Z,Colorado Avalanche at Minnesota Wild,Minnesota Wild,Colorado Avalanche,1,3,0.0
+401045450,2019-03-20T00:30Z,Florida Panthers at Dallas Stars,Dallas Stars,Florida Panthers,4,2,1.0
+401045451,2019-03-20T01:00Z,Columbus Blue Jackets at Calgary Flames,Calgary Flames,Columbus Blue Jackets,4,2,1.0
+401045452,2019-03-20T23:00Z,Toronto Maple Leafs at Buffalo Sabres,Buffalo Sabres,Toronto Maple Leafs,2,4,0.0
+401045453,2019-03-20T23:30Z,Tampa Bay Lightning at Washington Capitals,Washington Capitals,Tampa Bay Lightning,4,5,0.0
+401045454,2019-03-21T02:00Z,Ottawa Senators at Vancouver Canucks,Vancouver Canucks,Ottawa Senators,7,4,1.0
+401045455,2019-03-21T02:00Z,Winnipeg Jets at Anaheim Ducks,Anaheim Ducks,Winnipeg Jets,0,3,0.0
+401045456,2019-03-21T23:00Z,Arizona Coyotes at Florida Panthers,Florida Panthers,Arizona Coyotes,4,2,1.0
+401045457,2019-03-21T23:00Z,Boston Bruins at New Jersey Devils,New Jersey Devils,Boston Bruins,1,5,0.0
+401045458,2019-03-21T23:00Z,Tampa Bay Lightning at Carolina Hurricanes,Carolina Hurricanes,Tampa Bay Lightning,3,6,0.0
+401045459,2019-03-21T23:30Z,New York Islanders at Montreal Canadiens,Montreal Canadiens,New York Islanders,4,0,1.0
+401045460,2019-03-22T00:00Z,Detroit Red Wings at St. Louis Blues,St. Louis Blues,Detroit Red Wings,5,2,1.0
+401045461,2019-03-22T00:00Z,Pittsburgh Penguins at Nashville Predators,Nashville Predators,Pittsburgh Penguins,1,2,0.0
+401045462,2019-03-22T00:30Z,Philadelphia Flyers at Chicago Blackhawks,Chicago Blackhawks,Philadelphia Flyers,1,3,0.0
+401045463,2019-03-22T00:30Z,Colorado Avalanche at Dallas Stars,Dallas Stars,Colorado Avalanche,1,3,0.0
+401045464,2019-03-22T01:00Z,Ottawa Senators at Calgary Flames,Calgary Flames,Ottawa Senators,5,1,1.0
+401045465,2019-03-22T01:00Z,Columbus Blue Jackets at Edmonton Oilers,Edmonton Oilers,Columbus Blue Jackets,4,1,1.0
+401045466,2019-03-22T02:00Z,Winnipeg Jets at Vegas Golden Knights,Vegas Golden Knights,Winnipeg Jets,5,0,1.0
+401045467,2019-03-22T02:30Z,San Jose Sharks at Los Angeles Kings,Los Angeles Kings,San Jose Sharks,4,2,1.0
+401045468,2019-03-22T23:00Z,Minnesota Wild at Washington Capitals,Washington Capitals,Minnesota Wild,1,2,0.0
+401045469,2019-03-23T02:00Z,San Jose Sharks at Anaheim Ducks,Anaheim Ducks,San Jose Sharks,4,3,1.0
+401045470,2019-03-23T17:00Z,Arizona Coyotes at New Jersey Devils,New Jersey Devils,Arizona Coyotes,2,1,1.0
+401045471,2019-03-23T17:00Z,New York Islanders at Philadelphia Flyers,Philadelphia Flyers,New York Islanders,2,4,0.0
+401045472,2019-03-23T19:00Z,Chicago Blackhawks at Colorado Avalanche,Colorado Avalanche,Chicago Blackhawks,4,2,1.0
+401045473,2019-03-23T20:00Z,Ottawa Senators at Edmonton Oilers,Edmonton Oilers,Ottawa Senators,3,4,0.0
+401045474,2019-03-23T23:00Z,New York Rangers at Toronto Maple Leafs,Toronto Maple Leafs,New York Rangers,1,2,0.0
+401045475,2019-03-23T23:00Z,Buffalo Sabres at Montreal Canadiens,Montreal Canadiens,Buffalo Sabres,7,4,1.0
+401045476,2019-03-23T23:00Z,Boston Bruins at Florida Panthers,Florida Panthers,Boston Bruins,3,7,0.0
+401045477,2019-03-23T23:00Z,Minnesota Wild at Carolina Hurricanes,Carolina Hurricanes,Minnesota Wild,5,1,1.0
+401045478,2019-03-23T23:00Z,Nashville Predators at Winnipeg Jets,Winnipeg Jets,Nashville Predators,5,0,1.0
+401045479,2019-03-24T00:00Z,Tampa Bay Lightning at St. Louis Blues,St. Louis Blues,Tampa Bay Lightning,4,3,1.0
+401045480,2019-03-24T00:00Z,Pittsburgh Penguins at Dallas Stars,Dallas Stars,Pittsburgh Penguins,2,3,0.0
+401045481,2019-03-24T02:00Z,Calgary Flames at Vancouver Canucks,Vancouver Canucks,Calgary Flames,1,3,0.0
+401045482,2019-03-24T02:00Z,Detroit Red Wings at Vegas Golden Knights,Vegas Golden Knights,Detroit Red Wings,2,3,0.0
+401045483,2019-03-24T02:30Z,Anaheim Ducks at Los Angeles Kings,Los Angeles Kings,Anaheim Ducks,4,3,1.0
+401045484,2019-03-24T16:30Z,Philadelphia Flyers at Washington Capitals,Washington Capitals,Philadelphia Flyers,3,1,1.0
+401045485,2019-03-24T19:00Z,Arizona Coyotes at New York Islanders,New York Islanders,Arizona Coyotes,2,0,1.0
+401045486,2019-03-24T23:00Z,Montreal Canadiens at Carolina Hurricanes,Carolina Hurricanes,Montreal Canadiens,2,1,1.0
+401045487,2019-03-25T00:00Z,Colorado Avalanche at Chicago Blackhawks,Chicago Blackhawks,Colorado Avalanche,2,1,1.0
+401045488,2019-03-25T02:00Z,Columbus Blue Jackets at Vancouver Canucks,Vancouver Canucks,Columbus Blue Jackets,0,5,0.0
+401045489,2019-03-25T23:00Z,Florida Panthers at Toronto Maple Leafs,Toronto Maple Leafs,Florida Panthers,7,5,1.0
+401045490,2019-03-25T23:00Z,Buffalo Sabres at New Jersey Devils,New Jersey Devils,Buffalo Sabres,3,1,1.0
+401045491,2019-03-25T23:00Z,Pittsburgh Penguins at New York Rangers,New York Rangers,Pittsburgh Penguins,2,5,0.0
+401045492,2019-03-25T23:30Z,Boston Bruins at Tampa Bay Lightning,Tampa Bay Lightning,Boston Bruins,5,4,1.0
+401045493,2019-03-26T00:00Z,Vegas Golden Knights at St. Louis Blues,St. Louis Blues,Vegas Golden Knights,3,1,1.0
+401045494,2019-03-26T00:00Z,Nashville Predators at Minnesota Wild,Minnesota Wild,Nashville Predators,0,1,0.0
+401045495,2019-03-26T00:00Z,Dallas Stars at Winnipeg Jets,Winnipeg Jets,Dallas Stars,2,5,0.0
+401045496,2019-03-26T01:00Z,Los Angeles Kings at Calgary Flames,Calgary Flames,Los Angeles Kings,0,3,0.0
+401045497,2019-03-26T02:30Z,Detroit Red Wings at San Jose Sharks,San Jose Sharks,Detroit Red Wings,2,3,0.0
+401045498,2019-03-26T23:00Z,Carolina Hurricanes at Washington Capitals,Washington Capitals,Carolina Hurricanes,4,1,1.0
+401045499,2019-03-26T23:00Z,New York Islanders at Columbus Blue Jackets,Columbus Blue Jackets,New York Islanders,4,0,1.0
+401045500,2019-03-26T23:30Z,Florida Panthers at Montreal Canadiens,Montreal Canadiens,Florida Panthers,6,1,1.0
+401045501,2019-03-26T23:30Z,Buffalo Sabres at Ottawa Senators,Ottawa Senators,Buffalo Sabres,4,0,1.0
+401045502,2019-03-27T01:00Z,Los Angeles Kings at Edmonton Oilers,Edmonton Oilers,Los Angeles Kings,8,4,1.0
+401045503,2019-03-27T02:00Z,Anaheim Ducks at Vancouver Canucks,Vancouver Canucks,Anaheim Ducks,4,5,0.0
+401045504,2019-03-27T02:00Z,Chicago Blackhawks at Arizona Coyotes,Arizona Coyotes,Chicago Blackhawks,1,0,1.0
+401045505,2019-03-27T23:00Z,Toronto Maple Leafs at Philadelphia Flyers,Philadelphia Flyers,Toronto Maple Leafs,5,4,1.0
+401045506,2019-03-27T23:30Z,New York Rangers at Boston Bruins,Boston Bruins,New York Rangers,6,3,1.0
+401045507,2019-03-28T01:30Z,Dallas Stars at Calgary Flames,Calgary Flames,Dallas Stars,1,2,0.0
+401045508,2019-03-28T02:00Z,Vegas Golden Knights at Colorado Avalanche,Colorado Avalanche,Vegas Golden Knights,4,3,1.0
+401045509,2019-03-28T23:00Z,Detroit Red Wings at Buffalo Sabres,Buffalo Sabres,Detroit Red Wings,4,5,0.0
+401045510,2019-03-28T23:00Z,Washington Capitals at Carolina Hurricanes,Carolina Hurricanes,Washington Capitals,2,3,0.0
+401045511,2019-03-28T23:00Z,Montreal Canadiens at Columbus Blue Jackets,Columbus Blue Jackets,Montreal Canadiens,6,2,1.0
+401045512,2019-03-28T23:30Z,Florida Panthers at Ottawa Senators,Ottawa Senators,Florida Panthers,2,5,0.0
+401045513,2019-03-29T00:00Z,New York Islanders at Winnipeg Jets,Winnipeg Jets,New York Islanders,4,5,0.0
+401045514,2019-03-29T01:00Z,Dallas Stars at Edmonton Oilers,Edmonton Oilers,Dallas Stars,2,3,0.0
+401045515,2019-03-29T02:00Z,Los Angeles Kings at Vancouver Canucks,Vancouver Canucks,Los Angeles Kings,3,2,1.0
+401045516,2019-03-29T02:30Z,Chicago Blackhawks at San Jose Sharks,San Jose Sharks,Chicago Blackhawks,4,5,0.0
+401045517,2019-03-29T23:00Z,St. Louis Blues at New York Rangers,New York Rangers,St. Louis Blues,4,2,1.0
+401045518,2019-03-29T23:00Z,Nashville Predators at Pittsburgh Penguins,Pittsburgh Penguins,Nashville Predators,1,3,0.0
+401045519,2019-03-29T23:30Z,New Jersey Devils at Detroit Red Wings,Detroit Red Wings,New Jersey Devils,4,0,1.0
+401045520,2019-03-30T01:00Z,Arizona Coyotes at Colorado Avalanche,Colorado Avalanche,Arizona Coyotes,3,2,1.0
+401045521,2019-03-30T01:00Z,Anaheim Ducks at Calgary Flames,Calgary Flames,Anaheim Ducks,6,1,1.0
+401045522,2019-03-30T02:00Z,Minnesota Wild at Vegas Golden Knights,Vegas Golden Knights,Minnesota Wild,2,3,0.0
+401045524,2019-03-30T17:00Z,Florida Panthers at Boston Bruins,Boston Bruins,Florida Panthers,1,4,0.0
+401045523,2019-03-30T17:30Z,Philadelphia Flyers at Carolina Hurricanes,Carolina Hurricanes,Philadelphia Flyers,5,2,1.0
+401045525,2019-03-30T23:00Z,Toronto Maple Leafs at Ottawa Senators,Ottawa Senators,Toronto Maple Leafs,4,2,1.0
+401045526,2019-03-30T23:00Z,Washington Capitals at Tampa Bay Lightning,Tampa Bay Lightning,Washington Capitals,3,6,0.0
+401045527,2019-03-30T23:00Z,St. Louis Blues at New Jersey Devils,New Jersey Devils,St. Louis Blues,2,3,0.0
+401045528,2019-03-30T23:00Z,Buffalo Sabres at New York Islanders,New York Islanders,Buffalo Sabres,5,1,1.0
+401045529,2019-03-30T23:00Z,Montreal Canadiens at Winnipeg Jets,Winnipeg Jets,Montreal Canadiens,1,3,0.0
+401045530,2019-03-31T00:00Z,Columbus Blue Jackets at Nashville Predators,Nashville Predators,Columbus Blue Jackets,2,5,0.0
+401045531,2019-03-31T01:00Z,Vegas Golden Knights at San Jose Sharks,San Jose Sharks,Vegas Golden Knights,4,3,1.0
+401045532,2019-03-31T02:00Z,Anaheim Ducks at Edmonton Oilers,Edmonton Oilers,Anaheim Ducks,1,5,0.0
+401045533,2019-03-31T02:00Z,Dallas Stars at Vancouver Canucks,Vancouver Canucks,Dallas Stars,3,2,1.0
+401045534,2019-03-31T02:30Z,Chicago Blackhawks at Los Angeles Kings,Los Angeles Kings,Chicago Blackhawks,3,2,1.0
+401045535,2019-03-31T16:30Z,New York Rangers at Philadelphia Flyers,Philadelphia Flyers,New York Rangers,0,3,0.0
+401045536,2019-03-31T21:00Z,Carolina Hurricanes at Pittsburgh Penguins,Pittsburgh Penguins,Carolina Hurricanes,3,1,1.0
+401045537,2019-03-31T21:00Z,Minnesota Wild at Arizona Coyotes,Arizona Coyotes,Minnesota Wild,4,0,1.0
+401045538,2019-03-31T22:00Z,Columbus Blue Jackets at Buffalo Sabres,Buffalo Sabres,Columbus Blue Jackets,0,4,0.0
+401045539,2019-03-31T23:30Z,Boston Bruins at Detroit Red Wings,Detroit Red Wings,Boston Bruins,6,3,1.0
+401045540,2019-04-01T00:00Z,Calgary Flames at San Jose Sharks,San Jose Sharks,Calgary Flames,3,5,0.0

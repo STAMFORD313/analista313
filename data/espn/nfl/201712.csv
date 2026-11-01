@@ -1,0 +1,80 @@
+id,date,event,home,away,hs,as,res
+400951677,2017-12-03T18:00Z,Minnesota Vikings at Atlanta Falcons,Atlanta Falcons,Minnesota Vikings,9,14,0.0
+400951684,2017-12-03T18:00Z,New England Patriots at Buffalo Bills,Buffalo Bills,New England Patriots,3,23,0.0
+400951707,2017-12-03T18:00Z,San Francisco 49ers at Chicago Bears,Chicago Bears,San Francisco 49ers,14,15,0.0
+400951710,2017-12-03T18:00Z,Tampa Bay Buccaneers at Green Bay Packers,Green Bay Packers,Tampa Bay Buccaneers,26,20,1.0
+400951728,2017-12-03T18:00Z,Houston Texans at Tennessee Titans,Tennessee Titans,Houston Texans,24,13,1.0
+400951718,2017-12-03T18:00Z,Denver Broncos at Miami Dolphins,Miami Dolphins,Denver Broncos,35,9,1.0
+400951726,2017-12-03T18:00Z,Kansas City Chiefs at New York Jets,New York Jets,Kansas City Chiefs,38,31,1.0
+400951713,2017-12-03T18:00Z,Indianapolis Colts at Jacksonville Jaguars,Jacksonville Jaguars,Indianapolis Colts,30,10,1.0
+400951680,2017-12-03T18:00Z,Detroit Lions at Baltimore Ravens,Baltimore Ravens,Detroit Lions,44,20,1.0
+400951731,2017-12-03T21:05Z,Cleveland Browns at Los Angeles Chargers,Los Angeles Chargers,Cleveland Browns,19,10,1.0
+400951740,2017-12-03T21:25Z,New York Giants at Oakland Raiders,Oakland Raiders,New York Giants,24,17,1.0
+400951722,2017-12-03T21:25Z,Carolina Panthers at New Orleans Saints,New Orleans Saints,Carolina Panthers,31,21,1.0
+400951733,2017-12-03T21:25Z,Los Angeles Rams at Arizona Cardinals,Arizona Cardinals,Los Angeles Rams,16,32,0.0
+400951746,2017-12-04T01:30Z,Philadelphia Eagles at Seattle Seahawks,Seattle Seahawks,Philadelphia Eagles,24,10,1.0
+400951754,2017-12-05T01:30Z,Pittsburgh Steelers at Cincinnati Bengals,Cincinnati Bengals,Pittsburgh Steelers,20,23,0.0
+400951557,2017-12-08T01:25Z,New Orleans Saints at Atlanta Falcons,Atlanta Falcons,New Orleans Saints,20,17,1.0
+400951560,2017-12-10T18:00Z,Indianapolis Colts at Buffalo Bills,Buffalo Bills,Indianapolis Colts,13,7,1.0
+400951564,2017-12-10T18:00Z,Chicago Bears at Cincinnati Bengals,Cincinnati Bengals,Chicago Bears,7,33,0.0
+400951647,2017-12-10T18:00Z,Green Bay Packers at Cleveland Browns,Cleveland Browns,Green Bay Packers,21,27,0.0
+400951654,2017-12-10T18:00Z,Oakland Raiders at Kansas City Chiefs,Kansas City Chiefs,Oakland Raiders,26,15,1.0
+400951692,2017-12-10T18:00Z,Dallas Cowboys at New York Giants,New York Giants,Dallas Cowboys,10,30,0.0
+400951660,2017-12-10T18:00Z,Detroit Lions at Tampa Bay Buccaneers,Tampa Bay Buccaneers,Detroit Lions,21,24,0.0
+400951561,2017-12-10T18:00Z,Minnesota Vikings at Carolina Panthers,Carolina Panthers,Minnesota Vikings,31,24,1.0
+400951649,2017-12-10T18:00Z,San Francisco 49ers at Houston Texans,Houston Texans,San Francisco 49ers,16,26,0.0
+400951665,2017-12-10T21:05Z,New York Jets at Denver Broncos,Denver Broncos,New York Jets,23,0,1.0
+400951662,2017-12-10T21:05Z,Tennessee Titans at Arizona Cardinals,Arizona Cardinals,Tennessee Titans,12,7,1.0
+400951687,2017-12-10T21:05Z,Washington Redskins at Los Angeles Chargers,Los Angeles Chargers,Washington Redskins,30,13,1.0
+400951689,2017-12-10T21:25Z,Philadelphia Eagles at Los Angeles Rams,Los Angeles Rams,Philadelphia Eagles,35,43,0.0
+400951652,2017-12-10T21:25Z,Seattle Seahawks at Jacksonville Jaguars,Jacksonville Jaguars,Seattle Seahawks,30,24,1.0
+400951694,2017-12-11T01:30Z,Baltimore Ravens at Pittsburgh Steelers,Pittsburgh Steelers,Baltimore Ravens,39,38,1.0
+400951696,2017-12-12T01:30Z,New England Patriots at Miami Dolphins,Miami Dolphins,New England Patriots,27,20,1.0
+400951705,2017-12-15T01:25Z,Denver Broncos at Indianapolis Colts,Indianapolis Colts,Denver Broncos,13,25,0.0
+400951768,2017-12-16T21:30Z,Chicago Bears at Detroit Lions,Detroit Lions,Chicago Bears,20,10,1.0
+400951772,2017-12-17T01:25Z,Los Angeles Chargers at Kansas City Chiefs,Kansas City Chiefs,Los Angeles Chargers,30,13,1.0
+400951774,2017-12-17T18:00Z,Miami Dolphins at Buffalo Bills,Buffalo Bills,Miami Dolphins,24,16,1.0
+400951778,2017-12-17T18:00Z,Baltimore Ravens at Cleveland Browns,Cleveland Browns,Baltimore Ravens,10,27,0.0
+400951784,2017-12-17T18:00Z,Cincinnati Bengals at Minnesota Vikings,Minnesota Vikings,Cincinnati Bengals,34,7,1.0
+400951806,2017-12-17T18:00Z,New York Jets at New Orleans Saints,New Orleans Saints,New York Jets,31,19,1.0
+400951808,2017-12-17T18:00Z,Philadelphia Eagles at New York Giants,New York Giants,Philadelphia Eagles,29,34,0.0
+400951809,2017-12-17T18:00Z,Arizona Cardinals at Washington Redskins,Washington Redskins,Arizona Cardinals,20,15,1.0
+400951777,2017-12-17T18:00Z,Green Bay Packers at Carolina Panthers,Carolina Panthers,Green Bay Packers,31,24,1.0
+400951781,2017-12-17T18:00Z,Houston Texans at Jacksonville Jaguars,Jacksonville Jaguars,Houston Texans,45,7,1.0
+400951811,2017-12-17T21:05Z,Los Angeles Rams at Seattle Seahawks,Seattle Seahawks,Los Angeles Rams,7,42,0.0
+400951812,2017-12-17T21:25Z,New England Patriots at Pittsburgh Steelers,Pittsburgh Steelers,New England Patriots,24,27,0.0
+400951813,2017-12-17T21:25Z,Tennessee Titans at San Francisco 49ers,San Francisco 49ers,Tennessee Titans,25,23,1.0
+400951814,2017-12-18T01:30Z,Dallas Cowboys at Oakland Raiders,Oakland Raiders,Dallas Cowboys,17,20,0.0
+400951816,2017-12-19T01:30Z,Atlanta Falcons at Tampa Bay Buccaneers,Tampa Bay Buccaneers,Atlanta Falcons,21,24,0.0
+400951596,2017-12-23T21:30Z,Indianapolis Colts at Baltimore Ravens,Baltimore Ravens,Indianapolis Colts,23,16,1.0
+400951602,2017-12-24T01:30Z,Minnesota Vikings at Green Bay Packers,Green Bay Packers,Minnesota Vikings,0,16,0.0
+400951617,2017-12-24T18:00Z,Cleveland Browns at Chicago Bears,Chicago Bears,Cleveland Browns,20,3,1.0
+400951621,2017-12-24T18:00Z,Detroit Lions at Cincinnati Bengals,Cincinnati Bengals,Detroit Lions,26,17,1.0
+400951667,2017-12-24T18:00Z,Los Angeles Rams at Tennessee Titans,Tennessee Titans,Los Angeles Rams,23,27,0.0
+400951625,2017-12-24T18:00Z,Miami Dolphins at Kansas City Chiefs,Kansas City Chiefs,Miami Dolphins,29,13,1.0
+400951631,2017-12-24T18:00Z,Buffalo Bills at New England Patriots,New England Patriots,Buffalo Bills,37,16,1.0
+400951637,2017-12-24T18:00Z,Atlanta Falcons at New Orleans Saints,New Orleans Saints,Atlanta Falcons,23,13,1.0
+400951642,2017-12-24T18:00Z,Los Angeles Chargers at New York Jets,New York Jets,Los Angeles Chargers,7,14,0.0
+400951671,2017-12-24T18:00Z,Denver Broncos at Washington Redskins,Washington Redskins,Denver Broncos,27,11,1.0
+400951613,2017-12-24T18:00Z,Tampa Bay Buccaneers at Carolina Panthers,Carolina Panthers,Tampa Bay Buccaneers,22,19,1.0
+400951675,2017-12-24T21:05Z,Jacksonville Jaguars at San Francisco 49ers,San Francisco 49ers,Jacksonville Jaguars,44,33,1.0
+400951709,2017-12-24T21:25Z,Seattle Seahawks at Dallas Cowboys,Dallas Cowboys,Seattle Seahawks,12,21,0.0
+400951682,2017-12-24T21:25Z,New York Giants at Arizona Cardinals,Arizona Cardinals,New York Giants,23,0,1.0
+400951714,2017-12-25T21:30Z,Pittsburgh Steelers at Houston Texans,Houston Texans,Pittsburgh Steelers,6,34,0.0
+400951719,2017-12-26T01:30Z,Oakland Raiders at Philadelphia Eagles,Philadelphia Eagles,Oakland Raiders,19,10,1.0
+400951741,2017-12-31T18:00Z,Green Bay Packers at Detroit Lions,Detroit Lions,Green Bay Packers,35,11,1.0
+400951745,2017-12-31T18:00Z,Houston Texans at Indianapolis Colts,Indianapolis Colts,Houston Texans,22,13,1.0
+400951750,2017-12-31T18:00Z,Chicago Bears at Minnesota Vikings,Minnesota Vikings,Chicago Bears,23,10,1.0
+400951756,2017-12-31T18:00Z,New York Jets at New England Patriots,New England Patriots,New York Jets,26,6,1.0
+400951757,2017-12-31T18:00Z,Washington Redskins at New York Giants,New York Giants,Washington Redskins,18,10,1.0
+400951759,2017-12-31T18:00Z,Dallas Cowboys at Philadelphia Eagles,Philadelphia Eagles,Dallas Cowboys,0,6,0.0
+400951762,2017-12-31T18:00Z,Cleveland Browns at Pittsburgh Steelers,Pittsburgh Steelers,Cleveland Browns,28,24,1.0
+400951734,2017-12-31T21:25Z,Carolina Panthers at Atlanta Falcons,Atlanta Falcons,Carolina Panthers,22,10,1.0
+400951789,2017-12-31T21:25Z,Kansas City Chiefs at Denver Broncos,Denver Broncos,Kansas City Chiefs,24,27,0.0
+400951788,2017-12-31T21:25Z,Jacksonville Jaguars at Tennessee Titans,Tennessee Titans,Jacksonville Jaguars,15,10,1.0
+400951792,2017-12-31T21:25Z,San Francisco 49ers at Los Angeles Rams,Los Angeles Rams,San Francisco 49ers,13,34,0.0
+400951748,2017-12-31T21:25Z,Buffalo Bills at Miami Dolphins,Miami Dolphins,Buffalo Bills,16,22,0.0
+400951791,2017-12-31T21:25Z,Oakland Raiders at Los Angeles Chargers,Los Angeles Chargers,Oakland Raiders,30,10,1.0
+400951793,2017-12-31T21:25Z,Arizona Cardinals at Seattle Seahawks,Seattle Seahawks,Arizona Cardinals,24,26,0.0
+400951764,2017-12-31T21:25Z,New Orleans Saints at Tampa Bay Buccaneers,Tampa Bay Buccaneers,New Orleans Saints,31,24,1.0
+400951739,2017-12-31T21:25Z,Cincinnati Bengals at Baltimore Ravens,Baltimore Ravens,Cincinnati Bengals,27,31,0.0

@@ -1,0 +1,43 @@
+id,date,event,home,away,hs,as,res
+401246351,2020-10-01T16:00Z,Cincinnati Reds at Atlanta Braves,Atlanta Braves,Cincinnati Reds,5,0,1.0
+401246349,2020-10-01T18:00Z,Miami Marlins at Chicago Cubs,Chicago Cubs,Miami Marlins,0,0,0.5
+401246348,2020-10-01T19:00Z,Chicago White Sox at Oakland Athletics,Oakland Athletics,Chicago White Sox,6,4,1.0
+401246350,2020-10-01T23:00Z,St. Louis Cardinals at San Diego Padres,San Diego Padres,St. Louis Cardinals,11,9,1.0
+401246352,2020-10-02T02:00Z,Milwaukee Brewers at Los Angeles Dodgers,Los Angeles Dodgers,Milwaukee Brewers,3,0,1.0
+401246414,2020-10-02T18:00Z,Miami Marlins at Chicago Cubs,Chicago Cubs,Miami Marlins,0,2,0.0
+401246415,2020-10-02T23:00Z,St. Louis Cardinals at San Diego Padres,San Diego Padres,St. Louis Cardinals,4,0,1.0
+401246353,2020-10-05T20:07Z,Houston Astros at Oakland Athletics,Oakland Athletics,Houston Astros,5,10,0.0
+401246354,2020-10-06T00:07Z,New York Yankees at Tampa Bay Rays,Tampa Bay Rays,New York Yankees,3,9,0.0
+401246358,2020-10-06T18:08Z,Miami Marlins at Atlanta Braves,Atlanta Braves,Miami Marlins,9,5,1.0
+401246355,2020-10-06T20:37Z,Houston Astros at Oakland Athletics,Oakland Athletics,Houston Astros,2,5,0.0
+401246356,2020-10-07T00:10Z,New York Yankees at Tampa Bay Rays,Tampa Bay Rays,New York Yankees,7,5,1.0
+401246357,2020-10-07T01:38Z,San Diego Padres at Los Angeles Dodgers,Los Angeles Dodgers,San Diego Padres,5,1,1.0
+401246362,2020-10-07T18:08Z,Miami Marlins at Atlanta Braves,Atlanta Braves,Miami Marlins,2,0,1.0
+401246359,2020-10-07T19:35Z,Oakland Athletics at Houston Astros,Houston Astros,Oakland Athletics,7,9,0.0
+401246360,2020-10-07T23:10Z,Tampa Bay Rays at New York Yankees,New York Yankees,Tampa Bay Rays,4,8,0.0
+401246361,2020-10-08T01:08Z,San Diego Padres at Los Angeles Dodgers,Los Angeles Dodgers,San Diego Padres,6,5,1.0
+401246366,2020-10-08T18:08Z,Atlanta Braves at Miami Marlins,Miami Marlins,Atlanta Braves,0,7,0.0
+401246363,2020-10-08T19:35Z,Oakland Athletics at Houston Astros,Houston Astros,Oakland Athletics,11,6,1.0
+401246364,2020-10-08T23:10Z,Tampa Bay Rays at New York Yankees,New York Yankees,Tampa Bay Rays,5,1,1.0
+401246365,2020-10-09T01:08Z,Los Angeles Dodgers at San Diego Padres,San Diego Padres,Los Angeles Dodgers,3,12,0.0
+401246368,2020-10-09T23:10Z,New York Yankees at Tampa Bay Rays,Tampa Bay Rays,New York Yankees,2,1,1.0
+401246373,2020-10-11T23:37Z,Houston Astros at Tampa Bay Rays,Tampa Bay Rays,Houston Astros,2,1,1.0
+401246374,2020-10-12T20:07Z,Houston Astros at Tampa Bay Rays,Tampa Bay Rays,Houston Astros,4,2,1.0
+401246380,2020-10-13T00:08Z,Atlanta Braves at Los Angeles Dodgers,Los Angeles Dodgers,Atlanta Braves,1,5,0.0
+401246381,2020-10-13T22:05Z,Atlanta Braves at Los Angeles Dodgers,Los Angeles Dodgers,Atlanta Braves,7,8,0.0
+401246375,2020-10-14T00:40Z,Tampa Bay Rays at Houston Astros,Houston Astros,Tampa Bay Rays,2,5,0.0
+401246382,2020-10-14T22:05Z,Los Angeles Dodgers at Atlanta Braves,Atlanta Braves,Los Angeles Dodgers,3,15,0.0
+401246376,2020-10-15T00:40Z,Tampa Bay Rays at Houston Astros,Houston Astros,Tampa Bay Rays,4,3,1.0
+401246377,2020-10-15T21:07Z,Tampa Bay Rays at Houston Astros,Houston Astros,Tampa Bay Rays,4,3,1.0
+401246383,2020-10-16T00:08Z,Los Angeles Dodgers at Atlanta Braves,Atlanta Braves,Los Angeles Dodgers,10,2,1.0
+401246378,2020-10-16T22:07Z,Houston Astros at Tampa Bay Rays,Tampa Bay Rays,Houston Astros,4,7,0.0
+401246384,2020-10-17T01:08Z,Los Angeles Dodgers at Atlanta Braves,Atlanta Braves,Los Angeles Dodgers,3,7,0.0
+401246385,2020-10-17T20:38Z,Atlanta Braves at Los Angeles Dodgers,Los Angeles Dodgers,Atlanta Braves,3,1,1.0
+401246379,2020-10-18T00:37Z,Houston Astros at Tampa Bay Rays,Tampa Bay Rays,Houston Astros,4,2,1.0
+401246386,2020-10-19T00:15Z,Atlanta Braves at Los Angeles Dodgers,Los Angeles Dodgers,Atlanta Braves,4,3,1.0
+401246387,2020-10-21T00:11Z,Tampa Bay Rays at Los Angeles Dodgers,Los Angeles Dodgers,Tampa Bay Rays,8,3,1.0
+401246388,2020-10-22T00:08Z,Tampa Bay Rays at Los Angeles Dodgers,Los Angeles Dodgers,Tampa Bay Rays,4,6,0.0
+401246389,2020-10-24T00:08Z,Los Angeles Dodgers at Tampa Bay Rays,Tampa Bay Rays,Los Angeles Dodgers,2,6,0.0
+401246390,2020-10-25T00:08Z,Los Angeles Dodgers at Tampa Bay Rays,Tampa Bay Rays,Los Angeles Dodgers,8,7,1.0
+401246391,2020-10-26T00:08Z,Los Angeles Dodgers at Tampa Bay Rays,Tampa Bay Rays,Los Angeles Dodgers,2,4,0.0
+401246392,2020-10-28T00:08Z,Tampa Bay Rays at Los Angeles Dodgers,Los Angeles Dodgers,Tampa Bay Rays,3,1,1.0

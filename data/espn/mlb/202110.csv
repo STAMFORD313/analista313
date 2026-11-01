@@ -1,0 +1,83 @@
+id,date,event,home,away,hs,as,res
+401229441,2021-10-01T22:35Z,Cincinnati Reds at Pittsburgh Pirates,Pittsburgh Pirates,Cincinnati Reds,9,2,1.0
+401229439,2021-10-01T23:05Z,Boston Red Sox at Washington Nationals,Washington Nationals,Boston Red Sox,2,4,0.0
+401229451,2021-10-01T23:05Z,Tampa Bay Rays at New York Yankees,New York Yankees,Tampa Bay Rays,3,4,0.0
+401229438,2021-10-01T23:07Z,Baltimore Orioles at Toronto Blue Jays,Toronto Blue Jays,Baltimore Orioles,6,4,1.0
+401229449,2021-10-01T23:10Z,Philadelphia Phillies at Miami Marlins,Miami Marlins,Philadelphia Phillies,0,5,0.0
+401229447,2021-10-01T23:20Z,New York Mets at Atlanta Braves,Atlanta Braves,New York Mets,3,4,0.0
+401229442,2021-10-02T00:05Z,Cleveland Indians at Texas Rangers,Texas Rangers,Cleveland Indians,6,9,0.0
+401229444,2021-10-02T00:10Z,Detroit Tigers at Chicago White Sox,Chicago White Sox,Detroit Tigers,8,1,1.0
+401229446,2021-10-02T00:10Z,Minnesota Twins at Kansas City Royals,Kansas City Royals,Minnesota Twins,11,6,1.0
+401229448,2021-10-02T00:10Z,Oakland Athletics at Houston Astros,Houston Astros,Oakland Athletics,6,8,0.0
+401229440,2021-10-02T00:15Z,Chicago Cubs at St. Louis Cardinals,St. Louis Cardinals,Chicago Cubs,4,3,1.0
+401229443,2021-10-02T01:40Z,Colorado Rockies at Arizona Diamondbacks,Arizona Diamondbacks,Colorado Rockies,7,9,0.0
+401229450,2021-10-02T01:45Z,San Diego Padres at San Francisco Giants,San Francisco Giants,San Diego Padres,3,0,1.0
+401229437,2021-10-02T02:10Z,Los Angeles Angels at Seattle Mariners,Seattle Mariners,Los Angeles Angels,1,2,0.0
+401229445,2021-10-02T02:10Z,Milwaukee Brewers at Los Angeles Dodgers,Los Angeles Dodgers,Milwaukee Brewers,8,6,1.0
+401229466,2021-10-02T17:05Z,Tampa Bay Rays at New York Yankees,New York Yankees,Tampa Bay Rays,2,12,0.0
+401229453,2021-10-02T19:07Z,Baltimore Orioles at Toronto Blue Jays,Toronto Blue Jays,Baltimore Orioles,10,1,1.0
+401229454,2021-10-02T20:05Z,Boston Red Sox at Washington Nationals,Washington Nationals,Boston Red Sox,3,5,0.0
+401229465,2021-10-02T20:05Z,San Diego Padres at San Francisco Giants,San Francisco Giants,San Diego Padres,2,3,0.0
+401229464,2021-10-02T22:10Z,Philadelphia Phillies at Miami Marlins,Miami Marlins,Philadelphia Phillies,3,1,1.0
+401229456,2021-10-02T22:35Z,Cincinnati Reds at Pittsburgh Pirates,Pittsburgh Pirates,Cincinnati Reds,8,6,1.0
+401229457,2021-10-02T23:05Z,Cleveland Indians at Texas Rangers,Texas Rangers,Cleveland Indians,7,2,1.0
+401229459,2021-10-02T23:10Z,Detroit Tigers at Chicago White Sox,Chicago White Sox,Detroit Tigers,5,4,1.0
+401229461,2021-10-02T23:10Z,Minnesota Twins at Kansas City Royals,Kansas City Royals,Minnesota Twins,0,4,0.0
+401229463,2021-10-02T23:10Z,Oakland Athletics at Houston Astros,Houston Astros,Oakland Athletics,10,4,1.0
+401229455,2021-10-02T23:15Z,Chicago Cubs at St. Louis Cardinals,St. Louis Cardinals,Chicago Cubs,5,6,0.0
+401229462,2021-10-02T23:15Z,New York Mets at Atlanta Braves,Atlanta Braves,New York Mets,6,5,1.0
+401229458,2021-10-03T00:10Z,Colorado Rockies at Arizona Diamondbacks,Arizona Diamondbacks,Colorado Rockies,11,2,1.0
+401229452,2021-10-03T01:10Z,Los Angeles Angels at Seattle Mariners,Seattle Mariners,Los Angeles Angels,6,4,1.0
+401229460,2021-10-03T01:10Z,Milwaukee Brewers at Los Angeles Dodgers,Los Angeles Dodgers,Milwaukee Brewers,8,3,1.0
+401229469,2021-10-03T19:05Z,Boston Red Sox at Washington Nationals,Washington Nationals,Boston Red Sox,5,7,0.0
+401229471,2021-10-03T19:05Z,Cincinnati Reds at Pittsburgh Pirates,Pittsburgh Pirates,Cincinnati Reds,3,6,0.0
+401229472,2021-10-03T19:05Z,Cleveland Indians at Texas Rangers,Texas Rangers,Cleveland Indians,0,6,0.0
+401229480,2021-10-03T19:05Z,San Diego Padres at San Francisco Giants,San Francisco Giants,San Diego Padres,11,4,1.0
+401229481,2021-10-03T19:05Z,Tampa Bay Rays at New York Yankees,New York Yankees,Tampa Bay Rays,1,0,1.0
+401229468,2021-10-03T19:07Z,Baltimore Orioles at Toronto Blue Jays,Toronto Blue Jays,Baltimore Orioles,12,4,1.0
+401229467,2021-10-03T19:10Z,Los Angeles Angels at Seattle Mariners,Seattle Mariners,Los Angeles Angels,3,7,0.0
+401229473,2021-10-03T19:10Z,Colorado Rockies at Arizona Diamondbacks,Arizona Diamondbacks,Colorado Rockies,5,4,1.0
+401229474,2021-10-03T19:10Z,Detroit Tigers at Chicago White Sox,Chicago White Sox,Detroit Tigers,2,5,0.0
+401229475,2021-10-03T19:10Z,Milwaukee Brewers at Los Angeles Dodgers,Los Angeles Dodgers,Milwaukee Brewers,10,3,1.0
+401229476,2021-10-03T19:10Z,Minnesota Twins at Kansas City Royals,Kansas City Royals,Minnesota Twins,3,7,0.0
+401229478,2021-10-03T19:10Z,Oakland Athletics at Houston Astros,Houston Astros,Oakland Athletics,7,6,1.0
+401229479,2021-10-03T19:10Z,Philadelphia Phillies at Miami Marlins,Miami Marlins,Philadelphia Phillies,5,4,1.0
+401229470,2021-10-03T19:15Z,Chicago Cubs at St. Louis Cardinals,St. Louis Cardinals,Chicago Cubs,2,3,0.0
+401229477,2021-10-03T19:20Z,New York Mets at Atlanta Braves,Atlanta Braves,New York Mets,5,0,1.0
+401361933,2021-10-06T00:00Z,New York Yankees at Boston Red Sox,Boston Red Sox,New York Yankees,6,2,1.0
+401361934,2021-10-07T00:10Z,St. Louis Cardinals at Los Angeles Dodgers,Los Angeles Dodgers,St. Louis Cardinals,3,1,1.0
+401361941,2021-10-07T20:07Z,Chicago White Sox at Houston Astros,Houston Astros,Chicago White Sox,6,1,1.0
+401361942,2021-10-08T00:07Z,Boston Red Sox at Tampa Bay Rays,Tampa Bay Rays,Boston Red Sox,5,0,1.0
+401361943,2021-10-08T18:07Z,Chicago White Sox at Houston Astros,Houston Astros,Chicago White Sox,9,4,1.0
+401361946,2021-10-08T20:37Z,Atlanta Braves at Milwaukee Brewers,Milwaukee Brewers,Atlanta Braves,2,1,1.0
+401361944,2021-10-08T23:02Z,Boston Red Sox at Tampa Bay Rays,Tampa Bay Rays,Boston Red Sox,6,14,0.0
+401361945,2021-10-09T01:37Z,Los Angeles Dodgers at San Francisco Giants,San Francisco Giants,Los Angeles Dodgers,4,0,1.0
+401361948,2021-10-09T21:07Z,Atlanta Braves at Milwaukee Brewers,Milwaukee Brewers,Atlanta Braves,0,3,0.0
+401361947,2021-10-10T01:07Z,Los Angeles Dodgers at San Francisco Giants,San Francisco Giants,Los Angeles Dodgers,2,9,0.0
+401361950,2021-10-10T20:07Z,Tampa Bay Rays at Boston Red Sox,Boston Red Sox,Tampa Bay Rays,6,4,1.0
+401361949,2021-10-11T00:07Z,Houston Astros at Chicago White Sox,Chicago White Sox,Houston Astros,12,6,1.0
+401361954,2021-10-11T17:07Z,Milwaukee Brewers at Atlanta Braves,Atlanta Braves,Milwaukee Brewers,3,0,1.0
+401361951,2021-10-11T19:37Z,Houston Astros at Chicago White Sox,Chicago White Sox,Houston Astros,0,0,0.5
+401361952,2021-10-11T23:07Z,Tampa Bay Rays at Boston Red Sox,Boston Red Sox,Tampa Bay Rays,6,5,1.0
+401361953,2021-10-12T01:37Z,San Francisco Giants at Los Angeles Dodgers,Los Angeles Dodgers,San Francisco Giants,0,1,0.0
+401382030,2021-10-12T18:07Z,Houston Astros at Chicago White Sox,Chicago White Sox,Houston Astros,1,10,0.0
+401361957,2021-10-12T21:15Z,Milwaukee Brewers at Atlanta Braves,Atlanta Braves,Milwaukee Brewers,5,4,1.0
+401361955,2021-10-13T01:07Z,San Francisco Giants at Los Angeles Dodgers,Los Angeles Dodgers,San Francisco Giants,7,2,1.0
+401361960,2021-10-15T01:07Z,Los Angeles Dodgers at San Francisco Giants,San Francisco Giants,Los Angeles Dodgers,1,2,0.0
+401361962,2021-10-16T00:07Z,Boston Red Sox at Houston Astros,Houston Astros,Boston Red Sox,5,4,1.0
+401361963,2021-10-16T20:20Z,Boston Red Sox at Houston Astros,Houston Astros,Boston Red Sox,5,9,0.0
+401361964,2021-10-17T00:08Z,Los Angeles Dodgers at Atlanta Braves,Atlanta Braves,Los Angeles Dodgers,3,2,1.0
+401361965,2021-10-17T23:38Z,Los Angeles Dodgers at Atlanta Braves,Atlanta Braves,Los Angeles Dodgers,5,4,1.0
+401361966,2021-10-19T00:08Z,Houston Astros at Boston Red Sox,Boston Red Sox,Houston Astros,12,3,1.0
+401361968,2021-10-19T21:08Z,Atlanta Braves at Los Angeles Dodgers,Los Angeles Dodgers,Atlanta Braves,6,5,1.0
+401361967,2021-10-20T00:08Z,Houston Astros at Boston Red Sox,Boston Red Sox,Houston Astros,2,9,0.0
+401361971,2021-10-20T21:08Z,Houston Astros at Boston Red Sox,Boston Red Sox,Houston Astros,1,9,0.0
+401361969,2021-10-21T00:08Z,Atlanta Braves at Los Angeles Dodgers,Los Angeles Dodgers,Atlanta Braves,2,9,0.0
+401361970,2021-10-22T00:08Z,Atlanta Braves at Los Angeles Dodgers,Los Angeles Dodgers,Atlanta Braves,11,2,1.0
+401361972,2021-10-23T00:08Z,Boston Red Sox at Houston Astros,Houston Astros,Boston Red Sox,5,0,1.0
+401361973,2021-10-24T00:08Z,Los Angeles Dodgers at Atlanta Braves,Atlanta Braves,Los Angeles Dodgers,4,2,1.0
+401361976,2021-10-27T00:09Z,Atlanta Braves at Houston Astros,Houston Astros,Atlanta Braves,2,6,0.0
+401361977,2021-10-28T00:09Z,Atlanta Braves at Houston Astros,Houston Astros,Atlanta Braves,7,2,1.0
+401361978,2021-10-30T00:09Z,Houston Astros at Atlanta Braves,Atlanta Braves,Houston Astros,2,0,1.0
+401361979,2021-10-31T00:09Z,Houston Astros at Atlanta Braves,Atlanta Braves,Houston Astros,3,2,1.0
+401361980,2021-11-01T00:15Z,Houston Astros at Atlanta Braves,Atlanta Braves,Houston Astros,5,9,0.0

@@ -1,0 +1,685 @@
+id,date,event,home,away,hs,as,res
+123662,2018-07-28T13:00Z,Generali Open,Thiago Monteiro,Guido Andreozzi,,,1.0
+93089,2018-07-30T09:10Z,Generali Open,Corentin Moutet,Mikhail Kukushkin,,,0.0
+93083,2018-07-30T11:10Z,Generali Open,Jaume Munar,Yannick Hanfmann,,,1.0
+93093,2018-07-30T11:45Z,Generali Open,Denis Istomin,Federico Delbonis,,,1.0
+93082,2018-07-30T13:35Z,Generali Open,Guillermo Garcia-Lopez,Dusan Lajovic,,,0.0
+93080,2018-07-30T15:10Z,Generali Open,Jurij Rodionov,Dennis Novak,,,0.0
+93087,2018-07-31T09:10Z,Generali Open,Roberto Carballes Baena,Nicolas Jarry,,,0.0
+123568,2018-07-31T09:10Z,Generali Open,Roberto Carballes Baena,Nicolas Jarry,,,0.0
+93088,2018-07-31T11:10Z,Generali Open,Maximilian Marterer,Jurgen Zopp,,,1.0
+93091,2018-07-31T11:10Z,Generali Open,Jozef Kovalik,Radu Albot,,,0.0
+93085,2018-07-31T12:00Z,Generali Open,Taro Daniel,Jan-Lennard Struff,,,1.0
+93081,2018-07-31T13:35Z,Generali Open,Laslo Djere,Nikoloz Basilashvili,,,1.0
+93086,2018-07-31T15:15Z,Generali Open,Gilles Simon,Matteo Berrettini,,,0.0
+93078,2018-07-31T15:35Z,Generali Open,Sebastian Ofner,Martin Klizan,,,0.0
+93096,2018-08-01T09:10Z,Generali Open,Robin Haase,Jaume Munar,,,0.0
+93173,2018-08-01T09:10Z,Generali Open,Maximilian Marterer,Mikhail Kukushkin,,,1.0
+93099,2018-08-01T11:05Z,Generali Open,Laslo Djere,Taro Daniel,,,0.0
+93174,2018-08-01T11:10Z,Generali Open,Denis Istomin,Philipp Kohlschreiber,,,1.0
+93172,2018-08-01T13:10Z,Generali Open,Nicolas Jarry,Fernando Verdasco,,,1.0
+93094,2018-08-01T13:40Z,Generali Open,Dennis Novak,Dusan Lajovic,,,0.0
+93171,2018-08-01T15:45Z,Generali Open,Matteo Berrettini,Radu Albot,,,1.0
+93095,2018-08-01T16:10Z,Generali Open,Dominic Thiem,Martin Klizan,,,0.0
+93105,2018-08-02T11:10Z,Generali Open,Maximilian Marterer,Denis Istomin,,,0.0
+93104,2018-08-02T12:35Z,Generali Open,Matteo Berrettini,Nicolas Jarry,,,0.0
+93103,2018-08-02T13:05Z,Generali Open,Jaume Munar,Taro Daniel,,,1.0
+93102,2018-08-02T15:10Z,Generali Open,Martin Klizan,Dusan Lajovic,,,1.0
+93107,2018-08-03T11:10Z,Generali Open,Nicolas Jarry,Denis Istomin,,,0.0
+93106,2018-08-03T14:10Z,Generali Open,Martin Klizan,Jaume Munar,,,1.0
+93108,2018-08-04T12:10Z,Generali Open,Martin Klizan,Denis Istomin,,,1.0
+120281,2018-07-28T15:30Z,Citi Open,Filip Peliwo,Antoine Escoffier,,,0.0
+93024,2018-07-30T19:40Z,Citi Open,Ilya Ivashka,Hubert Hurkacz,,,0.0
+93017,2018-07-30T19:45Z,Citi Open,Tim Smyczek,Ricardas Berankis,,,1.0
+93016,2018-07-30T19:50Z,Citi Open,Evgeny Donskoy,Malek Jaziri,,,0.0
+93035,2018-07-31T02:05Z,Citi Open,Mackenzie McDonald,Andy Murray,,,0.0
+93045,2018-07-31T02:45Z,Citi Open,Mikhail Youzhny,Noah Rubin,,,0.0
+93036,2018-07-31T03:10Z,Citi Open,Mirza Basic,Marius Copil,,,0.0
+93031,2018-07-31T20:30Z,Citi Open,Jared Donaldson,Jordan Thompson,,,1.0
+93028,2018-07-31T20:50Z,Citi Open,James Duckworth,Thai-Son Kwiatkowski,,,1.0
+93042,2018-07-31T21:00Z,Citi Open,Lukas Lacko,Denis Kudla,,,0.0
+93020,2018-07-31T21:55Z,Citi Open,Yosuke Watanuki,Daniil Medvedev,,,0.0
+93038,2018-07-31T22:20Z,Citi Open,Vasek Pospisil,Alex de Minaur,,,0.0
+93030,2018-07-31T22:35Z,Citi Open,Marcos Baghdatis,Benoit Paire,,,1.0
+93023,2018-07-31T23:15Z,Citi Open,Stan Wawrinka,Donald Young,,,0.0
+93026,2018-08-01T00:20Z,Citi Open,Pierre-Hugues Herbert,Mitchell Krueger,,,1.0
+93041,2018-08-01T00:55Z,Citi Open,Vincent Millot,Yuichi Sugita,,,1.0
+93058,2018-08-01T16:10Z,Citi Open,Denis Kudla,Karen Khachanov,,,1.0
+93056,2018-08-01T16:10Z,Citi Open,Jeremy Chardy,Marius Copil,,,0.0
+93049,2018-08-01T16:10Z,Citi Open,Hubert Hurkacz,Frances Tiafoe,,,0.0
+93051,2018-08-01T16:15Z,Citi Open,James Duckworth,Jason Kubler,,,1.0
+93077,2018-08-01T17:35Z,Citi Open,Tim Smyczek,Mischa Zverev,,,0.0
+93040,2018-08-01T19:45Z,Citi Open,Tommy Paul,Alex Bolt,,,1.0
+93046,2018-08-01T20:00Z,Citi Open,Denis Shapovalov,Daniil Medvedev,,,1.0
+93050,2018-08-01T20:40Z,Citi Open,Stefanos Tsitsipas,Jared Donaldson,,,1.0
+93059,2018-08-01T20:45Z,Citi Open,Andy Murray,Kyle Edmund,,,1.0
+93054,2018-08-01T21:10Z,Citi Open,Lucas Pouille,Vincent Millot,,,1.0
+93074,2018-08-01T22:30Z,Citi Open,Alexander Zverev,Malek Jaziri,,,1.0
+93052,2018-08-01T22:30Z,Citi Open,Hyeon Chung,Marcos Baghdatis,,,1.0
+93048,2018-08-01T23:15Z,Citi Open,David Goffin,Pierre-Hugues Herbert,,,1.0
+93053,2018-08-02T00:25Z,Citi Open,Donald Young,Kei Nishikori,,,0.0
+93055,2018-08-02T20:00Z,Citi Open,Andrey Rublev,Tommy Paul,,,1.0
+93057,2018-08-02T20:00Z,Citi Open,Alex de Minaur,Steve Johnson,,,1.0
+93060,2018-08-02T21:55Z,Citi Open,Noah Rubin,John Isner,,,1.0
+93062,2018-08-02T23:15Z,Citi Open,Stefanos Tsitsipas,James Duckworth,,,1.0
+93064,2018-08-02T23:55Z,Citi Open,Alexander Zverev,Mischa Zverev,,,1.0
+93066,2018-08-03T00:55Z,Citi Open,David Goffin,Frances Tiafoe,,,1.0
+93065,2018-08-03T02:00Z,Citi Open,Denis Shapovalov,Kei Nishikori,,,0.0
+93068,2018-08-03T02:25Z,Citi Open,Andrey Rublev,Noah Rubin,,,1.0
+93063,2018-08-03T03:05Z,Citi Open,Hyeon Chung,Alex de Minaur,,,0.0
+93067,2018-08-03T03:10Z,Citi Open,Lucas Pouille,Denis Kudla,,,0.0
+93061,2018-08-03T04:00Z,Citi Open,Marius Copil,Andy Murray,,,0.0
+93071,2018-08-03T18:10Z,Citi Open,David Goffin,Stefanos Tsitsipas,,,0.0
+93070,2018-08-03T20:05Z,Citi Open,Alexander Zverev,Kei Nishikori,,,1.0
+93069,2018-08-04T01:00Z,Citi Open,Alex de Minaur,Andy Murray,,,1.0
+93073,2018-08-04T16:10Z,Citi Open,Denis Kudla,Andrey Rublev,,,0.0
+93072,2018-08-04T18:10Z,Citi Open,Alexander Zverev,Stefanos Tsitsipas,,,1.0
+93075,2018-08-04T23:10Z,Citi Open,Alex de Minaur,Andrey Rublev,,,1.0
+93076,2018-08-05T19:10Z,Citi Open,Alexander Zverev,Alex de Minaur,,,1.0
+92986,2018-07-30T18:10Z,Citi Open,Katie Boulter,Aleksandra Krunic,,,1.0
+92987,2018-07-30T18:10Z,Citi Open,Allie Kiick,Han Xinyun,,,1.0
+92993,2018-07-30T18:10Z,Citi Open,Svetlana Kuznetsova,Kristie Ahn,,,1.0
+92998,2018-07-30T18:40Z,Citi Open,Jamie Loeb,Andrea Petkovic,,,0.0
+92989,2018-07-31T03:10Z,Citi Open,Mayo Hibi,Fanny Stollar,,,0.0
+92994,2018-07-31T18:15Z,Citi Open,Nao Hibino,Sofya Zhuk,,,1.0
+92992,2018-07-31T18:20Z,Citi Open,Yulia Putintseva,Tatjana Maria,,,1.0
+92991,2018-07-31T18:20Z,Citi Open,Naomi Osaka,Bernarda Pera,,,1.0
+92997,2018-07-31T18:20Z,Citi Open,Ana Bogdan,Ekaterina Makarova,,,1.0
+92990,2018-07-31T18:20Z,Citi Open,Caroline Dolehide,Donna Vekic,,,0.0
+92999,2018-07-31T18:40Z,Citi Open,Bethanie Mattek-Sands,Sloane Stephens,,,0.0
+92996,2018-07-31T20:00Z,Citi Open,Belinda Bencic,Harriet Dart,,,1.0
+92985,2018-08-01T18:10Z,Citi Open,Ysaline Bonaventure,Anhelina Kalinina,,,1.0
+93003,2018-08-01T18:40Z,Citi Open,Andrea Petkovic,Sloane Stephens,,,1.0
+92984,2018-08-01T18:40Z,Citi Open,Katie Swan,Zheng Saisai,,,0.0
+92995,2018-08-01T19:35Z,Citi Open,Jennifer Brady,Natalia Vikhlyantseva,,,1.0
+92988,2018-08-01T23:30Z,Citi Open,Magda Linette,Olivia Rogowska,,,1.0
+93000,2018-08-02T18:10Z,Citi Open,Ysaline Bonaventure,Zheng Saisai,,,0.0
+93006,2018-08-02T18:30Z,Citi Open,Belinda Bencic,Nao Hibino,,,1.0
+93001,2018-08-02T21:30Z,Citi Open,Allie Kiick,Katie Boulter,,,1.0
+93002,2018-08-02T22:15Z,Citi Open,Fanny Stollar,Donna Vekic,,,0.0
+93004,2018-08-03T00:15Z,Citi Open,Yulia Putintseva,Jennifer Brady,,,1.0
+93005,2018-08-03T00:35Z,Citi Open,Svetlana Kuznetsova,Ana Bogdan,,,1.0
+93008,2018-08-03T00:40Z,Citi Open,Naomi Osaka,Magda Linette,,,0.0
+93009,2018-08-03T18:05Z,Citi Open,Belinda Bencic,Andrea Petkovic,,,0.0
+93011,2018-08-04T16:00Z,Citi Open,Magda Linette,Donna Vekic,,,0.0
+93013,2018-08-04T16:00Z,Citi Open,Yulia Putintseva,Svetlana Kuznetsova,,,0.0
+93007,2018-08-04T16:45Z,Citi Open,Zheng Saisai,Allie Kiick,,,1.0
+93012,2018-08-04T20:10Z,Citi Open,Svetlana Kuznetsova,Andrea Petkovic,,,1.0
+93014,2018-08-05T02:20Z,Citi Open,Zheng Saisai,Donna Vekic,,,0.0
+93010,2018-08-05T21:10Z,Citi Open,Donna Vekic,Svetlana Kuznetsova,,,0.0
+123764,2018-07-29T23:10Z,Abierto de Tenis Mifel,Daniel Elahi Galan,Marcos Giron,,,0.0
+129783,2018-07-31T00:00Z,Abierto de Tenis Mifel,Ernesto Escobedo,Michael Mmoh,,,0.0
+93148,2018-07-31T00:05Z,Abierto de Tenis Mifel,Ernesto Escobedo,Michael Mmoh,,,0.0
+93149,2018-07-31T00:10Z,Abierto de Tenis Mifel,Gastao Elias,Yoshihito Nishioka,,,0.0
+93143,2018-07-31T01:50Z,Abierto de Tenis Mifel,Thomas Fabbiano,Takanyi Garanganga,,,1.0
+122307,2018-07-31T02:00Z,Abierto de Tenis Mifel,Taylor Fritz,Thanasi Kokkinakis,,,1.0
+93150,2018-07-31T02:00Z,Abierto de Tenis Mifel,Taylor Fritz,Thanasi Kokkinakis,,,1.0
+93152,2018-07-31T04:25Z,Abierto de Tenis Mifel,Ivo Karlovic,Elias Ymer,,,0.0
+93142,2018-08-01T00:05Z,Abierto de Tenis Mifel,Bernard Tomic,Egor Gerasimov,,,0.0
+93153,2018-08-01T00:05Z,Abierto de Tenis Mifel,Cameron Norrie,Prajnesh Gunneswaran,,,1.0
+93144,2018-08-01T00:05Z,Abierto de Tenis Mifel,Lucas Gomez,Sam Querrey,,,0.0
+93147,2018-08-01T01:20Z,Abierto de Tenis Mifel,Feliciano Lopez,Mohamed Safwat,,,1.0
+93141,2018-08-01T01:20Z,Abierto de Tenis Mifel,Marcos Giron,Marcelo Arevalo,,,1.0
+93146,2018-08-01T01:30Z,Abierto de Tenis Mifel,Peter Polansky,Daniel Elahi Galan,,,1.0
+93154,2018-08-01T03:10Z,Abierto de Tenis Mifel,Gilles Muller,Quentin Halys,,,0.0
+122318,2018-08-02T00:00Z,Abierto de Tenis Mifel,Taylor Fritz,Yoshihito Nishioka,,,0.0
+93159,2018-08-02T00:05Z,Abierto de Tenis Mifel,Michael Mmoh,Peter Polansky,,,1.0
+93160,2018-08-02T00:05Z,Abierto de Tenis Mifel,Taylor Fritz,Yoshihito Nishioka,,,0.0
+93157,2018-08-02T00:05Z,Abierto de Tenis Mifel,Damir Dzumhur,Thomas Fabbiano,,,1.0
+93164,2018-08-02T00:10Z,Abierto de Tenis Mifel,Feliciano Lopez,Cameron Norrie,,,0.0
+93165,2018-08-02T01:50Z,Abierto de Tenis Mifel,Elias Ymer,Adrian Mannarino,,,0.0
+93156,2018-08-02T02:00Z,Abierto de Tenis Mifel,Juan Martin del Potro,Marcos Giron,,,1.0
+93158,2018-08-02T02:30Z,Abierto de Tenis Mifel,Egor Gerasimov,Sam Querrey,,,1.0
+93163,2018-08-02T04:00Z,Abierto de Tenis Mifel,Quentin Halys,Fabio Fognini,,,0.0
+93162,2018-08-03T00:10Z,Abierto de Tenis Mifel,Damir Dzumhur,Michael Mmoh,,,1.0
+93167,2018-08-03T01:45Z,Abierto de Tenis Mifel,Yoshihito Nishioka,Fabio Fognini,,,0.0
+93166,2018-08-03T02:05Z,Abierto de Tenis Mifel,Cameron Norrie,Adrian Mannarino,,,1.0
+93161,2018-08-03T03:10Z,Abierto de Tenis Mifel,Juan Martin del Potro,Egor Gerasimov,,,1.0
+93168,2018-08-04T02:00Z,Abierto de Tenis Mifel,Cameron Norrie,Fabio Fognini,,,0.0
+93169,2018-08-04T03:40Z,Abierto de Tenis Mifel,Juan Martin del Potro,Damir Dzumhur,,,1.0
+93170,2018-08-05T03:15Z,Abierto de Tenis Mifel,Juan Martin del Potro,Fabio Fognini,,,0.0
+122089,2018-08-04T20:15Z,Omnium National Bank presented by Rogers,Alison Riske-Amritraj,Renata Voracova,,,1.0
+121970,2018-08-05T15:00Z,Omnium National Bank presented by Rogers,Alison Riske-Amritraj,Christina McHale,,,0.0
+93255,2018-08-06T15:05Z,Omnium National Bank presented by Rogers,Ekaterina Makarova,Anett Kontaveit,,,0.0
+93256,2018-08-06T15:10Z,Omnium National Bank presented by Rogers,Timea Babos,Julia Goerges,,,0.0
+93257,2018-08-06T15:10Z,Omnium National Bank presented by Rogers,Aleksandra Krunic,Anastasija Sevastova,,,0.0
+93254,2018-08-06T16:25Z,Omnium National Bank presented by Rogers,Lucie Safarova,Daria Saville,,,1.0
+93249,2018-08-06T17:50Z,Omnium National Bank presented by Rogers,Karolina Pliskova,Katerina Siniakova,,,1.0
+93248,2018-08-06T19:10Z,Omnium National Bank presented by Rogers,Barbora Strycova,Magdalena Rybarikova,,,0.0
+93258,2018-08-06T19:20Z,Omnium National Bank presented by Rogers,Lesia Tsurenko,Katie Boulter,,,1.0
+93241,2018-08-06T19:40Z,Omnium National Bank presented by Rogers,Caroline Dolehide,Venus Williams,,,0.0
+93250,2018-08-07T15:15Z,Omnium National Bank presented by Rogers,Irina-Camelia Begu,Ashleigh Barty,,,0.0
+93238,2018-08-07T15:20Z,Omnium National Bank presented by Rogers,Monica Niculescu,Sorana Cirstea,,,0.0
+93264,2018-08-07T15:20Z,Omnium National Bank presented by Rogers,Johanna Konta,Jelena Ostapenko,,,1.0
+93246,2018-08-07T15:20Z,Omnium National Bank presented by Rogers,Alison Van Uytvanck,Sofya Zhuk,,,1.0
+93259,2018-08-07T16:35Z,Omnium National Bank presented by Rogers,Naomi Osaka,Carla Suarez Navarro,,,0.0
+93279,2018-08-07T17:40Z,Omnium National Bank presented by Rogers,Anett Kontaveit,Petra Kvitova,,,0.0
+93268,2018-08-07T17:45Z,Omnium National Bank presented by Rogers,Aryna Sabalenka,Ana Bogdan,,,1.0
+93251,2018-08-07T18:20Z,Omnium National Bank presented by Rogers,Carol Zhao,Kiki Bertens,,,0.0
+93277,2018-08-07T18:20Z,Omnium National Bank presented by Rogers,Lucie Safarova,Julia Goerges,,,0.0
+93244,2018-08-07T19:20Z,Omnium National Bank presented by Rogers,Maria Sharapova,Sesil Karatantcheva,,,1.0
+93263,2018-08-07T20:00Z,Omnium National Bank presented by Rogers,Wang Qiang,Mihaela Buzarnescu,,,0.0
+93265,2018-08-07T20:30Z,Omnium National Bank presented by Rogers,Elise Mertens,Eugenie Bouchard,,,1.0
+93243,2018-08-07T20:30Z,Omnium National Bank presented by Rogers,Tatjana Maria,Alize Cornet,,,0.0
+93240,2018-08-07T21:45Z,Omnium National Bank presented by Rogers,Anastasia Pavlyuchenkova,Christina McHale,,,1.0
+93242,2018-08-07T22:00Z,Omnium National Bank presented by Rogers,Daria Kasatkina,Maria Sakkari,,,1.0
+93266,2018-08-07T22:45Z,Omnium National Bank presented by Rogers,Victoria Azarenka,Kristina Mladenovic,,,1.0
+93267,2018-08-07T23:15Z,Omnium National Bank presented by Rogers,Zhang Shuai,Barbora Krejcikova,,,1.0
+93276,2018-08-08T00:00Z,Omnium National Bank presented by Rogers,Magdalena Rybarikova,Caroline Garcia,,,0.0
+93261,2018-08-08T00:35Z,Omnium National Bank presented by Rogers,Francoise Abanda,Kirsten Flipkens,,,1.0
+93273,2018-08-08T15:10Z,Omnium National Bank presented by Rogers,Angelique Kerber,Alize Cornet,,,0.0
+93280,2018-08-08T15:10Z,Omnium National Bank presented by Rogers,Carla Suarez Navarro,Lesia Tsurenko,,,1.0
+93275,2018-08-08T15:10Z,Omnium National Bank presented by Rogers,Alison Van Uytvanck,Ashleigh Barty,,,0.0
+93274,2018-08-08T16:45Z,Omnium National Bank presented by Rogers,Karolina Pliskova,Kiki Bertens,,,0.0
+93272,2018-08-08T16:55Z,Omnium National Bank presented by Rogers,Daria Kasatkina,Maria Sharapova,,,0.0
+93285,2018-08-08T17:10Z,Omnium National Bank presented by Rogers,Elina Svitolina,Mihaela Buzarnescu,,,1.0
+93281,2018-08-08T18:30Z,Omnium National Bank presented by Rogers,Francoise Abanda,Sloane Stephens,,,0.0
+93284,2018-08-08T18:30Z,Omnium National Bank presented by Rogers,Elise Mertens,Zhang Shuai,,,1.0
+93278,2018-08-08T19:45Z,Omnium National Bank presented by Rogers,Monica Puig,Anastasija Sevastova,,,0.0
+93289,2018-08-09T15:10Z,Omnium National Bank presented by Rogers,Carla Suarez Navarro,Sloane Stephens,,,0.0
+93290,2018-08-09T15:10Z,Omnium National Bank presented by Rogers,Alize Cornet,Ashleigh Barty,,,0.0
+93269,2018-08-09T17:00Z,Omnium National Bank presented by Rogers,Simona Halep,Anastasia Pavlyuchenkova,,,1.0
+93283,2018-08-09T17:00Z,Omnium National Bank presented by Rogers,Victoria Azarenka,Johanna Konta,,,0.0
+93291,2018-08-09T17:25Z,Omnium National Bank presented by Rogers,Anastasija Sevastova,Julia Goerges,,,1.0
+93271,2018-08-09T17:55Z,Omnium National Bank presented by Rogers,Sorana Cirstea,Venus Williams,,,0.0
+93282,2018-08-09T19:50Z,Omnium National Bank presented by Rogers,Aryna Sabalenka,Caroline Wozniacki,,,1.0
+93293,2018-08-09T20:35Z,Omnium National Bank presented by Rogers,Kiki Bertens,Petra Kvitova,,,1.0
+93287,2018-08-09T20:45Z,Omnium National Bank presented by Rogers,Elina Svitolina,Johanna Konta,,,1.0
+93286,2018-08-09T23:00Z,Omnium National Bank presented by Rogers,Maria Sharapova,Caroline Garcia,,,0.0
+93292,2018-08-10T00:25Z,Omnium National Bank presented by Rogers,Elise Mertens,Aryna Sabalenka,,,1.0
+93288,2018-08-10T00:50Z,Omnium National Bank presented by Rogers,Simona Halep,Venus Williams,,,1.0
+93297,2018-08-10T16:40Z,Omnium National Bank presented by Rogers,Ashleigh Barty,Kiki Bertens,,,1.0
+93294,2018-08-10T17:55Z,Omnium National Bank presented by Rogers,Anastasija Sevastova,Sloane Stephens,,,0.0
+93296,2018-08-11T00:00Z,Omnium National Bank presented by Rogers,Simona Halep,Caroline Garcia,,,1.0
+93295,2018-08-11T00:30Z,Omnium National Bank presented by Rogers,Elina Svitolina,Elise Mertens,,,1.0
+93299,2018-08-11T17:10Z,Omnium National Bank presented by Rogers,Simona Halep,Ashleigh Barty,,,1.0
+93298,2018-08-11T22:10Z,Omnium National Bank presented by Rogers,Sloane Stephens,Elina Svitolina,,,1.0
+93300,2018-08-12T17:40Z,Omnium National Bank presented by Rogers,Simona Halep,Sloane Stephens,,,1.0
+120255,2018-08-05T16:35Z,Omnium National Bank presented by Rogers,Filip Peliwo,Yoshihito Nishioka,,,0.0
+123116,2018-08-06T21:30Z,Omnium National Bank presented by Rogers,Albert Ramos-Vinolas,Pierre-Hugues Herbert,,,0.0
+93177,2018-08-06T15:05Z,Rogers Cup (M),Jared Donaldson,Benoit Paire,,,0.0
+93197,2018-08-06T15:10Z,Rogers Cup (M),Yuichi Sugita,Ilya Ivashka,,,0.0
+93203,2018-08-06T15:10Z,Rogers Cup (M),Peter Polansky,Matthew Ebden,,,1.0
+93193,2018-08-06T16:35Z,Rogers Cup (M),Peter Gojowczyk,Fernando Verdasco,,,0.0
+93175,2018-08-06T16:40Z,Rogers Cup (M),João Sousa,Marton Fucsovics,,,0.0
+93202,2018-08-06T17:10Z,Rogers Cup (M),Jack Sock,Daniil Medvedev,,,0.0
+93184,2018-08-06T17:15Z,Rogers Cup (M),Albert Ramos-Vinolas,Pierre-Hugues Herbert,,,0.0
+93208,2018-08-06T17:50Z,Rogers Cup (M),Bradley Klahn,David Ferrer,,,1.0
+93187,2018-08-06T23:05Z,Rogers Cup (M),Pablo Carreno Busta,Yoshihito Nishioka,,,1.0
+93183,2018-08-06T23:10Z,Rogers Cup (M),Diego Schwartzman,Kyle Edmund,,,1.0
+93198,2018-08-06T23:10Z,Rogers Cup (M),Milos Raonic,David Goffin,,,1.0
+93181,2018-08-07T00:50Z,Rogers Cup (M),Vasek Pospisil,Borna Coric,,,0.0
+93188,2018-08-07T15:10Z,Rogers Cup (M),Filip Krajinovic,Karen Khachanov,,,0.0
+93180,2018-08-07T15:10Z,Rogers Cup (M),Sam Querrey,Adrian Mannarino,,,1.0
+93185,2018-08-07T15:15Z,Rogers Cup (M),Kei Nishikori,Robin Haase,,,0.0
+93179,2018-08-07T15:15Z,Rogers Cup (M),Stan Wawrinka,Nick Kyrgios,,,1.0
+93194,2018-08-07T16:25Z,Rogers Cup (M),Mackenzie McDonald,Ryan Harrison,,,0.0
+93192,2018-08-07T16:45Z,Rogers Cup (M),Frances Tiafoe,Marco Cecchinato,,,1.0
+93200,2018-08-07T16:50Z,Rogers Cup (M),Damir Dzumhur,Stefanos Tsitsipas,,,0.0
+93201,2018-08-07T17:35Z,Rogers Cup (M),Mirza Basic,Novak Djokovic,,,0.0
+93186,2018-08-07T18:35Z,Rogers Cup (M),Steve Johnson,Fabio Fognini,,,0.0
+93204,2018-08-07T19:25Z,Rogers Cup (M),Felix Auger-Aliassime,Lucas Pouille,,,1.0
+93196,2018-08-07T20:15Z,Rogers Cup (M),Evgeny Donskoy,Andrey Rublev,,,1.0
+93212,2018-08-07T22:30Z,Rogers Cup (M),Grigor Dimitrov,Fernando Verdasco,,,1.0
+93189,2018-08-07T23:10Z,Rogers Cup (M),Jeremy Chardy,Denis Shapovalov,,,0.0
+93213,2018-08-08T02:45Z,Rogers Cup (M),Borna Coric,Marin Cilic,,,0.0
+93220,2018-08-08T16:00Z,Rogers Cup (M),Peter Polansky,Novak Djokovic,,,0.0
+93209,2018-08-08T16:10Z,Rogers Cup (M),Mikhail Youzhny,Robin Haase,,,0.0
+93211,2018-08-08T16:25Z,Rogers Cup (M),Pablo Carreno Busta,Karen Khachanov,,,0.0
+93218,2018-08-08T16:30Z,Rogers Cup (M),Ryan Harrison,Ilya Ivashka,,,0.0
+93215,2018-08-08T20:05Z,Rogers Cup (M),Frances Tiafoe,Milos Raonic,,,1.0
+93214,2018-08-08T20:20Z,Rogers Cup (M),Pierre-Hugues Herbert,John Isner,,,0.0
+93219,2018-08-08T20:40Z,Rogers Cup (M),Dominic Thiem,Stefanos Tsitsipas,,,0.0
+93216,2018-08-08T20:45Z,Rogers Cup (M),Denis Shapovalov,Fabio Fognini,,,1.0
+93217,2018-08-08T21:15Z,Rogers Cup (M),Evgeny Donskoy,Kevin Anderson,,,0.0
+93205,2018-08-08T23:45Z,Rogers Cup (M),Rafael Nadal,Benoit Paire,,,1.0
+93226,2018-08-08T23:50Z,Rogers Cup (M),Bradley Klahn,Alexander Zverev,,,0.0
+93206,2018-08-09T00:05Z,Rogers Cup (M),Marton Fucsovics,Stan Wawrinka,,,0.0
+93225,2018-08-09T01:30Z,Rogers Cup (M),Daniil Medvedev,Felix Auger-Aliassime,,,1.0
+93210,2018-08-09T01:45Z,Rogers Cup (M),Diego Schwartzman,Sam Querrey,,,1.0
+93228,2018-08-09T15:10Z,Rogers Cup (M),Grigor Dimitrov,Frances Tiafoe,,,1.0
+93227,2018-08-09T16:55Z,Rogers Cup (M),Ilya Ivashka,Kevin Anderson,,,0.0
+93231,2018-08-09T17:55Z,Rogers Cup (M),Stefanos Tsitsipas,Novak Djokovic,,,1.0
+93222,2018-08-09T20:10Z,Rogers Cup (M),Diego Schwartzman,Marin Cilic,,,0.0
+93230,2018-08-09T20:35Z,Rogers Cup (M),Daniil Medvedev,Alexander Zverev,,,0.0
+93223,2018-08-09T22:40Z,Rogers Cup (M),Robin Haase,Denis Shapovalov,,,1.0
+93224,2018-08-09T22:50Z,Rogers Cup (M),Karen Khachanov,John Isner,,,1.0
+93221,2018-08-10T00:25Z,Rogers Cup (M),Rafael Nadal,Stan Wawrinka,,,1.0
+93232,2018-08-10T16:40Z,Rogers Cup (M),Grigor Dimitrov,Kevin Anderson,,,0.0
+93236,2018-08-10T18:10Z,Rogers Cup (M),Stefanos Tsitsipas,Alexander Zverev,,,1.0
+93229,2018-08-11T00:00Z,Rogers Cup (M),Robin Haase,Karen Khachanov,,,0.0
+93233,2018-08-11T00:10Z,Rogers Cup (M),Rafael Nadal,Marin Cilic,,,1.0
+93234,2018-08-11T19:10Z,Rogers Cup (M),Kevin Anderson,Stefanos Tsitsipas,,,0.0
+93237,2018-08-12T02:15Z,Rogers Cup (M),Rafael Nadal,Karen Khachanov,,,1.0
+93235,2018-08-12T20:10Z,Rogers Cup (M),Rafael Nadal,Stefanos Tsitsipas,,,1.0
+123965,2018-08-11T16:30Z,Western & Southern Open,Anna Karolina Schmiedlova,Rebecca Peterson,,,0.0
+132226,2018-08-14T21:15Z,Western & Southern Open,Viktoria Hruncakova,Kristina Mladenovic,,,0.0
+123813,2018-08-12T02:15Z,Western & Southern Open,J.J. Wolf,Jozef Kovalik,,,1.0
+93335,2018-08-12T18:35Z,Western & Southern Open,Adrian Mannarino,Marco Cecchinato,,,1.0
+93336,2018-08-12T23:05Z,Western & Southern Open,Mackenzie McDonald,Kyle Edmund,,,0.0
+93343,2018-08-13T15:05Z,Western & Southern Open,Richard Gasquet,Pablo Carreno Busta,,,0.0
+93357,2018-08-13T15:10Z,Western & Southern Open,Kei Nishikori,Andrey Rublev,,,1.0
+93363,2018-08-13T15:10Z,Western & Southern Open,Peter Gojowczyk,João Sousa,,,1.0
+93358,2018-08-13T17:05Z,Western & Southern Open,Lucas Pouille,Andy Murray,,,1.0
+93337,2018-08-13T17:40Z,Western & Southern Open,Frances Tiafoe,Denis Shapovalov,,,0.0
+93361,2018-08-13T18:40Z,Western & Southern Open,Michael Mmoh,Leonardo Mayer,,,0.0
+93338,2018-08-13T19:00Z,Western & Southern Open,Maximilian Marterer,Bradley Klahn,,,0.0
+93354,2018-08-13T20:20Z,Western & Southern Open,David Ferrer,Benoit Paire,,,0.0
+93347,2018-08-13T20:25Z,Western & Southern Open,John Isner,Sam Querrey,,,0.0
+93344,2018-08-13T20:45Z,Western & Southern Open,Jeremy Chardy,Fernando Verdasco,,,1.0
+93359,2018-08-13T23:10Z,Western & Southern Open,Stan Wawrinka,Diego Schwartzman,,,1.0
+93333,2018-08-14T00:40Z,Western & Southern Open,Novak Djokovic,Steve Johnson,,,1.0
+93340,2018-08-14T15:05Z,Western & Southern Open,Robin Haase,Filip Krajinovic,,,1.0
+93334,2018-08-14T15:10Z,Western & Southern Open,Dusan Lajovic,Milos Raonic,,,0.0
+93352,2018-08-14T15:10Z,Western & Southern Open,Hyeon Chung,Jack Sock,,,1.0
+93346,2018-08-14T16:25Z,Western & Southern Open,Karen Khachanov,Albert Ramos-Vinolas,,,1.0
+93348,2018-08-14T17:00Z,Western & Southern Open,Philipp Kohlschreiber,Marius Copil,,,0.0
+93353,2018-08-14T17:20Z,Western & Southern Open,Nick Kyrgios,Denis Kudla,,,1.0
+93350,2018-08-14T17:50Z,Western & Southern Open,Borna Coric,Daniil Medvedev,,,1.0
+93383,2018-08-14T18:40Z,Western & Southern Open,Lucas Pouille,Leonardo Mayer,,,0.0
+93351,2018-08-14T19:10Z,Western & Southern Open,Stefanos Tsitsipas,David Goffin,,,0.0
+93360,2018-08-14T19:30Z,Western & Southern Open,Marton Fucsovics,Hubert Hurkacz,,,1.0
+93342,2018-08-14T20:35Z,Western & Southern Open,Damir Dzumhur,Mischa Zverev,,,0.0
+93378,2018-08-14T23:10Z,Western & Southern Open,Peter Gojowczyk,Roger Federer,,,0.0
+93367,2018-08-15T02:10Z,Western & Southern Open,Denis Shapovalov,Kyle Edmund,,,1.0
+93368,2018-08-15T15:10Z,Western & Southern Open,Alexander Zverev,Robin Haase,,,0.0
+93371,2018-08-15T15:10Z,Western & Southern Open,Marius Copil,Marin Cilic,,,0.0
+93369,2018-08-15T16:45Z,Western & Southern Open,Novak Djokovic,Adrian Mannarino,,,1.0
+93372,2018-08-15T17:10Z,Western & Southern Open,Benoit Paire,David Goffin,,,0.0
+93375,2018-08-15T17:45Z,Western & Southern Open,Kevin Anderson,Jeremy Chardy,,,1.0
+93366,2018-08-15T18:05Z,Western & Southern Open,Malek Jaziri,Milos Raonic,,,0.0
+93364,2018-08-15T18:25Z,Western & Southern Open,Bradley Klahn,Pablo Carreno Busta,,,0.0
+93370,2018-08-15T19:40Z,Western & Southern Open,Sam Querrey,Karen Khachanov,,,0.0
+93365,2018-08-15T22:40Z,Western & Southern Open,Mischa Zverev,Grigor Dimitrov,,,0.0
+93377,2018-08-15T23:15Z,Western & Southern Open,Guillermo Garcia-Lopez,Marton Fucsovics,,,0.0
+93374,2018-08-15T23:55Z,Western & Southern Open,Nick Kyrgios,Borna Coric,,,1.0
+93381,2018-08-16T00:55Z,Western & Southern Open,Kei Nishikori,Stan Wawrinka,,,0.0
+93373,2018-08-16T19:25Z,Western & Southern Open,Hyeon Chung,Juan Martin del Potro,,,0.0
+93380,2018-08-16T19:25Z,Western & Southern Open,Milos Raonic,Denis Shapovalov,,,1.0
+93379,2018-08-16T20:30Z,Western & Southern Open,Robin Haase,Pablo Carreno Busta,,,0.0
+93387,2018-08-17T15:35Z,Western & Southern Open,Nick Kyrgios,Juan Martin del Potro,,,0.0
+93376,2018-08-17T15:45Z,Western & Southern Open,Kevin Anderson,David Goffin,,,0.0
+93382,2018-08-17T17:20Z,Western & Southern Open,Novak Djokovic,Grigor Dimitrov,,,1.0
+93384,2018-08-17T17:25Z,Western & Southern Open,Karen Khachanov,Marin Cilic,,,0.0
+93388,2018-08-17T18:00Z,Western & Southern Open,Marton Fucsovics,Stan Wawrinka,,,0.0
+93386,2018-08-17T18:10Z,Western & Southern Open,Leonardo Mayer,Roger Federer,,,0.0
+93385,2018-08-17T20:10Z,Western & Southern Open,Pablo Carreno Busta,Marin Cilic,,,0.0
+93389,2018-08-17T20:40Z,Western & Southern Open,Milos Raonic,Novak Djokovic,,,0.0
+93390,2018-08-18T00:00Z,Western & Southern Open,David Goffin,Juan Martin del Potro,,,1.0
+93393,2018-08-18T01:15Z,Western & Southern Open,Stan Wawrinka,Roger Federer,,,0.0
+93394,2018-08-18T18:25Z,Western & Southern Open,Novak Djokovic,Marin Cilic,,,1.0
+93391,2018-08-18T23:10Z,Western & Southern Open,David Goffin,Roger Federer,,,0.0
+93392,2018-08-19T20:50Z,Western & Southern Open,Novak Djokovic,Roger Federer,,,1.0
+93421,2018-08-13T15:05Z,Western & Southern Open,Anett Kontaveit,Barbora Strycova,,,1.0
+93402,2018-08-13T15:10Z,Western & Southern Open,Danielle Collins,Lesia Tsurenko,,,0.0
+93410,2018-08-13T15:10Z,Western & Southern Open,Victoria Azarenka,Carla Suarez Navarro,,,1.0
+93420,2018-08-13T16:30Z,Western & Southern Open,Svetlana Kuznetsova,Stefanie Voegele,,,1.0
+93412,2018-08-13T16:35Z,Western & Southern Open,Aliaksandra Sasnovich,Viktoria Hruncakova,,,0.0
+93406,2018-08-13T17:55Z,Western & Southern Open,Bethanie Mattek-Sands,Madison Keys,,,0.0
+93417,2018-08-13T19:20Z,Western & Southern Open,Kristina Mladenovic,Julia Goerges,,,1.0
+93395,2018-08-13T20:55Z,Western & Southern Open,Irina-Camelia Begu,Ajla Tomljanovic,,,0.0
+93407,2018-08-13T21:50Z,Western & Southern Open,Johanna Konta,Aryna Sabalenka,,,0.0
+93411,2018-08-13T23:10Z,Western & Southern Open,Daria Saville,Serena Williams,,,0.0
+93418,2018-08-14T00:35Z,Western & Southern Open,Rebecca Peterson,Katerina Siniakova,,,1.0
+93401,2018-08-14T01:25Z,Western & Southern Open,Jelena Ostapenko,Alize Cornet,,,0.0
+93398,2018-08-14T15:05Z,Western & Southern Open,Marketa Vondrousova,Ashleigh Barty,,,0.0
+93414,2018-08-14T15:05Z,Western & Southern Open,Tatjana Maria,Allie Kiick,,,1.0
+93400,2018-08-14T15:10Z,Western & Southern Open,Ana Bogdan,Ekaterina Makarova,,,0.0
+93416,2018-08-14T15:10Z,Western & Southern Open,Elise Mertens,Magdalena Rybarikova,,,1.0
+93424,2018-08-14T15:10Z,Western & Southern Open,Naomi Osaka,Maria Sakkari,,,0.0
+93423,2018-08-14T16:50Z,Western & Southern Open,Timea Babos,Amanda Anisimova,,,0.0
+93403,2018-08-14T17:20Z,Western & Southern Open,Kaia Kanepi,Varvara Lepchenko,,,1.0
+93404,2018-08-14T17:20Z,Western & Southern Open,Karolina Pliskova,Agnieszka Radwanska,,,1.0
+93405,2018-08-14T18:25Z,Western & Southern Open,Anastasia Pavlyuchenkova,Aleksandra Krunic,,,1.0
+93408,2018-08-14T19:15Z,Western & Southern Open,Anastasija Sevastova,Camila Giorgi,,,0.0
+93426,2018-08-14T19:35Z,Western & Southern Open,Kiki Bertens,Coco Vandeweghe,,,1.0
+93434,2018-08-14T20:50Z,Western & Southern Open,Victoria Azarenka,Caroline Garcia,,,0.0
+93436,2018-08-14T22:00Z,Western & Southern Open,Viktoria Hruncakova,Kristina Mladenovic,,,0.0
+93422,2018-08-14T22:45Z,Western & Southern Open,Petra Martic,Daria Kasatkina,,,1.0
+93438,2018-08-14T23:05Z,Western & Southern Open,Elina Svitolina,Svetlana Kuznetsova,,,1.0
+93435,2018-08-15T00:40Z,Western & Southern Open,Petra Kvitova,Serena Williams,,,1.0
+93430,2018-08-15T15:05Z,Western & Southern Open,Karolina Pliskova,Aryna Sabalenka,,,0.0
+93439,2018-08-15T15:05Z,Western & Southern Open,Tatjana Maria,Sloane Stephens,,,0.0
+93437,2018-08-15T15:10Z,Western & Southern Open,Elise Mertens,Rebecca Peterson,,,1.0
+93429,2018-08-15T16:50Z,Western & Southern Open,Alize Cornet,Ekaterina Makarova,,,0.0
+93428,2018-08-15T17:00Z,Western & Southern Open,Kaia Kanepi,Ashleigh Barty,,,0.0
+93427,2018-08-15T17:50Z,Western & Southern Open,Lesia Tsurenko,Garbine Muguruza,,,1.0
+93433,2018-08-15T19:10Z,Western & Southern Open,Angelique Kerber,Anastasia Pavlyuchenkova,,,1.0
+93441,2018-08-15T19:35Z,Western & Southern Open,Maria Sakkari,Anett Kontaveit,,,0.0
+93431,2018-08-15T19:45Z,Western & Southern Open,Camila Giorgi,Madison Keys,,,0.0
+93446,2018-08-16T00:30Z,Western & Southern Open,Kiki Bertens,Caroline Wozniacki,,,1.0
+93445,2018-08-16T19:20Z,Western & Southern Open,Aryna Sabalenka,Caroline Garcia,,,1.0
+93447,2018-08-16T19:25Z,Western & Southern Open,Petra Kvitova,Kristina Mladenovic,,,1.0
+93432,2018-08-16T19:30Z,Western & Southern Open,Simona Halep,Ajla Tomljanovic,,,1.0
+93440,2018-08-16T19:30Z,Western & Southern Open,Amanda Anisimova,Petra Martic,,,1.0
+93442,2018-08-16T20:20Z,Western & Southern Open,Angelique Kerber,Madison Keys,,,0.0
+93444,2018-08-16T20:25Z,Western & Southern Open,Ekaterina Makarova,Lesia Tsurenko,,,0.0
+93448,2018-08-16T22:05Z,Western & Southern Open,Elise Mertens,Sloane Stephens,,,1.0
+93443,2018-08-17T15:35Z,Western & Southern Open,Simona Halep,Ashleigh Barty,,,1.0
+93451,2018-08-17T15:35Z,Western & Southern Open,Elina Svitolina,Amanda Anisimova,,,1.0
+93450,2018-08-17T17:00Z,Western & Southern Open,Anett Kontaveit,Kiki Bertens,,,0.0
+93452,2018-08-17T19:20Z,Western & Southern Open,Petra Kvitova,Elise Mertens,,,1.0
+93453,2018-08-17T22:15Z,Western & Southern Open,Simona Halep,Lesia Tsurenko,,,1.0
+93454,2018-08-17T22:15Z,Western & Southern Open,Elina Svitolina,Kiki Bertens,,,0.0
+93449,2018-08-17T23:40Z,Western & Southern Open,Madison Keys,Aryna Sabalenka,,,0.0
+93457,2018-08-18T16:10Z,Western & Southern Open,Petra Kvitova,Kiki Bertens,,,0.0
+93456,2018-08-18T21:20Z,Western & Southern Open,Simona Halep,Aryna Sabalenka,,,1.0
+93455,2018-08-19T18:10Z,Western & Southern Open,Simona Halep,Kiki Bertens,,,0.0
+93548,2018-08-19T22:10Z,Winston-Salem Open,Marcos Baghdatis,Guillermo Garcia-Lopez,,,0.0
+93524,2018-08-19T22:30Z,Winston-Salem Open,Mirza Basic,Daniil Medvedev,,,0.0
+93527,2018-08-19T23:00Z,Winston-Salem Open,Jan-Lennard Struff,Benoit Paire,,,1.0
+93529,2018-08-20T00:10Z,Winston-Salem Open,João Sousa,Andreas Seppi,,,0.0
+93542,2018-08-20T00:30Z,Winston-Salem Open,Guido Pella,Roberto Carballes Baena,,,0.0
+93531,2018-08-20T19:05Z,Winston-Salem Open,John Millman,Taro Daniel,,,0.0
+93536,2018-08-20T19:05Z,Winston-Salem Open,Ricardas Berankis,Tennys Sandgren,,,0.5
+93537,2018-08-20T19:10Z,Winston-Salem Open,Leonardo Mayer,Yuichi Sugita,,,1.0
+93538,2018-08-20T19:10Z,Winston-Salem Open,Laslo Djere,Tommy Paul,,,0.0
+93541,2018-08-20T19:10Z,Winston-Salem Open,Brayden Schnur,Jaume Munar,,,0.0
+93530,2018-08-20T20:40Z,Winston-Salem Open,Malek Jaziri,Taylor Fritz,,,0.0
+93550,2018-08-20T20:50Z,Winston-Salem Open,Pierre-Hugues Herbert,Franko Skugor,,,0.0
+93544,2018-08-20T21:00Z,Winston-Salem Open,Matteo Berrettini,Julien Benneteau,,,1.0
+93523,2018-08-20T21:05Z,Winston-Salem Open,Guido Andreozzi,Marton Fucsovics,,,1.0
+93549,2018-08-20T21:20Z,Winston-Salem Open,Horacio Zeballos,Lukas Lacko,,,1.0
+93561,2018-08-20T22:35Z,Winston-Salem Open,Marco Cecchinato,Jan-Lennard Struff,,,0.0
+93522,2018-08-20T23:05Z,Winston-Salem Open,Ryan Harrison,Borna Gojo,,,1.0
+93557,2018-08-21T00:20Z,Winston-Salem Open,Andreas Seppi,Nicolas Jarry,,,0.0
+93553,2018-08-21T19:10Z,Winston-Salem Open,Daniil Medvedev,Alex de Minaur,,,1.0
+93565,2018-08-21T19:10Z,Winston-Salem Open,Matteo Berrettini,Nikoloz Basilashvili,,,1.0
+93564,2018-08-21T19:10Z,Winston-Salem Open,Peter Gojowczyk,Horacio Zeballos,,,1.0
+93558,2018-08-21T19:10Z,Winston-Salem Open,Jaume Munar,Andrey Rublev,,,1.0
+93559,2018-08-21T19:10Z,Winston-Salem Open,Steve Johnson,Tommy Paul,,,1.0
+123137,2018-08-21T20:30Z,Winston-Salem Open,Albert Ramos-Vinolas,Roberto Carballes Baena,,,0.0
+93562,2018-08-21T20:50Z,Winston-Salem Open,Albert Ramos-Vinolas,Roberto Carballes Baena,,,0.0
+93556,2018-08-21T21:00Z,Winston-Salem Open,Tennys Sandgren,Dominik Koepfer,,,0.0
+93563,2018-08-21T22:15Z,Winston-Salem Open,Hyeon Chung,Guillermo Garcia-Lopez,,,1.0
+93566,2018-08-21T23:15Z,Winston-Salem Open,Leonardo Mayer,Kyle Edmund,,,0.0
+93567,2018-08-22T18:00Z,Winston-Salem Open,Franko Skugor,Pablo Carreno Busta,,,0.0
+93552,2018-08-22T18:00Z,Winston-Salem Open,Radu Albot,Guido Andreozzi,,,0.0
+93554,2018-08-22T18:00Z,Winston-Salem Open,Gilles Simon,Ryan Harrison,,,0.0
+93555,2018-08-22T18:05Z,Winston-Salem Open,Taylor Fritz,Filip Krajinovic,,,0.0
+122304,2018-08-22T18:15Z,Winston-Salem Open,Taylor Fritz,Filip Krajinovic,,,0.0
+93560,2018-08-22T19:05Z,Winston-Salem Open,Sam Querrey,Taro Daniel,,,0.0
+93574,2018-08-22T19:05Z,Winston-Salem Open,Roberto Carballes Baena,Kyle Edmund,,,0.0
+93570,2018-08-22T19:10Z,Winston-Salem Open,Jan-Lennard Struff,Nicolas Jarry,,,0.0
+123488,2018-08-22T19:30Z,Winston-Salem Open,Roberto Carballes Baena,Kyle Edmund,,,0.0
+93568,2018-08-22T20:25Z,Winston-Salem Open,Guido Andreozzi,Daniil Medvedev,,,0.0
+93578,2018-08-22T20:55Z,Winston-Salem Open,Hyeon Chung,Matteo Berrettini,,,1.0
+93572,2018-08-22T21:40Z,Winston-Salem Open,Steve Johnson,Jaume Munar,,,1.0
+93576,2018-08-22T23:25Z,Winston-Salem Open,Peter Gojowczyk,Pablo Carreno Busta,,,0.0
+93569,2018-08-23T00:35Z,Winston-Salem Open,Taro Daniel,Dominik Koepfer,,,1.0
+93571,2018-08-23T01:20Z,Winston-Salem Open,Ryan Harrison,Filip Krajinovic,,,1.0
+93575,2018-08-23T19:10Z,Winston-Salem Open,Steve Johnson,Kyle Edmund,,,1.0
+93579,2018-08-23T20:30Z,Winston-Salem Open,Hyeon Chung,Pablo Carreno Busta,,,0.0
+93577,2018-08-23T23:10Z,Winston-Salem Open,Daniil Medvedev,Ryan Harrison,,,1.0
+93573,2018-08-24T01:05Z,Winston-Salem Open,Nicolas Jarry,Taro Daniel,,,0.0
+93581,2018-08-24T23:10Z,Winston-Salem Open,Daniil Medvedev,Taro Daniel,,,1.0
+93582,2018-08-25T01:05Z,Winston-Salem Open,Steve Johnson,Pablo Carreno Busta,,,1.0
+93580,2018-08-25T21:10Z,Winston-Salem Open,Daniil Medvedev,Steve Johnson,,,1.0
+124065,2018-08-21T15:00Z,US Open,Lesley Pattinama Kerkhove,Su-Jeong Jang,,,1.0
+124081,2018-08-23T17:15Z,US Open,Lesley Pattinama Kerkhove,Sofya Zhuk,,,0.0
+93583,2018-08-27T15:10Z,US Open,Jil Teichmann,Dalila Jakupovic,,,1.0
+93584,2018-08-27T15:10Z,US Open,Simona Halep,Kaia Kanepi,,,0.0
+93586,2018-08-27T15:10Z,US Open,Vania King,Natalia Vikhlyantseva,,,1.0
+93607,2018-08-27T15:10Z,US Open,Kurumi Nara,Elise Mertens,,,0.0
+93608,2018-08-27T15:10Z,US Open,Vera Lapko,Kateryna Volodko,,,1.0
+93610,2018-08-27T15:10Z,US Open,Jennifer Brady,Irina-Camelia Begu,,,0.0
+93612,2018-08-27T15:10Z,US Open,Magdalena Rybarikova,Wang Qiang,,,0.0
+93613,2018-08-27T15:10Z,US Open,Sachia Vickery,Elina Svitolina,,,0.0
+93605,2018-08-27T16:35Z,US Open,Heather Watson,Ekaterina Makarova,,,0.0
+93587,2018-08-27T17:20Z,US Open,Rebecca Peterson,Anastasia Pavlyuchenkova,,,1.0
+93593,2018-08-27T17:35Z,US Open,Garbine Muguruza,Zhang Shuai,,,1.0
+93591,2018-08-27T17:50Z,US Open,Camila Giorgi,Whitney Osuigwe,,,1.0
+93594,2018-08-27T18:15Z,US Open,Ons Jabeur,Ashleigh Barty,,,0.0
+93614,2018-08-27T18:45Z,US Open,Agnieszka Radwanska,Tatjana Maria,,,0.0
+93590,2018-08-27T19:15Z,US Open,Svetlana Kuznetsova,Venus Williams,,,0.0
+93596,2018-08-27T19:15Z,US Open,Zarina Diyas,Karolina Pliskova,,,0.0
+93606,2018-08-27T19:15Z,US Open,Polona Hercog,Claire Liu,,,0.0
+93611,2018-08-27T19:15Z,US Open,Donna Vekic,Anastasija Sevastova,,,0.0
+93589,2018-08-27T19:45Z,US Open,Karolina Muchova,Dayana Yastremska,,,1.0
+93603,2018-08-27T19:50Z,US Open,Kathinka von Deichmann,Anhelina Kalinina,,,0.0
+93601,2018-08-27T20:15Z,US Open,Barbora Strycova,Danielle Lao,,,1.0
+93600,2018-08-27T20:35Z,US Open,Sloane Stephens,Evgeniya Rodina,,,1.0
+93592,2018-08-27T21:10Z,US Open,Petra Martic,Lucie Safarova,,,0.0
+93602,2018-08-27T21:15Z,US Open,Kateryna Baindl,Lara Arruabarrena,,,0.0
+93595,2018-08-27T22:00Z,US Open,Maria Sakkari,Asia Muhammad,,,1.0
+93598,2018-08-27T22:00Z,US Open,Madison Brengle,Sofia Kenin,,,0.0
+93609,2018-08-27T22:20Z,US Open,Julia Goerges,Anna Kalinskaya,,,1.0
+93597,2018-08-27T22:40Z,US Open,Marie Bouzkova,Ana Bogdan,,,0.0
+93604,2018-08-27T22:55Z,US Open,Sara Sorribes Tormo,Daria Saville,,,0.0
+93599,2018-08-27T23:10Z,US Open,Victoria Azarenka,Viktoria Hruncakova,,,1.0
+93585,2018-08-27T23:40Z,US Open,Caroline Dolehide,Carina Witthoeft,,,0.0
+93588,2018-08-28T00:15Z,US Open,Serena Williams,Magda Linette,,,1.0
+93636,2018-08-28T15:05Z,US Open,Monica Niculescu,Julia Glushko,,,0.0
+93621,2018-08-28T15:10Z,US Open,Taylor Townsend,Amanda Anisimova,,,1.0
+93623,2018-08-28T15:10Z,US Open,Andrea Petkovic,Jelena Ostapenko,,,0.0
+93630,2018-08-28T15:10Z,US Open,Alize Cornet,Johanna Larsson,,,0.0
+93631,2018-08-28T15:10Z,US Open,Wang Yafan,Anna Karolina Schmiedlova,,,1.0
+93633,2018-08-28T15:10Z,US Open,Naomi Osaka,Laura Siegemund,,,1.0
+93645,2018-08-28T15:10Z,US Open,Alison Van Uytvanck,Lesia Tsurenko,,,0.0
+93632,2018-08-28T15:15Z,US Open,Petra Kvitova,Yanina Wickmayer,,,1.0
+93644,2018-08-28T16:10Z,US Open,Samantha Stosur,Caroline Wozniacki,,,0.0
+93627,2018-08-28T16:40Z,US Open,Ekaterina Alexandrova,Su-Wei Hsieh,,,0.0
+93626,2018-08-28T16:50Z,US Open,Kirsten Flipkens,Coco Vandeweghe,,,1.0
+93638,2018-08-28T17:05Z,US Open,Kiki Bertens,Kristyna Pliskova,,,1.0
+93620,2018-08-28T17:25Z,US Open,Timea Bacsinszky,Aleksandra Krunic,,,0.0
+93640,2018-08-28T17:40Z,US Open,Francesca Di Lorenzo,Christina McHale,,,1.0
+93629,2018-08-28T17:50Z,US Open,Margarita Gasparyan,Angelique Kerber,,,0.0
+130596,2018-08-28T17:50Z,US Open,Margarita Gasparyan,Angelique Kerber,,,0.0
+93628,2018-08-28T18:00Z,US Open,Dominika Cibulkova,Arantxa Rus,,,1.0
+93634,2018-08-28T18:00Z,US Open,Aliaksandra Sasnovich,Belinda Bencic,,,1.0
+93635,2018-08-28T18:30Z,US Open,Danielle Collins,Aryna Sabalenka,,,0.0
+93616,2018-08-28T19:15Z,US Open,Caroline Garcia,Johanna Konta,,,1.0
+93619,2018-08-28T20:10Z,US Open,Monica Puig,Stefanie Voegele,,,1.0
+93642,2018-08-28T21:20Z,US Open,Timea Babos,Daria Kasatkina,,,0.0
+93641,2018-08-28T21:25Z,US Open,Marketa Vondrousova,Mona Barthel,,,1.0
+93618,2018-08-28T22:35Z,US Open,Nicole Gibbs,Carla Suarez Navarro,,,0.0
+93637,2018-08-28T22:35Z,US Open,Vera Zvonareva,Anna Blinkova,,,1.0
+93639,2018-08-28T22:55Z,US Open,Harmony Tan,Eugenie Bouchard,,,0.0
+93624,2018-08-28T23:10Z,US Open,Yulia Putintseva,Bernarda Pera,,,0.0
+93646,2018-08-28T23:10Z,US Open,Lizette Cabrera,Ajla Tomljanovic,,,0.0
+93625,2018-08-28T23:15Z,US Open,Sorana Cirstea,Alison Riske-Amritraj,,,1.0
+93615,2018-08-28T23:20Z,US Open,Kristina Mladenovic,Tamara Zidansek,,,1.0
+93643,2018-08-29T00:00Z,US Open,Anett Kontaveit,Katerina Siniakova,,,0.0
+93622,2018-08-29T01:35Z,US Open,Madison Keys,Pauline Parmentier,,,1.0
+93617,2018-08-29T02:05Z,US Open,Maria Sharapova,Patty Schnyder,,,1.0
+93782,2018-08-29T15:10Z,US Open,Barbora Strycova,Lara Arruabarrena,,,1.0
+93784,2018-08-29T15:10Z,US Open,Vera Lapko,Elise Mertens,,,0.0
+93790,2018-08-29T15:10Z,US Open,Tatjana Maria,Elina Svitolina,,,0.0
+93786,2018-08-29T15:15Z,US Open,Victoria Azarenka,Daria Saville,,,1.0
+93783,2018-08-29T16:10Z,US Open,Sloane Stephens,Anhelina Kalinina,,,1.0
+93781,2018-08-29T16:30Z,US Open,Claire Liu,Anastasija Sevastova,,,0.0
+93780,2018-08-29T17:15Z,US Open,Camila Giorgi,Venus Williams,,,0.0
+93791,2018-08-29T18:15Z,US Open,Wang Qiang,Irina-Camelia Begu,,,1.0
+93787,2018-08-29T18:50Z,US Open,Ana Bogdan,Karolina Pliskova,,,0.0
+93785,2018-08-29T18:55Z,US Open,Julia Goerges,Ekaterina Makarova,,,0.0
+93777,2018-08-29T20:55Z,US Open,Kaia Kanepi,Jil Teichmann,,,1.0
+93779,2018-08-29T23:05Z,US Open,Vania King,Rebecca Peterson,,,0.0
+93776,2018-08-29T23:15Z,US Open,Lucie Safarova,Ashleigh Barty,,,0.0
+93774,2018-08-30T00:00Z,US Open,Serena Williams,Carina Witthoeft,,,1.0
+93775,2018-08-30T00:50Z,US Open,Maria Sakkari,Sofia Kenin,,,0.0
+93778,2018-08-30T02:35Z,US Open,Garbine Muguruza,Karolina Muchova,,,0.0
+93802,2018-08-30T15:10Z,US Open,Naomi Osaka,Julia Glushko,,,1.0
+93803,2018-08-30T15:10Z,US Open,Petra Kvitova,Wang Yafan,,,1.0
+93797,2018-08-30T15:15Z,US Open,Dominika Cibulkova,Su-Wei Hsieh,,,1.0
+93798,2018-08-30T15:15Z,US Open,Aliaksandra Sasnovich,Daria Kasatkina,,,1.0
+93801,2018-08-30T15:15Z,US Open,Vera Zvonareva,Aryna Sabalenka,,,0.0
+93796,2018-08-30T16:15Z,US Open,Johanna Larsson,Angelique Kerber,,,0.0
+93792,2018-08-30T17:05Z,US Open,Caroline Garcia,Monica Puig,,,1.0
+93799,2018-08-30T18:10Z,US Open,Kiki Bertens,Francesca Di Lorenzo,,,1.0
+93793,2018-08-30T19:15Z,US Open,Taylor Townsend,Jelena Ostapenko,,,0.0
+93794,2018-08-30T19:30Z,US Open,Madison Keys,Bernarda Pera,,,1.0
+93800,2018-08-30T19:40Z,US Open,Eugenie Bouchard,Marketa Vondrousova,,,0.0
+93795,2018-08-30T20:20Z,US Open,Aleksandra Krunic,Kirsten Flipkens,,,1.0
+93788,2018-08-30T21:50Z,US Open,Kristina Mladenovic,Carla Suarez Navarro,,,0.0
+93810,2018-08-30T22:45Z,US Open,Katerina Siniakova,Ajla Tomljanovic,,,1.0
+93807,2018-08-31T01:15Z,US Open,Lesia Tsurenko,Caroline Wozniacki,,,1.0
+93789,2018-08-31T02:30Z,US Open,Maria Sharapova,Sorana Cirstea,,,1.0
+93812,2018-08-31T15:10Z,US Open,Ekaterina Makarova,Anastasija Sevastova,,,0.0
+93813,2018-08-31T15:10Z,US Open,Barbora Strycova,Elise Mertens,,,0.0
+93806,2018-08-31T16:15Z,US Open,Sloane Stephens,Victoria Azarenka,,,1.0
+93817,2018-08-31T17:35Z,US Open,Wang Qiang,Elina Svitolina,,,0.0
+93804,2018-08-31T21:00Z,US Open,Kaia Kanepi,Rebecca Peterson,,,1.0
+93808,2018-09-01T00:00Z,US Open,Serena Williams,Venus Williams,,,1.0
+93805,2018-09-01T00:15Z,US Open,Karolina Muchova,Ashleigh Barty,,,0.0
+93809,2018-09-01T02:20Z,US Open,Sofia Kenin,Karolina Pliskova,,,0.0
+93820,2018-09-01T15:10Z,US Open,Kiki Bertens,Marketa Vondrousova,,,0.0
+93815,2018-09-01T16:10Z,US Open,Madison Keys,Aleksandra Krunic,,,1.0
+93816,2018-09-01T16:35Z,US Open,Caroline Garcia,Carla Suarez Navarro,,,0.0
+93811,2018-09-01T17:50Z,US Open,Dominika Cibulkova,Angelique Kerber,,,1.0
+93821,2018-09-01T18:20Z,US Open,Katerina Siniakova,Lesia Tsurenko,,,0.0
+93818,2018-09-01T19:45Z,US Open,Naomi Osaka,Aliaksandra Sasnovich,,,1.0
+93814,2018-09-01T23:15Z,US Open,Maria Sharapova,Jelena Ostapenko,,,1.0
+93819,2018-09-02T00:30Z,US Open,Petra Kvitova,Aryna Sabalenka,,,0.0
+93822,2018-09-02T18:10Z,US Open,Ashleigh Barty,Karolina Pliskova,,,0.0
+93825,2018-09-02T20:05Z,US Open,Kaia Kanepi,Serena Williams,,,0.0
+93824,2018-09-02T21:10Z,US Open,Anastasija Sevastova,Elina Svitolina,,,1.0
+93823,2018-09-02T23:15Z,US Open,Sloane Stephens,Elise Mertens,,,1.0
+93831,2018-09-03T16:15Z,US Open,Madison Keys,Dominika Cibulkova,,,1.0
+93826,2018-09-03T17:55Z,US Open,Aryna Sabalenka,Naomi Osaka,,,0.0
+93829,2018-09-03T19:30Z,US Open,Marketa Vondrousova,Lesia Tsurenko,,,0.0
+93830,2018-09-03T23:15Z,US Open,Carla Suarez Navarro,Maria Sharapova,,,1.0
+93828,2018-09-04T16:10Z,US Open,Sloane Stephens,Anastasija Sevastova,,,0.0
+93827,2018-09-04T23:20Z,US Open,Serena Williams,Karolina Pliskova,,,1.0
+93835,2018-09-05T16:10Z,US Open,Naomi Osaka,Lesia Tsurenko,,,1.0
+93833,2018-09-05T23:15Z,US Open,Carla Suarez Navarro,Madison Keys,,,0.0
+93834,2018-09-06T23:20Z,US Open,Serena Williams,Anastasija Sevastova,,,1.0
+93832,2018-09-07T00:55Z,US Open,Madison Keys,Naomi Osaka,,,0.0
+93836,2018-09-08T20:20Z,US Open,Serena Williams,Naomi Osaka,,,0.0
+123654,2018-08-22T19:20Z,US Open,Thiago Monteiro,Tatsuma Ito,,,1.0
+122895,2018-08-23T15:05Z,US Open,Pedro Martinez,Christian Harrison,,,1.0
+123736,2018-08-23T17:55Z,US Open,Daniel Elahi Galan,Daniel Brands,,,1.0
+129752,2018-08-23T21:35Z,US Open,Ernesto Escobedo,Marc Polmans,,,0.0
+123640,2018-08-23T23:00Z,US Open,Thiago Monteiro,Calvin Hemery,,,0.0
+123759,2018-08-24T16:30Z,US Open,Daniel Elahi Galan,Casper Ruud,,,0.0
+93649,2018-08-27T15:10Z,US Open,Albert Ramos-Vinolas,Karen Khachanov,,,0.0
+93650,2018-08-27T15:10Z,US Open,Jack Sock,Guido Andreozzi,,,1.0
+93651,2018-08-27T15:10Z,US Open,Gilles Muller,Lorenzo Sonego,,,0.0
+93653,2018-08-27T15:10Z,US Open,Paolo Lorenzi,Kyle Edmund,,,1.0
+93655,2018-08-27T15:10Z,US Open,Casper Ruud,Guido Pella,,,0.0
+123139,2018-08-27T15:10Z,US Open,Albert Ramos-Vinolas,Karen Khachanov,,,0.0
+123299,2018-08-27T15:10Z,US Open,Lloyd Harris,Gilles Simon,,,0.0
+93674,2018-08-27T15:15Z,US Open,Milos Raonic,Carlos Berlocq,,,1.0
+93675,2018-08-27T15:15Z,US Open,Lloyd Harris,Gilles Simon,,,0.0
+93679,2018-08-27T16:15Z,US Open,Stan Wawrinka,Grigor Dimitrov,,,1.0
+93670,2018-08-27T16:20Z,US Open,Nicolas Jarry,Peter Gojowczyk,,,1.0
+93678,2018-08-27T16:35Z,US Open,Collin Altamirano,Ugo Humbert,,,0.0
+93667,2018-08-27T16:50Z,US Open,Andy Murray,James Duckworth,,,1.0
+93658,2018-08-27T16:55Z,US Open,Jason Kubler,Roberto Bautista Agut,,,1.0
+123446,2018-08-27T17:00Z,US Open,Jason Kubler,Roberto Bautista Agut,,,1.0
+93671,2018-08-27T17:05Z,US Open,John Isner,Bradley Klahn,,,1.0
+93652,2018-08-27T17:40Z,US Open,Aljaz Bedene,Nikoloz Basilashvili,,,0.0
+93665,2018-08-27T17:50Z,US Open,Feliciano Lopez,Fernando Verdasco,,,0.0
+93656,2018-08-27T18:15Z,US Open,Mischa Zverev,Taylor Fritz,,,0.0
+93673,2018-08-27T19:05Z,US Open,Dusan Lajovic,Damir Dzumhur,,,1.0
+93666,2018-08-27T19:10Z,US Open,Roberto Carballes Baena,Mitchell Krueger,,,1.0
+123578,2018-08-27T19:10Z,US Open,Roberto Carballes Baena,Mitchell Krueger,,,1.0
+93661,2018-08-27T19:15Z,US Open,Jeremy Chardy,Andrey Rublev,,,1.0
+93668,2018-08-27T19:20Z,US Open,Borna Coric,Florian Mayer,,,1.0
+93659,2018-08-27T19:35Z,US Open,Sam Querrey,Andreas Seppi,,,0.0
+93676,2018-08-27T20:30Z,US Open,Cameron Norrie,Jordan Thompson,,,1.0
+93657,2018-08-27T21:15Z,US Open,Denis Shapovalov,Felix Auger-Aliassime,,,1.0
+93663,2018-08-27T21:30Z,US Open,Ryan Harrison,Kevin Anderson,,,0.0
+93648,2018-08-27T21:50Z,US Open,Vasek Pospisil,Lukas Lacko,,,1.0
+93669,2018-08-27T22:05Z,US Open,Tommy Robredo,Stefanos Tsitsipas,,,0.0
+93672,2018-08-27T22:10Z,US Open,Daniil Medvedev,Evgeny Donskoy,,,1.0
+93664,2018-08-27T22:20Z,US Open,Denis Kudla,Matteo Berrettini,,,1.0
+93660,2018-08-27T22:30Z,US Open,Denis Istomin,Steve Johnson,,,0.0
+93654,2018-08-28T00:10Z,US Open,Dominic Thiem,Mirza Basic,,,1.0
+93662,2018-08-28T01:05Z,US Open,Juan Martin del Potro,Donald Young,,,1.0
+93647,2018-08-28T01:50Z,US Open,Rafael Nadal,David Ferrer,,,1.0
+93697,2018-08-28T15:05Z,US Open,Yuichi Sugita,Richard Gasquet,,,0.0
+93702,2018-08-28T15:05Z,US Open,Laslo Djere,Leonardo Mayer,,,1.0
+93703,2018-08-28T15:05Z,US Open,Mikhail Kukushkin,Noah Rubin,,,1.0
+93687,2018-08-28T15:10Z,US Open,Tim Smyczek,Jan-Lennard Struff,,,0.0
+93699,2018-08-28T15:10Z,US Open,João Sousa,Marcel Granollers,,,1.0
+93706,2018-08-28T15:10Z,US Open,Ricardas Berankis,Hyeon Chung,,,0.0
+93681,2018-08-28T15:15Z,US Open,Stefano Travaglia,Hubert Hurkacz,,,0.0
+93677,2018-08-28T16:50Z,US Open,Marin Cilic,Marius Copil,,,1.0
+93696,2018-08-28T17:30Z,US Open,Viktor Troicki,Tennys Sandgren,,,0.0
+93695,2018-08-28T17:35Z,US Open,Malek Jaziri,Pablo Carreno Busta,,,0.0
+93680,2018-08-28T17:50Z,US Open,Marco Cecchinato,Julien Benneteau,,,0.0
+93698,2018-08-28T18:05Z,US Open,Novak Djokovic,Marton Fucsovics,,,1.0
+93704,2018-08-28T18:05Z,US Open,Jenson Brooksby,John Millman,,,0.0
+93686,2018-08-28T18:20Z,US Open,Diego Schwartzman,Federico Delbonis,,,1.0
+93684,2018-08-28T18:25Z,US Open,Ruben Bemelmans,Jaume Munar,,,0.0
+93694,2018-08-28T19:00Z,US Open,Nicolas Mahut,Corentin Moutet,,,1.0
+93705,2018-08-28T19:10Z,US Open,Fabio Fognini,Michael Mmoh,,,1.0
+93688,2018-08-28T19:35Z,US Open,Mackenzie McDonald,Robin Haase,,,0.0
+93689,2018-08-28T19:35Z,US Open,Yannick Hanfmann,Philipp Kohlschreiber,,,0.0
+93701,2018-08-28T19:45Z,US Open,Lucas Pouille,Yannick Maden,,,1.0
+93690,2018-08-28T20:00Z,US Open,Filip Krajinovic,Matthew Ebden,,,0.0
+93693,2018-08-28T20:00Z,US Open,Peter Polansky,Alexander Zverev,,,0.0
+93700,2018-08-28T20:05Z,US Open,Marcos Baghdatis,Mikhail Youzhny,,,1.0
+93685,2018-08-28T20:30Z,US Open,Federico Gaio,David Goffin,,,0.0
+93692,2018-08-28T20:45Z,US Open,Facundo Bagnis,Gael Monfils,,,0.0
+93683,2018-08-28T21:15Z,US Open,Frances Tiafoe,Adrian Mannarino,,,1.0
+93708,2018-08-28T21:15Z,US Open,Benoit Paire,Dennis Novak,,,1.0
+93710,2018-08-28T22:40Z,US Open,Yuki Bhambri,Pierre-Hugues Herbert,,,0.0
+93682,2018-08-28T22:50Z,US Open,Alex de Minaur,Taro Daniel,,,1.0
+93691,2018-08-28T22:50Z,US Open,Maximilian Marterer,Kei Nishikori,,,0.0
+93709,2018-08-28T23:15Z,US Open,Yoshihito Nishioka,Roger Federer,,,0.0
+93707,2018-08-28T23:20Z,US Open,Nick Kyrgios,Radu Albot,,,1.0
+93718,2018-08-29T15:10Z,US Open,Daniil Medvedev,Stefanos Tsitsipas,,,1.0
+93721,2018-08-29T15:10Z,US Open,Borna Coric,Roberto Carballes Baena,,,1.0
+93727,2018-08-29T15:15Z,US Open,Ugo Humbert,Stan Wawrinka,,,0.0
+93724,2018-08-29T16:30Z,US Open,Milos Raonic,Gilles Simon,,,1.0
+93714,2018-08-29T17:00Z,US Open,Dominic Thiem,Steve Johnson,,,1.0
+122301,2018-08-29T17:50Z,US Open,Taylor Fritz,Jason Kubler,,,1.0
+93713,2018-08-29T17:55Z,US Open,Taylor Fritz,Jason Kubler,,,1.0
+93717,2018-08-29T19:25Z,US Open,Andy Murray,Fernando Verdasco,,,0.0
+93723,2018-08-29T19:35Z,US Open,Juan Martin del Potro,Denis Kudla,,,1.0
+93726,2018-08-29T19:50Z,US Open,Cameron Norrie,Dusan Lajovic,,,0.0
+93715,2018-08-29T20:55Z,US Open,Guido Pella,Paolo Lorenzi,,,1.0
+93722,2018-08-29T20:55Z,US Open,John Isner,Nicolas Jarry,,,1.0
+93720,2018-08-29T21:00Z,US Open,Jeremy Chardy,Kevin Anderson,,,0.0
+93719,2018-08-29T21:10Z,US Open,Denis Shapovalov,Andreas Seppi,,,1.0
+93716,2018-08-29T21:50Z,US Open,Lorenzo Sonego,Karen Khachanov,,,0.0
+93712,2018-08-29T23:20Z,US Open,Jack Sock,Nikoloz Basilashvili,,,0.0
+93711,2018-08-30T01:35Z,US Open,Rafael Nadal,Vasek Pospisil,,,1.0
+93740,2018-08-30T15:10Z,US Open,Mikhail Kukushkin,Hyeon Chung,,,1.0
+93742,2018-08-30T16:15Z,US Open,Fabio Fognini,John Millman,,,0.0
+93741,2018-08-30T16:30Z,US Open,Nick Kyrgios,Pierre-Hugues Herbert,,,1.0
+93728,2018-08-30T17:15Z,US Open,Diego Schwartzman,Jaume Munar,,,1.0
+93736,2018-08-30T17:20Z,US Open,Nicolas Mahut,Alexander Zverev,,,0.0
+93733,2018-08-30T17:25Z,US Open,Matthew Ebden,Philipp Kohlschreiber,,,0.0
+93737,2018-08-30T18:15Z,US Open,João Sousa,Pablo Carreno Busta,,,1.0
+93729,2018-08-30T18:55Z,US Open,Julien Benneteau,Jan-Lennard Struff,,,0.0
+93738,2018-08-30T19:15Z,US Open,Benoit Paire,Roger Federer,,,0.0
+93739,2018-08-30T19:25Z,US Open,Lucas Pouille,Marcos Baghdatis,,,1.0
+93730,2018-08-30T19:35Z,US Open,Robin Haase,David Goffin,,,0.0
+93731,2018-08-30T21:25Z,US Open,Alex de Minaur,Frances Tiafoe,,,1.0
+93725,2018-08-30T23:05Z,US Open,Marin Cilic,Hubert Hurkacz,,,1.0
+93734,2018-08-30T23:15Z,US Open,Novak Djokovic,Tennys Sandgren,,,1.0
+93732,2018-08-30T23:20Z,US Open,Gael Monfils,Kei Nishikori,,,0.0
+93735,2018-08-31T00:00Z,US Open,Laslo Djere,Richard Gasquet,,,0.0
+93747,2018-08-31T17:30Z,US Open,Dominic Thiem,Taylor Fritz,,,1.0
+93749,2018-08-31T17:30Z,US Open,Nikoloz Basilashvili,Guido Pella,,,1.0
+93743,2018-08-31T18:30Z,US Open,Rafael Nadal,Karen Khachanov,,,1.0
+93748,2018-08-31T19:10Z,US Open,Denis Shapovalov,Kevin Anderson,,,0.0
+93744,2018-08-31T21:55Z,US Open,John Isner,Dusan Lajovic,,,1.0
+93750,2018-08-31T23:30Z,US Open,Borna Coric,Daniil Medvedev,,,1.0
+93745,2018-08-31T23:50Z,US Open,Milos Raonic,Stan Wawrinka,,,1.0
+93746,2018-09-01T01:40Z,US Open,Juan Martin del Potro,Fernando Verdasco,,,1.0
+93756,2018-09-01T15:10Z,US Open,John Millman,Mikhail Kukushkin,,,1.0
+93760,2018-09-01T18:20Z,US Open,Nick Kyrgios,Roger Federer,,,0.0
+93751,2018-09-01T19:25Z,US Open,Lucas Pouille,João Sousa,,,0.0
+93757,2018-09-01T20:30Z,US Open,Philipp Kohlschreiber,Alexander Zverev,,,1.0
+93753,2018-09-01T21:20Z,US Open,Diego Schwartzman,Kei Nishikori,,,0.0
+93754,2018-09-01T23:25Z,US Open,Jan-Lennard Struff,David Goffin,,,0.0
+93755,2018-09-02T01:05Z,US Open,Novak Djokovic,Richard Gasquet,,,1.0
+93752,2018-09-02T02:20Z,US Open,Marin Cilic,Alex de Minaur,,,1.0
+93758,2018-09-02T15:10Z,US Open,Dominic Thiem,Kevin Anderson,,,1.0
+93762,2018-09-02T16:15Z,US Open,Rafael Nadal,Nikoloz Basilashvili,,,1.0
+93761,2018-09-02T20:00Z,US Open,John Isner,Milos Raonic,,,1.0
+93759,2018-09-03T01:05Z,US Open,Juan Martin del Potro,Borna Coric,,,1.0
+93766,2018-09-03T15:15Z,US Open,Kei Nishikori,Philipp Kohlschreiber,,,1.0
+93763,2018-09-03T18:10Z,US Open,Novak Djokovic,João Sousa,,,1.0
+93765,2018-09-03T20:20Z,US Open,Marin Cilic,David Goffin,,,1.0
+93764,2018-09-04T01:15Z,US Open,John Millman,Roger Federer,,,1.0
+93769,2018-09-04T18:00Z,US Open,Juan Martin del Potro,John Isner,,,1.0
+93768,2018-09-05T01:10Z,US Open,Rafael Nadal,Dominic Thiem,,,1.0
+93767,2018-09-05T17:50Z,US Open,Marin Cilic,Kei Nishikori,,,0.0
+93772,2018-09-06T01:05Z,US Open,Novak Djokovic,John Millman,,,1.0
+93771,2018-09-07T20:20Z,US Open,Rafael Nadal,Juan Martin del Potro,,,0.0
+93773,2018-09-07T23:00Z,US Open,Kei Nishikori,Novak Djokovic,,,0.0
+93770,2018-09-09T20:20Z,US Open,Juan Martin del Potro,Novak Djokovic,,,0.0

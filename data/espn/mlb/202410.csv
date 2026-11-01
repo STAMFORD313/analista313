@@ -1,0 +1,44 @@
+id,date,event,home,away,hs,as,res
+401701015,2024-10-01T18:30Z,Detroit Tigers at Houston Astros,Houston Astros,Detroit Tigers,1,3,0.0
+401701024,2024-10-01T20:00Z,Kansas City Royals at Baltimore Orioles,Baltimore Orioles,Kansas City Royals,0,1,0.0
+401701009,2024-10-01T21:30Z,New York Mets at Milwaukee Brewers,Milwaukee Brewers,New York Mets,4,8,0.0
+401701012,2024-10-02T00:30Z,Atlanta Braves at San Diego Padres,San Diego Padres,Atlanta Braves,4,0,1.0
+401701017,2024-10-02T18:30Z,Detroit Tigers at Houston Astros,Houston Astros,Detroit Tigers,2,5,0.0
+401701026,2024-10-02T20:30Z,Kansas City Royals at Baltimore Orioles,Baltimore Orioles,Kansas City Royals,1,2,0.0
+401701010,2024-10-02T23:30Z,New York Mets at Milwaukee Brewers,Milwaukee Brewers,New York Mets,5,3,1.0
+401701013,2024-10-03T00:30Z,Atlanta Braves at San Diego Padres,San Diego Padres,Atlanta Braves,5,4,1.0
+401701011,2024-10-03T23:00Z,New York Mets at Milwaukee Brewers,Milwaukee Brewers,New York Mets,2,4,0.0
+401701057,2024-10-05T17:08Z,Detroit Tigers at Cleveland Guardians,Cleveland Guardians,Detroit Tigers,7,0,1.0
+401701016,2024-10-05T20:08Z,New York Mets at Philadelphia Phillies,Philadelphia Phillies,New York Mets,2,6,0.0
+401701041,2024-10-05T22:38Z,Kansas City Royals at New York Yankees,New York Yankees,Kansas City Royals,6,5,1.0
+401701023,2024-10-06T00:38Z,San Diego Padres at Los Angeles Dodgers,Los Angeles Dodgers,San Diego Padres,7,5,1.0
+401701018,2024-10-06T20:08Z,New York Mets at Philadelphia Phillies,Philadelphia Phillies,New York Mets,7,6,1.0
+401701025,2024-10-07T00:03Z,San Diego Padres at Los Angeles Dodgers,Los Angeles Dodgers,San Diego Padres,2,10,0.0
+401701058,2024-10-07T20:08Z,Detroit Tigers at Cleveland Guardians,Cleveland Guardians,Detroit Tigers,0,3,0.0
+401701043,2024-10-07T23:38Z,Kansas City Royals at New York Yankees,New York Yankees,Kansas City Royals,2,4,0.0
+401701020,2024-10-08T21:08Z,Philadelphia Phillies at New York Mets,New York Mets,Philadelphia Phillies,7,2,1.0
+401701028,2024-10-09T01:08Z,Los Angeles Dodgers at San Diego Padres,San Diego Padres,Los Angeles Dodgers,6,5,1.0
+401701059,2024-10-09T19:08Z,Cleveland Guardians at Detroit Tigers,Detroit Tigers,Cleveland Guardians,3,0,1.0
+401701021,2024-10-09T21:08Z,Philadelphia Phillies at New York Mets,New York Mets,Philadelphia Phillies,4,1,1.0
+401701046,2024-10-09T23:08Z,New York Yankees at Kansas City Royals,Kansas City Royals,New York Yankees,2,3,0.0
+401701029,2024-10-10T01:08Z,Los Angeles Dodgers at San Diego Padres,San Diego Padres,Los Angeles Dodgers,0,8,0.0
+401701060,2024-10-10T22:08Z,Cleveland Guardians at Detroit Tigers,Detroit Tigers,Cleveland Guardians,4,5,0.0
+401701048,2024-10-11T00:08Z,New York Yankees at Kansas City Royals,Kansas City Royals,New York Yankees,1,3,0.0
+401701030,2024-10-12T00:08Z,San Diego Padres at Los Angeles Dodgers,Los Angeles Dodgers,San Diego Padres,2,0,1.0
+401701061,2024-10-12T17:08Z,Detroit Tigers at Cleveland Guardians,Cleveland Guardians,Detroit Tigers,7,3,1.0
+401701031,2024-10-14T00:15Z,New York Mets at Los Angeles Dodgers,Los Angeles Dodgers,New York Mets,9,0,1.0
+401701032,2024-10-14T20:08Z,New York Mets at Los Angeles Dodgers,Los Angeles Dodgers,New York Mets,3,7,0.0
+401701050,2024-10-14T23:38Z,Cleveland Guardians at New York Yankees,New York Yankees,Cleveland Guardians,5,2,1.0
+401701051,2024-10-15T23:38Z,Cleveland Guardians at New York Yankees,New York Yankees,Cleveland Guardians,6,3,1.0
+401701033,2024-10-17T00:08Z,Los Angeles Dodgers at New York Mets,New York Mets,Los Angeles Dodgers,0,8,0.0
+401701052,2024-10-17T21:08Z,New York Yankees at Cleveland Guardians,Cleveland Guardians,New York Yankees,7,5,1.0
+401701034,2024-10-18T00:08Z,Los Angeles Dodgers at New York Mets,New York Mets,Los Angeles Dodgers,2,10,0.0
+401701035,2024-10-18T21:08Z,Los Angeles Dodgers at New York Mets,New York Mets,Los Angeles Dodgers,12,6,1.0
+401701053,2024-10-19T00:08Z,New York Yankees at Cleveland Guardians,Cleveland Guardians,New York Yankees,6,8,0.0
+401701054,2024-10-20T00:08Z,New York Yankees at Cleveland Guardians,Cleveland Guardians,New York Yankees,2,5,0.0
+401701036,2024-10-21T00:08Z,New York Mets at Los Angeles Dodgers,Los Angeles Dodgers,New York Mets,10,5,1.0
+401701038,2024-10-26T00:08Z,New York Yankees at Los Angeles Dodgers,Los Angeles Dodgers,New York Yankees,6,3,1.0
+401701039,2024-10-27T00:08Z,New York Yankees at Los Angeles Dodgers,Los Angeles Dodgers,New York Yankees,4,2,1.0
+401701040,2024-10-29T00:08Z,Los Angeles Dodgers at New York Yankees,New York Yankees,Los Angeles Dodgers,2,4,0.0
+401701042,2024-10-30T00:08Z,Los Angeles Dodgers at New York Yankees,New York Yankees,Los Angeles Dodgers,11,4,1.0
+401701044,2024-10-31T00:08Z,Los Angeles Dodgers at New York Yankees,New York Yankees,Los Angeles Dodgers,6,7,0.0

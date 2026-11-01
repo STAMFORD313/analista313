@@ -1,0 +1,130 @@
+id,date,event,home,away,hs,as,res
+401360970,2022-04-01T23:00Z,Toronto Raptors at Orlando Magic,Orlando Magic,Toronto Raptors,89,102,0.0
+401360971,2022-04-01T23:00Z,Dallas Mavericks at Washington Wizards,Washington Wizards,Dallas Mavericks,135,103,1.0
+401360972,2022-04-01T23:30Z,Indiana Pacers at Boston Celtics,Boston Celtics,Indiana Pacers,128,123,1.0
+401360973,2022-04-02T00:00Z,Sacramento Kings at Houston Rockets,Houston Rockets,Sacramento Kings,117,122,0.0
+401360974,2022-04-02T00:00Z,Phoenix Suns at Memphis Grizzlies,Memphis Grizzlies,Phoenix Suns,122,114,1.0
+401360975,2022-04-02T00:00Z,LA Clippers at Milwaukee Bucks,Milwaukee Bucks,LA Clippers,119,153,0.0
+401360976,2022-04-02T00:00Z,Detroit Pistons at Oklahoma City Thunder,Oklahoma City Thunder,Detroit Pistons,101,110,0.0
+401360977,2022-04-02T00:30Z,Portland Trail Blazers at San Antonio Spurs,San Antonio Spurs,Portland Trail Blazers,130,111,1.0
+401360978,2022-04-02T01:00Z,Minnesota Timberwolves at Denver Nuggets,Denver Nuggets,Minnesota Timberwolves,130,136,0.0
+401360979,2022-04-02T02:30Z,New Orleans Pelicans at Los Angeles Lakers,Los Angeles Lakers,New Orleans Pelicans,111,114,0.0
+401360980,2022-04-02T16:30Z,Charlotte Hornets at Philadelphia 76ers,Philadelphia 76ers,Charlotte Hornets,144,114,1.0
+401360981,2022-04-02T17:00Z,Cleveland Cavaliers at New York Knicks,New York Knicks,Cleveland Cavaliers,101,119,0.0
+401360982,2022-04-02T23:30Z,Brooklyn Nets at Atlanta Hawks,Atlanta Hawks,Brooklyn Nets,122,115,1.0
+401360983,2022-04-03T00:00Z,Miami Heat at Chicago Bulls,Chicago Bulls,Miami Heat,109,127,0.0
+401360984,2022-04-03T00:30Z,Utah Jazz at Golden State Warriors,Golden State Warriors,Utah Jazz,111,107,1.0
+401360985,2022-04-03T17:00Z,Washington Wizards at Boston Celtics,Boston Celtics,Washington Wizards,144,102,1.0
+401360986,2022-04-03T17:00Z,Dallas Mavericks at Milwaukee Bucks,Milwaukee Bucks,Dallas Mavericks,112,118,0.0
+401360987,2022-04-03T19:30Z,Denver Nuggets at Los Angeles Lakers,Los Angeles Lakers,Denver Nuggets,118,129,0.0
+401360988,2022-04-03T21:00Z,Detroit Pistons at Indiana Pacers,Indiana Pacers,Detroit Pistons,117,121,0.0
+401360989,2022-04-03T22:00Z,Philadelphia 76ers at Cleveland Cavaliers,Cleveland Cavaliers,Philadelphia 76ers,108,112,0.0
+401360990,2022-04-03T22:00Z,New York Knicks at Orlando Magic,Orlando Magic,New York Knicks,88,118,0.0
+401360991,2022-04-03T23:00Z,Miami Heat at Toronto Raptors,Toronto Raptors,Miami Heat,109,114,0.0
+401360992,2022-04-03T23:00Z,Minnesota Timberwolves at Houston Rockets,Houston Rockets,Minnesota Timberwolves,132,139,0.0
+401360993,2022-04-03T23:00Z,Phoenix Suns at Oklahoma City Thunder,Oklahoma City Thunder,Phoenix Suns,117,96,1.0
+401360994,2022-04-03T23:00Z,Portland Trail Blazers at San Antonio Spurs,San Antonio Spurs,Portland Trail Blazers,113,92,1.0
+401360995,2022-04-04T01:00Z,Golden State Warriors at Sacramento Kings,Sacramento Kings,Golden State Warriors,90,109,0.0
+401360996,2022-04-04T01:30Z,New Orleans Pelicans at LA Clippers,LA Clippers,New Orleans Pelicans,119,100,1.0
+401360997,2022-04-05T23:00Z,Philadelphia 76ers at Indiana Pacers,Indiana Pacers,Philadelphia 76ers,122,131,0.0
+401360998,2022-04-05T23:00Z,Cleveland Cavaliers at Orlando Magic,Orlando Magic,Cleveland Cavaliers,120,115,1.0
+401360999,2022-04-05T23:30Z,Houston Rockets at Brooklyn Nets,Brooklyn Nets,Houston Rockets,118,105,1.0
+401361000,2022-04-05T23:30Z,Charlotte Hornets at Miami Heat,Miami Heat,Charlotte Hornets,144,115,1.0
+401361001,2022-04-05T23:30Z,Atlanta Hawks at Toronto Raptors,Toronto Raptors,Atlanta Hawks,118,108,1.0
+401361002,2022-04-06T00:00Z,Milwaukee Bucks at Chicago Bulls,Chicago Bulls,Milwaukee Bucks,106,127,0.0
+401361003,2022-04-06T00:00Z,Washington Wizards at Minnesota Timberwolves,Minnesota Timberwolves,Washington Wizards,114,132,0.0
+401361004,2022-04-06T00:00Z,Portland Trail Blazers at Oklahoma City Thunder,Oklahoma City Thunder,Portland Trail Blazers,98,94,1.0
+401361005,2022-04-06T01:00Z,San Antonio Spurs at Denver Nuggets,Denver Nuggets,San Antonio Spurs,97,116,0.0
+401361006,2022-04-06T01:00Z,Memphis Grizzlies at Utah Jazz,Utah Jazz,Memphis Grizzlies,121,115,1.0
+401361007,2022-04-06T02:00Z,New Orleans Pelicans at Sacramento Kings,Sacramento Kings,New Orleans Pelicans,109,123,0.0
+401361008,2022-04-06T02:30Z,Los Angeles Lakers at Phoenix Suns,Phoenix Suns,Los Angeles Lakers,121,110,1.0
+401361009,2022-04-06T23:00Z,Dallas Mavericks at Detroit Pistons,Detroit Pistons,Dallas Mavericks,113,131,0.0
+401361010,2022-04-06T23:30Z,Brooklyn Nets at New York Knicks,New York Knicks,Brooklyn Nets,98,110,0.0
+401361011,2022-04-07T00:00Z,Washington Wizards at Atlanta Hawks,Atlanta Hawks,Washington Wizards,118,103,1.0
+401361012,2022-04-07T00:00Z,Boston Celtics at Chicago Bulls,Chicago Bulls,Boston Celtics,94,117,0.0
+401361013,2022-04-07T01:00Z,Oklahoma City Thunder at Utah Jazz,Utah Jazz,Oklahoma City Thunder,137,101,1.0
+401361014,2022-04-07T02:00Z,Phoenix Suns at LA Clippers,LA Clippers,Phoenix Suns,113,109,1.0
+401361015,2022-04-07T23:00Z,Orlando Magic at Charlotte Hornets,Charlotte Hornets,Orlando Magic,128,101,1.0
+401361016,2022-04-07T23:30Z,Philadelphia 76ers at Toronto Raptors,Toronto Raptors,Philadelphia 76ers,119,114,1.0
+401361017,2022-04-07T23:30Z,Boston Celtics at Milwaukee Bucks,Milwaukee Bucks,Boston Celtics,127,121,1.0
+401361018,2022-04-08T00:00Z,San Antonio Spurs at Minnesota Timberwolves,Minnesota Timberwolves,San Antonio Spurs,127,121,1.0
+401361019,2022-04-08T00:00Z,Portland Trail Blazers at New Orleans Pelicans,New Orleans Pelicans,Portland Trail Blazers,127,94,1.0
+401361020,2022-04-08T01:00Z,Memphis Grizzlies at Denver Nuggets,Denver Nuggets,Memphis Grizzlies,122,109,1.0
+401361021,2022-04-08T02:00Z,Los Angeles Lakers at Golden State Warriors,Golden State Warriors,Los Angeles Lakers,128,112,1.0
+401361022,2022-04-08T23:00Z,Milwaukee Bucks at Detroit Pistons,Detroit Pistons,Milwaukee Bucks,101,131,0.0
+401361023,2022-04-08T23:00Z,New York Knicks at Washington Wizards,Washington Wizards,New York Knicks,92,114,0.0
+401361024,2022-04-08T23:30Z,Cleveland Cavaliers at Brooklyn Nets,Brooklyn Nets,Cleveland Cavaliers,118,107,1.0
+401361025,2022-04-08T23:30Z,Houston Rockets at Toronto Raptors,Toronto Raptors,Houston Rockets,117,115,1.0
+401361026,2022-04-09T00:00Z,Atlanta Hawks at Miami Heat,Miami Heat,Atlanta Hawks,113,109,1.0
+401361027,2022-04-09T00:00Z,Charlotte Hornets at Chicago Bulls,Chicago Bulls,Charlotte Hornets,117,133,0.0
+401361028,2022-04-09T00:30Z,Portland Trail Blazers at Dallas Mavericks,Dallas Mavericks,Portland Trail Blazers,128,78,1.0
+401361029,2022-04-09T01:30Z,Phoenix Suns at Utah Jazz,Utah Jazz,Phoenix Suns,105,111,0.0
+401361030,2022-04-09T02:30Z,Oklahoma City Thunder at Los Angeles Lakers,Los Angeles Lakers,Oklahoma City Thunder,120,101,1.0
+401361033,2022-04-09T17:00Z,Indiana Pacers at Philadelphia 76ers,Philadelphia 76ers,Indiana Pacers,133,120,1.0
+401361032,2022-04-09T22:00Z,New Orleans Pelicans at Memphis Grizzlies,Memphis Grizzlies,New Orleans Pelicans,141,114,1.0
+401361034,2022-04-10T00:30Z,Golden State Warriors at San Antonio Spurs,San Antonio Spurs,Golden State Warriors,94,100,0.0
+401361031,2022-04-10T01:30Z,Sacramento Kings at LA Clippers,LA Clippers,Sacramento Kings,117,98,1.0
+401361035,2022-04-10T19:30Z,Indiana Pacers at Brooklyn Nets,Brooklyn Nets,Indiana Pacers,134,126,1.0
+401361036,2022-04-10T19:30Z,Washington Wizards at Charlotte Hornets,Charlotte Hornets,Washington Wizards,124,108,1.0
+401361037,2022-04-10T19:30Z,Milwaukee Bucks at Cleveland Cavaliers,Cleveland Cavaliers,Milwaukee Bucks,133,115,1.0
+401361040,2022-04-10T19:30Z,Atlanta Hawks at Houston Rockets,Houston Rockets,Atlanta Hawks,114,130,0.0
+401361042,2022-04-10T23:00Z,Boston Celtics at Memphis Grizzlies,Memphis Grizzlies,Boston Celtics,110,139,0.0
+401361045,2022-04-10T23:00Z,Toronto Raptors at New York Knicks,New York Knicks,Toronto Raptors,105,94,1.0
+401361046,2022-04-10T23:00Z,Miami Heat at Orlando Magic,Orlando Magic,Miami Heat,125,111,1.0
+401361047,2022-04-10T23:00Z,Detroit Pistons at Philadelphia 76ers,Philadelphia 76ers,Detroit Pistons,118,106,1.0
+401361043,2022-04-11T00:30Z,Chicago Bulls at Minnesota Timberwolves,Minnesota Timberwolves,Chicago Bulls,120,124,0.0
+401361038,2022-04-11T01:30Z,San Antonio Spurs at Dallas Mavericks,Dallas Mavericks,San Antonio Spurs,130,120,1.0
+401361039,2022-04-11T01:30Z,Los Angeles Lakers at Denver Nuggets,Denver Nuggets,Los Angeles Lakers,141,146,0.0
+401361041,2022-04-11T01:30Z,Oklahoma City Thunder at LA Clippers,LA Clippers,Oklahoma City Thunder,138,88,1.0
+401361044,2022-04-11T01:30Z,Golden State Warriors at New Orleans Pelicans,New Orleans Pelicans,Golden State Warriors,107,128,0.0
+401361048,2022-04-11T01:30Z,Sacramento Kings at Phoenix Suns,Phoenix Suns,Sacramento Kings,109,116,0.0
+401361049,2022-04-11T01:30Z,Utah Jazz at Portland Trail Blazers,Portland Trail Blazers,Utah Jazz,80,111,0.0
+401428070,2022-04-12T23:00Z,Cleveland Cavaliers at Brooklyn Nets,Brooklyn Nets,Cleveland Cavaliers,115,108,1.0
+401428071,2022-04-13T01:30Z,LA Clippers at Minnesota Timberwolves,Minnesota Timberwolves,LA Clippers,109,104,1.0
+401428072,2022-04-13T23:00Z,Charlotte Hornets at Atlanta Hawks,Atlanta Hawks,Charlotte Hornets,132,103,1.0
+401428073,2022-04-14T01:30Z,San Antonio Spurs at New Orleans Pelicans,New Orleans Pelicans,San Antonio Spurs,113,103,1.0
+401428074,2022-04-15T23:30Z,Atlanta Hawks at Cleveland Cavaliers,Cleveland Cavaliers,Atlanta Hawks,101,107,0.0
+401428075,2022-04-16T02:00Z,New Orleans Pelicans at LA Clippers,LA Clippers,New Orleans Pelicans,101,105,0.0
+401429872,2022-04-16T17:00Z,Utah Jazz at Dallas Mavericks,Dallas Mavericks,Utah Jazz,93,99,0.0
+401429873,2022-04-16T19:30Z,Minnesota Timberwolves at Memphis Grizzlies,Memphis Grizzlies,Minnesota Timberwolves,117,130,0.0
+401429874,2022-04-16T22:00Z,Toronto Raptors at Philadelphia 76ers,Philadelphia 76ers,Toronto Raptors,131,111,1.0
+401429875,2022-04-17T00:30Z,Denver Nuggets at Golden State Warriors,Golden State Warriors,Denver Nuggets,123,107,1.0
+401429891,2022-04-17T17:00Z,Atlanta Hawks at Miami Heat,Miami Heat,Atlanta Hawks,115,91,1.0
+401429890,2022-04-17T19:30Z,Brooklyn Nets at Boston Celtics,Boston Celtics,Brooklyn Nets,115,114,1.0
+401429892,2022-04-17T22:30Z,Chicago Bulls at Milwaukee Bucks,Milwaukee Bucks,Chicago Bulls,93,86,1.0
+401429893,2022-04-18T01:00Z,New Orleans Pelicans at Phoenix Suns,Phoenix Suns,New Orleans Pelicans,110,99,1.0
+401430233,2022-04-18T23:30Z,Toronto Raptors at Philadelphia 76ers,Philadelphia 76ers,Toronto Raptors,112,97,1.0
+401430232,2022-04-19T00:30Z,Utah Jazz at Dallas Mavericks,Dallas Mavericks,Utah Jazz,110,104,1.0
+401430247,2022-04-19T02:00Z,Denver Nuggets at Golden State Warriors,Golden State Warriors,Denver Nuggets,126,106,1.0
+401430216,2022-04-19T23:30Z,Atlanta Hawks at Miami Heat,Miami Heat,Atlanta Hawks,115,105,1.0
+401430223,2022-04-20T00:30Z,Minnesota Timberwolves at Memphis Grizzlies,Memphis Grizzlies,Minnesota Timberwolves,124,96,1.0
+401430222,2022-04-20T02:00Z,New Orleans Pelicans at Phoenix Suns,Phoenix Suns,New Orleans Pelicans,114,125,0.0
+401430210,2022-04-20T23:00Z,Brooklyn Nets at Boston Celtics,Boston Celtics,Brooklyn Nets,114,107,1.0
+401430236,2022-04-21T00:00Z,Philadelphia 76ers at Toronto Raptors,Toronto Raptors,Philadelphia 76ers,101,104,0.0
+401430246,2022-04-21T01:30Z,Chicago Bulls at Milwaukee Bucks,Milwaukee Bucks,Chicago Bulls,110,114,0.0
+401430227,2022-04-21T23:30Z,Memphis Grizzlies at Minnesota Timberwolves,Minnesota Timberwolves,Memphis Grizzlies,95,104,0.0
+401430235,2022-04-22T01:00Z,Dallas Mavericks at Utah Jazz,Utah Jazz,Dallas Mavericks,118,126,0.0
+401430250,2022-04-22T02:00Z,Golden State Warriors at Denver Nuggets,Denver Nuggets,Golden State Warriors,113,118,0.0
+401430217,2022-04-22T23:55Z,Miami Heat at Atlanta Hawks,Atlanta Hawks,Miami Heat,111,110,1.0
+401430248,2022-04-23T00:30Z,Milwaukee Bucks at Chicago Bulls,Chicago Bulls,Milwaukee Bucks,81,111,0.0
+401430224,2022-04-23T02:00Z,Phoenix Suns at New Orleans Pelicans,New Orleans Pelicans,Phoenix Suns,111,114,0.0
+401430240,2022-04-23T18:00Z,Philadelphia 76ers at Toronto Raptors,Toronto Raptors,Philadelphia 76ers,110,102,1.0
+401430237,2022-04-23T20:30Z,Dallas Mavericks at Utah Jazz,Utah Jazz,Dallas Mavericks,100,99,1.0
+401430211,2022-04-23T23:30Z,Boston Celtics at Brooklyn Nets,Brooklyn Nets,Boston Celtics,103,109,0.0
+401430230,2022-04-24T02:00Z,Memphis Grizzlies at Minnesota Timberwolves,Minnesota Timberwolves,Memphis Grizzlies,119,118,1.0
+401430249,2022-04-24T17:00Z,Milwaukee Bucks at Chicago Bulls,Chicago Bulls,Milwaukee Bucks,95,119,0.0
+401430253,2022-04-24T19:30Z,Golden State Warriors at Denver Nuggets,Denver Nuggets,Golden State Warriors,126,121,1.0
+401430218,2022-04-24T23:00Z,Miami Heat at Atlanta Hawks,Atlanta Hawks,Miami Heat,86,110,0.0
+401430225,2022-04-25T01:30Z,Phoenix Suns at New Orleans Pelicans,New Orleans Pelicans,Phoenix Suns,118,103,1.0
+401430212,2022-04-25T23:00Z,Boston Celtics at Brooklyn Nets,Brooklyn Nets,Boston Celtics,112,116,0.0
+401430243,2022-04-26T00:00Z,Toronto Raptors at Philadelphia 76ers,Philadelphia 76ers,Toronto Raptors,88,103,0.0
+401430239,2022-04-26T01:30Z,Utah Jazz at Dallas Mavericks,Dallas Mavericks,Utah Jazz,102,77,1.0
+401430219,2022-04-26T23:00Z,Atlanta Hawks at Miami Heat,Miami Heat,Atlanta Hawks,97,94,1.0
+401430231,2022-04-26T23:30Z,Minnesota Timberwolves at Memphis Grizzlies,Memphis Grizzlies,Minnesota Timberwolves,111,109,1.0
+401430226,2022-04-27T02:00Z,New Orleans Pelicans at Phoenix Suns,Phoenix Suns,New Orleans Pelicans,112,97,1.0
+401430251,2022-04-27T23:30Z,Chicago Bulls at Milwaukee Bucks,Milwaukee Bucks,Chicago Bulls,116,100,1.0
+401430255,2022-04-28T02:00Z,Denver Nuggets at Golden State Warriors,Golden State Warriors,Denver Nuggets,102,98,1.0
+401430244,2022-04-28T23:00Z,Philadelphia 76ers at Toronto Raptors,Toronto Raptors,Philadelphia 76ers,97,132,0.0
+401430228,2022-04-28T23:30Z,Phoenix Suns at New Orleans Pelicans,New Orleans Pelicans,Phoenix Suns,109,115,0.0
+401430241,2022-04-29T02:00Z,Dallas Mavericks at Utah Jazz,Utah Jazz,Dallas Mavericks,96,98,0.0
+401430234,2022-04-30T01:00Z,Memphis Grizzlies at Minnesota Timberwolves,Minnesota Timberwolves,Memphis Grizzlies,106,114,0.0

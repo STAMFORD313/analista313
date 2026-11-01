@@ -1,0 +1,221 @@
+id,date,event,home,away,hs,as,res
+401160926,2019-12-01T20:00Z,Miami Heat at Brooklyn Nets,Brooklyn Nets,Miami Heat,106,109,0.0
+401160927,2019-12-01T20:30Z,Boston Celtics at New York Knicks,New York Knicks,Boston Celtics,104,113,0.0
+401160928,2019-12-01T20:30Z,Memphis Grizzlies at Minnesota Timberwolves,Minnesota Timberwolves,Memphis Grizzlies,107,115,0.0
+401160929,2019-12-01T21:00Z,Dallas Mavericks at Los Angeles Lakers,Los Angeles Lakers,Dallas Mavericks,100,114,0.0
+401160930,2019-12-01T22:00Z,San Antonio Spurs at Detroit Pistons,Detroit Pistons,San Antonio Spurs,132,98,1.0
+401160931,2019-12-01T22:00Z,Oklahoma City Thunder at New Orleans Pelicans,New Orleans Pelicans,Oklahoma City Thunder,104,107,0.0
+401160932,2019-12-01T23:00Z,Golden State Warriors at Orlando Magic,Orlando Magic,Golden State Warriors,100,96,1.0
+401160933,2019-12-01T23:00Z,Utah Jazz at Toronto Raptors,Toronto Raptors,Utah Jazz,130,110,1.0
+401160934,2019-12-02T03:30Z,Washington Wizards at LA Clippers,LA Clippers,Washington Wizards,150,125,1.0
+401160935,2019-12-03T00:00Z,Phoenix Suns at Charlotte Hornets,Charlotte Hornets,Phoenix Suns,104,109,0.0
+401160936,2019-12-03T00:00Z,Utah Jazz at Philadelphia 76ers,Philadelphia 76ers,Utah Jazz,103,94,1.0
+401160937,2019-12-03T00:30Z,Golden State Warriors at Atlanta Hawks,Atlanta Hawks,Golden State Warriors,104,79,1.0
+401160938,2019-12-03T01:00Z,Indiana Pacers at Memphis Grizzlies,Memphis Grizzlies,Indiana Pacers,104,117,0.0
+401160939,2019-12-03T01:00Z,New York Knicks at Milwaukee Bucks,Milwaukee Bucks,New York Knicks,132,88,1.0
+401160940,2019-12-03T03:00Z,Chicago Bulls at Sacramento Kings,Sacramento Kings,Chicago Bulls,106,113,0.0
+401160941,2019-12-04T00:00Z,Detroit Pistons at Cleveland Cavaliers,Cleveland Cavaliers,Detroit Pistons,94,127,0.0
+401160942,2019-12-04T00:00Z,Orlando Magic at Washington Wizards,Washington Wizards,Orlando Magic,120,127,0.0
+401160943,2019-12-04T00:30Z,Miami Heat at Toronto Raptors,Toronto Raptors,Miami Heat,110,121,0.0
+401160944,2019-12-04T00:30Z,Dallas Mavericks at New Orleans Pelicans,New Orleans Pelicans,Dallas Mavericks,97,118,0.0
+401160945,2019-12-04T01:30Z,Houston Rockets at San Antonio Spurs,San Antonio Spurs,Houston Rockets,135,133,1.0
+401160946,2019-12-04T02:00Z,Los Angeles Lakers at Denver Nuggets,Denver Nuggets,Los Angeles Lakers,96,105,0.0
+401160947,2019-12-04T03:00Z,Portland Trail Blazers at LA Clippers,LA Clippers,Portland Trail Blazers,117,97,1.0
+401160948,2019-12-05T00:00Z,Golden State Warriors at Charlotte Hornets,Charlotte Hornets,Golden State Warriors,106,91,1.0
+401160949,2019-12-05T00:00Z,Milwaukee Bucks at Detroit Pistons,Detroit Pistons,Milwaukee Bucks,103,127,0.0
+401160950,2019-12-05T00:00Z,Phoenix Suns at Orlando Magic,Orlando Magic,Phoenix Suns,128,114,1.0
+401160951,2019-12-05T00:30Z,Brooklyn Nets at Atlanta Hawks,Atlanta Hawks,Brooklyn Nets,118,130,0.0
+401160952,2019-12-05T00:30Z,Miami Heat at Boston Celtics,Boston Celtics,Miami Heat,112,93,1.0
+401160953,2019-12-05T01:00Z,Memphis Grizzlies at Chicago Bulls,Chicago Bulls,Memphis Grizzlies,106,99,1.0
+401160954,2019-12-05T01:00Z,Indiana Pacers at Oklahoma City Thunder,Oklahoma City Thunder,Indiana Pacers,100,107,0.0
+401160955,2019-12-05T01:30Z,Minnesota Timberwolves at Dallas Mavericks,Dallas Mavericks,Minnesota Timberwolves,121,114,1.0
+401160956,2019-12-05T02:00Z,Los Angeles Lakers at Utah Jazz,Utah Jazz,Los Angeles Lakers,96,121,0.0
+401160957,2019-12-05T03:00Z,Sacramento Kings at Portland Trail Blazers,Portland Trail Blazers,Sacramento Kings,127,116,1.0
+401160958,2019-12-06T00:00Z,Philadelphia 76ers at Washington Wizards,Washington Wizards,Philadelphia 76ers,119,113,1.0
+401160959,2019-12-06T00:30Z,Denver Nuggets at New York Knicks,New York Knicks,Denver Nuggets,92,129,0.0
+401160960,2019-12-06T00:30Z,Houston Rockets at Toronto Raptors,Toronto Raptors,Houston Rockets,109,119,0.0
+401160961,2019-12-06T01:00Z,Phoenix Suns at New Orleans Pelicans,New Orleans Pelicans,Phoenix Suns,132,139,0.0
+401160962,2019-12-07T00:00Z,Brooklyn Nets at Charlotte Hornets,Charlotte Hornets,Brooklyn Nets,104,111,0.0
+401160963,2019-12-07T00:00Z,Orlando Magic at Cleveland Cavaliers,Cleveland Cavaliers,Orlando Magic,87,93,0.0
+401160964,2019-12-07T00:00Z,Indiana Pacers at Detroit Pistons,Detroit Pistons,Indiana Pacers,108,101,1.0
+401160965,2019-12-07T01:00Z,Denver Nuggets at Boston Celtics,Boston Celtics,Denver Nuggets,108,95,1.0
+401160966,2019-12-07T01:00Z,Washington Wizards at Miami Heat,Miami Heat,Washington Wizards,112,103,1.0
+401160967,2019-12-07T01:00Z,Golden State Warriors at Chicago Bulls,Chicago Bulls,Golden State Warriors,98,100,0.0
+401160968,2019-12-07T01:00Z,Minnesota Timberwolves at Oklahoma City Thunder,Oklahoma City Thunder,Minnesota Timberwolves,139,127,1.0
+401160969,2019-12-07T01:30Z,LA Clippers at Milwaukee Bucks,Milwaukee Bucks,LA Clippers,119,91,1.0
+401160970,2019-12-07T01:30Z,Sacramento Kings at San Antonio Spurs,San Antonio Spurs,Sacramento Kings,105,104,1.0
+401160971,2019-12-07T03:30Z,Los Angeles Lakers at Portland Trail Blazers,Portland Trail Blazers,Los Angeles Lakers,113,136,0.0
+401160972,2019-12-07T19:00Z,New Orleans Pelicans at Dallas Mavericks,Dallas Mavericks,New Orleans Pelicans,130,84,1.0
+401160973,2019-12-08T00:30Z,Indiana Pacers at New York Knicks,New York Knicks,Indiana Pacers,103,104,0.0
+401160974,2019-12-08T00:30Z,Cleveland Cavaliers at Philadelphia 76ers,Philadelphia 76ers,Cleveland Cavaliers,141,94,1.0
+401160975,2019-12-08T01:00Z,Phoenix Suns at Houston Rockets,Houston Rockets,Phoenix Suns,115,109,1.0
+401160976,2019-12-08T03:00Z,Memphis Grizzlies at Utah Jazz,Utah Jazz,Memphis Grizzlies,126,112,1.0
+401160977,2019-12-08T20:00Z,Denver Nuggets at Brooklyn Nets,Brooklyn Nets,Denver Nuggets,105,102,1.0
+401160978,2019-12-08T22:00Z,Atlanta Hawks at Charlotte Hornets,Charlotte Hornets,Atlanta Hawks,107,122,0.0
+401160979,2019-12-08T23:00Z,Chicago Bulls at Miami Heat,Miami Heat,Chicago Bulls,110,105,1.0
+401160980,2019-12-08T23:00Z,Toronto Raptors at Philadelphia 76ers,Philadelphia 76ers,Toronto Raptors,110,104,1.0
+401160981,2019-12-08T23:00Z,LA Clippers at Washington Wizards,Washington Wizards,LA Clippers,119,135,0.0
+401160982,2019-12-09T00:00Z,Sacramento Kings at Dallas Mavericks,Dallas Mavericks,Sacramento Kings,106,110,0.0
+401160983,2019-12-09T02:00Z,Oklahoma City Thunder at Portland Trail Blazers,Portland Trail Blazers,Oklahoma City Thunder,96,108,0.0
+401160984,2019-12-09T02:30Z,Minnesota Timberwolves at Los Angeles Lakers,Los Angeles Lakers,Minnesota Timberwolves,142,125,1.0
+401160985,2019-12-10T00:00Z,LA Clippers at Indiana Pacers,Indiana Pacers,LA Clippers,99,110,0.0
+401160986,2019-12-10T00:30Z,Cleveland Cavaliers at Boston Celtics,Boston Celtics,Cleveland Cavaliers,110,88,1.0
+401160987,2019-12-10T01:00Z,Toronto Raptors at Chicago Bulls,Chicago Bulls,Toronto Raptors,92,93,0.0
+401160988,2019-12-10T01:00Z,Sacramento Kings at Houston Rockets,Houston Rockets,Sacramento Kings,118,119,0.0
+401160989,2019-12-10T01:00Z,Orlando Magic at Milwaukee Bucks,Milwaukee Bucks,Orlando Magic,110,101,1.0
+401160990,2019-12-10T01:00Z,Detroit Pistons at New Orleans Pelicans,New Orleans Pelicans,Detroit Pistons,103,105,0.0
+401160991,2019-12-10T02:00Z,Minnesota Timberwolves at Phoenix Suns,Phoenix Suns,Minnesota Timberwolves,125,109,1.0
+401160992,2019-12-10T02:00Z,Oklahoma City Thunder at Utah Jazz,Utah Jazz,Oklahoma City Thunder,90,104,0.0
+401160993,2019-12-10T03:30Z,Memphis Grizzlies at Golden State Warriors,Golden State Warriors,Memphis Grizzlies,102,110,0.0
+401160994,2019-12-11T00:00Z,Washington Wizards at Charlotte Hornets,Charlotte Hornets,Washington Wizards,114,107,1.0
+401160995,2019-12-11T01:00Z,Denver Nuggets at Philadelphia 76ers,Philadelphia 76ers,Denver Nuggets,97,92,1.0
+401160996,2019-12-11T01:00Z,Atlanta Hawks at Miami Heat,Miami Heat,Atlanta Hawks,135,121,1.0
+401160997,2019-12-11T03:00Z,New York Knicks at Portland Trail Blazers,Portland Trail Blazers,New York Knicks,115,87,1.0
+401160998,2019-12-12T00:00Z,Houston Rockets at Cleveland Cavaliers,Cleveland Cavaliers,Houston Rockets,110,116,0.0
+401160999,2019-12-12T00:00Z,Boston Celtics at Indiana Pacers,Indiana Pacers,Boston Celtics,122,117,1.0
+401161000,2019-12-12T00:00Z,Los Angeles Lakers at Orlando Magic,Orlando Magic,Los Angeles Lakers,87,96,0.0
+401161001,2019-12-12T00:00Z,LA Clippers at Toronto Raptors,Toronto Raptors,LA Clippers,92,112,0.0
+401161002,2019-12-12T00:30Z,Charlotte Hornets at Brooklyn Nets,Brooklyn Nets,Charlotte Hornets,108,113,0.0
+401161003,2019-12-12T01:00Z,Atlanta Hawks at Chicago Bulls,Chicago Bulls,Atlanta Hawks,136,102,1.0
+401161004,2019-12-12T01:00Z,Utah Jazz at Minnesota Timberwolves,Minnesota Timberwolves,Utah Jazz,116,127,0.0
+401161005,2019-12-12T02:00Z,Memphis Grizzlies at Phoenix Suns,Phoenix Suns,Memphis Grizzlies,108,115,0.0
+401161006,2019-12-12T02:30Z,New Orleans Pelicans at Milwaukee Bucks,Milwaukee Bucks,New Orleans Pelicans,127,112,1.0
+401161007,2019-12-12T03:00Z,Oklahoma City Thunder at Sacramento Kings,Sacramento Kings,Oklahoma City Thunder,94,93,1.0
+401161008,2019-12-12T03:30Z,New York Knicks at Golden State Warriors,Golden State Warriors,New York Knicks,122,124,0.0
+401161009,2019-12-13T01:00Z,Philadelphia 76ers at Boston Celtics,Boston Celtics,Philadelphia 76ers,109,115,0.0
+401161010,2019-12-13T01:30Z,Cleveland Cavaliers at San Antonio Spurs,San Antonio Spurs,Cleveland Cavaliers,109,117,0.0
+401161011,2019-12-13T02:00Z,Dallas Mavericks at Detroit Pistons,Detroit Pistons,Dallas Mavericks,111,122,0.0
+401161012,2019-12-13T03:30Z,Portland Trail Blazers at Denver Nuggets,Denver Nuggets,Portland Trail Blazers,114,99,1.0
+401161013,2019-12-14T00:00Z,Houston Rockets at Orlando Magic,Orlando Magic,Houston Rockets,107,130,0.0
+401161014,2019-12-14T00:00Z,New Orleans Pelicans at Philadelphia 76ers,Philadelphia 76ers,New Orleans Pelicans,116,109,1.0
+401161016,2019-12-14T00:00Z,Los Angeles Lakers at Miami Heat,Miami Heat,Los Angeles Lakers,110,113,0.0
+401161015,2019-12-14T00:30Z,Indiana Pacers at Atlanta Hawks,Atlanta Hawks,Indiana Pacers,100,110,0.0
+401161017,2019-12-14T01:00Z,Charlotte Hornets at Chicago Bulls,Chicago Bulls,Charlotte Hornets,73,83,0.0
+401161018,2019-12-14T01:00Z,Milwaukee Bucks at Memphis Grizzlies,Memphis Grizzlies,Milwaukee Bucks,114,127,0.0
+401161021,2019-12-14T02:00Z,Golden State Warriors at Utah Jazz,Utah Jazz,Golden State Warriors,114,106,1.0
+401161019,2019-12-14T02:30Z,LA Clippers at Minnesota Timberwolves,Minnesota Timberwolves,LA Clippers,117,124,0.0
+401161020,2019-12-14T03:00Z,New York Knicks at Sacramento Kings,Sacramento Kings,New York Knicks,101,103,0.0
+401161022,2019-12-14T22:00Z,San Antonio Spurs at Phoenix Suns,Phoenix Suns,San Antonio Spurs,119,121,0.0
+401161023,2019-12-15T00:30Z,Brooklyn Nets at Toronto Raptors,Toronto Raptors,Brooklyn Nets,110,102,1.0
+401161024,2019-12-15T01:00Z,LA Clippers at Chicago Bulls,Chicago Bulls,LA Clippers,109,106,1.0
+401161025,2019-12-15T01:00Z,Washington Wizards at Memphis Grizzlies,Memphis Grizzlies,Washington Wizards,128,111,1.0
+401161026,2019-12-15T01:30Z,Miami Heat at Dallas Mavericks,Dallas Mavericks,Miami Heat,118,122,0.0
+401161027,2019-12-15T01:30Z,Cleveland Cavaliers at Milwaukee Bucks,Milwaukee Bucks,Cleveland Cavaliers,125,108,1.0
+401161028,2019-12-15T02:00Z,Detroit Pistons at Houston Rockets,Houston Rockets,Detroit Pistons,107,115,0.0
+401161029,2019-12-15T02:00Z,Oklahoma City Thunder at Denver Nuggets,Denver Nuggets,Oklahoma City Thunder,110,102,1.0
+401161030,2019-12-15T20:30Z,Orlando Magic at New Orleans Pelicans,New Orleans Pelicans,Orlando Magic,119,130,0.0
+401161031,2019-12-15T22:00Z,Charlotte Hornets at Indiana Pacers,Indiana Pacers,Charlotte Hornets,107,85,1.0
+401161032,2019-12-15T23:00Z,Los Angeles Lakers at Atlanta Hawks,Atlanta Hawks,Los Angeles Lakers,96,101,0.0
+401161033,2019-12-15T23:00Z,Philadelphia 76ers at Brooklyn Nets,Brooklyn Nets,Philadelphia 76ers,109,89,1.0
+401161034,2019-12-16T01:00Z,New York Knicks at Denver Nuggets,Denver Nuggets,New York Knicks,111,105,1.0
+401161035,2019-12-16T01:30Z,Sacramento Kings at Golden State Warriors,Golden State Warriors,Sacramento Kings,79,100,0.0
+401161036,2019-12-17T00:00Z,Washington Wizards at Detroit Pistons,Detroit Pistons,Washington Wizards,119,133,0.0
+401161037,2019-12-17T00:30Z,Cleveland Cavaliers at Toronto Raptors,Toronto Raptors,Cleveland Cavaliers,133,113,1.0
+401161038,2019-12-17T01:00Z,San Antonio Spurs at Houston Rockets,Houston Rockets,San Antonio Spurs,109,107,1.0
+401161039,2019-12-17T01:00Z,Miami Heat at Memphis Grizzlies,Memphis Grizzlies,Miami Heat,118,111,1.0
+401161040,2019-12-17T01:00Z,Dallas Mavericks at Milwaukee Bucks,Milwaukee Bucks,Dallas Mavericks,116,120,0.0
+401161041,2019-12-17T01:00Z,Chicago Bulls at Oklahoma City Thunder,Oklahoma City Thunder,Chicago Bulls,109,106,1.0
+401161042,2019-12-17T02:00Z,Portland Trail Blazers at Phoenix Suns,Phoenix Suns,Portland Trail Blazers,110,111,0.0
+401161043,2019-12-18T00:00Z,Sacramento Kings at Charlotte Hornets,Charlotte Hornets,Sacramento Kings,110,102,1.0
+401161044,2019-12-18T00:00Z,Los Angeles Lakers at Indiana Pacers,Indiana Pacers,Los Angeles Lakers,105,102,1.0
+401161045,2019-12-18T00:30Z,Atlanta Hawks at New York Knicks,New York Knicks,Atlanta Hawks,143,120,1.0
+401161046,2019-12-18T01:00Z,Brooklyn Nets at New Orleans Pelicans,New Orleans Pelicans,Brooklyn Nets,101,108,0.0
+401161047,2019-12-18T02:00Z,Orlando Magic at Utah Jazz,Utah Jazz,Orlando Magic,109,102,1.0
+401161048,2019-12-18T03:30Z,Phoenix Suns at LA Clippers,LA Clippers,Phoenix Suns,120,99,1.0
+401161049,2019-12-19T00:00Z,Charlotte Hornets at Cleveland Cavaliers,Cleveland Cavaliers,Charlotte Hornets,100,98,1.0
+401161050,2019-12-19T00:00Z,Toronto Raptors at Detroit Pistons,Detroit Pistons,Toronto Raptors,99,112,0.0
+401161051,2019-12-19T00:00Z,Chicago Bulls at Washington Wizards,Washington Wizards,Chicago Bulls,109,110,0.0
+401161052,2019-12-19T00:00Z,Miami Heat at Philadelphia 76ers,Philadelphia 76ers,Miami Heat,104,108,0.0
+401161053,2019-12-19T01:00Z,New Orleans Pelicans at Minnesota Timberwolves,Minnesota Timberwolves,New Orleans Pelicans,99,107,0.0
+401161054,2019-12-19T01:00Z,Memphis Grizzlies at Oklahoma City Thunder,Oklahoma City Thunder,Memphis Grizzlies,126,122,1.0
+401161056,2019-12-19T02:00Z,Orlando Magic at Denver Nuggets,Denver Nuggets,Orlando Magic,113,104,1.0
+401161055,2019-12-19T02:30Z,Boston Celtics at Dallas Mavericks,Dallas Mavericks,Boston Celtics,103,109,0.0
+401161057,2019-12-19T03:00Z,Golden State Warriors at Portland Trail Blazers,Portland Trail Blazers,Golden State Warriors,122,112,1.0
+401161058,2019-12-20T00:30Z,Utah Jazz at Atlanta Hawks,Atlanta Hawks,Utah Jazz,106,111,0.0
+401161059,2019-12-20T01:00Z,Los Angeles Lakers at Milwaukee Bucks,Milwaukee Bucks,Los Angeles Lakers,111,104,1.0
+401161060,2019-12-20T01:30Z,Brooklyn Nets at San Antonio Spurs,San Antonio Spurs,Brooklyn Nets,118,105,1.0
+401161061,2019-12-20T03:30Z,Houston Rockets at LA Clippers,LA Clippers,Houston Rockets,117,122,0.0
+401161062,2019-12-21T00:00Z,Memphis Grizzlies at Cleveland Cavaliers,Cleveland Cavaliers,Memphis Grizzlies,114,107,1.0
+401161063,2019-12-21T00:00Z,Sacramento Kings at Indiana Pacers,Indiana Pacers,Sacramento Kings,119,105,1.0
+401161064,2019-12-21T00:30Z,Detroit Pistons at Boston Celtics,Boston Celtics,Detroit Pistons,114,93,1.0
+401161065,2019-12-21T00:30Z,Washington Wizards at Toronto Raptors,Toronto Raptors,Washington Wizards,122,118,1.0
+401161066,2019-12-21T01:00Z,New York Knicks at Miami Heat,Miami Heat,New York Knicks,129,114,1.0
+401161067,2019-12-21T01:00Z,Dallas Mavericks at Philadelphia 76ers,Philadelphia 76ers,Dallas Mavericks,98,117,0.0
+401161068,2019-12-21T01:00Z,Phoenix Suns at Oklahoma City Thunder,Oklahoma City Thunder,Phoenix Suns,126,108,1.0
+401161069,2019-12-21T02:00Z,Minnesota Timberwolves at Denver Nuggets,Denver Nuggets,Minnesota Timberwolves,109,100,1.0
+401161070,2019-12-21T03:00Z,Orlando Magic at Portland Trail Blazers,Portland Trail Blazers,Orlando Magic,118,103,1.0
+401161071,2019-12-21T03:30Z,New Orleans Pelicans at Golden State Warriors,Golden State Warriors,New Orleans Pelicans,106,102,1.0
+401161072,2019-12-21T22:00Z,Utah Jazz at Charlotte Hornets,Charlotte Hornets,Utah Jazz,107,114,0.0
+401161073,2019-12-21T23:00Z,Atlanta Hawks at Brooklyn Nets,Brooklyn Nets,Atlanta Hawks,122,112,1.0
+401161074,2019-12-22T00:00Z,Chicago Bulls at Detroit Pistons,Detroit Pistons,Chicago Bulls,107,119,0.0
+401161075,2019-12-22T00:00Z,Washington Wizards at Philadelphia 76ers,Philadelphia 76ers,Washington Wizards,125,108,1.0
+401161076,2019-12-22T00:30Z,Milwaukee Bucks at New York Knicks,New York Knicks,Milwaukee Bucks,102,123,0.0
+401161077,2019-12-22T01:00Z,Sacramento Kings at Memphis Grizzlies,Memphis Grizzlies,Sacramento Kings,119,115,1.0
+401161078,2019-12-22T01:30Z,LA Clippers at San Antonio Spurs,San Antonio Spurs,LA Clippers,109,134,0.0
+401161079,2019-12-22T02:00Z,Houston Rockets at Phoenix Suns,Phoenix Suns,Houston Rockets,125,139,0.0
+401161080,2019-12-22T03:00Z,Minnesota Timberwolves at Portland Trail Blazers,Portland Trail Blazers,Minnesota Timberwolves,113,106,1.0
+401161081,2019-12-22T20:30Z,Dallas Mavericks at Toronto Raptors,Toronto Raptors,Dallas Mavericks,110,107,1.0
+401161082,2019-12-22T23:00Z,Charlotte Hornets at Boston Celtics,Boston Celtics,Charlotte Hornets,119,93,1.0
+401161083,2019-12-23T00:00Z,Indiana Pacers at Milwaukee Bucks,Milwaukee Bucks,Indiana Pacers,117,89,1.0
+401161084,2019-12-23T00:00Z,LA Clippers at Oklahoma City Thunder,Oklahoma City Thunder,LA Clippers,118,112,1.0
+401161085,2019-12-23T02:30Z,Denver Nuggets at Los Angeles Lakers,Los Angeles Lakers,Denver Nuggets,104,128,0.0
+401161086,2019-12-24T00:00Z,Atlanta Hawks at Cleveland Cavaliers,Cleveland Cavaliers,Atlanta Hawks,121,118,1.0
+401161087,2019-12-24T00:00Z,Philadelphia 76ers at Detroit Pistons,Detroit Pistons,Philadelphia 76ers,109,125,0.0
+401161088,2019-12-24T00:00Z,Toronto Raptors at Indiana Pacers,Indiana Pacers,Toronto Raptors,120,115,1.0
+401161089,2019-12-24T00:00Z,Washington Wizards at New York Knicks,New York Knicks,Washington Wizards,115,121,0.0
+401161090,2019-12-24T00:00Z,Chicago Bulls at Orlando Magic,Orlando Magic,Chicago Bulls,103,95,1.0
+401161091,2019-12-24T00:30Z,Utah Jazz at Miami Heat,Miami Heat,Utah Jazz,107,104,1.0
+401161092,2019-12-24T01:00Z,San Antonio Spurs at Memphis Grizzlies,Memphis Grizzlies,San Antonio Spurs,115,145,0.0
+401161093,2019-12-24T02:00Z,Denver Nuggets at Phoenix Suns,Phoenix Suns,Denver Nuggets,111,113,0.0
+401161094,2019-12-24T03:00Z,New Orleans Pelicans at Portland Trail Blazers,Portland Trail Blazers,New Orleans Pelicans,94,102,0.0
+401161095,2019-12-24T03:00Z,Houston Rockets at Sacramento Kings,Sacramento Kings,Houston Rockets,104,113,0.0
+401161096,2019-12-24T03:30Z,Minnesota Timberwolves at Golden State Warriors,Golden State Warriors,Minnesota Timberwolves,113,104,1.0
+401161097,2019-12-25T17:00Z,Boston Celtics at Toronto Raptors,Toronto Raptors,Boston Celtics,102,118,0.0
+401161098,2019-12-25T19:30Z,Milwaukee Bucks at Philadelphia 76ers,Philadelphia 76ers,Milwaukee Bucks,121,109,1.0
+401161099,2019-12-25T22:00Z,Houston Rockets at Golden State Warriors,Golden State Warriors,Houston Rockets,116,104,1.0
+401161100,2019-12-26T01:00Z,LA Clippers at Los Angeles Lakers,Los Angeles Lakers,LA Clippers,106,111,0.0
+401161101,2019-12-26T03:30Z,New Orleans Pelicans at Denver Nuggets,Denver Nuggets,New Orleans Pelicans,100,112,0.0
+401161102,2019-12-27T00:00Z,Washington Wizards at Detroit Pistons,Detroit Pistons,Washington Wizards,132,102,1.0
+401161103,2019-12-27T00:30Z,New York Knicks at Brooklyn Nets,Brooklyn Nets,New York Knicks,82,94,0.0
+401161104,2019-12-27T01:00Z,Memphis Grizzlies at Oklahoma City Thunder,Oklahoma City Thunder,Memphis Grizzlies,97,110,0.0
+401161105,2019-12-27T01:00Z,San Antonio Spurs at Dallas Mavericks,Dallas Mavericks,San Antonio Spurs,102,98,1.0
+401161106,2019-12-27T03:00Z,Minnesota Timberwolves at Sacramento Kings,Sacramento Kings,Minnesota Timberwolves,104,105,0.0
+401161107,2019-12-27T03:30Z,Portland Trail Blazers at Utah Jazz,Utah Jazz,Portland Trail Blazers,121,115,1.0
+401161108,2019-12-27T21:00Z,Cleveland Cavaliers at Boston Celtics,Boston Celtics,Cleveland Cavaliers,129,117,1.0
+401161109,2019-12-28T00:00Z,Oklahoma City Thunder at Charlotte Hornets,Charlotte Hornets,Oklahoma City Thunder,102,104,0.0
+401161110,2019-12-28T00:00Z,Philadelphia 76ers at Orlando Magic,Orlando Magic,Philadelphia 76ers,98,97,1.0
+401161111,2019-12-28T00:30Z,Milwaukee Bucks at Atlanta Hawks,Atlanta Hawks,Milwaukee Bucks,86,112,0.0
+401161112,2019-12-28T01:00Z,Indiana Pacers at Miami Heat,Miami Heat,Indiana Pacers,113,112,1.0
+401161113,2019-12-28T03:30Z,Phoenix Suns at Golden State Warriors,Golden State Warriors,Phoenix Suns,105,96,1.0
+401161114,2019-12-28T22:00Z,Memphis Grizzlies at Denver Nuggets,Denver Nuggets,Memphis Grizzlies,119,110,1.0
+401161115,2019-12-29T00:00Z,Toronto Raptors at Boston Celtics,Boston Celtics,Toronto Raptors,97,113,0.0
+401161116,2019-12-29T00:00Z,Indiana Pacers at New Orleans Pelicans,New Orleans Pelicans,Indiana Pacers,120,98,1.0
+401161117,2019-12-29T01:00Z,Philadelphia 76ers at Miami Heat,Miami Heat,Philadelphia 76ers,117,116,1.0
+401161118,2019-12-29T01:00Z,New York Knicks at Washington Wizards,Washington Wizards,New York Knicks,100,107,0.0
+401161119,2019-12-29T01:00Z,Atlanta Hawks at Chicago Bulls,Chicago Bulls,Atlanta Hawks,116,81,1.0
+401161120,2019-12-29T01:00Z,Brooklyn Nets at Houston Rockets,Houston Rockets,Brooklyn Nets,108,98,1.0
+401161121,2019-12-29T01:00Z,Cleveland Cavaliers at Minnesota Timberwolves,Minnesota Timberwolves,Cleveland Cavaliers,88,94,0.0
+401161122,2019-12-29T01:30Z,Orlando Magic at Milwaukee Bucks,Milwaukee Bucks,Orlando Magic,111,100,1.0
+401161123,2019-12-29T01:30Z,Detroit Pistons at San Antonio Spurs,San Antonio Spurs,Detroit Pistons,136,109,1.0
+401161124,2019-12-29T01:30Z,Dallas Mavericks at Golden State Warriors,Golden State Warriors,Dallas Mavericks,121,141,0.0
+401161125,2019-12-29T02:00Z,Phoenix Suns at Sacramento Kings,Sacramento Kings,Phoenix Suns,110,112,0.0
+401161126,2019-12-29T03:00Z,Los Angeles Lakers at Portland Trail Blazers,Portland Trail Blazers,Los Angeles Lakers,120,128,0.0
+401161127,2019-12-29T03:30Z,Utah Jazz at LA Clippers,LA Clippers,Utah Jazz,107,120,0.0
+401161128,2019-12-29T23:00Z,Oklahoma City Thunder at Toronto Raptors,Toronto Raptors,Oklahoma City Thunder,97,98,0.0
+401161129,2019-12-30T01:00Z,Charlotte Hornets at Memphis Grizzlies,Memphis Grizzlies,Charlotte Hornets,117,104,1.0
+401161130,2019-12-30T01:00Z,Houston Rockets at New Orleans Pelicans,New Orleans Pelicans,Houston Rockets,127,112,1.0
+401161131,2019-12-30T01:00Z,Sacramento Kings at Denver Nuggets,Denver Nuggets,Sacramento Kings,120,115,1.0
+401161132,2019-12-30T02:30Z,Dallas Mavericks at Los Angeles Lakers,Los Angeles Lakers,Dallas Mavericks,108,95,1.0
+401161133,2019-12-31T00:00Z,Atlanta Hawks at Orlando Magic,Orlando Magic,Atlanta Hawks,93,101,0.0
+401161134,2019-12-31T00:00Z,Miami Heat at Washington Wizards,Washington Wizards,Miami Heat,123,105,1.0
+401161135,2019-12-31T01:00Z,Milwaukee Bucks at Chicago Bulls,Chicago Bulls,Milwaukee Bucks,102,123,0.0
+401161136,2019-12-31T01:00Z,Brooklyn Nets at Minnesota Timberwolves,Minnesota Timberwolves,Brooklyn Nets,122,115,1.0
+401161137,2019-12-31T02:00Z,Detroit Pistons at Utah Jazz,Utah Jazz,Detroit Pistons,104,81,1.0
+401161138,2019-12-31T03:00Z,Phoenix Suns at Portland Trail Blazers,Portland Trail Blazers,Phoenix Suns,116,122,0.0
+401161139,2019-12-31T20:00Z,Boston Celtics at Charlotte Hornets,Charlotte Hornets,Boston Celtics,92,109,0.0
+401161140,2019-12-31T20:00Z,Philadelphia 76ers at Indiana Pacers,Indiana Pacers,Philadelphia 76ers,115,97,1.0
+401161141,2019-12-31T22:00Z,LA Clippers at Sacramento Kings,Sacramento Kings,LA Clippers,87,105,0.0
+401161142,2020-01-01T00:00Z,Cleveland Cavaliers at Toronto Raptors,Toronto Raptors,Cleveland Cavaliers,117,97,1.0
+401161143,2020-01-01T00:00Z,Denver Nuggets at Houston Rockets,Houston Rockets,Denver Nuggets,130,104,1.0
+401161144,2020-01-01T00:00Z,Golden State Warriors at San Antonio Spurs,San Antonio Spurs,Golden State Warriors,117,113,1.0
+401161145,2020-01-01T01:00Z,Dallas Mavericks at Oklahoma City Thunder,Oklahoma City Thunder,Dallas Mavericks,106,101,1.0

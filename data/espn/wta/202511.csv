@@ -1,0 +1,365 @@
+id,date,event,home,away,hs,as,res
+167103,2025-10-25T02:05Z,Prudential Hong Kong Tennis Open,Maddison Inglis,Marina Melnikova,,,1.0
+167105,2025-10-25T02:05Z,Prudential Hong Kong Tennis Open,Anna Yang,Miho Kuramochi,,,0.0
+167109,2025-10-25T02:05Z,Prudential Hong Kong Tennis Open,Himeno Sakatsume,Anastasia Kulikova,,,1.0
+167112,2025-10-25T03:30Z,Prudential Hong Kong Tennis Open,You Xiaodi,Zhang Ying,,,1.0
+167101,2025-10-25T03:35Z,Prudential Hong Kong Tennis Open,Kristiana Sidorova,Zarina Diyas,,,1.0
+167108,2025-10-25T03:40Z,Prudential Hong Kong Tennis Open,Man Ying Maggie Ng,Lu Jia-Jing,,,0.0
+167111,2025-10-25T05:25Z,Prudential Hong Kong Tennis Open,Momoko Kobori,Ikumi Yamazaki,,,1.0
+167110,2025-10-25T05:30Z,Prudential Hong Kong Tennis Open,Viktoria Morvayova,Emily Appleton,,,1.0
+167102,2025-10-25T05:50Z,Prudential Hong Kong Tennis Open,Haruka Kaji,Kallista Liu,,,1.0
+167104,2025-10-25T07:05Z,Prudential Hong Kong Tennis Open,Ma YeXin,Yuyao Li,,,1.0
+167107,2025-10-25T07:40Z,Prudential Hong Kong Tennis Open,Kyoka Okamura,Guo Meiqi,,,1.0
+167106,2025-10-25T08:00Z,Prudential Hong Kong Tennis Open,Nadiia Kolb,Amy Zhu,,,0.0
+167113,2025-10-26T02:00Z,Prudential Hong Kong Tennis Open,Maddison Inglis,Lu Jia-Jing,,,1.0
+167118,2025-10-26T02:05Z,Prudential Hong Kong Tennis Open,Himeno Sakatsume,Miho Kuramochi,,,1.0
+167114,2025-10-26T03:20Z,Prudential Hong Kong Tennis Open,You Xiaodi,Momoko Kobori,,,0.0
+167115,2025-10-26T04:05Z,Prudential Hong Kong Tennis Open,Haruka Kaji,Kristiana Sidorova,,,0.0
+167117,2025-10-26T05:50Z,Prudential Hong Kong Tennis Open,Ma YeXin,Amy Zhu,,,1.0
+167116,2025-10-26T06:25Z,Prudential Hong Kong Tennis Open,Kyoka Okamura,Viktoria Morvayova,,,0.0
+165017,2025-10-27T06:05Z,Prudential Hong Kong Tennis Open,Cristina Bucsa,Ma YeXin,,,1.0
+165018,2025-10-27T06:05Z,Prudential Hong Kong Tennis Open,Maddison Inglis,Wang Yafan,,,0.0
+165014,2025-10-27T07:25Z,Prudential Hong Kong Tennis Open,Kristiana Sidorova,Eva Lys,,,0.0
+165020,2025-10-27T09:10Z,Prudential Hong Kong Tennis Open,Momoko Kobori,Ajla Tomljanovic,,,0.0
+165023,2025-10-27T11:00Z,Prudential Hong Kong Tennis Open,Hong Yi Cody Wong,Viktoria Morvayova,,,0.0
+165021,2025-10-27T12:20Z,Prudential Hong Kong Tennis Open,Anastasija Sevastova,Maya Joint,,,0.0
+165019,2025-10-28T06:05Z,Prudential Hong Kong Tennis Open,Sorana Cirstea,Dalma Galfi,,,1.0
+165015,2025-10-28T06:05Z,Prudential Hong Kong Tennis Open,Sofia Kenin,Himeno Sakatsume,,,0.0
+165010,2025-10-28T06:10Z,Prudential Hong Kong Tennis Open,Talia Gibson,Victoria Mboko,,,0.0
+165022,2025-10-28T08:00Z,Prudential Hong Kong Tennis Open,Eudice Wong Chong,Suzan Lamens,,,1.0
+165013,2025-10-28T08:25Z,Prudential Hong Kong Tennis Open,Moyuka Uchijima,Emiliana Arango,,,0.0
+165016,2025-10-28T08:40Z,Prudential Hong Kong Tennis Open,Wang Xiyu,Leylah Fernandez,,,0.0
+165011,2025-10-28T09:50Z,Prudential Hong Kong Tennis Open,Anna Kalinskaya,Kamilla Rakhimova,,,1.0
+165008,2025-10-28T10:35Z,Prudential Hong Kong Tennis Open,Belinda Bencic,Aliaksandra Sasnovich,,,1.0
+165012,2025-10-28T11:35Z,Prudential Hong Kong Tennis Open,Veronika Erjavec,Zhang Shuai,,,0.0
+165009,2025-10-28T12:20Z,Prudential Hong Kong Tennis Open,Alexandra Eala,Katie Boulter,,,1.0
+165031,2025-10-29T06:05Z,Prudential Hong Kong Tennis Open,Viktoria Morvayova,Maya Joint,,,0.0
+165035,2025-10-29T06:05Z,Prudential Hong Kong Tennis Open,Cristina Bucsa,Emiliana Arango,,,1.0
+165030,2025-10-29T07:30Z,Prudential Hong Kong Tennis Open,Sorana Cirstea,Ajla Tomljanovic,,,1.0
+165033,2025-10-29T10:35Z,Prudential Hong Kong Tennis Open,Eva Lys,Leylah Fernandez,,,0.0
+165032,2025-10-30T06:05Z,Prudential Hong Kong Tennis Open,Anna Kalinskaya,Zhang Shuai,,,1.0
+165037,2025-10-30T07:15Z,Prudential Hong Kong Tennis Open,Belinda Bencic,Wang Yafan,,,1.0
+165029,2025-10-30T10:35Z,Prudential Hong Kong Tennis Open,Alexandra Eala,Victoria Mboko,,,0.0
+165036,2025-10-30T13:25Z,Prudential Hong Kong Tennis Open,Himeno Sakatsume,Eudice Wong Chong,,,1.0
+165034,2025-10-31T06:00Z,Prudential Hong Kong Tennis Open,Belinda Bencic,Cristina Bucsa,,,0.0
+165024,2025-10-31T07:50Z,Prudential Hong Kong Tennis Open,Himeno Sakatsume,Maya Joint,,,0.0
+165025,2025-10-31T10:35Z,Prudential Hong Kong Tennis Open,Anna Kalinskaya,Victoria Mboko,,,0.0
+165028,2025-10-31T11:50Z,Prudential Hong Kong Tennis Open,Sorana Cirstea,Leylah Fernandez,,,0.0
+165026,2025-11-01T06:05Z,Prudential Hong Kong Tennis Open,Cristina Bucsa,Maya Joint,,,1.0
+165027,2025-11-01T07:35Z,Prudential Hong Kong Tennis Open,Victoria Mboko,Leylah Fernandez,,,1.0
+165038,2025-11-02T08:05Z,Prudential Hong Kong Tennis Open,Cristina Bucsa,Victoria Mboko,,,0.0
+167125,2025-10-25T03:00Z,Jiangxi Open,Guo Hanyu,Ekaterina Ovcharenko,,,1.0
+167119,2025-10-25T03:05Z,Jiangxi Open,Gao Xinyu,Yang Yidi,,,1.0
+167121,2025-10-25T03:05Z,Jiangxi Open,Wang Yuhan,Aliona Falei,,,0.0
+167120,2025-10-25T04:30Z,Jiangxi Open,Ren Yufei,Shi Han,,,0.0
+167124,2025-10-25T05:20Z,Jiangxi Open,Darya Astakhova,Chloe Paquet,,,0.0
+167126,2025-10-25T06:00Z,Jiangxi Open,Elena Pridankina,Li Zongyu,,,1.0
+167122,2025-10-25T06:10Z,Jiangxi Open,Carol Young Suh Lee,Wang Jiaqi,,,1.0
+167123,2025-10-25T07:25Z,Jiangxi Open,Rina Saigo,Yao Xinxin,,,1.0
+167129,2025-10-26T03:05Z,Jiangxi Open,Gao Xinyu,Aliona Falei,,,0.0
+167127,2025-10-26T03:05Z,Jiangxi Open,Guo Hanyu,Shi Han,,,1.0
+167130,2025-10-26T04:40Z,Jiangxi Open,Carol Young Suh Lee,Chloe Paquet,,,0.0
+167128,2025-10-26T05:30Z,Jiangxi Open,Elena Pridankina,Rina Saigo,,,0.0
+165061,2025-10-27T03:05Z,Jiangxi Open,Guo Hanyu,Alina Korneeva,,,1.0
+165057,2025-10-27T03:05Z,Jiangxi Open,Wei Sijia,Anna Bondar,,,0.0
+165066,2025-10-27T04:05Z,Jiangxi Open,Dominika Salkova,Aliona Falei,,,1.0
+165060,2025-10-27T04:35Z,Jiangxi Open,Tamara Korpatsch,Polina Kudermetova,,,1.0
+165058,2025-10-27T05:30Z,Jiangxi Open,Ella Seidel,Tiantsoa Rakotomanga Rajaonah,,,1.0
+165062,2025-10-27T05:35Z,Jiangxi Open,Yulia Putintseva,Victoria Jimenez Kasintseva,,,1.0
+165068,2025-10-27T06:15Z,Jiangxi Open,Ena Shibahara,Anastasia Zakharova,,,0.0
+165067,2025-10-27T10:35Z,Jiangxi Open,Zheng Wushuang,Yuliia Starodubtseva,,,1.0
+165063,2025-10-28T03:05Z,Jiangxi Open,Alycia Parks,Zhu Lin,,,1.0
+165056,2025-10-28T03:05Z,Jiangxi Open,Anna Blinkova,Chloe Paquet,,,1.0
+165064,2025-10-28T04:25Z,Jiangxi Open,Rina Saigo,Viktorija Golubic,,,0.0
+165054,2025-10-28T04:45Z,Jiangxi Open,Camila Osorio,Elisabetta Cocciaretto,,,0.0
+165069,2025-10-28T06:15Z,Jiangxi Open,Yuan Yue,Elena Pridankina,,,0.0
+165055,2025-10-28T06:20Z,Jiangxi Open,Lilli Tagger,Chenting Zhu,,,1.0
+165065,2025-10-28T07:55Z,Jiangxi Open,Kaja Juvan,Claire Liu,,,1.0
+165059,2025-10-28T09:15Z,Jiangxi Open,Ann Li,Bai Zhuoxuan,,,0.0
+165078,2025-10-29T03:05Z,Jiangxi Open,Elisabetta Cocciaretto,Lilli Tagger,,,0.0
+165072,2025-10-29T05:00Z,Jiangxi Open,Ella Seidel,Tamara Korpatsch,,,0.0
+165071,2025-10-29T07:10Z,Jiangxi Open,Elena Pridankina,Viktorija Golubic,,,0.0
+165070,2025-10-29T10:10Z,Jiangxi Open,Yulia Putintseva,Zheng Wushuang,,,1.0
+165080,2025-10-30T06:40Z,Jiangxi Open,Alycia Parks,Kaja Juvan,,,1.0
+165079,2025-10-30T06:50Z,Jiangxi Open,Dominika Salkova,Anastasia Zakharova,,,1.0
+165077,2025-10-30T08:30Z,Jiangxi Open,Anna Blinkova,Anna Bondar,,,1.0
+165081,2025-10-30T10:50Z,Jiangxi Open,Bai Zhuoxuan,Guo Hanyu,,,1.0
+165073,2025-10-31T03:10Z,Jiangxi Open,Lilli Tagger,Tamara Korpatsch,,,1.0
+165074,2025-10-31T05:25Z,Jiangxi Open,Yulia Putintseva,Viktorija Golubic,,,0.0
+165075,2025-10-31T07:05Z,Jiangxi Open,Bai Zhuoxuan,Dominika Salkova,,,0.0
+165076,2025-10-31T09:05Z,Jiangxi Open,Alycia Parks,Anna Blinkova,,,0.0
+165083,2025-11-01T06:15Z,Jiangxi Open,Dominika Salkova,Anna Blinkova,,,0.0
+165084,2025-11-01T08:15Z,Jiangxi Open,Lilli Tagger,Viktorija Golubic,,,1.0
+165082,2025-11-02T07:35Z,Jiangxi Open,Anna Blinkova,Lilli Tagger,,,1.0
+167138,2025-10-25T10:30Z,Chennai Open,Arianne Hartono,Sofya Lansere,,,1.0
+167136,2025-10-25T10:30Z,Chennai Open,Ankita Raina,Mei Yamaguchi,,,0.0
+167137,2025-10-25T10:40Z,Chennai Open,Ekaterina Yashina,Priska Nugroho,,,0.0
+167131,2025-10-25T12:00Z,Chennai Open,Arina Rodionova,Diya Ramesh Ramesh,,,1.0
+167135,2025-10-25T12:15Z,Chennai Open,Amina Anshba,Vaishnavi Adkar,,,0.0
+167134,2025-10-25T12:35Z,Chennai Open,Astrid Lew Yan Foon,Dalila Jakupovic,,,1.0
+167132,2025-10-25T13:10Z,Chennai Open,Hiroko Kuwata,Thasaporn Naklo,,,0.0
+167133,2025-10-25T14:05Z,Chennai Open,Riya Bhatia,Caroline Werner,,,0.0
+167139,2025-10-26T10:35Z,Chennai Open,Arianne Hartono,Priska Nugroho,,,1.0
+167140,2025-10-26T10:35Z,Chennai Open,Arina Rodionova,Mei Yamaguchi,,,0.0
+167142,2025-10-26T12:10Z,Chennai Open,Thasaporn Naklo,Caroline Werner,,,0.0
+167141,2025-10-26T13:00Z,Chennai Open,Vaishnavi Adkar,Astrid Lew Yan Foon,,,0.0
+165104,2025-10-29T05:40Z,Chennai Open,Astrid Lew Yan Foon,Linda Fruhvirtova,,,0.0
+165111,2025-10-29T05:40Z,Chennai Open,Kimberly Birrell,Nikola Bartunkova,,,1.0
+165113,2025-10-29T05:40Z,Chennai Open,Arianne Hartono,Joanna Garland,,,0.0
+165114,2025-10-29T05:40Z,Chennai Open,Arina Rodionova,Nina Stojanovic,,,1.0
+165112,2025-10-29T07:15Z,Chennai Open,Maaya Rajeshwaran Revathi,Shrivalli Bhamidipaty,,,0.0
+165115,2025-10-29T07:25Z,Chennai Open,Mai Hontama,Storm Hunter,,,0.0
+165100,2025-10-29T07:35Z,Chennai Open,Janice Tjen,Caroline Werner,,,1.0
+165103,2025-10-29T07:55Z,Chennai Open,Mei Yamaguchi,Francesca Jones,,,1.0
+165109,2025-10-29T08:45Z,Chennai Open,Vaishnavi Adkar,Donna Vekic,,,0.0
+165107,2025-10-29T09:55Z,Chennai Open,Lanlana Tararudee,Maria Timofeeva,,,1.0
+165106,2025-10-29T10:00Z,Chennai Open,Katarzyna Kawa,Lucia Bronzetti,,,1.0
+165110,2025-10-29T10:20Z,Chennai Open,Polina Iatcenko,Alina Charaeva,,,1.0
+165105,2025-10-29T10:40Z,Chennai Open,Sahaja Yamalapalli,Priska Nugroho,,,1.0
+165102,2025-10-29T11:25Z,Chennai Open,Thasaporn Naklo,Diane Parry,,,0.0
+165101,2025-10-29T11:55Z,Chennai Open,Nao Hibino,Mia Pohankova,,,0.0
+165108,2025-10-29T13:00Z,Chennai Open,Zeynep Sonmez,Tatiana Prozorova,,,1.0
+165120,2025-10-30T08:35Z,Chennai Open,Arina Rodionova,Storm Hunter,,,1.0
+165117,2025-10-30T09:35Z,Chennai Open,Janice Tjen,Linda Fruhvirtova,,,1.0
+165116,2025-10-30T11:25Z,Chennai Open,Polina Iatcenko,Katarzyna Kawa,,,1.0
+165119,2025-10-30T12:15Z,Chennai Open,Sahaja Yamalapalli,Donna Vekic,,,0.0
+165123,2025-10-30T13:15Z,Chennai Open,Joanna Garland,Mei Yamaguchi,,,1.0
+165122,2025-10-30T13:50Z,Chennai Open,Kimberly Birrell,Shrivalli Bhamidipaty,,,1.0
+165118,2025-10-30T16:25Z,Chennai Open,Zeynep Sonmez,Lanlana Tararudee,,,0.0
+165121,2025-10-30T16:45Z,Chennai Open,Mia Pohankova,Diane Parry,,,1.0
+165125,2025-10-31T09:35Z,Chennai Open,Arina Rodionova,Joanna Garland,,,0.0
+165126,2025-10-31T11:50Z,Chennai Open,Janice Tjen,Mia Pohankova,,,1.0
+165124,2025-10-31T13:20Z,Chennai Open,Kimberly Birrell,Donna Vekic,,,1.0
+165127,2025-10-31T14:50Z,Chennai Open,Lanlana Tararudee,Polina Iatcenko,,,1.0
+165128,2025-11-01T11:35Z,Chennai Open,Lanlana Tararudee,Janice Tjen,,,0.0
+165129,2025-11-01T14:20Z,Chennai Open,Kimberly Birrell,Joanna Garland,,,1.0
+165130,2025-11-02T12:35Z,Chennai Open,Janice Tjen,Kimberly Birrell,,,1.0
+167184,2025-10-26T15:40Z,Reto Win Tennis Cali Open,Ana Candiotto,Mariana Isabel Higuita Barraza,,,1.0
+167182,2025-10-26T15:40Z,Reto Win Tennis Cali Open,Rebeca Pereira,Gergana Topalova,,,0.0
+167185,2025-10-26T17:00Z,Reto Win Tennis Cali Open,Martina Okalova,Maria Jose Sanchez Uribe,,,0.0
+167183,2025-10-26T17:00Z,Reto Win Tennis Cali Open,Sabastiani Leon,Noelia Zeballos,,,0.0
+167179,2025-10-26T18:55Z,Reto Win Tennis Cali Open,Isabella Ascencio Jaramillo,Antonia Vergara Rivera,,,0.0
+167181,2025-10-26T19:00Z,Reto Win Tennis Cali Open,Maria Isabel Suarez,Carla Markus,,,0.0
+167187,2025-10-27T17:10Z,Reto Win Tennis Cali Open,Anastasia Zolotareva,Gergana Topalova,,,1.0
+167190,2025-10-27T17:10Z,Reto Win Tennis Cali Open,Maria Jose Sanchez Uribe,Carla Markus,,,0.0
+167189,2025-10-27T17:15Z,Reto Win Tennis Cali Open,Ana Candiotto,Noelia Zeballos,,,0.0
+165143,2025-10-27T18:30Z,Reto Win Tennis Cali Open,Selena Janicijevic,Leyre Romero Gormaz,,,1.0
+167188,2025-10-27T19:20Z,Reto Win Tennis Cali Open,Katarina Jokic,Antonia Vergara Rivera,,,0.0
+165135,2025-10-27T19:50Z,Reto Win Tennis Cali Open,Tina Nadine Smith,Polona Hercog,,,1.0
+165142,2025-10-27T21:40Z,Reto Win Tennis Cali Open,Maria Camila Torres Murcia,Jazmin Ortenzi,,,0.0
+165132,2025-10-27T23:05Z,Reto Win Tennis Cali Open,Yuliana Lizarazo,Maria Paulina Perez Garcia,,,1.0
+165140,2025-10-28T15:05Z,Reto Win Tennis Cali Open,Panna Udvardy,Antonia Vergara Rivera,,,1.0
+165145,2025-10-28T15:05Z,Reto Win Tennis Cali Open,Carla Markus,Gabriela Lee,,,0.0
+165134,2025-10-28T15:05Z,Reto Win Tennis Cali Open,Sinja Kraus,Luisina Giovannini,,,1.0
+165146,2025-10-28T16:30Z,Reto Win Tennis Cali Open,Noelia Zeballos,Julia Riera,,,0.0
+165137,2025-10-28T16:45Z,Reto Win Tennis Cali Open,Oleksandra Oliynykova,Ekaterine Gorgodze,,,1.0
+165138,2025-10-28T17:25Z,Reto Win Tennis Cali Open,Nicole Fossa Huergo,Anastasia Zolotareva,,,0.0
+165131,2025-10-28T18:05Z,Reto Win Tennis Cali Open,Sara Bejlek,Eva Vedder,,,1.0
+165144,2025-10-28T18:40Z,Reto Win Tennis Cali Open,Hanna Chang,Julia Grabher,,,0.0
+165133,2025-10-28T18:40Z,Reto Win Tennis Cali Open,Valeriya Strakhova,Laura Pigossi,,,0.0
+165136,2025-10-28T19:45Z,Reto Win Tennis Cali Open,Despina Papamichail,Valentina Mediorreal Arias,,,1.0
+165139,2025-10-28T20:05Z,Reto Win Tennis Cali Open,Ana Candiotto,Varvara Lepchenko,,,0.0
+165141,2025-10-28T21:20Z,Reto Win Tennis Cali Open,Jessica Pieri,Alicia Herrero Linana,,,0.0
+165151,2025-10-29T15:35Z,Reto Win Tennis Cali Open,Gabriela Lee,Julia Grabher,,,0.0
+165148,2025-10-29T15:35Z,Reto Win Tennis Cali Open,Sinja Kraus,Tina Nadine Smith,,,1.0
+165154,2025-10-29T17:05Z,Reto Win Tennis Cali Open,Sara Bejlek,Laura Pigossi,,,1.0
+165153,2025-10-29T17:05Z,Reto Win Tennis Cali Open,Oleksandra Oliynykova,Jazmin Ortenzi,,,0.0
+165152,2025-10-29T17:40Z,Reto Win Tennis Cali Open,Anastasia Zolotareva,Selena Janicijevic,,,0.0
+165147,2025-10-29T18:55Z,Reto Win Tennis Cali Open,Despina Papamichail,Varvara Lepchenko,,,0.0
+165149,2025-10-29T18:55Z,Reto Win Tennis Cali Open,Alicia Herrero Linana,Julia Riera,,,0.0
+165150,2025-10-29T23:20Z,Reto Win Tennis Cali Open,Panna Udvardy,Yuliana Lizarazo,,,1.0
+165156,2025-10-30T17:00Z,Reto Win Tennis Cali Open,Jazmin Ortenzi,Julia Grabher,,,1.0
+165159,2025-10-30T18:05Z,Reto Win Tennis Cali Open,Sinja Kraus,Selena Janicijevic,,,1.0
+165160,2025-10-30T18:25Z,Reto Win Tennis Cali Open,Panna Udvardy,Varvara Lepchenko,,,1.0
+165155,2025-10-30T21:25Z,Reto Win Tennis Cali Open,Sara Bejlek,Julia Riera,,,1.0
+184358,2025-11-01T15:05Z,Reto Win Tennis Cali Open,Sara Bejlek,Panna Udvardy,,,0.0
+165157,2025-11-01T15:05Z,Reto Win Tennis Cali Open,Sinja Kraus,Jazmin Ortenzi,,,1.0
+165158,2025-11-01T19:20Z,Reto Win Tennis Cali Open,Panna Udvardy,Sinja Kraus,,,0.0
+167214,2025-11-01T15:10Z,WTA Finals,Iga Swiatek,Madison Keys,,,1.0
+167215,2025-11-01T16:40Z,WTA Finals,Amanda Anisimova,Elena Rybakina,,,0.0
+167208,2025-11-02T14:10Z,WTA Finals,Aryna Sabalenka,Jasmine Paolini,,,1.0
+167209,2025-11-02T15:50Z,WTA Finals,Coco Gauff,Jessica Pegula,,,0.0
+167213,2025-11-03T14:10Z,WTA Finals,Iga Swiatek,Elena Rybakina,,,0.0
+167216,2025-11-03T16:15Z,WTA Finals,Amanda Anisimova,Madison Keys,,,1.0
+167210,2025-11-04T14:15Z,WTA Finals,Coco Gauff,Jasmine Paolini,,,1.0
+167207,2025-11-04T15:55Z,WTA Finals,Aryna Sabalenka,Jessica Pegula,,,1.0
+167217,2025-11-05T14:10Z,WTA Finals,Elena Rybakina,Ekaterina Alexandrova,,,1.0
+167212,2025-11-05T15:50Z,WTA Finals,Iga Swiatek,Amanda Anisimova,,,0.0
+167211,2025-11-06T14:10Z,WTA Finals,Jessica Pegula,Jasmine Paolini,,,1.0
+167206,2025-11-06T15:40Z,WTA Finals,Aryna Sabalenka,Coco Gauff,,,1.0
+167288,2025-11-07T15:10Z,WTA Finals,Jessica Pegula,Elena Rybakina,,,0.0
+167287,2025-11-07T17:40Z,WTA Finals,Aryna Sabalenka,Amanda Anisimova,,,1.0
+167289,2025-11-08T16:10Z,WTA Finals,Aryna Sabalenka,Elena Rybakina,,,0.0
+167261,2025-11-03T16:05Z,Austin 125,Vivian Wolff,Mariia Kozyreva,,,1.0
+167259,2025-11-03T16:05Z,Austin 125,Claire Liu,Eszter Meri,,,1.0
+167258,2025-11-03T16:05Z,Austin 125,Lia Karatancheva,Mary Lewis,,,0.0
+167260,2025-11-03T17:05Z,Austin 125,Emily Appleton,Christasha McNeil,,,0.0
+166227,2025-11-03T17:20Z,Austin 125,Louisa Chirico,Petra Marcinko,,,1.0
+166242,2025-11-03T18:20Z,Austin 125,Whitney Osuigwe,Anouk Koevermans,,,0.0
+166241,2025-11-03T18:35Z,Austin 125,Alana Smith,Carmen Andreea Herea,,,0.0
+166234,2025-11-03T19:00Z,Austin 125,Mary Stoiana,Darja Vidmanova,,,1.0
+166217,2025-11-03T20:20Z,Austin 125,Hina Inoue,Renata Zarazua,,,0.0
+166226,2025-11-03T20:55Z,Austin 125,Arantxa Rus,Anna Rogers,,,1.0
+166228,2025-11-04T16:05Z,Austin 125,Iryna Shymanovich,Kayla Cross,,,0.0
+166236,2025-11-04T16:05Z,Austin 125,Mai Hontama,Claire Liu,,,0.0
+166223,2025-11-04T16:05Z,Austin 125,Christasha McNeil,Varvara Lepchenko,,,0.0
+166224,2025-11-04T17:30Z,Austin 125,Jennifer Jackson,Mary Lewis,,,0.0
+166216,2025-11-04T17:55Z,Austin 125,Elizabeth Mandlik,Vivian Wolff,,,1.0
+166230,2025-11-04T18:25Z,Austin 125,Cadence Brace,Anastasia Gasanova,,,0.0
+166220,2025-11-04T18:45Z,Austin 125,Iva Jovic,Anna-Lena Friedsam,,,1.0
+166243,2025-11-04T19:20Z,Austin 125,Malaika Rapolu,Alycia Parks,,,1.0
+166232,2025-11-04T20:25Z,Austin 125,Caroline Dolehide,Marina Stakusic,,,0.0
+166218,2025-11-04T20:55Z,Austin 125,Himeno Sakatsume,Julie Belgraver,,,1.0
+166237,2025-11-05T16:05Z,Austin 125,Kayla Cross,Mary Stoiana,,,0.0
+166221,2025-11-05T17:05Z,Austin 125,Anouk Koevermans,Carmen Andreea Herea,,,0.0
+166219,2025-11-05T17:20Z,Austin 125,Arantxa Rus,Elizabeth Mandlik,,,0.0
+166239,2025-11-05T18:25Z,Austin 125,Varvara Lepchenko,Louisa Chirico,,,1.0
+166240,2025-11-06T16:05Z,Austin 125,Marina Stakusic,Mary Lewis,,,1.0
+166222,2025-11-06T17:05Z,Austin 125,Claire Liu,Renata Zarazua,,,0.0
+166231,2025-11-06T17:50Z,Austin 125,Himeno Sakatsume,Malaika Rapolu,,,0.0
+166238,2025-11-06T19:50Z,Austin 125,Iva Jovic,Anastasia Gasanova,,,1.0
+166235,2025-11-07T17:05Z,Austin 125,Marina Stakusic,Varvara Lepchenko,,,1.0
+166233,2025-11-07T17:05Z,Austin 125,Elizabeth Mandlik,Renata Zarazua,,,0.0
+166225,2025-11-07T18:30Z,Austin 125,Carmen Andreea Herea,Malaika Rapolu,,,1.0
+166229,2025-11-07T18:40Z,Austin 125,Iva Jovic,Mary Stoiana,,,1.0
+166244,2025-11-08T18:40Z,Austin 125,Iva Jovic,Marina Stakusic,,,0.0
+166245,2025-11-08T20:45Z,Austin 125,Renata Zarazua,Carmen Andreea Herea,,,1.0
+166246,2025-11-09T19:55Z,Austin 125,Marina Stakusic,Renata Zarazua,,,0.0
+167255,2025-11-03T14:10Z,Tucumán Open by McDonald's,Anastasia Zolotareva,Noelia Zeballos,,,1.0
+167254,2025-11-03T14:10Z,Tucumán Open by McDonald's,Gabriela Ce,Carla Markus,,,0.0
+167256,2025-11-03T15:30Z,Tucumán Open by McDonald's,Ana Candiotto,Maria Urrutia,,,0.0
+167257,2025-11-03T16:05Z,Tucumán Open by McDonald's,Gergana Topalova,Berta Bonardi,,,1.0
+166263,2025-11-03T18:15Z,Tucumán Open by McDonald's,Polona Hercog,Mayar Sherif,,,0.0
+166265,2025-11-03T20:05Z,Tucumán Open by McDonald's,Alicia Herrero Linana,Oleksandra Oliynykova,,,0.0
+166269,2025-11-03T21:05Z,Tucumán Open by McDonald's,Maria Lourdes Carle,Antonia Vergara Rivera,,,0.0
+166268,2025-11-03T22:50Z,Tucumán Open by McDonald's,Valeriya Strakhova,Julia Riera,,,0.0
+166254,2025-11-04T14:05Z,Tucumán Open by McDonald's,Selena Janicijevic,Tina Nadine Smith,,,0.0
+166273,2025-11-04T14:05Z,Tucumán Open by McDonald's,Luna Maria Cinalli,Anastasia Zolotareva,,,0.0
+166267,2025-11-04T14:05Z,Tucumán Open by McDonald's,Jessica Pieri,Maria Urrutia,,,1.0
+166266,2025-11-04T15:50Z,Tucumán Open by McDonald's,Gabriela Ce,Nicole Fossa Huergo,,,1.0
+166257,2025-11-04T16:10Z,Tucumán Open by McDonald's,Martina Capurro Taborda,Simona Waltert,,,0.0
+166260,2025-11-04T16:10Z,Tucumán Open by McDonald's,Carole Monnet,Gergana Topalova,,,1.0
+166271,2025-11-04T17:45Z,Tucumán Open by McDonald's,Ekaterine Gorgodze,Elina Avanesyan,,,1.0
+166275,2025-11-04T17:55Z,Tucumán Open by McDonald's,Lian Tran,Luisina Giovannini,,,0.0
+166256,2025-11-04T19:25Z,Tucumán Open by McDonald's,Panna Udvardy,Despina Papamichail,,,0.0
+166262,2025-11-04T21:05Z,Tucumán Open by McDonald's,Solana Sierra,Miriam Bulgaru,,,1.0
+166259,2025-11-04T21:40Z,Tucumán Open by McDonald's,Laura Pigossi,Carla Markus,,,0.0
+166258,2025-11-05T18:05Z,Tucumán Open by McDonald's,Candela Vazquez,Jazmin Ortenzi,,,0.0
+166261,2025-11-05T19:05Z,Tucumán Open by McDonald's,Gabriela Ce,Simona Waltert,,,0.0
+166276,2025-11-05T19:05Z,Tucumán Open by McDonald's,Antonia Vergara Rivera,Luisina Giovannini,,,1.0
+166264,2025-11-05T21:35Z,Tucumán Open by McDonald's,Carole Monnet,Julia Riera,,,0.0
+166274,2025-11-06T00:25Z,Tucumán Open by McDonald's,Anastasia Zolotareva,Mayar Sherif,,,0.0
+166270,2025-11-06T19:05Z,Tucumán Open by McDonald's,Jazmin Ortenzi,Ekaterine Gorgodze,,,1.0
+166277,2025-11-06T19:05Z,Tucumán Open by McDonald's,Jessica Pieri,Oleksandra Oliynykova,,,0.0
+166255,2025-11-06T21:05Z,Tucumán Open by McDonald's,Solana Sierra,Carla Markus,,,1.0
+166272,2025-11-06T22:45Z,Tucumán Open by McDonald's,Despina Papamichail,Tina Nadine Smith,,,1.0
+166281,2025-11-07T19:05Z,Tucumán Open by McDonald's,Antonia Vergara Rivera,Mayar Sherif,,,0.0
+166283,2025-11-07T19:10Z,Tucumán Open by McDonald's,Julia Riera,Simona Waltert,,,0.0
+166278,2025-11-07T22:15Z,Tucumán Open by McDonald's,Despina Papamichail,Jazmin Ortenzi,,,1.0
+166279,2025-11-08T00:05Z,Tucumán Open by McDonald's,Solana Sierra,Oleksandra Oliynykova,,,0.0
+166280,2025-11-08T21:05Z,Tucumán Open by McDonald's,Oleksandra Oliynykova,Despina Papamichail,,,1.0
+166282,2025-11-08T23:25Z,Tucumán Open by McDonald's,Mayar Sherif,Simona Waltert,,,1.0
+166284,2025-11-09T22:40Z,Tucumán Open by McDonald's,Oleksandra Oliynykova,Mayar Sherif,,,1.0
+167718,2025-11-16T17:05Z,LP Open by IND,Valeriya Strakhova,Polona Hercog,,,0.0
+167715,2025-11-16T17:05Z,LP Open by IND,Alicia Herrero Linana,Martina Colmegna,,,1.0
+167717,2025-11-16T18:40Z,LP Open by IND,Gabriela Ce,Jimar Gerald Gonzalez,,,1.0
+167716,2025-11-16T19:05Z,LP Open by IND,Diletta Cherubini,Eryn Cayetano,,,1.0
+166315,2025-11-17T15:05Z,LP Open by IND,Miriam Bulgaru,Ayana Akli,,,1.0
+166311,2025-11-17T15:05Z,LP Open by IND,Carolina Alves,Jessica Pieri,,,1.0
+166317,2025-11-17T16:50Z,LP Open by IND,Despina Papamichail,Valeriya Strakhova,,,1.0
+166307,2025-11-17T16:55Z,LP Open by IND,Sara Sorribes Tormo,Gabriela Ce,,,1.0
+166312,2025-11-17T19:15Z,LP Open by IND,Fernanda Labrana,Nicole Fossa Huergo,,,1.0
+166308,2025-11-17T22:45Z,LP Open by IND,Elizabeth Mandlik,Oleksandra Oliynykova,,,0.0
+166322,2025-11-18T15:05Z,LP Open by IND,Maja Chwalinska,Martina Trevisan,,,1.0
+166320,2025-11-18T15:05Z,LP Open by IND,Sada Nahimana,Diletta Cherubini,,,1.0
+166309,2025-11-18T15:05Z,LP Open by IND,Varvara Lepchenko,Laura Samson,,,0.0
+166313,2025-11-18T17:05Z,LP Open by IND,Panna Udvardy,Luisina Giovannini,,,1.0
+166319,2025-11-18T18:15Z,LP Open by IND,Julia Riera,Leolia Jeanjean,,,0.0
+166310,2025-11-18T19:20Z,LP Open by IND,Carole Monnet,Veronika Erjavec,,,1.0
+166318,2025-11-18T21:05Z,LP Open by IND,Maria Lourdes Carle,Alicia Herrero Linana,,,1.0
+166321,2025-11-18T21:10Z,LP Open by IND,Jazmin Ortenzi,Polona Hercog,,,0.0
+166314,2025-11-18T23:55Z,LP Open by IND,Eva Vedder,Mayar Sherif,,,0.0
+166316,2025-11-19T15:00Z,LP Open by IND,Antonia Vergara Rivera,Laura Pigossi,,,0.0
+166329,2025-11-19T16:40Z,LP Open by IND,Sada Nahimana,Oleksandra Oliynykova,,,0.0
+166327,2025-11-19T16:50Z,LP Open by IND,Carolina Alves,Carole Monnet,,,0.0
+166325,2025-11-19T19:10Z,LP Open by IND,Miriam Bulgaru,Mayar Sherif,,,0.0
+166324,2025-11-19T22:10Z,LP Open by IND,Maja Chwalinska,Despina Papamichail,,,1.0
+166328,2025-11-20T16:05Z,LP Open by IND,Laura Samson,Sara Sorribes Tormo,,,1.0
+166323,2025-11-20T16:05Z,LP Open by IND,Laura Pigossi,Leolia Jeanjean,,,0.0
+166326,2025-11-20T20:55Z,LP Open by IND,Maria Lourdes Carle,Fernanda Labrana,,,1.0
+166330,2025-11-20T23:05Z,LP Open by IND,Panna Udvardy,Polona Hercog,,,0.0
+166331,2025-11-21T15:05Z,LP Open by IND,Maja Chwalinska,Leolia Jeanjean,,,0.0
+166332,2025-11-21T17:05Z,LP Open by IND,Laura Samson,Carole Monnet,,,1.0
+166333,2025-11-21T17:15Z,LP Open by IND,Maria Lourdes Carle,Mayar Sherif,,,0.0
+166334,2025-11-21T22:05Z,LP Open by IND,Polona Hercog,Oleksandra Oliynykova,,,0.0
+166335,2025-11-22T20:10Z,LP Open by IND,Leolia Jeanjean,Mayar Sherif,,,1.0
+166337,2025-11-22T22:45Z,LP Open by IND,Laura Samson,Oleksandra Oliynykova,,,0.0
+166336,2025-11-23T21:10Z,LP Open by IND,Oleksandra Oliynykova,Leolia Jeanjean,,,1.0
+167729,2025-11-23T15:40Z,IEB+ Argentina Open,Alicia Herrero Linana,Julia Caffarena,,,1.0
+167728,2025-11-23T15:40Z,IEB+ Argentina Open,Ayana Akli,Maria Urrutia,,,1.0
+167731,2025-11-23T17:35Z,IEB+ Argentina Open,Katarina Jokic,Valeriya Strakhova,,,1.0
+167730,2025-11-23T18:35Z,IEB+ Argentina Open,Nicole Fossa Huergo,Sara Sorribes Tormo,,,0.0
+166338,2025-11-24T15:05Z,IEB+ Argentina Open,Martina Trevisan,Eva Vedder,,,0.0
+166349,2025-11-24T15:05Z,IEB+ Argentina Open,Lucciana Perez Alarcon,Elizabeth Mandlik,,,1.0
+166357,2025-11-24T17:15Z,IEB+ Argentina Open,Veronika Erjavec,Marina Bulbarella,,,1.0
+166339,2025-11-24T17:35Z,IEB+ Argentina Open,Jessica Pieri,Maja Chwalinska,,,0.0
+166361,2025-11-24T18:20Z,IEB+ Argentina Open,Polona Hercog,Jazmin Ortenzi,,,0.0
+166356,2025-11-24T18:55Z,IEB+ Argentina Open,Despina Papamichail,Ayana Akli,,,1.0
+166345,2025-11-24T20:50Z,IEB+ Argentina Open,Carolina Alves,Panna Udvardy,,,0.0
+166340,2025-11-25T13:05Z,IEB+ Argentina Open,Irene Burillo,Miriam Bulgaru,,,0.0
+166354,2025-11-25T13:05Z,IEB+ Argentina Open,Varvara Lepchenko,Laura Pigossi,,,1.0
+166359,2025-11-25T14:45Z,IEB+ Argentina Open,Candela Vazquez,Caroline Dolehide,,,0.0
+166360,2025-11-25T14:55Z,IEB+ Argentina Open,Carole Monnet,Laura Samson,,,0.0
+166344,2025-11-25T15:55Z,IEB+ Argentina Open,Mayar Sherif,Julia Riera,,,1.0
+166347,2025-11-25T17:05Z,IEB+ Argentina Open,Sara Sorribes Tormo,Alicia Herrero Linana,,,1.0
+166342,2025-11-25T18:25Z,IEB+ Argentina Open,Maria Lourdes Carle,Katarina Jokic,,,1.0
+166352,2025-11-25T19:50Z,IEB+ Argentina Open,Luisina Giovannini,Leolia Jeanjean,,,1.0
+166351,2025-11-25T20:35Z,IEB+ Argentina Open,Oleksandra Oliynykova,Sada Nahimana,,,1.0
+166343,2025-11-26T15:05Z,IEB+ Argentina Open,Varvara Lepchenko,Maja Chwalinska,,,1.0
+166350,2025-11-26T18:05Z,IEB+ Argentina Open,Mayar Sherif,Eva Vedder,,,1.0
+166348,2025-11-26T18:35Z,IEB+ Argentina Open,Sara Sorribes Tormo,Panna Udvardy,,,0.0
+166346,2025-11-26T19:25Z,IEB+ Argentina Open,Veronika Erjavec,Jazmin Ortenzi,,,1.0
+166353,2025-11-27T15:10Z,IEB+ Argentina Open,Oleksandra Oliynykova,Lucciana Perez Alarcon,,,0.0
+166355,2025-11-27T15:10Z,IEB+ Argentina Open,Despina Papamichail,Caroline Dolehide,,,0.0
+166341,2025-11-27T16:55Z,IEB+ Argentina Open,Maria Lourdes Carle,Miriam Bulgaru,,,0.0
+166358,2025-11-27T19:15Z,IEB+ Argentina Open,Laura Samson,Luisina Giovannini,,,1.0
+166365,2025-11-28T15:05Z,IEB+ Argentina Open,Miriam Bulgaru,Panna Udvardy,,,0.0
+166364,2025-11-28T15:35Z,IEB+ Argentina Open,Veronika Erjavec,Laura Samson,,,1.0
+166362,2025-11-28T16:30Z,IEB+ Argentina Open,Lucciana Perez Alarcon,Varvara Lepchenko,,,0.0
+166363,2025-11-28T18:50Z,IEB+ Argentina Open,Mayar Sherif,Caroline Dolehide,,,1.0
+166366,2025-11-29T20:45Z,IEB+ Argentina Open,Panna Udvardy,Veronika Erjavec,,,1.0
+166367,2025-11-29T20:50Z,IEB+ Argentina Open,Mayar Sherif,Varvara Lepchenko,,,0.0
+166368,2025-11-30T16:40Z,IEB+ Argentina Open,Varvara Lepchenko,Panna Udvardy,,,0.0
+167810,2025-11-30T11:05Z,Open Angers Loire Trélazé,Veronika Podrez,Amandine Monnot,,,1.0
+167809,2025-11-30T12:40Z,Open Angers Loire Trélazé,Anna Siskova,Tina Nadine Smith,,,0.0
+166434,2025-12-01T09:05Z,Open Angers Loire Trélazé,Veronika Podrez,Alina Charaeva,,,1.0
+166422,2025-12-01T10:40Z,Open Angers Loire Trélazé,Teodora Kostovic,Anna-Lena Friedsam,,,0.0
+166436,2025-12-01T12:50Z,Open Angers Loire Trélazé,Alina Korneeva,Kamilla Rakhimova,,,0.0
+166431,2025-12-01T14:10Z,Open Angers Loire Trélazé,Polina Kudermetova,Camilla Rosatello,,,1.0
+166419,2025-12-01T15:25Z,Open Angers Loire Trélazé,Yuriko Lily Miyazaki,Amandine Monnot,,,0.0
+166437,2025-12-01T17:40Z,Open Angers Loire Trélazé,Linda Klimovicova,Tiantsoa Rakotomanga Rajaonah,,,1.0
+166432,2025-12-01T19:45Z,Open Angers Loire Trélazé,Aliona Bolsova,Antonia Ruzic,,,0.0
+166426,2025-12-02T09:05Z,Open Angers Loire Trélazé,Zeynep Sonmez,Victoria Jimenez Kasintseva,,,1.0
+166414,2025-12-02T11:30Z,Open Angers Loire Trélazé,Jessika Ponchet,Mona Barthel,,,0.0
+166427,2025-12-02T12:45Z,Open Angers Loire Trélazé,Tina Nadine Smith,Fiona Ferro,,,0.0
+166430,2025-12-02T15:00Z,Open Angers Loire Trélazé,Oceane Dodin,Alice Rame,,,1.0
+166428,2025-12-02T16:45Z,Open Angers Loire Trélazé,Lucia Bronzetti,Chloe Paquet,,,0.0
+166435,2025-12-02T19:15Z,Open Angers Loire Trélazé,Alycia Parks,Gabriela Knutson,,,1.0
+166429,2025-12-02T20:40Z,Open Angers Loire Trélazé,Dominika Salkova,Jeline Vandromme,,,1.0
+166433,2025-12-03T09:05Z,Open Angers Loire Trélazé,Tamara Korpatsch,Anna Siskova,,,1.0
+166415,2025-12-03T11:00Z,Open Angers Loire Trélazé,Linda Klimovicova,Kamilla Rakhimova,,,0.0
+166421,2025-12-03T13:50Z,Open Angers Loire Trélazé,Zhang Shuai,Marina Bassols Ribera,,,1.0
+166425,2025-12-03T15:35Z,Open Angers Loire Trélazé,Polina Kudermetova,Anna-Lena Friedsam,,,0.0
+166424,2025-12-03T17:55Z,Open Angers Loire Trélazé,Amandine Monnot,Zeynep Sonmez,,,0.0
+166417,2025-12-03T19:40Z,Open Angers Loire Trélazé,Veronika Podrez,Antonia Ruzic,,,0.0
+166420,2025-12-04T12:05Z,Open Angers Loire Trélazé,Fiona Ferro,Tamara Korpatsch,,,0.0
+166423,2025-12-04T13:35Z,Open Angers Loire Trélazé,Alycia Parks,Oceane Dodin,,,1.0
+166418,2025-12-04T17:35Z,Open Angers Loire Trélazé,Chloe Paquet,Dominika Salkova,,,0.0
+166416,2025-12-04T19:45Z,Open Angers Loire Trélazé,Zhang Shuai,Mona Barthel,,,0.0
+166438,2025-12-05T11:10Z,Open Angers Loire Trélazé,Anna-Lena Friedsam,Zeynep Sonmez,,,1.0
+166440,2025-12-05T13:30Z,Open Angers Loire Trélazé,Mona Barthel,Kamilla Rakhimova,,,0.0
+166441,2025-12-05T15:25Z,Open Angers Loire Trélazé,Dominika Salkova,Antonia Ruzic,,,0.0
+166439,2025-12-05T17:50Z,Open Angers Loire Trélazé,Alycia Parks,Tamara Korpatsch,,,0.0
+166442,2025-12-06T12:30Z,Open Angers Loire Trélazé,Tamara Korpatsch,Anna-Lena Friedsam,,,1.0
+166443,2025-12-06T14:00Z,Open Angers Loire Trélazé,Kamilla Rakhimova,Antonia Ruzic,,,1.0
+166444,2025-12-07T13:10Z,Open Angers Loire Trélazé,Tamara Korpatsch,Kamilla Rakhimova,,,0.0

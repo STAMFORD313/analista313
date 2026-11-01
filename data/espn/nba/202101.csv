@@ -1,0 +1,244 @@
+id,date,event,home,away,hs,as,res
+401267229,2021-01-02T00:00Z,Memphis Grizzlies at Charlotte Hornets,Charlotte Hornets,Memphis Grizzlies,93,108,0.0
+401267230,2021-01-02T00:00Z,Boston Celtics at Detroit Pistons,Detroit Pistons,Boston Celtics,96,93,1.0
+401267231,2021-01-02T00:00Z,Miami Heat at Dallas Mavericks,Dallas Mavericks,Miami Heat,93,83,1.0
+401267232,2021-01-02T00:30Z,Atlanta Hawks at Brooklyn Nets,Brooklyn Nets,Atlanta Hawks,96,114,0.0
+401267233,2021-01-02T01:00Z,Chicago Bulls at Milwaukee Bucks,Milwaukee Bucks,Chicago Bulls,126,96,1.0
+401267234,2021-01-02T01:00Z,Washington Wizards at Minnesota Timberwolves,Minnesota Timberwolves,Washington Wizards,109,130,0.0
+401267235,2021-01-02T01:00Z,Los Angeles Lakers at San Antonio Spurs,San Antonio Spurs,Los Angeles Lakers,103,109,0.0
+401267236,2021-01-02T02:00Z,Phoenix Suns at Denver Nuggets,Denver Nuggets,Phoenix Suns,103,106,0.0
+401267237,2021-01-02T02:00Z,LA Clippers at Utah Jazz,Utah Jazz,LA Clippers,106,100,1.0
+401267238,2021-01-02T03:30Z,Portland Trail Blazers at Golden State Warriors,Golden State Warriors,Portland Trail Blazers,98,123,0.0
+401267239,2021-01-02T22:00Z,Sacramento Kings at Houston Rockets,Houston Rockets,Sacramento Kings,102,94,1.0
+401267240,2021-01-03T00:00Z,New York Knicks at Indiana Pacers,Indiana Pacers,New York Knicks,102,106,0.0
+401267241,2021-01-03T00:00Z,Oklahoma City Thunder at Orlando Magic,Orlando Magic,Oklahoma City Thunder,99,108,0.0
+401267242,2021-01-03T00:00Z,Charlotte Hornets at Philadelphia 76ers,Philadelphia 76ers,Charlotte Hornets,127,112,1.0
+401267243,2021-01-03T00:30Z,Cleveland Cavaliers at Atlanta Hawks,Atlanta Hawks,Cleveland Cavaliers,91,96,0.0
+401267244,2021-01-03T00:30Z,Toronto Raptors at New Orleans Pelicans,New Orleans Pelicans,Toronto Raptors,120,116,1.0
+401267245,2021-01-03T20:00Z,Boston Celtics at Detroit Pistons,Detroit Pistons,Boston Celtics,120,122,0.0
+401267246,2021-01-03T23:00Z,Washington Wizards at Brooklyn Nets,Brooklyn Nets,Washington Wizards,122,123,0.0
+401267247,2021-01-03T23:00Z,Los Angeles Lakers at Memphis Grizzlies,Memphis Grizzlies,Los Angeles Lakers,94,108,0.0
+401267248,2021-01-04T00:00Z,Denver Nuggets at Minnesota Timberwolves,Minnesota Timberwolves,Denver Nuggets,109,124,0.0
+401267249,2021-01-04T00:00Z,Utah Jazz at San Antonio Spurs,San Antonio Spurs,Utah Jazz,109,130,0.0
+401267250,2021-01-04T01:00Z,Dallas Mavericks at Chicago Bulls,Chicago Bulls,Dallas Mavericks,118,108,1.0
+401267251,2021-01-04T01:00Z,LA Clippers at Phoenix Suns,Phoenix Suns,LA Clippers,107,112,0.0
+401267252,2021-01-04T01:30Z,Portland Trail Blazers at Golden State Warriors,Golden State Warriors,Portland Trail Blazers,137,122,1.0
+401267253,2021-01-05T00:00Z,Cleveland Cavaliers at Orlando Magic,Orlando Magic,Cleveland Cavaliers,103,83,1.0
+401267254,2021-01-05T00:00Z,Charlotte Hornets at Philadelphia 76ers,Philadelphia 76ers,Charlotte Hornets,118,101,1.0
+401267255,2021-01-05T00:30Z,New York Knicks at Atlanta Hawks,Atlanta Hawks,New York Knicks,108,113,0.0
+401267256,2021-01-05T00:30Z,Oklahoma City Thunder at Miami Heat,Miami Heat,Oklahoma City Thunder,118,90,1.0
+401267257,2021-01-05T00:30Z,Boston Celtics at Toronto Raptors,Toronto Raptors,Boston Celtics,114,126,0.0
+401267258,2021-01-05T01:00Z,Dallas Mavericks at Houston Rockets,Houston Rockets,Dallas Mavericks,100,113,0.0
+401267259,2021-01-05T01:00Z,Detroit Pistons at Milwaukee Bucks,Milwaukee Bucks,Detroit Pistons,125,115,1.0
+401267260,2021-01-05T01:00Z,Indiana Pacers at New Orleans Pelicans,New Orleans Pelicans,Indiana Pacers,116,118,0.0
+401267261,2021-01-05T03:00Z,Sacramento Kings at Golden State Warriors,Golden State Warriors,Sacramento Kings,137,106,1.0
+401267262,2021-01-06T00:30Z,Utah Jazz at Brooklyn Nets,Brooklyn Nets,Utah Jazz,130,96,1.0
+401267263,2021-01-06T01:00Z,Los Angeles Lakers at Memphis Grizzlies,Memphis Grizzlies,Los Angeles Lakers,92,94,0.0
+401267264,2021-01-06T02:00Z,Minnesota Timberwolves at Denver Nuggets,Denver Nuggets,Minnesota Timberwolves,123,116,1.0
+401267265,2021-01-06T03:00Z,San Antonio Spurs at LA Clippers,LA Clippers,San Antonio Spurs,113,116,0.0
+401267266,2021-01-06T03:30Z,Chicago Bulls at Portland Trail Blazers,Portland Trail Blazers,Chicago Bulls,108,111,0.0
+401267267,2021-01-07T00:00Z,Houston Rockets at Indiana Pacers,Indiana Pacers,Houston Rockets,114,107,1.0
+401267268,2021-01-07T00:00Z,Cleveland Cavaliers at Orlando Magic,Orlando Magic,Cleveland Cavaliers,105,94,1.0
+401267269,2021-01-07T00:00Z,Washington Wizards at Philadelphia 76ers,Philadelphia 76ers,Washington Wizards,141,136,1.0
+401267270,2021-01-07T00:30Z,Charlotte Hornets at Atlanta Hawks,Atlanta Hawks,Charlotte Hornets,94,102,0.0
+401267271,2021-01-07T00:30Z,Boston Celtics at Miami Heat,Miami Heat,Boston Celtics,105,107,0.0
+401267272,2021-01-07T00:30Z,Utah Jazz at New York Knicks,New York Knicks,Utah Jazz,112,100,1.0
+401267273,2021-01-07T01:00Z,Detroit Pistons at Milwaukee Bucks,Milwaukee Bucks,Detroit Pistons,130,115,1.0
+401267274,2021-01-07T01:00Z,Oklahoma City Thunder at New Orleans Pelicans,New Orleans Pelicans,Oklahoma City Thunder,110,111,0.0
+401267275,2021-01-07T02:00Z,Toronto Raptors at Phoenix Suns,Phoenix Suns,Toronto Raptors,123,115,1.0
+401267276,2021-01-07T03:00Z,LA Clippers at Golden State Warriors,Golden State Warriors,LA Clippers,101,108,0.0
+401267277,2021-01-07T03:00Z,Chicago Bulls at Sacramento Kings,Sacramento Kings,Chicago Bulls,128,124,1.0
+401267278,2021-01-08T00:30Z,Philadelphia 76ers at Brooklyn Nets,Brooklyn Nets,Philadelphia 76ers,122,109,1.0
+401267279,2021-01-08T01:00Z,Cleveland Cavaliers at Memphis Grizzlies,Memphis Grizzlies,Cleveland Cavaliers,90,94,0.0
+401267280,2021-01-08T03:00Z,Dallas Mavericks at Denver Nuggets,Denver Nuggets,Dallas Mavericks,117,124,0.0
+401267281,2021-01-08T03:00Z,San Antonio Spurs at Los Angeles Lakers,Los Angeles Lakers,San Antonio Spurs,109,118,0.0
+401267282,2021-01-08T03:00Z,Minnesota Timberwolves at Portland Trail Blazers,Portland Trail Blazers,Minnesota Timberwolves,135,117,1.0
+401267283,2021-01-09T00:00Z,Phoenix Suns at Detroit Pistons,Detroit Pistons,Phoenix Suns,110,105,1.0
+401267284,2021-01-09T00:30Z,Washington Wizards at Boston Celtics,Boston Celtics,Washington Wizards,116,107,1.0
+401267285,2021-01-09T00:30Z,Oklahoma City Thunder at New York Knicks,New York Knicks,Oklahoma City Thunder,89,101,0.0
+401267286,2021-01-09T00:30Z,Charlotte Hornets at New Orleans Pelicans,New Orleans Pelicans,Charlotte Hornets,110,118,0.0
+401267287,2021-01-09T01:00Z,Orlando Magic at Houston Rockets,Houston Rockets,Orlando Magic,132,90,1.0
+401267288,2021-01-09T01:00Z,Brooklyn Nets at Memphis Grizzlies,Memphis Grizzlies,Brooklyn Nets,115,110,1.0
+401267289,2021-01-09T01:00Z,Utah Jazz at Milwaukee Bucks,Milwaukee Bucks,Utah Jazz,118,131,0.0
+401267290,2021-01-09T03:00Z,LA Clippers at Golden State Warriors,Golden State Warriors,LA Clippers,115,105,1.0
+401267291,2021-01-09T03:00Z,Chicago Bulls at Los Angeles Lakers,Los Angeles Lakers,Chicago Bulls,117,115,1.0
+401267292,2021-01-09T03:00Z,Toronto Raptors at Sacramento Kings,Sacramento Kings,Toronto Raptors,123,144,0.0
+401267293,2021-01-09T20:00Z,Denver Nuggets at Philadelphia 76ers,Philadelphia 76ers,Denver Nuggets,103,115,0.0
+401267294,2021-01-10T00:00Z,Atlanta Hawks at Charlotte Hornets,Charlotte Hornets,Atlanta Hawks,113,105,1.0
+401267295,2021-01-10T00:00Z,Phoenix Suns at Indiana Pacers,Indiana Pacers,Phoenix Suns,117,125,0.0
+401267296,2021-01-10T00:00Z,Miami Heat at Washington Wizards,Washington Wizards,Miami Heat,124,128,0.0
+401267297,2021-01-10T01:00Z,Cleveland Cavaliers at Milwaukee Bucks,Milwaukee Bucks,Cleveland Cavaliers,100,90,1.0
+401267298,2021-01-10T01:00Z,San Antonio Spurs at Minnesota Timberwolves,Minnesota Timberwolves,San Antonio Spurs,122,125,0.0
+401267299,2021-01-10T01:30Z,Orlando Magic at Dallas Mavericks,Dallas Mavericks,Orlando Magic,112,98,1.0
+401267300,2021-01-10T03:00Z,Portland Trail Blazers at Sacramento Kings,Sacramento Kings,Portland Trail Blazers,99,125,0.0
+401267301,2021-01-10T20:00Z,Utah Jazz at Detroit Pistons,Detroit Pistons,Utah Jazz,86,96,0.0
+401267302,2021-01-10T21:00Z,Chicago Bulls at LA Clippers,LA Clippers,Chicago Bulls,130,127,1.0
+401267303,2021-01-10T23:00Z,Oklahoma City Thunder at Brooklyn Nets,Brooklyn Nets,Oklahoma City Thunder,116,129,0.0
+401267304,2021-01-10T23:00Z,Denver Nuggets at New York Knicks,New York Knicks,Denver Nuggets,89,114,0.0
+401267305,2021-01-11T00:00Z,Miami Heat at Boston Celtics,Boston Celtics,Miami Heat,0,0,0.5
+401267306,2021-01-11T00:00Z,Los Angeles Lakers at Houston Rockets,Houston Rockets,Los Angeles Lakers,102,120,0.0
+401267307,2021-01-11T01:00Z,San Antonio Spurs at Minnesota Timberwolves,Minnesota Timberwolves,San Antonio Spurs,96,88,1.0
+401267308,2021-01-11T01:30Z,Toronto Raptors at Golden State Warriors,Golden State Warriors,Toronto Raptors,106,105,1.0
+401267309,2021-01-12T00:00Z,New York Knicks at Charlotte Hornets,Charlotte Hornets,New York Knicks,109,88,1.0
+401267310,2021-01-12T00:00Z,Memphis Grizzlies at Cleveland Cavaliers,Cleveland Cavaliers,Memphis Grizzlies,91,101,0.0
+401267311,2021-01-12T00:00Z,Milwaukee Bucks at Orlando Magic,Orlando Magic,Milwaukee Bucks,99,121,0.0
+401267312,2021-01-12T00:00Z,Phoenix Suns at Washington Wizards,Washington Wizards,Phoenix Suns,128,107,1.0
+401267313,2021-01-12T00:30Z,Philadelphia 76ers at Atlanta Hawks,Atlanta Hawks,Philadelphia 76ers,112,94,1.0
+401267314,2021-01-12T01:30Z,New Orleans Pelicans at Dallas Mavericks,Dallas Mavericks,New Orleans Pelicans,0,0,0.5
+401267315,2021-01-12T03:00Z,Toronto Raptors at Portland Trail Blazers,Portland Trail Blazers,Toronto Raptors,112,111,1.0
+401267316,2021-01-12T03:00Z,Indiana Pacers at Sacramento Kings,Sacramento Kings,Indiana Pacers,127,122,1.0
+401267317,2021-01-13T00:00Z,Miami Heat at Philadelphia 76ers,Philadelphia 76ers,Miami Heat,137,134,1.0
+401267318,2021-01-13T00:30Z,Denver Nuggets at Brooklyn Nets,Brooklyn Nets,Denver Nuggets,122,116,1.0
+401267319,2021-01-13T00:30Z,Utah Jazz at Cleveland Cavaliers,Cleveland Cavaliers,Utah Jazz,87,117,0.0
+401267320,2021-01-13T01:00Z,Boston Celtics at Chicago Bulls,Chicago Bulls,Boston Celtics,0,0,0.5
+401267321,2021-01-13T01:00Z,Los Angeles Lakers at Houston Rockets,Houston Rockets,Los Angeles Lakers,100,117,0.0
+401267322,2021-01-13T01:00Z,San Antonio Spurs at Oklahoma City Thunder,Oklahoma City Thunder,San Antonio Spurs,102,112,0.0
+401267323,2021-01-13T03:30Z,Indiana Pacers at Golden State Warriors,Golden State Warriors,Indiana Pacers,95,104,0.0
+401267324,2021-01-14T00:00Z,Dallas Mavericks at Charlotte Hornets,Charlotte Hornets,Dallas Mavericks,93,104,0.0
+401267325,2021-01-14T00:00Z,Milwaukee Bucks at Detroit Pistons,Detroit Pistons,Milwaukee Bucks,101,110,0.0
+401267326,2021-01-14T00:00Z,Utah Jazz at Washington Wizards,Washington Wizards,Utah Jazz,0,0,0.5
+401267327,2021-01-14T00:30Z,Orlando Magic at Boston Celtics,Boston Celtics,Orlando Magic,0,0,0.5
+401267328,2021-01-14T00:30Z,Brooklyn Nets at New York Knicks,New York Knicks,Brooklyn Nets,109,116,0.0
+401267329,2021-01-14T01:00Z,Memphis Grizzlies at Minnesota Timberwolves,Minnesota Timberwolves,Memphis Grizzlies,107,118,0.0
+401267330,2021-01-14T01:00Z,Los Angeles Lakers at Oklahoma City Thunder,Oklahoma City Thunder,Los Angeles Lakers,99,128,0.0
+401267331,2021-01-14T02:00Z,Atlanta Hawks at Phoenix Suns,Phoenix Suns,Atlanta Hawks,0,0,0.5
+401267332,2021-01-14T03:00Z,New Orleans Pelicans at LA Clippers,LA Clippers,New Orleans Pelicans,111,106,1.0
+401267333,2021-01-14T03:00Z,Portland Trail Blazers at Sacramento Kings,Sacramento Kings,Portland Trail Blazers,126,132,0.0
+401267334,2021-01-15T00:00Z,Miami Heat at Philadelphia 76ers,Philadelphia 76ers,Miami Heat,125,108,1.0
+401267335,2021-01-15T00:30Z,Charlotte Hornets at Toronto Raptors,Toronto Raptors,Charlotte Hornets,111,108,1.0
+401267336,2021-01-15T00:30Z,Houston Rockets at San Antonio Spurs,San Antonio Spurs,Houston Rockets,105,109,0.0
+401267337,2021-01-15T03:00Z,Golden State Warriors at Denver Nuggets,Denver Nuggets,Golden State Warriors,114,104,1.0
+401267338,2021-01-15T03:00Z,Indiana Pacers at Portland Trail Blazers,Portland Trail Blazers,Indiana Pacers,87,111,0.0
+401267339,2021-01-16T00:00Z,Washington Wizards at Detroit Pistons,Detroit Pistons,Washington Wizards,0,0,0.5
+401267340,2021-01-16T00:30Z,Orlando Magic at Boston Celtics,Boston Celtics,Orlando Magic,124,97,1.0
+401267341,2021-01-16T00:30Z,New York Knicks at Cleveland Cavaliers,Cleveland Cavaliers,New York Knicks,106,103,1.0
+401267342,2021-01-16T00:30Z,Dallas Mavericks at Milwaukee Bucks,Milwaukee Bucks,Dallas Mavericks,112,109,1.0
+401267343,2021-01-16T01:00Z,Memphis Grizzlies at Minnesota Timberwolves,Minnesota Timberwolves,Memphis Grizzlies,0,0,0.5
+401267344,2021-01-16T01:00Z,Chicago Bulls at Oklahoma City Thunder,Oklahoma City Thunder,Chicago Bulls,127,125,1.0
+401267345,2021-01-16T02:00Z,Golden State Warriors at Phoenix Suns,Phoenix Suns,Golden State Warriors,0,0,0.5
+401267346,2021-01-16T02:00Z,Atlanta Hawks at Utah Jazz,Utah Jazz,Atlanta Hawks,116,92,1.0
+401267347,2021-01-16T03:00Z,New Orleans Pelicans at Los Angeles Lakers,Los Angeles Lakers,New Orleans Pelicans,112,95,1.0
+401267348,2021-01-16T03:00Z,LA Clippers at Sacramento Kings,Sacramento Kings,LA Clippers,100,138,0.0
+401267349,2021-01-16T22:00Z,Houston Rockets at San Antonio Spurs,San Antonio Spurs,Houston Rockets,103,91,1.0
+401267350,2021-01-16T23:00Z,Orlando Magic at Brooklyn Nets,Brooklyn Nets,Orlando Magic,122,115,1.0
+401267351,2021-01-17T00:30Z,Charlotte Hornets at Toronto Raptors,Toronto Raptors,Charlotte Hornets,116,113,1.0
+401267352,2021-01-17T01:00Z,Detroit Pistons at Miami Heat,Miami Heat,Detroit Pistons,100,120,0.0
+401267353,2021-01-17T01:00Z,Philadelphia 76ers at Memphis Grizzlies,Memphis Grizzlies,Philadelphia 76ers,106,104,1.0
+401267354,2021-01-17T02:00Z,Indiana Pacers at Phoenix Suns,Phoenix Suns,Indiana Pacers,0,0,0.5
+401267355,2021-01-17T03:00Z,Atlanta Hawks at Portland Trail Blazers,Portland Trail Blazers,Atlanta Hawks,112,106,1.0
+401267356,2021-01-17T18:00Z,New York Knicks at Boston Celtics,Boston Celtics,New York Knicks,75,105,0.0
+401267357,2021-01-17T19:00Z,Cleveland Cavaliers at Washington Wizards,Washington Wizards,Cleveland Cavaliers,0,0,0.5
+401267358,2021-01-17T20:00Z,Chicago Bulls at Dallas Mavericks,Dallas Mavericks,Chicago Bulls,101,117,0.0
+401267359,2021-01-18T00:00Z,Philadelphia 76ers at Oklahoma City Thunder,Oklahoma City Thunder,Philadelphia 76ers,0,0,0.5
+401267360,2021-01-18T01:00Z,Utah Jazz at Denver Nuggets,Denver Nuggets,Utah Jazz,105,109,0.0
+401267361,2021-01-18T02:00Z,New Orleans Pelicans at Sacramento Kings,Sacramento Kings,New Orleans Pelicans,123,128,0.0
+401267362,2021-01-18T03:00Z,Indiana Pacers at LA Clippers,LA Clippers,Indiana Pacers,129,96,1.0
+401267363,2021-01-18T17:00Z,Orlando Magic at New York Knicks,New York Knicks,Orlando Magic,91,84,1.0
+401267364,2021-01-18T19:00Z,Cleveland Cavaliers at Washington Wizards,Washington Wizards,Cleveland Cavaliers,0,0,0.5
+401267365,2021-01-18T19:30Z,Minnesota Timberwolves at Atlanta Hawks,Atlanta Hawks,Minnesota Timberwolves,108,97,1.0
+401267367,2021-01-18T20:00Z,San Antonio Spurs at Portland Trail Blazers,Portland Trail Blazers,San Antonio Spurs,104,125,0.0
+401267368,2021-01-18T22:00Z,Phoenix Suns at Memphis Grizzlies,Memphis Grizzlies,Phoenix Suns,108,104,1.0
+401267369,2021-01-19T00:30Z,Milwaukee Bucks at Brooklyn Nets,Brooklyn Nets,Milwaukee Bucks,125,123,1.0
+401267370,2021-01-19T00:30Z,Dallas Mavericks at Toronto Raptors,Toronto Raptors,Dallas Mavericks,116,93,1.0
+401267366,2021-01-19T01:00Z,Detroit Pistons at Miami Heat,Miami Heat,Detroit Pistons,113,107,1.0
+401267371,2021-01-19T01:00Z,Houston Rockets at Chicago Bulls,Chicago Bulls,Houston Rockets,125,120,1.0
+401267372,2021-01-19T03:00Z,Golden State Warriors at Los Angeles Lakers,Los Angeles Lakers,Golden State Warriors,113,115,0.0
+401267373,2021-01-20T02:00Z,Oklahoma City Thunder at Denver Nuggets,Denver Nuggets,Oklahoma City Thunder,119,101,1.0
+401267374,2021-01-20T02:00Z,New Orleans Pelicans at Utah Jazz,Utah Jazz,New Orleans Pelicans,118,102,1.0
+401267375,2021-01-21T00:00Z,Washington Wizards at Charlotte Hornets,Charlotte Hornets,Washington Wizards,0,0,0.5
+401267376,2021-01-21T00:00Z,Brooklyn Nets at Cleveland Cavaliers,Cleveland Cavaliers,Brooklyn Nets,147,135,1.0
+401267377,2021-01-21T00:00Z,Dallas Mavericks at Indiana Pacers,Indiana Pacers,Dallas Mavericks,112,124,0.0
+401267378,2021-01-21T00:00Z,Boston Celtics at Philadelphia 76ers,Philadelphia 76ers,Boston Celtics,117,109,1.0
+401267379,2021-01-21T00:30Z,Detroit Pistons at Atlanta Hawks,Atlanta Hawks,Detroit Pistons,123,115,1.0
+401267380,2021-01-21T00:30Z,Miami Heat at Toronto Raptors,Toronto Raptors,Miami Heat,102,111,0.0
+401267381,2021-01-21T01:00Z,Orlando Magic at Minnesota Timberwolves,Minnesota Timberwolves,Orlando Magic,96,97,0.0
+401267382,2021-01-21T02:30Z,Phoenix Suns at Houston Rockets,Houston Rockets,Phoenix Suns,103,109,0.0
+401267383,2021-01-21T03:00Z,San Antonio Spurs at Golden State Warriors,Golden State Warriors,San Antonio Spurs,121,99,1.0
+401267384,2021-01-21T03:00Z,Sacramento Kings at LA Clippers,LA Clippers,Sacramento Kings,115,96,1.0
+401267385,2021-01-21T03:00Z,Memphis Grizzlies at Portland Trail Blazers,Portland Trail Blazers,Memphis Grizzlies,0,0,0.5
+401267386,2021-01-22T00:30Z,Los Angeles Lakers at Milwaukee Bucks,Milwaukee Bucks,Los Angeles Lakers,106,113,0.0
+401267387,2021-01-22T03:00Z,New Orleans Pelicans at Utah Jazz,Utah Jazz,New Orleans Pelicans,129,118,1.0
+401267388,2021-01-22T03:00Z,New York Knicks at Golden State Warriors,Golden State Warriors,New York Knicks,104,119,0.0
+401267389,2021-01-23T00:00Z,Chicago Bulls at Charlotte Hornets,Charlotte Hornets,Chicago Bulls,110,123,0.0
+401267390,2021-01-23T00:00Z,Houston Rockets at Detroit Pistons,Detroit Pistons,Houston Rockets,102,103,0.0
+401267391,2021-01-23T00:00Z,Orlando Magic at Indiana Pacers,Indiana Pacers,Orlando Magic,120,118,1.0
+401267392,2021-01-23T00:30Z,Brooklyn Nets at Cleveland Cavaliers,Cleveland Cavaliers,Brooklyn Nets,125,113,1.0
+401267393,2021-01-23T00:30Z,Boston Celtics at Philadelphia 76ers,Philadelphia 76ers,Boston Celtics,122,110,1.0
+401267394,2021-01-23T00:30Z,Miami Heat at Toronto Raptors,Toronto Raptors,Miami Heat,101,81,1.0
+401267395,2021-01-23T01:00Z,Washington Wizards at Milwaukee Bucks,Milwaukee Bucks,Washington Wizards,0,0,0.5
+401267396,2021-01-23T01:00Z,Atlanta Hawks at Minnesota Timberwolves,Minnesota Timberwolves,Atlanta Hawks,98,116,0.0
+401267397,2021-01-23T01:30Z,Dallas Mavericks at San Antonio Spurs,San Antonio Spurs,Dallas Mavericks,117,122,0.0
+401267398,2021-01-23T03:00Z,Denver Nuggets at Phoenix Suns,Phoenix Suns,Denver Nuggets,126,130,0.0
+401267399,2021-01-23T03:00Z,Oklahoma City Thunder at LA Clippers,LA Clippers,Oklahoma City Thunder,120,106,1.0
+401267400,2021-01-23T03:00Z,Memphis Grizzlies at Portland Trail Blazers,Portland Trail Blazers,Memphis Grizzlies,0,0,0.5
+401267401,2021-01-23T03:00Z,New York Knicks at Sacramento Kings,Sacramento Kings,New York Knicks,103,94,1.0
+401267403,2021-01-24T01:00Z,Philadelphia 76ers at Detroit Pistons,Detroit Pistons,Philadelphia 76ers,110,114,0.0
+401267404,2021-01-24T01:00Z,Miami Heat at Brooklyn Nets,Brooklyn Nets,Miami Heat,128,124,1.0
+401267406,2021-01-24T01:00Z,New Orleans Pelicans at Minnesota Timberwolves,Minnesota Timberwolves,New Orleans Pelicans,120,110,1.0
+401267402,2021-01-24T02:00Z,Golden State Warriors at Utah Jazz,Utah Jazz,Golden State Warriors,127,108,1.0
+401267405,2021-01-24T02:00Z,Los Angeles Lakers at Chicago Bulls,Chicago Bulls,Los Angeles Lakers,90,101,0.0
+401267407,2021-01-24T02:00Z,Houston Rockets at Dallas Mavericks,Dallas Mavericks,Houston Rockets,108,133,0.0
+401267408,2021-01-24T02:00Z,Denver Nuggets at Phoenix Suns,Phoenix Suns,Denver Nuggets,112,120,0.0
+401267409,2021-01-24T18:00Z,Toronto Raptors at Indiana Pacers,Indiana Pacers,Toronto Raptors,102,107,0.0
+401267411,2021-01-24T21:00Z,Oklahoma City Thunder at LA Clippers,LA Clippers,Oklahoma City Thunder,108,100,1.0
+401267410,2021-01-25T00:00Z,Cleveland Cavaliers at Boston Celtics,Boston Celtics,Cleveland Cavaliers,141,103,1.0
+401267412,2021-01-25T00:00Z,Charlotte Hornets at Orlando Magic,Orlando Magic,Charlotte Hornets,104,107,0.0
+401267413,2021-01-25T01:00Z,Washington Wizards at San Antonio Spurs,San Antonio Spurs,Washington Wizards,121,101,1.0
+401267414,2021-01-25T01:00Z,Atlanta Hawks at Milwaukee Bucks,Milwaukee Bucks,Atlanta Hawks,129,115,1.0
+401267415,2021-01-25T01:00Z,Sacramento Kings at Memphis Grizzlies,Memphis Grizzlies,Sacramento Kings,0,0,0.5
+401267416,2021-01-25T03:00Z,New York Knicks at Portland Trail Blazers,Portland Trail Blazers,New York Knicks,116,113,1.0
+401267417,2021-01-26T00:00Z,Philadelphia 76ers at Detroit Pistons,Detroit Pistons,Philadelphia 76ers,119,104,1.0
+401267418,2021-01-26T00:00Z,Toronto Raptors at Indiana Pacers,Indiana Pacers,Toronto Raptors,129,114,1.0
+401267419,2021-01-26T00:00Z,Charlotte Hornets at Orlando Magic,Orlando Magic,Charlotte Hornets,117,108,1.0
+401267420,2021-01-26T00:30Z,Miami Heat at Brooklyn Nets,Brooklyn Nets,Miami Heat,98,85,1.0
+401267421,2021-01-26T01:00Z,Los Angeles Lakers at Cleveland Cavaliers,Cleveland Cavaliers,Los Angeles Lakers,108,115,0.0
+401267423,2021-01-26T01:00Z,Sacramento Kings at Memphis Grizzlies,Memphis Grizzlies,Sacramento Kings,0,0,0.5
+401267425,2021-01-26T01:30Z,Denver Nuggets at Dallas Mavericks,Dallas Mavericks,Denver Nuggets,113,117,0.0
+401267422,2021-01-26T02:00Z,Boston Celtics at Chicago Bulls,Chicago Bulls,Boston Celtics,103,119,0.0
+401267424,2021-01-26T02:00Z,San Antonio Spurs at New Orleans Pelicans,New Orleans Pelicans,San Antonio Spurs,0,0,0.5
+401267426,2021-01-26T03:00Z,Minnesota Timberwolves at Golden State Warriors,Golden State Warriors,Minnesota Timberwolves,130,108,1.0
+401267427,2021-01-26T03:00Z,Oklahoma City Thunder at Portland Trail Blazers,Portland Trail Blazers,Oklahoma City Thunder,122,125,0.0
+401267428,2021-01-27T00:30Z,LA Clippers at Atlanta Hawks,Atlanta Hawks,LA Clippers,108,99,1.0
+401267429,2021-01-27T01:00Z,Washington Wizards at Houston Rockets,Houston Rockets,Washington Wizards,107,88,1.0
+401267430,2021-01-27T02:00Z,New York Knicks at Utah Jazz,Utah Jazz,New York Knicks,108,94,1.0
+401267431,2021-01-28T00:00Z,Indiana Pacers at Charlotte Hornets,Charlotte Hornets,Indiana Pacers,106,116,0.0
+401267432,2021-01-28T00:00Z,Detroit Pistons at Cleveland Cavaliers,Cleveland Cavaliers,Detroit Pistons,122,107,1.0
+401267433,2021-01-28T00:00Z,Sacramento Kings at Orlando Magic,Orlando Magic,Sacramento Kings,107,121,0.0
+401267434,2021-01-28T00:30Z,Brooklyn Nets at Atlanta Hawks,Atlanta Hawks,Brooklyn Nets,128,132,0.0
+401267435,2021-01-28T00:30Z,Denver Nuggets at Miami Heat,Miami Heat,Denver Nuggets,82,109,0.0
+401267436,2021-01-28T00:30Z,Los Angeles Lakers at Philadelphia 76ers,Philadelphia 76ers,Los Angeles Lakers,107,106,1.0
+401267437,2021-01-28T00:30Z,Milwaukee Bucks at Toronto Raptors,Toronto Raptors,Milwaukee Bucks,108,115,0.0
+401267438,2021-01-28T01:00Z,Chicago Bulls at Memphis Grizzlies,Memphis Grizzlies,Chicago Bulls,0,0,0.5
+401267440,2021-01-28T01:30Z,Boston Celtics at San Antonio Spurs,San Antonio Spurs,Boston Celtics,110,106,1.0
+401267439,2021-01-28T02:00Z,Washington Wizards at New Orleans Pelicans,New Orleans Pelicans,Washington Wizards,124,106,1.0
+401267441,2021-01-28T02:00Z,Oklahoma City Thunder at Phoenix Suns,Phoenix Suns,Oklahoma City Thunder,97,102,0.0
+401267442,2021-01-28T02:00Z,Dallas Mavericks at Utah Jazz,Utah Jazz,Dallas Mavericks,116,104,1.0
+401267443,2021-01-28T03:00Z,Minnesota Timberwolves at Golden State Warriors,Golden State Warriors,Minnesota Timberwolves,123,111,1.0
+401267447,2021-01-29T00:30Z,Portland Trail Blazers at Houston Rockets,Houston Rockets,Portland Trail Blazers,104,101,1.0
+401267444,2021-01-29T01:00Z,Los Angeles Lakers at Detroit Pistons,Detroit Pistons,Los Angeles Lakers,107,92,1.0
+401267445,2021-01-29T01:00Z,LA Clippers at Miami Heat,Miami Heat,LA Clippers,105,109,0.0
+401267446,2021-01-29T03:00Z,Golden State Warriors at Phoenix Suns,Phoenix Suns,Golden State Warriors,114,93,1.0
+401267448,2021-01-30T00:00Z,Indiana Pacers at Charlotte Hornets,Charlotte Hornets,Indiana Pacers,108,105,1.0
+401267450,2021-01-30T00:00Z,Atlanta Hawks at Washington Wizards,Washington Wizards,Atlanta Hawks,100,116,0.0
+401267451,2021-01-30T00:30Z,Cleveland Cavaliers at New York Knicks,New York Knicks,Cleveland Cavaliers,102,81,1.0
+401267452,2021-01-30T00:30Z,Sacramento Kings at Toronto Raptors,Toronto Raptors,Sacramento Kings,124,126,0.0
+401267453,2021-01-30T00:30Z,Milwaukee Bucks at New Orleans Pelicans,New Orleans Pelicans,Milwaukee Bucks,131,126,1.0
+401267449,2021-01-30T01:00Z,LA Clippers at Orlando Magic,Orlando Magic,LA Clippers,90,116,0.0
+401267454,2021-01-30T01:00Z,Philadelphia 76ers at Minnesota Timberwolves,Minnesota Timberwolves,Philadelphia 76ers,94,118,0.0
+401267455,2021-01-30T01:00Z,Brooklyn Nets at Oklahoma City Thunder,Oklahoma City Thunder,Brooklyn Nets,125,147,0.0
+401267456,2021-01-30T01:30Z,Denver Nuggets at San Antonio Spurs,San Antonio Spurs,Denver Nuggets,119,109,1.0
+401267457,2021-01-30T03:00Z,Dallas Mavericks at Utah Jazz,Utah Jazz,Dallas Mavericks,120,101,1.0
+401267458,2021-01-31T01:00Z,Portland Trail Blazers at Chicago Bulls,Chicago Bulls,Portland Trail Blazers,122,123,0.0
+401267459,2021-01-31T01:00Z,Milwaukee Bucks at Charlotte Hornets,Charlotte Hornets,Milwaukee Bucks,126,114,1.0
+401267460,2021-01-31T01:00Z,Houston Rockets at New Orleans Pelicans,New Orleans Pelicans,Houston Rockets,112,126,0.0
+401267461,2021-01-31T01:00Z,Sacramento Kings at Miami Heat,Miami Heat,Sacramento Kings,105,104,1.0
+401267462,2021-01-31T01:30Z,Los Angeles Lakers at Boston Celtics,Boston Celtics,Los Angeles Lakers,95,96,0.0
+401267464,2021-01-31T01:30Z,Memphis Grizzlies at San Antonio Spurs,San Antonio Spurs,Memphis Grizzlies,112,129,0.0
+401267463,2021-01-31T02:00Z,Phoenix Suns at Dallas Mavericks,Dallas Mavericks,Phoenix Suns,105,111,0.0
+401267465,2021-01-31T03:00Z,Detroit Pistons at Golden State Warriors,Golden State Warriors,Detroit Pistons,118,91,1.0
+401267468,2021-01-31T18:00Z,LA Clippers at New York Knicks,New York Knicks,LA Clippers,115,129,0.0
+401267466,2021-01-31T20:30Z,Utah Jazz at Denver Nuggets,Denver Nuggets,Utah Jazz,128,117,1.0
+401267467,2021-02-01T00:00Z,Philadelphia 76ers at Indiana Pacers,Indiana Pacers,Philadelphia 76ers,110,119,0.0
+401267469,2021-02-01T00:00Z,Orlando Magic at Toronto Raptors,Toronto Raptors,Orlando Magic,115,102,1.0
+401267470,2021-02-01T00:00Z,Brooklyn Nets at Washington Wizards,Washington Wizards,Brooklyn Nets,149,146,1.0
+401267471,2021-02-01T01:00Z,Cleveland Cavaliers at Minnesota Timberwolves,Minnesota Timberwolves,Cleveland Cavaliers,109,104,1.0

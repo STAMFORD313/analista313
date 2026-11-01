@@ -1,0 +1,109 @@
+id,date,event,home,away,hs,as,res
+401049530,2018-09-15T06:30Z,Boston Bruins at Calgary Flames,Calgary Flames,Boston Bruins,3,4,0.0
+401049531,2018-09-16T17:00Z,Washington Capitals at Boston Bruins,Boston Bruins,Washington Capitals,2,1,1.0
+401049532,2018-09-16T17:00Z,Philadelphia Flyers at New York Islanders,New York Islanders,Philadelphia Flyers,3,0,1.0
+401049533,2018-09-17T00:00Z,Arizona Coyotes at Vegas Golden Knights,Vegas Golden Knights,Arizona Coyotes,7,2,1.0
+401049534,2018-09-17T19:30Z,Nashville Predators at Florida Panthers,Florida Panthers,Nashville Predators,0,5,0.0
+401049511,2018-09-17T23:00Z,Nashville Predators at Florida Panthers,Florida Panthers,Nashville Predators,3,5,0.0
+401049535,2018-09-17T23:00Z,Buffalo Sabres at Columbus Blue Jackets,Columbus Blue Jackets,Buffalo Sabres,1,4,0.0
+401049537,2018-09-17T23:00Z,New York Islanders at Philadelphia Flyers,Philadelphia Flyers,New York Islanders,3,1,1.0
+401049539,2018-09-17T23:00Z,New York Rangers at New Jersey Devils,New Jersey Devils,New York Rangers,3,4,0.0
+401049512,2018-09-17T23:30Z,New Jersey Devils at Montreal Canadiens,Montreal Canadiens,New Jersey Devils,3,1,1.0
+401049536,2018-09-18T00:00Z,Minnesota Wild at Winnipeg Jets,Winnipeg Jets,Minnesota Wild,2,1,1.0
+401049538,2018-09-18T01:00Z,Edmonton Oilers at Calgary Flames,Calgary Flames,Edmonton Oilers,4,7,0.0
+401049541,2018-09-18T23:00Z,Pittsburgh Penguins at Buffalo Sabres,Buffalo Sabres,Pittsburgh Penguins,3,2,1.0
+401049543,2018-09-18T23:00Z,Chicago Blackhawks at Columbus Blue Jackets,Columbus Blue Jackets,Chicago Blackhawks,4,1,1.0
+401049545,2018-09-18T23:00Z,Philadelphia Flyers at New York Islanders,New York Islanders,Philadelphia Flyers,1,5,0.0
+401049546,2018-09-18T23:00Z,Boston Bruins at Washington Capitals,Washington Capitals,Boston Bruins,2,5,0.0
+401049544,2018-09-18T23:30Z,Ottawa Senators at Toronto Maple Leafs,Toronto Maple Leafs,Ottawa Senators,4,1,1.0
+401049548,2018-09-18T23:30Z,Carolina Hurricanes at Tampa Bay Lightning,Tampa Bay Lightning,Carolina Hurricanes,1,4,0.0
+401049542,2018-09-19T00:30Z,St. Louis Blues at Dallas Stars,Dallas Stars,St. Louis Blues,5,3,1.0
+401049540,2018-09-19T01:00Z,Vegas Golden Knights at Colorado Avalanche,Colorado Avalanche,Vegas Golden Knights,1,5,0.0
+401049549,2018-09-19T02:00Z,Los Angeles Kings at Arizona Coyotes,Arizona Coyotes,Los Angeles Kings,4,2,1.0
+401049513,2018-09-19T02:30Z,Arizona Coyotes at Los Angeles Kings,Los Angeles Kings,Arizona Coyotes,3,4,0.0
+401049547,2018-09-19T02:30Z,Anaheim Ducks at San Jose Sharks,San Jose Sharks,Anaheim Ducks,4,1,1.0
+401049550,2018-09-19T02:30Z,Edmonton Oilers at Vancouver Canucks,Vancouver Canucks,Edmonton Oilers,2,4,0.0
+401049556,2018-09-19T11:30Z,Calgary Flames at Boston Bruins,Boston Bruins,Calgary Flames,3,1,1.0
+401049554,2018-09-19T23:00Z,Tampa Bay Lightning at Carolina Hurricanes,Carolina Hurricanes,Tampa Bay Lightning,6,1,1.0
+401049557,2018-09-19T23:00Z,Philadelphia Flyers at New York Rangers,New York Rangers,Philadelphia Flyers,4,6,0.0
+401049552,2018-09-19T23:30Z,Pittsburgh Penguins at Detroit Red Wings,Detroit Red Wings,Pittsburgh Penguins,3,2,1.0
+401049553,2018-09-19T23:30Z,Toronto Maple Leafs at Ottawa Senators,Ottawa Senators,Toronto Maple Leafs,1,4,0.0
+401049555,2018-09-19T23:30Z,Florida Panthers at Montreal Canadiens,Montreal Canadiens,Florida Panthers,2,5,0.0
+401049551,2018-09-20T00:00Z,St. Louis Blues at Minnesota Wild,Minnesota Wild,St. Louis Blues,2,3,0.0
+401049514,2018-09-20T02:00Z,Calgary Flames at Vancouver Canucks,Vancouver Canucks,Calgary Flames,1,4,0.0
+401049559,2018-09-20T23:00Z,New Jersey Devils at New York Islanders,New York Islanders,New Jersey Devils,2,0,1.0
+401049560,2018-09-20T23:00Z,Washington Capitals at Montreal Canadiens,Montreal Canadiens,Washington Capitals,5,2,1.0
+401049558,2018-09-20T23:30Z,Chicago Blackhawks at Detroit Red Wings,Detroit Red Wings,Chicago Blackhawks,4,2,1.0
+401049562,2018-09-21T00:00Z,Dallas Stars at Minnesota Wild,Minnesota Wild,Dallas Stars,1,3,0.0
+401049564,2018-09-21T01:00Z,Winnipeg Jets at Edmonton Oilers,Edmonton Oilers,Winnipeg Jets,7,3,1.0
+401049515,2018-09-21T02:00Z,Los Angeles Kings at Vancouver Canucks,Vancouver Canucks,Los Angeles Kings,4,3,1.0
+401049561,2018-09-21T02:00Z,San Jose Sharks at Anaheim Ducks,Anaheim Ducks,San Jose Sharks,3,7,0.0
+401049563,2018-09-21T02:30Z,Vegas Golden Knights at Los Angeles Kings,Los Angeles Kings,Vegas Golden Knights,2,7,0.0
+401049571,2018-09-21T23:00Z,New York Islanders at Philadelphia Flyers,Philadelphia Flyers,New York Islanders,2,3,0.0
+401049565,2018-09-21T23:30Z,Chicago Blackhawks at Ottawa Senators,Ottawa Senators,Chicago Blackhawks,2,5,0.0
+401049567,2018-09-21T23:30Z,Buffalo Sabres at Toronto Maple Leafs,Toronto Maple Leafs,Buffalo Sabres,5,3,1.0
+401049568,2018-09-21T23:30Z,Washington Capitals at Carolina Hurricanes,Carolina Hurricanes,Washington Capitals,5,1,1.0
+401049566,2018-09-22T00:00Z,Columbus Blue Jackets at St. Louis Blues,St. Louis Blues,Columbus Blue Jackets,3,0,1.0
+401049569,2018-09-22T00:00Z,Tampa Bay Lightning at Nashville Predators,Nashville Predators,Tampa Bay Lightning,1,5,0.0
+401049570,2018-09-22T00:00Z,Calgary Flames at Winnipeg Jets,Winnipeg Jets,Calgary Flames,4,3,1.0
+401049572,2018-09-22T19:00Z,Columbus Blue Jackets at Pittsburgh Penguins,Pittsburgh Penguins,Columbus Blue Jackets,7,3,1.0
+401049574,2018-09-22T22:00Z,Colorado Avalanche at Minnesota Wild,Minnesota Wild,Colorado Avalanche,7,0,1.0
+401049573,2018-09-22T23:00Z,Toronto Maple Leafs at Buffalo Sabres,Buffalo Sabres,Toronto Maple Leafs,2,3,0.0
+401049575,2018-09-22T23:00Z,Nashville Predators at Tampa Bay Lightning,Tampa Bay Lightning,Nashville Predators,5,2,1.0
+401049578,2018-09-22T23:00Z,Boston Bruins at Detroit Red Wings,Detroit Red Wings,Boston Bruins,4,3,1.0
+401049579,2018-09-22T23:00Z,Ottawa Senators at Montreal Canadiens,Montreal Canadiens,Ottawa Senators,3,2,1.0
+401049580,2018-09-22T23:00Z,New York Rangers at New York Islanders,New York Islanders,New York Rangers,5,2,1.0
+401049576,2018-09-23T00:00Z,Florida Panthers at Dallas Stars,Dallas Stars,Florida Panthers,3,4,0.0
+401049581,2018-09-23T01:00Z,Anaheim Ducks at Arizona Coyotes,Arizona Coyotes,Anaheim Ducks,6,1,1.0
+401049577,2018-09-23T01:30Z,Vancouver Canucks at Calgary Flames,Calgary Flames,Vancouver Canucks,5,2,1.0
+401049582,2018-09-23T02:00Z,Vegas Golden Knights at San Jose Sharks,San Jose Sharks,Vegas Golden Knights,4,5,0.0
+401049583,2018-09-23T19:00Z,St. Louis Blues at Columbus Blue Jackets,Columbus Blue Jackets,St. Louis Blues,1,5,0.0
+401049584,2018-09-23T19:00Z,Detroit Red Wings at Pittsburgh Penguins,Pittsburgh Penguins,Detroit Red Wings,2,3,0.0
+401049585,2018-09-24T00:00Z,Edmonton Oilers at Winnipeg Jets,Winnipeg Jets,Edmonton Oilers,5,3,1.0
+401049591,2018-09-24T23:00Z,Boston Bruins at Philadelphia Flyers,Philadelphia Flyers,Boston Bruins,3,4,0.0
+401049592,2018-09-24T23:00Z,New Jersey Devils at New York Rangers,New York Rangers,New Jersey Devils,4,3,1.0
+401049587,2018-09-24T23:30Z,Montreal Canadiens at Toronto Maple Leafs,Toronto Maple Leafs,Montreal Canadiens,1,5,0.0
+401049588,2018-09-25T00:30Z,Minnesota Wild at Dallas Stars,Dallas Stars,Minnesota Wild,5,3,1.0
+401049590,2018-09-25T01:00Z,Winnipeg Jets at Calgary Flames,Calgary Flames,Winnipeg Jets,4,5,0.0
+401049593,2018-09-25T01:00Z,Vancouver Canucks at Los Angeles Kings,Los Angeles Kings,Vancouver Canucks,4,1,1.0
+401049586,2018-09-25T02:00Z,Colorado Avalanche at Vegas Golden Knights,Vegas Golden Knights,Colorado Avalanche,3,5,0.0
+401049589,2018-09-25T02:00Z,Arizona Coyotes at Anaheim Ducks,Anaheim Ducks,Arizona Coyotes,4,2,1.0
+401049594,2018-09-25T23:00Z,Columbus Blue Jackets at Buffalo Sabres,Buffalo Sabres,Columbus Blue Jackets,2,4,0.0
+401049596,2018-09-25T23:30Z,Florida Panthers at Tampa Bay Lightning,Tampa Bay Lightning,Florida Panthers,2,3,0.0
+401049597,2018-09-26T00:00Z,Carolina Hurricanes at Nashville Predators,Nashville Predators,Carolina Hurricanes,1,4,0.0
+401049598,2018-09-26T00:00Z,Washington Capitals at St. Louis Blues,St. Louis Blues,Washington Capitals,0,4,0.0
+401049595,2018-09-26T00:30Z,Detroit Red Wings at Chicago Blackhawks,Chicago Blackhawks,Detroit Red Wings,6,8,0.0
+401049599,2018-09-26T01:00Z,Vancouver Canucks at Edmonton Oilers,Edmonton Oilers,Vancouver Canucks,6,0,1.0
+401049600,2018-09-26T01:00Z,San Jose Sharks at Calgary Flames,Calgary Flames,San Jose Sharks,7,5,1.0
+401049602,2018-09-26T23:00Z,Buffalo Sabres at Pittsburgh Penguins,Pittsburgh Penguins,Buffalo Sabres,5,1,1.0
+401049605,2018-09-26T23:00Z,Detroit Red Wings at Boston Bruins,Boston Bruins,Detroit Red Wings,2,3,0.0
+401049607,2018-09-26T23:00Z,New York Islanders at New York Rangers,New York Rangers,New York Islanders,3,4,0.0
+401049604,2018-09-26T23:30Z,Toronto Maple Leafs at Montreal Canadiens,Montreal Canadiens,Toronto Maple Leafs,3,5,0.0
+401049603,2018-09-27T00:00Z,Winnipeg Jets at Minnesota Wild,Minnesota Wild,Winnipeg Jets,4,3,1.0
+401049601,2018-09-27T01:00Z,Dallas Stars at Colorado Avalanche,Colorado Avalanche,Dallas Stars,1,3,0.0
+401049606,2018-09-27T02:00Z,Los Angeles Kings at Anaheim Ducks,Anaheim Ducks,Los Angeles Kings,7,4,1.0
+401049609,2018-09-27T23:00Z,Florida Panthers at Tampa Bay Lightning,Tampa Bay Lightning,Florida Panthers,6,2,1.0
+401049611,2018-09-27T23:00Z,New York Rangers at Philadelphia Flyers,Philadelphia Flyers,New York Rangers,2,4,0.0
+401049613,2018-09-28T00:00Z,New Jersey Devils at Winnipeg Jets,Winnipeg Jets,New Jersey Devils,3,5,0.0
+401049608,2018-09-28T00:30Z,Ottawa Senators at Chicago Blackhawks,Chicago Blackhawks,Ottawa Senators,1,2,0.0
+401049612,2018-09-28T01:00Z,Arizona Coyotes at Edmonton Oilers,Edmonton Oilers,Arizona Coyotes,3,2,1.0
+401049610,2018-09-28T02:30Z,Calgary Flames at San Jose Sharks,San Jose Sharks,Calgary Flames,3,4,0.0
+401049614,2018-09-28T23:00Z,Buffalo Sabres at New York Islanders,New York Islanders,Buffalo Sabres,4,5,0.0
+401049615,2018-09-28T23:00Z,Carolina Hurricanes at Washington Capitals,Washington Capitals,Carolina Hurricanes,4,5,0.0
+401049618,2018-09-28T23:00Z,Pittsburgh Penguins at Columbus Blue Jackets,Columbus Blue Jackets,Pittsburgh Penguins,7,6,1.0
+401049619,2018-09-28T23:30Z,Detroit Red Wings at Toronto Maple Leafs,Toronto Maple Leafs,Detroit Red Wings,6,2,1.0
+401049616,2018-09-29T00:00Z,Dallas Stars at St. Louis Blues,St. Louis Blues,Dallas Stars,3,1,1.0
+401049617,2018-09-29T01:00Z,Minnesota Wild at Colorado Avalanche,Colorado Avalanche,Minnesota Wild,4,3,1.0
+401049620,2018-09-29T02:00Z,Los Angeles Kings at Vegas Golden Knights,Vegas Golden Knights,Los Angeles Kings,2,0,1.0
+401049626,2018-09-29T19:00Z,Calgary Flames at Edmonton Oilers,Edmonton Oilers,Calgary Flames,4,3,1.0
+401049625,2018-09-29T21:00Z,Philadelphia Flyers at Boston Bruins,Boston Bruins,Philadelphia Flyers,1,4,0.0
+401049622,2018-09-29T23:00Z,Toronto Maple Leafs at Detroit Red Wings,Detroit Red Wings,Toronto Maple Leafs,5,1,1.0
+401049623,2018-09-29T23:00Z,Montreal Canadiens at Ottawa Senators,Ottawa Senators,Montreal Canadiens,3,0,1.0
+401049624,2018-09-29T23:00Z,Tampa Bay Lightning at Florida Panthers,Florida Panthers,Tampa Bay Lightning,2,3,0.0
+401049621,2018-09-30T00:00Z,Columbus Blue Jackets at Chicago Blackhawks,Chicago Blackhawks,Columbus Blue Jackets,4,1,1.0
+401049627,2018-09-30T02:00Z,Arizona Coyotes at Vancouver Canucks,Vancouver Canucks,Arizona Coyotes,1,4,0.0
+401049628,2018-09-30T02:30Z,Anaheim Ducks at Los Angeles Kings,Los Angeles Kings,Anaheim Ducks,0,3,0.0
+401049631,2018-09-30T17:30Z,Nashville Predators at Carolina Hurricanes,Carolina Hurricanes,Nashville Predators,4,5,0.0
+401049630,2018-09-30T19:00Z,St. Louis Blues at Washington Capitals,Washington Capitals,St. Louis Blues,5,2,1.0
+401049629,2018-09-30T22:00Z,Colorado Avalanche at Dallas Stars,Dallas Stars,Colorado Avalanche,5,6,0.0
+401049632,2018-10-01T00:00Z,San Jose Sharks at Vegas Golden Knights,Vegas Golden Knights,San Jose Sharks,5,2,1.0

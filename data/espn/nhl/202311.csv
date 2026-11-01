@@ -1,0 +1,214 @@
+id,date,event,home,away,hs,as,res
+401559375,2023-11-01T23:00Z,Buffalo Sabres at Philadelphia Flyers,Philadelphia Flyers,Buffalo Sabres,2,5,0.0
+401559376,2023-11-02T00:30Z,Dallas Stars at Calgary Flames,Calgary Flames,Dallas Stars,3,4,0.0
+401559377,2023-11-02T01:30Z,St. Louis Blues at Colorado Avalanche,Colorado Avalanche,St. Louis Blues,4,1,1.0
+401559378,2023-11-02T02:00Z,Arizona Coyotes at Anaheim Ducks,Anaheim Ducks,Arizona Coyotes,4,3,1.0
+401559380,2023-11-02T23:00Z,Los Angeles Kings at Ottawa Senators,Ottawa Senators,Los Angeles Kings,2,3,0.0
+401559381,2023-11-02T23:00Z,Florida Panthers at Detroit Red Wings,Detroit Red Wings,Florida Panthers,0,2,0.0
+401559382,2023-11-02T23:00Z,Carolina Hurricanes at New York Rangers,New York Rangers,Carolina Hurricanes,2,1,1.0
+401559383,2023-11-02T23:00Z,New York Islanders at Washington Capitals,Washington Capitals,New York Islanders,0,3,0.0
+401559384,2023-11-02T23:00Z,Tampa Bay Lightning at Columbus Blue Jackets,Columbus Blue Jackets,Tampa Bay Lightning,4,2,1.0
+401559379,2023-11-02T23:30Z,Toronto Maple Leafs at Boston Bruins,Boston Bruins,Toronto Maple Leafs,3,2,1.0
+401559385,2023-11-03T00:00Z,New Jersey Devils at Minnesota Wild,Minnesota Wild,New Jersey Devils,3,5,0.0
+401559386,2023-11-03T01:00Z,Dallas Stars at Edmonton Oilers,Edmonton Oilers,Dallas Stars,3,4,0.0
+401559387,2023-11-03T02:00Z,Montreal Canadiens at Arizona Coyotes,Arizona Coyotes,Montreal Canadiens,3,2,1.0
+401559388,2023-11-03T02:00Z,Winnipeg Jets at Vegas Golden Knights,Vegas Golden Knights,Winnipeg Jets,5,2,1.0
+401559389,2023-11-03T02:00Z,Nashville Predators at Seattle Kraken,Seattle Kraken,Nashville Predators,4,2,1.0
+401559390,2023-11-03T02:30Z,Vancouver Canucks at San Jose Sharks,San Jose Sharks,Vancouver Canucks,1,10,0.0
+401559391,2023-11-03T23:00Z,Philadelphia Flyers at Buffalo Sabres,Buffalo Sabres,Philadelphia Flyers,1,5,0.0
+401559392,2023-11-04T00:00Z,New Jersey Devils at St. Louis Blues,St. Louis Blues,New Jersey Devils,4,1,1.0
+401559393,2023-11-04T19:00Z,Nashville Predators at Edmonton Oilers,Edmonton Oilers,Nashville Predators,2,5,0.0
+401559394,2023-11-04T20:00Z,Winnipeg Jets at Arizona Coyotes,Arizona Coyotes,Winnipeg Jets,3,5,0.0
+401559395,2023-11-04T23:00Z,Buffalo Sabres at Toronto Maple Leafs,Toronto Maple Leafs,Buffalo Sabres,4,6,0.0
+401559396,2023-11-04T23:00Z,Tampa Bay Lightning at Ottawa Senators,Ottawa Senators,Tampa Bay Lightning,4,6,0.0
+401559397,2023-11-04T23:00Z,Boston Bruins at Detroit Red Wings,Detroit Red Wings,Boston Bruins,5,4,1.0
+401559399,2023-11-04T23:00Z,Columbus Blue Jackets at Washington Capitals,Washington Capitals,Columbus Blue Jackets,2,1,1.0
+401559400,2023-11-04T23:00Z,Montreal Canadiens at St. Louis Blues,St. Louis Blues,Montreal Canadiens,6,3,1.0
+401559398,2023-11-04T23:30Z,Los Angeles Kings at Philadelphia Flyers,Philadelphia Flyers,Los Angeles Kings,0,5,0.0
+401559401,2023-11-04T23:30Z,Carolina Hurricanes at New York Islanders,New York Islanders,Carolina Hurricanes,3,4,0.0
+401559402,2023-11-05T00:00Z,Florida Panthers at Chicago Blackhawks,Chicago Blackhawks,Florida Panthers,5,2,1.0
+401559403,2023-11-05T00:00Z,New York Rangers at Minnesota Wild,Minnesota Wild,New York Rangers,5,4,1.0
+401559404,2023-11-05T02:00Z,Dallas Stars at Vancouver Canucks,Vancouver Canucks,Dallas Stars,2,0,1.0
+401559405,2023-11-05T02:00Z,Colorado Avalanche at Vegas Golden Knights,Vegas Golden Knights,Colorado Avalanche,7,0,1.0
+401559406,2023-11-05T02:00Z,Pittsburgh Penguins at San Jose Sharks,San Jose Sharks,Pittsburgh Penguins,2,10,0.0
+401559407,2023-11-05T02:00Z,Calgary Flames at Seattle Kraken,Seattle Kraken,Calgary Flames,3,6,0.0
+401559408,2023-11-06T00:00Z,New Jersey Devils at Chicago Blackhawks,Chicago Blackhawks,New Jersey Devils,2,4,0.0
+401559409,2023-11-06T01:00Z,Vegas Golden Knights at Anaheim Ducks,Anaheim Ducks,Vegas Golden Knights,4,2,1.0
+401559410,2023-11-07T00:00Z,Tampa Bay Lightning at Toronto Maple Leafs,Toronto Maple Leafs,Tampa Bay Lightning,6,5,1.0
+401559411,2023-11-07T00:00Z,Columbus Blue Jackets at Florida Panthers,Florida Panthers,Columbus Blue Jackets,5,4,1.0
+401559412,2023-11-07T01:00Z,Boston Bruins at Dallas Stars,Dallas Stars,Boston Bruins,2,3,0.0
+401559413,2023-11-07T03:00Z,Edmonton Oilers at Vancouver Canucks,Vancouver Canucks,Edmonton Oilers,6,2,1.0
+401559414,2023-11-08T00:00Z,Tampa Bay Lightning at Montreal Canadiens,Montreal Canadiens,Tampa Bay Lightning,3,5,0.0
+401559925,2023-11-08T00:00Z,Buffalo Sabres at Carolina Hurricanes,Carolina Hurricanes,Buffalo Sabres,3,2,1.0
+401559415,2023-11-08T00:30Z,Minnesota Wild at New York Islanders,New York Islanders,Minnesota Wild,2,4,0.0
+401559416,2023-11-08T00:30Z,Detroit Red Wings at New York Rangers,New York Rangers,Detroit Red Wings,5,3,1.0
+401559417,2023-11-08T01:00Z,Winnipeg Jets at St. Louis Blues,St. Louis Blues,Winnipeg Jets,2,5,0.0
+401559418,2023-11-08T02:00Z,Nashville Predators at Calgary Flames,Calgary Flames,Nashville Predators,4,2,1.0
+401559419,2023-11-08T02:00Z,Seattle Kraken at Arizona Coyotes,Arizona Coyotes,Seattle Kraken,4,3,1.0
+401559420,2023-11-08T03:00Z,New Jersey Devils at Colorado Avalanche,Colorado Avalanche,New Jersey Devils,6,3,1.0
+401559421,2023-11-08T03:00Z,Pittsburgh Penguins at Anaheim Ducks,Anaheim Ducks,Pittsburgh Penguins,0,2,0.0
+401559422,2023-11-08T03:30Z,Philadelphia Flyers at San Jose Sharks,San Jose Sharks,Philadelphia Flyers,2,1,1.0
+401559423,2023-11-09T00:00Z,Ottawa Senators at Toronto Maple Leafs,Toronto Maple Leafs,Ottawa Senators,3,6,0.0
+401559424,2023-11-09T00:30Z,Florida Panthers at Washington Capitals,Washington Capitals,Florida Panthers,3,4,0.0
+401559425,2023-11-09T03:00Z,Los Angeles Kings at Vegas Golden Knights,Vegas Golden Knights,Los Angeles Kings,1,4,0.0
+401559426,2023-11-10T00:00Z,New York Islanders at Boston Bruins,Boston Bruins,New York Islanders,5,2,1.0
+401559427,2023-11-10T00:00Z,Vancouver Canucks at Ottawa Senators,Ottawa Senators,Vancouver Canucks,2,5,0.0
+401559428,2023-11-10T00:00Z,Montreal Canadiens at Detroit Red Wings,Detroit Red Wings,Montreal Canadiens,2,3,0.0
+401559429,2023-11-10T00:00Z,Chicago Blackhawks at Tampa Bay Lightning,Tampa Bay Lightning,Chicago Blackhawks,3,5,0.0
+401559430,2023-11-10T00:00Z,Minnesota Wild at New York Rangers,New York Rangers,Minnesota Wild,4,1,1.0
+401559431,2023-11-10T00:30Z,Dallas Stars at Columbus Blue Jackets,Columbus Blue Jackets,Dallas Stars,2,5,0.0
+401559432,2023-11-10T01:00Z,Arizona Coyotes at St. Louis Blues,St. Louis Blues,Arizona Coyotes,2,1,1.0
+401559433,2023-11-10T01:00Z,Nashville Predators at Winnipeg Jets,Winnipeg Jets,Nashville Predators,6,3,1.0
+401559434,2023-11-10T02:00Z,Seattle Kraken at Colorado Avalanche,Colorado Avalanche,Seattle Kraken,3,4,0.0
+401559435,2023-11-10T03:30Z,Pittsburgh Penguins at Los Angeles Kings,Los Angeles Kings,Pittsburgh Penguins,3,4,0.0
+401559436,2023-11-10T03:30Z,Edmonton Oilers at San Jose Sharks,San Jose Sharks,Edmonton Oilers,3,2,1.0
+401559437,2023-11-11T00:00Z,Minnesota Wild at Buffalo Sabres,Buffalo Sabres,Minnesota Wild,3,2,1.0
+401559438,2023-11-11T00:00Z,Calgary Flames at Toronto Maple Leafs,Toronto Maple Leafs,Calgary Flames,5,4,1.0
+401559439,2023-11-11T00:00Z,Carolina Hurricanes at Florida Panthers,Florida Panthers,Carolina Hurricanes,5,2,1.0
+401559440,2023-11-11T00:00Z,Washington Capitals at New Jersey Devils,New Jersey Devils,Washington Capitals,2,4,0.0
+401559441,2023-11-11T03:00Z,San Jose Sharks at Vegas Golden Knights,Vegas Golden Knights,San Jose Sharks,5,0,1.0
+401559442,2023-11-11T03:00Z,Philadelphia Flyers at Anaheim Ducks,Anaheim Ducks,Philadelphia Flyers,3,6,0.0
+401559443,2023-11-11T18:00Z,Columbus Blue Jackets at Detroit Red Wings,Detroit Red Wings,Columbus Blue Jackets,5,4,1.0
+401559444,2023-11-11T20:00Z,Dallas Stars at Winnipeg Jets,Winnipeg Jets,Dallas Stars,2,3,0.0
+401559445,2023-11-12T00:00Z,Vancouver Canucks at Toronto Maple Leafs,Toronto Maple Leafs,Vancouver Canucks,5,2,1.0
+401559446,2023-11-12T00:00Z,Boston Bruins at Montreal Canadiens,Montreal Canadiens,Boston Bruins,3,2,1.0
+401559447,2023-11-12T00:00Z,Calgary Flames at Ottawa Senators,Ottawa Senators,Calgary Flames,4,1,1.0
+401559448,2023-11-12T00:00Z,Carolina Hurricanes at Tampa Bay Lightning,Tampa Bay Lightning,Carolina Hurricanes,0,4,0.0
+401559449,2023-11-12T00:30Z,Buffalo Sabres at Pittsburgh Penguins,Pittsburgh Penguins,Buffalo Sabres,4,0,1.0
+401559450,2023-11-12T00:30Z,Washington Capitals at New York Islanders,New York Islanders,Washington Capitals,1,4,0.0
+401559451,2023-11-12T01:00Z,Arizona Coyotes at Nashville Predators,Nashville Predators,Arizona Coyotes,5,7,0.0
+401559452,2023-11-12T02:00Z,St. Louis Blues at Colorado Avalanche,Colorado Avalanche,St. Louis Blues,2,8,0.0
+401559453,2023-11-12T03:00Z,Edmonton Oilers at Seattle Kraken,Seattle Kraken,Edmonton Oilers,1,4,0.0
+401559454,2023-11-12T03:30Z,Philadelphia Flyers at Los Angeles Kings,Los Angeles Kings,Philadelphia Flyers,2,4,0.0
+401559455,2023-11-12T18:00Z,Chicago Blackhawks at Florida Panthers,Florida Panthers,Chicago Blackhawks,4,3,1.0
+401559456,2023-11-12T23:00Z,Dallas Stars at Minnesota Wild,Minnesota Wild,Dallas Stars,3,8,0.0
+401559457,2023-11-13T00:00Z,Vancouver Canucks at Montreal Canadiens,Montreal Canadiens,Vancouver Canucks,2,5,0.0
+401559458,2023-11-13T00:00Z,Columbus Blue Jackets at New York Rangers,New York Rangers,Columbus Blue Jackets,4,3,1.0
+401559459,2023-11-13T01:00Z,San Jose Sharks at Anaheim Ducks,Anaheim Ducks,San Jose Sharks,4,1,1.0
+401559460,2023-11-14T01:30Z,New York Islanders at Edmonton Oilers,Edmonton Oilers,New York Islanders,4,1,1.0
+401559461,2023-11-14T03:00Z,Colorado Avalanche at Seattle Kraken,Seattle Kraken,Colorado Avalanche,1,5,0.0
+401559462,2023-11-15T00:00Z,Boston Bruins at Buffalo Sabres,Buffalo Sabres,Boston Bruins,2,5,0.0
+401559463,2023-11-15T00:00Z,Calgary Flames at Montreal Canadiens,Montreal Canadiens,Calgary Flames,1,2,0.0
+401559464,2023-11-15T00:00Z,Vegas Golden Knights at Washington Capitals,Washington Capitals,Vegas Golden Knights,3,0,1.0
+401559465,2023-11-15T00:00Z,Pittsburgh Penguins at Columbus Blue Jackets,Columbus Blue Jackets,Pittsburgh Penguins,3,5,0.0
+401559466,2023-11-15T01:00Z,Tampa Bay Lightning at St. Louis Blues,St. Louis Blues,Tampa Bay Lightning,5,0,1.0
+401559467,2023-11-15T01:00Z,Anaheim Ducks at Nashville Predators,Nashville Predators,Anaheim Ducks,2,3,0.0
+401559468,2023-11-15T01:00Z,Arizona Coyotes at Dallas Stars,Dallas Stars,Arizona Coyotes,4,3,1.0
+401559469,2023-11-15T01:00Z,New Jersey Devils at Winnipeg Jets,Winnipeg Jets,New Jersey Devils,6,3,1.0
+401559470,2023-11-15T03:30Z,Florida Panthers at San Jose Sharks,San Jose Sharks,Florida Panthers,3,5,0.0
+401559471,2023-11-16T00:30Z,Philadelphia Flyers at Carolina Hurricanes,Carolina Hurricanes,Philadelphia Flyers,1,3,0.0
+401559472,2023-11-16T01:30Z,Seattle Kraken at Edmonton Oilers,Edmonton Oilers,Seattle Kraken,4,3,1.0
+401559473,2023-11-16T02:00Z,Anaheim Ducks at Colorado Avalanche,Colorado Avalanche,Anaheim Ducks,8,2,1.0
+401559474,2023-11-16T03:00Z,New York Islanders at Vancouver Canucks,Vancouver Canucks,New York Islanders,4,3,1.0
+401555904,2023-11-16T19:00Z,Detroit Red Wings at Ottawa Senators,Ottawa Senators,Detroit Red Wings,5,4,1.0
+401559475,2023-11-17T00:00Z,Vegas Golden Knights at Montreal Canadiens,Montreal Canadiens,Vegas Golden Knights,5,6,0.0
+401559476,2023-11-17T00:00Z,New Jersey Devils at Pittsburgh Penguins,Pittsburgh Penguins,New Jersey Devils,2,5,0.0
+401559477,2023-11-17T00:00Z,Arizona Coyotes at Columbus Blue Jackets,Columbus Blue Jackets,Arizona Coyotes,2,3,0.0
+401559478,2023-11-17T01:00Z,Tampa Bay Lightning at Chicago Blackhawks,Chicago Blackhawks,Tampa Bay Lightning,2,4,0.0
+401559479,2023-11-17T02:00Z,Vancouver Canucks at Calgary Flames,Calgary Flames,Vancouver Canucks,5,2,1.0
+401559480,2023-11-17T03:00Z,New York Islanders at Seattle Kraken,Seattle Kraken,New York Islanders,4,3,1.0
+401559481,2023-11-17T03:30Z,Florida Panthers at Los Angeles Kings,Los Angeles Kings,Florida Panthers,2,1,1.0
+401559482,2023-11-17T03:30Z,St. Louis Blues at San Jose Sharks,San Jose Sharks,St. Louis Blues,5,1,1.0
+401555905,2023-11-17T19:00Z,Toronto Maple Leafs at Detroit Red Wings,Detroit Red Wings,Toronto Maple Leafs,2,3,0.0
+401559483,2023-11-18T01:00Z,Buffalo Sabres at Winnipeg Jets,Winnipeg Jets,Buffalo Sabres,3,2,1.0
+401559484,2023-11-18T03:00Z,Florida Panthers at Anaheim Ducks,Anaheim Ducks,Florida Panthers,1,2,0.0
+401555906,2023-11-18T16:00Z,Minnesota Wild at Ottawa Senators,Ottawa Senators,Minnesota Wild,2,1,1.0
+401559485,2023-11-18T18:00Z,Vegas Golden Knights at Philadelphia Flyers,Philadelphia Flyers,Vegas Golden Knights,4,3,1.0
+401559493,2023-11-18T19:00Z,Chicago Blackhawks at Nashville Predators,Nashville Predators,Chicago Blackhawks,4,2,1.0
+401559486,2023-11-18T21:00Z,Edmonton Oilers at Tampa Bay Lightning,Tampa Bay Lightning,Edmonton Oilers,6,4,1.0
+401559487,2023-11-19T00:00Z,Montreal Canadiens at Boston Bruins,Boston Bruins,Montreal Canadiens,5,2,1.0
+401559488,2023-11-19T00:00Z,New York Rangers at New Jersey Devils,New Jersey Devils,New York Rangers,3,5,0.0
+401559490,2023-11-19T00:00Z,Pittsburgh Penguins at Carolina Hurricanes,Carolina Hurricanes,Pittsburgh Penguins,4,2,1.0
+401559491,2023-11-19T00:00Z,Arizona Coyotes at Winnipeg Jets,Winnipeg Jets,Arizona Coyotes,5,2,1.0
+401559492,2023-11-19T00:00Z,New York Islanders at Calgary Flames,Calgary Flames,New York Islanders,4,5,0.0
+401559489,2023-11-19T00:30Z,Columbus Blue Jackets at Washington Capitals,Washington Capitals,Columbus Blue Jackets,4,3,1.0
+401559494,2023-11-19T01:00Z,Colorado Avalanche at Dallas Stars,Dallas Stars,Colorado Avalanche,3,6,0.0
+401559495,2023-11-19T03:00Z,Seattle Kraken at Vancouver Canucks,Vancouver Canucks,Seattle Kraken,3,4,0.0
+401559496,2023-11-19T03:30Z,St. Louis Blues at Los Angeles Kings,Los Angeles Kings,St. Louis Blues,5,1,1.0
+401555907,2023-11-19T13:00Z,Toronto Maple Leafs at Minnesota Wild,Minnesota Wild,Toronto Maple Leafs,3,4,0.0
+401559497,2023-11-19T22:30Z,Columbus Blue Jackets at Philadelphia Flyers,Philadelphia Flyers,Columbus Blue Jackets,5,2,1.0
+401559498,2023-11-19T23:00Z,Vegas Golden Knights at Pittsburgh Penguins,Pittsburgh Penguins,Vegas Golden Knights,3,0,1.0
+401559499,2023-11-20T00:00Z,Buffalo Sabres at Chicago Blackhawks,Chicago Blackhawks,Buffalo Sabres,2,3,0.0
+401559500,2023-11-20T01:00Z,St. Louis Blues at Anaheim Ducks,Anaheim Ducks,St. Louis Blues,1,3,0.0
+401559501,2023-11-21T00:00Z,Boston Bruins at Tampa Bay Lightning,Tampa Bay Lightning,Boston Bruins,5,4,1.0
+401559502,2023-11-21T00:00Z,Edmonton Oilers at Florida Panthers,Florida Panthers,Edmonton Oilers,5,3,1.0
+401559503,2023-11-21T01:00Z,Colorado Avalanche at Nashville Predators,Nashville Predators,Colorado Avalanche,4,3,1.0
+401559504,2023-11-21T01:00Z,New York Rangers at Dallas Stars,Dallas Stars,New York Rangers,6,3,1.0
+401559505,2023-11-21T02:00Z,Los Angeles Kings at Arizona Coyotes,Arizona Coyotes,Los Angeles Kings,1,4,0.0
+401559506,2023-11-21T03:00Z,San Jose Sharks at Vancouver Canucks,Vancouver Canucks,San Jose Sharks,3,1,1.0
+401559507,2023-11-21T03:00Z,Calgary Flames at Seattle Kraken,Seattle Kraken,Calgary Flames,3,4,0.0
+401559508,2023-11-23T00:00Z,New Jersey Devils at Detroit Red Wings,Detroit Red Wings,New Jersey Devils,4,0,1.0
+401559509,2023-11-23T00:00Z,Winnipeg Jets at Tampa Bay Lightning,Tampa Bay Lightning,Winnipeg Jets,2,3,0.0
+401559510,2023-11-23T00:00Z,Boston Bruins at Florida Panthers,Florida Panthers,Boston Bruins,1,3,0.0
+401559511,2023-11-23T00:00Z,New York Rangers at Pittsburgh Penguins,Pittsburgh Penguins,New York Rangers,0,1,0.0
+401559512,2023-11-23T00:00Z,Buffalo Sabres at Washington Capitals,Washington Capitals,Buffalo Sabres,4,3,1.0
+401559513,2023-11-23T00:00Z,Edmonton Oilers at Carolina Hurricanes,Carolina Hurricanes,Edmonton Oilers,6,3,1.0
+401559514,2023-11-23T00:00Z,Chicago Blackhawks at Columbus Blue Jackets,Columbus Blue Jackets,Chicago Blackhawks,7,3,1.0
+401559515,2023-11-23T00:30Z,Philadelphia Flyers at New York Islanders,New York Islanders,Philadelphia Flyers,3,2,1.0
+401559516,2023-11-23T02:00Z,Calgary Flames at Nashville Predators,Nashville Predators,Calgary Flames,4,2,1.0
+401559517,2023-11-23T02:00Z,St. Louis Blues at Arizona Coyotes,Arizona Coyotes,St. Louis Blues,5,6,0.0
+401559518,2023-11-23T02:30Z,Vegas Golden Knights at Dallas Stars,Dallas Stars,Vegas Golden Knights,1,2,0.0
+401559519,2023-11-23T03:00Z,Vancouver Canucks at Colorado Avalanche,Colorado Avalanche,Vancouver Canucks,5,2,1.0
+401559520,2023-11-23T03:00Z,Montreal Canadiens at Anaheim Ducks,Anaheim Ducks,Montreal Canadiens,3,4,0.0
+401559521,2023-11-23T03:00Z,San Jose Sharks at Seattle Kraken,Seattle Kraken,San Jose Sharks,7,1,1.0
+401559522,2023-11-24T18:00Z,Detroit Red Wings at Boston Bruins,Boston Bruins,Detroit Red Wings,2,5,0.0
+401559523,2023-11-24T18:00Z,New York Rangers at Philadelphia Flyers,Philadelphia Flyers,New York Rangers,1,3,0.0
+401559524,2023-11-24T19:00Z,Toronto Maple Leafs at Chicago Blackhawks,Chicago Blackhawks,Toronto Maple Leafs,4,3,1.0
+401559525,2023-11-24T20:00Z,Edmonton Oilers at Washington Capitals,Washington Capitals,Edmonton Oilers,0,5,0.0
+401559527,2023-11-24T20:00Z,Nashville Predators at St. Louis Blues,St. Louis Blues,Nashville Predators,3,8,0.0
+401559532,2023-11-24T20:00Z,Columbus Blue Jackets at New Jersey Devils,New Jersey Devils,Columbus Blue Jackets,1,2,0.0
+401559528,2023-11-24T20:30Z,Los Angeles Kings at Anaheim Ducks,Anaheim Ducks,Los Angeles Kings,2,5,0.0
+401559529,2023-11-24T20:30Z,Montreal Canadiens at San Jose Sharks,San Jose Sharks,Montreal Canadiens,2,3,0.0
+401559530,2023-11-24T23:00Z,Pittsburgh Penguins at Buffalo Sabres,Buffalo Sabres,Pittsburgh Penguins,3,2,1.0
+401559531,2023-11-25T00:30Z,New York Islanders at Ottawa Senators,Ottawa Senators,New York Islanders,3,5,0.0
+401559526,2023-11-25T01:00Z,Tampa Bay Lightning at Carolina Hurricanes,Carolina Hurricanes,Tampa Bay Lightning,2,8,0.0
+401559533,2023-11-25T01:00Z,Winnipeg Jets at Florida Panthers,Florida Panthers,Winnipeg Jets,0,3,0.0
+401559534,2023-11-25T01:30Z,Calgary Flames at Dallas Stars,Dallas Stars,Calgary Flames,4,7,0.0
+401559535,2023-11-25T01:30Z,Colorado Avalanche at Minnesota Wild,Minnesota Wild,Colorado Avalanche,2,3,0.0
+401559536,2023-11-25T03:00Z,Vancouver Canucks at Seattle Kraken,Seattle Kraken,Vancouver Canucks,1,5,0.0
+401559537,2023-11-25T18:00Z,Boston Bruins at New York Rangers,New York Rangers,Boston Bruins,7,4,1.0
+401559538,2023-11-25T21:00Z,Montreal Canadiens at Los Angeles Kings,Los Angeles Kings,Montreal Canadiens,4,0,1.0
+401559539,2023-11-26T00:00Z,Buffalo Sabres at New Jersey Devils,New Jersey Devils,Buffalo Sabres,7,2,1.0
+401559540,2023-11-26T00:00Z,Toronto Maple Leafs at Pittsburgh Penguins,Pittsburgh Penguins,Toronto Maple Leafs,3,2,1.0
+401559541,2023-11-26T00:30Z,Philadelphia Flyers at New York Islanders,New York Islanders,Philadelphia Flyers,0,1,0.0
+401559542,2023-11-26T03:00Z,Calgary Flames at Colorado Avalanche,Colorado Avalanche,Calgary Flames,3,1,1.0
+401559543,2023-11-26T03:00Z,Arizona Coyotes at Vegas Golden Knights,Vegas Golden Knights,Arizona Coyotes,0,2,0.0
+401559544,2023-11-26T03:00Z,Vancouver Canucks at San Jose Sharks,San Jose Sharks,Vancouver Canucks,4,3,1.0
+401559545,2023-11-26T18:00Z,Minnesota Wild at Detroit Red Wings,Detroit Red Wings,Minnesota Wild,4,1,1.0
+401559546,2023-11-26T19:00Z,St. Louis Blues at Chicago Blackhawks,Chicago Blackhawks,St. Louis Blues,2,4,0.0
+401559547,2023-11-26T22:00Z,Columbus Blue Jackets at Carolina Hurricanes,Carolina Hurricanes,Columbus Blue Jackets,3,2,1.0
+401559548,2023-11-27T01:00Z,Winnipeg Jets at Nashville Predators,Nashville Predators,Winnipeg Jets,3,2,1.0
+401559549,2023-11-27T02:00Z,Anaheim Ducks at Edmonton Oilers,Edmonton Oilers,Anaheim Ducks,8,2,1.0
+401559550,2023-11-28T00:00Z,Florida Panthers at Ottawa Senators,Ottawa Senators,Florida Panthers,0,5,0.0
+401559551,2023-11-28T00:00Z,Buffalo Sabres at New York Rangers,New York Rangers,Buffalo Sabres,1,5,0.0
+401559552,2023-11-28T00:00Z,Boston Bruins at Columbus Blue Jackets,Columbus Blue Jackets,Boston Bruins,5,2,1.0
+401559553,2023-11-28T02:00Z,Tampa Bay Lightning at Colorado Avalanche,Colorado Avalanche,Tampa Bay Lightning,4,1,1.0
+401559554,2023-11-28T02:30Z,Vegas Golden Knights at Calgary Flames,Calgary Flames,Vegas Golden Knights,2,1,1.0
+401559556,2023-11-28T03:30Z,Washington Capitals at San Jose Sharks,San Jose Sharks,Washington Capitals,2,1,1.0
+401559557,2023-11-29T00:00Z,Florida Panthers at Toronto Maple Leafs,Toronto Maple Leafs,Florida Panthers,2,1,1.0
+401559558,2023-11-29T00:00Z,New York Islanders at New Jersey Devils,New Jersey Devils,New York Islanders,5,4,1.0
+401559559,2023-11-29T00:30Z,Carolina Hurricanes at Philadelphia Flyers,Philadelphia Flyers,Carolina Hurricanes,1,4,0.0
+401559560,2023-11-29T01:00Z,Pittsburgh Penguins at Nashville Predators,Nashville Predators,Pittsburgh Penguins,3,2,1.0
+401559561,2023-11-29T01:00Z,St. Louis Blues at Minnesota Wild,Minnesota Wild,St. Louis Blues,3,1,1.0
+401559562,2023-11-29T01:00Z,Dallas Stars at Winnipeg Jets,Winnipeg Jets,Dallas Stars,0,2,0.0
+401559563,2023-11-29T01:30Z,Seattle Kraken at Chicago Blackhawks,Chicago Blackhawks,Seattle Kraken,4,3,1.0
+401559564,2023-11-29T02:00Z,Vegas Golden Knights at Edmonton Oilers,Edmonton Oilers,Vegas Golden Knights,5,4,1.0
+401559565,2023-11-29T02:00Z,Tampa Bay Lightning at Arizona Coyotes,Arizona Coyotes,Tampa Bay Lightning,3,1,1.0
+401559555,2023-11-29T03:00Z,Anaheim Ducks at Vancouver Canucks,Vancouver Canucks,Anaheim Ducks,3,1,1.0
+401559566,2023-11-30T00:00Z,Montreal Canadiens at Columbus Blue Jackets,Columbus Blue Jackets,Montreal Canadiens,2,4,0.0
+401559567,2023-11-30T00:30Z,Detroit Red Wings at New York Rangers,New York Rangers,Detroit Red Wings,3,2,1.0
+401559568,2023-11-30T03:30Z,Washington Capitals at Los Angeles Kings,Los Angeles Kings,Washington Capitals,1,2,0.0
+401559569,2023-12-01T00:00Z,San Jose Sharks at Boston Bruins,Boston Bruins,San Jose Sharks,3,0,1.0
+401559570,2023-12-01T00:00Z,Seattle Kraken at Toronto Maple Leafs,Toronto Maple Leafs,Seattle Kraken,4,3,1.0
+401559571,2023-12-01T00:00Z,Florida Panthers at Montreal Canadiens,Montreal Canadiens,Florida Panthers,1,5,0.0
+401559572,2023-12-01T00:00Z,Chicago Blackhawks at Detroit Red Wings,Detroit Red Wings,Chicago Blackhawks,5,1,1.0
+401559573,2023-12-01T00:00Z,Pittsburgh Penguins at Tampa Bay Lightning,Tampa Bay Lightning,Pittsburgh Penguins,2,4,0.0
+401559574,2023-12-01T00:00Z,New Jersey Devils at Philadelphia Flyers,Philadelphia Flyers,New Jersey Devils,3,4,0.0
+401559575,2023-12-01T00:30Z,New York Islanders at Carolina Hurricanes,Carolina Hurricanes,New York Islanders,4,5,0.0
+401559576,2023-12-01T01:00Z,Buffalo Sabres at St. Louis Blues,St. Louis Blues,Buffalo Sabres,6,4,1.0
+401559577,2023-12-01T01:00Z,Minnesota Wild at Nashville Predators,Nashville Predators,Minnesota Wild,1,6,0.0
+401559578,2023-12-01T01:00Z,Edmonton Oilers at Winnipeg Jets,Winnipeg Jets,Edmonton Oilers,1,3,0.0
+401559579,2023-12-01T02:00Z,Dallas Stars at Calgary Flames,Calgary Flames,Dallas Stars,4,3,1.0
+401559580,2023-12-01T02:00Z,Colorado Avalanche at Arizona Coyotes,Arizona Coyotes,Colorado Avalanche,4,3,1.0
+401559581,2023-12-01T03:00Z,Vegas Golden Knights at Vancouver Canucks,Vancouver Canucks,Vegas Golden Knights,1,4,0.0
+401559582,2023-12-01T03:00Z,Washington Capitals at Anaheim Ducks,Anaheim Ducks,Washington Capitals,4,5,0.0

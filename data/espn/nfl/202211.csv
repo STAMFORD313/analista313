@@ -1,0 +1,58 @@
+id,date,event,home,away,hs,as,res
+401437819,2022-11-04T00:15Z,Philadelphia Eagles at Houston Texans,Houston Texans,Philadelphia Eagles,17,29,0.0
+401437820,2022-11-06T18:00Z,Los Angeles Chargers at Atlanta Falcons,Atlanta Falcons,Los Angeles Chargers,17,20,0.0
+401437821,2022-11-06T18:00Z,Miami Dolphins at Chicago Bears,Chicago Bears,Miami Dolphins,32,35,0.0
+401437822,2022-11-06T18:00Z,Carolina Panthers at Cincinnati Bengals,Cincinnati Bengals,Carolina Panthers,42,21,1.0
+401437823,2022-11-06T18:00Z,Green Bay Packers at Detroit Lions,Detroit Lions,Green Bay Packers,15,9,1.0
+401437825,2022-11-06T18:00Z,Indianapolis Colts at New England Patriots,New England Patriots,Indianapolis Colts,26,3,1.0
+401437826,2022-11-06T18:00Z,Buffalo Bills at New York Jets,New York Jets,Buffalo Bills,20,17,1.0
+401437827,2022-11-06T18:00Z,Minnesota Vikings at Washington Commanders,Washington Commanders,Minnesota Vikings,17,20,0.0
+401437824,2022-11-06T18:00Z,Las Vegas Raiders at Jacksonville Jaguars,Jacksonville Jaguars,Las Vegas Raiders,27,20,1.0
+401437828,2022-11-06T21:05Z,Seattle Seahawks at Arizona Cardinals,Arizona Cardinals,Seattle Seahawks,21,31,0.0
+401437829,2022-11-06T21:25Z,Los Angeles Rams at Tampa Bay Buccaneers,Tampa Bay Buccaneers,Los Angeles Rams,16,13,1.0
+401437830,2022-11-07T01:20Z,Tennessee Titans at Kansas City Chiefs,Kansas City Chiefs,Tennessee Titans,20,17,1.0
+401437831,2022-11-08T01:15Z,Baltimore Ravens at New Orleans Saints,New Orleans Saints,Baltimore Ravens,13,27,0.0
+401437832,2022-11-11T01:15Z,Atlanta Falcons at Carolina Panthers,Carolina Panthers,Atlanta Falcons,25,15,1.0
+401435638,2022-11-13T14:30Z,Seattle Seahawks at Tampa Bay Buccaneers,Tampa Bay Buccaneers,Seattle Seahawks,21,16,1.0
+401437833,2022-11-13T18:00Z,Minnesota Vikings at Buffalo Bills,Buffalo Bills,Minnesota Vikings,30,33,0.0
+401437834,2022-11-13T18:00Z,Detroit Lions at Chicago Bears,Chicago Bears,Detroit Lions,30,31,0.0
+401437839,2022-11-13T18:00Z,Denver Broncos at Tennessee Titans,Tennessee Titans,Denver Broncos,17,10,1.0
+401437835,2022-11-13T18:00Z,Jacksonville Jaguars at Kansas City Chiefs,Kansas City Chiefs,Jacksonville Jaguars,27,17,1.0
+401437836,2022-11-13T18:00Z,Cleveland Browns at Miami Dolphins,Miami Dolphins,Cleveland Browns,39,17,1.0
+401437837,2022-11-13T18:00Z,Houston Texans at New York Giants,New York Giants,Houston Texans,24,16,1.0
+401437838,2022-11-13T18:00Z,New Orleans Saints at Pittsburgh Steelers,Pittsburgh Steelers,New Orleans Saints,20,10,1.0
+401437840,2022-11-13T21:05Z,Indianapolis Colts at Las Vegas Raiders,Las Vegas Raiders,Indianapolis Colts,20,25,0.0
+401437131,2022-11-13T21:25Z,Dallas Cowboys at Green Bay Packers,Green Bay Packers,Dallas Cowboys,31,28,1.0
+401437841,2022-11-13T21:25Z,Arizona Cardinals at Los Angeles Rams,Los Angeles Rams,Arizona Cardinals,17,27,0.0
+401437842,2022-11-14T01:20Z,Los Angeles Chargers at San Francisco 49ers,San Francisco 49ers,Los Angeles Chargers,22,16,1.0
+401437843,2022-11-15T01:15Z,Washington Commanders at Philadelphia Eagles,Philadelphia Eagles,Washington Commanders,21,32,0.0
+401437844,2022-11-18T01:15Z,Tennessee Titans at Green Bay Packers,Green Bay Packers,Tennessee Titans,17,27,0.0
+401437845,2022-11-20T18:00Z,Chicago Bears at Atlanta Falcons,Atlanta Falcons,Chicago Bears,27,24,1.0
+401437847,2022-11-20T18:00Z,Cleveland Browns at Buffalo Bills,Buffalo Bills,Cleveland Browns,31,23,1.0
+401437849,2022-11-20T18:00Z,Philadelphia Eagles at Indianapolis Colts,Indianapolis Colts,Philadelphia Eagles,16,17,0.0
+401437850,2022-11-20T18:00Z,New York Jets at New England Patriots,New England Patriots,New York Jets,10,3,1.0
+401437851,2022-11-20T18:00Z,Los Angeles Rams at New Orleans Saints,New Orleans Saints,Los Angeles Rams,27,20,1.0
+401437852,2022-11-20T18:00Z,Detroit Lions at New York Giants,New York Giants,Detroit Lions,18,31,0.0
+401437846,2022-11-20T18:00Z,Carolina Panthers at Baltimore Ravens,Baltimore Ravens,Carolina Panthers,13,3,1.0
+401437848,2022-11-20T18:00Z,Washington Commanders at Houston Texans,Houston Texans,Washington Commanders,10,23,0.0
+401437853,2022-11-20T21:05Z,Las Vegas Raiders at Denver Broncos,Denver Broncos,Las Vegas Raiders,16,22,0.0
+401437855,2022-11-20T21:25Z,Dallas Cowboys at Minnesota Vikings,Minnesota Vikings,Dallas Cowboys,3,40,0.0
+401437856,2022-11-20T21:25Z,Cincinnati Bengals at Pittsburgh Steelers,Pittsburgh Steelers,Cincinnati Bengals,30,37,0.0
+401437854,2022-11-21T01:20Z,Kansas City Chiefs at Los Angeles Chargers,Los Angeles Chargers,Kansas City Chiefs,27,30,0.0
+401435642,2022-11-22T01:15Z,San Francisco 49ers at Arizona Cardinals,Arizona Cardinals,San Francisco 49ers,10,38,0.0
+401437857,2022-11-24T17:30Z,Buffalo Bills at Detroit Lions,Detroit Lions,Buffalo Bills,25,28,0.0
+401437858,2022-11-24T21:30Z,New York Giants at Dallas Cowboys,Dallas Cowboys,New York Giants,28,20,1.0
+401437859,2022-11-25T01:20Z,New England Patriots at Minnesota Vikings,Minnesota Vikings,New England Patriots,33,26,1.0
+401437861,2022-11-27T18:00Z,Tampa Bay Buccaneers at Cleveland Browns,Cleveland Browns,Tampa Bay Buccaneers,23,17,1.0
+401437865,2022-11-27T18:00Z,Cincinnati Bengals at Tennessee Titans,Tennessee Titans,Cincinnati Bengals,16,20,0.0
+401437863,2022-11-27T18:00Z,Houston Texans at Miami Dolphins,Miami Dolphins,Houston Texans,30,15,1.0
+401437864,2022-11-27T18:00Z,Chicago Bears at New York Jets,New York Jets,Chicago Bears,31,10,1.0
+401437866,2022-11-27T18:00Z,Atlanta Falcons at Washington Commanders,Washington Commanders,Atlanta Falcons,19,13,1.0
+401437860,2022-11-27T18:00Z,Denver Broncos at Carolina Panthers,Carolina Panthers,Denver Broncos,23,10,1.0
+401437862,2022-11-27T18:00Z,Baltimore Ravens at Jacksonville Jaguars,Jacksonville Jaguars,Baltimore Ravens,28,27,1.0
+401437867,2022-11-27T21:05Z,Los Angeles Chargers at Arizona Cardinals,Arizona Cardinals,Los Angeles Chargers,24,25,0.0
+401437868,2022-11-27T21:05Z,Las Vegas Raiders at Seattle Seahawks,Seattle Seahawks,Las Vegas Raiders,34,40,0.0
+401437869,2022-11-27T21:25Z,Los Angeles Rams at Kansas City Chiefs,Kansas City Chiefs,Los Angeles Rams,26,10,1.0
+401437870,2022-11-27T21:25Z,New Orleans Saints at San Francisco 49ers,San Francisco 49ers,New Orleans Saints,13,0,1.0
+401437871,2022-11-28T01:20Z,Green Bay Packers at Philadelphia Eagles,Philadelphia Eagles,Green Bay Packers,40,33,1.0
+401437872,2022-11-29T01:15Z,Pittsburgh Steelers at Indianapolis Colts,Indianapolis Colts,Pittsburgh Steelers,17,24,0.0

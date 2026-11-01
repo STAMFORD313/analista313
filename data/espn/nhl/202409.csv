@@ -1,0 +1,72 @@
+id,date,event,home,away,hs,as,res
+401685261,2024-09-21T23:00Z,St. Louis Blues at Dallas Stars,Dallas Stars,St. Louis Blues,2,1,1.0
+401685262,2024-09-21T23:00Z,Pittsburgh Penguins at Buffalo Sabres,Buffalo Sabres,Pittsburgh Penguins,7,3,1.0
+401685260,2024-09-22T00:00Z,Minnesota Wild at Winnipeg Jets,Winnipeg Jets,Minnesota Wild,2,5,0.0
+401685363,2024-09-22T18:00Z,Nashville Predators at Florida Panthers,Florida Panthers,Nashville Predators,3,2,1.0
+401685266,2024-09-22T19:00Z,Philadelphia Flyers at Washington Capitals,Washington Capitals,Philadelphia Flyers,2,6,0.0
+401685264,2024-09-22T21:00Z,New York Rangers at Boston Bruins,Boston Bruins,New York Rangers,2,3,0.0
+401685270,2024-09-22T22:00Z,Winnipeg Jets at Edmonton Oilers,Edmonton Oilers,Winnipeg Jets,3,2,1.0
+401685364,2024-09-22T22:00Z,Nashville Predators at Florida Panthers,Florida Panthers,Nashville Predators,6,2,1.0
+401685263,2024-09-22T23:00Z,New York Islanders at New Jersey Devils,New Jersey Devils,New York Islanders,2,4,0.0
+401685265,2024-09-22T23:00Z,Ottawa Senators at Toronto Maple Leafs,Toronto Maple Leafs,Ottawa Senators,5,6,0.0
+401685267,2024-09-22T23:00Z,St. Louis Blues at Utah Hockey Club,Utah Hockey Club,St. Louis Blues,5,3,1.0
+401685268,2024-09-23T00:00Z,Vegas Golden Knights at San Jose Sharks,San Jose Sharks,Vegas Golden Knights,2,4,0.0
+401685269,2024-09-23T02:00Z,Calgary Flames at Seattle Kraken,Seattle Kraken,Calgary Flames,1,6,0.0
+401685271,2024-09-23T21:00Z,Columbus Blue Jackets at Buffalo Sabres,Buffalo Sabres,Columbus Blue Jackets,6,1,1.0
+401685274,2024-09-23T23:00Z,Philadelphia Flyers at Montreal Canadiens,Montreal Canadiens,Philadelphia Flyers,5,0,1.0
+401685272,2024-09-24T01:00Z,Dallas Stars at Colorado Avalanche,Colorado Avalanche,Dallas Stars,2,3,0.0
+401685273,2024-09-24T01:00Z,Los Angeles Kings at Utah Hockey Club,Utah Hockey Club,Los Angeles Kings,3,2,1.0
+401685361,2024-09-24T01:00Z,Edmonton Oilers at Calgary Flames,Calgary Flames,Edmonton Oilers,6,1,1.0
+401685362,2024-09-24T01:00Z,Calgary Flames at Edmonton Oilers,Edmonton Oilers,Calgary Flames,3,6,0.0
+401685276,2024-09-24T23:00Z,Buffalo Sabres at Pittsburgh Penguins,Pittsburgh Penguins,Buffalo Sabres,2,3,0.0
+401685277,2024-09-24T23:00Z,New Jersey Devils at Montreal Canadiens,Montreal Canadiens,New Jersey Devils,3,0,1.0
+401685278,2024-09-24T23:00Z,New York Islanders at New York Rangers,New York Rangers,New York Islanders,6,4,1.0
+401685279,2024-09-24T23:00Z,Carolina Hurricanes at Tampa Bay Lightning,Tampa Bay Lightning,Carolina Hurricanes,1,2,0.0
+401685281,2024-09-24T23:00Z,Toronto Maple Leafs at Ottawa Senators,Ottawa Senators,Toronto Maple Leafs,2,1,1.0
+401685282,2024-09-24T23:00Z,Washington Capitals at Boston Bruins,Boston Bruins,Washington Capitals,4,2,1.0
+401685275,2024-09-25T02:00Z,Anaheim Ducks at San Jose Sharks,San Jose Sharks,Anaheim Ducks,3,4,0.0
+401685280,2024-09-25T02:00Z,Seattle Kraken at Vancouver Canucks,Vancouver Canucks,Seattle Kraken,3,1,1.0
+401685286,2024-09-25T23:00Z,Florida Panthers at Tampa Bay Lightning,Tampa Bay Lightning,Florida Panthers,8,7,1.0
+401685289,2024-09-25T23:00Z,St. Louis Blues at Columbus Blue Jackets,Columbus Blue Jackets,St. Louis Blues,3,0,1.0
+401685290,2024-09-25T23:00Z,Washington Capitals at New Jersey Devils,New Jersey Devils,Washington Capitals,3,5,0.0
+401685284,2024-09-26T00:00Z,Detroit Red Wings at Chicago Blackhawks,Chicago Blackhawks,Detroit Red Wings,2,4,0.0
+401685285,2024-09-26T00:00Z,Edmonton Oilers at Winnipeg Jets,Winnipeg Jets,Edmonton Oilers,6,1,1.0
+401685288,2024-09-26T00:00Z,Minnesota Wild at Dallas Stars,Dallas Stars,Minnesota Wild,5,2,1.0
+401685283,2024-09-26T02:00Z,Calgary Flames at Vancouver Canucks,Vancouver Canucks,Calgary Flames,4,3,1.0
+401685287,2024-09-26T02:00Z,Los Angeles Kings at Vegas Golden Knights,Vegas Golden Knights,Los Angeles Kings,2,3,0.0
+401685291,2024-09-26T23:00Z,Boston Bruins at New York Rangers,New York Rangers,Boston Bruins,5,2,1.0
+401685292,2024-09-26T23:00Z,Buffalo Sabres at Ottawa Senators,Ottawa Senators,Buffalo Sabres,2,3,0.0
+401685293,2024-09-26T23:00Z,Montreal Canadiens at Toronto Maple Leafs,Toronto Maple Leafs,Montreal Canadiens,2,1,1.0
+401685294,2024-09-26T23:00Z,New York Islanders at Philadelphia Flyers,Philadelphia Flyers,New York Islanders,2,0,1.0
+401685295,2024-09-27T02:00Z,San Jose Sharks at Anaheim Ducks,Anaheim Ducks,San Jose Sharks,2,3,0.0
+401685300,2024-09-27T22:00Z,Florida Panthers at Carolina Hurricanes,Carolina Hurricanes,Florida Panthers,8,2,1.0
+401685296,2024-09-27T23:00Z,Chicago Blackhawks at Detroit Red Wings,Detroit Red Wings,Chicago Blackhawks,2,0,1.0
+401685299,2024-09-27T23:00Z,New Jersey Devils at New York Islanders,New York Islanders,New Jersey Devils,5,1,1.0
+401685302,2024-09-27T23:00Z,Nashville Predators at Tampa Bay Lightning,Tampa Bay Lightning,Nashville Predators,0,0,0.5
+401685297,2024-09-28T00:00Z,Colorado Avalanche at Dallas Stars,Dallas Stars,Colorado Avalanche,4,2,1.0
+401685304,2024-09-28T00:00Z,Winnipeg Jets at Minnesota Wild,Minnesota Wild,Winnipeg Jets,8,5,1.0
+401685298,2024-09-28T00:39Z,Columbus Blue Jackets at Washington Capitals,Washington Capitals,Columbus Blue Jackets,4,8,0.0
+401685301,2024-09-28T02:00Z,Utah Hockey Club at Vegas Golden Knights,Vegas Golden Knights,Utah Hockey Club,5,2,1.0
+401685303,2024-09-28T02:00Z,Vancouver Canucks at Seattle Kraken,Seattle Kraken,Vancouver Canucks,3,1,1.0
+401685305,2024-09-28T22:00Z,Anaheim Ducks at Los Angeles Kings,Los Angeles Kings,Anaheim Ducks,3,2,1.0
+401685309,2024-09-28T22:00Z,Carolina Hurricanes at Florida Panthers,Florida Panthers,Carolina Hurricanes,5,4,1.0
+401685306,2024-09-28T23:00Z,Boston Bruins at Philadelphia Flyers,Philadelphia Flyers,Boston Bruins,3,2,1.0
+401685307,2024-09-28T23:00Z,Buffalo Sabres at Columbus Blue Jackets,Columbus Blue Jackets,Buffalo Sabres,6,3,1.0
+401685308,2024-09-28T23:00Z,Chicago Blackhawks at St. Louis Blues,St. Louis Blues,Chicago Blackhawks,3,2,1.0
+401685313,2024-09-28T23:00Z,Toronto Maple Leafs at Montreal Canadiens,Montreal Canadiens,Toronto Maple Leafs,1,2,0.0
+401685310,2024-09-29T00:00Z,Tampa Bay Lightning at Nashville Predators,Nashville Predators,Tampa Bay Lightning,6,0,1.0
+401685311,2024-09-29T00:30Z,Pittsburgh Penguins at Detroit Red Wings,Detroit Red Wings,Pittsburgh Penguins,0,0,0.5
+401685312,2024-09-29T01:00Z,Seattle Kraken at Edmonton Oilers,Edmonton Oilers,Seattle Kraken,5,4,1.0
+401685314,2024-09-29T01:00Z,Vancouver Canucks at Calgary Flames,Calgary Flames,Vancouver Canucks,4,2,1.0
+401685317,2024-09-29T22:00Z,Dallas Stars at Minnesota Wild,Minnesota Wild,Dallas Stars,2,4,0.0
+401685315,2024-09-29T23:00Z,Pittsburgh Penguins at Ottawa Senators,Ottawa Senators,Pittsburgh Penguins,2,5,0.0
+401685316,2024-09-29T23:00Z,Utah Hockey Club at Colorado Avalanche,Colorado Avalanche,Utah Hockey Club,3,6,0.0
+401685318,2024-09-30T23:00Z,Detroit Red Wings at Buffalo Sabres,Buffalo Sabres,Detroit Red Wings,4,3,1.0
+401685320,2024-09-30T23:00Z,New York Rangers at New Jersey Devils,New Jersey Devils,New York Rangers,3,1,1.0
+401685322,2024-09-30T23:00Z,Tampa Bay Lightning at Florida Panthers,Florida Panthers,Tampa Bay Lightning,1,3,0.0
+401685324,2024-09-30T23:00Z,Washington Capitals at Columbus Blue Jackets,Columbus Blue Jackets,Washington Capitals,2,3,0.0
+401685360,2024-09-30T23:00Z,Philadelphia Flyers at New York Islanders,New York Islanders,Philadelphia Flyers,4,3,1.0
+401726957,2024-09-30T23:00Z,Pittsburgh Penguins at Detroit Red Wings,Detroit Red Wings,Pittsburgh Penguins,1,5,0.0
+401685321,2024-10-01T01:00Z,Seattle Kraken at Calgary Flames,Calgary Flames,Seattle Kraken,4,3,1.0
+401685323,2024-10-01T01:00Z,Vancouver Canucks at Edmonton Oilers,Edmonton Oilers,Vancouver Canucks,3,2,1.0
+401685319,2024-10-01T02:00Z,Los Angeles Kings at Anaheim Ducks,Anaheim Ducks,Los Angeles Kings,0,4,0.0

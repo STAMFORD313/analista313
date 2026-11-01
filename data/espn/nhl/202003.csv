@@ -1,0 +1,230 @@
+id,date,event,home,away,hs,as,res
+401146052,2020-03-01T17:00Z,Philadelphia Flyers at New York Rangers,New York Rangers,Philadelphia Flyers,3,5,0.0
+401146053,2020-03-01T21:00Z,Calgary Flames at Florida Panthers,Florida Panthers,Calgary Flames,0,3,0.0
+401146054,2020-03-02T00:00Z,Vancouver Canucks at Columbus Blue Jackets,Columbus Blue Jackets,Vancouver Canucks,5,3,1.0
+401146055,2020-03-02T01:00Z,Washington Capitals at Minnesota Wild,Minnesota Wild,Washington Capitals,3,4,0.0
+401146056,2020-03-02T01:00Z,New Jersey Devils at Anaheim Ducks,Anaheim Ducks,New Jersey Devils,0,3,0.0
+401146057,2020-03-02T03:30Z,Los Angeles Kings at Vegas Golden Knights,Vegas Golden Knights,Los Angeles Kings,1,4,0.0
+401146058,2020-03-03T00:30Z,Colorado Avalanche at Detroit Red Wings,Detroit Red Wings,Colorado Avalanche,1,2,0.0
+401146059,2020-03-03T01:00Z,Edmonton Oilers at Nashville Predators,Nashville Predators,Edmonton Oilers,3,8,0.0
+401146061,2020-03-04T00:00Z,Montreal Canadiens at New York Islanders,New York Islanders,Montreal Canadiens,2,6,0.0
+401146062,2020-03-04T00:00Z,St. Louis Blues at New York Rangers,New York Rangers,St. Louis Blues,1,3,0.0
+401146063,2020-03-04T00:00Z,Ottawa Senators at Pittsburgh Penguins,Pittsburgh Penguins,Ottawa Senators,7,3,1.0
+401146060,2020-03-04T00:30Z,Boston Bruins at Tampa Bay Lightning,Tampa Bay Lightning,Boston Bruins,1,2,0.0
+401146064,2020-03-04T01:00Z,Nashville Predators at Minnesota Wild,Minnesota Wild,Nashville Predators,3,1,1.0
+401146065,2020-03-04T01:00Z,Buffalo Sabres at Winnipeg Jets,Winnipeg Jets,Buffalo Sabres,3,1,1.0
+401146066,2020-03-04T01:30Z,Anaheim Ducks at Chicago Blackhawks,Chicago Blackhawks,Anaheim Ducks,6,2,1.0
+401146067,2020-03-04T01:30Z,Edmonton Oilers at Dallas Stars,Dallas Stars,Edmonton Oilers,1,2,0.0
+401146068,2020-03-04T03:00Z,New Jersey Devils at Vegas Golden Knights,Vegas Golden Knights,New Jersey Devils,3,0,1.0
+401146069,2020-03-04T03:30Z,Toronto Maple Leafs at San Jose Sharks,San Jose Sharks,Toronto Maple Leafs,5,2,1.0
+401146070,2020-03-05T00:00Z,Philadelphia Flyers at Washington Capitals,Washington Capitals,Philadelphia Flyers,2,5,0.0
+401146071,2020-03-05T01:30Z,Columbus Blue Jackets at Calgary Flames,Calgary Flames,Columbus Blue Jackets,3,2,1.0
+401146072,2020-03-05T02:30Z,Anaheim Ducks at Colorado Avalanche,Colorado Avalanche,Anaheim Ducks,3,4,0.0
+401146073,2020-03-05T03:30Z,Arizona Coyotes at Vancouver Canucks,Vancouver Canucks,Arizona Coyotes,2,4,0.0
+401146074,2020-03-06T00:00Z,Pittsburgh Penguins at Buffalo Sabres,Buffalo Sabres,Pittsburgh Penguins,2,4,0.0
+401146075,2020-03-06T00:00Z,Montreal Canadiens at Tampa Bay Lightning,Tampa Bay Lightning,Montreal Canadiens,4,0,1.0
+401146076,2020-03-06T00:00Z,Boston Bruins at Florida Panthers,Florida Panthers,Boston Bruins,1,2,0.0
+401146077,2020-03-06T00:00Z,Washington Capitals at New York Rangers,New York Rangers,Washington Capitals,6,5,1.0
+401146078,2020-03-06T00:00Z,Carolina Hurricanes at Philadelphia Flyers,Philadelphia Flyers,Carolina Hurricanes,4,1,1.0
+401146079,2020-03-06T00:30Z,New York Islanders at Ottawa Senators,Ottawa Senators,New York Islanders,4,3,1.0
+401146080,2020-03-06T01:00Z,Dallas Stars at Nashville Predators,Nashville Predators,Dallas Stars,2,0,1.0
+401146081,2020-03-06T01:30Z,Edmonton Oilers at Chicago Blackhawks,Chicago Blackhawks,Edmonton Oilers,4,3,1.0
+401146082,2020-03-06T03:30Z,Toronto Maple Leafs at Los Angeles Kings,Los Angeles Kings,Toronto Maple Leafs,1,0,1.0
+401146083,2020-03-06T03:30Z,Minnesota Wild at San Jose Sharks,San Jose Sharks,Minnesota Wild,2,3,0.0
+401146084,2020-03-07T00:00Z,St. Louis Blues at New Jersey Devils,New Jersey Devils,St. Louis Blues,4,2,1.0
+401146085,2020-03-07T00:30Z,Chicago Blackhawks at Detroit Red Wings,Detroit Red Wings,Chicago Blackhawks,2,1,1.0
+401146086,2020-03-07T01:00Z,Vegas Golden Knights at Winnipeg Jets,Winnipeg Jets,Vegas Golden Knights,4,0,1.0
+401146087,2020-03-07T02:00Z,Arizona Coyotes at Calgary Flames,Calgary Flames,Arizona Coyotes,3,2,1.0
+401146088,2020-03-07T03:00Z,Colorado Avalanche at Vancouver Canucks,Vancouver Canucks,Colorado Avalanche,6,3,1.0
+401146089,2020-03-07T03:00Z,Toronto Maple Leafs at Anaheim Ducks,Anaheim Ducks,Toronto Maple Leafs,2,1,1.0
+401146090,2020-03-07T18:00Z,Carolina Hurricanes at New York Islanders,New York Islanders,Carolina Hurricanes,2,3,0.0
+401146091,2020-03-07T18:00Z,Washington Capitals at Pittsburgh Penguins,Pittsburgh Penguins,Washington Capitals,2,5,0.0
+401146092,2020-03-07T19:00Z,Nashville Predators at Dallas Stars,Dallas Stars,Nashville Predators,0,1,0.0
+401146093,2020-03-07T21:00Z,Minnesota Wild at Los Angeles Kings,Los Angeles Kings,Minnesota Wild,7,3,1.0
+401146094,2020-03-08T00:00Z,Tampa Bay Lightning at Boston Bruins,Boston Bruins,Tampa Bay Lightning,3,5,0.0
+401146095,2020-03-08T00:00Z,Montreal Canadiens at Florida Panthers,Florida Panthers,Montreal Canadiens,4,1,1.0
+401146096,2020-03-08T00:00Z,New Jersey Devils at New York Rangers,New York Rangers,New Jersey Devils,4,6,0.0
+401146097,2020-03-08T00:00Z,Buffalo Sabres at Philadelphia Flyers,Philadelphia Flyers,Buffalo Sabres,3,1,1.0
+401146098,2020-03-08T00:00Z,Ottawa Senators at San Jose Sharks,San Jose Sharks,Ottawa Senators,1,2,0.0
+401146099,2020-03-08T03:00Z,Columbus Blue Jackets at Edmonton Oilers,Edmonton Oilers,Columbus Blue Jackets,4,1,1.0
+401146100,2020-03-08T17:30Z,Carolina Hurricanes at Pittsburgh Penguins,Pittsburgh Penguins,Carolina Hurricanes,2,6,0.0
+401146101,2020-03-08T21:00Z,Tampa Bay Lightning at Detroit Red Wings,Detroit Red Wings,Tampa Bay Lightning,5,4,1.0
+401146103,2020-03-08T23:00Z,Vegas Golden Knights at Calgary Flames,Calgary Flames,Vegas Golden Knights,3,5,0.0
+401146102,2020-03-08T23:30Z,St. Louis Blues at Chicago Blackhawks,Chicago Blackhawks,St. Louis Blues,0,2,0.0
+401146104,2020-03-09T01:00Z,Minnesota Wild at Anaheim Ducks,Anaheim Ducks,Minnesota Wild,4,5,0.0
+401146105,2020-03-09T02:00Z,Columbus Blue Jackets at Vancouver Canucks,Vancouver Canucks,Columbus Blue Jackets,1,2,0.0
+401146106,2020-03-09T02:00Z,Colorado Avalanche at San Jose Sharks,San Jose Sharks,Colorado Avalanche,3,4,0.0
+401146107,2020-03-09T23:00Z,Washington Capitals at Buffalo Sabres,Buffalo Sabres,Washington Capitals,3,2,1.0
+401146108,2020-03-10T00:00Z,Arizona Coyotes at Winnipeg Jets,Winnipeg Jets,Arizona Coyotes,4,2,1.0
+401146116,2020-03-10T00:00Z,Florida Panthers at St. Louis Blues,St. Louis Blues,Florida Panthers,1,2,0.0
+401146109,2020-03-10T01:00Z,Vegas Golden Knights at Edmonton Oilers,Edmonton Oilers,Vegas Golden Knights,2,3,0.0
+401146110,2020-03-10T02:30Z,Colorado Avalanche at Los Angeles Kings,Los Angeles Kings,Colorado Avalanche,3,1,1.0
+401146111,2020-03-10T23:00Z,Tampa Bay Lightning at Toronto Maple Leafs,Toronto Maple Leafs,Tampa Bay Lightning,2,1,1.0
+401146112,2020-03-10T23:00Z,Nashville Predators at Montreal Canadiens,Montreal Canadiens,Nashville Predators,2,4,0.0
+401146113,2020-03-10T23:00Z,Pittsburgh Penguins at New Jersey Devils,New Jersey Devils,Pittsburgh Penguins,2,5,0.0
+401146114,2020-03-10T23:00Z,Boston Bruins at Philadelphia Flyers,Philadelphia Flyers,Boston Bruins,0,2,0.0
+401146115,2020-03-10T23:30Z,Carolina Hurricanes at Detroit Red Wings,Detroit Red Wings,Carolina Hurricanes,2,5,0.0
+401146117,2020-03-11T00:30Z,New York Rangers at Dallas Stars,Dallas Stars,New York Rangers,2,4,0.0
+401146118,2020-03-11T02:00Z,New York Islanders at Vancouver Canucks,Vancouver Canucks,New York Islanders,5,4,1.0
+401146119,2020-03-11T02:00Z,Ottawa Senators at Anaheim Ducks,Anaheim Ducks,Ottawa Senators,5,2,1.0
+401146120,2020-03-12T00:00Z,San Jose Sharks at Chicago Blackhawks,Chicago Blackhawks,San Jose Sharks,6,2,1.0
+401146121,2020-03-12T01:00Z,Winnipeg Jets at Edmonton Oilers,Edmonton Oilers,Winnipeg Jets,2,4,0.0
+401145917,2020-03-12T02:00Z,St. Louis Blues at Anaheim Ducks,Anaheim Ducks,St. Louis Blues,2,4,0.0
+401146122,2020-03-12T02:00Z,New York Rangers at Colorado Avalanche,Colorado Avalanche,New York Rangers,3,2,1.0
+401146123,2020-03-12T02:30Z,Ottawa Senators at Los Angeles Kings,Los Angeles Kings,Ottawa Senators,3,2,1.0
+401146124,2020-03-12T23:00Z,Nashville Predators at Toronto Maple Leafs,Toronto Maple Leafs,Nashville Predators,0,0,0.5
+401146125,2020-03-12T23:00Z,Buffalo Sabres at Montreal Canadiens,Montreal Canadiens,Buffalo Sabres,0,0,0.5
+401146126,2020-03-12T23:00Z,Philadelphia Flyers at Tampa Bay Lightning,Tampa Bay Lightning,Philadelphia Flyers,0,0,0.5
+401146127,2020-03-12T23:00Z,Carolina Hurricanes at New Jersey Devils,New Jersey Devils,Carolina Hurricanes,0,0,0.5
+401146128,2020-03-12T23:00Z,Detroit Red Wings at Washington Capitals,Washington Capitals,Detroit Red Wings,0,0,0.5
+401146129,2020-03-12T23:00Z,Pittsburgh Penguins at Columbus Blue Jackets,Columbus Blue Jackets,Pittsburgh Penguins,0,0,0.5
+401146130,2020-03-13T00:00Z,Vegas Golden Knights at Minnesota Wild,Minnesota Wild,Vegas Golden Knights,0,0,0.5
+401146131,2020-03-13T00:30Z,Florida Panthers at Dallas Stars,Dallas Stars,Florida Panthers,0,0,0.5
+401146132,2020-03-13T01:00Z,New York Islanders at Calgary Flames,Calgary Flames,New York Islanders,0,0,0.5
+401146133,2020-03-13T02:00Z,Vancouver Canucks at Arizona Coyotes,Arizona Coyotes,Vancouver Canucks,0,0,0.5
+401146134,2020-03-13T23:00Z,Boston Bruins at Buffalo Sabres,Buffalo Sabres,Boston Bruins,0,0,0.5
+401146135,2020-03-14T00:00Z,San Jose Sharks at St. Louis Blues,St. Louis Blues,San Jose Sharks,0,0,0.5
+401146136,2020-03-14T00:30Z,Ottawa Senators at Chicago Blackhawks,Chicago Blackhawks,Ottawa Senators,0,0,0.5
+401146137,2020-03-14T01:00Z,Vancouver Canucks at Colorado Avalanche,Colorado Avalanche,Vancouver Canucks,0,0,0.5
+401146138,2020-03-14T01:00Z,New York Islanders at Edmonton Oilers,Edmonton Oilers,New York Islanders,0,0,0.5
+401146139,2020-03-14T17:00Z,Minnesota Wild at Philadelphia Flyers,Philadelphia Flyers,Minnesota Wild,0,0,0.5
+401146140,2020-03-14T20:00Z,Detroit Red Wings at Tampa Bay Lightning,Tampa Bay Lightning,Detroit Red Wings,0,0,0.5
+401146141,2020-03-14T20:00Z,Anaheim Ducks at Los Angeles Kings,Los Angeles Kings,Anaheim Ducks,0,0,0.5
+401146142,2020-03-14T23:00Z,Toronto Maple Leafs at Boston Bruins,Boston Bruins,Toronto Maple Leafs,0,0,0.5
+401146143,2020-03-14T23:00Z,New Jersey Devils at Florida Panthers,Florida Panthers,New Jersey Devils,0,0,0.5
+401146144,2020-03-14T23:00Z,Chicago Blackhawks at Washington Capitals,Washington Capitals,Chicago Blackhawks,0,0,0.5
+401146145,2020-03-14T23:00Z,Pittsburgh Penguins at Carolina Hurricanes,Carolina Hurricanes,Pittsburgh Penguins,0,0,0.5
+401146146,2020-03-14T23:00Z,Nashville Predators at Columbus Blue Jackets,Columbus Blue Jackets,Nashville Predators,0,0,0.5
+401146147,2020-03-15T01:00Z,San Jose Sharks at Dallas Stars,Dallas Stars,San Jose Sharks,0,0,0.5
+401146148,2020-03-15T01:00Z,New York Rangers at Arizona Coyotes,Arizona Coyotes,New York Rangers,0,0,0.5
+401146149,2020-03-15T02:00Z,Winnipeg Jets at Calgary Flames,Calgary Flames,Winnipeg Jets,0,0,0.5
+401146150,2020-03-15T17:30Z,Edmonton Oilers at Philadelphia Flyers,Philadelphia Flyers,Edmonton Oilers,0,0,0.5
+401146151,2020-03-15T19:00Z,Ottawa Senators at St. Louis Blues,St. Louis Blues,Ottawa Senators,0,0,0.5
+401146152,2020-03-15T19:00Z,Vegas Golden Knights at Colorado Avalanche,Colorado Avalanche,Vegas Golden Knights,0,0,0.5
+401146153,2020-03-15T20:00Z,Montreal Canadiens at Anaheim Ducks,Anaheim Ducks,Montreal Canadiens,0,0,0.5
+401146154,2020-03-15T21:00Z,Carolina Hurricanes at Buffalo Sabres,Buffalo Sabres,Carolina Hurricanes,0,0,0.5
+401146155,2020-03-15T21:00Z,New Jersey Devils at Tampa Bay Lightning,Tampa Bay Lightning,New Jersey Devils,0,0,0.5
+401146156,2020-03-15T22:00Z,New York Islanders at Pittsburgh Penguins,Pittsburgh Penguins,New York Islanders,0,0,0.5
+401146157,2020-03-15T23:30Z,Nashville Predators at Minnesota Wild,Minnesota Wild,Nashville Predators,0,0,0.5
+401146158,2020-03-16T00:00Z,Winnipeg Jets at Vancouver Canucks,Vancouver Canucks,Winnipeg Jets,0,0,0.5
+401146159,2020-03-16T23:00Z,Columbus Blue Jackets at Boston Bruins,Boston Bruins,Columbus Blue Jackets,0,0,0.5
+401146160,2020-03-16T23:00Z,Calgary Flames at New York Rangers,New York Rangers,Calgary Flames,0,0,0.5
+401146161,2020-03-16T23:00Z,Edmonton Oilers at Washington Capitals,Washington Capitals,Edmonton Oilers,0,0,0.5
+401146162,2020-03-16T23:30Z,Florida Panthers at Detroit Red Wings,Detroit Red Wings,Florida Panthers,0,0,0.5
+401146163,2020-03-17T02:00Z,Dallas Stars at Arizona Coyotes,Arizona Coyotes,Dallas Stars,0,0,0.5
+401146164,2020-03-17T23:00Z,New Jersey Devils at Toronto Maple Leafs,Toronto Maple Leafs,New Jersey Devils,0,0,0.5
+401146165,2020-03-17T23:00Z,Calgary Flames at New York Islanders,New York Islanders,Calgary Flames,0,0,0.5
+401146166,2020-03-17T23:00Z,St. Louis Blues at Philadelphia Flyers,Philadelphia Flyers,St. Louis Blues,0,0,0.5
+401146167,2020-03-17T23:00Z,Buffalo Sabres at Carolina Hurricanes,Carolina Hurricanes,Buffalo Sabres,0,0,0.5
+401146168,2020-03-18T00:00Z,Chicago Blackhawks at Minnesota Wild,Minnesota Wild,Chicago Blackhawks,0,0,0.5
+401146169,2020-03-18T00:00Z,Florida Panthers at Winnipeg Jets,Winnipeg Jets,Florida Panthers,0,0,0.5
+401146170,2020-03-18T01:00Z,San Jose Sharks at Colorado Avalanche,Colorado Avalanche,San Jose Sharks,0,0,0.5
+401146171,2020-03-18T02:00Z,Dallas Stars at Vegas Golden Knights,Vegas Golden Knights,Dallas Stars,0,0,0.5
+401146172,2020-03-18T02:30Z,Montreal Canadiens at Los Angeles Kings,Los Angeles Kings,Montreal Canadiens,0,0,0.5
+401146173,2020-03-18T23:30Z,Edmonton Oilers at Ottawa Senators,Ottawa Senators,Edmonton Oilers,0,0,0.5
+401146174,2020-03-18T23:30Z,Pittsburgh Penguins at New York Rangers,New York Rangers,Pittsburgh Penguins,0,0,0.5
+401146175,2020-03-19T02:00Z,Tampa Bay Lightning at Vancouver Canucks,Vancouver Canucks,Tampa Bay Lightning,0,0,0.5
+401146176,2020-03-19T02:00Z,Vegas Golden Knights at Arizona Coyotes,Arizona Coyotes,Vegas Golden Knights,0,0,0.5
+401146177,2020-03-19T02:00Z,Boston Bruins at Anaheim Ducks,Anaheim Ducks,Boston Bruins,0,0,0.5
+401146178,2020-03-19T23:00Z,New York Islanders at Toronto Maple Leafs,Toronto Maple Leafs,New York Islanders,0,0,0.5
+401146179,2020-03-19T23:00Z,Buffalo Sabres at Florida Panthers,Florida Panthers,Buffalo Sabres,0,0,0.5
+401146180,2020-03-19T23:00Z,Calgary Flames at New Jersey Devils,New Jersey Devils,Calgary Flames,0,0,0.5
+401146181,2020-03-19T23:00Z,St. Louis Blues at Carolina Hurricanes,Carolina Hurricanes,St. Louis Blues,0,0,0.5
+401146182,2020-03-19T23:00Z,Washington Capitals at Columbus Blue Jackets,Columbus Blue Jackets,Washington Capitals,0,0,0.5
+401146183,2020-03-20T00:00Z,Colorado Avalanche at Nashville Predators,Nashville Predators,Colorado Avalanche,0,0,0.5
+401146184,2020-03-20T00:30Z,Minnesota Wild at Chicago Blackhawks,Chicago Blackhawks,Minnesota Wild,0,0,0.5
+401146185,2020-03-20T02:30Z,Boston Bruins at Los Angeles Kings,Los Angeles Kings,Boston Bruins,0,0,0.5
+401146186,2020-03-20T02:30Z,Montreal Canadiens at San Jose Sharks,San Jose Sharks,Montreal Canadiens,0,0,0.5
+401146187,2020-03-20T23:00Z,New York Rangers at Pittsburgh Penguins,Pittsburgh Penguins,New York Rangers,0,0,0.5
+401146188,2020-03-20T23:00Z,Ottawa Senators at Washington Capitals,Washington Capitals,Ottawa Senators,0,0,0.5
+401146189,2020-03-21T00:00Z,Minnesota Wild at Winnipeg Jets,Winnipeg Jets,Minnesota Wild,0,0,0.5
+401146190,2020-03-21T00:30Z,Philadelphia Flyers at Dallas Stars,Dallas Stars,Philadelphia Flyers,0,0,0.5
+401146191,2020-03-21T01:00Z,Tampa Bay Lightning at Edmonton Oilers,Edmonton Oilers,Tampa Bay Lightning,0,0,0.5
+401146192,2020-03-21T02:00Z,Vancouver Canucks at Anaheim Ducks,Anaheim Ducks,Vancouver Canucks,0,0,0.5
+401146193,2020-03-21T02:30Z,Detroit Red Wings at Arizona Coyotes,Arizona Coyotes,Detroit Red Wings,0,0,0.5
+401146194,2020-03-21T18:00Z,Chicago Blackhawks at Buffalo Sabres,Buffalo Sabres,Chicago Blackhawks,0,0,0.5
+401146195,2020-03-21T23:00Z,Columbus Blue Jackets at Toronto Maple Leafs,Toronto Maple Leafs,Columbus Blue Jackets,0,0,0.5
+401146196,2020-03-21T23:00Z,St. Louis Blues at Florida Panthers,Florida Panthers,St. Louis Blues,0,0,0.5
+401146197,2020-03-21T23:00Z,New York Islanders at New Jersey Devils,New Jersey Devils,New York Islanders,0,0,0.5
+401146198,2020-03-21T23:00Z,Ottawa Senators at Carolina Hurricanes,Carolina Hurricanes,Ottawa Senators,0,0,0.5
+401146199,2020-03-21T23:00Z,Montreal Canadiens at Colorado Avalanche,Colorado Avalanche,Montreal Canadiens,0,0,0.5
+401146200,2020-03-22T00:00Z,Philadelphia Flyers at Nashville Predators,Nashville Predators,Philadelphia Flyers,0,0,0.5
+401146201,2020-03-22T02:00Z,Tampa Bay Lightning at Calgary Flames,Calgary Flames,Tampa Bay Lightning,0,0,0.5
+401146202,2020-03-22T02:00Z,Detroit Red Wings at Vegas Golden Knights,Vegas Golden Knights,Detroit Red Wings,0,0,0.5
+401146203,2020-03-22T02:00Z,Vancouver Canucks at Los Angeles Kings,Los Angeles Kings,Vancouver Canucks,0,0,0.5
+401146204,2020-03-22T02:30Z,Boston Bruins at San Jose Sharks,San Jose Sharks,Boston Bruins,0,0,0.5
+401146205,2020-03-22T16:00Z,Washington Capitals at Pittsburgh Penguins,Pittsburgh Penguins,Washington Capitals,0,0,0.5
+401146206,2020-03-22T19:00Z,New York Rangers at Buffalo Sabres,Buffalo Sabres,New York Rangers,0,0,0.5
+401146207,2020-03-22T21:00Z,Carolina Hurricanes at New York Islanders,New York Islanders,Carolina Hurricanes,0,0,0.5
+401146208,2020-03-22T23:00Z,Nashville Predators at Chicago Blackhawks,Chicago Blackhawks,Nashville Predators,0,0,0.5
+401146209,2020-03-22T23:00Z,Winnipeg Jets at Dallas Stars,Dallas Stars,Winnipeg Jets,0,0,0.5
+401146210,2020-03-23T02:00Z,Arizona Coyotes at Los Angeles Kings,Los Angeles Kings,Arizona Coyotes,0,0,0.5
+401146211,2020-03-23T23:00Z,Florida Panthers at Toronto Maple Leafs,Toronto Maple Leafs,Florida Panthers,0,0,0.5
+401146212,2020-03-23T23:00Z,Columbus Blue Jackets at New Jersey Devils,New Jersey Devils,Columbus Blue Jackets,0,0,0.5
+401146213,2020-03-24T00:00Z,Colorado Avalanche at Minnesota Wild,Minnesota Wild,Colorado Avalanche,0,0,0.5
+401146214,2020-03-24T01:00Z,San Jose Sharks at Calgary Flames,Calgary Flames,San Jose Sharks,0,0,0.5
+401146215,2020-03-24T01:00Z,Anaheim Ducks at Edmonton Oilers,Edmonton Oilers,Anaheim Ducks,0,0,0.5
+401146216,2020-03-24T02:00Z,Vancouver Canucks at Vegas Golden Knights,Vegas Golden Knights,Vancouver Canucks,0,0,0.5
+401146217,2020-03-24T23:00Z,Detroit Red Wings at Boston Bruins,Boston Bruins,Detroit Red Wings,0,0,0.5
+401146218,2020-03-24T23:00Z,Buffalo Sabres at Montreal Canadiens,Montreal Canadiens,Buffalo Sabres,0,0,0.5
+401146219,2020-03-24T23:00Z,Columbus Blue Jackets at New York Rangers,New York Rangers,Columbus Blue Jackets,0,0,0.5
+401146220,2020-03-24T23:00Z,New York Islanders at Philadelphia Flyers,Philadelphia Flyers,New York Islanders,0,0,0.5
+401146221,2020-03-24T23:00Z,Carolina Hurricanes at Pittsburgh Penguins,Pittsburgh Penguins,Carolina Hurricanes,0,0,0.5
+401146222,2020-03-24T23:00Z,St. Louis Blues at Washington Capitals,Washington Capitals,St. Louis Blues,0,0,0.5
+401146223,2020-03-24T23:30Z,Florida Panthers at Ottawa Senators,Ottawa Senators,Florida Panthers,0,0,0.5
+401146224,2020-03-25T00:00Z,Winnipeg Jets at Nashville Predators,Nashville Predators,Winnipeg Jets,0,0,0.5
+401146225,2020-03-25T00:30Z,Los Angeles Kings at Dallas Stars,Dallas Stars,Los Angeles Kings,0,0,0.5
+401146226,2020-03-25T23:00Z,Toronto Maple Leafs at Tampa Bay Lightning,Tampa Bay Lightning,Toronto Maple Leafs,0,0,0.5
+401146227,2020-03-26T00:00Z,Pittsburgh Penguins at Chicago Blackhawks,Chicago Blackhawks,Pittsburgh Penguins,0,0,0.5
+401146228,2020-03-26T01:30Z,Anaheim Ducks at Calgary Flames,Calgary Flames,Anaheim Ducks,0,0,0.5
+401146229,2020-03-26T01:30Z,Colorado Avalanche at Edmonton Oilers,Edmonton Oilers,Colorado Avalanche,0,0,0.5
+401146230,2020-03-26T02:00Z,San Jose Sharks at Vancouver Canucks,Vancouver Canucks,San Jose Sharks,0,0,0.5
+401146231,2020-03-26T02:30Z,Arizona Coyotes at Vegas Golden Knights,Vegas Golden Knights,Arizona Coyotes,0,0,0.5
+401146232,2020-03-26T23:00Z,Ottawa Senators at Boston Bruins,Boston Bruins,Ottawa Senators,0,0,0.5
+401146233,2020-03-26T23:00Z,Florida Panthers at Montreal Canadiens,Montreal Canadiens,Florida Panthers,0,0,0.5
+401146234,2020-03-26T23:00Z,Buffalo Sabres at New York Islanders,New York Islanders,Buffalo Sabres,0,0,0.5
+401146235,2020-03-26T23:00Z,New York Rangers at Washington Capitals,Washington Capitals,New York Rangers,0,0,0.5
+401146236,2020-03-26T23:00Z,Toronto Maple Leafs at Carolina Hurricanes,Carolina Hurricanes,Toronto Maple Leafs,0,0,0.5
+401146237,2020-03-26T23:30Z,Philadelphia Flyers at Detroit Red Wings,Detroit Red Wings,Philadelphia Flyers,0,0,0.5
+401146238,2020-03-27T00:00Z,Los Angeles Kings at Nashville Predators,Nashville Predators,Los Angeles Kings,0,0,0.5
+401146239,2020-03-27T00:00Z,New Jersey Devils at Minnesota Wild,Minnesota Wild,New Jersey Devils,0,0,0.5
+401146240,2020-03-27T23:00Z,Columbus Blue Jackets at Tampa Bay Lightning,Tampa Bay Lightning,Columbus Blue Jackets,0,0,0.5
+401146241,2020-03-28T00:00Z,Los Angeles Kings at St. Louis Blues,St. Louis Blues,Los Angeles Kings,0,0,0.5
+401146242,2020-03-28T00:00Z,Colorado Avalanche at Winnipeg Jets,Winnipeg Jets,Colorado Avalanche,0,0,0.5
+401146243,2020-03-28T00:30Z,Dallas Stars at Chicago Blackhawks,Chicago Blackhawks,Dallas Stars,0,0,0.5
+401146244,2020-03-28T01:00Z,San Jose Sharks at Edmonton Oilers,Edmonton Oilers,San Jose Sharks,0,0,0.5
+401146245,2020-03-28T02:00Z,Calgary Flames at Vancouver Canucks,Vancouver Canucks,Calgary Flames,0,0,0.5
+401146247,2020-03-28T17:00Z,Pittsburgh Penguins at Carolina Hurricanes,Carolina Hurricanes,Pittsburgh Penguins,0,0,0.5
+401146246,2020-03-28T18:00Z,Philadelphia Flyers at New Jersey Devils,New Jersey Devils,Philadelphia Flyers,0,0,0.5
+401146248,2020-03-28T23:00Z,Florida Panthers at Boston Bruins,Boston Bruins,Florida Panthers,0,0,0.5
+401146249,2020-03-28T23:00Z,New York Islanders at Montreal Canadiens,Montreal Canadiens,New York Islanders,0,0,0.5
+401146250,2020-03-28T23:00Z,Toronto Maple Leafs at Ottawa Senators,Ottawa Senators,Toronto Maple Leafs,0,0,0.5
+401146251,2020-03-28T23:00Z,Washington Capitals at Detroit Red Wings,Detroit Red Wings,Washington Capitals,0,0,0.5
+401146252,2020-03-28T23:00Z,New York Rangers at Tampa Bay Lightning,Tampa Bay Lightning,New York Rangers,0,0,0.5
+401146253,2020-03-29T00:00Z,Columbus Blue Jackets at Dallas Stars,Dallas Stars,Columbus Blue Jackets,0,0,0.5
+401146254,2020-03-29T00:00Z,Buffalo Sabres at Minnesota Wild,Minnesota Wild,Buffalo Sabres,0,0,0.5
+401146255,2020-03-29T01:00Z,Nashville Predators at Arizona Coyotes,Arizona Coyotes,Nashville Predators,0,0,0.5
+401146256,2020-03-29T02:00Z,Anaheim Ducks at Vancouver Canucks,Vancouver Canucks,Anaheim Ducks,0,0,0.5
+401146257,2020-03-29T16:00Z,Pittsburgh Penguins at Philadelphia Flyers,Philadelphia Flyers,Pittsburgh Penguins,0,0,0.5
+401146258,2020-03-29T19:00Z,Carolina Hurricanes at New Jersey Devils,New Jersey Devils,Carolina Hurricanes,0,0,0.5
+401146259,2020-03-29T19:00Z,Los Angeles Kings at Chicago Blackhawks,Chicago Blackhawks,Los Angeles Kings,0,0,0.5
+401146260,2020-03-29T19:00Z,Vegas Golden Knights at Winnipeg Jets,Winnipeg Jets,Vegas Golden Knights,0,0,0.5
+401146261,2020-03-29T23:00Z,Minnesota Wild at St. Louis Blues,St. Louis Blues,Minnesota Wild,0,0,0.5
+401146262,2020-03-30T00:00Z,Anaheim Ducks at Edmonton Oilers,Edmonton Oilers,Anaheim Ducks,0,0,0.5
+401146263,2020-03-30T01:30Z,Nashville Predators at Colorado Avalanche,Colorado Avalanche,Nashville Predators,0,0,0.5
+401146264,2020-03-30T02:00Z,Arizona Coyotes at San Jose Sharks,San Jose Sharks,Arizona Coyotes,0,0,0.5
+401146265,2020-03-30T23:00Z,Washington Capitals at Buffalo Sabres,Buffalo Sabres,Washington Capitals,0,0,0.5
+401146266,2020-03-30T23:00Z,New York Rangers at Florida Panthers,Florida Panthers,New York Rangers,0,0,0.5
+401146267,2020-03-30T23:00Z,New York Islanders at Columbus Blue Jackets,Columbus Blue Jackets,New York Islanders,0,0,0.5
+401146268,2020-03-31T00:30Z,Vancouver Canucks at Dallas Stars,Dallas Stars,Vancouver Canucks,0,0,0.5
+401146269,2020-03-31T23:00Z,Ottawa Senators at Tampa Bay Lightning,Tampa Bay Lightning,Ottawa Senators,0,0,0.5
+401146270,2020-03-31T23:00Z,Minnesota Wild at New York Islanders,New York Islanders,Minnesota Wild,0,0,0.5
+401146271,2020-03-31T23:00Z,New Jersey Devils at Pittsburgh Penguins,Pittsburgh Penguins,New Jersey Devils,0,0,0.5
+401146272,2020-03-31T23:00Z,Toronto Maple Leafs at Washington Capitals,Washington Capitals,Toronto Maple Leafs,0,0,0.5
+401146273,2020-03-31T23:00Z,Boston Bruins at Carolina Hurricanes,Carolina Hurricanes,Boston Bruins,0,0,0.5
+401146274,2020-04-01T00:00Z,Detroit Red Wings at St. Louis Blues,St. Louis Blues,Detroit Red Wings,0,0,0.5
+401146275,2020-04-01T00:30Z,Montreal Canadiens at Chicago Blackhawks,Chicago Blackhawks,Montreal Canadiens,0,0,0.5
+401146276,2020-04-01T01:00Z,Arizona Coyotes at Colorado Avalanche,Colorado Avalanche,Arizona Coyotes,0,0,0.5
+401146277,2020-04-01T01:00Z,Winnipeg Jets at Calgary Flames,Calgary Flames,Winnipeg Jets,0,0,0.5
+401146278,2020-04-01T01:00Z,Vegas Golden Knights at Edmonton Oilers,Edmonton Oilers,Vegas Golden Knights,0,0,0.5
+401146279,2020-04-01T02:30Z,San Jose Sharks at Los Angeles Kings,Los Angeles Kings,San Jose Sharks,0,0,0.5

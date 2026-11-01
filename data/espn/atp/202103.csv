@@ -1,0 +1,471 @@
+id,date,event,home,away,hs,as,res
+129790,2021-02-27T20:00Z,Argentina Open,Ernesto Escobedo,Leonardo Mayer,,,1.0
+123784,2021-02-28T15:30Z,Argentina Open,Juan Pablo Varillas,Daniel Altmaier,,,0.0
+106747,2021-03-01T16:05Z,Argentina Open,Marco Cecchinato,Laslo Djere,,,0.0
+106752,2021-03-01T18:40Z,Argentina Open,Dominik Koepfer,Thiago Agustin Tirante,,,1.0
+106746,2021-03-01T21:00Z,Argentina Open,Pablo Andujar,Juan Ignacio Londero,,,1.0
+123535,2021-03-01T23:00Z,Argentina Open,Roberto Carballes Baena,Thiago Monteiro,,,0.0
+106742,2021-03-01T23:05Z,Argentina Open,Roberto Carballes Baena,Thiago Monteiro,,,0.0
+106739,2021-03-02T14:30Z,Argentina Open,Andrej Martin,Lukas Klein,,,0.0
+106745,2021-03-02T14:30Z,Argentina Open,Gianluca Mager,Salvatore Caruso,,,1.0
+106753,2021-03-02T16:10Z,Argentina Open,João Sousa,Sumit Nagal,,,0.0
+106743,2021-03-02T16:35Z,Argentina Open,Facundo Diaz Acosta,Jaume Munar,,,0.0
+106744,2021-03-02T18:50Z,Argentina Open,Francisco Cerundolo,Federico Coria,,,1.0
+106749,2021-03-02T19:30Z,Argentina Open,Albert Ramos-Vinolas,Holger Rune,,,1.0
+123164,2021-03-02T19:30Z,Argentina Open,Albert Ramos-Vinolas,Holger Rune,,,1.0
+106738,2021-03-02T21:05Z,Argentina Open,Facundo Bagnis,Frances Tiafoe,,,0.0
+106740,2021-03-02T23:00Z,Argentina Open,Federico Delbonis,Juan Manuel Cerundolo,,,1.0
+106760,2021-03-03T16:00Z,Argentina Open,Miomir Kecmanovic,Thiago Monteiro,,,1.0
+123183,2021-03-03T17:30Z,Argentina Open,Albert Ramos-Vinolas,Dominik Koepfer,,,1.0
+106756,2021-03-03T18:35Z,Argentina Open,Albert Ramos-Vinolas,Dominik Koepfer,,,1.0
+106757,2021-03-03T21:00Z,Argentina Open,Federico Delbonis,Laslo Djere,,,0.0
+106758,2021-03-03T23:20Z,Argentina Open,Sumit Nagal,Cristian Garin,,,1.0
+106759,2021-03-04T16:00Z,Argentina Open,Pablo Andujar,Gianluca Mager,,,1.0
+106755,2021-03-04T18:25Z,Argentina Open,Francisco Cerundolo,Benoit Paire,,,1.0
+106751,2021-03-04T21:05Z,Argentina Open,Jaume Munar,Frances Tiafoe,,,1.0
+106754,2021-03-04T23:45Z,Argentina Open,Diego Schwartzman,Lukas Klein,,,1.0
+123191,2021-03-05T16:00Z,Argentina Open,Albert Ramos-Vinolas,Sumit Nagal,,,1.0
+106764,2021-03-05T16:05Z,Argentina Open,Albert Ramos-Vinolas,Sumit Nagal,,,1.0
+106765,2021-03-05T18:50Z,Argentina Open,Pablo Andujar,Francisco Cerundolo,,,0.0
+106766,2021-03-05T21:20Z,Argentina Open,Miomir Kecmanovic,Laslo Djere,,,1.0
+106767,2021-03-05T23:50Z,Argentina Open,Diego Schwartzman,Jaume Munar,,,1.0
+106762,2021-03-06T15:05Z,Argentina Open,Francisco Cerundolo,Albert Ramos-Vinolas,,,1.0
+106763,2021-03-06T18:00Z,Argentina Open,Diego Schwartzman,Miomir Kecmanovic,,,1.0
+106761,2021-03-07T18:05Z,Argentina Open,Diego Schwartzman,Francisco Cerundolo,,,1.0
+106656,2021-03-01T12:05Z,ABN AMRO World Tennis Tournament,Nikoloz Basilashvili,Cameron Norrie,,,0.0
+106644,2021-03-01T13:35Z,ABN AMRO World Tennis Tournament,Kei Nishikori,Felix Auger-Aliassime,,,1.0
+106650,2021-03-01T18:35Z,ABN AMRO World Tennis Tournament,Robin Haase,Andy Murray,,,0.0
+106651,2021-03-01T21:25Z,ABN AMRO World Tennis Tournament,Marton Fucsovics,Reilly Opelka,,,1.0
+106646,2021-03-02T10:05Z,ABN AMRO World Tennis Tournament,Alex de Minaur,John Millman,,,1.0
+106655,2021-03-02T11:40Z,ABN AMRO World Tennis Tournament,Marcos Giron,Andrey Rublev,,,0.0
+106654,2021-03-02T12:00Z,ABN AMRO World Tennis Tournament,Hubert Hurkacz,Adrian Mannarino,,,1.0
+106653,2021-03-02T13:30Z,ABN AMRO World Tennis Tournament,Stan Wawrinka,Karen Khachanov,,,0.0
+106649,2021-03-02T14:00Z,ABN AMRO World Tennis Tournament,Jeremy Chardy,Ugo Humbert,,,1.0
+106657,2021-03-02T18:35Z,ABN AMRO World Tennis Tournament,Egor Gerasimov,Stefanos Tsitsipas,,,0.0
+106658,2021-03-02T20:50Z,ABN AMRO World Tennis Tournament,Borna Coric,Botic Van De Zandschulp,,,1.0
+106648,2021-03-03T10:00Z,ABN AMRO World Tennis Tournament,Tommy Paul,Lorenzo Sonego,,,1.0
+106645,2021-03-03T10:05Z,ABN AMRO World Tennis Tournament,Alexander Zverev,Alexander Bublik,,,0.0
+106659,2021-03-03T11:45Z,ABN AMRO World Tennis Tournament,Daniil Medvedev,Dusan Lajovic,,,0.0
+106647,2021-03-03T12:15Z,ABN AMRO World Tennis Tournament,David Goffin,Jan-Lennard Struff,,,1.0
+106660,2021-03-03T13:40Z,ABN AMRO World Tennis Tournament,Alex de Minaur,Kei Nishikori,,,0.0
+106652,2021-03-03T15:05Z,ABN AMRO World Tennis Tournament,Alejandro Davidovich Fokina,Roberto Bautista Agut,,,1.0
+106662,2021-03-03T18:35Z,ABN AMRO World Tennis Tournament,Andy Murray,Andrey Rublev,,,0.0
+106668,2021-03-03T20:30Z,ABN AMRO World Tennis Tournament,Karen Khachanov,Cameron Norrie,,,1.0
+106667,2021-03-04T10:05Z,ABN AMRO World Tennis Tournament,David Goffin,Jeremy Chardy,,,0.0
+106666,2021-03-04T12:05Z,ABN AMRO World Tennis Tournament,Alexander Bublik,Tommy Paul,,,0.0
+106664,2021-03-04T14:05Z,ABN AMRO World Tennis Tournament,Hubert Hurkacz,Stefanos Tsitsipas,,,0.0
+106661,2021-03-04T18:35Z,ABN AMRO World Tennis Tournament,Dusan Lajovic,Borna Coric,,,0.0
+106663,2021-03-04T20:05Z,ABN AMRO World Tennis Tournament,Marton Fucsovics,Alejandro Davidovich Fokina,,,1.0
+106672,2021-03-05T12:05Z,ABN AMRO World Tennis Tournament,Karen Khachanov,Stefanos Tsitsipas,,,0.0
+106674,2021-03-05T15:05Z,ABN AMRO World Tennis Tournament,Jeremy Chardy,Andrey Rublev,,,0.0
+106665,2021-03-05T19:30Z,ABN AMRO World Tennis Tournament,Borna Coric,Kei Nishikori,,,1.0
+106670,2021-03-05T21:50Z,ABN AMRO World Tennis Tournament,Tommy Paul,Marton Fucsovics,,,0.0
+106673,2021-03-06T14:10Z,ABN AMRO World Tennis Tournament,Andrey Rublev,Stefanos Tsitsipas,,,1.0
+106671,2021-03-06T18:35Z,ABN AMRO World Tennis Tournament,Borna Coric,Marton Fucsovics,,,0.0
+106669,2021-03-07T14:35Z,ABN AMRO World Tennis Tournament,Marton Fucsovics,Andrey Rublev,,,0.0
+123800,2021-03-06T13:00Z,Chile Dove Men+Care Open,Juan Pablo Varillas,Christian Lindell,,,1.0
+122872,2021-03-06T14:30Z,Chile Dove Men+Care Open,Holger Rune,Gonzalo Oliveira,,,1.0
+117683,2021-03-06T16:00Z,Chile Dove Men+Care Open,Elliot Benchetrit,Thomaz Bellucci,,,0.0
+123793,2021-03-07T14:00Z,Chile Dove Men+Care Open,Juan Pablo Varillas,Geoffrey Blancaneaux,,,1.0
+122879,2021-03-08T14:00Z,Chile Dove Men+Care Open,Holger Rune,Renzo Olivo,,,1.0
+123802,2021-03-08T15:30Z,Chile Dove Men+Care Open,Juan Pablo Varillas,Felipe Meligeni Alves,,,1.0
+106903,2021-03-08T15:30Z,Chile Dove Men+Care Open,Pedro Sousa,Leonardo Mayer,,,1.0
+106904,2021-03-08T16:45Z,Chile Dove Men+Care Open,Facundo Bagnis,Marco Cecchinato,,,1.0
+123749,2021-03-08T17:00Z,Chile Dove Men+Care Open,Daniel Elahi Galan,Daniel Altmaier,,,1.0
+106900,2021-03-08T17:10Z,Chile Dove Men+Care Open,Daniel Elahi Galan,Daniel Altmaier,,,1.0
+123592,2021-03-08T18:00Z,Chile Dove Men+Care Open,Roberto Carballes Baena,Salvatore Caruso,,,1.0
+106898,2021-03-08T19:50Z,Chile Dove Men+Care Open,Roberto Carballes Baena,Salvatore Caruso,,,1.0
+106901,2021-03-08T22:30Z,Chile Dove Men+Care Open,Frances Tiafoe,Nicolas Jarry,,,1.0
+106895,2021-03-09T14:00Z,Chile Dove Men+Care Open,Gianluca Mager,Federico Coria,,,0.0
+106905,2021-03-09T15:00Z,Chile Dove Men+Care Open,Federico Delbonis,Jaume Munar,,,1.0
+106896,2021-03-09T17:30Z,Chile Dove Men+Care Open,Jozef Kovalik,Alejandro Tabilo,,,0.0
+122875,2021-03-09T18:00Z,Chile Dove Men+Care Open,Holger Rune,Sebastian Baez,,,1.0
+106893,2021-03-09T18:10Z,Chile Dove Men+Care Open,João Sousa,Juan Pablo Varillas,,,0.0
+106909,2021-03-09T19:35Z,Chile Dove Men+Care Open,Holger Rune,Sebastian Baez,,,1.0
+106908,2021-03-09T19:50Z,Chile Dove Men+Care Open,Francisco Cerundolo,Andrej Martin,,,0.0
+106897,2021-03-09T22:30Z,Chile Dove Men+Care Open,Gonzalo Lama,Juan Manuel Cerundolo,,,0.0
+106910,2021-03-10T14:00Z,Chile Dove Men+Care Open,Pedro Sousa,Laslo Djere,,,0.0
+106916,2021-03-10T16:45Z,Chile Dove Men+Care Open,Frances Tiafoe,Facundo Bagnis,,,0.0
+106915,2021-03-10T19:05Z,Chile Dove Men+Care Open,Federico Delbonis,Andrej Martin,,,1.0
+106911,2021-03-10T22:30Z,Chile Dove Men+Care Open,Holger Rune,Benoit Paire,,,1.0
+122870,2021-03-10T22:30Z,Chile Dove Men+Care Open,Holger Rune,Benoit Paire,,,1.0
+106913,2021-03-11T14:00Z,Chile Dove Men+Care Open,Pablo Andujar,Daniel Elahi Galan,,,0.0
+106914,2021-03-11T16:30Z,Chile Dove Men+Care Open,Juan Manuel Cerundolo,Roberto Carballes Baena,,,0.0
+123792,2021-03-11T18:00Z,Chile Dove Men+Care Open,Juan Pablo Varillas,Federico Coria,,,1.0
+106912,2021-03-11T18:15Z,Chile Dove Men+Care Open,Juan Pablo Varillas,Federico Coria,,,1.0
+106907,2021-03-11T22:30Z,Chile Dove Men+Care Open,Cristian Garin,Alejandro Tabilo,,,1.0
+106917,2021-03-12T14:05Z,Chile Dove Men+Care Open,Facundo Bagnis,Laslo Djere,,,1.0
+106919,2021-03-12T16:35Z,Chile Dove Men+Care Open,Federico Delbonis,Holger Rune,,,1.0
+106918,2021-03-12T19:00Z,Chile Dove Men+Care Open,Cristian Garin,Juan Pablo Varillas,,,1.0
+123779,2021-03-12T21:00Z,Chile Dove Men+Care Open,Daniel Elahi Galan,Roberto Carballes Baena,,,1.0
+106920,2021-03-12T21:00Z,Chile Dove Men+Care Open,Daniel Elahi Galan,Roberto Carballes Baena,,,1.0
+106922,2021-03-13T20:00Z,Chile Dove Men+Care Open,Facundo Bagnis,Federico Delbonis,,,1.0
+106923,2021-03-13T22:05Z,Chile Dove Men+Care Open,Cristian Garin,Daniel Elahi Galan,,,1.0
+106921,2021-03-14T19:05Z,Chile Dove Men+Care Open,Cristian Garin,Facundo Bagnis,,,1.0
+124088,2021-03-07T07:50Z,Dubai Duty Free Tennis Championships,Lesley Pattinama Kerkhove,Tereza Martincova,,,0.0
+120548,2021-03-07T15:05Z,Dubai Duty Free Tennis Championships,Coco Gauff,Ekaterina Alexandrova,,,1.0
+120507,2021-03-10T12:15Z,Dubai Duty Free Tennis Championships,Coco Gauff,Tereza Martincova,,,1.0
+128073,2021-03-13T08:30Z,Dubai Duty Free Tennis Championships,Omar Bahrouzyan Al Awadhi,Bernabe Zapata Miralles,,,0.0
+123286,2021-03-13T10:00Z,Dubai Duty Free Tennis Championships,Lloyd Harris,Teymuraz Gabashvili,,,1.0
+123287,2021-03-14T08:30Z,Dubai Duty Free Tennis Championships,Lloyd Harris,Blaz Rola,,,1.0
+106965,2021-03-14T10:05Z,Dubai Duty Free Tennis Championships,Kei Nishikori,Reilly Opelka,,,1.0
+106970,2021-03-14T10:50Z,Dubai Duty Free Tennis Championships,Jeremy Chardy,Albert Ramos-Vinolas,,,1.0
+106972,2021-03-14T12:00Z,Dubai Duty Free Tennis Championships,Aslan Karatsev,Egor Gerasimov,,,1.0
+106975,2021-03-14T13:10Z,Dubai Duty Free Tennis Championships,Yoshihito Nishioka,Alexander Bublik,,,0.0
+106978,2021-03-14T15:05Z,Dubai Duty Free Tennis Championships,Malek Jaziri,Jo-Wilfried Tsonga,,,1.0
+106971,2021-03-14T16:15Z,Dubai Duty Free Tennis Championships,Alexei Popyrin,Dennis Novak,,,1.0
+106958,2021-03-15T09:05Z,Dubai Duty Free Tennis Championships,Alejandro Davidovich Fokina,Radu Albot,,,1.0
+106964,2021-03-15T09:05Z,Dubai Duty Free Tennis Championships,Jan-Lennard Struff,Mikhail Kukushkin,,,1.0
+106976,2021-03-15T10:05Z,Dubai Duty Free Tennis Championships,Bernabe Zapata Miralles,John Millman,,,1.0
+106957,2021-03-15T10:35Z,Dubai Duty Free Tennis Championships,Yuki Bhambri,Aljaz Bedene,,,0.0
+106959,2021-03-15T10:40Z,Dubai Duty Free Tennis Championships,Christopher O'Connell,Lloyd Harris,,,0.0
+106961,2021-03-15T12:05Z,Dubai Duty Free Tennis Championships,Richard Gasquet,Marco Cecchinato,,,1.0
+107007,2021-03-15T13:00Z,Dubai Duty Free Tennis Championships,Emil Ruusuvuori,Jordan Thompson,,,1.0
+107000,2021-03-15T15:05Z,Dubai Duty Free Tennis Championships,Alex de Minaur,Jeremy Chardy,,,0.0
+106980,2021-03-15T17:05Z,Dubai Duty Free Tennis Championships,Vasek Pospisil,Marton Fucsovics,,,0.0
+106998,2021-03-16T09:05Z,Dubai Duty Free Tennis Championships,Lorenzo Sonego,Bernabe Zapata Miralles,,,1.0
+107001,2021-03-16T09:05Z,Dubai Duty Free Tennis Championships,Richard Gasquet,Hubert Hurkacz,,,0.0
+106997,2021-03-16T09:05Z,Dubai Duty Free Tennis Championships,Aslan Karatsev,Daniel Evans,,,1.0
+107010,2021-03-16T10:05Z,Dubai Duty Free Tennis Championships,Denis Shapovalov,Jan-Lennard Struff,,,1.0
+106996,2021-03-16T10:35Z,Dubai Duty Free Tennis Championships,Jannik Sinner,Alexander Bublik,,,1.0
+106999,2021-03-16T10:35Z,Dubai Duty Free Tennis Championships,Alexei Popyrin,Karen Khachanov,,,0.0
+106993,2021-03-16T11:45Z,Dubai Duty Free Tennis Championships,Malek Jaziri,Dusan Lajovic,,,0.0
+106992,2021-03-16T12:05Z,Dubai Duty Free Tennis Championships,Emil Ruusuvuori,Andrey Rublev,,,0.0
+107003,2021-03-16T12:50Z,Dubai Duty Free Tennis Championships,Lorenzo Giustino,Aljaz Bedene,,,0.0
+106995,2021-03-16T13:05Z,Dubai Duty Free Tennis Championships,Matthew Ebden,Roberto Bautista Agut,,,0.0
+106994,2021-03-16T13:10Z,Dubai Duty Free Tennis Championships,Pablo Carreno Busta,Marton Fucsovics,,,0.0
+122272,2021-03-16T14:10Z,Dubai Duty Free Tennis Championships,Taylor Fritz,Nikoloz Basilashvili,,,1.0
+107002,2021-03-16T14:15Z,Dubai Duty Free Tennis Championships,Taylor Fritz,Nikoloz Basilashvili,,,1.0
+107011,2021-03-16T15:05Z,Dubai Duty Free Tennis Championships,Kei Nishikori,David Goffin,,,1.0
+107004,2021-03-16T16:35Z,Dubai Duty Free Tennis Championships,Alejandro Davidovich Fokina,Filip Krajinovic,,,0.0
+107005,2021-03-16T17:15Z,Dubai Duty Free Tennis Championships,Dominic Thiem,Lloyd Harris,,,0.0
+106989,2021-03-17T10:05Z,Dubai Duty Free Tennis Championships,Denis Shapovalov,Hubert Hurkacz,,,1.0
+106988,2021-03-17T10:10Z,Dubai Duty Free Tennis Championships,Jeremy Chardy,Karen Khachanov,,,1.0
+106986,2021-03-17T12:05Z,Dubai Duty Free Tennis Championships,Jannik Sinner,Roberto Bautista Agut,,,1.0
+106987,2021-03-17T13:00Z,Dubai Duty Free Tennis Championships,Lorenzo Sonego,Aslan Karatsev,,,0.0
+123333,2021-03-17T14:30Z,Dubai Duty Free Tennis Championships,Lloyd Harris,Filip Krajinovic,,,1.0
+106990,2021-03-17T15:10Z,Dubai Duty Free Tennis Championships,Aljaz Bedene,Kei Nishikori,,,0.0
+106985,2021-03-17T15:40Z,Dubai Duty Free Tennis Championships,Marton Fucsovics,Dusan Lajovic,,,1.0
+122259,2021-03-17T16:30Z,Dubai Duty Free Tennis Championships,Taylor Fritz,Andrey Rublev,,,0.0
+106984,2021-03-17T17:35Z,Dubai Duty Free Tennis Championships,Taylor Fritz,Andrey Rublev,,,0.0
+106991,2021-03-17T17:40Z,Dubai Duty Free Tennis Championships,Lloyd Harris,Filip Krajinovic,,,1.0
+107017,2021-03-18T11:05Z,Dubai Duty Free Tennis Championships,Denis Shapovalov,Jeremy Chardy,,,1.0
+107016,2021-03-18T12:50Z,Dubai Duty Free Tennis Championships,Aslan Karatsev,Jannik Sinner,,,1.0
+123291,2021-03-18T15:00Z,Dubai Duty Free Tennis Championships,Lloyd Harris,Kei Nishikori,,,1.0
+106983,2021-03-18T15:35Z,Dubai Duty Free Tennis Championships,Lloyd Harris,Kei Nishikori,,,1.0
+107015,2021-03-18T17:35Z,Dubai Duty Free Tennis Championships,Marton Fucsovics,Andrey Rublev,,,0.0
+123303,2021-03-19T13:00Z,Dubai Duty Free Tennis Championships,Lloyd Harris,Denis Shapovalov,,,1.0
+107014,2021-03-19T13:05Z,Dubai Duty Free Tennis Championships,Lloyd Harris,Denis Shapovalov,,,1.0
+107013,2021-03-19T16:05Z,Dubai Duty Free Tennis Championships,Aslan Karatsev,Andrey Rublev,,,1.0
+123325,2021-03-20T15:00Z,Dubai Duty Free Tennis Championships,Lloyd Harris,Aslan Karatsev,,,0.0
+107012,2021-03-20T15:05Z,Dubai Duty Free Tennis Championships,Lloyd Harris,Aslan Karatsev,,,0.0
+117918,2021-03-07T14:30Z,Open 13 Provence,Bernabe Zapata Miralles,Mathias Bourgue,,,0.0
+106841,2021-03-08T15:00Z,Open 13 Provence,Emil Ruusuvuori,Yoshihito Nishioka,,,1.0
+106835,2021-03-08T16:45Z,Open 13 Provence,Dennis Novak,Hugo Gaston,,,0.0
+106832,2021-03-08T19:05Z,Open 13 Provence,Gregoire Barrere,Jannik Sinner,,,0.0
+106840,2021-03-09T12:40Z,Open 13 Provence,Stefano Travaglia,Mackenzie McDonald,,,0.0
+106837,2021-03-09T12:40Z,Open 13 Provence,Matthew Ebden,Benjamin Bonzi,,,1.0
+106839,2021-03-09T15:00Z,Open 13 Provence,Mikhail Kukushkin,Arthur Rinderknech,,,0.0
+106843,2021-03-09T15:15Z,Open 13 Provence,Kei Nishikori,Pierre-Hugues Herbert,,,0.0
+106836,2021-03-09T16:40Z,Open 13 Provence,Jo-Wilfried Tsonga,Feliciano Lopez,,,1.0
+106838,2021-03-09T17:55Z,Open 13 Provence,Alejandro Davidovich Fokina,Petros Tsitsipas,,,1.0
+106844,2021-03-09T19:05Z,Open 13 Provence,Lucas Pouille,Alex Molcan,,,1.0
+106831,2021-03-10T10:45Z,Open 13 Provence,Yannick Hanfmann,Egor Gerasimov,,,0.0
+106845,2021-03-10T12:30Z,Open 13 Provence,Cameron Norrie,Constant Lestienne,,,1.0
+106847,2021-03-10T12:35Z,Open 13 Provence,Matthew Ebden,Emil Ruusuvuori,,,1.0
+106853,2021-03-10T15:10Z,Open 13 Provence,Karen Khachanov,Mackenzie McDonald,,,1.0
+106848,2021-03-10T17:20Z,Open 13 Provence,Hugo Gaston,Jannik Sinner,,,0.0
+106849,2021-03-10T18:45Z,Open 13 Provence,Jo-Wilfried Tsonga,Ugo Humbert,,,0.0
+106852,2021-03-11T12:30Z,Open 13 Provence,Pierre-Hugues Herbert,Cameron Norrie,,,1.0
+106850,2021-03-11T14:15Z,Open 13 Provence,Alejandro Davidovich Fokina,Arthur Rinderknech,,,0.0
+106851,2021-03-11T16:30Z,Open 13 Provence,Daniil Medvedev,Egor Gerasimov,,,1.0
+106854,2021-03-11T18:00Z,Open 13 Provence,Lucas Pouille,Stefanos Tsitsipas,,,0.0
+106857,2021-03-12T13:35Z,Open 13 Provence,Karen Khachanov,Matthew Ebden,,,0.0
+106855,2021-03-12T15:45Z,Open 13 Provence,Daniil Medvedev,Jannik Sinner,,,1.0
+106858,2021-03-12T17:15Z,Open 13 Provence,Pierre-Hugues Herbert,Stefanos Tsitsipas,,,1.0
+106856,2021-03-12T19:35Z,Open 13 Provence,Arthur Rinderknech,Ugo Humbert,,,0.0
+106861,2021-03-13T14:25Z,Open 13 Provence,Daniil Medvedev,Matthew Ebden,,,1.0
+106860,2021-03-13T15:50Z,Open 13 Provence,Ugo Humbert,Pierre-Hugues Herbert,,,0.0
+106859,2021-03-14T13:00Z,Open 13 Provence,Daniil Medvedev,Pierre-Hugues Herbert,,,1.0
+123307,2021-03-07T12:30Z,Qatar ExxonMobil Open,Lloyd Harris,Lukas Lacko,,,1.0
+106874,2021-03-08T11:30Z,Qatar ExxonMobil Open,Nikoloz Basilashvili,John Millman,,,1.0
+106876,2021-03-08T11:35Z,Qatar ExxonMobil Open,Mubarak Shannan Zayid,Aslan Karatsev,,,0.0
+106875,2021-03-08T12:55Z,Qatar ExxonMobil Open,Ramkumar Ramanathan,Alexander Bublik,,,0.0
+106865,2021-03-08T13:45Z,Qatar ExxonMobil Open,Lorenzo Sonego,Taylor Fritz,,,0.0
+106884,2021-03-08T15:00Z,Qatar ExxonMobil Open,Richard Gasquet,Blaz Rola,,,1.0
+106888,2021-03-08T16:35Z,Qatar ExxonMobil Open,Reilly Opelka,Roberto Bautista Agut,,,0.0
+106873,2021-03-09T11:30Z,Qatar ExxonMobil Open,Jeremy Chardy,Daniel Evans,,,0.0
+106864,2021-03-09T11:35Z,Qatar ExxonMobil Open,Christopher O'Connell,Vasek Pospisil,,,0.0
+106862,2021-03-09T14:05Z,Qatar ExxonMobil Open,Norbert Gombos,Malek Jaziri,,,0.0
+106869,2021-03-09T14:15Z,Qatar ExxonMobil Open,Dusan Lajovic,Marton Fucsovics,,,0.0
+123330,2021-03-09T15:00Z,Qatar ExxonMobil Open,Lloyd Harris,Stan Wawrinka,,,1.0
+106867,2021-03-09T15:55Z,Qatar ExxonMobil Open,Lloyd Harris,Stan Wawrinka,,,1.0
+106866,2021-03-09T18:55Z,Qatar ExxonMobil Open,David Goffin,Filip Krajinovic,,,1.0
+106882,2021-03-10T11:30Z,Qatar ExxonMobil Open,Andrey Rublev,Richard Gasquet,,,1.0
+106879,2021-03-10T12:50Z,Qatar ExxonMobil Open,Vasek Pospisil,Denis Shapovalov,,,0.0
+106871,2021-03-10T13:00Z,Qatar ExxonMobil Open,Dominic Thiem,Aslan Karatsev,,,1.0
+106883,2021-03-10T13:00Z,Qatar ExxonMobil Open,Alexander Bublik,Roberto Bautista Agut,,,0.0
+106880,2021-03-10T14:35Z,Qatar ExxonMobil Open,David Goffin,Taylor Fritz,,,0.0
+106878,2021-03-10T14:55Z,Qatar ExxonMobil Open,Malek Jaziri,Nikoloz Basilashvili,,,0.0
+106891,2021-03-10T15:15Z,Qatar ExxonMobil Open,Daniel Evans,Roger Federer,,,0.0
+106881,2021-03-10T18:00Z,Qatar ExxonMobil Open,Marton Fucsovics,Lloyd Harris,,,1.0
+122255,2021-03-11T11:30Z,Qatar ExxonMobil Open,Taylor Fritz,Denis Shapovalov,,,1.0
+106887,2021-03-11T11:35Z,Qatar ExxonMobil Open,Taylor Fritz,Denis Shapovalov,,,1.0
+106885,2021-03-11T15:45Z,Qatar ExxonMobil Open,Nikoloz Basilashvili,Roger Federer,,,1.0
+106889,2021-03-11T17:00Z,Qatar ExxonMobil Open,Andrey Rublev,Marton Fucsovics,,,1.0
+106890,2021-03-11T17:50Z,Qatar ExxonMobil Open,Dominic Thiem,Roberto Bautista Agut,,,0.0
+106870,2021-03-12T15:05Z,Qatar ExxonMobil Open,Roberto Bautista Agut,Andrey Rublev,,,1.0
+122270,2021-03-12T16:30Z,Qatar ExxonMobil Open,Taylor Fritz,Nikoloz Basilashvili,,,0.0
+106868,2021-03-12T16:50Z,Qatar ExxonMobil Open,Taylor Fritz,Nikoloz Basilashvili,,,0.0
+106892,2021-03-13T15:05Z,Qatar ExxonMobil Open,Roberto Bautista Agut,Nikoloz Basilashvili,,,0.0
+107026,2021-03-16T00:00Z,Abierto Mexicano Telcel presentado por HSBC,Gerardo Lopez Villasenor,Dominik Koepfer,,,0.0
+107020,2021-03-16T00:05Z,Abierto Mexicano Telcel presentado por HSBC,Tennys Sandgren,Felix Auger-Aliassime,,,0.0
+107022,2021-03-16T01:20Z,Abierto Mexicano Telcel presentado por HSBC,John Isner,Salvatore Caruso,,,1.0
+107033,2021-03-16T02:05Z,Abierto Mexicano Telcel presentado por HSBC,Carlos Alcaraz,Alexander Zverev,,,0.0
+107031,2021-03-16T02:55Z,Abierto Mexicano Telcel presentado por HSBC,Steve Johnson,Laslo Djere,,,0.0
+107023,2021-03-16T04:05Z,Abierto Mexicano Telcel presentado por HSBC,Marin Cilic,Sebastian Korda,,,0.0
+107035,2021-03-16T07:55Z,Abierto Mexicano Telcel presentado por HSBC,Denis Kudla,Tallon Griekspoor,,,0.0
+107021,2021-03-17T00:05Z,Abierto Mexicano Telcel presentado por HSBC,Diego Schwartzman,Lorenzo Musetti,,,0.0
+107025,2021-03-17T00:05Z,Abierto Mexicano Telcel presentado por HSBC,Tommy Paul,Milos Raonic,,,0.0
+107019,2021-03-17T00:10Z,Abierto Mexicano Telcel presentado por HSBC,Brandon Nakashima,Frances Tiafoe,,,0.0
+107029,2021-03-17T02:05Z,Abierto Mexicano Telcel presentado por HSBC,Fabio Fognini,Stefano Travaglia,,,1.0
+107018,2021-03-17T02:45Z,Abierto Mexicano Telcel presentado por HSBC,Stefanos Tsitsipas,Benoit Paire,,,1.0
+107024,2021-03-17T03:15Z,Abierto Mexicano Telcel presentado por HSBC,Cameron Norrie,Stefan Kozlov,,,1.0
+107027,2021-03-17T03:50Z,Abierto Mexicano Telcel presentado por HSBC,Miomir Kecmanovic,Feliciano Lopez,,,1.0
+107028,2021-03-17T04:15Z,Abierto Mexicano Telcel presentado por HSBC,Adrian Mannarino,Grigor Dimitrov,,,0.0
+107030,2021-03-17T04:50Z,Abierto Mexicano Telcel presentado por HSBC,Casper Ruud,Daniel Elahi Galan,,,1.0
+107036,2021-03-18T00:00Z,Abierto Mexicano Telcel presentado por HSBC,Dominik Koepfer,Milos Raonic,,,1.0
+107034,2021-03-18T00:05Z,Abierto Mexicano Telcel presentado por HSBC,Sebastian Korda,Felix Auger-Aliassime,,,0.0
+107037,2021-03-18T00:05Z,Abierto Mexicano Telcel presentado por HSBC,Lorenzo Musetti,Frances Tiafoe,,,1.0
+107042,2021-03-18T01:30Z,Abierto Mexicano Telcel presentado por HSBC,Casper Ruud,Tallon Griekspoor,,,1.0
+107041,2021-03-18T01:35Z,Abierto Mexicano Telcel presentado por HSBC,Miomir Kecmanovic,Grigor Dimitrov,,,0.0
+107039,2021-03-18T02:00Z,Abierto Mexicano Telcel presentado por HSBC,Laslo Djere,Alexander Zverev,,,0.0
+107038,2021-03-18T03:20Z,Abierto Mexicano Telcel presentado por HSBC,Fabio Fognini,Cameron Norrie,,,0.0
+107032,2021-03-18T04:00Z,Abierto Mexicano Telcel presentado por HSBC,Stefanos Tsitsipas,John Isner,,,1.0
+107046,2021-03-19T00:05Z,Abierto Mexicano Telcel presentado por HSBC,Cameron Norrie,Dominik Koepfer,,,0.0
+107040,2021-03-19T02:15Z,Abierto Mexicano Telcel presentado por HSBC,Stefanos Tsitsipas,Felix Auger-Aliassime,,,1.0
+107043,2021-03-19T04:40Z,Abierto Mexicano Telcel presentado por HSBC,Lorenzo Musetti,Grigor Dimitrov,,,1.0
+107044,2021-03-19T05:15Z,Abierto Mexicano Telcel presentado por HSBC,Casper Ruud,Alexander Zverev,,,0.0
+107048,2021-03-20T02:05Z,Abierto Mexicano Telcel presentado por HSBC,Dominik Koepfer,Alexander Zverev,,,0.0
+107045,2021-03-20T04:35Z,Abierto Mexicano Telcel presentado por HSBC,Stefanos Tsitsipas,Lorenzo Musetti,,,1.0
+107047,2021-03-21T03:05Z,Abierto Mexicano Telcel presentado por HSBC,Stefanos Tsitsipas,Alexander Zverev,,,0.0
+107118,2021-03-23T15:05Z,Miami Open presented by Itau,Christina McHale,Laura Siegemund,,,0.0
+107134,2021-03-23T15:05Z,Miami Open presented by Itau,Barbora Krejcikova,Anna Blinkova,,,1.0
+107135,2021-03-23T15:10Z,Miami Open presented by Itau,Magda Linette,Robin Montgomery,,,1.0
+107212,2021-03-23T17:10Z,Miami Open presented by Itau,Sorana Cirstea,Katrina Scott,,,1.0
+107139,2021-03-23T17:20Z,Miami Open presented by Itau,Nadia Podoroska,Mayar Sherif,,,1.0
+107186,2021-03-23T17:25Z,Miami Open presented by Itau,Rebecca Peterson,Wang Xinyu,,,0.0
+107116,2021-03-23T18:35Z,Miami Open presented by Itau,Zarina Diyas,Venus Williams,,,1.0
+107182,2021-03-23T18:50Z,Miami Open presented by Itau,Kaia Kanepi,Lauren Davis,,,1.0
+107171,2021-03-23T19:00Z,Miami Open presented by Itau,Marie Bouzkova,Arantxa Rus,,,0.0
+107146,2021-03-23T20:20Z,Miami Open presented by Itau,Shelby Rogers,Madison Brengle,,,1.0
+107179,2021-03-23T20:40Z,Miami Open presented by Itau,Jil Teichmann,Paula Badosa,,,0.0
+107208,2021-03-23T20:40Z,Miami Open presented by Itau,Anastasia Potapova,Ajla Tomljanovic,,,0.0
+107178,2021-03-24T15:00Z,Miami Open presented by Itau,Andrea Petkovic,Zhang Shuai,,,1.0
+107132,2021-03-24T15:05Z,Miami Open presented by Itau,Katerina Siniakova,Ana Konjuh,,,0.0
+107183,2021-03-24T15:05Z,Miami Open presented by Itau,Bernarda Pera,Sara Sorribes Tormo,,,0.0
+107187,2021-03-24T15:05Z,Miami Open presented by Itau,Anna Kalinskaya,Irina-Camelia Begu,,,1.0
+107122,2021-03-24T15:10Z,Miami Open presented by Itau,Kristina Mladenovic,Danielle Collins,,,0.0
+107111,2021-03-24T17:05Z,Miami Open presented by Itau,Jelena Ostapenko,Wang Xiyu,,,1.0
+107117,2021-03-24T17:20Z,Miami Open presented by Itau,Nao Hibino,Renata Zarazua,,,0.0
+107175,2021-03-24T17:20Z,Miami Open presented by Itau,Zheng Saisai,Fiona Ferro,,,1.0
+107213,2021-03-24T18:05Z,Miami Open presented by Itau,Kristyna Pliskova,Katie Boulter,,,0.0
+107137,2021-03-24T19:35Z,Miami Open presented by Itau,Alize Cornet,Svetlana Kuznetsova,,,1.0
+107143,2021-03-24T20:00Z,Miami Open presented by Itau,Yaroslava Shvedova,Tereza Martincova,,,0.0
+107126,2021-03-24T20:10Z,Miami Open presented by Itau,Aliona Bolsova,Wang Qiang,,,0.0
+107130,2021-03-24T20:30Z,Miami Open presented by Itau,Olga Danilovic,Anastasija Sevastova,,,0.0
+107131,2021-03-24T21:40Z,Miami Open presented by Itau,Mihaela Buzarnescu,Caroline Garcia,,,0.0
+107209,2021-03-24T22:00Z,Miami Open presented by Itau,Heather Watson,Nina Stojanovic,,,0.0
+107125,2021-03-24T22:20Z,Miami Open presented by Itau,Tsvetana Pironkova,Marta Kostyuk,,,1.0
+107114,2021-03-24T23:00Z,Miami Open presented by Itau,Hailey Baptiste,Kristina Kucova,,,0.0
+107142,2021-03-24T23:05Z,Miami Open presented by Itau,Sloane Stephens,Oceane Dodin,,,1.0
+107174,2021-03-24T23:10Z,Miami Open presented by Itau,Elisabetta Cocciaretto,Storm Hunter,,,0.0
+107170,2021-03-24T23:50Z,Miami Open presented by Itau,Camila Giorgi,Liudmila Samsonova,,,0.0
+107195,2021-03-25T15:05Z,Miami Open presented by Itau,Madison Keys,Ana Konjuh,,,0.0
+107201,2021-03-25T15:05Z,Miami Open presented by Itau,Belinda Bencic,Zarina Diyas,,,1.0
+107233,2021-03-25T15:05Z,Miami Open presented by Itau,Shelby Rogers,Elina Svitolina,,,0.0
+107234,2021-03-25T15:05Z,Miami Open presented by Itau,Ekaterina Alexandrova,Nadia Podoroska,,,1.0
+107235,2021-03-25T16:40Z,Miami Open presented by Itau,Magda Linette,Johanna Konta,,,0.0
+107202,2021-03-25T17:00Z,Miami Open presented by Itau,Laura Siegemund,Victoria Azarenka,,,0.0
+107205,2021-03-25T17:40Z,Miami Open presented by Itau,Jelena Ostapenko,Kirsten Flipkens,,,1.0
+107203,2021-03-25T17:55Z,Miami Open presented by Itau,Angelique Kerber,Renata Zarazua,,,1.0
+107194,2021-03-25T18:40Z,Miami Open presented by Itau,Barbora Krejcikova,Iga Swiatek,,,0.0
+107206,2021-03-25T19:05Z,Miami Open presented by Itau,Ashleigh Barty,Kristina Kucova,,,1.0
+107198,2021-03-25T19:15Z,Miami Open presented by Itau,Tsvetana Pironkova,Aryna Sabalenka,,,0.0
+107200,2021-03-25T19:55Z,Miami Open presented by Itau,Wang Qiang,Marketa Vondrousova,,,0.0
+107199,2021-03-25T20:10Z,Miami Open presented by Itau,Veronika Kudermetova,Danielle Collins,,,1.0
+107197,2021-03-25T22:00Z,Miami Open presented by Itau,Simona Halep,Caroline Garcia,,,1.0
+107204,2021-03-26T00:10Z,Miami Open presented by Itau,Petra Kvitova,Alize Cornet,,,1.0
+107196,2021-03-26T00:45Z,Miami Open presented by Itau,Anastasija Sevastova,Coco Gauff,,,1.0
+107222,2021-03-26T15:05Z,Miami Open presented by Itau,Storm Hunter,Jessica Pegula,,,0.0
+107229,2021-03-26T15:05Z,Miami Open presented by Itau,Wang Xinyu,Garbine Muguruza,,,0.0
+107219,2021-03-26T15:10Z,Miami Open presented by Itau,Elise Mertens,Katie Boulter,,,1.0
+107223,2021-03-26T16:30Z,Miami Open presented by Itau,Karolina Pliskova,Zheng Saisai,,,1.0
+107227,2021-03-26T16:45Z,Miami Open presented by Itau,Kaia Kanepi,Elena Rybakina,,,0.0
+107216,2021-03-26T16:50Z,Miami Open presented by Itau,Yulia Putintseva,Nina Stojanovic,,,0.0
+107215,2021-03-26T17:05Z,Miami Open presented by Itau,Ajla Tomljanovic,Naomi Osaka,,,0.0
+107221,2021-03-26T18:15Z,Miami Open presented by Itau,Maria Sakkari,Arantxa Rus,,,1.0
+107231,2021-03-26T19:10Z,Miami Open presented by Itau,Sloane Stephens,Amanda Anisimova,,,0.0
+107220,2021-03-26T19:45Z,Miami Open presented by Itau,Liudmila Samsonova,Kiki Bertens,,,1.0
+107230,2021-03-26T19:55Z,Miami Open presented by Itau,Petra Martic,Anna Kalinskaya,,,0.0
+107237,2021-03-26T20:55Z,Miami Open presented by Itau,Ons Jabeur,Paula Badosa,,,1.0
+107232,2021-03-26T21:00Z,Miami Open presented by Itau,Bianca Andreescu,Tereza Martincova,,,1.0
+107217,2021-03-26T22:40Z,Miami Open presented by Itau,Sorana Cirstea,Anett Kontaveit,,,0.0
+107228,2021-03-26T23:05Z,Miami Open presented by Itau,Jennifer Brady,Sara Sorribes Tormo,,,0.0
+107236,2021-03-26T23:05Z,Miami Open presented by Itau,Andrea Petkovic,Sofia Kenin,,,0.0
+107162,2021-03-27T15:05Z,Miami Open presented by Itau,Ana Konjuh,Iga Swiatek,,,1.0
+107226,2021-03-27T15:05Z,Miami Open presented by Itau,Ashleigh Barty,Jelena Ostapenko,,,1.0
+107160,2021-03-27T17:40Z,Miami Open presented by Itau,Ekaterina Alexandrova,Elina Svitolina,,,0.0
+107225,2021-03-27T19:10Z,Miami Open presented by Itau,Angelique Kerber,Victoria Azarenka,,,0.0
+107164,2021-03-27T19:35Z,Miami Open presented by Itau,Veronika Kudermetova,Aryna Sabalenka,,,0.0
+107163,2021-03-27T21:00Z,Miami Open presented by Itau,Simona Halep,Anastasija Sevastova,,,0.0
+107224,2021-03-27T21:35Z,Miami Open presented by Itau,Belinda Bencic,Marketa Vondrousova,,,0.0
+107161,2021-03-28T01:35Z,Miami Open presented by Itau,Petra Kvitova,Johanna Konta,,,1.0
+107165,2021-03-28T15:05Z,Miami Open presented by Itau,Maria Sakkari,Liudmila Samsonova,,,1.0
+107166,2021-03-28T15:05Z,Miami Open presented by Itau,Karolina Pliskova,Jessica Pegula,,,0.0
+107168,2021-03-28T16:30Z,Miami Open presented by Itau,Sara Sorribes Tormo,Elena Rybakina,,,1.0
+107151,2021-03-28T17:00Z,Miami Open presented by Itau,Nina Stojanovic,Naomi Osaka,,,0.0
+107152,2021-03-28T17:20Z,Miami Open presented by Itau,Elise Mertens,Anett Kontaveit,,,1.0
+107158,2021-03-28T19:05Z,Miami Open presented by Itau,Anna Kalinskaya,Garbine Muguruza,,,0.0
+107167,2021-03-28T22:10Z,Miami Open presented by Itau,Ons Jabeur,Sofia Kenin,,,1.0
+107159,2021-03-28T23:10Z,Miami Open presented by Itau,Bianca Andreescu,Amanda Anisimova,,,1.0
+107147,2021-03-29T15:05Z,Miami Open presented by Itau,Petra Kvitova,Elina Svitolina,,,0.0
+107150,2021-03-29T15:05Z,Miami Open presented by Itau,Ashleigh Barty,Victoria Azarenka,,,1.0
+107149,2021-03-29T17:45Z,Miami Open presented by Itau,Marketa Vondrousova,Aryna Sabalenka,,,0.0
+107148,2021-03-29T19:10Z,Miami Open presented by Itau,Anastasija Sevastova,Ana Konjuh,,,1.0
+107154,2021-03-29T19:10Z,Miami Open presented by Itau,Elise Mertens,Naomi Osaka,,,0.0
+107155,2021-03-29T21:15Z,Miami Open presented by Itau,Jessica Pegula,Maria Sakkari,,,0.0
+107156,2021-03-30T00:10Z,Miami Open presented by Itau,Sara Sorribes Tormo,Ons Jabeur,,,1.0
+107157,2021-03-30T01:35Z,Miami Open presented by Itau,Bianca Andreescu,Garbine Muguruza,,,1.0
+107153,2021-03-30T17:50Z,Miami Open presented by Itau,Ashleigh Barty,Aryna Sabalenka,,,1.0
+107193,2021-03-30T23:05Z,Miami Open presented by Itau,Anastasija Sevastova,Elina Svitolina,,,0.0
+107191,2021-03-31T17:05Z,Miami Open presented by Itau,Maria Sakkari,Naomi Osaka,,,1.0
+107192,2021-03-31T23:10Z,Miami Open presented by Itau,Bianca Andreescu,Sara Sorribes Tormo,,,1.0
+107190,2021-04-01T19:50Z,Miami Open presented by Itau,Ashleigh Barty,Elina Svitolina,,,1.0
+107188,2021-04-02T02:50Z,Miami Open presented by Itau,Bianca Andreescu,Maria Sakkari,,,1.0
+107218,2021-04-03T17:10Z,Miami Open presented by Itau,Ashleigh Barty,Bianca Andreescu,,,1.0
+107245,2021-03-24T15:00Z,Miami Open presented by Itau,Pierre-Hugues Herbert,Pedro Sousa,,,1.0
+107241,2021-03-24T15:05Z,Miami Open presented by Itau,Feliciano Lopez,Alexei Popyrin,,,0.0
+107265,2021-03-24T15:05Z,Miami Open presented by Itau,Cameron Norrie,Yoshihito Nishioka,,,1.0
+107255,2021-03-24T16:30Z,Miami Open presented by Itau,Alejandro Tabilo,Mikael Ymer,,,0.0
+107266,2021-03-24T16:45Z,Miami Open presented by Itau,Marcos Giron,Tommy Paul,,,1.0
+107239,2021-03-24T16:55Z,Miami Open presented by Itau,Sam Querrey,Yen-Hsun Lu,,,0.0
+107259,2021-03-24T17:35Z,Miami Open presented by Itau,Hugo Gaston,Dominik Koepfer,,,1.0
+107240,2021-03-24T18:00Z,Miami Open presented by Itau,Ernesto Escobedo,Paolo Lorenzi,,,1.0
+107258,2021-03-24T18:20Z,Miami Open presented by Itau,Steve Johnson,Yannick Hanfmann,,,0.0
+107253,2021-03-24T19:00Z,Miami Open presented by Itau,Federico Gaio,Ricardas Berankis,,,0.0
+107291,2021-03-24T19:05Z,Miami Open presented by Itau,James Duckworth,Mischa Zverev,,,1.0
+107256,2021-03-24T20:40Z,Miami Open presented by Itau,Lloyd Harris,Emilio Nava,,,1.0
+107250,2021-03-24T21:35Z,Miami Open presented by Itau,Vasek Pospisil,Mackenzie McDonald,,,0.0
+107292,2021-03-24T22:25Z,Miami Open presented by Itau,Jiri Vesely,Laslo Djere,,,0.0
+107252,2021-03-24T23:55Z,Miami Open presented by Itau,Carlos Alcaraz,Emil Ruusuvuori,,,0.0
+107243,2021-03-25T01:55Z,Miami Open presented by Itau,Frances Tiafoe,Stefano Travaglia,,,1.0
+107276,2021-03-25T15:00Z,Miami Open presented by Itau,Shintaro Mochizuki,Thanasi Kokkinakis,,,0.0
+107323,2021-03-25T15:00Z,Miami Open presented by Itau,SoonWoo Kwon,Ilya Ivashka,,,0.0
+107284,2021-03-25T15:05Z,Miami Open presented by Itau,Jack Draper,Mikhail Kukushkin,,,0.0
+107314,2021-03-25T16:35Z,Miami Open presented by Itau,Bjorn Fratangelo,Fernando Verdasco,,,1.0
+107322,2021-03-25T16:40Z,Miami Open presented by Itau,Jeremy Chardy,Denis Kudla,,,0.0
+107318,2021-03-25T17:00Z,Miami Open presented by Itau,Jordan Thompson,Federico Delbonis,,,1.0
+107288,2021-03-25T18:40Z,Miami Open presented by Itau,Salvatore Caruso,Yasutaka Uchiyama,,,0.0
+107280,2021-03-25T18:50Z,Miami Open presented by Itau,Marin Cilic,Federico Coria,,,1.0
+107287,2021-03-25T19:35Z,Miami Open presented by Itau,Miomir Kecmanovic,Liam Broady,,,1.0
+107309,2021-03-25T21:10Z,Miami Open presented by Itau,Kevin Anderson,Damir Dzumhur,,,0.0
+107315,2021-03-25T22:15Z,Miami Open presented by Itau,Daniel Elahi Galan,Thiago Seyboth Wild,,,1.0
+107275,2021-03-25T22:25Z,Miami Open presented by Itau,Pedro Martinez,Tennys Sandgren,,,0.0
+107283,2021-03-25T23:05Z,Miami Open presented by Itau,Sebastian Korda,Radu Albot,,,1.0
+107279,2021-03-25T23:25Z,Miami Open presented by Itau,Michael Mmoh,Lorenzo Musetti,,,0.0
+107319,2021-03-25T23:50Z,Miami Open presented by Itau,Christopher O'Connell,João Sousa,,,0.0
+107310,2021-03-26T00:00Z,Miami Open presented by Itau,Aljaz Bedene,Thomas Fabbiano,,,1.0
+107302,2021-03-26T15:00Z,Miami Open presented by Itau,Ernesto Escobedo,Dusan Lajovic,,,0.0
+107306,2021-03-26T15:00Z,Miami Open presented by Itau,Alexei Popyrin,Reilly Opelka,,,1.0
+107364,2021-03-26T15:00Z,Miami Open presented by Itau,James Duckworth,David Goffin,,,1.0
+107353,2021-03-26T15:05Z,Miami Open presented by Itau,Marcos Giron,Taylor Fritz,,,0.0
+107312,2021-03-26T16:30Z,Miami Open presented by Itau,Jan-Lennard Struff,Ricardas Berankis,,,1.0
+107355,2021-03-26T16:30Z,Miami Open presented by Itau,Grigor Dimitrov,Cameron Norrie,,,0.0
+107359,2021-03-26T16:45Z,Miami Open presented by Itau,Mikael Ymer,Nikoloz Basilashvili,,,1.0
+107358,2021-03-26T18:35Z,Miami Open presented by Itau,Jannik Sinner,Hugo Gaston,,,1.0
+107300,2021-03-26T18:45Z,Miami Open presented by Itau,Felix Auger-Aliassime,Pierre-Hugues Herbert,,,1.0
+107307,2021-03-26T19:00Z,Miami Open presented by Itau,Daniil Medvedev,Yen-Hsun Lu,,,1.0
+107357,2021-03-26T19:15Z,Miami Open presented by Itau,Yannick Hanfmann,Karen Khachanov,,,0.0
+107360,2021-03-26T20:50Z,Miami Open presented by Itau,Alexander Zverev,Emil Ruusuvuori,,,0.0
+107361,2021-03-26T21:15Z,Miami Open presented by Itau,Lloyd Harris,Roberto Bautista Agut,,,0.0
+107351,2021-03-26T21:40Z,Miami Open presented by Itau,Alexander Bublik,Laslo Djere,,,1.0
+107304,2021-03-26T23:15Z,Miami Open presented by Itau,Daniel Evans,Frances Tiafoe,,,0.0
+107313,2021-03-27T01:20Z,Miami Open presented by Itau,Mackenzie McDonald,John Isner,,,0.0
+107272,2021-03-27T15:00Z,Miami Open presented by Itau,Bjorn Fratangelo,Lorenzo Sonego,,,0.0
+107341,2021-03-27T15:00Z,Miami Open presented by Itau,Jordan Thompson,Milos Raonic,,,0.0
+107271,2021-03-27T15:05Z,Miami Open presented by Itau,Kei Nishikori,Aljaz Bedene,,,1.0
+107343,2021-03-27T16:20Z,Miami Open presented by Itau,Denis Kudla,Hubert Hurkacz,,,0.0
+107270,2021-03-27T16:30Z,Miami Open presented by Itau,Damir Dzumhur,Stefanos Tsitsipas,,,0.0
+107336,2021-03-27T17:05Z,Miami Open presented by Itau,Lorenzo Musetti,Benoit Paire,,,1.0
+107337,2021-03-27T18:10Z,Miami Open presented by Itau,Cristian Garin,Marin Cilic,,,0.0
+107340,2021-03-27T18:10Z,Miami Open presented by Itau,Alex de Minaur,Daniel Elahi Galan,,,0.0
+107339,2021-03-27T18:25Z,Miami Open presented by Itau,Aslan Karatsev,Mikhail Kukushkin,,,1.0
+107342,2021-03-27T20:05Z,Miami Open presented by Itau,Ugo Humbert,João Sousa,,,1.0
+107362,2021-03-27T21:05Z,Miami Open presented by Itau,Miomir Kecmanovic,Adrian Mannarino,,,0.0
+107330,2021-03-27T21:15Z,Miami Open presented by Itau,Denis Shapovalov,Ilya Ivashka,,,1.0
+107334,2021-03-27T22:55Z,Miami Open presented by Itau,Marton Fucsovics,Thanasi Kokkinakis,,,1.0
+107332,2021-03-27T23:05Z,Miami Open presented by Itau,Tennys Sandgren,Andrey Rublev,,,0.0
+107338,2021-03-28T01:25Z,Miami Open presented by Itau,Sebastian Korda,Fabio Fognini,,,1.0
+107363,2021-03-28T02:30Z,Miami Open presented by Itau,Diego Schwartzman,Yasutaka Uchiyama,,,1.0
+107305,2021-03-28T15:00Z,Miami Open presented by Itau,Jan-Lennard Struff,Roberto Bautista Agut,,,0.0
+107267,2021-03-28T15:10Z,Miami Open presented by Itau,Felix Auger-Aliassime,John Isner,,,0.0
+107301,2021-03-28T17:15Z,Miami Open presented by Itau,Jannik Sinner,Karen Khachanov,,,1.0
+107269,2021-03-28T19:30Z,Miami Open presented by Itau,Daniil Medvedev,Alexei Popyrin,,,1.0
+107303,2021-03-28T20:30Z,Miami Open presented by Itau,Emil Ruusuvuori,Mikael Ymer,,,1.0
+107299,2021-03-28T23:05Z,Miami Open presented by Itau,Cameron Norrie,Taylor Fritz,,,0.0
+107298,2021-03-29T01:15Z,Miami Open presented by Itau,Alexander Bublik,James Duckworth,,,1.0
+107268,2021-03-29T02:15Z,Miami Open presented by Itau,Frances Tiafoe,Dusan Lajovic,,,1.0
+107356,2021-03-29T15:00Z,Miami Open presented by Itau,Ugo Humbert,Milos Raonic,,,0.0
+107295,2021-03-29T15:05Z,Miami Open presented by Itau,Marin Cilic,Lorenzo Musetti,,,1.0
+107293,2021-03-29T16:40Z,Miami Open presented by Itau,Denis Shapovalov,Hubert Hurkacz,,,0.0
+107294,2021-03-29T17:20Z,Miami Open presented by Itau,Marton Fucsovics,Andrey Rublev,,,0.0
+107297,2021-03-29T18:30Z,Miami Open presented by Itau,Diego Schwartzman,Adrian Mannarino,,,1.0
+107296,2021-03-29T20:00Z,Miami Open presented by Itau,Aslan Karatsev,Sebastian Korda,,,0.0
+107354,2021-03-29T21:30Z,Miami Open presented by Itau,Daniel Elahi Galan,Lorenzo Sonego,,,0.0
+107352,2021-03-29T23:15Z,Miami Open presented by Itau,Kei Nishikori,Stefanos Tsitsipas,,,0.0
+107349,2021-03-30T15:05Z,Miami Open presented by Itau,John Isner,Roberto Bautista Agut,,,0.0
+107348,2021-03-30T15:15Z,Miami Open presented by Itau,Emil Ruusuvuori,Jannik Sinner,,,0.0
+107347,2021-03-30T17:00Z,Miami Open presented by Itau,Taylor Fritz,Alexander Bublik,,,0.0
+107344,2021-03-30T19:35Z,Miami Open presented by Itau,Hubert Hurkacz,Milos Raonic,,,1.0
+107350,2021-03-30T20:35Z,Miami Open presented by Itau,Daniil Medvedev,Frances Tiafoe,,,1.0
+107346,2021-03-30T22:15Z,Miami Open presented by Itau,Diego Schwartzman,Sebastian Korda,,,0.0
+107345,2021-03-31T00:40Z,Miami Open presented by Itau,Marin Cilic,Andrey Rublev,,,0.0
+107335,2021-03-31T01:10Z,Miami Open presented by Itau,Lorenzo Sonego,Stefanos Tsitsipas,,,0.0
+107331,2021-03-31T19:05Z,Miami Open presented by Itau,Jannik Sinner,Alexander Bublik,,,1.0
+107333,2021-04-01T02:05Z,Miami Open presented by Itau,Daniil Medvedev,Roberto Bautista Agut,,,0.0
+107328,2021-04-01T17:05Z,Miami Open presented by Itau,Hubert Hurkacz,Stefanos Tsitsipas,,,1.0
+107329,2021-04-02T00:10Z,Miami Open presented by Itau,Sebastian Korda,Andrey Rublev,,,0.0
+107327,2021-04-02T17:05Z,Miami Open presented by Itau,Roberto Bautista Agut,Jannik Sinner,,,0.0
+107326,2021-04-02T23:05Z,Miami Open presented by Itau,Andrey Rublev,Hubert Hurkacz,,,0.0
+107325,2021-04-04T17:05Z,Miami Open presented by Itau,Jannik Sinner,Hubert Hurkacz,,,0.0
+122880,2021-03-28T13:00Z,Anytech365 Andalucia Open,Holger Rune,David Pichler,,,1.0
+122873,2021-03-29T10:30Z,Anytech365 Andalucia Open,Holger Rune,Carlos Sanchez Jover,,,0.0
+123542,2021-03-29T13:00Z,Anytech365 Andalucia Open,Roberto Carballes Baena,Henri Laaksonen,,,0.0
+107429,2021-04-05T10:00Z,Anytech365 Andalucia Open,Lucas Pouille,Ricardas Berankis,,,0.0
+107428,2021-04-05T13:10Z,Anytech365 Andalucia Open,Holger Rune,SoonWoo Kwon,,,0.0
+107432,2021-04-05T14:30Z,Anytech365 Andalucia Open,Norbert Gombos,Juan Ignacio Londero,,,1.0
+107434,2021-04-05T15:50Z,Anytech365 Andalucia Open,Roberto Carballes Baena,Federico Delbonis,,,0.0
+107433,2021-04-06T10:00Z,Anytech365 Andalucia Open,Facundo Bagnis,Francisco Cerundolo,,,1.0
+107438,2021-04-06T10:05Z,Anytech365 Andalucia Open,Nikola Milojevic,Carlos Alcaraz,,,0.0
+107444,2021-04-06T10:05Z,Anytech365 Andalucia Open,Ilya Ivashka,Pedro Martinez,,,1.0
+107436,2021-04-06T12:00Z,Anytech365 Andalucia Open,Feliciano Lopez,Taro Daniel,,,1.0
+107430,2021-04-06T12:00Z,Anytech365 Andalucia Open,Bernabe Zapata Miralles,Mario Vilella Martinez,,,0.0
+107441,2021-04-06T13:40Z,Anytech365 Andalucia Open,Henri Laaksonen,Jaume Munar,,,0.0
+107437,2021-04-06T13:50Z,Anytech365 Andalucia Open,Mikhail Kukushkin,Gianluca Mager,,,0.0
+107435,2021-04-06T15:35Z,Anytech365 Andalucia Open,Alejandro Davidovich Fokina,Damir Dzumhur,,,1.0
+107450,2021-04-07T10:05Z,Anytech365 Andalucia Open,Norbert Gombos,Federico Delbonis,,,1.0
+107443,2021-04-07T11:25Z,Anytech365 Andalucia Open,Facundo Bagnis,SoonWoo Kwon,,,0.0
+107445,2021-04-07T13:45Z,Anytech365 Andalucia Open,Albert Ramos-Vinolas,Ricardas Berankis,,,1.0
+107440,2021-04-07T16:10Z,Anytech365 Andalucia Open,Pablo Carreno Busta,Mario Vilella Martinez,,,1.0
+107449,2021-04-08T10:05Z,Anytech365 Andalucia Open,Alejandro Davidovich Fokina,Ilya Ivashka,,,0.0
+107448,2021-04-08T11:35Z,Anytech365 Andalucia Open,Jaume Munar,Fabio Fognini,,,1.0
+107447,2021-04-08T13:05Z,Anytech365 Andalucia Open,Gianluca Mager,Casper Ruud,,,0.0
+107452,2021-04-08T15:35Z,Anytech365 Andalucia Open,Feliciano Lopez,Carlos Alcaraz,,,0.0
+107446,2021-04-09T09:05Z,Anytech365 Andalucia Open,Albert Ramos-Vinolas,Norbert Gombos,,,1.0
+107453,2021-04-09T13:15Z,Anytech365 Andalucia Open,Ilya Ivashka,Jaume Munar,,,0.0
+107451,2021-04-09T16:30Z,Anytech365 Andalucia Open,Pablo Carreno Busta,SoonWoo Kwon,,,1.0
+107456,2021-04-09T17:55Z,Anytech365 Andalucia Open,Carlos Alcaraz,Casper Ruud,,,1.0
+107454,2021-04-10T12:15Z,Anytech365 Andalucia Open,Pablo Carreno Busta,Albert Ramos-Vinolas,,,1.0
+107455,2021-04-10T14:45Z,Anytech365 Andalucia Open,Carlos Alcaraz,Jaume Munar,,,0.0
+107457,2021-04-11T12:05Z,Anytech365 Andalucia Open,Pablo Carreno Busta,Jaume Munar,,,1.0

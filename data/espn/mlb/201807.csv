@@ -1,0 +1,380 @@
+id,date,event,home,away,hs,as,res
+380701101,2018-07-01T17:05Z,Los Angeles Angels at Baltimore Orioles,Baltimore Orioles,Los Angeles Angels,8,2,1.0
+380701114,2018-07-01T17:07Z,Detroit Tigers at Toronto Blue Jays,Toronto Blue Jays,Detroit Tigers,1,9,0.0
+380701117,2018-07-01T17:10Z,Milwaukee Brewers at Cincinnati Reds,Cincinnati Reds,Milwaukee Brewers,8,2,1.0
+380701128,2018-07-01T17:10Z,New York Mets at Miami Marlins,Miami Marlins,New York Mets,2,5,0.0
+380701130,2018-07-01T17:10Z,Houston Astros at Tampa Bay Rays,Tampa Bay Rays,Houston Astros,3,2,1.0
+380701122,2018-07-01T17:35Z,Washington Nationals at Philadelphia Phillies,Philadelphia Phillies,Washington Nationals,4,3,1.0
+380701124,2018-07-01T18:15Z,Atlanta Braves at St. Louis Cardinals,St. Louis Cardinals,Atlanta Braves,5,6,0.0
+380701116,2018-07-01T18:20Z,Minnesota Twins at Chicago Cubs,Chicago Cubs,Minnesota Twins,11,10,1.0
+380701113,2018-07-01T19:05Z,Chicago White Sox at Texas Rangers,Texas Rangers,Chicago White Sox,5,10,0.0
+380701111,2018-07-01T20:05Z,Cleveland Indians at Oakland Athletics,Oakland Athletics,Cleveland Indians,3,15,0.0
+380701112,2018-07-01T20:10Z,Kansas City Royals at Seattle Mariners,Seattle Mariners,Kansas City Royals,1,0,1.0
+380701119,2018-07-01T20:10Z,Colorado Rockies at Los Angeles Dodgers,Los Angeles Dodgers,Colorado Rockies,6,4,1.0
+380701125,2018-07-01T20:10Z,Pittsburgh Pirates at San Diego Padres,San Diego Padres,Pittsburgh Pirates,5,7,0.0
+380701129,2018-07-01T20:10Z,San Francisco Giants at Arizona Diamondbacks,Arizona Diamondbacks,San Francisco Giants,6,9,0.0
+380701110,2018-07-02T00:00Z,Boston Red Sox at New York Yankees,New York Yankees,Boston Red Sox,11,1,1.0
+380702114,2018-07-02T17:07Z,Detroit Tigers at Toronto Blue Jays,Toronto Blue Jays,Detroit Tigers,2,3,0.0
+380702120,2018-07-02T23:00Z,Boston Red Sox at Washington Nationals,Washington Nationals,Boston Red Sox,3,4,0.0
+380702110,2018-07-02T23:05Z,Atlanta Braves at New York Yankees,New York Yankees,Atlanta Braves,3,5,0.0
+380702117,2018-07-02T23:10Z,Chicago White Sox at Cincinnati Reds,Cincinnati Reds,Chicago White Sox,5,3,1.0
+380702128,2018-07-02T23:10Z,Tampa Bay Rays at Miami Marlins,Miami Marlins,Tampa Bay Rays,3,2,1.0
+380702108,2018-07-03T00:10Z,Minnesota Twins at Milwaukee Brewers,Milwaukee Brewers,Minnesota Twins,6,5,1.0
+380702107,2018-07-03T00:15Z,Cleveland Indians at Kansas City Royals,Kansas City Royals,Cleveland Indians,3,9,0.0
+380702127,2018-07-03T00:40Z,San Francisco Giants at Colorado Rockies,Colorado Rockies,San Francisco Giants,5,2,1.0
+380702129,2018-07-03T01:40Z,St. Louis Cardinals at Arizona Diamondbacks,Arizona Diamondbacks,St. Louis Cardinals,3,6,0.0
+380702119,2018-07-03T02:10Z,Pittsburgh Pirates at Los Angeles Dodgers,Los Angeles Dodgers,Pittsburgh Pirates,17,1,1.0
+380703116,2018-07-03T18:20Z,Detroit Tigers at Chicago Cubs,Chicago Cubs,Detroit Tigers,5,3,1.0
+380703108,2018-07-03T20:10Z,Minnesota Twins at Milwaukee Brewers,Milwaukee Brewers,Minnesota Twins,2,0,1.0
+380703120,2018-07-03T22:05Z,Boston Red Sox at Washington Nationals,Washington Nationals,Boston Red Sox,4,11,0.0
+380703110,2018-07-03T23:05Z,Atlanta Braves at New York Yankees,New York Yankees,Atlanta Braves,8,5,1.0
+380703122,2018-07-03T23:05Z,Baltimore Orioles at Philadelphia Phillies,Philadelphia Phillies,Baltimore Orioles,3,2,1.0
+380703114,2018-07-03T23:07Z,New York Mets at Toronto Blue Jays,Toronto Blue Jays,New York Mets,8,6,1.0
+380703117,2018-07-03T23:10Z,Chicago White Sox at Cincinnati Reds,Cincinnati Reds,Chicago White Sox,8,12,0.0
+380703128,2018-07-03T23:10Z,Tampa Bay Rays at Miami Marlins,Miami Marlins,Tampa Bay Rays,6,9,0.0
+380703113,2018-07-04T00:05Z,Houston Astros at Texas Rangers,Texas Rangers,Houston Astros,3,5,0.0
+380703127,2018-07-04T00:10Z,San Francisco Giants at Colorado Rockies,Colorado Rockies,San Francisco Giants,8,1,1.0
+380703107,2018-07-04T00:15Z,Cleveland Indians at Kansas City Royals,Kansas City Royals,Cleveland Indians,4,6,0.0
+380703111,2018-07-04T01:05Z,San Diego Padres at Oakland Athletics,Oakland Athletics,San Diego Padres,6,2,1.0
+380703129,2018-07-04T01:40Z,St. Louis Cardinals at Arizona Diamondbacks,Arizona Diamondbacks,St. Louis Cardinals,4,2,1.0
+380703112,2018-07-04T02:10Z,Los Angeles Angels at Seattle Mariners,Seattle Mariners,Los Angeles Angels,4,1,1.0
+380703119,2018-07-04T02:10Z,Pittsburgh Pirates at Los Angeles Dodgers,Los Angeles Dodgers,Pittsburgh Pirates,8,3,1.0
+380704120,2018-07-04T15:05Z,Boston Red Sox at Washington Nationals,Washington Nationals,Boston Red Sox,0,3,0.0
+380704110,2018-07-04T17:05Z,Atlanta Braves at New York Yankees,New York Yankees,Atlanta Braves,6,2,1.0
+380704128,2018-07-04T17:10Z,Tampa Bay Rays at Miami Marlins,Miami Marlins,Tampa Bay Rays,3,0,1.0
+380704116,2018-07-04T18:20Z,Detroit Tigers at Chicago Cubs,Chicago Cubs,Detroit Tigers,5,2,1.0
+380704122,2018-07-04T20:00Z,Baltimore Orioles at Philadelphia Phillies,Philadelphia Phillies,Baltimore Orioles,4,1,1.0
+380704111,2018-07-04T20:05Z,San Diego Padres at Oakland Athletics,Oakland Athletics,San Diego Padres,4,2,1.0
+380704108,2018-07-04T20:10Z,Minnesota Twins at Milwaukee Brewers,Milwaukee Brewers,Minnesota Twins,3,2,1.0
+380704112,2018-07-04T20:10Z,Los Angeles Angels at Seattle Mariners,Seattle Mariners,Los Angeles Angels,4,7,0.0
+380704117,2018-07-04T23:00Z,Chicago White Sox at Cincinnati Reds,Cincinnati Reds,Chicago White Sox,7,4,1.0
+380704113,2018-07-04T23:05Z,Houston Astros at Texas Rangers,Texas Rangers,Houston Astros,4,5,0.0
+380704114,2018-07-04T23:07Z,New York Mets at Toronto Blue Jays,Toronto Blue Jays,New York Mets,3,6,0.0
+380704107,2018-07-05T00:00Z,Cleveland Indians at Kansas City Royals,Kansas City Royals,Cleveland Indians,2,3,0.0
+380704119,2018-07-05T00:10Z,Pittsburgh Pirates at Los Angeles Dodgers,Los Angeles Dodgers,Pittsburgh Pirates,6,4,1.0
+380704127,2018-07-05T00:10Z,San Francisco Giants at Colorado Rockies,Colorado Rockies,San Francisco Giants,1,0,1.0
+380704129,2018-07-05T02:00Z,St. Louis Cardinals at Arizona Diamondbacks,Arizona Diamondbacks,St. Louis Cardinals,4,8,0.0
+380705120,2018-07-05T23:05Z,Miami Marlins at Washington Nationals,Washington Nationals,Miami Marlins,14,12,1.0
+380705106,2018-07-05T23:10Z,Texas Rangers at Detroit Tigers,Detroit Tigers,Texas Rangers,5,7,0.0
+380705108,2018-07-06T00:10Z,Atlanta Braves at Milwaukee Brewers,Milwaukee Brewers,Atlanta Braves,7,2,1.0
+380705109,2018-07-06T00:10Z,Baltimore Orioles at Minnesota Twins,Minnesota Twins,Baltimore Orioles,5,2,1.0
+380705118,2018-07-06T00:10Z,Chicago White Sox at Houston Astros,Houston Astros,Chicago White Sox,4,3,1.0
+380705129,2018-07-06T01:40Z,San Diego Padres at Arizona Diamondbacks,Arizona Diamondbacks,San Diego Padres,3,6,0.0
+380705112,2018-07-06T02:00Z,Los Angeles Angels at Seattle Mariners,Seattle Mariners,Los Angeles Angels,4,1,1.0
+380705126,2018-07-06T02:15Z,St. Louis Cardinals at San Francisco Giants,San Francisco Giants,St. Louis Cardinals,2,11,0.0
+380706116,2018-07-06T18:20Z,Cincinnati Reds at Chicago Cubs,Chicago Cubs,Cincinnati Reds,2,3,0.0
+380706106,2018-07-06T23:00Z,Texas Rangers at Detroit Tigers,Detroit Tigers,Texas Rangers,3,1,1.0
+380706120,2018-07-06T23:05Z,Miami Marlins at Washington Nationals,Washington Nationals,Miami Marlins,3,2,1.0
+380706123,2018-07-06T23:05Z,Philadelphia Phillies at Pittsburgh Pirates,Pittsburgh Pirates,Philadelphia Phillies,5,17,0.0
+380706114,2018-07-06T23:07Z,New York Yankees at Toronto Blue Jays,Toronto Blue Jays,New York Yankees,6,2,1.0
+380706105,2018-07-06T23:10Z,Oakland Athletics at Cleveland Indians,Cleveland Indians,Oakland Athletics,10,4,1.0
+380706121,2018-07-06T23:10Z,Tampa Bay Rays at New York Mets,New York Mets,Tampa Bay Rays,5,1,1.0
+380706108,2018-07-07T00:10Z,Atlanta Braves at Milwaukee Brewers,Milwaukee Brewers,Atlanta Braves,5,4,1.0
+380706109,2018-07-07T00:10Z,Baltimore Orioles at Minnesota Twins,Minnesota Twins,Baltimore Orioles,6,2,1.0
+380706118,2018-07-07T00:10Z,Chicago White Sox at Houston Astros,Houston Astros,Chicago White Sox,11,4,1.0
+380706107,2018-07-07T00:15Z,Boston Red Sox at Kansas City Royals,Kansas City Royals,Boston Red Sox,5,10,0.0
+380706129,2018-07-07T01:40Z,San Diego Padres at Arizona Diamondbacks,Arizona Diamondbacks,San Diego Padres,3,1,1.0
+380706103,2018-07-07T02:07Z,Los Angeles Dodgers at Los Angeles Angels,Los Angeles Angels,Los Angeles Dodgers,3,2,1.0
+380706112,2018-07-07T02:10Z,Colorado Rockies at Seattle Mariners,Seattle Mariners,Colorado Rockies,1,7,0.0
+380706126,2018-07-07T02:15Z,St. Louis Cardinals at San Francisco Giants,San Francisco Giants,St. Louis Cardinals,3,2,1.0
+380707109,2018-07-07T18:10Z,Baltimore Orioles at Minnesota Twins,Minnesota Twins,Baltimore Orioles,5,4,1.0
+380707116,2018-07-07T18:20Z,Cincinnati Reds at Chicago Cubs,Chicago Cubs,Cincinnati Reds,8,7,1.0
+380707123,2018-07-07T20:05Z,Philadelphia Phillies at Pittsburgh Pirates,Pittsburgh Pirates,Philadelphia Phillies,2,3,0.0
+380707126,2018-07-07T20:05Z,St. Louis Cardinals at San Francisco Giants,San Francisco Giants,St. Louis Cardinals,2,3,0.0
+380707114,2018-07-07T20:07Z,New York Yankees at Toronto Blue Jays,Toronto Blue Jays,New York Yankees,5,8,0.0
+380707105,2018-07-07T20:10Z,Oakland Athletics at Cleveland Indians,Cleveland Indians,Oakland Athletics,3,6,0.0
+380707106,2018-07-07T20:10Z,Texas Rangers at Detroit Tigers,Detroit Tigers,Texas Rangers,7,2,1.0
+380707108,2018-07-07T20:10Z,Atlanta Braves at Milwaukee Brewers,Milwaukee Brewers,Atlanta Braves,1,5,0.0
+380707112,2018-07-07T20:10Z,Colorado Rockies at Seattle Mariners,Seattle Mariners,Colorado Rockies,1,5,0.0
+380707118,2018-07-07T20:10Z,Chicago White Sox at Houston Astros,Houston Astros,Chicago White Sox,12,6,1.0
+380707121,2018-07-07T20:10Z,Tampa Bay Rays at New York Mets,New York Mets,Tampa Bay Rays,0,3,0.0
+380707103,2018-07-07T23:15Z,Los Angeles Dodgers at Los Angeles Angels,Los Angeles Angels,Los Angeles Dodgers,1,3,0.0
+380707107,2018-07-07T23:15Z,Boston Red Sox at Kansas City Royals,Kansas City Royals,Boston Red Sox,4,15,0.0
+380707120,2018-07-07T23:15Z,Miami Marlins at Washington Nationals,Washington Nationals,Miami Marlins,18,4,1.0
+380707129,2018-07-08T02:00Z,San Diego Padres at Arizona Diamondbacks,Arizona Diamondbacks,San Diego Padres,20,5,1.0
+380708114,2018-07-08T17:07Z,New York Yankees at Toronto Blue Jays,Toronto Blue Jays,New York Yankees,1,2,0.0
+380708105,2018-07-08T17:10Z,Oakland Athletics at Cleveland Indians,Cleveland Indians,Oakland Athletics,0,6,0.0
+380708106,2018-07-08T17:10Z,Texas Rangers at Detroit Tigers,Detroit Tigers,Texas Rangers,0,3,0.0
+380708121,2018-07-08T17:10Z,Tampa Bay Rays at New York Mets,New York Mets,Tampa Bay Rays,0,9,0.0
+380708120,2018-07-08T17:35Z,Miami Marlins at Washington Nationals,Washington Nationals,Miami Marlins,2,10,0.0
+380708123,2018-07-08T17:35Z,Philadelphia Phillies at Pittsburgh Pirates,Pittsburgh Pirates,Philadelphia Phillies,4,1,1.0
+380708108,2018-07-08T18:10Z,Atlanta Braves at Milwaukee Brewers,Milwaukee Brewers,Atlanta Braves,10,3,1.0
+380708109,2018-07-08T18:10Z,Baltimore Orioles at Minnesota Twins,Minnesota Twins,Baltimore Orioles,10,1,1.0
+380708118,2018-07-08T18:10Z,Chicago White Sox at Houston Astros,Houston Astros,Chicago White Sox,2,1,1.0
+380708107,2018-07-08T18:15Z,Boston Red Sox at Kansas City Royals,Kansas City Royals,Boston Red Sox,4,7,0.0
+380708116,2018-07-08T18:20Z,Cincinnati Reds at Chicago Cubs,Chicago Cubs,Cincinnati Reds,6,5,1.0
+380708126,2018-07-08T20:05Z,St. Louis Cardinals at San Francisco Giants,San Francisco Giants,St. Louis Cardinals,13,8,1.0
+380708112,2018-07-08T20:10Z,Colorado Rockies at Seattle Mariners,Seattle Mariners,Colorado Rockies,6,4,1.0
+380708129,2018-07-08T20:10Z,San Diego Padres at Arizona Diamondbacks,Arizona Diamondbacks,San Diego Padres,3,4,0.0
+380708103,2018-07-09T00:00Z,Los Angeles Dodgers at Los Angeles Angels,Los Angeles Angels,Los Angeles Dodgers,4,3,1.0
+401035257,2018-07-09T20:05Z,New York Yankees at Baltimore Orioles,Baltimore Orioles,New York Yankees,5,4,1.0
+401028774,2018-07-09T20:10Z,Philadelphia Phillies at New York Mets,New York Mets,Philadelphia Phillies,4,3,1.0
+380709123,2018-07-09T23:00Z,Washington Nationals at Pittsburgh Pirates,Pittsburgh Pirates,Washington Nationals,6,3,1.0
+380709102,2018-07-09T23:10Z,Texas Rangers at Boston Red Sox,Boston Red Sox,Texas Rangers,5,0,1.0
+380709105,2018-07-09T23:10Z,Cincinnati Reds at Cleveland Indians,Cleveland Indians,Cincinnati Reds,5,7,0.0
+380709128,2018-07-09T23:10Z,Milwaukee Brewers at Miami Marlins,Miami Marlins,Milwaukee Brewers,4,3,1.0
+380709130,2018-07-09T23:10Z,Detroit Tigers at Tampa Bay Rays,Tampa Bay Rays,Detroit Tigers,10,9,1.0
+380709321,2018-07-09T23:10Z,Philadelphia Phillies at New York Mets,New York Mets,Philadelphia Phillies,1,3,0.0
+380709301,2018-07-09T23:40Z,New York Yankees at Baltimore Orioles,Baltimore Orioles,New York Yankees,2,10,0.0
+380709109,2018-07-10T00:10Z,Kansas City Royals at Minnesota Twins,Minnesota Twins,Kansas City Royals,3,1,1.0
+380709118,2018-07-10T00:10Z,Oakland Athletics at Houston Astros,Houston Astros,Oakland Athletics,0,2,0.0
+380709125,2018-07-10T02:10Z,Los Angeles Dodgers at San Diego Padres,San Diego Padres,Los Angeles Dodgers,2,8,0.0
+380709126,2018-07-10T02:15Z,Chicago Cubs at San Francisco Giants,San Francisco Giants,Chicago Cubs,2,1,1.0
+380710101,2018-07-10T23:05Z,New York Yankees at Baltimore Orioles,Baltimore Orioles,New York Yankees,6,5,1.0
+380710123,2018-07-10T23:05Z,Washington Nationals at Pittsburgh Pirates,Pittsburgh Pirates,Washington Nationals,1,5,0.0
+380710102,2018-07-10T23:10Z,Texas Rangers at Boston Red Sox,Boston Red Sox,Texas Rangers,8,4,1.0
+380710105,2018-07-10T23:10Z,Cincinnati Reds at Cleveland Indians,Cleveland Indians,Cincinnati Reds,4,7,0.0
+380710121,2018-07-10T23:10Z,Philadelphia Phillies at New York Mets,New York Mets,Philadelphia Phillies,3,7,0.0
+380710128,2018-07-10T23:10Z,Milwaukee Brewers at Miami Marlins,Miami Marlins,Milwaukee Brewers,4,8,0.0
+380710130,2018-07-10T23:10Z,Detroit Tigers at Tampa Bay Rays,Tampa Bay Rays,Detroit Tigers,5,2,1.0
+380710115,2018-07-10T23:35Z,Toronto Blue Jays at Atlanta Braves,Atlanta Braves,Toronto Blue Jays,2,6,0.0
+380710104,2018-07-11T00:10Z,St. Louis Cardinals at Chicago White Sox,Chicago White Sox,St. Louis Cardinals,2,14,0.0
+380710109,2018-07-11T00:10Z,Kansas City Royals at Minnesota Twins,Minnesota Twins,Kansas City Royals,4,9,0.0
+380710118,2018-07-11T00:10Z,Oakland Athletics at Houston Astros,Houston Astros,Oakland Athletics,6,5,1.0
+380710127,2018-07-11T00:40Z,Arizona Diamondbacks at Colorado Rockies,Colorado Rockies,Arizona Diamondbacks,3,5,0.0
+380710126,2018-07-11T02:00Z,Chicago Cubs at San Francisco Giants,San Francisco Giants,Chicago Cubs,0,2,0.0
+380710103,2018-07-11T02:07Z,Seattle Mariners at Los Angeles Angels,Los Angeles Angels,Seattle Mariners,9,3,1.0
+380710125,2018-07-11T02:10Z,Los Angeles Dodgers at San Diego Padres,San Diego Padres,Los Angeles Dodgers,4,1,1.0
+380711130,2018-07-11T16:10Z,Detroit Tigers at Tampa Bay Rays,Tampa Bay Rays,Detroit Tigers,4,2,1.0
+380711123,2018-07-11T16:35Z,Washington Nationals at Pittsburgh Pirates,Pittsburgh Pirates,Washington Nationals,2,0,1.0
+380711109,2018-07-11T17:00Z,Kansas City Royals at Minnesota Twins,Minnesota Twins,Kansas City Royals,8,5,1.0
+380711126,2018-07-11T19:45Z,Chicago Cubs at San Francisco Giants,San Francisco Giants,Chicago Cubs,5,4,1.0
+380711102,2018-07-11T23:00Z,Texas Rangers at Boston Red Sox,Boston Red Sox,Texas Rangers,4,2,1.0
+380711101,2018-07-11T23:05Z,New York Yankees at Baltimore Orioles,Baltimore Orioles,New York Yankees,0,9,0.0
+380711105,2018-07-11T23:10Z,Cincinnati Reds at Cleveland Indians,Cleveland Indians,Cincinnati Reds,19,4,1.0
+380711121,2018-07-11T23:10Z,Philadelphia Phillies at New York Mets,New York Mets,Philadelphia Phillies,3,0,1.0
+380711128,2018-07-11T23:10Z,Milwaukee Brewers at Miami Marlins,Miami Marlins,Milwaukee Brewers,5,4,1.0
+380711115,2018-07-11T23:35Z,Toronto Blue Jays at Atlanta Braves,Atlanta Braves,Toronto Blue Jays,9,5,1.0
+380711104,2018-07-12T00:10Z,St. Louis Cardinals at Chicago White Sox,Chicago White Sox,St. Louis Cardinals,4,0,1.0
+380711118,2018-07-12T00:10Z,Oakland Athletics at Houston Astros,Houston Astros,Oakland Athletics,3,8,0.0
+380711127,2018-07-12T00:40Z,Arizona Diamondbacks at Colorado Rockies,Colorado Rockies,Arizona Diamondbacks,19,2,1.0
+380711103,2018-07-12T02:07Z,Seattle Mariners at Los Angeles Angels,Los Angeles Angels,Seattle Mariners,0,3,0.0
+380711125,2018-07-12T02:10Z,Los Angeles Dodgers at San Diego Padres,San Diego Padres,Los Angeles Dodgers,2,4,0.0
+380712118,2018-07-12T18:10Z,Oakland Athletics at Houston Astros,Houston Astros,Oakland Athletics,4,6,0.0
+380712127,2018-07-12T19:10Z,Arizona Diamondbacks at Colorado Rockies,Colorado Rockies,Arizona Diamondbacks,5,1,1.0
+380712101,2018-07-12T22:05Z,Philadelphia Phillies at Baltimore Orioles,Baltimore Orioles,Philadelphia Phillies,4,5,0.0
+380712123,2018-07-12T23:05Z,Milwaukee Brewers at Pittsburgh Pirates,Pittsburgh Pirates,Milwaukee Brewers,6,3,1.0
+380712102,2018-07-12T23:10Z,Toronto Blue Jays at Boston Red Sox,Boston Red Sox,Toronto Blue Jays,6,4,1.0
+380712105,2018-07-12T23:10Z,New York Yankees at Cleveland Indians,Cleveland Indians,New York Yankees,4,7,0.0
+380712121,2018-07-12T23:10Z,Washington Nationals at New York Mets,New York Mets,Washington Nationals,4,5,0.0
+380712109,2018-07-13T00:10Z,Tampa Bay Rays at Minnesota Twins,Minnesota Twins,Tampa Bay Rays,5,1,1.0
+380712125,2018-07-13T02:00Z,Los Angeles Dodgers at San Diego Padres,San Diego Padres,Los Angeles Dodgers,2,3,0.0
+380712103,2018-07-13T02:07Z,Seattle Mariners at Los Angeles Angels,Los Angeles Angels,Seattle Mariners,11,2,1.0
+380713101,2018-07-13T23:05Z,Texas Rangers at Baltimore Orioles,Baltimore Orioles,Texas Rangers,4,5,0.0
+380713123,2018-07-13T23:05Z,Milwaukee Brewers at Pittsburgh Pirates,Pittsburgh Pirates,Milwaukee Brewers,7,3,1.0
+380713102,2018-07-13T23:10Z,Toronto Blue Jays at Boston Red Sox,Boston Red Sox,Toronto Blue Jays,7,13,0.0
+380713105,2018-07-13T23:10Z,New York Yankees at Cleveland Indians,Cleveland Indians,New York Yankees,6,5,1.0
+380713121,2018-07-13T23:10Z,Washington Nationals at New York Mets,New York Mets,Washington Nationals,4,2,1.0
+380713128,2018-07-13T23:10Z,Philadelphia Phillies at Miami Marlins,Miami Marlins,Philadelphia Phillies,0,2,0.0
+380713115,2018-07-13T23:35Z,Arizona Diamondbacks at Atlanta Braves,Atlanta Braves,Arizona Diamondbacks,1,2,0.0
+380713104,2018-07-14T00:10Z,Kansas City Royals at Chicago White Sox,Chicago White Sox,Kansas City Royals,9,6,1.0
+380713109,2018-07-14T00:10Z,Tampa Bay Rays at Minnesota Twins,Minnesota Twins,Tampa Bay Rays,11,8,1.0
+380713118,2018-07-14T00:10Z,Detroit Tigers at Houston Astros,Houston Astros,Detroit Tigers,3,0,1.0
+380713124,2018-07-14T00:15Z,Cincinnati Reds at St. Louis Cardinals,St. Louis Cardinals,Cincinnati Reds,1,9,0.0
+380713127,2018-07-14T00:40Z,Seattle Mariners at Colorado Rockies,Colorado Rockies,Seattle Mariners,10,7,1.0
+380713125,2018-07-14T02:00Z,Chicago Cubs at San Diego Padres,San Diego Padres,Chicago Cubs,4,5,0.0
+380713119,2018-07-14T02:10Z,Los Angeles Angels at Los Angeles Dodgers,Los Angeles Dodgers,Los Angeles Angels,3,2,1.0
+380713126,2018-07-14T02:15Z,Oakland Athletics at San Francisco Giants,San Francisco Giants,Oakland Athletics,7,1,1.0
+401042634,2018-07-14T16:35Z,Milwaukee Brewers at Pittsburgh Pirates,Pittsburgh Pirates,Milwaukee Brewers,2,1,1.0
+380714102,2018-07-14T17:05Z,Toronto Blue Jays at Boston Red Sox,Boston Red Sox,Toronto Blue Jays,6,2,1.0
+380714104,2018-07-14T18:10Z,Kansas City Royals at Chicago White Sox,Chicago White Sox,Kansas City Royals,0,5,0.0
+380714109,2018-07-14T18:10Z,Tampa Bay Rays at Minnesota Twins,Minnesota Twins,Tampa Bay Rays,6,19,0.0
+380714323,2018-07-14T20:05Z,Milwaukee Brewers at Pittsburgh Pirates,Pittsburgh Pirates,Milwaukee Brewers,6,2,1.0
+380714115,2018-07-14T20:10Z,Arizona Diamondbacks at Atlanta Braves,Atlanta Braves,Arizona Diamondbacks,0,3,0.0
+380714118,2018-07-14T20:10Z,Detroit Tigers at Houston Astros,Houston Astros,Detroit Tigers,9,1,1.0
+380714121,2018-07-14T20:10Z,Washington Nationals at New York Mets,New York Mets,Washington Nationals,7,4,1.0
+380714124,2018-07-14T20:10Z,Cincinnati Reds at St. Louis Cardinals,St. Louis Cardinals,Cincinnati Reds,2,8,0.0
+380714128,2018-07-14T20:10Z,Philadelphia Phillies at Miami Marlins,Miami Marlins,Philadelphia Phillies,2,0,1.0
+380714101,2018-07-14T23:15Z,Texas Rangers at Baltimore Orioles,Baltimore Orioles,Texas Rangers,1,0,1.0
+380714105,2018-07-14T23:15Z,New York Yankees at Cleveland Indians,Cleveland Indians,New York Yankees,4,5,0.0
+380714119,2018-07-14T23:15Z,Los Angeles Angels at Los Angeles Dodgers,Los Angeles Dodgers,Los Angeles Angels,4,5,0.0
+380714127,2018-07-15T01:10Z,Seattle Mariners at Colorado Rockies,Colorado Rockies,Seattle Mariners,4,1,1.0
+380714126,2018-07-15T02:05Z,Oakland Athletics at San Francisco Giants,San Francisco Giants,Oakland Athletics,3,4,0.0
+380714125,2018-07-15T02:10Z,Chicago Cubs at San Diego Padres,San Diego Padres,Chicago Cubs,6,11,0.0
+380715101,2018-07-15T17:05Z,Texas Rangers at Baltimore Orioles,Baltimore Orioles,Texas Rangers,6,5,1.0
+380715102,2018-07-15T17:05Z,Toronto Blue Jays at Boston Red Sox,Boston Red Sox,Toronto Blue Jays,5,2,1.0
+380715105,2018-07-15T17:10Z,New York Yankees at Cleveland Indians,Cleveland Indians,New York Yankees,5,2,1.0
+380715121,2018-07-15T17:10Z,Washington Nationals at New York Mets,New York Mets,Washington Nationals,1,6,0.0
+380715128,2018-07-15T17:10Z,Philadelphia Phillies at Miami Marlins,Miami Marlins,Philadelphia Phillies,10,5,1.0
+380715115,2018-07-15T17:35Z,Arizona Diamondbacks at Atlanta Braves,Atlanta Braves,Arizona Diamondbacks,5,1,1.0
+380715123,2018-07-15T17:35Z,Milwaukee Brewers at Pittsburgh Pirates,Pittsburgh Pirates,Milwaukee Brewers,7,6,1.0
+380715104,2018-07-15T18:10Z,Kansas City Royals at Chicago White Sox,Chicago White Sox,Kansas City Royals,10,1,1.0
+380715109,2018-07-15T18:10Z,Tampa Bay Rays at Minnesota Twins,Minnesota Twins,Tampa Bay Rays,11,7,1.0
+380715118,2018-07-15T18:10Z,Detroit Tigers at Houston Astros,Houston Astros,Detroit Tigers,3,6,0.0
+380715124,2018-07-15T18:15Z,Cincinnati Reds at St. Louis Cardinals,St. Louis Cardinals,Cincinnati Reds,6,4,1.0
+380715127,2018-07-15T19:10Z,Seattle Mariners at Colorado Rockies,Colorado Rockies,Seattle Mariners,4,3,1.0
+380715119,2018-07-15T20:00Z,Los Angeles Angels at Los Angeles Dodgers,Los Angeles Dodgers,Los Angeles Angels,5,3,1.0
+380715126,2018-07-15T20:05Z,Oakland Athletics at San Francisco Giants,San Francisco Giants,Oakland Athletics,2,6,0.0
+380715125,2018-07-15T20:10Z,Chicago Cubs at San Diego Padres,San Diego Padres,Chicago Cubs,4,7,0.0
+380719116,2018-07-19T23:00Z,St. Louis Cardinals at Chicago Cubs,Chicago Cubs,St. Louis Cardinals,9,6,1.0
+380720116,2018-07-20T18:20Z,St. Louis Cardinals at Chicago Cubs,Chicago Cubs,St. Louis Cardinals,5,18,0.0
+380720110,2018-07-20T23:05Z,New York Mets at New York Yankees,New York Yankees,New York Mets,5,7,0.0
+380720120,2018-07-20T23:05Z,Atlanta Braves at Washington Nationals,Washington Nationals,Atlanta Braves,5,8,0.0
+380720122,2018-07-20T23:05Z,San Diego Padres at Philadelphia Phillies,Philadelphia Phillies,San Diego Padres,11,5,1.0
+380720114,2018-07-20T23:07Z,Baltimore Orioles at Toronto Blue Jays,Toronto Blue Jays,Baltimore Orioles,8,7,1.0
+380720106,2018-07-20T23:10Z,Boston Red Sox at Detroit Tigers,Detroit Tigers,Boston Red Sox,0,1,0.0
+380720117,2018-07-20T23:10Z,Pittsburgh Pirates at Cincinnati Reds,Cincinnati Reds,Pittsburgh Pirates,1,12,0.0
+380720130,2018-07-20T23:10Z,Miami Marlins at Tampa Bay Rays,Tampa Bay Rays,Miami Marlins,5,6,0.0
+380720113,2018-07-21T00:05Z,Cleveland Indians at Texas Rangers,Texas Rangers,Cleveland Indians,8,9,0.0
+380720108,2018-07-21T00:10Z,Los Angeles Dodgers at Milwaukee Brewers,Milwaukee Brewers,Los Angeles Dodgers,4,6,0.0
+380720107,2018-07-21T00:15Z,Minnesota Twins at Kansas City Royals,Kansas City Royals,Minnesota Twins,6,5,1.0
+380720111,2018-07-21T01:35Z,San Francisco Giants at Oakland Athletics,Oakland Athletics,San Francisco Giants,1,5,0.0
+380720129,2018-07-21T01:40Z,Colorado Rockies at Arizona Diamondbacks,Arizona Diamondbacks,Colorado Rockies,10,11,0.0
+380720112,2018-07-21T02:00Z,Chicago White Sox at Seattle Mariners,Seattle Mariners,Chicago White Sox,3,1,1.0
+380720103,2018-07-21T02:07Z,Houston Astros at Los Angeles Angels,Los Angeles Angels,Houston Astros,1,3,0.0
+380721110,2018-07-21T17:05Z,New York Mets at New York Yankees,New York Yankees,New York Mets,7,6,1.0
+380721216,2018-07-21T17:05Z,St. Louis Cardinals at Chicago Cubs,Chicago Cubs,St. Louis Cardinals,7,2,1.0
+380721114,2018-07-21T17:07Z,Baltimore Orioles at Toronto Blue Jays,Toronto Blue Jays,Baltimore Orioles,4,1,1.0
+380721106,2018-07-21T22:10Z,Boston Red Sox at Detroit Tigers,Detroit Tigers,Boston Red Sox,5,0,1.0
+380721130,2018-07-21T22:10Z,Miami Marlins at Tampa Bay Rays,Tampa Bay Rays,Miami Marlins,2,3,0.0
+380721120,2018-07-21T23:05Z,Atlanta Braves at Washington Nationals,Washington Nationals,Atlanta Braves,0,0,0.5
+380721122,2018-07-21T23:05Z,San Diego Padres at Philadelphia Phillies,Philadelphia Phillies,San Diego Padres,0,0,0.5
+380721108,2018-07-21T23:10Z,Los Angeles Dodgers at Milwaukee Brewers,Milwaukee Brewers,Los Angeles Dodgers,4,2,1.0
+380721117,2018-07-21T23:10Z,Pittsburgh Pirates at Cincinnati Reds,Cincinnati Reds,Pittsburgh Pirates,2,6,0.0
+380721103,2018-07-21T23:15Z,Houston Astros at Los Angeles Angels,Los Angeles Angels,Houston Astros,0,7,0.0
+380721107,2018-07-21T23:15Z,Minnesota Twins at Kansas City Royals,Kansas City Royals,Minnesota Twins,4,2,1.0
+380721316,2018-07-21T23:15Z,St. Louis Cardinals at Chicago Cubs,Chicago Cubs,St. Louis Cardinals,3,6,0.0
+380721113,2018-07-22T00:05Z,Cleveland Indians at Texas Rangers,Texas Rangers,Cleveland Indians,3,16,0.0
+380721129,2018-07-22T00:10Z,Colorado Rockies at Arizona Diamondbacks,Arizona Diamondbacks,Colorado Rockies,5,6,0.0
+380721111,2018-07-22T01:00Z,San Francisco Giants at Oakland Athletics,Oakland Athletics,San Francisco Giants,4,3,1.0
+380721112,2018-07-22T02:10Z,Chicago White Sox at Seattle Mariners,Seattle Mariners,Chicago White Sox,0,5,0.0
+380722222,2018-07-22T16:05Z,San Diego Padres at Philadelphia Phillies,Philadelphia Phillies,San Diego Padres,2,10,0.0
+380722114,2018-07-22T17:07Z,Baltimore Orioles at Toronto Blue Jays,Toronto Blue Jays,Baltimore Orioles,5,4,1.0
+380722106,2018-07-22T17:10Z,Boston Red Sox at Detroit Tigers,Detroit Tigers,Boston Red Sox,1,9,0.0
+380722117,2018-07-22T17:10Z,Pittsburgh Pirates at Cincinnati Reds,Cincinnati Reds,Pittsburgh Pirates,2,9,0.0
+380722130,2018-07-22T17:10Z,Miami Marlins at Tampa Bay Rays,Tampa Bay Rays,Miami Marlins,6,4,1.0
+380722120,2018-07-22T17:35Z,Atlanta Braves at Washington Nationals,Washington Nationals,Atlanta Braves,6,2,1.0
+380722108,2018-07-22T18:10Z,Los Angeles Dodgers at Milwaukee Brewers,Milwaukee Brewers,Los Angeles Dodgers,2,11,0.0
+380722107,2018-07-22T18:15Z,Minnesota Twins at Kansas City Royals,Kansas City Royals,Minnesota Twins,5,3,1.0
+380722116,2018-07-22T18:20Z,St. Louis Cardinals at Chicago Cubs,Chicago Cubs,St. Louis Cardinals,7,2,1.0
+380722113,2018-07-22T19:05Z,Cleveland Indians at Texas Rangers,Texas Rangers,Cleveland Indians,5,0,1.0
+380722103,2018-07-22T20:00Z,Houston Astros at Los Angeles Angels,Los Angeles Angels,Houston Astros,14,5,1.0
+380722111,2018-07-22T20:05Z,San Francisco Giants at Oakland Athletics,Oakland Athletics,San Francisco Giants,6,5,1.0
+380722112,2018-07-22T20:10Z,Chicago White Sox at Seattle Mariners,Seattle Mariners,Chicago White Sox,8,2,1.0
+380722129,2018-07-22T20:10Z,Colorado Rockies at Arizona Diamondbacks,Arizona Diamondbacks,Colorado Rockies,6,1,1.0
+380722322,2018-07-22T22:05Z,San Diego Padres at Philadelphia Phillies,Philadelphia Phillies,San Diego Padres,5,0,1.0
+380722110,2018-07-23T00:00Z,New York Mets at New York Yankees,New York Yankees,New York Mets,0,0,0.5
+380723101,2018-07-23T23:05Z,Boston Red Sox at Baltimore Orioles,Baltimore Orioles,Boston Red Sox,3,5,0.0
+380723122,2018-07-23T23:05Z,Los Angeles Dodgers at Philadelphia Phillies,Philadelphia Phillies,Los Angeles Dodgers,6,7,0.0
+380723114,2018-07-23T23:07Z,Minnesota Twins at Toronto Blue Jays,Toronto Blue Jays,Minnesota Twins,3,8,0.0
+380723105,2018-07-23T23:10Z,Pittsburgh Pirates at Cleveland Indians,Cleveland Indians,Pittsburgh Pirates,0,7,0.0
+380723117,2018-07-23T23:10Z,St. Louis Cardinals at Cincinnati Reds,Cincinnati Reds,St. Louis Cardinals,2,1,1.0
+380723121,2018-07-23T23:10Z,San Diego Padres at New York Mets,New York Mets,San Diego Padres,2,3,0.0
+380723128,2018-07-23T23:10Z,Atlanta Braves at Miami Marlins,Miami Marlins,Atlanta Braves,1,12,0.0
+380723130,2018-07-23T23:10Z,New York Yankees at Tampa Bay Rays,Tampa Bay Rays,New York Yankees,7,6,1.0
+380723116,2018-07-24T00:00Z,Arizona Diamondbacks at Chicago Cubs,Chicago Cubs,Arizona Diamondbacks,1,7,0.0
+380723113,2018-07-24T00:05Z,Oakland Athletics at Texas Rangers,Texas Rangers,Oakland Athletics,3,15,0.0
+380723107,2018-07-24T00:10Z,Detroit Tigers at Kansas City Royals,Kansas City Royals,Detroit Tigers,4,5,0.0
+380723108,2018-07-24T00:10Z,Washington Nationals at Milwaukee Brewers,Milwaukee Brewers,Washington Nationals,6,1,1.0
+380723103,2018-07-24T02:07Z,Chicago White Sox at Los Angeles Angels,Los Angeles Angels,Chicago White Sox,3,5,0.0
+380724128,2018-07-24T16:10Z,Atlanta Braves at Miami Marlins,Miami Marlins,Atlanta Braves,9,3,1.0
+380724117,2018-07-24T23:00Z,St. Louis Cardinals at Cincinnati Reds,Cincinnati Reds,St. Louis Cardinals,2,4,0.0
+380724101,2018-07-24T23:05Z,Boston Red Sox at Baltimore Orioles,Baltimore Orioles,Boston Red Sox,7,6,1.0
+380724122,2018-07-24T23:05Z,Los Angeles Dodgers at Philadelphia Phillies,Philadelphia Phillies,Los Angeles Dodgers,7,4,1.0
+380724114,2018-07-24T23:07Z,Minnesota Twins at Toronto Blue Jays,Toronto Blue Jays,Minnesota Twins,0,5,0.0
+380724105,2018-07-24T23:10Z,Pittsburgh Pirates at Cleveland Indians,Cleveland Indians,Pittsburgh Pirates,4,9,0.0
+380724121,2018-07-24T23:10Z,San Diego Padres at New York Mets,New York Mets,San Diego Padres,6,3,1.0
+380724130,2018-07-24T23:10Z,New York Yankees at Tampa Bay Rays,Tampa Bay Rays,New York Yankees,0,4,0.0
+380724113,2018-07-25T00:05Z,Oakland Athletics at Texas Rangers,Texas Rangers,Oakland Athletics,10,13,0.0
+380724116,2018-07-25T00:05Z,Arizona Diamondbacks at Chicago Cubs,Chicago Cubs,Arizona Diamondbacks,1,5,0.0
+380724108,2018-07-25T00:10Z,Washington Nationals at Milwaukee Brewers,Milwaukee Brewers,Washington Nationals,5,4,1.0
+380724107,2018-07-25T00:15Z,Detroit Tigers at Kansas City Royals,Kansas City Royals,Detroit Tigers,5,4,1.0
+380724127,2018-07-25T00:40Z,Houston Astros at Colorado Rockies,Colorado Rockies,Houston Astros,2,8,0.0
+380724103,2018-07-25T02:07Z,Chicago White Sox at Los Angeles Angels,Los Angeles Angels,Chicago White Sox,2,4,0.0
+380724112,2018-07-25T02:10Z,San Francisco Giants at Seattle Mariners,Seattle Mariners,San Francisco Giants,3,4,0.0
+380725121,2018-07-25T16:10Z,San Diego Padres at New York Mets,New York Mets,San Diego Padres,6,4,1.0
+380725130,2018-07-25T16:10Z,New York Yankees at Tampa Bay Rays,Tampa Bay Rays,New York Yankees,3,2,1.0
+380725117,2018-07-25T16:35Z,St. Louis Cardinals at Cincinnati Reds,Cincinnati Reds,St. Louis Cardinals,7,3,1.0
+380725122,2018-07-25T16:35Z,Los Angeles Dodgers at Philadelphia Phillies,Philadelphia Phillies,Los Angeles Dodgers,7,3,1.0
+380725105,2018-07-25T17:10Z,Pittsburgh Pirates at Cleveland Indians,Cleveland Indians,Pittsburgh Pirates,4,0,1.0
+380725108,2018-07-25T18:10Z,Washington Nationals at Milwaukee Brewers,Milwaukee Brewers,Washington Nationals,3,7,0.0
+380725107,2018-07-25T18:15Z,Detroit Tigers at Kansas City Royals,Kansas City Royals,Detroit Tigers,4,8,0.0
+380725116,2018-07-25T18:20Z,Arizona Diamondbacks at Chicago Cubs,Chicago Cubs,Arizona Diamondbacks,2,1,1.0
+380725114,2018-07-25T20:07Z,Minnesota Twins at Toronto Blue Jays,Toronto Blue Jays,Minnesota Twins,6,12,0.0
+380725112,2018-07-25T20:10Z,San Francisco Giants at Seattle Mariners,Seattle Mariners,San Francisco Giants,3,2,1.0
+380725101,2018-07-25T23:05Z,Boston Red Sox at Baltimore Orioles,Baltimore Orioles,Boston Red Sox,0,0,0.5
+380725113,2018-07-26T00:00Z,Oakland Athletics at Texas Rangers,Texas Rangers,Oakland Athletics,5,6,0.0
+380725127,2018-07-26T00:40Z,Houston Astros at Colorado Rockies,Colorado Rockies,Houston Astros,3,2,1.0
+380725103,2018-07-26T02:07Z,Chicago White Sox at Los Angeles Angels,Los Angeles Angels,Chicago White Sox,11,3,1.0
+380726116,2018-07-26T18:20Z,Arizona Diamondbacks at Chicago Cubs,Chicago Cubs,Arizona Diamondbacks,7,6,1.0
+380726103,2018-07-26T20:07Z,Chicago White Sox at Los Angeles Angels,Los Angeles Angels,Chicago White Sox,12,8,1.0
+380726117,2018-07-26T23:00Z,Philadelphia Phillies at Cincinnati Reds,Cincinnati Reds,Philadelphia Phillies,4,9,0.0
+380726101,2018-07-26T23:05Z,Tampa Bay Rays at Baltimore Orioles,Baltimore Orioles,Tampa Bay Rays,3,4,0.0
+380726110,2018-07-26T23:05Z,Kansas City Royals at New York Yankees,New York Yankees,Kansas City Royals,7,2,1.0
+380726123,2018-07-26T23:05Z,New York Mets at Pittsburgh Pirates,Pittsburgh Pirates,New York Mets,6,12,0.0
+380726102,2018-07-26T23:10Z,Minnesota Twins at Boston Red Sox,Boston Red Sox,Minnesota Twins,1,2,0.0
+380726128,2018-07-26T23:10Z,Washington Nationals at Miami Marlins,Miami Marlins,Washington Nationals,3,10,0.0
+380726115,2018-07-26T23:35Z,Los Angeles Dodgers at Atlanta Braves,Atlanta Braves,Los Angeles Dodgers,2,8,0.0
+380726113,2018-07-27T00:05Z,Oakland Athletics at Texas Rangers,Texas Rangers,Oakland Athletics,6,7,0.0
+380726126,2018-07-27T02:15Z,Milwaukee Brewers at San Francisco Giants,San Francisco Giants,Milwaukee Brewers,5,7,0.0
+380727106,2018-07-27T23:00Z,Cleveland Indians at Detroit Tigers,Detroit Tigers,Cleveland Indians,3,8,0.0
+380727101,2018-07-27T23:05Z,Tampa Bay Rays at Baltimore Orioles,Baltimore Orioles,Tampa Bay Rays,15,5,1.0
+380727110,2018-07-27T23:05Z,Kansas City Royals at New York Yankees,New York Yankees,Kansas City Royals,0,0,0.5
+380727123,2018-07-27T23:05Z,New York Mets at Pittsburgh Pirates,Pittsburgh Pirates,New York Mets,5,4,1.0
+380727102,2018-07-27T23:10Z,Minnesota Twins at Boston Red Sox,Boston Red Sox,Minnesota Twins,4,3,1.0
+380727117,2018-07-27T23:10Z,Philadelphia Phillies at Cincinnati Reds,Cincinnati Reds,Philadelphia Phillies,6,4,1.0
+380727128,2018-07-27T23:10Z,Washington Nationals at Miami Marlins,Miami Marlins,Washington Nationals,1,9,0.0
+380727115,2018-07-27T23:35Z,Los Angeles Dodgers at Atlanta Braves,Atlanta Braves,Los Angeles Dodgers,1,4,0.0
+380727104,2018-07-28T00:10Z,Toronto Blue Jays at Chicago White Sox,Chicago White Sox,Toronto Blue Jays,5,10,0.0
+380727118,2018-07-28T00:10Z,Texas Rangers at Houston Astros,Houston Astros,Texas Rangers,2,11,0.0
+380727124,2018-07-28T00:15Z,Chicago Cubs at St. Louis Cardinals,St. Louis Cardinals,Chicago Cubs,5,2,1.0
+380727127,2018-07-28T00:40Z,Oakland Athletics at Colorado Rockies,Colorado Rockies,Oakland Athletics,3,1,1.0
+380727103,2018-07-28T02:07Z,Seattle Mariners at Los Angeles Angels,Los Angeles Angels,Seattle Mariners,4,3,1.0
+380727125,2018-07-28T02:10Z,Arizona Diamondbacks at San Diego Padres,San Diego Padres,Arizona Diamondbacks,2,6,0.0
+380727126,2018-07-28T02:15Z,Milwaukee Brewers at San Francisco Giants,San Francisco Giants,Milwaukee Brewers,1,3,0.0
+380728210,2018-07-28T17:00Z,Kansas City Royals at New York Yankees,New York Yankees,Kansas City Royals,5,10,0.0
+380728124,2018-07-28T20:05Z,Chicago Cubs at St. Louis Cardinals,St. Louis Cardinals,Chicago Cubs,6,2,1.0
+380728106,2018-07-28T22:10Z,Cleveland Indians at Detroit Tigers,Detroit Tigers,Cleveland Indians,2,1,1.0
+380728117,2018-07-28T22:40Z,Philadelphia Phillies at Cincinnati Reds,Cincinnati Reds,Philadelphia Phillies,6,2,1.0
+380728101,2018-07-28T23:05Z,Tampa Bay Rays at Baltimore Orioles,Baltimore Orioles,Tampa Bay Rays,11,2,1.0
+380728123,2018-07-28T23:05Z,New York Mets at Pittsburgh Pirates,Pittsburgh Pirates,New York Mets,5,0,1.0
+380728310,2018-07-28T23:05Z,Kansas City Royals at New York Yankees,New York Yankees,Kansas City Royals,5,4,1.0
+380728102,2018-07-28T23:10Z,Minnesota Twins at Boston Red Sox,Boston Red Sox,Minnesota Twins,10,4,1.0
+380728104,2018-07-28T23:10Z,Toronto Blue Jays at Chicago White Sox,Chicago White Sox,Toronto Blue Jays,9,5,1.0
+380728115,2018-07-28T23:10Z,Los Angeles Dodgers at Atlanta Braves,Atlanta Braves,Los Angeles Dodgers,1,5,0.0
+380728118,2018-07-28T23:10Z,Texas Rangers at Houston Astros,Houston Astros,Texas Rangers,3,7,0.0
+380728128,2018-07-28T23:10Z,Washington Nationals at Miami Marlins,Miami Marlins,Washington Nationals,2,1,1.0
+380728127,2018-07-29T00:10Z,Oakland Athletics at Colorado Rockies,Colorado Rockies,Oakland Athletics,4,1,1.0
+380728125,2018-07-29T00:40Z,Arizona Diamondbacks at San Diego Padres,San Diego Padres,Arizona Diamondbacks,4,9,0.0
+380728126,2018-07-29T01:05Z,Milwaukee Brewers at San Francisco Giants,San Francisco Giants,Milwaukee Brewers,1,7,0.0
+380728103,2018-07-29T01:07Z,Seattle Mariners at Los Angeles Angels,Los Angeles Angels,Seattle Mariners,11,5,1.0
+380729101,2018-07-29T17:05Z,Tampa Bay Rays at Baltimore Orioles,Baltimore Orioles,Tampa Bay Rays,11,5,1.0
+380729102,2018-07-29T17:05Z,Minnesota Twins at Boston Red Sox,Boston Red Sox,Minnesota Twins,3,0,1.0
+380729110,2018-07-29T17:05Z,Kansas City Royals at New York Yankees,New York Yankees,Kansas City Royals,6,3,1.0
+380729106,2018-07-29T17:10Z,Cleveland Indians at Detroit Tigers,Detroit Tigers,Cleveland Indians,1,8,0.0
+380729117,2018-07-29T17:10Z,Philadelphia Phillies at Cincinnati Reds,Cincinnati Reds,Philadelphia Phillies,4,0,1.0
+380729128,2018-07-29T17:10Z,Washington Nationals at Miami Marlins,Miami Marlins,Washington Nationals,5,0,1.0
+380729115,2018-07-29T17:35Z,Los Angeles Dodgers at Atlanta Braves,Atlanta Braves,Los Angeles Dodgers,4,1,1.0
+380729123,2018-07-29T17:35Z,New York Mets at Pittsburgh Pirates,Pittsburgh Pirates,New York Mets,0,1,0.0
+380729104,2018-07-29T18:10Z,Toronto Blue Jays at Chicago White Sox,Chicago White Sox,Toronto Blue Jays,4,7,0.0
+380729118,2018-07-29T18:10Z,Texas Rangers at Houston Astros,Houston Astros,Texas Rangers,3,4,0.0
+380729127,2018-07-29T19:10Z,Oakland Athletics at Colorado Rockies,Colorado Rockies,Oakland Athletics,3,2,1.0
+380729103,2018-07-29T20:00Z,Seattle Mariners at Los Angeles Angels,Los Angeles Angels,Seattle Mariners,5,8,0.0
+380729126,2018-07-29T20:05Z,Milwaukee Brewers at San Francisco Giants,San Francisco Giants,Milwaukee Brewers,8,5,1.0
+380729125,2018-07-29T20:10Z,Arizona Diamondbacks at San Diego Padres,San Diego Padres,Arizona Diamondbacks,4,5,0.0
+380729124,2018-07-30T00:00Z,Chicago Cubs at St. Louis Cardinals,St. Louis Cardinals,Chicago Cubs,2,5,0.0
+380730102,2018-07-30T23:00Z,Philadelphia Phillies at Boston Red Sox,Boston Red Sox,Philadelphia Phillies,2,1,1.0
+380730115,2018-07-30T23:35Z,Miami Marlins at Atlanta Braves,Atlanta Braves,Miami Marlins,5,3,1.0
+380730109,2018-07-31T00:00Z,Cleveland Indians at Minnesota Twins,Minnesota Twins,Cleveland Indians,5,4,1.0
+380730124,2018-07-31T00:10Z,Colorado Rockies at St. Louis Cardinals,St. Louis Cardinals,Colorado Rockies,5,4,1.0
+380730129,2018-07-31T01:40Z,Texas Rangers at Arizona Diamondbacks,Arizona Diamondbacks,Texas Rangers,5,9,0.0
+380730119,2018-07-31T02:00Z,Milwaukee Brewers at Los Angeles Dodgers,Los Angeles Dodgers,Milwaukee Brewers,2,5,0.0
+400984489,2018-07-31T02:05Z,Toronto Blue Jays at Oakland Athletics,Oakland Athletics,Toronto Blue Jays,10,1,1.0
+380730112,2018-07-31T02:10Z,Houston Astros at Seattle Mariners,Seattle Mariners,Houston Astros,2,0,1.0
+380730125,2018-07-31T02:10Z,San Francisco Giants at San Diego Padres,San Diego Padres,San Francisco Giants,3,5,0.0
+380731125,2018-07-31T20:10Z,San Francisco Giants at San Diego Padres,San Diego Padres,San Francisco Giants,2,3,0.0
+380731102,2018-07-31T23:00Z,Philadelphia Phillies at Boston Red Sox,Boston Red Sox,Philadelphia Phillies,1,3,0.0
+380731110,2018-07-31T23:05Z,Baltimore Orioles at New York Yankees,New York Yankees,Baltimore Orioles,6,3,1.0
+380731120,2018-07-31T23:05Z,New York Mets at Washington Nationals,Washington Nationals,New York Mets,25,4,1.0
+380731123,2018-07-31T23:05Z,Chicago Cubs at Pittsburgh Pirates,Pittsburgh Pirates,Chicago Cubs,5,4,1.0
+380731106,2018-07-31T23:10Z,Cincinnati Reds at Detroit Tigers,Detroit Tigers,Cincinnati Reds,2,1,1.0
+380731130,2018-07-31T23:10Z,Los Angeles Angels at Tampa Bay Rays,Tampa Bay Rays,Los Angeles Angels,10,6,1.0
+380731115,2018-07-31T23:35Z,Miami Marlins at Atlanta Braves,Atlanta Braves,Miami Marlins,11,6,1.0
+380731104,2018-08-01T00:10Z,Kansas City Royals at Chicago White Sox,Chicago White Sox,Kansas City Royals,2,4,0.0
+380731109,2018-08-01T00:10Z,Cleveland Indians at Minnesota Twins,Minnesota Twins,Cleveland Indians,2,6,0.0
+380731124,2018-08-01T00:15Z,Colorado Rockies at St. Louis Cardinals,St. Louis Cardinals,Colorado Rockies,3,6,0.0
+380731129,2018-08-01T01:40Z,Texas Rangers at Arizona Diamondbacks,Arizona Diamondbacks,Texas Rangers,6,0,1.0
+380731111,2018-08-01T02:05Z,Toronto Blue Jays at Oakland Athletics,Oakland Athletics,Toronto Blue Jays,6,2,1.0
+380731112,2018-08-01T02:10Z,Houston Astros at Seattle Mariners,Seattle Mariners,Houston Astros,2,5,0.0
+380731119,2018-08-01T02:10Z,Milwaukee Brewers at Los Angeles Dodgers,Los Angeles Dodgers,Milwaukee Brewers,0,1,0.0
+380717132,2018-07-18T00:00Z,American All-Stars at National All-Stars,National All-Stars,American All-Stars,6,8,0.0

@@ -1,0 +1,35 @@
+id,date,event,home,away,hs,as,res
+401545111,2023-05-01T23:30Z,Philadelphia 76ers at Boston Celtics,Boston Celtics,Philadelphia 76ers,115,119,0.0
+401544335,2023-05-02T02:00Z,Phoenix Suns at Denver Nuggets,Denver Nuggets,Phoenix Suns,97,87,1.0
+401544974,2023-05-02T23:30Z,Miami Heat at New York Knicks,New York Knicks,Miami Heat,111,105,1.0
+401545231,2023-05-03T02:00Z,Los Angeles Lakers at Golden State Warriors,Golden State Warriors,Los Angeles Lakers,112,117,0.0
+401545112,2023-05-04T00:00Z,Philadelphia 76ers at Boston Celtics,Boston Celtics,Philadelphia 76ers,121,87,1.0
+401545232,2023-05-05T01:00Z,Los Angeles Lakers at Golden State Warriors,Golden State Warriors,Los Angeles Lakers,127,100,1.0
+401545113,2023-05-05T23:30Z,Boston Celtics at Philadelphia 76ers,Philadelphia 76ers,Boston Celtics,102,114,0.0
+401544336,2023-05-06T02:00Z,Denver Nuggets at Phoenix Suns,Phoenix Suns,Denver Nuggets,121,114,1.0
+401544975,2023-05-06T19:30Z,New York Knicks at Miami Heat,Miami Heat,New York Knicks,105,86,1.0
+401545233,2023-05-07T00:30Z,Golden State Warriors at Los Angeles Lakers,Los Angeles Lakers,Golden State Warriors,127,97,1.0
+401545114,2023-05-07T19:30Z,Boston Celtics at Philadelphia 76ers,Philadelphia 76ers,Boston Celtics,116,115,1.0
+401544337,2023-05-08T00:00Z,Denver Nuggets at Phoenix Suns,Phoenix Suns,Denver Nuggets,129,124,1.0
+401544976,2023-05-08T23:30Z,New York Knicks at Miami Heat,Miami Heat,New York Knicks,109,101,1.0
+401545234,2023-05-09T02:00Z,Golden State Warriors at Los Angeles Lakers,Los Angeles Lakers,Golden State Warriors,104,101,1.0
+401545115,2023-05-09T23:30Z,Philadelphia 76ers at Boston Celtics,Boston Celtics,Philadelphia 76ers,103,115,0.0
+401544338,2023-05-10T02:00Z,Phoenix Suns at Denver Nuggets,Denver Nuggets,Phoenix Suns,118,102,1.0
+401544977,2023-05-10T23:30Z,Miami Heat at New York Knicks,New York Knicks,Miami Heat,112,103,1.0
+401545235,2023-05-11T02:00Z,Los Angeles Lakers at Golden State Warriors,Golden State Warriors,Los Angeles Lakers,121,106,1.0
+401545116,2023-05-11T23:30Z,Boston Celtics at Philadelphia 76ers,Philadelphia 76ers,Boston Celtics,86,95,0.0
+401544339,2023-05-12T02:00Z,Denver Nuggets at Phoenix Suns,Phoenix Suns,Denver Nuggets,100,125,0.0
+401544978,2023-05-12T23:30Z,New York Knicks at Miami Heat,Miami Heat,New York Knicks,96,92,1.0
+401545236,2023-05-13T02:00Z,Golden State Warriors at Los Angeles Lakers,Los Angeles Lakers,Golden State Warriors,122,101,1.0
+401545117,2023-05-14T19:30Z,Philadelphia 76ers at Boston Celtics,Boston Celtics,Philadelphia 76ers,112,88,1.0
+401547679,2023-05-17T00:30Z,Los Angeles Lakers at Denver Nuggets,Denver Nuggets,Los Angeles Lakers,132,126,1.0
+401547671,2023-05-18T00:30Z,Miami Heat at Boston Celtics,Boston Celtics,Miami Heat,116,123,0.0
+401547682,2023-05-19T00:30Z,Los Angeles Lakers at Denver Nuggets,Denver Nuggets,Los Angeles Lakers,108,103,1.0
+401547672,2023-05-20T00:30Z,Miami Heat at Boston Celtics,Boston Celtics,Miami Heat,105,111,0.0
+401547683,2023-05-21T00:30Z,Denver Nuggets at Los Angeles Lakers,Los Angeles Lakers,Denver Nuggets,108,119,0.0
+401547673,2023-05-22T00:30Z,Boston Celtics at Miami Heat,Miami Heat,Boston Celtics,128,102,1.0
+401547684,2023-05-23T00:30Z,Denver Nuggets at Los Angeles Lakers,Los Angeles Lakers,Denver Nuggets,111,113,0.0
+401547674,2023-05-24T00:30Z,Boston Celtics at Miami Heat,Miami Heat,Boston Celtics,99,116,0.0
+401547675,2023-05-26T00:30Z,Miami Heat at Boston Celtics,Boston Celtics,Miami Heat,110,97,1.0
+401547676,2023-05-28T00:30Z,Boston Celtics at Miami Heat,Miami Heat,Boston Celtics,103,104,0.0
+401547678,2023-05-30T00:30Z,Miami Heat at Boston Celtics,Boston Celtics,Miami Heat,84,103,0.0

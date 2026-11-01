@@ -1,0 +1,49 @@
+id,date,event,home,away,hs,as,res
+401773001,2025-08-07T23:00Z,Indianapolis Colts at Baltimore Ravens,Baltimore Ravens,Indianapolis Colts,24,16,1.0
+401773005,2025-08-07T23:30Z,Cincinnati Bengals at Philadelphia Eagles,Philadelphia Eagles,Cincinnati Bengals,34,27,1.0
+401774568,2025-08-08T02:00Z,Las Vegas Raiders at Seattle Seahawks,Seattle Seahawks,Las Vegas Raiders,23,23,0.5
+401773016,2025-08-08T23:00Z,Detroit Lions at Atlanta Falcons,Atlanta Falcons,Detroit Lions,10,17,0.0
+401773018,2025-08-08T23:00Z,Cleveland Browns at Carolina Panthers,Carolina Panthers,Cleveland Browns,10,30,0.0
+401772996,2025-08-08T23:30Z,Washington Commanders at New England Patriots,New England Patriots,Washington Commanders,48,18,1.0
+401776263,2025-08-09T17:00Z,New York Giants at Buffalo Bills,Buffalo Bills,New York Giants,25,34,0.0
+401773012,2025-08-09T20:00Z,Houston Texans at Minnesota Vikings,Minnesota Vikings,Houston Texans,20,10,1.0
+401773020,2025-08-09T23:00Z,Dallas Cowboys at Los Angeles Rams,Los Angeles Rams,Dallas Cowboys,31,21,1.0
+401773002,2025-08-09T23:00Z,Pittsburgh Steelers at Jacksonville Jaguars,Jacksonville Jaguars,Pittsburgh Steelers,25,31,0.0
+401774029,2025-08-09T23:30Z,Tennessee Titans at Tampa Bay Buccaneers,Tampa Bay Buccaneers,Tennessee Titans,29,7,1.0
+401773010,2025-08-10T00:00Z,New York Jets at Green Bay Packers,Green Bay Packers,New York Jets,10,30,0.0
+401774636,2025-08-10T00:00Z,Kansas City Chiefs at Arizona Cardinals,Arizona Cardinals,Kansas City Chiefs,20,17,1.0
+401776566,2025-08-10T00:30Z,Denver Broncos at San Francisco 49ers,San Francisco 49ers,Denver Broncos,9,30,0.0
+401776564,2025-08-10T17:00Z,Miami Dolphins at Chicago Bears,Chicago Bears,Miami Dolphins,24,24,0.5
+401773026,2025-08-10T20:00Z,New Orleans Saints at Los Angeles Chargers,Los Angeles Chargers,New Orleans Saints,27,13,1.0
+401773017,2025-08-15T23:00Z,Tennessee Titans at Atlanta Falcons,Atlanta Falcons,Tennessee Titans,20,23,0.0
+401774591,2025-08-16T02:00Z,Kansas City Chiefs at Seattle Seahawks,Seattle Seahawks,Kansas City Chiefs,33,16,1.0
+401776264,2025-08-16T17:00Z,Miami Dolphins at Detroit Lions,Detroit Lions,Miami Dolphins,17,24,0.0
+401773003,2025-08-16T17:00Z,Green Bay Packers at Indianapolis Colts,Indianapolis Colts,Green Bay Packers,19,23,0.0
+401773013,2025-08-16T17:00Z,New England Patriots at Minnesota Vikings,Minnesota Vikings,New England Patriots,12,20,0.0
+401773006,2025-08-16T17:00Z,Cleveland Browns at Philadelphia Eagles,Philadelphia Eagles,Cleveland Browns,13,22,0.0
+401773027,2025-08-16T17:00Z,Carolina Panthers at Houston Texans,Houston Texans,Carolina Panthers,20,3,1.0
+401774569,2025-08-16T20:05Z,San Francisco 49ers at Las Vegas Raiders,Las Vegas Raiders,San Francisco 49ers,19,22,0.0
+401773007,2025-08-16T23:00Z,Baltimore Ravens at Dallas Cowboys,Dallas Cowboys,Baltimore Ravens,13,31,0.0
+401773021,2025-08-16T23:00Z,Los Angeles Chargers at Los Angeles Rams,Los Angeles Rams,Los Angeles Chargers,23,22,1.0
+401773009,2025-08-16T23:00Z,New York Jets at New York Giants,New York Giants,New York Jets,31,12,1.0
+401773000,2025-08-16T23:00Z,Tampa Bay Buccaneers at Pittsburgh Steelers,Pittsburgh Steelers,Tampa Bay Buccaneers,14,17,0.0
+401774637,2025-08-17T01:30Z,Arizona Cardinals at Denver Broncos,Denver Broncos,Arizona Cardinals,27,7,1.0
+401773014,2025-08-17T17:00Z,Jacksonville Jaguars at New Orleans Saints,New Orleans Saints,Jacksonville Jaguars,17,17,0.5
+401772972,2025-08-18T00:00Z,Buffalo Bills at Chicago Bears,Chicago Bears,Buffalo Bills,38,0,1.0
+401772973,2025-08-19T00:00Z,Cincinnati Bengals at Washington Commanders,Washington Commanders,Cincinnati Bengals,17,31,0.0
+401773019,2025-08-21T23:00Z,Pittsburgh Steelers at Carolina Panthers,Carolina Panthers,Pittsburgh Steelers,10,19,0.0
+401772974,2025-08-22T00:00Z,New England Patriots at New York Giants,New York Giants,New England Patriots,42,10,1.0
+401772997,2025-08-22T23:30Z,Philadelphia Eagles at New York Jets,New York Jets,Philadelphia Eagles,17,19,0.0
+401773008,2025-08-23T00:00Z,Atlanta Falcons at Dallas Cowboys,Dallas Cowboys,Atlanta Falcons,31,13,1.0
+401772975,2025-08-23T00:00Z,Minnesota Vikings at Tennessee Titans,Tennessee Titans,Minnesota Vikings,23,13,1.0
+401773004,2025-08-23T00:20Z,Chicago Bears at Kansas City Chiefs,Kansas City Chiefs,Chicago Bears,27,29,0.0
+401777124,2025-08-23T16:00Z,Baltimore Ravens at Washington Commanders,Washington Commanders,Baltimore Ravens,3,30,0.0
+401772998,2025-08-23T17:00Z,Indianapolis Colts at Cincinnati Bengals,Cincinnati Bengals,Indianapolis Colts,14,41,0.0
+401772999,2025-08-23T17:00Z,Los Angeles Rams at Cleveland Browns,Cleveland Browns,Los Angeles Rams,19,17,1.0
+401776265,2025-08-23T17:00Z,Houston Texans at Detroit Lions,Detroit Lions,Houston Texans,7,26,0.0
+401773015,2025-08-23T17:00Z,Denver Broncos at New Orleans Saints,New Orleans Saints,Denver Broncos,19,28,0.0
+401773011,2025-08-23T20:00Z,Seattle Seahawks at Green Bay Packers,Green Bay Packers,Seattle Seahawks,20,7,1.0
+401776565,2025-08-23T23:00Z,Jacksonville Jaguars at Miami Dolphins,Miami Dolphins,Jacksonville Jaguars,14,6,1.0
+401774030,2025-08-23T23:30Z,Buffalo Bills at Tampa Bay Buccaneers,Tampa Bay Buccaneers,Buffalo Bills,19,23,0.0
+401776567,2025-08-24T00:30Z,Los Angeles Chargers at San Francisco 49ers,San Francisco 49ers,Los Angeles Chargers,30,23,1.0
+401774590,2025-08-24T02:00Z,Las Vegas Raiders at Arizona Cardinals,Arizona Cardinals,Las Vegas Raiders,20,10,1.0

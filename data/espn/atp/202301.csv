@@ -1,0 +1,763 @@
+id,date,event,home,away,hs,as,res
+169259,2022-12-31T01:30Z,Adelaide International,Anastasia Potapova,Taylor Townsend,,,1.0
+169333,2022-12-31T03:35Z,Adelaide International,Katerina Siniakova,Kamilla Rakhimova,,,1.0
+128930,2022-12-31T23:30Z,Adelaide International,Viktorija Golubic,Storm Hunter,,,1.0
+128931,2022-12-31T23:35Z,Adelaide International,Anastasia Potapova,Linda Noskova,,,0.0
+128970,2023-01-01T00:40Z,Adelaide International,Garbine Muguruza,Bianca Andreescu,,,0.0
+128933,2023-01-01T01:10Z,Adelaide International,Katerina Siniakova,Claire Liu,,,0.0
+128932,2023-01-01T02:35Z,Adelaide International,Shelby Rogers,Kimberly Birrell,,,1.0
+128973,2023-01-01T03:10Z,Adelaide International,Kaia Kanepi,Aliaksandra Sasnovich,,,1.0
+128928,2023-01-01T03:20Z,Adelaide International,Anhelina Kalinina,Anna Bondar,,,1.0
+128934,2023-01-01T04:00Z,Adelaide International,Mayar Sherif,Marta Kostyuk,,,0.0
+128990,2023-01-02T00:30Z,Adelaide International,Daria Kasatkina,Linda Noskova,,,0.0
+128969,2023-01-02T00:40Z,Adelaide International,Irina-Camelia Begu,Shelby Rogers,,,1.0
+128971,2023-01-02T03:30Z,Adelaide International,Amanda Anisimova,Veronika Kudermetova,,,0.0
+128985,2023-01-02T06:50Z,Adelaide International,Jaimee Fourlis,Marta Kostyuk,,,0.0
+128988,2023-01-02T08:00Z,Adelaide International,Elena Rybakina,Danielle Collins,,,1.0
+128974,2023-01-02T08:50Z,Adelaide International,Zhang Shuai,Liudmila Samsonova,,,0.0
+128967,2023-01-03T00:45Z,Adelaide International,Zheng Qinwen,Anett Kontaveit,,,1.0
+128972,2023-01-03T03:20Z,Adelaide International,Ekaterina Alexandrova,Marketa Vondrousova,,,0.0
+128966,2023-01-03T04:35Z,Adelaide International,Anhelina Kalinina,Victoria Azarenka,,,0.0
+128992,2023-01-03T05:20Z,Adelaide International,Claire Liu,Priscilla Hon,,,1.0
+128984,2023-01-03T07:45Z,Adelaide International,Sorana Cirstea,Viktorija Golubic,,,1.0
+128968,2023-01-03T10:15Z,Adelaide International,Jelena Ostapenko,Karolina Pliskova,,,1.0
+128983,2023-01-04T00:30Z,Adelaide International,Marketa Vondrousova,Kaia Kanepi,,,1.0
+128986,2023-01-04T02:00Z,Adelaide International,Liudmila Samsonova,Aryna Sabalenka,,,0.0
+128977,2023-01-04T05:55Z,Adelaide International,Marta Kostyuk,Elena Rybakina,,,1.0
+128981,2023-01-04T08:15Z,Adelaide International,Bianca Andreescu,Veronika Kudermetova,,,0.0
+128978,2023-01-05T00:30Z,Adelaide International,Linda Noskova,Claire Liu,,,1.0
+128980,2023-01-05T02:10Z,Adelaide International,Jelena Ostapenko,Irina-Camelia Begu,,,0.0
+128979,2023-01-05T04:30Z,Adelaide International,Victoria Azarenka,Zheng Qinwen,,,1.0
+128976,2023-01-05T10:25Z,Adelaide International,Ons Jabeur,Sorana Cirstea,,,1.0
+128993,2023-01-06T00:40Z,Adelaide International,Marketa Vondrousova,Aryna Sabalenka,,,0.0
+128991,2023-01-06T03:45Z,Adelaide International,Irina-Camelia Begu,Veronika Kudermetova,,,1.0
+128989,2023-01-06T06:05Z,Adelaide International,Linda Noskova,Victoria Azarenka,,,1.0
+128987,2023-01-06T08:10Z,Adelaide International,Ons Jabeur,Marta Kostyuk,,,1.0
+128995,2023-01-07T03:40Z,Adelaide International,Irina-Camelia Begu,Aryna Sabalenka,,,0.0
+128994,2023-01-07T08:05Z,Adelaide International,Ons Jabeur,Linda Noskova,,,0.0
+128996,2023-01-08T05:35Z,Adelaide International,Linda Noskova,Aryna Sabalenka,,,0.0
+128926,2022-12-31T23:30Z,Adelaide International,Wu Yibing,Alexei Popyrin,,,0.0
+128927,2023-01-01T01:00Z,Adelaide International,Roman Safiullin,Vasek Pospisil,,,1.0
+128925,2023-01-01T02:30Z,Adelaide International,SoonWoo Kwon,Taro Daniel,,,1.0
+128929,2023-01-01T04:00Z,Adelaide International,Rinky Hijikata,James Duckworth,,,1.0
+128962,2023-01-01T05:30Z,Adelaide International,Marcos Giron,Richard Gasquet,,,1.0
+128961,2023-01-01T08:00Z,Adelaide International,Mackenzie McDonald,Daniel Elahi Galan,,,1.0
+128952,2023-01-02T00:40Z,Adelaide International,Miomir Kecmanovic,Christopher O'Connell,,,1.0
+128960,2023-01-02T04:15Z,Adelaide International,Holger Rune,Yoshihito Nishioka,,,0.0
+128936,2023-01-02T05:05Z,Adelaide International,Alexei Popyrin,Felix Auger-Aliassime,,,1.0
+128945,2023-01-02T05:15Z,Adelaide International,Jordan Thompson,Quentin Halys,,,0.0
+128947,2023-01-02T06:50Z,Adelaide International,Mikael Ymer,Roman Safiullin,,,0.0
+128954,2023-01-02T08:40Z,Adelaide International,SoonWoo Kwon,Jack Draper,,,0.0
+128957,2023-01-02T10:50Z,Adelaide International,Thanasi Kokkinakis,Maxime Cressy,,,1.0
+128935,2023-01-03T00:40Z,Adelaide International,Daniil Medvedev,Lorenzo Sonego,,,1.0
+128955,2023-01-03T02:20Z,Adelaide International,Pedro Cachin,Karen Khachanov,,,0.0
+128943,2023-01-03T03:00Z,Adelaide International,Novak Djokovic,Constant Lestienne,,,1.0
+128956,2023-01-03T05:55Z,Adelaide International,Jannik Sinner,Kyle Edmund,,,1.0
+128948,2023-01-03T07:15Z,Adelaide International,Rinky Hijikata,Denis Shapovalov,,,0.0
+128959,2023-01-03T08:10Z,Adelaide International,Roberto Bautista Agut,Andrey Rublev,,,1.0
+128958,2023-01-03T09:35Z,Adelaide International,Andy Murray,Sebastian Korda,,,0.0
+128940,2023-01-04T00:45Z,Adelaide International,Jack Draper,Karen Khachanov,,,0.0
+128944,2023-01-04T02:30Z,Adelaide International,Yoshihito Nishioka,Mackenzie McDonald,,,1.0
+128939,2023-01-04T04:40Z,Adelaide International,Daniil Medvedev,Miomir Kecmanovic,,,1.0
+128946,2023-01-04T10:10Z,Adelaide International,Marcos Giron,Alexei Popyrin,,,0.0
+128938,2023-01-05T00:35Z,Adelaide International,Roman Safiullin,Denis Shapovalov,,,0.0
+128937,2023-01-05T02:20Z,Adelaide International,Novak Djokovic,Quentin Halys,,,1.0
+128942,2023-01-05T03:40Z,Adelaide International,Sebastian Korda,Roberto Bautista Agut,,,1.0
+128941,2023-01-05T08:10Z,Adelaide International,Jannik Sinner,Thanasi Kokkinakis,,,1.0
+128953,2023-01-06T00:35Z,Adelaide International,Yoshihito Nishioka,Alexei Popyrin,,,1.0
+128951,2023-01-06T02:40Z,Adelaide International,Jannik Sinner,Sebastian Korda,,,0.0
+128950,2023-01-06T04:40Z,Adelaide International,Daniil Medvedev,Karen Khachanov,,,1.0
+128949,2023-01-06T10:20Z,Adelaide International,Novak Djokovic,Denis Shapovalov,,,1.0
+128963,2023-01-07T05:35Z,Adelaide International,Sebastian Korda,Yoshihito Nishioka,,,1.0
+128964,2023-01-07T10:20Z,Adelaide International,Novak Djokovic,Daniil Medvedev,,,1.0
+128965,2023-01-08T07:50Z,Adelaide International,Novak Djokovic,Sebastian Korda,,,1.0
+170621,2022-12-30T22:10Z,ASB Classic,Lucrezia Stefanini,Arantxa Rus,,,0.0
+170625,2022-12-30T22:10Z,ASB Classic,Varvara Gracheva,Caroline Dolehide,,,1.0
+170626,2022-12-30T22:10Z,ASB Classic,Ysaline Bonaventure,Elsa Jacquemot,,,1.0
+170620,2022-12-30T23:30Z,ASB Classic,Aliona Bolsova,Elena-Gabriela Ruse,,,0.0
+170618,2022-12-31T00:00Z,ASB Classic,Viktoria Hruncakova,Elizabeth Mandlik,,,1.0
+170619,2022-12-31T00:35Z,ASB Classic,Moyuka Uchijima,Chloe Paquet,,,1.0
+170627,2022-12-31T01:30Z,ASB Classic,Sara Errani,Vivian Yang,,,1.0
+170623,2022-12-31T01:35Z,ASB Classic,Katherine Sebov,Rebeka Masarova,,,0.0
+170624,2022-12-31T02:25Z,ASB Classic,Diana Shnaider,Jaqueline Cristian,,,0.0
+170628,2022-12-31T02:50Z,ASB Classic,Eugenie Bouchard,Ann Li,,,1.0
+170622,2022-12-31T04:15Z,ASB Classic,Nao Hibino,Coco Vandeweghe,,,1.0
+170629,2022-12-31T04:15Z,ASB Classic,Katie Volynets,Katrina Scott,,,1.0
+128919,2022-12-31T23:00Z,ASB Classic,Ysaline Bonaventure,Arantxa Rus,,,1.0
+128920,2022-12-31T23:00Z,ASB Classic,Varvara Gracheva,Viktoria Hruncakova,,,0.0
+128924,2022-12-31T23:00Z,ASB Classic,Katie Volynets,Eugenie Bouchard,,,1.0
+128921,2023-01-01T01:10Z,ASB Classic,Moyuka Uchijima,Elena-Gabriela Ruse,,,0.0
+128922,2023-01-01T01:10Z,ASB Classic,Sara Errani,Rebeka Masarova,,,0.0
+128923,2023-01-01T02:45Z,ASB Classic,Jaqueline Cristian,Nao Hibino,,,0.0
+129032,2023-01-02T02:15Z,ASB Classic,Rebecca Marino,Dalma Galfi,,,1.0
+129033,2023-01-02T02:25Z,ASB Classic,Zhu Lin,Madison Brengle,,,1.0
+129041,2023-01-02T04:35Z,ASB Classic,Ysaline Bonaventure,Catherine McNally,,,1.0
+129058,2023-01-02T06:10Z,ASB Classic,Brenda Fruhvirtova,Leylah Fernandez,,,0.0
+129045,2023-01-02T07:10Z,ASB Classic,Julia Grabher,Tereza Martincova,,,1.0
+129062,2023-01-02T07:25Z,ASB Classic,Katie Volynets,Venus Williams,,,0.0
+129060,2023-01-03T00:35Z,ASB Classic,Elisabetta Cocciaretto,Anna Blinkova,,,0.0
+129053,2023-01-03T01:10Z,ASB Classic,Bernarda Pera,Viktoria Hruncakova,,,0.0
+129049,2023-01-03T02:30Z,ASB Classic,Emma Raducanu,Linda Fruhvirtova,,,1.0
+129035,2023-01-03T04:10Z,ASB Classic,Erin Routliffe,Elena-Gabriela Ruse,,,0.0
+129052,2023-01-03T06:20Z,ASB Classic,Coco Gauff,Tatjana Maria,,,1.0
+129036,2023-01-04T00:00Z,ASB Classic,Tamara Zidansek,Lauren Davis,,,0.0
+129040,2023-01-04T00:00Z,ASB Classic,Wang Xinyu,Sofia Kenin,,,0.0
+129061,2023-01-04T01:40Z,ASB Classic,Nao Hibino,Danka Kovinic,,,0.0
+129047,2023-01-04T02:00Z,ASB Classic,Wang Xiyu,Karolina Muchova,,,0.0
+129037,2023-01-04T02:30Z,ASB Classic,Rebeka Masarova,Sloane Stephens,,,1.0
+129034,2023-01-04T23:40Z,ASB Classic,Venus Williams,Zhu Lin,,,0.0
+129038,2023-01-05T01:50Z,ASB Classic,Lauren Davis,Danka Kovinic,,,0.0
+129046,2023-01-05T05:05Z,ASB Classic,Anna Blinkova,Rebeka Masarova,,,0.0
+129048,2023-01-05T06:15Z,ASB Classic,Coco Gauff,Sofia Kenin,,,1.0
+129039,2023-01-05T06:35Z,ASB Classic,Karolina Muchova,Elena-Gabriela Ruse,,,1.0
+129050,2023-01-05T07:55Z,ASB Classic,Viktoria Hruncakova,Emma Raducanu,,,1.0
+129051,2023-01-05T08:10Z,ASB Classic,Rebecca Marino,Ysaline Bonaventure,,,0.0
+129057,2023-01-05T10:00Z,ASB Classic,Julia Grabher,Leylah Fernandez,,,0.0
+129059,2023-01-06T00:40Z,ASB Classic,Coco Gauff,Zhu Lin,,,1.0
+129055,2023-01-06T02:10Z,ASB Classic,Viktoria Hruncakova,Danka Kovinic,,,0.0
+129042,2023-01-06T03:40Z,ASB Classic,Ysaline Bonaventure,Leylah Fernandez,,,1.0
+129054,2023-01-06T08:15Z,ASB Classic,Karolina Muchova,Rebeka Masarova,,,0.0
+129043,2023-01-07T02:40Z,ASB Classic,Coco Gauff,Danka Kovinic,,,1.0
+129056,2023-01-07T06:25Z,ASB Classic,Ysaline Bonaventure,Rebeka Masarova,,,0.0
+129044,2023-01-08T08:00Z,ASB Classic,Coco Gauff,Rebeka Masarova,,,1.0
+129102,2023-01-06T22:15Z,ASB Classic,Finn Reynolds,João Sousa,,,0.0
+129103,2023-01-06T22:15Z,ASB Classic,Jiri Lehecka,Jan Choinski,,,1.0
+129101,2023-01-06T23:45Z,ASB Classic,Dusan Lajovic,Christopher Eubanks,,,0.0
+129104,2023-01-06T23:45Z,ASB Classic,Chun-Hsin Tseng,Facundo Bagnis,,,0.0
+129100,2023-01-07T01:00Z,ASB Classic,Alexandar Lazarov,Gregoire Barrere,,,0.0
+129098,2023-01-07T02:30Z,ASB Classic,Ajeet Rai,Taro Daniel,,,1.0
+129097,2023-01-07T22:00Z,ASB Classic,Thiago Monteiro,Daniel Altmaier,,,1.0
+129099,2023-01-07T22:00Z,ASB Classic,Federico Coria,Luca Van Assche,,,1.0
+129107,2023-01-07T23:00Z,ASB Classic,Christopher Eubanks,João Sousa,,,1.0
+129108,2023-01-07T23:00Z,ASB Classic,Jiri Lehecka,Facundo Bagnis,,,1.0
+129106,2023-01-08T01:00Z,ASB Classic,Federico Coria,Gregoire Barrere,,,0.0
+129105,2023-01-08T23:00Z,ASB Classic,Thiago Monteiro,Ajeet Rai,,,1.0
+129164,2023-01-08T23:10Z,ASB Classic,Constant Lestienne,Pedro Cachin,,,1.0
+129146,2023-01-09T00:35Z,ASB Classic,David Goffin,Alexander Bublik,,,1.0
+129149,2023-01-09T02:10Z,ASB Classic,Jenson Brooksby,Fabio Fognini,,,1.0
+129143,2023-01-09T06:10Z,ASB Classic,Richard Gasquet,Kiranpal Pannu,,,1.0
+129140,2023-01-09T07:45Z,ASB Classic,Adrian Mannarino,J.J. Wolf,,,0.0
+129151,2023-01-09T23:10Z,ASB Classic,Marcos Giron,Federico Coria,,,1.0
+129166,2023-01-09T23:10Z,ASB Classic,Gregoire Barrere,John Isner,,,1.0
+129145,2023-01-10T01:45Z,ASB Classic,Ugo Humbert,Christopher Eubanks,,,0.0
+129152,2023-01-10T02:00Z,ASB Classic,Jiri Lehecka,Thiago Monteiro,,,1.0
+129148,2023-01-10T02:05Z,ASB Classic,Alex Molcan,Quentin Halys,,,0.0
+129147,2023-01-10T05:45Z,ASB Classic,Sebastian Baez,Ben Shelton,,,0.0
+129162,2023-01-10T07:25Z,ASB Classic,Jaume Munar,Laslo Djere,,,0.0
+129161,2023-01-10T22:50Z,ASB Classic,J.J. Wolf,Marcos Giron,,,0.0
+129159,2023-01-10T23:10Z,ASB Classic,Jenson Brooksby,Diego Schwartzman,,,1.0
+129163,2023-01-11T00:25Z,ASB Classic,Jiri Lehecka,Cameron Norrie,,,0.0
+129156,2023-01-11T00:35Z,ASB Classic,João Sousa,Richard Gasquet,,,0.0
+129158,2023-01-11T03:05Z,ASB Classic,Ben Shelton,Quentin Halys,,,0.0
+129157,2023-01-11T06:40Z,ASB Classic,Christopher Eubanks,David Goffin,,,0.0
+129155,2023-01-11T08:35Z,ASB Classic,Constant Lestienne,Gregoire Barrere,,,1.0
+129154,2023-01-11T08:50Z,ASB Classic,Casper Ruud,Laslo Djere,,,0.0
+129144,2023-01-12T01:40Z,ASB Classic,Marcos Giron,Cameron Norrie,,,0.0
+129142,2023-01-12T04:00Z,ASB Classic,Quentin Halys,Jenson Brooksby,,,0.0
+129141,2023-01-12T06:35Z,ASB Classic,Richard Gasquet,David Goffin,,,1.0
+129165,2023-01-12T09:30Z,ASB Classic,Laslo Djere,Constant Lestienne,,,0.0
+129169,2023-01-13T04:10Z,ASB Classic,Jenson Brooksby,Cameron Norrie,,,0.0
+129168,2023-01-13T06:05Z,ASB Classic,Constant Lestienne,Richard Gasquet,,,0.0
+129170,2023-01-14T01:10Z,ASB Classic,Richard Gasquet,Cameron Norrie,,,1.0
+128917,2022-12-31T05:30Z,Tata Open Maharashtra,Maximilian Marterer,Prajnesh Gunneswaran,,,1.0
+128918,2022-12-31T05:30Z,Tata Open Maharashtra,Nikola Milojevic,Nicholas David Ionel,,,1.0
+128915,2022-12-31T07:00Z,Tata Open Maharashtra,Mattia Bellucci,Vladyslav Orlov,,,1.0
+128916,2022-12-31T07:00Z,Tata Open Maharashtra,Ramkumar Ramanathan,Otto Virtanen,,,1.0
+128913,2022-12-31T08:30Z,Tata Open Maharashtra,Elias Ymer,Miljan Zekic,,,1.0
+128914,2022-12-31T08:30Z,Tata Open Maharashtra,Yuki Bhambri,Diego Hidalgo,,,1.0
+128912,2022-12-31T10:00Z,Tata Open Maharashtra,Aditya Vishal Balsekar,Flavio Cobolli,,,0.0
+128911,2022-12-31T10:00Z,Tata Open Maharashtra,Sidharth Rawat,Zdenek Kolar,,,0.0
+129000,2023-01-01T05:30Z,Tata Open Maharashtra,Maximilian Marterer,Nikola Milojevic,,,1.0
+128999,2023-01-01T05:30Z,Tata Open Maharashtra,Mattia Bellucci,Ramkumar Ramanathan,,,0.0
+128998,2023-01-01T07:00Z,Tata Open Maharashtra,Elias Ymer,Yuki Bhambri,,,1.0
+128997,2023-01-01T07:00Z,Tata Open Maharashtra,Zdenek Kolar,Flavio Cobolli,,,0.0
+129001,2023-01-02T08:40Z,Tata Open Maharashtra,Manas Dhamne,Michael Mmoh,,,0.0
+129024,2023-01-02T08:40Z,Tata Open Maharashtra,Chun-Hsin Tseng,Benjamin Bonzi,,,0.0
+129010,2023-01-02T08:40Z,Tata Open Maharashtra,Roberto Carballes Baena,Bernabe Zapata Miralles,,,1.0
+129013,2023-01-02T09:55Z,Tata Open Maharashtra,Tallon Griekspoor,Jaume Munar,,,1.0
+129026,2023-01-02T10:25Z,Tata Open Maharashtra,Alex Molcan,Laslo Djere,,,0.0
+129011,2023-01-02T10:35Z,Tata Open Maharashtra,Marco Cecchinato,Nikoloz Basilashvili,,,1.0
+129023,2023-01-02T11:40Z,Tata Open Maharashtra,Filip Krajinovic,Sumit Nagal,,,1.0
+129027,2023-01-03T08:40Z,Tata Open Maharashtra,Elias Ymer,Maximilian Marterer,,,0.0
+129017,2023-01-03T08:40Z,Tata Open Maharashtra,Pedro Martinez,Ramkumar Ramanathan,,,1.0
+129019,2023-01-03T08:40Z,Tata Open Maharashtra,Radu Albot,Tim Van Rijthoven,,,0.0
+129020,2023-01-03T10:25Z,Tata Open Maharashtra,Pablo Andujar,Aslan Karatsev,,,0.0
+129028,2023-01-03T11:45Z,Tata Open Maharashtra,Flavio Cobolli,Mukund Sasikumar,,,1.0
+129009,2023-01-04T08:40Z,Tata Open Maharashtra,Laslo Djere,Maximilian Marterer,,,0.0
+129005,2023-01-04T08:40Z,Tata Open Maharashtra,Tim Van Rijthoven,Aslan Karatsev,,,0.0
+129004,2023-01-04T08:40Z,Tata Open Maharashtra,Sebastian Baez,Pedro Martinez,,,0.0
+129030,2023-01-04T10:25Z,Tata Open Maharashtra,Marco Cecchinato,Tallon Griekspoor,,,0.0
+129007,2023-01-04T11:00Z,Tata Open Maharashtra,Benjamin Bonzi,Emil Ruusuvuori,,,1.0
+129002,2023-01-04T11:10Z,Tata Open Maharashtra,Flavio Cobolli,Botic Van De Zandschulp,,,0.0
+129006,2023-01-04T12:40Z,Tata Open Maharashtra,Filip Krajinovic,Michael Mmoh,,,1.0
+129029,2023-01-04T13:00Z,Tata Open Maharashtra,Marin Cilic,Roberto Carballes Baena,,,1.0
+129014,2023-01-05T08:40Z,Tata Open Maharashtra,Pedro Martinez,Aslan Karatsev,,,0.0
+129012,2023-01-05T10:20Z,Tata Open Maharashtra,Marin Cilic,Tallon Griekspoor,,,0.0
+129018,2023-01-05T13:05Z,Tata Open Maharashtra,Maximilian Marterer,Botic Van De Zandschulp,,,0.0
+129016,2023-01-05T14:35Z,Tata Open Maharashtra,Filip Krajinovic,Benjamin Bonzi,,,0.0
+129021,2023-01-06T09:40Z,Tata Open Maharashtra,Tallon Griekspoor,Aslan Karatsev,,,1.0
+129022,2023-01-06T11:20Z,Tata Open Maharashtra,Benjamin Bonzi,Botic Van De Zandschulp,,,1.0
+129031,2023-01-07T12:10Z,Tata Open Maharashtra,Tallon Griekspoor,Benjamin Bonzi,,,1.0
+129096,2023-01-06T23:30Z,Adelaide International 2,Camila Giorgi,Sorana Cirstea,,,0.0
+129095,2023-01-06T23:30Z,Adelaide International 2,Kaia Kanepi,Anna Bondar,,,1.0
+129092,2023-01-07T01:20Z,Adelaide International 2,Alana Parnaby,Alison Riske-Amritraj,,,0.0
+129091,2023-01-07T02:10Z,Adelaide International 2,Aliaksandra Sasnovich,Anna Kalinskaya,,,0.0
+129089,2023-01-07T02:40Z,Adelaide International 2,Zheng Qinwen,Mia Repac,,,1.0
+129087,2023-01-07T04:00Z,Adelaide International 2,Zhang Shuai,Ana Bogdan,,,0.0
+129090,2023-01-07T04:30Z,Adelaide International 2,Dalma Galfi,Anastasia Potapova,,,0.0
+129086,2023-01-07T04:45Z,Adelaide International 2,Olivia Tjandramulia,Jil Teichmann,,,0.0
+129094,2023-01-07T05:50Z,Adelaide International 2,Marta Kostyuk,Shelby Rogers,,,0.0
+129085,2023-01-07T05:55Z,Adelaide International 2,Amanda Anisimova,Taylor Townsend,,,1.0
+129088,2023-01-07T07:00Z,Adelaide International 2,Alexandra Osborne,Katerina Siniakova,,,0.0
+129093,2023-01-07T07:50Z,Adelaide International 2,Karolina Pliskova,Jule Niemeier,,,1.0
+129244,2023-01-07T23:35Z,Adelaide International 2,Kaia Kanepi,Sorana Cirstea,,,0.0
+129242,2023-01-07T23:40Z,Adelaide International 2,Anna Kalinskaya,Alison Riske-Amritraj,,,1.0
+129239,2023-01-08T01:35Z,Adelaide International 2,Amanda Anisimova,Jil Teichmann,,,0.0
+129241,2023-01-08T02:00Z,Adelaide International 2,Zheng Qinwen,Anastasia Potapova,,,1.0
+129243,2023-01-08T04:05Z,Adelaide International 2,Karolina Pliskova,Shelby Rogers,,,1.0
+129240,2023-01-08T05:55Z,Adelaide International 2,Ana Bogdan,Katerina Siniakova,,,0.0
+129117,2023-01-09T00:40Z,Adelaide International 2,Anastasia Pavlyuchenkova,Jil Teichmann,,,0.0
+129124,2023-01-09T00:40Z,Adelaide International 2,Petra Kvitova,Elena Rybakina,,,1.0
+129116,2023-01-09T02:25Z,Adelaide International 2,Danielle Collins,Karolina Pliskova,,,1.0
+129120,2023-01-09T02:35Z,Adelaide International 2,Beatriz Haddad Maia,Sorana Cirstea,,,1.0
+129118,2023-01-09T04:45Z,Adelaide International 2,Jaimee Fourlis,Ekaterina Alexandrova,,,0.0
+129114,2023-01-09T07:40Z,Adelaide International 2,Garbine Muguruza,Belinda Bencic,,,0.0
+129125,2023-01-10T00:40Z,Adelaide International 2,Zheng Qinwen,Shelby Rogers,,,1.0
+129121,2023-01-10T00:40Z,Adelaide International 2,Amanda Anisimova,Liudmila Samsonova,,,1.0
+129126,2023-01-10T02:25Z,Adelaide International 2,Alison Riske-Amritraj,Barbora Krejcikova,,,0.0
+129109,2023-01-10T03:20Z,Adelaide International 2,Jelena Ostapenko,Anna Kalinskaya,,,0.0
+129111,2023-01-10T04:55Z,Adelaide International 2,Anastasia Potapova,Katerina Siniakova,,,0.0
+129119,2023-01-10T05:40Z,Adelaide International 2,Victoria Azarenka,Veronika Kudermetova,,,0.0
+129122,2023-01-10T10:10Z,Adelaide International 2,Kaia Kanepi,Storm Hunter,,,1.0
+129123,2023-01-10T11:20Z,Adelaide International 2,Anett Kontaveit,Paula Badosa,,,0.0
+129136,2023-01-11T00:40Z,Adelaide International 2,Petra Kvitova,Zheng Qinwen,,,1.0
+129131,2023-01-11T00:40Z,Adelaide International 2,Danielle Collins,Jil Teichmann,,,1.0
+129130,2023-01-11T02:25Z,Adelaide International 2,Anna Kalinskaya,Belinda Bencic,,,0.0
+129133,2023-01-11T02:35Z,Adelaide International 2,Beatriz Haddad Maia,Amanda Anisimova,,,1.0
+129112,2023-01-11T04:10Z,Adelaide International 2,Barbora Krejcikova,Daria Kasatkina,,,0.0
+129134,2023-01-11T05:55Z,Adelaide International 2,Kaia Kanepi,Paula Badosa,,,0.0
+129132,2023-01-11T07:00Z,Adelaide International 2,Ekaterina Alexandrova,Veronika Kudermetova,,,0.0
+129110,2023-01-11T11:00Z,Adelaide International 2,Caroline Garcia,Katerina Siniakova,,,1.0
+129129,2023-01-12T02:40Z,Adelaide International 2,Petra Kvitova,Daria Kasatkina,,,0.0
+129128,2023-01-12T04:30Z,Adelaide International 2,Beatriz Haddad Maia,Paula Badosa,,,0.0
+129115,2023-01-12T07:40Z,Adelaide International 2,Danielle Collins,Veronika Kudermetova,,,0.0
+129113,2023-01-12T11:10Z,Adelaide International 2,Caroline Garcia,Belinda Bencic,,,0.0
+129138,2023-01-13T03:30Z,Adelaide International 2,Paula Badosa,Daria Kasatkina,,,0.0
+129137,2023-01-13T08:00Z,Adelaide International 2,Belinda Bencic,Veronika Kudermetova,,,1.0
+129139,2023-01-14T05:35Z,Adelaide International 2,Belinda Bencic,Daria Kasatkina,,,1.0
+129247,2023-01-08T00:30Z,Adelaide International 2,Mikael Ymer,Nikoloz Basilashvili,,,1.0
+129248,2023-01-08T00:30Z,Adelaide International 2,Roman Safiullin,Jordan Thompson,,,0.0
+129246,2023-01-08T02:00Z,Adelaide International 2,Luke Saville,Tomas Martin Etcheverry,,,0.0
+129251,2023-01-08T02:00Z,Adelaide International 2,Oscar Otte,Tomas Machac,,,0.0
+129249,2023-01-08T03:30Z,Adelaide International 2,Bernabe Zapata Miralles,John Millman,,,0.0
+129252,2023-01-08T03:30Z,Adelaide International 2,Vasek Pospisil,SoonWoo Kwon,,,0.0
+129250,2023-01-08T04:00Z,Adelaide International 2,Rinky Hijikata,Christopher O'Connell,,,0.0
+129278,2023-01-09T00:30Z,Adelaide International 2,Tomas Machac,SoonWoo Kwon,,,1.0
+129275,2023-01-09T00:30Z,Adelaide International 2,Mikael Ymer,Jordan Thompson,,,1.0
+129276,2023-01-09T02:00Z,Adelaide International 2,John Millman,Christopher O'Connell,,,1.0
+129274,2023-01-09T02:00Z,Adelaide International 2,Robin Haase,Tomas Martin Etcheverry,,,0.0
+129209,2023-01-09T04:10Z,Adelaide International 2,Daniel Evans,Mackenzie McDonald,,,0.0
+129206,2023-01-09T04:45Z,Adelaide International 2,Lorenzo Sonego,Jack Draper,,,0.0
+129224,2023-01-09T06:35Z,Adelaide International 2,Kyle Edmund,Miomir Kecmanovic,,,0.0
+129203,2023-01-09T08:15Z,Adelaide International 2,Brandon Nakashima,Alejandro Davidovich Fokina,,,0.0
+129221,2023-01-09T09:50Z,Adelaide International 2,Thanasi Kokkinakis,Alexei Popyrin,,,1.0
+129205,2023-01-10T00:35Z,Adelaide International 2,Tommy Paul,Christopher O'Connell,,,1.0
+129230,2023-01-10T02:25Z,Adelaide International 2,Albert Ramos-Vinolas,John Millman,,,0.0
+129228,2023-01-10T03:45Z,Adelaide International 2,Benjamin Bonzi,Robin Haase,,,0.0
+129207,2023-01-10T04:40Z,Adelaide International 2,Arthur Rinderknech,Marc-Andrea Huesler,,,0.0
+129211,2023-01-10T05:55Z,Adelaide International 2,SoonWoo Kwon,Tomas Machac,,,1.0
+129210,2023-01-10T07:30Z,Adelaide International 2,Emil Ruusuvuori,Mikael Ymer,,,0.0
+129222,2023-01-10T08:50Z,Adelaide International 2,Jason Kubler,Tomas Martin Etcheverry,,,1.0
+129216,2023-01-11T00:35Z,Adelaide International 2,John Millman,Alejandro Davidovich Fokina,,,0.0
+129217,2023-01-11T00:35Z,Adelaide International 2,Tommy Paul,Jack Draper,,,0.0
+129218,2023-01-11T02:10Z,Adelaide International 2,Marc-Andrea Huesler,Karen Khachanov,,,0.0
+129220,2023-01-11T04:05Z,Adelaide International 2,Mackenzie McDonald,Mikael Ymer,,,0.0
+129202,2023-01-11T04:20Z,Adelaide International 2,SoonWoo Kwon,Pablo Carreno Busta,,,1.0
+129215,2023-01-11T04:55Z,Adelaide International 2,Roberto Bautista Agut,Robin Haase,,,1.0
+129214,2023-01-11T07:05Z,Adelaide International 2,Jason Kubler,Miomir Kecmanovic,,,0.0
+129213,2023-01-11T08:40Z,Adelaide International 2,Andrey Rublev,Thanasi Kokkinakis,,,0.0
+129227,2023-01-12T00:40Z,Adelaide International 2,Jack Draper,Karen Khachanov,,,1.0
+129229,2023-01-12T03:50Z,Adelaide International 2,Mikael Ymer,SoonWoo Kwon,,,0.0
+129225,2023-01-12T05:05Z,Adelaide International 2,Roberto Bautista Agut,Alejandro Davidovich Fokina,,,1.0
+129223,2023-01-12T08:40Z,Adelaide International 2,Thanasi Kokkinakis,Miomir Kecmanovic,,,1.0
+129204,2023-01-13T06:00Z,Adelaide International 2,Jack Draper,SoonWoo Kwon,,,0.0
+129231,2023-01-13T09:35Z,Adelaide International 2,Thanasi Kokkinakis,Roberto Bautista Agut,,,0.0
+129232,2023-01-14T07:40Z,Adelaide International 2,Roberto Bautista Agut,SoonWoo Kwon,,,0.0
+129323,2023-01-08T23:05Z,Australian Open,Hugo Gaston,Egor Gerasimov,,,1.0
+129325,2023-01-08T23:05Z,Australian Open,Evan Furness,Yu Hsiou Hsu,,,0.0
+129326,2023-01-08T23:05Z,Australian Open,Nick Hardt,Elias Ymer,,,0.0
+129381,2023-01-08T23:05Z,Australian Open,Jurij Rodionov,Nicholas David Ionel,,,1.0
+129382,2023-01-08T23:05Z,Australian Open,Francesco Maestrelli,Adrian Andreev,,,0.0
+129383,2023-01-08T23:05Z,Australian Open,Miljan Zekic,Tomas Barrios Vera,,,0.0
+129384,2023-01-08T23:10Z,Australian Open,Jeremy Jin,Zizou Bergs,,,0.0
+129300,2023-01-09T00:30Z,Australian Open,Renzo Olivo,Alex Bolt,,,0.0
+129301,2023-01-09T00:45Z,Australian Open,Alexander Ritschard,Matteo Arnaldi,,,0.0
+129299,2023-01-09T01:00Z,Australian Open,Damir Dzumhur,Dimitar Kuzmanov,,,1.0
+129330,2023-01-09T01:15Z,Australian Open,Paul Jubb,Dalibor Svrcina,,,0.0
+129324,2023-01-09T01:25Z,Australian Open,Alexandre Muller,James McCabe,,,1.0
+129378,2023-01-09T02:00Z,Australian Open,Derek Pham,Peter Gojowczyk,,,0.0
+129298,2023-01-09T02:05Z,Australian Open,Marco Cecchinato,Max Purcell,,,0.0
+129304,2023-01-09T02:30Z,Australian Open,Radu Albot,Brandon Holt,,,0.0
+129377,2023-01-09T02:35Z,Australian Open,Pablo Andujar,Adam Walton,,,0.0
+129295,2023-01-09T02:50Z,Australian Open,Sebastian Ofner,Felipe Meligeni Alves,,,1.0
+129340,2023-01-09T02:50Z,Australian Open,Nicolas Kicker,Federico Delbonis,,,1.0
+129376,2023-01-09T03:05Z,Australian Open,Dane Sweeny,Vit Kopriva,,,1.0
+129294,2023-01-09T03:40Z,Australian Open,Alejandro Tabilo,Nikola Milojevic,,,1.0
+129306,2023-01-09T04:05Z,Australian Open,Gastao Elias,Kaichi Uchida,,,1.0
+129321,2023-01-09T04:30Z,Australian Open,Stefan Kozlov,Oleksii Krutykh,,,0.0
+129354,2023-01-09T04:55Z,Australian Open,Nicolas Jarry,Otto Virtanen,,,1.0
+129375,2023-01-09T04:55Z,Australian Open,Luciano Darderi,Juan Pablo Ficovich,,,1.0
+129360,2023-01-09T06:00Z,Australian Open,Henri Laaksonen,Riccardo Bonadio,,,1.0
+129371,2023-01-09T06:10Z,Australian Open,Frederico Ferreira Silva,Bradley Klahn,,,0.0
+129356,2023-01-09T06:25Z,Australian Open,Nicolas Moreno De Alboran,Timofey Skatov,,,0.0
+129322,2023-01-09T06:45Z,Australian Open,Gianluca Mager,Filip Misolic,,,1.0
+129372,2023-01-09T06:45Z,Australian Open,Enzo Couacaud,Hugo Grenier,,,1.0
+129358,2023-01-09T07:05Z,Australian Open,Pavel Kotov,Genaro Alberto Olivieri,,,1.0
+129348,2023-01-09T07:55Z,Australian Open,Thiago Agustin Tirante,Facundo Mena,,,1.0
+129350,2023-01-09T07:55Z,Australian Open,Gabriel Diallo,Aleksandar Vukic,,,0.0
+129379,2023-01-09T23:00Z,Australian Open,Facundo Diaz Acosta,Gijs Brouwer,,,1.0
+129307,2023-01-09T23:05Z,Australian Open,Geoffrey Blancaneaux,Marco Trungelliti,,,0.0
+129309,2023-01-09T23:05Z,Australian Open,Marc Polmans,Lukas Klein,,,1.0
+129327,2023-01-09T23:05Z,Australian Open,Tim Van Rijthoven,Leandro Riedi,,,0.0
+129373,2023-01-09T23:05Z,Australian Open,Francesco Passaro,Lukas Rosol,,,1.0
+129374,2023-01-09T23:05Z,Australian Open,Tung-lin Wu,Mattia Bellucci,,,0.0
+129328,2023-01-09T23:10Z,Australian Open,Santiago Rodriguez Taverna,Giulio Zeppieri,,,0.0
+129346,2023-01-10T00:30Z,Australian Open,Matheus Pucinelli De Almeida,Benoit Paire,,,0.0
+129380,2023-01-10T00:35Z,Australian Open,Maximilian Marterer,Yannick Hanfmann,,,0.0
+129369,2023-01-10T00:40Z,Australian Open,Dominic Stricker,Cedrik-Marcel Stebe,,,1.0
+129344,2023-01-10T00:45Z,Australian Open,Michael Mmoh,Bruno Kuzuhara,,,1.0
+129368,2023-01-10T00:45Z,Australian Open,Ernesto Escobedo,Luca Nardi,,,1.0
+129296,2023-01-10T01:10Z,Australian Open,Antoine Bellier,Laurent Lokoli,,,0.0
+129370,2023-01-10T01:10Z,Australian Open,Mitchell Krueger,Flavio Cobolli,,,1.0
+129297,2023-01-10T01:25Z,Australian Open,Li Tu,Jozef Kovalik,,,1.0
+129367,2023-01-10T01:40Z,Australian Open,Rio Noguchi,Edward Winter,,,1.0
+129351,2023-01-10T02:20Z,Australian Open,Norbert Gombos,Yuichi Sugita,,,0.0
+129353,2023-01-10T02:35Z,Australian Open,Andrea Vavassori,Emilio Nava,,,0.0
+129320,2023-01-10T02:50Z,Australian Open,Aleksandar Kovacevic,Carlos Taberner,,,0.0
+129317,2023-01-10T02:55Z,Australian Open,Mikhail Kukushkin,James Duckworth,,,1.0
+129318,2023-01-10T03:20Z,Australian Open,Philip Sekulic,Yosuke Watanuki,,,0.0
+129316,2023-01-10T03:30Z,Australian Open,Alexis Galarneau,Ryan Peniston,,,1.0
+129319,2023-01-10T03:40Z,Australian Open,Denis Kudla,Omar Jasika,,,1.0
+129386,2023-01-10T04:10Z,Australian Open,Fabian Marozsan,Shang Juncheng,,,0.0
+129385,2023-01-10T04:35Z,Australian Open,Fernando Verdasco,Nino Serdarusic,,,1.0
+129313,2023-01-10T05:15Z,Australian Open,Raul Brancaccio,Franco Agamenone,,,1.0
+129388,2023-01-10T05:30Z,Australian Open,Andrea Pellegrino,Manuel Guinard,,,1.0
+129315,2023-01-10T05:35Z,Australian Open,Juan Pablo Varillas,Roberto Marcora,,,1.0
+129310,2023-01-10T05:50Z,Australian Open,Emilio Gomez,Liam Broady,,,1.0
+129387,2023-01-10T06:20Z,Australian Open,Antoine Escoffier,Zsombor Piros,,,0.0
+129311,2023-01-10T07:00Z,Australian Open,Jan-Lennard Struff,Aleksandr Shevchenko,,,1.0
+129312,2023-01-10T07:10Z,Australian Open,Tristan Schoolkate,Kimmer Coppejans,,,1.0
+129424,2023-01-10T23:05Z,Australian Open,Alex Bolt,Matteo Arnaldi,,,0.0
+129426,2023-01-10T23:05Z,Australian Open,Marco Trungelliti,Marc Polmans,,,1.0
+129434,2023-01-10T23:05Z,Australian Open,Yu Hsiou Hsu,Elias Ymer,,,1.0
+129423,2023-01-10T23:10Z,Australian Open,Max Purcell,Damir Dzumhur,,,1.0
+129425,2023-01-10T23:10Z,Australian Open,Brandon Holt,Gastao Elias,,,1.0
+129433,2023-01-10T23:10Z,Australian Open,Hugo Gaston,Alexandre Muller,,,0.0
+129436,2023-01-10T23:55Z,Australian Open,Dalibor Svrcina,Nicolas Kicker,,,1.0
+129435,2023-01-11T00:20Z,Australian Open,Leandro Riedi,Giulio Zeppieri,,,1.0
+129450,2023-01-11T00:40Z,Australian Open,Tomas Barrios Vera,Zizou Bergs,,,0.0
+129432,2023-01-11T01:10Z,Australian Open,Oleksii Krutykh,Gianluca Mager,,,1.0
+129449,2023-01-11T01:35Z,Australian Open,Jurij Rodionov,Adrian Andreev,,,0.0
+129445,2023-01-11T01:40Z,Australian Open,Francesco Passaro,Mattia Bellucci,,,0.0
+129446,2023-01-11T01:55Z,Australian Open,Luciano Darderi,Dane Sweeny,,,1.0
+129422,2023-01-11T02:15Z,Australian Open,Laurent Lokoli,Li Tu,,,1.0
+129441,2023-01-11T02:50Z,Australian Open,Pavel Kotov,Henri Laaksonen,,,1.0
+129442,2023-01-11T02:50Z,Australian Open,Rio Noguchi,Ernesto Escobedo,,,0.0
+129431,2023-01-11T02:55Z,Australian Open,Denis Kudla,Carlos Taberner,,,1.0
+129438,2023-01-11T02:55Z,Australian Open,Thiago Agustin Tirante,Aleksandar Vukic,,,0.0
+129421,2023-01-11T03:00Z,Australian Open,Alejandro Tabilo,Sebastian Ofner,,,0.0
+129444,2023-01-11T04:00Z,Australian Open,Bradley Klahn,Enzo Couacaud,,,0.0
+129437,2023-01-11T04:10Z,Australian Open,Michael Mmoh,Benoit Paire,,,1.0
+129448,2023-01-11T04:25Z,Australian Open,Facundo Diaz Acosta,Yannick Hanfmann,,,0.0
+129439,2023-01-11T04:30Z,Australian Open,Yuichi Sugita,Emilio Nava,,,0.0
+129447,2023-01-11T04:40Z,Australian Open,Adam Walton,Peter Gojowczyk,,,0.0
+129443,2023-01-11T05:45Z,Australian Open,Dominic Stricker,Mitchell Krueger,,,1.0
+129440,2023-01-11T05:55Z,Australian Open,Nicolas Jarry,Timofey Skatov,,,1.0
+129430,2023-01-11T06:30Z,Australian Open,Mikhail Kukushkin,Yosuke Watanuki,,,0.0
+129428,2023-01-11T06:35Z,Australian Open,Tristan Schoolkate,Raul Brancaccio,,,1.0
+129429,2023-01-11T07:35Z,Australian Open,Juan Pablo Varillas,Alexis Galarneau,,,1.0
+129452,2023-01-11T07:40Z,Australian Open,Zsombor Piros,Andrea Pellegrino,,,1.0
+129427,2023-01-11T08:10Z,Australian Open,Emilio Gomez,Jan-Lennard Struff,,,0.0
+129451,2023-01-11T08:35Z,Australian Open,Fernando Verdasco,Shang Juncheng,,,0.0
+129470,2023-01-11T23:00Z,Australian Open,Max Purcell,Matteo Arnaldi,,,1.0
+129475,2023-01-11T23:00Z,Australian Open,Alexandre Muller,Yu Hsiou Hsu,,,0.0
+129471,2023-01-11T23:10Z,Australian Open,Brandon Holt,Marco Trungelliti,,,1.0
+129483,2023-01-11T23:15Z,Australian Open,Adrian Andreev,Zizou Bergs,,,0.0
+129481,2023-01-12T00:40Z,Australian Open,Mattia Bellucci,Luciano Darderi,,,1.0
+129469,2023-01-12T00:45Z,Australian Open,Sebastian Ofner,Laurent Lokoli,,,0.0
+129476,2023-01-12T00:45Z,Australian Open,Leandro Riedi,Dalibor Svrcina,,,0.0
+129474,2023-01-12T01:15Z,Australian Open,Denis Kudla,Oleksii Krutykh,,,0.0
+129479,2023-01-12T01:15Z,Australian Open,Pavel Kotov,Ernesto Escobedo,,,0.0
+129482,2023-01-12T02:35Z,Australian Open,Peter Gojowczyk,Yannick Hanfmann,,,0.0
+129480,2023-01-12T03:15Z,Australian Open,Dominic Stricker,Enzo Couacaud,,,0.0
+129477,2023-01-12T03:30Z,Australian Open,Michael Mmoh,Aleksandar Vukic,,,0.0
+129472,2023-01-12T04:10Z,Australian Open,Jan-Lennard Struff,Tristan Schoolkate,,,1.0
+129473,2023-01-12T04:50Z,Australian Open,Juan Pablo Varillas,Yosuke Watanuki,,,0.0
+129484,2023-01-12T05:20Z,Australian Open,Shang Juncheng,Zsombor Piros,,,1.0
+129478,2023-01-12T05:45Z,Australian Open,Emilio Nava,Nicolas Jarry,,,0.0
+129698,2023-01-16T00:10Z,Australian Open,Corentin Moutet,Wu Yibing,,,1.0
+129699,2023-01-16T00:10Z,Australian Open,Francisco Cerundolo,Guido Pella,,,1.0
+129700,2023-01-16T00:10Z,Australian Open,Kyle Edmund,Jannik Sinner,,,0.0
+129705,2023-01-16T00:10Z,Australian Open,Ilya Ivashka,Botic Van De Zandschulp,,,0.0
+129706,2023-01-16T00:10Z,Australian Open,Tomas Martin Etcheverry,Gregoire Barrere,,,1.0
+129711,2023-01-16T00:10Z,Australian Open,Yosuke Watanuki,Arthur Rinderknech,,,1.0
+129720,2023-01-16T00:10Z,Australian Open,Oscar Otte,Shang Juncheng,,,0.0
+129714,2023-01-16T01:30Z,Australian Open,Hubert Hurkacz,Pedro Martinez,,,1.0
+129703,2023-01-16T01:50Z,Australian Open,Sebastian Korda,Cristian Garin,,,1.0
+129721,2023-01-16T01:55Z,Australian Open,Mikael Ymer,Yoshihito Nishioka,,,0.0
+129715,2023-01-16T02:05Z,Australian Open,Dusan Lajovic,Denis Shapovalov,,,0.0
+129682,2023-01-16T02:15Z,Australian Open,Tallon Griekspoor,Pavel Kotov,,,1.0
+129612,2023-01-16T02:25Z,Australian Open,Brandon Nakashima,Mackenzie McDonald,,,0.0
+129718,2023-01-16T03:30Z,Australian Open,Karen Khachanov,Bernabe Zapata Miralles,,,1.0
+129719,2023-01-16T03:40Z,Australian Open,Daniel Altmaier,Frances Tiafoe,,,0.0
+129726,2023-01-16T03:50Z,Australian Open,Rafael Nadal,Jack Draper,,,1.0
+129716,2023-01-16T04:10Z,Australian Open,Ernesto Escobedo,Taro Daniel,,,0.0
+129696,2023-01-16T04:45Z,Australian Open,Jiri Lehecka,Borna Coric,,,1.0
+129713,2023-01-16T04:45Z,Australian Open,Lorenzo Sonego,Nuno Borges,,,1.0
+129717,2023-01-16T04:45Z,Australian Open,Sebastian Baez,Jason Kubler,,,0.0
+129712,2023-01-16T05:00Z,Australian Open,Jaume Munar,Dalibor Svrcina,,,0.0
+129710,2023-01-16T05:20Z,Australian Open,John Millman,Marc-Andrea Huesler,,,1.0
+129697,2023-01-16T05:35Z,Australian Open,Christopher Eubanks,SoonWoo Kwon,,,1.0
+129707,2023-01-16T05:50Z,Australian Open,Federico Coria,Marton Fucsovics,,,0.0
+129694,2023-01-16T06:10Z,Australian Open,Alex Molcan,Stan Wawrinka,,,1.0
+129709,2023-01-16T06:50Z,Australian Open,Yannick Hanfmann,Rinky Hijikata,,,0.0
+129702,2023-01-16T07:20Z,Australian Open,Cameron Norrie,Luca Van Assche,,,1.0
+129693,2023-01-16T07:30Z,Australian Open,Vasek Pospisil,Felix Auger-Aliassime,,,0.0
+129708,2023-01-16T08:10Z,Australian Open,Stefanos Tsitsipas,Quentin Halys,,,1.0
+129701,2023-01-16T08:45Z,Australian Open,Thiago Monteiro,Constant Lestienne,,,0.0
+129704,2023-01-16T08:45Z,Australian Open,Lorenzo Musetti,Lloyd Harris,,,0.0
+129647,2023-01-16T11:00Z,Australian Open,Marcos Giron,Daniil Medvedev,,,0.0
+129674,2023-01-17T00:10Z,Australian Open,Zizou Bergs,Laslo Djere,,,0.0
+129680,2023-01-17T00:10Z,Australian Open,Grigor Dimitrov,Aslan Karatsev,,,1.0
+129684,2023-01-17T00:10Z,Australian Open,Mattia Bellucci,Benjamin Bonzi,,,0.0
+129689,2023-01-17T00:10Z,Australian Open,Daniel Elahi Galan,Jeremy Chardy,,,0.0
+129692,2023-01-17T00:10Z,Australian Open,Facundo Bagnis,Daniel Evans,,,0.0
+129695,2023-01-17T00:10Z,Australian Open,Andrey Rublev,Dominic Thiem,,,1.0
+129671,2023-01-17T00:15Z,Australian Open,Diego Schwartzman,Oleksii Krutykh,,,1.0
+129672,2023-01-17T01:20Z,Australian Open,Nicolas Jarry,Miomir Kecmanovic,,,1.0
+129666,2023-01-17T01:25Z,Australian Open,Alejandro Davidovich Fokina,Alexander Bublik,,,1.0
+129687,2023-01-17T01:35Z,Australian Open,Pablo Carreno Busta,Pedro Cachin,,,1.0
+129677,2023-01-17T02:10Z,Australian Open,J.J. Wolf,Jordan Thompson,,,1.0
+129675,2023-01-17T02:50Z,Australian Open,Taylor Fritz,Nikoloz Basilashvili,,,1.0
+129662,2023-01-17T03:15Z,Australian Open,Matteo Berrettini,Andy Murray,,,0.0
+129678,2023-01-17T04:30Z,Australian Open,Juan Pablo Varillas,Alexander Zverev,,,0.0
+129669,2023-01-17T06:15Z,Australian Open,Ben Shelton,Zhang Zhizhen,,,1.0
+129688,2023-01-17T06:15Z,Australian Open,Filip Krajinovic,Holger Rune,,,0.0
+129668,2023-01-17T06:25Z,Australian Open,Jan-Lennard Struff,Tommy Paul,,,0.0
+129650,2023-01-17T07:00Z,Australian Open,Christopher O'Connell,Jenson Brooksby,,,0.0
+129681,2023-01-17T08:10Z,Australian Open,Yu Hsiou Hsu,Alex de Minaur,,,0.0
+129670,2023-01-17T10:50Z,Australian Open,Chun-Hsin Tseng,Alexei Popyrin,,,0.0
+129651,2023-01-17T11:10Z,Australian Open,Tomas Machac,Casper Ruud,,,0.0
+129676,2023-01-17T11:35Z,Australian Open,Roberto Carballes Baena,Novak Djokovic,,,0.0
+129653,2023-01-18T00:10Z,Australian Open,Tomas Martin Etcheverry,Jannik Sinner,,,0.0
+129636,2023-01-18T03:00Z,Australian Open,Alex Molcan,Felix Auger-Aliassime,,,0.0
+129664,2023-01-18T03:55Z,Australian Open,Rafael Nadal,Mackenzie McDonald,,,0.0
+129665,2023-01-18T04:40Z,Australian Open,Shang Juncheng,Frances Tiafoe,,,0.0
+129686,2023-01-18T06:00Z,Australian Open,Richard Gasquet,Ugo Humbert,,,0.0
+129690,2023-01-18T06:00Z,Australian Open,Max Purcell,Emil Ruusuvuori,,,0.0
+129679,2023-01-18T06:20Z,Australian Open,Michael Mmoh,Laurent Lokoli,,,1.0
+129691,2023-01-18T06:25Z,Australian Open,Denis Kudla,Roman Safiullin,,,1.0
+129660,2023-01-18T07:00Z,Australian Open,Karen Khachanov,Jason Kubler,,,1.0
+129654,2023-01-18T07:05Z,Australian Open,Lloyd Harris,Marton Fucsovics,,,0.0
+129683,2023-01-18T08:00Z,Australian Open,John Isner,Adrian Mannarino,,,0.0
+129663,2023-01-18T08:05Z,Australian Open,Aleksandar Vukic,Brandon Holt,,,0.0
+129658,2023-01-18T08:10Z,Australian Open,João Sousa,Roberto Bautista Agut,,,0.0
+129648,2023-01-18T08:30Z,Australian Open,John Millman,Daniil Medvedev,,,0.0
+129659,2023-01-18T09:10Z,Australian Open,Dalibor Svrcina,Yoshihito Nishioka,,,0.0
+129673,2023-01-18T09:10Z,Australian Open,Enzo Couacaud,Hugo Dellien,,,1.0
+129685,2023-01-18T09:10Z,Australian Open,Maxime Cressy,Albert Ramos-Vinolas,,,1.0
+129637,2023-01-18T09:25Z,Australian Open,Francisco Cerundolo,Corentin Moutet,,,1.0
+129661,2023-01-18T09:30Z,Australian Open,Thanasi Kokkinakis,Fabio Fognini,,,1.0
+129649,2023-01-18T10:00Z,Australian Open,Taro Daniel,Denis Shapovalov,,,0.0
+129667,2023-01-18T10:10Z,Australian Open,Hubert Hurkacz,Lorenzo Sonego,,,1.0
+129646,2023-01-18T10:20Z,Australian Open,Stefanos Tsitsipas,Rinky Hijikata,,,1.0
+129652,2023-01-18T10:25Z,Australian Open,Sebastian Korda,Yosuke Watanuki,,,1.0
+129657,2023-01-18T10:45Z,Australian Open,Tallon Griekspoor,Botic Van De Zandschulp,,,1.0
+129655,2023-01-18T10:55Z,Australian Open,Christopher Eubanks,Jiri Lehecka,,,0.0
+129656,2023-01-18T11:10Z,Australian Open,Cameron Norrie,Constant Lestienne,,,1.0
+129634,2023-01-19T00:10Z,Australian Open,Alejandro Davidovich Fokina,Tommy Paul,,,0.0
+129638,2023-01-19T00:10Z,Australian Open,Jeremy Chardy,Daniel Evans,,,0.0
+129633,2023-01-19T02:10Z,Australian Open,Jenson Brooksby,Casper Ruud,,,1.0
+129639,2023-01-19T02:10Z,Australian Open,Andrey Rublev,Emil Ruusuvuori,,,1.0
+129625,2023-01-19T02:15Z,Australian Open,Ben Shelton,Nicolas Jarry,,,1.0
+129624,2023-01-19T02:25Z,Australian Open,Diego Schwartzman,J.J. Wolf,,,0.0
+129635,2023-01-19T04:15Z,Australian Open,Denis Kudla,Ugo Humbert,,,0.0
+129642,2023-01-19T04:15Z,Australian Open,Taylor Fritz,Alexei Popyrin,,,0.0
+129627,2023-01-19T04:55Z,Australian Open,Michael Mmoh,Alexander Zverev,,,1.0
+129640,2023-01-19T06:45Z,Australian Open,Grigor Dimitrov,Laslo Djere,,,1.0
+129645,2023-01-19T07:10Z,Australian Open,Maxime Cressy,Holger Rune,,,0.0
+129632,2023-01-19T07:30Z,Australian Open,Brandon Holt,Roberto Bautista Agut,,,0.0
+129644,2023-01-19T07:45Z,Australian Open,Pablo Carreno Busta,Benjamin Bonzi,,,0.0
+129641,2023-01-19T08:40Z,Australian Open,Adrian Mannarino,Alex de Minaur,,,0.0
+129643,2023-01-19T09:00Z,Australian Open,Enzo Couacaud,Novak Djokovic,,,0.0
+129626,2023-01-19T11:20Z,Australian Open,Andy Murray,Thanasi Kokkinakis,,,1.0
+129613,2023-01-20T00:10Z,Australian Open,Marton Fucsovics,Jannik Sinner,,,0.0
+129614,2023-01-20T02:00Z,Australian Open,Stefanos Tsitsipas,Tallon Griekspoor,,,1.0
+129629,2023-01-20T03:35Z,Australian Open,Mackenzie McDonald,Yoshihito Nishioka,,,0.0
+129621,2023-01-20T04:05Z,Australian Open,Francisco Cerundolo,Felix Auger-Aliassime,,,0.0
+129615,2023-01-20T05:35Z,Australian Open,Cameron Norrie,Jiri Lehecka,,,0.0
+129631,2023-01-20T08:10Z,Australian Open,Hubert Hurkacz,Denis Shapovalov,,,1.0
+129628,2023-01-20T08:15Z,Australian Open,Karen Khachanov,Frances Tiafoe,,,1.0
+129630,2023-01-20T10:10Z,Australian Open,Sebastian Korda,Daniil Medvedev,,,1.0
+129620,2023-01-21T01:35Z,Australian Open,Andrey Rublev,Daniel Evans,,,1.0
+129623,2023-01-21T02:40Z,Australian Open,Ugo Humbert,Holger Rune,,,0.0
+129622,2023-01-21T03:50Z,Australian Open,Benjamin Bonzi,Alex de Minaur,,,0.0
+129723,2023-01-21T04:30Z,Australian Open,Tommy Paul,Jenson Brooksby,,,1.0
+129619,2023-01-21T04:50Z,Australian Open,J.J. Wolf,Michael Mmoh,,,1.0
+129616,2023-01-21T08:10Z,Australian Open,Alexei Popyrin,Ben Shelton,,,0.0
+129618,2023-01-21T08:10Z,Australian Open,Andy Murray,Roberto Bautista Agut,,,0.0
+129617,2023-01-21T08:15Z,Australian Open,Grigor Dimitrov,Novak Djokovic,,,0.0
+129731,2023-01-22T03:35Z,Australian Open,Hubert Hurkacz,Sebastian Korda,,,0.0
+129722,2023-01-22T03:40Z,Australian Open,Yoshihito Nishioka,Karen Khachanov,,,0.0
+129727,2023-01-22T04:35Z,Australian Open,Jiri Lehecka,Felix Auger-Aliassime,,,1.0
+129728,2023-01-22T08:15Z,Australian Open,Stefanos Tsitsipas,Jannik Sinner,,,1.0
+129725,2023-01-23T04:00Z,Australian Open,Ben Shelton,J.J. Wolf,,,1.0
+129730,2023-01-23T04:05Z,Australian Open,Andrey Rublev,Holger Rune,,,1.0
+129724,2023-01-23T06:50Z,Australian Open,Roberto Bautista Agut,Tommy Paul,,,0.0
+129729,2023-01-23T08:30Z,Australian Open,Alex de Minaur,Novak Djokovic,,,0.0
+129736,2023-01-24T03:55Z,Australian Open,Karen Khachanov,Sebastian Korda,,,1.0
+129735,2023-01-24T10:10Z,Australian Open,Stefanos Tsitsipas,Jiri Lehecka,,,1.0
+129734,2023-01-25T04:20Z,Australian Open,Ben Shelton,Tommy Paul,,,0.0
+129733,2023-01-25T08:45Z,Australian Open,Andrey Rublev,Novak Djokovic,,,0.0
+129737,2023-01-27T03:40Z,Australian Open,Karen Khachanov,Stefanos Tsitsipas,,,0.0
+129732,2023-01-27T08:40Z,Australian Open,Novak Djokovic,Tommy Paul,,,1.0
+129738,2023-01-29T08:40Z,Australian Open,Stefanos Tsitsipas,Novak Djokovic,,,0.0
+129347,2023-01-08T23:05Z,Australian Open,Laura Pigossi,Magali Kempen,,,1.0
+129349,2023-01-08T23:05Z,Australian Open,Misaki Doi,Alexandra Eala,,,1.0
+129352,2023-01-08T23:05Z,Australian Open,Ipek Oz,Destanee Aiava,,,0.0
+129355,2023-01-08T23:05Z,Australian Open,Arianne Hartono,Ylena In-Albon,,,1.0
+129361,2023-01-08T23:05Z,Australian Open,Carole Monnet,Alexandra Cadanțu-Ignatik,,,0.0
+129362,2023-01-08T23:10Z,Australian Open,Rosa Vicens Mas,Eva Lys,,,0.0
+129357,2023-01-09T00:30Z,Australian Open,Rebecca Peterson,Victoria Jimenez Kasintseva,,,0.0
+129272,2023-01-09T00:45Z,Australian Open,Louisa Chirico,Nao Hibino,,,0.0
+129281,2023-01-09T00:50Z,Australian Open,Ana Konjuh,Sophie Chang,,,0.0
+129283,2023-01-09T01:00Z,Australian Open,Oksana Selekhmeteva,Vitalia Diatchenko,,,1.0
+129282,2023-01-09T01:05Z,Australian Open,Elina Avanesyan,Lizette Cabrera,,,1.0
+129359,2023-01-09T01:15Z,Australian Open,Zoe Hives,Harmony Tan,,,1.0
+129271,2023-01-09T02:10Z,Australian Open,Mirjam Bjorklund,Ekaterina Reyngold,,,1.0
+129284,2023-01-09T02:50Z,Australian Open,Raluka Serban,Ann Li,,,0.0
+129269,2023-01-09T03:25Z,Australian Open,Cristina Bucsa,Kaylah McPhee,,,1.0
+129293,2023-01-09T03:40Z,Australian Open,Leolia Jeanjean,Irina Bara,,,1.0
+129302,2023-01-09T03:40Z,Australian Open,Kayla Day,Ekaterina Makarova,,,1.0
+129270,2023-01-09T03:45Z,Australian Open,Ashlyn Krueger,Eugenie Bouchard,,,1.0
+129268,2023-01-09T04:05Z,Australian Open,Sonay Kartal,Elizabeth Mandlik,,,0.0
+129303,2023-01-09T04:30Z,Australian Open,Aliona Bolsova,Heather Watson,,,1.0
+129273,2023-01-09T04:40Z,Australian Open,Magdalena Frech,Sinja Kraus,,,1.0
+129267,2023-01-09T04:50Z,Australian Open,Marcela Zacarias,Mai Hontama,,,0.0
+129341,2023-01-09T05:00Z,Australian Open,Elena-Gabriela Ruse,Seone Mendez,,,1.0
+129287,2023-01-09T05:30Z,Australian Open,Petra Marcinko,Mona Barthel,,,1.0
+129277,2023-01-09T06:00Z,Australian Open,Sachia Vickery,Kathinka von Deichmann,,,1.0
+129288,2023-01-09T06:00Z,Australian Open,Arina Rodionova,Coco Vandeweghe,,,0.0
+129331,2023-01-09T06:20Z,Australian Open,Elsa Jacquemot,Clara Burel,,,0.0
+129333,2023-01-09T06:30Z,Australian Open,Leyre Romero Gormaz,Nigina Abduraimova,,,0.0
+129305,2023-01-09T06:35Z,Australian Open,Yuki Naito,Lesia Tsurenko,,,0.0
+129329,2023-01-09T07:20Z,Australian Open,Carol Zhao,Eudice Wong Chong,,,1.0
+129332,2023-01-09T07:35Z,Australian Open,Katie Volynets,Ekaterine Gorgodze,,,1.0
+129342,2023-01-09T08:15Z,Australian Open,Robin Anderson,Selena Janicijevic,,,0.0
+129264,2023-01-09T23:05Z,Australian Open,Anna Karolina Schmiedlova,Irina Khromacheva,,,1.0
+129266,2023-01-09T23:05Z,Australian Open,Jessika Ponchet,Katie Swan,,,1.0
+129279,2023-01-09T23:05Z,Australian Open,Anastasia Zakharova,Lucrezia Stefanini,,,0.0
+129280,2023-01-09T23:05Z,Australian Open,Gabriela Lee,Rebeka Masarova,,,0.0
+129285,2023-01-09T23:05Z,Australian Open,Sara Errani,Su-Jeong Jang,,,0.0
+129286,2023-01-09T23:05Z,Australian Open,Hailey Baptiste,Yuriko Lily Miyazaki,,,0.0
+129334,2023-01-10T00:55Z,Australian Open,Kristina Mladenovic,Maddison Inglis,,,1.0
+129345,2023-01-10T00:55Z,Australian Open,Elysia Bolton,Jodie Burrage,,,0.0
+129343,2023-01-10T01:00Z,Australian Open,Barbora Palicova,Chloe Paquet,,,1.0
+129335,2023-01-10T01:10Z,Australian Open,Valentini Grammatikopoulou,Marina Bassols Ribera,,,0.0
+129336,2023-01-10T02:05Z,Australian Open,Arantxa Rus,Jessica Bouzas Maneiro,,,0.0
+129339,2023-01-10T02:10Z,Australian Open,Natalija Stevanovic,Brenda Fruhvirtova,,,0.0
+129314,2023-01-10T02:15Z,Australian Open,Carolina Alves,Olga Danilovic,,,0.0
+129308,2023-01-10T02:20Z,Australian Open,Reka Luca Jani,Despina Papamichail,,,0.0
+129338,2023-01-10T02:40Z,Australian Open,Fernanda Contreras Gomez,Daria Snigur,,,0.0
+171762,2023-01-10T02:55Z,Australian Open,Barbara Haas,Erika Andreeva,,,0.0
+129337,2023-01-10T03:10Z,Australian Open,Ellen Perez,Petra Hule,,,1.0
+129261,2023-01-10T03:45Z,Australian Open,Priscilla Hon,Katrina Scott,,,1.0
+129258,2023-01-10T03:50Z,Australian Open,Katarina Zavatska,Eva Vedder,,,1.0
+129257,2023-01-10T04:00Z,Australian Open,Darya Astakhova,Sara Bejlek,,,0.0
+129260,2023-01-10T04:15Z,Australian Open,Linda Noskova,Katherine Sebov,,,0.0
+129365,2023-01-10T04:40Z,Australian Open,Anastasia Gasanova,Polina Kudermetova,,,0.0
+129262,2023-01-10T04:55Z,Australian Open,Astra Sharma,Katharina Hobgarski,,,1.0
+129366,2023-01-10T04:55Z,Australian Open,Caroline Dolehide,Katie Boulter,,,0.0
+129256,2023-01-10T05:00Z,Australian Open,Alycia Parks,Alexandra Bozovic,,,1.0
+129263,2023-01-10T05:00Z,Australian Open,Greet Minnen,Simona Waltert,,,0.0
+129292,2023-01-10T06:05Z,Australian Open,Na-Lae Han,Viktoria Hruncakova,,,1.0
+129290,2023-01-10T06:25Z,Australian Open,Maria Lourdes Carle,Robin Montgomery,,,0.0
+129363,2023-01-10T06:45Z,Australian Open,Anna-Lena Friedsam,Tara Wuerth,,,1.0
+129291,2023-01-10T07:05Z,Australian Open,Anastasia Tikhonova,Suzan Lamens,,,1.0
+129289,2023-01-10T07:15Z,Australian Open,Diana Shnaider,Joanne Zuger,,,1.0
+129364,2023-01-10T07:15Z,Australian Open,Paula Ormaechea,Asia Muhammad,,,0.0
+129415,2023-01-10T23:00Z,Australian Open,Laura Pigossi,Misaki Doi,,,1.0
+129394,2023-01-10T23:05Z,Australian Open,Mai Hontama,Elizabeth Mandlik,,,0.0
+129395,2023-01-10T23:05Z,Australian Open,Cristina Bucsa,Ashlyn Krueger,,,1.0
+129396,2023-01-10T23:05Z,Australian Open,Mirjam Bjorklund,Nao Hibino,,,0.0
+129405,2023-01-10T23:05Z,Australian Open,Leolia Jeanjean,Kayla Day,,,1.0
+129406,2023-01-10T23:05Z,Australian Open,Aliona Bolsova,Lesia Tsurenko,,,0.0
+129416,2023-01-10T23:05Z,Australian Open,Destanee Aiava,Arianne Hartono,,,0.0
+129418,2023-01-11T00:30Z,Australian Open,Alexandra Cadanțu-Ignatik,Eva Lys,,,0.0
+129393,2023-01-11T00:40Z,Australian Open,Anna Karolina Schmiedlova,Jessika Ponchet,,,1.0
+129402,2023-01-11T00:55Z,Australian Open,Petra Marcinko,Coco Vandeweghe,,,0.0
+129401,2023-01-11T01:00Z,Australian Open,Su-Jeong Jang,Yuriko Lily Miyazaki,,,0.0
+129400,2023-01-11T01:20Z,Australian Open,Oksana Selekhmeteva,Ann Li,,,1.0
+129417,2023-01-11T01:35Z,Australian Open,Victoria Jimenez Kasintseva,Zoe Hives,,,1.0
+129399,2023-01-11T02:00Z,Australian Open,Sophie Chang,Elina Avanesyan,,,1.0
+129413,2023-01-11T02:00Z,Australian Open,Elena-Gabriela Ruse,Selena Janicijevic,,,0.0
+129397,2023-01-11T03:15Z,Australian Open,Magdalena Frech,Sachia Vickery,,,0.0
+129411,2023-01-11T03:15Z,Australian Open,Jessica Bouzas Maneiro,Ellen Perez,,,1.0
+129414,2023-01-11T03:15Z,Australian Open,Barbora Palicova,Jodie Burrage,,,0.0
+129398,2023-01-11T03:40Z,Australian Open,Lucrezia Stefanini,Rebeka Masarova,,,1.0
+129409,2023-01-11T04:20Z,Australian Open,Katie Volynets,Nigina Abduraimova,,,1.0
+129392,2023-01-11T04:30Z,Australian Open,Astra Sharma,Simona Waltert,,,0.0
+129408,2023-01-11T04:40Z,Australian Open,Carol Zhao,Clara Burel,,,0.0
+129407,2023-01-11T04:55Z,Australian Open,Despina Papamichail,Olga Danilovic,,,0.0
+129412,2023-01-11T05:05Z,Australian Open,Daria Snigur,Brenda Fruhvirtova,,,0.0
+129410,2023-01-11T05:10Z,Australian Open,Kristina Mladenovic,Marina Bassols Ribera,,,1.0
+129390,2023-01-11T05:55Z,Australian Open,Katarina Zavatska,Erika Andreeva,,,0.0
+129419,2023-01-11T06:00Z,Australian Open,Anna-Lena Friedsam,Asia Muhammad,,,0.0
+129391,2023-01-11T06:15Z,Australian Open,Katherine Sebov,Priscilla Hon,,,1.0
+129403,2023-01-11T06:35Z,Australian Open,Diana Shnaider,Robin Montgomery,,,1.0
+129404,2023-01-11T07:00Z,Australian Open,Anastasia Tikhonova,Na-Lae Han,,,1.0
+129389,2023-01-11T07:30Z,Australian Open,Alycia Parks,Sara Bejlek,,,0.0
+129420,2023-01-11T07:35Z,Australian Open,Polina Kudermetova,Katie Boulter,,,1.0
+129461,2023-01-11T23:00Z,Australian Open,Leolia Jeanjean,Lesia Tsurenko,,,0.0
+129455,2023-01-11T23:10Z,Australian Open,Anna Karolina Schmiedlova,Elizabeth Mandlik,,,1.0
+129456,2023-01-11T23:10Z,Australian Open,Cristina Bucsa,Nao Hibino,,,1.0
+129467,2023-01-11T23:10Z,Australian Open,Victoria Jimenez Kasintseva,Eva Lys,,,0.0
+129466,2023-01-12T00:35Z,Australian Open,Laura Pigossi,Arianne Hartono,,,0.0
+129458,2023-01-12T01:05Z,Australian Open,Sophie Chang,Oksana Selekhmeteva,,,0.0
+129465,2023-01-12T01:05Z,Australian Open,Selena Janicijevic,Jodie Burrage,,,1.0
+129463,2023-01-12T02:10Z,Australian Open,Katie Volynets,Kristina Mladenovic,,,1.0
+129464,2023-01-12T02:10Z,Australian Open,Jessica Bouzas Maneiro,Brenda Fruhvirtova,,,0.0
+129462,2023-01-12T02:40Z,Australian Open,Olga Danilovic,Clara Burel,,,0.0
+129459,2023-01-12T03:00Z,Australian Open,Yuriko Lily Miyazaki,Coco Vandeweghe,,,0.0
+129457,2023-01-12T03:30Z,Australian Open,Sachia Vickery,Lucrezia Stefanini,,,0.0
+129453,2023-01-12T04:30Z,Australian Open,Sara Bejlek,Erika Andreeva,,,1.0
+129460,2023-01-12T04:40Z,Australian Open,Diana Shnaider,Anastasia Tikhonova,,,1.0
+129468,2023-01-12T05:20Z,Australian Open,Asia Muhammad,Polina Kudermetova,,,0.0
+129454,2023-01-12T05:40Z,Australian Open,Katherine Sebov,Simona Waltert,,,1.0
+129485,2023-01-16T00:10Z,Australian Open,Anna Kalinskaya,Danielle Collins,,,0.0
+129493,2023-01-16T00:10Z,Australian Open,Emma Raducanu,Tamara Korpatsch,,,1.0
+129545,2023-01-16T00:10Z,Australian Open,Kristina Kucova,Diana Shnaider,,,0.0
+129579,2023-01-16T00:10Z,Australian Open,Marta Kostyuk,Amanda Anisimova,,,1.0
+129580,2023-01-16T00:10Z,Australian Open,Jessica Pegula,Jaqueline Cristian,,,1.0
+129581,2023-01-16T00:10Z,Australian Open,Katerina Siniakova,Coco Gauff,,,0.0
+129582,2023-01-16T00:10Z,Australian Open,Polina Kudermetova,Olivia Gadecki,,,0.0
+129594,2023-01-16T00:10Z,Australian Open,Bianca Andreescu,Marie Bouzkova,,,1.0
+129595,2023-01-16T00:10Z,Australian Open,Cristina Bucsa,Eva Lys,,,1.0
+129551,2023-01-16T01:55Z,Australian Open,Yuan Yue,Maria Sakkari,,,0.0
+129571,2023-01-16T02:10Z,Australian Open,Talia Gibson,Clara Burel,,,0.0
+129516,2023-01-16T02:15Z,Australian Open,Bernarda Pera,Moyuka Uchijima,,,1.0
+129562,2023-01-16T02:30Z,Australian Open,Alison Van Uytvanck,Petra Kvitova,,,0.0
+129591,2023-01-16T02:35Z,Australian Open,Lesia Tsurenko,Karolina Muchova,,,0.0
+129564,2023-01-16T03:30Z,Australian Open,Coco Vandeweghe,Anhelina Kalinina,,,0.0
+129558,2023-01-16T03:45Z,Australian Open,Sofia Kenin,Victoria Azarenka,,,0.0
+129547,2023-01-16T03:50Z,Australian Open,Dayana Yastremska,Jelena Ostapenko,,,0.0
+129583,2023-01-16T04:05Z,Australian Open,Brenda Fruhvirtova,Aliaksandra Sasnovich,,,0.0
+129498,2023-01-16T04:20Z,Australian Open,Zheng Qinwen,Dalma Galfi,,,1.0
+129584,2023-01-16T04:30Z,Australian Open,Anna Bondar,Ana Bogdan,,,1.0
+129573,2023-01-16T04:40Z,Australian Open,Barbora Krejcikova,Sara Bejlek,,,1.0
+129509,2023-01-16T04:50Z,Australian Open,Kamilla Rakhimova,Kateryna Baindl,,,0.0
+129592,2023-01-16T05:50Z,Australian Open,Panna Udvardy,Camila Osorio,,,0.0
+129588,2023-01-16T06:50Z,Australian Open,Laura Pigossi,Catherine McNally,,,0.0
+129559,2023-01-16T07:15Z,Australian Open,Leolia Jeanjean,Nadia Podoroska,,,0.0
+129590,2023-01-16T07:25Z,Australian Open,Elena Rybakina,Elisabetta Cocciaretto,,,1.0
+129561,2023-01-16T07:35Z,Australian Open,Jil Teichmann,Harriet Dart,,,1.0
+129560,2023-01-16T07:50Z,Australian Open,Zhu Lin,Rebecca Marino,,,1.0
+129589,2023-01-16T08:10Z,Australian Open,Kaja Juvan,Selena Janicijevic,,,1.0
+129593,2023-01-16T08:35Z,Australian Open,Iga Swiatek,Jule Niemeier,,,1.0
+129566,2023-01-16T09:45Z,Australian Open,Wang Xinyu,Storm Hunter,,,1.0
+129567,2023-01-16T10:35Z,Australian Open,Madison Keys,Anna Blinkova,,,1.0
+129487,2023-01-17T00:10Z,Australian Open,Garbine Muguruza,Elise Mertens,,,0.0
+129490,2023-01-17T00:10Z,Australian Open,Anastasia Pavlyuchenkova,Camila Giorgi,,,0.0
+129496,2023-01-17T00:10Z,Australian Open,Martina Trevisan,Anna Karolina Schmiedlova,,,0.0
+129508,2023-01-17T00:10Z,Australian Open,Kaia Kanepi,Kimberly Birrell,,,0.0
+129514,2023-01-17T00:10Z,Australian Open,Arianne Hartono,Shelby Rogers,,,0.0
+129521,2023-01-17T00:10Z,Australian Open,Leylah Fernandez,Alize Cornet,,,1.0
+129525,2023-01-17T00:10Z,Australian Open,Ysaline Bonaventure,Ekaterina Alexandrova,,,0.0
+129527,2023-01-17T00:10Z,Australian Open,Diane Parry,Taylor Townsend,,,0.0
+129515,2023-01-17T00:15Z,Australian Open,Aryna Sabalenka,Tereza Martincova,,,1.0
+129505,2023-01-17T01:20Z,Australian Open,Linda Fruhvirtova,Jaimee Fourlis,,,1.0
+129520,2023-01-17T01:45Z,Australian Open,Katherine Sebov,Caroline Garcia,,,0.0
+129536,2023-01-17T01:45Z,Australian Open,Katie Volynets,Evgeniya Rodina,,,1.0
+129524,2023-01-17T02:55Z,Australian Open,Anett Kontaveit,Julia Grabher,,,1.0
+129544,2023-01-17T03:05Z,Australian Open,Wang Xiyu,Karolina Pliskova,,,0.0
+129538,2023-01-17T05:50Z,Australian Open,Maryna Zanevska,Veronika Kudermetova,,,0.0
+129537,2023-01-17T07:10Z,Australian Open,Petra Martic,Viktorija Golubic,,,1.0
+129489,2023-01-17T07:20Z,Australian Open,Jasmine Paolini,Liudmila Samsonova,,,0.0
+129539,2023-01-17T08:00Z,Australian Open,Sorana Cirstea,Yulia Putintseva,,,0.0
+129599,2023-01-17T09:05Z,Australian Open,Tamara Zidansek,Ons Jabeur,,,0.0
+129492,2023-01-17T09:30Z,Australian Open,Viktoriya Tomova,Belinda Bencic,,,0.0
+129568,2023-01-18T00:10Z,Australian Open,Diana Shnaider,Maria Sakkari,,,0.0
+129605,2023-01-18T00:10Z,Australian Open,Iga Swiatek,Camila Osorio,,,1.0
+129586,2023-01-18T02:00Z,Australian Open,Jessica Pegula,Aliaksandra Sasnovich,,,1.0
+129574,2023-01-18T02:15Z,Australian Open,Anhelina Kalinina,Petra Kvitova,,,1.0
+129531,2023-01-18T06:00Z,Australian Open,Lauren Davis,Danka Kovinic,,,1.0
+129488,2023-01-18T06:15Z,Australian Open,Anna Bondar,Jelena Ostapenko,,,0.0
+129541,2023-01-18T06:15Z,Australian Open,Lucrezia Stefanini,Tatjana Maria,,,1.0
+129563,2023-01-18T06:15Z,Australian Open,Jil Teichmann,Zhu Lin,,,0.0
+129494,2023-01-18T06:20Z,Australian Open,Donna Vekic,Oksana Selekhmeteva,,,1.0
+129569,2023-01-18T06:20Z,Australian Open,Barbora Krejcikova,Clara Burel,,,1.0
+129604,2023-01-18T06:20Z,Australian Open,Cristina Bucsa,Bianca Andreescu,,,1.0
+129517,2023-01-18T06:25Z,Australian Open,Lucia Bronzetti,Laura Siegemund,,,0.0
+129518,2023-01-18T06:25Z,Australian Open,Irina-Camelia Begu,Elizabeth Mandlik,,,1.0
+129572,2023-01-18T06:25Z,Australian Open,Madison Keys,Wang Xinyu,,,1.0
+129598,2023-01-18T07:00Z,Australian Open,Catherine McNally,Kateryna Baindl,,,0.0
+129495,2023-01-18T07:10Z,Australian Open,Sloane Stephens,Anastasia Potapova,,,0.0
+129522,2023-01-18T07:10Z,Australian Open,Mayar Sherif,Magda Linette,,,0.0
+129587,2023-01-18T08:10Z,Australian Open,Emma Raducanu,Coco Gauff,,,0.0
+129602,2023-01-18T09:10Z,Australian Open,Alison Riske-Amritraj,Marketa Vondrousova,,,0.0
+129500,2023-01-18T09:30Z,Australian Open,Claire Liu,Madison Brengle,,,1.0
+129491,2023-01-18T09:40Z,Australian Open,Beatriz Haddad Maia,Nuria Parrizas Diaz,,,0.0
+129543,2023-01-18T09:40Z,Australian Open,Zhang Shuai,Patricia Maria Tig,,,1.0
+129549,2023-01-18T09:45Z,Australian Open,Daria Kasatkina,Varvara Gracheva,,,0.0
+129597,2023-01-18T10:20Z,Australian Open,Elena Rybakina,Kaja Juvan,,,1.0
+129570,2023-01-18T10:25Z,Australian Open,Olivia Gadecki,Marta Kostyuk,,,0.0
+129585,2023-01-18T11:10Z,Australian Open,Zheng Qinwen,Bernarda Pera,,,0.0
+129596,2023-01-18T11:15Z,Australian Open,Karolina Muchova,Danielle Collins,,,0.0
+129565,2023-01-18T12:05Z,Australian Open,Nadia Podoroska,Victoria Azarenka,,,0.0
+129542,2023-01-19T00:10Z,Australian Open,Aryna Sabalenka,Shelby Rogers,,,1.0
+129546,2023-01-19T00:10Z,Australian Open,Taylor Townsend,Ekaterina Alexandrova,,,0.0
+129577,2023-01-19T00:10Z,Australian Open,Katie Volynets,Veronika Kudermetova,,,1.0
+129540,2023-01-19T02:25Z,Australian Open,Lauren Davis,Elise Mertens,,,0.0
+129548,2023-01-19T02:40Z,Australian Open,Anett Kontaveit,Magda Linette,,,0.0
+129552,2023-01-19T04:15Z,Australian Open,Irina-Camelia Begu,Laura Siegemund,,,0.0
+129557,2023-01-19T04:15Z,Australian Open,Anna Karolina Schmiedlova,Camila Giorgi,,,0.0
+129556,2023-01-19T04:25Z,Australian Open,Donna Vekic,Liudmila Samsonova,,,1.0
+129575,2023-01-19T05:05Z,Australian Open,Yulia Putintseva,Karolina Pliskova,,,0.0
+129555,2023-01-19T05:10Z,Australian Open,Kimberly Birrell,Linda Fruhvirtova,,,0.0
+129553,2023-01-19T05:55Z,Australian Open,Nuria Parrizas Diaz,Anastasia Potapova,,,1.0
+129578,2023-01-19T06:00Z,Australian Open,Zhang Shuai,Petra Martic,,,1.0
+129550,2023-01-19T06:20Z,Australian Open,Leylah Fernandez,Caroline Garcia,,,0.0
+129576,2023-01-19T07:30Z,Australian Open,Varvara Gracheva,Lucrezia Stefanini,,,1.0
+129554,2023-01-19T09:05Z,Australian Open,Claire Liu,Belinda Bencic,,,0.0
+129486,2023-01-19T12:20Z,Australian Open,Marketa Vondrousova,Ons Jabeur,,,1.0
+129534,2023-01-20T00:10Z,Australian Open,Barbora Krejcikova,Anhelina Kalinina,,,1.0
+129506,2023-01-20T03:15Z,Australian Open,Elena Rybakina,Danielle Collins,,,1.0
+129535,2023-01-20T04:05Z,Australian Open,Jessica Pegula,Marta Kostyuk,,,1.0
+129519,2023-01-20T04:30Z,Australian Open,Bernarda Pera,Coco Gauff,,,0.0
+129526,2023-01-20T05:25Z,Australian Open,Kateryna Baindl,Jelena Ostapenko,,,0.0
+129523,2023-01-20T05:30Z,Australian Open,Iga Swiatek,Cristina Bucsa,,,1.0
+129530,2023-01-20T08:10Z,Australian Open,Madison Keys,Victoria Azarenka,,,0.0
+129529,2023-01-20T12:05Z,Australian Open,Zhu Lin,Maria Sakkari,,,1.0
+129511,2023-01-21T00:05Z,Australian Open,Nuria Parrizas Diaz,Donna Vekic,,,0.0
+129533,2023-01-21T00:05Z,Australian Open,Varvara Gracheva,Karolina Pliskova,,,0.0
+129501,2023-01-21T01:50Z,Australian Open,Camila Giorgi,Belinda Bencic,,,0.0
+129532,2023-01-21T02:15Z,Australian Open,Zhang Shuai,Katie Volynets,,,1.0
+129513,2023-01-21T03:35Z,Australian Open,Linda Fruhvirtova,Marketa Vondrousova,,,1.0
+129502,2023-01-21T04:00Z,Australian Open,Aryna Sabalenka,Elise Mertens,,,1.0
+129497,2023-01-21T08:10Z,Australian Open,Laura Siegemund,Caroline Garcia,,,0.0
+129499,2023-01-21T11:55Z,Australian Open,Magda Linette,Ekaterina Alexandrova,,,1.0
+129512,2023-01-22T01:40Z,Australian Open,Iga Swiatek,Elena Rybakina,,,0.0
+129504,2023-01-22T02:10Z,Australian Open,Jelena Ostapenko,Coco Gauff,,,1.0
+129503,2023-01-22T06:10Z,Australian Open,Jessica Pegula,Barbora Krejcikova,,,1.0
+129510,2023-01-22T12:35Z,Australian Open,Victoria Azarenka,Zhu Lin,,,1.0
+129600,2023-01-23T00:10Z,Australian Open,Aryna Sabalenka,Belinda Bencic,,,1.0
+129528,2023-01-23T01:40Z,Australian Open,Donna Vekic,Linda Fruhvirtova,,,1.0
+129603,2023-01-23T01:55Z,Australian Open,Magda Linette,Caroline Garcia,,,1.0
+129507,2023-01-23T02:05Z,Australian Open,Karolina Pliskova,Zhang Shuai,,,1.0
+129607,2023-01-24T01:45Z,Australian Open,Elena Rybakina,Jelena Ostapenko,,,1.0
+129606,2023-01-24T08:10Z,Australian Open,Jessica Pegula,Victoria Azarenka,,,0.0
+129609,2023-01-25T00:10Z,Australian Open,Karolina Pliskova,Magda Linette,,,0.0
+129608,2023-01-25T02:10Z,Australian Open,Aryna Sabalenka,Donna Vekic,,,1.0
+129610,2023-01-26T08:45Z,Australian Open,Elena Rybakina,Victoria Azarenka,,,1.0
+129601,2023-01-26T10:45Z,Australian Open,Magda Linette,Aryna Sabalenka,,,0.0
+129611,2023-01-28T08:45Z,Australian Open,Elena Rybakina,Aryna Sabalenka,,,0.0

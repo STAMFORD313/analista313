@@ -1,0 +1,521 @@
+id,date,event,home,away,hs,as,res
+154212,2025-01-26T09:30Z,Open Occitanie,Alibek Kachmazov,Alejandro Moro Canas,,,1.0
+154215,2025-01-26T09:30Z,Open Occitanie,Hugo Grenier,Calvin Hemery,,,1.0
+154213,2025-01-26T11:00Z,Open Occitanie,Terence Atmane,Clement Chidekh,,,1.0
+154211,2025-01-26T11:00Z,Open Occitanie,Aleksandar Kovacevic,Robin Bertrand,,,1.0
+154209,2025-01-26T12:30Z,Open Occitanie,Dalibor Svrcina,Pablo Carreno Busta,,,0.0
+154208,2025-01-26T12:30Z,Open Occitanie,Benoit Paire,Constant Lestienne,,,0.0
+154210,2025-01-26T14:00Z,Open Occitanie,Matteo Gigante,Nikoloz Basilashvili,,,0.0
+154214,2025-01-26T14:00Z,Open Occitanie,Valentin Royer,Titouan Droguet,,,0.0
+154217,2025-01-27T11:00Z,Open Occitanie,Terence Atmane,Constant Lestienne,,,0.0
+154216,2025-01-27T11:00Z,Open Occitanie,Hugo Grenier,Alibek Kachmazov,,,0.0
+154219,2025-01-27T12:30Z,Open Occitanie,Nikoloz Basilashvili,Titouan Droguet,,,1.0
+154218,2025-01-27T12:30Z,Open Occitanie,Aleksandar Kovacevic,Pablo Carreno Busta,,,1.0
+152930,2025-01-27T15:40Z,Open Occitanie,Bu Yunchaokete,Daniel Altmaier,,,1.0
+152926,2025-01-27T17:40Z,Open Occitanie,Stan Wawrinka,Arthur Cazaux,,,0.0
+152936,2025-01-27T19:35Z,Open Occitanie,Gregoire Barrere,Dominik Koepfer,,,0.0
+152924,2025-01-28T11:40Z,Open Occitanie,Christopher Eubanks,Alibek Kachmazov,,,1.0
+152922,2025-01-28T13:15Z,Open Occitanie,Borna Coric,Constant Lestienne,,,0.0
+152945,2025-01-28T13:45Z,Open Occitanie,Tallon Griekspoor,Botic Van De Zandschulp,,,1.0
+152942,2025-01-28T15:35Z,Open Occitanie,Mattia Bellucci,Lucas Pouille,,,1.0
+152938,2025-01-28T17:40Z,Open Occitanie,Adrian Mannarino,Richard Gasquet,,,0.0
+152934,2025-01-28T19:15Z,Open Occitanie,Harold Mayot,Arthur Rinderknech,,,0.0
+152928,2025-01-29T11:40Z,Open Occitanie,Nikoloz Basilashvili,Mikhail Kukushkin,,,1.0
+152950,2025-01-29T13:40Z,Open Occitanie,Jesper de Jong,Quentin Halys,,,1.0
+152947,2025-01-29T13:45Z,Open Occitanie,Aleksandar Kovacevic,David Goffin,,,1.0
+152939,2025-01-29T15:15Z,Open Occitanie,Andrey Rublev,Christopher Eubanks,,,1.0
+152927,2025-01-29T15:55Z,Open Occitanie,Bu Yunchaokete,Constant Lestienne,,,1.0
+152935,2025-01-29T17:40Z,Open Occitanie,Arthur Cazaux,Felix Auger-Aliassime,,,0.0
+152949,2025-01-29T19:45Z,Open Occitanie,Alexander Bublik,Dominik Koepfer,,,1.0
+152925,2025-01-30T13:40Z,Open Occitanie,Jesper de Jong,Flavio Cobolli,,,1.0
+152931,2025-01-30T15:55Z,Open Occitanie,Mattia Bellucci,Aleksandar Kovacevic,,,0.0
+152932,2025-01-30T18:00Z,Open Occitanie,Tallon Griekspoor,Richard Gasquet,,,1.0
+152941,2025-01-30T20:30Z,Open Occitanie,Nikoloz Basilashvili,Arthur Rinderknech,,,1.0
+152943,2025-01-31T13:40Z,Open Occitanie,Bu Yunchaokete,Felix Auger-Aliassime,,,0.0
+152944,2025-01-31T15:20Z,Open Occitanie,Tallon Griekspoor,Jesper de Jong,,,0.0
+152933,2025-01-31T17:40Z,Open Occitanie,Andrey Rublev,Nikoloz Basilashvili,,,1.0
+152923,2025-01-31T18:45Z,Open Occitanie,Alexander Bublik,Aleksandar Kovacevic,,,0.0
+152946,2025-02-01T14:10Z,Open Occitanie,Jesper de Jong,Felix Auger-Aliassime,,,0.0
+152948,2025-02-01T16:35Z,Open Occitanie,Andrey Rublev,Aleksandar Kovacevic,,,0.0
+152940,2025-02-02T14:10Z,Open Occitanie,Aleksandar Kovacevic,Felix Auger-Aliassime,,,0.0
+172253,2025-02-01T16:00Z,Nexo Dallas Open,Brandon Holt,Mitchell Krueger,,,1.0
+172255,2025-02-01T16:00Z,Nexo Dallas Open,Federico Agustin Gomez,Ryan Seggerman,,,0.0
+172246,2025-02-01T17:30Z,Nexo Dallas Open,Tristan Boyer,Michael Mmoh,,,0.0
+172245,2025-02-01T17:30Z,Nexo Dallas Open,James Duckworth,Eric Hadigian,,,1.0
+172248,2025-02-01T19:00Z,Nexo Dallas Open,Georgi Georgiev,Radu Albot,,,1.0
+158789,2025-02-01T19:30Z,Nexo Dallas Open,James Trotter,Ethan Quinn,,,0.0
+172249,2025-02-01T20:30Z,Nexo Dallas Open,Jack Pinnington Jones,Zachary Svajda,,,1.0
+172247,2025-02-01T21:00Z,Nexo Dallas Open,Christopher Eubanks,Aidan Mayo,,,1.0
+172257,2025-02-02T18:00Z,Nexo Dallas Open,Michael Mmoh,Georgi Georgiev,,,1.0
+172252,2025-02-02T18:00Z,Nexo Dallas Open,James Duckworth,Ethan Quinn,,,0.0
+172254,2025-02-02T19:30Z,Nexo Dallas Open,Christopher Eubanks,Jack Pinnington Jones,,,1.0
+172256,2025-02-02T19:30Z,Nexo Dallas Open,Ryan Seggerman,Brandon Holt,,,0.0
+153626,2025-02-03T18:10Z,Nexo Dallas Open,Alejandro Davidovich Fokina,Brandon Holt,,,1.0
+153628,2025-02-03T19:50Z,Nexo Dallas Open,Matteo Arnaldi,Christopher Eubanks,,,1.0
+153634,2025-02-03T21:40Z,Nexo Dallas Open,Rinky Hijikata,Adrian Mannarino,,,1.0
+153641,2025-02-04T01:15Z,Nexo Dallas Open,Frances Tiafoe,Taro Daniel,,,1.0
+153630,2025-02-04T03:20Z,Nexo Dallas Open,Ethan Quinn,Trevor Svajda,,,1.0
+153632,2025-02-04T18:10Z,Nexo Dallas Open,Tommy Paul,Jenson Brooksby,,,1.0
+153633,2025-02-04T21:10Z,Nexo Dallas Open,Cameron Norrie,Alex Michelsen,,,1.0
+153631,2025-02-05T01:10Z,Nexo Dallas Open,Aleksandar Vukic,Ben Shelton,,,0.0
+153624,2025-02-05T02:35Z,Nexo Dallas Open,James Duckworth,Casper Ruud,,,0.0
+153642,2025-02-05T17:40Z,Nexo Dallas Open,Jaume Munar,Bu Yunchaokete,,,1.0
+153627,2025-02-05T18:10Z,Nexo Dallas Open,Yoshihito Nishioka,Brandon Nakashima,,,1.0
+153629,2025-02-05T19:55Z,Nexo Dallas Open,Roberto Carballes Baena,Michael Mmoh,,,0.0
+153623,2025-02-05T20:10Z,Nexo Dallas Open,Kei Nishikori,Tomas Machac,,,0.0
+153625,2025-02-05T21:30Z,Nexo Dallas Open,Reilly Opelka,Aleksandr Shevchenko,,,1.0
+153622,2025-02-06T01:10Z,Nexo Dallas Open,Taylor Fritz,Arthur Rinderknech,,,1.0
+153621,2025-02-06T02:35Z,Nexo Dallas Open,Miomir Kecmanovic,Denis Shapovalov,,,0.0
+153648,2025-02-06T18:10Z,Nexo Dallas Open,Frances Tiafoe,Yoshihito Nishioka,,,0.0
+153636,2025-02-06T20:10Z,Nexo Dallas Open,Matteo Arnaldi,Alejandro Davidovich Fokina,,,1.0
+153638,2025-02-06T20:35Z,Nexo Dallas Open,Jaume Munar,Ben Shelton,,,1.0
+153646,2025-02-06T21:35Z,Nexo Dallas Open,Rinky Hijikata,Tomas Machac,,,0.0
+153640,2025-02-06T22:30Z,Nexo Dallas Open,Michael Mmoh,Casper Ruud,,,0.0
+153637,2025-02-06T23:20Z,Nexo Dallas Open,Reilly Opelka,Cameron Norrie,,,1.0
+153639,2025-02-07T01:10Z,Nexo Dallas Open,Tommy Paul,Ethan Quinn,,,1.0
+153635,2025-02-07T03:45Z,Nexo Dallas Open,Taylor Fritz,Denis Shapovalov,,,0.0
+153645,2025-02-07T18:10Z,Nexo Dallas Open,Matteo Arnaldi,Jaume Munar,,,0.0
+153643,2025-02-07T20:45Z,Nexo Dallas Open,Yoshihito Nishioka,Casper Ruud,,,0.0
+153649,2025-02-08T01:10Z,Nexo Dallas Open,Tommy Paul,Reilly Opelka,,,1.0
+153644,2025-02-08T03:00Z,Nexo Dallas Open,Denis Shapovalov,Tomas Machac,,,1.0
+153650,2025-02-08T20:10Z,Nexo Dallas Open,Jaume Munar,Casper Ruud,,,0.0
+153647,2025-02-08T23:25Z,Nexo Dallas Open,Denis Shapovalov,Tommy Paul,,,1.0
+153667,2025-02-09T19:10Z,Nexo Dallas Open,Denis Shapovalov,Casper Ruud,,,1.0
+153596,2025-02-03T12:10Z,ABN Amro Open,Flavio Cobolli,Hubert Hurkacz,,,0.0
+153603,2025-02-03T13:50Z,ABN Amro Open,Stefanos Tsitsipas,Harold Mayot,,,1.0
+153597,2025-02-03T18:40Z,ABN Amro Open,Stan Wawrinka,Daniil Medvedev,,,0.0
+153600,2025-02-03T21:30Z,ABN Amro Open,Mattia Bellucci,Mees Rottgering,,,1.0
+153595,2025-02-04T10:15Z,ABN Amro Open,Jiri Lehecka,Alexei Popyrin,,,1.0
+153592,2025-02-04T12:10Z,ABN Amro Open,David Goffin,Alex de Minaur,,,0.0
+153590,2025-02-04T13:10Z,ABN Amro Open,Alexander Bublik,Jakub Mensik,,,0.0
+153601,2025-02-04T14:10Z,ABN Amro Open,Andrey Rublev,Zhang Zhizhen,,,1.0
+153604,2025-02-04T18:25Z,ABN Amro Open,Pedro Martinez,Roberto Bautista Agut,,,1.0
+153591,2025-02-04T18:40Z,ABN Amro Open,Carlos Alcaraz,Botic Van De Zandschulp,,,1.0
+153599,2025-02-04T21:40Z,ABN Amro Open,Lorenzo Sonego,Holger Rune,,,0.0
+153593,2025-02-05T10:10Z,ABN Amro Open,Arthur Fils,Constant Lestienne,,,1.0
+153594,2025-02-05T10:10Z,ABN Amro Open,Aleksandar Kovacevic,Daniel Altmaier,,,0.0
+153598,2025-02-05T12:15Z,ABN Amro Open,Jan-Lennard Struff,Fabian Marozsan,,,0.0
+153602,2025-02-05T12:40Z,ABN Amro Open,Andrea Vavassori,Felix Auger-Aliassime,,,1.0
+153605,2025-02-05T14:55Z,ABN Amro Open,Matteo Berrettini,Tallon Griekspoor,,,0.0
+153613,2025-02-05T18:40Z,ABN Amro Open,Mattia Bellucci,Daniil Medvedev,,,1.0
+153609,2025-02-05T21:55Z,ABN Amro Open,Jiri Lehecka,Hubert Hurkacz,,,0.0
+153607,2025-02-06T10:15Z,ABN Amro Open,Jakub Mensik,Alex de Minaur,,,0.0
+153610,2025-02-06T11:30Z,ABN Amro Open,Arthur Fils,Daniel Altmaier,,,0.0
+153611,2025-02-06T12:10Z,ABN Amro Open,Andrey Rublev,Fabian Marozsan,,,1.0
+153608,2025-02-06T14:20Z,ABN Amro Open,Stefanos Tsitsipas,Tallon Griekspoor,,,1.0
+153612,2025-02-06T18:40Z,ABN Amro Open,Carlos Alcaraz,Andrea Vavassori,,,1.0
+153606,2025-02-06T20:10Z,ABN Amro Open,Pedro Martinez,Holger Rune,,,1.0
+153614,2025-02-07T12:10Z,ABN Amro Open,Daniel Altmaier,Alex de Minaur,,,0.0
+153615,2025-02-07T14:00Z,ABN Amro Open,Stefanos Tsitsipas,Mattia Bellucci,,,0.0
+153617,2025-02-07T18:40Z,ABN Amro Open,Carlos Alcaraz,Pedro Martinez,,,1.0
+153616,2025-02-07T20:15Z,ABN Amro Open,Andrey Rublev,Hubert Hurkacz,,,0.0
+153619,2025-02-08T14:20Z,ABN Amro Open,Alex de Minaur,Mattia Bellucci,,,1.0
+153618,2025-02-08T18:40Z,ABN Amro Open,Carlos Alcaraz,Hubert Hurkacz,,,1.0
+153620,2025-02-09T14:45Z,ABN Amro Open,Carlos Alcaraz,Alex de Minaur,,,1.0
+159668,2025-02-08T15:00Z,Delray Beach Open,Murphy Cassone,Mitchell Krueger,,,1.0
+158788,2025-02-08T15:00Z,Delray Beach Open,Ryan Seggerman,James Trotter,,,0.0
+159667,2025-02-08T16:30Z,Delray Beach Open,Tristan Boyer,J.J. Wolf,,,0.5
+159669,2025-02-08T16:30Z,Delray Beach Open,Taro Daniel,Liam Draxl,,,0.5
+159672,2025-02-08T18:30Z,Delray Beach Open,Tomas Barrios Vera,Ethan Quinn,,,0.0
+159671,2025-02-08T20:00Z,Delray Beach Open,Michael Mmoh,Radu Albot,,,1.0
+159673,2025-02-08T20:00Z,Delray Beach Open,Stefan Kozlov,Zachary Svajda,,,0.0
+159670,2025-02-08T21:30Z,Delray Beach Open,Federico Agustin Gomez,Dmitry Popko,,,0.0
+158787,2025-02-09T15:00Z,Delray Beach Open,Taro Daniel,James Trotter,,,0.0
+159674,2025-02-09T15:00Z,Delray Beach Open,Tristan Boyer,Murphy Cassone,,,1.0
+159676,2025-02-09T16:30Z,Delray Beach Open,Ethan Quinn,Zachary Svajda,,,0.0
+159675,2025-02-09T18:00Z,Delray Beach Open,Dmitry Popko,Michael Mmoh,,,0.0
+153660,2025-02-10T18:10Z,Delray Beach Open,Miomir Kecmanovic,Borna Gojo,,,1.0
+153666,2025-02-10T19:40Z,Delray Beach Open,Zachary Svajda,Cameron Norrie,,,0.0
+153657,2025-02-10T20:10Z,Delray Beach Open,Ethan Quinn,Tristan Boyer,,,1.0
+153663,2025-02-10T23:10Z,Delray Beach Open,Aleksandr Shevchenko,Michael Mmoh,,,0.0
+153654,2025-02-11T01:30Z,Delray Beach Open,James Trotter,Brandon Nakashima,,,0.0
+153662,2025-02-11T16:10Z,Delray Beach Open,Yoshihito Nishioka,Aleksandar Vukic,,,1.0
+153651,2025-02-11T18:10Z,Delray Beach Open,Taro Daniel,Alejandro Davidovich Fokina,,,0.0
+153659,2025-02-11T18:55Z,Delray Beach Open,Bu Yunchaokete,Rinky Hijikata,,,1.0
+153652,2025-02-11T20:00Z,Delray Beach Open,Arthur Rinderknech,Dmitry Popko,,,1.0
+153661,2025-02-11T23:10Z,Delray Beach Open,Kei Nishikori,Mackenzie McDonald,,,0.0
+153653,2025-02-12T02:00Z,Delray Beach Open,Christopher Eubanks,Reilly Opelka,,,0.0
+153656,2025-02-12T16:05Z,Delray Beach Open,Learner Tien,Adam Walton,,,1.0
+153670,2025-02-12T18:00Z,Delray Beach Open,Miomir Kecmanovic,Yoshihito Nishioka,,,1.0
+153671,2025-02-12T20:10Z,Delray Beach Open,Arthur Rinderknech,Cameron Norrie,,,0.0
+153668,2025-02-12T23:10Z,Delray Beach Open,Ethan Quinn,Marcos Giron,,,0.0
+153672,2025-02-13T01:10Z,Delray Beach Open,Michael Mmoh,Alex Michelsen,,,0.0
+153674,2025-02-13T18:10Z,Delray Beach Open,Reilly Opelka,Brandon Nakashima,,,0.0
+153669,2025-02-13T20:00Z,Delray Beach Open,Mackenzie McDonald,Alejandro Davidovich Fokina,,,0.0
+153673,2025-02-13T23:20Z,Delray Beach Open,Matteo Arnaldi,Learner Tien,,,1.0
+153675,2025-02-14T02:30Z,Delray Beach Open,Taylor Fritz,Bu Yunchaokete,,,1.0
+153679,2025-02-14T18:10Z,Delray Beach Open,Miomir Kecmanovic,Marcos Giron,,,1.0
+153677,2025-02-14T20:10Z,Delray Beach Open,Cameron Norrie,Alex Michelsen,,,0.0
+153676,2025-02-14T23:10Z,Delray Beach Open,Matteo Arnaldi,Brandon Nakashima,,,1.0
+153678,2025-02-15T01:15Z,Delray Beach Open,Taylor Fritz,Alejandro Davidovich Fokina,,,0.0
+153680,2025-02-15T18:10Z,Delray Beach Open,Alex Michelsen,Miomir Kecmanovic,,,0.0
+153681,2025-02-16T01:10Z,Delray Beach Open,Alejandro Davidovich Fokina,Matteo Arnaldi,,,1.0
+153682,2025-02-16T20:10Z,Delray Beach Open,Alejandro Davidovich Fokina,Miomir Kecmanovic,,,0.0
+172428,2025-02-08T16:00Z,IEB+ Argentina Open,Marco Trungelliti,Laslo Djere,,,0.0
+172421,2025-02-08T16:00Z,IEB+ Argentina Open,Federico Coria,Thiago Agustin Tirante,,,1.0
+172422,2025-02-08T17:00Z,IEB+ Argentina Open,Thiago Monteiro,Felipe Meligeni Alves,,,0.0
+172432,2025-02-08T17:30Z,IEB+ Argentina Open,Sumit Nagal,Juan Pablo Ficovich,,,1.0
+172425,2025-02-08T17:30Z,IEB+ Argentina Open,Juan Manuel Cerundolo,Jaime Faria,,,1.0
+172413,2025-02-08T18:30Z,IEB+ Argentina Open,Francesco Passaro,Daniel Elahi Galan,,,1.0
+172427,2025-02-08T19:00Z,IEB+ Argentina Open,Roman Andres Burruchaga,Gustavo Heide,,,1.0
+172419,2025-02-08T19:00Z,IEB+ Argentina Open,Juan Bautista Torres,Chun-Hsin Tseng,,,1.0
+172426,2025-02-09T16:00Z,IEB+ Argentina Open,Federico Coria,Laslo Djere,,,0.0
+172424,2025-02-09T16:00Z,IEB+ Argentina Open,Sumit Nagal,Juan Manuel Cerundolo,,,0.0
+172417,2025-02-09T17:30Z,IEB+ Argentina Open,Francesco Passaro,Juan Bautista Torres,,,1.0
+172423,2025-02-09T17:30Z,IEB+ Argentina Open,Felipe Meligeni Alves,Roman Andres Burruchaga,,,0.0
+153694,2025-02-10T16:40Z,IEB+ Argentina Open,Roberto Carballes Baena,Dusan Lajovic,,,0.0
+153697,2025-02-10T19:20Z,IEB+ Argentina Open,Alexandre Muller,Laslo Djere,,,0.0
+153696,2025-02-10T21:40Z,IEB+ Argentina Open,Facundo Diaz Acosta,Thiago Seyboth Wild,,,0.0
+153691,2025-02-11T00:10Z,IEB+ Argentina Open,Mariano Navone,Francisco Comesana,,,1.0
+153684,2025-02-11T16:40Z,IEB+ Argentina Open,Sebastian Baez,Camilo Ugo Carabelli,,,1.0
+153687,2025-02-11T16:40Z,IEB+ Argentina Open,Roman Andres Burruchaga,Juan Manuel Cerundolo,,,0.0
+153690,2025-02-11T18:50Z,IEB+ Argentina Open,Luciano Darderi,Francisco Cerundolo,,,0.0
+153689,2025-02-12T16:40Z,IEB+ Argentina Open,Hugo Gaston,Federico Coria,,,0.0
+153695,2025-02-12T16:40Z,IEB+ Argentina Open,Tomas Martin Etcheverry,Joao Fonseca,,,0.0
+153698,2025-02-12T17:55Z,IEB+ Argentina Open,Damir Dzumhur,Pedro Martinez,,,0.0
+153699,2025-02-12T18:05Z,IEB+ Argentina Open,Laslo Djere,Alejandro Tabilo,,,1.0
+153683,2025-02-12T18:25Z,IEB+ Argentina Open,Diego Schwartzman,Nicolas Jarry,,,1.0
+153688,2025-02-12T20:30Z,IEB+ Argentina Open,Corentin Moutet,Sumit Nagal,,,1.0
+153700,2025-02-12T22:00Z,IEB+ Argentina Open,Alexander Zverev,Dusan Lajovic,,,1.0
+153710,2025-02-12T22:40Z,IEB+ Argentina Open,Sebastian Baez,Thiago Seyboth Wild,,,0.0
+153703,2025-02-12T23:55Z,IEB+ Argentina Open,Juan Manuel Cerundolo,Francisco Cerundolo,,,0.0
+153704,2025-02-13T16:40Z,IEB+ Argentina Open,Joao Fonseca,Federico Coria,,,1.0
+153709,2025-02-13T19:10Z,IEB+ Argentina Open,Pedro Martinez,Diego Schwartzman,,,1.0
+153702,2025-02-13T21:40Z,IEB+ Argentina Open,Mariano Navone,Holger Rune,,,1.0
+153701,2025-02-13T23:40Z,IEB+ Argentina Open,Lorenzo Musetti,Corentin Moutet,,,1.0
+153713,2025-02-14T16:40Z,IEB+ Argentina Open,Thiago Seyboth Wild,Laslo Djere,,,0.0
+153705,2025-02-14T18:40Z,IEB+ Argentina Open,Joao Fonseca,Mariano Navone,,,1.0
+153706,2025-02-14T23:00Z,IEB+ Argentina Open,Lorenzo Musetti,Pedro Martinez,,,0.0
+153711,2025-02-14T23:25Z,IEB+ Argentina Open,Alexander Zverev,Francisco Cerundolo,,,0.0
+153707,2025-02-15T19:10Z,IEB+ Argentina Open,Laslo Djere,Joao Fonseca,,,0.0
+153708,2025-02-15T22:05Z,IEB+ Argentina Open,Francisco Cerundolo,Pedro Martinez,,,1.0
+153712,2025-02-16T19:10Z,IEB+ Argentina Open,Francisco Cerundolo,Joao Fonseca,,,0.0
+154894,2025-02-09T10:00Z,Grand Prix Auvergne-Rhône-Alpes,Matteo Gigante,Hugo Grenier,,,0.0
+154893,2025-02-09T10:00Z,Grand Prix Auvergne-Rhône-Alpes,Alibek Kachmazov,Lukas Klein,,,0.0
+154890,2025-02-09T11:30Z,Grand Prix Auvergne-Rhône-Alpes,Jozef Kovalik,Yosuke Watanuki,,,0.0
+154889,2025-02-09T11:30Z,Grand Prix Auvergne-Rhône-Alpes,Arthur Gea,Henri Squire,,,1.0
+154891,2025-02-09T13:00Z,Grand Prix Auvergne-Rhône-Alpes,Matteo Martineau,Luca Van Assche,,,0.0
+154887,2025-02-09T13:00Z,Grand Prix Auvergne-Rhône-Alpes,Kamil Majchrzak,Manuel Guinard,,,0.0
+154892,2025-02-09T14:30Z,Grand Prix Auvergne-Rhône-Alpes,Martin Landaluce,Clement Chidekh,,,0.0
+154888,2025-02-09T14:30Z,Grand Prix Auvergne-Rhône-Alpes,Calvin Hemery,Pierre-Hugues Herbert,,,0.0
+154897,2025-02-10T11:00Z,Grand Prix Auvergne-Rhône-Alpes,Yosuke Watanuki,Arthur Gea,,,0.0
+154896,2025-02-10T11:00Z,Grand Prix Auvergne-Rhône-Alpes,Hugo Grenier,Lukas Klein,,,1.0
+154898,2025-02-10T12:30Z,Grand Prix Auvergne-Rhône-Alpes,Manuel Guinard,Pierre-Hugues Herbert,,,0.0
+154895,2025-02-10T12:30Z,Grand Prix Auvergne-Rhône-Alpes,Clement Chidekh,Luca Van Assche,,,1.0
+153717,2025-02-10T16:05Z,Grand Prix Auvergne-Rhône-Alpes,Raphael Collignon,Hamad Medjedovic,,,0.0
+153715,2025-02-10T17:50Z,Grand Prix Auvergne-Rhône-Alpes,Otto Virtanen,Sebastian Korda,,,1.0
+153722,2025-02-10T20:40Z,Grand Prix Auvergne-Rhône-Alpes,Lorenzo Sonego,Botic Van De Zandschulp,,,1.0
+153714,2025-02-11T10:40Z,Grand Prix Auvergne-Rhône-Alpes,Luca Nardi,Daniel Altmaier,,,0.0
+153719,2025-02-11T12:40Z,Grand Prix Auvergne-Rhône-Alpes,Alexander Bublik,Richard Gasquet,,,1.0
+153724,2025-02-11T14:20Z,Grand Prix Auvergne-Rhône-Alpes,Luca Van Assche,Benjamin Bonzi,,,1.0
+153723,2025-02-11T15:30Z,Grand Prix Auvergne-Rhône-Alpes,Jan-Lennard Struff,Manuel Guinard,,,1.0
+153728,2025-02-11T17:10Z,Grand Prix Auvergne-Rhône-Alpes,Nuno Borges,Stan Wawrinka,,,1.0
+153729,2025-02-11T17:40Z,Grand Prix Auvergne-Rhône-Alpes,Clement Chidekh,Zizou Bergs,,,0.0
+153725,2025-02-11T20:00Z,Grand Prix Auvergne-Rhône-Alpes,Zhang Zhizhen,Quentin Halys,,,1.0
+153718,2025-02-12T12:00Z,Grand Prix Auvergne-Rhône-Alpes,Hugo Grenier,Arthur Gea,,,1.0
+153721,2025-02-12T12:40Z,Grand Prix Auvergne-Rhône-Alpes,Pierre-Hugues Herbert,Harold Mayot,,,1.0
+153735,2025-02-12T14:00Z,Grand Prix Auvergne-Rhône-Alpes,Lorenzo Sonego,Luca Van Assche,,,1.0
+153736,2025-02-12T15:35Z,Grand Prix Auvergne-Rhône-Alpes,Daniel Altmaier,Otto Virtanen,,,1.0
+153730,2025-02-12T17:25Z,Grand Prix Auvergne-Rhône-Alpes,Karen Khachanov,Hamad Medjedovic,,,0.0
+153733,2025-02-12T18:55Z,Grand Prix Auvergne-Rhône-Alpes,Alexander Bublik,Ugo Humbert,,,0.0
+153737,2025-02-13T12:40Z,Grand Prix Auvergne-Rhône-Alpes,Nuno Borges,Zizou Bergs,,,0.0
+153734,2025-02-13T15:10Z,Grand Prix Auvergne-Rhône-Alpes,Zhang Zhizhen,Hubert Hurkacz,,,1.0
+153732,2025-02-13T17:40Z,Grand Prix Auvergne-Rhône-Alpes,Daniil Medvedev,Pierre-Hugues Herbert,,,1.0
+153731,2025-02-13T19:05Z,Grand Prix Auvergne-Rhône-Alpes,Jan-Lennard Struff,Hugo Grenier,,,1.0
+153738,2025-02-14T13:40Z,Grand Prix Auvergne-Rhône-Alpes,Zizou Bergs,Zhang Zhizhen,,,1.0
+153739,2025-02-14T14:55Z,Grand Prix Auvergne-Rhône-Alpes,Lorenzo Sonego,Ugo Humbert,,,0.0
+153741,2025-02-14T17:10Z,Grand Prix Auvergne-Rhône-Alpes,Daniil Medvedev,Jan-Lennard Struff,,,1.0
+153740,2025-02-14T18:50Z,Grand Prix Auvergne-Rhône-Alpes,Hamad Medjedovic,Daniel Altmaier,,,1.0
+153743,2025-02-15T16:25Z,Grand Prix Auvergne-Rhône-Alpes,Zizou Bergs,Ugo Humbert,,,0.0
+153742,2025-02-15T18:20Z,Grand Prix Auvergne-Rhône-Alpes,Daniil Medvedev,Hamad Medjedovic,,,0.0
+153744,2025-02-16T14:40Z,Grand Prix Auvergne-Rhône-Alpes,Hamad Medjedovic,Ugo Humbert,,,0.0
+154906,2025-02-14T06:05Z,Dubai Duty Free Tennis Championships,Arantxa Rus,Moyuka Uchijima,,,0.0
+154907,2025-02-14T06:05Z,Dubai Duty Free Tennis Championships,Aoi Ito,Taylor Townsend,,,1.0
+154908,2025-02-14T06:05Z,Dubai Duty Free Tennis Championships,Ashlyn Krueger,Jule Niemeier,,,1.0
+154920,2025-02-14T06:05Z,Dubai Duty Free Tennis Championships,Viktoriya Tomova,Anastasia Zakharova,,,0.0
+154915,2025-02-14T07:40Z,Dubai Duty Free Tennis Championships,Elena-Gabriela Ruse,Jaqueline Cristian,,,0.0
+154916,2025-02-14T07:40Z,Dubai Duty Free Tennis Championships,Polina Kudermetova,Alycia Parks,,,0.0
+154919,2025-02-14T07:40Z,Dubai Duty Free Tennis Championships,Ysaline Bonaventure,Bernarda Pera,,,0.0
+154912,2025-02-14T07:45Z,Dubai Duty Free Tennis Championships,Katerina Siniakova,Kristina Mladenovic,,,1.0
+154909,2025-02-14T09:00Z,Dubai Duty Free Tennis Championships,Leah Baroudi,Irina-Camelia Begu,,,0.0
+154910,2025-02-14T09:15Z,Dubai Duty Free Tennis Championships,Yuan Yue,Cristina Bucsa,,,1.0
+154911,2025-02-14T09:15Z,Dubai Duty Free Tennis Championships,Veronika Kudermetova,Chloe Paquet,,,1.0
+154913,2025-02-14T09:35Z,Dubai Duty Free Tennis Championships,Celine Simunyu,Renata Zarazua,,,1.0
+154917,2025-02-14T09:55Z,Dubai Duty Free Tennis Championships,Daria Saville,Suzan Lamens,,,0.0
+154918,2025-02-14T10:50Z,Dubai Duty Free Tennis Championships,Ann Li,Eva Lys,,,0.0
+154914,2025-02-14T11:10Z,Dubai Duty Free Tennis Championships,Lucia Bronzetti,Zhang Shuai,,,0.0
+154921,2025-02-14T12:30Z,Dubai Duty Free Tennis Championships,Darja Semenistaja,Kamilla Rakhimova,,,0.0
+154923,2025-02-15T06:05Z,Dubai Duty Free Tennis Championships,Ashlyn Krueger,Aoi Ito,,,0.0
+154926,2025-02-15T06:05Z,Dubai Duty Free Tennis Championships,Alycia Parks,Bernarda Pera,,,1.0
+154928,2025-02-15T06:05Z,Dubai Duty Free Tennis Championships,Anastasia Zakharova,Moyuka Uchijima,,,0.0
+154922,2025-02-15T07:40Z,Dubai Duty Free Tennis Championships,Yuan Yue,Irina-Camelia Begu,,,0.0
+154925,2025-02-15T07:40Z,Dubai Duty Free Tennis Championships,Veronika Kudermetova,Celine Simunyu,,,1.0
+154924,2025-02-15T08:40Z,Dubai Duty Free Tennis Championships,Katerina Siniakova,Jaqueline Cristian,,,1.0
+154929,2025-02-15T09:00Z,Dubai Duty Free Tennis Championships,Eva Lys,Kamilla Rakhimova,,,1.0
+154927,2025-02-15T09:55Z,Dubai Duty Free Tennis Championships,Zhang Shuai,Suzan Lamens,,,0.0
+153967,2025-02-16T07:05Z,Dubai Duty Free Tennis Championships,Lulu Sun,Paula Badosa,,,0.0
+153972,2025-02-16T07:05Z,Dubai Duty Free Tennis Championships,Alycia Parks,Wang Xinyu,,,1.0
+153969,2025-02-16T07:10Z,Dubai Duty Free Tennis Championships,Elise Mertens,Leylah Fernandez,,,1.0
+153979,2025-02-16T08:40Z,Dubai Duty Free Tennis Championships,Magda Linette,Dayana Yastremska,,,0.0
+153964,2025-02-16T08:50Z,Dubai Duty Free Tennis Championships,Donna Vekic,Sofia Kenin,,,0.0
+153965,2025-02-16T08:55Z,Dubai Duty Free Tennis Championships,Linda Noskova,Yulia Putintseva,,,1.0
+153973,2025-02-16T10:40Z,Dubai Duty Free Tennis Championships,Belinda Bencic,Aoi Ito,,,1.0
+153982,2025-02-16T10:40Z,Dubai Duty Free Tennis Championships,Liudmila Samsonova,Anastasia Pavlyuchenkova,,,1.0
+153985,2025-02-16T12:05Z,Dubai Duty Free Tennis Championships,Marketa Vondrousova,Caroline Garcia,,,1.0
+153974,2025-02-16T13:25Z,Dubai Duty Free Tennis Championships,Suzan Lamens,Karolina Muchova,,,0.0
+153955,2025-02-16T14:40Z,Dubai Duty Free Tennis Championships,Elina Svitolina,Anna Kalinskaya,,,1.0
+153978,2025-02-16T16:05Z,Dubai Duty Free Tennis Championships,Maria Sakkari,Emma Raducanu,,,0.0
+153956,2025-02-17T07:05Z,Dubai Duty Free Tennis Championships,Diana Shnaider,Magdalena Frech,,,1.0
+153961,2025-02-17T07:10Z,Dubai Duty Free Tennis Championships,Eva Lys,Irina-Camelia Begu,,,1.0
+153983,2025-02-17T07:10Z,Dubai Duty Free Tennis Championships,Beatriz Haddad Maia,Anastasia Potapova,,,0.0
+153975,2025-02-17T08:40Z,Dubai Duty Free Tennis Championships,Daria Kasatkina,Sorana Cirstea,,,0.0
+153966,2025-02-17T08:45Z,Dubai Duty Free Tennis Championships,Katerina Siniakova,Marta Kostyuk,,,0.0
+153957,2025-02-17T10:05Z,Dubai Duty Free Tennis Championships,Rebecca Sramkova,Clara Tauson,,,0.0
+153980,2025-02-17T10:15Z,Dubai Duty Free Tennis Championships,Victoria Azarenka,Anhelina Kalinina,,,1.0
+153968,2025-02-17T10:20Z,Dubai Duty Free Tennis Championships,Moyuka Uchijima,Jelena Ostapenko,,,1.0
+153976,2025-02-17T12:10Z,Dubai Duty Free Tennis Championships,McCartney Kessler,Amanda Anisimova,,,1.0
+153962,2025-02-17T13:30Z,Dubai Duty Free Tennis Championships,Ekaterina Alexandrova,Veronika Kudermetova,,,0.0
+153959,2025-02-17T14:40Z,Dubai Duty Free Tennis Championships,Ons Jabeur,Peyton Stearns,,,0.0
+153986,2025-02-17T16:55Z,Dubai Duty Free Tennis Championships,Elina Avanesyan,Mirra Andreeva,,,0.0
+153994,2025-02-18T07:00Z,Dubai Duty Free Tennis Championships,Elena Rybakina,Moyuka Uchijima,,,1.0
+153993,2025-02-18T07:05Z,Dubai Duty Free Tennis Championships,Eva Lys,Jasmine Paolini,,,0.0
+153995,2025-02-18T07:05Z,Dubai Duty Free Tennis Championships,Elise Mertens,Paula Badosa,,,0.0
+154001,2025-02-18T07:10Z,Dubai Duty Free Tennis Championships,Diana Shnaider,Linda Noskova,,,0.0
+153992,2025-02-18T08:40Z,Dubai Duty Free Tennis Championships,Sofia Kenin,Marta Kostyuk,,,1.0
+153998,2025-02-18T09:05Z,Dubai Duty Free Tennis Championships,Liudmila Samsonova,Jessica Pegula,,,0.0
+153989,2025-02-18T15:35Z,Dubai Duty Free Tennis Championships,Victoria Azarenka,Iga Swiatek,,,0.0
+153988,2025-02-18T15:40Z,Dubai Duty Free Tennis Championships,Anastasia Potapova,Dayana Yastremska,,,0.0
+153999,2025-02-18T16:50Z,Dubai Duty Free Tennis Championships,Coco Gauff,McCartney Kessler,,,0.0
+154002,2025-02-18T17:10Z,Dubai Duty Free Tennis Championships,Aryna Sabalenka,Veronika Kudermetova,,,1.0
+153996,2025-02-18T17:50Z,Dubai Duty Free Tennis Championships,Emma Raducanu,Karolina Muchova,,,0.0
+154000,2025-02-18T18:00Z,Dubai Duty Free Tennis Championships,Clara Tauson,Elina Svitolina,,,1.0
+153987,2025-02-19T07:10Z,Dubai Duty Free Tennis Championships,Belinda Bencic,Emma Navarro,,,0.0
+153990,2025-02-19T07:10Z,Dubai Duty Free Tennis Championships,Zheng Qinwen,Peyton Stearns,,,0.0
+153991,2025-02-19T07:10Z,Dubai Duty Free Tennis Championships,Marketa Vondrousova,Mirra Andreeva,,,0.0
+153997,2025-02-19T07:10Z,Dubai Duty Free Tennis Championships,Sorana Cirstea,Alycia Parks,,,1.0
+154006,2025-02-19T09:10Z,Dubai Duty Free Tennis Championships,Sofia Kenin,Jasmine Paolini,,,1.0
+154009,2025-02-19T09:25Z,Dubai Duty Free Tennis Championships,Linda Noskova,Jessica Pegula,,,1.0
+154004,2025-02-19T10:05Z,Dubai Duty Free Tennis Championships,Dayana Yastremska,Iga Swiatek,,,0.0
+154005,2025-02-19T10:05Z,Dubai Duty Free Tennis Championships,Elena Rybakina,Paula Badosa,,,1.0
+154003,2025-02-19T12:25Z,Dubai Duty Free Tennis Championships,Peyton Stearns,Mirra Andreeva,,,0.0
+154007,2025-02-19T13:45Z,Dubai Duty Free Tennis Championships,McCartney Kessler,Karolina Muchova,,,0.0
+154010,2025-02-19T14:40Z,Dubai Duty Free Tennis Championships,Aryna Sabalenka,Clara Tauson,,,0.0
+154008,2025-02-19T16:25Z,Dubai Duty Free Tennis Championships,Sorana Cirstea,Emma Navarro,,,1.0
+154011,2025-02-20T10:10Z,Dubai Duty Free Tennis Championships,Mirra Andreeva,Iga Swiatek,,,1.0
+154013,2025-02-20T12:10Z,Dubai Duty Free Tennis Championships,Clara Tauson,Linda Noskova,,,1.0
+154012,2025-02-20T14:40Z,Dubai Duty Free Tennis Championships,Elena Rybakina,Sofia Kenin,,,1.0
+154014,2025-02-20T16:20Z,Dubai Duty Free Tennis Championships,Karolina Muchova,Sorana Cirstea,,,1.0
+154015,2025-02-21T13:10Z,Dubai Duty Free Tennis Championships,Elena Rybakina,Mirra Andreeva,,,0.0
+154016,2025-02-21T15:40Z,Dubai Duty Free Tennis Championships,Clara Tauson,Karolina Muchova,,,1.0
+154017,2025-02-22T15:10Z,Dubai Duty Free Tennis Championships,Clara Tauson,Mirra Andreeva,,,0.0
+155083,2025-02-22T07:00Z,Dubai Duty Free Tennis Championships,Marton Fucsovics,Jozef Kovalik,,,1.0
+155085,2025-02-22T07:00Z,Dubai Duty Free Tennis Championships,Lloyd Harris,Luca Nardi,,,0.0
+155088,2025-02-22T07:00Z,Dubai Duty Free Tennis Championships,Quentin Halys,Yasutaka Uchiyama,,,1.0
+155081,2025-02-22T08:30Z,Dubai Duty Free Tennis Championships,Christopher O'Connell,Abdulrahman Al Janahi,,,1.0
+155082,2025-02-22T08:30Z,Dubai Duty Free Tennis Championships,Yosuke Watanuki,Pavel Kotov,,,0.0
+155084,2025-02-22T08:30Z,Dubai Duty Free Tennis Championships,Andrea Vavassori,Botic Van De Zandschulp,,,0.0
+155086,2025-02-22T10:00Z,Dubai Duty Free Tennis Championships,Mikhail Kukushkin,Otto Virtanen,,,0.0
+155087,2025-02-22T10:00Z,Dubai Duty Free Tennis Championships,Roman Safiullin,Nikoloz Basilashvili,,,1.0
+155090,2025-02-23T07:00Z,Dubai Duty Free Tennis Championships,Christopher O'Connell,Botic Van De Zandschulp,,,1.0
+155092,2025-02-23T07:00Z,Dubai Duty Free Tennis Championships,Marton Fucsovics,Luca Nardi,,,1.0
+155089,2025-02-23T08:30Z,Dubai Duty Free Tennis Championships,Roman Safiullin,Otto Virtanen,,,1.0
+155091,2025-02-23T08:30Z,Dubai Duty Free Tennis Championships,Quentin Halys,Pavel Kotov,,,1.0
+153850,2025-02-24T10:10Z,Dubai Duty Free Tennis Championships,Fabian Marozsan,Roberto Bautista Agut,,,0.0
+153853,2025-02-24T10:10Z,Dubai Duty Free Tennis Championships,Alexei Popyrin,Hady Habib,,,1.0
+153846,2025-02-24T12:15Z,Dubai Duty Free Tennis Championships,Daniel Evans,Karen Khachanov,,,0.0
+153845,2025-02-24T13:05Z,Dubai Duty Free Tennis Championships,Aziz Dougaz,Zizou Bergs,,,0.0
+153841,2025-02-24T14:40Z,Dubai Duty Free Tennis Championships,Stefanos Tsitsipas,Lorenzo Sonego,,,1.0
+153838,2025-02-24T16:40Z,Dubai Duty Free Tennis Championships,Giovanni Mpetshi Perricard,Zhang Zhizhen,,,1.0
+153839,2025-02-25T10:10Z,Dubai Duty Free Tennis Championships,Luca Nardi,Marton Fucsovics,,,1.0
+153840,2025-02-25T10:10Z,Dubai Duty Free Tennis Championships,Marin Cilic,Alex de Minaur,,,1.0
+153852,2025-02-25T10:10Z,Dubai Duty Free Tennis Championships,Arthur Fils,Nuno Borges,,,0.0
+153848,2025-02-25T11:30Z,Dubai Duty Free Tennis Championships,Alexander Bublik,Felix Auger-Aliassime,,,0.0
+153847,2025-02-25T12:45Z,Dubai Duty Free Tennis Championships,Roman Safiullin,Tallon Griekspoor,,,0.0
+153851,2025-02-25T12:50Z,Dubai Duty Free Tennis Championships,Quentin Halys,Andrey Rublev,,,1.0
+153842,2025-02-25T14:40Z,Dubai Duty Free Tennis Championships,Jiri Lehecka,Ugo Humbert,,,0.0
+153843,2025-02-25T15:25Z,Dubai Duty Free Tennis Championships,Daniil Medvedev,Jan-Lennard Struff,,,1.0
+153844,2025-02-25T16:10Z,Dubai Duty Free Tennis Championships,Christopher O'Connell,Grigor Dimitrov,,,1.0
+153849,2025-02-25T17:25Z,Dubai Duty Free Tennis Championships,Gael Monfils,Matteo Berrettini,,,0.0
+153855,2025-02-26T10:10Z,Dubai Duty Free Tennis Championships,Alexei Popyrin,Marin Cilic,,,0.0
+153859,2025-02-26T10:15Z,Dubai Duty Free Tennis Championships,Nuno Borges,Felix Auger-Aliassime,,,0.0
+153854,2025-02-26T12:45Z,Dubai Duty Free Tennis Championships,Luca Nardi,Zizou Bergs,,,1.0
+153863,2025-02-26T12:55Z,Dubai Duty Free Tennis Championships,Tallon Griekspoor,Ugo Humbert,,,1.0
+153860,2025-02-26T14:45Z,Dubai Duty Free Tennis Championships,Roberto Bautista Agut,Quentin Halys,,,0.0
+153862,2025-02-26T15:20Z,Dubai Duty Free Tennis Championships,Daniil Medvedev,Giovanni Mpetshi Perricard,,,1.0
+153856,2025-02-26T16:40Z,Dubai Duty Free Tennis Championships,Matteo Berrettini,Christopher O'Connell,,,1.0
+153861,2025-02-26T17:05Z,Dubai Duty Free Tennis Championships,Stefanos Tsitsipas,Karen Khachanov,,,1.0
+153866,2025-02-27T10:15Z,Dubai Duty Free Tennis Championships,Felix Auger-Aliassime,Marin Cilic,,,1.0
+153867,2025-02-27T14:50Z,Dubai Duty Free Tennis Championships,Luca Nardi,Quentin Halys,,,0.0
+153858,2025-02-27T15:15Z,Dubai Duty Free Tennis Championships,Daniil Medvedev,Tallon Griekspoor,,,0.0
+153857,2025-02-27T18:15Z,Dubai Duty Free Tennis Championships,Stefanos Tsitsipas,Matteo Berrettini,,,1.0
+153864,2025-02-28T13:15Z,Dubai Duty Free Tennis Championships,Quentin Halys,Felix Auger-Aliassime,,,0.0
+153868,2025-02-28T15:50Z,Dubai Duty Free Tennis Championships,Tallon Griekspoor,Stefanos Tsitsipas,,,0.0
+153865,2025-03-01T15:15Z,Dubai Duty Free Tennis Championships,Stefanos Tsitsipas,Felix Auger-Aliassime,,,1.0
+155035,2025-02-15T08:00Z,Qatar ExxonMobil Open,Quentin Halys,Mubarak Shannan Zayid,,,1.0
+155036,2025-02-15T08:00Z,Qatar ExxonMobil Open,Christopher O'Connell,Yosuke Watanuki,,,1.0
+155039,2025-02-15T08:00Z,Qatar ExxonMobil Open,Jozef Kovalik,Pavel Kotov,,,0.0
+155037,2025-02-15T08:00Z,Qatar ExxonMobil Open,Stan Wawrinka,Arthur Cazaux,,,1.0
+155042,2025-02-15T09:30Z,Qatar ExxonMobil Open,Terence Atmane,Otto Virtanen,,,0.0
+155041,2025-02-15T09:30Z,Qatar ExxonMobil Open,Daniel Merida,Mikhail Kukushkin,,,0.0
+155040,2025-02-15T09:30Z,Qatar ExxonMobil Open,Botic Van De Zandschulp,Ergi Kirkin,,,1.0
+155038,2025-02-15T09:30Z,Qatar ExxonMobil Open,Luca Nardi,Yasutaka Uchiyama,,,1.0
+155046,2025-02-16T10:00Z,Qatar ExxonMobil Open,Luca Nardi,Mikhail Kukushkin,,,1.0
+155043,2025-02-16T10:00Z,Qatar ExxonMobil Open,Botic Van De Zandschulp,Otto Virtanen,,,1.0
+155044,2025-02-16T10:00Z,Qatar ExxonMobil Open,Quentin Halys,Stan Wawrinka,,,1.0
+155045,2025-02-16T10:00Z,Qatar ExxonMobil Open,Christopher O'Connell,Pavel Kotov,,,1.0
+153746,2025-02-17T11:40Z,Qatar ExxonMobil Open,Christopher O'Connell,Hady Habib,,,1.0
+153752,2025-02-17T14:00Z,Qatar ExxonMobil Open,Jiri Lehecka,Grigor Dimitrov,,,1.0
+153750,2025-02-17T14:30Z,Qatar ExxonMobil Open,Fabian Marozsan,Aziz Dougaz,,,1.0
+153754,2025-02-17T15:35Z,Qatar ExxonMobil Open,Carlos Alcaraz,Marin Cilic,,,1.0
+153745,2025-02-17T17:40Z,Qatar ExxonMobil Open,Alexei Popyrin,Jack Draper,,,0.0
+153748,2025-02-18T11:40Z,Qatar ExxonMobil Open,Roman Safiullin,Alex de Minaur,,,0.0
+153756,2025-02-18T11:40Z,Qatar ExxonMobil Open,Zhang Zhizhen,Luca Nardi,,,0.0
+153753,2025-02-18T11:40Z,Qatar ExxonMobil Open,Botic Van De Zandschulp,Abdullah Shelbayh,,,1.0
+153751,2025-02-18T11:45Z,Qatar ExxonMobil Open,Otto Virtanen,Nuno Borges,,,0.0
+153759,2025-02-18T13:15Z,Qatar ExxonMobil Open,Zizou Bergs,Roberto Bautista Agut,,,1.0
+153749,2025-02-18T13:25Z,Qatar ExxonMobil Open,Jan-Lennard Struff,Tallon Griekspoor,,,0.0
+153757,2025-02-18T13:35Z,Qatar ExxonMobil Open,Andrey Rublev,Alexander Bublik,,,1.0
+153755,2025-02-18T13:40Z,Qatar ExxonMobil Open,Karen Khachanov,Daniil Medvedev,,,0.0
+153758,2025-02-18T15:00Z,Qatar ExxonMobil Open,Quentin Halys,Felix Auger-Aliassime,,,0.0
+153747,2025-02-18T16:35Z,Qatar ExxonMobil Open,Novak Djokovic,Matteo Berrettini,,,0.0
+153760,2025-02-18T18:25Z,Qatar ExxonMobil Open,Stefanos Tsitsipas,Hamad Medjedovic,,,0.0
+153764,2025-02-19T11:40Z,Qatar ExxonMobil Open,Botic Van De Zandschulp,Alex de Minaur,,,0.0
+153766,2025-02-19T13:10Z,Qatar ExxonMobil Open,Andrey Rublev,Nuno Borges,,,1.0
+153765,2025-02-19T13:10Z,Qatar ExxonMobil Open,Christopher O'Connell,Jack Draper,,,0.0
+153762,2025-02-19T14:00Z,Qatar ExxonMobil Open,Zizou Bergs,Daniil Medvedev,,,0.0
+153761,2025-02-19T14:30Z,Qatar ExxonMobil Open,Fabian Marozsan,Jiri Lehecka,,,0.0
+153763,2025-02-19T15:00Z,Qatar ExxonMobil Open,Hamad Medjedovic,Felix Auger-Aliassime,,,0.0
+153770,2025-02-19T15:15Z,Qatar ExxonMobil Open,Carlos Alcaraz,Luca Nardi,,,1.0
+153771,2025-02-19T17:30Z,Qatar ExxonMobil Open,Matteo Berrettini,Tallon Griekspoor,,,1.0
+153767,2025-02-20T11:40Z,Qatar ExxonMobil Open,Andrey Rublev,Alex de Minaur,,,1.0
+153768,2025-02-20T14:40Z,Qatar ExxonMobil Open,Felix Auger-Aliassime,Daniil Medvedev,,,1.0
+153769,2025-02-20T15:55Z,Qatar ExxonMobil Open,Carlos Alcaraz,Jiri Lehecka,,,0.0
+153774,2025-02-20T18:30Z,Qatar ExxonMobil Open,Matteo Berrettini,Jack Draper,,,0.0
+153772,2025-02-21T15:10Z,Qatar ExxonMobil Open,Felix Auger-Aliassime,Andrey Rublev,,,0.0
+153775,2025-02-21T18:20Z,Qatar ExxonMobil Open,Jiri Lehecka,Jack Draper,,,0.0
+153773,2025-02-22T15:15Z,Qatar ExxonMobil Open,Jack Draper,Andrey Rublev,,,0.0
+155051,2025-02-15T19:00Z,Rio Open presented by Claro,Juan Manuel Cerundolo,Thiago Agustin Tirante,,,1.0
+155047,2025-02-15T19:00Z,Rio Open presented by Claro,Tomas Barrios Vera,Cristian Garin,,,1.0
+155052,2025-02-15T19:00Z,Rio Open presented by Claro,Jaime Faria,Mateus De Carvalho Cardoso Alves,,,1.0
+155053,2025-02-15T19:00Z,Rio Open presented by Claro,Roman Andres Burruchaga,Federico Coria,,,1.0
+155050,2025-02-15T20:30Z,Rio Open presented by Claro,Yannick Hanfmann,Marco Trungelliti,,,0.0
+155049,2025-02-15T20:30Z,Rio Open presented by Claro,Joao Lucas Reis Da Silva,Chun-Hsin Tseng,,,0.0
+155048,2025-02-15T20:30Z,Rio Open presented by Claro,Camilo Ugo Carabelli,Karue Sell,,,1.0
+155054,2025-02-15T20:30Z,Rio Open presented by Claro,Hugo Dellien,Juan Pablo Ficovich,,,1.0
+155055,2025-02-16T20:00Z,Rio Open presented by Claro,Camilo Ugo Carabelli,Tomas Barrios Vera,,,0.0
+155056,2025-02-16T20:00Z,Rio Open presented by Claro,Jaime Faria,Juan Manuel Cerundolo,,,0.0
+155057,2025-02-16T20:00Z,Rio Open presented by Claro,Marco Trungelliti,Chun-Hsin Tseng,,,0.0
+155058,2025-02-16T20:00Z,Rio Open presented by Claro,Hugo Dellien,Roman Andres Burruchaga,,,1.0
+153777,2025-02-17T19:40Z,Rio Open presented by Claro,Aleksandr Shevchenko,Felipe Meligeni Alves,,,1.0
+153781,2025-02-17T20:40Z,Rio Open presented by Claro,Juan Manuel Cerundolo,Nicolas Jarry,,,0.0
+153779,2025-02-17T21:50Z,Rio Open presented by Claro,Gustavo Heide,Francisco Comesana,,,0.0
+153784,2025-02-17T22:10Z,Rio Open presented by Claro,Facundo Diaz Acosta,Thiago Monteiro,,,0.0
+153785,2025-02-18T01:10Z,Rio Open presented by Claro,Chun-Hsin Tseng,Alejandro Tabilo,,,1.0
+153782,2025-02-18T01:15Z,Rio Open presented by Claro,Jaume Munar,Thiago Seyboth Wild,,,1.0
+153790,2025-02-18T19:40Z,Rio Open presented by Claro,Corentin Moutet,Tomas Martin Etcheverry,,,0.0
+153780,2025-02-18T19:40Z,Rio Open presented by Claro,Dusan Lajovic,Damir Dzumhur,,,0.0
+153786,2025-02-18T19:40Z,Rio Open presented by Claro,Luciano Darderi,Hugo Dellien,,,1.0
+153787,2025-02-18T19:40Z,Rio Open presented by Claro,Sebastian Baez,Roman Andres Burruchaga,,,1.0
+153788,2025-02-18T21:30Z,Rio Open presented by Claro,Mariano Navone,Roberto Carballes Baena,,,1.0
+153791,2025-02-18T21:30Z,Rio Open presented by Claro,Tomas Barrios Vera,Jaime Faria,,,0.0
+153776,2025-02-18T21:55Z,Rio Open presented by Claro,Francisco Cerundolo,Hugo Gaston,,,1.0
+153783,2025-02-18T22:10Z,Rio Open presented by Claro,Alexander Zverev,Bu Yunchaokete,,,1.0
+153778,2025-02-18T22:55Z,Rio Open presented by Claro,Pedro Martinez,Camilo Ugo Carabelli,,,0.0
+153789,2025-02-19T00:40Z,Rio Open presented by Claro,Joao Fonseca,Alexandre Muller,,,0.0
+153797,2025-02-19T19:40Z,Rio Open presented by Claro,Francisco Comesana,Nicolas Jarry,,,1.0
+153796,2025-02-19T22:25Z,Rio Open presented by Claro,Sebastian Baez,Mariano Navone,,,1.0
+153799,2025-02-19T23:20Z,Rio Open presented by Claro,Alexander Zverev,Aleksandr Shevchenko,,,1.0
+153793,2025-02-20T02:20Z,Rio Open presented by Claro,Thiago Monteiro,Chun-Hsin Tseng,,,0.0
+153792,2025-02-20T19:40Z,Rio Open presented by Claro,Jaume Munar,Jaime Faria,,,0.0
+153794,2025-02-20T20:10Z,Rio Open presented by Claro,Camilo Ugo Carabelli,Damir Dzumhur,,,1.0
+153798,2025-02-20T22:10Z,Rio Open presented by Claro,Francisco Cerundolo,Luciano Darderi,,,1.0
+153795,2025-02-21T00:40Z,Rio Open presented by Claro,Alexandre Muller,Tomas Martin Etcheverry,,,1.0
+153803,2025-02-21T20:10Z,Rio Open presented by Claro,Camilo Ugo Carabelli,Jaime Faria,,,1.0
+153802,2025-02-21T20:10Z,Rio Open presented by Claro,Sebastian Baez,Chun-Hsin Tseng,,,1.0
+153800,2025-02-21T22:05Z,Rio Open presented by Claro,Alexander Zverev,Francisco Comesana,,,0.0
+153801,2025-02-22T01:10Z,Rio Open presented by Claro,Francisco Cerundolo,Alexandre Muller,,,0.0
+153805,2025-02-22T20:10Z,Rio Open presented by Claro,Sebastian Baez,Camilo Ugo Carabelli,,,1.0
+153804,2025-02-22T22:15Z,Rio Open presented by Claro,Francisco Comesana,Alexandre Muller,,,0.0
+153806,2025-02-23T20:40Z,Rio Open presented by Claro,Alexandre Muller,Sebastian Baez,,,0.0
+155099,2025-02-22T15:00Z,BCI Seguros Chile Open,Emilio Nava,Juan Pablo Varillas,,,0.0
+155098,2025-02-22T15:00Z,BCI Seguros Chile Open,Roman Andres Burruchaga,Kilian Feldbausch,,,1.0
+155097,2025-02-22T15:00Z,BCI Seguros Chile Open,Adolfo Daniel Vallejo,Juan Pablo Ficovich,,,0.0
+155100,2025-02-22T16:30Z,BCI Seguros Chile Open,Felipe Meligeni Alves,Bastian Malla,,,1.0
+155096,2025-02-22T16:30Z,BCI Seguros Chile Open,Thiago Agustin Tirante,Pol Martin Tiffon,,,1.0
+155093,2025-02-22T16:30Z,BCI Seguros Chile Open,Ryan Seggerman,Orlando Luz,,,0.0
+155095,2025-02-22T18:00Z,BCI Seguros Chile Open,Genaro Alberto Olivieri,Gustavo Heide,,,0.0
+155094,2025-02-22T18:00Z,BCI Seguros Chile Open,Juan Manuel Cerundolo,Matias Soto,,,1.0
+155102,2025-02-23T15:00Z,BCI Seguros Chile Open,Felipe Meligeni Alves,Juan Pablo Varillas,,,1.0
+155101,2025-02-23T15:00Z,BCI Seguros Chile Open,Roman Andres Burruchaga,Juan Pablo Ficovich,,,0.0
+155103,2025-02-23T16:00Z,BCI Seguros Chile Open,Thiago Agustin Tirante,Gustavo Heide,,,0.0
+155104,2025-02-23T16:00Z,BCI Seguros Chile Open,Juan Manuel Cerundolo,Orlando Luz,,,1.0
+153879,2025-02-24T17:10Z,BCI Seguros Chile Open,Yannick Hanfmann,Facundo Diaz Acosta,,,1.0
+153876,2025-02-24T19:00Z,BCI Seguros Chile Open,Ignacio Buse,Laslo Djere,,,0.0
+153874,2025-02-24T23:05Z,BCI Seguros Chile Open,Gustavo Heide,Thiago Seyboth Wild,,,1.0
+153881,2025-02-24T23:10Z,BCI Seguros Chile Open,Cristian Garin,Juan Pablo Ficovich,,,1.0
+153869,2025-02-25T17:10Z,BCI Seguros Chile Open,Corentin Moutet,Damir Dzumhur,,,0.0
+153877,2025-02-25T17:10Z,BCI Seguros Chile Open,Hugo Gaston,Tomas Martin Etcheverry,,,0.0
+155274,2025-02-25T18:50Z,BCI Seguros Chile Open,Juan Manuel Cerundolo,Thiago Monteiro,,,0.0
+153880,2025-02-25T19:10Z,BCI Seguros Chile Open,Nicolas Jarry,Camilo Ugo Carabelli,,,0.0
+153875,2025-02-25T19:50Z,BCI Seguros Chile Open,Jaime Faria,Luciano Darderi,,,1.0
+153873,2025-02-25T21:30Z,BCI Seguros Chile Open,Mariano Navone,Aleksandr Shevchenko,,,1.0
+166877,2025-02-26T17:10Z,BCI Seguros Chile Open,Gustavo Heide,Jaime Faria,,,0.0
+155272,2025-02-26T17:10Z,BCI Seguros Chile Open,Pedro Martinez,Laslo Djere,,,0.0
+155275,2025-02-26T18:50Z,BCI Seguros Chile Open,Federico Coria,Tomas Barrios Vera,,,1.0
+153870,2025-02-26T19:15Z,BCI Seguros Chile Open,Felipe Meligeni Alves,Francisco Comesana,,,0.0
+155273,2025-02-26T19:45Z,BCI Seguros Chile Open,Francisco Cerundolo,Yannick Hanfmann,,,1.0
+155271,2025-02-26T23:10Z,BCI Seguros Chile Open,Cristian Garin,Tomas Martin Etcheverry,,,0.0
+155257,2025-02-27T17:10Z,BCI Seguros Chile Open,Mariano Navone,Damir Dzumhur,,,0.0
+155256,2025-02-27T20:05Z,BCI Seguros Chile Open,Francisco Comesana,Sebastian Baez,,,0.0
+155163,2025-02-27T21:55Z,BCI Seguros Chile Open,Camilo Ugo Carabelli,Thiago Monteiro,,,1.0
+155255,2025-02-27T23:10Z,BCI Seguros Chile Open,Federico Coria,Alejandro Tabilo,,,1.0
+155254,2025-02-28T17:10Z,BCI Seguros Chile Open,Laslo Djere,Jaime Faria,,,1.0
+155258,2025-02-28T20:15Z,BCI Seguros Chile Open,Francisco Cerundolo,Tomas Martin Etcheverry,,,1.0
+155260,2025-02-28T23:30Z,BCI Seguros Chile Open,Camilo Ugo Carabelli,Federico Coria,,,1.0
+155259,2025-03-01T01:15Z,BCI Seguros Chile Open,Damir Dzumhur,Sebastian Baez,,,0.0
+155261,2025-03-01T21:10Z,BCI Seguros Chile Open,Francisco Cerundolo,Laslo Djere,,,0.0
+155262,2025-03-01T23:30Z,BCI Seguros Chile Open,Sebastian Baez,Camilo Ugo Carabelli,,,1.0
+155263,2025-03-02T22:40Z,BCI Seguros Chile Open,Laslo Djere,Sebastian Baez,,,1.0
+155148,2025-02-22T23:00Z,Abierto Mexicano Telcel presentado por HSBC,Learner Tien,Federico Agustin Gomez,,,1.0
+155144,2025-02-22T23:00Z,Abierto Mexicano Telcel presentado por HSBC,Adrian Mannarino,Adam Walton,,,0.0
+155147,2025-02-22T23:00Z,Abierto Mexicano Telcel presentado por HSBC,Dmitry Popko,Dusan Lajovic,,,0.0
+155141,2025-02-23T00:30Z,Abierto Mexicano Telcel presentado por HSBC,Nishesh Basavareddy,James Duckworth,,,1.0
+155145,2025-02-23T00:30Z,Abierto Mexicano Telcel presentado por HSBC,Aleksandar Kovacevic,Alan Magadan,,,1.0
+155146,2025-02-23T00:30Z,Abierto Mexicano Telcel presentado por HSBC,Duarte Vale,Stefan Kozlov,,,0.0
+155142,2025-02-23T02:00Z,Abierto Mexicano Telcel presentado por HSBC,Rafael Alfonso De Alba Valdes,Gabriel Diallo,,,0.0
+155143,2025-02-23T02:00Z,Abierto Mexicano Telcel presentado por HSBC,Mattia Bellucci,Christopher Eubanks,,,1.0
+155149,2025-02-24T00:00Z,Abierto Mexicano Telcel presentado por HSBC,Stefan Kozlov,Nishesh Basavareddy,,,0.0
+155150,2025-02-24T00:00Z,Abierto Mexicano Telcel presentado por HSBC,Learner Tien,Dusan Lajovic,,,1.0
+155151,2025-02-24T00:00Z,Abierto Mexicano Telcel presentado por HSBC,Aleksandar Kovacevic,Adam Walton,,,0.0
+155152,2025-02-24T01:30Z,Abierto Mexicano Telcel presentado por HSBC,Mattia Bellucci,Gabriel Diallo,,,0.0
+153817,2025-02-25T00:40Z,Abierto Mexicano Telcel presentado por HSBC,Arthur Rinderknech,Casper Ruud,,,0.0
+153819,2025-02-25T00:40Z,Abierto Mexicano Telcel presentado por HSBC,Daniel Altmaier,Miomir Kecmanovic,,,1.0
+153821,2025-02-25T00:40Z,Abierto Mexicano Telcel presentado por HSBC,Jakub Mensik,Tomas Machac,,,0.0
+153813,2025-02-25T02:45Z,Abierto Mexicano Telcel presentado por HSBC,Flavio Cobolli,Ben Shelton,,,0.0
+153812,2025-02-25T03:05Z,Abierto Mexicano Telcel presentado por HSBC,Marcos Giron,Adam Walton,,,1.0
+153815,2025-02-25T03:10Z,Abierto Mexicano Telcel presentado por HSBC,David Goffin,Rinky Hijikata,,,1.0
+153809,2025-02-25T04:50Z,Abierto Mexicano Telcel presentado por HSBC,Learner Tien,Cameron Norrie,,,1.0
+153808,2025-02-25T05:15Z,Abierto Mexicano Telcel presentado por HSBC,Gabriel Diallo,Tommy Paul,,,0.0
+153822,2025-02-26T00:10Z,Abierto Mexicano Telcel presentado por HSBC,Aleksandar Vukic,Rodrigo Pacheco Mendez,,,0.0
+153820,2025-02-26T00:10Z,Abierto Mexicano Telcel presentado por HSBC,Alejandro Davidovich Fokina,Mattia Bellucci,,,1.0
+153816,2025-02-26T00:10Z,Abierto Mexicano Telcel presentado por HSBC,Holger Rune,Roberto Carballes Baena,,,1.0
+153807,2025-02-26T02:30Z,Abierto Mexicano Telcel presentado por HSBC,Alexander Zverev,Matteo Arnaldi,,,1.0
+153818,2025-02-26T02:50Z,Abierto Mexicano Telcel presentado por HSBC,Benjamin Bonzi,Brandon Nakashima,,,0.0
+153814,2025-02-26T03:30Z,Abierto Mexicano Telcel presentado por HSBC,Denis Shapovalov,Nishesh Basavareddy,,,1.0
+153811,2025-02-26T05:20Z,Abierto Mexicano Telcel presentado por HSBC,Alex Michelsen,Bu Yunchaokete,,,1.0
+153810,2025-02-26T05:35Z,Abierto Mexicano Telcel presentado por HSBC,Frances Tiafoe,Alexandre Muller,,,1.0
+153826,2025-02-27T00:00Z,Abierto Mexicano Telcel presentado por HSBC,Marcos Giron,Tommy Paul,,,1.0
+153829,2025-02-27T00:10Z,Abierto Mexicano Telcel presentado por HSBC,Daniel Altmaier,Tomas Machac,,,0.0
+153828,2025-02-27T00:10Z,Abierto Mexicano Telcel presentado por HSBC,David Goffin,Ben Shelton,,,1.0
+153825,2025-02-27T01:10Z,Abierto Mexicano Telcel presentado por HSBC,Denis Shapovalov,Alex Michelsen,,,1.0
+153827,2025-02-27T02:05Z,Abierto Mexicano Telcel presentado por HSBC,Holger Rune,Brandon Nakashima,,,0.0
+153830,2025-02-27T02:15Z,Abierto Mexicano Telcel presentado por HSBC,Alexander Zverev,Learner Tien,,,0.0
+153824,2025-02-27T03:00Z,Abierto Mexicano Telcel presentado por HSBC,Rodrigo Pacheco Mendez,Casper Ruud,,,1.0
+153823,2025-02-27T04:15Z,Abierto Mexicano Telcel presentado por HSBC,Frances Tiafoe,Alejandro Davidovich Fokina,,,0.0
+153834,2025-02-28T00:10Z,Abierto Mexicano Telcel presentado por HSBC,Brandon Nakashima,David Goffin,,,1.0
+153833,2025-02-28T00:10Z,Abierto Mexicano Telcel presentado por HSBC,Learner Tien,Tomas Machac,,,0.0
+153832,2025-02-28T02:40Z,Abierto Mexicano Telcel presentado por HSBC,Denis Shapovalov,Marcos Giron,,,1.0
+153831,2025-02-28T05:10Z,Abierto Mexicano Telcel presentado por HSBC,Alejandro Davidovich Fokina,Rodrigo Pacheco Mendez,,,1.0
+153836,2025-03-01T01:10Z,Abierto Mexicano Telcel presentado por HSBC,Tomas Machac,Brandon Nakashima,,,1.0
+153835,2025-03-01T03:40Z,Abierto Mexicano Telcel presentado por HSBC,Denis Shapovalov,Alejandro Davidovich Fokina,,,0.0
+153837,2025-03-02T03:10Z,Abierto Mexicano Telcel presentado por HSBC,Tomas Machac,Alejandro Davidovich Fokina,,,1.0

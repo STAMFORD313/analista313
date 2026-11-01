@@ -1,0 +1,56 @@
+id,date,event,home,away,hs,as,res
+401473433,2023-10-01T19:05Z,Boston Red Sox at Baltimore Orioles,Baltimore Orioles,Boston Red Sox,1,6,0.0
+401473438,2023-10-01T19:05Z,Los Angeles Dodgers at San Francisco Giants,San Francisco Giants,Los Angeles Dodgers,2,5,0.0
+401473446,2023-10-01T19:05Z,Miami Marlins at Pittsburgh Pirates,Pittsburgh Pirates,Miami Marlins,3,0,1.0
+401473440,2023-10-01T19:07Z,Oakland Athletics at Los Angeles Angels,Los Angeles Angels,Oakland Athletics,7,3,1.0
+401473443,2023-10-01T19:07Z,Tampa Bay Rays at Toronto Blue Jays,Toronto Blue Jays,Tampa Bay Rays,8,12,0.0
+401473434,2023-10-01T19:10Z,Chicago Cubs at Milwaukee Brewers,Milwaukee Brewers,Chicago Cubs,4,0,1.0
+401473436,2023-10-01T19:10Z,Cleveland Guardians at Detroit Tigers,Detroit Tigers,Cleveland Guardians,5,2,1.0
+401473437,2023-10-01T19:10Z,Houston Astros at Arizona Diamondbacks,Arizona Diamondbacks,Houston Astros,1,8,0.0
+401473439,2023-10-01T19:10Z,New York Yankees at Kansas City Royals,Kansas City Royals,New York Yankees,5,2,1.0
+401473441,2023-10-01T19:10Z,Philadelphia Phillies at New York Mets,New York Mets,Philadelphia Phillies,1,9,0.0
+401473442,2023-10-01T19:10Z,San Diego Padres at Chicago White Sox,Chicago White Sox,San Diego Padres,1,2,0.0
+401473444,2023-10-01T19:10Z,Texas Rangers at Seattle Mariners,Seattle Mariners,Texas Rangers,1,0,1.0
+401473445,2023-10-01T19:10Z,Washington Nationals at Atlanta Braves,Atlanta Braves,Washington Nationals,9,10,0.0
+401473447,2023-10-01T19:10Z,Minnesota Twins at Colorado Rockies,Colorado Rockies,Minnesota Twins,3,2,1.0
+401473435,2023-10-01T19:15Z,Cincinnati Reds at St. Louis Cardinals,St. Louis Cardinals,Cincinnati Reds,4,3,1.0
+401581110,2023-10-03T19:00Z,Texas Rangers at Tampa Bay Rays,Tampa Bay Rays,Texas Rangers,0,4,0.0
+401581113,2023-10-03T20:30Z,Toronto Blue Jays at Minnesota Twins,Minnesota Twins,Toronto Blue Jays,3,1,1.0
+401581119,2023-10-03T23:00Z,Arizona Diamondbacks at Milwaukee Brewers,Milwaukee Brewers,Arizona Diamondbacks,3,6,0.0
+401581116,2023-10-04T00:00Z,Miami Marlins at Philadelphia Phillies,Philadelphia Phillies,Miami Marlins,4,1,1.0
+401581111,2023-10-04T19:00Z,Texas Rangers at Tampa Bay Rays,Tampa Bay Rays,Texas Rangers,1,7,0.0
+401581114,2023-10-04T20:30Z,Toronto Blue Jays at Minnesota Twins,Minnesota Twins,Toronto Blue Jays,2,0,1.0
+401581120,2023-10-04T23:00Z,Arizona Diamondbacks at Milwaukee Brewers,Milwaukee Brewers,Arizona Diamondbacks,2,5,0.0
+401581117,2023-10-05T00:00Z,Miami Marlins at Philadelphia Phillies,Philadelphia Phillies,Miami Marlins,7,1,1.0
+401581122,2023-10-07T17:00Z,Texas Rangers at Baltimore Orioles,Baltimore Orioles,Texas Rangers,2,3,0.0
+401581127,2023-10-07T20:45Z,Minnesota Twins at Houston Astros,Houston Astros,Minnesota Twins,6,4,1.0
+401581132,2023-10-07T22:00Z,Philadelphia Phillies at Atlanta Braves,Atlanta Braves,Philadelphia Phillies,0,3,0.0
+401581137,2023-10-08T01:20Z,Arizona Diamondbacks at Los Angeles Dodgers,Los Angeles Dodgers,Arizona Diamondbacks,2,11,0.0
+401581123,2023-10-08T20:07Z,Texas Rangers at Baltimore Orioles,Baltimore Orioles,Texas Rangers,8,11,0.0
+401581128,2023-10-09T00:03Z,Minnesota Twins at Houston Astros,Houston Astros,Minnesota Twins,2,6,0.0
+401581133,2023-10-09T22:07Z,Philadelphia Phillies at Atlanta Braves,Atlanta Braves,Philadelphia Phillies,5,4,1.0
+401581138,2023-10-10T01:07Z,Arizona Diamondbacks at Los Angeles Dodgers,Los Angeles Dodgers,Arizona Diamondbacks,2,4,0.0
+401581129,2023-10-10T20:07Z,Houston Astros at Minnesota Twins,Minnesota Twins,Houston Astros,1,9,0.0
+401581124,2023-10-11T00:03Z,Baltimore Orioles at Texas Rangers,Texas Rangers,Baltimore Orioles,7,1,1.0
+401581134,2023-10-11T21:07Z,Atlanta Braves at Philadelphia Phillies,Philadelphia Phillies,Atlanta Braves,10,2,1.0
+401581130,2023-10-11T23:07Z,Houston Astros at Minnesota Twins,Minnesota Twins,Houston Astros,2,3,0.0
+401581139,2023-10-12T01:07Z,Los Angeles Dodgers at Arizona Diamondbacks,Arizona Diamondbacks,Los Angeles Dodgers,4,2,1.0
+401581135,2023-10-13T00:07Z,Atlanta Braves at Philadelphia Phillies,Philadelphia Phillies,Atlanta Braves,3,1,1.0
+401581149,2023-10-16T00:15Z,Texas Rangers at Houston Astros,Houston Astros,Texas Rangers,0,2,0.0
+401581150,2023-10-16T20:37Z,Texas Rangers at Houston Astros,Houston Astros,Texas Rangers,4,5,0.0
+401581108,2023-10-17T00:07Z,Arizona Diamondbacks at Philadelphia Phillies,Philadelphia Phillies,Arizona Diamondbacks,5,3,1.0
+401581107,2023-10-18T00:07Z,Arizona Diamondbacks at Philadelphia Phillies,Philadelphia Phillies,Arizona Diamondbacks,10,0,1.0
+401581151,2023-10-19T00:03Z,Houston Astros at Texas Rangers,Texas Rangers,Houston Astros,5,8,0.0
+401581106,2023-10-19T21:07Z,Philadelphia Phillies at Arizona Diamondbacks,Arizona Diamondbacks,Philadelphia Phillies,2,1,1.0
+401581152,2023-10-20T00:03Z,Houston Astros at Texas Rangers,Texas Rangers,Houston Astros,3,10,0.0
+401581153,2023-10-20T21:07Z,Houston Astros at Texas Rangers,Texas Rangers,Houston Astros,4,5,0.0
+401581105,2023-10-21T00:07Z,Philadelphia Phillies at Arizona Diamondbacks,Arizona Diamondbacks,Philadelphia Phillies,6,5,1.0
+401581104,2023-10-22T00:07Z,Philadelphia Phillies at Arizona Diamondbacks,Arizona Diamondbacks,Philadelphia Phillies,1,6,0.0
+401581154,2023-10-23T00:03Z,Texas Rangers at Houston Astros,Houston Astros,Texas Rangers,2,9,0.0
+401581103,2023-10-23T21:07Z,Arizona Diamondbacks at Philadelphia Phillies,Philadelphia Phillies,Arizona Diamondbacks,1,5,0.0
+401581155,2023-10-24T00:03Z,Texas Rangers at Houston Astros,Houston Astros,Texas Rangers,4,11,0.0
+401581102,2023-10-25T00:07Z,Arizona Diamondbacks at Philadelphia Phillies,Philadelphia Phillies,Arizona Diamondbacks,2,4,0.0
+401581101,2023-10-28T00:03Z,Arizona Diamondbacks at Texas Rangers,Texas Rangers,Arizona Diamondbacks,6,5,1.0
+401581100,2023-10-29T00:03Z,Arizona Diamondbacks at Texas Rangers,Texas Rangers,Arizona Diamondbacks,1,9,0.0
+401581099,2023-10-31T00:03Z,Texas Rangers at Arizona Diamondbacks,Arizona Diamondbacks,Texas Rangers,1,3,0.0
+401581098,2023-11-01T00:03Z,Texas Rangers at Arizona Diamondbacks,Arizona Diamondbacks,Texas Rangers,7,11,0.0

@@ -1,0 +1,39 @@
+id,date,event,home,away,hs,as,res
+401869417,2026-05-01T23:00Z,Detroit Pistons at Orlando Magic,Orlando Magic,Detroit Pistons,79,93,0.0
+401869381,2026-05-01T23:30Z,Cleveland Cavaliers at Toronto Raptors,Toronto Raptors,Cleveland Cavaliers,112,110,1.0
+401869409,2026-05-02T01:30Z,Los Angeles Lakers at Houston Rockets,Houston Rockets,Los Angeles Lakers,78,98,0.0
+401869412,2026-05-02T23:30Z,Philadelphia 76ers at Boston Celtics,Boston Celtics,Philadelphia 76ers,100,109,0.0
+401869418,2026-05-03T19:30Z,Orlando Magic at Detroit Pistons,Detroit Pistons,Orlando Magic,116,94,1.0
+401869384,2026-05-03T23:30Z,Toronto Raptors at Cleveland Cavaliers,Cleveland Cavaliers,Toronto Raptors,114,102,1.0
+401871159,2026-05-05T00:00Z,Philadelphia 76ers at New York Knicks,New York Knicks,Philadelphia 76ers,137,98,1.0
+401871152,2026-05-05T01:30Z,Minnesota Timberwolves at San Antonio Spurs,San Antonio Spurs,Minnesota Timberwolves,102,104,0.0
+401871333,2026-05-05T23:00Z,Cleveland Cavaliers at Detroit Pistons,Detroit Pistons,Cleveland Cavaliers,111,101,1.0
+401871326,2026-05-06T00:30Z,Los Angeles Lakers at Oklahoma City Thunder,Oklahoma City Thunder,Los Angeles Lakers,108,90,1.0
+401871160,2026-05-06T23:00Z,Philadelphia 76ers at New York Knicks,New York Knicks,Philadelphia 76ers,108,102,1.0
+401871153,2026-05-07T01:30Z,Minnesota Timberwolves at San Antonio Spurs,San Antonio Spurs,Minnesota Timberwolves,133,95,1.0
+401871334,2026-05-07T23:00Z,Cleveland Cavaliers at Detroit Pistons,Detroit Pistons,Cleveland Cavaliers,107,97,1.0
+401871327,2026-05-08T01:30Z,Los Angeles Lakers at Oklahoma City Thunder,Oklahoma City Thunder,Los Angeles Lakers,125,107,1.0
+401871161,2026-05-08T23:00Z,New York Knicks at Philadelphia 76ers,Philadelphia 76ers,New York Knicks,94,108,0.0
+401871154,2026-05-09T01:30Z,San Antonio Spurs at Minnesota Timberwolves,Minnesota Timberwolves,San Antonio Spurs,108,115,0.0
+401871335,2026-05-09T19:00Z,Detroit Pistons at Cleveland Cavaliers,Cleveland Cavaliers,Detroit Pistons,116,109,1.0
+401871328,2026-05-10T00:30Z,Oklahoma City Thunder at Los Angeles Lakers,Los Angeles Lakers,Oklahoma City Thunder,108,131,0.0
+401871162,2026-05-10T19:30Z,New York Knicks at Philadelphia 76ers,Philadelphia 76ers,New York Knicks,114,144,0.0
+401871155,2026-05-10T23:30Z,San Antonio Spurs at Minnesota Timberwolves,Minnesota Timberwolves,San Antonio Spurs,114,109,1.0
+401871336,2026-05-12T00:00Z,Detroit Pistons at Cleveland Cavaliers,Cleveland Cavaliers,Detroit Pistons,112,103,1.0
+401871329,2026-05-12T02:30Z,Oklahoma City Thunder at Los Angeles Lakers,Los Angeles Lakers,Oklahoma City Thunder,110,115,0.0
+401871156,2026-05-13T00:00Z,Minnesota Timberwolves at San Antonio Spurs,San Antonio Spurs,Minnesota Timberwolves,126,97,1.0
+401871337,2026-05-14T00:00Z,Cleveland Cavaliers at Detroit Pistons,Detroit Pistons,Cleveland Cavaliers,113,117,0.0
+401871338,2026-05-15T23:00Z,Detroit Pistons at Cleveland Cavaliers,Cleveland Cavaliers,Detroit Pistons,94,115,0.0
+401871157,2026-05-16T01:30Z,San Antonio Spurs at Minnesota Timberwolves,Minnesota Timberwolves,San Antonio Spurs,109,139,0.0
+401871339,2026-05-18T00:00Z,Cleveland Cavaliers at Detroit Pistons,Detroit Pistons,Cleveland Cavaliers,94,125,0.0
+401873197,2026-05-19T00:30Z,San Antonio Spurs at Oklahoma City Thunder,Oklahoma City Thunder,San Antonio Spurs,115,122,0.0
+401873341,2026-05-20T00:00Z,Cleveland Cavaliers at New York Knicks,New York Knicks,Cleveland Cavaliers,115,104,1.0
+401873198,2026-05-21T00:30Z,San Antonio Spurs at Oklahoma City Thunder,Oklahoma City Thunder,San Antonio Spurs,122,113,1.0
+401873342,2026-05-22T00:00Z,Cleveland Cavaliers at New York Knicks,New York Knicks,Cleveland Cavaliers,109,93,1.0
+401873199,2026-05-23T00:30Z,Oklahoma City Thunder at San Antonio Spurs,San Antonio Spurs,Oklahoma City Thunder,108,123,0.0
+401873343,2026-05-24T00:00Z,New York Knicks at Cleveland Cavaliers,Cleveland Cavaliers,New York Knicks,108,121,0.0
+401873200,2026-05-25T00:00Z,Oklahoma City Thunder at San Antonio Spurs,San Antonio Spurs,Oklahoma City Thunder,103,82,1.0
+401873344,2026-05-26T00:00Z,New York Knicks at Cleveland Cavaliers,Cleveland Cavaliers,New York Knicks,93,130,0.0
+401873201,2026-05-27T00:30Z,San Antonio Spurs at Oklahoma City Thunder,Oklahoma City Thunder,San Antonio Spurs,127,114,1.0
+401873202,2026-05-29T00:30Z,Oklahoma City Thunder at San Antonio Spurs,San Antonio Spurs,Oklahoma City Thunder,118,91,1.0
+401873203,2026-05-31T00:00Z,San Antonio Spurs at Oklahoma City Thunder,Oklahoma City Thunder,San Antonio Spurs,103,111,0.0

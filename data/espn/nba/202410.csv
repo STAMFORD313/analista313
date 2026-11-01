@@ -1,0 +1,146 @@
+id,date,event,home,away,hs,as,res
+401716947,2024-10-04T16:00Z,Boston Celtics at Denver Nuggets,Denver Nuggets,Boston Celtics,103,107,0.0
+401716948,2024-10-05T01:00Z,New Zealand Breakers at Utah Jazz,Utah Jazz,New Zealand Breakers,116,87,1.0
+401716949,2024-10-05T02:30Z,Minnesota Timberwolves at Los Angeles Lakers,Los Angeles Lakers,Minnesota Timberwolves,107,124,0.0
+401716950,2024-10-05T23:00Z,Golden State Warriors at LA Clippers,LA Clippers,Golden State Warriors,90,91,0.0
+401716951,2024-10-06T14:00Z,Denver Nuggets at Boston Celtics,Boston Celtics,Denver Nuggets,130,104,1.0
+401716952,2024-10-06T21:00Z,New York Knicks at Charlotte Hornets,Charlotte Hornets,New York Knicks,109,111,0.0
+401716953,2024-10-06T23:30Z,Washington Wizards at Toronto Raptors,Toronto Raptors,Washington Wizards,125,98,1.0
+401716954,2024-10-07T00:00Z,Milwaukee Bucks at Detroit Pistons,Detroit Pistons,Milwaukee Bucks,120,87,1.0
+401716955,2024-10-07T01:30Z,Phoenix Suns at Los Angeles Lakers,Los Angeles Lakers,Phoenix Suns,114,118,0.0
+401716956,2024-10-07T17:30Z,Orlando Magic at New Orleans Pelicans,New Orleans Pelicans,Orlando Magic,106,104,1.0
+401717054,2024-10-07T23:00Z,New Zealand Breakers at Philadelphia 76ers,Philadelphia 76ers,New Zealand Breakers,139,84,1.0
+401716957,2024-10-08T00:00Z,Memphis Grizzlies at Dallas Mavericks,Dallas Mavericks,Memphis Grizzlies,116,121,0.0
+401716958,2024-10-08T00:00Z,Oklahoma City Thunder at San Antonio Spurs,San Antonio Spurs,Oklahoma City Thunder,107,112,0.0
+401716959,2024-10-08T01:00Z,Houston Rockets at Utah Jazz,Utah Jazz,Houston Rockets,122,113,1.0
+401716960,2024-10-08T23:00Z,Miami Heat at Charlotte Hornets,Charlotte Hornets,Miami Heat,111,108,1.0
+401716962,2024-10-08T23:00Z,Chicago Bulls at Cleveland Cavaliers,Cleveland Cavaliers,Chicago Bulls,112,116,0.0
+401716964,2024-10-08T23:00Z,Phoenix Suns at Detroit Pistons,Detroit Pistons,Phoenix Suns,97,105,0.0
+401716965,2024-10-08T23:30Z,Indiana Pacers at Atlanta Hawks,Atlanta Hawks,Indiana Pacers,131,130,1.0
+401716967,2024-10-09T02:30Z,Brooklyn Nets at LA Clippers,LA Clippers,Brooklyn Nets,115,106,1.0
+401716969,2024-10-09T23:30Z,Washington Wizards at New York Knicks,New York Knicks,Washington Wizards,117,94,1.0
+401716971,2024-10-10T00:00Z,Houston Rockets at Oklahoma City Thunder,Oklahoma City Thunder,Houston Rockets,113,122,0.0
+401716973,2024-10-10T00:00Z,Orlando Magic at San Antonio Spurs,San Antonio Spurs,Orlando Magic,107,97,1.0
+401716975,2024-10-10T02:30Z,Golden State Warriors at Sacramento Kings,Sacramento Kings,Golden State Warriors,112,122,0.0
+401716976,2024-10-10T23:00Z,Indiana Pacers at Cleveland Cavaliers,Cleveland Cavaliers,Indiana Pacers,117,129,0.0
+401716978,2024-10-11T00:00Z,Utah Jazz at Dallas Mavericks,Dallas Mavericks,Utah Jazz,102,107,0.0
+401716979,2024-10-11T00:00Z,Charlotte Hornets at Memphis Grizzlies,Memphis Grizzlies,Charlotte Hornets,94,119,0.0
+401716980,2024-10-11T00:00Z,Los Angeles Lakers at Milwaukee Bucks,Milwaukee Bucks,Los Angeles Lakers,102,107,0.0
+401716981,2024-10-11T00:00Z,New Zealand Breakers at Oklahoma City Thunder,Oklahoma City Thunder,New Zealand Breakers,117,89,1.0
+401716982,2024-10-11T23:00Z,New Orleans Pelicans at Orlando Magic,Orlando Magic,New Orleans Pelicans,0,0,0.5
+401716983,2024-10-11T23:00Z,Toronto Raptors at Washington Wizards,Washington Wizards,Toronto Raptors,113,95,1.0
+401716984,2024-10-11T23:00Z,Philadelphia 76ers at Minnesota Timberwolves,Minnesota Timberwolves,Philadelphia 76ers,121,111,1.0
+401716985,2024-10-12T02:00Z,Sacramento Kings at Golden State Warriors,Golden State Warriors,Sacramento Kings,109,106,1.0
+401716986,2024-10-12T02:00Z,Detroit Pistons at Phoenix Suns,Phoenix Suns,Detroit Pistons,91,109,0.0
+401716987,2024-10-12T02:30Z,Portland Trail Blazers at LA Clippers,LA Clippers,Portland Trail Blazers,101,99,1.0
+401716988,2024-10-13T00:00Z,Philadelphia 76ers at Boston Celtics,Boston Celtics,Philadelphia 76ers,139,89,1.0
+401716989,2024-10-13T00:00Z,Memphis Grizzlies at Chicago Bulls,Chicago Bulls,Memphis Grizzlies,121,124,0.0
+401716990,2024-10-13T00:00Z,Utah Jazz at San Antonio Spurs,San Antonio Spurs,Utah Jazz,126,120,1.0
+401716991,2024-10-13T19:30Z,New Orleans Pelicans at Miami Heat,Miami Heat,New Orleans Pelicans,101,99,1.0
+401716992,2024-10-13T22:00Z,Minnesota Timberwolves at New York Knicks,New York Knicks,Minnesota Timberwolves,115,110,1.0
+401716993,2024-10-13T22:00Z,Portland Trail Blazers at Sacramento Kings,Sacramento Kings,Portland Trail Blazers,85,105,0.0
+401716994,2024-10-13T23:00Z,Toronto Raptors at Boston Celtics,Boston Celtics,Toronto Raptors,115,111,1.0
+401716995,2024-10-14T00:30Z,Phoenix Suns at Denver Nuggets,Denver Nuggets,Phoenix Suns,114,118,0.0
+401716996,2024-10-14T00:30Z,Detroit Pistons at Golden State Warriors,Golden State Warriors,Detroit Pistons,111,93,1.0
+401716997,2024-10-14T23:00Z,Memphis Grizzlies at Indiana Pacers,Indiana Pacers,Memphis Grizzlies,116,120,0.0
+401716998,2024-10-14T23:30Z,Philadelphia 76ers at Atlanta Hawks,Atlanta Hawks,Philadelphia 76ers,89,104,0.0
+401716999,2024-10-14T23:30Z,Washington Wizards at Brooklyn Nets,Brooklyn Nets,Washington Wizards,131,92,1.0
+401717000,2024-10-15T00:00Z,Chicago Bulls at Milwaukee Bucks,Milwaukee Bucks,Chicago Bulls,111,107,1.0
+401717001,2024-10-15T02:30Z,Dallas Mavericks at LA Clippers,LA Clippers,Dallas Mavericks,110,96,1.0
+401717002,2024-10-15T23:00Z,Boston Celtics at Toronto Raptors,Toronto Raptors,Boston Celtics,119,118,1.0
+401717003,2024-10-15T23:30Z,San Antonio Spurs at Miami Heat,Miami Heat,San Antonio Spurs,120,117,1.0
+401717004,2024-10-15T23:30Z,Charlotte Hornets at New York Knicks,New York Knicks,Charlotte Hornets,111,105,1.0
+401717005,2024-10-16T00:00Z,New Orleans Pelicans at Houston Rockets,Houston Rockets,New Orleans Pelicans,118,98,1.0
+401717006,2024-10-16T01:00Z,Oklahoma City Thunder at Denver Nuggets,Denver Nuggets,Oklahoma City Thunder,94,124,0.0
+401717007,2024-10-16T01:00Z,Sacramento Kings at Utah Jazz,Utah Jazz,Sacramento Kings,117,114,1.0
+401717008,2024-10-16T02:00Z,Golden State Warriors at Los Angeles Lakers,Los Angeles Lakers,Golden State Warriors,97,111,0.0
+401717009,2024-10-16T23:00Z,Cleveland Cavaliers at Detroit Pistons,Detroit Pistons,Cleveland Cavaliers,108,92,1.0
+401717010,2024-10-16T23:00Z,Brooklyn Nets at Philadelphia 76ers,Philadelphia 76ers,Brooklyn Nets,117,95,1.0
+401716977,2024-10-16T23:30Z,Atlanta Hawks at Miami Heat,Miami Heat,Atlanta Hawks,120,111,1.0
+401717011,2024-10-17T00:00Z,Minnesota Timberwolves at Chicago Bulls,Chicago Bulls,Minnesota Timberwolves,125,123,1.0
+401717012,2024-10-17T02:00Z,Ulm Ulm at Portland Trail Blazers,Portland Trail Blazers,Ulm,111,100,1.0
+401717013,2024-10-17T23:00Z,Charlotte Hornets at Indiana Pacers,Indiana Pacers,Charlotte Hornets,121,116,1.0
+401717014,2024-10-17T23:30Z,Milwaukee Bucks at Dallas Mavericks,Dallas Mavericks,Milwaukee Bucks,109,84,1.0
+401717015,2024-10-18T00:00Z,San Antonio Spurs at Houston Rockets,Houston Rockets,San Antonio Spurs,129,107,1.0
+401717016,2024-10-18T00:00Z,Atlanta Hawks at Oklahoma City Thunder,Oklahoma City Thunder,Atlanta Hawks,104,99,1.0
+401717024,2024-10-18T00:00Z,Denver Nuggets at Minnesota Timberwolves,Minnesota Timberwolves,Denver Nuggets,126,132,0.0
+401717017,2024-10-18T02:00Z,Los Angeles Lakers at Phoenix Suns,Phoenix Suns,Los Angeles Lakers,122,128,0.0
+401717018,2024-10-18T02:30Z,Sacramento Kings at LA Clippers,LA Clippers,Sacramento Kings,113,91,1.0
+401717019,2024-10-18T23:00Z,Philadelphia 76ers at Orlando Magic,Orlando Magic,Philadelphia 76ers,114,99,1.0
+401717020,2024-10-18T23:00Z,New York Knicks at Washington Wizards,Washington Wizards,New York Knicks,118,117,1.0
+401717021,2024-10-18T23:30Z,Toronto Raptors at Brooklyn Nets,Brooklyn Nets,Toronto Raptors,112,116,0.0
+401717022,2024-10-19T00:00Z,Cleveland Cavaliers at Chicago Bulls,Chicago Bulls,Cleveland Cavaliers,139,137,1.0
+401717023,2024-10-19T00:00Z,Miami Heat at Memphis Grizzlies,Memphis Grizzlies,Miami Heat,109,114,0.0
+401717025,2024-10-19T02:00Z,Utah Jazz at Portland Trail Blazers,Portland Trail Blazers,Utah Jazz,124,86,1.0
+401717026,2024-10-19T02:30Z,Los Angeles Lakers at Golden State Warriors,Golden State Warriors,Los Angeles Lakers,132,74,1.0
+401704627,2024-10-22T23:30Z,New York Knicks at Boston Celtics,Boston Celtics,New York Knicks,132,109,1.0
+401704628,2024-10-23T02:00Z,Minnesota Timberwolves at Los Angeles Lakers,Los Angeles Lakers,Minnesota Timberwolves,110,103,1.0
+401704629,2024-10-23T23:00Z,Indiana Pacers at Detroit Pistons,Detroit Pistons,Indiana Pacers,109,115,0.0
+401704630,2024-10-23T23:30Z,Brooklyn Nets at Atlanta Hawks,Atlanta Hawks,Brooklyn Nets,120,116,1.0
+401704631,2024-10-23T23:30Z,Orlando Magic at Miami Heat,Miami Heat,Orlando Magic,97,116,0.0
+401704632,2024-10-23T23:30Z,Milwaukee Bucks at Philadelphia 76ers,Philadelphia 76ers,Milwaukee Bucks,109,124,0.0
+401704633,2024-10-23T23:30Z,Cleveland Cavaliers at Toronto Raptors,Toronto Raptors,Cleveland Cavaliers,106,136,0.0
+401704634,2024-10-24T00:00Z,Charlotte Hornets at Houston Rockets,Houston Rockets,Charlotte Hornets,105,110,0.0
+401704635,2024-10-24T00:00Z,Chicago Bulls at New Orleans Pelicans,New Orleans Pelicans,Chicago Bulls,123,111,1.0
+401704636,2024-10-24T01:00Z,Memphis Grizzlies at Utah Jazz,Utah Jazz,Memphis Grizzlies,124,126,0.0
+401704637,2024-10-24T02:00Z,Phoenix Suns at LA Clippers,LA Clippers,Phoenix Suns,113,116,0.0
+401704638,2024-10-24T02:00Z,Golden State Warriors at Portland Trail Blazers,Portland Trail Blazers,Golden State Warriors,104,140,0.0
+401704639,2024-10-24T23:00Z,Boston Celtics at Washington Wizards,Washington Wizards,Boston Celtics,102,122,0.0
+401704640,2024-10-24T23:30Z,San Antonio Spurs at Dallas Mavericks,Dallas Mavericks,San Antonio Spurs,120,109,1.0
+401704641,2024-10-25T02:00Z,Oklahoma City Thunder at Denver Nuggets,Denver Nuggets,Oklahoma City Thunder,87,102,0.0
+401704642,2024-10-25T02:00Z,Minnesota Timberwolves at Sacramento Kings,Sacramento Kings,Minnesota Timberwolves,115,117,0.0
+401704643,2024-10-25T23:00Z,Brooklyn Nets at Orlando Magic,Orlando Magic,Brooklyn Nets,116,101,1.0
+401704644,2024-10-25T23:00Z,Philadelphia 76ers at Toronto Raptors,Toronto Raptors,Philadelphia 76ers,115,107,1.0
+401704645,2024-10-25T23:30Z,Charlotte Hornets at Atlanta Hawks,Atlanta Hawks,Charlotte Hornets,125,120,1.0
+401704646,2024-10-25T23:30Z,Detroit Pistons at Cleveland Cavaliers,Cleveland Cavaliers,Detroit Pistons,113,101,1.0
+401704647,2024-10-25T23:30Z,Indiana Pacers at New York Knicks,New York Knicks,Indiana Pacers,123,98,1.0
+401704648,2024-10-26T00:00Z,Memphis Grizzlies at Houston Rockets,Houston Rockets,Memphis Grizzlies,128,108,1.0
+401704649,2024-10-26T00:00Z,Chicago Bulls at Milwaukee Bucks,Milwaukee Bucks,Chicago Bulls,122,133,0.0
+401704650,2024-10-26T01:30Z,Golden State Warriors at Utah Jazz,Utah Jazz,Golden State Warriors,86,127,0.0
+401704651,2024-10-26T02:00Z,Phoenix Suns at Los Angeles Lakers,Los Angeles Lakers,Phoenix Suns,123,116,1.0
+401704652,2024-10-26T02:00Z,New Orleans Pelicans at Portland Trail Blazers,Portland Trail Blazers,New Orleans Pelicans,103,105,0.0
+401704653,2024-10-26T21:00Z,LA Clippers at Denver Nuggets,Denver Nuggets,LA Clippers,104,109,0.0
+401704654,2024-10-26T23:00Z,Miami Heat at Charlotte Hornets,Charlotte Hornets,Miami Heat,106,114,0.0
+401704655,2024-10-26T23:00Z,Boston Celtics at Detroit Pistons,Detroit Pistons,Boston Celtics,118,124,0.0
+401704656,2024-10-26T23:00Z,Cleveland Cavaliers at Washington Wizards,Washington Wizards,Cleveland Cavaliers,116,135,0.0
+401704657,2024-10-27T00:00Z,Oklahoma City Thunder at Chicago Bulls,Chicago Bulls,Oklahoma City Thunder,95,114,0.0
+401704658,2024-10-27T00:00Z,Orlando Magic at Memphis Grizzlies,Memphis Grizzlies,Orlando Magic,124,111,1.0
+401704659,2024-10-27T00:00Z,Toronto Raptors at Minnesota Timberwolves,Minnesota Timberwolves,Toronto Raptors,112,101,1.0
+401704660,2024-10-27T00:30Z,Houston Rockets at San Antonio Spurs,San Antonio Spurs,Houston Rockets,109,106,1.0
+401704661,2024-10-27T02:00Z,Dallas Mavericks at Phoenix Suns,Phoenix Suns,Dallas Mavericks,114,102,1.0
+401704662,2024-10-27T02:30Z,Sacramento Kings at Los Angeles Lakers,Los Angeles Lakers,Sacramento Kings,131,127,1.0
+401704663,2024-10-27T19:30Z,Philadelphia 76ers at Indiana Pacers,Indiana Pacers,Philadelphia 76ers,114,118,0.0
+401704664,2024-10-27T22:00Z,Milwaukee Bucks at Brooklyn Nets,Brooklyn Nets,Milwaukee Bucks,115,102,1.0
+401704665,2024-10-27T22:00Z,New Orleans Pelicans at Portland Trail Blazers,Portland Trail Blazers,New Orleans Pelicans,125,103,1.0
+401704666,2024-10-27T23:00Z,Atlanta Hawks at Oklahoma City Thunder,Oklahoma City Thunder,Atlanta Hawks,128,104,1.0
+401704667,2024-10-28T00:30Z,LA Clippers at Golden State Warriors,Golden State Warriors,LA Clippers,104,112,0.0
+401704668,2024-10-28T23:00Z,Indiana Pacers at Orlando Magic,Orlando Magic,Indiana Pacers,119,115,1.0
+401704669,2024-10-28T23:30Z,Washington Wizards at Atlanta Hawks,Atlanta Hawks,Washington Wizards,119,121,0.0
+401704670,2024-10-28T23:30Z,Milwaukee Bucks at Boston Celtics,Boston Celtics,Milwaukee Bucks,119,108,1.0
+401704671,2024-10-28T23:30Z,Detroit Pistons at Miami Heat,Miami Heat,Detroit Pistons,106,98,1.0
+401704672,2024-10-28T23:30Z,Cleveland Cavaliers at New York Knicks,New York Knicks,Cleveland Cavaliers,104,110,0.0
+401704673,2024-10-28T23:30Z,Denver Nuggets at Toronto Raptors,Toronto Raptors,Denver Nuggets,125,127,0.0
+401704674,2024-10-29T00:00Z,Chicago Bulls at Memphis Grizzlies,Memphis Grizzlies,Chicago Bulls,123,126,0.0
+401704675,2024-10-29T00:00Z,Houston Rockets at San Antonio Spurs,San Antonio Spurs,Houston Rockets,101,106,0.0
+401704676,2024-10-29T00:30Z,Utah Jazz at Dallas Mavericks,Dallas Mavericks,Utah Jazz,110,102,1.0
+401704677,2024-10-29T02:00Z,Los Angeles Lakers at Phoenix Suns,Phoenix Suns,Los Angeles Lakers,109,105,1.0
+401704678,2024-10-29T02:00Z,Portland Trail Blazers at Sacramento Kings,Sacramento Kings,Portland Trail Blazers,111,98,1.0
+401704679,2024-10-29T23:30Z,Denver Nuggets at Brooklyn Nets,Brooklyn Nets,Denver Nuggets,139,144,0.0
+401704680,2024-10-29T23:30Z,Dallas Mavericks at Minnesota Timberwolves,Minnesota Timberwolves,Dallas Mavericks,114,120,0.0
+401704681,2024-10-30T01:00Z,Sacramento Kings at Utah Jazz,Utah Jazz,Sacramento Kings,96,113,0.0
+401704682,2024-10-30T02:00Z,New Orleans Pelicans at Golden State Warriors,Golden State Warriors,New Orleans Pelicans,124,106,1.0
+401704683,2024-10-30T23:00Z,Toronto Raptors at Charlotte Hornets,Charlotte Hornets,Toronto Raptors,138,133,1.0
+401704684,2024-10-30T23:00Z,Los Angeles Lakers at Cleveland Cavaliers,Cleveland Cavaliers,Los Angeles Lakers,134,110,1.0
+401704685,2024-10-30T23:00Z,Boston Celtics at Indiana Pacers,Indiana Pacers,Boston Celtics,135,132,1.0
+401704686,2024-10-30T23:00Z,Detroit Pistons at Philadelphia 76ers,Philadelphia 76ers,Detroit Pistons,95,105,0.0
+401704687,2024-10-30T23:00Z,Atlanta Hawks at Washington Wizards,Washington Wizards,Atlanta Hawks,133,120,1.0
+401704688,2024-10-30T23:30Z,New York Knicks at Miami Heat,Miami Heat,New York Knicks,107,116,0.0
+401704689,2024-10-31T00:00Z,Orlando Magic at Chicago Bulls,Chicago Bulls,Orlando Magic,102,99,1.0
+401704690,2024-10-31T00:00Z,Brooklyn Nets at Memphis Grizzlies,Memphis Grizzlies,Brooklyn Nets,106,119,0.0
+401704691,2024-10-31T01:30Z,San Antonio Spurs at Oklahoma City Thunder,Oklahoma City Thunder,San Antonio Spurs,105,93,1.0
+401704692,2024-10-31T02:00Z,New Orleans Pelicans at Golden State Warriors,Golden State Warriors,New Orleans Pelicans,104,89,1.0
+401704693,2024-10-31T02:30Z,Portland Trail Blazers at LA Clippers,LA Clippers,Portland Trail Blazers,105,106,0.0
+401704694,2024-11-01T00:00Z,Milwaukee Bucks at Memphis Grizzlies,Memphis Grizzlies,Milwaukee Bucks,122,99,1.0
+401704695,2024-11-01T00:30Z,Houston Rockets at Dallas Mavericks,Dallas Mavericks,Houston Rockets,102,108,0.0
+401704696,2024-11-01T01:00Z,San Antonio Spurs at Utah Jazz,Utah Jazz,San Antonio Spurs,88,106,0.0
+401704697,2024-11-01T02:30Z,Phoenix Suns at LA Clippers,LA Clippers,Phoenix Suns,119,125,0.0

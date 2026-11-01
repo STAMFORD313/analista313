@@ -15,11 +15,13 @@ FIRST_SEASON = 2005
 EDGE, MIN_P = 0.05, 0.25          # señal si prob*cuota-1 >= 5% y prob >= 25%
 HORIZON_DAYS, MAX_AI = 2, 12      # partidos de los próximos 2 días; máx. llamadas IA por ejecución (cuota gratis)
 TG, CHAT = os.getenv("TELEGRAM_TOKEN"), os.getenv("TELEGRAM_CHAT_ID")
+VERBOSE = os.getenv("VERBOSE") == "1"  # 1 = también análisis, grafos y PDF; si no, solo apuestas y resultados
 GEMINI, MODEL = os.getenv("GEMINI_API_KEY"), os.getenv("GEMINI_MODEL", "gemini-flash-latest")
-COLS = ["Div", "Date", "Time", "HomeTeam", "AwayTeam", "FTHG", "FTAG", "AvgH", "AvgD", "AvgA", "Avg>2.5", "Avg<2.5",
+COLS = ["Div", "Date", "Time", "HomeTeam", "AwayTeam", "FTHG", "FTAG", "MaxH", "MaxD", "MaxA", "Max>2.5", "Max<2.5", "AvgH", "AvgD", "AvgA", "Avg>2.5", "Avg<2.5",
         "B365H", "B365D", "B365A", "B365>2.5", "B365<2.5"]
-MARKETS = {"H": ("AvgH", "B365H"), "D": ("AvgD", "B365D"), "A": ("AvgA", "B365A"),
-           "O25": ("Avg>2.5", "B365>2.5"), "U25": ("Avg<2.5", "B365<2.5")}
+# mejor cuota entre casas (Max) primero: es la que el bot "apuesta"
+MARKETS = {"H": ("MaxH", "AvgH", "B365H"), "D": ("MaxD", "AvgD", "B365D"), "A": ("MaxA", "AvgA", "B365A"),
+           "O25": ("Max>2.5", "Avg>2.5", "B365>2.5"), "U25": ("Max<2.5", "Avg<2.5", "B365<2.5")}
 NAMES = {"H": "Local", "D": "Empate", "A": "Visitante", "O25": "Más de 2.5", "U25": "Menos de 2.5"}
 STATUS_COLORS = {"duda": "#e0a100", "lesionado": "#d64545", "sancionado": "#7b4fd0"}
 FONTS = ["/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf", "C:/Windows/Fonts/arial.ttf"]
@@ -160,11 +162,9 @@ def find_team(name, teams):
 
 
 # ---------- IA ----------
-def ai_report(league, date, home, away, stats, absences):
-    if not GEMINI: return None
-    from google import genai
-    prompt = f"""Eres un analista de fútbol experto. Partido: {home} vs {away} ({league}), {date:%d/%m/%Y}.
-Datos de mi modelo estadístico e historial (desde 2005):
+def ai_report(league, date, home, away, stats, absences, sport="fútbol"):
+    return ai_json(f"""Eres un analista de {sport} experto. Partido: {home} vs {away} ({league}), {date:%d/%m/%Y}.
+Datos de mi modelo estadístico e historial:
 {stats}
 
 Bajas y dudas actuales (partidos jugados esta temporada, motivo, regreso previsto):
@@ -173,19 +173,27 @@ Bajas y dudas actuales (partidos jugados esta temporada, motivo, regreso previst
 Valora el peso real de cada baja (titular o suplente, posición) y cruza todo con el historial y la forma.
 Responde SOLO con un JSON válido, sin texto extra:
 {{"analysis": "análisis experto en español (8-12 frases)", "pick": "pronóstico principal", "confidence": 3}}
-confidence va de 1 a 5."""
+confidence va de 1 a 5.""")
+
+
+def ai_json(prompt):
+    if not (GEMINI and VERBOSE): return None
+    from google import genai
     client = genai.Client(api_key=GEMINI)  # variable aparte: si no, se cierra antes de la petición
     try:
         txt = client.models.generate_content(model=MODEL, contents=prompt).text or ""
         m = re.search(r"\{.*\}", txt, re.S)
         return json.loads(m.group(0)) if m else {"analysis": txt}
     except Exception as e:  # una respuesta mala de la IA no debe tumbar la ejecución
-        print("IA fallida", home, away, e)
+        print("IA fallida", e)
         return None
+    finally:
+        time.sleep(7)  # límite de peticiones por minuto del plan gratis
 
 
 # ---------- salida ----------
 def player_graph(home, away, squads, path):
+    if not VERBOSE: return
     import matplotlib
     matplotlib.use("Agg")
     import matplotlib.pyplot as plt, networkx as nx
@@ -196,7 +204,8 @@ def player_graph(home, away, squads, path):
         pos = nx.shell_layout(G, [[team], [p["name"] for p in players]]) if players else {team: (0, 0)}
         info = {p["name"]: p for p in players}
         colors = ["#1f3b73" if n == team else STATUS_COLORS[info[n]["status"]] for n in G]
-        labels = {n: n if n == team else f"{n}\n{info[n]['pos']} · {info[n]['games']} PJ\nvuelve {info[n]['ret']}" for n in G}
+        labels = {n: n if n == team else f"{n}\n{info[n]['pos']}" + (f" · {info[n]['games']} PJ" if info[n]["games"] else "")
+                  + f"\nvuelve {info[n]['ret']}" for n in G}
         sizes = [2600 if n == team else 500 + 120 * info[n]["games"] for n in G]  # tamaño = importancia (partidos)
         nx.draw_networkx(G, pos, ax=ax, labels=labels, node_color=colors, edge_color="#ccc", node_size=sizes, font_size=7)
         ax.set_title(f"{team} · {len(players)} bajas/dudas", fontsize=14); ax.axis("off")
@@ -205,6 +214,7 @@ def player_graph(home, away, squads, path):
 
 
 def pdf_report(path, title, sections, img=None):
+    if not VERBOSE: return
     from fpdf import FPDF
     pdf = FPDF(); pdf.add_page()
     font = next((f for f in FONTS if Path(f).exists()), None)
@@ -230,11 +240,13 @@ def tg(method, files=None, **data):
     time.sleep(1)
 
 
-def send_text(text):
+def send_text(text, force=False):
+    if not (VERBOSE or force): return
     for i in range(0, len(text), 4000): tg("sendMessage", text=text[i:i + 4000])
 
 
 def send_file(method, field, path, caption=""):
+    if not VERBOSE: return
     with open(path, "rb") as f: tg(method, files={field: f}, caption=caption[:1000])
 
 
@@ -273,7 +285,8 @@ def analyze_fixtures(df, state, today):
     models, inj, n_ai, tmp = {}, {}, 0, Path(tempfile.mkdtemp())
     for row in fx.sort_values(["Date", "Time"]).to_dict("records"):
         k = key(row)
-        if k in state["analyzed"]: continue
+        start = pd.Timestamp(f"{row['Date']:%Y-%m-%d} {row.get('Time') or '00:00'}", tz="Europe/London")
+        if k in state["analyzed"] or start <= pd.Timestamp.now(tz="UTC"): continue  # ya empezado
         if GEMINI and n_ai >= MAX_AI: break  # el resto en la siguiente ejecución
         div, home, away = row["Div"], row["HomeTeam"], row["AwayTeam"]
         if div not in models: models[div], inj[div] = strengths(df, div, today), injuries(div)
@@ -291,7 +304,6 @@ def analyze_fixtures(df, state, today):
                  f"Cara a cara: {h2h_summary(hh, home, away)}")
         ai = ai_report(LEAGUES[div], row["Date"], home, away, stats, absences or "Sin bajas conocidas")
         n_ai += ai is not None
-        if GEMINI: time.sleep(7)  # límite de peticiones por minuto del plan gratis
         title = f"{home} vs {away}"
         msg = [f"⚽ {LEAGUES[div]} · {row['Date']:%d/%m} {row.get('Time') or ''} (hora UK)", title, "", stats]
         if absences: msg += ["", "🚑 Bajas y dudas:", absences]
@@ -315,7 +327,7 @@ def analyze_fixtures(df, state, today):
             ("Últimos enfrentamientos", h2h_lines)], img)
         send_file("sendDocument", "document", pdf, f"Informe {title}")
         state["analyzed"].append(k)
-        state["signals"] += [{**v, "key": k, "match": title} for v in vb]
+        state["signals"] += [{**v, "key": k, "match": title, "start": start.isoformat()} for v in vb]
 
 
 def main():
@@ -325,6 +337,11 @@ def main():
     print(f"Historial: {len(df)} partidos ({df.Date.min():%Y}-{df.Date.max():%Y})")
     report_results(df, state, today)
     analyze_fixtures(df, state, today)
+    import esports, multisport
+    multisport.run(state, today)
+    esports.run(state, today)
+    import bankroll
+    bankroll.run(state, today)
     STATE.write_text(json.dumps(state, ensure_ascii=False, indent=1), encoding="utf-8")
 
 

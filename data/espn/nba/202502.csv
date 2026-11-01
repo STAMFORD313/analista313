@@ -1,0 +1,180 @@
+id,date,event,home,away,hs,as,res
+401705252,2025-02-01T22:00Z,Atlanta Hawks at Indiana Pacers,Indiana Pacers,Atlanta Hawks,132,127,1.0
+401705253,2025-02-01T22:00Z,Orlando Magic at Utah Jazz,Utah Jazz,Orlando Magic,113,99,1.0
+401705254,2025-02-02T00:00Z,Denver Nuggets at Charlotte Hornets,Charlotte Hornets,Denver Nuggets,104,107,0.0
+401705255,2025-02-02T01:00Z,Brooklyn Nets at Houston Rockets,Houston Rockets,Brooklyn Nets,98,110,0.0
+401705256,2025-02-02T01:00Z,Washington Wizards at Minnesota Timberwolves,Minnesota Timberwolves,Washington Wizards,103,105,0.0
+401705257,2025-02-02T01:00Z,Sacramento Kings at Oklahoma City Thunder,Oklahoma City Thunder,Sacramento Kings,144,110,1.0
+401705258,2025-02-02T01:30Z,Los Angeles Lakers at New York Knicks,New York Knicks,Los Angeles Lakers,112,128,0.0
+401705259,2025-02-02T01:30Z,Miami Heat at San Antonio Spurs,San Antonio Spurs,Miami Heat,103,105,0.0
+401705260,2025-02-02T03:00Z,Phoenix Suns at Portland Trail Blazers,Portland Trail Blazers,Phoenix Suns,127,108,1.0
+401705261,2025-02-02T20:00Z,Chicago Bulls at Detroit Pistons,Detroit Pistons,Chicago Bulls,127,119,1.0
+401705262,2025-02-02T20:30Z,Dallas Mavericks at Cleveland Cavaliers,Cleveland Cavaliers,Dallas Mavericks,144,101,1.0
+401705263,2025-02-02T20:30Z,LA Clippers at Toronto Raptors,Toronto Raptors,LA Clippers,115,108,1.0
+401705264,2025-02-02T23:00Z,Boston Celtics at Philadelphia 76ers,Philadelphia 76ers,Boston Celtics,110,118,0.0
+401705265,2025-02-03T01:30Z,Memphis Grizzlies at Milwaukee Bucks,Milwaukee Bucks,Memphis Grizzlies,119,132,0.0
+401705266,2025-02-04T00:00Z,Washington Wizards at Charlotte Hornets,Charlotte Hornets,Washington Wizards,114,124,0.0
+401705267,2025-02-04T00:00Z,Atlanta Hawks at Detroit Pistons,Detroit Pistons,Atlanta Hawks,130,132,0.0
+401705268,2025-02-04T00:30Z,Houston Rockets at New York Knicks,New York Knicks,Houston Rockets,124,118,1.0
+401705270,2025-02-04T01:00Z,Sacramento Kings at Minnesota Timberwolves,Minnesota Timberwolves,Sacramento Kings,114,116,0.0
+401705271,2025-02-04T01:00Z,Milwaukee Bucks at Oklahoma City Thunder,Oklahoma City Thunder,Milwaukee Bucks,125,96,1.0
+401705269,2025-02-04T01:50Z,San Antonio Spurs at Memphis Grizzlies,Memphis Grizzlies,San Antonio Spurs,128,109,1.0
+401705272,2025-02-04T02:00Z,New Orleans Pelicans at Denver Nuggets,Denver Nuggets,New Orleans Pelicans,125,113,1.0
+401705273,2025-02-04T02:00Z,Indiana Pacers at Utah Jazz,Utah Jazz,Indiana Pacers,111,112,0.0
+401705274,2025-02-04T03:00Z,Orlando Magic at Golden State Warriors,Golden State Warriors,Orlando Magic,104,99,1.0
+401705275,2025-02-04T03:00Z,Phoenix Suns at Portland Trail Blazers,Portland Trail Blazers,Phoenix Suns,121,119,1.0
+401705278,2025-02-05T00:00Z,Dallas Mavericks at Philadelphia 76ers,Philadelphia 76ers,Dallas Mavericks,118,116,1.0
+401705276,2025-02-05T00:30Z,Boston Celtics at Cleveland Cavaliers,Cleveland Cavaliers,Boston Celtics,105,112,0.0
+401705277,2025-02-05T00:30Z,Houston Rockets at Brooklyn Nets,Brooklyn Nets,Houston Rockets,99,97,1.0
+401705279,2025-02-05T00:30Z,New York Knicks at Toronto Raptors,Toronto Raptors,New York Knicks,115,121,0.0
+401705280,2025-02-05T01:00Z,Miami Heat at Chicago Bulls,Chicago Bulls,Miami Heat,133,124,1.0
+401705281,2025-02-05T03:00Z,Los Angeles Lakers at LA Clippers,LA Clippers,Los Angeles Lakers,97,122,0.0
+401705282,2025-02-05T03:00Z,Indiana Pacers at Portland Trail Blazers,Portland Trail Blazers,Indiana Pacers,112,89,1.0
+401705283,2025-02-06T00:00Z,Milwaukee Bucks at Charlotte Hornets,Charlotte Hornets,Milwaukee Bucks,102,112,0.0
+401705284,2025-02-06T00:00Z,Cleveland Cavaliers at Detroit Pistons,Detroit Pistons,Cleveland Cavaliers,115,118,0.0
+401705285,2025-02-06T00:00Z,San Antonio Spurs at Atlanta Hawks,Atlanta Hawks,San Antonio Spurs,125,126,0.0
+401705286,2025-02-06T00:30Z,Washington Wizards at Brooklyn Nets,Brooklyn Nets,Washington Wizards,102,119,0.0
+401705287,2025-02-06T00:30Z,Miami Heat at Philadelphia 76ers,Philadelphia 76ers,Miami Heat,101,108,0.0
+401705288,2025-02-06T00:30Z,Memphis Grizzlies at Toronto Raptors,Toronto Raptors,Memphis Grizzlies,107,138,0.0
+401705289,2025-02-06T01:00Z,Chicago Bulls at Minnesota Timberwolves,Minnesota Timberwolves,Chicago Bulls,127,108,1.0
+401705291,2025-02-06T02:00Z,Golden State Warriors at Utah Jazz,Utah Jazz,Golden State Warriors,131,128,1.0
+401705292,2025-02-06T02:00Z,New Orleans Pelicans at Denver Nuggets,Denver Nuggets,New Orleans Pelicans,144,119,1.0
+401705290,2025-02-06T02:30Z,Phoenix Suns at Oklahoma City Thunder,Oklahoma City Thunder,Phoenix Suns,140,109,1.0
+401705293,2025-02-06T03:00Z,Orlando Magic at Sacramento Kings,Sacramento Kings,Orlando Magic,111,130,0.0
+401705294,2025-02-07T00:30Z,Dallas Mavericks at Boston Celtics,Boston Celtics,Dallas Mavericks,120,127,0.0
+401705295,2025-02-07T01:00Z,Houston Rockets at Minnesota Timberwolves,Minnesota Timberwolves,Houston Rockets,127,114,1.0
+401705296,2025-02-07T02:00Z,Orlando Magic at Denver Nuggets,Denver Nuggets,Orlando Magic,112,90,1.0
+401705297,2025-02-07T03:00Z,Golden State Warriors at Los Angeles Lakers,Los Angeles Lakers,Golden State Warriors,120,112,1.0
+401705298,2025-02-07T03:00Z,Sacramento Kings at Portland Trail Blazers,Portland Trail Blazers,Sacramento Kings,108,102,1.0
+401705299,2025-02-07T03:30Z,Indiana Pacers at LA Clippers,LA Clippers,Indiana Pacers,112,119,0.0
+401705300,2025-02-08T00:00Z,San Antonio Spurs at Charlotte Hornets,Charlotte Hornets,San Antonio Spurs,117,116,1.0
+401705301,2025-02-08T00:00Z,Cleveland Cavaliers at Washington Wizards,Washington Wizards,Cleveland Cavaliers,124,134,0.0
+401705302,2025-02-08T00:30Z,Milwaukee Bucks at Atlanta Hawks,Atlanta Hawks,Milwaukee Bucks,115,110,1.0
+401705303,2025-02-08T00:30Z,Miami Heat at Brooklyn Nets,Brooklyn Nets,Miami Heat,102,86,1.0
+401705304,2025-02-08T00:30Z,Philadelphia 76ers at Detroit Pistons,Detroit Pistons,Philadelphia 76ers,125,112,1.0
+401705305,2025-02-08T01:00Z,Toronto Raptors at Oklahoma City Thunder,Oklahoma City Thunder,Toronto Raptors,121,109,1.0
+401705306,2025-02-08T03:00Z,Utah Jazz at Phoenix Suns,Phoenix Suns,Utah Jazz,135,127,1.0
+401705307,2025-02-08T20:00Z,Houston Rockets at Dallas Mavericks,Dallas Mavericks,Houston Rockets,116,105,1.0
+401705308,2025-02-08T21:00Z,Indiana Pacers at Los Angeles Lakers,Los Angeles Lakers,Indiana Pacers,124,117,1.0
+401705309,2025-02-09T00:00Z,San Antonio Spurs at Orlando Magic,Orlando Magic,San Antonio Spurs,112,111,1.0
+401705310,2025-02-09T00:00Z,Atlanta Hawks at Washington Wizards,Washington Wizards,Atlanta Hawks,111,125,0.0
+401705311,2025-02-09T01:00Z,Golden State Warriors at Chicago Bulls,Chicago Bulls,Golden State Warriors,111,132,0.0
+401705312,2025-02-09T01:00Z,Oklahoma City Thunder at Memphis Grizzlies,Memphis Grizzlies,Oklahoma City Thunder,112,125,0.0
+401705313,2025-02-09T01:00Z,Portland Trail Blazers at Minnesota Timberwolves,Minnesota Timberwolves,Portland Trail Blazers,114,98,1.0
+401705314,2025-02-09T01:30Z,Boston Celtics at New York Knicks,New York Knicks,Boston Celtics,104,131,0.0
+401705315,2025-02-09T02:00Z,Denver Nuggets at Phoenix Suns,Phoenix Suns,Denver Nuggets,105,122,0.0
+401705316,2025-02-09T03:00Z,New Orleans Pelicans at Sacramento Kings,Sacramento Kings,New Orleans Pelicans,123,118,1.0
+401705317,2025-02-09T03:30Z,Utah Jazz at LA Clippers,LA Clippers,Utah Jazz,130,110,1.0
+401705318,2025-02-09T18:00Z,Charlotte Hornets at Detroit Pistons,Detroit Pistons,Charlotte Hornets,112,102,1.0
+401705319,2025-02-09T19:00Z,Toronto Raptors at Houston Rockets,Houston Rockets,Toronto Raptors,94,87,1.0
+401705320,2025-02-09T19:00Z,Philadelphia 76ers at Milwaukee Bucks,Milwaukee Bucks,Philadelphia 76ers,135,127,1.0
+401705321,2025-02-11T00:00Z,Minnesota Timberwolves at Cleveland Cavaliers,Cleveland Cavaliers,Minnesota Timberwolves,128,107,1.0
+401705322,2025-02-11T00:00Z,Atlanta Hawks at Orlando Magic,Orlando Magic,Atlanta Hawks,106,112,0.0
+401705323,2025-02-11T00:00Z,San Antonio Spurs at Washington Wizards,Washington Wizards,San Antonio Spurs,121,131,0.0
+401705324,2025-02-11T00:30Z,Charlotte Hornets at Brooklyn Nets,Brooklyn Nets,Charlotte Hornets,97,89,1.0
+401705325,2025-02-11T00:30Z,Boston Celtics at Miami Heat,Miami Heat,Boston Celtics,85,103,0.0
+401705326,2025-02-11T01:00Z,Golden State Warriors at Milwaukee Bucks,Milwaukee Bucks,Golden State Warriors,111,125,0.0
+401705327,2025-02-11T01:00Z,New Orleans Pelicans at Oklahoma City Thunder,Oklahoma City Thunder,New Orleans Pelicans,137,101,1.0
+401705328,2025-02-11T01:30Z,Sacramento Kings at Dallas Mavericks,Dallas Mavericks,Sacramento Kings,128,129,0.0
+401705329,2025-02-11T02:00Z,Portland Trail Blazers at Denver Nuggets,Denver Nuggets,Portland Trail Blazers,146,117,1.0
+401705334,2025-02-11T03:30Z,Utah Jazz at Los Angeles Lakers,Los Angeles Lakers,Utah Jazz,132,113,1.0
+401705330,2025-02-12T00:00Z,Toronto Raptors at Philadelphia 76ers,Philadelphia 76ers,Toronto Raptors,103,106,0.0
+401705331,2025-02-12T00:30Z,New York Knicks at Indiana Pacers,Indiana Pacers,New York Knicks,115,128,0.0
+401705332,2025-02-12T01:00Z,Detroit Pistons at Chicago Bulls,Chicago Bulls,Detroit Pistons,92,132,0.0
+401705333,2025-02-12T03:00Z,Memphis Grizzlies at Phoenix Suns,Phoenix Suns,Memphis Grizzlies,112,119,0.0
+401705335,2025-02-13T00:00Z,San Antonio Spurs at Boston Celtics,Boston Celtics,San Antonio Spurs,116,103,1.0
+401705336,2025-02-13T00:00Z,Charlotte Hornets at Orlando Magic,Orlando Magic,Charlotte Hornets,102,86,1.0
+401705337,2025-02-13T00:00Z,Indiana Pacers at Washington Wizards,Washington Wizards,Indiana Pacers,130,134,0.0
+401705338,2025-02-13T00:30Z,Philadelphia 76ers at Brooklyn Nets,Brooklyn Nets,Philadelphia 76ers,100,96,1.0
+401705339,2025-02-13T00:30Z,Atlanta Hawks at New York Knicks,New York Knicks,Atlanta Hawks,149,148,1.0
+401705340,2025-02-13T00:30Z,Cleveland Cavaliers at Toronto Raptors,Toronto Raptors,Cleveland Cavaliers,108,131,0.0
+401705341,2025-02-13T01:00Z,Detroit Pistons at Chicago Bulls,Chicago Bulls,Detroit Pistons,110,128,0.0
+401705342,2025-02-13T01:00Z,Milwaukee Bucks at Minnesota Timberwolves,Minnesota Timberwolves,Milwaukee Bucks,101,103,0.0
+401705343,2025-02-13T01:00Z,Sacramento Kings at New Orleans Pelicans,New Orleans Pelicans,Sacramento Kings,111,119,0.0
+401705344,2025-02-13T01:00Z,Miami Heat at Oklahoma City Thunder,Oklahoma City Thunder,Miami Heat,115,101,1.0
+401705345,2025-02-13T01:30Z,Phoenix Suns at Houston Rockets,Houston Rockets,Phoenix Suns,119,111,1.0
+401705346,2025-02-13T02:00Z,Portland Trail Blazers at Denver Nuggets,Denver Nuggets,Portland Trail Blazers,132,121,1.0
+401705347,2025-02-13T02:00Z,Los Angeles Lakers at Utah Jazz,Utah Jazz,Los Angeles Lakers,131,119,1.0
+401705348,2025-02-13T02:30Z,Golden State Warriors at Dallas Mavericks,Dallas Mavericks,Golden State Warriors,111,107,1.0
+401705349,2025-02-13T03:30Z,Memphis Grizzlies at LA Clippers,LA Clippers,Memphis Grizzlies,128,114,1.0
+401705350,2025-02-14T01:00Z,Golden State Warriors at Houston Rockets,Houston Rockets,Golden State Warriors,98,105,0.0
+401705351,2025-02-14T01:00Z,Sacramento Kings at New Orleans Pelicans,New Orleans Pelicans,Sacramento Kings,140,133,1.0
+401705352,2025-02-14T01:30Z,Miami Heat at Dallas Mavericks,Dallas Mavericks,Miami Heat,118,113,1.0
+401705353,2025-02-14T01:30Z,Oklahoma City Thunder at Minnesota Timberwolves,Minnesota Timberwolves,Oklahoma City Thunder,116,101,1.0
+401705570,2025-02-14T02:00Z,LA Clippers at Utah Jazz,Utah Jazz,LA Clippers,116,120,0.0
+401748704,2025-02-20T03:00Z,Charlotte Hornets at Los Angeles Lakers,Los Angeles Lakers,Charlotte Hornets,97,100,0.0
+401705354,2025-02-21T00:00Z,Memphis Grizzlies at Indiana Pacers,Indiana Pacers,Memphis Grizzlies,127,113,1.0
+401705355,2025-02-21T00:00Z,Boston Celtics at Philadelphia 76ers,Philadelphia 76ers,Boston Celtics,104,124,0.0
+401705356,2025-02-21T00:30Z,Orlando Magic at Atlanta Hawks,Atlanta Hawks,Orlando Magic,108,114,0.0
+401705357,2025-02-21T00:30Z,Cleveland Cavaliers at Brooklyn Nets,Brooklyn Nets,Cleveland Cavaliers,97,110,0.0
+401705358,2025-02-21T00:30Z,Chicago Bulls at New York Knicks,New York Knicks,Chicago Bulls,113,111,1.0
+401705359,2025-02-21T01:00Z,LA Clippers at Milwaukee Bucks,Milwaukee Bucks,LA Clippers,116,110,1.0
+401705360,2025-02-21T02:00Z,Charlotte Hornets at Denver Nuggets,Denver Nuggets,Charlotte Hornets,129,115,1.0
+401705361,2025-02-21T02:30Z,Phoenix Suns at San Antonio Spurs,San Antonio Spurs,Phoenix Suns,120,109,1.0
+401705362,2025-02-21T03:00Z,Los Angeles Lakers at Portland Trail Blazers,Portland Trail Blazers,Los Angeles Lakers,102,110,0.0
+401705363,2025-02-22T00:00Z,New York Knicks at Cleveland Cavaliers,Cleveland Cavaliers,New York Knicks,142,105,1.0
+401705364,2025-02-22T00:00Z,Memphis Grizzlies at Orlando Magic,Orlando Magic,Memphis Grizzlies,104,105,0.0
+401705365,2025-02-22T00:00Z,Milwaukee Bucks at Washington Wizards,Washington Wizards,Milwaukee Bucks,101,104,0.0
+401705366,2025-02-22T00:30Z,Miami Heat at Toronto Raptors,Toronto Raptors,Miami Heat,111,120,0.0
+401705368,2025-02-22T01:30Z,Detroit Pistons at San Antonio Spurs,San Antonio Spurs,Detroit Pistons,110,125,0.0
+401705369,2025-02-22T01:30Z,New Orleans Pelicans at Dallas Mavericks,Dallas Mavericks,New Orleans Pelicans,111,103,1.0
+401705367,2025-02-22T02:30Z,Minnesota Timberwolves at Houston Rockets,Houston Rockets,Minnesota Timberwolves,121,115,1.0
+401705370,2025-02-22T02:30Z,Oklahoma City Thunder at Utah Jazz,Utah Jazz,Oklahoma City Thunder,107,130,0.0
+401705371,2025-02-22T03:00Z,Golden State Warriors at Sacramento Kings,Sacramento Kings,Golden State Warriors,108,132,0.0
+401705372,2025-02-22T22:00Z,Phoenix Suns at Chicago Bulls,Chicago Bulls,Phoenix Suns,117,121,0.0
+401705373,2025-02-23T00:30Z,Brooklyn Nets at Philadelphia 76ers,Philadelphia 76ers,Brooklyn Nets,103,105,0.0
+401705374,2025-02-23T01:30Z,Los Angeles Lakers at Denver Nuggets,Denver Nuggets,Los Angeles Lakers,100,123,0.0
+401705375,2025-02-23T02:30Z,Houston Rockets at Utah Jazz,Utah Jazz,Houston Rockets,124,115,1.0
+401705376,2025-02-23T03:00Z,Charlotte Hornets at Portland Trail Blazers,Portland Trail Blazers,Charlotte Hornets,141,88,1.0
+401705377,2025-02-23T18:00Z,New York Knicks at Boston Celtics,Boston Celtics,New York Knicks,118,105,1.0
+401705378,2025-02-23T20:30Z,Dallas Mavericks at Golden State Warriors,Golden State Warriors,Dallas Mavericks,126,102,1.0
+401705379,2025-02-23T22:00Z,LA Clippers at Indiana Pacers,Indiana Pacers,LA Clippers,129,111,1.0
+401705380,2025-02-23T23:00Z,Detroit Pistons at Atlanta Hawks,Atlanta Hawks,Detroit Pistons,143,148,0.0
+401705381,2025-02-23T23:00Z,Washington Wizards at Orlando Magic,Orlando Magic,Washington Wizards,110,90,1.0
+401705382,2025-02-23T23:00Z,Phoenix Suns at Toronto Raptors,Toronto Raptors,Phoenix Suns,127,109,1.0
+401705383,2025-02-23T23:00Z,Miami Heat at Milwaukee Bucks,Milwaukee Bucks,Miami Heat,120,113,1.0
+401705384,2025-02-24T00:00Z,San Antonio Spurs at New Orleans Pelicans,New Orleans Pelicans,San Antonio Spurs,114,96,1.0
+401705385,2025-02-24T00:00Z,Memphis Grizzlies at Cleveland Cavaliers,Cleveland Cavaliers,Memphis Grizzlies,129,123,1.0
+401705386,2025-02-24T02:50Z,Oklahoma City Thunder at Minnesota Timberwolves,Minnesota Timberwolves,Oklahoma City Thunder,123,130,0.0
+401705387,2025-02-25T00:00Z,LA Clippers at Detroit Pistons,Detroit Pistons,LA Clippers,106,97,1.0
+401705388,2025-02-25T00:00Z,Denver Nuggets at Indiana Pacers,Indiana Pacers,Denver Nuggets,116,125,0.0
+401705389,2025-02-25T00:00Z,Chicago Bulls at Philadelphia 76ers,Philadelphia 76ers,Chicago Bulls,110,142,0.0
+401705390,2025-02-25T00:00Z,Brooklyn Nets at Washington Wizards,Washington Wizards,Brooklyn Nets,107,99,1.0
+401705391,2025-02-25T00:30Z,Miami Heat at Atlanta Hawks,Atlanta Hawks,Miami Heat,98,86,1.0
+401705392,2025-02-25T01:00Z,Minnesota Timberwolves at Oklahoma City Thunder,Oklahoma City Thunder,Minnesota Timberwolves,128,131,0.0
+401705393,2025-02-25T02:00Z,Portland Trail Blazers at Utah Jazz,Utah Jazz,Portland Trail Blazers,112,114,0.0
+401705394,2025-02-25T03:00Z,Charlotte Hornets at Sacramento Kings,Sacramento Kings,Charlotte Hornets,130,88,1.0
+401705395,2025-02-26T00:00Z,Boston Celtics at Toronto Raptors,Toronto Raptors,Boston Celtics,101,111,0.0
+401705396,2025-02-26T00:30Z,Cleveland Cavaliers at Orlando Magic,Orlando Magic,Cleveland Cavaliers,82,122,0.0
+401705397,2025-02-26T01:00Z,Milwaukee Bucks at Houston Rockets,Houston Rockets,Milwaukee Bucks,100,97,1.0
+401705398,2025-02-26T01:00Z,Phoenix Suns at Memphis Grizzlies,Memphis Grizzlies,Phoenix Suns,151,148,1.0
+401705399,2025-02-26T01:00Z,San Antonio Spurs at New Orleans Pelicans,New Orleans Pelicans,San Antonio Spurs,109,103,1.0
+401705400,2025-02-26T03:00Z,Charlotte Hornets at Golden State Warriors,Golden State Warriors,Charlotte Hornets,128,92,1.0
+401705401,2025-02-26T03:00Z,Dallas Mavericks at Los Angeles Lakers,Los Angeles Lakers,Dallas Mavericks,107,99,1.0
+401705402,2025-02-27T00:00Z,Boston Celtics at Detroit Pistons,Detroit Pistons,Boston Celtics,117,97,1.0
+401705403,2025-02-27T00:00Z,Toronto Raptors at Indiana Pacers,Indiana Pacers,Toronto Raptors,111,91,1.0
+401705404,2025-02-27T00:00Z,Philadelphia 76ers at New York Knicks,New York Knicks,Philadelphia 76ers,110,105,1.0
+401705405,2025-02-27T00:00Z,Portland Trail Blazers at Washington Wizards,Washington Wizards,Portland Trail Blazers,121,129,0.0
+401705406,2025-02-27T00:30Z,Oklahoma City Thunder at Brooklyn Nets,Brooklyn Nets,Oklahoma City Thunder,121,129,0.0
+401705407,2025-02-27T00:30Z,Atlanta Hawks at Miami Heat,Miami Heat,Atlanta Hawks,131,109,1.0
+401705408,2025-02-27T01:00Z,LA Clippers at Chicago Bulls,Chicago Bulls,LA Clippers,117,122,0.0
+401705409,2025-02-27T02:00Z,Sacramento Kings at Utah Jazz,Utah Jazz,Sacramento Kings,101,118,0.0
+401705410,2025-02-27T02:50Z,San Antonio Spurs at Houston Rockets,Houston Rockets,San Antonio Spurs,118,106,1.0
+401705411,2025-02-28T00:00Z,Golden State Warriors at Orlando Magic,Orlando Magic,Golden State Warriors,115,121,0.0
+401705412,2025-02-28T01:00Z,Denver Nuggets at Milwaukee Bucks,Milwaukee Bucks,Denver Nuggets,121,112,1.0
+401705413,2025-02-28T01:30Z,Charlotte Hornets at Dallas Mavericks,Dallas Mavericks,Charlotte Hornets,103,96,1.0
+401705414,2025-02-28T02:00Z,New Orleans Pelicans at Phoenix Suns,Phoenix Suns,New Orleans Pelicans,116,124,0.0
+401705415,2025-02-28T03:30Z,Minnesota Timberwolves at Los Angeles Lakers,Los Angeles Lakers,Minnesota Timberwolves,111,102,1.0
+401705416,2025-03-01T00:00Z,Denver Nuggets at Detroit Pistons,Detroit Pistons,Denver Nuggets,119,134,0.0
+401705417,2025-03-01T00:30Z,Oklahoma City Thunder at Atlanta Hawks,Atlanta Hawks,Oklahoma City Thunder,119,135,0.0
+401705418,2025-03-01T00:30Z,Cleveland Cavaliers at Boston Celtics,Boston Celtics,Cleveland Cavaliers,116,123,0.0
+401705419,2025-03-01T00:30Z,Portland Trail Blazers at Brooklyn Nets,Brooklyn Nets,Portland Trail Blazers,102,121,0.0
+401705420,2025-03-01T01:00Z,Indiana Pacers at Miami Heat,Miami Heat,Indiana Pacers,125,120,1.0
+401705421,2025-03-01T01:00Z,Toronto Raptors at Chicago Bulls,Chicago Bulls,Toronto Raptors,125,115,1.0
+401705422,2025-03-01T01:00Z,New York Knicks at Memphis Grizzlies,Memphis Grizzlies,New York Knicks,113,114,0.0
+401705423,2025-03-01T02:00Z,New Orleans Pelicans at Phoenix Suns,Phoenix Suns,New Orleans Pelicans,125,108,1.0
+401705424,2025-03-01T02:30Z,Minnesota Timberwolves at Utah Jazz,Utah Jazz,Minnesota Timberwolves,117,116,1.0
+401705425,2025-03-01T03:00Z,LA Clippers at Los Angeles Lakers,Los Angeles Lakers,LA Clippers,106,102,1.0
+401752955,2025-02-17T01:20Z,Team Kenny Team Kenny at Team Chuck Team Chuck,Team Chuck,Team Kenny,41,32,1.0
+401752956,2025-02-17T02:10Z,Team Candace Team Candace at Team Shaq Team Shaq,Team Shaq,Team Candace,42,35,1.0
+401752957,2025-02-17T03:00Z,Team Shaq Team Shaq at Team Chuck Team Chuck,Team Chuck,Team Shaq,25,41,0.0

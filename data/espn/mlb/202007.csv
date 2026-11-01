@@ -1,0 +1,150 @@
+id,date,event,home,away,hs,as,res
+401226574,2020-07-18T22:05Z,Philadelphia Phillies at Washington Nationals,Washington Nationals,Philadelphia Phillies,2,7,0.0
+401226627,2020-07-18T23:00Z,New York Yankees at New York Mets,New York Mets,New York Yankees,3,9,0.0
+401230724,2020-07-18T23:05Z,Cleveland Indians at Pittsburgh Pirates,Pittsburgh Pirates,Cleveland Indians,3,5,0.0
+401226625,2020-07-19T22:05Z,Baltimore Orioles at Philadelphia Phillies,Philadelphia Phillies,Baltimore Orioles,1,4,0.0
+401226628,2020-07-19T23:05Z,New York Mets at New York Yankees,New York Yankees,New York Mets,6,0,1.0
+401226575,2020-07-20T00:00Z,Chicago White Sox at Chicago Cubs,Chicago Cubs,Chicago White Sox,3,7,0.0
+401226576,2020-07-20T01:10Z,Arizona Diamondbacks at Los Angeles Dodgers,Los Angeles Dodgers,Arizona Diamondbacks,9,2,1.0
+401226578,2020-07-20T22:05Z,Washington Nationals at Baltimore Orioles,Baltimore Orioles,Washington Nationals,2,4,0.0
+401226626,2020-07-20T22:05Z,Philadelphia Phillies at New York Yankees,New York Yankees,Philadelphia Phillies,2,2,0.5
+401230725,2020-07-20T23:10Z,Pittsburgh Pirates at Cleveland Indians,Cleveland Indians,Pittsburgh Pirates,11,7,1.0
+401230726,2020-07-21T00:05Z,Houston Astros at Kansas City Royals,Kansas City Royals,Houston Astros,3,6,0.0
+401226579,2020-07-21T00:10Z,Chicago Cubs at Chicago White Sox,Chicago White Sox,Chicago Cubs,5,3,1.0
+401226577,2020-07-21T01:10Z,Los Angeles Angels at San Diego Padres,San Diego Padres,Los Angeles Angels,0,1,0.0
+401226580,2020-07-21T01:40Z,Arizona Diamondbacks at Los Angeles Dodgers,Los Angeles Dodgers,Arizona Diamondbacks,12,1,1.0
+401229483,2020-07-21T01:40Z,San Francisco Giants at Oakland Athletics,Oakland Athletics,San Francisco Giants,2,6,0.0
+401230727,2020-07-21T18:05Z,Houston Astros at Kansas City Royals,Kansas City Royals,Houston Astros,6,15,0.0
+401226581,2020-07-21T22:05Z,Baltimore Orioles at Washington Nationals,Washington Nationals,Baltimore Orioles,6,4,1.0
+401226582,2020-07-21T22:40Z,Detroit Tigers at Cincinnati Reds,Cincinnati Reds,Detroit Tigers,9,7,1.0
+401230728,2020-07-21T23:00Z,Miami Marlins at Atlanta Braves,Atlanta Braves,Miami Marlins,10,9,1.0
+401229484,2020-07-21T23:30Z,Toronto Blue Jays at Boston Red Sox,Boston Red Sox,Toronto Blue Jays,6,8,0.0
+401226583,2020-07-22T00:05Z,Colorado Rockies at Texas Rangers,Texas Rangers,Colorado Rockies,1,5,0.0
+401226584,2020-07-22T01:40Z,Los Angeles Angels at Los Angeles Dodgers,Los Angeles Dodgers,Los Angeles Angels,6,4,1.0
+401229485,2020-07-22T01:45Z,Oakland Athletics at San Francisco Giants,San Francisco Giants,Oakland Athletics,4,2,1.0
+401230729,2020-07-22T20:00Z,Miami Marlins at Atlanta Braves,Atlanta Braves,Miami Marlins,2,6,0.0
+401230730,2020-07-22T20:05Z,Kansas City Royals at St. Louis Cardinals,St. Louis Cardinals,Kansas City Royals,6,3,1.0
+401230731,2020-07-22T21:05Z,Cleveland Indians at Pittsburgh Pirates,Pittsburgh Pirates,Cleveland Indians,3,5,0.0
+401226585,2020-07-22T22:10Z,Detroit Tigers at Cincinnati Reds,Cincinnati Reds,Detroit Tigers,2,1,1.0
+401226586,2020-07-22T23:05Z,Minnesota Twins at Chicago Cubs,Chicago Cubs,Minnesota Twins,4,3,1.0
+401229486,2020-07-22T23:30Z,Toronto Blue Jays at Boston Red Sox,Boston Red Sox,Toronto Blue Jays,0,2,0.5
+401226587,2020-07-23T00:05Z,Colorado Rockies at Texas Rangers,Texas Rangers,Colorado Rockies,3,7,0.0
+401226588,2020-07-23T00:10Z,Milwaukee Brewers at Chicago White Sox,Chicago White Sox,Milwaukee Brewers,3,5,0.0
+401226589,2020-07-23T01:40Z,San Diego Padres at Los Angeles Angels,Los Angeles Angels,San Diego Padres,4,5,0.0
+401225674,2020-07-23T23:00Z,New York Yankees at Washington Nationals,Washington Nationals,New York Yankees,1,4,0.0
+401225673,2020-07-24T02:00Z,San Francisco Giants at Los Angeles Dodgers,Los Angeles Dodgers,San Francisco Giants,8,1,1.0
+401225682,2020-07-24T20:00Z,Atlanta Braves at New York Mets,New York Mets,Atlanta Braves,1,0,1.0
+401225678,2020-07-24T22:10Z,Detroit Tigers at Cincinnati Reds,Cincinnati Reds,Detroit Tigers,7,1,1.0
+401225687,2020-07-24T22:40Z,Toronto Blue Jays at Tampa Bay Rays,Tampa Bay Rays,Toronto Blue Jays,4,6,0.0
+401225676,2020-07-24T23:00Z,Milwaukee Brewers at Chicago Cubs,Chicago Cubs,Milwaukee Brewers,3,0,1.0
+401225684,2020-07-24T23:05Z,Miami Marlins at Philadelphia Phillies,Philadelphia Phillies,Miami Marlins,2,5,0.0
+401225679,2020-07-24T23:10Z,Kansas City Royals at Cleveland Indians,Cleveland Indians,Kansas City Royals,2,0,1.0
+401225675,2020-07-24T23:30Z,Baltimore Orioles at Boston Red Sox,Boston Red Sox,Baltimore Orioles,13,2,1.0
+401225688,2020-07-25T00:05Z,Colorado Rockies at Texas Rangers,Texas Rangers,Colorado Rockies,1,0,1.0
+401225677,2020-07-25T00:10Z,Minnesota Twins at Chicago White Sox,Chicago White Sox,Minnesota Twins,5,10,0.0
+401225686,2020-07-25T00:15Z,Pittsburgh Pirates at St. Louis Cardinals,St. Louis Cardinals,Pittsburgh Pirates,5,4,1.0
+401225680,2020-07-25T01:10Z,Seattle Mariners at Houston Astros,Houston Astros,Seattle Mariners,8,2,1.0
+401225685,2020-07-25T01:10Z,Arizona Diamondbacks at San Diego Padres,San Diego Padres,Arizona Diamondbacks,7,2,1.0
+401225681,2020-07-25T01:40Z,San Francisco Giants at Los Angeles Dodgers,Los Angeles Dodgers,San Francisco Giants,9,1,1.0
+401225683,2020-07-25T02:00Z,Los Angeles Angels at Oakland Athletics,Oakland Athletics,Los Angeles Angels,7,3,1.0
+401225690,2020-07-25T17:05Z,Milwaukee Brewers at Chicago Cubs,Chicago Cubs,Milwaukee Brewers,3,8,0.0
+401225689,2020-07-25T17:35Z,Baltimore Orioles at Boston Red Sox,Boston Red Sox,Baltimore Orioles,2,7,0.0
+401225691,2020-07-25T18:10Z,Minnesota Twins at Chicago White Sox,Chicago White Sox,Minnesota Twins,10,3,1.0
+401225700,2020-07-25T18:15Z,Pittsburgh Pirates at St. Louis Cardinals,St. Louis Cardinals,Pittsburgh Pirates,9,1,1.0
+401225701,2020-07-25T19:10Z,Toronto Blue Jays at Tampa Bay Rays,Tampa Bay Rays,Toronto Blue Jays,4,1,1.0
+401225698,2020-07-25T20:05Z,Miami Marlins at Philadelphia Phillies,Philadelphia Phillies,Miami Marlins,7,1,1.0
+401225702,2020-07-25T20:05Z,Colorado Rockies at Texas Rangers,Texas Rangers,Colorado Rockies,2,3,0.0
+401225694,2020-07-25T20:10Z,Seattle Mariners at Houston Astros,Houston Astros,Seattle Mariners,7,2,1.0
+401225695,2020-07-25T20:10Z,San Francisco Giants at Los Angeles Dodgers,Los Angeles Dodgers,San Francisco Giants,4,5,0.0
+401225696,2020-07-25T20:10Z,Atlanta Braves at New York Mets,New York Mets,Atlanta Braves,3,5,0.0
+401225697,2020-07-25T20:10Z,Los Angeles Angels at Oakland Athletics,Oakland Athletics,Los Angeles Angels,1,4,0.0
+401225692,2020-07-25T21:10Z,Detroit Tigers at Cincinnati Reds,Cincinnati Reds,Detroit Tigers,4,6,0.0
+401225693,2020-07-25T21:10Z,Kansas City Royals at Cleveland Indians,Cleveland Indians,Kansas City Royals,2,3,0.0
+401225703,2020-07-25T23:15Z,New York Yankees at Washington Nationals,Washington Nationals,New York Yankees,9,2,1.0
+401225699,2020-07-26T01:10Z,Arizona Diamondbacks at San Diego Padres,San Diego Padres,Arizona Diamondbacks,5,1,1.0
+401225713,2020-07-26T17:05Z,Miami Marlins at Philadelphia Phillies,Philadelphia Phillies,Miami Marlins,6,11,0.0
+401225718,2020-07-26T17:05Z,New York Yankees at Washington Nationals,Washington Nationals,New York Yankees,2,3,0.0
+401225707,2020-07-26T17:10Z,Detroit Tigers at Cincinnati Reds,Cincinnati Reds,Detroit Tigers,2,3,0.0
+401225708,2020-07-26T17:10Z,Kansas City Royals at Cleveland Indians,Cleveland Indians,Kansas City Royals,9,2,1.0
+401225716,2020-07-26T17:10Z,Toronto Blue Jays at Tampa Bay Rays,Tampa Bay Rays,Toronto Blue Jays,6,5,1.0
+401225704,2020-07-26T17:35Z,Baltimore Orioles at Boston Red Sox,Boston Red Sox,Baltimore Orioles,4,7,0.0
+401225706,2020-07-26T18:10Z,Minnesota Twins at Chicago White Sox,Chicago White Sox,Minnesota Twins,2,14,0.0
+401225709,2020-07-26T18:10Z,Seattle Mariners at Houston Astros,Houston Astros,Seattle Mariners,6,7,0.0
+401225715,2020-07-26T18:15Z,Pittsburgh Pirates at St. Louis Cardinals,St. Louis Cardinals,Pittsburgh Pirates,1,5,0.0
+401225705,2020-07-26T18:20Z,Milwaukee Brewers at Chicago Cubs,Chicago Cubs,Milwaukee Brewers,9,1,1.0
+401225717,2020-07-26T18:35Z,Colorado Rockies at Texas Rangers,Texas Rangers,Colorado Rockies,2,5,0.0
+401225712,2020-07-26T20:10Z,Los Angeles Angels at Oakland Athletics,Oakland Athletics,Los Angeles Angels,6,4,1.0
+401225714,2020-07-26T20:10Z,Arizona Diamondbacks at San Diego Padres,San Diego Padres,Arizona Diamondbacks,3,4,0.0
+401225711,2020-07-26T23:00Z,Atlanta Braves at New York Mets,New York Mets,Atlanta Braves,1,14,0.0
+401225710,2020-07-27T02:00Z,San Francisco Giants at Los Angeles Dodgers,Los Angeles Dodgers,San Francisco Giants,1,3,0.0
+401225725,2020-07-27T19:40Z,Los Angeles Angels at Oakland Athletics,Oakland Athletics,Los Angeles Angels,3,0,1.0
+401225728,2020-07-27T20:00Z,Arizona Diamondbacks at San Diego Padres,San Diego Padres,Arizona Diamondbacks,6,2,1.0
+401225730,2020-07-27T22:05Z,Toronto Blue Jays at Washington Nationals,Washington Nationals,Toronto Blue Jays,1,4,0.0
+401225720,2020-07-27T22:40Z,Chicago Cubs at Cincinnati Reds,Cincinnati Reds,Chicago Cubs,7,8,0.0
+401225729,2020-07-27T22:40Z,Atlanta Braves at Tampa Bay Rays,Tampa Bay Rays,Atlanta Braves,14,5,1.0
+401225726,2020-07-27T23:05Z,New York Yankees at Philadelphia Phillies,Philadelphia Phillies,New York Yankees,0,0,0.5
+401225727,2020-07-27T23:05Z,Milwaukee Brewers at Pittsburgh Pirates,Pittsburgh Pirates,Milwaukee Brewers,5,6,0.0
+401225721,2020-07-27T23:10Z,Chicago White Sox at Cleveland Indians,Cleveland Indians,Chicago White Sox,0,0,0.5
+401225722,2020-07-27T23:10Z,Kansas City Royals at Detroit Tigers,Detroit Tigers,Kansas City Royals,6,14,0.0
+401225723,2020-07-27T23:10Z,Seattle Mariners at Houston Astros,Houston Astros,Seattle Mariners,8,5,1.0
+401225724,2020-07-27T23:10Z,Baltimore Orioles at Miami Marlins,Miami Marlins,Baltimore Orioles,0,0,0.5
+401225719,2020-07-27T23:30Z,New York Mets at Boston Red Sox,Boston Red Sox,New York Mets,4,7,0.0
+401232408,2020-07-28T19:40Z,Chicago White Sox at Cleveland Indians,Cleveland Indians,Chicago White Sox,4,3,1.0
+401225740,2020-07-28T22:05Z,New York Yankees at Philadelphia Phillies,Philadelphia Phillies,New York Yankees,0,0,0.5
+401225745,2020-07-28T22:05Z,Toronto Blue Jays at Washington Nationals,Washington Nationals,Toronto Blue Jays,1,5,0.0
+401225732,2020-07-28T22:40Z,Chicago Cubs at Cincinnati Reds,Cincinnati Reds,Chicago Cubs,5,8,0.0
+401225743,2020-07-28T22:40Z,Atlanta Braves at Tampa Bay Rays,Tampa Bay Rays,Atlanta Braves,5,2,1.0
+401225741,2020-07-28T23:05Z,Milwaukee Brewers at Pittsburgh Pirates,Pittsburgh Pirates,Milwaukee Brewers,8,6,1.0
+401225734,2020-07-28T23:10Z,Kansas City Royals at Detroit Tigers,Detroit Tigers,Kansas City Royals,4,3,1.0
+401225737,2020-07-28T23:10Z,Baltimore Orioles at Miami Marlins,Miami Marlins,Baltimore Orioles,0,0,0.5
+401225731,2020-07-28T23:30Z,New York Mets at Boston Red Sox,Boston Red Sox,New York Mets,3,8,0.0
+401225733,2020-07-28T23:45Z,Chicago White Sox at Cleveland Indians,Cleveland Indians,Chicago White Sox,5,3,1.0
+401225738,2020-07-29T00:10Z,St. Louis Cardinals at Minnesota Twins,Minnesota Twins,St. Louis Cardinals,6,3,1.0
+401225744,2020-07-29T01:05Z,Arizona Diamondbacks at Texas Rangers,Texas Rangers,Arizona Diamondbacks,1,4,0.0
+401225735,2020-07-29T01:10Z,Los Angeles Dodgers at Houston Astros,Houston Astros,Los Angeles Dodgers,2,5,0.0
+401225736,2020-07-29T01:40Z,Seattle Mariners at Los Angeles Angels,Los Angeles Angels,Seattle Mariners,10,2,1.0
+401225739,2020-07-29T01:40Z,Colorado Rockies at Oakland Athletics,Oakland Athletics,Colorado Rockies,3,8,0.0
+401225742,2020-07-29T01:45Z,San Diego Padres at San Francisco Giants,San Francisco Giants,San Diego Padres,3,5,0.0
+401225756,2020-07-29T19:30Z,Colorado Rockies at Oakland Athletics,Oakland Athletics,Colorado Rockies,1,5,0.0
+401225759,2020-07-29T20:05Z,Arizona Diamondbacks at Texas Rangers,Texas Rangers,Arizona Diamondbacks,7,4,1.0
+401225760,2020-07-29T22:05Z,Washington Nationals at Toronto Blue Jays,Toronto Blue Jays,Washington Nationals,0,4,0.0
+401225749,2020-07-29T22:10Z,Chicago White Sox at Cleveland Indians,Cleveland Indians,Chicago White Sox,0,4,0.0
+401225748,2020-07-29T22:40Z,Chicago Cubs at Cincinnati Reds,Cincinnati Reds,Chicago Cubs,12,7,1.0
+401225751,2020-07-29T23:00Z,Los Angeles Dodgers at Houston Astros,Houston Astros,Los Angeles Dodgers,2,4,0.0
+401225755,2020-07-29T23:05Z,Philadelphia Phillies at New York Yankees,New York Yankees,Philadelphia Phillies,0,0,0.5
+401225757,2020-07-29T23:05Z,Milwaukee Brewers at Pittsburgh Pirates,Pittsburgh Pirates,Milwaukee Brewers,0,3,0.0
+401225746,2020-07-29T23:10Z,Tampa Bay Rays at Atlanta Braves,Atlanta Braves,Tampa Bay Rays,7,4,1.0
+401225750,2020-07-29T23:10Z,Kansas City Royals at Detroit Tigers,Detroit Tigers,Kansas City Royals,5,4,1.0
+401225754,2020-07-29T23:10Z,Boston Red Sox at New York Mets,New York Mets,Boston Red Sox,5,6,0.0
+401225747,2020-07-29T23:35Z,Miami Marlins at Baltimore Orioles,Baltimore Orioles,Miami Marlins,0,0,0.5
+401232669,2020-07-29T23:35Z,New York Yankees at Baltimore Orioles,Baltimore Orioles,New York Yankees,3,9,0.0
+401225753,2020-07-30T00:10Z,St. Louis Cardinals at Minnesota Twins,Minnesota Twins,St. Louis Cardinals,3,0,1.0
+401225758,2020-07-30T01:45Z,San Diego Padres at San Francisco Giants,San Francisco Giants,San Diego Padres,7,6,1.0
+401225752,2020-07-30T02:00Z,Seattle Mariners at Los Angeles Angels,Los Angeles Angels,Seattle Mariners,7,10,0.0
+401225771,2020-07-30T20:05Z,Washington Nationals at Toronto Blue Jays,Toronto Blue Jays,Washington Nationals,4,6,0.0
+401225764,2020-07-30T22:10Z,Chicago Cubs at Cincinnati Reds,Cincinnati Reds,Chicago Cubs,0,0,0.5
+401225769,2020-07-30T23:05Z,Philadelphia Phillies at New York Yankees,New York Yankees,Philadelphia Phillies,0,0,0.5
+401232670,2020-07-30T23:05Z,New York Yankees at Baltimore Orioles,Baltimore Orioles,New York Yankees,6,8,0.0
+401225767,2020-07-30T23:07Z,Cleveland Indians at Minnesota Twins,Minnesota Twins,Cleveland Indians,0,2,0.0
+401225768,2020-07-30T23:07Z,Boston Red Sox at New York Mets,New York Mets,Boston Red Sox,2,4,0.0
+401225762,2020-07-30T23:10Z,Tampa Bay Rays at Atlanta Braves,Atlanta Braves,Tampa Bay Rays,2,1,1.0
+401225765,2020-07-30T23:10Z,Kansas City Royals at Detroit Tigers,Detroit Tigers,Kansas City Royals,3,5,0.0
+401225763,2020-07-30T23:35Z,Miami Marlins at Baltimore Orioles,Baltimore Orioles,Miami Marlins,0,0,0.5
+401225761,2020-07-31T01:40Z,Los Angeles Dodgers at Arizona Diamondbacks,Arizona Diamondbacks,Los Angeles Dodgers,3,6,0.0
+401225766,2020-07-31T01:40Z,Seattle Mariners at Los Angeles Angels,Los Angeles Angels,Seattle Mariners,5,8,0.0
+401225770,2020-07-31T01:45Z,San Diego Padres at San Francisco Giants,San Francisco Giants,San Diego Padres,7,12,0.0
+401225781,2020-07-31T18:10Z,St. Louis Cardinals at Milwaukee Brewers,Milwaukee Brewers,St. Louis Cardinals,0,0,0.5
+401225786,2020-07-31T22:37Z,Philadelphia Phillies at Toronto Blue Jays,Toronto Blue Jays,Philadelphia Phillies,0,0,0.5
+401225783,2020-07-31T23:00Z,Boston Red Sox at New York Yankees,New York Yankees,Boston Red Sox,5,1,1.0
+401225773,2020-07-31T23:10Z,New York Mets at Atlanta Braves,Atlanta Braves,New York Mets,11,10,1.0
+401225777,2020-07-31T23:10Z,Cincinnati Reds at Detroit Tigers,Detroit Tigers,Cincinnati Reds,7,2,1.0
+401225780,2020-07-31T23:10Z,Washington Nationals at Miami Marlins,Miami Marlins,Washington Nationals,0,0,0.5
+401225774,2020-07-31T23:35Z,Tampa Bay Rays at Baltimore Orioles,Baltimore Orioles,Tampa Bay Rays,6,3,1.0
+401225778,2020-08-01T00:05Z,Chicago White Sox at Kansas City Royals,Kansas City Royals,Chicago White Sox,2,3,0.0
+401225776,2020-08-01T00:10Z,San Diego Padres at Colorado Rockies,Colorado Rockies,San Diego Padres,7,8,0.0
+401225782,2020-08-01T00:10Z,Cleveland Indians at Minnesota Twins,Minnesota Twins,Cleveland Indians,4,1,1.0
+401225775,2020-08-01T00:15Z,Pittsburgh Pirates at Chicago Cubs,Chicago Cubs,Pittsburgh Pirates,6,3,1.0
+401225784,2020-08-01T01:00Z,Texas Rangers at San Francisco Giants,San Francisco Giants,Texas Rangers,9,2,1.0
+401225779,2020-08-01T01:10Z,Houston Astros at Los Angeles Angels,Los Angeles Angels,Houston Astros,6,9,0.0
+401225772,2020-08-01T01:40Z,Los Angeles Dodgers at Arizona Diamondbacks,Arizona Diamondbacks,Los Angeles Dodgers,5,3,1.0
+401225785,2020-08-01T01:40Z,Oakland Athletics at Seattle Mariners,Seattle Mariners,Oakland Athletics,5,3,1.0

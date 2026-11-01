@@ -1,0 +1,40 @@
+id,date,event,home,away,hs,as,res
+401768045,2025-05-01T23:30Z,New York Knicks at Detroit Pistons,Detroit Pistons,New York Knicks,113,116,0.0
+401768065,2025-05-02T02:00Z,Denver Nuggets at LA Clippers,LA Clippers,Denver Nuggets,111,105,1.0
+401767913,2025-05-03T01:00Z,Houston Rockets at Golden State Warriors,Golden State Warriors,Houston Rockets,107,115,0.0
+401768066,2025-05-03T23:30Z,LA Clippers at Denver Nuggets,Denver Nuggets,LA Clippers,120,101,1.0
+401769689,2025-05-04T22:00Z,Indiana Pacers at Cleveland Cavaliers,Cleveland Cavaliers,Indiana Pacers,112,121,0.0
+401767914,2025-05-05T00:30Z,Golden State Warriors at Houston Rockets,Houston Rockets,Golden State Warriors,89,103,0.0
+401769746,2025-05-05T23:00Z,New York Knicks at Boston Celtics,Boston Celtics,New York Knicks,105,108,0.0
+401769820,2025-05-06T01:30Z,Denver Nuggets at Oklahoma City Thunder,Oklahoma City Thunder,Denver Nuggets,119,121,0.0
+401769740,2025-05-06T23:00Z,Indiana Pacers at Cleveland Cavaliers,Cleveland Cavaliers,Indiana Pacers,119,120,0.0
+401769837,2025-05-07T01:30Z,Golden State Warriors at Minnesota Timberwolves,Minnesota Timberwolves,Golden State Warriors,88,99,0.0
+401769747,2025-05-07T23:00Z,New York Knicks at Boston Celtics,Boston Celtics,New York Knicks,90,91,0.0
+401769821,2025-05-08T01:30Z,Denver Nuggets at Oklahoma City Thunder,Oklahoma City Thunder,Denver Nuggets,149,106,1.0
+401769838,2025-05-09T00:30Z,Golden State Warriors at Minnesota Timberwolves,Minnesota Timberwolves,Golden State Warriors,117,93,1.0
+401769741,2025-05-09T23:30Z,Cleveland Cavaliers at Indiana Pacers,Indiana Pacers,Cleveland Cavaliers,104,126,0.0
+401769822,2025-05-10T02:25Z,Oklahoma City Thunder at Denver Nuggets,Denver Nuggets,Oklahoma City Thunder,113,104,1.0
+401769748,2025-05-10T19:30Z,Boston Celtics at New York Knicks,New York Knicks,Boston Celtics,93,115,0.0
+401769839,2025-05-11T00:30Z,Minnesota Timberwolves at Golden State Warriors,Golden State Warriors,Minnesota Timberwolves,97,102,0.0
+401769823,2025-05-11T19:30Z,Oklahoma City Thunder at Denver Nuggets,Denver Nuggets,Oklahoma City Thunder,87,92,0.0
+401769742,2025-05-12T00:00Z,Cleveland Cavaliers at Indiana Pacers,Indiana Pacers,Cleveland Cavaliers,129,109,1.0
+401769749,2025-05-12T23:30Z,Boston Celtics at New York Knicks,New York Knicks,Boston Celtics,121,113,1.0
+401769840,2025-05-13T02:00Z,Minnesota Timberwolves at Golden State Warriors,Golden State Warriors,Minnesota Timberwolves,110,117,0.0
+401769743,2025-05-13T23:00Z,Indiana Pacers at Cleveland Cavaliers,Cleveland Cavaliers,Indiana Pacers,105,114,0.0
+401769990,2025-05-14T01:30Z,Denver Nuggets at Oklahoma City Thunder,Oklahoma City Thunder,Denver Nuggets,112,105,1.0
+401769750,2025-05-14T23:00Z,New York Knicks at Boston Celtics,Boston Celtics,New York Knicks,127,102,1.0
+401769987,2025-05-15T01:30Z,Golden State Warriors at Minnesota Timberwolves,Minnesota Timberwolves,Golden State Warriors,121,110,1.0
+401769991,2025-05-16T00:30Z,Oklahoma City Thunder at Denver Nuggets,Denver Nuggets,Oklahoma City Thunder,119,107,1.0
+401769751,2025-05-17T00:00Z,Boston Celtics at New York Knicks,New York Knicks,Boston Celtics,119,81,1.0
+401769992,2025-05-18T19:30Z,Denver Nuggets at Oklahoma City Thunder,Oklahoma City Thunder,Denver Nuggets,125,93,1.0
+401773148,2025-05-21T00:30Z,Minnesota Timberwolves at Oklahoma City Thunder,Oklahoma City Thunder,Minnesota Timberwolves,114,88,1.0
+401772989,2025-05-22T00:00Z,Indiana Pacers at New York Knicks,New York Knicks,Indiana Pacers,135,138,0.0
+401773149,2025-05-23T00:30Z,Minnesota Timberwolves at Oklahoma City Thunder,Oklahoma City Thunder,Minnesota Timberwolves,118,103,1.0
+401772990,2025-05-24T00:00Z,Indiana Pacers at New York Knicks,New York Knicks,Indiana Pacers,109,114,0.0
+401773150,2025-05-25T00:30Z,Oklahoma City Thunder at Minnesota Timberwolves,Minnesota Timberwolves,Oklahoma City Thunder,143,101,1.0
+401772991,2025-05-26T00:00Z,New York Knicks at Indiana Pacers,Indiana Pacers,New York Knicks,100,106,0.0
+401773151,2025-05-27T00:30Z,Oklahoma City Thunder at Minnesota Timberwolves,Minnesota Timberwolves,Oklahoma City Thunder,126,128,0.0
+401772992,2025-05-28T00:00Z,New York Knicks at Indiana Pacers,Indiana Pacers,New York Knicks,130,121,1.0
+401773152,2025-05-29T00:30Z,Minnesota Timberwolves at Oklahoma City Thunder,Oklahoma City Thunder,Minnesota Timberwolves,124,94,1.0
+401772993,2025-05-30T00:00Z,Indiana Pacers at New York Knicks,New York Knicks,Indiana Pacers,111,94,1.0
+401772994,2025-06-01T00:00Z,New York Knicks at Indiana Pacers,Indiana Pacers,New York Knicks,125,108,1.0

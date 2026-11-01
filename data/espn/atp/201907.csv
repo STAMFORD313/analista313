@@ -1,0 +1,595 @@
+id,date,event,home,away,hs,as,res
+123663,2019-06-24T10:05Z,Wimbledon,Thiago Monteiro,Roberto Marcora,,,1.0
+123737,2019-06-24T14:40Z,Wimbledon,Daniel Elahi Galan,Lorenzo Giustino,,,1.0
+123644,2019-06-26T10:00Z,Wimbledon,Thiago Monteiro,Christopher Eubanks,,,1.0
+120465,2019-06-26T10:05Z,Wimbledon,Dustin Brown,Mikael Ymer,,,0.0
+123452,2019-06-26T11:30Z,Wimbledon,Jason Kubler,Norbert Gombos,,,1.0
+123450,2019-06-27T10:00Z,Wimbledon,Jason Kubler,Yasutaka Uchiyama,,,0.0
+123669,2019-06-27T10:00Z,Wimbledon,Thiago Monteiro,Yosuke Watanuki,,,1.0
+99121,2019-07-01T10:05Z,Wimbledon,Janko Tipsarevic,Yoshihito Nishioka,,,1.0
+99129,2019-07-01T10:05Z,Wimbledon,Marcos Giron,Feliciano Lopez,,,0.0
+99130,2019-07-01T10:05Z,Wimbledon,Peter Gojowczyk,Roberto Bautista Agut,,,0.0
+99120,2019-07-01T10:10Z,Wimbledon,Kevin Anderson,Pierre-Hugues Herbert,,,1.0
+99124,2019-07-01T10:10Z,Wimbledon,Cedrik-Marcel Stebe,Reilly Opelka,,,0.0
+99128,2019-07-01T10:10Z,Wimbledon,Stan Wawrinka,Ruben Bemelmans,,,1.0
+99132,2019-07-01T11:30Z,Wimbledon,Karen Khachanov,SoonWoo Kwon,,,1.0
+99108,2019-07-01T11:35Z,Wimbledon,Ernests Gulbis,Leonardo Mayer,,,0.0
+99133,2019-07-01T11:40Z,Wimbledon,Steve Darcis,Mischa Zverev,,,1.0
+99107,2019-07-01T11:50Z,Wimbledon,Denis Kudla,Malek Jaziri,,,1.0
+99125,2019-07-01T11:50Z,Wimbledon,Andreas Seppi,Nicolas Jarry,,,1.0
+99109,2019-07-01T12:05Z,Wimbledon,Novak Djokovic,Philipp Kohlschreiber,,,1.0
+99112,2019-07-01T12:10Z,Wimbledon,Felix Auger-Aliassime,Vasek Pospisil,,,1.0
+99126,2019-07-01T13:20Z,Wimbledon,Jozef Kovalik,Robin Haase,,,0.0
+99122,2019-07-01T13:35Z,Wimbledon,Thomas Fabbiano,Stefanos Tsitsipas,,,1.0
+99127,2019-07-01T13:40Z,Wimbledon,Marius Copil,Guido Pella,,,0.0
+99137,2019-07-01T13:50Z,Wimbledon,Pablo Cuevas,Damir Dzumhur,,,1.0
+99117,2019-07-01T14:05Z,Wimbledon,Pablo Carreno Busta,Alexei Popyrin,,,0.0
+99123,2019-07-01T14:05Z,Wimbledon,Andrea Arnaboldi,Ivo Karlovic,,,0.0
+99136,2019-07-01T14:10Z,Wimbledon,Jiri Vesely,Alexander Zverev,,,1.0
+99106,2019-07-01T14:30Z,Wimbledon,Hubert Hurkacz,Dusan Lajovic,,,1.0
+99119,2019-07-01T14:35Z,Wimbledon,Kamil Majchrzak,Fernando Verdasco,,,0.0
+99113,2019-07-01T14:55Z,Wimbledon,Daniil Medvedev,Paolo Lorenzi,,,1.0
+99135,2019-07-01T15:00Z,Wimbledon,Benoit Paire,Juan Ignacio Londero,,,1.0
+99110,2019-07-01T15:10Z,Wimbledon,Ugo Humbert,Gael Monfils,,,1.0
+99116,2019-07-01T15:15Z,Wimbledon,Jeremy Chardy,Martin Klizan,,,1.0
+99131,2019-07-01T15:15Z,Wimbledon,Prajnesh Gunneswaran,Milos Raonic,,,0.0
+99111,2019-07-01T15:45Z,Wimbledon,Grigor Dimitrov,Corentin Moutet,,,0.0
+99114,2019-07-01T16:25Z,Wimbledon,Lorenzo Sonego,Marcel Granollers,,,0.0
+99115,2019-07-01T16:25Z,Wimbledon,Kyle Edmund,Jaume Munar,,,1.0
+99118,2019-07-01T16:50Z,Wimbledon,Bradley Klahn,David Goffin,,,0.0
+99134,2019-07-01T17:25Z,Wimbledon,Roberto Carballes Baena,Miomir Kecmanovic,,,0.0
+123505,2019-07-01T17:30Z,Wimbledon,Roberto Carballes Baena,Miomir Kecmanovic,,,0.0
+99150,2019-07-02T10:05Z,Wimbledon,Federico Delbonis,Daniel Evans,,,0.0
+99151,2019-07-02T10:05Z,Wimbledon,James Ward,Nikoloz Basilashvili,,,0.0
+99158,2019-07-02T10:05Z,Wimbledon,Marco Cecchinato,Alex de Minaur,,,0.0
+99152,2019-07-02T10:10Z,Wimbledon,Kei Nishikori,Thiago Monteiro,,,1.0
+99153,2019-07-02T10:10Z,Wimbledon,Nick Kyrgios,Jordan Thompson,,,1.0
+99155,2019-07-02T10:10Z,Wimbledon,Steve Johnson,Albert Ramos-Vinolas,,,1.0
+99161,2019-07-02T11:15Z,Wimbledon,Brayden Schnur,Marcos Baghdatis,,,0.0
+99164,2019-07-02T11:25Z,Wimbledon,Matteo Berrettini,Aljaz Bedene,,,1.0
+99139,2019-07-02T11:35Z,Wimbledon,Dominic Thiem,Sam Querrey,,,0.0
+99138,2019-07-02T11:55Z,Wimbledon,Gilles Simon,Salvatore Caruso,,,1.0
+99154,2019-07-02T12:35Z,Wimbledon,Denis Istomin,Cameron Norrie,,,0.0
+99142,2019-07-02T12:45Z,Wimbledon,Cristian Garin,Andrey Rublev,,,0.0
+99163,2019-07-02T13:00Z,Wimbledon,Dominik Koepfer,Filip Krajinovic,,,1.0
+99166,2019-07-02T13:25Z,Wimbledon,Jay Clarke,Noah Rubin,,,1.0
+99169,2019-07-02T13:45Z,Wimbledon,Lloyd Harris,Roger Federer,,,0.0
+123341,2019-07-02T13:45Z,Wimbledon,Lloyd Harris,Roger Federer,,,0.0
+99145,2019-07-02T13:55Z,Wimbledon,Yasutaka Uchiyama,Tennys Sandgren,,,0.0
+99149,2019-07-02T14:05Z,Wimbledon,Bernard Tomic,Jo-Wilfried Tsonga,,,0.0
+99160,2019-07-02T14:50Z,Wimbledon,Jan-Lennard Struff,Radu Albot,,,1.0
+99157,2019-07-02T14:55Z,Wimbledon,Taylor Fritz,Tomas Berdych,,,1.0
+122219,2019-07-02T15:00Z,Wimbledon,Taylor Fritz,Tomas Berdych,,,1.0
+99165,2019-07-02T15:05Z,Wimbledon,Matthew Ebden,Diego Schwartzman,,,0.0
+99148,2019-07-02T15:15Z,Wimbledon,Denis Shapovalov,Ricardas Berankis,,,0.0
+99156,2019-07-02T15:30Z,Wimbledon,Yuichi Sugita,Rafael Nadal,,,0.0
+99140,2019-07-02T15:50Z,Wimbledon,Hugo Dellien,John Millman,,,0.0
+99146,2019-07-02T15:50Z,Wimbledon,Frances Tiafoe,Fabio Fognini,,,0.0
+99159,2019-07-02T15:55Z,Wimbledon,Pablo Andujar,Mikhail Kukushkin,,,0.0
+99168,2019-07-02T16:00Z,Wimbledon,Alexander Bublik,Gregoire Barrere,,,0.0
+99141,2019-07-02T16:20Z,Wimbledon,Guido Andreozzi,Laslo Djere,,,0.0
+99143,2019-07-02T16:55Z,Wimbledon,Marin Cilic,Adrian Mannarino,,,1.0
+99144,2019-07-02T16:55Z,Wimbledon,Marton Fucsovics,Dennis Novak,,,1.0
+99147,2019-07-02T17:05Z,Wimbledon,João Sousa,Paul Jubb,,,1.0
+99162,2019-07-02T17:05Z,Wimbledon,Casper Ruud,John Isner,,,0.0
+99167,2019-07-02T17:15Z,Wimbledon,Lucas Pouille,Richard Gasquet,,,1.0
+99189,2019-07-03T10:05Z,Wimbledon,Benoit Paire,Miomir Kecmanovic,,,1.0
+99183,2019-07-03T10:10Z,Wimbledon,Stan Wawrinka,Reilly Opelka,,,0.0
+99190,2019-07-03T10:10Z,Wimbledon,Pablo Cuevas,Jiri Vesely,,,0.0
+99171,2019-07-03T11:30Z,Wimbledon,Ivo Karlovic,Thomas Fabbiano,,,0.0
+99173,2019-07-03T11:30Z,Wimbledon,Daniil Medvedev,Alexei Popyrin,,,1.0
+99174,2019-07-03T11:35Z,Wimbledon,Leonardo Mayer,Hubert Hurkacz,,,0.0
+99175,2019-07-03T11:40Z,Wimbledon,Jeremy Chardy,David Goffin,,,0.0
+99178,2019-07-03T12:20Z,Wimbledon,Robin Haase,Milos Raonic,,,0.0
+99177,2019-07-03T13:25Z,Wimbledon,Kyle Edmund,Fernando Verdasco,,,0.0
+99180,2019-07-03T13:25Z,Wimbledon,Steve Darcis,Roberto Bautista Agut,,,0.0
+99181,2019-07-03T13:45Z,Wimbledon,Karen Khachanov,Feliciano Lopez,,,1.0
+99179,2019-07-03T14:20Z,Wimbledon,Andreas Seppi,Guido Pella,,,0.0
+99176,2019-07-03T14:55Z,Wimbledon,Marcel Granollers,Ugo Humbert,,,0.0
+99172,2019-07-03T15:10Z,Wimbledon,Felix Auger-Aliassime,Corentin Moutet,,,1.0
+99182,2019-07-03T15:55Z,Wimbledon,Kevin Anderson,Janko Tipsarevic,,,1.0
+99170,2019-07-03T17:25Z,Wimbledon,Novak Djokovic,Denis Kudla,,,1.0
+99184,2019-07-04T10:05Z,Wimbledon,Sam Querrey,Andrey Rublev,,,1.0
+99187,2019-07-04T10:05Z,Wimbledon,John Millman,Laslo Djere,,,1.0
+99192,2019-07-04T10:05Z,Wimbledon,Steve Johnson,Alex de Minaur,,,1.0
+99196,2019-07-04T10:05Z,Wimbledon,Jan-Lennard Struff,Taylor Fritz,,,1.0
+99195,2019-07-04T11:20Z,Wimbledon,Daniel Evans,Nikoloz Basilashvili,,,1.0
+99193,2019-07-04T12:05Z,Wimbledon,Mikhail Kukushkin,John Isner,,,1.0
+99191,2019-07-04T12:10Z,Wimbledon,Kei Nishikori,Cameron Norrie,,,1.0
+99186,2019-07-04T12:50Z,Wimbledon,Marin Cilic,João Sousa,,,0.0
+99194,2019-07-04T13:45Z,Wimbledon,Ricardas Berankis,Jo-Wilfried Tsonga,,,0.0
+99200,2019-07-04T13:55Z,Wimbledon,Jay Clarke,Roger Federer,,,0.0
+99201,2019-07-04T14:20Z,Wimbledon,Lucas Pouille,Gregoire Barrere,,,1.0
+99185,2019-07-04T15:05Z,Wimbledon,Gilles Simon,Tennys Sandgren,,,0.0
+99188,2019-07-04T15:30Z,Wimbledon,Marton Fucsovics,Fabio Fognini,,,0.0
+99197,2019-07-04T15:45Z,Wimbledon,Nick Kyrgios,Rafael Nadal,,,0.0
+99199,2019-07-04T16:20Z,Wimbledon,Matteo Berrettini,Marcos Baghdatis,,,1.0
+99198,2019-07-04T17:10Z,Wimbledon,Dominik Koepfer,Diego Schwartzman,,,0.0
+99213,2019-07-05T10:05Z,Wimbledon,Reilly Opelka,Milos Raonic,,,0.0
+99212,2019-07-05T10:10Z,Wimbledon,Benoit Paire,Jiri Vesely,,,1.0
+99209,2019-07-05T11:50Z,Wimbledon,Karen Khachanov,Roberto Bautista Agut,,,0.0
+99203,2019-07-05T12:05Z,Wimbledon,Kevin Anderson,Guido Pella,,,0.0
+99206,2019-07-05T14:05Z,Wimbledon,Daniil Medvedev,David Goffin,,,0.0
+99205,2019-07-05T14:15Z,Wimbledon,Novak Djokovic,Hubert Hurkacz,,,1.0
+99204,2019-07-05T14:20Z,Wimbledon,Fernando Verdasco,Thomas Fabbiano,,,1.0
+99202,2019-07-05T17:35Z,Wimbledon,Felix Auger-Aliassime,Ugo Humbert,,,0.0
+99208,2019-07-06T10:10Z,Wimbledon,Kei Nishikori,Steve Johnson,,,1.0
+99211,2019-07-06T10:10Z,Wimbledon,Sam Querrey,John Millman,,,1.0
+99214,2019-07-06T11:40Z,Wimbledon,Tennys Sandgren,Fabio Fognini,,,1.0
+99216,2019-07-06T12:35Z,Wimbledon,Jan-Lennard Struff,Mikhail Kukushkin,,,0.0
+99217,2019-07-06T13:15Z,Wimbledon,Matteo Berrettini,Diego Schwartzman,,,1.0
+99210,2019-07-06T13:35Z,Wimbledon,Jo-Wilfried Tsonga,Rafael Nadal,,,0.0
+99215,2019-07-06T15:45Z,Wimbledon,Lucas Pouille,Roger Federer,,,0.0
+99207,2019-07-06T15:55Z,Wimbledon,João Sousa,Daniel Evans,,,1.0
+99218,2019-07-08T12:10Z,Wimbledon,David Goffin,Fernando Verdasco,,,1.0
+99220,2019-07-08T12:10Z,Wimbledon,João Sousa,Rafael Nadal,,,0.0
+99222,2019-07-08T12:10Z,Wimbledon,Roberto Bautista Agut,Benoit Paire,,,1.0
+99221,2019-07-08T12:45Z,Wimbledon,Sam Querrey,Tennys Sandgren,,,1.0
+99219,2019-07-08T15:05Z,Wimbledon,Novak Djokovic,Ugo Humbert,,,1.0
+99224,2019-07-08T15:25Z,Wimbledon,Guido Pella,Milos Raonic,,,1.0
+99223,2019-07-08T15:40Z,Wimbledon,Kei Nishikori,Mikhail Kukushkin,,,1.0
+99225,2019-07-08T16:55Z,Wimbledon,Matteo Berrettini,Roger Federer,,,0.0
+99227,2019-07-10T12:05Z,Wimbledon,Novak Djokovic,David Goffin,,,1.0
+99228,2019-07-10T12:05Z,Wimbledon,Guido Pella,Roberto Bautista Agut,,,0.0
+99229,2019-07-10T14:45Z,Wimbledon,Kei Nishikori,Roger Federer,,,0.0
+99226,2019-07-10T15:50Z,Wimbledon,Sam Querrey,Rafael Nadal,,,0.0
+99230,2019-07-12T12:10Z,Wimbledon,Novak Djokovic,Roberto Bautista Agut,,,1.0
+99231,2019-07-12T15:40Z,Wimbledon,Rafael Nadal,Roger Federer,,,0.0
+99232,2019-07-14T13:10Z,Wimbledon,Novak Djokovic,Roger Federer,,,1.0
+125672,2019-06-25T10:35Z,Wimbledon,Alexandra Cadanțu-Ignatik,Caroline Dolehide,,,0.0
+120500,2019-06-26T15:45Z,Wimbledon,Coco Gauff,Valentyna Ivakhnenko,,,1.0
+124076,2019-06-27T13:00Z,Wimbledon,Lesley Pattinama Kerkhove,Sabine Lisicki,,,1.0
+120496,2019-06-27T15:00Z,Wimbledon,Coco Gauff,Greet Minnen,,,1.0
+99268,2019-07-01T10:05Z,Wimbledon,Bernarda Pera,Maria Sakkari,,,0.0
+99270,2019-07-01T10:05Z,Wimbledon,Margarita Gasparyan,Anna-Lena Friedsam,,,1.0
+99272,2019-07-01T10:05Z,Wimbledon,Catherine McNally,Heather Watson,,,0.0
+99281,2019-07-01T10:05Z,Wimbledon,Madison Keys,Luksika Kumkhum,,,1.0
+99288,2019-07-01T10:05Z,Wimbledon,Polona Hercog,Viktoria Hruncakova,,,1.0
+99293,2019-07-01T10:05Z,Wimbledon,Sofia Kenin,Astra Sharma,,,1.0
+99297,2019-07-01T10:05Z,Wimbledon,Dayana Yastremska,Camila Giorgi,,,1.0
+99265,2019-07-01T10:10Z,Wimbledon,Marie Bouzkova,Mona Barthel,,,1.0
+99266,2019-07-01T10:10Z,Wimbledon,Elina Svitolina,Daria Saville,,,1.0
+99267,2019-07-01T11:25Z,Wimbledon,Petra Martic,Jennifer Brady,,,1.0
+99277,2019-07-01T11:25Z,Wimbledon,Shelby Rogers,Anett Kontaveit,,,0.0
+99276,2019-07-01T11:55Z,Wimbledon,Zhu Lin,Karolina Pliskova,,,0.0
+99279,2019-07-01T11:55Z,Wimbledon,Anna Karolina Schmiedlova,Monica Puig,,,0.0
+99296,2019-07-01T12:00Z,Wimbledon,Iga Swiatek,Viktorija Golubic,,,0.0
+123974,2019-07-01T12:00Z,Wimbledon,Anna Karolina Schmiedlova,Monica Puig,,,0.0
+99284,2019-07-01T12:10Z,Wimbledon,Simona Halep,Aliaksandra Sasnovich,,,1.0
+99290,2019-07-01T12:10Z,Wimbledon,Magdalena Rybarikova,Aryna Sabalenka,,,1.0
+99275,2019-07-01T12:15Z,Wimbledon,Karolina Muchova,Aleksandra Krunic,,,1.0
+99283,2019-07-01T12:50Z,Wimbledon,Mihaela Buzarnescu,Jessica Pegula,,,1.0
+99273,2019-07-01T13:35Z,Wimbledon,Kristie Ahn,Anastasija Sevastova,,,0.0
+99289,2019-07-01T13:45Z,Wimbledon,Veronika Kudermetova,Ysaline Bonaventure,,,1.0
+99269,2019-07-01T13:50Z,Wimbledon,Anastasia Potapova,Jil Teichmann,,,1.0
+99274,2019-07-01T14:15Z,Wimbledon,Marketa Vondrousova,Madison Brengle,,,0.0
+99294,2019-07-01T14:30Z,Wimbledon,Yulia Putintseva,Naomi Osaka,,,1.0
+99271,2019-07-01T14:45Z,Wimbledon,Danielle Collins,Zarina Diyas,,,1.0
+99291,2019-07-01T15:45Z,Wimbledon,Rebecca Peterson,Yanina Wickmayer,,,0.0
+99278,2019-07-01T16:00Z,Wimbledon,Dalila Jakupovic,Kirsten Flipkens,,,0.0
+99282,2019-07-01T16:40Z,Wimbledon,Ajla Tomljanovic,Daria Kasatkina,,,1.0
+99287,2019-07-01T17:00Z,Wimbledon,Venus Williams,Coco Gauff,,,0.0
+99286,2019-07-01T17:15Z,Wimbledon,Caroline Wozniacki,Sara Sorribes Tormo,,,1.0
+99280,2019-07-01T17:20Z,Wimbledon,Su-Wei Hsieh,Jelena Ostapenko,,,1.0
+99285,2019-07-01T17:25Z,Wimbledon,Alize Cornet,Victoria Azarenka,,,0.0
+99292,2019-07-01T18:00Z,Wimbledon,Zhang Shuai,Caroline Garcia,,,1.0
+99234,2019-07-02T10:05Z,Wimbledon,Svetlana Kuznetsova,Alison Van Uytvanck,,,0.0
+99235,2019-07-02T10:05Z,Wimbledon,Stefanie Voegele,Kaia Kanepi,,,0.0
+99237,2019-07-02T10:05Z,Wimbledon,Harriet Dart,Christina McHale,,,1.0
+99250,2019-07-02T10:05Z,Wimbledon,Elise Mertens,Fiona Ferro,,,1.0
+99253,2019-07-02T10:05Z,Wimbledon,Barbora Strycova,Lesia Tsurenko,,,1.0
+99258,2019-07-02T10:05Z,Wimbledon,Vera Lapko,Wang Qiang,,,0.0
+99259,2019-07-02T10:05Z,Wimbledon,Ekaterina Alexandrova,Katerina Siniakova,,,0.0
+99255,2019-07-02T10:10Z,Wimbledon,Andrea Petkovic,Monica Niculescu,,,0.0
+99260,2019-07-02T10:10Z,Wimbledon,Sloane Stephens,Timea Bacsinszky,,,1.0
+99246,2019-07-02T11:30Z,Wimbledon,Kateryna Baindl,Lauren Davis,,,0.0
+99233,2019-07-02T12:05Z,Wimbledon,Ashleigh Barty,Zheng Saisai,,,1.0
+99248,2019-07-02T12:05Z,Wimbledon,Tatjana Maria,Angelique Kerber,,,0.0
+99261,2019-07-02T12:05Z,Wimbledon,Magda Linette,Anna Kalinskaya,,,1.0
+99256,2019-07-02T12:20Z,Wimbledon,Wang Yafan,Tereza Martincova,,,1.0
+99263,2019-07-02T12:20Z,Wimbledon,Vitalia Diatchenko,Kristina Mladenovic,,,0.0
+99251,2019-07-02T12:35Z,Wimbledon,Laura Siegemund,Katie Swan,,,1.0
+99244,2019-07-02T12:40Z,Wimbledon,Anastasia Pavlyuchenkova,Belinda Bencic,,,0.0
+99252,2019-07-02T12:40Z,Wimbledon,Tamara Zidansek,Eugenie Bouchard,,,1.0
+99257,2019-07-02T13:40Z,Wimbledon,Ana Bogdan,Johanna Konta,,,0.0
+99239,2019-07-02T13:50Z,Wimbledon,Beatriz Haddad Maia,Garbine Muguruza,,,1.0
+99262,2019-07-02T13:50Z,Wimbledon,Amanda Anisimova,Sorana Cirstea,,,1.0
+99238,2019-07-02T14:00Z,Wimbledon,Lesley Pattinama Kerkhove,Ivana Jorovic,,,0.0
+124101,2019-07-02T14:00Z,Wimbledon,Lesley Pattinama Kerkhove,Ivana Jorovic,,,0.0
+99247,2019-07-02T14:10Z,Wimbledon,Carla Suarez Navarro,Samantha Stosur,,,1.0
+99249,2019-07-02T14:30Z,Wimbledon,Maria Sharapova,Pauline Parmentier,,,0.0
+99240,2019-07-02T14:40Z,Wimbledon,Paula Badosa,Varvara Flink,,,0.5
+99242,2019-07-02T15:30Z,Wimbledon,Elena-Gabriela Ruse,Julia Goerges,,,0.0
+99264,2019-07-02T15:35Z,Wimbledon,Ons Jabeur,Petra Kvitova,,,0.0
+99241,2019-07-02T15:55Z,Wimbledon,Serena Williams,Giulia Gatto-Monticone,,,1.0
+99243,2019-07-02T15:55Z,Wimbledon,Kaja Juvan,Kristyna Pliskova,,,1.0
+99254,2019-07-02T16:25Z,Wimbledon,Arina Rodionova,Taylor Townsend,,,0.0
+99245,2019-07-02T17:35Z,Wimbledon,Kiki Bertens,Mandy Minella,,,1.0
+99236,2019-07-02T17:50Z,Wimbledon,Donna Vekic,Alison Riske-Amritraj,,,0.0
+99312,2019-07-03T10:05Z,Wimbledon,Elina Svitolina,Margarita Gasparyan,,,1.0
+99313,2019-07-03T10:05Z,Wimbledon,Marie Bouzkova,Maria Sakkari,,,0.0
+99319,2019-07-03T10:05Z,Wimbledon,Madison Brengle,Karolina Muchova,,,0.0
+99318,2019-07-03T10:10Z,Wimbledon,Victoria Azarenka,Ajla Tomljanovic,,,1.0
+99322,2019-07-03T10:10Z,Wimbledon,Su-Wei Hsieh,Kirsten Flipkens,,,1.0
+99315,2019-07-03T12:05Z,Wimbledon,Monica Puig,Karolina Pliskova,,,0.0
+99317,2019-07-03T12:05Z,Wimbledon,Heather Watson,Anett Kontaveit,,,0.0
+99326,2019-07-03T12:25Z,Wimbledon,Viktorija Golubic,Yulia Putintseva,,,1.0
+99327,2019-07-03T13:35Z,Wimbledon,Sofia Kenin,Dayana Yastremska,,,0.0
+99321,2019-07-03T13:45Z,Wimbledon,Simona Halep,Mihaela Buzarnescu,,,1.0
+99328,2019-07-03T15:20Z,Wimbledon,Yanina Wickmayer,Zhang Shuai,,,0.0
+99323,2019-07-03T16:45Z,Wimbledon,Caroline Wozniacki,Veronika Kudermetova,,,1.0
+99320,2019-07-03T17:05Z,Wimbledon,Petra Martic,Anastasia Potapova,,,1.0
+99316,2019-07-03T18:10Z,Wimbledon,Danielle Collins,Anastasija Sevastova,,,1.0
+99325,2019-07-03T18:25Z,Wimbledon,Madison Keys,Polona Hercog,,,0.0
+99324,2019-07-03T19:05Z,Wimbledon,Coco Gauff,Magdalena Rybarikova,,,1.0
+120492,2019-07-03T19:10Z,Wimbledon,Coco Gauff,Magdalena Rybarikova,,,1.0
+99295,2019-07-04T10:05Z,Wimbledon,Harriet Dart,Beatriz Haddad Maia,,,1.0
+99298,2019-07-04T10:05Z,Wimbledon,Ashleigh Barty,Alison Van Uytvanck,,,1.0
+99309,2019-07-04T10:05Z,Wimbledon,Tamara Zidansek,Wang Qiang,,,0.0
+99308,2019-07-04T10:10Z,Wimbledon,Sloane Stephens,Wang Yafan,,,1.0
+99306,2019-07-04T11:15Z,Wimbledon,Laura Siegemund,Barbora Strycova,,,0.0
+99303,2019-07-04T11:55Z,Wimbledon,Alison Riske-Amritraj,Ivana Jorovic,,,1.0
+122104,2019-07-04T12:00Z,Wimbledon,Alison Riske-Amritraj,Ivana Jorovic,,,1.0
+99314,2019-07-04T12:10Z,Wimbledon,Kristina Mladenovic,Petra Kvitova,,,0.0
+99304,2019-07-04T12:30Z,Wimbledon,Carla Suarez Navarro,Pauline Parmentier,,,1.0
+99307,2019-07-04T12:35Z,Wimbledon,Elise Mertens,Monica Niculescu,,,1.0
+99300,2019-07-04T13:40Z,Wimbledon,Kiki Bertens,Taylor Townsend,,,1.0
+99302,2019-07-04T14:05Z,Wimbledon,Lauren Davis,Angelique Kerber,,,1.0
+99310,2019-07-04T14:10Z,Wimbledon,Katerina Siniakova,Johanna Konta,,,0.0
+99299,2019-07-04T14:25Z,Wimbledon,Varvara Flink,Julia Goerges,,,0.0
+99311,2019-07-04T15:20Z,Wimbledon,Amanda Anisimova,Magda Linette,,,0.0
+99305,2019-07-04T15:50Z,Wimbledon,Serena Williams,Kaja Juvan,,,1.0
+99301,2019-07-04T16:15Z,Wimbledon,Kaia Kanepi,Belinda Bencic,,,0.0
+99341,2019-07-05T10:05Z,Wimbledon,Elina Svitolina,Maria Sakkari,,,1.0
+99347,2019-07-05T10:10Z,Wimbledon,Caroline Wozniacki,Zhang Shuai,,,0.0
+99338,2019-07-05T12:05Z,Wimbledon,Su-Wei Hsieh,Karolina Pliskova,,,0.0
+99344,2019-07-05T12:05Z,Wimbledon,Dayana Yastremska,Viktorija Golubic,,,1.0
+99339,2019-07-05T12:25Z,Wimbledon,Karolina Muchova,Anett Kontaveit,,,1.0
+99336,2019-07-05T14:35Z,Wimbledon,Petra Martic,Danielle Collins,,,1.0
+99340,2019-07-05T15:00Z,Wimbledon,Simona Halep,Victoria Azarenka,,,1.0
+99337,2019-07-05T16:25Z,Wimbledon,Polona Hercog,Coco Gauff,,,0.0
+121982,2019-07-06T10:05Z,Wimbledon,Alison Riske-Amritraj,Belinda Bencic,,,1.0
+99332,2019-07-06T10:10Z,Wimbledon,Alison Riske-Amritraj,Belinda Bencic,,,1.0
+99334,2019-07-06T10:10Z,Wimbledon,Elise Mertens,Wang Qiang,,,1.0
+99335,2019-07-06T10:10Z,Wimbledon,Carla Suarez Navarro,Lauren Davis,,,1.0
+99342,2019-07-06T10:10Z,Wimbledon,Magda Linette,Petra Kvitova,,,0.0
+99333,2019-07-06T12:05Z,Wimbledon,Serena Williams,Julia Goerges,,,1.0
+99330,2019-07-06T12:15Z,Wimbledon,Kiki Bertens,Barbora Strycova,,,0.0
+99329,2019-07-06T12:20Z,Wimbledon,Ashleigh Barty,Harriet Dart,,,1.0
+99331,2019-07-06T13:35Z,Wimbledon,Sloane Stephens,Johanna Konta,,,0.0
+99346,2019-07-08T10:05Z,Wimbledon,Elina Svitolina,Petra Martic,,,1.0
+99348,2019-07-08T10:10Z,Wimbledon,Ashleigh Barty,Alison Riske-Amritraj,,,0.0
+99349,2019-07-08T10:10Z,Wimbledon,Barbora Strycova,Elise Mertens,,,1.0
+99350,2019-07-08T10:10Z,Wimbledon,Zhang Shuai,Dayana Yastremska,,,1.0
+99351,2019-07-08T12:00Z,Wimbledon,Karolina Muchova,Karolina Pliskova,,,1.0
+99345,2019-07-08T12:10Z,Wimbledon,Serena Williams,Carla Suarez Navarro,,,1.0
+99352,2019-07-08T13:30Z,Wimbledon,Simona Halep,Coco Gauff,,,1.0
+99343,2019-07-08T14:10Z,Wimbledon,Johanna Konta,Petra Kvitova,,,1.0
+99355,2019-07-09T12:05Z,Wimbledon,Simona Halep,Zhang Shuai,,,1.0
+99356,2019-07-09T12:05Z,Wimbledon,Alison Riske-Amritraj,Serena Williams,,,0.0
+121985,2019-07-09T12:05Z,Wimbledon,Alison Riske-Amritraj,Serena Williams,,,0.0
+99353,2019-07-09T14:15Z,Wimbledon,Elina Svitolina,Karolina Muchova,,,1.0
+99354,2019-07-09T14:50Z,Wimbledon,Barbora Strycova,Johanna Konta,,,1.0
+99358,2019-07-11T12:05Z,Wimbledon,Elina Svitolina,Simona Halep,,,0.0
+99357,2019-07-11T14:00Z,Wimbledon,Serena Williams,Barbora Strycova,,,1.0
+99359,2019-07-13T13:05Z,Wimbledon,Serena Williams,Simona Halep,,,0.0
+99736,2019-07-15T15:10Z,Hall of Fame Open,Bernard Tomic,Ilya Ivashka,,,0.0
+99741,2019-07-15T17:30Z,Hall of Fame Open,Marcel Granollers,Prajnesh Gunneswaran,,,1.0
+99737,2019-07-15T18:00Z,Hall of Fame Open,Ivo Karlovic,Guido Andreozzi,,,0.0
+99729,2019-07-15T18:30Z,Hall of Fame Open,Alastair Gray,Kamil Majchrzak,,,0.0
+99742,2019-07-15T20:10Z,Hall of Fame Open,Denis Istomin,Tennys Sandgren,,,0.0
+99739,2019-07-16T15:05Z,Hall of Fame Open,Alexander Bublik,Alex Bolt,,,1.0
+99732,2019-07-16T15:10Z,Hall of Fame Open,Denis Kudla,Bradley Klahn,,,1.0
+99728,2019-07-16T15:10Z,Hall of Fame Open,Matthew Ebden,Brayden Schnur,,,1.0
+99735,2019-07-16T16:55Z,Hall of Fame Open,Ramkumar Ramanathan,Sergiy Stakhovsky,,,1.0
+99738,2019-07-16T17:05Z,Hall of Fame Open,Viktor Troicki,Jason Jung,,,1.0
+99733,2019-07-16T19:35Z,Hall of Fame Open,Christopher Eubanks,Steve Johnson,,,1.0
+99734,2019-07-16T21:35Z,Hall of Fame Open,Mischa Zverev,Tim Smyczek,,,1.0
+99744,2019-07-17T15:05Z,Hall of Fame Open,Matthew Ebden,Denis Kudla,,,1.0
+99746,2019-07-17T15:05Z,Hall of Fame Open,Marcel Granollers,Jordan Thompson,,,1.0
+99753,2019-07-17T15:05Z,Hall of Fame Open,Alexander Bublik,Viktor Troicki,,,1.0
+99747,2019-07-17T16:15Z,Hall of Fame Open,Ilya Ivashka,Christopher Eubanks,,,1.0
+99751,2019-07-17T17:15Z,Hall of Fame Open,Tennys Sandgren,Adrian Mannarino,,,1.0
+99749,2019-07-17T18:10Z,Hall of Fame Open,Guido Andreozzi,Mischa Zverev,,,0.0
+99745,2019-07-17T18:45Z,Hall of Fame Open,John Isner,Kamil Majchrzak,,,1.0
+99748,2019-07-17T21:10Z,Hall of Fame Open,Ugo Humbert,Ramkumar Ramanathan,,,1.0
+99750,2019-07-19T15:00Z,Hall of Fame Open,Mischa Zverev,Marcel Granollers,,,0.0
+99754,2019-07-19T16:10Z,Hall of Fame Open,Ugo Humbert,Ilya Ivashka,,,1.0
+99755,2019-07-19T17:10Z,Hall of Fame Open,Alexander Bublik,Tennys Sandgren,,,1.0
+99752,2019-07-19T18:40Z,Hall of Fame Open,John Isner,Matthew Ebden,,,1.0
+99756,2019-07-20T17:10Z,Hall of Fame Open,Marcel Granollers,Alexander Bublik,,,0.0
+99758,2019-07-20T19:40Z,Hall of Fame Open,John Isner,Ugo Humbert,,,1.0
+99757,2019-07-21T18:10Z,Hall of Fame Open,John Isner,Alexander Bublik,,,1.0
+99703,2019-07-15T16:05Z,Plava Laguna Croatia Open Umag,Cedrik-Marcel Stebe,Jiri Vesely,,,0.0
+99705,2019-07-15T17:45Z,Plava Laguna Croatia Open Umag,Marco Cecchinato,Aljaz Bedene,,,0.0
+99706,2019-07-15T19:25Z,Plava Laguna Croatia Open Umag,Pedro Sousa,Jannik Sinner,,,0.0
+99708,2019-07-16T14:05Z,Plava Laguna Croatia Open Umag,Martin Klizan,Facundo Bagnis,,,0.0
+99697,2019-07-16T14:05Z,Plava Laguna Croatia Open Umag,Stefano Travaglia,Thomas Fabbiano,,,1.0
+99701,2019-07-16T14:10Z,Plava Laguna Croatia Open Umag,Peter Torebko,Paolo Lorenzi,,,0.0
+99710,2019-07-16T14:35Z,Plava Laguna Croatia Open Umag,Marco Trungelliti,Nino Serdarusic,,,0.0
+99699,2019-07-16T16:50Z,Plava Laguna Croatia Open Umag,Attila Balazs,Viktor Galovic,,,1.0
+99704,2019-07-16T17:05Z,Plava Laguna Croatia Open Umag,Andrey Rublev,Robin Haase,,,1.0
+99702,2019-07-16T17:40Z,Plava Laguna Croatia Open Umag,Pablo Andujar,Leonardo Mayer,,,0.0
+99698,2019-07-16T18:40Z,Plava Laguna Croatia Open Umag,Taro Daniel,Filip Krajinovic,,,0.0
+99707,2019-07-16T21:10Z,Plava Laguna Croatia Open Umag,Corentin Moutet,Salvatore Caruso,,,0.0
+99718,2019-07-17T14:35Z,Plava Laguna Croatia Open Umag,Attila Balazs,Filip Krajinovic,,,1.0
+99714,2019-07-17T15:20Z,Plava Laguna Croatia Open Umag,Jiri Vesely,Leonardo Mayer,,,0.0
+99713,2019-07-17T17:40Z,Plava Laguna Croatia Open Umag,Fabio Fognini,Stefano Travaglia,,,0.0
+99717,2019-07-17T17:55Z,Plava Laguna Croatia Open Umag,Laslo Djere,Paolo Lorenzi,,,1.0
+99720,2019-07-18T15:05Z,Plava Laguna Croatia Open Umag,Facundo Bagnis,Nino Serdarusic,,,1.0
+99716,2019-07-18T15:35Z,Plava Laguna Croatia Open Umag,Andrey Rublev,Dusan Lajovic,,,0.0
+99719,2019-07-18T18:05Z,Plava Laguna Croatia Open Umag,Salvatore Caruso,Borna Coric,,,1.0
+99715,2019-07-18T20:10Z,Plava Laguna Croatia Open Umag,Aljaz Bedene,Jannik Sinner,,,1.0
+99722,2019-07-19T15:35Z,Plava Laguna Croatia Open Umag,Laslo Djere,Leonardo Mayer,,,1.0
+99723,2019-07-19T15:35Z,Plava Laguna Croatia Open Umag,Stefano Travaglia,Attila Balazs,,,0.0
+99724,2019-07-19T18:35Z,Plava Laguna Croatia Open Umag,Aljaz Bedene,Dusan Lajovic,,,0.0
+99721,2019-07-19T21:30Z,Plava Laguna Croatia Open Umag,Facundo Bagnis,Salvatore Caruso,,,0.0
+99725,2019-07-20T15:35Z,Plava Laguna Croatia Open Umag,Attila Balazs,Laslo Djere,,,1.0
+99727,2019-07-20T18:05Z,Plava Laguna Croatia Open Umag,Dusan Lajovic,Salvatore Caruso,,,1.0
+99726,2019-07-21T18:10Z,Plava Laguna Croatia Open Umag,Attila Balazs,Dusan Lajovic,,,0.0
+117925,2019-07-15T09:00Z,Swedish Open,Bernabe Zapata Miralles,Alexey Vatutin,,,1.0
+99646,2019-07-15T11:15Z,Swedish Open,Jaume Munar,Roberto Carballes Baena,,,0.0
+99637,2019-07-15T15:25Z,Swedish Open,Alejandro Davidovich Fokina,Mikael Ymer,,,0.0
+99640,2019-07-16T09:05Z,Swedish Open,Dennis Novak,Steve Darcis,,,1.0
+99648,2019-07-16T09:05Z,Swedish Open,Constant Lestienne,Albert Ramos-Vinolas,,,0.0
+99651,2019-07-16T09:10Z,Swedish Open,Henri Laaksonen,Nicolas Jarry,,,0.0
+99636,2019-07-16T10:35Z,Swedish Open,Jeremy Chardy,Pablo Carreno Busta,,,1.0
+99643,2019-07-16T10:35Z,Swedish Open,Juan Ignacio Londero,Facundo Arguello,,,1.0
+99647,2019-07-16T11:10Z,Swedish Open,Casper Ruud,Damir Dzumhur,,,0.0
+99642,2019-07-16T12:50Z,Swedish Open,Thiago Monteiro,Elias Ymer,,,0.0
+123674,2019-07-16T12:55Z,Swedish Open,Thiago Monteiro,Elias Ymer,,,0.0
+99641,2019-07-16T13:05Z,Swedish Open,Hugo Dellien,Ernests Gulbis,,,1.0
+99650,2019-07-16T14:25Z,Swedish Open,Federico Delbonis,Bernabe Zapata Miralles,,,1.0
+99639,2019-07-16T15:50Z,Swedish Open,Jozef Kovalik,João Sousa,,,0.0
+99654,2019-07-17T09:05Z,Swedish Open,Cristian Garin,Jeremy Chardy,,,0.0
+99655,2019-07-17T11:00Z,Swedish Open,Mikael Ymer,Nicolas Jarry,,,0.0
+123190,2019-07-17T12:00Z,Swedish Open,Albert Ramos-Vinolas,Fernando Verdasco,,,1.0
+99658,2019-07-17T13:05Z,Swedish Open,Albert Ramos-Vinolas,Fernando Verdasco,,,1.0
+99657,2019-07-17T15:05Z,Swedish Open,Damir Dzumhur,Roberto Carballes Baena,,,0.0
+99652,2019-07-18T09:10Z,Swedish Open,Pablo Cuevas,Federico Delbonis,,,0.0
+99656,2019-07-18T10:45Z,Swedish Open,Elias Ymer,João Sousa,,,0.0
+99653,2019-07-18T13:25Z,Swedish Open,Dennis Novak,Richard Gasquet,,,0.0
+99649,2019-07-18T15:45Z,Swedish Open,Juan Ignacio Londero,Hugo Dellien,,,1.0
+99659,2019-07-19T09:10Z,Swedish Open,Jeremy Chardy,Nicolas Jarry,,,0.0
+99662,2019-07-19T10:45Z,Swedish Open,Federico Delbonis,João Sousa,,,1.0
+99660,2019-07-19T12:25Z,Swedish Open,Juan Ignacio Londero,Richard Gasquet,,,1.0
+99661,2019-07-19T15:30Z,Swedish Open,Roberto Carballes Baena,Albert Ramos-Vinolas,,,0.0
+123512,2019-07-19T15:30Z,Swedish Open,Roberto Carballes Baena,Albert Ramos-Vinolas,,,0.0
+99664,2019-07-20T11:10Z,Swedish Open,Nicolas Jarry,Federico Delbonis,,,1.0
+99665,2019-07-20T12:45Z,Swedish Open,Juan Ignacio Londero,Albert Ramos-Vinolas,,,1.0
+99663,2019-07-21T12:35Z,Swedish Open,Nicolas Jarry,Juan Ignacio Londero,,,1.0
+117673,2019-07-20T12:00Z,J Safra Sarasin Swiss Open Gstaad,Elliot Benchetrit,Daniel Elahi Galan,,,0.0
+99799,2019-07-22T10:05Z,J Safra Sarasin Swiss Open Gstaad,Cedrik-Marcel Stebe,Corentin Moutet,,,1.0
+99792,2019-07-22T10:50Z,J Safra Sarasin Swiss Open Gstaad,Jiri Vesely,Ernests Gulbis,,,1.0
+123585,2019-07-22T12:00Z,J Safra Sarasin Swiss Open Gstaad,Roberto Carballes Baena,Paolo Lorenzi,,,1.0
+99805,2019-07-22T12:40Z,J Safra Sarasin Swiss Open Gstaad,Roberto Carballes Baena,Paolo Lorenzi,,,1.0
+99797,2019-07-22T13:05Z,J Safra Sarasin Swiss Open Gstaad,Pablo Andujar,Dennis Novak,,,1.0
+99794,2019-07-22T15:25Z,J Safra Sarasin Swiss Open Gstaad,Thomas Fabbiano,Sandro Ehrat,,,1.0
+99802,2019-07-22T15:30Z,J Safra Sarasin Swiss Open Gstaad,Daniel Elahi Galan,Stefano Travaglia,,,0.0
+123780,2019-07-22T15:35Z,J Safra Sarasin Swiss Open Gstaad,Daniel Elahi Galan,Stefano Travaglia,,,0.0
+99795,2019-07-23T08:35Z,J Safra Sarasin Swiss Open Gstaad,Jaume Munar,Malek Jaziri,,,1.0
+99791,2019-07-23T08:40Z,J Safra Sarasin Swiss Open Gstaad,Gian Marco Moroni,Tommy Robredo,,,1.0
+99796,2019-07-23T10:10Z,J Safra Sarasin Swiss Open Gstaad,Steve Darcis,João Sousa,,,0.0
+99798,2019-07-23T11:00Z,J Safra Sarasin Swiss Open Gstaad,Filippo Baldi,Taro Daniel,,,0.0
+99804,2019-07-23T13:05Z,J Safra Sarasin Swiss Open Gstaad,Henri Laaksonen,Albert Ramos-Vinolas,,,0.0
+99801,2019-07-23T15:25Z,J Safra Sarasin Swiss Open Gstaad,Denis Istomin,Marc-Andrea Huesler,,,1.0
+123509,2019-07-24T10:00Z,J Safra Sarasin Swiss Open Gstaad,Roberto Carballes Baena,Stefano Travaglia,,,1.0
+99813,2019-07-24T10:40Z,J Safra Sarasin Swiss Open Gstaad,Roberto Carballes Baena,Stefano Travaglia,,,1.0
+99807,2019-07-24T12:00Z,J Safra Sarasin Swiss Open Gstaad,Jiri Vesely,Cedrik-Marcel Stebe,,,0.0
+99808,2019-07-24T13:05Z,J Safra Sarasin Swiss Open Gstaad,Lorenzo Sonego,Thomas Fabbiano,,,0.0
+123159,2019-07-24T15:20Z,J Safra Sarasin Swiss Open Gstaad,Albert Ramos-Vinolas,Fernando Verdasco,,,1.0
+99812,2019-07-24T15:30Z,J Safra Sarasin Swiss Open Gstaad,Albert Ramos-Vinolas,Fernando Verdasco,,,1.0
+99810,2019-07-25T08:35Z,J Safra Sarasin Swiss Open Gstaad,Pablo Andujar,Taro Daniel,,,1.0
+99811,2019-07-25T11:20Z,J Safra Sarasin Swiss Open Gstaad,Denis Istomin,Dusan Lajovic,,,0.0
+99806,2019-07-25T14:00Z,J Safra Sarasin Swiss Open Gstaad,Gian Marco Moroni,João Sousa,,,0.0
+99809,2019-07-25T15:55Z,J Safra Sarasin Swiss Open Gstaad,Roberto Bautista Agut,Jaume Munar,,,1.0
+123523,2019-07-26T08:30Z,J Safra Sarasin Swiss Open Gstaad,Roberto Carballes Baena,Albert Ramos-Vinolas,,,0.0
+99817,2019-07-26T08:40Z,J Safra Sarasin Swiss Open Gstaad,Roberto Carballes Baena,Albert Ramos-Vinolas,,,0.0
+99818,2019-07-26T10:20Z,J Safra Sarasin Swiss Open Gstaad,Pablo Andujar,Dusan Lajovic,,,1.0
+99815,2019-07-26T12:45Z,J Safra Sarasin Swiss Open Gstaad,Roberto Bautista Agut,João Sousa,,,0.0
+99814,2019-07-27T08:00Z,J Safra Sarasin Swiss Open Gstaad,Thomas Fabbiano,Cedrik-Marcel Stebe,,,0.0
+99816,2019-07-27T09:10Z,J Safra Sarasin Swiss Open Gstaad,Pablo Andujar,Albert Ramos-Vinolas,,,0.0
+99819,2019-07-27T12:10Z,J Safra Sarasin Swiss Open Gstaad,João Sousa,Cedrik-Marcel Stebe,,,0.0
+99820,2019-07-28T13:45Z,J Safra Sarasin Swiss Open Gstaad,Cedrik-Marcel Stebe,Albert Ramos-Vinolas,,,0.0
+123363,2019-07-21T16:00Z,BB&T Atlanta Open,SoonWoo Kwon,Ilya Ivashka,,,1.0
+123368,2019-07-21T19:45Z,BB&T Atlanta Open,SoonWoo Kwon,Peter Gojowczyk,,,1.0
+99858,2019-07-22T15:10Z,BB&T Atlanta Open,Alexei Popyrin,Denis Kudla,,,1.0
+99861,2019-07-22T18:10Z,BB&T Atlanta Open,Jordan Thompson,Cameron Norrie,,,0.0
+99854,2019-07-22T20:55Z,BB&T Atlanta Open,Bradley Klahn,Marius Copil,,,1.0
+99859,2019-07-23T16:40Z,BB&T Atlanta Open,Matthew Ebden,Kamil Majchrzak,,,1.0
+99860,2019-07-23T16:45Z,BB&T Atlanta Open,SoonWoo Kwon,Prajnesh Gunneswaran,,,1.0
+123358,2019-07-23T16:50Z,BB&T Atlanta Open,SoonWoo Kwon,Prajnesh Gunneswaran,,,1.0
+99852,2019-07-23T18:35Z,BB&T Atlanta Open,Reilly Opelka,Alexander Bublik,,,1.0
+99856,2019-07-23T19:35Z,BB&T Atlanta Open,Daniel Evans,Jason Jung,,,1.0
+99857,2019-07-23T20:20Z,BB&T Atlanta Open,Bernard Tomic,Frances Tiafoe,,,1.0
+99853,2019-07-23T20:50Z,BB&T Atlanta Open,Tennys Sandgren,Radu Albot,,,0.0
+99862,2019-07-23T23:10Z,BB&T Atlanta Open,Ugo Humbert,Cole Gromley,,,1.0
+99864,2019-07-23T23:20Z,BB&T Atlanta Open,Miomir Kecmanovic,Jack Sock,,,1.0
+99863,2019-07-24T01:00Z,BB&T Atlanta Open,Grigor Dimitrov,Kevin King,,,0.0
+99868,2019-07-24T15:10Z,BB&T Atlanta Open,Alexei Popyrin,Pierre-Hugues Herbert,,,1.0
+99873,2019-07-24T17:40Z,BB&T Atlanta Open,Cameron Norrie,SoonWoo Kwon,,,1.0
+99872,2019-07-24T19:10Z,BB&T Atlanta Open,Daniel Evans,Radu Albot,,,1.0
+99871,2019-07-24T23:10Z,BB&T Atlanta Open,John Isner,Reilly Opelka,,,0.0
+99869,2019-07-25T18:05Z,BB&T Atlanta Open,Matthew Ebden,Bernard Tomic,,,0.0
+99870,2019-07-25T19:45Z,BB&T Atlanta Open,Alex de Minaur,Bradley Klahn,,,1.0
+99874,2019-07-25T23:10Z,BB&T Atlanta Open,Kevin King,Taylor Fritz,,,0.0
+99877,2019-07-26T00:40Z,BB&T Atlanta Open,Ugo Humbert,Miomir Kecmanovic,,,0.0
+99876,2019-07-26T16:10Z,BB&T Atlanta Open,Alex de Minaur,Bernard Tomic,,,1.0
+99878,2019-07-26T18:10Z,BB&T Atlanta Open,Reilly Opelka,Daniel Evans,,,1.0
+99879,2019-07-26T20:05Z,BB&T Atlanta Open,Cameron Norrie,Alexei Popyrin,,,1.0
+99875,2019-07-27T00:10Z,BB&T Atlanta Open,Miomir Kecmanovic,Taylor Fritz,,,0.0
+99881,2019-07-27T19:10Z,BB&T Atlanta Open,Reilly Opelka,Alex de Minaur,,,0.0
+99882,2019-07-27T23:05Z,BB&T Atlanta Open,Cameron Norrie,Taylor Fritz,,,0.0
+99880,2019-07-28T21:05Z,BB&T Atlanta Open,Alex de Minaur,Taylor Fritz,,,1.0
+99768,2019-07-22T09:40Z,Hamburg Open,Daniel Altmaier,Martin Klizan,,,0.0
+99763,2019-07-22T11:10Z,Hamburg Open,Philipp Kohlschreiber,Marton Fucsovics,,,0.0
+99766,2019-07-22T13:35Z,Hamburg Open,Benoit Paire,Jeremy Chardy,,,0.0
+99761,2019-07-22T14:40Z,Hamburg Open,Andrey Rublev,Cristian Garin,,,1.0
+99767,2019-07-22T16:40Z,Hamburg Open,Leonardo Mayer,Rudolf Molleker,,,0.0
+99771,2019-07-23T09:35Z,Hamburg Open,Hugo Dellien,Nikoloz Basilashvili,,,0.0
+99764,2019-07-23T09:40Z,Hamburg Open,Thiago Monteiro,Jan-Lennard Struff,,,0.0
+99760,2019-07-23T09:45Z,Hamburg Open,Casper Ruud,Robin Haase,,,1.0
+99769,2019-07-23T11:00Z,Hamburg Open,Sumit Nagal,Richard Gasquet,,,0.0
+99762,2019-07-23T11:15Z,Hamburg Open,Dominic Thiem,Pablo Cuevas,,,1.0
+99772,2019-07-23T11:55Z,Hamburg Open,Alejandro Davidovich Fokina,Juan Ignacio Londero,,,0.0
+99765,2019-07-23T12:50Z,Hamburg Open,Pablo Carreno Busta,Yannick Hanfmann,,,1.0
+99773,2019-07-23T13:40Z,Hamburg Open,Nicolas Jarry,Alexander Zverev,,,0.0
+99770,2019-07-23T14:50Z,Hamburg Open,Laslo Djere,Filip Krajinovic,,,0.0
+99774,2019-07-23T15:10Z,Hamburg Open,Marco Cecchinato,Federico Delbonis,,,0.0
+99759,2019-07-23T16:40Z,Hamburg Open,Fabio Fognini,Julian Lenz,,,1.0
+99777,2019-07-24T09:35Z,Hamburg Open,Casper Ruud,Andrey Rublev,,,0.0
+99780,2019-07-24T11:55Z,Hamburg Open,Jeremy Chardy,Richard Gasquet,,,1.0
+99776,2019-07-24T14:15Z,Hamburg Open,Dominic Thiem,Marton Fucsovics,,,1.0
+99783,2019-07-24T16:40Z,Hamburg Open,Juan Ignacio Londero,Nikoloz Basilashvili,,,0.0
+99778,2019-07-25T09:40Z,Hamburg Open,Filip Krajinovic,Martin Klizan,,,1.0
+99781,2019-07-25T12:35Z,Hamburg Open,Pablo Carreno Busta,Jan-Lennard Struff,,,1.0
+99782,2019-07-25T14:20Z,Hamburg Open,Federico Delbonis,Alexander Zverev,,,0.0
+99775,2019-07-25T16:40Z,Hamburg Open,Fabio Fognini,Rudolf Molleker,,,1.0
+99786,2019-07-26T09:40Z,Hamburg Open,Jeremy Chardy,Nikoloz Basilashvili,,,0.0
+99779,2019-07-26T11:10Z,Hamburg Open,Dominic Thiem,Andrey Rublev,,,0.0
+99784,2019-07-26T13:20Z,Hamburg Open,Filip Krajinovic,Alexander Zverev,,,0.0
+99788,2019-07-26T16:05Z,Hamburg Open,Fabio Fognini,Pablo Carreno Busta,,,0.0
+99785,2019-07-27T11:35Z,Hamburg Open,Nikoloz Basilashvili,Alexander Zverev,,,1.0
+99787,2019-07-27T15:05Z,Hamburg Open,Andrey Rublev,Pablo Carreno Busta,,,1.0
+99789,2019-07-28T10:10Z,Hamburg Open,Andrey Rublev,Nikoloz Basilashvili,,,0.0
+123371,2019-07-28T00:00Z,Abierto Mexicano de Tenis Mifel presentado por Cinemax,SoonWoo Kwon,Luis Patino,,,1.0
+123395,2019-07-29T00:00Z,Abierto Mexicano de Tenis Mifel presentado por Cinemax,SoonWoo Kwon,Marcelo Arevalo,,,1.0
+100072,2019-07-30T00:10Z,Abierto Mexicano de Tenis Mifel presentado por Cinemax,Prajnesh Gunneswaran,John Millman,,,1.0
+100076,2019-07-30T01:35Z,Abierto Mexicano de Tenis Mifel presentado por Cinemax,Maxime Janvier,Thanasi Kokkinakis,,,0.0
+100078,2019-07-30T02:20Z,Abierto Mexicano de Tenis Mifel presentado por Cinemax,Mikhail Kukushkin,Damir Dzumhur,,,1.0
+100079,2019-07-30T03:25Z,Abierto Mexicano de Tenis Mifel presentado por Cinemax,Ernests Gulbis,Jason Jung,,,1.0
+100070,2019-07-30T04:10Z,Abierto Mexicano de Tenis Mifel presentado por Cinemax,Lucas Gomez,Marcel Granollers,,,0.0
+100082,2019-07-31T00:05Z,Abierto Mexicano de Tenis Mifel presentado por Cinemax,Janko Tipsarevic,Radu Albot,,,0.0
+100077,2019-07-31T00:05Z,Abierto Mexicano de Tenis Mifel presentado por Cinemax,Cristian Garin,Juan Ignacio Londero,,,0.0
+100073,2019-07-31T00:05Z,Abierto Mexicano de Tenis Mifel presentado por Cinemax,Taro Daniel,Tennys Sandgren,,,1.0
+100085,2019-07-31T01:25Z,Abierto Mexicano de Tenis Mifel presentado por Cinemax,Cedrik-Marcel Stebe,SoonWoo Kwon,,,0.0
+100083,2019-07-31T02:10Z,Abierto Mexicano de Tenis Mifel presentado por Cinemax,Grigor Dimitrov,Steve Johnson,,,1.0
+100080,2019-07-31T02:20Z,Abierto Mexicano de Tenis Mifel presentado por Cinemax,Gregoire Barrere,Cameron Norrie,,,0.0
+100074,2019-07-31T04:55Z,Abierto Mexicano de Tenis Mifel presentado por Cinemax,Dominik Koepfer,Taylor Fritz,,,0.0
+100089,2019-08-01T00:05Z,Abierto Mexicano de Tenis Mifel presentado por Cinemax,Mikhail Kukushkin,Cameron Norrie,,,1.0
+100087,2019-08-01T00:05Z,Abierto Mexicano de Tenis Mifel presentado por Cinemax,Taro Daniel,Radu Albot,,,0.0
+100095,2019-08-01T00:05Z,Abierto Mexicano de Tenis Mifel presentado por Cinemax,Juan Ignacio Londero,SoonWoo Kwon,,,0.0
+100091,2019-08-01T00:10Z,Abierto Mexicano de Tenis Mifel presentado por Cinemax,Ernests Gulbis,Diego Schwartzman,,,0.0
+100086,2019-08-01T01:55Z,Abierto Mexicano de Tenis Mifel presentado por Cinemax,Prajnesh Gunneswaran,Taylor Fritz,,,0.0
+100092,2019-08-01T01:55Z,Abierto Mexicano de Tenis Mifel presentado por Cinemax,Grigor Dimitrov,Guido Pella,,,0.0
+100090,2019-08-01T02:30Z,Abierto Mexicano de Tenis Mifel presentado por Cinemax,Lucas Pouille,Thanasi Kokkinakis,,,0.0
+100088,2019-08-01T03:25Z,Abierto Mexicano de Tenis Mifel presentado por Cinemax,Fabio Fognini,Marcel Granollers,,,1.0
+100096,2019-08-02T00:10Z,Abierto Mexicano de Tenis Mifel presentado por Cinemax,Mikhail Kukushkin,Diego Schwartzman,,,0.0
+100098,2019-08-02T01:25Z,Abierto Mexicano de Tenis Mifel presentado por Cinemax,SoonWoo Kwon,Guido Pella,,,0.0
+123394,2019-08-02T01:30Z,Abierto Mexicano de Tenis Mifel presentado por Cinemax,SoonWoo Kwon,Guido Pella,,,0.0
+100093,2019-08-02T02:05Z,Abierto Mexicano de Tenis Mifel presentado por Cinemax,Thanasi Kokkinakis,Radu Albot,,,0.0
+100094,2019-08-02T04:10Z,Abierto Mexicano de Tenis Mifel presentado por Cinemax,Fabio Fognini,Taylor Fritz,,,0.0
+100099,2019-08-03T02:05Z,Abierto Mexicano de Tenis Mifel presentado por Cinemax,Diego Schwartzman,Guido Pella,,,1.0
+122224,2019-08-03T03:30Z,Abierto Mexicano de Tenis Mifel presentado por Cinemax,Taylor Fritz,Radu Albot,,,1.0
+100097,2019-08-03T04:45Z,Abierto Mexicano de Tenis Mifel presentado por Cinemax,Taylor Fritz,Radu Albot,,,1.0
+100100,2019-08-04T03:35Z,Abierto Mexicano de Tenis Mifel presentado por Cinemax,Taylor Fritz,Diego Schwartzman,,,0.0
+122229,2019-08-04T03:35Z,Abierto Mexicano de Tenis Mifel presentado por Cinemax,Taylor Fritz,Diego Schwartzman,,,0.0
+100012,2019-07-29T09:10Z,Generali Open,Federico Delbonis,Lorenzo Sonego,,,0.0
+123565,2019-07-29T10:30Z,Generali Open,Roberto Carballes Baena,Hugo Dellien,,,1.0
+100016,2019-07-29T10:35Z,Generali Open,Roberto Carballes Baena,Hugo Dellien,,,1.0
+100018,2019-07-29T13:05Z,Generali Open,Martin Klizan,Matthias Bachinger,,,0.0
+100021,2019-07-29T16:20Z,Generali Open,Dennis Novak,Jurij Rodionov,,,1.0
+100022,2019-07-29T17:55Z,Generali Open,Jeremy Chardy,Marco Cecchinato,,,1.0
+100019,2019-07-30T09:05Z,Generali Open,Thomas Fabbiano,Jaume Munar,,,0.0
+100009,2019-07-30T09:10Z,Generali Open,Pablo Andujar,Leonardo Mayer,,,1.0
+100013,2019-07-30T09:10Z,Generali Open,Jozef Kovalik,Guillermo Garcia-Lopez,,,1.0
+100011,2019-07-30T11:40Z,Generali Open,Philipp Kohlschreiber,Richard Gasquet,,,1.0
+100014,2019-07-30T11:40Z,Generali Open,Pablo Carreno Busta,Casper Ruud,,,0.0
+100008,2019-07-30T13:05Z,Generali Open,Sebastian Ofner,Lucas Miedler,,,1.0
+100020,2019-07-30T13:10Z,Generali Open,Marton Fucsovics,Albert Ramos-Vinolas,,,0.0
+100029,2019-07-31T09:05Z,Generali Open,Jeremy Chardy,Dusan Lajovic,,,1.0
+100028,2019-07-31T09:10Z,Generali Open,Casper Ruud,Matthias Bachinger,,,1.0
+123211,2019-07-31T11:00Z,Generali Open,Albert Ramos-Vinolas,Jaume Munar,,,1.0
+100031,2019-07-31T11:15Z,Generali Open,Albert Ramos-Vinolas,Jaume Munar,,,1.0
+100030,2019-07-31T11:40Z,Generali Open,Dennis Novak,Pablo Cuevas,,,0.0
+123584,2019-07-31T12:30Z,Generali Open,Roberto Carballes Baena,Lorenzo Sonego,,,0.0
+100027,2019-07-31T14:00Z,Generali Open,Roberto Carballes Baena,Lorenzo Sonego,,,0.0
+100025,2019-07-31T15:15Z,Generali Open,Fernando Verdasco,Jozef Kovalik,,,1.0
+100026,2019-07-31T17:10Z,Generali Open,Philipp Kohlschreiber,Pablo Andujar,,,0.0
+100024,2019-07-31T17:40Z,Generali Open,Dominic Thiem,Sebastian Ofner,,,1.0
+123150,2019-08-01T10:30Z,Generali Open,Albert Ramos-Vinolas,Jeremy Chardy,,,1.0
+100033,2019-08-01T10:35Z,Generali Open,Albert Ramos-Vinolas,Jeremy Chardy,,,1.0
+100034,2019-08-01T11:25Z,Generali Open,Casper Ruud,Pablo Cuevas,,,1.0
+100032,2019-08-01T13:25Z,Generali Open,Fernando Verdasco,Lorenzo Sonego,,,0.0
+100035,2019-08-01T15:30Z,Generali Open,Dominic Thiem,Pablo Andujar,,,1.0
+100037,2019-08-02T11:40Z,Generali Open,Casper Ruud,Albert Ramos-Vinolas,,,0.0
+100036,2019-08-02T15:30Z,Generali Open,Dominic Thiem,Lorenzo Sonego,,,1.0
+100038,2019-08-03T13:40Z,Generali Open,Dominic Thiem,Albert Ramos-Vinolas,,,1.0
+99918,2019-07-29T17:05Z,Citi Open,Christina McHale,Anastasia Pavlyuchenkova,,,1.0
+99922,2019-07-29T17:05Z,Citi Open,Ons Jabeur,Iga Swiatek,,,0.0
+99919,2019-07-29T19:40Z,Citi Open,Wang Yafan,Lesia Tsurenko,,,0.0
+99917,2019-07-29T20:20Z,Citi Open,Anna Blinkova,Varvara Gracheva,,,0.0
+99923,2019-07-29T23:20Z,Citi Open,Jennifer Brady,Sofia Kenin,,,0.0
+99926,2019-07-30T00:40Z,Citi Open,Katerina Siniakova,Jessica Pegula,,,0.0
+99924,2019-07-30T00:50Z,Citi Open,Eugenie Bouchard,Lauren Davis,,,0.0
+99929,2019-07-30T00:50Z,Citi Open,Anna Kalinskaya,Nao Hibino,,,1.0
+99925,2019-07-30T17:05Z,Citi Open,Monica Puig,Allie Kiick,,,1.0
+99914,2019-07-30T18:05Z,Citi Open,Sloane Stephens,Rebecca Peterson,,,0.0
+99927,2019-07-30T18:50Z,Citi Open,Kristina Mladenovic,Shelby Rogers,,,1.0
+99915,2019-07-30T20:05Z,Citi Open,Zarina Diyas,Coco Gauff,,,1.0
+99916,2019-07-30T20:40Z,Citi Open,Sachia Vickery,Camila Giorgi,,,0.0
+99928,2019-07-30T22:20Z,Citi Open,Hailey Baptiste,Madison Keys,,,1.0
+99920,2019-07-31T00:10Z,Citi Open,Zhu Lin,Catherine McNally,,,0.0
+99921,2019-07-31T00:45Z,Citi Open,Su-Wei Hsieh,Kirsten Flipkens,,,1.0
+99935,2019-07-31T17:10Z,Citi Open,Jessica Pegula,Iga Swiatek,,,1.0
+99939,2019-07-31T19:45Z,Citi Open,Lauren Davis,Sofia Kenin,,,1.0
+99933,2019-07-31T22:40Z,Citi Open,Monica Puig,Anna Kalinskaya,,,0.0
+99934,2019-08-01T01:05Z,Citi Open,Kristina Mladenovic,Hailey Baptiste,,,1.0
+99931,2019-08-01T17:05Z,Citi Open,Rebecca Peterson,Camila Giorgi,,,0.0
+99938,2019-08-01T18:05Z,Citi Open,Catherine McNally,Christina McHale,,,1.0
+99932,2019-08-01T19:40Z,Citi Open,Zarina Diyas,Lesia Tsurenko,,,1.0
+99930,2019-08-02T00:15Z,Citi Open,Su-Wei Hsieh,Varvara Gracheva,,,1.0
+99941,2019-08-02T18:05Z,Citi Open,Jessica Pegula,Lauren Davis,,,1.0
+99942,2019-08-02T20:20Z,Citi Open,Anna Kalinskaya,Kristina Mladenovic,,,1.0
+99936,2019-08-02T22:30Z,Citi Open,Su-Wei Hsieh,Catherine McNally,,,0.0
+99937,2019-08-03T00:10Z,Citi Open,Camila Giorgi,Zarina Diyas,,,1.0
+99943,2019-08-03T17:05Z,Citi Open,Jessica Pegula,Anna Kalinskaya,,,1.0
+99940,2019-08-03T19:05Z,Citi Open,Camila Giorgi,Catherine McNally,,,1.0
+99944,2019-08-04T18:05Z,Citi Open,Camila Giorgi,Jessica Pegula,,,0.0
+99966,2019-07-29T17:10Z,Citi Open,Bjorn Fratangelo,Ivo Karlovic,,,1.0
+99946,2019-07-29T18:05Z,Citi Open,Denis Kudla,Tommy Paul,,,0.0
+99974,2019-07-29T19:30Z,Citi Open,Lloyd Harris,Ricardas Berankis,,,1.0
+99960,2019-07-29T19:55Z,Citi Open,Mikael Torpegaard,Marius Copil,,,0.0
+99976,2019-07-29T20:35Z,Citi Open,Brayden Schnur,Jo-Wilfried Tsonga,,,0.0
+99955,2019-07-29T22:40Z,Citi Open,Adrian Mannarino,Ilya Ivashka,,,1.0
+99965,2019-07-29T23:00Z,Citi Open,Alexander Bublik,Bradley Klahn,,,1.0
+99971,2019-07-30T00:45Z,Citi Open,Matthew Ebden,Tim Smyczek,,,0.0
+99951,2019-07-30T02:00Z,Citi Open,Hubert Hurkacz,Donald Young,,,1.0
+99950,2019-07-30T02:15Z,Citi Open,Malek Jaziri,Marc Polmans,,,0.0
+99962,2019-07-30T17:10Z,Citi Open,Daniel Evans,Yoshihito Nishioka,,,0.0
+99957,2019-07-30T17:10Z,Citi Open,Miomir Kecmanovic,Alexei Popyrin,,,1.0
+99963,2019-07-30T18:30Z,Citi Open,Reilly Opelka,Christopher Eubanks,,,1.0
+99947,2019-07-30T18:55Z,Citi Open,Jack Sock,Jordan Thompson,,,0.0
+99990,2019-07-30T20:35Z,Citi Open,Frances Tiafoe,Alexander Bublik,,,1.0
+99995,2019-07-30T20:45Z,Citi Open,Kyle Edmund,Lloyd Harris,,,1.0
+99985,2019-07-30T21:45Z,Citi Open,Bjorn Fratangelo,Daniil Medvedev,,,0.0
+99970,2019-07-30T22:05Z,Citi Open,Andrey Rublev,Peter Gojowczyk,,,0.0
+99991,2019-07-30T23:10Z,Citi Open,Jo-Wilfried Tsonga,Karen Khachanov,,,1.0
+99989,2019-07-30T23:15Z,Citi Open,Marin Cilic,Marius Copil,,,1.0
+99959,2019-07-31T01:20Z,Citi Open,Thai-Son Kwiatkowski,Nick Kyrgios,,,0.0
+99980,2019-07-31T17:10Z,Citi Open,Norbert Gombos,Adrian Mannarino,,,1.0
+99984,2019-07-31T17:10Z,Citi Open,Miomir Kecmanovic,Pierre-Hugues Herbert,,,1.0
+99982,2019-07-31T18:10Z,Citi Open,Hubert Hurkacz,John Isner,,,0.0
+99987,2019-07-31T19:10Z,Citi Open,Reilly Opelka,Felix Auger-Aliassime,,,0.0
+99979,2019-07-31T19:40Z,Citi Open,Benoit Paire,Marc Polmans,,,1.0
+99988,2019-07-31T21:15Z,Citi Open,Milos Raonic,Tim Smyczek,,,1.0
+99986,2019-07-31T22:30Z,Citi Open,Peter Gojowczyk,Alex de Minaur,,,1.0
+99981,2019-07-31T22:40Z,Citi Open,Gilles Simon,Nick Kyrgios,,,0.0
+99975,2019-07-31T23:20Z,Citi Open,Stefanos Tsitsipas,Tommy Paul,,,1.0
+99983,2019-08-01T00:20Z,Citi Open,Yoshihito Nishioka,David Goffin,,,1.0
+99977,2019-08-01T00:30Z,Citi Open,Jordan Thompson,Jan-Lennard Struff,,,1.0
+100001,2019-08-01T18:05Z,Citi Open,Kyle Edmund,Jo-Wilfried Tsonga,,,1.0
+99999,2019-08-01T20:45Z,Citi Open,Marin Cilic,Felix Auger-Aliassime,,,1.0
+99998,2019-08-01T20:50Z,Citi Open,Milos Raonic,Peter Gojowczyk,,,0.0
+99993,2019-08-01T21:50Z,Citi Open,Norbert Gombos,Miomir Kecmanovic,,,1.0
+100000,2019-08-01T22:30Z,Citi Open,Frances Tiafoe,Daniil Medvedev,,,0.0
+99994,2019-08-01T23:05Z,Citi Open,Stefanos Tsitsipas,Jordan Thompson,,,1.0
+99992,2019-08-02T00:05Z,Citi Open,Benoit Paire,John Isner,,,1.0
+99996,2019-08-02T01:00Z,Citi Open,Nick Kyrgios,Yoshihito Nishioka,,,1.0
+100007,2019-08-02T18:05Z,Citi Open,Peter Gojowczyk,Kyle Edmund,,,1.0
+100005,2019-08-02T20:25Z,Citi Open,Marin Cilic,Daniil Medvedev,,,0.0
+99997,2019-08-02T23:05Z,Citi Open,Stefanos Tsitsipas,Benoit Paire,,,1.0
+100002,2019-08-03T00:45Z,Citi Open,Norbert Gombos,Nick Kyrgios,,,0.0
+100004,2019-08-03T23:05Z,Citi Open,Stefanos Tsitsipas,Nick Kyrgios,,,0.0
+100003,2019-08-04T01:40Z,Citi Open,Daniil Medvedev,Peter Gojowczyk,,,1.0
+100006,2019-08-04T21:10Z,Citi Open,Nick Kyrgios,Daniil Medvedev,,,1.0

@@ -1,0 +1,506 @@
+id,date,event,home,away,hs,as,res
+123777,2018-06-25T12:10Z,Wimbledon,Daniel Elahi Galan,Nicolas Mahut,,,0.0
+120262,2018-06-25T12:25Z,Wimbledon,Filip Peliwo,Ernests Gulbis,,,0.0
+120468,2018-06-25T14:05Z,Wimbledon,Dustin Brown,Stefan Kozlov,,,0.0
+123445,2018-06-26T15:35Z,Wimbledon,Jason Kubler,Adam Pavlasek,,,1.0
+92233,2018-07-02T10:40Z,Wimbledon,Jan-Lennard Struff,Leonardo Mayer,,,1.0
+92236,2018-07-02T10:40Z,Wimbledon,Sam Querrey,Jordan Thompson,,,1.0
+92241,2018-07-02T10:40Z,Wimbledon,Sergiy Stakhovsky,João Sousa,,,1.0
+92243,2018-07-02T10:40Z,Wimbledon,Philipp Kohlschreiber,Evgeny Donskoy,,,1.0
+92245,2018-07-02T10:40Z,Wimbledon,Marin Cilic,Yoshihito Nishioka,,,1.0
+92252,2018-07-02T10:40Z,Wimbledon,Nicolas Jarry,Filip Krajinovic,,,1.0
+92253,2018-07-02T10:40Z,Wimbledon,Lucas Pouille,Denis Kudla,,,1.0
+92244,2018-07-02T10:45Z,Wimbledon,Gilles Muller,Michael Mmoh,,,1.0
+92250,2018-07-02T10:45Z,Wimbledon,Peter Polansky,Dennis Novak,,,0.0
+92231,2018-07-02T12:05Z,Wimbledon,Roger Federer,Dusan Lajovic,,,1.0
+92248,2018-07-02T12:25Z,Wimbledon,Jason Kubler,Guido Pella,,,0.0
+123430,2018-07-02T12:30Z,Wimbledon,Jason Kubler,Guido Pella,,,0.0
+92247,2018-07-02T12:55Z,Wimbledon,Ricardas Berankis,Mackenzie McDonald,,,0.0
+92234,2018-07-02T13:00Z,Wimbledon,Ivo Karlovic,Mikhail Youzhny,,,1.0
+92238,2018-07-02T13:05Z,Wimbledon,Guillermo Garcia-Lopez,Gastao Elias,,,1.0
+92239,2018-07-02T13:05Z,Wimbledon,Daniil Medvedev,Borna Coric,,,1.0
+92251,2018-07-02T13:35Z,Wimbledon,Liam Broady,Milos Raonic,,,0.0
+92258,2018-07-02T13:50Z,Wimbledon,John Isner,Yannick Maden,,,1.0
+92262,2018-07-02T14:30Z,Wimbledon,Yuki Bhambri,Thomas Fabbiano,,,0.0
+92246,2018-07-02T14:55Z,Wimbledon,John-Patrick Smith,Andreas Seppi,,,0.0
+92254,2018-07-02T15:00Z,Wimbledon,John Millman,Stefano Travaglia,,,1.0
+92264,2018-07-02T15:05Z,Wimbledon,Stan Wawrinka,Grigor Dimitrov,,,1.0
+92256,2018-07-02T15:10Z,Wimbledon,Stefanos Tsitsipas,Gregoire Barrere,,,1.0
+92242,2018-07-02T15:15Z,Wimbledon,Gael Monfils,Richard Gasquet,,,1.0
+92249,2018-07-02T15:20Z,Wimbledon,Norbert Gombos,Kevin Anderson,,,0.0
+92263,2018-07-02T15:25Z,Wimbledon,Malek Jaziri,Jared Donaldson,,,0.0
+92255,2018-07-02T15:45Z,Wimbledon,Steve Johnson,Ruben Bemelmans,,,0.0
+92235,2018-07-02T15:50Z,Wimbledon,Adrian Mannarino,Cristian Garin,,,1.0
+92240,2018-07-02T15:55Z,Wimbledon,Laslo Djere,Paolo Lorenzi,,,0.0
+92237,2018-07-02T16:05Z,Wimbledon,Ryan Harrison,Roberto Carballes Baena,,,1.0
+92259,2018-07-02T17:00Z,Wimbledon,Aljaz Bedene,Cameron Norrie,,,1.0
+92232,2018-07-02T17:10Z,Wimbledon,Lukas Lacko,Benjamin Bonzi,,,1.0
+92271,2018-07-03T10:35Z,Wimbledon,Bernard Tomic,Hubert Hurkacz,,,1.0
+92274,2018-07-03T10:35Z,Wimbledon,Ernests Gulbis,Jay Clarke,,,1.0
+92275,2018-07-03T10:35Z,Wimbledon,Christian Harrison,Kei Nishikori,,,0.0
+92289,2018-07-03T10:35Z,Wimbledon,Jiri Vesely,Florian Mayer,,,1.0
+92278,2018-07-03T10:40Z,Wimbledon,Damir Dzumhur,Maximilian Marterer,,,1.0
+92281,2018-07-03T10:40Z,Wimbledon,Juan Martin del Potro,Peter Gojowczyk,,,1.0
+92283,2018-07-03T10:40Z,Wimbledon,Feliciano Lopez,Federico Delbonis,,,1.0
+92257,2018-07-03T12:00Z,Wimbledon,Radu Albot,Pablo Carreno Busta,,,1.0
+92266,2018-07-03T12:10Z,Wimbledon,Kyle Edmund,Alex Bolt,,,1.0
+92273,2018-07-03T12:15Z,Wimbledon,Nick Kyrgios,Denis Istomin,,,1.0
+92267,2018-07-03T12:25Z,Wimbledon,Yuichi Sugita,Bradley Klahn,,,0.0
+92284,2018-07-03T12:25Z,Wimbledon,Diego Schwartzman,Mirza Basic,,,1.0
+92277,2018-07-03T12:30Z,Wimbledon,Lorenzo Sonego,Taylor Fritz,,,0.0
+92269,2018-07-03T12:45Z,Wimbledon,Marius Copil,Robin Haase,,,0.0
+92276,2018-07-03T12:45Z,Wimbledon,James Duckworth,Alexander Zverev,,,0.0
+92268,2018-07-03T13:00Z,Wimbledon,Frances Tiafoe,Fernando Verdasco,,,1.0
+92285,2018-07-03T13:00Z,Wimbledon,Pablo Cuevas,Simone Bolelli,,,0.0
+92286,2018-07-03T13:45Z,Wimbledon,Albert Ramos-Vinolas,Stephane Robert,,,0.0
+123235,2018-07-03T13:45Z,Wimbledon,Albert Ramos-Vinolas,Stephane Robert,,,0.0
+92293,2018-07-03T13:50Z,Wimbledon,Marco Cecchinato,Alex de Minaur,,,0.0
+92291,2018-07-03T13:55Z,Wimbledon,Dudi Sela,Rafael Nadal,,,0.0
+92290,2018-07-03T14:10Z,Wimbledon,Taro Daniel,Fabio Fognini,,,0.0
+92260,2018-07-03T14:15Z,Wimbledon,David Ferrer,Karen Khachanov,,,0.0
+92292,2018-07-03T14:20Z,Wimbledon,Vasek Pospisil,Mikhail Kukushkin,,,0.0
+92288,2018-07-03T14:25Z,Wimbledon,Matthew Ebden,David Goffin,,,1.0
+92261,2018-07-03T14:40Z,Wimbledon,Dominic Thiem,Marcos Baghdatis,,,0.0
+92280,2018-07-03T15:05Z,Wimbledon,Jack Sock,Matteo Berrettini,,,0.0
+92294,2018-07-03T15:25Z,Wimbledon,Pierre-Hugues Herbert,Mischa Zverev,,,1.0
+92272,2018-07-03T15:30Z,Wimbledon,Guido Andreozzi,Horacio Zeballos,,,0.0
+92287,2018-07-03T15:55Z,Wimbledon,Gilles Simon,Nikoloz Basilashvili,,,1.0
+92265,2018-07-03T16:05Z,Wimbledon,Julien Benneteau,Marton Fucsovics,,,1.0
+92270,2018-07-03T16:45Z,Wimbledon,Tennys Sandgren,Novak Djokovic,,,0.0
+92279,2018-07-03T16:45Z,Wimbledon,Benoit Paire,Jason Jung,,,1.0
+92282,2018-07-03T17:00Z,Wimbledon,Jeremy Chardy,Denis Shapovalov,,,0.0
+92304,2018-07-04T10:40Z,Wimbledon,Lucas Pouille,Dennis Novak,,,0.0
+92307,2018-07-04T10:40Z,Wimbledon,John Millman,Milos Raonic,,,0.0
+92297,2018-07-04T12:10Z,Wimbledon,Paolo Lorenzi,Gael Monfils,,,0.0
+92299,2018-07-04T12:15Z,Wimbledon,Guillermo Garcia-Lopez,Daniil Medvedev,,,0.0
+92300,2018-07-04T12:15Z,Wimbledon,Sam Querrey,Sergiy Stakhovsky,,,1.0
+92305,2018-07-04T12:20Z,Wimbledon,Mackenzie McDonald,Nicolas Jarry,,,1.0
+92313,2018-07-04T12:25Z,Wimbledon,Aljaz Bedene,Radu Albot,,,0.0
+92298,2018-07-04T12:30Z,Wimbledon,Adrian Mannarino,Ryan Harrison,,,1.0
+92296,2018-07-04T13:30Z,Wimbledon,Ivo Karlovic,Jan-Lennard Struff,,,0.0
+92295,2018-07-04T13:40Z,Wimbledon,Roger Federer,Lukas Lacko,,,1.0
+92309,2018-07-05T10:40Z,Wimbledon,Julien Benneteau,Frances Tiafoe,,,0.0
+92316,2018-07-05T10:40Z,Wimbledon,Matteo Berrettini,Gilles Simon,,,0.0
+92323,2018-07-05T10:40Z,Wimbledon,Alex de Minaur,Pierre-Hugues Herbert,,,1.0
+92302,2018-07-05T12:00Z,Wimbledon,Philipp Kohlschreiber,Gilles Muller,,,1.0
+92301,2018-07-05T12:05Z,Wimbledon,Marin Cilic,Guido Pella,,,0.0
+92327,2018-07-05T12:10Z,Wimbledon,Mikhail Kukushkin,Rafael Nadal,,,0.0
+92312,2018-07-05T12:15Z,Wimbledon,Stefanos Tsitsipas,Jared Donaldson,,,1.0
+92306,2018-07-05T12:20Z,Wimbledon,Andreas Seppi,Kevin Anderson,,,0.0
+92308,2018-07-05T12:25Z,Wimbledon,Thomas Fabbiano,Stan Wawrinka,,,1.0
+92303,2018-07-05T12:50Z,Wimbledon,John Isner,Ruben Bemelmans,,,1.0
+92321,2018-07-05T13:00Z,Wimbledon,Nick Kyrgios,Robin Haase,,,1.0
+92311,2018-07-05T13:10Z,Wimbledon,Horacio Zeballos,Novak Djokovic,,,0.0
+92314,2018-07-05T13:35Z,Wimbledon,Marcos Baghdatis,Karen Khachanov,,,0.0
+92325,2018-07-05T14:00Z,Wimbledon,Stephane Robert,Matthew Ebden,,,0.0
+92322,2018-07-05T14:35Z,Wimbledon,Diego Schwartzman,Jiri Vesely,,,0.0
+92318,2018-07-05T14:45Z,Wimbledon,Damir Dzumhur,Ernests Gulbis,,,0.0
+92320,2018-07-05T14:50Z,Wimbledon,Benoit Paire,Denis Shapovalov,,,1.0
+92319,2018-07-05T15:00Z,Wimbledon,Bernard Tomic,Kei Nishikori,,,0.0
+92317,2018-07-05T15:50Z,Wimbledon,Juan Martin del Potro,Feliciano Lopez,,,1.0
+92310,2018-07-05T16:30Z,Wimbledon,Kyle Edmund,Bradley Klahn,,,1.0
+92324,2018-07-05T17:05Z,Wimbledon,Simone Bolelli,Fabio Fognini,,,0.0
+92335,2018-07-06T10:45Z,Wimbledon,Philipp Kohlschreiber,Kevin Anderson,,,0.0
+92332,2018-07-06T12:05Z,Wimbledon,Sam Querrey,Gael Monfils,,,0.0
+92315,2018-07-06T12:10Z,Wimbledon,Taylor Fritz,Alexander Zverev,,,0.0
+122190,2018-07-06T12:10Z,Wimbledon,Taylor Fritz,Alexander Zverev,,,0.0
+92328,2018-07-06T14:40Z,Wimbledon,Adrian Mannarino,Daniil Medvedev,,,1.0
+92334,2018-07-06T14:40Z,Wimbledon,Stefanos Tsitsipas,Thomas Fabbiano,,,1.0
+92330,2018-07-06T16:25Z,Wimbledon,John Isner,Radu Albot,,,1.0
+92326,2018-07-06T16:45Z,Wimbledon,Roger Federer,Jan-Lennard Struff,,,1.0
+92331,2018-07-06T17:15Z,Wimbledon,Guido Pella,Mackenzie McDonald,,,0.0
+92340,2018-07-07T10:40Z,Wimbledon,Juan Martin del Potro,Benoit Paire,,,1.0
+92339,2018-07-07T10:45Z,Wimbledon,Gilles Simon,Matthew Ebden,,,1.0
+92343,2018-07-07T12:20Z,Wimbledon,Alex de Minaur,Rafael Nadal,,,0.0
+92333,2018-07-07T12:30Z,Wimbledon,Dennis Novak,Milos Raonic,,,0.0
+92346,2018-07-07T13:25Z,Wimbledon,Jiri Vesely,Fabio Fognini,,,1.0
+92329,2018-07-07T14:45Z,Wimbledon,Karen Khachanov,Frances Tiafoe,,,1.0
+92338,2018-07-07T14:50Z,Wimbledon,Ernests Gulbis,Alexander Zverev,,,1.0
+92337,2018-07-07T16:05Z,Wimbledon,Kyle Edmund,Novak Djokovic,,,0.0
+92336,2018-07-07T18:25Z,Wimbledon,Nick Kyrgios,Kei Nishikori,,,0.0
+92347,2018-07-09T12:10Z,Wimbledon,Roger Federer,Adrian Mannarino,,,1.0
+92345,2018-07-09T12:25Z,Wimbledon,Mackenzie McDonald,Milos Raonic,,,0.0
+92354,2018-07-09T12:40Z,Wimbledon,Kei Nishikori,Ernests Gulbis,,,1.0
+92342,2018-07-09T13:50Z,Wimbledon,John Isner,Stefanos Tsitsipas,,,1.0
+92341,2018-07-09T14:15Z,Wimbledon,Gael Monfils,Kevin Anderson,,,0.0
+92352,2018-07-09T15:40Z,Wimbledon,Jiri Vesely,Rafael Nadal,,,0.0
+92344,2018-07-09T18:00Z,Wimbledon,Karen Khachanov,Novak Djokovic,,,0.0
+92350,2018-07-10T12:15Z,Wimbledon,Juan Martin del Potro,Gilles Simon,,,1.0
+92348,2018-07-11T12:10Z,Wimbledon,Novak Djokovic,Kei Nishikori,,,1.0
+92351,2018-07-11T12:10Z,Wimbledon,Roger Federer,Kevin Anderson,,,0.0
+92349,2018-07-11T15:00Z,Wimbledon,Juan Martin del Potro,Rafael Nadal,,,0.0
+92353,2018-07-11T16:45Z,Wimbledon,Milos Raonic,John Isner,,,0.0
+92355,2018-07-13T12:10Z,Wimbledon,Kevin Anderson,John Isner,,,1.0
+92357,2018-07-14T12:15Z,Wimbledon,Novak Djokovic,Rafael Nadal,,,1.0
+92356,2018-07-15T13:10Z,Wimbledon,Kevin Anderson,Novak Djokovic,,,0.0
+124077,2018-06-26T11:30Z,Wimbledon,Lesley Pattinama Kerkhove,Marie Bouzkova,,,0.0
+125638,2018-06-26T13:00Z,Wimbledon,Alexandra Cadanțu-Ignatik,Elena-Gabriela Ruse,,,0.0
+92410,2018-07-02T10:35Z,Wimbledon,Evgeniya Rodina,Antonia Lottner,,,1.0
+92394,2018-07-02T10:40Z,Wimbledon,Karolina Pliskova,Harriet Dart,,,1.0
+92396,2018-07-02T10:40Z,Wimbledon,Alexandra Dulgheru,Kristyna Pliskova,,,1.0
+92400,2018-07-02T10:40Z,Wimbledon,Zhang Shuai,Andrea Petkovic,,,0.0
+92404,2018-07-02T10:40Z,Wimbledon,Mona Barthel,Yanina Wickmayer,,,0.0
+92412,2018-07-02T10:40Z,Wimbledon,Magdalena Rybarikova,Sorana Cirstea,,,0.0
+92408,2018-07-02T12:10Z,Wimbledon,Donna Vekic,Sloane Stephens,,,1.0
+92417,2018-07-02T12:15Z,Wimbledon,Camila Giorgi,Anastasija Sevastova,,,1.0
+92416,2018-07-02T12:25Z,Wimbledon,Ajla Tomljanovic,Madison Keys,,,0.0
+92419,2018-07-02T12:35Z,Wimbledon,Petra Martic,Ekaterina Makarova,,,0.0
+92395,2018-07-02T12:50Z,Wimbledon,Johanna Larsson,Venus Williams,,,0.0
+92411,2018-07-02T12:50Z,Wimbledon,Luksika Kumkhum,Bernarda Pera,,,1.0
+92392,2018-07-02T13:05Z,Wimbledon,Ekaterina Alexandrova,Victoria Azarenka,,,0.0
+92403,2018-07-02T13:30Z,Wimbledon,Viktoria Hruncakova,Rebecca Peterson,,,0.0
+132228,2018-07-02T13:30Z,Wimbledon,Viktoria Hruncakova,Rebecca Peterson,,,0.0
+92420,2018-07-02T13:45Z,Wimbledon,Varvara Lepchenko,Caroline Wozniacki,,,0.0
+92390,2018-07-02T14:20Z,Wimbledon,Kiki Bertens,Barbora Stefkova,,,1.0
+92397,2018-07-02T14:25Z,Wimbledon,Wang Yafan,Anna Blinkova,,,0.0
+92414,2018-07-02T14:25Z,Wimbledon,Aleksandra Krunic,Madison Brengle,,,0.0
+92409,2018-07-02T15:30Z,Wimbledon,Arantxa Rus,Serena Williams,,,0.0
+92393,2018-07-02T15:40Z,Wimbledon,Irina-Camelia Begu,Katie Swan,,,0.0
+92407,2018-07-02T16:05Z,Wimbledon,Anna Karolina Schmiedlova,Kristina Mladenovic,,,0.0
+123937,2018-07-02T16:05Z,Wimbledon,Anna Karolina Schmiedlova,Kristina Mladenovic,,,0.0
+92415,2018-07-02T16:10Z,Wimbledon,Coco Vandeweghe,Katerina Siniakova,,,0.0
+92401,2018-07-02T16:30Z,Wimbledon,Lesia Tsurenko,Timea Babos,,,1.0
+92418,2018-07-02T17:15Z,Wimbledon,Agnieszka Radwanska,Elena-Gabriela Ruse,,,1.0
+92402,2018-07-02T17:35Z,Wimbledon,Svetlana Kuznetsova,Barbora Strycova,,,0.0
+92406,2018-07-02T17:35Z,Wimbledon,Tereza Smitkova,Viktoriya Tomova,,,0.0
+92399,2018-07-02T17:50Z,Wimbledon,Julia Goerges,Monica Puig,,,1.0
+92405,2018-07-02T17:55Z,Wimbledon,Elina Svitolina,Tatjana Maria,,,0.0
+92413,2018-07-02T17:55Z,Wimbledon,Viktorija Golubic,Ons Jabeur,,,0.0
+118523,2018-07-02T18:00Z,Wimbledon,Kateryna Volodko,Lucie Safarova,,,0.0
+92391,2018-07-02T18:15Z,Wimbledon,Aryna Sabalenka,Mihaela Buzarnescu,,,0.0
+92422,2018-07-02T18:15Z,Wimbledon,Kateryna Volodko,Lucie Safarova,,,0.0
+92360,2018-07-03T10:35Z,Wimbledon,Ana Bogdan,Lara Arruabarrena,,,0.0
+92379,2018-07-03T10:35Z,Wimbledon,Ashleigh Barty,Stefanie Voegele,,,1.0
+92361,2018-07-03T10:40Z,Wimbledon,Johanna Konta,Natalia Vikhlyantseva,,,1.0
+92363,2018-07-03T10:40Z,Wimbledon,Alize Cornet,Dominika Cibulkova,,,0.0
+92364,2018-07-03T10:40Z,Wimbledon,Su-Wei Hsieh,Anastasia Pavlyuchenkova,,,1.0
+92370,2018-07-03T10:40Z,Wimbledon,Peng Shuai,Samantha Stosur,,,0.0
+92373,2018-07-03T10:40Z,Wimbledon,Daria Saville,Caroline Dolehide,,,1.0
+92384,2018-07-03T10:40Z,Wimbledon,Ana Konjuh,Claire Liu,,,0.0
+92372,2018-07-03T12:05Z,Wimbledon,Garbine Muguruza,Naomi Broady,,,1.0
+92398,2018-07-03T12:20Z,Wimbledon,Vera Lapko,Christina McHale,,,1.0
+92378,2018-07-03T12:40Z,Wimbledon,Denisa Satralova,Anett Kontaveit,,,0.0
+92381,2018-07-03T12:45Z,Wimbledon,Angelique Kerber,Vera Zvonareva,,,1.0
+92376,2018-07-03T13:00Z,Wimbledon,Alison Van Uytvanck,Polona Hercog,,,1.0
+92380,2018-07-03T13:05Z,Wimbledon,Jennifer Brady,Kateryna Baindl,,,1.0
+92377,2018-07-03T13:25Z,Wimbledon,Gabriella Taylor,Eugenie Bouchard,,,0.0
+92374,2018-07-03T14:10Z,Wimbledon,Aliaksandra Sasnovich,Petra Kvitova,,,1.0
+92358,2018-07-03T14:40Z,Wimbledon,Zheng Saisai,Wang Qiang,,,1.0
+92371,2018-07-03T14:55Z,Wimbledon,Pauline Parmentier,Taylor Townsend,,,0.0
+92382,2018-07-03T15:20Z,Wimbledon,Katie Boulter,Veronica Cepede Royg,,,1.0
+92365,2018-07-03T15:50Z,Wimbledon,Sofia Kenin,Maria Sakkari,,,1.0
+92359,2018-07-03T16:05Z,Wimbledon,Simona Halep,Kurumi Nara,,,1.0
+92389,2018-07-03T16:15Z,Wimbledon,Belinda Bencic,Caroline Garcia,,,1.0
+92388,2018-07-03T16:20Z,Wimbledon,Alison Riske-Amritraj,Mariana Duque-Marino,,,1.0
+122071,2018-07-03T16:30Z,Wimbledon,Alison Riske-Amritraj,Mariana Duque-Marino,,,1.0
+92386,2018-07-03T16:35Z,Wimbledon,Monica Niculescu,Naomi Osaka,,,0.0
+92367,2018-07-03T16:55Z,Wimbledon,Vitalia Diatchenko,Maria Sharapova,,,1.0
+92387,2018-07-03T17:00Z,Wimbledon,Sara Sorribes Tormo,Kaia Kanepi,,,1.0
+92369,2018-07-03T17:15Z,Wimbledon,Danielle Collins,Elise Mertens,,,0.0
+92375,2018-07-03T17:20Z,Wimbledon,Magda Linette,Yulia Putintseva,,,0.0
+92385,2018-07-03T17:35Z,Wimbledon,Carla Suarez Navarro,Carina Witthoeft,,,1.0
+92366,2018-07-03T17:40Z,Wimbledon,Jelena Ostapenko,Katy Dunne,,,1.0
+92383,2018-07-03T18:00Z,Wimbledon,Jana Fett,Daria Kasatkina,,,0.0
+92368,2018-07-03T18:05Z,Wimbledon,Heather Watson,Kirsten Flipkens,,,0.0
+92362,2018-07-03T18:10Z,Wimbledon,Marketa Vondrousova,Sachia Vickery,,,0.0
+92444,2018-07-04T10:40Z,Wimbledon,Rebecca Peterson,Donna Vekic,,,0.0
+92446,2018-07-04T10:40Z,Wimbledon,Andrea Petkovic,Yanina Wickmayer,,,0.0
+92452,2018-07-04T10:40Z,Wimbledon,Luksika Kumkhum,Madison Keys,,,0.0
+92454,2018-07-04T10:40Z,Wimbledon,Sorana Cirstea,Evgeniya Rodina,,,0.0
+92437,2018-07-04T10:45Z,Wimbledon,Katie Swan,Mihaela Buzarnescu,,,0.0
+92439,2018-07-04T12:05Z,Wimbledon,Karolina Pliskova,Victoria Azarenka,,,1.0
+92438,2018-07-04T12:10Z,Wimbledon,Alexandra Dulgheru,Venus Williams,,,0.0
+92448,2018-07-04T13:35Z,Wimbledon,Agnieszka Radwanska,Lucie Safarova,,,0.0
+92440,2018-07-04T13:45Z,Wimbledon,Kiki Bertens,Anna Blinkova,,,1.0
+92450,2018-07-04T14:00Z,Wimbledon,Madison Brengle,Camila Giorgi,,,0.0
+92451,2018-07-04T14:30Z,Wimbledon,Ekaterina Makarova,Caroline Wozniacki,,,1.0
+92447,2018-07-04T15:20Z,Wimbledon,Julia Goerges,Vera Lapko,,,1.0
+92443,2018-07-04T15:30Z,Wimbledon,Viktoriya Tomova,Serena Williams,,,0.0
+92445,2018-07-04T16:55Z,Wimbledon,Tatjana Maria,Kristina Mladenovic,,,0.0
+92424,2018-07-05T10:40Z,Wimbledon,Daria Saville,Samantha Stosur,,,1.0
+92430,2018-07-05T10:40Z,Wimbledon,Angelique Kerber,Claire Liu,,,1.0
+92434,2018-07-05T10:40Z,Wimbledon,Ashleigh Barty,Eugenie Bouchard,,,1.0
+92435,2018-07-05T10:40Z,Wimbledon,Katie Boulter,Naomi Osaka,,,0.0
+92442,2018-07-05T10:40Z,Wimbledon,Lesia Tsurenko,Barbora Strycova,,,0.0
+92453,2018-07-05T10:45Z,Wimbledon,Katerina Siniakova,Ons Jabeur,,,1.0
+92423,2018-07-05T12:55Z,Wimbledon,Lara Arruabarrena,Su-Wei Hsieh,,,0.0
+92432,2018-07-05T13:00Z,Wimbledon,Carla Suarez Navarro,Sara Sorribes Tormo,,,1.0
+92428,2018-07-05T13:20Z,Wimbledon,Sachia Vickery,Elise Mertens,,,0.0
+92433,2018-07-05T13:25Z,Wimbledon,Yulia Putintseva,Daria Kasatkina,,,0.0
+92441,2018-07-05T13:25Z,Wimbledon,Alison Riske-Amritraj,Belinda Bencic,,,0.0
+121971,2018-07-05T13:25Z,Wimbledon,Alison Riske-Amritraj,Belinda Bencic,,,0.0
+92421,2018-07-05T14:15Z,Wimbledon,Simona Halep,Zheng Saisai,,,1.0
+92429,2018-07-05T14:20Z,Wimbledon,Sofia Kenin,Vitalia Diatchenko,,,0.0
+92426,2018-07-05T14:50Z,Wimbledon,Johanna Konta,Dominika Cibulkova,,,0.0
+92427,2018-07-05T16:15Z,Wimbledon,Taylor Townsend,Aliaksandra Sasnovich,,,0.0
+92436,2018-07-05T16:25Z,Wimbledon,Jennifer Brady,Anett Kontaveit,,,0.0
+92425,2018-07-05T17:20Z,Wimbledon,Jelena Ostapenko,Kirsten Flipkens,,,1.0
+92431,2018-07-05T18:05Z,Wimbledon,Garbine Muguruza,Alison Van Uytvanck,,,0.0
+92465,2018-07-06T10:40Z,Wimbledon,Evgeniya Rodina,Madison Keys,,,1.0
+92473,2018-07-06T10:40Z,Wimbledon,Lucie Safarova,Ekaterina Makarova,,,0.0
+92474,2018-07-06T10:45Z,Wimbledon,Katerina Siniakova,Camila Giorgi,,,0.0
+92463,2018-07-06T13:10Z,Wimbledon,Julia Goerges,Barbora Strycova,,,1.0
+92467,2018-07-06T13:10Z,Wimbledon,Yanina Wickmayer,Donna Vekic,,,0.0
+92462,2018-07-06T13:25Z,Wimbledon,Kiki Bertens,Venus Williams,,,1.0
+92466,2018-07-06T14:35Z,Wimbledon,Kristina Mladenovic,Serena Williams,,,0.0
+92464,2018-07-06T16:20Z,Wimbledon,Karolina Pliskova,Mihaela Buzarnescu,,,1.0
+92456,2018-07-07T10:35Z,Wimbledon,Ashleigh Barty,Daria Kasatkina,,,0.0
+92459,2018-07-07T10:40Z,Wimbledon,Alison Van Uytvanck,Anett Kontaveit,,,1.0
+92449,2018-07-07T12:05Z,Wimbledon,Simona Halep,Su-Wei Hsieh,,,0.0
+92458,2018-07-07T12:05Z,Wimbledon,Jelena Ostapenko,Vitalia Diatchenko,,,1.0
+92461,2018-07-07T13:05Z,Wimbledon,Carla Suarez Navarro,Belinda Bencic,,,0.0
+92460,2018-07-07T13:25Z,Wimbledon,Dominika Cibulkova,Elise Mertens,,,1.0
+92455,2018-07-07T13:50Z,Wimbledon,Daria Saville,Aliaksandra Sasnovich,,,0.0
+92457,2018-07-07T14:45Z,Wimbledon,Angelique Kerber,Naomi Osaka,,,1.0
+92468,2018-07-09T10:40Z,Wimbledon,Su-Wei Hsieh,Dominika Cibulkova,,,0.0
+92469,2018-07-09T10:40Z,Wimbledon,Karolina Pliskova,Kiki Bertens,,,0.0
+92471,2018-07-09T10:40Z,Wimbledon,Jelena Ostapenko,Aliaksandra Sasnovich,,,1.0
+92477,2018-07-09T10:40Z,Wimbledon,Camila Giorgi,Ekaterina Makarova,,,1.0
+92472,2018-07-09T12:10Z,Wimbledon,Angelique Kerber,Belinda Bencic,,,1.0
+92476,2018-07-09T12:15Z,Wimbledon,Julia Goerges,Donna Vekic,,,1.0
+92470,2018-07-09T12:20Z,Wimbledon,Alison Van Uytvanck,Daria Kasatkina,,,0.0
+92475,2018-07-09T14:15Z,Wimbledon,Serena Williams,Evgeniya Rodina,,,1.0
+92478,2018-07-10T12:05Z,Wimbledon,Daria Kasatkina,Angelique Kerber,,,0.0
+92479,2018-07-10T12:10Z,Wimbledon,Dominika Cibulkova,Jelena Ostapenko,,,0.0
+92481,2018-07-10T13:45Z,Wimbledon,Kiki Bertens,Julia Goerges,,,0.0
+92480,2018-07-10T13:55Z,Wimbledon,Serena Williams,Camila Giorgi,,,1.0
+92483,2018-07-12T12:05Z,Wimbledon,Jelena Ostapenko,Angelique Kerber,,,0.0
+92482,2018-07-12T14:00Z,Wimbledon,Julia Goerges,Serena Williams,,,0.0
+92484,2018-07-14T15:15Z,Wimbledon,Angelique Kerber,Serena Williams,,,1.0
+124106,2018-07-14T13:00Z,Bucharest Open,Reka Luca Jani,Cagla Buyukakcay,,,0.0
+125666,2018-07-14T13:50Z,Bucharest Open,Alexandra Cadanțu-Ignatik,Panna Udvardy,,,1.0
+125645,2018-07-15T12:30Z,Bucharest Open,Alexandra Cadanțu-Ignatik,Elena Rybakina,,,1.0
+92674,2018-07-16T11:10Z,Bucharest Open,Mariana Duque-Marino,Arantxa Rus,,,0.0
+92688,2018-07-16T12:55Z,Bucharest Open,Miriam Bulgaru,Wang Yafan,,,0.0
+92687,2018-07-16T13:05Z,Bucharest Open,Tamara Zidansek,Rebecca Peterson,,,1.0
+92683,2018-07-16T14:35Z,Bucharest Open,Pauline Parmentier,Alexandra Dulgheru,,,1.0
+92676,2018-07-16T14:45Z,Bucharest Open,Ysaline Bonaventure,Maryna Zanevska,,,0.0
+92678,2018-07-16T17:35Z,Bucharest Open,Elena-Gabriela Ruse,Polona Hercog,,,0.0
+92680,2018-07-17T11:05Z,Bucharest Open,Viktoriya Tomova,Irina Bara,,,0.0
+92679,2018-07-17T11:10Z,Bucharest Open,Vera Zvonareva,Ekaterina Alexandrova,,,1.0
+92689,2018-07-17T11:10Z,Bucharest Open,Danka Kovinic,Mihaela Buzarnescu,,,0.0
+92682,2018-07-17T12:30Z,Bucharest Open,Rebecca Sramkova,Petra Martic,,,0.0
+92681,2018-07-17T12:50Z,Bucharest Open,Irina-Camelia Begu,Ons Jabeur,,,0.0
+92675,2018-07-17T13:20Z,Bucharest Open,Anastasija Sevastova,Dalila Jakupovic,,,1.0
+92685,2018-07-17T13:55Z,Bucharest Open,Laura Siegemund,Jasmine Paolini,,,1.0
+92677,2018-07-17T14:05Z,Bucharest Open,Cagla Buyukakcay,Sorana Cirstea,,,0.0
+92684,2018-07-17T15:40Z,Bucharest Open,Claire Liu,Andreea Rosca,,,1.0
+92686,2018-07-17T17:40Z,Bucharest Open,Ana Bogdan,Anna Karolina Schmiedlova,,,0.0
+92696,2018-07-18T11:05Z,Bucharest Open,Irina Bara,Polona Hercog,,,0.0
+92698,2018-07-18T13:05Z,Bucharest Open,Pauline Parmentier,Wang Yafan,,,0.0
+92694,2018-07-18T14:55Z,Bucharest Open,Tamara Zidansek,Mihaela Buzarnescu,,,0.0
+92690,2018-07-18T17:35Z,Bucharest Open,Anastasija Sevastova,Arantxa Rus,,,1.0
+123966,2018-07-19T12:00Z,Bucharest Open,Anna Karolina Schmiedlova,Laura Siegemund,,,0.0
+92692,2018-07-19T12:10Z,Bucharest Open,Anna Karolina Schmiedlova,Laura Siegemund,,,0.0
+92695,2018-07-19T17:15Z,Bucharest Open,Claire Liu,Petra Martic,,,0.0
+92691,2018-07-19T20:25Z,Bucharest Open,Maryna Zanevska,Sorana Cirstea,,,0.0
+92697,2018-07-20T10:10Z,Bucharest Open,Ons Jabeur,Vera Zvonareva,,,1.0
+92703,2018-07-20T12:10Z,Bucharest Open,Laura Siegemund,Petra Martic,,,0.0
+92702,2018-07-20T15:45Z,Bucharest Open,Wang Yafan,Mihaela Buzarnescu,,,0.0
+92693,2018-07-20T18:05Z,Bucharest Open,Anastasija Sevastova,Sorana Cirstea,,,1.0
+92699,2018-07-20T20:15Z,Bucharest Open,Ons Jabeur,Polona Hercog,,,0.0
+92700,2018-07-21T12:10Z,Bucharest Open,Petra Martic,Mihaela Buzarnescu,,,1.0
+92701,2018-07-21T14:10Z,Bucharest Open,Anastasija Sevastova,Polona Hercog,,,1.0
+92704,2018-07-22T14:05Z,Bucharest Open,Anastasija Sevastova,Petra Martic,,,1.0
+92745,2018-07-16T08:35Z,Ladies Open Lausanne,Natalia Vikhlyantseva,Mona Barthel,,,0.0
+92741,2018-07-16T10:35Z,Ladies Open Lausanne,Jil Teichmann,Veronika Kudermetova,,,0.0
+92744,2018-07-16T12:30Z,Ladies Open Lausanne,Lara Arruabarrena,Marketa Vondrousova,,,0.0
+92748,2018-07-17T08:40Z,Ladies Open Lausanne,Evgeniya Rodina,Carina Witthoeft,,,1.0
+92742,2018-07-17T08:40Z,Ladies Open Lausanne,Elitsa Kostova,Anna Kalinskaya,,,1.0
+132225,2018-07-17T10:00Z,Ladies Open Lausanne,Viktoria Hruncakova,Martina Trevisan,,,1.0
+92737,2018-07-17T10:35Z,Ladies Open Lausanne,Viktoria Hruncakova,Martina Trevisan,,,1.0
+92736,2018-07-17T11:05Z,Ladies Open Lausanne,Alize Cornet,Silvia Soler-Espinosa,,,1.0
+92740,2018-07-17T11:30Z,Ladies Open Lausanne,Kathinka von Deichmann,Patty Schnyder,,,0.0
+92739,2018-07-17T12:35Z,Ladies Open Lausanne,Francesca Schiavone,Samantha Stosur,,,0.0
+92738,2018-07-17T13:20Z,Ladies Open Lausanne,Zheng Saisai,Conny Perrin,,,0.0
+92746,2018-07-17T14:05Z,Ladies Open Lausanne,Antonia Lottner,Viktorija Golubic,,,0.0
+92743,2018-07-17T15:45Z,Ladies Open Lausanne,Eugenie Bouchard,Timea Bacsinszky,,,1.0
+92750,2018-07-18T08:40Z,Ladies Open Lausanne,Mandy Minella,Tereza Martincova,,,1.0
+92747,2018-07-18T09:05Z,Ladies Open Lausanne,Sara Sorribes Tormo,Valentyna Ivakhnenko,,,1.0
+92755,2018-07-18T10:35Z,Ladies Open Lausanne,Marketa Vondrousova,Elitsa Kostova,,,1.0
+92756,2018-07-18T11:05Z,Ladies Open Lausanne,Mona Barthel,Evgeniya Rodina,,,0.0
+92749,2018-07-18T14:00Z,Ladies Open Lausanne,Leonie Kung,Johanna Larsson,,,0.0
+92751,2018-07-18T15:40Z,Ladies Open Lausanne,Stefanie Voegele,Tamara Korpatsch,,,0.0
+92759,2018-07-19T09:05Z,Ladies Open Lausanne,Mandy Minella,Johanna Larsson,,,1.0
+92754,2018-07-19T10:15Z,Ladies Open Lausanne,Viktoria Hruncakova,Veronika Kudermetova,,,0.0
+132223,2018-07-19T10:30Z,Ladies Open Lausanne,Viktoria Hruncakova,Veronika Kudermetova,,,0.0
+92753,2018-07-19T10:35Z,Ladies Open Lausanne,Eugenie Bouchard,Viktorija Golubic,,,1.0
+92758,2018-07-19T12:15Z,Ladies Open Lausanne,Tamara Korpatsch,Sara Sorribes Tormo,,,0.0
+92757,2018-07-19T13:40Z,Ladies Open Lausanne,Alize Cornet,Conny Perrin,,,1.0
+92752,2018-07-19T15:40Z,Ladies Open Lausanne,Patty Schnyder,Samantha Stosur,,,0.0
+92762,2018-07-20T09:05Z,Ladies Open Lausanne,Marketa Vondrousova,Evgeniya Rodina,,,1.0
+92765,2018-07-20T10:20Z,Ladies Open Lausanne,Sara Sorribes Tormo,Mandy Minella,,,0.0
+92761,2018-07-20T13:40Z,Ladies Open Lausanne,Veronika Kudermetova,Eugenie Bouchard,,,0.0
+92760,2018-07-20T15:40Z,Ladies Open Lausanne,Alize Cornet,Samantha Stosur,,,1.0
+92764,2018-07-21T09:10Z,Ladies Open Lausanne,Marketa Vondrousova,Mandy Minella,,,0.0
+92763,2018-07-21T11:10Z,Ladies Open Lausanne,Alize Cornet,Eugenie Bouchard,,,1.0
+92766,2018-07-22T09:40Z,Ladies Open Lausanne,Alize Cornet,Mandy Minella,,,1.0
+92839,2018-07-23T09:05Z,Jiangxi Open,Zheng Wushuang,En-Shuo Liang,,,0.0
+92829,2018-07-23T09:10Z,Jiangxi Open,Margarita Gasparyan,Xu Shilin,,,1.0
+92831,2018-07-23T09:10Z,Jiangxi Open,Zhu Lin,Duan Yingying,,,1.0
+92834,2018-07-23T09:10Z,Jiangxi Open,Momoko Kobori,Xun Fang Ying,,,0.0
+92844,2018-07-23T10:40Z,Jiangxi Open,Ankita Raina,Wang Qiang,,,0.0
+92843,2018-07-23T10:40Z,Jiangxi Open,Han Xinyun,Junri Namigata,,,1.0
+92835,2018-07-23T10:45Z,Jiangxi Open,Kurumi Nara,Lu Jing-Jing,,,0.0
+92836,2018-07-23T10:45Z,Jiangxi Open,Jacqueline Cako,Eri Hozumi,,,0.0
+92830,2018-07-24T09:05Z,Jiangxi Open,Zhang Yuxuan,Tereza Martincova,,,0.0
+92837,2018-07-24T09:05Z,Jiangxi Open,Vitalia Diatchenko,Peangtarn Plipuech,,,0.0
+92833,2018-07-24T09:05Z,Jiangxi Open,Karman Thandi,Lu Jia-Jing,,,1.0
+92841,2018-07-24T09:10Z,Jiangxi Open,Hiroko Kuwata,Liu Fangzhou,,,0.0
+92832,2018-07-24T11:00Z,Jiangxi Open,Zhang Shuai,Sabine Lisicki,,,1.0
+92840,2018-07-24T11:15Z,Jiangxi Open,Miyu Kato,Zheng Saisai,,,0.0
+92842,2018-07-24T11:30Z,Jiangxi Open,Ayano Shimizu,Sabina Sharipova,,,0.0
+92838,2018-07-24T12:10Z,Jiangxi Open,Su-Jeong Jang,Magda Linette,,,0.0
+92849,2018-07-25T09:05Z,Jiangxi Open,Sabina Sharipova,Wang Qiang,,,0.0
+92850,2018-07-25T09:05Z,Jiangxi Open,Peangtarn Plipuech,En-Shuo Liang,,,0.0
+92846,2018-07-25T09:05Z,Jiangxi Open,Tereza Martincova,Zhu Lin,,,0.0
+92847,2018-07-25T11:20Z,Jiangxi Open,Zhang Shuai,Margarita Gasparyan,,,1.0
+92845,2018-07-26T09:10Z,Jiangxi Open,Lu Jing-Jing,Xun Fang Ying,,,0.0
+92851,2018-07-26T09:10Z,Jiangxi Open,Eri Hozumi,Magda Linette,,,0.0
+92852,2018-07-26T09:10Z,Jiangxi Open,Han Xinyun,Liu Fangzhou,,,0.0
+92848,2018-07-26T10:50Z,Jiangxi Open,Karman Thandi,Zheng Saisai,,,0.0
+92855,2018-07-27T08:05Z,Jiangxi Open,En-Shuo Liang,Magda Linette,,,0.0
+92857,2018-07-27T10:25Z,Jiangxi Open,Liu Fangzhou,Wang Qiang,,,0.0
+92854,2018-07-27T11:45Z,Jiangxi Open,Zhang Shuai,Zhu Lin,,,0.0
+92853,2018-07-27T14:35Z,Jiangxi Open,Xun Fang Ying,Zheng Saisai,,,0.0
+92859,2018-07-28T09:05Z,Jiangxi Open,Magda Linette,Wang Qiang,,,0.0
+92856,2018-07-28T11:05Z,Jiangxi Open,Zhu Lin,Zheng Saisai,,,0.0
+92858,2018-07-29T09:10Z,Jiangxi Open,Zheng Saisai,Wang Qiang,,,0.0
+92958,2018-07-23T10:35Z,Moscow River Cup,Johanna Larsson,Aliaksandra Sasnovich,,,0.0
+92965,2018-07-23T11:45Z,Moscow River Cup,Viktoriya Tomova,Anastasia Potapova,,,0.0
+92966,2018-07-23T12:20Z,Moscow River Cup,Antonia Lottner,Tamara Zidansek,,,0.0
+92956,2018-07-23T14:40Z,Moscow River Cup,Vera Zvonareva,Kaia Kanepi,,,0.0
+92954,2018-07-24T07:05Z,Moscow River Cup,Anna Karolina Schmiedlova,Olga Danilovic,,,0.0
+92963,2018-07-24T07:05Z,Moscow River Cup,Kristyna Pliskova,Katerina Siniakova,,,1.0
+92969,2018-07-24T07:15Z,Moscow River Cup,Martina Trevisan,Kateryna Baindl,,,0.0
+92957,2018-07-24T08:40Z,Moscow River Cup,Ekaterina Alexandrova,Irina Bara,,,0.0
+92960,2018-07-24T08:55Z,Moscow River Cup,Paula Badosa,Evgeniya Rodina,,,0.0
+92955,2018-07-24T09:10Z,Moscow River Cup,Natalia Vikhlyantseva,Deborah Chiesa,,,1.0
+92962,2018-07-24T10:05Z,Moscow River Cup,Valentyna Ivakhnenko,Danka Kovinic,,,1.0
+92967,2018-07-24T10:40Z,Moscow River Cup,Anna Kalinskaya,Daria Kasatkina,,,0.0
+92964,2018-07-24T11:55Z,Moscow River Cup,Valentini Grammatikopoulou,Varvara Flink,,,0.0
+92953,2018-07-24T14:35Z,Moscow River Cup,Julia Goerges,Viktoria Hruncakova,,,1.0
+92974,2018-07-25T08:10Z,Moscow River Cup,Olga Danilovic,Kaia Kanepi,,,1.0
+92961,2018-07-25T08:15Z,Moscow River Cup,Alize Cornet,Laura Siegemund,,,0.0
+92970,2018-07-25T10:25Z,Moscow River Cup,Varvara Flink,Valentyna Ivakhnenko,,,0.0
+92959,2018-07-25T10:40Z,Moscow River Cup,Anastasija Sevastova,Pauline Parmentier,,,1.0
+92971,2018-07-25T12:45Z,Moscow River Cup,Anastasia Potapova,Kristyna Pliskova,,,1.0
+92968,2018-07-25T14:35Z,Moscow River Cup,Julia Goerges,Natalia Vikhlyantseva,,,1.0
+92972,2018-07-26T08:10Z,Moscow River Cup,Evgeniya Rodina,Aliaksandra Sasnovich,,,0.0
+92973,2018-07-26T10:10Z,Moscow River Cup,Anastasija Sevastova,Irina Bara,,,1.0
+92975,2018-07-26T12:40Z,Moscow River Cup,Laura Siegemund,Kateryna Baindl,,,1.0
+92976,2018-07-26T14:35Z,Moscow River Cup,Tamara Zidansek,Daria Kasatkina,,,1.0
+92978,2018-07-27T08:10Z,Moscow River Cup,Julia Goerges,Olga Danilovic,,,0.0
+92979,2018-07-27T09:45Z,Moscow River Cup,Valentyna Ivakhnenko,Anastasia Potapova,,,0.0
+92980,2018-07-27T11:40Z,Moscow River Cup,Laura Siegemund,Tamara Zidansek,,,0.0
+92977,2018-07-27T14:30Z,Moscow River Cup,Anastasija Sevastova,Aliaksandra Sasnovich,,,0.0
+92982,2018-07-28T10:10Z,Moscow River Cup,Anastasia Potapova,Tamara Zidansek,,,1.0
+92981,2018-07-28T12:30Z,Moscow River Cup,Olga Danilovic,Aliaksandra Sasnovich,,,1.0
+92983,2018-07-29T10:35Z,Moscow River Cup,Olga Danilovic,Anastasia Potapova,,,1.0
+120281,2018-07-28T15:30Z,Citi Open,Filip Peliwo,Antoine Escoffier,,,0.0
+93024,2018-07-30T19:40Z,Citi Open,Ilya Ivashka,Hubert Hurkacz,,,0.0
+93017,2018-07-30T19:45Z,Citi Open,Tim Smyczek,Ricardas Berankis,,,1.0
+93016,2018-07-30T19:50Z,Citi Open,Evgeny Donskoy,Malek Jaziri,,,0.0
+93035,2018-07-31T02:05Z,Citi Open,Mackenzie McDonald,Andy Murray,,,0.0
+93045,2018-07-31T02:45Z,Citi Open,Mikhail Youzhny,Noah Rubin,,,0.0
+93036,2018-07-31T03:10Z,Citi Open,Mirza Basic,Marius Copil,,,0.0
+93031,2018-07-31T20:30Z,Citi Open,Jared Donaldson,Jordan Thompson,,,1.0
+93028,2018-07-31T20:50Z,Citi Open,James Duckworth,Thai-Son Kwiatkowski,,,1.0
+93042,2018-07-31T21:00Z,Citi Open,Lukas Lacko,Denis Kudla,,,0.0
+93020,2018-07-31T21:55Z,Citi Open,Yosuke Watanuki,Daniil Medvedev,,,0.0
+93038,2018-07-31T22:20Z,Citi Open,Vasek Pospisil,Alex de Minaur,,,0.0
+93030,2018-07-31T22:35Z,Citi Open,Marcos Baghdatis,Benoit Paire,,,1.0
+93023,2018-07-31T23:15Z,Citi Open,Stan Wawrinka,Donald Young,,,0.0
+93026,2018-08-01T00:20Z,Citi Open,Pierre-Hugues Herbert,Mitchell Krueger,,,1.0
+93041,2018-08-01T00:55Z,Citi Open,Vincent Millot,Yuichi Sugita,,,1.0
+93058,2018-08-01T16:10Z,Citi Open,Denis Kudla,Karen Khachanov,,,1.0
+93056,2018-08-01T16:10Z,Citi Open,Jeremy Chardy,Marius Copil,,,0.0
+93049,2018-08-01T16:10Z,Citi Open,Hubert Hurkacz,Frances Tiafoe,,,0.0
+93051,2018-08-01T16:15Z,Citi Open,James Duckworth,Jason Kubler,,,1.0
+93077,2018-08-01T17:35Z,Citi Open,Tim Smyczek,Mischa Zverev,,,0.0
+93040,2018-08-01T19:45Z,Citi Open,Tommy Paul,Alex Bolt,,,1.0
+93046,2018-08-01T20:00Z,Citi Open,Denis Shapovalov,Daniil Medvedev,,,1.0
+93050,2018-08-01T20:40Z,Citi Open,Stefanos Tsitsipas,Jared Donaldson,,,1.0
+93059,2018-08-01T20:45Z,Citi Open,Andy Murray,Kyle Edmund,,,1.0
+93054,2018-08-01T21:10Z,Citi Open,Lucas Pouille,Vincent Millot,,,1.0
+93074,2018-08-01T22:30Z,Citi Open,Alexander Zverev,Malek Jaziri,,,1.0
+93052,2018-08-01T22:30Z,Citi Open,Hyeon Chung,Marcos Baghdatis,,,1.0
+93048,2018-08-01T23:15Z,Citi Open,David Goffin,Pierre-Hugues Herbert,,,1.0
+93053,2018-08-02T00:25Z,Citi Open,Donald Young,Kei Nishikori,,,0.0
+93055,2018-08-02T20:00Z,Citi Open,Andrey Rublev,Tommy Paul,,,1.0
+93057,2018-08-02T20:00Z,Citi Open,Alex de Minaur,Steve Johnson,,,1.0
+93060,2018-08-02T21:55Z,Citi Open,Noah Rubin,John Isner,,,1.0
+93062,2018-08-02T23:15Z,Citi Open,Stefanos Tsitsipas,James Duckworth,,,1.0
+93064,2018-08-02T23:55Z,Citi Open,Alexander Zverev,Mischa Zverev,,,1.0
+93066,2018-08-03T00:55Z,Citi Open,David Goffin,Frances Tiafoe,,,1.0
+93065,2018-08-03T02:00Z,Citi Open,Denis Shapovalov,Kei Nishikori,,,0.0
+93068,2018-08-03T02:25Z,Citi Open,Andrey Rublev,Noah Rubin,,,1.0
+93063,2018-08-03T03:05Z,Citi Open,Hyeon Chung,Alex de Minaur,,,0.0
+93067,2018-08-03T03:10Z,Citi Open,Lucas Pouille,Denis Kudla,,,0.0
+93061,2018-08-03T04:00Z,Citi Open,Marius Copil,Andy Murray,,,0.0
+93071,2018-08-03T18:10Z,Citi Open,David Goffin,Stefanos Tsitsipas,,,0.0
+93070,2018-08-03T20:05Z,Citi Open,Alexander Zverev,Kei Nishikori,,,1.0
+93069,2018-08-04T01:00Z,Citi Open,Alex de Minaur,Andy Murray,,,1.0
+93073,2018-08-04T16:10Z,Citi Open,Denis Kudla,Andrey Rublev,,,0.0
+93072,2018-08-04T18:10Z,Citi Open,Alexander Zverev,Stefanos Tsitsipas,,,1.0
+93075,2018-08-04T23:10Z,Citi Open,Alex de Minaur,Andrey Rublev,,,1.0
+93076,2018-08-05T19:10Z,Citi Open,Alexander Zverev,Alex de Minaur,,,1.0
+92986,2018-07-30T18:10Z,Citi Open,Katie Boulter,Aleksandra Krunic,,,1.0
+92987,2018-07-30T18:10Z,Citi Open,Allie Kiick,Han Xinyun,,,1.0
+92993,2018-07-30T18:10Z,Citi Open,Svetlana Kuznetsova,Kristie Ahn,,,1.0
+92998,2018-07-30T18:40Z,Citi Open,Jamie Loeb,Andrea Petkovic,,,0.0
+92989,2018-07-31T03:10Z,Citi Open,Mayo Hibi,Fanny Stollar,,,0.0
+92994,2018-07-31T18:15Z,Citi Open,Nao Hibino,Sofya Zhuk,,,1.0
+92992,2018-07-31T18:20Z,Citi Open,Yulia Putintseva,Tatjana Maria,,,1.0
+92991,2018-07-31T18:20Z,Citi Open,Naomi Osaka,Bernarda Pera,,,1.0
+92997,2018-07-31T18:20Z,Citi Open,Ana Bogdan,Ekaterina Makarova,,,1.0
+92990,2018-07-31T18:20Z,Citi Open,Caroline Dolehide,Donna Vekic,,,0.0
+92999,2018-07-31T18:40Z,Citi Open,Bethanie Mattek-Sands,Sloane Stephens,,,0.0
+92996,2018-07-31T20:00Z,Citi Open,Belinda Bencic,Harriet Dart,,,1.0
+92985,2018-08-01T18:10Z,Citi Open,Ysaline Bonaventure,Anhelina Kalinina,,,1.0
+93003,2018-08-01T18:40Z,Citi Open,Andrea Petkovic,Sloane Stephens,,,1.0
+92984,2018-08-01T18:40Z,Citi Open,Katie Swan,Zheng Saisai,,,0.0
+92995,2018-08-01T19:35Z,Citi Open,Jennifer Brady,Natalia Vikhlyantseva,,,1.0
+92988,2018-08-01T23:30Z,Citi Open,Magda Linette,Olivia Rogowska,,,1.0
+93000,2018-08-02T18:10Z,Citi Open,Ysaline Bonaventure,Zheng Saisai,,,0.0
+93006,2018-08-02T18:30Z,Citi Open,Belinda Bencic,Nao Hibino,,,1.0
+93001,2018-08-02T21:30Z,Citi Open,Allie Kiick,Katie Boulter,,,1.0
+93002,2018-08-02T22:15Z,Citi Open,Fanny Stollar,Donna Vekic,,,0.0
+93004,2018-08-03T00:15Z,Citi Open,Yulia Putintseva,Jennifer Brady,,,1.0
+93005,2018-08-03T00:35Z,Citi Open,Svetlana Kuznetsova,Ana Bogdan,,,1.0
+93008,2018-08-03T00:40Z,Citi Open,Naomi Osaka,Magda Linette,,,0.0
+93009,2018-08-03T18:05Z,Citi Open,Belinda Bencic,Andrea Petkovic,,,0.0
+93011,2018-08-04T16:00Z,Citi Open,Magda Linette,Donna Vekic,,,0.0
+93013,2018-08-04T16:00Z,Citi Open,Yulia Putintseva,Svetlana Kuznetsova,,,0.0
+93007,2018-08-04T16:45Z,Citi Open,Zheng Saisai,Allie Kiick,,,1.0
+93012,2018-08-04T20:10Z,Citi Open,Svetlana Kuznetsova,Andrea Petkovic,,,1.0
+93014,2018-08-05T02:20Z,Citi Open,Zheng Saisai,Donna Vekic,,,0.0
+93010,2018-08-05T21:10Z,Citi Open,Donna Vekic,Svetlana Kuznetsova,,,0.0
+123436,2018-07-29T14:00Z,Citi Open,Jason Kubler,Yosuke Watanuki,,,0.0
+93116,2018-07-30T17:10Z,Silicon Valley Classic,Maria Sakkari,Christina McHale,,,1.0
+93117,2018-07-30T18:45Z,Silicon Valley Classic,Sofia Kenin,Veronica Cepede Royg,,,1.0
+93124,2018-07-30T20:35Z,Silicon Valley Classic,Ajla Tomljanovic,Georgina Garcia Perez,,,1.0
+93114,2018-07-30T21:55Z,Silicon Valley Classic,Danielle Collins,Danielle Lao,,,1.0
+93110,2018-07-31T02:10Z,Silicon Valley Classic,Victoria Azarenka,Kateryna Volodko,,,1.0
+93119,2018-07-31T05:05Z,Silicon Valley Classic,Ashley Kratzer,Alison Riske-Amritraj,,,1.0
+93111,2018-07-31T17:10Z,Silicon Valley Classic,Vera Lapko,Zhang Shuai,,,1.0
+93118,2018-07-31T18:55Z,Silicon Valley Classic,Kristina Mladenovic,Timea Babos,,,0.0
+93122,2018-07-31T20:40Z,Silicon Valley Classic,Mihaela Buzarnescu,Sachia Vickery,,,1.0
+93113,2018-07-31T22:55Z,Silicon Valley Classic,Heather Watson,Claire Liu,,,1.0
+93115,2018-08-01T02:10Z,Silicon Valley Classic,Serena Williams,Johanna Konta,,,0.0
+93121,2018-08-01T03:20Z,Silicon Valley Classic,Wang Qiang,Amanda Anisimova,,,0.0
+93130,2018-08-01T18:05Z,Silicon Valley Classic,Ashley Kratzer,Elise Mertens,,,0.0
+93127,2018-08-01T20:05Z,Silicon Valley Classic,Danielle Collins,Vera Lapko,,,1.0
+93129,2018-08-01T22:15Z,Silicon Valley Classic,Johanna Konta,Sofia Kenin,,,1.0
+93128,2018-08-02T02:05Z,Silicon Valley Classic,Anna Blinkova,Victoria Azarenka,,,0.0
+93136,2018-08-02T18:10Z,Silicon Valley Classic,Mihaela Buzarnescu,Amanda Anisimova,,,1.0
+93125,2018-08-02T20:10Z,Silicon Valley Classic,Maria Sakkari,Timea Babos,,,1.0
+93134,2018-08-02T21:25Z,Silicon Valley Classic,Ajla Tomljanovic,Magdalena Frech,,,1.0
+93126,2018-08-03T02:10Z,Silicon Valley Classic,Venus Williams,Heather Watson,,,1.0
+93135,2018-08-03T19:10Z,Silicon Valley Classic,Mihaela Buzarnescu,Ajla Tomljanovic,,,1.0
+93133,2018-08-03T20:55Z,Silicon Valley Classic,Johanna Konta,Elise Mertens,,,0.0
+93131,2018-08-03T23:10Z,Silicon Valley Classic,Victoria Azarenka,Danielle Collins,,,0.0
+93132,2018-08-04T02:10Z,Silicon Valley Classic,Venus Williams,Maria Sakkari,,,0.0
+93138,2018-08-04T20:10Z,Silicon Valley Classic,Elise Mertens,Mihaela Buzarnescu,,,0.0
+93137,2018-08-05T02:05Z,Silicon Valley Classic,Danielle Collins,Maria Sakkari,,,0.0
+93139,2018-08-05T21:10Z,Silicon Valley Classic,Maria Sakkari,Mihaela Buzarnescu,,,0.0

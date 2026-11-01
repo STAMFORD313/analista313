@@ -6,3 +6,25 @@ vb = value_bets({"H": 0.6, "D": 0.2, "A": 0.2, "O25": 0.5, "U25": 0.5}, {"AvgH":
 assert [v["market"] for v in vb] == ["H"], vb  # A tiene ventaja pero prob < MIN_P
 assert won("O25", 2, 1) and won("U25", 1, 1) and not won("H", 1, 1)
 print("ok")
+
+import pandas as pd
+from multisport import american, elo, signals, win_prob
+assert american("+240") == 3.4 and american("-300") == 1.333 and american("EVEN") == 2.0
+df = pd.DataFrame({"date": pd.to_datetime(["2024-01-01", "2024-01-02"] * 10, utc=True),
+                   "home": ["A", "B"] * 10, "away": ["B", "A"] * 10, "res": [1.0, 0.0] * 10})
+R = elo(df, 0, 20)
+assert R["A"] > 1600 > 1400 > R["B"] and win_prob(R, "A", "B", 0) > 0.8
+assert [s["market"] for s in signals(0.7, 2.0, 1.9)] == ["home"]
+print("ok multisport")
+
+import bankroll
+st = {"signals": [{"key": "k1", "market": "H", "odds": 2.2, "p": 0.55, "edge": 0.21, "match": "A vs B", "start": "2099-01-01T00:00Z"},
+                  {"key": "k2", "market": "home", "odds": 1.9, "p": 0.6, "edge": 0.14, "match": "C vs D", "pick": "C", "start": "2099-01-01T00:00Z"}]}
+bk = st.setdefault("bank", {"balance": 100.0, "bets": []})
+bankroll.place(bk, st["signals"], pd.Timestamp("2026-11-01"))
+assert len(bk["bets"]) == 3 and all(b["stake"] <= 5 for b in bk["bets"]) and bk["balance"] < 100
+st["signals"][0]["result"], st["signals"][1]["result"] = True, False
+bankroll.settle(bk, st["signals"])
+assert [b["status"] for b in bk["bets"]] == ["ganada", "perdida", "perdida"]
+assert abs(bk["balance"] - (100 - sum(b["stake"] for b in bk["bets"]) + bk["bets"][0]["stake"] * 2.2)) < 0.02
+print("ok banca")

@@ -1,0 +1,402 @@
+id,date,event,home,away,hs,as,res
+123479,2017-02-04T16:10Z,ATP Ecuador Open Quito,Roberto Carballes Baena,Andres Molteni,,,1.0
+123580,2017-02-05T17:10Z,ATP Ecuador Open Quito,Roberto Carballes Baena,Alexander Sarkissian,,,1.0
+75806,2017-02-06T05:00Z,ATP Ecuador Open Quito,Daniel Gimeno-Traver,Janko Tipsarevic,,,0.0
+75807,2017-02-06T05:00Z,ATP Ecuador Open Quito,Benjamin Becker,Santiago Giraldo,,,0.0
+75813,2017-02-06T05:00Z,ATP Ecuador Open Quito,Thiago Monteiro,Giovanni Lapentti,,,0.0
+75804,2017-02-06T17:00Z,ATP Ecuador Open Quito,Gerald Melzer,Horacio Zeballos,,,1.0
+123707,2017-02-06T23:30Z,ATP Ecuador Open Quito,Thiago Monteiro,Giovanni Lapentti,,,0.0
+75803,2017-02-07T05:00Z,ATP Ecuador Open Quito,Joao Souza,Federico Gaio,,,0.0
+75815,2017-02-07T05:00Z,ATP Ecuador Open Quito,Alejandro Falla,Alessandro Giannessi,,,1.0
+75810,2017-02-07T05:00Z,ATP Ecuador Open Quito,Nicolas Kicker,Guido Andreozzi,,,1.0
+75809,2017-02-07T05:00Z,ATP Ecuador Open Quito,Alexandr Dolgopolov,Rajeev Ram,,,0.0
+75814,2017-02-07T17:00Z,ATP Ecuador Open Quito,Roberto Carballes Baena,Yuliya Hatouka,,,1.0
+75811,2017-02-07T17:00Z,ATP Ecuador Open Quito,Agustin Velotti,Matthew Ebden,,,0.0
+123575,2017-02-07T17:10Z,ATP Ecuador Open Quito,Roberto Carballes Baena,Rogerio Dutra da Silva,,,1.0
+75808,2017-02-07T22:00Z,ATP Ecuador Open Quito,Emilio Gomez,Renzo Olivo,,,0.0
+75818,2017-02-08T05:00Z,ATP Ecuador Open Quito,Thomaz Bellucci,Janko Tipsarevic,,,1.0
+75820,2017-02-08T05:00Z,ATP Ecuador Open Quito,Alejandro Falla,Albert Ramos-Vinolas,,,0.0
+75862,2017-02-08T05:00Z,ATP Ecuador Open Quito,Santiago Giraldo,Renzo Olivo,,,0.0
+75868,2017-02-08T05:00Z,ATP Ecuador Open Quito,Giovanni Lapentti,Roberto Carballes Baena,,,0.0
+75802,2017-02-08T17:00Z,ATP Ecuador Open Quito,Andrej Martin,Victor Estrella Burgos,,,0.0
+75871,2017-02-09T05:00Z,ATP Ecuador Open Quito,Rajeev Ram,Nicolas Kicker,,,1.0
+75861,2017-02-09T05:00Z,ATP Ecuador Open Quito,Federico Gaio,Gerald Melzer,,,1.0
+75817,2017-02-09T05:00Z,ATP Ecuador Open Quito,Ivo Karlovic,Victor Estrella Burgos,,,0.0
+75819,2017-02-09T17:00Z,ATP Ecuador Open Quito,Matthew Ebden,Paolo Lorenzi,,,0.0
+75877,2017-02-10T05:00Z,ATP Ecuador Open Quito,Thomaz Bellucci,Renzo Olivo,,,1.0
+75888,2017-02-10T05:00Z,ATP Ecuador Open Quito,Rajeev Ram,Paolo Lorenzi,,,0.0
+75890,2017-02-10T05:00Z,ATP Ecuador Open Quito,Victor Estrella Burgos,Federico Gaio,,,1.0
+75878,2017-02-10T17:00Z,ATP Ecuador Open Quito,Roberto Carballes Baena,Albert Ramos-Vinolas,,,0.0
+123471,2017-02-10T17:10Z,ATP Ecuador Open Quito,Roberto Carballes Baena,Albert Ramos-Vinolas,,,0.0
+75914,2017-02-11T05:00Z,ATP Ecuador Open Quito,Victor Estrella Burgos,Thomaz Bellucci,,,1.0
+75913,2017-02-11T18:00Z,ATP Ecuador Open Quito,Paolo Lorenzi,Albert Ramos-Vinolas,,,1.0
+75925,2017-02-12T18:00Z,ATP Ecuador Open Quito,Victor Estrella Burgos,Paolo Lorenzi,,,1.0
+75822,2017-02-06T05:00Z,ATP Open Sud de France,Dustin Brown,Guillermo Garcia-Lopez,,,1.0
+75829,2017-02-06T18:00Z,ATP Open Sud de France,Marcel Granollers,Jeremy Chardy,,,0.0
+120460,2017-02-06T19:30Z,ATP Open Sud de France,Dustin Brown,Guillermo Garcia-Lopez,,,1.0
+75823,2017-02-07T05:00Z,ATP Open Sud de France,Benoit Paire,Karen Khachanov,,,1.0
+75834,2017-02-07T05:00Z,ATP Open Sud de France,Daniil Medvedev,Tobias Kamke,,,1.0
+75833,2017-02-07T05:00Z,ATP Open Sud de France,Fernando Verdasco,Gregoire Barrere,,,1.0
+75831,2017-02-07T05:00Z,ATP Open Sud de France,Aljaz Bedene,Borna Coric,,,1.0
+75827,2017-02-07T11:00Z,ATP Open Sud de France,Illya Marchenko,Quentin Halys,,,1.0
+75828,2017-02-08T05:00Z,ATP Open Sud de France,Kenny De Schepper,Mischa Zverev,,,1.0
+75824,2017-02-08T05:00Z,ATP Open Sud de France,Julien Benneteau,Feliciano Lopez,,,0.0
+75837,2017-02-08T05:00Z,ATP Open Sud de France,Marin Cilic,Dustin Brown,,,0.0
+75830,2017-02-08T05:00Z,ATP Open Sud de France,Paul-Henri Mathieu,Vincent Millot,,,1.0
+75826,2017-02-08T11:00Z,ATP Open Sud de France,Tristan Lamasine,Malek Jaziri,,,0.0
+75835,2017-02-08T11:00Z,ATP Open Sud de France,Calvin Hemery,Pierre-Hugues Herbert,,,0.0
+75838,2017-02-09T05:00Z,ATP Open Sud de France,Richard Gasquet,Malek Jaziri,,,1.0
+75840,2017-02-09T05:00Z,ATP Open Sud de France,Pierre-Hugues Herbert,Jo-Wilfried Tsonga,,,0.0
+75865,2017-02-09T05:00Z,ATP Open Sud de France,Illya Marchenko,Kenny De Schepper,,,0.0
+75869,2017-02-09T05:00Z,ATP Open Sud de France,Fernando Verdasco,Daniil Medvedev,,,0.0
+75870,2017-02-09T05:00Z,ATP Open Sud de France,Benoit Paire,Feliciano Lopez,,,1.0
+75839,2017-02-09T11:00Z,ATP Open Sud de France,Aljaz Bedene,Alexander Zverev,,,0.0
+75863,2017-02-09T11:00Z,ATP Open Sud de France,Jeremy Chardy,Paul-Henri Mathieu,,,1.0
+75883,2017-02-10T05:00Z,ATP Open Sud de France,Dustin Brown,Benoit Paire,,,0.0
+75884,2017-02-10T05:00Z,ATP Open Sud de France,Jeremy Chardy,Alexander Zverev,,,0.0
+75889,2017-02-10T05:00Z,ATP Open Sud de France,Daniil Medvedev,Jo-Wilfried Tsonga,,,0.0
+75885,2017-02-10T12:00Z,ATP Open Sud de France,Richard Gasquet,Kenny De Schepper,,,1.0
+120348,2017-02-10T15:45Z,ATP Open Sud de France,Dustin Brown,Benoit Paire,,,0.0
+75912,2017-02-11T05:00Z,ATP Open Sud de France,Alexander Zverev,Jo-Wilfried Tsonga,,,1.0
+75895,2017-02-11T13:30Z,ATP Open Sud de France,Benoit Paire,Richard Gasquet,,,0.0
+75923,2017-02-12T13:30Z,ATP Open Sud de France,Richard Gasquet,Alexander Zverev,,,0.0
+75841,2017-02-06T16:00Z,ATP Garanti Koza Sofia Open,Alexandar Lazarov,Radu Albot,,,0.0
+75845,2017-02-07T05:00Z,ATP Garanti Koza Sofia Open,Andrey Kuznetsov,Martin Klizan,,,0.0
+75848,2017-02-07T05:00Z,ATP Garanti Koza Sofia Open,Robin Haase,Dimitar Kuzmanov,,,1.0
+75851,2017-02-07T05:00Z,ATP Garanti Koza Sofia Open,Marko Tepavac,Mikhail Youzhny,,,0.0
+75854,2017-02-07T05:00Z,ATP Garanti Koza Sofia Open,Maximilian Marterer,Steve Darcis,,,0.0
+75850,2017-02-07T10:00Z,ATP Garanti Koza Sofia Open,Gilles Muller,Mathias Bourgue,,,1.0
+75852,2017-02-07T11:00Z,ATP Garanti Koza Sofia Open,Cedrik-Marcel Stebe,Teymuraz Gabashvili,,,1.0
+75860,2017-02-08T05:00Z,ATP Garanti Koza Sofia Open,Radu Albot,David Goffin,,,0.0
+75859,2017-02-08T05:00Z,ATP Garanti Koza Sofia Open,Cedrik-Marcel Stebe,Roberto Bautista Agut,,,0.0
+75847,2017-02-08T05:00Z,ATP Garanti Koza Sofia Open,Jerzy Janowicz,Dudi Sela,,,1.0
+75849,2017-02-08T05:00Z,ATP Garanti Koza Sofia Open,Cem Ilkel,Viktor Troicki,,,0.0
+75855,2017-02-08T05:00Z,ATP Garanti Koza Sofia Open,Damir Dzumhur,Andreas Seppi,,,0.0
+75843,2017-02-08T10:00Z,ATP Garanti Koza Sofia Open,Nikoloz Basilashvili,Adrian Mannarino,,,1.0
+75844,2017-02-08T10:00Z,ATP Garanti Koza Sofia Open,Marco Chiudinelli,Daniel Brands,,,0.0
+75875,2017-02-09T05:00Z,ATP Garanti Koza Sofia Open,Steve Darcis,Andreas Seppi,,,1.0
+75858,2017-02-09T05:00Z,ATP Garanti Koza Sofia Open,Grigor Dimitrov,Jerzy Janowicz,,,1.0
+75866,2017-02-09T05:00Z,ATP Garanti Koza Sofia Open,Robin Haase,Viktor Troicki,,,0.0
+75857,2017-02-09T05:00Z,ATP Garanti Koza Sofia Open,Dominic Thiem,Nikoloz Basilashvili,,,0.0
+75864,2017-02-09T10:00Z,ATP Garanti Koza Sofia Open,Gilles Muller,Mikhail Youzhny,,,1.0
+75867,2017-02-09T10:00Z,ATP Garanti Koza Sofia Open,Daniel Brands,Martin Klizan,,,0.0
+75876,2017-02-10T05:00Z,ATP Garanti Koza Sofia Open,Steve Darcis,David Goffin,,,0.0
+75886,2017-02-10T05:00Z,ATP Garanti Koza Sofia Open,Nikoloz Basilashvili,Martin Klizan,,,1.0
+75887,2017-02-10T05:00Z,ATP Garanti Koza Sofia Open,Grigor Dimitrov,Viktor Troicki,,,1.0
+75882,2017-02-10T09:00Z,ATP Garanti Koza Sofia Open,Gilles Muller,Roberto Bautista Agut,,,0.0
+75911,2017-02-11T05:00Z,ATP Garanti Koza Sofia Open,Nikoloz Basilashvili,Grigor Dimitrov,,,0.0
+75894,2017-02-11T12:00Z,ATP Garanti Koza Sofia Open,Roberto Bautista Agut,David Goffin,,,0.0
+75924,2017-02-12T15:00Z,ATP Garanti Koza Sofia Open,Grigor Dimitrov,David Goffin,,,1.0
+123472,2017-02-11T18:30Z,ATP Argentina Open,Roberto Carballes Baena,Alessandro Giannessi,,,0.0
+75944,2017-02-13T05:00Z,ATP Argentina Open,Stephane Robert,Federico Delbonis,,,0.0
+75951,2017-02-13T21:45Z,ATP Argentina Open,Leonardo Mayer,Gastao Elias,,,1.0
+75945,2017-02-14T05:00Z,ATP Argentina Open,Horacio Zeballos,João Sousa,,,0.0
+75943,2017-02-14T05:00Z,ATP Argentina Open,Diego Schwartzman,Facundo Bagnis,,,1.0
+75949,2017-02-14T05:00Z,ATP Argentina Open,Tommy Robredo,Fabio Fognini,,,1.0
+75950,2017-02-14T05:00Z,ATP Argentina Open,Albert Ramos-Vinolas,Guido Pella,,,1.0
+75955,2017-02-14T05:00Z,ATP Argentina Open,Guido Andreozzi,Renzo Olivo,,,1.0
+75952,2017-02-14T16:45Z,ATP Argentina Open,Yuliya Hatouka,Alessandro Giannessi,,,0.0
+75956,2017-02-14T16:45Z,ATP Argentina Open,Alexandr Dolgopolov,Janko Tipsarevic,,,1.0
+75947,2017-02-14T16:55Z,ATP Argentina Open,Carlos Berlocq,Jozef Kovalik,,,1.0
+123100,2017-02-14T20:55Z,ATP Argentina Open,Albert Ramos-Vinolas,Guido Pella,,,1.0
+76012,2017-02-15T05:00Z,ATP Argentina Open,Federico Delbonis,João Sousa,,,0.0
+75960,2017-02-15T05:00Z,ATP Argentina Open,Alessandro Giannessi,Pablo Carreno Busta,,,0.0
+75958,2017-02-15T05:00Z,ATP Argentina Open,Kei Nishikori,Diego Schwartzman,,,1.0
+75954,2017-02-15T16:45Z,ATP Argentina Open,Paolo Lorenzi,Gerald Melzer,,,0.0
+75948,2017-02-15T16:45Z,ATP Argentina Open,Victor Estrella Burgos,Thiago Monteiro,,,0.0
+76007,2017-02-15T16:55Z,ATP Argentina Open,Albert Ramos-Vinolas,Leonardo Mayer,,,1.0
+123111,2017-02-15T17:05Z,ATP Argentina Open,Albert Ramos-Vinolas,Leonardo Mayer,,,1.0
+76019,2017-02-16T05:00Z,ATP Argentina Open,Gerald Melzer,Guido Andreozzi,,,1.0
+76020,2017-02-16T05:00Z,ATP Argentina Open,Thiago Monteiro,Tommy Robredo,,,1.0
+75959,2017-02-16T05:00Z,ATP Argentina Open,David Ferrer,Carlos Berlocq,,,0.0
+75961,2017-02-16T16:55Z,ATP Argentina Open,Alexandr Dolgopolov,Pablo Cuevas,,,1.0
+123611,2017-02-17T00:00Z,ATP Argentina Open,Thiago Monteiro,Tommy Robredo,,,1.0
+76026,2017-02-17T05:00Z,ATP Argentina Open,Kei Nishikori,João Sousa,,,1.0
+76036,2017-02-17T05:00Z,ATP Argentina Open,Gerald Melzer,Alexandr Dolgopolov,,,0.0
+76038,2017-02-17T05:00Z,ATP Argentina Open,Carlos Berlocq,Thiago Monteiro,,,1.0
+76028,2017-02-17T16:55Z,ATP Argentina Open,Albert Ramos-Vinolas,Pablo Carreno Busta,,,0.0
+123172,2017-02-17T17:10Z,ATP Argentina Open,Albert Ramos-Vinolas,Pablo Carreno Busta,,,0.0
+76045,2017-02-18T05:00Z,ATP Argentina Open,Kei Nishikori,Carlos Berlocq,,,1.0
+76041,2017-02-18T17:00Z,ATP Argentina Open,Pablo Carreno Busta,Alexandr Dolgopolov,,,0.0
+76047,2017-02-19T17:00Z,ATP Argentina Open,Kei Nishikori,Alexandr Dolgopolov,,,0.0
+75930,2017-02-13T05:00Z,ATP ABN AMRO World Tennis Tournament,Tomas Berdych,Marius Copil,,,1.0
+75935,2017-02-13T05:00Z,ATP ABN AMRO World Tennis Tournament,Denis Istomin,Aljaz Bedene,,,1.0
+75936,2017-02-13T05:00Z,ATP ABN AMRO World Tennis Tournament,Robin Haase,Florian Mayer,,,1.0
+75939,2017-02-13T11:30Z,ATP ABN AMRO World Tennis Tournament,Feliciano Lopez,Pierre-Hugues Herbert,,,0.0
+75938,2017-02-13T14:30Z,ATP ABN AMRO World Tennis Tournament,Evgeny Donskoy,Marcel Granollers,,,1.0
+75927,2017-02-14T05:00Z,ATP ABN AMRO World Tennis Tournament,Borna Coric,Karen Khachanov,,,1.0
+75928,2017-02-14T05:00Z,ATP ABN AMRO World Tennis Tournament,Tallon Griekspoor,Gilles Muller,,,0.0
+75929,2017-02-14T05:00Z,ATP ABN AMRO World Tennis Tournament,Stefanos Tsitsipas,Jo-Wilfried Tsonga,,,0.0
+75932,2017-02-14T05:00Z,ATP ABN AMRO World Tennis Tournament,Martin Klizan,Fernando Verdasco,,,1.0
+75926,2017-02-14T05:00Z,ATP ABN AMRO World Tennis Tournament,Marin Cilic,Benoit Paire,,,1.0
+75933,2017-02-14T10:00Z,ATP ABN AMRO World Tennis Tournament,Philipp Kohlschreiber,Lucas Pouille,,,1.0
+75940,2017-02-14T10:00Z,ATP ABN AMRO World Tennis Tournament,Nicolas Mahut,Gilles Simon,,,0.0
+75941,2017-02-15T05:00Z,ATP ABN AMRO World Tennis Tournament,Alexander Zverev,Dominic Thiem,,,0.0
+76011,2017-02-15T05:00Z,ATP ABN AMRO World Tennis Tournament,Gilles Muller,Jo-Wilfried Tsonga,,,1.0
+76008,2017-02-15T05:00Z,ATP ABN AMRO World Tennis Tournament,Martin Klizan,Philipp Kohlschreiber,,,1.0
+75934,2017-02-15T05:00Z,ATP ABN AMRO World Tennis Tournament,Grigor Dimitrov,Mischa Zverev,,,1.0
+75931,2017-02-15T05:00Z,ATP ABN AMRO World Tennis Tournament,Viktor Troicki,Richard Gasquet,,,0.0
+75937,2017-02-15T10:00Z,ATP ABN AMRO World Tennis Tournament,Andrey Kuznetsov,David Goffin,,,0.0
+75986,2017-02-15T10:00Z,ATP ABN AMRO World Tennis Tournament,Evgeny Donskoy,Pierre-Hugues Herbert,,,0.0
+75987,2017-02-16T05:00Z,ATP ABN AMRO World Tennis Tournament,Robin Haase,David Goffin,,,0.0
+76009,2017-02-16T05:00Z,ATP ABN AMRO World Tennis Tournament,Grigor Dimitrov,Denis Istomin,,,1.0
+76010,2017-02-16T05:00Z,ATP ABN AMRO World Tennis Tournament,Gilles Simon,Dominic Thiem,,,0.0
+76018,2017-02-16T05:00Z,ATP ABN AMRO World Tennis Tournament,Marin Cilic,Borna Coric,,,1.0
+76005,2017-02-16T10:00Z,ATP ABN AMRO World Tennis Tournament,Tomas Berdych,Richard Gasquet,,,1.0
+76022,2017-02-17T05:00Z,ATP ABN AMRO World Tennis Tournament,Pierre-Hugues Herbert,Dominic Thiem,,,1.0
+76029,2017-02-17T05:00Z,ATP ABN AMRO World Tennis Tournament,Marin Cilic,Jo-Wilfried Tsonga,,,0.0
+76035,2017-02-17T05:00Z,ATP ABN AMRO World Tennis Tournament,Grigor Dimitrov,David Goffin,,,0.0
+76024,2017-02-17T11:30Z,ATP ABN AMRO World Tennis Tournament,Tomas Berdych,Martin Klizan,,,1.0
+76043,2017-02-18T05:00Z,ATP ABN AMRO World Tennis Tournament,David Goffin,Pierre-Hugues Herbert,,,1.0
+76040,2017-02-18T14:00Z,ATP ABN AMRO World Tennis Tournament,Jo-Wilfried Tsonga,Tomas Berdych,,,1.0
+76048,2017-02-19T14:30Z,ATP ABN AMRO World Tennis Tournament,Jo-Wilfried Tsonga,David Goffin,,,1.0
+75983,2017-02-13T05:00Z,ATP Memphis Open,Adrian Mannarino,Donald Young,,,1.0
+75984,2017-02-13T05:00Z,ATP Memphis Open,Damir Dzumhur,Kevin Anderson,,,1.0
+75985,2017-02-13T05:00Z,ATP Memphis Open,Reilly Opelka,Jared Donaldson,,,1.0
+75982,2017-02-13T19:30Z,ATP Memphis Open,Yoshihito Nishioka,Guillermo Garcia-Lopez,,,1.0
+75997,2017-02-14T05:00Z,ATP Memphis Open,Ryan Harrison,Konstantin Kravchuk,,,1.0
+75991,2017-02-14T05:00Z,ATP Memphis Open,Taylor Fritz,Yen-Hsun Lu,,,1.0
+75993,2017-02-14T05:00Z,ATP Memphis Open,Frances Tiafoe,Tim Smyczek,,,0.0
+75996,2017-02-14T05:00Z,ATP Memphis Open,Steve Darcis,Radu Albot,,,1.0
+75995,2017-02-14T19:30Z,ATP Memphis Open,Darian King,Bernard Tomic,,,1.0
+75990,2017-02-14T19:30Z,ATP Memphis Open,Peter Polansky,Matthew Ebden,,,0.0
+76002,2017-02-15T05:00Z,ATP Memphis Open,Ryan Harrison,Sam Querrey,,,1.0
+76003,2017-02-15T05:00Z,ATP Memphis Open,Yoshihito Nishioka,John Isner,,,0.0
+76006,2017-02-15T05:00Z,ATP Memphis Open,Donald Young,Reilly Opelka,,,1.0
+76021,2017-02-15T05:00Z,ATP Memphis Open,Steve Darcis,Damir Dzumhur,,,0.0
+75994,2017-02-15T19:30Z,ATP Memphis Open,Mikhail Kukushkin,Benjamin Becker,,,1.0
+75989,2017-02-15T19:30Z,ATP Memphis Open,Nikoloz Basilashvili,Jordan Thompson,,,1.0
+76000,2017-02-16T05:00Z,ATP Memphis Open,Ivo Karlovic,Nikoloz Basilashvili,,,0.0
+76017,2017-02-16T05:00Z,ATP Memphis Open,Matthew Ebden,Taylor Fritz,,,1.0
+76001,2017-02-16T21:00Z,ATP Memphis Open,Steve Johnson,Tim Smyczek,,,1.0
+76016,2017-02-16T21:00Z,ATP Memphis Open,Mikhail Kukushkin,Darian King,,,1.0
+76027,2017-02-17T05:00Z,ATP Memphis Open,Donald Young,John Isner,,,1.0
+76030,2017-02-17T05:00Z,ATP Memphis Open,Damir Dzumhur,Ryan Harrison,,,0.0
+76039,2017-02-17T05:00Z,ATP Memphis Open,Nikoloz Basilashvili,Matthew Ebden,,,1.0
+76037,2017-02-17T21:00Z,ATP Memphis Open,Steve Johnson,Mikhail Kukushkin,,,0.0
+76046,2017-02-18T05:00Z,ATP Memphis Open,Ryan Harrison,Donald Young,,,1.0
+76044,2017-02-18T22:00Z,ATP Memphis Open,Nikoloz Basilashvili,Mikhail Kukushkin,,,1.0
+76049,2017-02-19T21:00Z,ATP Memphis Open,Nikoloz Basilashvili,Ryan Harrison,,,0.0
+118553,2017-02-20T09:30Z,ATP Dubai Duty Free Tennis Championships,Kateryna Volodko,Aryna Sabalenka,,,1.0
+122073,2017-02-20T17:05Z,ATP Dubai Duty Free Tennis Championships,Alison Riske-Amritraj,Coco Vandeweghe,,,1.0
+118503,2017-02-22T17:25Z,ATP Dubai Duty Free Tennis Championships,Kateryna Volodko,Caroline Wozniacki,,,0.0
+76258,2017-02-27T05:00Z,ATP Dubai Duty Free Tennis Championships,Viktor Troicki,Guillermo Garcia-Lopez,,,0.0
+76268,2017-02-27T05:00Z,ATP Dubai Duty Free Tennis Championships,Mohamed Safwat,Gael Monfils,,,0.0
+76265,2017-02-27T05:00Z,ATP Dubai Duty Free Tennis Championships,Roberto Bautista Agut,Karen Khachanov,,,1.0
+76261,2017-02-27T05:00Z,ATP Dubai Duty Free Tennis Championships,Roger Federer,Benoit Paire,,,1.0
+76271,2017-02-27T10:00Z,ATP Dubai Duty Free Tennis Championships,Marcel Granollers,Jiri Vesely,,,1.0
+76260,2017-02-27T10:00Z,ATP Dubai Duty Free Tennis Championships,Philipp Kohlschreiber,Gilles Muller,,,1.0
+76264,2017-02-28T05:00Z,ATP Dubai Duty Free Tennis Championships,Adam Pavlasek,Lucas Pouille,,,0.0
+76263,2017-02-28T05:00Z,ATP Dubai Duty Free Tennis Championships,Marius Copil,Jan-Lennard Struff,,,1.0
+76267,2017-02-28T05:00Z,ATP Dubai Duty Free Tennis Championships,Daniel Evans,Dustin Brown,,,1.0
+76269,2017-02-28T05:00Z,ATP Dubai Duty Free Tennis Championships,Tomas Berdych,Lukas Rosol,,,1.0
+76270,2017-02-28T05:00Z,ATP Dubai Duty Free Tennis Championships,Robin Haase,Denis Istomin,,,1.0
+76257,2017-02-28T05:00Z,ATP Dubai Duty Free Tennis Championships,Andy Murray,Malek Jaziri,,,1.0
+76259,2017-02-28T05:00Z,ATP Dubai Duty Free Tennis Championships,Omar  Alawadhi,Daniil Medvedev,,,0.0
+76266,2017-02-28T10:00Z,ATP Dubai Duty Free Tennis Championships,Andreas Seppi,Fernando Verdasco,,,0.0
+76262,2017-02-28T10:00Z,ATP Dubai Duty Free Tennis Championships,Mikhail Youzhny,Evgeny Donskoy,,,0.0
+76272,2017-02-28T10:00Z,ATP Dubai Duty Free Tennis Championships,Damir Dzumhur,Stan Wawrinka,,,1.0
+128070,2017-02-28T13:05Z,ATP Dubai Duty Free Tennis Championships,Omar Bahrouzyan Al Awadhi,Daniil Medvedev,,,0.0
+76342,2017-03-01T05:00Z,ATP Dubai Duty Free Tennis Championships,Daniel Evans,Gael Monfils,,,0.0
+76344,2017-03-01T05:00Z,ATP Dubai Duty Free Tennis Championships,Marius Copil,Lucas Pouille,,,0.0
+76346,2017-03-01T05:00Z,ATP Dubai Duty Free Tennis Championships,Tomas Berdych,Robin Haase,,,0.0
+76331,2017-03-01T05:00Z,ATP Dubai Duty Free Tennis Championships,Roger Federer,Evgeny Donskoy,,,0.0
+76327,2017-03-01T05:00Z,ATP Dubai Duty Free Tennis Championships,Andy Murray,Guillermo Garcia-Lopez,,,1.0
+76322,2017-03-01T05:00Z,ATP Dubai Duty Free Tennis Championships,Marcel Granollers,Damir Dzumhur,,,0.0
+76329,2017-03-01T10:00Z,ATP Dubai Duty Free Tennis Championships,Roberto Bautista Agut,Fernando Verdasco,,,0.0
+76323,2017-03-01T10:00Z,ATP Dubai Duty Free Tennis Championships,Daniil Medvedev,Philipp Kohlschreiber,,,0.0
+76360,2017-03-02T05:00Z,ATP Dubai Duty Free Tennis Championships,Fernando Verdasco,Gael Monfils,,,1.0
+76361,2017-03-02T05:00Z,ATP Dubai Duty Free Tennis Championships,Evgeny Donskoy,Lucas Pouille,,,0.0
+76362,2017-03-02T11:00Z,ATP Dubai Duty Free Tennis Championships,Robin Haase,Damir Dzumhur,,,1.0
+76359,2017-03-02T15:00Z,ATP Dubai Duty Free Tennis Championships,Andy Murray,Philipp Kohlschreiber,,,1.0
+76378,2017-03-03T05:00Z,ATP Dubai Duty Free Tennis Championships,Andy Murray,Lucas Pouille,,,1.0
+76375,2017-03-03T13:00Z,ATP Dubai Duty Free Tennis Championships,Fernando Verdasco,Robin Haase,,,1.0
+76386,2017-03-04T15:00Z,ATP Dubai Duty Free Tennis Championships,Andy Murray,Fernando Verdasco,,,1.0
+76062,2017-02-20T05:00Z,ATP Tour Open 13,Gilles Simon,Karen Khachanov,,,1.0
+76052,2017-02-20T13:30Z,ATP Tour Open 13,Stefanos Tsitsipas,Mikhail Youzhny,,,0.0
+76060,2017-02-20T13:30Z,ATP Tour Open 13,Andrey Kuznetsov,Malek Jaziri,,,0.0
+76053,2017-02-21T05:00Z,ATP Tour Open 13,Robin Haase,Richard Gasquet,,,0.0
+76055,2017-02-21T05:00Z,ATP Tour Open 13,Aljaz Bedene,Paul-Henri Mathieu,,,1.0
+76058,2017-02-21T05:00Z,ATP Tour Open 13,Alexander Zverev,Nicolas Mahut,,,0.0
+76059,2017-02-21T05:00Z,ATP Tour Open 13,Norbert Gombos,Evgeny Donskoy,,,1.0
+76063,2017-02-21T05:00Z,ATP Tour Open 13,Julien Benneteau,Denis Shapovalov,,,1.0
+76051,2017-02-21T05:00Z,ATP Tour Open 13,Sergiy Stakhovsky,Jiri Vesely,,,1.0
+76056,2017-02-21T11:00Z,ATP Tour Open 13,Jeremy Chardy,Jan-Lennard Struff,,,0.0
+76064,2017-02-21T11:00Z,ATP Tour Open 13,Andrey Rublev,Illya Marchenko,,,0.0
+76067,2017-02-22T05:00Z,ATP Tour Open 13,Lucas Pouille,Aljaz Bedene,,,1.0
+76184,2017-02-22T05:00Z,ATP Tour Open 13,Gilles Simon,Julien Benneteau,,,1.0
+76167,2017-02-22T05:00Z,ATP Tour Open 13,Mikhail Youzhny,Richard Gasquet,,,0.0
+76068,2017-02-22T05:00Z,ATP Tour Open 13,Malek Jaziri,Nick Kyrgios,,,0.0
+76057,2017-02-22T11:00Z,ATP Tour Open 13,Daniil Medvedev,Benoit Paire,,,1.0
+76069,2017-02-23T05:00Z,ATP Tour Open 13,Illya Marchenko,Jo-Wilfried Tsonga,,,0.0
+76066,2017-02-23T05:00Z,ATP Tour Open 13,Gael Monfils,Sergiy Stakhovsky,,,1.0
+76185,2017-02-23T05:00Z,ATP Tour Open 13,Jan-Lennard Struff,Daniil Medvedev,,,0.0
+76189,2017-02-23T05:00Z,ATP Tour Open 13,Nicolas Mahut,Norbert Gombos,,,0.0
+76205,2017-02-24T05:00Z,ATP Tour Open 13,Gael Monfils,Richard Gasquet,,,0.0
+76209,2017-02-24T05:00Z,ATP Tour Open 13,Norbert Gombos,Nick Kyrgios,,,0.0
+76216,2017-02-24T05:00Z,ATP Tour Open 13,Lucas Pouille,Daniil Medvedev,,,1.0
+76220,2017-02-24T05:00Z,ATP Tour Open 13,Gilles Simon,Jo-Wilfried Tsonga,,,0.0
+76230,2017-02-25T05:00Z,ATP Tour Open 13,Richard Gasquet,Lucas Pouille,,,0.0
+76225,2017-02-25T14:00Z,ATP Tour Open 13,Nick Kyrgios,Jo-Wilfried Tsonga,,,0.0
+76234,2017-02-26T14:00Z,ATP Tour Open 13,Lucas Pouille,Jo-Wilfried Tsonga,,,0.0
+76112,2017-02-20T05:00Z,ATP Delray Beach Open,Bjorn Fratangelo,Yen-Hsun Lu,,,0.0
+76119,2017-02-20T05:00Z,ATP Delray Beach Open,Yoshihito Nishioka,Kimmer Coppejans,,,1.0
+76124,2017-02-20T05:00Z,ATP Delray Beach Open,Taylor Fritz,Akira Santillan,,,1.0
+76113,2017-02-20T17:30Z,ATP Delray Beach Open,Adrian Mannarino,Kyle Edmund,,,0.0
+76114,2017-02-20T17:30Z,ATP Delray Beach Open,Sam Querrey,Dudi Sela,,,1.0
+122180,2017-02-21T01:05Z,ATP Delray Beach Open,Taylor Fritz,Akira Santillan,,,1.0
+76111,2017-02-21T05:00Z,ATP Delray Beach Open,Santiago Giraldo,Borna Coric,,,0.0
+76115,2017-02-21T05:00Z,ATP Delray Beach Open,Jared Donaldson,Mikhail Kukushkin,,,1.0
+76117,2017-02-21T05:00Z,ATP Delray Beach Open,Kevin Anderson,Juan Martin del Potro,,,0.0
+76118,2017-02-21T05:00Z,ATP Delray Beach Open,Steve Johnson,Stefan Kozlov,,,1.0
+76110,2017-02-21T05:00Z,ATP Delray Beach Open,Milos Raonic,Tim Smyczek,,,1.0
+76122,2017-02-21T05:00Z,ATP Delray Beach Open,Bernard Tomic,Steve Darcis,,,0.0
+76123,2017-02-21T05:00Z,ATP Delray Beach Open,Nikoloz Basilashvili,Tommy Haas,,,1.0
+76125,2017-02-21T05:00Z,ATP Delray Beach Open,Donald Young,Ivo Karlovic,,,1.0
+76121,2017-02-21T16:00Z,ATP Delray Beach Open,Radu Albot,Jack Sock,,,0.0
+120467,2017-02-21T16:00Z,ATP Delray Beach Open,Dustin Brown,Guillermo Garcia-Lopez,,,0.0
+76120,2017-02-21T16:00Z,ATP Delray Beach Open,Dustin Brown,Guillermo Garcia-Lopez,,,0.0
+76116,2017-02-21T16:00Z,ATP Delray Beach Open,Konstantin Kravchuk,Damir Dzumhur,,,0.0
+76174,2017-02-22T05:00Z,ATP Delray Beach Open,Steve Johnson,Yoshihito Nishioka,,,1.0
+76194,2017-02-22T05:00Z,ATP Delray Beach Open,Milos Raonic,Borna Coric,,,1.0
+76192,2017-02-22T17:30Z,ATP Delray Beach Open,Guillermo Garcia-Lopez,Jack Sock,,,0.0
+76172,2017-02-22T20:00Z,ATP Delray Beach Open,Yen-Hsun Lu,Kyle Edmund,,,0.0
+76193,2017-02-23T05:00Z,ATP Delray Beach Open,Damir Dzumhur,Juan Martin del Potro,,,0.0
+76191,2017-02-23T05:00Z,ATP Delray Beach Open,Taylor Fritz,Donald Young,,,0.0
+76195,2017-02-23T16:00Z,ATP Delray Beach Open,Steve Darcis,Nikoloz Basilashvili,,,1.0
+76170,2017-02-23T17:30Z,ATP Delray Beach Open,Sam Querrey,Jared Donaldson,,,1.0
+122275,2017-02-23T19:30Z,ATP Delray Beach Open,Taylor Fritz,Donald Young,,,0.0
+76214,2017-02-24T05:00Z,ATP Delray Beach Open,Milos Raonic,Kyle Edmund,,,1.0
+76221,2017-02-24T05:00Z,ATP Delray Beach Open,Sam Querrey,Juan Martin del Potro,,,0.0
+76219,2017-02-24T15:00Z,ATP Delray Beach Open,Steve Darcis,Donald Young,,,0.0
+76212,2017-02-24T17:30Z,ATP Delray Beach Open,Steve Johnson,Jack Sock,,,0.0
+76232,2017-02-25T05:00Z,ATP Delray Beach Open,Milos Raonic,Juan Martin del Potro,,,1.0
+76228,2017-02-25T20:00Z,ATP Delray Beach Open,Jack Sock,Donald Young,,,1.0
+76236,2017-02-26T20:00Z,ATP Delray Beach Open,Milos Raonic,Jack Sock,,,0.0
+76129,2017-02-20T05:00Z,ATP Rio Open presented by Claro,Roberto Carballes Baena,João Sousa,,,1.0
+76137,2017-02-20T05:00Z,ATP Rio Open presented by Claro,Arthur De Greef,Pablo Cuevas,,,1.0
+76139,2017-02-20T05:00Z,ATP Rio Open presented by Claro,Diego Schwartzman,Renzo Olivo,,,1.0
+76128,2017-02-20T19:30Z,ATP Rio Open presented by Claro,Casper Ruud,Yuliya Hatouka,,,1.0
+76140,2017-02-20T19:30Z,ATP Rio Open presented by Claro,Facundo Bagnis,Dusan Lajovic,,,0.0
+76136,2017-02-20T22:00Z,ATP Rio Open presented by Claro,Nicolas Kicker,Marco Cecchinato,,,1.0
+123550,2017-02-21T00:55Z,ATP Rio Open presented by Claro,Roberto Carballes Baena,João Sousa,,,1.0
+76126,2017-02-21T05:00Z,ATP Rio Open presented by Claro,Kei Nishikori,Thomaz Bellucci,,,0.0
+76130,2017-02-21T05:00Z,ATP Rio Open presented by Claro,Pablo Carreno Busta,Joao Souza,,,1.0
+76131,2017-02-21T05:00Z,ATP Rio Open presented by Claro,Guido Pella,Victor Estrella Burgos,,,0.0
+76132,2017-02-21T05:00Z,ATP Rio Open presented by Claro,Carlos Berlocq,Horacio Zeballos,,,0.0
+76133,2017-02-21T05:00Z,ATP Rio Open presented by Claro,Alexandr Dolgopolov,David Ferrer,,,1.0
+76141,2017-02-21T05:00Z,ATP Rio Open presented by Claro,Janko Tipsarevic,Dominic Thiem,,,0.0
+76127,2017-02-21T19:30Z,ATP Rio Open presented by Claro,Thiago Monteiro,Gastao Elias,,,1.0
+123649,2017-02-21T19:30Z,ATP Rio Open presented by Claro,Thiago Monteiro,Gastao Elias,,,1.0
+76135,2017-02-21T19:30Z,ATP Rio Open presented by Claro,Tommy Robredo,Fabio Fognini,,,0.0
+76138,2017-02-21T20:00Z,ATP Rio Open presented by Claro,Paolo Lorenzi,Federico Delbonis,,,0.0
+76134,2017-02-21T20:00Z,ATP Rio Open presented by Claro,Albert Ramos-Vinolas,Stephane Robert,,,1.0
+123114,2017-02-21T20:00Z,ATP Rio Open presented by Claro,Albert Ramos-Vinolas,Stephane Robert,,,1.0
+76175,2017-02-22T05:00Z,ATP Rio Open presented by Claro,Dusan Lajovic,Dominic Thiem,,,0.0
+76177,2017-02-22T19:30Z,ATP Rio Open presented by Claro,Federico Delbonis,Diego Schwartzman,,,0.0
+76176,2017-02-22T19:30Z,ATP Rio Open presented by Claro,Nicolas Kicker,Arthur De Greef,,,1.0
+76196,2017-02-22T22:00Z,ATP Rio Open presented by Claro,Albert Ramos-Vinolas,Fabio Fognini,,,1.0
+123157,2017-02-22T22:15Z,ATP Rio Open presented by Claro,Albert Ramos-Vinolas,Fabio Fognini,,,1.0
+76197,2017-02-23T05:00Z,ATP Rio Open presented by Claro,Thomaz Bellucci,Thiago Monteiro,,,0.0
+76173,2017-02-23T05:00Z,ATP Rio Open presented by Claro,Casper Ruud,Roberto Carballes Baena,,,1.0
+76198,2017-02-23T19:30Z,ATP Rio Open presented by Claro,Pablo Carreno Busta,Victor Estrella Burgos,,,1.0
+76199,2017-02-23T19:30Z,ATP Rio Open presented by Claro,Horacio Zeballos,Alexandr Dolgopolov,,,0.0
+76211,2017-02-24T05:00Z,ATP Rio Open presented by Claro,Diego Schwartzman,Dominic Thiem,,,0.0
+76222,2017-02-24T05:00Z,ATP Rio Open presented by Claro,Pablo Carreno Busta,Alexandr Dolgopolov,,,1.0
+76223,2017-02-24T05:00Z,ATP Rio Open presented by Claro,Thiago Monteiro,Casper Ruud,,,0.0
+76210,2017-02-24T18:00Z,ATP Rio Open presented by Claro,Albert Ramos-Vinolas,Nicolas Kicker,,,1.0
+123108,2017-02-24T18:15Z,ATP Rio Open presented by Claro,Albert Ramos-Vinolas,Nicolas Kicker,,,1.0
+123718,2017-02-24T23:00Z,ATP Rio Open presented by Claro,Thiago Monteiro,Casper Ruud,,,0.0
+76231,2017-02-25T05:00Z,ATP Rio Open presented by Claro,Casper Ruud,Pablo Carreno Busta,,,0.0
+76229,2017-02-25T20:00Z,ATP Rio Open presented by Claro,Albert Ramos-Vinolas,Dominic Thiem,,,0.0
+123155,2017-02-25T20:10Z,ATP Rio Open presented by Claro,Albert Ramos-Vinolas,Dominic Thiem,,,0.0
+76235,2017-02-26T20:00Z,ATP Rio Open presented by Claro,Pablo Carreno Busta,Dominic Thiem,,,0.0
+76251,2017-02-27T05:00Z,ATP Brasil Open,Gastao Elias,Orlando Luz,,,1.0
+76250,2017-02-27T15:30Z,ATP Brasil Open,Guido Pella,Guilherme Clezar,,,1.0
+76247,2017-02-27T15:30Z,ATP Brasil Open,Inigo Cervantes-Huegun,Renzo Olivo,,,0.0
+76238,2017-02-28T05:00Z,ATP Brasil Open,Horacio Zeballos,Joao Souza,,,0.0
+76240,2017-02-28T05:00Z,ATP Brasil Open,Marco Cecchinato,Fabio Fognini,,,0.0
+76242,2017-02-28T05:00Z,ATP Brasil Open,Facundo Bagnis,Dusan Lajovic,,,1.0
+76244,2017-02-28T05:00Z,ATP Brasil Open,Thomaz Bellucci,Diego Schwartzman,,,0.0
+76246,2017-02-28T05:00Z,ATP Brasil Open,Akira Santillan,Casper Ruud,,,0.0
+76249,2017-02-28T05:00Z,ATP Brasil Open,Carlos Berlocq,Thiago Monteiro,,,1.0
+76239,2017-02-28T15:30Z,ATP Brasil Open,Yuliya Hatouka,Alessandro Giannessi,,,0.0
+76245,2017-02-28T15:30Z,ATP Brasil Open,Federico Delbonis,Jozef Kovalik,,,1.0
+76243,2017-02-28T15:30Z,ATP Brasil Open,Gerald Melzer,Victor Estrella Burgos,,,1.0
+76348,2017-03-01T05:00Z,ATP Brasil Open,Federico Delbonis,Casper Ruud,,,1.0
+76255,2017-03-01T05:00Z,ATP Brasil Open,Renzo Olivo,João Sousa,,,0.0
+76256,2017-03-01T05:00Z,ATP Brasil Open,Gastao Elias,Albert Ramos-Vinolas,,,0.0
+76332,2017-03-01T05:00Z,ATP Brasil Open,Carlos Berlocq,Guido Pella,,,0.0
+76254,2017-03-02T05:00Z,ATP Brasil Open,Pablo Cuevas,Facundo Bagnis,,,1.0
+76347,2017-03-02T05:00Z,ATP Brasil Open,Gerald Melzer,Diego Schwartzman,,,0.0
+76253,2017-03-02T05:00Z,ATP Brasil Open,Pablo Carreno Busta,Joao Souza,,,1.0
+76349,2017-03-02T15:30Z,ATP Brasil Open,Alessandro Giannessi,Fabio Fognini,,,0.0
+76371,2017-03-03T05:00Z,ATP Brasil Open,Guido Pella,Albert Ramos-Vinolas,,,0.0
+76376,2017-03-03T05:00Z,ATP Brasil Open,Pablo Carreno Busta,Fabio Fognini,,,1.0
+76377,2017-03-03T05:00Z,ATP Brasil Open,Pablo Cuevas,Diego Schwartzman,,,1.0
+76363,2017-03-03T15:30Z,ATP Brasil Open,Federico Delbonis,João Sousa,,,0.0
+76389,2017-03-04T05:00Z,ATP Brasil Open,Pablo Carreno Busta,Pablo Cuevas,,,0.0
+76385,2017-03-04T16:00Z,ATP Brasil Open,João Sousa,Albert Ramos-Vinolas,,,0.0
+76391,2017-03-06T15:00Z,ATP Brasil Open,Pablo Cuevas,Albert Ramos-Vinolas,,,1.0
+76294,2017-02-27T02:00Z,ATP & WTA Abierto Mexicano Telcel,Adrian Mannarino,Taylor Fritz,,,1.0
+76302,2017-02-27T05:00Z,ATP & WTA Abierto Mexicano Telcel,Jordan Thompson,Feliciano Lopez,,,1.0
+76296,2017-02-27T05:00Z,ATP & WTA Abierto Mexicano Telcel,Stephane Robert,David Goffin,,,0.0
+76297,2017-02-27T05:00Z,ATP & WTA Abierto Mexicano Telcel,John Isner,Steve Johnson,,,0.0
+76298,2017-02-27T05:00Z,ATP & WTA Abierto Mexicano Telcel,Ernesto Escobedo,Stefan Kozlov,,,1.0
+76299,2017-02-27T22:00Z,ATP & WTA Abierto Mexicano Telcel,Lucas Gomez,Borna Coric,,,0.0
+76290,2017-02-28T05:00Z,ATP & WTA Abierto Mexicano Telcel,Juan Martin del Potro,Frances Tiafoe,,,1.0
+76304,2017-02-28T05:00Z,ATP & WTA Abierto Mexicano Telcel,Mischa Zverev,Rafael Nadal,,,0.0
+76289,2017-02-28T05:00Z,ATP & WTA Abierto Mexicano Telcel,Novak Djokovic,Martin Klizan,,,1.0
+76292,2017-02-28T05:00Z,ATP & WTA Abierto Mexicano Telcel,Dudi Sela,Nick Kyrgios,,,0.0
+76293,2017-02-28T05:00Z,ATP & WTA Abierto Mexicano Telcel,Dominic Thiem,Gilles Simon,,,1.0
+76295,2017-02-28T05:00Z,ATP & WTA Abierto Mexicano Telcel,Kyle Edmund,Sam Querrey,,,0.0
+76301,2017-02-28T05:00Z,ATP & WTA Abierto Mexicano Telcel,Jack Sock,Yoshihito Nishioka,,,0.0
+76300,2017-02-28T22:00Z,ATP & WTA Abierto Mexicano Telcel,Alexandr Dolgopolov,Marin Cilic,,,0.0
+76303,2017-02-28T22:00Z,ATP & WTA Abierto Mexicano Telcel,Paolo Lorenzi,Yen-Hsun Lu,,,1.0
+76291,2017-02-28T22:00Z,ATP & WTA Abierto Mexicano Telcel,Bernard Tomic,Donald Young,,,0.0
+76355,2017-03-01T05:00Z,ATP & WTA Abierto Mexicano Telcel,Novak Djokovic,Juan Martin del Potro,,,1.0
+76354,2017-03-01T05:00Z,ATP & WTA Abierto Mexicano Telcel,Paolo Lorenzi,Rafael Nadal,,,0.0
+76350,2017-03-01T05:00Z,ATP & WTA Abierto Mexicano Telcel,Yoshihito Nishioka,Jordan Thompson,,,1.0
+76340,2017-03-01T05:00Z,ATP & WTA Abierto Mexicano Telcel,Dominic Thiem,Adrian Mannarino,,,1.0
+76336,2017-03-01T05:00Z,ATP & WTA Abierto Mexicano Telcel,Steve Johnson,Ernesto Escobedo,,,1.0
+76333,2017-03-01T05:00Z,ATP & WTA Abierto Mexicano Telcel,Borna Coric,Marin Cilic,,,0.0
+76339,2017-03-01T22:00Z,ATP & WTA Abierto Mexicano Telcel,Sam Querrey,David Goffin,,,1.0
+76351,2017-03-01T22:00Z,ATP & WTA Abierto Mexicano Telcel,Donald Young,Nick Kyrgios,,,0.0
+76364,2017-03-02T05:00Z,ATP & WTA Abierto Mexicano Telcel,Dominic Thiem,Sam Querrey,,,0.0
+76365,2017-03-02T05:00Z,ATP & WTA Abierto Mexicano Telcel,Novak Djokovic,Nick Kyrgios,,,0.0
+76370,2017-03-02T05:00Z,ATP & WTA Abierto Mexicano Telcel,Yoshihito Nishioka,Rafael Nadal,,,0.0
+76372,2017-03-02T22:00Z,ATP & WTA Abierto Mexicano Telcel,Steve Johnson,Marin Cilic,,,0.0
+76379,2017-03-03T05:00Z,ATP & WTA Abierto Mexicano Telcel,Marin Cilic,Rafael Nadal,,,0.0
+76382,2017-03-03T05:00Z,ATP & WTA Abierto Mexicano Telcel,Nick Kyrgios,Sam Querrey,,,0.0
+76388,2017-03-04T05:00Z,ATP & WTA Abierto Mexicano Telcel,Sam Querrey,Rafael Nadal,,,1.0
+76319,2017-02-27T05:00Z,ATP & WTA Abierto Mexicano Telcel,Heather Watson,Bethanie Mattek-Sands,,,1.0
+76318,2017-02-27T05:00Z,ATP & WTA Abierto Mexicano Telcel,Kirsten Flipkens,Renata Zarazua,,,1.0
+76308,2017-02-27T05:00Z,ATP & WTA Abierto Mexicano Telcel,Jamie Loeb,Andrea Petkovic,,,0.0
+76312,2017-02-27T05:00Z,ATP & WTA Abierto Mexicano Telcel,Chloe Paquet,Lesia Tsurenko,,,0.0
+76307,2017-02-27T22:00Z,ATP & WTA Abierto Mexicano Telcel,Pauline Parmentier,Nicole Gibbs,,,1.0
+76306,2017-02-27T22:00Z,ATP & WTA Abierto Mexicano Telcel,Louisa Chirico,Shelby Rogers,,,0.0
+76320,2017-02-27T22:00Z,ATP & WTA Abierto Mexicano Telcel,Varvara Lepchenko,Kristina Mladenovic,,,0.0
+76313,2017-02-28T05:00Z,ATP & WTA Abierto Mexicano Telcel,Christina McHale,Fiona Ferro,,,1.0
+76314,2017-02-28T05:00Z,ATP & WTA Abierto Mexicano Telcel,Jennifer Brady,Taylor Townsend,,,0.0
+76311,2017-02-28T05:00Z,ATP & WTA Abierto Mexicano Telcel,Julia Goerges,Kateryna Volodko,,,1.0
+76309,2017-02-28T05:00Z,ATP & WTA Abierto Mexicano Telcel,Jelena Ostapenko,Danka Kovinic,,,1.0
+76317,2017-02-28T05:00Z,ATP & WTA Abierto Mexicano Telcel,Eugenie Bouchard,Ajla Tomljanovic,,,0.0
+76305,2017-02-28T05:00Z,ATP & WTA Abierto Mexicano Telcel,Andrea Vavassori,Belinda Bencic,,,1.0
+76315,2017-02-28T22:00Z,ATP & WTA Abierto Mexicano Telcel,Daniela Hantuchova,Yanina Wickmayer,,,1.0
+76316,2017-02-28T22:00Z,ATP & WTA Abierto Mexicano Telcel,Francesca Schiavone,Monica Puig,,,0.0
+76310,2017-02-28T22:00Z,ATP & WTA Abierto Mexicano Telcel,Madison Brengle,Annika Beck,,,1.0
+76353,2017-03-01T05:00Z,ATP & WTA Abierto Mexicano Telcel,Jelena Ostapenko,Madison Brengle,,,1.0
+76341,2017-03-01T05:00Z,ATP & WTA Abierto Mexicano Telcel,Ajla Tomljanovic,Kirsten Flipkens,,,0.0
+76337,2017-03-01T05:00Z,ATP & WTA Abierto Mexicano Telcel,Pauline Parmentier,Andrea Petkovic,,,1.0
+76335,2017-03-01T05:00Z,ATP & WTA Abierto Mexicano Telcel,Heather Watson,Kristina Mladenovic,,,0.0
+76334,2017-03-01T05:00Z,ATP & WTA Abierto Mexicano Telcel,Andrea Vavassori,Shelby Rogers,,,1.0
+76338,2017-03-01T22:00Z,ATP & WTA Abierto Mexicano Telcel,Julia Goerges,Lesia Tsurenko,,,0.0
+76356,2017-03-01T22:00Z,ATP & WTA Abierto Mexicano Telcel,Christina McHale,Taylor Townsend,,,1.0
+76352,2017-03-01T22:00Z,ATP & WTA Abierto Mexicano Telcel,Daniela Hantuchova,Monica Puig,,,0.0
+76367,2017-03-02T05:00Z,ATP & WTA Abierto Mexicano Telcel,Kirsten Flipkens,Kristina Mladenovic,,,0.0
+76368,2017-03-02T05:00Z,ATP & WTA Abierto Mexicano Telcel,Andrea Vavassori,Pauline Parmentier,,,1.0
+76369,2017-03-02T05:00Z,ATP & WTA Abierto Mexicano Telcel,Jelena Ostapenko,Lesia Tsurenko,,,0.0
+76366,2017-03-02T22:00Z,ATP & WTA Abierto Mexicano Telcel,Christina McHale,Monica Puig,,,1.0
+76381,2017-03-03T05:00Z,ATP & WTA Abierto Mexicano Telcel,Andrea Vavassori,Lesia Tsurenko,,,0.0
+76380,2017-03-03T22:00Z,ATP & WTA Abierto Mexicano Telcel,Christina McHale,Kristina Mladenovic,,,0.0
+76387,2017-03-04T00:00Z,ATP & WTA Abierto Mexicano Telcel,Lesia Tsurenko,Kristina Mladenovic,,,1.0

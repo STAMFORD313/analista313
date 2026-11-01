@@ -1,0 +1,37 @@
+id,date,event,home,away,hs,as,res
+381001123,2018-10-01T04:00Z,Miami Marlins at Pittsburgh Pirates,Pittsburgh Pirates,Miami Marlins,0,0,0.5
+381001116,2018-10-01T17:00Z,Milwaukee Brewers at Chicago Cubs,Chicago Cubs,Milwaukee Brewers,1,3,0.0
+381001119,2018-10-01T20:00Z,Colorado Rockies at Los Angeles Dodgers,Los Angeles Dodgers,Colorado Rockies,5,2,1.0
+401087833,2018-10-03T00:00Z,Colorado Rockies at Chicago Cubs,Chicago Cubs,Colorado Rockies,1,2,0.0
+401087536,2018-10-04T00:08Z,Oakland Athletics at New York Yankees,New York Yankees,Oakland Athletics,7,2,1.0
+401088956,2018-10-04T21:07Z,Colorado Rockies at Milwaukee Brewers,Milwaukee Brewers,Colorado Rockies,3,2,1.0
+401087834,2018-10-05T00:37Z,Atlanta Braves at Los Angeles Dodgers,Los Angeles Dodgers,Atlanta Braves,6,0,1.0
+401085799,2018-10-05T18:05Z,Cleveland Indians at Houston Astros,Houston Astros,Cleveland Indians,7,2,1.0
+401088957,2018-10-05T20:15Z,Colorado Rockies at Milwaukee Brewers,Milwaukee Brewers,Colorado Rockies,4,0,1.0
+401089619,2018-10-05T23:32Z,New York Yankees at Boston Red Sox,Boston Red Sox,New York Yankees,5,4,1.0
+401087835,2018-10-06T01:37Z,Atlanta Braves at Los Angeles Dodgers,Los Angeles Dodgers,Atlanta Braves,3,0,1.0
+401085800,2018-10-06T20:37Z,Cleveland Indians at Houston Astros,Houston Astros,Cleveland Indians,3,1,1.0
+401089620,2018-10-07T00:15Z,New York Yankees at Boston Red Sox,Boston Red Sox,New York Yankees,2,6,0.0
+401088958,2018-10-07T20:37Z,Milwaukee Brewers at Colorado Rockies,Colorado Rockies,Milwaukee Brewers,0,6,0.0
+401087836,2018-10-08T00:07Z,Los Angeles Dodgers at Atlanta Braves,Atlanta Braves,Los Angeles Dodgers,6,5,1.0
+401085801,2018-10-08T17:30Z,Houston Astros at Cleveland Indians,Cleveland Indians,Houston Astros,3,11,0.0
+401087837,2018-10-08T20:30Z,Los Angeles Dodgers at Atlanta Braves,Atlanta Braves,Los Angeles Dodgers,2,6,0.0
+401089621,2018-10-08T23:40Z,Boston Red Sox at New York Yankees,New York Yankees,Boston Red Sox,1,16,0.0
+401089622,2018-10-10T00:07Z,Boston Red Sox at New York Yankees,New York Yankees,Boston Red Sox,3,4,0.0
+401091256,2018-10-13T00:09Z,Los Angeles Dodgers at Milwaukee Brewers,Milwaukee Brewers,Los Angeles Dodgers,6,5,1.0
+401091257,2018-10-13T20:09Z,Los Angeles Dodgers at Milwaukee Brewers,Milwaukee Brewers,Los Angeles Dodgers,3,4,0.0
+401091674,2018-10-14T00:09Z,Houston Astros at Boston Red Sox,Boston Red Sox,Houston Astros,2,7,0.0
+401091675,2018-10-14T23:09Z,Houston Astros at Boston Red Sox,Boston Red Sox,Houston Astros,7,5,1.0
+401091258,2018-10-15T23:39Z,Milwaukee Brewers at Los Angeles Dodgers,Los Angeles Dodgers,Milwaukee Brewers,0,4,0.0
+401091676,2018-10-16T21:09Z,Boston Red Sox at Houston Astros,Houston Astros,Boston Red Sox,2,8,0.0
+401091259,2018-10-17T01:09Z,Milwaukee Brewers at Los Angeles Dodgers,Los Angeles Dodgers,Milwaukee Brewers,2,1,1.0
+401091260,2018-10-17T21:05Z,Milwaukee Brewers at Los Angeles Dodgers,Los Angeles Dodgers,Milwaukee Brewers,5,2,1.0
+401091677,2018-10-18T00:39Z,Boston Red Sox at Houston Astros,Houston Astros,Boston Red Sox,6,8,0.0
+401091678,2018-10-19T00:09Z,Boston Red Sox at Houston Astros,Houston Astros,Boston Red Sox,1,4,0.0
+401091261,2018-10-20T00:39Z,Los Angeles Dodgers at Milwaukee Brewers,Milwaukee Brewers,Los Angeles Dodgers,7,2,1.0
+401091262,2018-10-21T00:09Z,Los Angeles Dodgers at Milwaukee Brewers,Milwaukee Brewers,Los Angeles Dodgers,1,5,0.0
+401097153,2018-10-24T00:09Z,Los Angeles Dodgers at Boston Red Sox,Boston Red Sox,Los Angeles Dodgers,8,4,1.0
+401097154,2018-10-25T00:09Z,Los Angeles Dodgers at Boston Red Sox,Boston Red Sox,Los Angeles Dodgers,4,2,1.0
+401097155,2018-10-27T00:09Z,Boston Red Sox at Los Angeles Dodgers,Los Angeles Dodgers,Boston Red Sox,3,2,1.0
+401097156,2018-10-28T00:09Z,Boston Red Sox at Los Angeles Dodgers,Los Angeles Dodgers,Boston Red Sox,6,9,0.0
+401097157,2018-10-29T00:15Z,Boston Red Sox at Los Angeles Dodgers,Los Angeles Dodgers,Boston Red Sox,1,5,0.0

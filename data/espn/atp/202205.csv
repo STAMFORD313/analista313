@@ -1,0 +1,965 @@
+id,date,event,home,away,hs,as,res
+118672,2022-04-23T11:15Z,Millennium Estoril Open,Hugo Dellien,Gastao Elias,,,1.0
+118679,2022-04-23T11:15Z,Millennium Estoril Open,Alexei Popyrin,Pierre-Hugues Herbert,,,0.0
+118678,2022-04-23T11:15Z,Millennium Estoril Open,Pedro Araujo,Gianluca Mager,,,1.0
+118680,2022-04-23T12:45Z,Millennium Estoril Open,Radu Albot,Fernando Verdasco,,,0.0
+118677,2022-04-23T12:45Z,Millennium Estoril Open,Pablo Cuevas,Liam Broady,,,1.0
+118674,2022-04-23T13:00Z,Millennium Estoril Open,Max Purcell,Marco Cecchinato,,,1.0
+118676,2022-04-23T14:15Z,Millennium Estoril Open,Pedro Sousa,Bernabe Zapata Miralles,,,0.0
+118675,2022-04-23T14:15Z,Millennium Estoril Open,Carlos Taberner,Tiago Cacao,,,1.0
+118717,2022-04-24T11:00Z,Millennium Estoril Open,Hugo Dellien,Max Purcell,,,1.0
+118718,2022-04-24T11:00Z,Millennium Estoril Open,Pablo Cuevas,Pedro Araujo,,,1.0
+118716,2022-04-24T13:00Z,Millennium Estoril Open,Carlos Taberner,Bernabe Zapata Miralles,,,0.0
+118719,2022-04-24T14:00Z,Millennium Estoril Open,Pierre-Hugues Herbert,Fernando Verdasco,,,1.0
+118742,2022-04-25T12:10Z,Millennium Estoril Open,SoonWoo Kwon,Benoit Paire,,,1.0
+118735,2022-04-25T14:15Z,Millennium Estoril Open,Pablo Andujar,Nuno Borges,,,0.0
+118728,2022-04-25T15:55Z,Millennium Estoril Open,Dusan Lajovic,Frances Tiafoe,,,0.0
+118720,2022-04-25T17:15Z,Millennium Estoril Open,Federico Coria,Bernabe Zapata Miralles,,,0.0
+118726,2022-04-26T12:30Z,Millennium Estoril Open,Lloyd Harris,Carlos Taberner,,,0.0
+118725,2022-04-26T12:45Z,Millennium Estoril Open,Pablo Cuevas,Roberto Carballes Baena,,,1.0
+118743,2022-04-26T13:10Z,Millennium Estoril Open,Tommy Paul,Richard Gasquet,,,0.0
+118723,2022-04-26T14:00Z,Millennium Estoril Open,Jiri Vesely,Hugo Dellien,,,0.0
+118722,2022-04-26T15:05Z,Millennium Estoril Open,João Sousa,Sebastian Baez,,,0.0
+118731,2022-04-26T15:55Z,Millennium Estoril Open,Albert Ramos-Vinolas,Jordan Thompson,,,1.0
+118744,2022-04-26T16:35Z,Millennium Estoril Open,Benjamin Bonzi,Dominic Thiem,,,1.0
+118733,2022-04-26T18:40Z,Millennium Estoril Open,Pierre-Hugues Herbert,Sebastian Korda,,,0.0
+118727,2022-04-27T12:10Z,Millennium Estoril Open,Alejandro Davidovich Fokina,Bernabe Zapata Miralles,,,1.0
+118737,2022-04-27T14:30Z,Millennium Estoril Open,Nuno Borges,Frances Tiafoe,,,0.0
+118721,2022-04-27T17:15Z,Millennium Estoril Open,Pablo Cuevas,Fernando Verdasco,,,0.0
+118740,2022-04-27T18:50Z,Millennium Estoril Open,Albert Ramos-Vinolas,SoonWoo Kwon,,,1.0
+118747,2022-04-28T12:10Z,Millennium Estoril Open,Richard Gasquet,Hugo Dellien,,,1.0
+118745,2022-04-28T14:40Z,Millennium Estoril Open,Sebastian Baez,Marin Cilic,,,1.0
+118730,2022-04-28T17:10Z,Millennium Estoril Open,Felix Auger-Aliassime,Carlos Taberner,,,1.0
+118749,2022-04-28T19:20Z,Millennium Estoril Open,Benjamin Bonzi,Sebastian Korda,,,0.0
+118724,2022-04-29T12:10Z,Millennium Estoril Open,Albert Ramos-Vinolas,Fernando Verdasco,,,1.0
+118739,2022-04-29T13:50Z,Millennium Estoril Open,Richard Gasquet,Sebastian Baez,,,0.0
+118729,2022-04-29T17:05Z,Millennium Estoril Open,Alejandro Davidovich Fokina,Frances Tiafoe,,,0.0
+118746,2022-04-29T20:35Z,Millennium Estoril Open,Felix Auger-Aliassime,Sebastian Korda,,,0.0
+118732,2022-04-30T14:10Z,Millennium Estoril Open,Sebastian Baez,Albert Ramos-Vinolas,,,1.0
+118738,2022-04-30T17:05Z,Millennium Estoril Open,Sebastian Korda,Frances Tiafoe,,,0.0
+118748,2022-05-01T14:40Z,Millennium Estoril Open,Frances Tiafoe,Sebastian Baez,,,0.0
+118670,2022-04-23T09:00Z,BMW Open by Bitpanda,Henri Laaksonen,Marko Topo,,,0.0
+118664,2022-04-23T09:00Z,BMW Open by Bitpanda,Francisco Cerundolo,Egor Gerasimov,,,0.0
+118671,2022-04-23T10:00Z,BMW Open by Bitpanda,Daniel Masur,Norbert Gombos,,,0.0
+118665,2022-04-23T10:30Z,BMW Open by Bitpanda,Mikhail Kukushkin,Thiago Monteiro,,,0.0
+118666,2022-04-23T10:30Z,BMW Open by Bitpanda,Yoshihito Nishioka,Maximilian Marterer,,,1.0
+118669,2022-04-23T11:30Z,BMW Open by Bitpanda,Damir Dzumhur,Jiri Lehecka,,,0.0
+118667,2022-04-23T12:00Z,BMW Open by Bitpanda,Elias Ymer,Yannick Hanfmann,,,0.0
+118668,2022-04-23T13:00Z,BMW Open by Bitpanda,Alejandro Tabilo,Geoffrey Blancaneaux,,,1.0
+118715,2022-04-24T09:00Z,BMW Open by Bitpanda,Marko Topo,Norbert Gombos,,,1.0
+118712,2022-04-24T10:00Z,BMW Open by Bitpanda,Egor Gerasimov,Thiago Monteiro,,,1.0
+118713,2022-04-24T10:30Z,BMW Open by Bitpanda,Yoshihito Nishioka,Yannick Hanfmann,,,1.0
+118714,2022-04-24T11:30Z,BMW Open by Bitpanda,Alejandro Tabilo,Jiri Lehecka,,,0.0
+118703,2022-04-25T09:10Z,BMW Open by Bitpanda,Miomir Kecmanovic,Max Hans Rehberg,,,1.0
+118683,2022-04-25T10:30Z,BMW Open by Bitpanda,Norbert Gombos,Alex Molcan,,,0.0
+118701,2022-04-25T11:10Z,BMW Open by Bitpanda,Philipp Kohlschreiber,Daniel Altmaier,,,0.0
+118709,2022-04-25T12:00Z,BMW Open by Bitpanda,Yoshihito Nishioka,Emil Ruusuvuori,,,0.0
+118684,2022-04-25T13:40Z,BMW Open by Bitpanda,Jiri Lehecka,Holger Rune,,,0.0
+118706,2022-04-26T14:30Z,BMW Open by Bitpanda,Maxime Cressy,Daniel Evans,,,1.0
+118704,2022-04-26T14:30Z,BMW Open by Bitpanda,Hugo Gaston,Marcos Giron,,,1.0
+118687,2022-04-26T14:30Z,BMW Open by Bitpanda,Mackenzie McDonald,Ilya Ivashka,,,0.0
+118682,2022-04-26T16:00Z,BMW Open by Bitpanda,Oscar Otte,Marko Topo,,,1.0
+118711,2022-04-27T09:10Z,BMW Open by Bitpanda,Miomir Kecmanovic,Daniel Altmaier,,,1.0
+118699,2022-04-27T09:10Z,BMW Open by Bitpanda,Egor Gerasimov,John Millman,,,1.0
+118697,2022-04-27T09:10Z,BMW Open by Bitpanda,Botic Van De Zandschulp,Brandon Nakashima,,,1.0
+118690,2022-04-27T11:00Z,BMW Open by Bitpanda,Alejandro Tabilo,Cristian Garin,,,1.0
+118694,2022-04-27T11:10Z,BMW Open by Bitpanda,Alexander Zverev,Holger Rune,,,0.0
+118691,2022-04-27T13:10Z,BMW Open by Bitpanda,Ilya Ivashka,Nikoloz Basilashvili,,,0.0
+118695,2022-04-27T15:25Z,BMW Open by Bitpanda,Emil Ruusuvuori,Maxime Cressy,,,1.0
+118707,2022-04-28T09:10Z,BMW Open by Bitpanda,Botic Van De Zandschulp,Egor Gerasimov,,,1.0
+118681,2022-04-28T11:10Z,BMW Open by Bitpanda,Alex Molcan,Casper Ruud,,,0.0
+118689,2022-04-28T13:45Z,BMW Open by Bitpanda,Reilly Opelka,Oscar Otte,,,0.0
+118685,2022-04-28T15:30Z,BMW Open by Bitpanda,Hugo Gaston,Alejandro Tabilo,,,0.0
+118702,2022-04-29T09:10Z,BMW Open by Bitpanda,Miomir Kecmanovic,Nikoloz Basilashvili,,,1.0
+118686,2022-04-29T11:40Z,BMW Open by Bitpanda,Botic Van De Zandschulp,Casper Ruud,,,1.0
+118688,2022-04-29T13:35Z,BMW Open by Bitpanda,Oscar Otte,Alejandro Tabilo,,,1.0
+118710,2022-04-29T14:35Z,BMW Open by Bitpanda,Holger Rune,Emil Ruusuvuori,,,1.0
+118692,2022-04-30T11:40Z,BMW Open by Bitpanda,Miomir Kecmanovic,Botic Van De Zandschulp,,,0.0
+118705,2022-04-30T14:45Z,BMW Open by Bitpanda,Holger Rune,Oscar Otte,,,1.0
+118693,2022-05-01T11:45Z,BMW Open by Bitpanda,Holger Rune,Botic Van De Zandschulp,,,1.0
+118861,2022-04-26T09:05Z,Mutua Madrid Open,Beatriz Haddad Maia,Erika Andreeva,,,1.0
+118862,2022-04-26T09:05Z,Mutua Madrid Open,Oceane Dodin,Panna Udvardy,,,1.0
+118863,2022-04-26T09:05Z,Mutua Madrid Open,Anna Bondar,Alexandra Eala,,,1.0
+118864,2022-04-26T09:05Z,Mutua Madrid Open,Chloe Paquet,Greet Minnen,,,0.0
+118851,2022-04-26T09:10Z,Mutua Madrid Open,Magda Linette,Kateryna Baindl,,,1.0
+118852,2022-04-26T09:10Z,Mutua Madrid Open,Jessica Bouzas Maneiro,Anna Karolina Schmiedlova,,,0.0
+118857,2022-04-26T10:35Z,Mutua Madrid Open,Irina-Camelia Begu,Ekaterine Gorgodze,,,1.0
+118854,2022-04-26T10:45Z,Mutua Madrid Open,Carlota Martinez Cirez,Lucia Bronzetti,,,0.0
+118855,2022-04-26T10:55Z,Mutua Madrid Open,Mayar Sherif,Kristina Mladenovic,,,0.0
+118846,2022-04-26T11:05Z,Mutua Madrid Open,Madison Brengle,Dayana Yastremska,,,0.0
+118847,2022-04-26T11:05Z,Mutua Madrid Open,Harmony Tan,Lauren Davis,,,1.0
+118858,2022-04-26T11:40Z,Mutua Madrid Open,Kamilla Rakhimova,Magdalena Frech,,,1.0
+118849,2022-04-26T12:25Z,Mutua Madrid Open,Kaia Kanepi,Harriet Dart,,,1.0
+118850,2022-04-26T12:45Z,Mutua Madrid Open,Cristina Bucsa,Martina Trevisan,,,0.0
+118843,2022-04-26T13:15Z,Mutua Madrid Open,Aliaksandra Sasnovich,Danka Kovinic,,,0.0
+118856,2022-04-26T13:20Z,Mutua Madrid Open,Daria Saville,Anastasia Potapova,,,0.0
+118844,2022-04-26T13:40Z,Mutua Madrid Open,Fiona Ferro,Marie Bouzkova,,,0.0
+118853,2022-04-26T13:45Z,Mutua Madrid Open,Petra Martic,Dalma Galfi,,,1.0
+118866,2022-04-26T13:45Z,Mutua Madrid Open,Heather Watson,Kristina Kucova,,,1.0
+118841,2022-04-26T14:20Z,Mutua Madrid Open,Ekaterina Alexandrova,Tamara Korpatsch,,,1.0
+118860,2022-04-26T14:50Z,Mutua Madrid Open,Wang Qiang,Kaja Juvan,,,0.0
+118859,2022-04-26T15:00Z,Mutua Madrid Open,Andrea Petkovic,Misaki Doi,,,1.0
+118842,2022-04-26T15:50Z,Mutua Madrid Open,Diane Parry,Clara Burel,,,0.0
+118865,2022-04-26T15:55Z,Mutua Madrid Open,Varvara Gracheva,Maddison Inglis,,,1.0
+118934,2022-04-27T09:10Z,Mutua Madrid Open,Magda Linette,Anna Karolina Schmiedlova,,,0.0
+118939,2022-04-27T09:10Z,Mutua Madrid Open,Beatriz Haddad Maia,Oceane Dodin,,,0.0
+118940,2022-04-27T09:10Z,Mutua Madrid Open,Anna Bondar,Greet Minnen,,,1.0
+118932,2022-04-27T11:00Z,Mutua Madrid Open,Dayana Yastremska,Harmony Tan,,,1.0
+118933,2022-04-27T12:00Z,Mutua Madrid Open,Kaia Kanepi,Martina Trevisan,,,1.0
+118937,2022-04-27T12:15Z,Mutua Madrid Open,Irina-Camelia Begu,Kamilla Rakhimova,,,1.0
+118931,2022-04-27T12:45Z,Mutua Madrid Open,Danka Kovinic,Marie Bouzkova,,,0.0
+118935,2022-04-27T13:40Z,Mutua Madrid Open,Petra Martic,Lucia Bronzetti,,,1.0
+118936,2022-04-27T13:50Z,Mutua Madrid Open,Kristina Mladenovic,Anastasia Potapova,,,0.0
+118941,2022-04-27T14:55Z,Mutua Madrid Open,Varvara Gracheva,Heather Watson,,,1.0
+118930,2022-04-27T15:10Z,Mutua Madrid Open,Ekaterina Alexandrova,Clara Burel,,,1.0
+118938,2022-04-27T15:10Z,Mutua Madrid Open,Andrea Petkovic,Kaja Juvan,,,1.0
+118883,2022-04-28T09:10Z,Mutua Madrid Open,Zheng Qinwen,Karolina Muchova,,,0.0
+118910,2022-04-28T09:10Z,Mutua Madrid Open,Ons Jabeur,Jasmine Paolini,,,1.0
+118928,2022-04-28T09:10Z,Mutua Madrid Open,Nuria Parrizas Diaz,Sorana Cirstea,,,1.0
+118923,2022-04-28T10:55Z,Mutua Madrid Open,Victoria Azarenka,Viktorija Golubic,,,1.0
+118867,2022-04-28T11:05Z,Mutua Madrid Open,Simona Halep,Zhang Shuai,,,1.0
+118905,2022-04-28T12:00Z,Mutua Madrid Open,Irina-Camelia Begu,Belinda Bencic,,,0.0
+118874,2022-04-28T12:15Z,Mutua Madrid Open,Beatriz Haddad Maia,Tamara Zidansek,,,0.0
+118880,2022-04-28T12:15Z,Mutua Madrid Open,Greet Minnen,Dayana Yastremska,,,0.0
+118894,2022-04-28T12:35Z,Mutua Madrid Open,Veronika Kudermetova,Paula Badosa,,,0.0
+118918,2022-04-28T13:00Z,Mutua Madrid Open,Coco Gauff,Anna Karolina Schmiedlova,,,1.0
+118919,2022-04-28T13:40Z,Mutua Madrid Open,Liudmila Samsonova,Petra Martic,,,0.0
+118890,2022-04-28T13:50Z,Mutua Madrid Open,Ekaterina Alexandrova,Jelena Ostapenko,,,1.0
+118912,2022-04-28T13:55Z,Mutua Madrid Open,Alize Cornet,Varvara Gracheva,,,0.0
+118888,2022-04-28T14:00Z,Mutua Madrid Open,Amanda Anisimova,Aryna Sabalenka,,,1.0
+118903,2022-04-28T14:15Z,Mutua Madrid Open,Karolina Pliskova,Marie Bouzkova,,,0.0
+118913,2022-04-28T15:55Z,Mutua Madrid Open,Yulia Putintseva,Shelby Rogers,,,1.0
+118868,2022-04-29T09:10Z,Mutua Madrid Open,Jessica Pegula,Camila Giorgi,,,1.0
+118870,2022-04-29T09:10Z,Mutua Madrid Open,Oceane Dodin,Elena Rybakina,,,0.0
+118902,2022-04-29T09:10Z,Mutua Madrid Open,Anna Bondar,Daria Kasatkina,,,0.0
+118917,2022-04-29T09:10Z,Mutua Madrid Open,Jil Teichmann,Petra Kvitova,,,1.0
+118901,2022-04-29T10:45Z,Mutua Madrid Open,Leylah Fernandez,Andrea Petkovic,,,1.0
+118879,2022-04-29T10:50Z,Mutua Madrid Open,Maria Sakkari,Madison Keys,,,1.0
+118899,2022-04-29T11:40Z,Mutua Madrid Open,Marta Kostyuk,Clara Tauson,,,1.0
+118887,2022-04-29T12:10Z,Mutua Madrid Open,Monica Puig,Danielle Collins,,,0.0
+118892,2022-04-29T13:10Z,Mutua Madrid Open,Linda Fruhvirtova,Kaia Kanepi,,,0.0
+118922,2022-04-29T13:30Z,Mutua Madrid Open,Ana Konjuh,Katerina Siniakova,,,0.0
+118907,2022-04-29T13:40Z,Mutua Madrid Open,Ajla Tomljanovic,Garbine Muguruza,,,0.0
+118885,2022-04-29T13:50Z,Mutua Madrid Open,Bianca Andreescu,Alison Riske-Amritraj,,,1.0
+118915,2022-04-29T14:40Z,Mutua Madrid Open,Sloane Stephens,Anhelina Kalinina,,,0.0
+118925,2022-04-29T15:30Z,Mutua Madrid Open,Anastasia Potapova,Naomi Osaka,,,0.0
+118897,2022-04-29T16:00Z,Mutua Madrid Open,Emma Raducanu,Tereza Martincova,,,1.0
+118911,2022-04-29T16:55Z,Mutua Madrid Open,Sara Sorribes Tormo,Anastasia Pavlyuchenkova,,,1.0
+118921,2022-04-30T09:10Z,Mutua Madrid Open,Victoria Azarenka,Tamara Zidansek,,,1.0
+118895,2022-04-30T10:50Z,Mutua Madrid Open,Marie Bouzkova,Dayana Yastremska,,,1.0
+118884,2022-04-30T11:50Z,Mutua Madrid Open,Nuria Parrizas Diaz,Ekaterina Alexandrova,,,0.0
+118904,2022-04-30T14:00Z,Mutua Madrid Open,Karolina Muchova,Belinda Bencic,,,0.0
+118878,2022-04-30T14:05Z,Mutua Madrid Open,Petra Martic,Amanda Anisimova,,,0.0
+118920,2022-04-30T16:55Z,Mutua Madrid Open,Ons Jabeur,Varvara Gracheva,,,1.0
+118914,2022-04-30T17:00Z,Mutua Madrid Open,Simona Halep,Paula Badosa,,,1.0
+118893,2022-04-30T18:40Z,Mutua Madrid Open,Coco Gauff,Yulia Putintseva,,,1.0
+118871,2022-05-01T09:10Z,Mutua Madrid Open,Bianca Andreescu,Danielle Collins,,,1.0
+118877,2022-05-01T10:35Z,Mutua Madrid Open,Anhelina Kalinina,Garbine Muguruza,,,1.0
+118909,2022-05-01T11:15Z,Mutua Madrid Open,Jessica Pegula,Kaia Kanepi,,,1.0
+118881,2022-05-01T13:10Z,Mutua Madrid Open,Leylah Fernandez,Jil Teichmann,,,0.0
+118872,2022-05-01T15:00Z,Mutua Madrid Open,Emma Raducanu,Marta Kostyuk,,,1.0
+118906,2022-05-01T15:35Z,Mutua Madrid Open,Katerina Siniakova,Elena Rybakina,,,0.0
+118927,2022-05-01T16:20Z,Mutua Madrid Open,Maria Sakkari,Daria Kasatkina,,,0.0
+118889,2022-05-01T17:15Z,Mutua Madrid Open,Naomi Osaka,Sara Sorribes Tormo,,,0.0
+118916,2022-05-02T11:50Z,Mutua Madrid Open,Ons Jabeur,Belinda Bencic,,,1.0
+118891,2022-05-02T15:10Z,Mutua Madrid Open,Coco Gauff,Simona Halep,,,0.0
+118875,2022-05-02T17:55Z,Mutua Madrid Open,Marie Bouzkova,Ekaterina Alexandrova,,,0.0
+118898,2022-05-02T20:20Z,Mutua Madrid Open,Victoria Azarenka,Amanda Anisimova,,,0.0
+118882,2022-05-03T12:55Z,Mutua Madrid Open,Daria Kasatkina,Sara Sorribes Tormo,,,0.0
+118908,2022-05-03T14:30Z,Mutua Madrid Open,Jessica Pegula,Bianca Andreescu,,,1.0
+118869,2022-05-03T17:00Z,Mutua Madrid Open,Jil Teichmann,Elena Rybakina,,,1.0
+118896,2022-05-03T18:10Z,Mutua Madrid Open,Emma Raducanu,Anhelina Kalinina,,,0.0
+118886,2022-05-04T10:10Z,Mutua Madrid Open,Ons Jabeur,Simona Halep,,,1.0
+118926,2022-05-04T13:25Z,Mutua Madrid Open,Ekaterina Alexandrova,Amanda Anisimova,,,1.0
+118924,2022-05-04T15:50Z,Mutua Madrid Open,Jil Teichmann,Anhelina Kalinina,,,1.0
+118873,2022-05-04T18:10Z,Mutua Madrid Open,Sara Sorribes Tormo,Jessica Pegula,,,0.0
+118900,2022-05-05T13:05Z,Mutua Madrid Open,Ekaterina Alexandrova,Ons Jabeur,,,0.0
+118876,2022-05-05T21:15Z,Mutua Madrid Open,Jil Teichmann,Jessica Pegula,,,0.0
+118929,2022-05-07T18:35Z,Mutua Madrid Open,Jessica Pegula,Ons Jabeur,,,0.0
+118942,2022-04-30T09:10Z,Mutua Madrid Open,Ugo Humbert,Pablo Andujar,,,1.0
+118946,2022-04-30T09:10Z,Mutua Madrid Open,Francisco Cerundolo,Alejandro Moro Canas,,,0.0
+118947,2022-04-30T09:10Z,Mutua Madrid Open,Yoshihito Nishioka,Lorenzo Musetti,,,0.0
+118948,2022-04-30T09:10Z,Mutua Madrid Open,Marton Fucsovics,Daniel Merida,,,1.0
+118949,2022-04-30T09:10Z,Mutua Madrid Open,Daniel Rincon,Maxime Cressy,,,0.0
+118952,2022-04-30T10:35Z,Mutua Madrid Open,Federico Coria,Denis Kudla,,,1.0
+118943,2022-04-30T10:45Z,Mutua Madrid Open,Shang Juncheng,SoonWoo Kwon,,,0.0
+118953,2022-04-30T11:15Z,Mutua Madrid Open,Brandon Nakashima,Benoit Paire,,,0.0
+118950,2022-04-30T11:45Z,Mutua Madrid Open,Mackenzie McDonald,João Sousa,,,1.0
+118944,2022-04-30T13:05Z,Mutua Madrid Open,Alex Molcan,Roberto Carballes Baena,,,0.0
+118945,2022-04-30T15:10Z,Mutua Madrid Open,Dusan Lajovic,Adrian Mannarino,,,1.0
+118951,2022-04-30T15:40Z,Mutua Madrid Open,Hugo Dellien,Hugo Gaston,,,1.0
+118955,2022-04-30T15:50Z,Mutua Madrid Open,Jiri Vesely,David Goffin,,,0.0
+118954,2022-04-30T16:55Z,Mutua Madrid Open,Marcos Giron,Alejandro Tabilo,,,0.0
+119052,2022-05-01T09:00Z,Mutua Madrid Open,Ugo Humbert,SoonWoo Kwon,,,0.0
+119054,2022-05-01T09:00Z,Mutua Madrid Open,Alejandro Moro Canas,Lorenzo Musetti,,,0.0
+119055,2022-05-01T09:00Z,Mutua Madrid Open,Marton Fucsovics,Maxime Cressy,,,0.0
+119057,2022-05-01T09:00Z,Mutua Madrid Open,Federico Coria,Benoit Paire,,,0.0
+119053,2022-05-01T11:10Z,Mutua Madrid Open,Roberto Carballes Baena,Dusan Lajovic,,,0.0
+119004,2022-05-01T11:45Z,Mutua Madrid Open,Lorenzo Sonego,Jack Draper,,,0.0
+119058,2022-05-01T12:45Z,Mutua Madrid Open,Alejandro Tabilo,David Goffin,,,0.0
+118963,2022-05-01T13:10Z,Mutua Madrid Open,Filip Krajinovic,John Isner,,,0.0
+118960,2022-05-01T13:40Z,Mutua Madrid Open,Daniel Evans,Federico Delbonis,,,1.0
+119056,2022-05-01T13:50Z,Mutua Madrid Open,Mackenzie McDonald,Hugo Dellien,,,0.0
+118957,2022-05-02T10:10Z,Mutua Madrid Open,Tommy Paul,Jannik Sinner,,,0.0
+118967,2022-05-02T10:10Z,Mutua Madrid Open,Lloyd Harris,Alejandro Davidovich Fokina,,,0.0
+118995,2022-05-02T10:10Z,Mutua Madrid Open,Alex de Minaur,Pedro Martinez,,,1.0
+119017,2022-05-02T11:10Z,Mutua Madrid Open,Borna Coric,Dusan Lajovic,,,0.0
+118966,2022-05-02T12:50Z,Mutua Madrid Open,Ilya Ivashka,Lorenzo Musetti,,,0.0
+118979,2022-05-02T13:55Z,Mutua Madrid Open,Carlos Gimeno Valero,Gael Monfils,,,0.0
+119011,2022-05-02T14:15Z,Mutua Madrid Open,Nikoloz Basilashvili,Fabio Fognini,,,1.0
+118973,2022-05-02T15:10Z,Mutua Madrid Open,Diego Schwartzman,Benoit Paire,,,1.0
+118978,2022-05-02T15:25Z,Mutua Madrid Open,Aslan Karatsev,David Goffin,,,0.0
+118987,2022-05-02T15:50Z,Mutua Madrid Open,Cameron Norrie,SoonWoo Kwon,,,1.0
+118999,2022-05-02T17:45Z,Mutua Madrid Open,Grigor Dimitrov,Maxime Cressy,,,1.0
+118971,2022-05-02T18:10Z,Mutua Madrid Open,Andy Murray,Dominic Thiem,,,1.0
+118977,2022-05-02T19:25Z,Mutua Madrid Open,Ugo Humbert,Denis Shapovalov,,,0.0
+118997,2022-05-02T21:25Z,Mutua Madrid Open,Lucas Pouille,Karen Khachanov,,,1.0
+118964,2022-05-03T10:10Z,Mutua Madrid Open,Hubert Hurkacz,Hugo Dellien,,,1.0
+118984,2022-05-03T10:10Z,Mutua Madrid Open,Andrey Rublev,Jack Draper,,,1.0
+118993,2022-05-03T10:15Z,Mutua Madrid Open,Marin Cilic,Albert Ramos-Vinolas,,,1.0
+119000,2022-05-03T12:50Z,Mutua Madrid Open,Jenson Brooksby,Roberto Bautista Agut,,,0.0
+118958,2022-05-03T13:35Z,Mutua Madrid Open,Miomir Kecmanovic,Alexander Bublik,,,1.0
+118976,2022-05-03T15:10Z,Mutua Madrid Open,Frances Tiafoe,Cristian Garin,,,0.0
+118992,2022-05-03T15:40Z,Mutua Madrid Open,Novak Djokovic,Gael Monfils,,,1.0
+118968,2022-05-03T17:25Z,Mutua Madrid Open,Botic Van De Zandschulp,Pablo Carreno Busta,,,1.0
+118994,2022-05-03T18:35Z,Mutua Madrid Open,Reilly Opelka,Sebastian Korda,,,0.0
+118970,2022-05-03T20:20Z,Mutua Madrid Open,Andy Murray,Denis Shapovalov,,,1.0
+118988,2022-05-03T20:45Z,Mutua Madrid Open,Nikoloz Basilashvili,Carlos Alcaraz,,,0.0
+118986,2022-05-04T10:10Z,Mutua Madrid Open,Daniel Evans,Roberto Bautista Agut,,,1.0
+118989,2022-05-04T10:10Z,Mutua Madrid Open,Dusan Lajovic,Casper Ruud,,,1.0
+118969,2022-05-04T11:40Z,Mutua Madrid Open,Marin Cilic,Alexander Zverev,,,0.0
+118972,2022-05-04T12:40Z,Mutua Madrid Open,Cameron Norrie,John Isner,,,1.0
+118962,2022-05-04T14:20Z,Mutua Madrid Open,Rafael Nadal,Miomir Kecmanovic,,,1.0
+118991,2022-05-04T14:30Z,Mutua Madrid Open,Hubert Hurkacz,Alejandro Davidovich Fokina,,,1.0
+118980,2022-05-04T15:40Z,Mutua Madrid Open,David Goffin,Botic Van De Zandschulp,,,1.0
+118981,2022-05-04T17:35Z,Mutua Madrid Open,Diego Schwartzman,Grigor Dimitrov,,,0.0
+118975,2022-05-04T17:50Z,Mutua Madrid Open,Sebastian Korda,Lorenzo Musetti,,,0.0
+118974,2022-05-04T19:05Z,Mutua Madrid Open,Alex de Minaur,Jannik Sinner,,,0.0
+118961,2022-05-04T19:50Z,Mutua Madrid Open,Felix Auger-Aliassime,Cristian Garin,,,1.0
+118982,2022-05-04T20:15Z,Mutua Madrid Open,Lucas Pouille,Stefanos Tsitsipas,,,0.0
+119019,2022-05-05T10:00Z,Mutua Madrid Open,Novak Djokovic,Andy Murray,,,1.0
+119013,2022-05-05T10:10Z,Mutua Madrid Open,Andrey Rublev,Daniel Evans,,,1.0
+119016,2022-05-05T12:25Z,Mutua Madrid Open,Hubert Hurkacz,Dusan Lajovic,,,1.0
+119010,2022-05-05T14:25Z,Mutua Madrid Open,Lorenzo Musetti,Alexander Zverev,,,0.0
+119018,2022-05-05T14:30Z,Mutua Madrid Open,Rafael Nadal,David Goffin,,,1.0
+118998,2022-05-05T15:45Z,Mutua Madrid Open,Grigor Dimitrov,Stefanos Tsitsipas,,,0.0
+119003,2022-05-05T15:45Z,Mutua Madrid Open,Felix Auger-Aliassime,Jannik Sinner,,,1.0
+119014,2022-05-05T18:20Z,Mutua Madrid Open,Cameron Norrie,Carlos Alcaraz,,,0.0
+119008,2022-05-06T12:10Z,Mutua Madrid Open,Novak Djokovic,Hubert Hurkacz,,,1.0
+119009,2022-05-06T14:15Z,Mutua Madrid Open,Rafael Nadal,Carlos Alcaraz,,,0.0
+119006,2022-05-06T18:10Z,Mutua Madrid Open,Andrey Rublev,Stefanos Tsitsipas,,,0.0
+119007,2022-05-06T20:40Z,Mutua Madrid Open,Felix Auger-Aliassime,Alexander Zverev,,,0.0
+119002,2022-05-07T14:25Z,Mutua Madrid Open,Novak Djokovic,Carlos Alcaraz,,,0.0
+119005,2022-05-07T21:15Z,Mutua Madrid Open,Stefanos Tsitsipas,Alexander Zverev,,,0.0
+119020,2022-05-08T16:40Z,Mutua Madrid Open,Carlos Alcaraz,Alexander Zverev,,,1.0
+119117,2022-05-07T08:10Z,Internazionali BNL d'Italia,Aliaksandra Sasnovich,Nuria Brancaccio,,,1.0
+119119,2022-05-07T08:10Z,Internazionali BNL d'Italia,Nuria Parrizas Diaz,Ulrikke Eikeri,,,1.0
+119121,2022-05-07T08:10Z,Internazionali BNL d'Italia,Eleonora Alvisi,Kaja Juvan,,,0.0
+119114,2022-05-07T09:30Z,Internazionali BNL d'Italia,Tereza Martincova,Han Xinyun,,,1.0
+119130,2022-05-07T09:30Z,Internazionali BNL d'Italia,Valeria Savinykh,Cristina Bucsa,,,0.0
+119127,2022-05-07T10:30Z,Internazionali BNL d'Italia,Petra Martic,Ellen Perez,,,1.0
+119118,2022-05-07T10:55Z,Internazionali BNL d'Italia,Angelica Raggi,Andrea Petkovic,,,0.0
+119129,2022-05-07T11:05Z,Internazionali BNL d'Italia,Marta Kostyuk,Federica Di Sarra,,,1.0
+119124,2022-05-07T11:35Z,Internazionali BNL d'Italia,Elena-Gabriela Ruse,Dea Herdzelas,,,1.0
+119128,2022-05-07T12:00Z,Internazionali BNL d'Italia,Susan Bandecchi,Misaki Doi,,,1.0
+119115,2022-05-07T12:05Z,Internazionali BNL d'Italia,You Xiaodi,Kristina Kucova,,,0.0
+119126,2022-05-07T12:55Z,Internazionali BNL d'Italia,Stefania Rubini,Lauren Davis,,,0.0
+119122,2022-05-07T14:05Z,Internazionali BNL d'Italia,Madison Brengle,Paula Ormaechea,,,1.0
+119112,2022-05-07T14:45Z,Internazionali BNL d'Italia,Arina Rodionova,Ana Konjuh,,,0.0
+119123,2022-05-07T16:45Z,Internazionali BNL d'Italia,Catherine Harrison,Elina Avanesyan,,,0.0
+119111,2022-05-07T17:00Z,Internazionali BNL d'Italia,Yulia Putintseva,Storm Hunter,,,1.0
+119283,2022-05-08T09:10Z,Internazionali BNL d'Italia,Aliaksandra Sasnovich,Andrea Petkovic,,,1.0
+119284,2022-05-08T09:10Z,Internazionali BNL d'Italia,Nuria Parrizas Diaz,Kaja Juvan,,,0.0
+119288,2022-05-08T09:10Z,Internazionali BNL d'Italia,Marta Kostyuk,Cristina Bucsa,,,1.0
+119286,2022-05-08T10:40Z,Internazionali BNL d'Italia,Elena-Gabriela Ruse,Lauren Davis,,,0.0
+119287,2022-05-08T10:50Z,Internazionali BNL d'Italia,Petra Martic,Susan Bandecchi,,,1.0
+119282,2022-05-08T12:40Z,Internazionali BNL d'Italia,Tereza Martincova,Kristina Kucova,,,1.0
+119280,2022-05-08T12:45Z,Internazionali BNL d'Italia,Yulia Putintseva,Ana Konjuh,,,1.0
+119285,2022-05-08T14:00Z,Internazionali BNL d'Italia,Madison Brengle,Elina Avanesyan,,,0.0
+119179,2022-05-09T09:05Z,Internazionali BNL d'Italia,Daria Kasatkina,Tamara Zidansek,,,1.0
+119171,2022-05-09T09:10Z,Internazionali BNL d'Italia,Viktorija Golubic,Victoria Azarenka,,,0.0
+119205,2022-05-09T10:30Z,Internazionali BNL d'Italia,Alize Cornet,Simona Halep,,,0.0
+119161,2022-05-09T10:55Z,Internazionali BNL d'Italia,Petra Martic,Karolina Muchova,,,1.0
+119155,2022-05-09T11:40Z,Internazionali BNL d'Italia,Zhang Shuai,Martina Trevisan,,,1.0
+119178,2022-05-09T12:10Z,Internazionali BNL d'Italia,Aliaksandra Sasnovich,Veronika Kudermetova,,,1.0
+119159,2022-05-09T13:40Z,Internazionali BNL d'Italia,Kaja Juvan,Yulia Putintseva,,,0.0
+119206,2022-05-09T15:10Z,Internazionali BNL d'Italia,Belinda Bencic,Elisabetta Cocciaretto,,,1.0
+119180,2022-05-09T16:05Z,Internazionali BNL d'Italia,Anastasia Pavlyuchenkova,Leylah Fernandez,,,0.0
+119207,2022-05-09T17:00Z,Internazionali BNL d'Italia,Anhelina Kalinina,Madison Keys,,,1.0
+119190,2022-05-09T17:45Z,Internazionali BNL d'Italia,Coco Gauff,Angelique Kerber,,,1.0
+119202,2022-05-09T19:30Z,Internazionali BNL d'Italia,Camila Giorgi,Ajla Tomljanovic,,,0.0
+119149,2022-05-10T09:10Z,Internazionali BNL d'Italia,Tereza Martincova,Amanda Anisimova,,,0.0
+119184,2022-05-10T09:10Z,Internazionali BNL d'Italia,Lauren Davis,Jelena Ostapenko,,,1.0
+119188,2022-05-10T09:10Z,Internazionali BNL d'Italia,Jasmine Paolini,Jil Teichmann,,,0.0
+119192,2022-05-10T09:10Z,Internazionali BNL d'Italia,Madison Brengle,Marta Kostyuk,,,1.0
+119204,2022-05-10T10:40Z,Internazionali BNL d'Italia,Liudmila Samsonova,Jessica Pegula,,,0.0
+119164,2022-05-10T10:55Z,Internazionali BNL d'Italia,Elena Rybakina,Elina Avanesyan,,,1.0
+119150,2022-05-10T12:00Z,Internazionali BNL d'Italia,Sloane Stephens,Ekaterina Alexandrova,,,0.0
+119170,2022-05-10T13:15Z,Internazionali BNL d'Italia,Camila Osorio,Lucia Bronzetti,,,1.0
+119172,2022-05-10T13:15Z,Internazionali BNL d'Italia,Shelby Rogers,Elena-Gabriela Ruse,,,0.0
+119169,2022-05-10T14:30Z,Internazionali BNL d'Italia,Sara Sorribes Tormo,Nuria Parrizas Diaz,,,0.0
+119168,2022-05-10T15:30Z,Internazionali BNL d'Italia,Emma Raducanu,Bianca Andreescu,,,0.0
+119193,2022-05-10T17:05Z,Internazionali BNL d'Italia,Sorana Cirstea,Ons Jabeur,,,0.0
+119152,2022-05-11T09:10Z,Internazionali BNL d'Italia,Elena Rybakina,Lauren Davis,,,1.0
+119153,2022-05-11T09:10Z,Internazionali BNL d'Italia,Aryna Sabalenka,Zhang Shuai,,,1.0
+119154,2022-05-11T09:10Z,Internazionali BNL d'Italia,Karolina Pliskova,Jil Teichmann,,,0.0
+119173,2022-05-11T09:10Z,Internazionali BNL d'Italia,Belinda Bencic,Amanda Anisimova,,,0.0
+119175,2022-05-11T09:10Z,Internazionali BNL d'Italia,Petra Martic,Anett Kontaveit,,,1.0
+119176,2022-05-11T11:00Z,Internazionali BNL d'Italia,Camila Osorio,Victoria Azarenka,,,0.0
+119160,2022-05-11T11:10Z,Internazionali BNL d'Italia,Coco Gauff,Madison Brengle,,,1.0
+119174,2022-05-11T12:00Z,Internazionali BNL d'Italia,Anhelina Kalinina,Jessica Pegula,,,0.0
+119157,2022-05-11T12:15Z,Internazionali BNL d'Italia,Ekaterina Alexandrova,Maria Sakkari,,,0.0
+119162,2022-05-11T12:50Z,Internazionali BNL d'Italia,Bianca Andreescu,Nuria Parrizas Diaz,,,1.0
+119145,2022-05-11T13:10Z,Internazionali BNL d'Italia,Iga Swiatek,Elena-Gabriela Ruse,,,1.0
+119146,2022-05-11T14:10Z,Internazionali BNL d'Italia,Ajla Tomljanovic,Ons Jabeur,,,0.0
+119151,2022-05-11T14:40Z,Internazionali BNL d'Italia,Leylah Fernandez,Daria Kasatkina,,,0.0
+119163,2022-05-11T15:50Z,Internazionali BNL d'Italia,Garbine Muguruza,Yulia Putintseva,,,0.0
+119167,2022-05-11T19:05Z,Internazionali BNL d'Italia,Simona Halep,Danielle Collins,,,0.0
+119148,2022-05-11T19:30Z,Internazionali BNL d'Italia,Aliaksandra Sasnovich,Paula Badosa,,,0.0
+119191,2022-05-12T09:10Z,Internazionali BNL d'Italia,Aryna Sabalenka,Jessica Pegula,,,1.0
+119198,2022-05-12T09:10Z,Internazionali BNL d'Italia,Jil Teichmann,Elena Rybakina,,,1.0
+119186,2022-05-12T10:30Z,Internazionali BNL d'Italia,Bianca Andreescu,Petra Martic,,,1.0
+119147,2022-05-12T12:55Z,Internazionali BNL d'Italia,Iga Swiatek,Victoria Azarenka,,,1.0
+119201,2022-05-12T14:15Z,Internazionali BNL d'Italia,Amanda Anisimova,Danielle Collins,,,1.0
+119199,2022-05-12T17:00Z,Internazionali BNL d'Italia,Coco Gauff,Maria Sakkari,,,0.0
+119200,2022-05-12T17:35Z,Internazionali BNL d'Italia,Yulia Putintseva,Ons Jabeur,,,0.0
+119197,2022-05-12T20:55Z,Internazionali BNL d'Italia,Daria Kasatkina,Paula Badosa,,,1.0
+119195,2022-05-13T09:10Z,Internazionali BNL d'Italia,Aryna Sabalenka,Amanda Anisimova,,,1.0
+119196,2022-05-13T12:50Z,Internazionali BNL d'Italia,Iga Swiatek,Bianca Andreescu,,,1.0
+119194,2022-05-13T14:50Z,Internazionali BNL d'Italia,Ons Jabeur,Maria Sakkari,,,1.0
+119185,2022-05-13T17:30Z,Internazionali BNL d'Italia,Jil Teichmann,Daria Kasatkina,,,0.0
+119183,2022-05-14T10:10Z,Internazionali BNL d'Italia,Iga Swiatek,Aryna Sabalenka,,,1.0
+119182,2022-05-14T15:35Z,Internazionali BNL d'Italia,Ons Jabeur,Daria Kasatkina,,,1.0
+119181,2022-05-15T11:10Z,Internazionali BNL d'Italia,Iga Swiatek,Ons Jabeur,,,1.0
+119136,2022-05-07T08:10Z,Internazionali BNL d'Italia,Kamil Majchrzak,Federico Coria,,,1.0
+119143,2022-05-07T08:10Z,Internazionali BNL d'Italia,Marcos Giron,Gianmarco Ferrari,,,1.0
+119144,2022-05-07T08:15Z,Internazionali BNL d'Italia,Adrian Mannarino,Tallon Griekspoor,,,0.0
+119135,2022-05-07T09:40Z,Internazionali BNL d'Italia,Ugo Humbert,Brandon Nakashima,,,0.0
+119133,2022-05-07T09:45Z,Internazionali BNL d'Italia,Holger Rune,Hugo Dellien,,,0.0
+119134,2022-05-07T09:55Z,Internazionali BNL d'Italia,Thanasi Kokkinakis,Laslo Djere,,,0.0
+119139,2022-05-07T11:44Z,Internazionali BNL d'Italia,Francisco Cerundolo,Yoshihito Nishioka,,,1.0
+119140,2022-05-07T12:55Z,Internazionali BNL d'Italia,João Sousa,Mackenzie McDonald,,,1.0
+119132,2022-05-07T13:41Z,Internazionali BNL d'Italia,Giovanni Fonio,Emil Ruusuvuori,,,0.0
+119141,2022-05-07T14:25Z,Internazionali BNL d'Italia,Marton Fucsovics,Denis Kudla,,,1.0
+119142,2022-05-07T14:35Z,Internazionali BNL d'Italia,Dusan Lajovic,Benoit Paire,,,1.0
+119137,2022-05-07T15:20Z,Internazionali BNL d'Italia,Alex Molcan,Giulio Zeppieri,,,0.0
+119131,2022-05-07T16:20Z,Internazionali BNL d'Italia,Sebastian Baez,SoonWoo Kwon,,,1.0
+119138,2022-05-07T17:15Z,Internazionali BNL d'Italia,Francesco Forti,Maxime Cressy,,,0.0
+119248,2022-05-08T09:10Z,Internazionali BNL d'Italia,Filip Krajinovic,Frances Tiafoe,,,1.0
+119275,2022-05-08T09:10Z,Internazionali BNL d'Italia,Brandon Nakashima,Kamil Majchrzak,,,1.0
+119279,2022-05-08T09:10Z,Internazionali BNL d'Italia,Marcos Giron,Tallon Griekspoor,,,0.0
+119274,2022-05-08T11:20Z,Internazionali BNL d'Italia,Hugo Dellien,Laslo Djere,,,0.0
+119278,2022-05-08T11:20Z,Internazionali BNL d'Italia,Marton Fucsovics,Dusan Lajovic,,,0.0
+119277,2022-05-08T11:25Z,Internazionali BNL d'Italia,Francisco Cerundolo,João Sousa,,,1.0
+119259,2022-05-08T11:35Z,Internazionali BNL d'Italia,Francesco Passaro,Cristian Garin,,,0.0
+119276,2022-05-08T13:20Z,Internazionali BNL d'Italia,Giulio Zeppieri,Maxime Cressy,,,1.0
+119269,2022-05-08T13:25Z,Internazionali BNL d'Italia,Lloyd Harris,Aslan Karatsev,,,0.0
+119254,2022-05-08T14:10Z,Internazionali BNL d'Italia,Marin Cilic,Matteo Arnaldi,,,1.0
+119273,2022-05-08T14:30Z,Internazionali BNL d'Italia,Sebastian Baez,Emil Ruusuvuori,,,1.0
+119211,2022-05-09T09:05Z,Internazionali BNL d'Italia,Jenson Brooksby,Flavio Cobolli,,,1.0
+119268,2022-05-09T09:05Z,Internazionali BNL d'Italia,Stan Wawrinka,Reilly Opelka,,,1.0
+119237,2022-05-09T09:10Z,Internazionali BNL d'Italia,Alejandro Davidovich Fokina,Ilya Ivashka,,,1.0
+119235,2022-05-09T10:40Z,Internazionali BNL d'Italia,Laslo Djere,Borna Coric,,,1.0
+119229,2022-05-09T11:30Z,Internazionali BNL d'Italia,Lorenzo Sonego,Denis Shapovalov,,,0.0
+119246,2022-05-09T12:20Z,Internazionali BNL d'Italia,Nikoloz Basilashvili,Daniel Evans,,,1.0
+119253,2022-05-09T13:40Z,Internazionali BNL d'Italia,Karen Khachanov,Giulio Zeppieri,,,1.0
+119241,2022-05-09T14:25Z,Internazionali BNL d'Italia,Sebastian Korda,Botic Van De Zandschulp,,,0.0
+119240,2022-05-09T14:40Z,Internazionali BNL d'Italia,Alexander Bublik,Marcos Giron,,,0.0
+119218,2022-05-09T17:10Z,Internazionali BNL d'Italia,Fabio Fognini,Dominic Thiem,,,1.0
+119231,2022-05-09T17:10Z,Internazionali BNL d'Italia,Albert Ramos-Vinolas,Tommy Paul,,,0.0
+119232,2022-05-09T18:20Z,Internazionali BNL d'Italia,Pablo Carreno Busta,Federico Delbonis,,,1.0
+119267,2022-05-09T18:30Z,Internazionali BNL d'Italia,Dusan Lajovic,Alex de Minaur,,,0.0
+119271,2022-05-10T09:05Z,Internazionali BNL d'Italia,Tallon Griekspoor,Sebastian Baez,,,0.0
+119214,2022-05-10T09:10Z,Internazionali BNL d'Italia,Grigor Dimitrov,Brandon Nakashima,,,1.0
+119212,2022-05-10T10:55Z,Internazionali BNL d'Italia,Diego Schwartzman,Miomir Kecmanovic,,,1.0
+119215,2022-05-10T11:25Z,Internazionali BNL d'Italia,Luca Nardi,Cameron Norrie,,,0.0
+119217,2022-05-10T11:30Z,Internazionali BNL d'Italia,Francisco Cerundolo,John Isner,,,0.0
+119225,2022-05-10T13:10Z,Internazionali BNL d'Italia,Emil Ruusuvuori,Cristian Garin,,,0.0
+119258,2022-05-10T13:15Z,Internazionali BNL d'Italia,Hubert Hurkacz,David Goffin,,,0.0
+119242,2022-05-10T13:55Z,Internazionali BNL d'Italia,Novak Djokovic,Aslan Karatsev,,,1.0
+119247,2022-05-10T15:30Z,Internazionali BNL d'Italia,Nikoloz Basilashvili,Denis Shapovalov,,,0.0
+119222,2022-05-10T16:00Z,Internazionali BNL d'Italia,Alejandro Davidovich Fokina,Felix Auger-Aliassime,,,0.0
+119216,2022-05-10T17:10Z,Internazionali BNL d'Italia,Andrey Rublev,Filip Krajinovic,,,0.0
+119260,2022-05-10T18:40Z,Internazionali BNL d'Italia,Pedro Martinez,Jannik Sinner,,,0.0
+119257,2022-05-10T19:15Z,Internazionali BNL d'Italia,Botic Van De Zandschulp,Casper Ruud,,,0.0
+119234,2022-05-11T09:15Z,Internazionali BNL d'Italia,Sebastian Baez,Alexander Zverev,,,0.0
+119264,2022-05-11T10:20Z,Internazionali BNL d'Italia,Pablo Carreno Busta,Karen Khachanov,,,0.0
+119221,2022-05-11T11:05Z,Internazionali BNL d'Italia,Rafael Nadal,John Isner,,,1.0
+119249,2022-05-11T12:05Z,Internazionali BNL d'Italia,Alex de Minaur,Tommy Paul,,,1.0
+119272,2022-05-11T12:45Z,Internazionali BNL d'Italia,Grigor Dimitrov,Stefanos Tsitsipas,,,0.0
+119251,2022-05-11T13:45Z,Internazionali BNL d'Italia,Diego Schwartzman,Marcos Giron,,,0.0
+119238,2022-05-11T14:20Z,Internazionali BNL d'Italia,David Goffin,Jenson Brooksby,,,0.0
+119226,2022-05-11T16:00Z,Internazionali BNL d'Italia,Laslo Djere,Stan Wawrinka,,,0.0
+119266,2022-05-11T17:10Z,Internazionali BNL d'Italia,Fabio Fognini,Jannik Sinner,,,0.0
+119245,2022-05-11T18:30Z,Internazionali BNL d'Italia,Marin Cilic,Cameron Norrie,,,1.0
+119239,2022-05-12T09:10Z,Internazionali BNL d'Italia,Alex de Minaur,Alexander Zverev,,,0.0
+119220,2022-05-12T10:40Z,Internazionali BNL d'Italia,Karen Khachanov,Stefanos Tsitsipas,,,0.0
+119209,2022-05-12T12:30Z,Internazionali BNL d'Italia,Marcos Giron,Felix Auger-Aliassime,,,0.0
+119250,2022-05-12T13:40Z,Internazionali BNL d'Italia,Cristian Garin,Marin Cilic,,,1.0
+119255,2022-05-12T13:40Z,Internazionali BNL d'Italia,Filip Krajinovic,Jannik Sinner,,,0.0
+119265,2022-05-12T15:35Z,Internazionali BNL d'Italia,Novak Djokovic,Stan Wawrinka,,,1.0
+119228,2022-05-12T15:40Z,Internazionali BNL d'Italia,Jenson Brooksby,Casper Ruud,,,0.0
+119263,2022-05-12T18:10Z,Internazionali BNL d'Italia,Rafael Nadal,Denis Shapovalov,,,0.0
+119244,2022-05-13T09:15Z,Internazionali BNL d'Italia,Cristian Garin,Alexander Zverev,,,0.0
+119213,2022-05-13T11:25Z,Internazionali BNL d'Italia,Jannik Sinner,Stefanos Tsitsipas,,,0.0
+119256,2022-05-13T14:15Z,Internazionali BNL d'Italia,Denis Shapovalov,Casper Ruud,,,0.0
+119236,2022-05-13T19:30Z,Internazionali BNL d'Italia,Novak Djokovic,Felix Auger-Aliassime,,,1.0
+119261,2022-05-14T12:45Z,Internazionali BNL d'Italia,Stefanos Tsitsipas,Alexander Zverev,,,1.0
+119262,2022-05-14T18:35Z,Internazionali BNL d'Italia,Novak Djokovic,Casper Ruud,,,1.0
+119224,2022-05-15T14:10Z,Internazionali BNL d'Italia,Novak Djokovic,Stefanos Tsitsipas,,,1.0
+119399,2022-05-14T09:00Z,Gonet Geneva Open,Gonzalo Oliveira,Christopher O'Connell,,,0.0
+119400,2022-05-14T09:00Z,Gonet Geneva Open,Peter Gojowczyk,Johan Nikles,,,0.0
+119401,2022-05-14T09:00Z,Gonet Geneva Open,Jakub Paul,Lukas Rosol,,,0.0
+119398,2022-05-14T10:30Z,Gonet Geneva Open,Henri Laaksonen,Benjamin Hassan,,,0.0
+119402,2022-05-14T10:30Z,Gonet Geneva Open,Marco Cecchinato,Julian Lenz,,,1.0
+119396,2022-05-14T10:30Z,Gonet Geneva Open,Facundo Bagnis,Lukas Klein,,,1.0
+119397,2022-05-14T12:00Z,Gonet Geneva Open,Lucas Gerch,Vitaliy Sachko,,,0.0
+119403,2022-05-14T12:00Z,Gonet Geneva Open,Damien Wenger,Pablo Cuevas,,,0.0
+119486,2022-05-15T09:00Z,Gonet Geneva Open,Johan Nikles,Lukas Rosol,,,1.0
+119485,2022-05-15T09:00Z,Gonet Geneva Open,Benjamin Hassan,Christopher O'Connell,,,0.0
+119487,2022-05-15T10:00Z,Gonet Geneva Open,Marco Cecchinato,Pablo Cuevas,,,1.0
+119484,2022-05-15T10:30Z,Gonet Geneva Open,Facundo Bagnis,Vitaliy Sachko,,,1.0
+119448,2022-05-15T12:05Z,Gonet Geneva Open,Tommy Paul,Tallon Griekspoor,,,0.0
+119444,2022-05-15T15:15Z,Gonet Geneva Open,Kamil Majchrzak,Alexander Bublik,,,1.0
+119445,2022-05-16T10:10Z,Gonet Geneva Open,Ilya Ivashka,Marcos Giron,,,1.0
+119451,2022-05-16T12:20Z,Gonet Geneva Open,Federico Delbonis,Ricardas Berankis,,,1.0
+119443,2022-05-16T14:10Z,Gonet Geneva Open,Richard Gasquet,John Millman,,,1.0
+119453,2022-05-16T16:10Z,Gonet Geneva Open,Dominic Thiem,Marco Cecchinato,,,0.0
+119470,2022-05-16T18:00Z,Gonet Geneva Open,Benoit Paire,Emil Ruusuvuori,,,1.0
+119447,2022-05-17T10:00Z,Gonet Geneva Open,Facundo Bagnis,Nikoloz Basilashvili,,,0.0
+119446,2022-05-17T10:10Z,Gonet Geneva Open,Pablo Andujar,João Sousa,,,0.0
+119450,2022-05-17T11:30Z,Gonet Geneva Open,Albert Ramos-Vinolas,Christopher O'Connell,,,0.0
+119452,2022-05-17T11:45Z,Gonet Geneva Open,Thanasi Kokkinakis,Fabio Fognini,,,1.0
+119449,2022-05-17T13:35Z,Gonet Geneva Open,Leandro Riedi,Johan Nikles,,,0.0
+119460,2022-05-17T16:25Z,Gonet Geneva Open,Daniil Medvedev,Richard Gasquet,,,0.0
+119459,2022-05-17T18:15Z,Gonet Geneva Open,Marco Cecchinato,Kamil Majchrzak,,,0.0
+119458,2022-05-18T10:10Z,Gonet Geneva Open,Christopher O'Connell,Reilly Opelka,,,0.0
+119456,2022-05-18T12:00Z,Gonet Geneva Open,João Sousa,Nikoloz Basilashvili,,,1.0
+119468,2022-05-18T13:00Z,Gonet Geneva Open,Federico Delbonis,Thanasi Kokkinakis,,,0.0
+119469,2022-05-18T13:40Z,Gonet Geneva Open,Tallon Griekspoor,Johan Nikles,,,1.0
+119455,2022-05-18T16:10Z,Gonet Geneva Open,Benoit Paire,Casper Ruud,,,0.0
+119457,2022-05-18T17:30Z,Gonet Geneva Open,Denis Shapovalov,Ilya Ivashka,,,0.0
+119465,2022-05-19T11:40Z,Gonet Geneva Open,Tallon Griekspoor,Reilly Opelka,,,0.0
+119464,2022-05-19T13:35Z,Gonet Geneva Open,Thanasi Kokkinakis,Casper Ruud,,,0.0
+119467,2022-05-19T16:10Z,Gonet Geneva Open,Richard Gasquet,Kamil Majchrzak,,,1.0
+119466,2022-05-19T17:55Z,Gonet Geneva Open,Ilya Ivashka,João Sousa,,,0.0
+119462,2022-05-20T12:30Z,Gonet Geneva Open,Reilly Opelka,Casper Ruud,,,0.0
+119463,2022-05-20T14:15Z,Gonet Geneva Open,Richard Gasquet,João Sousa,,,0.0
+119461,2022-05-21T13:00Z,Gonet Geneva Open,João Sousa,Casper Ruud,,,0.0
+119475,2022-05-14T08:30Z,Grand Prix Auvergne-Rhône-Alpes (defunct),Yoshihito Nishioka,Ugo Blanchet,,,0.0
+119476,2022-05-14T08:30Z,Grand Prix Auvergne-Rhône-Alpes (defunct),Tristan Lamasine,Manuel Guinard,,,0.0
+119471,2022-05-14T10:00Z,Grand Prix Auvergne-Rhône-Alpes (defunct),Carlos Taberner,Yosuke Watanuki,,,0.0
+119472,2022-05-14T10:00Z,Grand Prix Auvergne-Rhône-Alpes (defunct),Steven Diez,Gregoire Barrere,,,0.0
+119478,2022-05-14T11:30Z,Grand Prix Auvergne-Rhône-Alpes (defunct),Matthias Bachinger,Gilles Simon,,,0.0
+119477,2022-05-14T11:30Z,Grand Prix Auvergne-Rhône-Alpes (defunct),Mikael Ymer,Nerman Fatic,,,0.0
+119473,2022-05-14T13:00Z,Grand Prix Auvergne-Rhône-Alpes (defunct),Tomas Martin Etcheverry,Mayeul Darras,,,1.0
+119474,2022-05-14T13:00Z,Grand Prix Auvergne-Rhône-Alpes (defunct),Miljan Zekic,Michael Mmoh,,,0.0
+119482,2022-05-15T08:30Z,Grand Prix Auvergne-Rhône-Alpes (defunct),Ugo Blanchet,Manuel Guinard,,,0.0
+119480,2022-05-15T08:30Z,Grand Prix Auvergne-Rhône-Alpes (defunct),Yosuke Watanuki,Gregoire Barrere,,,0.0
+119483,2022-05-15T10:00Z,Grand Prix Auvergne-Rhône-Alpes (defunct),Nerman Fatic,Gilles Simon,,,0.0
+119481,2022-05-15T10:30Z,Grand Prix Auvergne-Rhône-Alpes (defunct),Tomas Martin Etcheverry,Michael Mmoh,,,1.0
+119433,2022-05-15T10:40Z,Grand Prix Auvergne-Rhône-Alpes (defunct),Francisco Cerundolo,James Duckworth,,,1.0
+119413,2022-05-15T13:05Z,Grand Prix Auvergne-Rhône-Alpes (defunct),Adrian Mannarino,Aslan Karatsev,,,1.0
+119415,2022-05-15T15:40Z,Grand Prix Auvergne-Rhône-Alpes (defunct),Arthur Rinderknech,Holger Rune,,,0.0
+119409,2022-05-16T09:00Z,Grand Prix Auvergne-Rhône-Alpes (defunct),SoonWoo Kwon,Aljaz Bedene,,,1.0
+119408,2022-05-16T09:10Z,Grand Prix Auvergne-Rhône-Alpes (defunct),Gregoire Barrere,Ugo Humbert,,,0.0
+119410,2022-05-16T10:30Z,Grand Prix Auvergne-Rhône-Alpes (defunct),Pedro Martinez,Yosuke Watanuki,,,0.0
+119420,2022-05-16T10:40Z,Grand Prix Auvergne-Rhône-Alpes (defunct),Lucas Pouille,Oscar Otte,,,0.0
+119432,2022-05-16T12:00Z,Grand Prix Auvergne-Rhône-Alpes (defunct),Tomas Martin Etcheverry,Sebastian Baez,,,0.0
+119405,2022-05-16T12:10Z,Grand Prix Auvergne-Rhône-Alpes (defunct),Alex Molcan,Jo-Wilfried Tsonga,,,1.0
+119406,2022-05-16T15:40Z,Grand Prix Auvergne-Rhône-Alpes (defunct),Karen Khachanov,Gilles Simon,,,1.0
+119404,2022-05-17T09:00Z,Grand Prix Auvergne-Rhône-Alpes (defunct),Daniel Altmaier,Federico Coria,,,0.0
+119425,2022-05-17T09:00Z,Grand Prix Auvergne-Rhône-Alpes (defunct),Yosuke Watanuki,SoonWoo Kwon,,,1.0
+119428,2022-05-17T11:00Z,Grand Prix Auvergne-Rhône-Alpes (defunct),Oscar Otte,Sebastian Baez,,,0.0
+119412,2022-05-17T11:45Z,Grand Prix Auvergne-Rhône-Alpes (defunct),Hugo Gaston,Manuel Guinard,,,0.0
+119429,2022-05-17T14:25Z,Grand Prix Auvergne-Rhône-Alpes (defunct),Cameron Norrie,Francisco Cerundolo,,,1.0
+119424,2022-05-17T16:25Z,Grand Prix Auvergne-Rhône-Alpes (defunct),Ugo Humbert,Alex de Minaur,,,0.0
+119422,2022-05-18T09:10Z,Grand Prix Auvergne-Rhône-Alpes (defunct),Federico Coria,Pablo Carreno Busta,,,1.0
+119423,2022-05-18T11:00Z,Grand Prix Auvergne-Rhône-Alpes (defunct),Karen Khachanov,Alex Molcan,,,0.0
+119426,2022-05-18T12:50Z,Grand Prix Auvergne-Rhône-Alpes (defunct),Holger Rune,Adrian Mannarino,,,1.0
+119417,2022-05-19T09:10Z,Grand Prix Auvergne-Rhône-Alpes (defunct),Alex Molcan,Federico Coria,,,1.0
+119427,2022-05-19T11:10Z,Grand Prix Auvergne-Rhône-Alpes (defunct),Michael Mmoh,Manuel Guinard,,,0.0
+119418,2022-05-19T11:40Z,Grand Prix Auvergne-Rhône-Alpes (defunct),Yosuke Watanuki,Alex de Minaur,,,0.0
+119419,2022-05-19T12:55Z,Grand Prix Auvergne-Rhône-Alpes (defunct),Manuel Guinard,Holger Rune,,,0.0
+119421,2022-05-19T16:10Z,Grand Prix Auvergne-Rhône-Alpes (defunct),Cameron Norrie,Sebastian Baez,,,1.0
+119414,2022-05-20T12:40Z,Grand Prix Auvergne-Rhône-Alpes (defunct),Alex de Minaur,Alex Molcan,,,0.0
+119416,2022-05-20T14:45Z,Grand Prix Auvergne-Rhône-Alpes (defunct),Cameron Norrie,Holger Rune,,,1.0
+119411,2022-05-21T12:35Z,Grand Prix Auvergne-Rhône-Alpes (defunct),Cameron Norrie,Alex Molcan,,,1.0
+119566,2022-05-16T08:10Z,Roland Garros,Daniel Elahi Galan,Franco Agamenone,,,0.0
+119567,2022-05-16T08:10Z,Roland Garros,Alexandre Muller,Cem Ilkel,,,1.0
+119570,2022-05-16T08:10Z,Roland Garros,Federico Gaio,Zdenek Kolar,,,0.0
+119673,2022-05-16T08:10Z,Roland Garros,Mario Vilella Martinez,Aleksandar Vukic,,,0.0
+119568,2022-05-16T08:15Z,Roland Garros,Altug Celikbilek,Yuki Bhambri,,,1.0
+119575,2022-05-16T08:15Z,Roland Garros,Felipe Meligeni Alves,Bradley Klahn,,,1.0
+119578,2022-05-16T08:15Z,Roland Garros,Thomas Fabbiano,Nuno Borges,,,0.0
+119670,2022-05-16T08:15Z,Roland Garros,Jay Clarke,Sebastian Ofner,,,0.0
+119676,2022-05-16T09:20Z,Roland Garros,Sascha Gueymard Wayenburg,Flavio Cobolli,,,0.0
+119595,2022-05-16T10:10Z,Roland Garros,Radu Albot,Matheus Pucinelli De Almeida,,,1.0
+119571,2022-05-16T10:15Z,Roland Garros,Sam Querrey,Zsombor Piros,,,0.0
+119572,2022-05-16T10:25Z,Roland Garros,Nikola Milojevic,Egor Gerasimov,,,0.0
+119674,2022-05-16T10:35Z,Roland Garros,Marc-Andrea Huesler,Dimitar Kuzmanov,,,0.0
+119596,2022-05-16T11:20Z,Roland Garros,Jason Kubler,Riccardo Bonadio,,,1.0
+119599,2022-05-16T11:30Z,Roland Garros,Pedro Sousa,Max Purcell,,,1.0
+119668,2022-05-16T11:35Z,Roland Garros,Mats Moraing,Alessandro Giannessi,,,0.0
+119669,2022-05-16T11:35Z,Roland Garros,Pierre-Hugues Herbert,Thiago Agustin Tirante,,,0.0
+119680,2022-05-16T11:35Z,Roland Garros,Timofey Skatov,Mitchell Krueger,,,1.0
+119679,2022-05-16T11:40Z,Roland Garros,Santiago Rodriguez Taverna,Filip Horansky,,,1.0
+119601,2022-05-16T11:45Z,Roland Garros,Lorenzo Giustino,Dennis Novak,,,1.0
+119604,2022-05-16T12:20Z,Roland Garros,Dalibor Svrcina,Facundo Mena,,,0.0
+119626,2022-05-16T12:55Z,Roland Garros,Norbert Gombos,Constant Lestienne,,,1.0
+119603,2022-05-16T13:15Z,Roland Garros,Gianluca Mager,Borna Gojo,,,0.0
+119611,2022-05-16T13:15Z,Roland Garros,Gastao Elias,Nicolas Kicker,,,1.0
+119608,2022-05-16T13:20Z,Roland Garros,Dmitry Popko,Juan Ignacio Londero,,,0.0
+119628,2022-05-16T13:30Z,Roland Garros,Arthur Fils,Gabriel Debru,,,0.0
+119624,2022-05-16T13:50Z,Roland Garros,Giulio Zeppieri,Andreas Seppi,,,1.0
+119606,2022-05-16T14:10Z,Roland Garros,Dominic Stricker,Joao Lucas Magalhaes Hueb De Menezes,,,1.0
+119616,2022-05-16T14:55Z,Roland Garros,Clement Tabur,Sean Cuenin,,,0.0
+119609,2022-05-16T15:40Z,Roland Garros,Bernabe Zapata Miralles,Dudi Sela,,,1.0
+119617,2022-05-16T15:50Z,Roland Garros,Yannick Hanfmann,Ramkumar Ramanathan,,,0.0
+119622,2022-05-16T16:25Z,Roland Garros,Marius Copil,Evan Furness,,,1.0
+119615,2022-05-17T08:10Z,Roland Garros,Luca Nardi,Andrej Martin,,,1.0
+119645,2022-05-17T08:10Z,Roland Garros,Roman Safiullin,Duje Ajdukovic,,,0.0
+119613,2022-05-17T08:15Z,Roland Garros,Paul Jubb,Christopher Eubanks,,,1.0
+119630,2022-05-17T08:15Z,Roland Garros,Tim Van Rijthoven,Emilio Gomez,,,1.0
+119632,2022-05-17T08:15Z,Roland Garros,Enzo Couacaud,Philipp Kohlschreiber,,,1.0
+119643,2022-05-17T08:15Z,Roland Garros,Juan Pablo Varillas,Tung-lin Wu,,,1.0
+119647,2022-05-17T08:15Z,Roland Garros,Salvatore Caruso,Andrea Arnaboldi,,,1.0
+119648,2022-05-17T08:15Z,Roland Garros,Lukas Lacko,Nicolas Jarry,,,0.0
+119636,2022-05-17T09:45Z,Roland Garros,Jason Jung,Zizou Bergs,,,1.0
+119563,2022-05-17T09:55Z,Roland Garros,Jozef Kovalik,Tomas Barrios Vera,,,0.0
+119640,2022-05-17T10:00Z,Roland Garros,Luca Van Assche,Juan Manuel Cerundolo,,,0.0
+119634,2022-05-17T10:10Z,Roland Garros,Chun-Hsin Tseng,Arthur Cazaux,,,1.0
+119562,2022-05-17T10:50Z,Roland Garros,Antoine Escoffier,Marco Trungelliti,,,0.0
+119638,2022-05-17T11:00Z,Roland Garros,Cedrik-Marcel Stebe,Kacper Zuk,,,1.0
+119586,2022-05-17T11:35Z,Roland Garros,Maximilian Marterer,Jurij Rodionov,,,0.0
+119594,2022-05-17T11:50Z,Roland Garros,Evgeny Donskoy,Ernesto Escobedo,,,0.0
+119559,2022-05-17T12:30Z,Roland Garros,Thiago Monteiro,Tennys Sandgren,,,0.0
+119561,2022-05-17T12:30Z,Roland Garros,Ryan Peniston,Andrey Kuznetsov,,,0.0
+119583,2022-05-17T12:35Z,Roland Garros,Hugo Grenier,Pavel Kotov,,,0.0
+119591,2022-05-17T12:45Z,Roland Garros,Yuichi Sugita,Camilo Ugo Carabelli,,,0.0
+119590,2022-05-17T13:00Z,Roland Garros,Alexander Ritschard,Laurent Lokoli,,,1.0
+119581,2022-05-17T13:10Z,Roland Garros,Pedro Cachin,Sumit Nagal,,,1.0
+119579,2022-05-17T13:20Z,Roland Garros,Feliciano López,Gian Marco Moroni,,,0.0
+119588,2022-05-17T14:20Z,Roland Garros,Fernando Verdasco,Damir Dzumhur,,,1.0
+119664,2022-05-17T14:30Z,Roland Garros,Geoffrey Blancaneaux,Mirza Basic,,,1.0
+119667,2022-05-17T14:30Z,Roland Garros,Renzo Olivo,Liam Broady,,,0.0
+119657,2022-05-17T14:35Z,Roland Garros,Juan Pablo Ficovich,Elias Ymer,,,1.0
+119659,2022-05-17T14:50Z,Roland Garros,Jack Sock,Daniel Masur,,,0.0
+119660,2022-05-17T14:50Z,Roland Garros,Jesper de Jong,Vit Kopriva,,,1.0
+119652,2022-05-17T15:30Z,Roland Garros,Andrea Vavassori,Antoine Hoang,,,1.0
+119654,2022-05-17T16:00Z,Roland Garros,Thiago Seyboth Wild,Bjorn Fratangelo,,,0.0
+119650,2022-05-17T16:10Z,Roland Garros,Stefan Kozlov,Nino Serdarusic,,,0.0
+119695,2022-05-18T08:00Z,Roland Garros,Felipe Meligeni Alves,Nuno Borges,,,0.0
+119718,2022-05-18T08:00Z,Roland Garros,Sebastian Ofner,Aleksandar Vukic,,,1.0
+119694,2022-05-18T08:10Z,Roland Garros,Zsombor Piros,Egor Gerasimov,,,1.0
+119700,2022-05-18T08:10Z,Roland Garros,Radu Albot,Jason Kubler,,,0.0
+119701,2022-05-18T08:10Z,Roland Garros,Pedro Sousa,Lorenzo Giustino,,,1.0
+119717,2022-05-18T08:10Z,Roland Garros,Alessandro Giannessi,Thiago Agustin Tirante,,,1.0
+119719,2022-05-18T08:10Z,Roland Garros,Dimitar Kuzmanov,Flavio Cobolli,,,1.0
+119720,2022-05-18T08:10Z,Roland Garros,Santiago Rodriguez Taverna,Timofey Skatov,,,1.0
+119692,2022-05-18T09:45Z,Roland Garros,Franco Agamenone,Alexandre Muller,,,1.0
+119706,2022-05-18T09:50Z,Roland Garros,Marius Copil,Giulio Zeppieri,,,0.0
+119702,2022-05-18T10:30Z,Roland Garros,Borna Gojo,Facundo Mena,,,1.0
+119753,2022-05-18T10:30Z,Roland Garros,Ramkumar Ramanathan,Sean Cuenin,,,0.0
+119703,2022-05-18T10:40Z,Roland Garros,Dominic Stricker,Juan Ignacio Londero,,,0.0
+119693,2022-05-18T10:55Z,Roland Garros,Altug Celikbilek,Zdenek Kolar,,,0.0
+119705,2022-05-18T11:10Z,Roland Garros,Paul Jubb,Luca Nardi,,,0.0
+119710,2022-05-18T12:10Z,Roland Garros,Cedrik-Marcel Stebe,Juan Manuel Cerundolo,,,1.0
+119709,2022-05-18T12:15Z,Roland Garros,Chun-Hsin Tseng,Jason Jung,,,1.0
+119711,2022-05-18T12:20Z,Roland Garros,Juan Pablo Varillas,Duje Ajdukovic,,,1.0
+119708,2022-05-18T12:47Z,Roland Garros,Tim Van Rijthoven,Enzo Couacaud,,,1.0
+119712,2022-05-18T13:00Z,Roland Garros,Salvatore Caruso,Nicolas Jarry,,,0.0
+119691,2022-05-18T13:05Z,Roland Garros,Marco Trungelliti,Tomas Barrios Vera,,,1.0
+119707,2022-05-18T13:10Z,Roland Garros,Norbert Gombos,Gabriel Debru,,,1.0
+119699,2022-05-18T13:45Z,Roland Garros,Camilo Ugo Carabelli,Ernesto Escobedo,,,1.0
+119704,2022-05-18T13:45Z,Roland Garros,Bernabe Zapata Miralles,Gastao Elias,,,1.0
+119690,2022-05-18T14:40Z,Roland Garros,Tennys Sandgren,Andrey Kuznetsov,,,0.0
+119698,2022-05-18T15:10Z,Roland Garros,Fernando Verdasco,Alexander Ritschard,,,0.0
+119716,2022-05-18T15:10Z,Roland Garros,Geoffrey Blancaneaux,Liam Broady,,,1.0
+119696,2022-05-18T15:40Z,Roland Garros,Gian Marco Moroni,Pedro Cachin,,,0.0
+119715,2022-05-18T16:10Z,Roland Garros,Daniel Masur,Jesper de Jong,,,1.0
+119713,2022-05-18T16:30Z,Roland Garros,Nino Serdarusic,Andrea Vavassori,,,1.0
+119697,2022-05-18T16:55Z,Roland Garros,Pavel Kotov,Jurij Rodionov,,,1.0
+119714,2022-05-18T17:00Z,Roland Garros,Bjorn Fratangelo,Juan Pablo Ficovich,,,1.0
+119756,2022-05-19T08:10Z,Roland Garros,Zsombor Piros,Nuno Borges,,,0.0
+119768,2022-05-19T08:10Z,Roland Garros,Alessandro Giannessi,Sebastian Ofner,,,0.0
+119769,2022-05-19T08:15Z,Roland Garros,Dimitar Kuzmanov,Santiago Rodriguez Taverna,,,0.0
+119759,2022-05-19T09:20Z,Roland Garros,Jason Kubler,Pedro Sousa,,,1.0
+119762,2022-05-19T09:50Z,Roland Garros,Sean Cuenin,Giulio Zeppieri,,,0.0
+119760,2022-05-19T10:45Z,Roland Garros,Borna Gojo,Juan Ignacio Londero,,,1.0
+119755,2022-05-19T11:00Z,Roland Garros,Franco Agamenone,Zdenek Kolar,,,0.0
+119761,2022-05-19T12:25Z,Roland Garros,Bernabe Zapata Miralles,Luca Nardi,,,1.0
+119763,2022-05-20T10:25Z,Roland Garros,Norbert Gombos,Tim Van Rijthoven,,,1.0
+119765,2022-05-20T10:25Z,Roland Garros,Juan Pablo Varillas,Nicolas Jarry,,,1.0
+119764,2022-05-20T10:35Z,Roland Garros,Chun-Hsin Tseng,Cedrik-Marcel Stebe,,,1.0
+119757,2022-05-20T12:30Z,Roland Garros,Pedro Cachin,Pavel Kotov,,,0.0
+119754,2022-05-20T13:05Z,Roland Garros,Andrey Kuznetsov,Marco Trungelliti,,,1.0
+119758,2022-05-20T13:45Z,Roland Garros,Alexander Ritschard,Camilo Ugo Carabelli,,,0.0
+119766,2022-05-20T14:05Z,Roland Garros,Nino Serdarusic,Bjorn Fratangelo,,,0.0
+119767,2022-05-20T14:25Z,Roland Garros,Daniel Masur,Geoffrey Blancaneaux,,,0.0
+119790,2022-05-22T09:10Z,Roland Garros,Grigor Dimitrov,Marcos Giron,,,1.0
+119796,2022-05-22T09:10Z,Roland Garros,Daniel Altmaier,Jaume Munar,,,0.0
+119797,2022-05-22T09:10Z,Roland Garros,Borna Coric,Carlos Taberner,,,1.0
+119799,2022-05-22T09:10Z,Roland Garros,Aljaz Bedene,Christopher O'Connell,,,1.0
+119854,2022-05-22T09:10Z,Roland Garros,Hugo Dellien,Dominic Thiem,,,1.0
+119795,2022-05-22T10:35Z,Roland Garros,Andrey Kuznetsov,Diego Schwartzman,,,0.0
+119848,2022-05-22T10:50Z,Roland Garros,Taro Daniel,Gregoire Barrere,,,0.0
+119789,2022-05-22T11:45Z,Roland Garros,Botic Van De Zandschulp,Pavel Kotov,,,1.0
+119859,2022-05-22T11:55Z,Roland Garros,John Isner,Quentin Halys,,,1.0
+119794,2022-05-22T12:00Z,Roland Garros,Felix Auger-Aliassime,Juan Pablo Varillas,,,1.0
+119798,2022-05-22T12:30Z,Roland Garros,Pablo Cuevas,Jenson Brooksby,,,1.0
+119819,2022-05-22T13:35Z,Roland Garros,Tallon Griekspoor,Alejandro Davidovich Fokina,,,1.0
+119788,2022-05-22T14:05Z,Roland Garros,Fabio Fognini,Alexei Popyrin,,,1.0
+119830,2022-05-22T14:25Z,Roland Garros,Nuno Borges,Karen Khachanov,,,0.0
+119850,2022-05-22T14:35Z,Roland Garros,Albert Ramos-Vinolas,Thanasi Kokkinakis,,,1.0
+119793,2022-05-22T14:38Z,Roland Garros,Camilo Ugo Carabelli,Aslan Karatsev,,,1.0
+119846,2022-05-22T15:40Z,Roland Garros,Alexander Zverev,Sebastian Ofner,,,1.0
+119855,2022-05-22T16:25Z,Roland Garros,Jason Kubler,Denis Kudla,,,1.0
+119858,2022-05-22T16:50Z,Roland Garros,Michael Mmoh,Bernabe Zapata Miralles,,,0.0
+119851,2022-05-22T17:30Z,Roland Garros,Juan Ignacio Londero,Carlos Alcaraz,,,0.0
+119791,2022-05-23T09:10Z,Roland Garros,Filip Krajinovic,Reilly Opelka,,,1.0
+119792,2022-05-23T09:10Z,Roland Garros,Alessandro Giannessi,Borna Gojo,,,0.0
+119857,2022-05-23T09:10Z,Roland Garros,Santiago Rodriguez Taverna,Taylor Fritz,,,0.0
+119861,2022-05-23T10:45Z,Roland Garros,Dusan Lajovic,Sebastian Baez,,,0.0
+119860,2022-05-23T10:50Z,Roland Garros,Brandon Nakashima,Kamil Majchrzak,,,1.0
+119805,2022-05-23T10:55Z,Roland Garros,Nikoloz Basilashvili,Maxime Cressy,,,1.0
+119787,2022-05-23T13:10Z,Roland Garros,Stan Wawrinka,Corentin Moutet,,,0.0
+119856,2022-05-23T13:10Z,Roland Garros,Cameron Norrie,Manuel Guinard,,,1.0
+119824,2022-05-23T13:40Z,Roland Garros,Daniel Evans,Francisco Cerundolo,,,1.0
+119786,2022-05-23T13:55Z,Roland Garros,Jordan Thompson,Rafael Nadal,,,0.0
+119804,2022-05-23T14:40Z,Roland Garros,Mackenzie McDonald,Franco Agamenone,,,1.0
+119898,2022-05-23T15:20Z,Roland Garros,Miomir Kecmanovic,Tomas Martin Etcheverry,,,1.0
+119826,2022-05-23T15:25Z,Roland Garros,Norbert Gombos,Pedro Cachin,,,0.0
+119902,2022-05-23T16:35Z,Roland Garros,Marton Fucsovics,Geoffrey Blancaneaux,,,1.0
+119823,2022-05-23T16:45Z,Roland Garros,Mikael Ymer,James Duckworth,,,1.0
+119900,2022-05-23T17:00Z,Roland Garros,Attila Balazs,Marin Cilic,,,0.0
+119801,2022-05-23T19:00Z,Roland Garros,Novak Djokovic,Yoshihito Nishioka,,,1.0
+119896,2022-05-24T09:10Z,Roland Garros,Facundo Bagnis,Daniil Medvedev,,,0.0
+119828,2022-05-24T09:15Z,Roland Garros,Denis Shapovalov,Holger Rune,,,0.0
+119845,2022-05-24T09:15Z,Roland Garros,João Sousa,Chun-Hsin Tseng,,,1.0
+119847,2022-05-24T09:15Z,Roland Garros,Emil Ruusuvuori,Ugo Humbert,,,1.0
+119897,2022-05-24T09:15Z,Roland Garros,Ricardas Berankis,Laslo Djere,,,0.0
+119807,2022-05-24T10:30Z,Roland Garros,Benoit Paire,Ilya Ivashka,,,0.0
+119800,2022-05-24T10:50Z,Roland Garros,Alex Molcan,Federico Coria,,,1.0
+119853,2022-05-24T10:50Z,Roland Garros,Sebastian Korda,John Millman,,,1.0
+119886,2022-05-24T10:50Z,Roland Garros,Arthur Rinderknech,Alexander Bublik,,,0.0
+119852,2022-05-24T11:00Z,Roland Garros,Lloyd Harris,Richard Gasquet,,,0.0
+119806,2022-05-24T11:40Z,Roland Garros,Cristian Garin,Tommy Paul,,,1.0
+119827,2022-05-24T11:40Z,Roland Garros,Pedro Martinez,Henri Laaksonen,,,0.0
+119849,2022-05-24T11:40Z,Roland Garros,Casper Ruud,Jo-Wilfried Tsonga,,,1.0
+119835,2022-05-24T11:45Z,Roland Garros,Jiri Lehecka,David Goffin,,,0.0
+119811,2022-05-24T12:10Z,Roland Garros,Andrey Rublev,SoonWoo Kwon,,,1.0
+119844,2022-05-24T12:35Z,Roland Garros,Peter Gojowczyk,Lorenzo Sonego,,,0.0
+119809,2022-05-24T13:30Z,Roland Garros,Adrian Mannarino,Federico Delbonis,,,0.0
+119837,2022-05-24T13:45Z,Roland Garros,Frances Tiafoe,Benjamin Bonzi,,,1.0
+119825,2022-05-24T14:20Z,Roland Garros,Hugo Gaston,Alex de Minaur,,,1.0
+119803,2022-05-24T15:35Z,Roland Garros,Roberto Carballes Baena,Oscar Otte,,,1.0
+119831,2022-05-24T16:00Z,Roland Garros,Giulio Zeppieri,Hubert Hurkacz,,,0.0
+119833,2022-05-24T16:00Z,Roland Garros,Marco Cecchinato,Pablo Andujar,,,1.0
+119802,2022-05-24T17:30Z,Roland Garros,Bjorn Fratangelo,Jannik Sinner,,,0.0
+119815,2022-05-24T17:45Z,Roland Garros,Lucas Pouille,Zdenek Kolar,,,0.0
+119904,2022-05-24T18:00Z,Roland Garros,Jiri Vesely,Steve Johnson,,,0.0
+119813,2022-05-24T19:00Z,Roland Garros,Lorenzo Musetti,Stefanos Tsitsipas,,,0.0
+119906,2022-05-24T19:10Z,Roland Garros,Pablo Carreno Busta,Gilles Simon,,,0.0
+119874,2022-05-25T09:10Z,Roland Garros,John Isner,Gregoire Barrere,,,1.0
+119870,2022-05-25T09:15Z,Roland Garros,Hugo Dellien,Karen Khachanov,,,0.0
+119882,2022-05-25T09:15Z,Roland Garros,Felix Auger-Aliassime,Camilo Ugo Carabelli,,,1.0
+119895,2022-05-25T10:35Z,Roland Garros,Aljaz Bedene,Pablo Cuevas,,,1.0
+119871,2022-05-25T10:45Z,Roland Garros,Cameron Norrie,Jason Kubler,,,1.0
+119873,2022-05-25T11:15Z,Roland Garros,Bernabe Zapata Miralles,Taylor Fritz,,,1.0
+119880,2022-05-25T11:30Z,Roland Garros,Borna Gojo,Filip Krajinovic,,,0.0
+119876,2022-05-25T12:40Z,Roland Garros,Alexander Zverev,Sebastian Baez,,,1.0
+119885,2022-05-25T13:30Z,Roland Garros,Jaume Munar,Diego Schwartzman,,,0.0
+119868,2022-05-25T13:45Z,Roland Garros,Albert Ramos-Vinolas,Carlos Alcaraz,,,0.0
+119875,2022-05-25T14:25Z,Roland Garros,Brandon Nakashima,Tallon Griekspoor,,,1.0
+119884,2022-05-25T14:25Z,Roland Garros,Novak Djokovic,Alex Molcan,,,1.0
+119878,2022-05-25T15:10Z,Roland Garros,Botic Van De Zandschulp,Fabio Fognini,,,1.0
+119888,2022-05-25T16:05Z,Roland Garros,Grigor Dimitrov,Borna Coric,,,1.0
+119869,2022-05-25T17:00Z,Roland Garros,Sebastian Korda,Richard Gasquet,,,1.0
+119877,2022-05-25T19:05Z,Roland Garros,Corentin Moutet,Rafael Nadal,,,0.0
+119863,2022-05-26T09:10Z,Roland Garros,Holger Rune,Henri Laaksonen,,,1.0
+119867,2022-05-26T09:10Z,Roland Garros,Casper Ruud,Emil Ruusuvuori,,,1.0
+119829,2022-05-26T10:10Z,Roland Garros,Laslo Djere,Daniil Medvedev,,,0.0
+119832,2022-05-26T10:40Z,Roland Garros,Miomir Kecmanovic,Alexander Bublik,,,1.0
+119865,2022-05-26T10:45Z,Roland Garros,Frances Tiafoe,David Goffin,,,0.0
+119862,2022-05-26T11:50Z,Roland Garros,Pedro Cachin,Hugo Gaston,,,0.0
+119834,2022-05-26T11:55Z,Roland Garros,Marton Fucsovics,Marin Cilic,,,0.0
+119866,2022-05-26T12:10Z,Roland Garros,João Sousa,Lorenzo Sonego,,,0.0
+119839,2022-05-26T12:40Z,Roland Garros,Nikoloz Basilashvili,Mackenzie McDonald,,,0.0
+119864,2022-05-26T13:05Z,Roland Garros,Marco Cecchinato,Hubert Hurkacz,,,0.0
+119840,2022-05-26T13:50Z,Roland Garros,Ilya Ivashka,Cristian Garin,,,0.0
+119836,2022-05-26T15:00Z,Roland Garros,Gilles Simon,Steve Johnson,,,1.0
+119843,2022-05-26T15:05Z,Roland Garros,Daniel Evans,Mikael Ymer,,,0.0
+119842,2022-05-26T15:40Z,Roland Garros,Zdenek Kolar,Stefanos Tsitsipas,,,0.0
+119838,2022-05-26T16:10Z,Roland Garros,Roberto Carballes Baena,Jannik Sinner,,,0.0
+119841,2022-05-26T16:25Z,Roland Garros,Andrey Rublev,Federico Delbonis,,,1.0
+119821,2022-05-27T09:15Z,Roland Garros,Grigor Dimitrov,Diego Schwartzman,,,0.0
+119820,2022-05-27T12:45Z,Roland Garros,Felix Auger-Aliassime,Filip Krajinovic,,,1.0
+119822,2022-05-27T13:20Z,Roland Garros,Novak Djokovic,Aljaz Bedene,,,1.0
+119818,2022-05-27T13:35Z,Roland Garros,Botic Van De Zandschulp,Rafael Nadal,,,0.0
+119816,2022-05-27T13:55Z,Roland Garros,John Isner,Bernabe Zapata Miralles,,,0.0
+119817,2022-05-27T16:20Z,Roland Garros,Alexander Zverev,Brandon Nakashima,,,1.0
+119814,2022-05-27T17:25Z,Roland Garros,Cameron Norrie,Karen Khachanov,,,0.0
+119812,2022-05-27T19:00Z,Roland Garros,Sebastian Korda,Carlos Alcaraz,,,0.0
+119909,2022-05-28T09:10Z,Roland Garros,Mackenzie McDonald,Jannik Sinner,,,0.0
+119910,2022-05-28T09:10Z,Roland Garros,Andrey Rublev,Cristian Garin,,,1.0
+119907,2022-05-28T10:55Z,Roland Garros,Miomir Kecmanovic,Daniil Medvedev,,,0.0
+119908,2022-05-28T13:20Z,Roland Garros,Gilles Simon,Marin Cilic,,,0.0
+119808,2022-05-28T14:30Z,Roland Garros,David Goffin,Hubert Hurkacz,,,0.0
+119911,2022-05-28T14:50Z,Roland Garros,Mikael Ymer,Stefanos Tsitsipas,,,0.0
+119810,2022-05-28T16:30Z,Roland Garros,Casper Ruud,Lorenzo Sonego,,,1.0
+119912,2022-05-28T19:00Z,Roland Garros,Holger Rune,Hugo Gaston,,,1.0
+119905,2022-05-29T11:30Z,Roland Garros,Novak Djokovic,Diego Schwartzman,,,1.0
+119901,2022-05-29T14:15Z,Roland Garros,Alexander Zverev,Bernabe Zapata Miralles,,,1.0
+119903,2022-05-29T14:15Z,Roland Garros,Felix Auger-Aliassime,Rafael Nadal,,,0.0
+119899,2022-05-29T19:20Z,Roland Garros,Karen Khachanov,Carlos Alcaraz,,,0.0
+119894,2022-05-30T10:50Z,Roland Garros,Casper Ruud,Hubert Hurkacz,,,1.0
+119893,2022-05-30T12:15Z,Roland Garros,Holger Rune,Stefanos Tsitsipas,,,1.0
+119892,2022-05-30T16:15Z,Roland Garros,Andrey Rublev,Jannik Sinner,,,1.0
+119891,2022-05-30T19:00Z,Roland Garros,Marin Cilic,Daniil Medvedev,,,1.0
+119889,2022-05-31T14:45Z,Roland Garros,Alexander Zverev,Carlos Alcaraz,,,1.0
+119890,2022-05-31T19:05Z,Roland Garros,Novak Djokovic,Rafael Nadal,,,0.0
+119883,2022-06-01T14:40Z,Roland Garros,Andrey Rublev,Marin Cilic,,,0.0
+119887,2022-06-01T19:30Z,Roland Garros,Casper Ruud,Holger Rune,,,1.0
+119881,2022-06-03T13:05Z,Roland Garros,Rafael Nadal,Alexander Zverev,,,1.0
+119879,2022-06-03T17:10Z,Roland Garros,Casper Ruud,Marin Cilic,,,1.0
+119872,2022-06-05T13:10Z,Roland Garros,Rafael Nadal,Casper Ruud,,,1.0
+119582,2022-05-16T08:10Z,Roland Garros,Zhu Lin,Storm Hunter,,,1.0
+119585,2022-05-16T08:10Z,Roland Garros,Jamie Loeb,Viktoria Hruncakova,,,0.0
+119587,2022-05-16T08:10Z,Roland Garros,Linda Fruhvirtova,Katarzyna Kawa,,,1.0
+119649,2022-05-16T08:10Z,Roland Garros,Anna Blinkova,Linda Noskova,,,0.0
+119651,2022-05-16T08:10Z,Roland Garros,Anastasiya Komardina,Conny Perrin,,,0.0
+119584,2022-05-16T08:15Z,Roland Garros,Natalia Vikhlyantseva,Georgina Garcia Perez,,,1.0
+119574,2022-05-16T09:40Z,Roland Garros,Dea Herdzelas,Jessika Ponchet,,,0.0
+119663,2022-05-16T09:40Z,Roland Garros,Aleksandra Krunic,Gabriela Lee,,,1.0
+119605,2022-05-16T09:45Z,Roland Garros,Yuliya Hatouka,Mai Hontama,,,1.0
+119573,2022-05-16T10:05Z,Roland Garros,Jule Niemeier,Alexandra Cadanțu-Ignatik,,,1.0
+119602,2022-05-16T10:05Z,Roland Garros,Sachia Vickery,Nao Hibino,,,0.0
+119655,2022-05-16T10:05Z,Roland Garros,Suzan Lamens,Maddison Inglis,,,1.0
+119653,2022-05-16T10:10Z,Roland Garros,Rebecca Sramkova,Alycia Parks,,,1.0
+119671,2022-05-16T10:10Z,Roland Garros,Audrey Albie,Reka Luca Jani,,,0.0
+119665,2022-05-16T10:50Z,Roland Garros,Salma Djoubri,Grace Min,,,0.0
+119592,2022-05-16T11:45Z,Roland Garros,Laura Siegemund,Anastasia Zakharova,,,1.0
+119589,2022-05-16T12:20Z,Roland Garros,Wang Xiyu,Na-Lae Han,,,1.0
+119593,2022-05-16T12:50Z,Roland Garros,Arina Rodionova,Emina Bektas,,,1.0
+119597,2022-05-16T12:50Z,Roland Garros,Olga Govortsova,Cristina Bucsa,,,0.0
+119607,2022-05-16T13:15Z,Roland Garros,Donna Vekic,Robin Anderson,,,1.0
+119666,2022-05-16T13:40Z,Roland Garros,Federica Di Sarra,Jaimee Fourlis,,,0.0
+119614,2022-05-16T13:55Z,Roland Garros,Anastasia Gasanova,Zarina Diyas,,,1.0
+119610,2022-05-16T14:05Z,Roland Garros,Jana Fett,Louisa Chirico,,,0.0
+119672,2022-05-16T14:30Z,Roland Garros,Lesia Tsurenko,Emiliana Arango,,,1.0
+119675,2022-05-16T14:40Z,Roland Garros,Su-Jeong Jang,Sara Errani,,,0.0
+119687,2022-05-16T15:05Z,Roland Garros,Julia Grabher,Stefanie Voegele,,,1.0
+119560,2022-05-16T15:15Z,Roland Garros,Anastasia Potapova,Renata Zarazua,,,1.0
+119635,2022-05-16T15:15Z,Roland Garros,Mariam Bolkvadze,Seone Mendez,,,0.0
+119564,2022-05-16T15:40Z,Roland Garros,Raluka Serban,Anastasia Kulikova,,,0.0
+119612,2022-05-16T15:45Z,Roland Garros,Francesca Di Lorenzo,Priscilla Hon,,,0.0
+119688,2022-05-16T16:15Z,Roland Garros,Olivia Gadecki,Hailey Baptiste,,,0.0
+119637,2022-05-16T16:40Z,Roland Garros,Caroline Dolehide,Elina Avanesyan,,,1.0
+119565,2022-05-17T08:00Z,Roland Garros,Despina Papamichail,Ysaline Bonaventure,,,0.0
+119569,2022-05-17T08:00Z,Roland Garros,Yuriko Lily Miyazaki,Ylena In-Albon,,,1.0
+119576,2022-05-17T08:00Z,Roland Garros,Aliona Bolsova,Kathinka von Deichmann,,,0.0
+119580,2022-05-17T08:00Z,Roland Garros,Moyuka Uchijima,Yuan Yue,,,1.0
+119598,2022-05-17T08:00Z,Roland Garros,Irina Bara,Jesika Maleckova,,,1.0
+119600,2022-05-17T08:00Z,Roland Garros,Estelle Cascino,Selena Janicijevic,,,0.0
+119633,2022-05-17T09:40Z,Roland Garros,Lucrezia Stefanini,Katarina Zavatska,,,0.0
+119683,2022-05-17T09:50Z,Roland Garros,Lizette Cabrera,Emeline Dartron,,,1.0
+119656,2022-05-17T09:55Z,Roland Garros,Vitalia Diatchenko,Isabella Shinikova,,,0.0
+119658,2022-05-17T10:00Z,Roland Garros,Valentini Grammatikopoulou,Valeria Savinykh,,,1.0
+119684,2022-05-17T10:10Z,Roland Garros,Andrea Lazaro Garcia,Mirjam Bjorklund,,,0.0
+119631,2022-05-17T10:45Z,Roland Garros,Rebecca Marino,Paula Ormaechea,,,1.0
+119677,2022-05-17T11:00Z,Roland Garros,Yuki Naito,Richel Hogenkamp,,,1.0
+119678,2022-05-17T11:00Z,Roland Garros,Katharina Gerlach,Coco Vandeweghe,,,1.0
+119682,2022-05-17T11:20Z,Roland Garros,Susan Bandecchi,Ellen Perez,,,1.0
+119623,2022-05-17T11:45Z,Roland Garros,Ekaterine Gorgodze,Lois Boisson,,,1.0
+119686,2022-05-17T11:45Z,Roland Garros,Veronica Cepede Royg,Anastasia Tikhonova,,,1.0
+119625,2022-05-17T11:55Z,Roland Garros,Oceane Babel,Alice Rame,,,1.0
+119685,2022-05-17T12:00Z,Roland Garros,Laura Pigossi,Nastasja Schunk,,,0.0
+119681,2022-05-17T12:25Z,Roland Garros,Mihaela Buzarnescu,Han Xinyun,,,1.0
+119619,2022-05-17T13:00Z,Roland Garros,Fernanda Contreras Gomez,Catherine McNally,,,1.0
+119644,2022-05-17T13:05Z,Roland Garros,Simona Waltert,Hanna Chang,,,1.0
+119639,2022-05-17T13:55Z,Roland Garros,Viktoriya Tomova,Katie Swan,,,1.0
+119662,2022-05-17T14:25Z,Roland Garros,Christina McHale,Lesley Pattinama Kerkhove,,,1.0
+119621,2022-05-17T14:55Z,Roland Garros,Ipek Oz,Daria Snigur,,,1.0
+119646,2022-05-17T15:25Z,Roland Garros,Olga Danilovic,Rebeka Masarova,,,1.0
+119641,2022-05-17T15:45Z,Roland Garros,Varvara Flink,Marina Melnikova,,,0.0
+119618,2022-05-17T16:20Z,Roland Garros,Tamara Korpatsch,Lucie Nguyen Tan,,,1.0
+119627,2022-05-17T16:20Z,Roland Garros,Elisabetta Cocciaretto,Arianne Hartono,,,1.0
+119629,2022-05-17T16:20Z,Roland Garros,Oksana Selekhmeteva,Kateryna Baindl,,,1.0
+119661,2022-05-17T16:45Z,Roland Garros,Carolina Alves,Victoria Jimenez Kasintseva,,,1.0
+119620,2022-05-17T18:00Z,Roland Garros,Joanne Zuger,Asia Muhammad,,,1.0
+119725,2022-05-18T08:10Z,Roland Garros,Zhu Lin,Natalia Vikhlyantseva,,,1.0
+119726,2022-05-18T08:10Z,Roland Garros,Viktoria Hruncakova,Linda Fruhvirtova,,,1.0
+119741,2022-05-18T08:10Z,Roland Garros,Linda Noskova,Conny Perrin,,,1.0
+119742,2022-05-18T08:10Z,Roland Garros,Rebecca Sramkova,Suzan Lamens,,,1.0
+119745,2022-05-18T08:10Z,Roland Garros,Aleksandra Krunic,Grace Min,,,1.0
+119746,2022-05-18T08:10Z,Roland Garros,Jaimee Fourlis,Reka Luca Jani,,,0.0
+119728,2022-05-18T09:40Z,Roland Garros,Arina Rodionova,Cristina Bucsa,,,0.0
+119731,2022-05-18T09:50Z,Roland Garros,Donna Vekic,Louisa Chirico,,,1.0
+119721,2022-05-18T10:00Z,Roland Garros,Anastasia Potapova,Anastasia Kulikova,,,0.0
+119724,2022-05-18T10:10Z,Roland Garros,Kathinka von Deichmann,Moyuka Uchijima,,,0.0
+119722,2022-05-18T10:25Z,Roland Garros,Ysaline Bonaventure,Yuriko Lily Miyazaki,,,1.0
+119727,2022-05-18T10:45Z,Roland Garros,Wang Xiyu,Laura Siegemund,,,0.0
+119730,2022-05-18T11:15Z,Roland Garros,Nao Hibino,Yuliya Hatouka,,,1.0
+119729,2022-05-18T11:35Z,Roland Garros,Irina Bara,Selena Janicijevic,,,1.0
+119732,2022-05-18T11:40Z,Roland Garros,Priscilla Hon,Anastasia Gasanova,,,0.0
+119723,2022-05-18T11:50Z,Roland Garros,Jule Niemeier,Jessika Ponchet,,,1.0
+119750,2022-05-18T12:10Z,Roland Garros,Lesia Tsurenko,Sara Errani,,,1.0
+119752,2022-05-18T12:20Z,Roland Garros,Yuki Naito,Katharina Gerlach,,,1.0
+119736,2022-05-18T12:30Z,Roland Garros,Elisabetta Cocciaretto,Oksana Selekhmeteva,,,0.0
+119737,2022-05-18T12:45Z,Roland Garros,Rebecca Marino,Katarina Zavatska,,,1.0
+119738,2022-05-18T12:55Z,Roland Garros,Seone Mendez,Caroline Dolehide,,,1.0
+119747,2022-05-18T13:55Z,Roland Garros,Mihaela Buzarnescu,Susan Bandecchi,,,1.0
+119734,2022-05-18T14:00Z,Roland Garros,Fernanda Contreras Gomez,Ipek Oz,,,1.0
+119748,2022-05-18T14:20Z,Roland Garros,Nastasja Schunk,Veronica Cepede Royg,,,1.0
+119749,2022-05-18T14:20Z,Roland Garros,Julia Grabher,Hailey Baptiste,,,0.0
+119735,2022-05-18T14:40Z,Roland Garros,Ekaterine Gorgodze,Oceane Babel,,,0.0
+119751,2022-05-18T14:55Z,Roland Garros,Lizette Cabrera,Mirjam Bjorklund,,,0.0
+119739,2022-05-18T15:10Z,Roland Garros,Viktoriya Tomova,Marina Melnikova,,,1.0
+119740,2022-05-18T15:10Z,Roland Garros,Simona Waltert,Olga Danilovic,,,0.0
+119744,2022-05-18T15:10Z,Roland Garros,Carolina Alves,Christina McHale,,,0.0
+119743,2022-05-18T15:30Z,Roland Garros,Isabella Shinikova,Valentini Grammatikopoulou,,,0.0
+119733,2022-05-18T16:30Z,Roland Garros,Tamara Korpatsch,Joanne Zuger,,,0.0
+119772,2022-05-19T08:10Z,Roland Garros,Zhu Lin,Viktoria Hruncakova,,,1.0
+119780,2022-05-19T08:10Z,Roland Garros,Linda Noskova,Rebecca Sramkova,,,1.0
+119782,2022-05-19T08:15Z,Roland Garros,Aleksandra Krunic,Reka Luca Jani,,,1.0
+119773,2022-05-19T09:55Z,Roland Garros,Laura Siegemund,Cristina Bucsa,,,0.0
+119771,2022-05-19T10:05Z,Roland Garros,Jule Niemeier,Moyuka Uchijima,,,1.0
+119770,2022-05-19T11:15Z,Roland Garros,Anastasia Kulikova,Ysaline Bonaventure,,,0.0
+119775,2022-05-19T11:15Z,Roland Garros,Donna Vekic,Anastasia Gasanova,,,1.0
+119774,2022-05-19T11:35Z,Roland Garros,Irina Bara,Nao Hibino,,,1.0
+119778,2022-05-20T10:30Z,Roland Garros,Rebecca Marino,Seone Mendez,,,1.0
+119777,2022-05-20T10:35Z,Roland Garros,Oceane Babel,Oksana Selekhmeteva,,,0.0
+119783,2022-05-20T10:35Z,Roland Garros,Lesia Tsurenko,Yuki Naito,,,1.0
+119776,2022-05-20T11:40Z,Roland Garros,Joanne Zuger,Fernanda Contreras Gomez,,,0.0
+119779,2022-05-20T12:05Z,Roland Garros,Viktoriya Tomova,Olga Danilovic,,,0.0
+119781,2022-05-20T12:30Z,Roland Garros,Valentini Grammatikopoulou,Christina McHale,,,1.0
+119784,2022-05-20T13:40Z,Roland Garros,Mihaela Buzarnescu,Mirjam Bjorklund,,,0.0
+119785,2022-05-20T14:20Z,Roland Garros,Nastasja Schunk,Hailey Baptiste,,,0.0
+119946,2022-05-22T09:10Z,Roland Garros,Camila Osorio,Harmony Tan,,,1.0
+119948,2022-05-22T09:10Z,Roland Garros,Sloane Stephens,Jule Niemeier,,,1.0
+119950,2022-05-22T09:10Z,Roland Garros,Sorana Cirstea,Tatjana Maria,,,1.0
+119989,2022-05-22T09:10Z,Roland Garros,Ons Jabeur,Magda Linette,,,0.0
+120015,2022-05-22T09:10Z,Roland Garros,Beatriz Haddad Maia,Cristina Bucsa,,,1.0
+120022,2022-05-22T11:10Z,Roland Garros,Carole Monnet,Karolina Muchova,,,0.0
+120014,2022-05-22T11:35Z,Roland Garros,Kaia Kanepi,Garbine Muguruza,,,1.0
+120029,2022-05-22T12:25Z,Roland Garros,Aliaksandra Sasnovich,Wang Xinyu,,,1.0
+119987,2022-05-22T12:35Z,Roland Garros,Katerina Siniakova,Petra Martic,,,1.0
+119952,2022-05-22T13:15Z,Roland Garros,Bernarda Pera,Jil Teichmann,,,0.0
+119954,2022-05-22T14:00Z,Roland Garros,Olga Danilovic,Dalma Galfi,,,1.0
+119980,2022-05-22T14:20Z,Roland Garros,Astra Sharma,Varvara Gracheva,,,0.0
+120016,2022-05-22T14:50Z,Roland Garros,Alison Van Uytvanck,Ann Li,,,1.0
+120021,2022-05-22T15:40Z,Roland Garros,Clara Burel,Maria Sakkari,,,0.0
+120018,2022-05-22T16:15Z,Roland Garros,Elena-Gabriela Ruse,Elise Mertens,,,0.0
+120017,2022-05-22T16:45Z,Roland Garros,Coco Gauff,Rebecca Marino,,,1.0
+120023,2022-05-22T16:55Z,Roland Garros,Mirjam Bjorklund,Donna Vekic,,,0.0
+120027,2022-05-22T16:55Z,Roland Garros,Belinda Bencic,Reka Luca Jani,,,1.0
+120025,2022-05-22T17:50Z,Roland Garros,Kristina Mladenovic,Leylah Fernandez,,,0.0
+120019,2022-05-22T17:55Z,Roland Garros,Anastasia Gasanova,Marie Bouzkova,,,0.0
+119962,2022-05-23T09:10Z,Roland Garros,Martina Trevisan,Harriet Dart,,,1.0
+119975,2022-05-23T09:10Z,Roland Garros,Maryna Zanevska,Zheng Qinwen,,,0.0
+120000,2022-05-23T09:10Z,Roland Garros,Oceane Dodin,Andrea Petkovic,,,0.0
+120012,2022-05-23T09:10Z,Roland Garros,Victoria Azarenka,Ana Bogdan,,,1.0
+120024,2022-05-23T09:10Z,Roland Garros,Amanda Anisimova,Naomi Osaka,,,1.0
+120026,2022-05-23T09:10Z,Roland Garros,Bianca Andreescu,Ysaline Bonaventure,,,1.0
+120032,2022-05-23T09:10Z,Roland Garros,Anna Bondar,Petra Kvitova,,,0.0
+119959,2022-05-23T09:15Z,Roland Garros,Valentini Grammatikopoulou,Daria Saville,,,0.0
+119986,2022-05-23T10:10Z,Roland Garros,Iga Swiatek,Lesia Tsurenko,,,1.0
+119984,2022-05-23T10:55Z,Roland Garros,Alison Riske-Amritraj,Dayana Yastremska,,,1.0
+119945,2022-05-23T11:30Z,Roland Garros,Diane Parry,Barbora Krejcikova,,,1.0
+119979,2022-05-23T13:15Z,Roland Garros,Danka Kovinic,Liudmila Samsonova,,,1.0
+120030,2022-05-23T14:50Z,Roland Garros,Heather Watson,Elsa Jacquemot,,,0.0
+119926,2022-05-23T15:05Z,Roland Garros,Leolia Jeanjean,Nuria Parrizas Diaz,,,1.0
+120028,2022-05-23T15:45Z,Roland Garros,Linda Noskova,Emma Raducanu,,,0.0
+119982,2022-05-23T16:25Z,Roland Garros,Anna Karolina Schmiedlova,Kristina Kucova,,,1.0
+120020,2022-05-23T16:30Z,Roland Garros,Anett Kontaveit,Ajla Tomljanovic,,,0.0
+119940,2022-05-23T16:35Z,Roland Garros,Zhu Lin,Veronika Kudermetova,,,0.0
+120031,2022-05-23T16:45Z,Roland Garros,Angelique Kerber,Magdalena Frech,,,1.0
+119964,2022-05-24T09:10Z,Roland Garros,Tessah Andrianjafitrimo,Karolina Pliskova,,,0.0
+119972,2022-05-24T09:10Z,Roland Garros,Lucia Bronzetti,Jelena Ostapenko,,,0.0
+120038,2022-05-24T09:10Z,Roland Garros,Danielle Collins,Viktoriya Tomova,,,1.0
+119960,2022-05-24T09:15Z,Roland Garros,Aleksandra Krunic,Kamilla Rakhimova,,,1.0
+119974,2022-05-24T10:10Z,Roland Garros,Alize Cornet,Misaki Doi,,,1.0
+119956,2022-05-24T10:50Z,Roland Garros,Katie Volynets,Viktorija Golubic,,,1.0
+120039,2022-05-24T11:00Z,Roland Garros,Arantxa Rus,Elena Rybakina,,,0.0
+119966,2022-05-24T11:05Z,Roland Garros,Ekaterina Alexandrova,Greet Minnen,,,1.0
+119957,2022-05-24T12:40Z,Roland Garros,Taylor Townsend,Caroline Garcia,,,0.0
+119965,2022-05-24T13:10Z,Roland Garros,Irina-Camelia Begu,Jasmine Paolini,,,1.0
+119958,2022-05-24T13:20Z,Roland Garros,Madison Keys,Anna Kalinskaya,,,1.0
+119973,2022-05-24T13:50Z,Roland Garros,Shelby Rogers,Tereza Martincova,,,1.0
+119968,2022-05-24T13:55Z,Roland Garros,Mayar Sherif,Marta Kostyuk,,,1.0
+119970,2022-05-24T14:45Z,Roland Garros,Anhelina Kalinina,Hailey Baptiste,,,1.0
+120034,2022-05-24T14:55Z,Roland Garros,Irina Bara,Yulia Putintseva,,,0.0
+119971,2022-05-24T15:30Z,Roland Garros,Jessica Pegula,Wang Qiang,,,1.0
+120035,2022-05-24T15:30Z,Roland Garros,Camila Giorgi,Zhang Shuai,,,1.0
+119963,2022-05-24T15:35Z,Roland Garros,Paula Badosa,Fiona Ferro,,,1.0
+119961,2022-05-24T15:45Z,Roland Garros,Oksana Selekhmeteva,Kaja Juvan,,,0.0
+119967,2022-05-24T15:55Z,Roland Garros,Claire Liu,Tamara Zidansek,,,0.0
+119969,2022-05-24T16:10Z,Roland Garros,Madison Brengle,Mihaela Buzarnescu,,,1.0
+119977,2022-05-24T17:05Z,Roland Garros,Simona Halep,Nastasja Schunk,,,1.0
+120036,2022-05-24T17:35Z,Roland Garros,Rebecca Sramkova,Daria Kasatkina,,,0.0
+120037,2022-05-24T18:25Z,Roland Garros,Panna Udvardy,Fernanda Contreras Gomez,,,0.0
+120033,2022-05-24T18:45Z,Roland Garros,Chloe Paquet,Aryna Sabalenka,,,0.0
+119930,2022-05-25T09:10Z,Roland Garros,Aliaksandra Sasnovich,Emma Raducanu,,,1.0
+119919,2022-05-25T09:15Z,Roland Garros,Olga Danilovic,Jil Teichmann,,,0.0
+119920,2022-05-25T09:15Z,Roland Garros,Victoria Azarenka,Andrea Petkovic,,,1.0
+119931,2022-05-25T10:10Z,Roland Garros,Angelique Kerber,Elsa Jacquemot,,,1.0
+119925,2022-05-25T11:35Z,Roland Garros,Karolina Muchova,Maria Sakkari,,,1.0
+119927,2022-05-25T11:40Z,Roland Garros,Amanda Anisimova,Donna Vekic,,,1.0
+119922,2022-05-25T11:55Z,Roland Garros,Coco Gauff,Alison Van Uytvanck,,,1.0
+119923,2022-05-25T12:30Z,Roland Garros,Marie Bouzkova,Elise Mertens,,,0.0
+119921,2022-05-25T12:40Z,Roland Garros,Beatriz Haddad Maia,Kaia Kanepi,,,0.0
+119928,2022-05-25T13:40Z,Roland Garros,Katerina Siniakova,Leylah Fernandez,,,0.0
+119918,2022-05-25T13:50Z,Roland Garros,Sorana Cirstea,Sloane Stephens,,,0.0
+119924,2022-05-25T14:05Z,Roland Garros,Ajla Tomljanovic,Varvara Gracheva,,,0.0
+119929,2022-05-25T16:40Z,Roland Garros,Belinda Bencic,Bianca Andreescu,,,1.0
+119933,2022-05-25T16:45Z,Roland Garros,Magda Linette,Martina Trevisan,,,0.0
+119932,2022-05-25T17:30Z,Roland Garros,Daria Saville,Petra Kvitova,,,1.0
+119917,2022-05-25T18:40Z,Roland Garros,Camila Osorio,Diane Parry,,,0.0
+119941,2022-05-26T09:10Z,Roland Garros,Aleksandra Krunic,Veronika Kudermetova,,,0.0
+119942,2022-05-26T09:10Z,Roland Garros,Paula Badosa,Kaja Juvan,,,1.0
+119943,2022-05-26T09:10Z,Roland Garros,Leolia Jeanjean,Karolina Pliskova,,,1.0
+119944,2022-05-26T09:10Z,Roland Garros,Ekaterina Alexandrova,Irina-Camelia Begu,,,0.0
+119949,2022-05-26T09:10Z,Roland Garros,Jessica Pegula,Anhelina Kalinina,,,1.0
+119936,2022-05-26T11:20Z,Roland Garros,Fernanda Contreras Gomez,Daria Kasatkina,,,0.0
+119955,2022-05-26T11:30Z,Roland Garros,Anna Karolina Schmiedlova,Danka Kovinic,,,0.0
+119938,2022-05-26T11:35Z,Roland Garros,Katie Volynets,Elena Rybakina,,,0.0
+119939,2022-05-26T13:10Z,Roland Garros,Madison Keys,Caroline Garcia,,,1.0
+119935,2022-05-26T13:15Z,Roland Garros,Camila Giorgi,Yulia Putintseva,,,1.0
+119953,2022-05-26T14:10Z,Roland Garros,Simona Halep,Zheng Qinwen,,,0.0
+120013,2022-05-26T14:15Z,Roland Garros,Iga Swiatek,Alison Riske-Amritraj,,,1.0
+119934,2022-05-26T14:50Z,Roland Garros,Madison Brengle,Aryna Sabalenka,,,0.0
+119937,2022-05-26T15:10Z,Roland Garros,Danielle Collins,Shelby Rogers,,,0.0
+119951,2022-05-26T19:00Z,Roland Garros,Alize Cornet,Jelena Ostapenko,,,1.0
+119947,2022-05-27T04:00Z,Roland Garros,Mayar Sherif,Tamara Zidansek,,,0.0
+120004,2022-05-27T09:10Z,Roland Garros,Amanda Anisimova,Karolina Muchova,,,1.0
+120005,2022-05-27T10:10Z,Roland Garros,Belinda Bencic,Leylah Fernandez,,,0.0
+120007,2022-05-27T11:05Z,Roland Garros,Martina Trevisan,Daria Saville,,,1.0
+120002,2022-05-27T11:55Z,Roland Garros,Coco Gauff,Kaia Kanepi,,,1.0
+120003,2022-05-27T11:55Z,Roland Garros,Varvara Gracheva,Elise Mertens,,,0.0
+120006,2022-05-27T11:55Z,Roland Garros,Angelique Kerber,Aliaksandra Sasnovich,,,0.0
+120001,2022-05-27T13:45Z,Roland Garros,Victoria Azarenka,Jil Teichmann,,,0.0
+119999,2022-05-27T15:30Z,Roland Garros,Sloane Stephens,Diane Parry,,,1.0
+119913,2022-05-28T09:10Z,Roland Garros,Irina-Camelia Begu,Leolia Jeanjean,,,1.0
+119916,2022-05-28T10:10Z,Roland Garros,Iga Swiatek,Danka Kovinic,,,1.0
+120009,2022-05-28T11:55Z,Roland Garros,Shelby Rogers,Daria Kasatkina,,,0.0
+119915,2022-05-28T12:00Z,Roland Garros,Zheng Qinwen,Alize Cornet,,,1.0
+120008,2022-05-28T12:20Z,Roland Garros,Camila Giorgi,Aryna Sabalenka,,,1.0
+119914,2022-05-28T12:40Z,Roland Garros,Jessica Pegula,Tamara Zidansek,,,1.0
+120011,2022-05-28T13:05Z,Roland Garros,Paula Badosa,Veronika Kudermetova,,,0.0
+120010,2022-05-28T16:45Z,Roland Garros,Madison Keys,Elena Rybakina,,,1.0
+119994,2022-05-29T09:10Z,Roland Garros,Martina Trevisan,Aliaksandra Sasnovich,,,1.0
+119993,2022-05-29T10:10Z,Roland Garros,Leylah Fernandez,Amanda Anisimova,,,1.0
+119992,2022-05-29T12:30Z,Roland Garros,Elise Mertens,Coco Gauff,,,0.0
+119991,2022-05-29T17:20Z,Roland Garros,Jil Teichmann,Sloane Stephens,,,0.0
+119995,2022-05-30T09:10Z,Roland Garros,Daria Kasatkina,Camila Giorgi,,,1.0
+119996,2022-05-30T10:10Z,Roland Garros,Veronika Kudermetova,Madison Keys,,,1.0
+119997,2022-05-30T13:50Z,Roland Garros,Jessica Pegula,Irina-Camelia Begu,,,1.0
+119998,2022-05-30T15:40Z,Roland Garros,Iga Swiatek,Zheng Qinwen,,,1.0
+119985,2022-05-31T10:10Z,Roland Garros,Martina Trevisan,Leylah Fernandez,,,1.0
+119983,2022-05-31T12:55Z,Roland Garros,Coco Gauff,Sloane Stephens,,,1.0
+119988,2022-06-01T10:10Z,Roland Garros,Veronika Kudermetova,Daria Kasatkina,,,0.0
+119990,2022-06-01T12:40Z,Roland Garros,Iga Swiatek,Jessica Pegula,,,1.0
+119981,2022-06-02T13:10Z,Roland Garros,Iga Swiatek,Daria Kasatkina,,,1.0
+119978,2022-06-02T14:45Z,Roland Garros,Martina Trevisan,Coco Gauff,,,0.0
+119976,2022-06-04T13:15Z,Roland Garros,Iga Swiatek,Coco Gauff,,,1.0

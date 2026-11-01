@@ -1,0 +1,692 @@
+id,date,event,home,away,hs,as,res
+117901,2021-06-22T10:20Z,Wimbledon,Bernabe Zapata Miralles,Alessandro Giannessi,,,1.0
+123601,2021-06-22T14:55Z,Wimbledon,Tomas Martin Etcheverry,Cem Ilkel,,,1.0
+117889,2021-06-23T12:40Z,Wimbledon,Bernabe Zapata Miralles,Bernard Tomic,,,1.0
+117887,2021-06-24T12:15Z,Wimbledon,Bernabe Zapata Miralles,Anton Matusevich,,,1.0
+109269,2021-06-28T12:40Z,Wimbledon,Novak Djokovic,Jack Draper,,,1.0
+109233,2021-06-28T14:00Z,Wimbledon,Stefanos Tsitsipas,Frances Tiafoe,,,0.0
+109259,2021-06-28T14:45Z,Wimbledon,Andreas Seppi,João Sousa,,,1.0
+109267,2021-06-28T14:45Z,Wimbledon,Marcelo Tomas Barrios-Vera,Kevin Anderson,,,0.0
+109257,2021-06-28T14:50Z,Wimbledon,Denis Kudla,Alejandro Davidovich Fokina,,,1.0
+109278,2021-06-28T14:50Z,Wimbledon,Facundo Bagnis,Miomir Kecmanovic,,,0.0
+109248,2021-06-28T14:55Z,Wimbledon,Marton Fucsovics,Jannik Sinner,,,1.0
+109282,2021-06-28T14:55Z,Wimbledon,John Millman,Roberto Bautista Agut,,,0.0
+109250,2021-06-28T15:00Z,Wimbledon,Jiri Vesely,Yannick Hanfmann,,,1.0
+109234,2021-06-28T15:45Z,Wimbledon,Federico Delbonis,Andrey Rublev,,,0.0
+109240,2021-06-28T15:55Z,Wimbledon,Mackenzie McDonald,Karen Khachanov,,,0.0
+109288,2021-06-28T16:25Z,Wimbledon,Reilly Opelka,Dominik Koepfer,,,0.0
+109264,2021-06-28T16:45Z,Wimbledon,Pedro Martinez,Stefano Travaglia,,,1.0
+122919,2021-06-28T16:55Z,Wimbledon,Pedro Martinez,Stefano Travaglia,,,1.0
+109283,2021-06-28T17:10Z,Wimbledon,Andy Murray,Nikoloz Basilashvili,,,1.0
+109242,2021-06-28T17:25Z,Wimbledon,Roberto Carballes Baena,Vasek Pospisil,,,0.0
+109261,2021-06-28T17:30Z,Wimbledon,Marco Cecchinato,Liam Broady,,,0.0
+123581,2021-06-28T17:35Z,Wimbledon,Roberto Carballes Baena,Vasek Pospisil,,,0.0
+109286,2021-06-29T09:55Z,Wimbledon,Denis Shapovalov,Philipp Kohlschreiber,,,1.0
+109229,2021-06-29T10:00Z,Wimbledon,Sebastian Korda,Alex de Minaur,,,1.0
+109230,2021-06-29T10:00Z,Wimbledon,Zhang Zhizhen,Antoine Hoang,,,0.0
+109231,2021-06-29T10:05Z,Wimbledon,Dusan Lajovic,Gilles Simon,,,1.0
+109232,2021-06-29T10:05Z,Wimbledon,Daniel Evans,Feliciano Lopez,,,1.0
+109285,2021-06-29T10:05Z,Wimbledon,Pierre-Hugues Herbert,Pablo Andujar,,,0.0
+123423,2021-06-29T11:50Z,Wimbledon,SoonWoo Kwon,Daniel Masur,,,1.0
+109236,2021-06-29T12:00Z,Wimbledon,Lloyd Harris,Ricardas Berankis,,,1.0
+109246,2021-06-29T12:00Z,Wimbledon,Fabio Fognini,Albert Ramos-Vinolas,,,1.0
+109287,2021-06-29T12:00Z,Wimbledon,SoonWoo Kwon,Daniel Masur,,,1.0
+123301,2021-06-29T12:00Z,Wimbledon,Lloyd Harris,Ricardas Berankis,,,1.0
+109258,2021-06-29T12:05Z,Wimbledon,Tallon Griekspoor,Alexander Zverev,,,0.0
+109260,2021-06-29T12:20Z,Wimbledon,Tennys Sandgren,Norbert Gombos,,,1.0
+109254,2021-06-29T12:25Z,Wimbledon,Richard Gasquet,Yuichi Sugita,,,1.0
+109238,2021-06-29T12:30Z,Wimbledon,Pablo Cuevas,Laslo Djere,,,0.0
+109241,2021-06-29T12:30Z,Wimbledon,Egor Gerasimov,Jay Clarke,,,1.0
+109262,2021-06-29T12:30Z,Wimbledon,Diego Schwartzman,Benoit Paire,,,1.0
+109284,2021-06-29T12:30Z,Wimbledon,Oscar Otte,Arthur Rinderknech,,,1.0
+109256,2021-06-29T15:05Z,Wimbledon,Roger Federer,Adrian Mannarino,,,1.0
+109225,2021-06-29T16:20Z,Wimbledon,Jan-Lennard Struff,Daniil Medvedev,,,0.0
+109247,2021-06-29T16:55Z,Wimbledon,Hubert Hurkacz,Lorenzo Musetti,,,1.0
+109253,2021-06-29T17:10Z,Wimbledon,Marc Polmans,Yen-Hsun Lu,,,1.0
+109245,2021-06-29T17:40Z,Wimbledon,Filip Krajinovic,Alex Bolt,,,0.0
+109274,2021-06-30T09:55Z,Wimbledon,Jaume Munar,Ilya Ivashka,,,0.0
+109280,2021-06-30T09:55Z,Wimbledon,Botic Van De Zandschulp,Gregoire Barrere,,,1.0
+109273,2021-06-30T10:00Z,Wimbledon,Kei Nishikori,Alexei Popyrin,,,1.0
+109275,2021-06-30T10:00Z,Wimbledon,Aslan Karatsev,Jeremy Chardy,,,0.0
+109276,2021-06-30T10:00Z,Wimbledon,Yoshihito Nishioka,John Isner,,,1.0
+109277,2021-06-30T10:00Z,Wimbledon,Jordan Thompson,Casper Ruud,,,1.0
+109279,2021-06-30T10:00Z,Wimbledon,Corentin Moutet,Aljaz Bedene,,,0.0
+109281,2021-06-30T10:00Z,Wimbledon,Matteo Berrettini,Guido Pella,,,1.0
+109226,2021-06-30T11:20Z,Wimbledon,Yasutaka Uchiyama,Carlos Alcaraz,,,0.0
+109265,2021-06-30T11:20Z,Wimbledon,Jo-Wilfried Tsonga,Mikael Ymer,,,0.0
+109239,2021-06-30T11:25Z,Wimbledon,Emil Ruusuvuori,Marcos Giron,,,0.0
+109249,2021-06-30T11:30Z,Wimbledon,Sam Querrey,Pablo Carreno Busta,,,1.0
+109252,2021-06-30T11:50Z,Wimbledon,Daniel Elahi Galan,Federico Coria,,,1.0
+109251,2021-06-30T11:55Z,Wimbledon,James Duckworth,Radu Albot,,,1.0
+109244,2021-06-30T12:00Z,Wimbledon,Lucas Pouille,Cameron Norrie,,,0.0
+109255,2021-06-30T12:00Z,Wimbledon,Cristian Garin,Bernabe Zapata Miralles,,,1.0
+123768,2021-06-30T12:00Z,Wimbledon,Daniel Elahi Galan,Federico Coria,,,1.0
+109263,2021-06-30T12:30Z,Wimbledon,Christopher O'Connell,Gael Monfils,,,0.0
+109272,2021-06-30T12:30Z,Wimbledon,Juan Ignacio Londero,Gianluca Mager,,,0.0
+109235,2021-06-30T12:35Z,Wimbledon,Fernando Verdasco,Grigor Dimitrov,,,0.0
+109293,2021-06-30T12:35Z,Wimbledon,Novak Djokovic,Kevin Anderson,,,1.0
+109243,2021-06-30T13:05Z,Wimbledon,Lorenzo Sonego,Pedro Sousa,,,1.0
+109228,2021-06-30T13:30Z,Wimbledon,Marin Cilic,Salvatore Caruso,,,1.0
+109270,2021-06-30T13:45Z,Wimbledon,Taylor Fritz,Brandon Nakashima,,,1.0
+122260,2021-06-30T13:50Z,Wimbledon,Taylor Fritz,Brandon Nakashima,,,1.0
+109266,2021-06-30T14:00Z,Wimbledon,Felix Auger-Aliassime,Thiago Monteiro,,,1.0
+109271,2021-06-30T14:00Z,Wimbledon,Nick Kyrgios,Ugo Humbert,,,1.0
+109227,2021-06-30T14:25Z,Wimbledon,Marco Trungelliti,Benjamin Bonzi,,,0.0
+109292,2021-06-30T15:10Z,Wimbledon,Andreas Seppi,Denis Kudla,,,0.0
+109317,2021-06-30T15:20Z,Wimbledon,Daniel Evans,Dusan Lajovic,,,1.0
+109237,2021-06-30T15:25Z,Wimbledon,Mikhail Kukushkin,Alexander Bublik,,,0.0
+109268,2021-06-30T15:35Z,Wimbledon,Steve Johnson,Dennis Novak,,,1.0
+109329,2021-06-30T15:35Z,Wimbledon,Jiri Vesely,Marton Fucsovics,,,0.0
+109318,2021-06-30T15:40Z,Wimbledon,Egor Gerasimov,Karen Khachanov,,,0.0
+109316,2021-06-30T16:05Z,Wimbledon,Fabio Fognini,Laslo Djere,,,1.0
+109319,2021-06-30T16:15Z,Wimbledon,Frances Tiafoe,Vasek Pospisil,,,1.0
+109321,2021-06-30T16:15Z,Wimbledon,Dominik Koepfer,SoonWoo Kwon,,,1.0
+109331,2021-06-30T16:20Z,Wimbledon,Diego Schwartzman,Liam Broady,,,1.0
+109326,2021-06-30T17:10Z,Wimbledon,Antoine Hoang,Sebastian Korda,,,0.0
+109323,2021-06-30T17:20Z,Wimbledon,Oscar Otte,Andy Murray,,,0.0
+109325,2021-06-30T17:30Z,Wimbledon,Denis Shapovalov,Pablo Andujar,,,1.0
+109320,2021-06-30T17:55Z,Wimbledon,Lloyd Harris,Andrey Rublev,,,0.0
+123306,2021-06-30T18:05Z,Wimbledon,Lloyd Harris,Andrey Rublev,,,0.0
+109294,2021-07-01T10:00Z,Wimbledon,Aljaz Bedene,Yoshihito Nishioka,,,1.0
+109304,2021-07-01T10:00Z,Wimbledon,Tennys Sandgren,Alexander Zverev,,,0.0
+109291,2021-07-01T10:05Z,Wimbledon,Cristian Garin,Marc Polmans,,,1.0
+109339,2021-07-01T11:20Z,Wimbledon,James Duckworth,Sam Querrey,,,1.0
+109289,2021-07-01T11:40Z,Wimbledon,Pedro Martinez,Gael Monfils,,,1.0
+109295,2021-07-01T11:40Z,Wimbledon,Matteo Berrettini,Botic Van De Zandschulp,,,1.0
+122932,2021-07-01T11:50Z,Wimbledon,Pedro Martinez,Gael Monfils,,,1.0
+109300,2021-07-01T12:00Z,Wimbledon,Alex Bolt,Cameron Norrie,,,0.0
+109310,2021-07-01T12:00Z,Wimbledon,Miomir Kecmanovic,Roberto Bautista Agut,,,0.0
+109298,2021-07-01T12:40Z,Wimbledon,Kei Nishikori,Jordan Thompson,,,0.0
+109299,2021-07-01T12:50Z,Wimbledon,Jeremy Chardy,Ilya Ivashka,,,0.0
+109340,2021-07-01T13:45Z,Wimbledon,Lorenzo Sonego,Daniel Elahi Galan,,,1.0
+109306,2021-07-01T13:50Z,Wimbledon,Taylor Fritz,Steve Johnson,,,1.0
+109344,2021-07-01T14:00Z,Wimbledon,Alexander Bublik,Grigor Dimitrov,,,1.0
+122281,2021-07-01T14:00Z,Wimbledon,Taylor Fritz,Steve Johnson,,,1.0
+109342,2021-07-01T14:05Z,Wimbledon,Carlos Alcaraz,Daniil Medvedev,,,0.0
+109338,2021-07-01T15:35Z,Wimbledon,Hubert Hurkacz,Marcos Giron,,,1.0
+109343,2021-07-01T16:00Z,Wimbledon,Marin Cilic,Benjamin Bonzi,,,1.0
+109296,2021-07-01T16:10Z,Wimbledon,Gianluca Mager,Nick Kyrgios,,,0.0
+109302,2021-07-01T16:10Z,Wimbledon,Roger Federer,Richard Gasquet,,,1.0
+109297,2021-07-01T17:10Z,Wimbledon,Felix Auger-Aliassime,Mikael Ymer,,,1.0
+109345,2021-07-02T10:00Z,Wimbledon,Fabio Fognini,Andrey Rublev,,,0.0
+109290,2021-07-02T10:10Z,Wimbledon,Frances Tiafoe,Karen Khachanov,,,0.0
+109347,2021-07-02T11:10Z,Wimbledon,Cristian Garin,Pedro Martinez,,,1.0
+109328,2021-07-02T13:15Z,Wimbledon,Dominik Koepfer,Roberto Bautista Agut,,,0.0
+109346,2021-07-02T13:20Z,Wimbledon,Diego Schwartzman,Marton Fucsovics,,,0.0
+109341,2021-07-02T14:30Z,Wimbledon,Novak Djokovic,Denis Kudla,,,1.0
+109332,2021-07-02T15:15Z,Wimbledon,Daniel Evans,Sebastian Korda,,,0.0
+109330,2021-07-02T17:55Z,Wimbledon,Denis Shapovalov,Andy Murray,,,1.0
+109327,2021-07-03T10:00Z,Wimbledon,Matteo Berrettini,Aljaz Bedene,,,1.0
+109336,2021-07-03T10:00Z,Wimbledon,Ilya Ivashka,Jordan Thompson,,,1.0
+109337,2021-07-03T10:00Z,Wimbledon,Lorenzo Sonego,James Duckworth,,,1.0
+109324,2021-07-03T10:05Z,Wimbledon,Hubert Hurkacz,Alexander Bublik,,,1.0
+109334,2021-07-03T13:20Z,Wimbledon,Taylor Fritz,Alexander Zverev,,,0.0
+122279,2021-07-03T13:30Z,Wimbledon,Taylor Fritz,Alexander Zverev,,,0.0
+109333,2021-07-03T14:15Z,Wimbledon,Roger Federer,Cameron Norrie,,,1.0
+109335,2021-07-03T14:15Z,Wimbledon,Felix Auger-Aliassime,Nick Kyrgios,,,1.0
+109322,2021-07-03T16:05Z,Wimbledon,Marin Cilic,Daniil Medvedev,,,0.0
+109308,2021-07-05T10:05Z,Wimbledon,Karen Khachanov,Sebastian Korda,,,1.0
+109315,2021-07-05T10:05Z,Wimbledon,Matteo Berrettini,Ilya Ivashka,,,1.0
+109309,2021-07-05T12:00Z,Wimbledon,Marton Fucsovics,Andrey Rublev,,,1.0
+109307,2021-07-05T12:10Z,Wimbledon,Denis Shapovalov,Roberto Bautista Agut,,,1.0
+109311,2021-07-05T12:30Z,Wimbledon,Novak Djokovic,Cristian Garin,,,1.0
+109314,2021-07-05T14:10Z,Wimbledon,Felix Auger-Aliassime,Alexander Zverev,,,1.0
+109313,2021-07-05T16:30Z,Wimbledon,Roger Federer,Lorenzo Sonego,,,1.0
+109312,2021-07-06T12:30Z,Wimbledon,Hubert Hurkacz,Daniil Medvedev,,,1.0
+109303,2021-07-07T12:05Z,Wimbledon,Karen Khachanov,Denis Shapovalov,,,0.0
+109305,2021-07-07T12:35Z,Wimbledon,Novak Djokovic,Marton Fucsovics,,,1.0
+109351,2021-07-07T15:20Z,Wimbledon,Roger Federer,Hubert Hurkacz,,,0.0
+109301,2021-07-07T16:00Z,Wimbledon,Matteo Berrettini,Felix Auger-Aliassime,,,1.0
+109349,2021-07-09T12:30Z,Wimbledon,Matteo Berrettini,Hubert Hurkacz,,,1.0
+109350,2021-07-09T15:35Z,Wimbledon,Novak Djokovic,Denis Shapovalov,,,1.0
+109348,2021-07-11T13:05Z,Wimbledon,Novak Djokovic,Matteo Berrettini,,,1.0
+123863,2021-06-23T10:05Z,Wimbledon,Camila Osorio,En-Shuo Liang,,,1.0
+124115,2021-06-23T10:05Z,Wimbledon,Reka Luca Jani,Naiktha Bains,,,0.0
+124091,2021-06-23T16:15Z,Wimbledon,Lesley Pattinama Kerkhove,Maddison Inglis,,,1.0
+123862,2021-06-24T10:15Z,Wimbledon,Camila Osorio,Panna Udvardy,,,1.0
+128581,2021-06-24T11:55Z,Wimbledon,Storm Hunter,Aleksandra Krunic,,,1.0
+123871,2021-06-25T10:40Z,Wimbledon,Camila Osorio,Nuria Parrizas Diaz,,,1.0
+128571,2021-06-25T10:40Z,Wimbledon,Storm Hunter,Clara Burel,,,0.0
+109436,2021-06-28T12:05Z,Wimbledon,Monica Niculescu,Aryna Sabalenka,,,0.0
+109405,2021-06-28T14:40Z,Wimbledon,Katie Swan,Madison Keys,,,0.0
+109412,2021-06-28T14:40Z,Wimbledon,Jodie Burrage,Lauren Davis,,,0.0
+109383,2021-06-28T14:45Z,Wimbledon,Fiona Ferro,Garbine Muguruza,,,0.0
+109403,2021-06-28T14:45Z,Wimbledon,Polona Hercog,Danielle Collins,,,0.0
+109404,2021-06-28T14:50Z,Wimbledon,Veronika Kudermetova,Viktorija Golubic,,,0.0
+109451,2021-06-28T14:50Z,Wimbledon,Danielle Lao,Katie Boulter,,,0.0
+109385,2021-06-28T14:55Z,Wimbledon,Camila Osorio,Anna Kalinskaya,,,1.0
+124189,2021-06-28T14:55Z,Wimbledon,Jodie Burrage,Lauren Davis,,,0.0
+109384,2021-06-28T15:00Z,Wimbledon,Svetlana Kuznetsova,Lesley Pattinama Kerkhove,,,0.0
+109387,2021-06-28T15:00Z,Wimbledon,Ekaterina Alexandrova,Laura Siegemund,,,1.0
+123851,2021-06-28T15:05Z,Wimbledon,Camila Osorio,Anna Kalinskaya,,,1.0
+109470,2021-06-28T15:15Z,Wimbledon,Sloane Stephens,Petra Kvitova,,,1.0
+109410,2021-06-28T16:10Z,Wimbledon,Wang Xinyu,Sofia Kenin,,,0.0
+109409,2021-06-28T16:40Z,Wimbledon,Iga Swiatek,Su-Wei Hsieh,,,1.0
+109406,2021-06-28T17:45Z,Wimbledon,Irina-Camelia Begu,Katie Volynets,,,1.0
+109471,2021-06-28T18:10Z,Wimbledon,Kristie Ahn,Heather Watson,,,1.0
+109389,2021-06-28T18:40Z,Wimbledon,Kristina Mladenovic,Elena Rybakina,,,0.0
+109414,2021-06-29T09:55Z,Wimbledon,Zhu Lin,Mona Barthel,,,1.0
+109382,2021-06-29T10:00Z,Wimbledon,Maria Sakkari,Arantxa Rus,,,1.0
+109393,2021-06-29T10:00Z,Wimbledon,Ons Jabeur,Rebecca Peterson,,,1.0
+109467,2021-06-29T10:00Z,Wimbledon,Tereza Martincova,Alison Riske-Amritraj,,,1.0
+109468,2021-06-29T10:00Z,Wimbledon,Ann Li,Nadia Podoroska,,,0.0
+109469,2021-06-29T10:00Z,Wimbledon,Donna Vekic,Anastasia Potapova,,,1.0
+109474,2021-06-29T10:00Z,Wimbledon,Karolina Pliskova,Tamara Zidansek,,,1.0
+109380,2021-06-29T10:05Z,Wimbledon,Mihaela Buzarnescu,Venus Williams,,,0.0
+109381,2021-06-29T10:05Z,Wimbledon,Shelby Rogers,Samantha Stosur,,,1.0
+109416,2021-06-29T10:05Z,Wimbledon,Elise Mertens,Harriet Dart,,,1.0
+109472,2021-06-29T11:35Z,Wimbledon,Liudmila Samsonova,Kaia Kanepi,,,1.0
+109390,2021-06-29T12:00Z,Wimbledon,Misaki Doi,Claire Liu,,,0.0
+109395,2021-06-29T12:00Z,Wimbledon,Varvara Gracheva,Petra Martic,,,0.0
+109402,2021-06-29T12:00Z,Wimbledon,Madison Brengle,Christina McHale,,,1.0
+109408,2021-06-29T12:00Z,Wimbledon,Marie Bouzkova,Vera Zvonareva,,,0.0
+109354,2021-06-29T12:35Z,Wimbledon,Ashleigh Barty,Carla Suarez Navarro,,,1.0
+109357,2021-06-29T12:45Z,Wimbledon,Kiki Bertens,Marta Kostyuk,,,0.0
+109358,2021-06-29T12:55Z,Wimbledon,Andrea Petkovic,Jasmine Paolini,,,1.0
+109478,2021-06-29T14:25Z,Wimbledon,Angelique Kerber,Nina Stojanovic,,,1.0
+109378,2021-06-29T16:50Z,Wimbledon,Francesca Jones,Coco Gauff,,,0.0
+109360,2021-06-29T17:10Z,Wimbledon,Clara Tauson,Barbora Krejcikova,,,0.0
+109353,2021-06-29T17:45Z,Wimbledon,Anna Blinkova,Timea Babos,,,1.0
+109473,2021-06-29T18:00Z,Wimbledon,Jessica Pegula,Caroline Garcia,,,1.0
+109475,2021-06-29T18:20Z,Wimbledon,Aliaksandra Sasnovich,Serena Williams,,,1.0
+109379,2021-06-29T18:30Z,Wimbledon,Elena Vesnina,Martina Trevisan,,,1.0
+109372,2021-06-30T09:55Z,Wimbledon,Aliona Bolsova,Paula Badosa,,,0.0
+109371,2021-06-30T10:00Z,Wimbledon,Magda Linette,Amanda Anisimova,,,1.0
+109373,2021-06-30T10:00Z,Wimbledon,Kristyna Pliskova,Astra Sharma,,,1.0
+109374,2021-06-30T10:00Z,Wimbledon,Jil Teichmann,Camila Giorgi,,,0.0
+109369,2021-06-30T10:05Z,Wimbledon,Karolina Muchova,Zhang Shuai,,,1.0
+109370,2021-06-30T10:05Z,Wimbledon,Tsvetana Pironkova,Yulia Putintseva,,,0.0
+109375,2021-06-30T10:05Z,Wimbledon,Ana Bogdan,Anastasia Pavlyuchenkova,,,0.0
+109366,2021-06-30T10:10Z,Wimbledon,Alize Cornet,Bianca Andreescu,,,1.0
+109365,2021-06-30T11:55Z,Wimbledon,Greet Minnen,Ajla Tomljanovic,,,0.0
+109368,2021-06-30T12:00Z,Wimbledon,Elina Svitolina,Alison Van Uytvanck,,,1.0
+109476,2021-06-30T12:30Z,Wimbledon,Nao Hibino,Bernarda Pera,,,1.0
+109355,2021-06-30T12:35Z,Wimbledon,Anastasija Sevastova,Zarina Diyas,,,1.0
+109477,2021-06-30T12:50Z,Wimbledon,Sara Sorribes Tormo,Ana Konjuh,,,1.0
+109359,2021-06-30T13:20Z,Wimbledon,Sorana Cirstea,Samantha Murray Sharan,,,1.0
+109361,2021-06-30T13:50Z,Wimbledon,Marketa Vondrousova,Anett Kontaveit,,,1.0
+109352,2021-06-30T14:00Z,Wimbledon,Olga Govortsova,Coco Vandeweghe,,,0.0
+109367,2021-06-30T14:10Z,Wimbledon,Daria Kasatkina,Patricia Maria Tig,,,1.0
+109356,2021-06-30T14:25Z,Wimbledon,Katerina Siniakova,Wang Yafan,,,1.0
+109452,2021-06-30T14:45Z,Wimbledon,Katie Boulter,Aryna Sabalenka,,,0.0
+109377,2021-06-30T14:55Z,Wimbledon,Ellen Perez,Clara Burel,,,0.0
+109396,2021-06-30T15:00Z,Wimbledon,Elise Mertens,Zhu Lin,,,1.0
+109362,2021-06-30T15:05Z,Wimbledon,Victoria Azarenka,Kateryna Baindl,,,1.0
+109376,2021-06-30T15:20Z,Wimbledon,Belinda Bencic,Kaja Juvan,,,0.0
+109363,2021-06-30T15:45Z,Wimbledon,Emma Raducanu,Vitalia Diatchenko,,,1.0
+109388,2021-06-30T15:45Z,Wimbledon,Claire Liu,Elena Rybakina,,,0.0
+109364,2021-06-30T16:00Z,Wimbledon,Leylah Fernandez,Jelena Ostapenko,,,0.0
+109400,2021-06-30T16:25Z,Wimbledon,Iga Swiatek,Vera Zvonareva,,,1.0
+109422,2021-06-30T16:40Z,Wimbledon,Jessica Pegula,Liudmila Samsonova,,,0.0
+109397,2021-06-30T16:55Z,Wimbledon,Lesley Pattinama Kerkhove,Garbine Muguruza,,,0.0
+109399,2021-06-30T16:55Z,Wimbledon,Irina-Camelia Begu,Petra Martic,,,1.0
+109423,2021-06-30T17:00Z,Wimbledon,Nadia Podoroska,Tereza Martincova,,,0.0
+124096,2021-06-30T17:00Z,Wimbledon,Lesley Pattinama Kerkhove,Garbine Muguruza,,,0.0
+109386,2021-06-30T17:10Z,Wimbledon,Ekaterina Alexandrova,Camila Osorio,,,0.0
+109391,2021-06-30T17:40Z,Wimbledon,Madison Brengle,Sofia Kenin,,,1.0
+109392,2021-06-30T17:45Z,Wimbledon,Viktorija Golubic,Danielle Collins,,,1.0
+109418,2021-06-30T17:45Z,Wimbledon,Karolina Pliskova,Donna Vekic,,,1.0
+109394,2021-06-30T17:50Z,Wimbledon,Lauren Davis,Madison Keys,,,0.0
+109398,2021-06-30T17:50Z,Wimbledon,Ons Jabeur,Venus Williams,,,1.0
+109407,2021-06-30T18:15Z,Wimbledon,Kristie Ahn,Sloane Stephens,,,0.0
+109413,2021-07-01T10:00Z,Wimbledon,Kristyna Pliskova,Anastasia Pavlyuchenkova,,,0.0
+109415,2021-07-01T10:00Z,Wimbledon,Karolina Muchova,Camila Giorgi,,,1.0
+109438,2021-07-01T10:00Z,Wimbledon,Andrea Petkovic,Barbora Krejcikova,,,0.0
+109417,2021-07-01T10:05Z,Wimbledon,Yulia Putintseva,Paula Badosa,,,0.0
+109439,2021-07-01T11:25Z,Wimbledon,Marta Kostyuk,Anastasija Sevastova,,,0.0
+109440,2021-07-01T11:40Z,Wimbledon,Coco Vandeweghe,Katerina Siniakova,,,0.0
+109401,2021-07-01T12:00Z,Wimbledon,Maria Sakkari,Shelby Rogers,,,0.0
+109441,2021-07-01T12:00Z,Wimbledon,Elina Svitolina,Magda Linette,,,0.0
+109435,2021-07-01T12:30Z,Wimbledon,Ashleigh Barty,Anna Blinkova,,,1.0
+109420,2021-07-01T13:25Z,Wimbledon,Angelique Kerber,Sara Sorribes Tormo,,,1.0
+109445,2021-07-01T14:10Z,Wimbledon,Daria Kasatkina,Jelena Ostapenko,,,0.0
+109421,2021-07-01T14:30Z,Wimbledon,Elena Vesnina,Coco Gauff,,,0.0
+109443,2021-07-01T15:10Z,Wimbledon,Ajla Tomljanovic,Alize Cornet,,,1.0
+109437,2021-07-01T16:10Z,Wimbledon,Victoria Azarenka,Sorana Cirstea,,,0.0
+109411,2021-07-01T16:45Z,Wimbledon,Kaja Juvan,Clara Burel,,,1.0
+109419,2021-07-01T17:40Z,Wimbledon,Nao Hibino,Aliaksandra Sasnovich,,,0.0
+109447,2021-07-01T17:40Z,Wimbledon,Emma Raducanu,Marketa Vondrousova,,,1.0
+109429,2021-07-02T09:55Z,Wimbledon,Iga Swiatek,Irina-Camelia Begu,,,1.0
+109444,2021-07-02T09:55Z,Wimbledon,Karolina Pliskova,Tereza Martincova,,,1.0
+109433,2021-07-02T11:45Z,Wimbledon,Camila Osorio,Aryna Sabalenka,,,0.0
+123858,2021-07-02T11:55Z,Wimbledon,Camila Osorio,Aryna Sabalenka,,,0.0
+109442,2021-07-02T12:00Z,Wimbledon,Liudmila Samsonova,Sloane Stephens,,,1.0
+109434,2021-07-02T12:10Z,Wimbledon,Shelby Rogers,Elena Rybakina,,,0.0
+109428,2021-07-02T12:30Z,Wimbledon,Ons Jabeur,Garbine Muguruza,,,1.0
+109430,2021-07-02T14:20Z,Wimbledon,Viktorija Golubic,Madison Brengle,,,1.0
+109431,2021-07-02T17:15Z,Wimbledon,Elise Mertens,Madison Keys,,,0.0
+109454,2021-07-03T10:00Z,Wimbledon,Karolina Muchova,Anastasia Pavlyuchenkova,,,1.0
+109455,2021-07-03T10:00Z,Wimbledon,Magda Linette,Paula Badosa,,,0.0
+109456,2021-07-03T10:00Z,Wimbledon,Jelena Ostapenko,Ajla Tomljanovic,,,0.0
+109446,2021-07-03T10:05Z,Wimbledon,Angelique Kerber,Aliaksandra Sasnovich,,,1.0
+109448,2021-07-03T12:00Z,Wimbledon,Sorana Cirstea,Emma Raducanu,,,0.0
+109453,2021-07-03T12:45Z,Wimbledon,Kaja Juvan,Coco Gauff,,,0.0
+109449,2021-07-03T13:45Z,Wimbledon,Anastasija Sevastova,Barbora Krejcikova,,,0.0
+109450,2021-07-03T17:20Z,Wimbledon,Ashleigh Barty,Katerina Siniakova,,,1.0
+109462,2021-07-05T10:00Z,Wimbledon,Elena Rybakina,Aryna Sabalenka,,,0.0
+109463,2021-07-05T10:00Z,Wimbledon,Iga Swiatek,Ons Jabeur,,,0.0
+109424,2021-07-05T12:05Z,Wimbledon,Karolina Pliskova,Liudmila Samsonova,,,1.0
+109432,2021-07-05T12:05Z,Wimbledon,Ashleigh Barty,Barbora Krejcikova,,,1.0
+109426,2021-07-05T13:35Z,Wimbledon,Paula Badosa,Karolina Muchova,,,0.0
+109464,2021-07-05T14:10Z,Wimbledon,Madison Keys,Viktorija Golubic,,,0.0
+109425,2021-07-05T14:50Z,Wimbledon,Coco Gauff,Angelique Kerber,,,0.0
+120536,2021-07-05T14:55Z,Wimbledon,Coco Gauff,Angelique Kerber,,,0.0
+109427,2021-07-05T18:55Z,Wimbledon,Emma Raducanu,Ajla Tomljanovic,,,0.0
+109465,2021-07-06T12:00Z,Wimbledon,Karolina Pliskova,Viktorija Golubic,,,1.0
+109457,2021-07-06T13:40Z,Wimbledon,Ons Jabeur,Aryna Sabalenka,,,0.0
+109466,2021-07-06T13:55Z,Wimbledon,Karolina Muchova,Angelique Kerber,,,0.0
+109461,2021-07-06T15:35Z,Wimbledon,Ashleigh Barty,Ajla Tomljanovic,,,1.0
+109460,2021-07-08T12:30Z,Wimbledon,Ashleigh Barty,Angelique Kerber,,,1.0
+109459,2021-07-08T14:30Z,Wimbledon,Karolina Pliskova,Aryna Sabalenka,,,1.0
+109458,2021-07-10T13:05Z,Wimbledon,Ashleigh Barty,Karolina Pliskova,,,1.0
+109680,2021-07-05T09:05Z,Nordea Open,Caijsa Hennermann,Vanessa Ersoz,,,1.0
+109678,2021-07-05T10:25Z,Nordea Open,Lisa Zaar,Claire Liu,,,0.0
+109672,2021-07-05T10:35Z,Nordea Open,Katie Volynets,Kamilla Rakhimova,,,1.0
+109683,2021-07-06T08:35Z,Nordea Open,Fanny Ostlund,Anna Kalinskaya,,,0.0
+109681,2021-07-06T08:35Z,Nordea Open,Anna Karolina Schmiedlova,Clara Burel,,,1.0
+109674,2021-07-06T08:35Z,Nordea Open,Maddison Inglis,Jaqueline Cristian,,,1.0
+109677,2021-07-06T08:35Z,Nordea Open,Nuria Parrizas Diaz,Varvara Lepchenko,,,1.0
+109675,2021-07-06T10:30Z,Nordea Open,Francesca Di Lorenzo,Olga Govortsova,,,0.0
+109676,2021-07-06T10:30Z,Nordea Open,Kateryna Baindl,Natalia Vikhlyantseva,,,1.0
+109679,2021-07-06T10:55Z,Nordea Open,Mihaela Buzarnescu,Zuzana Zlochova,,,1.0
+109673,2021-07-06T11:40Z,Nordea Open,Leonie Kung,Daria Lopatetska,,,1.0
+109682,2021-07-06T12:00Z,Nordea Open,Anna Bondar,Karman Thandi,,,1.0
+109669,2021-07-06T12:10Z,Nordea Open,Mayar Sherif,Francesca Jones,,,1.0
+109668,2021-07-06T12:40Z,Nordea Open,Mirjam Bjorklund,Aliona Bolsova,,,0.0
+109671,2021-07-06T13:55Z,Nordea Open,Lara Arruabarrena,Giulia Gatto-Monticone,,,1.0
+109670,2021-07-06T14:05Z,Nordea Open,Rebecca Peterson,Grace Min,,,1.0
+109694,2021-07-07T09:00Z,Nordea Open,Anna Bondar,Anna Kalinskaya,,,1.0
+109684,2021-07-07T09:05Z,Nordea Open,Maddison Inglis,Nuria Parrizas Diaz,,,0.0
+109692,2021-07-07T09:05Z,Nordea Open,Anna Karolina Schmiedlova,Mihaela Buzarnescu,,,0.0
+109685,2021-07-07T10:30Z,Nordea Open,Rebecca Peterson,Lara Arruabarrena,,,1.0
+109686,2021-07-07T10:35Z,Nordea Open,Mayar Sherif,Kateryna Baindl,,,1.0
+109688,2021-07-07T11:15Z,Nordea Open,Aliona Bolsova,Katie Volynets,,,1.0
+109687,2021-07-07T11:50Z,Nordea Open,Caijsa Hennermann,Claire Liu,,,0.0
+109689,2021-07-07T12:55Z,Nordea Open,Leonie Kung,Olga Govortsova,,,0.0
+109691,2021-07-08T09:15Z,Nordea Open,Mihaela Buzarnescu,Anna Bondar,,,1.0
+109693,2021-07-08T11:45Z,Nordea Open,Mayar Sherif,Olga Govortsova,,,0.0
+109690,2021-07-08T11:55Z,Nordea Open,Rebecca Peterson,Aliona Bolsova,,,1.0
+109695,2021-07-08T14:05Z,Nordea Open,Nuria Parrizas Diaz,Claire Liu,,,1.0
+109697,2021-07-09T09:05Z,Nordea Open,Nuria Parrizas Diaz,Mihaela Buzarnescu,,,1.0
+109698,2021-07-09T11:10Z,Nordea Open,Rebecca Peterson,Olga Govortsova,,,0.0
+109696,2021-07-10T14:20Z,Nordea Open,Olga Govortsova,Nuria Parrizas Diaz,,,0.0
+109711,2021-07-06T11:10Z,Hamburg European Open,Bernarda Pera,Katarzyna Kawa,,,1.0
+109701,2021-07-06T12:30Z,Hamburg European Open,Jasmine Paolini,Ana Konjuh,,,0.0
+109708,2021-07-06T14:15Z,Hamburg European Open,Astra Sharma,Ysaline Bonaventure,,,0.0
+109702,2021-07-07T09:00Z,Hamburg European Open,Kristina Kucova,Mona Barthel,,,1.0
+109703,2021-07-07T09:05Z,Hamburg European Open,Elena-Gabriela Ruse,Jil Teichmann,,,1.0
+109700,2021-07-07T09:05Z,Hamburg European Open,Magdalena Frech,Marina Melnikova,,,1.0
+109710,2021-07-07T11:05Z,Hamburg European Open,Mandy Minella,Tamara Korpatsch,,,0.0
+109712,2021-07-07T11:25Z,Hamburg European Open,Irina Bara,Kristyna Pliskova,,,0.0
+109707,2021-07-07T11:35Z,Hamburg European Open,Anna Zaja,Viktoriya Tomova,,,1.0
+109704,2021-07-07T13:00Z,Hamburg European Open,Caroline Garcia,Jule Niemeier,,,0.0
+109709,2021-07-07T15:00Z,Hamburg European Open,Anna-Lena Friedsam,Andrea Petkovic,,,0.0
+109706,2021-07-07T16:55Z,Hamburg European Open,Sara Errani,Fiona Ferro,,,1.0
+109720,2021-07-08T09:05Z,Hamburg European Open,Bernarda Pera,Ysaline Bonaventure,,,0.0
+109716,2021-07-08T09:05Z,Hamburg European Open,Kristyna Pliskova,Tamara Zidansek,,,0.0
+109719,2021-07-08T09:10Z,Hamburg European Open,Danielle Collins,Kristina Kucova,,,1.0
+109717,2021-07-08T11:15Z,Hamburg European Open,Jule Niemeier,Tamara Korpatsch,,,1.0
+109714,2021-07-08T12:50Z,Hamburg European Open,Ana Konjuh,Sara Errani,,,0.0
+109718,2021-07-08T14:20Z,Hamburg European Open,Anna Zaja,Elena-Gabriela Ruse,,,0.0
+109728,2021-07-08T15:45Z,Hamburg European Open,Andrea Petkovic,Yulia Putintseva,,,1.0
+109713,2021-07-08T18:15Z,Hamburg European Open,Dayana Yastremska,Magdalena Frech,,,1.0
+109726,2021-07-09T10:05Z,Hamburg European Open,Danielle Collins,Elena-Gabriela Ruse,,,0.0
+109727,2021-07-09T12:50Z,Hamburg European Open,Dayana Yastremska,Sara Errani,,,1.0
+109724,2021-07-09T14:55Z,Hamburg European Open,Jule Niemeier,Tamara Zidansek,,,1.0
+109723,2021-07-09T16:35Z,Hamburg European Open,Ysaline Bonaventure,Andrea Petkovic,,,0.0
+109722,2021-07-10T10:05Z,Hamburg European Open,Dayana Yastremska,Elena-Gabriela Ruse,,,0.0
+109721,2021-07-10T12:30Z,Hamburg European Open,Jule Niemeier,Andrea Petkovic,,,0.0
+109725,2021-07-11T10:05Z,Hamburg European Open,Elena-Gabriela Ruse,Andrea Petkovic,,,1.0
+109863,2021-07-12T09:00Z,Hungarian Grand Prix,Viktoriya Tomova,Paula Ormaechea,,,0.0
+109861,2021-07-12T09:05Z,Hungarian Grand Prix,Irina-Camelia Begu,Anna Karolina Schmiedlova,,,0.0
+109855,2021-07-12T10:45Z,Hungarian Grand Prix,Irina Bara,Sara Errani,,,1.0
+109868,2021-07-12T10:50Z,Hungarian Grand Prix,Kateryna Baindl,Barbara Haas,,,1.0
+109862,2021-07-12T13:10Z,Hungarian Grand Prix,Ana Konjuh,Tereza Mrdeza,,,1.0
+109864,2021-07-12T13:35Z,Hungarian Grand Prix,Yulia Putintseva,Ekaterine Gorgodze,,,1.0
+109866,2021-07-13T09:05Z,Hungarian Grand Prix,Varvara Lepchenko,Ana Bogdan,,,0.0
+109869,2021-07-13T09:05Z,Hungarian Grand Prix,Ivana Jorovic,Jaqueline Cristian,,,1.0
+109867,2021-07-13T09:10Z,Hungarian Grand Prix,Elisabetta Cocciaretto,Reka Luca Jani,,,0.0
+109858,2021-07-13T11:50Z,Hungarian Grand Prix,Martina Di Giuseppe,Danielle Collins,,,0.0
+109856,2021-07-13T11:55Z,Hungarian Grand Prix,Anhelina Kalinina,Anna Kalinskaya,,,1.0
+109857,2021-07-13T12:40Z,Hungarian Grand Prix,Mayar Sherif,Panna Udvardy,,,0.0
+109854,2021-07-13T13:20Z,Hungarian Grand Prix,Aliaksandra Sasnovich,Timea Babos,,,1.0
+109859,2021-07-13T14:15Z,Hungarian Grand Prix,Tamara Korpatsch,Olga Danilovic,,,0.0
+109860,2021-07-13T14:25Z,Hungarian Grand Prix,Aliona Bolsova,Dalma Galfi,,,0.0
+109865,2021-07-13T16:05Z,Hungarian Grand Prix,Julia Grabher,Bernarda Pera,,,0.0
+109874,2021-07-14T09:00Z,Hungarian Grand Prix,Paula Ormaechea,Ivana Jorovic,,,1.0
+109873,2021-07-14T11:20Z,Hungarian Grand Prix,Olga Danilovic,Irina Bara,,,1.0
+109872,2021-07-14T13:20Z,Hungarian Grand Prix,Kateryna Baindl,Ana Bogdan,,,1.0
+109871,2021-07-14T15:55Z,Hungarian Grand Prix,Yulia Putintseva,Ana Konjuh,,,1.0
+109880,2021-07-15T09:05Z,Hungarian Grand Prix,Anhelina Kalinina,Bernarda Pera,,,1.0
+109879,2021-07-15T09:05Z,Hungarian Grand Prix,Reka Luca Jani,Danielle Collins,,,0.0
+124127,2021-07-15T09:10Z,Hungarian Grand Prix,Reka Luca Jani,Danielle Collins,,,0.0
+109870,2021-07-15T10:55Z,Hungarian Grand Prix,Anna Karolina Schmiedlova,Dalma Galfi,,,0.0
+124018,2021-07-15T11:00Z,Hungarian Grand Prix,Anna Karolina Schmiedlova,Dalma Galfi,,,0.0
+109877,2021-07-15T12:55Z,Hungarian Grand Prix,Aliaksandra Sasnovich,Panna Udvardy,,,0.0
+109875,2021-07-16T09:05Z,Hungarian Grand Prix,Yulia Putintseva,Kateryna Baindl,,,1.0
+109878,2021-07-16T12:05Z,Hungarian Grand Prix,Dalma Galfi,Olga Danilovic,,,1.0
+109876,2021-07-16T14:00Z,Hungarian Grand Prix,Panna Udvardy,Anhelina Kalinina,,,0.0
+109881,2021-07-16T16:15Z,Hungarian Grand Prix,Paula Ormaechea,Danielle Collins,,,0.0
+109884,2021-07-17T13:30Z,Hungarian Grand Prix,Yulia Putintseva,Dalma Galfi,,,1.0
+109883,2021-07-17T16:15Z,Hungarian Grand Prix,Anhelina Kalinina,Danielle Collins,,,1.0
+109882,2021-07-18T15:00Z,Hungarian Grand Prix,Yulia Putintseva,Anhelina Kalinina,,,1.0
+109768,2021-07-12T08:00Z,Livesport Prague Open 2021,Giulia Gatto-Monticone,Greet Minnen,,,0.0
+109773,2021-07-12T08:05Z,Livesport Prague Open 2021,Samantha Stosur,Grace Min,,,0.0
+109763,2021-07-12T10:05Z,Livesport Prague Open 2021,Lizette Cabrera,Asia Muhammad,,,0.0
+109767,2021-07-12T10:40Z,Livesport Prague Open 2021,Nina Stojanovic,Vitalia Diatchenko,,,1.0
+109764,2021-07-12T13:35Z,Livesport Prague Open 2021,Petra Kvitova,Rebecca Sramkova,,,0.0
+109775,2021-07-12T16:25Z,Livesport Prague Open 2021,Maddison Inglis,Tereza Smitkova,,,0.0
+109766,2021-07-13T08:05Z,Livesport Prague Open 2021,Anastasia Gasanova,Lucie Havlickova,,,1.0
+109772,2021-07-13T08:05Z,Livesport Prague Open 2021,Naiktha Bains,Ysaline Bonaventure,,,0.0
+109761,2021-07-13T08:05Z,Livesport Prague Open 2021,Mona Barthel,Viktoria Hruncakova,,,0.0
+109770,2021-07-13T09:30Z,Livesport Prague Open 2021,Leonie Kung,Wang Xinyu,,,0.0
+109762,2021-07-13T10:05Z,Livesport Prague Open 2021,Samantha Murray Sharan,Tereza Martincova,,,0.0
+109769,2021-07-13T10:35Z,Livesport Prague Open 2021,Marie Bouzkova,Storm Hunter,,,0.0
+109774,2021-07-13T11:20Z,Livesport Prague Open 2021,Conny Perrin,En-Shuo Liang,,,0.0
+109765,2021-07-13T11:35Z,Livesport Prague Open 2021,Urszula Radwanska,Nuria Parrizas Diaz,,,0.0
+109771,2021-07-13T13:10Z,Livesport Prague Open 2021,Katerina Siniakova,Jodie Burrage,,,1.0
+109777,2021-07-13T15:05Z,Livesport Prague Open 2021,Isabella Shinikova,Barbora Krejcikova,,,0.0
+109781,2021-07-14T08:20Z,Livesport Prague Open 2021,Nina Stojanovic,Grace Min,,,0.0
+109780,2021-07-14T10:45Z,Livesport Prague Open 2021,Asia Muhammad,Tereza Martincova,,,0.0
+109778,2021-07-14T12:25Z,Livesport Prague Open 2021,Rebecca Sramkova,Viktoria Hruncakova,,,0.0
+109776,2021-07-15T08:00Z,Livesport Prague Open 2021,Anastasia Gasanova,Greet Minnen,,,0.0
+109786,2021-07-15T10:00Z,Livesport Prague Open 2021,Katerina Siniakova,Tereza Smitkova,,,1.0
+109779,2021-07-15T10:30Z,Livesport Prague Open 2021,Storm Hunter,Nuria Parrizas Diaz,,,1.0
+128573,2021-07-15T11:00Z,Livesport Prague Open 2021,Storm Hunter,Nuria Parrizas Diaz,,,1.0
+109787,2021-07-15T12:55Z,Livesport Prague Open 2021,Wang Xinyu,En-Shuo Liang,,,1.0
+109782,2021-07-15T15:15Z,Livesport Prague Open 2021,Ysaline Bonaventure,Barbora Krejcikova,,,0.0
+109785,2021-07-16T08:00Z,Livesport Prague Open 2021,Viktoria Hruncakova,Tereza Martincova,,,0.0
+109784,2021-07-16T09:25Z,Livesport Prague Open 2021,Storm Hunter,Greet Minnen,,,0.0
+128580,2021-07-16T09:35Z,Livesport Prague Open 2021,Storm Hunter,Greet Minnen,,,0.0
+109783,2021-07-16T10:50Z,Livesport Prague Open 2021,Grace Min,Wang Xinyu,,,0.0
+109788,2021-07-16T12:40Z,Livesport Prague Open 2021,Katerina Siniakova,Barbora Krejcikova,,,0.0
+109789,2021-07-17T08:30Z,Livesport Prague Open 2021,Tereza Martincova,Greet Minnen,,,1.0
+109790,2021-07-17T10:15Z,Livesport Prague Open 2021,Wang Xinyu,Barbora Krejcikova,,,0.0
+109791,2021-07-18T11:15Z,Livesport Prague Open 2021,Tereza Martincova,Barbora Krejcikova,,,0.0
+109886,2021-07-12T10:05Z,Ladies Open Lausanne,Zarina Diyas,Simona Waltert,,,1.0
+109885,2021-07-12T11:40Z,Ladies Open Lausanne,Tamara Zidansek,Marina Melnikova,,,1.0
+109889,2021-07-12T13:30Z,Ladies Open Lausanne,Katarina Zavatska,Natalia Vikhlyantseva,,,0.0
+109887,2021-07-12T13:50Z,Ladies Open Lausanne,Susan Bandecchi,Clara Burel,,,0.0
+109894,2021-07-13T10:30Z,Ladies Open Lausanne,Lucia Bronzetti,Tess Sugnaux,,,1.0
+109893,2021-07-13T10:30Z,Ladies Open Lausanne,Olga Govortsova,Anna Blinkova,,,0.0
+109888,2021-07-13T12:00Z,Ladies Open Lausanne,Harmony Tan,Fiona Ferro,,,0.0
+109890,2021-07-13T12:30Z,Ladies Open Lausanne,Anna-Lena Friedsam,Alycia Parks,,,0.0
+109900,2021-07-13T16:05Z,Ladies Open Lausanne,Ulrikke Eikeri,Camila Giorgi,,,0.0
+109895,2021-07-14T08:35Z,Ladies Open Lausanne,Valentini Grammatikopoulou,Jasmine Paolini,,,0.0
+109892,2021-07-14T08:35Z,Ladies Open Lausanne,Varvara Gracheva,Mandy Minella,,,0.0
+109891,2021-07-14T09:05Z,Ladies Open Lausanne,Francesca Di Lorenzo,Stefanie Voegele,,,0.0
+109897,2021-07-14T10:35Z,Ladies Open Lausanne,Kristyna Pliskova,Astra Sharma,,,0.0
+109899,2021-07-14T10:55Z,Ladies Open Lausanne,Arantxa Rus,Kamilla Rakhimova,,,0.0
+109898,2021-07-14T11:30Z,Ladies Open Lausanne,Caroline Garcia,Alexandra Dulgheru,,,1.0
+109896,2021-07-15T09:00Z,Ladies Open Lausanne,Jil Teichmann,Maryna Zanevska,,,0.0
+109901,2021-07-15T09:00Z,Ladies Open Lausanne,Lucia Bronzetti,Anna Blinkova,,,1.0
+109905,2021-07-15T09:05Z,Ladies Open Lausanne,Natalia Vikhlyantseva,Jasmine Paolini,,,1.0
+109907,2021-07-15T10:05Z,Ladies Open Lausanne,Tamara Zidansek,Mandy Minella,,,1.0
+109912,2021-07-16T08:30Z,Ladies Open Lausanne,Alycia Parks,Fiona Ferro,,,0.0
+109906,2021-07-16T08:35Z,Ladies Open Lausanne,Zarina Diyas,Camila Giorgi,,,1.0
+109904,2021-07-16T10:00Z,Ladies Open Lausanne,Kamilla Rakhimova,Clara Burel,,,0.0
+109902,2021-07-16T10:30Z,Ladies Open Lausanne,Caroline Garcia,Astra Sharma,,,1.0
+109909,2021-07-16T10:40Z,Ladies Open Lausanne,Tamara Zidansek,Lucia Bronzetti,,,1.0
+109903,2021-07-16T12:30Z,Ladies Open Lausanne,Maryna Zanevska,Stefanie Voegele,,,1.0
+109908,2021-07-16T13:15Z,Ladies Open Lausanne,Caroline Garcia,Zarina Diyas,,,1.0
+109910,2021-07-16T14:40Z,Ladies Open Lausanne,Clara Burel,Fiona Ferro,,,1.0
+109913,2021-07-16T16:15Z,Ladies Open Lausanne,Maryna Zanevska,Natalia Vikhlyantseva,,,1.0
+109914,2021-07-17T09:05Z,Ladies Open Lausanne,Caroline Garcia,Clara Burel,,,0.0
+109911,2021-07-17T11:45Z,Ladies Open Lausanne,Tamara Zidansek,Maryna Zanevska,,,1.0
+109915,2021-07-18T11:00Z,Ladies Open Lausanne,Tamara Zidansek,Clara Burel,,,1.0
+118593,2021-07-17T11:20Z,BNP Paribas Poland Open,Kateryna Volodko,Anastasia Zakharova,,,1.0
+118530,2021-07-18T09:10Z,BNP Paribas Poland Open,Kateryna Volodko,Weronika Falkowska,,,1.0
+109950,2021-07-19T09:05Z,BNP Paribas Poland Open,Kateryna Baindl,Katie Volynets,,,1.0
+109974,2021-07-19T09:05Z,BNP Paribas Poland Open,Anna Blinkova,Anna Karolina Schmiedlova,,,0.0
+109971,2021-07-19T11:05Z,BNP Paribas Poland Open,Valeriia Olianovskaia,Anna Bondar,,,0.0
+109947,2021-07-19T11:10Z,BNP Paribas Poland Open,Federica Di Sarra,Irina Bara,,,0.0
+109970,2021-07-19T13:10Z,BNP Paribas Poland Open,Kateryna Volodko,Weronika Falkowska,,,0.0
+118574,2021-07-19T13:20Z,BNP Paribas Poland Open,Kateryna Volodko,Weronika Falkowska,,,0.0
+109948,2021-07-19T15:00Z,BNP Paribas Poland Open,Urszula Radwanska,Kristina Kucova,,,0.0
+109951,2021-07-20T09:00Z,BNP Paribas Poland Open,Marina Melnikova,Varvara Lepchenko,,,0.0
+109949,2021-07-20T09:00Z,BNP Paribas Poland Open,Weronika Baszak,Aliaksandra Sasnovich,,,0.0
+109952,2021-07-20T10:00Z,BNP Paribas Poland Open,Anastasia Zakharova,Ekaterine Gorgodze,,,0.0
+109959,2021-07-20T11:10Z,BNP Paribas Poland Open,Irina-Camelia Begu,Ysaline Bonaventure,,,1.0
+109973,2021-07-20T12:25Z,BNP Paribas Poland Open,Tamara Korpatsch,Olga Govortsova,,,1.0
+109957,2021-07-20T13:00Z,BNP Paribas Poland Open,Katarzyna Kawa,Tereza Mrdeza,,,1.0
+109963,2021-07-20T15:20Z,BNP Paribas Poland Open,Nuria Parrizas Diaz,Magdalena Frech,,,1.0
+109965,2021-07-20T15:40Z,BNP Paribas Poland Open,Harmony Tan,Amina Anshba,,,0.0
+109953,2021-07-21T09:00Z,BNP Paribas Poland Open,Viktoria Hruncakova,Varvara Gracheva,,,1.0
+109955,2021-07-21T09:05Z,BNP Paribas Poland Open,Maryna Zanevska,Jamie Loeb,,,1.0
+109962,2021-07-21T11:55Z,BNP Paribas Poland Open,Anna Karolina Schmiedlova,Anna Bondar,,,0.0
+123977,2021-07-21T11:55Z,BNP Paribas Poland Open,Anna Karolina Schmiedlova,Anna Bondar,,,0.0
+109961,2021-07-21T14:30Z,BNP Paribas Poland Open,Weronika Falkowska,Tamara Korpatsch,,,0.0
+109969,2021-07-22T09:00Z,BNP Paribas Poland Open,Kateryna Baindl,Aliaksandra Sasnovich,,,1.0
+109968,2021-07-22T09:05Z,BNP Paribas Poland Open,Ekaterine Gorgodze,Varvara Lepchenko,,,1.0
+109972,2021-07-22T10:55Z,BNP Paribas Poland Open,Nuria Parrizas Diaz,Amina Anshba,,,1.0
+109964,2021-07-22T11:00Z,BNP Paribas Poland Open,Kristina Kucova,Irina Bara,,,1.0
+109966,2021-07-22T12:05Z,BNP Paribas Poland Open,Irina-Camelia Begu,Katarzyna Kawa,,,0.0
+109967,2021-07-22T14:00Z,BNP Paribas Poland Open,Maryna Zanevska,Viktoria Hruncakova,,,1.0
+109958,2021-07-23T09:00Z,BNP Paribas Poland Open,Anna Bondar,Tamara Korpatsch,,,0.0
+109960,2021-07-23T11:15Z,BNP Paribas Poland Open,Ekaterine Gorgodze,Kristina Kucova,,,0.0
+109956,2021-07-23T15:30Z,BNP Paribas Poland Open,Nuria Parrizas Diaz,Maryna Zanevska,,,0.0
+109954,2021-07-24T11:00Z,BNP Paribas Poland Open,Katarzyna Kawa,Kateryna Baindl,,,0.0
+109976,2021-07-24T12:15Z,BNP Paribas Poland Open,Kristina Kucova,Tamara Korpatsch,,,1.0
+109975,2021-07-24T15:05Z,BNP Paribas Poland Open,Maryna Zanevska,Kateryna Baindl,,,1.0
+109977,2021-07-25T15:00Z,BNP Paribas Poland Open,Maryna Zanevska,Kristina Kucova,,,1.0
+109992,2021-07-19T14:05Z,32nd Palermo Ladies Open,Oceane Dodin,Alexandra Dulgheru,,,1.0
+109987,2021-07-19T14:05Z,32nd Palermo Ladies Open,Lara Arruabarrena,Grace Min,,,0.0
+109991,2021-07-19T14:05Z,32nd Palermo Ladies Open,Nuria Brancaccio,Jaqueline Cristian,,,0.0
+109990,2021-07-19T15:40Z,32nd Palermo Ladies Open,Vitalia Diatchenko,Julia Grabher,,,1.0
+109988,2021-07-19T16:50Z,32nd Palermo Ladies Open,Marina Bassols Ribera,Jil Teichmann,,,0.0
+109978,2021-07-19T17:45Z,32nd Palermo Ladies Open,Leonie Kung,Natalia Vikhlyantseva,,,0.0
+109994,2021-07-19T19:00Z,32nd Palermo Ladies Open,Zheng Qinwen,Liudmila Samsonova,,,1.0
+109982,2021-07-19T19:30Z,32nd Palermo Ladies Open,Giulia Gatto-Monticone,Maddison Inglis,,,0.0
+109983,2021-07-20T14:00Z,32nd Palermo Ladies Open,Katarina Zavatska,Lizette Cabrera,,,1.0
+109985,2021-07-20T14:00Z,32nd Palermo Ladies Open,Viktoriya Tomova,Lucia Bronzetti,,,0.0
+109989,2021-07-20T14:05Z,32nd Palermo Ladies Open,Mandy Minella,Elena-Gabriela Ruse,,,0.0
+109984,2021-07-20T15:35Z,32nd Palermo Ladies Open,Valeria Savinykh,Francesca Di Lorenzo,,,0.0
+109986,2021-07-20T15:40Z,32nd Palermo Ladies Open,Olga Danilovic,Kamilla Rakhimova,,,1.0
+109979,2021-07-20T16:05Z,32nd Palermo Ladies Open,Zhang Shuai,Cristina Bucsa,,,1.0
+109981,2021-07-20T18:00Z,32nd Palermo Ladies Open,Danielle Collins,Katharina Gerlach,,,1.0
+109980,2021-07-20T19:50Z,32nd Palermo Ladies Open,Lucrezia Stefanini,Astra Sharma,,,0.0
+109996,2021-07-21T14:45Z,32nd Palermo Ladies Open,Elena-Gabriela Ruse,Jil Teichmann,,,1.0
+110001,2021-07-21T15:05Z,32nd Palermo Ladies Open,Oceane Dodin,Vitalia Diatchenko,,,1.0
+109999,2021-07-21T18:00Z,32nd Palermo Ladies Open,Lucia Bronzetti,Grace Min,,,1.0
+110005,2021-07-21T20:20Z,32nd Palermo Ladies Open,Jaqueline Cristian,Zheng Qinwen,,,1.0
+109995,2021-07-22T14:00Z,32nd Palermo Ladies Open,Natalia Vikhlyantseva,Astra Sharma,,,0.0
+109993,2021-07-22T16:05Z,32nd Palermo Ladies Open,Katarina Zavatska,Olga Danilovic,,,0.0
+109997,2021-07-22T18:55Z,32nd Palermo Ladies Open,Danielle Collins,Maddison Inglis,,,1.0
+109998,2021-07-22T20:20Z,32nd Palermo Ladies Open,Zhang Shuai,Francesca Di Lorenzo,,,1.0
+110004,2021-07-23T14:05Z,32nd Palermo Ladies Open,Oceane Dodin,Jaqueline Cristian,,,1.0
+110006,2021-07-23T16:45Z,32nd Palermo Ladies Open,Zhang Shuai,Olga Danilovic,,,1.0
+110003,2021-07-23T19:40Z,32nd Palermo Ladies Open,Lucia Bronzetti,Elena-Gabriela Ruse,,,0.0
+110002,2021-07-23T21:45Z,32nd Palermo Ladies Open,Danielle Collins,Astra Sharma,,,1.0
+110008,2021-07-24T15:05Z,32nd Palermo Ladies Open,Elena-Gabriela Ruse,Oceane Dodin,,,1.0
+110000,2021-07-24T18:20Z,32nd Palermo Ladies Open,Danielle Collins,Zhang Shuai,,,1.0
+110007,2021-07-25T17:35Z,32nd Palermo Ladies Open,Danielle Collins,Elena-Gabriela Ruse,,,1.0
+110072,2021-07-24T02:00Z,Olympics,Sara Errani,Anastasia Pavlyuchenkova,,,0.0
+110073,2021-07-24T02:10Z,Olympics,Anna-Lena Friedsam,Heather Watson,,,1.0
+110095,2021-07-24T02:10Z,Olympics,Nina Stojanovic,Nao Hibino,,,1.0
+110096,2021-07-24T02:10Z,Olympics,Iga Swiatek,Mona Barthel,,,1.0
+110123,2021-07-24T02:10Z,Olympics,Camila Osorio,Viktorija Golubic,,,0.0
+110079,2021-07-24T02:40Z,Olympics,Leylah Fernandez,Dayana Yastremska,,,1.0
+110084,2021-07-24T03:35Z,Olympics,Samantha Stosur,Elena Rybakina,,,0.0
+110089,2021-07-24T03:35Z,Olympics,Maria Sakkari,Anett Kontaveit,,,1.0
+110078,2021-07-24T03:50Z,Olympics,Mayar Sherif,Rebecca Peterson,,,0.0
+110092,2021-07-24T04:05Z,Olympics,Paula Badosa,Kristina Mladenovic,,,1.0
+110076,2021-07-24T05:35Z,Olympics,Zarina Diyas,Barbora Krejcikova,,,0.0
+110098,2021-07-24T06:55Z,Olympics,Kiki Bertens,Marketa Vondrousova,,,0.0
+110081,2021-07-24T07:40Z,Olympics,Misaki Doi,Renata Zarazua,,,1.0
+110075,2021-07-24T07:55Z,Olympics,Belinda Bencic,Jessica Pegula,,,1.0
+110097,2021-07-24T09:05Z,Olympics,Mihaela Buzarnescu,Alison Riske-Amritraj,,,1.0
+110071,2021-07-25T02:05Z,Olympics,Ashleigh Barty,Sara Sorribes Tormo,,,0.0
+110077,2021-07-25T02:05Z,Olympics,Aryna Sabalenka,Magda Linette,,,1.0
+110087,2021-07-25T02:05Z,Olympics,Karolina Pliskova,Alize Cornet,,,1.0
+110100,2021-07-25T02:05Z,Olympics,Yulia Putintseva,Nadia Podoroska,,,0.0
+110074,2021-07-25T02:10Z,Olympics,Fiona Ferro,Anastasija Sevastova,,,1.0
+110083,2021-07-25T02:10Z,Olympics,Veronica Cepede Royg,Wang Qiang,,,0.0
+110091,2021-07-25T02:10Z,Olympics,Camila Giorgi,Jennifer Brady,,,1.0
+110099,2021-07-25T02:10Z,Olympics,Ekaterina Alexandrova,Elise Mertens,,,1.0
+110088,2021-07-25T03:55Z,Olympics,Carla Suarez Navarro,Ons Jabeur,,,1.0
+110126,2021-07-25T04:00Z,Olympics,Zheng Saisai,Naomi Osaka,,,0.0
+110090,2021-07-25T04:40Z,Olympics,Jelena Ostapenko,Elena Vesnina,,,0.0
+110085,2021-07-25T04:50Z,Olympics,Veronika Kudermetova,Garbine Muguruza,,,0.0
+110094,2021-07-25T05:00Z,Olympics,Laura Siegemund,Elina Svitolina,,,0.0
+110086,2021-07-25T05:20Z,Olympics,Ivana Jorovic,Alison Van Uytvanck,,,0.0
+110080,2021-07-25T05:40Z,Olympics,Caroline Garcia,Donna Vekic,,,0.0
+110093,2021-07-25T07:15Z,Olympics,Yaroslava Shvedova,Ajla Tomljanovic,,,0.0
+110082,2021-07-25T07:40Z,Olympics,Petra Kvitova,Jasmine Paolini,,,1.0
+110115,2021-07-26T02:05Z,Olympics,Viktorija Golubic,Naomi Osaka,,,0.0
+110122,2021-07-26T02:05Z,Olympics,Maria Sakkari,Nina Stojanovic,,,1.0
+110127,2021-07-26T02:05Z,Olympics,Rebecca Peterson,Elena Rybakina,,,0.0
+110133,2021-07-26T02:05Z,Olympics,Leylah Fernandez,Barbora Krejcikova,,,0.0
+110124,2021-07-26T02:10Z,Olympics,Elena Vesnina,Camila Giorgi,,,0.0
+110129,2021-07-26T02:10Z,Olympics,Wang Qiang,Garbine Muguruza,,,0.0
+110131,2021-07-26T02:10Z,Olympics,Anna-Lena Friedsam,Anastasia Pavlyuchenkova,,,0.0
+110132,2021-07-26T03:30Z,Olympics,Sara Sorribes Tormo,Fiona Ferro,,,1.0
+110134,2021-07-26T03:30Z,Olympics,Belinda Bencic,Misaki Doi,,,1.0
+110121,2021-07-26T03:35Z,Olympics,Nadia Podoroska,Ekaterina Alexandrova,,,1.0
+110120,2021-07-26T03:55Z,Olympics,Marketa Vondrousova,Mihaela Buzarnescu,,,1.0
+110128,2021-07-26T05:00Z,Olympics,Aryna Sabalenka,Donna Vekic,,,0.0
+110130,2021-07-26T05:15Z,Olympics,Petra Kvitova,Alison Van Uytvanck,,,0.0
+110119,2021-07-26T05:50Z,Olympics,Ajla Tomljanovic,Elina Svitolina,,,0.0
+110118,2021-07-26T06:45Z,Olympics,Iga Swiatek,Paula Badosa,,,0.0
+110125,2021-07-26T06:45Z,Olympics,Karolina Pliskova,Carla Suarez Navarro,,,1.0
+110113,2021-07-27T03:05Z,Olympics,Alison Van Uytvanck,Garbine Muguruza,,,0.0
+110117,2021-07-27T03:05Z,Olympics,Belinda Bencic,Barbora Krejcikova,,,1.0
+110114,2021-07-27T03:10Z,Olympics,Sara Sorribes Tormo,Anastasia Pavlyuchenkova,,,0.0
+110107,2021-07-27T03:45Z,Olympics,Marketa Vondrousova,Naomi Osaka,,,1.0
+110111,2021-07-27T05:15Z,Olympics,Maria Sakkari,Elina Svitolina,,,0.0
+110108,2021-07-27T06:40Z,Olympics,Paula Badosa,Nadia Podoroska,,,1.0
+110112,2021-07-27T07:05Z,Olympics,Karolina Pliskova,Camila Giorgi,,,0.0
+110116,2021-07-27T09:50Z,Olympics,Donna Vekic,Elena Rybakina,,,0.0
+110104,2021-07-28T02:05Z,Olympics,Camila Giorgi,Elina Svitolina,,,0.0
+110103,2021-07-28T04:05Z,Olympics,Paula Badosa,Marketa Vondrousova,,,0.0
+110110,2021-07-28T04:50Z,Olympics,Anastasia Pavlyuchenkova,Belinda Bencic,,,0.0
+110109,2021-07-28T07:00Z,Olympics,Elena Rybakina,Garbine Muguruza,,,1.0
+110106,2021-07-29T06:05Z,Olympics,Belinda Bencic,Elena Rybakina,,,1.0
+110105,2021-07-29T10:40Z,Olympics,Elina Svitolina,Marketa Vondrousova,,,0.0
+110101,2021-07-31T09:15Z,Olympics,Elena Rybakina,Elina Svitolina,,,0.0
+110102,2021-07-31T11:55Z,Olympics,Belinda Bencic,Marketa Vondrousova,,,1.0
+110167,2021-07-24T02:10Z,Olympics,Lorenzo Musetti,John Millman,,,0.0
+110173,2021-07-24T02:10Z,Olympics,Pedro Sousa,Alejandro Davidovich Fokina,,,0.0
+110211,2021-07-24T03:25Z,Olympics,Sumit Nagal,Denis Istomin,,,1.0
+110206,2021-07-24T03:35Z,Olympics,Alexander Bublik,Daniil Medvedev,,,0.0
+110179,2021-07-24T03:50Z,Olympics,Nikoloz Basilashvili,Roberto Carballes Baena,,,1.0
+110182,2021-07-24T04:05Z,Olympics,Jeremy Chardy,Marcelo Tomas Barrios-Vera,,,1.0
+110175,2021-07-24T04:30Z,Olympics,Taro Daniel,Lorenzo Sonego,,,0.0
+110169,2021-07-24T04:35Z,Olympics,Jan-Lennard Struff,Thiago Monteiro,,,1.0
+110177,2021-07-24T05:00Z,Olympics,Aslan Karatsev,Tommy Paul,,,1.0
+110185,2021-07-24T05:30Z,Olympics,Ugo Humbert,Pablo Andujar,,,1.0
+110209,2021-07-24T05:30Z,Olympics,Fabio Fognini,Yuichi Sugita,,,1.0
+110189,2021-07-24T05:55Z,Olympics,Kamil Majchrzak,Miomir Kecmanovic,,,0.0
+110212,2021-07-24T05:55Z,Olympics,Egor Gerasimov,Gilles Simon,,,1.0
+110168,2021-07-24T06:45Z,Olympics,Novak Djokovic,Hugo Dellien,,,1.0
+110191,2021-07-24T07:40Z,Olympics,Marin Cilic,Joao Menezes,,,1.0
+110190,2021-07-24T08:50Z,Olympics,Pablo Carreno Busta,Tennys Sandgren,,,1.0
+110187,2021-07-25T02:05Z,Olympics,Lukas Klein,James Duckworth,,,0.0
+110183,2021-07-25T02:10Z,Olympics,Francisco Cerundolo,Liam Broady,,,0.0
+110188,2021-07-25T02:10Z,Olympics,Yoshihito Nishioka,Karen Khachanov,,,0.0
+110180,2021-07-25T02:30Z,Olympics,Luke Saville,Hubert Hurkacz,,,0.0
+110176,2021-07-25T03:35Z,Olympics,Daniel Elahi Galan,Mohamed Safwat,,,1.0
+110178,2021-07-25T03:40Z,Olympics,Alexander Zverev,Yen-Hsun Lu,,,1.0
+110174,2021-07-25T04:10Z,Olympics,Mikhail Kukushkin,Federico Coria,,,1.0
+110171,2021-07-25T04:20Z,Olympics,Gael Monfils,Ilya Ivashka,,,0.0
+110210,2021-07-25T06:00Z,Olympics,Max Purcell,Felix Auger-Aliassime,,,1.0
+110192,2021-07-25T06:45Z,Olympics,Dominik Koepfer,Facundo Bagnis,,,1.0
+110172,2021-07-25T07:10Z,Olympics,Norbert Gombos,Marcos Giron,,,0.0
+110181,2021-07-25T07:15Z,Olympics,Diego Schwartzman,Juan Pablo Varillas,,,1.0
+110193,2021-07-25T08:00Z,Olympics,Philipp Kohlschreiber,Stefanos Tsitsipas,,,0.0
+110170,2021-07-25T08:25Z,Olympics,Kei Nishikori,Andrey Rublev,,,1.0
+110186,2021-07-25T09:15Z,Olympics,SoonWoo Kwon,Frances Tiafoe,,,0.0
+110184,2021-07-25T09:45Z,Olympics,Tomas Machac,João Sousa,,,1.0
+110201,2021-07-26T03:30Z,Olympics,Alexander Zverev,Daniel Elahi Galan,,,1.0
+110208,2021-07-26T03:40Z,Olympics,John Millman,Alejandro Davidovich Fokina,,,0.0
+110203,2021-07-26T03:45Z,Olympics,Nikoloz Basilashvili,Lorenzo Sonego,,,1.0
+110228,2021-07-26T03:45Z,Olympics,Fabio Fognini,Egor Gerasimov,,,1.0
+110227,2021-07-26T05:15Z,Olympics,Sumit Nagal,Daniil Medvedev,,,0.0
+110194,2021-07-26T07:20Z,Olympics,Pablo Carreno Busta,Marin Cilic,,,1.0
+110205,2021-07-26T07:55Z,Olympics,Novak Djokovic,Jan-Lennard Struff,,,1.0
+110196,2021-07-26T08:25Z,Olympics,Dominik Koepfer,Max Purcell,,,1.0
+110195,2021-07-27T02:15Z,Olympics,Frances Tiafoe,Stefanos Tsitsipas,,,0.0
+110197,2021-07-27T03:10Z,Olympics,Diego Schwartzman,Tomas Machac,,,1.0
+110202,2021-07-27T03:10Z,Olympics,Aslan Karatsev,Jeremy Chardy,,,0.0
+110200,2021-07-27T06:30Z,Olympics,James Duckworth,Karen Khachanov,,,0.0
+110198,2021-07-27T07:10Z,Olympics,Liam Broady,Hubert Hurkacz,,,1.0
+110207,2021-07-27T07:10Z,Olympics,Ilya Ivashka,Mikhail Kukushkin,,,1.0
+110199,2021-07-27T07:15Z,Olympics,Ugo Humbert,Miomir Kecmanovic,,,1.0
+110204,2021-07-27T08:10Z,Olympics,Marcos Giron,Kei Nishikori,,,0.0
+110221,2021-07-28T02:05Z,Olympics,Fabio Fognini,Daniil Medvedev,,,0.0
+110222,2021-07-28T02:10Z,Olympics,Pablo Carreno Busta,Dominik Koepfer,,,1.0
+110226,2021-07-28T03:30Z,Olympics,Diego Schwartzman,Karen Khachanov,,,0.0
+110229,2021-07-28T04:00Z,Olympics,Ilya Ivashka,Kei Nishikori,,,0.0
+110225,2021-07-28T04:20Z,Olympics,Ugo Humbert,Stefanos Tsitsipas,,,1.0
+110223,2021-07-28T05:50Z,Olympics,Jeremy Chardy,Liam Broady,,,1.0
+110224,2021-07-28T06:20Z,Olympics,Alexander Zverev,Nikoloz Basilashvili,,,1.0
+110230,2021-07-28T07:25Z,Olympics,Novak Djokovic,Alejandro Davidovich Fokina,,,1.0
+110216,2021-07-29T06:10Z,Olympics,Karen Khachanov,Ugo Humbert,,,1.0
+110219,2021-07-29T09:00Z,Olympics,Pablo Carreno Busta,Daniil Medvedev,,,1.0
+110220,2021-07-29T09:10Z,Olympics,Novak Djokovic,Kei Nishikori,,,1.0
+110217,2021-07-29T11:05Z,Olympics,Alexander Zverev,Jeremy Chardy,,,1.0
+110214,2021-07-30T06:05Z,Olympics,Karen Khachanov,Pablo Carreno Busta,,,1.0
+110218,2021-07-30T07:45Z,Olympics,Novak Djokovic,Alexander Zverev,,,0.0
+110215,2021-07-31T06:10Z,Olympics,Novak Djokovic,Pablo Carreno Busta,,,0.0
+110213,2021-08-01T08:15Z,Olympics,Alexander Zverev,Karen Khachanov,,,1.0
+110340,2021-07-26T10:20Z,Belgrade 125,Ulrikke Eikeri,Lesia Tsurenko,,,1.0
+110327,2021-07-26T11:15Z,Belgrade 125,Anna Karolina Schmiedlova,Jana Fett,,,1.0
+110329,2021-07-26T12:40Z,Belgrade 125,Olga Govortsova,Susan Bandecchi,,,0.0
+110334,2021-07-26T13:30Z,Belgrade 125,Rebecca Sramkova,Tereza Mrdeza,,,1.0
+110326,2021-07-26T16:05Z,Belgrade 125,Varvara Gracheva,Iva Sepa,,,1.0
+110331,2021-07-27T09:00Z,Belgrade 125,Kristyna Pliskova,Tena Lukas,,,1.0
+110328,2021-07-27T09:00Z,Belgrade 125,Anna Blinkova,Isabella Shinikova,,,1.0
+110325,2021-07-27T09:05Z,Belgrade 125,Jule Niemeier,Viktoriya Tomova,,,1.0
+110335,2021-07-27T10:25Z,Belgrade 125,Lola Radivojevic,Andrea Petkovic,,,0.0
+110339,2021-07-27T10:40Z,Belgrade 125,Martina Trevisan,Panna Udvardy,,,1.0
+110330,2021-07-27T11:10Z,Belgrade 125,Jaqueline Cristian,Kaja Juvan,,,1.0
+110338,2021-07-27T13:05Z,Belgrade 125,Jessika Ponchet,Draginja Vukovic,,,1.0
+110332,2021-07-27T13:20Z,Belgrade 125,Tara Wuerth,Ekaterina Yashina,,,1.0
+110333,2021-07-27T13:35Z,Belgrade 125,Irina Bara,Amandine Hesse,,,1.0
+110337,2021-07-27T14:50Z,Belgrade 125,Elitsa Kostova,Arantxa Rus,,,0.0
+110336,2021-07-27T16:35Z,Belgrade 125,Olga Danilovic,Camilla Rosatello,,,1.0
+110347,2021-07-28T09:05Z,Belgrade 125,Rebecca Sramkova,Jaqueline Cristian,,,1.0
+110344,2021-07-28T09:05Z,Belgrade 125,Varvara Gracheva,Kristyna Pliskova,,,0.0
+110343,2021-07-28T11:10Z,Belgrade 125,Anna Blinkova,Susan Bandecchi,,,1.0
+110345,2021-07-28T11:25Z,Belgrade 125,Anna Karolina Schmiedlova,Jule Niemeier,,,1.0
+110341,2021-07-28T13:30Z,Belgrade 125,Irina Bara,Tara Wuerth,,,0.0
+110342,2021-07-28T14:40Z,Belgrade 125,Martina Trevisan,Ulrikke Eikeri,,,1.0
+110346,2021-07-28T14:55Z,Belgrade 125,Jessika Ponchet,Andrea Petkovic,,,0.0
+110350,2021-07-28T16:45Z,Belgrade 125,Olga Danilovic,Arantxa Rus,,,0.0
+110352,2021-07-29T14:15Z,Belgrade 125,Anna Blinkova,Anna Karolina Schmiedlova,,,0.0
+110349,2021-07-29T14:30Z,Belgrade 125,Kristyna Pliskova,Rebecca Sramkova,,,0.0
+110353,2021-07-29T16:50Z,Belgrade 125,Tara Wuerth,Andrea Petkovic,,,0.0
+110351,2021-07-29T17:40Z,Belgrade 125,Martina Trevisan,Arantxa Rus,,,0.0
+110354,2021-07-30T16:05Z,Belgrade 125,Anna Karolina Schmiedlova,Rebecca Sramkova,,,1.0
+110348,2021-07-30T18:05Z,Belgrade 125,Andrea Petkovic,Arantxa Rus,,,0.0
+110355,2021-07-31T16:05Z,Belgrade 125,Anna Karolina Schmiedlova,Arantxa Rus,,,1.0
+110356,2021-07-26T16:05Z,Charleston 125,Whitney Osuigwe,Jamie Loeb,,,0.0
+110358,2021-07-26T16:10Z,Charleston 125,Katarina Jokic,En-Shuo Liang,,,0.0
+110365,2021-07-26T16:15Z,Charleston 125,Hanna Chang,Ellie Douglas,,,1.0
+110363,2021-07-26T18:05Z,Charleston 125,Alexa Glatch,Quinn Gleason,,,1.0
+110368,2021-07-26T18:45Z,Charleston 125,Whitley Pate,Tori Kinard,,,0.0
+110371,2021-07-26T19:30Z,Charleston 125,Rebecca Marino,Catherine Harrison,,,1.0
+110366,2021-07-26T20:15Z,Charleston 125,Tatjana Maria,Na-Lae Han,,,0.0
+110374,2021-07-27T18:45Z,Charleston 125,Sophie Chang,Lauren Davis,,,0.0
+110367,2021-07-27T18:45Z,Charleston 125,Carol Zhao,Varvara Lepchenko,,,0.0
+110361,2021-07-27T18:55Z,Charleston 125,Allie Kiick,Sachia Vickery,,,1.0
+110364,2021-07-27T19:10Z,Charleston 125,Usue Maitane Arconada,Aldila Sutjiadi,,,0.0
+110359,2021-07-27T19:25Z,Charleston 125,Emma Navarro,Beatriz Haddad Maia,,,1.0
+110362,2021-07-27T20:20Z,Charleston 125,Maddison Inglis,Fiona Crawley,,,1.0
+110373,2021-07-27T20:35Z,Charleston 125,Louisa Chirico,Maria Mateas,,,0.0
+110357,2021-07-27T21:40Z,Charleston 125,Madison Brengle,Katrina Scott,,,0.0
+110360,2021-07-27T22:10Z,Charleston 125,Kateryna Volodko,Peangtarn Plipuech,,,1.0
+110372,2021-07-28T19:35Z,Charleston 125,En-Shuo Liang,Allie Kiick,,,1.0
+110376,2021-07-28T19:35Z,Charleston 125,Alexa Glatch,Emma Navarro,,,0.0
+110380,2021-07-28T19:50Z,Charleston 125,Rebecca Marino,Lauren Davis,,,0.0
+110378,2021-07-28T20:55Z,Charleston 125,Na-Lae Han,Hanna Chang,,,0.0
+110369,2021-07-28T21:15Z,Charleston 125,Katrina Scott,Jamie Loeb,,,0.0
+110379,2021-07-28T21:30Z,Charleston 125,Tori Kinard,Varvara Lepchenko,,,0.0
+110370,2021-07-29T15:05Z,Charleston 125,Maddison Inglis,Kateryna Volodko,,,0.0
+110381,2021-07-29T15:05Z,Charleston 125,Aldila Sutjiadi,Maria Mateas,,,0.0
+110375,2021-07-30T15:05Z,Charleston 125,Kateryna Volodko,Emma Navarro,,,1.0
+110377,2021-07-30T15:05Z,Charleston 125,Jamie Loeb,En-Shuo Liang,,,1.0
+110382,2021-07-30T16:35Z,Charleston 125,Maria Mateas,Lauren Davis,,,0.0
+110383,2021-07-30T16:40Z,Charleston 125,Hanna Chang,Varvara Lepchenko,,,0.0
+110385,2021-07-31T14:05Z,Charleston 125,Varvara Lepchenko,Lauren Davis,,,1.0
+110386,2021-07-31T16:20Z,Charleston 125,Jamie Loeb,Kateryna Volodko,,,1.0
+110384,2021-08-01T14:10Z,Charleston 125,Jamie Loeb,Varvara Lepchenko,,,0.0

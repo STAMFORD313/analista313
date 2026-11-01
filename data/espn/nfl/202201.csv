@@ -1,0 +1,45 @@
+id,date,event,home,away,hs,as,res
+401326569,2022-01-02T18:00Z,Atlanta Falcons at Buffalo Bills,Buffalo Bills,Atlanta Falcons,29,15,1.0
+401326570,2022-01-02T18:00Z,New York Giants at Chicago Bears,Chicago Bears,New York Giants,29,3,1.0
+401326571,2022-01-02T18:00Z,Kansas City Chiefs at Cincinnati Bengals,Cincinnati Bengals,Kansas City Chiefs,34,31,1.0
+401326577,2022-01-02T18:00Z,Miami Dolphins at Tennessee Titans,Tennessee Titans,Miami Dolphins,34,3,1.0
+401326573,2022-01-02T18:00Z,Las Vegas Raiders at Indianapolis Colts,Indianapolis Colts,Las Vegas Raiders,20,23,0.0
+401326574,2022-01-02T18:00Z,Jacksonville Jaguars at New England Patriots,New England Patriots,Jacksonville Jaguars,50,10,1.0
+401326576,2022-01-02T18:00Z,Tampa Bay Buccaneers at New York Jets,New York Jets,Tampa Bay Buccaneers,24,28,0.0
+401326578,2022-01-02T18:00Z,Philadelphia Eagles at Washington Commanders,Washington Commanders,Philadelphia Eagles,16,20,0.0
+401326581,2022-01-02T18:00Z,Los Angeles Rams at Baltimore Ravens,Baltimore Ravens,Los Angeles Rams,19,20,0.0
+401326579,2022-01-02T21:05Z,Denver Broncos at Los Angeles Chargers,Los Angeles Chargers,Denver Broncos,34,13,1.0
+401326580,2022-01-02T21:05Z,Houston Texans at San Francisco 49ers,San Francisco 49ers,Houston Texans,23,7,1.0
+401326572,2022-01-02T21:25Z,Arizona Cardinals at Dallas Cowboys,Dallas Cowboys,Arizona Cardinals,22,25,0.0
+401326575,2022-01-02T21:25Z,Carolina Panthers at New Orleans Saints,New Orleans Saints,Carolina Panthers,18,10,1.0
+401326582,2022-01-02T21:25Z,Detroit Lions at Seattle Seahawks,Seattle Seahawks,Detroit Lions,51,29,1.0
+401326583,2022-01-03T01:20Z,Minnesota Vikings at Green Bay Packers,Green Bay Packers,Minnesota Vikings,37,10,1.0
+401326584,2022-01-04T01:15Z,Cleveland Browns at Pittsburgh Steelers,Pittsburgh Steelers,Cleveland Browns,26,14,1.0
+401326598,2022-01-08T21:30Z,Kansas City Chiefs at Denver Broncos,Denver Broncos,Kansas City Chiefs,24,28,0.0
+401326595,2022-01-09T01:15Z,Dallas Cowboys at Philadelphia Eagles,Philadelphia Eagles,Dallas Cowboys,26,51,0.0
+401326588,2022-01-09T18:00Z,Cincinnati Bengals at Cleveland Browns,Cleveland Browns,Cincinnati Bengals,21,16,1.0
+401326589,2022-01-09T18:00Z,Green Bay Packers at Detroit Lions,Detroit Lions,Green Bay Packers,37,30,1.0
+401326593,2022-01-09T18:00Z,Chicago Bears at Minnesota Vikings,Minnesota Vikings,Chicago Bears,31,17,1.0
+401326594,2022-01-09T18:00Z,Washington Commanders at New York Giants,New York Giants,Washington Commanders,7,22,0.0
+401326591,2022-01-09T18:00Z,Indianapolis Colts at Jacksonville Jaguars,Jacksonville Jaguars,Indianapolis Colts,26,11,1.0
+401326586,2022-01-09T18:00Z,Pittsburgh Steelers at Baltimore Ravens,Baltimore Ravens,Pittsburgh Steelers,13,16,0.0
+401326590,2022-01-09T18:00Z,Tennessee Titans at Houston Texans,Houston Texans,Tennessee Titans,25,28,0.0
+401326585,2022-01-09T21:25Z,New Orleans Saints at Atlanta Falcons,Atlanta Falcons,New Orleans Saints,20,30,0.0
+401326587,2022-01-09T21:25Z,New York Jets at Buffalo Bills,Buffalo Bills,New York Jets,27,10,1.0
+401326599,2022-01-09T21:25Z,San Francisco 49ers at Los Angeles Rams,Los Angeles Rams,San Francisco 49ers,24,27,0.0
+401326592,2022-01-09T21:25Z,New England Patriots at Miami Dolphins,Miami Dolphins,New England Patriots,33,24,1.0
+401326597,2022-01-09T21:25Z,Seattle Seahawks at Arizona Cardinals,Arizona Cardinals,Seattle Seahawks,30,38,0.0
+401326596,2022-01-09T21:25Z,Carolina Panthers at Tampa Bay Buccaneers,Tampa Bay Buccaneers,Carolina Panthers,41,17,1.0
+401326600,2022-01-10T01:20Z,Los Angeles Chargers at Las Vegas Raiders,Las Vegas Raiders,Los Angeles Chargers,35,32,1.0
+401326627,2022-01-15T21:30Z,Las Vegas Raiders at Cincinnati Bengals,Cincinnati Bengals,Las Vegas Raiders,26,19,1.0
+401326626,2022-01-16T01:15Z,New England Patriots at Buffalo Bills,Buffalo Bills,New England Patriots,47,17,1.0
+401326630,2022-01-16T18:00Z,Philadelphia Eagles at Tampa Bay Buccaneers,Tampa Bay Buccaneers,Philadelphia Eagles,31,15,1.0
+401326629,2022-01-16T21:30Z,San Francisco 49ers at Dallas Cowboys,Dallas Cowboys,San Francisco 49ers,17,23,0.0
+401326628,2022-01-17T01:15Z,Pittsburgh Steelers at Kansas City Chiefs,Kansas City Chiefs,Pittsburgh Steelers,42,21,1.0
+401326625,2022-01-18T01:15Z,Arizona Cardinals at Los Angeles Rams,Los Angeles Rams,Arizona Cardinals,34,11,1.0
+401326632,2022-01-22T21:30Z,Cincinnati Bengals at Tennessee Titans,Tennessee Titans,Cincinnati Bengals,16,19,0.0
+401326631,2022-01-23T01:15Z,San Francisco 49ers at Green Bay Packers,Green Bay Packers,San Francisco 49ers,10,13,0.0
+401326634,2022-01-23T20:00Z,Los Angeles Rams at Tampa Bay Buccaneers,Tampa Bay Buccaneers,Los Angeles Rams,27,30,0.0
+401326633,2022-01-23T23:30Z,Buffalo Bills at Kansas City Chiefs,Kansas City Chiefs,Buffalo Bills,42,36,1.0
+401326635,2022-01-30T20:00Z,Cincinnati Bengals at Kansas City Chiefs,Kansas City Chiefs,Cincinnati Bengals,24,27,0.0
+401326636,2022-01-30T23:30Z,San Francisco 49ers at Los Angeles Rams,Los Angeles Rams,San Francisco 49ers,20,17,1.0

@@ -1,0 +1,74 @@
+id,date,event,home,away,hs,as,res
+401547227,2023-10-01T13:30Z,Atlanta Falcons at Jacksonville Jaguars,Jacksonville Jaguars,Atlanta Falcons,23,7,1.0
+401547443,2023-10-01T17:00Z,Miami Dolphins at Buffalo Bills,Buffalo Bills,Miami Dolphins,48,20,1.0
+401547444,2023-10-01T17:00Z,Denver Broncos at Chicago Bears,Chicago Bears,Denver Broncos,28,31,0.0
+401547445,2023-10-01T17:00Z,Baltimore Ravens at Cleveland Browns,Cleveland Browns,Baltimore Ravens,3,28,0.0
+401547452,2023-10-01T17:00Z,Cincinnati Bengals at Tennessee Titans,Tennessee Titans,Cincinnati Bengals,27,3,1.0
+401547449,2023-10-01T17:00Z,Los Angeles Rams at Indianapolis Colts,Indianapolis Colts,Los Angeles Rams,23,29,0.0
+401547450,2023-10-01T17:00Z,Tampa Bay Buccaneers at New Orleans Saints,New Orleans Saints,Tampa Bay Buccaneers,9,26,0.0
+401547451,2023-10-01T17:00Z,Washington Commanders at Philadelphia Eagles,Philadelphia Eagles,Washington Commanders,34,31,1.0
+401547448,2023-10-01T17:00Z,Minnesota Vikings at Carolina Panthers,Carolina Panthers,Minnesota Vikings,13,21,0.0
+401547446,2023-10-01T17:00Z,Pittsburgh Steelers at Houston Texans,Houston Texans,Pittsburgh Steelers,30,6,1.0
+401547447,2023-10-01T20:05Z,Las Vegas Raiders at Los Angeles Chargers,Los Angeles Chargers,Las Vegas Raiders,24,17,1.0
+401547453,2023-10-01T20:25Z,New England Patriots at Dallas Cowboys,Dallas Cowboys,New England Patriots,38,3,1.0
+401547454,2023-10-01T20:25Z,Arizona Cardinals at San Francisco 49ers,San Francisco 49ers,Arizona Cardinals,35,16,1.0
+401547455,2023-10-02T00:20Z,Kansas City Chiefs at New York Jets,New York Jets,Kansas City Chiefs,20,23,0.0
+401547456,2023-10-03T00:15Z,Seattle Seahawks at New York Giants,New York Giants,Seattle Seahawks,3,24,0.0
+401547457,2023-10-06T00:15Z,Chicago Bears at Washington Commanders,Washington Commanders,Chicago Bears,20,40,0.0
+401547228,2023-10-08T13:30Z,Jacksonville Jaguars at Buffalo Bills,Buffalo Bills,Jacksonville Jaguars,20,25,0.0
+401547463,2023-10-08T17:00Z,Houston Texans at Atlanta Falcons,Atlanta Falcons,Houston Texans,21,19,1.0
+401547464,2023-10-08T17:00Z,Carolina Panthers at Detroit Lions,Detroit Lions,Carolina Panthers,42,24,1.0
+401547458,2023-10-08T17:00Z,Tennessee Titans at Indianapolis Colts,Indianapolis Colts,Tennessee Titans,23,16,1.0
+401547465,2023-10-08T17:00Z,New York Giants at Miami Dolphins,Miami Dolphins,New York Giants,31,16,1.0
+401547459,2023-10-08T17:00Z,New Orleans Saints at New England Patriots,New England Patriots,New Orleans Saints,0,34,0.0
+401547460,2023-10-08T17:00Z,Baltimore Ravens at Pittsburgh Steelers,Pittsburgh Steelers,Baltimore Ravens,17,10,1.0
+401547467,2023-10-08T20:05Z,Philadelphia Eagles at Los Angeles Rams,Los Angeles Rams,Philadelphia Eagles,14,23,0.0
+401547466,2023-10-08T20:05Z,Cincinnati Bengals at Arizona Cardinals,Arizona Cardinals,Cincinnati Bengals,20,34,0.0
+401547461,2023-10-08T20:25Z,New York Jets at Denver Broncos,Denver Broncos,New York Jets,21,31,0.0
+401547462,2023-10-08T20:25Z,Kansas City Chiefs at Minnesota Vikings,Minnesota Vikings,Kansas City Chiefs,20,27,0.0
+401547354,2023-10-09T00:20Z,Dallas Cowboys at San Francisco 49ers,San Francisco 49ers,Dallas Cowboys,42,10,1.0
+401547468,2023-10-10T00:15Z,Green Bay Packers at Las Vegas Raiders,Las Vegas Raiders,Green Bay Packers,17,13,1.0
+401547469,2023-10-13T00:15Z,Denver Broncos at Kansas City Chiefs,Kansas City Chiefs,Denver Broncos,19,8,1.0
+401547229,2023-10-15T13:30Z,Baltimore Ravens at Tennessee Titans,Tennessee Titans,Baltimore Ravens,16,24,0.0
+401547470,2023-10-15T17:00Z,Washington Commanders at Atlanta Falcons,Atlanta Falcons,Washington Commanders,16,24,0.0
+401547475,2023-10-15T17:00Z,Minnesota Vikings at Chicago Bears,Chicago Bears,Minnesota Vikings,13,19,0.0
+401547471,2023-10-15T17:00Z,Seattle Seahawks at Cincinnati Bengals,Cincinnati Bengals,Seattle Seahawks,17,13,1.0
+401547476,2023-10-15T17:00Z,San Francisco 49ers at Cleveland Browns,Cleveland Browns,San Francisco 49ers,19,17,1.0
+401547473,2023-10-15T17:00Z,Carolina Panthers at Miami Dolphins,Miami Dolphins,Carolina Panthers,42,21,1.0
+401547472,2023-10-15T17:00Z,Indianapolis Colts at Jacksonville Jaguars,Jacksonville Jaguars,Indianapolis Colts,37,20,1.0
+401547477,2023-10-15T17:00Z,New Orleans Saints at Houston Texans,Houston Texans,New Orleans Saints,20,13,1.0
+401547474,2023-10-15T20:05Z,New England Patriots at Las Vegas Raiders,Las Vegas Raiders,New England Patriots,21,17,1.0
+401547479,2023-10-15T20:25Z,Arizona Cardinals at Los Angeles Rams,Los Angeles Rams,Arizona Cardinals,26,9,1.0
+401547480,2023-10-15T20:25Z,Philadelphia Eagles at New York Jets,New York Jets,Philadelphia Eagles,20,14,1.0
+401547478,2023-10-15T20:25Z,Detroit Lions at Tampa Bay Buccaneers,Tampa Bay Buccaneers,Detroit Lions,6,20,0.0
+401547481,2023-10-16T00:20Z,New York Giants at Buffalo Bills,Buffalo Bills,New York Giants,14,9,1.0
+401547482,2023-10-17T00:15Z,Dallas Cowboys at Los Angeles Chargers,Los Angeles Chargers,Dallas Cowboys,17,20,0.0
+401547483,2023-10-20T00:15Z,Jacksonville Jaguars at New Orleans Saints,New Orleans Saints,Jacksonville Jaguars,24,31,0.0
+401547490,2023-10-22T17:00Z,Las Vegas Raiders at Chicago Bears,Chicago Bears,Las Vegas Raiders,30,12,1.0
+401547484,2023-10-22T17:00Z,Cleveland Browns at Indianapolis Colts,Indianapolis Colts,Cleveland Browns,38,39,0.0
+401547485,2023-10-22T17:00Z,Buffalo Bills at New England Patriots,New England Patriots,Buffalo Bills,29,25,1.0
+401547486,2023-10-22T17:00Z,Washington Commanders at New York Giants,New York Giants,Washington Commanders,14,7,1.0
+401547491,2023-10-22T17:00Z,Atlanta Falcons at Tampa Bay Buccaneers,Tampa Bay Buccaneers,Atlanta Falcons,13,16,0.0
+401547489,2023-10-22T17:00Z,Detroit Lions at Baltimore Ravens,Baltimore Ravens,Detroit Lions,38,6,1.0
+401547492,2023-10-22T20:05Z,Pittsburgh Steelers at Los Angeles Rams,Los Angeles Rams,Pittsburgh Steelers,17,24,0.0
+401547493,2023-10-22T20:05Z,Arizona Cardinals at Seattle Seahawks,Seattle Seahawks,Arizona Cardinals,20,10,1.0
+401547487,2023-10-22T20:25Z,Green Bay Packers at Denver Broncos,Denver Broncos,Green Bay Packers,19,17,1.0
+401547488,2023-10-22T20:25Z,Los Angeles Chargers at Kansas City Chiefs,Kansas City Chiefs,Los Angeles Chargers,31,17,1.0
+401547494,2023-10-23T00:20Z,Miami Dolphins at Philadelphia Eagles,Philadelphia Eagles,Miami Dolphins,31,17,1.0
+401547495,2023-10-24T00:15Z,San Francisco 49ers at Minnesota Vikings,Minnesota Vikings,San Francisco 49ers,22,17,1.0
+401547496,2023-10-27T00:15Z,Tampa Bay Buccaneers at Buffalo Bills,Buffalo Bills,Tampa Bay Buccaneers,24,18,1.0
+401547505,2023-10-29T17:00Z,Los Angeles Rams at Dallas Cowboys,Dallas Cowboys,Los Angeles Rams,43,20,1.0
+401547506,2023-10-29T17:00Z,Minnesota Vikings at Green Bay Packers,Green Bay Packers,Minnesota Vikings,10,24,0.0
+401547500,2023-10-29T17:00Z,Atlanta Falcons at Tennessee Titans,Tennessee Titans,Atlanta Falcons,28,23,1.0
+401547507,2023-10-29T17:00Z,New Orleans Saints at Indianapolis Colts,Indianapolis Colts,New Orleans Saints,27,38,0.0
+401547497,2023-10-29T17:00Z,New England Patriots at Miami Dolphins,Miami Dolphins,New England Patriots,31,17,1.0
+401547498,2023-10-29T17:00Z,New York Jets at New York Giants,New York Giants,New York Jets,10,13,0.0
+401547499,2023-10-29T17:00Z,Jacksonville Jaguars at Pittsburgh Steelers,Pittsburgh Steelers,Jacksonville Jaguars,10,20,0.0
+401547508,2023-10-29T17:00Z,Philadelphia Eagles at Washington Commanders,Washington Commanders,Philadelphia Eagles,31,38,0.0
+401547504,2023-10-29T17:00Z,Houston Texans at Carolina Panthers,Carolina Panthers,Houston Texans,15,13,1.0
+401547509,2023-10-29T20:05Z,Cleveland Browns at Seattle Seahawks,Seattle Seahawks,Cleveland Browns,24,20,1.0
+401547502,2023-10-29T20:25Z,Kansas City Chiefs at Denver Broncos,Denver Broncos,Kansas City Chiefs,24,9,1.0
+401547501,2023-10-29T20:25Z,Baltimore Ravens at Arizona Cardinals,Arizona Cardinals,Baltimore Ravens,24,31,0.0
+401547503,2023-10-29T20:25Z,Cincinnati Bengals at San Francisco 49ers,San Francisco 49ers,Cincinnati Bengals,17,31,0.0
+401547510,2023-10-30T00:20Z,Chicago Bears at Los Angeles Chargers,Los Angeles Chargers,Chicago Bears,30,13,1.0
+401547511,2023-10-31T00:15Z,Las Vegas Raiders at Detroit Lions,Detroit Lions,Las Vegas Raiders,26,14,1.0

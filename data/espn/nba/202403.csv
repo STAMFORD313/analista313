@@ -1,0 +1,231 @@
+id,date,event,home,away,hs,as,res
+401585485,2024-03-02T00:00Z,Cleveland Cavaliers at Detroit Pistons,Detroit Pistons,Cleveland Cavaliers,100,110,0.0
+401585486,2024-03-02T00:00Z,Charlotte Hornets at Philadelphia 76ers,Philadelphia 76ers,Charlotte Hornets,121,114,1.0
+401585487,2024-03-02T00:30Z,Dallas Mavericks at Boston Celtics,Boston Celtics,Dallas Mavericks,138,110,1.0
+401585488,2024-03-02T00:30Z,Golden State Warriors at Toronto Raptors,Toronto Raptors,Golden State Warriors,105,120,0.0
+401585489,2024-03-02T01:00Z,Portland Trail Blazers at Memphis Grizzlies,Memphis Grizzlies,Portland Trail Blazers,92,122,0.0
+401585490,2024-03-02T01:00Z,Sacramento Kings at Minnesota Timberwolves,Minnesota Timberwolves,Sacramento Kings,120,124,0.0
+401585491,2024-03-02T01:00Z,Indiana Pacers at New Orleans Pelicans,New Orleans Pelicans,Indiana Pacers,129,102,1.0
+401585492,2024-03-02T03:00Z,Milwaukee Bucks at Chicago Bulls,Chicago Bulls,Milwaukee Bucks,97,113,0.0
+401585493,2024-03-02T03:30Z,Washington Wizards at LA Clippers,LA Clippers,Washington Wizards,140,115,1.0
+401585494,2024-03-02T20:00Z,Atlanta Hawks at Brooklyn Nets,Brooklyn Nets,Atlanta Hawks,114,102,1.0
+401585495,2024-03-02T22:00Z,Utah Jazz at Miami Heat,Miami Heat,Utah Jazz,126,120,1.0
+401585496,2024-03-03T01:00Z,Portland Trail Blazers at Memphis Grizzlies,Memphis Grizzlies,Portland Trail Blazers,100,107,0.0
+401585497,2024-03-03T01:30Z,Denver Nuggets at Los Angeles Lakers,Los Angeles Lakers,Denver Nuggets,114,124,0.0
+401585498,2024-03-03T02:00Z,Houston Rockets at Phoenix Suns,Phoenix Suns,Houston Rockets,109,118,0.0
+401585499,2024-03-03T18:00Z,Philadelphia 76ers at Dallas Mavericks,Dallas Mavericks,Philadelphia 76ers,116,120,0.0
+401585500,2024-03-03T20:30Z,Golden State Warriors at Boston Celtics,Boston Celtics,Golden State Warriors,140,88,1.0
+401585501,2024-03-03T20:30Z,LA Clippers at Minnesota Timberwolves,Minnesota Timberwolves,LA Clippers,88,89,0.0
+401585502,2024-03-03T23:00Z,Detroit Pistons at Orlando Magic,Orlando Magic,Detroit Pistons,113,91,1.0
+401585503,2024-03-03T23:00Z,Charlotte Hornets at Toronto Raptors,Toronto Raptors,Charlotte Hornets,111,106,1.0
+401585504,2024-03-04T00:00Z,New York Knicks at Cleveland Cavaliers,Cleveland Cavaliers,New York Knicks,98,107,0.0
+401585505,2024-03-04T00:00Z,Indiana Pacers at San Antonio Spurs,San Antonio Spurs,Indiana Pacers,117,105,1.0
+401585506,2024-03-04T02:30Z,Oklahoma City Thunder at Phoenix Suns,Phoenix Suns,Oklahoma City Thunder,110,118,0.0
+401585507,2024-03-05T00:30Z,Memphis Grizzlies at Brooklyn Nets,Brooklyn Nets,Memphis Grizzlies,102,106,0.0
+401585508,2024-03-05T01:00Z,LA Clippers at Milwaukee Bucks,Milwaukee Bucks,LA Clippers,113,106,1.0
+401585509,2024-03-05T01:00Z,Portland Trail Blazers at Minnesota Timberwolves,Minnesota Timberwolves,Portland Trail Blazers,119,114,1.0
+401585510,2024-03-05T02:00Z,Washington Wizards at Utah Jazz,Utah Jazz,Washington Wizards,127,115,1.0
+401585511,2024-03-05T03:00Z,Chicago Bulls at Sacramento Kings,Sacramento Kings,Chicago Bulls,109,113,0.0
+401585512,2024-03-05T03:30Z,Oklahoma City Thunder at Los Angeles Lakers,Los Angeles Lakers,Oklahoma City Thunder,116,104,1.0
+401585513,2024-03-06T00:00Z,Orlando Magic at Charlotte Hornets,Charlotte Hornets,Orlando Magic,89,101,0.0
+401585514,2024-03-06T00:30Z,Boston Celtics at Cleveland Cavaliers,Cleveland Cavaliers,Boston Celtics,105,104,1.0
+401585515,2024-03-06T00:30Z,Philadelphia 76ers at Brooklyn Nets,Brooklyn Nets,Philadelphia 76ers,112,107,1.0
+401585516,2024-03-06T00:30Z,Detroit Pistons at Miami Heat,Miami Heat,Detroit Pistons,118,110,1.0
+401585517,2024-03-06T00:30Z,Atlanta Hawks at New York Knicks,New York Knicks,Atlanta Hawks,100,116,0.0
+401585518,2024-03-06T00:30Z,New Orleans Pelicans at Toronto Raptors,Toronto Raptors,New Orleans Pelicans,98,139,0.0
+401585519,2024-03-06T01:00Z,San Antonio Spurs at Houston Rockets,Houston Rockets,San Antonio Spurs,114,101,1.0
+401585520,2024-03-06T01:30Z,Indiana Pacers at Dallas Mavericks,Dallas Mavericks,Indiana Pacers,120,137,0.0
+401585521,2024-03-06T03:00Z,Phoenix Suns at Denver Nuggets,Denver Nuggets,Phoenix Suns,107,117,0.0
+401585522,2024-03-07T00:00Z,Orlando Magic at Washington Wizards,Washington Wizards,Orlando Magic,109,119,0.0
+401585523,2024-03-07T00:30Z,Cleveland Cavaliers at Atlanta Hawks,Atlanta Hawks,Cleveland Cavaliers,112,101,1.0
+401585524,2024-03-07T00:30Z,Memphis Grizzlies at Philadelphia 76ers,Philadelphia 76ers,Memphis Grizzlies,109,115,0.0
+401585525,2024-03-07T00:30Z,LA Clippers at Houston Rockets,Houston Rockets,LA Clippers,116,122,0.0
+401585526,2024-03-07T02:00Z,Chicago Bulls at Utah Jazz,Utah Jazz,Chicago Bulls,117,119,0.0
+401585527,2024-03-07T03:00Z,Milwaukee Bucks at Golden State Warriors,Golden State Warriors,Milwaukee Bucks,125,90,1.0
+401585528,2024-03-07T03:00Z,Oklahoma City Thunder at Portland Trail Blazers,Portland Trail Blazers,Oklahoma City Thunder,120,128,0.0
+401585529,2024-03-07T03:30Z,Sacramento Kings at Los Angeles Lakers,Los Angeles Lakers,Sacramento Kings,120,130,0.0
+401585530,2024-03-08T00:00Z,Brooklyn Nets at Detroit Pistons,Detroit Pistons,Brooklyn Nets,118,112,1.0
+401585531,2024-03-08T00:00Z,Minnesota Timberwolves at Indiana Pacers,Indiana Pacers,Minnesota Timberwolves,111,113,0.0
+401585532,2024-03-08T00:30Z,Miami Heat at Dallas Mavericks,Dallas Mavericks,Miami Heat,114,108,1.0
+401585533,2024-03-08T02:00Z,Toronto Raptors at Phoenix Suns,Phoenix Suns,Toronto Raptors,120,113,1.0
+401585534,2024-03-08T03:00Z,Boston Celtics at Denver Nuggets,Denver Nuggets,Boston Celtics,115,109,1.0
+401585535,2024-03-08T03:00Z,Chicago Bulls at Golden State Warriors,Golden State Warriors,Chicago Bulls,122,125,0.0
+401585536,2024-03-08T03:00Z,San Antonio Spurs at Sacramento Kings,Sacramento Kings,San Antonio Spurs,131,129,1.0
+401585537,2024-03-09T00:00Z,New Orleans Pelicans at Philadelphia 76ers,Philadelphia 76ers,New Orleans Pelicans,95,103,0.0
+401585538,2024-03-09T00:00Z,Charlotte Hornets at Washington Wizards,Washington Wizards,Charlotte Hornets,112,100,1.0
+401585539,2024-03-09T00:30Z,Minnesota Timberwolves at Cleveland Cavaliers,Cleveland Cavaliers,Minnesota Timberwolves,113,104,1.0
+401585540,2024-03-09T00:30Z,Orlando Magic at New York Knicks,New York Knicks,Orlando Magic,98,74,1.0
+401585541,2024-03-09T01:00Z,Atlanta Hawks at Memphis Grizzlies,Memphis Grizzlies,Atlanta Hawks,92,99,0.0
+401585542,2024-03-09T01:00Z,Miami Heat at Oklahoma City Thunder,Oklahoma City Thunder,Miami Heat,107,100,1.0
+401585543,2024-03-09T03:00Z,Milwaukee Bucks at Los Angeles Lakers,Los Angeles Lakers,Milwaukee Bucks,123,122,1.0
+401585544,2024-03-09T03:00Z,Houston Rockets at Portland Trail Blazers,Portland Trail Blazers,Houston Rockets,107,123,0.0
+401585545,2024-03-09T21:00Z,Chicago Bulls at LA Clippers,LA Clippers,Chicago Bulls,112,102,1.0
+401585546,2024-03-10T00:00Z,Brooklyn Nets at Charlotte Hornets,Charlotte Hornets,Brooklyn Nets,110,99,1.0
+401585547,2024-03-10T00:00Z,Dallas Mavericks at Detroit Pistons,Detroit Pistons,Dallas Mavericks,124,142,0.0
+401585548,2024-03-10T01:30Z,Boston Celtics at Phoenix Suns,Phoenix Suns,Boston Celtics,107,117,0.0
+401585549,2024-03-10T01:30Z,San Antonio Spurs at Golden State Warriors,Golden State Warriors,San Antonio Spurs,113,126,0.0
+401585550,2024-03-10T02:00Z,Utah Jazz at Denver Nuggets,Denver Nuggets,Utah Jazz,142,121,1.0
+401585551,2024-03-10T03:00Z,Toronto Raptors at Portland Trail Blazers,Portland Trail Blazers,Toronto Raptors,128,118,1.0
+401585552,2024-03-10T19:00Z,Milwaukee Bucks at LA Clippers,LA Clippers,Milwaukee Bucks,117,124,0.0
+401585553,2024-03-10T22:00Z,New Orleans Pelicans at Atlanta Hawks,Atlanta Hawks,New Orleans Pelicans,103,116,0.0
+401585554,2024-03-10T22:00Z,Washington Wizards at Miami Heat,Miami Heat,Washington Wizards,108,110,0.0
+401585556,2024-03-10T22:00Z,Indiana Pacers at Orlando Magic,Orlando Magic,Indiana Pacers,97,111,0.0
+401585557,2024-03-10T22:00Z,Houston Rockets at Sacramento Kings,Sacramento Kings,Houston Rockets,104,112,0.0
+401585555,2024-03-10T23:00Z,Philadelphia 76ers at New York Knicks,New York Knicks,Philadelphia 76ers,73,79,0.0
+401585558,2024-03-10T23:00Z,Brooklyn Nets at Cleveland Cavaliers,Cleveland Cavaliers,Brooklyn Nets,101,120,0.0
+401585559,2024-03-10T23:00Z,Memphis Grizzlies at Oklahoma City Thunder,Oklahoma City Thunder,Memphis Grizzlies,124,93,1.0
+401585560,2024-03-11T01:30Z,Minnesota Timberwolves at Los Angeles Lakers,Los Angeles Lakers,Minnesota Timberwolves,120,109,1.0
+401585561,2024-03-11T23:00Z,Charlotte Hornets at Detroit Pistons,Detroit Pistons,Charlotte Hornets,114,97,1.0
+401585562,2024-03-11T23:30Z,Phoenix Suns at Cleveland Cavaliers,Cleveland Cavaliers,Phoenix Suns,111,117,0.0
+401585563,2024-03-12T00:00Z,Dallas Mavericks at Chicago Bulls,Chicago Bulls,Dallas Mavericks,92,127,0.0
+401585564,2024-03-12T00:00Z,Golden State Warriors at San Antonio Spurs,San Antonio Spurs,Golden State Warriors,102,112,0.0
+401585565,2024-03-12T01:00Z,Toronto Raptors at Denver Nuggets,Denver Nuggets,Toronto Raptors,125,119,1.0
+401585566,2024-03-12T02:30Z,Boston Celtics at Portland Trail Blazers,Portland Trail Blazers,Boston Celtics,99,121,0.0
+401585567,2024-03-12T23:30Z,Philadelphia 76ers at New York Knicks,New York Knicks,Philadelphia 76ers,106,79,1.0
+401585568,2024-03-13T00:00Z,Washington Wizards at Memphis Grizzlies,Memphis Grizzlies,Washington Wizards,109,97,1.0
+401585569,2024-03-13T00:00Z,Indiana Pacers at Oklahoma City Thunder,Oklahoma City Thunder,Indiana Pacers,111,121,0.0
+401585570,2024-03-13T00:30Z,Houston Rockets at San Antonio Spurs,San Antonio Spurs,Houston Rockets,101,103,0.0
+401585571,2024-03-13T01:00Z,Boston Celtics at Utah Jazz,Utah Jazz,Boston Celtics,107,123,0.0
+401585572,2024-03-13T02:00Z,Minnesota Timberwolves at LA Clippers,LA Clippers,Minnesota Timberwolves,100,118,0.0
+401585573,2024-03-13T02:00Z,Milwaukee Bucks at Sacramento Kings,Sacramento Kings,Milwaukee Bucks,129,94,1.0
+401585574,2024-03-13T23:00Z,Toronto Raptors at Detroit Pistons,Detroit Pistons,Toronto Raptors,113,104,1.0
+401585575,2024-03-13T23:00Z,Brooklyn Nets at Orlando Magic,Orlando Magic,Brooklyn Nets,114,106,1.0
+401585576,2024-03-13T23:30Z,Chicago Bulls at Indiana Pacers,Indiana Pacers,Chicago Bulls,129,132,0.0
+401585577,2024-03-13T23:30Z,Denver Nuggets at Miami Heat,Miami Heat,Denver Nuggets,88,100,0.0
+401585578,2024-03-14T00:00Z,Charlotte Hornets at Memphis Grizzlies,Memphis Grizzlies,Charlotte Hornets,98,110,0.0
+401585579,2024-03-14T00:00Z,Cleveland Cavaliers at New Orleans Pelicans,New Orleans Pelicans,Cleveland Cavaliers,95,116,0.0
+401585580,2024-03-14T00:30Z,Golden State Warriors at Dallas Mavericks,Dallas Mavericks,Golden State Warriors,109,99,1.0
+401585581,2024-03-14T02:00Z,Atlanta Hawks at Portland Trail Blazers,Portland Trail Blazers,Atlanta Hawks,106,102,1.0
+401585582,2024-03-14T02:00Z,Los Angeles Lakers at Sacramento Kings,Sacramento Kings,Los Angeles Lakers,120,107,1.0
+401585583,2024-03-14T23:30Z,Phoenix Suns at Boston Celtics,Boston Celtics,Phoenix Suns,127,112,1.0
+401585584,2024-03-15T00:00Z,LA Clippers at Chicago Bulls,Chicago Bulls,LA Clippers,111,126,0.0
+401585585,2024-03-15T00:00Z,Washington Wizards at Houston Rockets,Houston Rockets,Washington Wizards,135,119,1.0
+401585586,2024-03-15T00:00Z,Philadelphia 76ers at Milwaukee Bucks,Milwaukee Bucks,Philadelphia 76ers,114,105,1.0
+401585587,2024-03-15T02:00Z,Dallas Mavericks at Oklahoma City Thunder,Oklahoma City Thunder,Dallas Mavericks,126,119,1.0
+401585588,2024-03-15T02:00Z,New York Knicks at Portland Trail Blazers,Portland Trail Blazers,New York Knicks,93,105,0.0
+401585589,2024-03-15T23:00Z,Phoenix Suns at Charlotte Hornets,Charlotte Hornets,Phoenix Suns,96,107,0.0
+401585590,2024-03-15T23:00Z,Miami Heat at Detroit Pistons,Detroit Pistons,Miami Heat,95,108,0.0
+401585591,2024-03-15T23:30Z,Orlando Magic at Toronto Raptors,Toronto Raptors,Orlando Magic,103,113,0.0
+401585592,2024-03-16T00:00Z,LA Clippers at New Orleans Pelicans,New Orleans Pelicans,LA Clippers,112,104,1.0
+401585593,2024-03-16T00:30Z,Denver Nuggets at San Antonio Spurs,San Antonio Spurs,Denver Nuggets,106,117,0.0
+401585594,2024-03-16T01:30Z,Atlanta Hawks at Utah Jazz,Utah Jazz,Atlanta Hawks,124,122,1.0
+401585595,2024-03-16T21:00Z,Cleveland Cavaliers at Houston Rockets,Houston Rockets,Cleveland Cavaliers,117,103,1.0
+401585596,2024-03-16T23:00Z,Brooklyn Nets at Indiana Pacers,Indiana Pacers,Brooklyn Nets,121,100,1.0
+401585597,2024-03-16T23:00Z,Charlotte Hornets at Philadelphia 76ers,Philadelphia 76ers,Charlotte Hornets,109,98,1.0
+401585598,2024-03-16T23:00Z,Portland Trail Blazers at New Orleans Pelicans,New Orleans Pelicans,Portland Trail Blazers,126,107,1.0
+401585599,2024-03-17T00:00Z,Washington Wizards at Chicago Bulls,Chicago Bulls,Washington Wizards,127,98,1.0
+401585600,2024-03-17T00:00Z,Oklahoma City Thunder at Memphis Grizzlies,Memphis Grizzlies,Oklahoma City Thunder,112,118,0.0
+401585601,2024-03-17T00:30Z,Golden State Warriors at Los Angeles Lakers,Los Angeles Lakers,Golden State Warriors,121,128,0.0
+401585602,2024-03-17T01:30Z,Minnesota Timberwolves at Utah Jazz,Utah Jazz,Minnesota Timberwolves,100,119,0.0
+401585603,2024-03-17T02:00Z,New York Knicks at Sacramento Kings,Sacramento Kings,New York Knicks,91,98,0.0
+401585604,2024-03-17T17:00Z,Phoenix Suns at Milwaukee Bucks,Milwaukee Bucks,Phoenix Suns,140,129,1.0
+401585605,2024-03-17T19:00Z,Miami Heat at Detroit Pistons,Detroit Pistons,Miami Heat,101,104,0.0
+401585606,2024-03-17T19:30Z,Denver Nuggets at Dallas Mavericks,Dallas Mavericks,Denver Nuggets,107,105,1.0
+401585607,2024-03-17T22:00Z,Toronto Raptors at Orlando Magic,Orlando Magic,Toronto Raptors,111,96,1.0
+401585608,2024-03-17T22:00Z,Boston Celtics at Washington Wizards,Washington Wizards,Boston Celtics,104,130,0.0
+401585609,2024-03-17T23:00Z,Brooklyn Nets at San Antonio Spurs,San Antonio Spurs,Brooklyn Nets,122,115,1.0
+401585610,2024-03-18T01:30Z,Atlanta Hawks at LA Clippers,LA Clippers,Atlanta Hawks,93,110,0.0
+401585611,2024-03-18T23:00Z,Cleveland Cavaliers at Indiana Pacers,Indiana Pacers,Cleveland Cavaliers,103,108,0.0
+401585612,2024-03-18T23:30Z,Detroit Pistons at Boston Celtics,Boston Celtics,Detroit Pistons,119,94,1.0
+401585613,2024-03-18T23:30Z,Miami Heat at Philadelphia 76ers,Philadelphia 76ers,Miami Heat,98,91,1.0
+401585614,2024-03-19T00:00Z,Portland Trail Blazers at Chicago Bulls,Chicago Bulls,Portland Trail Blazers,110,107,1.0
+401585615,2024-03-19T01:00Z,Minnesota Timberwolves at Utah Jazz,Utah Jazz,Minnesota Timberwolves,104,114,0.0
+401585616,2024-03-19T02:00Z,New York Knicks at Golden State Warriors,Golden State Warriors,New York Knicks,112,119,0.0
+401585617,2024-03-19T02:00Z,Memphis Grizzlies at Sacramento Kings,Sacramento Kings,Memphis Grizzlies,121,111,1.0
+401585618,2024-03-19T02:30Z,Atlanta Hawks at Los Angeles Lakers,Los Angeles Lakers,Atlanta Hawks,136,105,1.0
+401585619,2024-03-19T23:00Z,Charlotte Hornets at Orlando Magic,Orlando Magic,Charlotte Hornets,112,92,1.0
+401585620,2024-03-19T23:00Z,Houston Rockets at Washington Wizards,Washington Wizards,Houston Rockets,114,137,0.0
+401585621,2024-03-19T23:30Z,New Orleans Pelicans at Brooklyn Nets,Brooklyn Nets,New Orleans Pelicans,91,104,0.0
+401585622,2024-03-20T00:00Z,Dallas Mavericks at San Antonio Spurs,San Antonio Spurs,Dallas Mavericks,107,113,0.0
+401585623,2024-03-20T01:00Z,Denver Nuggets at Minnesota Timberwolves,Minnesota Timberwolves,Denver Nuggets,112,115,0.0
+401585624,2024-03-20T23:00Z,Miami Heat at Cleveland Cavaliers,Cleveland Cavaliers,Miami Heat,104,107,0.0
+401585625,2024-03-20T23:00Z,Indiana Pacers at Detroit Pistons,Detroit Pistons,Indiana Pacers,103,122,0.0
+401585626,2024-03-20T23:30Z,Milwaukee Bucks at Boston Celtics,Boston Celtics,Milwaukee Bucks,122,119,1.0
+401585627,2024-03-20T23:30Z,Sacramento Kings at Toronto Raptors,Toronto Raptors,Sacramento Kings,89,123,0.0
+401585628,2024-03-21T00:00Z,Utah Jazz at Oklahoma City Thunder,Oklahoma City Thunder,Utah Jazz,119,107,1.0
+401585629,2024-03-21T02:00Z,Memphis Grizzlies at Golden State Warriors,Golden State Warriors,Memphis Grizzlies,137,116,1.0
+401585630,2024-03-21T02:00Z,Philadelphia 76ers at Phoenix Suns,Phoenix Suns,Philadelphia 76ers,115,102,1.0
+401585631,2024-03-21T02:00Z,LA Clippers at Portland Trail Blazers,Portland Trail Blazers,LA Clippers,103,116,0.0
+401585632,2024-03-21T23:00Z,New Orleans Pelicans at Orlando Magic,Orlando Magic,New Orleans Pelicans,121,106,1.0
+401585633,2024-03-21T23:00Z,Sacramento Kings at Washington Wizards,Washington Wizards,Sacramento Kings,109,102,1.0
+401585634,2024-03-22T00:00Z,Chicago Bulls at Houston Rockets,Houston Rockets,Chicago Bulls,127,117,1.0
+401585635,2024-03-22T00:00Z,Brooklyn Nets at Milwaukee Bucks,Milwaukee Bucks,Brooklyn Nets,115,108,1.0
+401585636,2024-03-22T00:30Z,Utah Jazz at Dallas Mavericks,Dallas Mavericks,Utah Jazz,113,97,1.0
+401585637,2024-03-22T01:00Z,New York Knicks at Denver Nuggets,Denver Nuggets,New York Knicks,113,100,1.0
+401585638,2024-03-22T02:30Z,Atlanta Hawks at Phoenix Suns,Phoenix Suns,Atlanta Hawks,128,115,1.0
+401585639,2024-03-22T23:00Z,Boston Celtics at Detroit Pistons,Detroit Pistons,Boston Celtics,102,129,0.0
+401585640,2024-03-22T23:00Z,Oklahoma City Thunder at Toronto Raptors,Toronto Raptors,Oklahoma City Thunder,103,123,0.0
+401585641,2024-03-23T00:00Z,New Orleans Pelicans at Miami Heat,Miami Heat,New Orleans Pelicans,88,111,0.0
+401585642,2024-03-23T00:00Z,Cleveland Cavaliers at Minnesota Timberwolves,Minnesota Timberwolves,Cleveland Cavaliers,104,91,1.0
+401585643,2024-03-23T00:00Z,Memphis Grizzlies at San Antonio Spurs,San Antonio Spurs,Memphis Grizzlies,97,99,0.0
+401585644,2024-03-23T02:00Z,Indiana Pacers at Golden State Warriors,Golden State Warriors,Indiana Pacers,111,123,0.0
+401585645,2024-03-23T02:00Z,LA Clippers at Portland Trail Blazers,Portland Trail Blazers,LA Clippers,117,125,0.0
+401585646,2024-03-23T02:30Z,Philadelphia 76ers at Los Angeles Lakers,Los Angeles Lakers,Philadelphia 76ers,101,94,1.0
+401585647,2024-03-23T17:00Z,Brooklyn Nets at New York Knicks,New York Knicks,Brooklyn Nets,105,93,1.0
+401585648,2024-03-23T23:00Z,Sacramento Kings at Orlando Magic,Orlando Magic,Sacramento Kings,107,109,0.0
+401585649,2024-03-23T23:30Z,Charlotte Hornets at Atlanta Hawks,Atlanta Hawks,Charlotte Hornets,132,91,1.0
+401585650,2024-03-24T00:00Z,Toronto Raptors at Washington Wizards,Washington Wizards,Toronto Raptors,112,109,1.0
+401585651,2024-03-24T00:00Z,Boston Celtics at Chicago Bulls,Chicago Bulls,Boston Celtics,113,124,0.0
+401585652,2024-03-24T00:00Z,Utah Jazz at Houston Rockets,Houston Rockets,Utah Jazz,147,119,1.0
+401585653,2024-03-24T00:00Z,Phoenix Suns at San Antonio Spurs,San Antonio Spurs,Phoenix Suns,106,131,0.0
+401585654,2024-03-24T02:00Z,Denver Nuggets at Portland Trail Blazers,Portland Trail Blazers,Denver Nuggets,111,114,0.0
+401585655,2024-03-24T19:00Z,New Orleans Pelicans at Detroit Pistons,Detroit Pistons,New Orleans Pelicans,101,114,0.0
+401585656,2024-03-24T19:30Z,Philadelphia 76ers at LA Clippers,LA Clippers,Philadelphia 76ers,107,121,0.0
+401585657,2024-03-24T22:00Z,Cleveland Cavaliers at Miami Heat,Miami Heat,Cleveland Cavaliers,121,84,1.0
+401585658,2024-03-24T23:00Z,Oklahoma City Thunder at Milwaukee Bucks,Milwaukee Bucks,Oklahoma City Thunder,118,93,1.0
+401585659,2024-03-24T23:00Z,Golden State Warriors at Minnesota Timberwolves,Minnesota Timberwolves,Golden State Warriors,114,110,1.0
+401585660,2024-03-25T02:00Z,Indiana Pacers at Los Angeles Lakers,Los Angeles Lakers,Indiana Pacers,150,145,1.0
+401585661,2024-03-25T23:00Z,Charlotte Hornets at Cleveland Cavaliers,Cleveland Cavaliers,Charlotte Hornets,115,92,1.0
+401585662,2024-03-25T23:30Z,Boston Celtics at Atlanta Hawks,Atlanta Hawks,Boston Celtics,120,118,1.0
+401585663,2024-03-25T23:30Z,Detroit Pistons at New York Knicks,New York Knicks,Detroit Pistons,124,99,1.0
+401585664,2024-03-25T23:30Z,Brooklyn Nets at Toronto Raptors,Toronto Raptors,Brooklyn Nets,88,96,0.0
+401585665,2024-03-26T00:00Z,Washington Wizards at Chicago Bulls,Chicago Bulls,Washington Wizards,105,107,0.0
+401585666,2024-03-26T00:00Z,Portland Trail Blazers at Houston Rockets,Houston Rockets,Portland Trail Blazers,110,92,1.0
+401585667,2024-03-26T00:00Z,Phoenix Suns at San Antonio Spurs,San Antonio Spurs,Phoenix Suns,104,102,1.0
+401585668,2024-03-26T01:00Z,Memphis Grizzlies at Denver Nuggets,Denver Nuggets,Memphis Grizzlies,128,103,1.0
+401585669,2024-03-26T01:00Z,Dallas Mavericks at Utah Jazz,Utah Jazz,Dallas Mavericks,105,115,0.0
+401585670,2024-03-26T02:00Z,Philadelphia 76ers at Sacramento Kings,Sacramento Kings,Philadelphia 76ers,108,96,1.0
+401585671,2024-03-26T02:30Z,Indiana Pacers at LA Clippers,LA Clippers,Indiana Pacers,116,133,0.0
+401585672,2024-03-26T23:30Z,Golden State Warriors at Miami Heat,Miami Heat,Golden State Warriors,92,113,0.0
+401585673,2024-03-26T23:30Z,Los Angeles Lakers at Milwaukee Bucks,Milwaukee Bucks,Los Angeles Lakers,124,128,0.0
+401585674,2024-03-27T00:00Z,Oklahoma City Thunder at New Orleans Pelicans,New Orleans Pelicans,Oklahoma City Thunder,112,119,0.0
+401585675,2024-03-27T02:00Z,Dallas Mavericks at Sacramento Kings,Sacramento Kings,Dallas Mavericks,96,132,0.0
+401585676,2024-03-27T23:00Z,Cleveland Cavaliers at Charlotte Hornets,Charlotte Hornets,Cleveland Cavaliers,118,111,1.0
+401585677,2024-03-27T23:00Z,Golden State Warriors at Orlando Magic,Orlando Magic,Golden State Warriors,93,101,0.0
+401585678,2024-03-27T23:00Z,Brooklyn Nets at Washington Wizards,Washington Wizards,Brooklyn Nets,119,122,0.0
+401585679,2024-03-27T23:30Z,Portland Trail Blazers at Atlanta Hawks,Atlanta Hawks,Portland Trail Blazers,120,106,1.0
+401585680,2024-03-27T23:30Z,LA Clippers at Philadelphia 76ers,Philadelphia 76ers,LA Clippers,107,108,0.0
+401585681,2024-03-27T23:30Z,New York Knicks at Toronto Raptors,Toronto Raptors,New York Knicks,101,145,0.0
+401585682,2024-03-28T00:00Z,Indiana Pacers at Chicago Bulls,Chicago Bulls,Indiana Pacers,125,99,1.0
+401585683,2024-03-28T00:00Z,Los Angeles Lakers at Memphis Grizzlies,Memphis Grizzlies,Los Angeles Lakers,124,136,0.0
+401585684,2024-03-28T00:00Z,Detroit Pistons at Minnesota Timberwolves,Minnesota Timberwolves,Detroit Pistons,106,91,1.0
+401585685,2024-03-28T00:00Z,Houston Rockets at Oklahoma City Thunder,Oklahoma City Thunder,Houston Rockets,126,132,0.0
+401585686,2024-03-28T01:00Z,San Antonio Spurs at Utah Jazz,Utah Jazz,San Antonio Spurs,111,118,0.0
+401585687,2024-03-28T02:00Z,Phoenix Suns at Denver Nuggets,Denver Nuggets,Phoenix Suns,97,104,0.0
+401585688,2024-03-28T23:30Z,Boston Celtics at Atlanta Hawks,Atlanta Hawks,Boston Celtics,123,122,1.0
+401585689,2024-03-29T00:00Z,Milwaukee Bucks at New Orleans Pelicans,New Orleans Pelicans,Milwaukee Bucks,107,100,1.0
+401585690,2024-03-29T23:00Z,Golden State Warriors at Charlotte Hornets,Charlotte Hornets,Golden State Warriors,97,115,0.0
+401585691,2024-03-29T23:00Z,Los Angeles Lakers at Indiana Pacers,Indiana Pacers,Los Angeles Lakers,109,90,1.0
+401585692,2024-03-29T23:00Z,LA Clippers at Orlando Magic,Orlando Magic,LA Clippers,97,100,0.0
+401585693,2024-03-29T23:00Z,Detroit Pistons at Washington Wizards,Washington Wizards,Detroit Pistons,87,96,0.0
+401585694,2024-03-29T23:30Z,Chicago Bulls at Brooklyn Nets,Brooklyn Nets,Chicago Bulls,125,108,1.0
+401585695,2024-03-29T23:30Z,Philadelphia 76ers at Cleveland Cavaliers,Cleveland Cavaliers,Philadelphia 76ers,117,114,1.0
+401585696,2024-03-30T00:00Z,Portland Trail Blazers at Miami Heat,Miami Heat,Portland Trail Blazers,142,82,1.0
+401585697,2024-03-30T00:00Z,Phoenix Suns at Oklahoma City Thunder,Oklahoma City Thunder,Phoenix Suns,128,103,1.0
+401585698,2024-03-30T00:00Z,New York Knicks at San Antonio Spurs,San Antonio Spurs,New York Knicks,130,126,1.0
+401585699,2024-03-30T01:00Z,Minnesota Timberwolves at Denver Nuggets,Denver Nuggets,Minnesota Timberwolves,98,111,0.0
+401585700,2024-03-30T01:30Z,Houston Rockets at Utah Jazz,Utah Jazz,Houston Rockets,100,101,0.0
+401585701,2024-03-30T02:00Z,Dallas Mavericks at Sacramento Kings,Sacramento Kings,Dallas Mavericks,103,107,0.0
+401585702,2024-03-30T21:00Z,Boston Celtics at New Orleans Pelicans,New Orleans Pelicans,Boston Celtics,92,104,0.0
+401585703,2024-03-30T23:00Z,Memphis Grizzlies at Orlando Magic,Orlando Magic,Memphis Grizzlies,118,88,1.0
+401585704,2024-03-30T23:30Z,Milwaukee Bucks at Atlanta Hawks,Atlanta Hawks,Milwaukee Bucks,113,122,0.0
+401585705,2024-03-31T19:30Z,Cleveland Cavaliers at Denver Nuggets,Denver Nuggets,Cleveland Cavaliers,130,101,1.0
+401585706,2024-03-31T22:00Z,Los Angeles Lakers at Brooklyn Nets,Brooklyn Nets,Los Angeles Lakers,104,116,0.0
+401585707,2024-03-31T22:00Z,LA Clippers at Charlotte Hornets,Charlotte Hornets,LA Clippers,118,130,0.0
+401585708,2024-03-31T22:00Z,Philadelphia 76ers at Toronto Raptors,Toronto Raptors,Philadelphia 76ers,120,135,0.0
+401585709,2024-03-31T22:00Z,Miami Heat at Washington Wizards,Washington Wizards,Miami Heat,107,119,0.0
+401585710,2024-03-31T23:00Z,Oklahoma City Thunder at New York Knicks,New York Knicks,Oklahoma City Thunder,112,113,0.0
+401585711,2024-03-31T23:00Z,Dallas Mavericks at Houston Rockets,Houston Rockets,Dallas Mavericks,107,125,0.0
+401585712,2024-03-31T23:00Z,Chicago Bulls at Minnesota Timberwolves,Minnesota Timberwolves,Chicago Bulls,101,109,0.0
+401585713,2024-03-31T23:00Z,Golden State Warriors at San Antonio Spurs,San Antonio Spurs,Golden State Warriors,113,117,0.0
+401585714,2024-04-01T01:00Z,Utah Jazz at Sacramento Kings,Sacramento Kings,Utah Jazz,127,106,1.0

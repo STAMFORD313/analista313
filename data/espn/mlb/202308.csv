@@ -1,0 +1,416 @@
+id,date,event,home,away,hs,as,res
+401472629,2023-08-01T22:40Z,Philadelphia Phillies at Miami Marlins,Miami Marlins,Philadelphia Phillies,1,3,0.0
+401472625,2023-08-01T23:05Z,Milwaukee Brewers at Washington Nationals,Washington Nationals,Milwaukee Brewers,4,6,0.0
+401472630,2023-08-01T23:05Z,Tampa Bay Rays at New York Yankees,New York Yankees,Tampa Bay Rays,2,5,0.0
+401472631,2023-08-01T23:05Z,Detroit Tigers at Pittsburgh Pirates,Pittsburgh Pirates,Detroit Tigers,4,1,1.0
+401472620,2023-08-01T23:07Z,Baltimore Orioles at Toronto Blue Jays,Toronto Blue Jays,Baltimore Orioles,3,13,0.0
+401472618,2023-08-01T23:20Z,Los Angeles Angels at Atlanta Braves,Atlanta Braves,Los Angeles Angels,5,1,1.0
+401472626,2023-08-01T23:45Z,Minnesota Twins at St. Louis Cardinals,St. Louis Cardinals,Minnesota Twins,2,3,0.0
+401472622,2023-08-02T00:05Z,Chicago White Sox at Texas Rangers,Texas Rangers,Chicago White Sox,2,0,1.0
+401472623,2023-08-02T00:05Z,Cincinnati Reds at Chicago Cubs,Chicago Cubs,Cincinnati Reds,20,9,1.0
+401472624,2023-08-02T00:10Z,Cleveland Guardians at Houston Astros,Houston Astros,Cleveland Guardians,2,0,1.0
+401472627,2023-08-02T00:10Z,New York Mets at Kansas City Royals,Kansas City Royals,New York Mets,7,6,1.0
+401472632,2023-08-02T00:40Z,San Diego Padres at Colorado Rockies,Colorado Rockies,San Diego Padres,5,8,0.0
+401472621,2023-08-02T01:40Z,Boston Red Sox at Seattle Mariners,Seattle Mariners,Boston Red Sox,4,6,0.0
+401472619,2023-08-02T01:45Z,Arizona Diamondbacks at San Francisco Giants,San Francisco Giants,Arizona Diamondbacks,4,3,1.0
+401472628,2023-08-02T02:10Z,Oakland Athletics at Los Angeles Dodgers,Los Angeles Dodgers,Oakland Athletics,7,3,1.0
+401472633,2023-08-02T16:20Z,Los Angeles Angels at Atlanta Braves,Atlanta Braves,Los Angeles Angels,12,5,1.0
+401472646,2023-08-02T16:35Z,Detroit Tigers at Pittsburgh Pirates,Pittsburgh Pirates,Detroit Tigers,3,6,0.0
+401472640,2023-08-02T17:05Z,Milwaukee Brewers at Washington Nationals,Washington Nationals,Milwaukee Brewers,3,2,1.0
+401472639,2023-08-02T18:10Z,Cleveland Guardians at Houston Astros,Houston Astros,Cleveland Guardians,3,2,1.0
+401472647,2023-08-02T19:10Z,San Diego Padres at Colorado Rockies,Colorado Rockies,San Diego Padres,1,11,0.0
+401472636,2023-08-02T20:10Z,Boston Red Sox at Seattle Mariners,Seattle Mariners,Boston Red Sox,6,3,1.0
+401472644,2023-08-02T22:40Z,Philadelphia Phillies at Miami Marlins,Miami Marlins,Philadelphia Phillies,9,8,1.0
+401472645,2023-08-02T23:05Z,Tampa Bay Rays at New York Yankees,New York Yankees,Tampa Bay Rays,7,2,1.0
+401472635,2023-08-02T23:07Z,Baltimore Orioles at Toronto Blue Jays,Toronto Blue Jays,Baltimore Orioles,4,1,1.0
+401472641,2023-08-02T23:45Z,Minnesota Twins at St. Louis Cardinals,St. Louis Cardinals,Minnesota Twins,7,3,1.0
+401472637,2023-08-03T00:05Z,Chicago White Sox at Texas Rangers,Texas Rangers,Chicago White Sox,11,1,1.0
+401472638,2023-08-03T00:05Z,Cincinnati Reds at Chicago Cubs,Chicago Cubs,Cincinnati Reds,16,6,1.0
+401472642,2023-08-03T00:10Z,New York Mets at Kansas City Royals,Kansas City Royals,New York Mets,4,0,1.0
+401472634,2023-08-03T01:45Z,Arizona Diamondbacks at San Francisco Giants,San Francisco Giants,Arizona Diamondbacks,4,2,1.0
+401472643,2023-08-03T02:10Z,Oakland Athletics at Los Angeles Dodgers,Los Angeles Dodgers,Oakland Athletics,10,1,1.0
+401472656,2023-08-03T16:10Z,Philadelphia Phillies at Miami Marlins,Miami Marlins,Philadelphia Phillies,2,4,0.0
+401472650,2023-08-03T18:05Z,Chicago White Sox at Texas Rangers,Texas Rangers,Chicago White Sox,5,3,1.0
+401472654,2023-08-03T18:10Z,New York Mets at Kansas City Royals,Kansas City Royals,New York Mets,9,2,1.0
+401472649,2023-08-03T19:07Z,Baltimore Orioles at Toronto Blue Jays,Toronto Blue Jays,Baltimore Orioles,1,6,0.0
+401472648,2023-08-03T19:45Z,Arizona Diamondbacks at San Francisco Giants,San Francisco Giants,Arizona Diamondbacks,1,0,1.0
+401472652,2023-08-03T23:15Z,Houston Astros at New York Yankees,New York Yankees,Houston Astros,4,3,1.0
+401472657,2023-08-03T23:15Z,Pittsburgh Pirates at Milwaukee Brewers,Milwaukee Brewers,Pittsburgh Pirates,14,1,1.0
+401472653,2023-08-03T23:45Z,Minnesota Twins at St. Louis Cardinals,St. Louis Cardinals,Minnesota Twins,3,5,0.0
+401472651,2023-08-04T00:05Z,Cincinnati Reds at Chicago Cubs,Chicago Cubs,Cincinnati Reds,5,3,1.0
+401472658,2023-08-04T01:38Z,Seattle Mariners at Los Angeles Angels,Los Angeles Angels,Seattle Mariners,3,5,0.0
+401472655,2023-08-04T02:10Z,Oakland Athletics at Los Angeles Dodgers,Los Angeles Dodgers,Oakland Athletics,8,2,1.0
+401472660,2023-08-04T18:20Z,Atlanta Braves at Chicago Cubs,Chicago Cubs,Atlanta Braves,0,8,0.0
+401472669,2023-08-04T22:40Z,Tampa Bay Rays at Detroit Tigers,Detroit Tigers,Tampa Bay Rays,0,8,0.0
+401472671,2023-08-04T22:40Z,Washington Nationals at Cincinnati Reds,Cincinnati Reds,Washington Nationals,3,6,0.0
+401472663,2023-08-04T23:05Z,Houston Astros at New York Yankees,New York Yankees,Houston Astros,3,7,0.0
+401472664,2023-08-04T23:05Z,Kansas City Royals at Philadelphia Phillies,Philadelphia Phillies,Kansas City Royals,5,7,0.0
+401472666,2023-08-04T23:05Z,New York Mets at Baltimore Orioles,Baltimore Orioles,New York Mets,10,3,1.0
+401472661,2023-08-04T23:10Z,Chicago White Sox at Cleveland Guardians,Cleveland Guardians,Chicago White Sox,4,2,1.0
+401472670,2023-08-04T23:10Z,Toronto Blue Jays at Boston Red Sox,Boston Red Sox,Toronto Blue Jays,3,7,0.0
+401472665,2023-08-05T00:05Z,Miami Marlins at Texas Rangers,Texas Rangers,Miami Marlins,6,2,1.0
+401472659,2023-08-05T00:10Z,Arizona Diamondbacks at Minnesota Twins,Minnesota Twins,Arizona Diamondbacks,3,2,1.0
+401472667,2023-08-05T00:10Z,Pittsburgh Pirates at Milwaukee Brewers,Milwaukee Brewers,Pittsburgh Pirates,4,8,0.0
+401472662,2023-08-05T00:15Z,Colorado Rockies at St. Louis Cardinals,St. Louis Cardinals,Colorado Rockies,4,9,0.0
+401472668,2023-08-05T01:38Z,Seattle Mariners at Los Angeles Angels,Los Angeles Angels,Seattle Mariners,7,9,0.0
+401472672,2023-08-05T01:40Z,Los Angeles Dodgers at San Diego Padres,San Diego Padres,Los Angeles Dodgers,5,10,0.0
+401472677,2023-08-05T17:05Z,Houston Astros at New York Yankees,New York Yankees,Houston Astros,3,1,1.0
+401472684,2023-08-05T17:10Z,Tampa Bay Rays at Detroit Tigers,Detroit Tigers,Tampa Bay Rays,4,2,1.0
+401472674,2023-08-05T18:20Z,Atlanta Braves at Chicago Cubs,Chicago Cubs,Atlanta Braves,8,6,1.0
+401472679,2023-08-05T20:05Z,Miami Marlins at Texas Rangers,Texas Rangers,Miami Marlins,9,8,1.0
+401472685,2023-08-05T20:10Z,Toronto Blue Jays at Boston Red Sox,Boston Red Sox,Toronto Blue Jays,4,5,0.0
+401472686,2023-08-05T20:10Z,Washington Nationals at Cincinnati Reds,Cincinnati Reds,Washington Nationals,3,7,0.0
+401472678,2023-08-05T22:05Z,Kansas City Royals at Philadelphia Phillies,Philadelphia Phillies,Kansas City Royals,9,6,1.0
+401472680,2023-08-05T23:05Z,New York Mets at Baltimore Orioles,Baltimore Orioles,New York Mets,7,3,1.0
+401472683,2023-08-05T23:07Z,San Francisco Giants at Oakland Athletics,Oakland Athletics,San Francisco Giants,2,1,1.0
+401472675,2023-08-05T23:10Z,Chicago White Sox at Cleveland Guardians,Cleveland Guardians,Chicago White Sox,4,7,0.0
+401472681,2023-08-05T23:10Z,Pittsburgh Pirates at Milwaukee Brewers,Milwaukee Brewers,Pittsburgh Pirates,3,2,1.0
+401472676,2023-08-05T23:15Z,Colorado Rockies at St. Louis Cardinals,St. Louis Cardinals,Colorado Rockies,6,2,1.0
+401472673,2023-08-05T23:30Z,Arizona Diamondbacks at Minnesota Twins,Minnesota Twins,Arizona Diamondbacks,12,1,1.0
+401472687,2023-08-06T00:40Z,Los Angeles Dodgers at San Diego Padres,San Diego Padres,Los Angeles Dodgers,8,3,1.0
+401472682,2023-08-06T01:07Z,Seattle Mariners at Los Angeles Angels,Los Angeles Angels,Seattle Mariners,2,3,0.0
+401472690,2023-08-06T16:05Z,Chicago White Sox at Cleveland Guardians,Cleveland Guardians,Chicago White Sox,3,5,0.0
+401472692,2023-08-06T17:35Z,Houston Astros at New York Yankees,New York Yankees,Houston Astros,7,9,0.0
+401472693,2023-08-06T17:35Z,Kansas City Royals at Philadelphia Phillies,Philadelphia Phillies,Kansas City Royals,8,4,1.0
+401472695,2023-08-06T17:35Z,New York Mets at Baltimore Orioles,Baltimore Orioles,New York Mets,2,0,1.0
+401472700,2023-08-06T17:35Z,Toronto Blue Jays at Boston Red Sox,Boston Red Sox,Toronto Blue Jays,1,13,0.0
+401472699,2023-08-06T17:40Z,Tampa Bay Rays at Detroit Tigers,Detroit Tigers,Tampa Bay Rays,6,10,0.0
+401472701,2023-08-06T17:40Z,Washington Nationals at Cincinnati Reds,Cincinnati Reds,Washington Nationals,3,6,0.0
+401472688,2023-08-06T18:10Z,Arizona Diamondbacks at Minnesota Twins,Minnesota Twins,Arizona Diamondbacks,5,3,1.0
+401472696,2023-08-06T18:10Z,Pittsburgh Pirates at Milwaukee Brewers,Milwaukee Brewers,Pittsburgh Pirates,1,4,0.0
+401472691,2023-08-06T18:15Z,Colorado Rockies at St. Louis Cardinals,St. Louis Cardinals,Colorado Rockies,0,1,0.0
+401472689,2023-08-06T18:20Z,Atlanta Braves at Chicago Cubs,Chicago Cubs,Atlanta Braves,6,4,1.0
+401472694,2023-08-06T18:35Z,Miami Marlins at Texas Rangers,Texas Rangers,Miami Marlins,6,0,1.0
+401472697,2023-08-06T20:07Z,Seattle Mariners at Los Angeles Angels,Los Angeles Angels,Seattle Mariners,2,3,0.0
+401472698,2023-08-06T20:07Z,San Francisco Giants at Oakland Athletics,Oakland Athletics,San Francisco Giants,8,6,1.0
+401472702,2023-08-06T23:00Z,Los Angeles Dodgers at San Diego Padres,San Diego Padres,Los Angeles Dodgers,2,8,0.0
+401472713,2023-08-07T20:10Z,Los Angeles Dodgers at San Diego Padres,San Diego Padres,Los Angeles Dodgers,7,13,0.0
+401472706,2023-08-07T22:40Z,Miami Marlins at Cincinnati Reds,Cincinnati Reds,Miami Marlins,5,2,1.0
+401472707,2023-08-07T22:40Z,Minnesota Twins at Detroit Tigers,Detroit Tigers,Minnesota Twins,3,9,0.0
+401472712,2023-08-07T22:40Z,Washington Nationals at Philadelphia Phillies,Philadelphia Phillies,Washington Nationals,0,0,0.5
+401472714,2023-08-07T23:05Z,Atlanta Braves at Pittsburgh Pirates,Pittsburgh Pirates,Atlanta Braves,7,6,1.0
+401472703,2023-08-07T23:10Z,Chicago Cubs at New York Mets,New York Mets,Chicago Cubs,11,2,1.0
+401472705,2023-08-07T23:10Z,Kansas City Royals at Boston Red Sox,Boston Red Sox,Kansas City Royals,6,2,1.0
+401472711,2023-08-07T23:10Z,Toronto Blue Jays at Cleveland Guardians,Cleveland Guardians,Toronto Blue Jays,1,3,0.0
+401472704,2023-08-08T00:10Z,Colorado Rockies at Milwaukee Brewers,Milwaukee Brewers,Colorado Rockies,12,1,1.0
+401472708,2023-08-08T00:10Z,New York Yankees at Chicago White Sox,Chicago White Sox,New York Yankees,5,1,1.0
+401472709,2023-08-08T01:38Z,San Francisco Giants at Los Angeles Angels,Los Angeles Angels,San Francisco Giants,3,8,0.0
+401472710,2023-08-08T01:40Z,Texas Rangers at Oakland Athletics,Oakland Athletics,Texas Rangers,3,5,0.0
+401472728,2023-08-08T20:05Z,Washington Nationals at Philadelphia Phillies,Philadelphia Phillies,Washington Nationals,8,4,1.0
+401472720,2023-08-08T22:40Z,Miami Marlins at Cincinnati Reds,Cincinnati Reds,Miami Marlins,2,3,0.0
+401472721,2023-08-08T22:40Z,Minnesota Twins at Detroit Tigers,Detroit Tigers,Minnesota Twins,6,0,1.0
+401472725,2023-08-08T22:40Z,St. Louis Cardinals at Tampa Bay Rays,Tampa Bay Rays,St. Louis Cardinals,4,2,1.0
+401472717,2023-08-08T23:05Z,Houston Astros at Baltimore Orioles,Baltimore Orioles,Houston Astros,6,7,0.0
+401472729,2023-08-08T23:05Z,Atlanta Braves at Pittsburgh Pirates,Pittsburgh Pirates,Atlanta Braves,6,8,0.0
+401472715,2023-08-08T23:10Z,Chicago Cubs at New York Mets,New York Mets,Chicago Cubs,2,3,0.0
+401472718,2023-08-08T23:10Z,Kansas City Royals at Boston Red Sox,Boston Red Sox,Kansas City Royals,3,9,0.0
+401472727,2023-08-08T23:10Z,Toronto Blue Jays at Cleveland Guardians,Cleveland Guardians,Toronto Blue Jays,1,0,1.0
+401580321,2023-08-08T23:20Z,Washington Nationals at Philadelphia Phillies,Philadelphia Phillies,Washington Nationals,4,5,0.0
+401472716,2023-08-09T00:10Z,Colorado Rockies at Milwaukee Brewers,Milwaukee Brewers,Colorado Rockies,3,7,0.0
+401472722,2023-08-09T00:10Z,New York Yankees at Chicago White Sox,Chicago White Sox,New York Yankees,1,7,0.0
+401472724,2023-08-09T01:38Z,San Francisco Giants at Los Angeles Angels,Los Angeles Angels,San Francisco Giants,7,5,1.0
+401472719,2023-08-09T01:40Z,Los Angeles Dodgers at Arizona Diamondbacks,Arizona Diamondbacks,Los Angeles Dodgers,4,5,0.0
+401472723,2023-08-09T01:40Z,San Diego Padres at Seattle Mariners,Seattle Mariners,San Diego Padres,2,0,1.0
+401472726,2023-08-09T01:40Z,Texas Rangers at Oakland Athletics,Oakland Athletics,Texas Rangers,1,6,0.0
+401472735,2023-08-09T16:35Z,Miami Marlins at Cincinnati Reds,Cincinnati Reds,Miami Marlins,4,5,0.0
+401472731,2023-08-09T18:10Z,Colorado Rockies at Milwaukee Brewers,Milwaukee Brewers,Colorado Rockies,7,6,1.0
+401472741,2023-08-09T19:37Z,Texas Rangers at Oakland Athletics,Oakland Athletics,Texas Rangers,2,0,1.0
+401472736,2023-08-09T22:40Z,Minnesota Twins at Detroit Tigers,Detroit Tigers,Minnesota Twins,9,5,1.0
+401472740,2023-08-09T22:40Z,St. Louis Cardinals at Tampa Bay Rays,Tampa Bay Rays,St. Louis Cardinals,4,6,0.0
+401472743,2023-08-09T22:40Z,Washington Nationals at Philadelphia Phillies,Philadelphia Phillies,Washington Nationals,7,0,1.0
+401472732,2023-08-09T23:05Z,Houston Astros at Baltimore Orioles,Baltimore Orioles,Houston Astros,2,8,0.0
+401472744,2023-08-09T23:05Z,Atlanta Braves at Pittsburgh Pirates,Pittsburgh Pirates,Atlanta Braves,5,6,0.0
+401472730,2023-08-09T23:10Z,Chicago Cubs at New York Mets,New York Mets,Chicago Cubs,4,3,1.0
+401472733,2023-08-09T23:10Z,Kansas City Royals at Boston Red Sox,Boston Red Sox,Kansas City Royals,4,3,1.0
+401472742,2023-08-09T23:10Z,Toronto Blue Jays at Cleveland Guardians,Cleveland Guardians,Toronto Blue Jays,0,1,0.0
+401472737,2023-08-10T00:10Z,New York Yankees at Chicago White Sox,Chicago White Sox,New York Yankees,9,2,1.0
+401472739,2023-08-10T01:38Z,San Francisco Giants at Los Angeles Angels,Los Angeles Angels,San Francisco Giants,4,1,1.0
+401472734,2023-08-10T01:40Z,Los Angeles Dodgers at Arizona Diamondbacks,Arizona Diamondbacks,Los Angeles Dodgers,0,2,0.0
+401472738,2023-08-10T01:40Z,San Diego Padres at Seattle Mariners,Seattle Mariners,San Diego Padres,6,1,1.0
+401472746,2023-08-10T16:35Z,Houston Astros at Baltimore Orioles,Baltimore Orioles,Houston Astros,5,4,1.0
+401472752,2023-08-10T16:35Z,Atlanta Braves at Pittsburgh Pirates,Pittsburgh Pirates,Atlanta Braves,7,5,1.0
+401472748,2023-08-10T17:10Z,Minnesota Twins at Detroit Tigers,Detroit Tigers,Minnesota Twins,3,0,1.0
+401472750,2023-08-10T17:10Z,Toronto Blue Jays at Cleveland Guardians,Cleveland Guardians,Toronto Blue Jays,4,3,1.0
+401472749,2023-08-10T22:40Z,St. Louis Cardinals at Tampa Bay Rays,Tampa Bay Rays,St. Louis Cardinals,2,5,0.0
+401472751,2023-08-10T22:40Z,Washington Nationals at Philadelphia Phillies,Philadelphia Phillies,Washington Nationals,6,2,1.0
+401472747,2023-08-10T23:10Z,Kansas City Royals at Boston Red Sox,Boston Red Sox,Kansas City Royals,2,0,1.0
+401472745,2023-08-11T02:10Z,Colorado Rockies at Los Angeles Dodgers,Los Angeles Dodgers,Colorado Rockies,2,1,1.0
+401472757,2023-08-11T22:40Z,Cleveland Guardians at Tampa Bay Rays,Tampa Bay Rays,Cleveland Guardians,9,8,1.0
+401472762,2023-08-11T22:40Z,New York Yankees at Miami Marlins,Miami Marlins,New York Yankees,4,9,0.0
+401472761,2023-08-11T23:05Z,Minnesota Twins at Philadelphia Phillies,Philadelphia Phillies,Minnesota Twins,13,2,1.0
+401472763,2023-08-11T23:05Z,Oakland Athletics at Washington Nationals,Washington Nationals,Oakland Athletics,8,2,1.0
+401472767,2023-08-11T23:05Z,Cincinnati Reds at Pittsburgh Pirates,Pittsburgh Pirates,Cincinnati Reds,2,9,0.0
+401472756,2023-08-11T23:07Z,Chicago Cubs at Toronto Blue Jays,Toronto Blue Jays,Chicago Cubs,2,6,0.0
+401472754,2023-08-11T23:10Z,Atlanta Braves at New York Mets,New York Mets,Atlanta Braves,0,7,0.0
+401472759,2023-08-11T23:10Z,Detroit Tigers at Boston Red Sox,Boston Red Sox,Detroit Tigers,5,2,1.0
+401472753,2023-08-12T00:10Z,Los Angeles Angels at Houston Astros,Houston Astros,Los Angeles Angels,11,3,1.0
+401472760,2023-08-12T00:10Z,Milwaukee Brewers at Chicago White Sox,Chicago White Sox,Milwaukee Brewers,6,7,0.0
+401472765,2023-08-12T00:10Z,St. Louis Cardinals at Kansas City Royals,Kansas City Royals,St. Louis Cardinals,12,8,1.0
+401472764,2023-08-12T01:40Z,San Diego Padres at Arizona Diamondbacks,Arizona Diamondbacks,San Diego Padres,5,10,0.0
+401472755,2023-08-12T02:10Z,Baltimore Orioles at Seattle Mariners,Seattle Mariners,Baltimore Orioles,9,2,1.0
+401472758,2023-08-12T02:10Z,Colorado Rockies at Los Angeles Dodgers,Los Angeles Dodgers,Colorado Rockies,6,1,1.0
+401472766,2023-08-12T02:15Z,Texas Rangers at San Francisco Giants,San Francisco Giants,Texas Rangers,1,2,0.0
+401545240,2023-08-12T17:10Z,Atlanta Braves at New York Mets,New York Mets,Atlanta Braves,3,21,0.0
+401472771,2023-08-12T19:07Z,Chicago Cubs at Toronto Blue Jays,Toronto Blue Jays,Chicago Cubs,4,5,0.0
+401472772,2023-08-12T20:10Z,Cleveland Guardians at Tampa Bay Rays,Tampa Bay Rays,Cleveland Guardians,6,5,1.0
+401472774,2023-08-12T20:10Z,Detroit Tigers at Boston Red Sox,Boston Red Sox,Detroit Tigers,2,6,0.0
+401472777,2023-08-12T20:10Z,New York Yankees at Miami Marlins,Miami Marlins,New York Yankees,3,1,1.0
+401472776,2023-08-12T22:05Z,Minnesota Twins at Philadelphia Phillies,Philadelphia Phillies,Minnesota Twins,1,8,0.0
+401472778,2023-08-12T23:05Z,Oakland Athletics at Washington Nationals,Washington Nationals,Oakland Athletics,3,2,1.0
+401472782,2023-08-12T23:05Z,Cincinnati Reds at Pittsburgh Pirates,Pittsburgh Pirates,Cincinnati Reds,0,0,0.5
+401472768,2023-08-12T23:15Z,Los Angeles Angels at Houston Astros,Houston Astros,Los Angeles Angels,11,3,1.0
+401472769,2023-08-12T23:15Z,Atlanta Braves at New York Mets,New York Mets,Atlanta Braves,0,6,0.0
+401472775,2023-08-12T23:15Z,Milwaukee Brewers at Chicago White Sox,Chicago White Sox,Milwaukee Brewers,2,3,0.0
+401472780,2023-08-12T23:15Z,St. Louis Cardinals at Kansas City Royals,Kansas City Royals,St. Louis Cardinals,4,5,0.0
+401472779,2023-08-13T00:10Z,San Diego Padres at Arizona Diamondbacks,Arizona Diamondbacks,San Diego Padres,3,0,1.0
+401472781,2023-08-13T01:05Z,Texas Rangers at San Francisco Giants,San Francisco Giants,Texas Rangers,3,9,0.0
+401472773,2023-08-13T01:10Z,Colorado Rockies at Los Angeles Dodgers,Los Angeles Dodgers,Colorado Rockies,4,1,1.0
+401472770,2023-08-13T01:40Z,Baltimore Orioles at Seattle Mariners,Seattle Mariners,Baltimore Orioles,0,1,0.0
+401472789,2023-08-13T16:05Z,Detroit Tigers at Boston Red Sox,Boston Red Sox,Detroit Tigers,6,3,1.0
+401472791,2023-08-13T17:35Z,Minnesota Twins at Philadelphia Phillies,Philadelphia Phillies,Minnesota Twins,0,3,0.0
+401472793,2023-08-13T17:35Z,Oakland Athletics at Washington Nationals,Washington Nationals,Oakland Athletics,8,7,1.0
+401472796,2023-08-13T17:35Z,Cincinnati Reds at Pittsburgh Pirates,Pittsburgh Pirates,Cincinnati Reds,4,2,1.0
+401472786,2023-08-13T17:37Z,Chicago Cubs at Toronto Blue Jays,Toronto Blue Jays,Chicago Cubs,11,4,1.0
+401472787,2023-08-13T17:40Z,Cleveland Guardians at Tampa Bay Rays,Tampa Bay Rays,Cleveland Guardians,2,9,0.0
+401472792,2023-08-13T17:40Z,New York Yankees at Miami Marlins,Miami Marlins,New York Yankees,8,7,1.0
+401472783,2023-08-13T18:10Z,Los Angeles Angels at Houston Astros,Houston Astros,Los Angeles Angels,1,2,0.0
+401472790,2023-08-13T18:10Z,Milwaukee Brewers at Chicago White Sox,Chicago White Sox,Milwaukee Brewers,3,7,0.0
+401472795,2023-08-13T20:05Z,Texas Rangers at San Francisco Giants,San Francisco Giants,Texas Rangers,3,2,1.0
+401472785,2023-08-13T20:10Z,Baltimore Orioles at Seattle Mariners,Seattle Mariners,Baltimore Orioles,3,5,0.0
+401472788,2023-08-13T20:10Z,Colorado Rockies at Los Angeles Dodgers,Los Angeles Dodgers,Colorado Rockies,8,3,1.0
+401472794,2023-08-13T20:10Z,San Diego Padres at Arizona Diamondbacks,Arizona Diamondbacks,San Diego Padres,5,4,1.0
+401583489,2023-08-13T22:05Z,Cincinnati Reds at Pittsburgh Pirates,Pittsburgh Pirates,Cincinnati Reds,5,6,0.0
+401472784,2023-08-13T23:00Z,Atlanta Braves at New York Mets,New York Mets,Atlanta Braves,7,6,1.0
+401472798,2023-08-14T22:40Z,Houston Astros at Miami Marlins,Miami Marlins,Houston Astros,5,1,1.0
+401472801,2023-08-14T23:10Z,Pittsburgh Pirates at New York Mets,New York Mets,Pittsburgh Pirates,7,2,1.0
+401472799,2023-08-14T23:20Z,New York Yankees at Atlanta Braves,Atlanta Braves,New York Yankees,11,3,1.0
+401472800,2023-08-14T23:45Z,Oakland Athletics at St. Louis Cardinals,St. Louis Cardinals,Oakland Athletics,7,5,1.0
+401472797,2023-08-15T00:05Z,Los Angeles Angels at Texas Rangers,Texas Rangers,Los Angeles Angels,12,0,1.0
+401472802,2023-08-15T00:10Z,Seattle Mariners at Kansas City Royals,Kansas City Royals,Seattle Mariners,7,6,1.0
+401472804,2023-08-15T00:40Z,Arizona Diamondbacks at Colorado Rockies,Colorado Rockies,Arizona Diamondbacks,6,4,1.0
+401472805,2023-08-15T01:40Z,Baltimore Orioles at San Diego Padres,San Diego Padres,Baltimore Orioles,1,4,0.0
+401472803,2023-08-15T01:45Z,Tampa Bay Rays at San Francisco Giants,San Francisco Giants,Tampa Bay Rays,2,10,0.0
+401472809,2023-08-15T22:40Z,Cleveland Guardians at Cincinnati Reds,Cincinnati Reds,Cleveland Guardians,0,3,0.0
+401472811,2023-08-15T22:40Z,Houston Astros at Miami Marlins,Miami Marlins,Houston Astros,5,6,0.0
+401472807,2023-08-15T23:05Z,Boston Red Sox at Washington Nationals,Washington Nationals,Boston Red Sox,4,5,0.0
+401472815,2023-08-15T23:07Z,Philadelphia Phillies at Toronto Blue Jays,Toronto Blue Jays,Philadelphia Phillies,2,1,1.0
+401472816,2023-08-15T23:10Z,Pittsburgh Pirates at New York Mets,New York Mets,Pittsburgh Pirates,4,7,0.0
+401472813,2023-08-15T23:20Z,New York Yankees at Atlanta Braves,Atlanta Braves,New York Yankees,5,0,1.0
+401472810,2023-08-15T23:40Z,Detroit Tigers at Minnesota Twins,Minnesota Twins,Detroit Tigers,5,3,1.0
+401472814,2023-08-15T23:45Z,Oakland Athletics at St. Louis Cardinals,St. Louis Cardinals,Oakland Athletics,6,2,1.0
+401472806,2023-08-16T00:05Z,Los Angeles Angels at Texas Rangers,Texas Rangers,Los Angeles Angels,7,3,1.0
+401472808,2023-08-16T00:05Z,Chicago White Sox at Chicago Cubs,Chicago Cubs,Chicago White Sox,3,5,0.0
+401472817,2023-08-16T00:10Z,Seattle Mariners at Kansas City Royals,Kansas City Royals,Seattle Mariners,8,10,0.0
+401472819,2023-08-16T00:40Z,Arizona Diamondbacks at Colorado Rockies,Colorado Rockies,Arizona Diamondbacks,5,8,0.0
+401472820,2023-08-16T01:40Z,Baltimore Orioles at San Diego Padres,San Diego Padres,Baltimore Orioles,10,3,1.0
+401472818,2023-08-16T01:45Z,Tampa Bay Rays at San Francisco Giants,San Francisco Giants,Tampa Bay Rays,7,0,1.0
+401472812,2023-08-16T02:10Z,Milwaukee Brewers at Los Angeles Dodgers,Los Angeles Dodgers,Milwaukee Brewers,6,2,1.0
+401472825,2023-08-16T17:10Z,Detroit Tigers at Minnesota Twins,Minnesota Twins,Detroit Tigers,7,8,0.0
+401472831,2023-08-16T17:10Z,Pittsburgh Pirates at New York Mets,New York Mets,Pittsburgh Pirates,8,3,1.0
+401472834,2023-08-16T19:10Z,Arizona Diamondbacks at Colorado Rockies,Colorado Rockies,Arizona Diamondbacks,7,9,0.0
+401472833,2023-08-16T19:45Z,Tampa Bay Rays at San Francisco Giants,San Francisco Giants,Tampa Bay Rays,1,6,0.0
+401472824,2023-08-16T22:40Z,Cleveland Guardians at Cincinnati Reds,Cincinnati Reds,Cleveland Guardians,7,2,1.0
+401472826,2023-08-16T22:40Z,Houston Astros at Miami Marlins,Miami Marlins,Houston Astros,5,12,0.0
+401472829,2023-08-16T22:45Z,Oakland Athletics at St. Louis Cardinals,St. Louis Cardinals,Oakland Athletics,0,8,0.0
+401472822,2023-08-16T23:05Z,Boston Red Sox at Washington Nationals,Washington Nationals,Boston Red Sox,6,2,1.0
+401472830,2023-08-16T23:07Z,Philadelphia Phillies at Toronto Blue Jays,Toronto Blue Jays,Philadelphia Phillies,4,9,0.0
+401472828,2023-08-16T23:20Z,New York Yankees at Atlanta Braves,Atlanta Braves,New York Yankees,2,0,1.0
+401472821,2023-08-17T00:05Z,Los Angeles Angels at Texas Rangers,Texas Rangers,Los Angeles Angels,0,2,0.0
+401472823,2023-08-17T00:05Z,Chicago White Sox at Chicago Cubs,Chicago Cubs,Chicago White Sox,4,3,1.0
+401472832,2023-08-17T00:10Z,Seattle Mariners at Kansas City Royals,Kansas City Royals,Seattle Mariners,5,6,0.0
+401472835,2023-08-17T00:40Z,Baltimore Orioles at San Diego Padres,San Diego Padres,Baltimore Orioles,5,2,1.0
+401472827,2023-08-17T02:10Z,Milwaukee Brewers at Los Angeles Dodgers,Los Angeles Dodgers,Milwaukee Brewers,7,1,1.0
+401472840,2023-08-17T18:10Z,Seattle Mariners at Kansas City Royals,Kansas City Royals,Seattle Mariners,4,6,0.0
+401472836,2023-08-17T20:05Z,Boston Red Sox at Washington Nationals,Washington Nationals,Boston Red Sox,10,7,1.0
+401472837,2023-08-17T23:15Z,Detroit Tigers at Cleveland Guardians,Cleveland Guardians,Detroit Tigers,0,0,0.5
+401472839,2023-08-17T23:15Z,New York Mets at St. Louis Cardinals,St. Louis Cardinals,New York Mets,2,4,0.0
+401472841,2023-08-18T01:40Z,Arizona Diamondbacks at San Diego Padres,San Diego Padres,Arizona Diamondbacks,1,3,0.0
+401472838,2023-08-18T02:10Z,Milwaukee Brewers at Los Angeles Dodgers,Los Angeles Dodgers,Milwaukee Brewers,1,0,1.0
+401472845,2023-08-18T18:20Z,Kansas City Royals at Chicago Cubs,Chicago Cubs,Kansas City Royals,3,4,0.0
+401585864,2023-08-18T20:10Z,Detroit Tigers at Cleveland Guardians,Cleveland Guardians,Detroit Tigers,2,4,0.0
+401472854,2023-08-18T22:40Z,Toronto Blue Jays at Cincinnati Reds,Cincinnati Reds,Toronto Blue Jays,1,0,1.0
+401472843,2023-08-18T23:05Z,Boston Red Sox at New York Yankees,New York Yankees,Boston Red Sox,3,8,0.0
+401472849,2023-08-18T23:05Z,Philadelphia Phillies at Washington Nationals,Washington Nationals,Philadelphia Phillies,8,7,1.0
+401472852,2023-08-18T23:20Z,San Francisco Giants at Atlanta Braves,Atlanta Braves,San Francisco Giants,4,0,1.0
+401472844,2023-08-18T23:30Z,Detroit Tigers at Cleveland Guardians,Cleveland Guardians,Detroit Tigers,4,1,1.0
+401472847,2023-08-19T00:05Z,Milwaukee Brewers at Texas Rangers,Texas Rangers,Milwaukee Brewers,8,9,0.0
+401472850,2023-08-19T00:10Z,Pittsburgh Pirates at Minnesota Twins,Minnesota Twins,Pittsburgh Pirates,5,1,1.0
+401472851,2023-08-19T00:10Z,Seattle Mariners at Houston Astros,Houston Astros,Seattle Mariners,0,2,0.0
+401472848,2023-08-19T00:15Z,New York Mets at St. Louis Cardinals,St. Louis Cardinals,New York Mets,1,7,0.0
+401472855,2023-08-19T00:40Z,Chicago White Sox at Colorado Rockies,Colorado Rockies,Chicago White Sox,14,1,1.0
+401472853,2023-08-19T01:38Z,Tampa Bay Rays at Los Angeles Angels,Los Angeles Angels,Tampa Bay Rays,6,9,0.0
+401472842,2023-08-19T01:40Z,Baltimore Orioles at Oakland Athletics,Oakland Athletics,Baltimore Orioles,4,9,0.0
+401472856,2023-08-19T01:40Z,Arizona Diamondbacks at San Diego Padres,San Diego Padres,Arizona Diamondbacks,4,0,1.0
+401472846,2023-08-19T02:10Z,Miami Marlins at Los Angeles Dodgers,Los Angeles Dodgers,Miami Marlins,3,11,0.0
+401472858,2023-08-19T17:05Z,Boston Red Sox at New York Yankees,New York Yankees,Boston Red Sox,1,8,0.0
+401472860,2023-08-19T18:20Z,Kansas City Royals at Chicago Cubs,Chicago Cubs,Kansas City Royals,6,4,1.0
+401472876,2023-08-19T19:00Z,Miami Marlins at Los Angeles Dodgers,Los Angeles Dodgers,Miami Marlins,3,1,1.0
+401472886,2023-08-19T19:10Z,Arizona Diamondbacks at San Diego Padres,San Diego Padres,Arizona Diamondbacks,4,6,0.0
+401472862,2023-08-19T20:05Z,Milwaukee Brewers at Texas Rangers,Texas Rangers,Milwaukee Brewers,1,6,0.0
+401472864,2023-08-19T20:05Z,Philadelphia Phillies at Washington Nationals,Washington Nationals,Philadelphia Phillies,3,12,0.0
+401472883,2023-08-19T20:07Z,Tampa Bay Rays at Los Angeles Angels,Los Angeles Angels,Tampa Bay Rays,7,6,1.0
+401472869,2023-08-19T22:40Z,Toronto Blue Jays at Cincinnati Reds,Cincinnati Reds,Toronto Blue Jays,3,4,0.0
+401472859,2023-08-19T23:10Z,Detroit Tigers at Cleveland Guardians,Cleveland Guardians,Detroit Tigers,3,4,0.0
+401472865,2023-08-19T23:10Z,Pittsburgh Pirates at Minnesota Twins,Minnesota Twins,Pittsburgh Pirates,4,7,0.0
+401472866,2023-08-19T23:10Z,Seattle Mariners at Houston Astros,Houston Astros,Seattle Mariners,3,10,0.0
+401472863,2023-08-19T23:15Z,New York Mets at St. Louis Cardinals,St. Louis Cardinals,New York Mets,2,13,0.0
+401472867,2023-08-19T23:20Z,San Francisco Giants at Atlanta Braves,Atlanta Braves,San Francisco Giants,6,5,1.0
+401472870,2023-08-20T00:10Z,Chicago White Sox at Colorado Rockies,Colorado Rockies,Chicago White Sox,11,5,1.0
+401472871,2023-08-20T00:40Z,Arizona Diamondbacks at San Diego Padres,San Diego Padres,Arizona Diamondbacks,1,8,0.0
+401472857,2023-08-20T01:07Z,Baltimore Orioles at Oakland Athletics,Oakland Athletics,Baltimore Orioles,2,7,0.0
+401472868,2023-08-20T01:07Z,Tampa Bay Rays at Los Angeles Angels,Los Angeles Angels,Tampa Bay Rays,4,18,0.0
+401472861,2023-08-20T01:10Z,Miami Marlins at Los Angeles Dodgers,Los Angeles Dodgers,Miami Marlins,3,1,1.0
+401472881,2023-08-20T17:05Z,Seattle Mariners at Houston Astros,Houston Astros,Seattle Mariners,6,7,0.0
+401472873,2023-08-20T17:35Z,Boston Red Sox at New York Yankees,New York Yankees,Boston Red Sox,5,6,0.0
+401472882,2023-08-20T17:35Z,San Francisco Giants at Atlanta Braves,Atlanta Braves,San Francisco Giants,3,4,0.0
+401472874,2023-08-20T17:40Z,Detroit Tigers at Cleveland Guardians,Cleveland Guardians,Detroit Tigers,1,4,0.0
+401472884,2023-08-20T17:40Z,Toronto Blue Jays at Cincinnati Reds,Cincinnati Reds,Toronto Blue Jays,3,10,0.0
+401472880,2023-08-20T18:10Z,Pittsburgh Pirates at Minnesota Twins,Minnesota Twins,Pittsburgh Pirates,2,0,1.0
+401472878,2023-08-20T18:15Z,New York Mets at St. Louis Cardinals,St. Louis Cardinals,New York Mets,7,3,1.0
+401472875,2023-08-20T18:20Z,Kansas City Royals at Chicago Cubs,Chicago Cubs,Kansas City Royals,4,3,1.0
+401472877,2023-08-20T18:35Z,Milwaukee Brewers at Texas Rangers,Texas Rangers,Milwaukee Brewers,2,6,0.0
+401472885,2023-08-20T19:10Z,Chicago White Sox at Colorado Rockies,Colorado Rockies,Chicago White Sox,5,10,0.0
+401472872,2023-08-20T20:07Z,Baltimore Orioles at Oakland Athletics,Oakland Athletics,Baltimore Orioles,1,12,0.0
+401472879,2023-08-20T23:00Z,Philadelphia Phillies at Washington Nationals,Washington Nationals,Philadelphia Phillies,4,3,1.0
+401472888,2023-08-21T22:40Z,Chicago Cubs at Detroit Tigers,Detroit Tigers,Chicago Cubs,6,7,0.0
+401472893,2023-08-21T22:40Z,San Francisco Giants at Philadelphia Phillies,Philadelphia Phillies,San Francisco Giants,10,4,1.0
+401472895,2023-08-21T23:05Z,St. Louis Cardinals at Pittsburgh Pirates,Pittsburgh Pirates,St. Louis Cardinals,11,1,1.0
+401472891,2023-08-21T23:20Z,New York Mets at Atlanta Braves,Atlanta Braves,New York Mets,4,10,0.0
+401472887,2023-08-22T00:10Z,Boston Red Sox at Houston Astros,Houston Astros,Boston Red Sox,9,4,1.0
+401472892,2023-08-22T00:10Z,Seattle Mariners at Chicago White Sox,Chicago White Sox,Seattle Mariners,2,14,0.0
+401472889,2023-08-22T01:38Z,Cincinnati Reds at Los Angeles Angels,Los Angeles Angels,Cincinnati Reds,0,0,0.5
+401472890,2023-08-22T01:40Z,Kansas City Royals at Oakland Athletics,Oakland Athletics,Kansas City Royals,6,4,1.0
+401472894,2023-08-22T01:40Z,Texas Rangers at Arizona Diamondbacks,Arizona Diamondbacks,Texas Rangers,4,3,1.0
+401472896,2023-08-22T01:40Z,Miami Marlins at San Diego Padres,San Diego Padres,Miami Marlins,6,2,1.0
+401472898,2023-08-22T22:40Z,Chicago Cubs at Detroit Tigers,Detroit Tigers,Chicago Cubs,8,6,1.0
+401472900,2023-08-22T22:40Z,Colorado Rockies at Tampa Bay Rays,Tampa Bay Rays,Colorado Rockies,12,4,1.0
+401472906,2023-08-22T22:40Z,San Francisco Giants at Philadelphia Phillies,Philadelphia Phillies,San Francisco Giants,4,3,1.0
+401472908,2023-08-22T23:05Z,Toronto Blue Jays at Baltimore Orioles,Baltimore Orioles,Toronto Blue Jays,3,6,0.0
+401472909,2023-08-22T23:05Z,Washington Nationals at New York Yankees,New York Yankees,Washington Nationals,1,2,0.0
+401472910,2023-08-22T23:05Z,St. Louis Cardinals at Pittsburgh Pirates,Pittsburgh Pirates,St. Louis Cardinals,6,3,1.0
+401472902,2023-08-22T23:10Z,Los Angeles Dodgers at Cleveland Guardians,Cleveland Guardians,Los Angeles Dodgers,8,3,1.0
+401472904,2023-08-22T23:20Z,New York Mets at Atlanta Braves,Atlanta Braves,New York Mets,3,2,1.0
+401472897,2023-08-23T00:10Z,Boston Red Sox at Houston Astros,Houston Astros,Boston Red Sox,7,3,1.0
+401472903,2023-08-23T00:10Z,Minnesota Twins at Milwaukee Brewers,Milwaukee Brewers,Minnesota Twins,7,3,1.0
+401472905,2023-08-23T00:10Z,Seattle Mariners at Chicago White Sox,Chicago White Sox,Seattle Mariners,3,6,0.0
+401472899,2023-08-23T01:38Z,Cincinnati Reds at Los Angeles Angels,Los Angeles Angels,Cincinnati Reds,3,4,0.0
+401472901,2023-08-23T01:40Z,Kansas City Royals at Oakland Athletics,Oakland Athletics,Kansas City Royals,5,4,1.0
+401472907,2023-08-23T01:40Z,Texas Rangers at Arizona Diamondbacks,Arizona Diamondbacks,Texas Rangers,6,3,1.0
+401472911,2023-08-23T01:40Z,Miami Marlins at San Diego Padres,San Diego Padres,Miami Marlins,0,3,0.0
+401472924,2023-08-23T16:35Z,St. Louis Cardinals at Pittsburgh Pirates,Pittsburgh Pirates,St. Louis Cardinals,4,6,0.0
+401472913,2023-08-23T17:10Z,Chicago Cubs at Detroit Tigers,Detroit Tigers,Chicago Cubs,4,6,0.0
+401472918,2023-08-23T18:10Z,Minnesota Twins at Milwaukee Brewers,Milwaukee Brewers,Minnesota Twins,8,7,1.0
+401472920,2023-08-23T18:10Z,Seattle Mariners at Chicago White Sox,Chicago White Sox,Seattle Mariners,5,4,1.0
+401472916,2023-08-23T19:37Z,Kansas City Royals at Oakland Athletics,Oakland Athletics,Kansas City Royals,0,4,0.0
+401472921,2023-08-23T20:05Z,San Francisco Giants at Philadelphia Phillies,Philadelphia Phillies,San Francisco Giants,6,8,0.0
+401472914,2023-08-23T20:07Z,Cincinnati Reds at Los Angeles Angels,Los Angeles Angels,Cincinnati Reds,4,9,0.0
+401472925,2023-08-23T20:10Z,Miami Marlins at San Diego Padres,San Diego Padres,Miami Marlins,4,0,1.0
+401472915,2023-08-23T22:40Z,Colorado Rockies at Tampa Bay Rays,Tampa Bay Rays,Colorado Rockies,6,5,1.0
+401472922,2023-08-23T23:05Z,Toronto Blue Jays at Baltimore Orioles,Baltimore Orioles,Toronto Blue Jays,7,0,1.0
+401472923,2023-08-23T23:05Z,Washington Nationals at New York Yankees,New York Yankees,Washington Nationals,9,1,1.0
+401472917,2023-08-23T23:10Z,Los Angeles Dodgers at Cleveland Guardians,Cleveland Guardians,Los Angeles Dodgers,1,6,0.0
+401472919,2023-08-23T23:20Z,New York Mets at Atlanta Braves,Atlanta Braves,New York Mets,7,0,1.0
+401472912,2023-08-24T00:10Z,Boston Red Sox at Houston Astros,Houston Astros,Boston Red Sox,5,7,0.0
+401587414,2023-08-24T01:38Z,Cincinnati Reds at Los Angeles Angels,Los Angeles Angels,Cincinnati Reds,3,7,0.0
+401472933,2023-08-24T17:05Z,Washington Nationals at New York Yankees,New York Yankees,Washington Nationals,5,6,0.0
+401472928,2023-08-24T17:10Z,Colorado Rockies at Tampa Bay Rays,Tampa Bay Rays,Colorado Rockies,5,3,1.0
+401472926,2023-08-24T18:10Z,Boston Red Sox at Houston Astros,Houston Astros,Boston Red Sox,1,17,0.0
+401472929,2023-08-24T20:20Z,Los Angeles Dodgers at Cleveland Guardians,Cleveland Guardians,Los Angeles Dodgers,3,9,0.0
+401472932,2023-08-24T23:05Z,Toronto Blue Jays at Baltimore Orioles,Baltimore Orioles,Toronto Blue Jays,5,3,1.0
+401472934,2023-08-24T23:05Z,Chicago Cubs at Pittsburgh Pirates,Pittsburgh Pirates,Chicago Cubs,4,5,0.0
+401472931,2023-08-24T23:10Z,Texas Rangers at Minnesota Twins,Minnesota Twins,Texas Rangers,7,5,1.0
+401472930,2023-08-25T00:10Z,Oakland Athletics at Chicago White Sox,Chicago White Sox,Oakland Athletics,5,8,0.0
+401472927,2023-08-25T01:40Z,Cincinnati Reds at Arizona Diamondbacks,Arizona Diamondbacks,Cincinnati Reds,3,2,1.0
+401472940,2023-08-25T22:40Z,Houston Astros at Detroit Tigers,Detroit Tigers,Houston Astros,4,1,1.0
+401472943,2023-08-25T22:40Z,New York Yankees at Tampa Bay Rays,Tampa Bay Rays,New York Yankees,2,6,0.0
+401472948,2023-08-25T22:40Z,Washington Nationals at Miami Marlins,Miami Marlins,Washington Nationals,4,7,0.0
+401472939,2023-08-25T23:05Z,Colorado Rockies at Baltimore Orioles,Baltimore Orioles,Colorado Rockies,5,4,1.0
+401472946,2023-08-25T23:05Z,St. Louis Cardinals at Philadelphia Phillies,Philadelphia Phillies,St. Louis Cardinals,7,2,1.0
+401472949,2023-08-25T23:05Z,Chicago Cubs at Pittsburgh Pirates,Pittsburgh Pirates,Chicago Cubs,2,1,1.0
+401472938,2023-08-25T23:07Z,Cleveland Guardians at Toronto Blue Jays,Toronto Blue Jays,Cleveland Guardians,2,5,0.0
+401472935,2023-08-25T23:10Z,Los Angeles Angels at New York Mets,New York Mets,Los Angeles Angels,1,3,0.0
+401472942,2023-08-25T23:10Z,Los Angeles Dodgers at Boston Red Sox,Boston Red Sox,Los Angeles Dodgers,4,7,0.0
+401472944,2023-08-25T23:10Z,Oakland Athletics at Chicago White Sox,Chicago White Sox,Oakland Athletics,4,12,0.0
+401472945,2023-08-26T00:10Z,San Diego Padres at Milwaukee Brewers,Milwaukee Brewers,San Diego Padres,7,3,1.0
+401472947,2023-08-26T00:10Z,Texas Rangers at Minnesota Twins,Minnesota Twins,Texas Rangers,12,2,1.0
+401472937,2023-08-26T01:40Z,Cincinnati Reds at Arizona Diamondbacks,Arizona Diamondbacks,Cincinnati Reds,10,8,1.0
+401472941,2023-08-26T02:10Z,Kansas City Royals at Seattle Mariners,Seattle Mariners,Kansas City Royals,7,5,1.0
+401472936,2023-08-26T02:15Z,Atlanta Braves at San Francisco Giants,San Francisco Giants,Atlanta Braves,1,5,0.0
+401472953,2023-08-26T19:07Z,Cleveland Guardians at Toronto Blue Jays,Toronto Blue Jays,Cleveland Guardians,8,3,1.0
+401472951,2023-08-26T20:05Z,Atlanta Braves at San Francisco Giants,San Francisco Giants,Atlanta Braves,3,7,0.0
+401472956,2023-08-26T20:10Z,Kansas City Royals at Seattle Mariners,Seattle Mariners,Kansas City Royals,15,2,1.0
+401472957,2023-08-26T20:10Z,Los Angeles Dodgers at Boston Red Sox,Boston Red Sox,Los Angeles Dodgers,8,5,1.0
+401472958,2023-08-26T20:10Z,New York Yankees at Tampa Bay Rays,Tampa Bay Rays,New York Yankees,3,0,1.0
+401472963,2023-08-26T20:10Z,Washington Nationals at Miami Marlins,Miami Marlins,Washington Nationals,2,3,0.0
+401472955,2023-08-26T22:10Z,Houston Astros at Detroit Tigers,Detroit Tigers,Houston Astros,2,9,0.0
+401472954,2023-08-26T23:05Z,Colorado Rockies at Baltimore Orioles,Baltimore Orioles,Colorado Rockies,5,4,1.0
+401472950,2023-08-26T23:10Z,Los Angeles Angels at New York Mets,New York Mets,Los Angeles Angels,3,5,0.0
+401472959,2023-08-26T23:10Z,Oakland Athletics at Chicago White Sox,Chicago White Sox,Oakland Athletics,6,2,1.0
+401472960,2023-08-26T23:10Z,San Diego Padres at Milwaukee Brewers,Milwaukee Brewers,San Diego Padres,5,4,1.0
+401472961,2023-08-26T23:15Z,St. Louis Cardinals at Philadelphia Phillies,Philadelphia Phillies,St. Louis Cardinals,12,1,1.0
+401472962,2023-08-26T23:15Z,Texas Rangers at Minnesota Twins,Minnesota Twins,Texas Rangers,2,6,0.0
+401472964,2023-08-26T23:15Z,Chicago Cubs at Pittsburgh Pirates,Pittsburgh Pirates,Chicago Cubs,6,10,0.0
+401472952,2023-08-27T00:10Z,Cincinnati Reds at Arizona Diamondbacks,Arizona Diamondbacks,Cincinnati Reds,7,8,0.0
+401472965,2023-08-27T16:05Z,Los Angeles Angels at New York Mets,New York Mets,Los Angeles Angels,3,2,1.0
+401472969,2023-08-27T17:35Z,Colorado Rockies at Baltimore Orioles,Baltimore Orioles,Colorado Rockies,3,4,0.0
+401472972,2023-08-27T17:35Z,Los Angeles Dodgers at Boston Red Sox,Boston Red Sox,Los Angeles Dodgers,4,7,0.0
+401472976,2023-08-27T17:35Z,St. Louis Cardinals at Philadelphia Phillies,Philadelphia Phillies,St. Louis Cardinals,3,0,1.0
+401472979,2023-08-27T17:35Z,Chicago Cubs at Pittsburgh Pirates,Pittsburgh Pirates,Chicago Cubs,1,10,0.0
+401472968,2023-08-27T17:37Z,Cleveland Guardians at Toronto Blue Jays,Toronto Blue Jays,Cleveland Guardians,7,10,0.0
+401472970,2023-08-27T17:40Z,Houston Astros at Detroit Tigers,Detroit Tigers,Houston Astros,4,17,0.0
+401472973,2023-08-27T17:40Z,New York Yankees at Tampa Bay Rays,Tampa Bay Rays,New York Yankees,7,4,1.0
+401472978,2023-08-27T17:40Z,Washington Nationals at Miami Marlins,Miami Marlins,Washington Nationals,2,1,1.0
+401472974,2023-08-27T18:10Z,Oakland Athletics at Chicago White Sox,Chicago White Sox,Oakland Athletics,6,1,1.0
+401472975,2023-08-27T18:10Z,San Diego Padres at Milwaukee Brewers,Milwaukee Brewers,San Diego Padres,10,6,1.0
+401472977,2023-08-27T18:10Z,Texas Rangers at Minnesota Twins,Minnesota Twins,Texas Rangers,7,6,1.0
+401472967,2023-08-27T20:10Z,Cincinnati Reds at Arizona Diamondbacks,Arizona Diamondbacks,Cincinnati Reds,5,2,1.0
+401472971,2023-08-27T20:10Z,Kansas City Royals at Seattle Mariners,Seattle Mariners,Kansas City Royals,3,2,1.0
+401472966,2023-08-27T23:00Z,Atlanta Braves at San Francisco Giants,San Francisco Giants,Atlanta Braves,8,5,1.0
+401472980,2023-08-28T22:40Z,Los Angeles Angels at Philadelphia Phillies,Philadelphia Phillies,Los Angeles Angels,6,4,1.0
+401472987,2023-08-28T22:40Z,New York Yankees at Detroit Tigers,Detroit Tigers,New York Yankees,1,4,0.0
+401472982,2023-08-28T23:05Z,Chicago White Sox at Baltimore Orioles,Baltimore Orioles,Chicago White Sox,9,0,1.0
+401472992,2023-08-28T23:07Z,Washington Nationals at Toronto Blue Jays,Toronto Blue Jays,Washington Nationals,6,3,1.0
+401472985,2023-08-28T23:10Z,Houston Astros at Boston Red Sox,Boston Red Sox,Houston Astros,5,13,0.0
+401472991,2023-08-28T23:10Z,Texas Rangers at New York Mets,New York Mets,Texas Rangers,3,4,0.0
+401472984,2023-08-28T23:40Z,Cleveland Guardians at Minnesota Twins,Minnesota Twins,Cleveland Guardians,10,6,1.0
+401472990,2023-08-28T23:45Z,San Diego Padres at St. Louis Cardinals,St. Louis Cardinals,San Diego Padres,1,4,0.0
+401472986,2023-08-29T00:05Z,Milwaukee Brewers at Chicago Cubs,Chicago Cubs,Milwaukee Brewers,2,6,0.0
+401472989,2023-08-29T00:10Z,Pittsburgh Pirates at Kansas City Royals,Kansas City Royals,Pittsburgh Pirates,0,5,0.0
+401472993,2023-08-29T00:40Z,Atlanta Braves at Colorado Rockies,Colorado Rockies,Atlanta Braves,4,14,0.0
+401472988,2023-08-29T01:40Z,Oakland Athletics at Seattle Mariners,Seattle Mariners,Oakland Athletics,7,0,1.0
+401472983,2023-08-29T01:45Z,Cincinnati Reds at San Francisco Giants,San Francisco Giants,Cincinnati Reds,4,1,1.0
+401472981,2023-08-29T02:10Z,Arizona Diamondbacks at Los Angeles Dodgers,Los Angeles Dodgers,Arizona Diamondbacks,7,4,1.0
+401472994,2023-08-29T22:40Z,Los Angeles Angels at Philadelphia Phillies,Philadelphia Phillies,Los Angeles Angels,12,7,1.0
+401473001,2023-08-29T22:40Z,New York Yankees at Detroit Tigers,Detroit Tigers,New York Yankees,2,4,0.0
+401473005,2023-08-29T22:40Z,Tampa Bay Rays at Miami Marlins,Miami Marlins,Tampa Bay Rays,2,11,0.0
+401472996,2023-08-29T23:05Z,Chicago White Sox at Baltimore Orioles,Baltimore Orioles,Chicago White Sox,9,3,1.0
+401473007,2023-08-29T23:07Z,Washington Nationals at Toronto Blue Jays,Toronto Blue Jays,Washington Nationals,4,5,0.0
+401472999,2023-08-29T23:10Z,Houston Astros at Boston Red Sox,Boston Red Sox,Houston Astros,2,6,0.0
+401473006,2023-08-29T23:10Z,Texas Rangers at New York Mets,New York Mets,Texas Rangers,1,2,0.0
+401472998,2023-08-29T23:40Z,Cleveland Guardians at Minnesota Twins,Minnesota Twins,Cleveland Guardians,2,4,0.0
+401473004,2023-08-29T23:45Z,San Diego Padres at St. Louis Cardinals,St. Louis Cardinals,San Diego Padres,6,5,1.0
+401473000,2023-08-30T00:05Z,Milwaukee Brewers at Chicago Cubs,Chicago Cubs,Milwaukee Brewers,1,0,1.0
+401473003,2023-08-30T00:10Z,Pittsburgh Pirates at Kansas City Royals,Kansas City Royals,Pittsburgh Pirates,3,6,0.0
+401473008,2023-08-30T00:40Z,Atlanta Braves at Colorado Rockies,Colorado Rockies,Atlanta Braves,1,3,0.0
+401473002,2023-08-30T01:40Z,Oakland Athletics at Seattle Mariners,Seattle Mariners,Oakland Athletics,1,3,0.0
+401472997,2023-08-30T01:45Z,Cincinnati Reds at San Francisco Giants,San Francisco Giants,Cincinnati Reds,6,1,1.0
+401472995,2023-08-30T02:10Z,Arizona Diamondbacks at Los Angeles Dodgers,Los Angeles Dodgers,Arizona Diamondbacks,9,1,1.0
+401473009,2023-08-30T17:05Z,Los Angeles Angels at Philadelphia Phillies,Philadelphia Phillies,Los Angeles Angels,8,10,0.0
+401473011,2023-08-30T17:05Z,Chicago White Sox at Baltimore Orioles,Baltimore Orioles,Chicago White Sox,5,10,0.0
+401473013,2023-08-30T17:10Z,Cleveland Guardians at Minnesota Twins,Minnesota Twins,Cleveland Guardians,2,5,0.0
+401473019,2023-08-30T18:15Z,San Diego Padres at St. Louis Cardinals,St. Louis Cardinals,San Diego Padres,5,4,1.0
+401473015,2023-08-30T18:20Z,Milwaukee Brewers at Chicago Cubs,Chicago Cubs,Milwaukee Brewers,3,2,1.0
+401473022,2023-08-30T19:07Z,Washington Nationals at Toronto Blue Jays,Toronto Blue Jays,Washington Nationals,7,0,1.0
+401473012,2023-08-30T19:45Z,Cincinnati Reds at San Francisco Giants,San Francisco Giants,Cincinnati Reds,1,4,0.0
+401473014,2023-08-30T20:10Z,Houston Astros at Boston Red Sox,Boston Red Sox,Houston Astros,4,7,0.0
+401473017,2023-08-30T20:10Z,Oakland Athletics at Seattle Mariners,Seattle Mariners,Oakland Athletics,5,4,1.0
+401473016,2023-08-30T22:40Z,New York Yankees at Detroit Tigers,Detroit Tigers,New York Yankees,2,6,0.0
+401473020,2023-08-30T22:40Z,Tampa Bay Rays at Miami Marlins,Miami Marlins,Tampa Bay Rays,0,3,0.0
+401473021,2023-08-30T22:40Z,Texas Rangers at New York Mets,New York Mets,Texas Rangers,6,5,1.0
+401473018,2023-08-31T00:10Z,Pittsburgh Pirates at Kansas City Royals,Kansas City Royals,Pittsburgh Pirates,1,4,0.0
+401473023,2023-08-31T00:40Z,Atlanta Braves at Colorado Rockies,Colorado Rockies,Atlanta Braves,3,7,0.0
+401473010,2023-08-31T02:10Z,Arizona Diamondbacks at Los Angeles Dodgers,Los Angeles Dodgers,Arizona Diamondbacks,7,0,1.0
+401473026,2023-08-31T17:10Z,New York Yankees at Detroit Tigers,Detroit Tigers,New York Yankees,4,3,1.0
+401473025,2023-08-31T23:05Z,Miami Marlins at Washington Nationals,Washington Nationals,Miami Marlins,1,6,0.0
+401473027,2023-09-01T01:40Z,San Francisco Giants at San Diego Padres,San Diego Padres,San Francisco Giants,2,7,0.0
+401473024,2023-09-01T02:10Z,Atlanta Braves at Los Angeles Dodgers,Los Angeles Dodgers,Atlanta Braves,7,8,0.0

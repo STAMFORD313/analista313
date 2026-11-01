@@ -1,0 +1,214 @@
+id,date,event,home,away,hs,as,res
+401349265,2021-11-01T23:00Z,Washington Capitals at Tampa Bay Lightning,Tampa Bay Lightning,Washington Capitals,3,2,1.0
+401349266,2021-11-02T00:00Z,Ottawa Senators at Chicago Blackhawks,Chicago Blackhawks,Ottawa Senators,5,1,1.0
+401349267,2021-11-02T01:30Z,Seattle Kraken at Edmonton Oilers,Edmonton Oilers,Seattle Kraken,5,2,1.0
+401349268,2021-11-02T23:00Z,Vegas Golden Knights at Toronto Maple Leafs,Toronto Maple Leafs,Vegas Golden Knights,4,0,1.0
+401349269,2021-11-02T23:00Z,Detroit Red Wings at Montreal Canadiens,Montreal Canadiens,Detroit Red Wings,3,0,1.0
+401349270,2021-11-02T23:00Z,Arizona Coyotes at Philadelphia Flyers,Philadelphia Flyers,Arizona Coyotes,3,0,1.0
+401349271,2021-11-03T00:00Z,Ottawa Senators at Minnesota Wild,Minnesota Wild,Ottawa Senators,5,4,1.0
+401349272,2021-11-03T00:00Z,Dallas Stars at Winnipeg Jets,Winnipeg Jets,Dallas Stars,4,3,1.0
+401349273,2021-11-03T01:00Z,Nashville Predators at Calgary Flames,Calgary Flames,Nashville Predators,2,3,0.0
+401349274,2021-11-03T02:00Z,New York Rangers at Vancouver Canucks,Vancouver Canucks,New York Rangers,3,2,1.0
+401349275,2021-11-03T02:00Z,New Jersey Devils at Anaheim Ducks,Anaheim Ducks,New Jersey Devils,4,0,1.0
+401349276,2021-11-03T02:30Z,Buffalo Sabres at San Jose Sharks,San Jose Sharks,Buffalo Sabres,5,3,1.0
+401349277,2021-11-04T00:30Z,Carolina Hurricanes at Chicago Blackhawks,Chicago Blackhawks,Carolina Hurricanes,3,4,0.0
+401349279,2021-11-04T00:30Z,Nashville Predators at Edmonton Oilers,Edmonton Oilers,Nashville Predators,5,2,1.0
+401349278,2021-11-04T01:00Z,Columbus Blue Jackets at Colorado Avalanche,Colorado Avalanche,Columbus Blue Jackets,4,5,0.0
+401349280,2021-11-04T02:00Z,St. Louis Blues at Los Angeles Kings,Los Angeles Kings,St. Louis Blues,3,2,1.0
+401349281,2021-11-04T23:00Z,Detroit Red Wings at Boston Bruins,Boston Bruins,Detroit Red Wings,5,1,1.0
+401349282,2021-11-04T23:00Z,Tampa Bay Lightning at Toronto Maple Leafs,Toronto Maple Leafs,Tampa Bay Lightning,2,1,1.0
+401349283,2021-11-04T23:00Z,New York Islanders at Montreal Canadiens,Montreal Canadiens,New York Islanders,2,6,0.0
+401349284,2021-11-04T23:00Z,Vegas Golden Knights at Ottawa Senators,Ottawa Senators,Vegas Golden Knights,1,5,0.0
+401349285,2021-11-04T23:00Z,Washington Capitals at Florida Panthers,Florida Panthers,Washington Capitals,5,4,1.0
+401349286,2021-11-04T23:00Z,Philadelphia Flyers at Pittsburgh Penguins,Pittsburgh Penguins,Philadelphia Flyers,3,2,1.0
+401349287,2021-11-05T01:00Z,Dallas Stars at Calgary Flames,Calgary Flames,Dallas Stars,3,4,0.0
+401349289,2021-11-05T02:00Z,Buffalo Sabres at Seattle Kraken,Seattle Kraken,Buffalo Sabres,5,2,1.0
+401349288,2021-11-05T02:30Z,St. Louis Blues at San Jose Sharks,San Jose Sharks,St. Louis Blues,3,5,0.0
+401349290,2021-11-06T00:00Z,Chicago Blackhawks at Winnipeg Jets,Winnipeg Jets,Chicago Blackhawks,5,1,1.0
+401349291,2021-11-06T01:30Z,New York Rangers at Edmonton Oilers,Edmonton Oilers,New York Rangers,6,5,1.0
+401349292,2021-11-06T02:00Z,Nashville Predators at Vancouver Canucks,Vancouver Canucks,Nashville Predators,2,3,0.0
+401349293,2021-11-06T02:00Z,Arizona Coyotes at Anaheim Ducks,Anaheim Ducks,Arizona Coyotes,3,1,1.0
+401349294,2021-11-06T02:30Z,New Jersey Devils at Los Angeles Kings,Los Angeles Kings,New Jersey Devils,3,2,1.0
+401349298,2021-11-06T18:00Z,Tampa Bay Lightning at Ottawa Senators,Ottawa Senators,Tampa Bay Lightning,3,5,0.0
+401349299,2021-11-06T22:00Z,Carolina Hurricanes at Florida Panthers,Florida Panthers,Carolina Hurricanes,5,2,1.0
+401349295,2021-11-06T23:00Z,Detroit Red Wings at Buffalo Sabres,Buffalo Sabres,Detroit Red Wings,3,4,0.0
+401349296,2021-11-06T23:00Z,Boston Bruins at Toronto Maple Leafs,Toronto Maple Leafs,Boston Bruins,5,2,1.0
+401349297,2021-11-06T23:00Z,Vegas Golden Knights at Montreal Canadiens,Montreal Canadiens,Vegas Golden Knights,2,5,0.0
+401349300,2021-11-06T23:00Z,Minnesota Wild at Pittsburgh Penguins,Pittsburgh Penguins,Minnesota Wild,4,5,0.0
+401349301,2021-11-06T23:00Z,Philadelphia Flyers at Washington Capitals,Washington Capitals,Philadelphia Flyers,1,2,0.0
+401349302,2021-11-06T23:00Z,Colorado Avalanche at Columbus Blue Jackets,Columbus Blue Jackets,Colorado Avalanche,4,2,1.0
+401349303,2021-11-06T23:00Z,New York Islanders at Winnipeg Jets,Winnipeg Jets,New York Islanders,0,2,0.0
+401349304,2021-11-07T02:00Z,New York Rangers at Calgary Flames,Calgary Flames,New York Rangers,6,0,1.0
+401349305,2021-11-07T02:00Z,Seattle Kraken at Arizona Coyotes,Arizona Coyotes,Seattle Kraken,5,4,1.0
+401349306,2021-11-07T02:30Z,New Jersey Devils at San Jose Sharks,San Jose Sharks,New Jersey Devils,2,3,0.0
+401349307,2021-11-07T23:00Z,Vegas Golden Knights at Detroit Red Wings,Detroit Red Wings,Vegas Golden Knights,5,2,1.0
+401349308,2021-11-08T00:00Z,Nashville Predators at Chicago Blackhawks,Chicago Blackhawks,Nashville Predators,2,1,1.0
+401349309,2021-11-08T01:00Z,New York Islanders at Minnesota Wild,Minnesota Wild,New York Islanders,5,2,1.0
+401349311,2021-11-08T01:00Z,St. Louis Blues at Anaheim Ducks,Anaheim Ducks,St. Louis Blues,4,1,1.0
+401349310,2021-11-08T03:00Z,Dallas Stars at Vancouver Canucks,Vancouver Canucks,Dallas Stars,6,3,1.0
+401349313,2021-11-09T00:00Z,Florida Panthers at New York Rangers,New York Rangers,Florida Panthers,4,3,1.0
+401349314,2021-11-09T00:00Z,Buffalo Sabres at Washington Capitals,Washington Capitals,Buffalo Sabres,5,3,1.0
+401349312,2021-11-09T00:30Z,Los Angeles Kings at Toronto Maple Leafs,Toronto Maple Leafs,Los Angeles Kings,1,5,0.0
+401349315,2021-11-10T00:00Z,Ottawa Senators at Boston Bruins,Boston Bruins,Ottawa Senators,3,2,1.0
+401349316,2021-11-10T00:00Z,Los Angeles Kings at Montreal Canadiens,Montreal Canadiens,Los Angeles Kings,2,3,0.0
+401349318,2021-11-10T00:00Z,Carolina Hurricanes at Tampa Bay Lightning,Tampa Bay Lightning,Carolina Hurricanes,1,2,0.0
+401349319,2021-11-10T00:00Z,Florida Panthers at New Jersey Devils,New Jersey Devils,Florida Panthers,7,3,1.0
+401349317,2021-11-10T00:30Z,Edmonton Oilers at Detroit Red Wings,Detroit Red Wings,Edmonton Oilers,4,2,1.0
+401349321,2021-11-10T01:00Z,St. Louis Blues at Winnipeg Jets,Winnipeg Jets,St. Louis Blues,2,3,0.0
+401349320,2021-11-10T01:30Z,Pittsburgh Penguins at Chicago Blackhawks,Chicago Blackhawks,Pittsburgh Penguins,3,2,1.0
+401349322,2021-11-10T02:00Z,San Jose Sharks at Calgary Flames,Calgary Flames,San Jose Sharks,1,4,0.0
+401349323,2021-11-10T03:00Z,Anaheim Ducks at Vancouver Canucks,Vancouver Canucks,Anaheim Ducks,2,3,0.0
+401349324,2021-11-10T03:00Z,Seattle Kraken at Vegas Golden Knights,Vegas Golden Knights,Seattle Kraken,4,2,1.0
+401349325,2021-11-11T00:30Z,Toronto Maple Leafs at Philadelphia Flyers,Philadelphia Flyers,Toronto Maple Leafs,0,3,0.0
+401349326,2021-11-11T01:30Z,Nashville Predators at Dallas Stars,Dallas Stars,Nashville Predators,2,4,0.0
+401349327,2021-11-11T03:00Z,Minnesota Wild at Arizona Coyotes,Arizona Coyotes,Minnesota Wild,2,5,0.0
+401349328,2021-11-12T00:00Z,Edmonton Oilers at Boston Bruins,Boston Bruins,Edmonton Oilers,3,5,0.0
+401349329,2021-11-12T00:00Z,Calgary Flames at Montreal Canadiens,Montreal Canadiens,Calgary Flames,4,2,1.0
+401349330,2021-11-12T00:00Z,Los Angeles Kings at Ottawa Senators,Ottawa Senators,Los Angeles Kings,0,2,0.0
+401349332,2021-11-12T00:00Z,New York Islanders at New Jersey Devils,New Jersey Devils,New York Islanders,4,0,1.0
+401349333,2021-11-12T00:00Z,Florida Panthers at Pittsburgh Penguins,Pittsburgh Penguins,Florida Panthers,3,2,1.0
+401349331,2021-11-12T00:30Z,Washington Capitals at Detroit Red Wings,Detroit Red Wings,Washington Capitals,0,2,0.0
+401349334,2021-11-12T01:00Z,Nashville Predators at St. Louis Blues,St. Louis Blues,Nashville Predators,3,4,0.0
+401349335,2021-11-12T01:00Z,San Jose Sharks at Winnipeg Jets,Winnipeg Jets,San Jose Sharks,4,1,1.0
+401349336,2021-11-12T02:00Z,Vancouver Canucks at Colorado Avalanche,Colorado Avalanche,Vancouver Canucks,7,1,1.0
+401349337,2021-11-12T03:00Z,Minnesota Wild at Vegas Golden Knights,Vegas Golden Knights,Minnesota Wild,3,2,1.0
+401349338,2021-11-12T03:00Z,Anaheim Ducks at Seattle Kraken,Seattle Kraken,Anaheim Ducks,4,7,0.0
+401349339,2021-11-13T00:00Z,Edmonton Oilers at Buffalo Sabres,Buffalo Sabres,Edmonton Oilers,3,2,1.0
+401349340,2021-11-13T00:00Z,Calgary Flames at Toronto Maple Leafs,Toronto Maple Leafs,Calgary Flames,2,1,1.0
+401349341,2021-11-13T00:00Z,Philadelphia Flyers at Carolina Hurricanes,Carolina Hurricanes,Philadelphia Flyers,1,2,0.0
+401349342,2021-11-13T00:00Z,Washington Capitals at Columbus Blue Jackets,Columbus Blue Jackets,Washington Capitals,3,4,0.0
+401349343,2021-11-13T01:30Z,Arizona Coyotes at Chicago Blackhawks,Chicago Blackhawks,Arizona Coyotes,2,1,1.0
+401349348,2021-11-13T18:00Z,Boston Bruins at New Jersey Devils,New Jersey Devils,Boston Bruins,2,5,0.0
+401349344,2021-11-14T00:00Z,Toronto Maple Leafs at Buffalo Sabres,Buffalo Sabres,Toronto Maple Leafs,4,5,0.0
+401349345,2021-11-14T00:00Z,Pittsburgh Penguins at Ottawa Senators,Ottawa Senators,Pittsburgh Penguins,6,3,1.0
+401349346,2021-11-14T00:00Z,Montreal Canadiens at Detroit Red Wings,Detroit Red Wings,Montreal Canadiens,3,2,1.0
+401349347,2021-11-14T00:00Z,Florida Panthers at Tampa Bay Lightning,Tampa Bay Lightning,Florida Panthers,3,2,1.0
+401349350,2021-11-14T00:00Z,New York Rangers at Columbus Blue Jackets,Columbus Blue Jackets,New York Rangers,3,5,0.0
+401349353,2021-11-14T00:00Z,Los Angeles Kings at Winnipeg Jets,Winnipeg Jets,Los Angeles Kings,3,2,1.0
+401349349,2021-11-14T00:30Z,St. Louis Blues at Carolina Hurricanes,Carolina Hurricanes,St. Louis Blues,3,2,1.0
+401349351,2021-11-14T01:00Z,Arizona Coyotes at Nashville Predators,Nashville Predators,Arizona Coyotes,4,1,1.0
+401349352,2021-11-14T01:00Z,Philadelphia Flyers at Dallas Stars,Dallas Stars,Philadelphia Flyers,5,2,1.0
+401349354,2021-11-14T02:00Z,San Jose Sharks at Colorado Avalanche,Colorado Avalanche,San Jose Sharks,6,2,1.0
+401349355,2021-11-14T03:00Z,Vancouver Canucks at Vegas Golden Knights,Vegas Golden Knights,Vancouver Canucks,7,4,1.0
+401349356,2021-11-14T03:00Z,Minnesota Wild at Seattle Kraken,Seattle Kraken,Minnesota Wild,2,4,0.0
+401349358,2021-11-14T22:00Z,Calgary Flames at Ottawa Senators,Ottawa Senators,Calgary Flames,0,4,0.0
+401349357,2021-11-15T00:00Z,Montreal Canadiens at Boston Bruins,Boston Bruins,Montreal Canadiens,5,2,1.0
+401349359,2021-11-15T00:00Z,New Jersey Devils at New York Rangers,New York Rangers,New Jersey Devils,4,3,1.0
+401349360,2021-11-15T00:00Z,Pittsburgh Penguins at Washington Capitals,Washington Capitals,Pittsburgh Penguins,6,1,1.0
+401349361,2021-11-15T00:00Z,Edmonton Oilers at St. Louis Blues,St. Louis Blues,Edmonton Oilers,4,5,0.0
+401349362,2021-11-15T01:00Z,Vancouver Canucks at Anaheim Ducks,Anaheim Ducks,Vancouver Canucks,5,1,1.0
+401349363,2021-11-16T00:00Z,New York Islanders at Tampa Bay Lightning,Tampa Bay Lightning,New York Islanders,4,1,1.0
+401349364,2021-11-16T00:00Z,Detroit Red Wings at Columbus Blue Jackets,Columbus Blue Jackets,Detroit Red Wings,5,3,1.0
+401349365,2021-11-17T00:00Z,Nashville Predators at Toronto Maple Leafs,Toronto Maple Leafs,Nashville Predators,3,0,1.0
+401349366,2021-11-17T00:00Z,New York Islanders at Florida Panthers,Florida Panthers,New York Islanders,6,1,1.0
+401349367,2021-11-17T00:00Z,Ottawa Senators at New Jersey Devils,New Jersey Devils,Ottawa Senators,0,0,0.5
+401349368,2021-11-17T00:00Z,Montreal Canadiens at New York Rangers,New York Rangers,Montreal Canadiens,3,2,1.0
+401349369,2021-11-17T00:00Z,Calgary Flames at Philadelphia Flyers,Philadelphia Flyers,Calgary Flames,2,1,1.0
+401349370,2021-11-17T00:00Z,Buffalo Sabres at Pittsburgh Penguins,Pittsburgh Penguins,Buffalo Sabres,1,2,0.0
+401349371,2021-11-17T01:00Z,Arizona Coyotes at St. Louis Blues,St. Louis Blues,Arizona Coyotes,2,3,0.0
+401349373,2021-11-17T01:00Z,San Jose Sharks at Minnesota Wild,Minnesota Wild,San Jose Sharks,1,4,0.0
+401349374,2021-11-17T01:00Z,Edmonton Oilers at Winnipeg Jets,Winnipeg Jets,Edmonton Oilers,5,2,1.0
+401349372,2021-11-17T01:30Z,Detroit Red Wings at Dallas Stars,Dallas Stars,Detroit Red Wings,5,2,1.0
+401349375,2021-11-17T03:00Z,Carolina Hurricanes at Vegas Golden Knights,Vegas Golden Knights,Carolina Hurricanes,2,4,0.0
+401349376,2021-11-17T03:00Z,Washington Capitals at Anaheim Ducks,Anaheim Ducks,Washington Capitals,3,2,1.0
+401349377,2021-11-18T02:00Z,Colorado Avalanche at Vancouver Canucks,Vancouver Canucks,Colorado Avalanche,2,4,0.0
+401349379,2021-11-18T03:00Z,Chicago Blackhawks at Seattle Kraken,Seattle Kraken,Chicago Blackhawks,2,4,0.0
+401349378,2021-11-18T03:30Z,Washington Capitals at Los Angeles Kings,Los Angeles Kings,Washington Capitals,0,2,0.0
+401349380,2021-11-19T00:00Z,Calgary Flames at Buffalo Sabres,Buffalo Sabres,Calgary Flames,0,5,0.0
+401349381,2021-11-19T00:00Z,New York Rangers at Toronto Maple Leafs,Toronto Maple Leafs,New York Rangers,2,1,1.0
+401349382,2021-11-19T00:00Z,Pittsburgh Penguins at Montreal Canadiens,Montreal Canadiens,Pittsburgh Penguins,0,6,0.0
+401349383,2021-11-19T00:00Z,Nashville Predators at Ottawa Senators,Ottawa Senators,Nashville Predators,0,0,0.5
+401349384,2021-11-19T00:00Z,New Jersey Devils at Florida Panthers,Florida Panthers,New Jersey Devils,4,1,1.0
+401349385,2021-11-19T00:00Z,Tampa Bay Lightning at Philadelphia Flyers,Philadelphia Flyers,Tampa Bay Lightning,3,4,0.0
+401349386,2021-11-19T01:00Z,San Jose Sharks at St. Louis Blues,St. Louis Blues,San Jose Sharks,4,1,1.0
+401349387,2021-11-19T01:00Z,Dallas Stars at Minnesota Wild,Minnesota Wild,Dallas Stars,7,2,1.0
+401349388,2021-11-19T02:00Z,Winnipeg Jets at Edmonton Oilers,Edmonton Oilers,Winnipeg Jets,2,1,1.0
+401349389,2021-11-19T02:00Z,Columbus Blue Jackets at Arizona Coyotes,Arizona Coyotes,Columbus Blue Jackets,4,5,0.0
+401349390,2021-11-19T03:00Z,Detroit Red Wings at Vegas Golden Knights,Vegas Golden Knights,Detroit Red Wings,5,2,1.0
+401349391,2021-11-19T03:00Z,Carolina Hurricanes at Anaheim Ducks,Anaheim Ducks,Carolina Hurricanes,1,2,0.0
+401349392,2021-11-20T03:00Z,Winnipeg Jets at Vancouver Canucks,Vancouver Canucks,Winnipeg Jets,3,2,1.0
+401349393,2021-11-20T03:00Z,Colorado Avalanche at Seattle Kraken,Seattle Kraken,Colorado Avalanche,3,7,0.0
+401349396,2021-11-20T18:00Z,New York Rangers at Ottawa Senators,Ottawa Senators,New York Rangers,0,0,0.5
+401349397,2021-11-20T21:00Z,New Jersey Devils at Tampa Bay Lightning,Tampa Bay Lightning,New Jersey Devils,3,5,0.0
+401349405,2021-11-20T21:00Z,Carolina Hurricanes at Los Angeles Kings,Los Angeles Kings,Carolina Hurricanes,4,5,0.0
+401349398,2021-11-20T23:00Z,Minnesota Wild at Florida Panthers,Florida Panthers,Minnesota Wild,5,4,1.0
+401349394,2021-11-21T00:00Z,Pittsburgh Penguins at Toronto Maple Leafs,Toronto Maple Leafs,Pittsburgh Penguins,0,2,0.0
+401349395,2021-11-21T00:00Z,Nashville Predators at Montreal Canadiens,Montreal Canadiens,Nashville Predators,6,3,1.0
+401349399,2021-11-21T00:00Z,Calgary Flames at New York Islanders,New York Islanders,Calgary Flames,2,5,0.0
+401349400,2021-11-21T00:00Z,Boston Bruins at Philadelphia Flyers,Philadelphia Flyers,Boston Bruins,2,5,0.0
+401349401,2021-11-21T01:00Z,St. Louis Blues at Dallas Stars,Dallas Stars,St. Louis Blues,4,1,1.0
+401349403,2021-11-21T01:00Z,Detroit Red Wings at Arizona Coyotes,Arizona Coyotes,Detroit Red Wings,2,1,1.0
+401349402,2021-11-21T03:00Z,Chicago Blackhawks at Edmonton Oilers,Edmonton Oilers,Chicago Blackhawks,5,2,1.0
+401349404,2021-11-21T03:00Z,Columbus Blue Jackets at Vegas Golden Knights,Vegas Golden Knights,Columbus Blue Jackets,3,2,1.0
+401349406,2021-11-21T03:30Z,Washington Capitals at San Jose Sharks,San Jose Sharks,Washington Capitals,0,4,0.0
+401349408,2021-11-21T22:00Z,Minnesota Wild at Tampa Bay Lightning,Tampa Bay Lightning,Minnesota Wild,5,4,1.0
+401349410,2021-11-21T23:00Z,Buffalo Sabres at New York Rangers,New York Rangers,Buffalo Sabres,5,4,1.0
+401349407,2021-11-22T00:00Z,Calgary Flames at Boston Bruins,Boston Bruins,Calgary Flames,0,4,0.0
+401349409,2021-11-22T00:30Z,Toronto Maple Leafs at New York Islanders,New York Islanders,Toronto Maple Leafs,0,3,0.0
+401349411,2021-11-22T01:00Z,Chicago Blackhawks at Vancouver Canucks,Vancouver Canucks,Chicago Blackhawks,0,1,0.0
+401349413,2021-11-22T02:00Z,Washington Capitals at Seattle Kraken,Seattle Kraken,Washington Capitals,5,2,1.0
+401349412,2021-11-22T03:00Z,Arizona Coyotes at Los Angeles Kings,Los Angeles Kings,Arizona Coyotes,1,2,0.0
+401349414,2021-11-23T00:00Z,Columbus Blue Jackets at Buffalo Sabres,Buffalo Sabres,Columbus Blue Jackets,4,7,0.0
+401349415,2021-11-23T01:00Z,Vegas Golden Knights at St. Louis Blues,St. Louis Blues,Vegas Golden Knights,5,2,1.0
+401349416,2021-11-23T01:00Z,Anaheim Ducks at Nashville Predators,Nashville Predators,Anaheim Ducks,3,2,1.0
+401349417,2021-11-23T01:30Z,Pittsburgh Penguins at Winnipeg Jets,Winnipeg Jets,Pittsburgh Penguins,1,3,0.0
+401349418,2021-11-23T01:30Z,Ottawa Senators at Colorado Avalanche,Colorado Avalanche,Ottawa Senators,7,5,1.0
+401349419,2021-11-23T03:30Z,Carolina Hurricanes at San Jose Sharks,San Jose Sharks,Carolina Hurricanes,2,1,1.0
+401349420,2021-11-24T00:00Z,Philadelphia Flyers at Tampa Bay Lightning,Tampa Bay Lightning,Philadelphia Flyers,4,0,1.0
+401349421,2021-11-24T01:30Z,Edmonton Oilers at Dallas Stars,Dallas Stars,Edmonton Oilers,4,1,1.0
+401349422,2021-11-24T02:00Z,Chicago Blackhawks at Calgary Flames,Calgary Flames,Chicago Blackhawks,5,2,1.0
+401349423,2021-11-25T00:00Z,Boston Bruins at Buffalo Sabres,Buffalo Sabres,Boston Bruins,1,5,0.0
+401349425,2021-11-25T00:00Z,Philadelphia Flyers at Florida Panthers,Florida Panthers,Philadelphia Flyers,2,1,1.0
+401349428,2021-11-25T00:00Z,Vancouver Canucks at Pittsburgh Penguins,Pittsburgh Penguins,Vancouver Canucks,4,1,1.0
+401349429,2021-11-25T00:00Z,Montreal Canadiens at Washington Capitals,Washington Capitals,Montreal Canadiens,6,3,1.0
+401349430,2021-11-25T00:00Z,Winnipeg Jets at Columbus Blue Jackets,Columbus Blue Jackets,Winnipeg Jets,3,0,1.0
+401349424,2021-11-25T00:30Z,St. Louis Blues at Detroit Red Wings,Detroit Red Wings,St. Louis Blues,4,2,1.0
+401349427,2021-11-25T00:30Z,New York Rangers at New York Islanders,New York Islanders,New York Rangers,1,4,0.0
+401349426,2021-11-25T00:33Z,Minnesota Wild at New Jersey Devils,New Jersey Devils,Minnesota Wild,2,3,0.0
+401349431,2021-11-25T01:00Z,Vegas Golden Knights at Nashville Predators,Nashville Predators,Vegas Golden Knights,2,5,0.0
+401349432,2021-11-25T02:00Z,Anaheim Ducks at Colorado Avalanche,Colorado Avalanche,Anaheim Ducks,5,2,1.0
+401349433,2021-11-25T03:00Z,Edmonton Oilers at Arizona Coyotes,Arizona Coyotes,Edmonton Oilers,3,5,0.0
+401349434,2021-11-25T03:00Z,Toronto Maple Leafs at Los Angeles Kings,Los Angeles Kings,Toronto Maple Leafs,2,6,0.0
+401349436,2021-11-25T03:00Z,Carolina Hurricanes at Seattle Kraken,Seattle Kraken,Carolina Hurricanes,2,1,1.0
+401349435,2021-11-25T03:30Z,Ottawa Senators at San Jose Sharks,San Jose Sharks,Ottawa Senators,6,3,1.0
+401349437,2021-11-26T18:00Z,New York Rangers at Boston Bruins,Boston Bruins,New York Rangers,2,5,0.0
+401349441,2021-11-26T20:30Z,Carolina Hurricanes at Philadelphia Flyers,Philadelphia Flyers,Carolina Hurricanes,3,6,0.0
+401349444,2021-11-26T20:30Z,St. Louis Blues at Chicago Blackhawks,Chicago Blackhawks,St. Louis Blues,3,2,1.0
+401349447,2021-11-26T20:30Z,Winnipeg Jets at Minnesota Wild,Minnesota Wild,Winnipeg Jets,7,1,1.0
+401349448,2021-11-26T21:00Z,Ottawa Senators at Anaheim Ducks,Anaheim Ducks,Ottawa Senators,4,0,1.0
+401349442,2021-11-26T22:00Z,Florida Panthers at Washington Capitals,Washington Capitals,Florida Panthers,4,3,1.0
+401349445,2021-11-26T23:00Z,New Jersey Devils at Nashville Predators,Nashville Predators,New Jersey Devils,4,2,1.0
+401349438,2021-11-27T00:00Z,Montreal Canadiens at Buffalo Sabres,Buffalo Sabres,Montreal Canadiens,4,1,1.0
+401349439,2021-11-27T00:00Z,Seattle Kraken at Tampa Bay Lightning,Tampa Bay Lightning,Seattle Kraken,3,0,1.0
+401349443,2021-11-27T00:00Z,Vancouver Canucks at Columbus Blue Jackets,Columbus Blue Jackets,Vancouver Canucks,4,2,1.0
+401349440,2021-11-27T00:30Z,Pittsburgh Penguins at New York Islanders,New York Islanders,Pittsburgh Penguins,0,1,0.0
+401349446,2021-11-27T00:30Z,Colorado Avalanche at Dallas Stars,Dallas Stars,Colorado Avalanche,3,1,1.0
+401349449,2021-11-27T03:30Z,Toronto Maple Leafs at San Jose Sharks,San Jose Sharks,Toronto Maple Leafs,1,4,0.0
+401349451,2021-11-27T23:00Z,Seattle Kraken at Florida Panthers,Florida Panthers,Seattle Kraken,1,4,0.0
+401349450,2021-11-28T00:00Z,Buffalo Sabres at Detroit Red Wings,Detroit Red Wings,Buffalo Sabres,3,2,1.0
+401349452,2021-11-28T00:00Z,Montreal Canadiens at Pittsburgh Penguins,Pittsburgh Penguins,Montreal Canadiens,3,6,0.0
+401349458,2021-11-28T00:00Z,Edmonton Oilers at Vegas Golden Knights,Vegas Golden Knights,Edmonton Oilers,2,3,0.0
+401349459,2021-11-28T00:00Z,Ottawa Senators at Los Angeles Kings,Los Angeles Kings,Ottawa Senators,4,2,1.0
+401349453,2021-11-28T01:00Z,Columbus Blue Jackets at St. Louis Blues,St. Louis Blues,Columbus Blue Jackets,6,3,1.0
+401349457,2021-11-28T01:00Z,Dallas Stars at Arizona Coyotes,Arizona Coyotes,Dallas Stars,2,3,0.0
+401349454,2021-11-28T02:00Z,Nashville Predators at Colorado Avalanche,Colorado Avalanche,Nashville Predators,6,2,1.0
+401349456,2021-11-28T03:00Z,Winnipeg Jets at Calgary Flames,Calgary Flames,Winnipeg Jets,2,4,0.0
+401349463,2021-11-28T18:00Z,Washington Capitals at Carolina Hurricanes,Carolina Hurricanes,Washington Capitals,2,4,0.0
+401349465,2021-11-28T19:00Z,Tampa Bay Lightning at Minnesota Wild,Minnesota Wild,Tampa Bay Lightning,4,2,1.0
+401349460,2021-11-29T00:00Z,Vancouver Canucks at Boston Bruins,Boston Bruins,Vancouver Canucks,3,2,1.0
+401349461,2021-11-29T00:00Z,Philadelphia Flyers at New Jersey Devils,New Jersey Devils,Philadelphia Flyers,5,2,1.0
+401349464,2021-11-29T00:00Z,San Jose Sharks at Chicago Blackhawks,Chicago Blackhawks,San Jose Sharks,0,2,0.0
+401349466,2021-11-29T01:00Z,Toronto Maple Leafs at Anaheim Ducks,Anaheim Ducks,Toronto Maple Leafs,1,5,0.0
+401349467,2021-11-30T00:00Z,Seattle Kraken at Buffalo Sabres,Buffalo Sabres,Seattle Kraken,4,7,0.0
+401349468,2021-11-30T00:30Z,Vancouver Canucks at Montreal Canadiens,Montreal Canadiens,Vancouver Canucks,1,2,0.0
+401349469,2021-11-30T00:30Z,Arizona Coyotes at Winnipeg Jets,Winnipeg Jets,Arizona Coyotes,0,1,0.0
+401349470,2021-11-30T02:00Z,Pittsburgh Penguins at Calgary Flames,Calgary Flames,Pittsburgh Penguins,2,1,1.0
+401349471,2021-12-01T00:00Z,Detroit Red Wings at Boston Bruins,Boston Bruins,Detroit Red Wings,1,2,0.0
+401349472,2021-12-01T00:00Z,Washington Capitals at Florida Panthers,Florida Panthers,Washington Capitals,5,4,1.0
+401349473,2021-12-01T00:00Z,San Jose Sharks at New Jersey Devils,New Jersey Devils,San Jose Sharks,2,5,0.0
+401349474,2021-12-01T00:00Z,New York Islanders at Philadelphia Flyers,Philadelphia Flyers,New York Islanders,0,0,0.5
+401349475,2021-12-01T01:00Z,Tampa Bay Lightning at St. Louis Blues,St. Louis Blues,Tampa Bay Lightning,4,3,1.0
+401349476,2021-12-01T01:00Z,Columbus Blue Jackets at Nashville Predators,Nashville Predators,Columbus Blue Jackets,6,0,1.0
+401349478,2021-12-01T01:00Z,Arizona Coyotes at Minnesota Wild,Minnesota Wild,Arizona Coyotes,5,2,1.0
+401349477,2021-12-01T01:30Z,Carolina Hurricanes at Dallas Stars,Dallas Stars,Carolina Hurricanes,4,1,1.0
+401349479,2021-12-01T03:30Z,Anaheim Ducks at Los Angeles Kings,Los Angeles Kings,Anaheim Ducks,4,5,0.0

@@ -1,0 +1,60 @@
+id,date,event,home,away,hs,as,res
+401671728,2024-11-03T18:00Z,Dallas Cowboys at Atlanta Falcons,Atlanta Falcons,Dallas Cowboys,27,21,1.0
+401671493,2024-11-03T18:00Z,Miami Dolphins at Buffalo Bills,Buffalo Bills,Miami Dolphins,30,27,1.0
+401671704,2024-11-03T18:00Z,Las Vegas Raiders at Cincinnati Bengals,Cincinnati Bengals,Las Vegas Raiders,41,24,1.0
+401671629,2024-11-03T18:00Z,Los Angeles Chargers at Cleveland Browns,Cleveland Browns,Los Angeles Chargers,10,27,0.0
+401671822,2024-11-03T18:00Z,New England Patriots at Tennessee Titans,Tennessee Titans,New England Patriots,20,17,1.0
+401671711,2024-11-03T18:00Z,Washington Commanders at New York Giants,New York Giants,Washington Commanders,22,27,0.0
+401671650,2024-11-03T18:00Z,New Orleans Saints at Carolina Panthers,Carolina Panthers,New Orleans Saints,23,22,1.0
+401671623,2024-11-03T18:00Z,Denver Broncos at Baltimore Ravens,Baltimore Ravens,Denver Broncos,41,10,1.0
+401671797,2024-11-03T21:05Z,Jacksonville Jaguars at Philadelphia Eagles,Philadelphia Eagles,Jacksonville Jaguars,28,23,1.0
+401671661,2024-11-03T21:05Z,Chicago Bears at Arizona Cardinals,Arizona Cardinals,Chicago Bears,29,9,1.0
+401671767,2024-11-03T21:25Z,Detroit Lions at Green Bay Packers,Green Bay Packers,Detroit Lions,14,24,0.0
+401671776,2024-11-03T21:25Z,Los Angeles Rams at Seattle Seahawks,Seattle Seahawks,Los Angeles Rams,20,26,0.0
+401671647,2024-11-04T01:20Z,Indianapolis Colts at Minnesota Vikings,Minnesota Vikings,Indianapolis Colts,21,13,1.0
+401671688,2024-11-05T01:15Z,Tampa Bay Buccaneers at Kansas City Chiefs,Kansas City Chiefs,Tampa Bay Buccaneers,30,24,1.0
+401671810,2024-11-08T01:15Z,Cincinnati Bengals at Baltimore Ravens,Baltimore Ravens,Cincinnati Bengals,35,34,1.0
+401671803,2024-11-10T14:30Z,New York Giants at Carolina Panthers,Carolina Panthers,New York Giants,20,17,1.0
+401671873,2024-11-10T18:00Z,New England Patriots at Chicago Bears,Chicago Bears,New England Patriots,3,19,0.0
+401671863,2024-11-10T18:00Z,Buffalo Bills at Indianapolis Colts,Indianapolis Colts,Buffalo Bills,20,30,0.0
+401671637,2024-11-10T18:00Z,Denver Broncos at Kansas City Chiefs,Kansas City Chiefs,Denver Broncos,16,14,1.0
+401671733,2024-11-10T18:00Z,Atlanta Falcons at New Orleans Saints,New Orleans Saints,Atlanta Falcons,20,17,1.0
+401671742,2024-11-10T18:00Z,San Francisco 49ers at Tampa Bay Buccaneers,Tampa Bay Buccaneers,San Francisco 49ers,20,23,0.0
+401671641,2024-11-10T18:00Z,Pittsburgh Steelers at Washington Commanders,Washington Commanders,Pittsburgh Steelers,27,28,0.0
+401671708,2024-11-10T18:00Z,Minnesota Vikings at Jacksonville Jaguars,Jacksonville Jaguars,Minnesota Vikings,7,12,0.0
+401671751,2024-11-10T21:05Z,Tennessee Titans at Los Angeles Chargers,Los Angeles Chargers,Tennessee Titans,27,17,1.0
+401671676,2024-11-10T21:25Z,Philadelphia Eagles at Dallas Cowboys,Dallas Cowboys,Philadelphia Eagles,6,34,0.0
+401671678,2024-11-10T21:25Z,New York Jets at Arizona Cardinals,Arizona Cardinals,New York Jets,31,6,1.0
+401671787,2024-11-11T01:20Z,Detroit Lions at Houston Texans,Houston Texans,Detroit Lions,23,26,0.0
+401671693,2024-11-12T01:15Z,Miami Dolphins at Los Angeles Rams,Los Angeles Rams,Miami Dolphins,15,23,0.0
+401671813,2024-11-15T01:15Z,Washington Commanders at Philadelphia Eagles,Philadelphia Eagles,Washington Commanders,26,18,1.0
+401671869,2024-11-17T18:00Z,Green Bay Packers at Chicago Bears,Chicago Bears,Green Bay Packers,19,20,0.0
+401671642,2024-11-17T18:00Z,Jacksonville Jaguars at Detroit Lions,Detroit Lions,Jacksonville Jaguars,52,6,1.0
+401671824,2024-11-17T18:00Z,Minnesota Vikings at Tennessee Titans,Tennessee Titans,Minnesota Vikings,13,23,0.0
+401671851,2024-11-17T18:00Z,Las Vegas Raiders at Miami Dolphins,Miami Dolphins,Las Vegas Raiders,34,19,1.0
+401671701,2024-11-17T18:00Z,Los Angeles Rams at New England Patriots,New England Patriots,Los Angeles Rams,22,28,0.0
+401671746,2024-11-17T18:00Z,Cleveland Browns at New Orleans Saints,New Orleans Saints,Cleveland Browns,35,14,1.0
+401671782,2024-11-17T18:00Z,Indianapolis Colts at New York Jets,New York Jets,Indianapolis Colts,27,28,0.0
+401671630,2024-11-17T18:00Z,Baltimore Ravens at Pittsburgh Steelers,Pittsburgh Steelers,Baltimore Ravens,18,16,1.0
+401671748,2024-11-17T21:05Z,Atlanta Falcons at Denver Broncos,Denver Broncos,Atlanta Falcons,38,6,1.0
+401671757,2024-11-17T21:05Z,Seattle Seahawks at San Francisco 49ers,San Francisco 49ers,Seattle Seahawks,17,20,0.0
+401671665,2024-11-17T21:25Z,Kansas City Chiefs at Buffalo Bills,Buffalo Bills,Kansas City Chiefs,30,21,1.0
+401671675,2024-11-18T01:20Z,Cincinnati Bengals at Los Angeles Chargers,Los Angeles Chargers,Cincinnati Bengals,34,27,1.0
+401671694,2024-11-19T01:15Z,Houston Texans at Dallas Cowboys,Dallas Cowboys,Houston Texans,10,34,0.0
+401671875,2024-11-22T01:15Z,Pittsburgh Steelers at Cleveland Browns,Cleveland Browns,Pittsburgh Steelers,24,19,1.0
+401671870,2024-11-24T18:00Z,Minnesota Vikings at Chicago Bears,Chicago Bears,Minnesota Vikings,27,30,0.0
+401671866,2024-11-24T18:00Z,Detroit Lions at Indianapolis Colts,Indianapolis Colts,Detroit Lions,6,24,0.0
+401671847,2024-11-24T18:00Z,New England Patriots at Miami Dolphins,Miami Dolphins,New England Patriots,34,15,1.0
+401671638,2024-11-24T18:00Z,Tampa Bay Buccaneers at New York Giants,New York Giants,Tampa Bay Buccaneers,7,30,0.0
+401671715,2024-11-24T18:00Z,Dallas Cowboys at Washington Commanders,Washington Commanders,Dallas Cowboys,26,34,0.0
+401671651,2024-11-24T18:00Z,Kansas City Chiefs at Carolina Panthers,Carolina Panthers,Kansas City Chiefs,27,30,0.0
+401671858,2024-11-24T18:00Z,Tennessee Titans at Houston Texans,Houston Texans,Tennessee Titans,27,32,0.0
+401671656,2024-11-24T21:05Z,Denver Broncos at Las Vegas Raiders,Las Vegas Raiders,Denver Broncos,19,29,0.0
+401671768,2024-11-24T21:25Z,San Francisco 49ers at Green Bay Packers,Green Bay Packers,San Francisco 49ers,38,10,1.0
+401671775,2024-11-24T21:25Z,Arizona Cardinals at Seattle Seahawks,Seattle Seahawks,Arizona Cardinals,16,6,1.0
+401671794,2024-11-25T01:20Z,Philadelphia Eagles at Los Angeles Rams,Los Angeles Rams,Philadelphia Eagles,20,37,0.0
+401671689,2024-11-26T01:15Z,Baltimore Ravens at Los Angeles Chargers,Los Angeles Chargers,Baltimore Ravens,23,30,0.0
+401671492,2024-11-28T17:30Z,Chicago Bears at Detroit Lions,Detroit Lions,Chicago Bears,23,20,1.0
+401671779,2024-11-28T21:30Z,New York Giants at Dallas Cowboys,Dallas Cowboys,New York Giants,27,20,1.0
+401671798,2024-11-29T01:20Z,Miami Dolphins at Green Bay Packers,Green Bay Packers,Miami Dolphins,30,17,1.0
+401671806,2024-11-29T20:00Z,Las Vegas Raiders at Kansas City Chiefs,Kansas City Chiefs,Las Vegas Raiders,19,17,1.0

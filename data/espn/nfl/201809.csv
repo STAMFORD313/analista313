@@ -1,0 +1,63 @@
+id,date,event,home,away,hs,as,res
+401030710,2018-09-07T00:55Z,Atlanta Falcons at Philadelphia Eagles,Philadelphia Eagles,Atlanta Falcons,18,12,1.0
+401030718,2018-09-09T17:00Z,Pittsburgh Steelers at Cleveland Browns,Cleveland Browns,Pittsburgh Steelers,21,21,0.5
+401030717,2018-09-09T17:00Z,Cincinnati Bengals at Indianapolis Colts,Indianapolis Colts,Cincinnati Bengals,23,34,0.0
+401030716,2018-09-09T17:00Z,Tennessee Titans at Miami Dolphins,Miami Dolphins,Tennessee Titans,27,20,1.0
+401030715,2018-09-09T17:00Z,San Francisco 49ers at Minnesota Vikings,Minnesota Vikings,San Francisco 49ers,24,16,1.0
+401030714,2018-09-09T17:00Z,Houston Texans at New England Patriots,New England Patriots,Houston Texans,27,20,1.0
+401030713,2018-09-09T17:00Z,Tampa Bay Buccaneers at New Orleans Saints,New Orleans Saints,Tampa Bay Buccaneers,40,48,0.0
+401030712,2018-09-09T17:00Z,Jacksonville Jaguars at New York Giants,New York Giants,Jacksonville Jaguars,15,20,0.0
+401030711,2018-09-09T17:00Z,Buffalo Bills at Baltimore Ravens,Baltimore Ravens,Buffalo Bills,47,3,1.0
+401030720,2018-09-09T20:05Z,Kansas City Chiefs at Los Angeles Chargers,Los Angeles Chargers,Kansas City Chiefs,28,38,0.0
+401030721,2018-09-09T20:25Z,Seattle Seahawks at Denver Broncos,Denver Broncos,Seattle Seahawks,27,24,1.0
+401030725,2018-09-09T20:25Z,Washington Redskins at Arizona Cardinals,Arizona Cardinals,Washington Redskins,6,24,0.0
+401030723,2018-09-09T20:25Z,Dallas Cowboys at Carolina Panthers,Carolina Panthers,Dallas Cowboys,16,8,1.0
+401030726,2018-09-10T00:20Z,Chicago Bears at Green Bay Packers,Green Bay Packers,Chicago Bears,24,23,1.0
+401030728,2018-09-10T23:10Z,New York Jets at Detroit Lions,Detroit Lions,New York Jets,17,48,0.0
+401030751,2018-09-11T02:20Z,Los Angeles Rams at Oakland Raiders,Oakland Raiders,Los Angeles Rams,13,33,0.0
+401030690,2018-09-14T00:20Z,Baltimore Ravens at Cincinnati Bengals,Cincinnati Bengals,Baltimore Ravens,34,23,1.0
+401030691,2018-09-16T17:00Z,Carolina Panthers at Atlanta Falcons,Atlanta Falcons,Carolina Panthers,31,24,1.0
+401030704,2018-09-16T17:00Z,Los Angeles Chargers at Buffalo Bills,Buffalo Bills,Los Angeles Chargers,20,31,0.0
+401030705,2018-09-16T17:00Z,Minnesota Vikings at Green Bay Packers,Green Bay Packers,Minnesota Vikings,29,29,0.5
+401030694,2018-09-16T17:00Z,Houston Texans at Tennessee Titans,Tennessee Titans,Houston Texans,20,17,1.0
+401030708,2018-09-16T17:00Z,Cleveland Browns at New Orleans Saints,New Orleans Saints,Cleveland Browns,21,18,1.0
+401030700,2018-09-16T17:00Z,Miami Dolphins at New York Jets,New York Jets,Miami Dolphins,12,20,0.0
+401030698,2018-09-16T17:00Z,Kansas City Chiefs at Pittsburgh Steelers,Pittsburgh Steelers,Kansas City Chiefs,37,42,0.0
+401030696,2018-09-16T17:00Z,Philadelphia Eagles at Tampa Bay Buccaneers,Tampa Bay Buccaneers,Philadelphia Eagles,27,21,1.0
+401030693,2018-09-16T17:00Z,Indianapolis Colts at Washington Redskins,Washington Redskins,Indianapolis Colts,9,21,0.0
+401030732,2018-09-16T20:05Z,Arizona Cardinals at Los Angeles Rams,Los Angeles Rams,Arizona Cardinals,34,0,1.0
+401030730,2018-09-16T20:05Z,Detroit Lions at San Francisco 49ers,San Francisco 49ers,Detroit Lions,30,27,1.0
+401030736,2018-09-16T20:25Z,Oakland Raiders at Denver Broncos,Denver Broncos,Oakland Raiders,20,19,1.0
+401030733,2018-09-16T20:25Z,New England Patriots at Jacksonville Jaguars,Jacksonville Jaguars,New England Patriots,31,20,1.0
+401030738,2018-09-17T00:20Z,New York Giants at Dallas Cowboys,Dallas Cowboys,New York Giants,20,13,1.0
+401030739,2018-09-18T00:15Z,Seattle Seahawks at Chicago Bears,Chicago Bears,Seattle Seahawks,24,17,1.0
+401030775,2018-09-21T00:20Z,New York Jets at Cleveland Browns,Cleveland Browns,New York Jets,21,17,1.0
+401030777,2018-09-23T17:00Z,New Orleans Saints at Atlanta Falcons,Atlanta Falcons,New Orleans Saints,37,43,0.0
+401030795,2018-09-23T17:00Z,San Francisco 49ers at Kansas City Chiefs,Kansas City Chiefs,San Francisco 49ers,38,27,1.0
+401030787,2018-09-23T17:00Z,Oakland Raiders at Miami Dolphins,Miami Dolphins,Oakland Raiders,28,20,1.0
+401030784,2018-09-23T17:00Z,Buffalo Bills at Minnesota Vikings,Minnesota Vikings,Buffalo Bills,6,27,0.0
+401030782,2018-09-23T17:00Z,Indianapolis Colts at Philadelphia Eagles,Philadelphia Eagles,Indianapolis Colts,20,16,1.0
+401030781,2018-09-23T17:00Z,Green Bay Packers at Washington Redskins,Washington Redskins,Green Bay Packers,31,17,1.0
+401030790,2018-09-23T17:00Z,Cincinnati Bengals at Carolina Panthers,Carolina Panthers,Cincinnati Bengals,31,21,1.0
+401030794,2018-09-23T17:00Z,Tennessee Titans at Jacksonville Jaguars,Jacksonville Jaguars,Tennessee Titans,6,9,0.0
+401030788,2018-09-23T17:00Z,Denver Broncos at Baltimore Ravens,Baltimore Ravens,Denver Broncos,27,14,1.0
+401030791,2018-09-23T17:00Z,New York Giants at Houston Texans,Houston Texans,New York Giants,22,27,0.0
+401030798,2018-09-23T20:05Z,Los Angeles Chargers at Los Angeles Rams,Los Angeles Rams,Los Angeles Chargers,35,23,1.0
+401030801,2018-09-23T20:25Z,Chicago Bears at Arizona Cardinals,Arizona Cardinals,Chicago Bears,14,16,0.0
+401030799,2018-09-23T20:25Z,Dallas Cowboys at Seattle Seahawks,Seattle Seahawks,Dallas Cowboys,24,13,1.0
+401030802,2018-09-24T00:20Z,New England Patriots at Detroit Lions,Detroit Lions,New England Patriots,26,10,1.0
+401030805,2018-09-25T00:15Z,Pittsburgh Steelers at Tampa Bay Buccaneers,Tampa Bay Buccaneers,Pittsburgh Steelers,27,30,0.0
+401030839,2018-09-28T00:20Z,Minnesota Vikings at Los Angeles Rams,Los Angeles Rams,Minnesota Vikings,38,31,1.0
+401030847,2018-09-30T17:00Z,Cincinnati Bengals at Atlanta Falcons,Atlanta Falcons,Cincinnati Bengals,36,37,0.0
+401030846,2018-09-30T17:00Z,Tampa Bay Buccaneers at Chicago Bears,Chicago Bears,Tampa Bay Buccaneers,48,10,1.0
+401030845,2018-09-30T17:00Z,Detroit Lions at Dallas Cowboys,Dallas Cowboys,Detroit Lions,26,24,1.0
+401030844,2018-09-30T17:00Z,Buffalo Bills at Green Bay Packers,Green Bay Packers,Buffalo Bills,22,0,1.0
+401030842,2018-09-30T17:00Z,Philadelphia Eagles at Tennessee Titans,Tennessee Titans,Philadelphia Eagles,26,23,1.0
+401030843,2018-09-30T17:00Z,Houston Texans at Indianapolis Colts,Indianapolis Colts,Houston Texans,34,37,0.0
+401030841,2018-09-30T17:00Z,Miami Dolphins at New England Patriots,New England Patriots,Miami Dolphins,38,7,1.0
+401030840,2018-09-30T17:00Z,New York Jets at Jacksonville Jaguars,Jacksonville Jaguars,New York Jets,31,12,1.0
+401030930,2018-09-30T20:05Z,Cleveland Browns at Oakland Raiders,Oakland Raiders,Cleveland Browns,45,42,1.0
+401030848,2018-09-30T20:05Z,Seattle Seahawks at Arizona Cardinals,Arizona Cardinals,Seattle Seahawks,17,20,0.0
+401030931,2018-09-30T20:25Z,New Orleans Saints at New York Giants,New York Giants,New Orleans Saints,18,33,0.0
+401030932,2018-09-30T20:25Z,San Francisco 49ers at Los Angeles Chargers,Los Angeles Chargers,San Francisco 49ers,29,27,1.0
+401030933,2018-10-01T00:20Z,Baltimore Ravens at Pittsburgh Steelers,Pittsburgh Steelers,Baltimore Ravens,14,26,0.0

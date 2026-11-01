@@ -1,0 +1,181 @@
+id,date,event,home,away,hs,as,res
+400978817,2017-10-01T22:00Z,Atlanta Hawks at Miami Heat,Miami Heat,Atlanta Hawks,96,90,1.0
+400978788,2017-10-02T02:00Z,LA Clippers at Toronto Raptors,Toronto Raptors,LA Clippers,121,113,1.0
+400980091,2017-10-02T23:00Z,Guangzhou Loong-Lions at Washington Wizards,Washington Wizards,Guangzhou Loong-Lions,126,96,1.0
+400978752,2017-10-02T23:30Z,Charlotte Hornets at Boston Celtics,Boston Celtics,Charlotte Hornets,94,82,1.0
+400978805,2017-10-03T00:00Z,Orlando Magic at Memphis Grizzlies,Memphis Grizzlies,Orlando Magic,92,84,1.0
+400978814,2017-10-03T00:30Z,Milwaukee Bucks at Dallas Mavericks,Dallas Mavericks,Milwaukee Bucks,106,104,1.0
+400978803,2017-10-03T01:00Z,Sydney Kings at Utah Jazz,Utah Jazz,Sydney Kings,108,84,1.0
+400978792,2017-10-03T02:00Z,San Antonio Spurs at Sacramento Kings,Sacramento Kings,San Antonio Spurs,106,100,1.0
+400978679,2017-10-03T02:30Z,Denver Nuggets at Los Angeles Lakers,Los Angeles Lakers,Denver Nuggets,107,113,0.0
+400978762,2017-10-03T23:30Z,Brooklyn Nets at New York Knicks,New York Knicks,Brooklyn Nets,107,115,0.0
+400978771,2017-10-04T00:00Z,Chicago Bulls at New Orleans Pelicans,New Orleans Pelicans,Chicago Bulls,109,113,0.0
+400978809,2017-10-04T00:00Z,Houston Rockets at Oklahoma City Thunder,Oklahoma City Thunder,Houston Rockets,97,104,0.0
+400978799,2017-10-04T02:00Z,Phoenix Suns at Portland Trail Blazers,Portland Trail Blazers,Phoenix Suns,112,114,0.0
+400978789,2017-10-04T05:00Z,Toronto Raptors at LA Clippers,LA Clippers,Toronto Raptors,98,84,1.0
+400978748,2017-10-04T23:00Z,Memphis Grizzlies at Philadelphia 76ers,Philadelphia 76ers,Memphis Grizzlies,89,110,0.0
+400978754,2017-10-04T23:00Z,Atlanta Hawks at Cleveland Cavaliers,Cleveland Cavaliers,Atlanta Hawks,93,109,0.0
+400978761,2017-10-04T23:00Z,Charlotte Hornets at Detroit Pistons,Detroit Pistons,Charlotte Hornets,106,108,0.0
+400978815,2017-10-05T00:00Z,Indiana Pacers at Milwaukee Bucks,Milwaukee Bucks,Indiana Pacers,86,104,0.0
+400978767,2017-10-05T00:30Z,Chicago Bulls at Dallas Mavericks,Dallas Mavericks,Chicago Bulls,118,71,1.0
+400978804,2017-10-05T01:00Z,Haifa Maccabi at Utah Jazz,Utah Jazz,Maccabi Haifa,117,78,1.0
+400978680,2017-10-05T02:00Z,Denver Nuggets at Los Angeles Lakers,Los Angeles Lakers,Denver Nuggets,104,122,0.0
+400978765,2017-10-05T06:00Z,Minnesota Timberwolves at Golden State Warriors,Golden State Warriors,Minnesota Timberwolves,97,111,0.0
+400978806,2017-10-05T23:00Z,Dallas Mavericks at Orlando Magic,Orlando Magic,Dallas Mavericks,112,89,1.0
+400978763,2017-10-05T23:30Z,Miami Heat at Brooklyn Nets,Brooklyn Nets,Miami Heat,107,88,1.0
+400980088,2017-10-06T00:00Z,Shanghai Sharks at Houston Rockets,Houston Rockets,Shanghai Sharks,144,82,1.0
+400978790,2017-10-06T02:00Z,Toronto Raptors at Portland Trail Blazers,Portland Trail Blazers,Toronto Raptors,106,101,1.0
+400978747,2017-10-06T23:00Z,Boston Celtics at Philadelphia 76ers,Philadelphia 76ers,Boston Celtics,102,110,0.0
+400980086,2017-10-06T23:00Z,Atlanta Hawks at Detroit Pistons,Detroit Pistons,Atlanta Hawks,109,87,1.0
+400980090,2017-10-06T23:00Z,New York Knicks at Washington Wizards,Washington Wizards,New York Knicks,104,100,1.0
+400978755,2017-10-06T23:30Z,Indiana Pacers at Cleveland Cavaliers,Cleveland Cavaliers,Indiana Pacers,102,106,0.0
+400978768,2017-10-07T00:00Z,Milwaukee Bucks at Chicago Bulls,Chicago Bulls,Milwaukee Bucks,114,101,1.0
+400978810,2017-10-07T00:00Z,New Orleans Pelicans at Oklahoma City Thunder,Oklahoma City Thunder,New Orleans Pelicans,102,91,1.0
+400978793,2017-10-07T00:30Z,Sacramento Kings at San Antonio Spurs,San Antonio Spurs,Sacramento Kings,113,93,1.0
+400978786,2017-10-07T01:00Z,Phoenix Suns at Utah Jazz,Utah Jazz,Phoenix Suns,112,101,1.0
+400978807,2017-10-07T23:00Z,Miami Heat at Orlando Magic,Orlando Magic,Miami Heat,93,90,1.0
+400978766,2017-10-08T11:00Z,Golden State Warriors at Minnesota Timberwolves,Minnesota Timberwolves,Golden State Warriors,110,142,0.0
+400978756,2017-10-08T19:00Z,Cleveland Cavaliers at Washington Wizards,Washington Wizards,Cleveland Cavaliers,102,94,1.0
+400978812,2017-10-08T19:00Z,Melbourne Melbourne United at Oklahoma City Thunder,Oklahoma City Thunder,Melbourne United,86,85,1.0
+400978800,2017-10-08T19:30Z,Portland Trail Blazers at LA Clippers,LA Clippers,Portland Trail Blazers,106,134,0.0
+400978750,2017-10-08T20:00Z,Denver Nuggets at San Antonio Spurs,San Antonio Spurs,Denver Nuggets,122,100,1.0
+400978769,2017-10-08T23:00Z,New Orleans Pelicans at Chicago Bulls,Chicago Bulls,New Orleans Pelicans,95,108,0.0
+400978764,2017-10-08T23:30Z,New York Knicks at Brooklyn Nets,Brooklyn Nets,New York Knicks,117,83,1.0
+400978681,2017-10-09T01:00Z,Sacramento Kings at Los Angeles Lakers,Los Angeles Lakers,Sacramento Kings,75,69,1.0
+400978821,2017-10-09T23:00Z,Indiana Pacers at Detroit Pistons,Detroit Pistons,Indiana Pacers,107,97,1.0
+400978746,2017-10-09T23:30Z,Philadelphia 76ers at Boston Celtics,Boston Celtics,Philadelphia 76ers,113,96,1.0
+400978760,2017-10-09T23:30Z,Charlotte Hornets at Miami Heat,Miami Heat,Charlotte Hornets,109,106,1.0
+400978819,2017-10-09T23:30Z,Memphis Grizzlies at Atlanta Hawks,Atlanta Hawks,Memphis Grizzlies,100,88,1.0
+400980087,2017-10-09T23:30Z,Houston Rockets at New York Knicks,New York Knicks,Houston Rockets,95,117,0.0
+400978808,2017-10-10T00:30Z,Orlando Magic at Dallas Mavericks,Dallas Mavericks,Orlando Magic,99,96,1.0
+400978787,2017-10-10T02:00Z,Utah Jazz at Phoenix Suns,Phoenix Suns,Utah Jazz,102,120,0.0
+400978796,2017-10-10T02:00Z,Portland Trail Blazers at Sacramento Kings,Sacramento Kings,Portland Trail Blazers,83,97,0.0
+400978791,2017-10-10T23:00Z,Detroit Pistons at Toronto Raptors,Toronto Raptors,Detroit Pistons,116,94,1.0
+400978822,2017-10-10T23:00Z,Haifa Maccabi at Indiana Pacers,Indiana Pacers,Maccabi Haifa,108,89,1.0
+400978757,2017-10-11T00:00Z,Chicago Bulls at Cleveland Cavaliers,Cleveland Cavaliers,Chicago Bulls,94,108,0.0
+400978794,2017-10-11T00:30Z,Orlando Magic at San Antonio Spurs,San Antonio Spurs,Orlando Magic,98,103,0.0
+400978751,2017-10-11T01:00Z,Oklahoma City Thunder at Denver Nuggets,Denver Nuggets,Oklahoma City Thunder,86,96,0.0
+400978682,2017-10-11T02:30Z,Utah Jazz at Los Angeles Lakers,Los Angeles Lakers,Utah Jazz,99,105,0.0
+400978753,2017-10-11T23:00Z,Boston Celtics at Charlotte Hornets,Charlotte Hornets,Boston Celtics,100,108,0.0
+400978685,2017-10-11T23:30Z,Philadelphia 76ers at Brooklyn Nets,Brooklyn Nets,Philadelphia 76ers,114,133,0.0
+400978818,2017-10-11T23:30Z,Washington Wizards at Miami Heat,Miami Heat,Washington Wizards,117,115,1.0
+400978820,2017-10-12T01:30Z,Houston Rockets at Memphis Grizzlies,Memphis Grizzlies,Houston Rockets,89,101,0.0
+400978801,2017-10-12T02:00Z,Portland Trail Blazers at Phoenix Suns,Phoenix Suns,Portland Trail Blazers,104,113,0.0
+400980092,2017-10-12T23:30Z,Dallas Mavericks at Atlanta Hawks,Atlanta Hawks,Dallas Mavericks,94,108,0.0
+400978797,2017-10-13T02:30Z,Sacramento Kings at LA Clippers,LA Clippers,Sacramento Kings,104,87,1.0
+400978759,2017-10-13T22:00Z,Dallas Mavericks at Charlotte Hornets,Charlotte Hornets,Dallas Mavericks,111,96,1.0
+400978758,2017-10-13T23:00Z,Cleveland Cavaliers at Orlando Magic,Orlando Magic,Cleveland Cavaliers,106,113,0.0
+400980089,2017-10-13T23:30Z,Washington Wizards at New York Knicks,New York Knicks,Washington Wizards,103,110,0.0
+400978770,2017-10-14T00:00Z,Toronto Raptors at Chicago Bulls,Chicago Bulls,Toronto Raptors,104,125,0.0
+400978795,2017-10-14T00:00Z,San Antonio Spurs at Houston Rockets,Houston Rockets,San Antonio Spurs,97,106,0.0
+400978811,2017-10-14T00:00Z,New Orleans Pelicans at Memphis Grizzlies,Memphis Grizzlies,New Orleans Pelicans,142,101,1.0
+400978684,2017-10-14T00:30Z,Miami Heat at Philadelphia 76ers,Philadelphia 76ers,Miami Heat,119,95,1.0
+400978816,2017-10-14T00:30Z,Detroit Pistons at Milwaukee Bucks,Milwaukee Bucks,Detroit Pistons,107,103,1.0
+400978802,2017-10-14T02:00Z,Haifa Maccabi at Portland Trail Blazers,Portland Trail Blazers,Maccabi Haifa,129,81,1.0
+400978813,2017-10-14T02:00Z,Brisbane Bullets at Phoenix Suns,Phoenix Suns,Brisbane Bullets,114,93,1.0
+400978683,2017-10-14T02:30Z,Los Angeles Lakers at LA Clippers,LA Clippers,Los Angeles Lakers,104,111,0.0
+400978798,2017-10-14T02:30Z,Sacramento Kings at Golden State Warriors,Golden State Warriors,Sacramento Kings,117,106,1.0
+400974437,2017-10-18T00:00Z,Boston Celtics at Cleveland Cavaliers,Cleveland Cavaliers,Boston Celtics,102,99,1.0
+400974438,2017-10-18T02:30Z,Houston Rockets at Golden State Warriors,Golden State Warriors,Houston Rockets,121,122,0.0
+400974439,2017-10-18T23:00Z,Philadelphia 76ers at Washington Wizards,Washington Wizards,Philadelphia 76ers,120,115,1.0
+400974700,2017-10-18T23:00Z,Charlotte Hornets at Detroit Pistons,Detroit Pistons,Charlotte Hornets,102,90,1.0
+400974701,2017-10-18T23:00Z,Brooklyn Nets at Indiana Pacers,Indiana Pacers,Brooklyn Nets,140,131,1.0
+400974702,2017-10-18T23:00Z,Miami Heat at Orlando Magic,Orlando Magic,Miami Heat,116,109,1.0
+400974703,2017-10-18T23:30Z,Milwaukee Bucks at Boston Celtics,Boston Celtics,Milwaukee Bucks,100,108,0.0
+400974704,2017-10-19T00:00Z,New Orleans Pelicans at Memphis Grizzlies,Memphis Grizzlies,New Orleans Pelicans,103,91,1.0
+400974705,2017-10-19T00:30Z,Atlanta Hawks at Dallas Mavericks,Dallas Mavericks,Atlanta Hawks,111,117,0.0
+400974766,2017-10-19T01:00Z,Denver Nuggets at Utah Jazz,Utah Jazz,Denver Nuggets,106,96,1.0
+400974440,2017-10-19T01:30Z,Minnesota Timberwolves at San Antonio Spurs,San Antonio Spurs,Minnesota Timberwolves,107,99,1.0
+400974767,2017-10-19T02:00Z,Portland Trail Blazers at Phoenix Suns,Phoenix Suns,Portland Trail Blazers,76,124,0.0
+400974768,2017-10-19T02:00Z,Houston Rockets at Sacramento Kings,Sacramento Kings,Houston Rockets,100,105,0.0
+400974769,2017-10-19T23:30Z,Chicago Bulls at Toronto Raptors,Toronto Raptors,Chicago Bulls,117,100,1.0
+400974441,2017-10-20T00:00Z,New York Knicks at Oklahoma City Thunder,Oklahoma City Thunder,New York Knicks,105,84,1.0
+400974442,2017-10-20T02:30Z,LA Clippers at Los Angeles Lakers,Los Angeles Lakers,LA Clippers,92,108,0.0
+400974443,2017-10-20T23:00Z,Cleveland Cavaliers at Milwaukee Bucks,Milwaukee Bucks,Cleveland Cavaliers,97,116,0.0
+400974770,2017-10-20T23:00Z,Atlanta Hawks at Charlotte Hornets,Charlotte Hornets,Atlanta Hawks,109,91,1.0
+400974771,2017-10-20T23:00Z,Portland Trail Blazers at Indiana Pacers,Indiana Pacers,Portland Trail Blazers,96,114,0.0
+400974772,2017-10-20T23:00Z,Boston Celtics at Philadelphia 76ers,Philadelphia 76ers,Boston Celtics,92,102,0.0
+400974773,2017-10-20T23:00Z,Detroit Pistons at Washington Wizards,Washington Wizards,Detroit Pistons,115,111,1.0
+400974774,2017-10-20T23:30Z,Orlando Magic at Brooklyn Nets,Brooklyn Nets,Orlando Magic,126,121,1.0
+400974775,2017-10-21T00:00Z,Utah Jazz at Minnesota Timberwolves,Minnesota Timberwolves,Utah Jazz,100,97,1.0
+400974776,2017-10-21T00:30Z,Sacramento Kings at Dallas Mavericks,Dallas Mavericks,Sacramento Kings,88,93,0.0
+400974444,2017-10-21T01:30Z,Golden State Warriors at New Orleans Pelicans,New Orleans Pelicans,Golden State Warriors,120,128,0.0
+400974777,2017-10-21T02:00Z,Los Angeles Lakers at Phoenix Suns,Phoenix Suns,Los Angeles Lakers,130,132,0.0
+400974778,2017-10-21T23:30Z,Philadelphia 76ers at Toronto Raptors,Toronto Raptors,Philadelphia 76ers,128,94,1.0
+400974779,2017-10-22T00:00Z,Orlando Magic at Cleveland Cavaliers,Cleveland Cavaliers,Orlando Magic,93,114,0.0
+400974780,2017-10-22T00:00Z,Indiana Pacers at Miami Heat,Miami Heat,Indiana Pacers,112,108,1.0
+400974781,2017-10-22T00:00Z,Detroit Pistons at New York Knicks,New York Knicks,Detroit Pistons,107,111,0.0
+400974782,2017-10-22T00:00Z,San Antonio Spurs at Chicago Bulls,Chicago Bulls,San Antonio Spurs,77,87,0.0
+400974783,2017-10-22T00:00Z,Dallas Mavericks at Houston Rockets,Houston Rockets,Dallas Mavericks,107,91,1.0
+400974784,2017-10-22T00:00Z,Golden State Warriors at Memphis Grizzlies,Memphis Grizzlies,Golden State Warriors,111,101,1.0
+400974785,2017-10-22T00:30Z,Portland Trail Blazers at Milwaukee Bucks,Milwaukee Bucks,Portland Trail Blazers,113,110,1.0
+400974786,2017-10-22T01:00Z,Sacramento Kings at Denver Nuggets,Denver Nuggets,Sacramento Kings,96,79,1.0
+400974787,2017-10-22T01:00Z,Oklahoma City Thunder at Utah Jazz,Utah Jazz,Oklahoma City Thunder,96,87,1.0
+400974788,2017-10-22T02:30Z,Phoenix Suns at LA Clippers,LA Clippers,Phoenix Suns,130,88,1.0
+400974789,2017-10-22T19:30Z,Atlanta Hawks at Brooklyn Nets,Brooklyn Nets,Atlanta Hawks,116,104,1.0
+400974790,2017-10-22T23:00Z,Minnesota Timberwolves at Oklahoma City Thunder,Oklahoma City Thunder,Minnesota Timberwolves,113,115,0.0
+400974791,2017-10-23T01:30Z,New Orleans Pelicans at Los Angeles Lakers,Los Angeles Lakers,New Orleans Pelicans,112,119,0.0
+400974792,2017-10-23T23:00Z,Philadelphia 76ers at Detroit Pistons,Detroit Pistons,Philadelphia 76ers,86,97,0.0
+400974793,2017-10-23T23:30Z,Atlanta Hawks at Miami Heat,Miami Heat,Atlanta Hawks,104,93,1.0
+400974794,2017-10-24T00:00Z,Memphis Grizzlies at Houston Rockets,Houston Rockets,Memphis Grizzlies,90,98,0.0
+400974795,2017-10-24T00:00Z,Charlotte Hornets at Milwaukee Bucks,Milwaukee Bucks,Charlotte Hornets,103,94,1.0
+400974796,2017-10-24T00:30Z,Golden State Warriors at Dallas Mavericks,Dallas Mavericks,Golden State Warriors,103,133,0.0
+400974797,2017-10-24T00:30Z,Toronto Raptors at San Antonio Spurs,San Antonio Spurs,Toronto Raptors,101,97,1.0
+400974798,2017-10-24T01:00Z,Washington Wizards at Denver Nuggets,Denver Nuggets,Washington Wizards,104,109,0.0
+400974799,2017-10-24T02:00Z,Sacramento Kings at Phoenix Suns,Phoenix Suns,Sacramento Kings,117,115,1.0
+400974800,2017-10-24T23:00Z,Chicago Bulls at Cleveland Cavaliers,Cleveland Cavaliers,Chicago Bulls,119,112,1.0
+400974801,2017-10-24T23:00Z,Brooklyn Nets at Orlando Magic,Orlando Magic,Brooklyn Nets,125,121,1.0
+400974802,2017-10-24T23:30Z,New York Knicks at Boston Celtics,Boston Celtics,New York Knicks,110,89,1.0
+400974803,2017-10-25T00:00Z,Indiana Pacers at Minnesota Timberwolves,Minnesota Timberwolves,Indiana Pacers,107,130,0.0
+400974804,2017-10-25T02:00Z,New Orleans Pelicans at Portland Trail Blazers,Portland Trail Blazers,New Orleans Pelicans,103,93,1.0
+400974805,2017-10-25T02:30Z,Utah Jazz at LA Clippers,LA Clippers,Utah Jazz,102,84,1.0
+400974806,2017-10-25T23:00Z,Denver Nuggets at Charlotte Hornets,Charlotte Hornets,Denver Nuggets,110,93,1.0
+400974807,2017-10-25T23:00Z,Minnesota Timberwolves at Detroit Pistons,Detroit Pistons,Minnesota Timberwolves,122,101,1.0
+400974808,2017-10-25T23:00Z,Houston Rockets at Philadelphia 76ers,Philadelphia 76ers,Houston Rockets,104,105,0.0
+400974809,2017-10-25T23:30Z,Cleveland Cavaliers at Brooklyn Nets,Brooklyn Nets,Cleveland Cavaliers,112,107,1.0
+400974810,2017-10-26T00:00Z,San Antonio Spurs at Miami Heat,Miami Heat,San Antonio Spurs,100,117,0.0
+400974811,2017-10-26T00:00Z,Indiana Pacers at Oklahoma City Thunder,Oklahoma City Thunder,Indiana Pacers,114,96,1.0
+400974812,2017-10-26T00:30Z,Memphis Grizzlies at Dallas Mavericks,Dallas Mavericks,Memphis Grizzlies,103,94,1.0
+400974813,2017-10-26T02:00Z,Utah Jazz at Phoenix Suns,Phoenix Suns,Utah Jazz,97,88,1.0
+400974814,2017-10-26T02:30Z,Toronto Raptors at Golden State Warriors,Golden State Warriors,Toronto Raptors,117,112,1.0
+400974815,2017-10-26T02:30Z,Washington Wizards at Los Angeles Lakers,Los Angeles Lakers,Washington Wizards,102,99,1.0
+400974816,2017-10-27T00:00Z,Atlanta Hawks at Chicago Bulls,Chicago Bulls,Atlanta Hawks,91,86,1.0
+400974817,2017-10-27T00:00Z,Dallas Mavericks at Memphis Grizzlies,Memphis Grizzlies,Dallas Mavericks,96,91,1.0
+400974818,2017-10-27T00:00Z,Boston Celtics at Milwaukee Bucks,Milwaukee Bucks,Boston Celtics,89,96,0.0
+400974819,2017-10-27T02:00Z,LA Clippers at Portland Trail Blazers,Portland Trail Blazers,LA Clippers,103,104,0.0
+400974820,2017-10-27T02:30Z,New Orleans Pelicans at Sacramento Kings,Sacramento Kings,New Orleans Pelicans,106,114,0.0
+400974821,2017-10-27T23:00Z,Houston Rockets at Charlotte Hornets,Charlotte Hornets,Houston Rockets,93,109,0.0
+400974822,2017-10-27T23:00Z,San Antonio Spurs at Orlando Magic,Orlando Magic,San Antonio Spurs,114,87,1.0
+400974823,2017-10-27T23:30Z,Denver Nuggets at Atlanta Hawks,Atlanta Hawks,Denver Nuggets,100,105,0.0
+400974824,2017-10-27T23:30Z,Brooklyn Nets at New York Knicks,New York Knicks,Brooklyn Nets,107,86,1.0
+400974825,2017-10-28T00:00Z,Oklahoma City Thunder at Minnesota Timberwolves,Minnesota Timberwolves,Oklahoma City Thunder,119,116,1.0
+400974826,2017-10-28T02:30Z,Washington Wizards at Golden State Warriors,Golden State Warriors,Washington Wizards,120,117,1.0
+400974827,2017-10-28T02:30Z,Toronto Raptors at Los Angeles Lakers,Los Angeles Lakers,Toronto Raptors,92,101,0.0
+400974828,2017-10-28T23:00Z,Cleveland Cavaliers at New Orleans Pelicans,New Orleans Pelicans,Cleveland Cavaliers,123,101,1.0
+400974829,2017-10-29T00:00Z,Boston Celtics at Miami Heat,Miami Heat,Boston Celtics,90,96,0.0
+400974830,2017-10-29T00:00Z,Oklahoma City Thunder at Chicago Bulls,Chicago Bulls,Oklahoma City Thunder,69,101,0.0
+400974831,2017-10-29T00:00Z,Houston Rockets at Memphis Grizzlies,Memphis Grizzlies,Houston Rockets,103,89,1.0
+400974832,2017-10-29T00:30Z,Philadelphia 76ers at Dallas Mavericks,Dallas Mavericks,Philadelphia 76ers,110,112,0.0
+400974833,2017-10-29T01:00Z,Los Angeles Lakers at Utah Jazz,Utah Jazz,Los Angeles Lakers,96,81,1.0
+400974834,2017-10-29T02:00Z,Phoenix Suns at Portland Trail Blazers,Portland Trail Blazers,Phoenix Suns,114,107,1.0
+400974835,2017-10-29T02:30Z,Detroit Pistons at LA Clippers,LA Clippers,Detroit Pistons,87,95,0.0
+400974836,2017-10-29T19:30Z,Milwaukee Bucks at Atlanta Hawks,Atlanta Hawks,Milwaukee Bucks,106,117,0.0
+400974837,2017-10-29T20:30Z,San Antonio Spurs at Indiana Pacers,Indiana Pacers,San Antonio Spurs,97,94,1.0
+400974838,2017-10-29T22:00Z,Denver Nuggets at Brooklyn Nets,Brooklyn Nets,Denver Nuggets,111,124,0.0
+400974839,2017-10-29T22:00Z,Orlando Magic at Charlotte Hornets,Charlotte Hornets,Orlando Magic,120,113,1.0
+400974840,2017-10-29T22:00Z,Washington Wizards at Sacramento Kings,Sacramento Kings,Washington Wizards,83,110,0.0
+400974841,2017-10-29T23:00Z,New York Knicks at Cleveland Cavaliers,Cleveland Cavaliers,New York Knicks,95,114,0.0
+400974842,2017-10-30T00:30Z,Detroit Pistons at Golden State Warriors,Golden State Warriors,Detroit Pistons,107,115,0.0
+400974843,2017-10-30T23:30Z,San Antonio Spurs at Boston Celtics,Boston Celtics,San Antonio Spurs,108,94,1.0
+400974844,2017-10-30T23:30Z,Minnesota Timberwolves at Miami Heat,Miami Heat,Minnesota Timberwolves,122,125,0.0
+400974845,2017-10-30T23:30Z,Denver Nuggets at New York Knicks,New York Knicks,Denver Nuggets,116,110,1.0
+400974846,2017-10-31T00:00Z,Philadelphia 76ers at Houston Rockets,Houston Rockets,Philadelphia 76ers,107,115,0.0
+400974847,2017-10-31T00:00Z,Charlotte Hornets at Memphis Grizzlies,Memphis Grizzlies,Charlotte Hornets,99,104,0.0
+400974848,2017-10-31T00:00Z,Orlando Magic at New Orleans Pelicans,New Orleans Pelicans,Orlando Magic,99,115,0.0
+400974849,2017-10-31T01:00Z,Dallas Mavericks at Utah Jazz,Utah Jazz,Dallas Mavericks,104,89,1.0
+400974850,2017-10-31T02:00Z,Toronto Raptors at Portland Trail Blazers,Portland Trail Blazers,Toronto Raptors,85,99,0.0
+400974851,2017-10-31T02:30Z,Golden State Warriors at LA Clippers,LA Clippers,Golden State Warriors,113,141,0.0
+400974852,2017-10-31T23:00Z,Sacramento Kings at Indiana Pacers,Indiana Pacers,Sacramento Kings,101,83,1.0
+400974853,2017-10-31T23:30Z,Phoenix Suns at Brooklyn Nets,Brooklyn Nets,Phoenix Suns,114,122,0.0
+400974854,2017-11-01T00:00Z,Oklahoma City Thunder at Milwaukee Bucks,Milwaukee Bucks,Oklahoma City Thunder,91,110,0.0
+400974855,2017-11-01T02:30Z,Detroit Pistons at Los Angeles Lakers,Los Angeles Lakers,Detroit Pistons,113,93,1.0

@@ -1,0 +1,580 @@
+id,date,event,home,away,hs,as,res
+138437,2023-09-26T03:00Z,China Open,Brandon Nakashima,Aleksandar Vukic,,,0.0
+138438,2023-09-26T03:00Z,China Open,Matteo Arnaldi,Daniel Elahi Galan,,,1.0
+138440,2023-09-26T03:00Z,China Open,Max Purcell,Li Hanwen,,,1.0
+138427,2023-09-26T04:30Z,China Open,Bai Yan,J.J. Wolf,,,0.0
+138432,2023-09-26T04:30Z,China Open,Lloyd Harris,Daniel Altmaier,,,1.0
+138436,2023-09-26T04:30Z,China Open,Yannick Hanfmann,Dusan Lajovic,,,1.0
+138429,2023-09-26T07:00Z,China Open,Miomir Kecmanovic,Pavel Kotov,,,1.0
+138434,2023-09-26T07:00Z,China Open,Cristian Garin,Cui Jie,,,1.0
+138443,2023-09-27T03:00Z,China Open,Matteo Arnaldi,Aleksandar Vukic,,,1.0
+138445,2023-09-27T03:00Z,China Open,Max Purcell,J.J. Wolf,,,0.0
+138444,2023-09-27T04:30Z,China Open,Cristian Garin,Lloyd Harris,,,0.0
+138442,2023-09-27T05:30Z,China Open,Miomir Kecmanovic,Yannick Hanfmann,,,0.0
+138465,2023-09-28T04:30Z,China Open,Ugo Humbert,Lorenzo Sonego,,,1.0
+138449,2023-09-28T06:10Z,China Open,Matteo Arnaldi,J.J. Wolf,,,1.0
+138446,2023-09-28T07:25Z,China Open,Lloyd Harris,Tomas Martin Etcheverry,,,0.0
+138463,2023-09-28T10:40Z,China Open,Alejandro Davidovich Fokina,Zhou Yi,,,1.0
+138457,2023-09-28T12:10Z,China Open,Alex de Minaur,Andy Murray,,,1.0
+138452,2023-09-29T04:40Z,China Open,Daniel Evans,Jannik Sinner,,,0.0
+138462,2023-09-29T04:40Z,China Open,Mackenzie McDonald,Grigor Dimitrov,,,0.0
+138467,2023-09-29T04:40Z,China Open,Tommy Paul,Daniil Medvedev,,,0.0
+138447,2023-09-29T06:20Z,China Open,Holger Rune,Felix Auger-Aliassime,,,1.0
+138464,2023-09-29T07:10Z,China Open,Andrey Rublev,Cameron Norrie,,,1.0
+138455,2023-09-29T07:55Z,China Open,Nicolas Jarry,Stefanos Tsitsipas,,,1.0
+138448,2023-09-29T08:05Z,China Open,Alexander Zverev,Diego Schwartzman,,,1.0
+138454,2023-09-29T09:40Z,China Open,Karen Khachanov,Lorenzo Musetti,,,0.0
+138450,2023-09-29T09:45Z,China Open,Shang Juncheng,Yoshihito Nishioka,,,0.0
+138451,2023-09-29T11:40Z,China Open,Carlos Alcaraz,Yannick Hanfmann,,,1.0
+138461,2023-09-29T12:30Z,China Open,Jan-Lennard Struff,Casper Ruud,,,0.0
+138470,2023-09-30T04:40Z,China Open,Matteo Arnaldi,Nicolas Jarry,,,0.0
+138472,2023-09-30T08:00Z,China Open,Alex de Minaur,Daniil Medvedev,,,0.0
+138473,2023-09-30T10:55Z,China Open,Andrey Rublev,Ugo Humbert,,,0.0
+138471,2023-09-30T16:10Z,China Open,Alexander Zverev,Alejandro Davidovich Fokina,,,1.0
+138468,2023-10-01T06:30Z,China Open,Tomas Martin Etcheverry,Casper Ruud,,,0.0
+138466,2023-10-01T08:10Z,China Open,Carlos Alcaraz,Lorenzo Musetti,,,1.0
+138469,2023-10-01T09:45Z,China Open,Yoshihito Nishioka,Jannik Sinner,,,0.0
+138453,2023-10-01T11:40Z,China Open,Holger Rune,Grigor Dimitrov,,,0.0
+138456,2023-10-02T04:40Z,China Open,Ugo Humbert,Daniil Medvedev,,,0.0
+138458,2023-10-02T07:15Z,China Open,Alexander Zverev,Nicolas Jarry,,,1.0
+138475,2023-10-02T11:40Z,China Open,Carlos Alcaraz,Casper Ruud,,,1.0
+138474,2023-10-02T13:10Z,China Open,Grigor Dimitrov,Jannik Sinner,,,0.0
+138459,2023-10-03T11:00Z,China Open,Alexander Zverev,Daniil Medvedev,,,0.0
+138460,2023-10-03T13:00Z,China Open,Carlos Alcaraz,Jannik Sinner,,,0.0
+138476,2023-10-04T12:00Z,China Open,Jannik Sinner,Daniil Medvedev,,,1.0
+138522,2023-09-29T03:10Z,China Open,Katie Boulter,Bai Zhuoxuan,,,1.0
+138523,2023-09-29T03:10Z,China Open,Diane Parry,Magdalena Frech,,,0.0
+138526,2023-09-29T03:10Z,China Open,Emina Bektas,Kamilla Rakhimova,,,0.0
+138529,2023-09-29T03:10Z,China Open,Bernarda Pera,Claire Liu,,,0.0
+138534,2023-09-29T04:30Z,China Open,Jodie Burrage,Yulia Putintseva,,,0.0
+138533,2023-09-29T04:40Z,China Open,Wei Sijia,Yanina Wickmayer,,,0.0
+138527,2023-09-29T05:10Z,China Open,Rebeka Masarova,Kateryna Baindl,,,0.0
+138525,2023-09-29T05:30Z,China Open,Elina Avanesyan,Ren Yufei,,,1.0
+138530,2023-09-29T06:15Z,China Open,You Xiaodi,Anna Kalinskaya,,,0.0
+138521,2023-09-29T06:30Z,China Open,Mirra Andreeva,Kimberly Birrell,,,1.0
+138535,2023-09-29T06:40Z,China Open,Kayla Day,Cristina Bucsa,,,0.0
+138532,2023-09-29T07:05Z,China Open,Peyton Stearns,Anna-Lena Friedsam,,,1.0
+138520,2023-09-29T08:00Z,China Open,Lucia Bronzetti,Rebecca Marino,,,1.0
+138531,2023-09-29T08:20Z,China Open,Laura Pigossi,Aliaksandra Sasnovich,,,1.0
+138524,2023-09-29T08:55Z,China Open,Tamara Korpatsch,Ashlyn Krueger,,,0.0
+138528,2023-09-29T09:05Z,China Open,Leylah Fernandez,Eva Lys,,,0.0
+138539,2023-09-30T03:00Z,China Open,Claire Liu,Magdalena Frech,,,0.0
+138540,2023-09-30T03:05Z,China Open,Kateryna Baindl,Yanina Wickmayer,,,1.0
+138542,2023-09-30T03:05Z,China Open,Katie Boulter,Kamilla Rakhimova,,,1.0
+138556,2023-09-30T03:05Z,China Open,Donna Vekic,Anna Blinkova,,,0.0
+138536,2023-09-30T04:10Z,China Open,Mirra Andreeva,Anna Kalinskaya,,,1.0
+138541,2023-09-30T04:20Z,China Open,Elina Avanesyan,Yulia Putintseva,,,0.0
+138557,2023-09-30T04:40Z,China Open,Anastasia Potapova,Varvara Gracheva,,,0.0
+138574,2023-09-30T05:05Z,China Open,Marta Kostyuk,Elisabetta Cocciaretto,,,1.0
+138537,2023-09-30T05:20Z,China Open,Eva Lys,Cristina Bucsa,,,1.0
+138543,2023-09-30T05:20Z,China Open,Peyton Stearns,Laura Pigossi,,,1.0
+138538,2023-09-30T06:00Z,China Open,Lucia Bronzetti,Ashlyn Krueger,,,0.0
+138564,2023-09-30T06:40Z,China Open,Martina Trevisan,Tatjana Maria,,,0.0
+138551,2023-09-30T08:05Z,China Open,Sorana Cirstea,Petra Martic,,,0.0
+138567,2023-09-30T10:15Z,China Open,Yuan Yue,Elise Mertens,,,1.0
+138555,2023-09-30T13:35Z,China Open,Victoria Azarenka,Magda Linette,,,0.0
+138566,2023-10-01T03:10Z,China Open,Jasmine Paolini,Beatriz Haddad Maia,,,1.0
+138552,2023-10-01T04:40Z,China Open,Daria Saville,Katerina Siniakova,,,1.0
+138554,2023-10-01T04:40Z,China Open,Marketa Vondrousova,Anhelina Kalinina,,,0.0
+138575,2023-10-01T04:40Z,China Open,Alycia Parks,Liudmila Samsonova,,,0.0
+138545,2023-10-01T06:25Z,China Open,Marie Bouzkova,Yulia Putintseva,,,0.0
+138560,2023-10-01T06:40Z,China Open,Aryna Sabalenka,Sofia Kenin,,,1.0
+138558,2023-10-01T06:55Z,China Open,Jennifer Brady,Peyton Stearns,,,1.0
+138573,2023-10-01T08:30Z,China Open,Eva Lys,Jelena Ostapenko,,,0.0
+138569,2023-10-01T08:50Z,China Open,Linda Fruhvirtova,Arantxa Rus,,,1.0
+138565,2023-10-01T10:45Z,China Open,Magdalena Frech,Katie Boulter,,,0.0
+138571,2023-10-01T11:10Z,China Open,Tian Fangran,Linda Noskova,,,0.0
+138562,2023-10-01T11:30Z,China Open,Barbora Krejcikova,Mirra Andreeva,,,0.0
+138572,2023-10-01T13:35Z,China Open,Petra Kvitova,Wang Xiyu,,,1.0
+138548,2023-10-02T03:00Z,China Open,Lesia Tsurenko,Zhu Lin,,,1.0
+138559,2023-10-02T04:30Z,China Open,Sara Sorribes Tormo,Iga Swiatek,,,0.0
+138544,2023-10-02T04:35Z,China Open,Kateryna Baindl,Caroline Garcia,,,0.0
+138547,2023-10-02T04:35Z,China Open,Wang Xinyu,Vera Zvonareva,,,1.0
+138589,2023-10-02T04:35Z,China Open,Anhelina Kalinina,Daria Saville,,,1.0
+138576,2023-10-02T06:00Z,China Open,Linda Noskova,Jelena Ostapenko,,,0.0
+138546,2023-10-02T06:10Z,China Open,Mayar Sherif,Daria Kasatkina,,,0.0
+138553,2023-10-02T06:20Z,China Open,Ashlyn Krueger,Ons Jabeur,,,0.0
+138579,2023-10-02T06:30Z,China Open,Yuan Yue,Jasmine Paolini,,,0.0
+138591,2023-10-02T08:55Z,China Open,Magda Linette,Jennifer Brady,,,1.0
+138583,2023-10-02T09:40Z,China Open,Petra Kvitova,Liudmila Samsonova,,,0.0
+138550,2023-10-02T09:50Z,China Open,Ekaterina Alexandrova,Coco Gauff,,,0.0
+138563,2023-10-02T11:40Z,China Open,Zheng Qinwen,Elena Rybakina,,,0.0
+138577,2023-10-03T04:40Z,China Open,Aryna Sabalenka,Katie Boulter,,,1.0
+138580,2023-10-03T04:40Z,China Open,Jessica Pegula,Anna Blinkova,,,1.0
+138588,2023-10-03T04:40Z,China Open,Yulia Putintseva,Caroline Garcia,,,0.0
+138584,2023-10-03T07:05Z,China Open,Wang Xinyu,Daria Kasatkina,,,1.0
+138582,2023-10-03T07:10Z,China Open,Marta Kostyuk,Ons Jabeur,,,1.0
+138586,2023-10-03T07:30Z,China Open,Petra Martic,Coco Gauff,,,0.0
+138587,2023-10-03T08:50Z,China Open,Veronika Kudermetova,Lesia Tsurenko,,,1.0
+138590,2023-10-03T08:50Z,China Open,Varvara Gracheva,Iga Swiatek,,,0.0
+138581,2023-10-03T12:05Z,China Open,Tatjana Maria,Elena Rybakina,,,0.0
+138578,2023-10-03T12:10Z,China Open,Mirra Andreeva,Anastasia Pavlyuchenkova,,,1.0
+138585,2023-10-03T15:20Z,China Open,Maria Sakkari,Linda Fruhvirtova,,,1.0
+138593,2023-10-04T04:05Z,China Open,Jessica Pegula,Jelena Ostapenko,,,0.0
+138596,2023-10-04T06:20Z,China Open,Liudmila Samsonova,Marta Kostyuk,,,1.0
+138599,2023-10-04T09:30Z,China Open,Magda Linette,Iga Swiatek,,,0.0
+138594,2023-10-04T10:55Z,China Open,Mirra Andreeva,Elena Rybakina,,,0.0
+138597,2023-10-05T04:40Z,China Open,Anhelina Kalinina,Caroline Garcia,,,0.0
+138598,2023-10-05T06:40Z,China Open,Veronika Kudermetova,Coco Gauff,,,0.0
+138595,2023-10-05T08:40Z,China Open,Maria Sakkari,Wang Xinyu,,,1.0
+138592,2023-10-05T11:40Z,China Open,Aryna Sabalenka,Jasmine Paolini,,,1.0
+138602,2023-10-06T04:35Z,China Open,Caroline Garcia,Iga Swiatek,,,0.0
+138603,2023-10-06T07:30Z,China Open,Maria Sakkari,Coco Gauff,,,0.0
+138601,2023-10-06T09:00Z,China Open,Jelena Ostapenko,Liudmila Samsonova,,,0.0
+138600,2023-10-06T11:35Z,China Open,Aryna Sabalenka,Elena Rybakina,,,0.0
+138604,2023-10-07T06:40Z,China Open,Coco Gauff,Iga Swiatek,,,0.0
+138605,2023-10-07T08:35Z,China Open,Elena Rybakina,Liudmila Samsonova,,,0.0
+138606,2023-10-08T11:40Z,China Open,Liudmila Samsonova,Iga Swiatek,,,0.0
+138480,2023-09-26T05:00Z,Almaty Open,Saba Purtseladze,Sho Shimabukuro,,,0.0
+138477,2023-09-26T05:00Z,Almaty Open,Taro Daniel,Stefano Napolitano,,,1.0
+138478,2023-09-26T06:30Z,Almaty Open,Rubin Statham,Kimmer Coppejans,,,1.0
+138484,2023-09-26T06:30Z,Almaty Open,Evgeny Donskoy,Jurij Rodionov,,,0.0
+138479,2023-09-26T07:30Z,Almaty Open,Fabian Marozsan,Alibek Kachmazov,,,0.0
+138481,2023-09-26T07:30Z,Almaty Open,Alexandre Muller,Timur Maulenov,,,1.0
+138482,2023-09-26T09:00Z,Almaty Open,Egor Gerasimov,Zizou Bergs,,,1.0
+138483,2023-09-26T09:00Z,Almaty Open,Dominik Palan,Damir Dzumhur,,,0.0
+138488,2023-09-27T05:00Z,Almaty Open,Taro Daniel,Sho Shimabukuro,,,0.0
+138485,2023-09-27T05:00Z,Almaty Open,Rubin Statham,Jurij Rodionov,,,0.0
+138486,2023-09-27T06:30Z,Almaty Open,Alibek Kachmazov,Damir Dzumhur,,,1.0
+138487,2023-09-27T06:30Z,Almaty Open,Alexandre Muller,Egor Gerasimov,,,0.0
+138492,2023-09-27T10:55Z,Almaty Open,Hamad Medjedovic,Laslo Djere,,,1.0
+138505,2023-09-27T12:20Z,Almaty Open,Aleksandr Shevchenko,Botic Van De Zandschulp,,,1.0
+138497,2023-09-27T14:15Z,Almaty Open,Mikhail Kukushkin,Nuno Borges,,,0.0
+138512,2023-09-28T06:10Z,Almaty Open,Adrian Mannarino,Arthur Rinderknech,,,1.0
+138506,2023-09-28T06:40Z,Almaty Open,Egor Gerasimov,Bernabe Zapata Miralles,,,1.0
+138500,2023-09-28T08:25Z,Almaty Open,Gregoire Barrere,Jurij Rodionov,,,0.0
+138511,2023-09-28T08:55Z,Almaty Open,Alibek Kachmazov,Corentin Moutet,,,1.0
+138491,2023-09-28T10:55Z,Almaty Open,Stan Wawrinka,Marcos Giron,,,0.0
+138489,2023-09-28T12:40Z,Almaty Open,Sho Shimabukuro,Roberto Carballes Baena,,,1.0
+138493,2023-09-28T14:10Z,Almaty Open,Juan Pablo Varillas,Dominic Thiem,,,0.0
+138503,2023-09-29T06:10Z,Almaty Open,Alexei Popyrin,Sebastian Korda,,,0.0
+138510,2023-09-29T06:10Z,Almaty Open,Marton Fucsovics,Sebastian Ofner,,,0.0
+138495,2023-09-29T08:50Z,Almaty Open,Adrian Mannarino,Alibek Kachmazov,,,1.0
+138509,2023-09-29T09:25Z,Almaty Open,Jiri Lehecka,Egor Gerasimov,,,1.0
+138508,2023-09-29T11:10Z,Almaty Open,Aleksandr Shevchenko,Hamad Medjedovic,,,0.0
+138499,2023-09-29T12:40Z,Almaty Open,Jurij Rodionov,Sebastian Baez,,,1.0
+138515,2023-09-30T06:10Z,Almaty Open,Tallon Griekspoor,Sho Shimabukuro,,,1.0
+138514,2023-09-30T08:40Z,Almaty Open,Nuno Borges,Sebastian Korda,,,0.0
+138516,2023-09-30T10:25Z,Almaty Open,Marcos Giron,Dominic Thiem,,,0.0
+138496,2023-09-30T13:10Z,Almaty Open,Sebastian Ofner,Alexander Bublik,,,1.0
+138504,2023-10-01T06:10Z,Almaty Open,Jiri Lehecka,Hamad Medjedovic,,,0.0
+138498,2023-10-01T07:45Z,Almaty Open,Tallon Griekspoor,Sebastian Korda,,,0.0
+138507,2023-10-01T09:45Z,Almaty Open,Adrian Mannarino,Jurij Rodionov,,,1.0
+138502,2023-10-01T12:10Z,Almaty Open,Dominic Thiem,Sebastian Ofner,,,0.0
+138518,2023-10-02T09:40Z,Almaty Open,Sebastian Korda,Hamad Medjedovic,,,1.0
+138517,2023-10-02T12:30Z,Almaty Open,Sebastian Ofner,Adrian Mannarino,,,0.0
+138519,2023-10-03T09:40Z,Almaty Open,Sebastian Korda,Adrian Mannarino,,,0.0
+138612,2023-10-02T04:10Z,Rolex Shanghai Masters,Yasutaka Uchiyama,Evgeny Donskoy,,,1.0
+138614,2023-10-02T04:10Z,Rolex Shanghai Masters,Shintaro Mochizuki,Chun-Hsin Tseng,,,0.0
+138623,2023-10-02T04:10Z,Rolex Shanghai Masters,Marc Polmans,Alibek Kachmazov,,,1.0
+138628,2023-10-02T04:10Z,Rolex Shanghai Masters,Omar Jasika,Stefano Napolitano,,,0.0
+138630,2023-10-02T04:10Z,Rolex Shanghai Masters,SeongChan Hong,Ergi Kirkin,,,1.0
+138622,2023-10-02T05:10Z,Rolex Shanghai Masters,Li Hanwen,Dane Sweeny,,,0.0
+138625,2023-10-02T06:00Z,Rolex Shanghai Masters,James Duckworth,Mikalai Haliak,,,1.0
+138618,2023-10-02T06:05Z,Rolex Shanghai Masters,Benjamin Lock,Lorenzo Giustino,,,1.0
+138621,2023-10-02T06:20Z,Rolex Shanghai Masters,Xiao Linang,James McCabe,,,0.0
+138624,2023-10-02T06:40Z,Rolex Shanghai Masters,Colin Sinclair,Li Tu,,,0.0
+138619,2023-10-02T07:25Z,Rolex Shanghai Masters,Aleksandar Kovacevic,Alexey Zakharov,,,1.0
+138617,2023-10-02T07:35Z,Rolex Shanghai Masters,Rinky Hijikata,Marek Gengel,,,1.0
+138613,2023-10-02T08:00Z,Rolex Shanghai Masters,Zhou Yi,Denis Yevseyev,,,0.0
+138616,2023-10-02T09:05Z,Rolex Shanghai Masters,Sumit Nagal,Luke Saville,,,0.0
+138609,2023-10-02T09:10Z,Rolex Shanghai Masters,Mu Tao,Mikhail Kukushkin,,,0.0
+138610,2023-10-02T09:10Z,Rolex Shanghai Masters,Tung-lin Wu,Egor Gerasimov,,,1.0
+138607,2023-10-02T09:35Z,Rolex Shanghai Masters,Terence Atmane,Hiroki Moriya,,,1.0
+138611,2023-10-02T09:40Z,Rolex Shanghai Masters,Yu Hsiou Hsu,Miljan Zekic,,,1.0
+138608,2023-10-02T10:30Z,Rolex Shanghai Masters,Sun Fajing,Alex Bolt,,,1.0
+138627,2023-10-02T10:35Z,Rolex Shanghai Masters,Sho Shimabukuro,Arthur Weber,,,0.0
+138626,2023-10-02T10:40Z,Rolex Shanghai Masters,Nam Hoang Ly,Steven Diez,,,0.0
+138620,2023-10-02T10:45Z,Rolex Shanghai Masters,Lloyd Harris,Dominik Palan,,,0.0
+138629,2023-10-02T10:50Z,Rolex Shanghai Masters,Philip Sekulic,Kaichi Uchida,,,1.0
+138615,2023-10-02T11:30Z,Rolex Shanghai Masters,Beibit Zhukayev,Jason Jung,,,1.0
+138635,2023-10-03T04:40Z,Rolex Shanghai Masters,SeongChan Hong,Dane Sweeny,,,0.0
+138637,2023-10-03T04:40Z,Rolex Shanghai Masters,Chun-Hsin Tseng,Yasutaka Uchiyama,,,1.0
+138638,2023-10-03T04:40Z,Rolex Shanghai Masters,Marc Polmans,Stefano Napolitano,,,0.0
+138633,2023-10-03T04:45Z,Rolex Shanghai Masters,James Duckworth,James McCabe,,,1.0
+138636,2023-10-03T06:10Z,Rolex Shanghai Masters,Tung-lin Wu,Denis Yevseyev,,,0.0
+138641,2023-10-03T06:30Z,Rolex Shanghai Masters,Luke Saville,Mikhail Kukushkin,,,0.0
+138631,2023-10-03T07:30Z,Rolex Shanghai Masters,Rinky Hijikata,Benjamin Lock,,,1.0
+138632,2023-10-03T07:30Z,Rolex Shanghai Masters,Aleksandar Kovacevic,Li Tu,,,1.0
+138642,2023-10-03T08:20Z,Rolex Shanghai Masters,Dominik Palan,Beibit Zhukayev,,,0.0
+138639,2023-10-03T08:25Z,Rolex Shanghai Masters,Terence Atmane,Steven Diez,,,1.0
+138634,2023-10-03T09:10Z,Rolex Shanghai Masters,Yu Hsiou Hsu,Sun Fajing,,,1.0
+138640,2023-10-03T10:10Z,Rolex Shanghai Masters,Arthur Weber,Philip Sekulic,,,0.0
+138647,2023-10-04T04:40Z,Rolex Shanghai Masters,Brandon Nakashima,Bernabe Zapata Miralles,,,1.0
+138690,2023-10-04T04:40Z,Rolex Shanghai Masters,Miomir Kecmanovic,Bu Yunchaokete,,,0.0
+138698,2023-10-04T04:40Z,Rolex Shanghai Masters,Daniel Altmaier,Yoshihito Nishioka,,,0.0
+138703,2023-10-04T04:40Z,Rolex Shanghai Masters,Dusan Lajovic,Stan Wawrinka,,,1.0
+138652,2023-10-04T06:35Z,Rolex Shanghai Masters,Dane Sweeny,Taro Daniel,,,1.0
+138706,2023-10-04T06:35Z,Rolex Shanghai Masters,Thanasi Kokkinakis,Fabio Fognini,,,1.0
+138656,2023-10-04T07:35Z,Rolex Shanghai Masters,Jaume Munar,Te Rigele,,,1.0
+138700,2023-10-04T07:55Z,Rolex Shanghai Masters,Arthur Rinderknech,Fabian Marozsan,,,0.0
+138699,2023-10-04T08:30Z,Rolex Shanghai Masters,James Duckworth,Yannick Hanfmann,,,0.0
+138662,2023-10-04T09:15Z,Rolex Shanghai Masters,Corentin Moutet,Mackenzie McDonald,,,0.0
+138660,2023-10-04T09:40Z,Rolex Shanghai Masters,Denis Yevseyev,Marton Fucsovics,,,0.0
+138651,2023-10-04T10:40Z,Rolex Shanghai Masters,Zhang Zhizhen,Richard Gasquet,,,1.0
+138655,2023-10-04T11:00Z,Rolex Shanghai Masters,Marcos Giron,Daniel Elahi Galan,,,1.0
+138704,2023-10-04T11:10Z,Rolex Shanghai Masters,Max Purcell,Yu Hsiou Hsu,,,0.0
+138691,2023-10-04T11:30Z,Rolex Shanghai Masters,Aleksandar Kovacevic,Cristian Garin,,,0.0
+138657,2023-10-04T11:55Z,Rolex Shanghai Masters,Roman Safiullin,Andy Murray,,,1.0
+138646,2023-10-05T04:40Z,Rolex Shanghai Masters,Nuno Borges,Gregoire Barrere,,,0.0
+138669,2023-10-05T04:40Z,Rolex Shanghai Masters,Aleksandr Shevchenko,Chun-Hsin Tseng,,,0.0
+138672,2023-10-05T04:40Z,Rolex Shanghai Masters,Philip Sekulic,Lorenzo Sonego,,,0.0
+138673,2023-10-05T04:40Z,Rolex Shanghai Masters,Mikhail Kukushkin,Alexandre Muller,,,1.0
+138661,2023-10-05T06:05Z,Rolex Shanghai Masters,Aleksandar Vukic,Roberto Carballes Baena,,,1.0
+138692,2023-10-05T06:30Z,Rolex Shanghai Masters,Pavel Kotov,Arthur Fils,,,0.0
+138681,2023-10-05T06:50Z,Rolex Shanghai Masters,Rinky Hijikata,Laslo Djere,,,1.0
+138654,2023-10-05T07:40Z,Rolex Shanghai Masters,Beibit Zhukayev,Stefano Napolitano,,,1.0
+138671,2023-10-05T08:40Z,Rolex Shanghai Masters,Jordan Thompson,Terence Atmane,,,0.0
+138682,2023-10-05T09:25Z,Rolex Shanghai Masters,Alexei Popyrin,Matteo Arnaldi,,,0.0
+138683,2023-10-05T09:50Z,Rolex Shanghai Masters,Aslan Karatsev,Quentin Halys,,,0.0
+138677,2023-10-05T10:40Z,Rolex Shanghai Masters,Botic Van De Zandschulp,Christopher O'Connell,,,1.0
+138678,2023-10-05T10:40Z,Rolex Shanghai Masters,Diego Schwartzman,Luca Van Assche,,,1.0
+138687,2023-10-05T11:55Z,Rolex Shanghai Masters,J.J. Wolf,Pedro Cachin,,,1.0
+138686,2023-10-05T12:15Z,Rolex Shanghai Masters,Juan Pablo Varillas,Sebastian Ofner,,,0.0
+138679,2023-10-05T13:50Z,Rolex Shanghai Masters,Yosuke Watanuki,Shang Juncheng,,,1.0
+138729,2023-10-06T04:40Z,Rolex Shanghai Masters,Fabian Marozsan,Alex de Minaur,,,1.0
+138731,2023-10-06T04:40Z,Rolex Shanghai Masters,Yannick Hanfmann,Christopher Eubanks,,,0.0
+138732,2023-10-06T04:40Z,Rolex Shanghai Masters,Tallon Griekspoor,Dusan Lajovic,,,0.0
+138742,2023-10-06T04:40Z,Rolex Shanghai Masters,Casper Ruud,Yoshihito Nishioka,,,1.0
+138736,2023-10-06T06:10Z,Rolex Shanghai Masters,Mackenzie McDonald,Francisco Cerundolo,,,0.0
+138735,2023-10-06T06:25Z,Rolex Shanghai Masters,Felix Auger-Aliassime,Marton Fucsovics,,,0.0
+138724,2023-10-06T06:45Z,Rolex Shanghai Masters,Brandon Nakashima,Holger Rune,,,1.0
+138726,2023-10-06T07:10Z,Rolex Shanghai Masters,Yu Hsiou Hsu,Lorenzo Musetti,,,1.0
+138728,2023-10-06T09:05Z,Rolex Shanghai Masters,Ben Shelton,Jaume Munar,,,1.0
+138730,2023-10-06T10:05Z,Rolex Shanghai Masters,Hubert Hurkacz,Thanasi Kokkinakis,,,1.0
+138727,2023-10-06T10:40Z,Rolex Shanghai Masters,Tomas Martin Etcheverry,Zhang Zhizhen,,,0.0
+138717,2023-10-06T11:00Z,Rolex Shanghai Masters,Dane Sweeny,Sebastian Baez,,,0.0
+138716,2023-10-06T12:05Z,Rolex Shanghai Masters,Sebastian Korda,Bu Yunchaokete,,,1.0
+138733,2023-10-06T13:30Z,Rolex Shanghai Masters,Roman Safiullin,Alexander Zverev,,,1.0
+138744,2023-10-07T04:40Z,Rolex Shanghai Masters,Stefanos Tsitsipas,Rinky Hijikata,,,1.0
+138712,2023-10-07T05:25Z,Rolex Shanghai Masters,Tommy Paul,Sebastian Ofner,,,1.0
+138715,2023-10-07T06:00Z,Rolex Shanghai Masters,Jan-Lennard Struff,Matteo Arnaldi,,,0.0
+138739,2023-10-07T06:00Z,Rolex Shanghai Masters,Terence Atmane,Nicolas Jarry,,,0.0
+138734,2023-10-07T06:25Z,Rolex Shanghai Masters,Cristian Garin,Daniil Medvedev,,,0.0
+138725,2023-10-07T08:20Z,Rolex Shanghai Masters,Jannik Sinner,Marcos Giron,,,1.0
+138738,2023-10-07T10:40Z,Rolex Shanghai Masters,Carlos Alcaraz,Gregoire Barrere,,,1.0
+138709,2023-10-07T12:55Z,Rolex Shanghai Masters,Yosuke Watanuki,Taylor Fritz,,,0.0
+138708,2023-10-08T04:40Z,Rolex Shanghai Masters,Frances Tiafoe,Lorenzo Sonego,,,0.0
+138710,2023-10-08T04:40Z,Rolex Shanghai Masters,Botic Van De Zandschulp,Ugo Humbert,,,0.0
+138714,2023-10-08T04:40Z,Rolex Shanghai Masters,Arthur Fils,Alejandro Davidovich Fokina,,,1.0
+138741,2023-10-08T04:40Z,Rolex Shanghai Masters,J.J. Wolf,Cameron Norrie,,,1.0
+138756,2023-10-08T04:40Z,Rolex Shanghai Masters,Casper Ruud,Christopher Eubanks,,,1.0
+138711,2023-10-08T05:40Z,Rolex Shanghai Masters,Mikhail Kukushkin,Daniel Evans,,,0.0
+138737,2023-10-08T06:00Z,Rolex Shanghai Masters,Grigor Dimitrov,Aleksandar Vukic,,,1.0
+138722,2023-10-08T06:15Z,Rolex Shanghai Masters,Sebastian Korda,Daniil Medvedev,,,1.0
+138707,2023-10-08T06:20Z,Rolex Shanghai Masters,Beibit Zhukayev,Karen Khachanov,,,0.0
+138740,2023-10-08T06:25Z,Rolex Shanghai Masters,Jiri Lehecka,Diego Schwartzman,,,0.0
+138718,2023-10-08T07:05Z,Rolex Shanghai Masters,Hubert Hurkacz,Yu Hsiou Hsu,,,1.0
+138743,2023-10-08T07:05Z,Rolex Shanghai Masters,Quentin Halys,Andrey Rublev,,,0.0
+138750,2023-10-08T08:30Z,Rolex Shanghai Masters,Ben Shelton,Roman Safiullin,,,1.0
+138755,2023-10-08T08:35Z,Rolex Shanghai Masters,Dusan Lajovic,Fabian Marozsan,,,0.0
+138713,2023-10-08T09:00Z,Rolex Shanghai Masters,Adrian Mannarino,Chun-Hsin Tseng,,,1.0
+138751,2023-10-08T09:00Z,Rolex Shanghai Masters,Marton Fucsovics,Francisco Cerundolo,,,0.0
+138753,2023-10-08T10:40Z,Rolex Shanghai Masters,Jannik Sinner,Sebastian Baez,,,1.0
+138752,2023-10-08T13:00Z,Rolex Shanghai Masters,Zhang Zhizhen,Brandon Nakashima,,,1.0
+138749,2023-10-09T04:40Z,Rolex Shanghai Masters,Grigor Dimitrov,Karen Khachanov,,,1.0
+138754,2023-10-09T04:40Z,Rolex Shanghai Masters,Tommy Paul,Arthur Fils,,,1.0
+138748,2023-10-09T07:55Z,Rolex Shanghai Masters,Diego Schwartzman,Taylor Fritz,,,1.0
+138719,2023-10-09T09:00Z,Rolex Shanghai Masters,Adrian Mannarino,Andrey Rublev,,,0.0
+138747,2023-10-09T10:20Z,Rolex Shanghai Masters,Lorenzo Sonego,Nicolas Jarry,,,0.0
+138720,2023-10-09T11:30Z,Rolex Shanghai Masters,Carlos Alcaraz,Daniel Evans,,,1.0
+138721,2023-10-09T12:20Z,Rolex Shanghai Masters,Matteo Arnaldi,J.J. Wolf,,,0.0
+138746,2023-10-09T14:25Z,Rolex Shanghai Masters,Stefanos Tsitsipas,Ugo Humbert,,,0.0
+138761,2023-10-10T04:40Z,Rolex Shanghai Masters,Casper Ruud,Fabian Marozsan,,,0.0
+138765,2023-10-10T07:40Z,Rolex Shanghai Masters,Francisco Cerundolo,Sebastian Korda,,,0.0
+138763,2023-10-10T10:40Z,Rolex Shanghai Masters,Jannik Sinner,Ben Shelton,,,0.0
+138767,2023-10-10T13:40Z,Rolex Shanghai Masters,Hubert Hurkacz,Zhang Zhizhen,,,1.0
+138723,2023-10-11T04:45Z,Rolex Shanghai Masters,Nicolas Jarry,Diego Schwartzman,,,1.0
+138757,2023-10-11T07:25Z,Rolex Shanghai Masters,Ugo Humbert,J.J. Wolf,,,1.0
+138766,2023-10-11T10:40Z,Rolex Shanghai Masters,Carlos Alcaraz,Grigor Dimitrov,,,0.0
+138768,2023-10-11T13:15Z,Rolex Shanghai Masters,Tommy Paul,Andrey Rublev,,,0.0
+138769,2023-10-12T07:10Z,Rolex Shanghai Masters,Fabian Marozsan,Hubert Hurkacz,,,0.0
+138759,2023-10-12T10:40Z,Rolex Shanghai Masters,Ben Shelton,Sebastian Korda,,,0.0
+138764,2023-10-13T08:40Z,Rolex Shanghai Masters,Grigor Dimitrov,Nicolas Jarry,,,1.0
+138758,2023-10-13T12:10Z,Rolex Shanghai Masters,Ugo Humbert,Andrey Rublev,,,0.0
+138762,2023-10-14T08:40Z,Rolex Shanghai Masters,Hubert Hurkacz,Sebastian Korda,,,1.0
+138760,2023-10-14T12:10Z,Rolex Shanghai Masters,Grigor Dimitrov,Andrey Rublev,,,0.0
+138745,2023-10-15T08:40Z,Rolex Shanghai Masters,Andrey Rublev,Hubert Hurkacz,,,0.0
+139555,2023-10-14T02:00Z,Kinoshita Group Japan Open Tennis Championships,Marcos Giron,Kaichi Uchida,,,1.0
+139557,2023-10-14T02:00Z,Kinoshita Group Japan Open Tennis Championships,Hiroki Moriya,Jurij Rodionov,,,0.0
+139559,2023-10-14T02:00Z,Kinoshita Group Japan Open Tennis Championships,Jack Draper,Yuta Shimizu,,,1.0
+139556,2023-10-14T03:30Z,Kinoshita Group Japan Open Tennis Championships,Philip Sekulic,Cristian Garin,,,0.0
+139561,2023-10-14T03:30Z,Kinoshita Group Japan Open Tennis Championships,Rio Noguchi,Tung-lin Wu,,,1.0
+139558,2023-10-14T03:30Z,Kinoshita Group Japan Open Tennis Championships,Yasutaka Uchiyama,Brandon Nakashima,,,1.0
+139554,2023-10-14T05:00Z,Kinoshita Group Japan Open Tennis Championships,Rinky Hijikata,Naoki Nakagawa,,,1.0
+139560,2023-10-14T05:00Z,Kinoshita Group Japan Open Tennis Championships,Taro Daniel,Jason Jung,,,1.0
+139564,2023-10-15T02:00Z,Kinoshita Group Japan Open Tennis Championships,Rinky Hijikata,Cristian Garin,,,0.0
+139565,2023-10-15T03:30Z,Kinoshita Group Japan Open Tennis Championships,Marcos Giron,Yasutaka Uchiyama,,,1.0
+139562,2023-10-15T05:00Z,Kinoshita Group Japan Open Tennis Championships,Jack Draper,Jurij Rodionov,,,1.0
+139563,2023-10-15T05:30Z,Kinoshita Group Japan Open Tennis Championships,Taro Daniel,Rio Noguchi,,,1.0
+138810,2023-10-16T02:00Z,Kinoshita Group Japan Open Tennis Championships,Sebastian Ofner,Christopher O'Connell,,,1.0
+138807,2023-10-16T02:00Z,Kinoshita Group Japan Open Tennis Championships,Mackenzie McDonald,Max Purcell,,,1.0
+138804,2023-10-16T04:15Z,Kinoshita Group Japan Open Tennis Championships,Jordan Thompson,Alexander Zverev,,,1.0
+138812,2023-10-16T06:10Z,Kinoshita Group Japan Open Tennis Championships,Felix Auger-Aliassime,Aleksandar Vukic,,,1.0
+138811,2023-10-16T09:50Z,Kinoshita Group Japan Open Tennis Championships,Yoshihito Nishioka,Marcos Giron,,,0.0
+138806,2023-10-16T12:55Z,Kinoshita Group Japan Open Tennis Championships,Tommy Paul,Daniel Altmaier,,,1.0
+138805,2023-10-17T02:10Z,Kinoshita Group Japan Open Tennis Championships,Alex de Minaur,Jack Draper,,,1.0
+138801,2023-10-17T02:10Z,Kinoshita Group Japan Open Tennis Championships,Sho Shimabukuro,Cristian Garin,,,0.0
+138823,2023-10-17T04:45Z,Kinoshita Group Japan Open Tennis Championships,Alexei Popyrin,Karen Khachanov,,,1.0
+138824,2023-10-17T05:35Z,Kinoshita Group Japan Open Tennis Championships,Taylor Fritz,Cameron Norrie,,,1.0
+138813,2023-10-17T06:35Z,Kinoshita Group Japan Open Tennis Championships,Francisco Cerundolo,Diego Schwartzman,,,0.0
+138802,2023-10-17T07:00Z,Kinoshita Group Japan Open Tennis Championships,Ben Shelton,Taro Daniel,,,1.0
+138826,2023-10-17T08:15Z,Kinoshita Group Japan Open Tennis Championships,Shintaro Mochizuki,Tomas Martin Etcheverry,,,1.0
+138830,2023-10-17T10:30Z,Kinoshita Group Japan Open Tennis Championships,Yosuke Watanuki,Casper Ruud,,,0.0
+138808,2023-10-17T12:35Z,Kinoshita Group Japan Open Tennis Championships,Aslan Karatsev,Frances Tiafoe,,,1.0
+138803,2023-10-18T02:10Z,Kinoshita Group Japan Open Tennis Championships,Zhang Zhizhen,Hubert Hurkacz,,,1.0
+138825,2023-10-18T04:40Z,Kinoshita Group Japan Open Tennis Championships,Felix Auger-Aliassime,Sebastian Ofner,,,1.0
+138818,2023-10-18T06:40Z,Kinoshita Group Japan Open Tennis Championships,Tommy Paul,Mackenzie McDonald,,,1.0
+138827,2023-10-18T09:10Z,Kinoshita Group Japan Open Tennis Championships,Marcos Giron,Casper Ruud,,,1.0
+138819,2023-10-18T10:50Z,Kinoshita Group Japan Open Tennis Championships,Ben Shelton,Jordan Thompson,,,1.0
+138829,2023-10-19T02:10Z,Kinoshita Group Japan Open Tennis Championships,Cristian Garin,Alexei Popyrin,,,0.0
+138820,2023-10-19T05:25Z,Kinoshita Group Japan Open Tennis Championships,Alex de Minaur,Diego Schwartzman,,,1.0
+138828,2023-10-19T09:10Z,Kinoshita Group Japan Open Tennis Championships,Taylor Fritz,Shintaro Mochizuki,,,0.0
+138821,2023-10-19T11:45Z,Kinoshita Group Japan Open Tennis Championships,Zhang Zhizhen,Aslan Karatsev,,,0.0
+138817,2023-10-20T04:10Z,Kinoshita Group Japan Open Tennis Championships,Tommy Paul,Ben Shelton,,,0.0
+138814,2023-10-20T06:10Z,Kinoshita Group Japan Open Tennis Championships,Felix Auger-Aliassime,Marcos Giron,,,0.0
+138816,2023-10-20T09:00Z,Kinoshita Group Japan Open Tennis Championships,Alex de Minaur,Aslan Karatsev,,,0.0
+138822,2023-10-20T11:10Z,Kinoshita Group Japan Open Tennis Championships,Shintaro Mochizuki,Alexei Popyrin,,,1.0
+138809,2023-10-21T05:10Z,Kinoshita Group Japan Open Tennis Championships,Ben Shelton,Marcos Giron,,,1.0
+138815,2023-10-21T08:20Z,Kinoshita Group Japan Open Tennis Championships,Shintaro Mochizuki,Aslan Karatsev,,,0.0
+138831,2023-10-22T07:40Z,Kinoshita Group Japan Open Tennis Championships,Aslan Karatsev,Ben Shelton,,,0.0
+139605,2023-10-14T09:00Z,Bybit Stockholm Open,Dino Prizmic,Timofey Skatov,,,1.0
+139604,2023-10-14T09:00Z,Bybit Stockholm Open,Tomas Machac,Duje Ajdukovic,,,1.0
+139607,2023-10-14T10:30Z,Bybit Stockholm Open,Filip Misolic,Leandro Riedi,,,1.0
+139606,2023-10-14T10:30Z,Bybit Stockholm Open,Liam Broady,Sebastian Eriksson,,,1.0
+139608,2023-10-14T12:00Z,Bybit Stockholm Open,Pavel Kotov,Vitaliy Sachko,,,1.0
+139602,2023-10-14T12:00Z,Bybit Stockholm Open,Radu Albot,Jonathan Mridha,,,1.0
+139609,2023-10-14T13:00Z,Bybit Stockholm Open,Damir Dzumhur,Otto Virtanen,,,0.0
+139603,2023-10-14T13:00Z,Bybit Stockholm Open,Benjamin Hassan,Andrea Vavassori,,,1.0
+139611,2023-10-15T09:00Z,Bybit Stockholm Open,Tomas Machac,Dino Prizmic,,,0.0
+139610,2023-10-15T10:30Z,Bybit Stockholm Open,Liam Broady,Filip Misolic,,,0.0
+139613,2023-10-15T12:00Z,Bybit Stockholm Open,Radu Albot,Benjamin Hassan,,,0.0
+139612,2023-10-15T12:00Z,Bybit Stockholm Open,Pavel Kotov,Otto Virtanen,,,1.0
+138866,2023-10-16T11:10Z,Bybit Stockholm Open,Dusan Lajovic,Lorenzo Sonego,,,0.0
+138863,2023-10-16T13:50Z,Bybit Stockholm Open,Dino Prizmic,Jiri Lehecka,,,1.0
+138864,2023-10-16T15:40Z,Bybit Stockholm Open,Miomir Kecmanovic,Karl Friberg,,,1.0
+138869,2023-10-16T17:30Z,Bybit Stockholm Open,Elias Ymer,Roberto Bautista Agut,,,1.0
+138884,2023-10-17T11:10Z,Bybit Stockholm Open,Sebastian Baez,J.J. Wolf,,,0.0
+138886,2023-10-17T13:10Z,Bybit Stockholm Open,Pavel Kotov,Christopher Eubanks,,,1.0
+138888,2023-10-17T13:10Z,Bybit Stockholm Open,Emil Ruusuvuori,Benjamin Hassan,,,1.0
+138872,2023-10-17T15:30Z,Bybit Stockholm Open,Daniel Evans,Filip Misolic,,,0.0
+138885,2023-10-17T16:10Z,Bybit Stockholm Open,Laslo Djere,Leo Borg,,,1.0
+138868,2023-10-17T17:50Z,Bybit Stockholm Open,Borna Gojo,Stan Wawrinka,,,0.0
+138879,2023-10-18T11:30Z,Bybit Stockholm Open,Thiago Seyboth Wild,Roman Safiullin,,,0.0
+138891,2023-10-18T12:00Z,Bybit Stockholm Open,Tallon Griekspoor,Emil Ruusuvuori,,,1.0
+138890,2023-10-18T13:00Z,Bybit Stockholm Open,Lorenzo Sonego,Pavel Kotov,,,0.0
+138875,2023-10-18T14:30Z,Bybit Stockholm Open,J.J. Wolf,Laslo Djere,,,0.0
+138865,2023-10-18T16:25Z,Bybit Stockholm Open,Gael Monfils,Marton Fucsovics,,,1.0
+138889,2023-10-18T19:00Z,Bybit Stockholm Open,Holger Rune,Miomir Kecmanovic,,,0.0
+138883,2023-10-19T12:30Z,Bybit Stockholm Open,Roman Safiullin,Adrian Mannarino,,,0.0
+138882,2023-10-19T14:20Z,Bybit Stockholm Open,Filip Misolic,Gael Monfils,,,0.0
+138880,2023-10-19T16:10Z,Bybit Stockholm Open,Stan Wawrinka,Tomas Machac,,,0.0
+138873,2023-10-19T17:35Z,Bybit Stockholm Open,Elias Ymer,Dino Prizmic,,,1.0
+138881,2023-10-20T10:10Z,Bybit Stockholm Open,Tallon Griekspoor,Pavel Kotov,,,0.0
+138876,2023-10-20T13:40Z,Bybit Stockholm Open,Miomir Kecmanovic,Elias Ymer,,,1.0
+138878,2023-10-20T16:45Z,Bybit Stockholm Open,Gael Monfils,Adrian Mannarino,,,1.0
+138877,2023-10-20T18:45Z,Bybit Stockholm Open,Laslo Djere,Tomas Machac,,,1.0
+138892,2023-10-21T12:10Z,Bybit Stockholm Open,Miomir Kecmanovic,Pavel Kotov,,,0.0
+138887,2023-10-21T16:10Z,Bybit Stockholm Open,Laslo Djere,Gael Monfils,,,0.0
+138893,2023-10-22T13:10Z,Bybit Stockholm Open,Pavel Kotov,Gael Monfils,,,0.0
+139619,2023-10-15T10:00Z,BNP Paribas Fortis European Open,Maximilian Marterer,Gijs Brouwer,,,1.0
+139618,2023-10-15T10:00Z,BNP Paribas Fortis European Open,Giovanni Mpetshi Perricard,Antoine Escoffier,,,1.0
+139621,2023-10-15T11:30Z,BNP Paribas Fortis European Open,Zizou Bergs,Titouan Droguet,,,0.0
+139620,2023-10-15T11:30Z,BNP Paribas Fortis European Open,Maxime Cressy,Gauthier Onclin,,,0.0
+139616,2023-10-15T13:00Z,BNP Paribas Fortis European Open,Benjamin Bonzi,Oscar Otte,,,1.0
+139615,2023-10-15T13:00Z,BNP Paribas Fortis European Open,Hamad Medjedovic,Alexander Blockx,,,0.0
+139617,2023-10-15T14:30Z,BNP Paribas Fortis European Open,Hugo Grenier,Giulio Zeppieri,,,0.0
+139614,2023-10-15T14:30Z,BNP Paribas Fortis European Open,Gilles Arnaud Bailly,Pablo Llamas Ruiz,,,1.0
+139623,2023-10-16T09:30Z,BNP Paribas Fortis European Open,Gauthier Onclin,Giovanni Mpetshi Perricard,,,0.0
+139625,2023-10-16T10:00Z,BNP Paribas Fortis European Open,Maximilian Marterer,Titouan Droguet,,,1.0
+139622,2023-10-16T11:00Z,BNP Paribas Fortis European Open,Alexander Blockx,Gilles Arnaud Bailly,,,1.0
+139624,2023-10-16T11:30Z,BNP Paribas Fortis European Open,Benjamin Bonzi,Giulio Zeppieri,,,1.0
+138901,2023-10-16T13:35Z,BNP Paribas Fortis European Open,Gregoire Barrere,Daniel Elahi Galan,,,1.0
+138897,2023-10-16T13:40Z,BNP Paribas Fortis European Open,Jaume Munar,Mark Lajal,,,0.0
+138910,2023-10-16T15:10Z,BNP Paribas Fortis European Open,Arthur Rinderknech,Hugo Gaston,,,0.0
+138899,2023-10-16T17:30Z,BNP Paribas Fortis European Open,David Goffin,Quentin Halys,,,1.0
+138905,2023-10-17T10:40Z,BNP Paribas Fortis European Open,Roberto Carballes Baena,Giovanni Mpetshi Perricard,,,0.0
+138895,2023-10-17T12:30Z,BNP Paribas Fortis European Open,Benjamin Bonzi,Aleksandr Shevchenko,,,0.0
+138903,2023-10-17T12:50Z,BNP Paribas Fortis European Open,Fabian Marozsan,Juan Pablo Varillas,,,0.0
+138915,2023-10-17T15:20Z,BNP Paribas Fortis European Open,Richard Gasquet,Maximilian Marterer,,,0.0
+138909,2023-10-17T17:10Z,BNP Paribas Fortis European Open,Alexander Blockx,Yannick Hanfmann,,,0.0
+138907,2023-10-17T19:05Z,BNP Paribas Fortis European Open,Luca Nardi,Dominic Thiem,,,0.0
+138908,2023-10-18T10:40Z,BNP Paribas Fortis European Open,Nuno Borges,Dominik Koepfer,,,1.0
+138914,2023-10-18T12:10Z,BNP Paribas Fortis European Open,Dominic Stricker,Botic Van De Zandschulp,,,0.0
+138906,2023-10-18T14:20Z,BNP Paribas Fortis European Open,Aleksandr Shevchenko,Juan Pablo Varillas,,,0.0
+138904,2023-10-18T14:45Z,BNP Paribas Fortis European Open,Arthur Fils,Mark Lajal,,,1.0
+138900,2023-10-18T17:10Z,BNP Paribas Fortis European Open,Giovanni Mpetshi Perricard,David Goffin,,,1.0
+138902,2023-10-18T18:40Z,BNP Paribas Fortis European Open,Gregoire Barrere,Alexander Bublik,,,0.0
+138913,2023-10-19T12:10Z,BNP Paribas Fortis European Open,Maximilian Marterer,Nuno Borges,,,1.0
+138916,2023-10-19T14:05Z,BNP Paribas Fortis European Open,Hugo Gaston,Jan-Lennard Struff,,,1.0
+138898,2023-10-19T17:20Z,BNP Paribas Fortis European Open,Stefanos Tsitsipas,Botic Van De Zandschulp,,,1.0
+138917,2023-10-19T19:15Z,BNP Paribas Fortis European Open,Dominic Thiem,Yannick Hanfmann,,,0.0
+138918,2023-10-20T12:10Z,BNP Paribas Fortis European Open,Giovanni Mpetshi Perricard,Alexander Bublik,,,0.0
+138919,2023-10-20T14:10Z,BNP Paribas Fortis European Open,Maximilian Marterer,Hugo Gaston,,,1.0
+138920,2023-10-20T17:10Z,BNP Paribas Fortis European Open,Stefanos Tsitsipas,Yannick Hanfmann,,,1.0
+138921,2023-10-20T18:40Z,BNP Paribas Fortis European Open,Arthur Fils,Juan Pablo Varillas,,,1.0
+138922,2023-10-21T13:40Z,BNP Paribas Fortis European Open,Alexander Bublik,Maximilian Marterer,,,1.0
+138924,2023-10-21T15:40Z,BNP Paribas Fortis European Open,Stefanos Tsitsipas,Arthur Fils,,,0.0
+138923,2023-10-22T14:40Z,BNP Paribas Fortis European Open,Arthur Fils,Alexander Bublik,,,0.0
+139638,2023-10-21T09:00Z,Erste Bank Open,Damir Dzumhur,Andrea Vavassori,,,0.0
+139644,2023-10-21T10:00Z,Erste Bank Open,Dino Prizmic,Albert Ramos-Vinolas,,,0.0
+139641,2023-10-21T10:30Z,Erste Bank Open,Emil Ruusuvuori,Alexander Erler,,,1.0
+139640,2023-10-21T11:30Z,Erste Bank Open,Lloyd Harris,Alexandre Muller,,,0.0
+139642,2023-10-21T12:00Z,Erste Bank Open,Lorenzo Sonego,Vitaliy Sachko,,,1.0
+139643,2023-10-21T12:30Z,Erste Bank Open,Fabian Marozsan,Timofey Skatov,,,1.0
+139639,2023-10-21T14:00Z,Erste Bank Open,Filip Misolic,Juan Pablo Varillas,,,1.0
+139645,2023-10-21T14:00Z,Erste Bank Open,Jurij Rodionov,Tomas Machac,,,0.0
+139649,2023-10-22T11:00Z,Erste Bank Open,Lorenzo Sonego,Alexandre Muller,,,0.0
+139647,2023-10-22T11:00Z,Erste Bank Open,Fabian Marozsan,Albert Ramos-Vinolas,,,0.0
+139648,2023-10-22T12:30Z,Erste Bank Open,Andrea Vavassori,Filip Misolic,,,0.0
+139646,2023-10-22T12:30Z,Erste Bank Open,Emil Ruusuvuori,Tomas Machac,,,0.0
+138964,2023-10-23T12:10Z,Erste Bank Open,J.J. Wolf,Jiri Lehecka,,,0.0
+138966,2023-10-23T13:55Z,Erste Bank Open,Roman Safiullin,Karen Khachanov,,,0.0
+138963,2023-10-23T14:00Z,Erste Bank Open,Albert Ramos-Vinolas,Matteo Arnaldi,,,0.0
+138961,2023-10-23T15:50Z,Erste Bank Open,Alexander Zverev,Sebastian Ofner,,,1.0
+138962,2023-10-23T17:30Z,Erste Bank Open,Cameron Norrie,Filip Misolic,,,1.0
+138957,2023-10-24T11:10Z,Erste Bank Open,Alexandre Muller,Tommy Paul,,,0.0
+138969,2023-10-24T12:10Z,Erste Bank Open,Alexei Popyrin,Andrey Rublev,,,0.0
+138960,2023-10-24T12:40Z,Erste Bank Open,Aleksandar Vukic,Tomas Machac,,,0.0
+138971,2023-10-24T13:40Z,Erste Bank Open,Frances Tiafoe,Daniel Evans,,,1.0
+138958,2023-10-24T15:45Z,Erste Bank Open,Stefanos Tsitsipas,Dominic Thiem,,,1.0
+138967,2023-10-24T17:00Z,Erste Bank Open,Lorenzo Sonego,Francisco Cerundolo,,,1.0
+138970,2023-10-24T18:05Z,Erste Bank Open,Grigor Dimitrov,Lorenzo Musetti,,,1.0
+138965,2023-10-25T12:10Z,Erste Bank Open,Gael Monfils,Daniel Altmaier,,,1.0
+138956,2023-10-25T12:15Z,Erste Bank Open,Aslan Karatsev,Borna Gojo,,,0.0
+138974,2023-10-25T13:50Z,Erste Bank Open,Jiri Lehecka,Karen Khachanov,,,0.0
+138968,2023-10-25T14:00Z,Erste Bank Open,Daniil Medvedev,Arthur Fils,,,1.0
+138959,2023-10-25T15:30Z,Erste Bank Open,Ben Shelton,Jannik Sinner,,,0.0
+138978,2023-10-25T17:45Z,Erste Bank Open,Alexander Zverev,Cameron Norrie,,,1.0
+138979,2023-10-26T10:05Z,Erste Bank Open,Matteo Arnaldi,Andrey Rublev,,,0.0
+138977,2023-10-26T11:10Z,Erste Bank Open,Borna Gojo,Tommy Paul,,,1.0
+138976,2023-10-26T12:10Z,Erste Bank Open,Daniil Medvedev,Grigor Dimitrov,,,1.0
+138975,2023-10-26T14:40Z,Erste Bank Open,Stefanos Tsitsipas,Tomas Machac,,,1.0
+138983,2023-10-26T16:55Z,Erste Bank Open,Lorenzo Sonego,Jannik Sinner,,,0.0
+138982,2023-10-26T18:50Z,Erste Bank Open,Frances Tiafoe,Gael Monfils,,,1.0
+138980,2023-10-27T12:10Z,Erste Bank Open,Daniil Medvedev,Karen Khachanov,,,1.0
+138981,2023-10-27T14:50Z,Erste Bank Open,Stefanos Tsitsipas,Borna Gojo,,,1.0
+138972,2023-10-27T17:00Z,Erste Bank Open,Alexander Zverev,Andrey Rublev,,,0.0
+138973,2023-10-27T19:50Z,Erste Bank Open,Frances Tiafoe,Jannik Sinner,,,0.0
+138984,2023-10-28T12:15Z,Erste Bank Open,Daniil Medvedev,Stefanos Tsitsipas,,,1.0
+138985,2023-10-28T14:30Z,Erste Bank Open,Andrey Rublev,Jannik Sinner,,,0.0
+138986,2023-10-29T13:10Z,Erste Bank Open,Daniil Medvedev,Jannik Sinner,,,0.0
+139629,2023-10-21T09:00Z,Swiss Indoors Basel,Christopher O'Connell,Maxime Cressy,,,1.0
+139630,2023-10-21T09:00Z,Swiss Indoors Basel,Michael Mmoh,Thiago Seyboth Wild,,,0.0
+139627,2023-10-21T10:30Z,Swiss Indoors Basel,Benjamin Hassan,Hamad Medjedovic,,,1.0
+139633,2023-10-21T10:30Z,Swiss Indoors Basel,Fabio Fognini,Aleksandr Shevchenko,,,0.0
+139628,2023-10-21T12:00Z,Swiss Indoors Basel,Pedro Cachin,Remy Bertola,,,0.0
+139631,2023-10-21T12:00Z,Swiss Indoors Basel,Botic Van De Zandschulp,Mika Brunold,,,1.0
+139626,2023-10-21T13:30Z,Swiss Indoors Basel,Sumit Nagal,Dominik Koepfer,,,0.0
+139632,2023-10-21T13:30Z,Swiss Indoors Basel,Marc-Andrea Huesler,Arthur Rinderknech,,,0.0
+139634,2023-10-22T11:00Z,Swiss Indoors Basel,Christopher O'Connell,Thiago Seyboth Wild,,,1.0
+139635,2023-10-22T11:00Z,Swiss Indoors Basel,Botic Van De Zandschulp,Arthur Rinderknech,,,1.0
+139636,2023-10-22T12:30Z,Swiss Indoors Basel,Remy Bertola,Aleksandr Shevchenko,,,0.0
+139637,2023-10-22T14:00Z,Swiss Indoors Basel,Benjamin Hassan,Dominik Koepfer,,,1.0
+138993,2023-10-23T11:40Z,Swiss Indoors Basel,Christopher O'Connell,Sebastian Baez,,,0.0
+138998,2023-10-23T12:10Z,Swiss Indoors Basel,Jan-Lennard Struff,Christopher Eubanks,,,1.0
+138987,2023-10-23T14:05Z,Swiss Indoors Basel,Andy Murray,Yannick Hanfmann,,,1.0
+138994,2023-10-23T14:15Z,Swiss Indoors Basel,Botic Van De Zandschulp,Roberto Bautista Agut,,,1.0
+138989,2023-10-23T18:25Z,Swiss Indoors Basel,Tomas Martin Etcheverry,Sebastian Korda,,,1.0
+138997,2023-10-24T12:05Z,Swiss Indoors Basel,Tallon Griekspoor,Thiago Seyboth Wild,,,1.0
+139013,2023-10-24T12:10Z,Swiss Indoors Basel,Dominic Stricker,Benjamin Hassan,,,1.0
+138995,2023-10-24T13:55Z,Swiss Indoors Basel,Dusan Lajovic,Hubert Hurkacz,,,0.0
+138991,2023-10-24T14:20Z,Swiss Indoors Basel,Alex de Minaur,Diego Schwartzman,,,1.0
+139008,2023-10-24T16:10Z,Swiss Indoors Basel,Holger Rune,Miomir Kecmanovic,,,1.0
+138996,2023-10-24T17:50Z,Swiss Indoors Basel,Nicolas Jarry,Adrian Mannarino,,,1.0
+138992,2023-10-24T18:30Z,Swiss Indoors Basel,Stan Wawrinka,Aleksandr Shevchenko,,,0.0
+139001,2023-10-25T11:45Z,Swiss Indoors Basel,Ugo Humbert,Marcos Giron,,,1.0
+138988,2023-10-25T12:10Z,Swiss Indoors Basel,Taylor Fritz,Max Purcell,,,1.0
+139012,2023-10-25T14:20Z,Swiss Indoors Basel,Jan-Lennard Struff,Hubert Hurkacz,,,0.0
+139014,2023-10-25T14:30Z,Swiss Indoors Basel,Alexander Bublik,Casper Ruud,,,0.0
+138990,2023-10-25T16:35Z,Swiss Indoors Basel,Leandro Riedi,Felix Auger-Aliassime,,,0.0
+139007,2023-10-25T18:10Z,Swiss Indoors Basel,Andy Murray,Tomas Martin Etcheverry,,,0.0
+139011,2023-10-26T12:05Z,Swiss Indoors Basel,Alex de Minaur,Tallon Griekspoor,,,0.0
+139004,2023-10-26T12:10Z,Swiss Indoors Basel,Taylor Fritz,Aleksandr Shevchenko,,,0.0
+139009,2023-10-26T13:45Z,Swiss Indoors Basel,Nicolas Jarry,Ugo Humbert,,,0.0
+139010,2023-10-26T15:30Z,Swiss Indoors Basel,Dominic Stricker,Casper Ruud,,,1.0
+139006,2023-10-26T18:05Z,Swiss Indoors Basel,Holger Rune,Sebastian Baez,,,1.0
+139005,2023-10-26T20:00Z,Swiss Indoors Basel,Botic Van De Zandschulp,Felix Auger-Aliassime,,,0.0
+138999,2023-10-27T12:10Z,Swiss Indoors Basel,Tallon Griekspoor,Hubert Hurkacz,,,0.0
+139000,2023-10-27T14:50Z,Swiss Indoors Basel,Ugo Humbert,Dominic Stricker,,,1.0
+139002,2023-10-27T17:10Z,Swiss Indoors Basel,Holger Rune,Tomas Martin Etcheverry,,,1.0
+139003,2023-10-27T20:10Z,Swiss Indoors Basel,Aleksandr Shevchenko,Felix Auger-Aliassime,,,0.0
+139506,2023-10-28T13:15Z,Swiss Indoors Basel,Hubert Hurkacz,Ugo Humbert,,,1.0
+139507,2023-10-28T16:05Z,Swiss Indoors Basel,Holger Rune,Felix Auger-Aliassime,,,0.0
+139015,2023-10-29T14:40Z,Swiss Indoors Basel,Felix Auger-Aliassime,Hubert Hurkacz,,,1.0
+139675,2023-10-28T08:10Z,Rolex Paris Masters,Juan Pablo Varillas,Roberto Carballes Baena,,,0.0
+139676,2023-10-28T08:10Z,Rolex Paris Masters,J.J. Wolf,Bernabe Zapata Miralles,,,1.0
+139685,2023-10-28T09:15Z,Rolex Paris Masters,Yannick Hanfmann,Gregoire Barrere,,,0.0
+139684,2023-10-28T10:00Z,Rolex Paris Masters,Emil Ruusuvuori,Marton Fucsovics,,,0.0
+139683,2023-10-28T11:35Z,Rolex Paris Masters,Pedro Cachin,Botic Van De Zandschulp,,,0.0
+139673,2023-10-28T11:55Z,Rolex Paris Masters,Sebastian Ofner,Terence Atmane,,,1.0
+139678,2023-10-28T12:10Z,Rolex Paris Masters,Arthur Rinderknech,Christopher O'Connell,,,0.0
+139672,2023-10-28T13:05Z,Rolex Paris Masters,Thiago Seyboth Wild,Jordan Thompson,,,0.0
+139680,2023-10-28T14:25Z,Rolex Paris Masters,Roman Safiullin,Arthur Cazaux,,,1.0
+139679,2023-10-28T14:40Z,Rolex Paris Masters,Dominik Koepfer,Marcos Giron,,,0.0
+139677,2023-10-28T14:50Z,Rolex Paris Masters,Lorenzo Sonego,Dominic Thiem,,,0.0
+139681,2023-10-28T15:30Z,Rolex Paris Masters,Dusan Lajovic,Quentin Halys,,,1.0
+139682,2023-10-28T16:20Z,Rolex Paris Masters,Yoshihito Nishioka,Titouan Droguet,,,1.0
+139674,2023-10-28T18:00Z,Rolex Paris Masters,Giovanni Mpetshi Perricard,Yosuke Watanuki,,,0.0
+139686,2023-10-29T10:10Z,Rolex Paris Masters,Sebastian Ofner,Botic Van De Zandschulp,,,0.0
+139688,2023-10-29T10:10Z,Rolex Paris Masters,J.J. Wolf,Roberto Carballes Baena,,,1.0
+139690,2023-10-29T11:40Z,Rolex Paris Masters,Dusan Lajovic,Marcos Giron,,,0.0
+139692,2023-10-29T11:50Z,Rolex Paris Masters,Roman Safiullin,Jordan Thompson,,,1.0
+139687,2023-10-29T12:10Z,Rolex Paris Masters,Gregoire Barrere,Marton Fucsovics,,,0.0
+139691,2023-10-29T13:55Z,Rolex Paris Masters,Dominic Thiem,Christopher O'Connell,,,1.0
+139689,2023-10-29T14:15Z,Rolex Paris Masters,Yoshihito Nishioka,Yosuke Watanuki,,,1.0
+139044,2023-10-30T10:10Z,Rolex Paris Masters,Nicolas Jarry,Alexei Popyrin,,,1.0
+139024,2023-10-30T10:10Z,Rolex Paris Masters,Jiri Lehecka,Roberto Bautista Agut,,,0.0
+139103,2023-10-30T10:10Z,Rolex Paris Masters,Alejandro Davidovich Fokina,Ben Shelton,,,1.0
+139020,2023-10-30T11:30Z,Rolex Paris Masters,Tallon Griekspoor,Christopher Eubanks,,,1.0
+139022,2023-10-30T12:35Z,Rolex Paris Masters,Frances Tiafoe,Alexander Bublik,,,0.0
+139016,2023-10-30T13:00Z,Rolex Paris Masters,Andy Murray,Alex de Minaur,,,0.0
+139033,2023-10-30T13:50Z,Rolex Paris Masters,Alexandre Muller,Roman Safiullin,,,0.0
+139095,2023-10-30T14:05Z,Rolex Paris Masters,Karen Khachanov,Max Purcell,,,1.0
+139040,2023-10-30T16:00Z,Rolex Paris Masters,Laslo Djere,Luca Van Assche,,,1.0
+139019,2023-10-30T16:25Z,Rolex Paris Masters,Botic Van De Zandschulp,Adrian Mannarino,,,1.0
+139091,2023-10-30T18:15Z,Rolex Paris Masters,Jordan Thompson,Yoshihito Nishioka,,,0.0
+139017,2023-10-30T18:45Z,Rolex Paris Masters,Taylor Fritz,Sebastian Baez,,,1.0
+139094,2023-10-30T18:50Z,Rolex Paris Masters,Grigor Dimitrov,Lorenzo Musetti,,,1.0
+139105,2023-10-30T20:25Z,Rolex Paris Masters,Tommy Paul,Richard Gasquet,,,1.0
+139023,2023-10-30T22:50Z,Rolex Paris Masters,Stan Wawrinka,Dominic Thiem,,,0.0
+139039,2023-10-31T10:00Z,Rolex Paris Masters,Marton Fucsovics,Alexander Zverev,,,0.0
+139018,2023-10-31T10:00Z,Rolex Paris Masters,Miomir Kecmanovic,Tomas Martin Etcheverry,,,0.0
+139096,2023-10-31T10:00Z,Rolex Paris Masters,Dusan Lajovic,Benjamin Bonzi,,,1.0
+139034,2023-10-31T12:00Z,Rolex Paris Masters,Sebastian Korda,Hubert Hurkacz,,,0.0
+139021,2023-10-31T13:10Z,Rolex Paris Masters,Daniel Altmaier,Arthur Fils,,,1.0
+139104,2023-10-31T13:10Z,Rolex Paris Masters,J.J. Wolf,Mackenzie McDonald,,,0.0
+139051,2023-10-31T14:30Z,Rolex Paris Masters,Felix Auger-Aliassime,Jan-Lennard Struff,,,1.0
+139025,2023-10-31T14:50Z,Rolex Paris Masters,Ugo Humbert,Marcos Giron,,,1.0
+139026,2023-10-31T16:25Z,Rolex Paris Masters,Tallon Griekspoor,Alejandro Davidovich Fokina,,,1.0
+139100,2023-10-31T16:35Z,Rolex Paris Masters,Gael Monfils,Francisco Cerundolo,,,0.0
+139050,2023-10-31T17:50Z,Rolex Paris Masters,Karen Khachanov,Laslo Djere,,,1.0
+139032,2023-10-31T19:55Z,Rolex Paris Masters,Roman Safiullin,Carlos Alcaraz,,,1.0
+139097,2023-10-31T20:00Z,Rolex Paris Masters,Alexander Bublik,Nicolas Jarry,,,1.0
+139041,2023-10-31T21:50Z,Rolex Paris Masters,Yoshihito Nishioka,Andrey Rublev,,,0.0
+139029,2023-11-01T04:00Z,Rolex Paris Masters,Taylor Fritz,Daniel Altmaier,,,0.0
+139047,2023-11-01T10:10Z,Rolex Paris Masters,Grigor Dimitrov,Daniil Medvedev,,,1.0
+139045,2023-11-01T10:10Z,Rolex Paris Masters,Tommy Paul,Botic Van De Zandschulp,,,0.0
+139036,2023-11-01T13:00Z,Rolex Paris Masters,Roberto Bautista Agut,Hubert Hurkacz,,,0.0
+139037,2023-11-01T13:30Z,Rolex Paris Masters,Stefanos Tsitsipas,Felix Auger-Aliassime,,,1.0
+139106,2023-11-01T14:15Z,Rolex Paris Masters,Dusan Lajovic,Alex de Minaur,,,0.0
+139028,2023-11-01T15:40Z,Rolex Paris Masters,Novak Djokovic,Tomas Martin Etcheverry,,,1.0
+139042,2023-11-01T16:35Z,Rolex Paris Masters,Casper Ruud,Francisco Cerundolo,,,0.0
+139043,2023-11-01T17:25Z,Rolex Paris Masters,Ugo Humbert,Alexander Zverev,,,0.0
+139098,2023-11-01T21:30Z,Rolex Paris Masters,Dominic Thiem,Holger Rune,,,0.0
+139035,2023-11-01T23:20Z,Rolex Paris Masters,Jannik Sinner,Mackenzie McDonald,,,1.0
+139048,2023-11-02T10:10Z,Rolex Paris Masters,Alexander Bublik,Grigor Dimitrov,,,0.0
+139109,2023-11-02T11:40Z,Rolex Paris Masters,Botic Van De Zandschulp,Andrey Rublev,,,0.0
+139110,2023-11-02T11:50Z,Rolex Paris Masters,Karen Khachanov,Roman Safiullin,,,1.0
+139056,2023-11-02T13:45Z,Rolex Paris Masters,Stefanos Tsitsipas,Alexander Zverev,,,1.0
+139046,2023-11-02T14:20Z,Rolex Paris Masters,Francisco Cerundolo,Hubert Hurkacz,,,0.0
+139049,2023-11-02T16:00Z,Rolex Paris Masters,Jannik Sinner,Alex de Minaur,,,0.0
+139107,2023-11-02T18:40Z,Rolex Paris Masters,Novak Djokovic,Tallon Griekspoor,,,1.0
+139108,2023-11-02T21:45Z,Rolex Paris Masters,Daniel Altmaier,Holger Rune,,,0.0
+139053,2023-11-03T13:15Z,Rolex Paris Masters,Hubert Hurkacz,Grigor Dimitrov,,,0.0
+139054,2023-11-03T15:10Z,Rolex Paris Masters,Stefanos Tsitsipas,Karen Khachanov,,,1.0
+139099,2023-11-03T18:40Z,Rolex Paris Masters,Novak Djokovic,Holger Rune,,,1.0
+139052,2023-11-03T22:00Z,Rolex Paris Masters,Alex de Minaur,Andrey Rublev,,,0.0
+139057,2023-11-04T13:00Z,Rolex Paris Masters,Grigor Dimitrov,Stefanos Tsitsipas,,,1.0
+139055,2023-11-04T16:15Z,Rolex Paris Masters,Novak Djokovic,Andrey Rublev,,,1.0
+139111,2023-11-05T14:15Z,Rolex Paris Masters,Novak Djokovic,Grigor Dimitrov,,,1.0

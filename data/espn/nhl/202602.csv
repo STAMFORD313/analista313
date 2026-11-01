@@ -1,0 +1,75 @@
+id,date,event,home,away,hs,as,res
+401803225,2026-02-01T20:00Z,Los Angeles Kings at Carolina Hurricanes,Carolina Hurricanes,Los Angeles Kings,3,2,1.0
+401803224,2026-02-01T23:30Z,Boston Bruins at Tampa Bay Lightning,Tampa Bay Lightning,Boston Bruins,6,5,1.0
+401803226,2026-02-02T02:30Z,Vegas Golden Knights at Anaheim Ducks,Anaheim Ducks,Vegas Golden Knights,4,3,1.0
+401803227,2026-02-03T00:00Z,Buffalo Sabres at Florida Panthers,Florida Panthers,Buffalo Sabres,3,5,0.0
+401803228,2026-02-03T00:00Z,Ottawa Senators at Pittsburgh Penguins,Pittsburgh Penguins,Ottawa Senators,2,3,0.0
+401803229,2026-02-03T00:00Z,New York Islanders at Washington Capitals,Washington Capitals,New York Islanders,4,1,1.0
+401803230,2026-02-03T00:30Z,Montreal Canadiens at Minnesota Wild,Minnesota Wild,Montreal Canadiens,4,3,1.0
+401803231,2026-02-03T01:00Z,St. Louis Blues at Nashville Predators,Nashville Predators,St. Louis Blues,6,5,1.0
+401803232,2026-02-03T01:30Z,San Jose Sharks at Chicago Blackhawks,Chicago Blackhawks,San Jose Sharks,6,3,1.0
+401803233,2026-02-03T01:30Z,Winnipeg Jets at Dallas Stars,Dallas Stars,Winnipeg Jets,4,3,1.0
+401803234,2026-02-03T02:00Z,Detroit Red Wings at Colorado Avalanche,Colorado Avalanche,Detroit Red Wings,0,2,0.0
+401803235,2026-02-03T02:30Z,Vancouver Canucks at Utah Mammoth,Utah Mammoth,Vancouver Canucks,6,2,1.0
+401803236,2026-02-03T03:00Z,Toronto Maple Leafs at Calgary Flames,Calgary Flames,Toronto Maple Leafs,2,4,0.0
+401803238,2026-02-04T00:00Z,Columbus Blue Jackets at New Jersey Devils,New Jersey Devils,Columbus Blue Jackets,0,3,0.0
+401803240,2026-02-04T00:00Z,Washington Capitals at Philadelphia Flyers,Philadelphia Flyers,Washington Capitals,4,2,1.0
+401803241,2026-02-04T00:00Z,Ottawa Senators at Carolina Hurricanes,Carolina Hurricanes,Ottawa Senators,4,3,1.0
+401803237,2026-02-04T00:30Z,Buffalo Sabres at Tampa Bay Lightning,Tampa Bay Lightning,Buffalo Sabres,4,3,1.0
+401803239,2026-02-04T00:30Z,Pittsburgh Penguins at New York Islanders,New York Islanders,Pittsburgh Penguins,5,4,1.0
+401803242,2026-02-04T01:30Z,Toronto Maple Leafs at Edmonton Oilers,Edmonton Oilers,Toronto Maple Leafs,2,5,0.0
+401803243,2026-02-04T03:00Z,Seattle Kraken at Anaheim Ducks,Anaheim Ducks,Seattle Kraken,4,2,1.0
+401803244,2026-02-05T00:00Z,Boston Bruins at Florida Panthers,Florida Panthers,Boston Bruins,5,4,1.0
+401803245,2026-02-05T00:00Z,Chicago Blackhawks at Columbus Blue Jackets,Columbus Blue Jackets,Chicago Blackhawks,4,0,1.0
+401803246,2026-02-05T00:00Z,Montreal Canadiens at Winnipeg Jets,Winnipeg Jets,Montreal Canadiens,1,5,0.0
+401803247,2026-02-05T01:00Z,Minnesota Wild at Nashville Predators,Nashville Predators,Minnesota Wild,5,6,0.0
+401803248,2026-02-05T02:00Z,San Jose Sharks at Colorado Avalanche,Colorado Avalanche,San Jose Sharks,4,2,1.0
+401803249,2026-02-05T02:00Z,Detroit Red Wings at Utah Mammoth,Utah Mammoth,Detroit Red Wings,4,1,1.0
+401803250,2026-02-05T02:30Z,St. Louis Blues at Dallas Stars,Dallas Stars,St. Louis Blues,5,4,1.0
+401803251,2026-02-05T03:00Z,Edmonton Oilers at Calgary Flames,Calgary Flames,Edmonton Oilers,4,3,1.0
+401803252,2026-02-05T03:00Z,Vancouver Canucks at Vegas Golden Knights,Vegas Golden Knights,Vancouver Canucks,5,2,1.0
+401803253,2026-02-05T03:00Z,Seattle Kraken at Los Angeles Kings,Los Angeles Kings,Seattle Kraken,2,4,0.0
+401803254,2026-02-06T00:00Z,Pittsburgh Penguins at Buffalo Sabres,Buffalo Sabres,Pittsburgh Penguins,2,5,0.0
+401803256,2026-02-06T00:00Z,New York Islanders at New Jersey Devils,New Jersey Devils,New York Islanders,1,3,0.0
+401803257,2026-02-06T00:00Z,Carolina Hurricanes at New York Rangers,New York Rangers,Carolina Hurricanes,0,2,0.0
+401803258,2026-02-06T00:00Z,Ottawa Senators at Philadelphia Flyers,Philadelphia Flyers,Ottawa Senators,1,2,0.0
+401803259,2026-02-06T00:00Z,Nashville Predators at Washington Capitals,Washington Capitals,Nashville Predators,4,2,1.0
+401803255,2026-02-06T00:30Z,Florida Panthers at Tampa Bay Lightning,Tampa Bay Lightning,Florida Panthers,6,1,1.0
+401803260,2026-02-06T03:00Z,Los Angeles Kings at Vegas Golden Knights,Vegas Golden Knights,Los Angeles Kings,4,1,1.0
+401803261,2026-02-26T00:00Z,Buffalo Sabres at New Jersey Devils,New Jersey Devils,Buffalo Sabres,1,2,0.0
+401803262,2026-02-26T00:00Z,Philadelphia Flyers at Washington Capitals,Washington Capitals,Philadelphia Flyers,3,1,1.0
+401803263,2026-02-26T00:30Z,Toronto Maple Leafs at Tampa Bay Lightning,Tampa Bay Lightning,Toronto Maple Leafs,4,2,1.0
+401803264,2026-02-26T01:00Z,Seattle Kraken at Dallas Stars,Dallas Stars,Seattle Kraken,4,1,1.0
+401803265,2026-02-26T02:00Z,Colorado Avalanche at Utah Mammoth,Utah Mammoth,Colorado Avalanche,2,4,0.0
+401803266,2026-02-26T03:00Z,Winnipeg Jets at Vancouver Canucks,Vancouver Canucks,Winnipeg Jets,2,3,0.0
+401803267,2026-02-26T03:20Z,Vegas Golden Knights at Los Angeles Kings,Los Angeles Kings,Vegas Golden Knights,4,6,0.0
+401803268,2026-02-26T03:30Z,Edmonton Oilers at Anaheim Ducks,Anaheim Ducks,Edmonton Oilers,6,5,1.0
+401803269,2026-02-27T00:00Z,Columbus Blue Jackets at Boston Bruins,Boston Bruins,Columbus Blue Jackets,4,2,1.0
+401803270,2026-02-27T00:00Z,New York Islanders at Montreal Canadiens,Montreal Canadiens,New York Islanders,3,4,0.0
+401803271,2026-02-27T00:00Z,Detroit Red Wings at Ottawa Senators,Ottawa Senators,Detroit Red Wings,1,2,0.0
+401803272,2026-02-27T00:00Z,Toronto Maple Leafs at Florida Panthers,Florida Panthers,Toronto Maple Leafs,5,1,1.0
+401803273,2026-02-27T00:00Z,New Jersey Devils at Pittsburgh Penguins,Pittsburgh Penguins,New Jersey Devils,4,1,1.0
+401803274,2026-02-27T00:00Z,Tampa Bay Lightning at Carolina Hurricanes,Carolina Hurricanes,Tampa Bay Lightning,5,4,1.0
+401803275,2026-02-27T01:00Z,Philadelphia Flyers at New York Rangers,New York Rangers,Philadelphia Flyers,2,3,0.0
+401803276,2026-02-27T01:00Z,Seattle Kraken at St. Louis Blues,St. Louis Blues,Seattle Kraken,5,1,1.0
+401803277,2026-02-27T01:00Z,Chicago Blackhawks at Nashville Predators,Nashville Predators,Chicago Blackhawks,4,2,1.0
+401803278,2026-02-27T02:00Z,Minnesota Wild at Colorado Avalanche,Colorado Avalanche,Minnesota Wild,2,5,0.0
+401803279,2026-02-27T03:00Z,Calgary Flames at San Jose Sharks,San Jose Sharks,Calgary Flames,1,4,0.0
+401803280,2026-02-27T03:30Z,Edmonton Oilers at Los Angeles Kings,Los Angeles Kings,Edmonton Oilers,1,8,0.0
+401803281,2026-02-28T00:00Z,Buffalo Sabres at Florida Panthers,Florida Panthers,Buffalo Sabres,2,3,0.0
+401803282,2026-02-28T00:00Z,Vegas Golden Knights at Washington Capitals,Washington Capitals,Vegas Golden Knights,3,2,1.0
+401803283,2026-02-28T02:00Z,Minnesota Wild at Utah Mammoth,Utah Mammoth,Minnesota Wild,5,2,1.0
+401803284,2026-02-28T03:00Z,Winnipeg Jets at Anaheim Ducks,Anaheim Ducks,Winnipeg Jets,5,4,1.0
+401803285,2026-02-28T17:30Z,Pittsburgh Penguins at New York Rangers,New York Rangers,Pittsburgh Penguins,3,2,1.0
+401803286,2026-02-28T20:20Z,Boston Bruins at Philadelphia Flyers,Philadelphia Flyers,Boston Bruins,3,1,1.0
+401803287,2026-02-28T21:00Z,Edmonton Oilers at San Jose Sharks,San Jose Sharks,Edmonton Oilers,5,4,1.0
+401803294,2026-02-28T22:00Z,New Jersey Devils at St. Louis Blues,St. Louis Blues,New Jersey Devils,1,3,0.0
+401803288,2026-02-28T23:00Z,New York Islanders at Columbus Blue Jackets,Columbus Blue Jackets,New York Islanders,3,4,0.0
+401803289,2026-02-28T23:00Z,Chicago Blackhawks at Colorado Avalanche,Colorado Avalanche,Chicago Blackhawks,3,1,1.0
+401803290,2026-03-01T00:00Z,Ottawa Senators at Toronto Maple Leafs,Toronto Maple Leafs,Ottawa Senators,2,5,0.0
+401803291,2026-03-01T00:00Z,Washington Capitals at Montreal Canadiens,Montreal Canadiens,Washington Capitals,6,2,1.0
+401803292,2026-03-01T00:00Z,Buffalo Sabres at Tampa Bay Lightning,Tampa Bay Lightning,Buffalo Sabres,2,6,0.0
+401803293,2026-03-01T00:00Z,Detroit Red Wings at Carolina Hurricanes,Carolina Hurricanes,Detroit Red Wings,5,2,1.0
+401803295,2026-03-01T00:00Z,Calgary Flames at Los Angeles Kings,Los Angeles Kings,Calgary Flames,2,0,1.0
+401803296,2026-03-01T01:00Z,Nashville Predators at Dallas Stars,Dallas Stars,Nashville Predators,3,2,1.0
+401803297,2026-03-01T03:00Z,Vancouver Canucks at Seattle Kraken,Seattle Kraken,Vancouver Canucks,5,1,1.0

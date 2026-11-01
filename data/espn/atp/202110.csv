@@ -1,0 +1,472 @@
+id,date,event,home,away,hs,as,res
+122917,2021-09-26T10:30Z,Sofia Open,Pedro Martinez,Simon Anthony Ivanov,,,1.0
+122908,2021-09-27T09:00Z,Sofia Open,Pedro Martinez,Kamil Majchrzak,,,1.0
+111712,2021-09-27T13:00Z,Sofia Open,Benoit Paire,Alejandro Davidovich Fokina,,,1.0
+111720,2021-09-27T15:00Z,Sofia Open,Miomir Kecmanovic,Adrian Andreev,,,1.0
+111722,2021-09-27T17:05Z,Sofia Open,Adrian Mannarino,Gianluca Mager,,,0.0
+111714,2021-09-28T09:00Z,Sofia Open,John Millman,Mikael Ymer,,,1.0
+111716,2021-09-28T10:45Z,Sofia Open,Jaume Munar,Marcos Giron,,,0.0
+122928,2021-09-28T12:30Z,Sofia Open,Pedro Martinez,Laslo Djere,,,0.0
+111713,2021-09-28T13:10Z,Sofia Open,Pedro Martinez,Laslo Djere,,,0.0
+111710,2021-09-28T15:10Z,Sofia Open,Dimitar Kuzmanov,Lorenzo Musetti,,,1.0
+111708,2021-09-28T18:35Z,Sofia Open,Egor Gerasimov,Vasek Pospisil,,,1.0
+111709,2021-09-29T09:00Z,Sofia Open,Emil Ruusuvuori,James Duckworth,,,0.0
+111715,2021-09-29T09:05Z,Sofia Open,Andreas Seppi,Illya Marchenko,,,0.0
+111723,2021-09-29T11:45Z,Sofia Open,Ilya Ivashka,Pablo Andujar,,,1.0
+111729,2021-09-29T14:35Z,Sofia Open,Gianluca Mager,Miomir Kecmanovic,,,1.0
+111718,2021-09-29T15:35Z,Sofia Open,Alexandar Lazarov,Filip Krajinovic,,,0.0
+111724,2021-09-29T17:00Z,Sofia Open,Kamil Majchrzak,Dimitar Kuzmanov,,,1.0
+111730,2021-09-30T09:00Z,Sofia Open,John Millman,Illya Marchenko,,,1.0
+111725,2021-09-30T09:05Z,Sofia Open,Marcos Giron,Alex de Minaur,,,1.0
+111719,2021-09-30T11:20Z,Sofia Open,James Duckworth,Benoit Paire,,,1.0
+111727,2021-09-30T12:50Z,Sofia Open,Laslo Djere,Filip Krajinovic,,,0.0
+111726,2021-09-30T15:00Z,Sofia Open,Ilya Ivashka,Gael Monfils,,,0.0
+111736,2021-09-30T15:05Z,Sofia Open,Jannik Sinner,Egor Gerasimov,,,1.0
+111733,2021-10-01T11:05Z,Sofia Open,John Millman,Marcos Giron,,,0.0
+111734,2021-10-01T12:35Z,Sofia Open,Gianluca Mager,Gael Monfils,,,0.0
+111728,2021-10-01T15:05Z,Sofia Open,Jannik Sinner,James Duckworth,,,1.0
+111731,2021-10-01T17:15Z,Sofia Open,Kamil Majchrzak,Filip Krajinovic,,,0.0
+111735,2021-10-02T13:05Z,Sofia Open,Marcos Giron,Gael Monfils,,,0.0
+111732,2021-10-02T15:00Z,Sofia Open,Jannik Sinner,Filip Krajinovic,,,1.0
+111738,2021-10-03T13:30Z,Sofia Open,Jannik Sinner,Gael Monfils,,,1.0
+111683,2021-09-27T20:30Z,San Diego Open,Aslan Karatsev,Federico Delbonis,,,1.0
+111678,2021-09-28T00:35Z,San Diego Open,Fabio Fognini,Brandon Nakashima,,,0.0
+111680,2021-09-28T03:20Z,San Diego Open,Salvatore Caruso,Taylor Fritz,,,0.0
+111690,2021-09-28T18:30Z,San Diego Open,Lorenzo Sonego,Nikoloz Basilashvili,,,1.0
+111691,2021-09-28T18:30Z,San Diego Open,Sebastian Korda,Tommy Paul,,,1.0
+111685,2021-09-28T20:00Z,San Diego Open,Dominik Koepfer,Cameron Norrie,,,0.0
+111687,2021-09-28T21:05Z,San Diego Open,Marton Fucsovics,Grigor Dimitrov,,,0.0
+123314,2021-09-28T23:00Z,San Diego Open,Lloyd Harris,Christopher Eubanks,,,1.0
+111681,2021-09-28T23:25Z,San Diego Open,Lloyd Harris,Christopher Eubanks,,,1.0
+111688,2021-09-29T00:40Z,San Diego Open,Denis Kudla,Andy Murray,,,0.0
+111679,2021-09-29T02:05Z,San Diego Open,Federico Gaio,Diego Schwartzman,,,0.0
+111684,2021-09-29T18:35Z,San Diego Open,Kevin Anderson,Daniel Evans,,,0.0
+111686,2021-09-29T21:20Z,San Diego Open,Hubert Hurkacz,Alex Bolt,,,1.0
+111692,2021-09-30T00:35Z,San Diego Open,Andrey Rublev,Brandon Nakashima,,,1.0
+111698,2021-09-30T02:00Z,San Diego Open,Lloyd Harris,Diego Schwartzman,,,0.0
+123318,2021-09-30T02:05Z,San Diego Open,Lloyd Harris,Diego Schwartzman,,,0.0
+111696,2021-09-30T18:35Z,San Diego Open,Cameron Norrie,Daniel Evans,,,1.0
+111693,2021-09-30T19:55Z,San Diego Open,Hubert Hurkacz,Aslan Karatsev,,,0.0
+111694,2021-09-30T20:55Z,San Diego Open,Denis Shapovalov,Taylor Fritz,,,1.0
+111701,2021-09-30T22:40Z,San Diego Open,Lorenzo Sonego,Sebastian Korda,,,1.0
+111700,2021-10-01T00:35Z,San Diego Open,Andy Murray,Casper Ruud,,,0.0
+111697,2021-10-01T02:50Z,San Diego Open,Grigor Dimitrov,August Holmgren,,,1.0
+111699,2021-10-01T18:35Z,San Diego Open,Denis Shapovalov,Cameron Norrie,,,0.0
+111702,2021-10-01T20:05Z,San Diego Open,Andrey Rublev,Diego Schwartzman,,,1.0
+111704,2021-10-02T00:35Z,San Diego Open,Lorenzo Sonego,Casper Ruud,,,0.0
+111703,2021-10-02T02:15Z,San Diego Open,Aslan Karatsev,Grigor Dimitrov,,,0.0
+111706,2021-10-02T21:05Z,San Diego Open,Andrey Rublev,Cameron Norrie,,,0.0
+111705,2021-10-02T23:25Z,San Diego Open,Grigor Dimitrov,Casper Ruud,,,0.0
+111707,2021-10-03T23:05Z,San Diego Open,Cameron Norrie,Casper Ruud,,,0.0
+111885,2021-10-06T18:05Z,BNP Paribas Open,Ann Li,Misaki Doi,,,0.0
+111900,2021-10-06T18:05Z,BNP Paribas Open,Andrea Petkovic,Yulia Putintseva,,,0.0
+111890,2021-10-06T18:10Z,BNP Paribas Open,Irina-Camelia Begu,Fiona Ferro,,,1.0
+111882,2021-10-06T20:00Z,BNP Paribas Open,Sloane Stephens,Heather Watson,,,1.0
+111848,2021-10-06T20:40Z,BNP Paribas Open,Kateryna Baindl,Liudmila Samsonova,,,0.0
+111938,2021-10-06T20:50Z,BNP Paribas Open,Magda Linette,Rebecca Peterson,,,1.0
+111944,2021-10-06T22:55Z,BNP Paribas Open,Marta Kostyuk,Zhang Shuai,,,1.0
+111894,2021-10-06T23:00Z,BNP Paribas Open,Elena-Gabriela Ruse,Alize Cornet,,,0.0
+111849,2021-10-06T23:10Z,BNP Paribas Open,Katie Volynets,Petra Martic,,,0.0
+123857,2021-10-07T01:00Z,BNP Paribas Open,Camila Osorio,Aliaksandra Sasnovich,,,0.0
+111881,2021-10-07T01:05Z,BNP Paribas Open,Mai Hontama,Jasmine Paolini,,,0.0
+111886,2021-10-07T01:10Z,BNP Paribas Open,Tereza Martincova,Ashlyn Krueger,,,1.0
+111895,2021-10-07T01:10Z,BNP Paribas Open,Kaia Kanepi,Madison Keys,,,0.0
+111943,2021-10-07T01:15Z,BNP Paribas Open,Camila Osorio,Aliaksandra Sasnovich,,,0.0
+111889,2021-10-07T02:40Z,BNP Paribas Open,Shelby Rogers,Anhelina Kalinina,,,1.0
+111838,2021-10-07T03:05Z,BNP Paribas Open,Madison Brengle,Su-Wei Hsieh,,,0.0
+111936,2021-10-07T03:10Z,BNP Paribas Open,Arantxa Rus,Alycia Parks,,,1.0
+111925,2021-10-07T18:05Z,BNP Paribas Open,Anna Karolina Schmiedlova,Ana Konjuh,,,0.0
+124021,2021-10-07T18:10Z,BNP Paribas Open,Anna Karolina Schmiedlova,Ana Konjuh,,,0.0
+111873,2021-10-07T18:15Z,BNP Paribas Open,Elsa Jacquemot,Dayana Yastremska,,,0.0
+111875,2021-10-07T18:15Z,BNP Paribas Open,Caroline Garcia,Kirsten Flipkens,,,1.0
+111841,2021-10-07T19:45Z,BNP Paribas Open,Martina Trevisan,Marie Bouzkova,,,1.0
+111846,2021-10-07T20:00Z,BNP Paribas Open,Anastasija Sevastova,Polona Hercog,,,1.0
+111859,2021-10-07T20:35Z,BNP Paribas Open,Marketa Vondrousova,Viktorija Golubic,,,0.0
+111922,2021-10-07T22:00Z,BNP Paribas Open,Donna Vekic,Astra Sharma,,,0.0
+111920,2021-10-07T22:10Z,BNP Paribas Open,Katerina Siniakova,Kim Clijsters,,,1.0
+111897,2021-10-07T23:55Z,BNP Paribas Open,Zheng Saisai,Magdalena Frech,,,0.0
+111864,2021-10-08T01:05Z,BNP Paribas Open,Nao Hibino,Zarina Diyas,,,0.0
+111847,2021-10-08T01:10Z,BNP Paribas Open,Lauren Davis,Nuria Parrizas Diaz,,,1.0
+111865,2021-10-08T01:35Z,BNP Paribas Open,Amanda Anisimova,Katrina Scott,,,1.0
+111899,2021-10-08T01:35Z,BNP Paribas Open,Mayar Sherif,Danka Kovinic,,,1.0
+111857,2021-10-08T03:00Z,BNP Paribas Open,Claire Liu,Anna Kalinskaya,,,0.0
+111843,2021-10-08T03:10Z,BNP Paribas Open,En-Shuo Liang,Alison Riske-Amritraj,,,0.0
+111926,2021-10-08T03:20Z,BNP Paribas Open,Usue Maitane Arconada,Ajla Tomljanovic,,,0.0
+111935,2021-10-08T18:05Z,BNP Paribas Open,Tereza Martincova,Elina Svitolina,,,0.0
+111950,2021-10-08T18:05Z,BNP Paribas Open,Veronika Kudermetova,Liudmila Samsonova,,,1.0
+111951,2021-10-08T18:05Z,BNP Paribas Open,Petra Martic,Iga Swiatek,,,0.0
+111933,2021-10-08T18:10Z,BNP Paribas Open,Sorana Cirstea,Misaki Doi,,,1.0
+111930,2021-10-08T19:30Z,BNP Paribas Open,Elise Mertens,Jasmine Paolini,,,0.0
+111929,2021-10-08T19:35Z,BNP Paribas Open,Marta Kostyuk,Simona Halep,,,0.0
+111949,2021-10-08T19:35Z,BNP Paribas Open,Su-Wei Hsieh,Jelena Ostapenko,,,0.0
+111927,2021-10-08T20:45Z,BNP Paribas Open,Magda Linette,Victoria Azarenka,,,0.0
+111939,2021-10-08T20:50Z,BNP Paribas Open,Irina-Camelia Begu,Jil Teichmann,,,1.0
+111947,2021-10-08T22:10Z,BNP Paribas Open,Madison Keys,Anastasia Pavlyuchenkova,,,0.0
+111937,2021-10-08T22:35Z,BNP Paribas Open,Kristina Kucova,Shelby Rogers,,,0.0
+111921,2021-10-09T01:05Z,BNP Paribas Open,Petra Kvitova,Arantxa Rus,,,1.0
+111928,2021-10-09T01:05Z,BNP Paribas Open,Emma Raducanu,Aliaksandra Sasnovich,,,0.0
+111948,2021-10-09T01:05Z,BNP Paribas Open,Elena Rybakina,Yulia Putintseva,,,0.0
+111931,2021-10-09T02:40Z,BNP Paribas Open,Sloane Stephens,Jessica Pegula,,,0.0
+111941,2021-10-09T04:00Z,BNP Paribas Open,Leylah Fernandez,Alize Cornet,,,1.0
+111858,2021-10-09T18:05Z,BNP Paribas Open,Ons Jabeur,Anastasija Sevastova,,,1.0
+111878,2021-10-09T18:05Z,BNP Paribas Open,Tamara Zidansek,Ana Konjuh,,,1.0
+111880,2021-10-09T18:05Z,BNP Paribas Open,Ajla Tomljanovic,Garbine Muguruza,,,1.0
+111862,2021-10-09T18:10Z,BNP Paribas Open,Sara Sorribes Tormo,Anna Kalinskaya,,,0.0
+111851,2021-10-09T20:15Z,BNP Paribas Open,Karolina Pliskova,Magdalena Frech,,,1.0
+111870,2021-10-09T20:15Z,BNP Paribas Open,Amanda Anisimova,Camila Giorgi,,,1.0
+111854,2021-10-09T21:10Z,BNP Paribas Open,Anett Kontaveit,Martina Trevisan,,,1.0
+111869,2021-10-09T21:55Z,BNP Paribas Open,Barbora Krejcikova,Zarina Diyas,,,1.0
+111872,2021-10-09T22:05Z,BNP Paribas Open,Caroline Garcia,Coco Gauff,,,0.0
+111871,2021-10-09T22:55Z,BNP Paribas Open,Paula Badosa,Dayana Yastremska,,,1.0
+111860,2021-10-10T01:10Z,BNP Paribas Open,Lauren Davis,Danielle Collins,,,0.0
+111868,2021-10-10T01:10Z,BNP Paribas Open,Viktorija Golubic,Maria Sakkari,,,1.0
+111874,2021-10-10T01:10Z,BNP Paribas Open,Angelique Kerber,Katerina Siniakova,,,1.0
+111876,2021-10-10T02:15Z,BNP Paribas Open,Astra Sharma,Daria Kasatkina,,,0.0
+111852,2021-10-10T02:35Z,BNP Paribas Open,Mayar Sherif,Beatriz Haddad Maia,,,0.0
+111856,2021-10-10T03:10Z,BNP Paribas Open,Alison Riske-Amritraj,Bianca Andreescu,,,0.0
+122004,2021-10-10T03:10Z,BNP Paribas Open,Alison Riske-Amritraj,Bianca Andreescu,,,0.0
+111911,2021-10-10T18:05Z,BNP Paribas Open,Veronika Kudermetova,Iga Swiatek,,,0.0
+111907,2021-10-10T19:20Z,BNP Paribas Open,Sorana Cirstea,Elina Svitolina,,,0.0
+111908,2021-10-10T20:10Z,BNP Paribas Open,Shelby Rogers,Irina-Camelia Begu,,,1.0
+111910,2021-10-10T21:35Z,BNP Paribas Open,Yulia Putintseva,Jelena Ostapenko,,,0.0
+111905,2021-10-10T23:30Z,BNP Paribas Open,Aliaksandra Sasnovich,Simona Halep,,,1.0
+111906,2021-10-11T01:10Z,BNP Paribas Open,Jasmine Paolini,Jessica Pegula,,,0.0
+111904,2021-10-11T01:30Z,BNP Paribas Open,Petra Kvitova,Victoria Azarenka,,,0.0
+111909,2021-10-11T03:05Z,BNP Paribas Open,Leylah Fernandez,Anastasia Pavlyuchenkova,,,1.0
+111902,2021-10-11T18:05Z,BNP Paribas Open,Angelique Kerber,Daria Kasatkina,,,1.0
+111955,2021-10-11T18:05Z,BNP Paribas Open,Anna Kalinskaya,Viktorija Golubic,,,1.0
+111953,2021-10-11T20:15Z,BNP Paribas Open,Anett Kontaveit,Bianca Andreescu,,,1.0
+111952,2021-10-11T21:20Z,BNP Paribas Open,Karolina Pliskova,Beatriz Haddad Maia,,,0.0
+111954,2021-10-11T22:15Z,BNP Paribas Open,Ons Jabeur,Danielle Collins,,,1.0
+111903,2021-10-11T23:40Z,BNP Paribas Open,Tamara Zidansek,Ajla Tomljanovic,,,0.0
+111901,2021-10-12T01:05Z,BNP Paribas Open,Paula Badosa,Coco Gauff,,,1.0
+111956,2021-10-12T04:35Z,BNP Paribas Open,Barbora Krejcikova,Amanda Anisimova,,,1.0
+111917,2021-10-12T18:05Z,BNP Paribas Open,Jessica Pegula,Elina Svitolina,,,1.0
+111919,2021-10-12T18:05Z,BNP Paribas Open,Jelena Ostapenko,Iga Swiatek,,,1.0
+111918,2021-10-12T19:30Z,BNP Paribas Open,Shelby Rogers,Leylah Fernandez,,,1.0
+111916,2021-10-12T22:45Z,BNP Paribas Open,Victoria Azarenka,Aliaksandra Sasnovich,,,1.0
+111914,2021-10-12T23:15Z,BNP Paribas Open,Barbora Krejcikova,Paula Badosa,,,0.0
+111912,2021-10-13T01:05Z,BNP Paribas Open,Beatriz Haddad Maia,Anett Kontaveit,,,0.0
+111915,2021-10-13T01:05Z,BNP Paribas Open,Angelique Kerber,Ajla Tomljanovic,,,1.0
+111913,2021-10-13T03:10Z,BNP Paribas Open,Ons Jabeur,Anna Kalinskaya,,,1.0
+111958,2021-10-13T22:50Z,BNP Paribas Open,Victoria Azarenka,Jessica Pegula,,,1.0
+111959,2021-10-14T01:05Z,BNP Paribas Open,Shelby Rogers,Jelena Ostapenko,,,0.0
+111963,2021-10-14T22:40Z,BNP Paribas Open,Anett Kontaveit,Ons Jabeur,,,0.0
+111957,2021-10-15T01:05Z,BNP Paribas Open,Paula Badosa,Angelique Kerber,,,1.0
+111961,2021-10-16T01:05Z,BNP Paribas Open,Victoria Azarenka,Jelena Ostapenko,,,1.0
+111960,2021-10-16T03:40Z,BNP Paribas Open,Ons Jabeur,Paula Badosa,,,0.0
+111962,2021-10-17T20:10Z,BNP Paribas Open,Paula Badosa,Victoria Azarenka,,,1.0
+112018,2021-10-07T18:00Z,BNP Paribas Open,Alexei Popyrin,Miomir Kecmanovic,,,1.0
+111991,2021-10-07T18:05Z,BNP Paribas Open,Daniel Altmaier,Sam Querrey,,,1.0
+111992,2021-10-07T18:05Z,BNP Paribas Open,Philipp Kohlschreiber,Taro Daniel,,,0.0
+112021,2021-10-07T18:05Z,BNP Paribas Open,Carlos Taberner,Jaume Munar,,,1.0
+112026,2021-10-07T19:30Z,BNP Paribas Open,Tommy Paul,Feliciano Lopez,,,1.0
+111984,2021-10-07T19:45Z,BNP Paribas Open,Mackenzie McDonald,James Duckworth,,,1.0
+112034,2021-10-07T19:55Z,BNP Paribas Open,SoonWoo Kwon,Guido Pella,,,0.0
+112032,2021-10-07T20:00Z,BNP Paribas Open,Thiago Monteiro,Tennys Sandgren,,,0.0
+123382,2021-10-07T20:00Z,BNP Paribas Open,SoonWoo Kwon,Guido Pella,,,0.0
+123711,2021-10-07T20:10Z,BNP Paribas Open,Thiago Monteiro,Tennys Sandgren,,,0.0
+111986,2021-10-07T21:20Z,BNP Paribas Open,Marcos Giron,Botic Van De Zandschulp,,,1.0
+112039,2021-10-07T22:05Z,BNP Paribas Open,Maxime Cressy,Laslo Djere,,,1.0
+112040,2021-10-07T22:45Z,BNP Paribas Open,Kei Nishikori,João Sousa,,,1.0
+112010,2021-10-08T01:05Z,BNP Paribas Open,Salvatore Caruso,Zachary Svajda,,,1.0
+112016,2021-10-08T01:05Z,BNP Paribas Open,Benoit Paire,Frances Tiafoe,,,0.0
+112050,2021-10-08T01:05Z,BNP Paribas Open,Renzo Olivo,Roberto Carballes Baena,,,0.0
+112008,2021-10-08T02:40Z,BNP Paribas Open,Vasek Pospisil,J.J. Wolf,,,1.0
+112048,2021-10-08T02:40Z,BNP Paribas Open,Alejandro Davidovich Fokina,Steve Johnson,,,1.0
+112009,2021-10-08T18:00Z,BNP Paribas Open,Dominik Koepfer,Emil Ruusuvuori,,,0.0
+111965,2021-10-08T18:05Z,BNP Paribas Open,Federico Delbonis,Yoshihito Nishioka,,,0.0
+112056,2021-10-08T18:10Z,BNP Paribas Open,Denis Kudla,Alejandro Tabilo,,,0.0
+112017,2021-10-08T19:25Z,BNP Paribas Open,Holger Rune,Ernesto Escobedo,,,0.0
+122881,2021-10-08T19:35Z,BNP Paribas Open,Holger Rune,Ernesto Escobedo,,,0.0
+111978,2021-10-08T20:05Z,BNP Paribas Open,Kevin Anderson,Jordan Thompson,,,1.0
+112025,2021-10-08T20:30Z,BNP Paribas Open,Jan-Lennard Struff,Daniel Elahi Galan,,,1.0
+112000,2021-10-08T20:55Z,BNP Paribas Open,Albert Ramos-Vinolas,Lorenzo Musetti,,,1.0
+123207,2021-10-08T21:00Z,BNP Paribas Open,Albert Ramos-Vinolas,Lorenzo Musetti,,,1.0
+111987,2021-10-08T21:25Z,BNP Paribas Open,Cem Ilkel,Jenson Brooksby,,,0.0
+112011,2021-10-08T22:25Z,BNP Paribas Open,Facundo Bagnis,Emilio Gomez,,,0.0
+112022,2021-10-09T01:00Z,BNP Paribas Open,Aleksandar Vukic,Pablo Andujar,,,1.0
+112058,2021-10-09T01:00Z,BNP Paribas Open,Federico Coria,Brandon Nakashima,,,0.0
+111970,2021-10-09T01:05Z,BNP Paribas Open,Jack Sock,John Millman,,,0.0
+112027,2021-10-09T01:05Z,BNP Paribas Open,Pedro Martinez,Roberto Marcora,,,1.0
+122920,2021-10-09T01:10Z,BNP Paribas Open,Pedro Martinez,Roberto Marcora,,,1.0
+111976,2021-10-09T02:40Z,BNP Paribas Open,Marton Fucsovics,Gianluca Mager,,,0.0
+111985,2021-10-09T02:45Z,BNP Paribas Open,Andy Murray,Adrian Mannarino,,,1.0
+112002,2021-10-09T02:50Z,BNP Paribas Open,Egor Gerasimov,Christopher Eubanks,,,0.0
+112057,2021-10-09T18:00Z,BNP Paribas Open,Kei Nishikori,Daniel Evans,,,0.0
+112037,2021-10-09T18:05Z,BNP Paribas Open,Taro Daniel,Reilly Opelka,,,0.0
+112045,2021-10-09T18:05Z,BNP Paribas Open,Alexei Popyrin,Hubert Hurkacz,,,0.0
+112055,2021-10-09T18:05Z,BNP Paribas Open,Diego Schwartzman,Maxime Cressy,,,1.0
+112053,2021-10-09T19:45Z,BNP Paribas Open,Guido Pella,Roberto Bautista Agut,,,0.0
+112044,2021-10-09T19:50Z,BNP Paribas Open,Sebastian Korda,Frances Tiafoe,,,0.0
+111967,2021-10-09T21:00Z,BNP Paribas Open,Roberto Carballes Baena,Casper Ruud,,,0.0
+112051,2021-10-09T21:05Z,BNP Paribas Open,Cameron Norrie,Tennys Sandgren,,,1.0
+123589,2021-10-09T21:15Z,BNP Paribas Open,Roberto Carballes Baena,Casper Ruud,,,0.0
+112042,2021-10-09T21:50Z,BNP Paribas Open,Denis Shapovalov,Vasek Pospisil,,,1.0
+112035,2021-10-09T22:35Z,BNP Paribas Open,Grigor Dimitrov,Daniel Altmaier,,,1.0
+112049,2021-10-10T01:00Z,BNP Paribas Open,Tommy Paul,Dusan Lajovic,,,1.0
+111966,2021-10-10T01:05Z,BNP Paribas Open,Lloyd Harris,Alejandro Davidovich Fokina,,,1.0
+112031,2021-10-10T01:05Z,BNP Paribas Open,Daniil Medvedev,Mackenzie McDonald,,,1.0
+112043,2021-10-10T01:05Z,BNP Paribas Open,Salvatore Caruso,Aslan Karatsev,,,0.0
+123316,2021-10-10T01:10Z,BNP Paribas Open,Lloyd Harris,Alejandro Davidovich Fokina,,,1.0
+112033,2021-10-10T02:20Z,BNP Paribas Open,Marcos Giron,Filip Krajinovic,,,0.0
+112047,2021-10-10T04:00Z,BNP Paribas Open,Andrey Rublev,Carlos Taberner,,,1.0
+111968,2021-10-10T18:05Z,BNP Paribas Open,Matteo Berrettini,Alejandro Tabilo,,,1.0
+111973,2021-10-10T18:05Z,BNP Paribas Open,John Millman,Jannik Sinner,,,0.0
+111975,2021-10-10T18:05Z,BNP Paribas Open,Gael Monfils,Gianluca Mager,,,1.0
+111977,2021-10-10T18:05Z,BNP Paribas Open,Kevin Anderson,Lorenzo Sonego,,,1.0
+112003,2021-10-10T19:30Z,BNP Paribas Open,Fabio Fognini,Jan-Lennard Struff,,,1.0
+111969,2021-10-10T19:40Z,BNP Paribas Open,Brandon Nakashima,Taylor Fritz,,,0.0
+111979,2021-10-10T20:00Z,BNP Paribas Open,Carlos Alcaraz,Andy Murray,,,0.0
+111999,2021-10-10T20:30Z,BNP Paribas Open,Cristian Garin,Ernesto Escobedo,,,1.0
+111994,2021-10-10T21:20Z,BNP Paribas Open,Felix Auger-Aliassime,Albert Ramos-Vinolas,,,0.0
+111997,2021-10-10T21:55Z,BNP Paribas Open,Emilio Gomez,Pablo Carreno Busta,,,0.0
+111981,2021-10-10T22:10Z,BNP Paribas Open,Jenson Brooksby,Alexander Zverev,,,0.0
+112001,2021-10-10T22:20Z,BNP Paribas Open,Aleksandar Vukic,Alex de Minaur,,,0.0
+111995,2021-10-11T01:00Z,BNP Paribas Open,Christopher Eubanks,Nikoloz Basilashvili,,,0.0
+111996,2021-10-11T01:05Z,BNP Paribas Open,Karen Khachanov,Emil Ruusuvuori,,,1.0
+112005,2021-10-11T01:05Z,BNP Paribas Open,Pedro Martinez,Stefanos Tsitsipas,,,0.0
+122910,2021-10-11T01:10Z,BNP Paribas Open,Pedro Martinez,Stefanos Tsitsipas,,,0.0
+111971,2021-10-11T03:40Z,BNP Paribas Open,John Isner,Yoshihito Nishioka,,,1.0
+112080,2021-10-11T18:00Z,BNP Paribas Open,Diego Schwartzman,Daniel Evans,,,1.0
+112081,2021-10-11T18:05Z,BNP Paribas Open,Lloyd Harris,Casper Ruud,,,0.0
+123319,2021-10-11T18:05Z,BNP Paribas Open,Lloyd Harris,Casper Ruud,,,0.0
+112075,2021-10-11T20:40Z,BNP Paribas Open,Grigor Dimitrov,Reilly Opelka,,,1.0
+112076,2021-10-11T22:20Z,BNP Paribas Open,Denis Shapovalov,Aslan Karatsev,,,0.0
+112077,2021-10-12T01:05Z,BNP Paribas Open,Frances Tiafoe,Hubert Hurkacz,,,0.0
+112079,2021-10-12T01:30Z,BNP Paribas Open,Cameron Norrie,Roberto Bautista Agut,,,1.0
+112078,2021-10-12T03:35Z,BNP Paribas Open,Andrey Rublev,Tommy Paul,,,0.0
+112074,2021-10-12T04:00Z,BNP Paribas Open,Daniil Medvedev,Filip Krajinovic,,,1.0
+112082,2021-10-12T18:05Z,BNP Paribas Open,Matteo Berrettini,Taylor Fritz,,,0.0
+112087,2021-10-12T19:45Z,BNP Paribas Open,Karen Khachanov,Pablo Carreno Busta,,,1.0
+112086,2021-10-12T20:00Z,BNP Paribas Open,Albert Ramos-Vinolas,Nikoloz Basilashvili,,,0.0
+123227,2021-10-12T20:10Z,BNP Paribas Open,Albert Ramos-Vinolas,Nikoloz Basilashvili,,,0.0
+112083,2021-10-12T22:00Z,BNP Paribas Open,John Isner,Jannik Sinner,,,0.0
+112085,2021-10-12T22:20Z,BNP Paribas Open,Andy Murray,Alexander Zverev,,,0.0
+112084,2021-10-13T01:05Z,BNP Paribas Open,Gael Monfils,Kevin Anderson,,,1.0
+112089,2021-10-13T02:45Z,BNP Paribas Open,Fabio Fognini,Stefanos Tsitsipas,,,0.0
+112088,2021-10-13T02:55Z,BNP Paribas Open,Cristian Garin,Alex de Minaur,,,0.0
+112060,2021-10-13T18:05Z,BNP Paribas Open,Aslan Karatsev,Hubert Hurkacz,,,0.0
+112062,2021-10-13T18:10Z,BNP Paribas Open,Diego Schwartzman,Casper Ruud,,,1.0
+112061,2021-10-13T19:30Z,BNP Paribas Open,Tommy Paul,Cameron Norrie,,,0.0
+112090,2021-10-13T20:10Z,BNP Paribas Open,Daniil Medvedev,Grigor Dimitrov,,,0.0
+112065,2021-10-13T21:25Z,BNP Paribas Open,Nikoloz Basilashvili,Karen Khachanov,,,1.0
+112063,2021-10-13T22:05Z,BNP Paribas Open,Taylor Fritz,Jannik Sinner,,,1.0
+122273,2021-10-13T22:10Z,BNP Paribas Open,Taylor Fritz,Jannik Sinner,,,1.0
+112066,2021-10-14T01:05Z,BNP Paribas Open,Alex de Minaur,Stefanos Tsitsipas,,,0.0
+112064,2021-10-14T03:35Z,BNP Paribas Open,Gael Monfils,Alexander Zverev,,,0.0
+112068,2021-10-14T18:05Z,BNP Paribas Open,Cameron Norrie,Diego Schwartzman,,,1.0
+112067,2021-10-14T19:40Z,BNP Paribas Open,Grigor Dimitrov,Hubert Hurkacz,,,1.0
+112070,2021-10-15T18:05Z,BNP Paribas Open,Nikoloz Basilashvili,Stefanos Tsitsipas,,,1.0
+112069,2021-10-15T20:40Z,BNP Paribas Open,Taylor Fritz,Alexander Zverev,,,1.0
+122290,2021-10-15T20:50Z,BNP Paribas Open,Taylor Fritz,Alexander Zverev,,,1.0
+112071,2021-10-16T20:35Z,BNP Paribas Open,Grigor Dimitrov,Cameron Norrie,,,0.0
+112072,2021-10-16T22:25Z,BNP Paribas Open,Taylor Fritz,Nikoloz Basilashvili,,,0.0
+122291,2021-10-16T22:30Z,BNP Paribas Open,Taylor Fritz,Nikoloz Basilashvili,,,0.0
+112073,2021-10-17T23:45Z,BNP Paribas Open,Cameron Norrie,Nikoloz Basilashvili,,,1.0
+123551,2021-10-17T11:30Z,European Open,Roberto Carballes Baena,Liam Broady,,,1.0
+122884,2021-10-17T13:00Z,European Open,Holger Rune,Pierre-Hugues Herbert,,,0.0
+117891,2021-10-17T14:30Z,European Open,Bernabe Zapata Miralles,Norbert Gombos,,,0.0
+123556,2021-10-18T12:30Z,European Open,Roberto Carballes Baena,Henri Laaksonen,,,0.0
+112185,2021-10-18T14:30Z,European Open,Federico Delbonis,Arthur Rinderknech,,,0.0
+112189,2021-10-18T16:20Z,European Open,Richard Gasquet,Dusan Lajovic,,,0.0
+112191,2021-10-18T18:00Z,European Open,Alexei Popyrin,Botic Van De Zandschulp,,,0.0
+112193,2021-10-19T11:00Z,European Open,Alejandro Davidovich Fokina,Jordan Thompson,,,1.0
+112190,2021-10-19T12:30Z,European Open,Henri Laaksonen,Benoit Paire,,,1.0
+112194,2021-10-19T12:35Z,European Open,Alex de Minaur,Brandon Nakashima,,,0.0
+112188,2021-10-19T14:15Z,European Open,Lorenzo Musetti,Gianluca Mager,,,1.0
+112195,2021-10-19T14:20Z,European Open,Reilly Opelka,Jenson Brooksby,,,0.0
+112192,2021-10-19T16:30Z,European Open,Frances Tiafoe,Andy Murray,,,0.0
+112187,2021-10-19T16:40Z,European Open,Jan-Lennard Struff,Albert Ramos-Vinolas,,,1.0
+112186,2021-10-19T18:40Z,European Open,Dennis Novak,Marton Fucsovics,,,0.0
+112184,2021-10-19T20:35Z,European Open,Zizou Bergs,Lloyd Harris,,,0.0
+112197,2021-10-20T12:50Z,European Open,Arthur Rinderknech,Dusan Lajovic,,,1.0
+112199,2021-10-20T15:00Z,European Open,Jenson Brooksby,Botic Van De Zandschulp,,,1.0
+112208,2021-10-20T16:30Z,European Open,Jannik Sinner,Lorenzo Musetti,,,1.0
+112210,2021-10-20T18:25Z,European Open,Alejandro Davidovich Fokina,Cristian Garin,,,1.0
+112196,2021-10-21T11:05Z,European Open,Jan-Lennard Struff,Lloyd Harris,,,0.0
+112213,2021-10-21T12:30Z,European Open,Roberto Bautista Agut,Marton Fucsovics,,,0.0
+112214,2021-10-21T16:40Z,European Open,Andy Murray,Diego Schwartzman,,,0.0
+112201,2021-10-21T19:10Z,European Open,Brandon Nakashima,Henri Laaksonen,,,1.0
+112198,2021-10-22T13:00Z,European Open,Marton Fucsovics,Lloyd Harris,,,0.0
+112200,2021-10-22T14:45Z,European Open,Jannik Sinner,Arthur Rinderknech,,,1.0
+112207,2021-10-22T16:35Z,European Open,Brandon Nakashima,Diego Schwartzman,,,0.0
+112204,2021-10-22T18:25Z,European Open,Jenson Brooksby,Alejandro Davidovich Fokina,,,1.0
+112202,2021-10-23T13:00Z,European Open,Jannik Sinner,Lloyd Harris,,,1.0
+112206,2021-10-23T15:30Z,European Open,Jenson Brooksby,Diego Schwartzman,,,0.0
+112205,2021-10-24T14:35Z,European Open,Jannik Sinner,Diego Schwartzman,,,1.0
+112218,2021-10-18T08:05Z,VTB Kremlin Cup,Liudmila Samsonova,Ajla Tomljanovic,,,0.0
+112219,2021-10-18T09:50Z,VTB Kremlin Cup,Dayana Yastremska,Anna Kalinskaya,,,0.0
+112221,2021-10-18T11:35Z,VTB Kremlin Cup,Aleksandra Krunic,Bernarda Pera,,,0.0
+112225,2021-10-18T13:25Z,VTB Kremlin Cup,Zheng Qinwen,Lesia Tsurenko,,,0.0
+112217,2021-10-18T17:15Z,VTB Kremlin Cup,Daria Kasatkina,Anhelina Kalinina,,,0.0
+112230,2021-10-19T08:05Z,VTB Kremlin Cup,Irina Bara,Tereza Martincova,,,0.0
+112223,2021-10-19T09:40Z,VTB Kremlin Cup,Anett Kontaveit,Katerina Siniakova,,,1.0
+112216,2021-10-19T12:35Z,VTB Kremlin Cup,Ekaterina Alexandrova,Ons Jabeur,,,1.0
+112226,2021-10-19T13:40Z,VTB Kremlin Cup,Anastasia Potapova,Simona Halep,,,0.0
+112232,2021-10-19T15:00Z,VTB Kremlin Cup,Jelena Ostapenko,Andrea Petkovic,,,0.0
+112215,2021-10-19T17:15Z,VTB Kremlin Cup,Veronika Kudermetova,Oksana Selekhmeteva,,,1.0
+112224,2021-10-19T17:40Z,VTB Kremlin Cup,Elena Rybakina,Marketa Vondrousova,,,0.0
+112233,2021-10-20T08:05Z,VTB Kremlin Cup,Tereza Martincova,Garbine Muguruza,,,0.0
+112245,2021-10-20T11:05Z,VTB Kremlin Cup,Aryna Sabalenka,Ajla Tomljanovic,,,1.0
+112229,2021-10-20T12:10Z,VTB Kremlin Cup,Anhelina Kalinina,Ekaterina Alexandrova,,,0.0
+112234,2021-10-20T20:25Z,VTB Kremlin Cup,Bernarda Pera,Anastasia Pavlyuchenkova,,,0.0
+112238,2021-10-21T08:10Z,VTB Kremlin Cup,Anett Kontaveit,Andrea Petkovic,,,1.0
+112231,2021-10-21T09:35Z,VTB Kremlin Cup,Maria Sakkari,Anna Kalinskaya,,,1.0
+112237,2021-10-21T12:05Z,VTB Kremlin Cup,Marketa Vondrousova,Lesia Tsurenko,,,1.0
+112227,2021-10-21T16:05Z,VTB Kremlin Cup,Veronika Kudermetova,Simona Halep,,,0.0
+112241,2021-10-22T08:10Z,VTB Kremlin Cup,Marketa Vondrousova,Anastasia Pavlyuchenkova,,,1.0
+112235,2021-10-22T09:45Z,VTB Kremlin Cup,Aryna Sabalenka,Ekaterina Alexandrova,,,0.0
+112244,2021-10-22T12:10Z,VTB Kremlin Cup,Anett Kontaveit,Garbine Muguruza,,,1.0
+112236,2021-10-22T12:55Z,VTB Kremlin Cup,Maria Sakkari,Simona Halep,,,1.0
+112242,2021-10-23T09:05Z,VTB Kremlin Cup,Marketa Vondrousova,Anett Kontaveit,,,0.0
+112239,2021-10-23T11:05Z,VTB Kremlin Cup,Ekaterina Alexandrova,Maria Sakkari,,,1.0
+112240,2021-10-24T09:05Z,VTB Kremlin Cup,Ekaterina Alexandrova,Anett Kontaveit,,,0.0
+112136,2021-10-18T12:15Z,VTB Kremlin Cup,John Millman,Benjamin Bonzi,,,1.0
+112132,2021-10-18T15:05Z,VTB Kremlin Cup,Damir Dzumhur,Marin Cilic,,,0.0
+112137,2021-10-18T18:55Z,VTB Kremlin Cup,James Duckworth,Borna Gojo,,,1.0
+112151,2021-10-19T08:00Z,VTB Kremlin Cup,Roman Safiullin,Adrian Mannarino,,,0.0
+112130,2021-10-19T08:05Z,VTB Kremlin Cup,Tommy Paul,Mikael Ymer,,,1.0
+112128,2021-10-19T10:20Z,VTB Kremlin Cup,Guido Pella,Pedro Martinez,,,0.0
+112134,2021-10-19T10:50Z,VTB Kremlin Cup,Alexander Bublik,Illya Marchenko,,,0.0
+112141,2021-10-19T11:00Z,VTB Kremlin Cup,Miomir Kecmanovic,Egor Gerasimov,,,0.0
+112139,2021-10-19T12:55Z,VTB Kremlin Cup,Laslo Djere,Gilles Simon,,,0.0
+112124,2021-10-19T15:30Z,VTB Kremlin Cup,Evgeny Donskoy,Ricardas Berankis,,,0.0
+112122,2021-10-20T08:00Z,VTB Kremlin Cup,Federico Coria,Alibek Kachmazov,,,1.0
+112140,2021-10-20T10:25Z,VTB Kremlin Cup,Mackenzie McDonald,Yoshihito Nishioka,,,1.0
+112147,2021-10-20T13:25Z,VTB Kremlin Cup,Illya Marchenko,John Millman,,,0.0
+112146,2021-10-20T16:10Z,VTB Kremlin Cup,Tommy Paul,Marin Cilic,,,0.0
+112149,2021-10-20T18:10Z,VTB Kremlin Cup,James Duckworth,Karen Khachanov,,,0.0
+112145,2021-10-21T08:05Z,VTB Kremlin Cup,Filip Krajinovic,Pedro Martinez,,,0.0
+112144,2021-10-21T09:50Z,VTB Kremlin Cup,Federico Coria,Ricardas Berankis,,,0.0
+112143,2021-10-21T11:30Z,VTB Kremlin Cup,Andrey Rublev,Adrian Mannarino,,,0.0
+112152,2021-10-21T14:15Z,VTB Kremlin Cup,Egor Gerasimov,Aslan Karatsev,,,0.0
+112150,2021-10-21T18:10Z,VTB Kremlin Cup,Gilles Simon,Mackenzie McDonald,,,1.0
+112123,2021-10-22T08:00Z,VTB Kremlin Cup,Adrian Mannarino,Ricardas Berankis,,,0.0
+112125,2021-10-22T11:30Z,VTB Kremlin Cup,Pedro Martinez,Marin Cilic,,,0.0
+122911,2021-10-22T11:40Z,VTB Kremlin Cup,Pedro Martinez,Marin Cilic,,,0.0
+112127,2021-10-22T15:35Z,VTB Kremlin Cup,John Millman,Karen Khachanov,,,0.0
+112129,2021-10-22T18:15Z,VTB Kremlin Cup,Gilles Simon,Aslan Karatsev,,,0.0
+112131,2021-10-23T14:00Z,VTB Kremlin Cup,Ricardas Berankis,Marin Cilic,,,0.0
+112133,2021-10-23T15:50Z,VTB Kremlin Cup,Karen Khachanov,Aslan Karatsev,,,0.0
+112135,2021-10-24T14:30Z,VTB Kremlin Cup,Marin Cilic,Aslan Karatsev,,,0.0
+112255,2021-10-25T12:05Z,Erste Bank Open,Nikoloz Basilashvili,Pablo Carreno Busta,,,1.0
+112256,2021-10-25T14:55Z,Erste Bank Open,Carlos Alcaraz,Daniel Evans,,,1.0
+112250,2021-10-25T15:00Z,Erste Bank Open,Alex de Minaur,Kevin Anderson,,,1.0
+112253,2021-10-25T16:40Z,Erste Bank Open,Hubert Hurkacz,Andy Murray,,,0.0
+112260,2021-10-25T19:55Z,Erste Bank Open,Alexei Popyrin,Matteo Berrettini,,,0.0
+112258,2021-10-26T11:05Z,Erste Bank Open,Felix Auger-Aliassime,Ricardas Berankis,,,1.0
+112247,2021-10-26T12:05Z,Erste Bank Open,Casper Ruud,Lloyd Harris,,,1.0
+112246,2021-10-26T13:00Z,Erste Bank Open,Cameron Norrie,Marton Fucsovics,,,1.0
+112259,2021-10-26T14:10Z,Erste Bank Open,Stefanos Tsitsipas,Grigor Dimitrov,,,1.0
+112257,2021-10-26T14:45Z,Erste Bank Open,Dusan Lajovic,Frances Tiafoe,,,0.0
+112248,2021-10-26T16:15Z,Erste Bank Open,Filip Krajinovic,Alexander Zverev,,,0.0
+112251,2021-10-26T17:55Z,Erste Bank Open,Dennis Novak,Gianluca Mager,,,1.0
+112252,2021-10-27T11:15Z,Erste Bank Open,Lorenzo Sonego,Dominik Koepfer,,,1.0
+112254,2021-10-27T12:05Z,Erste Bank Open,Reilly Opelka,Jannik Sinner,,,0.0
+112249,2021-10-27T12:55Z,Erste Bank Open,Fabio Fognini,Diego Schwartzman,,,0.0
+112261,2021-10-27T13:30Z,Erste Bank Open,Gael Monfils,Lorenzo Musetti,,,1.0
+112267,2021-10-27T15:35Z,Erste Bank Open,Andy Murray,Carlos Alcaraz,,,0.0
+112272,2021-10-27T18:00Z,Erste Bank Open,Nikoloz Basilashvili,Matteo Berrettini,,,0.0
+112270,2021-10-28T11:05Z,Erste Bank Open,Felix Auger-Aliassime,Cameron Norrie,,,1.0
+112370,2021-10-28T12:05Z,Erste Bank Open,Gael Monfils,Diego Schwartzman,,,0.0
+112264,2021-10-28T14:00Z,Erste Bank Open,Casper Ruud,Lorenzo Sonego,,,1.0
+112265,2021-10-28T15:00Z,Erste Bank Open,Dennis Novak,Jannik Sinner,,,0.0
+112266,2021-10-28T16:35Z,Erste Bank Open,Alex de Minaur,Alexander Zverev,,,0.0
+112262,2021-10-28T18:30Z,Erste Bank Open,Stefanos Tsitsipas,Frances Tiafoe,,,0.0
+112269,2021-10-29T12:05Z,Erste Bank Open,Carlos Alcaraz,Matteo Berrettini,,,1.0
+112273,2021-10-29T15:05Z,Erste Bank Open,Felix Auger-Aliassime,Alexander Zverev,,,0.0
+112271,2021-10-29T17:30Z,Erste Bank Open,Frances Tiafoe,Diego Schwartzman,,,1.0
+112268,2021-10-29T19:45Z,Erste Bank Open,Casper Ruud,Jannik Sinner,,,0.0
+112276,2021-10-30T12:10Z,Erste Bank Open,Carlos Alcaraz,Alexander Zverev,,,0.0
+112274,2021-10-30T13:40Z,Erste Bank Open,Frances Tiafoe,Jannik Sinner,,,1.0
+112275,2021-10-31T13:05Z,Erste Bank Open,Frances Tiafoe,Alexander Zverev,,,0.0
+112279,2021-10-25T12:10Z,St Petersburg Open,Jan-Lennard Struff,James Duckworth,,,1.0
+112293,2021-10-25T14:10Z,St Petersburg Open,Nino Serdarusic,Sebastian Korda,,,0.0
+112280,2021-10-25T16:10Z,St Petersburg Open,Alexander Bublik,Evgenii Tiurnev,,,1.0
+122921,2021-10-26T10:00Z,St Petersburg Open,Pedro Martinez,Tommy Paul,,,0.0
+112299,2021-10-26T10:05Z,St Petersburg Open,Pedro Martinez,Tommy Paul,,,0.0
+112289,2021-10-26T10:05Z,St Petersburg Open,Laslo Djere,Ilya Ivashka,,,0.0
+112282,2021-10-26T11:35Z,St Petersburg Open,Federico Delbonis,Pablo Andujar,,,0.0
+112291,2021-10-26T11:50Z,St Petersburg Open,Botic Van De Zandschulp,Yoshihito Nishioka,,,1.0
+112298,2021-10-26T13:20Z,St Petersburg Open,John Millman,Yshai Oliel,,,1.0
+112295,2021-10-26T13:35Z,St Petersburg Open,Egor Gerasimov,Mackenzie McDonald,,,0.0
+112296,2021-10-26T15:30Z,St Petersburg Open,Taylor Fritz,Emil Ruusuvuori,,,1.0
+122282,2021-10-26T15:35Z,St Petersburg Open,Taylor Fritz,Emil Ruusuvuori,,,1.0
+112300,2021-10-27T10:05Z,St Petersburg Open,Pablo Andujar,Denis Shapovalov,,,0.0
+112294,2021-10-27T12:10Z,St Petersburg Open,Marin Cilic,Albert Ramos-Vinolas,,,1.0
+112297,2021-10-27T13:50Z,St Petersburg Open,Adrian Mannarino,Karen Khachanov,,,0.0
+112284,2021-10-27T15:35Z,St Petersburg Open,Andrey Rublev,Ilya Ivashka,,,1.0
+112302,2021-10-27T17:25Z,St Petersburg Open,Alexander Bublik,Jan-Lennard Struff,,,0.0
+112287,2021-10-28T10:00Z,St Petersburg Open,John Millman,Aslan Karatsev,,,1.0
+112283,2021-10-28T10:00Z,St Petersburg Open,Botic Van De Zandschulp,Sebastian Korda,,,1.0
+112288,2021-10-28T11:35Z,St Petersburg Open,Taylor Fritz,Tommy Paul,,,1.0
+122299,2021-10-28T11:45Z,St Petersburg Open,Taylor Fritz,Tommy Paul,,,1.0
+112285,2021-10-28T13:30Z,St Petersburg Open,Marin Cilic,Karen Khachanov,,,1.0
+112286,2021-10-28T16:20Z,St Petersburg Open,Roberto Bautista Agut,Mackenzie McDonald,,,1.0
+112306,2021-10-29T10:05Z,St Petersburg Open,Taylor Fritz,John Millman,,,1.0
+122293,2021-10-29T10:10Z,St Petersburg Open,Taylor Fritz,John Millman,,,1.0
+112305,2021-10-29T11:35Z,St Petersburg Open,Jan-Lennard Struff,Denis Shapovalov,,,1.0
+112303,2021-10-29T13:10Z,St Petersburg Open,Roberto Bautista Agut,Marin Cilic,,,0.0
+112304,2021-10-29T16:05Z,St Petersburg Open,Andrey Rublev,Botic Van De Zandschulp,,,0.0
+112277,2021-10-30T11:05Z,St Petersburg Open,Taylor Fritz,Jan-Lennard Struff,,,1.0
+122294,2021-10-30T11:10Z,St Petersburg Open,Taylor Fritz,Jan-Lennard Struff,,,1.0
+112278,2021-10-30T13:15Z,St Petersburg Open,Botic Van De Zandschulp,Marin Cilic,,,0.0
+112307,2021-10-31T13:35Z,St Petersburg Open,Marin Cilic,Taylor Fritz,,,1.0
+122912,2021-10-30T14:45Z,Rolex Paris Masters,Pedro Martinez,Andreas Seppi,,,0.0
+112400,2021-11-01T10:05Z,Rolex Paris Masters,Ilya Ivashka,Albert Ramos-Vinolas,,,1.0
+112390,2021-11-01T10:05Z,Rolex Paris Masters,Dusan Lajovic,Mackenzie McDonald,,,1.0
+112374,2021-11-01T10:10Z,Rolex Paris Masters,Marton Fucsovics,Fabio Fognini,,,1.0
+112396,2021-11-01T11:30Z,Rolex Paris Masters,Aslan Karatsev,Sebastian Korda,,,0.0
+112373,2021-11-01T13:10Z,Rolex Paris Masters,Cameron Norrie,Federico Delbonis,,,1.0
+112386,2021-11-01T14:40Z,Rolex Paris Masters,Alexander Bublik,Daniel Evans,,,1.0
+112372,2021-11-01T16:40Z,Rolex Paris Masters,Adrian Mannarino,Nikoloz Basilashvili,,,1.0
+112395,2021-11-01T17:15Z,Rolex Paris Masters,Hugo Gaston,Arthur Rinderknech,,,1.0
+112385,2021-11-01T18:35Z,Rolex Paris Masters,Andy Murray,Dominik Koepfer,,,0.0
+112380,2021-11-01T19:45Z,Rolex Paris Masters,Laslo Djere,Lorenzo Musetti,,,0.0
+112394,2021-11-01T21:50Z,Rolex Paris Masters,Benoit Paire,Pablo Carreno Busta,,,0.0
+112383,2021-11-02T10:00Z,Rolex Paris Masters,Tommy Paul,Jan-Lennard Struff,,,1.0
+112381,2021-11-02T10:05Z,Rolex Paris Masters,Felix Auger-Aliassime,Gianluca Mager,,,1.0
+112378,2021-11-02T10:05Z,Rolex Paris Masters,James Duckworth,Roberto Bautista Agut,,,1.0
+112375,2021-11-02T11:30Z,Rolex Paris Masters,Filip Krajinovic,Reilly Opelka,,,0.0
+112398,2021-11-02T12:20Z,Rolex Paris Masters,Pierre-Hugues Herbert,Carlos Alcaraz,,,0.0
+112391,2021-11-02T13:00Z,Rolex Paris Masters,Karen Khachanov,Mikael Ymer,,,1.0
+112377,2021-11-02T13:05Z,Rolex Paris Masters,Lorenzo Sonego,Taylor Fritz,,,0.0
+112392,2021-11-02T15:10Z,Rolex Paris Masters,John Millman,Diego Schwartzman,,,0.0
+112388,2021-11-02T15:35Z,Rolex Paris Masters,Grigor Dimitrov,Richard Gasquet,,,1.0
+112376,2021-11-02T16:00Z,Rolex Paris Masters,Alexei Popyrin,Alex de Minaur,,,1.0
+112371,2021-11-02T17:40Z,Rolex Paris Masters,Miomir Kecmanovic,Gael Monfils,,,0.0
+112393,2021-11-02T18:25Z,Rolex Paris Masters,Marin Cilic,Alejandro Davidovich Fokina,,,1.0
+112389,2021-11-02T20:10Z,Rolex Paris Masters,Frances Tiafoe,Marcos Giron,,,0.0
+112409,2021-11-02T20:15Z,Rolex Paris Masters,Novak Djokovic,Marton Fucsovics,,,1.0
+112417,2021-11-02T22:35Z,Rolex Paris Masters,Casper Ruud,Alexander Bublik,,,1.0
+112415,2021-11-03T10:00Z,Rolex Paris Masters,Felix Auger-Aliassime,Dominik Koepfer,,,0.0
+112416,2021-11-03T10:00Z,Rolex Paris Masters,Lorenzo Musetti,James Duckworth,,,0.0
+112423,2021-11-03T10:05Z,Rolex Paris Masters,Hugo Gaston,Pablo Carreno Busta,,,1.0
+112414,2021-11-03T12:00Z,Rolex Paris Masters,Taylor Fritz,Andrey Rublev,,,1.0
+122292,2021-11-03T12:05Z,Rolex Paris Masters,Taylor Fritz,Andrey Rublev,,,1.0
+112418,2021-11-03T12:20Z,Rolex Paris Masters,Tommy Paul,Hubert Hurkacz,,,0.0
+112422,2021-11-03T13:00Z,Rolex Paris Masters,Grigor Dimitrov,Karen Khachanov,,,1.0
+112410,2021-11-03T13:40Z,Rolex Paris Masters,Cameron Norrie,Reilly Opelka,,,1.0
+112424,2021-11-03T15:10Z,Rolex Paris Masters,Jannik Sinner,Carlos Alcaraz,,,0.0
+112413,2021-11-03T15:15Z,Rolex Paris Masters,Stefanos Tsitsipas,Alexei Popyrin,,,0.0
+112412,2021-11-03T16:20Z,Rolex Paris Masters,Adrian Mannarino,Gael Monfils,,,0.0
+112419,2021-11-03T17:40Z,Rolex Paris Masters,Marcos Giron,Diego Schwartzman,,,1.0
+112421,2021-11-03T19:15Z,Rolex Paris Masters,Dusan Lajovic,Alexander Zverev,,,0.0
+112426,2021-11-03T20:10Z,Rolex Paris Masters,Sebastian Korda,Marin Cilic,,,1.0
+112425,2021-11-03T21:15Z,Rolex Paris Masters,Ilya Ivashka,Daniil Medvedev,,,0.0
+112429,2021-11-04T10:05Z,Rolex Paris Masters,Dominik Koepfer,Hubert Hurkacz,,,0.0
+112430,2021-11-04T10:05Z,Rolex Paris Masters,Alexei Popyrin,James Duckworth,,,0.0
+112427,2021-11-04T12:35Z,Rolex Paris Masters,Cameron Norrie,Taylor Fritz,,,0.0
+112433,2021-11-04T16:20Z,Rolex Paris Masters,Grigor Dimitrov,Alexander Zverev,,,0.0
+112428,2021-11-04T16:45Z,Rolex Paris Masters,Novak Djokovic,Gael Monfils,,,1.0
+112431,2021-11-04T18:35Z,Rolex Paris Masters,Casper Ruud,Marcos Giron,,,1.0
+112402,2021-11-04T19:35Z,Rolex Paris Masters,Sebastian Korda,Daniil Medvedev,,,0.0
+112432,2021-11-04T21:45Z,Rolex Paris Masters,Carlos Alcaraz,Hugo Gaston,,,0.0
+112404,2021-11-05T13:10Z,Rolex Paris Masters,James Duckworth,Hubert Hurkacz,,,0.0
+112401,2021-11-05T15:40Z,Rolex Paris Masters,Novak Djokovic,Taylor Fritz,,,1.0
+112406,2021-11-05T18:35Z,Rolex Paris Masters,Hugo Gaston,Daniil Medvedev,,,0.0
+112403,2021-11-05T20:45Z,Rolex Paris Masters,Casper Ruud,Alexander Zverev,,,0.0
+112405,2021-11-06T13:05Z,Rolex Paris Masters,Novak Djokovic,Hubert Hurkacz,,,1.0
+112407,2021-11-06T15:45Z,Rolex Paris Masters,Alexander Zverev,Daniil Medvedev,,,0.0
+112408,2021-11-07T14:05Z,Rolex Paris Masters,Novak Djokovic,Daniil Medvedev,,,1.0

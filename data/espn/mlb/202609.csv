@@ -1,0 +1,371 @@
+id,date,event,home,away,hs,as,res
+401816759,2026-09-01T22:40Z,New York Mets at Tampa Bay Rays,Tampa Bay Rays,New York Mets,6,2,1.0
+401816760,2026-09-01T22:40Z,San Diego Padres at Cincinnati Reds,Cincinnati Reds,San Diego Padres,4,3,1.0
+401816762,2026-09-01T22:40Z,San Francisco Giants at Pittsburgh Pirates,Pittsburgh Pirates,San Francisco Giants,13,12,1.0
+401816763,2026-09-01T22:40Z,Toronto Blue Jays at Cleveland Guardians,Cleveland Guardians,Toronto Blue Jays,6,1,1.0
+401816758,2026-09-01T22:45Z,Atlanta Braves at Washington Nationals,Washington Nationals,Atlanta Braves,9,5,1.0
+401816761,2026-09-01T22:45Z,Seattle Mariners at Boston Red Sox,Boston Red Sox,Seattle Mariners,6,9,0.0
+401816766,2026-09-01T23:40Z,Detroit Tigers at Minnesota Twins,Minnesota Twins,Detroit Tigers,15,2,1.0
+401816767,2026-09-01T23:40Z,Miami Marlins at Kansas City Royals,Kansas City Royals,Miami Marlins,3,6,0.0
+401816768,2026-09-01T23:40Z,Milwaukee Brewers at Chicago Cubs,Chicago Cubs,Milwaukee Brewers,4,9,0.0
+401816764,2026-09-02T00:05Z,Athletics Athletics at Texas Rangers,Texas Rangers,Athletics,8,5,1.0
+401816765,2026-09-02T00:10Z,Chicago White Sox at Houston Astros,Houston Astros,Chicago White Sox,1,5,0.0
+401816769,2026-09-02T00:40Z,Baltimore Orioles at Colorado Rockies,Colorado Rockies,Baltimore Orioles,4,2,1.0
+401816770,2026-09-02T01:38Z,New York Yankees at Los Angeles Angels,Los Angeles Angels,New York Yankees,3,7,0.0
+401816771,2026-09-02T01:40Z,Philadelphia Phillies at Arizona Diamondbacks,Arizona Diamondbacks,Philadelphia Phillies,1,7,0.0
+401816772,2026-09-02T02:10Z,St. Louis Cardinals at Los Angeles Dodgers,Los Angeles Dodgers,St. Louis Cardinals,8,13,0.0
+401816775,2026-09-02T16:40Z,San Diego Padres at Cincinnati Reds,Cincinnati Reds,San Diego Padres,7,3,1.0
+401816773,2026-09-02T17:05Z,Atlanta Braves at Washington Nationals,Washington Nationals,Atlanta Braves,0,9,0.0
+401816779,2026-09-02T18:35Z,Athletics Athletics at Texas Rangers,Texas Rangers,Athletics,2,9,0.0
+401816784,2026-09-02T19:10Z,Baltimore Orioles at Colorado Rockies,Colorado Rockies,Baltimore Orioles,6,5,1.0
+401816786,2026-09-02T19:40Z,Philadelphia Phillies at Arizona Diamondbacks,Arizona Diamondbacks,Philadelphia Phillies,1,0,1.0
+401816776,2026-09-02T20:10Z,Seattle Mariners at Boston Red Sox,Boston Red Sox,Seattle Mariners,3,8,0.0
+401816774,2026-09-02T22:40Z,New York Mets at Tampa Bay Rays,Tampa Bay Rays,New York Mets,4,10,0.0
+401816777,2026-09-02T22:40Z,San Francisco Giants at Pittsburgh Pirates,Pittsburgh Pirates,San Francisco Giants,4,5,0.0
+401816778,2026-09-02T22:40Z,Toronto Blue Jays at Cleveland Guardians,Cleveland Guardians,Toronto Blue Jays,0,11,0.0
+401816781,2026-09-02T23:40Z,Detroit Tigers at Minnesota Twins,Minnesota Twins,Detroit Tigers,6,11,0.0
+401816782,2026-09-02T23:40Z,Miami Marlins at Kansas City Royals,Kansas City Royals,Miami Marlins,6,9,0.0
+401816783,2026-09-02T23:40Z,Milwaukee Brewers at Chicago Cubs,Chicago Cubs,Milwaukee Brewers,5,9,0.0
+401816780,2026-09-03T00:10Z,Chicago White Sox at Houston Astros,Houston Astros,Chicago White Sox,2,0,1.0
+401816785,2026-09-03T01:38Z,New York Yankees at Los Angeles Angels,Los Angeles Angels,New York Yankees,3,6,0.0
+401816787,2026-09-03T02:10Z,St. Louis Cardinals at Los Angeles Dodgers,Los Angeles Dodgers,St. Louis Cardinals,6,8,0.0
+401816789,2026-09-03T16:35Z,San Francisco Giants at Pittsburgh Pirates,Pittsburgh Pirates,San Francisco Giants,5,2,1.0
+401816790,2026-09-03T17:10Z,Toronto Blue Jays at Cleveland Guardians,Cleveland Guardians,Toronto Blue Jays,3,6,0.0
+401816791,2026-09-03T18:10Z,Chicago White Sox at Houston Astros,Houston Astros,Chicago White Sox,6,2,1.0
+401816788,2026-09-03T23:15Z,Boston Red Sox at Baltimore Orioles,Baltimore Orioles,Boston Red Sox,5,6,0.0
+401816793,2026-09-03T23:15Z,Milwaukee Brewers at Chicago Cubs,Chicago Cubs,Milwaukee Brewers,2,1,1.0
+401816792,2026-09-03T23:40Z,Miami Marlins at Kansas City Royals,Kansas City Royals,Miami Marlins,7,3,1.0
+401816794,2026-09-04T00:05Z,Tampa Bay Rays at Texas Rangers,Texas Rangers,Tampa Bay Rays,6,0,1.0
+401816795,2026-09-04T01:40Z,Athletics Athletics at Seattle Mariners,Seattle Mariners,Athletics,4,7,0.0
+401816796,2026-09-04T02:10Z,St. Louis Cardinals at Los Angeles Dodgers,Los Angeles Dodgers,St. Louis Cardinals,3,2,1.0
+401877193,2026-09-04T18:10Z,Detroit Tigers at Cleveland Guardians,Cleveland Guardians,Detroit Tigers,7,6,1.0
+401816802,2026-09-04T22:10Z,Milwaukee Brewers at Cincinnati Reds,Cincinnati Reds,Milwaukee Brewers,7,10,0.0
+401816797,2026-09-04T22:40Z,Los Angeles Angels at Pittsburgh Pirates,Pittsburgh Pirates,Los Angeles Angels,1,0,1.0
+401816798,2026-09-04T22:40Z,Atlanta Braves at Philadelphia Phillies,Philadelphia Phillies,Atlanta Braves,2,5,0.0
+401816799,2026-09-04T23:05Z,Boston Red Sox at Baltimore Orioles,Baltimore Orioles,Boston Red Sox,0,1,0.0
+401816800,2026-09-04T23:10Z,Chicago Cubs at Miami Marlins,Miami Marlins,Chicago Cubs,1,6,0.0
+401816803,2026-09-04T23:10Z,San Francisco Giants at New York Mets,New York Mets,San Francisco Giants,10,6,1.0
+401816805,2026-09-04T23:40Z,Minnesota Twins at Chicago White Sox,Chicago White Sox,Minnesota Twins,4,1,1.0
+401816801,2026-09-04T23:45Z,Detroit Tigers at Cleveland Guardians,Cleveland Guardians,Detroit Tigers,4,3,1.0
+401816806,2026-09-05T00:05Z,Tampa Bay Rays at Texas Rangers,Texas Rangers,Tampa Bay Rays,6,7,0.0
+401816804,2026-09-05T00:10Z,Arizona Diamondbacks at Houston Astros,Houston Astros,Arizona Diamondbacks,3,1,1.0
+401816807,2026-09-05T00:10Z,Toronto Blue Jays at Kansas City Royals,Kansas City Royals,Toronto Blue Jays,2,9,0.0
+401816808,2026-09-05T00:40Z,St. Louis Cardinals at Colorado Rockies,Colorado Rockies,St. Louis Cardinals,6,7,0.0
+401816810,2026-09-05T01:40Z,New York Yankees at San Diego Padres,San Diego Padres,New York Yankees,3,2,1.0
+401816809,2026-09-05T02:10Z,Athletics Athletics at Seattle Mariners,Seattle Mariners,Athletics,6,7,0.0
+401816811,2026-09-05T02:10Z,Washington Nationals at Los Angeles Dodgers,Los Angeles Dodgers,Washington Nationals,5,3,1.0
+401816815,2026-09-05T20:10Z,Chicago Cubs at Miami Marlins,Miami Marlins,Chicago Cubs,5,6,0.0
+401816818,2026-09-05T20:10Z,San Francisco Giants at New York Mets,New York Mets,San Francisco Giants,5,9,0.0
+401816813,2026-09-05T22:05Z,Atlanta Braves at Philadelphia Phillies,Philadelphia Phillies,Atlanta Braves,4,2,1.0
+401816816,2026-09-05T22:10Z,Detroit Tigers at Cleveland Guardians,Cleveland Guardians,Detroit Tigers,0,6,0.0
+401816812,2026-09-05T22:40Z,Los Angeles Angels at Pittsburgh Pirates,Pittsburgh Pirates,Los Angeles Angels,1,6,0.0
+401816817,2026-09-05T22:40Z,Milwaukee Brewers at Cincinnati Reds,Cincinnati Reds,Milwaukee Brewers,5,3,1.0
+401816814,2026-09-05T23:05Z,Boston Red Sox at Baltimore Orioles,Baltimore Orioles,Boston Red Sox,0,5,0.0
+401816821,2026-09-05T23:05Z,Tampa Bay Rays at Texas Rangers,Texas Rangers,Tampa Bay Rays,3,6,0.0
+401816820,2026-09-05T23:10Z,Minnesota Twins at Chicago White Sox,Chicago White Sox,Minnesota Twins,4,6,0.0
+401816822,2026-09-05T23:10Z,Toronto Blue Jays at Kansas City Royals,Kansas City Royals,Toronto Blue Jays,3,4,0.0
+401816819,2026-09-05T23:15Z,Arizona Diamondbacks at Houston Astros,Houston Astros,Arizona Diamondbacks,3,4,0.0
+401816825,2026-09-05T23:15Z,New York Yankees at San Diego Padres,San Diego Padres,New York Yankees,1,5,0.0
+401816823,2026-09-06T00:10Z,St. Louis Cardinals at Colorado Rockies,Colorado Rockies,St. Louis Cardinals,10,7,1.0
+401816826,2026-09-06T01:10Z,Washington Nationals at Los Angeles Dodgers,Los Angeles Dodgers,Washington Nationals,6,5,1.0
+401816824,2026-09-06T01:40Z,Athletics Athletics at Seattle Mariners,Seattle Mariners,Athletics,2,6,0.0
+401816832,2026-09-06T16:10Z,Milwaukee Brewers at Cincinnati Reds,Cincinnati Reds,Milwaukee Brewers,12,8,1.0
+401816828,2026-09-06T17:10Z,Atlanta Braves at Philadelphia Phillies,Philadelphia Phillies,Atlanta Braves,4,5,0.0
+401816827,2026-09-06T17:35Z,Los Angeles Angels at Pittsburgh Pirates,Pittsburgh Pirates,Los Angeles Angels,1,0,1.0
+401816829,2026-09-06T17:35Z,Boston Red Sox at Baltimore Orioles,Baltimore Orioles,Boston Red Sox,1,3,0.0
+401816830,2026-09-06T17:40Z,Chicago Cubs at Miami Marlins,Miami Marlins,Chicago Cubs,10,3,1.0
+401816831,2026-09-06T17:40Z,Detroit Tigers at Cleveland Guardians,Cleveland Guardians,Detroit Tigers,3,2,1.0
+401816833,2026-09-06T17:40Z,San Francisco Giants at New York Mets,New York Mets,San Francisco Giants,4,2,1.0
+401816834,2026-09-06T18:10Z,Arizona Diamondbacks at Houston Astros,Houston Astros,Arizona Diamondbacks,2,3,0.0
+401816837,2026-09-06T18:10Z,Toronto Blue Jays at Kansas City Royals,Kansas City Royals,Toronto Blue Jays,6,1,1.0
+401816836,2026-09-06T18:35Z,Tampa Bay Rays at Texas Rangers,Texas Rangers,Tampa Bay Rays,8,6,1.0
+401816838,2026-09-06T19:10Z,St. Louis Cardinals at Colorado Rockies,Colorado Rockies,St. Louis Cardinals,8,10,0.0
+401816839,2026-09-06T20:10Z,Athletics Athletics at Seattle Mariners,Seattle Mariners,Athletics,2,0,1.0
+401816840,2026-09-06T20:10Z,New York Yankees at San Diego Padres,San Diego Padres,New York Yankees,4,3,1.0
+401816835,2026-09-06T22:20Z,Minnesota Twins at Chicago White Sox,Chicago White Sox,Minnesota Twins,10,1,1.0
+401816841,2026-09-07T02:10Z,Washington Nationals at Los Angeles Dodgers,Los Angeles Dodgers,Washington Nationals,7,5,1.0
+401816843,2026-09-07T17:05Z,Atlanta Braves at Philadelphia Phillies,Philadelphia Phillies,Atlanta Braves,1,0,1.0
+401816846,2026-09-07T17:10Z,New York Mets at Miami Marlins,Miami Marlins,New York Mets,4,9,0.0
+401816842,2026-09-07T17:35Z,Los Angeles Angels at Boston Red Sox,Boston Red Sox,Los Angeles Angels,5,2,1.0
+401816844,2026-09-07T17:35Z,Cleveland Guardians at Baltimore Orioles,Baltimore Orioles,Cleveland Guardians,6,4,1.0
+401816847,2026-09-07T18:10Z,Arizona Diamondbacks at Kansas City Royals,Kansas City Royals,Arizona Diamondbacks,4,5,0.0
+401816848,2026-09-07T18:10Z,Chicago Cubs at Milwaukee Brewers,Milwaukee Brewers,Chicago Cubs,4,3,1.0
+401816845,2026-09-07T19:10Z,Minnesota Twins at Detroit Tigers,Detroit Tigers,Minnesota Twins,5,4,1.0
+401816852,2026-09-07T21:10Z,Washington Nationals at San Diego Padres,San Diego Padres,Washington Nationals,3,2,1.0
+401816850,2026-09-08T00:10Z,St. Louis Cardinals at San Francisco Giants,San Francisco Giants,St. Louis Cardinals,5,4,1.0
+401816849,2026-09-08T01:10Z,Cincinnati Reds at Los Angeles Dodgers,Los Angeles Dodgers,Cincinnati Reds,6,3,1.0
+401816851,2026-09-08T02:05Z,Toronto Blue Jays at Athletics Athletics,Athletics,Toronto Blue Jays,6,5,1.0
+401816854,2026-09-08T22:35Z,Cleveland Guardians at Baltimore Orioles,Baltimore Orioles,Cleveland Guardians,5,9,0.0
+401816856,2026-09-08T22:40Z,Houston Astros at Philadelphia Phillies,Philadelphia Phillies,Houston Astros,5,6,0.0
+401816857,2026-09-08T22:40Z,Minnesota Twins at Detroit Tigers,Detroit Tigers,Minnesota Twins,2,3,0.0
+401816858,2026-09-08T22:40Z,New York Mets at Miami Marlins,Miami Marlins,New York Mets,5,7,0.0
+401816853,2026-09-08T22:45Z,Los Angeles Angels at Boston Red Sox,Boston Red Sox,Los Angeles Angels,1,6,0.0
+401816855,2026-09-08T23:05Z,Colorado Rockies at New York Yankees,New York Yankees,Colorado Rockies,5,3,1.0
+401816859,2026-09-08T23:15Z,Tampa Bay Rays at Atlanta Braves,Atlanta Braves,Tampa Bay Rays,1,7,0.0
+401816860,2026-09-08T23:40Z,Arizona Diamondbacks at Kansas City Royals,Kansas City Royals,Arizona Diamondbacks,3,5,0.0
+401816861,2026-09-08T23:40Z,Chicago Cubs at Milwaukee Brewers,Milwaukee Brewers,Chicago Cubs,4,3,1.0
+401816862,2026-09-08T23:40Z,Pittsburgh Pirates at Chicago White Sox,Chicago White Sox,Pittsburgh Pirates,3,9,0.0
+401816865,2026-09-09T01:40Z,Texas Rangers at Seattle Mariners,Seattle Mariners,Texas Rangers,5,10,0.0
+401816866,2026-09-09T01:40Z,Toronto Blue Jays at Athletics Athletics,Athletics,Toronto Blue Jays,2,4,0.0
+401816867,2026-09-09T01:40Z,Washington Nationals at San Diego Padres,San Diego Padres,Washington Nationals,5,4,1.0
+401816864,2026-09-09T01:45Z,St. Louis Cardinals at San Francisco Giants,San Francisco Giants,St. Louis Cardinals,2,1,1.0
+401816863,2026-09-09T02:10Z,Cincinnati Reds at Los Angeles Dodgers,Los Angeles Dodgers,Cincinnati Reds,3,2,1.0
+401816872,2026-09-09T17:10Z,Minnesota Twins at Detroit Tigers,Detroit Tigers,Minnesota Twins,7,2,1.0
+401816881,2026-09-09T19:05Z,Toronto Blue Jays at Athletics Athletics,Athletics,Toronto Blue Jays,2,0,1.0
+401816879,2026-09-09T19:45Z,St. Louis Cardinals at San Francisco Giants,San Francisco Giants,St. Louis Cardinals,7,6,1.0
+401816880,2026-09-09T20:10Z,Texas Rangers at Seattle Mariners,Seattle Mariners,Texas Rangers,3,2,1.0
+401816882,2026-09-09T20:10Z,Washington Nationals at San Diego Padres,San Diego Padres,Washington Nationals,9,2,1.0
+401816869,2026-09-09T22:35Z,Cleveland Guardians at Baltimore Orioles,Baltimore Orioles,Cleveland Guardians,9,5,1.0
+401816871,2026-09-09T22:40Z,Houston Astros at Philadelphia Phillies,Philadelphia Phillies,Houston Astros,11,7,1.0
+401816873,2026-09-09T22:40Z,New York Mets at Miami Marlins,Miami Marlins,New York Mets,14,15,0.0
+401816868,2026-09-09T22:45Z,Los Angeles Angels at Boston Red Sox,Boston Red Sox,Los Angeles Angels,4,6,0.0
+401816870,2026-09-09T23:05Z,Colorado Rockies at New York Yankees,New York Yankees,Colorado Rockies,6,1,1.0
+401816874,2026-09-09T23:15Z,Tampa Bay Rays at Atlanta Braves,Atlanta Braves,Tampa Bay Rays,2,7,0.0
+401816875,2026-09-09T23:40Z,Arizona Diamondbacks at Kansas City Royals,Kansas City Royals,Arizona Diamondbacks,5,2,1.0
+401816876,2026-09-09T23:40Z,Chicago Cubs at Milwaukee Brewers,Milwaukee Brewers,Chicago Cubs,8,6,1.0
+401816877,2026-09-09T23:40Z,Pittsburgh Pirates at Chicago White Sox,Chicago White Sox,Pittsburgh Pirates,2,4,0.0
+401816878,2026-09-10T02:10Z,Cincinnati Reds at Los Angeles Dodgers,Los Angeles Dodgers,Cincinnati Reds,14,1,1.0
+401816885,2026-09-10T16:15Z,Tampa Bay Rays at Atlanta Braves,Atlanta Braves,Tampa Bay Rays,3,1,1.0
+401816884,2026-09-10T17:05Z,Houston Astros at Philadelphia Phillies,Philadelphia Phillies,Houston Astros,1,2,0.0
+401816887,2026-09-10T20:10Z,Texas Rangers at Seattle Mariners,Seattle Mariners,Texas Rangers,4,3,1.0
+401816883,2026-09-10T23:05Z,Colorado Rockies at New York Yankees,New York Yankees,Colorado Rockies,10,3,1.0
+401816886,2026-09-10T23:40Z,Pittsburgh Pirates at Chicago White Sox,Chicago White Sox,Pittsburgh Pirates,0,2,0.0
+401816899,2026-09-11T18:20Z,Pittsburgh Pirates at Chicago Cubs,Chicago Cubs,Pittsburgh Pirates,12,2,1.0
+401816890,2026-09-11T22:40Z,Colorado Rockies at Detroit Tigers,Detroit Tigers,Colorado Rockies,6,2,1.0
+401816888,2026-09-11T22:45Z,Los Angeles Angels at Washington Nationals,Washington Nationals,Los Angeles Angels,4,3,1.0
+401816894,2026-09-11T23:05Z,New York Mets at New York Yankees,New York Yankees,New York Mets,6,4,1.0
+401816889,2026-09-11T23:07Z,Baltimore Orioles at Toronto Blue Jays,Toronto Blue Jays,Baltimore Orioles,4,7,0.0
+401816891,2026-09-11T23:10Z,Houston Astros at Tampa Bay Rays,Tampa Bay Rays,Houston Astros,3,1,1.0
+401816892,2026-09-11T23:10Z,Kansas City Royals at Boston Red Sox,Boston Red Sox,Kansas City Royals,2,3,0.0
+401816893,2026-09-11T23:10Z,Los Angeles Dodgers at Miami Marlins,Miami Marlins,Los Angeles Dodgers,2,6,0.0
+401816895,2026-09-11T23:15Z,Philadelphia Phillies at Atlanta Braves,Atlanta Braves,Philadelphia Phillies,6,5,1.0
+401816897,2026-09-11T23:40Z,Cincinnati Reds at Milwaukee Brewers,Milwaukee Brewers,Cincinnati Reds,20,0,1.0
+401816898,2026-09-12T00:10Z,Cleveland Guardians at Minnesota Twins,Minnesota Twins,Cleveland Guardians,2,5,0.0
+401816896,2026-09-12T00:15Z,Chicago White Sox at St. Louis Cardinals,St. Louis Cardinals,Chicago White Sox,7,3,1.0
+401816901,2026-09-12T01:40Z,Seattle Mariners at Athletics Athletics,Athletics,Seattle Mariners,6,5,1.0
+401816902,2026-09-12T01:40Z,Texas Rangers at Arizona Diamondbacks,Arizona Diamondbacks,Texas Rangers,9,1,1.0
+401816900,2026-09-12T02:15Z,San Diego Padres at San Francisco Giants,San Francisco Giants,San Diego Padres,5,7,0.0
+401816905,2026-09-12T17:10Z,Colorado Rockies at Detroit Tigers,Detroit Tigers,Colorado Rockies,11,7,1.0
+401816909,2026-09-12T17:35Z,New York Mets at New York Yankees,New York Yankees,New York Mets,2,12,0.0
+401816914,2026-09-12T18:20Z,Pittsburgh Pirates at Chicago Cubs,Chicago Cubs,Pittsburgh Pirates,4,3,1.0
+401816904,2026-09-12T19:07Z,Baltimore Orioles at Toronto Blue Jays,Toronto Blue Jays,Baltimore Orioles,7,3,1.0
+401816903,2026-09-12T20:05Z,Los Angeles Angels at Washington Nationals,Washington Nationals,Los Angeles Angels,6,5,1.0
+401816915,2026-09-12T20:05Z,San Diego Padres at San Francisco Giants,San Francisco Giants,San Diego Padres,6,7,0.0
+401816907,2026-09-12T20:10Z,Kansas City Royals at Boston Red Sox,Boston Red Sox,Kansas City Royals,5,1,1.0
+401816908,2026-09-12T20:10Z,Los Angeles Dodgers at Miami Marlins,Miami Marlins,Los Angeles Dodgers,4,3,1.0
+401816913,2026-09-12T20:10Z,Cleveland Guardians at Minnesota Twins,Minnesota Twins,Cleveland Guardians,4,3,1.0
+401816906,2026-09-12T22:10Z,Houston Astros at Tampa Bay Rays,Tampa Bay Rays,Houston Astros,3,2,1.0
+401816912,2026-09-12T23:10Z,Cincinnati Reds at Milwaukee Brewers,Milwaukee Brewers,Cincinnati Reds,13,9,1.0
+401816910,2026-09-12T23:15Z,Philadelphia Phillies at Atlanta Braves,Atlanta Braves,Philadelphia Phillies,12,2,1.0
+401816911,2026-09-12T23:15Z,Chicago White Sox at St. Louis Cardinals,St. Louis Cardinals,Chicago White Sox,5,6,0.0
+401816917,2026-09-13T00:10Z,Texas Rangers at Arizona Diamondbacks,Arizona Diamondbacks,Texas Rangers,2,6,0.0
+401816916,2026-09-13T01:40Z,Seattle Mariners at Athletics Athletics,Athletics,Seattle Mariners,1,19,0.0
+401816920,2026-09-13T16:10Z,Colorado Rockies at Detroit Tigers,Detroit Tigers,Colorado Rockies,8,1,1.0
+401816918,2026-09-13T17:35Z,Los Angeles Angels at Washington Nationals,Washington Nationals,Los Angeles Angels,6,5,1.0
+401816924,2026-09-13T17:35Z,New York Mets at New York Yankees,New York Yankees,New York Mets,2,0,1.0
+401816925,2026-09-13T17:35Z,Philadelphia Phillies at Atlanta Braves,Atlanta Braves,Philadelphia Phillies,4,9,0.0
+401816919,2026-09-13T17:37Z,Baltimore Orioles at Toronto Blue Jays,Toronto Blue Jays,Baltimore Orioles,8,1,1.0
+401816921,2026-09-13T17:40Z,Houston Astros at Tampa Bay Rays,Tampa Bay Rays,Houston Astros,14,4,1.0
+401816923,2026-09-13T17:40Z,Los Angeles Dodgers at Miami Marlins,Miami Marlins,Los Angeles Dodgers,6,4,1.0
+401816927,2026-09-13T18:10Z,Cincinnati Reds at Milwaukee Brewers,Milwaukee Brewers,Cincinnati Reds,3,4,0.0
+401816928,2026-09-13T18:10Z,Cleveland Guardians at Minnesota Twins,Minnesota Twins,Cleveland Guardians,2,9,0.0
+401816926,2026-09-13T18:15Z,Chicago White Sox at St. Louis Cardinals,St. Louis Cardinals,Chicago White Sox,3,1,1.0
+401816929,2026-09-13T18:20Z,Pittsburgh Pirates at Chicago Cubs,Chicago Cubs,Pittsburgh Pirates,3,4,0.0
+401816922,2026-09-13T19:05Z,Kansas City Royals at Boston Red Sox,Boston Red Sox,Kansas City Royals,4,1,1.0
+401816931,2026-09-13T20:05Z,Seattle Mariners at Athletics Athletics,Athletics,Seattle Mariners,8,7,1.0
+401816932,2026-09-13T20:10Z,Texas Rangers at Arizona Diamondbacks,Arizona Diamondbacks,Texas Rangers,6,7,0.0
+401816930,2026-09-13T23:20Z,San Diego Padres at San Francisco Giants,San Francisco Giants,San Diego Padres,4,6,0.0
+401816934,2026-09-14T22:40Z,Chicago White Sox at Cleveland Guardians,Cleveland Guardians,Chicago White Sox,3,7,0.0
+401816936,2026-09-14T22:40Z,Los Angeles Dodgers at Cincinnati Reds,Cincinnati Reds,Los Angeles Dodgers,1,4,0.0
+401816935,2026-09-14T23:07Z,Detroit Tigers at Toronto Blue Jays,Toronto Blue Jays,Detroit Tigers,5,6,0.0
+401816933,2026-09-14T23:10Z,Baltimore Orioles at New York Mets,New York Mets,Baltimore Orioles,1,2,0.0
+401816937,2026-09-14T23:40Z,Atlanta Braves at Chicago Cubs,Chicago Cubs,Atlanta Braves,7,3,1.0
+401816938,2026-09-14T23:40Z,New York Yankees at Minnesota Twins,Minnesota Twins,New York Yankees,3,8,0.0
+401816939,2026-09-14T23:45Z,San Francisco Giants at St. Louis Cardinals,St. Louis Cardinals,San Francisco Giants,2,1,1.0
+401816940,2026-09-15T00:40Z,San Diego Padres at Colorado Rockies,Colorado Rockies,San Diego Padres,7,8,0.0
+401816942,2026-09-15T01:38Z,Seattle Mariners at Los Angeles Angels,Los Angeles Angels,Seattle Mariners,6,4,1.0
+401816941,2026-09-15T01:40Z,Miami Marlins at Arizona Diamondbacks,Arizona Diamondbacks,Miami Marlins,8,7,1.0
+401816943,2026-09-15T22:40Z,Athletics Athletics at Tampa Bay Rays,Tampa Bay Rays,Athletics,2,1,1.0
+401816945,2026-09-15T22:40Z,Chicago White Sox at Cleveland Guardians,Cleveland Guardians,Chicago White Sox,7,6,1.0
+401816947,2026-09-15T22:40Z,Los Angeles Dodgers at Cincinnati Reds,Cincinnati Reds,Los Angeles Dodgers,0,4,0.0
+401816948,2026-09-15T22:40Z,Milwaukee Brewers at Pittsburgh Pirates,Pittsburgh Pirates,Milwaukee Brewers,1,5,0.0
+401816949,2026-09-15T22:45Z,Philadelphia Phillies at Washington Nationals,Washington Nationals,Philadelphia Phillies,6,3,1.0
+401816946,2026-09-15T23:07Z,Detroit Tigers at Toronto Blue Jays,Toronto Blue Jays,Detroit Tigers,1,10,0.0
+401816944,2026-09-15T23:10Z,Baltimore Orioles at New York Mets,New York Mets,Baltimore Orioles,5,7,0.0
+401816950,2026-09-15T23:40Z,Atlanta Braves at Chicago Cubs,Chicago Cubs,Atlanta Braves,3,6,0.0
+401816953,2026-09-15T23:40Z,New York Yankees at Minnesota Twins,Minnesota Twins,New York Yankees,1,8,0.0
+401816954,2026-09-15T23:45Z,San Francisco Giants at St. Louis Cardinals,St. Louis Cardinals,San Francisco Giants,3,10,0.0
+401816951,2026-09-16T00:05Z,Boston Red Sox at Texas Rangers,Texas Rangers,Boston Red Sox,4,2,1.0
+401816952,2026-09-16T00:10Z,Kansas City Royals at Houston Astros,Houston Astros,Kansas City Royals,4,2,1.0
+401816955,2026-09-16T00:40Z,San Diego Padres at Colorado Rockies,Colorado Rockies,San Diego Padres,9,3,1.0
+401816957,2026-09-16T01:38Z,Seattle Mariners at Los Angeles Angels,Los Angeles Angels,Seattle Mariners,2,1,1.0
+401816956,2026-09-16T01:40Z,Miami Marlins at Arizona Diamondbacks,Arizona Diamondbacks,Miami Marlins,2,4,0.0
+401816960,2026-09-16T17:00Z,Chicago White Sox at Cleveland Guardians,Cleveland Guardians,Chicago White Sox,6,3,1.0
+401816969,2026-09-16T17:15Z,San Francisco Giants at St. Louis Cardinals,St. Louis Cardinals,San Francisco Giants,5,6,0.0
+401816968,2026-09-16T17:40Z,New York Yankees at Minnesota Twins,Minnesota Twins,New York Yankees,5,4,1.0
+401816961,2026-09-16T19:07Z,Detroit Tigers at Toronto Blue Jays,Toronto Blue Jays,Detroit Tigers,5,1,1.0
+401816958,2026-09-16T22:40Z,Athletics Athletics at Tampa Bay Rays,Tampa Bay Rays,Athletics,4,3,1.0
+401816962,2026-09-16T22:40Z,Los Angeles Dodgers at Cincinnati Reds,Cincinnati Reds,Los Angeles Dodgers,6,2,1.0
+401816963,2026-09-16T22:40Z,Milwaukee Brewers at Pittsburgh Pirates,Pittsburgh Pirates,Milwaukee Brewers,4,5,0.0
+401816964,2026-09-16T22:45Z,Philadelphia Phillies at Washington Nationals,Washington Nationals,Philadelphia Phillies,0,3,0.0
+401816959,2026-09-16T23:00Z,Baltimore Orioles at New York Mets,New York Mets,Baltimore Orioles,1,7,0.0
+401816965,2026-09-16T23:40Z,Atlanta Braves at Chicago Cubs,Chicago Cubs,Atlanta Braves,8,4,1.0
+401816966,2026-09-17T00:05Z,Boston Red Sox at Texas Rangers,Texas Rangers,Boston Red Sox,7,3,1.0
+401816967,2026-09-17T00:10Z,Kansas City Royals at Houston Astros,Houston Astros,Kansas City Royals,2,5,0.0
+401816970,2026-09-17T00:40Z,San Diego Padres at Colorado Rockies,Colorado Rockies,San Diego Padres,3,9,0.0
+401816972,2026-09-17T01:38Z,Seattle Mariners at Los Angeles Angels,Los Angeles Angels,Seattle Mariners,2,7,0.0
+401816971,2026-09-17T01:40Z,Miami Marlins at Arizona Diamondbacks,Arizona Diamondbacks,Miami Marlins,3,4,0.0
+401816975,2026-09-17T16:35Z,Milwaukee Brewers at Pittsburgh Pirates,Pittsburgh Pirates,Milwaukee Brewers,7,4,1.0
+401816974,2026-09-17T16:40Z,Los Angeles Dodgers at Cincinnati Reds,Cincinnati Reds,Los Angeles Dodgers,2,8,0.0
+401816973,2026-09-17T17:10Z,Athletics Athletics at Tampa Bay Rays,Tampa Bay Rays,Athletics,10,1,1.0
+401816980,2026-09-17T19:10Z,San Diego Padres at Colorado Rockies,Colorado Rockies,San Diego Padres,2,9,0.0
+401816976,2026-09-17T23:15Z,Philadelphia Phillies at New York Mets,New York Mets,Philadelphia Phillies,0,3,0.0
+401816979,2026-09-17T23:15Z,Kansas City Royals at Houston Astros,Houston Astros,Kansas City Royals,6,2,1.0
+401816978,2026-09-17T23:40Z,Detroit Tigers at Chicago White Sox,Chicago White Sox,Detroit Tigers,3,1,1.0
+401816977,2026-09-18T00:05Z,Boston Red Sox at Texas Rangers,Texas Rangers,Boston Red Sox,3,4,0.0
+401816981,2026-09-18T01:38Z,Minnesota Twins at Los Angeles Angels,Los Angeles Angels,Minnesota Twins,5,4,1.0
+401816984,2026-09-18T22:40Z,Chicago Cubs at Cincinnati Reds,Cincinnati Reds,Chicago Cubs,6,4,1.0
+401816985,2026-09-18T22:40Z,Kansas City Royals at Pittsburgh Pirates,Pittsburgh Pirates,Kansas City Royals,8,5,1.0
+401816986,2026-09-18T23:05Z,Milwaukee Brewers at Baltimore Orioles,Baltimore Orioles,Milwaukee Brewers,5,6,0.0
+401816982,2026-09-18T23:10Z,Athletics Athletics at Cleveland Guardians,Cleveland Guardians,Athletics,5,3,1.0
+401816983,2026-09-18T23:10Z,Boston Red Sox at Tampa Bay Rays,Tampa Bay Rays,Boston Red Sox,2,4,0.0
+401816987,2026-09-18T23:10Z,Philadelphia Phillies at New York Mets,New York Mets,Philadelphia Phillies,6,3,1.0
+401816989,2026-09-18T23:40Z,Detroit Tigers at Chicago White Sox,Chicago White Sox,Detroit Tigers,8,11,0.0
+401816990,2026-09-19T00:05Z,Toronto Blue Jays at Texas Rangers,Texas Rangers,Toronto Blue Jays,7,1,1.0
+401816988,2026-09-19T00:10Z,Atlanta Braves at Houston Astros,Houston Astros,Atlanta Braves,2,6,0.0
+401816992,2026-09-19T00:10Z,Seattle Mariners at Colorado Rockies,Colorado Rockies,Seattle Mariners,4,5,0.0
+401816991,2026-09-19T00:15Z,Washington Nationals at St. Louis Cardinals,St. Louis Cardinals,Washington Nationals,1,9,0.0
+401816994,2026-09-19T01:38Z,Minnesota Twins at Los Angeles Angels,Los Angeles Angels,Minnesota Twins,0,3,0.0
+401816993,2026-09-19T01:40Z,Miami Marlins at San Diego Padres,San Diego Padres,Miami Marlins,8,2,1.0
+401816995,2026-09-19T01:40Z,New York Yankees at Arizona Diamondbacks,Arizona Diamondbacks,New York Yankees,2,9,0.0
+401816996,2026-09-19T02:15Z,San Francisco Giants at Los Angeles Dodgers,Los Angeles Dodgers,San Francisco Giants,8,2,1.0
+401817004,2026-09-19T18:10Z,Detroit Tigers at Chicago White Sox,Chicago White Sox,Detroit Tigers,3,1,1.0
+401817001,2026-09-19T20:05Z,Milwaukee Brewers at Baltimore Orioles,Baltimore Orioles,Milwaukee Brewers,0,1,0.0
+401816998,2026-09-19T20:10Z,Boston Red Sox at Tampa Bay Rays,Tampa Bay Rays,Boston Red Sox,2,1,1.0
+401817002,2026-09-19T20:10Z,Philadelphia Phillies at New York Mets,New York Mets,Philadelphia Phillies,10,3,1.0
+401816997,2026-09-19T22:10Z,Athletics Athletics at Cleveland Guardians,Cleveland Guardians,Athletics,12,6,1.0
+401816999,2026-09-19T22:40Z,Chicago Cubs at Cincinnati Reds,Cincinnati Reds,Chicago Cubs,2,5,0.0
+401817000,2026-09-19T22:40Z,Kansas City Royals at Pittsburgh Pirates,Pittsburgh Pirates,Kansas City Royals,6,5,1.0
+401817005,2026-09-19T23:05Z,Toronto Blue Jays at Texas Rangers,Texas Rangers,Toronto Blue Jays,6,2,1.0
+401817003,2026-09-19T23:10Z,Atlanta Braves at Houston Astros,Houston Astros,Atlanta Braves,3,6,0.0
+401817006,2026-09-19T23:15Z,Washington Nationals at St. Louis Cardinals,St. Louis Cardinals,Washington Nationals,5,8,0.0
+401817007,2026-09-20T00:10Z,Seattle Mariners at Colorado Rockies,Colorado Rockies,Seattle Mariners,5,3,1.0
+401817010,2026-09-20T00:10Z,New York Yankees at Arizona Diamondbacks,Arizona Diamondbacks,New York Yankees,5,3,1.0
+401817008,2026-09-20T00:40Z,Miami Marlins at San Diego Padres,San Diego Padres,Miami Marlins,7,6,1.0
+401817011,2026-09-20T01:10Z,San Francisco Giants at Los Angeles Dodgers,Los Angeles Dodgers,San Francisco Giants,10,4,1.0
+401817009,2026-09-20T01:38Z,Minnesota Twins at Los Angeles Angels,Los Angeles Angels,Minnesota Twins,6,5,1.0
+401817017,2026-09-20T17:10Z,Philadelphia Phillies at New York Mets,New York Mets,Philadelphia Phillies,2,7,0.0
+401817015,2026-09-20T17:35Z,Kansas City Royals at Pittsburgh Pirates,Pittsburgh Pirates,Kansas City Royals,4,3,1.0
+401817012,2026-09-20T17:40Z,Athletics Athletics at Cleveland Guardians,Cleveland Guardians,Athletics,1,0,1.0
+401817013,2026-09-20T17:40Z,Boston Red Sox at Tampa Bay Rays,Tampa Bay Rays,Boston Red Sox,5,1,1.0
+401817014,2026-09-20T17:40Z,Chicago Cubs at Cincinnati Reds,Cincinnati Reds,Chicago Cubs,1,9,0.0
+401817018,2026-09-20T18:10Z,Atlanta Braves at Houston Astros,Houston Astros,Atlanta Braves,2,4,0.0
+401817019,2026-09-20T18:10Z,Detroit Tigers at Chicago White Sox,Chicago White Sox,Detroit Tigers,8,1,1.0
+401817021,2026-09-20T18:15Z,Washington Nationals at St. Louis Cardinals,St. Louis Cardinals,Washington Nationals,5,3,1.0
+401817020,2026-09-20T18:35Z,Toronto Blue Jays at Texas Rangers,Texas Rangers,Toronto Blue Jays,2,7,0.0
+401817022,2026-09-20T19:10Z,Seattle Mariners at Colorado Rockies,Colorado Rockies,Seattle Mariners,1,2,0.0
+401817024,2026-09-20T20:07Z,Minnesota Twins at Los Angeles Angels,Los Angeles Angels,Minnesota Twins,0,8,0.0
+401817023,2026-09-20T20:10Z,Miami Marlins at San Diego Padres,San Diego Padres,Miami Marlins,7,3,1.0
+401817025,2026-09-20T20:10Z,New York Yankees at Arizona Diamondbacks,Arizona Diamondbacks,New York Yankees,8,4,1.0
+401817026,2026-09-20T20:10Z,San Francisco Giants at Los Angeles Dodgers,Los Angeles Dodgers,San Francisco Giants,3,1,1.0
+401817016,2026-09-20T23:20Z,Milwaukee Brewers at Baltimore Orioles,Baltimore Orioles,Milwaukee Brewers,0,3,0.0
+401817027,2026-09-21T22:35Z,Toronto Blue Jays at Baltimore Orioles,Baltimore Orioles,Toronto Blue Jays,4,3,1.0
+401817028,2026-09-21T22:40Z,Washington Nationals at Detroit Tigers,Detroit Tigers,Washington Nationals,9,2,1.0
+401817029,2026-09-22T01:45Z,Minnesota Twins at San Francisco Giants,San Francisco Giants,Minnesota Twins,5,2,1.0
+401873648,2026-09-22T17:05Z,Tampa Bay Rays at New York Yankees,New York Yankees,Tampa Bay Rays,2,0,1.0
+401817035,2026-09-22T22:35Z,Toronto Blue Jays at Baltimore Orioles,Baltimore Orioles,Toronto Blue Jays,0,0,0.5
+401817032,2026-09-22T22:40Z,Milwaukee Brewers at Philadelphia Phillies,Philadelphia Phillies,Milwaukee Brewers,6,4,1.0
+401817033,2026-09-22T22:40Z,St. Louis Cardinals at Pittsburgh Pirates,Pittsburgh Pirates,St. Louis Cardinals,2,0,1.0
+401817036,2026-09-22T22:40Z,Washington Nationals at Detroit Tigers,Detroit Tigers,Washington Nationals,1,3,0.0
+401817031,2026-09-22T22:45Z,Cleveland Guardians at Boston Red Sox,Boston Red Sox,Cleveland Guardians,2,3,0.0
+401817034,2026-09-22T23:05Z,Tampa Bay Rays at New York Yankees,New York Yankees,Tampa Bay Rays,1,6,0.0
+401817030,2026-09-22T23:15Z,Cincinnati Reds at Atlanta Braves,Atlanta Braves,Cincinnati Reds,0,4,0.0
+401817037,2026-09-22T23:40Z,Chicago White Sox at Kansas City Royals,Kansas City Royals,Chicago White Sox,11,14,0.0
+401817038,2026-09-22T23:40Z,Miami Marlins at Chicago Cubs,Chicago Cubs,Miami Marlins,2,8,0.0
+401817039,2026-09-23T00:05Z,New York Mets at Texas Rangers,Texas Rangers,New York Mets,3,6,0.0
+401817040,2026-09-23T00:40Z,Arizona Diamondbacks at Colorado Rockies,Colorado Rockies,Arizona Diamondbacks,2,7,0.0
+401817041,2026-09-23T01:40Z,Los Angeles Angels at Athletics Athletics,Athletics,Los Angeles Angels,9,7,1.0
+401817042,2026-09-23T01:40Z,Houston Astros at Seattle Mariners,Seattle Mariners,Houston Astros,0,7,0.0
+401817043,2026-09-23T01:45Z,Minnesota Twins at San Francisco Giants,San Francisco Giants,Minnesota Twins,2,3,0.0
+401817044,2026-09-23T02:10Z,San Diego Padres at Los Angeles Dodgers,Los Angeles Dodgers,San Diego Padres,7,0,1.0
+401817051,2026-09-23T17:10Z,Washington Nationals at Detroit Tigers,Detroit Tigers,Washington Nationals,2,4,0.0
+401923610,2026-09-23T17:35Z,Toronto Blue Jays at Baltimore Orioles,Baltimore Orioles,Toronto Blue Jays,4,2,1.0
+401817058,2026-09-23T19:45Z,Minnesota Twins at San Francisco Giants,San Francisco Giants,Minnesota Twins,2,4,0.0
+401817050,2026-09-23T22:35Z,Toronto Blue Jays at Baltimore Orioles,Baltimore Orioles,Toronto Blue Jays,4,2,1.0
+401817047,2026-09-23T22:40Z,Milwaukee Brewers at Philadelphia Phillies,Philadelphia Phillies,Milwaukee Brewers,1,4,0.0
+401817048,2026-09-23T22:40Z,St. Louis Cardinals at Pittsburgh Pirates,Pittsburgh Pirates,St. Louis Cardinals,1,5,0.0
+401817046,2026-09-23T23:00Z,Cleveland Guardians at Boston Red Sox,Boston Red Sox,Cleveland Guardians,1,0,1.0
+401817049,2026-09-23T23:05Z,Tampa Bay Rays at New York Yankees,New York Yankees,Tampa Bay Rays,9,2,1.0
+401817045,2026-09-23T23:15Z,Cincinnati Reds at Atlanta Braves,Atlanta Braves,Cincinnati Reds,3,2,1.0
+401817052,2026-09-23T23:40Z,Chicago White Sox at Kansas City Royals,Kansas City Royals,Chicago White Sox,5,4,1.0
+401817053,2026-09-23T23:40Z,Miami Marlins at Chicago Cubs,Chicago Cubs,Miami Marlins,2,3,0.0
+401817054,2026-09-24T00:05Z,New York Mets at Texas Rangers,Texas Rangers,New York Mets,2,7,0.0
+401817055,2026-09-24T00:40Z,Arizona Diamondbacks at Colorado Rockies,Colorado Rockies,Arizona Diamondbacks,3,5,0.0
+401817056,2026-09-24T01:40Z,Los Angeles Angels at Athletics Athletics,Athletics,Los Angeles Angels,7,3,1.0
+401817057,2026-09-24T02:00Z,Houston Astros at Seattle Mariners,Seattle Mariners,Houston Astros,6,5,1.0
+401817059,2026-09-24T02:10Z,San Diego Padres at Los Angeles Dodgers,Los Angeles Dodgers,San Diego Padres,1,5,0.0
+401817063,2026-09-24T16:35Z,St. Louis Cardinals at Pittsburgh Pirates,Pittsburgh Pirates,St. Louis Cardinals,2,1,1.0
+401817065,2026-09-24T18:10Z,Chicago White Sox at Kansas City Royals,Kansas City Royals,Chicago White Sox,1,9,0.0
+401817066,2026-09-24T18:20Z,Miami Marlins at Chicago Cubs,Chicago Cubs,Miami Marlins,2,1,1.0
+401817067,2026-09-24T18:35Z,New York Mets at Texas Rangers,Texas Rangers,New York Mets,3,1,1.0
+401817068,2026-09-24T19:10Z,Arizona Diamondbacks at Colorado Rockies,Colorado Rockies,Arizona Diamondbacks,8,12,0.0
+401817062,2026-09-24T22:05Z,Milwaukee Brewers at Philadelphia Phillies,Philadelphia Phillies,Milwaukee Brewers,1,5,0.0
+401817061,2026-09-24T22:45Z,Cleveland Guardians at Boston Red Sox,Boston Red Sox,Cleveland Guardians,0,1,0.0
+401817064,2026-09-24T23:05Z,Tampa Bay Rays at New York Yankees,New York Yankees,Tampa Bay Rays,6,4,1.0
+401817060,2026-09-24T23:15Z,Cincinnati Reds at Atlanta Braves,Atlanta Braves,Cincinnati Reds,6,7,0.0
+401817069,2026-09-25T01:40Z,Los Angeles Angels at Seattle Mariners,Seattle Mariners,Los Angeles Angels,4,6,0.0
+401817070,2026-09-25T01:40Z,Houston Astros at Athletics Athletics,Athletics,Houston Astros,5,7,0.0
+401817071,2026-09-25T02:10Z,San Diego Padres at Los Angeles Dodgers,Los Angeles Dodgers,San Diego Padres,2,4,0.0
+401817104,2026-09-25T17:05Z,Chicago Cubs at Boston Red Sox,Boston Red Sox,Chicago Cubs,4,3,1.0
+401817088,2026-09-25T20:05Z,Baltimore Orioles at New York Yankees,New York Yankees,Baltimore Orioles,2,10,0.0
+401817074,2026-09-25T21:30Z,Chicago Cubs at Boston Red Sox,Boston Red Sox,Chicago Cubs,2,0,1.0
+401817077,2026-09-25T22:40Z,Pittsburgh Pirates at Detroit Tigers,Detroit Tigers,Pittsburgh Pirates,8,7,1.0
+401817078,2026-09-25T22:40Z,Tampa Bay Rays at Philadelphia Phillies,Philadelphia Phillies,Tampa Bay Rays,0,2,0.0
+401817076,2026-09-25T22:45Z,New York Mets at Washington Nationals,Washington Nationals,New York Mets,7,6,1.0
+401817075,2026-09-25T23:07Z,Cincinnati Reds at Toronto Blue Jays,Toronto Blue Jays,Cincinnati Reds,6,5,1.0
+401817072,2026-09-25T23:10Z,Atlanta Braves at Miami Marlins,Miami Marlins,Atlanta Braves,3,0,1.0
+401817073,2026-09-25T23:30Z,Baltimore Orioles at New York Yankees,New York Yankees,Baltimore Orioles,6,3,1.0
+401817079,2026-09-25T23:40Z,Cleveland Guardians at Kansas City Royals,Kansas City Royals,Cleveland Guardians,9,12,0.0
+401817080,2026-09-25T23:40Z,Colorado Rockies at Chicago White Sox,Chicago White Sox,Colorado Rockies,6,1,1.0
+401817081,2026-09-25T23:40Z,St. Louis Cardinals at Milwaukee Brewers,Milwaukee Brewers,St. Louis Cardinals,8,4,1.0
+401817082,2026-09-26T00:10Z,Texas Rangers at Minnesota Twins,Minnesota Twins,Texas Rangers,10,2,1.0
+401817084,2026-09-26T01:40Z,Arizona Diamondbacks at San Diego Padres,San Diego Padres,Arizona Diamondbacks,4,11,0.0
+401817085,2026-09-26T01:40Z,Houston Astros at Athletics Athletics,Athletics,Houston Astros,6,5,1.0
+401817083,2026-09-26T02:10Z,Los Angeles Angels at Seattle Mariners,Seattle Mariners,Los Angeles Angels,5,7,0.0
+401817086,2026-09-26T02:15Z,Los Angeles Dodgers at San Francisco Giants,San Francisco Giants,Los Angeles Dodgers,0,2,0.0
+401817091,2026-09-26T16:35Z,New York Mets at Washington Nationals,Washington Nationals,New York Mets,1,7,0.0
+401817092,2026-09-26T17:10Z,Pittsburgh Pirates at Detroit Tigers,Detroit Tigers,Pittsburgh Pirates,4,3,1.0
+401817090,2026-09-26T19:07Z,Cincinnati Reds at Toronto Blue Jays,Toronto Blue Jays,Cincinnati Reds,1,5,0.0
+401817101,2026-09-26T20:05Z,Los Angeles Dodgers at San Francisco Giants,San Francisco Giants,Los Angeles Dodgers,3,4,0.0
+401817087,2026-09-26T20:10Z,Atlanta Braves at Miami Marlins,Miami Marlins,Atlanta Braves,3,8,0.0
+401817097,2026-09-26T20:10Z,Texas Rangers at Minnesota Twins,Minnesota Twins,Texas Rangers,2,6,0.0
+401817094,2026-09-26T23:10Z,Cleveland Guardians at Kansas City Royals,Kansas City Royals,Cleveland Guardians,5,11,0.0
+401817095,2026-09-26T23:10Z,Colorado Rockies at Chicago White Sox,Chicago White Sox,Colorado Rockies,6,9,0.0
+401817096,2026-09-26T23:10Z,St. Louis Cardinals at Milwaukee Brewers,Milwaukee Brewers,St. Louis Cardinals,3,2,1.0
+401817093,2026-09-26T23:15Z,Tampa Bay Rays at Philadelphia Phillies,Philadelphia Phillies,Tampa Bay Rays,1,12,0.0
+401817099,2026-09-27T00:40Z,Arizona Diamondbacks at San Diego Padres,San Diego Padres,Arizona Diamondbacks,10,7,1.0
+401817098,2026-09-27T01:40Z,Los Angeles Angels at Seattle Mariners,Seattle Mariners,Los Angeles Angels,8,4,1.0
+401817100,2026-09-27T01:40Z,Houston Astros at Athletics Athletics,Athletics,Houston Astros,2,13,0.0
+401817103,2026-09-27T17:05Z,Baltimore Orioles at New York Yankees,New York Yankees,Baltimore Orioles,0,0,0.5
+401817106,2026-09-27T17:05Z,New York Mets at Washington Nationals,Washington Nationals,New York Mets,6,4,1.0
+401817108,2026-09-27T18:30Z,Tampa Bay Rays at Philadelphia Phillies,Philadelphia Phillies,Tampa Bay Rays,7,3,1.0
+401817089,2026-09-27T19:05Z,Chicago Cubs at Boston Red Sox,Boston Red Sox,Chicago Cubs,2,6,0.0
+401817115,2026-09-27T19:05Z,Houston Astros at Athletics Athletics,Athletics,Houston Astros,0,9,0.0
+401817116,2026-09-27T19:05Z,Los Angeles Dodgers at San Francisco Giants,San Francisco Giants,Los Angeles Dodgers,1,5,0.0
+401817105,2026-09-27T19:07Z,Cincinnati Reds at Toronto Blue Jays,Toronto Blue Jays,Cincinnati Reds,5,1,1.0
+401817102,2026-09-27T19:10Z,Atlanta Braves at Miami Marlins,Miami Marlins,Atlanta Braves,5,3,1.0
+401817107,2026-09-27T19:10Z,Pittsburgh Pirates at Detroit Tigers,Detroit Tigers,Pittsburgh Pirates,2,4,0.0
+401817109,2026-09-27T19:10Z,Cleveland Guardians at Kansas City Royals,Kansas City Royals,Cleveland Guardians,3,2,1.0
+401817110,2026-09-27T19:10Z,Colorado Rockies at Chicago White Sox,Chicago White Sox,Colorado Rockies,4,2,1.0
+401817111,2026-09-27T19:10Z,St. Louis Cardinals at Milwaukee Brewers,Milwaukee Brewers,St. Louis Cardinals,6,4,1.0
+401817112,2026-09-27T19:10Z,Texas Rangers at Minnesota Twins,Minnesota Twins,Texas Rangers,6,4,1.0
+401817113,2026-09-27T19:10Z,Los Angeles Angels at Seattle Mariners,Seattle Mariners,Los Angeles Angels,7,3,1.0
+401817114,2026-09-27T19:10Z,Arizona Diamondbacks at San Diego Padres,San Diego Padres,Arizona Diamondbacks,9,4,1.0
+401907965,2026-09-29T18:00Z,Philadelphia Phillies at Atlanta Braves,Atlanta Braves,Philadelphia Phillies,5,3,1.0
+401907896,2026-09-29T21:00Z,Chicago White Sox at Houston Astros,Houston Astros,Chicago White Sox,3,6,0.0
+401907924,2026-09-30T00:00Z,Boston Red Sox at New York Yankees,New York Yankees,Boston Red Sox,9,0,1.0
+401907974,2026-09-30T02:00Z,Chicago Cubs at San Diego Padres,San Diego Padres,Chicago Cubs,8,0,1.0
+401907972,2026-09-30T18:00Z,Philadelphia Phillies at Atlanta Braves,Atlanta Braves,Philadelphia Phillies,3,4,0.0
+401907897,2026-09-30T21:00Z,Chicago White Sox at Houston Astros,Houston Astros,Chicago White Sox,3,7,0.0
+401907963,2026-10-01T00:00Z,Boston Red Sox at New York Yankees,New York Yankees,Boston Red Sox,9,2,1.0
+401907975,2026-10-01T02:00Z,Chicago Cubs at San Diego Padres,San Diego Padres,Chicago Cubs,4,1,1.0

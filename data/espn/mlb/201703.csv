@@ -1,0 +1,462 @@
+id,date,event,home,away,hs,as,res
+370301101,2017-03-01T18:05Z,Boston Red Sox at Baltimore Orioles,Baltimore Orioles,Boston Red Sox,12,5,1.0
+370301106,2017-03-01T18:05Z,Washington Nationals at Detroit Tigers,Detroit Tigers,Washington Nationals,1,9,0.0
+370301109,2017-03-01T18:05Z,Pittsburgh Pirates at Minnesota Twins,Minnesota Twins,Pittsburgh Pirates,1,3,0.0
+370301118,2017-03-01T18:05Z,Miami Marlins at Houston Astros,Houston Astros,Miami Marlins,5,9,0.0
+370301124,2017-03-01T18:05Z,New York Mets at St. Louis Cardinals,St. Louis Cardinals,New York Mets,6,1,1.0
+370301130,2017-03-01T18:05Z,Philadelphia Phillies at Tampa Bay Rays,Tampa Bay Rays,Philadelphia Phillies,5,5,0.5
+370301114,2017-03-01T18:07Z,Detroit Tigers at Toronto Blue Jays,Toronto Blue Jays,Detroit Tigers,4,5,0.0
+370301104,2017-03-01T20:05Z,Arizona Diamondbacks at Chicago White Sox,Chicago White Sox,Arizona Diamondbacks,3,2,1.0
+370301105,2017-03-01T20:05Z,Seattle Mariners at Cleveland Indians,Cleveland Indians,Seattle Mariners,4,7,0.0
+370301107,2017-03-01T20:05Z,Chicago Cubs at Kansas City Royals,Kansas City Royals,Chicago Cubs,3,7,0.0
+370301108,2017-03-01T20:05Z,Cincinnati Reds at Milwaukee Brewers,Milwaukee Brewers,Cincinnati Reds,3,2,1.0
+370301103,2017-03-01T20:10Z,Texas Rangers at Los Angeles Angels,Los Angeles Angels,Texas Rangers,3,2,1.0
+370301125,2017-03-01T20:10Z,Oakland Athletics at San Diego Padres,San Diego Padres,Oakland Athletics,5,0,1.0
+370301127,2017-03-01T20:10Z,San Diego Padres at Colorado Rockies,Colorado Rockies,San Diego Padres,3,1,1.0
+370301110,2017-03-01T23:35Z,Atlanta Braves at New York Yankees,New York Yankees,Atlanta Braves,8,7,1.0
+370301126,2017-03-02T01:05Z,Los Angeles Dodgers at San Francisco Giants,San Francisco Giants,Los Angeles Dodgers,6,7,0.0
+370302101,2017-03-02T18:05Z,Minnesota Twins at Baltimore Orioles,Baltimore Orioles,Minnesota Twins,6,6,0.5
+370302102,2017-03-02T18:05Z,Tampa Bay Rays at Boston Red Sox,Boston Red Sox,Tampa Bay Rays,19,2,1.0
+370302106,2017-03-02T18:05Z,Pittsburgh Pirates at Detroit Tigers,Detroit Tigers,Pittsburgh Pirates,1,11,0.0
+370302118,2017-03-02T18:05Z,Washington Nationals at Houston Astros,Houston Astros,Washington Nationals,1,13,0.0
+370302124,2017-03-02T18:05Z,Atlanta Braves at St. Louis Cardinals,St. Louis Cardinals,Atlanta Braves,9,4,1.0
+370302114,2017-03-02T18:07Z,Philadelphia Phillies at Toronto Blue Jays,Toronto Blue Jays,Philadelphia Phillies,8,8,0.5
+370302121,2017-03-02T18:10Z,Miami Marlins at New York Mets,New York Mets,Miami Marlins,11,6,1.0
+370302107,2017-03-02T20:05Z,Colorado Rockies at Kansas City Royals,Kansas City Royals,Colorado Rockies,3,1,1.0
+370302111,2017-03-02T20:05Z,Texas Rangers at Oakland Athletics,Oakland Athletics,Texas Rangers,5,1,1.0
+370302117,2017-03-02T20:05Z,Chicago Cubs at Cincinnati Reds,Cincinnati Reds,Chicago Cubs,6,2,1.0
+370302119,2017-03-02T20:05Z,Cleveland Indians at Los Angeles Dodgers,Los Angeles Dodgers,Cleveland Indians,4,2,1.0
+370302126,2017-03-02T20:05Z,Chicago White Sox at San Francisco Giants,San Francisco Giants,Chicago White Sox,6,8,0.0
+370302103,2017-03-02T20:10Z,San Francisco Giants at Los Angeles Angels,Los Angeles Angels,San Francisco Giants,5,4,1.0
+370302112,2017-03-02T20:10Z,Milwaukee Brewers at Seattle Mariners,Seattle Mariners,Milwaukee Brewers,6,2,1.0
+370302129,2017-03-02T20:10Z,San Diego Padres at Arizona Diamondbacks,Arizona Diamondbacks,San Diego Padres,6,9,0.0
+370302110,2017-03-02T23:35Z,Baltimore Orioles at New York Yankees,New York Yankees,Baltimore Orioles,8,1,1.0
+370302329,2017-03-03T02:10Z,Chicago Cubs at Arizona Diamondbacks,Arizona Diamondbacks,Chicago Cubs,3,1,1.0
+370303115,2017-03-03T18:05Z,Boston Red Sox at Atlanta Braves,Atlanta Braves,Boston Red Sox,1,9,0.0
+370303120,2017-03-03T18:05Z,St. Louis Cardinals at Washington Nationals,Washington Nationals,St. Louis Cardinals,1,2,0.0
+370303122,2017-03-03T18:05Z,Minnesota Twins at Philadelphia Phillies,Philadelphia Phillies,Minnesota Twins,3,4,0.0
+370303123,2017-03-03T18:05Z,Baltimore Orioles at Pittsburgh Pirates,Pittsburgh Pirates,Baltimore Orioles,5,2,1.0
+370303128,2017-03-03T18:05Z,Washington Nationals at Miami Marlins,Miami Marlins,Washington Nationals,5,8,0.0
+370303130,2017-03-03T18:05Z,Detroit Tigers at Tampa Bay Rays,Tampa Bay Rays,Detroit Tigers,5,2,1.0
+370303114,2017-03-03T18:07Z,New York Yankees at Toronto Blue Jays,Toronto Blue Jays,New York Yankees,3,2,1.0
+370303121,2017-03-03T18:10Z,Houston Astros at New York Mets,New York Mets,Houston Astros,11,3,1.0
+370303105,2017-03-03T20:05Z,Colorado Rockies at Cleveland Indians,Cleveland Indians,Colorado Rockies,7,16,0.0
+370303111,2017-03-03T20:05Z,San Francisco Giants at Oakland Athletics,Oakland Athletics,San Francisco Giants,6,1,1.0
+370303113,2017-03-03T20:05Z,Seattle Mariners at Texas Rangers,Texas Rangers,Seattle Mariners,8,2,1.0
+370303116,2017-03-03T20:05Z,Cincinnati Reds at Chicago Cubs,Chicago Cubs,Cincinnati Reds,4,8,0.0
+370303119,2017-03-03T20:05Z,Kansas City Royals at Los Angeles Dodgers,Los Angeles Dodgers,Kansas City Royals,2,7,0.0
+370303103,2017-03-03T20:10Z,Milwaukee Brewers at Los Angeles Angels,Los Angeles Angels,Milwaukee Brewers,6,5,1.0
+370303129,2017-03-03T20:10Z,Los Angeles Dodgers at Arizona Diamondbacks,Arizona Diamondbacks,Los Angeles Dodgers,15,3,1.0
+370303125,2017-03-04T01:40Z,Chicago White Sox at San Diego Padres,San Diego Padres,Chicago White Sox,1,3,0.0
+370304106,2017-03-04T18:05Z,New York Yankees at Detroit Tigers,Detroit Tigers,New York Yankees,1,11,0.0
+370304109,2017-03-04T18:05Z,Toronto Blue Jays at Minnesota Twins,Minnesota Twins,Toronto Blue Jays,6,2,1.0
+370304115,2017-03-04T18:05Z,Miami Marlins at Atlanta Braves,Atlanta Braves,Miami Marlins,6,8,0.0
+370304118,2017-03-04T18:05Z,New York Mets at Houston Astros,Houston Astros,New York Mets,1,3,0.0
+370304122,2017-03-04T18:05Z,Atlanta Braves at Philadelphia Phillies,Philadelphia Phillies,Atlanta Braves,7,4,1.0
+370304123,2017-03-04T18:05Z,Boston Red Sox at Pittsburgh Pirates,Pittsburgh Pirates,Boston Red Sox,3,2,1.0
+370304124,2017-03-04T18:05Z,Washington Nationals at St. Louis Cardinals,St. Louis Cardinals,Washington Nationals,1,1,0.5
+370304130,2017-03-04T18:05Z,Baltimore Orioles at Tampa Bay Rays,Tampa Bay Rays,Baltimore Orioles,0,1,0.0
+370304104,2017-03-04T20:05Z,Los Angeles Angels at Chicago White Sox,Chicago White Sox,Los Angeles Angels,10,2,1.0
+370304107,2017-03-04T20:05Z,San Francisco Giants at Kansas City Royals,Kansas City Royals,San Francisco Giants,2,0,1.0
+370304108,2017-03-04T20:05Z,Texas Rangers at Milwaukee Brewers,Milwaukee Brewers,Texas Rangers,7,1,1.0
+370304111,2017-03-04T20:05Z,Cleveland Indians at Oakland Athletics,Oakland Athletics,Cleveland Indians,5,15,0.0
+370304116,2017-03-04T20:05Z,Los Angeles Dodgers at Chicago Cubs,Chicago Cubs,Los Angeles Dodgers,9,3,1.0
+370304117,2017-03-04T20:05Z,Kansas City Royals at Cincinnati Reds,Cincinnati Reds,Kansas City Royals,9,7,1.0
+370304125,2017-03-04T20:10Z,Arizona Diamondbacks at San Diego Padres,San Diego Padres,Arizona Diamondbacks,6,5,1.0
+370304127,2017-03-04T20:10Z,Seattle Mariners at Colorado Rockies,Colorado Rockies,Seattle Mariners,3,4,0.0
+370305101,2017-03-05T18:05Z,Philadelphia Phillies at Baltimore Orioles,Baltimore Orioles,Philadelphia Phillies,3,2,1.0
+370305102,2017-03-05T18:05Z,Atlanta Braves at Boston Red Sox,Boston Red Sox,Atlanta Braves,11,1,1.0
+370305110,2017-03-05T18:05Z,Pittsburgh Pirates at New York Yankees,New York Yankees,Pittsburgh Pirates,3,2,1.0
+370305120,2017-03-05T18:05Z,Minnesota Twins at Washington Nationals,Washington Nationals,Minnesota Twins,2,4,0.0
+370305122,2017-03-05T18:05Z,Detroit Tigers at Philadelphia Phillies,Philadelphia Phillies,Detroit Tigers,8,5,1.0
+370305128,2017-03-05T18:05Z,Houston Astros at Miami Marlins,Miami Marlins,Houston Astros,7,7,0.5
+370305114,2017-03-05T18:07Z,Tampa Bay Rays at Toronto Blue Jays,Toronto Blue Jays,Tampa Bay Rays,3,5,0.0
+370305121,2017-03-05T18:10Z,St. Louis Cardinals at New York Mets,New York Mets,St. Louis Cardinals,11,14,0.0
+370305105,2017-03-05T20:05Z,San Diego Padres at Cleveland Indians,Cleveland Indians,San Diego Padres,8,2,1.0
+370305108,2017-03-05T20:05Z,Colorado Rockies at Milwaukee Brewers,Milwaukee Brewers,Colorado Rockies,9,4,1.0
+370305113,2017-03-05T20:05Z,Chicago Cubs at Texas Rangers,Texas Rangers,Chicago Cubs,9,9,0.5
+370305119,2017-03-05T20:05Z,Seattle Mariners at Los Angeles Dodgers,Los Angeles Dodgers,Seattle Mariners,7,3,1.0
+370305126,2017-03-05T20:05Z,Kansas City Royals at San Francisco Giants,San Francisco Giants,Kansas City Royals,3,4,0.0
+370305103,2017-03-05T20:10Z,Cincinnati Reds at Los Angeles Angels,Los Angeles Angels,Cincinnati Reds,3,11,0.0
+370305112,2017-03-05T20:10Z,Oakland Athletics at Seattle Mariners,Seattle Mariners,Oakland Athletics,4,5,0.0
+370305129,2017-03-05T20:10Z,Chicago White Sox at Arizona Diamondbacks,Arizona Diamondbacks,Chicago White Sox,4,1,1.0
+370306106,2017-03-06T18:05Z,Baltimore Orioles at Detroit Tigers,Detroit Tigers,Baltimore Orioles,2,7,0.0
+370306109,2017-03-06T18:05Z,St. Louis Cardinals at Minnesota Twins,Minnesota Twins,St. Louis Cardinals,2,1,1.0
+370306118,2017-03-06T18:05Z,Boston Red Sox at Houston Astros,Houston Astros,Boston Red Sox,5,5,0.5
+370306123,2017-03-06T18:05Z,New York Yankees at Pittsburgh Pirates,Pittsburgh Pirates,New York Yankees,13,1,1.0
+370306128,2017-03-06T18:05Z,New York Mets at Miami Marlins,Miami Marlins,New York Mets,2,8,0.0
+370306104,2017-03-06T20:05Z,San Diego Padres at Chicago White Sox,Chicago White Sox,San Diego Padres,5,6,0.0
+370306105,2017-03-06T20:05Z,Milwaukee Brewers at Cleveland Indians,Cleveland Indians,Milwaukee Brewers,4,14,0.0
+370306107,2017-03-06T20:05Z,Arizona Diamondbacks at Kansas City Royals,Kansas City Royals,Arizona Diamondbacks,1,4,0.0
+370306126,2017-03-06T20:05Z,Cleveland Indians at San Francisco Giants,San Francisco Giants,Cleveland Indians,3,2,1.0
+370306103,2017-03-06T20:10Z,Chicago Cubs at Los Angeles Angels,Los Angeles Angels,Chicago Cubs,10,13,0.0
+370306112,2017-03-06T20:10Z,Texas Rangers at Seattle Mariners,Seattle Mariners,Texas Rangers,9,0,1.0
+370306127,2017-03-06T20:10Z,Los Angeles Dodgers at Colorado Rockies,Colorado Rockies,Los Angeles Dodgers,10,9,1.0
+370307101,2017-03-07T18:05Z,Dominican Republic  at Baltimore Orioles,Baltimore Orioles,Dominican Republic,5,4,1.0
+370307106,2017-03-07T18:05Z,Philadelphia Phillies at Detroit Tigers,Detroit Tigers,Philadelphia Phillies,6,11,0.0
+370307110,2017-03-07T18:05Z,Tampa Bay Rays at New York Yankees,New York Yankees,Tampa Bay Rays,7,6,1.0
+370307120,2017-03-07T18:05Z,Boston Red Sox at Washington Nationals,Washington Nationals,Boston Red Sox,3,5,0.0
+370307123,2017-03-07T18:05Z,Atlanta Braves at Pittsburgh Pirates,Pittsburgh Pirates,Atlanta Braves,6,3,1.0
+370307124,2017-03-07T18:05Z,Miami Marlins at St. Louis Cardinals,St. Louis Cardinals,Miami Marlins,9,2,1.0
+370307114,2017-03-07T18:07Z,Canada  at Toronto Blue Jays,Toronto Blue Jays,Canada,1,7,0.0
+370307113,2017-03-07T20:05Z,Colorado Rockies at Texas Rangers,Texas Rangers,Colorado Rockies,2,3,0.0
+370307116,2017-03-07T20:05Z,Italy  at Chicago Cubs,Chicago Cubs,Italy,7,8,0.0
+370307117,2017-03-07T20:05Z,Kansas City Royals at Cincinnati Reds,Cincinnati Reds,Kansas City Royals,7,3,1.0
+370307119,2017-03-07T20:05Z,San Francisco Giants at Los Angeles Dodgers,Los Angeles Dodgers,San Francisco Giants,2,4,0.0
+370307125,2017-03-07T20:10Z,Mexico  at San Diego Padres,San Diego Padres,Mexico,7,3,1.0
+370307129,2017-03-07T20:10Z,Oakland Athletics at Arizona Diamondbacks,Arizona Diamondbacks,Oakland Athletics,13,21,0.0
+370308101,2017-03-08T18:05Z,Toronto Blue Jays at Baltimore Orioles,Baltimore Orioles,Toronto Blue Jays,6,4,1.0
+370308110,2017-03-08T18:05Z,Canada  at New York Yankees,New York Yankees,Canada,10,4,1.0
+370308115,2017-03-08T18:05Z,Philadelphia Phillies at Atlanta Braves,Atlanta Braves,Philadelphia Phillies,3,2,1.0
+370308118,2017-03-08T18:05Z,New York Mets at Houston Astros,Houston Astros,New York Mets,12,2,1.0
+370308123,2017-03-08T18:05Z,Dominican Republic  at Pittsburgh Pirates,Pittsburgh Pirates,Dominican Republic,6,10,0.0
+370308124,2017-03-08T18:05Z,Washington Nationals at St. Louis Cardinals,St. Louis Cardinals,Washington Nationals,9,3,1.0
+370308121,2017-03-08T18:10Z,Boston Red Sox at New York Mets,New York Mets,Boston Red Sox,8,7,1.0
+370308104,2017-03-08T20:05Z,Milwaukee Brewers at Chicago White Sox,Chicago White Sox,Milwaukee Brewers,4,5,0.0
+370308107,2017-03-08T20:05Z,Venezuela  at Kansas City Royals,Kansas City Royals,Venezuela,0,11,0.0
+370308108,2017-03-08T20:05Z,Los Angeles Dodgers at Milwaukee Brewers,Milwaukee Brewers,Los Angeles Dodgers,7,2,1.0
+370308111,2017-03-08T20:05Z,Italy  at Oakland Athletics,Oakland Athletics,Italy,7,0,1.0
+370308117,2017-03-08T20:05Z,Los Angeles Angels at Cincinnati Reds,Cincinnati Reds,Los Angeles Angels,0,9,0.0
+370308126,2017-03-08T20:05Z,Puerto Rico PUERTO RICO at San Francisco Giants,San Francisco Giants,Puerto Rico PUERTO RICO,6,5,1.0
+370308129,2017-03-08T20:10Z,Mexico  at Arizona Diamondbacks,Arizona Diamondbacks,Mexico,10,4,1.0
+370308130,2017-03-08T23:35Z,Colombia COLOMBIA at Tampa Bay Rays,Tampa Bay Rays,Colombia COLOMBIA,7,9,0.0
+370308109,2017-03-09T00:05Z,United States  at Minnesota Twins,Minnesota Twins,United States,3,2,1.0
+370308112,2017-03-09T02:10Z,Cleveland Indians at Seattle Mariners,Seattle Mariners,Cleveland Indians,6,14,0.0
+370309102,2017-03-09T18:05Z,United States  at Boston Red Sox,Boston Red Sox,United States,7,5,1.0
+370309109,2017-03-09T18:05Z,Colombia COLOMBIA at Minnesota Twins,Minnesota Twins,Colombia COLOMBIA,10,7,1.0
+370309115,2017-03-09T18:05Z,New York Yankees at Atlanta Braves,Atlanta Braves,New York Yankees,7,8,0.0
+370309120,2017-03-09T18:05Z,Miami Marlins at Washington Nationals,Washington Nationals,Miami Marlins,2,2,0.5
+370309122,2017-03-09T18:05Z,Toronto Blue Jays at Philadelphia Phillies,Philadelphia Phillies,Toronto Blue Jays,4,6,0.0
+370309124,2017-03-09T18:05Z,Houston Astros at St. Louis Cardinals,St. Louis Cardinals,Houston Astros,0,3,0.0
+370309130,2017-03-09T18:05Z,Pittsburgh Pirates at Tampa Bay Rays,Tampa Bay Rays,Pittsburgh Pirates,8,10,0.0
+370309121,2017-03-09T18:10Z,Detroit Tigers at New York Mets,New York Mets,Detroit Tigers,5,5,0.5
+400933120,2017-03-09T18:10Z,Detroit Tigers at New York Mets,New York Mets,Detroit Tigers,5,5,0.5
+370309104,2017-03-09T20:05Z,Arizona Diamondbacks at Chicago White Sox,Chicago White Sox,Arizona Diamondbacks,4,2,1.0
+370309105,2017-03-09T20:05Z,Los Angeles Angels at Cleveland Indians,Cleveland Indians,Los Angeles Angels,4,5,0.0
+370309111,2017-03-09T20:05Z,Cincinnati Reds at Oakland Athletics,Oakland Athletics,Cincinnati Reds,12,5,1.0
+370309113,2017-03-09T20:05Z,Venezuela  at Texas Rangers,Texas Rangers,Venezuela,4,6,0.0
+370309116,2017-03-09T20:05Z,Seattle Mariners at Chicago Cubs,Chicago Cubs,Seattle Mariners,6,8,0.0
+370309125,2017-03-09T20:10Z,Milwaukee Brewers at San Diego Padres,San Diego Padres,Milwaukee Brewers,2,8,0.0
+370309127,2017-03-09T20:10Z,Puerto Rico PUERTO RICO at Colorado Rockies,Colorado Rockies,Puerto Rico PUERTO RICO,10,2,1.0
+370310106,2017-03-10T18:05Z,Toronto Blue Jays at Detroit Tigers,Detroit Tigers,Toronto Blue Jays,2,6,0.0
+370310115,2017-03-10T18:05Z,New York Mets at Atlanta Braves,Atlanta Braves,New York Mets,5,2,1.0
+370310120,2017-03-10T18:05Z,St. Louis Cardinals at Washington Nationals,Washington Nationals,St. Louis Cardinals,1,7,0.0
+370310122,2017-03-10T18:05Z,New York Yankees at Philadelphia Phillies,Philadelphia Phillies,New York Yankees,0,5,0.0
+370310123,2017-03-10T18:05Z,Tampa Bay Rays at Pittsburgh Pirates,Pittsburgh Pirates,Tampa Bay Rays,4,1,1.0
+370310128,2017-03-10T18:05Z,Minnesota Twins at Miami Marlins,Miami Marlins,Minnesota Twins,2,8,0.0
+370310121,2017-03-10T18:10Z,Houston Astros at New York Mets,New York Mets,Houston Astros,6,7,0.0
+370310108,2017-03-10T20:05Z,Chicago White Sox at Milwaukee Brewers,Milwaukee Brewers,Chicago White Sox,3,4,0.0
+370310126,2017-03-10T20:05Z,Cleveland Indians at San Francisco Giants,San Francisco Giants,Cleveland Indians,6,7,0.0
+370310103,2017-03-10T20:10Z,San Diego Padres at Los Angeles Angels,Los Angeles Angels,San Diego Padres,2,4,0.0
+370310112,2017-03-10T20:10Z,Chicago Cubs at Seattle Mariners,Seattle Mariners,Chicago Cubs,11,10,1.0
+370310129,2017-03-10T20:10Z,Milwaukee Brewers at Arizona Diamondbacks,Arizona Diamondbacks,Milwaukee Brewers,6,3,1.0
+370310102,2017-03-10T23:05Z,Baltimore Orioles at Boston Red Sox,Boston Red Sox,Baltimore Orioles,4,0,1.0
+370310107,2017-03-11T01:05Z,Oakland Athletics at Kansas City Royals,Kansas City Royals,Oakland Athletics,7,11,0.0
+370310117,2017-03-11T01:05Z,Colorado Rockies at Cincinnati Reds,Cincinnati Reds,Colorado Rockies,4,5,0.0
+370310119,2017-03-11T02:05Z,Texas Rangers at Los Angeles Dodgers,Los Angeles Dodgers,Texas Rangers,12,2,1.0
+370311101,2017-03-11T18:05Z,Pittsburgh Pirates at Baltimore Orioles,Baltimore Orioles,Pittsburgh Pirates,7,6,1.0
+370311102,2017-03-11T18:05Z,Tampa Bay Rays at Boston Red Sox,Boston Red Sox,Tampa Bay Rays,2,1,1.0
+370311109,2017-03-11T18:05Z,Boston Red Sox at Minnesota Twins,Minnesota Twins,Boston Red Sox,13,0,1.0
+370311110,2017-03-11T18:05Z,Detroit Tigers at New York Yankees,New York Yankees,Detroit Tigers,7,1,1.0
+370311118,2017-03-11T18:05Z,Miami Marlins at Houston Astros,Houston Astros,Miami Marlins,2,4,0.0
+370311124,2017-03-11T18:05Z,Atlanta Braves at St. Louis Cardinals,St. Louis Cardinals,Atlanta Braves,2,2,0.5
+370311114,2017-03-11T18:07Z,Philadelphia Phillies at Toronto Blue Jays,Toronto Blue Jays,Philadelphia Phillies,2,8,0.0
+370311121,2017-03-11T18:10Z,Washington Nationals at New York Mets,New York Mets,Washington Nationals,0,6,0.0
+370311105,2017-03-11T20:05Z,Kansas City Royals at Cleveland Indians,Cleveland Indians,Kansas City Royals,7,6,1.0
+370311108,2017-03-11T20:05Z,San Diego Padres at Milwaukee Brewers,Milwaukee Brewers,San Diego Padres,5,3,1.0
+370311111,2017-03-11T20:05Z,Texas Rangers at Oakland Athletics,Oakland Athletics,Texas Rangers,8,7,1.0
+370311113,2017-03-11T20:05Z,Chicago White Sox at Texas Rangers,Texas Rangers,Chicago White Sox,5,1,1.0
+370311116,2017-03-11T20:05Z,Colorado Rockies at Chicago Cubs,Chicago Cubs,Colorado Rockies,4,3,1.0
+370311119,2017-03-11T20:05Z,Los Angeles Angels at Los Angeles Dodgers,Los Angeles Dodgers,Los Angeles Angels,8,2,1.0
+370311126,2017-03-11T20:05Z,Cincinnati Reds at San Francisco Giants,San Francisco Giants,Cincinnati Reds,9,7,1.0
+370311112,2017-03-11T20:10Z,Cincinnati Reds at Seattle Mariners,Seattle Mariners,Cincinnati Reds,7,6,1.0
+370311129,2017-03-11T20:10Z,San Francisco Giants at Arizona Diamondbacks,Arizona Diamondbacks,San Francisco Giants,5,1,1.0
+370312106,2017-03-12T17:05Z,New York Mets at Detroit Tigers,Detroit Tigers,New York Mets,4,3,1.0
+370312109,2017-03-12T17:05Z,Baltimore Orioles at Minnesota Twins,Minnesota Twins,Baltimore Orioles,6,8,0.0
+370312110,2017-03-12T17:05Z,Atlanta Braves at New York Yankees,New York Yankees,Atlanta Braves,2,10,0.0
+370312120,2017-03-12T17:05Z,Houston Astros at Washington Nationals,Washington Nationals,Houston Astros,5,4,1.0
+370312123,2017-03-12T17:05Z,Minnesota Twins at Pittsburgh Pirates,Pittsburgh Pirates,Minnesota Twins,4,3,1.0
+370312128,2017-03-12T17:05Z,St. Louis Cardinals at Miami Marlins,Miami Marlins,St. Louis Cardinals,9,9,0.5
+370312130,2017-03-12T17:05Z,Toronto Blue Jays at Tampa Bay Rays,Tampa Bay Rays,Toronto Blue Jays,8,2,1.0
+370312122,2017-03-12T17:07Z,Boston Red Sox at Philadelphia Phillies,Philadelphia Phillies,Boston Red Sox,6,5,1.0
+370312104,2017-03-12T19:05Z,Texas Rangers at Chicago White Sox,Chicago White Sox,Texas Rangers,8,10,0.0
+370312107,2017-03-12T20:05Z,Los Angeles Dodgers at Kansas City Royals,Kansas City Royals,Los Angeles Dodgers,4,5,0.0
+370312111,2017-03-12T20:05Z,Chicago Cubs at Oakland Athletics,Oakland Athletics,Chicago Cubs,9,8,1.0
+370312117,2017-03-12T20:05Z,Milwaukee Brewers at Cincinnati Reds,Cincinnati Reds,Milwaukee Brewers,4,2,1.0
+370312126,2017-03-12T20:05Z,Arizona Diamondbacks at San Francisco Giants,San Francisco Giants,Arizona Diamondbacks,12,4,1.0
+370312103,2017-03-12T20:10Z,Seattle Mariners at Los Angeles Angels,Los Angeles Angels,Seattle Mariners,9,2,1.0
+370312125,2017-03-12T20:10Z,Cleveland Indians at San Diego Padres,San Diego Padres,Cleveland Indians,3,11,0.0
+370312127,2017-03-12T20:10Z,Cincinnati Reds at Colorado Rockies,Colorado Rockies,Cincinnati Reds,8,9,0.0
+370312119,2017-03-13T02:05Z,Chicago White Sox at Los Angeles Dodgers,Los Angeles Dodgers,Chicago White Sox,5,15,0.0
+370313101,2017-03-13T17:05Z,Philadelphia Phillies at Baltimore Orioles,Baltimore Orioles,Philadelphia Phillies,6,4,1.0
+370313109,2017-03-13T17:05Z,Tampa Bay Rays at Minnesota Twins,Minnesota Twins,Tampa Bay Rays,9,4,1.0
+370313115,2017-03-13T17:05Z,Pittsburgh Pirates at Atlanta Braves,Atlanta Braves,Pittsburgh Pirates,7,6,1.0
+370313120,2017-03-13T17:05Z,Detroit Tigers at Washington Nationals,Washington Nationals,Detroit Tigers,3,3,0.5
+370313124,2017-03-13T17:05Z,Houston Astros at St. Louis Cardinals,St. Louis Cardinals,Houston Astros,6,3,1.0
+370313114,2017-03-13T17:07Z,Boston Red Sox at Toronto Blue Jays,Toronto Blue Jays,Boston Red Sox,4,3,1.0
+370313121,2017-03-13T17:10Z,Miami Marlins at New York Mets,New York Mets,Miami Marlins,6,4,1.0
+370313104,2017-03-13T20:05Z,Cleveland Indians at Chicago White Sox,Chicago White Sox,Cleveland Indians,9,5,1.0
+370313108,2017-03-13T20:05Z,Seattle Mariners at Milwaukee Brewers,Milwaukee Brewers,Seattle Mariners,24,3,1.0
+370313117,2017-03-13T20:05Z,Oakland Athletics at Cincinnati Reds,Cincinnati Reds,Oakland Athletics,3,1,1.0
+370313103,2017-03-13T20:10Z,Los Angeles Dodgers at Los Angeles Angels,Los Angeles Angels,Los Angeles Dodgers,1,3,0.0
+370313125,2017-03-13T20:10Z,Chicago Cubs at San Diego Padres,San Diego Padres,Chicago Cubs,1,3,0.0
+370313127,2017-03-13T20:10Z,Kansas City Royals at Colorado Rockies,Colorado Rockies,Kansas City Royals,2,4,0.0
+370313113,2017-03-14T01:05Z,San Francisco Giants at Texas Rangers,Texas Rangers,San Francisco Giants,7,1,1.0
+370314101,2017-03-14T17:05Z,Tampa Bay Rays at Baltimore Orioles,Baltimore Orioles,Tampa Bay Rays,6,9,0.0
+370314102,2017-03-14T17:05Z,Toronto Blue Jays at Boston Red Sox,Boston Red Sox,Toronto Blue Jays,5,4,1.0
+370314118,2017-03-14T17:05Z,New York Mets at Houston Astros,Houston Astros,New York Mets,1,2,0.0
+370314122,2017-03-14T17:05Z,Atlanta Braves at Philadelphia Phillies,Philadelphia Phillies,Atlanta Braves,9,0,1.0
+370314128,2017-03-14T17:05Z,Detroit Tigers at Miami Marlins,Miami Marlins,Detroit Tigers,1,7,0.0
+370314130,2017-03-14T17:05Z,New York Yankees at Tampa Bay Rays,Tampa Bay Rays,New York Yankees,10,6,1.0
+370314105,2017-03-14T20:05Z,San Francisco Giants at Cleveland Indians,Cleveland Indians,San Francisco Giants,5,6,0.0
+370314107,2017-03-14T20:05Z,Los Angeles Angels at Kansas City Royals,Kansas City Royals,Los Angeles Angels,8,4,1.0
+370314111,2017-03-14T20:05Z,Colorado Rockies at Oakland Athletics,Oakland Athletics,Colorado Rockies,3,4,0.0
+370314116,2017-03-14T20:05Z,Milwaukee Brewers at Chicago Cubs,Chicago Cubs,Milwaukee Brewers,7,7,0.5
+370314119,2017-03-14T20:05Z,Cincinnati Reds at Los Angeles Dodgers,Los Angeles Dodgers,Cincinnati Reds,6,5,1.0
+370314112,2017-03-14T20:10Z,Chicago White Sox at Seattle Mariners,Seattle Mariners,Chicago White Sox,7,6,1.0
+370314129,2017-03-14T20:10Z,Texas Rangers at Arizona Diamondbacks,Arizona Diamondbacks,Texas Rangers,12,0,1.0
+370315106,2017-03-15T17:05Z,Atlanta Braves at Detroit Tigers,Detroit Tigers,Atlanta Braves,8,6,1.0
+370315109,2017-03-15T17:05Z,St. Louis Cardinals at Minnesota Twins,Minnesota Twins,St. Louis Cardinals,8,0,1.0
+370315118,2017-03-15T17:05Z,Washington Nationals at Houston Astros,Houston Astros,Washington Nationals,8,2,1.0
+370315123,2017-03-15T17:05Z,Baltimore Orioles at Pittsburgh Pirates,Pittsburgh Pirates,Baltimore Orioles,6,5,1.0
+370315128,2017-03-15T17:05Z,New York Mets at Miami Marlins,Miami Marlins,New York Mets,6,2,1.0
+370315130,2017-03-15T17:05Z,Boston Red Sox at Tampa Bay Rays,Tampa Bay Rays,Boston Red Sox,3,3,0.5
+370315104,2017-03-15T20:05Z,Kansas City Royals at Chicago White Sox,Chicago White Sox,Kansas City Royals,7,3,1.0
+370315113,2017-03-15T20:05Z,Cleveland Indians at Texas Rangers,Texas Rangers,Cleveland Indians,12,11,1.0
+370315117,2017-03-15T20:05Z,San Diego Padres at Cincinnati Reds,Cincinnati Reds,San Diego Padres,8,7,1.0
+370315126,2017-03-15T20:05Z,Los Angeles Angels at San Francisco Giants,San Francisco Giants,Los Angeles Angels,7,4,1.0
+370315112,2017-03-15T20:10Z,Los Angeles Dodgers at Seattle Mariners,Seattle Mariners,Los Angeles Dodgers,7,12,0.0
+370315127,2017-03-15T20:10Z,Milwaukee Brewers at Colorado Rockies,Colorado Rockies,Milwaukee Brewers,5,4,1.0
+370315110,2017-03-15T22:35Z,Philadelphia Phillies at New York Yankees,New York Yankees,Philadelphia Phillies,3,1,1.0
+370315116,2017-03-16T02:05Z,Arizona Diamondbacks at Chicago Cubs,Chicago Cubs,Arizona Diamondbacks,3,7,0.0
+370316115,2017-03-16T17:05Z,Detroit Tigers at Atlanta Braves,Atlanta Braves,Detroit Tigers,3,5,0.0
+370316120,2017-03-16T17:05Z,New York Mets at Washington Nationals,Washington Nationals,New York Mets,3,1,1.0
+370316124,2017-03-16T17:05Z,Minnesota Twins at St. Louis Cardinals,St. Louis Cardinals,Minnesota Twins,2,1,1.0
+370316114,2017-03-16T17:07Z,New York Yankees at Toronto Blue Jays,Toronto Blue Jays,New York Yankees,5,11,0.0
+370316105,2017-03-16T20:05Z,Oakland Athletics at Cleveland Indians,Cleveland Indians,Oakland Athletics,6,5,1.0
+370316107,2017-03-16T20:05Z,Seattle Mariners at Kansas City Royals,Kansas City Royals,Seattle Mariners,2,9,0.0
+370316108,2017-03-16T20:05Z,Arizona Diamondbacks at Milwaukee Brewers,Milwaukee Brewers,Arizona Diamondbacks,8,5,1.0
+370316119,2017-03-16T20:05Z,Chicago Cubs at Los Angeles Dodgers,Los Angeles Dodgers,Chicago Cubs,0,4,0.0
+370316125,2017-03-16T20:10Z,Kansas City Royals at San Diego Padres,San Diego Padres,Kansas City Royals,3,13,0.0
+370316127,2017-03-16T20:10Z,Los Angeles Angels at Colorado Rockies,Colorado Rockies,Los Angeles Angels,7,8,0.0
+370316101,2017-03-16T22:05Z,Philadelphia Phillies at Baltimore Orioles,Baltimore Orioles,Philadelphia Phillies,2,2,0.5
+370316102,2017-03-16T22:05Z,Pittsburgh Pirates at Boston Red Sox,Boston Red Sox,Pittsburgh Pirates,4,3,1.0
+370317102,2017-03-17T17:05Z,Houston Astros at Boston Red Sox,Boston Red Sox,Houston Astros,2,6,0.0
+370317106,2017-03-17T17:05Z,New York Yankees at Detroit Tigers,Detroit Tigers,New York Yankees,0,3,0.0
+370317118,2017-03-17T17:05Z,Atlanta Braves at Houston Astros,Houston Astros,Atlanta Braves,5,4,1.0
+370317122,2017-03-17T17:05Z,Toronto Blue Jays at Philadelphia Phillies,Philadelphia Phillies,Toronto Blue Jays,5,7,0.0
+370317123,2017-03-17T17:05Z,Baltimore Orioles at Pittsburgh Pirates,Pittsburgh Pirates,Baltimore Orioles,6,8,0.0
+370317128,2017-03-17T17:05Z,Washington Nationals at Miami Marlins,Miami Marlins,Washington Nationals,5,5,0.5
+370317130,2017-03-17T17:05Z,Minnesota Twins at Tampa Bay Rays,Tampa Bay Rays,Minnesota Twins,2,4,0.0
+370317121,2017-03-17T17:10Z,St. Louis Cardinals at New York Mets,New York Mets,St. Louis Cardinals,16,2,1.0
+370317104,2017-03-17T19:05Z,Chicago Cubs at Chicago White Sox,Chicago White Sox,Chicago Cubs,3,7,0.0
+370317108,2017-03-17T20:05Z,Kansas City Royals at Milwaukee Brewers,Milwaukee Brewers,Kansas City Royals,5,8,0.0
+370317111,2017-03-17T20:05Z,Arizona Diamondbacks at Oakland Athletics,Oakland Athletics,Arizona Diamondbacks,2,3,0.0
+370317313,2017-03-17T20:05Z,Los Angeles Angels at Texas Rangers,Texas Rangers,Los Angeles Angels,6,5,1.0
+370317129,2017-03-17T20:10Z,Seattle Mariners at Arizona Diamondbacks,Arizona Diamondbacks,Seattle Mariners,5,9,0.0
+370317113,2017-03-18T00:05Z,Cleveland Indians at Texas Rangers,Texas Rangers,Cleveland Indians,2,3,0.0
+370317105,2017-03-18T01:05Z,Cincinnati Reds at Cleveland Indians,Cleveland Indians,Cincinnati Reds,3,7,0.0
+370317126,2017-03-18T01:05Z,Colorado Rockies at San Francisco Giants,San Francisco Giants,Colorado Rockies,1,5,0.0
+370317119,2017-03-18T02:05Z,Seattle Mariners at Los Angeles Dodgers,Los Angeles Dodgers,Seattle Mariners,2,5,0.0
+370317125,2017-03-18T02:10Z,Los Angeles Dodgers at San Diego Padres,San Diego Padres,Los Angeles Dodgers,3,2,1.0
+370318106,2017-03-18T17:05Z,Miami Marlins at Detroit Tigers,Detroit Tigers,Miami Marlins,5,4,1.0
+370318109,2017-03-18T17:05Z,Boston Red Sox at Minnesota Twins,Minnesota Twins,Boston Red Sox,5,12,0.0
+370318110,2017-03-18T17:05Z,Baltimore Orioles at New York Yankees,New York Yankees,Baltimore Orioles,4,5,0.0
+370318115,2017-03-18T17:05Z,Detroit Tigers at Atlanta Braves,Atlanta Braves,Detroit Tigers,5,7,0.0
+370318120,2017-03-18T17:05Z,Houston Astros at Washington Nationals,Washington Nationals,Houston Astros,4,5,0.0
+370318122,2017-03-18T17:05Z,Pittsburgh Pirates at Philadelphia Phillies,Philadelphia Phillies,Pittsburgh Pirates,8,13,0.0
+370318124,2017-03-18T17:05Z,New York Mets at St. Louis Cardinals,St. Louis Cardinals,New York Mets,4,5,0.0
+400933177,2017-03-18T17:05Z,Houston Astros at Washington Nationals,Washington Nationals,Houston Astros,4,5,0.0
+370318114,2017-03-18T17:07Z,Tampa Bay Rays at Toronto Blue Jays,Toronto Blue Jays,Tampa Bay Rays,2,3,0.0
+370318113,2017-03-18T19:05Z,Cleveland Indians at Texas Rangers,Texas Rangers,Cleveland Indians,8,4,1.0
+370318104,2017-03-18T20:05Z,Los Angeles Dodgers at Chicago White Sox,Chicago White Sox,Los Angeles Dodgers,7,13,0.0
+370318107,2017-03-18T20:05Z,Cleveland Indians at Kansas City Royals,Kansas City Royals,Cleveland Indians,4,4,0.5
+370318108,2017-03-18T20:05Z,Chicago Cubs at Milwaukee Brewers,Milwaukee Brewers,Chicago Cubs,13,7,1.0
+370318111,2017-03-18T20:05Z,San Diego Padres at Oakland Athletics,Oakland Athletics,San Diego Padres,2,1,1.0
+370318116,2017-03-18T20:05Z,Japan  at Chicago Cubs,Chicago Cubs,Japan,6,4,1.0
+370318117,2017-03-18T20:05Z,Texas Rangers at Cincinnati Reds,Cincinnati Reds,Texas Rangers,3,3,0.5
+370318103,2017-03-18T20:10Z,Colorado Rockies at Los Angeles Angels,Los Angeles Angels,Colorado Rockies,9,3,1.0
+370318112,2017-03-18T20:10Z,San Francisco Giants at Seattle Mariners,Seattle Mariners,San Francisco Giants,6,5,1.0
+370318129,2017-03-18T20:10Z,Netherlands  at Arizona Diamondbacks,Arizona Diamondbacks,Netherlands,12,5,1.0
+370319101,2017-03-19T17:05Z,Detroit Tigers at Baltimore Orioles,Baltimore Orioles,Detroit Tigers,1,7,0.0
+370319102,2017-03-19T17:05Z,Minnesota Twins at Boston Red Sox,Boston Red Sox,Minnesota Twins,8,13,0.0
+370319115,2017-03-19T17:05Z,St. Louis Cardinals at Atlanta Braves,Atlanta Braves,St. Louis Cardinals,2,5,0.0
+370319118,2017-03-19T17:05Z,New York Yankees at Houston Astros,Houston Astros,New York Yankees,4,6,0.0
+370319123,2017-03-19T17:05Z,Toronto Blue Jays at Pittsburgh Pirates,Pittsburgh Pirates,Toronto Blue Jays,11,11,0.5
+370319128,2017-03-19T17:05Z,Washington Nationals at Miami Marlins,Miami Marlins,Washington Nationals,4,10,0.0
+370319130,2017-03-19T17:05Z,Philadelphia Phillies at Tampa Bay Rays,Tampa Bay Rays,Philadelphia Phillies,8,0,1.0
+370319121,2017-03-19T17:10Z,Miami Marlins at New York Mets,New York Mets,Miami Marlins,5,7,0.0
+370319105,2017-03-19T20:05Z,Arizona Diamondbacks at Cleveland Indians,Cleveland Indians,Arizona Diamondbacks,4,4,0.5
+370319113,2017-03-19T20:05Z,Seattle Mariners at Texas Rangers,Texas Rangers,Seattle Mariners,3,2,1.0
+370319126,2017-03-19T20:05Z,Milwaukee Brewers at San Francisco Giants,San Francisco Giants,Milwaukee Brewers,4,6,0.0
+370319103,2017-03-19T20:10Z,Chicago White Sox at Los Angeles Angels,Los Angeles Angels,Chicago White Sox,2,11,0.0
+370319125,2017-03-19T20:10Z,Cincinnati Reds at San Diego Padres,San Diego Padres,Cincinnati Reds,4,9,0.0
+370319127,2017-03-19T20:10Z,Oakland Athletics at Colorado Rockies,Colorado Rockies,Oakland Athletics,9,2,1.0
+370319116,2017-03-20T02:05Z,Kansas City Royals at Chicago Cubs,Chicago Cubs,Kansas City Royals,2,6,0.0
+370320102,2017-03-20T17:05Z,Baltimore Orioles at Boston Red Sox,Boston Red Sox,Baltimore Orioles,7,4,1.0
+370320106,2017-03-20T17:05Z,New York Mets at Detroit Tigers,Detroit Tigers,New York Mets,5,1,1.0
+370320115,2017-03-20T17:05Z,Miami Marlins at Atlanta Braves,Atlanta Braves,Miami Marlins,3,9,0.0
+370320120,2017-03-20T17:05Z,New York Yankees at Washington Nationals,Washington Nationals,New York Yankees,3,9,0.0
+370320130,2017-03-20T17:05Z,Pittsburgh Pirates at Tampa Bay Rays,Tampa Bay Rays,Pittsburgh Pirates,4,5,0.0
+370320114,2017-03-20T17:07Z,Minnesota Twins at Toronto Blue Jays,Toronto Blue Jays,Minnesota Twins,2,8,0.0
+370320104,2017-03-20T20:05Z,San Francisco Giants at Chicago White Sox,Chicago White Sox,San Francisco Giants,2,3,0.0
+370320105,2017-03-20T20:05Z,Los Angeles Dodgers at Cleveland Indians,Cleveland Indians,Los Angeles Dodgers,14,5,1.0
+370320107,2017-03-20T20:05Z,Cincinnati Reds at Kansas City Royals,Kansas City Royals,Cincinnati Reds,6,10,0.0
+370320127,2017-03-20T20:10Z,Chicago Cubs at Colorado Rockies,Colorado Rockies,Chicago Cubs,6,9,0.0
+370320118,2017-03-20T22:05Z,St. Louis Cardinals at Houston Astros,Houston Astros,St. Louis Cardinals,6,12,0.0
+370320111,2017-03-21T02:05Z,Arizona Diamondbacks at Oakland Athletics,Oakland Athletics,Arizona Diamondbacks,6,10,0.0
+370320125,2017-03-21T02:10Z,Texas Rangers at San Diego Padres,San Diego Padres,Texas Rangers,3,2,1.0
+370321101,2017-03-21T17:05Z,Toronto Blue Jays at Baltimore Orioles,Baltimore Orioles,Toronto Blue Jays,2,5,0.0
+370321109,2017-03-21T17:05Z,Philadelphia Phillies at Minnesota Twins,Minnesota Twins,Philadelphia Phillies,5,9,0.0
+370321120,2017-03-21T17:05Z,Atlanta Braves at Washington Nationals,Washington Nationals,Atlanta Braves,3,1,1.0
+370321123,2017-03-21T17:05Z,Tampa Bay Rays at Pittsburgh Pirates,Pittsburgh Pirates,Tampa Bay Rays,5,4,1.0
+370321128,2017-03-21T17:05Z,Houston Astros at Miami Marlins,Miami Marlins,Houston Astros,1,2,0.0
+370321117,2017-03-21T20:05Z,Los Angeles Angels at Cincinnati Reds,Cincinnati Reds,Los Angeles Angels,1,9,0.0
+370321119,2017-03-21T20:05Z,Milwaukee Brewers at Los Angeles Dodgers,Los Angeles Dodgers,Milwaukee Brewers,4,5,0.0
+370321126,2017-03-21T20:05Z,San Diego Padres at San Francisco Giants,San Francisco Giants,San Diego Padres,5,3,1.0
+370321129,2017-03-21T20:10Z,Kansas City Royals at Arizona Diamondbacks,Arizona Diamondbacks,Kansas City Royals,4,2,1.0
+370321110,2017-03-21T22:35Z,Boston Red Sox at New York Yankees,New York Yankees,Boston Red Sox,2,4,0.0
+370321113,2017-03-22T01:05Z,Chicago White Sox at Texas Rangers,Texas Rangers,Chicago White Sox,4,3,1.0
+370321112,2017-03-22T02:10Z,Oakland Athletics at Seattle Mariners,Seattle Mariners,Oakland Athletics,5,8,0.0
+370322118,2017-03-22T17:05Z,Minnesota Twins at Houston Astros,Houston Astros,Minnesota Twins,8,4,1.0
+370322122,2017-03-22T17:05Z,New York Yankees at Philadelphia Phillies,Philadelphia Phillies,New York Yankees,3,7,0.0
+370322124,2017-03-22T17:05Z,Washington Nationals at St. Louis Cardinals,St. Louis Cardinals,Washington Nationals,6,1,1.0
+370322114,2017-03-22T17:07Z,Detroit Tigers at Toronto Blue Jays,Toronto Blue Jays,Detroit Tigers,5,4,1.0
+370322121,2017-03-22T17:10Z,Miami Marlins at New York Mets,New York Mets,Miami Marlins,9,15,0.0
+370322104,2017-03-22T20:05Z,Oakland Athletics at Chicago White Sox,Chicago White Sox,Oakland Athletics,3,5,0.0
+370322107,2017-03-22T20:05Z,San Diego Padres at Kansas City Royals,Kansas City Royals,San Diego Padres,6,2,1.0
+370322108,2017-03-22T20:05Z,San Francisco Giants at Milwaukee Brewers,Milwaukee Brewers,San Francisco Giants,4,6,0.0
+370322103,2017-03-22T20:10Z,Texas Rangers at Los Angeles Angels,Los Angeles Angels,Texas Rangers,4,7,0.0
+370322112,2017-03-22T20:10Z,Los Angeles Angels at Seattle Mariners,Seattle Mariners,Los Angeles Angels,8,9,0.0
+370322127,2017-03-22T20:10Z,Cleveland Indians at Colorado Rockies,Colorado Rockies,Cleveland Indians,10,2,1.0
+370322101,2017-03-22T22:05Z,Tampa Bay Rays at Baltimore Orioles,Baltimore Orioles,Tampa Bay Rays,7,4,1.0
+370322117,2017-03-23T01:05Z,Chicago Cubs at Cincinnati Reds,Cincinnati Reds,Chicago Cubs,5,2,1.0
+370323102,2017-03-23T17:05Z,Pittsburgh Pirates at Boston Red Sox,Boston Red Sox,Pittsburgh Pirates,10,7,1.0
+370323120,2017-03-23T17:05Z,New York Mets at Washington Nationals,Washington Nationals,New York Mets,1,0,1.0
+370323122,2017-03-23T17:05Z,Minnesota Twins at Philadelphia Phillies,Philadelphia Phillies,Minnesota Twins,2,4,0.0
+370323124,2017-03-23T17:05Z,Miami Marlins at St. Louis Cardinals,St. Louis Cardinals,Miami Marlins,5,3,1.0
+370323130,2017-03-23T17:05Z,New York Yankees at Tampa Bay Rays,Tampa Bay Rays,New York Yankees,5,5,0.5
+370323104,2017-03-23T20:05Z,Cincinnati Reds at Chicago White Sox,Chicago White Sox,Cincinnati Reds,4,2,1.0
+370323105,2017-03-23T20:05Z,Colorado Rockies at Cleveland Indians,Cleveland Indians,Colorado Rockies,8,3,1.0
+370323111,2017-03-23T20:05Z,Milwaukee Brewers at Oakland Athletics,Oakland Athletics,Milwaukee Brewers,15,5,1.0
+370323125,2017-03-23T20:10Z,Los Angeles Angels at San Diego Padres,San Diego Padres,Los Angeles Angels,6,2,1.0
+370323129,2017-03-23T20:10Z,Chicago Cubs at Arizona Diamondbacks,Arizona Diamondbacks,Chicago Cubs,5,5,0.5
+370323115,2017-03-23T22:05Z,Detroit Tigers at Atlanta Braves,Atlanta Braves,Detroit Tigers,2,1,1.0
+370323113,2017-03-23T23:05Z,Los Angeles Dodgers at Texas Rangers,Texas Rangers,Los Angeles Dodgers,2,10,0.0
+370323126,2017-03-24T01:05Z,Seattle Mariners at San Francisco Giants,San Francisco Giants,Seattle Mariners,2,9,0.0
+370324106,2017-03-24T17:05Z,Atlanta Braves at Detroit Tigers,Detroit Tigers,Atlanta Braves,3,2,1.0
+370324110,2017-03-24T17:05Z,Philadelphia Phillies at New York Yankees,New York Yankees,Philadelphia Phillies,3,2,1.0
+370324120,2017-03-24T17:05Z,St. Louis Cardinals at Washington Nationals,Washington Nationals,St. Louis Cardinals,1,3,0.0
+370324123,2017-03-24T17:05Z,Tampa Bay Rays at Pittsburgh Pirates,Pittsburgh Pirates,Tampa Bay Rays,4,0,1.0
+370324114,2017-03-24T17:07Z,Boston Red Sox at Toronto Blue Jays,Toronto Blue Jays,Boston Red Sox,3,2,1.0
+370324121,2017-03-24T17:10Z,Houston Astros at New York Mets,New York Mets,Houston Astros,0,2,0.0
+370324111,2017-03-24T20:05Z,Chicago White Sox at Oakland Athletics,Oakland Athletics,Chicago White Sox,8,2,1.0
+370324113,2017-03-24T20:05Z,San Diego Padres at Texas Rangers,Texas Rangers,San Diego Padres,4,3,1.0
+370324116,2017-03-24T20:05Z,Cleveland Indians at Chicago Cubs,Chicago Cubs,Cleveland Indians,2,4,0.0
+370324117,2017-03-24T20:05Z,Milwaukee Brewers at Cincinnati Reds,Cincinnati Reds,Milwaukee Brewers,12,11,1.0
+370324119,2017-03-24T20:05Z,Arizona Diamondbacks at Los Angeles Dodgers,Los Angeles Dodgers,Arizona Diamondbacks,13,6,1.0
+370324112,2017-03-24T20:10Z,Kansas City Royals at Seattle Mariners,Seattle Mariners,Kansas City Royals,4,3,1.0
+370324127,2017-03-24T20:10Z,San Francisco Giants at Colorado Rockies,Colorado Rockies,San Francisco Giants,5,6,0.0
+370324109,2017-03-24T23:05Z,Baltimore Orioles at Minnesota Twins,Minnesota Twins,Baltimore Orioles,5,5,0.5
+370324128,2017-03-24T23:05Z,Washington Nationals at Miami Marlins,Miami Marlins,Washington Nationals,3,0,1.0
+370324103,2017-03-25T00:10Z,Seattle Mariners at Los Angeles Angels,Los Angeles Angels,Seattle Mariners,4,0,1.0
+370325102,2017-03-25T17:05Z,Philadelphia Phillies at Boston Red Sox,Boston Red Sox,Philadelphia Phillies,3,3,0.5
+370325110,2017-03-25T17:05Z,Toronto Blue Jays at New York Yankees,New York Yankees,Toronto Blue Jays,6,5,1.0
+370325115,2017-03-25T17:05Z,New York Mets at Atlanta Braves,Atlanta Braves,New York Mets,0,3,0.0
+370325118,2017-03-25T17:05Z,Washington Nationals at Houston Astros,Houston Astros,Washington Nationals,1,4,0.0
+370325123,2017-03-25T17:05Z,Detroit Tigers at Pittsburgh Pirates,Pittsburgh Pirates,Detroit Tigers,5,4,1.0
+370325128,2017-03-25T17:05Z,St. Louis Cardinals at Miami Marlins,Miami Marlins,St. Louis Cardinals,1,0,1.0
+370325130,2017-03-25T17:05Z,Boston Red Sox at Tampa Bay Rays,Tampa Bay Rays,Boston Red Sox,5,7,0.0
+370325103,2017-03-25T20:05Z,Arizona Diamondbacks at Los Angeles Angels,Los Angeles Angels,Arizona Diamondbacks,7,4,1.0
+370325105,2017-03-25T20:05Z,Chicago White Sox at Cleveland Indians,Cleveland Indians,Chicago White Sox,7,10,0.0
+370325107,2017-03-25T20:05Z,Milwaukee Brewers at Kansas City Royals,Kansas City Royals,Milwaukee Brewers,1,0,1.0
+370325111,2017-03-25T20:05Z,Cincinnati Reds at Oakland Athletics,Oakland Athletics,Cincinnati Reds,6,11,0.0
+370325116,2017-03-25T20:05Z,Cincinnati Reds at Chicago Cubs,Chicago Cubs,Cincinnati Reds,11,7,1.0
+370325119,2017-03-25T20:05Z,Oakland Athletics at Los Angeles Dodgers,Los Angeles Dodgers,Oakland Athletics,11,6,1.0
+370325112,2017-03-25T20:10Z,Texas Rangers at Seattle Mariners,Seattle Mariners,Texas Rangers,3,1,1.0
+370325127,2017-03-25T20:10Z,Chicago Cubs at Colorado Rockies,Colorado Rockies,Chicago Cubs,7,4,1.0
+370325101,2017-03-25T22:05Z,Minnesota Twins at Baltimore Orioles,Baltimore Orioles,Minnesota Twins,6,3,1.0
+370325126,2017-03-25T22:05Z,San Diego Padres at San Francisco Giants,San Francisco Giants,San Diego Padres,8,7,1.0
+370326106,2017-03-26T17:05Z,Toronto Blue Jays at Detroit Tigers,Detroit Tigers,Toronto Blue Jays,3,4,0.0
+370326109,2017-03-26T17:05Z,Boston Red Sox at Minnesota Twins,Minnesota Twins,Boston Red Sox,2,7,0.0
+370326110,2017-03-26T17:05Z,Tampa Bay Rays at New York Yankees,New York Yankees,Tampa Bay Rays,7,4,1.0
+370326120,2017-03-26T17:05Z,Houston Astros at Washington Nationals,Washington Nationals,Houston Astros,1,5,0.0
+370326122,2017-03-26T17:05Z,Pittsburgh Pirates at Philadelphia Phillies,Philadelphia Phillies,Pittsburgh Pirates,6,3,1.0
+370326124,2017-03-26T17:05Z,Miami Marlins at St. Louis Cardinals,St. Louis Cardinals,Miami Marlins,3,0,1.0
+370326114,2017-03-26T17:07Z,Baltimore Orioles at Toronto Blue Jays,Toronto Blue Jays,Baltimore Orioles,1,2,0.0
+370326121,2017-03-26T17:10Z,Atlanta Braves at New York Mets,New York Mets,Atlanta Braves,8,2,1.0
+370326104,2017-03-26T20:05Z,San Francisco Giants at Chicago White Sox,Chicago White Sox,San Francisco Giants,4,3,1.0
+370326108,2017-03-26T20:05Z,Oakland Athletics at Milwaukee Brewers,Milwaukee Brewers,Oakland Athletics,1,11,0.0
+370326113,2017-03-26T20:05Z,Los Angeles Dodgers at Texas Rangers,Texas Rangers,Los Angeles Dodgers,3,2,1.0
+370326116,2017-03-26T20:05Z,Cincinnati Reds at Chicago Cubs,Chicago Cubs,Cincinnati Reds,22,4,1.0
+370326117,2017-03-26T20:05Z,Seattle Mariners at Cincinnati Reds,Cincinnati Reds,Seattle Mariners,6,7,0.0
+370326316,2017-03-26T20:05Z,San Diego Padres at Chicago Cubs,Chicago Cubs,San Diego Padres,4,9,0.0
+370326103,2017-03-26T20:10Z,Kansas City Royals at Los Angeles Angels,Los Angeles Angels,Kansas City Royals,7,8,0.0
+370326125,2017-03-26T20:10Z,Colorado Rockies at San Diego Padres,San Diego Padres,Colorado Rockies,1,4,0.0
+370326129,2017-03-26T20:10Z,Cleveland Indians at Arizona Diamondbacks,Arizona Diamondbacks,Cleveland Indians,5,6,0.0
+370327101,2017-03-27T17:05Z,Boston Red Sox at Baltimore Orioles,Baltimore Orioles,Boston Red Sox,9,11,0.0
+370327128,2017-03-27T17:05Z,New York Mets at Miami Marlins,Miami Marlins,New York Mets,0,5,0.0
+370327121,2017-03-27T17:10Z,Washington Nationals at New York Mets,New York Mets,Washington Nationals,0,6,0.0
+370327111,2017-03-27T20:05Z,Kansas City Royals at Oakland Athletics,Oakland Athletics,Kansas City Royals,3,10,0.0
+370327113,2017-03-27T20:05Z,Colorado Rockies at Texas Rangers,Texas Rangers,Colorado Rockies,6,5,1.0
+370327119,2017-03-27T20:05Z,Chicago White Sox at Los Angeles Dodgers,Los Angeles Dodgers,Chicago White Sox,2,5,0.0
+370327126,2017-03-27T20:05Z,Cincinnati Reds at San Francisco Giants,San Francisco Giants,Cincinnati Reds,14,2,1.0
+370327125,2017-03-27T20:10Z,Seattle Mariners at San Diego Padres,San Diego Padres,Seattle Mariners,12,2,1.0
+370327129,2017-03-27T20:10Z,Los Angeles Angels at Arizona Diamondbacks,Arizona Diamondbacks,Los Angeles Angels,2,4,0.0
+370327115,2017-03-27T22:05Z,Detroit Tigers at Atlanta Braves,Atlanta Braves,Detroit Tigers,11,3,1.0
+370327118,2017-03-27T22:05Z,St. Louis Cardinals at Houston Astros,Houston Astros,St. Louis Cardinals,2,3,0.0
+370327123,2017-03-27T22:05Z,Minnesota Twins at Pittsburgh Pirates,Pittsburgh Pirates,Minnesota Twins,4,1,1.0
+370327114,2017-03-27T22:07Z,Philadelphia Phillies at Toronto Blue Jays,Toronto Blue Jays,Philadelphia Phillies,1,7,0.0
+370327105,2017-03-28T01:10Z,Chicago Cubs at Cleveland Indians,Cleveland Indians,Chicago Cubs,4,3,1.0
+370328109,2017-03-28T17:05Z,Tampa Bay Rays at Minnesota Twins,Minnesota Twins,Tampa Bay Rays,1,0,1.0
+370328115,2017-03-28T17:05Z,Baltimore Orioles at Atlanta Braves,Atlanta Braves,Baltimore Orioles,4,5,0.0
+370328128,2017-03-28T17:05Z,Houston Astros at Miami Marlins,Miami Marlins,Houston Astros,3,7,0.0
+370328121,2017-03-28T17:10Z,St. Louis Cardinals at New York Mets,New York Mets,St. Louis Cardinals,3,3,0.5
+370328127,2017-03-28T19:10Z,Texas Rangers at Colorado Rockies,Colorado Rockies,Texas Rangers,3,4,0.0
+370328107,2017-03-28T20:05Z,Chicago White Sox at Kansas City Royals,Kansas City Royals,Chicago White Sox,7,4,1.0
+370328108,2017-03-28T20:05Z,Cleveland Indians at Milwaukee Brewers,Milwaukee Brewers,Cleveland Indians,13,12,1.0
+370328116,2017-03-28T20:05Z,San Francisco Giants at Chicago Cubs,Chicago Cubs,San Francisco Giants,7,10,0.0
+370328117,2017-03-28T20:05Z,Los Angeles Dodgers at Cincinnati Reds,Cincinnati Reds,Los Angeles Dodgers,9,3,1.0
+370328119,2017-03-28T20:05Z,San Diego Padres at Los Angeles Dodgers,Los Angeles Dodgers,San Diego Padres,3,1,1.0
+370328103,2017-03-28T20:10Z,Oakland Athletics at Los Angeles Angels,Los Angeles Angels,Oakland Athletics,14,3,1.0
+370328112,2017-03-28T20:10Z,Arizona Diamondbacks at Seattle Mariners,Seattle Mariners,Arizona Diamondbacks,6,15,0.0
+370328123,2017-03-28T22:05Z,Boston Red Sox at Pittsburgh Pirates,Pittsburgh Pirates,Boston Red Sox,2,9,0.0
+370328110,2017-03-28T22:35Z,Detroit Tigers at New York Yankees,New York Yankees,Detroit Tigers,3,6,0.0
+370328120,2017-03-28T22:35Z,Miami Marlins at Washington Nationals,Washington Nationals,Miami Marlins,2,4,0.0
+370328122,2017-03-28T22:35Z,Toronto Blue Jays at Philadelphia Phillies,Philadelphia Phillies,Toronto Blue Jays,4,10,0.0
+370329124,2017-03-29T16:05Z,Washington Nationals at St. Louis Cardinals,St. Louis Cardinals,Washington Nationals,6,2,1.0
+370329102,2017-03-29T17:05Z,Minnesota Twins at Boston Red Sox,Boston Red Sox,Minnesota Twins,3,5,0.0
+370329106,2017-03-29T17:05Z,Philadelphia Phillies at Detroit Tigers,Detroit Tigers,Philadelphia Phillies,2,8,0.0
+370329115,2017-03-29T17:05Z,New York Mets at Atlanta Braves,Atlanta Braves,New York Mets,2,2,0.5
+370329118,2017-03-29T17:05Z,Miami Marlins at Houston Astros,Houston Astros,Miami Marlins,5,5,0.5
+370329123,2017-03-29T17:05Z,Philadelphia Phillies at Pittsburgh Pirates,Pittsburgh Pirates,Philadelphia Phillies,2,8,0.0
+370329130,2017-03-29T17:05Z,Baltimore Orioles at Tampa Bay Rays,Tampa Bay Rays,Baltimore Orioles,15,6,1.0
+370329114,2017-03-29T17:07Z,New York Yankees at Toronto Blue Jays,Toronto Blue Jays,New York Yankees,1,3,0.0
+370329104,2017-03-29T19:05Z,San Diego Padres at Chicago White Sox,Chicago White Sox,San Diego Padres,9,9,0.5
+370329107,2017-03-29T19:05Z,Texas Rangers at Kansas City Royals,Kansas City Royals,Texas Rangers,0,0,0.5
+370329108,2017-03-29T19:05Z,Los Angeles Angels at Milwaukee Brewers,Milwaukee Brewers,Los Angeles Angels,6,8,0.0
+370329117,2017-03-29T19:05Z,Cleveland Indians at Cincinnati Reds,Cincinnati Reds,Cleveland Indians,6,9,0.0
+370329116,2017-03-29T20:05Z,Oakland Athletics at Chicago Cubs,Chicago Cubs,Oakland Athletics,15,11,1.0
+370329112,2017-03-29T20:10Z,Los Angeles Dodgers at Seattle Mariners,Seattle Mariners,Los Angeles Dodgers,3,3,0.5
+370330101,2017-03-30T17:05Z,Detroit Tigers at Baltimore Orioles,Baltimore Orioles,Detroit Tigers,3,7,0.0
+370330102,2017-03-30T17:05Z,Washington Nationals at Boston Red Sox,Boston Red Sox,Washington Nationals,8,1,1.0
+370330122,2017-03-30T17:05Z,New York Yankees at Philadelphia Phillies,Philadelphia Phillies,New York Yankees,1,14,0.0
+370330130,2017-03-30T17:05Z,Minnesota Twins at Tampa Bay Rays,Tampa Bay Rays,Minnesota Twins,6,6,0.5
+370330125,2017-03-30T19:10Z,Colorado Rockies at San Diego Padres,San Diego Padres,Colorado Rockies,5,10,0.0
+370330118,2017-03-31T00:10Z,Chicago Cubs at Houston Astros,Houston Astros,Chicago Cubs,8,6,1.0
+370330129,2017-03-31T01:40Z,Cleveland Indians at Arizona Diamondbacks,Arizona Diamondbacks,Cleveland Indians,6,3,1.0
+370330103,2017-03-31T02:07Z,Los Angeles Dodgers at Los Angeles Angels,Los Angeles Angels,Los Angeles Dodgers,3,2,1.0
+370330126,2017-03-31T02:15Z,Oakland Athletics at San Francisco Giants,San Francisco Giants,Oakland Athletics,3,0,1.0
+370331122,2017-03-31T17:05Z,Tampa Bay Rays at Philadelphia Phillies,Philadelphia Phillies,Tampa Bay Rays,7,7,0.5
+370331121,2017-03-31T17:10Z,Army  at New York Mets,New York Mets,Army,0,0,0.5
+370331118,2017-03-31T18:10Z,Chicago Cubs at Houston Astros,Houston Astros,Chicago Cubs,3,6,0.0
+370331120,2017-03-31T20:05Z,Boston Red Sox at Washington Nationals,Washington Nationals,Boston Red Sox,0,0,0.5
+370331128,2017-03-31T23:05Z,Detroit Tigers at Miami Marlins,Miami Marlins,Detroit Tigers,7,1,1.0
+370331114,2017-03-31T23:07Z,Pittsburgh Pirates at Toronto Blue Jays,Toronto Blue Jays,Pittsburgh Pirates,1,1,0.5
+370331115,2017-03-31T23:35Z,New York Yankees at Atlanta Braves,Atlanta Braves,New York Yankees,8,5,1.0
+370331113,2017-04-01T00:05Z,Kansas City Royals at Texas Rangers,Texas Rangers,Kansas City Royals,3,0,1.0
+370331108,2017-04-01T00:10Z,Chicago White Sox at Milwaukee Brewers,Milwaukee Brewers,Chicago White Sox,5,2,1.0
+370331112,2017-04-01T01:40Z,Colorado Rockies at Seattle Mariners,Seattle Mariners,Colorado Rockies,5,5,0.5
+370331129,2017-04-01T01:40Z,Cleveland Indians at Arizona Diamondbacks,Arizona Diamondbacks,Cleveland Indians,4,9,0.0
+370331103,2017-04-01T02:07Z,Los Angeles Dodgers at Los Angeles Angels,Los Angeles Angels,Los Angeles Dodgers,1,3,0.0
+370331126,2017-04-01T02:15Z,Oakland Athletics at San Francisco Giants,San Francisco Giants,Oakland Athletics,2,1,1.0

@@ -1,0 +1,545 @@
+id,date,event,home,away,hs,as,res
+122927,2020-09-21T09:30Z,French Open,Pedro Martinez,Daniel Masur,,,1.0
+123817,2020-09-21T13:00Z,French Open,J.J. Wolf,Roberto Marcora,,,0.0
+120353,2020-09-23T09:00Z,French Open,Dustin Brown,Alexandre Muller,,,1.0
+122913,2020-09-23T09:00Z,French Open,Pedro Martinez,Robin Haase,,,1.0
+120482,2020-09-24T11:00Z,French Open,Dustin Brown,Lorenzo Giustino,,,0.0
+122903,2020-09-24T11:00Z,French Open,Pedro Martinez,Ulises Blanch,,,1.0
+123757,2020-09-25T08:00Z,French Open,Daniel Elahi Galan,Henri Laaksonen,,,0.0
+104848,2020-09-27T09:00Z,French Open,Jannik Sinner,David Goffin,,,1.0
+104849,2020-09-27T09:05Z,French Open,Benjamin Bonzi,Emil Ruusuvuori,,,1.0
+104856,2020-09-27T09:05Z,French Open,Sebastian Korda,Andreas Seppi,,,1.0
+104886,2020-09-27T10:25Z,French Open,Tomas Machac,Taylor Fritz,,,0.0
+117670,2020-09-27T10:30Z,French Open,Elliot Benchetrit,John Isner,,,0.0
+104852,2020-09-27T10:45Z,French Open,Daniel Evans,Kei Nishikori,,,0.0
+104850,2020-09-27T10:50Z,French Open,Federico Coria,Jason Jung,,,1.0
+104884,2020-09-27T11:10Z,French Open,Jurij Rodionov,Jeremy Chardy,,,1.0
+104854,2020-09-27T11:35Z,French Open,Elliot Benchetrit,John Isner,,,0.0
+104893,2020-09-27T11:40Z,French Open,Pablo Andujar,Stefano Travaglia,,,0.0
+104844,2020-09-27T11:50Z,French Open,Marco Cecchinato,Alex de Minaur,,,1.0
+104885,2020-09-27T13:35Z,French Open,Borna Coric,Norbert Gombos,,,0.0
+104861,2020-09-27T14:00Z,French Open,Dominik Koepfer,Antoine Hoang,,,1.0
+104878,2020-09-27T14:25Z,French Open,Jordan Thompson,Radu Albot,,,0.0
+104841,2020-09-27T14:35Z,French Open,Federico Delbonis,Juan Ignacio Londero,,,0.0
+104843,2020-09-27T14:35Z,French Open,Benoit Paire,SoonWoo Kwon,,,1.0
+104859,2020-09-27T15:35Z,French Open,Stan Wawrinka,Andy Murray,,,1.0
+104860,2020-09-27T17:10Z,French Open,Miomir Kecmanovic,Diego Schwartzman,,,0.0
+104870,2020-09-27T17:40Z,French Open,Alexander Zverev,Dennis Novak,,,1.0
+122926,2020-09-28T09:00Z,French Open,Pedro Martinez,Aleksandar Vukic,,,1.0
+104883,2020-09-28T10:00Z,French Open,Corentin Moutet,Lorenzo Giustino,,,0.0
+104874,2020-09-28T10:45Z,French Open,Reilly Opelka,Jack Sock,,,0.0
+104865,2020-09-28T10:50Z,French Open,Yoshihito Nishioka,Felix Auger-Aliassime,,,1.0
+104872,2020-09-28T10:50Z,French Open,Marin Cilic,Dominic Thiem,,,0.0
+104866,2020-09-28T10:55Z,French Open,Hugo Gaston,Maxime Janvier,,,1.0
+104858,2020-09-28T11:00Z,French Open,Pedro Martinez,Aleksandar Vukic,,,1.0
+104868,2020-09-28T11:05Z,French Open,Michael Mmoh,Pierre-Hugues Herbert,,,0.0
+104846,2020-09-28T11:10Z,French Open,Fabio Fognini,Mikhail Kukushkin,,,0.0
+104863,2020-09-28T12:30Z,French Open,Tommy Paul,James Duckworth,,,1.0
+104880,2020-09-28T12:30Z,French Open,Emilio Gomez,Lorenzo Sonego,,,0.0
+104892,2020-09-28T12:55Z,French Open,Steven Diez,Mackenzie McDonald,,,0.0
+104840,2020-09-28T13:50Z,French Open,Jiri Vesely,Liam Broady,,,1.0
+123778,2020-09-28T14:00Z,French Open,Daniel Elahi Galan,Cameron Norrie,,,1.0
+104842,2020-09-28T14:35Z,French Open,Guido Pella,Salvatore Caruso,,,1.0
+104845,2020-09-28T14:35Z,French Open,Jan-Lennard Struff,Frances Tiafoe,,,1.0
+104864,2020-09-28T14:35Z,French Open,Casper Ruud,Yuichi Sugita,,,1.0
+104877,2020-09-28T15:10Z,French Open,Filip Krajinovic,Nikola Milojevic,,,0.0
+104881,2020-09-28T15:15Z,French Open,Gael Monfils,Alexander Bublik,,,0.0
+104891,2020-09-28T15:20Z,French Open,Egor Gerasimov,Rafael Nadal,,,0.0
+104876,2020-09-28T15:30Z,French Open,Aljaz Bedene,Arthur Rinderknech,,,1.0
+104871,2020-09-28T16:30Z,French Open,Tennys Sandgren,Hubert Hurkacz,,,1.0
+104873,2020-09-28T16:55Z,French Open,Daniel Elahi Galan,Cameron Norrie,,,1.0
+104890,2020-09-28T17:00Z,French Open,Adrian Mannarino,Albert Ramos-Vinolas,,,0.0
+104839,2020-09-28T17:50Z,French Open,Kamil Majchrzak,Karen Khachanov,,,0.0
+104851,2020-09-28T18:10Z,French Open,Daniil Medvedev,Marton Fucsovics,,,0.0
+104857,2020-09-28T18:15Z,French Open,Daniel Altmaier,Feliciano Lopez,,,1.0
+104847,2020-09-28T19:15Z,French Open,John Millman,Pablo Carreno Busta,,,0.0
+104853,2020-09-29T09:00Z,French Open,Vasek Pospisil,Matteo Berrettini,,,0.0
+104855,2020-09-29T09:00Z,French Open,Lloyd Harris,Alexei Popyrin,,,1.0
+123339,2020-09-29T09:00Z,French Open,Lloyd Harris,Alexei Popyrin,,,1.0
+104867,2020-09-29T09:05Z,French Open,Ugo Humbert,Marc Polmans,,,0.0
+104869,2020-09-29T09:05Z,French Open,Cristian Garin,Philipp Kohlschreiber,,,1.0
+104895,2020-09-29T10:15Z,French Open,Harold Mayot,Alejandro Davidovich Fokina,,,0.0
+104887,2020-09-29T10:25Z,French Open,Dusan Lajovic,Gianluca Mager,,,1.0
+104896,2020-09-29T11:05Z,French Open,Laslo Djere,Kevin Anderson,,,0.0
+104862,2020-09-29T11:40Z,French Open,Hugo Dellien,Ricardas Berankis,,,0.0
+123731,2020-09-29T12:30Z,French Open,Thiago Monteiro,Nikoloz Basilashvili,,,1.0
+104889,2020-09-29T13:55Z,French Open,Quentin Halys,Marcos Giron,,,0.0
+104894,2020-09-29T13:55Z,French Open,Sam Querrey,Andrey Rublev,,,0.0
+104879,2020-09-29T14:05Z,French Open,Novak Djokovic,Mikael Ymer,,,1.0
+104899,2020-09-29T14:50Z,French Open,Steve Johnson,Roberto Carballes Baena,,,0.0
+104837,2020-09-29T15:05Z,French Open,Yasutaka Uchiyama,Attila Balazs,,,0.0
+104875,2020-09-29T15:20Z,French Open,Henri Laaksonen,Pablo Cuevas,,,0.0
+104888,2020-09-29T15:25Z,French Open,Thiago Monteiro,Nikoloz Basilashvili,,,1.0
+104882,2020-09-29T15:40Z,French Open,Jaume Munar,Stefanos Tsitsipas,,,0.0
+104900,2020-09-29T16:05Z,French Open,Denis Shapovalov,Gilles Simon,,,1.0
+104838,2020-09-29T17:30Z,French Open,Roberto Bautista Agut,Richard Gasquet,,,1.0
+104897,2020-09-29T17:30Z,French Open,Gregoire Barrere,Grigor Dimitrov,,,0.0
+104898,2020-09-29T17:50Z,French Open,Andrej Martin,João Sousa,,,1.0
+104906,2020-09-30T09:40Z,French Open,Sebastian Korda,John Isner,,,1.0
+104916,2020-09-30T09:50Z,French Open,Radu Albot,Taylor Fritz,,,0.0
+104917,2020-09-30T09:50Z,French Open,Hugo Gaston,Yoshihito Nishioka,,,1.0
+104918,2020-09-30T09:50Z,French Open,Stan Wawrinka,Dominik Koepfer,,,1.0
+104919,2020-09-30T11:55Z,French Open,Lorenzo Giustino,Diego Schwartzman,,,0.0
+104920,2020-09-30T12:00Z,French Open,Norbert Gombos,Jurij Rodionov,,,1.0
+104925,2020-09-30T12:15Z,French Open,Jack Sock,Dominic Thiem,,,0.0
+104904,2020-09-30T12:25Z,French Open,Mackenzie McDonald,Rafael Nadal,,,0.0
+104901,2020-09-30T12:50Z,French Open,Mikhail Kukushkin,Pedro Martinez,,,0.0
+104905,2020-09-30T13:25Z,French Open,Kei Nishikori,Stefano Travaglia,,,0.0
+104949,2020-09-30T13:35Z,French Open,Alexander Bublik,Lorenzo Sonego,,,0.0
+104926,2020-09-30T13:50Z,French Open,Casper Ruud,Tommy Paul,,,1.0
+104930,2020-09-30T14:20Z,French Open,Benoit Paire,Federico Coria,,,0.0
+104923,2020-09-30T14:25Z,French Open,Alexander Zverev,Pierre-Hugues Herbert,,,1.0
+104921,2020-09-30T15:20Z,French Open,Juan Ignacio Londero,Marco Cecchinato,,,0.0
+104902,2020-09-30T17:35Z,French Open,Benjamin Bonzi,Jannik Sinner,,,0.0
+104945,2020-10-01T09:10Z,French Open,Denis Shapovalov,Roberto Carballes Baena,,,0.0
+104954,2020-10-01T09:15Z,French Open,Cristian Garin,Marc Polmans,,,1.0
+104939,2020-10-01T09:20Z,French Open,Marcos Giron,Thiago Monteiro,,,0.0
+104940,2020-10-01T09:20Z,French Open,Marton Fucsovics,Albert Ramos-Vinolas,,,1.0
+104953,2020-10-01T09:20Z,French Open,Jiri Vesely,Karen Khachanov,,,0.0
+104958,2020-10-01T10:35Z,French Open,Jan-Lennard Struff,Daniel Altmaier,,,0.0
+104944,2020-10-01T10:55Z,French Open,Andrej Martin,Grigor Dimitrov,,,0.0
+123775,2020-10-01T12:00Z,French Open,Daniel Elahi Galan,Tennys Sandgren,,,1.0
+104955,2020-10-01T12:30Z,French Open,Daniel Elahi Galan,Tennys Sandgren,,,1.0
+104960,2020-10-01T12:30Z,French Open,Guido Pella,Pablo Carreno Busta,,,0.0
+123278,2020-10-01T12:30Z,French Open,Lloyd Harris,Matteo Berrettini,,,0.0
+104956,2020-10-01T12:40Z,French Open,Novak Djokovic,Ricardas Berankis,,,1.0
+104942,2020-10-01T13:10Z,French Open,Nikola Milojevic,Aljaz Bedene,,,0.0
+104951,2020-10-01T14:30Z,French Open,Pablo Cuevas,Stefanos Tsitsipas,,,0.0
+104938,2020-10-01T14:55Z,French Open,Dusan Lajovic,Kevin Anderson,,,0.0
+104962,2020-10-01T15:15Z,French Open,Roberto Bautista Agut,Attila Balazs,,,1.0
+104946,2020-10-01T15:45Z,French Open,Alejandro Davidovich Fokina,Andrey Rublev,,,0.0
+104941,2020-10-01T16:05Z,French Open,Lloyd Harris,Matteo Berrettini,,,0.0
+104933,2020-10-02T09:05Z,French Open,Casper Ruud,Dominic Thiem,,,0.0
+122931,2020-10-02T10:30Z,French Open,Pedro Martinez,Sebastian Korda,,,0.0
+104936,2020-10-02T10:55Z,French Open,Pedro Martinez,Sebastian Korda,,,0.0
+104957,2020-10-02T10:55Z,French Open,Lorenzo Sonego,Taylor Fritz,,,1.0
+104934,2020-10-02T11:20Z,French Open,Stan Wawrinka,Hugo Gaston,,,0.0
+104937,2020-10-02T15:05Z,French Open,Federico Coria,Jannik Sinner,,,0.0
+104943,2020-10-02T15:35Z,French Open,Stefano Travaglia,Rafael Nadal,,,0.0
+104935,2020-10-02T16:50Z,French Open,Norbert Gombos,Diego Schwartzman,,,0.0
+104932,2020-10-02T17:20Z,French Open,Alexander Zverev,Marco Cecchinato,,,1.0
+104908,2020-10-03T09:00Z,French Open,Daniel Altmaier,Matteo Berrettini,,,1.0
+104909,2020-10-03T09:05Z,French Open,Roberto Bautista Agut,Pablo Carreno Busta,,,0.0
+104963,2020-10-03T09:10Z,French Open,Kevin Anderson,Andrey Rublev,,,0.0
+104907,2020-10-03T11:10Z,French Open,Marton Fucsovics,Thiago Monteiro,,,1.0
+123519,2020-10-03T12:30Z,French Open,Roberto Carballes Baena,Grigor Dimitrov,,,0.0
+104959,2020-10-03T12:55Z,French Open,Aljaz Bedene,Stefanos Tsitsipas,,,0.0
+104961,2020-10-03T13:35Z,French Open,Roberto Carballes Baena,Grigor Dimitrov,,,0.0
+104910,2020-10-03T13:50Z,French Open,Cristian Garin,Karen Khachanov,,,0.0
+104903,2020-10-03T16:20Z,French Open,Novak Djokovic,Daniel Elahi Galan,,,1.0
+104911,2020-10-04T10:30Z,French Open,Sebastian Korda,Rafael Nadal,,,0.0
+104912,2020-10-04T11:05Z,French Open,Alexander Zverev,Jannik Sinner,,,0.0
+104913,2020-10-04T14:20Z,French Open,Hugo Gaston,Dominic Thiem,,,0.0
+104914,2020-10-04T14:30Z,French Open,Lorenzo Sonego,Diego Schwartzman,,,0.0
+104948,2020-10-05T09:05Z,French Open,Marton Fucsovics,Andrey Rublev,,,0.0
+104947,2020-10-05T10:50Z,French Open,Grigor Dimitrov,Stefanos Tsitsipas,,,0.0
+104952,2020-10-05T13:45Z,French Open,Novak Djokovic,Karen Khachanov,,,1.0
+104950,2020-10-05T18:40Z,French Open,Pablo Carreno Busta,Daniel Altmaier,,,1.0
+104922,2020-10-06T13:25Z,French Open,Diego Schwartzman,Dominic Thiem,,,1.0
+104931,2020-10-06T20:30Z,French Open,Jannik Sinner,Rafael Nadal,,,0.0
+104924,2020-10-07T14:15Z,French Open,Andrey Rublev,Stefanos Tsitsipas,,,0.0
+104915,2020-10-07T16:35Z,French Open,Novak Djokovic,Pablo Carreno Busta,,,1.0
+104928,2020-10-09T12:55Z,French Open,Diego Schwartzman,Rafael Nadal,,,0.0
+104929,2020-10-09T16:35Z,French Open,Novak Djokovic,Stefanos Tsitsipas,,,1.0
+104927,2020-10-11T13:10Z,French Open,Novak Djokovic,Rafael Nadal,,,0.0
+123846,2020-09-23T09:30Z,French Open,Camila Osorio,Mayar Sherif,,,0.0
+104718,2020-09-27T09:05Z,French Open,Kamilla Rakhimova,Shelby Rogers,,,1.0
+104722,2020-09-27T09:05Z,French Open,Ajla Tomljanovic,Maria Sakkari,,,0.0
+104728,2020-09-27T09:05Z,French Open,Anna Blinkova,Astra Sharma,,,0.0
+104733,2020-09-27T09:05Z,French Open,Marie Bouzkova,Kaia Kanepi,,,0.0
+104736,2020-09-27T09:05Z,French Open,Victoria Azarenka,Danka Kovinic,,,1.0
+104729,2020-09-27T09:10Z,French Open,Maddison Inglis,Ekaterina Alexandrova,,,0.0
+104730,2020-09-27T09:10Z,French Open,Margarita Gasparyan,Elise Mertens,,,0.0
+124005,2020-09-27T10:30Z,French Open,Anna Karolina Schmiedlova,Venus Williams,,,1.0
+104712,2020-09-27T11:20Z,French Open,Simona Halep,Sara Sorribes Tormo,,,1.0
+104731,2020-09-27T12:05Z,French Open,Aliaksandra Sasnovich,Anna-Lena Friedsam,,,1.0
+104738,2020-09-27T12:10Z,French Open,Anna Karolina Schmiedlova,Venus Williams,,,1.0
+104732,2020-09-27T13:05Z,French Open,Anett Kontaveit,Caroline Garcia,,,0.0
+104710,2020-09-27T14:25Z,French Open,Irina-Camelia Begu,Jil Teichmann,,,1.0
+104734,2020-09-27T14:50Z,French Open,Barbora Strycova,Varvara Lepchenko,,,1.0
+104721,2020-09-27T15:05Z,French Open,Camila Giorgi,Martina Trevisan,,,0.0
+104719,2020-09-27T16:20Z,French Open,Johanna Konta,Coco Gauff,,,0.0
+104735,2020-09-27T16:25Z,French Open,Kirsten Flipkens,Yulia Putintseva,,,0.0
+104737,2020-09-27T16:30Z,French Open,Greet Minnen,Nadia Podoroska,,,0.0
+104717,2020-09-27T16:55Z,French Open,Dayana Yastremska,Daria Saville,,,0.0
+104713,2020-09-27T17:00Z,French Open,Anna Kalinskaya,Eugenie Bouchard,,,0.0
+104739,2020-09-27T17:10Z,French Open,Nina Stojanovic,Barbora Krejcikova,,,0.0
+104811,2020-09-28T09:00Z,French Open,Petra Kvitova,Oceane Dodin,,,1.0
+104711,2020-09-28T10:45Z,French Open,Catherine Bellis,Bernarda Pera,,,0.0
+104724,2020-09-28T10:50Z,French Open,Monica Puig,Sara Errani,,,0.0
+104727,2020-09-28T10:50Z,French Open,Katarina Zavatska,Kiki Bertens,,,0.0
+104810,2020-09-28T10:55Z,French Open,Aliona Bolsova,Jasmine Paolini,,,0.0
+104723,2020-09-28T11:00Z,French Open,Katerina Siniakova,Lauren Davis,,,1.0
+104793,2020-09-28T11:00Z,French Open,Tsvetana Pironkova,Andrea Petkovic,,,1.0
+104777,2020-09-28T12:05Z,French Open,Christina McHale,Karolina Muchova,,,1.0
+104720,2020-09-28T12:40Z,French Open,Svetlana Kuznetsova,Anastasia Pavlyuchenkova,,,0.0
+104714,2020-09-28T13:15Z,French Open,Tamara Korpatsch,Amanda Anisimova,,,0.0
+104725,2020-09-28T13:15Z,French Open,Elina Svitolina,Varvara Gracheva,,,1.0
+104792,2020-09-28T13:15Z,French Open,Kristie Ahn,Serena Williams,,,0.0
+104715,2020-09-28T13:40Z,French Open,Iga Swiatek,Marketa Vondrousova,,,1.0
+104716,2020-09-28T13:40Z,French Open,Barbara Haas,Su-Wei Hsieh,,,0.0
+104726,2020-09-28T13:45Z,French Open,Renata Zarazua,Elsa Jacquemot,,,1.0
+104772,2020-09-28T14:25Z,French Open,Tamara Zidansek,Garbine Muguruza,,,0.0
+104812,2020-09-28T15:05Z,French Open,Zhang Shuai,Madison Keys,,,1.0
+104778,2020-09-28T16:00Z,French Open,Stefanie Voegele,Patricia Maria Tig,,,0.0
+104813,2020-09-28T17:50Z,French Open,Chloe Paquet,Alize Cornet,,,0.0
+104815,2020-09-28T17:50Z,French Open,Angelique Kerber,Kaja Juvan,,,0.0
+104808,2020-09-28T18:40Z,French Open,Leylah Fernandez,Magda Linette,,,1.0
+104809,2020-09-28T18:45Z,French Open,Diane Parry,Polona Hercog,,,0.0
+104773,2020-09-28T18:50Z,French Open,Viktoria Hruncakova,Kristyna Pliskova,,,0.0
+104814,2020-09-28T19:10Z,French Open,Arantxa Rus,Clara Burel,,,0.0
+104763,2020-09-29T09:00Z,French Open,Nao Hibino,Marta Kostyuk,,,1.0
+104807,2020-09-29T09:00Z,French Open,Alison Van Uytvanck,Rebecca Peterson,,,1.0
+104760,2020-09-29T09:05Z,French Open,Monica Niculescu,Danielle Collins,,,0.0
+104761,2020-09-29T09:05Z,French Open,Jennifer Brady,Clara Tauson,,,0.0
+104797,2020-09-29T09:05Z,French Open,Jelena Ostapenko,Madison Brengle,,,1.0
+104804,2020-09-29T09:05Z,French Open,Mayar Sherif,Karolina Pliskova,,,0.0
+104806,2020-09-29T09:05Z,French Open,Timea Babos,Ana Bogdan,,,0.0
+104771,2020-09-29T10:50Z,French Open,Elena Rybakina,Sorana Cirstea,,,1.0
+104776,2020-09-29T11:15Z,French Open,Donna Vekic,Irina Bara,,,0.0
+104805,2020-09-29T11:15Z,French Open,Liudmila Samsonova,Sofia Kenin,,,0.0
+104796,2020-09-29T11:35Z,French Open,Laura Siegemund,Kristina Mladenovic,,,1.0
+104762,2020-09-29T13:50Z,French Open,Zarina Diyas,Ons Jabeur,,,0.0
+104779,2020-09-29T14:00Z,French Open,Fiona Ferro,Heather Watson,,,1.0
+104798,2020-09-29T15:30Z,French Open,Kateryna Baindl,Paula Badosa,,,0.0
+104800,2020-09-29T16:00Z,French Open,Julia Goerges,Alison Riske-Amritraj,,,1.0
+104799,2020-09-29T16:05Z,French Open,Sloane Stephens,Vitalia Diatchenko,,,1.0
+104795,2020-09-29T17:50Z,French Open,Petra Martic,Misaki Doi,,,1.0
+104790,2020-09-29T18:30Z,French Open,Daria Kasatkina,Harmony Tan,,,1.0
+104791,2020-09-29T19:15Z,French Open,Aryna Sabalenka,Jessica Pegula,,,1.0
+104794,2020-09-29T19:55Z,French Open,Pauline Parmentier,Veronika Kudermetova,,,0.0
+104830,2020-09-30T09:05Z,French Open,Elina Svitolina,Renata Zarazua,,,1.0
+104833,2020-09-30T09:45Z,French Open,Nadia Podoroska,Yulia Putintseva,,,1.0
+104818,2020-09-30T09:50Z,French Open,Barbora Strycova,Barbora Krejcikova,,,0.0
+104829,2020-09-30T09:50Z,French Open,Astra Sharma,Ekaterina Alexandrova,,,0.0
+104831,2020-09-30T09:50Z,French Open,Sara Errani,Kiki Bertens,,,0.0
+104834,2020-09-30T09:50Z,French Open,Victoria Azarenka,Anna Karolina Schmiedlova,,,0.0
+104817,2020-09-30T11:00Z,French Open,Tsvetana Pironkova,Serena Williams,,,1.0
+104801,2020-09-30T11:05Z,French Open,Daria Saville,Eugenie Bouchard,,,0.0
+104802,2020-09-30T11:05Z,French Open,Bernarda Pera,Amanda Anisimova,,,0.0
+104832,2020-09-30T12:05Z,French Open,Anastasia Pavlyuchenkova,Katerina Siniakova,,,0.0
+104826,2020-09-30T12:30Z,French Open,Su-Wei Hsieh,Iga Swiatek,,,0.0
+104827,2020-09-30T13:45Z,French Open,Kamilla Rakhimova,Maria Sakkari,,,0.0
+104835,2020-09-30T13:55Z,French Open,Kaia Kanepi,Elise Mertens,,,0.0
+120511,2020-09-30T14:00Z,French Open,Coco Gauff,Martina Trevisan,,,0.0
+104803,2020-09-30T15:00Z,French Open,Simona Halep,Irina-Camelia Begu,,,1.0
+104836,2020-09-30T16:45Z,French Open,Caroline Garcia,Aliaksandra Sasnovich,,,1.0
+104828,2020-09-30T17:10Z,French Open,Coco Gauff,Martina Trevisan,,,0.0
+104754,2020-10-01T09:00Z,French Open,Jelena Ostapenko,Karolina Pliskova,,,1.0
+104753,2020-10-01T09:10Z,French Open,Petra Kvitova,Jasmine Paolini,,,1.0
+104821,2020-10-01T09:10Z,French Open,Clara Tauson,Danielle Collins,,,0.0
+104823,2020-10-01T10:30Z,French Open,Ana Bogdan,Sofia Kenin,,,0.0
+104816,2020-10-01T10:40Z,French Open,Aryna Sabalenka,Daria Kasatkina,,,1.0
+104752,2020-10-01T11:25Z,French Open,Polona Hercog,Leylah Fernandez,,,0.0
+104755,2020-10-01T12:35Z,French Open,Sloane Stephens,Paula Badosa,,,0.0
+104825,2020-10-01T13:00Z,French Open,Patricia Maria Tig,Christina McHale,,,1.0
+104822,2020-10-01T13:10Z,French Open,Nao Hibino,Ons Jabeur,,,0.0
+104751,2020-10-01T13:15Z,French Open,Kaja Juvan,Clara Burel,,,0.0
+104756,2020-10-01T13:25Z,French Open,Laura Siegemund,Julia Goerges,,,1.0
+104750,2020-10-01T13:35Z,French Open,Alize Cornet,Zhang Shuai,,,0.0
+104824,2020-10-01T14:00Z,French Open,Irina Bara,Alison Van Uytvanck,,,1.0
+104757,2020-10-01T14:30Z,French Open,Petra Martic,Veronika Kudermetova,,,1.0
+104820,2020-10-01T14:35Z,French Open,Kristyna Pliskova,Garbine Muguruza,,,0.0
+104819,2020-10-01T16:20Z,French Open,Elena Rybakina,Fiona Ferro,,,0.0
+104743,2020-10-02T09:10Z,French Open,Elina Svitolina,Ekaterina Alexandrova,,,1.0
+104758,2020-10-02T09:20Z,French Open,Eugenie Bouchard,Iga Swiatek,,,0.0
+123980,2020-10-02T10:30Z,French Open,Anna Karolina Schmiedlova,Nadia Podoroska,,,0.0
+104741,2020-10-02T10:50Z,French Open,Anna Karolina Schmiedlova,Nadia Podoroska,,,0.0
+104759,2020-10-02T11:45Z,French Open,Simona Halep,Amanda Anisimova,,,1.0
+104742,2020-10-02T12:55Z,French Open,Caroline Garcia,Elise Mertens,,,1.0
+104748,2020-10-02T15:30Z,French Open,Barbora Krejcikova,Tsvetana Pironkova,,,1.0
+104740,2020-10-02T17:10Z,French Open,Martina Trevisan,Maria Sakkari,,,1.0
+104744,2020-10-02T17:35Z,French Open,Katerina Siniakova,Kiki Bertens,,,0.0
+104780,2020-10-03T11:00Z,French Open,Clara Burel,Zhang Shuai,,,0.0
+104747,2020-10-03T11:30Z,French Open,Aryna Sabalenka,Ons Jabeur,,,0.0
+104749,2020-10-03T11:40Z,French Open,Irina Bara,Sofia Kenin,,,0.0
+104745,2020-10-03T13:10Z,French Open,Fiona Ferro,Patricia Maria Tig,,,1.0
+104785,2020-10-03T13:45Z,French Open,Petra Martic,Laura Siegemund,,,0.0
+104781,2020-10-03T14:50Z,French Open,Petra Kvitova,Leylah Fernandez,,,1.0
+104784,2020-10-03T15:25Z,French Open,Paula Badosa,Jelena Ostapenko,,,1.0
+104746,2020-10-03T17:00Z,French Open,Danielle Collins,Garbine Muguruza,,,1.0
+104782,2020-10-04T09:00Z,French Open,Martina Trevisan,Kiki Bertens,,,1.0
+104783,2020-10-04T09:00Z,French Open,Simona Halep,Iga Swiatek,,,0.0
+104788,2020-10-04T12:00Z,French Open,Nadia Podoroska,Barbora Krejcikova,,,1.0
+104789,2020-10-04T12:50Z,French Open,Elina Svitolina,Caroline Garcia,,,1.0
+104766,2020-10-05T09:05Z,French Open,Petra Kvitova,Zhang Shuai,,,1.0
+104765,2020-10-05T09:10Z,French Open,Laura Siegemund,Paula Badosa,,,1.0
+104786,2020-10-05T16:35Z,French Open,Fiona Ferro,Sofia Kenin,,,0.0
+104787,2020-10-06T09:00Z,French Open,Ons Jabeur,Danielle Collins,,,0.0
+104770,2020-10-06T11:25Z,French Open,Elina Svitolina,Nadia Podoroska,,,0.0
+104764,2020-10-06T18:55Z,French Open,Iga Swiatek,Martina Trevisan,,,1.0
+104768,2020-10-07T10:05Z,French Open,Petra Kvitova,Laura Siegemund,,,1.0
+104769,2020-10-07T11:50Z,French Open,Danielle Collins,Sofia Kenin,,,0.0
+104767,2020-10-08T13:05Z,French Open,Iga Swiatek,Nadia Podoroska,,,1.0
+104775,2020-10-08T14:40Z,French Open,Sofia Kenin,Petra Kvitova,,,1.0
+104774,2020-10-10T13:05Z,French Open,Iga Swiatek,Sofia Kenin,,,1.0
+123811,2020-10-10T11:00Z,St Petersburg Open,J.J. Wolf,Alexey Vatutin,,,1.0
+123824,2020-10-11T11:30Z,St Petersburg Open,J.J. Wolf,Alen Avidzba,,,1.0
+105091,2020-10-12T10:05Z,St Petersburg Open,Tennys Sandgren,Aslan Karatsev,,,0.0
+122261,2020-10-12T11:00Z,St Petersburg Open,Taylor Fritz,Cameron Norrie,,,0.0
+105098,2020-10-12T11:05Z,St Petersburg Open,Taylor Fritz,Cameron Norrie,,,0.0
+105097,2020-10-12T12:35Z,St Petersburg Open,Alexander Bublik,Mackenzie McDonald,,,1.0
+105106,2020-10-12T15:00Z,St Petersburg Open,Evgeny Donskoy,Egor Gerasimov,,,1.0
+105104,2020-10-12T16:55Z,St Petersburg Open,Stan Wawrinka,Daniel Evans,,,1.0
+105103,2020-10-13T10:00Z,St Petersburg Open,Adrian Mannarino,Ilya Ivashka,,,0.0
+105090,2020-10-13T10:05Z,St Petersburg Open,Feliciano Lopez,Borna Coric,,,0.0
+123827,2020-10-13T11:30Z,St Petersburg Open,J.J. Wolf,Milos Raonic,,,0.0
+105100,2020-10-13T12:05Z,St Petersburg Open,J.J. Wolf,Milos Raonic,,,0.0
+105101,2020-10-13T12:20Z,St Petersburg Open,Mikhail Kukushkin,Miomir Kecmanovic,,,0.0
+105093,2020-10-13T14:00Z,St Petersburg Open,Karen Khachanov,James Duckworth,,,1.0
+105099,2020-10-13T15:40Z,St Petersburg Open,Vasek Pospisil,Andrey Rublev,,,0.0
+105092,2020-10-14T10:00Z,St Petersburg Open,Nino Serdarusic,Reilly Opelka,,,0.0
+105105,2020-10-14T10:05Z,St Petersburg Open,Viktor Troicki,Denis Shapovalov,,,0.0
+105108,2020-10-14T11:25Z,St Petersburg Open,Cameron Norrie,Miomir Kecmanovic,,,1.0
+105094,2020-10-14T11:50Z,St Petersburg Open,Roman Safiullin,Emilio Gomez,,,1.0
+105096,2020-10-14T13:20Z,St Petersburg Open,Pavel Kotov,Ugo Humbert,,,0.0
+105095,2020-10-14T15:55Z,St Petersburg Open,Daniil Medvedev,Richard Gasquet,,,1.0
+105109,2020-10-14T17:50Z,St Petersburg Open,Stan Wawrinka,Evgeny Donskoy,,,1.0
+105107,2020-10-15T10:00Z,St Petersburg Open,Roman Safiullin,Borna Coric,,,0.0
+105112,2020-10-15T10:05Z,St Petersburg Open,Ilya Ivashka,Denis Shapovalov,,,0.0
+105113,2020-10-15T11:25Z,St Petersburg Open,Ugo Humbert,Andrey Rublev,,,0.0
+105102,2020-10-15T14:00Z,St Petersburg Open,Daniil Medvedev,Reilly Opelka,,,0.0
+105110,2020-10-15T16:15Z,St Petersburg Open,Karen Khachanov,Aslan Karatsev,,,1.0
+105114,2020-10-15T18:45Z,St Petersburg Open,Alexander Bublik,Milos Raonic,,,0.0
+105119,2020-10-16T10:05Z,St Petersburg Open,Cameron Norrie,Andrey Rublev,,,0.0
+105116,2020-10-16T11:25Z,St Petersburg Open,Stan Wawrinka,Denis Shapovalov,,,0.0
+105111,2020-10-16T15:00Z,St Petersburg Open,Reilly Opelka,Borna Coric,,,0.0
+105117,2020-10-16T15:35Z,St Petersburg Open,Karen Khachanov,Milos Raonic,,,0.0
+105115,2020-10-17T11:05Z,St Petersburg Open,Andrey Rublev,Denis Shapovalov,,,1.0
+105118,2020-10-17T13:35Z,St Petersburg Open,Borna Coric,Milos Raonic,,,1.0
+105120,2020-10-18T13:35Z,St Petersburg Open,Borna Coric,Andrey Rublev,,,0.0
+123288,2020-10-10T13:00Z,Bett1HULKS Indoors,Lloyd Harris,Peter Gojowczyk,,,1.0
+123340,2020-10-11T10:30Z,Bett1HULKS Indoors,Lloyd Harris,Marcos Giron,,,1.0
+105131,2020-10-12T12:00Z,Bett1HULKS Indoors,Jan-Lennard Struff,Oscar Otte,,,0.0
+105128,2020-10-12T13:40Z,Bett1HULKS Indoors,John Millman,Mischa Zverev,,,0.0
+105127,2020-10-12T14:05Z,Bett1HULKS Indoors,Radu Albot,Pierre-Hugues Herbert,,,1.0
+105130,2020-10-12T15:30Z,Bett1HULKS Indoors,Hubert Hurkacz,Marc Polmans,,,1.0
+105125,2020-10-12T16:20Z,Bett1HULKS Indoors,Steve Johnson,Filip Krajinovic,,,1.0
+105123,2020-10-12T17:20Z,Bett1HULKS Indoors,Jordan Thompson,Dennis Novak,,,0.0
+105129,2020-10-13T12:05Z,Bett1HULKS Indoors,Daniel Altmaier,Henri Laaksonen,,,0.0
+105136,2020-10-13T12:05Z,Bett1HULKS Indoors,Gilles Simon,Marton Fucsovics,,,1.0
+105124,2020-10-13T13:35Z,Bett1HULKS Indoors,Emil Ruusuvuori,Alejandro Davidovich Fokina,,,0.0
+105126,2020-10-13T15:15Z,Bett1HULKS Indoors,Marcos Giron,Marin Cilic,,,0.0
+105121,2020-10-13T18:00Z,Bett1HULKS Indoors,Kyle Edmund,Lloyd Harris,,,0.0
+105122,2020-10-13T20:20Z,Bett1HULKS Indoors,Fernando Verdasco,Andy Murray,,,1.0
+105140,2020-10-14T12:00Z,Bett1HULKS Indoors,Oscar Otte,Radu Albot,,,0.0
+105139,2020-10-14T14:50Z,Bett1HULKS Indoors,Benoit Paire,Dennis Novak,,,0.0
+105142,2020-10-14T16:20Z,Bett1HULKS Indoors,Hubert Hurkacz,Mischa Zverev,,,1.0
+123279,2020-10-14T17:00Z,Bett1HULKS Indoors,Lloyd Harris,Steve Johnson,,,1.0
+105137,2020-10-14T18:05Z,Bett1HULKS Indoors,Lloyd Harris,Steve Johnson,,,1.0
+105132,2020-10-15T12:00Z,Bett1HULKS Indoors,Alexander Zverev,Fernando Verdasco,,,1.0
+105141,2020-10-15T13:25Z,Bett1HULKS Indoors,Alejandro Davidovich Fokina,Marin Cilic,,,1.0
+105143,2020-10-15T16:05Z,Bett1HULKS Indoors,Henri Laaksonen,Felix Auger-Aliassime,,,0.0
+105144,2020-10-15T17:45Z,Bett1HULKS Indoors,Gilles Simon,Roberto Bautista Agut,,,0.0
+105147,2020-10-16T12:00Z,Bett1HULKS Indoors,Alexander Zverev,Lloyd Harris,,,1.0
+105145,2020-10-16T15:00Z,Bett1HULKS Indoors,Dennis Novak,Alejandro Davidovich Fokina,,,0.0
+105149,2020-10-16T16:20Z,Bett1HULKS Indoors,Radu Albot,Felix Auger-Aliassime,,,0.0
+105148,2020-10-16T17:50Z,Bett1HULKS Indoors,Hubert Hurkacz,Roberto Bautista Agut,,,0.0
+105146,2020-10-17T12:00Z,Bett1HULKS Indoors,Alexander Zverev,Alejandro Davidovich Fokina,,,1.0
+105151,2020-10-17T14:20Z,Bett1HULKS Indoors,Felix Auger-Aliassime,Roberto Bautista Agut,,,1.0
+105150,2020-10-18T12:05Z,Bett1HULKS Indoors,Alexander Zverev,Felix Auger-Aliassime,,,1.0
+105162,2020-10-12T08:10Z,Forte Village Sardegna Open,Jiri Vesely,Kamil Majchrzak,,,1.0
+105161,2020-10-12T09:45Z,Forte Village Sardegna Open,Pablo Cuevas,Lorenzo Musetti,,,0.0
+105157,2020-10-12T11:00Z,Forte Village Sardegna Open,Andrej Martin,Tommy Paul,,,0.0
+105159,2020-10-12T13:55Z,Forte Village Sardegna Open,Andrea Pellegrino,Stefano Travaglia,,,1.0
+105154,2020-10-13T08:05Z,Forte Village Sardegna Open,Andreas Seppi,Federico Delbonis,,,0.0
+105156,2020-10-13T08:10Z,Forte Village Sardegna Open,Jozef Kovalik,Pablo Andujar,,,0.0
+105160,2020-10-13T10:20Z,Forte Village Sardegna Open,Lorenzo Sonego,Giulio Zeppieri,,,1.0
+105152,2020-10-13T10:25Z,Forte Village Sardegna Open,Roberto Carballes Baena,Federico Coria,,,1.0
+105155,2020-10-13T12:15Z,Forte Village Sardegna Open,Gianluca Mager,Marco Cecchinato,,,0.0
+105158,2020-10-13T12:40Z,Forte Village Sardegna Open,Laslo Djere,Sumit Nagal,,,1.0
+105163,2020-10-14T08:00Z,Forte Village Sardegna Open,Salvatore Caruso,Yannick Hanfmann,,,0.0
+105153,2020-10-14T08:10Z,Forte Village Sardegna Open,Corentin Moutet,Frances Tiafoe,,,1.0
+105173,2020-10-14T10:00Z,Forte Village Sardegna Open,Lorenzo Sonego,Jiri Vesely,,,0.0
+105170,2020-10-14T10:50Z,Forte Village Sardegna Open,Federico Delbonis,Pablo Andujar,,,1.0
+105165,2020-10-14T12:35Z,Forte Village Sardegna Open,Danilo Petrovic,Roberto Carballes Baena,,,1.0
+105174,2020-10-14T14:20Z,Forte Village Sardegna Open,Laslo Djere,Dusan Lajovic,,,1.0
+105175,2020-10-15T08:05Z,Forte Village Sardegna Open,Yannick Hanfmann,Casper Ruud,,,1.0
+105172,2020-10-15T09:25Z,Forte Village Sardegna Open,Lorenzo Musetti,Andrea Pellegrino,,,1.0
+105171,2020-10-15T10:50Z,Forte Village Sardegna Open,Marco Cecchinato,Tommy Paul,,,1.0
+105167,2020-10-15T13:00Z,Forte Village Sardegna Open,Albert Ramos-Vinolas,Corentin Moutet,,,1.0
+105182,2020-10-16T08:00Z,Forte Village Sardegna Open,Jiri Vesely,Laslo Djere,,,0.0
+105176,2020-10-16T09:40Z,Forte Village Sardegna Open,Lorenzo Musetti,Yannick Hanfmann,,,1.0
+105177,2020-10-16T11:30Z,Forte Village Sardegna Open,Albert Ramos-Vinolas,Marco Cecchinato,,,0.0
+105178,2020-10-16T15:00Z,Forte Village Sardegna Open,Danilo Petrovic,Federico Delbonis,,,1.0
+105180,2020-10-17T09:10Z,Forte Village Sardegna Open,Laslo Djere,Laslo Djere,,,0.5
+105181,2020-10-17T11:00Z,Forte Village Sardegna Open,Danilo Petrovic,Marco Cecchinato,,,0.0
+105179,2020-10-18T10:00Z,Forte Village Sardegna Open,Marco Cecchinato,Laslo Djere,,,0.0
+123822,2020-10-17T10:30Z,bett1HULKS Championships,J.J. Wolf,Alexei Popyrin,,,0.0
+105195,2020-10-19T12:05Z,bett1HULKS Championships,Jordan Thompson,Gilles Simon,,,0.0
+105189,2020-10-19T14:00Z,bett1HULKS Championships,Sumit Nagal,Miomir Kecmanovic,,,0.0
+105184,2020-10-19T14:10Z,bett1HULKS Championships,Yoshihito Nishioka,Kyle Edmund,,,1.0
+105183,2020-10-19T16:00Z,bett1HULKS Championships,Egor Gerasimov,Daniel Altmaier,,,1.0
+105187,2020-10-19T16:30Z,bett1HULKS Championships,Alexei Popyrin,Adrian Mannarino,,,0.0
+105192,2020-10-19T17:25Z,bett1HULKS Championships,Marin Cilic,Steve Johnson,,,0.0
+105190,2020-10-20T12:05Z,bett1HULKS Championships,Damir Dzumhur,Alejandro Davidovich Fokina,,,0.0
+105198,2020-10-20T13:35Z,bett1HULKS Championships,Tennys Sandgren,Pierre-Hugues Herbert,,,0.0
+105186,2020-10-20T16:15Z,bett1HULKS Championships,Jannik Sinner,James Duckworth,,,1.0
+105188,2020-10-20T17:00Z,bett1HULKS Championships,Oscar Otte,Dennis Novak,,,1.0
+105191,2020-10-20T17:35Z,bett1HULKS Championships,Fernando Verdasco,John Millman,,,0.0
+105199,2020-10-21T11:10Z,bett1HULKS Championships,Miomir Kecmanovic,Adrian Mannarino,,,0.0
+105205,2020-10-21T12:00Z,bett1HULKS Championships,Steve Johnson,Alejandro Davidovich Fokina,,,0.0
+105185,2020-10-21T14:00Z,bett1HULKS Championships,Jan-Lennard Struff,Marco Cecchinato,,,1.0
+105201,2020-10-21T16:05Z,bett1HULKS Championships,Alexander Zverev,John Millman,,,1.0
+105204,2020-10-21T18:20Z,bett1HULKS Championships,Egor Gerasimov,Felix Auger-Aliassime,,,0.0
+105203,2020-10-22T12:05Z,bett1HULKS Championships,Pierre-Hugues Herbert,Jannik Sinner,,,0.0
+105200,2020-10-22T13:45Z,bett1HULKS Championships,Denis Shapovalov,Gilles Simon,,,0.0
+105206,2020-10-22T16:10Z,bett1HULKS Championships,Oscar Otte,Diego Schwartzman,,,0.0
+105202,2020-10-22T17:45Z,bett1HULKS Championships,Jan-Lennard Struff,Yoshihito Nishioka,,,0.0
+105207,2020-10-23T12:05Z,bett1HULKS Championships,Gilles Simon,Jannik Sinner,,,0.0
+105211,2020-10-23T15:00Z,bett1HULKS Championships,Alejandro Davidovich Fokina,Diego Schwartzman,,,0.0
+105208,2020-10-23T17:30Z,bett1HULKS Championships,Alexander Zverev,Adrian Mannarino,,,1.0
+105209,2020-10-23T20:30Z,bett1HULKS Championships,Yoshihito Nishioka,Felix Auger-Aliassime,,,0.0
+105210,2020-10-24T17:05Z,bett1HULKS Championships,Alexander Zverev,Jannik Sinner,,,1.0
+105212,2020-10-24T19:10Z,bett1HULKS Championships,Felix Auger-Aliassime,Diego Schwartzman,,,0.0
+105213,2020-10-25T18:35Z,bett1HULKS Championships,Alexander Zverev,Diego Schwartzman,,,1.0
+123770,2020-10-18T14:30Z,European Open,Daniel Elahi Galan,Emil Ruusuvuori,,,0.0
+105247,2020-10-19T13:10Z,European Open,Tommy Paul,Feliciano Lopez,,,0.0
+105264,2020-10-19T14:35Z,European Open,Dusan Lajovic,Frances Tiafoe,,,0.0
+105246,2020-10-19T16:30Z,European Open,Kimmer Coppejans,Ugo Humbert,,,0.0
+105263,2020-10-20T10:35Z,European Open,Salvatore Caruso,Daniel Evans,,,0.0
+105257,2020-10-20T10:35Z,European Open,Emil Ruusuvuori,Cameron Norrie,,,0.0
+105249,2020-10-20T12:30Z,European Open,Marcos Giron,Luca Nardi,,,1.0
+105259,2020-10-20T12:50Z,European Open,Federico Coria,Pablo Andujar,,,0.0
+105248,2020-10-20T14:35Z,European Open,Corentin Moutet,Lloyd Harris,,,0.0
+105245,2020-10-20T16:30Z,European Open,Richard Gasquet,Alex de Minaur,,,0.0
+105266,2020-10-20T19:05Z,European Open,Zizou Bergs,Albert Ramos-Vinolas,,,1.0
+105255,2020-10-21T10:40Z,European Open,Aljaz Bedene,Milos Raonic,,,0.0
+105250,2020-10-21T12:00Z,European Open,Taylor Fritz,Reilly Opelka,,,1.0
+122263,2020-10-21T12:00Z,European Open,Taylor Fritz,Reilly Opelka,,,1.0
+105251,2020-10-21T12:20Z,European Open,Ugo Humbert,Pablo Carreno Busta,,,1.0
+105268,2020-10-21T13:35Z,European Open,Frances Tiafoe,Daniel Evans,,,0.0
+105256,2020-10-21T16:40Z,European Open,Grigor Dimitrov,Pablo Andujar,,,1.0
+105258,2020-10-21T19:20Z,European Open,Feliciano Lopez,Alex de Minaur,,,0.0
+105265,2020-10-22T10:30Z,European Open,Cameron Norrie,Milos Raonic,,,0.0
+122278,2020-10-22T12:00Z,European Open,Taylor Fritz,Lloyd Harris,,,0.0
+105254,2020-10-22T12:40Z,European Open,Taylor Fritz,Lloyd Harris,,,0.0
+105267,2020-10-22T16:35Z,European Open,Zizou Bergs,Karen Khachanov,,,0.0
+105260,2020-10-22T19:15Z,European Open,David Goffin,Marcos Giron,,,0.0
+105274,2020-10-23T12:00Z,European Open,Lloyd Harris,Ugo Humbert,,,0.0
+123285,2020-10-23T12:00Z,European Open,Lloyd Harris,Ugo Humbert,,,0.0
+105272,2020-10-23T13:00Z,European Open,Grigor Dimitrov,Milos Raonic,,,1.0
+105270,2020-10-23T14:00Z,European Open,Daniel Evans,Karen Khachanov,,,1.0
+105269,2020-10-23T16:55Z,European Open,Marcos Giron,Alex de Minaur,,,0.0
+105273,2020-10-24T13:30Z,European Open,Daniel Evans,Ugo Humbert,,,0.0
+105271,2020-10-24T17:05Z,European Open,Alex de Minaur,Grigor Dimitrov,,,1.0
+105275,2020-10-25T15:00Z,European Open,Alex de Minaur,Ugo Humbert,,,0.0
+105339,2020-10-26T13:05Z,Erste Bank Open,Borna Coric,Taylor Fritz,,,1.0
+105345,2020-10-26T13:10Z,Erste Bank Open,Dennis Novak,Kevin Anderson,,,0.0
+105342,2020-10-26T16:10Z,Erste Bank Open,Gael Monfils,Pablo Carreno Busta,,,0.0
+105347,2020-10-26T17:25Z,Erste Bank Open,Andrey Rublev,Norbert Gombos,,,1.0
+105344,2020-10-26T18:40Z,Erste Bank Open,Jurij Rodionov,Denis Shapovalov,,,1.0
+105340,2020-10-27T13:05Z,Erste Bank Open,Grigor Dimitrov,Karen Khachanov,,,1.0
+105338,2020-10-27T13:30Z,Erste Bank Open,Hubert Hurkacz,Attila Balazs,,,1.0
+105335,2020-10-27T14:50Z,Erste Bank Open,Novak Djokovic,Filip Krajinovic,,,1.0
+105336,2020-10-27T15:20Z,Erste Bank Open,Aljaz Bedene,Daniel Evans,,,0.0
+105341,2020-10-27T17:00Z,Erste Bank Open,Dusan Lajovic,Lorenzo Sonego,,,0.0
+105353,2020-10-27T17:15Z,Erste Bank Open,Vitaliy Sachko,Dominic Thiem,,,0.0
+105350,2020-10-27T19:25Z,Erste Bank Open,Cristian Garin,Stan Wawrinka,,,1.0
+105346,2020-10-28T13:05Z,Erste Bank Open,Jason Jung,Daniil Medvedev,,,0.0
+105352,2020-10-28T14:15Z,Erste Bank Open,Casper Ruud,Jannik Sinner,,,0.0
+105337,2020-10-28T14:30Z,Erste Bank Open,Stefanos Tsitsipas,Jan-Lennard Struff,,,1.0
+105343,2020-10-28T16:15Z,Erste Bank Open,Felix Auger-Aliassime,Vasek Pospisil,,,0.0
+105351,2020-10-28T16:50Z,Erste Bank Open,Novak Djokovic,Borna Coric,,,1.0
+105360,2020-10-28T19:15Z,Erste Bank Open,Pablo Carreno Busta,Kevin Anderson,,,0.0
+105348,2020-10-29T13:05Z,Erste Bank Open,Hubert Hurkacz,Lorenzo Sonego,,,0.0
+105356,2020-10-29T13:05Z,Erste Bank Open,Daniel Evans,Jurij Rodionov,,,1.0
+105354,2020-10-29T15:05Z,Erste Bank Open,Vasek Pospisil,Daniil Medvedev,,,0.0
+105358,2020-10-29T15:05Z,Erste Bank Open,Andrey Rublev,Jannik Sinner,,,1.0
+105359,2020-10-29T17:30Z,Erste Bank Open,Cristian Garin,Dominic Thiem,,,0.0
+105349,2020-10-29T18:55Z,Erste Bank Open,Stefanos Tsitsipas,Grigor Dimitrov,,,0.0
+105361,2020-10-30T13:10Z,Erste Bank Open,Kevin Anderson,Daniil Medvedev,,,1.0
+105362,2020-10-30T14:55Z,Erste Bank Open,Andrey Rublev,Dominic Thiem,,,1.0
+105355,2020-10-30T16:55Z,Erste Bank Open,Novak Djokovic,Lorenzo Sonego,,,0.0
+105357,2020-10-30T18:25Z,Erste Bank Open,Grigor Dimitrov,Daniel Evans,,,0.0
+105365,2020-10-31T13:05Z,Erste Bank Open,Kevin Anderson,Andrey Rublev,,,0.0
+105363,2020-10-31T14:35Z,Erste Bank Open,Lorenzo Sonego,Daniel Evans,,,1.0
+105364,2020-11-01T13:05Z,Erste Bank Open,Lorenzo Sonego,Andrey Rublev,,,0.0
+105394,2020-10-26T09:40Z,Astana Open,Dmitry Popko,Radu Albot,,,0.0
+105374,2020-10-26T12:55Z,Astana Open,Fernando Verdasco,James Duckworth,,,1.0
+105371,2020-10-26T13:25Z,Astana Open,Tommy Paul,Stefano Travaglia,,,1.0
+105376,2020-10-26T15:00Z,Astana Open,Frances Tiafoe,Corentin Moutet,,,1.0
+105368,2020-10-26T15:15Z,Astana Open,Cameron Norrie,Jordan Thompson,,,0.0
+105379,2020-10-27T06:00Z,Astana Open,Tennys Sandgren,Jiri Vesely,,,0.0
+123284,2020-10-27T07:30Z,Astana Open,Lloyd Harris,Egor Gerasimov,,,0.0
+105370,2020-10-27T07:30Z,Astana Open,Damir Dzumhur,Yuichi Sugita,,,0.0
+105377,2020-10-27T08:00Z,Astana Open,Lloyd Harris,Egor Gerasimov,,,0.0
+105367,2020-10-27T10:20Z,Astana Open,Timofey Skatov,Emil Ruusuvuori,,,0.0
+105372,2020-10-27T12:05Z,Astana Open,Aslan Karatsev,Andreas Seppi,,,0.0
+105383,2020-10-28T06:05Z,Astana Open,Tommy Paul,Radu Albot,,,1.0
+105387,2020-10-28T06:05Z,Astana Open,Frances Tiafoe,Miomir Kecmanovic,,,1.0
+105385,2020-10-28T07:35Z,Astana Open,Jiri Vesely,Egor Gerasimov,,,0.0
+105386,2020-10-28T07:45Z,Astana Open,Fernando Verdasco,John Millman,,,0.0
+105395,2020-10-28T09:25Z,Astana Open,Federico Delbonis,Mikhail Kukushkin,,,0.0
+105373,2020-10-28T12:15Z,Astana Open,Mackenzie McDonald,Alexander Bublik,,,1.0
+105381,2020-10-29T06:00Z,Astana Open,Emil Ruusuvuori,Jordan Thompson,,,1.0
+105382,2020-10-29T08:25Z,Astana Open,Adrian Mannarino,Yuichi Sugita,,,1.0
+105384,2020-10-29T09:45Z,Astana Open,Andreas Seppi,Mackenzie McDonald,,,0.0
+105380,2020-10-29T12:05Z,Astana Open,Benoit Paire,Mikhail Kukushkin,,,0.0
+105390,2020-10-30T07:05Z,Astana Open,Egor Gerasimov,Frances Tiafoe,,,0.0
+105391,2020-10-30T09:55Z,Astana Open,Tommy Paul,John Millman,,,0.0
+105388,2020-10-30T13:05Z,Astana Open,Adrian Mannarino,Mackenzie McDonald,,,1.0
+105389,2020-10-30T15:05Z,Astana Open,Mikhail Kukushkin,Emil Ruusuvuori,,,0.0
+105393,2020-10-31T10:05Z,Astana Open,John Millman,Frances Tiafoe,,,1.0
+105392,2020-10-31T12:30Z,Astana Open,Emil Ruusuvuori,Adrian Mannarino,,,0.0
+105396,2020-11-01T10:05Z,Astana Open,Adrian Mannarino,John Millman,,,0.0
+123544,2020-10-31T09:00Z,Rolex Paris Masters,Roberto Carballes Baena,Marcos Giron,,,0.0
+117679,2020-10-31T12:00Z,Rolex Paris Masters,Elliot Benchetrit,Vasek Pospisil,,,0.0
+117920,2020-10-31T13:30Z,Rolex Paris Masters,Bernabe Zapata Miralles,Yannick Hanfmann,,,0.0
+123752,2020-10-31T16:00Z,Rolex Paris Masters,Daniel Elahi Galan,Gianluca Mager,,,0.0
+105417,2020-11-02T10:00Z,Rolex Paris Masters,Hubert Hurkacz,Radu Albot,,,0.0
+105429,2020-11-02T10:05Z,Rolex Paris Masters,Filip Krajinovic,Feliciano Lopez,,,0.0
+105442,2020-11-02T10:05Z,Rolex Paris Masters,Marton Fucsovics,Borna Coric,,,0.0
+123189,2020-11-02T11:30Z,Rolex Paris Masters,Albert Ramos-Vinolas,Marcos Giron,,,0.0
+105443,2020-11-02T11:45Z,Rolex Paris Masters,Albert Ramos-Vinolas,Marcos Giron,,,0.0
+105402,2020-11-02T12:10Z,Rolex Paris Masters,Salvatore Caruso,Corentin Moutet,,,0.0
+105426,2020-11-02T12:30Z,Rolex Paris Masters,Jordan Thompson,Federico Delbonis,,,1.0
+105436,2020-11-02T13:50Z,Rolex Paris Masters,Marco Cecchinato,Norbert Gombos,,,0.0
+105438,2020-11-02T14:00Z,Rolex Paris Masters,Nikoloz Basilashvili,Jan-Lennard Struff,,,0.0
+105400,2020-11-02T15:00Z,Rolex Paris Masters,Ugo Humbert,Casper Ruud,,,1.0
+105419,2020-11-02T15:20Z,Rolex Paris Masters,Alex de Minaur,Stefano Travaglia,,,1.0
+105421,2020-11-02T16:50Z,Rolex Paris Masters,Federico Coria,Benjamin Bonzi,,,0.0
+105437,2020-11-02T17:35Z,Rolex Paris Masters,Felix Auger-Aliassime,Marin Cilic,,,0.0
+105420,2020-11-02T20:20Z,Rolex Paris Masters,Alejandro Davidovich Fokina,Karen Khachanov,,,1.0
+105440,2020-11-02T20:20Z,Rolex Paris Masters,Pablo Carreno Busta,Hugo Gaston,,,1.0
+105397,2020-11-03T10:00Z,Rolex Paris Masters,Yoshihito Nishioka,Pablo Andujar,,,1.0
+105406,2020-11-03T10:05Z,Rolex Paris Masters,Stan Wawrinka,Daniel Evans,,,1.0
+105439,2020-11-03T10:05Z,Rolex Paris Masters,Aljaz Bedene,Milos Raonic,,,0.0
+105432,2020-11-03T11:25Z,Rolex Paris Masters,Laslo Djere,Kevin Anderson,,,0.0
+105411,2020-11-03T12:00Z,Rolex Paris Masters,Richard Gasquet,Taylor Fritz,,,1.0
+105441,2020-11-03T12:30Z,Rolex Paris Masters,Tennys Sandgren,Pierre-Hugues Herbert,,,0.0
+105434,2020-11-03T13:00Z,Rolex Paris Masters,Lorenzo Sonego,Alexander Bublik,,,1.0
+105404,2020-11-03T14:00Z,Rolex Paris Masters,Gilles Simon,Tommy Paul,,,0.0
+105408,2020-11-03T15:00Z,Rolex Paris Masters,Adrian Mannarino,Dusan Lajovic,,,1.0
+105405,2020-11-03T16:15Z,Rolex Paris Masters,Norbert Gombos,David Goffin,,,1.0
+105398,2020-11-03T16:45Z,Rolex Paris Masters,Miomir Kecmanovic,John Millman,,,1.0
+105407,2020-11-03T18:20Z,Rolex Paris Masters,Pablo Carreno Busta,Jan-Lennard Struff,,,1.0
+105444,2020-11-03T18:20Z,Rolex Paris Masters,Ugo Humbert,Stefanos Tsitsipas,,,1.0
+105433,2020-11-03T20:55Z,Rolex Paris Masters,Matteo Berrettini,Marcos Giron,,,0.0
+105425,2020-11-04T10:00Z,Rolex Paris Masters,Benjamin Bonzi,Alejandro Davidovich Fokina,,,0.0
+105435,2020-11-04T10:05Z,Rolex Paris Masters,Kevin Anderson,Daniil Medvedev,,,0.0
+105422,2020-11-04T11:35Z,Rolex Paris Masters,Diego Schwartzman,Richard Gasquet,,,1.0
+105416,2020-11-04T11:40Z,Rolex Paris Masters,Yoshihito Nishioka,Adrian Mannarino,,,0.0
+105431,2020-11-04T13:20Z,Rolex Paris Masters,Pierre-Hugues Herbert,Milos Raonic,,,0.0
+105428,2020-11-04T14:00Z,Rolex Paris Masters,Marin Cilic,Corentin Moutet,,,1.0
+105424,2020-11-04T14:40Z,Rolex Paris Masters,Alex de Minaur,Lorenzo Sonego,,,1.0
+105418,2020-11-04T15:15Z,Rolex Paris Masters,Alexander Zverev,Miomir Kecmanovic,,,1.0
+105409,2020-11-04T16:20Z,Rolex Paris Masters,Jordan Thompson,Borna Coric,,,1.0
+105410,2020-11-04T17:40Z,Rolex Paris Masters,Rafael Nadal,Feliciano Lopez,,,1.0
+105412,2020-11-04T18:50Z,Rolex Paris Masters,Radu Albot,Andrey Rublev,,,0.0
+105414,2020-11-04T20:35Z,Rolex Paris Masters,Stan Wawrinka,Tommy Paul,,,1.0
+105448,2020-11-05T10:05Z,Rolex Paris Masters,Diego Schwartzman,Alejandro Davidovich Fokina,,,1.0
+105447,2020-11-05T11:30Z,Rolex Paris Masters,Alex de Minaur,Daniil Medvedev,,,0.0
+105453,2020-11-05T11:40Z,Rolex Paris Masters,Marcos Giron,Milos Raonic,,,0.0
+105452,2020-11-05T13:40Z,Rolex Paris Masters,Marin Cilic,Ugo Humbert,,,0.0
+105458,2020-11-05T15:00Z,Rolex Paris Masters,Pablo Carreno Busta,Norbert Gombos,,,1.0
+105459,2020-11-05T16:30Z,Rolex Paris Masters,Rafael Nadal,Jordan Thompson,,,1.0
+105457,2020-11-05T18:25Z,Rolex Paris Masters,Alexander Zverev,Adrian Mannarino,,,1.0
+105449,2020-11-05T21:40Z,Rolex Paris Masters,Stan Wawrinka,Andrey Rublev,,,1.0
+105456,2020-11-06T13:05Z,Rolex Paris Masters,Diego Schwartzman,Daniil Medvedev,,,0.0
+105455,2020-11-06T14:40Z,Rolex Paris Masters,Milos Raonic,Ugo Humbert,,,1.0
+105451,2020-11-06T17:35Z,Rolex Paris Masters,Rafael Nadal,Pablo Carreno Busta,,,1.0
+105450,2020-11-06T20:15Z,Rolex Paris Masters,Alexander Zverev,Stan Wawrinka,,,1.0
+105446,2020-11-07T13:05Z,Rolex Paris Masters,Daniil Medvedev,Milos Raonic,,,1.0
+105454,2020-11-07T15:40Z,Rolex Paris Masters,Rafael Nadal,Alexander Zverev,,,0.0
+105445,2020-11-08T14:10Z,Rolex Paris Masters,Alexander Zverev,Daniil Medvedev,,,0.0

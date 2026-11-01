@@ -1,0 +1,30 @@
+id,date,event,home,away,hs,as,res
+400952462,2017-05-01T23:00Z,Toronto Raptors at Cleveland Cavaliers,Cleveland Cavaliers,Toronto Raptors,116,105,1.0
+400952490,2017-05-02T01:30Z,Houston Rockets at San Antonio Spurs,San Antonio Spurs,Houston Rockets,99,126,0.0
+400952527,2017-05-03T00:00Z,Washington Wizards at Boston Celtics,Boston Celtics,Washington Wizards,129,119,1.0
+400952553,2017-05-03T02:30Z,Utah Jazz at Golden State Warriors,Golden State Warriors,Utah Jazz,106,94,1.0
+400952463,2017-05-03T23:00Z,Toronto Raptors at Cleveland Cavaliers,Cleveland Cavaliers,Toronto Raptors,125,103,1.0
+400952491,2017-05-04T01:30Z,Houston Rockets at San Antonio Spurs,San Antonio Spurs,Houston Rockets,121,96,1.0
+400952528,2017-05-05T00:00Z,Boston Celtics at Washington Wizards,Washington Wizards,Boston Celtics,116,89,1.0
+400952554,2017-05-05T02:30Z,Utah Jazz at Golden State Warriors,Golden State Warriors,Utah Jazz,115,104,1.0
+400952464,2017-05-05T23:00Z,Cleveland Cavaliers at Toronto Raptors,Toronto Raptors,Cleveland Cavaliers,94,115,0.0
+400952492,2017-05-06T01:30Z,San Antonio Spurs at Houston Rockets,Houston Rockets,San Antonio Spurs,92,103,0.0
+400952606,2017-05-07T00:30Z,Golden State Warriors at Utah Jazz,Utah Jazz,Golden State Warriors,91,102,0.0
+400952465,2017-05-07T19:30Z,Cleveland Cavaliers at Toronto Raptors,Toronto Raptors,Cleveland Cavaliers,102,109,0.0
+400952529,2017-05-07T22:30Z,Boston Celtics at Washington Wizards,Washington Wizards,Boston Celtics,121,102,1.0
+400952493,2017-05-08T01:00Z,San Antonio Spurs at Houston Rockets,Houston Rockets,San Antonio Spurs,125,104,1.0
+400952607,2017-05-09T01:00Z,Golden State Warriors at Utah Jazz,Utah Jazz,Golden State Warriors,95,121,0.0
+400952494,2017-05-10T00:00Z,Houston Rockets at San Antonio Spurs,San Antonio Spurs,Houston Rockets,110,107,1.0
+400952530,2017-05-11T00:00Z,Washington Wizards at Boston Celtics,Boston Celtics,Washington Wizards,123,101,1.0
+400952495,2017-05-12T00:00Z,San Antonio Spurs at Houston Rockets,Houston Rockets,San Antonio Spurs,75,114,0.0
+400952531,2017-05-13T00:00Z,Boston Celtics at Washington Wizards,Washington Wizards,Boston Celtics,92,91,1.0
+400953591,2017-05-14T19:30Z,San Antonio Spurs at Golden State Warriors,Golden State Warriors,San Antonio Spurs,113,111,1.0
+400952532,2017-05-16T00:00Z,Washington Wizards at Boston Celtics,Boston Celtics,Washington Wizards,115,105,1.0
+400953592,2017-05-17T01:00Z,San Antonio Spurs at Golden State Warriors,Golden State Warriors,San Antonio Spurs,136,100,1.0
+400953694,2017-05-18T00:30Z,Cleveland Cavaliers at Boston Celtics,Boston Celtics,Cleveland Cavaliers,104,117,0.0
+400953695,2017-05-20T00:30Z,Cleveland Cavaliers at Boston Celtics,Boston Celtics,Cleveland Cavaliers,86,130,0.0
+400953593,2017-05-21T01:00Z,Golden State Warriors at San Antonio Spurs,San Antonio Spurs,Golden State Warriors,108,120,0.0
+400953696,2017-05-22T00:30Z,Boston Celtics at Cleveland Cavaliers,Cleveland Cavaliers,Boston Celtics,108,111,0.0
+400953594,2017-05-23T01:00Z,Golden State Warriors at San Antonio Spurs,San Antonio Spurs,Golden State Warriors,115,129,0.0
+400953697,2017-05-24T00:30Z,Boston Celtics at Cleveland Cavaliers,Cleveland Cavaliers,Boston Celtics,112,99,1.0
+400953698,2017-05-26T00:30Z,Cleveland Cavaliers at Boston Celtics,Boston Celtics,Cleveland Cavaliers,102,135,0.0

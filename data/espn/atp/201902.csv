@@ -1,0 +1,426 @@
+id,date,event,home,away,hs,as,res
+96077,2019-02-04T15:10Z,Open Sud de France,Marcel Granollers,Ivo Karlovic,,,1.0
+96072,2019-02-04T18:05Z,Open Sud de France,Ugo Humbert,Jo-Wilfried Tsonga,,,0.0
+96074,2019-02-04T21:00Z,Open Sud de France,Adrian Menendez-Maceiras,Jeremy Chardy,,,0.0
+96070,2019-02-05T11:05Z,Open Sud de France,Ernests Gulbis,Hubert Hurkacz,,,1.0
+96076,2019-02-05T11:10Z,Open Sud de France,Antoine Hoang,Steve Darcis,,,1.0
+96082,2019-02-05T13:05Z,Open Sud de France,Filip Krajinovic,Nicolas Mahut,,,1.0
+96079,2019-02-05T15:00Z,Open Sud de France,Tomas Berdych,Matthias Bachinger,,,1.0
+96080,2019-02-05T18:05Z,Open Sud de France,Benoit Paire,Evgeny Donskoy,,,1.0
+96075,2019-02-05T19:50Z,Open Sud de France,Pierre-Hugues Herbert,Denis Kudla,,,1.0
+96069,2019-02-06T11:05Z,Open Sud de France,Ruben Bemelmans,Marcos Baghdatis,,,0.0
+96081,2019-02-06T11:10Z,Open Sud de France,Ilya Ivashka,Thomas Fabbiano,,,1.0
+96088,2019-02-06T13:05Z,Open Sud de France,Antoine Hoang,Jeremy Chardy,,,0.0
+96068,2019-02-06T13:25Z,Open Sud de France,Radu Albot,Philipp Kohlschreiber,,,1.0
+96089,2019-02-06T15:00Z,Open Sud de France,Benoit Paire,Tomas Berdych,,,0.0
+96084,2019-02-06T18:10Z,Open Sud de France,Gilles Simon,Jo-Wilfried Tsonga,,,0.0
+96090,2019-02-06T20:00Z,Open Sud de France,Filip Krajinovic,David Goffin,,,1.0
+96092,2019-02-07T13:05Z,Open Sud de France,Marcel Granollers,Denis Shapovalov,,,0.0
+96087,2019-02-07T14:45Z,Open Sud de France,Ernests Gulbis,Radu Albot,,,0.0
+96085,2019-02-07T18:10Z,Open Sud de France,Pierre-Hugues Herbert,Ilya Ivashka,,,1.0
+96086,2019-02-07T20:25Z,Open Sud de France,Lucas Pouille,Marcos Baghdatis,,,0.0
+96091,2019-02-08T13:10Z,Open Sud de France,Tomas Berdych,Filip Krajinovic,,,1.0
+96095,2019-02-08T16:05Z,Open Sud de France,Pierre-Hugues Herbert,Denis Shapovalov,,,1.0
+96093,2019-02-08T18:10Z,Open Sud de France,Marcos Baghdatis,Radu Albot,,,0.0
+96094,2019-02-08T20:00Z,Open Sud de France,Jo-Wilfried Tsonga,Jeremy Chardy,,,1.0
+96096,2019-02-09T14:10Z,Open Sud de France,Pierre-Hugues Herbert,Tomas Berdych,,,1.0
+96097,2019-02-09T16:05Z,Open Sud de France,Radu Albot,Jo-Wilfried Tsonga,,,0.0
+96098,2019-02-10T13:35Z,Open Sud de France,Jo-Wilfried Tsonga,Pierre-Hugues Herbert,,,1.0
+96103,2019-02-04T15:25Z,Sofia Open,Adrian Andreev,Matthew Ebden,,,0.0
+96100,2019-02-04T18:00Z,Sofia Open,Marius Copil,Stan Wawrinka,,,1.0
+96106,2019-02-05T10:05Z,Sofia Open,Yannick Maden,Adrian Mannarino,,,1.0
+96107,2019-02-05T10:05Z,Sofia Open,Nikoloz Basilashvili,Daniel Brands,,,0.0
+96113,2019-02-05T12:00Z,Sofia Open,Jan-Lennard Struff,Stefano Travaglia,,,1.0
+96101,2019-02-05T14:35Z,Sofia Open,Denis Istomin,Matteo Berrettini,,,0.0
+96111,2019-02-05T16:10Z,Sofia Open,Robin Haase,Dimitar Kuzmanov,,,1.0
+96109,2019-02-05T17:40Z,Sofia Open,Gael Monfils,Viktor Troicki,,,1.0
+96112,2019-02-06T10:10Z,Sofia Open,Laslo Djere,Mikhail Kukushkin,,,0.0
+96104,2019-02-06T10:10Z,Sofia Open,Mirza Basic,Martin Klizan,,,0.0
+96102,2019-02-06T11:55Z,Sofia Open,Alexandar Lazarov,Fernando Verdasco,,,0.0
+96105,2019-02-06T12:15Z,Sofia Open,Marton Fucsovics,Andreas Seppi,,,1.0
+96117,2019-02-06T16:10Z,Sofia Open,Roberto Bautista Agut,Matthew Ebden,,,1.0
+96114,2019-02-06T18:15Z,Sofia Open,Karen Khachanov,Matteo Berrettini,,,0.0
+96119,2019-02-07T10:05Z,Sofia Open,Daniel Brands,Martin Klizan,,,0.0
+96118,2019-02-07T10:10Z,Sofia Open,Yannick Maden,Marton Fucsovics,,,0.0
+96115,2019-02-07T12:05Z,Sofia Open,Marius Copil,Fernando Verdasco,,,0.0
+96120,2019-02-07T14:10Z,Sofia Open,Robin Haase,Daniil Medvedev,,,0.0
+96121,2019-02-07T16:10Z,Sofia Open,Gael Monfils,Mikhail Kukushkin,,,1.0
+96122,2019-02-07T17:45Z,Sofia Open,Jan-Lennard Struff,Stefanos Tsitsipas,,,0.0
+96124,2019-02-08T11:10Z,Sofia Open,Matteo Berrettini,Fernando Verdasco,,,1.0
+96123,2019-02-08T11:30Z,Sofia Open,Roberto Bautista Agut,Marton Fucsovics,,,0.0
+96129,2019-02-08T16:05Z,Sofia Open,Martin Klizan,Daniil Medvedev,,,0.0
+96126,2019-02-08T17:40Z,Sofia Open,Gael Monfils,Stefanos Tsitsipas,,,1.0
+96127,2019-02-09T12:10Z,Sofia Open,Matteo Berrettini,Marton Fucsovics,,,0.0
+96125,2019-02-09T16:20Z,Sofia Open,Daniil Medvedev,Gael Monfils,,,1.0
+96128,2019-02-10T15:10Z,Sofia Open,Marton Fucsovics,Daniil Medvedev,,,0.0
+117680,2019-02-04T14:20Z,Hungarian Open,Elliot Benchetrit,Sadio Doumbia,,,0.0
+117892,2019-02-04T15:10Z,Hungarian Open,Bernabe Zapata Miralles,Marc-Andrea Huesler,,,1.0
+117897,2019-02-05T13:10Z,Hungarian Open,Bernabe Zapata Miralles,Lukas Rosol,,,1.0
+123267,2019-04-20T14:00Z,Hungarian Open,Lloyd Harris,Daniel Gimeno-Traver,,,1.0
+123271,2019-04-21T10:30Z,Hungarian Open,Lloyd Harris,Matthias Bachinger,,,1.0
+97639,2019-04-22T09:10Z,Hungarian Open,Matteo Berrettini,Mikhail Kukushkin,,,1.0
+97638,2019-04-22T11:00Z,Hungarian Open,Bernard Tomic,Aljaz Bedene,,,0.0
+97651,2019-04-22T13:05Z,Hungarian Open,Andreas Seppi,Filip Krajinovic,,,0.0
+97648,2019-04-22T16:05Z,Hungarian Open,Radu Albot,Sergiy Stakhovsky,,,1.0
+97641,2019-04-23T09:05Z,Hungarian Open,John Millman,Miomir Kecmanovic,,,1.0
+97647,2019-04-23T09:10Z,Hungarian Open,Pierre-Hugues Herbert,Egor Gerasimov,,,1.0
+97640,2019-04-23T09:10Z,Hungarian Open,Peter Gojowczyk,Lloyd Harris,,,1.0
+97646,2019-04-23T11:55Z,Hungarian Open,Robin Haase,Thomas Fabbiano,,,1.0
+97645,2019-04-23T11:55Z,Hungarian Open,Attila Balazs,Hubert Hurkacz,,,1.0
+97643,2019-04-23T14:55Z,Hungarian Open,Ernests Gulbis,Laslo Djere,,,0.0
+97637,2019-04-24T09:10Z,Hungarian Open,Yannick Maden,Pablo Cuevas,,,0.0
+97642,2019-04-24T11:35Z,Hungarian Open,Jannik Sinner,Mate Valkusz,,,1.0
+97659,2019-04-24T13:40Z,Hungarian Open,John Millman,Attila Balazs,,,0.0
+97657,2019-04-24T16:05Z,Hungarian Open,Pierre-Hugues Herbert,Matthias Bachinger,,,1.0
+97662,2019-04-25T09:10Z,Hungarian Open,Radu Albot,Filip Krajinovic,,,0.0
+97656,2019-04-25T11:10Z,Hungarian Open,Robin Haase,Borna Coric,,,0.0
+97653,2019-04-25T11:20Z,Hungarian Open,Aljaz Bedene,Matteo Berrettini,,,0.0
+97655,2019-04-25T13:20Z,Hungarian Open,Nikoloz Basilashvili,Peter Gojowczyk,,,1.0
+97654,2019-04-25T13:35Z,Hungarian Open,Marin Cilic,Pablo Cuevas,,,0.0
+97652,2019-04-25T17:05Z,Hungarian Open,Jannik Sinner,Laslo Djere,,,0.0
+97663,2019-04-26T09:05Z,Hungarian Open,Filip Krajinovic,Borna Coric,,,1.0
+97661,2019-04-26T11:30Z,Hungarian Open,Attila Balazs,Pierre-Hugues Herbert,,,0.0
+97660,2019-04-26T13:10Z,Hungarian Open,Pablo Cuevas,Matteo Berrettini,,,0.0
+97658,2019-04-26T15:25Z,Hungarian Open,Nikoloz Basilashvili,Laslo Djere,,,0.0
+97665,2019-04-27T12:10Z,Hungarian Open,Pierre-Hugues Herbert,Filip Krajinovic,,,0.0
+97664,2019-04-27T13:40Z,Hungarian Open,Matteo Berrettini,Laslo Djere,,,1.0
+97666,2019-04-28T13:05Z,Hungarian Open,Matteo Berrettini,Filip Krajinovic,,,1.0
+96141,2019-02-04T18:40Z,Cordoba Open,Pablo Andujar,Lorenzo Sonego,,,0.0
+96131,2019-02-04T18:45Z,Cordoba Open,Aljaz Bedene,Maximilian Marterer,,,1.0
+96137,2019-02-04T20:30Z,Cordoba Open,Cameron Norrie,Pedro Cachin,,,0.0
+96140,2019-02-04T22:20Z,Cordoba Open,Paolo Lorenzi,Guido Pella,,,0.0
+96134,2019-02-05T00:00Z,Cordoba Open,Carlos Berlocq,Malek Jaziri,,,0.0
+96135,2019-02-05T18:40Z,Cordoba Open,Alessandro Giannessi,Thiago Seyboth Wild,,,1.0
+96144,2019-02-05T18:40Z,Cordoba Open,Andrej Martin,Roberto Carballes Baena,,,0.0
+96139,2019-02-05T18:45Z,Cordoba Open,Nicolas Jarry,Juan Ignacio Londero,,,0.0
+96136,2019-02-05T20:35Z,Cordoba Open,Facundo Bagnis,Pablo Cuevas,,,0.0
+96145,2019-02-05T22:30Z,Cordoba Open,Guido Andreozzi,Jaume Munar,,,0.0
+96132,2019-02-06T00:05Z,Cordoba Open,Hugo Dellien,Albert Ramos-Vinolas,,,0.0
+96138,2019-02-06T00:30Z,Cordoba Open,Leonardo Mayer,Federico Delbonis,,,0.0
+96151,2019-02-06T14:15Z,Cordoba Open,Juan Ignacio Londero,Lorenzo Sonego,,,1.0
+96150,2019-02-06T18:35Z,Cordoba Open,Pedro Cachin,Pablo Carreno Busta,,,1.0
+96153,2019-02-07T18:35Z,Cordoba Open,Jaume Munar,Marco Cecchinato,,,1.0
+96152,2019-02-07T18:45Z,Cordoba Open,Federico Delbonis,Roberto Carballes Baena,,,1.0
+96146,2019-02-07T20:35Z,Cordoba Open,Pablo Cuevas,Malek Jaziri,,,1.0
+96147,2019-02-07T21:50Z,Cordoba Open,Fabio Fognini,Aljaz Bedene,,,0.0
+96154,2019-02-07T23:30Z,Cordoba Open,Diego Schwartzman,Alessandro Giannessi,,,1.0
+123224,2019-02-08T02:15Z,Cordoba Open,Albert Ramos-Vinolas,Guido Pella,,,0.0
+96148,2019-02-08T02:15Z,Cordoba Open,Albert Ramos-Vinolas,Guido Pella,,,0.0
+96157,2019-02-08T18:45Z,Cordoba Open,Federico Delbonis,Jaume Munar,,,1.0
+96155,2019-02-08T21:05Z,Cordoba Open,Juan Ignacio Londero,Pedro Cachin,,,1.0
+96156,2019-02-08T23:20Z,Cordoba Open,Diego Schwartzman,Guido Pella,,,0.0
+96149,2019-02-09T19:15Z,Cordoba Open,Aljaz Bedene,Pablo Cuevas,,,0.0
+96159,2019-02-09T22:15Z,Cordoba Open,Juan Ignacio Londero,Federico Delbonis,,,1.0
+96158,2019-02-10T00:15Z,Cordoba Open,Pablo Cuevas,Guido Pella,,,0.0
+96160,2019-02-10T22:30Z,Cordoba Open,Guido Pella,Juan Ignacio Londero,,,0.0
+118751,2019-02-09T18:30Z,Argentina Open,Juan Bautista Otegui,Hugo Dellien,,,0.0
+123704,2019-02-09T19:00Z,Argentina Open,Thiago Monteiro,Facundo Bagnis,,,0.0
+96284,2019-02-11T17:45Z,Argentina Open,Nicolas Jarry,Lorenzo Sonego,,,0.0
+96278,2019-02-11T20:35Z,Argentina Open,Albert Ramos-Vinolas,Yuliya Hatouka,,,1.0
+123180,2019-02-11T20:35Z,Argentina Open,Albert Ramos-Vinolas,Rogerio Dutra da Silva,,,1.0
+96274,2019-02-11T22:30Z,Argentina Open,Facundo Bagnis,Maximilian Marterer,,,0.0
+96282,2019-02-12T00:00Z,Argentina Open,Cristian Garin,Felix Auger-Aliassime,,,1.0
+96277,2019-02-12T17:40Z,Argentina Open,Marcelo Arevalo,Pablo Cuevas,,,0.0
+96283,2019-02-12T17:40Z,Argentina Open,Roberto Carballes Baena,Taro Daniel,,,1.0
+123508,2019-02-12T17:40Z,Argentina Open,Roberto Carballes Baena,Taro Daniel,,,1.0
+96287,2019-02-12T17:45Z,Argentina Open,Dusan Lajovic,Leonardo Mayer,,,0.0
+96279,2019-02-12T19:00Z,Argentina Open,Guido Andreozzi,Aljaz Bedene,,,0.0
+96285,2019-02-12T19:10Z,Argentina Open,Francisco Cerundolo,Guido Pella,,,0.0
+96289,2019-02-12T19:55Z,Argentina Open,Jaume Munar,Federico Delbonis,,,1.0
+96276,2019-02-12T22:15Z,Argentina Open,Juan Ignacio Londero,João Sousa,,,0.0
+96281,2019-02-12T23:55Z,Argentina Open,David Ferrer,Malek Jaziri,,,1.0
+96294,2019-02-13T17:45Z,Argentina Open,Lorenzo Sonego,Roberto Carballes Baena,,,0.0
+96292,2019-02-13T19:40Z,Argentina Open,Leonardo Mayer,Guido Pella,,,0.0
+96295,2019-02-13T22:45Z,Argentina Open,Cristian Garin,Marco Cecchinato,,,0.0
+96300,2019-02-14T00:55Z,Argentina Open,Jaume Munar,Fabio Fognini,,,1.0
+96291,2019-02-14T17:40Z,Argentina Open,Pablo Cuevas,João Sousa,,,1.0
+123126,2019-02-14T19:00Z,Argentina Open,Albert Ramos-Vinolas,David Ferrer,,,1.0
+96293,2019-02-14T19:45Z,Argentina Open,Albert Ramos-Vinolas,David Ferrer,,,1.0
+96290,2019-02-14T22:45Z,Argentina Open,Dominic Thiem,Maximilian Marterer,,,1.0
+96296,2019-02-15T00:30Z,Argentina Open,Diego Schwartzman,Aljaz Bedene,,,1.0
+96297,2019-02-15T17:40Z,Argentina Open,Roberto Carballes Baena,Marco Cecchinato,,,0.0
+123522,2019-02-15T17:40Z,Argentina Open,Roberto Carballes Baena,Marco Cecchinato,,,0.0
+96298,2019-02-15T19:50Z,Argentina Open,Guido Pella,Jaume Munar,,,1.0
+96299,2019-02-15T23:30Z,Argentina Open,Dominic Thiem,Pablo Cuevas,,,1.0
+96301,2019-02-16T01:40Z,Argentina Open,Diego Schwartzman,Albert Ramos-Vinolas,,,1.0
+96303,2019-02-16T17:10Z,Argentina Open,Marco Cecchinato,Guido Pella,,,1.0
+96302,2019-02-16T18:55Z,Argentina Open,Dominic Thiem,Diego Schwartzman,,,0.0
+96304,2019-02-17T17:10Z,Argentina Open,Diego Schwartzman,Marco Cecchinato,,,0.0
+96189,2019-02-11T12:05Z,ABN Amro World Tennis Tournament,Andreas Seppi,Peter Gojowczyk,,,1.0
+96192,2019-02-11T14:20Z,ABN Amro World Tennis Tournament,Mikhail Kukushkin,Robin Haase,,,1.0
+96185,2019-02-11T18:40Z,ABN Amro World Tennis Tournament,Benoit Paire,Stan Wawrinka,,,0.0
+96187,2019-02-11T20:10Z,ABN Amro World Tennis Tournament,Hyeon Chung,Nikoloz Basilashvili,,,0.0
+96182,2019-02-12T10:05Z,ABN Amro World Tennis Tournament,Marius Copil,Ernests Gulbis,,,0.0
+96186,2019-02-12T10:10Z,ABN Amro World Tennis Tournament,Milos Raonic,Philipp Kohlschreiber,,,1.0
+96193,2019-02-12T11:40Z,ABN Amro World Tennis Tournament,Matthew Ebden,Fernando Verdasco,,,0.0
+96191,2019-02-12T12:10Z,ABN Amro World Tennis Tournament,Franko Skugor,Denis Shapovalov,,,0.0
+96184,2019-02-12T13:25Z,ABN Amro World Tennis Tournament,Gilles Simon,Tomas Berdych,,,0.0
+96188,2019-02-12T13:50Z,ABN Amro World Tennis Tournament,David Goffin,Gael Monfils,,,0.0
+96181,2019-02-12T18:40Z,ABN Amro World Tennis Tournament,Kei Nishikori,Pierre-Hugues Herbert,,,1.0
+96196,2019-02-12T21:10Z,ABN Amro World Tennis Tournament,Tallon Griekspoor,Karen Khachanov,,,1.0
+96183,2019-02-13T10:05Z,ABN Amro World Tennis Tournament,Martin Klizan,Marton Fucsovics,,,0.0
+96195,2019-02-13T10:10Z,ABN Amro World Tennis Tournament,Daniil Medvedev,Jeremy Chardy,,,1.0
+96194,2019-02-13T12:05Z,ABN Amro World Tennis Tournament,Jo-Wilfried Tsonga,Thomas Fabbiano,,,1.0
+96190,2019-02-13T13:40Z,ABN Amro World Tennis Tournament,Damir Dzumhur,Stefanos Tsitsipas,,,1.0
+96200,2019-02-13T13:40Z,ABN Amro World Tennis Tournament,Gael Monfils,Andreas Seppi,,,1.0
+96201,2019-02-13T18:40Z,ABN Amro World Tennis Tournament,Milos Raonic,Stan Wawrinka,,,0.0
+96202,2019-02-13T20:35Z,ABN Amro World Tennis Tournament,Tomas Berdych,Denis Shapovalov,,,0.0
+96204,2019-02-14T10:10Z,ABN Amro World Tennis Tournament,Mikhail Kukushkin,Damir Dzumhur,,,0.0
+96199,2019-02-14T12:15Z,ABN Amro World Tennis Tournament,Daniil Medvedev,Fernando Verdasco,,,1.0
+96203,2019-02-14T14:05Z,ABN Amro World Tennis Tournament,Jo-Wilfried Tsonga,Tallon Griekspoor,,,1.0
+96198,2019-02-14T18:40Z,ABN Amro World Tennis Tournament,Kei Nishikori,Ernests Gulbis,,,1.0
+96197,2019-02-14T20:15Z,ABN Amro World Tennis Tournament,Marton Fucsovics,Nikoloz Basilashvili,,,1.0
+96206,2019-02-15T11:40Z,ABN Amro World Tennis Tournament,Gael Monfils,Damir Dzumhur,,,1.0
+96210,2019-02-15T13:40Z,ABN Amro World Tennis Tournament,Daniil Medvedev,Jo-Wilfried Tsonga,,,1.0
+96208,2019-02-15T18:40Z,ABN Amro World Tennis Tournament,Stan Wawrinka,Denis Shapovalov,,,1.0
+96207,2019-02-15T20:30Z,ABN Amro World Tennis Tournament,Kei Nishikori,Marton Fucsovics,,,1.0
+96209,2019-02-16T14:10Z,ABN Amro World Tennis Tournament,Gael Monfils,Daniil Medvedev,,,1.0
+96205,2019-02-16T18:40Z,ABN Amro World Tennis Tournament,Kei Nishikori,Stan Wawrinka,,,0.0
+96211,2019-02-17T14:45Z,ABN Amro World Tennis Tournament,Stan Wawrinka,Gael Monfils,,,0.0
+96244,2019-02-11T19:35Z,New York Open,Lukas Lacko,Bernard Tomic,,,0.0
+96252,2019-02-11T20:00Z,New York Open,Tennys Sandgren,Paolo Lorenzi,,,0.0
+96250,2019-02-12T00:40Z,New York Open,Noah Rubin,Jordan Thompson,,,0.0
+96247,2019-02-12T16:10Z,New York Open,Adrian Menendez-Maceiras,Christopher Eubanks,,,0.0
+96248,2019-02-12T16:10Z,New York Open,Reilly Opelka,Adrian Mannarino,,,1.0
+96258,2019-02-12T18:00Z,New York Open,Ramkumar Ramanathan,Jason Jung,,,0.0
+96249,2019-02-12T18:25Z,New York Open,Guillermo Garcia-Lopez,Alexei Popyrin,,,1.0
+96255,2019-02-12T20:00Z,New York Open,Peter Polansky,Ryan Harrison,,,0.0
+96254,2019-02-13T00:40Z,New York Open,Brayden Schnur,Jack Mingjie Lin,,,1.0
+96251,2019-02-13T02:15Z,New York Open,Sam Querrey,Lloyd Harris,,,1.0
+96246,2019-02-13T16:10Z,New York Open,Denis Istomin,Mackenzie McDonald,,,1.0
+96256,2019-02-13T16:10Z,New York Open,Ivo Karlovic,Radu Albot,,,0.0
+96262,2019-02-13T18:05Z,New York Open,Paolo Lorenzi,Ryan Harrison,,,1.0
+96259,2019-02-13T18:45Z,New York Open,Christopher Eubanks,Jordan Thompson,,,0.0
+96264,2019-02-14T00:55Z,New York Open,John Isner,Bernard Tomic,,,1.0
+96260,2019-02-14T02:30Z,New York Open,Brayden Schnur,Steve Johnson,,,1.0
+96261,2019-02-14T16:10Z,New York Open,John Millman,Guillermo Garcia-Lopez,,,0.0
+96263,2019-02-14T18:30Z,New York Open,Denis Istomin,Reilly Opelka,,,0.0
+96269,2019-02-14T20:35Z,New York Open,Sam Querrey,Radu Albot,,,1.0
+96267,2019-02-15T00:40Z,New York Open,Jason Jung,Frances Tiafoe,,,1.0
+96265,2019-02-15T17:10Z,New York Open,Paolo Lorenzi,Brayden Schnur,,,0.0
+96270,2019-02-15T20:05Z,New York Open,Sam Querrey,Jason Jung,,,1.0
+96271,2019-02-15T21:55Z,New York Open,Guillermo Garcia-Lopez,Reilly Opelka,,,0.0
+96266,2019-02-16T00:25Z,New York Open,John Isner,Jordan Thompson,,,1.0
+96273,2019-02-16T21:10Z,New York Open,Brayden Schnur,Sam Querrey,,,1.0
+96268,2019-02-17T00:10Z,New York Open,John Isner,Reilly Opelka,,,0.0
+96272,2019-02-17T21:10Z,New York Open,Reilly Opelka,Brayden Schnur,,,1.0
+96399,2019-02-18T13:55Z,Open 13 Provence,Hubert Hurkacz,Filip Krajinovic,,,1.0
+96402,2019-02-18T18:05Z,Open 13 Provence,Antoine Hoang,Gilles Simon,,,0.0
+96408,2019-02-18T20:40Z,Open 13 Provence,Denis Kudla,Mikhail Kukushkin,,,0.0
+96401,2019-02-19T11:10Z,Open 13 Provence,Constant Lestienne,Sergiy Stakhovsky,,,0.0
+96406,2019-02-19T11:10Z,Open 13 Provence,Peter Gojowczyk,Damir Dzumhur,,,1.0
+96403,2019-02-19T13:20Z,Open 13 Provence,Simone Bolelli,Benoit Paire,,,0.0
+96409,2019-02-19T15:00Z,Open 13 Provence,Fernando Verdasco,Egor Gerasimov,,,1.0
+96411,2019-02-19T18:10Z,Open 13 Provence,Jo-Wilfried Tsonga,Andrey Rublev,,,0.0
+96407,2019-02-19T20:00Z,Open 13 Provence,Jeremy Chardy,Matteo Berrettini,,,0.0
+96412,2019-02-20T11:05Z,Open 13 Provence,Matthias Bachinger,Steve Darcis,,,1.0
+96404,2019-02-20T11:10Z,Open 13 Provence,Jiri Vesely,Gregoire Barrere,,,0.0
+96413,2019-02-20T13:10Z,Open 13 Provence,Ernests Gulbis,Ugo Humbert,,,0.0
+96417,2019-02-20T15:00Z,Open 13 Provence,Mikhail Kukushkin,Denis Shapovalov,,,1.0
+96415,2019-02-20T18:10Z,Open 13 Provence,Stefanos Tsitsipas,Hubert Hurkacz,,,1.0
+96418,2019-02-20T19:40Z,Open 13 Provence,Peter Gojowczyk,Gilles Simon,,,0.0
+96421,2019-02-21T11:10Z,Open 13 Provence,Matteo Berrettini,Andrey Rublev,,,0.0
+96422,2019-02-21T13:10Z,Open 13 Provence,Fernando Verdasco,Matthias Bachinger,,,0.0
+96419,2019-02-21T14:40Z,Open 13 Provence,Ugo Humbert,Borna Coric,,,1.0
+96420,2019-02-21T18:10Z,Open 13 Provence,David Goffin,Benoit Paire,,,1.0
+96416,2019-02-21T19:35Z,Open 13 Provence,Sergiy Stakhovsky,Gregoire Barrere,,,1.0
+96424,2019-02-22T13:10Z,Open 13 Provence,Andrey Rublev,Mikhail Kukushkin,,,0.0
+96426,2019-02-22T14:30Z,Open 13 Provence,Matthias Bachinger,Ugo Humbert,,,0.0
+96425,2019-02-22T18:10Z,Open 13 Provence,Stefanos Tsitsipas,Sergiy Stakhovsky,,,1.0
+96423,2019-02-22T19:55Z,Open 13 Provence,David Goffin,Gilles Simon,,,1.0
+96427,2019-02-23T14:10Z,Open 13 Provence,Mikhail Kukushkin,Ugo Humbert,,,1.0
+96428,2019-02-23T16:00Z,Open 13 Provence,Stefanos Tsitsipas,David Goffin,,,1.0
+96429,2019-02-24T13:10Z,Open 13 Provence,Stefanos Tsitsipas,Mikhail Kukushkin,,,1.0
+96319,2019-02-18T17:40Z,Delray Beach Open,Lukas Lacko,Yosuke Watanuki,,,1.0
+96317,2019-02-18T19:40Z,Delray Beach Open,Denis Istomin,Feliciano Lopez,,,1.0
+123264,2019-02-18T23:05Z,Delray Beach Open,Lloyd Harris,Darian King,,,1.0
+96315,2019-02-18T23:05Z,Delray Beach Open,Lloyd Harris,Darian King,,,1.0
+96311,2019-02-19T01:05Z,Delray Beach Open,Nick Kyrgios,John Millman,,,1.0
+96306,2019-02-19T16:10Z,Delray Beach Open,Guillermo Garcia-Lopez,Jared Donaldson,,,1.0
+96314,2019-02-19T16:10Z,Delray Beach Open,Radu Albot,Ivo Karlovic,,,1.0
+96309,2019-02-19T16:10Z,Delray Beach Open,Mackenzie McDonald,Taylor Fritz,,,1.0
+96307,2019-02-19T18:00Z,Delray Beach Open,Steve Johnson,Jason Jung,,,1.0
+96312,2019-02-19T18:05Z,Delray Beach Open,Jordan Thompson,Marcel Granollers,,,1.0
+96308,2019-02-19T18:40Z,Delray Beach Open,Tim Smyczek,Paolo Lorenzi,,,0.0
+96313,2019-02-19T19:40Z,Delray Beach Open,Andreas Seppi,Bernard Tomic,,,1.0
+96318,2019-02-19T20:10Z,Delray Beach Open,Peter Polansky,John Isner,,,0.0
+96320,2019-02-19T20:20Z,Delray Beach Open,Adrian Mannarino,Brayden Schnur,,,1.0
+96310,2019-02-19T21:15Z,Delray Beach Open,Tennys Sandgren,Reilly Opelka,,,0.0
+96316,2019-02-19T23:05Z,Delray Beach Open,Daniel Evans,Frances Tiafoe,,,1.0
+96305,2019-02-20T01:45Z,Delray Beach Open,Juan Martin del Potro,Yoshihito Nishioka,,,1.0
+96327,2019-02-20T16:10Z,Delray Beach Open,Andreas Seppi,Jordan Thompson,,,1.0
+96323,2019-02-20T18:10Z,Delray Beach Open,Adrian Mannarino,Denis Istomin,,,1.0
+96321,2019-02-20T19:40Z,Delray Beach Open,Lloyd Harris,Daniel Evans,,,0.0
+123302,2019-02-20T19:45Z,Delray Beach Open,Lloyd Harris,Daniel Evans,,,0.0
+96328,2019-02-20T23:10Z,Delray Beach Open,Lukas Lacko,John Isner,,,0.0
+96324,2019-02-21T18:10Z,Delray Beach Open,Steve Johnson,Paolo Lorenzi,,,1.0
+96325,2019-02-21T20:25Z,Delray Beach Open,Radu Albot,Nick Kyrgios,,,1.0
+96322,2019-02-21T23:45Z,Delray Beach Open,Guillermo Garcia-Lopez,Mackenzie McDonald,,,0.0
+96326,2019-02-22T01:45Z,Delray Beach Open,Juan Martin del Potro,Reilly Opelka,,,1.0
+96329,2019-02-22T17:35Z,Delray Beach Open,Andreas Seppi,Daniel Evans,,,0.0
+96331,2019-02-22T19:35Z,Delray Beach Open,Adrian Mannarino,John Isner,,,0.0
+96330,2019-02-22T23:10Z,Delray Beach Open,Steve Johnson,Radu Albot,,,0.0
+96332,2019-02-23T01:35Z,Delray Beach Open,Juan Martin del Potro,Mackenzie McDonald,,,0.0
+96333,2019-02-23T20:15Z,Delray Beach Open,Daniel Evans,John Isner,,,1.0
+96334,2019-02-24T01:10Z,Delray Beach Open,Mackenzie McDonald,Radu Albot,,,0.0
+96335,2019-02-24T20:10Z,Delray Beach Open,Radu Albot,Daniel Evans,,,1.0
+121988,2019-02-19T09:35Z,Dubai Duty Free Tennis Championships,Alison Riske-Amritraj,Alize Cornet,,,1.0
+121972,2019-02-20T13:25Z,Dubai Duty Free Tennis Championships,Alison Riske-Amritraj,Karolina Pliskova,,,0.0
+96505,2019-02-25T10:10Z,Dubai Duty Free Tennis Championships,Damir Dzumhur,Marton Fucsovics,,,0.0
+96503,2019-02-25T10:10Z,Dubai Duty Free Tennis Championships,Thomas Fabbiano,Fernando Verdasco,,,0.0
+96504,2019-02-25T11:50Z,Dubai Duty Free Tennis Championships,Milos Raonic,Jan-Lennard Struff,,,0.0
+96506,2019-02-25T12:30Z,Dubai Duty Free Tennis Championships,Nikoloz Basilashvili,Karen Khachanov,,,1.0
+96507,2019-02-25T15:10Z,Dubai Duty Free Tennis Championships,Philipp Kohlschreiber,Roger Federer,,,0.0
+96498,2019-02-25T17:10Z,Dubai Duty Free Tennis Championships,Roberto Bautista Agut,Ramkumar Ramanathan,,,1.0
+96495,2019-02-26T10:05Z,Dubai Duty Free Tennis Championships,Egor Gerasimov,Robin Haase,,,1.0
+96497,2019-02-26T10:05Z,Dubai Duty Free Tennis Championships,Matteo Berrettini,Denis Kudla,,,0.0
+96502,2019-02-26T10:10Z,Dubai Duty Free Tennis Championships,Ricardas Berankis,Daniil Medvedev,,,1.0
+96493,2019-02-26T12:10Z,Dubai Duty Free Tennis Championships,Kei Nishikori,Benoit Paire,,,1.0
+96492,2019-02-26T12:10Z,Dubai Duty Free Tennis Championships,Hubert Hurkacz,Corentin Moutet,,,1.0
+96501,2019-02-26T12:20Z,Dubai Duty Free Tennis Championships,Mohamed Safwat,Marcos Baghdatis,,,0.0
+96500,2019-02-26T14:30Z,Dubai Duty Free Tennis Championships,Tomas Berdych,Ilya Ivashka,,,1.0
+96496,2019-02-26T15:15Z,Dubai Duty Free Tennis Championships,Marin Cilic,Gael Monfils,,,0.0
+96499,2019-02-26T17:15Z,Dubai Duty Free Tennis Championships,Borna Coric,Jiri Vesely,,,1.0
+96494,2019-02-26T17:20Z,Dubai Duty Free Tennis Championships,Matthew Ebden,Stefanos Tsitsipas,,,0.0
+96510,2019-02-27T10:05Z,Dubai Duty Free Tennis Championships,Denis Kudla,Ricardas Berankis,,,0.0
+96511,2019-02-27T10:10Z,Dubai Duty Free Tennis Championships,Kei Nishikori,Hubert Hurkacz,,,0.0
+96508,2019-02-27T11:40Z,Dubai Duty Free Tennis Championships,Roberto Bautista Agut,Nikoloz Basilashvili,,,0.0
+96513,2019-02-27T12:10Z,Dubai Duty Free Tennis Championships,Jan-Lennard Struff,Marton Fucsovics,,,0.0
+96514,2019-02-27T12:35Z,Dubai Duty Free Tennis Championships,Gael Monfils,Marcos Baghdatis,,,1.0
+96509,2019-02-27T14:10Z,Dubai Duty Free Tennis Championships,Egor Gerasimov,Stefanos Tsitsipas,,,0.0
+96515,2019-02-27T15:10Z,Dubai Duty Free Tennis Championships,Fernando Verdasco,Roger Federer,,,0.0
+96512,2019-02-27T17:05Z,Dubai Duty Free Tennis Championships,Borna Coric,Tomas Berdych,,,1.0
+96518,2019-02-28T11:10Z,Dubai Duty Free Tennis Championships,Gael Monfils,Ricardas Berankis,,,1.0
+96517,2019-02-28T13:25Z,Dubai Duty Free Tennis Championships,Hubert Hurkacz,Stefanos Tsitsipas,,,0.0
+96520,2019-02-28T16:05Z,Dubai Duty Free Tennis Championships,Marton Fucsovics,Roger Federer,,,0.0
+96519,2019-02-28T18:30Z,Dubai Duty Free Tennis Championships,Borna Coric,Nikoloz Basilashvili,,,1.0
+96516,2019-03-01T13:15Z,Dubai Duty Free Tennis Championships,Stefanos Tsitsipas,Gael Monfils,,,1.0
+96521,2019-03-01T16:35Z,Dubai Duty Free Tennis Championships,Borna Coric,Roger Federer,,,0.0
+96522,2019-03-02T15:10Z,Dubai Duty Free Tennis Championships,Stefanos Tsitsipas,Roger Federer,,,0.0
+96432,2019-02-19T16:10Z,Rio Open,Casper Ruud,Carlos Berlocq,,,1.0
+96436,2019-02-19T16:10Z,Rio Open,Guido Pella,João Sousa,,,0.0
+96442,2019-02-19T16:10Z,Rio Open,Dusan Lajovic,Cameron Norrie,,,0.0
+96443,2019-02-19T16:10Z,Rio Open,Jaume Munar,Leonardo Mayer,,,1.0
+96435,2019-02-19T17:25Z,Rio Open,Guido Andreozzi,Hugo Dellien,,,0.0
+96437,2019-02-19T18:00Z,Rio Open,Roberto Carballes Baena,Nicolas Jarry,,,1.0
+96438,2019-02-19T18:00Z,Rio Open,Malek Jaziri,Federico Delbonis,,,0.0
+96433,2019-02-19T18:05Z,Rio Open,Lorenzo Sonego,Albert Ramos-Vinolas,,,0.0
+123484,2019-02-19T18:45Z,Rio Open,Roberto Carballes Baena,Nicolas Jarry,,,1.0
+96439,2019-02-19T19:30Z,Rio Open,Marco Cecchinato,Aljaz Bedene,,,0.0
+96444,2019-02-19T20:50Z,Rio Open,Cristian Garin,Maximilian Marterer,,,1.0
+96434,2019-02-19T21:35Z,Rio Open,Pedro Sousa,Thiago Monteiro,,,0.0
+96445,2019-02-19T21:40Z,Rio Open,Felix Auger-Aliassime,Fabio Fognini,,,1.0
+96441,2019-02-19T22:50Z,Rio Open,Elias Ymer,Juan Ignacio Londero,,,0.0
+96431,2019-02-19T23:25Z,Rio Open,Dominic Thiem,Laslo Djere,,,0.0
+96440,2019-02-20T19:30Z,Rio Open,Pablo Cuevas,Diego Schwartzman,,,1.0
+96430,2019-02-20T19:30Z,Rio Open,Thiago Seyboth Wild,Taro Daniel,,,0.0
+96447,2019-02-20T20:05Z,Rio Open,Cameron Norrie,Jaume Munar,,,0.0
+96452,2019-02-20T20:50Z,Rio Open,Hugo Dellien,Roberto Carballes Baena,,,1.0
+96448,2019-02-20T22:05Z,Rio Open,Aljaz Bedene,Thiago Monteiro,,,1.0
+96457,2019-02-21T00:40Z,Rio Open,Cristian Garin,Felix Auger-Aliassime,,,0.0
+96446,2019-02-21T19:40Z,Rio Open,Laslo Djere,Taro Daniel,,,1.0
+96449,2019-02-21T19:40Z,Rio Open,Federico Delbonis,Albert Ramos-Vinolas,,,0.0
+96451,2019-02-21T21:20Z,Rio Open,Casper Ruud,João Sousa,,,1.0
+96450,2019-02-21T22:25Z,Rio Open,Juan Ignacio Londero,Pablo Cuevas,,,0.0
+96455,2019-02-22T18:10Z,Rio Open,Aljaz Bedene,Hugo Dellien,,,1.0
+96459,2019-02-22T20:50Z,Rio Open,Laslo Djere,Casper Ruud,,,1.0
+96453,2019-02-22T22:55Z,Rio Open,Jaume Munar,Felix Auger-Aliassime,,,0.0
+123169,2019-02-23T00:50Z,Rio Open,Albert Ramos-Vinolas,Pablo Cuevas,,,0.0
+96458,2019-02-23T00:55Z,Rio Open,Albert Ramos-Vinolas,Pablo Cuevas,,,0.0
+96456,2019-02-23T20:00Z,Rio Open,Laslo Djere,Aljaz Bedene,,,1.0
+96454,2019-02-23T21:10Z,Rio Open,Pablo Cuevas,Felix Auger-Aliassime,,,0.0
+96460,2019-02-24T20:10Z,Rio Open,Laslo Djere,Felix Auger-Aliassime,,,1.0
+122893,2019-02-23T20:30Z,Brasil Open,Pedro Martinez,Joao Lucas Magalhaes Hueb De Menezes,,,1.0
+122894,2019-02-24T19:30Z,Brasil Open,Pedro Martinez,Federico Coria,,,1.0
+96526,2019-02-25T15:35Z,Brasil Open,Pedro Sousa,Cristian Garin,,,0.0
+96535,2019-02-25T17:15Z,Brasil Open,Roberto Carballes Baena,Maximilian Marterer,,,1.0
+123496,2019-02-25T17:15Z,Brasil Open,Roberto Carballes Baena,Maximilian Marterer,,,1.0
+96533,2019-02-25T21:00Z,Brasil Open,Taro Daniel,Marco Trungelliti,,,0.0
+96530,2019-02-26T00:10Z,Brasil Open,Lorenzo Sonego,Federico Delbonis,,,1.0
+96527,2019-02-26T14:35Z,Brasil Open,Pedro Sakamoto,Jaume Munar,,,0.0
+96529,2019-02-26T16:00Z,Brasil Open,Paolo Lorenzi,Juan Ignacio Londero,,,0.0
+122933,2019-02-26T16:00Z,Brasil Open,Pedro Martinez,Hugo Dellien,,,0.0
+96524,2019-02-26T16:30Z,Brasil Open,Pedro Martinez,Hugo Dellien,,,0.0
+96532,2019-02-26T17:40Z,Brasil Open,Facundo Bagnis,Albert Ramos-Vinolas,,,0.0
+96534,2019-02-26T22:45Z,Brasil Open,Thiago Seyboth Wild,Elias Ymer,,,1.0
+96525,2019-02-27T01:05Z,Brasil Open,Casper Ruud,Thiago Monteiro,,,1.0
+96538,2019-02-27T15:35Z,Brasil Open,Alessandro Giannessi,Laslo Djere,,,0.0
+96540,2019-02-27T15:35Z,Brasil Open,Cristian Garin,Jaume Munar,,,1.0
+96539,2019-02-27T18:40Z,Brasil Open,Leonardo Mayer,Lorenzo Sonego,,,1.0
+96544,2019-02-27T20:50Z,Brasil Open,Roberto Carballes Baena,Guido Pella,,,0.0
+123498,2019-02-27T20:55Z,Brasil Open,Roberto Carballes Baena,Guido Pella,,,0.0
+96536,2019-02-27T22:40Z,Brasil Open,Pablo Cuevas,Felix Auger-Aliassime,,,0.0
+96543,2019-02-28T01:00Z,Brasil Open,Marco Trungelliti,Thiago Seyboth Wild,,,1.0
+96541,2019-02-28T15:40Z,Brasil Open,Hugo Dellien,Juan Ignacio Londero,,,1.0
+96542,2019-02-28T17:40Z,Brasil Open,João Sousa,Casper Ruud,,,0.0
+96546,2019-02-28T19:15Z,Brasil Open,Felix Auger-Aliassime,Albert Ramos-Vinolas,,,1.0
+96545,2019-02-28T22:40Z,Brasil Open,Laslo Djere,Malek Jaziri,,,1.0
+96548,2019-03-01T15:40Z,Brasil Open,Leonardo Mayer,Cristian Garin,,,0.0
+96547,2019-03-01T17:45Z,Brasil Open,Casper Ruud,Hugo Dellien,,,1.0
+96552,2019-03-01T18:55Z,Brasil Open,Marco Trungelliti,Guido Pella,,,0.0
+96550,2019-03-01T22:40Z,Brasil Open,Felix Auger-Aliassime,Laslo Djere,,,0.0
+96549,2019-03-02T15:40Z,Brasil Open,Casper Ruud,Cristian Garin,,,0.0
+96551,2019-03-02T17:40Z,Brasil Open,Guido Pella,Laslo Djere,,,1.0
+96553,2019-03-03T17:40Z,Brasil Open,Cristian Garin,Guido Pella,,,0.0
+96586,2019-02-25T22:05Z,Abierto Mexicano TELCEL,Wang Yafan,Marie Bouzkova,,,1.0
+96585,2019-02-25T22:10Z,Abierto Mexicano TELCEL,Monica Puig,Maria Sakkari,,,1.0
+96595,2019-02-25T23:55Z,Abierto Mexicano TELCEL,Katie Boulter,Conny Perrin,,,1.0
+96587,2019-02-26T01:30Z,Abierto Mexicano TELCEL,Beatriz Haddad Maia,Irina Bara,,,1.0
+96591,2019-02-26T02:30Z,Abierto Mexicano TELCEL,Donna Vekic,Misaki Doi,,,1.0
+96599,2019-02-26T22:10Z,Abierto Mexicano TELCEL,Tatjana Maria,Martina Trevisan,,,1.0
+96588,2019-02-26T22:10Z,Abierto Mexicano TELCEL,Sloane Stephens,Pauline Parmentier,,,1.0
+96596,2019-02-26T22:15Z,Abierto Mexicano TELCEL,Daria Saville,Mihaela Buzarnescu,,,0.0
+96589,2019-02-26T23:55Z,Abierto Mexicano TELCEL,Laura Siegemund,Johanna Konta,,,0.0
+96594,2019-02-27T00:10Z,Abierto Mexicano TELCEL,Timea Babos,Dalila Jakupovic,,,1.0
+96593,2019-02-27T00:45Z,Abierto Mexicano TELCEL,Ysaline Bonaventure,Christina McHale,,,0.0
+96592,2019-02-27T01:20Z,Abierto Mexicano TELCEL,Zheng Saisai,Renata Zarazua,,,1.0
+96600,2019-02-27T01:40Z,Abierto Mexicano TELCEL,Victoria Azarenka,Danielle Collins,,,1.0
+96598,2019-02-27T02:55Z,Abierto Mexicano TELCEL,Jil Teichmann,Bianca Andreescu,,,0.0
+96590,2019-02-27T04:00Z,Abierto Mexicano TELCEL,Amanda Anisimova,Varvara Flink,,,0.0
+96597,2019-02-27T04:30Z,Abierto Mexicano TELCEL,Sofia Kenin,Rebecca Peterson,,,1.0
+96601,2019-02-27T22:05Z,Abierto Mexicano TELCEL,Donna Vekic,Christina McHale,,,1.0
+96604,2019-02-27T22:10Z,Abierto Mexicano TELCEL,Zheng Saisai,Timea Babos,,,1.0
+96603,2019-02-27T22:10Z,Abierto Mexicano TELCEL,Sloane Stephens,Beatriz Haddad Maia,,,0.0
+96605,2019-02-27T23:30Z,Abierto Mexicano TELCEL,Tatjana Maria,Victoria Azarenka,,,0.0
+96606,2019-02-27T23:50Z,Abierto Mexicano TELCEL,Bianca Andreescu,Mihaela Buzarnescu,,,1.0
+96608,2019-02-28T00:15Z,Abierto Mexicano TELCEL,Varvara Flink,Johanna Konta,,,0.0
+96602,2019-02-28T00:35Z,Abierto Mexicano TELCEL,Wang Yafan,Monica Puig,,,1.0
+96607,2019-02-28T01:35Z,Abierto Mexicano TELCEL,Sofia Kenin,Katie Boulter,,,1.0
+96612,2019-02-28T22:05Z,Abierto Mexicano TELCEL,Beatriz Haddad Maia,Wang Yafan,,,0.0
+96611,2019-03-01T00:05Z,Abierto Mexicano TELCEL,Donna Vekic,Johanna Konta,,,1.0
+96609,2019-03-01T01:45Z,Abierto Mexicano TELCEL,Sofia Kenin,Victoria Azarenka,,,1.0
+96610,2019-03-01T04:35Z,Abierto Mexicano TELCEL,Zheng Saisai,Bianca Andreescu,,,0.0
+96616,2019-03-01T22:05Z,Abierto Mexicano TELCEL,Wang Yafan,Donna Vekic,,,1.0
+96617,2019-03-02T02:05Z,Abierto Mexicano TELCEL,Bianca Andreescu,Sofia Kenin,,,0.0
+96618,2019-03-03T00:10Z,Abierto Mexicano TELCEL,Wang Yafan,Sofia Kenin,,,1.0
+96559,2019-02-25T22:10Z,Abierto Mexicano TELCEL,Gerardo Lopez Villasenor,Steve Johnson,,,0.0
+96557,2019-02-26T00:15Z,Abierto Mexicano TELCEL,Federico Gaio,Peter Gojowczyk,,,0.0
+96560,2019-02-26T01:05Z,Abierto Mexicano TELCEL,Marcel Granollers,John Millman,,,0.0
+96554,2019-02-26T02:50Z,Abierto Mexicano TELCEL,Ryan Harrison,Stan Wawrinka,,,0.0
+96561,2019-02-26T04:45Z,Abierto Mexicano TELCEL,Frances Tiafoe,Jordan Thompson,,,1.0
+96563,2019-02-26T22:10Z,Abierto Mexicano TELCEL,Marius Copil,Diego Schwartzman,,,0.0
+96566,2019-02-26T22:10Z,Abierto Mexicano TELCEL,Cameron Norrie,Yoshihito Nishioka,,,1.0
+96558,2019-02-26T22:10Z,Abierto Mexicano TELCEL,John Isner,Adrian Mannarino,,,1.0
+96556,2019-02-27T00:05Z,Abierto Mexicano TELCEL,Nick Kyrgios,Andreas Seppi,,,1.0
+96569,2019-02-27T00:10Z,Abierto Mexicano TELCEL,Alexei Popyrin,Alexander Zverev,,,0.0
+96562,2019-02-27T00:30Z,Abierto Mexicano TELCEL,Sam Querrey,Guillermo Garcia-Lopez,,,1.0
+96555,2019-02-27T01:45Z,Abierto Mexicano TELCEL,Rafael Nadal,Mischa Zverev,,,1.0
+96565,2019-02-27T01:50Z,Abierto Mexicano TELCEL,Alex de Minaur,Nicolas Jarry,,,1.0
+96564,2019-02-27T02:55Z,Abierto Mexicano TELCEL,Mackenzie McDonald,Emilio Nava,,,1.0
+96567,2019-02-27T03:10Z,Abierto Mexicano TELCEL,Dusan Lajovic,Feliciano Lopez,,,0.0
+96568,2019-02-27T04:10Z,Abierto Mexicano TELCEL,Tennys Sandgren,David Ferrer,,,0.0
+96574,2019-02-27T22:05Z,Abierto Mexicano TELCEL,John Isner,Sam Querrey,,,1.0
+96579,2019-02-27T22:10Z,Abierto Mexicano TELCEL,Peter Gojowczyk,John Millman,,,0.0
+96572,2019-02-28T00:05Z,Abierto Mexicano TELCEL,Frances Tiafoe,Mackenzie McDonald,,,0.0
+96571,2019-02-28T00:05Z,Abierto Mexicano TELCEL,Stan Wawrinka,Steve Johnson,,,1.0
+96575,2019-02-28T01:10Z,Abierto Mexicano TELCEL,Cameron Norrie,Diego Schwartzman,,,1.0
+96570,2019-02-28T02:10Z,Abierto Mexicano TELCEL,Rafael Nadal,Nick Kyrgios,,,0.0
+96577,2019-02-28T04:00Z,Abierto Mexicano TELCEL,Alex de Minaur,Feliciano Lopez,,,1.0
+96578,2019-02-28T05:30Z,Abierto Mexicano TELCEL,David Ferrer,Alexander Zverev,,,0.0
+96583,2019-02-28T23:10Z,Abierto Mexicano TELCEL,Mackenzie McDonald,Cameron Norrie,,,0.0
+96581,2019-03-01T00:55Z,Abierto Mexicano TELCEL,Alex de Minaur,Alexander Zverev,,,0.0
+96573,2019-03-01T02:30Z,Abierto Mexicano TELCEL,Nick Kyrgios,Stan Wawrinka,,,1.0
+96576,2019-03-01T05:20Z,Abierto Mexicano TELCEL,John Isner,John Millman,,,1.0
+96580,2019-03-02T00:20Z,Abierto Mexicano TELCEL,Cameron Norrie,Alexander Zverev,,,0.0
+96582,2019-03-02T04:40Z,Abierto Mexicano TELCEL,Nick Kyrgios,John Isner,,,1.0
+96584,2019-03-03T03:10Z,Abierto Mexicano TELCEL,Nick Kyrgios,Alexander Zverev,,,1.0

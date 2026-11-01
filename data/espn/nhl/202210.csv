@@ -1,0 +1,198 @@
+id,date,event,home,away,hs,as,res
+401461497,2022-10-01T17:00Z,Pittsburgh Penguins at Buffalo Sabres,Buffalo Sabres,Pittsburgh Penguins,3,1,1.0
+401461500,2022-10-01T17:00Z,Philadelphia Flyers at Boston Bruins,Boston Bruins,Philadelphia Flyers,4,0,1.0
+401461501,2022-10-01T17:00Z,Florida Panthers at Carolina Hurricanes,Carolina Hurricanes,Florida Panthers,4,3,1.0
+401461496,2022-10-01T23:00Z,Montreal Canadiens at Ottawa Senators,Ottawa Senators,Montreal Canadiens,5,4,1.0
+401461499,2022-10-01T23:00Z,Washington Capitals at Columbus Blue Jackets,Columbus Blue Jackets,Washington Capitals,2,1,1.0
+401461494,2022-10-02T00:00Z,Dallas Stars at St. Louis Blues,St. Louis Blues,Dallas Stars,2,5,0.0
+401461498,2022-10-02T00:00Z,Edmonton Oilers at Winnipeg Jets,Winnipeg Jets,Edmonton Oilers,2,3,0.0
+401465748,2022-10-02T00:30Z,Detroit Red Wings at Chicago Blackhawks,Chicago Blackhawks,Detroit Red Wings,0,3,0.0
+401461495,2022-10-02T01:30Z,Vancouver Canucks at Seattle Kraken,Seattle Kraken,Vancouver Canucks,4,0,1.0
+401461502,2022-10-02T23:00Z,Philadelphia Flyers at New York Islanders,New York Islanders,Philadelphia Flyers,2,1,1.0
+401465749,2022-10-02T23:30Z,Minnesota Wild at Chicago Blackhawks,Chicago Blackhawks,Minnesota Wild,0,3,0.0
+401461503,2022-10-03T01:00Z,Anaheim Ducks at Los Angeles Kings,Los Angeles Kings,Anaheim Ducks,2,1,1.0
+401461506,2022-10-03T23:00Z,Boston Bruins at New Jersey Devils,New Jersey Devils,Boston Bruins,1,0,1.0
+401461509,2022-10-03T23:00Z,Toronto Maple Leafs at Montreal Canadiens,Montreal Canadiens,Toronto Maple Leafs,1,5,0.0
+401461510,2022-10-03T23:00Z,Columbus Blue Jackets at Carolina Hurricanes,Carolina Hurricanes,Columbus Blue Jackets,8,1,1.0
+401461504,2022-10-03T23:30Z,Pittsburgh Penguins at Detroit Red Wings,Detroit Red Wings,Pittsburgh Penguins,2,3,0.0
+401461507,2022-10-04T00:00Z,Colorado Avalanche at Dallas Stars,Dallas Stars,Colorado Avalanche,1,3,0.0
+401461505,2022-10-04T01:00Z,Vancouver Canucks at Edmonton Oilers,Edmonton Oilers,Vancouver Canucks,7,2,1.0
+401461508,2022-10-04T01:00Z,Seattle Kraken at Calgary Flames,Calgary Flames,Seattle Kraken,4,1,1.0
+401461511,2022-10-04T23:00Z,New York Islanders at Philadelphia Flyers,Philadelphia Flyers,New York Islanders,3,4,0.0
+401461512,2022-10-04T23:00Z,Ottawa Senators at Montreal Canadiens,Montreal Canadiens,Ottawa Senators,4,5,0.0
+401461515,2022-10-04T23:00Z,Carolina Hurricanes at Buffalo Sabres,Buffalo Sabres,Carolina Hurricanes,4,2,1.0
+401461516,2022-10-05T00:00Z,Minnesota Wild at St. Louis Blues,St. Louis Blues,Minnesota Wild,4,2,1.0
+401461513,2022-10-05T02:00Z,Arizona Coyotes at Vegas Golden Knights,Vegas Golden Knights,Arizona Coyotes,4,3,1.0
+401461514,2022-10-05T02:00Z,Los Angeles Kings at Anaheim Ducks,Anaheim Ducks,Los Angeles Kings,5,4,1.0
+401461517,2022-10-05T23:00Z,Detroit Red Wings at Washington Capitals,Washington Capitals,Detroit Red Wings,4,2,1.0
+401461521,2022-10-05T23:00Z,Boston Bruins at New York Rangers,New York Rangers,Boston Bruins,4,5,0.0
+401461519,2022-10-06T00:00Z,Calgary Flames at Winnipeg Jets,Winnipeg Jets,Calgary Flames,5,0,1.0
+401461520,2022-10-06T01:30Z,Dallas Stars at Colorado Avalanche,Colorado Avalanche,Dallas Stars,2,1,1.0
+401461518,2022-10-06T02:00Z,Edmonton Oilers at Vancouver Canucks,Vancouver Canucks,Edmonton Oilers,5,4,1.0
+401461522,2022-10-06T22:00Z,Ottawa Senators at Montreal Canadiens,Montreal Canadiens,Ottawa Senators,3,4,0.0
+401461524,2022-10-06T23:00Z,Tampa Bay Lightning at Florida Panthers,Florida Panthers,Tampa Bay Lightning,3,2,1.0
+401461525,2022-10-06T23:00Z,New Jersey Devils at New York Islanders,New York Islanders,New Jersey Devils,5,2,1.0
+401461523,2022-10-07T00:00Z,Chicago Blackhawks at Minnesota Wild,Minnesota Wild,Chicago Blackhawks,4,1,1.0
+401461526,2022-10-07T00:00Z,St. Louis Blues at Columbus Blue Jackets,Columbus Blue Jackets,St. Louis Blues,7,0,1.0
+401461527,2022-10-07T01:00Z,Vegas Golden Knights at Los Angeles Kings,Los Angeles Kings,Vegas Golden Knights,4,6,0.0
+401458590,2022-10-07T18:00Z,San Jose Sharks at Nashville Predators,Nashville Predators,San Jose Sharks,4,1,1.0
+401461528,2022-10-07T23:00Z,Buffalo Sabres at Pittsburgh Penguins,Pittsburgh Penguins,Buffalo Sabres,7,1,1.0
+401461532,2022-10-07T23:30Z,Toronto Maple Leafs at Detroit Red Wings,Detroit Red Wings,Toronto Maple Leafs,4,2,1.0
+401461530,2022-10-08T01:00Z,Seattle Kraken at Edmonton Oilers,Edmonton Oilers,Seattle Kraken,5,3,1.0
+401461531,2022-10-08T01:00Z,Winnipeg Jets at Calgary Flames,Calgary Flames,Winnipeg Jets,3,5,0.0
+401461529,2022-10-08T02:00Z,Arizona Coyotes at Vancouver Canucks,Vancouver Canucks,Arizona Coyotes,4,0,1.0
+401458591,2022-10-08T18:00Z,Nashville Predators at San Jose Sharks,San Jose Sharks,Nashville Predators,2,3,0.0
+401461533,2022-10-08T19:00Z,Chicago Blackhawks at St. Louis Blues,St. Louis Blues,Chicago Blackhawks,6,0,1.0
+401461538,2022-10-08T20:00Z,Florida Panthers at Tampa Bay Lightning,Tampa Bay Lightning,Florida Panthers,5,2,1.0
+401461539,2022-10-08T20:00Z,Anaheim Ducks at Los Angeles Kings,Los Angeles Kings,Anaheim Ducks,6,3,1.0
+401461537,2022-10-08T22:00Z,Dallas Stars at Minnesota Wild,Minnesota Wild,Dallas Stars,5,1,1.0
+401461535,2022-10-08T22:30Z,Montreal Canadiens at Ottawa Senators,Ottawa Senators,Montreal Canadiens,3,2,1.0
+401461534,2022-10-08T23:00Z,New York Rangers at New York Islanders,New York Islanders,New York Rangers,3,1,1.0
+401461540,2022-10-08T23:00Z,Detroit Red Wings at Toronto Maple Leafs,Toronto Maple Leafs,Detroit Red Wings,5,1,1.0
+401461541,2022-10-08T23:00Z,New Jersey Devils at Boston Bruins,Boston Bruins,New Jersey Devils,3,5,0.0
+401461542,2022-10-08T23:00Z,Columbus Blue Jackets at Washington Capitals,Washington Capitals,Columbus Blue Jackets,4,3,1.0
+401461536,2022-10-09T00:00Z,Arizona Coyotes at Vegas Golden Knights,Vegas Golden Knights,Arizona Coyotes,5,1,1.0
+401458593,2022-10-11T23:30Z,Tampa Bay Lightning at New York Rangers,New York Rangers,Tampa Bay Lightning,3,1,1.0
+401458592,2022-10-12T02:00Z,Vegas Golden Knights at Los Angeles Kings,Los Angeles Kings,Vegas Golden Knights,3,4,0.0
+401458595,2022-10-12T23:00Z,Columbus Blue Jackets at Carolina Hurricanes,Carolina Hurricanes,Columbus Blue Jackets,4,1,1.0
+401458598,2022-10-12T23:00Z,Toronto Maple Leafs at Montreal Canadiens,Montreal Canadiens,Toronto Maple Leafs,4,3,1.0
+401458599,2022-10-12T23:00Z,Boston Bruins at Washington Capitals,Washington Capitals,Boston Bruins,2,5,0.0
+401458596,2022-10-13T01:30Z,Chicago Blackhawks at Colorado Avalanche,Colorado Avalanche,Chicago Blackhawks,5,2,1.0
+401458594,2022-10-13T02:00Z,Seattle Kraken at Anaheim Ducks,Anaheim Ducks,Seattle Kraken,5,4,1.0
+401458597,2022-10-13T02:00Z,Vancouver Canucks at Edmonton Oilers,Edmonton Oilers,Vancouver Canucks,5,3,1.0
+401458600,2022-10-13T23:00Z,Ottawa Senators at Buffalo Sabres,Buffalo Sabres,Ottawa Senators,4,1,1.0
+401458606,2022-10-13T23:00Z,New Jersey Devils at Philadelphia Flyers,Philadelphia Flyers,New Jersey Devils,5,2,1.0
+401458607,2022-10-13T23:00Z,Arizona Coyotes at Pittsburgh Penguins,Pittsburgh Penguins,Arizona Coyotes,6,2,1.0
+401458604,2022-10-13T23:30Z,Florida Panthers at New York Islanders,New York Islanders,Florida Panthers,1,3,0.0
+401458608,2022-10-13T23:30Z,Washington Capitals at Toronto Maple Leafs,Toronto Maple Leafs,Washington Capitals,3,2,1.0
+401458603,2022-10-14T00:00Z,New York Rangers at Minnesota Wild,Minnesota Wild,New York Rangers,3,7,0.0
+401458605,2022-10-14T00:30Z,Dallas Stars at Nashville Predators,Nashville Predators,Dallas Stars,1,4,0.0
+401458601,2022-10-14T01:30Z,Colorado Avalanche at Calgary Flames,Calgary Flames,Colorado Avalanche,5,3,1.0
+401458609,2022-10-14T02:00Z,Chicago Blackhawks at Vegas Golden Knights,Vegas Golden Knights,Chicago Blackhawks,1,0,1.0
+401458602,2022-10-14T02:30Z,Seattle Kraken at Los Angeles Kings,Los Angeles Kings,Seattle Kraken,1,4,0.0
+401458610,2022-10-14T23:00Z,Tampa Bay Lightning at Columbus Blue Jackets,Columbus Blue Jackets,Tampa Bay Lightning,2,5,0.0
+401458611,2022-10-14T23:00Z,Montreal Canadiens at Detroit Red Wings,Detroit Red Wings,Montreal Canadiens,3,0,1.0
+401458613,2022-10-15T00:00Z,New York Rangers at Winnipeg Jets,Winnipeg Jets,New York Rangers,4,1,1.0
+401458612,2022-10-15T02:30Z,Carolina Hurricanes at San Jose Sharks,San Jose Sharks,Carolina Hurricanes,1,2,0.0
+401458615,2022-10-15T17:00Z,Florida Panthers at Buffalo Sabres,Buffalo Sabres,Florida Panthers,3,4,0.0
+401458621,2022-10-15T20:00Z,Vancouver Canucks at Philadelphia Flyers,Philadelphia Flyers,Vancouver Canucks,3,2,1.0
+401458614,2022-10-15T23:00Z,Arizona Coyotes at Boston Bruins,Boston Bruins,Arizona Coyotes,6,3,1.0
+401458620,2022-10-15T23:00Z,Detroit Red Wings at New Jersey Devils,New Jersey Devils,Detroit Red Wings,2,5,0.0
+401458622,2022-10-15T23:00Z,Tampa Bay Lightning at Pittsburgh Penguins,Pittsburgh Penguins,Tampa Bay Lightning,6,2,1.0
+401458626,2022-10-15T23:00Z,Ottawa Senators at Toronto Maple Leafs,Toronto Maple Leafs,Ottawa Senators,3,2,1.0
+401458627,2022-10-15T23:00Z,Montreal Canadiens at Washington Capitals,Washington Capitals,Montreal Canadiens,3,1,1.0
+401458619,2022-10-15T23:30Z,Anaheim Ducks at New York Islanders,New York Islanders,Anaheim Ducks,7,1,1.0
+401458616,2022-10-16T00:00Z,Nashville Predators at Dallas Stars,Dallas Stars,Nashville Predators,5,1,1.0
+401458618,2022-10-16T00:00Z,Los Angeles Kings at Minnesota Wild,Minnesota Wild,Los Angeles Kings,6,7,0.0
+401458625,2022-10-16T00:00Z,Columbus Blue Jackets at St. Louis Blues,St. Louis Blues,Columbus Blue Jackets,5,2,1.0
+401458617,2022-10-16T02:00Z,Calgary Flames at Edmonton Oilers,Edmonton Oilers,Calgary Flames,3,4,0.0
+401458623,2022-10-16T02:00Z,Chicago Blackhawks at San Jose Sharks,San Jose Sharks,Chicago Blackhawks,2,5,0.0
+401458624,2022-10-16T02:00Z,Vegas Golden Knights at Seattle Kraken,Seattle Kraken,Vegas Golden Knights,2,5,0.0
+401458628,2022-10-17T23:00Z,Florida Panthers at Boston Bruins,Boston Bruins,Florida Panthers,5,3,1.0
+401458630,2022-10-17T23:00Z,Los Angeles Kings at Detroit Red Wings,Detroit Red Wings,Los Angeles Kings,4,5,0.0
+401458632,2022-10-17T23:00Z,Pittsburgh Penguins at Montreal Canadiens,Montreal Canadiens,Pittsburgh Penguins,3,2,1.0
+401458633,2022-10-17T23:00Z,Anaheim Ducks at New York Rangers,New York Rangers,Anaheim Ducks,6,4,1.0
+401458635,2022-10-17T23:00Z,Arizona Coyotes at Toronto Maple Leafs,Toronto Maple Leafs,Arizona Coyotes,2,4,0.0
+401458636,2022-10-17T23:00Z,Vancouver Canucks at Washington Capitals,Washington Capitals,Vancouver Canucks,6,4,1.0
+401458631,2022-10-18T00:00Z,Colorado Avalanche at Minnesota Wild,Minnesota Wild,Colorado Avalanche,3,6,0.0
+401458629,2022-10-18T00:30Z,Winnipeg Jets at Dallas Stars,Dallas Stars,Winnipeg Jets,4,1,1.0
+401458634,2022-10-18T02:00Z,Carolina Hurricanes at Seattle Kraken,Seattle Kraken,Carolina Hurricanes,1,5,0.0
+401458638,2022-10-18T23:00Z,Vancouver Canucks at Columbus Blue Jackets,Columbus Blue Jackets,Vancouver Canucks,4,3,1.0
+401458642,2022-10-18T23:00Z,Anaheim Ducks at New Jersey Devils,New Jersey Devils,Anaheim Ducks,4,2,1.0
+401458643,2022-10-18T23:00Z,Boston Bruins at Ottawa Senators,Ottawa Senators,Boston Bruins,7,5,1.0
+401458644,2022-10-18T23:00Z,Philadelphia Flyers at Tampa Bay Lightning,Tampa Bay Lightning,Philadelphia Flyers,2,3,0.0
+401458640,2022-10-18T23:30Z,San Jose Sharks at New York Islanders,New York Islanders,San Jose Sharks,5,2,1.0
+401458637,2022-10-19T01:00Z,Vegas Golden Knights at Calgary Flames,Calgary Flames,Vegas Golden Knights,3,2,1.0
+401458639,2022-10-19T01:00Z,Buffalo Sabres at Edmonton Oilers,Edmonton Oilers,Buffalo Sabres,2,4,0.0
+401458641,2022-10-19T01:30Z,Los Angeles Kings at Nashville Predators,Nashville Predators,Los Angeles Kings,3,4,0.0
+401458646,2022-10-19T23:30Z,Philadelphia Flyers at Florida Panthers,Florida Panthers,Philadelphia Flyers,4,3,1.0
+401458645,2022-10-20T00:00Z,Winnipeg Jets at Colorado Avalanche,Colorado Avalanche,Winnipeg Jets,3,4,0.0
+401458647,2022-10-20T02:00Z,St. Louis Blues at Seattle Kraken,Seattle Kraken,St. Louis Blues,3,4,0.0
+401458648,2022-10-20T23:00Z,Anaheim Ducks at Boston Bruins,Boston Bruins,Anaheim Ducks,2,1,1.0
+401458650,2022-10-20T23:00Z,Nashville Predators at Columbus Blue Jackets,Columbus Blue Jackets,Nashville Predators,5,3,1.0
+401458653,2022-10-20T23:00Z,Arizona Coyotes at Montreal Canadiens,Montreal Canadiens,Arizona Coyotes,6,2,1.0
+401458655,2022-10-20T23:00Z,San Jose Sharks at New York Rangers,New York Rangers,San Jose Sharks,2,3,0.0
+401458656,2022-10-20T23:00Z,Washington Capitals at Ottawa Senators,Ottawa Senators,Washington Capitals,5,2,1.0
+401458657,2022-10-20T23:00Z,Los Angeles Kings at Pittsburgh Penguins,Pittsburgh Penguins,Los Angeles Kings,6,1,1.0
+401458658,2022-10-20T23:00Z,Dallas Stars at Toronto Maple Leafs,Toronto Maple Leafs,Dallas Stars,3,2,1.0
+401458654,2022-10-20T23:30Z,New Jersey Devils at New York Islanders,New York Islanders,New Jersey Devils,1,4,0.0
+401458652,2022-10-21T00:00Z,Vancouver Canucks at Minnesota Wild,Minnesota Wild,Vancouver Canucks,4,3,1.0
+401458651,2022-10-21T01:00Z,Carolina Hurricanes at Edmonton Oilers,Edmonton Oilers,Carolina Hurricanes,6,4,1.0
+401458649,2022-10-21T01:30Z,Buffalo Sabres at Calgary Flames,Calgary Flames,Buffalo Sabres,3,6,0.0
+401458659,2022-10-21T02:00Z,Winnipeg Jets at Vegas Golden Knights,Vegas Golden Knights,Winnipeg Jets,5,2,1.0
+401458662,2022-10-21T23:30Z,Tampa Bay Lightning at Florida Panthers,Florida Panthers,Tampa Bay Lightning,2,3,0.0
+401458660,2022-10-22T00:30Z,Detroit Red Wings at Chicago Blackhawks,Chicago Blackhawks,Detroit Red Wings,4,3,1.0
+401458661,2022-10-22T01:00Z,Seattle Kraken at Colorado Avalanche,Colorado Avalanche,Seattle Kraken,2,3,0.0
+401458663,2022-10-22T17:00Z,Minnesota Wild at Boston Bruins,Boston Bruins,Minnesota Wild,4,3,1.0
+401458669,2022-10-22T17:00Z,San Jose Sharks at New Jersey Devils,New Jersey Devils,San Jose Sharks,2,1,1.0
+401458666,2022-10-22T20:00Z,St. Louis Blues at Edmonton Oilers,Edmonton Oilers,St. Louis Blues,0,2,0.0
+401458670,2022-10-22T20:00Z,Arizona Coyotes at Ottawa Senators,Ottawa Senators,Arizona Coyotes,6,2,1.0
+401458665,2022-10-22T23:00Z,Pittsburgh Penguins at Columbus Blue Jackets,Columbus Blue Jackets,Pittsburgh Penguins,3,6,0.0
+401458667,2022-10-22T23:00Z,Dallas Stars at Montreal Canadiens,Montreal Canadiens,Dallas Stars,2,5,0.0
+401458671,2022-10-22T23:00Z,New York Islanders at Tampa Bay Lightning,Tampa Bay Lightning,New York Islanders,5,3,1.0
+401458674,2022-10-22T23:00Z,Los Angeles Kings at Washington Capitals,Washington Capitals,Los Angeles Kings,4,3,1.0
+401458675,2022-10-22T23:00Z,Toronto Maple Leafs at Winnipeg Jets,Winnipeg Jets,Toronto Maple Leafs,1,4,0.0
+401458668,2022-10-23T00:00Z,Philadelphia Flyers at Nashville Predators,Nashville Predators,Philadelphia Flyers,1,3,0.0
+401458664,2022-10-23T02:00Z,Carolina Hurricanes at Calgary Flames,Calgary Flames,Carolina Hurricanes,3,2,1.0
+401458672,2022-10-23T02:00Z,Buffalo Sabres at Vancouver Canucks,Vancouver Canucks,Buffalo Sabres,1,5,0.0
+401458673,2022-10-23T02:00Z,Colorado Avalanche at Vegas Golden Knights,Vegas Golden Knights,Colorado Avalanche,2,3,0.0
+401458676,2022-10-23T18:00Z,Seattle Kraken at Chicago Blackhawks,Chicago Blackhawks,Seattle Kraken,5,4,1.0
+401458677,2022-10-23T21:00Z,Anaheim Ducks at Detroit Red Wings,Detroit Red Wings,Anaheim Ducks,5,1,1.0
+401458678,2022-10-23T21:00Z,New York Islanders at Florida Panthers,Florida Panthers,New York Islanders,3,2,1.0
+401458679,2022-10-23T21:00Z,Columbus Blue Jackets at New York Rangers,New York Rangers,Columbus Blue Jackets,1,5,0.0
+401458680,2022-10-23T23:00Z,San Jose Sharks at Philadelphia Flyers,Philadelphia Flyers,San Jose Sharks,0,3,0.0
+401458682,2022-10-24T23:00Z,Washington Capitals at New Jersey Devils,New Jersey Devils,Washington Capitals,3,6,0.0
+401458683,2022-10-24T23:00Z,Dallas Stars at Ottawa Senators,Ottawa Senators,Dallas Stars,4,2,1.0
+401458681,2022-10-25T00:00Z,Pittsburgh Penguins at Edmonton Oilers,Edmonton Oilers,Pittsburgh Penguins,6,3,1.0
+401458686,2022-10-25T00:00Z,St. Louis Blues at Winnipeg Jets,Winnipeg Jets,St. Louis Blues,4,0,1.0
+401458685,2022-10-25T02:00Z,Toronto Maple Leafs at Vegas Golden Knights,Vegas Golden Knights,Toronto Maple Leafs,3,1,1.0
+401458684,2022-10-25T02:30Z,Carolina Hurricanes at Vancouver Canucks,Vancouver Canucks,Carolina Hurricanes,2,3,0.0
+401458687,2022-10-25T23:00Z,Dallas Stars at Boston Bruins,Boston Bruins,Dallas Stars,3,1,1.0
+401458690,2022-10-25T23:00Z,Arizona Coyotes at Columbus Blue Jackets,Columbus Blue Jackets,Arizona Coyotes,3,6,0.0
+401458691,2022-10-25T23:00Z,New Jersey Devils at Detroit Red Wings,Detroit Red Wings,New Jersey Devils,2,6,0.0
+401458693,2022-10-25T23:00Z,Minnesota Wild at Montreal Canadiens,Montreal Canadiens,Minnesota Wild,1,3,0.0
+401458694,2022-10-26T00:00Z,Colorado Avalanche at New York Rangers,New York Rangers,Colorado Avalanche,2,3,0.0
+401458689,2022-10-26T00:30Z,Florida Panthers at Chicago Blackhawks,Chicago Blackhawks,Florida Panthers,4,2,1.0
+401458688,2022-10-26T01:00Z,Pittsburgh Penguins at Calgary Flames,Calgary Flames,Pittsburgh Penguins,4,1,1.0
+401458696,2022-10-26T02:00Z,Buffalo Sabres at Seattle Kraken,Seattle Kraken,Buffalo Sabres,5,1,1.0
+401458692,2022-10-26T02:30Z,Tampa Bay Lightning at Los Angeles Kings,Los Angeles Kings,Tampa Bay Lightning,4,2,1.0
+401458695,2022-10-26T02:50Z,Vegas Golden Knights at San Jose Sharks,San Jose Sharks,Vegas Golden Knights,2,4,0.0
+401458698,2022-10-26T23:30Z,New York Rangers at New York Islanders,New York Islanders,New York Rangers,3,0,1.0
+401458699,2022-10-27T00:00Z,Edmonton Oilers at St. Louis Blues,St. Louis Blues,Edmonton Oilers,1,3,0.0
+401458697,2022-10-27T02:00Z,Tampa Bay Lightning at Anaheim Ducks,Anaheim Ducks,Tampa Bay Lightning,2,4,0.0
+401458700,2022-10-27T23:00Z,Detroit Red Wings at Boston Bruins,Boston Bruins,Detroit Red Wings,5,1,1.0
+401458701,2022-10-27T23:00Z,Montreal Canadiens at Buffalo Sabres,Buffalo Sabres,Montreal Canadiens,2,3,0.0
+401458706,2022-10-27T23:00Z,Minnesota Wild at Ottawa Senators,Ottawa Senators,Minnesota Wild,2,4,0.0
+401458707,2022-10-27T23:00Z,Florida Panthers at Philadelphia Flyers,Philadelphia Flyers,Florida Panthers,4,3,1.0
+401458705,2022-10-28T00:00Z,St. Louis Blues at Nashville Predators,Nashville Predators,St. Louis Blues,6,2,1.0
+401458702,2022-10-28T00:30Z,Edmonton Oilers at Chicago Blackhawks,Chicago Blackhawks,Edmonton Oilers,5,6,0.0
+401458703,2022-10-28T00:30Z,Washington Capitals at Dallas Stars,Dallas Stars,Washington Capitals,2,0,1.0
+401458709,2022-10-28T02:00Z,Vancouver Canucks at Seattle Kraken,Seattle Kraken,Vancouver Canucks,4,5,0.0
+401458704,2022-10-28T02:30Z,Winnipeg Jets at Los Angeles Kings,Los Angeles Kings,Winnipeg Jets,4,6,0.0
+401458708,2022-10-28T02:30Z,Toronto Maple Leafs at San Jose Sharks,San Jose Sharks,Toronto Maple Leafs,4,3,1.0
+401458715,2022-10-28T22:00Z,Anaheim Ducks at Vegas Golden Knights,Vegas Golden Knights,Anaheim Ducks,4,0,1.0
+401458711,2022-10-28T23:00Z,New York Islanders at Carolina Hurricanes,Carolina Hurricanes,New York Islanders,2,6,0.0
+401458712,2022-10-28T23:00Z,Boston Bruins at Columbus Blue Jackets,Columbus Blue Jackets,Boston Bruins,0,4,0.0
+401458713,2022-10-28T23:00Z,Colorado Avalanche at New Jersey Devils,New Jersey Devils,Colorado Avalanche,1,0,1.0
+401458714,2022-10-29T02:00Z,Pittsburgh Penguins at Vancouver Canucks,Vancouver Canucks,Pittsburgh Penguins,5,1,1.0
+401458710,2022-10-29T02:30Z,Winnipeg Jets at Arizona Coyotes,Arizona Coyotes,Winnipeg Jets,2,3,0.0
+401458718,2022-10-29T18:00Z,New York Rangers at Dallas Stars,Dallas Stars,New York Rangers,3,6,0.0
+401458720,2022-10-29T20:00Z,Ottawa Senators at Florida Panthers,Florida Panthers,Ottawa Senators,5,3,1.0
+401458725,2022-10-29T20:30Z,Tampa Bay Lightning at San Jose Sharks,San Jose Sharks,Tampa Bay Lightning,3,4,0.0
+401458716,2022-10-29T23:00Z,Chicago Blackhawks at Buffalo Sabres,Buffalo Sabres,Chicago Blackhawks,4,3,1.0
+401458719,2022-10-29T23:00Z,Minnesota Wild at Detroit Red Wings,Detroit Red Wings,Minnesota Wild,2,1,1.0
+401458721,2022-10-29T23:00Z,Toronto Maple Leafs at Los Angeles Kings,Los Angeles Kings,Toronto Maple Leafs,4,2,1.0
+401458724,2022-10-29T23:00Z,Carolina Hurricanes at Philadelphia Flyers,Philadelphia Flyers,Carolina Hurricanes,3,4,0.0
+401458727,2022-10-29T23:00Z,Montreal Canadiens at St. Louis Blues,St. Louis Blues,Montreal Canadiens,4,7,0.0
+401458722,2022-10-29T23:30Z,Colorado Avalanche at New York Islanders,New York Islanders,Colorado Avalanche,5,4,1.0
+401458723,2022-10-30T00:00Z,Washington Capitals at Nashville Predators,Nashville Predators,Washington Capitals,0,3,0.0
+401458717,2022-10-30T02:00Z,Edmonton Oilers at Calgary Flames,Calgary Flames,Edmonton Oilers,2,3,0.0
+401458726,2022-10-30T02:00Z,Pittsburgh Penguins at Seattle Kraken,Seattle Kraken,Pittsburgh Penguins,3,1,1.0
+401458731,2022-10-30T18:00Z,Columbus Blue Jackets at New Jersey Devils,New Jersey Devils,Columbus Blue Jackets,7,1,1.0
+401458730,2022-10-30T23:00Z,Minnesota Wild at Chicago Blackhawks,Chicago Blackhawks,Minnesota Wild,3,4,0.0
+401458728,2022-10-31T00:00Z,Toronto Maple Leafs at Anaheim Ducks,Anaheim Ducks,Toronto Maple Leafs,4,3,1.0
+401458729,2022-10-31T00:00Z,New York Rangers at Arizona Coyotes,Arizona Coyotes,New York Rangers,2,3,0.0
+401458732,2022-10-31T00:00Z,Winnipeg Jets at Vegas Golden Knights,Vegas Golden Knights,Winnipeg Jets,2,1,1.0
+401458733,2022-10-31T23:00Z,Detroit Red Wings at Buffalo Sabres,Buffalo Sabres,Detroit Red Wings,8,3,1.0
+401458734,2022-10-31T23:00Z,Washington Capitals at Carolina Hurricanes,Carolina Hurricanes,Washington Capitals,3,2,1.0
+401458735,2022-11-01T00:00Z,Los Angeles Kings at St. Louis Blues,St. Louis Blues,Los Angeles Kings,1,5,0.0

@@ -1,0 +1,215 @@
+id,date,event,home,away,hs,as,res
+400884741,2016-12-02T00:00Z,Carolina Hurricanes at Boston Bruins,Boston Bruins,Carolina Hurricanes,2,1,1.0
+400884742,2016-12-02T00:00Z,New York Rangers at Buffalo Sabres,Buffalo Sabres,New York Rangers,4,3,1.0
+400884743,2016-12-02T00:00Z,Dallas Stars at Pittsburgh Penguins,Pittsburgh Penguins,Dallas Stars,6,2,1.0
+400884744,2016-12-02T00:00Z,New York Islanders at Washington Capitals,Washington Capitals,New York Islanders,0,3,0.0
+400884745,2016-12-02T00:30Z,Philadelphia Flyers at Ottawa Senators,Ottawa Senators,Philadelphia Flyers,2,3,0.0
+400884746,2016-12-02T00:30Z,Florida Panthers at Detroit Red Wings,Detroit Red Wings,Florida Panthers,1,2,0.0
+400884747,2016-12-02T01:00Z,Tampa Bay Lightning at St. Louis Blues,St. Louis Blues,Tampa Bay Lightning,5,4,1.0
+400884748,2016-12-02T01:00Z,Edmonton Oilers at Winnipeg Jets,Winnipeg Jets,Edmonton Oilers,3,6,0.0
+400884749,2016-12-02T01:30Z,New Jersey Devils at Chicago Blackhawks,Chicago Blackhawks,New Jersey Devils,4,3,1.0
+400884750,2016-12-02T02:00Z,Columbus Blue Jackets at Colorado Avalanche,Colorado Avalanche,Columbus Blue Jackets,2,3,0.0
+400884751,2016-12-02T02:00Z,Los Angeles Kings at Arizona Coyotes,Arizona Coyotes,Los Angeles Kings,3,4,0.0
+400884752,2016-12-02T03:00Z,Anaheim Ducks at Vancouver Canucks,Vancouver Canucks,Anaheim Ducks,1,3,0.0
+400884753,2016-12-03T02:00Z,Minnesota Wild at Calgary Flames,Calgary Flames,Minnesota Wild,3,2,1.0
+400884754,2016-12-03T03:30Z,Montreal Canadiens at San Jose Sharks,San Jose Sharks,Montreal Canadiens,2,1,1.0
+400884755,2016-12-03T18:00Z,Boston Bruins at Buffalo Sabres,Buffalo Sabres,Boston Bruins,1,2,0.0
+400884756,2016-12-03T18:00Z,Carolina Hurricanes at New York Rangers,New York Rangers,Carolina Hurricanes,4,2,1.0
+400884757,2016-12-03T18:00Z,Chicago Blackhawks at Philadelphia Flyers,Philadelphia Flyers,Chicago Blackhawks,3,1,1.0
+400884758,2016-12-03T19:00Z,New Jersey Devils at Nashville Predators,Nashville Predators,New Jersey Devils,4,5,0.0
+400884759,2016-12-04T00:00Z,Florida Panthers at Ottawa Senators,Ottawa Senators,Florida Panthers,2,0,1.0
+400884760,2016-12-04T00:00Z,Washington Capitals at Tampa Bay Lightning,Tampa Bay Lightning,Washington Capitals,2,1,1.0
+400884761,2016-12-04T00:00Z,Detroit Red Wings at Pittsburgh Penguins,Pittsburgh Penguins,Detroit Red Wings,5,3,1.0
+400884762,2016-12-04T00:00Z,Winnipeg Jets at St. Louis Blues,St. Louis Blues,Winnipeg Jets,2,3,0.0
+400884763,2016-12-04T00:00Z,Toronto Maple Leafs at Vancouver Canucks,Vancouver Canucks,Toronto Maple Leafs,3,2,1.0
+400884764,2016-12-04T01:00Z,Columbus Blue Jackets at Arizona Coyotes,Arizona Coyotes,Columbus Blue Jackets,2,3,0.0
+400884765,2016-12-04T02:00Z,Dallas Stars at Colorado Avalanche,Colorado Avalanche,Dallas Stars,0,3,0.0
+400884766,2016-12-04T03:00Z,Anaheim Ducks at Edmonton Oilers,Edmonton Oilers,Anaheim Ducks,3,2,1.0
+400884773,2016-12-04T20:00Z,Montreal Canadiens at Los Angeles Kings,Los Angeles Kings,Montreal Canadiens,4,5,0.0
+400884767,2016-12-04T22:00Z,Tampa Bay Lightning at Carolina Hurricanes,Carolina Hurricanes,Tampa Bay Lightning,1,0,1.0
+400884768,2016-12-04T23:00Z,Detroit Red Wings at New York Islanders,New York Islanders,Detroit Red Wings,3,4,0.0
+400884769,2016-12-04T23:00Z,Philadelphia Flyers at Nashville Predators,Nashville Predators,Philadelphia Flyers,2,4,0.0
+400884770,2016-12-05T00:00Z,Winnipeg Jets at Chicago Blackhawks,Chicago Blackhawks,Winnipeg Jets,1,2,0.0
+400884771,2016-12-05T02:30Z,Anaheim Ducks at Calgary Flames,Calgary Flames,Anaheim Ducks,8,3,1.0
+400884772,2016-12-05T02:30Z,Minnesota Wild at Edmonton Oilers,Edmonton Oilers,Minnesota Wild,1,2,0.0
+400884774,2016-12-06T00:00Z,Florida Panthers at Boston Bruins,Boston Bruins,Florida Panthers,4,3,1.0
+400884775,2016-12-06T00:00Z,Ottawa Senators at Pittsburgh Penguins,Pittsburgh Penguins,Ottawa Senators,8,5,1.0
+400884776,2016-12-06T00:00Z,Buffalo Sabres at Washington Capitals,Washington Capitals,Buffalo Sabres,3,2,1.0
+400884777,2016-12-06T00:00Z,Arizona Coyotes at Columbus Blue Jackets,Columbus Blue Jackets,Arizona Coyotes,4,1,1.0
+400884778,2016-12-07T00:00Z,Edmonton Oilers at Buffalo Sabres,Buffalo Sabres,Edmonton Oilers,4,3,1.0
+400884779,2016-12-07T00:00Z,Vancouver Canucks at New Jersey Devils,New Jersey Devils,Vancouver Canucks,3,2,1.0
+400884780,2016-12-07T00:00Z,New York Rangers at New York Islanders,New York Islanders,New York Rangers,4,2,1.0
+400884781,2016-12-07T00:00Z,Florida Panthers at Philadelphia Flyers,Philadelphia Flyers,Florida Panthers,3,2,1.0
+400884782,2016-12-07T01:00Z,Montreal Canadiens at St. Louis Blues,St. Louis Blues,Montreal Canadiens,3,2,1.0
+400884783,2016-12-07T01:00Z,Colorado Avalanche at Nashville Predators,Nashville Predators,Colorado Avalanche,4,3,1.0
+400884784,2016-12-07T01:00Z,Detroit Red Wings at Winnipeg Jets,Winnipeg Jets,Detroit Red Wings,3,4,0.0
+400884785,2016-12-07T01:30Z,Arizona Coyotes at Chicago Blackhawks,Chicago Blackhawks,Arizona Coyotes,4,0,1.0
+400884786,2016-12-07T01:30Z,Calgary Flames at Dallas Stars,Dallas Stars,Calgary Flames,1,2,0.0
+400884787,2016-12-08T00:30Z,Minnesota Wild at Toronto Maple Leafs,Toronto Maple Leafs,Minnesota Wild,2,3,0.0
+400884788,2016-12-08T01:00Z,Boston Bruins at Washington Capitals,Washington Capitals,Boston Bruins,4,3,1.0
+400884789,2016-12-08T03:30Z,Carolina Hurricanes at Anaheim Ducks,Anaheim Ducks,Carolina Hurricanes,6,5,1.0
+400884790,2016-12-08T03:30Z,Ottawa Senators at San Jose Sharks,San Jose Sharks,Ottawa Senators,2,4,0.0
+400884791,2016-12-09T00:00Z,Colorado Avalanche at Boston Bruins,Boston Bruins,Colorado Avalanche,2,4,0.0
+400884792,2016-12-09T00:00Z,St. Louis Blues at New York Islanders,New York Islanders,St. Louis Blues,3,2,1.0
+400884793,2016-12-09T00:00Z,Edmonton Oilers at Philadelphia Flyers,Philadelphia Flyers,Edmonton Oilers,6,5,1.0
+400884794,2016-12-09T00:30Z,New Jersey Devils at Montreal Canadiens,Montreal Canadiens,New Jersey Devils,5,2,1.0
+400884795,2016-12-09T00:30Z,Vancouver Canucks at Tampa Bay Lightning,Tampa Bay Lightning,Vancouver Canucks,1,5,0.0
+400884796,2016-12-09T00:30Z,Pittsburgh Penguins at Florida Panthers,Florida Panthers,Pittsburgh Penguins,1,5,0.0
+400884797,2016-12-09T01:00Z,New York Rangers at Winnipeg Jets,Winnipeg Jets,New York Rangers,1,2,0.0
+400884798,2016-12-09T01:30Z,Nashville Predators at Dallas Stars,Dallas Stars,Nashville Predators,5,2,1.0
+400884799,2016-12-09T02:00Z,Calgary Flames at Arizona Coyotes,Arizona Coyotes,Calgary Flames,1,2,0.0
+400884800,2016-12-09T03:30Z,Carolina Hurricanes at Los Angeles Kings,Los Angeles Kings,Carolina Hurricanes,1,3,0.0
+400884801,2016-12-10T00:00Z,Washington Capitals at Buffalo Sabres,Buffalo Sabres,Washington Capitals,1,4,0.0
+400884802,2016-12-10T00:30Z,Columbus Blue Jackets at Detroit Red Wings,Detroit Red Wings,Columbus Blue Jackets,1,4,0.0
+400884803,2016-12-10T00:30Z,St. Louis Blues at New Jersey Devils,New Jersey Devils,St. Louis Blues,1,4,0.0
+400884804,2016-12-10T01:00Z,Edmonton Oilers at Minnesota Wild,Minnesota Wild,Edmonton Oilers,3,2,1.0
+400884805,2016-12-10T01:30Z,New York Rangers at Chicago Blackhawks,Chicago Blackhawks,New York Rangers,0,1,0.0
+400884806,2016-12-10T03:00Z,San Jose Sharks at Anaheim Ducks,Anaheim Ducks,San Jose Sharks,3,2,1.0
+400884807,2016-12-10T18:00Z,Dallas Stars at Philadelphia Flyers,Philadelphia Flyers,Dallas Stars,4,2,1.0
+400884808,2016-12-10T21:00Z,Ottawa Senators at Los Angeles Kings,Los Angeles Kings,Ottawa Senators,4,1,1.0
+400884809,2016-12-11T00:00Z,Toronto Maple Leafs at Boston Bruins,Boston Bruins,Toronto Maple Leafs,1,4,0.0
+400884810,2016-12-11T00:00Z,Colorado Avalanche at Montreal Canadiens,Montreal Canadiens,Colorado Avalanche,10,1,1.0
+400884811,2016-12-11T00:00Z,Pittsburgh Penguins at Tampa Bay Lightning,Tampa Bay Lightning,Pittsburgh Penguins,3,4,0.0
+400884812,2016-12-11T00:00Z,Vancouver Canucks at Florida Panthers,Florida Panthers,Vancouver Canucks,4,2,1.0
+400884813,2016-12-11T00:00Z,New York Islanders at Columbus Blue Jackets,Columbus Blue Jackets,New York Islanders,6,2,1.0
+400884814,2016-12-11T01:00Z,Nashville Predators at Arizona Coyotes,Arizona Coyotes,Nashville Predators,4,1,1.0
+400884815,2016-12-11T03:00Z,Winnipeg Jets at Calgary Flames,Calgary Flames,Winnipeg Jets,6,2,1.0
+400884816,2016-12-11T03:30Z,Carolina Hurricanes at San Jose Sharks,San Jose Sharks,Carolina Hurricanes,4,3,1.0
+400884817,2016-12-11T21:00Z,Ottawa Senators at Anaheim Ducks,Anaheim Ducks,Ottawa Senators,5,1,1.0
+400884818,2016-12-11T22:00Z,Philadelphia Flyers at Detroit Red Wings,Detroit Red Wings,Philadelphia Flyers,0,1,0.0
+400884819,2016-12-11T22:00Z,Vancouver Canucks at Washington Capitals,Washington Capitals,Vancouver Canucks,3,0,1.0
+400884820,2016-12-11T23:00Z,St. Louis Blues at Minnesota Wild,Minnesota Wild,St. Louis Blues,3,1,1.0
+400884821,2016-12-12T00:00Z,Colorado Avalanche at Toronto Maple Leafs,Toronto Maple Leafs,Colorado Avalanche,1,3,0.0
+400884822,2016-12-12T00:00Z,New Jersey Devils at New York Rangers,New York Rangers,New Jersey Devils,5,0,1.0
+400884823,2016-12-12T00:00Z,Dallas Stars at Chicago Blackhawks,Chicago Blackhawks,Dallas Stars,3,1,1.0
+400884824,2016-12-12T02:30Z,Winnipeg Jets at Edmonton Oilers,Edmonton Oilers,Winnipeg Jets,3,2,1.0
+400884825,2016-12-13T00:00Z,Arizona Coyotes at Pittsburgh Penguins,Pittsburgh Penguins,Arizona Coyotes,7,0,1.0
+400884826,2016-12-13T00:30Z,Boston Bruins at Montreal Canadiens,Montreal Canadiens,Boston Bruins,1,2,0.0
+400884827,2016-12-14T00:00Z,Los Angeles Kings at Buffalo Sabres,Buffalo Sabres,Los Angeles Kings,6,3,1.0
+400884828,2016-12-14T00:00Z,Washington Capitals at New York Islanders,New York Islanders,Washington Capitals,2,4,0.0
+400884829,2016-12-14T00:00Z,Chicago Blackhawks at New York Rangers,New York Rangers,Chicago Blackhawks,1,2,0.0
+400884830,2016-12-14T00:00Z,Vancouver Canucks at Carolina Hurricanes,Carolina Hurricanes,Vancouver Canucks,8,6,1.0
+400884831,2016-12-14T00:30Z,San Jose Sharks at Toronto Maple Leafs,Toronto Maple Leafs,San Jose Sharks,2,3,0.0
+400884832,2016-12-14T00:30Z,Arizona Coyotes at Detroit Red Wings,Detroit Red Wings,Arizona Coyotes,1,4,0.0
+400884833,2016-12-14T01:00Z,St. Louis Blues at Nashville Predators,Nashville Predators,St. Louis Blues,6,3,1.0
+400884834,2016-12-14T01:00Z,Florida Panthers at Minnesota Wild,Minnesota Wild,Florida Panthers,5,1,1.0
+400884835,2016-12-14T01:30Z,Anaheim Ducks at Dallas Stars,Dallas Stars,Anaheim Ducks,6,2,1.0
+400884836,2016-12-14T02:00Z,Columbus Blue Jackets at Edmonton Oilers,Edmonton Oilers,Columbus Blue Jackets,1,3,0.0
+400884837,2016-12-15T00:00Z,San Jose Sharks at Ottawa Senators,Ottawa Senators,San Jose Sharks,3,4,0.0
+400884838,2016-12-15T00:30Z,Boston Bruins at Pittsburgh Penguins,Pittsburgh Penguins,Boston Bruins,4,3,1.0
+400884839,2016-12-15T02:30Z,Tampa Bay Lightning at Calgary Flames,Calgary Flames,Tampa Bay Lightning,3,6,0.0
+400884840,2016-12-15T03:00Z,Philadelphia Flyers at Colorado Avalanche,Colorado Avalanche,Philadelphia Flyers,3,4,0.0
+400884841,2016-12-16T00:00Z,Anaheim Ducks at Boston Bruins,Boston Bruins,Anaheim Ducks,3,4,0.0
+400884842,2016-12-16T00:00Z,Chicago Blackhawks at New York Islanders,New York Islanders,Chicago Blackhawks,4,5,0.0
+400884843,2016-12-16T00:30Z,Arizona Coyotes at Toronto Maple Leafs,Toronto Maple Leafs,Arizona Coyotes,2,3,0.0
+400884844,2016-12-16T00:30Z,Los Angeles Kings at Detroit Red Wings,Detroit Red Wings,Los Angeles Kings,1,4,0.0
+400884845,2016-12-16T01:00Z,New Jersey Devils at St. Louis Blues,St. Louis Blues,New Jersey Devils,5,2,1.0
+400884846,2016-12-16T01:00Z,Minnesota Wild at Nashville Predators,Nashville Predators,Minnesota Wild,2,5,0.0
+400884847,2016-12-16T01:00Z,Florida Panthers at Winnipeg Jets,Winnipeg Jets,Florida Panthers,4,3,1.0
+400884848,2016-12-16T01:30Z,New York Rangers at Dallas Stars,Dallas Stars,New York Rangers,0,2,0.0
+400884849,2016-12-17T00:00Z,New York Islanders at Buffalo Sabres,Buffalo Sabres,New York Islanders,3,2,1.0
+400884850,2016-12-17T00:00Z,Los Angeles Kings at Pittsburgh Penguins,Pittsburgh Penguins,Los Angeles Kings,0,1,0.0
+400884851,2016-12-17T00:30Z,San Jose Sharks at Montreal Canadiens,Montreal Canadiens,San Jose Sharks,2,4,0.0
+400884852,2016-12-17T00:30Z,Washington Capitals at Carolina Hurricanes,Carolina Hurricanes,Washington Capitals,3,4,0.0
+400884853,2016-12-17T02:00Z,Florida Panthers at Colorado Avalanche,Colorado Avalanche,Florida Panthers,1,3,0.0
+400884854,2016-12-17T02:00Z,Columbus Blue Jackets at Calgary Flames,Calgary Flames,Columbus Blue Jackets,1,4,0.0
+400884855,2016-12-17T03:00Z,Tampa Bay Lightning at Vancouver Canucks,Vancouver Canucks,Tampa Bay Lightning,4,2,1.0
+400884856,2016-12-17T19:00Z,Philadelphia Flyers at Dallas Stars,Dallas Stars,Philadelphia Flyers,3,1,1.0
+400884857,2016-12-17T19:00Z,Arizona Coyotes at Minnesota Wild,Minnesota Wild,Arizona Coyotes,4,1,1.0
+400884858,2016-12-18T00:00Z,Pittsburgh Penguins at Toronto Maple Leafs,Toronto Maple Leafs,Pittsburgh Penguins,2,1,1.0
+400884859,2016-12-18T00:00Z,New Jersey Devils at Ottawa Senators,Ottawa Senators,New Jersey Devils,3,1,1.0
+400884860,2016-12-18T00:00Z,Anaheim Ducks at Detroit Red Wings,Detroit Red Wings,Anaheim Ducks,6,4,1.0
+400884861,2016-12-18T00:00Z,Montreal Canadiens at Washington Capitals,Washington Capitals,Montreal Canadiens,1,2,0.0
+400884862,2016-12-18T00:00Z,Buffalo Sabres at Carolina Hurricanes,Carolina Hurricanes,Buffalo Sabres,2,1,1.0
+400884863,2016-12-18T01:00Z,Chicago Blackhawks at St. Louis Blues,St. Louis Blues,Chicago Blackhawks,4,6,0.0
+400884864,2016-12-18T01:00Z,New York Rangers at Nashville Predators,Nashville Predators,New York Rangers,1,2,0.0
+400884865,2016-12-18T03:00Z,Tampa Bay Lightning at Edmonton Oilers,Edmonton Oilers,Tampa Bay Lightning,3,2,1.0
+400884866,2016-12-18T18:00Z,Los Angeles Kings at Boston Bruins,Boston Bruins,Los Angeles Kings,1,0,1.0
+400884867,2016-12-18T20:00Z,Colorado Avalanche at Winnipeg Jets,Winnipeg Jets,Colorado Avalanche,4,1,1.0
+400884868,2016-12-18T21:00Z,Columbus Blue Jackets at Vancouver Canucks,Vancouver Canucks,Columbus Blue Jackets,3,4,0.0
+400884869,2016-12-19T00:00Z,Ottawa Senators at New York Islanders,New York Islanders,Ottawa Senators,2,6,0.0
+400884870,2016-12-19T00:00Z,San Jose Sharks at Chicago Blackhawks,Chicago Blackhawks,San Jose Sharks,4,1,1.0
+400884871,2016-12-19T00:30Z,New Jersey Devils at New York Rangers,New York Rangers,New Jersey Devils,3,2,1.0
+400884872,2016-12-20T00:00Z,Nashville Predators at Philadelphia Flyers,Philadelphia Flyers,Nashville Predators,1,2,0.0
+400884873,2016-12-20T00:00Z,Detroit Red Wings at Carolina Hurricanes,Carolina Hurricanes,Detroit Red Wings,0,0,0.5
+400884874,2016-12-20T00:30Z,Anaheim Ducks at Toronto Maple Leafs,Toronto Maple Leafs,Anaheim Ducks,2,3,0.0
+400884875,2016-12-20T01:00Z,Edmonton Oilers at St. Louis Blues,St. Louis Blues,Edmonton Oilers,2,3,0.0
+400884876,2016-12-20T02:00Z,Calgary Flames at Arizona Coyotes,Arizona Coyotes,Calgary Flames,2,4,0.0
+400884877,2016-12-21T00:00Z,New York Islanders at Boston Bruins,Boston Bruins,New York Islanders,2,4,0.0
+400884878,2016-12-21T00:00Z,Nashville Predators at New Jersey Devils,New Jersey Devils,Nashville Predators,1,5,0.0
+400884879,2016-12-21T00:00Z,New York Rangers at Pittsburgh Penguins,Pittsburgh Penguins,New York Rangers,7,2,1.0
+400884880,2016-12-21T00:00Z,Los Angeles Kings at Columbus Blue Jackets,Columbus Blue Jackets,Los Angeles Kings,3,2,1.0
+400884881,2016-12-21T00:30Z,Anaheim Ducks at Montreal Canadiens,Montreal Canadiens,Anaheim Ducks,5,1,1.0
+400884882,2016-12-21T00:30Z,Detroit Red Wings at Tampa Bay Lightning,Tampa Bay Lightning,Detroit Red Wings,4,1,1.0
+400884883,2016-12-21T00:30Z,Buffalo Sabres at Florida Panthers,Florida Panthers,Buffalo Sabres,4,3,1.0
+400884884,2016-12-21T01:00Z,Colorado Avalanche at Minnesota Wild,Minnesota Wild,Colorado Avalanche,2,0,1.0
+400884885,2016-12-21T01:30Z,Ottawa Senators at Chicago Blackhawks,Chicago Blackhawks,Ottawa Senators,3,4,0.0
+400884886,2016-12-21T01:30Z,St. Louis Blues at Dallas Stars,Dallas Stars,St. Louis Blues,2,3,0.0
+400884887,2016-12-21T03:00Z,Winnipeg Jets at Vancouver Canucks,Vancouver Canucks,Winnipeg Jets,4,1,1.0
+400884888,2016-12-21T03:30Z,Calgary Flames at San Jose Sharks,San Jose Sharks,Calgary Flames,4,1,1.0
+400884889,2016-12-22T01:00Z,Washington Capitals at Philadelphia Flyers,Philadelphia Flyers,Washington Capitals,3,2,1.0
+400884890,2016-12-22T02:30Z,Edmonton Oilers at Arizona Coyotes,Arizona Coyotes,Edmonton Oilers,2,3,0.0
+400884891,2016-12-23T00:00Z,Carolina Hurricanes at Buffalo Sabres,Buffalo Sabres,Carolina Hurricanes,1,3,0.0
+400884892,2016-12-23T00:00Z,Philadelphia Flyers at New Jersey Devils,New Jersey Devils,Philadelphia Flyers,4,0,1.0
+400884893,2016-12-23T00:00Z,Pittsburgh Penguins at Columbus Blue Jackets,Columbus Blue Jackets,Pittsburgh Penguins,7,1,1.0
+400884894,2016-12-23T00:30Z,Minnesota Wild at Montreal Canadiens,Montreal Canadiens,Minnesota Wild,2,4,0.0
+400884895,2016-12-23T00:30Z,Anaheim Ducks at Ottawa Senators,Ottawa Senators,Anaheim Ducks,2,1,1.0
+400884896,2016-12-23T00:30Z,St. Louis Blues at Tampa Bay Lightning,Tampa Bay Lightning,St. Louis Blues,5,2,1.0
+400884897,2016-12-23T00:30Z,Boston Bruins at Florida Panthers,Florida Panthers,Boston Bruins,1,3,0.0
+400884898,2016-12-23T01:00Z,Los Angeles Kings at Nashville Predators,Nashville Predators,Los Angeles Kings,0,4,0.0
+400884899,2016-12-23T02:00Z,Toronto Maple Leafs at Colorado Avalanche,Colorado Avalanche,Toronto Maple Leafs,0,6,0.0
+400884900,2016-12-23T03:00Z,Winnipeg Jets at Vancouver Canucks,Vancouver Canucks,Winnipeg Jets,1,4,0.0
+400884901,2016-12-24T00:00Z,Buffalo Sabres at New York Islanders,New York Islanders,Buffalo Sabres,5,1,1.0
+400884902,2016-12-24T00:00Z,Minnesota Wild at New York Rangers,New York Rangers,Minnesota Wild,4,7,0.0
+400884903,2016-12-24T00:00Z,New Jersey Devils at Pittsburgh Penguins,Pittsburgh Penguins,New Jersey Devils,4,1,1.0
+400884904,2016-12-24T00:00Z,Tampa Bay Lightning at Washington Capitals,Washington Capitals,Tampa Bay Lightning,4,0,1.0
+400884905,2016-12-24T00:00Z,Montreal Canadiens at Columbus Blue Jackets,Columbus Blue Jackets,Montreal Canadiens,2,1,1.0
+400884906,2016-12-24T00:30Z,Detroit Red Wings at Florida Panthers,Florida Panthers,Detroit Red Wings,3,4,0.0
+400884907,2016-12-24T00:30Z,Boston Bruins at Carolina Hurricanes,Carolina Hurricanes,Boston Bruins,3,2,1.0
+400884908,2016-12-24T01:30Z,Colorado Avalanche at Chicago Blackhawks,Chicago Blackhawks,Colorado Avalanche,1,2,0.0
+400884909,2016-12-24T01:30Z,Los Angeles Kings at Dallas Stars,Dallas Stars,Los Angeles Kings,3,2,1.0
+400884910,2016-12-24T02:00Z,Vancouver Canucks at Calgary Flames,Calgary Flames,Vancouver Canucks,4,1,1.0
+400884911,2016-12-24T02:00Z,Toronto Maple Leafs at Arizona Coyotes,Arizona Coyotes,Toronto Maple Leafs,1,4,0.0
+400884912,2016-12-24T03:30Z,Edmonton Oilers at San Jose Sharks,San Jose Sharks,Edmonton Oilers,3,2,1.0
+400884913,2016-12-28T00:00Z,Pittsburgh Penguins at New Jersey Devils,New Jersey Devils,Pittsburgh Penguins,2,5,0.0
+400884914,2016-12-28T00:00Z,Washington Capitals at New York Islanders,New York Islanders,Washington Capitals,4,3,1.0
+400884915,2016-12-28T00:00Z,Ottawa Senators at New York Rangers,New York Rangers,Ottawa Senators,4,3,1.0
+400884916,2016-12-28T00:00Z,Boston Bruins at Columbus Blue Jackets,Columbus Blue Jackets,Boston Bruins,4,3,1.0
+400884917,2016-12-28T00:30Z,Buffalo Sabres at Detroit Red Wings,Detroit Red Wings,Buffalo Sabres,3,4,0.0
+400884918,2016-12-28T01:00Z,Minnesota Wild at Nashville Predators,Nashville Predators,Minnesota Wild,2,3,0.0
+400884919,2016-12-28T01:30Z,Winnipeg Jets at Chicago Blackhawks,Chicago Blackhawks,Winnipeg Jets,1,3,0.0
+400884920,2016-12-28T02:00Z,Calgary Flames at Colorado Avalanche,Colorado Avalanche,Calgary Flames,3,6,0.0
+400884921,2016-12-28T02:00Z,Dallas Stars at Arizona Coyotes,Arizona Coyotes,Dallas Stars,2,3,0.0
+400884922,2016-12-28T03:00Z,San Jose Sharks at Anaheim Ducks,Anaheim Ducks,San Jose Sharks,2,3,0.0
+400884923,2016-12-29T00:00Z,Toronto Maple Leafs at Florida Panthers,Florida Panthers,Toronto Maple Leafs,2,3,0.0
+400884924,2016-12-29T00:00Z,Carolina Hurricanes at Pittsburgh Penguins,Pittsburgh Penguins,Carolina Hurricanes,3,2,1.0
+400884925,2016-12-29T00:30Z,Montreal Canadiens at Tampa Bay Lightning,Tampa Bay Lightning,Montreal Canadiens,4,3,1.0
+400884926,2016-12-29T01:00Z,Philadelphia Flyers at St. Louis Blues,St. Louis Blues,Philadelphia Flyers,6,3,1.0
+400884927,2016-12-29T03:00Z,Los Angeles Kings at Vancouver Canucks,Vancouver Canucks,Los Angeles Kings,2,1,1.0
+400884928,2016-12-30T00:00Z,Boston Bruins at Buffalo Sabres,Buffalo Sabres,Boston Bruins,2,4,0.0
+400884929,2016-12-30T00:00Z,New Jersey Devils at Washington Capitals,Washington Capitals,New Jersey Devils,1,2,0.0
+400884931,2016-12-30T00:30Z,Toronto Maple Leafs at Tampa Bay Lightning,Tampa Bay Lightning,Toronto Maple Leafs,2,3,0.0
+400884932,2016-12-30T00:30Z,Montreal Canadiens at Florida Panthers,Florida Panthers,Montreal Canadiens,2,3,0.0
+400884930,2016-12-30T01:00Z,Detroit Red Wings at Ottawa Senators,Ottawa Senators,Detroit Red Wings,2,3,0.0
+400884933,2016-12-30T01:00Z,Chicago Blackhawks at Nashville Predators,Nashville Predators,Chicago Blackhawks,2,3,0.0
+400884934,2016-12-30T01:00Z,New York Islanders at Minnesota Wild,Minnesota Wild,New York Islanders,6,4,1.0
+400884935,2016-12-30T01:00Z,Columbus Blue Jackets at Winnipeg Jets,Winnipeg Jets,Columbus Blue Jackets,3,5,0.0
+400884936,2016-12-30T01:30Z,Colorado Avalanche at Dallas Stars,Dallas Stars,Colorado Avalanche,4,2,1.0
+400884937,2016-12-30T02:00Z,Anaheim Ducks at Calgary Flames,Calgary Flames,Anaheim Ducks,1,3,0.0
+400884938,2016-12-30T02:00Z,Los Angeles Kings at Edmonton Oilers,Edmonton Oilers,Los Angeles Kings,3,1,1.0
+400884939,2016-12-30T02:00Z,New York Rangers at Arizona Coyotes,Arizona Coyotes,New York Rangers,3,6,0.0
+400884940,2016-12-31T00:30Z,Chicago Blackhawks at Carolina Hurricanes,Carolina Hurricanes,Chicago Blackhawks,3,2,1.0
+400884941,2016-12-31T01:00Z,Nashville Predators at St. Louis Blues,St. Louis Blues,Nashville Predators,0,4,0.0
+400884942,2016-12-31T03:00Z,Anaheim Ducks at Vancouver Canucks,Vancouver Canucks,Anaheim Ducks,3,2,1.0
+400884943,2016-12-31T03:00Z,Philadelphia Flyers at San Jose Sharks,San Jose Sharks,Philadelphia Flyers,2,0,1.0
+400884944,2016-12-31T18:00Z,Buffalo Sabres at Boston Bruins,Boston Bruins,Buffalo Sabres,3,1,1.0
+400884945,2016-12-31T18:00Z,Washington Capitals at New Jersey Devils,New Jersey Devils,Washington Capitals,2,6,0.0
+400884946,2016-12-31T23:00Z,Columbus Blue Jackets at Minnesota Wild,Minnesota Wild,Columbus Blue Jackets,2,4,0.0
+400884947,2017-01-01T00:00Z,Carolina Hurricanes at Tampa Bay Lightning,Tampa Bay Lightning,Carolina Hurricanes,3,1,1.0
+400884948,2017-01-01T00:00Z,Montreal Canadiens at Pittsburgh Penguins,Pittsburgh Penguins,Montreal Canadiens,4,3,1.0
+400884949,2017-01-01T00:00Z,New York Islanders at Winnipeg Jets,Winnipeg Jets,New York Islanders,2,6,0.0
+400884950,2017-01-01T01:00Z,Florida Panthers at Dallas Stars,Dallas Stars,Florida Panthers,1,3,0.0
+400884951,2017-01-01T01:00Z,New York Rangers at Colorado Avalanche,Colorado Avalanche,New York Rangers,2,6,0.0
+400884952,2017-01-01T03:00Z,Arizona Coyotes at Calgary Flames,Calgary Flames,Arizona Coyotes,4,2,1.0
+400884953,2017-01-01T03:00Z,Vancouver Canucks at Edmonton Oilers,Edmonton Oilers,Vancouver Canucks,2,3,0.0
+400884954,2017-01-01T03:30Z,San Jose Sharks at Los Angeles Kings,Los Angeles Kings,San Jose Sharks,3,2,1.0

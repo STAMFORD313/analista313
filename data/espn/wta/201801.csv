@@ -1,0 +1,555 @@
+id,date,event,home,away,hs,as,res
+84327,2018-01-01T05:00Z,ASB Classic,Monica Puig,Julia Goerges,,,0.0
+84325,2018-01-01T05:00Z,ASB Classic,Polona Hercog,Alison Van Uytvanck,,,1.0
+84324,2018-01-01T05:00Z,ASB Classic,Donna Vekic,Kirsten Flipkens,,,0.0
+84313,2018-01-01T23:30Z,ASB Classic,Petra Martic,Marketa Vondrousova,,,1.0
+84321,2018-01-01T23:30Z,ASB Classic,Nao Hibino,Su-Wei Hsieh,,,0.0
+84317,2018-01-02T05:00Z,ASB Classic,Christina McHale,Taylor Townsend,,,0.0
+84318,2018-01-02T05:00Z,ASB Classic,Veronica Cepede Royg,Lara Arruabarrena,,,1.0
+84320,2018-01-02T05:00Z,ASB Classic,Yulia Putintseva,Ysaline Bonaventure,,,0.0
+84316,2018-01-02T05:00Z,ASB Classic,Agnieszka Radwanska,Beatriz Haddad Maia,,,1.0
+84322,2018-01-02T05:00Z,ASB Classic,Kurumi Nara,Johanna Larsson,,,0.0
+84323,2018-01-02T05:00Z,ASB Classic,Sara Errani,Barbora Strycova,,,0.0
+84326,2018-01-02T05:00Z,ASB Classic,Jade Lewis,Viktoria Hruncakova,,,0.0
+84312,2018-01-02T06:00Z,ASB Classic,Caroline Wozniacki,Madison Brengle,,,1.0
+84315,2018-01-02T22:00Z,ASB Classic,Varvara Lepchenko,Mona Barthel,,,1.0
+84314,2018-01-02T22:00Z,ASB Classic,Sofia Kenin,Jana Fett,,,1.0
+84319,2018-01-02T23:30Z,ASB Classic,Sachia Vickery,Lauren Davis,,,1.0
+84412,2018-01-03T05:00Z,ASB Classic,Agnieszka Radwanska,Taylor Townsend,,,1.0
+84409,2018-01-03T05:00Z,ASB Classic,Veronica Cepede Royg,Sachia Vickery,,,0.0
+84407,2018-01-03T05:00Z,ASB Classic,Sofia Kenin,Varvara Lepchenko,,,1.0
+84400,2018-01-03T05:00Z,ASB Classic,Kirsten Flipkens,Polona Hercog,,,0.0
+84396,2018-01-03T05:00Z,ASB Classic,Caroline Wozniacki,Petra Martic,,,1.0
+84406,2018-01-03T05:00Z,ASB Classic,Viktoria Hruncakova,Julia Goerges,,,0.0
+84410,2018-01-03T23:30Z,ASB Classic,Johanna Larsson,Barbora Strycova,,,0.0
+84391,2018-01-03T23:30Z,ASB Classic,Ysaline Bonaventure,Su-Wei Hsieh,,,0.0
+84425,2018-01-05T05:00Z,ASB Classic,Caroline Wozniacki,Sofia Kenin,,,1.0
+84426,2018-01-05T05:00Z,ASB Classic,Agnieszka Radwanska,Sachia Vickery,,,0.0
+84442,2018-01-06T05:00Z,ASB Classic,Su-Wei Hsieh,Julia Goerges,,,0.0
+84443,2018-01-06T05:00Z,ASB Classic,Caroline Wozniacki,Sachia Vickery,,,1.0
+84429,2018-01-06T21:00Z,ASB Classic,Polona Hercog,Julia Goerges,,,0.0
+84423,2018-01-06T21:00Z,ASB Classic,Su-Wei Hsieh,Barbora Strycova,,,1.0
+84461,2018-01-07T01:30Z,ASB Classic,Caroline Wozniacki,Julia Goerges,,,0.0
+95229,2018-12-31T02:00Z,ASB Classic,Monica Puig,Bethanie Mattek-Sands,,,1.0
+95225,2018-12-31T02:10Z,ASB Classic,Lauren Davis,Lara Arruabarrena,,,1.0
+95238,2018-12-31T03:00Z,ASB Classic,Viktoria Hruncakova,Tamara Zidansek,,,1.0
+95235,2018-12-31T03:30Z,ASB Classic,Eugenie Bouchard,Madison Brengle,,,1.0
+95228,2018-12-31T03:45Z,ASB Classic,Sara Sorribes Tormo,Stefanie Voegele,,,1.0
+84341,2018-01-01T03:00Z,Shenzhen Open,Jasmine Paolini,Wang Yafan,,,0.0
+84339,2018-01-01T03:00Z,Shenzhen Open,Anna Blinkova,Zhang Shuai,,,0.0
+84338,2018-01-01T03:00Z,Shenzhen Open,Pauline Parmentier,Zarina Diyas,,,0.0
+84331,2018-01-01T05:00Z,Shenzhen Open,Danka Kovinic,Maria Sakkari,,,1.0
+84328,2018-01-01T05:00Z,Shenzhen Open,Simona Halep,Nicole Gibbs,,,1.0
+84337,2018-01-01T05:00Z,Shenzhen Open,Maria Sharapova,Mihaela Buzarnescu,,,1.0
+84335,2018-01-01T05:00Z,Shenzhen Open,Wang Xiyu,Timea Babos,,,0.0
+84333,2018-01-01T05:00Z,Shenzhen Open,Stefanie Voegele,Ekaterina Alexandrova,,,0.0
+84342,2018-01-02T03:00Z,Shenzhen Open,Ana Bogdan,Camila Giorgi,,,1.0
+84393,2018-01-02T03:00Z,Shenzhen Open,Zarina Diyas,Zhang Shuai,,,1.0
+84343,2018-01-02T05:00Z,Shenzhen Open,Kristyna Pliskova,Jelena Ostapenko,,,1.0
+84386,2018-01-02T05:00Z,Shenzhen Open,Magda Linette,Timea Babos,,,0.0
+84388,2018-01-02T05:00Z,Shenzhen Open,Alison Riske-Amritraj,Maria Sharapova,,,0.0
+84389,2018-01-02T05:00Z,Shenzhen Open,Aryna Sabalenka,Danka Kovinic,,,1.0
+84381,2018-01-03T04:00Z,Shenzhen Open,Irina-Camelia Begu,Ekaterina Alexandrova,,,1.0
+84385,2018-01-03T05:00Z,Shenzhen Open,Katerina Siniakova,Wang Yafan,,,1.0
+84392,2018-01-03T05:00Z,Shenzhen Open,Simona Halep,Duan Yingying,,,1.0
+84413,2018-01-03T05:00Z,Shenzhen Open,Ana Bogdan,Kristyna Pliskova,,,0.0
+84427,2018-01-04T04:00Z,Shenzhen Open,Irina-Camelia Begu,Timea Babos,,,1.0
+84414,2018-01-04T05:00Z,Shenzhen Open,Maria Sharapova,Zarina Diyas,,,1.0
+84430,2018-01-04T05:00Z,Shenzhen Open,Katerina Siniakova,Kristyna Pliskova,,,1.0
+84417,2018-01-04T05:00Z,Shenzhen Open,Simona Halep,Aryna Sabalenka,,,1.0
+84446,2018-01-05T05:00Z,Shenzhen Open,Maria Sharapova,Katerina Siniakova,,,0.0
+84445,2018-01-05T06:00Z,Shenzhen Open,Simona Halep,Irina-Camelia Begu,,,1.0
+84454,2018-01-06T06:00Z,Shenzhen Open,Simona Halep,Katerina Siniakova,,,1.0
+95331,2018-12-30T04:05Z,Shenzhen Open,Anastasia Pavlyuchenkova,Ana Bogdan,,,1.0
+95332,2018-12-30T05:20Z,Shenzhen Open,Luksika Kumkhum,Vera Zvonareva,,,0.0
+95327,2018-12-30T06:40Z,Shenzhen Open,Evgeniya Rodina,Zarina Diyas,,,1.0
+95321,2018-12-30T07:05Z,Shenzhen Open,Anna Karolina Schmiedlova,Wang Yafan,,,0.0
+95326,2018-12-30T07:50Z,Shenzhen Open,Sorana Cirstea,Magda Linette,,,1.0
+95328,2018-12-30T08:20Z,Shenzhen Open,Zheng Saisai,Pauline Parmentier,,,0.0
+95325,2018-12-31T03:10Z,Shenzhen Open,Ons Jabeur,Zhang Shuai,,,1.0
+95329,2018-12-31T03:10Z,Shenzhen Open,Alison Riske-Amritraj,Wang Qiang,,,1.0
+95330,2018-12-31T03:10Z,Shenzhen Open,Irina-Camelia Begu,Veronika Kudermetova,,,0.0
+95320,2018-12-31T04:25Z,Shenzhen Open,Wang Xinyu,Xun Fang Ying,,,1.0
+95336,2018-12-31T05:00Z,Shenzhen Open,Ivana Jorovic,Caroline Garcia,,,1.0
+95319,2018-12-31T05:45Z,Shenzhen Open,Ekaterina Alexandrova,Dalila Jakupovic,,,1.0
+95322,2018-12-31T06:50Z,Shenzhen Open,Timea Bacsinszky,Maria Sharapova,,,0.0
+95318,2018-12-31T08:50Z,Shenzhen Open,Aryna Sabalenka,Tatjana Maria,,,1.0
+84307,2018-01-01T01:00Z,Brisbane International,Kaia Kanepi,Daria Kasatkina,,,1.0
+84305,2018-01-01T01:00Z,Brisbane International,Carla Suarez Navarro,Elina Svitolina,,,0.0
+84301,2018-01-01T05:00Z,Brisbane International,Aliaksandra Sasnovich,Kristina Mladenovic,,,1.0
+84300,2018-01-01T05:00Z,Brisbane International,Heather Watson,Anett Kontaveit,,,0.0
+84296,2018-01-01T05:00Z,Brisbane International,Jennifer Brady,Sorana Cirstea,,,0.0
+84308,2018-01-01T05:00Z,Brisbane International,Kateryna Volodko,Catherine Bellis,,,0.0
+84302,2018-01-01T05:00Z,Brisbane International,Johanna Konta,Madison Keys,,,1.0
+84306,2018-01-01T05:00Z,Brisbane International,Ashleigh Barty,Lesia Tsurenko,,,0.0
+84310,2018-01-02T01:00Z,Brisbane International,Garbine Muguruza,Aleksandra Krunic,,,0.0
+84380,2018-01-02T05:00Z,Brisbane International,Alize Cornet,Andrea Vavassori,,,1.0
+84382,2018-01-02T05:00Z,Brisbane International,Sorana Cirstea,Anastasija Sevastova,,,0.0
+84383,2018-01-02T09:00Z,Brisbane International,Johanna Konta,Ajla Tomljanovic,,,1.0
+84394,2018-01-03T01:00Z,Brisbane International,Anett Kontaveit,Aliaksandra Sasnovich,,,0.0
+84390,2018-01-03T05:00Z,Brisbane International,Lesia Tsurenko,Kaia Kanepi,,,0.0
+84387,2018-01-03T05:00Z,Brisbane International,Ana Konjuh,Elina Svitolina,,,0.0
+84311,2018-01-03T05:00Z,Brisbane International,Catherine Bellis,Karolina Pliskova,,,0.0
+84416,2018-01-04T01:00Z,Brisbane International,Alize Cornet,Aliaksandra Sasnovich,,,0.0
+84411,2018-01-04T05:00Z,Brisbane International,Aleksandra Krunic,Anastasija Sevastova,,,0.0
+84418,2018-01-04T05:00Z,Brisbane International,Johanna Konta,Elina Svitolina,,,0.0
+84428,2018-01-04T05:00Z,Brisbane International,Kaia Kanepi,Karolina Pliskova,,,0.0
+84440,2018-01-05T05:00Z,Brisbane International,Anastasija Sevastova,Aliaksandra Sasnovich,,,0.0
+84444,2018-01-05T05:00Z,Brisbane International,Elina Svitolina,Karolina Pliskova,,,1.0
+84455,2018-01-06T05:00Z,Brisbane International,Aliaksandra Sasnovich,Elina Svitolina,,,0.0
+95296,2018-12-31T01:05Z,Brisbane International,Yulia Putintseva,Karolina Pliskova,,,0.0
+95298,2018-12-31T01:10Z,Brisbane International,Mihaela Buzarnescu,Lesia Tsurenko,,,0.0
+95294,2018-12-31T01:10Z,Brisbane International,Daria Kasatkina,Kimberly Birrell,,,0.0
+95301,2018-12-31T02:20Z,Brisbane International,Kristina Mladenovic,Destanee Aiava,,,0.0
+95292,2018-12-31T05:25Z,Brisbane International,Elise Mertens,Kiki Bertens,,,0.0
+95291,2018-12-31T06:00Z,Brisbane International,Donna Vekic,Magdalena Rybarikova,,,1.0
+95299,2018-12-31T07:05Z,Brisbane International,Harriet Dart,Priscilla Hon,,,1.0
+95297,2018-12-31T09:25Z,Brisbane International,Anett Kontaveit,Carla Suarez Navarro,,,1.0
+95293,2018-12-31T12:00Z,Brisbane International,Marie Bouzkova,Samantha Stosur,,,1.0
+84288,2018-01-01T01:00Z,Brisbane International,Ryan Harrison,Leonardo Mayer,,,1.0
+84287,2018-01-01T05:00Z,Brisbane International,Jared Donaldson,Jordan Thompson,,,1.0
+84282,2018-01-01T05:00Z,Brisbane International,Mischa Zverev,John-Patrick Smith,,,1.0
+84280,2018-01-01T05:00Z,Brisbane International,Ernesto Escobedo,Horacio Zeballos,,,0.0
+84279,2018-01-01T05:00Z,Brisbane International,Frances Tiafoe,Matthew Ebden,,,0.0
+84283,2018-01-02T01:00Z,Brisbane International,Federico Delbonis,Michael Mmoh,,,0.0
+84277,2018-01-02T02:00Z,Brisbane International,Hyeon Chung,Gilles Muller,,,1.0
+84276,2018-01-02T05:00Z,Brisbane International,Denis Shapovalov,Kyle Edmund,,,0.0
+84275,2018-01-02T05:00Z,Brisbane International,Peter Polansky,John Millman,,,0.0
+84286,2018-01-02T05:00Z,Brisbane International,Damir Dzumhur,Denis Istomin,,,0.0
+84384,2018-01-03T01:00Z,Brisbane International,Horacio Zeballos,Alexandr Dolgopolov,,,0.0
+84292,2018-01-03T05:00Z,Brisbane International,Alex de Minaur,Milos Raonic,,,1.0
+84395,2018-01-03T05:00Z,Brisbane International,Mischa Zverev,Michael Mmoh,,,0.0
+84291,2018-01-03T05:00Z,Brisbane International,Nick Kyrgios,Matthew Ebden,,,1.0
+84290,2018-01-04T05:00Z,Brisbane International,Grigor Dimitrov,John Millman,,,1.0
+84293,2018-01-04T05:00Z,Brisbane International,Ryan Harrison,Yannick Hanfmann,,,1.0
+84399,2018-01-04T05:00Z,Brisbane International,Denis Istomin,Jared Donaldson,,,1.0
+84415,2018-01-04T05:00Z,Brisbane International,Kyle Edmund,Hyeon Chung,,,1.0
+84431,2018-01-05T01:00Z,Brisbane International,Michael Mmoh,Alex de Minaur,,,0.0
+84441,2018-01-05T02:00Z,Brisbane International,Denis Istomin,Ryan Harrison,,,0.0
+84424,2018-01-05T05:00Z,Brisbane International,Nick Kyrgios,Alexandr Dolgopolov,,,1.0
+84447,2018-01-05T05:00Z,Brisbane International,Grigor Dimitrov,Kyle Edmund,,,1.0
+84452,2018-01-06T01:30Z,Brisbane International,Alex de Minaur,Ryan Harrison,,,0.0
+84453,2018-01-06T05:00Z,Brisbane International,Grigor Dimitrov,Nick Kyrgios,,,0.0
+84462,2018-01-07T09:00Z,Brisbane International,Nick Kyrgios,Ryan Harrison,,,1.0
+95266,2018-12-31T03:45Z,Brisbane International,Grigor Dimitrov,Yoshihito Nishioka,,,1.0
+95265,2018-12-31T04:35Z,Brisbane International,Aljaz Bedene,Milos Raonic,,,0.0
+95261,2018-12-31T07:30Z,Brisbane International,Leonardo Mayer,Miomir Kecmanovic,,,0.0
+95269,2018-12-31T09:05Z,Brisbane International,John Millman,Tennys Sandgren,,,1.0
+95267,2018-12-31T10:00Z,Brisbane International,Yasutaka Uchiyama,Ugo Humbert,,,1.0
+84477,2018-01-07T01:00Z,Hobart International,Beatriz Haddad Maia,Lizette Cabrera,,,1.0
+84465,2018-01-07T05:00Z,Hobart International,Yulia Putintseva,Naomi Osaka,,,1.0
+84467,2018-01-07T05:00Z,Hobart International,Alize Cornet,Mihaela Buzarnescu,,,0.0
+84476,2018-01-07T05:00Z,Hobart International,Varvara Lepchenko,Mona Barthel,,,1.0
+84466,2018-01-08T00:00Z,Hobart International,Timea Babos,Lesia Tsurenko,,,0.0
+84472,2018-01-08T00:00Z,Hobart International,Marketa Vondrousova,Natalia Vikhlyantseva,,,1.0
+84473,2018-01-08T01:00Z,Hobart International,Jaimee Fourlis,Nina Stojanovic,,,1.0
+84464,2018-01-08T05:00Z,Hobart International,Eugenie Bouchard,Aryna Sabalenka,,,0.0
+84478,2018-01-08T05:00Z,Hobart International,Kurumi Nara,Elise Mertens,,,0.0
+84474,2018-01-08T05:00Z,Hobart International,Heather Watson,Sorana Cirstea,,,1.0
+84469,2018-01-08T05:00Z,Hobart International,Kirsten Flipkens,Kristyna Pliskova,,,1.0
+84468,2018-01-08T05:00Z,Hobart International,Alison Van Uytvanck,Anna-Lena Friedsam,,,0.0
+84463,2018-01-08T05:00Z,Hobart International,Zhang Shuai,Magda Linette,,,1.0
+84471,2018-01-08T05:00Z,Hobart International,Tatjana Maria,Donna Vekic,,,0.0
+84470,2018-01-09T01:00Z,Hobart International,Alison Riske-Amritraj,Katerina Siniakova,,,1.0
+84475,2018-01-09T01:00Z,Hobart International,Irina-Camelia Begu,Monica Niculescu,,,0.0
+84544,2018-01-09T05:00Z,Hobart International,Donna Vekic,Marketa Vondrousova,,,1.0
+84539,2018-01-09T05:00Z,Hobart International,Yulia Putintseva,Lesia Tsurenko,,,0.0
+84535,2018-01-09T05:00Z,Hobart International,Mihaela Buzarnescu,Anna-Lena Friedsam,,,1.0
+84533,2018-01-09T05:00Z,Hobart International,Beatriz Haddad Maia,Elise Mertens,,,0.0
+84548,2018-01-10T01:00Z,Hobart International,Jaimee Fourlis,Heather Watson,,,0.0
+84537,2018-01-10T05:00Z,Hobart International,Monica Niculescu,Varvara Lepchenko,,,1.0
+84551,2018-01-10T05:00Z,Hobart International,Kirsten Flipkens,Alison Riske-Amritraj,,,0.0
+84553,2018-01-10T05:00Z,Hobart International,Zhang Shuai,Aryna Sabalenka,,,0.0
+84563,2018-01-11T01:00Z,Hobart International,Donna Vekic,Heather Watson,,,0.0
+84558,2018-01-11T05:00Z,Hobart International,Mihaela Buzarnescu,Alison Riske-Amritraj,,,1.0
+84561,2018-01-11T05:00Z,Hobart International,Monica Niculescu,Elise Mertens,,,0.0
+84564,2018-01-11T05:00Z,Hobart International,Aryna Sabalenka,Lesia Tsurenko,,,0.0
+84581,2018-01-12T01:00Z,Hobart International,Heather Watson,Elise Mertens,,,0.0
+84580,2018-01-12T05:00Z,Hobart International,Lesia Tsurenko,Mihaela Buzarnescu,,,0.0
+84714,2018-01-13T01:00Z,Hobart International,Mihaela Buzarnescu,Elise Mertens,,,0.0
+84506,2018-01-07T01:00Z,Apia International Sydney,Ellen Perez,Kristina Mladenovic,,,1.0
+84503,2018-01-07T05:00Z,Apia International Sydney,Jelena Ostapenko,Ekaterina Makarova,,,0.0
+84512,2018-01-07T06:00Z,Apia International Sydney,Elena Vesnina,Lara Arruabarrena,,,1.0
+84511,2018-01-08T01:00Z,Apia International Sydney,Anastasija Sevastova,Dominika Cibulkova,,,0.0
+84507,2018-01-08T02:00Z,Apia International Sydney,Sloane Stephens,Camila Giorgi,,,0.0
+84508,2018-01-08T05:00Z,Apia International Sydney,Andrea Vavassori,Petra Kvitova,,,0.0
+84505,2018-01-08T05:00Z,Apia International Sydney,Ashleigh Barty,Veronica Cepede Royg,,,1.0
+84513,2018-01-08T05:00Z,Apia International Sydney,Lucie Safarova,Angelique Kerber,,,0.0
+84509,2018-01-08T05:00Z,Apia International Sydney,Catherine Bellis,Magdalena Rybarikova,,,1.0
+84500,2018-01-08T05:00Z,Apia International Sydney,Kristie Ahn,Kiki Bertens,,,0.0
+84504,2018-01-08T05:00Z,Apia International Sydney,Daria Kasatkina,Barbora Strycova,,,0.0
+84502,2018-01-09T01:00Z,Apia International Sydney,Samantha Stosur,Carina Witthoeft,,,1.0
+84510,2018-01-09T02:00Z,Apia International Sydney,Agnieszka Radwanska,Johanna Konta,,,1.0
+84516,2018-01-09T05:00Z,Apia International Sydney,Angelique Kerber,Venus Williams,,,1.0
+84534,2018-01-09T05:00Z,Apia International Sydney,Ashleigh Barty,Ellen Perez,,,1.0
+84536,2018-01-09T05:00Z,Apia International Sydney,Ekaterina Makarova,Barbora Strycova,,,0.0
+84545,2018-01-09T05:00Z,Apia International Sydney,Dominika Cibulkova,Elena Vesnina,,,1.0
+84501,2018-01-09T05:00Z,Apia International Sydney,Daria Saville,Olivia Rogowska,,,1.0
+84555,2018-01-10T02:00Z,Apia International Sydney,Catherine Bellis,Agnieszka Radwanska,,,0.0
+84557,2018-01-10T05:00Z,Apia International Sydney,Daria Saville,Samantha Stosur,,,1.0
+84515,2018-01-10T05:00Z,Apia International Sydney,Garbine Muguruza,Kiki Bertens,,,1.0
+84547,2018-01-10T05:00Z,Apia International Sydney,Camila Giorgi,Petra Kvitova,,,1.0
+84572,2018-01-11T02:00Z,Apia International Sydney,Garbine Muguruza,Daria Saville,,,0.0
+84568,2018-01-11T05:00Z,Apia International Sydney,Camila Giorgi,Agnieszka Radwanska,,,1.0
+84562,2018-01-11T05:00Z,Apia International Sydney,Dominika Cibulkova,Angelique Kerber,,,0.0
+84560,2018-01-11T05:00Z,Apia International Sydney,Barbora Strycova,Ashleigh Barty,,,0.0
+84578,2018-01-12T03:00Z,Apia International Sydney,Daria Saville,Ashleigh Barty,,,0.0
+84579,2018-01-12T05:00Z,Apia International Sydney,Camila Giorgi,Angelique Kerber,,,0.0
+84711,2018-01-13T06:00Z,Apia International Sydney,Ashleigh Barty,Angelique Kerber,,,0.0
+84480,2018-01-07T05:00Z,Apia International Sydney,Paolo Lorenzi,Jordan Thompson,,,1.0
+84484,2018-01-07T05:00Z,Apia International Sydney,Alexandr Dolgopolov,Viktor Troicki,,,1.0
+84487,2018-01-07T05:00Z,Apia International Sydney,Damir Dzumhur,Jan-Lennard Struff,,,1.0
+84485,2018-01-08T01:00Z,Apia International Sydney,Alex Bolt,Ricardas Berankis,,,0.0
+84493,2018-01-08T02:00Z,Apia International Sydney,Alexei Popyrin,John Millman,,,0.0
+84486,2018-01-08T05:00Z,Apia International Sydney,Evgeny Donskoy,Adrian Mannarino,,,0.0
+84482,2018-01-08T05:00Z,Apia International Sydney,Daniil Medvedev,Philipp Kohlschreiber,,,1.0
+84491,2018-01-09T01:00Z,Apia International Sydney,Mischa Zverev,Leonardo Mayer,,,0.0
+84489,2018-01-09T02:00Z,Apia International Sydney,Aleksandar Vukic,Feliciano Lopez,,,0.0
+84481,2018-01-09T05:00Z,Apia International Sydney,Gilles Simon,Jared Donaldson,,,0.0
+84492,2018-01-09T05:00Z,Apia International Sydney,Aljaz Bedene,Benoit Paire,,,0.0
+84488,2018-01-09T05:00Z,Apia International Sydney,Alex de Minaur,Fernando Verdasco,,,1.0
+84495,2018-01-10T02:00Z,Apia International Sydney,Albert Ramos-Vinolas,Paolo Lorenzi,,,0.0
+84546,2018-01-10T02:00Z,Apia International Sydney,Ricardas Berankis,Adrian Mannarino,,,0.0
+84498,2018-01-10T05:00Z,Apia International Sydney,John Millman,Gilles Muller,,,0.0
+84556,2018-01-10T05:00Z,Apia International Sydney,Leonardo Mayer,Benoit Paire,,,0.0
+84550,2018-01-10T05:00Z,Apia International Sydney,Jared Donaldson,Daniil Medvedev,,,0.0
+84538,2018-01-10T05:00Z,Apia International Sydney,Damir Dzumhur,Alex de Minaur,,,0.0
+84496,2018-01-10T05:00Z,Apia International Sydney,Fabio Fognini,Alexandr Dolgopolov,,,1.0
+84497,2018-01-10T05:00Z,Apia International Sydney,Feliciano Lopez,Diego Schwartzman,,,1.0
+84569,2018-01-11T02:00Z,Apia International Sydney,Paolo Lorenzi,Daniil Medvedev,,,0.0
+84567,2018-01-11T02:00Z,Apia International Sydney,Fabio Fognini,Adrian Mannarino,,,1.0
+84571,2018-01-11T05:00Z,Apia International Sydney,Benoit Paire,Gilles Muller,,,1.0
+84574,2018-01-11T05:00Z,Apia International Sydney,Alex de Minaur,Feliciano Lopez,,,1.0
+84576,2018-01-12T05:00Z,Apia International Sydney,Daniil Medvedev,Fabio Fognini,,,1.0
+84646,2018-01-12T05:00Z,Apia International Sydney,Alex de Minaur,Benoit Paire,,,1.0
+84713,2018-01-13T05:00Z,Apia International Sydney,Daniil Medvedev,Alex de Minaur,,,1.0
+123483,2018-01-09T23:10Z,Australian Open,Roberto Carballes Baena,Denis Kudla,,,0.0
+122187,2018-01-10T05:10Z,Australian Open,Taylor Fritz,Sam Groth,,,1.0
+123696,2018-01-10T06:50Z,Australian Open,Thiago Monteiro,Lorenzo Sonego,,,0.0
+129775,2018-01-10T07:00Z,Australian Open,Ernesto Escobedo,Pablo Andujar,,,1.0
+129751,2018-01-13T01:30Z,Australian Open,Ernesto Escobedo,Alessandro Giannessi,,,1.0
+122302,2018-01-13T01:40Z,Australian Open,Taylor Fritz,Mathias Bourgue,,,0.0
+129759,2018-01-14T00:30Z,Australian Open,Ernesto Escobedo,Casper Ruud,,,0.0
+84589,2018-01-14T15:00Z,Australian Open,Matthew Ebden,John Isner,,,1.0
+84588,2018-01-15T00:00Z,Australian Open,Alexandr Dolgopolov,Andreas Haider-Maurer,,,1.0
+84590,2018-01-15T00:00Z,Australian Open,Pablo Carreno Busta,Jason Kubler,,,1.0
+84594,2018-01-15T00:00Z,Australian Open,Pablo Cuevas,Mikhail Youzhny,,,1.0
+84595,2018-01-15T00:00Z,Australian Open,Dudi Sela,Ryan Harrison,,,0.0
+84606,2018-01-15T00:00Z,Australian Open,Kevin Anderson,Kyle Edmund,,,0.0
+84607,2018-01-15T00:00Z,Australian Open,Pierre-Hugues Herbert,Denis Istomin,,,0.0
+84593,2018-01-15T02:00Z,Australian Open,Federico Delbonis,Gilles Muller,,,0.0
+84611,2018-01-15T02:30Z,Australian Open,Andreas Seppi,Corentin Moutet,,,1.0
+84601,2018-01-15T03:00Z,Australian Open,David Ferrer,Andrey Rublev,,,0.0
+84603,2018-01-15T03:30Z,Australian Open,Viktor Troicki,Alex Bolt,,,1.0
+84610,2018-01-15T03:30Z,Australian Open,Philipp Kohlschreiber,Yoshihito Nishioka,,,0.0
+84604,2018-01-15T04:00Z,Australian Open,Stefanos Tsitsipas,Denis Shapovalov,,,0.0
+84598,2018-01-15T04:15Z,Australian Open,Grigor Dimitrov,Dennis Novak,,,1.0
+84585,2018-01-15T04:30Z,Australian Open,Paolo Lorenzi,Damir Dzumhur,,,0.0
+84586,2018-01-15T04:30Z,Australian Open,Diego Schwartzman,Dusan Lajovic,,,1.0
+84597,2018-01-15T04:30Z,Australian Open,Vasek Pospisil,Marin Cilic,,,0.0
+84591,2018-01-15T05:30Z,Australian Open,Gilles Simon,Marius Copil,,,1.0
+84600,2018-01-15T05:30Z,Australian Open,Marcos Baghdatis,Yuki Bhambri,,,1.0
+84608,2018-01-15T05:30Z,Australian Open,Gerald Melzer,Nikoloz Basilashvili,,,0.0
+84612,2018-01-15T05:30Z,Australian Open,Ivo Karlovic,Laslo Djere,,,1.0
+84583,2018-01-15T06:30Z,Australian Open,Nicolas Jarry,Leonardo Mayer,,,0.0
+84587,2018-01-15T06:30Z,Australian Open,Casper Ruud,Quentin Halys,,,1.0
+84592,2018-01-15T06:30Z,Australian Open,Salvatore Caruso,Malek Jaziri,,,0.0
+84596,2018-01-15T06:30Z,Australian Open,Dustin Brown,João Sousa,,,0.0
+84599,2018-01-15T06:30Z,Australian Open,Mackenzie McDonald,Elias Ymer,,,1.0
+84609,2018-01-15T06:30Z,Australian Open,Ruben Bemelmans,Lucas Pouille,,,1.0
+84613,2018-01-15T06:30Z,Australian Open,Yuichi Sugita,Jack Sock,,,1.0
+84584,2018-01-15T07:00Z,Australian Open,John Millman,Borna Coric,,,1.0
+84582,2018-01-15T08:00Z,Australian Open,Rafael Nadal,Victor Estrella Burgos,,,1.0
+84602,2018-01-15T08:00Z,Australian Open,Nick Kyrgios,Yuliya Hatouka,,,1.0
+120354,2018-01-15T08:25Z,Australian Open,Dustin Brown,João Sousa,,,0.0
+84605,2018-01-15T10:00Z,Australian Open,Kevin King,Jo-Wilfried Tsonga,,,0.0
+84617,2018-01-15T12:00Z,Australian Open,Matteo Berrettini,Adrian Mannarino,,,0.0
+84616,2018-01-16T00:00Z,Australian Open,Vaclav Safranek,Jiri Vesely,,,0.0
+84640,2018-01-16T00:00Z,Australian Open,Nicolas Kicker,Jordan Thompson,,,1.0
+84638,2018-01-16T01:45Z,Australian Open,Sam Querrey,Feliciano Lopez,,,1.0
+84628,2018-01-16T02:00Z,Australian Open,Mikhail Kukushkin,Peter Gojowczyk,,,0.0
+84629,2018-01-16T02:00Z,Australian Open,Thomas Fabbiano,Alexander Zverev,,,0.0
+84630,2018-01-16T02:00Z,Australian Open,David Goffin,Matthias Bachinger,,,1.0
+84643,2018-01-16T02:00Z,Australian Open,Lorenzo Sonego,Robin Haase,,,1.0
+84621,2018-01-16T03:15Z,Australian Open,Ricardas Berankis,Stan Wawrinka,,,0.0
+84615,2018-01-16T03:30Z,Australian Open,Steve Johnson,Denis Kudla,,,0.0
+84620,2018-01-16T04:00Z,Australian Open,Jeremy Chardy,Tennys Sandgren,,,0.0
+84622,2018-01-16T04:00Z,Australian Open,Novak Djokovic,Donald Young,,,1.0
+84624,2018-01-16T04:30Z,Australian Open,Tim Smyczek,Alexei Popyrin,,,1.0
+84625,2018-01-16T04:30Z,Australian Open,Jared Donaldson,Albert Ramos-Vinolas,,,0.0
+84627,2018-01-16T04:30Z,Australian Open,Thanasi Kokkinakis,Daniil Medvedev,,,0.0
+84632,2018-01-16T04:30Z,Australian Open,Evgeny Donskoy,Florian Mayer,,,1.0
+84633,2018-01-16T04:30Z,Australian Open,Horacio Zeballos,Fabio Fognini,,,0.0
+84644,2018-01-16T04:30Z,Australian Open,SoonWoo Kwon,Jan-Lennard Struff,,,0.0
+123357,2018-01-16T04:45Z,Australian Open,SoonWoo Kwon,Jan-Lennard Struff,,,0.0
+84623,2018-01-16T05:30Z,Australian Open,Gael Monfils,Jaume Munar,,,1.0
+84636,2018-01-16T06:00Z,Australian Open,Karen Khachanov,Peter Polansky,,,1.0
+84642,2018-01-16T06:00Z,Australian Open,Richard Gasquet,Blaz Kavcic,,,1.0
+84626,2018-01-16T06:30Z,Australian Open,Mischa Zverev,Hyeon Chung,,,0.0
+84635,2018-01-16T06:30Z,Australian Open,Guillermo Garcia-Lopez,Benoit Paire,,,1.0
+84634,2018-01-16T07:45Z,Australian Open,Tomas Berdych,Alex de Minaur,,,1.0
+84614,2018-01-16T08:00Z,Australian Open,Dominic Thiem,Guido Pella,,,1.0
+84645,2018-01-16T08:00Z,Australian Open,Aljaz Bedene,Roger Federer,,,0.0
+84618,2018-01-16T10:00Z,Australian Open,Roberto Bautista Agut,Fernando Verdasco,,,0.0
+84619,2018-01-16T10:00Z,Australian Open,Cedrik-Marcel Stebe,Maximilian Marterer,,,0.0
+84631,2018-01-16T10:00Z,Australian Open,Julien Benneteau,Taro Daniel,,,1.0
+84637,2018-01-16T10:00Z,Australian Open,Frances Tiafoe,Juan Martin del Potro,,,0.0
+84641,2018-01-16T10:00Z,Australian Open,Lukas Lacko,Milos Raonic,,,1.0
+84809,2018-01-16T16:00Z,Australian Open,Rafael Nadal,Leonardo Mayer,,,1.0
+84639,2018-01-17T00:00Z,Australian Open,Radu Albot,Marton Fucsovics,,,0.0
+84790,2018-01-17T00:00Z,Australian Open,Pablo Carreno Busta,Gilles Simon,,,1.0
+84791,2018-01-17T00:00Z,Australian Open,Malek Jaziri,Gilles Muller,,,0.0
+84796,2018-01-17T00:00Z,Australian Open,Yoshihito Nishioka,Andreas Seppi,,,0.0
+84807,2018-01-17T00:00Z,Australian Open,Nikoloz Basilashvili,Ruben Bemelmans,,,1.0
+84797,2018-01-17T02:00Z,Australian Open,Denis Shapovalov,Jo-Wilfried Tsonga,,,0.0
+84788,2018-01-17T02:30Z,Australian Open,Kyle Edmund,Denis Istomin,,,1.0
+84804,2018-01-17T03:00Z,Australian Open,Ivo Karlovic,Yuichi Sugita,,,1.0
+84803,2018-01-17T04:00Z,Australian Open,João Sousa,Marin Cilic,,,0.0
+84786,2018-01-17T04:30Z,Australian Open,Pablo Cuevas,Ryan Harrison,,,0.0
+84805,2018-01-17T05:00Z,Australian Open,John Millman,Damir Dzumhur,,,0.0
+84806,2018-01-17T06:40Z,Australian Open,Diego Schwartzman,Casper Ruud,,,1.0
+84800,2018-01-17T07:45Z,Australian Open,Nick Kyrgios,Viktor Troicki,,,1.0
+84798,2018-01-17T08:00Z,Australian Open,Grigor Dimitrov,Mackenzie McDonald,,,1.0
+84801,2018-01-17T08:00Z,Australian Open,Marcos Baghdatis,Andrey Rublev,,,0.0
+84785,2018-01-17T10:00Z,Australian Open,Alexandr Dolgopolov,Matthew Ebden,,,1.0
+84815,2018-01-17T15:10Z,Australian Open,Jiri Vesely,Adrian Mannarino,,,0.0
+84832,2018-01-17T16:00Z,Australian Open,Novak Djokovic,Gael Monfils,,,1.0
+84817,2018-01-18T00:00Z,Australian Open,Sam Querrey,Marton Fucsovics,,,0.0
+84821,2018-01-18T00:00Z,Australian Open,Nicolas Kicker,Lukas Lacko,,,1.0
+84829,2018-01-18T00:00Z,Australian Open,Tim Smyczek,Albert Ramos-Vinolas,,,0.0
+84834,2018-01-18T00:00Z,Australian Open,Dominic Thiem,Denis Kudla,,,1.0
+84840,2018-01-18T02:00Z,Australian Open,Tomas Berdych,Guillermo Garcia-Lopez,,,1.0
+84841,2018-01-18T04:00Z,Australian Open,Karen Khachanov,Juan Martin del Potro,,,0.0
+84830,2018-01-18T04:30Z,Australian Open,Evgeny Donskoy,Fabio Fognini,,,0.0
+84822,2018-01-18T04:55Z,Australian Open,David Goffin,Julien Benneteau,,,0.0
+84824,2018-01-18T07:00Z,Australian Open,Richard Gasquet,Lorenzo Sonego,,,1.0
+84814,2018-01-18T07:20Z,Australian Open,Fernando Verdasco,Maximilian Marterer,,,0.0
+84823,2018-01-18T08:00Z,Australian Open,Peter Gojowczyk,Alexander Zverev,,,0.0
+84831,2018-01-18T10:00Z,Australian Open,Tennys Sandgren,Stan Wawrinka,,,1.0
+84833,2018-01-18T10:00Z,Australian Open,Jan-Lennard Struff,Roger Federer,,,0.0
+84835,2018-01-18T17:20Z,Australian Open,Hyeon Chung,Daniil Medvedev,,,1.0
+84853,2018-01-19T00:00Z,Australian Open,Kyle Edmund,Nikoloz Basilashvili,,,1.0
+84843,2018-01-19T02:00Z,Australian Open,Pablo Carreno Busta,Gilles Muller,,,1.0
+84880,2018-01-19T04:00Z,Australian Open,Grigor Dimitrov,Andrey Rublev,,,1.0
+84854,2018-01-19T04:50Z,Australian Open,Andreas Seppi,Ivo Karlovic,,,1.0
+84877,2018-01-19T06:30Z,Australian Open,Diego Schwartzman,Alexandr Dolgopolov,,,1.0
+84869,2018-01-19T08:00Z,Australian Open,Nick Kyrgios,Jo-Wilfried Tsonga,,,1.0
+84873,2018-01-19T08:00Z,Australian Open,Rafael Nadal,Damir Dzumhur,,,1.0
+84865,2018-01-19T09:15Z,Australian Open,Ryan Harrison,Marin Cilic,,,0.0
+84923,2018-01-20T03:30Z,Australian Open,Maximilian Marterer,Tennys Sandgren,,,0.0
+84895,2018-01-20T04:00Z,Australian Open,Dominic Thiem,Adrian Mannarino,,,1.0
+84901,2018-01-20T04:30Z,Australian Open,Julien Benneteau,Fabio Fognini,,,0.0
+84902,2018-01-20T04:30Z,Australian Open,Hyeon Chung,Alexander Zverev,,,1.0
+84898,2018-01-20T07:30Z,Australian Open,Tomas Berdych,Juan Martin del Potro,,,1.0
+84889,2018-01-20T08:00Z,Australian Open,Novak Djokovic,Albert Ramos-Vinolas,,,1.0
+84922,2018-01-20T10:00Z,Australian Open,Richard Gasquet,Roger Federer,,,0.0
+84938,2018-01-20T14:00Z,Australian Open,Pablo Carreno Busta,Marin Cilic,,,0.0
+84892,2018-01-20T17:00Z,Australian Open,Marton Fucsovics,Nicolas Kicker,,,1.0
+84947,2018-01-21T04:30Z,Australian Open,Rafael Nadal,Diego Schwartzman,,,1.0
+84933,2018-01-21T06:30Z,Australian Open,Kyle Edmund,Andreas Seppi,,,1.0
+84944,2018-01-21T09:00Z,Australian Open,Grigor Dimitrov,Nick Kyrgios,,,1.0
+84957,2018-01-21T16:45Z,Australian Open,Marton Fucsovics,Roger Federer,,,0.0
+84958,2018-01-22T02:00Z,Australian Open,Fabio Fognini,Tomas Berdych,,,0.0
+84955,2018-01-22T06:30Z,Australian Open,Dominic Thiem,Tennys Sandgren,,,0.0
+84960,2018-01-22T08:00Z,Australian Open,Novak Djokovic,Hyeon Chung,,,0.0
+84971,2018-01-23T04:30Z,Australian Open,Grigor Dimitrov,Kyle Edmund,,,0.0
+84967,2018-01-23T08:00Z,Australian Open,Rafael Nadal,Marin Cilic,,,0.0
+84982,2018-01-23T14:00Z,Australian Open,Tennys Sandgren,Hyeon Chung,,,0.0
+84976,2018-01-24T08:30Z,Australian Open,Tomas Berdych,Roger Federer,,,0.0
+84989,2018-01-25T08:30Z,Australian Open,Marin Cilic,Kyle Edmund,,,1.0
+84992,2018-01-26T08:30Z,Australian Open,Hyeon Chung,Roger Federer,,,0.0
+84997,2018-01-28T08:30Z,Australian Open,Marin Cilic,Roger Federer,,,0.0
+125657,2018-01-11T04:15Z,Australian Open,Alexandra Cadanțu-Ignatik,Vera Lapko,,,0.0
+124073,2018-01-13T06:00Z,Australian Open,Lesley Pattinama Kerkhove,Tamara Zidansek,,,1.0
+123945,2018-01-14T01:10Z,Australian Open,Anna Karolina Schmiedlova,Stefanie Voegele,,,1.0
+124045,2018-01-14T01:40Z,Australian Open,Lesley Pattinama Kerkhove,Anna Kalinskaya,,,0.0
+84687,2018-01-14T12:00Z,Australian Open,Sloane Stephens,Zhang Shuai,,,0.0
+84681,2018-01-15T00:00Z,Australian Open,Alison Van Uytvanck,Petra Martic,,,0.0
+84682,2018-01-15T00:00Z,Australian Open,Irina-Camelia Begu,Ekaterina Makarova,,,1.0
+84685,2018-01-15T00:00Z,Australian Open,Alize Cornet,Wang Xinyu,,,1.0
+84686,2018-01-15T00:00Z,Australian Open,Sofia Kenin,Julia Goerges,,,0.0
+84695,2018-01-15T00:00Z,Australian Open,Jelena Ostapenko,Francesca Schiavone,,,1.0
+84696,2018-01-15T00:00Z,Australian Open,Duan Yingying,Mariana Duque-Marino,,,1.0
+84697,2018-01-15T00:00Z,Australian Open,Monica Niculescu,Mona Barthel,,,0.0
+84705,2018-01-15T00:00Z,Australian Open,Kirsten Flipkens,Alison Riske-Amritraj,,,1.0
+84706,2018-01-15T00:00Z,Australian Open,Taylor Townsend,Magdalena Rybarikova,,,0.0
+84679,2018-01-15T02:00Z,Australian Open,Venus Williams,Belinda Bencic,,,0.0
+84699,2018-01-15T02:00Z,Australian Open,Dominika Cibulkova,Kaia Kanepi,,,0.0
+84702,2018-01-15T02:00Z,Australian Open,Timea Babos,Coco Vandeweghe,,,1.0
+84707,2018-01-15T02:00Z,Australian Open,Kiki Bertens,Catherine Bellis,,,1.0
+84693,2018-01-15T02:30Z,Australian Open,Maria Sakkari,Katerina Siniakova,,,0.0
+84698,2018-01-15T03:30Z,Australian Open,Aleksandra Krunic,Anett Kontaveit,,,0.0
+84689,2018-01-15T04:00Z,Australian Open,Jennifer Brady,Magda Linette,,,0.0
+84688,2018-01-15T04:30Z,Australian Open,Denisa Satralova,Pauline Parmentier,,,1.0
+84692,2018-01-15T04:30Z,Australian Open,Jaimee Fourlis,Olivia Rogowska,,,0.0
+84703,2018-01-15T04:30Z,Australian Open,Anastasia Pavlyuchenkova,Kateryna Baindl,,,1.0
+84704,2018-01-15T04:30Z,Australian Open,Viktorija Golubic,Kateryna Volodko,,,0.0
+84700,2018-01-15T05:20Z,Australian Open,Samantha Stosur,Monica Puig,,,0.0
+84680,2018-01-15T05:30Z,Australian Open,Luksika Kumkhum,Johanna Larsson,,,1.0
+84691,2018-01-15T05:30Z,Australian Open,Shuai Peng,Marta Kostyuk,,,0.0
+84701,2018-01-15T05:30Z,Australian Open,Carla Suarez Navarro,Magdalena Frech,,,1.0
+84708,2018-01-15T05:30Z,Australian Open,Nicole Gibbs,Viktoriya Tomova,,,1.0
+84684,2018-01-15T07:00Z,Australian Open,Viktoria Hruncakova,Elise Mertens,,,0.0
+84690,2018-01-15T07:00Z,Australian Open,Anna Karolina Schmiedlova,Daria Kasatkina,,,0.0
+84694,2018-01-15T07:00Z,Australian Open,Ivana Jorovic,Elina Svitolina,,,0.0
+84709,2018-01-15T07:00Z,Australian Open,Jana Fett,Misa Eguchi,,,1.0
+123960,2018-01-15T07:55Z,Australian Open,Anna Karolina Schmiedlova,Daria Kasatkina,,,0.0
+84710,2018-01-15T08:00Z,Australian Open,Mihaela Buzarnescu,Caroline Wozniacki,,,0.0
+132218,2018-01-15T08:05Z,Australian Open,Viktoria Hruncakova,Elise Mertens,,,0.0
+84683,2018-01-15T10:30Z,Australian Open,Daria Saville,Irina Falconi,,,1.0
+84656,2018-01-16T00:00Z,Australian Open,Anna Blinkova,Bernarda Pera,,,0.0
+84657,2018-01-16T00:00Z,Australian Open,Lara Arruabarrena,Richel Hogenkamp,,,1.0
+84658,2018-01-16T00:00Z,Australian Open,Kristie Ahn,Barbora Strycova,,,0.0
+84667,2018-01-16T02:00Z,Australian Open,Angelique Kerber,Anna-Lena Friedsam,,,1.0
+84668,2018-01-16T02:00Z,Australian Open,Nao Hibino,Donna Vekic,,,0.0
+84669,2018-01-16T02:00Z,Australian Open,Tatjana Maria,Maria Sharapova,,,0.0
+84648,2018-01-16T02:30Z,Australian Open,Eugenie Bouchard,Oceane Dodin,,,1.0
+84654,2018-01-16T02:30Z,Australian Open,Ons Jabeur,Elena Vesnina,,,0.0
+84660,2018-01-16T02:30Z,Australian Open,Sorana Cirstea,Zarina Diyas,,,1.0
+84676,2018-01-16T02:30Z,Australian Open,Christina McHale,Aliaksandra Sasnovich,,,0.0
+84661,2018-01-16T02:45Z,Australian Open,Lizette Cabrera,Beatriz Haddad Maia,,,0.0
+84670,2018-01-16T03:45Z,Australian Open,Varvara Lepchenko,Anastasija Sevastova,,,0.0
+84674,2018-01-16T03:45Z,Australian Open,Wang Qiang,Madison Keys,,,0.0
+84675,2018-01-16T03:45Z,Australian Open,Andrea Vavassori,Shelby Rogers,,,1.0
+84647,2018-01-16T04:30Z,Australian Open,Simona Halep,Destanee Aiava,,,1.0
+84673,2018-01-16T04:30Z,Australian Open,Polona Hercog,Ekaterina Alexandrova,,,0.0
+84653,2018-01-16T06:00Z,Australian Open,Naomi Osaka,Kristina Kucova,,,1.0
+84650,2018-01-16T06:30Z,Australian Open,Andrea Petkovic,Petra Kvitova,,,1.0
+84664,2018-01-16T06:30Z,Australian Open,Su-Wei Hsieh,Zhu Lin,,,1.0
+84665,2018-01-16T06:30Z,Australian Open,Natalia Vikhlyantseva,Lesia Tsurenko,,,0.0
+84652,2018-01-16T07:00Z,Australian Open,Camila Giorgi,Anna Kalinskaya,,,1.0
+84663,2018-01-16T08:00Z,Australian Open,Garbine Muguruza,Jessika Ponchet,,,1.0
+84649,2018-01-16T08:30Z,Australian Open,Lauren Davis,Jana Cepelova,,,1.0
+84671,2018-01-16T08:30Z,Australian Open,Kristina Mladenovic,Ana Bogdan,,,0.0
+84672,2018-01-16T08:30Z,Australian Open,Yulia Putintseva,Heather Watson,,,1.0
+84666,2018-01-16T09:00Z,Australian Open,Kristyna Pliskova,Agnieszka Radwanska,,,0.0
+84655,2018-01-16T10:00Z,Australian Open,Johanna Konta,Madison Brengle,,,1.0
+84659,2018-01-16T10:00Z,Australian Open,Lucie Safarova,Ajla Tomljanovic,,,1.0
+84662,2018-01-16T10:00Z,Australian Open,Veronica Cepede Royg,Karolina Pliskova,,,0.0
+84678,2018-01-16T10:00Z,Australian Open,Carina Witthoeft,Caroline Garcia,,,0.0
+84651,2018-01-16T10:30Z,Australian Open,Ashleigh Barty,Aryna Sabalenka,,,1.0
+84802,2018-01-16T12:00Z,Australian Open,Marta Kostyuk,Olivia Rogowska,,,1.0
+84810,2018-01-16T14:45Z,Australian Open,Jana Fett,Caroline Wozniacki,,,0.0
+84677,2018-01-17T00:00Z,Australian Open,Kurumi Nara,Marketa Vondrousova,,,0.0
+84784,2018-01-17T00:00Z,Australian Open,Zhang Shuai,Denisa Satralova,,,0.0
+84794,2018-01-17T00:00Z,Australian Open,Katerina Siniakova,Elina Svitolina,,,0.0
+84799,2018-01-17T00:00Z,Australian Open,Anastasia Pavlyuchenkova,Kateryna Volodko,,,0.0
+84782,2018-01-17T02:00Z,Australian Open,Petra Martic,Irina-Camelia Begu,,,1.0
+84789,2018-01-17T02:00Z,Australian Open,Belinda Bencic,Luksika Kumkhum,,,0.0
+84780,2018-01-17T03:00Z,Australian Open,Kirsten Flipkens,Magdalena Rybarikova,,,0.0
+84795,2018-01-17T04:15Z,Australian Open,Magda Linette,Daria Kasatkina,,,1.0
+84779,2018-01-17T05:00Z,Australian Open,Jelena Ostapenko,Duan Yingying,,,1.0
+84793,2018-01-17T06:30Z,Australian Open,Kiki Bertens,Nicole Gibbs,,,1.0
+84783,2018-01-17T07:15Z,Australian Open,Mona Barthel,Anett Kontaveit,,,0.0
+84787,2018-01-17T07:30Z,Australian Open,Kaia Kanepi,Monica Puig,,,1.0
+84781,2018-01-17T08:00Z,Australian Open,Alize Cornet,Julia Goerges,,,1.0
+84792,2018-01-17T08:30Z,Australian Open,Carla Suarez Navarro,Timea Babos,,,1.0
+84808,2018-01-17T10:30Z,Australian Open,Daria Saville,Elise Mertens,,,0.0
+84816,2018-01-17T16:15Z,Australian Open,Angelique Kerber,Donna Vekic,,,1.0
+84811,2018-01-18T00:00Z,Australian Open,Lara Arruabarrena,Barbora Strycova,,,0.0
+84812,2018-01-18T00:00Z,Australian Open,Johanna Konta,Bernarda Pera,,,0.0
+84813,2018-01-18T00:00Z,Australian Open,Marketa Vondrousova,Caroline Garcia,,,0.0
+84819,2018-01-18T00:00Z,Australian Open,Maria Sharapova,Anastasija Sevastova,,,1.0
+84836,2018-01-18T00:00Z,Australian Open,Lesia Tsurenko,Agnieszka Radwanska,,,0.0
+84838,2018-01-18T02:00Z,Australian Open,Lauren Davis,Andrea Petkovic,,,1.0
+84839,2018-01-18T02:00Z,Australian Open,Garbine Muguruza,Su-Wei Hsieh,,,0.0
+84820,2018-01-18T02:30Z,Australian Open,Andrea Vavassori,Aliaksandra Sasnovich,,,0.0
+84825,2018-01-18T02:50Z,Australian Open,Beatriz Haddad Maia,Karolina Pliskova,,,0.0
+84842,2018-01-18T02:50Z,Australian Open,Ana Bogdan,Yulia Putintseva,,,1.0
+84826,2018-01-18T03:15Z,Australian Open,Lucie Safarova,Sorana Cirstea,,,1.0
+84827,2018-01-18T06:00Z,Australian Open,Ekaterina Alexandrova,Madison Keys,,,0.0
+84818,2018-01-18T06:30Z,Australian Open,Naomi Osaka,Elena Vesnina,,,1.0
+84828,2018-01-18T08:00Z,Australian Open,Simona Halep,Eugenie Bouchard,,,1.0
+84837,2018-01-18T08:00Z,Australian Open,Ashleigh Barty,Camila Giorgi,,,1.0
+84850,2018-01-18T14:30Z,Australian Open,Marta Kostyuk,Elina Svitolina,,,0.0
+84851,2018-01-19T00:00Z,Australian Open,Denisa Satralova,Magda Linette,,,1.0
+84856,2018-01-19T00:00Z,Australian Open,Luksika Kumkhum,Petra Martic,,,0.0
+84879,2018-01-19T02:30Z,Australian Open,Elise Mertens,Alize Cornet,,,1.0
+84846,2018-01-19T05:20Z,Australian Open,Kateryna Volodko,Magdalena Rybarikova,,,0.0
+118544,2018-01-19T05:20Z,Australian Open,Kateryna Volodko,Magdalena Rybarikova,,,0.0
+84876,2018-01-19T07:30Z,Australian Open,Kaia Kanepi,Carla Suarez Navarro,,,0.0
+84875,2018-01-19T10:30Z,Australian Open,Jelena Ostapenko,Anett Kontaveit,,,0.0
+84867,2018-01-19T11:30Z,Australian Open,Kiki Bertens,Caroline Wozniacki,,,0.0
+84894,2018-01-19T12:00Z,Australian Open,Simona Halep,Lauren Davis,,,1.0
+84899,2018-01-20T00:00Z,Australian Open,Ana Bogdan,Madison Keys,,,0.0
+84888,2018-01-20T02:00Z,Australian Open,Aliaksandra Sasnovich,Caroline Garcia,,,0.0
+84893,2018-01-20T02:00Z,Australian Open,Lucie Safarova,Karolina Pliskova,,,0.0
+84905,2018-01-20T06:30Z,Australian Open,Ashleigh Barty,Naomi Osaka,,,0.0
+84885,2018-01-20T07:00Z,Australian Open,Bernarda Pera,Barbora Strycova,,,0.0
+84881,2018-01-20T08:00Z,Australian Open,Angelique Kerber,Maria Sharapova,,,1.0
+84887,2018-01-20T10:30Z,Australian Open,Su-Wei Hsieh,Agnieszka Radwanska,,,1.0
+84948,2018-01-21T00:00Z,Australian Open,Anett Kontaveit,Carla Suarez Navarro,,,0.0
+84946,2018-01-21T02:00Z,Australian Open,Magdalena Rybarikova,Caroline Wozniacki,,,0.0
+84930,2018-01-21T05:45Z,Australian Open,Petra Martic,Elise Mertens,,,0.0
+84924,2018-01-21T12:45Z,Australian Open,Denisa Satralova,Elina Svitolina,,,0.0
+84950,2018-01-22T00:00Z,Australian Open,Madison Keys,Caroline Garcia,,,1.0
+84962,2018-01-22T02:00Z,Australian Open,Su-Wei Hsieh,Angelique Kerber,,,0.0
+84952,2018-01-22T06:30Z,Australian Open,Simona Halep,Naomi Osaka,,,1.0
+84951,2018-01-22T11:55Z,Australian Open,Barbora Strycova,Karolina Pliskova,,,0.0
+84969,2018-01-22T14:30Z,Australian Open,Elise Mertens,Elina Svitolina,,,1.0
+84965,2018-01-23T10:00Z,Australian Open,Carla Suarez Navarro,Caroline Wozniacki,,,0.0
+84972,2018-01-24T00:00Z,Australian Open,Angelique Kerber,Madison Keys,,,1.0
+84986,2018-01-24T15:00Z,Australian Open,Elise Mertens,Caroline Wozniacki,,,0.0
+84981,2018-01-24T17:05Z,Australian Open,Simona Halep,Karolina Pliskova,,,1.0
+84990,2018-01-25T05:00Z,Australian Open,Simona Halep,Angelique Kerber,,,1.0
+84995,2018-01-27T08:30Z,Australian Open,Simona Halep,Caroline Wozniacki,,,0.0
+85038,2018-01-28T05:00Z,St. Petersburg Ladies Trophy,Alize Cornet,Daria Kasatkina,,,0.5
+85006,2018-01-28T05:00Z,St. Petersburg Ladies Trophy,Ekaterina Makarova,Anastasia Pavlyuchenkova,,,0.5
+85018,2018-01-28T05:00Z,St. Petersburg Ladies Trophy,Vera Zvonareva,Jelena Ostapenko,,,0.5
+85017,2018-01-28T05:00Z,St. Petersburg Ladies Trophy,Elena Rybakina,Caroline Garcia,,,0.5
+85016,2018-01-28T05:00Z,St. Petersburg Ladies Trophy,Kristina Mladenovic,Dominika Cibulkova,,,0.5
+85011,2018-01-28T05:00Z,St. Petersburg Ladies Trophy,Elena Vesnina,Petra Kvitova,,,0.5
+132219,2018-01-28T09:50Z,St. Petersburg Ladies Trophy,Viktoria Hruncakova,Dayana Yastremska,,,1.0
+85000,2018-01-29T05:00Z,St. Petersburg Ladies Trophy,Anastasia Potapova,Tatjana Maria,,,1.0
+85005,2018-01-29T05:00Z,St. Petersburg Ladies Trophy,Donna Vekic,Katerina Siniakova,,,0.0
+85001,2018-01-29T10:00Z,St. Petersburg Ladies Trophy,Mona Barthel,Alize Cornet,,,0.0
+85013,2018-01-30T05:00Z,St. Petersburg Ladies Trophy,Vera Zvonareva,Kiki Bertens,,,1.0
+85012,2018-01-30T05:00Z,St. Petersburg Ladies Trophy,Irina-Camelia Begu,Andrea Petkovic,,,1.0
+85008,2018-01-30T05:00Z,St. Petersburg Ladies Trophy,Roberta Vinci,Tereza Martincova,,,1.0
+85004,2018-01-30T05:00Z,St. Petersburg Ladies Trophy,Sorana Cirstea,Dominika Cibulkova,,,0.0
+85009,2018-01-30T10:00Z,St. Petersburg Ladies Trophy,Timea Bacsinszky,Elena Rybakina,,,0.0
+85007,2018-01-30T10:00Z,St. Petersburg Ladies Trophy,Julia Goerges,Maria Sakkari,,,1.0
+132224,2018-01-30T15:40Z,St. Petersburg Ladies Trophy,Viktoria Hruncakova,Daria Kasatkina,,,0.0
+85002,2018-01-30T17:00Z,St. Petersburg Ladies Trophy,Viktoria Hruncakova,Daria Kasatkina,,,0.0
+85039,2018-02-01T05:00Z,St. Petersburg Ladies Trophy,Katerina Siniakova,Ekaterina Makarova,,,1.0
+85090,2018-02-01T05:00Z,St. Petersburg Ladies Trophy,Petra Kvitova,Irina-Camelia Begu,,,1.0
+85015,2018-02-01T05:00Z,St. Petersburg Ladies Trophy,Caroline Wozniacki,Anastasia Potapova,,,1.0
+85089,2018-02-01T17:00Z,St. Petersburg Ladies Trophy,Julia Goerges,Roberta Vinci,,,1.0
+85091,2018-02-02T05:00Z,St. Petersburg Ladies Trophy,Caroline Wozniacki,Daria Kasatkina,,,0.0
+85092,2018-02-02T05:00Z,St. Petersburg Ladies Trophy,Kristina Mladenovic,Katerina Siniakova,,,1.0
+85094,2018-02-02T05:00Z,St. Petersburg Ladies Trophy,Petra Kvitova,Jelena Ostapenko,,,1.0
+85093,2018-02-02T10:00Z,St. Petersburg Ladies Trophy,Julia Goerges,Elena Rybakina,,,1.0
+85097,2018-02-03T05:00Z,St. Petersburg Ladies Trophy,Daria Kasatkina,Kristina Mladenovic,,,0.0
+85098,2018-02-03T11:00Z,St. Petersburg Ladies Trophy,Julia Goerges,Petra Kvitova,,,0.0
+85100,2018-02-04T10:00Z,St. Petersburg Ladies Trophy,Kristina Mladenovic,Petra Kvitova,,,0.0
+85033,2018-01-29T04:00Z, Taiwan Open,Duan Yingying,Miyu Kato,,,1.0
+85031,2018-01-29T04:00Z, Taiwan Open,Yulia Putintseva,Junri Namigata,,,1.0
+85037,2018-01-29T05:00Z, Taiwan Open,Zarina Diyas,Monica Niculescu,,,0.5
+85023,2018-01-29T05:00Z, Taiwan Open,Timea Babos,Arina Rodionova,,,0.5
+85024,2018-01-29T05:00Z, Taiwan Open,Lizette Cabrera,Dalila Jakupovic,,,0.5
+85036,2018-01-29T05:00Z, Taiwan Open,Duan Yingying,Kateryna Baindl,,,0.5
+85035,2018-01-29T05:00Z, Taiwan Open,Yulia Putintseva,Kai-Chen Chang,,,0.5
+85027,2018-01-29T05:00Z, Taiwan Open,Zarina Diyas,Anna Blinkova,,,1.0
+85028,2018-01-29T05:00Z, Taiwan Open,Monica Niculescu,Ons Jabeur,,,1.0
+85034,2018-01-29T05:00Z, Taiwan Open,Kateryna Baindl,Zhang Shuai,,,1.0
+85032,2018-01-29T05:00Z, Taiwan Open,Ya-Hsuan Lee,Kai-Chen Chang,,,0.0
+85019,2018-01-29T16:00Z, Taiwan Open,Shuai Peng,Ana Bogdan,,,0.0
+85022,2018-01-30T04:00Z, Taiwan Open,Kurumi Nara,Pauline Parmentier,,,0.0
+85020,2018-01-30T05:00Z, Taiwan Open,Zhu Lin,Eugenie Bouchard,,,0.0
+85029,2018-01-30T05:00Z, Taiwan Open,Sabine Lisicki,Zhang Yuxuan,,,1.0
+85026,2018-01-30T05:00Z, Taiwan Open,Han Xinyun,Magda Linette,,,0.0
+85025,2018-01-30T05:00Z, Taiwan Open,Lu Jing-Jing,Johanna Larsson,,,0.0
+85021,2018-01-30T05:00Z, Taiwan Open,Wang Yafan,Risa Ozaki,,,1.0
+85030,2018-01-30T05:00Z, Taiwan Open,Nao Hibino,Samantha Stosur,,,1.0
+85054,2018-01-31T05:00Z, Taiwan Open,Sabine Lisicki,Nao Hibino,,,1.0
+85053,2018-02-01T05:00Z, Taiwan Open,Johanna Larsson,Magda Linette,,,0.5
+85052,2018-02-01T05:00Z, Taiwan Open,Timea Babos,Dalila Jakupovic,,,1.0
+85040,2018-02-01T05:00Z, Taiwan Open,Ana Bogdan,Eugenie Bouchard,,,0.0
+85051,2018-02-01T17:00Z, Taiwan Open,Wang Yafan,Pauline Parmentier,,,1.0
+85055,2018-02-02T05:00Z, Taiwan Open,Eugenie Bouchard,Wang Yafan,,,0.0
+85056,2018-02-02T05:00Z, Taiwan Open,Timea Babos,Magda Linette,,,1.0
+85057,2018-02-02T05:00Z, Taiwan Open,Monica Niculescu,Sabine Lisicki,,,0.0
+85058,2018-02-02T05:00Z, Taiwan Open,Yulia Putintseva,Kateryna Baindl,,,0.0
+85096,2018-02-03T05:00Z, Taiwan Open,Wang Yafan,Timea Babos,,,0.0
+85095,2018-02-03T07:00Z, Taiwan Open,Sabine Lisicki,Kateryna Baindl,,,0.0
+85099,2018-02-04T05:00Z, Taiwan Open,Timea Babos,Kateryna Baindl,,,1.0

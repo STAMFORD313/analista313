@@ -1,0 +1,145 @@
+id,date,event,home,away,hs,as,res
+401810960,2026-04-01T23:00Z,Philadelphia 76ers at Washington Wizards,Washington Wizards,Philadelphia 76ers,131,153,0.0
+401810962,2026-04-01T23:00Z,Atlanta Hawks at Orlando Magic,Orlando Magic,Atlanta Hawks,101,130,0.0
+401810961,2026-04-01T23:30Z,Boston Celtics at Miami Heat,Miami Heat,Boston Celtics,129,147,0.0
+401810858,2026-04-02T00:00Z,New York Knicks at Memphis Grizzlies,Memphis Grizzlies,New York Knicks,119,130,0.0
+401810963,2026-04-02T00:00Z,Sacramento Kings at Toronto Raptors,Toronto Raptors,Sacramento Kings,115,123,0.0
+401810964,2026-04-02T00:00Z,Indiana Pacers at Chicago Bulls,Chicago Bulls,Indiana Pacers,126,145,0.0
+401810965,2026-04-02T00:00Z,Milwaukee Bucks at Houston Rockets,Houston Rockets,Milwaukee Bucks,119,113,1.0
+401810967,2026-04-02T01:00Z,Denver Nuggets at Utah Jazz,Utah Jazz,Denver Nuggets,117,130,0.0
+401810968,2026-04-02T02:00Z,San Antonio Spurs at Golden State Warriors,Golden State Warriors,San Antonio Spurs,113,127,0.0
+401810969,2026-04-02T23:00Z,Phoenix Suns at Charlotte Hornets,Charlotte Hornets,Phoenix Suns,127,107,1.0
+401810970,2026-04-02T23:00Z,Minnesota Timberwolves at Detroit Pistons,Detroit Pistons,Minnesota Timberwolves,113,108,1.0
+401810971,2026-04-03T01:30Z,Los Angeles Lakers at Oklahoma City Thunder,Oklahoma City Thunder,Los Angeles Lakers,139,96,1.0
+401810972,2026-04-03T02:00Z,Cleveland Cavaliers at Golden State Warriors,Golden State Warriors,Cleveland Cavaliers,111,118,0.0
+401810973,2026-04-03T02:00Z,New Orleans Pelicans at Portland Trail Blazers,Portland Trail Blazers,New Orleans Pelicans,118,106,1.0
+401810974,2026-04-03T02:30Z,San Antonio Spurs at LA Clippers,LA Clippers,San Antonio Spurs,99,118,0.0
+401810975,2026-04-03T23:00Z,Indiana Pacers at Charlotte Hornets,Charlotte Hornets,Indiana Pacers,129,108,1.0
+401810976,2026-04-03T23:00Z,Minnesota Timberwolves at Philadelphia 76ers,Philadelphia 76ers,Minnesota Timberwolves,115,103,1.0
+401810977,2026-04-03T23:30Z,Atlanta Hawks at Brooklyn Nets,Brooklyn Nets,Atlanta Hawks,107,141,0.0
+401810978,2026-04-03T23:30Z,Chicago Bulls at New York Knicks,New York Knicks,Chicago Bulls,136,96,1.0
+401810979,2026-04-04T00:00Z,Utah Jazz at Houston Rockets,Houston Rockets,Utah Jazz,140,106,1.0
+401810980,2026-04-04T00:00Z,Toronto Raptors at Memphis Grizzlies,Memphis Grizzlies,Toronto Raptors,96,128,0.0
+401810981,2026-04-04T00:00Z,Boston Celtics at Milwaukee Bucks,Milwaukee Bucks,Boston Celtics,101,133,0.0
+401810982,2026-04-04T00:30Z,Orlando Magic at Dallas Mavericks,Dallas Mavericks,Orlando Magic,127,138,0.0
+401810983,2026-04-04T02:00Z,New Orleans Pelicans at Sacramento Kings,Sacramento Kings,New Orleans Pelicans,117,113,1.0
+401810984,2026-04-04T19:00Z,Washington Wizards at Miami Heat,Miami Heat,Washington Wizards,152,136,1.0
+401810985,2026-04-04T19:00Z,San Antonio Spurs at Denver Nuggets,Denver Nuggets,San Antonio Spurs,136,134,1.0
+401810986,2026-04-04T23:00Z,Detroit Pistons at Philadelphia 76ers,Philadelphia 76ers,Detroit Pistons,93,116,0.0
+401810987,2026-04-05T19:30Z,Toronto Raptors at Boston Celtics,Boston Celtics,Toronto Raptors,115,101,1.0
+401810988,2026-04-05T19:30Z,Washington Wizards at Brooklyn Nets,Brooklyn Nets,Washington Wizards,121,115,1.0
+401810989,2026-04-05T19:30Z,Phoenix Suns at Chicago Bulls,Chicago Bulls,Phoenix Suns,110,120,0.0
+401810990,2026-04-05T19:30Z,Memphis Grizzlies at Milwaukee Bucks,Milwaukee Bucks,Memphis Grizzlies,131,115,1.0
+401810991,2026-04-05T22:00Z,Indiana Pacers at Cleveland Cavaliers,Cleveland Cavaliers,Indiana Pacers,117,108,1.0
+401810992,2026-04-05T23:00Z,Charlotte Hornets at Minnesota Timberwolves,Minnesota Timberwolves,Charlotte Hornets,108,122,0.0
+401810993,2026-04-05T23:00Z,Orlando Magic at New Orleans Pelicans,New Orleans Pelicans,Orlando Magic,108,112,0.0
+401810994,2026-04-05T23:00Z,Utah Jazz at Oklahoma City Thunder,Oklahoma City Thunder,Utah Jazz,146,111,1.0
+401810995,2026-04-05T23:30Z,Los Angeles Lakers at Dallas Mavericks,Dallas Mavericks,Los Angeles Lakers,134,128,1.0
+401810996,2026-04-06T01:00Z,LA Clippers at Sacramento Kings,Sacramento Kings,LA Clippers,109,138,0.0
+401810997,2026-04-06T02:00Z,Houston Rockets at Golden State Warriors,Golden State Warriors,Houston Rockets,116,117,0.0
+401810998,2026-04-06T23:00Z,New York Knicks at Atlanta Hawks,Atlanta Hawks,New York Knicks,105,108,0.0
+401810999,2026-04-06T23:00Z,Detroit Pistons at Orlando Magic,Orlando Magic,Detroit Pistons,123,107,1.0
+401811000,2026-04-07T00:00Z,Cleveland Cavaliers at Memphis Grizzlies,Memphis Grizzlies,Cleveland Cavaliers,126,142,0.0
+401811001,2026-04-07T00:00Z,Philadelphia 76ers at San Antonio Spurs,San Antonio Spurs,Philadelphia 76ers,115,102,1.0
+401811002,2026-04-07T01:00Z,Portland Trail Blazers at Denver Nuggets,Denver Nuggets,Portland Trail Blazers,137,132,1.0
+401811003,2026-04-07T23:00Z,Chicago Bulls at Washington Wizards,Washington Wizards,Chicago Bulls,98,129,0.0
+401811007,2026-04-07T23:00Z,Minnesota Timberwolves at Indiana Pacers,Indiana Pacers,Minnesota Timberwolves,104,124,0.0
+401811005,2026-04-07T23:30Z,Milwaukee Bucks at Brooklyn Nets,Brooklyn Nets,Milwaukee Bucks,96,90,1.0
+401811006,2026-04-07T23:30Z,Miami Heat at Toronto Raptors,Toronto Raptors,Miami Heat,121,95,1.0
+401811004,2026-04-08T00:00Z,Charlotte Hornets at Boston Celtics,Boston Celtics,Charlotte Hornets,113,102,1.0
+401811008,2026-04-08T00:00Z,Utah Jazz at New Orleans Pelicans,New Orleans Pelicans,Utah Jazz,156,137,1.0
+401811009,2026-04-08T02:00Z,Sacramento Kings at Golden State Warriors,Golden State Warriors,Sacramento Kings,110,105,1.0
+401811010,2026-04-08T02:30Z,Oklahoma City Thunder at Los Angeles Lakers,Los Angeles Lakers,Oklahoma City Thunder,87,123,0.0
+401811011,2026-04-08T02:30Z,Dallas Mavericks at LA Clippers,LA Clippers,Dallas Mavericks,116,103,1.0
+401811012,2026-04-08T03:00Z,Houston Rockets at Phoenix Suns,Phoenix Suns,Houston Rockets,105,119,0.0
+401811013,2026-04-08T23:00Z,Atlanta Hawks at Cleveland Cavaliers,Cleveland Cavaliers,Atlanta Hawks,122,116,1.0
+401811014,2026-04-08T23:00Z,Minnesota Timberwolves at Orlando Magic,Orlando Magic,Minnesota Timberwolves,132,120,1.0
+401811015,2026-04-08T23:00Z,Milwaukee Bucks at Detroit Pistons,Detroit Pistons,Milwaukee Bucks,137,111,1.0
+401811017,2026-04-09T01:00Z,Memphis Grizzlies at Denver Nuggets,Denver Nuggets,Memphis Grizzlies,136,119,1.0
+401811016,2026-04-09T01:30Z,Portland Trail Blazers at San Antonio Spurs,San Antonio Spurs,Portland Trail Blazers,112,101,1.0
+401811018,2026-04-09T02:00Z,Oklahoma City Thunder at LA Clippers,LA Clippers,Oklahoma City Thunder,110,128,0.0
+401811019,2026-04-09T02:00Z,Dallas Mavericks at Phoenix Suns,Phoenix Suns,Dallas Mavericks,112,107,1.0
+401811020,2026-04-09T23:00Z,Miami Heat at Toronto Raptors,Toronto Raptors,Miami Heat,128,114,1.0
+401811021,2026-04-09T23:00Z,Chicago Bulls at Washington Wizards,Washington Wizards,Chicago Bulls,108,119,0.0
+401811022,2026-04-09T23:30Z,Indiana Pacers at Brooklyn Nets,Brooklyn Nets,Indiana Pacers,94,123,0.0
+401811023,2026-04-09T23:30Z,Boston Celtics at New York Knicks,New York Knicks,Boston Celtics,112,106,1.0
+401811024,2026-04-10T00:00Z,Philadelphia 76ers at Houston Rockets,Houston Rockets,Philadelphia 76ers,113,102,1.0
+401811025,2026-04-10T02:00Z,Los Angeles Lakers at Golden State Warriors,Golden State Warriors,Los Angeles Lakers,103,119,0.0
+401811026,2026-04-10T23:00Z,Detroit Pistons at Charlotte Hornets,Charlotte Hornets,Detroit Pistons,100,118,0.0
+401811027,2026-04-10T23:00Z,Miami Heat at Washington Wizards,Washington Wizards,Miami Heat,117,140,0.0
+401811028,2026-04-10T23:00Z,Cleveland Cavaliers at Atlanta Hawks,Atlanta Hawks,Cleveland Cavaliers,124,102,1.0
+401811029,2026-04-10T23:30Z,New Orleans Pelicans at Boston Celtics,Boston Celtics,New Orleans Pelicans,144,118,1.0
+401811030,2026-04-10T23:30Z,Philadelphia 76ers at Indiana Pacers,Indiana Pacers,Philadelphia 76ers,94,105,0.0
+401811031,2026-04-10T23:30Z,Toronto Raptors at New York Knicks,New York Knicks,Toronto Raptors,112,95,1.0
+401811032,2026-04-11T00:00Z,Orlando Magic at Chicago Bulls,Chicago Bulls,Orlando Magic,103,127,0.0
+401811034,2026-04-11T00:00Z,Brooklyn Nets at Milwaukee Bucks,Milwaukee Bucks,Brooklyn Nets,125,108,1.0
+401811035,2026-04-11T00:00Z,Dallas Mavericks at San Antonio Spurs,San Antonio Spurs,Dallas Mavericks,139,120,1.0
+401811037,2026-04-11T01:00Z,Oklahoma City Thunder at Denver Nuggets,Denver Nuggets,Oklahoma City Thunder,127,107,1.0
+401811033,2026-04-11T01:30Z,Minnesota Timberwolves at Houston Rockets,Houston Rockets,Minnesota Timberwolves,132,136,0.0
+401811036,2026-04-11T01:30Z,Memphis Grizzlies at Utah Jazz,Utah Jazz,Memphis Grizzlies,147,101,1.0
+401811038,2026-04-11T02:00Z,LA Clippers at Portland Trail Blazers,Portland Trail Blazers,LA Clippers,116,97,1.0
+401811039,2026-04-11T02:00Z,Golden State Warriors at Sacramento Kings,Sacramento Kings,Golden State Warriors,124,118,1.0
+401811040,2026-04-11T02:30Z,Phoenix Suns at Los Angeles Lakers,Los Angeles Lakers,Phoenix Suns,101,73,1.0
+401811041,2026-04-12T22:00Z,Orlando Magic at Boston Celtics,Boston Celtics,Orlando Magic,113,108,1.0
+401811042,2026-04-12T22:00Z,Washington Wizards at Cleveland Cavaliers,Cleveland Cavaliers,Washington Wizards,130,117,1.0
+401811043,2026-04-12T22:00Z,Detroit Pistons at Indiana Pacers,Indiana Pacers,Detroit Pistons,121,133,0.0
+401811044,2026-04-12T22:00Z,Atlanta Hawks at Miami Heat,Miami Heat,Atlanta Hawks,143,117,1.0
+401811045,2026-04-12T22:00Z,Charlotte Hornets at New York Knicks,New York Knicks,Charlotte Hornets,96,110,0.0
+401811046,2026-04-12T22:00Z,Milwaukee Bucks at Philadelphia 76ers,Philadelphia 76ers,Milwaukee Bucks,126,106,1.0
+401811047,2026-04-12T22:00Z,Brooklyn Nets at Toronto Raptors,Toronto Raptors,Brooklyn Nets,136,101,1.0
+401811048,2026-04-13T00:30Z,Chicago Bulls at Dallas Mavericks,Dallas Mavericks,Chicago Bulls,149,128,1.0
+401811049,2026-04-13T00:30Z,Memphis Grizzlies at Houston Rockets,Houston Rockets,Memphis Grizzlies,132,101,1.0
+401811050,2026-04-13T00:30Z,New Orleans Pelicans at Minnesota Timberwolves,Minnesota Timberwolves,New Orleans Pelicans,132,126,1.0
+401811051,2026-04-13T00:30Z,Phoenix Suns at Oklahoma City Thunder,Oklahoma City Thunder,Phoenix Suns,103,135,0.0
+401811052,2026-04-13T00:30Z,Denver Nuggets at San Antonio Spurs,San Antonio Spurs,Denver Nuggets,118,128,0.0
+401811053,2026-04-13T00:30Z,Utah Jazz at Los Angeles Lakers,Los Angeles Lakers,Utah Jazz,131,107,1.0
+401811054,2026-04-13T00:30Z,Golden State Warriors at LA Clippers,LA Clippers,Golden State Warriors,115,110,1.0
+401811055,2026-04-13T00:30Z,Sacramento Kings at Portland Trail Blazers,Portland Trail Blazers,Sacramento Kings,122,110,1.0
+401866755,2026-04-14T23:30Z,Miami Heat at Charlotte Hornets,Charlotte Hornets,Miami Heat,127,126,1.0
+401866754,2026-04-15T02:00Z,Portland Trail Blazers at Phoenix Suns,Phoenix Suns,Portland Trail Blazers,110,114,0.0
+401866757,2026-04-15T23:30Z,Orlando Magic at Philadelphia 76ers,Philadelphia 76ers,Orlando Magic,109,97,1.0
+401866756,2026-04-16T02:00Z,Golden State Warriors at LA Clippers,LA Clippers,Golden State Warriors,121,126,0.0
+401866758,2026-04-17T23:30Z,Charlotte Hornets at Orlando Magic,Orlando Magic,Charlotte Hornets,121,90,1.0
+401866759,2026-04-18T02:00Z,Golden State Warriors at Phoenix Suns,Phoenix Suns,Golden State Warriors,111,96,1.0
+401869187,2026-04-18T17:00Z,Toronto Raptors at Cleveland Cavaliers,Cleveland Cavaliers,Toronto Raptors,126,113,1.0
+401869188,2026-04-18T19:30Z,Minnesota Timberwolves at Denver Nuggets,Denver Nuggets,Minnesota Timberwolves,116,105,1.0
+401869189,2026-04-18T22:00Z,Atlanta Hawks at New York Knicks,New York Knicks,Atlanta Hawks,113,102,1.0
+401869190,2026-04-19T00:30Z,Houston Rockets at Los Angeles Lakers,Los Angeles Lakers,Houston Rockets,107,98,1.0
+401869191,2026-04-19T17:00Z,Philadelphia 76ers at Boston Celtics,Boston Celtics,Philadelphia 76ers,123,91,1.0
+401869192,2026-04-19T19:30Z,Phoenix Suns at Oklahoma City Thunder,Oklahoma City Thunder,Phoenix Suns,119,84,1.0
+401869193,2026-04-19T22:30Z,Orlando Magic at Detroit Pistons,Detroit Pistons,Orlando Magic,101,112,0.0
+401869194,2026-04-20T01:00Z,Portland Trail Blazers at San Antonio Spurs,San Antonio Spurs,Portland Trail Blazers,111,98,1.0
+401869369,2026-04-20T23:00Z,Toronto Raptors at Cleveland Cavaliers,Cleveland Cavaliers,Toronto Raptors,115,105,1.0
+401869387,2026-04-21T00:00Z,Atlanta Hawks at New York Knicks,New York Knicks,Atlanta Hawks,106,107,0.0
+401869395,2026-04-21T02:30Z,Minnesota Timberwolves at Denver Nuggets,Denver Nuggets,Minnesota Timberwolves,114,119,0.0
+401869396,2026-04-21T23:00Z,Philadelphia 76ers at Boston Celtics,Boston Celtics,Philadelphia 76ers,97,111,0.0
+401869378,2026-04-22T00:00Z,Portland Trail Blazers at San Antonio Spurs,San Antonio Spurs,Portland Trail Blazers,103,106,0.0
+401869397,2026-04-22T02:30Z,Houston Rockets at Los Angeles Lakers,Los Angeles Lakers,Houston Rockets,101,94,1.0
+401869411,2026-04-22T23:00Z,Orlando Magic at Detroit Pistons,Detroit Pistons,Orlando Magic,98,83,1.0
+401869368,2026-04-23T01:30Z,Phoenix Suns at Oklahoma City Thunder,Oklahoma City Thunder,Phoenix Suns,120,107,1.0
+401869389,2026-04-23T23:00Z,New York Knicks at Atlanta Hawks,Atlanta Hawks,New York Knicks,109,108,1.0
+401869375,2026-04-24T00:00Z,Cleveland Cavaliers at Toronto Raptors,Toronto Raptors,Cleveland Cavaliers,126,104,1.0
+401869398,2026-04-24T01:30Z,Denver Nuggets at Minnesota Timberwolves,Minnesota Timberwolves,Denver Nuggets,113,96,1.0
+401869404,2026-04-24T23:00Z,Boston Celtics at Philadelphia 76ers,Philadelphia 76ers,Boston Celtics,100,108,0.0
+401869400,2026-04-25T00:00Z,Los Angeles Lakers at Houston Rockets,Houston Rockets,Los Angeles Lakers,108,112,0.0
+401869382,2026-04-25T02:30Z,San Antonio Spurs at Portland Trail Blazers,Portland Trail Blazers,San Antonio Spurs,108,120,0.0
+401869414,2026-04-25T17:00Z,Detroit Pistons at Orlando Magic,Orlando Magic,Detroit Pistons,113,105,1.0
+401869370,2026-04-25T19:30Z,Oklahoma City Thunder at Phoenix Suns,Phoenix Suns,Oklahoma City Thunder,109,121,0.0
+401869391,2026-04-25T22:00Z,New York Knicks at Atlanta Hawks,Atlanta Hawks,New York Knicks,98,114,0.0
+401869399,2026-04-26T00:30Z,Denver Nuggets at Minnesota Timberwolves,Minnesota Timberwolves,Denver Nuggets,112,96,1.0
+401869377,2026-04-26T17:00Z,Cleveland Cavaliers at Toronto Raptors,Toronto Raptors,Cleveland Cavaliers,93,89,1.0
+401869385,2026-04-26T19:30Z,San Antonio Spurs at Portland Trail Blazers,Portland Trail Blazers,San Antonio Spurs,93,114,0.0
+401869406,2026-04-26T23:00Z,Boston Celtics at Philadelphia 76ers,Philadelphia 76ers,Boston Celtics,96,128,0.0
+401869405,2026-04-27T01:30Z,Los Angeles Lakers at Houston Rockets,Houston Rockets,Los Angeles Lakers,115,96,1.0
+401869415,2026-04-28T00:00Z,Detroit Pistons at Orlando Magic,Orlando Magic,Detroit Pistons,94,88,1.0
+401869373,2026-04-28T01:30Z,Oklahoma City Thunder at Phoenix Suns,Phoenix Suns,Oklahoma City Thunder,122,131,0.0
+401869401,2026-04-28T02:30Z,Minnesota Timberwolves at Denver Nuggets,Denver Nuggets,Minnesota Timberwolves,125,113,1.0
+401869408,2026-04-28T23:00Z,Philadelphia 76ers at Boston Celtics,Boston Celtics,Philadelphia 76ers,97,113,0.0
+401869392,2026-04-29T00:00Z,Atlanta Hawks at New York Knicks,New York Knicks,Atlanta Hawks,126,97,1.0
+401869386,2026-04-29T01:30Z,Portland Trail Blazers at San Antonio Spurs,San Antonio Spurs,Portland Trail Blazers,114,95,1.0
+401869416,2026-04-29T23:00Z,Orlando Magic at Detroit Pistons,Detroit Pistons,Orlando Magic,116,109,1.0
+401869380,2026-04-29T23:30Z,Toronto Raptors at Cleveland Cavaliers,Cleveland Cavaliers,Toronto Raptors,125,120,1.0
+401869407,2026-04-30T02:00Z,Houston Rockets at Los Angeles Lakers,Los Angeles Lakers,Houston Rockets,93,99,0.0
+401869393,2026-04-30T23:00Z,New York Knicks at Atlanta Hawks,Atlanta Hawks,New York Knicks,89,140,0.0
+401869410,2026-05-01T00:00Z,Boston Celtics at Philadelphia 76ers,Philadelphia 76ers,Boston Celtics,106,93,1.0
+401869402,2026-05-01T01:30Z,Denver Nuggets at Minnesota Timberwolves,Minnesota Timberwolves,Denver Nuggets,110,98,1.0

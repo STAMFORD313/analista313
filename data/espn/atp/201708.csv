@@ -1,0 +1,618 @@
+id,date,event,home,away,hs,as,res
+81421,2017-07-31T04:00Z,ATP Generali Open,Thomaz Bellucci,Alexandr Dolgopolov,,,1.0
+81422,2017-07-31T04:00Z,ATP Generali Open,Andrey Kuznetsov,Miljan Zekic,,,0.0
+81409,2017-07-31T04:00Z,ATP Generali Open,Nikoloz Basilashvili,Sebastian Ofner,,,0.0
+81413,2017-07-31T09:00Z,ATP Generali Open,João Sousa,Mikhail Youzhny,,,1.0
+81418,2017-07-31T10:30Z,ATP Generali Open,Maximilian Marterer,Dusan Lajovic,,,0.0
+81410,2017-08-01T04:00Z,ATP Generali Open,Renzo Olivo,Thiago Monteiro,,,1.0
+81414,2017-08-01T04:00Z,ATP Generali Open,Carlos Berlocq,Gerald Melzer,,,0.0
+81416,2017-08-01T04:00Z,ATP Generali Open,Jiri Vesely,Yannick Hanfmann,,,1.0
+81420,2017-08-01T04:00Z,ATP Generali Open,Jan-Lennard Struff,Tommy Haas,,,1.0
+81411,2017-08-01T09:00Z,ATP Generali Open,Yuliya Hatouka,Horacio Zeballos,,,0.0
+81415,2017-08-01T09:00Z,ATP Generali Open,Santiago Giraldo,Robin Haase,,,1.0
+81417,2017-08-01T10:30Z,ATP Generali Open,Philipp Kohlschreiber,Facundo Bagnis,,,1.0
+81425,2017-08-02T04:00Z,ATP Generali Open,Paolo Lorenzi,João Sousa,,,0.0
+81439,2017-08-02T04:00Z,ATP Generali Open,Gerald Melzer,Santiago Giraldo,,,1.0
+81428,2017-08-02T04:00Z,ATP Generali Open,Jan-Lennard Struff,Thomaz Bellucci,,,0.0
+81427,2017-08-02T04:00Z,ATP Generali Open,Miljan Zekic,Fabio Fognini,,,0.0
+81424,2017-08-02T04:00Z,ATP Generali Open,Pablo Cuevas,Sebastian Ofner,,,0.0
+81440,2017-08-02T09:00Z,ATP Generali Open,Renzo Olivo,Horacio Zeballos,,,1.0
+81441,2017-08-02T10:30Z,ATP Generali Open,Jiri Vesely,Philipp Kohlschreiber,,,0.0
+81426,2017-08-02T11:00Z,ATP Generali Open,Dusan Lajovic,Gilles Simon,,,1.0
+81451,2017-08-03T04:00Z,ATP Generali Open,Sebastian Ofner,Renzo Olivo,,,1.0
+81453,2017-08-03T04:00Z,ATP Generali Open,Thomaz Bellucci,Fabio Fognini,,,0.0
+81454,2017-08-03T04:00Z,ATP Generali Open,João Sousa,Gerald Melzer,,,1.0
+81452,2017-08-03T09:00Z,ATP Generali Open,Philipp Kohlschreiber,Dusan Lajovic,,,1.0
+81469,2017-08-04T04:00Z,ATP Generali Open,Philipp Kohlschreiber,Fabio Fognini,,,1.0
+81470,2017-08-04T04:00Z,ATP Generali Open,Sebastian Ofner,João Sousa,,,0.0
+81480,2017-08-05T12:00Z,ATP Generali Open,João Sousa,Philipp Kohlschreiber,,,0.0
+81353,2017-07-31T04:00Z,ATP & WTA Citi Open,Mariana Duque-Marino,Shelby Rogers,,,1.0
+81358,2017-07-31T04:00Z,ATP & WTA Citi Open,Risa Ozaki,Sara Errani,,,0.0
+81365,2017-07-31T04:00Z,ATP & WTA Citi Open,Andrea Petkovic,Kurumi Nara,,,1.0
+81362,2017-07-31T04:00Z,ATP & WTA Citi Open,Alison Van Uytvanck,Jana Cepelova,,,1.0
+81359,2017-07-31T04:00Z,ATP & WTA Citi Open,Jelena Jankovic,Oceane Dodin,,,0.0
+81356,2017-07-31T17:50Z,ATP & WTA Citi Open,Lauren Davis,Aryna Sabalenka,,,0.0
+81363,2017-07-31T18:00Z,ATP & WTA Citi Open,Francoise Abanda,Julia Goerges,,,0.0
+81366,2017-07-31T18:00Z,ATP & WTA Citi Open,Bianca Andreescu,Camila Giorgi,,,1.0
+81352,2017-08-01T17:50Z,ATP & WTA Citi Open,Simona Halep,Sloane Stephens,,,1.0
+81361,2017-08-01T18:00Z,ATP & WTA Citi Open,Heather Watson,Patricia Maria Tig,,,0.0
+81354,2017-08-01T18:00Z,ATP & WTA Citi Open,Louisa Chirico,Monica Puig,,,0.0
+81355,2017-08-01T18:00Z,ATP & WTA Citi Open,Jamie Loeb,Ekaterina Makarova,,,0.0
+81448,2017-08-02T04:00Z,ATP & WTA Citi Open,Monica Puig,Ekaterina Makarova,,,0.0
+81434,2017-08-02T04:00Z,ATP & WTA Citi Open,Sara Errani,Oceane Dodin,,,0.0
+81429,2017-08-02T04:00Z,ATP & WTA Citi Open,Alison Van Uytvanck,Julia Goerges,,,0.0
+81364,2017-08-02T17:50Z,ATP & WTA Citi Open,Christina McHale,Eugenie Bouchard,,,0.0
+81367,2017-08-02T18:00Z,ATP & WTA Citi Open,Tatjana Maria,Kristina Mladenovic,,,0.0
+81357,2017-08-02T18:00Z,ATP & WTA Citi Open,Sabine Lisicki,Valentini Grammatikopoulou,,,1.0
+81360,2017-08-02T18:00Z,ATP & WTA Citi Open,Monica Niculescu,Nao Hibino,,,1.0
+81432,2017-08-03T04:00Z,ATP & WTA Citi Open,Bianca Andreescu,Kristina Mladenovic,,,1.0
+81431,2017-08-03T04:00Z,ATP & WTA Citi Open,Aryna Sabalenka,Sabine Lisicki,,,0.0
+81435,2017-08-03T17:50Z,ATP & WTA Citi Open,Simona Halep,Mariana Duque-Marino,,,1.0
+81456,2017-08-03T18:00Z,ATP & WTA Citi Open,Monica Niculescu,Patricia Maria Tig,,,1.0
+81436,2017-08-03T18:00Z,ATP & WTA Citi Open,Eugenie Bouchard,Andrea Petkovic,,,0.0
+81471,2017-08-04T04:00Z,ATP & WTA Citi Open,Andrea Petkovic,Bianca Andreescu,,,1.0
+81467,2017-08-04T04:00Z,ATP & WTA Citi Open,Monica Niculescu,Julia Goerges,,,0.0
+81462,2017-08-04T04:00Z,ATP & WTA Citi Open,Sabine Lisicki,Oceane Dodin,,,0.0
+81465,2017-08-04T18:00Z,ATP & WTA Citi Open,Simona Halep,Ekaterina Makarova,,,0.0
+81482,2017-08-05T04:00Z,ATP & WTA Citi Open,Ekaterina Makarova,Oceane Dodin,,,1.0
+81484,2017-08-05T04:00Z,ATP & WTA Citi Open,Julia Goerges,Andrea Petkovic,,,1.0
+81489,2017-08-06T04:00Z,ATP & WTA Citi Open,Ekaterina Makarova,Julia Goerges,,,1.0
+81309,2017-07-31T04:00Z,ATP & WTA Citi Open,Ramkumar Ramanathan,Guido Pella,,,0.0
+81310,2017-07-31T04:00Z,ATP & WTA Citi Open,Stefan Kozlov,Yuki Bhambri,,,0.0
+81313,2017-07-31T04:00Z,ATP & WTA Citi Open,Nicolas Mahut,Thomas Fabbiano,,,1.0
+81317,2017-07-31T04:00Z,ATP & WTA Citi Open,Dudi Sela,Jared Donaldson,,,0.0
+81318,2017-07-31T04:00Z,ATP & WTA Citi Open,Sekou Bangoura,Marius Copil,,,0.0
+81334,2017-07-31T04:00Z,ATP & WTA Citi Open,Tim Smyczek,Donald Young,,,0.0
+81325,2017-07-31T04:00Z,ATP & WTA Citi Open,Daniil Medvedev,Reilly Opelka,,,1.0
+81329,2017-07-31T04:00Z,ATP & WTA Citi Open,Tommy Paul,Casper Ruud,,,1.0
+81333,2017-07-31T04:00Z,ATP & WTA Citi Open,Alexios Halebian,Lukas Lacko,,,0.0
+81305,2017-07-31T20:00Z,ATP & WTA Citi Open,Vasek Pospisil,Henri Laaksonen,,,0.0
+81306,2017-08-01T04:00Z,ATP & WTA Citi Open,Malek Jaziri,Alessandro Bega,,,1.0
+81351,2017-08-01T04:00Z,ATP & WTA Citi Open,Donald Young,Kei Nishikori,,,0.0
+81350,2017-08-01T04:00Z,ATP & WTA Citi Open,Juan Martin del Potro,Lukas Lacko,,,1.0
+81343,2017-08-01T04:00Z,ATP & WTA Citi Open,Marius Copil,Jack Sock,,,0.0
+81314,2017-08-01T04:00Z,ATP & WTA Citi Open,Edan Leshem,Marcos Baghdatis,,,0.0
+81321,2017-08-01T04:00Z,ATP & WTA Citi Open,Jordan Thompson,Ruben Bemelmans,,,1.0
+81322,2017-08-01T04:00Z,ATP & WTA Citi Open,Go Soeda,Tennys Sandgren,,,0.0
+81326,2017-08-01T04:00Z,ATP & WTA Citi Open,Hyeon Chung,Kyle Edmund,,,0.0
+81330,2017-08-01T04:00Z,ATP & WTA Citi Open,Dmitry Tursunov,Mitchell Krueger,,,1.0
+81338,2017-08-01T04:00Z,ATP & WTA Citi Open,Mischa Zverev,Guido Pella,,,0.0
+81336,2017-08-01T04:00Z,ATP & WTA Citi Open,Dominic Thiem,Henri Laaksonen,,,1.0
+81342,2017-08-02T04:00Z,ATP & WTA Citi Open,Marc Polmans,Jared Donaldson,,,0.0
+81337,2017-08-02T04:00Z,ATP & WTA Citi Open,Malek Jaziri,Kevin Anderson,,,0.0
+81339,2017-08-02T04:00Z,ATP & WTA Citi Open,Yuki Bhambri,Gael Monfils,,,1.0
+81341,2017-08-02T04:00Z,ATP & WTA Citi Open,Marcos Baghdatis,Ryan Harrison,,,1.0
+81340,2017-08-02T04:00Z,ATP & WTA Citi Open,Milos Raonic,Nicolas Mahut,,,1.0
+81349,2017-08-02T04:00Z,ATP & WTA Citi Open,Dmitry Tursunov,Gilles Muller,,,0.0
+81348,2017-08-02T04:00Z,ATP & WTA Citi Open,Lucas Pouille,Tommy Paul,,,0.0
+81347,2017-08-02T04:00Z,ATP & WTA Citi Open,Kyle Edmund,Grigor Dimitrov,,,0.0
+81346,2017-08-02T04:00Z,ATP & WTA Citi Open,Steve Johnson,Daniil Medvedev,,,0.0
+81344,2017-08-02T04:00Z,ATP & WTA Citi Open,Alexander Zverev,Jordan Thompson,,,1.0
+81345,2017-08-02T04:00Z,ATP & WTA Citi Open,Tennys Sandgren,Nick Kyrgios,,,1.0
+81463,2017-08-03T04:00Z,ATP & WTA Citi Open,Daniil Medvedev,Grigor Dimitrov,,,1.0
+81460,2017-08-03T04:00Z,ATP & WTA Citi Open,Alexander Zverev,Tennys Sandgren,,,1.0
+81459,2017-08-03T04:00Z,ATP & WTA Citi Open,Milos Raonic,Marcos Baghdatis,,,1.0
+81458,2017-08-03T04:00Z,ATP & WTA Citi Open,Tommy Paul,Gilles Muller,,,1.0
+81449,2017-08-03T04:00Z,ATP & WTA Citi Open,Guido Pella,Yuki Bhambri,,,0.0
+81444,2017-08-03T04:00Z,ATP & WTA Citi Open,Jared Donaldson,Jack Sock,,,0.0
+81447,2017-08-03T04:00Z,ATP & WTA Citi Open,Dominic Thiem,Kevin Anderson,,,0.0
+81450,2017-08-03T23:00Z,ATP & WTA Citi Open,Juan Martin del Potro,Kei Nishikori,,,0.0
+81479,2017-08-04T04:00Z,ATP & WTA Citi Open,Tommy Paul,Kei Nishikori,,,0.0
+81478,2017-08-04T04:00Z,ATP & WTA Citi Open,Alexander Zverev,Daniil Medvedev,,,1.0
+81477,2017-08-04T04:00Z,ATP & WTA Citi Open,Kevin Anderson,Yuki Bhambri,,,1.0
+81473,2017-08-04T18:00Z,ATP & WTA Citi Open,Milos Raonic,Jack Sock,,,0.0
+81485,2017-08-05T04:00Z,ATP & WTA Citi Open,Alexander Zverev,Kei Nishikori,,,1.0
+81481,2017-08-05T18:00Z,ATP & WTA Citi Open,Kevin Anderson,Jack Sock,,,1.0
+81488,2017-08-06T19:00Z,ATP & WTA Citi Open,Kevin Anderson,Alexander Zverev,,,0.0
+81371,2017-07-31T04:00Z,ATP Abierto Mexicano de Tenis MIFEL presented by Cinemex,Jason Jung,Adrian Mannarino,,,0.0
+81375,2017-07-31T04:00Z,ATP Abierto Mexicano de Tenis MIFEL presented by Cinemex,Thanasi Kokkinakis,Frances Tiafoe,,,1.0
+81378,2017-07-31T04:00Z,ATP Abierto Mexicano de Tenis MIFEL presented by Cinemex,Dennis Novikov,Matthew Ebden,,,0.0
+81369,2017-07-31T04:00Z,ATP Abierto Mexicano de Tenis MIFEL presented by Cinemex,Akira Santillan,Konstantin Kravchuk,,,1.0
+81377,2017-07-31T23:00Z,ATP Abierto Mexicano de Tenis MIFEL presented by Cinemex,Damir Dzumhur,Taro Daniel,,,1.0
+81382,2017-07-31T23:00Z,ATP Abierto Mexicano de Tenis MIFEL presented by Cinemex,Evan King,Manuel Sanchez,,,1.0
+81373,2017-08-01T04:00Z,ATP Abierto Mexicano de Tenis MIFEL presented by Cinemex,Mikhail Kukushkin,Taylor Fritz,,,0.0
+81374,2017-08-01T04:00Z,ATP Abierto Mexicano de Tenis MIFEL presented by Cinemex,Yasutaka Uchiyama,Peter Polansky,,,0.0
+81380,2017-08-01T04:00Z,ATP Abierto Mexicano de Tenis MIFEL presented by Cinemex,Fernando Verdasco,Ernesto Escobedo,,,1.0
+81370,2017-08-01T23:00Z,ATP Abierto Mexicano de Tenis MIFEL presented by Cinemex,Tatsuma Ito,Bjorn Fratangelo,,,0.0
+81376,2017-08-01T23:00Z,ATP Abierto Mexicano de Tenis MIFEL presented by Cinemex,Ivo Karlovic,Quentin Halys,,,0.0
+81381,2017-08-01T23:00Z,ATP Abierto Mexicano de Tenis MIFEL presented by Cinemex,Brydan Klein,Vincent Millot,,,0.0
+81386,2017-08-02T04:00Z,ATP Abierto Mexicano de Tenis MIFEL presented by Cinemex,Matthew Ebden,Feliciano Lopez,,,0.0
+81446,2017-08-02T04:00Z,ATP Abierto Mexicano de Tenis MIFEL presented by Cinemex,Fernando Verdasco,Vincent Millot,,,0.0
+81438,2017-08-02T04:00Z,ATP Abierto Mexicano de Tenis MIFEL presented by Cinemex,Peter Polansky,Thanasi Kokkinakis,,,0.0
+81385,2017-08-02T04:00Z,ATP Abierto Mexicano de Tenis MIFEL presented by Cinemex,Albert Ramos-Vinolas,Taylor Fritz,,,0.0
+81384,2017-08-02T04:00Z,ATP Abierto Mexicano de Tenis MIFEL presented by Cinemex,Tomas Berdych,Akira Santillan,,,1.0
+81387,2017-08-02T23:00Z,ATP Abierto Mexicano de Tenis MIFEL presented by Cinemex,Evan King,Sam Querrey,,,0.0
+81437,2017-08-02T23:00Z,ATP Abierto Mexicano de Tenis MIFEL presented by Cinemex,Quentin Halys,Damir Dzumhur,,,0.0
+81443,2017-08-02T23:00Z,ATP Abierto Mexicano de Tenis MIFEL presented by Cinemex,Bjorn Fratangelo,Adrian Mannarino,,,0.0
+123115,2017-08-03T03:00Z,ATP Abierto Mexicano de Tenis MIFEL presented by Cinemex,Albert Ramos-Vinolas,Taylor Fritz,,,0.0
+81461,2017-08-03T04:00Z,ATP Abierto Mexicano de Tenis MIFEL presented by Cinemex,Damir Dzumhur,Feliciano Lopez,,,1.0
+81464,2017-08-03T04:00Z,ATP Abierto Mexicano de Tenis MIFEL presented by Cinemex,Tomas Berdych,Adrian Mannarino,,,1.0
+81466,2017-08-03T23:00Z,ATP Abierto Mexicano de Tenis MIFEL presented by Cinemex,Vincent Millot,Sam Querrey,,,0.0
+81468,2017-08-03T23:00Z,ATP Abierto Mexicano de Tenis MIFEL presented by Cinemex,Taylor Fritz,Thanasi Kokkinakis,,,0.0
+81476,2017-08-04T00:30Z,ATP Abierto Mexicano de Tenis MIFEL presented by Cinemex,Tomas Berdych,Thanasi Kokkinakis,,,0.0
+122182,2017-08-04T01:40Z,ATP Abierto Mexicano de Tenis MIFEL presented by Cinemex,Taylor Fritz,Thanasi Kokkinakis,,,0.0
+81474,2017-08-04T04:00Z,ATP Abierto Mexicano de Tenis MIFEL presented by Cinemex,Damir Dzumhur,Sam Querrey,,,0.0
+81487,2017-08-05T02:00Z,ATP Abierto Mexicano de Tenis MIFEL presented by Cinemex,Thanasi Kokkinakis,Sam Querrey,,,0.0
+81513,2017-08-07T04:00Z,ATP Coupe Rogers,Diego Schwartzman,Reilly Opelka,,,1.0
+81494,2017-08-07T04:00Z,ATP Coupe Rogers,Juan Martin del Potro,John Isner,,,1.0
+81512,2017-08-07T04:00Z,ATP Coupe Rogers,Donald Young,Benoit Paire,,,0.0
+81521,2017-08-07T04:00Z,ATP Coupe Rogers,Vasek Pospisil,Peter Polansky,,,0.0
+81497,2017-08-07T04:00Z,ATP Coupe Rogers,Daniil Medvedev,Adrian Mannarino,,,0.0
+81500,2017-08-07T04:00Z,ATP Coupe Rogers,Brayden Schnur,Richard Gasquet,,,0.0
+81520,2017-08-07T04:00Z,ATP Coupe Rogers,David Ferrer,Kyle Edmund,,,1.0
+81518,2017-08-07T04:00Z,ATP Coupe Rogers,Tim Smyczek,Roberto Bautista Agut,,,0.0
+81517,2017-08-07T04:00Z,ATP Coupe Rogers,Thomas Fabbiano,Ryan Harrison,,,0.0
+81516,2017-08-07T04:00Z,ATP Coupe Rogers,Steve Johnson,Gael Monfils,,,0.0
+81502,2017-08-07T16:30Z,ATP Coupe Rogers,Viktor Troicki,Nick Kyrgios,,,0.0
+81511,2017-08-07T16:30Z,ATP Coupe Rogers,Lucas Pouille,Jared Donaldson,,,0.0
+81509,2017-08-07T16:30Z,ATP Coupe Rogers,Albert Ramos-Vinolas,Robin Haase,,,0.0
+81508,2017-08-07T17:00Z,ATP Coupe Rogers,Mischa Zverev,Norbert Gombos,,,1.0
+81519,2017-08-08T04:00Z,ATP Coupe Rogers,Jack Sock,Pierre-Hugues Herbert,,,1.0
+81493,2017-08-08T04:00Z,ATP Coupe Rogers,Denis Shapovalov,Yuliya Hatouka,,,1.0
+81528,2017-08-08T04:00Z,ATP Coupe Rogers,Diego Schwartzman,Dominic Thiem,,,1.0
+81575,2017-08-08T04:00Z,ATP Coupe Rogers,Jared Donaldson,Benoit Paire,,,1.0
+81505,2017-08-08T04:00Z,ATP Coupe Rogers,Sam Querrey,Vincent Millot,,,1.0
+81504,2017-08-08T04:00Z,ATP Coupe Rogers,Kevin Anderson,Dudi Sela,,,1.0
+81503,2017-08-08T04:00Z,ATP Coupe Rogers,Pablo Carreno Busta,Karen Khachanov,,,1.0
+81495,2017-08-08T04:00Z,ATP Coupe Rogers,David Goffin,Yuichi Sugita,,,1.0
+81510,2017-08-08T16:30Z,ATP Coupe Rogers,Nikoloz Basilashvili,Ernesto Escobedo,,,0.0
+81501,2017-08-08T16:30Z,ATP Coupe Rogers,Paolo Lorenzi,Frances Tiafoe,,,1.0
+81496,2017-08-08T16:30Z,ATP Coupe Rogers,Feliciano Lopez,Hyeon Chung,,,0.0
+81492,2017-08-08T16:30Z,ATP Coupe Rogers,Borna Coric,Mikhail Youzhny,,,1.0
+81585,2017-08-09T04:00Z,ATP Coupe Rogers,Pablo Carreno Busta,Kevin Anderson,,,0.0
+81584,2017-08-09T04:00Z,ATP Coupe Rogers,David Goffin,Hyeon Chung,,,0.0
+81581,2017-08-09T04:00Z,ATP Coupe Rogers,Denis Shapovalov,Juan Martin del Potro,,,1.0
+81579,2017-08-09T04:00Z,ATP Coupe Rogers,Jack Sock,David Ferrer,,,0.0
+81526,2017-08-09T04:00Z,ATP Coupe Rogers,Sam Querrey,Jo-Wilfried Tsonga,,,1.0
+81574,2017-08-09T04:00Z,ATP Coupe Rogers,Paolo Lorenzi,Nick Kyrgios,,,0.0
+81527,2017-08-09T04:00Z,ATP Coupe Rogers,Grigor Dimitrov,Mischa Zverev,,,1.0
+81525,2017-08-09T04:00Z,ATP Coupe Rogers,Alexander Zverev,Richard Gasquet,,,1.0
+81524,2017-08-09T04:00Z,ATP Coupe Rogers,Adrian Mannarino,Milos Raonic,,,1.0
+81523,2017-08-09T04:00Z,ATP Coupe Rogers,Rafael Nadal,Borna Coric,,,1.0
+81530,2017-08-09T16:30Z,ATP Coupe Rogers,Peter Polansky,Roger Federer,,,0.0
+81529,2017-08-09T16:30Z,ATP Coupe Rogers,Kei Nishikori,Gael Monfils,,,0.0
+81578,2017-08-09T16:30Z,ATP Coupe Rogers,Ryan Harrison,Roberto Bautista Agut,,,0.0
+81573,2017-08-09T16:30Z,ATP Coupe Rogers,Robin Haase,Ernesto Escobedo,,,1.0
+81597,2017-08-10T16:30Z,ATP Coupe Rogers,Gael Monfils,Roberto Bautista Agut,,,0.0
+81589,2017-08-10T16:30Z,ATP Coupe Rogers,Jared Donaldson,Diego Schwartzman,,,0.0
+81592,2017-08-10T19:00Z,ATP Coupe Rogers,David Ferrer,Roger Federer,,,1.0
+81593,2017-08-10T19:00Z,ATP Coupe Rogers,Grigor Dimitrov,Robin Haase,,,0.0
+81599,2017-08-10T21:30Z,ATP Coupe Rogers,Kevin Anderson,Sam Querrey,,,1.0
+81600,2017-08-10T22:30Z,ATP Coupe Rogers,Alexander Zverev,Nick Kyrgios,,,1.0
+81601,2017-08-11T00:00Z,ATP Coupe Rogers,Hyeon Chung,Adrian Mannarino,,,0.0
+81598,2017-08-11T01:00Z,ATP Coupe Rogers,Rafael Nadal,Denis Shapovalov,,,0.0
+81605,2017-08-11T16:30Z,ATP Coupe Rogers,Robin Haase,Diego Schwartzman,,,1.0
+81607,2017-08-11T19:00Z,ATP Coupe Rogers,Roberto Bautista Agut,Roger Federer,,,0.0
+81610,2017-08-11T22:30Z,ATP Coupe Rogers,Denis Shapovalov,Adrian Mannarino,,,1.0
+81608,2017-08-12T01:30Z,ATP Coupe Rogers,Alexander Zverev,Kevin Anderson,,,1.0
+81611,2017-08-12T19:00Z,ATP Coupe Rogers,Robin Haase,Roger Federer,,,0.0
+81613,2017-08-13T00:00Z,ATP Coupe Rogers,Denis Shapovalov,Alexander Zverev,,,0.0
+81616,2017-08-13T20:00Z,ATP Coupe Rogers,Alexander Zverev,Roger Federer,,,1.0
+81618,2017-08-13T04:00Z,ATP & WTA Western & Southern Open,John Isner,Viktor Troicki,,,1.0
+81617,2017-08-13T18:00Z,ATP & WTA Western & Southern Open,Ryan Harrison,Gilles Muller,,,0.0
+81627,2017-08-14T04:00Z,ATP & WTA Western & Southern Open,Fabio Fognini,Daniil Medvedev,,,1.0
+81629,2017-08-14T04:00Z,ATP & WTA Western & Southern Open,Stefan Kozlov,Sam Querrey,,,0.0
+81631,2017-08-14T04:00Z,ATP & WTA Western & Southern Open,Mischa Zverev,Fernando Verdasco,,,1.0
+81636,2017-08-14T04:00Z,ATP & WTA Western & Southern Open,Christopher Eubanks,Ramkumar Ramanathan,,,0.0
+81639,2017-08-14T04:00Z,ATP & WTA Western & Southern Open,Frances Tiafoe,Maximilian Marterer,,,1.0
+81642,2017-08-14T04:00Z,ATP & WTA Western & Southern Open,Feliciano Lopez,Hyeon Chung,,,1.0
+81643,2017-08-14T04:00Z,ATP & WTA Western & Southern Open,Mitchell Krueger,Benoit Paire,,,1.0
+81646,2017-08-14T04:00Z,ATP & WTA Western & Southern Open,Kyle Edmund,João Sousa,,,0.0
+81620,2017-08-14T15:00Z,ATP & WTA Western & Southern Open,Richard Gasquet,John-Patrick Smith,,,1.0
+81624,2017-08-14T15:00Z,ATP & WTA Western & Southern Open,Ivo Karlovic,Jiri Vesely,,,1.0
+81638,2017-08-14T15:00Z,ATP & WTA Western & Southern Open,Donald Young,Tommy Paul,,,0.0
+81621,2017-08-15T04:00Z,ATP & WTA Western & Southern Open,Albert Ramos-Vinolas,Mikhail Youzhny,,,1.0
+81628,2017-08-15T04:00Z,ATP & WTA Western & Southern Open,Robin Haase,Adrian Mannarino,,,0.0
+81630,2017-08-15T04:00Z,ATP & WTA Western & Southern Open,Pablo Carreno Busta,Paolo Lorenzi,,,1.0
+81632,2017-08-15T04:00Z,ATP & WTA Western & Southern Open,David Johnson,David Ferrer,,,0.0
+81635,2017-08-15T04:00Z,ATP & WTA Western & Southern Open,Nikoloz Basilashvili,Borna Coric,,,1.0
+81637,2017-08-15T04:00Z,ATP & WTA Western & Southern Open,Jared Donaldson,Roberto Bautista Agut,,,1.0
+81645,2017-08-15T04:00Z,ATP & WTA Western & Southern Open,Jack Sock,Yuichi Sugita,,,0.0
+81650,2017-08-15T04:00Z,ATP & WTA Western & Southern Open,Ivo Karlovic,Jo-Wilfried Tsonga,,,1.0
+81651,2017-08-15T04:00Z,ATP & WTA Western & Southern Open,Dominic Thiem,Fabio Fognini,,,1.0
+81697,2017-08-15T04:00Z,ATP & WTA Western & Southern Open,John Isner,Tommy Paul,,,1.0
+81622,2017-08-15T15:00Z,ATP & WTA Western & Southern Open,David Goffin,Nick Kyrgios,,,0.0
+81623,2017-08-15T15:00Z,ATP & WTA Western & Southern Open,Kevin Anderson,Alexandr Dolgopolov,,,0.0
+81644,2017-08-15T15:00Z,ATP & WTA Western & Southern Open,Juan Martin del Potro,Tomas Berdych,,,1.0
+81647,2017-08-15T15:00Z,ATP & WTA Western & Southern Open,Diego Schwartzman,Karen Khachanov,,,0.0
+81649,2017-08-16T04:00Z,ATP & WTA Western & Southern Open,Rafael Nadal,Richard Gasquet,,,1.0
+81653,2017-08-16T04:00Z,ATP & WTA Western & Southern Open,Christian Harrison,Nikoloz Basilashvili,,,0.0
+81654,2017-08-16T04:00Z,ATP & WTA Western & Southern Open,Frances Tiafoe,Alexander Zverev,,,1.0
+81655,2017-08-16T04:00Z,ATP & WTA Western & Southern Open,Karen Khachanov,Thomas Fabbiano,,,1.0
+81656,2017-08-16T04:00Z,ATP & WTA Western & Southern Open,Albert Ramos-Vinolas,Gilles Muller,,,1.0
+81699,2017-08-16T04:00Z,ATP & WTA Western & Southern Open,Mitchell Krueger,Juan Martin del Potro,,,0.0
+81703,2017-08-16T04:00Z,ATP & WTA Western & Southern Open,Adrian Mannarino,Sam Querrey,,,1.0
+81705,2017-08-16T04:00Z,ATP & WTA Western & Southern Open,Pablo Carreno Busta,Mischa Zverev,,,1.0
+81708,2017-08-16T04:00Z,ATP & WTA Western & Southern Open,Ramkumar Ramanathan,Jared Donaldson,,,0.0
+81709,2017-08-16T04:00Z,ATP & WTA Western & Southern Open,Nick Kyrgios,Alexandr Dolgopolov,,,1.0
+81652,2017-08-16T15:00Z,ATP & WTA Western & Southern Open,David Ferrer,Janko Tipsarevic,,,1.0
+81700,2017-08-16T15:00Z,ATP & WTA Western & Southern Open,Grigor Dimitrov,Feliciano Lopez,,,1.0
+81702,2017-08-16T15:00Z,ATP & WTA Western & Southern Open,Yuichi Sugita,João Sousa,,,1.0
+81720,2017-08-17T15:00Z,ATP & WTA Western & Southern Open,Grigor Dimitrov,Juan Martin del Potro,,,1.0
+81721,2017-08-17T15:00Z,ATP & WTA Western & Southern Open,Yuichi Sugita,Karen Khachanov,,,1.0
+81722,2017-08-17T17:00Z,ATP & WTA Western & Southern Open,Pablo Carreno Busta,David Ferrer,,,0.0
+81727,2017-08-17T17:00Z,ATP & WTA Western & Southern Open,Nikoloz Basilashvili,Jared Donaldson,,,0.0
+81715,2017-08-17T19:00Z,ATP & WTA Western & Southern Open,John Isner,Frances Tiafoe,,,1.0
+81718,2017-08-17T19:00Z,ATP & WTA Western & Southern Open,Dominic Thiem,Adrian Mannarino,,,1.0
+81716,2017-08-18T17:00Z,ATP & WTA Western & Southern Open,Nick Kyrgios,Ivo Karlovic,,,1.0
+81728,2017-08-18T17:00Z,ATP & WTA Western & Southern Open,Rafael Nadal,Albert Ramos-Vinolas,,,1.0
+81731,2017-08-18T19:30Z,ATP & WTA Western & Southern Open,Grigor Dimitrov,Yuichi Sugita,,,1.0
+81733,2017-08-18T22:00Z,ATP & WTA Western & Southern Open,Jared Donaldson,John Isner,,,0.0
+81732,2017-08-18T23:00Z,ATP & WTA Western & Southern Open,Dominic Thiem,David Ferrer,,,0.0
+81736,2017-08-19T01:30Z,ATP & WTA Western & Southern Open,Rafael Nadal,Nick Kyrgios,,,0.0
+81738,2017-08-19T06:00Z,ATP & WTA Western & Southern Open,John Isner,Grigor Dimitrov,,,0.0
+81739,2017-08-19T11:00Z,ATP & WTA Western & Southern Open,Nick Kyrgios,David Ferrer,,,1.0
+81749,2017-08-20T20:00Z,ATP & WTA Western & Southern Open,Nick Kyrgios,Grigor Dimitrov,,,0.0
+81659,2017-08-14T04:00Z,ATP & WTA Western & Southern Open,Katerina Siniakova,Camila Giorgi,,,0.0
+81660,2017-08-14T04:00Z,ATP & WTA Western & Southern Open,Daria Saville,Kristina Mladenovic,,,1.0
+81667,2017-08-14T04:00Z,ATP & WTA Western & Southern Open,Aliaksandra Sasnovich,Daria Kasatkina,,,0.0
+81668,2017-08-14T04:00Z,ATP & WTA Western & Southern Open,Coco Vandeweghe,Madison Keys,,,0.0
+81670,2017-08-14T04:00Z,ATP & WTA Western & Southern Open,Andrea Vavassori,Carla Suarez Navarro,,,0.0
+81671,2017-08-14T04:00Z,ATP & WTA Western & Southern Open,Veronica Cepede Royg,Yulia Putintseva,,,0.0
+81682,2017-08-14T04:00Z,ATP & WTA Western & Southern Open,Oceane Dodin,Kiki Bertens,,,0.0
+81686,2017-08-14T04:00Z,ATP & WTA Western & Southern Open,Timea Babos,Roberta Vinci,,,0.0
+81687,2017-08-14T04:00Z,ATP & WTA Western & Southern Open,Taylor Townsend,Monica Puig,,,1.0
+81666,2017-08-14T15:00Z,ATP & WTA Western & Southern Open,Lauren Davis,Beatriz Haddad Maia,,,0.0
+81674,2017-08-14T15:00Z,ATP & WTA Western & Southern Open,Lesia Tsurenko,Anastasia Pavlyuchenkova,,,1.0
+81677,2017-08-14T15:00Z,ATP & WTA Western & Southern Open,Petra Kvitova,Anett Kontaveit,,,1.0
+81661,2017-08-15T04:00Z,ATP & WTA Western & Southern Open,Venus Williams,Alison Riske-Amritraj,,,1.0
+81663,2017-08-15T04:00Z,ATP & WTA Western & Southern Open,Elena Vesnina,Caroline Garcia,,,1.0
+81669,2017-08-15T04:00Z,ATP & WTA Western & Southern Open,Jelena Ostapenko,Aleksandra Krunic,,,0.0
+81675,2017-08-15T04:00Z,ATP & WTA Western & Southern Open,Francoise Abanda,Magda Linette,,,1.0
+81676,2017-08-15T04:00Z,ATP & WTA Western & Southern Open,Julia Goerges,Agnieszka Radwanska,,,1.0
+81678,2017-08-15T04:00Z,ATP & WTA Western & Southern Open,Sloane Stephens,Lucie Safarova,,,1.0
+81679,2017-08-15T04:00Z,ATP & WTA Western & Southern Open,Ekaterina Makarova,Barbora Strycova,,,1.0
+81683,2017-08-15T04:00Z,ATP & WTA Western & Southern Open,Alize Cornet,Catherine Bellis,,,1.0
+81685,2017-08-15T04:00Z,ATP & WTA Western & Southern Open,Anastasija Sevastova,Shuai Peng,,,1.0
+81691,2017-08-15T04:00Z,ATP & WTA Western & Southern Open,Garbine Muguruza,Beatriz Haddad Maia,,,1.0
+81695,2017-08-15T04:00Z,ATP & WTA Western & Southern Open,Johanna Konta,Kiki Bertens,,,1.0
+81696,2017-08-15T04:00Z,ATP & WTA Western & Southern Open,Taylor Townsend,Simona Halep,,,0.0
+81658,2017-08-15T15:00Z,ATP & WTA Western & Southern Open,Donna Vekic,Natalia Vikhlyantseva,,,0.0
+81662,2017-08-15T15:00Z,ATP & WTA Western & Southern Open,Ashleigh Barty,Varvara Lepchenko,,,1.0
+81684,2017-08-15T15:00Z,ATP & WTA Western & Southern Open,Ana Konjuh,Dominika Cibulkova,,,0.0
+81689,2017-08-16T04:00Z,ATP & WTA Western & Southern Open,Karolina Pliskova,Natalia Vikhlyantseva,,,1.0
+81690,2017-08-16T04:00Z,ATP & WTA Western & Southern Open,Elena Vesnina,Caroline Wozniacki,,,0.0
+81693,2017-08-16T04:00Z,ATP & WTA Western & Southern Open,Elina Svitolina,Lesia Tsurenko,,,1.0
+81694,2017-08-16T04:00Z,ATP & WTA Western & Southern Open,Ekaterina Makarova,Angelique Kerber,,,1.0
+81698,2017-08-16T04:00Z,ATP & WTA Western & Southern Open,Petra Kvitova,Sloane Stephens,,,0.0
+81707,2017-08-16T04:00Z,ATP & WTA Western & Southern Open,Aleksandra Krunic,Carla Suarez Navarro,,,0.0
+81710,2017-08-16T04:00Z,ATP & WTA Western & Southern Open,Venus Williams,Ashleigh Barty,,,0.0
+81711,2017-08-16T04:00Z,ATP & WTA Western & Southern Open,Alize Cornet,Dominika Cibulkova,,,0.0
+81712,2017-08-16T04:00Z,ATP & WTA Western & Southern Open,Francoise Abanda,Julia Goerges,,,0.0
+81692,2017-08-16T15:00Z,ATP & WTA Western & Southern Open,Yulia Putintseva,Svetlana Kuznetsova,,,0.0
+81701,2017-08-16T15:00Z,ATP & WTA Western & Southern Open,Camila Giorgi,Daria Saville,,,1.0
+81704,2017-08-16T15:00Z,ATP & WTA Western & Southern Open,Anastasija Sevastova,Roberta Vinci,,,1.0
+81706,2017-08-16T15:00Z,ATP & WTA Western & Southern Open,Daria Kasatkina,Madison Keys,,,0.0
+81714,2017-08-17T15:00Z,ATP & WTA Western & Southern Open,Anastasija Sevastova,Simona Halep,,,0.0
+81719,2017-08-17T15:00Z,ATP & WTA Western & Southern Open,Carla Suarez Navarro,Svetlana Kuznetsova,,,0.0
+81717,2017-08-17T17:00Z,ATP & WTA Western & Southern Open,Garbine Muguruza,Madison Keys,,,1.0
+81724,2017-08-17T17:00Z,ATP & WTA Western & Southern Open,Ashleigh Barty,Caroline Wozniacki,,,0.0
+81713,2017-08-17T19:00Z,ATP & WTA Western & Southern Open,Johanna Konta,Dominika Cibulkova,,,1.0
+81734,2017-08-18T04:00Z,ATP & WTA Western & Southern Open,Karolina Pliskova,Caroline Wozniacki,,,1.0
+81737,2017-08-18T04:00Z,ATP & WTA Western & Southern Open,Julia Goerges,Sloane Stephens,,,0.0
+81730,2017-08-18T15:00Z,ATP & WTA Western & Southern Open,Garbine Muguruza,Svetlana Kuznetsova,,,1.0
+81723,2017-08-18T17:00Z,ATP & WTA Western & Southern Open,Karolina Pliskova,Camila Giorgi,,,1.0
+81725,2017-08-18T17:00Z,ATP & WTA Western & Southern Open,Elina Svitolina,Julia Goerges,,,0.0
+81726,2017-08-18T17:00Z,ATP & WTA Western & Southern Open,Sloane Stephens,Ekaterina Makarova,,,1.0
+81729,2017-08-19T00:00Z,ATP & WTA Western & Southern Open,Johanna Konta,Simona Halep,,,0.0
+81740,2017-08-19T08:30Z,ATP & WTA Western & Southern Open,Sloane Stephens,Simona Halep,,,0.0
+81735,2017-08-19T16:00Z,ATP & WTA Western & Southern Open,Karolina Pliskova,Garbine Muguruza,,,0.0
+81748,2017-08-20T18:00Z,ATP & WTA Western & Southern Open,Garbine Muguruza,Simona Halep,,,1.0
+81742,2017-08-20T04:00Z,ATP Winston-Salem Open,Marcos Baghdatis,Ricardas Berankis,,,1.0
+81741,2017-08-20T04:00Z,ATP Winston-Salem Open,Thiago Monteiro,Alexandr Dolgopolov,,,1.0
+81745,2017-08-20T04:00Z,ATP Winston-Salem Open,Jan-Lennard Struff,Norbert Gombos,,,1.0
+81743,2017-08-20T04:00Z,ATP Winston-Salem Open,Dusan Lajovic,Petros Chrysochos,,,1.0
+81744,2017-08-20T04:00Z,ATP Winston-Salem Open,Nicolas Kicker,Andrey Kuznetsov,,,0.0
+123630,2017-08-20T19:00Z,ATP Winston-Salem Open,Thiago Monteiro,Alexandr Dolgopolov,,,1.0
+81774,2017-08-21T04:00Z,ATP Winston-Salem Open,Andrey Rublev,Steve Darcis,,,1.0
+81795,2017-08-21T04:00Z,ATP Winston-Salem Open,Jan-Lennard Struff,Pablo Cuevas,,,1.0
+81794,2017-08-21T04:00Z,ATP Winston-Salem Open,Marcos Baghdatis,Jiri Vesely,,,1.0
+81775,2017-08-21T04:00Z,ATP Winston-Salem Open,Julien Benneteau,Pierre-Hugues Herbert,,,1.0
+81771,2017-08-21T04:00Z,ATP Winston-Salem Open,Denis Istomin,Damir Dzumhur,,,0.0
+81770,2017-08-21T04:00Z,ATP Winston-Salem Open,Dominik Koepfer,Horacio Zeballos,,,0.0
+81767,2017-08-21T04:00Z,ATP Winston-Salem Open,Marton Fucsovics,Ernests Gulbis,,,1.0
+81766,2017-08-21T04:00Z,ATP Winston-Salem Open,Kyle Edmund,Thomas Fabbiano,,,1.0
+81763,2017-08-21T04:00Z,ATP Winston-Salem Open,Carlos Berlocq,Alex Bolt,,,1.0
+81762,2017-08-21T04:00Z,ATP Winston-Salem Open,Jonathan Eysseric,Yen-Hsun Lu,,,0.0
+81759,2017-08-21T04:00Z,ATP Winston-Salem Open,Janko Tipsarevic,Andreas Seppi,,,0.0
+81756,2017-08-21T04:00Z,ATP Winston-Salem Open,Yuliya Hatouka,Donald Young,,,0.0
+81753,2017-08-21T04:00Z,ATP Winston-Salem Open,Taylor Fritz,Malek Jaziri,,,1.0
+122184,2017-08-21T23:10Z,ATP Winston-Salem Open,Taylor Fritz,Malek Jaziri,,,1.0
+81815,2017-08-22T04:00Z,ATP Winston-Salem Open,Yuichi Sugita,Taylor Fritz,,,0.0
+81814,2017-08-22T04:00Z,ATP Winston-Salem Open,Damir Dzumhur,Gilles Simon,,,1.0
+81810,2017-08-22T04:00Z,ATP Winston-Salem Open,Marton Fucsovics,João Sousa,,,1.0
+81808,2017-08-22T04:00Z,ATP Winston-Salem Open,Fernando Verdasco,Horacio Zeballos,,,0.0
+81807,2017-08-22T04:00Z,ATP Winston-Salem Open,Julien Benneteau,Pablo Carreno Busta,,,1.0
+81805,2017-08-22T04:00Z,ATP Winston-Salem Open,Carlos Berlocq,Viktor Troicki,,,1.0
+81804,2017-08-22T04:00Z,ATP Winston-Salem Open,Hyeon Chung,Andrey Rublev,,,1.0
+81803,2017-08-22T04:00Z,ATP Winston-Salem Open,Donald Young,Borna Coric,,,0.0
+81802,2017-08-22T04:00Z,ATP Winston-Salem Open,Steve Johnson,Yen-Hsun Lu,,,1.0
+81806,2017-08-22T04:00Z,ATP Winston-Salem Open,Daniil Medvedev,Kyle Edmund,,,0.0
+81801,2017-08-22T04:00Z,ATP Winston-Salem Open,Aljaz Bedene,Andreas Seppi,,,0.0
+81796,2017-08-22T04:00Z,ATP Winston-Salem Open,Roberto Bautista Agut,Dusan Lajovic,,,1.0
+81777,2017-08-22T04:00Z,ATP Winston-Salem Open,Thiago Monteiro,Paolo Lorenzi,,,0.0
+81792,2017-08-22T04:00Z,ATP Winston-Salem Open,John Isner,Andrey Kuznetsov,,,1.0
+123638,2017-08-22T21:35Z,ATP Winston-Salem Open,Thiago Monteiro,Paolo Lorenzi,,,0.0
+81819,2017-08-23T04:00Z,ATP Winston-Salem Open,Steve Johnson,Carlos Berlocq,,,1.0
+81820,2017-08-23T04:00Z,ATP Winston-Salem Open,Kyle Edmund,Marton Fucsovics,,,1.0
+81821,2017-08-23T04:00Z,ATP Winston-Salem Open,Horacio Zeballos,Damir Dzumhur,,,0.0
+81823,2017-08-23T04:00Z,ATP Winston-Salem Open,Taylor Fritz,Paolo Lorenzi,,,1.0
+81825,2017-08-23T04:00Z,ATP Winston-Salem Open,Hyeon Chung,Julien Benneteau,,,1.0
+81817,2017-08-23T04:00Z,ATP Winston-Salem Open,John Isner,Borna Coric,,,0.0
+81816,2017-08-23T04:00Z,ATP Winston-Salem Open,Andreas Seppi,Jan-Lennard Struff,,,0.0
+81811,2017-08-23T04:00Z,ATP Winston-Salem Open,Roberto Bautista Agut,Marcos Baghdatis,,,1.0
+122297,2017-08-23T20:30Z,ATP Winston-Salem Open,Taylor Fritz,Paolo Lorenzi,,,1.0
+81826,2017-08-24T07:00Z,ATP Winston-Salem Open,Steve Johnson,Kyle Edmund,,,0.0
+81829,2017-08-24T13:00Z,ATP Winston-Salem Open,Borna Coric,Jan-Lennard Struff,,,0.0
+81827,2017-08-24T21:00Z,ATP Winston-Salem Open,Damir Dzumhur,Hyeon Chung,,,1.0
+81828,2017-08-24T23:00Z,ATP Winston-Salem Open,Roberto Bautista Agut,Taylor Fritz,,,1.0
+81831,2017-08-25T23:00Z,ATP Winston-Salem Open,Kyle Edmund,Damir Dzumhur,,,0.0
+81834,2017-08-26T01:00Z,ATP Winston-Salem Open,Roberto Bautista Agut,Jan-Lennard Struff,,,1.0
+81964,2017-08-26T21:00Z,ATP Winston-Salem Open,Roberto Bautista Agut,Damir Dzumhur,,,1.0
+124049,2017-08-22T15:05Z,US Open,Lesley Pattinama Kerkhove,Chantal Skamlova,,,1.0
+118617,2017-08-22T17:35Z,US Open,Kateryna Volodko,Silvia Soler-Espinosa,,,1.0
+125647,2017-08-22T23:10Z,US Open,Alexandra Cadanțu-Ignatik,Jasmine Paolini,,,0.0
+123955,2017-08-23T20:50Z,US Open,Anna Karolina Schmiedlova,Dalma Galfi,,,1.0
+118529,2017-08-24T16:30Z,US Open,Kateryna Volodko,Sachia Vickery,,,0.0
+124070,2017-08-24T17:20Z,US Open,Lesley Pattinama Kerkhove,Martina Trevisan,,,1.0
+81945,2017-08-28T05:30Z,US Open,Claire Liu,Duan Yingying,,,0.0
+81938,2017-08-28T07:30Z,US Open,Viktoria Hruncakova,Venus Williams,,,0.0
+81932,2017-08-28T09:45Z,US Open,Mona Barthel,Ekaterina Makarova,,,0.0
+81962,2017-08-28T11:00Z,US Open,Maria Sharapova,Simona Halep,,,1.0
+81936,2017-08-28T15:00Z,US Open,Richel Hogenkamp,Arina Rodionova,,,0.0
+81939,2017-08-28T15:00Z,US Open,Petra Kvitova,Jelena Jankovic,,,1.0
+81940,2017-08-28T15:00Z,US Open,Heather Watson,Alize Cornet,,,0.0
+81941,2017-08-28T15:00Z,US Open,Anna Zaja,Ekaterina Alexandrova,,,0.0
+81942,2017-08-28T15:00Z,US Open,Tereza Martincova,Caroline Garcia,,,0.0
+81943,2017-08-28T15:00Z,US Open,Magdalena Rybarikova,Camila Giorgi,,,1.0
+81944,2017-08-28T15:00Z,US Open,Kristyna Pliskova,Misa Eguchi,,,1.0
+81946,2017-08-28T15:00Z,US Open,Varvara Lepchenko,Garbine Muguruza,,,0.0
+81959,2017-08-28T15:00Z,US Open,Lauren Davis,Sofia Kenin,,,0.0
+81960,2017-08-28T15:00Z,US Open,Natalia Vikhlyantseva,Sachia Vickery,,,0.0
+81935,2017-08-28T17:00Z,US Open,Kiki Bertens,Maria Sakkari,,,0.0
+81947,2017-08-28T17:30Z,US Open,Johanna Konta,Aleksandra Krunic,,,0.0
+81950,2017-08-28T17:30Z,US Open,Annika Beck,Julia Goerges,,,0.0
+81956,2017-08-28T17:30Z,US Open,Irina-Camelia Begu,Kateryna Baindl,,,0.0
+81949,2017-08-28T19:30Z,US Open,Zheng Saisai,Alison Van Uytvanck,,,1.0
+81957,2017-08-28T19:30Z,US Open,Donna Vekic,Beatriz Haddad Maia,,,1.0
+81953,2017-08-28T19:50Z,US Open,Sloane Stephens,Roberta Vinci,,,1.0
+81948,2017-08-28T20:00Z,US Open,Ajla Tomljanovic,Johanna Larsson,,,1.0
+81955,2017-08-28T20:25Z,US Open,Anastasija Sevastova,Carina Witthoeft,,,1.0
+81934,2017-08-28T22:00Z,US Open,Monica Puig,Andrea Vavassori,,,0.0
+81951,2017-08-28T22:00Z,US Open,Ana Konjuh,Ashleigh Barty,,,0.0
+81952,2017-08-28T22:00Z,US Open,Aliaksandra Sasnovich,Julia Boserup,,,1.0
+81937,2017-08-28T22:10Z,US Open,Pauline Parmentier,Oceane Dodin,,,0.0
+81931,2017-08-28T22:30Z,US Open,Caroline Wozniacki,Mihaela Buzarnescu,,,1.0
+81958,2017-08-28T22:50Z,US Open,Amandine Hesse,Shuai Peng,,,0.0
+81961,2017-08-28T22:50Z,US Open,Viktorija Golubic,Timea Babos,,,0.0
+81933,2017-08-28T23:00Z,US Open,Ipek Soylu,Carla Suarez Navarro,,,0.0
+81954,2017-08-29T00:15Z,US Open,Jana Cepelova,Dominika Cibulkova,,,0.0
+81922,2017-08-29T11:00Z,US Open,Elise Mertens,Madison Keys,,,0.0
+81899,2017-08-29T15:00Z,US Open,Karolina Pliskova,Magda Linette,,,1.0
+81903,2017-08-29T15:00Z,US Open,Barbora Strycova,Misaki Doi,,,1.0
+81923,2017-08-29T15:00Z,US Open,Jelena Ostapenko,Lara Arruabarrena,,,1.0
+81924,2017-08-29T15:00Z,US Open,Lesley Pattinama Kerkhove,Sorana Cirstea,,,0.0
+81927,2017-08-29T15:00Z,US Open,Lesia Tsurenko,Yanina Wickmayer,,,0.0
+124053,2017-08-29T15:10Z,US Open,Lesley Pattinama Kerkhove,Sorana Cirstea,,,0.0
+81930,2017-08-29T17:00Z,US Open,Naomi Osaka,Angelique Kerber,,,1.0
+82024,2017-08-30T04:00Z,US Open,Duan Yingying,Garbine Muguruza,,,0.0
+81910,2017-08-30T07:30Z,US Open,Alison Riske-Amritraj,Coco Vandeweghe,,,0.0
+81925,2017-08-30T09:00Z,US Open,Daria Kasatkina,Wang Qiang,,,1.0
+82017,2017-08-30T11:00Z,US Open,Oceane Dodin,Venus Williams,,,0.0
+82022,2017-08-30T11:00Z,US Open,Petra Kvitova,Alize Cornet,,,1.0
+82020,2017-08-30T11:30Z,US Open,Sloane Stephens,Dominika Cibulkova,,,1.0
+82023,2017-08-30T13:40Z,US Open,Ekaterina Alexandrova,Caroline Garcia,,,0.0
+82011,2017-08-30T14:00Z,US Open,Caroline Wozniacki,Ekaterina Makarova,,,0.0
+81900,2017-08-30T15:00Z,US Open,Veronica Cepede Royg,Nicole Gibbs,,,0.0
+81904,2017-08-30T15:00Z,US Open,Jennifer Brady,Andrea Petkovic,,,1.0
+81906,2017-08-30T15:00Z,US Open,Monica Niculescu,Kristina Mladenovic,,,1.0
+81915,2017-08-30T15:00Z,US Open,Elina Svitolina,Katerina Siniakova,,,1.0
+81916,2017-08-30T15:00Z,US Open,Evgeniya Rodina,Eugenie Bouchard,,,1.0
+81928,2017-08-30T15:00Z,US Open,Kaia Kanepi,Francesca Schiavone,,,1.0
+81905,2017-08-30T16:30Z,US Open,Taylor Townsend,Ana Bogdan,,,0.0
+81921,2017-08-30T17:00Z,US Open,Tatjana Maria,Ashley Kratzer,,,1.0
+81912,2017-08-30T17:30Z,US Open,Nao Hibino,Catherine Bellis,,,1.0
+81917,2017-08-30T18:00Z,US Open,Shelby Rogers,Kayla Day,,,1.0
+81929,2017-08-30T18:00Z,US Open,Denisa Satralova,Rebecca Peterson,,,1.0
+122090,2017-08-30T19:00Z,US Open,Alison Riske-Amritraj,Coco Vandeweghe,,,0.0
+81909,2017-08-30T19:30Z,US Open,Ons Jabeur,Brienne Minor,,,1.0
+81914,2017-08-30T19:30Z,US Open,Marketa Vondrousova,Svetlana Kuznetsova,,,1.0
+81908,2017-08-30T20:00Z,US Open,Sofya Zhuk,Yulia Putintseva,,,0.0
+82018,2017-08-30T20:15Z,US Open,Timea Babos,Maria Sharapova,,,0.0
+81902,2017-08-30T20:30Z,US Open,Sabine Lisicki,Zhang Shuai,,,0.0
+81907,2017-08-30T20:30Z,US Open,Agnieszka Radwanska,Petra Martic,,,1.0
+81920,2017-08-30T21:00Z,US Open,Madison Brengle,Kirsten Flipkens,,,0.0
+81926,2017-08-30T21:00Z,US Open,Christina McHale,Anastasia Pavlyuchenkova,,,1.0
+81901,2017-08-30T21:30Z,US Open,Risa Ozaki,Danielle Lao,,,1.0
+81911,2017-08-30T21:30Z,US Open,Anett Kontaveit,Lucie Safarova,,,0.0
+81913,2017-08-30T21:30Z,US Open,Kurumi Nara,Sara Sorribes Tormo,,,1.0
+81918,2017-08-30T21:30Z,US Open,Alexandra Kiick,Daria Saville,,,0.0
+81919,2017-08-30T21:30Z,US Open,Elena Vesnina,Anna Blinkova,,,1.0
+82028,2017-08-30T21:30Z,US Open,Sofia Kenin,Sachia Vickery,,,1.0
+82021,2017-08-30T23:30Z,US Open,Maria Sakkari,Arina Rodionova,,,1.0
+82026,2017-08-30T23:30Z,US Open,Zheng Saisai,Julia Goerges,,,0.0
+82010,2017-08-31T00:25Z,US Open,Ashleigh Barty,Aliaksandra Sasnovich,,,1.0
+82016,2017-08-31T01:00Z,US Open,Donna Vekic,Shuai Peng,,,1.0
+82027,2017-08-31T01:00Z,US Open,Anastasija Sevastova,Kateryna Baindl,,,1.0
+81965,2017-08-31T01:30Z,US Open,Magdalena Rybarikova,Kristyna Pliskova,,,1.0
+82014,2017-08-31T01:30Z,US Open,Carla Suarez Navarro,Andrea Vavassori,,,1.0
+82025,2017-08-31T01:30Z,US Open,Aleksandra Krunic,Ajla Tomljanovic,,,1.0
+82101,2017-08-31T11:00Z,US Open,Ons Jabeur,Coco Vandeweghe,,,0.0
+82103,2017-08-31T11:20Z,US Open,Kurumi Nara,Svetlana Kuznetsova,,,1.0
+82077,2017-08-31T15:00Z,US Open,Jelena Ostapenko,Sorana Cirstea,,,1.0
+82078,2017-08-31T15:00Z,US Open,Yanina Wickmayer,Kaia Kanepi,,,0.0
+82080,2017-08-31T15:00Z,US Open,Barbora Strycova,Jennifer Brady,,,0.0
+82081,2017-08-31T15:00Z,US Open,Denisa Satralova,Naomi Osaka,,,0.0
+82088,2017-08-31T15:00Z,US Open,Elina Svitolina,Evgeniya Rodina,,,1.0
+82079,2017-08-31T17:00Z,US Open,Karolina Pliskova,Nicole Gibbs,,,1.0
+82087,2017-08-31T17:00Z,US Open,Ana Bogdan,Monica Niculescu,,,0.0
+82109,2017-08-31T17:20Z,US Open,Daria Kasatkina,Christina McHale,,,1.0
+82100,2017-08-31T17:30Z,US Open,Shelby Rogers,Daria Saville,,,1.0
+82107,2017-08-31T20:50Z,US Open,Risa Ozaki,Zhang Shuai,,,0.0
+82104,2017-08-31T22:00Z,US Open,Agnieszka Radwanska,Yulia Putintseva,,,1.0
+82083,2017-08-31T22:15Z,US Open,Tatjana Maria,Madison Keys,,,0.0
+82106,2017-08-31T23:20Z,US Open,Elena Vesnina,Kirsten Flipkens,,,1.0
+82099,2017-08-31T23:45Z,US Open,Lucie Safarova,Nao Hibino,,,1.0
+82113,2017-09-01T15:00Z,US Open,Petra Kvitova,Caroline Garcia,,,1.0
+82124,2017-09-01T17:00Z,US Open,Ekaterina Makarova,Carla Suarez Navarro,,,0.0
+82120,2017-09-01T17:30Z,US Open,Ashleigh Barty,Sloane Stephens,,,0.0
+82117,2017-09-01T19:00Z,US Open,Aleksandra Krunic,Julia Goerges,,,0.0
+82123,2017-09-01T19:30Z,US Open,Magdalena Rybarikova,Garbine Muguruza,,,0.0
+82114,2017-09-01T19:45Z,US Open,Maria Sakkari,Venus Williams,,,0.0
+82121,2017-09-01T23:30Z,US Open,Anastasija Sevastova,Donna Vekic,,,1.0
+82108,2017-09-02T02:00Z,US Open,Sofia Kenin,Maria Sharapova,,,0.0
+82125,2017-09-02T06:00Z,US Open,Jennifer Brady,Monica Niculescu,,,1.0
+82146,2017-09-02T15:00Z,US Open,Karolina Pliskova,Zhang Shuai,,,1.0
+82170,2017-09-02T15:00Z,US Open,Lucie Safarova,Kurumi Nara,,,1.0
+82133,2017-09-02T17:00Z,US Open,Kaia Kanepi,Naomi Osaka,,,1.0
+82136,2017-09-02T18:00Z,US Open,Jelena Ostapenko,Daria Kasatkina,,,0.0
+82165,2017-09-02T18:00Z,US Open,Agnieszka Radwanska,Coco Vandeweghe,,,0.0
+82135,2017-09-02T20:00Z,US Open,Elina Svitolina,Shelby Rogers,,,1.0
+82169,2017-09-03T03:55Z,US Open,Elena Vesnina,Madison Keys,,,0.0
+82192,2017-09-03T06:45Z,US Open,Anastasija Sevastova,Maria Sharapova,,,1.0
+82181,2017-09-03T09:25Z,US Open,Carla Suarez Navarro,Venus Williams,,,0.0
+82174,2017-09-03T11:30Z,US Open,Petra Kvitova,Garbine Muguruza,,,1.0
+82183,2017-09-03T19:00Z,US Open,Julia Goerges,Sloane Stephens,,,0.0
+82201,2017-09-04T15:00Z,US Open,Karolina Pliskova,Jennifer Brady,,,1.0
+82196,2017-09-04T19:30Z,US Open,Coco Vandeweghe,Lucie Safarova,,,1.0
+82203,2017-09-04T19:30Z,US Open,Daria Kasatkina,Kaia Kanepi,,,0.0
+82207,2017-09-05T01:30Z,US Open,Elina Svitolina,Madison Keys,,,0.0
+82220,2017-09-05T11:00Z,US Open,Venus Williams,Petra Kvitova,,,1.0
+82218,2017-09-05T18:30Z,US Open,Sloane Stephens,Anastasija Sevastova,,,1.0
+82225,2017-09-06T16:00Z,US Open,Karolina Pliskova,Coco Vandeweghe,,,0.0
+82231,2017-09-06T23:00Z,US Open,Madison Keys,Kaia Kanepi,,,1.0
+82238,2017-09-07T23:00Z,US Open,Venus Williams,Sloane Stephens,,,0.0
+82240,2017-09-08T01:00Z,US Open,Coco Vandeweghe,Madison Keys,,,0.0
+82244,2017-09-09T20:00Z,US Open,Madison Keys,Sloane Stephens,,,0.0
+123806,2017-08-23T15:05Z,US Open,J.J. Wolf,John-Patrick Smith,,,0.0
+81874,2017-08-28T05:00Z,US Open,Pierre-Hugues Herbert,John Isner,,,0.0
+81873,2017-08-28T15:00Z,US Open,Horacio Zeballos,Hyeon Chung,,,0.0
+81885,2017-08-28T15:00Z,US Open,Nicolas Almagro,Steve Johnson,,,0.0
+81886,2017-08-28T15:00Z,US Open,Kyle Edmund,Robin Haase,,,1.0
+81889,2017-08-28T15:00Z,US Open,Dmitry Tursunov,Cameron Norrie,,,0.0
+81890,2017-08-28T15:00Z,US Open,Evan King,Pablo Carreno Busta,,,0.0
+81897,2017-08-28T15:00Z,US Open,Yuliya Hatouka,Florian Mayer,,,0.0
+81869,2017-08-28T17:00Z,US Open,Radu Albot,Ernesto Escobedo,,,1.0
+81872,2017-08-28T17:00Z,US Open,Lukas Lacko,Benoit Paire,,,0.0
+81879,2017-08-28T17:00Z,US Open,Kevin Anderson,Jc Aragone,,,1.0
+81880,2017-08-28T17:00Z,US Open,Alessandro Giannessi,Ernests Gulbis,,,0.0
+81883,2017-08-28T17:00Z,US Open,Jo-Wilfried Tsonga,Marius Copil,,,1.0
+81893,2017-08-28T17:00Z,US Open,Andreas Haider-Maurer,Evgeny Donskoy,,,0.0
+81894,2017-08-28T17:00Z,US Open,Mikhail Kukushkin,David Ferrer,,,1.0
+81898,2017-08-28T17:00Z,US Open,Tennys Sandgren,Marin Cilic,,,0.0
+81895,2017-08-28T17:30Z,US Open,Diego Schwartzman,Carlos Berlocq,,,1.0
+123208,2017-08-28T18:30Z,US Open,Albert Ramos-Vinolas,Denis Istomin,,,1.0
+81870,2017-08-28T18:50Z,US Open,Yen-Hsun Lu,Karen Khachanov,,,1.0
+81887,2017-08-28T19:00Z,US Open,Albert Ramos-Vinolas,Denis Istomin,,,1.0
+81868,2017-08-28T19:30Z,US Open,Christopher Eubanks,Dudi Sela,,,0.0
+81871,2017-08-28T19:30Z,US Open,Mischa Zverev,Thai-Son Kwiatkowski,,,1.0
+81877,2017-08-28T19:30Z,US Open,João Sousa,Paolo Lorenzi,,,0.0
+81878,2017-08-28T19:30Z,US Open,Bernard Tomic,Gilles Muller,,,0.0
+81884,2017-08-28T19:30Z,US Open,Denis Shapovalov,Daniil Medvedev,,,1.0
+81896,2017-08-28T19:30Z,US Open,Thanasi Kokkinakis,Janko Tipsarevic,,,0.0
+81867,2017-08-28T20:25Z,US Open,Sam Querrey,Gilles Simon,,,1.0
+81888,2017-08-28T20:30Z,US Open,Marton Fucsovics,Nicolas Mahut,,,0.0
+81876,2017-08-28T21:30Z,US Open,John-Patrick Smith,Thomas Fabbiano,,,0.0
+81891,2017-08-28T21:30Z,US Open,Lucas Pouille,Ruben Bemelmans,,,1.0
+81875,2017-08-28T21:45Z,US Open,Jack Sock,Jordan Thompson,,,0.0
+81892,2017-08-28T22:05Z,US Open,Jared Donaldson,Nikoloz Basilashvili,,,1.0
+81881,2017-08-28T22:30Z,US Open,Jiri Vesely,Borna Coric,,,0.0
+81882,2017-08-29T03:00Z,US Open,Darian King,Alexander Zverev,,,0.0
+81835,2017-08-29T07:00Z,US Open,Rafael Nadal,Dusan Lajovic,,,1.0
+81851,2017-08-30T01:00Z,US Open,Roger Federer,Frances Tiafoe,,,1.0
+82000,2017-08-30T10:30Z,US Open,Florian Mayer,Marin Cilic,,,0.0
+81971,2017-08-30T12:00Z,US Open,Steve Johnson,Kyle Edmund,,,0.0
+82006,2017-08-30T13:30Z,US Open,Jo-Wilfried Tsonga,Denis Shapovalov,,,0.0
+81836,2017-08-30T15:00Z,US Open,Taro Daniel,Tommy Paul,,,1.0
+81837,2017-08-30T15:00Z,US Open,Yuichi Sugita,Geoffrey Blancaneaux,,,1.0
+81838,2017-08-30T15:00Z,US Open,Leonardo Mayer,Richard Gasquet,,,1.0
+81841,2017-08-30T15:00Z,US Open,Jan-Lennard Struff,Alexandr Dolgopolov,,,0.0
+81842,2017-08-30T15:00Z,US Open,Ryan Harrison,Tomas Berdych,,,0.0
+81845,2017-08-30T15:00Z,US Open,Maximilian Marterer,Donald Young,,,0.0
+81846,2017-08-30T15:00Z,US Open,Jeremy Chardy,Gael Monfils,,,0.0
+81852,2017-08-30T15:00Z,US Open,Blaz Kavcic,Mikhail Youzhny,,,0.0
+81861,2017-08-30T15:00Z,US Open,Lucas Poullain,Adrian Menendez-Maceiras,,,0.0
+81864,2017-08-30T15:00Z,US Open,Bjorn Fratangelo,Ivo Karlovic,,,1.0
+81866,2017-08-30T15:00Z,US Open,Alex de Minaur,Dominic Thiem,,,0.0
+81839,2017-08-30T16:00Z,US Open,Fabio Fognini,Stefano Travaglia,,,0.0
+81844,2017-08-30T16:00Z,US Open,Steve Darcis,Guido Pella,,,0.0
+81863,2017-08-30T16:00Z,US Open,Adrian Mannarino,Ricardas Berankis,,,1.0
+81840,2017-08-30T16:30Z,US Open,Viktor Troicki,Norbert Gombos,,,1.0
+81850,2017-08-30T17:00Z,US Open,Vaclav Safranek,Grigor Dimitrov,,,0.0
+81857,2017-08-30T17:00Z,US Open,Malek Jaziri,Thiago Monteiro,,,1.0
+81858,2017-08-30T17:00Z,US Open,John Millman,Nick Kyrgios,,,1.0
+81865,2017-08-30T17:00Z,US Open,Marcos Baghdatis,Taylor Fritz,,,0.0
+81862,2017-08-30T17:15Z,US Open,Henri Laaksonen,Juan Martin del Potro,,,0.0
+81843,2017-08-30T17:30Z,US Open,David Goffin,Julien Benneteau,,,1.0
+81847,2017-08-30T17:30Z,US Open,Pablo Cuevas,Damir Dzumhur,,,0.0
+81848,2017-08-30T18:15Z,US Open,Cedrik-Marcel Stebe,Nicolas Kicker,,,1.0
+81854,2017-08-30T18:30Z,US Open,Andrey Kuznetsov,Feliciano Lopez,,,0.0
+81859,2017-08-30T18:30Z,US Open,Roberto Bautista Agut,Andreas Seppi,,,1.0
+81849,2017-08-30T18:45Z,US Open,Aljaz Bedene,Andrey Rublev,,,0.0
+81860,2017-08-30T18:45Z,US Open,Dustin Brown,Thomaz Bellucci,,,1.0
+120466,2017-08-30T18:50Z,US Open,Dustin Brown,Thomaz Bellucci,,,1.0
+81855,2017-08-30T19:00Z,US Open,Philipp Kohlschreiber,Tim Smyczek,,,1.0
+81853,2017-08-30T19:30Z,US Open,Fernando Verdasco,Vasek Pospisil,,,1.0
+81856,2017-08-30T19:45Z,US Open,Vincent Millot,Santiago Giraldo,,,0.0
+82012,2017-08-30T19:45Z,US Open,Lucas Pouille,Jared Donaldson,,,1.0
+82009,2017-08-30T21:00Z,US Open,Paolo Lorenzi,Gilles Muller,,,1.0
+123119,2017-08-30T21:05Z,US Open,Albert Ramos-Vinolas,Nicolas Mahut,,,0.0
+82004,2017-08-30T21:30Z,US Open,Hyeon Chung,John Isner,,,0.0
+82008,2017-08-30T22:00Z,US Open,Sam Querrey,Dudi Sela,,,1.0
+82013,2017-08-30T22:00Z,US Open,Albert Ramos-Vinolas,Nicolas Mahut,,,0.0
+82015,2017-08-30T22:15Z,US Open,Jordan Thompson,Thomas Fabbiano,,,0.0
+81968,2017-08-30T22:30Z,US Open,Cameron Norrie,Pablo Carreno Busta,,,0.0
+82003,2017-08-30T23:00Z,US Open,Mischa Zverev,Benoit Paire,,,1.0
+82005,2017-08-30T23:00Z,US Open,Diego Schwartzman,Janko Tipsarevic,,,1.0
+82007,2017-08-30T23:00Z,US Open,Radu Albot,Yen-Hsun Lu,,,1.0
+82001,2017-08-30T23:30Z,US Open,Kevin Anderson,Ernests Gulbis,,,1.0
+82002,2017-08-30T23:30Z,US Open,Evgeny Donskoy,Mikhail Kukushkin,,,0.0
+82019,2017-08-30T23:30Z,US Open,Borna Coric,Alexander Zverev,,,1.0
+82082,2017-08-31T13:30Z,US Open,Rafael Nadal,Taro Daniel,,,1.0
+82092,2017-08-31T15:00Z,US Open,Alexandr Dolgopolov,Tomas Berdych,,,1.0
+82095,2017-08-31T15:00Z,US Open,Stefano Travaglia,Viktor Troicki,,,0.0
+82090,2017-08-31T17:00Z,US Open,Adrian Menendez-Maceiras,Juan Martin del Potro,,,0.0
+82094,2017-08-31T17:00Z,US Open,Andrey Rublev,Grigor Dimitrov,,,1.0
+82096,2017-08-31T17:00Z,US Open,Malek Jaziri,John Millman,,,0.0
+82097,2017-08-31T17:00Z,US Open,Damir Dzumhur,Cedrik-Marcel Stebe,,,1.0
+82091,2017-08-31T18:00Z,US Open,Adrian Mannarino,Bjorn Fratangelo,,,1.0
+82102,2017-08-31T19:00Z,US Open,Roberto Bautista Agut,Dustin Brown,,,1.0
+82105,2017-08-31T19:00Z,US Open,Fernando Verdasco,Feliciano Lopez,,,0.0
+82084,2017-08-31T19:15Z,US Open,Roger Federer,Mikhail Youzhny,,,1.0
+82093,2017-08-31T19:30Z,US Open,David Goffin,Guido Pella,,,1.0
+82086,2017-08-31T19:50Z,US Open,Taylor Fritz,Dominic Thiem,,,0.0
+82089,2017-08-31T19:50Z,US Open,Donald Young,Gael Monfils,,,0.0
+122179,2017-08-31T20:00Z,US Open,Taylor Fritz,Dominic Thiem,,,0.0
+82098,2017-08-31T21:00Z,US Open,Philipp Kohlschreiber,Santiago Giraldo,,,1.0
+82085,2017-08-31T21:30Z,US Open,Yuichi Sugita,Leonardo Mayer,,,0.0
+82112,2017-09-01T06:00Z,US Open,Lucas Pouille,Mikhail Kukushkin,,,1.0
+82115,2017-09-01T15:00Z,US Open,Nicolas Mahut,Pablo Carreno Busta,,,0.0
+82116,2017-09-01T15:00Z,US Open,Thomas Fabbiano,Paolo Lorenzi,,,0.0
+82119,2017-09-01T15:00Z,US Open,Diego Schwartzman,Marin Cilic,,,1.0
+82122,2017-09-01T17:15Z,US Open,Denis Shapovalov,Kyle Edmund,,,1.0
+82118,2017-09-01T19:00Z,US Open,Kevin Anderson,Borna Coric,,,1.0
+82110,2017-09-01T21:30Z,US Open,Sam Querrey,Radu Albot,,,1.0
+82111,2017-09-01T23:00Z,US Open,Mischa Zverev,John Isner,,,1.0
+82168,2017-09-02T09:25Z,US Open,Rafael Nadal,Leonardo Mayer,,,1.0
+82138,2017-09-02T15:00Z,US Open,Viktor Troicki,Alexandr Dolgopolov,,,0.0
+82144,2017-09-02T15:00Z,US Open,Philipp Kohlschreiber,John Millman,,,1.0
+82154,2017-09-02T15:00Z,US Open,Adrian Mannarino,Dominic Thiem,,,0.0
+82149,2017-09-02T17:30Z,US Open,Roberto Bautista Agut,Juan Martin del Potro,,,0.0
+82143,2017-09-02T19:00Z,US Open,Damir Dzumhur,Andrey Rublev,,,0.0
+82163,2017-09-02T19:30Z,US Open,David Goffin,Gael Monfils,,,1.0
+82157,2017-09-03T01:45Z,US Open,Roger Federer,Feliciano Lopez,,,1.0
+82184,2017-09-03T07:10Z,US Open,Lucas Pouille,Diego Schwartzman,,,0.0
+82179,2017-09-03T09:20Z,US Open,Paolo Lorenzi,Kevin Anderson,,,0.0
+82190,2017-09-03T14:30Z,US Open,Sam Querrey,Mischa Zverev,,,1.0
+82178,2017-09-03T15:00Z,US Open,Denis Shapovalov,Pablo Carreno Busta,,,0.0
+82197,2017-09-04T17:00Z,US Open,Rafael Nadal,Alexandr Dolgopolov,,,1.0
+82206,2017-09-04T17:00Z,US Open,David Goffin,Andrey Rublev,,,0.0
+82200,2017-09-04T20:45Z,US Open,Juan Martin del Potro,Dominic Thiem,,,1.0
+82199,2017-09-04T23:00Z,US Open,Roger Federer,Philipp Kohlschreiber,,,1.0
+82222,2017-09-05T14:25Z,US Open,Sam Querrey,Kevin Anderson,,,0.0
+82210,2017-09-05T16:00Z,US Open,Pablo Carreno Busta,Diego Schwartzman,,,1.0
+82229,2017-09-06T18:00Z,US Open,Rafael Nadal,Andrey Rublev,,,1.0
+82232,2017-09-07T01:00Z,US Open,Roger Federer,Juan Martin del Potro,,,0.0
+82237,2017-09-08T20:00Z,US Open,Kevin Anderson,Pablo Carreno Busta,,,1.0
+82241,2017-09-08T23:30Z,US Open,Rafael Nadal,Juan Martin del Potro,,,1.0
+82247,2017-09-10T08:00Z,US Open,Rafael Nadal,Kevin Anderson,,,1.0

@@ -1,0 +1,64 @@
+id,date,event,home,away,hs,as,res
+401772821,2025-12-02T01:15Z,New York Giants at New England Patriots,New England Patriots,New York Giants,33,15,1.0
+401772947,2025-12-05T01:15Z,Dallas Cowboys at Detroit Lions,Detroit Lions,Dallas Cowboys,44,30,1.0
+401772900,2025-12-07T18:00Z,Seattle Seahawks at Atlanta Falcons,Atlanta Falcons,Seattle Seahawks,9,37,0.0
+401772902,2025-12-07T18:00Z,Cincinnati Bengals at Buffalo Bills,Buffalo Bills,Cincinnati Bengals,39,34,1.0
+401772898,2025-12-07T18:00Z,Tennessee Titans at Cleveland Browns,Cleveland Browns,Tennessee Titans,29,31,0.0
+401772899,2025-12-07T18:00Z,Washington Commanders at Minnesota Vikings,Minnesota Vikings,Washington Commanders,31,0,1.0
+401772790,2025-12-07T18:00Z,Miami Dolphins at New York Jets,New York Jets,Miami Dolphins,10,34,0.0
+401772792,2025-12-07T18:00Z,New Orleans Saints at Tampa Bay Buccaneers,Tampa Bay Buccaneers,New Orleans Saints,20,24,0.0
+401772793,2025-12-07T18:00Z,Indianapolis Colts at Jacksonville Jaguars,Jacksonville Jaguars,Indianapolis Colts,36,19,1.0
+401772791,2025-12-07T18:00Z,Pittsburgh Steelers at Baltimore Ravens,Baltimore Ravens,Pittsburgh Steelers,22,27,0.0
+401772794,2025-12-07T21:05Z,Denver Broncos at Las Vegas Raiders,Las Vegas Raiders,Denver Broncos,17,24,0.0
+401772897,2025-12-07T21:25Z,Chicago Bears at Green Bay Packers,Green Bay Packers,Chicago Bears,28,21,1.0
+401772901,2025-12-07T21:25Z,Los Angeles Rams at Arizona Cardinals,Arizona Cardinals,Los Angeles Rams,17,45,0.0
+401772932,2025-12-08T01:20Z,Houston Texans at Kansas City Chiefs,Kansas City Chiefs,Houston Texans,10,20,0.0
+401772822,2025-12-09T01:15Z,Philadelphia Eagles at Los Angeles Chargers,Los Angeles Chargers,Philadelphia Eagles,22,19,1.0
+401772948,2025-12-12T01:15Z,Atlanta Falcons at Tampa Bay Buccaneers,Tampa Bay Buccaneers,Atlanta Falcons,28,29,0.0
+401772904,2025-12-14T18:00Z,Cleveland Browns at Chicago Bears,Chicago Bears,Cleveland Browns,31,3,1.0
+401772796,2025-12-14T18:00Z,Baltimore Ravens at Cincinnati Bengals,Cincinnati Bengals,Baltimore Ravens,0,24,0.0
+401772798,2025-12-14T18:00Z,Los Angeles Chargers at Kansas City Chiefs,Kansas City Chiefs,Los Angeles Chargers,13,16,0.0
+401772795,2025-12-14T18:00Z,Buffalo Bills at New England Patriots,New England Patriots,Buffalo Bills,31,35,0.0
+401772905,2025-12-14T18:00Z,Washington Commanders at New York Giants,New York Giants,Washington Commanders,21,29,0.0
+401772906,2025-12-14T18:00Z,Las Vegas Raiders at Philadelphia Eagles,Philadelphia Eagles,Las Vegas Raiders,31,0,1.0
+401772797,2025-12-14T18:00Z,New York Jets at Jacksonville Jaguars,Jacksonville Jaguars,New York Jets,48,20,1.0
+401772903,2025-12-14T18:00Z,Arizona Cardinals at Houston Texans,Houston Texans,Arizona Cardinals,40,20,1.0
+401772800,2025-12-14T21:25Z,Green Bay Packers at Denver Broncos,Denver Broncos,Green Bay Packers,34,26,1.0
+401772909,2025-12-14T21:25Z,Detroit Lions at Los Angeles Rams,Los Angeles Rams,Detroit Lions,41,34,1.0
+401772908,2025-12-14T21:25Z,Carolina Panthers at New Orleans Saints,New Orleans Saints,Carolina Panthers,20,17,1.0
+401772907,2025-12-14T21:25Z,Tennessee Titans at San Francisco 49ers,San Francisco 49ers,Tennessee Titans,37,24,1.0
+401772799,2025-12-14T21:25Z,Indianapolis Colts at Seattle Seahawks,Seattle Seahawks,Indianapolis Colts,18,16,1.0
+401772933,2025-12-15T01:20Z,Minnesota Vikings at Dallas Cowboys,Dallas Cowboys,Minnesota Vikings,26,34,0.0
+401772823,2025-12-16T01:15Z,Miami Dolphins at Pittsburgh Steelers,Pittsburgh Steelers,Miami Dolphins,28,15,1.0
+401772949,2025-12-19T01:15Z,Los Angeles Rams at Seattle Seahawks,Seattle Seahawks,Los Angeles Rams,38,37,1.0
+401772612,2025-12-20T22:00Z,Philadelphia Eagles at Washington Commanders,Washington Commanders,Philadelphia Eagles,18,29,0.0
+401772613,2025-12-21T01:20Z,Green Bay Packers at Chicago Bears,Chicago Bears,Green Bay Packers,22,16,1.0
+401772802,2025-12-21T18:00Z,Buffalo Bills at Cleveland Browns,Cleveland Browns,Buffalo Bills,20,23,0.0
+401772910,2025-12-21T18:00Z,Los Angeles Chargers at Dallas Cowboys,Dallas Cowboys,Los Angeles Chargers,17,34,0.0
+401772803,2025-12-21T18:00Z,Kansas City Chiefs at Tennessee Titans,Tennessee Titans,Kansas City Chiefs,26,9,1.0
+401772934,2025-12-21T18:00Z,Cincinnati Bengals at Miami Dolphins,Miami Dolphins,Cincinnati Bengals,21,45,0.0
+401772801,2025-12-21T18:00Z,New York Jets at New Orleans Saints,New Orleans Saints,New York Jets,29,6,1.0
+401772911,2025-12-21T18:00Z,Minnesota Vikings at New York Giants,New York Giants,Minnesota Vikings,13,16,0.0
+401772912,2025-12-21T18:00Z,Tampa Bay Buccaneers at Carolina Panthers,Carolina Panthers,Tampa Bay Buccaneers,23,20,1.0
+401772913,2025-12-21T21:05Z,Jacksonville Jaguars at Denver Broncos,Denver Broncos,Jacksonville Jaguars,20,34,0.0
+401772914,2025-12-21T21:05Z,Atlanta Falcons at Arizona Cardinals,Arizona Cardinals,Atlanta Falcons,19,26,0.0
+401772806,2025-12-21T21:25Z,Pittsburgh Steelers at Detroit Lions,Detroit Lions,Pittsburgh Steelers,24,29,0.0
+401772805,2025-12-21T21:25Z,Las Vegas Raiders at Houston Texans,Houston Texans,Las Vegas Raiders,23,21,1.0
+401772804,2025-12-22T01:20Z,New England Patriots at Baltimore Ravens,Baltimore Ravens,New England Patriots,24,28,0.0
+401772824,2025-12-23T01:15Z,San Francisco 49ers at Indianapolis Colts,Indianapolis Colts,San Francisco 49ers,27,48,0.0
+401772710,2025-12-25T18:00Z,Dallas Cowboys at Washington Commanders,Washington Commanders,Dallas Cowboys,23,30,0.0
+401772711,2025-12-25T21:30Z,Detroit Lions at Minnesota Vikings,Minnesota Vikings,Detroit Lions,23,10,1.0
+401772622,2025-12-26T01:15Z,Denver Broncos at Kansas City Chiefs,Kansas City Chiefs,Denver Broncos,13,20,0.0
+401772951,2025-12-27T21:30Z,Houston Texans at Los Angeles Chargers,Los Angeles Chargers,Houston Texans,16,20,0.0
+401772953,2025-12-28T01:00Z,Baltimore Ravens at Green Bay Packers,Green Bay Packers,Baltimore Ravens,24,41,0.0
+401772954,2025-12-28T18:00Z,Arizona Cardinals at Cincinnati Bengals,Cincinnati Bengals,Arizona Cardinals,37,14,1.0
+401772807,2025-12-28T18:00Z,Pittsburgh Steelers at Cleveland Browns,Cleveland Browns,Pittsburgh Steelers,13,6,1.0
+401772809,2025-12-28T18:00Z,New Orleans Saints at Tennessee Titans,Tennessee Titans,New Orleans Saints,26,34,0.0
+401772915,2025-12-28T18:00Z,Jacksonville Jaguars at Indianapolis Colts,Indianapolis Colts,Jacksonville Jaguars,17,23,0.0
+401772916,2025-12-28T18:00Z,Tampa Bay Buccaneers at Miami Dolphins,Miami Dolphins,Tampa Bay Buccaneers,20,17,1.0
+401772808,2025-12-28T18:00Z,New England Patriots at New York Jets,New York Jets,New England Patriots,10,42,0.0
+401772952,2025-12-28T18:00Z,Seattle Seahawks at Carolina Panthers,Carolina Panthers,Seattle Seahawks,10,27,0.0
+401772950,2025-12-28T21:05Z,New York Giants at Las Vegas Raiders,Las Vegas Raiders,New York Giants,10,34,0.0
+401772917,2025-12-28T21:25Z,Philadelphia Eagles at Buffalo Bills,Buffalo Bills,Philadelphia Eagles,12,13,0.0
+401772935,2025-12-29T01:20Z,Chicago Bears at San Francisco 49ers,San Francisco 49ers,Chicago Bears,42,38,1.0
+401772825,2025-12-30T01:15Z,Los Angeles Rams at Atlanta Falcons,Atlanta Falcons,Los Angeles Rams,27,24,1.0

@@ -1,0 +1,39 @@
+id,date,event,home,away,hs,as,res
+401433610,2022-05-01T17:00Z,Milwaukee Bucks at Boston Celtics,Boston Celtics,Milwaukee Bucks,89,101,0.0
+401434770,2022-05-01T19:30Z,Golden State Warriors at Memphis Grizzlies,Memphis Grizzlies,Golden State Warriors,116,117,0.0
+401434050,2022-05-02T23:30Z,Philadelphia 76ers at Miami Heat,Miami Heat,Philadelphia 76ers,106,92,1.0
+401434070,2022-05-03T02:00Z,Dallas Mavericks at Phoenix Suns,Phoenix Suns,Dallas Mavericks,121,114,1.0
+401433611,2022-05-03T23:00Z,Milwaukee Bucks at Boston Celtics,Boston Celtics,Milwaukee Bucks,109,86,1.0
+401434771,2022-05-04T01:30Z,Golden State Warriors at Memphis Grizzlies,Memphis Grizzlies,Golden State Warriors,106,101,1.0
+401434051,2022-05-04T23:30Z,Philadelphia 76ers at Miami Heat,Miami Heat,Philadelphia 76ers,119,103,1.0
+401434110,2022-05-05T02:00Z,Dallas Mavericks at Phoenix Suns,Phoenix Suns,Dallas Mavericks,129,109,1.0
+401434052,2022-05-06T23:00Z,Miami Heat at Philadelphia 76ers,Philadelphia 76ers,Miami Heat,99,79,1.0
+401434111,2022-05-07T01:30Z,Phoenix Suns at Dallas Mavericks,Dallas Mavericks,Phoenix Suns,103,94,1.0
+401433612,2022-05-07T19:30Z,Boston Celtics at Milwaukee Bucks,Milwaukee Bucks,Boston Celtics,103,101,1.0
+401434772,2022-05-08T00:30Z,Memphis Grizzlies at Golden State Warriors,Golden State Warriors,Memphis Grizzlies,142,112,1.0
+401434112,2022-05-08T19:30Z,Phoenix Suns at Dallas Mavericks,Dallas Mavericks,Phoenix Suns,111,101,1.0
+401434053,2022-05-09T00:00Z,Miami Heat at Philadelphia 76ers,Philadelphia 76ers,Miami Heat,116,108,1.0
+401433613,2022-05-09T23:30Z,Boston Celtics at Milwaukee Bucks,Milwaukee Bucks,Boston Celtics,108,116,0.0
+401434773,2022-05-10T02:00Z,Memphis Grizzlies at Golden State Warriors,Golden State Warriors,Memphis Grizzlies,101,98,1.0
+401434054,2022-05-10T23:30Z,Philadelphia 76ers at Miami Heat,Miami Heat,Philadelphia 76ers,120,85,1.0
+401434113,2022-05-11T02:00Z,Dallas Mavericks at Phoenix Suns,Phoenix Suns,Dallas Mavericks,110,80,1.0
+401433614,2022-05-11T23:00Z,Milwaukee Bucks at Boston Celtics,Boston Celtics,Milwaukee Bucks,107,110,0.0
+401434774,2022-05-12T01:30Z,Golden State Warriors at Memphis Grizzlies,Memphis Grizzlies,Golden State Warriors,134,95,1.0
+401434055,2022-05-12T23:00Z,Miami Heat at Philadelphia 76ers,Philadelphia 76ers,Miami Heat,90,99,0.0
+401434114,2022-05-13T01:30Z,Phoenix Suns at Dallas Mavericks,Dallas Mavericks,Phoenix Suns,113,86,1.0
+401433615,2022-05-13T23:30Z,Boston Celtics at Milwaukee Bucks,Milwaukee Bucks,Boston Celtics,95,108,0.0
+401434775,2022-05-14T02:20Z,Memphis Grizzlies at Golden State Warriors,Golden State Warriors,Memphis Grizzlies,110,96,1.0
+401433616,2022-05-15T19:30Z,Milwaukee Bucks at Boston Celtics,Boston Celtics,Milwaukee Bucks,109,81,1.0
+401434115,2022-05-16T00:00Z,Dallas Mavericks at Phoenix Suns,Phoenix Suns,Dallas Mavericks,90,123,0.0
+401438130,2022-05-18T00:30Z,Boston Celtics at Miami Heat,Miami Heat,Boston Celtics,118,107,1.0
+401438944,2022-05-19T01:00Z,Dallas Mavericks at Golden State Warriors,Golden State Warriors,Dallas Mavericks,112,87,1.0
+401438131,2022-05-20T00:30Z,Boston Celtics at Miami Heat,Miami Heat,Boston Celtics,102,127,0.0
+401438945,2022-05-21T01:00Z,Dallas Mavericks at Golden State Warriors,Golden State Warriors,Dallas Mavericks,126,117,1.0
+401438132,2022-05-22T00:30Z,Miami Heat at Boston Celtics,Boston Celtics,Miami Heat,103,109,0.0
+401438946,2022-05-23T01:00Z,Golden State Warriors at Dallas Mavericks,Dallas Mavericks,Golden State Warriors,100,109,0.0
+401438133,2022-05-24T00:30Z,Miami Heat at Boston Celtics,Boston Celtics,Miami Heat,102,82,1.0
+401438947,2022-05-25T01:00Z,Golden State Warriors at Dallas Mavericks,Dallas Mavericks,Golden State Warriors,119,109,1.0
+401438134,2022-05-26T00:30Z,Boston Celtics at Miami Heat,Miami Heat,Boston Celtics,80,93,0.0
+401438948,2022-05-27T01:00Z,Dallas Mavericks at Golden State Warriors,Golden State Warriors,Dallas Mavericks,120,110,1.0
+401438135,2022-05-28T00:30Z,Miami Heat at Boston Celtics,Boston Celtics,Miami Heat,103,111,0.0
+401438136,2022-05-30T00:30Z,Boston Celtics at Miami Heat,Miami Heat,Boston Celtics,96,100,0.0

@@ -1,0 +1,236 @@
+id,date,event,home,away,hs,as,res
+400962586,2018-03-02T00:00Z,Pittsburgh Penguins at Boston Bruins,Boston Bruins,Pittsburgh Penguins,8,4,1.0
+400962587,2018-03-02T00:00Z,Carolina Hurricanes at Philadelphia Flyers,Philadelphia Flyers,Carolina Hurricanes,1,4,0.0
+400962588,2018-03-02T00:30Z,New Jersey Devils at Florida Panthers,Florida Panthers,New Jersey Devils,3,2,1.0
+400962589,2018-03-02T01:30Z,Tampa Bay Lightning at Dallas Stars,Dallas Stars,Tampa Bay Lightning,4,5,0.0
+400962590,2018-03-02T02:00Z,Nashville Predators at Edmonton Oilers,Edmonton Oilers,Nashville Predators,2,4,0.0
+400962591,2018-03-02T02:00Z,Minnesota Wild at Arizona Coyotes,Arizona Coyotes,Minnesota Wild,5,3,1.0
+400962593,2018-03-02T03:00Z,Chicago Blackhawks at San Jose Sharks,San Jose Sharks,Chicago Blackhawks,7,2,1.0
+400962592,2018-03-02T03:30Z,Columbus Blue Jackets at Los Angeles Kings,Los Angeles Kings,Columbus Blue Jackets,5,2,1.0
+400962594,2018-03-03T00:00Z,Montreal Canadiens at New York Islanders,New York Islanders,Montreal Canadiens,3,6,0.0
+400962595,2018-03-03T00:30Z,Buffalo Sabres at Florida Panthers,Florida Panthers,Buffalo Sabres,4,1,1.0
+400962596,2018-03-03T00:30Z,New Jersey Devils at Carolina Hurricanes,Carolina Hurricanes,New Jersey Devils,3,1,1.0
+400962597,2018-03-03T01:00Z,Detroit Red Wings at Winnipeg Jets,Winnipeg Jets,Detroit Red Wings,4,3,1.0
+400962598,2018-03-03T02:00Z,Minnesota Wild at Colorado Avalanche,Colorado Avalanche,Minnesota Wild,7,1,1.0
+400962599,2018-03-03T02:00Z,New York Rangers at Calgary Flames,Calgary Flames,New York Rangers,1,3,0.0
+400962600,2018-03-03T03:00Z,Nashville Predators at Vancouver Canucks,Vancouver Canucks,Nashville Predators,3,4,0.0
+400962601,2018-03-03T03:00Z,Ottawa Senators at Vegas Golden Knights,Vegas Golden Knights,Ottawa Senators,4,5,0.0
+400962602,2018-03-03T03:00Z,Columbus Blue Jackets at Anaheim Ducks,Anaheim Ducks,Columbus Blue Jackets,4,2,1.0
+400962603,2018-03-03T18:00Z,Philadelphia Flyers at Tampa Bay Lightning,Tampa Bay Lightning,Philadelphia Flyers,7,6,1.0
+400962604,2018-03-03T19:00Z,St. Louis Blues at Dallas Stars,Dallas Stars,St. Louis Blues,3,2,1.0
+400962605,2018-03-03T21:00Z,Chicago Blackhawks at Los Angeles Kings,Los Angeles Kings,Chicago Blackhawks,3,5,0.0
+400962606,2018-03-03T22:00Z,Montreal Canadiens at Boston Bruins,Boston Bruins,Montreal Canadiens,2,1,1.0
+400962607,2018-03-03T22:00Z,New York Islanders at Pittsburgh Penguins,Pittsburgh Penguins,New York Islanders,3,2,1.0
+400962608,2018-03-04T01:00Z,Toronto Maple Leafs at Washington Capitals,Washington Capitals,Toronto Maple Leafs,5,2,1.0
+400962609,2018-03-04T01:00Z,Ottawa Senators at Arizona Coyotes,Arizona Coyotes,Ottawa Senators,2,1,1.0
+400962610,2018-03-04T03:30Z,New York Rangers at Edmonton Oilers,Edmonton Oilers,New York Rangers,2,3,0.0
+400962611,2018-03-04T20:00Z,Philadelphia Flyers at Florida Panthers,Florida Panthers,Philadelphia Flyers,4,1,1.0
+400962612,2018-03-04T20:00Z,Nashville Predators at Colorado Avalanche,Colorado Avalanche,Nashville Predators,3,4,0.0
+400962613,2018-03-04T21:00Z,Chicago Blackhawks at Anaheim Ducks,Anaheim Ducks,Chicago Blackhawks,6,3,1.0
+400962614,2018-03-04T22:00Z,Vegas Golden Knights at New Jersey Devils,New Jersey Devils,Vegas Golden Knights,2,3,0.0
+400962615,2018-03-05T00:00Z,Winnipeg Jets at Carolina Hurricanes,Carolina Hurricanes,Winnipeg Jets,2,3,0.0
+400962616,2018-03-05T00:00Z,Detroit Red Wings at Minnesota Wild,Minnesota Wild,Detroit Red Wings,4,1,1.0
+400962617,2018-03-05T02:00Z,Columbus Blue Jackets at San Jose Sharks,San Jose Sharks,Columbus Blue Jackets,2,4,0.0
+400962619,2018-03-06T00:00Z,Calgary Flames at Pittsburgh Penguins,Pittsburgh Penguins,Calgary Flames,4,3,1.0
+400962618,2018-03-06T00:30Z,Toronto Maple Leafs at Buffalo Sabres,Buffalo Sabres,Toronto Maple Leafs,5,3,1.0
+400962620,2018-03-06T01:30Z,Ottawa Senators at Dallas Stars,Dallas Stars,Ottawa Senators,2,3,0.0
+400962621,2018-03-06T02:00Z,Arizona Coyotes at Edmonton Oilers,Edmonton Oilers,Arizona Coyotes,4,3,1.0
+400962622,2018-03-06T03:00Z,New York Islanders at Vancouver Canucks,Vancouver Canucks,New York Islanders,4,3,1.0
+400962623,2018-03-07T00:00Z,Detroit Red Wings at Boston Bruins,Boston Bruins,Detroit Red Wings,6,5,1.0
+400962624,2018-03-07T00:00Z,Montreal Canadiens at New Jersey Devils,New Jersey Devils,Montreal Canadiens,6,4,1.0
+400962625,2018-03-07T00:00Z,Winnipeg Jets at New York Rangers,New York Rangers,Winnipeg Jets,0,3,0.0
+400962626,2018-03-07T00:00Z,Vegas Golden Knights at Columbus Blue Jackets,Columbus Blue Jackets,Vegas Golden Knights,4,1,1.0
+400962627,2018-03-07T00:30Z,Florida Panthers at Tampa Bay Lightning,Tampa Bay Lightning,Florida Panthers,5,4,1.0
+400962628,2018-03-07T01:00Z,Dallas Stars at Nashville Predators,Nashville Predators,Dallas Stars,2,0,1.0
+400962629,2018-03-07T01:00Z,Carolina Hurricanes at Minnesota Wild,Minnesota Wild,Carolina Hurricanes,6,2,1.0
+400962630,2018-03-07T01:30Z,Colorado Avalanche at Chicago Blackhawks,Chicago Blackhawks,Colorado Avalanche,2,1,1.0
+400962631,2018-03-07T03:00Z,Washington Capitals at Anaheim Ducks,Anaheim Ducks,Washington Capitals,4,0,1.0
+400962632,2018-03-08T00:30Z,Calgary Flames at Buffalo Sabres,Buffalo Sabres,Calgary Flames,1,5,0.0
+400962633,2018-03-08T01:00Z,Pittsburgh Penguins at Philadelphia Flyers,Philadelphia Flyers,Pittsburgh Penguins,2,5,0.0
+400962634,2018-03-08T03:00Z,Arizona Coyotes at Vancouver Canucks,Vancouver Canucks,Arizona Coyotes,1,2,0.0
+400962635,2018-03-09T00:00Z,Philadelphia Flyers at Boston Bruins,Boston Bruins,Philadelphia Flyers,3,2,1.0
+400962636,2018-03-09T00:00Z,Winnipeg Jets at New Jersey Devils,New Jersey Devils,Winnipeg Jets,2,3,0.0
+400962637,2018-03-09T00:00Z,Colorado Avalanche at Columbus Blue Jackets,Columbus Blue Jackets,Colorado Avalanche,5,4,1.0
+400962638,2018-03-09T00:30Z,Buffalo Sabres at Ottawa Senators,Ottawa Senators,Buffalo Sabres,3,4,0.0
+400962639,2018-03-09T00:30Z,Vegas Golden Knights at Detroit Red Wings,Detroit Red Wings,Vegas Golden Knights,0,4,0.0
+400962640,2018-03-09T00:30Z,New York Rangers at Tampa Bay Lightning,Tampa Bay Lightning,New York Rangers,5,3,1.0
+400962641,2018-03-09T00:30Z,Montreal Canadiens at Florida Panthers,Florida Panthers,Montreal Canadiens,5,0,1.0
+400962642,2018-03-09T01:00Z,Anaheim Ducks at Nashville Predators,Nashville Predators,Anaheim Ducks,4,2,1.0
+400962643,2018-03-09T01:30Z,Carolina Hurricanes at Chicago Blackhawks,Chicago Blackhawks,Carolina Hurricanes,2,3,0.0
+400962644,2018-03-09T02:00Z,New York Islanders at Edmonton Oilers,Edmonton Oilers,New York Islanders,2,1,1.0
+400962645,2018-03-09T03:30Z,Washington Capitals at Los Angeles Kings,Los Angeles Kings,Washington Capitals,3,1,1.0
+400962646,2018-03-09T03:30Z,St. Louis Blues at San Jose Sharks,San Jose Sharks,St. Louis Blues,2,0,1.0
+400962647,2018-03-10T00:00Z,Detroit Red Wings at Columbus Blue Jackets,Columbus Blue Jackets,Detroit Red Wings,3,2,1.0
+400962648,2018-03-10T00:30Z,Calgary Flames at Ottawa Senators,Ottawa Senators,Calgary Flames,1,2,0.0
+400962649,2018-03-10T01:30Z,Anaheim Ducks at Dallas Stars,Dallas Stars,Anaheim Ducks,2,1,1.0
+400962650,2018-03-10T03:00Z,Minnesota Wild at Vancouver Canucks,Vancouver Canucks,Minnesota Wild,2,5,0.0
+400962651,2018-03-10T18:00Z,Chicago Blackhawks at Boston Bruins,Boston Bruins,Chicago Blackhawks,7,4,1.0
+400962652,2018-03-10T18:00Z,Vegas Golden Knights at Buffalo Sabres,Buffalo Sabres,Vegas Golden Knights,1,2,0.0
+400962653,2018-03-10T18:00Z,Montreal Canadiens at Tampa Bay Lightning,Tampa Bay Lightning,Montreal Canadiens,3,2,1.0
+400962654,2018-03-10T18:00Z,Winnipeg Jets at Philadelphia Flyers,Philadelphia Flyers,Winnipeg Jets,2,1,1.0
+400962655,2018-03-10T20:00Z,Arizona Coyotes at Colorado Avalanche,Colorado Avalanche,Arizona Coyotes,5,2,1.0
+400962656,2018-03-10T21:00Z,St. Louis Blues at Los Angeles Kings,Los Angeles Kings,St. Louis Blues,2,7,0.0
+400962657,2018-03-10T21:00Z,Washington Capitals at San Jose Sharks,San Jose Sharks,Washington Capitals,0,2,0.0
+400962658,2018-03-11T00:00Z,Pittsburgh Penguins at Toronto Maple Leafs,Toronto Maple Leafs,Pittsburgh Penguins,5,2,1.0
+400962659,2018-03-11T00:00Z,New York Rangers at Florida Panthers,Florida Panthers,New York Rangers,4,3,1.0
+400962660,2018-03-11T01:00Z,New Jersey Devils at Nashville Predators,Nashville Predators,New Jersey Devils,2,3,0.0
+400962661,2018-03-11T03:00Z,Minnesota Wild at Edmonton Oilers,Edmonton Oilers,Minnesota Wild,4,1,1.0
+400962662,2018-03-11T16:30Z,Boston Bruins at Chicago Blackhawks,Chicago Blackhawks,Boston Bruins,3,1,1.0
+400962663,2018-03-11T23:00Z,New York Islanders at Calgary Flames,Calgary Flames,New York Islanders,2,5,0.0
+400962664,2018-03-11T23:30Z,Dallas Stars at Pittsburgh Penguins,Pittsburgh Penguins,Dallas Stars,3,1,1.0
+400962665,2018-03-12T01:00Z,Vancouver Canucks at Arizona Coyotes,Arizona Coyotes,Vancouver Canucks,1,0,1.0
+400962666,2018-03-12T23:00Z,Carolina Hurricanes at New York Rangers,New York Rangers,Carolina Hurricanes,6,3,1.0
+400962667,2018-03-12T23:00Z,Vegas Golden Knights at Philadelphia Flyers,Philadelphia Flyers,Vegas Golden Knights,2,3,0.0
+400962668,2018-03-12T23:00Z,Winnipeg Jets at Washington Capitals,Washington Capitals,Winnipeg Jets,3,2,1.0
+400962669,2018-03-12T23:00Z,Montreal Canadiens at Columbus Blue Jackets,Columbus Blue Jackets,Montreal Canadiens,5,2,1.0
+400962670,2018-03-12T23:30Z,Ottawa Senators at Florida Panthers,Florida Panthers,Ottawa Senators,3,5,0.0
+400962671,2018-03-13T02:00Z,St. Louis Blues at Anaheim Ducks,Anaheim Ducks,St. Louis Blues,2,4,0.0
+400962672,2018-03-13T02:30Z,Vancouver Canucks at Los Angeles Kings,Los Angeles Kings,Vancouver Canucks,3,0,1.0
+400962673,2018-03-13T02:30Z,Detroit Red Wings at San Jose Sharks,San Jose Sharks,Detroit Red Wings,5,3,1.0
+400962674,2018-03-13T23:00Z,Boston Bruins at Carolina Hurricanes,Carolina Hurricanes,Boston Bruins,4,6,0.0
+400962675,2018-03-13T23:30Z,Dallas Stars at Montreal Canadiens,Montreal Canadiens,Dallas Stars,4,2,1.0
+400962676,2018-03-13T23:30Z,Ottawa Senators at Tampa Bay Lightning,Tampa Bay Lightning,Ottawa Senators,4,7,0.0
+400962677,2018-03-14T00:00Z,Winnipeg Jets at Nashville Predators,Nashville Predators,Winnipeg Jets,3,1,1.0
+400962678,2018-03-14T00:30Z,Colorado Avalanche at Minnesota Wild,Minnesota Wild,Colorado Avalanche,1,5,0.0
+400962679,2018-03-14T01:00Z,Edmonton Oilers at Calgary Flames,Calgary Flames,Edmonton Oilers,1,0,1.0
+400962680,2018-03-14T02:00Z,Los Angeles Kings at Arizona Coyotes,Arizona Coyotes,Los Angeles Kings,4,3,1.0
+400962681,2018-03-14T23:00Z,Dallas Stars at Toronto Maple Leafs,Toronto Maple Leafs,Dallas Stars,6,5,1.0
+400962682,2018-03-15T00:00Z,Pittsburgh Penguins at New York Rangers,New York Rangers,Pittsburgh Penguins,4,3,1.0
+400962683,2018-03-15T01:30Z,San Jose Sharks at Edmonton Oilers,Edmonton Oilers,San Jose Sharks,3,4,0.0
+400962684,2018-03-15T02:00Z,New Jersey Devils at Vegas Golden Knights,Vegas Golden Knights,New Jersey Devils,3,8,0.0
+400962685,2018-03-15T02:00Z,Vancouver Canucks at Anaheim Ducks,Anaheim Ducks,Vancouver Canucks,3,0,1.0
+400962686,2018-03-15T23:00Z,Toronto Maple Leafs at Buffalo Sabres,Buffalo Sabres,Toronto Maple Leafs,2,5,0.0
+400962687,2018-03-15T23:00Z,Washington Capitals at New York Islanders,New York Islanders,Washington Capitals,3,7,0.0
+400962688,2018-03-15T23:00Z,Columbus Blue Jackets at Philadelphia Flyers,Philadelphia Flyers,Columbus Blue Jackets,3,5,0.0
+400962689,2018-03-15T23:30Z,Pittsburgh Penguins at Montreal Canadiens,Montreal Canadiens,Pittsburgh Penguins,3,5,0.0
+400962690,2018-03-15T23:30Z,Boston Bruins at Florida Panthers,Florida Panthers,Boston Bruins,3,0,1.0
+400962691,2018-03-16T00:00Z,Colorado Avalanche at St. Louis Blues,St. Louis Blues,Colorado Avalanche,1,4,0.0
+400962692,2018-03-16T00:00Z,Chicago Blackhawks at Winnipeg Jets,Winnipeg Jets,Chicago Blackhawks,6,2,1.0
+400962693,2018-03-16T02:00Z,Nashville Predators at Arizona Coyotes,Arizona Coyotes,Nashville Predators,2,3,0.0
+400962694,2018-03-16T02:00Z,Detroit Red Wings at Los Angeles Kings,Los Angeles Kings,Detroit Red Wings,4,1,1.0
+400962695,2018-03-16T23:00Z,New York Islanders at Washington Capitals,Washington Capitals,New York Islanders,6,3,1.0
+400962696,2018-03-16T23:30Z,Dallas Stars at Ottawa Senators,Ottawa Senators,Dallas Stars,3,2,1.0
+400962697,2018-03-17T01:00Z,Nashville Predators at Colorado Avalanche,Colorado Avalanche,Nashville Predators,2,4,0.0
+400962698,2018-03-17T01:00Z,San Jose Sharks at Calgary Flames,Calgary Flames,San Jose Sharks,4,7,0.0
+400962699,2018-03-17T02:00Z,Detroit Red Wings at Anaheim Ducks,Anaheim Ducks,Detroit Red Wings,4,2,1.0
+400962700,2018-03-17T02:30Z,Minnesota Wild at Vegas Golden Knights,Vegas Golden Knights,Minnesota Wild,2,4,0.0
+400962701,2018-03-17T17:00Z,Chicago Blackhawks at Buffalo Sabres,Buffalo Sabres,Chicago Blackhawks,5,3,1.0
+400962702,2018-03-17T18:00Z,Edmonton Oilers at Florida Panthers,Florida Panthers,Edmonton Oilers,2,4,0.0
+400962703,2018-03-17T20:00Z,New Jersey Devils at Los Angeles Kings,Los Angeles Kings,New Jersey Devils,0,3,0.0
+400962704,2018-03-17T23:00Z,Montreal Canadiens at Toronto Maple Leafs,Toronto Maple Leafs,Montreal Canadiens,4,0,1.0
+400962705,2018-03-17T23:00Z,Boston Bruins at Tampa Bay Lightning,Tampa Bay Lightning,Boston Bruins,0,3,0.0
+400962706,2018-03-17T23:00Z,Philadelphia Flyers at Carolina Hurricanes,Carolina Hurricanes,Philadelphia Flyers,2,4,0.0
+400962707,2018-03-17T23:00Z,Ottawa Senators at Columbus Blue Jackets,Columbus Blue Jackets,Ottawa Senators,2,1,1.0
+400962708,2018-03-18T00:00Z,New York Rangers at St. Louis Blues,St. Louis Blues,New York Rangers,4,3,1.0
+400962709,2018-03-18T01:00Z,Minnesota Wild at Arizona Coyotes,Arizona Coyotes,Minnesota Wild,1,3,0.0
+400962710,2018-03-18T02:00Z,San Jose Sharks at Vancouver Canucks,Vancouver Canucks,San Jose Sharks,3,5,0.0
+400962711,2018-03-18T19:00Z,Detroit Red Wings at Colorado Avalanche,Colorado Avalanche,Detroit Red Wings,5,1,1.0
+400962712,2018-03-18T20:00Z,Calgary Flames at Vegas Golden Knights,Vegas Golden Knights,Calgary Flames,4,0,1.0
+400962713,2018-03-18T21:00Z,Edmonton Oilers at Tampa Bay Lightning,Tampa Bay Lightning,Edmonton Oilers,3,1,1.0
+400962714,2018-03-18T21:00Z,Carolina Hurricanes at New York Islanders,New York Islanders,Carolina Hurricanes,3,4,0.0
+400962715,2018-03-18T21:00Z,Washington Capitals at Philadelphia Flyers,Philadelphia Flyers,Washington Capitals,6,3,1.0
+400962716,2018-03-18T23:30Z,St. Louis Blues at Chicago Blackhawks,Chicago Blackhawks,St. Louis Blues,4,5,0.0
+400962717,2018-03-18T23:30Z,Dallas Stars at Winnipeg Jets,Winnipeg Jets,Dallas Stars,4,2,1.0
+400962718,2018-03-19T01:00Z,New Jersey Devils at Anaheim Ducks,Anaheim Ducks,New Jersey Devils,4,2,1.0
+400962719,2018-03-19T23:00Z,Columbus Blue Jackets at Boston Bruins,Boston Bruins,Columbus Blue Jackets,4,5,0.0
+400962720,2018-03-19T23:00Z,Nashville Predators at Buffalo Sabres,Buffalo Sabres,Nashville Predators,0,4,0.0
+400962721,2018-03-19T23:30Z,Florida Panthers at Montreal Canadiens,Montreal Canadiens,Florida Panthers,0,2,0.0
+400962722,2018-03-20T00:00Z,Los Angeles Kings at Minnesota Wild,Minnesota Wild,Los Angeles Kings,3,4,0.0
+400962723,2018-03-20T02:00Z,Calgary Flames at Arizona Coyotes,Arizona Coyotes,Calgary Flames,5,2,1.0
+400962724,2018-03-20T23:00Z,Pittsburgh Penguins at New York Islanders,New York Islanders,Pittsburgh Penguins,4,1,1.0
+400962725,2018-03-20T23:00Z,Columbus Blue Jackets at New York Rangers,New York Rangers,Columbus Blue Jackets,3,5,0.0
+400962726,2018-03-20T23:00Z,Dallas Stars at Washington Capitals,Washington Capitals,Dallas Stars,4,3,1.0
+400962727,2018-03-20T23:00Z,Edmonton Oilers at Carolina Hurricanes,Carolina Hurricanes,Edmonton Oilers,3,7,0.0
+400962728,2018-03-20T23:30Z,Florida Panthers at Ottawa Senators,Ottawa Senators,Florida Panthers,2,7,0.0
+400962729,2018-03-20T23:30Z,Philadelphia Flyers at Detroit Red Wings,Detroit Red Wings,Philadelphia Flyers,5,4,1.0
+400962730,2018-03-20T23:30Z,Toronto Maple Leafs at Tampa Bay Lightning,Tampa Bay Lightning,Toronto Maple Leafs,4,3,1.0
+400962731,2018-03-21T00:00Z,Los Angeles Kings at Winnipeg Jets,Winnipeg Jets,Los Angeles Kings,2,1,1.0
+400962732,2018-03-21T00:30Z,Colorado Avalanche at Chicago Blackhawks,Chicago Blackhawks,Colorado Avalanche,1,5,0.0
+400962733,2018-03-21T02:00Z,Vancouver Canucks at Vegas Golden Knights,Vegas Golden Knights,Vancouver Canucks,4,1,1.0
+400962734,2018-03-21T02:30Z,New Jersey Devils at San Jose Sharks,San Jose Sharks,New Jersey Devils,6,2,1.0
+400962735,2018-03-21T23:00Z,Arizona Coyotes at Buffalo Sabres,Buffalo Sabres,Arizona Coyotes,1,4,0.0
+400962736,2018-03-21T23:00Z,Montreal Canadiens at Pittsburgh Penguins,Pittsburgh Penguins,Montreal Canadiens,5,3,1.0
+400962737,2018-03-22T00:00Z,Boston Bruins at St. Louis Blues,St. Louis Blues,Boston Bruins,2,1,1.0
+400962738,2018-03-22T01:30Z,Anaheim Ducks at Calgary Flames,Calgary Flames,Anaheim Ducks,0,4,0.0
+400962739,2018-03-22T23:00Z,Tampa Bay Lightning at New York Islanders,New York Islanders,Tampa Bay Lightning,6,7,0.0
+400962740,2018-03-22T23:00Z,New York Rangers at Philadelphia Flyers,Philadelphia Flyers,New York Rangers,4,3,1.0
+400962741,2018-03-22T23:00Z,Arizona Coyotes at Carolina Hurricanes,Carolina Hurricanes,Arizona Coyotes,6,5,1.0
+400962742,2018-03-22T23:00Z,Florida Panthers at Columbus Blue Jackets,Columbus Blue Jackets,Florida Panthers,4,0,1.0
+400962743,2018-03-22T23:30Z,Edmonton Oilers at Ottawa Senators,Ottawa Senators,Edmonton Oilers,2,6,0.0
+400962744,2018-03-22T23:30Z,Washington Capitals at Detroit Red Wings,Detroit Red Wings,Washington Capitals,0,1,0.0
+400962745,2018-03-23T00:00Z,Toronto Maple Leafs at Nashville Predators,Nashville Predators,Toronto Maple Leafs,2,5,0.0
+400962746,2018-03-23T00:30Z,Vancouver Canucks at Chicago Blackhawks,Chicago Blackhawks,Vancouver Canucks,2,5,0.0
+400962747,2018-03-23T01:00Z,Los Angeles Kings at Colorado Avalanche,Colorado Avalanche,Los Angeles Kings,1,7,0.0
+400962748,2018-03-23T02:00Z,Vegas Golden Knights at San Jose Sharks,San Jose Sharks,Vegas Golden Knights,2,1,1.0
+400962749,2018-03-23T23:00Z,Montreal Canadiens at Buffalo Sabres,Buffalo Sabres,Montreal Canadiens,0,3,0.0
+400962750,2018-03-23T23:00Z,New Jersey Devils at Pittsburgh Penguins,Pittsburgh Penguins,New Jersey Devils,3,4,0.0
+400962751,2018-03-24T00:00Z,Vancouver Canucks at St. Louis Blues,St. Louis Blues,Vancouver Canucks,4,1,1.0
+400962752,2018-03-24T00:00Z,Anaheim Ducks at Winnipeg Jets,Winnipeg Jets,Anaheim Ducks,3,2,1.0
+400962753,2018-03-24T00:30Z,Boston Bruins at Dallas Stars,Dallas Stars,Boston Bruins,2,3,0.0
+400962754,2018-03-24T19:00Z,Vegas Golden Knights at Colorado Avalanche,Colorado Avalanche,Vegas Golden Knights,2,1,1.0
+400962755,2018-03-24T20:00Z,Calgary Flames at San Jose Sharks,San Jose Sharks,Calgary Flames,5,1,1.0
+400962756,2018-03-24T23:00Z,Detroit Red Wings at Toronto Maple Leafs,Toronto Maple Leafs,Detroit Red Wings,4,3,1.0
+400962757,2018-03-24T23:00Z,Washington Capitals at Montreal Canadiens,Montreal Canadiens,Washington Capitals,4,6,0.0
+400962758,2018-03-24T23:00Z,Carolina Hurricanes at Ottawa Senators,Ottawa Senators,Carolina Hurricanes,2,5,0.0
+400962759,2018-03-24T23:00Z,Arizona Coyotes at Florida Panthers,Florida Panthers,Arizona Coyotes,4,2,1.0
+400962760,2018-03-24T23:00Z,Tampa Bay Lightning at New Jersey Devils,New Jersey Devils,Tampa Bay Lightning,2,1,1.0
+400962761,2018-03-24T23:00Z,Chicago Blackhawks at New York Islanders,New York Islanders,Chicago Blackhawks,1,3,0.0
+400962762,2018-03-24T23:00Z,Buffalo Sabres at New York Rangers,New York Rangers,Buffalo Sabres,5,1,1.0
+400962763,2018-03-24T23:00Z,St. Louis Blues at Columbus Blue Jackets,Columbus Blue Jackets,St. Louis Blues,1,2,0.0
+400962764,2018-03-25T00:00Z,Nashville Predators at Minnesota Wild,Minnesota Wild,Nashville Predators,4,1,1.0
+400962765,2018-03-25T02:00Z,Los Angeles Kings at Edmonton Oilers,Edmonton Oilers,Los Angeles Kings,3,2,1.0
+400962766,2018-03-25T16:30Z,Philadelphia Flyers at Pittsburgh Penguins,Pittsburgh Penguins,Philadelphia Flyers,5,4,1.0
+400962767,2018-03-25T23:00Z,Vancouver Canucks at Dallas Stars,Dallas Stars,Vancouver Canucks,1,4,0.0
+400962768,2018-03-25T23:00Z,Nashville Predators at Winnipeg Jets,Winnipeg Jets,Nashville Predators,5,4,1.0
+400962769,2018-03-25T23:30Z,Boston Bruins at Minnesota Wild,Minnesota Wild,Boston Bruins,1,2,0.0
+400962770,2018-03-26T01:30Z,Anaheim Ducks at Edmonton Oilers,Edmonton Oilers,Anaheim Ducks,4,5,0.0
+400962771,2018-03-26T23:00Z,Buffalo Sabres at Toronto Maple Leafs,Toronto Maple Leafs,Buffalo Sabres,2,3,0.0
+400962772,2018-03-26T23:00Z,Florida Panthers at New York Islanders,New York Islanders,Florida Panthers,0,3,0.0
+400962774,2018-03-26T23:00Z,Ottawa Senators at Carolina Hurricanes,Carolina Hurricanes,Ottawa Senators,4,1,1.0
+400962773,2018-03-26T23:30Z,Washington Capitals at New York Rangers,New York Rangers,Washington Capitals,2,4,0.0
+400962775,2018-03-26T23:30Z,Detroit Red Wings at Montreal Canadiens,Montreal Canadiens,Detroit Red Wings,4,2,1.0
+400962776,2018-03-26T23:30Z,Arizona Coyotes at Tampa Bay Lightning,Tampa Bay Lightning,Arizona Coyotes,1,4,0.0
+400962777,2018-03-27T00:30Z,San Jose Sharks at Chicago Blackhawks,Chicago Blackhawks,San Jose Sharks,3,4,0.0
+400962778,2018-03-27T02:00Z,Colorado Avalanche at Vegas Golden Knights,Vegas Golden Knights,Colorado Avalanche,4,1,1.0
+400962779,2018-03-27T02:30Z,Calgary Flames at Los Angeles Kings,Los Angeles Kings,Calgary Flames,3,0,1.0
+400962780,2018-03-27T23:00Z,Carolina Hurricanes at New Jersey Devils,New Jersey Devils,Carolina Hurricanes,4,3,1.0
+400962781,2018-03-27T23:30Z,New York Islanders at Ottawa Senators,Ottawa Senators,New York Islanders,3,4,0.0
+400962782,2018-03-27T23:30Z,Pittsburgh Penguins at Detroit Red Wings,Detroit Red Wings,Pittsburgh Penguins,5,2,1.0
+400962783,2018-03-28T00:00Z,San Jose Sharks at St. Louis Blues,St. Louis Blues,San Jose Sharks,3,2,1.0
+400962784,2018-03-28T00:00Z,Minnesota Wild at Nashville Predators,Nashville Predators,Minnesota Wild,2,1,1.0
+400962785,2018-03-28T00:00Z,Boston Bruins at Winnipeg Jets,Winnipeg Jets,Boston Bruins,5,4,1.0
+400962786,2018-03-28T00:30Z,Philadelphia Flyers at Dallas Stars,Dallas Stars,Philadelphia Flyers,3,2,1.0
+400962787,2018-03-28T01:00Z,Columbus Blue Jackets at Edmonton Oilers,Edmonton Oilers,Columbus Blue Jackets,3,7,0.0
+400962788,2018-03-28T02:00Z,Anaheim Ducks at Vancouver Canucks,Vancouver Canucks,Anaheim Ducks,4,1,1.0
+400962789,2018-03-28T23:30Z,Florida Panthers at Toronto Maple Leafs,Toronto Maple Leafs,Florida Panthers,4,3,1.0
+400962790,2018-03-29T00:00Z,New York Rangers at Washington Capitals,Washington Capitals,New York Rangers,3,2,1.0
+400962791,2018-03-29T02:00Z,Philadelphia Flyers at Colorado Avalanche,Colorado Avalanche,Philadelphia Flyers,1,2,0.0
+400962792,2018-03-29T02:00Z,Arizona Coyotes at Vegas Golden Knights,Vegas Golden Knights,Arizona Coyotes,2,3,0.0
+400962793,2018-03-29T23:00Z,Tampa Bay Lightning at Boston Bruins,Boston Bruins,Tampa Bay Lightning,4,2,1.0
+400962794,2018-03-29T23:00Z,Detroit Red Wings at Buffalo Sabres,Buffalo Sabres,Detroit Red Wings,3,6,0.0
+400962795,2018-03-29T23:00Z,Pittsburgh Penguins at New Jersey Devils,New Jersey Devils,Pittsburgh Penguins,3,4,0.0
+400962796,2018-03-29T23:30Z,Florida Panthers at Ottawa Senators,Ottawa Senators,Florida Panthers,3,2,1.0
+400962797,2018-03-30T00:00Z,San Jose Sharks at Nashville Predators,Nashville Predators,San Jose Sharks,5,3,1.0
+400962798,2018-03-30T00:00Z,Dallas Stars at Minnesota Wild,Minnesota Wild,Dallas Stars,5,2,1.0
+400962799,2018-03-30T00:30Z,Winnipeg Jets at Chicago Blackhawks,Chicago Blackhawks,Winnipeg Jets,6,2,1.0
+400962800,2018-03-30T01:00Z,Columbus Blue Jackets at Calgary Flames,Calgary Flames,Columbus Blue Jackets,1,5,0.0
+400962801,2018-03-30T02:00Z,Edmonton Oilers at Vancouver Canucks,Vancouver Canucks,Edmonton Oilers,2,1,1.0
+400962802,2018-03-30T02:30Z,Arizona Coyotes at Los Angeles Kings,Los Angeles Kings,Arizona Coyotes,4,2,1.0
+400962803,2018-03-30T23:00Z,Toronto Maple Leafs at New York Islanders,New York Islanders,Toronto Maple Leafs,4,5,0.0
+400962804,2018-03-30T23:00Z,Tampa Bay Lightning at New York Rangers,New York Rangers,Tampa Bay Lightning,3,7,0.0
+400962805,2018-03-30T23:00Z,Carolina Hurricanes at Washington Capitals,Washington Capitals,Carolina Hurricanes,1,4,0.0
+400962806,2018-03-31T01:00Z,Chicago Blackhawks at Colorado Avalanche,Colorado Avalanche,Chicago Blackhawks,5,0,1.0
+400962807,2018-03-31T02:00Z,Los Angeles Kings at Anaheim Ducks,Anaheim Ducks,Los Angeles Kings,2,1,1.0
+400962808,2018-03-31T02:30Z,St. Louis Blues at Vegas Golden Knights,Vegas Golden Knights,St. Louis Blues,4,3,1.0
+400962809,2018-03-31T17:00Z,Florida Panthers at Boston Bruins,Boston Bruins,Florida Panthers,5,1,1.0
+400962810,2018-03-31T18:00Z,Ottawa Senators at Detroit Red Wings,Detroit Red Wings,Ottawa Senators,2,0,1.0
+400962811,2018-03-31T20:00Z,Columbus Blue Jackets at Vancouver Canucks,Vancouver Canucks,Columbus Blue Jackets,5,4,1.0
+400962812,2018-03-31T23:00Z,Winnipeg Jets at Toronto Maple Leafs,Toronto Maple Leafs,Winnipeg Jets,1,3,0.0
+400962813,2018-03-31T23:00Z,New York Islanders at New Jersey Devils,New Jersey Devils,New York Islanders,4,3,1.0
+400962814,2018-03-31T23:00Z,Montreal Canadiens at Pittsburgh Penguins,Pittsburgh Penguins,Montreal Canadiens,5,2,1.0
+400962815,2018-03-31T23:00Z,New York Rangers at Carolina Hurricanes,Carolina Hurricanes,New York Rangers,1,2,0.0
+400962816,2018-04-01T00:00Z,Buffalo Sabres at Nashville Predators,Nashville Predators,Buffalo Sabres,4,7,0.0
+400962817,2018-04-01T00:00Z,Minnesota Wild at Dallas Stars,Dallas Stars,Minnesota Wild,4,1,1.0
+400962818,2018-04-01T01:00Z,St. Louis Blues at Arizona Coyotes,Arizona Coyotes,St. Louis Blues,6,0,1.0
+400962819,2018-04-01T02:00Z,Edmonton Oilers at Calgary Flames,Calgary Flames,Edmonton Oilers,3,2,1.0
+400962820,2018-04-01T02:30Z,San Jose Sharks at Vegas Golden Knights,Vegas Golden Knights,San Jose Sharks,3,2,1.0

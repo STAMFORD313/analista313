@@ -1,0 +1,603 @@
+id,date,event,home,away,hs,as,res
+142607,2024-01-28T09:30Z,Open Occitanie,Luca Nardi,Daniel Rincon,,,0.0
+142612,2024-01-28T09:30Z,Open Occitanie,Hugo Grenier,Antoine Escoffier,,,0.0
+142611,2024-01-28T11:00Z,Open Occitanie,Francesco Maestrelli,Calvin Hemery,,,0.0
+142610,2024-01-28T11:00Z,Open Occitanie,Matteo Gigante,Pablo Llamas Ruiz,,,0.0
+142614,2024-01-28T12:30Z,Open Occitanie,Titouan Droguet,Clement Chidekh,,,1.0
+142613,2024-01-28T12:30Z,Open Occitanie,Ugo Blanchet,Jesper de Jong,,,1.0
+142608,2024-01-28T14:00Z,Open Occitanie,Matteo Martineau,Dalibor Svrcina,,,0.0
+142609,2024-01-28T14:00Z,Open Occitanie,Giulio Zeppieri,Oriol Roca Batalla,,,1.0
+142618,2024-01-29T11:00Z,Open Occitanie,Daniel Rincon,Antoine Escoffier,,,0.0
+142617,2024-01-29T11:00Z,Open Occitanie,Calvin Hemery,Pablo Llamas Ruiz,,,0.0
+142616,2024-01-29T12:30Z,Open Occitanie,Titouan Droguet,Ugo Blanchet,,,0.0
+142615,2024-01-29T12:30Z,Open Occitanie,Giulio Zeppieri,Dalibor Svrcina,,,0.0
+140811,2024-01-29T16:10Z,Open Occitanie,Benjamin Bonzi,Michael Mmoh,,,0.0
+140802,2024-01-29T18:10Z,Open Occitanie,Andy Murray,Benoit Paire,,,0.0
+140785,2024-01-29T21:10Z,Open Occitanie,Jaume Munar,Pedro Martinez,,,0.0
+140812,2024-01-30T11:40Z,Open Occitanie,Antoine Escoffier,Alexandre Muller,,,0.0
+140799,2024-01-30T13:35Z,Open Occitanie,Ugo Blanchet,Gregoire Barrere,,,0.0
+140803,2024-01-30T13:40Z,Open Occitanie,Harold Mayot,Lucas Pouille,,,1.0
+140800,2024-01-30T16:00Z,Open Occitanie,Hugo Gaston,Denis Shapovalov,,,0.0
+140804,2024-01-30T18:10Z,Open Occitanie,Maximilian Marterer,Arthur Cazaux,,,0.0
+140810,2024-01-30T19:50Z,Open Occitanie,Pablo Llamas Ruiz,Richard Gasquet,,,1.0
+140787,2024-01-31T11:40Z,Open Occitanie,Aleksandr Shevchenko,Dalibor Svrcina,,,1.0
+140798,2024-01-31T13:40Z,Open Occitanie,Michael Mmoh,Alexandre Muller,,,1.0
+140806,2024-01-31T14:45Z,Open Occitanie,Bernabe Zapata Miralles,Constant Lestienne,,,0.0
+140807,2024-01-31T15:35Z,Open Occitanie,Flavio Cobolli,Gael Monfils,,,1.0
+140794,2024-01-31T18:30Z,Open Occitanie,Benoit Paire,Harold Mayot,,,0.0
+140789,2024-01-31T20:00Z,Open Occitanie,Denis Shapovalov,Alexander Bublik,,,0.0
+140796,2024-02-01T11:40Z,Open Occitanie,Aleksandr Shevchenko,Gregoire Barrere,,,1.0
+140808,2024-02-01T13:40Z,Open Occitanie,Borna Coric,Pedro Martinez,,,1.0
+140793,2024-02-01T15:30Z,Open Occitanie,Constant Lestienne,Flavio Cobolli,,,0.0
+140795,2024-02-01T18:10Z,Open Occitanie,Arthur Cazaux,Felix Auger-Aliassime,,,0.0
+140797,2024-02-01T21:15Z,Open Occitanie,Holger Rune,Pablo Llamas Ruiz,,,1.0
+140788,2024-02-02T13:40Z,Open Occitanie,Aleksandr Shevchenko,Alexander Bublik,,,0.0
+140792,2024-02-02T16:05Z,Open Occitanie,Harold Mayot,Felix Auger-Aliassime,,,0.0
+140790,2024-02-02T18:10Z,Open Occitanie,Holger Rune,Michael Mmoh,,,1.0
+140791,2024-02-02T20:30Z,Open Occitanie,Borna Coric,Flavio Cobolli,,,1.0
+140814,2024-02-03T14:10Z,Open Occitanie,Felix Auger-Aliassime,Alexander Bublik,,,0.0
+140813,2024-02-03T17:05Z,Open Occitanie,Holger Rune,Borna Coric,,,0.0
+140815,2024-02-04T14:10Z,Open Occitanie,Borna Coric,Alexander Bublik,,,0.0
+143410,2024-02-03T14:00Z,Cordoba Open,Nicolas Kicker,Marco Cecchinato,,,0.0
+143411,2024-02-03T14:00Z,Cordoba Open,Roman Andres Burruchaga,Hernan Casanova,,,1.0
+143413,2024-02-03T15:00Z,Cordoba Open,Corentin Moutet,Federico Agustin Gomez,,,0.0
+143412,2024-02-03T15:30Z,Cordoba Open,Renzo Olivo,Genaro Alberto Olivieri,,,1.0
+143415,2024-02-03T15:30Z,Cordoba Open,Luciano Darderi,Alessandro Giannessi,,,1.0
+143409,2024-02-03T16:30Z,Cordoba Open,Thiago Agustin Tirante,Alex Barrena,,,1.0
+143416,2024-02-03T17:00Z,Cordoba Open,Facundo Bagnis,Santiago Rodriguez Taverna,,,1.0
+143414,2024-02-03T18:30Z,Cordoba Open,Andrea Collarini,Ivan Gakhov,,,1.0
+143420,2024-02-04T17:00Z,Cordoba Open,Roman Andres Burruchaga,Marco Cecchinato,,,1.0
+143417,2024-02-04T17:00Z,Cordoba Open,Federico Agustin Gomez,Renzo Olivo,,,1.0
+143419,2024-02-04T18:30Z,Cordoba Open,Thiago Agustin Tirante,Facundo Bagnis,,,0.0
+143418,2024-02-04T18:30Z,Cordoba Open,Luciano Darderi,Andrea Collarini,,,1.0
+141343,2024-02-05T17:10Z,Cordoba Open,Daniel Elahi Galan,Jaume Munar,,,0.0
+141322,2024-02-05T19:10Z,Cordoba Open,Facundo Bagnis,Juan Manuel Cerundolo,,,1.0
+141344,2024-02-05T21:10Z,Cordoba Open,Hugo Dellien,Thiago Seyboth Wild,,,1.0
+141319,2024-02-05T21:40Z,Cordoba Open,Albert Ramos-Vinolas,Pedro Cachin,,,1.0
+141330,2024-02-06T00:10Z,Cordoba Open,Facundo Diaz Acosta,Federico Agustin Gomez,,,1.0
+141325,2024-02-06T17:05Z,Cordoba Open,Federico Coria,Daniel Altmaier,,,1.0
+141347,2024-02-06T19:10Z,Cordoba Open,Luciano Darderi,Tomas Barrios Vera,,,1.0
+141321,2024-02-06T20:15Z,Cordoba Open,Mariano Navone,Roberto Carballes Baena,,,0.0
+141323,2024-02-06T21:20Z,Cordoba Open,Bernabe Zapata Miralles,Cristian Garin,,,1.0
+141346,2024-02-06T23:25Z,Cordoba Open,Roman Andres Burruchaga,Diego Schwartzman,,,1.0
+141345,2024-02-06T23:45Z,Cordoba Open,Yannick Hanfmann,Juan Pablo Varillas,,,1.0
+141327,2024-02-07T02:05Z,Cordoba Open,Thiago Agustin Tirante,Francisco Comesana,,,1.0
+141328,2024-02-07T17:10Z,Cordoba Open,Albert Ramos-Vinolas,Federico Coria,,,0.0
+141336,2024-02-07T19:10Z,Cordoba Open,Facundo Bagnis,Roberto Carballes Baena,,,1.0
+141333,2024-02-07T22:10Z,Cordoba Open,Francisco Cerundolo,Jaume Munar,,,0.0
+141342,2024-02-08T00:20Z,Cordoba Open,Tomas Martin Etcheverry,Bernabe Zapata Miralles,,,1.0
+141341,2024-02-08T17:10Z,Cordoba Open,Luciano Darderi,Sebastian Ofner,,,1.0
+141340,2024-02-09T15:20Z,Cordoba Open,Yannick Hanfmann,Roman Andres Burruchaga,,,1.0
+141331,2024-02-09T16:20Z,Cordoba Open,Hugo Dellien,Sebastian Baez,,,0.0
+141329,2024-02-09T17:35Z,Cordoba Open,Thiago Agustin Tirante,Facundo Diaz Acosta,,,0.0
+141339,2024-02-09T18:55Z,Cordoba Open,Tomas Martin Etcheverry,Federico Coria,,,0.0
+141338,2024-02-09T21:00Z,Cordoba Open,Yannick Hanfmann,Luciano Darderi,,,0.0
+141337,2024-02-09T21:05Z,Cordoba Open,Jaume Munar,Facundo Bagnis,,,0.0
+141335,2024-02-09T23:50Z,Cordoba Open,Facundo Diaz Acosta,Sebastian Baez,,,0.0
+141380,2024-02-10T21:10Z,Cordoba Open,Facundo Bagnis,Federico Coria,,,1.0
+141381,2024-02-10T23:30Z,Cordoba Open,Luciano Darderi,Sebastian Baez,,,1.0
+141334,2024-02-11T22:10Z,Cordoba Open,Facundo Bagnis,Luciano Darderi,,,0.0
+143424,2024-02-04T10:00Z,Grand Prix Auvergne-Rhône-Alpes,Pierre-Hugues Herbert,Matteo Gigante,,,1.0
+143423,2024-02-04T10:00Z,Grand Prix Auvergne-Rhône-Alpes,Maxime Cressy,David Jorda Sanchis,,,1.0
+143422,2024-02-04T11:30Z,Grand Prix Auvergne-Rhône-Alpes,Martin Damm,Pablo Llamas Ruiz,,,1.0
+143427,2024-02-04T11:30Z,Grand Prix Auvergne-Rhône-Alpes,Hugo Gaston,Titouan Droguet,,,1.0
+143428,2024-02-04T13:00Z,Grand Prix Auvergne-Rhône-Alpes,Lucas Pouille,Harold Mayot,,,1.0
+143421,2024-02-04T13:00Z,Grand Prix Auvergne-Rhône-Alpes,David Goffin,Alejandro Moro Canas,,,1.0
+143425,2024-02-04T14:30Z,Grand Prix Auvergne-Rhône-Alpes,Calvin Hemery,Hugo Grenier,,,0.0
+143426,2024-02-04T14:30Z,Grand Prix Auvergne-Rhône-Alpes,Giulio Zeppieri,Nikolas Sanchez Izquierdo,,,1.0
+143432,2024-02-05T11:00Z,Grand Prix Auvergne-Rhône-Alpes,Hugo Gaston,Pierre-Hugues Herbert,,,1.0
+143430,2024-02-05T11:00Z,Grand Prix Auvergne-Rhône-Alpes,Maxime Cressy,Martin Damm,,,1.0
+143431,2024-02-05T12:30Z,Grand Prix Auvergne-Rhône-Alpes,Giulio Zeppieri,Hugo Grenier,,,0.0
+143429,2024-02-05T12:30Z,Grand Prix Auvergne-Rhône-Alpes,David Goffin,Lucas Pouille,,,1.0
+141274,2024-02-05T15:15Z,Grand Prix Auvergne-Rhône-Alpes,Maximilian Marterer,Lorenzo Musetti,,,0.0
+141279,2024-02-05T17:20Z,Grand Prix Auvergne-Rhône-Alpes,Roberto Bautista Agut,Richard Gasquet,,,1.0
+141270,2024-02-05T18:35Z,Grand Prix Auvergne-Rhône-Alpes,Benjamin Bonzi,Aleksandr Shevchenko,,,0.0
+141268,2024-02-06T12:40Z,Grand Prix Auvergne-Rhône-Alpes,Gregoire Barrere,Alejandro Davidovich Fokina,,,0.0
+141278,2024-02-06T12:40Z,Grand Prix Auvergne-Rhône-Alpes,Zhang Zhizhen,Giulio Zeppieri,,,1.0
+141272,2024-02-06T15:00Z,Grand Prix Auvergne-Rhône-Alpes,Tomas Machac,Andy Murray,,,1.0
+141273,2024-02-06T15:00Z,Grand Prix Auvergne-Rhône-Alpes,Maxime Cressy,Arthur Rinderknech,,,0.0
+141266,2024-02-06T17:05Z,Grand Prix Auvergne-Rhône-Alpes,Hugo Gaston,Denis Shapovalov,,,1.0
+141275,2024-02-06T19:20Z,Grand Prix Auvergne-Rhône-Alpes,Sebastian Korda,Hugo Grenier,,,1.0
+141271,2024-02-06T20:25Z,Grand Prix Auvergne-Rhône-Alpes,Jiri Lehecka,David Goffin,,,1.0
+142622,2024-02-07T12:10Z,Grand Prix Auvergne-Rhône-Alpes,Tomas Machac,Lorenzo Musetti,,,1.0
+141267,2024-02-07T12:40Z,Grand Prix Auvergne-Rhône-Alpes,Emil Ruusuvuori,Luca Van Assche,,,1.0
+141269,2024-02-07T14:30Z,Grand Prix Auvergne-Rhône-Alpes,Felix Auger-Aliassime,Quentin Halys,,,1.0
+142621,2024-02-07T17:10Z,Grand Prix Auvergne-Rhône-Alpes,Roberto Bautista Agut,Karen Khachanov,,,0.0
+142628,2024-02-07T18:40Z,Grand Prix Auvergne-Rhône-Alpes,Ugo Humbert,Hugo Gaston,,,1.0
+142627,2024-02-08T12:05Z,Grand Prix Auvergne-Rhône-Alpes,Emil Ruusuvuori,Alejandro Davidovich Fokina,,,0.0
+142626,2024-02-08T12:40Z,Grand Prix Auvergne-Rhône-Alpes,Felix Auger-Aliassime,Zhang Zhizhen,,,0.0
+142624,2024-02-08T14:25Z,Grand Prix Auvergne-Rhône-Alpes,Sebastian Korda,Grigor Dimitrov,,,0.0
+142623,2024-02-08T17:10Z,Grand Prix Auvergne-Rhône-Alpes,Hubert Hurkacz,Aleksandr Shevchenko,,,1.0
+142625,2024-02-08T18:30Z,Grand Prix Auvergne-Rhône-Alpes,Jiri Lehecka,Arthur Rinderknech,,,0.0
+141283,2024-02-09T13:40Z,Grand Prix Auvergne-Rhône-Alpes,Ugo Humbert,Alejandro Davidovich Fokina,,,1.0
+141282,2024-02-09T15:05Z,Grand Prix Auvergne-Rhône-Alpes,Hubert Hurkacz,Tomas Machac,,,1.0
+141284,2024-02-09T17:10Z,Grand Prix Auvergne-Rhône-Alpes,Zhang Zhizhen,Karen Khachanov,,,0.0
+141285,2024-02-09T18:30Z,Grand Prix Auvergne-Rhône-Alpes,Arthur Rinderknech,Grigor Dimitrov,,,0.0
+141286,2024-02-10T15:40Z,Grand Prix Auvergne-Rhône-Alpes,Hubert Hurkacz,Ugo Humbert,,,0.0
+141287,2024-02-10T17:20Z,Grand Prix Auvergne-Rhône-Alpes,Karen Khachanov,Grigor Dimitrov,,,0.0
+141288,2024-02-11T14:30Z,Grand Prix Auvergne-Rhône-Alpes,Ugo Humbert,Grigor Dimitrov,,,1.0
+143438,2024-02-04T17:00Z,Nexo Dallas Open,Timo Stodder,Steve Johnson,,,0.0
+143439,2024-02-04T17:00Z,Nexo Dallas Open,Brandon Holt,Illya Marchenko,,,0.0
+143433,2024-02-04T18:30Z,Nexo Dallas Open,Terence Atmane,Thai-Son Kwiatkowski,,,1.0
+143440,2024-02-04T18:30Z,Nexo Dallas Open,Sho Shimabukuro,Tennys Sandgren,,,0.0
+143435,2024-02-04T20:00Z,Nexo Dallas Open,Nicolas Moreno De Alboran,Trevor Svajda,,,1.0
+143436,2024-02-04T20:00Z,Nexo Dallas Open,Juan Pablo Ficovich,Marco Trungelliti,,,0.0
+143434,2024-02-04T21:30Z,Nexo Dallas Open,Jerry Barton,Denis Kudla,,,0.0
+143437,2024-02-04T21:30Z,Nexo Dallas Open,Emilio Nava,Aidan Mayo,,,1.0
+143441,2024-02-05T18:00Z,Nexo Dallas Open,Tennys Sandgren,Illya Marchenko,,,1.0
+143444,2024-02-05T18:00Z,Nexo Dallas Open,Terence Atmane,Steve Johnson,,,0.0
+143442,2024-02-05T19:30Z,Nexo Dallas Open,Nicolas Moreno De Alboran,Denis Kudla,,,1.0
+143443,2024-02-05T19:30Z,Nexo Dallas Open,Emilio Nava,Marco Trungelliti,,,1.0
+141241,2024-02-05T22:50Z,Nexo Dallas Open,Taro Daniel,Constant Lestienne,,,1.0
+141237,2024-02-06T01:25Z,Nexo Dallas Open,Mitchell Krueger,Max Purcell,,,0.0
+141238,2024-02-06T18:10Z,Nexo Dallas Open,James Duckworth,Zachary Svajda,,,1.0
+141253,2024-02-06T18:10Z,Nexo Dallas Open,Tennys Sandgren,Alex Michelsen,,,0.0
+141240,2024-02-06T19:40Z,Nexo Dallas Open,Nicolas Moreno De Alboran,Marcos Giron,,,0.0
+141239,2024-02-06T20:20Z,Nexo Dallas Open,Steve Johnson,Christopher Eubanks,,,0.0
+141257,2024-02-06T21:50Z,Nexo Dallas Open,Emilio Nava,Michael Mmoh,,,0.0
+141260,2024-02-06T22:30Z,Nexo Dallas Open,Terence Atmane,Yoshihito Nishioka,,,0.0
+141254,2024-02-07T01:05Z,Nexo Dallas Open,Jordan Thompson,Adam Neff,,,1.0
+141247,2024-02-07T02:45Z,Nexo Dallas Open,Dominik Koepfer,Aleksandar Kovacevic,,,1.0
+141242,2024-02-07T18:10Z,Nexo Dallas Open,Marcos Giron,Max Purcell,,,1.0
+141255,2024-02-07T18:10Z,Nexo Dallas Open,Denis Kudla,Radu Albot,,,1.0
+141248,2024-02-07T19:55Z,Nexo Dallas Open,James Duckworth,Christopher Eubanks,,,1.0
+141249,2024-02-07T20:15Z,Nexo Dallas Open,Ethan Quinn,Rinky Hijikata,,,0.0
+141243,2024-02-08T01:10Z,Nexo Dallas Open,Michael Mmoh,Ben Shelton,,,0.0
+141263,2024-02-08T02:35Z,Nexo Dallas Open,Taro Daniel,Tommy Paul,,,0.0
+141246,2024-02-08T18:10Z,Nexo Dallas Open,Dominik Koepfer,Rinky Hijikata,,,1.0
+141250,2024-02-08T20:00Z,Nexo Dallas Open,Jordan Thompson,Denis Kudla,,,1.0
+141256,2024-02-09T01:10Z,Nexo Dallas Open,Frances Tiafoe,Alex Michelsen,,,1.0
+141252,2024-02-09T02:40Z,Nexo Dallas Open,Adrian Mannarino,Yoshihito Nishioka,,,1.0
+141261,2024-02-09T20:10Z,Nexo Dallas Open,Dominik Koepfer,Tommy Paul,,,0.0
+141259,2024-02-09T21:50Z,Nexo Dallas Open,Jordan Thompson,Ben Shelton,,,0.0
+141264,2024-02-10T01:10Z,Nexo Dallas Open,Frances Tiafoe,Marcos Giron,,,0.0
+141265,2024-02-10T02:35Z,Nexo Dallas Open,Adrian Mannarino,James Duckworth,,,1.0
+142620,2024-02-10T20:10Z,Nexo Dallas Open,Ben Shelton,Tommy Paul,,,0.0
+142619,2024-02-10T23:10Z,Nexo Dallas Open,Marcos Giron,Adrian Mannarino,,,1.0
+141262,2024-02-11T19:10Z,Nexo Dallas Open,Marcos Giron,Tommy Paul,,,0.0
+143494,2024-02-10T10:00Z,ABN Amro Open,Jurij Rodionov,Zizou Bergs,,,0.0
+143495,2024-02-10T10:00Z,ABN Amro Open,Giulio Zeppieri,Roberto Bautista Agut,,,1.0
+143492,2024-02-10T11:30Z,ABN Amro Open,Hugo Gaston,Thijs Boogaard,,,1.0
+143493,2024-02-10T11:30Z,ABN Amro Open,Denis Shapovalov,Maximilian Marterer,,,1.0
+143497,2024-02-10T13:00Z,ABN Amro Open,David Goffin,Gregoire Barrere,,,1.0
+143498,2024-02-10T13:00Z,ABN Amro Open,Luca Van Assche,Gijs Brouwer,,,0.0
+143496,2024-02-10T14:30Z,ABN Amro Open,Pablo Llamas Ruiz,Guy Den Ouden,,,1.0
+143491,2024-02-10T15:00Z,ABN Amro Open,Maxime Cressy,Arthur Rinderknech,,,1.0
+143502,2024-02-11T10:00Z,ABN Amro Open,Zizou Bergs,Giulio Zeppieri,,,1.0
+143501,2024-02-11T10:00Z,ABN Amro Open,Hugo Gaston,Denis Shapovalov,,,0.0
+143499,2024-02-11T11:30Z,ABN Amro Open,Gijs Brouwer,David Goffin,,,0.0
+143500,2024-02-11T11:30Z,ABN Amro Open,Pablo Llamas Ruiz,Maxime Cressy,,,0.0
+141389,2024-02-12T12:10Z,ABN Amro Open,Dino Prizmic,David Goffin,,,0.0
+141398,2024-02-12T15:25Z,ABN Amro Open,Milos Raonic,Jesper de Jong,,,1.0
+141384,2024-02-12T18:40Z,ABN Amro Open,Tallon Griekspoor,Lorenzo Musetti,,,1.0
+141390,2024-02-12T21:55Z,ABN Amro Open,Maxime Cressy,Felix Auger-Aliassime,,,0.0
+141400,2024-02-13T10:15Z,ABN Amro Open,Borna Coric,Alexander Bublik,,,0.0
+141382,2024-02-13T12:20Z,ABN Amro Open,Zhang Zhizhen,Aleksandr Shevchenko,,,0.0
+141393,2024-02-13T14:25Z,ABN Amro Open,Fabian Marozsan,Marton Fucsovics,,,0.0
+141388,2024-02-13T14:40Z,ABN Amro Open,Alex de Minaur,Sebastian Korda,,,1.0
+141386,2024-02-13T18:10Z,ABN Amro Open,Alejandro Davidovich Fokina,Jan-Lennard Struff,,,0.0
+141391,2024-02-13T18:40Z,ABN Amro Open,Zizou Bergs,Andrey Rublev,,,0.0
+141402,2024-02-13T20:25Z,ABN Amro Open,Hubert Hurkacz,Jiri Lehecka,,,1.0
+141383,2024-02-14T10:10Z,ABN Amro Open,Denis Shapovalov,Gael Monfils,,,0.0
+141387,2024-02-14T10:10Z,ABN Amro Open,Emil Ruusuvuori,Ugo Humbert,,,1.0
+141392,2024-02-14T12:10Z,ABN Amro Open,Grigor Dimitrov,Lorenzo Sonego,,,1.0
+141396,2024-02-14T12:50Z,ABN Amro Open,Milos Raonic,Alexander Bublik,,,1.0
+141394,2024-02-14T14:05Z,ABN Amro Open,Roman Safiullin,Holger Rune,,,0.0
+141408,2024-02-14T18:15Z,ABN Amro Open,Alex de Minaur,David Goffin,,,1.0
+141407,2024-02-14T18:40Z,ABN Amro Open,Jannik Sinner,Botic Van De Zandschulp,,,1.0
+141397,2024-02-14T20:30Z,ABN Amro Open,Felix Auger-Aliassime,Andrey Rublev,,,0.0
+141405,2024-02-15T10:10Z,ABN Amro Open,Grigor Dimitrov,Marton Fucsovics,,,1.0
+141406,2024-02-15T12:10Z,ABN Amro Open,Aleksandr Shevchenko,Holger Rune,,,1.0
+141409,2024-02-15T14:05Z,ABN Amro Open,Hubert Hurkacz,Tallon Griekspoor,,,0.0
+141395,2024-02-15T18:40Z,ABN Amro Open,Jannik Sinner,Gael Monfils,,,1.0
+141404,2024-02-15T20:55Z,ABN Amro Open,Jan-Lennard Struff,Emil Ruusuvuori,,,0.0
+141403,2024-02-16T12:10Z,ABN Amro Open,Grigor Dimitrov,Aleksandr Shevchenko,,,1.0
+141385,2024-02-16T14:30Z,ABN Amro Open,Alex de Minaur,Andrey Rublev,,,1.0
+141401,2024-02-16T18:40Z,ABN Amro Open,Tallon Griekspoor,Emil Ruusuvuori,,,1.0
+141399,2024-02-16T20:45Z,ABN Amro Open,Jannik Sinner,Milos Raonic,,,1.0
+141412,2024-02-17T14:10Z,ABN Amro Open,Grigor Dimitrov,Alex de Minaur,,,0.0
+141411,2024-02-17T18:40Z,ABN Amro Open,Jannik Sinner,Tallon Griekspoor,,,1.0
+141410,2024-02-18T14:45Z,ABN Amro Open,Jannik Sinner,Alex de Minaur,,,1.0
+143503,2024-02-10T15:00Z,Delray Beach Open,Flavio Cobolli,Illya Marchenko,,,1.0
+143504,2024-02-10T16:30Z,Delray Beach Open,Sho Shimabukuro,Nicolas Moreno De Alboran,,,0.0
+143509,2024-02-10T17:30Z,Delray Beach Open,Gabriel Diallo,Valentin Vacherot,,,1.0
+143510,2024-02-10T19:00Z,Delray Beach Open,Ethan Quinn,Zachary Svajda,,,0.0
+143507,2024-02-10T21:00Z,Delray Beach Open,Radu Albot,August Holmgren,,,1.0
+143508,2024-02-10T22:30Z,Delray Beach Open,Preston Brown,Terence Atmane,,,0.0
+143505,2024-02-11T15:00Z,Delray Beach Open,Thanasi Kokkinakis,Brandon Holt,,,1.0
+143506,2024-02-11T15:00Z,Delray Beach Open,Stefan Kozlov,Shintaro Mochizuki,,,0.0
+143526,2024-02-11T16:30Z,Delray Beach Open,Flavio Cobolli,Nicolas Moreno De Alboran,,,0.0
+143525,2024-02-11T17:00Z,Delray Beach Open,Gabriel Diallo,Zachary Svajda,,,0.0
+143523,2024-02-11T20:15Z,Delray Beach Open,Radu Albot,Terence Atmane,,,1.0
+143524,2024-02-12T16:00Z,Delray Beach Open,Thanasi Kokkinakis,Shintaro Mochizuki,,,1.0
+141499,2024-02-12T18:10Z,Delray Beach Open,Constant Lestienne,Aleksandar Vukic,,,1.0
+141498,2024-02-12T19:55Z,Delray Beach Open,Yoshihito Nishioka,Matteo Arnaldi,,,0.0
+141413,2024-02-12T23:10Z,Delray Beach Open,Gabriel Diallo,Nuno Borges,,,0.0
+141505,2024-02-13T01:20Z,Delray Beach Open,Patrick Kypson,Miomir Kecmanovic,,,1.0
+141504,2024-02-13T16:10Z,Delray Beach Open,Rinky Hijikata,Liam Broady,,,1.0
+141422,2024-02-13T18:10Z,Delray Beach Open,Daniel Evans,Jordan Thompson,,,0.0
+141503,2024-02-13T18:30Z,Delray Beach Open,Max Purcell,Zachary Svajda,,,0.0
+141508,2024-02-13T20:00Z,Delray Beach Open,Aleksandar Kovacevic,Nicolas Moreno De Alboran,,,0.0
+141418,2024-02-13T20:20Z,Delray Beach Open,Flavio Cobolli,Taro Daniel,,,1.0
+141419,2024-02-13T22:55Z,Delray Beach Open,Radu Albot,Shang Juncheng,,,1.0
+141414,2024-02-13T23:10Z,Delray Beach Open,Marcos Giron,Emilio Nava,,,1.0
+141415,2024-02-14T01:10Z,Delray Beach Open,Alex Michelsen,Thanasi Kokkinakis,,,1.0
+141507,2024-02-14T18:10Z,Delray Beach Open,Constant Lestienne,Patrick Kypson,,,0.0
+141423,2024-02-14T20:00Z,Delray Beach Open,Rinky Hijikata,Matteo Arnaldi,,,1.0
+141506,2024-02-14T23:10Z,Delray Beach Open,Adrian Mannarino,Marcos Giron,,,0.0
+141425,2024-02-15T01:30Z,Delray Beach Open,Taylor Fritz,Nuno Borges,,,1.0
+141509,2024-02-15T18:10Z,Delray Beach Open,Jordan Thompson,Nicolas Moreno De Alboran,,,1.0
+141421,2024-02-15T20:05Z,Delray Beach Open,Alex Michelsen,Tommy Paul,,,0.0
+141502,2024-02-15T23:35Z,Delray Beach Open,Zachary Svajda,Flavio Cobolli,,,0.0
+141424,2024-02-16T02:05Z,Delray Beach Open,Radu Albot,Frances Tiafoe,,,0.0
+141417,2024-02-16T18:10Z,Delray Beach Open,Jordan Thompson,Tommy Paul,,,0.0
+141512,2024-02-16T20:40Z,Delray Beach Open,Flavio Cobolli,Frances Tiafoe,,,0.0
+141426,2024-02-16T23:10Z,Delray Beach Open,Marcos Giron,Patrick Kypson,,,1.0
+141420,2024-02-17T01:10Z,Delray Beach Open,Taylor Fritz,Rinky Hijikata,,,1.0
+141513,2024-02-17T20:15Z,Delray Beach Open,Tommy Paul,Frances Tiafoe,,,1.0
+141510,2024-02-18T01:20Z,Delray Beach Open,Taylor Fritz,Marcos Giron,,,1.0
+141511,2024-02-19T17:40Z,Delray Beach Open,Taylor Fritz,Tommy Paul,,,1.0
+143515,2024-02-10T15:00Z,IEB+ Argentina Open,Daniel Elahi Galan,Alex Molcan,,,1.0
+143516,2024-02-10T15:00Z,IEB+ Argentina Open,Francisco Comesana,Tomas Barrios Vera,,,1.0
+143511,2024-02-10T16:30Z,IEB+ Argentina Open,Corentin Moutet,Mariano Navone,,,0.0
+143512,2024-02-10T16:30Z,IEB+ Argentina Open,Albert Ramos-Vinolas,Felipe Meligeni Alves,,,0.0
+143513,2024-02-10T18:00Z,IEB+ Argentina Open,Andrea Pellegrino,Andrea Vavassori,,,0.0
+143514,2024-02-10T18:00Z,IEB+ Argentina Open,Juan Manuel Cerundolo,Thiago Monteiro,,,0.0
+143518,2024-02-10T19:30Z,IEB+ Argentina Open,Roman Andres Burruchaga,Hugo Dellien,,,0.0
+143517,2024-02-10T20:00Z,IEB+ Argentina Open,Jaume Munar,Camilo Ugo Carabelli,,,0.0
+143520,2024-02-11T16:00Z,IEB+ Argentina Open,Daniel Elahi Galan,Francisco Comesana,,,1.0
+143521,2024-02-11T17:30Z,IEB+ Argentina Open,Felipe Meligeni Alves,Mariano Navone,,,0.0
+143522,2024-02-11T18:30Z,IEB+ Argentina Open,Andrea Vavassori,Thiago Monteiro,,,1.0
+143519,2024-02-11T19:00Z,IEB+ Argentina Open,Camilo Ugo Carabelli,Hugo Dellien,,,1.0
+141544,2024-02-12T17:15Z,IEB+ Argentina Open,Facundo Diaz Acosta,Daniel Altmaier,,,1.0
+141558,2024-02-12T19:45Z,IEB+ Argentina Open,Marin Cilic,Laslo Djere,,,0.0
+141547,2024-02-12T22:20Z,IEB+ Argentina Open,Stan Wawrinka,Pedro Cachin,,,1.0
+141551,2024-02-13T00:55Z,IEB+ Argentina Open,Roberto Carballes Baena,Tomas Martin Etcheverry,,,0.0
+141543,2024-02-13T16:30Z,IEB+ Argentina Open,Yannick Hanfmann,Alejandro Tabilo,,,0.0
+141540,2024-02-13T16:40Z,IEB+ Argentina Open,Sebastian Ofner,Federico Coria,,,0.0
+141556,2024-02-13T17:40Z,IEB+ Argentina Open,Andrea Vavassori,Thiago Seyboth Wild,,,1.0
+141554,2024-02-13T18:20Z,IEB+ Argentina Open,Juan Pablo Varillas,Camilo Ugo Carabelli,,,0.0
+141549,2024-02-13T20:00Z,IEB+ Argentina Open,Diego Schwartzman,Daniel Elahi Galan,,,0.0
+141539,2024-02-13T20:55Z,IEB+ Argentina Open,Luciano Darderi,Mariano Navone,,,1.0
+141542,2024-02-13T22:50Z,IEB+ Argentina Open,Arthur Fils,Dusan Lajovic,,,0.0
+141538,2024-02-14T00:35Z,IEB+ Argentina Open,Sebastian Baez,Bernabe Zapata Miralles,,,1.0
+141530,2024-02-14T16:40Z,IEB+ Argentina Open,Daniel Elahi Galan,Tomas Martin Etcheverry,,,0.0
+141531,2024-02-14T18:40Z,IEB+ Argentina Open,Dusan Lajovic,Alejandro Tabilo,,,1.0
+141541,2024-02-14T21:40Z,IEB+ Argentina Open,Facundo Diaz Acosta,Francisco Cerundolo,,,1.0
+141536,2024-02-14T23:35Z,IEB+ Argentina Open,Nicolas Jarry,Stan Wawrinka,,,1.0
+141535,2024-02-15T16:30Z,IEB+ Argentina Open,Andrea Vavassori,Laslo Djere,,,1.0
+141555,2024-02-15T18:30Z,IEB+ Argentina Open,Federico Coria,Cameron Norrie,,,1.0
+141534,2024-02-15T21:35Z,IEB+ Argentina Open,Carlos Alcaraz,Camilo Ugo Carabelli,,,1.0
+141553,2024-02-15T23:45Z,IEB+ Argentina Open,Sebastian Baez,Luciano Darderi,,,1.0
+141546,2024-02-16T16:40Z,IEB+ Argentina Open,Dusan Lajovic,Facundo Diaz Acosta,,,0.0
+141548,2024-02-16T18:40Z,IEB+ Argentina Open,Sebastian Baez,Federico Coria,,,0.0
+141557,2024-02-16T21:40Z,IEB+ Argentina Open,Carlos Alcaraz,Andrea Vavassori,,,1.0
+141559,2024-02-16T23:40Z,IEB+ Argentina Open,Nicolas Jarry,Tomas Martin Etcheverry,,,1.0
+141552,2024-02-17T19:10Z,IEB+ Argentina Open,Facundo Diaz Acosta,Federico Coria,,,1.0
+141550,2024-02-17T21:10Z,IEB+ Argentina Open,Carlos Alcaraz,Nicolas Jarry,,,0.0
+141560,2024-02-18T19:10Z,IEB+ Argentina Open,Nicolas Jarry,Facundo Diaz Acosta,,,0.0
+143530,2024-02-16T06:05Z,Dubai Duty Free Tennis Championships,Elisabetta Cocciaretto,Zeynep Sonmez,,,1.0
+143531,2024-02-16T06:05Z,Dubai Duty Free Tennis Championships,Laura Siegemund,Bernarda Pera,,,0.0
+143540,2024-02-16T06:05Z,Dubai Duty Free Tennis Championships,Anna Kalinskaya,Rebeka Masarova,,,1.0
+143541,2024-02-16T06:05Z,Dubai Duty Free Tennis Championships,Alycia Parks,Kamilla Rakhimova,,,0.0
+143533,2024-02-16T07:20Z,Dubai Duty Free Tennis Championships,Nao Hibino,Greet Minnen,,,1.0
+143537,2024-02-16T07:55Z,Dubai Duty Free Tennis Championships,Clara Burel,Aliaksandra Sasnovich,,,1.0
+143538,2024-02-16T07:55Z,Dubai Duty Free Tennis Championships,Eva Lys,Jaqueline Cristian,,,1.0
+143539,2024-02-16T08:45Z,Dubai Duty Free Tennis Championships,Magdalena Frech,Arina Rodionova,,,1.0
+143527,2024-02-16T08:50Z,Dubai Duty Free Tennis Championships,Wang Xiyu,Erika Andreeva,,,1.0
+143529,2024-02-16T10:35Z,Dubai Duty Free Tennis Championships,Coumba Ben Niangadou,Yulia Putintseva,,,0.0
+143532,2024-02-16T10:35Z,Dubai Duty Free Tennis Championships,Lucia Bronzetti,Tereza Martincova,,,1.0
+143534,2024-02-16T11:00Z,Dubai Duty Free Tennis Championships,Martina Trevisan,Storm Hunter,,,0.0
+143535,2024-02-16T11:05Z,Dubai Duty Free Tennis Championships,Celine Simunyu,Cristina Bucsa,,,0.0
+143528,2024-02-16T11:40Z,Dubai Duty Free Tennis Championships,Sara Errani,Ipek Oz,,,1.0
+143536,2024-02-16T12:05Z,Dubai Duty Free Tennis Championships,Ankita Raina,Viktoriya Tomova,,,0.0
+143542,2024-02-16T12:40Z,Dubai Duty Free Tennis Championships,Timea Babos,Maria Timofeeva,,,1.0
+143543,2024-02-17T06:05Z,Dubai Duty Free Tennis Championships,Elisabetta Cocciaretto,Bernarda Pera,,,0.0
+143544,2024-02-17T06:05Z,Dubai Duty Free Tennis Championships,Anna Kalinskaya,Kamilla Rakhimova,,,1.0
+143546,2024-02-17T06:05Z,Dubai Duty Free Tennis Championships,Clara Burel,Eva Lys,,,1.0
+143547,2024-02-17T07:30Z,Dubai Duty Free Tennis Championships,Storm Hunter,Cristina Bucsa,,,1.0
+143548,2024-02-17T07:30Z,Dubai Duty Free Tennis Championships,Magdalena Frech,Yulia Putintseva,,,1.0
+143549,2024-02-17T08:35Z,Dubai Duty Free Tennis Championships,Lucia Bronzetti,Nao Hibino,,,0.0
+143550,2024-02-17T09:40Z,Dubai Duty Free Tennis Championships,Wang Xiyu,Sara Errani,,,1.0
+143545,2024-02-17T10:10Z,Dubai Duty Free Tennis Championships,Timea Babos,Viktoriya Tomova,,,0.0
+141458,2024-02-18T07:05Z,Dubai Duty Free Tennis Championships,Varvara Gracheva,Tatjana Maria,,,0.0
+141526,2024-02-18T07:05Z,Dubai Duty Free Tennis Championships,Ekaterina Alexandrova,Magdalena Frech,,,0.0
+141527,2024-02-18T07:05Z,Dubai Duty Free Tennis Championships,Mirra Andreeva,Peyton Stearns,,,0.0
+141461,2024-02-18T08:30Z,Dubai Duty Free Tennis Championships,Nao Hibino,Magda Linette,,,1.0
+141473,2024-02-18T09:00Z,Dubai Duty Free Tennis Championships,Wang Xinyu,Donna Vekic,,,0.0
+141524,2024-02-18T09:20Z,Dubai Duty Free Tennis Championships,Katerina Siniakova,Emma Navarro,,,0.0
+141514,2024-02-18T10:45Z,Dubai Duty Free Tennis Championships,Anna Kalinskaya,Storm Hunter,,,1.0
+141525,2024-02-18T12:10Z,Dubai Duty Free Tennis Championships,Jasmine Paolini,Beatriz Haddad Maia,,,1.0
+141522,2024-02-18T12:15Z,Dubai Duty Free Tennis Championships,Sloane Stephens,Clara Burel,,,1.0
+141519,2024-02-18T14:30Z,Dubai Duty Free Tennis Championships,Elise Mertens,Elisabetta Cocciaretto,,,0.0
+141464,2024-02-18T15:00Z,Dubai Duty Free Tennis Championships,Ashlyn Krueger,Caroline Garcia,,,1.0
+141518,2024-02-18T17:25Z,Dubai Duty Free Tennis Championships,Sofia Kenin,Sorana Cirstea,,,0.0
+141463,2024-02-19T07:10Z,Dubai Duty Free Tennis Championships,Leylah Fernandez,Bernarda Pera,,,1.0
+141468,2024-02-19T07:10Z,Dubai Duty Free Tennis Championships,Arantxa Rus,Victoria Azarenka,,,0.0
+141469,2024-02-19T07:10Z,Dubai Duty Free Tennis Championships,Petra Martic,Caroline Dolehide,,,1.0
+141515,2024-02-19T08:45Z,Dubai Duty Free Tennis Championships,Karolina Pliskova,Zhang Shuai,,,1.0
+141528,2024-02-19T08:45Z,Dubai Duty Free Tennis Championships,Zhu Lin,Anastasia Potapova,,,0.0
+141472,2024-02-19T09:20Z,Dubai Duty Free Tennis Championships,Anastasia Pavlyuchenkova,Marie Bouzkova,,,1.0
+141467,2024-02-19T10:25Z,Dubai Duty Free Tennis Championships,Jelena Ostapenko,Wang Xiyu,,,1.0
+141517,2024-02-19T11:15Z,Dubai Duty Free Tennis Championships,Veronika Kudermetova,Dayana Yastremska,,,1.0
+141529,2024-02-19T13:05Z,Dubai Duty Free Tennis Championships,Viktoriya Tomova,Liudmila Samsonova,,,0.0
+141516,2024-02-19T15:00Z,Dubai Duty Free Tennis Championships,Paula Badosa,Lulu Sun,,,0.0
+141460,2024-02-19T15:10Z,Dubai Duty Free Tennis Championships,Anhelina Kalinina,Elina Svitolina,,,0.0
+141459,2024-02-19T17:10Z,Dubai Duty Free Tennis Championships,Daria Kasatkina,Lucia Bronzetti,,,0.0
+141481,2024-02-20T07:05Z,Dubai Duty Free Tennis Championships,Marketa Vondrousova,Peyton Stearns,,,1.0
+141564,2024-02-20T07:05Z,Dubai Duty Free Tennis Championships,Maria Sakkari,Emma Navarro,,,1.0
+141565,2024-02-20T07:05Z,Dubai Duty Free Tennis Championships,Leylah Fernandez,Jasmine Paolini,,,0.0
+141566,2024-02-20T07:10Z,Dubai Duty Free Tennis Championships,Magdalena Frech,Petra Martic,,,1.0
+141490,2024-02-20T08:40Z,Dubai Duty Free Tennis Championships,Donna Vekic,Aryna Sabalenka,,,1.0
+141483,2024-02-20T09:10Z,Dubai Duty Free Tennis Championships,Anastasia Pavlyuchenkova,Liudmila Samsonova,,,0.0
+141479,2024-02-20T09:20Z,Dubai Duty Free Tennis Championships,Anna Kalinskaya,Cristina Bucsa,,,1.0
+141567,2024-02-20T09:20Z,Dubai Duty Free Tennis Championships,Veronika Kudermetova,Sorana Cirstea,,,0.0
+141476,2024-02-20T11:05Z,Dubai Duty Free Tennis Championships,Tatjana Maria,Elina Svitolina,,,0.0
+141478,2024-02-20T11:05Z,Dubai Duty Free Tennis Championships,Lucia Bronzetti,Anastasia Potapova,,,0.0
+141474,2024-02-20T11:15Z,Dubai Duty Free Tennis Championships,Jelena Ostapenko,Lulu Sun,,,1.0
+141477,2024-02-20T11:25Z,Dubai Duty Free Tennis Championships,Victoria Azarenka,Elena Rybakina,,,0.0
+141563,2024-02-20T12:55Z,Dubai Duty Free Tennis Championships,Nao Hibino,Zheng Qinwen,,,0.0
+141475,2024-02-20T15:10Z,Dubai Duty Free Tennis Championships,Iga Swiatek,Sloane Stephens,,,1.0
+141482,2024-02-20T15:20Z,Dubai Duty Free Tennis Championships,Karolina Pliskova,Ashlyn Krueger,,,1.0
+141480,2024-02-20T17:25Z,Dubai Duty Free Tennis Championships,Coco Gauff,Elisabetta Cocciaretto,,,1.0
+141491,2024-02-21T08:05Z,Dubai Duty Free Tennis Championships,Marketa Vondrousova,Liudmila Samsonova,,,1.0
+141492,2024-02-21T08:05Z,Dubai Duty Free Tennis Championships,Maria Sakkari,Jasmine Paolini,,,0.0
+141486,2024-02-21T09:30Z,Dubai Duty Free Tennis Championships,Jelena Ostapenko,Anna Kalinskaya,,,0.0
+141487,2024-02-21T09:35Z,Dubai Duty Free Tennis Championships,Magdalena Frech,Elena Rybakina,,,0.0
+141562,2024-02-21T11:25Z,Dubai Duty Free Tennis Championships,Sorana Cirstea,Donna Vekic,,,1.0
+141561,2024-02-21T12:35Z,Dubai Duty Free Tennis Championships,Coco Gauff,Karolina Pliskova,,,1.0
+141484,2024-02-21T15:05Z,Dubai Duty Free Tennis Championships,Iga Swiatek,Elina Svitolina,,,1.0
+141485,2024-02-21T16:50Z,Dubai Duty Free Tennis Championships,Anastasia Potapova,Zheng Qinwen,,,0.0
+141488,2024-02-22T10:10Z,Dubai Duty Free Tennis Championships,Marketa Vondrousova,Sorana Cirstea,,,0.0
+141496,2024-02-22T11:30Z,Dubai Duty Free Tennis Championships,Jasmine Paolini,Elena Rybakina,,,1.0
+141493,2024-02-22T15:10Z,Dubai Duty Free Tennis Championships,Iga Swiatek,Zheng Qinwen,,,1.0
+141568,2024-02-22T16:55Z,Dubai Duty Free Tennis Championships,Coco Gauff,Anna Kalinskaya,,,0.0
+141494,2024-02-23T13:05Z,Dubai Duty Free Tennis Championships,Jasmine Paolini,Sorana Cirstea,,,1.0
+141489,2024-02-23T15:15Z,Dubai Duty Free Tennis Championships,Iga Swiatek,Anna Kalinskaya,,,0.0
+141495,2024-02-24T15:10Z,Dubai Duty Free Tennis Championships,Anna Kalinskaya,Jasmine Paolini,,,0.0
+143591,2024-02-24T07:00Z,Dubai Duty Free Tennis Championships,Tomas Machac,Elias Ymer,,,1.0
+143596,2024-02-24T07:00Z,Dubai Duty Free Tennis Championships,Alexandre Muller,Giulio Zeppieri,,,0.0
+143597,2024-02-24T07:00Z,Dubai Duty Free Tennis Championships,Damir Dzumhur,Arthur Cazaux,,,0.0
+143592,2024-02-24T08:30Z,Dubai Duty Free Tennis Championships,Hugo Grenier,Roberto Bautista Agut,,,0.0
+143593,2024-02-24T08:30Z,Dubai Duty Free Tennis Championships,Luca Van Assche,Aziz Dougaz,,,1.0
+143595,2024-02-24T08:30Z,Dubai Duty Free Tennis Championships,Yanki Erel,Maximilian Marterer,,,0.0
+143594,2024-02-24T10:00Z,Dubai Duty Free Tennis Championships,Marton Fucsovics,Maxime Cressy,,,1.0
+143598,2024-02-24T10:00Z,Dubai Duty Free Tennis Championships,Vasek Pospisil,Richard Gasquet,,,0.0
+143601,2024-02-25T07:00Z,Dubai Duty Free Tennis Championships,Luca Van Assche,Maximilian Marterer,,,0.0
+143602,2024-02-25T07:00Z,Dubai Duty Free Tennis Championships,Giulio Zeppieri,Arthur Cazaux,,,0.0
+143599,2024-02-25T08:30Z,Dubai Duty Free Tennis Championships,Marton Fucsovics,Richard Gasquet,,,1.0
+143600,2024-02-25T08:30Z,Dubai Duty Free Tennis Championships,Tomas Machac,Roberto Bautista Agut,,,1.0
+141739,2024-02-26T10:10Z,Dubai Duty Free Tennis Championships,Pavel Kotov,Sebastian Korda,,,0.0
+141746,2024-02-26T10:15Z,Dubai Duty Free Tennis Championships,Adrian Mannarino,Botic Van De Zandschulp,,,0.0
+141731,2024-02-26T12:30Z,Dubai Duty Free Tennis Championships,Denis Shapovalov,Andy Murray,,,0.0
+141729,2024-02-26T13:10Z,Dubai Duty Free Tennis Championships,Alexander Bublik,Tomas Machac,,,1.0
+141735,2024-02-26T15:20Z,Dubai Duty Free Tennis Championships,Zhang Zhizhen,Andrey Rublev,,,0.0
+141724,2024-02-26T15:25Z,Dubai Duty Free Tennis Championships,Tallon Griekspoor,Abdullah Shelbayh,,,1.0
+141734,2024-02-26T17:30Z,Dubai Duty Free Tennis Championships,Hubert Hurkacz,Jan-Lennard Struff,,,1.0
+141726,2024-02-27T10:10Z,Dubai Duty Free Tennis Championships,Jiri Lehecka,Marton Fucsovics,,,1.0
+141733,2024-02-27T10:10Z,Dubai Duty Free Tennis Championships,Gael Monfils,Ugo Humbert,,,0.0
+141740,2024-02-27T10:10Z,Dubai Duty Free Tennis Championships,Fabian Marozsan,Alejandro Davidovich Fokina,,,0.0
+141741,2024-02-27T12:05Z,Dubai Duty Free Tennis Championships,Lorenzo Musetti,Arthur Cazaux,,,0.0
+141736,2024-02-27T12:45Z,Dubai Duty Free Tennis Championships,Maximilian Marterer,Christopher O'Connell,,,0.0
+141743,2024-02-27T12:50Z,Dubai Duty Free Tennis Championships,Luca Van Assche,Karen Khachanov,,,0.0
+141738,2024-02-27T14:20Z,Dubai Duty Free Tennis Championships,Jakub Mensik,Borna Coric,,,1.0
+141742,2024-02-27T15:10Z,Dubai Duty Free Tennis Championships,Daniil Medvedev,Aleksandr Shevchenko,,,1.0
+141745,2024-02-27T17:00Z,Dubai Duty Free Tennis Championships,Sumit Nagal,Lorenzo Sonego,,,0.0
+141725,2024-02-28T10:10Z,Dubai Duty Free Tennis Championships,Alexander Bublik,Tallon Griekspoor,,,1.0
+141747,2024-02-28T10:10Z,Dubai Duty Free Tennis Championships,Arthur Cazaux,Andrey Rublev,,,0.0
+141730,2024-02-28T12:10Z,Dubai Duty Free Tennis Championships,Andy Murray,Ugo Humbert,,,0.0
+141727,2024-02-28T12:20Z,Dubai Duty Free Tennis Championships,Jiri Lehecka,Karen Khachanov,,,1.0
+141737,2024-02-28T15:10Z,Dubai Duty Free Tennis Championships,Daniil Medvedev,Lorenzo Sonego,,,1.0
+141744,2024-02-28T15:40Z,Dubai Duty Free Tennis Championships,Botic Van De Zandschulp,Sebastian Korda,,,0.0
+141732,2024-02-28T16:40Z,Dubai Duty Free Tennis Championships,Jakub Mensik,Alejandro Davidovich Fokina,,,0.0
+141728,2024-02-28T17:40Z,Dubai Duty Free Tennis Championships,Hubert Hurkacz,Christopher O'Connell,,,1.0
+141750,2024-02-29T10:10Z,Dubai Duty Free Tennis Championships,Alexander Bublik,Jiri Lehecka,,,1.0
+141751,2024-02-29T11:45Z,Dubai Duty Free Tennis Championships,Sebastian Korda,Andrey Rublev,,,0.0
+141752,2024-02-29T15:10Z,Dubai Duty Free Tennis Championships,Daniil Medvedev,Alejandro Davidovich Fokina,,,1.0
+141753,2024-02-29T16:50Z,Dubai Duty Free Tennis Championships,Hubert Hurkacz,Ugo Humbert,,,0.0
+141748,2024-03-01T13:10Z,Dubai Duty Free Tennis Championships,Alexander Bublik,Andrey Rublev,,,1.0
+141749,2024-03-01T16:00Z,Dubai Duty Free Tennis Championships,Daniil Medvedev,Ugo Humbert,,,0.0
+141754,2024-03-02T15:10Z,Dubai Duty Free Tennis Championships,Ugo Humbert,Alexander Bublik,,,1.0
+143551,2024-02-17T08:00Z,Qatar ExxonMobil Open,Maximilian Marterer,Elias Ymer,,,1.0
+143552,2024-02-17T08:00Z,Qatar ExxonMobil Open,Benjamin Hassan,Hugo Grenier,,,0.0
+143553,2024-02-17T08:00Z,Qatar ExxonMobil Open,Mubarak Shannan Zayid,Vit Kopriva,,,0.0
+143558,2024-02-17T08:00Z,Qatar ExxonMobil Open,Luca Van Assche,Maxime Cressy,,,0.0
+143555,2024-02-17T09:30Z,Qatar ExxonMobil Open,Rashed Nawaf,Giulio Zeppieri,,,0.0
+143556,2024-02-17T09:30Z,Qatar ExxonMobil Open,Beibit Zhukayev,Lukas Klein,,,0.0
+143557,2024-02-17T09:30Z,Qatar ExxonMobil Open,Alexandre Muller,Alexander Ritschard,,,1.0
+143554,2024-02-17T10:00Z,Qatar ExxonMobil Open,Fabio Fognini,Damir Dzumhur,,,0.0
+143559,2024-02-18T12:30Z,Qatar ExxonMobil Open,Maxime Cressy,Hugo Grenier,,,0.0
+143560,2024-02-18T12:30Z,Qatar ExxonMobil Open,Alexandre Muller,Lukas Klein,,,1.0
+143561,2024-02-18T12:30Z,Qatar ExxonMobil Open,Maximilian Marterer,Vit Kopriva,,,0.0
+143562,2024-02-18T12:30Z,Qatar ExxonMobil Open,Damir Dzumhur,Giulio Zeppieri,,,0.0
+141703,2024-02-19T11:40Z,Qatar ExxonMobil Open,Pavel Kotov,Lorenzo Sonego,,,1.0
+141701,2024-02-19T13:50Z,Qatar ExxonMobil Open,Zhang Zhizhen,Lorenzo Musetti,,,1.0
+141697,2024-02-19T15:10Z,Qatar ExxonMobil Open,Marton Fucsovics,Roberto Bautista Agut,,,1.0
+141706,2024-02-19T15:35Z,Qatar ExxonMobil Open,Fabian Marozsan,Vit Kopriva,,,1.0
+141700,2024-02-19T16:55Z,Qatar ExxonMobil Open,Alexei Popyrin,Abdullah Shelbayh,,,1.0
+141694,2024-02-20T11:40Z,Qatar ExxonMobil Open,Jan-Lennard Struff,Christopher O'Connell,,,0.0
+141696,2024-02-20T11:40Z,Qatar ExxonMobil Open,Giulio Zeppieri,Emil Ruusuvuori,,,0.0
+141705,2024-02-20T11:40Z,Qatar ExxonMobil Open,Jakub Mensik,Alejandro Davidovich Fokina,,,1.0
+141693,2024-02-20T13:35Z,Qatar ExxonMobil Open,Aleksandr Shevchenko,Richard Gasquet,,,0.0
+141702,2024-02-20T14:10Z,Qatar ExxonMobil Open,Maximilian Marterer,Hugo Grenier,,,0.0
+141695,2024-02-20T15:25Z,Qatar ExxonMobil Open,Alexandre Muller,Andy Murray,,,0.0
+141704,2024-02-20T17:40Z,Qatar ExxonMobil Open,Gael Monfils,Botic Van De Zandschulp,,,1.0
+141717,2024-02-21T11:40Z,Qatar ExxonMobil Open,Christopher O'Connell,Emil Ruusuvuori,,,0.0
+141714,2024-02-21T11:40Z,Qatar ExxonMobil Open,Fabian Marozsan,Karen Khachanov,,,0.0
+141716,2024-02-21T13:10Z,Qatar ExxonMobil Open,Marton Fucsovics,Alexander Bublik,,,0.0
+141713,2024-02-21T13:30Z,Qatar ExxonMobil Open,Andy Murray,Jakub Mensik,,,0.0
+141719,2024-02-21T13:40Z,Qatar ExxonMobil Open,Hugo Grenier,Alexei Popyrin,,,0.0
+141711,2024-02-21T15:35Z,Qatar ExxonMobil Open,Ugo Humbert,Pavel Kotov,,,1.0
+141712,2024-02-21T17:15Z,Qatar ExxonMobil Open,Andrey Rublev,Richard Gasquet,,,1.0
+141718,2024-02-21T18:30Z,Qatar ExxonMobil Open,Gael Monfils,Zhang Zhizhen,,,1.0
+141723,2024-02-22T11:40Z,Qatar ExxonMobil Open,Alexei Popyrin,Alexander Bublik,,,1.0
+141720,2024-02-22T13:20Z,Qatar ExxonMobil Open,Emil Ruusuvuori,Karen Khachanov,,,0.0
+141715,2024-02-22T15:10Z,Qatar ExxonMobil Open,Andrey Rublev,Jakub Mensik,,,0.0
+141722,2024-02-22T17:10Z,Qatar ExxonMobil Open,Ugo Humbert,Gael Monfils,,,0.0
+141710,2024-02-23T15:10Z,Qatar ExxonMobil Open,Alexei Popyrin,Karen Khachanov,,,0.0
+141721,2024-02-23T17:25Z,Qatar ExxonMobil Open,Jakub Mensik,Gael Monfils,,,1.0
+141709,2024-02-24T15:15Z,Qatar ExxonMobil Open,Jakub Mensik,Karen Khachanov,,,0.0
+143564,2024-02-17T19:00Z,Rio Open presented by Claro,Mariano Navone,Mateus De Carvalho Cardoso Alves,,,1.0
+143565,2024-02-17T19:00Z,Rio Open presented by Claro,Thiago Agustin Tirante,Andrea Pellegrino,,,0.0
+143570,2024-02-17T19:00Z,Rio Open presented by Claro,Joao Lucas Reis Da Silva,Genaro Alberto Olivieri,,,0.0
+143569,2024-02-17T19:00Z,Rio Open presented by Claro,Roman Andres Burruchaga,Francisco Comesana,,,0.0
+143563,2024-02-17T20:30Z,Rio Open presented by Claro,Luciano Darderi,Juan Manuel Cerundolo,,,0.0
+143566,2024-02-17T20:30Z,Rio Open presented by Claro,Felipe Meligeni Alves,Alex Molcan,,,1.0
+143568,2024-02-17T20:30Z,Rio Open presented by Claro,Corentin Moutet,Camilo Ugo Carabelli,,,1.0
+143567,2024-02-17T20:30Z,Rio Open presented by Claro,Pedro Martinez,Matheus Pucinelli De Almeida,,,0.0
+143574,2024-02-18T19:00Z,Rio Open presented by Claro,Juan Manuel Cerundolo,Felipe Meligeni Alves,,,0.0
+143572,2024-02-18T19:00Z,Rio Open presented by Claro,Mariano Navone,Genaro Alberto Olivieri,,,1.0
+143573,2024-02-18T19:00Z,Rio Open presented by Claro,Andrea Pellegrino,Francisco Comesana,,,0.0
+143571,2024-02-18T20:00Z,Rio Open presented by Claro,Matheus Pucinelli De Almeida,Corentin Moutet,,,0.0
+141582,2024-02-19T19:40Z,Rio Open presented by Claro,Francisco Cerundolo,Francisco Comesana,,,1.0
+141592,2024-02-19T19:40Z,Rio Open presented by Claro,Gustavo Heide,Tomas Barrios Vera,,,0.0
+141585,2024-02-19T19:40Z,Rio Open presented by Claro,Juan Pablo Varillas,Albert Ramos-Vinolas,,,0.0
+141593,2024-02-19T22:15Z,Rio Open presented by Claro,Hugo Dellien,Cameron Norrie,,,0.0
+141570,2024-02-19T23:45Z,Rio Open presented by Claro,Alejandro Tabilo,Thiago Seyboth Wild,,,0.0
+141580,2024-02-19T23:45Z,Rio Open presented by Claro,Bernabe Zapata Miralles,Laslo Djere,,,0.0
+141572,2024-02-20T00:05Z,Rio Open presented by Claro,Sebastian Ofner,Jaume Munar,,,0.0
+141569,2024-02-20T22:25Z,Rio Open presented by Claro,Corentin Moutet,Sebastian Baez,,,0.0
+141581,2024-02-20T22:25Z,Rio Open presented by Claro,Dusan Lajovic,Daniel Elahi Galan,,,1.0
+141596,2024-02-20T22:25Z,Rio Open presented by Claro,Felipe Meligeni Alves,Pedro Cachin,,,1.0
+141588,2024-02-20T22:30Z,Rio Open presented by Claro,Facundo Diaz Acosta,Stan Wawrinka,,,1.0
+141587,2024-02-20T23:50Z,Rio Open presented by Claro,Roberto Carballes Baena,Cristian Garin,,,0.0
+141590,2024-02-21T00:10Z,Rio Open presented by Claro,Yannick Hanfmann,Nicolas Jarry,,,1.0
+141583,2024-02-21T00:50Z,Rio Open presented by Claro,Carlos Alcaraz,Thiago Monteiro,,,0.0
+141573,2024-02-21T01:30Z,Rio Open presented by Claro,Federico Coria,Mariano Navone,,,0.0
+141576,2024-02-21T19:40Z,Rio Open presented by Claro,Francisco Cerundolo,Albert Ramos-Vinolas,,,1.0
+141586,2024-02-21T19:45Z,Rio Open presented by Claro,Arthur Fils,Joao Fonseca,,,0.0
+141591,2024-02-22T18:00Z,Rio Open presented by Claro,Dusan Lajovic,Laslo Djere,,,1.0
+141578,2024-02-22T18:10Z,Rio Open presented by Claro,Jaume Munar,Thiago Seyboth Wild,,,0.0
+141575,2024-02-22T19:40Z,Rio Open presented by Claro,Tomas Barrios Vera,Cameron Norrie,,,0.0
+141574,2024-02-22T20:15Z,Rio Open presented by Claro,Facundo Diaz Acosta,Sebastian Baez,,,0.0
+141594,2024-02-22T22:10Z,Rio Open presented by Claro,Thiago Monteiro,Felipe Meligeni Alves,,,1.0
+141595,2024-02-22T22:20Z,Rio Open presented by Claro,Mariano Navone,Yannick Hanfmann,,,1.0
+141571,2024-02-23T00:25Z,Rio Open presented by Claro,Joao Fonseca,Cristian Garin,,,1.0
+141584,2024-02-23T19:00Z,Rio Open presented by Claro,Francisco Cerundolo,Dusan Lajovic,,,1.0
+141589,2024-02-23T19:40Z,Rio Open presented by Claro,Thiago Monteiro,Sebastian Baez,,,0.0
+141577,2024-02-23T22:15Z,Rio Open presented by Claro,Thiago Seyboth Wild,Cameron Norrie,,,0.0
+141579,2024-02-24T00:40Z,Rio Open presented by Claro,Joao Fonseca,Mariano Navone,,,0.0
+141628,2024-02-24T20:10Z,Rio Open presented by Claro,Sebastian Baez,Francisco Cerundolo,,,1.0
+141630,2024-02-24T22:00Z,Rio Open presented by Claro,Mariano Navone,Cameron Norrie,,,1.0
+141629,2024-02-25T20:40Z,Rio Open presented by Claro,Sebastian Baez,Mariano Navone,,,1.0
+143580,2024-02-17T23:00Z,Mifel Tennis Open by Telcel Oppo,Guido Andreozzi,Zachary Svajda,,,0.0
+143581,2024-02-17T23:00Z,Mifel Tennis Open by Telcel Oppo,Yosuke Watanuki,Alan Fernando Rubio Fierros,,,1.0
+143582,2024-02-17T23:00Z,Mifel Tennis Open by Telcel Oppo,Brandon Holt,Terence Atmane,,,1.0
+143576,2024-02-18T00:30Z,Mifel Tennis Open by Telcel Oppo,Shintaro Mochizuki,Aidan Mayo,,,0.0
+143577,2024-02-18T00:30Z,Mifel Tennis Open by Telcel Oppo,Nicolas Mejia,Emilio Nava,,,0.0
+143579,2024-02-18T00:30Z,Mifel Tennis Open by Telcel Oppo,Aleksandar Kovacevic,Steve Johnson,,,1.0
+143575,2024-02-18T02:00Z,Mifel Tennis Open by Telcel Oppo,Flavio Cobolli,Sho Shimabukuro,,,1.0
+143578,2024-02-18T02:00Z,Mifel Tennis Open by Telcel Oppo,Marc Polmans,Nicolas Moreno De Alboran,,,1.0
+143585,2024-02-18T23:00Z,Mifel Tennis Open by Telcel Oppo,Yosuke Watanuki,Brandon Holt,,,0.0
+143584,2024-02-18T23:00Z,Mifel Tennis Open by Telcel Oppo,Aleksandar Kovacevic,Zachary Svajda,,,1.0
+143583,2024-02-19T00:30Z,Mifel Tennis Open by Telcel Oppo,Flavio Cobolli,Marc Polmans,,,1.0
+143586,2024-02-19T00:30Z,Mifel Tennis Open by Telcel Oppo,Aidan Mayo,Emilio Nava,,,0.0
+141764,2024-02-19T23:00Z,Mifel Tennis Open by Telcel Oppo,Daniel Evans,Roman Safiullin,,,1.0
+141762,2024-02-19T23:10Z,Mifel Tennis Open by Telcel Oppo,Constant Lestienne,Alex Michelsen,,,0.0
+141772,2024-02-20T01:10Z,Mifel Tennis Open by Telcel Oppo,Max Purcell,Matteo Arnaldi,,,1.0
+141777,2024-02-20T02:45Z,Mifel Tennis Open by Telcel Oppo,Aleksandar Kovacevic,Brandon Holt,,,1.0
+141763,2024-02-20T04:00Z,Mifel Tennis Open by Telcel Oppo,Thanasi Kokkinakis,Jack Draper,,,1.0
+141774,2024-02-20T23:10Z,Mifel Tennis Open by Telcel Oppo,Ernesto Escobedo,Jordan Thompson,,,0.0
+141779,2024-02-20T23:10Z,Mifel Tennis Open by Telcel Oppo,Miomir Kecmanovic,Rinky Hijikata,,,0.0
+141773,2024-02-20T23:10Z,Mifel Tennis Open by Telcel Oppo,Dominik Koepfer,Nuno Borges,,,0.0
+141755,2024-02-21T00:45Z,Mifel Tennis Open by Telcel Oppo,Flavio Cobolli,Yoshihito Nishioka,,,0.0
+141756,2024-02-21T01:10Z,Mifel Tennis Open by Telcel Oppo,Diego Schwartzman,Emilio Nava,,,0.0
+141781,2024-02-21T01:20Z,Mifel Tennis Open by Telcel Oppo,Taro Daniel,Marcos Giron,,,0.0
+141776,2024-02-21T03:10Z,Mifel Tennis Open by Telcel Oppo,Aleksandar Vukic,Rodrigo Pacheco Mendez,,,1.0
+141770,2024-02-21T23:10Z,Mifel Tennis Open by Telcel Oppo,Rinky Hijikata,Aleksandar Kovacevic,,,0.0
+141759,2024-02-21T23:10Z,Mifel Tennis Open by Telcel Oppo,Alex de Minaur,Alex Michelsen,,,0.0
+141758,2024-02-22T00:30Z,Mifel Tennis Open by Telcel Oppo,Max Purcell,Nuno Borges,,,0.0
+141757,2024-02-22T00:50Z,Mifel Tennis Open by Telcel Oppo,Emilio Nava,Jordan Thompson,,,0.0
+141767,2024-02-22T00:50Z,Mifel Tennis Open by Telcel Oppo,Aleksandar Vukic,Stefanos Tsitsipas,,,0.0
+141769,2024-02-22T01:50Z,Mifel Tennis Open by Telcel Oppo,Marcos Giron,Casper Ruud,,,0.0
+141780,2024-02-22T03:00Z,Mifel Tennis Open by Telcel Oppo,Alexander Zverev,Yoshihito Nishioka,,,1.0
+141778,2024-02-22T03:00Z,Mifel Tennis Open by Telcel Oppo,Thanasi Kokkinakis,Daniel Evans,,,1.0
+141766,2024-02-22T22:10Z,Mifel Tennis Open by Telcel Oppo,Nuno Borges,Casper Ruud,,,0.0
+141765,2024-02-22T23:30Z,Mifel Tennis Open by Telcel Oppo,Alex Michelsen,Jordan Thompson,,,0.0
+141775,2024-02-23T02:40Z,Mifel Tennis Open by Telcel Oppo,Aleksandar Kovacevic,Stefanos Tsitsipas,,,0.0
+141768,2024-02-23T04:40Z,Mifel Tennis Open by Telcel Oppo,Alexander Zverev,Thanasi Kokkinakis,,,1.0
+141785,2024-02-24T02:10Z,Mifel Tennis Open by Telcel Oppo,Casper Ruud,Stefanos Tsitsipas,,,1.0
+141783,2024-02-24T04:20Z,Mifel Tennis Open by Telcel Oppo,Alexander Zverev,Jordan Thompson,,,0.0
+141784,2024-02-25T03:10Z,Mifel Tennis Open by Telcel Oppo,Jordan Thompson,Casper Ruud,,,1.0
+143628,2024-02-24T15:00Z,BCI Seguros Chile Open,Genaro Alberto Olivieri,Corentin Moutet,,,0.0
+143621,2024-02-24T15:00Z,BCI Seguros Chile Open,Francisco Comesana,Ignacio Buse,,,1.0
+143622,2024-02-24T15:00Z,BCI Seguros Chile Open,Roman Andres Burruchaga,Andrea Pellegrino,,,1.0
+143624,2024-02-24T16:30Z,BCI Seguros Chile Open,Edoardo Lavagno,Facundo Bagnis,,,0.0
+143623,2024-02-24T16:30Z,BCI Seguros Chile Open,Alex Molcan,Marco Cecchinato,,,1.0
+143627,2024-02-24T16:30Z,BCI Seguros Chile Open,Murkel Dellien,Juan Pablo Ficovich,,,1.0
+143625,2024-02-24T18:00Z,BCI Seguros Chile Open,Camilo Ugo Carabelli,Juan Manuel Cerundolo,,,0.0
+143626,2024-02-24T20:30Z,BCI Seguros Chile Open,Matias Soto,Andrea Vavassori,,,1.0
+143649,2024-02-25T15:00Z,BCI Seguros Chile Open,Francisco Comesana,Roman Andres Burruchaga,,,0.0
+143652,2024-02-25T15:00Z,BCI Seguros Chile Open,Murkel Dellien,Corentin Moutet,,,0.0
+143650,2024-02-25T16:30Z,BCI Seguros Chile Open,Alex Molcan,Facundo Bagnis,,,1.0
+143651,2024-02-25T16:30Z,BCI Seguros Chile Open,Juan Manuel Cerundolo,Matias Soto,,,1.0
+142648,2024-02-26T17:10Z,BCI Seguros Chile Open,Francesco Passaro,Pedro Martinez,,,0.0
+142644,2024-02-26T19:10Z,BCI Seguros Chile Open,Alex Molcan,Federico Coria,,,0.0
+142649,2024-02-26T22:10Z,BCI Seguros Chile Open,Facundo Diaz Acosta,Pedro Cachin,,,1.0
+142640,2024-02-27T01:35Z,BCI Seguros Chile Open,Corentin Moutet,Roberto Carballes Baena,,,1.0
+142650,2024-02-27T17:10Z,BCI Seguros Chile Open,Juan Manuel Cerundolo,Yannick Hanfmann,,,1.0
+142647,2024-02-27T17:10Z,BCI Seguros Chile Open,Thiago Seyboth Wild,Roman Andres Burruchaga,,,1.0
+142656,2024-02-27T17:10Z,BCI Seguros Chile Open,Jaume Munar,Bernabe Zapata Miralles,,,1.0
+142655,2024-02-27T18:50Z,BCI Seguros Chile Open,Albert Ramos-Vinolas,Hugo Dellien,,,1.0
+142642,2024-02-27T20:35Z,BCI Seguros Chile Open,Thiago Agustin Tirante,Joao Fonseca,,,1.0
+142654,2024-02-27T20:45Z,BCI Seguros Chile Open,Francisco Comesana,Juan Pablo Varillas,,,0.0
+142638,2024-02-27T23:10Z,BCI Seguros Chile Open,Cristian Garin,Tomas Barrios Vera,,,0.0
+142637,2024-02-28T01:35Z,BCI Seguros Chile Open,Facundo Bagnis,Luciano Darderi,,,0.0
+142633,2024-02-28T17:10Z,BCI Seguros Chile Open,Facundo Diaz Acosta,Pedro Martinez,,,0.0
+142636,2024-02-28T18:20Z,BCI Seguros Chile Open,Thiago Agustin Tirante,Corentin Moutet,,,0.0
+142632,2024-02-28T20:50Z,BCI Seguros Chile Open,Thiago Seyboth Wild,Arthur Fils,,,0.0
+142652,2024-02-28T22:40Z,BCI Seguros Chile Open,Nicolas Jarry,Federico Coria,,,1.0
+142634,2024-02-29T17:10Z,BCI Seguros Chile Open,Luciano Darderi,Juan Manuel Cerundolo,,,1.0
+142631,2024-02-29T18:35Z,BCI Seguros Chile Open,Jaume Munar,Albert Ramos-Vinolas,,,1.0
+142645,2024-02-29T19:55Z,BCI Seguros Chile Open,Juan Pablo Varillas,Sebastian Baez,,,0.0
+142635,2024-02-29T23:05Z,BCI Seguros Chile Open,Alejandro Tabilo,Tomas Barrios Vera,,,1.0
+142651,2024-03-01T17:10Z,BCI Seguros Chile Open,Jaume Munar,Sebastian Baez,,,0.0
+142639,2024-03-01T19:00Z,BCI Seguros Chile Open,Pedro Martinez,Arthur Fils,,,1.0
+142641,2024-03-01T21:10Z,BCI Seguros Chile Open,Alejandro Tabilo,Luciano Darderi,,,1.0
+142643,2024-03-01T22:50Z,BCI Seguros Chile Open,Nicolas Jarry,Corentin Moutet,,,0.0
+142659,2024-03-02T21:10Z,BCI Seguros Chile Open,Corentin Moutet,Alejandro Tabilo,,,0.0
+142658,2024-03-03T00:05Z,BCI Seguros Chile Open,Pedro Martinez,Sebastian Baez,,,0.0
+142657,2024-03-03T22:10Z,BCI Seguros Chile Open,Alejandro Tabilo,Sebastian Baez,,,0.0
+143629,2024-02-24T23:00Z,Abierto Mexicano Telcel presentado por HSBC,Flavio Cobolli,Brandon Holt,,,1.0
+143636,2024-02-24T23:00Z,Abierto Mexicano Telcel presentado por HSBC,Liam Broady,Constant Lestienne,,,0.0
+143634,2024-02-24T23:00Z,Abierto Mexicano Telcel presentado por HSBC,Nicolas Mejia,Aleksandar Kovacevic,,,0.0
+143631,2024-02-25T00:30Z,Abierto Mexicano Telcel presentado por HSBC,Aleksandar Vukic,Terence Atmane,,,0.0
+143632,2024-02-25T00:30Z,Abierto Mexicano Telcel presentado por HSBC,Zachary Svajda,James Duckworth,,,1.0
+143633,2024-02-25T00:30Z,Abierto Mexicano Telcel presentado por HSBC,Rinky Hijikata,Shintaro Mochizuki,,,1.0
+143630,2024-02-25T02:00Z,Abierto Mexicano Telcel presentado por HSBC,Michael Mmoh,Thanasi Kokkinakis,,,1.0
+143635,2024-02-25T02:00Z,Abierto Mexicano Telcel presentado por HSBC,Yoshihito Nishioka,Alan Fernando Rubio Fierros,,,1.0
+143661,2024-02-26T00:00Z,Abierto Mexicano Telcel presentado por HSBC,Rinky Hijikata,Aleksandar Kovacevic,,,0.0
+143660,2024-02-26T00:00Z,Abierto Mexicano Telcel presentado por HSBC,Terence Atmane,Zachary Svajda,,,1.0
+143659,2024-02-26T00:00Z,Abierto Mexicano Telcel presentado por HSBC,Flavio Cobolli,Constant Lestienne,,,1.0
+143662,2024-02-26T01:30Z,Abierto Mexicano Telcel presentado por HSBC,Yoshihito Nishioka,Michael Mmoh,,,0.0
+141791,2024-02-27T00:10Z,Abierto Mexicano Telcel presentado por HSBC,Jack Draper,Tommy Paul,,,1.0
+141796,2024-02-27T00:10Z,Abierto Mexicano Telcel presentado por HSBC,Miomir Kecmanovic,Diego Schwartzman,,,1.0
+141801,2024-02-27T00:10Z,Abierto Mexicano Telcel presentado por HSBC,Daniel Evans,Ben Shelton,,,0.0
+141809,2024-02-27T01:55Z,Abierto Mexicano Telcel presentado por HSBC,Ernesto Escobedo,Sebastian Ofner,,,0.0
+141789,2024-02-27T03:05Z,Abierto Mexicano Telcel presentado por HSBC,Nuno Borges,Yoshihito Nishioka,,,0.0
+141807,2024-02-27T03:15Z,Abierto Mexicano Telcel presentado por HSBC,Alex de Minaur,Taro Daniel,,,1.0
+141794,2024-02-27T04:55Z,Abierto Mexicano Telcel presentado por HSBC,Matteo Arnaldi,Taylor Fritz,,,1.0
+141787,2024-02-27T05:15Z,Abierto Mexicano Telcel presentado por HSBC,Felix Auger-Aliassime,Flavio Cobolli,,,0.0
+141797,2024-02-28T00:10Z,Abierto Mexicano Telcel presentado por HSBC,Frances Tiafoe,Max Purcell,,,1.0
+141803,2024-02-28T00:10Z,Abierto Mexicano Telcel presentado por HSBC,Roman Safiullin,Stefanos Tsitsipas,,,0.0
+141790,2024-02-28T00:10Z,Abierto Mexicano Telcel presentado por HSBC,Terence Atmane,Dominik Koepfer,,,0.0
+141808,2024-02-28T01:50Z,Abierto Mexicano Telcel presentado por HSBC,Michael Mmoh,Holger Rune,,,0.0
+141805,2024-02-28T02:30Z,Abierto Mexicano Telcel presentado por HSBC,Casper Ruud,Christopher Eubanks,,,1.0
+141792,2024-02-28T02:50Z,Abierto Mexicano Telcel presentado por HSBC,Aleksandar Kovacevic,Jordan Thompson,,,1.0
+141793,2024-02-28T03:50Z,Abierto Mexicano Telcel presentado por HSBC,Alexander Zverev,Daniel Altmaier,,,0.0
+141799,2024-02-28T05:00Z,Abierto Mexicano Telcel presentado por HSBC,Rodrigo Pacheco Mendez,Dusan Lajovic,,,0.0
+141788,2024-02-29T00:10Z,Abierto Mexicano Telcel presentado por HSBC,Yoshihito Nishioka,Jack Draper,,,0.0
+141795,2024-02-29T00:10Z,Abierto Mexicano Telcel presentado por HSBC,Frances Tiafoe,Dominik Koepfer,,,0.0
+141804,2024-02-29T00:10Z,Abierto Mexicano Telcel presentado por HSBC,Alex de Minaur,Sebastian Ofner,,,1.0
+141786,2024-02-29T01:40Z,Abierto Mexicano Telcel presentado por HSBC,Daniel Altmaier,Miomir Kecmanovic,,,0.0
+141806,2024-02-29T02:00Z,Abierto Mexicano Telcel presentado por HSBC,Flavio Cobolli,Stefanos Tsitsipas,,,0.0
+141802,2024-02-29T02:55Z,Abierto Mexicano Telcel presentado por HSBC,Ben Shelton,Matteo Arnaldi,,,1.0
+141798,2024-02-29T04:20Z,Abierto Mexicano Telcel presentado por HSBC,Aleksandar Kovacevic,Holger Rune,,,0.0
+141800,2024-02-29T05:45Z,Abierto Mexicano Telcel presentado por HSBC,Casper Ruud,Dusan Lajovic,,,1.0
+141813,2024-03-01T00:10Z,Abierto Mexicano Telcel presentado por HSBC,Alex de Minaur,Stefanos Tsitsipas,,,1.0
+141812,2024-03-01T00:10Z,Abierto Mexicano Telcel presentado por HSBC,Miomir Kecmanovic,Jack Draper,,,0.0
+141810,2024-03-01T02:00Z,Abierto Mexicano Telcel presentado por HSBC,Dominik Koepfer,Holger Rune,,,0.0
+141811,2024-03-01T04:55Z,Abierto Mexicano Telcel presentado por HSBC,Casper Ruud,Ben Shelton,,,1.0
+141814,2024-03-02T01:00Z,Abierto Mexicano Telcel presentado por HSBC,Jack Draper,Alex de Minaur,,,0.0
+141815,2024-03-02T03:25Z,Abierto Mexicano Telcel presentado por HSBC,Casper Ruud,Holger Rune,,,1.0
+141816,2024-03-03T03:10Z,Abierto Mexicano Telcel presentado por HSBC,Alex de Minaur,Casper Ruud,,,1.0

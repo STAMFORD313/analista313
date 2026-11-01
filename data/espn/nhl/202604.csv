@@ -1,0 +1,167 @@
+id,date,event,home,away,hs,as,res
+401803539,2026-04-02T00:30Z,Vancouver Canucks at Colorado Avalanche,Colorado Avalanche,Vancouver Canucks,6,8,0.0
+401803540,2026-04-02T01:00Z,St. Louis Blues at Los Angeles Kings,Los Angeles Kings,St. Louis Blues,2,1,1.0
+401803541,2026-04-02T01:00Z,Anaheim Ducks at San Jose Sharks,San Jose Sharks,Anaheim Ducks,4,3,1.0
+401803542,2026-04-02T23:00Z,Buffalo Sabres at Ottawa Senators,Ottawa Senators,Buffalo Sabres,4,1,1.0
+401803543,2026-04-02T23:00Z,Pittsburgh Penguins at Tampa Bay Lightning,Tampa Bay Lightning,Pittsburgh Penguins,6,3,1.0
+401803544,2026-04-02T23:00Z,Boston Bruins at Florida Panthers,Florida Panthers,Boston Bruins,2,1,1.0
+401803546,2026-04-02T23:00Z,Montreal Canadiens at New York Rangers,New York Rangers,Montreal Canadiens,2,3,0.0
+401803547,2026-04-02T23:00Z,Detroit Red Wings at Philadelphia Flyers,Philadelphia Flyers,Detroit Red Wings,2,4,0.0
+401803548,2026-04-02T23:00Z,Columbus Blue Jackets at Carolina Hurricanes,Carolina Hurricanes,Columbus Blue Jackets,5,1,1.0
+401803545,2026-04-02T23:30Z,Washington Capitals at New Jersey Devils,New Jersey Devils,Washington Capitals,7,3,1.0
+401803549,2026-04-03T00:00Z,Winnipeg Jets at Dallas Stars,Dallas Stars,Winnipeg Jets,3,0,1.0
+401803550,2026-04-03T00:00Z,Vancouver Canucks at Minnesota Wild,Minnesota Wild,Vancouver Canucks,5,2,1.0
+401803551,2026-04-03T01:00Z,Chicago Blackhawks at Edmonton Oilers,Edmonton Oilers,Chicago Blackhawks,3,1,1.0
+401803552,2026-04-03T02:00Z,Calgary Flames at Vegas Golden Knights,Vegas Golden Knights,Calgary Flames,6,3,1.0
+401803553,2026-04-03T02:00Z,Toronto Maple Leafs at San Jose Sharks,San Jose Sharks,Toronto Maple Leafs,4,1,1.0
+401803554,2026-04-03T02:00Z,Utah Mammoth at Seattle Kraken,Seattle Kraken,Utah Mammoth,2,6,0.0
+401803555,2026-04-03T02:30Z,Nashville Predators at Los Angeles Kings,Los Angeles Kings,Nashville Predators,4,5,0.0
+401803556,2026-04-03T23:00Z,Philadelphia Flyers at New York Islanders,New York Islanders,Philadelphia Flyers,1,4,0.0
+401803557,2026-04-04T02:00Z,St. Louis Blues at Anaheim Ducks,Anaheim Ducks,St. Louis Blues,2,6,0.0
+401803558,2026-04-04T16:30Z,Detroit Red Wings at New York Rangers,New York Rangers,Detroit Red Wings,4,1,1.0
+401803559,2026-04-04T17:00Z,Minnesota Wild at Ottawa Senators,Ottawa Senators,Minnesota Wild,1,4,0.0
+401803560,2026-04-04T19:00Z,Colorado Avalanche at Dallas Stars,Dallas Stars,Colorado Avalanche,0,2,0.0
+401803561,2026-04-04T21:00Z,Boston Bruins at Tampa Bay Lightning,Tampa Bay Lightning,Boston Bruins,3,1,1.0
+401803562,2026-04-04T21:00Z,Florida Panthers at Pittsburgh Penguins,Pittsburgh Penguins,Florida Panthers,9,4,1.0
+401803563,2026-04-04T23:00Z,Montreal Canadiens at New Jersey Devils,New Jersey Devils,Montreal Canadiens,3,4,0.0
+401803564,2026-04-04T23:00Z,Buffalo Sabres at Washington Capitals,Washington Capitals,Buffalo Sabres,6,2,1.0
+401803565,2026-04-04T23:00Z,New York Islanders at Carolina Hurricanes,Carolina Hurricanes,New York Islanders,4,3,1.0
+401803566,2026-04-04T23:00Z,Winnipeg Jets at Columbus Blue Jackets,Columbus Blue Jackets,Winnipeg Jets,1,2,0.0
+401803567,2026-04-04T23:00Z,Utah Mammoth at Vancouver Canucks,Vancouver Canucks,Utah Mammoth,4,7,0.0
+401803568,2026-04-04T23:00Z,Toronto Maple Leafs at Los Angeles Kings,Los Angeles Kings,Toronto Maple Leafs,7,6,1.0
+401803569,2026-04-05T02:00Z,Vegas Golden Knights at Edmonton Oilers,Edmonton Oilers,Vegas Golden Knights,1,5,0.0
+401803570,2026-04-05T02:00Z,Calgary Flames at Anaheim Ducks,Anaheim Ducks,Calgary Flames,3,5,0.0
+401803571,2026-04-05T02:00Z,Nashville Predators at San Jose Sharks,San Jose Sharks,Nashville Predators,3,6,0.0
+401803572,2026-04-05T02:00Z,Chicago Blackhawks at Seattle Kraken,Seattle Kraken,Chicago Blackhawks,2,4,0.0
+401803573,2026-04-05T17:00Z,Minnesota Wild at Detroit Red Wings,Detroit Red Wings,Minnesota Wild,4,5,0.0
+401803574,2026-04-05T19:00Z,Florida Panthers at Pittsburgh Penguins,Pittsburgh Penguins,Florida Panthers,5,2,1.0
+401803575,2026-04-05T19:30Z,Boston Bruins at Philadelphia Flyers,Philadelphia Flyers,Boston Bruins,2,1,1.0
+401803576,2026-04-05T21:00Z,Carolina Hurricanes at Ottawa Senators,Ottawa Senators,Carolina Hurricanes,6,3,1.0
+401803577,2026-04-05T23:00Z,New Jersey Devils at Montreal Canadiens,Montreal Canadiens,New Jersey Devils,0,3,0.0
+401803578,2026-04-05T23:00Z,Washington Capitals at New York Rangers,New York Rangers,Washington Capitals,8,1,1.0
+401803579,2026-04-06T01:45Z,St. Louis Blues at Colorado Avalanche,Colorado Avalanche,St. Louis Blues,2,3,0.0
+401803580,2026-04-06T23:00Z,Tampa Bay Lightning at Buffalo Sabres,Buffalo Sabres,Tampa Bay Lightning,4,2,1.0
+401803581,2026-04-06T23:30Z,Seattle Kraken at Winnipeg Jets,Winnipeg Jets,Seattle Kraken,6,2,1.0
+401803582,2026-04-07T02:00Z,Chicago Blackhawks at San Jose Sharks,San Jose Sharks,Chicago Blackhawks,3,2,1.0
+401803583,2026-04-07T02:30Z,Nashville Predators at Los Angeles Kings,Los Angeles Kings,Nashville Predators,3,2,1.0
+401803584,2026-04-07T23:00Z,Florida Panthers at Montreal Canadiens,Montreal Canadiens,Florida Panthers,4,3,1.0
+401803585,2026-04-07T23:00Z,Tampa Bay Lightning at Ottawa Senators,Ottawa Senators,Tampa Bay Lightning,6,2,1.0
+401803586,2026-04-07T23:00Z,Columbus Blue Jackets at Detroit Red Wings,Detroit Red Wings,Columbus Blue Jackets,3,4,0.0
+401803587,2026-04-07T23:00Z,Philadelphia Flyers at New Jersey Devils,New Jersey Devils,Philadelphia Flyers,1,5,0.0
+401803588,2026-04-07T23:00Z,Boston Bruins at Carolina Hurricanes,Carolina Hurricanes,Boston Bruins,6,5,1.0
+401803589,2026-04-08T00:00Z,Colorado Avalanche at St. Louis Blues,St. Louis Blues,Colorado Avalanche,1,3,0.0
+401803590,2026-04-08T00:00Z,Calgary Flames at Dallas Stars,Dallas Stars,Calgary Flames,4,3,1.0
+401803591,2026-04-08T00:00Z,Seattle Kraken at Minnesota Wild,Minnesota Wild,Seattle Kraken,5,2,1.0
+401803592,2026-04-08T01:30Z,Edmonton Oilers at Utah Mammoth,Utah Mammoth,Edmonton Oilers,6,5,1.0
+401803593,2026-04-08T02:00Z,Vegas Golden Knights at Vancouver Canucks,Vancouver Canucks,Vegas Golden Knights,1,2,0.0
+401803594,2026-04-08T02:00Z,Nashville Predators at Anaheim Ducks,Anaheim Ducks,Nashville Predators,0,5,0.0
+401803595,2026-04-08T23:00Z,Buffalo Sabres at New York Rangers,New York Rangers,Buffalo Sabres,3,5,0.0
+401803596,2026-04-08T23:30Z,Washington Capitals at Toronto Maple Leafs,Toronto Maple Leafs,Washington Capitals,0,4,0.0
+401803597,2026-04-09T02:00Z,Edmonton Oilers at San Jose Sharks,San Jose Sharks,Edmonton Oilers,2,5,0.0
+401803603,2026-04-09T22:45Z,Toronto Maple Leafs at New York Islanders,New York Islanders,Toronto Maple Leafs,5,3,1.0
+401803598,2026-04-09T23:00Z,Columbus Blue Jackets at Buffalo Sabres,Buffalo Sabres,Columbus Blue Jackets,5,0,1.0
+401803599,2026-04-09T23:00Z,Tampa Bay Lightning at Montreal Canadiens,Montreal Canadiens,Tampa Bay Lightning,2,1,1.0
+401803600,2026-04-09T23:00Z,Florida Panthers at Ottawa Senators,Ottawa Senators,Florida Panthers,5,1,1.0
+401803601,2026-04-09T23:00Z,Philadelphia Flyers at Detroit Red Wings,Detroit Red Wings,Philadelphia Flyers,6,3,1.0
+401803602,2026-04-09T23:00Z,Pittsburgh Penguins at New Jersey Devils,New Jersey Devils,Pittsburgh Penguins,2,5,0.0
+401803604,2026-04-10T00:00Z,Winnipeg Jets at St. Louis Blues,St. Louis Blues,Winnipeg Jets,2,3,0.0
+401803606,2026-04-10T00:30Z,Carolina Hurricanes at Chicago Blackhawks,Chicago Blackhawks,Carolina Hurricanes,2,7,0.0
+401803605,2026-04-10T01:00Z,Minnesota Wild at Dallas Stars,Dallas Stars,Minnesota Wild,5,4,1.0
+401803607,2026-04-10T01:00Z,Calgary Flames at Colorado Avalanche,Colorado Avalanche,Calgary Flames,3,1,1.0
+401803608,2026-04-10T01:00Z,Nashville Predators at Utah Mammoth,Utah Mammoth,Nashville Predators,4,1,1.0
+401803609,2026-04-10T02:00Z,San Jose Sharks at Anaheim Ducks,Anaheim Ducks,San Jose Sharks,6,1,1.0
+401803610,2026-04-10T02:00Z,Vegas Golden Knights at Seattle Kraken,Seattle Kraken,Vegas Golden Knights,4,3,1.0
+401803611,2026-04-10T02:30Z,Vancouver Canucks at Los Angeles Kings,Los Angeles Kings,Vancouver Canucks,4,1,1.0
+401803612,2026-04-11T16:30Z,Tampa Bay Lightning at Boston Bruins,Boston Bruins,Tampa Bay Lightning,1,2,0.0
+401803613,2026-04-11T17:00Z,Ottawa Senators at New York Islanders,New York Islanders,Ottawa Senators,0,3,0.0
+401803614,2026-04-11T19:00Z,Washington Capitals at Pittsburgh Penguins,Pittsburgh Penguins,Washington Capitals,3,6,0.0
+401803615,2026-04-11T20:00Z,Edmonton Oilers at Los Angeles Kings,Los Angeles Kings,Edmonton Oilers,1,0,1.0
+401803616,2026-04-11T21:00Z,New Jersey Devils at Detroit Red Wings,Detroit Red Wings,New Jersey Devils,3,5,0.0
+401803617,2026-04-11T21:00Z,St. Louis Blues at Chicago Blackhawks,Chicago Blackhawks,St. Louis Blues,3,5,0.0
+401803618,2026-04-11T21:00Z,Minnesota Wild at Nashville Predators,Nashville Predators,Minnesota Wild,2,1,1.0
+401803619,2026-04-11T21:00Z,New York Rangers at Dallas Stars,Dallas Stars,New York Rangers,2,0,1.0
+401803620,2026-04-11T21:00Z,Carolina Hurricanes at Utah Mammoth,Utah Mammoth,Carolina Hurricanes,1,4,0.0
+401803621,2026-04-11T23:00Z,Florida Panthers at Toronto Maple Leafs,Toronto Maple Leafs,Florida Panthers,2,6,0.0
+401803622,2026-04-11T23:00Z,Columbus Blue Jackets at Montreal Canadiens,Montreal Canadiens,Columbus Blue Jackets,2,5,0.0
+401803623,2026-04-11T23:00Z,Philadelphia Flyers at Winnipeg Jets,Winnipeg Jets,Philadelphia Flyers,1,7,0.0
+401803624,2026-04-11T23:00Z,Calgary Flames at Seattle Kraken,Seattle Kraken,Calgary Flames,4,1,1.0
+401803625,2026-04-12T00:00Z,Vegas Golden Knights at Colorado Avalanche,Colorado Avalanche,Vegas Golden Knights,2,3,0.0
+401803626,2026-04-12T02:00Z,Vancouver Canucks at San Jose Sharks,San Jose Sharks,Vancouver Canucks,3,4,0.0
+401803627,2026-04-12T19:00Z,Pittsburgh Penguins at Washington Capitals,Washington Capitals,Pittsburgh Penguins,3,0,1.0
+401803628,2026-04-12T22:00Z,Montreal Canadiens at New York Islanders,New York Islanders,Montreal Canadiens,1,4,0.0
+401803629,2026-04-12T22:00Z,Boston Bruins at Columbus Blue Jackets,Columbus Blue Jackets,Boston Bruins,2,3,0.0
+401803630,2026-04-12T23:00Z,Ottawa Senators at New Jersey Devils,New Jersey Devils,Ottawa Senators,4,3,1.0
+401803631,2026-04-13T00:00Z,Vancouver Canucks at Anaheim Ducks,Anaheim Ducks,Vancouver Canucks,3,4,0.0
+401803632,2026-04-13T01:00Z,Utah Mammoth at Calgary Flames,Calgary Flames,Utah Mammoth,4,1,1.0
+401803633,2026-04-13T23:00Z,Detroit Red Wings at Tampa Bay Lightning,Tampa Bay Lightning,Detroit Red Wings,4,3,1.0
+401803634,2026-04-13T23:00Z,New York Rangers at Florida Panthers,Florida Panthers,New York Rangers,3,2,1.0
+401803635,2026-04-13T23:00Z,Carolina Hurricanes at Philadelphia Flyers,Philadelphia Flyers,Carolina Hurricanes,3,2,1.0
+401803636,2026-04-13T23:30Z,Dallas Stars at Toronto Maple Leafs,Toronto Maple Leafs,Dallas Stars,5,6,0.0
+401803637,2026-04-14T00:00Z,Minnesota Wild at St. Louis Blues,St. Louis Blues,Minnesota Wild,6,3,1.0
+401803638,2026-04-14T00:00Z,San Jose Sharks at Nashville Predators,Nashville Predators,San Jose Sharks,2,3,0.0
+401803639,2026-04-14T00:30Z,Buffalo Sabres at Chicago Blackhawks,Chicago Blackhawks,Buffalo Sabres,1,5,0.0
+401803640,2026-04-14T01:30Z,Colorado Avalanche at Edmonton Oilers,Edmonton Oilers,Colorado Avalanche,1,2,0.0
+401803642,2026-04-14T01:30Z,Los Angeles Kings at Seattle Kraken,Seattle Kraken,Los Angeles Kings,3,5,0.0
+401803641,2026-04-14T02:00Z,Winnipeg Jets at Vegas Golden Knights,Vegas Golden Knights,Winnipeg Jets,6,2,1.0
+401803643,2026-04-14T23:00Z,New Jersey Devils at Boston Bruins,Boston Bruins,New Jersey Devils,4,0,1.0
+401803644,2026-04-14T23:00Z,Carolina Hurricanes at New York Islanders,New York Islanders,Carolina Hurricanes,1,2,0.0
+401803645,2026-04-14T23:00Z,Montreal Canadiens at Philadelphia Flyers,Philadelphia Flyers,Montreal Canadiens,4,2,1.0
+401803646,2026-04-14T23:00Z,Washington Capitals at Columbus Blue Jackets,Columbus Blue Jackets,Washington Capitals,1,2,0.0
+401803647,2026-04-15T00:00Z,Anaheim Ducks at Minnesota Wild,Minnesota Wild,Anaheim Ducks,3,2,1.0
+401803648,2026-04-15T01:00Z,Winnipeg Jets at Utah Mammoth,Utah Mammoth,Winnipeg Jets,5,3,1.0
+401803649,2026-04-15T01:00Z,Colorado Avalanche at Calgary Flames,Calgary Flames,Colorado Avalanche,1,3,0.0
+401803650,2026-04-15T01:30Z,Pittsburgh Penguins at St. Louis Blues,St. Louis Blues,Pittsburgh Penguins,7,5,1.0
+401803651,2026-04-15T02:00Z,Los Angeles Kings at Vancouver Canucks,Vancouver Canucks,Los Angeles Kings,4,3,1.0
+401803652,2026-04-15T23:00Z,Dallas Stars at Buffalo Sabres,Buffalo Sabres,Dallas Stars,3,4,0.0
+401803653,2026-04-15T23:00Z,New York Rangers at Tampa Bay Lightning,Tampa Bay Lightning,New York Rangers,2,4,0.0
+401803654,2026-04-15T23:00Z,Detroit Red Wings at Florida Panthers,Florida Panthers,Detroit Red Wings,8,1,1.0
+401803655,2026-04-15T23:30Z,Toronto Maple Leafs at Ottawa Senators,Ottawa Senators,Toronto Maple Leafs,3,1,1.0
+401803656,2026-04-16T00:30Z,San Jose Sharks at Chicago Blackhawks,Chicago Blackhawks,San Jose Sharks,5,2,1.0
+401803657,2026-04-16T02:00Z,Seattle Kraken at Vegas Golden Knights,Vegas Golden Knights,Seattle Kraken,4,1,1.0
+401803660,2026-04-16T23:30Z,St. Louis Blues at Utah Mammoth,Utah Mammoth,St. Louis Blues,3,5,0.0
+401803658,2026-04-17T00:00Z,Anaheim Ducks at Nashville Predators,Nashville Predators,Anaheim Ducks,4,5,0.0
+401803659,2026-04-17T00:00Z,San Jose Sharks at Winnipeg Jets,Winnipeg Jets,San Jose Sharks,1,6,0.0
+401803661,2026-04-17T01:00Z,Los Angeles Kings at Calgary Flames,Calgary Flames,Los Angeles Kings,3,1,1.0
+401803662,2026-04-17T01:00Z,Vancouver Canucks at Edmonton Oilers,Edmonton Oilers,Vancouver Canucks,6,1,1.0
+401803663,2026-04-17T02:00Z,Seattle Kraken at Colorado Avalanche,Colorado Avalanche,Seattle Kraken,2,0,1.0
+401869715,2026-04-18T19:00Z,Ottawa Senators at Carolina Hurricanes,Carolina Hurricanes,Ottawa Senators,2,0,1.0
+401869716,2026-04-18T21:30Z,Minnesota Wild at Dallas Stars,Dallas Stars,Minnesota Wild,1,6,0.0
+401869717,2026-04-19T00:00Z,Philadelphia Flyers at Pittsburgh Penguins,Pittsburgh Penguins,Philadelphia Flyers,2,3,0.0
+401869721,2026-04-19T19:00Z,Los Angeles Kings at Colorado Avalanche,Colorado Avalanche,Los Angeles Kings,2,1,1.0
+401869718,2026-04-19T21:45Z,Montreal Canadiens at Tampa Bay Lightning,Tampa Bay Lightning,Montreal Canadiens,3,4,0.0
+401869719,2026-04-19T23:30Z,Boston Bruins at Buffalo Sabres,Buffalo Sabres,Boston Bruins,4,3,1.0
+401869720,2026-04-20T02:22Z,Utah Mammoth at Vegas Golden Knights,Vegas Golden Knights,Utah Mammoth,4,2,1.0
+401869794,2026-04-20T23:00Z,Philadelphia Flyers at Pittsburgh Penguins,Pittsburgh Penguins,Philadelphia Flyers,0,3,0.0
+401869781,2026-04-20T23:30Z,Ottawa Senators at Carolina Hurricanes,Carolina Hurricanes,Ottawa Senators,3,2,1.0
+401869780,2026-04-21T01:50Z,Minnesota Wild at Dallas Stars,Dallas Stars,Minnesota Wild,4,2,1.0
+401869722,2026-04-21T02:22Z,Anaheim Ducks at Edmonton Oilers,Edmonton Oilers,Anaheim Ducks,4,3,1.0
+401869769,2026-04-21T23:00Z,Montreal Canadiens at Tampa Bay Lightning,Tampa Bay Lightning,Montreal Canadiens,3,2,1.0
+401869757,2026-04-21T23:30Z,Boston Bruins at Buffalo Sabres,Buffalo Sabres,Boston Bruins,2,4,0.0
+401869756,2026-04-22T01:52Z,Utah Mammoth at Vegas Golden Knights,Vegas Golden Knights,Utah Mammoth,2,3,0.0
+401869792,2026-04-22T02:22Z,Los Angeles Kings at Colorado Avalanche,Colorado Avalanche,Los Angeles Kings,2,1,1.0
+401869796,2026-04-22T23:00Z,Pittsburgh Penguins at Philadelphia Flyers,Philadelphia Flyers,Pittsburgh Penguins,5,2,1.0
+401869782,2026-04-23T01:30Z,Dallas Stars at Minnesota Wild,Minnesota Wild,Dallas Stars,3,4,0.0
+401869768,2026-04-23T02:00Z,Anaheim Ducks at Edmonton Oilers,Edmonton Oilers,Anaheim Ducks,4,6,0.0
+401869759,2026-04-23T23:00Z,Buffalo Sabres at Boston Bruins,Boston Bruins,Buffalo Sabres,1,3,0.0
+401869783,2026-04-23T23:30Z,Carolina Hurricanes at Ottawa Senators,Ottawa Senators,Carolina Hurricanes,1,2,0.0
+401869793,2026-04-24T02:00Z,Colorado Avalanche at Los Angeles Kings,Los Angeles Kings,Colorado Avalanche,2,4,0.0
+401869771,2026-04-24T23:00Z,Tampa Bay Lightning at Montreal Canadiens,Montreal Canadiens,Tampa Bay Lightning,3,2,1.0
+401869758,2026-04-25T01:30Z,Vegas Golden Knights at Utah Mammoth,Utah Mammoth,Vegas Golden Knights,4,2,1.0
+401869770,2026-04-25T02:00Z,Edmonton Oilers at Anaheim Ducks,Anaheim Ducks,Edmonton Oilers,6,4,1.0
+401869786,2026-04-25T19:00Z,Carolina Hurricanes at Ottawa Senators,Ottawa Senators,Carolina Hurricanes,2,4,0.0
+401869784,2026-04-25T21:30Z,Dallas Stars at Minnesota Wild,Minnesota Wild,Dallas Stars,3,2,1.0
+401869799,2026-04-26T00:00Z,Pittsburgh Penguins at Philadelphia Flyers,Philadelphia Flyers,Pittsburgh Penguins,2,4,0.0
+401869762,2026-04-26T18:00Z,Buffalo Sabres at Boston Bruins,Boston Bruins,Buffalo Sabres,1,6,0.0
+401869795,2026-04-26T20:30Z,Colorado Avalanche at Los Angeles Kings,Los Angeles Kings,Colorado Avalanche,1,5,0.0
+401869773,2026-04-26T23:00Z,Tampa Bay Lightning at Montreal Canadiens,Montreal Canadiens,Tampa Bay Lightning,2,3,0.0
+401869772,2026-04-27T01:52Z,Edmonton Oilers at Anaheim Ducks,Anaheim Ducks,Edmonton Oilers,4,3,1.0
+401869801,2026-04-27T23:00Z,Philadelphia Flyers at Pittsburgh Penguins,Pittsburgh Penguins,Philadelphia Flyers,3,2,1.0
+401869760,2026-04-28T01:50Z,Vegas Golden Knights at Utah Mammoth,Utah Mammoth,Vegas Golden Knights,4,5,0.0
+401869764,2026-04-28T23:30Z,Boston Bruins at Buffalo Sabres,Buffalo Sabres,Boston Bruins,1,2,0.0
+401869785,2026-04-29T00:00Z,Minnesota Wild at Dallas Stars,Dallas Stars,Minnesota Wild,2,4,0.0
+401869774,2026-04-29T02:00Z,Anaheim Ducks at Edmonton Oilers,Edmonton Oilers,Anaheim Ducks,4,1,1.0
+401869775,2026-04-29T23:00Z,Montreal Canadiens at Tampa Bay Lightning,Tampa Bay Lightning,Montreal Canadiens,2,3,0.0
+401869802,2026-04-29T23:30Z,Pittsburgh Penguins at Philadelphia Flyers,Philadelphia Flyers,Pittsburgh Penguins,1,0,1.0
+401869761,2026-04-30T02:00Z,Utah Mammoth at Vegas Golden Knights,Vegas Golden Knights,Utah Mammoth,5,4,1.0
+401869787,2026-04-30T23:30Z,Dallas Stars at Minnesota Wild,Minnesota Wild,Dallas Stars,5,2,1.0
+401869776,2026-05-01T02:00Z,Edmonton Oilers at Anaheim Ducks,Anaheim Ducks,Edmonton Oilers,5,2,1.0

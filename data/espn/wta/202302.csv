@@ -1,0 +1,560 @@
+id,date,event,home,away,hs,as,res
+129963,2023-01-28T04:05Z,Thailand Open,Ipek Oz,Haruka Kaji,,,1.0
+129972,2023-01-28T04:05Z,Thailand Open,Ellen Perez,Irina Khromacheva,,,1.0
+129971,2023-01-28T04:10Z,Thailand Open,Astra Sharma,Chompoothip Jundakate,,,1.0
+129965,2023-01-28T05:30Z,Thailand Open,Joanne Zuger,Ivanna Yastremska,,,1.0
+129966,2023-01-28T05:30Z,Thailand Open,Peangtarn Plipuech,Anastasia Tikhonova,,,1.0
+129967,2023-01-28T05:35Z,Thailand Open,Alexandra Eala,Han Xinyun,,,1.0
+129969,2023-01-28T07:00Z,Thailand Open,Natalija Stevanovic,Kaylah McPhee,,,1.0
+129964,2023-01-28T07:45Z,Thailand Open,En-Shuo Liang,Kathinka von Deichmann,,,1.0
+129968,2023-01-28T08:35Z,Thailand Open,Ekaterina Yashina,Kristina Dmitruk,,,0.0
+129961,2023-01-28T08:50Z,Thailand Open,Miyu Kato,Luksika Kumkhum,,,1.0
+129970,2023-01-28T09:45Z,Thailand Open,Gao Xinyu,Valeria Savinykh,,,0.0
+129962,2023-01-28T10:20Z,Thailand Open,Aunchisa Chanta,Ekaterina Makarova,,,0.0
+129998,2023-01-29T05:05Z,Thailand Open,Astra Sharma,Ellen Perez,,,1.0
+129995,2023-01-29T05:05Z,Thailand Open,Joanne Zuger,Peangtarn Plipuech,,,1.0
+129994,2023-01-29T06:40Z,Thailand Open,Ipek Oz,En-Shuo Liang,,,0.0
+129996,2023-01-29T07:30Z,Thailand Open,Alexandra Eala,Kristina Dmitruk,,,1.0
+129997,2023-01-29T08:45Z,Thailand Open,Natalija Stevanovic,Valeria Savinykh,,,0.0
+129993,2023-01-29T08:50Z,Thailand Open,Miyu Kato,Ekaterina Makarova,,,0.0
+130004,2023-01-30T07:05Z,Thailand Open,Ysaline Bonaventure,Lesia Tsurenko,,,0.0
+130021,2023-01-30T07:05Z,Thailand Open,Katie Boulter,Su-Jeong Jang,,,0.0
+130023,2023-01-30T09:00Z,Thailand Open,Wang Xinyu,Joanne Zuger,,,1.0
+130020,2023-01-30T10:05Z,Thailand Open,Zhu Lin,Wang Xiyu,,,1.0
+130025,2023-01-30T11:40Z,Thailand Open,Astra Sharma,Tamara Zidansek,,,0.0
+130022,2023-01-30T13:15Z,Thailand Open,Lanlana Tararudee,Mirjam Bjorklund,,,0.0
+130024,2023-01-31T07:05Z,Thailand Open,Alexandra Eala,Tatjana Maria,,,0.0
+130008,2023-01-31T07:05Z,Thailand Open,Valeria Savinykh,Nao Hibino,,,0.5
+130017,2023-01-31T07:05Z,Thailand Open,Heather Watson,Yulia Putintseva,,,1.0
+129999,2023-01-31T08:30Z,Thailand Open,Anna Kalinskaya,Ekaterina Makarova,,,1.0
+130018,2023-01-31T08:30Z,Thailand Open,Elena-Gabriela Ruse,Na-Lae Han,,,0.0
+130010,2023-01-31T10:00Z,Thailand Open,Anna Karolina Schmiedlova,Anastasia Zakharova,,,0.0
+130026,2023-01-31T10:20Z,Thailand Open,Linda Fruhvirtova,Bethanie Mattek-Sands,,,1.0
+130001,2023-01-31T10:50Z,Thailand Open,En-Shuo Liang,Marta Kostyuk,,,0.0
+130003,2023-01-31T11:45Z,Thailand Open,Dayana Yastremska,Moyuka Uchijima,,,1.0
+130005,2023-01-31T14:40Z,Thailand Open,Bianca Andreescu,Harriet Dart,,,1.0
+130007,2023-02-01T07:10Z,Thailand Open,Su-Jeong Jang,Zhu Lin,,,0.0
+130006,2023-02-01T09:45Z,Thailand Open,Wang Xinyu,Mirjam Bjorklund,,,1.0
+130014,2023-02-01T11:25Z,Thailand Open,Linda Fruhvirtova,Tamara Zidansek,,,0.0
+130012,2023-02-01T14:40Z,Thailand Open,Anna Kalinskaya,Lesia Tsurenko,,,0.0
+130013,2023-02-02T07:10Z,Thailand Open,Nao Hibino,Marta Kostyuk,,,0.0
+130011,2023-02-02T07:30Z,Thailand Open,Na-Lae Han,Heather Watson,,,0.0
+130015,2023-02-02T09:10Z,Thailand Open,Dayana Yastremska,Tatjana Maria,,,0.0
+130019,2023-02-02T10:40Z,Thailand Open,Bianca Andreescu,Anastasia Zakharova,,,1.0
+130016,2023-02-03T07:10Z,Thailand Open,Wang Xinyu,Heather Watson,,,1.0
+130000,2023-02-03T10:05Z,Thailand Open,Tamara Zidansek,Zhu Lin,,,0.0
+130002,2023-02-03T11:30Z,Thailand Open,Lesia Tsurenko,Tatjana Maria,,,1.0
+130009,2023-02-03T13:05Z,Thailand Open,Bianca Andreescu,Marta Kostyuk,,,1.0
+130027,2023-02-04T10:05Z,Thailand Open,Zhu Lin,Wang Xinyu,,,1.0
+130028,2023-02-04T12:05Z,Thailand Open,Bianca Andreescu,Lesia Tsurenko,,,0.0
+130029,2023-02-05T10:40Z,Thailand Open,Lesia Tsurenko,Zhu Lin,,,0.0
+129980,2023-01-28T09:10Z,Open 6ème Sens Métropole de Lyon,Anna-Lena Friedsam,Kaja Juvan,,,0.0
+129979,2023-01-28T09:10Z,Open 6ème Sens Métropole de Lyon,Rebeka Masarova,Amandine Hesse,,,1.0
+129981,2023-01-28T10:35Z,Open 6ème Sens Métropole de Lyon,Kateryna Baindl,Ana Konjuh,,,0.0
+129982,2023-01-28T11:50Z,Open 6ème Sens Métropole de Lyon,Simona Waltert,Magdalena Frech,,,1.0
+129973,2023-01-28T13:30Z,Open 6ème Sens Métropole de Lyon,Linda Noskova,Margaux Rouvroy,,,1.0
+129974,2023-01-28T14:20Z,Open 6ème Sens Métropole de Lyon,Viktoria Hruncakova,Cristina Bucsa,,,1.0
+129978,2023-01-28T14:55Z,Open 6ème Sens Métropole de Lyon,Jessika Ponchet,Diane Parry,,,0.0
+129977,2023-01-28T15:50Z,Open 6ème Sens Métropole de Lyon,Viktoriya Tomova,Erika Andreeva,,,0.0
+129984,2023-01-28T16:40Z,Open 6ème Sens Métropole de Lyon,Alice Tubello,Sara Errani,,,0.0
+129975,2023-01-28T18:25Z,Open 6ème Sens Métropole de Lyon,Camila Giorgi,Katie Swan,,,0.0
+129983,2023-01-28T18:25Z,Open 6ème Sens Métropole de Lyon,Varvara Gracheva,Marina Bassols Ribera,,,0.0
+129976,2023-01-28T19:40Z,Open 6ème Sens Métropole de Lyon,Olga Danilovic,Clara Tauson,,,1.0
+130064,2023-01-29T10:10Z,Open 6ème Sens Métropole de Lyon,Rebeka Masarova,Kaja Juvan,,,1.0
+130065,2023-01-29T11:10Z,Open 6ème Sens Métropole de Lyon,Ana Konjuh,Simona Waltert,,,1.0
+130061,2023-01-29T12:45Z,Open 6ème Sens Métropole de Lyon,Linda Noskova,Viktoria Hruncakova,,,1.0
+130063,2023-01-29T13:20Z,Open 6ème Sens Métropole de Lyon,Erika Andreeva,Diane Parry,,,1.0
+130066,2023-01-29T14:00Z,Open 6ème Sens Métropole de Lyon,Marina Bassols Ribera,Sara Errani,,,1.0
+130062,2023-01-29T15:15Z,Open 6ème Sens Métropole de Lyon,Katie Swan,Olga Danilovic,,,0.0
+130044,2023-01-30T10:35Z,Open 6ème Sens Métropole de Lyon,Ana Konjuh,Mayar Sherif,,,0.0
+130033,2023-01-30T10:35Z,Open 6ème Sens Métropole de Lyon,Dalma Galfi,Maryna Zanevska,,,0.0
+130041,2023-01-30T12:15Z,Open 6ème Sens Métropole de Lyon,Alize Cornet,Camila Osorio,,,0.0
+130031,2023-01-30T12:20Z,Open 6ème Sens Métropole de Lyon,Anastasia Potapova,Marina Bassols Ribera,,,1.0
+130045,2023-01-30T14:55Z,Open 6ème Sens Métropole de Lyon,Linda Noskova,Garbine Muguruza,,,1.0
+130036,2023-01-30T16:40Z,Open 6ème Sens Métropole de Lyon,Kristina Mladenovic,Petra Martic,,,0.0
+130038,2023-01-30T19:10Z,Open 6ème Sens Métropole de Lyon,Olga Danilovic,Jule Niemeier,,,0.0
+130042,2023-01-31T10:30Z,Open 6ème Sens Métropole de Lyon,Erika Andreeva,Anna Blinkova,,,1.0
+130034,2023-01-31T10:35Z,Open 6ème Sens Métropole de Lyon,Nuria Parrizas Diaz,Anna Bondar,,,0.0
+130037,2023-01-31T12:35Z,Open 6ème Sens Métropole de Lyon,Alycia Parks,Julia Grabher,,,1.0
+130035,2023-01-31T12:50Z,Open 6ème Sens Métropole de Lyon,Danka Kovinic,Viktorija Golubic,,,1.0
+130032,2023-01-31T14:40Z,Open 6ème Sens Métropole de Lyon,Madison Brengle,Zhang Shuai,,,0.0
+130043,2023-01-31T16:40Z,Open 6ème Sens Métropole de Lyon,Caroline Garcia,Tereza Martincova,,,1.0
+130030,2023-01-31T19:00Z,Open 6ème Sens Métropole de Lyon,Ana Bogdan,Clara Burel,,,0.0
+130039,2023-02-01T11:10Z,Open 6ème Sens Métropole de Lyon,Rebeka Masarova,Jasmine Paolini,,,0.0
+130040,2023-02-01T12:45Z,Open 6ème Sens Métropole de Lyon,Alison Van Uytvanck,Tamara Korpatsch,,,1.0
+130055,2023-02-01T14:20Z,Open 6ème Sens Métropole de Lyon,Alycia Parks,Petra Martic,,,1.0
+130047,2023-02-01T17:40Z,Open 6ème Sens Métropole de Lyon,Camila Osorio,Jule Niemeier,,,1.0
+130053,2023-02-01T19:55Z,Open 6ème Sens Métropole de Lyon,Linda Noskova,Mayar Sherif,,,1.0
+130052,2023-02-02T11:05Z,Open 6ème Sens Métropole de Lyon,Danka Kovinic,Anna Bondar,,,1.0
+130054,2023-02-02T13:40Z,Open 6ème Sens Métropole de Lyon,Anastasia Potapova,Clara Burel,,,1.0
+130050,2023-02-02T16:10Z,Open 6ème Sens Métropole de Lyon,Maryna Zanevska,Zhang Shuai,,,1.0
+130046,2023-02-02T17:35Z,Open 6ème Sens Métropole de Lyon,Caroline Garcia,Alison Van Uytvanck,,,1.0
+130048,2023-02-02T19:35Z,Open 6ème Sens Métropole de Lyon,Jasmine Paolini,Erika Andreeva,,,1.0
+130057,2023-02-03T12:05Z,Open 6ème Sens Métropole de Lyon,Danka Kovinic,Alycia Parks,,,0.0
+130056,2023-02-03T13:45Z,Open 6ème Sens Métropole de Lyon,Anastasia Potapova,Maryna Zanevska,,,0.0
+130049,2023-02-03T16:40Z,Open 6ème Sens Métropole de Lyon,Caroline Garcia,Jasmine Paolini,,,1.0
+130051,2023-02-03T18:40Z,Open 6ème Sens Métropole de Lyon,Camila Osorio,Linda Noskova,,,1.0
+130058,2023-02-04T14:05Z,Open 6ème Sens Métropole de Lyon,Alycia Parks,Maryna Zanevska,,,1.0
+130059,2023-02-04T16:10Z,Open 6ème Sens Métropole de Lyon,Caroline Garcia,Camila Osorio,,,1.0
+130060,2023-02-05T14:35Z,Open 6ème Sens Métropole de Lyon,Caroline Garcia,Alycia Parks,,,0.0
+129986,2023-01-28T16:10Z,Copa Oster,Emily Seibold,Olivia Tjandramulia,,,1.0
+129985,2023-01-28T16:10Z,Copa Oster,Carolina Alves,Alexandra Riley,,,1.0
+129987,2023-01-28T17:30Z,Copa Oster,Kyoka Okamura,Cadence Brace,,,0.0
+129988,2023-01-28T17:30Z,Copa Oster,Sabastiani Leon,Martina Colmegna,,,0.0
+129991,2023-01-28T18:10Z,Copa Oster,Maria Camila Torres Murcia,Yuliana Monroy,,,0.0
+129989,2023-01-28T19:00Z,Copa Oster,Luisa Meyer Auf Der Heide,Quinn Gleason,,,0.0
+129990,2023-01-28T19:00Z,Copa Oster,Maria Paula Vargas Triana,Amina Anshba,,,0.0
+129992,2023-01-28T20:10Z,Copa Oster,Mariapaz Ospina,Marine Partaud,,,0.0
+130067,2023-01-29T16:10Z,Copa Oster,Carolina Alves,Emily Seibold,,,1.0
+130068,2023-01-29T16:10Z,Copa Oster,Cadence Brace,Martina Colmegna,,,0.0
+130070,2023-01-29T17:30Z,Copa Oster,Yuliana Monroy,Marine Partaud,,,0.0
+130069,2023-01-29T17:55Z,Copa Oster,Quinn Gleason,Amina Anshba,,,1.0
+130090,2023-01-30T16:00Z,Copa Oster,Nuria Brancaccio,Julia Riera,,,1.0
+130088,2023-01-30T16:05Z,Copa Oster,Weronika Falkowska,Paula Ormaechea,,,0.0
+130093,2023-01-30T18:00Z,Copa Oster,Gabriela Ce,Laura Pigossi,,,0.0
+130082,2023-01-30T18:50Z,Copa Oster,Marine Partaud,Fernanda Contreras Gomez,,,0.0
+130096,2023-01-30T20:45Z,Copa Oster,Raluka Serban,Quinn Gleason,,,1.0
+130097,2023-01-31T00:10Z,Copa Oster,Katarzyna Kawa,Aliona Bolsova,,,0.0
+130085,2023-01-31T16:00Z,Copa Oster,Jamie Loeb,Carole Monnet,,,0.0
+130095,2023-01-31T16:05Z,Copa Oster,Maria Herazo Gonzalez,Valeriya Strakhova,,,0.0
+130076,2023-01-31T16:05Z,Copa Oster,Maria Lourdes Carle,Martina Colmegna,,,0.0
+130098,2023-01-31T16:05Z,Copa Oster,Caroline Dolehide,Carolina Alves,,,0.0
+130080,2023-01-31T17:40Z,Copa Oster,Maria Paulina Perez Garcia,You Xiaodi,,,0.0
+130089,2023-01-31T18:00Z,Copa Oster,Hailey Baptiste,Elvina Kalieva,,,0.0
+130075,2023-01-31T18:05Z,Copa Oster,Emiliana Arango,Carol Zhao,,,1.0
+130078,2023-01-31T20:00Z,Copa Oster,Yuliana Lizarazo,Whitney Osuigwe,,,1.0
+130074,2023-01-31T21:30Z,Copa Oster,Renata Zarazua,Jessie Aney,,,1.0
+130071,2023-02-01T00:10Z,Copa Oster,Reka Luca Jani,Nadia Podoroska,,,0.0
+130087,2023-02-01T16:00Z,Copa Oster,Paula Ormaechea,Aliona Bolsova,,,1.0
+130091,2023-02-01T17:00Z,Copa Oster,You Xiaodi,Fernanda Contreras Gomez,,,0.0
+130073,2023-02-01T20:00Z,Copa Oster,Elvina Kalieva,Nuria Brancaccio,,,1.0
+130086,2023-02-02T00:45Z,Copa Oster,Raluka Serban,Laura Pigossi,,,0.0
+130094,2023-02-02T16:10Z,Copa Oster,Nadia Podoroska,Carole Monnet,,,1.0
+130084,2023-02-02T16:10Z,Copa Oster,Carolina Alves,Valeriya Strakhova,,,0.0
+130072,2023-02-02T18:50Z,Copa Oster,Renata Zarazua,Emiliana Arango,,,0.0
+130092,2023-02-02T22:40Z,Copa Oster,Martina Colmegna,Yuliana Lizarazo,,,1.0
+130079,2023-02-03T16:10Z,Copa Oster,Valeriya Strakhova,Laura Pigossi,,,0.0
+130077,2023-02-03T16:10Z,Copa Oster,Elvina Kalieva,Paula Ormaechea,,,0.0
+130081,2023-02-03T19:10Z,Copa Oster,Nadia Podoroska,Fernanda Contreras Gomez,,,1.0
+130083,2023-02-03T21:00Z,Copa Oster,Martina Colmegna,Emiliana Arango,,,0.0
+130100,2023-02-04T16:30Z,Copa Oster,Paula Ormaechea,Laura Pigossi,,,1.0
+130099,2023-02-04T18:50Z,Copa Oster,Nadia Podoroska,Emiliana Arango,,,1.0
+130101,2023-02-05T18:40Z,Copa Oster,Nadia Podoroska,Paula Ormaechea,,,1.0
+130248,2023-02-05T09:05Z,Upper Austria Ladies Linz,Varvara Gracheva,Sinja Kraus,,,1.0
+130258,2023-02-05T09:05Z,Upper Austria Ladies Linz,Rebeka Masarova,Georgina Garcia Perez,,,1.0
+130259,2023-02-05T10:30Z,Upper Austria Ladies Linz,Alina Michalitsch,Clara Tauson,,,0.0
+130249,2023-02-05T10:40Z,Upper Austria Ladies Linz,Ingrid Gamarra Martins,Anna-Lena Friedsam,,,0.0
+130252,2023-02-05T12:00Z,Upper Austria Ladies Linz,Johanna Hiesmair,Andrea Gamiz,,,0.0
+130257,2023-02-05T12:00Z,Upper Austria Ladies Linz,Anastasia Pavlyuchenkova,Viktoria Hruncakova,,,1.0
+130253,2023-02-05T13:30Z,Upper Austria Ladies Linz,Denisa Hindova,Sara Errani,,,0.0
+130256,2023-02-05T13:30Z,Upper Austria Ladies Linz,Viktoriya Tomova,Barbara Haas,,,1.0
+130254,2023-02-05T15:00Z,Upper Austria Ladies Linz,Dalma Galfi,Melanie Klaffner,,,1.0
+130250,2023-02-05T15:35Z,Upper Austria Ladies Linz,Kateryna Baindl,Noma Noha Akugue,,,0.0
+130255,2023-02-05T16:40Z,Upper Austria Ladies Linz,Veronika Bokor,Kamilla Rakhimova,,,0.0
+130251,2023-02-05T17:05Z,Upper Austria Ladies Linz,Miriam Skoch,Marina Bassols Ribera,,,0.0
+130338,2023-02-06T09:05Z,Upper Austria Ladies Linz,Varvara Gracheva,Anna-Lena Friedsam,,,0.0
+130343,2023-02-06T09:05Z,Upper Austria Ladies Linz,Rebeka Masarova,Clara Tauson,,,1.0
+130340,2023-02-06T10:45Z,Upper Austria Ladies Linz,Andrea Gamiz,Sara Errani,,,0.0
+130342,2023-02-06T11:15Z,Upper Austria Ladies Linz,Viktoriya Tomova,Anastasia Pavlyuchenkova,,,1.0
+130339,2023-02-06T12:15Z,Upper Austria Ladies Linz,Noma Noha Akugue,Marina Bassols Ribera,,,0.0
+130341,2023-02-06T13:30Z,Upper Austria Ladies Linz,Dalma Galfi,Kamilla Rakhimova,,,1.0
+130360,2023-02-06T18:55Z,Upper Austria Ladies Linz,Jule Niemeier,Sofia Kenin,,,1.0
+130356,2023-02-07T10:05Z,Upper Austria Ladies Linz,Kamilla Rakhimova,Eva Lys,,,0.0
+130365,2023-02-07T10:05Z,Upper Austria Ladies Linz,Linda Noskova,Alison Van Uytvanck,,,0.0
+130357,2023-02-07T12:00Z,Upper Austria Ladies Linz,Marketa Vondrousova,Viktoriya Tomova,,,1.0
+130355,2023-02-07T12:15Z,Upper Austria Ladies Linz,Rebeka Masarova,Ekaterina Alexandrova,,,1.0
+130362,2023-02-07T13:35Z,Upper Austria Ladies Linz,Marina Bassols Ribera,Petra Martic,,,0.0
+130359,2023-02-07T15:05Z,Upper Austria Ladies Linz,Bernarda Pera,Dalma Galfi,,,0.0
+130363,2023-02-07T15:10Z,Upper Austria Ladies Linz,Anastasia Potapova,Lucia Bronzetti,,,1.0
+130377,2023-02-07T17:30Z,Upper Austria Ladies Linz,Camila Giorgi,Jaqueline Cristian,,,1.0
+130354,2023-02-07T18:05Z,Upper Austria Ladies Linz,Varvara Gracheva,Anna Blinkova,,,1.0
+130368,2023-02-07T18:45Z,Upper Austria Ladies Linz,Maria Sakkari,Nuria Parrizas Diaz,,,1.0
+130380,2023-02-07T20:45Z,Upper Austria Ladies Linz,Tamara Korpatsch,Donna Vekic,,,0.0
+130361,2023-02-08T11:10Z,Upper Austria Ladies Linz,Anna-Lena Friedsam,Sara Errani,,,1.0
+130358,2023-02-08T11:10Z,Upper Austria Ladies Linz,Alycia Parks,Anhelina Kalinina,,,0.0
+130372,2023-02-08T13:10Z,Upper Austria Ladies Linz,Marketa Vondrousova,Rebeka Masarova,,,1.0
+130381,2023-02-08T13:15Z,Upper Austria Ladies Linz,Irina-Camelia Begu,Clara Tauson,,,0.0
+130367,2023-02-08T15:05Z,Upper Austria Ladies Linz,Madison Brengle,Julia Grabher,,,1.0
+130378,2023-02-08T17:40Z,Upper Austria Ladies Linz,Maria Sakkari,Varvara Gracheva,,,1.0
+130373,2023-02-08T19:20Z,Upper Austria Ladies Linz,Anastasia Potapova,Jule Niemeier,,,1.0
+130371,2023-02-09T13:05Z,Upper Austria Ladies Linz,Dalma Galfi,Eva Lys,,,1.0
+130374,2023-02-09T13:05Z,Upper Austria Ladies Linz,Anna-Lena Friedsam,Anhelina Kalinina,,,1.0
+130379,2023-02-09T15:15Z,Upper Austria Ladies Linz,Madison Brengle,Donna Vekic,,,0.0
+130375,2023-02-09T17:30Z,Upper Austria Ladies Linz,Clara Tauson,Camila Giorgi,,,1.0
+130376,2023-02-09T20:00Z,Upper Austria Ladies Linz,Alison Van Uytvanck,Petra Martic,,,0.0
+130364,2023-02-10T13:05Z,Upper Austria Ladies Linz,Dalma Galfi,Marketa Vondrousova,,,0.0
+130366,2023-02-10T15:10Z,Upper Austria Ladies Linz,Anastasia Potapova,Anna-Lena Friedsam,,,1.0
+130369,2023-02-10T17:35Z,Upper Austria Ladies Linz,Maria Sakkari,Donna Vekic,,,1.0
+130370,2023-02-10T20:10Z,Upper Austria Ladies Linz,Clara Tauson,Petra Martic,,,0.0
+130382,2023-02-11T13:10Z,Upper Austria Ladies Linz,Anastasia Potapova,Marketa Vondrousova,,,1.0
+130384,2023-02-11T15:35Z,Upper Austria Ladies Linz,Maria Sakkari,Petra Martic,,,0.0
+130383,2023-02-12T14:10Z,Upper Austria Ladies Linz,Petra Martic,Anastasia Potapova,,,0.0
+130210,2023-02-05T07:05Z,Mubadala Abu Dhabi Open presented by Abu Dhabi Sports Council,Laura Siegemund,Dayana Yastremska,,,0.0
+130208,2023-02-05T07:05Z,Mubadala Abu Dhabi Open presented by Abu Dhabi Sports Council,Su-Jeong Jang,Magdalena Frech,,,0.0
+130207,2023-02-05T07:05Z,Mubadala Abu Dhabi Open presented by Abu Dhabi Sports Council,Shelby Rogers,Vera Zvonareva,,,1.0
+130209,2023-02-05T08:30Z,Mubadala Abu Dhabi Open presented by Abu Dhabi Sports Council,Claire Liu,Stefania Bojica,,,1.0
+130206,2023-02-05T08:40Z,Mubadala Abu Dhabi Open presented by Abu Dhabi Sports Council,Nigina Abduraimova,Diane Parry,,,1.0
+130205,2023-02-05T10:00Z,Mubadala Abu Dhabi Open presented by Abu Dhabi Sports Council,Yulia Putintseva,Anastasia Zakharova,,,1.0
+130202,2023-02-05T10:05Z,Mubadala Abu Dhabi Open presented by Abu Dhabi Sports Council,Elena-Gabriela Ruse,Tereza Martincova,,,1.0
+130203,2023-02-05T10:15Z,Mubadala Abu Dhabi Open presented by Abu Dhabi Sports Council,Leylah Fernandez,Kristina Mladenovic,,,1.0
+130211,2023-02-05T11:30Z,Mubadala Abu Dhabi Open presented by Abu Dhabi Sports Council,Rebecca Marino,Margarita Gasparyan,,,1.0
+130201,2023-02-05T11:45Z,Mubadala Abu Dhabi Open presented by Abu Dhabi Sports Council,Aliaksandra Sasnovich,Mirjam Bjorklund,,,0.0
+130204,2023-02-05T11:50Z,Mubadala Abu Dhabi Open presented by Abu Dhabi Sports Council,Katarina Zavatska,Moyuka Uchijima,,,1.0
+130212,2023-02-05T13:00Z,Mubadala Abu Dhabi Open presented by Abu Dhabi Sports Council,Luisa Stefani,Ysaline Bonaventure,,,0.0
+130348,2023-02-06T07:05Z,Mubadala Abu Dhabi Open presented by Abu Dhabi Sports Council,Claire Liu,Dayana Yastremska,,,0.0
+130347,2023-02-06T07:05Z,Mubadala Abu Dhabi Open presented by Abu Dhabi Sports Council,Shelby Rogers,Magdalena Frech,,,1.0
+130346,2023-02-06T07:05Z,Mubadala Abu Dhabi Open presented by Abu Dhabi Sports Council,Yulia Putintseva,Nigina Abduraimova,,,1.0
+130345,2023-02-06T08:35Z,Mubadala Abu Dhabi Open presented by Abu Dhabi Sports Council,Leylah Fernandez,Katarina Zavatska,,,1.0
+130349,2023-02-06T09:25Z,Mubadala Abu Dhabi Open presented by Abu Dhabi Sports Council,Rebecca Marino,Ysaline Bonaventure,,,1.0
+130344,2023-02-06T09:25Z,Mubadala Abu Dhabi Open presented by Abu Dhabi Sports Council,Mirjam Bjorklund,Elena-Gabriela Ruse,,,0.0
+130231,2023-02-06T11:10Z,Mubadala Abu Dhabi Open presented by Abu Dhabi Sports Council,Anett Kontaveit,Zhang Shuai,,,1.0
+130221,2023-02-06T11:10Z,Mubadala Abu Dhabi Open presented by Abu Dhabi Sports Council,Elise Mertens,Martina Trevisan,,,1.0
+130229,2023-02-06T12:40Z,Mubadala Abu Dhabi Open presented by Abu Dhabi Sports Council,Marta Kostyuk,Sorana Cirstea,,,1.0
+130223,2023-02-06T14:45Z,Mubadala Abu Dhabi Open presented by Abu Dhabi Sports Council,Danielle Collins,Jelena Ostapenko,,,0.0
+130226,2023-02-07T10:05Z,Mubadala Abu Dhabi Open presented by Abu Dhabi Sports Council,Rebecca Marino,Zheng Qinwen,,,0.0
+130220,2023-02-07T11:05Z,Mubadala Abu Dhabi Open presented by Abu Dhabi Sports Council,Beatriz Haddad Maia,Marie Bouzkova,,,1.0
+130232,2023-02-07T11:40Z,Mubadala Abu Dhabi Open presented by Abu Dhabi Sports Council,Shelby Rogers,Leylah Fernandez,,,1.0
+130219,2023-02-07T13:50Z,Mubadala Abu Dhabi Open presented by Abu Dhabi Sports Council,Claire Liu,Liudmila Samsonova,,,0.0
+130225,2023-02-07T15:30Z,Mubadala Abu Dhabi Open presented by Abu Dhabi Sports Council,Jil Teichmann,Dayana Yastremska,,,1.0
+130218,2023-02-07T16:00Z,Mubadala Abu Dhabi Open presented by Abu Dhabi Sports Council,Karolina Pliskova,Ysaline Bonaventure,,,1.0
+130217,2023-02-07T17:05Z,Mubadala Abu Dhabi Open presented by Abu Dhabi Sports Council,Bianca Andreescu,Yulia Putintseva,,,0.0
+130222,2023-02-07T17:25Z,Mubadala Abu Dhabi Open presented by Abu Dhabi Sports Council,Barbora Krejcikova,Elena-Gabriela Ruse,,,1.0
+130238,2023-02-08T11:10Z,Mubadala Abu Dhabi Open presented by Abu Dhabi Sports Council,Zheng Qinwen,Jelena Ostapenko,,,1.0
+130235,2023-02-08T13:25Z,Mubadala Abu Dhabi Open presented by Abu Dhabi Sports Council,Veronika Kudermetova,Elise Mertens,,,1.0
+130233,2023-02-08T15:10Z,Mubadala Abu Dhabi Open presented by Abu Dhabi Sports Council,Marta Kostyuk,Belinda Bencic,,,0.0
+130240,2023-02-08T16:40Z,Mubadala Abu Dhabi Open presented by Abu Dhabi Sports Council,Anett Kontaveit,Shelby Rogers,,,0.0
+130236,2023-02-09T11:10Z,Mubadala Abu Dhabi Open presented by Abu Dhabi Sports Council,Barbora Krejcikova,Liudmila Samsonova,,,0.0
+130237,2023-02-09T13:45Z,Mubadala Abu Dhabi Open presented by Abu Dhabi Sports Council,Daria Kasatkina,Jil Teichmann,,,1.0
+130239,2023-02-09T15:45Z,Mubadala Abu Dhabi Open presented by Abu Dhabi Sports Council,Karolina Pliskova,Elena Rybakina,,,0.0
+130234,2023-02-09T17:15Z,Mubadala Abu Dhabi Open presented by Abu Dhabi Sports Council,Beatriz Haddad Maia,Yulia Putintseva,,,1.0
+130243,2023-02-10T11:10Z,Mubadala Abu Dhabi Open presented by Abu Dhabi Sports Council,Shelby Rogers,Belinda Bencic,,,0.0
+130247,2023-02-10T13:10Z,Mubadala Abu Dhabi Open presented by Abu Dhabi Sports Council,Daria Kasatkina,Zheng Qinwen,,,0.0
+130246,2023-02-10T14:45Z,Mubadala Abu Dhabi Open presented by Abu Dhabi Sports Council,Beatriz Haddad Maia,Elena Rybakina,,,1.0
+130245,2023-02-10T17:10Z,Mubadala Abu Dhabi Open presented by Abu Dhabi Sports Council,Veronika Kudermetova,Liudmila Samsonova,,,0.0
+130241,2023-02-11T14:30Z,Mubadala Abu Dhabi Open presented by Abu Dhabi Sports Council,Beatriz Haddad Maia,Belinda Bencic,,,0.0
+130244,2023-02-11T16:20Z,Mubadala Abu Dhabi Open presented by Abu Dhabi Sports Council,Zheng Qinwen,Liudmila Samsonova,,,0.0
+130242,2023-02-12T13:05Z,Mubadala Abu Dhabi Open presented by Abu Dhabi Sports Council,Liudmila Samsonova,Belinda Bencic,,,0.0
+130391,2023-02-11T08:15Z,Qatar Total Energies Open,Claire Liu,Dayana Yastremska,,,0.0
+130392,2023-02-11T08:15Z,Qatar Total Energies Open,Jasmine Paolini,Leylah Fernandez,,,0.0
+130395,2023-02-11T08:15Z,Qatar Total Energies Open,Rebecca Marino,Katarina Zavatska,,,1.0
+130396,2023-02-11T08:15Z,Qatar Total Energies Open,Bethanie Mattek-Sands,Aliaksandra Sasnovich,,,0.0
+130397,2023-02-11T09:40Z,Qatar Total Energies Open,Jil Teichmann,Sorana Cirstea,,,1.0
+130393,2023-02-11T09:55Z,Qatar Total Energies Open,Marie Bouzkova,Laura Siegemund,,,1.0
+130399,2023-02-11T10:00Z,Qatar Total Energies Open,Diane Parry,Magdalena Frech,,,0.0
+130398,2023-02-11T10:10Z,Qatar Total Energies Open,Moyuka Uchijima,Elena-Gabriela Ruse,,,0.0
+130389,2023-02-11T11:10Z,Qatar Total Energies Open,Karolina Pliskova,Ana Bogdan,,,1.0
+130400,2023-02-11T11:10Z,Qatar Total Energies Open,Mubaraka Al-Naimi,Elise Mertens,,,0.0
+130394,2023-02-11T11:20Z,Qatar Total Energies Open,Tereza Martincova,Nigina Abduraimova,,,1.0
+130401,2023-02-11T12:10Z,Qatar Total Energies Open,Anhelina Kalinina,Lauren Davis,,,0.0
+130390,2023-02-11T12:40Z,Qatar Total Energies Open,Harriet Dart,Dalila Jakupovic,,,1.0
+130404,2023-02-11T13:10Z,Qatar Total Energies Open,Anna Kalinskaya,Bernarda Pera,,,0.0
+130402,2023-02-11T13:35Z,Qatar Total Energies Open,Maryna Zanevska,Viktoriya Tomova,,,0.0
+130403,2023-02-11T14:10Z,Qatar Total Energies Open,Ekaterina Yashina,Madison Brengle,,,0.0
+130492,2023-02-12T12:35Z,Qatar Total Energies Open,Dayana Yastremska,Leylah Fernandez,,,0.0
+130494,2023-02-12T12:35Z,Qatar Total Energies Open,Rebecca Marino,Aliaksandra Sasnovich,,,1.0
+130495,2023-02-12T12:35Z,Qatar Total Energies Open,Jil Teichmann,Elena-Gabriela Ruse,,,0.0
+130496,2023-02-12T12:35Z,Qatar Total Energies Open,Magdalena Frech,Elise Mertens,,,0.0
+130498,2023-02-12T14:40Z,Qatar Total Energies Open,Madison Brengle,Bernarda Pera,,,1.0
+130491,2023-02-12T14:55Z,Qatar Total Energies Open,Karolina Pliskova,Harriet Dart,,,1.0
+130493,2023-02-12T14:55Z,Qatar Total Energies Open,Marie Bouzkova,Tereza Martincova,,,1.0
+130497,2023-02-12T15:55Z,Qatar Total Energies Open,Lauren Davis,Viktoriya Tomova,,,0.0
+130574,2023-02-13T12:45Z,Qatar Total Energies Open,Marie Bouzkova,Rebecca Marino,,,0.0
+130530,2023-02-13T12:45Z,Qatar Total Energies Open,Karolina Muchova,Martina Trevisan,,,1.0
+130575,2023-02-13T12:45Z,Qatar Total Energies Open,Elena-Gabriela Ruse,Elise Mertens,,,0.0
+130573,2023-02-13T12:45Z,Qatar Total Energies Open,Karolina Pliskova,Leylah Fernandez,,,1.0
+130510,2023-02-13T14:15Z,Qatar Total Energies Open,Barbora Krejcikova,Veronika Kudermetova,,,0.0
+130576,2023-02-13T15:50Z,Qatar Total Energies Open,Viktoriya Tomova,Madison Brengle,,,1.0
+130507,2023-02-13T17:35Z,Qatar Total Energies Open,Ipek Oz,Victoria Azarenka,,,0.0
+130503,2023-02-14T11:10Z,Qatar Total Energies Open,Elise Mertens,Danielle Collins,,,0.0
+130506,2023-02-14T11:10Z,Qatar Total Energies Open,Petra Kvitova,Zhang Shuai,,,1.0
+130531,2023-02-14T12:40Z,Qatar Total Energies Open,Madison Keys,Jelena Ostapenko,,,0.0
+130504,2023-02-14T13:30Z,Qatar Total Energies Open,Sofia Kenin,Liudmila Samsonova,,,1.0
+130508,2023-02-14T14:20Z,Qatar Total Energies Open,Viktoriya Tomova,Belinda Bencic,,,0.0
+130524,2023-02-14T15:05Z,Qatar Total Energies Open,Paula Badosa,Beatriz Haddad Maia,,,0.0
+130511,2023-02-14T15:45Z,Qatar Total Energies Open,Maria Sakkari,Zheng Qinwen,,,1.0
+130529,2023-02-14T17:30Z,Qatar Total Energies Open,Ekaterina Alexandrova,Karolina Pliskova,,,1.0
+130526,2023-02-14T18:05Z,Qatar Total Energies Open,Daria Kasatkina,Rebecca Marino,,,1.0
+130525,2023-02-15T12:30Z,Qatar Total Energies Open,Victoria Azarenka,Belinda Bencic,,,0.0
+130523,2023-02-15T12:30Z,Qatar Total Energies Open,Coco Gauff,Petra Kvitova,,,1.0
+130533,2023-02-15T12:30Z,Qatar Total Energies Open,Sofia Kenin,Veronika Kudermetova,,,0.0
+130516,2023-02-15T14:25Z,Qatar Total Energies Open,Jelena Ostapenko,Jessica Pegula,,,0.0
+130532,2023-02-15T14:45Z,Qatar Total Energies Open,Maria Sakkari,Ekaterina Alexandrova,,,1.0
+130515,2023-02-15T15:45Z,Qatar Total Energies Open,Daria Kasatkina,Beatriz Haddad Maia,,,0.0
+130527,2023-02-15T16:30Z,Qatar Total Energies Open,Iga Swiatek,Danielle Collins,,,1.0
+130518,2023-02-15T17:40Z,Qatar Total Energies Open,Karolina Muchova,Caroline Garcia,,,0.0
+130514,2023-02-16T14:25Z,Qatar Total Energies Open,Coco Gauff,Veronika Kudermetova,,,0.0
+130521,2023-02-16T16:40Z,Qatar Total Energies Open,Beatriz Haddad Maia,Jessica Pegula,,,0.0
+130512,2023-02-16T18:20Z,Qatar Total Energies Open,Maria Sakkari,Caroline Garcia,,,1.0
+130513,2023-02-17T05:00Z,Qatar Total Energies Open,Iga Swiatek,Belinda Bencic,,,1.0
+130519,2023-02-17T13:40Z,Qatar Total Energies Open,Maria Sakkari,Jessica Pegula,,,0.0
+130522,2023-02-17T16:00Z,Qatar Total Energies Open,Iga Swiatek,Veronika Kudermetova,,,1.0
+130520,2023-02-18T15:15Z,Qatar Total Energies Open,Iga Swiatek,Jessica Pegula,,,1.0
+130581,2023-02-17T06:10Z,Dubai Duty Free Tennis Championships,Anna Kalinskaya,Su-Jeong Jang,,,0.0
+130582,2023-02-17T06:10Z,Dubai Duty Free Tennis Championships,Ankita Raina,Viktoriya Tomova,,,0.0
+130587,2023-02-17T06:10Z,Dubai Duty Free Tennis Championships,Jasmine Paolini,Margarita Gasparyan,,,1.0
+130588,2023-02-17T06:10Z,Dubai Duty Free Tennis Championships,Reka Luca Jani,Oceane Dodin,,,0.0
+130584,2023-02-17T07:50Z,Dubai Duty Free Tennis Championships,Laura Siegemund,Cristina Bucsa,,,1.0
+130585,2023-02-17T08:05Z,Dubai Duty Free Tennis Championships,Danka Kovinic,Stefania Bojica,,,0.0
+130586,2023-02-17T08:45Z,Dubai Duty Free Tennis Championships,Katarina Zavatska,Madison Brengle,,,1.0
+130583,2023-02-17T08:50Z,Dubai Duty Free Tennis Championships,Claire Liu,Kristina Kucova,,,1.0
+130580,2023-02-17T09:15Z,Dubai Duty Free Tennis Championships,Sara Errani,Dayana Yastremska,,,0.0
+130590,2023-02-17T10:10Z,Dubai Duty Free Tennis Championships,Olga Danilovic,Rebeka Masarova,,,0.0
+130591,2023-02-17T10:45Z,Dubai Duty Free Tennis Championships,Ana Bogdan,Clara Burel,,,1.0
+130579,2023-02-17T10:55Z,Dubai Duty Free Tennis Championships,Lauren Davis,Anna Danilina,,,1.0
+130589,2023-02-17T10:55Z,Dubai Duty Free Tennis Championships,Rebecca Marino,Harriet Dart,,,1.0
+130594,2023-02-17T11:30Z,Dubai Duty Free Tennis Championships,Eden Silva,Julia Grabher,,,0.0
+130593,2023-02-17T12:15Z,Dubai Duty Free Tennis Championships,Maryna Zanevska,Kristina Mladenovic,,,0.0
+130592,2023-02-17T13:30Z,Dubai Duty Free Tennis Championships,Magdalena Frech,Tereza Martincova,,,0.0
+130602,2023-02-18T06:10Z,Dubai Duty Free Tennis Championships,Su-Jeong Jang,Viktoriya Tomova,,,0.0
+130603,2023-02-18T06:10Z,Dubai Duty Free Tennis Championships,Claire Liu,Laura Siegemund,,,0.0
+130605,2023-02-18T06:10Z,Dubai Duty Free Tennis Championships,Jasmine Paolini,Oceane Dodin,,,1.0
+130604,2023-02-18T07:45Z,Dubai Duty Free Tennis Championships,Stefania Bojica,Katarina Zavatska,,,0.0
+130606,2023-02-18T08:10Z,Dubai Duty Free Tennis Championships,Rebecca Marino,Rebeka Masarova,,,0.0
+130601,2023-02-18T08:15Z,Dubai Duty Free Tennis Championships,Lauren Davis,Dayana Yastremska,,,0.0
+130607,2023-02-18T09:10Z,Dubai Duty Free Tennis Championships,Ana Bogdan,Tereza Martincova,,,1.0
+130608,2023-02-18T10:00Z,Dubai Duty Free Tennis Championships,Kristina Mladenovic,Julia Grabher,,,0.0
+130674,2023-02-19T08:10Z,Dubai Duty Free Tennis Championships,Dayana Yastremska,Alize Cornet,,,1.0
+130696,2023-02-19T08:10Z,Dubai Duty Free Tennis Championships,Irina-Camelia Begu,Barbora Krejcikova,,,0.0
+130712,2023-02-19T08:10Z,Dubai Duty Free Tennis Championships,Jasmine Paolini,Madison Keys,,,0.0
+130692,2023-02-19T09:30Z,Dubai Duty Free Tennis Championships,Martina Trevisan,Petra Kvitova,,,0.0
+130684,2023-02-19T09:40Z,Dubai Duty Free Tennis Championships,Zheng Qinwen,Zhang Shuai,,,1.0
+130724,2023-02-19T10:00Z,Dubai Duty Free Tennis Championships,Sofia Kenin,Marie Bouzkova,,,0.0
+130678,2023-02-19T11:00Z,Dubai Duty Free Tennis Championships,Paula Badosa,Liudmila Samsonova,,,0.0
+130705,2023-02-19T11:00Z,Dubai Duty Free Tennis Championships,Kaia Kanepi,Viktoriya Tomova,,,0.0
+130713,2023-02-19T11:20Z,Dubai Duty Free Tennis Championships,Amanda Anisimova,Vera Zvonareva,,,1.0
+130689,2023-02-19T12:50Z,Dubai Duty Free Tennis Championships,Linda Fruhvirtova,Danielle Collins,,,1.0
+130682,2023-02-19T15:15Z,Dubai Duty Free Tennis Championships,Julia Grabher,Leylah Fernandez,,,0.0
+130702,2023-02-19T16:45Z,Dubai Duty Free Tennis Championships,Ipek Oz,Marta Kostyuk,,,0.0
+130680,2023-02-20T08:10Z,Dubai Duty Free Tennis Championships,Veronika Kudermetova,Anhelina Kalinina,,,0.0
+130707,2023-02-20T08:10Z,Dubai Duty Free Tennis Championships,Laura Siegemund,Ana Bogdan,,,0.0
+130711,2023-02-20T08:10Z,Dubai Duty Free Tennis Championships,Sorana Cirstea,Beatriz Haddad Maia,,,1.0
+130701,2023-02-20T10:25Z,Dubai Duty Free Tennis Championships,Karolina Muchova,Bernarda Pera,,,1.0
+130687,2023-02-20T11:30Z,Dubai Duty Free Tennis Championships,Jil Teichmann,Lauren Davis,,,0.0
+130676,2023-02-20T11:55Z,Dubai Duty Free Tennis Championships,Karolina Pliskova,Marketa Vondrousova,,,1.0
+130718,2023-02-20T11:55Z,Dubai Duty Free Tennis Championships,Aliaksandra Sasnovich,Rebeka Masarova,,,1.0
+130727,2023-02-20T13:40Z,Dubai Duty Free Tennis Championships,Anastasia Pavlyuchenkova,Victoria Azarenka,,,0.0
+130694,2023-02-20T14:10Z,Dubai Duty Free Tennis Championships,Petra Martic,Yulia Putintseva,,,0.0
+130673,2023-02-20T15:35Z,Dubai Duty Free Tennis Championships,Jelena Ostapenko,Katarina Zavatska,,,1.0
+130709,2023-02-20T16:05Z,Dubai Duty Free Tennis Championships,Claire Liu,Shelby Rogers,,,0.0
+130722,2023-02-20T17:20Z,Dubai Duty Free Tennis Championships,Elena Rybakina,Bianca Andreescu,,,1.0
+130688,2023-02-21T07:10Z,Dubai Duty Free Tennis Championships,Daria Kasatkina,Barbora Krejcikova,,,0.0
+130710,2023-02-21T07:10Z,Dubai Duty Free Tennis Championships,Anhelina Kalinina,Dayana Yastremska,,,1.0
+130706,2023-02-21T08:10Z,Dubai Duty Free Tennis Championships,Caroline Garcia,Madison Keys,,,0.0
+130708,2023-02-21T08:10Z,Dubai Duty Free Tennis Championships,Karolina Pliskova,Maria Sakkari,,,1.0
+130704,2023-02-21T09:40Z,Dubai Duty Free Tennis Championships,Amanda Anisimova,Victoria Azarenka,,,0.0
+130697,2023-02-21T09:45Z,Dubai Duty Free Tennis Championships,Karolina Muchova,Sorana Cirstea,,,1.0
+130703,2023-02-21T10:00Z,Dubai Duty Free Tennis Championships,Zheng Qinwen,Liudmila Samsonova,,,0.0
+130693,2023-02-21T10:15Z,Dubai Duty Free Tennis Championships,Viktoriya Tomova,Jessica Pegula,,,0.0
+130686,2023-02-21T10:50Z,Dubai Duty Free Tennis Championships,Yulia Putintseva,Petra Kvitova,,,0.0
+130695,2023-02-21T12:20Z,Dubai Duty Free Tennis Championships,Shelby Rogers,Ana Bogdan,,,0.0
+130679,2023-02-21T12:25Z,Dubai Duty Free Tennis Championships,Lauren Davis,Aryna Sabalenka,,,0.0
+130683,2023-02-21T12:25Z,Dubai Duty Free Tennis Championships,Jelena Ostapenko,Linda Fruhvirtova,,,1.0
+130699,2023-02-21T12:25Z,Dubai Duty Free Tennis Championships,Belinda Bencic,Marta Kostyuk,,,1.0
+130717,2023-02-21T15:10Z,Dubai Duty Free Tennis Championships,Iga Swiatek,Leylah Fernandez,,,1.0
+130690,2023-02-21T16:15Z,Dubai Duty Free Tennis Championships,Elena Rybakina,Marie Bouzkova,,,1.0
+130700,2023-02-21T16:45Z,Dubai Duty Free Tennis Championships,Aliaksandra Sasnovich,Coco Gauff,,,0.0
+130675,2023-02-22T08:10Z,Dubai Duty Free Tennis Championships,Anhelina Kalinina,Karolina Pliskova,,,0.0
+130730,2023-02-22T08:10Z,Dubai Duty Free Tennis Championships,Ana Bogdan,Jessica Pegula,,,0.0
+130677,2023-02-22T10:10Z,Dubai Duty Free Tennis Championships,Madison Keys,Victoria Azarenka,,,1.0
+130729,2023-02-22T11:10Z,Dubai Duty Free Tennis Championships,Belinda Bencic,Karolina Muchova,,,0.0
+130681,2023-02-22T11:30Z,Dubai Duty Free Tennis Championships,Iga Swiatek,Liudmila Samsonova,,,1.0
+130731,2023-02-22T12:30Z,Dubai Duty Free Tennis Championships,Elena Rybakina,Coco Gauff,,,0.0
+130728,2023-02-22T15:10Z,Dubai Duty Free Tennis Championships,Jelena Ostapenko,Aryna Sabalenka,,,0.0
+130726,2023-02-22T17:10Z,Dubai Duty Free Tennis Championships,Barbora Krejcikova,Petra Kvitova,,,1.0
+130725,2023-02-23T13:20Z,Dubai Duty Free Tennis Championships,Madison Keys,Coco Gauff,,,0.0
+130721,2023-02-23T15:00Z,Dubai Duty Free Tennis Championships,Barbora Krejcikova,Aryna Sabalenka,,,1.0
+130719,2023-02-23T17:10Z,Dubai Duty Free Tennis Championships,Karolina Muchova,Jessica Pegula,,,0.0
+130734,2023-02-24T13:10Z,Dubai Duty Free Tennis Championships,Iga Swiatek,Coco Gauff,,,1.0
+130733,2023-02-24T15:10Z,Dubai Duty Free Tennis Championships,Jessica Pegula,Barbora Krejcikova,,,0.0
+130723,2023-02-25T05:00Z,Dubai Duty Free Tennis Championships,Iga Swiatek,Karolina Pliskova,,,1.0
+130732,2023-02-25T15:25Z,Dubai Duty Free Tennis Championships,Iga Swiatek,Barbora Krejcikova,,,0.0
+130863,2023-02-25T07:00Z,Dubai Duty Free Tennis Championships,Marton Fucsovics,Tomas Machac,,,0.0
+130864,2023-02-25T07:00Z,Dubai Duty Free Tennis Championships,Simon carr,Matteo Arnaldi,,,0.0
+130868,2023-02-25T07:00Z,Dubai Duty Free Tennis Championships,Yuki Bhambri,Francesco Passaro,,,0.0
+130865,2023-02-25T08:30Z,Dubai Duty Free Tennis Championships,Ilya Ivashka,Aleksandr Shevchenko,,,0.0
+130866,2023-02-25T08:30Z,Dubai Duty Free Tennis Championships,Pavel Kotov,Roman Safiullin,,,1.0
+130867,2023-02-25T08:30Z,Dubai Duty Free Tennis Championships,Zhang Zhizhen,Alexandar Lazarov,,,0.0
+130861,2023-02-25T10:00Z,Dubai Duty Free Tennis Championships,Quentin Halys,Nikoloz Basilashvili,,,1.0
+130862,2023-02-25T10:00Z,Dubai Duty Free Tennis Championships,Kareem Al Allaf,Christopher O'Connell,,,0.0
+130910,2023-02-26T07:00Z,Dubai Duty Free Tennis Championships,Tomas Machac,Matteo Arnaldi,,,1.0
+130912,2023-02-26T07:00Z,Dubai Duty Free Tennis Championships,Alexandar Lazarov,Francesco Passaro,,,1.0
+130909,2023-02-26T08:30Z,Dubai Duty Free Tennis Championships,Quentin Halys,Christopher O'Connell,,,0.0
+130911,2023-02-26T08:30Z,Dubai Duty Free Tennis Championships,Aleksandr Shevchenko,Pavel Kotov,,,0.0
+130920,2023-02-27T10:10Z,Dubai Duty Free Tennis Championships,Marc-Andrea Huesler,Lorenzo Sonego,,,0.0
+130922,2023-02-27T10:10Z,Dubai Duty Free Tennis Championships,Thanasi Kokkinakis,Quentin Halys,,,1.0
+130926,2023-02-27T11:50Z,Dubai Duty Free Tennis Championships,Tallon Griekspoor,Constant Lestienne,,,1.0
+130917,2023-02-27T12:25Z,Dubai Duty Free Tennis Championships,Malek Jaziri,Alejandro Davidovich Fokina,,,0.0
+130928,2023-02-27T14:10Z,Dubai Duty Free Tennis Championships,Alexei Popyrin,Pavel Kotov,,,0.0
+130935,2023-02-27T15:10Z,Dubai Duty Free Tennis Championships,Filip Krajinovic,Andrey Rublev,,,0.0
+130916,2023-02-27T17:00Z,Dubai Duty Free Tennis Championships,Alexander Zverev,Jiri Lehecka,,,1.0
+130913,2023-02-28T10:10Z,Dubai Duty Free Tennis Championships,Emil Ruusuvuori,Christopher O'Connell,,,0.0
+130921,2023-02-28T10:10Z,Dubai Duty Free Tennis Championships,Maxime Cressy,Felix Auger-Aliassime,,,0.0
+130918,2023-02-28T10:15Z,Dubai Duty Free Tennis Championships,Karen Khachanov,Botic Van De Zandschulp,,,0.0
+130923,2023-02-28T12:10Z,Dubai Duty Free Tennis Championships,Daniel Evans,Borna Coric,,,0.0
+130919,2023-02-28T12:15Z,Dubai Duty Free Tennis Championships,Francesco Passaro,Mikael Ymer,,,0.0
+130914,2023-02-28T13:10Z,Dubai Duty Free Tennis Championships,Alexander Bublik,Alexandar Lazarov,,,1.0
+130925,2023-02-28T13:35Z,Dubai Duty Free Tennis Championships,Daniil Medvedev,Matteo Arnaldi,,,1.0
+130915,2023-02-28T15:35Z,Dubai Duty Free Tennis Championships,Novak Djokovic,Tomas Machac,,,1.0
+130924,2023-02-28T18:30Z,Dubai Duty Free Tennis Championships,Aleksandr Shevchenko,Hubert Hurkacz,,,0.0
+130927,2023-03-01T10:10Z,Dubai Duty Free Tennis Championships,Alejandro Davidovich Fokina,Andrey Rublev,,,0.0
+130930,2023-03-01T10:10Z,Dubai Duty Free Tennis Championships,Botic Van De Zandschulp,Mikael Ymer,,,1.0
+130929,2023-03-01T13:00Z,Dubai Duty Free Tennis Championships,Lorenzo Sonego,Felix Auger-Aliassime,,,1.0
+130932,2023-03-01T13:05Z,Dubai Duty Free Tennis Championships,Alexander Zverev,Christopher O'Connell,,,1.0
+130931,2023-03-01T14:45Z,Dubai Duty Free Tennis Championships,Thanasi Kokkinakis,Borna Coric,,,0.0
+130936,2023-03-01T15:20Z,Dubai Duty Free Tennis Championships,Novak Djokovic,Tallon Griekspoor,,,1.0
+130934,2023-03-01T17:05Z,Dubai Duty Free Tennis Championships,Daniil Medvedev,Alexander Bublik,,,1.0
+130933,2023-03-01T18:00Z,Dubai Duty Free Tennis Championships,Pavel Kotov,Hubert Hurkacz,,,0.0
+130937,2023-03-02T11:15Z,Dubai Duty Free Tennis Championships,Alexander Zverev,Lorenzo Sonego,,,1.0
+130938,2023-03-02T13:25Z,Dubai Duty Free Tennis Championships,Botic Van De Zandschulp,Andrey Rublev,,,0.0
+130940,2023-03-02T15:45Z,Dubai Duty Free Tennis Championships,Novak Djokovic,Hubert Hurkacz,,,1.0
+130939,2023-03-02T17:25Z,Dubai Duty Free Tennis Championships,Daniil Medvedev,Borna Coric,,,1.0
+130942,2023-03-03T13:15Z,Dubai Duty Free Tennis Championships,Alexander Zverev,Andrey Rublev,,,0.0
+130941,2023-03-03T15:40Z,Dubai Duty Free Tennis Championships,Novak Djokovic,Daniil Medvedev,,,0.0
+130943,2023-03-04T15:10Z,Dubai Duty Free Tennis Championships,Daniil Medvedev,Andrey Rublev,,,1.0
+130627,2023-02-18T16:05Z,Mérida Open Akron,Anna Karolina Schmiedlova,Aliona Bolsova,,,0.0
+130628,2023-02-18T16:05Z,Mérida Open Akron,Ana Konjuh,Marina Bassols Ribera,,,1.0
+130631,2023-02-18T16:05Z,Mérida Open Akron,Laura Pigossi,Maria Fernanda Navarro Oliva,,,1.0
+130634,2023-02-18T17:40Z,Mérida Open Akron,Lya Isabel Fernandez Olivares,Erika Andreeva,,,0.0
+130630,2023-02-18T18:05Z,Mérida Open Akron,Maria Lourdes Carle,Lucrezia Stefanini,,,0.0
+130632,2023-02-18T18:10Z,Mérida Open Akron,Nao Hibino,Elina Avanesyan,,,0.0
+130629,2023-02-18T19:00Z,Mérida Open Akron,Lesia Tsurenko,Caroline Dolehide,,,1.0
+130633,2023-02-18T21:10Z,Mérida Open Akron,Leolia Jeanjean,Despina Papamichail,,,1.0
+130625,2023-02-18T21:15Z,Mérida Open Akron,Varvara Gracheva,Emiliana Arango,,,1.0
+130635,2023-02-18T22:00Z,Mérida Open Akron,Diane Parry,Rebecca Peterson,,,0.0
+130636,2023-02-18T23:25Z,Mérida Open Akron,Carol Zhao,Coco Vandeweghe,,,1.0
+130626,2023-02-19T00:05Z,Mérida Open Akron,Elizabeth Mandlik,Kimberly Birrell,,,0.0
+130775,2023-02-19T16:10Z,Mérida Open Akron,Aliona Bolsova,Ana Konjuh,,,0.0
+130777,2023-02-19T16:10Z,Mérida Open Akron,Laura Pigossi,Elina Avanesyan,,,0.0
+130776,2023-02-19T17:30Z,Mérida Open Akron,Lesia Tsurenko,Lucrezia Stefanini,,,1.0
+130778,2023-02-19T18:20Z,Mérida Open Akron,Leolia Jeanjean,Erika Andreeva,,,1.0
+130774,2023-02-19T20:40Z,Mérida Open Akron,Varvara Gracheva,Kimberly Birrell,,,0.0
+130779,2023-02-19T21:10Z,Mérida Open Akron,Rebecca Peterson,Carol Zhao,,,1.0
+130821,2023-02-20T19:10Z,Mérida Open Akron,Simona Waltert,Ysaline Bonaventure,,,0.0
+130831,2023-02-20T21:10Z,Mérida Open Akron,Zhu Lin,Catherine McNally,,,0.0
+130817,2023-02-20T21:40Z,Mérida Open Akron,Nuria Parrizas Diaz,Ana Konjuh,,,1.0
+130842,2023-02-21T00:25Z,Mérida Open Akron,Wang Xiyu,Alison Riske-Amritraj,,,1.0
+130827,2023-02-21T00:45Z,Mérida Open Akron,Katie Volynets,Lucia Bronzetti,,,1.0
+130819,2023-02-21T03:10Z,Mérida Open Akron,Mayar Sherif,Camila Giorgi,,,0.0
+130828,2023-02-21T04:00Z,Mérida Open Akron,Kimberly Birrell,Anna Bondar,,,1.0
+130823,2023-02-21T04:45Z,Mérida Open Akron,Elisabetta Cocciaretto,Viktorija Golubic,,,1.0
+130824,2023-02-21T19:10Z,Mérida Open Akron,Elina Avanesyan,Wang Xinyu,,,0.0
+130822,2023-02-21T21:05Z,Mérida Open Akron,Lesia Tsurenko,Katerina Siniakova,,,0.0
+130833,2023-02-21T21:25Z,Mérida Open Akron,Jule Niemeier,Panna Udvardy,,,0.0
+130826,2023-02-21T22:45Z,Mérida Open Akron,Leolia Jeanjean,Sloane Stephens,,,0.0
+130816,2023-02-22T00:15Z,Mérida Open Akron,Tatjana Maria,Varvara Gracheva,,,0.0
+130815,2023-02-22T01:00Z,Mérida Open Akron,Magda Linette,Camila Osorio,,,1.0
+130835,2023-02-22T02:30Z,Mérida Open Akron,Nadia Podoroska,Rebecca Peterson,,,0.0
+130829,2023-02-22T04:10Z,Mérida Open Akron,Fernanda Contreras Gomez,Alycia Parks,,,0.0
+130839,2023-02-22T21:00Z,Mérida Open Akron,Kimberly Birrell,Wang Xiyu,,,1.0
+130825,2023-02-22T22:50Z,Mérida Open Akron,Catherine McNally,Katie Volynets,,,1.0
+130838,2023-02-23T01:10Z,Mérida Open Akron,Camila Giorgi,Nuria Parrizas Diaz,,,1.0
+130840,2023-02-23T03:20Z,Mérida Open Akron,Elisabetta Cocciaretto,Wang Xinyu,,,1.0
+130818,2023-02-23T21:10Z,Mérida Open Akron,Rebecca Peterson,Alycia Parks,,,1.0
+130820,2023-02-23T22:50Z,Mérida Open Akron,Magda Linette,Panna Udvardy,,,1.0
+130834,2023-02-24T01:15Z,Mérida Open Akron,Varvara Gracheva,Sloane Stephens,,,0.0
+130837,2023-02-24T04:10Z,Mérida Open Akron,Ysaline Bonaventure,Katerina Siniakova,,,0.0
+130830,2023-02-24T21:10Z,Mérida Open Akron,Catherine McNally,Kimberly Birrell,,,1.0
+130836,2023-02-24T23:10Z,Mérida Open Akron,Magda Linette,Rebecca Peterson,,,0.0
+130844,2023-02-25T01:00Z,Mérida Open Akron,Camila Giorgi,Sloane Stephens,,,1.0
+130832,2023-02-25T02:15Z,Mérida Open Akron,Elisabetta Cocciaretto,Katerina Siniakova,,,0.0
+130841,2023-02-26T01:10Z,Mérida Open Akron,Rebecca Peterson,Catherine McNally,,,1.0
+130843,2023-02-26T04:10Z,Mérida Open Akron,Katerina Siniakova,Camila Giorgi,,,0.0
+130845,2023-02-27T01:00Z,Mérida Open Akron,Rebecca Peterson,Camila Giorgi,,,0.0
+130892,2023-02-25T16:00Z,Abierto GNP Seguros,Victoria Rodriguez,Ana Konjuh,,,0.0
+130896,2023-02-25T16:00Z,Abierto GNP Seguros,Jesika Maleckova,Katrina Scott,,,1.0
+130900,2023-02-25T16:10Z,Abierto GNP Seguros,Ana Sofia Sanchez,Aliona Bolsova,,,0.0
+130899,2023-02-25T16:15Z,Abierto GNP Seguros,Lucrezia Stefanini,Sachia Vickery,,,0.0
+130893,2023-02-25T18:30Z,Abierto GNP Seguros,Laura Pigossi,Caroline Dolehide,,,0.0
+130891,2023-02-25T18:40Z,Abierto GNP Seguros,Lesia Tsurenko,Camilla Rosatello,,,1.0
+130894,2023-02-25T18:40Z,Abierto GNP Seguros,Marcela Zacarias,Andrea Gamiz,,,1.0
+130897,2023-02-25T20:10Z,Abierto GNP Seguros,Marina Bassols Ribera,Renata Zarazua,,,1.0
+130889,2023-02-25T20:10Z,Abierto GNP Seguros,Kamilla Rakhimova,Yuliana Lizarazo,,,1.0
+130895,2023-02-25T21:10Z,Abierto GNP Seguros,Simona Waltert,Elena-Gabriela Ruse,,,0.0
+130890,2023-02-25T22:00Z,Abierto GNP Seguros,Carole Monnet,Kimberly Birrell,,,0.0
+130898,2023-02-25T22:40Z,Abierto GNP Seguros,Lya Isabel Fernandez Olivares,Despina Papamichail,,,0.0
+130956,2023-02-26T17:00Z,Abierto GNP Seguros,Caroline Dolehide,Marcela Zacarias,,,1.0
+130955,2023-02-26T17:10Z,Abierto GNP Seguros,Lesia Tsurenko,Ana Konjuh,,,1.0
+130959,2023-02-26T17:10Z,Abierto GNP Seguros,Sachia Vickery,Aliona Bolsova,,,1.0
+130958,2023-02-26T18:30Z,Abierto GNP Seguros,Marina Bassols Ribera,Despina Papamichail,,,0.0
+130957,2023-02-26T18:30Z,Abierto GNP Seguros,Elena-Gabriela Ruse,Jesika Maleckova,,,1.0
+130954,2023-02-26T18:30Z,Abierto GNP Seguros,Kamilla Rakhimova,Kimberly Birrell,,,1.0
+131013,2023-02-27T18:10Z,Abierto GNP Seguros,Caroline Dolehide,Jule Niemeier,,,1.0
+130995,2023-02-27T19:30Z,Abierto GNP Seguros,Zhu Lin,Anna Bondar,,,1.0
+130993,2023-02-27T20:00Z,Abierto GNP Seguros,Despina Papamichail,Ysaline Bonaventure,,,0.0
+131019,2023-02-28T01:05Z,Abierto GNP Seguros,Anna Karolina Schmiedlova,Marie Bouzkova,,,1.0
+131002,2023-02-28T03:10Z,Abierto GNP Seguros,Fernanda Contreras Gomez,Rebecca Marino,,,0.0
+131007,2023-02-28T18:10Z,Abierto GNP Seguros,Elise Mertens,Diana Shnaider,,,1.0
+130996,2023-02-28T18:10Z,Abierto GNP Seguros,Marina Bassols Ribera,Elisabetta Cocciaretto,,,0.0
+130992,2023-02-28T18:10Z,Abierto GNP Seguros,Lucia Bronzetti,Tatjana Maria,,,0.0
+131010,2023-02-28T19:30Z,Abierto GNP Seguros,Camila Osorio,Mayar Sherif,,,0.0
+131018,2023-02-28T19:35Z,Abierto GNP Seguros,Nuria Parrizas Diaz,Wang Xiyu,,,1.0
+131009,2023-02-28T20:00Z,Abierto GNP Seguros,Katerina Siniakova,Kamilla Rakhimova,,,0.0
+130999,2023-02-28T21:50Z,Abierto GNP Seguros,Lesia Tsurenko,Donna Vekic,,,0.0
+131014,2023-02-28T22:30Z,Abierto GNP Seguros,Sachia Vickery,Wang Xinyu,,,0.0
+131004,2023-02-28T23:10Z,Abierto GNP Seguros,Emma Navarro,Leolia Jeanjean,,,1.0
+130997,2023-03-01T00:35Z,Abierto GNP Seguros,Elena-Gabriela Ruse,Camila Giorgi,,,1.0
+130994,2023-03-01T02:05Z,Abierto GNP Seguros,Caroline Garcia,Kaja Juvan,,,1.0
+131020,2023-03-01T20:30Z,Abierto GNP Seguros,Zhu Lin,Rebecca Marino,,,1.0
+131006,2023-03-01T22:55Z,Abierto GNP Seguros,Kamilla Rakhimova,Ysaline Bonaventure,,,0.0
+131015,2023-03-02T01:30Z,Abierto GNP Seguros,Emma Navarro,Donna Vekic,,,0.0
+131016,2023-03-02T03:10Z,Abierto GNP Seguros,Caroline Dolehide,Anna Karolina Schmiedlova,,,1.0
+130991,2023-03-02T20:40Z,Abierto GNP Seguros,Wang Xinyu,Mayar Sherif,,,0.0
+131011,2023-03-02T23:30Z,Abierto GNP Seguros,Elise Mertens,Elena-Gabriela Ruse,,,1.0
+131017,2023-03-03T02:15Z,Abierto GNP Seguros,Caroline Garcia,Nuria Parrizas Diaz,,,1.0
+131012,2023-03-03T03:35Z,Abierto GNP Seguros,Tatjana Maria,Elisabetta Cocciaretto,,,0.0
+131005,2023-03-03T20:35Z,Abierto GNP Seguros,Zhu Lin,Caroline Dolehide,,,1.0
+131008,2023-03-03T22:10Z,Abierto GNP Seguros,Ysaline Bonaventure,Donna Vekic,,,0.0
+131001,2023-03-04T01:00Z,Abierto GNP Seguros,Caroline Garcia,Mayar Sherif,,,1.0
+130998,2023-03-04T02:30Z,Abierto GNP Seguros,Elise Mertens,Elisabetta Cocciaretto,,,1.0
+131000,2023-03-04T22:40Z,Abierto GNP Seguros,Donna Vekic,Zhu Lin,,,1.0
+131003,2023-03-05T00:30Z,Abierto GNP Seguros,Caroline Garcia,Elise Mertens,,,1.0
+131021,2023-03-05T22:35Z,Abierto GNP Seguros,Caroline Garcia,Donna Vekic,,,0.0
+130870,2023-02-25T16:00Z,ATX Open,Elvina Kalieva,Carol Zhao,,,1.0
+130875,2023-02-25T16:00Z,ATX Open,Nao Hibino,Liv Hovde,,,1.0
+130876,2023-02-25T16:00Z,ATX Open,Ellen Perez,Ann Li,,,0.0
+130879,2023-02-25T17:30Z,ATX Open,Heather Watson,Jamie Loeb,,,1.0
+130869,2023-02-25T17:30Z,ATX Open,Jodie Burrage,Robin Montgomery,,,0.0
+130880,2023-02-25T17:55Z,ATX Open,Gabriela Lee,Maria Lourdes Carle,,,0.0
+130877,2023-02-25T19:00Z,ATX Open,Katie Boulter,Hailey Baptiste,,,1.0
+130878,2023-02-25T19:35Z,ATX Open,Kayla Day,Elina Avanesyan,,,0.0
+130873,2023-02-25T20:20Z,ATX Open,Erika Andreeva,You Xiaodi,,,1.0
+130871,2023-02-25T21:15Z,ATX Open,Coco Vandeweghe,Lena Papadakis,,,1.0
+130874,2023-02-25T21:35Z,ATX Open,Sara Bejlek,Ashlyn Krueger,,,0.0
+130872,2023-02-25T23:00Z,ATX Open,Nicole Khirin,Louisa Chirico,,,0.0
+130948,2023-02-26T16:40Z,ATX Open,Robin Montgomery,Elvina Kalieva,,,1.0
+130953,2023-02-26T16:40Z,ATX Open,Heather Watson,Maria Lourdes Carle,,,1.0
+130952,2023-02-26T18:20Z,ATX Open,Katie Boulter,Elina Avanesyan,,,1.0
+130951,2023-02-26T18:40Z,ATX Open,Nao Hibino,Ann Li,,,0.0
+130949,2023-02-26T19:55Z,ATX Open,Coco Vandeweghe,Louisa Chirico,,,0.0
+130950,2023-02-26T20:40Z,ATX Open,Erika Andreeva,Ashlyn Krueger,,,0.0
+131055,2023-02-27T16:40Z,ATX Open,Katie Volynets,Alison Riske-Amritraj,,,1.0
+131075,2023-02-27T18:00Z,ATX Open,Anna Blinkova,Ann Li,,,1.0
+131053,2023-02-27T18:45Z,ATX Open,Mirjam Bjorklund,Alycia Parks,,,1.0
+131073,2023-02-27T21:20Z,ATX Open,Danka Kovinic,Heather Watson,,,0.0
+131054,2023-02-28T02:10Z,ATX Open,Peyton Stearns,Katie Boulter,,,1.0
+131057,2023-02-28T16:40Z,ATX Open,Anastasia Potapova,Elizabeth Mandlik,,,1.0
+131070,2023-02-28T16:40Z,ATX Open,Harriet Dart,Erika Andreeva,,,0.0
+131065,2023-02-28T17:50Z,ATX Open,Nao Hibino,Anna Kalinskaya,,,0.0
+131060,2023-02-28T20:10Z,ATX Open,Madison Brengle,Louisa Chirico,,,1.0
+131077,2023-02-28T20:35Z,ATX Open,Magda Linette,Varvara Gracheva,,,0.0
+131061,2023-02-28T21:55Z,ATX Open,Marta Kostyuk,Dalma Galfi,,,1.0
+131071,2023-02-28T23:15Z,ATX Open,Taylor Townsend,Sloane Stephens,,,0.0
+131059,2023-02-28T23:25Z,ATX Open,Dayana Yastremska,Anna-Lena Friedsam,,,0.0
+131064,2023-03-01T01:05Z,ATX Open,Robin Montgomery,Coco Vandeweghe,,,0.0
+131062,2023-03-01T01:10Z,ATX Open,Magdalena Frech,Danielle Collins,,,0.0
+131063,2023-03-01T03:50Z,ATX Open,Catherine McNally,Ashlyn Krueger,,,1.0
+131082,2023-03-01T17:10Z,ATX Open,Anastasia Potapova,Katie Volynets,,,0.0
+131069,2023-03-01T19:45Z,ATX Open,Varvara Gracheva,Anna Blinkova,,,1.0
+131068,2023-03-01T22:10Z,ATX Open,Heather Watson,Sloane Stephens,,,0.0
+131081,2023-03-02T00:10Z,ATX Open,Peyton Stearns,Mirjam Bjorklund,,,1.0
+131076,2023-03-02T17:10Z,ATX Open,Anna-Lena Friedsam,Erika Andreeva,,,1.0
+131078,2023-03-02T20:30Z,ATX Open,Marta Kostyuk,Madison Brengle,,,1.0
+131079,2023-03-02T22:30Z,ATX Open,Catherine McNally,Danielle Collins,,,0.0
+131080,2023-03-03T00:00Z,ATX Open,Anna Kalinskaya,Coco Vandeweghe,,,1.0
+131056,2023-03-03T17:10Z,ATX Open,Marta Kostyuk,Anna-Lena Friedsam,,,1.0
+131072,2023-03-03T19:15Z,ATX Open,Katie Volynets,Peyton Stearns,,,1.0
+131058,2023-03-03T21:10Z,ATX Open,Anna Kalinskaya,Danielle Collins,,,0.0
+131074,2023-03-04T00:10Z,ATX Open,Varvara Gracheva,Sloane Stephens,,,1.0
+131066,2023-03-04T20:35Z,ATX Open,Danielle Collins,Marta Kostyuk,,,0.0
+131067,2023-03-05T00:10Z,ATX Open,Varvara Gracheva,Katie Volynets,,,1.0
+131083,2023-03-05T20:10Z,ATX Open,Varvara Gracheva,Marta Kostyuk,,,0.0

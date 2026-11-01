@@ -1,0 +1,737 @@
+id,date,event,home,away,hs,as,res
+117116,2022-03-21T14:00Z,Miami Open presented by Itau,Taro Daniel,Max Purcell,,,1.0
+117117,2022-03-21T14:00Z,Miami Open presented by Itau,Tennys Sandgren,Elias Ymer,,,0.0
+117132,2022-03-21T14:00Z,Miami Open presented by Itau,Jay Clarke,Bjorn Fratangelo,,,0.0
+117112,2022-03-21T14:10Z,Miami Open presented by Itau,Jaume Munar,Thiago Seyboth Wild,,,1.0
+117119,2022-03-21T15:40Z,Miami Open presented by Itau,Peter Gojowczyk,Cedrik-Marcel Stebe,,,1.0
+117122,2022-03-21T15:40Z,Miami Open presented by Itau,Tomas Machac,Andreas Seppi,,,0.0
+117124,2022-03-21T15:40Z,Miami Open presented by Itau,Mitchell Krueger,Stefan Kozlov,,,1.0
+117123,2022-03-21T16:35Z,Miami Open presented by Itau,Kevin Anderson,Alex Bolt,,,1.0
+117130,2022-03-21T17:00Z,Miami Open presented by Itau,Mikhail Kukushkin,Radu Albot,,,1.0
+117121,2022-03-21T17:10Z,Miami Open presented by Itau,Thanasi Kokkinakis,Thomas Fabbiano,,,1.0
+117114,2022-03-21T18:00Z,Miami Open presented by Itau,Daniel Elahi Galan,Martin Damm,,,1.0
+117115,2022-03-21T18:30Z,Miami Open presented by Itau,Nicolas Kicker,Matthew Ebden,,,1.0
+117113,2022-03-21T18:45Z,Miami Open presented by Itau,Ulises Blanch,Mats Moraing,,,1.0
+117120,2022-03-21T18:55Z,Miami Open presented by Itau,Thiago Agustin Tirante,Emilio Gomez,,,0.0
+117129,2022-03-21T19:45Z,Miami Open presented by Itau,Holger Rune,Shintaro Mochizuki,,,0.0
+117133,2022-03-21T19:45Z,Miami Open presented by Itau,Sam Querrey,J.J. Wolf,,,0.0
+117131,2022-03-21T19:55Z,Miami Open presented by Itau,Hugo Grenier,Vasek Pospisil,,,1.0
+117135,2022-03-21T20:30Z,Miami Open presented by Itau,João Sousa,Fernando Verdasco,,,0.0
+117127,2022-03-21T21:10Z,Miami Open presented by Itau,Steve Johnson,Michael Mmoh,,,1.0
+117134,2022-03-21T21:10Z,Miami Open presented by Itau,Dmitry Popko,Thiago Monteiro,,,1.0
+117118,2022-03-21T21:30Z,Miami Open presented by Itau,Denis Kudla,Gustavo Heide,,,1.0
+117126,2022-03-21T22:00Z,Miami Open presented by Itau,Christopher Eubanks,Liam Broady,,,1.0
+117128,2022-03-21T22:50Z,Miami Open presented by Itau,Jack Sock,Aleksandar Vukic,,,1.0
+117125,2022-03-21T23:00Z,Miami Open presented by Itau,Yoshihito Nishioka,Egor Gerasimov,,,1.0
+117271,2022-03-22T15:00Z,Miami Open presented by Itau,Taro Daniel,Bjorn Fratangelo,,,1.0
+117279,2022-03-22T15:00Z,Miami Open presented by Itau,Kevin Anderson,Mitchell Krueger,,,0.0
+117276,2022-03-22T15:15Z,Miami Open presented by Itau,Jaume Munar,Elias Ymer,,,1.0
+117267,2022-03-22T17:15Z,Miami Open presented by Itau,Daniel Elahi Galan,Nicolas Kicker,,,1.0
+117284,2022-03-22T17:15Z,Miami Open presented by Itau,Shintaro Mochizuki,Mikhail Kukushkin,,,0.0
+117282,2022-03-22T17:35Z,Miami Open presented by Itau,Thanasi Kokkinakis,Andreas Seppi,,,1.0
+117281,2022-03-22T19:25Z,Miami Open presented by Itau,Peter Gojowczyk,Emilio Gomez,,,0.0
+117258,2022-03-22T19:30Z,Miami Open presented by Itau,Denis Kudla,Ulises Blanch,,,1.0
+117272,2022-03-22T20:15Z,Miami Open presented by Itau,J.J. Wolf,Dmitry Popko,,,1.0
+117283,2022-03-22T22:05Z,Miami Open presented by Itau,Fernando Verdasco,Hugo Grenier,,,1.0
+117273,2022-03-22T22:20Z,Miami Open presented by Itau,Steve Johnson,Jack Sock,,,0.0
+117280,2022-03-22T22:25Z,Miami Open presented by Itau,Yoshihito Nishioka,Christopher Eubanks,,,1.0
+117255,2022-03-23T15:10Z,Miami Open presented by Itau,Emilio Nava,Hugo Gaston,,,0.0
+117262,2022-03-23T15:10Z,Miami Open presented by Itau,Tallon Griekspoor,Francisco Cerundolo,,,0.0
+117261,2022-03-23T15:25Z,Miami Open presented by Itau,SoonWoo Kwon,Brandon Nakashima,,,0.0
+117256,2022-03-23T16:34Z,Miami Open presented by Itau,Gilles Simon,Jack Draper,,,0.0
+117259,2022-03-23T17:45Z,Miami Open presented by Itau,Juan Manuel Cerundolo,Dusan Lajovic,,,1.0
+117358,2022-03-23T17:50Z,Miami Open presented by Itau,Mackenzie McDonald,Dominik Koepfer,,,1.0
+117260,2022-03-23T18:30Z,Miami Open presented by Itau,Henri Laaksonen,Benoit Paire,,,1.0
+117257,2022-03-23T19:40Z,Miami Open presented by Itau,Daniel Elahi Galan,John Millman,,,1.0
+117265,2022-03-23T20:50Z,Miami Open presented by Itau,Roberto Carballes Baena,David Goffin,,,0.0
+117359,2022-03-23T21:00Z,Miami Open presented by Itau,Borna Coric,Fernando Verdasco,,,1.0
+117270,2022-03-23T21:25Z,Miami Open presented by Itau,Jaume Munar,Taro Daniel,,,0.0
+117361,2022-03-23T23:15Z,Miami Open presented by Itau,Shang Juncheng,Denis Kudla,,,0.0
+117263,2022-03-23T23:25Z,Miami Open presented by Itau,Oscar Otte,Mitchell Krueger,,,1.0
+117266,2022-03-24T00:40Z,Miami Open presented by Itau,Maxime Cressy,Emil Ruusuvuori,,,0.0
+117268,2022-03-24T01:05Z,Miami Open presented by Itau,Nick Kyrgios,Adrian Mannarino,,,1.0
+117360,2022-03-24T01:15Z,Miami Open presented by Itau,Thanasi Kokkinakis,Richard Gasquet,,,1.0
+117287,2022-03-24T15:10Z,Miami Open presented by Itau,Aljaz Bedene,Ugo Humbert,,,0.0
+117302,2022-03-24T15:15Z,Miami Open presented by Itau,Lloyd Harris,Facundo Bagnis,,,1.0
+117311,2022-03-24T15:15Z,Miami Open presented by Itau,Emilio Gomez,Yoshihito Nishioka,,,0.0
+117274,2022-03-24T16:10Z,Miami Open presented by Itau,Sebastian Korda,Alejandro Davidovich Fokina,,,1.0
+117264,2022-03-24T17:25Z,Miami Open presented by Itau,Pedro Martinez,Jan-Lennard Struff,,,1.0
+117285,2022-03-24T17:30Z,Miami Open presented by Itau,Daniel Altmaier,J.J. Wolf,,,0.0
+117309,2022-03-24T17:42Z,Miami Open presented by Itau,Jenson Brooksby,Federico Coria,,,1.0
+117291,2022-03-24T19:20Z,Miami Open presented by Itau,Lorenzo Musetti,Alexei Popyrin,,,0.0
+117286,2022-03-24T20:10Z,Miami Open presented by Itau,Jo-Wilfried Tsonga,Jordan Thompson,,,0.0
+117301,2022-03-24T20:15Z,Miami Open presented by Itau,Sebastian Baez,Kamil Majchrzak,,,0.0
+117292,2022-03-24T21:30Z,Miami Open presented by Itau,Marton Fucsovics,Marcos Giron,,,1.0
+117277,2022-03-24T21:50Z,Miami Open presented by Itau,Mikhail Kukushkin,Botic Van De Zandschulp,,,1.0
+117289,2022-03-24T21:50Z,Miami Open presented by Itau,Laslo Djere,Arthur Rinderknech,,,0.0
+117278,2022-03-24T23:10Z,Miami Open presented by Itau,Tommy Paul,Benjamin Bonzi,,,1.0
+117269,2022-03-24T23:15Z,Miami Open presented by Itau,Federico Delbonis,Andy Murray,,,0.0
+117275,2022-03-24T23:15Z,Miami Open presented by Itau,Jack Sock,Miomir Kecmanovic,,,0.0
+117313,2022-03-25T15:10Z,Miami Open presented by Itau,Juan Manuel Cerundolo,Kevin Anderson,,,1.0
+117326,2022-03-25T15:10Z,Miami Open presented by Itau,Taro Daniel,Fabio Fognini,,,0.0
+117305,2022-03-25T15:15Z,Miami Open presented by Itau,Jack Draper,Cameron Norrie,,,0.0
+117328,2022-03-25T17:45Z,Miami Open presented by Itau,Pablo Carreno Busta,David Goffin,,,1.0
+117299,2022-03-25T18:10Z,Miami Open presented by Itau,Borna Coric,Alexander Zverev,,,0.0
+117303,2022-03-25T18:15Z,Miami Open presented by Itau,John Isner,Hugo Gaston,,,0.0
+117316,2022-03-25T18:30Z,Miami Open presented by Itau,Emil Ruusuvuori,Jannik Sinner,,,0.0
+117307,2022-03-25T20:10Z,Miami Open presented by Itau,Diego Schwartzman,Thanasi Kokkinakis,,,0.0
+117324,2022-03-25T20:25Z,Miami Open presented by Itau,Andrey Rublev,Nick Kyrgios,,,0.0
+117297,2022-03-25T21:25Z,Miami Open presented by Itau,Denis Kudla,Lorenzo Sonego,,,1.0
+117317,2022-03-25T21:25Z,Miami Open presented by Itau,Reilly Opelka,Francisco Cerundolo,,,0.0
+117315,2022-03-25T22:20Z,Miami Open presented by Itau,Daniel Elahi Galan,Alexander Bublik,,,0.0
+117318,2022-03-25T22:20Z,Miami Open presented by Itau,Oscar Otte,Gael Monfils,,,0.0
+117298,2022-03-26T00:00Z,Miami Open presented by Itau,Grigor Dimitrov,Mackenzie McDonald,,,0.0
+117314,2022-03-26T00:10Z,Miami Open presented by Itau,Casper Ruud,Henri Laaksonen,,,1.0
+117312,2022-03-26T00:45Z,Miami Open presented by Itau,Frances Tiafoe,Brandon Nakashima,,,1.0
+117337,2022-03-26T15:10Z,Miami Open presented by Itau,Jordan Thompson,Alex de Minaur,,,0.0
+117357,2022-03-26T15:10Z,Miami Open presented by Itau,Kamil Majchrzak,Roberto Bautista Agut,,,0.0
+117335,2022-03-26T15:15Z,Miami Open presented by Itau,Tommy Paul,Karen Khachanov,,,1.0
+117354,2022-03-26T16:10Z,Miami Open presented by Itau,Daniil Medvedev,Andy Murray,,,1.0
+117355,2022-03-26T16:40Z,Miami Open presented by Itau,Pedro Martinez,Cristian Garin,,,1.0
+117348,2022-03-26T17:00Z,Miami Open presented by Itau,Arthur Rinderknech,Hubert Hurkacz,,,0.0
+117345,2022-03-26T17:45Z,Miami Open presented by Itau,Yoshihito Nishioka,Daniel Evans,,,1.0
+117323,2022-03-26T18:55Z,Miami Open presented by Itau,Miomir Kecmanovic,Felix Auger-Aliassime,,,1.0
+117346,2022-03-26T19:15Z,Miami Open presented by Itau,Aslan Karatsev,Ugo Humbert,,,1.0
+117334,2022-03-26T20:00Z,Miami Open presented by Itau,Taylor Fritz,Mikhail Kukushkin,,,1.0
+117336,2022-03-26T20:05Z,Miami Open presented by Itau,Albert Ramos-Vinolas,Sebastian Korda,,,0.0
+117356,2022-03-26T22:05Z,Miami Open presented by Itau,Nikoloz Basilashvili,Jenson Brooksby,,,0.0
+117344,2022-03-26T23:00Z,Miami Open presented by Itau,Denis Shapovalov,Lloyd Harris,,,0.0
+117339,2022-03-26T23:05Z,Miami Open presented by Itau,Stefanos Tsitsipas,J.J. Wolf,,,1.0
+117338,2022-03-26T23:30Z,Miami Open presented by Itau,Marin Cilic,Alexei Popyrin,,,1.0
+117333,2022-03-27T00:40Z,Miami Open presented by Itau,Marton Fucsovics,Carlos Alcaraz,,,0.0
+117350,2022-03-27T15:10Z,Miami Open presented by Itau,Hugo Gaston,Cameron Norrie,,,0.0
+117343,2022-03-27T16:45Z,Miami Open presented by Itau,Casper Ruud,Alexander Bublik,,,1.0
+117349,2022-03-27T17:50Z,Miami Open presented by Itau,Nick Kyrgios,Fabio Fognini,,,1.0
+117342,2022-03-27T19:15Z,Miami Open presented by Itau,Frances Tiafoe,Juan Manuel Cerundolo,,,1.0
+117340,2022-03-27T19:50Z,Miami Open presented by Itau,Pablo Carreno Busta,Jannik Sinner,,,0.0
+117341,2022-03-27T23:10Z,Miami Open presented by Itau,Francisco Cerundolo,Gael Monfils,,,1.0
+117351,2022-03-27T23:15Z,Miami Open presented by Itau,Thanasi Kokkinakis,Denis Kudla,,,1.0
+117352,2022-03-28T01:10Z,Miami Open presented by Itau,Mackenzie McDonald,Alexander Zverev,,,0.0
+117293,2022-03-28T15:10Z,Miami Open presented by Itau,Jenson Brooksby,Roberto Bautista Agut,,,1.0
+117300,2022-03-28T16:10Z,Miami Open presented by Itau,Daniil Medvedev,Pedro Martinez,,,1.0
+117295,2022-03-28T16:40Z,Miami Open presented by Itau,Aslan Karatsev,Hubert Hurkacz,,,0.0
+117294,2022-03-28T18:30Z,Miami Open presented by Itau,Lloyd Harris,Yoshihito Nishioka,,,1.0
+117288,2022-03-28T19:20Z,Miami Open presented by Itau,Marin Cilic,Carlos Alcaraz,,,0.0
+117290,2022-03-28T21:20Z,Miami Open presented by Itau,Taylor Fritz,Tommy Paul,,,1.0
+117347,2022-03-28T22:55Z,Miami Open presented by Itau,Sebastian Korda,Miomir Kecmanovic,,,0.0
+117296,2022-03-28T23:10Z,Miami Open presented by Itau,Stefanos Tsitsipas,Alex de Minaur,,,1.0
+117321,2022-03-29T15:10Z,Miami Open presented by Itau,Casper Ruud,Cameron Norrie,,,1.0
+117322,2022-03-29T16:10Z,Miami Open presented by Itau,Thanasi Kokkinakis,Alexander Zverev,,,0.0
+117319,2022-03-29T17:10Z,Miami Open presented by Itau,Nick Kyrgios,Jannik Sinner,,,0.0
+117353,2022-03-29T18:10Z,Miami Open presented by Itau,Daniil Medvedev,Jenson Brooksby,,,1.0
+117320,2022-03-29T19:10Z,Miami Open presented by Itau,Francisco Cerundolo,Frances Tiafoe,,,1.0
+117325,2022-03-29T22:10Z,Miami Open presented by Itau,Lloyd Harris,Hubert Hurkacz,,,0.0
+117327,2022-03-30T00:00Z,Miami Open presented by Itau,Stefanos Tsitsipas,Carlos Alcaraz,,,0.0
+117329,2022-03-30T01:10Z,Miami Open presented by Itau,Taylor Fritz,Miomir Kecmanovic,,,0.0
+117332,2022-03-30T19:15Z,Miami Open presented by Itau,Jannik Sinner,Francisco Cerundolo,,,0.0
+117304,2022-03-31T01:15Z,Miami Open presented by Itau,Casper Ruud,Alexander Zverev,,,1.0
+117330,2022-03-31T17:10Z,Miami Open presented by Itau,Daniil Medvedev,Hubert Hurkacz,,,0.0
+117331,2022-03-31T23:10Z,Miami Open presented by Itau,Carlos Alcaraz,Miomir Kecmanovic,,,1.0
+117308,2022-04-01T17:10Z,Miami Open presented by Itau,Francisco Cerundolo,Casper Ruud,,,0.0
+117306,2022-04-01T23:00Z,Miami Open presented by Itau,Hubert Hurkacz,Carlos Alcaraz,,,0.0
+117310,2022-04-03T17:10Z,Miami Open presented by Itau,Carlos Alcaraz,Casper Ruud,,,1.0
+117136,2022-03-21T14:10Z,Miami Open presented by Itau,Wang Xinyu,Elvina Kalieva,,,1.0
+117137,2022-03-21T14:10Z,Miami Open presented by Itau,Petra Martic,Christina McHale,,,0.0
+117138,2022-03-21T14:10Z,Miami Open presented by Itau,Storm Hunter,Jule Niemeier,,,1.0
+117139,2022-03-21T14:10Z,Miami Open presented by Itau,Kaja Juvan,Zhu Lin,,,0.0
+117153,2022-03-21T14:10Z,Miami Open presented by Itau,Olga Govortsova,Dalma Galfi,,,0.0
+117222,2022-03-21T15:35Z,Miami Open presented by Itau,Alycia Parks,Kamilla Rakhimova,,,1.0
+169323,2022-03-21T15:35Z,Miami Open presented by Itau,Alycia Parks,Kamilla Rakhimova,,,1.0
+117251,2022-03-21T15:40Z,Miami Open presented by Itau,Tatjana Maria,Harriet Dart,,,1.0
+117247,2022-03-21T15:50Z,Miami Open presented by Itau,Katarina Zavatska,Rebecca Marino,,,0.0
+117249,2022-03-21T16:50Z,Miami Open presented by Itau,Martina Trevisan,Yuan Yue,,,0.0
+117220,2022-03-21T17:10Z,Miami Open presented by Itau,Diane Parry,Kirsten Flipkens,,,0.0
+117242,2022-03-21T17:35Z,Miami Open presented by Itau,Magdalena Frech,Whitney Osuigwe,,,1.0
+117236,2022-03-21T17:40Z,Miami Open presented by Itau,Harmony Tan,Daria Snigur,,,1.0
+117244,2022-03-21T17:40Z,Miami Open presented by Itau,Stefanie Voegele,Aleksandra Krunic,,,1.0
+174779,2022-03-21T17:40Z,Miami Open presented by Itau,Harmony Tan,Daria Snigur,,,1.0
+117246,2022-03-21T19:10Z,Miami Open presented by Itau,Anna Kalinskaya,Anna-Lena Friedsam,,,1.0
+117238,2022-03-21T19:20Z,Miami Open presented by Itau,Maddison Inglis,Ekaterine Gorgodze,,,0.0
+117227,2022-03-21T19:50Z,Miami Open presented by Itau,Wang Xiyu,Chloe Paquet,,,1.0
+117225,2022-03-21T20:10Z,Miami Open presented by Itau,Lauren Davis,Priscilla Hon,,,1.0
+117253,2022-03-21T21:10Z,Miami Open presented by Itau,Claire Liu,Lesia Tsurenko,,,0.0
+117234,2022-03-21T21:30Z,Miami Open presented by Itau,Caroline Dolehide,Dayana Yastremska,,,1.0
+117231,2022-03-21T21:45Z,Miami Open presented by Itau,Mai Hontama,Anastasia Potapova,,,0.0
+169257,2022-03-21T21:45Z,Miami Open presented by Itau,Mai Hontama,Anastasia Potapova,,,0.0
+117224,2022-03-21T22:45Z,Miami Open presented by Itau,Lucia Bronzetti,Lesley Pattinama Kerkhove,,,1.0
+117240,2022-03-21T23:00Z,Miami Open presented by Itau,Mirjam Bjorklund,Vera Zvonareva,,,0.0
+117229,2022-03-21T23:25Z,Miami Open presented by Itau,Marie Bouzkova,Anastasia Gasanova,,,1.0
+117212,2022-03-22T00:30Z,Miami Open presented by Itau,Renata Zarazua,Wang Qiang,,,0.0
+117197,2022-03-22T15:00Z,Miami Open presented by Itau,Caroline Garcia,Anna Bondar,,,0.0
+117209,2022-03-22T15:00Z,Miami Open presented by Itau,Alison Van Uytvanck,Marta Kostyuk,,,0.0
+117211,2022-03-22T15:00Z,Miami Open presented by Itau,Heather Watson,Arantxa Rus,,,1.0
+117370,2022-03-22T15:00Z,Miami Open presented by Itau,Yuan Yue,Tatjana Maria,,,1.0
+117371,2022-03-22T15:00Z,Miami Open presented by Itau,Wang Xinyu,Storm Hunter,,,1.0
+117372,2022-03-22T15:00Z,Miami Open presented by Itau,Zhu Lin,Rebecca Marino,,,0.0
+117373,2022-03-22T16:30Z,Miami Open presented by Itau,Christina McHale,Dalma Galfi,,,0.0
+117365,2022-03-22T16:40Z,Miami Open presented by Itau,Kirsten Flipkens,Alycia Parks,,,1.0
+117204,2022-03-22T17:00Z,Miami Open presented by Itau,Greet Minnen,Daria Saville,,,0.0
+117195,2022-03-22T17:20Z,Miami Open presented by Itau,Kaia Kanepi,Maryna Zanevska,,,1.0
+117367,2022-03-22T17:30Z,Miami Open presented by Itau,Magdalena Frech,Stefanie Voegele,,,1.0
+117363,2022-03-22T18:15Z,Miami Open presented by Itau,Lauren Davis,Wang Xiyu,,,1.0
+117196,2022-03-22T18:45Z,Miami Open presented by Itau,Magda Linette,Zheng Qinwen,,,1.0
+117369,2022-03-22T18:50Z,Miami Open presented by Itau,Harmony Tan,Ekaterine Gorgodze,,,0.0
+117188,2022-03-22T18:55Z,Miami Open presented by Itau,Ekaterina Alexandrova,Jasmine Paolini,,,1.0
+117161,2022-03-22T19:25Z,Miami Open presented by Itau,Amanda Anisimova,Shelby Rogers,,,0.0
+117368,2022-03-22T19:30Z,Miami Open presented by Itau,Anna Kalinskaya,Caroline Dolehide,,,1.0
+117180,2022-03-22T20:10Z,Miami Open presented by Itau,Elena-Gabriela Ruse,Ana Konjuh,,,1.0
+117366,2022-03-22T20:50Z,Miami Open presented by Itau,Lucia Bronzetti,Wang Qiang,,,0.0
+117177,2022-03-22T20:55Z,Miami Open presented by Itau,Beatriz Haddad Maia,Nuria Parrizas Diaz,,,1.0
+117203,2022-03-22T21:05Z,Miami Open presented by Itau,Ann Li,Mayar Sherif,,,1.0
+117362,2022-03-22T21:10Z,Miami Open presented by Itau,Lesia Tsurenko,Vera Zvonareva,,,0.0
+117364,2022-03-22T21:30Z,Miami Open presented by Itau,Marie Bouzkova,Anastasia Potapova,,,1.0
+117194,2022-03-22T21:55Z,Miami Open presented by Itau,Yulia Putintseva,Nastasja Schunk,,,1.0
+117147,2022-03-23T15:10Z,Miami Open presented by Itau,Alexandra Eala,Madison Brengle,,,0.0
+117186,2022-03-23T15:10Z,Miami Open presented by Itau,Linda Fruhvirtova,Danka Kovinic,,,1.0
+117215,2022-03-23T15:10Z,Miami Open presented by Itau,Hailey Baptiste,Irina-Camelia Begu,,,0.0
+117217,2022-03-23T15:10Z,Miami Open presented by Itau,Wang Xinyu,Aliaksandra Sasnovich,,,0.0
+117200,2022-03-23T16:10Z,Miami Open presented by Itau,Naomi Osaka,Astra Sharma,,,1.0
+117205,2022-03-23T16:35Z,Miami Open presented by Itau,Lucia Bronzetti,Ajla Tomljanovic,,,1.0
+117198,2022-03-23T16:50Z,Miami Open presented by Itau,Misaki Doi,Vera Zvonareva,,,0.0
+117155,2022-03-23T17:05Z,Miami Open presented by Itau,Zhang Shuai,Clara Tauson,,,1.0
+117202,2022-03-23T17:10Z,Miami Open presented by Itau,Robin Montgomery,Anna Kalinskaya,,,0.0
+117199,2022-03-23T17:25Z,Miami Open presented by Itau,Karolina Muchova,Tereza Martincova,,,1.0
+117176,2022-03-23T18:15Z,Miami Open presented by Itau,Ekaterine Gorgodze,Anhelina Kalinina,,,0.0
+117166,2022-03-23T19:35Z,Miami Open presented by Itau,Dalma Galfi,Kristina Kucova,,,1.0
+117165,2022-03-23T19:45Z,Miami Open presented by Itau,Clara Burel,Magdalena Frech,,,1.0
+117201,2022-03-23T19:55Z,Miami Open presented by Itau,Jil Teichmann,Alison Riske-Amritraj,,,0.0
+117206,2022-03-23T20:10Z,Miami Open presented by Itau,Rebecca Marino,Katerina Siniakova,,,0.0
+117193,2022-03-23T20:40Z,Miami Open presented by Itau,Laura Siegemund,Marie Bouzkova,,,0.0
+117163,2022-03-23T22:00Z,Miami Open presented by Itau,Ashlyn Krueger,Wang Qiang,,,0.0
+117160,2022-03-23T22:15Z,Miami Open presented by Itau,Yuan Yue,Lauren Davis,,,0.0
+117148,2022-03-23T22:20Z,Miami Open presented by Itau,Kirsten Flipkens,Viktorija Golubic,,,0.0
+117179,2022-03-23T23:15Z,Miami Open presented by Itau,Panna Udvardy,Sloane Stephens,,,0.0
+117182,2022-03-24T15:10Z,Miami Open presented by Itau,Leylah Fernandez,Karolina Muchova,,,0.0
+117184,2022-03-24T15:10Z,Miami Open presented by Itau,Danielle Collins,Anna Bondar,,,1.0
+117181,2022-03-24T15:15Z,Miami Open presented by Itau,Alison Riske-Amritraj,Alize Cornet,,,1.0
+117140,2022-03-24T16:55Z,Miami Open presented by Itau,Aliaksandra Sasnovich,Daria Kasatkina,,,1.0
+117178,2022-03-24T17:15Z,Miami Open presented by Itau,Magda Linette,Ons Jabeur,,,0.0
+117183,2022-03-24T17:45Z,Miami Open presented by Itau,Naomi Osaka,Angelique Kerber,,,1.0
+117143,2022-03-24T19:00Z,Miami Open presented by Itau,Heather Watson,Elina Svitolina,,,1.0
+117145,2022-03-24T19:05Z,Miami Open presented by Itau,Emma Raducanu,Katerina Siniakova,,,0.0
+117192,2022-03-24T19:15Z,Miami Open presented by Itau,Sara Sorribes Tormo,Kaia Kanepi,,,0.0
+117187,2022-03-24T19:25Z,Miami Open presented by Itau,Stefanie Voegele,Lucia Bronzetti,,,0.0
+117189,2022-03-24T21:00Z,Miami Open presented by Itau,Anna Kalinskaya,Karolina Pliskova,,,1.0
+117185,2022-03-24T22:00Z,Miami Open presented by Itau,Daria Saville,Harmony Tan,,,1.0
+117191,2022-03-24T22:30Z,Miami Open presented by Itau,Vera Zvonareva,Tamara Zidansek,,,1.0
+117141,2022-03-24T23:05Z,Miami Open presented by Itau,Belinda Bencic,Marta Kostyuk,,,1.0
+117190,2022-03-25T00:40Z,Miami Open presented by Itau,Anett Kontaveit,Ann Li,,,0.0
+117149,2022-03-25T01:10Z,Miami Open presented by Itau,Aryna Sabalenka,Irina-Camelia Begu,,,0.0
+117156,2022-03-25T15:10Z,Miami Open presented by Itau,Shelby Rogers,Jelena Ostapenko,,,1.0
+117164,2022-03-25T15:10Z,Miami Open presented by Itau,Veronika Kudermetova,Dalma Galfi,,,1.0
+117158,2022-03-25T15:15Z,Miami Open presented by Itau,Zhang Shuai,Sorana Cirstea,,,1.0
+117157,2022-03-25T16:00Z,Miami Open presented by Itau,Coco Gauff,Wang Qiang,,,1.0
+117168,2022-03-25T16:30Z,Miami Open presented by Itau,Elena-Gabriela Ruse,Elena Rybakina,,,0.0
+117175,2022-03-25T16:30Z,Miami Open presented by Itau,Storm Hunter,Lauren Davis,,,0.0
+117173,2022-03-25T17:00Z,Miami Open presented by Itau,Elise Mertens,Linda Fruhvirtova,,,0.0
+117167,2022-03-25T17:40Z,Miami Open presented by Itau,Jessica Pegula,Sloane Stephens,,,1.0
+117159,2022-03-25T18:05Z,Miami Open presented by Itau,Liudmila Samsonova,Madison Brengle,,,0.0
+117162,2022-03-25T19:20Z,Miami Open presented by Itau,Clara Burel,Petra Kvitova,,,0.0
+117170,2022-03-25T19:20Z,Miami Open presented by Itau,Beatriz Haddad Maia,Maria Sakkari,,,1.0
+117172,2022-03-25T19:30Z,Miami Open presented by Itau,Yulia Putintseva,Lesia Tsurenko,,,1.0
+117171,2022-03-25T21:30Z,Miami Open presented by Itau,Paula Badosa,Marie Bouzkova,,,1.0
+117150,2022-03-25T23:10Z,Miami Open presented by Itau,Viktorija Golubic,Iga Swiatek,,,0.0
+117169,2022-03-25T23:30Z,Miami Open presented by Itau,Madison Keys,Anhelina Kalinina,,,0.0
+117174,2022-03-26T01:45Z,Miami Open presented by Itau,Ekaterina Alexandrova,Victoria Azarenka,,,0.0
+117152,2022-03-26T15:10Z,Miami Open presented by Itau,Belinda Bencic,Heather Watson,,,1.0
+117154,2022-03-26T15:15Z,Miami Open presented by Itau,Katerina Siniakova,Daria Saville,,,0.0
+117151,2022-03-26T16:45Z,Miami Open presented by Itau,Irina-Camelia Begu,Aliaksandra Sasnovich,,,0.0
+117248,2022-03-26T18:05Z,Miami Open presented by Itau,Danielle Collins,Vera Zvonareva,,,1.0
+117146,2022-03-26T18:30Z,Miami Open presented by Itau,Karolina Muchova,Naomi Osaka,,,1.0
+117142,2022-03-26T18:40Z,Miami Open presented by Itau,Lucia Bronzetti,Anna Kalinskaya,,,1.0
+117144,2022-03-26T23:20Z,Miami Open presented by Itau,Ann Li,Alison Riske-Amritraj,,,0.0
+117250,2022-03-27T01:30Z,Miami Open presented by Itau,Kaia Kanepi,Ons Jabeur,,,0.0
+117233,2022-03-27T15:00Z,Miami Open presented by Itau,Veronika Kudermetova,Shelby Rogers,,,1.0
+117252,2022-03-27T16:10Z,Miami Open presented by Itau,Paula Badosa,Yulia Putintseva,,,1.0
+117243,2022-03-27T16:55Z,Miami Open presented by Itau,Anhelina Kalinina,Beatriz Haddad Maia,,,1.0
+117254,2022-03-27T17:35Z,Miami Open presented by Itau,Linda Fruhvirtova,Victoria Azarenka,,,1.0
+117241,2022-03-27T18:10Z,Miami Open presented by Itau,Jessica Pegula,Elena Rybakina,,,1.0
+117235,2022-03-27T18:50Z,Miami Open presented by Itau,Coco Gauff,Zhang Shuai,,,1.0
+117245,2022-03-27T21:05Z,Miami Open presented by Itau,Lauren Davis,Petra Kvitova,,,0.0
+117237,2022-03-27T23:05Z,Miami Open presented by Itau,Madison Brengle,Iga Swiatek,,,0.0
+117230,2022-03-28T15:05Z,Miami Open presented by Itau,Danielle Collins,Ons Jabeur,,,1.0
+117226,2022-03-28T15:10Z,Miami Open presented by Itau,Daria Saville,Lucia Bronzetti,,,1.0
+117228,2022-03-28T17:55Z,Miami Open presented by Itau,Alison Riske-Amritraj,Naomi Osaka,,,0.0
+117219,2022-03-28T19:40Z,Miami Open presented by Itau,Coco Gauff,Iga Swiatek,,,0.0
+117239,2022-03-28T21:20Z,Miami Open presented by Itau,Aliaksandra Sasnovich,Belinda Bencic,,,0.0
+117223,2022-03-28T23:15Z,Miami Open presented by Itau,Petra Kvitova,Veronika Kudermetova,,,1.0
+117221,2022-03-29T00:35Z,Miami Open presented by Itau,Jessica Pegula,Anhelina Kalinina,,,1.0
+117232,2022-03-29T01:10Z,Miami Open presented by Itau,Paula Badosa,Linda Fruhvirtova,,,1.0
+117213,2022-03-29T19:50Z,Miami Open presented by Itau,Belinda Bencic,Daria Saville,,,1.0
+117214,2022-03-29T23:10Z,Miami Open presented by Itau,Naomi Osaka,Danielle Collins,,,1.0
+117216,2022-03-30T17:15Z,Miami Open presented by Itau,Paula Badosa,Jessica Pegula,,,0.0
+117218,2022-03-30T23:10Z,Miami Open presented by Itau,Petra Kvitova,Iga Swiatek,,,0.0
+117207,2022-03-31T19:35Z,Miami Open presented by Itau,Belinda Bencic,Naomi Osaka,,,0.0
+117208,2022-04-01T02:00Z,Miami Open presented by Itau,Jessica Pegula,Iga Swiatek,,,0.0
+117210,2022-04-02T17:00Z,Miami Open presented by Itau,Naomi Osaka,Iga Swiatek,,,0.0
+117472,2022-03-27T09:00Z,AnyTech365 Andalucia Open,Raul Brancaccio,Pablo Llamas Ruiz,,,1.0
+117475,2022-03-27T09:00Z,AnyTech365 Andalucia Open,Aleksandr Shevchenko,Alberto Barroso Campos,,,1.0
+117476,2022-03-27T09:00Z,AnyTech365 Andalucia Open,Johannes Haerteis,Elliot Benchetrit,,,1.0
+117477,2022-03-27T09:00Z,AnyTech365 Andalucia Open,Javier Barranco Cosano,Max Benaim,,,1.0
+117469,2022-03-27T10:30Z,AnyTech365 Andalucia Open,Lukas Klein,Titouan Droguet,,,1.0
+117471,2022-03-27T10:30Z,AnyTech365 Andalucia Open,Sadio Doumbia,Alvaro Lopez San Martin,,,0.0
+117481,2022-03-27T10:30Z,AnyTech365 Andalucia Open,Adrian Menendez-Maceiras,Juan Pablo Paz,,,0.0
+117482,2022-03-27T10:30Z,AnyTech365 Andalucia Open,Rafael Matos,Pol Martin Tiffon,,,0.0
+117474,2022-03-27T12:00Z,AnyTech365 Andalucia Open,Bogdan Bobrov,Matteo Martineau,,,0.0
+117478,2022-03-27T12:00Z,AnyTech365 Andalucia Open,Joshua Schaefer,Christopher Heyman,,,0.0
+117479,2022-03-27T12:00Z,AnyTech365 Andalucia Open,Nicolas Alvarez Varona,Petros Tsitsipas,,,1.0
+117480,2022-03-27T12:00Z,AnyTech365 Andalucia Open,Miguel Damas,Carlos Gomez-Herrera,,,0.0
+117529,2022-03-28T08:00Z,AnyTech365 Andalucia Open,Lukas Klein,Alvaro Lopez San Martin,,,1.0
+117531,2022-03-28T08:00Z,AnyTech365 Andalucia Open,Aleksandr Shevchenko,Johannes Haerteis,,,1.0
+117532,2022-03-28T08:00Z,AnyTech365 Andalucia Open,Javier Barranco Cosano,Christopher Heyman,,,1.0
+117533,2022-03-28T08:00Z,AnyTech365 Andalucia Open,Juan Pablo Paz,Pol Martin Tiffon,,,0.0
+117486,2022-03-28T09:30Z,AnyTech365 Andalucia Open,Andrey Kuznetsov,Jiri Vesely,,,0.0
+117494,2022-03-28T09:30Z,AnyTech365 Andalucia Open,Mario Vilella Martinez,Yannick Hanfmann,,,0.0
+117530,2022-03-28T09:30Z,AnyTech365 Andalucia Open,Raul Brancaccio,Matteo Martineau,,,1.0
+117534,2022-03-28T09:30Z,AnyTech365 Andalucia Open,Nicolas Alvarez Varona,Carlos Gomez-Herrera,,,0.0
+117496,2022-03-28T11:00Z,AnyTech365 Andalucia Open,Philipp Kohlschreiber,Jiri Lehecka,,,1.0
+117488,2022-03-28T14:00Z,AnyTech365 Andalucia Open,Chun-Hsin Tseng,Marco Cecchinato,,,1.0
+117484,2022-03-29T08:00Z,AnyTech365 Andalucia Open,Federico Gaio,Pol Martin Tiffon,,,1.0
+117483,2022-03-29T11:00Z,AnyTech365 Andalucia Open,Roberto Carballes Baena,Nikola Milojevic,,,1.0
+117495,2022-03-29T11:00Z,AnyTech365 Andalucia Open,Javier Barranco Cosano,Manuel Guinard,,,0.0
+117498,2022-03-29T11:00Z,AnyTech365 Andalucia Open,Pablo Andujar,Andrea Pellegrino,,,1.0
+117490,2022-03-29T11:05Z,AnyTech365 Andalucia Open,Nicolas Alvarez Varona,Lukas Klein,,,1.0
+117493,2022-03-29T11:30Z,AnyTech365 Andalucia Open,Dominic Thiem,Pedro Cachin,,,0.0
+117487,2022-03-29T12:30Z,AnyTech365 Andalucia Open,Elias Ymer,Stan Wawrinka,,,1.0
+117489,2022-03-29T12:30Z,AnyTech365 Andalucia Open,Jaume Munar,Aleksandr Shevchenko,,,1.0
+117485,2022-03-29T12:35Z,AnyTech365 Andalucia Open,Carlos Gimeno Valero,Norbert Gombos,,,0.0
+117491,2022-03-29T14:05Z,AnyTech365 Andalucia Open,Bernabe Zapata Miralles,Raul Brancaccio,,,1.0
+117497,2022-03-29T14:05Z,AnyTech365 Andalucia Open,Carlos Gomez-Herrera,Carlos Taberner,,,0.0
+117492,2022-03-29T15:35Z,AnyTech365 Andalucia Open,Franco Agamenone,Alex Molcan,,,0.0
+117504,2022-03-30T09:00Z,AnyTech365 Andalucia Open,Elias Ymer,Chun-Hsin Tseng,,,0.0
+117510,2022-03-30T09:00Z,AnyTech365 Andalucia Open,Pablo Andujar,Yannick Hanfmann,,,1.0
+117506,2022-03-30T11:30Z,AnyTech365 Andalucia Open,Norbert Gombos,Jiri Vesely,,,0.0
+117505,2022-03-30T12:00Z,AnyTech365 Andalucia Open,Roberto Carballes Baena,Federico Gaio,,,1.0
+117509,2022-03-31T11:00Z,AnyTech365 Andalucia Open,Philipp Kohlschreiber,Carlos Taberner,,,1.0
+117508,2022-03-31T11:30Z,AnyTech365 Andalucia Open,Pedro Cachin,Manuel Guinard,,,1.0
+117511,2022-03-31T13:00Z,AnyTech365 Andalucia Open,Bernabe Zapata Miralles,Alex Molcan,,,0.0
+117507,2022-03-31T14:00Z,AnyTech365 Andalucia Open,Jaume Munar,Nicolas Alvarez Varona,,,1.0
+117513,2022-04-01T11:00Z,AnyTech365 Andalucia Open,Pablo Andujar,Chun-Hsin Tseng,,,1.0
+117512,2022-04-01T12:00Z,AnyTech365 Andalucia Open,Pedro Cachin,Philipp Kohlschreiber,,,1.0
+117500,2022-04-01T13:30Z,AnyTech365 Andalucia Open,Roberto Carballes Baena,Jiri Vesely,,,0.0
+117501,2022-04-01T14:00Z,AnyTech365 Andalucia Open,Jaume Munar,Alex Molcan,,,1.0
+117502,2022-04-02T12:00Z,AnyTech365 Andalucia Open,Pedro Cachin,Pablo Andujar,,,1.0
+117503,2022-04-02T13:30Z,AnyTech365 Andalucia Open,Jiri Vesely,Jaume Munar,,,0.0
+117499,2022-04-03T12:00Z,AnyTech365 Andalucia Open,Pedro Cachin,Jaume Munar,,,0.0
+117458,2022-03-28T11:55Z,AnyTech365 Andalucia Open,Katarzyna Kawa,Nastasja Schunk,,,0.0
+117459,2022-03-28T11:55Z,AnyTech365 Andalucia Open,Aleksandra Krunic,Anna Karolina Schmiedlova,,,0.0
+117441,2022-03-28T12:10Z,AnyTech365 Andalucia Open,Fiona Ferro,Elina Avanesyan,,,0.0
+117443,2022-03-28T13:20Z,AnyTech365 Andalucia Open,Irene Burillo,Anna-Lena Friedsam,,,0.0
+117465,2022-03-28T13:40Z,AnyTech365 Andalucia Open,Viktoriya Tomova,Elisabetta Cocciaretto,,,0.0
+117460,2022-03-28T14:50Z,AnyTech365 Andalucia Open,Panna Udvardy,Irina Bara,,,1.0
+117451,2022-03-29T08:05Z,AnyTech365 Andalucia Open,Ekaterine Gorgodze,Varvara Gracheva,,,0.0
+117455,2022-03-29T08:05Z,AnyTech365 Andalucia Open,Sara Errani,Arantxa Rus,,,0.0
+117457,2022-03-29T08:05Z,AnyTech365 Andalucia Open,Julia Grabher,Rebeka Masarova,,,0.0
+117450,2022-03-29T12:30Z,AnyTech365 Andalucia Open,Oceane Dodin,Lesia Tsurenko,,,1.0
+117461,2022-03-29T12:50Z,AnyTech365 Andalucia Open,Kristina Mladenovic,Martina Trevisan,,,0.0
+117439,2022-03-29T13:00Z,AnyTech365 Andalucia Open,Danka Kovinic,Mandy Minella,,,1.0
+117454,2022-03-29T15:45Z,AnyTech365 Andalucia Open,Zhu Lin,Tamara Korpatsch,,,0.0
+117467,2022-03-29T16:10Z,AnyTech365 Andalucia Open,Ana Bogdan,Donna Vekic,,,1.0
+117463,2022-03-29T17:05Z,AnyTech365 Andalucia Open,Mayar Sherif,Anna Blinkova,,,1.0
+117456,2022-03-29T17:20Z,AnyTech365 Andalucia Open,Clara Burel,Andrea Lazaro Garcia,,,1.0
+117446,2022-03-30T10:05Z,AnyTech365 Andalucia Open,Panna Udvardy,Nastasja Schunk,,,1.0
+117452,2022-03-30T10:55Z,AnyTech365 Andalucia Open,Danka Kovinic,Elina Avanesyan,,,1.0
+117453,2022-03-30T14:10Z,AnyTech365 Andalucia Open,Anna-Lena Friedsam,Martina Trevisan,,,0.0
+117438,2022-03-30T14:35Z,AnyTech365 Andalucia Open,Tamara Korpatsch,Arantxa Rus,,,1.0
+117442,2022-03-31T09:05Z,AnyTech365 Andalucia Open,Oceane Dodin,Varvara Gracheva,,,1.0
+117445,2022-03-31T10:00Z,AnyTech365 Andalucia Open,Ana Bogdan,Anna Karolina Schmiedlova,,,0.0
+117447,2022-03-31T10:00Z,AnyTech365 Andalucia Open,Mayar Sherif,Elisabetta Cocciaretto,,,1.0
+117440,2022-03-31T13:50Z,AnyTech365 Andalucia Open,Clara Burel,Rebeka Masarova,,,0.0
+117462,2022-04-01T09:10Z,AnyTech365 Andalucia Open,Mayar Sherif,Anna Karolina Schmiedlova,,,1.0
+117464,2022-04-01T09:10Z,AnyTech365 Andalucia Open,Panna Udvardy,Tamara Korpatsch,,,0.0
+117466,2022-04-01T11:20Z,AnyTech365 Andalucia Open,Rebeka Masarova,Oceane Dodin,,,0.0
+117444,2022-04-01T13:10Z,AnyTech365 Andalucia Open,Danka Kovinic,Martina Trevisan,,,1.0
+117448,2022-04-02T09:15Z,AnyTech365 Andalucia Open,Tamara Korpatsch,Oceane Dodin,,,1.0
+117468,2022-04-02T11:05Z,AnyTech365 Andalucia Open,Danka Kovinic,Mayar Sherif,,,0.0
+117449,2022-04-03T10:10Z,AnyTech365 Andalucia Open,Mayar Sherif,Tamara Korpatsch,,,1.0
+117607,2022-04-02T14:05Z,Credit One Charleston Open,Bianca Jolie Fernandez,Catherine Harrison,,,0.0
+117604,2022-04-02T14:10Z,Credit One Charleston Open,Heather Watson,Elizabeth Halbauer,,,1.0
+117605,2022-04-02T14:10Z,Credit One Charleston Open,Demi  Schuurs,Ulrikke Eikeri,,,0.0
+117613,2022-04-02T14:10Z,Credit One Charleston Open,Sophie Chang,Whitney Osuigwe,,,1.0
+117611,2022-04-02T15:30Z,Credit One Charleston Open,Hao-Ching Chan,Carol Zhao,,,0.0
+117606,2022-04-02T15:40Z,Credit One Charleston Open,Christina McHale,Nadiia Kichenok,,,0.0
+117612,2022-04-02T15:40Z,Credit One Charleston Open,Caroline Dolehide,Louisa Chirico,,,0.0
+117618,2022-04-02T15:45Z,Credit One Charleston Open,Francesca Di Lorenzo,Tereza Mihalikova,,,1.0
+117614,2022-04-02T17:00Z,Credit One Charleston Open,Grace Min,Sofia Shapatava,,,1.0
+117619,2022-04-02T17:00Z,Credit One Charleston Open,Lyudmyla Kichenok,Marcela Zacarias,,,1.0
+117615,2022-04-02T18:10Z,Credit One Charleston Open,Katarina Jokic,Sachia Vickery,,,0.0
+117610,2022-04-02T18:15Z,Credit One Charleston Open,Robin Anderson,Elvina Kalieva,,,1.0
+117617,2022-04-02T19:20Z,Credit One Charleston Open,Desirae Krawczyk,Allie Kiick,,,0.0
+117609,2022-04-02T19:45Z,Credit One Charleston Open,Ellie Douglas,Gabriela Lee,,,0.0
+117616,2022-04-02T19:45Z,Credit One Charleston Open,Jamie Loeb,Alexa Graham,,,1.0
+117608,2022-04-02T20:15Z,Credit One Charleston Open,Coco Vandeweghe,Jessie Aney,,,1.0
+117741,2022-04-03T15:00Z,Credit One Charleston Open,Nadiia Kichenok,Catherine Harrison,,,1.0
+117738,2022-04-03T15:10Z,Credit One Charleston Open,Heather Watson,Ulrikke Eikeri,,,0.0
+117745,2022-04-03T16:10Z,Credit One Charleston Open,Grace Min,Sachia Vickery,,,0.0
+117740,2022-04-03T16:45Z,Credit One Charleston Open,Robin Anderson,Carol Zhao,,,1.0
+117743,2022-04-03T17:05Z,Credit One Charleston Open,Louisa Chirico,Sophie Chang,,,0.0
+117744,2022-04-03T17:30Z,Credit One Charleston Open,Francesca Di Lorenzo,Lyudmyla Kichenok,,,1.0
+117746,2022-04-03T18:10Z,Credit One Charleston Open,Jamie Loeb,Allie Kiick,,,0.0
+117739,2022-04-03T18:45Z,Credit One Charleston Open,Coco Vandeweghe,Gabriela Lee,,,0.0
+117777,2022-04-04T14:10Z,Credit One Charleston Open,Ana Konjuh,Linda Fruhvirtova,,,0.0
+117783,2022-04-04T14:10Z,Credit One Charleston Open,Katarina Zavatska,Yuan Yue,,,1.0
+117793,2022-04-04T14:10Z,Credit One Charleston Open,Aliaksandra Sasnovich,Anhelina Kalinina,,,0.0
+117773,2022-04-04T15:45Z,Credit One Charleston Open,Arianne Hartono,Anna Bondar,,,0.0
+117776,2022-04-04T16:00Z,Credit One Charleston Open,Heather Watson,Claire Liu,,,0.0
+117779,2022-04-04T16:00Z,Credit One Charleston Open,Ulrikke Eikeri,Nadiia Kichenok,,,1.0
+117794,2022-04-04T16:25Z,Credit One Charleston Open,Alize Cornet,Alycia Parks,,,1.0
+117782,2022-04-04T17:40Z,Credit One Charleston Open,Allie Kiick,Ekaterina Alexandrova,,,0.0
+117802,2022-04-04T17:50Z,Credit One Charleston Open,Gabriela Lee,Jasmine Paolini,,,0.0
+117756,2022-04-04T17:55Z,Credit One Charleston Open,Sachia Vickery,Amanda Anisimova,,,0.0
+117749,2022-04-04T19:25Z,Credit One Charleston Open,Magdalena Frech,Petra Kvitova,,,1.0
+117775,2022-04-04T19:25Z,Credit One Charleston Open,Zhang Shuai,Francesca Di Lorenzo,,,1.0
+117750,2022-04-04T23:00Z,Credit One Charleston Open,Shelby Rogers,Kaia Kanepi,,,0.0
+117751,2022-04-05T02:25Z,Credit One Charleston Open,Wang Xinyu,Irina-Camelia Begu,,,0.0
+117785,2022-04-05T14:05Z,Credit One Charleston Open,Magda Linette,Katie Volynets,,,1.0
+117795,2022-04-05T14:05Z,Credit One Charleston Open,Elena-Gabriela Ruse,Hailey Baptiste,,,0.0
+117747,2022-04-05T14:10Z,Credit One Charleston Open,Mariam Bolkvadze,Lauren Davis,,,0.0
+117778,2022-04-05T15:10Z,Credit One Charleston Open,Wang Xiyu,Belinda Bencic,,,0.0
+117758,2022-04-05T15:30Z,Credit One Charleston Open,Coco Vandeweghe,Anastasia Gasanova,,,1.0
+117753,2022-04-05T15:50Z,Credit One Charleston Open,Emma Navarro,Madison Brengle,,,1.0
+117752,2022-04-05T16:50Z,Credit One Charleston Open,Yulia Putintseva,Robin Anderson,,,1.0
+117784,2022-04-05T17:55Z,Credit One Charleston Open,Sloane Stephens,Zheng Qinwen,,,0.0
+117748,2022-04-05T18:10Z,Credit One Charleston Open,Alison Riske-Amritraj,Catherine McNally,,,1.0
+117767,2022-04-06T14:10Z,Credit One Charleston Open,Alize Cornet,Hailey Baptiste,,,1.0
+117761,2022-04-06T14:15Z,Credit One Charleston Open,Madison Keys,Ulrikke Eikeri,,,1.0
+117772,2022-04-06T14:15Z,Credit One Charleston Open,Yulia Putintseva,Amanda Anisimova,,,0.0
+117769,2022-04-06T14:25Z,Credit One Charleston Open,Coco Vandeweghe,Lauren Davis,,,1.0
+117760,2022-04-06T17:30Z,Credit One Charleston Open,Katarina Zavatska,Karolina Pliskova,,,0.0
+117797,2022-04-06T17:30Z,Credit One Charleston Open,Sophie Chang,Ajla Tomljanovic,,,0.0
+117764,2022-04-06T17:45Z,Credit One Charleston Open,Anhelina Kalinina,Elena Rybakina,,,1.0
+117763,2022-04-06T18:40Z,Credit One Charleston Open,Zheng Qinwen,Ekaterina Alexandrova,,,0.0
+117770,2022-04-06T19:00Z,Credit One Charleston Open,Jasmine Paolini,Jessica Pegula,,,0.0
+117771,2022-04-06T19:00Z,Credit One Charleston Open,Aryna Sabalenka,Alison Riske-Amritraj,,,1.0
+117807,2022-04-06T20:10Z,Credit One Charleston Open,Zhang Shuai,Claire Liu,,,0.0
+117759,2022-04-06T20:30Z,Credit One Charleston Open,Linda Fruhvirtova,Belinda Bencic,,,0.0
+117808,2022-04-06T20:50Z,Credit One Charleston Open,Anna Bondar,Paula Badosa,,,0.0
+117766,2022-04-06T21:30Z,Credit One Charleston Open,Irina-Camelia Begu,Ajla Tomljanovic,,,1.0
+117762,2022-04-06T22:00Z,Credit One Charleston Open,Kaia Kanepi,Magdalena Frech,,,1.0
+117805,2022-04-07T15:10Z,Credit One Charleston Open,Aryna Sabalenka,Amanda Anisimova,,,0.0
+117806,2022-04-07T15:10Z,Credit One Charleston Open,Coco Vandeweghe,Jessica Pegula,,,1.0
+117768,2022-04-07T17:20Z,Credit One Charleston Open,Ons Jabeur,Emma Navarro,,,1.0
+117765,2022-04-07T17:40Z,Credit One Charleston Open,Leylah Fernandez,Magda Linette,,,0.0
+117796,2022-04-07T18:00Z,Credit One Charleston Open,Madison Keys,Belinda Bencic,,,0.0
+117798,2022-04-07T21:20Z,Credit One Charleston Open,Claire Liu,Paula Badosa,,,0.0
+117804,2022-04-07T22:40Z,Credit One Charleston Open,Alize Cornet,Anhelina Kalinina,,,0.0
+117803,2022-04-07T23:55Z,Credit One Charleston Open,Ons Jabeur,Irina-Camelia Begu,,,1.0
+117801,2022-04-08T00:05Z,Credit One Charleston Open,Ekaterina Alexandrova,Karolina Pliskova,,,1.0
+117800,2022-04-08T00:50Z,Credit One Charleston Open,Magda Linette,Kaia Kanepi,,,1.0
+117787,2022-04-08T17:40Z,Credit One Charleston Open,Belinda Bencic,Paula Badosa,,,1.0
+117790,2022-04-08T20:45Z,Credit One Charleston Open,Ons Jabeur,Anhelina Kalinina,,,1.0
+117791,2022-04-08T22:05Z,Credit One Charleston Open,Magda Linette,Ekaterina Alexandrova,,,0.0
+117792,2022-04-08T23:25Z,Credit One Charleston Open,Amanda Anisimova,Coco Vandeweghe,,,1.0
+117786,2022-04-09T17:35Z,Credit One Charleston Open,Ekaterina Alexandrova,Belinda Bencic,,,0.0
+117789,2022-04-09T19:15Z,Credit One Charleston Open,Amanda Anisimova,Ons Jabeur,,,0.0
+117809,2022-04-10T17:35Z,Credit One Charleston Open,Ons Jabeur,Belinda Bencic,,,0.0
+117544,2022-04-02T15:10Z,Copa Colsanitas Colsubsidio,Emina Bektas,Martina Di Giuseppe,,,1.0
+117546,2022-04-02T15:10Z,Copa Colsanitas Colsubsidio,Suzan Lamens,Giulia Gatto-Monticone,,,1.0
+117542,2022-04-02T15:10Z,Copa Colsanitas Colsubsidio,Valentini Grammatikopoulou,Maria Paulina Perez Garcia,,,1.0
+117543,2022-04-02T15:15Z,Copa Colsanitas Colsubsidio,Ipek Oz,Andrea Lazaro Garcia,,,1.0
+117548,2022-04-02T16:45Z,Copa Colsanitas Colsubsidio,Kelly Vargas Gonzalez,Daniela Seguel,,,0.0
+117552,2022-04-02T17:00Z,Copa Colsanitas Colsubsidio,Dea Herdzelas,Irene Burillo,,,1.0
+117553,2022-04-02T17:00Z,Copa Colsanitas Colsubsidio,Noelia Zeballos,Maria Lourdes Carle,,,0.0
+117547,2022-04-02T17:15Z,Copa Colsanitas Colsubsidio,Carolina Alves,Maria Camila Torres Murcia,,,1.0
+117551,2022-04-02T18:00Z,Copa Colsanitas Colsubsidio,Tatjana Maria,Conny Perrin,,,1.0
+117555,2022-04-02T18:45Z,Copa Colsanitas Colsubsidio,You Xiaodi,Hanna Chang,,,1.0
+117554,2022-04-02T19:10Z,Copa Colsanitas Colsubsidio,Laura Pigossi,Daniela Vismane,,,1.0
+117549,2022-04-02T19:15Z,Copa Colsanitas Colsubsidio,Seone Mendez,Barbara Gatica,,,0.0
+117734,2022-04-03T15:15Z,Copa Colsanitas Colsubsidio,Carolina Alves,Daniela Seguel,,,0.0
+117733,2022-04-03T16:10Z,Copa Colsanitas Colsubsidio,Emina Bektas,Suzan Lamens,,,0.0
+117735,2022-04-03T16:55Z,Copa Colsanitas Colsubsidio,Barbara Gatica,Tatjana Maria,,,0.0
+117732,2022-04-03T17:30Z,Copa Colsanitas Colsubsidio,Valentini Grammatikopoulou,Ipek Oz,,,0.0
+117737,2022-04-03T19:30Z,Copa Colsanitas Colsubsidio,Laura Pigossi,You Xiaodi,,,1.0
+117736,2022-04-03T19:35Z,Copa Colsanitas Colsubsidio,Dea Herdzelas,Maria Lourdes Carle,,,0.0
+117855,2022-04-04T15:20Z,Copa Colsanitas Colsubsidio,Renata Zarazua,Mirjam Bjorklund,,,0.0
+117866,2022-04-04T15:20Z,Copa Colsanitas Colsubsidio,Laura Pigossi,Harmony Tan,,,1.0
+117862,2022-04-04T15:20Z,Copa Colsanitas Colsubsidio,Despina Papamichail,Lucrezia Stefanini,,,0.0
+117851,2022-04-04T16:30Z,Copa Colsanitas Colsubsidio,Tatjana Maria,Maria Lourdes Carle,,,1.0
+117861,2022-04-04T17:30Z,Copa Colsanitas Colsubsidio,Maria Herazo Gonzalez,Rebecca Peterson,,,0.0
+117853,2022-04-04T19:30Z,Copa Colsanitas Colsubsidio,Stefanie Voegele,Sara Errani,,,0.0
+117845,2022-04-05T15:20Z,Copa Colsanitas Colsubsidio,Anna Karolina Schmiedlova,Yuliana Lizarazo,,,0.0
+117854,2022-04-05T15:20Z,Copa Colsanitas Colsubsidio,Aleksandra Krunic,Kamilla Rakhimova,,,0.0
+117870,2022-04-05T15:20Z,Copa Colsanitas Colsubsidio,Yuliana Monroy,Ekaterine Gorgodze,,,0.0
+117850,2022-04-05T16:50Z,Copa Colsanitas Colsubsidio,Elina Avanesyan,Harriet Dart,,,1.0
+117848,2022-04-05T17:55Z,Copa Colsanitas Colsubsidio,Astra Sharma,Suzan Lamens,,,0.0
+117858,2022-04-05T18:15Z,Copa Colsanitas Colsubsidio,Paula Ormaechea,Irina Bara,,,0.0
+117857,2022-04-05T18:20Z,Copa Colsanitas Colsubsidio,Camila Osorio,Ylena In-Albon,,,1.0
+117864,2022-04-05T19:50Z,Copa Colsanitas Colsubsidio,Ipek Oz,Daniela Seguel,,,1.0
+117859,2022-04-05T20:40Z,Copa Colsanitas Colsubsidio,Panna Udvardy,Dayana Yastremska,,,0.0
+117860,2022-04-05T22:55Z,Copa Colsanitas Colsubsidio,Reka Luca Jani,Beatriz Haddad Maia,,,0.0
+117874,2022-04-06T15:00Z,Copa Colsanitas Colsubsidio,Yuliana Lizarazo,Mirjam Bjorklund,,,0.0
+117867,2022-04-06T16:30Z,Copa Colsanitas Colsubsidio,Ekaterine Gorgodze,Laura Pigossi,,,0.0
+117846,2022-04-06T17:00Z,Copa Colsanitas Colsubsidio,Tatjana Maria,Rebecca Peterson,,,1.0
+117847,2022-04-06T18:00Z,Copa Colsanitas Colsubsidio,Lucrezia Stefanini,Elina Avanesyan,,,0.0
+117856,2022-04-06T19:00Z,Copa Colsanitas Colsubsidio,Dayana Yastremska,Sara Errani,,,1.0
+117872,2022-04-07T15:10Z,Copa Colsanitas Colsubsidio,Suzan Lamens,Irina Bara,,,0.0
+117863,2022-04-07T17:00Z,Copa Colsanitas Colsubsidio,Camila Osorio,Ipek Oz,,,1.0
+117852,2022-04-07T19:25Z,Copa Colsanitas Colsubsidio,Kamilla Rakhimova,Beatriz Haddad Maia,,,1.0
+117865,2022-04-08T15:10Z,Copa Colsanitas Colsubsidio,Dayana Yastremska,Laura Pigossi,,,0.0
+117875,2022-04-08T17:50Z,Copa Colsanitas Colsubsidio,Camila Osorio,Elina Avanesyan,,,1.0
+117868,2022-04-08T19:45Z,Copa Colsanitas Colsubsidio,Mirjam Bjorklund,Tatjana Maria,,,0.0
+117869,2022-04-08T21:35Z,Copa Colsanitas Colsubsidio,Irina Bara,Kamilla Rakhimova,,,0.0
+117849,2022-04-09T16:00Z,Copa Colsanitas Colsubsidio,Camila Osorio,Laura Pigossi,,,0.0
+117873,2022-04-09T18:35Z,Copa Colsanitas Colsubsidio,Tatjana Maria,Kamilla Rakhimova,,,1.0
+117871,2022-04-10T16:00Z,Copa Colsanitas Colsubsidio,Laura Pigossi,Tatjana Maria,,,0.0
+118112,2022-04-16T09:10Z,Porsche Tennis Grand Prix,Maddison Inglis,Nastasja Schunk,,,0.0
+118114,2022-04-16T09:10Z,Porsche Tennis Grand Prix,Federica Di Sarra,Elina Avanesyan,,,0.0
+118108,2022-04-16T11:30Z,Porsche Tennis Grand Prix,Chloe Paquet,Ellen Perez,,,1.0
+118107,2022-04-16T11:40Z,Porsche Tennis Grand Prix,Eva Lys,Cristina Bucsa,,,1.0
+118111,2022-04-16T13:30Z,Porsche Tennis Grand Prix,Mara Guth,Storm Hunter,,,0.0
+118109,2022-04-16T13:40Z,Porsche Tennis Grand Prix,Carole Monnet,Stefanie Voegele,,,0.0
+118110,2022-04-16T14:55Z,Porsche Tennis Grand Prix,Tamara Korpatsch,Mandy Minella,,,1.0
+118106,2022-04-16T15:05Z,Porsche Tennis Grand Prix,Panna Udvardy,Kathinka von Deichmann,,,0.0
+118216,2022-04-17T09:10Z,Porsche Tennis Grand Prix,Chloe Paquet,Stefanie Voegele,,,1.0
+118218,2022-04-17T10:30Z,Porsche Tennis Grand Prix,Nastasja Schunk,Elina Avanesyan,,,1.0
+118215,2022-04-17T12:30Z,Porsche Tennis Grand Prix,Kathinka von Deichmann,Eva Lys,,,0.0
+118217,2022-04-17T14:20Z,Porsche Tennis Grand Prix,Tamara Korpatsch,Storm Hunter,,,0.0
+118364,2022-04-18T15:10Z,Porsche Tennis Grand Prix,Zhang Shuai,Ekaterina Alexandrova,,,0.0
+118380,2022-04-18T17:10Z,Porsche Tennis Grand Prix,Liudmila Samsonova,Chloe Paquet,,,1.0
+118391,2022-04-19T10:40Z,Porsche Tennis Grand Prix,Viktorija Golubic,Eva Lys,,,0.0
+118387,2022-04-19T12:10Z,Porsche Tennis Grand Prix,Tamara Korpatsch,Camila Giorgi,,,1.0
+118393,2022-04-19T14:00Z,Porsche Tennis Grand Prix,Ons Jabeur,Marketa Vondrousova,,,1.0
+118363,2022-04-19T15:55Z,Porsche Tennis Grand Prix,Elena Rybakina,Nastasja Schunk,,,1.0
+118373,2022-04-19T18:20Z,Porsche Tennis Grand Prix,Jule Niemeier,Bianca Andreescu,,,0.0
+118389,2022-04-19T20:20Z,Porsche Tennis Grand Prix,Coco Gauff,Daria Kasatkina,,,0.0
+118370,2022-04-20T10:40Z,Porsche Tennis Grand Prix,Petra Kvitova,Karolina Pliskova,,,0.0
+118367,2022-04-20T13:15Z,Porsche Tennis Grand Prix,Iga Swiatek,Eva Lys,,,1.0
+118369,2022-04-20T15:05Z,Porsche Tennis Grand Prix,Storm Hunter,Emma Raducanu,,,0.0
+118377,2022-04-20T16:35Z,Porsche Tennis Grand Prix,Anett Kontaveit,Angelique Kerber,,,1.0
+118360,2022-04-20T19:00Z,Porsche Tennis Grand Prix,Laura Siegemund,Tamara Zidansek,,,1.0
+118361,2022-04-21T10:35Z,Porsche Tennis Grand Prix,Elena Rybakina,Paula Badosa,,,0.0
+118390,2022-04-21T12:20Z,Porsche Tennis Grand Prix,Ons Jabeur,Daria Kasatkina,,,1.0
+118382,2022-04-21T13:25Z,Porsche Tennis Grand Prix,Bianca Andreescu,Aryna Sabalenka,,,0.0
+118374,2022-04-21T13:55Z,Porsche Tennis Grand Prix,Liudmila Samsonova,Karolina Pliskova,,,1.0
+118365,2022-04-21T15:35Z,Porsche Tennis Grand Prix,Maria Sakkari,Laura Siegemund,,,0.0
+118384,2022-04-21T17:15Z,Porsche Tennis Grand Prix,Tamara Korpatsch,Emma Raducanu,,,0.0
+118392,2022-04-21T19:15Z,Porsche Tennis Grand Prix,Anett Kontaveit,Ekaterina Alexandrova,,,1.0
+118366,2022-04-22T10:30Z,Porsche Tennis Grand Prix,Ons Jabeur,Paula Badosa,,,0.0
+118388,2022-04-22T13:05Z,Porsche Tennis Grand Prix,Anett Kontaveit,Aryna Sabalenka,,,0.0
+118368,2022-04-22T15:10Z,Porsche Tennis Grand Prix,Laura Siegemund,Liudmila Samsonova,,,0.0
+118385,2022-04-22T17:25Z,Porsche Tennis Grand Prix,Iga Swiatek,Emma Raducanu,,,1.0
+118375,2022-04-23T12:10Z,Porsche Tennis Grand Prix,Aryna Sabalenka,Paula Badosa,,,1.0
+118383,2022-04-23T14:15Z,Porsche Tennis Grand Prix,Iga Swiatek,Liudmila Samsonova,,,1.0
+118378,2022-04-24T11:20Z,Porsche Tennis Grand Prix,Iga Swiatek,Aryna Sabalenka,,,1.0
+118260,2022-04-17T08:05Z,TEB BNP Paribas Tennis Championship Istanbul,Anastasia Zakharova,Marina Melnikova,,,0.0
+118254,2022-04-17T08:05Z,TEB BNP Paribas Tennis Championship Istanbul,Kamilla Rakhimova,Lois Boisson,,,1.0
+118251,2022-04-17T08:10Z,TEB BNP Paribas Tennis Championship Istanbul,Catherine McNally,Lesia Tsurenko,,,0.0
+118257,2022-04-17T09:30Z,TEB BNP Paribas Tennis Championship Istanbul,Ysaline Bonaventure,Despina Papamichail,,,0.0
+118250,2022-04-17T09:45Z,TEB BNP Paribas Tennis Championship Istanbul,Jaimee Fourlis,Jesika Maleckova,,,1.0
+118255,2022-04-17T10:05Z,TEB BNP Paribas Tennis Championship Istanbul,Julia Grabher,Anastasia Tikhonova,,,1.0
+118259,2022-04-17T11:10Z,TEB BNP Paribas Tennis Championship Istanbul,Donna Vekic,Han Xinyun,,,1.0
+118261,2022-04-17T11:20Z,TEB BNP Paribas Tennis Championship Istanbul,Anastasia Potapova,Dea Herdzelas,,,1.0
+118262,2022-04-17T11:30Z,TEB BNP Paribas Tennis Championship Istanbul,Andrea Lazaro Garcia,Natalija Stevanovic,,,1.0
+118253,2022-04-17T13:45Z,TEB BNP Paribas Tennis Championship Istanbul,Berfu Cengiz,Yuan Yue,,,1.0
+118252,2022-04-17T13:50Z,TEB BNP Paribas Tennis Championship Istanbul,Ana Bogdan,Zeynep Sonmez,,,1.0
+118256,2022-04-17T14:00Z,TEB BNP Paribas Tennis Championship Istanbul,Wang Qiang,Ayla Aksu,,,1.0
+118336,2022-04-18T13:20Z,TEB BNP Paribas Tennis Championship Istanbul,Kamilla Rakhimova,Julia Grabher,,,0.0
+118334,2022-04-18T13:20Z,TEB BNP Paribas Tennis Championship Istanbul,Jaimee Fourlis,Lesia Tsurenko,,,0.0
+118335,2022-04-18T14:20Z,TEB BNP Paribas Tennis Championship Istanbul,Ana Bogdan,Berfu Cengiz,,,1.0
+118340,2022-04-18T14:50Z,TEB BNP Paribas Tennis Championship Istanbul,Donna Vekic,Marina Melnikova,,,0.0
+118338,2022-04-18T15:55Z,TEB BNP Paribas Tennis Championship Istanbul,Anastasia Potapova,Andrea Lazaro Garcia,,,1.0
+118337,2022-04-18T16:45Z,TEB BNP Paribas Tennis Championship Istanbul,Wang Qiang,Despina Papamichail,,,1.0
+118319,2022-04-19T07:10Z,TEB BNP Paribas Tennis Championship Istanbul,Kamilla Rakhimova,Sorana Cirstea,,,0.0
+118326,2022-04-19T08:05Z,TEB BNP Paribas Tennis Championship Istanbul,Tereza Martincova,Anna Bondar,,,0.0
+118310,2022-04-19T08:40Z,TEB BNP Paribas Tennis Championship Istanbul,Ipek Oz,Arantxa Rus,,,0.0
+118321,2022-04-19T13:05Z,TEB BNP Paribas Tennis Championship Istanbul,Julia Grabher,Pemra Ozgen,,,1.0
+118302,2022-04-19T13:10Z,TEB BNP Paribas Tennis Championship Istanbul,Nuria Parrizas Diaz,Martina Trevisan,,,1.0
+118322,2022-04-19T14:40Z,TEB BNP Paribas Tennis Championship Istanbul,Marina Melnikova,Veronika Kudermetova,,,0.0
+118311,2022-04-19T15:35Z,TEB BNP Paribas Tennis Championship Istanbul,Jil Teichmann,Greet Minnen,,,1.0
+118305,2022-04-19T16:15Z,TEB BNP Paribas Tennis Championship Istanbul,Ana Konjuh,Ana Bogdan,,,0.0
+118324,2022-04-20T08:10Z,TEB BNP Paribas Tennis Championship Istanbul,Wang Qiang,Sara Sorribes Tormo,,,0.0
+118323,2022-04-20T08:10Z,TEB BNP Paribas Tennis Championship Istanbul,Varvara Gracheva,Marie Bouzkova,,,1.0
+118312,2022-04-20T08:20Z,TEB BNP Paribas Tennis Championship Istanbul,Jaimee Fourlis,Ajla Tomljanovic,,,0.0
+118328,2022-04-20T09:55Z,TEB BNP Paribas Tennis Championship Istanbul,Elise Mertens,Rebecca Peterson,,,0.0
+118307,2022-04-20T10:00Z,TEB BNP Paribas Tennis Championship Istanbul,Nikola Bartunkova,Anastasia Potapova,,,0.0
+118303,2022-04-20T10:05Z,TEB BNP Paribas Tennis Championship Istanbul,Magda Linette,Yulia Putintseva,,,0.0
+118330,2022-04-20T11:40Z,TEB BNP Paribas Tennis Championship Istanbul,Anhelina Kalinina,Petra Martic,,,0.0
+118318,2022-04-20T12:20Z,TEB BNP Paribas Tennis Championship Istanbul,Lesia Tsurenko,Anna Karolina Schmiedlova,,,1.0
+118333,2022-04-20T13:55Z,TEB BNP Paribas Tennis Championship Istanbul,Anna Bondar,Nuria Parrizas Diaz,,,1.0
+118332,2022-04-20T14:35Z,TEB BNP Paribas Tennis Championship Istanbul,Jil Teichmann,Julia Grabher,,,0.0
+118304,2022-04-20T16:20Z,TEB BNP Paribas Tennis Championship Istanbul,Arantxa Rus,Sorana Cirstea,,,0.0
+118313,2022-04-21T10:10Z,TEB BNP Paribas Tennis Championship Istanbul,Varvara Gracheva,Sara Sorribes Tormo,,,0.0
+118317,2022-04-21T10:10Z,TEB BNP Paribas Tennis Championship Istanbul,Lesia Tsurenko,Ajla Tomljanovic,,,0.0
+118315,2022-04-21T11:40Z,TEB BNP Paribas Tennis Championship Istanbul,Rebecca Peterson,Yulia Putintseva,,,0.0
+118309,2022-04-21T14:00Z,TEB BNP Paribas Tennis Championship Istanbul,Petra Martic,Anastasia Potapova,,,0.0
+118331,2022-04-21T15:30Z,TEB BNP Paribas Tennis Championship Istanbul,Ana Bogdan,Veronika Kudermetova,,,0.0
+118320,2022-04-22T10:00Z,TEB BNP Paribas Tennis Championship Istanbul,Yulia Putintseva,Ajla Tomljanovic,,,1.0
+118316,2022-04-22T13:20Z,TEB BNP Paribas Tennis Championship Istanbul,Anastasia Potapova,Sara Sorribes Tormo,,,1.0
+118306,2022-04-22T14:50Z,TEB BNP Paribas Tennis Championship Istanbul,Julia Grabher,Sorana Cirstea,,,0.0
+118325,2022-04-22T16:25Z,TEB BNP Paribas Tennis Championship Istanbul,Anna Bondar,Veronika Kudermetova,,,0.0
+118329,2022-04-23T12:10Z,TEB BNP Paribas Tennis Championship Istanbul,Yulia Putintseva,Anastasia Potapova,,,0.0
+118314,2022-04-23T14:30Z,TEB BNP Paribas Tennis Championship Istanbul,Veronika Kudermetova,Sorana Cirstea,,,1.0
+118308,2022-04-24T12:05Z,TEB BNP Paribas Tennis Championship Istanbul,Anastasia Potapova,Veronika Kudermetova,,,1.0
+118861,2022-04-26T09:05Z,Mutua Madrid Open,Beatriz Haddad Maia,Erika Andreeva,,,1.0
+118862,2022-04-26T09:05Z,Mutua Madrid Open,Oceane Dodin,Panna Udvardy,,,1.0
+118863,2022-04-26T09:05Z,Mutua Madrid Open,Anna Bondar,Alexandra Eala,,,1.0
+118864,2022-04-26T09:05Z,Mutua Madrid Open,Chloe Paquet,Greet Minnen,,,0.0
+118851,2022-04-26T09:10Z,Mutua Madrid Open,Magda Linette,Kateryna Baindl,,,1.0
+118852,2022-04-26T09:10Z,Mutua Madrid Open,Jessica Bouzas Maneiro,Anna Karolina Schmiedlova,,,0.0
+118857,2022-04-26T10:35Z,Mutua Madrid Open,Irina-Camelia Begu,Ekaterine Gorgodze,,,1.0
+118854,2022-04-26T10:45Z,Mutua Madrid Open,Carlota Martinez Cirez,Lucia Bronzetti,,,0.0
+118855,2022-04-26T10:55Z,Mutua Madrid Open,Mayar Sherif,Kristina Mladenovic,,,0.0
+118846,2022-04-26T11:05Z,Mutua Madrid Open,Madison Brengle,Dayana Yastremska,,,0.0
+118847,2022-04-26T11:05Z,Mutua Madrid Open,Harmony Tan,Lauren Davis,,,1.0
+118858,2022-04-26T11:40Z,Mutua Madrid Open,Kamilla Rakhimova,Magdalena Frech,,,1.0
+118849,2022-04-26T12:25Z,Mutua Madrid Open,Kaia Kanepi,Harriet Dart,,,1.0
+118850,2022-04-26T12:45Z,Mutua Madrid Open,Cristina Bucsa,Martina Trevisan,,,0.0
+118843,2022-04-26T13:15Z,Mutua Madrid Open,Aliaksandra Sasnovich,Danka Kovinic,,,0.0
+118856,2022-04-26T13:20Z,Mutua Madrid Open,Daria Saville,Anastasia Potapova,,,0.0
+118844,2022-04-26T13:40Z,Mutua Madrid Open,Fiona Ferro,Marie Bouzkova,,,0.0
+118853,2022-04-26T13:45Z,Mutua Madrid Open,Petra Martic,Dalma Galfi,,,1.0
+118866,2022-04-26T13:45Z,Mutua Madrid Open,Heather Watson,Kristina Kucova,,,1.0
+118841,2022-04-26T14:20Z,Mutua Madrid Open,Ekaterina Alexandrova,Tamara Korpatsch,,,1.0
+118860,2022-04-26T14:50Z,Mutua Madrid Open,Wang Qiang,Kaja Juvan,,,0.0
+118859,2022-04-26T15:00Z,Mutua Madrid Open,Andrea Petkovic,Misaki Doi,,,1.0
+118842,2022-04-26T15:50Z,Mutua Madrid Open,Diane Parry,Clara Burel,,,0.0
+118865,2022-04-26T15:55Z,Mutua Madrid Open,Varvara Gracheva,Maddison Inglis,,,1.0
+118934,2022-04-27T09:10Z,Mutua Madrid Open,Magda Linette,Anna Karolina Schmiedlova,,,0.0
+118939,2022-04-27T09:10Z,Mutua Madrid Open,Beatriz Haddad Maia,Oceane Dodin,,,0.0
+118940,2022-04-27T09:10Z,Mutua Madrid Open,Anna Bondar,Greet Minnen,,,1.0
+118932,2022-04-27T11:00Z,Mutua Madrid Open,Dayana Yastremska,Harmony Tan,,,1.0
+118933,2022-04-27T12:00Z,Mutua Madrid Open,Kaia Kanepi,Martina Trevisan,,,1.0
+118937,2022-04-27T12:15Z,Mutua Madrid Open,Irina-Camelia Begu,Kamilla Rakhimova,,,1.0
+118931,2022-04-27T12:45Z,Mutua Madrid Open,Danka Kovinic,Marie Bouzkova,,,0.0
+118935,2022-04-27T13:40Z,Mutua Madrid Open,Petra Martic,Lucia Bronzetti,,,1.0
+118936,2022-04-27T13:50Z,Mutua Madrid Open,Kristina Mladenovic,Anastasia Potapova,,,0.0
+118941,2022-04-27T14:55Z,Mutua Madrid Open,Varvara Gracheva,Heather Watson,,,1.0
+118930,2022-04-27T15:10Z,Mutua Madrid Open,Ekaterina Alexandrova,Clara Burel,,,1.0
+118938,2022-04-27T15:10Z,Mutua Madrid Open,Andrea Petkovic,Kaja Juvan,,,1.0
+118883,2022-04-28T09:10Z,Mutua Madrid Open,Zheng Qinwen,Karolina Muchova,,,0.0
+118910,2022-04-28T09:10Z,Mutua Madrid Open,Ons Jabeur,Jasmine Paolini,,,1.0
+118928,2022-04-28T09:10Z,Mutua Madrid Open,Nuria Parrizas Diaz,Sorana Cirstea,,,1.0
+118923,2022-04-28T10:55Z,Mutua Madrid Open,Victoria Azarenka,Viktorija Golubic,,,1.0
+118867,2022-04-28T11:05Z,Mutua Madrid Open,Simona Halep,Zhang Shuai,,,1.0
+118905,2022-04-28T12:00Z,Mutua Madrid Open,Irina-Camelia Begu,Belinda Bencic,,,0.0
+118874,2022-04-28T12:15Z,Mutua Madrid Open,Beatriz Haddad Maia,Tamara Zidansek,,,0.0
+118880,2022-04-28T12:15Z,Mutua Madrid Open,Greet Minnen,Dayana Yastremska,,,0.0
+118894,2022-04-28T12:35Z,Mutua Madrid Open,Veronika Kudermetova,Paula Badosa,,,0.0
+118918,2022-04-28T13:00Z,Mutua Madrid Open,Coco Gauff,Anna Karolina Schmiedlova,,,1.0
+118919,2022-04-28T13:40Z,Mutua Madrid Open,Liudmila Samsonova,Petra Martic,,,0.0
+118890,2022-04-28T13:50Z,Mutua Madrid Open,Ekaterina Alexandrova,Jelena Ostapenko,,,1.0
+118912,2022-04-28T13:55Z,Mutua Madrid Open,Alize Cornet,Varvara Gracheva,,,0.0
+118888,2022-04-28T14:00Z,Mutua Madrid Open,Amanda Anisimova,Aryna Sabalenka,,,1.0
+118903,2022-04-28T14:15Z,Mutua Madrid Open,Karolina Pliskova,Marie Bouzkova,,,0.0
+118913,2022-04-28T15:55Z,Mutua Madrid Open,Yulia Putintseva,Shelby Rogers,,,1.0
+118868,2022-04-29T09:10Z,Mutua Madrid Open,Jessica Pegula,Camila Giorgi,,,1.0
+118870,2022-04-29T09:10Z,Mutua Madrid Open,Oceane Dodin,Elena Rybakina,,,0.0
+118902,2022-04-29T09:10Z,Mutua Madrid Open,Anna Bondar,Daria Kasatkina,,,0.0
+118917,2022-04-29T09:10Z,Mutua Madrid Open,Jil Teichmann,Petra Kvitova,,,1.0
+118901,2022-04-29T10:45Z,Mutua Madrid Open,Leylah Fernandez,Andrea Petkovic,,,1.0
+118879,2022-04-29T10:50Z,Mutua Madrid Open,Maria Sakkari,Madison Keys,,,1.0
+118899,2022-04-29T11:40Z,Mutua Madrid Open,Marta Kostyuk,Clara Tauson,,,1.0
+118887,2022-04-29T12:10Z,Mutua Madrid Open,Monica Puig,Danielle Collins,,,0.0
+118892,2022-04-29T13:10Z,Mutua Madrid Open,Linda Fruhvirtova,Kaia Kanepi,,,0.0
+118922,2022-04-29T13:30Z,Mutua Madrid Open,Ana Konjuh,Katerina Siniakova,,,0.0
+118907,2022-04-29T13:40Z,Mutua Madrid Open,Ajla Tomljanovic,Garbine Muguruza,,,0.0
+118885,2022-04-29T13:50Z,Mutua Madrid Open,Bianca Andreescu,Alison Riske-Amritraj,,,1.0
+118915,2022-04-29T14:40Z,Mutua Madrid Open,Sloane Stephens,Anhelina Kalinina,,,0.0
+118925,2022-04-29T15:30Z,Mutua Madrid Open,Anastasia Potapova,Naomi Osaka,,,0.0
+118897,2022-04-29T16:00Z,Mutua Madrid Open,Emma Raducanu,Tereza Martincova,,,1.0
+118911,2022-04-29T16:55Z,Mutua Madrid Open,Sara Sorribes Tormo,Anastasia Pavlyuchenkova,,,1.0
+118921,2022-04-30T09:10Z,Mutua Madrid Open,Victoria Azarenka,Tamara Zidansek,,,1.0
+118895,2022-04-30T10:50Z,Mutua Madrid Open,Marie Bouzkova,Dayana Yastremska,,,1.0
+118884,2022-04-30T11:50Z,Mutua Madrid Open,Nuria Parrizas Diaz,Ekaterina Alexandrova,,,0.0
+118904,2022-04-30T14:00Z,Mutua Madrid Open,Karolina Muchova,Belinda Bencic,,,0.0
+118878,2022-04-30T14:05Z,Mutua Madrid Open,Petra Martic,Amanda Anisimova,,,0.0
+118920,2022-04-30T16:55Z,Mutua Madrid Open,Ons Jabeur,Varvara Gracheva,,,1.0
+118914,2022-04-30T17:00Z,Mutua Madrid Open,Simona Halep,Paula Badosa,,,1.0
+118893,2022-04-30T18:40Z,Mutua Madrid Open,Coco Gauff,Yulia Putintseva,,,1.0
+118871,2022-05-01T09:10Z,Mutua Madrid Open,Bianca Andreescu,Danielle Collins,,,1.0
+118877,2022-05-01T10:35Z,Mutua Madrid Open,Anhelina Kalinina,Garbine Muguruza,,,1.0
+118909,2022-05-01T11:15Z,Mutua Madrid Open,Jessica Pegula,Kaia Kanepi,,,1.0
+118881,2022-05-01T13:10Z,Mutua Madrid Open,Leylah Fernandez,Jil Teichmann,,,0.0
+118872,2022-05-01T15:00Z,Mutua Madrid Open,Emma Raducanu,Marta Kostyuk,,,1.0
+118906,2022-05-01T15:35Z,Mutua Madrid Open,Katerina Siniakova,Elena Rybakina,,,0.0
+118927,2022-05-01T16:20Z,Mutua Madrid Open,Maria Sakkari,Daria Kasatkina,,,0.0
+118889,2022-05-01T17:15Z,Mutua Madrid Open,Naomi Osaka,Sara Sorribes Tormo,,,0.0
+118916,2022-05-02T11:50Z,Mutua Madrid Open,Ons Jabeur,Belinda Bencic,,,1.0
+118891,2022-05-02T15:10Z,Mutua Madrid Open,Coco Gauff,Simona Halep,,,0.0
+118875,2022-05-02T17:55Z,Mutua Madrid Open,Marie Bouzkova,Ekaterina Alexandrova,,,0.0
+118898,2022-05-02T20:20Z,Mutua Madrid Open,Victoria Azarenka,Amanda Anisimova,,,0.0
+118882,2022-05-03T12:55Z,Mutua Madrid Open,Daria Kasatkina,Sara Sorribes Tormo,,,0.0
+118908,2022-05-03T14:30Z,Mutua Madrid Open,Jessica Pegula,Bianca Andreescu,,,1.0
+118869,2022-05-03T17:00Z,Mutua Madrid Open,Jil Teichmann,Elena Rybakina,,,1.0
+118896,2022-05-03T18:10Z,Mutua Madrid Open,Emma Raducanu,Anhelina Kalinina,,,0.0
+118886,2022-05-04T10:10Z,Mutua Madrid Open,Ons Jabeur,Simona Halep,,,1.0
+118926,2022-05-04T13:25Z,Mutua Madrid Open,Ekaterina Alexandrova,Amanda Anisimova,,,1.0
+118924,2022-05-04T15:50Z,Mutua Madrid Open,Jil Teichmann,Anhelina Kalinina,,,1.0
+118873,2022-05-04T18:10Z,Mutua Madrid Open,Sara Sorribes Tormo,Jessica Pegula,,,0.0
+118900,2022-05-05T13:05Z,Mutua Madrid Open,Ekaterina Alexandrova,Ons Jabeur,,,0.0
+118876,2022-05-05T21:15Z,Mutua Madrid Open,Jil Teichmann,Jessica Pegula,,,0.0
+118929,2022-05-07T18:35Z,Mutua Madrid Open,Jessica Pegula,Ons Jabeur,,,0.0
+118942,2022-04-30T09:10Z,Mutua Madrid Open,Ugo Humbert,Pablo Andujar,,,1.0
+118946,2022-04-30T09:10Z,Mutua Madrid Open,Francisco Cerundolo,Alejandro Moro Canas,,,0.0
+118947,2022-04-30T09:10Z,Mutua Madrid Open,Yoshihito Nishioka,Lorenzo Musetti,,,0.0
+118948,2022-04-30T09:10Z,Mutua Madrid Open,Marton Fucsovics,Daniel Merida,,,1.0
+118949,2022-04-30T09:10Z,Mutua Madrid Open,Daniel Rincon,Maxime Cressy,,,0.0
+118952,2022-04-30T10:35Z,Mutua Madrid Open,Federico Coria,Denis Kudla,,,1.0
+118943,2022-04-30T10:45Z,Mutua Madrid Open,Shang Juncheng,SoonWoo Kwon,,,0.0
+118953,2022-04-30T11:15Z,Mutua Madrid Open,Brandon Nakashima,Benoit Paire,,,0.0
+118950,2022-04-30T11:45Z,Mutua Madrid Open,Mackenzie McDonald,João Sousa,,,1.0
+118944,2022-04-30T13:05Z,Mutua Madrid Open,Alex Molcan,Roberto Carballes Baena,,,0.0
+118945,2022-04-30T15:10Z,Mutua Madrid Open,Dusan Lajovic,Adrian Mannarino,,,1.0
+118951,2022-04-30T15:40Z,Mutua Madrid Open,Hugo Dellien,Hugo Gaston,,,1.0
+118955,2022-04-30T15:50Z,Mutua Madrid Open,Jiri Vesely,David Goffin,,,0.0
+118954,2022-04-30T16:55Z,Mutua Madrid Open,Marcos Giron,Alejandro Tabilo,,,0.0
+119052,2022-05-01T09:00Z,Mutua Madrid Open,Ugo Humbert,SoonWoo Kwon,,,0.0
+119054,2022-05-01T09:00Z,Mutua Madrid Open,Alejandro Moro Canas,Lorenzo Musetti,,,0.0
+119055,2022-05-01T09:00Z,Mutua Madrid Open,Marton Fucsovics,Maxime Cressy,,,0.0
+119057,2022-05-01T09:00Z,Mutua Madrid Open,Federico Coria,Benoit Paire,,,0.0
+119053,2022-05-01T11:10Z,Mutua Madrid Open,Roberto Carballes Baena,Dusan Lajovic,,,0.0
+119004,2022-05-01T11:45Z,Mutua Madrid Open,Lorenzo Sonego,Jack Draper,,,0.0
+119058,2022-05-01T12:45Z,Mutua Madrid Open,Alejandro Tabilo,David Goffin,,,0.0
+118963,2022-05-01T13:10Z,Mutua Madrid Open,Filip Krajinovic,John Isner,,,0.0
+118960,2022-05-01T13:40Z,Mutua Madrid Open,Daniel Evans,Federico Delbonis,,,1.0
+119056,2022-05-01T13:50Z,Mutua Madrid Open,Mackenzie McDonald,Hugo Dellien,,,0.0
+118957,2022-05-02T10:10Z,Mutua Madrid Open,Tommy Paul,Jannik Sinner,,,0.0
+118967,2022-05-02T10:10Z,Mutua Madrid Open,Lloyd Harris,Alejandro Davidovich Fokina,,,0.0
+118995,2022-05-02T10:10Z,Mutua Madrid Open,Alex de Minaur,Pedro Martinez,,,1.0
+119017,2022-05-02T11:10Z,Mutua Madrid Open,Borna Coric,Dusan Lajovic,,,0.0
+118966,2022-05-02T12:50Z,Mutua Madrid Open,Ilya Ivashka,Lorenzo Musetti,,,0.0
+118979,2022-05-02T13:55Z,Mutua Madrid Open,Carlos Gimeno Valero,Gael Monfils,,,0.0
+119011,2022-05-02T14:15Z,Mutua Madrid Open,Nikoloz Basilashvili,Fabio Fognini,,,1.0
+118973,2022-05-02T15:10Z,Mutua Madrid Open,Diego Schwartzman,Benoit Paire,,,1.0
+118978,2022-05-02T15:25Z,Mutua Madrid Open,Aslan Karatsev,David Goffin,,,0.0
+118987,2022-05-02T15:50Z,Mutua Madrid Open,Cameron Norrie,SoonWoo Kwon,,,1.0
+118999,2022-05-02T17:45Z,Mutua Madrid Open,Grigor Dimitrov,Maxime Cressy,,,1.0
+118971,2022-05-02T18:10Z,Mutua Madrid Open,Andy Murray,Dominic Thiem,,,1.0
+118977,2022-05-02T19:25Z,Mutua Madrid Open,Ugo Humbert,Denis Shapovalov,,,0.0
+118997,2022-05-02T21:25Z,Mutua Madrid Open,Lucas Pouille,Karen Khachanov,,,1.0
+118964,2022-05-03T10:10Z,Mutua Madrid Open,Hubert Hurkacz,Hugo Dellien,,,1.0
+118984,2022-05-03T10:10Z,Mutua Madrid Open,Andrey Rublev,Jack Draper,,,1.0
+118993,2022-05-03T10:15Z,Mutua Madrid Open,Marin Cilic,Albert Ramos-Vinolas,,,1.0
+119000,2022-05-03T12:50Z,Mutua Madrid Open,Jenson Brooksby,Roberto Bautista Agut,,,0.0
+118958,2022-05-03T13:35Z,Mutua Madrid Open,Miomir Kecmanovic,Alexander Bublik,,,1.0
+118976,2022-05-03T15:10Z,Mutua Madrid Open,Frances Tiafoe,Cristian Garin,,,0.0
+118992,2022-05-03T15:40Z,Mutua Madrid Open,Novak Djokovic,Gael Monfils,,,1.0
+118968,2022-05-03T17:25Z,Mutua Madrid Open,Botic Van De Zandschulp,Pablo Carreno Busta,,,1.0
+118994,2022-05-03T18:35Z,Mutua Madrid Open,Reilly Opelka,Sebastian Korda,,,0.0
+118970,2022-05-03T20:20Z,Mutua Madrid Open,Andy Murray,Denis Shapovalov,,,1.0
+118988,2022-05-03T20:45Z,Mutua Madrid Open,Nikoloz Basilashvili,Carlos Alcaraz,,,0.0
+118986,2022-05-04T10:10Z,Mutua Madrid Open,Daniel Evans,Roberto Bautista Agut,,,1.0
+118989,2022-05-04T10:10Z,Mutua Madrid Open,Dusan Lajovic,Casper Ruud,,,1.0
+118969,2022-05-04T11:40Z,Mutua Madrid Open,Marin Cilic,Alexander Zverev,,,0.0
+118972,2022-05-04T12:40Z,Mutua Madrid Open,Cameron Norrie,John Isner,,,1.0
+118962,2022-05-04T14:20Z,Mutua Madrid Open,Rafael Nadal,Miomir Kecmanovic,,,1.0
+118991,2022-05-04T14:30Z,Mutua Madrid Open,Hubert Hurkacz,Alejandro Davidovich Fokina,,,1.0
+118980,2022-05-04T15:40Z,Mutua Madrid Open,David Goffin,Botic Van De Zandschulp,,,1.0
+118981,2022-05-04T17:35Z,Mutua Madrid Open,Diego Schwartzman,Grigor Dimitrov,,,0.0
+118975,2022-05-04T17:50Z,Mutua Madrid Open,Sebastian Korda,Lorenzo Musetti,,,0.0
+118974,2022-05-04T19:05Z,Mutua Madrid Open,Alex de Minaur,Jannik Sinner,,,0.0
+118961,2022-05-04T19:50Z,Mutua Madrid Open,Felix Auger-Aliassime,Cristian Garin,,,1.0
+118982,2022-05-04T20:15Z,Mutua Madrid Open,Lucas Pouille,Stefanos Tsitsipas,,,0.0
+119019,2022-05-05T10:00Z,Mutua Madrid Open,Novak Djokovic,Andy Murray,,,1.0
+119013,2022-05-05T10:10Z,Mutua Madrid Open,Andrey Rublev,Daniel Evans,,,1.0
+119016,2022-05-05T12:25Z,Mutua Madrid Open,Hubert Hurkacz,Dusan Lajovic,,,1.0
+119010,2022-05-05T14:25Z,Mutua Madrid Open,Lorenzo Musetti,Alexander Zverev,,,0.0
+119018,2022-05-05T14:30Z,Mutua Madrid Open,Rafael Nadal,David Goffin,,,1.0
+118998,2022-05-05T15:45Z,Mutua Madrid Open,Grigor Dimitrov,Stefanos Tsitsipas,,,0.0
+119003,2022-05-05T15:45Z,Mutua Madrid Open,Felix Auger-Aliassime,Jannik Sinner,,,1.0
+119014,2022-05-05T18:20Z,Mutua Madrid Open,Cameron Norrie,Carlos Alcaraz,,,0.0
+119008,2022-05-06T12:10Z,Mutua Madrid Open,Novak Djokovic,Hubert Hurkacz,,,1.0
+119009,2022-05-06T14:15Z,Mutua Madrid Open,Rafael Nadal,Carlos Alcaraz,,,0.0
+119006,2022-05-06T18:10Z,Mutua Madrid Open,Andrey Rublev,Stefanos Tsitsipas,,,0.0
+119007,2022-05-06T20:40Z,Mutua Madrid Open,Felix Auger-Aliassime,Alexander Zverev,,,0.0
+119002,2022-05-07T14:25Z,Mutua Madrid Open,Novak Djokovic,Carlos Alcaraz,,,0.0
+119005,2022-05-07T21:15Z,Mutua Madrid Open,Stefanos Tsitsipas,Alexander Zverev,,,0.0
+119020,2022-05-08T16:40Z,Mutua Madrid Open,Carlos Alcaraz,Alexander Zverev,,,1.0

@@ -1,0 +1,147 @@
+id,date,event,home,away,hs,as,res
+401163114,2019-10-04T05:00Z,Houston Rockets at LA Clippers,LA Clippers,Houston Rockets,96,109,0.0
+401163115,2019-10-04T13:30Z,Indiana Pacers at Sacramento Kings,Sacramento Kings,Indiana Pacers,131,132,0.0
+401163116,2019-10-04T23:30Z,Franca Franca at Brooklyn Nets,Brooklyn Nets,Franca,137,89,1.0
+401163117,2019-10-05T13:30Z,Sacramento Kings at Indiana Pacers,Indiana Pacers,Sacramento Kings,130,106,1.0
+401163118,2019-10-06T00:00Z,Los Angeles Lakers at Golden State Warriors,Golden State Warriors,Los Angeles Lakers,101,123,0.0
+401163119,2019-10-06T00:30Z,Orlando Magic at San Antonio Spurs,San Antonio Spurs,Orlando Magic,89,125,0.0
+401163120,2019-10-06T01:00Z,ADELAIDE 36ers at Utah Jazz,Utah Jazz,ADELAIDE 36ers,133,81,1.0
+401163121,2019-10-06T19:00Z,Haifa Maccabi Haifa at Memphis Grizzlies,Memphis Grizzlies,Maccabi Haifa,123,88,1.0
+401163122,2019-10-06T22:00Z,Charlotte Hornets at Boston Celtics,Boston Celtics,Charlotte Hornets,107,106,1.0
+401163123,2019-10-06T23:00Z,Shanghai Sharks at LA Clippers,LA Clippers,Shanghai Sharks,127,87,1.0
+401163124,2019-10-07T22:00Z,San Lorenzo San Lorenzo at Cleveland Cavaliers,Cleveland Cavaliers,San Lorenzo,120,89,1.0
+401163125,2019-10-07T23:00Z,Orlando Magic at Detroit Pistons,Detroit Pistons,Orlando Magic,91,115,0.0
+401163126,2019-10-07T23:00Z,New York Knicks at Washington Wizards,Washington Wizards,New York Knicks,99,104,0.0
+401163127,2019-10-07T23:30Z,New Orleans Pelicans at Atlanta Hawks,Atlanta Hawks,New Orleans Pelicans,109,133,0.0
+401163128,2019-10-08T00:00Z,Milwaukee Bucks at Chicago Bulls,Chicago Bulls,Milwaukee Bucks,112,122,0.0
+401163129,2019-10-08T10:00Z,Houston Rockets at Toronto Raptors,Toronto Raptors,Houston Rockets,134,129,1.0
+401163130,2019-10-08T23:00Z,Guangzhou Loong-Lions at Philadelphia 76ers,Philadelphia 76ers,Guangzhou Loong-Lions,144,86,1.0
+401163131,2019-10-08T23:30Z,San Antonio Spurs at Miami Heat,Miami Heat,San Antonio Spurs,107,89,1.0
+401163132,2019-10-09T00:00Z,New Zealand Breakers at Memphis Grizzlies,Memphis Grizzlies,New Zealand Breakers,108,94,1.0
+401163133,2019-10-09T00:00Z,Dallas Mavericks at Oklahoma City Thunder,Oklahoma City Thunder,Dallas Mavericks,119,104,1.0
+401163134,2019-10-09T02:00Z,Minnesota Timberwolves at Phoenix Suns,Phoenix Suns,Minnesota Timberwolves,111,106,1.0
+401163135,2019-10-09T02:30Z,Denver Nuggets at Portland Trail Blazers,Portland Trail Blazers,Denver Nuggets,94,105,0.0
+401163136,2019-10-09T23:00Z,Dallas Mavericks at Detroit Pistons,Detroit Pistons,Dallas Mavericks,124,117,1.0
+401163137,2019-10-09T23:00Z,Guangzhou Loong-Lions at Washington Wizards,Washington Wizards,Guangzhou Loong-Lions,137,98,1.0
+401163138,2019-10-09T23:30Z,Orlando Magic at Atlanta Hawks,Atlanta Hawks,Orlando Magic,88,97,0.0
+401163139,2019-10-09T23:30Z,Miami Heat at Charlotte Hornets,Charlotte Hornets,Miami Heat,94,108,0.0
+401163140,2019-10-10T00:00Z,New Orleans Pelicans at Chicago Bulls,Chicago Bulls,New Orleans Pelicans,125,127,0.0
+401163141,2019-10-10T00:00Z,Utah Jazz at Milwaukee Bucks,Milwaukee Bucks,Utah Jazz,133,99,1.0
+401163142,2019-10-10T10:00Z,Toronto Raptors at Houston Rockets,Houston Rockets,Toronto Raptors,118,111,1.0
+401163143,2019-10-10T11:30Z,Brooklyn Nets at Los Angeles Lakers,Los Angeles Lakers,Brooklyn Nets,111,114,0.0
+401163144,2019-10-11T00:00Z,New Zealand Breakers at Oklahoma City Thunder,Oklahoma City Thunder,New Zealand Breakers,110,84,1.0
+401163145,2019-10-11T02:00Z,Haifa Maccabi Haifa at Portland Trail Blazers,Portland Trail Blazers,Maccabi Haifa,104,68,1.0
+401163146,2019-10-11T02:00Z,Phoenix Suns at Sacramento Kings,Sacramento Kings,Phoenix Suns,105,88,1.0
+401163147,2019-10-11T02:30Z,Minnesota Timberwolves at Golden State Warriors,Golden State Warriors,Minnesota Timberwolves,143,123,1.0
+401163148,2019-10-11T02:30Z,Denver Nuggets at LA Clippers,LA Clippers,Denver Nuggets,91,111,0.0
+401163149,2019-10-11T23:00Z,Cleveland Cavaliers at Detroit Pistons,Detroit Pistons,Cleveland Cavaliers,109,105,1.0
+401163150,2019-10-11T23:00Z,Chicago Bulls at Indiana Pacers,Indiana Pacers,Chicago Bulls,105,87,1.0
+401163151,2019-10-11T23:00Z,Boston Celtics at Orlando Magic,Orlando Magic,Boston Celtics,75,100,0.0
+401163152,2019-10-11T23:30Z,Philadelphia 76ers at Charlotte Hornets,Charlotte Hornets,Philadelphia 76ers,87,100,0.0
+401163153,2019-10-11T23:30Z,Washington Wizards at New York Knicks,New York Knicks,Washington Wizards,99,115,0.0
+401163154,2019-10-12T00:00Z,Utah Jazz at New Orleans Pelicans,New Orleans Pelicans,Utah Jazz,128,127,1.0
+401163155,2019-10-12T00:30Z,Milwaukee Bucks at Dallas Mavericks,Dallas Mavericks,Milwaukee Bucks,111,118,0.0
+401163156,2019-10-12T11:30Z,Los Angeles Lakers at Brooklyn Nets,Brooklyn Nets,Los Angeles Lakers,91,77,1.0
+401163157,2019-10-13T00:00Z,Phoenix Suns at Portland Trail Blazers,Portland Trail Blazers,Phoenix Suns,118,134,0.0
+401163158,2019-10-13T19:00Z,Cleveland Cavaliers at Boston Celtics,Boston Celtics,Cleveland Cavaliers,118,72,1.0
+401163159,2019-10-13T19:30Z,Melbourne Melbourne United at LA Clippers,LA Clippers,Melbourne United,118,100,1.0
+401163160,2019-10-13T20:00Z,New Orleans Pelicans at San Antonio Spurs,San Antonio Spurs,New Orleans Pelicans,114,123,0.0
+401163161,2019-10-13T22:00Z,Philadelphia 76ers at Orlando Magic,Orlando Magic,Philadelphia 76ers,94,126,0.0
+401163162,2019-10-13T22:00Z,Chicago Bulls at Toronto Raptors,Toronto Raptors,Chicago Bulls,91,105,0.0
+401163163,2019-10-13T22:00Z,Milwaukee Bucks at Washington Wizards,Washington Wizards,Milwaukee Bucks,108,115,0.0
+401163164,2019-10-14T00:00Z,Haifa Maccabi Haifa at Minnesota Timberwolves,Minnesota Timberwolves,Maccabi Haifa,131,101,1.0
+401163165,2019-10-14T23:30Z,Atlanta Hawks at Miami Heat,Miami Heat,Atlanta Hawks,120,87,1.0
+401163166,2019-10-15T00:00Z,Charlotte Hornets at Memphis Grizzlies,Memphis Grizzlies,Charlotte Hornets,99,120,0.0
+401163167,2019-10-15T00:30Z,Oklahoma City Thunder at Dallas Mavericks,Dallas Mavericks,Oklahoma City Thunder,107,70,1.0
+401163169,2019-10-15T01:00Z,Sacramento Kings at Utah Jazz,Utah Jazz,Sacramento Kings,115,128,0.0
+401163168,2019-10-15T02:00Z,Denver Nuggets at Phoenix Suns,Phoenix Suns,Denver Nuggets,102,107,0.0
+401163170,2019-10-15T02:30Z,Golden State Warriors at Los Angeles Lakers,Los Angeles Lakers,Golden State Warriors,104,98,1.0
+401163171,2019-10-15T23:00Z,Boston Celtics at Cleveland Cavaliers,Cleveland Cavaliers,Boston Celtics,95,118,0.0
+401163172,2019-10-15T23:00Z,Minnesota Timberwolves at Indiana Pacers,Indiana Pacers,Minnesota Timberwolves,111,119,0.0
+401163173,2019-10-15T23:00Z,Detroit Pistons at Philadelphia 76ers,Philadelphia 76ers,Detroit Pistons,106,86,1.0
+401163174,2019-10-16T23:00Z,Detroit Pistons at Charlotte Hornets,Charlotte Hornets,Detroit Pistons,110,116,0.0
+401163175,2019-10-17T00:00Z,Atlanta Hawks at New York Knicks,New York Knicks,Atlanta Hawks,96,100,0.0
+401163176,2019-10-17T00:00Z,San Antonio Spurs at Houston Rockets,Houston Rockets,San Antonio Spurs,114,128,0.0
+401163177,2019-10-17T00:00Z,Memphis Grizzlies at Oklahoma City Thunder,Oklahoma City Thunder,Memphis Grizzlies,119,124,0.0
+401163178,2019-10-17T01:00Z,Portland Trail Blazers at Utah Jazz,Utah Jazz,Portland Trail Blazers,118,126,0.0
+401163179,2019-10-17T02:00Z,Melbourne Melbourne United at Sacramento Kings,Sacramento Kings,Melbourne United,124,110,1.0
+401163180,2019-10-17T02:30Z,Golden State Warriors at Los Angeles Lakers,Los Angeles Lakers,Golden State Warriors,126,93,1.0
+401163181,2019-10-17T23:00Z,Miami Heat at Orlando Magic,Orlando Magic,Miami Heat,98,107,0.0
+401163182,2019-10-18T00:00Z,Atlanta Hawks at Chicago Bulls,Chicago Bulls,Atlanta Hawks,111,93,1.0
+401163183,2019-10-18T00:00Z,Minnesota Timberwolves at Milwaukee Bucks,Milwaukee Bucks,Minnesota Timberwolves,118,96,1.0
+401163184,2019-10-18T01:00Z,Portland Trail Blazers at Denver Nuggets,Denver Nuggets,Portland Trail Blazers,110,104,1.0
+401163185,2019-10-18T02:30Z,Dallas Mavericks at LA Clippers,LA Clippers,Dallas Mavericks,87,102,0.0
+401163186,2019-10-18T23:00Z,Washington Wizards at Philadelphia 76ers,Philadelphia 76ers,Washington Wizards,93,112,0.0
+401163187,2019-10-18T23:30Z,Toronto Raptors at Brooklyn Nets,Brooklyn Nets,Toronto Raptors,107,123,0.0
+401163188,2019-10-19T00:00Z,Houston Rockets at Miami Heat,Miami Heat,Houston Rockets,133,144,0.0
+401163189,2019-10-19T00:00Z,New Orleans Pelicans at New York Knicks,New York Knicks,New Orleans Pelicans,116,117,0.0
+401163190,2019-10-19T00:30Z,Memphis Grizzlies at San Antonio Spurs,San Antonio Spurs,Memphis Grizzlies,104,91,1.0
+401163191,2019-10-19T02:30Z,Los Angeles Lakers at Golden State Warriors,Golden State Warriors,Los Angeles Lakers,124,103,1.0
+401160623,2019-10-23T00:00Z,New Orleans Pelicans at Toronto Raptors,Toronto Raptors,New Orleans Pelicans,130,122,1.0
+401160624,2019-10-23T02:30Z,Los Angeles Lakers at LA Clippers,LA Clippers,Los Angeles Lakers,112,102,1.0
+401160625,2019-10-23T23:00Z,Chicago Bulls at Charlotte Hornets,Charlotte Hornets,Chicago Bulls,126,125,1.0
+401160626,2019-10-23T23:00Z,Detroit Pistons at Indiana Pacers,Indiana Pacers,Detroit Pistons,110,119,0.0
+401160627,2019-10-23T23:00Z,Cleveland Cavaliers at Orlando Magic,Orlando Magic,Cleveland Cavaliers,94,85,1.0
+401160628,2019-10-23T23:30Z,Minnesota Timberwolves at Brooklyn Nets,Brooklyn Nets,Minnesota Timberwolves,126,127,0.0
+401160629,2019-10-23T23:30Z,Memphis Grizzlies at Miami Heat,Miami Heat,Memphis Grizzlies,120,101,1.0
+401160630,2019-10-23T23:30Z,Boston Celtics at Philadelphia 76ers,Philadelphia 76ers,Boston Celtics,107,93,1.0
+401160631,2019-10-24T00:30Z,Washington Wizards at Dallas Mavericks,Dallas Mavericks,Washington Wizards,108,100,1.0
+401160632,2019-10-24T00:30Z,New York Knicks at San Antonio Spurs,San Antonio Spurs,New York Knicks,120,111,1.0
+401160653,2019-10-24T01:00Z,Oklahoma City Thunder at Utah Jazz,Utah Jazz,Oklahoma City Thunder,100,95,1.0
+401160654,2019-10-24T02:00Z,Sacramento Kings at Phoenix Suns,Phoenix Suns,Sacramento Kings,124,95,1.0
+401160655,2019-10-24T02:00Z,Denver Nuggets at Portland Trail Blazers,Portland Trail Blazers,Denver Nuggets,100,108,0.0
+401160656,2019-10-24T23:00Z,Atlanta Hawks at Detroit Pistons,Detroit Pistons,Atlanta Hawks,100,117,0.0
+401160657,2019-10-25T00:00Z,Milwaukee Bucks at Houston Rockets,Houston Rockets,Milwaukee Bucks,111,117,0.0
+401160658,2019-10-25T02:30Z,LA Clippers at Golden State Warriors,Golden State Warriors,LA Clippers,122,141,0.0
+401160659,2019-10-25T23:00Z,Toronto Raptors at Boston Celtics,Boston Celtics,Toronto Raptors,112,106,1.0
+401160660,2019-10-25T23:00Z,Minnesota Timberwolves at Charlotte Hornets,Charlotte Hornets,Minnesota Timberwolves,99,121,0.0
+401160661,2019-10-25T23:30Z,New York Knicks at Brooklyn Nets,Brooklyn Nets,New York Knicks,113,109,1.0
+401160662,2019-10-26T00:00Z,Chicago Bulls at Memphis Grizzlies,Memphis Grizzlies,Chicago Bulls,102,110,0.0
+401160663,2019-10-26T00:00Z,Dallas Mavericks at New Orleans Pelicans,New Orleans Pelicans,Dallas Mavericks,116,123,0.0
+401160664,2019-10-26T00:00Z,Washington Wizards at Oklahoma City Thunder,Oklahoma City Thunder,Washington Wizards,85,97,0.0
+401160665,2019-10-26T01:00Z,Phoenix Suns at Denver Nuggets,Denver Nuggets,Phoenix Suns,108,107,1.0
+401160666,2019-10-26T02:00Z,Portland Trail Blazers at Sacramento Kings,Sacramento Kings,Portland Trail Blazers,112,122,0.0
+401160667,2019-10-26T02:30Z,Utah Jazz at Los Angeles Lakers,Los Angeles Lakers,Utah Jazz,95,86,1.0
+401160668,2019-10-26T21:00Z,Miami Heat at Milwaukee Bucks,Milwaukee Bucks,Miami Heat,126,131,0.0
+401160669,2019-10-26T23:00Z,Philadelphia 76ers at Detroit Pistons,Detroit Pistons,Philadelphia 76ers,111,117,0.0
+401160670,2019-10-26T23:30Z,Orlando Magic at Atlanta Hawks,Atlanta Hawks,Orlando Magic,103,99,1.0
+401160671,2019-10-26T23:30Z,Boston Celtics at New York Knicks,New York Knicks,Boston Celtics,95,118,0.0
+401160672,2019-10-27T00:00Z,Indiana Pacers at Cleveland Cavaliers,Cleveland Cavaliers,Indiana Pacers,110,99,1.0
+401160673,2019-10-27T00:00Z,Toronto Raptors at Chicago Bulls,Chicago Bulls,Toronto Raptors,84,108,0.0
+401160674,2019-10-27T00:00Z,New Orleans Pelicans at Houston Rockets,Houston Rockets,New Orleans Pelicans,126,123,1.0
+401160675,2019-10-27T00:30Z,Washington Wizards at San Antonio Spurs,San Antonio Spurs,Washington Wizards,124,122,1.0
+401160676,2019-10-27T01:00Z,Sacramento Kings at Utah Jazz,Utah Jazz,Sacramento Kings,113,81,1.0
+401160677,2019-10-27T02:00Z,LA Clippers at Phoenix Suns,Phoenix Suns,LA Clippers,130,122,1.0
+401160678,2019-10-27T19:30Z,Golden State Warriors at Oklahoma City Thunder,Oklahoma City Thunder,Golden State Warriors,120,92,1.0
+401160679,2019-10-27T22:00Z,Brooklyn Nets at Memphis Grizzlies,Memphis Grizzlies,Brooklyn Nets,134,133,1.0
+401160680,2019-10-27T23:00Z,Portland Trail Blazers at Dallas Mavericks,Dallas Mavericks,Portland Trail Blazers,119,121,0.0
+401160681,2019-10-27T23:00Z,Miami Heat at Minnesota Timberwolves,Minnesota Timberwolves,Miami Heat,116,109,1.0
+401160682,2019-10-28T01:30Z,Charlotte Hornets at Los Angeles Lakers,Los Angeles Lakers,Charlotte Hornets,120,101,1.0
+401160683,2019-10-28T23:00Z,Indiana Pacers at Detroit Pistons,Detroit Pistons,Indiana Pacers,96,94,1.0
+401160684,2019-10-28T23:00Z,Chicago Bulls at New York Knicks,New York Knicks,Chicago Bulls,105,98,1.0
+401160685,2019-10-28T23:30Z,Philadelphia 76ers at Atlanta Hawks,Atlanta Hawks,Philadelphia 76ers,103,105,0.0
+401160686,2019-10-28T23:30Z,Orlando Magic at Toronto Raptors,Toronto Raptors,Orlando Magic,104,95,1.0
+401160687,2019-10-29T00:00Z,Oklahoma City Thunder at Houston Rockets,Houston Rockets,Oklahoma City Thunder,116,112,1.0
+401160688,2019-10-29T00:00Z,Cleveland Cavaliers at Milwaukee Bucks,Milwaukee Bucks,Cleveland Cavaliers,129,112,1.0
+401160689,2019-10-29T00:00Z,Golden State Warriors at New Orleans Pelicans,New Orleans Pelicans,Golden State Warriors,123,134,0.0
+401160690,2019-10-29T00:30Z,Portland Trail Blazers at San Antonio Spurs,San Antonio Spurs,Portland Trail Blazers,113,110,1.0
+401160691,2019-10-29T02:00Z,Utah Jazz at Phoenix Suns,Phoenix Suns,Utah Jazz,95,96,0.0
+401160692,2019-10-29T02:00Z,Denver Nuggets at Sacramento Kings,Sacramento Kings,Denver Nuggets,94,101,0.0
+401160693,2019-10-29T02:30Z,Charlotte Hornets at LA Clippers,LA Clippers,Charlotte Hornets,111,96,1.0
+401160694,2019-10-29T23:30Z,Atlanta Hawks at Miami Heat,Miami Heat,Atlanta Hawks,112,97,1.0
+401160695,2019-10-30T01:00Z,Dallas Mavericks at Denver Nuggets,Denver Nuggets,Dallas Mavericks,106,109,0.0
+401160696,2019-10-30T02:30Z,Memphis Grizzlies at Los Angeles Lakers,Los Angeles Lakers,Memphis Grizzlies,120,91,1.0
+401160697,2019-10-30T23:00Z,Chicago Bulls at Cleveland Cavaliers,Cleveland Cavaliers,Chicago Bulls,117,111,1.0
+401160698,2019-10-30T23:00Z,New York Knicks at Orlando Magic,Orlando Magic,New York Knicks,95,83,1.0
+401160699,2019-10-30T23:00Z,Minnesota Timberwolves at Philadelphia 76ers,Philadelphia 76ers,Minnesota Timberwolves,117,95,1.0
+401160700,2019-10-30T23:30Z,Milwaukee Bucks at Boston Celtics,Boston Celtics,Milwaukee Bucks,116,105,1.0
+401160701,2019-10-30T23:30Z,Indiana Pacers at Brooklyn Nets,Brooklyn Nets,Indiana Pacers,108,118,0.0
+401160702,2019-10-30T23:30Z,Detroit Pistons at Toronto Raptors,Toronto Raptors,Detroit Pistons,125,113,1.0
+401160703,2019-10-31T00:00Z,Houston Rockets at Washington Wizards,Washington Wizards,Houston Rockets,158,159,0.0
+401160704,2019-10-31T00:00Z,Portland Trail Blazers at Oklahoma City Thunder,Oklahoma City Thunder,Portland Trail Blazers,99,102,0.0
+401160705,2019-10-31T02:00Z,LA Clippers at Utah Jazz,Utah Jazz,LA Clippers,110,96,1.0
+401160706,2019-10-31T02:00Z,Charlotte Hornets at Sacramento Kings,Sacramento Kings,Charlotte Hornets,111,118,0.0
+401160707,2019-10-31T02:30Z,Phoenix Suns at Golden State Warriors,Golden State Warriors,Phoenix Suns,110,121,0.0
+401160708,2019-10-31T23:00Z,Miami Heat at Atlanta Hawks,Atlanta Hawks,Miami Heat,97,106,0.0
+401160709,2019-11-01T01:30Z,Denver Nuggets at New Orleans Pelicans,New Orleans Pelicans,Denver Nuggets,122,107,1.0
+401160710,2019-11-01T02:30Z,San Antonio Spurs at LA Clippers,LA Clippers,San Antonio Spurs,103,97,1.0

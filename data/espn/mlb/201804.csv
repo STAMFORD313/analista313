@@ -1,0 +1,407 @@
+id,date,event,home,away,hs,as,res
+380401101,2018-04-01T17:05Z,Minnesota Twins at Baltimore Orioles,Baltimore Orioles,Minnesota Twins,0,7,0.0
+380401114,2018-04-01T17:07Z,New York Yankees at Toronto Blue Jays,Toronto Blue Jays,New York Yankees,7,4,1.0
+380401121,2018-04-01T17:10Z,St. Louis Cardinals at New York Mets,New York Mets,St. Louis Cardinals,1,5,0.0
+380401128,2018-04-01T17:10Z,Chicago Cubs at Miami Marlins,Miami Marlins,Chicago Cubs,6,0,1.0
+380401130,2018-04-01T17:10Z,Boston Red Sox at Tampa Bay Rays,Tampa Bay Rays,Boston Red Sox,1,2,0.0
+380401206,2018-04-01T17:10Z,Pittsburgh Pirates at Detroit Tigers,Detroit Tigers,Pittsburgh Pirates,0,1,0.0
+380401107,2018-04-01T18:15Z,Chicago White Sox at Kansas City Royals,Kansas City Royals,Chicago White Sox,0,0,0.5
+380401113,2018-04-01T19:05Z,Houston Astros at Texas Rangers,Texas Rangers,Houston Astros,2,8,0.0
+380401111,2018-04-01T20:05Z,Los Angeles Angels at Oakland Athletics,Oakland Athletics,Los Angeles Angels,4,7,0.0
+380401112,2018-04-01T20:10Z,Cleveland Indians at Seattle Mariners,Seattle Mariners,Cleveland Indians,5,4,1.0
+380401117,2018-04-01T20:10Z,Washington Nationals at Cincinnati Reds,Cincinnati Reds,Washington Nationals,5,6,0.0
+380401306,2018-04-01T22:10Z,Pittsburgh Pirates at Detroit Tigers,Detroit Tigers,Pittsburgh Pirates,6,8,0.0
+380401119,2018-04-02T00:37Z,San Francisco Giants at Los Angeles Dodgers,Los Angeles Dodgers,San Francisco Giants,9,0,1.0
+380402110,2018-04-02T17:05Z,Tampa Bay Rays at New York Yankees,New York Yankees,Tampa Bay Rays,0,0,0.5
+380402123,2018-04-02T17:05Z,Minnesota Twins at Pittsburgh Pirates,Pittsburgh Pirates,Minnesota Twins,5,4,1.0
+380402106,2018-04-02T17:10Z,Kansas City Royals at Detroit Tigers,Detroit Tigers,Kansas City Royals,6,1,1.0
+380402108,2018-04-02T18:10Z,St. Louis Cardinals at Milwaukee Brewers,Milwaukee Brewers,St. Louis Cardinals,4,8,0.0
+380402117,2018-04-02T20:10Z,Chicago Cubs at Cincinnati Reds,Cincinnati Reds,Chicago Cubs,1,0,1.0
+380402118,2018-04-02T23:00Z,Baltimore Orioles at Houston Astros,Houston Astros,Baltimore Orioles,6,1,1.0
+380402114,2018-04-02T23:07Z,Chicago White Sox at Toronto Blue Jays,Toronto Blue Jays,Chicago White Sox,4,2,1.0
+380402121,2018-04-02T23:10Z,Philadelphia Phillies at New York Mets,New York Mets,Philadelphia Phillies,0,0,0.5
+380402128,2018-04-02T23:10Z,Boston Red Sox at Miami Marlins,Miami Marlins,Boston Red Sox,3,7,0.0
+380402115,2018-04-02T23:35Z,Washington Nationals at Atlanta Braves,Atlanta Braves,Washington Nationals,1,8,0.0
+380402129,2018-04-03T01:40Z,Los Angeles Dodgers at Arizona Diamondbacks,Arizona Diamondbacks,Los Angeles Dodgers,8,7,1.0
+380402111,2018-04-03T02:05Z,Texas Rangers at Oakland Athletics,Oakland Athletics,Texas Rangers,3,1,1.0
+380402103,2018-04-03T02:07Z,Cleveland Indians at Los Angeles Angels,Los Angeles Angels,Cleveland Indians,0,6,0.0
+380402125,2018-04-03T02:10Z,Colorado Rockies at San Diego Padres,San Diego Padres,Colorado Rockies,4,7,0.0
+380403106,2018-04-03T17:10Z,Kansas City Royals at Detroit Tigers,Detroit Tigers,Kansas City Royals,0,1,0.0
+380403110,2018-04-03T20:00Z,Tampa Bay Rays at New York Yankees,New York Yankees,Tampa Bay Rays,11,4,1.0
+380403126,2018-04-03T20:35Z,Seattle Mariners at San Francisco Giants,San Francisco Giants,Seattle Mariners,4,6,0.0
+400982954,2018-04-03T22:10Z,Boston Red Sox at Miami Marlins,Miami Marlins,Boston Red Sox,2,4,0.0
+380403117,2018-04-03T22:40Z,Chicago Cubs at Cincinnati Reds,Cincinnati Reds,Chicago Cubs,0,0,0.5
+380403114,2018-04-03T23:07Z,Chicago White Sox at Toronto Blue Jays,Toronto Blue Jays,Chicago White Sox,14,5,1.0
+380403121,2018-04-03T23:10Z,Philadelphia Phillies at New York Mets,New York Mets,Philadelphia Phillies,2,0,1.0
+400982965,2018-04-03T23:35Z,Washington Nationals at Atlanta Braves,Atlanta Braves,Washington Nationals,13,6,1.0
+380403108,2018-04-03T23:40Z,St. Louis Cardinals at Milwaukee Brewers,Milwaukee Brewers,St. Louis Cardinals,5,4,1.0
+380403118,2018-04-04T00:10Z,Baltimore Orioles at Houston Astros,Houston Astros,Baltimore Orioles,10,6,1.0
+380403129,2018-04-04T01:40Z,Los Angeles Dodgers at Arizona Diamondbacks,Arizona Diamondbacks,Los Angeles Dodgers,6,1,1.0
+380403103,2018-04-04T02:00Z,Cleveland Indians at Los Angeles Angels,Los Angeles Angels,Cleveland Indians,13,2,1.0
+380403111,2018-04-04T02:05Z,Texas Rangers at Oakland Athletics,Oakland Athletics,Texas Rangers,1,4,0.0
+380403125,2018-04-04T02:10Z,Colorado Rockies at San Diego Padres,San Diego Padres,Colorado Rockies,8,4,1.0
+380404115,2018-04-04T16:10Z,Washington Nationals at Atlanta Braves,Atlanta Braves,Washington Nationals,7,1,1.0
+380404110,2018-04-04T17:05Z,Tampa Bay Rays at New York Yankees,New York Yankees,Tampa Bay Rays,7,2,1.0
+380404106,2018-04-04T17:10Z,Kansas City Royals at Detroit Tigers,Detroit Tigers,Kansas City Royals,0,0,0.5
+380404121,2018-04-04T17:10Z,Philadelphia Phillies at New York Mets,New York Mets,Philadelphia Phillies,4,2,1.0
+380404118,2018-04-04T18:10Z,Baltimore Orioles at Houston Astros,Houston Astros,Baltimore Orioles,3,2,1.0
+380404129,2018-04-04T19:40Z,Los Angeles Dodgers at Arizona Diamondbacks,Arizona Diamondbacks,Los Angeles Dodgers,3,0,1.0
+380404103,2018-04-04T20:07Z,Cleveland Indians at Los Angeles Angels,Los Angeles Angels,Cleveland Indians,3,2,1.0
+380404123,2018-04-04T22:05Z,Minnesota Twins at Pittsburgh Pirates,Pittsburgh Pirates,Minnesota Twins,3,7,0.0
+380404114,2018-04-04T23:07Z,Chicago White Sox at Toronto Blue Jays,Toronto Blue Jays,Chicago White Sox,3,4,0.0
+380404126,2018-04-04T23:15Z,Seattle Mariners at San Francisco Giants,San Francisco Giants,Seattle Mariners,10,1,1.0
+380404108,2018-04-04T23:40Z,St. Louis Cardinals at Milwaukee Brewers,Milwaukee Brewers,St. Louis Cardinals,0,6,0.0
+380404111,2018-04-05T02:05Z,Texas Rangers at Oakland Athletics,Oakland Athletics,Texas Rangers,6,2,1.0
+380404125,2018-04-05T02:10Z,Colorado Rockies at San Diego Padres,San Diego Padres,Colorado Rockies,2,5,0.0
+380405120,2018-04-05T17:05Z,New York Mets at Washington Nationals,Washington Nationals,New York Mets,2,8,0.0
+380405102,2018-04-05T18:05Z,Tampa Bay Rays at Boston Red Sox,Boston Red Sox,Tampa Bay Rays,3,2,1.0
+380405122,2018-04-05T19:05Z,Miami Marlins at Philadelphia Phillies,Philadelphia Phillies,Miami Marlins,5,0,1.0
+380405111,2018-04-05T19:35Z,Texas Rangers at Oakland Athletics,Oakland Athletics,Texas Rangers,3,6,0.0
+380405125,2018-04-05T19:40Z,Colorado Rockies at San Diego Padres,San Diego Padres,Colorado Rockies,1,3,0.0
+380405104,2018-04-05T20:10Z,Detroit Tigers at Chicago White Sox,Chicago White Sox,Detroit Tigers,7,9,0.0
+380405109,2018-04-05T20:10Z,Seattle Mariners at Minnesota Twins,Minnesota Twins,Seattle Mariners,4,2,1.0
+380405110,2018-04-05T22:35Z,Baltimore Orioles at New York Yankees,New York Yankees,Baltimore Orioles,2,5,0.0
+380405123,2018-04-05T23:05Z,Cincinnati Reds at Pittsburgh Pirates,Pittsburgh Pirates,Cincinnati Reds,5,2,1.0
+380405124,2018-04-05T23:15Z,Arizona Diamondbacks at St. Louis Cardinals,St. Louis Cardinals,Arizona Diamondbacks,1,3,0.0
+380405108,2018-04-06T00:10Z,Chicago Cubs at Milwaukee Brewers,Milwaukee Brewers,Chicago Cubs,0,8,0.0
+380406105,2018-04-06T20:10Z,Kansas City Royals at Cleveland Indians,Cleveland Indians,Kansas City Royals,3,2,1.0
+380406127,2018-04-06T20:10Z,Atlanta Braves at Colorado Rockies,Colorado Rockies,Atlanta Braves,3,8,0.0
+380406110,2018-04-06T23:05Z,Baltimore Orioles at New York Yankees,New York Yankees,Baltimore Orioles,3,7,0.0
+380406123,2018-04-06T23:05Z,Cincinnati Reds at Pittsburgh Pirates,Pittsburgh Pirates,Cincinnati Reds,14,3,1.0
+380406113,2018-04-07T00:05Z,Toronto Blue Jays at Texas Rangers,Texas Rangers,Toronto Blue Jays,5,8,0.0
+380406108,2018-04-07T00:10Z,Chicago Cubs at Milwaukee Brewers,Milwaukee Brewers,Chicago Cubs,5,4,1.0
+380406118,2018-04-07T00:10Z,San Diego Padres at Houston Astros,Houston Astros,San Diego Padres,1,4,0.0
+380406103,2018-04-07T02:07Z,Oakland Athletics at Los Angeles Angels,Los Angeles Angels,Oakland Athletics,13,9,1.0
+380406126,2018-04-07T02:15Z,Los Angeles Dodgers at San Francisco Giants,San Francisco Giants,Los Angeles Dodgers,0,0,0.5
+380407102,2018-04-07T17:05Z,Tampa Bay Rays at Boston Red Sox,Boston Red Sox,Tampa Bay Rays,10,3,1.0
+380407110,2018-04-07T17:05Z,Baltimore Orioles at New York Yankees,New York Yankees,Baltimore Orioles,8,3,1.0
+380407120,2018-04-07T17:05Z,New York Mets at Washington Nationals,Washington Nationals,New York Mets,2,3,0.0
+380407104,2018-04-07T18:10Z,Detroit Tigers at Chicago White Sox,Chicago White Sox,Detroit Tigers,1,6,0.0
+380407109,2018-04-07T18:10Z,Seattle Mariners at Minnesota Twins,Minnesota Twins,Seattle Mariners,4,11,0.0
+380407124,2018-04-07T18:15Z,Arizona Diamondbacks at St. Louis Cardinals,St. Louis Cardinals,Arizona Diamondbacks,5,3,1.0
+380407108,2018-04-07T20:05Z,Chicago Cubs at Milwaukee Brewers,Milwaukee Brewers,Chicago Cubs,2,5,0.0
+380407105,2018-04-07T20:10Z,Kansas City Royals at Cleveland Indians,Cleveland Indians,Kansas City Royals,0,1,0.0
+380407122,2018-04-07T22:05Z,Miami Marlins at Philadelphia Phillies,Philadelphia Phillies,Miami Marlins,20,1,1.0
+380407126,2018-04-07T22:05Z,Los Angeles Dodgers at San Francisco Giants,San Francisco Giants,Los Angeles Dodgers,7,5,1.0
+380407123,2018-04-07T23:05Z,Cincinnati Reds at Pittsburgh Pirates,Pittsburgh Pirates,Cincinnati Reds,4,7,0.0
+380407118,2018-04-07T23:10Z,San Diego Padres at Houston Astros,Houston Astros,San Diego Padres,1,0,1.0
+380407113,2018-04-08T00:05Z,Toronto Blue Jays at Texas Rangers,Texas Rangers,Toronto Blue Jays,5,1,1.0
+380407127,2018-04-08T00:10Z,Atlanta Braves at Colorado Rockies,Colorado Rockies,Atlanta Braves,3,2,1.0
+380407103,2018-04-08T01:07Z,Oakland Athletics at Los Angeles Angels,Los Angeles Angels,Oakland Athletics,3,7,0.0
+380408102,2018-04-08T17:05Z,Tampa Bay Rays at Boston Red Sox,Boston Red Sox,Tampa Bay Rays,8,7,1.0
+380408110,2018-04-08T17:05Z,Baltimore Orioles at New York Yankees,New York Yankees,Baltimore Orioles,7,8,0.0
+380408105,2018-04-08T17:10Z,Kansas City Royals at Cleveland Indians,Cleveland Indians,Kansas City Royals,3,1,1.0
+380408122,2018-04-08T17:35Z,Miami Marlins at Philadelphia Phillies,Philadelphia Phillies,Miami Marlins,3,6,0.0
+380408123,2018-04-08T17:35Z,Cincinnati Reds at Pittsburgh Pirates,Pittsburgh Pirates,Cincinnati Reds,5,0,1.0
+380408104,2018-04-08T18:10Z,Detroit Tigers at Chicago White Sox,Chicago White Sox,Detroit Tigers,0,1,0.0
+380408108,2018-04-08T18:10Z,Chicago Cubs at Milwaukee Brewers,Milwaukee Brewers,Chicago Cubs,0,3,0.0
+380408109,2018-04-08T18:10Z,Seattle Mariners at Minnesota Twins,Minnesota Twins,Seattle Mariners,0,0,0.5
+380408118,2018-04-08T18:10Z,San Diego Padres at Houston Astros,Houston Astros,San Diego Padres,4,1,1.0
+380408124,2018-04-08T18:15Z,Arizona Diamondbacks at St. Louis Cardinals,St. Louis Cardinals,Arizona Diamondbacks,1,4,0.0
+380408113,2018-04-08T19:05Z,Toronto Blue Jays at Texas Rangers,Texas Rangers,Toronto Blue Jays,4,7,0.0
+380408127,2018-04-08T19:10Z,Atlanta Braves at Colorado Rockies,Colorado Rockies,Atlanta Braves,0,4,0.0
+380408126,2018-04-08T20:05Z,Los Angeles Dodgers at San Francisco Giants,San Francisco Giants,Los Angeles Dodgers,1,2,0.0
+380408103,2018-04-08T20:07Z,Oakland Athletics at Los Angeles Angels,Los Angeles Angels,Oakland Athletics,6,1,1.0
+380408120,2018-04-09T00:08Z,New York Mets at Washington Nationals,Washington Nationals,New York Mets,5,6,0.0
+380409104,2018-04-09T18:30Z,Tampa Bay Rays at Chicago White Sox,Chicago White Sox,Tampa Bay Rays,4,5,0.0
+380409116,2018-04-09T19:20Z,Pittsburgh Pirates at Chicago Cubs,Chicago Cubs,Pittsburgh Pirates,0,0,0.5
+380409105,2018-04-09T22:10Z,Detroit Tigers at Cleveland Indians,Cleveland Indians,Detroit Tigers,2,0,1.0
+380409124,2018-04-09T23:00Z,Milwaukee Brewers at St. Louis Cardinals,St. Louis Cardinals,Milwaukee Brewers,4,5,0.0
+380409101,2018-04-09T23:05Z,Toronto Blue Jays at Baltimore Orioles,Baltimore Orioles,Toronto Blue Jays,1,7,0.0
+380409120,2018-04-09T23:05Z,Atlanta Braves at Washington Nationals,Washington Nationals,Atlanta Braves,2,0,1.0
+380409122,2018-04-09T23:05Z,Cincinnati Reds at Philadelphia Phillies,Philadelphia Phillies,Cincinnati Reds,6,5,1.0
+380409128,2018-04-09T23:10Z,New York Mets at Miami Marlins,Miami Marlins,New York Mets,2,4,0.0
+380409113,2018-04-10T00:05Z,Los Angeles Angels at Texas Rangers,Texas Rangers,Los Angeles Angels,3,8,0.0
+380409109,2018-04-10T00:10Z,Houston Astros at Minnesota Twins,Minnesota Twins,Houston Astros,0,2,0.0
+380409107,2018-04-10T00:15Z,Seattle Mariners at Kansas City Royals,Kansas City Royals,Seattle Mariners,10,0,1.0
+380409127,2018-04-10T00:40Z,San Diego Padres at Colorado Rockies,Colorado Rockies,San Diego Padres,6,7,0.0
+380409126,2018-04-10T02:15Z,Arizona Diamondbacks at San Francisco Giants,San Francisco Giants,Arizona Diamondbacks,1,2,0.0
+400983054,2018-04-10T18:10Z,Tampa Bay Rays at Chicago White Sox,Chicago White Sox,Tampa Bay Rays,5,6,0.0
+380410116,2018-04-10T18:20Z,Pittsburgh Pirates at Chicago Cubs,Chicago Cubs,Pittsburgh Pirates,5,8,0.0
+380410105,2018-04-10T22:10Z,Detroit Tigers at Cleveland Indians,Cleveland Indians,Detroit Tigers,2,1,1.0
+380410102,2018-04-10T23:00Z,New York Yankees at Boston Red Sox,Boston Red Sox,New York Yankees,14,1,1.0
+380410101,2018-04-10T23:05Z,Toronto Blue Jays at Baltimore Orioles,Baltimore Orioles,Toronto Blue Jays,1,2,0.0
+380410120,2018-04-10T23:05Z,Atlanta Braves at Washington Nationals,Washington Nationals,Atlanta Braves,4,1,1.0
+380410122,2018-04-10T23:05Z,Cincinnati Reds at Philadelphia Phillies,Philadelphia Phillies,Cincinnati Reds,6,1,1.0
+380410128,2018-04-10T23:10Z,New York Mets at Miami Marlins,Miami Marlins,New York Mets,6,8,0.0
+380410113,2018-04-11T00:05Z,Los Angeles Angels at Texas Rangers,Texas Rangers,Los Angeles Angels,1,11,0.0
+380410109,2018-04-11T00:10Z,Houston Astros at Minnesota Twins,Minnesota Twins,Houston Astros,4,1,1.0
+380410107,2018-04-11T00:15Z,Seattle Mariners at Kansas City Royals,Kansas City Royals,Seattle Mariners,3,8,0.0
+400983048,2018-04-11T00:15Z,Milwaukee Brewers at St. Louis Cardinals,St. Louis Cardinals,Milwaukee Brewers,5,3,1.0
+380410127,2018-04-11T00:40Z,San Diego Padres at Colorado Rockies,Colorado Rockies,San Diego Padres,2,5,0.0
+380410119,2018-04-11T02:10Z,Oakland Athletics at Los Angeles Dodgers,Los Angeles Dodgers,Oakland Athletics,4,0,1.0
+380410126,2018-04-11T02:15Z,Arizona Diamondbacks at San Francisco Giants,San Francisco Giants,Arizona Diamondbacks,5,4,1.0
+380411120,2018-04-11T17:05Z,Atlanta Braves at Washington Nationals,Washington Nationals,Atlanta Braves,3,5,0.0
+380411109,2018-04-11T17:10Z,Houston Astros at Minnesota Twins,Minnesota Twins,Houston Astros,9,8,1.0
+380411124,2018-04-11T17:15Z,Milwaukee Brewers at St. Louis Cardinals,St. Louis Cardinals,Milwaukee Brewers,2,3,0.0
+380411104,2018-04-11T18:10Z,Tampa Bay Rays at Chicago White Sox,Chicago White Sox,Tampa Bay Rays,2,1,1.0
+380411107,2018-04-11T18:15Z,Seattle Mariners at Kansas City Royals,Kansas City Royals,Seattle Mariners,2,4,0.0
+380411127,2018-04-11T19:10Z,San Diego Padres at Colorado Rockies,Colorado Rockies,San Diego Padres,6,4,1.0
+380411126,2018-04-11T19:45Z,Arizona Diamondbacks at San Francisco Giants,San Francisco Giants,Arizona Diamondbacks,3,7,0.0
+380411105,2018-04-11T22:10Z,Detroit Tigers at Cleveland Indians,Cleveland Indians,Detroit Tigers,5,1,1.0
+380411101,2018-04-11T23:05Z,Toronto Blue Jays at Baltimore Orioles,Baltimore Orioles,Toronto Blue Jays,5,3,1.0
+380411122,2018-04-11T23:05Z,Cincinnati Reds at Philadelphia Phillies,Philadelphia Phillies,Cincinnati Reds,4,3,1.0
+380411102,2018-04-11T23:10Z,New York Yankees at Boston Red Sox,Boston Red Sox,New York Yankees,7,10,0.0
+380411128,2018-04-11T23:10Z,New York Mets at Miami Marlins,Miami Marlins,New York Mets,1,4,0.0
+380411113,2018-04-12T00:05Z,Los Angeles Angels at Texas Rangers,Texas Rangers,Los Angeles Angels,2,7,0.0
+380411116,2018-04-12T00:05Z,Pittsburgh Pirates at Chicago Cubs,Chicago Cubs,Pittsburgh Pirates,13,5,1.0
+380411119,2018-04-12T02:10Z,Oakland Athletics at Los Angeles Dodgers,Los Angeles Dodgers,Oakland Athletics,6,16,0.0
+380412116,2018-04-12T18:20Z,Pittsburgh Pirates at Chicago Cubs,Chicago Cubs,Pittsburgh Pirates,1,6,0.0
+380412105,2018-04-12T22:10Z,Detroit Tigers at Cleveland Indians,Cleveland Indians,Detroit Tigers,9,3,1.0
+380412117,2018-04-12T22:40Z,St. Louis Cardinals at Cincinnati Reds,Cincinnati Reds,St. Louis Cardinals,4,13,0.0
+380412120,2018-04-12T23:05Z,Colorado Rockies at Washington Nationals,Washington Nationals,Colorado Rockies,1,5,0.0
+400983075,2018-04-12T23:10Z,New York Yankees at Boston Red Sox,Boston Red Sox,New York Yankees,6,3,1.0
+380412109,2018-04-13T00:10Z,Chicago White Sox at Minnesota Twins,Minnesota Twins,Chicago White Sox,4,0,1.0
+380412107,2018-04-13T00:15Z,Los Angeles Angels at Kansas City Royals,Kansas City Royals,Los Angeles Angels,1,7,0.0
+380412125,2018-04-13T02:10Z,San Francisco Giants at San Diego Padres,San Diego Padres,San Francisco Giants,0,7,0.0
+380413116,2018-04-13T18:20Z,Atlanta Braves at Chicago Cubs,Chicago Cubs,Atlanta Braves,0,4,0.0
+380413117,2018-04-13T22:40Z,St. Louis Cardinals at Cincinnati Reds,Cincinnati Reds,St. Louis Cardinals,3,5,0.0
+380413120,2018-04-13T23:05Z,Colorado Rockies at Washington Nationals,Washington Nationals,Colorado Rockies,1,2,0.0
+380413102,2018-04-13T23:10Z,Baltimore Orioles at Boston Red Sox,Boston Red Sox,Baltimore Orioles,7,3,1.0
+380413105,2018-04-13T23:10Z,Toronto Blue Jays at Cleveland Indians,Cleveland Indians,Toronto Blue Jays,4,8,0.0
+380413106,2018-04-13T23:10Z,New York Yankees at Detroit Tigers,Detroit Tigers,New York Yankees,6,8,0.0
+380413121,2018-04-13T23:10Z,Milwaukee Brewers at New York Mets,New York Mets,Milwaukee Brewers,6,5,1.0
+380413128,2018-04-13T23:10Z,Pittsburgh Pirates at Miami Marlins,Miami Marlins,Pittsburgh Pirates,7,2,1.0
+380413130,2018-04-13T23:10Z,Philadelphia Phillies at Tampa Bay Rays,Tampa Bay Rays,Philadelphia Phillies,1,2,0.0
+380413109,2018-04-14T00:10Z,Chicago White Sox at Minnesota Twins,Minnesota Twins,Chicago White Sox,0,0,0.5
+380413118,2018-04-14T00:10Z,Texas Rangers at Houston Astros,Houston Astros,Texas Rangers,3,2,1.0
+380413107,2018-04-14T00:15Z,Los Angeles Angels at Kansas City Royals,Kansas City Royals,Los Angeles Angels,4,5,0.0
+380413112,2018-04-14T02:10Z,Oakland Athletics at Seattle Mariners,Seattle Mariners,Oakland Athletics,7,4,1.0
+380413119,2018-04-14T02:10Z,Arizona Diamondbacks at Los Angeles Dodgers,Los Angeles Dodgers,Arizona Diamondbacks,7,8,0.0
+380413125,2018-04-14T02:10Z,San Francisco Giants at San Diego Padres,San Diego Padres,San Francisco Giants,5,1,1.0
+380414102,2018-04-14T17:05Z,Baltimore Orioles at Boston Red Sox,Boston Red Sox,Baltimore Orioles,10,3,1.0
+380414120,2018-04-14T17:05Z,Colorado Rockies at Washington Nationals,Washington Nationals,Colorado Rockies,6,2,1.0
+380414106,2018-04-14T17:10Z,New York Yankees at Detroit Tigers,Detroit Tigers,New York Yankees,0,0,0.5
+380414117,2018-04-14T17:10Z,St. Louis Cardinals at Cincinnati Reds,Cincinnati Reds,St. Louis Cardinals,1,6,0.0
+380414109,2018-04-14T18:10Z,Chicago White Sox at Minnesota Twins,Minnesota Twins,Chicago White Sox,0,0,0.5
+380414116,2018-04-14T18:20Z,Atlanta Braves at Chicago Cubs,Chicago Cubs,Atlanta Braves,14,10,1.0
+380414118,2018-04-14T20:05Z,Texas Rangers at Houston Astros,Houston Astros,Texas Rangers,5,6,0.0
+380414105,2018-04-14T20:10Z,Toronto Blue Jays at Cleveland Indians,Cleveland Indians,Toronto Blue Jays,0,0,0.5
+380414130,2018-04-14T22:10Z,Philadelphia Phillies at Tampa Bay Rays,Tampa Bay Rays,Philadelphia Phillies,4,9,0.0
+380414121,2018-04-14T23:10Z,Milwaukee Brewers at New York Mets,New York Mets,Milwaukee Brewers,1,5,0.0
+380414128,2018-04-14T23:10Z,Pittsburgh Pirates at Miami Marlins,Miami Marlins,Pittsburgh Pirates,0,1,0.0
+380414107,2018-04-14T23:15Z,Los Angeles Angels at Kansas City Royals,Kansas City Royals,Los Angeles Angels,3,5,0.0
+380414125,2018-04-15T00:40Z,San Francisco Giants at San Diego Padres,San Diego Padres,San Francisco Giants,5,4,1.0
+380414112,2018-04-15T01:10Z,Oakland Athletics at Seattle Mariners,Seattle Mariners,Oakland Athletics,10,8,1.0
+380414119,2018-04-15T01:10Z,Arizona Diamondbacks at Los Angeles Dodgers,Los Angeles Dodgers,Arizona Diamondbacks,1,9,0.0
+380415102,2018-04-15T17:05Z,Baltimore Orioles at Boston Red Sox,Boston Red Sox,Baltimore Orioles,3,1,1.0
+380415105,2018-04-15T17:10Z,Toronto Blue Jays at Cleveland Indians,Cleveland Indians,Toronto Blue Jays,0,0,0.5
+380415117,2018-04-15T17:10Z,St. Louis Cardinals at Cincinnati Reds,Cincinnati Reds,St. Louis Cardinals,2,3,0.0
+380415121,2018-04-15T17:10Z,Milwaukee Brewers at New York Mets,New York Mets,Milwaukee Brewers,3,2,1.0
+380415128,2018-04-15T17:10Z,Pittsburgh Pirates at Miami Marlins,Miami Marlins,Pittsburgh Pirates,3,7,0.0
+380415130,2018-04-15T17:10Z,Philadelphia Phillies at Tampa Bay Rays,Tampa Bay Rays,Philadelphia Phillies,4,10,0.0
+380415206,2018-04-15T17:10Z,New York Yankees at Detroit Tigers,Detroit Tigers,New York Yankees,0,0,0.5
+380415120,2018-04-15T17:35Z,Colorado Rockies at Washington Nationals,Washington Nationals,Colorado Rockies,5,6,0.0
+380415109,2018-04-15T18:10Z,Chicago White Sox at Minnesota Twins,Minnesota Twins,Chicago White Sox,0,0,0.5
+380415107,2018-04-15T18:15Z,Los Angeles Angels at Kansas City Royals,Kansas City Royals,Los Angeles Angels,0,0,0.5
+380415116,2018-04-15T18:20Z,Atlanta Braves at Chicago Cubs,Chicago Cubs,Atlanta Braves,0,0,0.5
+380415112,2018-04-15T20:10Z,Oakland Athletics at Seattle Mariners,Seattle Mariners,Oakland Athletics,1,2,0.0
+380415119,2018-04-15T20:10Z,Arizona Diamondbacks at Los Angeles Dodgers,Los Angeles Dodgers,Arizona Diamondbacks,7,2,1.0
+380415125,2018-04-15T20:10Z,San Francisco Giants at San Diego Padres,San Diego Padres,San Francisco Giants,10,1,1.0
+380415306,2018-04-15T23:10Z,New York Yankees at Detroit Tigers,Detroit Tigers,New York Yankees,0,0,0.5
+380415118,2018-04-16T00:00Z,Texas Rangers at Houston Astros,Houston Astros,Texas Rangers,1,3,0.0
+380416102,2018-04-16T15:05Z,Baltimore Orioles at Boston Red Sox,Boston Red Sox,Baltimore Orioles,0,0,0.5
+380416110,2018-04-16T22:35Z,Miami Marlins at New York Yankees,New York Yankees,Miami Marlins,12,1,1.0
+380416116,2018-04-16T23:00Z,St. Louis Cardinals at Chicago Cubs,Chicago Cubs,St. Louis Cardinals,0,0,0.5
+380416123,2018-04-16T23:05Z,Colorado Rockies at Pittsburgh Pirates,Pittsburgh Pirates,Colorado Rockies,2,6,0.0
+380416114,2018-04-16T23:07Z,Kansas City Royals at Toronto Blue Jays,Toronto Blue Jays,Kansas City Royals,0,0,0.5
+380416121,2018-04-16T23:10Z,Washington Nationals at New York Mets,New York Mets,Washington Nationals,6,8,0.0
+380416130,2018-04-16T23:10Z,Texas Rangers at Tampa Bay Rays,Tampa Bay Rays,Texas Rangers,8,4,1.0
+380416115,2018-04-16T23:35Z,Philadelphia Phillies at Atlanta Braves,Atlanta Braves,Philadelphia Phillies,2,1,1.0
+380416108,2018-04-16T23:40Z,Cincinnati Reds at Milwaukee Brewers,Milwaukee Brewers,Cincinnati Reds,4,10,0.0
+380416111,2018-04-17T02:05Z,Chicago White Sox at Oakland Athletics,Oakland Athletics,Chicago White Sox,8,1,1.0
+380416112,2018-04-17T02:10Z,Houston Astros at Seattle Mariners,Seattle Mariners,Houston Astros,2,1,1.0
+380416125,2018-04-17T02:10Z,Los Angeles Dodgers at San Diego Padres,San Diego Padres,Los Angeles Dodgers,3,10,0.0
+401029860,2018-04-17T19:07Z,Kansas City Royals at Toronto Blue Jays,Toronto Blue Jays,Kansas City Royals,11,3,1.0
+380417110,2018-04-17T22:35Z,Miami Marlins at New York Yankees,New York Yankees,Miami Marlins,1,9,0.0
+380417106,2018-04-17T22:40Z,Baltimore Orioles at Detroit Tigers,Detroit Tigers,Baltimore Orioles,4,2,1.0
+380417123,2018-04-17T23:05Z,Colorado Rockies at Pittsburgh Pirates,Pittsburgh Pirates,Colorado Rockies,0,2,0.0
+380417314,2018-04-17T23:07Z,Kansas City Royals at Toronto Blue Jays,Toronto Blue Jays,Kansas City Royals,5,4,1.0
+380417109,2018-04-17T23:10Z,Cleveland Indians at Minnesota Twins,Minnesota Twins,Cleveland Indians,1,6,0.0
+380417121,2018-04-17T23:10Z,Washington Nationals at New York Mets,New York Mets,Washington Nationals,2,5,0.0
+380417130,2018-04-17T23:10Z,Texas Rangers at Tampa Bay Rays,Tampa Bay Rays,Texas Rangers,2,7,0.0
+380417115,2018-04-17T23:35Z,Philadelphia Phillies at Atlanta Braves,Atlanta Braves,Philadelphia Phillies,1,5,0.0
+380417108,2018-04-17T23:40Z,Cincinnati Reds at Milwaukee Brewers,Milwaukee Brewers,Cincinnati Reds,2,0,1.0
+380417116,2018-04-18T00:05Z,St. Louis Cardinals at Chicago Cubs,Chicago Cubs,St. Louis Cardinals,3,5,0.0
+380417129,2018-04-18T01:40Z,San Francisco Giants at Arizona Diamondbacks,Arizona Diamondbacks,San Francisco Giants,1,0,1.0
+380417111,2018-04-18T02:05Z,Chicago White Sox at Oakland Athletics,Oakland Athletics,Chicago White Sox,10,2,1.0
+380417103,2018-04-18T02:07Z,Boston Red Sox at Los Angeles Angels,Los Angeles Angels,Boston Red Sox,1,10,0.0
+380417112,2018-04-18T02:10Z,Houston Astros at Seattle Mariners,Seattle Mariners,Houston Astros,1,4,0.0
+380417125,2018-04-18T02:10Z,Los Angeles Dodgers at San Diego Padres,San Diego Padres,Los Angeles Dodgers,3,7,0.0
+380418123,2018-04-18T16:35Z,Colorado Rockies at Pittsburgh Pirates,Pittsburgh Pirates,Colorado Rockies,10,2,1.0
+380418106,2018-04-18T17:10Z,Baltimore Orioles at Detroit Tigers,Detroit Tigers,Baltimore Orioles,6,5,1.0
+380418130,2018-04-18T17:10Z,Texas Rangers at Tampa Bay Rays,Tampa Bay Rays,Texas Rangers,4,2,1.0
+380418108,2018-04-18T17:40Z,Cincinnati Reds at Milwaukee Brewers,Milwaukee Brewers,Cincinnati Reds,2,0,1.0
+380418116,2018-04-18T18:20Z,St. Louis Cardinals at Chicago Cubs,Chicago Cubs,St. Louis Cardinals,0,0,0.5
+380418111,2018-04-18T19:35Z,Chicago White Sox at Oakland Athletics,Oakland Athletics,Chicago White Sox,12,11,1.0
+380418114,2018-04-18T20:07Z,Kansas City Royals at Toronto Blue Jays,Toronto Blue Jays,Kansas City Royals,15,5,1.0
+380418109,2018-04-18T23:00Z,Cleveland Indians at Minnesota Twins,Minnesota Twins,Cleveland Indians,2,1,1.0
+380418121,2018-04-18T23:10Z,Washington Nationals at New York Mets,New York Mets,Washington Nationals,11,5,1.0
+380418115,2018-04-18T23:35Z,Philadelphia Phillies at Atlanta Braves,Atlanta Braves,Philadelphia Phillies,7,3,1.0
+380418129,2018-04-19T01:40Z,San Francisco Giants at Arizona Diamondbacks,Arizona Diamondbacks,San Francisco Giants,3,4,0.0
+380418103,2018-04-19T02:07Z,Boston Red Sox at Los Angeles Angels,Los Angeles Angels,Boston Red Sox,0,9,0.0
+380418125,2018-04-19T02:10Z,Los Angeles Dodgers at San Diego Padres,San Diego Padres,Los Angeles Dodgers,4,13,0.0
+400983157,2018-04-19T02:10Z,Houston Astros at Seattle Mariners,Seattle Mariners,Houston Astros,1,7,0.0
+380419106,2018-04-19T17:10Z,Baltimore Orioles at Detroit Tigers,Detroit Tigers,Baltimore Orioles,13,8,1.0
+380419116,2018-04-19T18:20Z,St. Louis Cardinals at Chicago Cubs,Chicago Cubs,St. Louis Cardinals,8,5,1.0
+380419112,2018-04-19T19:40Z,Houston Astros at Seattle Mariners,Seattle Mariners,Houston Astros,2,9,0.0
+380419110,2018-04-19T22:35Z,Toronto Blue Jays at New York Yankees,New York Yankees,Toronto Blue Jays,4,3,1.0
+380419122,2018-04-19T23:05Z,Pittsburgh Pirates at Philadelphia Phillies,Philadelphia Phillies,Pittsburgh Pirates,7,0,1.0
+380419115,2018-04-19T23:35Z,New York Mets at Atlanta Braves,Atlanta Braves,New York Mets,12,4,1.0
+380419108,2018-04-20T00:10Z,Miami Marlins at Milwaukee Brewers,Milwaukee Brewers,Miami Marlins,12,3,1.0
+380419129,2018-04-20T01:40Z,San Francisco Giants at Arizona Diamondbacks,Arizona Diamondbacks,San Francisco Giants,3,1,1.0
+380419103,2018-04-20T02:07Z,Boston Red Sox at Los Angeles Angels,Los Angeles Angels,Boston Red Sox,2,8,0.0
+401028889,2018-04-20T17:10Z,Kansas City Royals at Detroit Tigers,Detroit Tigers,Kansas City Royals,3,2,1.0
+380420101,2018-04-20T23:05Z,Cleveland Indians at Baltimore Orioles,Baltimore Orioles,Cleveland Indians,3,1,1.0
+380420122,2018-04-20T23:05Z,Pittsburgh Pirates at Philadelphia Phillies,Philadelphia Phillies,Pittsburgh Pirates,2,1,1.0
+400983186,2018-04-20T23:05Z,Toronto Blue Jays at New York Yankees,New York Yankees,Toronto Blue Jays,5,8,0.0
+380420130,2018-04-20T23:10Z,Minnesota Twins at Tampa Bay Rays,Tampa Bay Rays,Minnesota Twins,8,7,1.0
+380420306,2018-04-20T23:10Z,Kansas City Royals at Detroit Tigers,Detroit Tigers,Kansas City Royals,2,3,0.0
+380420115,2018-04-20T23:35Z,New York Mets at Atlanta Braves,Atlanta Braves,New York Mets,3,5,0.0
+380420113,2018-04-21T00:05Z,Seattle Mariners at Texas Rangers,Texas Rangers,Seattle Mariners,2,6,0.0
+380420104,2018-04-21T00:10Z,Houston Astros at Chicago White Sox,Chicago White Sox,Houston Astros,0,10,0.0
+380420108,2018-04-21T00:10Z,Miami Marlins at Milwaukee Brewers,Milwaukee Brewers,Miami Marlins,8,0,1.0
+380420124,2018-04-21T00:15Z,Cincinnati Reds at St. Louis Cardinals,St. Louis Cardinals,Cincinnati Reds,4,2,1.0
+380420127,2018-04-21T00:40Z,Chicago Cubs at Colorado Rockies,Colorado Rockies,Chicago Cubs,5,16,0.0
+380420129,2018-04-21T01:40Z,San Diego Padres at Arizona Diamondbacks,Arizona Diamondbacks,San Diego Padres,1,4,0.0
+400983173,2018-04-21T02:05Z,Boston Red Sox at Oakland Athletics,Oakland Athletics,Boston Red Sox,3,7,0.0
+380420103,2018-04-21T02:07Z,San Francisco Giants at Los Angeles Angels,Los Angeles Angels,San Francisco Giants,1,8,0.0
+380420119,2018-04-21T02:10Z,Washington Nationals at Los Angeles Dodgers,Los Angeles Dodgers,Washington Nationals,2,5,0.0
+380421110,2018-04-21T17:05Z,Toronto Blue Jays at New York Yankees,New York Yankees,Toronto Blue Jays,9,1,1.0
+380421106,2018-04-21T17:10Z,Kansas City Royals at Detroit Tigers,Detroit Tigers,Kansas City Royals,12,4,1.0
+380421124,2018-04-21T18:15Z,Cincinnati Reds at St. Louis Cardinals,St. Louis Cardinals,Cincinnati Reds,4,3,1.0
+380421101,2018-04-21T20:05Z,Cleveland Indians at Baltimore Orioles,Baltimore Orioles,Cleveland Indians,0,4,0.0
+380421122,2018-04-21T20:05Z,Pittsburgh Pirates at Philadelphia Phillies,Philadelphia Phillies,Pittsburgh Pirates,6,2,1.0
+380421130,2018-04-21T22:10Z,Minnesota Twins at Tampa Bay Rays,Tampa Bay Rays,Minnesota Twins,10,1,1.0
+380421104,2018-04-21T23:10Z,Houston Astros at Chicago White Sox,Chicago White Sox,Houston Astros,1,10,0.0
+380421108,2018-04-21T23:10Z,Miami Marlins at Milwaukee Brewers,Milwaukee Brewers,Miami Marlins,6,5,1.0
+380421115,2018-04-21T23:10Z,New York Mets at Atlanta Braves,Atlanta Braves,New York Mets,4,3,1.0
+380421113,2018-04-22T00:05Z,Seattle Mariners at Texas Rangers,Texas Rangers,Seattle Mariners,7,9,0.0
+380421127,2018-04-22T00:10Z,Chicago Cubs at Colorado Rockies,Colorado Rockies,Chicago Cubs,5,2,1.0
+380421129,2018-04-22T00:10Z,San Diego Padres at Arizona Diamondbacks,Arizona Diamondbacks,San Diego Padres,6,2,1.0
+380421111,2018-04-22T01:05Z,Boston Red Sox at Oakland Athletics,Oakland Athletics,Boston Red Sox,3,0,1.0
+380421103,2018-04-22T01:07Z,San Francisco Giants at Los Angeles Angels,Los Angeles Angels,San Francisco Giants,4,3,1.0
+380421119,2018-04-22T01:10Z,Washington Nationals at Los Angeles Dodgers,Los Angeles Dodgers,Washington Nationals,4,0,1.0
+380422101,2018-04-22T17:05Z,Cleveland Indians at Baltimore Orioles,Baltimore Orioles,Cleveland Indians,3,7,0.0
+380422110,2018-04-22T17:05Z,Toronto Blue Jays at New York Yankees,New York Yankees,Toronto Blue Jays,5,1,1.0
+380422106,2018-04-22T17:10Z,Kansas City Royals at Detroit Tigers,Detroit Tigers,Kansas City Royals,5,8,0.0
+380422130,2018-04-22T17:10Z,Minnesota Twins at Tampa Bay Rays,Tampa Bay Rays,Minnesota Twins,8,6,1.0
+380422115,2018-04-22T17:35Z,New York Mets at Atlanta Braves,Atlanta Braves,New York Mets,0,0,0.5
+380422122,2018-04-22T17:35Z,Pittsburgh Pirates at Philadelphia Phillies,Philadelphia Phillies,Pittsburgh Pirates,3,2,1.0
+380422104,2018-04-22T18:10Z,Houston Astros at Chicago White Sox,Chicago White Sox,Houston Astros,1,7,0.0
+380422108,2018-04-22T18:10Z,Miami Marlins at Milwaukee Brewers,Milwaukee Brewers,Miami Marlins,4,2,1.0
+380422124,2018-04-22T18:15Z,Cincinnati Reds at St. Louis Cardinals,St. Louis Cardinals,Cincinnati Reds,9,2,1.0
+380422113,2018-04-22T19:05Z,Seattle Mariners at Texas Rangers,Texas Rangers,Seattle Mariners,7,4,1.0
+380422127,2018-04-22T19:10Z,Chicago Cubs at Colorado Rockies,Colorado Rockies,Chicago Cubs,7,9,0.0
+380422111,2018-04-22T20:05Z,Boston Red Sox at Oakland Athletics,Oakland Athletics,Boston Red Sox,4,1,1.0
+380422103,2018-04-22T20:07Z,San Francisco Giants at Los Angeles Angels,Los Angeles Angels,San Francisco Giants,2,4,0.0
+380422129,2018-04-22T20:10Z,San Diego Padres at Arizona Diamondbacks,Arizona Diamondbacks,San Diego Padres,4,2,1.0
+380422119,2018-04-23T00:00Z,Washington Nationals at Los Angeles Dodgers,Los Angeles Dodgers,Washington Nationals,4,3,1.0
+380423117,2018-04-23T22:40Z,Atlanta Braves at Cincinnati Reds,Cincinnati Reds,Atlanta Braves,10,4,1.0
+380423110,2018-04-23T23:00Z,Minnesota Twins at New York Yankees,New York Yankees,Minnesota Twins,14,1,1.0
+380423101,2018-04-23T23:05Z,Cleveland Indians at Baltimore Orioles,Baltimore Orioles,Cleveland Indians,1,2,0.0
+380423113,2018-04-24T00:05Z,Oakland Athletics at Texas Rangers,Texas Rangers,Oakland Athletics,4,9,0.0
+380423104,2018-04-24T00:10Z,Seattle Mariners at Chicago White Sox,Chicago White Sox,Seattle Mariners,10,4,1.0
+380423118,2018-04-24T00:10Z,Los Angeles Angels at Houston Astros,Houston Astros,Los Angeles Angels,0,2,0.0
+380423127,2018-04-24T00:40Z,San Diego Padres at Colorado Rockies,Colorado Rockies,San Diego Padres,5,13,0.0
+380423119,2018-04-24T02:10Z,Miami Marlins at Los Angeles Dodgers,Los Angeles Dodgers,Miami Marlins,2,1,1.0
+380423126,2018-04-24T02:15Z,Washington Nationals at San Francisco Giants,San Francisco Giants,Washington Nationals,4,2,1.0
+380424104,2018-04-24T21:10Z,Seattle Mariners at Chicago White Sox,Chicago White Sox,Seattle Mariners,0,1,0.0
+380424105,2018-04-24T22:10Z,Chicago Cubs at Cleveland Indians,Cleveland Indians,Chicago Cubs,3,10,0.0
+380424110,2018-04-24T22:35Z,Minnesota Twins at New York Yankees,New York Yankees,Minnesota Twins,8,3,1.0
+400983229,2018-04-24T22:40Z,Atlanta Braves at Cincinnati Reds,Cincinnati Reds,Atlanta Braves,9,7,1.0
+380424101,2018-04-24T23:05Z,Tampa Bay Rays at Baltimore Orioles,Baltimore Orioles,Tampa Bay Rays,0,0,0.5
+380424122,2018-04-24T23:05Z,Arizona Diamondbacks at Philadelphia Phillies,Philadelphia Phillies,Arizona Diamondbacks,4,8,0.0
+380424123,2018-04-24T23:05Z,Detroit Tigers at Pittsburgh Pirates,Pittsburgh Pirates,Detroit Tigers,0,0,0.5
+380424114,2018-04-24T23:07Z,Boston Red Sox at Toronto Blue Jays,Toronto Blue Jays,Boston Red Sox,4,3,1.0
+380424113,2018-04-25T00:05Z,Oakland Athletics at Texas Rangers,Texas Rangers,Oakland Athletics,2,3,0.0
+400983227,2018-04-25T00:10Z,Los Angeles Angels at Houston Astros,Houston Astros,Los Angeles Angels,7,8,0.0
+380424107,2018-04-25T00:15Z,Milwaukee Brewers at Kansas City Royals,Kansas City Royals,Milwaukee Brewers,2,5,0.0
+380424124,2018-04-25T00:15Z,New York Mets at St. Louis Cardinals,St. Louis Cardinals,New York Mets,5,6,0.0
+380424127,2018-04-25T00:40Z,San Diego Padres at Colorado Rockies,Colorado Rockies,San Diego Padres,8,0,1.0
+380424119,2018-04-25T02:10Z,Miami Marlins at Los Angeles Dodgers,Los Angeles Dodgers,Miami Marlins,2,3,0.0
+380424126,2018-04-25T02:15Z,Washington Nationals at San Francisco Giants,San Francisco Giants,Washington Nationals,4,3,1.0
+380425104,2018-04-25T18:10Z,Seattle Mariners at Chicago White Sox,Chicago White Sox,Seattle Mariners,3,4,0.0
+380425118,2018-04-25T18:10Z,Los Angeles Angels at Houston Astros,Houston Astros,Los Angeles Angels,5,2,1.0
+380425127,2018-04-25T19:10Z,San Diego Padres at Colorado Rockies,Colorado Rockies,San Diego Padres,5,2,1.0
+380425126,2018-04-25T19:45Z,Washington Nationals at San Francisco Giants,San Francisco Giants,Washington Nationals,2,15,0.0
+400983247,2018-04-25T20:05Z,Detroit Tigers at Pittsburgh Pirates,Pittsburgh Pirates,Detroit Tigers,10,13,0.0
+380425110,2018-04-25T22:35Z,Minnesota Twins at New York Yankees,New York Yankees,Minnesota Twins,7,4,1.0
+380425117,2018-04-25T22:40Z,Atlanta Braves at Cincinnati Reds,Cincinnati Reds,Atlanta Braves,4,5,0.0
+380425105,2018-04-25T23:00Z,Chicago Cubs at Cleveland Indians,Cleveland Indians,Chicago Cubs,4,1,1.0
+380425101,2018-04-25T23:05Z,Tampa Bay Rays at Baltimore Orioles,Baltimore Orioles,Tampa Bay Rays,4,8,0.0
+380425122,2018-04-25T23:05Z,Arizona Diamondbacks at Philadelphia Phillies,Philadelphia Phillies,Arizona Diamondbacks,5,3,1.0
+380425114,2018-04-25T23:07Z,Boston Red Sox at Toronto Blue Jays,Toronto Blue Jays,Boston Red Sox,3,4,0.0
+380425119,2018-04-25T23:35Z,Miami Marlins at Los Angeles Dodgers,Los Angeles Dodgers,Miami Marlins,6,8,0.0
+380425113,2018-04-26T00:05Z,Oakland Athletics at Texas Rangers,Texas Rangers,Oakland Athletics,4,2,1.0
+380425107,2018-04-26T00:15Z,Milwaukee Brewers at Kansas City Royals,Kansas City Royals,Milwaukee Brewers,2,6,0.0
+400983251,2018-04-26T00:15Z,New York Mets at St. Louis Cardinals,St. Louis Cardinals,New York Mets,9,1,1.0
+380425323,2018-04-26T00:35Z,Detroit Tigers at Pittsburgh Pirates,Pittsburgh Pirates,Detroit Tigers,8,3,1.0
+380426117,2018-04-26T16:35Z,Atlanta Braves at Cincinnati Reds,Cincinnati Reds,Atlanta Braves,4,7,0.0
+380426123,2018-04-26T16:35Z,Detroit Tigers at Pittsburgh Pirates,Pittsburgh Pirates,Detroit Tigers,1,0,1.0
+380426110,2018-04-26T17:05Z,Minnesota Twins at New York Yankees,New York Yankees,Minnesota Twins,4,3,1.0
+380426122,2018-04-26T17:05Z,Arizona Diamondbacks at Philadelphia Phillies,Philadelphia Phillies,Arizona Diamondbacks,2,8,0.0
+380426124,2018-04-26T17:15Z,New York Mets at St. Louis Cardinals,St. Louis Cardinals,New York Mets,4,3,1.0
+380426105,2018-04-26T22:10Z,Seattle Mariners at Cleveland Indians,Cleveland Indians,Seattle Mariners,4,5,0.0
+380426101,2018-04-26T23:05Z,Tampa Bay Rays at Baltimore Orioles,Baltimore Orioles,Tampa Bay Rays,5,9,0.0
+380426114,2018-04-26T23:07Z,Boston Red Sox at Toronto Blue Jays,Toronto Blue Jays,Boston Red Sox,4,5,0.0
+380426116,2018-04-27T00:05Z,Milwaukee Brewers at Chicago Cubs,Chicago Cubs,Milwaukee Brewers,1,0,1.0
+380426107,2018-04-27T00:15Z,Chicago White Sox at Kansas City Royals,Kansas City Royals,Chicago White Sox,3,6,0.0
+380427116,2018-04-27T18:20Z,Milwaukee Brewers at Chicago Cubs,Chicago Cubs,Milwaukee Brewers,3,2,1.0
+380427101,2018-04-27T23:05Z,Detroit Tigers at Baltimore Orioles,Baltimore Orioles,Detroit Tigers,6,0,1.0
+380427120,2018-04-27T23:05Z,Arizona Diamondbacks at Washington Nationals,Washington Nationals,Arizona Diamondbacks,4,5,0.0
+380427122,2018-04-27T23:05Z,Atlanta Braves at Philadelphia Phillies,Philadelphia Phillies,Atlanta Braves,7,3,1.0
+380427123,2018-04-27T23:05Z,St. Louis Cardinals at Pittsburgh Pirates,Pittsburgh Pirates,St. Louis Cardinals,6,5,1.0
+380427114,2018-04-27T23:07Z,Texas Rangers at Toronto Blue Jays,Toronto Blue Jays,Texas Rangers,4,6,0.0
+380427102,2018-04-27T23:10Z,Tampa Bay Rays at Boston Red Sox,Boston Red Sox,Tampa Bay Rays,3,4,0.0
+380427105,2018-04-27T23:10Z,Seattle Mariners at Cleveland Indians,Cleveland Indians,Seattle Mariners,6,5,1.0
+380427128,2018-04-27T23:10Z,Colorado Rockies at Miami Marlins,Miami Marlins,Colorado Rockies,0,1,0.0
+380427109,2018-04-28T00:10Z,Cincinnati Reds at Minnesota Twins,Minnesota Twins,Cincinnati Reds,9,15,0.0
+380427118,2018-04-28T00:10Z,Oakland Athletics at Houston Astros,Houston Astros,Oakland Athletics,1,8,0.0
+380427107,2018-04-28T00:15Z,Chicago White Sox at Kansas City Royals,Kansas City Royals,Chicago White Sox,4,7,0.0
+380427103,2018-04-28T02:07Z,New York Yankees at Los Angeles Angels,Los Angeles Angels,New York Yankees,3,4,0.0
+380427125,2018-04-28T02:10Z,New York Mets at San Diego Padres,San Diego Padres,New York Mets,1,5,0.0
+380427126,2018-04-28T02:15Z,Los Angeles Dodgers at San Francisco Giants,San Francisco Giants,Los Angeles Dodgers,6,4,1.0
+380428109,2018-04-28T18:10Z,Cincinnati Reds at Minnesota Twins,Minnesota Twins,Cincinnati Reds,3,1,1.0
+380428207,2018-04-28T18:15Z,Chicago White Sox at Kansas City Royals,Kansas City Royals,Chicago White Sox,0,8,0.0
+380428116,2018-04-28T18:20Z,Milwaukee Brewers at Chicago Cubs,Chicago Cubs,Milwaukee Brewers,3,0,1.0
+380428102,2018-04-28T20:05Z,Tampa Bay Rays at Boston Red Sox,Boston Red Sox,Tampa Bay Rays,6,12,0.0
+380428120,2018-04-28T20:05Z,Arizona Diamondbacks at Washington Nationals,Washington Nationals,Arizona Diamondbacks,3,4,0.0
+380428226,2018-04-28T20:05Z,Los Angeles Dodgers at San Francisco Giants,San Francisco Giants,Los Angeles Dodgers,6,15,0.0
+380428114,2018-04-28T20:07Z,Texas Rangers at Toronto Blue Jays,Toronto Blue Jays,Texas Rangers,4,7,0.0
+380428105,2018-04-28T20:10Z,Seattle Mariners at Cleveland Indians,Cleveland Indians,Seattle Mariners,4,12,0.0
+380428122,2018-04-28T22:05Z,Atlanta Braves at Philadelphia Phillies,Philadelphia Phillies,Atlanta Braves,1,4,0.0
+380428101,2018-04-28T23:05Z,Detroit Tigers at Baltimore Orioles,Baltimore Orioles,Detroit Tigers,5,9,0.0
+380428123,2018-04-28T23:05Z,St. Louis Cardinals at Pittsburgh Pirates,Pittsburgh Pirates,St. Louis Cardinals,6,2,1.0
+380428118,2018-04-28T23:10Z,Oakland Athletics at Houston Astros,Houston Astros,Oakland Athletics,11,0,1.0
+380428128,2018-04-28T23:10Z,Colorado Rockies at Miami Marlins,Miami Marlins,Colorado Rockies,4,1,1.0
+380428307,2018-04-29T00:15Z,Chicago White Sox at Kansas City Royals,Kansas City Royals,Chicago White Sox,5,2,1.0
+380428125,2018-04-29T00:40Z,New York Mets at San Diego Padres,San Diego Padres,New York Mets,12,2,1.0
+380428103,2018-04-29T01:07Z,New York Yankees at Los Angeles Angels,Los Angeles Angels,New York Yankees,1,11,0.0
+380428326,2018-04-29T02:15Z,Los Angeles Dodgers at San Francisco Giants,San Francisco Giants,Los Angeles Dodgers,8,3,1.0
+380429101,2018-04-29T17:05Z,Detroit Tigers at Baltimore Orioles,Baltimore Orioles,Detroit Tigers,5,3,1.0
+380429102,2018-04-29T17:05Z,Tampa Bay Rays at Boston Red Sox,Boston Red Sox,Tampa Bay Rays,4,3,1.0
+380429114,2018-04-29T17:07Z,Texas Rangers at Toronto Blue Jays,Toronto Blue Jays,Texas Rangers,7,2,1.0
+380429105,2018-04-29T17:10Z,Seattle Mariners at Cleveland Indians,Cleveland Indians,Seattle Mariners,4,10,0.0
+380429128,2018-04-29T17:10Z,Colorado Rockies at Miami Marlins,Miami Marlins,Colorado Rockies,3,0,1.0
+380429120,2018-04-29T17:35Z,Arizona Diamondbacks at Washington Nationals,Washington Nationals,Arizona Diamondbacks,3,1,1.0
+380429122,2018-04-29T17:35Z,Atlanta Braves at Philadelphia Phillies,Philadelphia Phillies,Atlanta Braves,1,10,0.0
+380429123,2018-04-29T17:35Z,St. Louis Cardinals at Pittsburgh Pirates,Pittsburgh Pirates,St. Louis Cardinals,5,0,1.0
+380429109,2018-04-29T18:10Z,Cincinnati Reds at Minnesota Twins,Minnesota Twins,Cincinnati Reds,2,8,0.0
+380429118,2018-04-29T18:10Z,Oakland Athletics at Houston Astros,Houston Astros,Oakland Athletics,8,4,1.0
+380429107,2018-04-29T18:15Z,Chicago White Sox at Kansas City Royals,Kansas City Royals,Chicago White Sox,5,4,1.0
+380429116,2018-04-29T18:20Z,Milwaukee Brewers at Chicago Cubs,Chicago Cubs,Milwaukee Brewers,2,0,1.0
+380429125,2018-04-29T20:10Z,New York Mets at San Diego Padres,San Diego Padres,New York Mets,2,14,0.0
+380429126,2018-04-29T21:05Z,Los Angeles Dodgers at San Francisco Giants,San Francisco Giants,Los Angeles Dodgers,4,2,1.0
+380429103,2018-04-30T00:00Z,New York Yankees at Los Angeles Angels,Los Angeles Angels,New York Yankees,1,2,0.0
+380430105,2018-04-30T22:10Z,Texas Rangers at Cleveland Indians,Cleveland Indians,Texas Rangers,7,5,1.0
+380430116,2018-04-30T23:00Z,Colorado Rockies at Chicago Cubs,Chicago Cubs,Colorado Rockies,3,2,1.0
+380430120,2018-04-30T23:05Z,Pittsburgh Pirates at Washington Nationals,Washington Nationals,Pittsburgh Pirates,3,2,1.0
+380430102,2018-04-30T23:10Z,Kansas City Royals at Boston Red Sox,Boston Red Sox,Kansas City Royals,10,6,1.0
+380430106,2018-04-30T23:10Z,Tampa Bay Rays at Detroit Tigers,Detroit Tigers,Tampa Bay Rays,2,3,0.0
+380430117,2018-04-30T23:10Z,Milwaukee Brewers at Cincinnati Reds,Cincinnati Reds,Milwaukee Brewers,5,6,0.0
+380430128,2018-04-30T23:10Z,Philadelphia Phillies at Miami Marlins,Miami Marlins,Philadelphia Phillies,8,4,1.0
+380430109,2018-05-01T00:10Z,Toronto Blue Jays at Minnesota Twins,Minnesota Twins,Toronto Blue Jays,5,7,0.0
+380430118,2018-05-01T00:10Z,New York Yankees at Houston Astros,Houston Astros,New York Yankees,2,1,1.0
+380430129,2018-05-01T01:40Z,Los Angeles Dodgers at Arizona Diamondbacks,Arizona Diamondbacks,Los Angeles Dodgers,8,5,1.0
+380430126,2018-05-01T02:15Z,San Diego Padres at San Francisco Giants,San Francisco Giants,San Diego Padres,6,5,1.0

@@ -1,0 +1,410 @@
+id,date,event,home,away,hs,as,res
+401568525,2024-04-01T18:10Z,Atlanta Braves at Chicago White Sox,Chicago White Sox,Atlanta Braves,0,9,0.0
+401568529,2024-04-01T18:20Z,Colorado Rockies at Chicago Cubs,Chicago Cubs,Colorado Rockies,5,0,1.0
+401568533,2024-04-01T20:05Z,Pittsburgh Pirates at Washington Nationals,Washington Nationals,Pittsburgh Pirates,4,8,0.0
+401568531,2024-04-01T22:35Z,Kansas City Royals at Baltimore Orioles,Baltimore Orioles,Kansas City Royals,6,4,1.0
+401568524,2024-04-01T22:40Z,Los Angeles Angels at Miami Marlins,Miami Marlins,Los Angeles Angels,4,7,0.0
+401568527,2024-04-01T22:40Z,Cincinnati Reds at Philadelphia Phillies,Philadelphia Phillies,Cincinnati Reds,3,6,0.0
+401568536,2024-04-01T22:50Z,Texas Rangers at Tampa Bay Rays,Tampa Bay Rays,Texas Rangers,3,9,0.0
+401568530,2024-04-01T23:10Z,Detroit Tigers at New York Mets,New York Mets,Detroit Tigers,0,5,0.0
+401568537,2024-04-02T00:10Z,Toronto Blue Jays at Houston Astros,Houston Astros,Toronto Blue Jays,10,0,1.0
+401568526,2024-04-02T01:40Z,Boston Red Sox at Oakland Athletics,Oakland Athletics,Boston Red Sox,0,9,0.0
+401568528,2024-04-02T01:40Z,Cleveland Guardians at Seattle Mariners,Seattle Mariners,Cleveland Guardians,5,4,1.0
+401568532,2024-04-02T01:40Z,New York Yankees at Arizona Diamondbacks,Arizona Diamondbacks,New York Yankees,2,5,0.0
+401568535,2024-04-02T01:40Z,St. Louis Cardinals at San Diego Padres,San Diego Padres,St. Louis Cardinals,2,6,0.0
+401568534,2024-04-02T02:10Z,San Francisco Giants at Los Angeles Dodgers,Los Angeles Dodgers,San Francisco Giants,8,3,1.0
+401568546,2024-04-02T20:10Z,Minnesota Twins at Milwaukee Brewers,Milwaukee Brewers,Minnesota Twins,3,2,1.0
+401568545,2024-04-02T22:35Z,Kansas City Royals at Baltimore Orioles,Baltimore Orioles,Kansas City Royals,1,4,0.0
+401568538,2024-04-02T22:40Z,Los Angeles Angels at Miami Marlins,Miami Marlins,Los Angeles Angels,1,3,0.0
+401568541,2024-04-02T22:40Z,Cincinnati Reds at Philadelphia Phillies,Philadelphia Phillies,Cincinnati Reds,9,4,1.0
+401568550,2024-04-02T22:50Z,Texas Rangers at Tampa Bay Rays,Tampa Bay Rays,Texas Rangers,5,2,1.0
+401568544,2024-04-02T23:10Z,Detroit Tigers at New York Mets,New York Mets,Detroit Tigers,0,0,0.5
+401568539,2024-04-02T23:40Z,Atlanta Braves at Chicago White Sox,Chicago White Sox,Atlanta Braves,3,2,1.0
+401568543,2024-04-02T23:40Z,Colorado Rockies at Chicago Cubs,Chicago Cubs,Colorado Rockies,12,2,1.0
+401568551,2024-04-03T00:10Z,Toronto Blue Jays at Houston Astros,Houston Astros,Toronto Blue Jays,1,2,0.0
+401568540,2024-04-03T01:40Z,Boston Red Sox at Oakland Athletics,Oakland Athletics,Boston Red Sox,4,5,0.0
+401568542,2024-04-03T01:40Z,Cleveland Guardians at Seattle Mariners,Seattle Mariners,Cleveland Guardians,2,5,0.0
+401568547,2024-04-03T01:40Z,New York Yankees at Arizona Diamondbacks,Arizona Diamondbacks,New York Yankees,7,0,1.0
+401568549,2024-04-03T01:40Z,St. Louis Cardinals at San Diego Padres,San Diego Padres,St. Louis Cardinals,2,5,0.0
+401568548,2024-04-03T02:10Z,San Francisco Giants at Los Angeles Dodgers,Los Angeles Dodgers,San Francisco Giants,5,4,1.0
+401568559,2024-04-03T17:05Z,Kansas City Royals at Baltimore Orioles,Baltimore Orioles,Kansas City Royals,4,3,1.0
+401568552,2024-04-03T17:10Z,Los Angeles Angels at Miami Marlins,Miami Marlins,Los Angeles Angels,2,10,0.0
+401568560,2024-04-03T17:10Z,Minnesota Twins at Milwaukee Brewers,Milwaukee Brewers,Minnesota Twins,3,7,0.0
+401568565,2024-04-03T17:10Z,Texas Rangers at Tampa Bay Rays,Tampa Bay Rays,Texas Rangers,1,4,0.0
+401568553,2024-04-03T18:10Z,Atlanta Braves at Chicago White Sox,Chicago White Sox,Atlanta Braves,0,0,0.5
+401568554,2024-04-03T19:37Z,Boston Red Sox at Oakland Athletics,Oakland Athletics,Boston Red Sox,0,1,0.0
+401568561,2024-04-03T19:40Z,New York Yankees at Arizona Diamondbacks,Arizona Diamondbacks,New York Yankees,5,6,0.0
+401568555,2024-04-03T20:05Z,Cincinnati Reds at Philadelphia Phillies,Philadelphia Phillies,Cincinnati Reds,1,4,0.0
+401568556,2024-04-03T20:10Z,Cleveland Guardians at Seattle Mariners,Seattle Mariners,Cleveland Guardians,0,8,0.0
+401568564,2024-04-03T20:10Z,St. Louis Cardinals at San Diego Padres,San Diego Padres,St. Louis Cardinals,3,2,1.0
+401568562,2024-04-03T22:45Z,Pittsburgh Pirates at Washington Nationals,Washington Nationals,Pittsburgh Pirates,5,3,1.0
+401568558,2024-04-03T23:10Z,Detroit Tigers at New York Mets,New York Mets,Detroit Tigers,0,0,0.5
+401568557,2024-04-03T23:40Z,Colorado Rockies at Chicago Cubs,Chicago Cubs,Colorado Rockies,9,8,1.0
+401568566,2024-04-04T00:10Z,Toronto Blue Jays at Houston Astros,Houston Astros,Toronto Blue Jays,8,0,1.0
+401568563,2024-04-04T02:10Z,San Francisco Giants at Los Angeles Dodgers,Los Angeles Dodgers,San Francisco Giants,5,4,1.0
+401652896,2024-04-04T16:10Z,Detroit Tigers at New York Mets,New York Mets,Detroit Tigers,3,6,0.0
+401568570,2024-04-04T20:05Z,Pittsburgh Pirates at Washington Nationals,Washington Nationals,Pittsburgh Pirates,4,7,0.0
+401568568,2024-04-04T20:10Z,Cleveland Guardians at Minnesota Twins,Minnesota Twins,Cleveland Guardians,2,4,0.0
+401568569,2024-04-04T20:15Z,Miami Marlins at St. Louis Cardinals,St. Louis Cardinals,Miami Marlins,8,5,1.0
+401652957,2024-04-04T20:20Z,Detroit Tigers at New York Mets,New York Mets,Detroit Tigers,2,1,1.0
+401568567,2024-04-04T23:40Z,Chicago White Sox at Kansas City Royals,Kansas City Royals,Chicago White Sox,10,1,1.0
+401568583,2024-04-05T17:05Z,Toronto Blue Jays at New York Yankees,New York Yankees,Toronto Blue Jays,0,3,0.0
+401568578,2024-04-05T17:10Z,Oakland Athletics at Detroit Tigers,Detroit Tigers,Oakland Athletics,5,4,1.0
+401568576,2024-04-05T18:20Z,Los Angeles Dodgers at Chicago Cubs,Chicago Cubs,Los Angeles Dodgers,9,7,1.0
+401568582,2024-04-05T20:10Z,Tampa Bay Rays at Colorado Rockies,Colorado Rockies,Tampa Bay Rays,10,7,1.0
+401568572,2024-04-05T20:12Z,Baltimore Orioles at Pittsburgh Pirates,Pittsburgh Pirates,Baltimore Orioles,2,5,0.0
+401568580,2024-04-05T20:35Z,San Diego Padres at San Francisco Giants,San Francisco Giants,San Diego Padres,3,2,1.0
+401568577,2024-04-05T22:40Z,New York Mets at Cincinnati Reds,Cincinnati Reds,New York Mets,2,3,0.0
+401568579,2024-04-05T22:45Z,Philadelphia Phillies at Washington Nationals,Washington Nationals,Philadelphia Phillies,0,4,0.0
+401568571,2024-04-05T23:20Z,Arizona Diamondbacks at Atlanta Braves,Atlanta Braves,Arizona Diamondbacks,6,5,1.0
+401568574,2024-04-05T23:40Z,Chicago White Sox at Kansas City Royals,Kansas City Royals,Chicago White Sox,2,1,1.0
+401568575,2024-04-06T00:05Z,Houston Astros at Texas Rangers,Texas Rangers,Houston Astros,10,2,1.0
+401568581,2024-04-06T00:10Z,Seattle Mariners at Milwaukee Brewers,Milwaukee Brewers,Seattle Mariners,6,5,1.0
+401568573,2024-04-06T01:38Z,Boston Red Sox at Los Angeles Angels,Los Angeles Angels,Boston Red Sox,6,8,0.0
+401568593,2024-04-06T17:10Z,Oakland Athletics at Detroit Tigers,Detroit Tigers,Oakland Athletics,0,4,0.0
+401568588,2024-04-06T18:10Z,Cleveland Guardians at Minnesota Twins,Minnesota Twins,Cleveland Guardians,1,3,0.0
+401568591,2024-04-06T18:15Z,Miami Marlins at St. Louis Cardinals,St. Louis Cardinals,Miami Marlins,3,1,1.0
+401568585,2024-04-06T20:05Z,Baltimore Orioles at Pittsburgh Pirates,Pittsburgh Pirates,Baltimore Orioles,5,4,1.0
+401568590,2024-04-06T20:05Z,Los Angeles Dodgers at Chicago Cubs,Chicago Cubs,Los Angeles Dodgers,1,4,0.0
+401568594,2024-04-06T20:05Z,Philadelphia Phillies at Washington Nationals,Washington Nationals,Philadelphia Phillies,2,5,0.0
+401568592,2024-04-06T20:10Z,New York Mets at Cincinnati Reds,Cincinnati Reds,New York Mets,9,6,1.0
+401568589,2024-04-06T23:05Z,Houston Astros at Texas Rangers,Texas Rangers,Houston Astros,7,2,1.0
+401568598,2024-04-06T23:05Z,Toronto Blue Jays at New York Yankees,New York Yankees,Toronto Blue Jays,9,8,1.0
+401568587,2024-04-06T23:10Z,Chicago White Sox at Kansas City Royals,Kansas City Royals,Chicago White Sox,3,0,1.0
+401568596,2024-04-06T23:10Z,Seattle Mariners at Milwaukee Brewers,Milwaukee Brewers,Seattle Mariners,3,5,0.0
+401568584,2024-04-06T23:20Z,Arizona Diamondbacks at Atlanta Braves,Atlanta Braves,Arizona Diamondbacks,9,8,1.0
+401568597,2024-04-07T00:10Z,Tampa Bay Rays at Colorado Rockies,Colorado Rockies,Tampa Bay Rays,6,8,0.0
+401568595,2024-04-07T01:05Z,San Diego Padres at San Francisco Giants,San Francisco Giants,San Diego Padres,0,4,0.0
+401568586,2024-04-07T01:38Z,Boston Red Sox at Los Angeles Angels,Los Angeles Angels,Boston Red Sox,2,1,1.0
+401568599,2024-04-07T17:35Z,Arizona Diamondbacks at Atlanta Braves,Atlanta Braves,Arizona Diamondbacks,5,2,1.0
+401568600,2024-04-07T17:35Z,Baltimore Orioles at Pittsburgh Pirates,Pittsburgh Pirates,Baltimore Orioles,3,2,1.0
+401568609,2024-04-07T17:35Z,Philadelphia Phillies at Washington Nationals,Washington Nationals,Philadelphia Phillies,3,2,1.0
+401568613,2024-04-07T17:35Z,Toronto Blue Jays at New York Yankees,New York Yankees,Toronto Blue Jays,8,3,1.0
+401568607,2024-04-07T17:40Z,New York Mets at Cincinnati Reds,Cincinnati Reds,New York Mets,1,3,0.0
+401568608,2024-04-07T17:40Z,Oakland Athletics at Detroit Tigers,Detroit Tigers,Oakland Athletics,1,7,0.0
+401568602,2024-04-07T18:10Z,Chicago White Sox at Kansas City Royals,Kansas City Royals,Chicago White Sox,5,3,1.0
+401568603,2024-04-07T18:10Z,Cleveland Guardians at Minnesota Twins,Minnesota Twins,Cleveland Guardians,0,0,0.5
+401568611,2024-04-07T18:10Z,Seattle Mariners at Milwaukee Brewers,Milwaukee Brewers,Seattle Mariners,12,4,1.0
+401568606,2024-04-07T18:15Z,Miami Marlins at St. Louis Cardinals,St. Louis Cardinals,Miami Marlins,3,10,0.0
+401568605,2024-04-07T18:20Z,Los Angeles Dodgers at Chicago Cubs,Chicago Cubs,Los Angeles Dodgers,8,1,1.0
+401568612,2024-04-07T19:10Z,Tampa Bay Rays at Colorado Rockies,Colorado Rockies,Tampa Bay Rays,2,3,0.0
+401568610,2024-04-07T20:05Z,San Diego Padres at San Francisco Giants,San Francisco Giants,San Diego Padres,3,2,1.0
+401568601,2024-04-07T20:07Z,Boston Red Sox at Los Angeles Angels,Los Angeles Angels,Boston Red Sox,2,12,0.0
+401568604,2024-04-07T23:00Z,Houston Astros at Texas Rangers,Texas Rangers,Houston Astros,1,3,0.0
+401568615,2024-04-08T21:10Z,Chicago White Sox at Cleveland Guardians,Cleveland Guardians,Chicago White Sox,4,0,1.0
+401568620,2024-04-08T22:05Z,Miami Marlins at New York Yankees,New York Yankees,Miami Marlins,7,0,1.0
+401568617,2024-04-08T22:40Z,Detroit Tigers at Pittsburgh Pirates,Pittsburgh Pirates,Detroit Tigers,7,4,1.0
+401568621,2024-04-08T22:40Z,Milwaukee Brewers at Cincinnati Reds,Cincinnati Reds,Milwaukee Brewers,10,8,1.0
+401568624,2024-04-08T23:07Z,Seattle Mariners at Toronto Blue Jays,Toronto Blue Jays,Seattle Mariners,5,2,1.0
+401568622,2024-04-08T23:20Z,New York Mets at Atlanta Braves,Atlanta Braves,New York Mets,7,8,0.0
+401568619,2024-04-08T23:40Z,Los Angeles Dodgers at Minnesota Twins,Minnesota Twins,Los Angeles Dodgers,2,4,0.0
+401568623,2024-04-08T23:45Z,Philadelphia Phillies at St. Louis Cardinals,St. Louis Cardinals,Philadelphia Phillies,3,5,0.0
+401568618,2024-04-09T00:05Z,Houston Astros at Texas Rangers,Texas Rangers,Houston Astros,5,10,0.0
+401568614,2024-04-09T00:40Z,Arizona Diamondbacks at Colorado Rockies,Colorado Rockies,Arizona Diamondbacks,7,5,1.0
+401568625,2024-04-09T01:38Z,Tampa Bay Rays at Los Angeles Angels,Los Angeles Angels,Tampa Bay Rays,7,1,1.0
+401568616,2024-04-09T01:40Z,Chicago Cubs at San Diego Padres,San Diego Padres,Chicago Cubs,9,8,1.0
+401568626,2024-04-09T01:45Z,Washington Nationals at San Francisco Giants,San Francisco Giants,Washington Nationals,1,8,0.0
+401568631,2024-04-09T16:35Z,Detroit Tigers at Pittsburgh Pirates,Pittsburgh Pirates,Detroit Tigers,3,5,0.0
+401568628,2024-04-09T18:10Z,Baltimore Orioles at Boston Red Sox,Boston Red Sox,Baltimore Orioles,1,7,0.0
+401568629,2024-04-09T22:10Z,Chicago White Sox at Cleveland Guardians,Cleveland Guardians,Chicago White Sox,5,7,0.0
+401568635,2024-04-09T22:40Z,Milwaukee Brewers at Cincinnati Reds,Cincinnati Reds,Milwaukee Brewers,5,9,0.0
+401568634,2024-04-09T23:05Z,Miami Marlins at New York Yankees,New York Yankees,Miami Marlins,3,2,1.0
+401568639,2024-04-09T23:07Z,Seattle Mariners at Toronto Blue Jays,Toronto Blue Jays,Seattle Mariners,5,3,1.0
+401568636,2024-04-09T23:20Z,New York Mets at Atlanta Braves,Atlanta Braves,New York Mets,6,5,1.0
+401568632,2024-04-09T23:40Z,Houston Astros at Kansas City Royals,Kansas City Royals,Houston Astros,4,3,1.0
+401568633,2024-04-09T23:40Z,Los Angeles Dodgers at Minnesota Twins,Minnesota Twins,Los Angeles Dodgers,3,6,0.0
+401568638,2024-04-09T23:45Z,Philadelphia Phillies at St. Louis Cardinals,St. Louis Cardinals,Philadelphia Phillies,3,0,1.0
+401568637,2024-04-10T00:05Z,Oakland Athletics at Texas Rangers,Texas Rangers,Oakland Athletics,3,4,0.0
+401568627,2024-04-10T00:40Z,Arizona Diamondbacks at Colorado Rockies,Colorado Rockies,Arizona Diamondbacks,2,3,0.0
+401568640,2024-04-10T01:38Z,Tampa Bay Rays at Los Angeles Angels,Los Angeles Angels,Tampa Bay Rays,4,6,0.0
+401568641,2024-04-10T01:45Z,Washington Nationals at San Francisco Giants,San Francisco Giants,Washington Nationals,3,5,0.0
+401568630,2024-04-10T02:05Z,Chicago Cubs at San Diego Padres,San Diego Padres,Chicago Cubs,1,5,0.0
+401568647,2024-04-10T17:10Z,Los Angeles Dodgers at Minnesota Twins,Minnesota Twins,Los Angeles Dodgers,3,2,1.0
+401568652,2024-04-10T17:15Z,Philadelphia Phillies at St. Louis Cardinals,St. Louis Cardinals,Philadelphia Phillies,3,4,0.0
+401568653,2024-04-10T19:07Z,Seattle Mariners at Toronto Blue Jays,Toronto Blue Jays,Seattle Mariners,1,6,0.0
+401568642,2024-04-10T19:10Z,Arizona Diamondbacks at Colorado Rockies,Colorado Rockies,Arizona Diamondbacks,3,5,0.0
+401568655,2024-04-10T19:45Z,Washington Nationals at San Francisco Giants,San Francisco Giants,Washington Nationals,7,1,1.0
+401568654,2024-04-10T20:07Z,Tampa Bay Rays at Los Angeles Angels,Los Angeles Angels,Tampa Bay Rays,2,4,0.0
+401568644,2024-04-10T22:10Z,Chicago White Sox at Cleveland Guardians,Cleveland Guardians,Chicago White Sox,7,6,1.0
+401568645,2024-04-10T22:40Z,Chicago Cubs at San Diego Padres,San Diego Padres,Chicago Cubs,10,2,1.0
+401568649,2024-04-10T22:40Z,Milwaukee Brewers at Cincinnati Reds,Cincinnati Reds,Milwaukee Brewers,2,7,0.0
+401568648,2024-04-10T23:05Z,Miami Marlins at New York Yankees,New York Yankees,Miami Marlins,2,5,0.0
+401568643,2024-04-10T23:10Z,Baltimore Orioles at Boston Red Sox,Boston Red Sox,Baltimore Orioles,5,7,0.0
+401568650,2024-04-10T23:20Z,New York Mets at Atlanta Braves,Atlanta Braves,New York Mets,0,0,0.5
+401568646,2024-04-10T23:40Z,Houston Astros at Kansas City Royals,Kansas City Royals,Houston Astros,11,2,1.0
+401568651,2024-04-11T00:05Z,Oakland Athletics at Texas Rangers,Texas Rangers,Oakland Athletics,6,2,1.0
+401568660,2024-04-11T16:20Z,New York Mets at Atlanta Braves,Atlanta Braves,New York Mets,4,16,0.0
+401568658,2024-04-11T17:10Z,Milwaukee Brewers at Cincinnati Reds,Cincinnati Reds,Milwaukee Brewers,0,0,0.5
+401568659,2024-04-11T17:10Z,Minnesota Twins at Detroit Tigers,Detroit Tigers,Minnesota Twins,0,0,0.5
+401568657,2024-04-11T18:10Z,Houston Astros at Kansas City Royals,Kansas City Royals,Houston Astros,13,3,1.0
+401568661,2024-04-11T18:35Z,Oakland Athletics at Texas Rangers,Texas Rangers,Oakland Athletics,0,1,0.0
+401568662,2024-04-11T22:40Z,Pittsburgh Pirates at Philadelphia Phillies,Philadelphia Phillies,Pittsburgh Pirates,5,1,1.0
+401568656,2024-04-11T23:10Z,Baltimore Orioles at Boston Red Sox,Boston Red Sox,Baltimore Orioles,4,9,0.0
+401568670,2024-04-12T22:40Z,Minnesota Twins at Detroit Tigers,Detroit Tigers,Minnesota Twins,8,2,1.0
+401568672,2024-04-12T22:40Z,Pittsburgh Pirates at Philadelphia Phillies,Philadelphia Phillies,Pittsburgh Pirates,2,5,0.0
+401568674,2024-04-12T22:50Z,San Francisco Giants at Tampa Bay Rays,Tampa Bay Rays,San Francisco Giants,2,1,1.0
+401568669,2024-04-12T23:05Z,Milwaukee Brewers at Baltimore Orioles,Baltimore Orioles,Milwaukee Brewers,1,11,0.0
+401568667,2024-04-12T23:07Z,Colorado Rockies at Toronto Blue Jays,Toronto Blue Jays,Colorado Rockies,4,12,0.0
+401568663,2024-04-12T23:10Z,Los Angeles Angels at Boston Red Sox,Boston Red Sox,Los Angeles Angels,0,7,0.0
+401568664,2024-04-12T23:10Z,Atlanta Braves at Miami Marlins,Miami Marlins,Atlanta Braves,1,8,0.0
+401568668,2024-04-12T23:10Z,Kansas City Royals at New York Mets,New York Mets,Kansas City Royals,6,1,1.0
+401568671,2024-04-12T23:10Z,New York Yankees at Cleveland Guardians,Cleveland Guardians,New York Yankees,0,0,0.5
+401568666,2024-04-12T23:40Z,Cincinnati Reds at Chicago White Sox,Chicago White Sox,Cincinnati Reds,1,11,0.0
+401568676,2024-04-13T00:10Z,Texas Rangers at Houston Astros,Houston Astros,Texas Rangers,8,12,0.0
+401568665,2024-04-13T01:40Z,Chicago Cubs at Seattle Mariners,Seattle Mariners,Chicago Cubs,4,2,1.0
+401568675,2024-04-13T01:40Z,St. Louis Cardinals at Arizona Diamondbacks,Arizona Diamondbacks,St. Louis Cardinals,6,9,0.0
+401568677,2024-04-13T01:40Z,Washington Nationals at Oakland Athletics,Oakland Athletics,Washington Nationals,2,1,1.0
+401568673,2024-04-13T02:10Z,San Diego Padres at Los Angeles Dodgers,Los Angeles Dodgers,San Diego Padres,7,8,0.0
+401654406,2024-04-13T16:10Z,New York Yankees at Cleveland Guardians,Cleveland Guardians,New York Yankees,2,3,0.0
+401568685,2024-04-13T17:10Z,Minnesota Twins at Detroit Tigers,Detroit Tigers,Minnesota Twins,5,11,0.0
+401568683,2024-04-13T17:40Z,Kansas City Royals at New York Mets,New York Mets,Kansas City Royals,7,11,0.0
+401568681,2024-04-13T18:10Z,Cincinnati Reds at Chicago White Sox,Chicago White Sox,Cincinnati Reds,0,5,0.0
+401568682,2024-04-13T19:07Z,Colorado Rockies at Toronto Blue Jays,Toronto Blue Jays,Colorado Rockies,5,3,1.0
+401568684,2024-04-13T20:05Z,Milwaukee Brewers at Baltimore Orioles,Baltimore Orioles,Milwaukee Brewers,5,11,0.0
+401568687,2024-04-13T20:05Z,Pittsburgh Pirates at Philadelphia Phillies,Philadelphia Phillies,Pittsburgh Pirates,4,3,1.0
+401568691,2024-04-13T20:05Z,Texas Rangers at Houston Astros,Houston Astros,Texas Rangers,9,2,1.0
+401568692,2024-04-13T20:07Z,Washington Nationals at Oakland Athletics,Oakland Athletics,Washington Nationals,1,3,0.0
+401568678,2024-04-13T20:10Z,Los Angeles Angels at Boston Red Sox,Boston Red Sox,Los Angeles Angels,7,2,1.0
+401568679,2024-04-13T20:10Z,Atlanta Braves at Miami Marlins,Miami Marlins,Atlanta Braves,5,1,1.0
+401568689,2024-04-13T20:10Z,San Francisco Giants at Tampa Bay Rays,Tampa Bay Rays,San Francisco Giants,2,11,0.0
+401654220,2024-04-13T21:05Z,Minnesota Twins at Detroit Tigers,Detroit Tigers,Minnesota Twins,1,4,0.0
+401568686,2024-04-13T22:10Z,New York Yankees at Cleveland Guardians,Cleveland Guardians,New York Yankees,2,8,0.0
+401568690,2024-04-14T00:10Z,St. Louis Cardinals at Arizona Diamondbacks,Arizona Diamondbacks,St. Louis Cardinals,4,2,1.0
+401568688,2024-04-14T01:10Z,San Diego Padres at Los Angeles Dodgers,Los Angeles Dodgers,San Diego Padres,5,2,1.0
+401568680,2024-04-14T01:40Z,Chicago Cubs at Seattle Mariners,Seattle Mariners,Chicago Cubs,1,4,0.0
+401568693,2024-04-14T17:35Z,Los Angeles Angels at Boston Red Sox,Boston Red Sox,Los Angeles Angels,5,4,1.0
+401568699,2024-04-14T17:35Z,Milwaukee Brewers at Baltimore Orioles,Baltimore Orioles,Milwaukee Brewers,6,4,1.0
+401568702,2024-04-14T17:35Z,Pittsburgh Pirates at Philadelphia Phillies,Philadelphia Phillies,Pittsburgh Pirates,2,9,0.0
+401568697,2024-04-14T17:37Z,Colorado Rockies at Toronto Blue Jays,Toronto Blue Jays,Colorado Rockies,5,0,1.0
+401568694,2024-04-14T17:40Z,Atlanta Braves at Miami Marlins,Miami Marlins,Atlanta Braves,7,9,0.0
+401568698,2024-04-14T17:40Z,Kansas City Royals at New York Mets,New York Mets,Kansas City Royals,2,1,1.0
+401568700,2024-04-14T17:40Z,Minnesota Twins at Detroit Tigers,Detroit Tigers,Minnesota Twins,4,3,1.0
+401568701,2024-04-14T17:40Z,New York Yankees at Cleveland Guardians,Cleveland Guardians,New York Yankees,8,7,1.0
+401568704,2024-04-14T17:40Z,San Francisco Giants at Tampa Bay Rays,Tampa Bay Rays,San Francisco Giants,9,4,1.0
+401568696,2024-04-14T18:10Z,Cincinnati Reds at Chicago White Sox,Chicago White Sox,Cincinnati Reds,4,11,0.0
+401568706,2024-04-14T18:10Z,Texas Rangers at Houston Astros,Houston Astros,Texas Rangers,8,5,1.0
+401568707,2024-04-14T20:07Z,Washington Nationals at Oakland Athletics,Oakland Athletics,Washington Nationals,7,6,1.0
+401568695,2024-04-14T20:10Z,Chicago Cubs at Seattle Mariners,Seattle Mariners,Chicago Cubs,2,3,0.0
+401568705,2024-04-14T20:10Z,St. Louis Cardinals at Arizona Diamondbacks,Arizona Diamondbacks,St. Louis Cardinals,5,0,1.0
+401568703,2024-04-14T23:00Z,San Diego Padres at Los Angeles Dodgers,Los Angeles Dodgers,San Diego Padres,3,6,0.0
+401568712,2024-04-15T15:10Z,Cleveland Guardians at Boston Red Sox,Boston Red Sox,Cleveland Guardians,0,6,0.0
+401568715,2024-04-15T22:35Z,Minnesota Twins at Baltimore Orioles,Baltimore Orioles,Minnesota Twins,7,4,1.0
+401568713,2024-04-15T22:40Z,Colorado Rockies at Philadelphia Phillies,Philadelphia Phillies,Colorado Rockies,2,1,1.0
+401568719,2024-04-15T22:40Z,San Francisco Giants at Miami Marlins,Miami Marlins,San Francisco Giants,3,4,0.0
+401568721,2024-04-15T22:40Z,Texas Rangers at Detroit Tigers,Detroit Tigers,Texas Rangers,0,1,0.0
+401568708,2024-04-15T22:50Z,Los Angeles Angels at Tampa Bay Rays,Tampa Bay Rays,Los Angeles Angels,3,7,0.0
+401568716,2024-04-15T23:07Z,New York Yankees at Toronto Blue Jays,Toronto Blue Jays,New York Yankees,3,1,1.0
+401568717,2024-04-15T23:10Z,Pittsburgh Pirates at New York Mets,New York Mets,Pittsburgh Pirates,6,3,1.0
+401568714,2024-04-15T23:40Z,Kansas City Royals at Chicago White Sox,Chicago White Sox,Kansas City Royals,0,2,0.0
+401568718,2024-04-15T23:40Z,San Diego Padres at Milwaukee Brewers,Milwaukee Brewers,San Diego Padres,3,7,0.0
+401568709,2024-04-16T00:10Z,Atlanta Braves at Houston Astros,Houston Astros,Atlanta Braves,1,6,0.0
+401568710,2024-04-16T01:40Z,Chicago Cubs at Arizona Diamondbacks,Arizona Diamondbacks,Chicago Cubs,2,3,0.0
+401568720,2024-04-16T01:40Z,St. Louis Cardinals at Oakland Athletics,Oakland Athletics,St. Louis Cardinals,1,3,0.0
+401568711,2024-04-16T01:42Z,Cincinnati Reds at Seattle Mariners,Seattle Mariners,Cincinnati Reds,9,3,1.0
+401568722,2024-04-16T02:10Z,Washington Nationals at Los Angeles Dodgers,Los Angeles Dodgers,Washington Nationals,4,6,0.0
+401568736,2024-04-16T17:10Z,Texas Rangers at Detroit Tigers,Detroit Tigers,Texas Rangers,4,2,1.0
+401568730,2024-04-16T22:35Z,Minnesota Twins at Baltimore Orioles,Baltimore Orioles,Minnesota Twins,11,3,1.0
+401568728,2024-04-16T22:40Z,Colorado Rockies at Philadelphia Phillies,Philadelphia Phillies,Colorado Rockies,5,0,1.0
+401568734,2024-04-16T22:40Z,San Francisco Giants at Miami Marlins,Miami Marlins,San Francisco Giants,6,3,1.0
+401568723,2024-04-16T22:50Z,Los Angeles Angels at Tampa Bay Rays,Tampa Bay Rays,Los Angeles Angels,7,6,1.0
+401568731,2024-04-16T23:07Z,New York Yankees at Toronto Blue Jays,Toronto Blue Jays,New York Yankees,5,4,1.0
+401568727,2024-04-16T23:10Z,Cleveland Guardians at Boston Red Sox,Boston Red Sox,Cleveland Guardians,7,10,0.0
+401568732,2024-04-16T23:10Z,Pittsburgh Pirates at New York Mets,New York Mets,Pittsburgh Pirates,3,1,1.0
+401568729,2024-04-16T23:40Z,Kansas City Royals at Chicago White Sox,Chicago White Sox,Kansas City Royals,0,0,0.5
+401568733,2024-04-16T23:40Z,San Diego Padres at Milwaukee Brewers,Milwaukee Brewers,San Diego Padres,3,6,0.0
+401568724,2024-04-17T00:10Z,Atlanta Braves at Houston Astros,Houston Astros,Atlanta Braves,2,6,0.0
+401568725,2024-04-17T01:40Z,Chicago Cubs at Arizona Diamondbacks,Arizona Diamondbacks,Chicago Cubs,12,11,1.0
+401568726,2024-04-17T01:40Z,Cincinnati Reds at Seattle Mariners,Seattle Mariners,Cincinnati Reds,3,1,1.0
+401568735,2024-04-17T01:40Z,St. Louis Cardinals at Oakland Athletics,Oakland Athletics,St. Louis Cardinals,2,3,0.0
+401568737,2024-04-17T02:10Z,Washington Nationals at Los Angeles Dodgers,Los Angeles Dodgers,Washington Nationals,6,2,1.0
+401568749,2024-04-17T16:10Z,San Francisco Giants at Miami Marlins,Miami Marlins,San Francisco Giants,1,3,0.0
+401568745,2024-04-17T17:05Z,Minnesota Twins at Baltimore Orioles,Baltimore Orioles,Minnesota Twins,4,2,1.0
+401568747,2024-04-17T17:10Z,Pittsburgh Pirates at New York Mets,New York Mets,Pittsburgh Pirates,9,1,1.0
+401568748,2024-04-17T17:10Z,San Diego Padres at Milwaukee Brewers,Milwaukee Brewers,San Diego Padres,1,0,1.0
+401568751,2024-04-17T17:10Z,Texas Rangers at Detroit Tigers,Detroit Tigers,Texas Rangers,4,5,0.0
+401568739,2024-04-17T18:10Z,Atlanta Braves at Houston Astros,Houston Astros,Atlanta Braves,4,5,0.0
+401568744,2024-04-17T18:10Z,Kansas City Royals at Chicago White Sox,Chicago White Sox,Kansas City Royals,2,4,0.0
+401568746,2024-04-17T19:07Z,New York Yankees at Toronto Blue Jays,Toronto Blue Jays,New York Yankees,4,6,0.0
+401568752,2024-04-17T19:10Z,Washington Nationals at Los Angeles Dodgers,Los Angeles Dodgers,Washington Nationals,0,2,0.0
+401568750,2024-04-17T19:37Z,St. Louis Cardinals at Oakland Athletics,Oakland Athletics,St. Louis Cardinals,6,3,1.0
+401568740,2024-04-17T19:40Z,Chicago Cubs at Arizona Diamondbacks,Arizona Diamondbacks,Chicago Cubs,3,5,0.0
+401568741,2024-04-17T20:10Z,Cincinnati Reds at Seattle Mariners,Seattle Mariners,Cincinnati Reds,5,1,1.0
+401655064,2024-04-17T21:25Z,Kansas City Royals at Chicago White Sox,Chicago White Sox,Kansas City Royals,2,1,1.0
+401568743,2024-04-17T22:05Z,Colorado Rockies at Philadelphia Phillies,Philadelphia Phillies,Colorado Rockies,7,6,1.0
+401568738,2024-04-17T22:50Z,Los Angeles Angels at Tampa Bay Rays,Tampa Bay Rays,Los Angeles Angels,4,5,0.0
+401568742,2024-04-17T23:10Z,Cleveland Guardians at Boston Red Sox,Boston Red Sox,Cleveland Guardians,2,0,1.0
+401568753,2024-04-18T17:10Z,Los Angeles Angels at Tampa Bay Rays,Tampa Bay Rays,Los Angeles Angels,2,1,1.0
+401568757,2024-04-18T17:10Z,Texas Rangers at Detroit Tigers,Detroit Tigers,Texas Rangers,7,9,0.0
+401568755,2024-04-18T17:35Z,Cleveland Guardians at Boston Red Sox,Boston Red Sox,Cleveland Guardians,4,5,0.0
+401568756,2024-04-18T23:40Z,Miami Marlins at Chicago Cubs,Chicago Cubs,Miami Marlins,0,0,0.5
+401568754,2024-04-19T01:45Z,Arizona Diamondbacks at San Francisco Giants,San Francisco Giants,Arizona Diamondbacks,5,0,1.0
+401568765,2024-04-19T18:20Z,Miami Marlins at Chicago Cubs,Chicago Cubs,Miami Marlins,8,3,1.0
+401568758,2024-04-19T22:40Z,Los Angeles Angels at Cincinnati Reds,Cincinnati Reds,Los Angeles Angels,7,1,1.0
+401568761,2024-04-19T22:40Z,Boston Red Sox at Pittsburgh Pirates,Pittsburgh Pirates,Boston Red Sox,1,8,0.0
+401568762,2024-04-19T22:40Z,Chicago White Sox at Philadelphia Phillies,Philadelphia Phillies,Chicago White Sox,7,0,1.0
+401568764,2024-04-19T22:45Z,Houston Astros at Washington Nationals,Washington Nationals,Houston Astros,3,5,0.0
+401568770,2024-04-19T23:05Z,Tampa Bay Rays at New York Yankees,New York Yankees,Tampa Bay Rays,5,3,1.0
+401568768,2024-04-19T23:10Z,Oakland Athletics at Cleveland Guardians,Cleveland Guardians,Oakland Athletics,10,2,1.0
+401568771,2024-04-19T23:20Z,Texas Rangers at Atlanta Braves,Atlanta Braves,Texas Rangers,8,3,1.0
+401568760,2024-04-19T23:40Z,Baltimore Orioles at Kansas City Royals,Kansas City Royals,Baltimore Orioles,9,4,1.0
+401568763,2024-04-20T00:10Z,Detroit Tigers at Minnesota Twins,Minnesota Twins,Detroit Tigers,4,5,0.0
+401568766,2024-04-20T00:15Z,Milwaukee Brewers at St. Louis Cardinals,St. Louis Cardinals,Milwaukee Brewers,1,2,0.0
+401568769,2024-04-20T00:40Z,Seattle Mariners at Colorado Rockies,Colorado Rockies,Seattle Mariners,0,0,0.5
+401568772,2024-04-20T01:40Z,Toronto Blue Jays at San Diego Padres,San Diego Padres,Toronto Blue Jays,1,5,0.0
+401568767,2024-04-20T02:10Z,New York Mets at Los Angeles Dodgers,Los Angeles Dodgers,New York Mets,4,9,0.0
+401568759,2024-04-20T02:15Z,Arizona Diamondbacks at San Francisco Giants,San Francisco Giants,Arizona Diamondbacks,1,17,0.0
+401568785,2024-04-20T17:05Z,Tampa Bay Rays at New York Yankees,New York Yankees,Tampa Bay Rays,0,2,0.0
+401568778,2024-04-20T18:10Z,Detroit Tigers at Minnesota Twins,Minnesota Twins,Detroit Tigers,4,3,1.0
+401568781,2024-04-20T18:15Z,Milwaukee Brewers at St. Louis Cardinals,St. Louis Cardinals,Milwaukee Brewers,5,12,0.0
+401568780,2024-04-20T18:20Z,Miami Marlins at Chicago Cubs,Chicago Cubs,Miami Marlins,2,3,0.0
+401568774,2024-04-20T20:05Z,Arizona Diamondbacks at San Francisco Giants,San Francisco Giants,Arizona Diamondbacks,7,3,1.0
+401568776,2024-04-20T20:05Z,Boston Red Sox at Pittsburgh Pirates,Pittsburgh Pirates,Boston Red Sox,2,4,0.0
+401568779,2024-04-20T20:05Z,Houston Astros at Washington Nationals,Washington Nationals,Houston Astros,5,4,1.0
+401568782,2024-04-20T20:05Z,New York Mets at Los Angeles Dodgers,Los Angeles Dodgers,New York Mets,4,6,0.0
+401568777,2024-04-20T22:05Z,Chicago White Sox at Philadelphia Phillies,Philadelphia Phillies,Chicago White Sox,9,5,1.0
+401568783,2024-04-20T22:10Z,Oakland Athletics at Cleveland Guardians,Cleveland Guardians,Oakland Athletics,6,3,1.0
+401568773,2024-04-20T22:40Z,Los Angeles Angels at Cincinnati Reds,Cincinnati Reds,Los Angeles Angels,7,5,1.0
+401568775,2024-04-20T23:10Z,Baltimore Orioles at Kansas City Royals,Kansas City Royals,Baltimore Orioles,7,9,0.0
+401568786,2024-04-20T23:20Z,Texas Rangers at Atlanta Braves,Atlanta Braves,Texas Rangers,5,2,1.0
+401655505,2024-04-20T23:40Z,Miami Marlins at Chicago Cubs,Chicago Cubs,Miami Marlins,5,3,1.0
+401568784,2024-04-21T00:10Z,Seattle Mariners at Colorado Rockies,Colorado Rockies,Seattle Mariners,0,7,0.0
+401568787,2024-04-21T00:40Z,Toronto Blue Jays at San Diego Padres,San Diego Padres,Toronto Blue Jays,2,5,0.0
+401568791,2024-04-21T17:35Z,Boston Red Sox at Pittsburgh Pirates,Pittsburgh Pirates,Boston Red Sox,1,6,0.0
+401568792,2024-04-21T17:35Z,Chicago White Sox at Philadelphia Phillies,Philadelphia Phillies,Chicago White Sox,8,2,1.0
+401568794,2024-04-21T17:35Z,Houston Astros at Washington Nationals,Washington Nationals,Houston Astros,6,0,1.0
+401568800,2024-04-21T17:35Z,Tampa Bay Rays at New York Yankees,New York Yankees,Tampa Bay Rays,5,4,1.0
+401568788,2024-04-21T17:40Z,Los Angeles Angels at Cincinnati Reds,Cincinnati Reds,Los Angeles Angels,3,0,1.0
+401568798,2024-04-21T17:40Z,Oakland Athletics at Cleveland Guardians,Cleveland Guardians,Oakland Athletics,6,2,1.0
+401568790,2024-04-21T18:10Z,Baltimore Orioles at Kansas City Royals,Kansas City Royals,Baltimore Orioles,0,5,0.0
+401568793,2024-04-21T18:10Z,Detroit Tigers at Minnesota Twins,Minnesota Twins,Detroit Tigers,1,6,0.0
+401568796,2024-04-21T18:15Z,Milwaukee Brewers at St. Louis Cardinals,St. Louis Cardinals,Milwaukee Brewers,0,2,0.0
+401568795,2024-04-21T18:20Z,Miami Marlins at Chicago Cubs,Chicago Cubs,Miami Marlins,3,6,0.0
+401568799,2024-04-21T19:10Z,Seattle Mariners at Colorado Rockies,Colorado Rockies,Seattle Mariners,2,1,1.0
+401568789,2024-04-21T20:05Z,Arizona Diamondbacks at San Francisco Giants,San Francisco Giants,Arizona Diamondbacks,3,5,0.0
+401568797,2024-04-21T20:10Z,New York Mets at Los Angeles Dodgers,Los Angeles Dodgers,New York Mets,10,0,1.0
+401568802,2024-04-21T20:10Z,Toronto Blue Jays at San Diego Padres,San Diego Padres,Toronto Blue Jays,6,3,1.0
+401568801,2024-04-21T23:00Z,Texas Rangers at Atlanta Braves,Atlanta Braves,Texas Rangers,4,6,0.0
+401655667,2024-04-22T00:10Z,Seattle Mariners at Colorado Rockies,Colorado Rockies,Seattle Mariners,2,10,0.0
+401568810,2024-04-22T17:05Z,Oakland Athletics at New York Yankees,New York Yankees,Oakland Athletics,0,2,0.0
+401568808,2024-04-22T22:40Z,Milwaukee Brewers at Pittsburgh Pirates,Pittsburgh Pirates,Milwaukee Brewers,4,2,1.0
+401568811,2024-04-22T22:40Z,Philadelphia Phillies at Cincinnati Reds,Cincinnati Reds,Philadelphia Phillies,0,7,0.0
+401568806,2024-04-22T22:50Z,Detroit Tigers at Tampa Bay Rays,Tampa Bay Rays,Detroit Tigers,1,7,0.0
+401568807,2024-04-22T23:20Z,Miami Marlins at Atlanta Braves,Atlanta Braves,Miami Marlins,3,0,1.0
+401568805,2024-04-22T23:40Z,Chicago White Sox at Minnesota Twins,Minnesota Twins,Chicago White Sox,7,0,1.0
+401568813,2024-04-22T23:40Z,Toronto Blue Jays at Kansas City Royals,Kansas City Royals,Toronto Blue Jays,3,5,0.0
+401568803,2024-04-22T23:45Z,Arizona Diamondbacks at St. Louis Cardinals,St. Louis Cardinals,Arizona Diamondbacks,5,3,1.0
+401568812,2024-04-23T00:40Z,San Diego Padres at Colorado Rockies,Colorado Rockies,San Diego Padres,1,3,0.0
+401568804,2024-04-23T01:38Z,Baltimore Orioles at Los Angeles Angels,Los Angeles Angels,Baltimore Orioles,2,4,0.0
+401568809,2024-04-23T01:45Z,New York Mets at San Francisco Giants,San Francisco Giants,New York Mets,5,2,1.0
+401568816,2024-04-23T22:10Z,Boston Red Sox at Cleveland Guardians,Cleveland Guardians,Boston Red Sox,4,1,1.0
+401568822,2024-04-23T22:40Z,Milwaukee Brewers at Pittsburgh Pirates,Pittsburgh Pirates,Milwaukee Brewers,2,1,1.0
+401568825,2024-04-23T22:40Z,Philadelphia Phillies at Cincinnati Reds,Cincinnati Reds,Philadelphia Phillies,8,1,1.0
+401568820,2024-04-23T22:45Z,Los Angeles Dodgers at Washington Nationals,Washington Nationals,Los Angeles Dodgers,1,4,0.0
+401568818,2024-04-23T22:50Z,Detroit Tigers at Tampa Bay Rays,Tampa Bay Rays,Detroit Tigers,2,4,0.0
+401568824,2024-04-23T23:05Z,Oakland Athletics at New York Yankees,New York Yankees,Oakland Athletics,4,3,1.0
+401568821,2024-04-23T23:20Z,Miami Marlins at Atlanta Braves,Atlanta Braves,Miami Marlins,5,0,1.0
+401568817,2024-04-23T23:40Z,Chicago White Sox at Minnesota Twins,Minnesota Twins,Chicago White Sox,6,5,1.0
+401568819,2024-04-23T23:40Z,Houston Astros at Chicago Cubs,Chicago Cubs,Houston Astros,7,2,1.0
+401568828,2024-04-23T23:40Z,Toronto Blue Jays at Kansas City Royals,Kansas City Royals,Toronto Blue Jays,3,2,1.0
+401568814,2024-04-23T23:45Z,Arizona Diamondbacks at St. Louis Cardinals,St. Louis Cardinals,Arizona Diamondbacks,1,14,0.0
+401568827,2024-04-24T00:05Z,Seattle Mariners at Texas Rangers,Texas Rangers,Seattle Mariners,0,4,0.0
+401568826,2024-04-24T00:40Z,San Diego Padres at Colorado Rockies,Colorado Rockies,San Diego Padres,7,4,1.0
+401568815,2024-04-24T01:38Z,Baltimore Orioles at Los Angeles Angels,Los Angeles Angels,Baltimore Orioles,7,4,1.0
+401568823,2024-04-24T01:45Z,New York Mets at San Francisco Giants,San Francisco Giants,New York Mets,5,1,1.0
+401568829,2024-04-24T17:15Z,Arizona Diamondbacks at St. Louis Cardinals,St. Louis Cardinals,Arizona Diamondbacks,5,1,1.0
+401568838,2024-04-24T19:45Z,New York Mets at San Francisco Giants,San Francisco Giants,New York Mets,2,8,0.0
+401568830,2024-04-24T20:07Z,Baltimore Orioles at Los Angeles Angels,Los Angeles Angels,Baltimore Orioles,5,6,0.0
+401568831,2024-04-24T22:10Z,Boston Red Sox at Cleveland Guardians,Cleveland Guardians,Boston Red Sox,0,8,0.0
+401568837,2024-04-24T22:40Z,Milwaukee Brewers at Pittsburgh Pirates,Pittsburgh Pirates,Milwaukee Brewers,2,3,0.0
+401568840,2024-04-24T22:40Z,Philadelphia Phillies at Cincinnati Reds,Cincinnati Reds,Philadelphia Phillies,7,4,1.0
+401568835,2024-04-24T22:45Z,Los Angeles Dodgers at Washington Nationals,Washington Nationals,Los Angeles Dodgers,2,11,0.0
+401568833,2024-04-24T22:50Z,Detroit Tigers at Tampa Bay Rays,Tampa Bay Rays,Detroit Tigers,7,5,1.0
+401568839,2024-04-24T23:05Z,Oakland Athletics at New York Yankees,New York Yankees,Oakland Athletics,7,3,1.0
+401568836,2024-04-24T23:20Z,Miami Marlins at Atlanta Braves,Atlanta Braves,Miami Marlins,4,3,1.0
+401568832,2024-04-24T23:40Z,Chicago White Sox at Minnesota Twins,Minnesota Twins,Chicago White Sox,6,3,1.0
+401568834,2024-04-24T23:40Z,Houston Astros at Chicago Cubs,Chicago Cubs,Houston Astros,4,3,1.0
+401568843,2024-04-24T23:40Z,Toronto Blue Jays at Kansas City Royals,Kansas City Royals,Toronto Blue Jays,3,2,1.0
+401568842,2024-04-25T00:05Z,Seattle Mariners at Texas Rangers,Texas Rangers,Seattle Mariners,5,1,1.0
+401568841,2024-04-25T00:40Z,San Diego Padres at Colorado Rockies,Colorado Rockies,San Diego Padres,2,5,0.0
+401568848,2024-04-25T16:35Z,Milwaukee Brewers at Pittsburgh Pirates,Pittsburgh Pirates,Milwaukee Brewers,5,7,0.0
+401568844,2024-04-25T17:10Z,Boston Red Sox at Cleveland Guardians,Cleveland Guardians,Boston Red Sox,6,4,1.0
+401568845,2024-04-25T17:10Z,Chicago White Sox at Minnesota Twins,Minnesota Twins,Chicago White Sox,6,3,1.0
+401568850,2024-04-25T17:10Z,Philadelphia Phillies at Cincinnati Reds,Cincinnati Reds,Philadelphia Phillies,0,5,0.0
+401568853,2024-04-25T18:10Z,Toronto Blue Jays at Kansas City Royals,Kansas City Royals,Toronto Blue Jays,2,1,1.0
+401568846,2024-04-25T18:20Z,Houston Astros at Chicago Cubs,Chicago Cubs,Houston Astros,3,1,1.0
+401568852,2024-04-25T18:35Z,Seattle Mariners at Texas Rangers,Texas Rangers,Seattle Mariners,3,4,0.0
+401568851,2024-04-25T19:10Z,San Diego Padres at Colorado Rockies,Colorado Rockies,San Diego Padres,10,9,1.0
+401568847,2024-04-25T20:05Z,Los Angeles Dodgers at Washington Nationals,Washington Nationals,Los Angeles Dodgers,1,2,0.0
+401568849,2024-04-25T23:05Z,Oakland Athletics at New York Yankees,New York Yankees,Oakland Athletics,1,3,0.0
+401568858,2024-04-26T17:10Z,Kansas City Royals at Detroit Tigers,Detroit Tigers,Kansas City Royals,0,8,0.0
+401568862,2024-04-26T23:05Z,Oakland Athletics at Baltimore Orioles,Baltimore Orioles,Oakland Athletics,2,3,0.0
+401568859,2024-04-26T23:07Z,Los Angeles Dodgers at Toronto Blue Jays,Toronto Blue Jays,Los Angeles Dodgers,2,12,0.0
+401568855,2024-04-26T23:10Z,Chicago Cubs at Boston Red Sox,Boston Red Sox,Chicago Cubs,1,7,0.0
+401568865,2024-04-26T23:10Z,St. Louis Cardinals at New York Mets,New York Mets,St. Louis Cardinals,2,4,0.0
+401568867,2024-04-26T23:10Z,Washington Nationals at Miami Marlins,Miami Marlins,Washington Nationals,1,3,0.0
+401568857,2024-04-26T23:20Z,Cleveland Guardians at Atlanta Braves,Atlanta Braves,Cleveland Guardians,6,2,1.0
+401568866,2024-04-26T23:40Z,Tampa Bay Rays at Chicago White Sox,Chicago White Sox,Tampa Bay Rays,9,4,1.0
+401568856,2024-04-27T00:05Z,Cincinnati Reds at Texas Rangers,Texas Rangers,Cincinnati Reds,2,1,1.0
+401568861,2024-04-27T00:10Z,New York Yankees at Milwaukee Brewers,Milwaukee Brewers,New York Yankees,7,6,1.0
+401568860,2024-04-27T01:38Z,Minnesota Twins at Los Angeles Angels,Los Angeles Angels,Minnesota Twins,3,5,0.0
+401568854,2024-04-27T01:40Z,Arizona Diamondbacks at Seattle Mariners,Seattle Mariners,Arizona Diamondbacks,6,1,1.0
+401568863,2024-04-27T01:40Z,Philadelphia Phillies at San Diego Padres,San Diego Padres,Philadelphia Phillies,3,9,0.0
+401568864,2024-04-27T02:15Z,Pittsburgh Pirates at San Francisco Giants,San Francisco Giants,Pittsburgh Pirates,3,0,1.0
+401568874,2024-04-27T19:07Z,Los Angeles Dodgers at Toronto Blue Jays,Toronto Blue Jays,Los Angeles Dodgers,2,4,0.0
+401568870,2024-04-27T20:05Z,Cincinnati Reds at Texas Rangers,Texas Rangers,Cincinnati Reds,4,8,0.0
+401568877,2024-04-27T20:05Z,Oakland Athletics at Baltimore Orioles,Baltimore Orioles,Oakland Athletics,7,0,1.0
+401568880,2024-04-27T20:05Z,St. Louis Cardinals at New York Mets,New York Mets,St. Louis Cardinals,4,7,0.0
+401568869,2024-04-27T20:10Z,Chicago Cubs at Boston Red Sox,Boston Red Sox,Chicago Cubs,17,0,1.0
+401568882,2024-04-27T20:10Z,Washington Nationals at Miami Marlins,Miami Marlins,Washington Nationals,4,11,0.0
+401568872,2024-04-27T22:05Z,Houston Astros at Colorado Rockies,Colorado Rockies,Houston Astros,4,12,0.0
+401568873,2024-04-27T22:10Z,Kansas City Royals at Detroit Tigers,Detroit Tigers,Kansas City Royals,6,5,1.0
+401568876,2024-04-27T23:10Z,New York Yankees at Milwaukee Brewers,Milwaukee Brewers,New York Yankees,3,15,0.0
+401568881,2024-04-27T23:10Z,Tampa Bay Rays at Chicago White Sox,Chicago White Sox,Tampa Bay Rays,8,7,1.0
+401568871,2024-04-27T23:20Z,Cleveland Guardians at Atlanta Braves,Atlanta Braves,Cleveland Guardians,2,4,0.0
+401568878,2024-04-28T00:40Z,Philadelphia Phillies at San Diego Padres,San Diego Padres,Philadelphia Phillies,1,5,0.0
+401568879,2024-04-28T01:05Z,Pittsburgh Pirates at San Francisco Giants,San Francisco Giants,Pittsburgh Pirates,3,4,0.0
+401568875,2024-04-28T01:38Z,Minnesota Twins at Los Angeles Angels,Los Angeles Angels,Minnesota Twins,5,16,0.0
+401568868,2024-04-28T01:40Z,Arizona Diamondbacks at Seattle Mariners,Seattle Mariners,Arizona Diamondbacks,3,1,1.0
+401568886,2024-04-28T17:35Z,Cleveland Guardians at Atlanta Braves,Atlanta Braves,Cleveland Guardians,4,3,1.0
+401568892,2024-04-28T17:35Z,Oakland Athletics at Baltimore Orioles,Baltimore Orioles,Oakland Athletics,6,7,0.0
+401568889,2024-04-28T17:37Z,Los Angeles Dodgers at Toronto Blue Jays,Toronto Blue Jays,Los Angeles Dodgers,3,1,1.0
+401568888,2024-04-28T17:40Z,Kansas City Royals at Detroit Tigers,Detroit Tigers,Kansas City Royals,4,1,1.0
+401568895,2024-04-28T17:40Z,St. Louis Cardinals at New York Mets,New York Mets,St. Louis Cardinals,4,2,1.0
+401568897,2024-04-28T17:40Z,Washington Nationals at Miami Marlins,Miami Marlins,Washington Nationals,9,12,0.0
+401568891,2024-04-28T18:10Z,New York Yankees at Milwaukee Brewers,Milwaukee Brewers,New York Yankees,5,15,0.0
+401568896,2024-04-28T18:10Z,Tampa Bay Rays at Chicago White Sox,Chicago White Sox,Tampa Bay Rays,4,2,1.0
+401568885,2024-04-28T18:35Z,Cincinnati Reds at Texas Rangers,Texas Rangers,Cincinnati Reds,4,3,1.0
+401568887,2024-04-28T20:05Z,Houston Astros at Colorado Rockies,Colorado Rockies,Houston Astros,2,8,0.0
+401568894,2024-04-28T20:05Z,Pittsburgh Pirates at San Francisco Giants,San Francisco Giants,Pittsburgh Pirates,3,2,1.0
+401568890,2024-04-28T20:07Z,Minnesota Twins at Los Angeles Angels,Los Angeles Angels,Minnesota Twins,5,11,0.0
+401568883,2024-04-28T20:10Z,Arizona Diamondbacks at Seattle Mariners,Seattle Mariners,Arizona Diamondbacks,2,3,0.0
+401568893,2024-04-28T20:10Z,Philadelphia Phillies at San Diego Padres,San Diego Padres,Philadelphia Phillies,6,8,0.0
+401568884,2024-04-28T23:00Z,Chicago Cubs at Boston Red Sox,Boston Red Sox,Chicago Cubs,5,4,1.0
+401568904,2024-04-29T22:35Z,New York Yankees at Baltimore Orioles,Baltimore Orioles,New York Yankees,2,0,1.0
+401568907,2024-04-29T22:40Z,St. Louis Cardinals at Detroit Tigers,Detroit Tigers,St. Louis Cardinals,0,0,0.5
+401568909,2024-04-29T22:40Z,Washington Nationals at Miami Marlins,Miami Marlins,Washington Nationals,2,7,0.0
+401568901,2024-04-29T23:07Z,Kansas City Royals at Toronto Blue Jays,Toronto Blue Jays,Kansas City Royals,6,5,1.0
+401568899,2024-04-29T23:10Z,Chicago Cubs at New York Mets,New York Mets,Chicago Cubs,1,3,0.0
+401568903,2024-04-29T23:40Z,Minnesota Twins at Chicago White Sox,Chicago White Sox,Minnesota Twins,2,3,0.0
+401568908,2024-04-29T23:40Z,Tampa Bay Rays at Milwaukee Brewers,Milwaukee Brewers,Tampa Bay Rays,0,1,0.0
+401568905,2024-04-30T01:38Z,Philadelphia Phillies at Los Angeles Angels,Los Angeles Angels,Philadelphia Phillies,6,5,1.0
+401568898,2024-04-30T01:40Z,Atlanta Braves at Seattle Mariners,Seattle Mariners,Atlanta Braves,2,1,1.0
+401568900,2024-04-30T01:40Z,Cincinnati Reds at San Diego Padres,San Diego Padres,Cincinnati Reds,2,5,0.0
+401568902,2024-04-30T01:40Z,Los Angeles Dodgers at Arizona Diamondbacks,Arizona Diamondbacks,Los Angeles Dodgers,4,8,0.0
+401568906,2024-04-30T01:40Z,Pittsburgh Pirates at Oakland Athletics,Oakland Athletics,Pittsburgh Pirates,5,1,1.0
+401657053,2024-04-30T19:40Z,St. Louis Cardinals at Detroit Tigers,Detroit Tigers,St. Louis Cardinals,1,2,0.0
+401568918,2024-04-30T22:35Z,New York Yankees at Baltimore Orioles,Baltimore Orioles,New York Yankees,4,2,1.0
+401568914,2024-04-30T22:40Z,Colorado Rockies at Miami Marlins,Miami Marlins,Colorado Rockies,7,6,1.0
+401568922,2024-04-30T22:40Z,St. Louis Cardinals at Detroit Tigers,Detroit Tigers,St. Louis Cardinals,11,6,1.0
+401568915,2024-04-30T23:07Z,Kansas City Royals at Toronto Blue Jays,Toronto Blue Jays,Kansas City Royals,1,4,0.0
+401568911,2024-04-30T23:10Z,Chicago Cubs at New York Mets,New York Mets,Chicago Cubs,4,2,1.0
+401568921,2024-04-30T23:10Z,San Francisco Giants at Boston Red Sox,Boston Red Sox,San Francisco Giants,4,0,1.0
+401568917,2024-04-30T23:40Z,Minnesota Twins at Chicago White Sox,Chicago White Sox,Minnesota Twins,5,6,0.0
+401568923,2024-04-30T23:40Z,Tampa Bay Rays at Milwaukee Brewers,Milwaukee Brewers,Tampa Bay Rays,8,2,1.0
+401568924,2024-05-01T00:05Z,Washington Nationals at Texas Rangers,Texas Rangers,Washington Nationals,7,1,1.0
+401568913,2024-05-01T00:10Z,Cleveland Guardians at Houston Astros,Houston Astros,Cleveland Guardians,10,9,1.0
+401568919,2024-05-01T01:38Z,Philadelphia Phillies at Los Angeles Angels,Los Angeles Angels,Philadelphia Phillies,5,7,0.0
+401568910,2024-05-01T01:40Z,Atlanta Braves at Seattle Mariners,Seattle Mariners,Atlanta Braves,3,2,1.0
+401568912,2024-05-01T01:40Z,Cincinnati Reds at San Diego Padres,San Diego Padres,Cincinnati Reds,6,4,1.0
+401568916,2024-05-01T01:40Z,Los Angeles Dodgers at Arizona Diamondbacks,Arizona Diamondbacks,Los Angeles Dodgers,4,3,1.0
+401568920,2024-05-01T01:40Z,Pittsburgh Pirates at Oakland Athletics,Oakland Athletics,Pittsburgh Pirates,5,2,1.0

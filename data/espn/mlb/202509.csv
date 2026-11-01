@@ -1,0 +1,379 @@
+id,date,event,home,away,hs,as,res
+401696967,2025-09-01T17:05Z,Miami Marlins at Washington Nationals,Washington Nationals,Miami Marlins,2,0,1.0
+401696968,2025-09-01T17:10Z,New York Mets at Detroit Tigers,Detroit Tigers,New York Mets,8,10,0.0
+401696970,2025-09-01T17:10Z,Toronto Blue Jays at Cincinnati Reds,Cincinnati Reds,Toronto Blue Jays,5,4,1.0
+401696966,2025-09-01T17:35Z,Cleveland Guardians at Boston Red Sox,Boston Red Sox,Cleveland Guardians,6,4,1.0
+401696971,2025-09-01T18:10Z,Los Angeles Angels at Houston Astros,Houston Astros,Los Angeles Angels,8,3,1.0
+401696973,2025-09-01T18:10Z,Chicago White Sox at Minnesota Twins,Minnesota Twins,Chicago White Sox,5,6,0.0
+401696974,2025-09-01T18:15Z,Athletics Athletics at St. Louis Cardinals,St. Louis Cardinals,Athletics,3,11,0.0
+401696972,2025-09-01T20:05Z,Atlanta Braves at Chicago Cubs,Chicago Cubs,Atlanta Braves,7,6,1.0
+401696975,2025-09-01T20:10Z,Philadelphia Phillies at Milwaukee Brewers,Milwaukee Brewers,Philadelphia Phillies,8,10,0.0
+401696976,2025-09-01T20:10Z,San Francisco Giants at Colorado Rockies,Colorado Rockies,San Francisco Giants,2,8,0.0
+401696977,2025-09-01T22:40Z,Baltimore Orioles at San Diego Padres,San Diego Padres,Baltimore Orioles,3,4,0.0
+401696969,2025-09-01T23:35Z,Seattle Mariners at Tampa Bay Rays,Tampa Bay Rays,Seattle Mariners,10,2,1.0
+401696978,2025-09-02T00:10Z,Texas Rangers at Arizona Diamondbacks,Arizona Diamondbacks,Texas Rangers,5,7,0.0
+401696980,2025-09-02T22:40Z,Los Angeles Dodgers at Pittsburgh Pirates,Pittsburgh Pirates,Los Angeles Dodgers,9,7,1.0
+401696982,2025-09-02T22:40Z,New York Mets at Detroit Tigers,Detroit Tigers,New York Mets,5,12,0.0
+401696984,2025-09-02T22:40Z,Toronto Blue Jays at Cincinnati Reds,Cincinnati Reds,Toronto Blue Jays,9,12,0.0
+401696979,2025-09-02T22:45Z,Cleveland Guardians at Boston Red Sox,Boston Red Sox,Cleveland Guardians,11,7,1.0
+401696981,2025-09-02T22:45Z,Miami Marlins at Washington Nationals,Washington Nationals,Miami Marlins,5,2,1.0
+401696983,2025-09-02T23:35Z,Seattle Mariners at Tampa Bay Rays,Tampa Bay Rays,Seattle Mariners,6,5,1.0
+401696985,2025-09-02T23:40Z,Los Angeles Angels at Kansas City Royals,Kansas City Royals,Los Angeles Angels,1,5,0.0
+401696986,2025-09-02T23:40Z,Atlanta Braves at Chicago Cubs,Chicago Cubs,Atlanta Braves,4,3,1.0
+401696987,2025-09-02T23:40Z,Chicago White Sox at Minnesota Twins,Minnesota Twins,Chicago White Sox,3,12,0.0
+401696989,2025-09-02T23:45Z,Athletics Athletics at St. Louis Cardinals,St. Louis Cardinals,Athletics,2,1,1.0
+401696988,2025-09-03T00:10Z,New York Yankees at Houston Astros,Houston Astros,New York Yankees,1,7,0.0
+401696990,2025-09-03T00:40Z,San Francisco Giants at Colorado Rockies,Colorado Rockies,San Francisco Giants,4,7,0.0
+401696991,2025-09-03T01:40Z,Baltimore Orioles at San Diego Padres,San Diego Padres,Baltimore Orioles,2,6,0.0
+401696992,2025-09-03T01:40Z,Texas Rangers at Arizona Diamondbacks,Arizona Diamondbacks,Texas Rangers,5,3,1.0
+401696995,2025-09-03T17:05Z,Miami Marlins at Washington Nationals,Washington Nationals,Miami Marlins,10,5,1.0
+401696996,2025-09-03T17:10Z,New York Mets at Detroit Tigers,Detroit Tigers,New York Mets,6,2,1.0
+401697007,2025-09-03T19:40Z,Texas Rangers at Arizona Diamondbacks,Arizona Diamondbacks,Texas Rangers,2,0,1.0
+401697006,2025-09-03T20:10Z,Baltimore Orioles at San Diego Padres,San Diego Padres,Baltimore Orioles,5,7,0.0
+401696994,2025-09-03T22:40Z,Los Angeles Dodgers at Pittsburgh Pirates,Pittsburgh Pirates,Los Angeles Dodgers,3,0,1.0
+401696998,2025-09-03T22:40Z,Toronto Blue Jays at Cincinnati Reds,Cincinnati Reds,Toronto Blue Jays,9,13,0.0
+401696993,2025-09-03T22:45Z,Cleveland Guardians at Boston Red Sox,Boston Red Sox,Cleveland Guardians,1,8,0.0
+401696997,2025-09-03T23:35Z,Seattle Mariners at Tampa Bay Rays,Tampa Bay Rays,Seattle Mariners,9,4,1.0
+401696999,2025-09-03T23:40Z,Los Angeles Angels at Kansas City Royals,Kansas City Royals,Los Angeles Angels,3,4,0.0
+401697000,2025-09-03T23:40Z,Atlanta Braves at Chicago Cubs,Chicago Cubs,Atlanta Braves,1,5,0.0
+401697001,2025-09-03T23:40Z,Chicago White Sox at Minnesota Twins,Minnesota Twins,Chicago White Sox,3,4,0.0
+401697004,2025-09-03T23:40Z,Philadelphia Phillies at Milwaukee Brewers,Milwaukee Brewers,Philadelphia Phillies,6,3,1.0
+401697003,2025-09-03T23:45Z,Athletics Athletics at St. Louis Cardinals,St. Louis Cardinals,Athletics,5,1,1.0
+401697002,2025-09-04T00:10Z,New York Yankees at Houston Astros,Houston Astros,New York Yankees,8,7,1.0
+401697005,2025-09-04T00:40Z,San Francisco Giants at Colorado Rockies,Colorado Rockies,San Francisco Giants,8,10,0.0
+401697013,2025-09-04T20:10Z,Philadelphia Phillies at Milwaukee Brewers,Milwaukee Brewers,Philadelphia Phillies,0,2,0.0
+401697009,2025-09-04T22:40Z,Los Angeles Dodgers at Pittsburgh Pirates,Pittsburgh Pirates,Los Angeles Dodgers,5,3,1.0
+401697008,2025-09-04T23:35Z,Cleveland Guardians at Tampa Bay Rays,Tampa Bay Rays,Cleveland Guardians,4,2,1.0
+401697010,2025-09-04T23:40Z,Los Angeles Angels at Kansas City Royals,Kansas City Royals,Los Angeles Angels,4,3,1.0
+401697011,2025-09-04T23:40Z,Chicago White Sox at Minnesota Twins,Minnesota Twins,Chicago White Sox,8,11,0.0
+401697012,2025-09-04T23:40Z,New York Yankees at Houston Astros,Houston Astros,New York Yankees,4,8,0.0
+401697025,2025-09-05T18:20Z,Washington Nationals at Chicago Cubs,Chicago Cubs,Washington Nationals,11,5,1.0
+401697014,2025-09-05T22:40Z,Chicago White Sox at Detroit Tigers,Detroit Tigers,Chicago White Sox,5,7,0.0
+401697017,2025-09-05T22:40Z,Milwaukee Brewers at Pittsburgh Pirates,Pittsburgh Pirates,Milwaukee Brewers,2,5,0.0
+401697018,2025-09-05T22:40Z,New York Mets at Cincinnati Reds,Cincinnati Reds,New York Mets,4,5,0.0
+401697016,2025-09-05T23:05Z,Los Angeles Dodgers at Baltimore Orioles,Baltimore Orioles,Los Angeles Dodgers,2,1,1.0
+401697021,2025-09-05T23:05Z,Toronto Blue Jays at New York Yankees,New York Yankees,Toronto Blue Jays,1,7,0.0
+401697019,2025-09-05T23:10Z,Philadelphia Phillies at Miami Marlins,Miami Marlins,Philadelphia Phillies,3,9,0.0
+401697020,2025-09-05T23:15Z,Seattle Mariners at Atlanta Braves,Atlanta Braves,Seattle Mariners,4,1,1.0
+401697015,2025-09-05T23:35Z,Cleveland Guardians at Tampa Bay Rays,Tampa Bay Rays,Cleveland Guardians,1,7,0.0
+401697023,2025-09-05T23:40Z,Minnesota Twins at Kansas City Royals,Kansas City Royals,Minnesota Twins,2,1,1.0
+401697022,2025-09-06T00:05Z,Houston Astros at Texas Rangers,Texas Rangers,Houston Astros,4,3,1.0
+401697024,2025-09-06T00:15Z,San Francisco Giants at St. Louis Cardinals,St. Louis Cardinals,San Francisco Giants,2,8,0.0
+401697026,2025-09-06T00:40Z,San Diego Padres at Colorado Rockies,Colorado Rockies,San Diego Padres,3,0,1.0
+401697028,2025-09-06T01:38Z,Athletics Athletics at Los Angeles Angels,Los Angeles Angels,Athletics,4,10,0.0
+401697027,2025-09-06T01:40Z,Boston Red Sox at Arizona Diamondbacks,Arizona Diamondbacks,Boston Red Sox,10,5,1.0
+401697036,2025-09-06T17:05Z,Toronto Blue Jays at New York Yankees,New York Yankees,Toronto Blue Jays,3,1,1.0
+401697040,2025-09-06T18:20Z,Washington Nationals at Chicago Cubs,Chicago Cubs,Washington Nationals,1,2,0.0
+401697034,2025-09-06T20:10Z,Philadelphia Phillies at Miami Marlins,Miami Marlins,Philadelphia Phillies,2,4,0.0
+401697029,2025-09-06T22:10Z,Chicago White Sox at Detroit Tigers,Detroit Tigers,Chicago White Sox,6,0,1.0
+401697032,2025-09-06T22:40Z,Milwaukee Brewers at Pittsburgh Pirates,Pittsburgh Pirates,Milwaukee Brewers,1,4,0.0
+401697033,2025-09-06T22:40Z,New York Mets at Cincinnati Reds,Cincinnati Reds,New York Mets,6,3,1.0
+401697030,2025-09-06T23:05Z,Cleveland Guardians at Tampa Bay Rays,Tampa Bay Rays,Cleveland Guardians,2,3,0.0
+401697031,2025-09-06T23:05Z,Los Angeles Dodgers at Baltimore Orioles,Baltimore Orioles,Los Angeles Dodgers,4,3,1.0
+401697035,2025-09-06T23:15Z,Seattle Mariners at Atlanta Braves,Atlanta Braves,Seattle Mariners,2,10,0.0
+401697037,2025-09-06T23:15Z,Houston Astros at Texas Rangers,Texas Rangers,Houston Astros,0,11,0.0
+401697038,2025-09-06T23:15Z,Minnesota Twins at Kansas City Royals,Kansas City Royals,Minnesota Twins,11,2,1.0
+401697039,2025-09-06T23:15Z,San Francisco Giants at St. Louis Cardinals,St. Louis Cardinals,San Francisco Giants,3,2,1.0
+401697041,2025-09-07T00:10Z,San Diego Padres at Colorado Rockies,Colorado Rockies,San Diego Padres,8,10,0.0
+401697042,2025-09-07T00:10Z,Boston Red Sox at Arizona Diamondbacks,Arizona Diamondbacks,Boston Red Sox,5,1,1.0
+401697043,2025-09-07T01:38Z,Athletics Athletics at Los Angeles Angels,Los Angeles Angels,Athletics,4,17,0.0
+401697050,2025-09-07T16:05Z,Seattle Mariners at Atlanta Braves,Atlanta Braves,Seattle Mariners,2,18,0.0
+401697045,2025-09-07T16:10Z,Cleveland Guardians at Tampa Bay Rays,Tampa Bay Rays,Cleveland Guardians,1,2,0.0
+401697046,2025-09-07T17:35Z,Los Angeles Dodgers at Baltimore Orioles,Baltimore Orioles,Los Angeles Dodgers,2,5,0.0
+401697047,2025-09-07T17:35Z,Milwaukee Brewers at Pittsburgh Pirates,Pittsburgh Pirates,Milwaukee Brewers,2,10,0.0
+401697051,2025-09-07T17:35Z,Toronto Blue Jays at New York Yankees,New York Yankees,Toronto Blue Jays,4,3,1.0
+401697044,2025-09-07T17:40Z,Chicago White Sox at Detroit Tigers,Detroit Tigers,Chicago White Sox,4,6,0.0
+401697048,2025-09-07T17:40Z,New York Mets at Cincinnati Reds,Cincinnati Reds,New York Mets,3,2,1.0
+401697049,2025-09-07T17:40Z,Philadelphia Phillies at Miami Marlins,Miami Marlins,Philadelphia Phillies,5,4,1.0
+401697053,2025-09-07T18:10Z,Minnesota Twins at Kansas City Royals,Kansas City Royals,Minnesota Twins,1,5,0.0
+401697054,2025-09-07T18:15Z,San Francisco Giants at St. Louis Cardinals,St. Louis Cardinals,San Francisco Giants,4,3,1.0
+401697055,2025-09-07T18:20Z,Washington Nationals at Chicago Cubs,Chicago Cubs,Washington Nationals,3,6,0.0
+401697052,2025-09-07T18:35Z,Houston Astros at Texas Rangers,Texas Rangers,Houston Astros,4,2,1.0
+401697056,2025-09-07T19:10Z,San Diego Padres at Colorado Rockies,Colorado Rockies,San Diego Padres,1,8,0.0
+401697058,2025-09-07T20:07Z,Athletics Athletics at Los Angeles Angels,Los Angeles Angels,Athletics,4,3,1.0
+401697057,2025-09-07T20:10Z,Boston Red Sox at Arizona Diamondbacks,Arizona Diamondbacks,Boston Red Sox,4,7,0.0
+401697060,2025-09-08T22:40Z,Kansas City Royals at Cleveland Guardians,Cleveland Guardians,Kansas City Royals,10,2,1.0
+401697062,2025-09-08T22:40Z,Washington Nationals at Miami Marlins,Miami Marlins,Washington Nationals,7,15,0.0
+401697061,2025-09-08T22:45Z,New York Mets at Philadelphia Phillies,Philadelphia Phillies,New York Mets,1,0,1.0
+401697059,2025-09-08T23:15Z,Chicago Cubs at Atlanta Braves,Atlanta Braves,Chicago Cubs,4,1,1.0
+401697063,2025-09-09T00:05Z,Milwaukee Brewers at Texas Rangers,Texas Rangers,Milwaukee Brewers,5,0,1.0
+401697068,2025-09-09T01:38Z,Minnesota Twins at Los Angeles Angels,Los Angeles Angels,Minnesota Twins,3,12,0.0
+401697066,2025-09-09T01:40Z,Cincinnati Reds at San Diego Padres,San Diego Padres,Cincinnati Reds,4,3,1.0
+401697069,2025-09-09T01:40Z,St. Louis Cardinals at Seattle Mariners,Seattle Mariners,St. Louis Cardinals,4,2,1.0
+401697064,2025-09-09T01:45Z,Arizona Diamondbacks at San Francisco Giants,San Francisco Giants,Arizona Diamondbacks,11,5,1.0
+401764588,2025-09-09T02:05Z,Boston Red Sox at Athletics Athletics,Athletics,Boston Red Sox,0,7,0.0
+401697067,2025-09-09T02:10Z,Colorado Rockies at Los Angeles Dodgers,Los Angeles Dodgers,Colorado Rockies,3,1,1.0
+401697075,2025-09-09T22:35Z,Pittsburgh Pirates at Baltimore Orioles,Baltimore Orioles,Pittsburgh Pirates,3,2,1.0
+401697073,2025-09-09T22:40Z,Kansas City Royals at Cleveland Guardians,Cleveland Guardians,Kansas City Royals,2,0,1.0
+401697076,2025-09-09T22:40Z,Washington Nationals at Miami Marlins,Miami Marlins,Washington Nationals,5,7,0.0
+401697074,2025-09-09T22:45Z,New York Mets at Philadelphia Phillies,Philadelphia Phillies,New York Mets,9,3,1.0
+401697071,2025-09-09T23:05Z,Detroit Tigers at New York Yankees,New York Yankees,Detroit Tigers,2,12,0.0
+401697072,2025-09-09T23:07Z,Houston Astros at Toronto Blue Jays,Toronto Blue Jays,Houston Astros,4,3,1.0
+401697070,2025-09-09T23:15Z,Chicago Cubs at Atlanta Braves,Atlanta Braves,Chicago Cubs,1,6,0.0
+401697078,2025-09-09T23:40Z,Tampa Bay Rays at Chicago White Sox,Chicago White Sox,Tampa Bay Rays,4,5,0.0
+401697077,2025-09-10T00:05Z,Milwaukee Brewers at Texas Rangers,Texas Rangers,Milwaukee Brewers,5,4,1.0
+401697083,2025-09-10T01:38Z,Minnesota Twins at Los Angeles Angels,Los Angeles Angels,Minnesota Twins,12,2,1.0
+401697081,2025-09-10T01:40Z,Cincinnati Reds at San Diego Padres,San Diego Padres,Cincinnati Reds,2,4,0.0
+401697084,2025-09-10T01:40Z,St. Louis Cardinals at Seattle Mariners,Seattle Mariners,St. Louis Cardinals,5,3,1.0
+401697079,2025-09-10T01:45Z,Arizona Diamondbacks at San Francisco Giants,San Francisco Giants,Arizona Diamondbacks,5,3,1.0
+401764589,2025-09-10T02:05Z,Boston Red Sox at Athletics Athletics,Athletics,Boston Red Sox,0,6,0.0
+401697082,2025-09-10T02:10Z,Colorado Rockies at Los Angeles Dodgers,Los Angeles Dodgers,Colorado Rockies,7,2,1.0
+401697092,2025-09-10T18:35Z,Milwaukee Brewers at Texas Rangers,Texas Rangers,Milwaukee Brewers,6,3,1.0
+401764590,2025-09-10T19:35Z,Boston Red Sox at Athletics Athletics,Athletics,Boston Red Sox,5,4,1.0
+401697094,2025-09-10T19:45Z,Arizona Diamondbacks at San Francisco Giants,San Francisco Giants,Arizona Diamondbacks,3,5,0.0
+401697098,2025-09-10T20:07Z,Minnesota Twins at Los Angeles Angels,Los Angeles Angels,Minnesota Twins,4,3,1.0
+401697090,2025-09-10T22:35Z,Pittsburgh Pirates at Baltimore Orioles,Baltimore Orioles,Pittsburgh Pirates,2,1,1.0
+401697088,2025-09-10T22:40Z,Kansas City Royals at Cleveland Guardians,Cleveland Guardians,Kansas City Royals,3,4,0.0
+401697091,2025-09-10T22:40Z,Washington Nationals at Miami Marlins,Miami Marlins,Washington Nationals,8,3,1.0
+401697089,2025-09-10T22:45Z,New York Mets at Philadelphia Phillies,Philadelphia Phillies,New York Mets,11,3,1.0
+401697086,2025-09-10T23:05Z,Detroit Tigers at New York Yankees,New York Yankees,Detroit Tigers,1,11,0.0
+401697087,2025-09-10T23:07Z,Houston Astros at Toronto Blue Jays,Toronto Blue Jays,Houston Astros,2,3,0.0
+401697085,2025-09-10T23:15Z,Chicago Cubs at Atlanta Braves,Atlanta Braves,Chicago Cubs,2,3,0.0
+401697093,2025-09-10T23:40Z,Tampa Bay Rays at Chicago White Sox,Chicago White Sox,Tampa Bay Rays,6,5,1.0
+401697096,2025-09-11T00:40Z,Cincinnati Reds at San Diego Padres,San Diego Padres,Cincinnati Reds,1,2,0.0
+401697099,2025-09-11T01:40Z,St. Louis Cardinals at Seattle Mariners,Seattle Mariners,St. Louis Cardinals,4,2,1.0
+401697097,2025-09-11T02:10Z,Colorado Rockies at Los Angeles Dodgers,Los Angeles Dodgers,Colorado Rockies,9,0,1.0
+401697104,2025-09-11T17:05Z,Pittsburgh Pirates at Baltimore Orioles,Baltimore Orioles,Pittsburgh Pirates,3,2,1.0
+401697106,2025-09-11T18:10Z,Tampa Bay Rays at Chicago White Sox,Chicago White Sox,Tampa Bay Rays,5,1,1.0
+401697101,2025-09-11T19:07Z,Houston Astros at Toronto Blue Jays,Toronto Blue Jays,Houston Astros,6,0,1.0
+401697105,2025-09-11T22:40Z,Washington Nationals at Miami Marlins,Miami Marlins,Washington Nationals,5,0,1.0
+401697100,2025-09-11T23:05Z,Detroit Tigers at New York Yankees,New York Yankees,Detroit Tigers,9,3,1.0
+401697102,2025-09-11T23:15Z,Kansas City Royals at Cleveland Guardians,Cleveland Guardians,Kansas City Royals,3,2,1.0
+401697103,2025-09-11T23:15Z,New York Mets at Philadelphia Phillies,Philadelphia Phillies,New York Mets,6,4,1.0
+401697107,2025-09-12T01:40Z,Los Angeles Angels at Seattle Mariners,Seattle Mariners,Los Angeles Angels,7,6,1.0
+401697108,2025-09-12T01:40Z,Colorado Rockies at San Diego Padres,San Diego Padres,Colorado Rockies,2,0,1.0
+401697119,2025-09-12T18:20Z,Tampa Bay Rays at Chicago Cubs,Chicago Cubs,Tampa Bay Rays,6,4,1.0
+401697113,2025-09-12T22:45Z,Kansas City Royals at Philadelphia Phillies,Philadelphia Phillies,Kansas City Royals,8,2,1.0
+401697115,2025-09-12T22:45Z,Pittsburgh Pirates at Washington Nationals,Washington Nationals,Pittsburgh Pirates,6,5,1.0
+401697109,2025-09-12T23:07Z,Baltimore Orioles at Toronto Blue Jays,Toronto Blue Jays,Baltimore Orioles,6,1,1.0
+401697110,2025-09-12T23:10Z,Chicago White Sox at Cleveland Guardians,Cleveland Guardians,Chicago White Sox,4,0,1.0
+401697111,2025-09-12T23:10Z,Detroit Tigers at Miami Marlins,Miami Marlins,Detroit Tigers,8,2,1.0
+401697114,2025-09-12T23:10Z,New York Yankees at Boston Red Sox,Boston Red Sox,New York Yankees,1,4,0.0
+401697116,2025-09-12T23:10Z,Texas Rangers at New York Mets,New York Mets,Texas Rangers,3,8,0.0
+401697112,2025-09-12T23:15Z,Houston Astros at Atlanta Braves,Atlanta Braves,Houston Astros,3,11,0.0
+401697117,2025-09-13T00:10Z,Arizona Diamondbacks at Minnesota Twins,Minnesota Twins,Arizona Diamondbacks,9,8,1.0
+401697118,2025-09-13T00:10Z,St. Louis Cardinals at Milwaukee Brewers,Milwaukee Brewers,St. Louis Cardinals,8,2,1.0
+401697122,2025-09-13T01:40Z,Colorado Rockies at San Diego Padres,San Diego Padres,Colorado Rockies,2,4,0.0
+401764591,2025-09-13T02:05Z,Cincinnati Reds at Athletics Athletics,Athletics,Cincinnati Reds,3,0,1.0
+401697120,2025-09-13T02:10Z,Los Angeles Angels at Seattle Mariners,Seattle Mariners,Los Angeles Angels,2,1,1.0
+401697123,2025-09-13T02:15Z,Los Angeles Dodgers at San Francisco Giants,San Francisco Giants,Los Angeles Dodgers,5,1,1.0
+401697134,2025-09-13T18:20Z,Tampa Bay Rays at Chicago Cubs,Chicago Cubs,Tampa Bay Rays,4,5,0.0
+401697124,2025-09-13T19:07Z,Baltimore Orioles at Toronto Blue Jays,Toronto Blue Jays,Baltimore Orioles,5,4,1.0
+401697130,2025-09-13T20:05Z,Pittsburgh Pirates at Washington Nationals,Washington Nationals,Pittsburgh Pirates,1,5,0.0
+401697126,2025-09-13T20:10Z,Detroit Tigers at Miami Marlins,Miami Marlins,Detroit Tigers,6,4,1.0
+401697129,2025-09-13T20:10Z,New York Yankees at Boston Red Sox,Boston Red Sox,New York Yankees,3,5,0.0
+401697131,2025-09-13T20:10Z,Texas Rangers at New York Mets,New York Mets,Texas Rangers,2,3,0.0
+401697128,2025-09-13T22:05Z,Kansas City Royals at Philadelphia Phillies,Philadelphia Phillies,Kansas City Royals,8,6,1.0
+401697125,2025-09-13T22:10Z,Chicago White Sox at Cleveland Guardians,Cleveland Guardians,Chicago White Sox,3,1,1.0
+401697132,2025-09-13T23:10Z,Arizona Diamondbacks at Minnesota Twins,Minnesota Twins,Arizona Diamondbacks,2,5,0.0
+401697127,2025-09-13T23:15Z,Houston Astros at Atlanta Braves,Atlanta Braves,Houston Astros,2,6,0.0
+401697133,2025-09-14T00:15Z,St. Louis Cardinals at Milwaukee Brewers,Milwaukee Brewers,St. Louis Cardinals,9,8,1.0
+401697137,2025-09-14T00:40Z,Colorado Rockies at San Diego Padres,San Diego Padres,Colorado Rockies,11,3,1.0
+401697138,2025-09-14T01:05Z,Los Angeles Dodgers at San Francisco Giants,San Francisco Giants,Los Angeles Dodgers,7,13,0.0
+401697135,2025-09-14T01:40Z,Los Angeles Angels at Seattle Mariners,Seattle Mariners,Los Angeles Angels,5,3,1.0
+401764592,2025-09-14T02:05Z,Cincinnati Reds at Athletics Athletics,Athletics,Cincinnati Reds,11,5,1.0
+401697145,2025-09-14T15:35Z,Pittsburgh Pirates at Washington Nationals,Washington Nationals,Pittsburgh Pirates,4,3,1.0
+401697142,2025-09-14T17:35Z,Houston Astros at Atlanta Braves,Atlanta Braves,Houston Astros,8,3,1.0
+401697143,2025-09-14T17:35Z,Kansas City Royals at Philadelphia Phillies,Philadelphia Phillies,Kansas City Royals,3,10,0.0
+401697139,2025-09-14T17:37Z,Baltimore Orioles at Toronto Blue Jays,Toronto Blue Jays,Baltimore Orioles,11,2,1.0
+401697140,2025-09-14T17:40Z,Chicago White Sox at Cleveland Guardians,Cleveland Guardians,Chicago White Sox,3,2,1.0
+401697141,2025-09-14T17:40Z,Detroit Tigers at Miami Marlins,Miami Marlins,Detroit Tigers,0,2,0.0
+401697146,2025-09-14T17:40Z,Texas Rangers at New York Mets,New York Mets,Texas Rangers,5,2,1.0
+401697147,2025-09-14T18:10Z,Arizona Diamondbacks at Minnesota Twins,Minnesota Twins,Arizona Diamondbacks,4,6,0.0
+401697148,2025-09-14T18:10Z,St. Louis Cardinals at Milwaukee Brewers,Milwaukee Brewers,St. Louis Cardinals,2,3,0.0
+401697149,2025-09-14T18:20Z,Tampa Bay Rays at Chicago Cubs,Chicago Cubs,Tampa Bay Rays,4,3,1.0
+401697153,2025-09-14T20:05Z,Los Angeles Dodgers at San Francisco Giants,San Francisco Giants,Los Angeles Dodgers,2,10,0.0
+401764593,2025-09-14T20:05Z,Cincinnati Reds at Athletics Athletics,Athletics,Cincinnati Reds,7,4,1.0
+401697150,2025-09-14T20:10Z,Los Angeles Angels at Seattle Mariners,Seattle Mariners,Los Angeles Angels,11,2,1.0
+401697152,2025-09-14T20:10Z,Colorado Rockies at San Diego Padres,San Diego Padres,Colorado Rockies,9,6,1.0
+401697144,2025-09-14T23:00Z,New York Yankees at Boston Red Sox,Boston Red Sox,New York Yankees,6,4,1.0
+401697155,2025-09-15T22:40Z,Chicago Cubs at Pittsburgh Pirates,Pittsburgh Pirates,Chicago Cubs,0,4,0.0
+401697154,2025-09-15T22:45Z,Atlanta Braves at Washington Nationals,Washington Nationals,Atlanta Braves,3,11,0.0
+401697156,2025-09-15T23:35Z,Toronto Blue Jays at Tampa Bay Rays,Tampa Bay Rays,Toronto Blue Jays,1,2,0.0
+401697157,2025-09-15T23:40Z,Baltimore Orioles at Chicago White Sox,Chicago White Sox,Baltimore Orioles,1,4,0.0
+401697159,2025-09-15T23:40Z,New York Yankees at Minnesota Twins,Minnesota Twins,New York Yankees,7,0,1.0
+401697158,2025-09-15T23:45Z,Cincinnati Reds at St. Louis Cardinals,St. Louis Cardinals,Cincinnati Reds,6,11,0.0
+401697160,2025-09-16T00:10Z,Texas Rangers at Houston Astros,Houston Astros,Texas Rangers,6,3,1.0
+401697162,2025-09-16T01:40Z,San Francisco Giants at Arizona Diamondbacks,Arizona Diamondbacks,San Francisco Giants,8,1,1.0
+401697161,2025-09-16T02:10Z,Philadelphia Phillies at Los Angeles Dodgers,Los Angeles Dodgers,Philadelphia Phillies,5,6,0.0
+401776511,2025-09-16T17:05Z,Atlanta Braves at Washington Nationals,Washington Nationals,Atlanta Braves,3,6,0.0
+401697164,2025-09-16T22:40Z,Chicago Cubs at Pittsburgh Pirates,Pittsburgh Pirates,Chicago Cubs,1,4,0.0
+401697165,2025-09-16T22:40Z,Cleveland Guardians at Detroit Tigers,Detroit Tigers,Cleveland Guardians,5,7,0.0
+401697163,2025-09-16T22:45Z,Atlanta Braves at Washington Nationals,Washington Nationals,Atlanta Braves,0,5,0.0
+401697166,2025-09-16T22:45Z,Athletics Athletics at Boston Red Sox,Boston Red Sox,Athletics,1,2,0.0
+401697167,2025-09-16T23:10Z,San Diego Padres at New York Mets,New York Mets,San Diego Padres,8,3,1.0
+401697168,2025-09-16T23:35Z,Toronto Blue Jays at Tampa Bay Rays,Tampa Bay Rays,Toronto Blue Jays,5,6,0.0
+401697169,2025-09-16T23:40Z,Los Angeles Angels at Milwaukee Brewers,Milwaukee Brewers,Los Angeles Angels,9,2,1.0
+401697170,2025-09-16T23:40Z,Baltimore Orioles at Chicago White Sox,Chicago White Sox,Baltimore Orioles,7,8,0.0
+401697172,2025-09-16T23:40Z,New York Yankees at Minnesota Twins,Minnesota Twins,New York Yankees,9,10,0.0
+401697173,2025-09-16T23:40Z,Seattle Mariners at Kansas City Royals,Kansas City Royals,Seattle Mariners,5,12,0.0
+401697171,2025-09-16T23:45Z,Cincinnati Reds at St. Louis Cardinals,St. Louis Cardinals,Cincinnati Reds,3,0,1.0
+401697174,2025-09-17T00:10Z,Texas Rangers at Houston Astros,Houston Astros,Texas Rangers,6,5,1.0
+401697175,2025-09-17T00:40Z,Miami Marlins at Colorado Rockies,Colorado Rockies,Miami Marlins,5,6,0.0
+401697177,2025-09-17T01:40Z,San Francisco Giants at Arizona Diamondbacks,Arizona Diamondbacks,San Francisco Giants,6,5,1.0
+401697176,2025-09-17T02:10Z,Philadelphia Phillies at Los Angeles Dodgers,Los Angeles Dodgers,Philadelphia Phillies,6,9,0.0
+401697179,2025-09-17T16:35Z,Chicago Cubs at Pittsburgh Pirates,Pittsburgh Pirates,Chicago Cubs,4,8,0.0
+401697186,2025-09-17T17:15Z,Cincinnati Reds at St. Louis Cardinals,St. Louis Cardinals,Cincinnati Reds,2,6,0.0
+401697185,2025-09-17T18:10Z,Baltimore Orioles at Chicago White Sox,Chicago White Sox,Baltimore Orioles,1,3,0.0
+401697192,2025-09-17T19:40Z,San Francisco Giants at Arizona Diamondbacks,Arizona Diamondbacks,San Francisco Giants,1,5,0.0
+401697178,2025-09-17T20:05Z,Atlanta Braves at Washington Nationals,Washington Nationals,Atlanta Braves,4,9,0.0
+401697180,2025-09-17T22:40Z,Cleveland Guardians at Detroit Tigers,Detroit Tigers,Cleveland Guardians,0,4,0.0
+401697181,2025-09-17T22:45Z,Athletics Athletics at Boston Red Sox,Boston Red Sox,Athletics,5,4,1.0
+401697183,2025-09-17T23:05Z,Toronto Blue Jays at Tampa Bay Rays,Tampa Bay Rays,Toronto Blue Jays,2,1,1.0
+401697182,2025-09-17T23:10Z,San Diego Padres at New York Mets,New York Mets,San Diego Padres,4,7,0.0
+401697184,2025-09-17T23:40Z,Los Angeles Angels at Milwaukee Brewers,Milwaukee Brewers,Los Angeles Angels,9,2,1.0
+401697187,2025-09-17T23:40Z,New York Yankees at Minnesota Twins,Minnesota Twins,New York Yankees,5,10,0.0
+401697188,2025-09-17T23:40Z,Seattle Mariners at Kansas City Royals,Kansas City Royals,Seattle Mariners,7,5,1.0
+401697189,2025-09-18T00:10Z,Texas Rangers at Houston Astros,Houston Astros,Texas Rangers,5,2,1.0
+401697190,2025-09-18T00:40Z,Miami Marlins at Colorado Rockies,Colorado Rockies,Miami Marlins,4,8,0.0
+401697191,2025-09-18T02:10Z,Philadelphia Phillies at Los Angeles Dodgers,Los Angeles Dodgers,Philadelphia Phillies,5,0,1.0
+401697194,2025-09-18T17:10Z,Cleveland Guardians at Detroit Tigers,Detroit Tigers,Cleveland Guardians,1,3,0.0
+401697197,2025-09-18T17:10Z,San Diego Padres at New York Mets,New York Mets,San Diego Padres,6,1,1.0
+401697198,2025-09-18T17:10Z,Toronto Blue Jays at Tampa Bay Rays,Tampa Bay Rays,Toronto Blue Jays,4,0,1.0
+401697196,2025-09-18T17:35Z,Athletics Athletics at Boston Red Sox,Boston Red Sox,Athletics,3,5,0.0
+401697200,2025-09-18T18:10Z,Seattle Mariners at Kansas City Royals,Kansas City Royals,Seattle Mariners,0,2,0.0
+401697201,2025-09-18T19:10Z,Miami Marlins at Colorado Rockies,Colorado Rockies,Miami Marlins,7,9,0.0
+401697193,2025-09-18T23:15Z,Chicago Cubs at Cincinnati Reds,Cincinnati Reds,Chicago Cubs,1,0,1.0
+401697195,2025-09-18T23:15Z,New York Yankees at Baltimore Orioles,Baltimore Orioles,New York Yankees,0,7,0.0
+401697199,2025-09-18T23:40Z,Los Angeles Angels at Milwaukee Brewers,Milwaukee Brewers,Los Angeles Angels,5,2,1.0
+401697202,2025-09-19T02:10Z,San Francisco Giants at Los Angeles Dodgers,Los Angeles Dodgers,San Francisco Giants,2,1,1.0
+401697203,2025-09-19T22:40Z,Atlanta Braves at Detroit Tigers,Detroit Tigers,Atlanta Braves,1,10,0.0
+401697205,2025-09-19T22:40Z,Chicago Cubs at Cincinnati Reds,Cincinnati Reds,Chicago Cubs,7,4,1.0
+401697207,2025-09-19T22:40Z,Athletics Athletics at Pittsburgh Pirates,Pittsburgh Pirates,Athletics,3,4,0.0
+401697206,2025-09-19T23:05Z,New York Yankees at Baltimore Orioles,Baltimore Orioles,New York Yankees,4,2,1.0
+401697208,2025-09-19T23:10Z,Washington Nationals at New York Mets,New York Mets,Washington Nationals,12,6,1.0
+401697204,2025-09-19T23:35Z,Boston Red Sox at Tampa Bay Rays,Tampa Bay Rays,Boston Red Sox,7,11,0.0
+401697212,2025-09-19T23:40Z,San Diego Padres at Chicago White Sox,Chicago White Sox,San Diego Padres,4,3,1.0
+401697214,2025-09-19T23:40Z,Toronto Blue Jays at Kansas City Royals,Kansas City Royals,Toronto Blue Jays,20,1,1.0
+401697210,2025-09-20T00:05Z,Miami Marlins at Texas Rangers,Texas Rangers,Miami Marlins,4,6,0.0
+401697209,2025-09-20T00:10Z,Cleveland Guardians at Minnesota Twins,Minnesota Twins,Cleveland Guardians,2,6,0.0
+401697213,2025-09-20T00:10Z,Seattle Mariners at Houston Astros,Houston Astros,Seattle Mariners,0,4,0.0
+401697215,2025-09-20T00:10Z,Los Angeles Angels at Colorado Rockies,Colorado Rockies,Los Angeles Angels,7,6,1.0
+401697211,2025-09-20T00:15Z,Milwaukee Brewers at St. Louis Cardinals,St. Louis Cardinals,Milwaukee Brewers,7,1,1.0
+401697216,2025-09-20T01:40Z,Philadelphia Phillies at Arizona Diamondbacks,Arizona Diamondbacks,Philadelphia Phillies,2,8,0.0
+401697217,2025-09-20T02:10Z,San Francisco Giants at Los Angeles Dodgers,Los Angeles Dodgers,San Francisco Giants,6,3,1.0
+401697218,2025-09-20T17:10Z,Atlanta Braves at Detroit Tigers,Detroit Tigers,Atlanta Braves,5,6,0.0
+401697224,2025-09-20T18:10Z,Cleveland Guardians at Minnesota Twins,Minnesota Twins,Cleveland Guardians,0,6,0.0
+401697223,2025-09-20T20:10Z,Washington Nationals at New York Mets,New York Mets,Washington Nationals,3,5,0.0
+401697220,2025-09-20T22:40Z,Chicago Cubs at Cincinnati Reds,Cincinnati Reds,Chicago Cubs,6,3,1.0
+401697222,2025-09-20T22:40Z,Athletics Athletics at Pittsburgh Pirates,Pittsburgh Pirates,Athletics,2,0,1.0
+401697219,2025-09-20T23:05Z,Boston Red Sox at Tampa Bay Rays,Tampa Bay Rays,Boston Red Sox,3,6,0.0
+401697221,2025-09-20T23:05Z,New York Yankees at Baltimore Orioles,Baltimore Orioles,New York Yankees,1,6,0.0
+401697225,2025-09-20T23:05Z,Miami Marlins at Texas Rangers,Texas Rangers,Miami Marlins,3,4,0.0
+401697227,2025-09-20T23:10Z,San Diego Padres at Chicago White Sox,Chicago White Sox,San Diego Padres,3,7,0.0
+401697228,2025-09-20T23:10Z,Seattle Mariners at Houston Astros,Houston Astros,Seattle Mariners,4,6,0.0
+401697229,2025-09-20T23:10Z,Toronto Blue Jays at Kansas City Royals,Kansas City Royals,Toronto Blue Jays,2,1,1.0
+401774634,2025-09-20T23:10Z,Cleveland Guardians at Minnesota Twins,Minnesota Twins,Cleveland Guardians,0,8,0.0
+401697226,2025-09-20T23:15Z,Milwaukee Brewers at St. Louis Cardinals,St. Louis Cardinals,Milwaukee Brewers,2,3,0.0
+401697230,2025-09-21T00:10Z,Los Angeles Angels at Colorado Rockies,Colorado Rockies,Los Angeles Angels,0,3,0.0
+401697231,2025-09-21T00:10Z,Philadelphia Phillies at Arizona Diamondbacks,Arizona Diamondbacks,Philadelphia Phillies,4,3,1.0
+401697232,2025-09-21T01:10Z,San Francisco Giants at Los Angeles Dodgers,Los Angeles Dodgers,San Francisco Giants,7,5,1.0
+401697233,2025-09-21T17:10Z,Atlanta Braves at Detroit Tigers,Detroit Tigers,Atlanta Braves,2,6,0.0
+401697236,2025-09-21T17:35Z,New York Yankees at Baltimore Orioles,Baltimore Orioles,New York Yankees,1,7,0.0
+401697237,2025-09-21T17:35Z,Athletics Athletics at Pittsburgh Pirates,Pittsburgh Pirates,Athletics,11,0,1.0
+401697235,2025-09-21T17:40Z,Chicago Cubs at Cincinnati Reds,Cincinnati Reds,Chicago Cubs,1,0,1.0
+401697238,2025-09-21T17:40Z,Washington Nationals at New York Mets,New York Mets,Washington Nationals,2,3,0.0
+401697239,2025-09-21T18:10Z,Cleveland Guardians at Minnesota Twins,Minnesota Twins,Cleveland Guardians,6,2,1.0
+401697242,2025-09-21T18:10Z,San Diego Padres at Chicago White Sox,Chicago White Sox,San Diego Padres,2,3,0.0
+401697244,2025-09-21T18:10Z,Toronto Blue Jays at Kansas City Royals,Kansas City Royals,Toronto Blue Jays,5,8,0.0
+401697241,2025-09-21T18:15Z,Milwaukee Brewers at St. Louis Cardinals,St. Louis Cardinals,Milwaukee Brewers,5,1,1.0
+401697240,2025-09-21T18:35Z,Miami Marlins at Texas Rangers,Texas Rangers,Miami Marlins,2,4,0.0
+401697245,2025-09-21T19:10Z,Los Angeles Angels at Colorado Rockies,Colorado Rockies,Los Angeles Angels,3,1,1.0
+401697246,2025-09-21T20:10Z,Philadelphia Phillies at Arizona Diamondbacks,Arizona Diamondbacks,Philadelphia Phillies,9,2,1.0
+401697247,2025-09-21T20:10Z,San Francisco Giants at Los Angeles Dodgers,Los Angeles Dodgers,San Francisco Giants,1,3,0.0
+401697243,2025-09-21T23:00Z,Seattle Mariners at Houston Astros,Houston Astros,Seattle Mariners,3,7,0.0
+401697234,2025-09-21T23:35Z,Boston Red Sox at Tampa Bay Rays,Tampa Bay Rays,Boston Red Sox,7,3,1.0
+401697248,2025-09-22T23:15Z,Washington Nationals at Atlanta Braves,Atlanta Braves,Washington Nationals,11,5,1.0
+401697249,2025-09-23T01:40Z,Milwaukee Brewers at San Diego Padres,San Diego Padres,Milwaukee Brewers,5,4,1.0
+401697250,2025-09-23T01:45Z,St. Louis Cardinals at San Francisco Giants,San Francisco Giants,St. Louis Cardinals,5,6,0.0
+401697256,2025-09-23T22:35Z,Tampa Bay Rays at Baltimore Orioles,Baltimore Orioles,Tampa Bay Rays,6,0,1.0
+401697253,2025-09-23T22:40Z,Detroit Tigers at Cleveland Guardians,Cleveland Guardians,Detroit Tigers,5,2,1.0
+401697255,2025-09-23T22:40Z,Pittsburgh Pirates at Cincinnati Reds,Cincinnati Reds,Pittsburgh Pirates,2,4,0.0
+401697254,2025-09-23T22:45Z,Miami Marlins at Philadelphia Phillies,Philadelphia Phillies,Miami Marlins,5,6,0.0
+401697252,2025-09-23T23:05Z,Chicago White Sox at New York Yankees,New York Yankees,Chicago White Sox,3,2,1.0
+401697251,2025-09-23T23:07Z,Boston Red Sox at Toronto Blue Jays,Toronto Blue Jays,Boston Red Sox,1,4,0.0
+401697257,2025-09-23T23:15Z,Washington Nationals at Atlanta Braves,Atlanta Braves,Washington Nationals,3,2,1.0
+401697259,2025-09-23T23:40Z,New York Mets at Chicago Cubs,Chicago Cubs,New York Mets,7,9,0.0
+401697258,2025-09-24T00:05Z,Minnesota Twins at Texas Rangers,Texas Rangers,Minnesota Twins,1,4,0.0
+401697262,2025-09-24T01:38Z,Kansas City Royals at Los Angeles Angels,Los Angeles Angels,Kansas City Royals,4,8,0.0
+401697260,2025-09-24T01:40Z,Colorado Rockies at Seattle Mariners,Seattle Mariners,Colorado Rockies,4,3,1.0
+401697263,2025-09-24T01:40Z,Los Angeles Dodgers at Arizona Diamondbacks,Arizona Diamondbacks,Los Angeles Dodgers,5,4,1.0
+401697264,2025-09-24T01:40Z,Milwaukee Brewers at San Diego Padres,San Diego Padres,Milwaukee Brewers,7,0,1.0
+401697265,2025-09-24T01:45Z,St. Louis Cardinals at San Francisco Giants,San Francisco Giants,St. Louis Cardinals,8,9,0.0
+401764594,2025-09-24T02:05Z,Houston Astros at Athletics Athletics,Athletics,Houston Astros,5,1,1.0
+401697272,2025-09-24T16:15Z,Washington Nationals at Atlanta Braves,Atlanta Braves,Washington Nationals,3,4,0.0
+401697279,2025-09-24T20:10Z,Milwaukee Brewers at San Diego Padres,San Diego Padres,Milwaukee Brewers,1,3,0.0
+401697271,2025-09-24T22:35Z,Tampa Bay Rays at Baltimore Orioles,Baltimore Orioles,Tampa Bay Rays,2,6,0.0
+401697268,2025-09-24T22:40Z,Detroit Tigers at Cleveland Guardians,Cleveland Guardians,Detroit Tigers,5,1,1.0
+401697270,2025-09-24T22:40Z,Pittsburgh Pirates at Cincinnati Reds,Cincinnati Reds,Pittsburgh Pirates,3,4,0.0
+401697269,2025-09-24T22:45Z,Miami Marlins at Philadelphia Phillies,Philadelphia Phillies,Miami Marlins,11,1,1.0
+401697267,2025-09-24T23:05Z,Chicago White Sox at New York Yankees,New York Yankees,Chicago White Sox,8,1,1.0
+401697266,2025-09-24T23:07Z,Boston Red Sox at Toronto Blue Jays,Toronto Blue Jays,Boston Red Sox,1,7,0.0
+401697273,2025-09-25T00:05Z,Minnesota Twins at Texas Rangers,Texas Rangers,Minnesota Twins,4,2,1.0
+401697274,2025-09-25T00:05Z,New York Mets at Chicago Cubs,Chicago Cubs,New York Mets,10,3,1.0
+401697277,2025-09-25T01:38Z,Kansas City Royals at Los Angeles Angels,Los Angeles Angels,Kansas City Royals,3,2,1.0
+401697275,2025-09-25T01:40Z,Colorado Rockies at Seattle Mariners,Seattle Mariners,Colorado Rockies,9,2,1.0
+401697278,2025-09-25T01:40Z,Los Angeles Dodgers at Arizona Diamondbacks,Arizona Diamondbacks,Los Angeles Dodgers,4,5,0.0
+401697280,2025-09-25T01:45Z,St. Louis Cardinals at San Francisco Giants,San Francisco Giants,St. Louis Cardinals,4,3,1.0
+401764595,2025-09-25T02:05Z,Houston Astros at Athletics Athletics,Athletics,Houston Astros,6,0,1.0
+401697285,2025-09-25T16:40Z,Pittsburgh Pirates at Cincinnati Reds,Cincinnati Reds,Pittsburgh Pirates,2,1,1.0
+401697286,2025-09-25T17:05Z,Tampa Bay Rays at Baltimore Orioles,Baltimore Orioles,Tampa Bay Rays,6,5,1.0
+401697287,2025-09-25T18:35Z,Minnesota Twins at Texas Rangers,Texas Rangers,Minnesota Twins,0,4,0.0
+401764596,2025-09-25T19:35Z,Houston Astros at Athletics Athletics,Athletics,Houston Astros,5,11,0.0
+401697292,2025-09-25T19:40Z,Los Angeles Dodgers at Arizona Diamondbacks,Arizona Diamondbacks,Los Angeles Dodgers,0,8,0.0
+401697284,2025-09-25T22:05Z,Miami Marlins at Philadelphia Phillies,Philadelphia Phillies,Miami Marlins,1,0,1.0
+401697283,2025-09-25T22:40Z,Detroit Tigers at Cleveland Guardians,Cleveland Guardians,Detroit Tigers,2,4,0.0
+401697282,2025-09-25T23:05Z,Chicago White Sox at New York Yankees,New York Yankees,Chicago White Sox,5,3,1.0
+401697281,2025-09-25T23:07Z,Boston Red Sox at Toronto Blue Jays,Toronto Blue Jays,Boston Red Sox,6,1,1.0
+401697288,2025-09-25T23:40Z,New York Mets at Chicago Cubs,Chicago Cubs,New York Mets,5,8,0.0
+401697291,2025-09-26T01:38Z,Kansas City Royals at Los Angeles Angels,Los Angeles Angels,Kansas City Royals,4,9,0.0
+401697289,2025-09-26T01:40Z,Colorado Rockies at Seattle Mariners,Seattle Mariners,Colorado Rockies,6,2,1.0
+401697302,2025-09-26T18:20Z,St. Louis Cardinals at Chicago Cubs,Chicago Cubs,St. Louis Cardinals,12,1,1.0
+401697294,2025-09-26T22:45Z,Chicago White Sox at Washington Nationals,Washington Nationals,Chicago White Sox,9,10,0.0
+401697296,2025-09-26T22:45Z,Minnesota Twins at Philadelphia Phillies,Philadelphia Phillies,Minnesota Twins,3,1,1.0
+401697293,2025-09-26T23:05Z,Baltimore Orioles at New York Yankees,New York Yankees,Baltimore Orioles,8,4,1.0
+401697299,2025-09-26T23:07Z,Tampa Bay Rays at Toronto Blue Jays,Toronto Blue Jays,Tampa Bay Rays,4,2,1.0
+401697295,2025-09-26T23:10Z,Detroit Tigers at Boston Red Sox,Boston Red Sox,Detroit Tigers,4,3,1.0
+401697297,2025-09-26T23:10Z,New York Mets at Miami Marlins,Miami Marlins,New York Mets,6,2,1.0
+401697300,2025-09-26T23:10Z,Texas Rangers at Cleveland Guardians,Cleveland Guardians,Texas Rangers,3,7,0.0
+401697298,2025-09-26T23:15Z,Pittsburgh Pirates at Atlanta Braves,Atlanta Braves,Pittsburgh Pirates,3,9,0.0
+401697301,2025-09-27T00:10Z,Cincinnati Reds at Milwaukee Brewers,Milwaukee Brewers,Cincinnati Reds,1,3,0.0
+401697305,2025-09-27T01:38Z,Houston Astros at Los Angeles Angels,Los Angeles Angels,Houston Astros,4,3,1.0
+401697303,2025-09-27T01:40Z,Arizona Diamondbacks at San Diego Padres,San Diego Padres,Arizona Diamondbacks,7,4,1.0
+401697307,2025-09-27T01:40Z,Los Angeles Dodgers at Seattle Mariners,Seattle Mariners,Los Angeles Dodgers,2,3,0.0
+401764597,2025-09-27T02:05Z,Kansas City Royals at Athletics Athletics,Athletics,Kansas City Royals,4,3,1.0
+401697304,2025-09-27T02:15Z,Colorado Rockies at San Francisco Giants,San Francisco Giants,Colorado Rockies,6,3,1.0
+401697308,2025-09-27T17:05Z,Baltimore Orioles at New York Yankees,New York Yankees,Baltimore Orioles,6,1,1.0
+401697317,2025-09-27T18:20Z,St. Louis Cardinals at Chicago Cubs,Chicago Cubs,St. Louis Cardinals,7,3,1.0
+401697314,2025-09-27T19:07Z,Tampa Bay Rays at Toronto Blue Jays,Toronto Blue Jays,Tampa Bay Rays,5,1,1.0
+401697309,2025-09-27T20:05Z,Chicago White Sox at Washington Nationals,Washington Nationals,Chicago White Sox,6,5,1.0
+401697319,2025-09-27T20:05Z,Colorado Rockies at San Francisco Giants,San Francisco Giants,Colorado Rockies,4,3,1.0
+401697310,2025-09-27T20:10Z,Detroit Tigers at Boston Red Sox,Boston Red Sox,Detroit Tigers,1,2,0.0
+401697312,2025-09-27T20:10Z,New York Mets at Miami Marlins,Miami Marlins,New York Mets,0,5,0.0
+401697311,2025-09-27T22:05Z,Minnesota Twins at Philadelphia Phillies,Philadelphia Phillies,Minnesota Twins,0,5,0.0
+401697313,2025-09-27T23:15Z,Pittsburgh Pirates at Atlanta Braves,Atlanta Braves,Pittsburgh Pirates,1,3,0.0
+401697315,2025-09-27T23:15Z,Texas Rangers at Cleveland Guardians,Cleveland Guardians,Texas Rangers,3,2,1.0
+401697316,2025-09-27T23:15Z,Cincinnati Reds at Milwaukee Brewers,Milwaukee Brewers,Cincinnati Reds,4,7,0.0
+401697318,2025-09-28T00:40Z,Arizona Diamondbacks at San Diego Padres,San Diego Padres,Arizona Diamondbacks,5,1,1.0
+401697320,2025-09-28T01:38Z,Houston Astros at Los Angeles Angels,Los Angeles Angels,Houston Astros,1,6,0.0
+401697322,2025-09-28T01:40Z,Los Angeles Dodgers at Seattle Mariners,Seattle Mariners,Los Angeles Dodgers,3,5,0.0
+401764598,2025-09-28T02:05Z,Kansas City Royals at Athletics Athletics,Athletics,Kansas City Royals,2,4,0.0
+401697323,2025-09-28T19:05Z,Baltimore Orioles at New York Yankees,New York Yankees,Baltimore Orioles,3,2,1.0
+401697324,2025-09-28T19:05Z,Chicago White Sox at Washington Nationals,Washington Nationals,Chicago White Sox,0,8,0.0
+401697325,2025-09-28T19:05Z,Detroit Tigers at Boston Red Sox,Boston Red Sox,Detroit Tigers,4,3,1.0
+401697326,2025-09-28T19:05Z,Minnesota Twins at Philadelphia Phillies,Philadelphia Phillies,Minnesota Twins,2,1,1.0
+401697334,2025-09-28T19:05Z,Colorado Rockies at San Francisco Giants,San Francisco Giants,Colorado Rockies,4,0,1.0
+401764599,2025-09-28T19:05Z,Kansas City Royals at Athletics Athletics,Athletics,Kansas City Royals,2,9,0.0
+401697329,2025-09-28T19:07Z,Tampa Bay Rays at Toronto Blue Jays,Toronto Blue Jays,Tampa Bay Rays,13,4,1.0
+401697335,2025-09-28T19:07Z,Houston Astros at Los Angeles Angels,Los Angeles Angels,Houston Astros,2,6,0.0
+401697327,2025-09-28T19:10Z,New York Mets at Miami Marlins,Miami Marlins,New York Mets,4,0,1.0
+401697330,2025-09-28T19:10Z,Texas Rangers at Cleveland Guardians,Cleveland Guardians,Texas Rangers,9,8,1.0
+401697331,2025-09-28T19:10Z,Cincinnati Reds at Milwaukee Brewers,Milwaukee Brewers,Cincinnati Reds,4,2,1.0
+401697333,2025-09-28T19:10Z,Arizona Diamondbacks at San Diego Padres,San Diego Padres,Arizona Diamondbacks,12,4,1.0
+401697337,2025-09-28T19:10Z,Los Angeles Dodgers at Seattle Mariners,Seattle Mariners,Los Angeles Dodgers,1,6,0.0
+401697328,2025-09-28T19:15Z,Pittsburgh Pirates at Atlanta Braves,Atlanta Braves,Pittsburgh Pirates,4,1,1.0
+401697332,2025-09-28T19:20Z,St. Louis Cardinals at Chicago Cubs,Chicago Cubs,St. Louis Cardinals,2,0,1.0
+401809251,2025-09-30T17:00Z,Detroit Tigers at Cleveland Guardians,Cleveland Guardians,Detroit Tigers,1,2,0.0
+401809260,2025-09-30T19:00Z,San Diego Padres at Chicago Cubs,Chicago Cubs,San Diego Padres,3,1,1.0
+401809254,2025-09-30T22:00Z,Boston Red Sox at New York Yankees,New York Yankees,Boston Red Sox,1,3,0.0
+401809257,2025-10-01T01:00Z,Cincinnati Reds at Los Angeles Dodgers,Los Angeles Dodgers,Cincinnati Reds,10,5,1.0
