@@ -1,16 +1,16 @@
 # Estadísticas del bot
 
-Actualizado: 02/11/2026 00:13
+Actualizado: 02/11/2026 00:38
 
-**Ganadas 0 / perdidas 1** (0 % acierto) · beneficio -3.61 $ · ROI -100.0 % · banca 96.39 $
+**Ganadas 1 / perdidas 1** (50 % acierto) · beneficio -1.24 $ · ROI -24.1 % · banca 98.76 $
 
-🟥
+🟥🟩
 
 ## Por segmento (deporte y tipo de apuesta)
 
 | Segmento | Apuestas | Ganadas | % | Beneficio | ROI |
 |---|---|---|---|---|---|
-| ? no favorito | 1 | 0 | 0 % | -3.61 $ | -100.0 % |
+| ? no favorito | 2 | 1 | 50 % | -1.24 $ | -24.1 % |
 
 ## Calibración del modelo (todas las señales liquidadas)
 
@@ -19,7 +19,8 @@ Si el bot está bien calibrado, el acierto real se parece a la prob. media. Brie
 | Prob. bot | Señales | Prob. media | Acierto real | Brier bot | Brier casas | ROI a 1 u. |
 |---|---|---|---|---|---|---|
 | 0%-40% | 1 | 40% | 0% | 0.157 | 0.086 | -100.0 % |
-| Total | 1 | 40% | 0% | 0.157 | 0.086 | -100.0 % |
+| 40%-55% | 1 | 44% | 100% | 0.317 | 0.367 | +154.0 % |
+| Total | 2 | 42% | 50% | 0.237 | 0.227 | +27.0 % |
 
 ## Historial (lo más reciente primero)
 
@@ -34,7 +35,7 @@ Si el bot está bien calibrado, el acierto real se parece a la prob. media. Brie
 | 2026-11-01 | 🔗 Combinada: Los Angeles Lakers + Denver Broncos + Más de 2.5 goles (Lorient vs Brest) @ 6.62 | 6.62 | 1.63 $ | ⏳ +0.00 $ |  |
 | 2026-11-01 | Newcastle vs Everton → Newcastle @ 2.35 | 2.35 | 1.21 $ | ⏳ +0.00 $ |  |
 | 2026-11-01 | Atalanta vs Parma → Menos de 2.5 goles @ 2.30 | 2.3 | 1.69 $ | ⏳ +0.00 $ |  |
-| 2026-11-01 | Philadelphia Flyers vs Utah Mammoth → Philadelphia Flyers @ 2.54 | 2.54 | 1.54 $ | ⏳ +0.00 $ |  |
+| 2026-11-01 | Philadelphia Flyers vs Utah Mammoth → Philadelphia Flyers @ 2.54 | 2.54 | 1.54 $ | 🟩 +2.37 $ |  |
 | 2026-11-01 | Lorient vs Brest → Lorient @ 2.50 | 2.5 | 1.64 $ | ⏳ +0.00 $ |  |
 | 2026-11-01 | Denver Broncos vs Kansas City Chiefs → Denver Broncos @ 1.93 | 1.93 | 3.45 $ | ⏳ +0.00 $ |  |
 | 2026-11-01 | Miami Dolphins vs New England Patriots → Miami Dolphins @ 3.75 | 3.75 | 2.04 $ | ⏳ +0.00 $ |  |

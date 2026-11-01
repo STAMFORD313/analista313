@@ -391,7 +391,10 @@
    "match": "Philadelphia Flyers vs Utah Mammoth",
    "pick": "Philadelphia Flyers",
    "start": "2026-11-01T21:00Z",
-   "considered": true
+   "considered": true,
+   "result": true,
+   "score": "6-3",
+   "logged": true
   },
   {
    "market": "A",
@@ -2070,7 +2073,7 @@
   }
  ],
  "bank": {
-  "balance": 70.0,
+  "balance": 73.91,
   "bets": [
    {
     "date": "2026-11-01",
@@ -2153,7 +2156,8 @@
     "stake": 1.54,
     "odds": 2.54,
     "desc": "Philadelphia Flyers vs Utah Mammoth → Philadelphia Flyers @ 2.54",
-    "status": "abierta"
+    "status": "ganada",
+    "return": 3.91
    },
    {
     "date": "2026-11-01",
@@ -2283,5 +2287,5 @@
   ]
  },
  "scoreboard_id": 53,
- "scoreboard_text": "📊 <b>MARCADOR DEL BOT</b>\n━━━━━━━━━━━━━━━\n🟩 Ganadas: <b>0</b> (0 %)\n🟥 Perdidas: <b>1</b> (100 %)\n⏳ En juego: 14\n\nÚltimas 1:\n🟥\n━━━━━━━━━━━━━━━\n💵 Beneficio -3.61 $ · ROI -100.0 %\n💰 Banca: <b>96.39 $</b> (-3.61 $ desde 100 $) · libre 70.00 ${\"inline_keyboard\": [[{\"text\": \"\\ud83d\\udcc8 Ver historial completo y fallos\", \"url\": \"https://github.com/STAMFORD313/analista313/blob/main/ESTADISTICAS.md\"}], [{\"text\": \"\\u26bd F\\u00fatbol\", \"callback_data\": \"dep:futbol\"}, {\"text\": \"\\ud83c\\udfc0 NBA\", \"callback_data\": \"dep:nba\"}, {\"text\": \"\\ud83c\\udfc8 NFL\", \"callback_data\": \"dep:nfl\"}], [{\"text\": \"\\ud83c\\udfd2 NHL\", \"callback_data\": \"dep:nhl\"}, {\"text\": \"\\u26be MLB\", \"callback_data\": \"dep:mlb\"}, {\"text\": \"\\ud83e\\udd4a UFC\", \"callback_data\": \"dep:ufc\"}], [{\"text\": \"\\ud83c\\udfbe Tenis\", \"callback_data\": \"dep:tenis\"}, {\"text\": \"\\ud83c\\udfae CS2\", \"callback_data\": \"dep:cs2\"}, {\"text\": \"\\ud83d\\udc09 Dota 2\", \"callback_data\": \"dep:dota2\"}], [{\"text\": \"\\ud83e\\uddd9 LoL\", \"callback_data\": \"dep:lol\"}, {\"text\": \"\\ud83d\\udd2b R6 Siege\", \"callback_data\": \"dep:r6\"}, {\"text\": \"\\ud83d\\udcf1 MLBB\", \"callback_data\": \"dep:mlbb\"}]]}"
+ "scoreboard_text": "📊 <b>MARCADOR DEL BOT</b>\n━━━━━━━━━━━━━━━\n🟩 Ganadas: <b>1</b> (50 %)\n🟥 Perdidas: <b>1</b> (50 %)\n⏳ En juego: 13\n\nÚltimas 2:\n🟥🟩\n━━━━━━━━━━━━━━━\n💵 Beneficio -1.24 $ · ROI -24.1 %\n💰 Banca: <b>98.76 $</b> (-1.24 $ desde 100 $) · libre 73.91 ${\"inline_keyboard\": [[{\"text\": \"\\ud83d\\udcc8 Ver historial completo y fallos\", \"url\": \"https://github.com/STAMFORD313/analista313/blob/main/ESTADISTICAS.md\"}], [{\"text\": \"\\u26bd F\\u00fatbol\", \"callback_data\": \"dep:futbol\"}, {\"text\": \"\\ud83c\\udfc0 NBA\", \"callback_data\": \"dep:nba\"}, {\"text\": \"\\ud83c\\udfc8 NFL\", \"callback_data\": \"dep:nfl\"}], [{\"text\": \"\\ud83c\\udfd2 NHL\", \"callback_data\": \"dep:nhl\"}, {\"text\": \"\\u26be MLB\", \"callback_data\": \"dep:mlb\"}, {\"text\": \"\\ud83e\\udd4a UFC\", \"callback_data\": \"dep:ufc\"}], [{\"text\": \"\\ud83c\\udfbe Tenis\", \"callback_data\": \"dep:tenis\"}, {\"text\": \"\\ud83c\\udfae CS2\", \"callback_data\": \"dep:cs2\"}, {\"text\": \"\\ud83d\\udc09 Dota 2\", \"callback_data\": \"dep:dota2\"}], [{\"text\": \"\\ud83e\\uddd9 LoL\", \"callback_data\": \"dep:lol\"}, {\"text\": \"\\ud83d\\udd2b R6 Siege\", \"callback_data\": \"dep:r6\"}, {\"text\": \"\\ud83d\\udcf1 MLBB\", \"callback_data\": \"dep:mlbb\"}]]}"
 }
