@@ -6,6 +6,7 @@ import pandas as pd
 import requests
 
 import analyst as A
+import bankroll
 import tennis_model, totals_model, ufc_model
 
 ESPN = "https://site.api.espn.com/apis/site/v2/sports"
@@ -23,6 +24,7 @@ DIR = A.DATA / "espn"
 _P = json.loads((A.DATA / "espn_params.json").read_text()) if (A.DATA / "espn_params.json").exists() else {}  # lo ajusta train_espn.py
 for _l, _p in _P.items(): SPORTS[_l] = (*SPORTS[_l][:3], _p["hfa"], _p["K"])
 TOT = json.loads(totals_model.PARAMS.read_text()) if totals_model.PARAMS.exists() else {}  # lo ajusta totals_model.py
+SPREAD = TOT.get("spread", {})  # margen desde el Elo para el hándicap (NBA, NFL)
 TOT = {l: c for l, c in TOT.items() if l != "spread" and c["ou"] < c["ou_old"]}  # solo ligas donde mejora el más/menos
 COLS = ["id", "date", "event", "home", "away", "hs", "as", "res"]
 
@@ -130,6 +132,15 @@ def totals(odds):
         return None, None, None
 
 
+def spreads(odds):
+    """(línea del local, cuota local, cuota visitante) del hándicap de DraftKings."""
+    try:
+        s = odds[0]["pointSpread"]
+        return float(s["home"]["close"]["line"]), american(s["home"]["close"]["odds"]), american(s["away"]["close"]["odds"])
+    except (TypeError, KeyError, IndexError, ValueError):
+        return None, None, None
+
+
 def points_model(df, league, today):
     """Ataque/defensa por equipo en puntos (mismo modelo con decaimiento que el fútbol) + desviación típica del total."""
     d = df.dropna(subset=["hs", "as"]).rename(columns={"home": "HomeTeam", "away": "AwayTeam", "hs": "FTHG", "as": "FTAG", "date": "Date"})
@@ -183,7 +194,8 @@ def settle(df, league, state):
     for s in state["signals"]:
         r = done.get(s["key"])
         if s.get("result") is None and r is not None:
-            if s["market"] in ("over", "under"):
+            if s["market"] in ("sph", "spa"): s["result"] = bankroll.spread_result(s["market"], s["line"], r["hs"], r["as"])
+            elif s["market"] in ("over", "under"):
                 t = float(r["hs"]) + float(r["as"])
                 s["result"] = "nula" if t == s["line"] else (t > s["line"]) == (s["market"] == "over")
             else: s["result"] = "nula" if r["res"] == 0.5 else (r["res"] == 1) == (s["market"] == "home")
@@ -247,6 +259,20 @@ def run_league(league, state, today, kg):
                     "context": f"{home} vs {away} ({title}). Modelo de puntos (ataque/defensa con {YEARS} años, decaimiento 1 año): "
                                f"total esperado {v['expected']} frente a línea {line}. Forma {home} {form(df, home)}, {away} {form(df, away)}. "
                                f"H2H {h2h}. Bajas: {A.absences_line(home, squads[0])}; {A.absences_line(away, squads[1])}."})
+        sl, sh, sa = spreads(g["odds"])
+        if league in SPREAD and sl is not None and sh and sa:  # hándicap: prob. de cubrir desde el Elo, mezclada con DK
+            sc = [{**v, "market": "sp" + v["market"][0], "line": sl if v["market"] == "home" else -sl}
+                  for v in signals(totals_model.p_cover(league, p, sl, {"spread": SPREAD}), sh, sa, every=True)]
+            for v in [v for v in sc if A.EDGE <= v["edge"] <= A.MAX_EDGE] or sorted(sc, key=lambda v: -v["edge"])[:1]:
+                team = home if v["market"] == "sph" else away
+                state["signals"].append({**v, "key": key(league, g), "match": f"{home} vs {away}", "start": g["date"],
+                    "pick": f"{team} {v['line']:+g}", "league": title, "sport": title.split()[0],
+                    "info": [f"📊 <b>Escenarios</b>: {A.esc(team)} cubre {v['line']:+g} con prob. {v['p']:.0%} (casas {v['implied']:.0%})",
+                             "", "🔎 <b>Claves</b>", f"• Forma: {A.esc(home)} {form(df, home)} | {A.esc(away)} {form(df, away)}",
+                             f"• H2H: {h2h}", f"• Bajas: {A.absences_line(home, squads[0])}; {A.absences_line(away, squads[1])}"],
+                    "context": f"{home} vs {away} ({title}). Hándicap {team} {v['line']:+g}: margen esperado desde el Elo "
+                               f"(gana {home} {p:.0%}). Forma {home} {form(df, home)}, {away} {form(df, away)}. H2H {h2h}. "
+                               f"Bajas: {A.absences_line(home, squads[0])}; {A.absences_line(away, squads[1])}."})
         oh, oa = moneyline(g["odds"])
         cands = signals(p, oh, oa, every=True)
         if not cands: continue

@@ -142,6 +142,9 @@ assert (analyst.HALF_LIFE, analyst.SHRINK, analyst.RHO, analyst.BLEND, analyst.E
 ep = json.loads((analyst.DATA / "espn_params.json").read_text())
 assert all(multisport.SPORTS[l][3:] == (p["hfa"], p["K"]) for l, p in ep.items())
 assert set(multisport.TOT) <= {"nba", "mlb", "nhl", "nfl"} and 0 < multisport.totals_model.p_over("nba", 200, 199.5, multisport.TOT) < 1
+st2 = {"signals": [{"key": "nba|2026-11-02|A|B", "market": "sph", "line": -2.5}]}
+multisport.settle(pd.DataFrame([{"date": "2026-11-02", "home": "A", "away": "B", "hs": 100, "as": 97, "res": 1.0}]), "nba", st2)
+assert st2["signals"][0]["result"] is True and multisport.spreads(None) == (None, None, None)
 print("ok parámetros entrenados")
 
 import esports
