@@ -68,17 +68,21 @@ def update_history(league, today):
     return df.drop_duplicates("id").sort_values("date", ignore_index=True)
 
 
-def elo(df, hfa, k, pred=None, keep=0.75, kt=250):
-    """Ratings finales; si se pasa `pred`, guarda ahí la prob. local de cada partido ANTES de jugarse (backtest)."""
+def elo(df, hfa, k, pred=None, keep=0.75, kt=250, mov=False):
+    """Ratings finales; si se pasa `pred`, guarda ahí la prob. local de cada partido ANTES de jugarse (backtest).
+    mov=True: el K crece con el margen y se frena en las palizas del favorito (Elo de FiveThirtyEight)."""
     R, n, last = {}, {}, {}
-    for r in df.itertuples():
+    margin = (pd.to_numeric(df.hs, errors="coerce") - pd.to_numeric(df["as"], errors="coerce")).abs() if mov else [None] * len(df)
+    for r, mg in zip(df.itertuples(), margin):
         for t in (r.home, r.away):
             if k and t in last and (r.date - last[t]).days > 90: R[t] = 1500 + keep * (R[t] - 1500)  # nueva temporada
             last[t] = r.date
         e = win_prob(R, r.home, r.away, hfa)
         if pred is not None: pred.append(e)
+        dr = (R.get(r.home, 1500) + hfa - R.get(r.away, 1500)) * (1 if r.res > 0.5 else -1)  # ventaja Elo del ganador
+        mult = 1 if mg is None or pd.isna(mg) else math.log(mg + 1) * 2.2 / (dr * 0.001 + 2.2)
         for t, s, sign in ((r.home, r.res - e, 1), (r.away, r.res - e, -1)):
-            kk = k or kt / (n.get(t, 0) + 5) ** 0.4  # K de tenis: baja con la experiencia del jugador
+            kk = (k or kt / (n.get(t, 0) + 5) ** 0.4) * mult  # K de tenis: baja con la experiencia del jugador
             R[t] = R.get(t, 1500) + sign * kk * s
             n[t] = n.get(t, 0) + 1
     return R
@@ -196,7 +200,8 @@ def run_league(league, state, today, kg):
     df = update_history(league, today)
     print(f"{league}: {len(df)} partidos de historial")
     settle(df, league, state)
-    R = elo(df, hfa, k, None, _P.get(league, {}).get("keep", 0.75), _P.get(league, {}).get("kt", 250))
+    p_ = _P.get(league, {})
+    R = elo(df, hfa, k, None, p_.get("keep", 0.75), p_.get("kt", 250), p_.get("mov", False))
     pts = points_model(df, league, today) if k else None  # totales solo en deportes de equipo
     games = {}
     for d in pd.date_range(today, periods=A.HORIZON_DAYS + 1):

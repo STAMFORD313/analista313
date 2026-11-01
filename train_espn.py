@@ -1,4 +1,4 @@
-"""Entrena el Elo de ESPN: en NBA, NFL, NHL y MLB prueba K, ventaja local y cuánto rating se conserva entre temporadas;
+"""Entrena el Elo de ESPN: en NBA, NFL, NHL y MLB prueba K, ventaja local, cuánto rating se conserva entre temporadas y si el K depende del margen;
 en tenis y UFC la escala del K dinámico. Mide el log-loss de las 2 últimas temporadas con la probabilidad calculada
 ANTES de cada partido y guarda los mejores en data/espn_params.json (lo lee multisport.py)."""
 import itertools, json
@@ -13,9 +13,9 @@ GRID = {"K": [1, 2, 4, 6, 8, 12, 16, 20, 24, 32, 40, 48], "hfa": [0, 15, 25, 35,
         "keep": [0.2, 0.3, 0.4, 0.5, 0.6, 0.75, 0.9, 1.0], "kt": [100, 150, 200, 250, 300, 400]}
 
 
-def logloss(df, hfa, k, since, keep=0.75, kt=250):
+def logloss(df, hfa, k, since, keep=0.75, kt=250, mov=False):
     pred = []
-    M.elo(df, hfa, k, pred, keep, kt)
+    M.elo(df, hfa, k, pred, keep, kt, mov)
     p, y, ev = np.clip(np.array(pred), 1e-6, 1 - 1e-6), df.res.to_numpy(float), (df.date >= since).to_numpy()
     return float(-(y * np.log(p) + (1 - y) * np.log(1 - p))[ev].mean()), int(ev.sum())  # empates (0.5) cuentan medio
 
@@ -29,10 +29,11 @@ def main():
         df = df.dropna(subset=["res"]).drop_duplicates("id").sort_values("date", ignore_index=True)
         since = df.date.max() - pd.DateOffset(years=2)
         if v[4]:  # deportes de equipo
-            old = logloss(df, *BASE[league], since)
-            res = {(k, h, kp): logloss(df, h, k, since, kp)[0] for k, h, kp in itertools.product(GRID["K"], GRID["hfa"], GRID["keep"])}
-            k, h, kp = min(res, key=res.get)
-            out[league] = {"K": k, "hfa": h, "keep": kp, "logloss": round(res[k, h, kp], 4), "logloss_old": round(old[0], 4)}
+            old = logloss(df, BASE[league][0], BASE[league][1], since)
+            res = {(k, h, kp, mv): logloss(df, h, k, since, kp, mov=mv)[0]
+                   for k, h, kp, mv in itertools.product(GRID["K"], GRID["hfa"], GRID["keep"], (False, True))}
+            k, h, kp, mv = min(res, key=res.get)
+            out[league] = {"K": k, "hfa": h, "keep": kp, "mov": mv, "logloss": round(res[k, h, kp, mv], 4), "logloss_old": round(old[0], 4)}
         else:  # tenis y UFC: K dinámico sin ventaja local
             old = logloss(df, 0, None, since)
             res = {kt: logloss(df, 0, None, since, kt=kt)[0] for kt in GRID["kt"]}
