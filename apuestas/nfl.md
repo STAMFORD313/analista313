@@ -1,6 +1,6 @@
 # 🏈 NFL · apuestas de valor
 
-Actualizado 01/11/2026 23:41 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 01/11/2026 23:43 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Washington Commanders vs Philadelphia Eagles — 02/11 · 02:20
 
