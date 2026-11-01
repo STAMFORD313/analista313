@@ -1,0 +1,26 @@
+name: analista
+on:
+  schedule: [{cron: "17 * * * *"}]   # cada hora
+  workflow_dispatch:
+permissions: {contents: write}
+concurrency: analista
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.12", cache: pip}
+      - run: pip install -r requirements.txt
+      - run: python test_analyst.py && python analyst.py
+        env:
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+      # guarda historial y estado en el repo (además mantiene vivo el cron de GitHub)
+      - run: |
+          git config user.name analista-bot
+          git config user.email actions@users.noreply.github.com
+          git add data
+          git diff --cached --quiet || (git commit -m "datos $(date -u +%FT%H:%M)" && git push)
