@@ -1,6 +1,6 @@
 # 🏒 NHL · apuestas de valor
 
-Actualizado 01/11/2026 23:39 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 01/11/2026 23:40 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## New York Rangers vs Edmonton Oilers — 02/11 · 00:00
 
