@@ -68,17 +68,17 @@ def update_history(league, today):
     return df.drop_duplicates("id").sort_values("date", ignore_index=True)
 
 
-def elo(df, hfa, k, pred=None):
+def elo(df, hfa, k, pred=None, keep=0.75, kt=250):
     """Ratings finales; si se pasa `pred`, guarda ahí la prob. local de cada partido ANTES de jugarse (backtest)."""
     R, n, last = {}, {}, {}
     for r in df.itertuples():
         for t in (r.home, r.away):
-            if k and t in last and (r.date - last[t]).days > 90: R[t] = 1500 + 0.75 * (R[t] - 1500)  # nueva temporada
+            if k and t in last and (r.date - last[t]).days > 90: R[t] = 1500 + keep * (R[t] - 1500)  # nueva temporada
             last[t] = r.date
         e = win_prob(R, r.home, r.away, hfa)
         if pred is not None: pred.append(e)
         for t, s, sign in ((r.home, r.res - e, 1), (r.away, r.res - e, -1)):
-            kk = k or 250 / (n.get(t, 0) + 5) ** 0.4  # K de tenis: baja con la experiencia del jugador
+            kk = k or kt / (n.get(t, 0) + 5) ** 0.4  # K de tenis: baja con la experiencia del jugador
             R[t] = R.get(t, 1500) + sign * kk * s
             n[t] = n.get(t, 0) + 1
     return R
@@ -196,7 +196,7 @@ def run_league(league, state, today, kg):
     df = update_history(league, today)
     print(f"{league}: {len(df)} partidos de historial")
     settle(df, league, state)
-    R = elo(df, hfa, k)
+    R = elo(df, hfa, k, None, _P.get(league, {}).get("keep", 0.75), _P.get(league, {}).get("kt", 250))
     pts = points_model(df, league, today) if k else None  # totales solo en deportes de equipo
     games = {}
     for d in pd.date_range(today, periods=A.HORIZON_DAYS + 1):
