@@ -52,3 +52,9 @@ s0 = {"key": "k9", "market": "U25", "odds": 2.0, "p": 0.5, "edge": 0.06, "match"
 assert [ok for ok, _ in radar.checklist(s0)] == [False, True, True, False]
 assert len(sum(radar.menu(), [])) == len(radar.SPORTS)
 print("ok radar")
+
+from multisport import total_signals
+st_ = (100.0, 100.0, {"att_h": {}, "def_h": {}, "att_a": {}, "def_a": {}})
+tot = {v["market"]: v for v in total_signals((st_, 15.0), "X", "Y", 190.5, 1.91, 1.91)}
+assert tot["over"]["p"] > 0.6 and tot["over"]["edge"] > 0.1 and tot["under"]["p"] < 0.4
+print("ok totales")

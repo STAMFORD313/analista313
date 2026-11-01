@@ -26,7 +26,7 @@ def pick(s):
 
 def pick_text(s):
     p = pick(s)
-    return p if s["market"] in ("D", "O25", "U25") else f"Gana {p}"
+    return p if s["market"] in ("D", "O25", "U25", "over", "under") else f"Gana {p}"
 
 
 def when(s): return pd.Timestamp(s["start"]).tz_convert("Europe/Madrid").strftime("%d/%m · %H:%M")
@@ -44,7 +44,7 @@ def bank_line(bank):
 
 
 def segment(s):
-    kind = "goles" if s["market"] in ("O25", "U25") else "empate" if s["market"] == "D" else "favorito" if s["odds"] < 2 else "no favorito"
+    kind = "goles" if s["market"] in ("O25", "U25") else "totales" if s["market"] in ("over", "under") else "empate" if s["market"] == "D" else "favorito" if s["odds"] < 2 else "no favorito"
     return f"{s.get('sport', '?')} {kind}"
 
 
@@ -140,6 +140,8 @@ def place(bank, signals, today, kg):
     new = [s for s in signals if not s.get("considered")]
     for s in new: s["considered"] = True
     new = [s for s in new if s.get("start") and pd.Timestamp(s["start"]) > now]  # nunca apostar a algo ya empezado
+    already = {tuple(l) for x in bank["bets"] for l in x["legs"]}
+    new = [s for s in new if (s["key"], s["market"]) not in already]  # nunca repetir una apuesta
     open_stake = sum(b["stake"] for b in bank["bets"] if b["status"] == "abierta")
 
     def bet(legs, stake, odds, desc):
@@ -158,7 +160,7 @@ def place(bank, signals, today, kg):
     approved = []
     for s in sorted(new, key=lambda s: s["p"] * (1 + s["edge"]), reverse=True):
         if len(approved) >= MAX_SINGLES: break
-        if s["p"] < SURE_P or segment(s) in bad: continue
+        if s["p"] < SURE_P or not A.EDGE <= s["edge"] <= A.MAX_EDGE or segment(s) in bad: continue
         ok, reason, conf = ai_review(s)
         s["ai"] = {"apostar": ok, "motivo": reason, "confianza": conf}
         if not ok or (str(conf).isdigit() and int(conf) < SURE_CONF): continue

@@ -1,0 +1,19 @@
+name: menu
+on:
+  schedule: [{cron: "0 */5 * * *"}]   # cada 5 h arranca una escucha nueva de ~5 h 45 min: cubre las 24 h
+  workflow_dispatch:
+  push: {branches: [main], paths: ["menu.py", "radar.py", ".github/workflows/menu.yml"]}
+concurrency: {group: menu, cancel-in-progress: true}   # la nueva releva a la anterior (un solo lector de Telegram)
+jobs:
+  listen:
+    runs-on: ubuntu-latest
+    timeout-minutes: 355
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.12", cache: pip}
+      - run: pip install -r requirements.txt
+      - run: python menu.py
+        env:
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}

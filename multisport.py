@@ -1,5 +1,7 @@
 """NBA, NFL, NHL, MLB y tenis ATP/WTA vía la API pública de ESPN: 10 años de historial, Elo, lesiones,
 cuotas DraftKings, señales de valor, IA, grafo, PDF y Telegram. Reutiliza las utilidades de analyst.py."""
+import math
+
 import pandas as pd
 import requests
 
@@ -97,14 +99,44 @@ def moneyline(odds):
         return None, None
 
 
-def signals(p_home, oh, oa):
+def signals(p_home, oh, oa, every=False):
     if not (oh and oa): return []
     inv, out = 1 / oh + 1 / oa, []
     for side, p, o in (("home", p_home, oh), ("away", 1 - p_home, oa)):
         q = 0.5 * p + 0.5 / o / inv  # mezcla Elo + mercado sin margen, como en fútbol
-        if q >= A.MIN_P and A.EDGE <= q * o - 1 <= A.MAX_EDGE:
+        if q >= A.MIN_P and (every or A.EDGE <= q * o - 1 <= A.MAX_EDGE):
             out.append({"market": side, "odds": o, "book": "DraftKings", "p": round(q, 3), "implied": round(1 / o / inv, 3),
                         "edge": round(q * o - 1, 3)})
+    return out
+
+
+def totals(odds):
+    """(línea, cuota más, cuota menos) del total de puntos de DraftKings."""
+    try:
+        t = odds[0]["total"]
+        return float(t["over"]["close"]["line"][1:]), american(t["over"]["close"]["odds"]), american(t["under"]["close"]["odds"])
+    except (TypeError, KeyError, IndexError, ValueError):
+        return None, None, None
+
+
+def points_model(df, league, today):
+    """Ataque/defensa por equipo en puntos (mismo modelo con decaimiento que el fútbol) + desviación típica del total."""
+    d = df.dropna(subset=["hs", "as"]).rename(columns={"home": "HomeTeam", "away": "AwayTeam", "hs": "FTHG", "as": "FTAG", "date": "Date"})
+    d = d.assign(Div=league, Date=d.Date.dt.tz_localize(None), FTHG=d.FTHG.astype(float), FTAG=d.FTAG.astype(float))
+    recent = d[d.Date >= today - pd.Timedelta(days=400)]
+    return A.strengths(d, league, today), float((recent.FTHG + recent.FTAG).std())
+
+
+def total_signals(model, home, away, line, oo, ou):
+    (mu_h, mu_a, s), sd = model
+    exp = mu_h * s["att_h"].get(home, 1) * s["def_a"].get(away, 1) + mu_a * s["att_a"].get(away, 1) * s["def_h"].get(home, 1)
+    p_over = 0.5 * (1 - math.erf((line - exp) / (sd * math.sqrt(2))))  # normal(total esperado, sd histórica)
+    inv, out = 1 / oo + 1 / ou, []
+    for side, p, o in (("over", p_over, oo), ("under", 1 - p_over, ou)):
+        q = 0.5 * p + 0.5 / o / inv
+        if q >= A.MIN_P:
+            out.append({"market": side, "line": line, "odds": o, "book": "DraftKings", "p": round(q, 3),
+                        "implied": round(1 / o / inv, 3), "edge": round(q * o - 1, 3), "expected": round(exp, 1)})
     return out
 
 
@@ -138,7 +170,10 @@ def settle(df, league, state):
     for s in state["signals"]:
         r = done.get(s["key"])
         if s.get("result") is None and r is not None:
-            s["result"] = "nula" if r["res"] == 0.5 else (r["res"] == 1) == (s["market"] == "home")
+            if s["market"] in ("over", "under"):
+                t = float(r["hs"]) + float(r["as"])
+                s["result"] = "nula" if t == s["line"] else (t > s["line"]) == (s["market"] == "over")
+            else: s["result"] = "nula" if r["res"] == 0.5 else (r["res"] == 1) == (s["market"] == "home")
             if pd.notna(r["hs"]) and pd.notna(r["as"]): s["score"] = f"{int(float(r['hs']))}-{int(float(r['as']))}"
 
 
@@ -158,6 +193,7 @@ def run_league(league, state, today, kg):
     print(f"{league}: {len(df)} partidos de historial")
     settle(df, league, state)
     R = elo(df, hfa, k)
+    pts = points_model(df, league, today) if k else None  # totales solo en deportes de equipo
     games = {}
     for d in pd.date_range(today, periods=A.HORIZON_DAYS + 1):
         try: games.update({g["id"]: g for g in parse(get(f"{path}/scoreboard", dates=f"{d:%Y%m%d}", limit=1000)) if g["state"] == "pre"})
@@ -176,9 +212,24 @@ def run_league(league, state, today, kg):
         h2h = f"{len(hh)} desde {hh.date.min():%Y}: {wins(home)}-{wins(away)}" if len(hh) else "sin precedentes"
         kg.match(title, home, away, g["date"], {"1": p, "2": 1 - p}, squads, h2h)
         state["analyzed"].append(key(league, g))
+        line, oo, ou = totals(g["odds"])
+        if pts and line and oo and ou:
+            tc = total_signals(pts, home, away, line, oo, ou)
+            for v in [v for v in tc if A.EDGE <= v["edge"] <= A.MAX_EDGE] or sorted(tc, key=lambda v: -v["edge"])[:1]:
+                word = {"nba": "puntos", "nfl": "puntos", "nhl": "goles", "mlb": "carreras"}.get(league, "puntos")
+                state["signals"].append({**v, "key": key(league, g), "match": f"{home} vs {away}", "start": g["date"],
+                    "pick": f"{'Más' if v['market'] == 'over' else 'Menos'} de {line} {word}", "league": title, "sport": title.split()[0],
+                    "info": [f"📊 <b>Escenarios</b>: total esperado <b>{v['expected']}</b> {word} · línea {line}",
+                             f"Más {v['p'] if v['market'] == 'over' else 1 - v['p']:.0%} · Menos {v['p'] if v['market'] == 'under' else 1 - v['p']:.0%}",
+                             "", "🔎 <b>Claves</b>", f"• Forma: {A.esc(home)} {form(df, home)} | {A.esc(away)} {form(df, away)}",
+                             f"• H2H: {h2h}", f"• Bajas: {A.absences_line(home, squads[0])}; {A.absences_line(away, squads[1])}"],
+                    "context": f"{home} vs {away} ({title}). Modelo de puntos (ataque/defensa con {YEARS} años, decaimiento 1 año): "
+                               f"total esperado {v['expected']} frente a línea {line}. Forma {home} {form(df, home)}, {away} {form(df, away)}. "
+                               f"H2H {h2h}. Bajas: {A.absences_line(home, squads[0])}; {A.absences_line(away, squads[1])}."})
         oh, oa = moneyline(g["odds"])
-        vb = signals(p, oh, oa)
-        if not vb: continue
+        cands = signals(p, oh, oa, every=True)
+        if not cands: continue
+        vb = [v for v in cands if A.EDGE <= v["edge"] <= A.MAX_EDGE] or [max(cands, key=lambda v: v["edge"])]
         details, total = line_details(g["odds"])
         fav = home if oh < oa else away
         info = [f"📊 <b>Escenarios</b> (Elo con {len(df):,} partidos y bajas)".replace(",", "."),

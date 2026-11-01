@@ -143,7 +143,8 @@ def best_odds(row, m):
     return None, None
 
 
-def value_bets(P, row):
+def value_bets(P, row, every=False):
+    """Mercados con ventaja (o todos los de prob >= MIN_P si every=True, para listar candidatas)."""
     out = []
     for group in (("H", "D", "A"), ("O25", "U25")):
         best = {m: best_odds(row, m) for m in group}
@@ -155,7 +156,7 @@ def value_bets(P, row):
         for m in group:
             implied = 1 / avg[m] / inv  # probabilidad del mercado sin margen
             p, (o, book) = 0.5 * P[m] + 0.5 * implied, best[m]  # mezcla modelo + mercado: el Poisson solo sobreestima ventajas
-            if p >= MIN_P and EDGE <= p * o - 1 <= MAX_EDGE:
+            if p >= MIN_P and (every or EDGE <= p * o - 1 <= MAX_EDGE):
                 out.append({"market": m, "odds": o, "book": book, "p": round(p, 3), "implied": round(implied, 3),
                             "edge": round(p * o - 1, 3)})
     return out
@@ -296,8 +297,9 @@ def analyze_fixtures(df, state, today, kg):
         hh = h2h(df, home, away)
         kg.match(ALL_LEAGUES[div], home, away, start, {"1": P["H"], "X": P["D"], "2": P["A"]}, squads, h2h_summary(hh, home, away))
         state["analyzed"].append(k)
-        vb = value_bets(P, row)
-        if not vb: continue
+        cands = value_bets(P, row, every=True)
+        if not cands: continue
+        vb = [v for v in cands if EDGE <= v["edge"] <= MAX_EDGE] or [max(cands, key=lambda v: v["edge"])]  # sin valor: la mejor como candidata
         fav = min(("H", "D", "A"), key=lambda m: best_odds(row, m)[0] or 99)
         pick = {"H": home, "A": away}
         info = [f"📊 <b>Escenarios</b> (goles esperados {lh:.2f} - {la:.2f})",
@@ -322,6 +324,21 @@ def analyze_fixtures(df, state, today, kg):
                                      "info": info, "context": context})
 
 
+def prune(state):
+    """Mantiene state.json pequeño: fuera candidatas viejas no apostadas y textos de partidos ya empezados."""
+    now = pd.Timestamp.now(tz="UTC")
+    used = {tuple(l) for b in state.get("bank", {}).get("bets", []) for l in b["legs"]}
+    keep, seen = [], set()
+    for s in state["signals"]:
+        if (s["key"], s["market"]) in seen: continue  # sin duplicados
+        seen.add((s["key"], s["market"]))
+        started = not s.get("start") or pd.Timestamp(s["start"]) < now
+        if (s["key"], s["market"]) not in used and (not s.get("start") or pd.Timestamp(s["start"]) < now - pd.Timedelta(days=3)): continue
+        if started: s.pop("info", None)
+        keep.append(s)
+    state["signals"] = keep
+
+
 def main():
     import bankroll, knowledge, multisport
     today = pd.Timestamp.now().normalize()
@@ -334,6 +351,7 @@ def main():
     multisport.run(state, today, kg)
     bankroll.run(state, today, kg)
     kg.save()
+    prune(state)
     state.pop("seen", None)
     STATE.write_text(json.dumps(state, ensure_ascii=False, indent=1), encoding="utf-8")
 

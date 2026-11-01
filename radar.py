@@ -74,12 +74,30 @@ def pages(state):
         (PAGES / f"{slug}.md").write_text("\n".join(md) + "\n", encoding="utf-8")
 
 
-def menu():
-    url = lambda slug: f"https://github.com/{B.REPO}/blob/main/apuestas/{slug}.md"
-    btns = [{"text": f"{icon} {name}", "url": url(slug)} for icon, (slug, name) in SPORTS.items()]
-    return [btns[i:i + 3] for i in range(0, len(btns), 3)]
+def menu(): return sport_buttons()  # botones de filtro (los atiende menu.py dentro de Telegram)
 
 
 def run(state, today):
     radar(state, today)
     pages(state)
+
+
+def sport_view(state, slug, limit=12):
+    """Texto (HTML de Telegram) con las próximas apuestas y candidatas de un deporte."""
+    icon, name = next((i, n) for i, (s, n) in SPORTS.items() if s == slug)
+    bad = {k for k, v in B.seg_stats(state["bank"], state["signals"]).items() if v["n"] >= B.SEG_MIN and v["profit"] / v["staked"] < B.SEG_ROI}
+    sig = sorted((s for s in upcoming(state) if s.get("sport") == icon),
+                 key=lambda s: (not s["placed"], -sum(ok for ok, _ in checklist(s, bad)), s["start"]))[:limit]
+    lines = [f"{icon} <b>{name.upper()}</b> · próximas apuestas", "💵 apostada · 👀 candidata · ✅/❌ checklist", B.LINE]
+    if not sig: lines.append("Ahora mismo no hay partidos con cuotas analizados en este deporte.")
+    for s in sig:
+        marks = "".join("✅" if ok else "❌" for ok, _ in checklist(s, bad))
+        lines += [f"{'💵' if s['placed'] else '👀'} <b>{A.esc(s['match']).replace(' vs ', ' 🆚 ')}</b> · 🕒 {B.when(s)}",
+                  f"   → {A.esc(B.pick_text(s))} @ <b>{s['odds']:.2f}</b> ({A.esc(s.get('book', ''))}) · {s['p']:.0%} · {s['edge']:+.0%} {marks}"]
+    lines += [B.LINE, "Checklist: probabilidad · ventaja · segmento · IA"]
+    return "\n".join(lines)
+
+
+def sport_buttons():
+    btns = [{"text": f"{icon} {name}", "callback_data": f"dep:{slug}"} for icon, (slug, name) in SPORTS.items()]
+    return [btns[i:i + 3] for i in range(0, len(btns), 3)]
