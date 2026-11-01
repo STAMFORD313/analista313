@@ -26,7 +26,7 @@ def pick(s):
 
 def pick_text(s):
     p = pick(s)
-    return p if s["market"] in ("D", "O25", "U25", "over", "under") else f"Gana {p}"
+    return p if s["market"] in ("D", "O25", "U25", "over", "under", "AHH", "AHA") else f"Gana {p}"
 
 
 def when(s): return pd.Timestamp(s["start"]).tz_convert("Europe/Madrid").strftime("%d/%m · %H:%M")
@@ -44,7 +44,7 @@ def bank_line(bank):
 
 
 def segment(s):
-    kind = "goles" if s["market"] in ("O25", "U25") else "totales" if s["market"] in ("over", "under") else "empate" if s["market"] == "D" else "favorito" if s["odds"] < 2 else "no favorito"
+    kind = "goles" if s["market"] in ("O25", "U25") else "totales" if s["market"] in ("over", "under") else "hándicap" if s["market"] in ("AHH", "AHA") else "empate" if s["market"] == "D" else "favorito" if s["odds"] < 2 else "no favorito"
     return f"{s.get('sport', '?')} {kind}"
 
 
@@ -125,10 +125,11 @@ def settle(bank, signals, kg):
         if b["status"] != "abierta": continue
         legs = [by[tuple(l)] for l in b["legs"]]
         res = [s.get("result") for s in legs]
-        if any(r is False for r in res): b["status"], b["return"] = "perdida", 0.0
-        elif all(r is True or r == "nula" for r in res):
-            b["status"], b["return"] = "ganada", round(b["stake"] * math.prod(s["odds"] for s in legs if s["result"] is True), 2)
-        else: continue
+        if any(r is None for r in res) and not any(r is False and "factor" not in s for r, s in zip(res, legs)): continue
+        # cobro por pierna: cuota si gana, 1 si nula, 0 si pierde; el hándicap asiático trae su propio factor (medias apuestas)
+        f = [s.get("factor", s["odds"] if r is True else 1.0 if r == "nula" else 0.0) for r, s in zip(res, legs) if r is not None]
+        ret = 0.0 if 0.0 in f else round(b["stake"] * math.prod(f), 2)
+        b["status"], b["return"] = ("ganada" if ret > b["stake"] else "perdida" if ret < b["stake"] else "nula"), ret
         bank["balance"] = round(bank["balance"] + b["return"], 2)
         if b["status"] == "perdida": b["autopsia"] = autopsy(b, legs)
         kg.result(b)
@@ -189,7 +190,7 @@ def run(state, today, kg):
     update_scoreboard(state)
 
 
-def squares(bets): return "".join("🟩" if b["status"] == "ganada" else "🟥" for b in bets) or "—"
+def squares(bets): return "".join({"ganada": "🟩", "nula": "⬜"}.get(b["status"], "🟥") for b in bets) or "—"
 
 
 def scoreboard(state):

@@ -33,7 +33,9 @@ RHO = -0.10  # Dixon-Coles: corrige la frecuencia de 0-0, 1-0, 0-1 y 1-1
 BOOKIES = {"B365": "Bet365", "PS": "Pinnacle", "BW": "Bwin", "BV": "BetVictor", "BFD": "Betfred", "PP": "Paddy Power",
            "SKB": "Sky Bet", "WH": "William Hill"}  # sin Betfair Exchange: comisión y poca liquidez
 SUFFIX = {"H": "H", "D": "D", "A": "A", "O25": ">2.5", "U25": "<2.5"}
-NAMES = {"H": "Local", "D": "Empate", "A": "Visitante", "O25": "Más de 2.5 goles", "U25": "Menos de 2.5 goles"}
+NAMES = {"H": "Local", "D": "Empate", "A": "Visitante", "O25": "Más de 2.5 goles", "U25": "Menos de 2.5 goles",
+         "AHH": "Hándicap local", "AHA": "Hándicap visitante"}
+AH_BOOKS = {"B365": "Bet365", "P": "Pinnacle", "Max": "mejor del mercado"}  # columnas <casa>AHH / <casa>AHA
 POS_WEIGHT = {"F": ("att", 0.10), "M": ("att", 0.06), "D": ("def", 0.06), "G": ("def", 0.10)}
 STATUS_WEIGHT = {"lesionado": 1.0, "sancionado": 1.0, "duda": 0.5}
 
@@ -112,6 +114,9 @@ def probs(lh, la, n=11):
             P["O15"] += p * (i + j > 1); P["O35"] += p * (i + j > 3)
             if i and j: P["BTTS"] += p
     P["scores"] = sorted(scores.items(), key=lambda x: -x[1])[:4]
+    P["diff"] = {}
+    for sc, p in scores.items():
+        i, j = map(int, sc.split("-")); P["diff"][i - j] = P["diff"].get(i - j, 0) + p
     return P
 
 
@@ -159,6 +164,34 @@ def value_bets(P, row, every=False):
             if p >= MIN_P and (every or EDGE <= p * o - 1 <= MAX_EDGE):
                 out.append({"market": m, "odds": o, "book": book, "p": round(p, 3), "implied": round(implied, 3),
                             "edge": round(p * o - 1, 3)})
+    return out
+
+
+def ah_factor(diff, line, odds):
+    """Cobro por unidad en hándicap asiático; las líneas de cuarto (±0.25, ±0.75…) se parten en dos medias apuestas."""
+    halves = [line - 0.25, line + 0.25] if (line * 4) % 2 == 1 else [line]
+    return sum(odds if diff + h > 0 else 1.0 if diff + h == 0 else 0.0 for h in halves) / len(halves)
+
+
+def ah_bets(P, row, every=False):
+    h = row.get("AHh")
+    if pd.isna(h): return []
+    h, out = float(h), []
+    best = {}
+    for side in ("H", "A"):
+        offers = [(float(row[c]), name) for b, name in AH_BOOKS.items() if pd.notna(row.get(c := f"{b}AH{side}")) and float(row[c]) > 1]
+        if not offers: return []
+        best[side] = max(offers)
+    avg = {s: float(row[c]) if pd.notna(row.get(c := f"AvgAH{s}")) else best[s][0] for s in ("H", "A")}
+    inv = sum(1 / o for o in avg.values())
+    for side, sign, line in (("H", 1, h), ("A", -1, -h)):
+        o, book = best[side]
+        ev = sum(p * ah_factor(sign * d, line, o) for d, p in P["diff"].items()) - 1
+        implied = 1 / avg[side] / inv
+        q = 0.5 * (ev + 1) / o + 0.5 * implied  # prob. equivalente (cobro esperado / cuota) mezclada con el mercado
+        if q >= MIN_P and (every or EDGE <= q * o - 1 <= MAX_EDGE):
+            out.append({"market": f"AH{side}", "line": line, "odds": o, "book": book, "p": round(q, 3),
+                        "implied": round(implied, 3), "edge": round(q * o - 1, 3)})
     return out
 
 
@@ -271,9 +304,14 @@ def settle_signals(df, state, today):
     recent = {key(r): r for r in df[df.Date >= today - pd.Timedelta(days=30)].to_dict("records")}
     for s in state["signals"]:
         if s.get("result") is None and s["key"] in recent:
-            r = recent[s["key"]]; s["result"] = bool(won(s["market"], r["FTHG"], r["FTAG"]))
+            r = recent[s["key"]]
+            if s["market"] in ("AHH", "AHA"):
+                d = (r["FTHG"] - r["FTAG"]) * (1 if s["market"] == "AHH" else -1)
+                s["factor"] = ah_factor(d, s["line"], s["odds"])
+                s["result"] = True if s["factor"] > 1 else False if s["factor"] < 1 else "nula"
+            else: s["result"] = bool(won(s["market"], r["FTHG"], r["FTAG"]))
             s["score"] = f"{int(r['FTHG'])}-{int(r['FTAG'])}"
-            if pd.notna(r.get(CLOSE[s["market"]])): s["clv"] = round(s["odds"] / float(r[CLOSE[s["market"]]]) - 1, 3)
+            if s["market"] in CLOSE and pd.notna(r.get(CLOSE[s["market"]])): s["clv"] = round(s["odds"] / float(r[CLOSE[s["market"]]]) - 1, 3)
         elif s.get("result") is None and s["key"].split("|")[1] < f"{today - pd.Timedelta(days=30):%Y-%m-%d}":
             s["result"] = "nula"  # aplazado o sin resultado
 
@@ -297,7 +335,7 @@ def analyze_fixtures(df, state, today, kg):
         hh = h2h(df, home, away)
         kg.match(ALL_LEAGUES[div], home, away, start, {"1": P["H"], "X": P["D"], "2": P["A"]}, squads, h2h_summary(hh, home, away))
         state["analyzed"].append(k)
-        cands = value_bets(P, row, every=True)
+        cands = value_bets(P, row, every=True) + ah_bets(P, row, every=True)
         if not cands: continue
         vb = [v for v in cands if EDGE <= v["edge"] <= MAX_EDGE] or [max(cands, key=lambda v: v["edge"])]  # sin valor: la mejor como candidata
         fav = min(("H", "D", "A"), key=lambda m: best_odds(row, m)[0] or 99)
@@ -319,7 +357,9 @@ def analyze_fixtures(df, state, today, kg):
                    f"{'; '.join(p['name'] + ' ' + p['pos'] + ' ' + p['status'] + ' ' + str(p['games']) + ' PJ' for p in squads[0]) or 'ninguna'}. "
                    f"Bajas {away}: {'; '.join(p['name'] + ' ' + p['pos'] + ' ' + p['status'] + ' ' + str(p['games']) + ' PJ' for p in squads[1]) or 'ninguna'}.")
         for v in vb:
-            state["signals"].append({**v, "key": k, "match": f"{home} vs {away}", "pick": pick.get(v["market"], NAMES[v["market"]]),
+            name = (f"{home if v['market'] == 'AHH' else away} {v['line']:+g} (hándicap asiático)" if v["market"] in ("AHH", "AHA")
+                    else pick.get(v["market"], NAMES[v["market"]]))
+            state["signals"].append({**v, "key": k, "match": f"{home} vs {away}", "pick": name,
                                      "start": start.isoformat(), "league": ALL_LEAGUES[div], "sport": "⚽",
                                      "info": info, "context": context})
 

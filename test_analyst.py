@@ -58,3 +58,11 @@ st_ = (100.0, 100.0, {"att_h": {}, "def_h": {}, "att_a": {}, "def_a": {}})
 tot = {v["market"]: v for v in total_signals((st_, 15.0), "X", "Y", 190.5, 1.91, 1.91)}
 assert tot["over"]["p"] > 0.6 and tot["over"]["edge"] > 0.1 and tot["under"]["p"] < 0.4
 print("ok totales")
+
+from analyst import ah_factor, ah_bets
+assert ah_factor(1, -0.5, 2.0) == 2.0 and ah_factor(0, -0.5, 2.0) == 0 and ah_factor(1, -1, 2.0) == 1.0
+assert ah_factor(1, -0.75, 2.0) == 1.5 and ah_factor(0, -0.25, 2.0) == 0.5 and ah_factor(0, 0.25, 2.0) == 1.5
+P2 = probs(2.0, 0.6)
+ab = {v["market"]: v for v in ah_bets(P2, {"AHh": -0.5, "B365AHH": 1.95, "B365AHA": 1.95, "AvgAHH": 1.9, "AvgAHA": 1.9}, every=True)}
+assert 0.59 < ab["AHH"]["p"] < 0.61 and ab["AHH"]["line"] == -0.5 and ab["AHH"]["edge"] > 0
+print("ok hándicap asiático")
