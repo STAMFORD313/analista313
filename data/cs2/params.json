@@ -1,1 +1,1 @@
-{"K": 16, "tier_scale": 0, "start_spread": 1, "new_k": 6, "decay": 1, "logloss": 0.6226}
+{"K": 20, "tier_scale": 0, "start_spread": 1, "new_k": 8, "decay": 0.5, "k_bo1": 1.5, "series_scale": 0.75, "logloss": 0.6185}

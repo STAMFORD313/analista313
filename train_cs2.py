@@ -42,11 +42,12 @@ def main():
     df = df[df.date >= df.date.max() - pd.DateOffset(years=4)]
     since = df.date.max() - pd.DateOffset(years=1)
     best = None
-    for k, nk, dc in itertools.product([12, 14, 16, 20], [0, 4, 6, 8], [0, 0.5, 1, 2]):
-        E.K, E.NEW_K, E.DECAY = k, nk, dc
+    for k, nk, dc, kb, sc in itertools.product([12, 16, 20], [4, 6, 8], [0.5, 1], [1, 1.5, 2, 2.5], [0.75, 0.8, 0.9, 1]):
+        E.K, E.NEW_K, E.DECAY, E.K_BO1, E.SERIES_SCALE = k, nk, dc, kb, sc
         ll, n = E.map_elo(df, since)[4:]
-        print(f"K={k} nuevos×{nk} inactividad×{dc}: log-loss {ll:.4f} ({n} partidos)", flush=True)
-        if best is None or ll < best[0]: best = (ll, {"K": k, "tier_scale": 0, "start_spread": 1, "new_k": nk, "decay": dc})
+        print(f"K={k} nuevos×{nk} inactividad×{dc} BO1×{kb} escala serie {sc}: log-loss {ll:.4f} ({n} partidos)", flush=True)
+        if best is None or ll < best[0]:
+            best = (ll, {"K": k, "tier_scale": 0, "start_spread": 1, "new_k": nk, "decay": dc, "k_bo1": kb, "series_scale": sc})
     base = -(math.log(0.5))
     print(f"MEJOR {best[1]} log-loss {best[0]:.4f} (azar = {base:.4f})")
     (E.DIR / "params.json").write_text(json.dumps({**best[1], "logloss": round(best[0], 4)}))

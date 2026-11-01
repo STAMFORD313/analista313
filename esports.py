@@ -11,6 +11,7 @@ import analyst as A
 API = "https://api.bo3.gg/api/v1/matches"
 DIR = A.DATA / "cs2"
 HIST = DIR / "matches.csv"
+ODDS = DIR / "odds.csv"  # cuotas previas de Thunderpick (la última vista antes del inicio)
 COLS = ["id", "date", "team1", "team2", "t1_id", "t2_id", "s1", "s2", "winner_id", "bo", "tier", "tournament"]
 TIER_K_BASE = {"s": 1.25, "a": 1.1, "b": 1.0, "c": 0.85, "d": 0.7}       # los torneos grandes enseñan más
 TIER_START_BASE = {"s": 1650, "a": 1600, "b": 1520, "c": 1450, "d": 1400}  # rating de un equipo nuevo según dónde juega
@@ -21,6 +22,8 @@ TIER_K = {t: 1 + (v - 1) * _P.get("tier_scale", 1) for t, v in TIER_K_BASE.items
 TIER_START = {t: 1500 + (v - 1500) * _P.get("start_spread", 1) for t, v in TIER_START_BASE.items()}
 NEW_K = _P.get("new_k", 0)    # equipos nuevos: K más alto las primeras series
 DECAY = _P.get("decay", 0)    # vuelta al rating inicial por inactividad (por año)
+K_BO1 = _P.get("k_bo1", 1)                # peso extra de un BO1 (un único mapa decide la serie)
+SERIES_SCALE = _P.get("series_scale", 1)  # escala de la diferencia de Elo en BO3/BO5
 TITLE = "🎮 CS2"
 
 
@@ -74,17 +77,22 @@ def map_elo(df, since=None):
             R[t] = decayed(R[t], (r.date - last[t]).days, s0) if t in R else s0
             n.setdefault(t, 0); tier[t] = r.tier; last[t] = r.date
         if since is not None and r.date >= since:
-            p = series_prob(1 / (1 + 10 ** ((R[r.t2_id] - R[r.t1_id]) / 400)), int(r.bo))
+            p = series_prob(map_prob(R[r.t1_id], R[r.t2_id], r.bo), int(r.bo))
             loss -= math.log(min(max(p if r.winner_id == r.t1_id else 1 - p, 1e-6), 1)); cnt += 1
         s1, s2 = (int(r.s1), int(r.s2)) if pd.notna(r.s1) and pd.notna(r.s2) and r.s1 + r.s2 > 0 else             ((1, 0) if r.winner_id == r.t1_id else (0, 1))
         if r.bo == 1 and s1 + s2 > 1: s1, s2 = int(s1 > s2), int(s2 > s1)  # en BO1 el marcador son rondas, no mapas
-        k = K * TIER_K.get(r.tier, 1.0)
+        k = K * TIER_K.get(r.tier, 1.0) * (K_BO1 if r.bo == 1 else 1)  # un BO1 es todo el partido en un mapa
         k1, k2 = k * (1 + NEW_K / (1 + n[r.t1_id])), k * (1 + NEW_K / (1 + n[r.t2_id]))
         for won1 in [1] * s1 + [0] * s2:
             e = 1 / (1 + 10 ** ((R[r.t2_id] - R[r.t1_id]) / 400))
             R[r.t1_id] += k1 * (won1 - e); R[r.t2_id] -= k2 * (won1 - e)
         n[r.t1_id] += 1; n[r.t2_id] += 1
     return R, n, tier, last, loss / max(cnt, 1), cnt
+
+
+def map_prob(r1, r2, bo):
+    """Prob. de ganar un mapa; en BO3/BO5 la diferencia se encoge (backtest: los mapas de una serie no son independientes)."""
+    return 1 / (1 + 10 ** ((r2 - r1) * (SERIES_SCALE if bo > 1 else 1) / 400))
 
 
 def series_prob(p, bo):
@@ -107,6 +115,18 @@ def settle(df, state):
             s["score"] = f"{int(r['s1'])}-{int(r['s2'])}" if pd.notna(r["s1"]) else ""
 
 
+def save_odds(up, now):
+    """Guarda la última cuota PREVIA de cada partido (la de bo3.gg en partidos terminados es la del final, en directo):
+    sirve para medir calibración y ROI del modelo frente a Thunderpick sin mirar el futuro."""
+    rows = [{"id": m["id"], "seen": now.isoformat(), "start": m["start_date"],
+             "o1": (m.get("bet_updates") or {}).get("team_1", {}).get("coeff"), "o2": (m.get("bet_updates") or {}).get("team_2", {}).get("coeff")}
+            for m in up if pd.Timestamp(m["start_date"]) > now]
+    rows = [r for r in rows if r["o1"] and r["o2"]]
+    if not rows: return
+    old = pd.read_csv(ODDS) if ODDS.exists() else pd.DataFrame()
+    pd.concat([old, pd.DataFrame(rows)]).drop_duplicates("id", keep="last").to_csv(ODDS, index=False)
+
+
 def run(state, today, kg):
     df = update_history()
     print(f"cs2: {len(df)} partidos de historial")
@@ -116,6 +136,7 @@ def run(state, today, kg):
     try: up = get(**{"sort": "start_date", "filter[matches.status][in]": "upcoming"})["results"]
     except (requests.RequestException, ValueError) as e:
         print("bo3.gg", e); return
+    save_odds(up, now)
     for m in up:
         start, bet, key = pd.Timestamp(m["start_date"]), m.get("bet_updates") or {}, f"cs2|{m['id']}"
         if not (now < start < now + pd.Timedelta(hours=36)) or key in state["analyzed"]: continue
@@ -125,7 +146,7 @@ def run(state, today, kg):
                   for t in (g["t1_id"], g["t2_id"]))
         if m.get("team1_new_participant"): r1 = 1500 + (1 - ROSTER_SHRINK) * (r1 - 1500)
         if m.get("team2_new_participant"): r2 = 1500 + (1 - ROSTER_SHRINK) * (r2 - 1500)
-        p_map = 1 / (1 + 10 ** ((r2 - r1) / 400))
+        p_map = map_prob(r1, r2, g["bo"])
         p = series_prob(p_map, g["bo"])
         hh = df[((df.t1_id == g["t1_id"]) & (df.t2_id == g["t2_id"])) | ((df.t1_id == g["t2_id"]) & (df.t2_id == g["t1_id"]))]
         h2h = f"{len(hh)}: {int((hh.winner_id == g['t1_id']).sum())}-{int((hh.winner_id == g['t2_id']).sum())}" if len(hh) else "sin precedentes"
