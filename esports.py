@@ -16,7 +16,6 @@ ODDS = DIR / "odds.csv"  # cuotas previas de Thunderpick (la última vista antes
 COLS = ["id", "date", "team1", "team2", "t1_id", "t2_id", "s1", "s2", "winner_id", "bo", "tier", "tournament"]
 TIER_K_BASE = {"s": 1.25, "a": 1.1, "b": 1.0, "c": 0.85, "d": 0.7}       # los torneos grandes enseñan más
 TIER_START_BASE = {"s": 1650, "a": 1600, "b": 1520, "c": 1450, "d": 1400}  # rating de un equipo nuevo según dónde juega
-ROSTER_SHRINK = 0.3  # cambio de plantilla: se acerca un 30 % a la media
 _P = json.loads((DIR / "params.json").read_text()) if (DIR / "params.json").exists() else {}  # lo ajusta train_cs2.py
 K = _P.get("K", 24)
 TIER_K = {t: 1 + (v - 1) * _P.get("tier_scale", 1) for t, v in TIER_K_BASE.items()}
@@ -25,6 +24,7 @@ NEW_K = _P.get("new_k", 0)    # equipos nuevos: K más alto las primeras series
 DECAY = _P.get("decay", 0)    # vuelta al rating inicial por inactividad (por año)
 K_BO1 = _P.get("k_bo1", 1)                # peso extra de un BO1 (un único mapa decide la serie)
 SERIES_SCALE = _P.get("series_scale", 1)
+MAPS3 = _P.get("maps3", [0, 1])  # recalibración de la prob. de ir al 3er mapa en BO3 (ver bo3_scores)
 MOV = _P.get("mov", 0)  # margen de rondas: K × (ln(dif+1)/ln 7)^MOV (13-7 → ×1)  # escala de la diferencia de Elo en BO3/BO5
 TITLE = "🎮 CS2"
 
@@ -96,9 +96,10 @@ def map_elo(df, since=None, games=None, preds=None):
             R[t] = decayed(R[t], (r.date - last[t]).days, s0) if t in R else s0
             n.setdefault(t, 0); tier[t] = r.tier; last[t] = r.date
         if since is not None and r.date >= since:
-            p = series_prob(map_prob(R[r.t1_id], R[r.t2_id], r.bo), int(r.bo))
+            pm = map_prob(R[r.t1_id], R[r.t2_id], r.bo)
+            p = series_prob(pm, int(r.bo))
             loss -= math.log(min(max(p if r.winner_id == r.t1_id else 1 - p, 1e-6), 1)); cnt += 1
-            if preds is not None: preds[r.id] = p
+            if preds is not None: preds[r.id] = (p, pm)
         maps = [(w == r.t1_id, (math.log(ws - ls + 1) / math.log(7)) ** MOV if ws > ls else 1)  # margen de rondas
                 for w, ws, ls in (games or {}).get(r.id, [])]
         if not maps:
@@ -135,15 +136,59 @@ def settle(df, state):
     for s in state["signals"]:
         r = done.get(s["key"])
         if s.get("result") is None and r is not None:
-            s["result"] = int(r["winner_id"]) == s["team_id"]
             s["score"] = f"{int(r['s1'])}-{int(r['s2'])}" if pd.notna(r["s1"]) else ""
+            if s["market"] in ("t1", "t2"): s["result"] = int(r["winner_id"]) == s["team_id"]
+            elif pd.isna(r["s1"]) or pd.isna(r["s2"]) or max(r["s1"], r["s2"]) != 2 or r["s1"] + r["s2"] not in (2, 3): s["result"] = "nula"
+            elif s["market"] in ("over", "under"): s["result"] = (r["s1"] + r["s2"] == 3) == (s["market"] == "over")
+            else: s["result"] = (r["s1"] - r["s2"]) * (1 if s["market"] == "AHH" else -1) + s["line"] > 0  # hándicap de mapas ±1.5
+
+
+def bo3_scores(p):
+    """Marcador de un BO3 desde la prob. por mapa: la prob. de llegar al 3er mapa se recalibra (MAPS3 = a, b sobre el logit de
+    2p(1-p); con mapas independientes sale demasiado alta: 43 % frente al 40 % real)."""
+    a, b = MAPS3
+    x = 2 * p * (1 - p)
+    q3 = 1 / (1 + math.exp(-(a + b * math.log(x / (1 - x)))))
+    two = 1 - q3
+    return {(2, 0): two * p * p / (p * p + (1 - p) ** 2), (0, 2): two * (1 - p) ** 2 / (p * p + (1 - p) ** 2), (2, 1): q3 * p, (1, 2): q3 * (1 - p)}
+
+
+# mercados extra de Thunderpick en BO3 → (código de mercado, línea, quién, función del marcador que gana la apuesta)
+EXTRA = {"total_maps_over_2_5": ("over", None, 0, lambda a, b: a + b == 3), "total_maps_under_2_5": ("under", None, 0, lambda a, b: a + b == 2),
+         "team_1_handicap_under_1_5": ("AHH", -1.5, 1, lambda a, b: a - b >= 2), "team_1_handicap_over_1_5": ("AHH", 1.5, 1, lambda a, b: b - a < 2),
+         "team_2_handicap_under_1_5": ("AHA", -1.5, 2, lambda a, b: b - a >= 2), "team_2_handicap_over_1_5": ("AHA", 1.5, 2, lambda a, b: a - b < 2)}
+PAIRS = [("total_maps_over_2_5", "total_maps_under_2_5"), ("team_1_handicap_under_1_5", "team_2_handicap_over_1_5"),
+         ("team_2_handicap_under_1_5", "team_1_handicap_over_1_5")]
+
+
+def extra_markets(bet, p_map, g):
+    """Total de mapas y hándicap ±1.5 en BO3: modelo (bo3_scores) mezclado 50/50 con la prob. sin margen de Thunderpick."""
+    odds = {x["bet_type"]: x.get("coeff") for x in bet.get("additional_markets") or [] if x.get("active", True)}
+    sc, out = bo3_scores(p_map), []
+    for pair in PAIRS:
+        o = [odds.get(k) for k in pair]
+        if not all(x and x > 1 for x in o): continue
+        inv = sum(1 / x for x in o)
+        for k, ok in zip(pair, o):
+            market, line, side, wins = EXTRA[k]
+            q = 0.5 * sum(v for (a, b), v in sc.items() if wins(a, b)) + 0.5 / ok / inv
+            team = g["team1"] if side == 1 else g["team2"]
+            pick = f"{team} {line:+g} mapas" if line else ("Más" if market == "over" else "Menos") + " de 2.5 mapas"
+            if q >= A.MIN_P and A.EDGE <= q * ok - 1 <= A.MAX_EDGE:
+                out.append({"market": market, "line": line, "pick": pick, "odds": ok, "book": "Thunderpick",
+                            "p": round(q, 3), "implied": round(1 / ok / inv, 3), "edge": round(q * ok - 1, 3)})
+    best = {}
+    for v in out:  # una apuesta por código de mercado (AHH/AHA/over/under): la de más ventaja
+        if v["market"] not in best or v["edge"] > best[v["market"]]["edge"]: best[v["market"]] = v
+    return list(best.values())
 
 
 def save_odds(up, now):
     """Guarda la última cuota PREVIA de cada partido (la de bo3.gg en partidos terminados es la del final, en directo):
     sirve para medir calibración y ROI del modelo frente a Thunderpick sin mirar el futuro."""
     rows = [{"id": m["id"], "seen": now.isoformat(), "start": m["start_date"],
-             "o1": (m.get("bet_updates") or {}).get("team_1", {}).get("coeff"), "o2": (m.get("bet_updates") or {}).get("team_2", {}).get("coeff")}
+             "o1": (m.get("bet_updates") or {}).get("team_1", {}).get("coeff"), "o2": (m.get("bet_updates") or {}).get("team_2", {}).get("coeff"),
+             **{k: x.get("coeff") for x in (m.get("bet_updates") or {}).get("additional_markets") or [] for k in [x.get("bet_type")] if k in EXTRA}}
             for m in up if pd.Timestamp(m["start_date"]) > now]
     rows = [r for r in rows if r["o1"] and r["o2"]]
     if not rows: return
@@ -168,8 +213,6 @@ def run(state, today, kg):
         if not g: continue
         r1, r2 = (decayed(R[t], (start - last[t]).days, TIER_START.get(tier[t], 1450)) if t in R else TIER_START.get(g["tier"], 1450)
                   for t in (g["t1_id"], g["t2_id"]))
-        if m.get("team1_new_participant"): r1 = 1500 + (1 - ROSTER_SHRINK) * (r1 - 1500)
-        if m.get("team2_new_participant"): r2 = 1500 + (1 - ROSTER_SHRINK) * (r2 - 1500)
         p_map = map_prob(r1, r2, g["bo"])
         p = series_prob(p_map, g["bo"])
         hh = df[((df.t1_id == g["t1_id"]) & (df.t2_id == g["t2_id"])) | ((df.t1_id == g["t2_id"]) & (df.t2_id == g["t1_id"]))]
@@ -185,6 +228,7 @@ def run(state, today, kg):
                 cands.append({"market": f"t{side}", "team_id": tid, "pick": name, "odds": o, "book": "Thunderpick",
                               "p": round(q, 3), "implied": round(1 / o / inv, 3), "edge": round(q * o - 1, 3)})
         vb = [v for v in cands if A.EDGE <= v["edge"] <= A.MAX_EDGE] or sorted(cands, key=lambda v: -v["edge"])[:1]
+        if g["bo"] == 3: vb += extra_markets(bet, p_map, g)
         roster = [t for t, f in ((g["team1"], m.get("team1_new_participant")), (g["team2"], m.get("team2_new_participant"))) if f]
         info = [f"📊 <b>Escenarios</b> (Elo por mapa, {len(df):,} partidos)".replace(",", "."),
                 f"Mapa: {A.esc(g['team1'])} {p_map:.0%} · Serie BO{g['bo']}: {A.esc(g['team1'])} {p:.0%} - {1 - p:.0%} {A.esc(g['team2'])}",

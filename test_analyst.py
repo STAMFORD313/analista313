@@ -124,3 +124,16 @@ assert (analyst.HALF_LIFE, analyst.SHRINK, analyst.RHO, analyst.BLEND, analyst.E
 ep = json.loads((analyst.DATA / "espn_params.json").read_text())
 assert all(multisport.SPORTS[l][3:] == (p["hfa"], p["K"]) for l, p in ep.items())
 print("ok parámetros entrenados")
+
+import esports
+sc = esports.bo3_scores(0.6)
+assert abs(sum(sc.values()) - 1) < 1e-9 and sc[(2, 0)] > sc[(0, 2)]
+xm = esports.extra_markets({"additional_markets": [{"bet_type": "total_maps_over_2_5", "coeff": 2.6}, {"bet_type": "total_maps_under_2_5", "coeff": 1.45}]},
+                           0.5, {"team1": "A", "team2": "B"})
+assert all(v["market"] in ("over", "under") and analyst.EDGE <= v["edge"] <= analyst.MAX_EDGE for v in xm)
+st = {"signals": [{"key": "cs2|1", "market": "AHH", "line": -1.5}, {"key": "cs2|1", "market": "over"},
+                  {"key": "cs2|1", "market": "AHA", "line": 1.5}, {"key": "cs2|1", "market": "t1", "team_id": 5},
+                  {"key": "cs2|2", "market": "under"}]}
+esports.settle(pd.DataFrame([{"id": 1, "s1": 2, "s2": 0, "winner_id": 5}, {"id": 2, "s1": 1, "s2": 0, "winner_id": 5}]), st)
+assert [s["result"] for s in st["signals"]] == [True, False, False, True, "nula"]
+print("ok cs2 mercados de mapas")

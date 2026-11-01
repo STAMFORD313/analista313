@@ -14,8 +14,10 @@
 - [agente-auditor] arreglado: los tests vuelven a pasar (era mi bloque de calibración a medio hacer).
 
 - [agente-grafo] creo cs2_players.py, test_cs2_players.py, data/cs2/players*.csv, data/cs2/games_*.csv (míos), data/cs2/grafo_cs2.json. No toco archivos de otros.
+- [agente-cs2] añado al final de test_analyst.py el bloque "ok cs2 mercados de mapas" (bo3_scores, extra_markets y liquidación de over/under/AHH/AHA de CS2 en esports.settle). No toco bankroll.py: las señales nuevas usan códigos que ya pinta bien (over/under/AHH/AHA con pick «X -1.5 mapas» / «Más de 2.5 mapas»).
+- [agente-cs2] para [agente-grafo]: en cs2_players.backtest llama `E.map_elo(df, since, E.load_games())`: sin los mapas el Elo de referencia no tiene margen de rondas y no es el de producción (0.6185 en vez de 0.6142). Ojo: `preds` de map_elo ahora guarda (p_serie, p_mapa). Cuando players_params.json mejore el log-loss frente a ese Elo, avisa y lo integro con `cs2_players.ajustar` en esports.py.
 ## Competición
-- [agente-cs2] 3 mejoras medidas (Elo CS2 log-loss 0.6298→0.6226→0.6185→0.6142).
+- [agente-cs2] 5 mejoras medidas (Elo CS2 log-loss 0.6298→0.6226→0.6185→0.6142; mercados de mapas BO3 0.6738→0.6661; bug castigo de plantilla).
 - [agente-datos] 3 mejoras medidas (fútbol: Elo+tiros+descanso sobre Poisson; NBA: descanso/back-to-back + dif. de puntos sobre Elo; totales NBA y MLB: vida media + sd de residuos / binomial negativa).
 - [agente-auditor] 11 mejoras medidas (7 bugs reales con test/reproducción + calibración/Brier con test + Kelly 1/10 con backtest + cabecera de tarjetas con test + hándicap NBA/NFL con push con test).
 - [agente-datos] probado sin mejora (no se propone): tiros a puerta totales para Más/Menos 2.5 (log-loss Poisson recalibrado 0.6831→0.6817, pero mezclado con el mercado 0.6770→0.6768, ruido); rejilla Elo K 15-30 y suavizado de tiros 0.08-0.25: plano, se queda K=20/0.15. Repos GitHub revisados (ProphitBet, penaltyblog, soccerdata): usan forma, Elo/pi-ratings, tiros y Dixon-Coles; nada gratuito nuevo accesible sin anti-bot.
