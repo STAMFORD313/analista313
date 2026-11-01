@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 01/11/2026 23:16 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 01/11/2026 23:17 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## HEROIC vs B8 — 02/11 · 03:00
 
@@ -11,7 +11,7 @@ Actualizado 01/11/2026 23:16 (hora España). ✅ = el bot apuesta · ❌ = condi
 - ✅ Segmento «🎮 favorito» sin pérdidas
 - ❌ IA: sin revisar (no pasó lo anterior)
 
-📊 **Escenarios** (Elo por mapa. 76.339 partidos)  
+📊 **Escenarios** (Elo por mapa. 76.340 partidos)  
 Mapa: HEROIC 61% · Serie BO3: HEROIC 66% - 34% B8  
 Casas: HEROIC 62% · B8 38%  
 🔎 **Claves**  
@@ -30,7 +30,7 @@ Casas: HEROIC 62% · B8 38%
 - ✅ Segmento «🎮 favorito» sin pérdidas
 - ❌ IA: sin revisar (no pasó lo anterior)
 
-📊 **Escenarios** (Elo por mapa. 76.339 partidos)  
+📊 **Escenarios** (Elo por mapa. 76.340 partidos)  
 Mapa: PARIVISION 50% · Serie BO3: PARIVISION 50% - 50% G2  
 Casas: PARIVISION 47% · G2 53%  
 🔎 **Claves**  
@@ -49,7 +49,7 @@ Casas: PARIVISION 47% · G2 53%
 - ✅ Segmento «🎮 favorito» sin pérdidas
 - ❌ IA: sin revisar (no pasó lo anterior)
 
-📊 **Escenarios** (Elo por mapa. 76.339 partidos)  
+📊 **Escenarios** (Elo por mapa. 76.340 partidos)  
 Mapa: Aurora 72% · Serie BO3: Aurora 81% - 19% Liquid  
 Casas: Aurora 68% · Liquid 32%  
 🔎 **Claves**  
@@ -68,7 +68,7 @@ Casas: Aurora 68% · Liquid 32%
 - ✅ Segmento «🎮 favorito» sin pérdidas
 - ❌ IA: sin revisar (no pasó lo anterior)
 
-📊 **Escenarios** (Elo por mapa. 76.339 partidos)  
+📊 **Escenarios** (Elo por mapa. 76.340 partidos)  
 Mapa: FURIA 73% · Serie BO3: FURIA 83% - 17% FaZe  
 Casas: FURIA 68% · FaZe 32%  
 🔎 **Claves**  
@@ -87,7 +87,7 @@ Casas: FURIA 68% · FaZe 32%
 - ✅ Segmento «🎮 favorito» sin pérdidas
 - ❌ IA: sin revisar (no pasó lo anterior)
 
-📊 **Escenarios** (Elo por mapa. 76.339 partidos)  
+📊 **Escenarios** (Elo por mapa. 76.340 partidos)  
 Mapa: 9z 37% · Serie BO3: 9z 30% - 70% BetBoom  
 Casas: 9z 34% · BetBoom 66%  
 🔎 **Claves**  
@@ -106,7 +106,7 @@ Casas: 9z 34% · BetBoom 66%
 - ✅ Segmento «🎮 favorito» sin pérdidas
 - ❌ IA: sin revisar (no pasó lo anterior)
 
-📊 **Escenarios** (Elo por mapa. 76.339 partidos)  
+📊 **Escenarios** (Elo por mapa. 76.340 partidos)  
 Mapa: MOUZ 83% · Serie BO3: MOUZ 92% - 8% TYLOO  
 Casas: MOUZ 87% · TYLOO 13%  
 🔎 **Claves**  
@@ -125,7 +125,7 @@ Casas: MOUZ 87% · TYLOO 13%
 - ✅ Segmento «🎮 favorito» sin pérdidas
 - ❌ IA: sin revisar (no pasó lo anterior)
 
-📊 **Escenarios** (Elo por mapa. 76.339 partidos)  
+📊 **Escenarios** (Elo por mapa. 76.340 partidos)  
 Mapa: Natus Vincere 44% · Serie BO3: Natus Vincere 41% - 59% Falcons  
 Casas: Natus Vincere 42% · Falcons 58%  
 🔎 **Claves**  
@@ -144,7 +144,7 @@ Casas: Natus Vincere 42% · Falcons 58%
 - ✅ Segmento «🎮 favorito» sin pérdidas
 - ❌ IA: sin revisar (no pasó lo anterior)
 
-📊 **Escenarios** (Elo por mapa. 76.339 partidos)  
+📊 **Escenarios** (Elo por mapa. 76.340 partidos)  
 Mapa: HAVU 74% · Serie BO3: HAVU 84% - 16% Nordic Valor  
 Casas: HAVU 80% · Nordic Valor 20%  
 🔎 **Claves**  
@@ -163,7 +163,7 @@ Casas: HAVU 80% · Nordic Valor 20%
 - ✅ Segmento «🎮 no favorito» sin pérdidas
 - ❌ IA: sin revisar (no pasó lo anterior)
 
-📊 **Escenarios** (Elo por mapa. 76.339 partidos)  
+📊 **Escenarios** (Elo por mapa. 76.340 partidos)  
 Mapa: MASONIC 57% · Serie BO1: MASONIC 57% - 43% MASQ  
 Casas: MASONIC 68% · MASQ 32%  
 🔎 **Claves**  
@@ -182,7 +182,7 @@ Casas: MASONIC 68% · MASQ 32%
 - ✅ Segmento «🎮 no favorito» sin pérdidas
 - ❌ IA: sin revisar (no pasó lo anterior)
 
-📊 **Escenarios** (Elo por mapa. 76.339 partidos)  
+📊 **Escenarios** (Elo por mapa. 76.340 partidos)  
 Mapa: XI 42% · Serie BO1: XI 42% - 58% ECSTATIC  
 Casas: XI 63% · ECSTATIC 37%  
 🔎 **Claves**  
@@ -201,7 +201,7 @@ Casas: XI 63% · ECSTATIC 37%
 - ✅ Segmento «🎮 favorito» sin pérdidas
 - ❌ IA: sin revisar (no pasó lo anterior)
 
-📊 **Escenarios** (Elo por mapa. 76.339 partidos)  
+📊 **Escenarios** (Elo por mapa. 76.340 partidos)  
 Mapa: KUUSAMO 60% · Serie BO3: KUUSAMO 65% - 35% BOJONG  
 Casas: KUUSAMO 63% · BOJONG 37%  
 🔎 **Claves**  
@@ -220,7 +220,7 @@ Casas: KUUSAMO 63% · BOJONG 37%
 - ✅ Segmento «🎮 favorito» sin pérdidas
 - ❌ IA: sin revisar (no pasó lo anterior)
 
-📊 **Escenarios** (Elo por mapa. 76.339 partidos)  
+📊 **Escenarios** (Elo por mapa. 76.340 partidos)  
 Mapa: ex-ENCE 68% · Serie BO3: ex-ENCE 76% - 24% SINQU  
 Casas: ex-ENCE 83% · SINQU 17%  
 🔎 **Claves**  
@@ -239,7 +239,7 @@ Casas: ex-ENCE 83% · SINQU 17%
 - ✅ Segmento «🎮 no favorito» sin pérdidas
 - ❌ IA: sin revisar (no pasó lo anterior)
 
-📊 **Escenarios** (Elo por mapa. 76.339 partidos)  
+📊 **Escenarios** (Elo por mapa. 76.340 partidos)  
 Mapa: ECSTATIC 38% · Serie BO1: ECSTATIC 38% - 62% STATE  
 Casas: ECSTATIC 23% · STATE 77%  
 🔎 **Claves**  
@@ -258,7 +258,7 @@ Casas: ECSTATIC 23% · STATE 77%
 - ✅ Segmento «🎮 favorito» sin pérdidas
 - ❌ IA: sin revisar (no pasó lo anterior)
 
-📊 **Escenarios** (Elo por mapa. 76.339 partidos)  
+📊 **Escenarios** (Elo por mapa. 76.340 partidos)  
 Mapa: struggletony 25% · Serie BO1: struggletony 25% - 75% STATE  
 Casas: struggletony 18% · STATE 82%  
 🔎 **Claves**  
@@ -277,7 +277,7 @@ Casas: struggletony 18% · STATE 82%
 - ✅ Segmento «🎮 favorito» sin pérdidas
 - ❌ IA: sin revisar (no pasó lo anterior)
 
-📊 **Escenarios** (Elo por mapa. 76.339 partidos)  
+📊 **Escenarios** (Elo por mapa. 76.340 partidos)  
 Mapa: Playing Ducks 76% · Serie BO3: Playing Ducks 85% - 15% Huskies eSport  
 Casas: Playing Ducks 85% · Huskies eSport 15%  
 🔎 **Claves**  
@@ -296,7 +296,7 @@ Casas: Playing Ducks 85% · Huskies eSport 15%
 - ✅ Segmento «🎮 no favorito» sin pérdidas
 - ❌ IA: sin revisar (no pasó lo anterior)
 
-📊 **Escenarios** (Elo por mapa. 76.339 partidos)  
+📊 **Escenarios** (Elo por mapa. 76.340 partidos)  
 Mapa: GODS PLAN 42% · Serie BO3: GODS PLAN 38% - 62% ALKA  
 Casas: GODS PLAN 19% · ALKA 81%  
 🔎 **Claves**  
