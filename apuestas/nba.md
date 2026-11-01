@@ -1,6 +1,6 @@
 # 🏀 NBA · apuestas de valor
 
-Actualizado 01/11/2026 22:37 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 01/11/2026 22:57 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Indiana Pacers vs Brooklyn Nets — 01/11 · 23:00
 
