@@ -1,62 +1,92 @@
-"""Analista deportivo: historial desde 2005 (football-data.co.uk), modelo Poisson con decaimiento temporal,
-IA (Gemini + Google Search) para bajas/noticias, grafo de jugadores, PDF y envío por Telegram.
+"""Analista deportivo (fútbol): historial desde 2005 de 16 ligas europeas + 11 del resto del mundo (football-data.co.uk),
+modelo Poisson con decaimiento temporal ajustado por bajas reales (sportsgambler.com), mejor cuota entre casas
+y escenarios completos. Genera señales que bankroll.py convierte en apuestas y tarjetas de Telegram.
 Pensado para ejecutarse cada hora en GitHub Actions (ver .github/workflows/analista.yml)."""
-import difflib, io, json, math, os, re, tempfile, time, unicodedata
+import difflib, html, io, json, math, os, re, time, unicodedata
 from pathlib import Path
 
 import pandas as pd
 import requests
 
 DATA = Path(__file__).parent / "data"
-HIST, STATE = DATA / "hist", DATA / "state.json"
+HIST, NEW, STATE = DATA / "hist", DATA / "new", DATA / "state.json"
 BASE = "https://www.football-data.co.uk"
-LEAGUES = {"E0": "Premier League", "SP1": "LaLiga", "I1": "Serie A", "D1": "Bundesliga", "F1": "Ligue 1"}
+UA = {"User-Agent": "Mozilla/5.0"}
+LEAGUES = {"E0": "🏴 Premier League", "E1": "🏴 Championship", "SP1": "🇪🇸 LaLiga", "SP2": "🇪🇸 LaLiga 2",
+           "I1": "🇮🇹 Serie A", "I2": "🇮🇹 Serie B", "D1": "🇩🇪 Bundesliga", "D2": "🇩🇪 2. Bundesliga",
+           "F1": "🇫🇷 Ligue 1", "F2": "🇫🇷 Ligue 2", "N1": "🇳🇱 Eredivisie", "P1": "🇵🇹 Primeira Liga",
+           "B1": "🇧🇪 Pro League", "T1": "🇹🇷 Süper Lig", "G1": "🇬🇷 Super League", "SC0": "🏴 Premiership escocesa"}
+NEW_LEAGUES = {"ARG": ("Argentina", "🇦🇷 Liga Profesional"), "BRA": ("Brazil", "🇧🇷 Brasileirão"),
+               "MEX": ("Mexico", "🇲🇽 Liga MX"), "USA": ("USA", "🇺🇸 MLS"), "JPN": ("Japan", "🇯🇵 J1 League"),
+               "AUT": ("Austria", "🇦🇹 Bundesliga"), "DNK": ("Denmark", "🇩🇰 Superliga"), "NOR": ("Norway", "🇳🇴 Eliteserien"),
+               "SWE": ("Sweden", "🇸🇪 Allsvenskan"), "SWZ": ("Switzerland", "🇨🇭 Super League"), "POL": ("Poland", "🇵🇱 Ekstraklasa")}
+ALL_LEAGUES = {**LEAGUES, **{c: n for c, (_, n) in NEW_LEAGUES.items()}}
 FIRST_SEASON = 2005
-EDGE, MIN_P = 0.05, 0.25          # señal si prob*cuota-1 >= 5% y prob >= 25%
-HORIZON_DAYS, MAX_AI = 2, 12      # partidos de los próximos 2 días; máx. llamadas IA por ejecución (cuota gratis)
+EDGE, MAX_EDGE, MIN_P = 0.05, 0.30, 0.25  # señal si ventaja entre 5% y 30% (más suele ser cuota errónea) y prob >= 25%
+HORIZON_DAYS = 2                  # partidos de los próximos 2 días
 TG, CHAT = os.getenv("TELEGRAM_TOKEN"), os.getenv("TELEGRAM_CHAT_ID")
-VERBOSE = os.getenv("VERBOSE") == "1"  # 1 = también análisis, grafos y PDF; si no, solo apuestas y resultados
 GEMINI, MODEL = os.getenv("GEMINI_API_KEY"), os.getenv("GEMINI_MODEL", "gemini-flash-latest")
-COLS = ["Div", "Date", "Time", "HomeTeam", "AwayTeam", "FTHG", "FTAG", "MaxH", "MaxD", "MaxA", "Max>2.5", "Max<2.5", "AvgH", "AvgD", "AvgA", "Avg>2.5", "Avg<2.5",
-        "B365H", "B365D", "B365A", "B365>2.5", "B365<2.5"]
-# mejor cuota entre casas (Max) primero: es la que el bot "apuesta"
-MARKETS = {"H": ("MaxH", "AvgH", "B365H"), "D": ("MaxD", "AvgD", "B365D"), "A": ("MaxA", "AvgA", "B365A"),
-           "O25": ("Max>2.5", "Avg>2.5", "B365>2.5"), "U25": ("Max<2.5", "Avg<2.5", "B365<2.5")}
-NAMES = {"H": "Local", "D": "Empate", "A": "Visitante", "O25": "Más de 2.5", "U25": "Menos de 2.5"}
-STATUS_COLORS = {"duda": "#e0a100", "lesionado": "#d64545", "sancionado": "#7b4fd0"}
-FONTS = ["/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf", "C:/Windows/Fonts/arial.ttf"]
+COLS = ["Div", "Date", "HomeTeam", "AwayTeam", "FTHG", "FTAG"]
+BOOKIES = {"B365": "Bet365", "PS": "Pinnacle", "BW": "Bwin", "BV": "BetVictor", "BFD": "Betfred", "PP": "Paddy Power",
+           "SKB": "Sky Bet", "WH": "William Hill"}  # sin Betfair Exchange: comisión y poca liquidez
+SUFFIX = {"H": "H", "D": "D", "A": "A", "O25": ">2.5", "U25": "<2.5"}
+NAMES = {"H": "Local", "D": "Empate", "A": "Visitante", "O25": "Más de 2.5 goles", "U25": "Menos de 2.5 goles"}
+POS_WEIGHT = {"F": ("att", 0.10), "M": ("att", 0.06), "D": ("def", 0.06), "G": ("def", 0.10)}
+STATUS_WEIGHT = {"lesionado": 1.0, "sancionado": 1.0, "duda": 0.5}
 
 
 def season_code(y): return f"{y % 100:02d}{(y + 1) % 100:02d}"
 def key(r): return f"{r['Div']}|{r['Date']:%Y-%m-%d}|{r['HomeTeam']}|{r['AwayTeam']}"
+def esc(s): return html.escape(str(s), quote=False)
 
 
-def load_csv(raw):
+def load_csv(raw, cols=COLS):
     try: txt = raw.decode("utf-8-sig")
     except UnicodeDecodeError: txt = raw.decode("latin-1")  # temporadas antiguas
-    df = pd.read_csv(io.StringIO(txt), on_bad_lines="skip", usecols=lambda c: c in COLS)
+    df = pd.read_csv(io.StringIO(txt), on_bad_lines="skip", usecols=(lambda c: c in cols) if cols else None)
+    df = df.rename(columns={"Home": "HomeTeam", "Away": "AwayTeam", "HG": "FTHG", "AG": "FTAG"})
     df["Date"] = pd.to_datetime(df["Date"], dayfirst=True, format="mixed", errors="coerce")
     return df.dropna(subset=["Date", "HomeTeam", "AwayTeam"])
 
 
+def fetch(url):
+    try:
+        r = requests.get(url, headers=UA, timeout=60)
+        return r.content if r.ok and r.content else None
+    except requests.RequestException as e:
+        print("descarga fallida", url, e)
+
+
 def update_history(today):
-    HIST.mkdir(parents=True, exist_ok=True)
+    HIST.mkdir(parents=True, exist_ok=True); NEW.mkdir(parents=True, exist_ok=True)
     cur = today.year if today.month >= 7 else today.year - 1
     for div in LEAGUES:
         for y in range(FIRST_SEASON, cur + 1):
             f = HIST / f"{div}_{season_code(y)}.csv"
             if f.exists() and y < cur: continue  # temporadas cerradas: se descargan una vez
-            try:
-                r = requests.get(f"{BASE}/mmz4281/{season_code(y)}/{div}.csv", timeout=30)
-                if r.ok and r.content: f.write_bytes(r.content)
-            except requests.RequestException as e: print("descarga fallida", f.name, e)
-    df = pd.concat([load_csv(f.read_bytes()) for f in sorted(HIST.glob("*.csv"))], ignore_index=True)
+            if raw := fetch(f"{BASE}/mmz4281/{season_code(y)}/{div}.csv"): f.write_bytes(raw)
+    frames = [load_csv(f.read_bytes()) for f in sorted(HIST.glob("*.csv"))]
+    for code in NEW_LEAGUES:  # ligas "nuevas": un archivo con todo su historial, se baja en cada ejecución (no va a git)
+        f = NEW / f"{code}.csv"
+        if raw := fetch(f"{BASE}/new/{code}.csv"): f.write_bytes(raw)
+        if f.exists(): frames.append(load_csv(f.read_bytes(), ["Date", "Home", "Away", "HG", "AG"]).assign(Div=code))
+    df = pd.concat(frames, ignore_index=True)
     return df.dropna(subset=["FTHG", "FTAG"]).sort_values("Date", ignore_index=True)
+
+
+def fixtures():
+    fx = load_csv(fetch(f"{BASE}/fixtures.csv") or b"Div,Date,HomeTeam,AwayTeam\n", None)
+    new = fetch(f"{BASE}/new_league_fixtures.csv")
+    if new:
+        n = load_csv(new, None)
+        n["Div"] = n["Country"].map({c: code for code, (c, _) in NEW_LEAGUES.items()})
+        fx = pd.concat([fx, n.dropna(subset=["Div"])], ignore_index=True)
+    return fx[fx.Div.isin(list(ALL_LEAGUES))]
 
 
 # ---------- modelo ----------
 def strengths(df, div, today, k=5.0):
-    d = df[df.Div == div]
+    d = df[(df.Div == div) & (df.Date >= today - pd.DateOffset(years=12))]
     w = 0.5 ** ((today - d.Date).dt.days / 365)  # vida media de 1 año: la última década pesa, lo reciente más
     mu_h, mu_a = (w * d.FTHG).sum() / w.sum(), (w * d.FTAG).sum() / w.sum()
     def rate(team, goals, mu):  # media ponderada con encogimiento hacia la media de la liga
@@ -68,34 +98,60 @@ def strengths(df, div, today, k=5.0):
 def probs(lh, la, n=11):
     pois = lambda l: [math.exp(-l) * l ** i / math.factorial(i) for i in range(n)]
     ph, pa = pois(lh), pois(la)
-    P = dict.fromkeys(["H", "D", "A", "O25", "U25", "BTTS"], 0.0)
+    P = dict.fromkeys(["H", "D", "A", "O15", "O25", "U25", "O35", "BTTS"], 0.0)
+    scores = {}
     for i in range(n):
         for j in range(n):
-            p = ph[i] * pa[j]
+            p = scores[f"{i}-{j}"] = ph[i] * pa[j]
             P["H" if i > j else "D" if i == j else "A"] += p
             P["O25" if i + j > 2 else "U25"] += p
+            P["O15"] += p * (i + j > 1); P["O35"] += p * (i + j > 3)
             if i and j: P["BTTS"] += p
+    P["scores"] = sorted(scores.items(), key=lambda x: -x[1])[:4]
     return P
 
 
-def predict(st, home, away):
+def absence_impact(players, played):
+    """Pérdida de ataque y de defensa por bajas, según posición y peso del jugador (partidos jugados)."""
+    imp = {"att": 0.0, "def": 0.0}
+    for p in players:
+        side, w = POS_WEIGHT.get(p["pos"][:1].upper(), ("att", 0.04))
+        imp[side] += w * STATUS_WEIGHT.get(p["status"], 0.5) * min(1.0, p["games"] / max(played, 1))
+    return {k: min(v, 0.25) for k, v in imp.items()}  # shortcut: pesos fijos por posición; usar minutos/xG si hay fuente gratis
+
+
+def predict(st, home, away, squads=([], []), played=(1, 1)):
     mu_h, mu_a, s = st
-    g = lambda t, team: s[t].get(team, 1.0)  # shortcut: recién ascendidos = media de la liga; cargar 2ª división si falla mucho
-    lh = mu_h * g("att_h", home) * g("def_a", away)
-    la = mu_a * g("att_a", away) * g("def_h", home)
+    g = lambda t, team: s[t].get(team, 1.0)  # shortcut: recién ascendidos = media de la liga
+    ih, ia = absence_impact(squads[0], played[0]), absence_impact(squads[1], played[1])
+    lh = mu_h * g("att_h", home) * g("def_a", away) * (1 - ih["att"]) * (1 + ia["def"])
+    la = mu_a * g("att_a", away) * g("def_h", home) * (1 - ia["att"]) * (1 + ih["def"])
     return lh, la, probs(lh, la)
 
 
+def best_odds(row, m):
+    """(cuota, casa) más alta entre las casas del CSV; si no hay, Max/Avg del mercado."""
+    offers = [(float(row[c]), name) for b, name in BOOKIES.items()
+              if pd.notna(row.get(c := f"{b}{SUFFIX[m]}")) and float(row[c]) > 1]
+    if offers: return max(offers)
+    for c, name in ((f"Max{SUFFIX[m]}", "mejor del mercado"), (f"Avg{SUFFIX[m]}", "media del mercado")):
+        if pd.notna(row.get(c)) and float(row[c]) > 1: return float(row[c]), name
+    return None, None
+
+
 def value_bets(P, row):
-    odds = {m: next((float(row[c]) for c in cols if pd.notna(row.get(c))), None) for m, cols in MARKETS.items()}
     out = []
     for group in (("H", "D", "A"), ("O25", "U25")):
-        if not all(odds[m] for m in group): continue
-        inv = sum(1 / odds[m] for m in group)
+        best = {m: best_odds(row, m) for m in group}
+        if not all(o for o, _ in best.values()): continue
+        avg = {m: float(row[c]) if pd.notna(row.get(c := f"Avg{SUFFIX[m]}")) else best[m][0] for m in group}
+        inv = sum(1 / o for o in avg.values())
         for m in group:
-            p = 0.5 * P[m] + 0.5 / odds[m] / inv  # mezcla modelo + mercado (sin margen): el Poisson solo sobreestima ventajas
-            if p >= MIN_P and p * odds[m] - 1 >= EDGE:
-                out.append({"market": m, "odds": odds[m], "p": round(p, 3), "edge": round(p * odds[m] - 1, 3)})
+            implied = 1 / avg[m] / inv  # probabilidad del mercado sin margen
+            p, (o, book) = 0.5 * P[m] + 0.5 * implied, best[m]  # mezcla modelo + mercado: el Poisson solo sobreestima ventajas
+            if p >= MIN_P and EDGE <= p * o - 1 <= MAX_EDGE:
+                out.append({"market": m, "odds": o, "book": book, "p": round(p, 3), "implied": round(implied, 3),
+                            "edge": round(p * o - 1, 3)})
     return out
 
 
@@ -106,23 +162,26 @@ def h2h(df, a, b):
     return df[((df.HomeTeam == a) & (df.AwayTeam == b)) | ((df.HomeTeam == b) & (df.AwayTeam == a))]
 
 
-def form(df, t, n=6):
+def form(df, t, n=5):
     d = df[(df.HomeTeam == t) | (df.AwayTeam == t)].tail(n)
-    return "".join("E" if r.FTHG == r.FTAG else "G" if (r.HomeTeam == t) == (r.FTHG > r.FTAG) else "P"
+    return "".join("➖" if r.FTHG == r.FTAG else "✅" if (r.HomeTeam == t) == (r.FTHG > r.FTAG) else "❌"
                    for r in d.itertuples())
 
 
 def h2h_summary(hh, home, away):
-    if hh.empty: return "Sin enfrentamientos previos desde 2005."
+    if hh.empty: return "sin precedentes"
     wins = lambda t: int((((hh.HomeTeam == t) & (hh.FTHG > hh.FTAG)) | ((hh.AwayTeam == t) & (hh.FTAG > hh.FTHG))).sum())
     goals = hh.FTHG + hh.FTAG
-    return (f"{len(hh)} partidos desde {hh.Date.min():%Y}: {home} {wins(home)} - {int((hh.FTHG == hh.FTAG).sum())} empates - "
-            f"{wins(away)} {away}. Media {goals.mean():.2f} goles, +2.5 en {100 * (goals > 2).mean():.0f}%.")
+    return (f"{len(hh)} desde {hh.Date.min():%Y}: {wins(home)}V-{int((hh.FTHG == hh.FTAG).sum())}E-{wins(away)}D "
+            f"· {goals.mean():.1f} goles/partido · +2.5 en {100 * (goals > 2).mean():.0f}%")
 
 
 # ---------- bajas (sportsgambler.com) ----------
-INJ_SLUGS = {"E0": "england-premier-league", "SP1": "spain-la-liga", "I1": "italy-serie-a",
-             "D1": "germany-bundesliga", "F1": "france-ligue-1"}
+INJ_SLUGS = {"E0": "england-premier-league", "E1": "england-championship", "SP1": "spain-la-liga", "SP2": "spain-la-liga-2",
+             "I1": "italy-serie-a", "I2": "italy-serie-b", "D1": "germany-bundesliga", "D2": "germany-2-bundesliga",
+             "F1": "france-ligue-1", "F2": "france-ligue-2", "N1": "netherlands-eredivisie", "P1": "portugal-primeira-liga",
+             "B1": "belgium-pro-league", "T1": "turkey-super-lig", "SC0": "scotland-premiership", "USA": "usa-mls",
+             "BRA": "brazil-serie-a", "ARG": "argentina-liga-profesional", "MEX": "mexico-liga-mx"}
 INJ_TYPES = {"injury-plus": "lesionado", "injury-questionmark": "duda", "redcard": "sancionado"}
 ALIASES = {"paris sg": "psg", "ath madrid": "atletico madrid", "ath bilbao": "athletic club", "la coruna": "deportivo",
            "santander": "racing club", "espanol": "espanyol", "ein frankfurt": "frankfurt"}
@@ -134,20 +193,18 @@ def norm(s):
 
 
 def injuries(div):
-    """{equipo: [jugadores de baja/duda]} de la liga; {} si la web falla."""
-    try:
-        html = requests.get(f"https://www.sportsgambler.com/injuries/football/{INJ_SLUGS[div]}/",
-                            headers={"User-Agent": "Mozilla/5.0"}, timeout=30).text
-    except requests.RequestException as e:
-        print("bajas no disponibles", div, e); return {}
+    """{equipo: [jugadores de baja/duda]} de la liga; {} si no hay fuente o la web falla."""
+    if div not in INJ_SLUGS: return {}
+    raw = fetch(f"https://www.sportsgambler.com/injuries/football/{INJ_SLUGS[div]}/")
     out = {}
-    for block in html.split('class="injuries-title"')[1:]:
-        team = re.search(r'<a [^>]*>([^<]+)</a>', block).group(1)
-        out[team] = [{"name": p, "pos": pos, "games": int(g) if g.isdigit() else 0, "goals": gl,
-                      "status": INJ_TYPES.get(t, "duda"), "note": info, "ret": ret}
-                     for t, p, pos, g, gl, info, ret in re.findall(
-                         r'inj-type ([a-z-]+)".*?inj-player">([^<]+)<.*?inj-position[^>]*>([^<]*)<.*?inj-game[^>]*>([^<]*)<'
-                         r'.*?inj-goals[^>]*>([^<]*)<.*?inj-info">([^<]*)<.*?inj-return[^>]*>([^<]*)<', block, re.S)]
+    for block in (raw or b"").decode("utf-8", "ignore").split('class="injuries-title"')[1:]:
+        team = re.search(r'<a [^>]*>([^<]+)</a>', block)
+        if not team: continue
+        out[team.group(1)] = [{"name": p, "pos": pos, "games": int(g) if g.isdigit() else 0, "goals": gl,
+                               "status": INJ_TYPES.get(t, "duda"), "note": info, "ret": ret}
+                              for t, p, pos, g, gl, info, ret in re.findall(
+                                  r'inj-type ([a-z-]+)".*?inj-player">([^<]+)<.*?inj-position[^>]*>([^<]*)<.*?inj-game[^>]*>([^<]*)<'
+                                  r'.*?inj-goals[^>]*>([^<]*)<.*?inj-info">([^<]*)<.*?inj-return[^>]*>([^<]*)<', block, re.S)]
     return out
 
 
@@ -161,29 +218,23 @@ def find_team(name, teams):
     return by[m[0]] if m else None
 
 
+def absences_line(team, players):
+    out = [p for p in players if p["status"] != "duda"]
+    if not players: return f"{esc(team)}: sin bajas"
+    key_out = sorted(out, key=lambda p: -p["games"])[:3]
+    return (f"{esc(team)}: {len(out)} fuera, {len(players) - len(out)} duda"
+            + (f" ({', '.join(esc(p['name']) for p in key_out)})" if key_out else ""))
+
+
 # ---------- IA ----------
-def ai_report(league, date, home, away, stats, absences, sport="fútbol"):
-    return ai_json(f"""Eres un analista de {sport} experto. Partido: {home} vs {away} ({league}), {date:%d/%m/%Y}.
-Datos de mi modelo estadístico e historial:
-{stats}
-
-Bajas y dudas actuales (partidos jugados esta temporada, motivo, regreso previsto):
-{absences}
-
-Valora el peso real de cada baja (titular o suplente, posición) y cruza todo con el historial y la forma.
-Responde SOLO con un JSON válido, sin texto extra:
-{{"analysis": "análisis experto en español (8-12 frases)", "pick": "pronóstico principal", "confidence": 3}}
-confidence va de 1 a 5.""")
-
-
 def ai_json(prompt):
-    if not (GEMINI and VERBOSE): return None
+    if not GEMINI: return None
     from google import genai
     client = genai.Client(api_key=GEMINI)  # variable aparte: si no, se cierra antes de la petición
     try:
         txt = client.models.generate_content(model=MODEL, contents=prompt).text or ""
         m = re.search(r"\{.*\}", txt, re.S)
-        return json.loads(m.group(0)) if m else {"analysis": txt}
+        return json.loads(m.group(0)) if m else None
     except Exception as e:  # una respuesta mala de la IA no debe tumbar la ejecución
         print("IA fallida", e)
         return None
@@ -191,157 +242,90 @@ def ai_json(prompt):
         time.sleep(7)  # límite de peticiones por minuto del plan gratis
 
 
-# ---------- salida ----------
-def player_graph(home, away, squads, path):
-    if not VERBOSE: return
-    import matplotlib
-    matplotlib.use("Agg")
-    import matplotlib.pyplot as plt, networkx as nx
-    from matplotlib.patches import Patch
-    fig, axes = plt.subplots(1, 2, figsize=(15, 7.5))
-    for ax, team, players in zip(axes, (home, away), squads):
-        G = nx.star_graph([team] + [p["name"] for p in players])
-        pos = nx.shell_layout(G, [[team], [p["name"] for p in players]]) if players else {team: (0, 0)}
-        info = {p["name"]: p for p in players}
-        colors = ["#1f3b73" if n == team else STATUS_COLORS[info[n]["status"]] for n in G]
-        labels = {n: n if n == team else f"{n}\n{info[n]['pos']}" + (f" · {info[n]['games']} PJ" if info[n]["games"] else "")
-                  + f"\nvuelve {info[n]['ret']}" for n in G}
-        sizes = [2600 if n == team else 500 + 120 * info[n]["games"] for n in G]  # tamaño = importancia (partidos)
-        nx.draw_networkx(G, pos, ax=ax, labels=labels, node_color=colors, edge_color="#ccc", node_size=sizes, font_size=7)
-        ax.set_title(f"{team} · {len(players)} bajas/dudas", fontsize=14); ax.axis("off")
-    fig.legend(handles=[Patch(color=c, label=s) for s, c in STATUS_COLORS.items()], loc="lower center", ncol=3)
-    fig.savefig(path, dpi=110, bbox_inches="tight"); plt.close(fig)
-
-
-def pdf_report(path, title, sections, img=None):
-    if not VERBOSE: return
-    from fpdf import FPDF
-    pdf = FPDF(); pdf.add_page()
-    font = next((f for f in FONTS if Path(f).exists()), None)
-    if font: pdf.add_font("U", fname=font); pdf.set_font("U")
-    else: pdf.set_font("Helvetica")
-    t = (lambda s: s) if font else (lambda s: s.encode("latin-1", "replace").decode("latin-1"))
-    pdf.set_font_size(16); pdf.multi_cell(0, 9, t(title), new_x="LMARGIN", new_y="NEXT")
-    for head, body in sections:
-        pdf.ln(2); pdf.set_font_size(12); pdf.multi_cell(0, 7, t(head), new_x="LMARGIN", new_y="NEXT")
-        pdf.set_font_size(9); pdf.multi_cell(0, 5, t(body), new_x="LMARGIN", new_y="NEXT")
-    if img: pdf.add_page(); pdf.image(str(img), w=190)
-    pdf.output(str(path))
-
-
-def tg(method, files=None, **data):
+# ---------- Telegram ----------
+def tg(method, **data):
     if not (TG and CHAT):  # sin token: modo prueba, imprime en consola
-        print(f"\n[telegram {method}]", data.get("text") or data.get("caption") or "", *(files or {}))
+        print(f"\n[telegram {method}]\n{data.get('text', '')}")
         return
     try:
-        r = requests.post(f"https://api.telegram.org/bot{TG}/{method}", data={"chat_id": CHAT, **data}, files=files, timeout=60)
+        r = requests.post(f"https://api.telegram.org/bot{TG}/{method}", data={"chat_id": CHAT, **data}, timeout=60)
         if not r.ok: print("Telegram error", r.status_code, r.text[:200])
     except requests.RequestException as e: print("Telegram error", e)
     time.sleep(1)
 
 
-def send_text(text, force=False):
-    if not (VERBOSE or force): return
-    for i in range(0, len(text), 4000): tg("sendMessage", text=text[i:i + 4000])
-
-
-def send_file(method, field, path, caption=""):
-    if not VERBOSE: return
-    with open(path, "rb") as f: tg(method, files={field: f}, caption=caption[:1000])
+def send_card(text): tg("sendMessage", text=text[:4000], parse_mode="HTML", disable_web_page_preview="true")
 
 
 # ---------- tareas ----------
-def report_results(df, state, today):
+def settle_signals(df, state, today):
     recent = {key(r): r for r in df[df.Date >= today - pd.Timedelta(days=30)].to_dict("records")}
-    new = [r for k, r in recent.items() if k not in set(state["seen"])]
-    first_run = not state["seen"]
-    state["seen"] = list(recent)
-    settled = []
     for s in state["signals"]:
         if s.get("result") is None and s["key"] in recent:
-            r = recent[s["key"]]; s["result"] = bool(won(s["market"], r["FTHG"], r["FTAG"])); settled.append(s)
+            r = recent[s["key"]]; s["result"] = bool(won(s["market"], r["FTHG"], r["FTAG"]))
+            s["score"] = f"{int(r['FTHG'])}-{int(r['FTAG'])}"
         elif s.get("result") is None and s["key"].split("|")[1] < f"{today - pd.Timedelta(days=30):%Y-%m-%d}":
             s["result"] = "nula"  # aplazado o sin resultado
-    if first_run or not (new or settled): return
-    lines = ["📊 NUEVOS RESULTADOS"]
-    for div, name in LEAGUES.items():
-        rs = [r for r in new if r["Div"] == div]
-        if rs: lines += [f"\n{name}"] + [f"  {r['HomeTeam']} {int(r['FTHG'])}-{int(r['FTAG'])} {r['AwayTeam']}" for r in rs]
-    if settled:
-        lines.append("\n🎯 SEÑALES RESUELTAS")
-        lines += [f"  {'✅' if s['result'] else '❌'} {s['match']} · {NAMES[s['market']]} @ {s['odds']}" for s in settled]
-    done = [s for s in state["signals"] if isinstance(s.get("result"), bool)]
-    if done:
-        profit = sum(s["odds"] - 1 if s["result"] else -1 for s in done)
-        lines.append(f"\nHistórico señales: {sum(s['result'] for s in done)}/{len(done)} acertadas, "
-                     f"beneficio {profit:+.2f} u (ROI {100 * profit / len(done):+.1f}%)")
-    send_text("\n".join(lines))
 
 
-def analyze_fixtures(df, state, today):
-    fx = load_csv(requests.get(f"{BASE}/fixtures.csv", timeout=30).content)
-    fx = fx[fx.Div.isin(list(LEAGUES)) & (fx.Date >= today) & (fx.Date <= today + pd.Timedelta(days=HORIZON_DAYS))]
+def analyze_fixtures(df, state, today, kg):
+    fx = fixtures()
+    fx = fx[(fx.Date >= today) & (fx.Date <= today + pd.Timedelta(days=HORIZON_DAYS))]
     state["analyzed"] = [k for k in state["analyzed"] if k.split("|")[1] >= f"{today - pd.Timedelta(days=7):%Y-%m-%d}"]
-    models, inj, n_ai, tmp = {}, {}, 0, Path(tempfile.mkdtemp())
+    models, inj, now = {}, {}, pd.Timestamp.now(tz="UTC")
+    season = df[df.Date >= today - pd.Timedelta(days=300)]
     for row in fx.sort_values(["Date", "Time"]).to_dict("records"):
         k = key(row)
+        # shortcut: hora de fixtures.csv tomada como hora de Londres (las ligas "nuevas" también la dan así)
         start = pd.Timestamp(f"{row['Date']:%Y-%m-%d} {row.get('Time') or '00:00'}", tz="Europe/London")
-        if k in state["analyzed"] or start <= pd.Timestamp.now(tz="UTC"): continue  # ya empezado
-        if GEMINI and n_ai >= MAX_AI: break  # el resto en la siguiente ejecución
+        if k in state["analyzed"] or start <= now: continue  # ya empezado
         div, home, away = row["Div"], row["HomeTeam"], row["AwayTeam"]
         if div not in models: models[div], inj[div] = strengths(df, div, today), injuries(div)
         squads = [inj[div].get(find_team(t, inj[div]), []) for t in (home, away)]
-        absences = "\n".join(f"  [{(home, away)[i]}] {p['name']} ({p['pos']}, {p['games']} PJ, {p['goals']} goles) "
-                             f"{p['status']}: {p['note']} · vuelve {p['ret']}" for i, s in enumerate(squads) for p in s)
-        lh, la, P = predict(models[div], home, away)
-        vb, hh = value_bets(P, row), h2h(df, home, away)
-        fh, fa = form(df, home), form(df, away)
-        odds = " / ".join(str(row.get(c)) for c in ("AvgH", "AvgD", "AvgA"))
-        stats = (f"Goles esperados: {home} {lh:.2f} - {la:.2f} {away}\n"
-                 f"Probabilidades: 1 {P['H']:.0%} | X {P['D']:.0%} | 2 {P['A']:.0%} | +2.5 {P['O25']:.0%} | ambos marcan {P['BTTS']:.0%}\n"
-                 f"Cuotas medias 1X2: {odds}\n"
-                 f"Forma (últimos 6, G/E/P): {home} {fh} | {away} {fa}\n"
-                 f"Cara a cara: {h2h_summary(hh, home, away)}")
-        ai = ai_report(LEAGUES[div], row["Date"], home, away, stats, absences or "Sin bajas conocidas")
-        n_ai += ai is not None
-        title = f"{home} vs {away}"
-        msg = [f"⚽ {LEAGUES[div]} · {row['Date']:%d/%m} {row.get('Time') or ''} (hora UK)", title, "", stats]
-        if absences: msg += ["", "🚑 Bajas y dudas:", absences]
-        if ai and ai.get("pick"): msg += ["", f"🤖 IA: {ai['pick']} (confianza {ai.get('confidence', '?')}/5)"]
-        if vb: msg += ["", "💰 SEÑALES DE VALOR:"] + [f"  {NAMES[v['market']]} @ {v['odds']} · prob {v['p']:.0%} · ventaja {v['edge']:+.0%}" for v in vb]
-        msg += ["", "Pronóstico estadístico, no garantía. Juega con responsabilidad."]
-        send_text("\n".join(msg))
-
-        img = None
-        if any(squads):
-            img = tmp / f"{k.replace('|', '_')}.png"; player_graph(home, away, squads, img)
-            send_file("sendPhoto", "photo", img, f"Estado de la plantilla · {title}")
-        h2h_lines = "\n".join(f"{r.Date:%d/%m/%Y}  {r.HomeTeam} {int(r.FTHG)}-{int(r.FTAG)} {r.AwayTeam}"
-                              for r in hh.iloc[::-1].head(25).itertuples()) or "—"
-        pdf = tmp / f"{k.replace('|', '_')}.pdf"
-        pdf_report(pdf, f"{title} · {LEAGUES[div]} · {row['Date']:%d/%m/%Y}", [
-            ("Modelo y datos", stats),
-            ("Señales de valor", "\n".join(msg[msg.index("💰 SEÑALES DE VALOR:") + 1:-2]) if vb else "Ninguna"),
-            ("Análisis IA", (ai or {}).get("analysis", "IA no configurada")),
-            ("Bajas y dudas", absences or "Sin bajas conocidas"),
-            ("Últimos enfrentamientos", h2h_lines)], img)
-        send_file("sendDocument", "document", pdf, f"Informe {title}")
+        played = [int(((season.HomeTeam == t) | (season.AwayTeam == t)).sum()) for t in (home, away)]
+        lh, la, P = predict(models[div], home, away, squads, played)
+        hh = h2h(df, home, away)
+        kg.match(ALL_LEAGUES[div], home, away, start, {"1": P["H"], "X": P["D"], "2": P["A"]}, squads, h2h_summary(hh, home, away))
         state["analyzed"].append(k)
-        state["signals"] += [{**v, "key": k, "match": title, "start": start.isoformat()} for v in vb]
+        vb = value_bets(P, row)
+        if not vb: continue
+        fav = min(("H", "D", "A"), key=lambda m: best_odds(row, m)[0] or 99)
+        pick = {"H": home, "A": away}
+        info = [f"📊 <b>Escenarios</b> (goles esperados {lh:.2f} - {la:.2f})",
+                f"1 {P['H']:.0%} · X {P['D']:.0%} · 2 {P['A']:.0%}",
+                f"1X {P['H'] + P['D']:.0%} · X2 {P['D'] + P['A']:.0%} · 12 {P['H'] + P['A']:.0%}",
+                f"+1.5 {P['O15']:.0%} · +2.5 {P['O25']:.0%} · +3.5 {P['O35']:.0%} · Ambos marcan {P['BTTS']:.0%}",
+                "Marcadores: " + " · ".join(f"{s} {p:.0%}" for s, p in P["scores"]),
+                "", "🔎 <b>Claves</b>",
+                f"• Forma: {esc(home)} {form(df, home)} | {esc(away)} {form(df, away)}",
+                f"• H2H: {h2h_summary(hh, home, away)}",
+                f"• Bajas: {absences_line(home, squads[0])}; {absences_line(away, squads[1])}",
+                f"• Favorito de las casas: {esc(pick.get(fav, 'Empate'))} @ {best_odds(row, fav)[0]:.2f}"]
+        context = (f"{home} vs {away} ({ALL_LEAGUES[div]}). Modelo Poisson con historial desde 2005 y bajas: "
+                   f"1 {P['H']:.0%} X {P['D']:.0%} 2 {P['A']:.0%}, +2.5 {P['O25']:.0%}, ambos marcan {P['BTTS']:.0%}. "
+                   f"Forma {home} {form(df, home)}, {away} {form(df, away)} (✅ victoria ➖ empate ❌ derrota). "
+                   f"H2H {h2h_summary(hh, home, away)}. Bajas {home}: "
+                   f"{'; '.join(p['name'] + ' ' + p['pos'] + ' ' + p['status'] + ' ' + str(p['games']) + ' PJ' for p in squads[0]) or 'ninguna'}. "
+                   f"Bajas {away}: {'; '.join(p['name'] + ' ' + p['pos'] + ' ' + p['status'] + ' ' + str(p['games']) + ' PJ' for p in squads[1]) or 'ninguna'}.")
+        for v in vb:
+            state["signals"].append({**v, "key": k, "match": f"{home} vs {away}", "pick": pick.get(v["market"], NAMES[v["market"]]),
+                                     "start": start.isoformat(), "league": ALL_LEAGUES[div], "sport": "⚽",
+                                     "info": info, "context": context})
 
 
 def main():
+    import bankroll, knowledge, multisport
     today = pd.Timestamp.now().normalize()
-    state = json.loads(STATE.read_text(encoding="utf-8")) if STATE.exists() else {"seen": [], "analyzed": [], "signals": []}
+    state = json.loads(STATE.read_text(encoding="utf-8")) if STATE.exists() else {"analyzed": [], "signals": []}
+    kg = knowledge.Graph()
     df = update_history(today)
-    print(f"Historial: {len(df)} partidos ({df.Date.min():%Y}-{df.Date.max():%Y})")
-    report_results(df, state, today)
-    analyze_fixtures(df, state, today)
-    import esports, multisport
-    multisport.run(state, today)
-    esports.run(state, today)
-    import bankroll
-    bankroll.run(state, today)
+    print(f"Historial fútbol: {len(df)} partidos ({df.Date.min():%Y}-{df.Date.max():%Y})")
+    settle_signals(df, state, today)
+    analyze_fixtures(df, state, today, kg)
+    multisport.run(state, today, kg)
+    bankroll.run(state, today, kg)
+    kg.save()
+    state.pop("seen", None)
     STATE.write_text(json.dumps(state, ensure_ascii=False, indent=1), encoding="utf-8")
 
 

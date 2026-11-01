@@ -1,8 +1,5 @@
 """NBA, NFL, NHL, MLB y tenis ATP/WTA vía la API pública de ESPN: 10 años de historial, Elo, lesiones,
 cuotas DraftKings, señales de valor, IA, grafo, PDF y Telegram. Reutiliza las utilidades de analyst.py."""
-import tempfile
-from pathlib import Path
-
 import pandas as pd
 import requests
 
@@ -16,6 +13,7 @@ SPORTS = {  # liga: (ruta ESPN, nombre, deporte, ventaja local en puntos Elo, K;
     "mlb": ("baseball/mlb", "⚾ MLB", "béisbol", 24, 4),
     "atp": ("tennis/atp", "🎾 Tenis ATP", "tenis", 0, None),
     "wta": ("tennis/wta", "🎾 Tenis WTA", "tenis", 0, None),
+    "ufc": ("mma/ufc", "🥊 UFC", "MMA", 0, None),
 }
 YEARS = 10
 DIR = A.DATA / "espn"
@@ -104,8 +102,9 @@ def signals(p_home, oh, oa):
     inv, out = 1 / oh + 1 / oa, []
     for side, p, o in (("home", p_home, oh), ("away", 1 - p_home, oa)):
         q = 0.5 * p + 0.5 / o / inv  # mezcla Elo + mercado sin margen, como en fútbol
-        if q >= A.MIN_P and q * o - 1 >= A.EDGE:
-            out.append({"market": side, "odds": o, "p": round(q, 3), "edge": round(q * o - 1, 3)})
+        if q >= A.MIN_P and A.EDGE <= q * o - 1 <= A.MAX_EDGE:
+            out.append({"market": side, "odds": o, "book": "DraftKings", "p": round(q, 3), "implied": round(1 / o / inv, 3),
+                        "edge": round(q * o - 1, 3)})
     return out
 
 
@@ -126,29 +125,34 @@ def injuries(league):
     return out
 
 
-def form(df, t, n=6):
+def form(df, t, n=5):
     d = df[(df.home == t) | (df.away == t)].tail(n)
-    return "".join("E" if r.res == 0.5 else "G" if (r.home == t) == (r.res == 1) else "P" for r in d.itertuples())
-
-
-def score(r): return f"{int(r.hs)}-{int(r['as'])}" if pd.notna(r.hs) and pd.notna(r["as"]) else ""
+    return "".join("➖" if r.res == 0.5 else "✅" if (r.home == t) == (r.res == 1) else "❌" for r in d.itertuples())
 
 
 def key(league, g): return f"{league}|{str(g['date'])[:10]}|{g['home']}|{g['away']}"
 
 
 def settle(df, league, state):
-    done = {key(league, r): r for r in df.tail(3000).to_dict("records")}
-    lines = []
+    done = {key(league, r): r for r in df.tail(5000).to_dict("records")}
     for s in state["signals"]:
         r = done.get(s["key"])
         if s.get("result") is None and r is not None:
             s["result"] = "nula" if r["res"] == 0.5 else (r["res"] == 1) == (s["market"] == "home")
-            if s["result"] != "nula": lines.append(f"  {'✅' if s['result'] else '❌'} {s['match']} · {s['pick']} @ {s['odds']}")
-    if lines: A.send_text("\n".join([f"🎯 {SPORTS[league][1]} · SEÑALES RESUELTAS"] + lines))
+            if pd.notna(r["hs"]) and pd.notna(r["as"]): s["score"] = f"{int(float(r['hs']))}-{int(float(r['as']))}"
 
 
-def run_league(league, state, today, tmp):
+def injury_elo(players):
+    # shortcut: cada baja resta Elo fijo sin saber si es titular; usar minutos por jugador si hay fuente gratis
+    return -min(60, sum(15 if p["status"] == "lesionado" else 5 for p in players))
+
+
+def line_details(odds):
+    try: return odds[0].get("details", ""), odds[0].get("overUnder")
+    except (TypeError, IndexError, AttributeError): return "", None
+
+
+def run_league(league, state, today, kg):
     path, title, sport, hfa, k = SPORTS[league]
     df = update_history(league, today)
     print(f"{league}: {len(df)} partidos de historial")
@@ -163,65 +167,43 @@ def run_league(league, state, today, tmp):
            and pd.Timestamp(g["date"]) > now and "TBD" not in (g["home"], g["away"])]
     if not new: return
     inj = injuries(league)
-    lines, picks = [f"{title} · PRÓXIMOS PARTIDOS (Elo de {YEARS} años)"], []
     for g in sorted(new, key=lambda g: g["date"]):
-        p = win_prob(R, g["home"], g["away"], hfa)
-        oh, oa = moneyline(g["odds"])
-        when = pd.Timestamp(g["date"]).tz_convert("Europe/Madrid")
-        line = f"{when:%d/%m %H:%M} {g['home']} vs {g['away']} · {p:.0%}-{1 - p:.0%}" + (f" · cuotas {oh}/{oa}" if oh else "")
-        lines.append(line)
-        picks.append(line + f" · forma {form(df, g['home'])}/{form(df, g['away'])}")
-        for v in signals(p, oh, oa):
-            report(league, g, p, v, df, inj, tmp)
-            state["signals"].append({**v, "key": key(league, g), "match": f"{g['home']} vs {g['away']}",
-                                     "pick": g[v["market"]], "start": g["date"]})
+        home, away = g["home"], g["away"]
+        squads = [inj.get(t, []) for t in (home, away)]
+        p = win_prob(R, home, away, hfa + injury_elo(squads[0]) - injury_elo(squads[1]))
+        hh = df[((df.home == home) & (df.away == away)) | ((df.home == away) & (df.away == home))]
+        wins = lambda t: int((((hh.home == t) & (hh.res == 1)) | ((hh.away == t) & (hh.res == 0))).sum())
+        h2h = f"{len(hh)} desde {hh.date.min():%Y}: {wins(home)}-{wins(away)}" if len(hh) else "sin precedentes"
+        kg.match(title, home, away, g["date"], {"1": p, "2": 1 - p}, squads, h2h)
         state["analyzed"].append(key(league, g))
-    ai = A.ai_json(f"""Eres un analista experto de {sport}. Estos son los próximos partidos ({title}) con la probabilidad de
-victoria de mi modelo Elo ({YEARS} años de historial), cuotas y forma reciente (G/E/P):
-{chr(10).join(picks[:60])}
-Lesionados/dudas por equipo: {'; '.join(f"{t}: {', '.join(p['name'] + ' (' + p['status'] + ')' for p in ps[:6])}" for t, ps in inj.items() if ps)[:6000] or 'sin datos'}
-Responde SOLO con un JSON válido: {{"analysis": "en español: los 3-5 partidos más interesantes con tu pronóstico y por qué (máx. 12 frases)"}}""")
-    if ai and ai.get("analysis"): lines += ["", "🤖 " + ai["analysis"]]
-    A.send_text("\n".join(lines))
+        oh, oa = moneyline(g["odds"])
+        vb = signals(p, oh, oa)
+        if not vb: continue
+        details, total = line_details(g["odds"])
+        fav = home if oh < oa else away
+        info = [f"📊 <b>Escenarios</b> (Elo con {len(df):,} partidos y bajas)".replace(",", "."),
+                f"Gana {A.esc(home)} {p:.0%} · Gana {A.esc(away)} {1 - p:.0%}",
+                f"Casas: {A.esc(home)} {vb[0]['implied'] if vb[0]['market'] == 'home' else 1 - vb[0]['implied']:.0%} · "
+                f"{A.esc(away)} {vb[0]['implied'] if vb[0]['market'] == 'away' else 1 - vb[0]['implied']:.0%}"]
+        if details or total: info.append(f"Hándicap {A.esc(details)} · Total puntos {total}")
+        info += ["", "🔎 <b>Claves</b>",
+                 f"• Forma: {A.esc(home)} {form(df, home)} | {A.esc(away)} {form(df, away)}",
+                 f"• H2H: {h2h}",
+                 f"• Bajas: {A.absences_line(home, squads[0])}; {A.absences_line(away, squads[1])}",
+                 f"• Favorito de las casas: {A.esc(fav)} @ {min(oh, oa):.2f}"]
+        context = (f"{home} vs {away} ({title}, {sport}). Modelo Elo con {YEARS} años de historial ajustado por bajas: "
+                   f"{home} {p:.0%}, {away} {1 - p:.0%}. Cuotas DraftKings {oh}/{oa}, hándicap {details}, total {total}. "
+                   f"Forma {home} {form(df, home)}, {away} {form(df, away)}. H2H {h2h}. Bajas {home}: "
+                   f"{'; '.join(x['name'] + ' ' + x['status'] for x in squads[0]) or 'ninguna'}. Bajas {away}: "
+                   f"{'; '.join(x['name'] + ' ' + x['status'] for x in squads[1]) or 'ninguna'}.")
+        for v in vb:
+            state["signals"].append({**v, "key": key(league, g), "match": f"{home} vs {away}", "pick": g[v["market"]],
+                                     "start": g["date"], "league": f"{title} · {g['event']}" if k is None else title,
+                                     "sport": title.split()[0], "info": info, "context": context})
 
 
-def report(league, g, p, v, df, inj, tmp):
-    """Informe completo (mensaje + grafo de lesiones + PDF) para un partido con señal de valor."""
-    title, sport = SPORTS[league][1], SPORTS[league][2]
-    home, away, pick = g["home"], g["away"], g[v["market"]]
-    hh = df[((df.home == home) & (df.away == away)) | ((df.home == away) & (df.away == home))]
-    wins = lambda t: int((((hh.home == t) & (hh.res == 1)) | ((hh.away == t) & (hh.res == 0))).sum())
-    stats = (f"Probabilidad Elo: {home} {p:.0%} - {1 - p:.0%} {away}\n"
-             f"Forma (últimos 6): {home} {form(df, home)} | {away} {form(df, away)}\n"
-             f"Cara a cara ({len(hh)} desde {hh.date.min():%Y}): {home} {wins(home)} - {wins(away)} {away}" if len(hh) else
-             f"Probabilidad Elo: {home} {p:.0%} - {1 - p:.0%} {away}\nSin enfrentamientos previos")
-    squads = [inj.get(t, []) for t in (home, away)]
-    absences = "\n".join(f"  [{t}] {x['name']} ({x['pos']}) {x['status']}: {x['note']}" for t, s in zip((home, away), squads) for x in s)
-    ai = A.ai_report(title, pd.Timestamp(g["date"]), home, away, stats, absences or "Sin datos de bajas", sport)
-    msg = [f"{title} · {g['event']}", f"{home} vs {away}", "", stats]
-    if absences: msg += ["", "🚑 Bajas y dudas:", absences]
-    if ai and ai.get("pick"): msg += ["", f"🤖 IA: {ai['pick']} (confianza {ai.get('confidence', '?')}/5)"]
-    msg += ["", f"💰 SEÑAL: gana {pick} @ {v['odds']} · prob {v['p']:.0%} · ventaja {v['edge']:+.0%}",
-            "", "Pronóstico estadístico, no garantía. Juega con responsabilidad."]
-    A.send_text("\n".join(msg))
-    name = f"{league}_{g['id']}"
-    img = None
-    if any(squads):
-        img = tmp / f"{name}.png"; A.player_graph(home, away, squads, img)
-        A.send_file("sendPhoto", "photo", img, f"Lesiones · {home} vs {away}")
-    h2h_lines = "\n".join(f"{r.date:%d/%m/%Y}  {r.home} {score(r) or ('gana' if r.res == 1 else 'pierde')} {r.away}"
-                          for _, r in hh.iloc[::-1].head(25).iterrows()) or "—"
-    pdf = tmp / f"{name}.pdf"
-    A.pdf_report(pdf, f"{home} vs {away} · {title}", [
-        ("Modelo y datos", stats), ("Señal de valor", msg[-3]),
-        ("Análisis IA", (ai or {}).get("analysis", "IA no configurada")),
-        ("Bajas y dudas", absences or "Sin datos"), ("Últimos enfrentamientos", h2h_lines)], img)
-    A.send_file("sendDocument", "document", pdf, f"Informe {home} vs {away}")
-
-
-def run(state, today):
-    tmp = Path(tempfile.mkdtemp())
+def run(state, today, kg):
     for league in SPORTS:
-        try: run_league(league, state, today, tmp)
+        try: run_league(league, state, today, kg)
         except Exception as e:  # un deporte caído no debe parar los demás
             print("fallo en", league, repr(e))
