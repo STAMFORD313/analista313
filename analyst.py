@@ -8,6 +8,8 @@ from pathlib import Path
 import pandas as pd
 import requests
 
+import features_extra
+
 DATA = Path(__file__).parent / "data"
 HIST, NEW, STATE = DATA / "hist", DATA / "new", DATA / "state.json"
 BASE = "https://www.football-data.co.uk"
@@ -31,7 +33,7 @@ TG, CHAT = os.getenv("TELEGRAM_TOKEN"), os.getenv("TELEGRAM_CHAT_ID")
 GEMINI, MODEL = os.getenv("GEMINI_API_KEY"), os.getenv("GEMINI_MODEL", "gemini-flash-latest")
 CLOSE = {"H": "AvgCH", "D": "AvgCD", "A": "AvgCA", "O25": "AvgC>2.5", "U25": "AvgC<2.5"}  # cuotas de cierre → CLV
 PINNACLE = {"H": "PSH", "D": "PSD", "A": "PSA", "O25": "P>2.5", "U25": "P<2.5"}  # la casa más afinada: ancla del mercado
-COLS = ["Div", "Date", "HomeTeam", "AwayTeam", "FTHG", "FTAG", *CLOSE.values()]
+COLS = ["Div", "Date", "HomeTeam", "AwayTeam", "FTHG", "FTAG", "HST", "AST", *CLOSE.values()]  # tiros a puerta: features_extra
 RHO = _P.get("rho", -0.10)  # Dixon-Coles: corrige la frecuencia de 0-0, 1-0, 0-1 y 1-1
 BOOKIES = {"B365": "Bet365", "PS": "Pinnacle", "BW": "Bwin", "BV": "BetVictor", "BFD": "Betfred", "PP": "Paddy Power",
            "SKB": "Sky Bet", "WH": "William Hill"}  # sin Betfair Exchange: comisión y poca liquidez
@@ -327,6 +329,8 @@ def analyze_fixtures(df, state, today, kg):
                          + [k for k in state["analyzed"] if not dated(k)][-1000:])
     models, inj, now = {}, {}, pd.Timestamp.now(tz="UTC")
     season = df[df.Date >= today - pd.Timedelta(days=300)]
+    fx = fx.assign(_i=range(len(df), len(df) + len(fx)))  # índice propio tras el historial para las features
+    F = features_extra.features(pd.concat([df, fx.set_index("_i")[["Date", "HomeTeam", "AwayTeam"]]]).sort_values("Date", kind="stable"))
     for row in fx.sort_values(["Date", "Time"]).to_dict("records"):
         k = key(row)
         # shortcut: hora de fixtures.csv tomada como hora de Londres (las ligas "nuevas" también la dan así)
@@ -337,6 +341,7 @@ def analyze_fixtures(df, state, today, kg):
         squads = [inj[div].get(find_team(t, inj[div]), []) for t in (home, away)]
         played = [int(((season.HomeTeam == t) | (season.AwayTeam == t)).sum()) for t in (home, away)]
         lh, la, P = predict(models[div], home, away, squads, played)
+        P["H"], P["D"], P["A"] = features_extra.adjust([[P["H"], P["D"], P["A"]]], F.loc[[row["_i"]]])[0]  # Elo, tiros y descanso
         hh = h2h(df, home, away)
         kg.match(ALL_LEAGUES[div], home, away, start, {"1": P["H"], "X": P["D"], "2": P["A"]}, squads, h2h_summary(hh, home, away))
         state["analyzed"].append(k)
