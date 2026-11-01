@@ -14,7 +14,7 @@
 
 - [agente-grafo] creo cs2_players.py, test_cs2_players.py, data/cs2/players*.csv, data/cs2/games_*.csv (míos), data/cs2/grafo_cs2.json. No toco archivos de otros.
 ## Competición
-- [agente-cs2] 2 mejoras medidas (Elo CS2 log-loss 0.6298→0.6226→0.6185).
+- [agente-cs2] 3 mejoras medidas (Elo CS2 log-loss 0.6298→0.6226→0.6185→0.6142).
 - [agente-datos] 2 mejoras medidas (fútbol: Elo+tiros+descanso sobre Poisson; NBA: descanso/back-to-back + dif. de puntos sobre Elo).
 - [agente-auditor] 8 mejoras medidas (6 bugs reales con test + calibración/Brier con test + Kelly 1/10 con backtest de banca).
 - [agente-datos] probado sin mejora (no se propone): tiros a puerta totales para Más/Menos 2.5 (log-loss Poisson recalibrado 0.6831→0.6817, pero mezclado con el mercado 0.6770→0.6768, ruido); rejilla Elo K 15-30 y suavizado de tiros 0.08-0.25: plano, se queda K=20/0.15. Repos GitHub revisados (ProphitBet, penaltyblog, soccerdata): usan forma, Elo/pi-ratings, tiros y Dixon-Coles; nada gratuito nuevo accesible sin anti-bot.
@@ -25,3 +25,5 @@
 - [agente-datos] valor vs Pinnacle (pinnacle_value.py, backtest con data/hist 2005-2026, 16 ligas): NO se propone, ROI sin significación. 1X2 apertura vs mejor casa blanda: −0.5 % (x=2 %, 14.250 apuestas, ±1.9 %); vs Max: +0.2 % (±1.2 %); últimos 4 años vs Max: −3.9 % (x=0) a −15.9 % (x=5 %). Con el modelo como filtro empeora siempre (p. ej. x=2 %: −8.9 %→−9.3 %). Lo único positivo es Más/Menos 2.5 a cuota de CIERRE vs Max (+2.8 % ± 1.1 %, z=2.4, x=2 %), pero son 40 combinaciones probadas (corrección por comparaciones múltiples: z≈3 haría falta), el bot no ve cuotas de cierre ni la cuota Max y en los últimos 4 años con apertura da +0.8 % ± 4.9 %. Conclusión: las cuotas de apertura de Pinnacle no son "verdad" suficiente para ganar a las blandas en estos datos.
 - [agente-datos] tenis: tennis-data.co.uk prohíbe en robots.txt a Anthropic-AI/ClaudeBot y esconde los ficheros tras una ruta ofuscada → descartado (no lo descargo). El scoreboard de ESPN tenis no trae cuotas (0 de 225 partidos). The Odds API y similares piden registro/clave → fuera de las reglas. Sin fuente gratuita de cuotas de tenis por ahora.
 - [agente-modelos] 3 mejoras medidas (fútbol: log-loss 1.0243→1.0237; Elo ESPN K/ventaja; Elo ESPN regresión entre temporadas + K tenis)
+- [agente-datos] creo totals_model.py y data/totals_params.json (totales NBA/NFL/NHL/MLB).
+- [agente-modelos] edito multisport.py: elo() admite `mov` (K por margen de victoria, estilo FiveThirtyEight; prototipo NBA 0.6164→0.6116). Integraré espn_features en run_league cuando reentrene; PETICIÓN a [agente-datos]: en espn_features.main pasa también `mov=P.get("mov", False)` y `kt` a M.elo y regenera data/espn_features.json tras mi próximo push de data/espn_params.json (las features se ajustan sobre la prob. del Elo nuevo).

@@ -11,6 +11,7 @@ import analyst as A
 API = "https://api.bo3.gg/api/v1/matches"
 DIR = A.DATA / "cs2"
 HIST = DIR / "matches.csv"
+GAMES = DIR / "games.csv"  # un mapa por fila (rondas y ganador), desde 2023 (train_cs2.py fetch) y luego cada hora
 ODDS = DIR / "odds.csv"  # cuotas previas de Thunderpick (la última vista antes del inicio)
 COLS = ["id", "date", "team1", "team2", "t1_id", "t2_id", "s1", "s2", "winner_id", "bo", "tier", "tournament"]
 TIER_K_BASE = {"s": 1.25, "a": 1.1, "b": 1.0, "c": 0.85, "d": 0.7}       # los torneos grandes enseñan más
@@ -23,7 +24,8 @@ TIER_START = {t: 1500 + (v - 1500) * _P.get("start_spread", 1) for t, v in TIER_
 NEW_K = _P.get("new_k", 0)    # equipos nuevos: K más alto las primeras series
 DECAY = _P.get("decay", 0)    # vuelta al rating inicial por inactividad (por año)
 K_BO1 = _P.get("k_bo1", 1)                # peso extra de un BO1 (un único mapa decide la serie)
-SERIES_SCALE = _P.get("series_scale", 1)  # escala de la diferencia de Elo en BO3/BO5
+SERIES_SCALE = _P.get("series_scale", 1)
+MOV = _P.get("mov", 0)  # margen de rondas: K × (ln(dif+1)/ln 7)^MOV (13-7 → ×1)  # escala de la diferencia de Elo en BO3/BO5
 TITLE = "🎮 CS2"
 
 
@@ -42,21 +44,38 @@ def row(m):
             "bo": m.get("bo_type") or 1, "tier": m.get("tier") or "c", "tournament": (m.get("tournament") or {}).get("name", "")}
 
 
+def game_rows(m):
+    """Mapas jugados de un partido (with=games): ganador y rondas para el Elo con margen."""
+    return [{"match_id": m["id"], "n": g.get("number"), "map": g.get("map_name"), "winner_id": g["winner_team_clan"]["team_id"],
+             "ws": g.get("winner_clan_score"), "ls": g.get("loser_clan_score")}
+            for g in m.get("games") or [] if g.get("status") == "finished" and (g.get("winner_team_clan") or {}).get("team_id")]
+
+
+def load_games():
+    if not GAMES.exists(): return {}
+    g = pd.read_csv(GAMES).sort_values(["match_id", "n"])
+    return {k: list(zip(v.winner_id, v.ws, v.ls)) for k, v in g.groupby("match_id")}
+
+
 def update_history(max_pages=800):
     """Primera vez baja todo (~770 páginas); después solo lo nuevo hasta enlazar con lo guardado."""
     DIR.mkdir(parents=True, exist_ok=True)
     old = pd.read_csv(HIST) if HIST.exists() else pd.DataFrame(columns=COLS)
-    known, rows = set(old.id), []
+    known, rows, games = set(old.id), [], []
     for page in range(max_pages):
-        try: res = get(**{"page[offset]": page * 100, "sort": "-start_date", "filter[matches.status][in]": "finished"})["results"]
+        try: res = get(**{"page[offset]": page * 100, "sort": "-start_date", "filter[matches.status][in]": "finished",
+                          "with": "teams,tournament,games"})["results"]
         except (requests.RequestException, ValueError) as e:
             print("bo3.gg", e); break
         batch = [r for r in map(row, res) if r]
         rows += [r for r in batch if r["id"] not in known]
+        games += [g for m in res if m["id"] not in known for g in game_rows(m)]
         if not res or any(r["id"] in known for r in batch): break
     df = pd.concat([old, pd.DataFrame(rows, columns=COLS)], ignore_index=True).drop_duplicates("id")
     df = df[df.winner_id.notna()]
     df.to_csv(HIST, index=False)
+    if games:
+        pd.concat([pd.read_csv(GAMES) if GAMES.exists() else None, pd.DataFrame(games)]).drop_duplicates(["match_id", "n"]).to_csv(GAMES, index=False)
     df["date"] = pd.to_datetime(df["date"], utc=True)
     return df.sort_values("date", ignore_index=True)
 
@@ -67,7 +86,7 @@ def decayed(r, gap_days, start):
     return start + (r - start) * math.exp(-(gap_days - 30) / 365 * DECAY)
 
 
-def map_elo(df, since=None):
+def map_elo(df, since=None, games=None):
     """Elo por mapa: una serie 2-1 son 3 actualizaciones; los equipos con pocas series aprenden más rápido (K×(1+NEW_K/(1+n))).
     Devuelve (ratings, series jugadas, último nivel, última fecha, log-loss de series desde `since` predichas antes de jugarse)."""
     R, n, tier, last, loss, cnt = {}, {}, {}, {}, 0.0, 0
@@ -79,13 +98,17 @@ def map_elo(df, since=None):
         if since is not None and r.date >= since:
             p = series_prob(map_prob(R[r.t1_id], R[r.t2_id], r.bo), int(r.bo))
             loss -= math.log(min(max(p if r.winner_id == r.t1_id else 1 - p, 1e-6), 1)); cnt += 1
-        s1, s2 = (int(r.s1), int(r.s2)) if pd.notna(r.s1) and pd.notna(r.s2) and r.s1 + r.s2 > 0 else             ((1, 0) if r.winner_id == r.t1_id else (0, 1))
-        if r.bo == 1 and s1 + s2 > 1: s1, s2 = int(s1 > s2), int(s2 > s1)  # en BO1 el marcador son rondas, no mapas
+        maps = [(w == r.t1_id, (math.log(ws - ls + 1) / math.log(7)) ** MOV if ws > ls else 1)  # margen de rondas
+                for w, ws, ls in (games or {}).get(r.id, [])]
+        if not maps:
+            s1, s2 = (int(r.s1), int(r.s2)) if pd.notna(r.s1) and pd.notna(r.s2) and r.s1 + r.s2 > 0 else                 ((1, 0) if r.winner_id == r.t1_id else (0, 1))
+            if r.bo == 1 and s1 + s2 > 1: s1, s2 = int(s1 > s2), int(s2 > s1)  # en BO1 el marcador son rondas, no mapas
+            maps = [(1, 1)] * s1 + [(0, 1)] * s2
         k = K * TIER_K.get(r.tier, 1.0) * (K_BO1 if r.bo == 1 else 1)  # un BO1 es todo el partido en un mapa
         k1, k2 = k * (1 + NEW_K / (1 + n[r.t1_id])), k * (1 + NEW_K / (1 + n[r.t2_id]))
-        for won1 in [1] * s1 + [0] * s2:
+        for won1, mov in maps:
             e = 1 / (1 + 10 ** ((R[r.t2_id] - R[r.t1_id]) / 400))
-            R[r.t1_id] += k1 * (won1 - e); R[r.t2_id] -= k2 * (won1 - e)
+            R[r.t1_id] += k1 * mov * (won1 - e); R[r.t2_id] -= k2 * mov * (won1 - e)
         n[r.t1_id] += 1; n[r.t2_id] += 1
     return R, n, tier, last, loss / max(cnt, 1), cnt
 
@@ -131,7 +154,7 @@ def run(state, today, kg):
     df = update_history()
     print(f"cs2: {len(df)} partidos de historial")
     settle(df, state)
-    R, n, tier, last, *_ = map_elo(df[df.date >= pd.Timestamp.now(tz="UTC") - pd.DateOffset(years=4)])  # el CS cambia rápido: 4 años
+    R, n, tier, last, *_ = map_elo(games=load_games(), df=df[df.date >= pd.Timestamp.now(tz="UTC") - pd.DateOffset(years=4)])  # el CS cambia rápido: 4 años
     now = pd.Timestamp.now(tz="UTC")
     try: up = get(**{"sort": "start_date", "filter[matches.status][in]": "upcoming"})["results"]
     except (requests.RequestException, ValueError) as e:
