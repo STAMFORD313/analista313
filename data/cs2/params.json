@@ -1,1 +1,1 @@
-{"K": 24, "tier_scale": 0, "start_spread": 1, "new_k": 8, "decay": 0.5, "k_bo1": 1.5, "series_scale": 0.65, "mov": 1.5, "logloss": 0.6142, "maps3": [-0.2321, 1.2698]}
+{"K": 20, "new_k": 8, "decay": 1, "k_bo1": 1.5, "series_scale": 0.65, "mov": 2, "tier_scale": 0, "start_spread": 1, "logloss": 0.6146, "logloss_prev_year": 0.6305, "oos_next_year": 0.6154, "maps3": [-0.2383, 1.3648]}
