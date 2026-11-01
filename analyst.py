@@ -26,7 +26,10 @@ EDGE, MAX_EDGE, MIN_P = 0.05, 0.30, 0.25  # señal si ventaja entre 5% y 30% (m�
 HORIZON_DAYS = 2                  # partidos de los próximos 2 días
 TG, CHAT = os.getenv("TELEGRAM_TOKEN"), os.getenv("TELEGRAM_CHAT_ID")
 GEMINI, MODEL = os.getenv("GEMINI_API_KEY"), os.getenv("GEMINI_MODEL", "gemini-flash-latest")
-COLS = ["Div", "Date", "HomeTeam", "AwayTeam", "FTHG", "FTAG"]
+CLOSE = {"H": "AvgCH", "D": "AvgCD", "A": "AvgCA", "O25": "AvgC>2.5", "U25": "AvgC<2.5"}  # cuotas de cierre → CLV
+PINNACLE = {"H": "PSH", "D": "PSD", "A": "PSA", "O25": "P>2.5", "U25": "P<2.5"}  # la casa más afinada: ancla del mercado
+COLS = ["Div", "Date", "HomeTeam", "AwayTeam", "FTHG", "FTAG", *CLOSE.values()]
+RHO = -0.10  # Dixon-Coles: corrige la frecuencia de 0-0, 1-0, 0-1 y 1-1
 BOOKIES = {"B365": "Bet365", "PS": "Pinnacle", "BW": "Bwin", "BV": "BetVictor", "BFD": "Betfred", "PP": "Paddy Power",
            "SKB": "Sky Bet", "WH": "William Hill"}  # sin Betfair Exchange: comisión y poca liquidez
 SUFFIX = {"H": "H", "D": "D", "A": "A", "O25": ">2.5", "U25": "<2.5"}
@@ -69,7 +72,7 @@ def update_history(today):
     for code in NEW_LEAGUES:  # ligas "nuevas": un archivo con todo su historial, se baja en cada ejecución (no va a git)
         f = NEW / f"{code}.csv"
         if raw := fetch(f"{BASE}/new/{code}.csv"): f.write_bytes(raw)
-        if f.exists(): frames.append(load_csv(f.read_bytes(), ["Date", "Home", "Away", "HG", "AG"]).assign(Div=code))
+        if f.exists(): frames.append(load_csv(f.read_bytes(), ["Date", "Home", "Away", "HG", "AG", "AvgCH", "AvgCD", "AvgCA"]).assign(Div=code))
     df = pd.concat(frames, ignore_index=True)
     return df.dropna(subset=["FTHG", "FTAG"]).sort_values("Date", ignore_index=True)
 
@@ -102,7 +105,8 @@ def probs(lh, la, n=11):
     scores = {}
     for i in range(n):
         for j in range(n):
-            p = scores[f"{i}-{j}"] = ph[i] * pa[j]
+            tau = {(0, 0): 1 - lh * la * RHO, (1, 0): 1 + la * RHO, (0, 1): 1 + lh * RHO, (1, 1): 1 - RHO}.get((i, j), 1)
+            p = scores[f"{i}-{j}"] = ph[i] * pa[j] * tau
             P["H" if i > j else "D" if i == j else "A"] += p
             P["O25" if i + j > 2 else "U25"] += p
             P["O15"] += p * (i + j > 1); P["O35"] += p * (i + j > 3)
@@ -144,7 +148,9 @@ def value_bets(P, row):
     for group in (("H", "D", "A"), ("O25", "U25")):
         best = {m: best_odds(row, m) for m in group}
         if not all(o for o, _ in best.values()): continue
-        avg = {m: float(row[c]) if pd.notna(row.get(c := f"Avg{SUFFIX[m]}")) else best[m][0] for m in group}
+        pin = {m: row.get(PINNACLE[m]) for m in group}
+        avg = ({m: float(pin[m]) for m in group} if all(pd.notna(v) and float(v) > 1 for v in pin.values()) else
+               {m: float(row[c]) if pd.notna(row.get(c := f"Avg{SUFFIX[m]}")) else best[m][0] for m in group})
         inv = sum(1 / o for o in avg.values())
         for m in group:
             implied = 1 / avg[m] / inv  # probabilidad del mercado sin margen
@@ -244,14 +250,16 @@ def ai_json(prompt):
 
 # ---------- Telegram ----------
 def tg(method, **data):
+    """Llama a la API de Telegram; devuelve el 'result' o None."""
     if not (TG and CHAT):  # sin token: modo prueba, imprime en consola
         print(f"\n[telegram {method}]\n{data.get('text', '')}")
-        return
+        return None
     try:
         r = requests.post(f"https://api.telegram.org/bot{TG}/{method}", data={"chat_id": CHAT, **data}, timeout=60)
-        if not r.ok: print("Telegram error", r.status_code, r.text[:200])
+        if not r.ok and "not modified" not in r.text: print("Telegram error", r.status_code, r.text[:200])
+        return r.json().get("result") if r.ok else None
     except requests.RequestException as e: print("Telegram error", e)
-    time.sleep(1)
+    finally: time.sleep(1)
 
 
 def send_card(text): tg("sendMessage", text=text[:4000], parse_mode="HTML", disable_web_page_preview="true")
@@ -264,6 +272,7 @@ def settle_signals(df, state, today):
         if s.get("result") is None and s["key"] in recent:
             r = recent[s["key"]]; s["result"] = bool(won(s["market"], r["FTHG"], r["FTAG"]))
             s["score"] = f"{int(r['FTHG'])}-{int(r['FTAG'])}"
+            if pd.notna(r.get(CLOSE[s["market"]])): s["clv"] = round(s["odds"] / float(r[CLOSE[s["market"]]]) - 1, 3)
         elif s.get("result") is None and s["key"].split("|")[1] < f"{today - pd.Timedelta(days=30):%Y-%m-%d}":
             s["result"] = "nula"  # aplazado o sin resultado
 

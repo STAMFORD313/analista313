@@ -24,13 +24,15 @@ st = {"signals": [{"key": "k1", "market": "H", "odds": 2.2, "p": 0.55, "edge": 0
 bk = st.setdefault("bank", {"balance": 100.0, "bets": []})
 class KG:
     def bet(self, *a): pass
+    def result(self, *a): pass
 bankroll.A.GEMINI = None  # sin IA en el test
 bankroll.place(bk, st["signals"], pd.Timestamp("2026-11-01"), KG())
 assert len(bk["bets"]) == 3 and all(b["stake"] <= 5 for b in bk["bets"]) and bk["balance"] < 100
 st["signals"][0]["result"], st["signals"][1]["result"] = True, False
-bankroll.settle(bk, st["signals"])
-assert [b["status"] for b in bk["bets"]] == ["ganada", "perdida", "perdida"]
-assert abs(bk["balance"] - (100 - sum(b["stake"] for b in bk["bets"]) + bk["bets"][0]["stake"] * 2.2)) < 0.02
+bankroll.settle(bk, st["signals"], KG())
+assert sorted(b["status"] for b in bk["bets"]) == ["ganada", "perdida", "perdida"]
+w = next(b for b in bk["bets"] if b["status"] == "ganada")
+assert abs(bk["balance"] - (100 - sum(b["stake"] for b in bk["bets"]) + w["stake"] * 2.2)) < 0.02
 print("ok banca")
 
 from analyst import absence_impact, best_odds
@@ -38,3 +40,6 @@ assert best_odds({"B365H": 2.1, "PSH": 2.25, "MaxH": 2.3}, "H") == (2.25, "Pinna
 imp = absence_impact([{"pos": "F", "status": "lesionado", "games": 10}, {"pos": "D", "status": "duda", "games": 10}], 10)
 assert imp == {"att": 0.10, "def": 0.03}, imp
 print("ok bajas y casas")
+txt = bankroll.scoreboard({"bank": bk, "signals": st["signals"]})
+assert "Ganadas: <b>1</b> (33 %)" in txt and "🟥🟩🟥" in txt, txt
+print("ok marcador")

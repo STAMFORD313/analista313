@@ -40,8 +40,13 @@ class Graph:
                 mid = f"{s['match']} {pd.Timestamp(s['start']):%Y-%m-%d}"
                 if mid in self.g: self.g.add_edge(bid, mid, rel="apuesta_a", pick=s["pick"])
 
+    def result(self, b):
+        bid = f"apuesta {b['date']} {b['desc']}"
+        if bid in self.g:
+            self.g.nodes[bid].update(status=b["status"], retorno=b["return"],
+                                     **{f"autopsia_{k}": v for k, v in (b.get("autopsia") or {}).items()})
+
     def save(self):
         cut = (pd.Timestamp.now(tz="UTC") - pd.Timedelta(days=KEEP_DAYS)).isoformat()
         self.g.remove_nodes_from([n for n, d in self.g.nodes(data=True) if d.get("type") == "partido" and d["start"] < cut])
-        self.g.remove_nodes_from([n for n, d in self.g.nodes(data=True) if d.get("type") == "apuesta" and not self.g.degree(n)])
         PATH.write_text(json.dumps(nx.node_link_data(self.g, edges="links"), ensure_ascii=False), encoding="utf-8")

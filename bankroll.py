@@ -2,7 +2,7 @@
 (la mejor entre casas en fútbol; DraftKings en NBA/NFL/NHL/MLB/UFC). Antes de cada apuesta la IA revisa
 todos los datos y puede vetarla. Simples con 1/4 de Kelly + una combinada por ejecución.
 Cada apuesta y cada resultado se envía como una tarjeta de Telegram."""
-import math
+import json, math, os
 
 import pandas as pd
 
@@ -10,7 +10,11 @@ import analyst as A
 
 START = 100.0
 KELLY, MAX_STAKE, MAX_EXPOSURE = 0.25, 0.05, 0.30  # 1/4 Kelly, máx. 5 % por apuesta y 30 % de la banca en juego
-MAX_SINGLES, COMBO_LEGS, COMBO_MIN_P, COMBO_STAKE = 8, 3, 0.45, 0.02
+MAX_SINGLES, COMBO_LEGS, COMBO_MIN_P, COMBO_STAKE = 8, 3, 0.55, 0.02
+SURE_P, SURE_CONF = 0.55, 4  # solo apuesta (y manda) lo que de verdad cree que gana: prob >= 55 % y la IA con confianza >= 4/5
+SEG_MIN, SEG_ROI = 15, -0.10  # autoajuste: deja de apostar en segmentos con >= 15 apuestas y ROI < -10 %
+REPO = os.getenv("GITHUB_REPOSITORY", "STAMFORD313/analista313")
+STATS_MD = A.DATA.parent / "ESTADISTICAS.md"
 LINE = "━━━━━━━━━━━━━━━"
 NUMS = ["1️⃣", "2️⃣", "3️⃣", "4️⃣"]
 
@@ -37,6 +41,20 @@ def total(bank): return bank["balance"] + sum(b["stake"] for b in bank["bets"] i
 def bank_line(bank):
     t = total(bank)
     return f"💰 Banca: <b>{t:.2f} $</b> ({t - START:+.2f} $ desde 100 $) · libre {bank['balance']:.2f} $"
+
+
+def segment(s):
+    kind = "goles" if s["market"] in ("O25", "U25") else "empate" if s["market"] == "D" else "favorito" if s["odds"] < 2 else "no favorito"
+    return f"{s.get('sport', '?')} {kind}"
+
+
+def seg_stats(bank, signals):
+    by, out = {(s["key"], s["market"]): s for s in signals}, {}
+    for b in bank["bets"]:
+        if b["status"] == "abierta" or len(b["legs"]) != 1: continue
+        o = out.setdefault(segment(by[tuple(b["legs"][0])]), {"n": 0, "won": 0, "profit": 0.0, "staked": 0.0})
+        o["n"] += 1; o["won"] += b["status"] == "ganada"; o["profit"] += b["return"] - b["stake"]; o["staked"] += b["stake"]
+    return out
 
 
 def ai_review(s):
@@ -90,7 +108,18 @@ def result_card(b, legs, bank):
                       f"💵 Apostado {b['stake']:.2f} $ → cobrado {b['return']:.2f} $", bank_line(bank)])
 
 
-def settle(bank, signals):
+def autopsy(b, legs):
+    """La IA explica por qué falló la apuesta; queda en el grafo y en ESTADISTICAS.md para mejorar."""
+    detail = "\n".join(f"- {x.get('context', x['match'])} Apuesta: {pick_text(x)} @ {x['odds']}, prob {x['p']:.0%}. "
+                       f"Resultado final {x.get('score', '?')} ({'acertada' if x.get('result') is True else 'fallada'})." for x in legs)
+    r = A.ai_json(f"""Eres un analista profesional revisando una apuesta perdida para mejorar el modelo.
+{detail}
+Explica en 1-2 frases en español la causa más probable del fallo (varianza normal, bajas mal valoradas, forma, cuota sin valor real...)
+y si el modelo debe corregir algo. Responde SOLO con JSON: {{"causa": "...", "corregir": "..."}}""")
+    return r or {"causa": "sin análisis (IA no disponible)", "corregir": ""}
+
+
+def settle(bank, signals, kg):
     by = {(s["key"], s["market"]): s for s in signals}
     for b in bank["bets"]:
         if b["status"] != "abierta": continue
@@ -101,6 +130,8 @@ def settle(bank, signals):
             b["status"], b["return"] = "ganada", round(b["stake"] * math.prod(s["odds"] for s in legs if s["result"] is True), 2)
         else: continue
         bank["balance"] = round(bank["balance"] + b["return"], 2)
+        if b["status"] == "perdida": b["autopsia"] = autopsy(b, legs)
+        kg.result(b)
         A.send_card(result_card(b, legs, bank))
 
 
@@ -122,12 +153,15 @@ def place(bank, signals, today, kg):
         bank["bets"].append(b); kg.bet(b, signals)
         return stake
 
+    segs = seg_stats(bank, signals)
+    bad = {k for k, v in segs.items() if v["n"] >= SEG_MIN and v["profit"] / v["staked"] < SEG_ROI}
     approved = []
-    for s in sorted(new, key=lambda s: s["edge"], reverse=True)[:MAX_SINGLES * 2]:
+    for s in sorted(new, key=lambda s: s["p"] * (1 + s["edge"]), reverse=True):
         if len(approved) >= MAX_SINGLES: break
+        if s["p"] < SURE_P or segment(s) in bad: continue
         ok, reason, conf = ai_review(s)
         s["ai"] = {"apostar": ok, "motivo": reason, "confianza": conf}
-        if not ok: continue
+        if not ok or (str(conf).isdigit() and int(conf) < SURE_CONF): continue
         kelly = (s["p"] * s["odds"] - 1) / (s["odds"] - 1)
         stake = bet([s], bank["balance"] * min(KELLY * kelly, MAX_STAKE), s["odds"], f"{s['match']} → {pick_text(s)}")
         if stake:
@@ -146,5 +180,59 @@ def place(bank, signals, today, kg):
 
 def run(state, today, kg):
     bank = state.setdefault("bank", {"balance": START, "bets": []})
-    settle(bank, state["signals"])
+    settle(bank, state["signals"], kg)
     place(bank, state["signals"], today, kg)
+    update_scoreboard(state)
+
+
+def squares(bets): return "".join("🟩" if b["status"] == "ganada" else "🟥" for b in bets) or "—"
+
+
+def scoreboard(state):
+    bank, signals = state["bank"], state["signals"]
+    closed = [b for b in bank["bets"] if b["status"] != "abierta"]
+    won = [b for b in closed if b["status"] == "ganada"]
+    staked = sum(b["stake"] for b in closed) or 1
+    profit = sum(b["return"] - b["stake"] for b in closed)
+    clv = [s["clv"] for s in signals if "clv" in s and s.get("considered")]
+    pct = 100 * len(won) / len(closed) if closed else 0
+    text = "\n".join([
+        "📊 <b>MARCADOR DEL BOT</b>", LINE,
+        f"🟩 Ganadas: <b>{len(won)}</b> ({pct:.0f} %)",
+        f"🟥 Perdidas: <b>{len(closed) - len(won)}</b> ({100 - pct if closed else 0:.0f} %)",
+        f"⏳ En juego: {sum(b['status'] == 'abierta' for b in bank['bets'])}",
+        "", f"Últimas {min(30, len(closed))}:", squares(closed[-30:]), LINE,
+        f"💵 Beneficio {profit:+.2f} $ · ROI {100 * profit / staked:+.1f} %",
+        *([f"📐 CLV medio {100 * sum(clv) / len(clv):+.1f} % (cuota cogida vs cierre)"] if clv else []),
+        bank_line(bank)])
+    seg = seg_stats(bank, signals)
+    md = ["# Estadísticas del bot", "", f"Actualizado: {pd.Timestamp.now(tz='Europe/Madrid'):%d/%m/%Y %H:%M}", "",
+          f"**Ganadas {len(won)} / perdidas {len(closed) - len(won)}** ({pct:.0f} % acierto) · beneficio {profit:+.2f} $ · "
+          f"ROI {100 * profit / staked:+.1f} % · banca {total(bank):.2f} $", "", squares(closed), "",
+          "## Por segmento (deporte y tipo de apuesta)", "",
+          "| Segmento | Apuestas | Ganadas | % | Beneficio | ROI |", "|---|---|---|---|---|---|"]
+    md += [f"| {k} | {v['n']} | {v['won']} | {100 * v['won'] / v['n']:.0f} % | {v['profit']:+.2f} $ | {100 * v['profit'] / v['staked']:+.1f} % |"
+           for k, v in sorted(seg.items())]
+    md += ["", "## Historial (lo más reciente primero)", "",
+           "| Fecha | Apuesta | Cuota | Stake | Resultado | Por qué falló |", "|---|---|---|---|---|---|"]
+    md += [f"| {b['date']} | {b['desc']} | {b['odds']} | {b['stake']} $ | "
+           f"{'🟩' if b['status'] == 'ganada' else '🟥' if b['status'] == 'perdida' else '⏳'} "
+           f"{(b.get('return', 0) - b['stake']) if b['status'] != 'abierta' else 0:+.2f} $ | {(b.get('autopsia') or {}).get('causa', '')} |"
+           for b in reversed(bank["bets"])]
+    STATS_MD.write_text("\n".join(md) + "\n", encoding="utf-8")
+    return text
+
+
+def update_scoreboard(state):
+    """Mensaje fijado arriba del chat, editado en cada ejecución, con botón al historial completo."""
+    text = scoreboard(state)
+    if state.get("scoreboard_id") and state.get("scoreboard_text") == text: return  # sin cambios
+    markup = json.dumps({"inline_keyboard": [[{"text": "📈 Ver historial completo y fallos",
+                                                "url": f"https://github.com/{REPO}/blob/main/ESTADISTICAS.md"}]]})
+    mid = state.get("scoreboard_id")
+    if not (mid and A.tg("editMessageText", message_id=mid, text=text, parse_mode="HTML", reply_markup=markup)):
+        msg = A.tg("sendMessage", text=text, parse_mode="HTML", reply_markup=markup)
+        if msg:
+            state["scoreboard_id"] = msg["message_id"]
+            A.tg("pinChatMessage", message_id=msg["message_id"], disable_notification="true")
+    state["scoreboard_text"] = text
