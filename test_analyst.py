@@ -1,3 +1,6 @@
+import analyst
+analyst.TG = analyst.CHAT = analyst.GEMINI = None  # los tests nunca envían a Telegram ni llaman a la IA
+
 from analyst import probs, value_bets, won
 
 P = probs(1.5, 1.1)
