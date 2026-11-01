@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 01/11/2026 23:46 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 01/11/2026 23:48 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## HEROIC vs B8 — 02/11 · 03:00
 
