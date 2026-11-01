@@ -165,7 +165,7 @@ def place(bank, signals, today, kg):
         kelly = (s["p"] * s["odds"] - 1) / (s["odds"] - 1)
         stake = bet([s], bank["balance"] * min(KELLY * kelly, MAX_STAKE), s["odds"], f"{s['match']} → {pick_text(s)}")
         if stake:
-            approved.append(s)
+            approved.append(s); s["placed"] = True
             A.send_card(single_card(s, stake, bank, reason, conf))
 
     legs, seen = [], set()
@@ -182,6 +182,8 @@ def run(state, today, kg):
     bank = state.setdefault("bank", {"balance": START, "bets": []})
     settle(bank, state["signals"], kg)
     place(bank, state["signals"], today, kg)
+    import radar
+    radar.run(state, today)
     update_scoreboard(state)
 
 
@@ -226,13 +228,14 @@ def scoreboard(state):
 def update_scoreboard(state):
     """Mensaje fijado arriba del chat, editado en cada ejecución, con botón al historial completo."""
     text = scoreboard(state)
-    if state.get("scoreboard_id") and state.get("scoreboard_text") == text: return  # sin cambios
+    import radar
     markup = json.dumps({"inline_keyboard": [[{"text": "📈 Ver historial completo y fallos",
-                                                "url": f"https://github.com/{REPO}/blob/main/ESTADISTICAS.md"}]]})
+                                                "url": f"https://github.com/{REPO}/blob/main/ESTADISTICAS.md"}]] + radar.menu()})
+    if state.get("scoreboard_id") and state.get("scoreboard_text") == text + markup: return  # sin cambios
     mid = state.get("scoreboard_id")
     if not (mid and A.tg("editMessageText", message_id=mid, text=text, parse_mode="HTML", reply_markup=markup)):
         msg = A.tg("sendMessage", text=text, parse_mode="HTML", reply_markup=markup)
         if msg:
             state["scoreboard_id"] = msg["message_id"]
             A.tg("pinChatMessage", message_id=msg["message_id"], disable_notification="true")
-    state["scoreboard_text"] = text
+    state["scoreboard_text"] = text + markup

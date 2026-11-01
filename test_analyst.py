@@ -46,3 +46,9 @@ print("ok bajas y casas")
 txt = bankroll.scoreboard({"bank": bk, "signals": st["signals"]})
 assert "Ganadas: <b>1</b> (33 %)" in txt and "🟥🟩🟥" in txt, txt
 print("ok marcador")
+
+import radar
+s0 = {"key": "k9", "market": "U25", "odds": 2.0, "p": 0.5, "edge": 0.06, "match": "E vs F", "sport": "⚽"}
+assert [ok for ok, _ in radar.checklist(s0)] == [False, True, True, False]
+assert len(sum(radar.menu(), [])) == len(radar.SPORTS)
+print("ok radar")
