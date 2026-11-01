@@ -66,3 +66,7 @@ P2 = probs(2.0, 0.6)
 ab = {v["market"]: v for v in ah_bets(P2, {"AHh": -0.5, "B365AHH": 1.95, "B365AHA": 1.95, "AvgAHH": 1.9, "AvgAHA": 1.9}, every=True)}
 assert 0.59 < ab["AHH"]["p"] < 0.61 and ab["AHH"]["line"] == -0.5 and ab["AHH"]["edge"] > 0
 print("ok hándicap asiático")
+
+from esports import series_prob
+assert series_prob(0.6, 1) == 0.6 and abs(series_prob(0.6, 3) - 0.648) < 1e-9 and series_prob(0.6, 5) > series_prob(0.6, 3)
+print("ok cs2")

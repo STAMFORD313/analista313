@@ -380,7 +380,7 @@ def prune(state):
 
 
 def main():
-    import bankroll, knowledge, multisport
+    import bankroll, esports, knowledge, multisport
     today = pd.Timestamp.now().normalize()
     state = json.loads(STATE.read_text(encoding="utf-8")) if STATE.exists() else {"analyzed": [], "signals": []}
     kg = knowledge.Graph()
@@ -389,6 +389,8 @@ def main():
     settle_signals(df, state, today)
     analyze_fixtures(df, state, today, kg)
     multisport.run(state, today, kg)
+    try: esports.run(state, today, kg)
+    except Exception as e: print("fallo en cs2", repr(e))  # los esports no deben parar el resto
     bankroll.run(state, today, kg)
     kg.save()
     prune(state)
