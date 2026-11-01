@@ -1,46 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 01/11/2026 22:05 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Belgrano vs Barracas Central — 01/11 · 22:30
-
-💵 **APOSTADA** · 🇦🇷 Liga Profesional · **Gana Barracas Central** @ **5.00** (Bet365) · prob 26% vs casas 20% · ventaja +30%
-
-- ❌ Probabilidad 26% (mín. 55%)
-- ✅ Ventaja +30% (entre 5% y 30%)
-- ✅ Segmento «⚽ no favorito» sin pérdidas
-- ❌ IA: confianza 3/5 (mín. 4) · La cuota 5.0 ofrece un valor matemático claro frente a una probabilidad estimada superior al 25%, respaldada por un H2H donde Barracas se mantiene invicto ante Belgrano y llega con una dinámica reciente positiva.
-
-📊 **Escenarios** (goles esperados 1.04 - 0.94)  
-1 37% · X 31% · 2 32%  
-1X 68% · X2 63% · 12 69%  
-+1.5 59% · +2.5 32% · +3.5 14% · Ambos marcan 39%  
-Marcadores: 1-0 14% · 0-0 14% · 1-1 13% · 0-1 13%  
-🔎 **Claves**  
-• Forma: Belgrano ✅✅✅❌❌ | Barracas Central ❌✅✅➖✅  
-• H2H: 5 desde 2023: 0V-4E-1D · 1.6 goles/partido · +2.5 en 0%  
-• Bajas: Belgrano: sin bajas; Barracas Central: sin bajas  
-• Favorito de las casas: Belgrano @ 1.76  
-
-## Newells Old Boys vs Union de Santa Fe — 01/11 · 22:30
-
-👀 candidata · 🇦🇷 Liga Profesional · **Gana Union de Santa Fe** @ **4.10** (Bet365) · prob 28% vs casas 24% · ventaja +14%
-
-- ❌ Probabilidad 28% (mín. 55%)
-- ✅ Ventaja +14% (entre 5% y 30%)
-- ✅ Segmento «⚽ no favorito» sin pérdidas
-- ✅ IA: confianza None/5 (mín. 4)
-
-📊 **Escenarios** (goles esperados 1.24 - 1.07)  
-1 40% · X 28% · 2 32%  
-1X 68% · X2 60% · 12 72%  
-+1.5 67% · +2.5 41% · +3.5 20% · Ambos marcan 47%  
-Marcadores: 1-1 13% · 1-0 12% · 0-1 11% · 0-0 10%  
-🔎 **Claves**  
-• Forma: Newells Old Boys ✅➖❌✅➖ | Union de Santa Fe ❌❌❌➖✅  
-• H2H: 19 desde 2012: 7V-8E-4D · 2.2 goles/partido · +2.5 en 26%  
-• Bajas: Newells Old Boys: sin bajas; Union de Santa Fe: sin bajas  
-• Favorito de las casas: Newells Old Boys @ 1.86  
+Actualizado 01/11/2026 22:35 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Portland Timbers vs Houston Dynamo — 02/11 · 03:45
 

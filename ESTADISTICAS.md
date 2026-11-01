@@ -1,6 +1,6 @@
 # Estadísticas del bot
 
-Actualizado: 01/11/2026 22:05
+Actualizado: 01/11/2026 22:35
 
 **Ganadas 0 / perdidas 0** (0 % acierto) · beneficio +0.00 $ · ROI +0.0 % · banca 100.00 $
 
@@ -15,6 +15,7 @@ Actualizado: 01/11/2026 22:05
 
 | Fecha | Apuesta | Cuota | Stake | Resultado | Por qué falló |
 |---|---|---|---|---|---|
+| 2026-11-01 | Washington Commanders vs Philadelphia Eagles → Más de 40.5 puntos | 1.91 | 1.17 $ | ⏳ +0.00 $ |  |
 | 2026-11-01 | Kalamata vs Iraklis → Más de 2.5 goles | 2.15 | 1.76 $ | ⏳ +0.00 $ |  |
 | 2026-11-01 | Gil Vicente vs Guimaraes → Gana Gil Vicente | 2.85 | 2.09 $ | ⏳ +0.00 $ |  |
 | 2026-11-01 | Sp Braga vs Famalicao → Gana Famalicao | 4.75 | 1.06 $ | ⏳ +0.00 $ |  |
