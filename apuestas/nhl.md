@@ -1,41 +1,6 @@
 # 🏒 NHL · apuestas de valor
 
-Actualizado 01/11/2026 23:56 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## New York Rangers vs Edmonton Oilers — 02/11 · 00:00
-
-👀 candidata · 🏒 NHL · **Menos de 6.5 goles** @ **1.93** (DraftKings) · prob 52% vs casas 50% · ventaja +1%
-
-- ❌ Probabilidad 52% (mín. 55%)
-- ❌ Ventaja +1% (entre 5% y 30%)
-- ✅ Segmento «🏒 totales» sin pérdidas
-- ❌ IA: sin revisar (no pasó lo anterior)
-
-📊 **Escenarios**: total esperado **6.2** goles · línea 6.5  
-Más 48% · Menos 52%  
-🔎 **Claves**  
-• Forma: New York Rangers ❌✅❌❌❌ | Edmonton Oilers ✅❌❌✅✅  
-• H2H: 18 desde 2016: 8-10  
-• Bajas: New York Rangers: 5 fuera, 2 duda (Igor Shesterkin, Joe Veleno, Joonas Korpisalo); Edmonton Oilers: 8 fuera, 0 duda (Isaac Howard, Zach Hyman, Devon Levi)  
-
-## New York Rangers vs Edmonton Oilers — 02/11 · 00:00
-
-👀 candidata · 🏒 NHL · **Gana Edmonton Oilers** @ **2.10** (DraftKings) · prob 49% vs casas 46% · ventaja +3%
-
-- ❌ Probabilidad 49% (mín. 55%)
-- ❌ Ventaja +3% (entre 5% y 30%)
-- ✅ Segmento «🏒 no favorito» sin pérdidas
-- ❌ IA: sin revisar (no pasó lo anterior)
-
-📊 **Escenarios** (Elo con 14.593 partidos y bajas)  
-Gana New York Rangers 48% · Gana Edmonton Oilers 52%  
-Casas: New York Rangers 54% · Edmonton Oilers 46%  
-Hándicap NYR -130 · Total puntos 6.5  
-🔎 **Claves**  
-• Forma: New York Rangers ❌✅❌❌❌ | Edmonton Oilers ✅❌❌✅✅  
-• H2H: 18 desde 2016: 8-10  
-• Bajas: New York Rangers: 5 fuera, 2 duda (Igor Shesterkin, Joe Veleno, Joonas Korpisalo); Edmonton Oilers: 8 fuera, 0 duda (Isaac Howard, Zach Hyman, Devon Levi)  
-• Favorito de las casas: New York Rangers @ 1.77  
+Actualizado 02/11/2026 00:00 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Anaheim Ducks vs Ottawa Senators — 02/11 · 02:00
 
