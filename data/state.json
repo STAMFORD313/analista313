@@ -407,7 +407,8 @@
     "apostar": true,
     "motivo": "La cuota 5.0 ofrece un valor matemático claro frente a una probabilidad estimada superior al 25%, respaldada por un H2H donde Barracas se mantiene invicto ante Belgrano y llega con una dinámica reciente positiva.",
     "confianza": 3
-   }
+   },
+   "placed": true
   },
   {
    "market": "A",
@@ -441,7 +442,8 @@
     "apostar": true,
     "motivo": null,
     "confianza": null
-   }
+   },
+   "placed": false
   },
   {
    "market": "A",
@@ -475,7 +477,8 @@
     "apostar": true,
     "motivo": null,
     "confianza": null
-   }
+   },
+   "placed": false
   },
   {
    "market": "A",
@@ -509,7 +512,8 @@
     "apostar": true,
     "motivo": null,
     "confianza": null
-   }
+   },
+   "placed": false
   },
   {
    "market": "O25",
@@ -543,7 +547,8 @@
     "apostar": true,
     "motivo": "Existe valor matemático claro con una cuota 2.15 frente a una probabilidad proyectada superior al 50% y plantillas completas. Aunque la liga griega tiende a ser 'under', la irregularidad defensiva reciente de ambos equipos favorece la línea de goles.",
     "confianza": 3
-   }
+   },
+   "placed": true
   },
   {
    "market": "A",
@@ -577,7 +582,8 @@
     "apostar": true,
     "motivo": null,
     "confianza": null
-   }
+   },
+   "placed": false
   },
   {
    "market": "H",
@@ -611,7 +617,8 @@
     "apostar": true,
     "motivo": null,
     "confianza": null
-   }
+   },
+   "placed": true
   },
   {
    "market": "A",
@@ -645,7 +652,8 @@
     "apostar": false,
     "motivo": "El modelo Poisson está sesgado por el historial desde 2005 (cuando Defensa militaba en el ascenso), sobrestimando a un Independiente en mala racha reciente frente a un Defensa sólido y en mejor forma.",
     "confianza": 2
-   }
+   },
+   "placed": false
   },
   {
    "market": "A",
@@ -679,7 +687,8 @@
     "apostar": true,
     "motivo": null,
     "confianza": null
-   }
+   },
+   "placed": false
   }
  ],
  "bank": {
@@ -865,5 +874,5 @@
   ]
  },
  "scoreboard_id": 36,
- "scoreboard_text": "📊 <b>MARCADOR DEL BOT</b>\n━━━━━━━━━━━━━━━\n🟩 Ganadas: <b>0</b> (0 %)\n🟥 Perdidas: <b>0</b> (0 %)\n⏳ En juego: 13\n\nÚltimas 0:\n—\n━━━━━━━━━━━━━━━\n💵 Beneficio +0.00 $ · ROI +0.0 %\n💰 Banca: <b>100.00 $</b> (+0.00 $ desde 100 $) · libre 73.57 $"
+ "scoreboard_text": "📊 <b>MARCADOR DEL BOT</b>\n━━━━━━━━━━━━━━━\n🟩 Ganadas: <b>0</b> (0 %)\n🟥 Perdidas: <b>0</b> (0 %)\n⏳ En juego: 13\n\nÚltimas 0:\n—\n━━━━━━━━━━━━━━━\n💵 Beneficio +0.00 $ · ROI +0.0 %\n💰 Banca: <b>100.00 $</b> (+0.00 $ desde 100 $) · libre 73.57 ${\"inline_keyboard\": [[{\"text\": \"\\ud83d\\udcc8 Ver historial completo y fallos\", \"url\": \"https://github.com/STAMFORD313/analista313/blob/main/ESTADISTICAS.md\"}], [{\"text\": \"\\u26bd F\\u00fatbol\", \"url\": \"https://github.com/STAMFORD313/analista313/blob/main/apuestas/futbol.md\"}, {\"text\": \"\\ud83c\\udfc0 NBA\", \"url\": \"https://github.com/STAMFORD313/analista313/blob/main/apuestas/nba.md\"}, {\"text\": \"\\ud83c\\udfc8 NFL\", \"url\": \"https://github.com/STAMFORD313/analista313/blob/main/apuestas/nfl.md\"}], [{\"text\": \"\\ud83c\\udfd2 NHL\", \"url\": \"https://github.com/STAMFORD313/analista313/blob/main/apuestas/nhl.md\"}, {\"text\": \"\\u26be MLB\", \"url\": \"https://github.com/STAMFORD313/analista313/blob/main/apuestas/mlb.md\"}, {\"text\": \"\\ud83e\\udd4a UFC\", \"url\": \"https://github.com/STAMFORD313/analista313/blob/main/apuestas/ufc.md\"}]]}"
 }
