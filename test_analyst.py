@@ -70,3 +70,10 @@ print("ok hándicap asiático")
 from esports import series_prob
 assert series_prob(0.6, 1) == 0.6 and abs(series_prob(0.6, 3) - 0.648) < 1e-9 and series_prob(0.6, 5) > series_prob(0.6, 3)
 print("ok cs2")
+
+import json, multisport
+fp = json.loads((analyst.DATA / "football_params.json").read_text())
+assert (analyst.HALF_LIFE, analyst.SHRINK, analyst.RHO, analyst.BLEND, analyst.EDGE) == (fp["half_life"], fp["k"], fp["rho"], fp["blend"], fp["edge"])
+ep = json.loads((analyst.DATA / "espn_params.json").read_text())
+assert all(multisport.SPORTS[l][3:] == (p["hfa"], p["K"]) for l, p in ep.items())
+print("ok parámetros entrenados")

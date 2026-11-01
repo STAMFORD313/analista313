@@ -22,14 +22,17 @@ NEW_LEAGUES = {"ARG": ("Argentina", "🇦🇷 Liga Profesional"), "BRA": ("Brazi
                "SWE": ("Sweden", "🇸🇪 Allsvenskan"), "SWZ": ("Switzerland", "🇨🇭 Super League"), "POL": ("Poland", "🇵🇱 Ekstraklasa")}
 ALL_LEAGUES = {**LEAGUES, **{c: n for c, (_, n) in NEW_LEAGUES.items()}}
 FIRST_SEASON = 2005
-EDGE, MAX_EDGE, MIN_P = 0.05, 0.30, 0.25  # señal si ventaja entre 5% y 30% (más suele ser cuota errónea) y prob >= 25%
+_P = json.loads((DATA / "football_params.json").read_text()) if (DATA / "football_params.json").exists() else {}  # lo ajusta train_football.py
+EDGE, MAX_EDGE, MIN_P = _P.get("edge", 0.05), 0.30, 0.25  # señal si ventaja entre EDGE y 30% (más suele ser cuota errónea) y prob >= 25%
+BLEND = _P.get("blend", 0.5)  # peso del modelo frente al mercado sin margen
+HALF_LIFE, SHRINK = _P.get("half_life", 365), _P.get("k", 5.0)  # decaimiento (días) y encogimiento hacia la media de la liga
 HORIZON_DAYS = 2                  # partidos de los próximos 2 días
 TG, CHAT = os.getenv("TELEGRAM_TOKEN"), os.getenv("TELEGRAM_CHAT_ID")
 GEMINI, MODEL = os.getenv("GEMINI_API_KEY"), os.getenv("GEMINI_MODEL", "gemini-flash-latest")
 CLOSE = {"H": "AvgCH", "D": "AvgCD", "A": "AvgCA", "O25": "AvgC>2.5", "U25": "AvgC<2.5"}  # cuotas de cierre → CLV
 PINNACLE = {"H": "PSH", "D": "PSD", "A": "PSA", "O25": "P>2.5", "U25": "P<2.5"}  # la casa más afinada: ancla del mercado
 COLS = ["Div", "Date", "HomeTeam", "AwayTeam", "FTHG", "FTAG", *CLOSE.values()]
-RHO = -0.10  # Dixon-Coles: corrige la frecuencia de 0-0, 1-0, 0-1 y 1-1
+RHO = _P.get("rho", -0.10)  # Dixon-Coles: corrige la frecuencia de 0-0, 1-0, 0-1 y 1-1
 BOOKIES = {"B365": "Bet365", "PS": "Pinnacle", "BW": "Bwin", "BV": "BetVictor", "BFD": "Betfred", "PP": "Paddy Power",
            "SKB": "Sky Bet", "WH": "William Hill"}  # sin Betfair Exchange: comisión y poca liquidez
 SUFFIX = {"H": "H", "D": "D", "A": "A", "O25": ">2.5", "U25": "<2.5"}
@@ -90,9 +93,9 @@ def fixtures():
 
 
 # ---------- modelo ----------
-def strengths(df, div, today, k=5.0):
+def strengths(df, div, today, k=SHRINK, half_life=HALF_LIFE):
     d = df[(df.Div == div) & (df.Date >= today - pd.DateOffset(years=12))]
-    w = 0.5 ** ((today - d.Date).dt.days / 365)  # vida media de 1 año: la última década pesa, lo reciente más
+    w = 0.5 ** ((today - d.Date).dt.days / half_life)  # la última década pesa, lo reciente más
     mu_h, mu_a = (w * d.FTHG).sum() / w.sum(), (w * d.FTAG).sum() / w.sum()
     def rate(team, goals, mu):  # media ponderada con encogimiento hacia la media de la liga
         return ((w * d[goals]).groupby(d[team]).sum() + k * mu) / (w.groupby(d[team]).sum() + k) / mu
@@ -160,7 +163,7 @@ def value_bets(P, row, every=False):
         inv = sum(1 / o for o in avg.values())
         for m in group:
             implied = 1 / avg[m] / inv  # probabilidad del mercado sin margen
-            p, (o, book) = 0.5 * P[m] + 0.5 * implied, best[m]  # mezcla modelo + mercado: el Poisson solo sobreestima ventajas
+            p, (o, book) = BLEND * P[m] + (1 - BLEND) * implied, best[m]  # mezcla modelo + mercado: el Poisson solo sobreestima ventajas
             if p >= MIN_P and (every or EDGE <= p * o - 1 <= MAX_EDGE):
                 out.append({"market": m, "odds": o, "book": book, "p": round(p, 3), "implied": round(implied, 3),
                             "edge": round(p * o - 1, 3)})
@@ -188,7 +191,7 @@ def ah_bets(P, row, every=False):
         o, book = best[side]
         ev = sum(p * ah_factor(sign * d, line, o) for d, p in P["diff"].items()) - 1
         implied = 1 / avg[side] / inv
-        q = 0.5 * (ev + 1) / o + 0.5 * implied  # prob. equivalente (cobro esperado / cuota) mezclada con el mercado
+        q = BLEND * (ev + 1) / o + (1 - BLEND) * implied  # prob. equivalente (cobro esperado / cuota) mezclada con el mercado
         if q >= MIN_P and (every or EDGE <= q * o - 1 <= MAX_EDGE):
             out.append({"market": f"AH{side}", "line": line, "odds": o, "book": book, "p": round(q, 3),
                         "implied": round(implied, 3), "edge": round(q * o - 1, 3)})

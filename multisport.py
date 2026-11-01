@@ -1,6 +1,6 @@
 """NBA, NFL, NHL, MLB y tenis ATP/WTA vía la API pública de ESPN: 10 años de historial, Elo, lesiones,
 cuotas DraftKings, señales de valor, IA, grafo, PDF y Telegram. Reutiliza las utilidades de analyst.py."""
-import math
+import json, math
 
 import pandas as pd
 import requests
@@ -19,6 +19,8 @@ SPORTS = {  # liga: (ruta ESPN, nombre, deporte, ventaja local en puntos Elo, K;
 }
 YEARS = 10
 DIR = A.DATA / "espn"
+_P = json.loads((A.DATA / "espn_params.json").read_text()) if (A.DATA / "espn_params.json").exists() else {}  # lo ajusta train_espn.py
+for _l, _p in _P.items(): SPORTS[_l] = (*SPORTS[_l][:3], _p["hfa"], _p["K"])
 COLS = ["id", "date", "event", "home", "away", "hs", "as", "res"]
 
 
@@ -66,13 +68,15 @@ def update_history(league, today):
     return df.drop_duplicates("id").sort_values("date", ignore_index=True)
 
 
-def elo(df, hfa, k):
+def elo(df, hfa, k, pred=None):
+    """Ratings finales; si se pasa `pred`, guarda ahí la prob. local de cada partido ANTES de jugarse (backtest)."""
     R, n, last = {}, {}, {}
     for r in df.itertuples():
         for t in (r.home, r.away):
             if k and t in last and (r.date - last[t]).days > 90: R[t] = 1500 + 0.75 * (R[t] - 1500)  # nueva temporada
             last[t] = r.date
         e = win_prob(R, r.home, r.away, hfa)
+        if pred is not None: pred.append(e)
         for t, s, sign in ((r.home, r.res - e, 1), (r.away, r.res - e, -1)):
             kk = k or 250 / (n.get(t, 0) + 5) ** 0.4  # K de tenis: baja con la experiencia del jugador
             R[t] = R.get(t, 1500) + sign * kk * s
@@ -124,7 +128,7 @@ def points_model(df, league, today):
     d = df.dropna(subset=["hs", "as"]).rename(columns={"home": "HomeTeam", "away": "AwayTeam", "hs": "FTHG", "as": "FTAG", "date": "Date"})
     d = d.assign(Div=league, Date=d.Date.dt.tz_localize(None), FTHG=d.FTHG.astype(float), FTAG=d.FTAG.astype(float))
     recent = d[d.Date >= today - pd.Timedelta(days=400)]
-    return A.strengths(d, league, today), float((recent.FTHG + recent.FTAG).std())
+    return A.strengths(d, league, today, 5.0, 365), float((recent.FTHG + recent.FTAG).std())
 
 
 def total_signals(model, home, away, line, oo, ou):
