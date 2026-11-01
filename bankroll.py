@@ -235,8 +235,16 @@ def calibration_md(path=None):
     return out + [""]
 
 
+def sanity(signals):
+    """Una nula sin marcador antes de los VOID_DAYS es imposible (bug de claves CS2 en analyst, nov-2026): vuelve a pendiente."""
+    cut = pd.Timestamp.now(tz="UTC") - pd.Timedelta(days=VOID_DAYS)
+    for s in signals:
+        if s.get("result") == "nula" and not s.get("score") and s.get("start") and pd.Timestamp(s["start"]) > cut: s["result"] = None
+
+
 def run(state, today, kg):
     bank = state.setdefault("bank", {"balance": START, "bets": []})
+    sanity(state["signals"])
     settle(bank, state["signals"], kg)
     log_signals(state)
     place(bank, state["signals"], today, kg)

@@ -315,14 +315,16 @@ def settle_signals(df, state, today):
             else: s["result"] = bool(won(s["market"], r["FTHG"], r["FTAG"]))
             s["score"] = f"{int(r['FTHG'])}-{int(r['FTAG'])}"
             if s["market"] in CLOSE and pd.notna(r.get(CLOSE[s["market"]])): s["clv"] = round(s["odds"] / float(r[CLOSE[s["market"]]]) - 1, 3)
-        elif s.get("result") is None and s["key"].split("|")[1] < f"{today - pd.Timedelta(days=30):%Y-%m-%d}":
+        elif s.get("result") is None and s["key"].split("|")[0] in ALL_LEAGUES and s["key"].split("|")[1] < f"{today - pd.Timedelta(days=30):%Y-%m-%d}":
             s["result"] = "nula"  # aplazado o sin resultado
 
 
 def analyze_fixtures(df, state, today, kg):
     fx = fixtures()
     fx = fx[(fx.Date >= today) & (fx.Date <= today + pd.Timedelta(days=HORIZON_DAYS))]
-    state["analyzed"] = [k for k in state["analyzed"] if k.split("|")[1] >= f"{today - pd.Timedelta(days=7):%Y-%m-%d}"]
+    dated = lambda k: k.split("|")[1][4:5] == "-"  # las claves de CS2 son "cs2|<id>", sin fecha: se guardan las 1000 últimas
+    state["analyzed"] = ([k for k in state["analyzed"] if dated(k) and k.split("|")[1] >= f"{today - pd.Timedelta(days=7):%Y-%m-%d}"]
+                         + [k for k in state["analyzed"] if not dated(k)][-1000:])
     models, inj, now = {}, {}, pd.Timestamp.now(tz="UTC")
     season = df[df.Date >= today - pd.Timedelta(days=300)]
     for row in fx.sort_values(["Date", "Time"]).to_dict("records"):

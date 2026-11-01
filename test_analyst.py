@@ -94,6 +94,24 @@ assert bankroll.pick_text({"market": "sph", "pick": "Lakers -5.5", "match": "Lak
 assert bankroll.header({"sport": "🏀", "league": "🏀 NBA"}) == "<b>🏀 NBA</b>" and bankroll.header({"sport": "⚽", "league": "🇪🇸 LaLiga"}).startswith("⚽ ")
 print("ok hándicap NBA/NFL")
 
+# claves de CS2 ("cs2|<id>", sin fecha): el fútbol no debe anularlas ni sacarlas de `analyzed`; una nula imposible vuelve a pendiente
+import analyst as A_
+st3 = {"analyzed": ["cs2|132573", "E0|2026-10-01|A|B", "E0|2099-01-01|C|D"],
+       "signals": [{"key": "cs2|132573", "market": "t1", "start": "2099-01-01T00:00Z"}, {"key": "E0|2020-01-01|X|Y", "market": "H"}]}
+empty = pd.DataFrame({"Date": pd.to_datetime([]), "Div": [], "HomeTeam": [], "AwayTeam": [], "FTHG": [], "FTAG": []})
+A_.settle_signals(empty, st3, pd.Timestamp("2026-11-01"))
+assert st3["signals"][0].get("result") is None and st3["signals"][1]["result"] == "nula"
+fx_orig, A_.fixtures = A_.fixtures, lambda: pd.DataFrame(columns=["Div", "Date", "Time", "HomeTeam", "AwayTeam"]).astype({"Date": "datetime64[ns]"})
+A_.analyze_fixtures(empty, st3, pd.Timestamp("2026-11-01"), None)
+A_.fixtures = fx_orig
+assert sorted(st3["analyzed"]) == ["E0|2099-01-01|C|D", "cs2|132573"], st3["analyzed"]
+bad = [{"key": "cs2|1", "market": "t1", "start": "2099-01-01T00:00Z", "result": "nula"},
+       {"key": "nba|x", "market": "home", "start": "2099-01-01T00:00Z", "result": "nula", "score": "100-100"},
+       {"key": "E0|2020-01-01|X|Y", "market": "H", "start": "2020-01-01T00:00Z", "result": "nula"}]
+bankroll.sanity(bad)
+assert [x["result"] for x in bad] == [None, "nula", "nula"]
+print("ok claves cs2")
+
 import radar
 s0 = {"key": "k9", "market": "U25", "odds": 2.0, "p": 0.5, "edge": 0.06, "match": "E vs F", "sport": "⚽"}
 assert [ok for ok, _ in radar.checklist(s0)] == [False, True, True, False]
