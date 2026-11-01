@@ -25,8 +25,12 @@ NEW_LEAGUES = {"ARG": ("Argentina", "🇦🇷 Liga Profesional"), "BRA": ("Brazi
 ALL_LEAGUES = {**LEAGUES, **{c: n for c, (_, n) in NEW_LEAGUES.items()}}
 FIRST_SEASON = 2005
 _P = json.loads((DATA / "football_params.json").read_text()) if (DATA / "football_params.json").exists() else {}  # lo ajusta train_football.py
-EDGE, MAX_EDGE, MIN_P = _P.get("edge", 0.05), 0.30, 0.25  # señal si ventaja entre EDGE y 30% (más suele ser cuota errónea) y prob >= 25%
-BLEND = _P.get("blend", 0.5)  # peso del modelo frente al mercado sin margen
+EDGE, MAX_EDGE, MIN_P = 0.05, 0.30, 0.25  # señal si ventaja entre 5% y 30% (más suele ser cuota errónea) y prob >= 25%
+# por mercado de fútbol (1X2, más/menos 2.5, hándicap asiático): peso del modelo frente al mercado sin margen y ventaja
+# mínima elegidos fuera de muestra; EDGE > MAX_EDGE = mercado apagado (sin ROI defendible en el backtest)
+W = {m: _P.get(m, {}).get("w", 0.5) for m in ("1x2", "ou", "ah")}
+MARKET_EDGE = {m: max(EDGE, _P.get(m, {}).get("edge", EDGE)) for m in W}
+BLEND = W["1x2"]  # compatibilidad (backtest_datos.py)
 HALF_LIFE, SHRINK = _P.get("half_life", 365), _P.get("k", 5.0)  # decaimiento (días) y encogimiento hacia la media de la liga
 HORIZON_DAYS = 2                  # partidos de los próximos 2 días
 TG, CHAT = os.getenv("TELEGRAM_TOKEN"), os.getenv("TELEGRAM_CHAT_ID")
@@ -156,7 +160,8 @@ def best_odds(row, m):
 def value_bets(P, row, every=False):
     """Mercados con ventaja (o todos los de prob >= MIN_P si every=True, para listar candidatas)."""
     out = []
-    for group in (("H", "D", "A"), ("O25", "U25")):
+    for g, group in (("1x2", ("H", "D", "A")), ("ou", ("O25", "U25"))):
+        if MARKET_EDGE[g] > MAX_EDGE and not every: continue  # mercado apagado: solo se lista como candidata
         best = {m: best_odds(row, m) for m in group}
         if not all(o for o, _ in best.values()): continue
         pin = {m: row.get(PINNACLE[m]) for m in group}
@@ -165,8 +170,8 @@ def value_bets(P, row, every=False):
         inv = sum(1 / o for o in avg.values())
         for m in group:
             implied = 1 / avg[m] / inv  # probabilidad del mercado sin margen
-            p, (o, book) = BLEND * P[m] + (1 - BLEND) * implied, best[m]  # mezcla modelo + mercado: el Poisson solo sobreestima ventajas
-            if p >= MIN_P and (every or EDGE <= p * o - 1 <= MAX_EDGE):
+            p, (o, book) = W[g] * P[m] + (1 - W[g]) * implied, best[m]  # mezcla modelo + mercado: el Poisson solo sobreestima ventajas
+            if p >= MIN_P and (every or MARKET_EDGE[g] <= p * o - 1 <= MAX_EDGE):
                 out.append({"market": m, "odds": o, "book": book, "p": round(p, 3), "implied": round(implied, 3),
                             "edge": round(p * o - 1, 3)})
     return out
@@ -180,7 +185,7 @@ def ah_factor(diff, line, odds):
 
 def ah_bets(P, row, every=False):
     h = row.get("AHh")
-    if pd.isna(h): return []
+    if pd.isna(h) or (MARKET_EDGE["ah"] > MAX_EDGE and not every): return []
     h, out = float(h), []
     best = {}
     for side in ("H", "A"):
@@ -193,11 +198,14 @@ def ah_bets(P, row, every=False):
         o, book = best[side]
         ev = sum(p * ah_factor(sign * d, line, o) for d, p in P["diff"].items()) - 1
         implied = 1 / avg[side] / inv
-        q = BLEND * (ev + 1) / o + (1 - BLEND) * implied  # prob. equivalente (cobro esperado / cuota) mezclada con el mercado
-        if q >= MIN_P and (every or EDGE <= q * o - 1 <= MAX_EDGE):
+        q = W["ah"] * (ev + 1) / o + (1 - W["ah"]) * implied  # prob. equivalente (cobro esperado / cuota) mezclada con el mercado
+        if q >= MIN_P and (every or MARKET_EDGE["ah"] <= q * o - 1 <= MAX_EDGE):
             out.append({"market": f"AH{side}", "line": line, "odds": o, "book": book, "p": round(q, 3),
                         "implied": round(implied, 3), "edge": round(q * o - 1, 3)})
     return out
+
+
+def group_of(m): return "ou" if m in ("O25", "U25") else "ah" if m in ("AHH", "AHA") else "1x2"
 
 
 def won(m, hg, ag): return {"H": hg > ag, "D": hg == ag, "A": hg < ag, "O25": hg + ag > 2, "U25": hg + ag < 3}[m]
@@ -347,7 +355,9 @@ def analyze_fixtures(df, state, today, kg):
         state["analyzed"].append(k)
         cands = value_bets(P, row, every=True) + ah_bets(P, row, every=True)
         if not cands: continue
-        vb = [v for v in cands if EDGE <= v["edge"] <= MAX_EDGE] or [max(cands, key=lambda v: v["edge"])]  # sin valor: la mejor como candidata
+        vb = [v for v in cands if MARKET_EDGE[group_of(v["market"])] <= v["edge"] <= MAX_EDGE]
+        rest = [v for v in cands if not EDGE <= v["edge"] <= MAX_EDGE]  # candidata que bankroll.py no apostaría
+        vb = vb or [max(rest, key=lambda v: v["edge"])] if vb or rest else []  # sin valor: la mejor como candidata
         fav = min(("H", "D", "A"), key=lambda m: best_odds(row, m)[0] or 99)
         pick = {"H": home, "A": away}
         info = [f"📊 <b>Escenarios</b> (goles esperados {lh:.2f} - {la:.2f})",

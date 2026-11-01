@@ -1,5 +1,6 @@
 import analyst
 analyst.TG = analyst.CHAT = analyst.GEMINI = None  # los tests nunca envían a Telegram ni llaman a la IA
+analyst.W, analyst.MARKET_EDGE = dict.fromkeys(analyst.W, 0.5), dict.fromkeys(analyst.W, 0.05)  # lógica con la mezcla clásica
 
 from analyst import probs, value_bets, won
 
@@ -138,7 +139,13 @@ print("ok cs2")
 
 import json, multisport
 fp = json.loads((analyst.DATA / "football_params.json").read_text())
-assert (analyst.HALF_LIFE, analyst.SHRINK, analyst.RHO, analyst.BLEND, analyst.EDGE) == (fp["half_life"], fp["k"], fp["rho"], fp["blend"], fp["edge"])
+assert (analyst.HALF_LIFE, analyst.SHRINK, analyst.RHO) == (fp["half_life"], fp["k"], fp["rho"])
+import importlib; A2 = importlib.reload(analyst)  # recarga sin la sobrescritura de arriba
+assert A2.W == {m: fp[m]["w"] for m in A2.W} and all(A2.MARKET_EDGE[m] == max(A2.EDGE, fp[m]["edge"]) for m in A2.W)
+row = {"AvgH": 1.5, "AvgD": 4.0, "AvgA": 9.0, "B365H": 2.5, "B365D": 4.0, "B365A": 9.0}  # cuota local muy por encima
+P9 = {"H": 0.9, "D": 0.05, "A": 0.05}
+if A2.MARKET_EDGE["1x2"] > A2.MAX_EDGE:  # 1X2 apagado: lista candidatas pero no da señales
+    assert A2.value_bets(P9, row) == [] and A2.value_bets(P9, row, every=True)
 ep = json.loads((analyst.DATA / "espn_params.json").read_text())
 assert all(multisport.SPORTS[l][3:] == (p["hfa"], p["K"]) for l, p in ep.items())
 assert set(multisport.TOT) <= {"nba", "mlb", "nhl", "nfl"} and 0 < multisport.totals_model.p_over("nba", 200, 199.5, multisport.TOT) < 1
