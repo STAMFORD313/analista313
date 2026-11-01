@@ -275,7 +275,8 @@ class Estado:
     """Estado acumulado partido a partido (sin mirar el futuro): rating de cada jugador (media con olvido por mapa),
     última alineación de cada equipo, mapas jugados juntos por cada pareja, rendimiento por mapa de cada equipo
     (olvido temporal) y H2H por mapas."""
-    DECAY, K, HL = 0.995, 2.0, 180  # (backtest: 0.97→0.995 baja el log-loss 0.6160→0.6139) olvido por mapa del jugador, encogimiento a la media, vida media (días) del mapa del equipo
+    DECAY, K, HL = 0.995, 2.0, 180
+    OPP = 1.0  # corrección por rival (0.5: 0.6125, 1.0: 0.6106, 1.5: 0.6136)  # (backtest: 0.97→0.995 baja el log-loss 0.6160→0.6139) olvido por mapa del jugador, encogimiento a la media, vida media (días) del mapa del equipo
 
     def __init__(self, pp):
         self.by_game = defaultdict(list)
@@ -290,8 +291,12 @@ class Estado:
         return s[0] * f, s[1] * f
 
     def update(self, r):
-        """Añade un mapa jugado (fila de players_games.csv)."""
+        """Añade un mapa jugado (fila de players_games.csv). El rating del mapa se corrige por la fuerza del rival
+        (rating + OPP·(fuerza rival − media)): backtest 0.6139→0.6106."""
         rows = self.by_game.get(r.game_id, [])
+        s = {t: self.strength(t) for t in (r.t1_id, r.t2_id)}
+        s = {t: v if v is not None else self.mu for t, v in s.items()}
+        rows = [(p, t, rt + self.OPP * (s.get(r.t2_id if t == r.t1_id else r.t1_id, self.mu) - self.mu)) for p, t, rt in rows]
         for t in (r.t1_id, r.t2_id):
             lu = sorted({p for p, tt, _ in rows if tt == t})
             if len(lu) >= 3:
@@ -386,11 +391,9 @@ def backtest(train_from="2024-11-01", test_from="2025-11-01"):
     df = df.sort_values("date", ignore_index=True)
     df = df[df.date >= df.date.max() - pd.DateOffset(years=4)]
     since = pd.Timestamp(train_from, tz="UTC")
-    rec, orig = [], E.series_prob
-    E.series_prob = lambda p, bo: rec.append(orig(p, bo)) or rec[-1]  # captura la prob. previa de cada serie
-    try: E.map_elo(df, since)
-    finally: E.series_prob = orig
-    elo = df[df.date >= since].assign(p_elo=rec)[["id", "t1_id", "winner_id", "p_elo"]]
+    preds = {}
+    E.map_elo(df, since, E.load_games(), preds)  # el Elo de producción (con margen de rondas por mapa)
+    elo = df[df.date >= since].assign(p_elo=lambda d: d.id.map(lambda i: preds[i][0]))[["id", "t1_id", "winner_id", "p_elo"]]
     g, pp = load()
     rows = []
     run_states(g, pp, lambda mid, t1, t2, d, st: rows.append({"id": mid, "t1": t1, "date": d, **st.features(t1, t2, d)}))
