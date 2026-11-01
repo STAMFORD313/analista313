@@ -29,7 +29,7 @@ def pick(s):
 
 def pick_text(s):
     p = pick(s)
-    return p if s["market"] in ("D", "O25", "U25", "over", "under", "AHH", "AHA") else f"Gana {p}"
+    return p if s["market"] in ("D", "O25", "U25", "over", "under", "AHH", "AHA", "sph", "spa") else f"Gana {p}"
 
 
 def when(s): return pd.Timestamp(s["start"]).tz_convert("Europe/Madrid").strftime("%d/%m · %H:%M")
@@ -47,7 +47,7 @@ def bank_line(bank):
 
 
 def segment(s):
-    kind = "goles" if s["market"] in ("O25", "U25") else "totales" if s["market"] in ("over", "under") else "hándicap" if s["market"] in ("AHH", "AHA") else "empate" if s["market"] == "D" else "favorito" if s["odds"] < 2 else "no favorito"
+    kind = "goles" if s["market"] in ("O25", "U25") else "totales" if s["market"] in ("over", "under") else "hándicap" if s["market"] in ("AHH", "AHA", "sph", "spa") else "empate" if s["market"] == "D" else "favorito" if s["odds"] < 2 else "no favorito"
     return f"{s.get('sport', '?')} {kind}"
 
 
@@ -58,6 +58,19 @@ def seg_stats(bank, signals):
         o = out.setdefault(segment(by[tuple(b["legs"][0])]), {"n": 0, "won": 0, "profit": 0.0, "staked": 0.0})
         o["n"] += 1; o["won"] += b["status"] == "ganada"; o["profit"] += b["return"] - b["stake"]; o["staked"] += b["stake"]
     return out
+
+
+def spread_result(market, line, hs, as_):
+    """Hándicap de puntos (NBA/NFL): market 'sph' (local) o 'spa' (visitante), `line` desde ese lado (-5.5 = da 5.5).
+    True si cubre, False si no, 'nula' si empata con la línea (push: se devuelve el stake)."""
+    m = (float(hs) - float(as_)) * (1 if market == "sph" else -1) + line
+    return "nula" if m == 0 else m > 0
+
+
+def header(s):
+    """Cabecera deporte + liga sin repetir el icono (las ligas de ESPN y CS2 ya lo llevan)."""
+    sport, league = s.get("sport", "🎯"), s.get("league", "")
+    return f"{'' if league.startswith(sport) else sport + ' '}<b>{A.esc(league)}</b>"
 
 
 def ai_review(s):
@@ -75,7 +88,7 @@ Responde SOLO con JSON: {{"apostar": true, "confianza": 3, "motivo": "1-2 frases
 def single_card(s, stake, bank, reason, conf):
     conf = int(conf) if str(conf).isdigit() else 1 + min(4, round(s["edge"] * 20))
     return "\n".join([
-        f"{s.get('sport', '🎯')} <b>{A.esc(s.get('league', ''))}</b>",
+        header(s),
         f"🕒 {when(s)} (hora España)",
         f"<b>{A.esc(s['match']).replace(' vs ', ' 🆚 ')}</b>",
         LINE,

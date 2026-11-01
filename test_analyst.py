@@ -87,6 +87,13 @@ assert menu.target_message({"message": {"message_id": 7}}, {"scoreboard_id": 9})
 assert menu.target_message({"message": {"message_id": 9}}, {"scoreboard_id": 9}) is None and menu.target_message(None, {}) is None
 print("ok menú")
 
+# hándicap de puntos NBA/NFL (push = nula) y cabecera sin icono repetido
+assert bankroll.spread_result("sph", -5.5, 110, 100) is True and bankroll.spread_result("sph", -5.5, 104, 100) is False
+assert bankroll.spread_result("spa", 5.0, 105, 100) == "nula" and bankroll.spread_result("spa", 7.0, 105, 100) is True
+assert bankroll.pick_text({"market": "sph", "pick": "Lakers -5.5", "match": "Lakers vs Suns"}) == "Lakers -5.5"
+assert bankroll.header({"sport": "🏀", "league": "🏀 NBA"}) == "<b>🏀 NBA</b>" and bankroll.header({"sport": "⚽", "league": "🇪🇸 LaLiga"}).startswith("⚽ ")
+print("ok hándicap NBA/NFL")
+
 import radar
 s0 = {"key": "k9", "market": "U25", "odds": 2.0, "p": 0.5, "edge": 0.06, "match": "E vs F", "sport": "⚽"}
 assert [ok for ok, _ in radar.checklist(s0)] == [False, True, True, False]
