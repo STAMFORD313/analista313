@@ -209,6 +209,17 @@ def save_odds(up, now):
     pd.concat([old, pd.DataFrame(rows)]).drop_duplicates("id", keep="last").to_csv(ODDS, index=False)
 
 
+def players_adjust(p, t1, t2):
+    """CS2 S/A/B: corrige la prob. de serie con la plantilla actual, H2H y química de cs2_players.py (de [agente-grafo]).
+    Backtest fuera de muestra frente a este Elo: 0.6149 → 0.6112 (6.326 series). Sin sus datos devuelve p tal cual."""
+    try:
+        import cs2_players
+        return cs2_players.ajustar(p, t1, t2)
+    except ModuleNotFoundError: return p  # cs2_players.py aún no está en el repo
+    except Exception as e:
+        print("cs2_players:", repr(e)); return p
+
+
 def run(state, today, kg):
     for slug in DISCIPLINES:
         configure(slug)
@@ -236,6 +247,7 @@ def run_one(state, today, kg):
                   for t in (g["t1_id"], g["t2_id"]))
         p_map = map_prob(r1, r2, g["bo"])
         p = series_prob(p_map, g["bo"])
+        if SLUG == "cs2" and g["tier"] in ("s", "a", "b"): p = players_adjust(p, g["t1_id"], g["t2_id"])
         hh = df[((df.t1_id == g["t1_id"]) & (df.t2_id == g["t2_id"])) | ((df.t1_id == g["t2_id"]) & (df.t2_id == g["t1_id"]))]
         h2h = f"{len(hh)}: {int((hh.winner_id == g['t1_id']).sum())}-{int((hh.winner_id == g['t2_id']).sum())}" if len(hh) else "sin precedentes"
         kg.match(TITLE, g["team1"], g["team2"], start, {"1": p, "2": 1 - p}, ([], []), h2h)
