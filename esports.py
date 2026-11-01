@@ -19,6 +19,8 @@ _P = json.loads((DIR / "params.json").read_text()) if (DIR / "params.json").exis
 K = _P.get("K", 24)
 TIER_K = {t: 1 + (v - 1) * _P.get("tier_scale", 1) for t, v in TIER_K_BASE.items()}
 TIER_START = {t: 1500 + (v - 1500) * _P.get("start_spread", 1) for t, v in TIER_START_BASE.items()}
+NEW_K = _P.get("new_k", 0)    # equipos nuevos: K más alto las primeras series
+DECAY = _P.get("decay", 0)    # vuelta al rating inicial por inactividad (por año)
 TITLE = "🎮 CS2"
 
 
@@ -56,21 +58,33 @@ def update_history(max_pages=800):
     return df.sort_values("date", ignore_index=True)
 
 
-def map_elo(df):
-    """Elo por mapa: una serie 2-1 son 3 actualizaciones. Devuelve (ratings por id, partidos jugados, último nivel)."""
-    R, n, tier = {}, {}, {}
+def decayed(r, gap_days, start):
+    """Tras >30 días sin jugar el rating vuelve poco a poco al inicial de su nivel (plantillas que se deshacen)."""
+    if gap_days <= 30: return r
+    return start + (r - start) * math.exp(-(gap_days - 30) / 365 * DECAY)
+
+
+def map_elo(df, since=None):
+    """Elo por mapa: una serie 2-1 son 3 actualizaciones; los equipos con pocas series aprenden más rápido (K×(1+NEW_K/(1+n))).
+    Devuelve (ratings, series jugadas, último nivel, última fecha, log-loss de series desde `since` predichas antes de jugarse)."""
+    R, n, tier, last, loss, cnt = {}, {}, {}, {}, 0.0, 0
     for r in df.itertuples():
         for t in (r.t1_id, r.t2_id):
-            R.setdefault(t, TIER_START.get(r.tier, 1450)); tier[t] = r.tier
-        s1, s2 = (int(r.s1), int(r.s2)) if pd.notna(r.s1) and pd.notna(r.s2) and r.s1 + r.s2 > 0 else \
-            ((1, 0) if r.winner_id == r.t1_id else (0, 1))
+            s0 = TIER_START.get(r.tier, 1450)
+            R[t] = decayed(R[t], (r.date - last[t]).days, s0) if t in R else s0
+            n.setdefault(t, 0); tier[t] = r.tier; last[t] = r.date
+        if since is not None and r.date >= since:
+            p = series_prob(1 / (1 + 10 ** ((R[r.t2_id] - R[r.t1_id]) / 400)), int(r.bo))
+            loss -= math.log(min(max(p if r.winner_id == r.t1_id else 1 - p, 1e-6), 1)); cnt += 1
+        s1, s2 = (int(r.s1), int(r.s2)) if pd.notna(r.s1) and pd.notna(r.s2) and r.s1 + r.s2 > 0 else             ((1, 0) if r.winner_id == r.t1_id else (0, 1))
         if r.bo == 1 and s1 + s2 > 1: s1, s2 = int(s1 > s2), int(s2 > s1)  # en BO1 el marcador son rondas, no mapas
         k = K * TIER_K.get(r.tier, 1.0)
+        k1, k2 = k * (1 + NEW_K / (1 + n[r.t1_id])), k * (1 + NEW_K / (1 + n[r.t2_id]))
         for won1 in [1] * s1 + [0] * s2:
             e = 1 / (1 + 10 ** ((R[r.t2_id] - R[r.t1_id]) / 400))
-            R[r.t1_id] += k * (won1 - e); R[r.t2_id] -= k * (won1 - e)
-        n[r.t1_id] = n.get(r.t1_id, 0) + 1; n[r.t2_id] = n.get(r.t2_id, 0) + 1
-    return R, n, tier
+            R[r.t1_id] += k1 * (won1 - e); R[r.t2_id] -= k2 * (won1 - e)
+        n[r.t1_id] += 1; n[r.t2_id] += 1
+    return R, n, tier, last, loss / max(cnt, 1), cnt
 
 
 def series_prob(p, bo):
@@ -97,7 +111,7 @@ def run(state, today, kg):
     df = update_history()
     print(f"cs2: {len(df)} partidos de historial")
     settle(df, state)
-    R, n, tier = map_elo(df[df.date >= pd.Timestamp.now(tz="UTC") - pd.DateOffset(years=4)])  # el CS cambia rápido: 4 años
+    R, n, tier, last, *_ = map_elo(df[df.date >= pd.Timestamp.now(tz="UTC") - pd.DateOffset(years=4)])  # el CS cambia rápido: 4 años
     now = pd.Timestamp.now(tz="UTC")
     try: up = get(**{"sort": "start_date", "filter[matches.status][in]": "upcoming"})["results"]
     except (requests.RequestException, ValueError) as e:
@@ -107,7 +121,8 @@ def run(state, today, kg):
         if not (now < start < now + pd.Timedelta(hours=36)) or key in state["analyzed"]: continue
         g = row(m)
         if not g: continue
-        r1, r2 = (R.get(t, TIER_START.get(g["tier"], 1450)) for t in (g["t1_id"], g["t2_id"]))
+        r1, r2 = (decayed(R[t], (start - last[t]).days, TIER_START.get(tier[t], 1450)) if t in R else TIER_START.get(g["tier"], 1450)
+                  for t in (g["t1_id"], g["t2_id"]))
         if m.get("team1_new_participant"): r1 = 1500 + (1 - ROSTER_SHRINK) * (r1 - 1500)
         if m.get("team2_new_participant"): r2 = 1500 + (1 - ROSTER_SHRINK) * (r2 - 1500)
         p_map = 1 / (1 + 10 ** ((r2 - r1) / 400))

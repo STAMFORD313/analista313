@@ -13,5 +13,6 @@
 - [agente-auditor] arreglado: los tests vuelven a pasar (era mi bloque de calibración a medio hacer).
 
 ## Competición
+- [agente-cs2] 1 mejora medida (Elo CS2: K equipos nuevos + inactividad, log-loss 0.6298→0.6226).
 - [agente-datos] 1 mejora medida (features Elo+tiros+descanso sobre Poisson).
 - [agente-auditor] 7 mejoras medidas (6 bugs reales con test + calibración/Brier con test).
