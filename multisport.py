@@ -6,6 +6,7 @@ import pandas as pd
 import requests
 
 import analyst as A
+import tennis_model, ufc_model
 
 ESPN = "https://site.api.espn.com/apis/site/v2/sports"
 SPORTS = {  # liga: (ruta ESPN, nombre, deporte, ventaja local en puntos Elo, K; K=None → K dinámico de tenis)
@@ -201,7 +202,7 @@ def run_league(league, state, today, kg):
     print(f"{league}: {len(df)} partidos de historial")
     settle(df, league, state)
     p_ = _P.get(league, {})
-    R = elo(df, hfa, k, None, p_.get("keep", 0.75), p_.get("kt", 250), p_.get("mov", False))
+    R = elo(df, hfa, k, None, p_.get("keep", 0.75), p_.get("kt", 250), p_.get("mov", False)) if k else None
     pts = points_model(df, league, today) if k else None  # totales solo en deportes de equipo
     games = {}
     for d in pd.date_range(today, periods=A.HORIZON_DAYS + 1):
@@ -212,10 +213,17 @@ def run_league(league, state, today, kg):
            and pd.Timestamp(g["date"]) > now and "TBD" not in (g["home"], g["away"])]
     if not new: return
     inj = injuries(league)
+    if not k:  # tenis (Elo por superficie) y UFC: modelos de agente-datos; los partidos de hoy predicen sin actualizar
+        up = pd.DataFrame([{"date": pd.Timestamp(g["date"]), "home": g["home"], "away": g["away"], "event": g["event"],
+                            "res": math.nan} for g in new], index=[g["id"] for g in new])
+        allg = pd.concat([df, up]).sort_values("date", kind="stable")
+        pred = (tennis_model.predict(league, allg) if league in ("atp", "wta") else ufc_model.elo(allg, **{
+            c: v for c, v in json.loads(ufc_model.PARAMS.read_text()).items() if c in ("kt", "pw", "hfa", "idle", "keep")})[0])
+        pred = dict(zip(allg.index, pred))
     for g in sorted(new, key=lambda g: g["date"]):
         home, away = g["home"], g["away"]
         squads = [inj.get(t, []) for t in (home, away)]
-        p = win_prob(R, home, away, hfa + injury_elo(squads[0]) - injury_elo(squads[1]))
+        p = pred[g["id"]] if not k else win_prob(R, home, away, hfa + injury_elo(squads[0]) - injury_elo(squads[1]))
         hh = df[((df.home == home) & (df.away == away)) | ((df.home == away) & (df.away == home))]
         wins = lambda t: int((((hh.home == t) & (hh.res == 1)) | ((hh.away == t) & (hh.res == 0))).sum())
         h2h = f"{len(hh)} desde {hh.date.min():%Y}: {wins(home)}-{wins(away)}" if len(hh) else "sin precedentes"
