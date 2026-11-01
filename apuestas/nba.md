@@ -1,6 +1,6 @@
 # 🏀 NBA · apuestas de valor
 
-Actualizado 01/11/2026 23:34 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 01/11/2026 23:35 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Golden State Warriors vs LA Clippers — 02/11 · 02:30
 
