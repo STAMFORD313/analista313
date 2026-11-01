@@ -86,7 +86,7 @@ def decayed(r, gap_days, start):
     return start + (r - start) * math.exp(-(gap_days - 30) / 365 * DECAY)
 
 
-def map_elo(df, since=None, games=None):
+def map_elo(df, since=None, games=None, preds=None):
     """Elo por mapa: una serie 2-1 son 3 actualizaciones; los equipos con pocas series aprenden más rápido (K×(1+NEW_K/(1+n))).
     Devuelve (ratings, series jugadas, último nivel, última fecha, log-loss de series desde `since` predichas antes de jugarse)."""
     R, n, tier, last, loss, cnt = {}, {}, {}, {}, 0.0, 0
@@ -98,6 +98,7 @@ def map_elo(df, since=None, games=None):
         if since is not None and r.date >= since:
             p = series_prob(map_prob(R[r.t1_id], R[r.t2_id], r.bo), int(r.bo))
             loss -= math.log(min(max(p if r.winner_id == r.t1_id else 1 - p, 1e-6), 1)); cnt += 1
+            if preds is not None: preds[r.id] = p
         maps = [(w == r.t1_id, (math.log(ws - ls + 1) / math.log(7)) ** MOV if ws > ls else 1)  # margen de rondas
                 for w, ws, ls in (games or {}).get(r.id, [])]
         if not maps:

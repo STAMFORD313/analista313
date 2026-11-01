@@ -22,6 +22,25 @@ def fetch_games(years=3, pause=0.3):
     pd.DataFrame(games).drop_duplicates(["match_id", "n"]).to_csv(E.GAMES, index=False)
 
 
+def vs_market(df, since, games):
+    """Modelo vs cuotas PREVIAS de Thunderpick (data/cs2/odds.csv): log-loss y ROI plano con ventaja 5-30 %."""
+    if not E.ODDS.exists(): return
+    preds = {}
+    E.map_elo(df, since, games, preds)
+    o = pd.read_csv(E.ODDS).merge(df[["id", "t1_id", "winner_id"]], on="id")
+    o = o[o.id.isin(preds) & (o.o1 > 1) & (o.o2 > 1)]
+    if o.empty: return print("vs Thunderpick: aún no hay partidos terminados con cuota previa")
+    o["p"], o["y"] = o.id.map(preds), (o.winner_id == o.t1_id).astype(int)
+    o["m"] = (1 / o.o1) / (1 / o.o1 + 1 / o.o2)
+    ll = lambda p: -(o.y * p.clip(1e-6, 1).map(math.log) + (1 - o.y) * (1 - p).clip(1e-6, 1).map(math.log)).mean()
+    for name, q in (("modelo", o.p), ("mezcla 50/50 (la del bot)", 0.5 * o.p + 0.5 * o.m)):
+        bets = [(e1, o.o1[i] - 1 if o.y[i] else -1) if 0.05 <= e1 <= 0.30 else (e2, o.o2[i] - 1 if not o.y[i] else -1)
+                for i, e1, e2 in zip(o.index, q * o.o1 - 1, (1 - q) * o.o2 - 1) if 0.05 <= e1 <= 0.30 or 0.05 <= e2 <= 0.30]
+        roi = sum(b[1] for b in bets) / len(bets) if bets else float("nan")
+        print(f"vs Thunderpick ({len(o)} partidos) {name}: log-loss {ll(q):.4f} vs mercado {ll(o.m):.4f}; "
+              f"ROI con ventaja 5-30 %: {roi:+.1%} en {len(bets)} apuestas")
+
+
 def main():
     df = pd.read_csv(E.HIST)
     df["date"] = pd.to_datetime(df["date"], utc=True)
@@ -38,7 +57,13 @@ def main():
     base = -(math.log(0.5))
     print(f"MEJOR {best[1]} log-loss {best[0]:.4f} (azar = {base:.4f})")
     (E.DIR / "params.json").write_text(json.dumps({**best[1], "logloss": round(best[0], 4)}))
+    for k, v in best[1].items(): setattr(E, {"K": "K", "new_k": "NEW_K", "decay": "DECAY", "k_bo1": "K_BO1", "series_scale": "SERIES_SCALE", "mov": "MOV"}.get(k, "_"), v)
+    vs_market(df, since, games)
 
 
 if __name__ == "__main__":
-    fetch_games() if "fetch" in sys.argv else main()
+    if "fetch" in sys.argv: fetch_games()
+    elif "mercado" in sys.argv:  # solo la comparación con Thunderpick, con los parámetros guardados
+        d = pd.read_csv(E.HIST); d["date"] = pd.to_datetime(d["date"], utc=True); d = d.sort_values("date")
+        vs_market(d[d.date >= d.date.max() - pd.DateOffset(years=4)], d.date.max() - pd.DateOffset(years=1), E.load_games())
+    else: main()
