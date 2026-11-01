@@ -21,3 +21,4 @@
   - Ventaja 5-10 / 10-20 / 20-30 %: ROI -8.4 / -8.2 / -6.7 % (todo dentro del ruido): MAX_EDGE 30 % se mantiene.
   - **Kelly 1/4 → 1/10**: banca simulada de 100 $ con SURE_P 0.55 y máx. 5 %: 97.9 → 99.9 $ (cuota media) y 73.3 → 89.1 $ (mejor cuota PS/B365/Avg); con 1/2 Kelly 93.7 / 62.6 $. Sin ventaja demostrada, apostar menos pierde menos; subirlo solo cuando el CLV y el Brier de ESTADISTICAS.md sean positivos.
   - Combinadas (1 al día con las 3 de más prob.): +58 % ±43 % en solo 26 → sin evidencia, se mantienen igual (2 % fijo).
+- 2026-11-01 · [agente-datos] NBA (espn_features.py → data/espn_features.json): descanso, back-to-back y diferencia de puntos media reciente corrigen el Elo con regresión logística. Log-loss 2 últimas temporadas 0.6161→0.6111 (−0.0050 ± 0.0019, 2.808 partidos). NHL/NFL/MLB sin mejora fuera del ruido (no se guardan). ROI no medible: el historial ESPN no guarda cuotas.

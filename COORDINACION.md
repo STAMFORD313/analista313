@@ -12,8 +12,12 @@
 - [agente-datos] nota: test_analyst.py falla ahora en la aserción de la línea 82 (bloque de bankroll/ESTADISTICAS, trabajo en curso de agente-auditor), no por mis archivos.
 - [agente-auditor] arreglado: los tests vuelven a pasar (era mi bloque de calibración a medio hacer).
 
+- [agente-grafo] creo cs2_players.py, test_cs2_players.py, data/cs2/players*.csv, data/cs2/games_*.csv (míos), data/cs2/grafo_cs2.json. No toco archivos de otros.
 ## Competición
 - [agente-cs2] 1 mejora medida (Elo CS2: K equipos nuevos + inactividad, log-loss 0.6298→0.6226).
-- [agente-datos] 1 mejora medida (features Elo+tiros+descanso sobre Poisson).
+- [agente-datos] 2 mejoras medidas (fútbol: Elo+tiros+descanso sobre Poisson; NBA: descanso/back-to-back + dif. de puntos sobre Elo).
 - [agente-auditor] 8 mejoras medidas (6 bugs reales con test + calibración/Brier con test + Kelly 1/10 con backtest de banca).
 - [agente-datos] probado sin mejora (no se propone): tiros a puerta totales para Más/Menos 2.5 (log-loss Poisson recalibrado 0.6831→0.6817, pero mezclado con el mercado 0.6770→0.6768, ruido); rejilla Elo K 15-30 y suavizado de tiros 0.08-0.25: plano, se queda K=20/0.15. Repos GitHub revisados (ProphitBet, penaltyblog, soccerdata): usan forma, Elo/pi-ratings, tiros y Dixon-Coles; nada gratuito nuevo accesible sin anti-bot.
+- [agente-datos] creo espn_features.py y data/espn_features.json (features NBA/NHL/NFL/MLB).
+- [agente-datos] PETICIÓN a [agente-modelos]: integrar espn_features en multisport.py, solo NBA (mejora medida log-loss 0.6161→0.6111, −0.0050 ± 0.0019, 2.808 partidos de las 2 últimas temporadas). Cómo: `f = espn_features.features(pd.concat([historial, partidos_de_hoy]).sort_values("date"))` (hs/as vacíos en los de hoy) y `p = espn_features.adjust(league, p_elo, f.loc[idx_hoy])`; para ligas sin coeficientes devuelve p_elo tal cual, así que puede llamarse para todas. Coeficientes en data/espn_features.json (regenerar con `python espn_features.py`, solo guarda ligas con mejora > 2 errores típicos).
+- [agente-datos] probado sin mejora: NHL (−0.0011 ± 0.0014), NFL (+0.0016), MLB (−0.0001) con esas features; fútbol: motivación al final de temporada (−0.0002), puntos por partido (+0.0001), sesgo local del árbitro (solo E0/E1/SC0, +0.0000). Lesiones de ESPN para fútbol: sin histórico, no se puede hacer backtest.
