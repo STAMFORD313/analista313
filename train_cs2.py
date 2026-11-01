@@ -1,4 +1,4 @@
-"""Entrena el modelo de CS2: prueba combinaciones de K, peso por nivel y rating inicial, y mide el log-loss
+"""Entrena el modelo de CS2 (u otro esport: python train_cs2.py dota2|lol|r6|mlbb): prueba combinaciones de K, peso por nivel y rating inicial, y mide el log-loss
 sobre el último año (predicción hecha ANTES de cada partido). Guarda los mejores en data/cs2/params.json."""
 import itertools, json, math, sys, time
 
@@ -80,7 +80,7 @@ def main():
     y = dict(zip(df.id, df.winner_id == df.t1_id))
     in_b = set(df.id[df.date >= s2])
     games, res = E.load_games(), []
-    for k, nk, dc, kb, sc, mv in itertools.product([16, 20, 24, 28], [4, 8], [0.5, 1], [1, 1.5, 2], [0.65, 0.75, 0.85], [1, 1.5, 2]):
+    for k, nk, dc, kb, sc, mv in itertools.product([16, 20, 24, 28] + ([] if games else [36, 48]), [4, 8], [0.5, 1], [1, 1.5, 2], [0.65, 0.75, 0.85] + ([] if games else [1]), [1, 1.5, 2] if games else [0]):
         P = {"K": k, "new_k": nk, "decay": dc, "k_bo1": kb, "series_scale": sc, "mov": mv}
         for n, v in P.items(): setattr(E, NAMES[n], v)
         preds = {}
@@ -103,6 +103,7 @@ def main():
 
 
 if __name__ == "__main__":
+    E.configure(next((a for a in sys.argv if a in E.DISCIPLINES), "cs2"))  # p. ej. python train_cs2.py dota2 [mercado|mapas]
     if "fetch" in sys.argv: fetch_games()
     elif "mapas" in sys.argv:  # solo recalibra el 3er mapa con los parámetros guardados
         d = pd.read_csv(E.HIST); d["date"] = pd.to_datetime(d["date"], utc=True); d = d.sort_values("date")

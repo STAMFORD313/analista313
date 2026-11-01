@@ -159,3 +159,8 @@ st = {"signals": [{"key": "cs2|1", "market": "AHH", "line": -1.5}, {"key": "cs2|
 esports.settle(pd.DataFrame([{"id": 1, "s1": 2, "s2": 0, "winner_id": 5}, {"id": 2, "s1": 1, "s2": 0, "winner_id": 5}]), st)
 assert [s["result"] for s in st["signals"]] == [True, False, False, True, "nula"]
 print("ok cs2 mercados de mapas")
+esports.configure("dota2")
+assert esports.DISC == 4 and esports.HIST.parent.name == "dota2" and esports.TITLE.endswith("Dota 2")
+esports.configure("cs2")
+assert esports.DISC == 1 and esports.SLUG == "cs2"
+print("ok más esports")

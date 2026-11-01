@@ -1,7 +1,7 @@
-"""Counter-Strike 2 con la API pública de bo3.gg: ~77.000 partidos de historial, cuotas reales de Thunderpick
-(casa de esports) y ganador del partido. Modelo: Elo por MAPA (cada mapa ganado cuenta) con peso por nivel del
-torneo, rating inicial según el nivel, castigo por cambio de plantilla y conversión mapa → serie (BO1/BO3/BO5)."""
-import json, math
+"""Esports con la API pública de bo3.gg (CS2, Dota 2, LoL, R6 Siege, MLBB): historial, cuotas reales de Thunderpick
+y ganador. Modelo: Elo por MAPA/partida (en CS2 con margen de rondas) con K extra para equipos nuevos, vuelta al rating
+inicial por inactividad y conversión mapa → serie (BO1/BO3/BO5); en BO3 también total de mapas y hándicap ±1.5."""
+import json, math, time
 
 import pandas as pd
 import requests
@@ -9,28 +9,40 @@ import requests
 import analyst as A
 
 API = "https://api.bo3.gg/api/v1/matches"
-DIR = A.DATA / "cs2"
-HIST = DIR / "matches.csv"
-GAMES = DIR / "games.csv"  # un mapa por fila (rondas y ganador), desde 2023 (train_cs2.py fetch) y luego cada hora
-ODDS = DIR / "odds.csv"  # cuotas previas de Thunderpick (la última vista antes del inicio)
 COLS = ["id", "date", "team1", "team2", "t1_id", "t2_id", "s1", "s2", "winner_id", "bo", "tier", "tournament"]
 TIER_K_BASE = {"s": 1.25, "a": 1.1, "b": 1.0, "c": 0.85, "d": 0.7}       # los torneos grandes enseñan más
 TIER_START_BASE = {"s": 1650, "a": 1600, "b": 1520, "c": 1450, "d": 1400}  # rating de un equipo nuevo según dónde juega
-_P = json.loads((DIR / "params.json").read_text()) if (DIR / "params.json").exists() else {}  # lo ajusta train_cs2.py
-K = _P.get("K", 24)
-TIER_K = {t: 1 + (v - 1) * _P.get("tier_scale", 1) for t, v in TIER_K_BASE.items()}
-TIER_START = {t: 1500 + (v - 1500) * _P.get("start_spread", 1) for t, v in TIER_START_BASE.items()}
-NEW_K = _P.get("new_k", 0)    # equipos nuevos: K más alto las primeras series
-DECAY = _P.get("decay", 0)    # vuelta al rating inicial por inactividad (por año)
-K_BO1 = _P.get("k_bo1", 1)                # peso extra de un BO1 (un único mapa decide la serie)
-SERIES_SCALE = _P.get("series_scale", 1)
-MAPS3 = _P.get("maps3", [0, 1])  # recalibración de la prob. de ir al 3er mapa en BO3 (ver bo3_scores)
-MOV = _P.get("mov", 0)  # margen de rondas: K × (ln(dif+1)/ln 7)^MOV (13-7 → ×1)  # escala de la diferencia de Elo en BO3/BO5
-TITLE = "🎮 CS2"
+# disciplinas de bo3.gg con cuotas de Thunderpick: carpeta/clave → (discipline_id, icono, nombre). Valorant (2) no trae partidos.
+DISCIPLINES = {"cs2": (1, "🎮", "CS2"), "dota2": (4, "🐉", "Dota 2"), "lol": (3, "🧙", "LoL"), "r6": (7, "🔫", "R6 Siege"),
+               "mlbb": (8, "📱", "MLBB")}
+
+
+def configure(slug):
+    """Apunta el módulo a una disciplina: sus archivos en data/<slug>/ y sus parámetros entrenados (train_cs2.py <slug>)."""
+    global SLUG, DISC, ICON, NAME, TITLE, DIR, HIST, GAMES, ODDS, K, TIER_K, TIER_START, NEW_K, DECAY, K_BO1, SERIES_SCALE, MAPS3, MOV
+    SLUG, (DISC, ICON, NAME) = slug, DISCIPLINES[slug]
+    TITLE = f"{ICON} {NAME}"
+    DIR = A.DATA / slug
+    HIST = DIR / "matches.csv"
+    GAMES = DIR / "games.csv"  # un mapa por fila (rondas y ganador; solo CS2), desde 2023 (train_cs2.py fetch) y luego cada hora
+    ODDS = DIR / "odds.csv"    # cuotas previas de Thunderpick (la última vista antes del inicio)
+    P = json.loads((DIR / "params.json").read_text()) if (DIR / "params.json").exists() else {}  # lo ajusta train_cs2.py
+    K = P.get("K", 24)
+    TIER_K = {t: 1 + (v - 1) * P.get("tier_scale", 1) for t, v in TIER_K_BASE.items()}
+    TIER_START = {t: 1500 + (v - 1500) * P.get("start_spread", 1) for t, v in TIER_START_BASE.items()}
+    NEW_K = P.get("new_k", 0)                # equipos nuevos: K más alto las primeras series
+    DECAY = P.get("decay", 0)                # vuelta al rating inicial por inactividad (por año)
+    K_BO1 = P.get("k_bo1", 1)                # peso extra de un BO1 (un único mapa decide la serie)
+    SERIES_SCALE = P.get("series_scale", 1)  # escala de la diferencia de Elo en BO3/BO5
+    MAPS3 = P.get("maps3", [0, 1])           # recalibración de la prob. de ir al 3er mapa en BO3 (ver bo3_scores)
+    MOV = P.get("mov", 0)                    # margen de rondas: K × (ln(dif+1)/ln 7)^MOV (13-7 → ×1)
+
+
+configure("cs2")
 
 
 def get(**params):
-    p = {"page[limit]": 100, "filter[matches.discipline_id][eq]": 1, "with": "teams,tournament", **params}
+    p = {"page[limit]": 100, "filter[matches.discipline_id][eq]": DISC, "with": "teams,tournament", **params}
     r = requests.get(API, params=p, headers=A.UA, timeout=60)
     r.raise_for_status()
     return r.json()
@@ -71,6 +83,7 @@ def update_history(max_pages=800):
         rows += [r for r in batch if r["id"] not in known]
         games += [g for m in res if m["id"] not in known for g in game_rows(m)]
         if not res or any(r["id"] in known for r in batch): break
+        time.sleep(0.3)  # pausa corta entre páginas (la primera descarga son cientos)
     df = pd.concat([old, pd.DataFrame(rows, columns=COLS)], ignore_index=True).drop_duplicates("id")
     df = df[df.winner_id.notna()]
     df.to_csv(HIST, index=False)
@@ -132,7 +145,7 @@ def form(df, tid, n=5):
 
 
 def settle(df, state):
-    done = {f"cs2|{r['id']}": r for r in df.tail(5000).to_dict("records")}
+    done = {f"{SLUG}|{r['id']}": r for r in df.tail(5000).to_dict("records")}
     for s in state["signals"]:
         r = done.get(s["key"])
         if s.get("result") is None and r is not None:
@@ -197,8 +210,16 @@ def save_odds(up, now):
 
 
 def run(state, today, kg):
+    for slug in DISCIPLINES:
+        configure(slug)
+        try: run_one(state, today, kg)
+        except Exception as e: print(slug, "error:", repr(e))  # un esport roto no tumba los demás
+    configure("cs2")
+
+
+def run_one(state, today, kg):
     df = update_history()
-    print(f"cs2: {len(df)} partidos de historial")
+    print(f"{SLUG}: {len(df)} partidos de historial")
     settle(df, state)
     R, n, tier, last, *_ = map_elo(games=load_games(), df=df[df.date >= pd.Timestamp.now(tz="UTC") - pd.DateOffset(years=4)])  # el CS cambia rápido: 4 años
     now = pd.Timestamp.now(tz="UTC")
@@ -207,10 +228,10 @@ def run(state, today, kg):
         print("bo3.gg", e); return
     save_odds(up, now)
     for m in up:
-        start, bet, key = pd.Timestamp(m["start_date"]), m.get("bet_updates") or {}, f"cs2|{m['id']}"
+        start, bet, key = pd.Timestamp(m["start_date"]), m.get("bet_updates") or {}, f"{SLUG}|{m['id']}"
         if not (now < start < now + pd.Timedelta(hours=36)) or key in state["analyzed"]: continue
         g = row(m)
-        if not g: continue
+        if not g or g["bo"] % 2 == 0: continue  # BO2 admite empate: el Elo de serie no lo cubre
         r1, r2 = (decayed(R[t], (start - last[t]).days, TIER_START.get(tier[t], 1450)) if t in R else TIER_START.get(g["tier"], 1450)
                   for t in (g["t1_id"], g["t2_id"]))
         p_map = map_prob(r1, r2, g["bo"])
@@ -239,9 +260,9 @@ def run(state, today, kg):
                 f"• H2H: {h2h}",
                 f"• Torneo: {A.esc(g['tournament'])} (nivel {g['tier'].upper()})",
                 f"• Cambios de plantilla: {A.esc(', '.join(roster)) if roster else 'ninguno'}"]
-        context = (f"CS2 {g['team1']} vs {g['team2']}, BO{g['bo']}, torneo {g['tournament']} nivel {g['tier']}. Elo por mapa "
+        context = (f"{NAME} {g['team1']} vs {g['team2']}, BO{g['bo']}, torneo {g['tournament']} nivel {g['tier']}. Elo por mapa "
                    f"{r1:.0f} vs {r2:.0f} (prob. mapa {p_map:.0%}, serie {p:.0%}). Forma {form(df, g['t1_id'])} / {form(df, g['t2_id'])} "
                    f"(✅ victoria ❌ derrota). H2H {h2h}. Cambios de plantilla: {', '.join(roster) or 'ninguno'}. Cuotas Thunderpick {o1}/{o2}.")
         for v in vb:
             state["signals"].append({**v, "key": key, "match": f"{g['team1']} vs {g['team2']}", "start": start.isoformat(),
-                                     "league": f"{TITLE} · {g['tournament']}", "sport": "🎮", "info": info, "context": context})
+                                     "league": f"{TITLE} · {g['tournament']}", "sport": ICON, "info": info, "context": context})
