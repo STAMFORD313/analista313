@@ -1,6 +1,6 @@
 # 🏈 NFL · apuestas de valor
 
-Actualizado 01/11/2026 22:35 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 01/11/2026 22:37 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Washington Commanders vs Philadelphia Eagles — 02/11 · 02:20
 
@@ -17,25 +17,6 @@ Más 55% · Menos 45%
 • Forma: Washington Commanders ❌✅❌➖❌ | Philadelphia Eagles ❌❌❌❌❌  
 • H2H: 16 desde 2019: 5-11  
 • Bajas: Washington Commanders: 6 fuera, 19 duda (Jer'Zhan Newton, Daron Payne, Javon Kinlaw); Philadelphia Eagles: 7 fuera, 18 duda (Jakorian Bennett, Jihaad Campbell, Britain Covey)  
-
-## Washington Commanders vs Philadelphia Eagles — 02/11 · 02:20
-
-💵 **APOSTADA** · 🏈 NFL · **Gana Philadelphia Eagles** @ **3.20** (DraftKings) · prob 40% vs casas 30% · ventaja +30%
-
-- ❌ Probabilidad 40% (mín. 55%)
-- ✅ Ventaja +30% (entre 5% y 30%)
-- ✅ Segmento «🏈 no favorito» sin pérdidas
-- ❌ IA: sin revisar (no pasó lo anterior)
-
-📊 **Escenarios** (Elo con 3.252 partidos y bajas)  
-Gana Washington Commanders 49% · Gana Philadelphia Eagles 51%  
-Casas: Washington Commanders 70% · Philadelphia Eagles 30%  
-Hándicap WSH -6 · Total puntos 40.5  
-🔎 **Claves**  
-• Forma: Washington Commanders ❌✅❌➖❌ | Philadelphia Eagles ❌❌❌❌❌  
-• H2H: 16 desde 2019: 5-11  
-• Bajas: Washington Commanders: 6 fuera, 19 duda (Jer'Zhan Newton, Daron Payne, Javon Kinlaw); Philadelphia Eagles: 7 fuera, 18 duda (Jakorian Bennett, Jihaad Campbell, Britain Covey)  
-• Favorito de las casas: Washington Commanders @ 1.37  
 
 ## Seattle Seahawks vs Chicago Bears — 03/11 · 02:15
 

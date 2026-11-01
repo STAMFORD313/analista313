@@ -1,6 +1,6 @@
 # 🏀 NBA · apuestas de valor
 
-Actualizado 01/11/2026 22:35 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 01/11/2026 22:37 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Indiana Pacers vs Brooklyn Nets — 01/11 · 23:00
 
@@ -87,23 +87,4 @@ Más 51% · Menos 49%
 • Forma: Los Angeles Lakers ✅✅❌✅❌ | Toronto Raptors ✅✅❌✅❌  
 • H2H: 20 desde 2016: 9-11  
 • Bajas: Los Angeles Lakers: 2 fuera, 0 duda (Ziaire Williams, Adou Thiero); Toronto Raptors: 2 fuera, 0 duda (Kawhi Leonard, Nate Bittle)  
-
-## Los Angeles Lakers vs Toronto Raptors — 02/11 · 03:00
-
-💵 **APOSTADA** · 🏀 NBA · **Gana Los Angeles Lakers** @ **1.68** (DraftKings) · prob 63% vs casas 57% · ventaja +6%
-
-- ✅ Probabilidad 63% (mín. 55%)
-- ✅ Ventaja +6% (entre 5% y 30%)
-- ✅ Segmento «🏀 favorito» sin pérdidas
-- ❌ IA: sin revisar (no pasó lo anterior)
-
-📊 **Escenarios** (Elo con 13.690 partidos y bajas)  
-Gana Los Angeles Lakers 69% · Gana Toronto Raptors 31%  
-Casas: Los Angeles Lakers 57% · Toronto Raptors 43%  
-Hándicap LAL -2.5 · Total puntos 224.5  
-🔎 **Claves**  
-• Forma: Los Angeles Lakers ✅✅❌✅❌ | Toronto Raptors ✅✅❌✅❌  
-• H2H: 20 desde 2016: 9-11  
-• Bajas: Los Angeles Lakers: 2 fuera, 0 duda (Ziaire Williams, Adou Thiero); Toronto Raptors: 2 fuera, 0 duda (Kawhi Leonard, Nate Bittle)  
-• Favorito de las casas: Los Angeles Lakers @ 1.68  
 
