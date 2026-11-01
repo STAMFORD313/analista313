@@ -6,7 +6,7 @@ import analyst as A
 import bankroll as B
 
 SPORTS = {"⚽": ("futbol", "Fútbol"), "🏀": ("nba", "NBA"), "🏈": ("nfl", "NFL"), "🏒": ("nhl", "NHL"),
-          "⚾": ("mlb", "MLB"), "🥊": ("ufc", "UFC"), "🎮": ("cs2", "CS2"), "🐉": ("dota2", "Dota 2"), "🧙": ("lol", "LoL"),
+          "⚾": ("mlb", "MLB"), "🥊": ("ufc", "UFC"), "🎾": ("tenis", "Tenis"), "🎮": ("cs2", "CS2"), "🐉": ("dota2", "Dota 2"), "🧙": ("lol", "LoL"),
           "🔫": ("r6", "R6 Siege"), "📱": ("mlbb", "MLBB")}
 PAGES = A.DATA.parent / "apuestas"
 RADAR_HOUR, RADAR_TOP = 10, 5  # a partir de las 10:00 (España), una vez al día, las 5 más cercanas
