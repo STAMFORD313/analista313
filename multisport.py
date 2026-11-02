@@ -24,7 +24,7 @@ DIR = A.DATA / "espn"
 _P = json.loads((A.DATA / "espn_params.json").read_text()) if (A.DATA / "espn_params.json").exists() else {}  # lo ajusta train_espn.py
 for _l, _p in _P.items(): SPORTS[_l] = (*SPORTS[_l][:3], _p["hfa"], _p["K"])
 TOT = json.loads(totals_model.PARAMS.read_text()) if totals_model.PARAMS.exists() else {}  # lo ajusta totals_model.py
-SPREAD = TOT.get("spread", {})  # margen desde el Elo para el hándicap (NBA, NFL)
+SPREAD = {**TOT.get("spread", {}), **{l: c["spread"] for l, c in _P.items() if "spread" in c}}  # margen desde el Elo (NBA, NFL)
 TOT = {l: c for l, c in TOT.items() if l != "spread" and c["ou"] < c["ou_old"]}  # solo ligas donde mejora el más/menos
 COLS = ["id", "date", "event", "home", "away", "hs", "as", "res"]
 
@@ -150,11 +150,16 @@ def points_model(df, league, today):
     return A.strengths(d, league, today, c.get("k", 5.0), c.get("half_life", 365)), float((recent.FTHG + recent.FTAG).std())
 
 
-def total_signals(model, home, away, line, oo, ou, league=None):
+def over_prob(model, home, away, line, league=None):
+    """(prob. de superar la línea, total esperado) con el modelo de puntos."""
     (mu_h, mu_a, s), sd = model
     exp = mu_h * s["att_h"].get(home, 1) * s["def_a"].get(away, 1) + mu_a * s["att_a"].get(away, 1) * s["def_h"].get(home, 1)
-    p_over = (totals_model.p_over(league, exp, line, TOT) if league in TOT else
-              0.5 * (1 - math.erf((line - exp) / (sd * math.sqrt(2)))))  # normal(total esperado, sd histórica)
+    return (totals_model.p_over(league, exp, line, TOT) if league in TOT else
+            0.5 * (1 - math.erf((line - exp) / (sd * math.sqrt(2))))), exp  # normal(total esperado, sd histórica)
+
+
+def total_signals(model, home, away, line, oo, ou, league=None):
+    p_over, exp = over_prob(model, home, away, line, league)
     inv, out = 1 / oo + 1 / ou, []
     for side, p, o in (("over", p_over, oo), ("under", 1 - p_over, ou)):
         q = 0.5 * p + 0.5 / o / inv
@@ -212,6 +217,25 @@ def line_details(odds):
     except (TypeError, IndexError, AttributeError): return "", None
 
 
+def save_odds(league, games, now, prob, pts):
+    """Guarda la última cuota PREVIA de DraftKings de cada partido (moneyline, total y hándicap) con la prob. del modelo
+    en ese momento: train_espn.py informe mide con ellas log-loss frente al mercado, mezcla óptima y ROI."""
+    rows = []
+    for g in games:
+        (oh, oa), (tl, to, tu), (sl, sh, sa) = moneyline(g["odds"]), totals(g["odds"]), spreads(g["odds"])
+        if not (oh or to or sh): continue
+        p = prob(g)
+        rows.append({"id": g["id"], "seen": now.isoformat(), "start": g["date"], "home": g["home"], "away": g["away"],
+                     "p": round(p, 4), "oh": oh, "oa": oa, "tl": tl, "to": to, "tu": tu,
+                     "p_over": round(over_prob(pts, g["home"], g["away"], tl, league)[0], 4) if pts and tl and to else None,
+                     "sl": sl, "sh": sh, "sa": sa,
+                     "p_cover": round(totals_model.p_cover(league, p, sl, {"spread": SPREAD}), 4) if league in SPREAD and sl is not None else None})
+    if not rows: return
+    f = DIR / f"odds_{league}.csv"
+    old = pd.read_csv(f, dtype={"id": str}) if f.exists() else pd.DataFrame()
+    pd.concat([old, pd.DataFrame(rows)]).drop_duplicates("id", keep="last").to_csv(f, index=False)
+
+
 def run_league(league, state, today, kg):
     path, title, sport, hfa, k = SPORTS[league]
     df = update_history(league, today)
@@ -225,21 +249,23 @@ def run_league(league, state, today, kg):
         try: games.update({g["id"]: g for g in parse(get(f"{path}/scoreboard", dates=f"{d:%Y%m%d}", limit=1000)) if g["state"] == "pre"})
         except (requests.RequestException, ValueError, KeyError) as e: print("ESPN", league, d, e)
     now = pd.Timestamp.now(tz="UTC")
-    new = [g for g in games.values() if key(league, g) not in state["analyzed"]
-           and pd.Timestamp(g["date"]) > now and "TBD" not in (g["home"], g["away"])]
-    if not new: return
+    pre = [g for g in games.values() if pd.Timestamp(g["date"]) > now and "TBD" not in (g["home"], g["away"])]
+    new = [g for g in pre if key(league, g) not in state["analyzed"]]
+    if not pre: return
     inj = injuries(league)
     if not k:  # tenis (Elo por superficie) y UFC: modelos de agente-datos; los partidos de hoy predicen sin actualizar
         up = pd.DataFrame([{"date": pd.Timestamp(g["date"]), "home": g["home"], "away": g["away"], "event": g["event"],
-                            "res": math.nan} for g in new], index=[g["id"] for g in new])
+                            "res": math.nan} for g in pre], index=[g["id"] for g in pre])
         allg = pd.concat([df, up]).sort_values("date", kind="stable")
         pred = (tennis_model.predict(league, allg) if league in ("atp", "wta") else ufc_model.elo(allg, **{
             c: v for c, v in json.loads(ufc_model.PARAMS.read_text()).items() if c in ("kt", "pw", "hfa", "idle", "keep")})[0])
         pred = dict(zip(allg.index, pred))
+    prob = lambda g: pred[g["id"]] if not k else win_prob(R, g["home"], g["away"], hfa + injury_elo(inj.get(g["home"], [])) - injury_elo(inj.get(g["away"], [])))
+    save_odds(league, pre, now, prob, pts)
     for g in sorted(new, key=lambda g: g["date"]):
         home, away = g["home"], g["away"]
         squads = [inj.get(t, []) for t in (home, away)]
-        p = pred[g["id"]] if not k else win_prob(R, home, away, hfa + injury_elo(squads[0]) - injury_elo(squads[1]))
+        p = prob(g)
         hh = df[((df.home == home) & (df.away == away)) | ((df.home == away) & (df.away == home))]
         wins = lambda t: int((((hh.home == t) & (hh.res == 1)) | ((hh.away == t) & (hh.res == 0))).sum())
         h2h = f"{len(hh)} desde {hh.date.min():%Y}: {wins(home)}-{wins(away)}" if len(hh) else "sin precedentes"
