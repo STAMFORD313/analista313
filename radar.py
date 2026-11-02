@@ -4,10 +4,11 @@ import pandas as pd
 
 import analyst as A
 import bankroll as B
+import esports
 
 SPORTS = {"⚽": ("futbol", "Fútbol"), "🏀": ("nba", "NBA·NCAA"), "🏈": ("nfl", "NFL·NCAA"), "🏆": ("europa", "Champions·Europa"), "🏒": ("nhl", "NHL"),
-          "⚾": ("mlb", "MLB"), "🥊": ("ufc", "UFC"), "🎾": ("tenis", "Tenis"), "🎮": ("cs2", "CS2"), "🐉": ("dota2", "Dota 2"), "🧙": ("lol", "LoL"),
-          "🔫": ("r6", "R6 Siege"), "📱": ("mlbb", "MLBB")}
+          "⚾": ("mlb", "MLB"), "🥊": ("ufc", "UFC"), "🎾": ("tenis", "Tenis")}
+SPORTS.update({icon: (slug, name) for slug, (_, icon, name) in esports.DISCIPLINES.items()})  # cada esport nuevo (p. ej. FC 27) sale solo
 PAGES = A.DATA.parent / "apuestas"
 RADAR_HOUR, RADAR_TOP = 10, 5  # a partir de las 10:00 (España), una vez al día, las 5 más cercanas
 
