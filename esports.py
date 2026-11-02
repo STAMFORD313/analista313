@@ -14,7 +14,7 @@ TIER_K_BASE = {"s": 1.25, "a": 1.1, "b": 1.0, "c": 0.85, "d": 0.7}       # los t
 TIER_START_BASE = {"s": 1650, "a": 1600, "b": 1520, "c": 1450, "d": 1400}  # rating de un equipo nuevo según dónde juega
 # disciplinas de bo3.gg con cuotas de Thunderpick: carpeta/clave → (discipline_id, icono, nombre). Valorant (2) no trae partidos.
 DISCIPLINES = {"cs2": (1, "🎮", "CS2"), "dota2": (4, "🐉", "Dota 2"), "lol": (3, "🧙", "LoL"), "r6": (7, "🔫", "R6 Siege"),
-               "mlbb": (8, "📱", "MLBB")}
+               "mlbb": (8, "📱", "MLBB"), "fc": (None, "🎮⚽", "FC 27")}  # FC 27 no está en bo3.gg: lo lleva esoccer.py
 
 
 def configure(slug):
@@ -255,7 +255,7 @@ def market_report():
 def market_report_md():
     """Tabla Markdown del informe frente a Thunderpick por esport (para ESTADISTICAS.md)."""
     out = ["| Esport | Partidos | Log-loss modelo | Mezcla del bot | Mercado | Apuestas | ROI (± error) |", "|---|---|---|---|---|---|---|"]
-    for slug in DISCIPLINES:
+    for slug in [s for s, d in DISCIPLINES.items() if d[0] is not None]:  # FC 27 no tiene cuotas
         configure(slug)
         r = market_report()
         if not r["n"]: out.append(f"| {TITLE} | 0 | — | — | — | — | — |"); continue
@@ -293,7 +293,9 @@ def players_lines(g):
 def run(state, today, kg):
     for slug in DISCIPLINES:
         configure(slug)
-        try: run_one(state, today, kg)
+        try:
+            if DISC is None: __import__("esoccer").run(state, today, kg)
+            else: run_one(state, today, kg)
         except Exception as e: print(slug, "error:", repr(e))  # un esport roto no tumba los demás
     configure("cs2")
 

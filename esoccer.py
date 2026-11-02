@@ -1,0 +1,169 @@
+"""EA SPORTS FC (Esoccer Battle, partidos de 8 min) con la API JSON pública de football.esportsbattle.com (sin clave;
+robots.txt: Allow /). Modelo: goles Poisson por partido con ataque/defensa por JUGADOR aprendidos online y nivel de goles
+por liga (Volta, 2x4, 2x6...) → 1X2, total de goles y hándicap. No hay cuotas gratuitas legítimas de esoccer: las señales
+salen como candidatas a cuota justa (ventaja 0, el bot no las apuesta) para medir calibración hasta tener cuotas."""
+import json, math, time
+
+import pandas as pd
+import requests
+
+import analyst as A
+
+API = "https://football.esportsbattle.com/api"
+DIR = A.DATA / "fc"
+HIST = DIR / "matches.csv"
+COLS = ["id", "date", "tournament_id", "league", "p1", "p2", "s1", "s2"]
+SLUG, ICON, NAME = "fc", "🎮⚽", "FC 27"
+TITLE = f"{ICON} {NAME}"
+_P = json.loads((DIR / "params.json").read_text()) if (DIR / "params.json").exists() else {}  # lo ajusta train_fc.py
+LR = _P.get("lr", 0.03)        # paso del ataque/defensa de cada jugador por partido
+LR_LEAGUE = _P.get("lr_league", 0.01)
+SHRINK = _P.get("shrink", 0.0)  # encogimiento de las fuerzas hacia 0 por partido (olvido)
+MAX_GOALS = 15
+PER_RUN = 3                     # candidatas por run (hay ~1.500 partidos al día): las de pick más seguro en las próximas 2 h
+
+
+def get(path, **params):
+    r = requests.get(f"{API}/{path}", params=params, headers=A.UA, timeout=30)
+    r.raise_for_status()
+    return r.json()
+
+
+def tournaments(day_from, day_to):
+    out, page = [], 1
+    while True:
+        d = get("tournaments", page=page, dateFrom=f"{day_from:%Y-%m-%d}", dateTo=f"{day_to + pd.Timedelta(days=1):%Y-%m-%d}")  # dateTo excluye ese día
+        out += d.get("tournaments", [])
+        if page >= d.get("totalPages", 1): return out
+        page += 1; time.sleep(0.3)
+
+
+def match_rows(t, finished=True):
+    """Partidos de un torneo: terminados (status 3) o programados (status 1)."""
+    league = (t.get("league") or {}).get("token_international", "")
+    return [{"id": m["id"], "date": m["date"], "tournament_id": t["id"], "league": league,
+             "p1": m["participant1"]["nickname"], "p2": m["participant2"]["nickname"],
+             "s1": m["participant1"].get("score"), "s2": m["participant2"].get("score")}
+            for m in get(f"tournaments/{t['id']}/matches") if m.get("status_id") == (3 if finished else 1)]
+
+
+def update_history(days=2, pause=0.3):
+    """Guarda los partidos de los torneos TERMINADOS (status 4) aún no guardados de los últimos `days` días."""
+    DIR.mkdir(parents=True, exist_ok=True)
+    old = pd.read_csv(HIST) if HIST.exists() else pd.DataFrame(columns=COLS)
+    known, rows, now = set(old.tournament_id), [], pd.Timestamp.now(tz="UTC")
+    try: ts = [t for t in tournaments(now - pd.Timedelta(days=days), now) if t.get("status_id") == 4 and t["id"] not in known]
+    except (requests.RequestException, ValueError) as e: print("esportsbattle", e); ts = []
+    for t in ts:
+        try: rows += match_rows(t)
+        except (requests.RequestException, ValueError) as e: print("esportsbattle", t["id"], e)  # se reintenta en el siguiente run
+        time.sleep(pause)
+    df = pd.concat([old, pd.DataFrame(rows, columns=COLS)], ignore_index=True).drop_duplicates("id").dropna(subset=["s1", "s2"])
+    df.to_csv(HIST, index=False)
+    df["date"] = pd.to_datetime(df["date"], utc=True)
+    return df.sort_values(["date", "id"], ignore_index=True)
+
+
+def poisson(k, lam): return math.exp(-lam) * lam ** k / math.factorial(k)
+
+
+def markets(l1, l2):
+    """De goles esperados a 1X2, total de goles y diferencia (matriz Poisson independiente)."""
+    P = [[poisson(i, l1) * poisson(j, l2) for j in range(MAX_GOALS)] for i in range(MAX_GOALS)]
+    p1 = sum(P[i][j] for i in range(MAX_GOALS) for j in range(i))
+    px = sum(P[i][i] for i in range(MAX_GOALS))
+    tot = {g: sum(P[i][j] for i in range(MAX_GOALS) for j in range(MAX_GOALS) if i + j == g) for g in range(2 * MAX_GOALS)}
+    diff = {d: sum(P[i][j] for i in range(MAX_GOALS) for j in range(MAX_GOALS) if i - j == d) for d in range(-MAX_GOALS, MAX_GOALS)}
+    return {"1": p1, "X": px, "2": 1 - p1 - px}, tot, diff
+
+
+class Model:
+    """Goles de A contra B ~ Poisson(exp(base_liga + ataque_A − defensa_B)); actualización online (gradiente del log-lik)."""
+    def __init__(self, lr=None, lr_league=None, shrink=None):
+        self.lr, self.lrl, self.sh = LR if lr is None else lr, LR_LEAGUE if lr_league is None else lr_league, SHRINK if shrink is None else shrink
+        self.att, self.dfn, self.base, self.n = {}, {}, {}, {}
+
+    def lam(self, league, a, b):
+        return math.exp(self.base.get(league, 1.0) + self.att.get(a, 0) - self.dfn.get(b, 0))
+
+    def update(self, league, a, b, ga, gb):
+        for x, y, g in ((a, b, ga), (b, a, gb)):
+            r = g - self.lam(league, x, y)
+            self.att[x] = self.att.get(x, 0) * (1 - self.sh) + self.lr * r
+            self.dfn[y] = self.dfn.get(y, 0) * (1 - self.sh) - self.lr * r
+            self.base[league] = self.base.get(league, 1.0) + self.lrl * r
+        self.n[a] = self.n.get(a, 0) + 1; self.n[b] = self.n.get(b, 0) + 1
+
+
+def fit(df, since=None, model=None):
+    """Recorre el historial en orden; devuelve (modelo, log-loss 1X2 desde `since` con la predicción previa, nº)."""
+    m, loss, cnt = model or Model(), 0.0, 0
+    for r in df.itertuples():
+        if since is not None and r.date >= since:
+            p, _, _ = markets(m.lam(r.league, r.p1, r.p2), m.lam(r.league, r.p2, r.p1))
+            o = "1" if r.s1 > r.s2 else "2" if r.s2 > r.s1 else "X"
+            loss -= math.log(max(p[o], 1e-9)); cnt += 1
+        m.update(r.league, r.p1, r.p2, r.s1, r.s2)
+    return m, loss / max(cnt, 1), cnt
+
+
+def form(df, nick, n=5):
+    d = df[(df.p1 == nick) | (df.p2 == nick)].tail(n)
+    return "".join("✅" if (r.s1 > r.s2) == (r.p1 == nick) and r.s1 != r.s2 else "➖" if r.s1 == r.s2 else "❌" for r in d.itertuples()) or "—"
+
+
+def settle(df, state):
+    done = {f"{SLUG}|{r['id']}": r for r in df.tail(20000).to_dict("records")}
+    for s in state["signals"]:
+        r = done.get(s["key"])
+        if s.get("result") is None and r is not None:
+            s1, s2 = int(r["s1"]), int(r["s2"])
+            s["score"] = f"{s1}-{s2}"
+            s["result"] = {"H": s1 > s2, "D": s1 == s2, "A": s2 > s1}[s["market"]]
+
+
+def run(state, today, kg):
+    df = update_history()
+    print(f"{SLUG}: {len(df)} partidos de historial")
+    if df.empty: return
+    settle(df, state)
+    m, *_ = fit(df[df.date >= df.date.max() - pd.Timedelta(days=120)])
+    now = pd.Timestamp.now(tz="UTC")
+    cands = []
+    try:
+        for t in tournaments(now, now + pd.Timedelta(hours=3)):
+            if t.get("status_id") not in (2, 3) or not (now - pd.Timedelta(hours=3) < pd.Timestamp(t["start_date"]) < now + pd.Timedelta(hours=2)):
+                continue  # solo torneos en juego o que empiezan pronto (hay ~60 al día)
+            for g in match_rows(t, finished=False):
+                start, key = pd.Timestamp(g["date"]), f"{SLUG}|{g['id']}"
+                if not (now < start < now + pd.Timedelta(hours=2)) or key in state["analyzed"]: continue
+                l1, l2 = m.lam(g["league"], g["p1"], g["p2"]), m.lam(g["league"], g["p2"], g["p1"])
+                p, tot, diff = markets(l1, l2)
+                cands.append((max(p.values()), g, start, key, l1, l2, p, tot, diff))
+            time.sleep(0.3)
+    except (requests.RequestException, ValueError) as e:
+        print("esportsbattle", e); return
+    for _, g, start, key, l1, l2, p, tot, diff in sorted(cands, key=lambda c: -c[0])[:PER_RUN]:
+        state["analyzed"].append(key)
+        kg.match(TITLE, g["p1"], g["p2"], start, p, ([], []), "")
+        mk = max(p, key=p.get)
+        line = math.floor(l1 + l2) + 0.5
+        over = sum(v for k, v in tot.items() if k > line)
+        fav, sign = (g["p1"], 1) if l1 >= l2 else (g["p2"], -1)
+        hcp = {h: sum(v for d, v in diff.items() if d * sign > h) for h in (0.5, 1.5, 2.5)}  # favorito gana por más de h
+        info = [f"📊 <b>Escenarios</b> (Poisson por jugador, {len(df):_} partidos)".replace("_", "."),
+                f"Goles esperados: {A.esc(g['p1'])} {l1:.2f} · {A.esc(g['p2'])} {l2:.2f}",
+                f"Ganador: {A.esc(g['p1'])} {p['1']:.0%} · empate {p['X']:.0%} · {A.esc(g['p2'])} {p['2']:.0%}",
+                f"Total: más de {line:g} goles {over:.0%} · menos {1 - over:.0%}",
+                f"Hándicap {A.esc(fav)}: −1.5 {hcp[1.5]:.0%} · −2.5 {hcp[2.5]:.0%}",
+                "", "🔎 <b>Claves</b>",
+                f"• Forma: {A.esc(g['p1'])} {form(df, g['p1'])} | {A.esc(g['p2'])} {form(df, g['p2'])}",
+                f"• Partidos: {A.esc(g['p1'])} {m.n.get(g['p1'], 0)} | {A.esc(g['p2'])} {m.n.get(g['p2'], 0)}",
+                f"• Liga: {A.esc(g['league'])}",
+                "• Sin cuotas gratuitas de esoccer: cuota justa del modelo, solo candidata (no se apuesta)."]
+        state["signals"].append({"market": {"1": "H", "X": "D", "2": "A"}[mk], "pick": {"1": g["p1"], "X": "Empate", "2": g["p2"]}[mk],
+                                 "odds": round(1 / p[mk], 2), "book": "cuota justa (sin casa)", "p": round(p[mk], 3),
+                                 "implied": round(p[mk], 3), "edge": 0.0, "key": key, "match": f"{g['p1']} vs {g['p2']}",
+                                 "start": start.isoformat(), "league": f"{TITLE} · {g['league']}", "sport": ICON, "info": info,
+                                 "context": f"EA FC Esoccer Battle {g['p1']} vs {g['p2']} ({g['league']}): goles esperados {l1:.2f}-{l2:.2f}, "
+                                            f"1X2 {p['1']:.0%}/{p['X']:.0%}/{p['2']:.0%}. Sin cuotas de casa."})
