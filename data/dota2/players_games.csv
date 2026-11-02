@@ -21337,3 +21337,10 @@ game_id,match_id,slug,date,tier,bo,tournament_id,tournament,t1_id,t2_id,team1,te
 33070,132427,zenith-cn-vs-team-kinetix-02-11-2026,2026-11-02T04:10:00.000+00:00,b,3,6211,EPL World Series: Southeast Asia Season 19,25435,25225,Zenith,Team Kinetix,2,,25435,30,13
 33107,132439,zenith-cn-vs-direborn-02-11-2026,2026-11-02T07:30:00.000+00:00,b,3,6211,EPL World Series: Southeast Asia Season 19,25435,24344,Zenith,Direborn,1,,24344,40,25
 33106,132439,zenith-cn-vs-direborn-02-11-2026,2026-11-02T07:30:00.000+00:00,b,3,6211,EPL World Series: Southeast Asia Season 19,25435,24344,Zenith,Direborn,2,,24344,35,23
+33006,132358,legion_stack-vs-l1ga-team-02-11-2026,2026-11-02T10:00:00.000+00:00,b,3,6200,EPL Masters III,25401,15098,LEGION,HULIGANI,1,,15098,27,13
+33005,132358,legion_stack-vs-l1ga-team-02-11-2026,2026-11-02T10:00:00.000+00:00,b,3,6200,EPL Masters III,25401,15098,LEGION,HULIGANI,2,,15098,31,18
+33289,132824,potn9ki-vs-hellnight--02-11-2026,2026-11-02T12:15:00.000+00:00,b,3,6245,Esports Pro Circuit Season 3,15690,25605,potn9ki,HellNight-,1,,15690,52,39
+33288,132824,potn9ki-vs-hellnight--02-11-2026,2026-11-02T12:15:00.000+00:00,b,3,6245,Esports Pro Circuit Season 3,15690,25605,potn9ki,HellNight-,2,,25605,38,17
+33287,132824,potn9ki-vs-hellnight--02-11-2026,2026-11-02T12:15:00.000+00:00,b,3,6245,Esports Pro Circuit Season 3,15690,25605,potn9ki,HellNight-,3,,25605,26,23
+33009,132359,og-dota2-vs-yellow-submarine-02-11-2026,2026-11-02T13:00:00.000+00:00,b,3,6200,EPL Masters III,16714,16486,OG,Yellow Submarine,1,,16486,25,12
+33008,132359,og-dota2-vs-yellow-submarine-02-11-2026,2026-11-02T13:00:00.000+00:00,b,3,6200,EPL Masters III,16714,16486,OG,Yellow Submarine,2,,16486,37,20
