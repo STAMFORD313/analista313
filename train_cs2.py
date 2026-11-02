@@ -22,6 +22,21 @@ def fetch_games(years=3, pause=0.3):
     pd.DataFrame(games).drop_duplicates(["match_id", "n"]).to_csv(E.GAMES, index=False)
 
 
+def fetch_regions(pause=0.3):
+    """Región de cada equipo (país del equipo → region_id de bo3.gg) en data/<slug>/teams.csv, para el ajuste interregional."""
+    base = E.API.rsplit("/", 1)[0]
+    page = lambda path, **p: E.requests.get(f"{base}/{path}", params={"page[limit]": 100, **p}, headers=E.A.UA, timeout=60).json()
+    reg, teams = {}, []
+    for off in range(0, 400, 100): reg.update({c["id"]: c["region_id"] for c in page("countries", **{"page[offset]": off})["results"]})
+    for off in range(0, 100000, 100):
+        res = page("teams", **{"page[offset]": off, "filter[teams.discipline_id][eq]": E.DISC})["results"]
+        teams += [{"id": t["id"], "region": reg.get(t.get("country_id"))} for t in res]
+        if len(res) < 100: break
+        time.sleep(pause)
+    pd.DataFrame(teams).to_csv(E.DIR / "teams.csv", index=False)
+    print(E.SLUG, len(teams), "equipos")
+
+
 def vs_market(df, since, games):
     """Modelo vs cuotas PREVIAS de Thunderpick (data/cs2/odds.csv): log-loss y ROI plano con ventaja 5-30 %."""
     if not E.ODDS.exists(): return
@@ -66,6 +81,23 @@ def fit_maps3(df, s1, s2, games):
     return [round(float(w[0]), 4), round(float(w[1]), 4)]
 
 
+def tune_region(df, s1, s2, games):
+    """K del nivel de región elegido en el año -2 (fuera de muestra) y medido en el -1; lo guarda en params.json."""
+    y = dict(zip(df.id, df.winner_id == df.t1_id))
+    res = []
+    for rk in (0, 1, 2, 4, 8):
+        E.REGION_K, preds, ll = rk, {}, {True: [], False: []}
+        E.map_elo(df, s1, games, preds)
+        for i, (p, _) in preds.items(): ll[i in E.ID_B].append(-math.log(min(max(p if y[i] else 1 - p, 1e-6), 1)))
+        res.append((sum(ll[False]) / len(ll[False]), sum(ll[True]) / len(ll[True]), rk))
+        print(f"{E.SLUG} región K={rk}: año-2 {res[-1][0]:.4f} año-1 {res[-1][1]:.4f}", flush=True)
+    a, b, rk = min(res)
+    print(f"{E.SLUG}: región K={rk} (elegido en año-2) → año-1 {b:.4f} (sin región {res[0][1]:.4f})")
+    E.REGION_K = rk
+    (E.DIR / "params.json").write_text(json.dumps({**json.loads((E.DIR / "params.json").read_text()), "region_k": rk,
+                                                   "logloss_region": round(b, 4)}))
+
+
 NAMES = {"K": "K", "new_k": "NEW_K", "decay": "DECAY", "k_bo1": "K_BO1", "series_scale": "SERIES_SCALE", "mov": "MOV"}
 
 
@@ -97,6 +129,8 @@ def main():
     (E.DIR / "params.json").write_text(json.dumps({**best[2], "tier_scale": 0, "start_spread": 1, "logloss": round(best[1], 4),
                                                    "logloss_prev_year": round(best[0], 4), "oos_next_year": round(bestA[1], 4)}))
     for n, v in best[2].items(): setattr(E, NAMES[n], v)
+    E.ID_B = in_b
+    tune_region(df, s1, s2, games)
     maps3 = fit_maps3(df, s1, s2, games)
     (E.DIR / "params.json").write_text(json.dumps({**json.loads((E.DIR / "params.json").read_text()), "maps3": maps3}))
     vs_market(df, s2, games)
@@ -105,6 +139,12 @@ def main():
 if __name__ == "__main__":
     E.configure(next((a for a in sys.argv if a in E.DISCIPLINES), "cs2"))  # p. ej. python train_cs2.py dota2 [mercado|mapas]
     if "fetch" in sys.argv: fetch_games()
+    elif "regiones" in sys.argv: fetch_regions()
+    elif "region" in sys.argv:  # solo el K de región con los parámetros guardados
+        d = pd.read_csv(E.HIST); d["date"] = pd.to_datetime(d["date"], utc=True); d = d.sort_values("date")
+        d = d[d.date >= d.date.max() - pd.DateOffset(years=4)]
+        E.ID_B = set(d.id[d.date >= d.date.max() - pd.DateOffset(years=1)])
+        tune_region(d, d.date.max() - pd.DateOffset(years=2), d.date.max() - pd.DateOffset(years=1), E.load_games())
     elif "mapas" in sys.argv:  # solo recalibra el 3er mapa con los parámetros guardados
         d = pd.read_csv(E.HIST); d["date"] = pd.to_datetime(d["date"], utc=True); d = d.sort_values("date")
         d = d[d.date >= d.date.max() - pd.DateOffset(years=4)]

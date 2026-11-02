@@ -19,7 +19,7 @@ DISCIPLINES = {"cs2": (1, "🎮", "CS2"), "dota2": (4, "🐉", "Dota 2"), "lol":
 
 def configure(slug):
     """Apunta el módulo a una disciplina: sus archivos en data/<slug>/ y sus parámetros entrenados (train_cs2.py <slug>)."""
-    global SLUG, DISC, ICON, NAME, TITLE, DIR, HIST, GAMES, ODDS, K, TIER_K, TIER_START, NEW_K, DECAY, K_BO1, SERIES_SCALE, MAPS3, MOV
+    global SLUG, DISC, ICON, NAME, TITLE, DIR, HIST, GAMES, ODDS, K, TIER_K, TIER_START, NEW_K, DECAY, K_BO1, SERIES_SCALE, MAPS3, MOV, REGION_K
     SLUG, (DISC, ICON, NAME) = slug, DISCIPLINES[slug]
     TITLE = f"{ICON} {NAME}"
     DIR = A.DATA / slug
@@ -35,7 +35,8 @@ def configure(slug):
     K_BO1 = P.get("k_bo1", 1)                # peso extra de un BO1 (un único mapa decide la serie)
     SERIES_SCALE = P.get("series_scale", 1)  # escala de la diferencia de Elo en BO3/BO5
     MAPS3 = P.get("maps3", [0, 1])           # recalibración de la prob. de ir al 3er mapa en BO3 (ver bo3_scores)
-    MOV = P.get("mov", 0)                    # margen de rondas: K × (ln(dif+1)/ln 7)^MOV (13-7 → ×1)
+    MOV = P.get("mov", 0)
+    REGION_K = P.get("region_k", 0)          # K del nivel de región (cruces interregionales); 0 = sin ajuste                    # margen de rondas: K × (ln(dif+1)/ln 7)^MOV (13-7 → ×1)
 
 
 configure("cs2")
@@ -99,17 +100,32 @@ def decayed(r, gap_days, start):
     return start + (r - start) * math.exp(-(gap_days - 30) / 365 * DECAY)
 
 
+G = {}  # nivel aprendido de cada región (lo rellena map_elo)
+
+
+def load_regions():
+    """Equipo → región de bo3.gg (data/<slug>/teams.csv, train_cs2.py <slug> regiones).
+    shortcut: equipos creados después de bajar teams.csv no tienen región (sin ajuste); rehacerlo cada pocos meses."""
+    f = DIR / "teams.csv"
+    if not f.exists(): return {}
+    t = pd.read_csv(f).dropna()
+    return dict(zip(t.id, t.region.astype(int)))
+
+
 def map_elo(df, since=None, games=None, preds=None):
     """Elo por mapa: una serie 2-1 son 3 actualizaciones; los equipos con pocas series aprenden más rápido (K×(1+NEW_K/(1+n))).
     Devuelve (ratings, series jugadas, último nivel, última fecha, log-loss de series desde `since` predichas antes de jugarse)."""
     R, n, tier, last, loss, cnt = {}, {}, {}, {}, 0.0, 0
+    G.clear()  # nivel de cada región: solo lo mueven los cruces entre regiones (REGION_K)
+    reg = load_regions() if REGION_K else {}
+    off = lambda t: G.get(reg.get(t), 0.0)
     for r in df.itertuples():
         for t in (r.t1_id, r.t2_id):
             s0 = TIER_START.get(r.tier, 1450)
             R[t] = decayed(R[t], (r.date - last[t]).days, s0) if t in R else s0
             n.setdefault(t, 0); tier[t] = r.tier; last[t] = r.date
         if since is not None and r.date >= since:
-            pm = map_prob(R[r.t1_id], R[r.t2_id], r.bo)
+            pm = map_prob(R[r.t1_id] + off(r.t1_id), R[r.t2_id] + off(r.t2_id), r.bo)
             p = series_prob(pm, int(r.bo))
             loss -= math.log(min(max(p if r.winner_id == r.t1_id else 1 - p, 1e-6), 1)); cnt += 1
             if preds is not None: preds[r.id] = (p, pm)
@@ -121,9 +137,12 @@ def map_elo(df, since=None, games=None, preds=None):
             maps = [(1, 1)] * s1 + [(0, 1)] * s2
         k = K * TIER_K.get(r.tier, 1.0) * (K_BO1 if r.bo == 1 else 1)  # un BO1 es todo el partido en un mapa
         k1, k2 = k * (1 + NEW_K / (1 + n[r.t1_id])), k * (1 + NEW_K / (1 + n[r.t2_id]))
+        g1, g2 = reg.get(r.t1_id), reg.get(r.t2_id)
+        cross = g1 is not None and g2 is not None and g1 != g2
         for won1, mov in maps:
-            e = 1 / (1 + 10 ** ((R[r.t2_id] - R[r.t1_id]) / 400))
+            e = 1 / (1 + 10 ** ((R[r.t2_id] + off(r.t2_id) - R[r.t1_id] - off(r.t1_id)) / 400))
             R[r.t1_id] += k1 * mov * (won1 - e); R[r.t2_id] -= k2 * mov * (won1 - e)
+            if cross: G[g1] = G.get(g1, 0.0) + REGION_K * mov * (won1 - e); G[g2] = G.get(g2, 0.0) - REGION_K * mov * (won1 - e)
         n[r.t1_id] += 1; n[r.t2_id] += 1
     return R, n, tier, last, loss / max(cnt, 1), cnt
 
@@ -232,6 +251,7 @@ def run_one(state, today, kg):
     df = update_history()
     print(f"{SLUG}: {len(df)} partidos de historial")
     settle(df, state)
+    reg = load_regions() if REGION_K else {}
     R, n, tier, last, *_ = map_elo(games=load_games(), df=df[df.date >= pd.Timestamp.now(tz="UTC") - pd.DateOffset(years=4)])  # el CS cambia rápido: 4 años
     now = pd.Timestamp.now(tz="UTC")
     try: up = get(**{"sort": "start_date", "filter[matches.status][in]": "upcoming"})["results"]
@@ -245,6 +265,7 @@ def run_one(state, today, kg):
         if not g or g["bo"] % 2 == 0: continue  # BO2 admite empate: el Elo de serie no lo cubre
         r1, r2 = (decayed(R[t], (start - last[t]).days, TIER_START.get(tier[t], 1450)) if t in R else TIER_START.get(g["tier"], 1450)
                   for t in (g["t1_id"], g["t2_id"]))
+        r1, r2 = r1 + G.get(reg.get(g["t1_id"]), 0.0), r2 + G.get(reg.get(g["t2_id"]), 0.0)  # nivel de su región
         p_map = map_prob(r1, r2, g["bo"])
         p = series_prob(p_map, g["bo"])
         if SLUG == "cs2" and g["tier"] in ("s", "a", "b"): p = players_adjust(p, g["t1_id"], g["t2_id"])
@@ -263,7 +284,7 @@ def run_one(state, today, kg):
         vb = [v for v in cands if A.EDGE <= v["edge"] <= A.MAX_EDGE] or sorted(cands, key=lambda v: -v["edge"])[:1]
         if g["bo"] == 3: vb += extra_markets(bet, p_map, g)
         roster = [t for t, f in ((g["team1"], m.get("team1_new_participant")), (g["team2"], m.get("team2_new_participant"))) if f]
-        info = [f"📊 <b>Escenarios</b> (Elo por mapa, {len(df):,} partidos)".replace(",", "."),
+        info = [f"📊 <b>Escenarios</b> (Elo por mapa, {len(df):_} partidos)".replace("_", "."),
                 f"Mapa: {A.esc(g['team1'])} {p_map:.0%} · Serie BO{g['bo']}: {A.esc(g['team1'])} {p:.0%} - {1 - p:.0%} {A.esc(g['team2'])}",
                 f"Casas: {A.esc(g['team1'])} {1 / o1 / inv:.0%} · {A.esc(g['team2'])} {1 / o2 / inv:.0%}",
                 "", "🔎 <b>Claves</b>",
