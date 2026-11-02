@@ -265,15 +265,29 @@ def market_report_md():
     return "\n".join(out)
 
 
+PLAYER_SLUGS = ("cs2", "dota2", "lol")  # juegos con estadísticas por jugador en bo3.gg (R6 y MLBB no las publican)
+
+
 def players_adjust(p, t1, t2):
-    """CS2 S/A/B: corrige la prob. de serie con la plantilla actual, H2H y química de cs2_players.py (de [agente-grafo]).
-    Backtest fuera de muestra frente a este Elo: 0.6149 → 0.6112 (6.326 series). Sin sus datos devuelve p tal cual."""
+    """S/A/B de CS2, Dota 2 y LoL: corrige la prob. de serie con la plantilla actual, H2H y química de cs2_players.py
+    ([agente-grafo]). Walk-forward fuera de muestra frente a este Elo: CS2 0.6150 → 0.6089, Dota 2 0.6078 → 0.5906,
+    LoL 0.6070 → 0.5866. Sin sus datos devuelve p tal cual."""
     try:
         import cs2_players
-        return cs2_players.ajustar(p, t1, t2)
+        return cs2_players.ajustar(p, t1, t2, slug=SLUG)
     except ModuleNotFoundError: return p  # cs2_players.py aún no está en el repo
     except Exception as e:
         print("cs2_players:", repr(e)); return p
+
+
+def players_lines(g):
+    """Líneas del grafo de jugadores para la tarjeta (forma de los jugadores, mapas y química); [] si no hay datos."""
+    if SLUG not in PLAYER_SLUGS or g["tier"] not in ("s", "a", "b"): return []
+    try:
+        import cs2_players
+        return [A.esc(l) for l in cs2_players.card_lines(g["t1_id"], g["t2_id"], g["team1"], g["team2"], slug=SLUG)]
+    except Exception as e:
+        print("cs2_players:", repr(e)); return []
 
 
 def run(state, today, kg):
@@ -304,7 +318,7 @@ def run_one(state, today, kg):
         r1, r2 = r1 + G.get(reg.get(g["t1_id"]), 0.0), r2 + G.get(reg.get(g["t2_id"]), 0.0)  # nivel de su región
         p_map = map_prob(r1, r2, g["bo"])
         p = series_prob(p_map, g["bo"])
-        if SLUG == "cs2" and g["tier"] in ("s", "a", "b"): p = players_adjust(p, g["t1_id"], g["t2_id"])
+        if SLUG in PLAYER_SLUGS and g["tier"] in ("s", "a", "b"): p = players_adjust(p, g["t1_id"], g["t2_id"])
         return g, r1, r2, p_map, p
 
     save_odds(up, now, lambda m: round(x[4], 4) if (x := model(m)) else None)  # la prob. previa queda guardada para el informe
@@ -337,7 +351,7 @@ def run_one(state, today, kg):
                 f"• Forma: {A.esc(g['team1'])} {form(df, g['t1_id'])} | {A.esc(g['team2'])} {form(df, g['t2_id'])}",
                 f"• H2H: {h2h}",
                 f"• Torneo: {A.esc(g['tournament'])} (nivel {g['tier'].upper()})",
-                f"• Cambios de plantilla: {A.esc(', '.join(roster)) if roster else 'ninguno'}"]
+                f"• Cambios de plantilla: {A.esc(', '.join(roster)) if roster else 'ninguno'}", *players_lines(g)]
         context = (f"{NAME} {g['team1']} vs {g['team2']}, BO{g['bo']}, torneo {g['tournament']} nivel {g['tier']}. Elo por mapa "
                    f"{r1:.0f} vs {r2:.0f} (prob. mapa {p_map:.0%}, serie {p:.0%}). Forma {form(df, g['t1_id'])} / {form(df, g['t2_id'])} "
                    f"(✅ victoria ❌ derrota). H2H {h2h}. Cambios de plantilla: {', '.join(roster) or 'ninguno'}. Cuotas Thunderpick {o1}/{o2}.")
