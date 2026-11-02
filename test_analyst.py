@@ -117,6 +117,29 @@ assert A_.ai_json("hola") is None
 A_.GEMINI = None
 print("ok presupuesto IA")
 
+# IA: parseo tolerante, reintento y modelo de respaldo con 429 (sin red: cliente falso)
+assert A_.parse_json('```json\n{"apostar": false}\n```') == {"apostar": False} and A_.parse_json("{malo") is None and A_.parse_json(None) is None
+import types, google.genai as gg
+class E429(Exception): code = 429
+calls = []
+def fake_gen(model, contents, config):
+    calls.append(model)
+    if model == "m1": raise E429("cuota")
+    return types.SimpleNamespace(text='Claro: {"apostar": true, "confianza": 4, "motivo": "x"}')
+real_client, real_sleep = gg.Client, A_.time.sleep
+gg.Client = lambda **k: types.SimpleNamespace(models=types.SimpleNamespace(generate_content=fake_gen))
+A_.time.sleep, A_.GEMINI, A_._T0, A_.AI_MODELS = (lambda s: None), "x", A_.time.time(), ["m1", "m2"]
+assert A_.ai_json("p") == {"apostar": True, "confianza": 4, "motivo": "x", "_modelo": "m2"} and calls == ["m1", "m2"]
+assert A_.ai_json("p")["_modelo"] == "m2" and calls == ["m1", "m2", "m2"]  # m1 queda descartado en el run
+assert bankroll.ai_review({"match": "A vs B", "market": "H", "odds": 2.0, "p": 0.6, "edge": 0.2}) == (True, "x", 4, "m2")
+gg.Client, A_.time.sleep, A_.GEMINI = real_client, real_sleep, None
+cal["signals"].append({"key": "k3", "market": "H", "odds": 2.0, "p": 0.6, "implied": 0.5, "edge": 0.2, "start": "2026-11-02",
+                       "sport": "⚽", "result": False, "ai": {"apostar": True, "modelo": None}})
+bankroll.log_signals(cal)
+d = pd.read_csv(bankroll.LOG, keep_default_na=False)
+assert len(d) == 3 and d.ia.tolist() == ["", "", "sin IA"], d
+print("ok IA con respaldo")
+
 import radar
 s0 = {"key": "k9", "market": "U25", "odds": 2.0, "p": 0.5, "edge": 0.06, "match": "E vs F", "sport": "⚽"}
 assert [ok for ok, _ in radar.checklist(s0)] == [False, True, True, False]

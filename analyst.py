@@ -283,19 +283,34 @@ def absences_line(team, players):
 AI_BUDGET, _T0 = 25 * 60, time.time()  # tras 25 min de run, sin IA: el run tiene 60 min y no debe morir sin guardar
 
 
+AI_MODELS, _DEAD = [MODEL, "gemini-flash-lite-latest"], set()  # respaldo: el flash del plan gratis da 429 (cuota diaria) y 504
+
+
+def parse_json(txt):
+    """Primer objeto JSON del texto (tolera ```json y texto alrededor); None si no hay."""
+    m = re.search(r"\{.*\}", txt or "", re.S)
+    try: return json.loads(m.group(0)) if m else None
+    except ValueError: return None
+
+
 def ai_json(prompt):
+    """Respuesta JSON de Gemini con el modelo del run y, si falla (429/5xx/timeout/JSON malo), reintento y modelo de respaldo.
+    Añade "_modelo" con el modelo que respondió."""
     if not GEMINI or time.time() - _T0 > AI_BUDGET: return None
     from google import genai
-    client = genai.Client(api_key=GEMINI, http_options={"timeout": 60_000})  # variable aparte: si no, se cierra antes de la petición; 60 s máx. (sin límite una petición colgada agotaba los 60 min del run)
-    try:
-        txt = client.models.generate_content(model=MODEL, contents=prompt).text or ""
-        m = re.search(r"\{.*\}", txt, re.S)
-        return json.loads(m.group(0)) if m else None
-    except Exception as e:  # una respuesta mala de la IA no debe tumbar la ejecución
-        print("IA fallida", e)
-        return None
-    finally:
-        time.sleep(7)  # límite de peticiones por minuto del plan gratis
+    client = genai.Client(api_key=GEMINI, http_options={"timeout": 30_000})  # variable aparte: si no, se cierra antes de la petición
+    for model in [m for m in AI_MODELS if m not in _DEAD]:
+        for attempt in range(2):
+            try:
+                r = parse_json(client.models.generate_content(model=model, contents=prompt,
+                                                              config={"response_mime_type": "application/json"}).text)
+                if isinstance(r, dict): return {**r, "_modelo": model}
+            except Exception as e:  # una respuesta mala de la IA no debe tumbar la ejecución
+                print("IA fallida", model, str(e)[:150])
+                if getattr(e, "code", None) == 429: _DEAD.add(model); break  # cuota agotada: al siguiente modelo
+            finally:
+                time.sleep(4)  # límite de peticiones por minuto del plan gratis
+    return None
 
 
 # ---------- Telegram ----------

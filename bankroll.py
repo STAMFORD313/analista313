@@ -81,8 +81,8 @@ Mi modelo propone apostar a "{pick_text(s)}" a cuota {s['odds']} ({s.get('book',
 probabilidad implícita de las casas {s.get('implied', 1 / s['odds']):.0%}, ventaja {s['edge']:+.0%}.
 Valora forma, bajas (titulares o no), historial y contexto, y decide si la apuesta tiene valor real.
 Responde SOLO con JSON: {{"apostar": true, "confianza": 3, "motivo": "1-2 frases en español"}} (confianza de 1 a 5).""")
-    if not r: return True, None, None
-    return bool(r.get("apostar", True)), r.get("motivo"), r.get("confianza")
+    if not r: return True, None, None, None
+    return bool(r.get("apostar", True)), r.get("motivo"), r.get("confianza"), r["_modelo"]
 
 
 def single_card(s, stake, bank, reason, conf):
@@ -181,8 +181,8 @@ def place(bank, signals, today, kg):
     for s in sorted(new, key=lambda s: s["p"] * (1 + s["edge"]), reverse=True):
         if len(approved) >= MAX_SINGLES: break
         if s["p"] < SURE_P or not A.EDGE <= s["edge"] <= A.MAX_EDGE or segment(s) in bad: continue
-        ok, reason, conf = ai_review(s)
-        s["ai"] = {"apostar": ok, "motivo": reason, "confianza": conf}
+        ok, reason, conf, model = ai_review(s)
+        s["ai"] = {"apostar": ok, "motivo": reason, "confianza": conf, "modelo": model}
         if not ok or (str(conf).isdigit() and int(conf) < SURE_CONF): continue
         kelly = (s["p"] * s["odds"] - 1) / (s["odds"] - 1)
         stake = bet([s], bank["balance"] * min(KELLY * kelly, MAX_STAKE), s["odds"], f"{s['match']} → {pick_text(s)}")
@@ -206,11 +206,13 @@ def log_signals(state):
     rows = [{"fecha": str(s.get("start", ""))[:10], "deporte": s.get("sport") or ("⚽" if s["key"].split("|")[0] in A.ALL_LEAGUES else s["key"].split("|")[0]), "mercado": s["market"], "p": s["p"],
              "implied": s.get("implied", round(1 / s["odds"], 3)), "odds": s["odds"], "edge": s["edge"],
              "gano": int(s["result"] is True), "retorno": s.get("factor", s["odds"] if s["result"] is True else 0.0),
-             "clv": s.get("clv"), "apostada": int((s["key"], s["market"]) in used)}
+             "clv": s.get("clv"), "apostada": int((s["key"], s["market"]) in used),
+             # IA: modelo que respondió, "sin IA" si se le preguntó y falló, vacío si no llegó a revisarse
+             "ia": (s["ai"].get("modelo") or "sin IA") if s.get("ai") else "", "ia_apostar": (s.get("ai") or {}).get("apostar", "")}
             for s in state["signals"] if s.get("result") in (True, False) and not s.get("logged")]
     for s in state["signals"]:
         if s.get("result") in (True, False): s["logged"] = True
-    if rows: pd.DataFrame(rows).to_csv(LOG, mode="a", header=not LOG.exists(), index=False)
+    if rows: pd.concat([pd.read_csv(LOG) if LOG.exists() else None, pd.DataFrame(rows)]).to_csv(LOG, index=False)  # reescribe: admite columnas nuevas
 
 
 def calibration_md(path=None):
