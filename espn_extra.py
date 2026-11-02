@@ -92,22 +92,32 @@ def main():
         lg = (df.lg == league).to_numpy() if league in SOCCER else np.ones(len(df), bool)
         ll = lambda p, m: -(y * np.log(np.clip(p, 1e-6, 1)) + (1 - y) * np.log(np.clip(1 - p, 1e-6, 1)))[m]
         res = {}
-        for k, hfa, keep in itertools.product([8, 16, 32, 48, 64, 96, 128], [0, 25, 50, 75, 100, 130], [0.5, 0.75, 1.0]):
+        for k, hfa, keep, mov in itertools.product([8, 16, 32, 48, 64, 96, 128], [0, 25, 50, 75, 100, 130], [0.5, 0.75, 1.0], [False, True]):
             pred = []
-            M.elo(df, hfa, k, pred, keep)
-            res[k, hfa, keep] = (ll(np.array(pred), val & lg).mean(), np.array(pred))
-        k, hfa, keep = min(res, key=lambda c: res[c][0])
-        p = res[k, hfa, keep][1]
+            try: M.elo(df, hfa, k, pred, keep, mov=mov)
+            except OverflowError: continue  # K alto con margen: los ratings divergen
+            res[k, hfa, keep, mov] = (ll(np.array(pred), val & lg).mean(), np.array(pred))
+        k, hfa, keep, mov = min(res, key=lambda c: res[c][0])
+        p = res[k, hfa, keep, mov][1]
         base = ll(np.full(len(y), y[val & lg].mean()), ev & lg)  # referencia: frecuencia de victoria local
         d = ll(p, ev & lg) - base
-        o = {"K": k, "hfa": hfa, "keep": keep, "logloss": round(float(ll(p, ev & lg).mean()), 4),
+        o = {"K": k, "hfa": hfa, "keep": keep, "mov": mov, "logloss": round(float(ll(p, ev & lg).mean()), 4),
              "logloss_naive": round(float(base.mean()), 4), "n_test": int((ev & lg).sum())}
-        print(f"{league}: Elo K {k}, ventaja {hfa}, keep {keep}: log-loss {o['logloss']:.4f} vs ingenuo {o['logloss_naive']:.4f} "
+        print(f"{league}: Elo K {k}, ventaja {hfa}, keep {keep}, margen {mov}: log-loss {o['logloss']:.4f} vs ingenuo {o['logloss_naive']:.4f} "
               f"({d.mean():+.4f} ± {d.std() / np.sqrt(len(d)):.4f}, {o['n_test']} partidos)")
         if league in SOCCER:
             y3 = np.select([df.hs > df["as"], df.hs == df["as"]], [0, 1], 2)
-            c = fit_ordinal(p[val & lg], y3[val & lg])
-            P = soccer_probs(p[ev & lg], c)
+            # empates: logística ordinal con las 3 competiciones juntas y los 365 días previos, reajustada cada mes
+            # (con 2 años de una sola competición sobreestimaba los empates: 20 % previsto vs 15 % real en Champions)
+            idx, mth = np.where(ev & lg)[0], df.date.dt.to_period("M").to_numpy()
+            P = np.empty((len(idx), 3))
+            for m in np.unique(mth[idx]):
+                sel = mth[idx] == m
+                t0 = df.date[idx[sel][0]]
+                tr = ((df.date < t0) & (df.date >= t0 - pd.DateOffset(days=365))).to_numpy()
+                P[sel] = soccer_probs(p[idx[sel]], fit_ordinal(p[tr], y3[tr]))
+            c = fit_ordinal(p[(df.date >= end - pd.DateOffset(days=365)).to_numpy()],
+                            y3[(df.date >= end - pd.DateOffset(days=365)).to_numpy()])  # para el bot: último año
             l3 = -np.log(np.clip(P[np.arange(len(P)), y3[ev & lg]], 1e-9, 1))
             fr = np.bincount(y3[val & lg], minlength=3) / (val & lg).sum()
             n3 = -np.log(fr[y3[ev & lg]])

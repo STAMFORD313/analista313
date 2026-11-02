@@ -50,7 +50,7 @@ def main():
         df["date"] = pd.to_datetime(df["date"], utc=True)
         df = df.dropna(subset=["res"]).drop_duplicates("id").sort_values("date", ignore_index=True)
         pred = []
-        M.elo(df, P.get("hfa", hfa), P.get("K", k), pred, P.get("keep", 0.75))
+        M.elo(df, P.get("hfa", hfa), P.get("K", k), pred, P.get("keep", 0.75), P.get("kt", 250), P.get("mov", False))
         p, F = np.array(pred), features(df)
         ok = (df.res != 0.5).to_numpy()  # empates (NHL antiguos/NFL): fuera de la regresión binaria
         te = ok & (df.date >= df.date.max() - pd.DateOffset(years=2)).to_numpy()
