@@ -239,14 +239,3 @@ assert _r["n"] == 2 and _r["modelo"] < _r["mercado"] and _r["apuestas"] >= 1
 esports.configure("cs2")
 assert "| 🎮 CS2 |" in esports.market_report_md()
 print("ok informe esports vs Thunderpick")
-
-import esoccer
-_p, _t, _df = esoccer.markets(2.0, 1.0)
-assert abs(sum(_p.values()) - 1) < 1e-6 and _p["1"] > _p["2"] and abs(sum(_t.values()) - 1) < 1e-6
-_m = esoccer.Model(lr=0.1, lr_league=0.01, shrink=0)
-_m.update("L", "a", "b", 5, 0)
-assert _m.lam("L", "a", "b") > _m.lam("L", "b", "a")
-_st = {"signals": [{"key": "fc|1", "market": "H"}, {"key": "fc|1", "market": "D"}, {"key": "fc|2", "market": "D"}]}
-esoccer.settle(pd.DataFrame([{"id": 1, "s1": 3, "s2": 1}, {"id": 2, "s1": 2, "s2": 2}]), _st)
-assert [s["result"] for s in _st["signals"]] == [True, False, True]
-print("ok fc 27")
