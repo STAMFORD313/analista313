@@ -140,6 +140,21 @@ d = pd.read_csv(bankroll.LOG, keep_default_na=False)
 assert len(d) == 3 and d.ia.tolist() == ["", "", "sin IA"], d
 print("ok IA con respaldo")
 
+# FC 27: tarjeta de pronósticos sin inundar y fuera de la calibración
+fc = {"bank": {"bets": []}, "signals": [{"key": f"fc|{i}", "market": "H", "pick": f"P{i}", "match": f"P{i} vs Q{i}", "odds": 2.0, "p": 0.5,
+      "implied": 0.5, "edge": 0.0, "book": "cuota justa (sin casa)", "sport": "🎮⚽", "start": "2099-01-01T00:00Z",
+      "info": ["x", "Goles esperados 1-1", "Ganador P 50%", "Total", "Hándicap", "Forma"]} for i in range(7)]}
+import radar
+cards.clear(); radar.A.send_card = cards.append
+radar.fc_card(fc); radar.fc_card(fc)
+assert len(cards) == 1 and cards[0].count("🆚") == 5 and "Gana P0" in cards[0] and "Forma" not in cards[0], cards
+fc["fc_sent"] = "2000-01-01T00:00Z"; radar.fc_card(fc)
+assert len(cards) == 2 and cards[1].count("🆚") == 2
+fc["signals"][0]["result"] = True; fc["signals"][0]["start"] = "2026-11-02"
+n0 = len(pd.read_csv(bankroll.LOG)); bankroll.log_signals(fc)
+assert len(pd.read_csv(bankroll.LOG)) == n0 + 1 and "| Total | 3 |" in "\n".join(bankroll.calibration_md())
+print("ok FC 27")
+
 import radar
 s0 = {"key": "k9", "market": "U25", "odds": 2.0, "p": 0.5, "edge": 0.06, "match": "E vs F", "sport": "⚽"}
 assert [ok for ok, _ in radar.checklist(s0)] == [False, True, True, False]
@@ -224,3 +239,14 @@ assert _r["n"] == 2 and _r["modelo"] < _r["mercado"] and _r["apuestas"] >= 1
 esports.configure("cs2")
 assert "| 🎮 CS2 |" in esports.market_report_md()
 print("ok informe esports vs Thunderpick")
+
+import esoccer
+_p, _t, _df = esoccer.markets(2.0, 1.0)
+assert abs(sum(_p.values()) - 1) < 1e-6 and _p["1"] > _p["2"] and abs(sum(_t.values()) - 1) < 1e-6
+_m = esoccer.Model(lr=0.1, lr_league=0.01, shrink=0)
+_m.update("L", "a", "b", 5, 0)
+assert _m.lam("L", "a", "b") > _m.lam("L", "b", "a")
+_st = {"signals": [{"key": "fc|1", "market": "H"}, {"key": "fc|1", "market": "D"}, {"key": "fc|2", "market": "D"}]}
+esoccer.settle(pd.DataFrame([{"id": 1, "s1": 3, "s2": 1}, {"id": 2, "s1": 2, "s2": 2}]), _st)
+assert [s["result"] for s in _st["signals"]] == [True, False, True]
+print("ok fc 27")

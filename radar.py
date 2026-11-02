@@ -79,8 +79,27 @@ def pages(state):
 def menu(): return sport_buttons()  # botones de filtro (los atiende menu.py dentro de Telegram)
 
 
+FC_ICON, FC_EVERY = "🎮⚽", pd.Timedelta(hours=4)
+
+
+def fc_card(state):
+    """FC 27 no se apuesta (sin cuotas de casa): como mucho cada 4 h, una tarjeta con sus pronósticos aún no enviados."""
+    now = pd.Timestamp.now(tz="UTC")
+    if state.get("fc_sent") and now - pd.Timestamp(state["fc_sent"]) < FC_EVERY: return
+    new = sorted((s for s in upcoming(state) if s.get("sport") == FC_ICON and not s.get("anunciada")), key=lambda s: -s["p"])[:5]
+    if not new: return
+    lines = [f"{FC_ICON} <b>FC 27 · PRONÓSTICOS</b>", "Sin cuotas de casa: solo pronóstico, el bot no apuesta.", B.LINE]
+    for s in new:
+        lines += [f"<b>{A.esc(s['match']).replace(' vs ', ' 🆚 ')}</b> · 🕒 {B.when(s)}", f"→ <b>{A.esc(B.pick_text(s))}</b> ({s['p']:.0%})",
+                  *[f"   {l}" for l in s["info"][1:5]], ""]
+        s["anunciada"] = True
+    A.send_card("\n".join(lines))
+    state["fc_sent"] = now.isoformat()
+
+
 def run(state, today):
     radar(state, today)
+    fc_card(state)
     pages(state)
 
 

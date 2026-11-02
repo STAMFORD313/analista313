@@ -206,7 +206,7 @@ def log_signals(state):
     rows = [{"fecha": str(s.get("start", ""))[:10], "deporte": s.get("sport") or ("⚽" if s["key"].split("|")[0] in A.ALL_LEAGUES else s["key"].split("|")[0]), "mercado": s["market"], "p": s["p"],
              "implied": s.get("implied", round(1 / s["odds"], 3)), "odds": s["odds"], "edge": s["edge"],
              "gano": int(s["result"] is True), "retorno": s.get("factor", s["odds"] if s["result"] is True else 0.0),
-             "clv": s.get("clv"), "apostada": int((s["key"], s["market"]) in used),
+             "clv": s.get("clv"), "casa": s.get("book", ""), "apostada": int((s["key"], s["market"]) in used),
              # IA: modelo que respondió, "sin IA" si se le preguntó y falló, vacío si no llegó a revisarse
              "ia": (s["ai"].get("modelo") or "sin IA") if s.get("ai") else "", "ia_apostar": (s.get("ai") or {}).get("apostar", "")}
             for s in state["signals"] if s.get("result") in (True, False) and not s.get("logged")]
@@ -221,6 +221,7 @@ def calibration_md(path=None):
     path = path or LOG
     if not path.exists(): return []
     d = pd.read_csv(path)
+    if "casa" in d: d = d[~d.casa.astype(str).str.startswith("cuota justa")]  # FC 27 sin casa: no hay mercado con que comparar
     if d.empty: return []
     d["tramo"] = pd.cut(d.p, BANDS, right=False)
     out = ["## Calibración del modelo (todas las señales liquidadas)", "",
