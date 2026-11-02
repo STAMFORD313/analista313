@@ -210,8 +210,8 @@ id,date,event,home,away,hs,as,res
 185818,2026-11-01T02:25Z,Queretaro Open,Bianca Andreescu,Carole Monnet,,,1.0
 185819,2026-11-01T22:05Z,Queretaro Open,Tatjana Maria,Bianca Andreescu,,,0.0
 187314,2026-10-31T02:05Z,Prudential Hong Kong Tennis Open,Himeno Sakatsume,Hong Yi Cody Wong,,,1.0
-187317,2026-10-31T02:10Z,Prudential Hong Kong Tennis Open,Mika Stojsavljevic,Alevtina Ibragimova,,,1.0
 187316,2026-10-31T02:10Z,Prudential Hong Kong Tennis Open,Tatiana Prozorova,Hayu Kinoshita,,,1.0
+187317,2026-10-31T02:10Z,Prudential Hong Kong Tennis Open,Mika Stojsavljevic,Alevtina Ibragimova,,,1.0
 187310,2026-10-31T03:20Z,Prudential Hong Kong Tennis Open,Emerson Jones,Heather Watson,,,1.0
 187312,2026-10-31T03:40Z,Prudential Hong Kong Tennis Open,Aliaksandra Sasnovich,Cheuk Ying Shek,,,1.0
 187315,2026-10-31T04:15Z,Prudential Hong Kong Tennis Open,Elena Pridankina,Ekaterine Gorgodze,,,1.0
@@ -221,6 +221,7 @@ id,date,event,home,away,hs,as,res
 187320,2026-11-01T02:10Z,Prudential Hong Kong Tennis Open,Tatiana Prozorova,Mika Stojsavljevic,,,1.0
 187319,2026-11-01T03:30Z,Prudential Hong Kong Tennis Open,Himeno Sakatsume,Elena Pridankina,,,1.0
 187321,2026-11-01T03:40Z,Prudential Hong Kong Tennis Open,Emerson Jones,Alexandra Shubladze,,,0.0
+186625,2026-11-02T06:05Z,Prudential Hong Kong Tennis Open,Claire Liu,Tatiana Prozorova,,,1.0
 187324,2026-10-31T09:35Z,Chennai Open,Mariia Tkacheva,Rada Zolotareva,,,0.0
 187325,2026-10-31T09:40Z,Chennai Open,Kyoka Okamura,Diya Ramesh Ramesh,,,1.0
 187323,2026-10-31T09:40Z,Chennai Open,Aliona Falei,Ekaterina Yashina,,,1.0

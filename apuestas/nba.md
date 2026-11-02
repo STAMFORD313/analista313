@@ -1,6 +1,6 @@
 # 🏀 NBA·NCAA · apuestas de valor
 
-Actualizado 02/11/2026 08:52 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 02/11/2026 08:54 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Grambling Tigers vs Northern Illinois Huskies — 02/11 · 09:00
 
