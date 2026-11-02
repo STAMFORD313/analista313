@@ -1,26 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 02/11/2026 13:18 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Atromitos vs Volos NFC — 02/11 · 17:00
-
-👀 candidata · 🇬🇷 Super League · **Gana Volos NFC** @ **4.20** (Bet365) · prob 25% vs casas 24% · ventaja +6%
-
-- ❌ Probabilidad 25% (mín. 55%)
-- ✅ Ventaja +6% (entre 5% y 30%)
-- ✅ Segmento «⚽ no favorito» sin pérdidas
-- ✅ IA: confianza None/5 (mín. 4)
-
-📊 **Escenarios** (goles esperados 1.55 - 1.09)  
-1 48% · X 25% · 2 27%  
-1X 73% · X2 52% · 12 75%  
-+1.5 74% · +2.5 49% · +3.5 27% · Ambos marcan 52%  
-Marcadores: 1-1 12% · 1-0 11% · 2-1 9% · 2-0 9%  
-🔎 **Claves**  
-• Forma: Atromitos ➖➖❌❌❌ | Volos NFC ❌❌❌➖❌  
-• H2H: 18 desde 2019: 7V-4E-7D · 2.4 goles/partido · +2.5 en 50%  
-• Bajas: Atromitos: sin bajas; Volos NFC: sin bajas  
-• Favorito de las casas: Atromitos @ 1.87  
+Actualizado 02/11/2026 18:09 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Kalamata vs Iraklis — 02/11 · 18:30
 

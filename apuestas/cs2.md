@@ -1,101 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 02/11/2026 13:18 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## HAVU vs Nordic Valor — 02/11 · 16:30
-
-👀 candidata · 🎮 CS2 · Elisa Open Suomi Season 14 · **Gana HAVU** @ **1.15** (Thunderpick) · prob 81% vs casas 80% · ventaja -7%
-
-- ✅ Probabilidad 81% (mín. 55%)
-- ❌ Ventaja -7% (entre 5% y 30%)
-- ✅ Segmento «🎮 favorito» sin pérdidas
-- ❌ IA: sin revisar (no pasó lo anterior)
-
-📊 **Escenarios** (Elo por mapa. 76.338 partidos)  
-Mapa: HAVU 73% · Serie BO3: HAVU 81% - 19% Nordic Valor  
-Casas: HAVU 80% · Nordic Valor 20%  
-🔎 **Claves**  
-• Elo: HAVU 1539 (381 series) | Nordic Valor 1371 (11 series)  
-• Forma: HAVU ❌❌❌✅❌ | Nordic Valor ✅✅✅❌❌  
-• H2H: sin precedentes  
-• Torneo: Elisa Open Suomi Season 14 (nivel C)  
-• Cambios de plantilla: ninguno  
-
-## XI vs ECSTATIC — 02/11 · 18:00
-
-👀 candidata · 🎮 CS2 · Dust2.dk Ligaen Season 33: Regular Season · **Gana ECSTATIC** @ **2.54** (Thunderpick) · prob 48% vs casas 36% · ventaja +22%
-
-- ❌ Probabilidad 48% (mín. 55%)
-- ✅ Ventaja +22% (entre 5% y 30%)
-- ✅ Segmento «🎮 no favorito» sin pérdidas
-- ❌ IA: sin revisar (no pasó lo anterior)
-
-📊 **Escenarios** (Elo por mapa. 76.338 partidos)  
-Mapa: XI 40% · Serie BO1: XI 40% - 60% ECSTATIC  
-Casas: XI 64% · ECSTATIC 36%  
-🔎 **Claves**  
-• Elo: XI 1506 (405 series) | ECSTATIC 1576 (507 series)  
-• Forma: XI ✅✅❌✅✅ | ECSTATIC ❌✅❌❌✅  
-• H2H: 4: 2-2  
-• Torneo: Dust2.dk Ligaen Season 33: Regular Season (nivel C)  
-• Cambios de plantilla: ninguno  
-
-## MASONIC vs MASQ — 02/11 · 18:00
-
-👀 candidata · 🎮 CS2 · Dust2.dk Ligaen Season 33: Regular Season · **Gana MASQ** @ **2.84** (Thunderpick) · prob 39% vs casas 32% · ventaja +10%
-
-- ❌ Probabilidad 39% (mín. 55%)
-- ✅ Ventaja +10% (entre 5% y 30%)
-- ✅ Segmento «🎮 no favorito» sin pérdidas
-- ❌ IA: sin revisar (no pasó lo anterior)
-
-📊 **Escenarios** (Elo por mapa. 76.338 partidos)  
-Mapa: MASONIC 54% · Serie BO1: MASONIC 54% - 46% MASQ  
-Casas: MASONIC 68% · MASQ 32%  
-🔎 **Claves**  
-• Elo: MASONIC 1469 (500 series) | MASQ 1438 (34 series)  
-• Forma: MASONIC ❌❌❌❌❌ | MASQ ❌✅❌❌✅  
-• H2H: 2: 1-1  
-• Torneo: Dust2.dk Ligaen Season 33: Regular Season (nivel C)  
-• Cambios de plantilla: ninguno  
-
-## Young TigeRES vs Vitality Academy — 02/11 · 18:00
-
-👀 candidata · 🎮 CS2 · ESEA Season 59: Advanced Division - Europe · **Gana Young TigeRES** @ **1.34** (Thunderpick) · prob 74% vs casas 69% · ventaja -2%
-
-- ✅ Probabilidad 74% (mín. 55%)
-- ❌ Ventaja -2% (entre 5% y 30%)
-- ✅ Segmento «🎮 favorito» sin pérdidas
-- ❌ IA: sin revisar (no pasó lo anterior)
-
-📊 **Escenarios** (Elo por mapa. 76.347 partidos)  
-Mapa: Young TigeRES 78% · Serie BO1: Young TigeRES 78% - 22% Vitality Academy  
-Casas: Young TigeRES 69% · Vitality Academy 31%  
-🔎 **Claves**  
-• Elo: Young TigeRES 1620 (67 series) | Vitality Academy 1402 (26 series)  
-• Forma: Young TigeRES ✅❌✅✅✅ | Vitality Academy ✅✅❌❌❌  
-• H2H: sin precedentes  
-• Torneo: ESEA Season 59: Advanced Division - Europe (nivel C)  
-• Cambios de plantilla: ninguno  
-
-## PARTIZAN vs regnum4games — 02/11 · 18:00
-
-👀 candidata · 🎮 CS2 · ESEA Season 59: Advanced Division - Europe · **Gana PARTIZAN** @ **1.75** (Thunderpick) · prob 57% vs casas 53% · ventaja -1%
-
-- ✅ Probabilidad 57% (mín. 55%)
-- ❌ Ventaja -1% (entre 5% y 30%)
-- ✅ Segmento «🎮 favorito» sin pérdidas
-- ❌ IA: sin revisar (no pasó lo anterior)
-
-📊 **Escenarios** (Elo por mapa. 76.347 partidos)  
-Mapa: PARTIZAN 60% · Serie BO1: PARTIZAN 60% - 40% regnum4games  
-Casas: PARTIZAN 53% · regnum4games 47%  
-🔎 **Claves**  
-• Elo: PARTIZAN 1400 (43 series) | regnum4games 1328 (36 series)  
-• Forma: PARTIZAN ❌❌✅❌❌ | regnum4games ❌✅❌❌❌  
-• H2H: sin precedentes  
-• Torneo: ESEA Season 59: Advanced Division - Europe (nivel C)  
-• Cambios de plantilla: ninguno  
+Actualizado 02/11/2026 18:09 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## KUUSAMO vs BOJONG — 02/11 · 19:00
 
@@ -323,6 +228,120 @@ Casas: Liquid 49% · PARIVISION 51%
 • Forma: Liquid ❌✅❌❌✅ | PARIVISION ✅✅✅❌✅  
 • H2H: 2: 0-2  
 • Torneo: Intel Extreme Masters Beijing 2026 (nivel S)  
+• Cambios de plantilla: ninguno  
+
+## FaZe vs Falcons — 03/11 · 08:00
+
+👀 candidata · 🎮 CS2 · Intel Extreme Masters Beijing 2026 · **Gana FaZe** @ **3.20** (Thunderpick) · prob 30% vs casas 29% · ventaja -6%
+
+- ❌ Probabilidad 30% (mín. 55%)
+- ❌ Ventaja -6% (entre 5% y 30%)
+- ✅ Segmento «🎮 no favorito» sin pérdidas
+- ❌ IA: sin revisar (no pasó lo anterior)
+
+📊 **Escenarios** (Elo por mapa, 76.355 partidos)  
+Mapa: FaZe 37% · Serie BO3: FaZe 30% - 70% Falcons  
+Casas: FaZe 29% · Falcons 71%  
+🔎 **Claves**  
+• Elo: FaZe 1973 (330 series) | Falcons 2118 (304 series)  
+• Forma: FaZe ✅✅❌✅❌ | Falcons ✅✅❌❌❌  
+• H2H: 9: 4-5  
+• Torneo: Intel Extreme Masters Beijing 2026 (nivel S)  
+• Cambios de plantilla: FaZe, Falcons  
+
+## FURIA vs Natus Vincere — 03/11 · 10:30
+
+👀 candidata · 🎮 CS2 · Intel Extreme Masters Beijing 2026 · **Gana Natus Vincere** @ **2.00** (Thunderpick) · prob 46% vs casas 46% · ventaja -7%
+
+- ❌ Probabilidad 46% (mín. 55%)
+- ❌ Ventaja -7% (entre 5% y 30%)
+- ✅ Segmento «🎮 no favorito» sin pérdidas
+- ❌ IA: sin revisar (no pasó lo anterior)
+
+📊 **Escenarios** (Elo por mapa, 76.355 partidos)  
+Mapa: FURIA 52% · Serie BO3: FURIA 53% - 47% Natus Vincere  
+Casas: FURIA 54% · Natus Vincere 46%  
+🔎 **Claves**  
+• Elo: FURIA 2164 (325 series) | Natus Vincere 2139 (276 series)  
+• Forma: FURIA ✅✅✅✅✅ | Natus Vincere ❌✅❌✅✅  
+• H2H: 18: 7-11  
+• Torneo: Intel Extreme Masters Beijing 2026 (nivel S)  
+• Cambios de plantilla: ninguno  
+
+## PCIFIC vs Falcons Force — 03/11 · 15:00
+
+👀 candidata · 🎮 CS2 · ESL Challenger League Season 52: Europe - Cup 10 · **Gana PCIFIC** @ **1.48** (Thunderpick) · prob 63% vs casas 62% · ventaja -7%
+
+- ✅ Probabilidad 63% (mín. 55%)
+- ❌ Ventaja -7% (entre 5% y 30%)
+- ✅ Segmento «🎮 favorito» sin pérdidas
+- ❌ IA: sin revisar (no pasó lo anterior)
+
+📊 **Escenarios** (Elo por mapa, 76.355 partidos)  
+Mapa: PCIFIC 59% · Serie BO3: PCIFIC 63% - 37% Falcons Force  
+Casas: PCIFIC 62% · Falcons Force 38%  
+🔎 **Claves**  
+• Elo: PCIFIC 1672 (144 series) | Falcons Force 1574 (133 series)  
+• Forma: PCIFIC ✅✅❌❌✅ | Falcons Force ✅✅✅❌❌  
+• H2H: sin precedentes  
+• Torneo: ESL Challenger League Season 52: Europe - Cup 10 (nivel C)  
+• Cambios de plantilla: ninguno  
+
+## BAKS vs KUUSAMO — 03/11 · 15:00
+
+👀 candidata · 🎮 CS2 · ESL Challenger League Season 52: Europe - Cup 10 · **Gana BAKS** @ **1.10** (Thunderpick) · prob 78% vs casas 83% · ventaja -14%
+
+- ✅ Probabilidad 78% (mín. 55%)
+- ❌ Ventaja -14% (entre 5% y 30%)
+- ✅ Segmento «🎮 favorito» sin pérdidas
+- ❌ IA: sin revisar (no pasó lo anterior)
+
+📊 **Escenarios** (Elo por mapa, 76.355 partidos)  
+Mapa: BAKS 66% · Serie BO3: BAKS 73% - 27% KUUSAMO  
+Casas: BAKS 83% · KUUSAMO 17%  
+🔎 **Claves**  
+• Elo: BAKS 1662 (204 series) | KUUSAMO 1486 (138 series)  
+• Forma: BAKS ✅❌✅✅❌ | KUUSAMO ❌❌✅❌❌  
+• H2H: sin precedentes  
+• Torneo: ESL Challenger League Season 52: Europe - Cup 10 (nivel C)  
+• Cambios de plantilla: ninguno  
+
+## BAKS vs KUUSAMO — 03/11 · 15:00
+
+👀 candidata · 🎮 CS2 · ESL Challenger League Season 52: Europe - Cup 10 · **KUUSAMO +1.5 mapas** @ **2.53** (Thunderpick) · prob 44% vs casas 36% · ventaja +10%
+
+- ❌ Probabilidad 44% (mín. 55%)
+- ✅ Ventaja +10% (entre 5% y 30%)
+- ✅ Segmento «🎮 hándicap» sin pérdidas
+- ❌ IA: sin revisar (no pasó lo anterior)
+
+📊 **Escenarios** (Elo por mapa, 76.355 partidos)  
+Mapa: BAKS 66% · Serie BO3: BAKS 73% - 27% KUUSAMO  
+Casas: BAKS 83% · KUUSAMO 17%  
+🔎 **Claves**  
+• Elo: BAKS 1662 (204 series) | KUUSAMO 1486 (138 series)  
+• Forma: BAKS ✅❌✅✅❌ | KUUSAMO ❌❌✅❌❌  
+• H2H: sin precedentes  
+• Torneo: ESL Challenger League Season 52: Europe - Cup 10 (nivel C)  
+• Cambios de plantilla: ninguno  
+
+## Acend vs Four Magic — 03/11 · 15:00
+
+👀 candidata · 🎮 CS2 · ESL Challenger League Season 52: Europe - Cup 10 · **Gana Acend** @ **1.12** (Thunderpick) · prob 83% vs casas 82% · ventaja -7%
+
+- ✅ Probabilidad 83% (mín. 55%)
+- ❌ Ventaja -7% (entre 5% y 30%)
+- ✅ Segmento «🎮 favorito» sin pérdidas
+- ❌ IA: sin revisar (no pasó lo anterior)
+
+📊 **Escenarios** (Elo por mapa, 76.355 partidos)  
+Mapa: Acend 74% · Serie BO3: Acend 84% - 16% Four Magic  
+Casas: Acend 82% · Four Magic 18%  
+🔎 **Claves**  
+• Elo: Acend 1743 (130 series) | Four Magic 1459 (31 series)  
+• Forma: Acend ✅❌✅✅❌ | Four Magic ❌✅❌❌❌  
+• H2H: sin precedentes  
+• Torneo: ESL Challenger League Season 52: Europe - Cup 10 (nivel C)  
 • Cambios de plantilla: ninguno  
 
 ## boyband vs ROUNDS — 03/11 · 16:30

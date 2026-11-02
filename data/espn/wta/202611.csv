@@ -226,9 +226,10 @@ id,date,event,home,away,hs,as,res
 186622,2026-11-02T07:50Z,Prudential Hong Kong Tennis Open,Katie Volynets,Aliaksandra Sasnovich,,,0.0
 186620,2026-11-02T08:10Z,Prudential Hong Kong Tennis Open,Carol Young Suh Lee,Maria Sakkari,,,0.0
 186617,2026-11-02T10:35Z,Prudential Hong Kong Tennis Open,Venus Williams,Mary Stoiana,,,0.0
+186618,2026-11-02T12:15Z,Prudential Hong Kong Tennis Open,Wang Xinyu,Adithya Karunaratne,,,1.0
 187324,2026-10-31T09:35Z,Chennai Open,Mariia Tkacheva,Rada Zolotareva,,,0.0
-187325,2026-10-31T09:40Z,Chennai Open,Kyoka Okamura,Diya Ramesh Ramesh,,,1.0
 187323,2026-10-31T09:40Z,Chennai Open,Aliona Falei,Ekaterina Yashina,,,1.0
+187325,2026-10-31T09:40Z,Chennai Open,Kyoka Okamura,Diya Ramesh Ramesh,,,1.0
 187328,2026-10-31T10:50Z,Chennai Open,Viktoria Morvayova,Shrivalli Bhamidipaty,,,1.0
 187326,2026-10-31T11:05Z,Chennai Open,Rinko Matsuda,Momoko Kobori,,,0.0
 187329,2026-10-31T11:30Z,Chennai Open,Jensi Dipakbhai Kanabar,Weronika Falkowska,,,0.0
@@ -246,7 +247,10 @@ id,date,event,home,away,hs,as,res
 187363,2026-11-01T13:30Z,Angola Ladies Open,Darja Suvirdjonkova,Emma Van Poppel,,,1.0
 187366,2026-11-02T09:05Z,Angola Ladies Open,Ana Sofia Sanchez,Abigayel Vosloo,,,1.0
 187365,2026-11-02T09:05Z,Angola Ladies Open,Franziska Sziedat,Madhurima Sawant,,,1.0
+187364,2026-11-02T10:45Z,Angola Ladies Open,Laura Bohner,Prathyusha Rachapudi,,,1.0
 186675,2026-11-02T11:05Z,Angola Ladies Open,Isabella Shinikova,Dune Vaissaud,,,1.0
+186663,2026-11-02T12:10Z,Angola Ladies Open,Jahnie Van Zyl,Yasmine Kabbaj,,,0.0
+186672,2026-11-02T12:55Z,Angola Ladies Open,Warona Mdlulwa,Kristina Novak,,,0.0
 186690,2026-11-08T05:00Z,Angola Ladies Open,TBD,TBD,,,0.5
 186881,2026-12-06T05:00Z,Open Angers Loire Trélazé,TBD,TBD,,,0.5
 186915,2026-12-04T05:00Z,Quito Open,TBD,TBD,,,0.5

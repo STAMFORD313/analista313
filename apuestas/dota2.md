@@ -1,63 +1,6 @@
 # 🐉 Dota 2 · apuestas de valor
 
-Actualizado 02/11/2026 13:18 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## OG vs Yellow Submarine — 02/11 · 14:00
-
-👀 candidata · 🐉 Dota 2 · EPL Masters III · **Gana Yellow Submarine** @ **3.80** (Thunderpick) · prob 31% vs casas 24% · ventaja +20%
-
-- ❌ Probabilidad 31% (mín. 55%)
-- ✅ Ventaja +20% (entre 5% y 30%)
-- ✅ Segmento «🐉 no favorito» sin pérdidas
-- ❌ IA: sin revisar (no pasó lo anterior)
-
-📊 **Escenarios** (Elo por mapa. 11.607 partidos)  
-Mapa: OG 58% · Serie BO3: OG 62% - 38% Yellow Submarine  
-Casas: OG 76% · Yellow Submarine 24%  
-🔎 **Claves**  
-• Elo: OG 1914 (297 series) | Yellow Submarine 1842 (301 series)  
-• Forma: OG ✅❌✅❌❌ | Yellow Submarine ✅✅✅❌✅  
-• H2H: 6: 4-2  
-• Torneo: EPL Masters III (nivel B)  
-• Cambios de plantilla: ninguno  
-
-## Natus Vincere vs Nemiga Gaming — 02/11 · 17:00
-
-👀 candidata · 🐉 Dota 2 · EPL Masters III · **Gana Natus Vincere** @ **1.02** (Thunderpick) · prob 90% vs casas 92% · ventaja -8%
-
-- ✅ Probabilidad 90% (mín. 55%)
-- ❌ Ventaja -8% (entre 5% y 30%)
-- ✅ Segmento «🐉 favorito» sin pérdidas
-- ❌ IA: sin revisar (no pasó lo anterior)
-
-📊 **Escenarios** (Elo por mapa. 11.607 partidos)  
-Mapa: Natus Vincere 79% · Serie BO3: Natus Vincere 89% - 11% Nemiga Gaming  
-Casas: Natus Vincere 92% · Nemiga Gaming 8%  
-🔎 **Claves**  
-• Elo: Natus Vincere 1969 (251 series) | Nemiga Gaming 1660 (306 series)  
-• Forma: Natus Vincere ✅✅❌❌❌ | Nemiga Gaming ❌❌✅✅✅  
-• H2H: 1: 1-0  
-• Torneo: EPL Masters III (nivel B)  
-• Cambios de plantilla: ninguno  
-
-## Natus Vincere vs Nemiga Gaming — 02/11 · 17:00
-
-👀 candidata · 🐉 Dota 2 · EPL Masters III · **Nemiga Gaming +1.5 mapas** @ **3.78** (Thunderpick) · prob 29% vs casas 25% · ventaja +8%
-
-- ❌ Probabilidad 29% (mín. 55%)
-- ✅ Ventaja +8% (entre 5% y 30%)
-- ✅ Segmento «🐉 hándicap» sin pérdidas
-- ❌ IA: sin revisar (no pasó lo anterior)
-
-📊 **Escenarios** (Elo por mapa. 11.607 partidos)  
-Mapa: Natus Vincere 79% · Serie BO3: Natus Vincere 89% - 11% Nemiga Gaming  
-Casas: Natus Vincere 92% · Nemiga Gaming 8%  
-🔎 **Claves**  
-• Elo: Natus Vincere 1969 (251 series) | Nemiga Gaming 1660 (306 series)  
-• Forma: Natus Vincere ✅✅❌❌❌ | Nemiga Gaming ❌❌✅✅✅  
-• H2H: 1: 1-0  
-• Torneo: EPL Masters III (nivel B)  
-• Cambios de plantilla: ninguno  
+Actualizado 02/11/2026 18:09 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## GamerLegion vs CyberHero — 02/11 · 20:00
 
@@ -75,6 +18,44 @@ Casas: GamerLegion 86% · CyberHero 14%
 • Elo: GamerLegion 1936 (109 series) | CyberHero 1742 (16 series)  
 • Forma: GamerLegion ✅✅✅❌❌ | CyberHero ❌✅❌✅✅  
 • H2H: sin precedentes  
+• Torneo: EPL Masters III (nivel B)  
+• Cambios de plantilla: ninguno  
+
+## LEGION vs OG — 03/11 · 11:00
+
+👀 candidata · 🐉 Dota 2 · EPL Masters III · **Gana LEGION** @ **3.21** (Thunderpick) · prob 31% vs casas 29% · ventaja -0%
+
+- ❌ Probabilidad 31% (mín. 55%)
+- ❌ Ventaja -0% (entre 5% y 30%)
+- ✅ Segmento «🐉 no favorito» sin pérdidas
+- ❌ IA: sin revisar (no pasó lo anterior)
+
+📊 **Escenarios** (Elo por mapa, 11.613 partidos)  
+Mapa: LEGION 39% · Serie BO3: LEGION 33% - 67% OG  
+Casas: LEGION 29% · OG 71%  
+🔎 **Claves**  
+• Elo: LEGION 1799 (17 series) | OG 1905 (298 series)  
+• Forma: LEGION ✅✅❌❌❌ | OG ❌✅❌❌❌  
+• H2H: 1: 0-1  
+• Torneo: EPL Masters III (nivel B)  
+• Cambios de plantilla: LEGION, OG  
+
+## HULIGANI vs Yellow Submarine — 03/11 · 17:00
+
+👀 candidata · 🐉 Dota 2 · EPL Masters III · **Gana HULIGANI** @ **2.60** (Thunderpick) · prob 36% vs casas 36% · ventaja -6%
+
+- ❌ Probabilidad 36% (mín. 55%)
+- ❌ Ventaja -6% (entre 5% y 30%)
+- ✅ Segmento «🐉 no favorito» sin pérdidas
+- ❌ IA: sin revisar (no pasó lo anterior)
+
+📊 **Escenarios** (Elo por mapa, 11.613 partidos)  
+Mapa: HULIGANI 41% · Serie BO3: HULIGANI 37% - 63% Yellow Submarine  
+Casas: HULIGANI 35% · Yellow Submarine 65%  
+🔎 **Claves**  
+• Elo: HULIGANI 1822 (347 series) | Yellow Submarine 1904 (302 series)  
+• Forma: HULIGANI ✅✅✅✅✅ | Yellow Submarine ✅✅❌✅✅  
+• H2H: 13: 8-5  
 • Torneo: EPL Masters III (nivel B)  
 • Cambios de plantilla: ninguno  
 
