@@ -34475,3 +34475,18 @@ game_id,match_id,slug,date,tier,bo,tournament_id,tournament,t1_id,t2_id,team1,te
 191765,132936,wildcard-gaming-vs-barca-br-01-11-2026,2026-11-01T16:30:00.000+00:00,b,3,6152,FiReSPORTS Last Chance 2026,25580,6062,BARCA,Wildcard,2,de_nuke,6062,13.0,0.0
 190028,132007,betclic-apogee-esports-vs-fokus-cs-01-11-2026,2026-11-01T18:00:00.000+00:00,b,3,5626,CCT Europe 2026 Series 12,11101,22184,Betclic,FOKUS,1,de_cache,11101,13.0,9.0
 190027,132007,betclic-apogee-esports-vs-fokus-cs-01-11-2026,2026-11-01T18:00:00.000+00:00,b,3,5626,CCT Europe 2026 Series 12,11101,22184,Betclic,FOKUS,2,de_anubis,11101,16.0,13.0
+191688,132910,dendele-cs-vs-imperial-01-11-2026,2026-11-01T20:00:00.000+00:00,b,5,6151,Gamers Club Masters VII,24956,1430,DENDELE,Imperial,1,de_mirage,24956,13.0,8.0
+191687,132910,dendele-cs-vs-imperial-01-11-2026,2026-11-01T20:00:00.000+00:00,b,5,6151,Gamers Club Masters VII,24956,1430,DENDELE,Imperial,2,de_inferno,24956,13.0,11.0
+191686,132910,dendele-cs-vs-imperial-01-11-2026,2026-11-01T20:00:00.000+00:00,b,5,6151,Gamers Club Masters VII,24956,1430,DENDELE,Imperial,3,de_cache,24956,16.0,13.0
+191769,132937,bestia-vs-barca-br-01-11-2026,2026-11-01T20:15:00.000+00:00,b,3,6152,FiReSPORTS Last Chance 2026,5701,25580,BESTIA,BARCA,1,de_cache,25580,13.0,4.0
+191768,132937,bestia-vs-barca-br-01-11-2026,2026-11-01T20:15:00.000+00:00,b,3,6152,FiReSPORTS Last Chance 2026,5701,25580,BESTIA,BARCA,2,de_mirage,5701,13.0,9.0
+191767,132937,bestia-vs-barca-br-01-11-2026,2026-11-01T20:15:00.000+00:00,b,3,6152,FiReSPORTS Last Chance 2026,5701,25580,BESTIA,BARCA,3,de_ancient,5701,13.0,3.0
+191772,132938,100-thieves-vs-wildcard-gaming-01-11-2026,2026-11-01T20:30:00.000+00:00,b,3,6152,FiReSPORTS Last Chance 2026,464,6062,100 Thieves,Wildcard,1,de_cache,464,19.0,16.0
+191771,132938,100-thieves-vs-wildcard-gaming-01-11-2026,2026-11-01T20:30:00.000+00:00,b,3,6152,FiReSPORTS Last Chance 2026,464,6062,100 Thieves,Wildcard,2,de_dust2,464,13.0,4.0
+191000,132573,heroic-vs-b8-02-11-2026,2026-11-02T02:00:00.000+00:00,s,3,5113,Intel Extreme Masters Beijing 2026,759,1539,HEROIC,B8,1,de_nuke,759,13.0,4.0
+190999,132573,heroic-vs-b8-02-11-2026,2026-11-02T02:00:00.000+00:00,s,3,5113,Intel Extreme Masters Beijing 2026,759,1539,HEROIC,B8,2,de_dust2,759,13.0,7.0
+191003,132574,legacy-br-vs-the-mongolz-02-11-2026,2026-11-02T02:00:00.000+00:00,s,3,5113,Intel Extreme Masters Beijing 2026,8118,736,Legacy,The MongolZ,1,de_mirage,8118,16.0,13.0
+191002,132574,legacy-br-vs-the-mongolz-02-11-2026,2026-11-02T02:00:00.000+00:00,s,3,5113,Intel Extreme Masters Beijing 2026,8118,736,Legacy,The MongolZ,2,de_dust2,736,13.0,6.0
+191001,132574,legacy-br-vs-the-mongolz-02-11-2026,2026-11-02T02:00:00.000+00:00,s,3,5113,Intel Extreme Masters Beijing 2026,8118,736,Legacy,The MongolZ,3,de_ancient,736,13.0,8.0
+191015,132578,aurora-gaming-vs-liquid-02-11-2026,2026-11-02T04:40:00.000+00:00,s,3,5113,Intel Extreme Masters Beijing 2026,3598,790,Aurora,Liquid,1,de_inferno,790,13.0,3.0
+191014,132578,aurora-gaming-vs-liquid-02-11-2026,2026-11-02T04:40:00.000+00:00,s,3,5113,Intel Extreme Masters Beijing 2026,3598,790,Aurora,Liquid,2,de_anubis,790,13.0,4.0

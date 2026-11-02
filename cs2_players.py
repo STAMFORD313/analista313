@@ -2,7 +2,7 @@
 por jugador y partido (rating, ADR, KAST, K/D, primeras bajas) y rating por mapa, y fichajes. Construye el grafo de
 conocimiento data/cs2/grafo_cs2.json (jugadores, equipos, mapas, torneos) y da features para el modelo (team_features).
 Uso: python cs2_players.py [update|graph|backtest]   (sin argumento: update + graph). Incremental: solo baja lo nuevo."""
-import json, math, sys, time, warnings
+import json, math, os, sys, time, warnings
 from collections import defaultdict
 from concurrent.futures import ThreadPoolExecutor
 
@@ -255,6 +255,7 @@ def build_graph():
             mapa_fuerte=_top(mp, "wr", 2, wr=True), mapa_debil=_top(mp, "wr", 2, rev=False, wr=True),
             rivales_favorables=_top(rv, "wr", min_n=3, wr=True), rivales_desfavorables=_top(rv, "wr", rev=False, min_n=3, wr=True),
             por_nivel={k: {"series": len(y), "wr": round(y.won.mean(), 3)} for k, y in x.groupby("tier")})
+    G.graph["actualizado"] = pd.Timestamp.now(tz="UTC").isoformat()
     GRAPH.write_text(json.dumps(nx.node_link_data(G, edges="links"), ensure_ascii=False, default=lambda o: o.item() if hasattr(o, "item") else str(o)), encoding="utf-8")
     c = pd.Series([d["type"] for _, d in G.nodes(data=True)]).value_counts().to_dict()
     print(f"grafo: {c}, {G.number_of_edges()} aristas", pd.Series([d["rel"] for *_, d in G.edges(data=True)]).value_counts().to_dict())
@@ -352,11 +353,23 @@ def run_states(g, pp, on_match=None):
 _STATE = None
 
 
+def refresh():
+    """Actualización incremental (partidos, stats y fichajes nuevos) y grafo si tiene más de 20 h. Nunca rompe el run."""
+    try:
+        update()
+        done = json.loads(GRAPH.read_text(encoding="utf-8")).get("graph", {}).get("actualizado", "") if GRAPH.exists() else ""
+        if done < (pd.Timestamp.now(tz="UTC") - pd.Timedelta(hours=20)).isoformat(): build_graph()  # la fecha del archivo no vale tras un checkout
+    except Exception as e:
+        print("cs2_players refresh:", repr(e))
+
+
 def team_features(team_id, rival_id, fecha=None):
     """Features de team_id frente a rival_id con lo jugado hasta ahora: fuerza de la plantilla actual (rating medio de su
     última alineación), ventaja de mapa pool, H2H por mapas y química (mapas jugados juntos por las parejas)."""
     global _STATE
-    if _STATE is None: _STATE = run_states(*load())
+    if _STATE is None:
+        if os.getenv("GITHUB_ACTIONS"): refresh()  # en el bot horario: datos y grafo al día sin tocar el workflow
+        _STATE = run_states(*load())
     d = pd.Timestamp(fecha or pd.Timestamp.now(tz="UTC"))
     return _STATE.features(team_id, rival_id, d if d.tzinfo else d.tz_localize("UTC"))
 
