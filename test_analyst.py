@@ -112,6 +112,10 @@ bad = [{"key": "cs2|1", "market": "t1", "start": "2099-01-01T00:00Z", "result": 
 bankroll.sanity(bad)
 assert [x["result"] for x in bad] == [None, "nula", "nula"]
 print("ok claves cs2")
+A_.GEMINI, A_._T0 = "x", 0  # fuera de presupuesto: no llama a la IA aunque haya clave
+assert A_.ai_json("hola") is None
+A_.GEMINI = None
+print("ok presupuesto IA")
 
 import radar
 s0 = {"key": "k9", "market": "U25", "odds": 2.0, "p": 0.5, "edge": 0.06, "match": "E vs F", "sport": "⚽"}
@@ -153,6 +157,17 @@ st2 = {"signals": [{"key": "nba|2026-11-02|A|B", "market": "sph", "line": -2.5}]
 multisport.settle(pd.DataFrame([{"date": "2026-11-02", "home": "A", "away": "B", "hs": 100, "as": 97, "res": 1.0}]), "nba", st2)
 assert st2["signals"][0]["result"] is True and multisport.spreads(None) == (None, None, None)
 print("ok parámetros entrenados")
+
+import contextlib, io as io_, pathlib, tempfile, train_espn  # informe de cuotas previas de DraftKings con datos sintéticos
+d = pathlib.Path(tempfile.mkdtemp()); (d / "nba").mkdir(); old_dir, multisport.DIR = multisport.DIR, d
+pd.DataFrame({"id": [str(i) for i in range(20)], "date": "2026-01-01", "event": "", "home": "A", "away": "B",
+              "hs": [100, 90] * 10, "as": [95, 99] * 10, "res": [1.0, 0.0] * 10}).to_csv(d / "nba" / "202601.csv", index=False)
+pd.DataFrame({"id": [str(i) for i in range(20)], "p": 0.6, "oh": 1.8, "oa": 2.1, "tl": 190.5, "to": 1.9, "tu": 1.9,
+              "p_over": 0.5, "sl": -2.5, "sh": 1.9, "sa": 1.9, "p_cover": 0.55}).to_csv(d / "odds_nba.csv", index=False)
+with contextlib.redirect_stdout(io_.StringIO()) as out: train_espn.market_report()
+multisport.DIR = old_dir
+assert "nba ganador: 20 partidos" in out.getvalue() and "nba hándicap: 20 partidos" in out.getvalue(), out.getvalue()
+print("ok informe de cuotas ESPN")
 
 import esports
 sc = esports.bo3_scores(0.6)

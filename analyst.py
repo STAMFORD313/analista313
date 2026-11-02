@@ -280,10 +280,13 @@ def absences_line(team, players):
 
 
 # ---------- IA ----------
+AI_BUDGET, _T0 = 25 * 60, time.time()  # tras 25 min de run, sin IA: el run tiene 60 min y no debe morir sin guardar
+
+
 def ai_json(prompt):
-    if not GEMINI: return None
+    if not GEMINI or time.time() - _T0 > AI_BUDGET: return None
     from google import genai
-    client = genai.Client(api_key=GEMINI)  # variable aparte: si no, se cierra antes de la petición
+    client = genai.Client(api_key=GEMINI, http_options={"timeout": 60_000})  # variable aparte: si no, se cierra antes de la petición; 60 s máx. (sin límite una petición colgada agotaba los 60 min del run)
     try:
         txt = client.models.generate_content(model=MODEL, contents=prompt).text or ""
         m = re.search(r"\{.*\}", txt, re.S)

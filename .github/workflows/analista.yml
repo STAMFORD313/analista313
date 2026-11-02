@@ -1,6 +1,6 @@
 name: analista
 on:
-  schedule: [{cron: "17 * * * *"}]   # cada hora
+  schedule: [{cron: "17,47 * * * *"}]   # cada media hora: GitHub se salta crons en horas punta (de noche hubo 6 h sin runs)
   workflow_dispatch:
   push: {branches: [main], paths-ignore: ["data/**"]}   # arranca también al subir código
 permissions: {contents: write}
