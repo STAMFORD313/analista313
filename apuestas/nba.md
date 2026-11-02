@@ -1,6 +1,6 @@
 # 🏀 NBA·NCAA · apuestas de valor
 
-Actualizado 02/11/2026 08:37 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 02/11/2026 08:52 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Grambling Tigers vs Northern Illinois Huskies — 02/11 · 09:00
 
@@ -42,22 +42,22 @@ Hándicap MRMK -3.5 · Total puntos 133.5
 
 ## Queens University Royals vs Winthrop Eagles — 02/11 · 15:00
 
-👀 candidata · 🏀 NCAA Basketball · **Gana Queens University Royals** @ **1.89** (DraftKings) · prob 56% vs casas 50% · ventaja +6%
+👀 candidata · 🏀 NCAA Basketball · **Gana Queens University Royals** @ **1.87** (DraftKings) · prob 56% vs casas 51% · ventaja +5%
 
 - ✅ Probabilidad 56% (mín. 55%)
-- ✅ Ventaja +6% (entre 5% y 30%)
+- ✅ Ventaja +5% (entre 5% y 30%)
 - ✅ Segmento «🏀 favorito» sin pérdidas
 - ❌ IA: sin revisar (no pasó lo anterior)
 
 📊 **Escenarios** (Elo con 60.843 partidos y bajas)  
 Gana Queens University Royals 61% · Gana Winthrop Eagles 39%  
-Casas: Queens University Royals 50% · Winthrop Eagles 50%  
+Casas: Queens University Royals 51% · Winthrop Eagles 49%  
 Hándicap QUC -1.5 · Total puntos 167.5  
 🔎 **Claves**  
 • Forma: Queens University Royals ❌✅✅✅❌ | Winthrop Eagles ❌✅✅✅❌  
 • H2H: 3 desde 2023: 0-3  
 • Bajas: Queens University Royals: sin bajas; Winthrop Eagles: sin bajas  
-• Favorito de las casas: Queens University Royals @ 1.89  
+• Favorito de las casas: Queens University Royals @ 1.87  
 
 ## Tennessee State Tigers vs Murray State Racers — 02/11 · 17:30
 
@@ -850,7 +850,7 @@ Hándicap MRSH -2.5 · Total puntos 157.5
 📊 **Escenarios** (Elo con 60.843 partidos y bajas)  
 Gana Syracuse Orange 82% · Gana New Haven Chargers 18%  
 Casas: Syracuse Orange 98% · New Haven Chargers 2%  
-Hándicap SYR -27.5 · Total puntos 135.5  
+Hándicap SYR -27.5 · Total puntos 133.5  
 🔎 **Claves**  
 • Forma: Syracuse Orange ❌❌❌❌❌ | New Haven Chargers ✅✅❌❌✅  
 • H2H: sin precedentes  

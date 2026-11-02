@@ -1,6 +1,6 @@
 # 🏆 Champions·Europa · apuestas de valor
 
-Actualizado 02/11/2026 08:37 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 02/11/2026 08:52 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Galatasaray vs VfB Stuttgart — 03/11 · 18:45
 
@@ -289,22 +289,22 @@ Hándicap COMO +120 · Total puntos 3.5
 
 ## PSV Eindhoven vs Club Brugge — 04/11 · 21:00
 
-👀 candidata · 🏆 Champions League · **Gana PSV Eindhoven** @ **2.10** (DraftKings) · prob 46% vs casas 46% · ventaja -4%
+👀 candidata · 🏆 Champions League · **Gana PSV Eindhoven** @ **2.05** (DraftKings) · prob 46% vs casas 46% · ventaja -5%
 
 - ❌ Probabilidad 46% (mín. 55%)
-- ❌ Ventaja -4% (entre 5% y 30%)
+- ❌ Ventaja -5% (entre 5% y 30%)
 - ✅ Segmento «🏆 no favorito» sin pérdidas
 - ❌ IA: sin revisar (no pasó lo anterior)
 
 📊 **Escenarios** (Elo con 5.115 partidos y bajas)  
 1 44% · X 21% · 2 35%  
-Casas: 1 45% · X 23% · 2 32%  
-Hándicap PSV +110 · Total puntos 3.5  
+Casas: 1 47% · X 22% · 2 31%  
+Hándicap PSV +105 · Total puntos 3.5  
 🔎 **Claves**  
 • Forma: PSV Eindhoven ❌❌➖❌✅ | Club Brugge ➖❌❌✅✅  
 • H2H: sin precedentes  
 • Bajas: PSV Eindhoven: sin bajas; Club Brugge: sin bajas  
-• Favorito de las casas: PSV Eindhoven @ 2.10  
+• Favorito de las casas: PSV Eindhoven @ 2.05  
 
 ## RB Leipzig vs Manchester City — 04/11 · 21:00
 
