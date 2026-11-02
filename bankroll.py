@@ -203,7 +203,7 @@ def place(bank, signals, today, kg):
 def log_signals(state):
     """Añade a LOG cada señal ya decidida (ganada/perdida) una sola vez; state.json las poda a los 3 días."""
     used = {tuple(l) for b in state["bank"]["bets"] for l in b["legs"]}
-    rows = [{"fecha": str(s.get("start", ""))[:10], "deporte": s.get("sport", "?"), "mercado": s["market"], "p": s["p"],
+    rows = [{"fecha": str(s.get("start", ""))[:10], "deporte": s.get("sport") or ("⚽" if s["key"].split("|")[0] in A.ALL_LEAGUES else s["key"].split("|")[0]), "mercado": s["market"], "p": s["p"],
              "implied": s.get("implied", round(1 / s["odds"], 3)), "odds": s["odds"], "edge": s["edge"],
              "gano": int(s["result"] is True), "retorno": s.get("factor", s["odds"] if s["result"] is True else 0.0),
              "clv": s.get("clv"), "apostada": int((s["key"], s["market"]) in used)}

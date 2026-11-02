@@ -5,7 +5,7 @@ import pandas as pd
 import analyst as A
 import bankroll as B
 
-SPORTS = {"⚽": ("futbol", "Fútbol"), "🏀": ("nba", "NBA"), "🏈": ("nfl", "NFL"), "🏒": ("nhl", "NHL"),
+SPORTS = {"⚽": ("futbol", "Fútbol"), "🏀": ("nba", "NBA·NCAA"), "🏈": ("nfl", "NFL·NCAA"), "🏆": ("europa", "Champions·Europa"), "🏒": ("nhl", "NHL"),
           "⚾": ("mlb", "MLB"), "🥊": ("ufc", "UFC"), "🎾": ("tenis", "Tenis"), "🎮": ("cs2", "CS2"), "🐉": ("dota2", "Dota 2"), "🧙": ("lol", "LoL"),
           "🔫": ("r6", "R6 Siege"), "📱": ("mlbb", "MLBB")}
 PAGES = A.DATA.parent / "apuestas"
