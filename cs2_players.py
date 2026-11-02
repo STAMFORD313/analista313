@@ -2,7 +2,7 @@
 por jugador y partido (rating, ADR, KAST, K/D, primeras bajas) y rating por mapa, y fichajes. Construye el grafo de
 conocimiento data/cs2/grafo_cs2.json (jugadores, equipos, mapas, torneos) y da features para el modelo (team_features).
 Uso: python cs2_players.py [update|graph|backtest]   (sin argumento: update + graph). Incremental: solo baja lo nuevo."""
-import json, math, os, sys, time, warnings
+import gzip, json, math, os, sys, time, warnings
 from collections import defaultdict
 from concurrent.futures import ThreadPoolExecutor
 
@@ -16,7 +16,7 @@ from pathlib import Path
 warnings.filterwarnings("ignore", category=FutureWarning)  # concat con tablas vacías la primera vez
 DIR = Path(__file__).parent / "data" / "cs2"
 GAMES, PMATCH, PMAPS, NOSTATS, TRANSF, GRAPH = (DIR / f for f in (
-    "players_games.csv", "players_matches.csv", "players_maps.csv", "players_nostats.csv", "players_transfers.csv", "grafo_cs2.json"))
+    "players_games.csv", "players_matches.csv", "players_maps.csv", "players_nostats.csv", "players_transfers.csv", "grafo_cs2.json.gz"))
 SINCE = "2024-05-01"  # 2 años y medio: medio año de calentamiento para las features
 TIERS = "s,a,b"
 G_COLS = ["game_id", "match_id", "slug", "date", "tier", "bo", "tournament_id", "tournament", "t1_id", "t2_id", "team1", "team2",
@@ -180,16 +180,16 @@ def build_graph():
     for tid, tg in g.groupby("tournament_id"):
         G.add_node(f"torneo:{int(tid)}", type="torneo", nombre=tg.tournament.iloc[0], nivel=tg.tier.iloc[0], fecha=str(tg.date.min().date()))
     for (t, m), x in gm.groupby(["team", "map"]):
-        G.add_edge(T(t), f"mapa:{m}", key="domina_mapa", rel="domina_mapa", mapas=len(x), wr=round(x.win.mean(), 3),
+        G.add_edge(T(t), f"mapa:{m}", key="domina_mapa", mapas=len(x), wr=round(x.win.mean(), 3),
                    wr_ult_6m=round(x[x.date > now - pd.Timedelta(days=182)].win.mean(), 3) if (x.date > now - pd.Timedelta(days=182)).any() else None)
     for (t, r), x in ser.groupby(["team", "rival"]):
         w, l = int(x.won.sum()), int((~x.won).sum())
         mw, ml = int(x["sum"].sum()), int((x["count"] - x["sum"]).sum())
         if w != l or mw != ml:
             rel = "gana_a" if (w, mw) > (l, ml) else "pierde_con"
-            G.add_edge(T(t), T(r), key=rel, rel=rel, series=f"{w}-{l}", mapas=f"{mw}-{ml}", ultima=str(x.date.max().date()))
+            G.add_edge(T(t), T(r), key=rel, series=f"{w}-{l}", mapas=f"{mw}-{ml}", ultima=str(x.date.max().date()))
     for (t, tid), x in ser.groupby(["team", "tournament_id"]):
-        G.add_edge(T(t), f"torneo:{int(tid)}", key="participa_en", rel="participa_en", series=f"{int(x.won.sum())}-{int((~x.won).sum())}")
+        G.add_edge(T(t), f"torneo:{int(tid)}", key="participa_en", series=f"{int(x.won.sum())}-{int((~x.won).sum())}")
     # --- jugadores: fichas, mapas, compañeros, rivales
     pp = pp.assign(date=pp.game_id.map(date)).merge(g[["game_id", "winner_id", "t1_id", "t2_id"]], on="game_id")
     pp["win"] = (pp.winner_id == pp.team_id).astype(int)
@@ -213,13 +213,13 @@ def build_graph():
                    mapas_fuertes=[m.replace("de_", "") for m in _top(maps, "rating")],
                    mapas_debiles=[m.replace("de_", "") for m in _top(maps, "rating", rev=False)],
                    rivales_favorables=_top(riv, "wr", min_n=4, wr=True), rivales_desfavorables=_top(riv, "wr", rev=False, min_n=4, wr=True),
-                   por_mapa={m.replace("de_", ""): v for m, v in maps.items()})
+                   )  # el detalle por mapa está en las aristas domina_mapa
         for m, v in maps.items():
-            G.add_edge(P(p), f"mapa:{m}", key="domina_mapa", rel="domina_mapa", mapas=v["n"], wr=v["wr"], rating=v["rating"])
+            G.add_edge(P(p), f"mapa:{m}", key="domina_mapa", mapas=v["n"], wr=v["wr"], rating=v["rating"])
         for t, y in x.groupby("team_id"):
             if pd.isna(t): continue
             if T(t) not in G: G.add_node(T(t), type="equipo", nombre=None)
-            G.add_edge(P(p), T(t), key="juega_en", rel="juega_en", desde=str(y.date.min().date()), hasta=str(y.date.max().date()),
+            G.add_edge(P(p), T(t), key="juega_en", desde=str(y.date.min().date()), hasta=str(y.date.max().date()),
                        mapas=len(y), wr=round(y.win.mean(), 3), rating=round(y.rating.mean(), 2))
     # compañeros: mapas jugados juntos, win rate y rating juntos
     pair = defaultdict(lambda: [0, 0, 0.0, 0.0])
@@ -232,7 +232,7 @@ def build_graph():
     best = defaultdict(list)
     for (a, b), (n, w, ra, rb) in pair.items():
         if n < 5 or P(a) not in G or P(b) not in G: continue
-        G.add_edge(P(a), P(b), key="compañero_de", rel="compañero_de", mapas=n, wr=round(w / n, 3),
+        G.add_edge(P(a), P(b), key="compañero_de", mapas=n, wr=round(w / n, 3),
                    rating_juntos=[round(ra / n, 2), round(rb / n, 2)])
         best[a].append((w / n, n, b)); best[b].append((w / n, n, a))
     for p, l in best.items():
@@ -241,11 +241,11 @@ def build_graph():
     for t in tr.dropna(subset=["to_id"]).itertuples():
         if P(t.player_id) in G:
             if T(t.to_id) not in G: G.add_node(T(t.to_id), type="equipo", nombre=t.to_team)
-            G.add_edge(P(t.player_id), T(t.to_id), key=f"fichado_por {t.date}", rel="fichado_por", fecha=t.date,
+            G.add_edge(P(t.player_id), T(t.to_id), key=f"fichado_por {t.date}", fecha=t.date,
                        desde=t.from_team if isinstance(t.from_team, str) else None)
     # --- fichas de equipo
     for t, x in ser.groupby("team"):
-        mp = {G.nodes[v]["nombre"]: {"n": d["mapas"], "wr": d["wr"]} for _, v, d in G.out_edges(T(t), data=True) if d["rel"] == "domina_mapa"}
+        mp = {G.nodes[v]["nombre"]: {"n": d["mapas"], "wr": d["wr"]} for _, v, k, d in G.out_edges(T(t), keys=True, data=True) if k == "domina_mapa"}
         rv = {names.get(r, str(r)): {"n": len(y), "wr": round(y.won.mean(), 3)} for r, y in x.groupby("rival")}
         last = pp[pp.team_id == t]
         lu = last[last.game_id == last.game_id.iloc[-1]].player_id if len(last) else []
@@ -256,10 +256,17 @@ def build_graph():
             rivales_favorables=_top(rv, "wr", min_n=3, wr=True), rivales_desfavorables=_top(rv, "wr", rev=False, min_n=3, wr=True),
             por_nivel={k: {"series": len(y), "wr": round(y.won.mean(), 3)} for k, y in x.groupby("tier")})
     G.graph["actualizado"] = pd.Timestamp.now(tz="UTC").isoformat()
-    GRAPH.write_text(json.dumps(nx.node_link_data(G, edges="links"), ensure_ascii=False, default=lambda o: o.item() if hasattr(o, "item") else str(o)), encoding="utf-8")
+    js = json.dumps(nx.node_link_data(G, edges="links"), ensure_ascii=False, separators=(",", ":"),
+                    default=lambda o: o.item() if hasattr(o, "item") else str(o))
+    GRAPH.write_bytes(gzip.compress(js.encode("utf-8"), 9, mtime=0))  # compacto y comprimido (15 MB → ~1.2 MB)
     c = pd.Series([d["type"] for _, d in G.nodes(data=True)]).value_counts().to_dict()
-    print(f"grafo: {c}, {G.number_of_edges()} aristas", pd.Series([d["rel"] for *_, d in G.edges(data=True)]).value_counts().to_dict())
+    print(f"grafo: {c}, {G.number_of_edges()} aristas", pd.Series([k.split()[0] for *_, k in G.edges(keys=True)]).value_counts().to_dict())
     return G
+
+
+def load_graph():
+    """El grafo guardado (data/cs2/grafo_cs2.json.gz) como MultiDiGraph de networkx."""
+    return nx.node_link_graph(json.loads(gzip.decompress(GRAPH.read_bytes())), edges="links")
 
 
 PARAMS = DIR / "players_params.json"  # coeficientes del ajuste sobre el Elo (los escribe backtest())
@@ -276,8 +283,9 @@ class Estado:
     """Estado acumulado partido a partido (sin mirar el futuro): rating de cada jugador (media con olvido por mapa),
     última alineación de cada equipo, mapas jugados juntos por cada pareja, rendimiento por mapa de cada equipo
     (olvido temporal) y H2H por mapas."""
-    DECAY, K, HL = 0.995, 2.0, 180
-    OPP = 1.0  # corrección por rival (0.5: 0.6125, 1.0: 0.6106, 1.5: 0.6136)  # (backtest: 0.97→0.995 baja el log-loss 0.6160→0.6139) olvido por mapa del jugador, encogimiento a la media, vida media (días) del mapa del equipo
+    # olvido por mapa del rating del jugador, encogimiento a la media, vida media (días) del mapa del equipo y corrección por
+    # rival; DECAY y OPP elegidos por walk_forward() solo con el año -2 (se guardan en players_params.json)
+    DECAY, K, HL, OPP = 1.0, 2.0, 180, 1.0
 
     def __init__(self, pp):
         self.by_game = defaultdict(list)
@@ -354,24 +362,32 @@ _STATE = None
 
 
 def refresh():
-    """Actualización incremental (partidos, stats y fichajes nuevos) y grafo si tiene más de 20 h. Nunca rompe el run."""
+    """Actualización incremental (partidos, stats y fichajes nuevos) y grafo si tiene más de 7 días. Nunca rompe el run."""
     try:
         update()
-        done = json.loads(GRAPH.read_text(encoding="utf-8")).get("graph", {}).get("actualizado", "") if GRAPH.exists() else ""
-        if done < (pd.Timestamp.now(tz="UTC") - pd.Timedelta(hours=20)).isoformat(): build_graph()  # la fecha del archivo no vale tras un checkout
+        done = load_graph().graph.get("actualizado", "") if GRAPH.exists() else ""
+        if done < (pd.Timestamp.now(tz="UTC") - pd.Timedelta(days=7)).isoformat(): build_graph()  # semanal: cada versión ocupa ~1.2 MB en git
     except Exception as e:
         print("cs2_players refresh:", repr(e))
+
+
+def state():
+    """Estado con todo lo jugado (se calcula una vez por proceso, ~15 s)."""
+    global _STATE
+    if _STATE is None:
+        if os.getenv("GITHUB_ACTIONS"): refresh()  # en el bot horario: datos y grafo al día sin tocar el workflow
+        if PARAMS.exists():
+            c = json.loads(PARAMS.read_text())
+            Estado.DECAY, Estado.OPP = c.get("decay", Estado.DECAY), c.get("opp", Estado.OPP)
+        _STATE = run_states(*load())
+    return _STATE
 
 
 def team_features(team_id, rival_id, fecha=None):
     """Features de team_id frente a rival_id con lo jugado hasta ahora: fuerza de la plantilla actual (rating medio de su
     última alineación), ventaja de mapa pool, H2H por mapas y química (mapas jugados juntos por las parejas)."""
-    global _STATE
-    if _STATE is None:
-        if os.getenv("GITHUB_ACTIONS"): refresh()  # en el bot horario: datos y grafo al día sin tocar el workflow
-        _STATE = run_states(*load())
     d = pd.Timestamp(fecha or pd.Timestamp.now(tz="UTC"))
-    return _STATE.features(team_id, rival_id, d if d.tzinfo else d.tz_localize("UTC"))
+    return state().features(team_id, rival_id, d if d.tzinfo else d.tz_localize("UTC"))
 
 
 def ajustar(p_elo, team1_id, team2_id, fecha=None):
@@ -382,6 +398,41 @@ def ajustar(p_elo, team1_id, team2_id, fecha=None):
     p = min(max(p_elo, 1e-6), 1 - 1e-6)
     z = c["a"] * math.log(p / (1 - p)) + sum(c[k] * f[k] for k in FEATS)
     return 1 / (1 + math.exp(-z))
+
+
+_CARD = None
+
+
+def card_lines(team1_id, team2_id, name1, name2):
+    """2-3 líneas en texto plano para la tarjeta de CS2 (escapar con A.esc): jugadores en forma de la plantilla actual
+    (rating medio en sus 10 últimos mapas), mapa fuerte/débil de cada equipo (último año, ≥5 mapas) y química."""
+    global _CARD
+    st = state()
+    if _CARD is None:
+        g, pp = load()
+        nick = _read(PMATCH, PM_COLS).drop_duplicates("player_id", keep="last").set_index("player_id").nick
+        date = dict(zip(g.game_id, g.date))
+        pp = pp.assign(date=pp.game_id.map(date)).sort_values("date")
+        _CARD = (g, pp.groupby("player_id").rating.apply(lambda r: r.tail(10).mean()), nick)
+    g, form, nick = _CARD
+    recent = g[g.date > g.date.max() - pd.Timedelta(days=365)]
+    out = {"forma": [], "mapas": [], "quimica": []}
+    for t, name in ((team1_id, name1), (team2_id, name2)):
+        lu = st.lineup.get(t)
+        if not lu:
+            out["forma"].append(f"{name}: sin datos"); out["mapas"].append(f"{name}: sin datos"); out["quimica"].append(f"{name}: sin datos")
+            continue
+        top = sorted(((form.get(p, 0), nick.get(p, "?")) for p in lu), reverse=True)[:2]
+        out["forma"].append(f"{name}: " + ", ".join(f"{n} {r:.1f}" for r, n in top))
+        m = recent[(recent.t1_id == t) | (recent.t2_id == t)].assign(w=lambda d: d.winner_id == t).groupby("map").w.agg(["mean", "size"])
+        m = m[m["size"] >= 5].sort_values("mean")
+        out["mapas"].append(f"{name}: " + (f"fuerte {m.index[-1].replace('de_', '')} {m['mean'].iloc[-1]:.0%}, débil {m.index[0].replace('de_', '')} "
+                                           f"{m['mean'].iloc[0]:.0%}" if len(m) >= 2 else "pocos mapas"))
+        pairs = [st.pair[a, b] for i, a in enumerate(lu) for b in lu[i + 1:]]
+        out["quimica"].append(f"{name}: {sum(pairs) / len(pairs):.0f} mapas juntos de media")
+    return [f"• Jugadores en forma (rating últimos 10 mapas): {' | '.join(out['forma'])}",
+            f"• Mapas (último año): {' | '.join(out['mapas'])}",
+            f"• Química de la plantilla: {' | '.join(out['quimica'])}"]
 
 
 def logit_fit(X, y, l2=1e-3, iters=50):
@@ -395,51 +446,86 @@ def logit_fit(X, y, l2=1e-3, iters=50):
     return w
 
 
-def backtest(train_from="2024-11-01", test_from="2025-11-01"):
-    """Ajusta con un año y mide en el siguiente (features calculadas ANTES de cada partido); compara con el Elo de esports.py."""
+_ELO = {}
+
+
+def frame(train_from="2024-11-01"):
+    """Una fila por serie S/A/B desde train_from: features (con los parámetros actuales de Estado, calculadas ANTES de
+    cada partido), logit de la prob. del Elo de producción de esports.py (con margen de rondas) y resultado."""
     import numpy as np
     import esports as E
-    df = pd.read_csv(E.HIST)
-    df["date"] = pd.to_datetime(df["date"], utc=True)
-    df = df.sort_values("date", ignore_index=True)
-    df = df[df.date >= df.date.max() - pd.DateOffset(years=4)]
     since = pd.Timestamp(train_from, tz="UTC")
-    preds = {}
-    E.map_elo(df, since, E.load_games(), preds)  # el Elo de producción (con margen de rondas por mapa)
-    elo = df[df.date >= since].assign(p_elo=lambda d: d.id.map(lambda i: preds[i][0]))[["id", "t1_id", "winner_id", "p_elo"]]
+    if train_from not in _ELO:
+        df = pd.read_csv(E.HIST)
+        df["date"] = pd.to_datetime(df["date"], utc=True)
+        df = df.sort_values("date", ignore_index=True)
+        df = df[df.date >= df.date.max() - pd.DateOffset(years=4)]
+        preds = {}
+        E.map_elo(df, since, E.load_games(), preds)
+        _ELO[train_from] = df[df.date >= since].assign(p_elo=lambda d: d.id.map(lambda i: preds[i][0]))[["id", "t1_id", "winner_id", "p_elo"]]
     g, pp = load()
     rows = []
     run_states(g, pp, lambda mid, t1, t2, d, st: rows.append({"id": mid, "t1": t1, "date": d, **st.features(t1, t2, d)}))
-    x = pd.DataFrame(rows).merge(elo, on="id")
-    x = x[x.t1 == x.t1_id]
+    x = pd.DataFrame(rows).merge(_ELO[train_from], on="id")
+    x = x[(x.t1 == x.t1_id) & (x.date >= since)]
     x["y"] = (x.winner_id == x.t1_id).astype(float)
     p = x.p_elo.clip(1e-6, 1 - 1e-6)
     x["le"] = np.log(p / (1 - p))
-    tr, te = x[(x.date >= since) & (x.date < pd.Timestamp(test_from, tz="UTC"))], x[x.date >= pd.Timestamp(test_from, tz="UTC")]
+    return x
 
-    def ll(cols, w=None):
-        w = logit_fit(tr[cols].to_numpy(), tr.y.to_numpy()) if w is None else w
-        q = 1 / (1 + np.exp(-te[cols].to_numpy() @ w))
-        l = -(te.y * np.log(q) + (1 - te.y) * np.log(1 - q))
-        return l.mean(), l, w
 
-    base, lb, _ = ll(["le"], np.array([1.0]))
-    cal, lc, _ = ll(["le"])
-    full, lf, w = ll(["le", *FEATS])
+def fit_eval(tr, te, cols, w=None):
+    """Log-loss medio en te (y por serie) de la logística ajustada en tr."""
+    import numpy as np
+    w = logit_fit(tr[cols].to_numpy(), tr.y.to_numpy()) if w is None else w
+    q = 1 / (1 + np.exp(-te[cols].to_numpy() @ w))
+    l = -(te.y * np.log(q) + (1 - te.y) * np.log(1 - q))
+    return l.mean(), l, w
+
+
+def backtest(train_from="2024-11-01", test_from="2025-11-01", save=True):
+    """Ajusta con un año y mide en el siguiente (features calculadas ANTES de cada partido); compara con el Elo de esports.py."""
+    import numpy as np
+    x = frame(train_from)
+    cut = pd.Timestamp(test_from, tz="UTC")
+    tr, te = x[x.date < cut], x[x.date >= cut]
+    base, lb, _ = fit_eval(tr, te, ["le"], np.array([1.0]))
+    cal = fit_eval(tr, te, ["le"])[0]
+    full, lf, w = fit_eval(tr, te, ["le", *FEATS])
     print(f"series S/A/B: ajuste {len(tr)} · prueba {len(te)}")
     print(f"log-loss Elo esports.py {base:.4f} · Elo recalibrado {cal:.4f} · Elo + features jugadores {full:.4f} "
           f"(Δ {full - base:+.4f} ± {(lf - lb).std() / len(te) ** 0.5:.4f})")
     for f in FEATS:
-        print(f"  sin {f}: {ll(['le', *[k for k in FEATS if k != f]])[0]:.4f}")
+        print(f"  sin {f}: {fit_eval(tr, te, ['le', *[k for k in FEATS if k != f]])[0]:.4f}")
     print("coeficientes", dict(zip(["a", *FEATS], np.round(w, 3))))
     res = {"a": float(w[0]), **{k: float(v) for k, v in zip(FEATS, w[1:])}, "logloss_elo": round(base, 4), "logloss": round(full, 4),
-           "n_test": len(te)}
-    if full < base: PARAMS.write_text(json.dumps(res))
+           "n_test": len(te), "decay": Estado.DECAY, "opp": Estado.OPP}
+    if save and full < base: PARAMS.write_text(json.dumps(res))
     return res
+
+
+def walk_forward(grid_decay=(0.97, 0.99, 0.995, 1.0), grid_opp=(0.0, 0.5, 1.0, 1.5)):
+    """Validación honesta: los hiperparámetros (olvido y corrección por rival) se eligen SOLO con el año -2
+    (ajuste nov→abr, evaluación may→oct); luego se ajustan los coeficientes con todo el año -2 y se mide el año -1."""
+    a, b, c = "2024-11-01", "2025-05-01", "2025-11-01"
+    best = None
+    for dec in grid_decay:
+        for opp in grid_opp:
+            Estado.DECAY, Estado.OPP = dec, opp
+            x = frame(a)
+            y2 = x[x.date < pd.Timestamp(c, tz="UTC")]
+            m = pd.Timestamp(b, tz="UTC")
+            ll = fit_eval(y2[y2.date < m], y2[y2.date >= m], ["le", *FEATS])[0]
+            print(f"olvido {dec} · rival {opp}: log-loss interno año -2 {ll:.4f}", flush=True)
+            if best is None or ll < best[0]: best = (ll, dec, opp)
+    Estado.DECAY, Estado.OPP = best[1], best[2]
+    print(f"elegido con el año -2: olvido {best[1]} · rival {best[2]} → año -1 (fuera de muestra):")
+    return backtest(a, c)
 
 
 if __name__ == "__main__":
     cmd = sys.argv[1] if len(sys.argv) > 1 else "all"
     if cmd in ("update", "all"): update(int(sys.argv[2]) if len(sys.argv) > 2 else None)
-    if cmd in ("graph", "all") and "build_graph" in globals(): build_graph()
-    if cmd == "backtest" and "backtest" in globals(): backtest()
+    if cmd in ("graph", "all"): build_graph()
+    if cmd == "backtest": backtest()
+    if cmd == "walkforward": walk_forward()

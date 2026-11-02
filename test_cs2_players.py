@@ -42,6 +42,8 @@ assert G.nodes["equipo:1"]["mapa_fuerte"][0] == "nuke" and G.nodes["equipo:1"]["
 assert G.has_edge("equipo:1", "equipo:2", key="gana_a") and G.has_edge("equipo:2", "equipo:1", key="pierde_con")
 assert G.edges["jugador:1", "jugador:2", "compañero_de"]["mapas"] == 15
 assert G.has_edge("jugador:1", "equipo:1", key="fichado_por 2024-12-01")
-assert json.loads(C.GRAPH.read_text(encoding="utf-8"))["links"]
+assert C.load_graph().number_of_edges() == G.number_of_edges() and C.GRAPH.suffix == ".gz"
 assert C.ajustar(0.6, 1, 2) == 0.6  # sin coeficientes entrenados no toca la prob.
+L = C.card_lines(1, 2, "Uno", "Dos")
+assert len(L) == 3 and "Uno: p" in L[0] and "fuerte nuke" in L[1] and "débil inferno" in L[1] and "15 mapas juntos" in L[2], L
 print("ok cs2_players")
