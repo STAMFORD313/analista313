@@ -1,26 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 02/11/2026 18:28 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Kalamata vs Iraklis — 02/11 · 18:30
-
-💵 **APOSTADA** · 🇬🇷 Super League · **Más de 2.5 goles** @ **2.15** (Bet365) · prob 52% vs casas 44% · ventaja +11%
-
-- ❌ Probabilidad 52% (mín. 55%)
-- ✅ Ventaja +11% (entre 5% y 30%)
-- ✅ Segmento «⚽ goles» sin pérdidas
-- ❌ IA: confianza 3/5 (mín. 4) · Existe valor matemático claro con una cuota 2.15 frente a una probabilidad proyectada superior al 50% y plantillas completas. Aunque la liga griega tiende a ser 'under', la irregularidad defensiva reciente de ambos equipos favorece la línea de goles.
-
-📊 **Escenarios** (goles esperados 1.76 - 1.29)  
-1 48% · X 23% · 2 28%  
-1X 72% · X2 52% · 12 77%  
-+1.5 81% · +2.5 59% · +3.5 37% · Ambos marcan 60%  
-Marcadores: 1-1 11% · 2-1 9% · 1-0 8% · 2-0 7%  
-🔎 **Claves**  
-• Forma: Kalamata ✅❌✅✅❌ | Iraklis ➖➖✅❌❌  
-• H2H: sin precedentes  
-• Bajas: Kalamata: sin bajas; Iraklis: sin bajas  
-• Favorito de las casas: Kalamata @ 2.25  
+Actualizado 02/11/2026 18:37 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Red Star vs Nancy — 02/11 · 20:45
 

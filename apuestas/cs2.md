@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 02/11/2026 18:28 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 02/11/2026 18:37 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## KUUSAMO vs BOJONG — 02/11 · 19:00
 
