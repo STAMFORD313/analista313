@@ -11,6 +11,7 @@ from scipy import stats
 import multisport as M
 import train_football as TF
 
+MARKETS = M.A.DATA / "espn_markets.json"  # totales y hándicap de NCAA (lo lee multisport.py)
 BASE = {"nba": (100, 20), "nfl": (55, 20), "nhl": (50, 8), "mlb": (24, 4)}  # (ventaja, K) de partida, para comparar
 GRID = {"K": [1, 2, 4, 6, 8, 12, 16, 20, 24, 32, 40, 48, 64, 80], "hfa": [0, 15, 25, 35, 50, 65, 80, 100, 120],
         "keep": [0.2, 0.3, 0.4, 0.5, 0.6, 0.75, 0.9, 1.0]}
@@ -85,6 +86,47 @@ def market_report():
         measure(f"{league} hándicap", np.column_stack([col("p_cover"), 1 - col("p_cover")]), col("sh", "sa"), nan(hs - as_ + sl == 0, (hs - as_ + sl < 0).astype(float)))
 
 
+def college(league):
+    """Totales (modelo de puntos: vida media, k y sd elegidos en el año -3) y hándicap (margen desde el Elo) de NCAA,
+    medidos en las 2 últimas temporadas. Solo se guardan si mejoran fuera de muestra: totales frente a la moneda al aire
+    en la línea mediana móvil (como totals_model) y hándicap frente al margen del modelo de puntos."""
+    import totals_model as TM
+    df = load(league)
+    df = df[pd.to_numeric(df.hs, errors="coerce").notna() & pd.to_numeric(df["as"], errors="coerce").notna()].reset_index(drop=True)
+    d = pd.DataFrame({"Div": league, "HomeTeam": df.home, "AwayTeam": df.away, "FTHG": df.hs.astype(float), "FTAG": df["as"].astype(float),
+                      "Date": df.date.dt.tz_localize(None)})
+    end = d.Date.max(); since = end - pd.DateOffset(years=3)
+    L = TF.lambdas(d, since, [30, 60, 120, 180, 365], [2, 5, 10, 20])
+    m = (d.Date >= since).to_numpy()
+    e, y = d[m].reset_index(drop=True), (d.FTHG + d.FTAG).to_numpy()[m]
+    test = (e.Date >= end - pd.DateOffset(years=2)).to_numpy()
+    line = np.floor((d.FTHG + d.FTAG).rolling(200, min_periods=50).median().shift(1).to_numpy()[m]) + 0.5
+    ok = (L[365, 5][0] > 0) & np.isfinite(line)
+    V, T = ok & ~test, ok & test
+    sc = {c: TM.score("normal", (L[c][0] + L[c][1])[V], float((y[V] - (L[c][0] + L[c][1])[V]).std()), y[V], line[V])[2].mean() for c in L}
+    hl, k = min(sc, key=sc.get)
+    mu = L[hl, k][0] + L[hl, k][1]
+    sd = float((y[V] - mu[V]).std())
+    d_ou = TM.score("normal", mu[T], sd, y[T], line[T])[2] - np.log(2)
+    out = {}
+    print(f"{league} totales: vida media {hl} d, k={k}, sd {sd:.1f}: log-loss más/menos {np.log(2) + d_ou.mean():.4f} vs moneda "
+          f"{np.log(2):.4f} ({d_ou.mean():+.4f} ± {d_ou.std() / np.sqrt(T.sum()):.4f}, {T.sum()} partidos)")
+    if d_ou.mean() < -2 * d_ou.std() / np.sqrt(T.sum()):
+        out["totals"] = {"half_life": hl, "k": k, "dist": "normal", "par": sd, "ou": round(float(np.log(2) + d_ou.mean()), 4), "ou_old": round(float(np.log(2)), 4)}
+    # hándicap: margen desde el Elo frente al margen del modelo de puntos (sd ajustada en validación)
+    c = {**M._P[league], "league": league}
+    pred = []
+    M.elo(df, c["hfa"], c["K"], pred, c["keep"], mov=c["mov"])
+    z, mg = stats.norm.ppf(np.clip(np.array(pred)[m], 1e-6, 1 - 1e-6)), (d.FTHG - d.FTAG).to_numpy()[m]
+    a, b = np.polyfit(z[V], mg[V], 1)
+    sde, pm = float((mg[V] - a * z[V] - b).std()), L[hl, k][0] - L[hl, k][1]
+    dc = crps(a * z[T] + b, sde, mg[T]) - crps(pm[T], float((mg[V] - pm[V]).std()), mg[T])
+    print(f"{league} hándicap: CRPS margen Elo − modelo de puntos {dc.mean():+.3f} ± {dc.std() / np.sqrt(T.sum()):.3f}")
+    if dc.mean() < -2 * dc.std() / np.sqrt(T.sum()):
+        out["spread"] = {"a": float(a), "b": float(b), "sd": sde, "crps_vs_points": round(float(dc.mean()), 3)}
+    return out
+
+
 def main():
     out = json.loads((M.A.DATA / "espn_params.json").read_text())
     for league in BASE:
@@ -97,6 +139,9 @@ def main():
                for k, h, kp, mv in itertools.product(GRID["K"], GRID["hfa"], GRID["keep"], (False, True))}
         k, h, kp, mv = min(res, key=lambda c: res[c][0])
         if res[k, h, kp, mv][1] >= old[1]: k, h, kp, mv = BASE[league][1], BASE[league][0], 0.75, False  # no mejora fuera de muestra
+        cur = out.get(league)  # reentreno semanal: solo cambia si no empeora a lo que usa el bot, en la misma prueba
+        if cur and logloss(df, cur["hfa"], cur["K"], val, test, cur.get("keep", 0.75), cur.get("mov", False))[1] <= res.get((k, h, kp, mv), old)[1]:
+            print(league, "se mantiene", cur); continue
         out[league] = c = {"K": k, "hfa": h, "keep": kp, "mov": mv, "logloss": round(res.get((k, h, kp, mv), old)[1], 4), "logloss_old": round(old[1], 4)}
         print(league, c, f"({test.sum()} partidos de prueba; el mejor en prueba sería {min(res, key=lambda c: res[c][1])})")
         if league in ("nba", "nfl"): c["spread"] = spread_fit(df, {**c, "league": league}, val, test)
@@ -104,4 +149,6 @@ def main():
 
 
 if __name__ == "__main__":
-    market_report() if sys.argv[1:] == ["informe"] else main()
+    if sys.argv[1:] == ["informe"]: market_report()
+    elif sys.argv[1:] == ["ncaa"]: MARKETS.write_text(json.dumps({l: college(l) for l in ("cfb", "cbb")}))
+    else: main()

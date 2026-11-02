@@ -34,6 +34,9 @@ SOCCER = ("ucl", "uel")  # 1X2 con empate: un Elo común con la Conference y pro
 TOT = json.loads(totals_model.PARAMS.read_text()) if totals_model.PARAMS.exists() else {}  # lo ajusta totals_model.py
 SPREAD = {**TOT.get("spread", {}), **{l: c["spread"] for l, c in _P.items() if "spread" in c}}  # margen desde el Elo (NBA, NFL)
 TOT = {l: c for l, c in TOT.items() if l != "spread" and c["ou"] < c["ou_old"]}  # solo ligas donde mejora el más/menos
+_MK = json.loads((A.DATA / "espn_markets.json").read_text()) if (A.DATA / "espn_markets.json").exists() else {}  # train_espn.py ncaa
+TOT.update({l: c["totals"] for l, c in _MK.items() if "totals" in c})
+SPREAD.update({l: c["spread"] for l, c in _MK.items() if "spread" in c})
 COLS = ["id", "date", "event", "home", "away", "hs", "as", "res"]
 
 
@@ -230,6 +233,17 @@ def line_details(odds):
     except (TypeError, IndexError, AttributeError): return "", None
 
 
+def recent(path, today, q):
+    """Resultados de ayer y hoy sin guardarlos (para liquidar en las horas sin descarga completa del historial)."""
+    rows = []
+    for d in pd.date_range(today - pd.Timedelta(days=1), today):
+        try: rows += [r for r in parse(get(f"{path}/scoreboard", dates=f"{d:%Y%m%d}", limit=300, **q)) if r["res"] is not None]
+        except (requests.RequestException, ValueError, KeyError) as e: print("ESPN", path, d, e)
+    df = pd.DataFrame(rows, columns=COLS)
+    df["date"] = pd.to_datetime(df["date"], utc=True)
+    return df
+
+
 def save_odds(league, games, now, prob, pts, p3=None):
     """Guarda la última cuota PREVIA de DraftKings de cada partido (moneyline, total y hándicap) con la prob. del modelo
     en ese momento: train_espn.py informe mide con ellas log-loss frente al mercado, mezcla óptima y ROI."""
@@ -257,14 +271,16 @@ def run_league(league, state, today, kg):
     soccer, extra = league in SOCCER, league in _X
     if extra:
         import espn_extra  # importación tardía: espn_extra importa este módulo
-        df = pd.concat([espn_extra.history(l, today) for l in (espn_extra.SOCCER if soccer else [league])])
+        if espn_extra.EXTRA[league][4] == "D" and pd.Timestamp.now(tz="UTC").hour != 5:  # historial día a día: completo a las 5 UTC
+            df = pd.concat([espn_extra.load(league), recent(path, today, espn_extra.EXTRA[league][3])])
+        else: df = pd.concat([espn_extra.history(l, today) for l in (espn_extra.SOCCER if soccer else [league])])
         df = df.drop_duplicates("id").sort_values("date", ignore_index=True)
     else: df = update_history(league, today)
     print(f"{league}: {len(df)} partidos de historial")
     settle(df, league, state)
     p_ = _P.get(league, {})
     R = elo(df, hfa, k, None, p_.get("keep", 0.75), p_.get("kt", 250), p_.get("mov", False)) if k else None
-    pts = points_model(df, league, today) if k and not extra else None  # totales solo en las ligas con backtest
+    pts = points_model(df, league, today) if k and (not extra or league in TOT) else None  # totales solo con backtest
     games = {}
     for d in pd.date_range(today, periods=A.HORIZON_DAYS + 1):
         q = {"limit": 300, **espn_extra.EXTRA[league][3]} if extra else {"limit": 1000}  # college: groups y limit 300

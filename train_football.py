@@ -103,7 +103,7 @@ def ah_side(D, sign, line, odds, diff):
     return exp / odds, real - 1
 
 
-def market(name, Pm, mk, odds, G, y, yr, ok):
+def market(name, Pm, mk, odds, G, y, yr, ok, cur=None):
     """Elige en el año -2 el peso del modelo (log-loss) y el EDGE (ROI a cuota media; si el ROI es claramente negativo
     o no hay apuestas suficientes, mercado apagado: EDGE 1) y mide en el año -1. Compara con una mezcla logística (Platt sobre log-probs de ambos)."""
     from sklearn.linear_model import LogisticRegression
@@ -111,6 +111,7 @@ def market(name, Pm, mk, odds, G, y, yr, ok):
     mix = lambda w: w * Pm + (1 - w) * mk
     lls = {w: logloss(mix(w)[B], y[B]) for w in np.round(np.arange(0, 0.51, 0.05), 2)}
     w = min(lls, key=lls.get)
+    if cur is not None and logloss(mix(cur)[C], y[C]) <= logloss(mix(w)[C], y[C]): w = cur  # reentreno: no empeorar lo actual
     X = np.log(np.clip(np.column_stack([Pm, mk]), 1e-9, 1))
     platt = LogisticRegression(C=10, max_iter=2000).fit(X[B], y[B]).predict_proba(X[C])
     print(f"{name}: log-loss año -1 mercado {logloss(mk[C], y[C]):.4f} · modelo {logloss(Pm[C], y[C]):.4f} · "
@@ -159,14 +160,14 @@ def main():
     o1 = ok & np.isfinite(mk).all(1) & np.isfinite(odds).all(1) & F[["elo_diff", "rest_diff"]].notna().all(1).to_numpy()
     Q = LogisticRegression(C=10, max_iter=2000).fit(X[o1 & (yr == 0)], y[o1 & (yr == 0)]).predict_proba(X)
     win = np.zeros(odds.shape, bool); win[np.arange(len(y)), y] = True
-    out["1x2"] = market("1X2", Q, mk, odds, np.where(win, odds - 1, -1.0), y, yr, o1)
+    out["1x2"] = market("1X2", Q, mk, odds, np.where(win, odds - 1, -1.0), y, yr, o1, A.W["1x2"])
     # Más/Menos 2.5
     po = M[:, I + J > 2].sum(1)
     mk = norm(fill(num("P>2.5", "P<2.5"), num("Avg>2.5", "Avg<2.5")))
     odds = fill(num("Avg>2.5", "Avg<2.5"), num("B365>2.5", "B365<2.5"))
     yo = (e.FTHG + e.FTAG <= 2).to_numpy(int)
     G = np.where(np.arange(2)[None, :] == yo[:, None], odds - 1, -1.0)
-    out["ou"] = market("Más/Menos 2.5", np.column_stack([po, 1 - po]), mk, odds, G, yo, yr, ok & np.isfinite(mk).all(1) & np.isfinite(odds).all(1))
+    out["ou"] = market("Más/Menos 2.5", np.column_stack([po, 1 - po]), mk, odds, G, yo, yr, ok & np.isfinite(mk).all(1) & np.isfinite(odds).all(1), A.W["ou"])
     # Hándicap asiático (prob. equivalente, como analyst.ah_bets); log-loss solo con líneas de medio gol (sin nulas)
     D = np.stack([M[:, I - J == d].sum(1) for d in DV], 1)
     line, diff = e.AHh.to_numpy(float), (e.FTHG - e.FTAG).to_numpy(float)
@@ -175,7 +176,7 @@ def main():
     half = (line * 2) % 2 == 1
     oa = ok & np.isfinite(line) & np.isfinite(odds).all(1) & half
     out["ah"] = market("Hándicap asiático", np.column_stack([ph, pa]), norm(odds), odds, np.column_stack([gh, ga]),
-                       (diff + line < 0).astype(int), yr, oa)
+                       (diff + line < 0).astype(int), yr, oa, A.W["ah"])
     (A.DATA / "football_params.json").write_text(json.dumps(out))
 
 
