@@ -34490,3 +34490,14 @@ game_id,match_id,slug,date,tier,bo,tournament_id,tournament,t1_id,t2_id,team1,te
 191001,132574,legacy-br-vs-the-mongolz-02-11-2026,2026-11-02T02:00:00.000+00:00,s,3,5113,Intel Extreme Masters Beijing 2026,8118,736,Legacy,The MongolZ,3,de_ancient,736,13.0,8.0
 191015,132578,aurora-gaming-vs-liquid-02-11-2026,2026-11-02T04:40:00.000+00:00,s,3,5113,Intel Extreme Masters Beijing 2026,3598,790,Aurora,Liquid,1,de_inferno,790,13.0,3.0
 191014,132578,aurora-gaming-vs-liquid-02-11-2026,2026-11-02T04:40:00.000+00:00,s,3,5113,Intel Extreme Masters Beijing 2026,3598,790,Aurora,Liquid,2,de_anubis,790,13.0,4.0
+191012,132577,parivision-vs-g2-02-11-2026,2026-11-02T05:30:00.000+00:00,s,3,5113,Intel Extreme Masters Beijing 2026,8171,793,PARIVISION,G2,1,de_dust2,793,13.0,9.0
+191011,132577,parivision-vs-g2-02-11-2026,2026-11-02T05:30:00.000+00:00,s,3,5113,Intel Extreme Masters Beijing 2026,8171,793,PARIVISION,G2,2,de_anubis,8171,13.0,7.0
+191010,132577,parivision-vs-g2-02-11-2026,2026-11-02T05:30:00.000+00:00,s,3,5113,Intel Extreme Masters Beijing 2026,8171,793,PARIVISION,G2,3,de_ancient,8171,13.0,9.0
+191018,132579,9z-vs-betboom-team-02-11-2026,2026-11-02T07:10:00.000+00:00,s,3,5113,Intel Extreme Masters Beijing 2026,324,7498,9z,BetBoom,1,de_dust2,324,13.0,8.0
+191017,132579,9z-vs-betboom-team-02-11-2026,2026-11-02T07:10:00.000+00:00,s,3,5113,Intel Extreme Masters Beijing 2026,324,7498,9z,BetBoom,2,de_ancient,7498,13.0,7.0
+191016,132579,9z-vs-betboom-team-02-11-2026,2026-11-02T07:10:00.000+00:00,s,3,5113,Intel Extreme Masters Beijing 2026,324,7498,9z,BetBoom,3,de_mirage,7498,13.0,9.0
+191009,132576,furia-vs-faze-02-11-2026,2026-11-02T08:45:00.000+00:00,s,3,5113,Intel Extreme Masters Beijing 2026,648,791,FURIA,FaZe,1,de_ancient,791,13.0,11.0
+191008,132576,furia-vs-faze-02-11-2026,2026-11-02T08:45:00.000+00:00,s,3,5113,Intel Extreme Masters Beijing 2026,648,791,FURIA,FaZe,2,de_dust2,648,13.0,5.0
+191007,132576,furia-vs-faze-02-11-2026,2026-11-02T08:45:00.000+00:00,s,3,5113,Intel Extreme Masters Beijing 2026,648,791,FURIA,FaZe,3,de_cache,648,13.0,4.0
+191021,132580,mouz-cs2-vs-tyloo-cs-go-02-11-2026,2026-11-02T10:20:00.000+00:00,s,3,5113,Intel Extreme Masters Beijing 2026,765,757,MOUZ,TYLOO,1,de_inferno,765,13.0,6.0
+191020,132580,mouz-cs2-vs-tyloo-cs-go-02-11-2026,2026-11-02T10:20:00.000+00:00,s,3,5113,Intel Extreme Masters Beijing 2026,765,757,MOUZ,TYLOO,2,de_nuke,765,13.0,7.0

@@ -509,6 +509,8 @@
   "ucl|2026-11-04|Slavia Prague|Arsenal",
   "ucl|2026-11-04|Viking FK|Sabah FK",
   "uel|2026-11-04|Stade Rennais|Olympiacos",
+  "wta|2026-11-04|Antonia Ruzic|Alina Charaeva",
+  "wta|2026-11-04|Leylah Fernandez|Sofia Kenin",
   "cs2|132573",
   "cs2|132574",
   "cs2|132578",
@@ -578,8 +580,23 @@
   "dota2|133111",
   "r6|133074",
   "r6|133075",
-  "wta|2026-11-04|Antonia Ruzic|Alina Charaeva",
-  "wta|2026-11-04|Leylah Fernandez|Sofia Kenin"
+  "atp|2026-11-02|Daniel Merida|Sebastian Baez",
+  "atp|2026-11-04|Alexander Zverev|Lorenzo Musetti",
+  "atp|2026-11-04|Ignacio Buse|Daniil Medvedev",
+  "wta|2026-11-03|Linda Fruhvirtova|Weronika Falkowska",
+  "wta|2026-11-03|Jeline Vandromme|Kyoka Okamura",
+  "wta|2026-11-04|Claire Liu|Katie Boulter",
+  "cs2|133044",
+  "cs2|133046",
+  "cs2|133047",
+  "cs2|133045",
+  "cs2|133164",
+  "cs2|133165",
+  "cs2|133166",
+  "cs2|132529",
+  "cs2|133028",
+  "cs2|133167",
+  "lol|130830"
  ],
  "signals": [
   {
@@ -735,7 +752,11 @@
     "apostar": true,
     "motivo": null,
     "confianza": null
-   }
+   },
+   "result": false,
+   "score": "3-0",
+   "clv": 0.044,
+   "logged": true
   },
   {
    "market": "A",
@@ -1553,7 +1574,9 @@
    "context": "CS2 PARIVISION vs G2, BO3, torneo Intel Extreme Masters Beijing 2026 nivel s. Elo por mapa 1846 vs 1833 (prob. mapa 52%, serie 53%). Forma ❌✅✅✅❌ / ✅❌❌❌❌ (✅ victoria ❌ derrota). H2H 3: 2-1. Cambios de plantilla: ninguno. Cuotas Thunderpick 1.95/1.75.",
    "considered": true,
    "placed": false,
-   "result": null
+   "result": true,
+   "score": "2-1",
+   "logged": true
   },
   {
    "market": "t1",
@@ -1593,7 +1616,9 @@
    "context": "CS2 FURIA vs FaZe, BO3, torneo Intel Extreme Masters Beijing 2026 nivel s. Elo por mapa 2018 vs 1814 (prob. mapa 76%, serie 86%). Forma ✅✅✅✅✅ / ❌✅✅❌✅ (✅ victoria ❌ derrota). H2H 10: 4-6. Cambios de plantilla: ninguno. Cuotas Thunderpick 1.35/2.9.",
    "considered": true,
    "placed": false,
-   "result": null
+   "result": true,
+   "score": "2-1",
+   "logged": true
   },
   {
    "market": "t2",
@@ -1612,7 +1637,9 @@
    "context": "CS2 9z vs BetBoom, BO3, torneo Intel Extreme Masters Beijing 2026 nivel s. Elo por mapa 1831 vs 1949 (prob. mapa 34%, serie 26%). Forma ❌❌❌❌❌ / ❌✅✅✅❌ (✅ victoria ❌ derrota). H2H 2: 2-0. Cambios de plantilla: ninguno. Cuotas Thunderpick 2.8/1.38.",
    "considered": true,
    "placed": false,
-   "result": null
+   "result": true,
+   "score": "1-2",
+   "logged": true
   },
   {
    "market": "t1",
@@ -1628,18 +1655,6 @@
    "start": "2026-11-02T09:30:00+00:00",
    "league": "🎮 CS2 · Intel Extreme Masters Beijing 2026",
    "sport": "🎮",
-   "info": [
-    "📊 <b>Escenarios</b> (Elo por mapa. 76.338 partidos)",
-    "Mapa: Natus Vincere 46% · Serie BO3: Natus Vincere 44% - 56% Falcons",
-    "Casas: Natus Vincere 40% · Falcons 60%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Elo: Natus Vincere 1963 (275 series) | Falcons 1993 (303 series)",
-    "• Forma: Natus Vincere ❌❌✅❌✅ | Falcons ❌✅✅❌❌",
-    "• H2H: 8: 3-5",
-    "• Torneo: Intel Extreme Masters Beijing 2026 (nivel S)",
-    "• Cambios de plantilla: ninguno"
-   ],
    "context": "CS2 Natus Vincere vs Falcons, BO3, torneo Intel Extreme Masters Beijing 2026 nivel s. Elo por mapa 1963 vs 1993 (prob. mapa 46%, serie 44%). Forma ❌❌✅❌✅ / ❌✅✅❌❌ (✅ victoria ❌ derrota). H2H 8: 3-5. Cambios de plantilla: ninguno. Cuotas Thunderpick 2.3/1.55.",
    "considered": true,
    "placed": false,
@@ -1659,22 +1674,12 @@
    "start": "2026-11-02T09:30:00+00:00",
    "league": "🎮 CS2 · Intel Extreme Masters Beijing 2026",
    "sport": "🎮",
-   "info": [
-    "📊 <b>Escenarios</b> (Elo por mapa. 76.338 partidos)",
-    "Mapa: MOUZ 85% · Serie BO3: MOUZ 94% - 6% TYLOO",
-    "Casas: MOUZ 87% · TYLOO 13%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Elo: MOUZ 2060 (297 series) | TYLOO 1760 (337 series)",
-    "• Forma: MOUZ ✅✅✅❌✅ | TYLOO ❌✅❌❌✅",
-    "• H2H: 3: 2-1",
-    "• Torneo: Intel Extreme Masters Beijing 2026 (nivel S)",
-    "• Cambios de plantilla: ninguno"
-   ],
    "context": "CS2 MOUZ vs TYLOO, BO3, torneo Intel Extreme Masters Beijing 2026 nivel s. Elo por mapa 2060 vs 1760 (prob. mapa 85%, serie 94%). Forma ✅✅✅❌✅ / ❌✅❌❌✅ (✅ victoria ❌ derrota). H2H 3: 2-1. Cambios de plantilla: ninguno. Cuotas Thunderpick 1.06/7.0.",
    "considered": true,
    "placed": false,
-   "result": null
+   "result": true,
+   "score": "2-0",
+   "logged": true
   },
   {
    "market": "t1",
@@ -1969,18 +1974,6 @@
    "start": "2026-11-02T09:30:00+00:00",
    "league": "🎮 CS2 · Intel Extreme Masters Beijing 2026",
    "sport": "🎮",
-   "info": [
-    "📊 <b>Escenarios</b> (Elo por mapa. 76.339 partidos)",
-    "Mapa: Natus Vincere 44% · Serie BO3: Natus Vincere 41% - 59% Falcons",
-    "Casas: Natus Vincere 42% · Falcons 58%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Elo: Natus Vincere 1933 (275 series) | Falcons 1974 (303 series)",
-    "• Forma: Natus Vincere ❌❌✅❌✅ | Falcons ❌✅✅❌❌",
-    "• H2H: 8: 3-5",
-    "• Torneo: Intel Extreme Masters Beijing 2026 (nivel S)",
-    "• Cambios de plantilla: ninguno"
-   ],
    "context": "CS2 Natus Vincere vs Falcons, BO3, torneo Intel Extreme Masters Beijing 2026 nivel s. Elo por mapa 1933 vs 1974 (prob. mapa 44%, serie 41%). Forma ❌❌✅❌✅ / ❌✅✅❌❌ (✅ victoria ❌ derrota). H2H 8: 3-5. Cambios de plantilla: ninguno. Cuotas Thunderpick 2.2/1.58.",
    "considered": true,
    "placed": false,
@@ -2023,7 +2016,10 @@
    "sport": "🎮",
    "context": "CS2 FURIA vs FaZe, BO3, torneo Intel Extreme Masters Beijing 2026 nivel s. Elo por mapa 2186 vs 1980 (prob. mapa 68%, serie 76%). Forma ✅✅✅✅✅ / ❌✅✅❌✅ (✅ victoria ❌ derrota). H2H 10: 4-6. Cambios de plantilla: ninguno. Cuotas Thunderpick 1.35/2.9.",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "2-1",
+   "result": false,
+   "logged": true
   },
   {
    "market": "t1",
@@ -2086,18 +2082,6 @@
    "start": "2026-11-02T09:00:00+00:00",
    "league": "🐉 Dota 2 · Esports Pro Circuit Season 3",
    "sport": "🐉",
-   "info": [
-    "📊 <b>Escenarios</b> (Elo por mapa. 11.607 partidos)",
-    "Mapa: Xipto Esports 42% · Serie BO3: Xipto Esports 38% - 62% Team Synapse",
-    "Casas: Xipto Esports 43% · Team Synapse 57%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Elo: Xipto Esports 1720 (19 series) | Team Synapse 1796 (38 series)",
-    "• Forma: Xipto Esports ✅✅❌❌❌ | Team Synapse ✅✅✅✅✅",
-    "• H2H: sin precedentes",
-    "• Torneo: Esports Pro Circuit Season 3 (nivel B)",
-    "• Cambios de plantilla: ninguno"
-   ],
    "context": "Dota 2 Xipto Esports vs Team Synapse, BO3, torneo Esports Pro Circuit Season 3 nivel b. Elo por mapa 1720 vs 1796 (prob. mapa 42%, serie 38%). Forma ✅✅❌❌❌ / ✅✅✅✅✅ (✅ victoria ❌ derrota). H2H sin precedentes. Cambios de plantilla: ninguno. Cuotas Thunderpick 2.15/1.6.",
    "considered": true,
    "placed": false
@@ -2116,18 +2100,6 @@
    "start": "2026-11-02T10:00:00+00:00",
    "league": "🐉 Dota 2 · EPL Masters III",
    "sport": "🐉",
-   "info": [
-    "📊 <b>Escenarios</b> (Elo por mapa. 11.607 partidos)",
-    "Mapa: LEGION 55% · Serie BO3: LEGION 58% - 42% HULIGANI",
-    "Casas: LEGION 65% · HULIGANI 35%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Elo: LEGION 1805 (16 series) | HULIGANI 1759 (346 series)",
-    "• Forma: LEGION ❌✅✅❌❌ | HULIGANI ✅✅✅✅✅",
-    "• H2H: sin precedentes",
-    "• Torneo: EPL Masters III (nivel B)",
-    "• Cambios de plantilla: ninguno"
-   ],
    "context": "Dota 2 LEGION vs HULIGANI, BO3, torneo EPL Masters III nivel b. Elo por mapa 1805 vs 1759 (prob. mapa 55%, serie 58%). Forma ❌✅✅❌❌ / ✅✅✅✅✅ (✅ victoria ❌ derrota). H2H sin precedentes. Cambios de plantilla: ninguno. Cuotas Thunderpick 1.44/2.62.",
    "considered": true,
    "placed": false
@@ -2710,21 +2682,12 @@
    "start": "2026-11-02T08:00Z",
    "league": "🏀 NCAA Basketball",
    "sport": "🏀",
-   "info": [
-    "📊 <b>Escenarios</b> (Elo con 60.843 partidos y bajas)",
-    "Gana Grambling Tigers 72% · Gana Northern Illinois Huskies 28%",
-    "Casas: Grambling Tigers 24% · Northern Illinois Huskies 76%",
-    "Hándicap NIU -8.5 · Total puntos 138.5",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Grambling Tigers ❌❌✅✅❌ | Northern Illinois Huskies ❌❌❌❌❌",
-    "• H2H: sin precedentes",
-    "• Bajas: Grambling Tigers: sin bajas; Northern Illinois Huskies: sin bajas",
-    "• Favorito de las casas: Northern Illinois Huskies @ 1.26"
-   ],
    "context": "Grambling Tigers vs Northern Illinois Huskies (🏀 NCAA Basketball, baloncesto). Modelo Elo con 10 años de historial ajustado por bajas: Grambling Tigers 72%, Northern Illinois Huskies 28%. Cuotas DraftKings 4.0/1.263, hándicap NIU -8.5, total 138.5. Forma Grambling Tigers ❌❌✅✅❌, Northern Illinois Huskies ❌❌❌❌❌. H2H sin precedentes. Bajas Grambling Tigers: ninguna. Bajas Northern Illinois Huskies: ninguna.",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "89-87",
+   "logged": true
   },
   {
    "market": "home",
@@ -2739,18 +2702,6 @@
    "start": "2026-11-02T11:00Z",
    "league": "🏀 NCAA Basketball",
    "sport": "🏀",
-   "info": [
-    "📊 <b>Escenarios</b> (Elo con 60.843 partidos y bajas)",
-    "Gana App State Mountaineers 48% · Gana Merrimack Warriors 52%",
-    "Casas: App State Mountaineers 40% · Merrimack Warriors 60%",
-    "Hándicap MRMK -3.5 · Total puntos 133.5",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: App State Mountaineers ❌❌✅❌❌ | Merrimack Warriors ❌✅✅✅❌",
-    "• H2H: sin precedentes",
-    "• Bajas: App State Mountaineers: sin bajas; Merrimack Warriors: sin bajas",
-    "• Favorito de las casas: Merrimack Warriors @ 1.59"
-   ],
    "context": "App State Mountaineers vs Merrimack Warriors (🏀 NCAA Basketball, baloncesto). Modelo Elo con 10 años de historial ajustado por bajas: App State Mountaineers 48%, Merrimack Warriors 52%. Cuotas DraftKings 2.42/1.588, hándicap MRMK -3.5, total 133.5. Forma App State Mountaineers ❌❌✅❌❌, Merrimack Warriors ❌✅✅✅❌. H2H sin precedentes. Bajas App State Mountaineers: ninguna. Bajas Merrimack Warriors: ninguna.",
    "considered": true,
    "placed": false
@@ -6361,6 +6312,156 @@
    "context": "Stade Rennais vs Olympiacos (🏆 Europa League, fútbol). Modelo Elo con 10 años de historial ajustado por bajas: Stade Rennais 40%, empate 21%, Olympiacos 39%. Cuotas DraftKings 2.15/3.65/3.3, hándicap REN +115, total 2.5. Forma Stade Rennais ❌❌➖✅➖, Olympiacos ❌❌✅✅✅. H2H sin precedentes. Bajas Stade Rennais: ninguna. Bajas Olympiacos: ninguna.",
    "considered": true,
    "placed": false
+  },
+  {
+   "market": "t2",
+   "team_id": 8171,
+   "pick": "PARIVISION",
+   "odds": 1.8,
+   "book": "Thunderpick",
+   "p": 0.538,
+   "implied": 0.514,
+   "edge": -0.032,
+   "key": "cs2|133044",
+   "match": "Liquid vs PARIVISION",
+   "start": "2026-11-03T04:30:00+00:00",
+   "league": "🎮 CS2 · Intel Extreme Masters Beijing 2026",
+   "sport": "🎮",
+   "info": [
+    "📊 <b>Escenarios</b> (Elo por mapa, 76.351 partidos)",
+    "Mapa: Liquid 46% · Serie BO3: Liquid 44% - 56% PARIVISION",
+    "Casas: Liquid 49% · PARIVISION 51%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Elo: Liquid 1923 (306 series) | PARIVISION 1964 (318 series)",
+    "• Forma: Liquid ❌✅❌❌✅ | PARIVISION ✅✅✅❌✅",
+    "• H2H: 2: 0-2",
+    "• Torneo: Intel Extreme Masters Beijing 2026 (nivel S)",
+    "• Cambios de plantilla: ninguno"
+   ],
+   "context": "CS2 Liquid vs PARIVISION, BO3, torneo Intel Extreme Masters Beijing 2026 nivel s. Elo por mapa 1923 vs 1964 (prob. mapa 46%, serie 44%). Forma ❌✅❌❌✅ / ✅✅✅❌✅ (✅ victoria ❌ derrota). H2H 2: 0-2. Cambios de plantilla: ninguno. Cuotas Thunderpick 1.9/1.8.",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "t2",
+   "team_id": 793,
+   "pick": "G2",
+   "odds": 2.15,
+   "book": "Thunderpick",
+   "p": 0.434,
+   "implied": 0.43,
+   "edge": -0.066,
+   "key": "cs2|133046",
+   "match": "Aurora vs G2",
+   "start": "2026-11-03T04:30:00+00:00",
+   "league": "🎮 CS2 · Intel Extreme Masters Beijing 2026",
+   "sport": "🎮",
+   "info": [
+    "📊 <b>Escenarios</b> (Elo por mapa, 76.351 partidos)",
+    "Mapa: Aurora 55% · Serie BO3: Aurora 56% - 44% G2",
+    "Casas: Aurora 57% · G2 43%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Elo: Aurora 2024 (498 series) | G2 1973 (312 series)",
+    "• Forma: Aurora ✅✅✅❌❌ | G2 ❌❌❌❌❌",
+    "• H2H: 8: 4-4",
+    "• Torneo: Intel Extreme Masters Beijing 2026 (nivel S)",
+    "• Cambios de plantilla: Aurora, G2"
+   ],
+   "context": "CS2 Aurora vs G2, BO3, torneo Intel Extreme Masters Beijing 2026 nivel s. Elo por mapa 2024 vs 1973 (prob. mapa 55%, serie 56%). Forma ✅✅✅❌❌ / ❌❌❌❌❌ (✅ victoria ❌ derrota). H2H 8: 4-4. Cambios de plantilla: Aurora, G2. Cuotas Thunderpick 1.62/2.15.",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "t2",
+   "team_id": 16743,
+   "pick": "RED Canids Academy",
+   "odds": 1.29,
+   "book": "Thunderpick",
+   "p": 0.729,
+   "implied": 0.716,
+   "edge": -0.06,
+   "key": "cs2|133166",
+   "match": "QUINTESSÊNCIA vs RED Canids Academy",
+   "start": "2026-11-03T19:00:00+00:00",
+   "league": "🎮 CS2 · CCT South America 2026 Series 8",
+   "sport": "🎮",
+   "info": [
+    "📊 <b>Escenarios</b> (Elo por mapa, 76.351 partidos)",
+    "Mapa: QUINTESSÊNCIA 36% · Serie BO3: QUINTESSÊNCIA 26% - 74% RED Canids Academy",
+    "Casas: QUINTESSÊNCIA 28% · RED Canids Academy 72%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Elo: QUINTESSÊNCIA 1526 (62 series) | RED Canids Academy 1680 (128 series)",
+    "• Forma: QUINTESSÊNCIA ✅❌✅❌❌ | RED Canids Academy ✅✅✅❌✅",
+    "• H2H: 6: 2-4",
+    "• Torneo: CCT South America 2026 Series 8 (nivel B)",
+    "• Cambios de plantilla: ninguno"
+   ],
+   "context": "CS2 QUINTESSÊNCIA vs RED Canids Academy, BO3, torneo CCT South America 2026 Series 8 nivel b. Elo por mapa 1526 vs 1680 (prob. mapa 36%, serie 26%). Forma ✅❌✅❌❌ / ✅✅✅❌✅ (✅ victoria ❌ derrota). H2H 6: 2-4. Cambios de plantilla: ninguno. Cuotas Thunderpick 3.25/1.29.",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "t2",
+   "team_id": 18461,
+   "pick": "BESTIA Academy",
+   "odds": 2.22,
+   "book": "Thunderpick",
+   "p": 0.449,
+   "implied": 0.417,
+   "edge": -0.002,
+   "key": "cs2|133028",
+   "match": "MEIA NOITE vs BESTIA Academy",
+   "start": "2026-11-03T21:00:00+00:00",
+   "league": "🎮 CS2 · Gamers Club Liga Série A: October 2026",
+   "sport": "🎮",
+   "info": [
+    "📊 <b>Escenarios</b> (Elo por mapa, 76.351 partidos)",
+    "Mapa: MEIA NOITE 51% · Serie BO3: MEIA NOITE 52% - 48% BESTIA Academy",
+    "Casas: MEIA NOITE 58% · BESTIA Academy 42%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Elo: MEIA NOITE 1502 (38 series) | BESTIA Academy 1488 (137 series)",
+    "• Forma: MEIA NOITE ✅❌✅❌❌ | BESTIA Academy ❌❌❌❌✅",
+    "• H2H: sin precedentes",
+    "• Torneo: Gamers Club Liga Série A: October 2026 (nivel C)",
+    "• Cambios de plantilla: MEIA NOITE"
+   ],
+   "context": "CS2 MEIA NOITE vs BESTIA Academy, BO3, torneo Gamers Club Liga Série A: October 2026 nivel c. Elo por mapa 1502 vs 1488 (prob. mapa 51%, serie 52%). Forma ✅❌✅❌❌ / ❌❌❌❌✅ (✅ victoria ❌ derrota). H2H sin precedentes. Cambios de plantilla: MEIA NOITE. Cuotas Thunderpick 1.59/2.22.",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "t1",
+   "team_id": 17530,
+   "pick": "Top Esports",
+   "odds": 2.0,
+   "book": "Thunderpick",
+   "p": 0.476,
+   "implied": 0.462,
+   "edge": -0.048,
+   "key": "lol|130830",
+   "match": "Top Esports vs Invictus Gaming",
+   "start": "2026-11-03T22:00:00+00:00",
+   "league": "🧙 LoL · Worlds 2026",
+   "sport": "🧙",
+   "info": [
+    "📊 <b>Escenarios</b> (Elo por mapa, 14.800 partidos)",
+    "Mapa: Top Esports 49% · Serie BO5: Top Esports 49% - 51% Invictus Gaming",
+    "Casas: Top Esports 46% · Invictus Gaming 54%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Elo: Top Esports 1902 (195 series) | Invictus Gaming 1907 (157 series)",
+    "• Forma: Top Esports ✅❌✅✅✅ | Invictus Gaming ✅❌✅✅✅",
+    "• H2H: 16: 9-7",
+    "• Torneo: Worlds 2026 (nivel S)",
+    "• Cambios de plantilla: ninguno"
+   ],
+   "context": "LoL Top Esports vs Invictus Gaming, BO5, torneo Worlds 2026 nivel s. Elo por mapa 1902 vs 1907 (prob. mapa 49%, serie 49%). Forma ✅❌✅✅✅ / ✅❌✅✅✅ (✅ victoria ❌ derrota). H2H 16: 9-7. Cambios de plantilla: ninguno. Cuotas Thunderpick 2.0/1.72.",
+   "considered": true,
+   "placed": false
   }
  ],
  "bank": {
@@ -6532,7 +6633,12 @@
     "stake": 1.06,
     "odds": 4.75,
     "desc": "Sp Braga vs Famalicao → Gana Famalicao",
-    "status": "abierta"
+    "status": "perdida",
+    "return": 0.0,
+    "autopsia": {
+     "causa": "sin análisis (IA no disponible)",
+     "corregir": ""
+    }
    },
    {
     "date": "2026-11-01",
@@ -6699,5 +6805,5 @@
   ]
  },
  "scoreboard_id": 87,
- "scoreboard_text": "📊 <b>MARCADOR DEL BOT</b>\n━━━━━━━━━━━━━━━\n🟩 Ganadas: <b>3</b> (43 %)\n🟥 Perdidas: <b>4</b> (57 %)\n⏳ En juego: 16\n\nÚltimas 7:\n🟥🟥🟥🟩🟩🟥🟩\n━━━━━━━━━━━━━━━\n💵 Beneficio -2.68 $ · ROI -15.4 %\n💰 Banca: <b>97.32 $</b> (-2.68 $ desde 100 $) · libre 68.28 ${\"inline_keyboard\": [[{\"text\": \"\\ud83d\\udcc8 Ver historial completo y fallos\", \"url\": \"https://github.com/STAMFORD313/analista313/blob/main/ESTADISTICAS.md\"}], [{\"text\": \"\\u26bd F\\u00fatbol\", \"callback_data\": \"dep:futbol\"}, {\"text\": \"\\ud83c\\udfc0 NBA\\u00b7NCAA\", \"callback_data\": \"dep:nba\"}, {\"text\": \"\\ud83c\\udfc8 NFL\\u00b7NCAA\", \"callback_data\": \"dep:nfl\"}], [{\"text\": \"\\ud83c\\udfc6 Champions\\u00b7Europa\", \"callback_data\": \"dep:europa\"}, {\"text\": \"\\ud83c\\udfd2 NHL\", \"callback_data\": \"dep:nhl\"}, {\"text\": \"\\u26be MLB\", \"callback_data\": \"dep:mlb\"}], [{\"text\": \"\\ud83e\\udd4a UFC\", \"callback_data\": \"dep:ufc\"}, {\"text\": \"\\ud83c\\udfbe Tenis\", \"callback_data\": \"dep:tenis\"}, {\"text\": \"\\ud83c\\udfae CS2\", \"callback_data\": \"dep:cs2\"}], [{\"text\": \"\\ud83d\\udc09 Dota 2\", \"callback_data\": \"dep:dota2\"}, {\"text\": \"\\ud83e\\uddd9 LoL\", \"callback_data\": \"dep:lol\"}, {\"text\": \"\\ud83d\\udd2b R6 Siege\", \"callback_data\": \"dep:r6\"}], [{\"text\": \"\\ud83d\\udcf1 MLBB\", \"callback_data\": \"dep:mlbb\"}]]}"
+ "scoreboard_text": "📊 <b>MARCADOR DEL BOT</b>\n━━━━━━━━━━━━━━━\n🟩 Ganadas: <b>3</b> (38 %)\n🟥 Perdidas: <b>5</b> (62 %)\n⏳ En juego: 15\n\nÚltimas 8:\n🟥🟥🟥🟩🟩🟥🟥🟩\n━━━━━━━━━━━━━━━\n💵 Beneficio -3.74 $ · ROI -20.2 %\n📐 CLV medio +4.4 % (cuota cogida vs cierre)\n💰 Banca: <b>96.26 $</b> (-3.74 $ desde 100 $) · libre 68.28 ${\"inline_keyboard\": [[{\"text\": \"\\ud83d\\udcc8 Ver historial completo y fallos\", \"url\": \"https://github.com/STAMFORD313/analista313/blob/main/ESTADISTICAS.md\"}], [{\"text\": \"\\u26bd F\\u00fatbol\", \"callback_data\": \"dep:futbol\"}, {\"text\": \"\\ud83c\\udfc0 NBA\\u00b7NCAA\", \"callback_data\": \"dep:nba\"}, {\"text\": \"\\ud83c\\udfc8 NFL\\u00b7NCAA\", \"callback_data\": \"dep:nfl\"}], [{\"text\": \"\\ud83c\\udfc6 Champions\\u00b7Europa\", \"callback_data\": \"dep:europa\"}, {\"text\": \"\\ud83c\\udfd2 NHL\", \"callback_data\": \"dep:nhl\"}, {\"text\": \"\\u26be MLB\", \"callback_data\": \"dep:mlb\"}], [{\"text\": \"\\ud83e\\udd4a UFC\", \"callback_data\": \"dep:ufc\"}, {\"text\": \"\\ud83c\\udfbe Tenis\", \"callback_data\": \"dep:tenis\"}, {\"text\": \"\\ud83c\\udfae CS2\", \"callback_data\": \"dep:cs2\"}], [{\"text\": \"\\ud83d\\udc09 Dota 2\", \"callback_data\": \"dep:dota2\"}, {\"text\": \"\\ud83e\\uddd9 LoL\", \"callback_data\": \"dep:lol\"}, {\"text\": \"\\ud83d\\udd2b R6 Siege\", \"callback_data\": \"dep:r6\"}], [{\"text\": \"\\ud83d\\udcf1 MLBB\", \"callback_data\": \"dep:mlbb\"}]]}"
 }

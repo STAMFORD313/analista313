@@ -1,44 +1,6 @@
 # 🐉 Dota 2 · apuestas de valor
 
-Actualizado 02/11/2026 08:54 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Xipto Esports vs Team Synapse — 02/11 · 10:00
-
-👀 candidata · 🐉 Dota 2 · Esports Pro Circuit Season 3 · **Gana Team Synapse** @ **1.60** (Thunderpick) · prob 60% vs casas 57% · ventaja -4%
-
-- ✅ Probabilidad 60% (mín. 55%)
-- ❌ Ventaja -4% (entre 5% y 30%)
-- ✅ Segmento «🐉 favorito» sin pérdidas
-- ❌ IA: sin revisar (no pasó lo anterior)
-
-📊 **Escenarios** (Elo por mapa. 11.607 partidos)  
-Mapa: Xipto Esports 42% · Serie BO3: Xipto Esports 38% - 62% Team Synapse  
-Casas: Xipto Esports 43% · Team Synapse 57%  
-🔎 **Claves**  
-• Elo: Xipto Esports 1720 (19 series) | Team Synapse 1796 (38 series)  
-• Forma: Xipto Esports ✅✅❌❌❌ | Team Synapse ✅✅✅✅✅  
-• H2H: sin precedentes  
-• Torneo: Esports Pro Circuit Season 3 (nivel B)  
-• Cambios de plantilla: ninguno  
-
-## LEGION vs HULIGANI — 02/11 · 11:00
-
-👀 candidata · 🐉 Dota 2 · EPL Masters III · **Gana HULIGANI** @ **2.62** (Thunderpick) · prob 39% vs casas 36% · ventaja +2%
-
-- ❌ Probabilidad 39% (mín. 55%)
-- ❌ Ventaja +2% (entre 5% y 30%)
-- ✅ Segmento «🐉 no favorito» sin pérdidas
-- ❌ IA: sin revisar (no pasó lo anterior)
-
-📊 **Escenarios** (Elo por mapa. 11.607 partidos)  
-Mapa: LEGION 55% · Serie BO3: LEGION 58% - 42% HULIGANI  
-Casas: LEGION 65% · HULIGANI 35%  
-🔎 **Claves**  
-• Elo: LEGION 1805 (16 series) | HULIGANI 1759 (346 series)  
-• Forma: LEGION ❌✅✅❌❌ | HULIGANI ✅✅✅✅✅  
-• H2H: sin precedentes  
-• Torneo: EPL Masters III (nivel B)  
-• Cambios de plantilla: ninguno  
+Actualizado 02/11/2026 13:15 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## OG vs Yellow Submarine — 02/11 · 14:00
 

@@ -1,63 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 02/11/2026 08:54 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Natus Vincere vs Falcons — 02/11 · 10:30
-
-👀 candidata · 🎮 CS2 · Intel Extreme Masters Beijing 2026 · **Gana Natus Vincere** @ **2.30** (Thunderpick) · prob 42% vs casas 40% · ventaja -4%
-
-- ❌ Probabilidad 42% (mín. 55%)
-- ❌ Ventaja -4% (entre 5% y 30%)
-- ✅ Segmento «🎮 no favorito» sin pérdidas
-- ❌ IA: sin revisar (no pasó lo anterior)
-
-📊 **Escenarios** (Elo por mapa. 76.338 partidos)  
-Mapa: Natus Vincere 46% · Serie BO3: Natus Vincere 44% - 56% Falcons  
-Casas: Natus Vincere 40% · Falcons 60%  
-🔎 **Claves**  
-• Elo: Natus Vincere 1963 (275 series) | Falcons 1993 (303 series)  
-• Forma: Natus Vincere ❌❌✅❌✅ | Falcons ❌✅✅❌❌  
-• H2H: 8: 3-5  
-• Torneo: Intel Extreme Masters Beijing 2026 (nivel S)  
-• Cambios de plantilla: ninguno  
-
-## MOUZ vs TYLOO — 02/11 · 10:30
-
-👀 candidata · 🎮 CS2 · Intel Extreme Masters Beijing 2026 · **Gana MOUZ** @ **1.06** (Thunderpick) · prob 90% vs casas 87% · ventaja -4%
-
-- ✅ Probabilidad 90% (mín. 55%)
-- ❌ Ventaja -4% (entre 5% y 30%)
-- ✅ Segmento «🎮 favorito» sin pérdidas
-- ❌ IA: sin revisar (no pasó lo anterior)
-
-📊 **Escenarios** (Elo por mapa. 76.338 partidos)  
-Mapa: MOUZ 85% · Serie BO3: MOUZ 94% - 6% TYLOO  
-Casas: MOUZ 87% · TYLOO 13%  
-🔎 **Claves**  
-• Elo: MOUZ 2060 (297 series) | TYLOO 1760 (337 series)  
-• Forma: MOUZ ✅✅✅❌✅ | TYLOO ❌✅❌❌✅  
-• H2H: 3: 2-1  
-• Torneo: Intel Extreme Masters Beijing 2026 (nivel S)  
-• Cambios de plantilla: ninguno  
-
-## Natus Vincere vs Falcons — 02/11 · 10:30
-
-👀 candidata · 🎮 CS2 · Intel Extreme Masters Beijing 2026 · **Gana Falcons** @ **1.58** (Thunderpick) · prob 58% vs casas 58% · ventaja -8%
-
-- ✅ Probabilidad 58% (mín. 55%)
-- ❌ Ventaja -8% (entre 5% y 30%)
-- ✅ Segmento «🎮 favorito» sin pérdidas
-- ❌ IA: sin revisar (no pasó lo anterior)
-
-📊 **Escenarios** (Elo por mapa. 76.339 partidos)  
-Mapa: Natus Vincere 44% · Serie BO3: Natus Vincere 41% - 59% Falcons  
-Casas: Natus Vincere 42% · Falcons 58%  
-🔎 **Claves**  
-• Elo: Natus Vincere 1933 (275 series) | Falcons 1974 (303 series)  
-• Forma: Natus Vincere ❌❌✅❌✅ | Falcons ❌✅✅❌❌  
-• H2H: 8: 3-5  
-• Torneo: Intel Extreme Masters Beijing 2026 (nivel S)  
-• Cambios de plantilla: ninguno  
+Actualizado 02/11/2026 13:15 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## HAVU vs Nordic Valor — 02/11 · 16:30
 
@@ -344,6 +287,44 @@ Casas: GODS PLAN 19% · ALKA 81%
 • Torneo: Gamers Club Liga Série A: October 2026 (nivel C)  
 • Cambios de plantilla: GODS PLAN  
 
+## Liquid vs PARIVISION — 03/11 · 05:30
+
+👀 candidata · 🎮 CS2 · Intel Extreme Masters Beijing 2026 · **Gana PARIVISION** @ **1.80** (Thunderpick) · prob 54% vs casas 51% · ventaja -3%
+
+- ❌ Probabilidad 54% (mín. 55%)
+- ❌ Ventaja -3% (entre 5% y 30%)
+- ✅ Segmento «🎮 favorito» sin pérdidas
+- ❌ IA: sin revisar (no pasó lo anterior)
+
+📊 **Escenarios** (Elo por mapa, 76.351 partidos)  
+Mapa: Liquid 46% · Serie BO3: Liquid 44% - 56% PARIVISION  
+Casas: Liquid 49% · PARIVISION 51%  
+🔎 **Claves**  
+• Elo: Liquid 1923 (306 series) | PARIVISION 1964 (318 series)  
+• Forma: Liquid ❌✅❌❌✅ | PARIVISION ✅✅✅❌✅  
+• H2H: 2: 0-2  
+• Torneo: Intel Extreme Masters Beijing 2026 (nivel S)  
+• Cambios de plantilla: ninguno  
+
+## Aurora vs G2 — 03/11 · 05:30
+
+👀 candidata · 🎮 CS2 · Intel Extreme Masters Beijing 2026 · **Gana G2** @ **2.15** (Thunderpick) · prob 43% vs casas 43% · ventaja -7%
+
+- ❌ Probabilidad 43% (mín. 55%)
+- ❌ Ventaja -7% (entre 5% y 30%)
+- ✅ Segmento «🎮 no favorito» sin pérdidas
+- ❌ IA: sin revisar (no pasó lo anterior)
+
+📊 **Escenarios** (Elo por mapa, 76.351 partidos)  
+Mapa: Aurora 55% · Serie BO3: Aurora 56% - 44% G2  
+Casas: Aurora 57% · G2 43%  
+🔎 **Claves**  
+• Elo: Aurora 2024 (498 series) | G2 1973 (312 series)  
+• Forma: Aurora ✅✅✅❌❌ | G2 ❌❌❌❌❌  
+• H2H: 8: 4-4  
+• Torneo: Intel Extreme Masters Beijing 2026 (nivel S)  
+• Cambios de plantilla: Aurora, G2  
+
 ## boyband vs ROUNDS — 03/11 · 16:30
 
 👀 candidata · 🎮 CS2 · Elisa Open Suomi Season 14 · **Gana boyband** @ **1.68** (Thunderpick) · prob 57% vs casas 55% · ventaja -4%
@@ -400,4 +381,42 @@ Casas: OLDBOYS PL 51% · Fire Flux 49%
 • H2H: sin precedentes  
 • Torneo: ESEA Season 59: Advanced Division - Europe (nivel C)  
 • Cambios de plantilla: ninguno  
+
+## QUINTESSÊNCIA vs RED Canids Academy — 03/11 · 20:00
+
+👀 candidata · 🎮 CS2 · CCT South America 2026 Series 8 · **Gana RED Canids Academy** @ **1.29** (Thunderpick) · prob 73% vs casas 72% · ventaja -6%
+
+- ✅ Probabilidad 73% (mín. 55%)
+- ❌ Ventaja -6% (entre 5% y 30%)
+- ✅ Segmento «🎮 favorito» sin pérdidas
+- ❌ IA: sin revisar (no pasó lo anterior)
+
+📊 **Escenarios** (Elo por mapa, 76.351 partidos)  
+Mapa: QUINTESSÊNCIA 36% · Serie BO3: QUINTESSÊNCIA 26% - 74% RED Canids Academy  
+Casas: QUINTESSÊNCIA 28% · RED Canids Academy 72%  
+🔎 **Claves**  
+• Elo: QUINTESSÊNCIA 1526 (62 series) | RED Canids Academy 1680 (128 series)  
+• Forma: QUINTESSÊNCIA ✅❌✅❌❌ | RED Canids Academy ✅✅✅❌✅  
+• H2H: 6: 2-4  
+• Torneo: CCT South America 2026 Series 8 (nivel B)  
+• Cambios de plantilla: ninguno  
+
+## MEIA NOITE vs BESTIA Academy — 03/11 · 22:00
+
+👀 candidata · 🎮 CS2 · Gamers Club Liga Série A: October 2026 · **Gana BESTIA Academy** @ **2.22** (Thunderpick) · prob 45% vs casas 42% · ventaja -0%
+
+- ❌ Probabilidad 45% (mín. 55%)
+- ❌ Ventaja -0% (entre 5% y 30%)
+- ✅ Segmento «🎮 no favorito» sin pérdidas
+- ❌ IA: sin revisar (no pasó lo anterior)
+
+📊 **Escenarios** (Elo por mapa, 76.351 partidos)  
+Mapa: MEIA NOITE 51% · Serie BO3: MEIA NOITE 52% - 48% BESTIA Academy  
+Casas: MEIA NOITE 58% · BESTIA Academy 42%  
+🔎 **Claves**  
+• Elo: MEIA NOITE 1502 (38 series) | BESTIA Academy 1488 (137 series)  
+• Forma: MEIA NOITE ✅❌✅❌❌ | BESTIA Academy ❌❌❌❌✅  
+• H2H: sin precedentes  
+• Torneo: Gamers Club Liga Série A: October 2026 (nivel C)  
+• Cambios de plantilla: MEIA NOITE  
 

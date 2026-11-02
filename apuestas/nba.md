@@ -1,44 +1,6 @@
 # 🏀 NBA·NCAA · apuestas de valor
 
-Actualizado 02/11/2026 08:54 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Grambling Tigers vs Northern Illinois Huskies — 02/11 · 09:00
-
-👀 candidata · 🏀 NCAA Basketball · **Gana Grambling Tigers** @ **4.00** (DraftKings) · prob 48% vs casas 24% · ventaja +92%
-
-- ❌ Probabilidad 48% (mín. 55%)
-- ❌ Ventaja +92% (entre 5% y 30%)
-- ✅ Segmento «🏀 no favorito» sin pérdidas
-- ❌ IA: sin revisar (no pasó lo anterior)
-
-📊 **Escenarios** (Elo con 60.843 partidos y bajas)  
-Gana Grambling Tigers 72% · Gana Northern Illinois Huskies 28%  
-Casas: Grambling Tigers 24% · Northern Illinois Huskies 76%  
-Hándicap NIU -8.5 · Total puntos 138.5  
-🔎 **Claves**  
-• Forma: Grambling Tigers ❌❌✅✅❌ | Northern Illinois Huskies ❌❌❌❌❌  
-• H2H: sin precedentes  
-• Bajas: Grambling Tigers: sin bajas; Northern Illinois Huskies: sin bajas  
-• Favorito de las casas: Northern Illinois Huskies @ 1.26  
-
-## App State Mountaineers vs Merrimack Warriors — 02/11 · 12:00
-
-👀 candidata · 🏀 NCAA Basketball · **Gana App State Mountaineers** @ **2.42** (DraftKings) · prob 44% vs casas 40% · ventaja +6%
-
-- ❌ Probabilidad 44% (mín. 55%)
-- ✅ Ventaja +6% (entre 5% y 30%)
-- ✅ Segmento «🏀 no favorito» sin pérdidas
-- ❌ IA: sin revisar (no pasó lo anterior)
-
-📊 **Escenarios** (Elo con 60.843 partidos y bajas)  
-Gana App State Mountaineers 48% · Gana Merrimack Warriors 52%  
-Casas: App State Mountaineers 40% · Merrimack Warriors 60%  
-Hándicap MRMK -3.5 · Total puntos 133.5  
-🔎 **Claves**  
-• Forma: App State Mountaineers ❌❌✅❌❌ | Merrimack Warriors ❌✅✅✅❌  
-• H2H: sin precedentes  
-• Bajas: App State Mountaineers: sin bajas; Merrimack Warriors: sin bajas  
-• Favorito de las casas: Merrimack Warriors @ 1.59  
+Actualizado 02/11/2026 13:15 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Queens University Royals vs Winthrop Eagles — 02/11 · 15:00
 
