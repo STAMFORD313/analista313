@@ -1,41 +1,6 @@
 # 🏒 NHL · apuestas de valor
 
-Actualizado 02/11/2026 00:38 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Anaheim Ducks vs Ottawa Senators — 02/11 · 02:00
-
-👀 candidata · 🏒 NHL · **Menos de 6.5 goles** @ **2.14** (DraftKings) · prob 46% vs casas 45% · ventaja -1%
-
-- ❌ Probabilidad 46% (mín. 55%)
-- ❌ Ventaja -1% (entre 5% y 30%)
-- ✅ Segmento «🏒 totales» sin pérdidas
-- ❌ IA: sin revisar (no pasó lo anterior)
-
-📊 **Escenarios**: total esperado **6.6** goles · línea 6.5  
-Más 54% · Menos 46%  
-🔎 **Claves**  
-• Forma: Anaheim Ducks ❌❌✅❌❌ | Ottawa Senators ❌✅❌❌✅  
-• H2H: 18 desde 2016: 9-9  
-• Bajas: Anaheim Ducks: 3 fuera, 0 duda (Troy Terry, Ian Moore, Ryan Poehling); Ottawa Senators: 5 fuera, 0 duda (Andre Burakovsky, Warren Foegele, Hayden Hodgson)  
-
-## Anaheim Ducks vs Ottawa Senators — 02/11 · 02:00
-
-👀 candidata · 🏒 NHL · **Gana Anaheim Ducks** @ **1.98** (DraftKings) · prob 51% vs casas 48% · ventaja +1%
-
-- ❌ Probabilidad 51% (mín. 55%)
-- ❌ Ventaja +1% (entre 5% y 30%)
-- ✅ Segmento «🏒 favorito» sin pérdidas
-- ❌ IA: sin revisar (no pasó lo anterior)
-
-📊 **Escenarios** (Elo con 14.593 partidos y bajas)  
-Gana Anaheim Ducks 54% · Gana Ottawa Senators 46%  
-Casas: Anaheim Ducks 48% · Ottawa Senators 52%  
-Hándicap OTT -118 · Total puntos 6.5  
-🔎 **Claves**  
-• Forma: Anaheim Ducks ❌❌✅❌❌ | Ottawa Senators ❌✅❌❌✅  
-• H2H: 18 desde 2016: 9-9  
-• Bajas: Anaheim Ducks: 3 fuera, 0 duda (Troy Terry, Ian Moore, Ryan Poehling); Ottawa Senators: 5 fuera, 0 duda (Andre Burakovsky, Warren Foegele, Hayden Hodgson)  
-• Favorito de las casas: Ottawa Senators @ 1.85  
+Actualizado 02/11/2026 08:19 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Boston Bruins vs Vegas Golden Knights — 03/11 · 01:00
 

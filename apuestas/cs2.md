@@ -1,139 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 02/11/2026 00:38 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## HEROIC vs B8 — 02/11 · 03:00
-
-👀 candidata · 🎮 CS2 · Intel Extreme Masters Beijing 2026 · **Gana HEROIC** @ **1.52** (Thunderpick) · prob 65% vs casas 61% · ventaja -2%
-
-- ✅ Probabilidad 65% (mín. 55%)
-- ❌ Ventaja -2% (entre 5% y 30%)
-- ✅ Segmento «🎮 favorito» sin pérdidas
-- ❌ IA: sin revisar (no pasó lo anterior)
-
-📊 **Escenarios** (Elo por mapa. 76.338 partidos)  
-Mapa: HEROIC 63% · Serie BO3: HEROIC 69% - 31% B8  
-Casas: HEROIC 61% · B8 39%  
-🔎 **Claves**  
-• Elo: HEROIC 1848 (343 series) | B8 1757 (443 series)  
-• Forma: HEROIC ✅✅❌✅❌ | B8 ❌✅✅❌❌  
-• H2H: 7: 4-3  
-• Torneo: Intel Extreme Masters Beijing 2026 (nivel S)  
-• Cambios de plantilla: ninguno  
-
-## HEROIC vs B8 — 02/11 · 03:00
-
-👀 candidata · 🎮 CS2 · Intel Extreme Masters Beijing 2026 · **Gana B8** @ **2.40** (Thunderpick) · prob 39% vs casas 38% · ventaja -6%
-
-- ❌ Probabilidad 39% (mín. 55%)
-- ❌ Ventaja -6% (entre 5% y 30%)
-- ✅ Segmento «🎮 no favorito» sin pérdidas
-- ❌ IA: sin revisar (no pasó lo anterior)
-
-📊 **Escenarios** (Elo por mapa. 76.340 partidos)  
-Mapa: HEROIC 57% · Serie BO3: HEROIC 60% - 40% B8  
-Casas: HEROIC 62% · B8 38%  
-🔎 **Claves**  
-• Elo: HEROIC 1989 (343 series) | B8 1917 (443 series)  
-• Forma: HEROIC ✅✅❌✅❌ | B8 ❌✅✅❌❌  
-• H2H: 7: 4-3  
-• Torneo: Intel Extreme Masters Beijing 2026 (nivel S)  
-• Cambios de plantilla: ninguno  
-
-## PARIVISION vs G2 — 02/11 · 05:30
-
-👀 candidata · 🎮 CS2 · Intel Extreme Masters Beijing 2026 · **Gana PARIVISION** @ **1.95** (Thunderpick) · prob 50% vs casas 47% · ventaja -2%
-
-- ❌ Probabilidad 50% (mín. 55%)
-- ❌ Ventaja -2% (entre 5% y 30%)
-- ✅ Segmento «🎮 favorito» sin pérdidas
-- ❌ IA: sin revisar (no pasó lo anterior)
-
-📊 **Escenarios** (Elo por mapa. 76.338 partidos)  
-Mapa: PARIVISION 52% · Serie BO3: PARIVISION 53% - 47% G2  
-Casas: PARIVISION 47% · G2 53%  
-🔎 **Claves**  
-• Elo: PARIVISION 1846 (317 series) | G2 1833 (311 series)  
-• Forma: PARIVISION ❌✅✅✅❌ | G2 ✅❌❌❌❌  
-• H2H: 3: 2-1  
-• Torneo: Intel Extreme Masters Beijing 2026 (nivel S)  
-• Cambios de plantilla: ninguno  
-
-## Aurora vs Liquid — 02/11 · 05:30
-
-👀 candidata · 🎮 CS2 · Intel Extreme Masters Beijing 2026 · **Gana Aurora** @ **1.35** (Thunderpick) · prob 75% vs casas 68% · ventaja +1%
-
-- ✅ Probabilidad 75% (mín. 55%)
-- ❌ Ventaja +1% (entre 5% y 30%)
-- ✅ Segmento «🎮 favorito» sin pérdidas
-- ❌ IA: sin revisar (no pasó lo anterior)
-
-📊 **Escenarios** (Elo por mapa. 76.338 partidos)  
-Mapa: Aurora 72% · Serie BO3: Aurora 81% - 19% Liquid  
-Casas: Aurora 68% · Liquid 32%  
-🔎 **Claves**  
-• Elo: Aurora 1978 (497 series) | Liquid 1812 (305 series)  
-• Forma: Aurora ❌✅✅✅❌ | Liquid ✅❌✅❌❌  
-• H2H: 4: 3-1  
-• Torneo: Intel Extreme Masters Beijing 2026 (nivel S)  
-• Cambios de plantilla: ninguno  
-
-## FURIA vs FaZe — 02/11 · 08:00
-
-👀 candidata · 🎮 CS2 · Intel Extreme Masters Beijing 2026 · **Gana FURIA** @ **1.35** (Thunderpick) · prob 77% vs casas 68% · ventaja +4%
-
-- ✅ Probabilidad 77% (mín. 55%)
-- ❌ Ventaja +4% (entre 5% y 30%)
-- ✅ Segmento «🎮 favorito» sin pérdidas
-- ❌ IA: sin revisar (no pasó lo anterior)
-
-📊 **Escenarios** (Elo por mapa. 76.338 partidos)  
-Mapa: FURIA 76% · Serie BO3: FURIA 86% - 14% FaZe  
-Casas: FURIA 68% · FaZe 32%  
-🔎 **Claves**  
-• Elo: FURIA 2018 (324 series) | FaZe 1814 (329 series)  
-• Forma: FURIA ✅✅✅✅✅ | FaZe ❌✅✅❌✅  
-• H2H: 10: 4-6  
-• Torneo: Intel Extreme Masters Beijing 2026 (nivel S)  
-• Cambios de plantilla: ninguno  
-
-## 9z vs BetBoom — 02/11 · 08:00
-
-👀 candidata · 🎮 CS2 · Intel Extreme Masters Beijing 2026 · **Gana BetBoom** @ **1.38** (Thunderpick) · prob 70% vs casas 67% · ventaja -3%
-
-- ✅ Probabilidad 70% (mín. 55%)
-- ❌ Ventaja -3% (entre 5% y 30%)
-- ✅ Segmento «🎮 favorito» sin pérdidas
-- ❌ IA: sin revisar (no pasó lo anterior)
-
-📊 **Escenarios** (Elo por mapa. 76.338 partidos)  
-Mapa: 9z 34% · Serie BO3: 9z 26% - 74% BetBoom  
-Casas: 9z 33% · BetBoom 67%  
-🔎 **Claves**  
-• Elo: 9z 1831 (364 series) | BetBoom 1949 (352 series)  
-• Forma: 9z ❌❌❌❌❌ | BetBoom ❌✅✅✅❌  
-• H2H: 2: 2-0  
-• Torneo: Intel Extreme Masters Beijing 2026 (nivel S)  
-• Cambios de plantilla: ninguno  
-
-## FURIA vs FaZe — 02/11 · 08:00
-
-👀 candidata · 🎮 CS2 · Intel Extreme Masters Beijing 2026 · **FURIA -1.5 mapas** @ **2.30** (Thunderpick) · prob 46% vs casas 40% · ventaja +7%
-
-- ❌ Probabilidad 46% (mín. 55%)
-- ✅ Ventaja +7% (entre 5% y 30%)
-- ✅ Segmento «🎮 hándicap» sin pérdidas
-- ❌ IA: sin revisar (no pasó lo anterior)
-
-📊 **Escenarios** (Elo por mapa. 76.340 partidos)  
-Mapa: FURIA 68% · Serie BO3: FURIA 76% - 24% FaZe  
-Casas: FURIA 68% · FaZe 32%  
-🔎 **Claves**  
-• Elo: FURIA 2186 (324 series) | FaZe 1980 (329 series)  
-• Forma: FURIA ✅✅✅✅✅ | FaZe ❌✅✅❌✅  
-• H2H: 10: 4-6  
-• Torneo: Intel Extreme Masters Beijing 2026 (nivel S)  
-• Cambios de plantilla: ninguno  
+Actualizado 02/11/2026 08:19 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Natus Vincere vs Falcons — 02/11 · 10:30
 
@@ -249,6 +116,44 @@ Casas: MASONIC 68% · MASQ 32%
 • Torneo: Dust2.dk Ligaen Season 33: Regular Season (nivel C)  
 • Cambios de plantilla: ninguno  
 
+## PARTIZAN vs regnum4games — 02/11 · 18:00
+
+👀 candidata · 🎮 CS2 · ESEA Season 59: Advanced Division - Europe · **Gana PARTIZAN** @ **1.75** (Thunderpick) · prob 57% vs casas 53% · ventaja -1%
+
+- ✅ Probabilidad 57% (mín. 55%)
+- ❌ Ventaja -1% (entre 5% y 30%)
+- ✅ Segmento «🎮 favorito» sin pérdidas
+- ❌ IA: sin revisar (no pasó lo anterior)
+
+📊 **Escenarios** (Elo por mapa. 76.347 partidos)  
+Mapa: PARTIZAN 60% · Serie BO1: PARTIZAN 60% - 40% regnum4games  
+Casas: PARTIZAN 53% · regnum4games 47%  
+🔎 **Claves**  
+• Elo: PARTIZAN 1400 (43 series) | regnum4games 1328 (36 series)  
+• Forma: PARTIZAN ❌❌✅❌❌ | regnum4games ❌✅❌❌❌  
+• H2H: sin precedentes  
+• Torneo: ESEA Season 59: Advanced Division - Europe (nivel C)  
+• Cambios de plantilla: ninguno  
+
+## Young TigeRES vs Vitality Academy — 02/11 · 18:00
+
+👀 candidata · 🎮 CS2 · ESEA Season 59: Advanced Division - Europe · **Gana Young TigeRES** @ **1.34** (Thunderpick) · prob 74% vs casas 69% · ventaja -2%
+
+- ✅ Probabilidad 74% (mín. 55%)
+- ❌ Ventaja -2% (entre 5% y 30%)
+- ✅ Segmento «🎮 favorito» sin pérdidas
+- ❌ IA: sin revisar (no pasó lo anterior)
+
+📊 **Escenarios** (Elo por mapa. 76.347 partidos)  
+Mapa: Young TigeRES 78% · Serie BO1: Young TigeRES 78% - 22% Vitality Academy  
+Casas: Young TigeRES 69% · Vitality Academy 31%  
+🔎 **Claves**  
+• Elo: Young TigeRES 1620 (67 series) | Vitality Academy 1402 (26 series)  
+• Forma: Young TigeRES ✅❌✅✅✅ | Vitality Academy ✅✅❌❌❌  
+• H2H: sin precedentes  
+• Torneo: ESEA Season 59: Advanced Division - Europe (nivel C)  
+• Cambios de plantilla: ninguno  
+
 ## KUUSAMO vs BOJONG — 02/11 · 19:00
 
 👀 candidata · 🎮 CS2 · Elisa Open Suomi Season 14 · **Gana KUUSAMO** @ **1.46** (Thunderpick) · prob 64% vs casas 63% · ventaja -7%
@@ -306,6 +211,44 @@ Casas: ex-ENCE 83% · SINQU 17%
 • Torneo: NODWIN Clutch Series 14 Play-In (nivel C)  
 • Cambios de plantilla: ninguno  
 
+## eSuba vs LPH — 02/11 · 19:00
+
+👀 candidata · 🎮 CS2 · ESEA Season 59: Advanced Division - Europe · **Gana LPH** @ **1.59** (Thunderpick) · prob 62% vs casas 58% · ventaja -1%
+
+- ✅ Probabilidad 62% (mín. 55%)
+- ❌ Ventaja -1% (entre 5% y 30%)
+- ✅ Segmento «🎮 favorito» sin pérdidas
+- ❌ IA: sin revisar (no pasó lo anterior)
+
+📊 **Escenarios** (Elo por mapa. 76.347 partidos)  
+Mapa: eSuba 33% · Serie BO1: eSuba 33% - 67% LPH  
+Casas: eSuba 42% · LPH 58%  
+🔎 **Claves**  
+• Elo: eSuba 1402 (91 series) | LPH 1523 (139 series)  
+• Forma: eSuba ❌❌❌❌❌ | LPH ✅❌❌❌✅  
+• H2H: 2: 1-1  
+• Torneo: ESEA Season 59: Advanced Division - Europe (nivel C)  
+• Cambios de plantilla: ninguno  
+
+## NoTime vs OLDBOYS PL — 02/11 · 19:30
+
+👀 candidata · 🎮 CS2 · ESEA Season 59: Advanced Division - Europe · **Gana OLDBOYS PL** @ **1.41** (Thunderpick) · prob 71% vs casas 66% · ventaja -0%
+
+- ✅ Probabilidad 71% (mín. 55%)
+- ❌ Ventaja -0% (entre 5% y 30%)
+- ✅ Segmento «🎮 favorito» sin pérdidas
+- ❌ IA: sin revisar (no pasó lo anterior)
+
+📊 **Escenarios** (Elo por mapa. 76.347 partidos)  
+Mapa: NoTime 24% · Serie BO1: NoTime 24% - 76% OLDBOYS PL  
+Casas: NoTime 34% · OLDBOYS PL 66%  
+🔎 **Claves**  
+• Elo: NoTime 1453 (13 series) | OLDBOYS PL 1653 (78 series)  
+• Forma: NoTime ✅❌❌❌✅ | OLDBOYS PL ✅✅❌✅✅  
+• H2H: 1: 0-1  
+• Torneo: ESEA Season 59: Advanced Division - Europe (nivel C)  
+• Cambios de plantilla: ninguno  
+
 ## struggletony vs STATE — 02/11 · 20:00
 
 👀 candidata · 🎮 CS2 · Dust2.dk Ligaen Season 33: Regular Season · **Gana STATE** @ **1.12** (Thunderpick) · prob 79% vs casas 82% · ventaja -11%
@@ -344,6 +287,44 @@ Casas: Playing Ducks 85% · Huskies eSport 15%
 • Torneo: DACH CS Masters Season 6 (nivel C)  
 • Cambios de plantilla: ninguno  
 
+## Al Ahli vs Fortress — 02/11 · 20:00
+
+👀 candidata · 🎮 CS2 · ESEA Season 59: Advanced Division - Europe · **Gana Al Ahli** @ **1.31** (Thunderpick) · prob 76% vs casas 71% · ventaja -0%
+
+- ✅ Probabilidad 76% (mín. 55%)
+- ❌ Ventaja -0% (entre 5% y 30%)
+- ✅ Segmento «🎮 favorito» sin pérdidas
+- ❌ IA: sin revisar (no pasó lo anterior)
+
+📊 **Escenarios** (Elo por mapa. 76.347 partidos)  
+Mapa: Al Ahli 81% · Serie BO1: Al Ahli 81% - 19% Fortress  
+Casas: Al Ahli 71% · Fortress 29%  
+🔎 **Claves**  
+• Elo: Al Ahli 1508 (11 series) | Fortress 1251 (71 series)  
+• Forma: Al Ahli ❌✅✅✅✅ | Fortress ✅❌✅❌❌  
+• H2H: sin precedentes  
+• Torneo: ESEA Season 59: Advanced Division - Europe (nivel C)  
+• Cambios de plantilla: ninguno  
+
+## B8 Academy vs LPH — 02/11 · 20:30
+
+👀 candidata · 🎮 CS2 · ESEA Season 59: Advanced Division - Europe · **Gana LPH** @ **1.94** (Thunderpick) · prob 49% vs casas 48% · ventaja -6%
+
+- ❌ Probabilidad 49% (mín. 55%)
+- ❌ Ventaja -6% (entre 5% y 30%)
+- ✅ Segmento «🎮 favorito» sin pérdidas
+- ❌ IA: sin revisar (no pasó lo anterior)
+
+📊 **Escenarios** (Elo por mapa. 76.347 partidos)  
+Mapa: B8 Academy 51% · Serie BO1: B8 Academy 51% - 49% LPH  
+Casas: B8 Academy 52% · LPH 48%  
+🔎 **Claves**  
+• Elo: B8 Academy 1527 (90 series) | LPH 1523 (139 series)  
+• Forma: B8 Academy ❌✅✅✅✅ | LPH ✅❌❌❌✅  
+• H2H: 1: 1-0  
+• Torneo: ESEA Season 59: Advanced Division - Europe (nivel C)  
+• Cambios de plantilla: ninguno  
+
 ## GODS PLAN vs ALKA — 02/11 · 22:00
 
 👀 candidata · 🎮 CS2 · Gamers Club Liga Série A: October 2026 · **Gana GODS PLAN** @ **4.93** (Thunderpick) · prob 32% vs casas 19% · ventaja +60%
@@ -362,4 +343,61 @@ Casas: GODS PLAN 19% · ALKA 81%
 • H2H: sin precedentes  
 • Torneo: Gamers Club Liga Série A: October 2026 (nivel C)  
 • Cambios de plantilla: GODS PLAN  
+
+## boyband vs ROUNDS — 03/11 · 16:30
+
+👀 candidata · 🎮 CS2 · Elisa Open Suomi Season 14 · **Gana boyband** @ **1.68** (Thunderpick) · prob 57% vs casas 55% · ventaja -4%
+
+- ✅ Probabilidad 57% (mín. 55%)
+- ❌ Ventaja -4% (entre 5% y 30%)
+- ✅ Segmento «🎮 favorito» sin pérdidas
+- ❌ IA: sin revisar (no pasó lo anterior)
+
+📊 **Escenarios** (Elo por mapa. 76.347 partidos)  
+Mapa: boyband 57% · Serie BO3: boyband 60% - 40% ROUNDS  
+Casas: boyband 55% · ROUNDS 45%  
+🔎 **Claves**  
+• Elo: boyband 1423 (16 series) | ROUNDS 1350 (177 series)  
+• Forma: boyband ✅✅✅❌❌ | ROUNDS ❌❌❌❌✅  
+• H2H: 1: 0-1  
+• Torneo: Elisa Open Suomi Season 14 (nivel C)  
+• Cambios de plantilla: ninguno  
+
+## BOJONG vs eSuba — 03/11 · 18:00
+
+👀 candidata · 🎮 CS2 · ESEA Season 59: Advanced Division - Europe · **Gana eSuba** @ **1.67** (Thunderpick) · prob 57% vs casas 56% · ventaja -5%
+
+- ✅ Probabilidad 57% (mín. 55%)
+- ❌ Ventaja -5% (entre 5% y 30%)
+- ✅ Segmento «🎮 favorito» sin pérdidas
+- ❌ IA: sin revisar (no pasó lo anterior)
+
+📊 **Escenarios** (Elo por mapa. 76.347 partidos)  
+Mapa: BOJONG 41% · Serie BO1: BOJONG 41% - 59% eSuba  
+Casas: BOJONG 44% · eSuba 56%  
+🔎 **Claves**  
+• Elo: BOJONG 1342 (56 series) | eSuba 1402 (91 series)  
+• Forma: BOJONG ❌❌❌✅❌ | eSuba ❌❌❌❌❌  
+• H2H: sin precedentes  
+• Torneo: ESEA Season 59: Advanced Division - Europe (nivel C)  
+• Cambios de plantilla: ninguno  
+
+## OLDBOYS PL vs Fire Flux — 03/11 · 18:30
+
+👀 candidata · 🎮 CS2 · ESEA Season 59: Advanced Division - Europe · **Gana OLDBOYS PL** @ **1.82** (Thunderpick) · prob 51% vs casas 51% · ventaja -7%
+
+- ❌ Probabilidad 51% (mín. 55%)
+- ❌ Ventaja -7% (entre 5% y 30%)
+- ✅ Segmento «🎮 favorito» sin pérdidas
+- ❌ IA: sin revisar (no pasó lo anterior)
+
+📊 **Escenarios** (Elo por mapa. 76.347 partidos)  
+Mapa: OLDBOYS PL 51% · Serie BO1: OLDBOYS PL 51% - 49% Fire Flux  
+Casas: OLDBOYS PL 51% · Fire Flux 49%  
+🔎 **Claves**  
+• Elo: OLDBOYS PL 1653 (78 series) | Fire Flux 1644 (333 series)  
+• Forma: OLDBOYS PL ✅✅❌✅✅ | Fire Flux ✅✅❌❌❌  
+• H2H: sin precedentes  
+• Torneo: ESEA Season 59: Advanced Division - Europe (nivel C)  
+• Cambios de plantilla: ninguno  
 

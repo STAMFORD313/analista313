@@ -1,26 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 02/11/2026 00:38 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Portland Timbers vs Houston Dynamo — 02/11 · 03:45
-
-👀 candidata · 🇺🇸 MLS · **Gana Houston Dynamo** @ **3.75** (Bet365) · prob 28% vs casas 25% · ventaja +6%
-
-- ❌ Probabilidad 28% (mín. 55%)
-- ✅ Ventaja +6% (entre 5% y 30%)
-- ✅ Segmento «⚽ no favorito» sin pérdidas
-- ✅ IA: confianza None/5 (mín. 4)
-
-📊 **Escenarios** (goles esperados 1.69 - 1.39)  
-1 45% · X 24% · 2 32%  
-1X 68% · X2 55% · 12 76%  
-+1.5 81% · +2.5 60% · +3.5 37% · Ambos marcan 61%  
-Marcadores: 1-1 11% · 2-1 9% · 1-0 8% · 1-2 8%  
-🔎 **Claves**  
-• Forma: Portland Timbers ➖❌➖✅✅ | Houston Dynamo ➖➖➖➖✅  
-• H2H: 29 desde 2012: 11V-9E-9D · 3.1 goles/partido · +2.5 en 66%  
-• Bajas: Portland Timbers: 0 fuera, 4 duda; Houston Dynamo: 0 fuera, 6 duda  
-• Favorito de las casas: Portland Timbers @ 1.81  
+Actualizado 02/11/2026 08:19 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Atromitos vs Volos NFC — 02/11 · 17:00
 

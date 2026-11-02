@@ -1,44 +1,6 @@
 # 🐉 Dota 2 · apuestas de valor
 
-Actualizado 02/11/2026 00:38 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Zenith vs Team Kinetix — 02/11 · 05:00
-
-👀 candidata · 🐉 Dota 2 · EPL World Series: Southeast Asia Season 19 · **Gana Zenith** @ **3.21** (Thunderpick) · prob 56% vs casas 29% · ventaja +78%
-
-- ✅ Probabilidad 56% (mín. 55%)
-- ❌ Ventaja +78% (entre 5% y 30%)
-- ✅ Segmento «🐉 no favorito» sin pérdidas
-- ❌ IA: sin revisar (no pasó lo anterior)
-
-📊 **Escenarios** (Elo por mapa. 11.607 partidos)  
-Mapa: Zenith 73% · Serie BO3: Zenith 82% - 18% Team Kinetix  
-Casas: Zenith 29% · Team Kinetix 71%  
-🔎 **Claves**  
-• Elo: Zenith 1691 (12 series) | Team Kinetix 1458 (25 series)  
-• Forma: Zenith ✅✅❌✅❌ | Team Kinetix ❌❌✅❌❌  
-• H2H: sin precedentes  
-• Torneo: EPL World Series: Southeast Asia Season 19 (nivel B)  
-• Cambios de plantilla: ninguno  
-
-## Zenith vs Team Kinetix — 02/11 · 05:00
-
-💵 **APOSTADA** · 🐉 Dota 2 · EPL World Series: Southeast Asia Season 19 · **Zenith +1.5 mapas** @ **1.76** (Thunderpick) · prob 72% vs casas 53% · ventaja +27%
-
-- ✅ Probabilidad 72% (mín. 55%)
-- ✅ Ventaja +27% (entre 5% y 30%)
-- ✅ Segmento «🐉 hándicap» sin pérdidas
-- ✅ IA: confianza 4/5 (mín. 4) · Existe una clara discrepancia a favor de Zenith, cuyo Elo y estado de forma reciente (3-2 frente al 1-4 de Kinetix) hacen que ganar al menos un mapa a cuota 1.76 tenga un inmenso valor esperado.
-
-📊 **Escenarios** (Elo por mapa. 11.607 partidos)  
-Mapa: Zenith 73% · Serie BO3: Zenith 82% - 18% Team Kinetix  
-Casas: Zenith 29% · Team Kinetix 71%  
-🔎 **Claves**  
-• Elo: Zenith 1691 (12 series) | Team Kinetix 1458 (25 series)  
-• Forma: Zenith ✅✅❌✅❌ | Team Kinetix ❌❌✅❌❌  
-• H2H: sin precedentes  
-• Torneo: EPL World Series: Southeast Asia Season 19 (nivel B)  
-• Cambios de plantilla: ninguno  
+Actualizado 02/11/2026 08:19 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Xipto Esports vs Team Synapse — 02/11 · 10:00
 

@@ -271,7 +271,52 @@
   "dota2|132360",
   "dota2|132814",
   "dota2|132361",
-  "dota2|132805"
+  "dota2|132805",
+  "nba|2026-11-05|Detroit Pistons|Philadelphia 76ers",
+  "nba|2026-11-05|Washington Wizards|Atlanta Hawks",
+  "nba|2026-11-05|Boston Celtics|Milwaukee Bucks",
+  "nba|2026-11-05|Brooklyn Nets|Charlotte Hornets",
+  "nba|2026-11-05|New York Knicks|Chicago Bulls",
+  "nba|2026-11-05|Memphis Grizzlies|Indiana Pacers",
+  "nba|2026-11-05|New Orleans Pelicans|Utah Jazz",
+  "nba|2026-11-05|Oklahoma City Thunder|Cleveland Cavaliers",
+  "nba|2026-11-05|Houston Rockets|Minnesota Timberwolves",
+  "nba|2026-11-05|Denver Nuggets|Toronto Raptors",
+  "nba|2026-11-05|Phoenix Suns|Portland Trail Blazers",
+  "nba|2026-11-05|San Antonio Spurs|Dallas Mavericks",
+  "nba|2026-11-05|Sacramento Kings|Los Angeles Lakers",
+  "nba|2026-11-05|LA Clippers|Miami Heat",
+  "nhl|2026-11-05|Buffalo Sabres|Ottawa Senators",
+  "nhl|2026-11-05|Florida Panthers|Chicago Blackhawks",
+  "nhl|2026-11-05|Los Angeles Kings|San Jose Sharks",
+  "nhl|2026-11-05|Seattle Kraken|Calgary Flames",
+  "cs2|132686",
+  "cs2|132687",
+  "cs2|133161",
+  "cs2|133162",
+  "cs2|133153",
+  "cs2|133155",
+  "cs2|133154",
+  "cs2|133157",
+  "cs2|133163",
+  "cs2|133156",
+  "cs2|133158",
+  "cs2|133159",
+  "cs2|133160",
+  "cs2|133037",
+  "cs2|133039",
+  "cs2|132965",
+  "cs2|132834",
+  "cs2|132515",
+  "cs2|132966",
+  "dota2|132815",
+  "dota2|133132",
+  "dota2|132812",
+  "dota2|133133",
+  "dota2|132822",
+  "dota2|133111",
+  "r6|133074",
+  "r6|133075"
  ],
  "signals": [
   {
@@ -347,7 +392,10 @@
    "match": "Los Angeles Lakers vs Toronto Raptors",
    "pick": "Los Angeles Lakers",
    "start": "2026-11-02T02:00Z",
-   "considered": true
+   "considered": true,
+   "result": true,
+   "score": "131-125",
+   "logged": true
   },
   {
    "market": "home",
@@ -358,7 +406,10 @@
    "match": "Denver Broncos vs Kansas City Chiefs",
    "pick": "Denver Broncos",
    "start": "2026-11-01T21:25Z",
-   "considered": true
+   "considered": true,
+   "result": true,
+   "score": "28-24",
+   "logged": true
   },
   {
    "market": "home",
@@ -369,7 +420,10 @@
    "match": "Miami Dolphins vs New England Patriots",
    "pick": "Miami Dolphins",
    "start": "2026-11-01T21:25Z",
-   "considered": true
+   "considered": true,
+   "result": false,
+   "score": "19-24",
+   "logged": true
   },
   {
    "market": "away",
@@ -380,7 +434,10 @@
    "match": "Washington Commanders vs Philadelphia Eagles",
    "pick": "Philadelphia Eagles",
    "start": "2026-11-02T01:20Z",
-   "considered": true
+   "considered": true,
+   "result": false,
+   "score": "27-10",
+   "logged": true
   },
   {
    "market": "home",
@@ -474,19 +531,6 @@
    "start": "2026-11-02T02:45:00+00:00",
    "league": "🇺🇸 MLS",
    "sport": "⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (goles esperados 1.69 - 1.39)",
-    "1 45% · X 24% · 2 32%",
-    "1X 68% · X2 55% · 12 76%",
-    "+1.5 81% · +2.5 60% · +3.5 37% · Ambos marcan 61%",
-    "Marcadores: 1-1 11% · 2-1 9% · 1-0 8% · 1-2 8%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Portland Timbers ➖❌➖✅✅ | Houston Dynamo ➖➖➖➖✅",
-    "• H2H: 29 desde 2012: 11V-9E-9D · 3.1 goles/partido · +2.5 en 66%",
-    "• Bajas: Portland Timbers: 0 fuera, 4 duda; Houston Dynamo: 0 fuera, 6 duda",
-    "• Favorito de las casas: Portland Timbers @ 1.81"
-   ],
    "context": "Portland Timbers vs Houston Dynamo (🇺🇸 MLS). Modelo Poisson con historial desde 2005 y bajas: 1 45% X 24% 2 32%, +2.5 60%, ambos marcan 61%. Forma Portland Timbers ➖❌➖✅✅, Houston Dynamo ➖➖➖➖✅ (✅ victoria ➖ empate ❌ derrota). H2H 29 desde 2012: 11V-9E-9D · 3.1 goles/partido · +2.5 en 66%. Bajas Portland Timbers: Trey Muse G duda 0 PJ; Zac McGraw D duda 0 PJ; Brandon Bye M duda 20 PJ; Alex Bonetig D duda 8 PJ. Bajas Houston Dynamo: Hector Herrera M duda 29 PJ; Guilherme Augusto F duda 30 PJ; Felipe Andrade D duda 22 PJ; Marcelo Saracchi D duda 5 PJ; Jimmy Maurer G duda 1 PJ; Reese Miller D duda 0 PJ.",
    "considered": true,
    "ai": {
@@ -723,7 +767,10 @@
    "sport": "🏀",
    "context": "Indiana Pacers vs Brooklyn Nets (🏀 NBA). Modelo de puntos (ataque/defensa con 10 años, decaimiento 1 año): total esperado 228.7 frente a línea 230.5. Forma Indiana Pacers ❌✅❌❌❌, Brooklyn Nets ❌❌❌❌❌. H2H 34 desde 2016: 21-13. Bajas: Indiana Pacers: 6 fuera, 0 duda (Obi Toppin, T.J. McConnell, Ivica Zubac); Brooklyn Nets: 3 fuera, 0 duda (Mikel Brown Jr., Egor Demin, Tyler Bilodeau).",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "90-98",
+   "logged": true
   },
   {
    "market": "home",
@@ -740,7 +787,10 @@
    "sport": "🏀",
    "context": "Indiana Pacers vs Brooklyn Nets (🏀 NBA, baloncesto). Modelo Elo con 10 años de historial ajustado por bajas: Indiana Pacers 65%, Brooklyn Nets 35%. Cuotas DraftKings 1.617/2.36, hándicap IND -3.5, total 230.5. Forma Indiana Pacers ❌✅❌❌❌, Brooklyn Nets ❌❌❌❌❌. H2H 34 desde 2016: 21-13. Bajas Indiana Pacers: Obi Toppin lesionado; T.J. McConnell lesionado; Ivica Zubac lesionado; Johnny Furphy lesionado; Ben Sheppard lesionado; Tyrese Haliburton lesionado. Bajas Brooklyn Nets: Mikel Brown Jr. lesionado; Egor Demin lesionado; Tyler Bilodeau lesionado.",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "90-98",
+   "logged": true
   },
   {
    "market": "over",
@@ -757,18 +807,12 @@
    "pick": "Más de 220.5 puntos",
    "league": "🏀 NBA",
    "sport": "🏀",
-   "info": [
-    "📊 <b>Escenarios</b>: total esperado <b>225.3</b> puntos · línea 220.5",
-    "Más 54% · Menos 46%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Golden State Warriors ❌❌✅✅✅ | LA Clippers ✅❌❌❌❌",
-    "• H2H: 48 desde 2016: 24-24",
-    "• Bajas: Golden State Warriors: 5 fuera, 1 duda (Draymond Green, Stephen Curry, Kristaps Porzingis); LA Clippers: 5 fuera, 0 duda (Yanic Konan Niederhauser, Brandon Ingram, Max Strus)"
-   ],
    "context": "Golden State Warriors vs LA Clippers (🏀 NBA). Modelo de puntos (ataque/defensa con 10 años, decaimiento 1 año): total esperado 225.3 frente a línea 220.5. Forma Golden State Warriors ❌❌✅✅✅, LA Clippers ✅❌❌❌❌. H2H 48 desde 2016: 24-24. Bajas: Golden State Warriors: 5 fuera, 1 duda (Draymond Green, Stephen Curry, Kristaps Porzingis); LA Clippers: 5 fuera, 0 duda (Yanic Konan Niederhauser, Brandon Ingram, Max Strus).",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "124-112",
+   "logged": true
   },
   {
    "market": "home",
@@ -783,21 +827,12 @@
    "start": "2026-11-02T01:30Z",
    "league": "🏀 NBA",
    "sport": "🏀",
-   "info": [
-    "📊 <b>Escenarios</b> (Elo con 13.690 partidos y bajas)",
-    "Gana Golden State Warriors 63% · Gana LA Clippers 37%",
-    "Casas: Golden State Warriors 54% · LA Clippers 46%",
-    "Hándicap GS -2.5 · Total puntos 220.5",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Golden State Warriors ❌❌✅✅✅ | LA Clippers ✅❌❌❌❌",
-    "• H2H: 48 desde 2016: 24-24",
-    "• Bajas: Golden State Warriors: 5 fuera, 1 duda (Draymond Green, Stephen Curry, Kristaps Porzingis); LA Clippers: 5 fuera, 0 duda (Yanic Konan Niederhauser, Brandon Ingram, Max Strus)",
-    "• Favorito de las casas: Golden State Warriors @ 1.77"
-   ],
    "context": "Golden State Warriors vs LA Clippers (🏀 NBA, baloncesto). Modelo Elo con 10 años de historial ajustado por bajas: Golden State Warriors 63%, LA Clippers 37%. Cuotas DraftKings 1.769/2.1, hándicap GS -2.5, total 220.5. Forma Golden State Warriors ❌❌✅✅✅, LA Clippers ✅❌❌❌❌. H2H 48 desde 2016: 24-24. Bajas Golden State Warriors: Gui Santos duda; Draymond Green lesionado; Stephen Curry lesionado; Kristaps Porzingis lesionado; Moses Moody lesionado; Jimmy Butler III lesionado. Bajas LA Clippers: Yanic Konan Niederhauser lesionado; Brandon Ingram lesionado; Max Strus lesionado; Bradley Beal lesionado; Jordan Miller lesionado.",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "124-112",
+   "logged": true
   },
   {
    "market": "over",
@@ -814,18 +849,12 @@
    "pick": "Más de 224.5 puntos",
    "league": "🏀 NBA",
    "sport": "🏀",
-   "info": [
-    "📊 <b>Escenarios</b>: total esperado <b>225.3</b> puntos · línea 224.5",
-    "Más 51% · Menos 49%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Los Angeles Lakers ✅✅❌✅❌ | Toronto Raptors ✅✅❌✅❌",
-    "• H2H: 20 desde 2016: 9-11",
-    "• Bajas: Los Angeles Lakers: 2 fuera, 0 duda (Ziaire Williams, Adou Thiero); Toronto Raptors: 2 fuera, 0 duda (Kawhi Leonard, Nate Bittle)"
-   ],
    "context": "Los Angeles Lakers vs Toronto Raptors (🏀 NBA). Modelo de puntos (ataque/defensa con 10 años, decaimiento 1 año): total esperado 225.3 frente a línea 224.5. Forma Los Angeles Lakers ✅✅❌✅❌, Toronto Raptors ✅✅❌✅❌. H2H 20 desde 2016: 9-11. Bajas: Los Angeles Lakers: 2 fuera, 0 duda (Ziaire Williams, Adou Thiero); Toronto Raptors: 2 fuera, 0 duda (Kawhi Leonard, Nate Bittle).",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "131-125",
+   "logged": true
   },
   {
    "market": "over",
@@ -842,15 +871,6 @@
    "pick": "Más de 40.5 puntos",
    "league": "🏈 NFL",
    "sport": "🏈",
-   "info": [
-    "📊 <b>Escenarios</b>: total esperado <b>44.5</b> puntos · línea 40.5",
-    "Más 55% · Menos 45%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Washington Commanders ❌✅❌➖❌ | Philadelphia Eagles ❌❌❌❌❌",
-    "• H2H: 16 desde 2019: 5-11",
-    "• Bajas: Washington Commanders: 6 fuera, 19 duda (Jer'Zhan Newton, Daron Payne, Javon Kinlaw); Philadelphia Eagles: 7 fuera, 18 duda (Jakorian Bennett, Jihaad Campbell, Britain Covey)"
-   ],
    "context": "Washington Commanders vs Philadelphia Eagles (🏈 NFL). Modelo de puntos (ataque/defensa con 10 años, decaimiento 1 año): total esperado 44.5 frente a línea 40.5. Forma Washington Commanders ❌✅❌➖❌, Philadelphia Eagles ❌❌❌❌❌. H2H 16 desde 2019: 5-11. Bajas: Washington Commanders: 6 fuera, 19 duda (Jer'Zhan Newton, Daron Payne, Javon Kinlaw); Philadelphia Eagles: 7 fuera, 18 duda (Jakorian Bennett, Jihaad Campbell, Britain Covey).",
    "considered": true,
    "ai": {
@@ -858,7 +878,10 @@
     "motivo": null,
     "confianza": null
    },
-   "placed": true
+   "placed": true,
+   "result": false,
+   "score": "27-10",
+   "logged": true
   },
   {
    "market": "over",
@@ -934,7 +957,10 @@
    "sport": "🏒",
    "context": "New York Rangers vs Edmonton Oilers (🏒 NHL). Modelo de puntos (ataque/defensa con 10 años, decaimiento 1 año): total esperado 6.2 frente a línea 6.5. Forma New York Rangers ❌✅❌❌❌, Edmonton Oilers ✅❌❌✅✅. H2H 18 desde 2016: 8-10. Bajas: New York Rangers: 5 fuera, 2 duda (Igor Shesterkin, Joe Veleno, Joonas Korpisalo); Edmonton Oilers: 8 fuera, 0 duda (Isaac Howard, Zach Hyman, Devon Levi).",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "1-4",
+   "logged": true
   },
   {
    "market": "away",
@@ -951,7 +977,10 @@
    "sport": "🏒",
    "context": "New York Rangers vs Edmonton Oilers (🏒 NHL, hockey hielo). Modelo Elo con 10 años de historial ajustado por bajas: New York Rangers 48%, Edmonton Oilers 52%. Cuotas DraftKings 1.769/2.1, hándicap NYR -130, total 6.5. Forma New York Rangers ❌✅❌❌❌, Edmonton Oilers ✅❌❌✅✅. H2H 18 desde 2016: 8-10. Bajas New York Rangers: Braden Schneider duda; Sean Durzi duda; Igor Shesterkin lesionado; Joe Veleno lesionado; Joonas Korpisalo lesionado; Aidan Thompson lesionado; Adam Sykora lesionado. Bajas Edmonton Oilers: Isaac Howard lesionado; Zach Hyman lesionado; Devon Levi lesionado; Alec Regula lesionado; Matt Savoie lesionado; Frederik Andersen lesionado; Mattias Janmark lesionado; Atro Leppanen lesionado.",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "1-4",
+   "logged": true
   },
   {
    "market": "under",
@@ -968,18 +997,12 @@
    "pick": "Menos de 6.5 goles",
    "league": "🏒 NHL",
    "sport": "🏒",
-   "info": [
-    "📊 <b>Escenarios</b>: total esperado <b>6.6</b> goles · línea 6.5",
-    "Más 54% · Menos 46%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Anaheim Ducks ❌❌✅❌❌ | Ottawa Senators ❌✅❌❌✅",
-    "• H2H: 18 desde 2016: 9-9",
-    "• Bajas: Anaheim Ducks: 3 fuera, 0 duda (Troy Terry, Ian Moore, Ryan Poehling); Ottawa Senators: 5 fuera, 0 duda (Andre Burakovsky, Warren Foegele, Hayden Hodgson)"
-   ],
    "context": "Anaheim Ducks vs Ottawa Senators (🏒 NHL). Modelo de puntos (ataque/defensa con 10 años, decaimiento 1 año): total esperado 6.6 frente a línea 6.5. Forma Anaheim Ducks ❌❌✅❌❌, Ottawa Senators ❌✅❌❌✅. H2H 18 desde 2016: 9-9. Bajas: Anaheim Ducks: 3 fuera, 0 duda (Troy Terry, Ian Moore, Ryan Poehling); Ottawa Senators: 5 fuera, 0 duda (Andre Burakovsky, Warren Foegele, Hayden Hodgson).",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "6-3",
+   "logged": true
   },
   {
    "market": "home",
@@ -994,21 +1017,12 @@
    "start": "2026-11-02T01:00Z",
    "league": "🏒 NHL",
    "sport": "🏒",
-   "info": [
-    "📊 <b>Escenarios</b> (Elo con 14.593 partidos y bajas)",
-    "Gana Anaheim Ducks 54% · Gana Ottawa Senators 46%",
-    "Casas: Anaheim Ducks 48% · Ottawa Senators 52%",
-    "Hándicap OTT -118 · Total puntos 6.5",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Anaheim Ducks ❌❌✅❌❌ | Ottawa Senators ❌✅❌❌✅",
-    "• H2H: 18 desde 2016: 9-9",
-    "• Bajas: Anaheim Ducks: 3 fuera, 0 duda (Troy Terry, Ian Moore, Ryan Poehling); Ottawa Senators: 5 fuera, 0 duda (Andre Burakovsky, Warren Foegele, Hayden Hodgson)",
-    "• Favorito de las casas: Ottawa Senators @ 1.85"
-   ],
    "context": "Anaheim Ducks vs Ottawa Senators (🏒 NHL, hockey hielo). Modelo Elo con 10 años de historial ajustado por bajas: Anaheim Ducks 54%, Ottawa Senators 46%. Cuotas DraftKings 1.98/1.847, hándicap OTT -118, total 6.5. Forma Anaheim Ducks ❌❌✅❌❌, Ottawa Senators ❌✅❌❌✅. H2H 18 desde 2016: 9-9. Bajas Anaheim Ducks: Troy Terry lesionado; Ian Moore lesionado; Ryan Poehling lesionado. Bajas Ottawa Senators: Andre Burakovsky lesionado; Warren Foegele lesionado; Hayden Hodgson lesionado; Linus Ullmark lesionado; William Eklund lesionado.",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "6-3",
+   "logged": true
   },
   {
    "market": "under",
@@ -1252,22 +1266,12 @@
    "start": "2026-11-02T02:00:00+00:00",
    "league": "🎮 CS2 · Intel Extreme Masters Beijing 2026",
    "sport": "🎮",
-   "info": [
-    "📊 <b>Escenarios</b> (Elo por mapa. 76.338 partidos)",
-    "Mapa: HEROIC 63% · Serie BO3: HEROIC 69% - 31% B8",
-    "Casas: HEROIC 61% · B8 39%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Elo: HEROIC 1848 (343 series) | B8 1757 (443 series)",
-    "• Forma: HEROIC ✅✅❌✅❌ | B8 ❌✅✅❌❌",
-    "• H2H: 7: 4-3",
-    "• Torneo: Intel Extreme Masters Beijing 2026 (nivel S)",
-    "• Cambios de plantilla: ninguno"
-   ],
    "context": "CS2 HEROIC vs B8, BO3, torneo Intel Extreme Masters Beijing 2026 nivel s. Elo por mapa 1848 vs 1757 (prob. mapa 63%, serie 69%). Forma ✅✅❌✅❌ / ❌✅✅❌❌ (✅ victoria ❌ derrota). H2H 7: 4-3. Cambios de plantilla: ninguno. Cuotas Thunderpick 1.52/2.35.",
    "considered": true,
    "placed": false,
-   "result": null
+   "result": true,
+   "score": "2-0",
+   "logged": true
   },
   {
    "market": "t1",
@@ -1283,18 +1287,6 @@
    "start": "2026-11-02T04:30:00+00:00",
    "league": "🎮 CS2 · Intel Extreme Masters Beijing 2026",
    "sport": "🎮",
-   "info": [
-    "📊 <b>Escenarios</b> (Elo por mapa. 76.338 partidos)",
-    "Mapa: PARIVISION 52% · Serie BO3: PARIVISION 53% - 47% G2",
-    "Casas: PARIVISION 47% · G2 53%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Elo: PARIVISION 1846 (317 series) | G2 1833 (311 series)",
-    "• Forma: PARIVISION ❌✅✅✅❌ | G2 ✅❌❌❌❌",
-    "• H2H: 3: 2-1",
-    "• Torneo: Intel Extreme Masters Beijing 2026 (nivel S)",
-    "• Cambios de plantilla: ninguno"
-   ],
    "context": "CS2 PARIVISION vs G2, BO3, torneo Intel Extreme Masters Beijing 2026 nivel s. Elo por mapa 1846 vs 1833 (prob. mapa 52%, serie 53%). Forma ❌✅✅✅❌ / ✅❌❌❌❌ (✅ victoria ❌ derrota). H2H 3: 2-1. Cambios de plantilla: ninguno. Cuotas Thunderpick 1.95/1.75.",
    "considered": true,
    "placed": false,
@@ -1314,22 +1306,12 @@
    "start": "2026-11-02T04:30:00+00:00",
    "league": "🎮 CS2 · Intel Extreme Masters Beijing 2026",
    "sport": "🎮",
-   "info": [
-    "📊 <b>Escenarios</b> (Elo por mapa. 76.338 partidos)",
-    "Mapa: Aurora 72% · Serie BO3: Aurora 81% - 19% Liquid",
-    "Casas: Aurora 68% · Liquid 32%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Elo: Aurora 1978 (497 series) | Liquid 1812 (305 series)",
-    "• Forma: Aurora ❌✅✅✅❌ | Liquid ✅❌✅❌❌",
-    "• H2H: 4: 3-1",
-    "• Torneo: Intel Extreme Masters Beijing 2026 (nivel S)",
-    "• Cambios de plantilla: ninguno"
-   ],
    "context": "CS2 Aurora vs Liquid, BO3, torneo Intel Extreme Masters Beijing 2026 nivel s. Elo por mapa 1978 vs 1812 (prob. mapa 72%, serie 81%). Forma ❌✅✅✅❌ / ✅❌✅❌❌ (✅ victoria ❌ derrota). H2H 4: 3-1. Cambios de plantilla: ninguno. Cuotas Thunderpick 1.35/2.9.",
    "considered": true,
    "placed": false,
-   "result": null
+   "result": false,
+   "score": "0-2",
+   "logged": true
   },
   {
    "market": "t1",
@@ -1345,18 +1327,6 @@
    "start": "2026-11-02T07:00:00+00:00",
    "league": "🎮 CS2 · Intel Extreme Masters Beijing 2026",
    "sport": "🎮",
-   "info": [
-    "📊 <b>Escenarios</b> (Elo por mapa. 76.338 partidos)",
-    "Mapa: FURIA 76% · Serie BO3: FURIA 86% - 14% FaZe",
-    "Casas: FURIA 68% · FaZe 32%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Elo: FURIA 2018 (324 series) | FaZe 1814 (329 series)",
-    "• Forma: FURIA ✅✅✅✅✅ | FaZe ❌✅✅❌✅",
-    "• H2H: 10: 4-6",
-    "• Torneo: Intel Extreme Masters Beijing 2026 (nivel S)",
-    "• Cambios de plantilla: ninguno"
-   ],
    "context": "CS2 FURIA vs FaZe, BO3, torneo Intel Extreme Masters Beijing 2026 nivel s. Elo por mapa 2018 vs 1814 (prob. mapa 76%, serie 86%). Forma ✅✅✅✅✅ / ❌✅✅❌✅ (✅ victoria ❌ derrota). H2H 10: 4-6. Cambios de plantilla: ninguno. Cuotas Thunderpick 1.35/2.9.",
    "considered": true,
    "placed": false,
@@ -1376,18 +1346,6 @@
    "start": "2026-11-02T07:00:00+00:00",
    "league": "🎮 CS2 · Intel Extreme Masters Beijing 2026",
    "sport": "🎮",
-   "info": [
-    "📊 <b>Escenarios</b> (Elo por mapa. 76.338 partidos)",
-    "Mapa: 9z 34% · Serie BO3: 9z 26% - 74% BetBoom",
-    "Casas: 9z 33% · BetBoom 67%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Elo: 9z 1831 (364 series) | BetBoom 1949 (352 series)",
-    "• Forma: 9z ❌❌❌❌❌ | BetBoom ❌✅✅✅❌",
-    "• H2H: 2: 2-0",
-    "• Torneo: Intel Extreme Masters Beijing 2026 (nivel S)",
-    "• Cambios de plantilla: ninguno"
-   ],
    "context": "CS2 9z vs BetBoom, BO3, torneo Intel Extreme Masters Beijing 2026 nivel s. Elo por mapa 1831 vs 1949 (prob. mapa 34%, serie 26%). Forma ❌❌❌❌❌ / ❌✅✅✅❌ (✅ victoria ❌ derrota). H2H 2: 2-0. Cambios de plantilla: ninguno. Cuotas Thunderpick 2.8/1.38.",
    "considered": true,
    "placed": false,
@@ -1779,22 +1737,12 @@
    "start": "2026-11-02T02:00:00+00:00",
    "league": "🎮 CS2 · Intel Extreme Masters Beijing 2026",
    "sport": "🎮",
-   "info": [
-    "📊 <b>Escenarios</b> (Elo por mapa. 76.340 partidos)",
-    "Mapa: HEROIC 57% · Serie BO3: HEROIC 60% - 40% B8",
-    "Casas: HEROIC 62% · B8 38%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Elo: HEROIC 1989 (343 series) | B8 1917 (443 series)",
-    "• Forma: HEROIC ✅✅❌✅❌ | B8 ❌✅✅❌❌",
-    "• H2H: 7: 4-3",
-    "• Torneo: Intel Extreme Masters Beijing 2026 (nivel S)",
-    "• Cambios de plantilla: ninguno"
-   ],
    "context": "CS2 HEROIC vs B8, BO3, torneo Intel Extreme Masters Beijing 2026 nivel s. Elo por mapa 1989 vs 1917 (prob. mapa 57%, serie 60%). Forma ✅✅❌✅❌ / ❌✅✅❌❌ (✅ victoria ❌ derrota). H2H 7: 4-3. Cambios de plantilla: ninguno. Cuotas Thunderpick 1.5/2.4.",
    "considered": true,
    "placed": false,
-   "result": null
+   "result": false,
+   "score": "2-0",
+   "logged": true
   },
   {
    "market": "AHH",
@@ -1810,18 +1758,6 @@
    "start": "2026-11-02T07:00:00+00:00",
    "league": "🎮 CS2 · Intel Extreme Masters Beijing 2026",
    "sport": "🎮",
-   "info": [
-    "📊 <b>Escenarios</b> (Elo por mapa. 76.340 partidos)",
-    "Mapa: FURIA 68% · Serie BO3: FURIA 76% - 24% FaZe",
-    "Casas: FURIA 68% · FaZe 32%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Elo: FURIA 2186 (324 series) | FaZe 1980 (329 series)",
-    "• Forma: FURIA ✅✅✅✅✅ | FaZe ❌✅✅❌✅",
-    "• H2H: 10: 4-6",
-    "• Torneo: Intel Extreme Masters Beijing 2026 (nivel S)",
-    "• Cambios de plantilla: ninguno"
-   ],
    "context": "CS2 FURIA vs FaZe, BO3, torneo Intel Extreme Masters Beijing 2026 nivel s. Elo por mapa 2186 vs 1980 (prob. mapa 68%, serie 76%). Forma ✅✅✅✅✅ / ❌✅✅❌✅ (✅ victoria ❌ derrota). H2H 10: 4-6. Cambios de plantilla: ninguno. Cuotas Thunderpick 1.35/2.9.",
    "considered": true,
    "placed": false
@@ -1840,21 +1776,12 @@
    "start": "2026-11-02T04:00:00+00:00",
    "league": "🐉 Dota 2 · EPL World Series: Southeast Asia Season 19",
    "sport": "🐉",
-   "info": [
-    "📊 <b>Escenarios</b> (Elo por mapa. 11.607 partidos)",
-    "Mapa: Zenith 73% · Serie BO3: Zenith 82% - 18% Team Kinetix",
-    "Casas: Zenith 29% · Team Kinetix 71%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Elo: Zenith 1691 (12 series) | Team Kinetix 1458 (25 series)",
-    "• Forma: Zenith ✅✅❌✅❌ | Team Kinetix ❌❌✅❌❌",
-    "• H2H: sin precedentes",
-    "• Torneo: EPL World Series: Southeast Asia Season 19 (nivel B)",
-    "• Cambios de plantilla: ninguno"
-   ],
    "context": "Dota 2 Zenith vs Team Kinetix, BO3, torneo EPL World Series: Southeast Asia Season 19 nivel b. Elo por mapa 1691 vs 1458 (prob. mapa 73%, serie 82%). Forma ✅✅❌✅❌ / ❌❌✅❌❌ (✅ victoria ❌ derrota). H2H sin precedentes. Cambios de plantilla: ninguno. Cuotas Thunderpick 3.21/1.3.",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "2-0",
+   "result": true,
+   "logged": true
   },
   {
    "market": "AHH",
@@ -1870,18 +1797,6 @@
    "start": "2026-11-02T04:00:00+00:00",
    "league": "🐉 Dota 2 · EPL World Series: Southeast Asia Season 19",
    "sport": "🐉",
-   "info": [
-    "📊 <b>Escenarios</b> (Elo por mapa. 11.607 partidos)",
-    "Mapa: Zenith 73% · Serie BO3: Zenith 82% - 18% Team Kinetix",
-    "Casas: Zenith 29% · Team Kinetix 71%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Elo: Zenith 1691 (12 series) | Team Kinetix 1458 (25 series)",
-    "• Forma: Zenith ✅✅❌✅❌ | Team Kinetix ❌❌✅❌❌",
-    "• H2H: sin precedentes",
-    "• Torneo: EPL World Series: Southeast Asia Season 19 (nivel B)",
-    "• Cambios de plantilla: ninguno"
-   ],
    "context": "Dota 2 Zenith vs Team Kinetix, BO3, torneo EPL World Series: Southeast Asia Season 19 nivel b. Elo por mapa 1691 vs 1458 (prob. mapa 73%, serie 82%). Forma ✅✅❌✅❌ / ❌❌✅❌❌ (✅ victoria ❌ derrota). H2H sin precedentes. Cambios de plantilla: ninguno. Cuotas Thunderpick 3.21/1.3.",
    "considered": true,
    "ai": {
@@ -1889,7 +1804,10 @@
     "motivo": "Existe una clara discrepancia a favor de Zenith, cuyo Elo y estado de forma reciente (3-2 frente al 1-4 de Kinetix) hacen que ganar al menos un mapa a cuota 1.76 tenga un inmenso valor esperado.",
     "confianza": 4
    },
-   "placed": true
+   "placed": true,
+   "score": "2-0",
+   "result": true,
+   "logged": true
   },
   {
    "market": "t2",
@@ -2070,10 +1988,310 @@
    "context": "Dota 2 GamerLegion vs CyberHero, BO3, torneo EPL Masters III nivel b. Elo por mapa 1936 vs 1742 (prob. mapa 70%, serie 78%). Forma ✅✅✅❌❌ / ❌✅❌✅✅ (✅ victoria ❌ derrota). H2H sin precedentes. Cambios de plantilla: ninguno. Cuotas Thunderpick 1.08/6.5.",
    "considered": true,
    "placed": false
+  },
+  {
+   "market": "t1",
+   "team_id": 9438,
+   "pick": "PARTIZAN",
+   "odds": 1.75,
+   "book": "Thunderpick",
+   "p": 0.566,
+   "implied": 0.528,
+   "edge": -0.01,
+   "key": "cs2|133155",
+   "match": "PARTIZAN vs regnum4games",
+   "start": "2026-11-02T17:00:00+00:00",
+   "league": "🎮 CS2 · ESEA Season 59: Advanced Division - Europe",
+   "sport": "🎮",
+   "info": [
+    "📊 <b>Escenarios</b> (Elo por mapa. 76.347 partidos)",
+    "Mapa: PARTIZAN 60% · Serie BO1: PARTIZAN 60% - 40% regnum4games",
+    "Casas: PARTIZAN 53% · regnum4games 47%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Elo: PARTIZAN 1400 (43 series) | regnum4games 1328 (36 series)",
+    "• Forma: PARTIZAN ❌❌✅❌❌ | regnum4games ❌✅❌❌❌",
+    "• H2H: sin precedentes",
+    "• Torneo: ESEA Season 59: Advanced Division - Europe (nivel C)",
+    "• Cambios de plantilla: ninguno"
+   ],
+   "context": "CS2 PARTIZAN vs regnum4games, BO1, torneo ESEA Season 59: Advanced Division - Europe nivel c. Elo por mapa 1400 vs 1328 (prob. mapa 60%, serie 60%). Forma ❌❌✅❌❌ / ❌✅❌❌❌ (✅ victoria ❌ derrota). H2H sin precedentes. Cambios de plantilla: ninguno. Cuotas Thunderpick 1.75/1.96.",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "t1",
+   "team_id": 21990,
+   "pick": "Young TigeRES",
+   "odds": 1.34,
+   "book": "Thunderpick",
+   "p": 0.735,
+   "implied": 0.692,
+   "edge": -0.015,
+   "key": "cs2|133154",
+   "match": "Young TigeRES vs Vitality Academy",
+   "start": "2026-11-02T17:00:00+00:00",
+   "league": "🎮 CS2 · ESEA Season 59: Advanced Division - Europe",
+   "sport": "🎮",
+   "info": [
+    "📊 <b>Escenarios</b> (Elo por mapa. 76.347 partidos)",
+    "Mapa: Young TigeRES 78% · Serie BO1: Young TigeRES 78% - 22% Vitality Academy",
+    "Casas: Young TigeRES 69% · Vitality Academy 31%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Elo: Young TigeRES 1620 (67 series) | Vitality Academy 1402 (26 series)",
+    "• Forma: Young TigeRES ✅❌✅✅✅ | Vitality Academy ✅✅❌❌❌",
+    "• H2H: sin precedentes",
+    "• Torneo: ESEA Season 59: Advanced Division - Europe (nivel C)",
+    "• Cambios de plantilla: ninguno"
+   ],
+   "context": "CS2 Young TigeRES vs Vitality Academy, BO1, torneo ESEA Season 59: Advanced Division - Europe nivel c. Elo por mapa 1620 vs 1402 (prob. mapa 78%, serie 78%). Forma ✅❌✅✅✅ / ✅✅❌❌❌ (✅ victoria ❌ derrota). H2H sin precedentes. Cambios de plantilla: ninguno. Cuotas Thunderpick 1.34/3.01.",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "t2",
+   "team_id": 20582,
+   "pick": "LPH",
+   "odds": 1.59,
+   "book": "Thunderpick",
+   "p": 0.624,
+   "implied": 0.582,
+   "edge": -0.008,
+   "key": "cs2|133156",
+   "match": "eSuba vs LPH",
+   "start": "2026-11-02T18:00:00+00:00",
+   "league": "🎮 CS2 · ESEA Season 59: Advanced Division - Europe",
+   "sport": "🎮",
+   "info": [
+    "📊 <b>Escenarios</b> (Elo por mapa. 76.347 partidos)",
+    "Mapa: eSuba 33% · Serie BO1: eSuba 33% - 67% LPH",
+    "Casas: eSuba 42% · LPH 58%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Elo: eSuba 1402 (91 series) | LPH 1523 (139 series)",
+    "• Forma: eSuba ❌❌❌❌❌ | LPH ✅❌❌❌✅",
+    "• H2H: 2: 1-1",
+    "• Torneo: ESEA Season 59: Advanced Division - Europe (nivel C)",
+    "• Cambios de plantilla: ninguno"
+   ],
+   "context": "CS2 eSuba vs LPH, BO1, torneo ESEA Season 59: Advanced Division - Europe nivel c. Elo por mapa 1402 vs 1523 (prob. mapa 33%, serie 33%). Forma ❌❌❌❌❌ / ✅❌❌❌✅ (✅ victoria ❌ derrota). H2H 2: 1-1. Cambios de plantilla: ninguno. Cuotas Thunderpick 2.21/1.59.",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "t2",
+   "team_id": 21697,
+   "pick": "OLDBOYS PL",
+   "odds": 1.41,
+   "book": "Thunderpick",
+   "p": 0.708,
+   "implied": 0.657,
+   "edge": -0.001,
+   "key": "cs2|133158",
+   "match": "NoTime vs OLDBOYS PL",
+   "start": "2026-11-02T18:30:00+00:00",
+   "league": "🎮 CS2 · ESEA Season 59: Advanced Division - Europe",
+   "sport": "🎮",
+   "info": [
+    "📊 <b>Escenarios</b> (Elo por mapa. 76.347 partidos)",
+    "Mapa: NoTime 24% · Serie BO1: NoTime 24% - 76% OLDBOYS PL",
+    "Casas: NoTime 34% · OLDBOYS PL 66%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Elo: NoTime 1453 (13 series) | OLDBOYS PL 1653 (78 series)",
+    "• Forma: NoTime ✅❌❌❌✅ | OLDBOYS PL ✅✅❌✅✅",
+    "• H2H: 1: 0-1",
+    "• Torneo: ESEA Season 59: Advanced Division - Europe (nivel C)",
+    "• Cambios de plantilla: ninguno"
+   ],
+   "context": "CS2 NoTime vs OLDBOYS PL, BO1, torneo ESEA Season 59: Advanced Division - Europe nivel c. Elo por mapa 1453 vs 1653 (prob. mapa 24%, serie 24%). Forma ✅❌❌❌✅ / ✅✅❌✅✅ (✅ victoria ❌ derrota). H2H 1: 0-1. Cambios de plantilla: ninguno. Cuotas Thunderpick 2.7/1.41.",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "t1",
+   "team_id": 24666,
+   "pick": "Al Ahli",
+   "odds": 1.31,
+   "book": "Thunderpick",
+   "p": 0.76,
+   "implied": 0.706,
+   "edge": -0.004,
+   "key": "cs2|133159",
+   "match": "Al Ahli vs Fortress",
+   "start": "2026-11-02T19:00:00+00:00",
+   "league": "🎮 CS2 · ESEA Season 59: Advanced Division - Europe",
+   "sport": "🎮",
+   "info": [
+    "📊 <b>Escenarios</b> (Elo por mapa. 76.347 partidos)",
+    "Mapa: Al Ahli 81% · Serie BO1: Al Ahli 81% - 19% Fortress",
+    "Casas: Al Ahli 71% · Fortress 29%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Elo: Al Ahli 1508 (11 series) | Fortress 1251 (71 series)",
+    "• Forma: Al Ahli ❌✅✅✅✅ | Fortress ✅❌✅❌❌",
+    "• H2H: sin precedentes",
+    "• Torneo: ESEA Season 59: Advanced Division - Europe (nivel C)",
+    "• Cambios de plantilla: ninguno"
+   ],
+   "context": "CS2 Al Ahli vs Fortress, BO1, torneo ESEA Season 59: Advanced Division - Europe nivel c. Elo por mapa 1508 vs 1251 (prob. mapa 81%, serie 81%). Forma ❌✅✅✅✅ / ✅❌✅❌❌ (✅ victoria ❌ derrota). H2H sin precedentes. Cambios de plantilla: ninguno. Cuotas Thunderpick 1.31/3.14.",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "t2",
+   "team_id": 20582,
+   "pick": "LPH",
+   "odds": 1.94,
+   "book": "Thunderpick",
+   "p": 0.486,
+   "implied": 0.477,
+   "edge": -0.057,
+   "key": "cs2|133160",
+   "match": "B8 Academy vs LPH",
+   "start": "2026-11-02T19:30:00+00:00",
+   "league": "🎮 CS2 · ESEA Season 59: Advanced Division - Europe",
+   "sport": "🎮",
+   "info": [
+    "📊 <b>Escenarios</b> (Elo por mapa. 76.347 partidos)",
+    "Mapa: B8 Academy 51% · Serie BO1: B8 Academy 51% - 49% LPH",
+    "Casas: B8 Academy 52% · LPH 48%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Elo: B8 Academy 1527 (90 series) | LPH 1523 (139 series)",
+    "• Forma: B8 Academy ❌✅✅✅✅ | LPH ✅❌❌❌✅",
+    "• H2H: 1: 1-0",
+    "• Torneo: ESEA Season 59: Advanced Division - Europe (nivel C)",
+    "• Cambios de plantilla: ninguno"
+   ],
+   "context": "CS2 B8 Academy vs LPH, BO1, torneo ESEA Season 59: Advanced Division - Europe nivel c. Elo por mapa 1527 vs 1523 (prob. mapa 51%, serie 51%). Forma ❌✅✅✅✅ / ✅❌❌❌✅ (✅ victoria ❌ derrota). H2H 1: 1-0. Cambios de plantilla: ninguno. Cuotas Thunderpick 1.77/1.94.",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "t1",
+   "team_id": 22899,
+   "pick": "boyband",
+   "odds": 1.68,
+   "book": "Thunderpick",
+   "p": 0.573,
+   "implied": 0.546,
+   "edge": -0.037,
+   "key": "cs2|132965",
+   "match": "boyband vs ROUNDS",
+   "start": "2026-11-03T15:30:00+00:00",
+   "league": "🎮 CS2 · Elisa Open Suomi Season 14",
+   "sport": "🎮",
+   "info": [
+    "📊 <b>Escenarios</b> (Elo por mapa. 76.347 partidos)",
+    "Mapa: boyband 57% · Serie BO3: boyband 60% - 40% ROUNDS",
+    "Casas: boyband 55% · ROUNDS 45%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Elo: boyband 1423 (16 series) | ROUNDS 1350 (177 series)",
+    "• Forma: boyband ✅✅✅❌❌ | ROUNDS ❌❌❌❌✅",
+    "• H2H: 1: 0-1",
+    "• Torneo: Elisa Open Suomi Season 14 (nivel C)",
+    "• Cambios de plantilla: ninguno"
+   ],
+   "context": "CS2 boyband vs ROUNDS, BO3, torneo Elisa Open Suomi Season 14 nivel c. Elo por mapa 1423 vs 1350 (prob. mapa 57%, serie 60%). Forma ✅✅✅❌❌ / ❌❌❌❌✅ (✅ victoria ❌ derrota). H2H 1: 0-1. Cambios de plantilla: ninguno. Cuotas Thunderpick 1.68/2.02.",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "t2",
+   "team_id": 1199,
+   "pick": "eSuba",
+   "odds": 1.67,
+   "book": "Thunderpick",
+   "p": 0.571,
+   "implied": 0.556,
+   "edge": -0.047,
+   "key": "cs2|132834",
+   "match": "BOJONG vs eSuba",
+   "start": "2026-11-03T17:00:00+00:00",
+   "league": "🎮 CS2 · ESEA Season 59: Advanced Division - Europe",
+   "sport": "🎮",
+   "info": [
+    "📊 <b>Escenarios</b> (Elo por mapa. 76.347 partidos)",
+    "Mapa: BOJONG 41% · Serie BO1: BOJONG 41% - 59% eSuba",
+    "Casas: BOJONG 44% · eSuba 56%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Elo: BOJONG 1342 (56 series) | eSuba 1402 (91 series)",
+    "• Forma: BOJONG ❌❌❌✅❌ | eSuba ❌❌❌❌❌",
+    "• H2H: sin precedentes",
+    "• Torneo: ESEA Season 59: Advanced Division - Europe (nivel C)",
+    "• Cambios de plantilla: ninguno"
+   ],
+   "context": "CS2 BOJONG vs eSuba, BO1, torneo ESEA Season 59: Advanced Division - Europe nivel c. Elo por mapa 1342 vs 1402 (prob. mapa 41%, serie 41%). Forma ❌❌❌✅❌ / ❌❌❌❌❌ (✅ victoria ❌ derrota). H2H sin precedentes. Cambios de plantilla: ninguno. Cuotas Thunderpick 2.09/1.67.",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "t1",
+   "team_id": 21697,
+   "pick": "OLDBOYS PL",
+   "odds": 1.82,
+   "book": "Thunderpick",
+   "p": 0.51,
+   "implied": 0.508,
+   "edge": -0.071,
+   "key": "cs2|132515",
+   "match": "OLDBOYS PL vs Fire Flux",
+   "start": "2026-11-03T17:30:00+00:00",
+   "league": "🎮 CS2 · ESEA Season 59: Advanced Division - Europe",
+   "sport": "🎮",
+   "info": [
+    "📊 <b>Escenarios</b> (Elo por mapa. 76.347 partidos)",
+    "Mapa: OLDBOYS PL 51% · Serie BO1: OLDBOYS PL 51% - 49% Fire Flux",
+    "Casas: OLDBOYS PL 51% · Fire Flux 49%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Elo: OLDBOYS PL 1653 (78 series) | Fire Flux 1644 (333 series)",
+    "• Forma: OLDBOYS PL ✅✅❌✅✅ | Fire Flux ✅✅❌❌❌",
+    "• H2H: sin precedentes",
+    "• Torneo: ESEA Season 59: Advanced Division - Europe (nivel C)",
+    "• Cambios de plantilla: ninguno"
+   ],
+   "context": "CS2 OLDBOYS PL vs Fire Flux, BO1, torneo ESEA Season 59: Advanced Division - Europe nivel c. Elo por mapa 1653 vs 1644 (prob. mapa 51%, serie 51%). Forma ✅✅❌✅✅ / ✅✅❌❌❌ (✅ victoria ❌ derrota). H2H sin precedentes. Cambios de plantilla: ninguno. Cuotas Thunderpick 1.82/1.88.",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "t2",
+   "team_id": 23252,
+   "pick": "Fans of Attics",
+   "odds": 2.3,
+   "book": "Thunderpick",
+   "p": 0.452,
+   "implied": 0.401,
+   "edge": 0.039,
+   "key": "r6|133075",
+   "match": "Pannuhuone vs Fans of Attics",
+   "start": "2026-11-03T18:00:00+00:00",
+   "league": "🔫 R6 Siege · EML Challenger Circuit 2026: Playoffs",
+   "sport": "🔫",
+   "info": [
+    "📊 <b>Escenarios</b> (Elo por mapa. 3.337 partidos)",
+    "Mapa: Pannuhuone 50% · Serie BO3: Pannuhuone 50% - 50% Fans of Attics",
+    "Casas: Pannuhuone 60% · Fans of Attics 40%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Elo: Pannuhuone 1553 (14 series) | Fans of Attics 1554 (5 series)",
+    "• Forma: Pannuhuone ✅✅✅❌❌ | Fans of Attics ✅✅✅❌❌",
+    "• H2H: 1: 1-0",
+    "• Torneo: EML Challenger Circuit 2026: Playoffs (nivel B)",
+    "• Cambios de plantilla: ninguno"
+   ],
+   "context": "R6 Siege Pannuhuone vs Fans of Attics, BO3, torneo EML Challenger Circuit 2026: Playoffs nivel b. Elo por mapa 1553 vs 1554 (prob. mapa 50%, serie 50%). Forma ✅✅✅❌❌ / ✅✅✅❌❌ (✅ victoria ❌ derrota). H2H 1: 1-0. Cambios de plantilla: ninguno. Cuotas Thunderpick 1.54/2.3.",
+   "considered": true,
+   "placed": false
   }
  ],
  "bank": {
-  "balance": 73.91,
+  "balance": 84.77,
   "bets": [
    {
     "date": "2026-11-01",
@@ -2104,7 +2322,12 @@
     "stake": 3.24,
     "odds": 3.2,
     "desc": "Washington Commanders vs Philadelphia Eagles → Philadelphia Eagles @ 3.20",
-    "status": "abierta"
+    "status": "perdida",
+    "return": 0.0,
+    "autopsia": {
+     "causa": "sin análisis (IA no disponible)",
+     "corregir": ""
+    }
    },
    {
     "date": "2026-11-01",
@@ -2117,7 +2340,12 @@
     "stake": 2.04,
     "odds": 3.75,
     "desc": "Miami Dolphins vs New England Patriots → Miami Dolphins @ 3.75",
-    "status": "abierta"
+    "status": "perdida",
+    "return": 0.0,
+    "autopsia": {
+     "causa": "sin análisis (IA no disponible)",
+     "corregir": ""
+    }
    },
    {
     "date": "2026-11-01",
@@ -2130,7 +2358,8 @@
     "stake": 3.45,
     "odds": 1.93,
     "desc": "Denver Broncos vs Kansas City Chiefs → Denver Broncos @ 1.93",
-    "status": "abierta"
+    "status": "ganada",
+    "return": 6.64
    },
    {
     "date": "2026-11-01",
@@ -2269,7 +2498,12 @@
     "stake": 1.17,
     "odds": 1.91,
     "desc": "Washington Commanders vs Philadelphia Eagles → Más de 40.5 puntos",
-    "status": "abierta"
+    "status": "perdida",
+    "return": 0.0,
+    "autopsia": {
+     "causa": "sin análisis (IA no disponible)",
+     "corregir": ""
+    }
    },
    {
     "date": "2026-11-01",
@@ -2282,10 +2516,11 @@
     "stake": 2.4,
     "odds": 1.76,
     "desc": "Zenith vs Team Kinetix → Zenith +1.5 mapas",
-    "status": "abierta"
+    "status": "ganada",
+    "return": 4.22
    }
   ]
  },
  "scoreboard_id": 53,
- "scoreboard_text": "📊 <b>MARCADOR DEL BOT</b>\n━━━━━━━━━━━━━━━\n🟩 Ganadas: <b>1</b> (50 %)\n🟥 Perdidas: <b>1</b> (50 %)\n⏳ En juego: 13\n\nÚltimas 2:\n🟥🟩\n━━━━━━━━━━━━━━━\n💵 Beneficio -1.24 $ · ROI -24.1 %\n💰 Banca: <b>98.76 $</b> (-1.24 $ desde 100 $) · libre 73.91 ${\"inline_keyboard\": [[{\"text\": \"\\ud83d\\udcc8 Ver historial completo y fallos\", \"url\": \"https://github.com/STAMFORD313/analista313/blob/main/ESTADISTICAS.md\"}], [{\"text\": \"\\u26bd F\\u00fatbol\", \"callback_data\": \"dep:futbol\"}, {\"text\": \"\\ud83c\\udfc0 NBA\", \"callback_data\": \"dep:nba\"}, {\"text\": \"\\ud83c\\udfc8 NFL\", \"callback_data\": \"dep:nfl\"}], [{\"text\": \"\\ud83c\\udfd2 NHL\", \"callback_data\": \"dep:nhl\"}, {\"text\": \"\\u26be MLB\", \"callback_data\": \"dep:mlb\"}, {\"text\": \"\\ud83e\\udd4a UFC\", \"callback_data\": \"dep:ufc\"}], [{\"text\": \"\\ud83c\\udfbe Tenis\", \"callback_data\": \"dep:tenis\"}, {\"text\": \"\\ud83c\\udfae CS2\", \"callback_data\": \"dep:cs2\"}, {\"text\": \"\\ud83d\\udc09 Dota 2\", \"callback_data\": \"dep:dota2\"}], [{\"text\": \"\\ud83e\\uddd9 LoL\", \"callback_data\": \"dep:lol\"}, {\"text\": \"\\ud83d\\udd2b R6 Siege\", \"callback_data\": \"dep:r6\"}, {\"text\": \"\\ud83d\\udcf1 MLBB\", \"callback_data\": \"dep:mlbb\"}]]}"
+ "scoreboard_text": "📊 <b>MARCADOR DEL BOT</b>\n━━━━━━━━━━━━━━━\n🟩 Ganadas: <b>3</b> (43 %)\n🟥 Perdidas: <b>4</b> (57 %)\n⏳ En juego: 8\n\nÚltimas 7:\n🟥🟥🟥🟩🟩🟥🟩\n━━━━━━━━━━━━━━━\n💵 Beneficio -2.68 $ · ROI -15.4 %\n💰 Banca: <b>97.32 $</b> (-2.68 $ desde 100 $) · libre 84.77 ${\"inline_keyboard\": [[{\"text\": \"\\ud83d\\udcc8 Ver historial completo y fallos\", \"url\": \"https://github.com/STAMFORD313/analista313/blob/main/ESTADISTICAS.md\"}], [{\"text\": \"\\u26bd F\\u00fatbol\", \"callback_data\": \"dep:futbol\"}, {\"text\": \"\\ud83c\\udfc0 NBA\\u00b7NCAA\", \"callback_data\": \"dep:nba\"}, {\"text\": \"\\ud83c\\udfc8 NFL\\u00b7NCAA\", \"callback_data\": \"dep:nfl\"}], [{\"text\": \"\\ud83c\\udfc6 Champions\\u00b7Europa\", \"callback_data\": \"dep:europa\"}, {\"text\": \"\\ud83c\\udfd2 NHL\", \"callback_data\": \"dep:nhl\"}, {\"text\": \"\\u26be MLB\", \"callback_data\": \"dep:mlb\"}], [{\"text\": \"\\ud83e\\udd4a UFC\", \"callback_data\": \"dep:ufc\"}, {\"text\": \"\\ud83c\\udfbe Tenis\", \"callback_data\": \"dep:tenis\"}, {\"text\": \"\\ud83c\\udfae CS2\", \"callback_data\": \"dep:cs2\"}], [{\"text\": \"\\ud83d\\udc09 Dota 2\", \"callback_data\": \"dep:dota2\"}, {\"text\": \"\\ud83e\\uddd9 LoL\", \"callback_data\": \"dep:lol\"}, {\"text\": \"\\ud83d\\udd2b R6 Siege\", \"callback_data\": \"dep:r6\"}], [{\"text\": \"\\ud83d\\udcf1 MLBB\", \"callback_data\": \"dep:mlbb\"}]]}"
 }
