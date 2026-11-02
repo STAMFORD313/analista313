@@ -1,6 +1,6 @@
 # 🏒 NHL · apuestas de valor
 
-Actualizado 02/11/2026 08:19 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 02/11/2026 08:21 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Boston Bruins vs Vegas Golden Knights — 03/11 · 01:00
 

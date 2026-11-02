@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 02/11/2026 08:19 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 02/11/2026 08:21 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Natus Vincere vs Falcons — 02/11 · 10:30
 
@@ -116,25 +116,6 @@ Casas: MASONIC 68% · MASQ 32%
 • Torneo: Dust2.dk Ligaen Season 33: Regular Season (nivel C)  
 • Cambios de plantilla: ninguno  
 
-## PARTIZAN vs regnum4games — 02/11 · 18:00
-
-👀 candidata · 🎮 CS2 · ESEA Season 59: Advanced Division - Europe · **Gana PARTIZAN** @ **1.75** (Thunderpick) · prob 57% vs casas 53% · ventaja -1%
-
-- ✅ Probabilidad 57% (mín. 55%)
-- ❌ Ventaja -1% (entre 5% y 30%)
-- ✅ Segmento «🎮 favorito» sin pérdidas
-- ❌ IA: sin revisar (no pasó lo anterior)
-
-📊 **Escenarios** (Elo por mapa. 76.347 partidos)  
-Mapa: PARTIZAN 60% · Serie BO1: PARTIZAN 60% - 40% regnum4games  
-Casas: PARTIZAN 53% · regnum4games 47%  
-🔎 **Claves**  
-• Elo: PARTIZAN 1400 (43 series) | regnum4games 1328 (36 series)  
-• Forma: PARTIZAN ❌❌✅❌❌ | regnum4games ❌✅❌❌❌  
-• H2H: sin precedentes  
-• Torneo: ESEA Season 59: Advanced Division - Europe (nivel C)  
-• Cambios de plantilla: ninguno  
-
 ## Young TigeRES vs Vitality Academy — 02/11 · 18:00
 
 👀 candidata · 🎮 CS2 · ESEA Season 59: Advanced Division - Europe · **Gana Young TigeRES** @ **1.34** (Thunderpick) · prob 74% vs casas 69% · ventaja -2%
@@ -150,6 +131,25 @@ Casas: Young TigeRES 69% · Vitality Academy 31%
 🔎 **Claves**  
 • Elo: Young TigeRES 1620 (67 series) | Vitality Academy 1402 (26 series)  
 • Forma: Young TigeRES ✅❌✅✅✅ | Vitality Academy ✅✅❌❌❌  
+• H2H: sin precedentes  
+• Torneo: ESEA Season 59: Advanced Division - Europe (nivel C)  
+• Cambios de plantilla: ninguno  
+
+## PARTIZAN vs regnum4games — 02/11 · 18:00
+
+👀 candidata · 🎮 CS2 · ESEA Season 59: Advanced Division - Europe · **Gana PARTIZAN** @ **1.75** (Thunderpick) · prob 57% vs casas 53% · ventaja -1%
+
+- ✅ Probabilidad 57% (mín. 55%)
+- ❌ Ventaja -1% (entre 5% y 30%)
+- ✅ Segmento «🎮 favorito» sin pérdidas
+- ❌ IA: sin revisar (no pasó lo anterior)
+
+📊 **Escenarios** (Elo por mapa. 76.347 partidos)  
+Mapa: PARTIZAN 60% · Serie BO1: PARTIZAN 60% - 40% regnum4games  
+Casas: PARTIZAN 53% · regnum4games 47%  
+🔎 **Claves**  
+• Elo: PARTIZAN 1400 (43 series) | regnum4games 1328 (36 series)  
+• Forma: PARTIZAN ❌❌✅❌❌ | regnum4games ❌✅❌❌❌  
 • H2H: sin precedentes  
 • Torneo: ESEA Season 59: Advanced Division - Europe (nivel C)  
 • Cambios de plantilla: ninguno  
