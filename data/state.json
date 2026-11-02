@@ -586,8 +586,8 @@
   "wta|2026-11-03|Linda Fruhvirtova|Weronika Falkowska",
   "wta|2026-11-03|Jeline Vandromme|Kyoka Okamura",
   "wta|2026-11-04|Claire Liu|Katie Boulter",
-  "cs2|133044",
   "cs2|133046",
+  "cs2|133044",
   "cs2|133047",
   "cs2|133045",
   "cs2|133164",
@@ -6315,36 +6315,6 @@
   },
   {
    "market": "t2",
-   "team_id": 8171,
-   "pick": "PARIVISION",
-   "odds": 1.8,
-   "book": "Thunderpick",
-   "p": 0.538,
-   "implied": 0.514,
-   "edge": -0.032,
-   "key": "cs2|133044",
-   "match": "Liquid vs PARIVISION",
-   "start": "2026-11-03T04:30:00+00:00",
-   "league": "🎮 CS2 · Intel Extreme Masters Beijing 2026",
-   "sport": "🎮",
-   "info": [
-    "📊 <b>Escenarios</b> (Elo por mapa, 76.351 partidos)",
-    "Mapa: Liquid 46% · Serie BO3: Liquid 44% - 56% PARIVISION",
-    "Casas: Liquid 49% · PARIVISION 51%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Elo: Liquid 1923 (306 series) | PARIVISION 1964 (318 series)",
-    "• Forma: Liquid ❌✅❌❌✅ | PARIVISION ✅✅✅❌✅",
-    "• H2H: 2: 0-2",
-    "• Torneo: Intel Extreme Masters Beijing 2026 (nivel S)",
-    "• Cambios de plantilla: ninguno"
-   ],
-   "context": "CS2 Liquid vs PARIVISION, BO3, torneo Intel Extreme Masters Beijing 2026 nivel s. Elo por mapa 1923 vs 1964 (prob. mapa 46%, serie 44%). Forma ❌✅❌❌✅ / ✅✅✅❌✅ (✅ victoria ❌ derrota). H2H 2: 0-2. Cambios de plantilla: ninguno. Cuotas Thunderpick 1.9/1.8.",
-   "considered": true,
-   "placed": false
-  },
-  {
-   "market": "t2",
    "team_id": 793,
    "pick": "G2",
    "odds": 2.15,
@@ -6354,7 +6324,7 @@
    "edge": -0.066,
    "key": "cs2|133046",
    "match": "Aurora vs G2",
-   "start": "2026-11-03T04:30:00+00:00",
+   "start": "2026-11-03T02:00:00+00:00",
    "league": "🎮 CS2 · Intel Extreme Masters Beijing 2026",
    "sport": "🎮",
    "info": [
@@ -6370,6 +6340,36 @@
     "• Cambios de plantilla: Aurora, G2"
    ],
    "context": "CS2 Aurora vs G2, BO3, torneo Intel Extreme Masters Beijing 2026 nivel s. Elo por mapa 2024 vs 1973 (prob. mapa 55%, serie 56%). Forma ✅✅✅❌❌ / ❌❌❌❌❌ (✅ victoria ❌ derrota). H2H 8: 4-4. Cambios de plantilla: Aurora, G2. Cuotas Thunderpick 1.62/2.15.",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "t2",
+   "team_id": 8171,
+   "pick": "PARIVISION",
+   "odds": 1.8,
+   "book": "Thunderpick",
+   "p": 0.538,
+   "implied": 0.514,
+   "edge": -0.032,
+   "key": "cs2|133044",
+   "match": "Liquid vs PARIVISION",
+   "start": "2026-11-03T02:00:00+00:00",
+   "league": "🎮 CS2 · Intel Extreme Masters Beijing 2026",
+   "sport": "🎮",
+   "info": [
+    "📊 <b>Escenarios</b> (Elo por mapa, 76.351 partidos)",
+    "Mapa: Liquid 46% · Serie BO3: Liquid 44% - 56% PARIVISION",
+    "Casas: Liquid 49% · PARIVISION 51%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Elo: Liquid 1923 (306 series) | PARIVISION 1964 (318 series)",
+    "• Forma: Liquid ❌✅❌❌✅ | PARIVISION ✅✅✅❌✅",
+    "• H2H: 2: 0-2",
+    "• Torneo: Intel Extreme Masters Beijing 2026 (nivel S)",
+    "• Cambios de plantilla: ninguno"
+   ],
+   "context": "CS2 Liquid vs PARIVISION, BO3, torneo Intel Extreme Masters Beijing 2026 nivel s. Elo por mapa 1923 vs 1964 (prob. mapa 46%, serie 44%). Forma ❌✅❌❌✅ / ✅✅✅❌✅ (✅ victoria ❌ derrota). H2H 2: 0-2. Cambios de plantilla: ninguno. Cuotas Thunderpick 1.9/1.8.",
    "considered": true,
    "placed": false
   },
@@ -6636,8 +6636,9 @@
     "status": "perdida",
     "return": 0.0,
     "autopsia": {
-     "causa": "sin análisis (IA no disponible)",
-     "corregir": ""
+     "causa": "La cuota alta del Famalicao reflejaba su bajo porcentaje de probabilidad (25%), fallando debido a la superioridad histórica y local del Sporting Braga a pesar de su mala racha.",
+     "corregir": "El modelo no requiere corrección ya que asignó correctamente una baja probabilidad a la victoria visitante y el resultado responde a la alta varianza de cuotas no favoritas.",
+     "_modelo": "gemini-flash-lite-latest"
     }
    },
    {
@@ -6804,6 +6805,6 @@
    }
   ]
  },
- "scoreboard_id": 87,
+ "scoreboard_id": 92,
  "scoreboard_text": "📊 <b>MARCADOR DEL BOT</b>\n━━━━━━━━━━━━━━━\n🟩 Ganadas: <b>3</b> (38 %)\n🟥 Perdidas: <b>5</b> (62 %)\n⏳ En juego: 15\n\nÚltimas 8:\n🟥🟥🟥🟩🟩🟥🟥🟩\n━━━━━━━━━━━━━━━\n💵 Beneficio -3.74 $ · ROI -20.2 %\n📐 CLV medio +4.4 % (cuota cogida vs cierre)\n💰 Banca: <b>96.26 $</b> (-3.74 $ desde 100 $) · libre 68.28 ${\"inline_keyboard\": [[{\"text\": \"\\ud83d\\udcc8 Ver historial completo y fallos\", \"url\": \"https://github.com/STAMFORD313/analista313/blob/main/ESTADISTICAS.md\"}], [{\"text\": \"\\u26bd F\\u00fatbol\", \"callback_data\": \"dep:futbol\"}, {\"text\": \"\\ud83c\\udfc0 NBA\\u00b7NCAA\", \"callback_data\": \"dep:nba\"}, {\"text\": \"\\ud83c\\udfc8 NFL\\u00b7NCAA\", \"callback_data\": \"dep:nfl\"}], [{\"text\": \"\\ud83c\\udfc6 Champions\\u00b7Europa\", \"callback_data\": \"dep:europa\"}, {\"text\": \"\\ud83c\\udfd2 NHL\", \"callback_data\": \"dep:nhl\"}, {\"text\": \"\\u26be MLB\", \"callback_data\": \"dep:mlb\"}], [{\"text\": \"\\ud83e\\udd4a UFC\", \"callback_data\": \"dep:ufc\"}, {\"text\": \"\\ud83c\\udfbe Tenis\", \"callback_data\": \"dep:tenis\"}, {\"text\": \"\\ud83c\\udfae CS2\", \"callback_data\": \"dep:cs2\"}], [{\"text\": \"\\ud83d\\udc09 Dota 2\", \"callback_data\": \"dep:dota2\"}, {\"text\": \"\\ud83e\\uddd9 LoL\", \"callback_data\": \"dep:lol\"}, {\"text\": \"\\ud83d\\udd2b R6 Siege\", \"callback_data\": \"dep:r6\"}], [{\"text\": \"\\ud83d\\udcf1 MLBB\", \"callback_data\": \"dep:mlbb\"}]]}"
 }

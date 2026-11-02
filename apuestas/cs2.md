@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 02/11/2026 13:15 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 02/11/2026 13:18 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## HAVU vs Nordic Valor — 02/11 · 16:30
 
@@ -287,26 +287,7 @@ Casas: GODS PLAN 19% · ALKA 81%
 • Torneo: Gamers Club Liga Série A: October 2026 (nivel C)  
 • Cambios de plantilla: GODS PLAN  
 
-## Liquid vs PARIVISION — 03/11 · 05:30
-
-👀 candidata · 🎮 CS2 · Intel Extreme Masters Beijing 2026 · **Gana PARIVISION** @ **1.80** (Thunderpick) · prob 54% vs casas 51% · ventaja -3%
-
-- ❌ Probabilidad 54% (mín. 55%)
-- ❌ Ventaja -3% (entre 5% y 30%)
-- ✅ Segmento «🎮 favorito» sin pérdidas
-- ❌ IA: sin revisar (no pasó lo anterior)
-
-📊 **Escenarios** (Elo por mapa, 76.351 partidos)  
-Mapa: Liquid 46% · Serie BO3: Liquid 44% - 56% PARIVISION  
-Casas: Liquid 49% · PARIVISION 51%  
-🔎 **Claves**  
-• Elo: Liquid 1923 (306 series) | PARIVISION 1964 (318 series)  
-• Forma: Liquid ❌✅❌❌✅ | PARIVISION ✅✅✅❌✅  
-• H2H: 2: 0-2  
-• Torneo: Intel Extreme Masters Beijing 2026 (nivel S)  
-• Cambios de plantilla: ninguno  
-
-## Aurora vs G2 — 03/11 · 05:30
+## Aurora vs G2 — 03/11 · 03:00
 
 👀 candidata · 🎮 CS2 · Intel Extreme Masters Beijing 2026 · **Gana G2** @ **2.15** (Thunderpick) · prob 43% vs casas 43% · ventaja -7%
 
@@ -324,6 +305,25 @@ Casas: Aurora 57% · G2 43%
 • H2H: 8: 4-4  
 • Torneo: Intel Extreme Masters Beijing 2026 (nivel S)  
 • Cambios de plantilla: Aurora, G2  
+
+## Liquid vs PARIVISION — 03/11 · 03:00
+
+👀 candidata · 🎮 CS2 · Intel Extreme Masters Beijing 2026 · **Gana PARIVISION** @ **1.80** (Thunderpick) · prob 54% vs casas 51% · ventaja -3%
+
+- ❌ Probabilidad 54% (mín. 55%)
+- ❌ Ventaja -3% (entre 5% y 30%)
+- ✅ Segmento «🎮 favorito» sin pérdidas
+- ❌ IA: sin revisar (no pasó lo anterior)
+
+📊 **Escenarios** (Elo por mapa, 76.351 partidos)  
+Mapa: Liquid 46% · Serie BO3: Liquid 44% - 56% PARIVISION  
+Casas: Liquid 49% · PARIVISION 51%  
+🔎 **Claves**  
+• Elo: Liquid 1923 (306 series) | PARIVISION 1964 (318 series)  
+• Forma: Liquid ❌✅❌❌✅ | PARIVISION ✅✅✅❌✅  
+• H2H: 2: 0-2  
+• Torneo: Intel Extreme Masters Beijing 2026 (nivel S)  
+• Cambios de plantilla: ninguno  
 
 ## boyband vs ROUNDS — 03/11 · 16:30
 

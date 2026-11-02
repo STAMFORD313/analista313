@@ -1,6 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 02/11/2026 13:15 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 02/11/2026 13:18 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Atromitos vs Volos NFC — 02/11 · 17:00
 

@@ -1,6 +1,6 @@
 # Estadísticas del bot
 
-Actualizado: 02/11/2026 13:15
+Actualizado: 02/11/2026 13:18
 
 **Ganadas 3 / perdidas 5** (38 % acierto) · beneficio -3.74 $ · ROI -20.2 % · banca 96.26 $
 
@@ -46,7 +46,7 @@ Si el bot está bien calibrado, el acierto real se parece a la prob. media. Brie
 | 2026-11-01 | Washington Commanders vs Philadelphia Eagles → Más de 40.5 puntos | 1.91 | 1.17 $ | 🟥 -1.17 $ | sin análisis (IA no disponible) |
 | 2026-11-01 | Kalamata vs Iraklis → Más de 2.5 goles | 2.15 | 1.76 $ | ⏳ +0.00 $ |  |
 | 2026-11-01 | Gil Vicente vs Guimaraes → Gana Gil Vicente | 2.85 | 2.09 $ | ⏳ +0.00 $ |  |
-| 2026-11-01 | Sp Braga vs Famalicao → Gana Famalicao | 4.75 | 1.06 $ | 🟥 -1.06 $ | sin análisis (IA no disponible) |
+| 2026-11-01 | Sp Braga vs Famalicao → Gana Famalicao | 4.75 | 1.06 $ | 🟥 -1.06 $ | La cuota alta del Famalicao reflejaba su bajo porcentaje de probabilidad (25%), fallando debido a la superioridad histórica y local del Sporting Braga a pesar de su mala racha. |
 | 2026-11-01 | Belgrano vs Barracas Central → Gana Barracas Central | 5.0 | 1.47 $ | ⏳ +0.00 $ |  |
 | 2026-11-01 | 🔗 Combinada: Los Angeles Lakers + Denver Broncos + Más de 2.5 goles (Lorient vs Brest) @ 6.62 | 6.62 | 1.63 $ | ⏳ +0.00 $ |  |
 | 2026-11-01 | Newcastle vs Everton → Newcastle @ 2.35 | 2.35 | 1.21 $ | ⏳ +0.00 $ |  |

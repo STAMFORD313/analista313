@@ -1,6 +1,6 @@
 # 🏈 NFL·NCAA · apuestas de valor
 
-Actualizado 02/11/2026 13:15 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 02/11/2026 13:18 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Seattle Seahawks vs Chicago Bears — 03/11 · 02:15
 
