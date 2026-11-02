@@ -1,0 +1,1455 @@
+id,date,event,home,away,hs,as,res
+400915094,2017-01-01T21:30Z,Minnesota Golden Gophers at Purdue Boilermakers,Purdue Boilermakers,Minnesota Golden Gophers,82,91,0.0
+400915603,2017-01-02T01:00Z,Arizona Wildcats at Stanford Cardinal,Stanford Cardinal,Arizona Wildcats,52,91,0.0
+400916566,2017-01-02T00:00Z,Tulane Green Wave at Cincinnati Bearcats,Cincinnati Bearcats,Tulane Green Wave,92,56,1.0
+400915030,2017-01-01T17:00Z,Nebraska Cornhuskers at Maryland Terrapins,Maryland Terrapins,Nebraska Cornhuskers,65,67,0.0
+400915353,2017-01-01T17:30Z,Syracuse Orange at Boston College Eagles,Boston College Eagles,Syracuse Orange,96,81,1.0
+400919663,2017-01-01T19:00Z,St. John's Red Storm at DePaul Blue Demons,DePaul Blue Demons,St. John's Red Storm,73,79,0.0
+400918200,2017-01-01T19:00Z,Illinois State Redbirds at Loyola Chicago Ramblers,Loyola Chicago Ramblers,Illinois State Redbirds,59,81,0.0
+400918115,2017-01-01T19:00Z,Bradley Braves at Wichita State Shockers,Wichita State Shockers,Bradley Braves,100,66,1.0
+400915005,2017-01-01T19:15Z,Michigan Wolverines at Iowa Hawkeyes,Iowa Hawkeyes,Michigan Wolverines,86,83,1.0
+400915176,2017-01-01T19:30Z,Penn State Nittany Lions at Rutgers Scarlet Knights,Rutgers Scarlet Knights,Penn State Nittany Lions,47,60,0.0
+400919664,2017-01-01T20:00Z,Providence Friars at Butler Bulldogs,Butler Bulldogs,Providence Friars,78,61,1.0
+400919411,2017-01-01T20:00Z,Louisiana Tech Bulldogs at Southern Miss Golden Eagles,Southern Miss Golden Eagles,Louisiana Tech Bulldogs,55,79,0.0
+400919522,2017-01-01T21:00Z,UTEP Miners at UTSA Roadrunners,UTSA Roadrunners,UTEP Miners,67,55,1.0
+400918160,2017-01-01T21:00Z,Northern Iowa Panthers at Evansville Purple Aces,Evansville Purple Aces,Northern Iowa Panthers,70,58,1.0
+400919665,2017-01-01T21:30Z,Marquette Golden Eagles at Seton Hall Pirates,Seton Hall Pirates,Marquette Golden Eagles,69,66,1.0
+400919904,2017-01-01T22:00Z,New Mexico Lobos at San Diego State Aztecs,San Diego State Aztecs,New Mexico Lobos,62,68,0.0
+400918140,2017-01-01T22:00Z,Drake Bulldogs at Southern Illinois Salukis,Southern Illinois Salukis,Drake Bulldogs,83,69,1.0
+400919444,2017-01-01T23:00Z,UAB Blazers at Middle Tennessee Blue Raiders,Middle Tennessee Blue Raiders,UAB Blazers,60,49,1.0
+400915602,2017-01-01T23:30Z,Colorado Buffaloes at Utah Utes,Utah Utes,Colorado Buffaloes,76,60,1.0
+400914958,2017-01-02T00:00Z,Ohio State Buckeyes at Illinois Fighting Illini,Illinois Fighting Illini,Ohio State Buckeyes,75,70,1.0
+400915604,2017-01-02T01:30Z,Washington State Cougars at Washington Huskies,Washington Huskies,Washington State Cougars,74,79,0.0
+400915605,2017-01-02T03:00Z,Arizona State Sun Devils at California Golden Bears,California Golden Bears,Arizona State Sun Devils,81,65,1.0
+400918727,2017-01-02T18:00Z,Wheelock College Wheelock at New Hampshire Wildcats,New Hampshire Wildcats,Wheelock College Wheelock,95,50,1.0
+400919047,2017-01-02T19:00Z,American University Eagles at Colgate Raiders,Colgate Raiders,American University Eagles,64,67,0.0
+400919046,2017-01-02T19:00Z,Lehigh Mountain Hawks at Boston University Terriers,Boston University Terriers,Lehigh Mountain Hawks,75,61,1.0
+400918689,2017-01-02T19:00Z,Columbia Lions at Maine Black Bears,Maine Black Bears,Columbia Lions,73,98,0.0
+400917561,2017-01-02T19:00Z,Siena Saints at Canisius Golden Griffins,Canisius Golden Griffins,Siena Saints,82,79,1.0
+400922088,2017-01-02T20:30Z,Incarnate Word Cardinals at SE Louisiana Lions,SE Louisiana Lions,Incarnate Word Cardinals,74,63,1.0
+400919634,2017-01-02T21:30Z,William & Mary Tribe at Hofstra Pride,Hofstra Pride,William & Mary Tribe,93,95,0.0
+400919603,2017-01-02T21:30Z,Northeastern Huskies at Drexel Dragons,Drexel Dragons,Northeastern Huskies,70,75,0.0
+400919460,2017-01-02T22:00Z,North Texas Mean Green at Old Dominion Monarchs,Old Dominion Monarchs,North Texas Mean Green,55,48,1.0
+400920481,2017-01-02T23:00Z,Valley Forge Patriots at Maryland Eastern Shore Hawks,Maryland Eastern Shore Hawks,Valley Forge Patriots,90,65,1.0
+400919564,2017-01-02T23:00Z,Charleston Cougars at Delaware Blue Hens,Delaware Blue Hens,Charleston Cougars,56,65,0.0
+400919766,2017-01-03T00:00Z,Towson Tigers at James Madison Dukes,James Madison Dukes,Towson Tigers,64,44,1.0
+400919620,2017-01-03T00:00Z,Elon Phoenix at UNC Wilmington Seahawks,UNC Wilmington Seahawks,Elon Phoenix,79,63,1.0
+400919389,2017-01-03T00:00Z,Western Kentucky Hilltoppers at Florida International Panthers,Florida International Panthers,Western Kentucky Hilltoppers,66,69,0.0
+400919369,2017-01-03T00:00Z,Marshall Thundering Herd at Florida Atlantic Owls,Florida Atlantic Owls,Marshall Thundering Herd,72,89,0.0
+400919348,2017-01-03T00:00Z,Rice Owls at Charlotte 49ers,Charlotte 49ers,Rice Owls,70,89,0.0
+400919050,2017-01-03T00:00Z,Army Black Knights at Bucknell Bison,Bucknell Bison,Army Black Knights,84,76,1.0
+400918862,2017-01-03T00:00Z,Ave Maria Gyrenes at Stetson Hatters,Stetson Hatters,Ave Maria Gyrenes,95,72,1.0
+400918836,2017-01-03T00:00Z,Palm Beach Atlantic Sailfish at North Florida Ospreys,North Florida Ospreys,Palm Beach Atlantic Sailfish,102,67,1.0
+400918763,2017-01-03T00:00Z,Harvard Crimson at Vermont Catamounts,Vermont Catamounts,Harvard Crimson,82,71,1.0
+400918665,2017-01-03T00:00Z,Hartford Hawks at Yale Bulldogs,Yale Bulldogs,Hartford Hawks,88,72,1.0
+400918612,2017-01-03T00:00Z,Cornell Big Red at UAlbany Great Danes,UAlbany Great Danes,Cornell Big Red,69,59,1.0
+400917776,2017-01-03T00:00Z,Kennesaw State Owls at Tennessee State Tigers,Tennessee State Tigers,Kennesaw State Owls,73,76,0.0
+400917565,2017-01-03T00:00Z,Iona Gaels at Fairfield Stags,Fairfield Stags,Iona Gaels,93,87,1.0
+400917564,2017-01-03T00:00Z,Manhattan Jaspers at Marist Red Foxes,Marist Red Foxes,Manhattan Jaspers,90,88,1.0
+400917563,2017-01-03T00:00Z,Monmouth Hawks at Saint Peter's Peacocks,Saint Peter's Peacocks,Monmouth Hawks,71,61,1.0
+400917562,2017-01-03T00:00Z,Quinnipiac Bobcats at Niagara Purple Eagles,Niagara Purple Eagles,Quinnipiac Bobcats,78,81,0.0
+400916913,2017-01-03T00:00Z,The Citadel Bulldogs at Wofford Terriers,Wofford Terriers,The Citadel Bulldogs,103,104,0.0
+400916912,2017-01-03T00:00Z,Chattanooga Mocs at UNC Greensboro Spartans,UNC Greensboro Spartans,Chattanooga Mocs,73,68,1.0
+400916911,2017-01-03T00:00Z,Mercer Bears at Furman Paladins,Furman Paladins,Mercer Bears,71,69,1.0
+400916910,2017-01-03T00:00Z,Samford Bulldogs at Western Carolina Catamounts,Western Carolina Catamounts,Samford Bulldogs,65,70,0.0
+400919048,2017-01-03T00:05Z,Navy Midshipmen at Holy Cross Crusaders,Holy Cross Crusaders,Navy Midshipmen,51,50,1.0
+400919049,2017-01-03T00:30Z,Lafayette Leopards at Loyola Maryland Greyhounds,Loyola Maryland Greyhounds,Lafayette Leopards,69,78,0.0
+400918045,2017-01-03T00:35Z,South Carolina Upstate Spartans at Kansas City Roos,Kansas City Roos,South Carolina Upstate Spartans,75,84,0.0
+400922196,2017-01-03T01:00Z,Texas Southern Tigers at Alcorn State Braves,Alcorn State Braves,Texas Southern Tigers,65,67,0.0
+400916018,2017-01-03T01:00Z,Coastal Carolina Chanticleers at Texas State Bobcats,Texas State Bobcats,Coastal Carolina Chanticleers,53,60,0.0
+400916017,2017-01-03T01:00Z,App State Mountaineers at UT Arlington Mavericks,UT Arlington Mavericks,App State Mountaineers,84,69,1.0
+400916016,2017-01-03T01:00Z,UL Monroe Warhawks at Arkansas State Red Wolves,Arkansas State Red Wolves,UL Monroe Warhawks,76,45,1.0
+400916019,2017-01-03T01:05Z,Troy Trojans at South Alabama Jaguars,South Alabama Jaguars,Troy Trojans,76,75,1.0
+400922385,2017-01-03T01:30Z,Jackson State Tigers at Alabama A&M Bulldogs,Alabama A&M Bulldogs,Jackson State Tigers,51,63,0.0
+400922257,2017-01-03T01:30Z,Prairie View A&M Panthers at Southern Jaguars,Southern Jaguars,Prairie View A&M Panthers,59,57,1.0
+400922234,2017-01-03T01:30Z,Grambling Tigers at Alabama State Hornets,Alabama State Hornets,Grambling Tigers,73,69,1.0
+400922215,2017-01-03T01:30Z,Mississippi Valley State Delta Devils at Arkansas-Pine Bluff Golden Lions,Arkansas-Pine Bluff Golden Lions,Mississippi Valley State Delta Devils,105,91,1.0
+400922125,2017-01-03T01:30Z,Stephen F. Austin Lumberjacks at McNeese Cowboys,McNeese Cowboys,Stephen F. Austin Lumberjacks,69,54,1.0
+400922139,2017-01-03T02:00Z,Texas A&M-Corpus Christi Islanders at Nicholls Colonels,Nicholls Colonels,Texas A&M-Corpus Christi Islanders,68,64,1.0
+400922028,2017-01-03T02:00Z,Lamar Cardinals at Central Arkansas Bears,Central Arkansas Bears,Lamar Cardinals,75,78,0.0
+400918046,2017-01-03T02:00Z,Antelope Valley ANTELOPE VALLEY at Utah Valley Wolverines,Utah Valley Wolverines,Antelope Valley ANTELOPE VALLEY,102,63,1.0
+400916015,2017-01-03T02:00Z,Louisiana Ragin' Cajuns at Little Rock Trojans,Little Rock Trojans,Louisiana Ragin' Cajuns,52,69,0.0
+400916199,2017-01-04T02:00Z,Kansas State Wildcats at Kansas Jayhawks,Kansas Jayhawks,Kansas State Wildcats,90,88,1.0
+400910692,2017-01-04T02:00Z,Texas A&M Aggies at Kentucky Wildcats,Kentucky Wildcats,Texas A&M Aggies,100,58,1.0
+400916200,2017-01-04T02:15Z,West Virginia Mountaineers at Texas Tech Red Raiders,Texas Tech Red Raiders,West Virginia Mountaineers,77,76,1.0
+400914932,2017-01-04T00:00Z,Wisconsin Badgers at Indiana Hoosiers,Indiana Hoosiers,Wisconsin Badgers,68,75,0.0
+400915354,2017-01-04T00:00Z,North Carolina Tar Heels at Clemson Tigers,Clemson Tigers,North Carolina Tar Heels,86,89,0.0
+400910642,2017-01-04T00:00Z,Ole Miss Rebels at Florida Gators,Florida Gators,Ole Miss Rebels,70,63,1.0
+400917105,2017-01-03T23:00Z,Buffalo Bulls at Toledo Rockets,Toledo Rockets,Buffalo Bulls,86,54,1.0
+400910588,2017-01-03T23:30Z,Arkansas Razorbacks at Tennessee Volunteers,Tennessee Volunteers,Arkansas Razorbacks,78,82,0.0
+400918793,2017-01-04T00:00Z,Middle Georgia Knights at Jacksonville Dolphins,Jacksonville Dolphins,Middle Georgia Knights,124,85,1.0
+400918438,2017-01-04T00:00Z,Saint Joseph's Hawks at Rhode Island Rams,Rhode Island Rams,Saint Joseph's Hawks,88,58,1.0
+400918047,2017-01-04T00:00Z,Cal State Bakersfield Roadrunners at Dartmouth Big Green,Dartmouth Big Green,Cal State Bakersfield Roadrunners,60,64,0.0
+400917108,2017-01-04T00:00Z,Western Michigan Broncos at Ohio Bobcats,Ohio Bobcats,Western Michigan Broncos,89,58,1.0
+400917107,2017-01-04T00:00Z,Northern Illinois Huskies at Miami (OH) RedHawks,Miami (OH) RedHawks,Northern Illinois Huskies,69,67,1.0
+400917106,2017-01-04T00:00Z,Central Michigan Chippewas at Eastern Michigan Eagles,Eastern Michigan Eagles,Central Michigan Chippewas,85,63,1.0
+400917104,2017-01-04T00:00Z,Bowling Green Falcons at Akron Zips,Akron Zips,Bowling Green Falcons,89,84,1.0
+400917103,2017-01-04T00:00Z,Ball State Cardinals at Kent State Golden Flashes,Kent State Golden Flashes,Ball State Cardinals,100,90,1.0
+400916757,2017-01-04T00:00Z,UNC Asheville Bulldogs at Liberty Flames,Liberty Flames,UNC Asheville Bulldogs,57,70,0.0
+400915355,2017-01-04T00:00Z,Boston College Eagles at Wake Forest Demon Deacons,Wake Forest Demon Deacons,Boston College Eagles,79,66,1.0
+400916567,2017-01-04T00:15Z,East Carolina Pirates at UCF Knights,UCF Knights,East Carolina Pirates,48,45,1.0
+400918303,2017-01-04T01:00Z,Dayton Flyers at St. Bonaventure Bonnies,St. Bonaventure Bonnies,Dayton Flyers,74,90,0.0
+400910551,2017-01-04T01:30Z,Alabama Crimson Tide at Mississippi State Bulldogs,Mississippi State Bulldogs,Alabama Crimson Tide,58,68,0.0
+400916198,2017-01-04T02:00Z,Oklahoma Sooners at TCU Horned Frogs,TCU Horned Frogs,Oklahoma Sooners,60,57,1.0
+400919666,2017-01-04T23:30Z,Villanova Wildcats at Butler Bulldogs,Butler Bulldogs,Villanova Wildcats,66,58,1.0
+400916201,2017-01-05T01:00Z,Iowa State Cyclones at Baylor Bears,Baylor Bears,Iowa State Cyclones,65,63,1.0
+400915356,2017-01-05T00:00Z,Georgia Tech Yellow Jackets at Duke Blue Devils,Duke Blue Devils,Georgia Tech Yellow Jackets,110,57,1.0
+400915359,2017-01-05T02:00Z,Louisville Cardinals at Notre Dame Fighting Irish,Notre Dame Fighting Irish,Louisville Cardinals,77,70,1.0
+400919668,2017-01-05T01:30Z,Creighton Bluejays at St. John's Red Storm,St. John's Red Storm,Creighton Bluejays,72,85,0.0
+400915360,2017-01-05T02:00Z,Virginia Cavaliers at Pittsburgh Panthers,Pittsburgh Panthers,Virginia Cavaliers,88,76,1.0
+400915606,2017-01-05T02:00Z,Oregon Ducks at Washington Huskies,Washington Huskies,Oregon Ducks,61,83,0.0
+400915358,2017-01-05T02:00Z,Virginia Tech Hokies at NC State Wolfpack,NC State Wolfpack,Virginia Tech Hokies,104,78,1.0
+400915074,2017-01-04T23:30Z,Rutgers Scarlet Knights at Michigan State Spartans,Michigan State Spartans,Rutgers Scarlet Knights,93,65,1.0
+400920492,2017-01-05T00:00Z,Norfolk State Spartans at Morgan State Bears,Morgan State Bears,Norfolk State Spartans,58,56,1.0
+400920449,2017-01-05T00:00Z,Florida A&M Rattlers at Howard Bison,Howard Bison,Florida A&M Rattlers,66,78,0.0
+400920436,2017-01-05T00:00Z,North Carolina A&T Aggies at Hampton Pirates,Hampton Pirates,North Carolina A&T Aggies,68,53,1.0
+400919667,2017-01-05T00:00Z,Georgetown Hoyas at Providence Friars,Providence Friars,Georgetown Hoyas,76,70,1.0
+400918824,2017-01-05T00:00Z,Brown Bears at NJIT Highlanders,NJIT Highlanders,Brown Bears,75,73,1.0
+400918402,2017-01-05T00:00Z,Saint Louis Billikens at La Salle Explorers,La Salle Explorers,Saint Louis Billikens,75,54,1.0
+400918383,2017-01-05T00:00Z,Massachusetts Minutemen at George Mason Patriots,George Mason Patriots,Massachusetts Minutemen,86,81,1.0
+400918348,2017-01-05T00:00Z,Fordham Rams at Richmond Spiders,Richmond Spiders,Fordham Rams,80,72,1.0
+400918327,2017-01-05T00:00Z,VCU Rams at Duquesne Dukes,Duquesne Dukes,VCU Rams,87,94,0.0
+400918161,2017-01-05T00:00Z,Northern Iowa Panthers at Loyola Chicago Ramblers,Loyola Chicago Ramblers,Northern Iowa Panthers,77,66,1.0
+400917567,2017-01-05T00:00Z,Siena Saints at Niagara Purple Eagles,Niagara Purple Eagles,Siena Saints,71,66,1.0
+400917566,2017-01-05T00:00Z,Quinnipiac Bobcats at Canisius Golden Griffins,Canisius Golden Griffins,Quinnipiac Bobcats,83,77,1.0
+400916761,2017-01-05T00:00Z,Presbyterian Blue Hose at Longwood Lancers,Longwood Lancers,Presbyterian Blue Hose,79,76,1.0
+400916760,2017-01-05T00:00Z,Winthrop Eagles at High Point Panthers,High Point Panthers,Winthrop Eagles,74,80,0.0
+400916759,2017-01-05T00:00Z,Gardner-Webb Runnin' Bulldogs at Radford Highlanders,Radford Highlanders,Gardner-Webb Runnin' Bulldogs,59,70,0.0
+400916758,2017-01-05T00:00Z,Charleston Southern Buccaneers at Campbell Fighting Camels,Campbell Fighting Camels,Charleston Southern Buccaneers,92,82,1.0
+400915357,2017-01-05T00:00Z,Miami Hurricanes at Syracuse Orange,Syracuse Orange,Miami Hurricanes,70,55,1.0
+400910667,2017-01-05T00:00Z,South Carolina Gamecocks at Georgia Bulldogs,Georgia Bulldogs,South Carolina Gamecocks,61,67,0.0
+400910617,2017-01-05T00:00Z,Auburn Tigers at Vanderbilt Commodores,Vanderbilt Commodores,Auburn Tigers,80,61,1.0
+400920402,2017-01-05T00:30Z,South Carolina State Bulldogs at Coppin State Eagles,Coppin State Eagles,South Carolina State Bulldogs,75,59,1.0
+400922197,2017-01-05T01:00Z,Prairie View A&M Panthers at Alcorn State Braves,Alcorn State Braves,Prairie View A&M Panthers,66,55,1.0
+400920364,2017-01-05T01:00Z,Bethune-Cookman Wildcats at Savannah State Tigers,Savannah State Tigers,Bethune-Cookman Wildcats,104,91,1.0
+400918238,2017-01-05T01:00Z,Bradley Braves at Evansville Purple Aces,Evansville Purple Aces,Bradley Braves,63,74,0.0
+400918141,2017-01-05T01:00Z,Indiana State Sycamores at Southern Illinois Salukis,Southern Illinois Salukis,Indiana State Sycamores,80,74,1.0
+400918116,2017-01-05T01:00Z,Drake Bulldogs at Wichita State Shockers,Wichita State Shockers,Drake Bulldogs,90,65,1.0
+400917933,2017-01-05T01:00Z,Purdue Fort Wayne Mastodons at Omaha Mavericks,Omaha Mavericks,Purdue Fort Wayne Mastodons,78,80,0.0
+400917932,2017-01-05T01:00Z,South Dakota State Jackrabbits at Western Illinois Leathernecks,Western Illinois Leathernecks,South Dakota State Jackrabbits,82,74,1.0
+400911030,2017-01-05T01:00Z,Oklahoma State Cowboys at Texas Longhorns,Texas Longhorns,Oklahoma State Cowboys,82,79,1.0
+400922392,2017-01-05T01:30Z,Texas Southern Tigers at Southern Jaguars,Southern Jaguars,Texas Southern Tigers,74,82,0.0
+400922386,2017-01-05T01:30Z,Jackson State Tigers at Alabama State Hornets,Alabama State Hornets,Jackson State Tigers,60,63,0.0
+400922235,2017-01-05T01:30Z,Grambling Tigers at Alabama A&M Bulldogs,Alabama A&M Bulldogs,Grambling Tigers,67,69,0.0
+400915052,2017-01-05T01:30Z,Penn State Nittany Lions at Michigan Wolverines,Michigan Wolverines,Penn State Nittany Lions,72,69,1.0
+400918179,2017-01-05T02:00Z,Missouri State Bears at Illinois State Redbirds,Illinois State Redbirds,Missouri State Bears,74,71,1.0
+400917931,2017-01-05T02:00Z,South Dakota Coyotes at Denver Pioneers,Denver Pioneers,South Dakota Coyotes,69,75,0.0
+400916569,2017-01-05T02:00Z,Temple Owls at SMU Mustangs,SMU Mustangs,Temple Owls,79,65,1.0
+400916568,2017-01-05T02:00Z,Tulsa Golden Hurricane at Houston Cougars,Houston Cougars,Tulsa Golden Hurricane,64,61,1.0
+400910713,2017-01-05T02:00Z,LSU Tigers at Missouri Tigers,Missouri Tigers,LSU Tigers,77,88,0.0
+400919876,2017-01-05T03:00Z,Wyoming Cowboys at Fresno State Bulldogs,Fresno State Bulldogs,Wyoming Cowboys,85,70,1.0
+400919842,2017-01-05T03:00Z,Colorado State Rams at San José State Spartans,San José State Spartans,Colorado State Rams,71,76,0.0
+400918971,2017-01-05T03:00Z,UC Santa Barbara Gauchos at UC Davis Aggies,UC Davis Aggies,UC Santa Barbara Gauchos,73,47,1.0
+400918944,2017-01-05T03:00Z,Long Beach State Beach at UC Irvine Anteaters,UC Irvine Anteaters,Long Beach State Beach,82,67,1.0
+400918910,2017-01-05T03:00Z,UC Riverside Highlanders at Cal State Northridge Matadors,Cal State Northridge Matadors,UC Riverside Highlanders,82,76,1.0
+400919925,2017-01-05T04:00Z,San Diego State Aztecs at Nevada Wolf Pack,Nevada Wolf Pack,San Diego State Aztecs,72,69,1.0
+400919905,2017-01-05T04:00Z,New Mexico Lobos at Utah State Aggies,Utah State Aggies,New Mexico Lobos,79,75,1.0
+400919822,2017-01-05T04:00Z,Boise State Broncos at UNLV Rebels,UNLV Rebels,Boise State Broncos,59,77,0.0
+400915607,2017-01-05T04:00Z,Oregon State Beavers at Washington State Cougars,Washington State Cougars,Oregon State Beavers,75,62,1.0
+400915608,2017-01-06T02:00Z,California Golden Bears at UCLA Bruins,UCLA Bruins,California Golden Bears,81,71,1.0
+400915817,2017-01-06T02:00Z,Gonzaga Bulldogs at San Francisco Dons,San Francisco Dons,Gonzaga Bulldogs,80,95,0.0
+400915610,2017-01-06T03:00Z,Utah Utes at Arizona Wildcats,Arizona Wildcats,Utah Utes,66,56,1.0
+400915816,2017-01-06T04:00Z,BYU Cougars at Saint Mary's Gaels,Saint Mary's Gaels,BYU Cougars,81,68,1.0
+400915159,2017-01-06T00:00Z,Purdue Boilermakers at Ohio State Buckeyes,Ohio State Buckeyes,Purdue Boilermakers,75,76,0.0
+400915611,2017-01-06T04:00Z,Stanford Cardinal at USC Trojans,USC Trojans,Stanford Cardinal,72,56,1.0
+400919635,2017-01-06T00:00Z,James Madison Dukes at Hofstra Pride,Hofstra Pride,James Madison Dukes,54,62,0.0
+400919621,2017-01-06T00:00Z,Elon Phoenix at William & Mary Tribe,William & Mary Tribe,Elon Phoenix,88,85,1.0
+400919604,2017-01-06T00:00Z,UNC Wilmington Seahawks at Drexel Dragons,Drexel Dragons,UNC Wilmington Seahawks,72,90,0.0
+400919586,2017-01-06T00:00Z,Delaware Blue Hens at Northeastern Huskies,Northeastern Huskies,Delaware Blue Hens,90,54,1.0
+400919429,2017-01-06T00:00Z,Old Dominion Monarchs at Marshall Thundering Herd,Marshall Thundering Herd,Old Dominion Monarchs,90,86,1.0
+400919181,2017-01-06T00:00Z,Sacred Heart Pioneers at Central Connecticut Blue Devils,Central Connecticut Blue Devils,Sacred Heart Pioneers,62,64,0.0
+400919180,2017-01-06T00:00Z,Mount St. Mary's Mountaineers at Bryant Bulldogs,Bryant Bulldogs,Mount St. Mary's Mountaineers,72,71,1.0
+400919178,2017-01-06T00:00Z,Long Island University Sharks at Robert Morris Colonials,Robert Morris Colonials,Long Island University Sharks,54,65,0.0
+400919177,2017-01-06T00:00Z,St. Francis Brooklyn Terriers at Saint Francis Red Wolves,Saint Francis Red Wolves,St. Francis Brooklyn Terriers,81,56,1.0
+400919054,2017-01-06T00:00Z,Loyola Maryland Greyhounds at Lehigh Mountain Hawks,Lehigh Mountain Hawks,Loyola Maryland Greyhounds,83,84,0.0
+400919053,2017-01-06T00:00Z,Holy Cross Crusaders at Colgate Raiders,Colgate Raiders,Holy Cross Crusaders,61,67,0.0
+400919052,2017-01-06T00:00Z,Boston University Terriers at Navy Midshipmen,Navy Midshipmen,Boston University Terriers,53,71,0.0
+400919051,2017-01-06T00:00Z,Army Black Knights at Lafayette Leopards,Lafayette Leopards,Army Black Knights,79,74,1.0
+400918728,2017-01-06T00:00Z,Stony Brook Seawolves at New Hampshire Wildcats,New Hampshire Wildcats,Stony Brook Seawolves,56,59,0.0
+400918690,2017-01-06T00:00Z,Vermont Catamounts at Maine Black Bears,Maine Black Bears,Vermont Catamounts,77,90,0.0
+400918644,2017-01-06T00:00Z,Binghamton Bearcats at UMBC Retrievers,UMBC Retrievers,Binghamton Bearcats,85,71,1.0
+400918613,2017-01-06T00:00Z,UAlbany Great Danes at UMass Lowell River Hawks,UMass Lowell River Hawks,UAlbany Great Danes,85,79,1.0
+400918266,2017-01-06T00:00Z,Davidson Wildcats at George Washington Revolutionaries,George Washington Revolutionaries,Davidson Wildcats,73,69,1.0
+400916917,2017-01-06T00:00Z,East Tennessee State Buccaneers at The Citadel Bulldogs,The Citadel Bulldogs,East Tennessee State Buccaneers,71,115,0.0
+400916916,2017-01-06T00:00Z,Wofford Terriers at Chattanooga Mocs,Chattanooga Mocs,Wofford Terriers,77,66,1.0
+400916570,2017-01-06T00:00Z,UConn Huskies at Memphis Tigers,Memphis Tigers,UConn Huskies,70,61,1.0
+400918048,2017-01-06T00:05Z,New Mexico State Aggies at Kansas City Roos,Kansas City Roos,New Mexico State Aggies,64,77,0.0
+400917778,2017-01-06T00:25Z,UT Martin Skyhawks at Belmont Bruins,Belmont Bruins,UT Martin Skyhawks,83,67,1.0
+400919565,2017-01-06T00:30Z,Towson Tigers at Charleston Cougars,Charleston Cougars,Towson Tigers,62,57,1.0
+400919412,2017-01-06T00:30Z,UTEP Miners at Louisiana Tech Bulldogs,Louisiana Tech Bulldogs,UTEP Miners,64,44,1.0
+400919055,2017-01-06T00:30Z,Bucknell Bison at American University Eagles,American University Eagles,Bucknell Bison,60,69,0.0
+400918807,2017-01-06T00:30Z,Fisk Bulldogs at Lipscomb Bisons,Lipscomb Bisons,Fisk Bulldogs,126,43,1.0
+400918570,2017-01-06T00:30Z,Youngstown State Penguins at Northern Kentucky Norse,Northern Kentucky Norse,Youngstown State Penguins,83,70,1.0
+400918482,2017-01-06T00:30Z,Cleveland State Vikings at Wright State Raiders,Wright State Raiders,Cleveland State Vikings,55,51,1.0
+400916915,2017-01-06T00:30Z,VMI Keydets at Mercer Bears,Mercer Bears,VMI Keydets,68,50,1.0
+400917779,2017-01-06T00:45Z,Eastern Illinois Panthers at Morehead State Eagles,Morehead State Eagles,Eastern Illinois Panthers,85,75,1.0
+400921971,2017-01-06T01:00Z,Central Arkansas Bears at Abilene Christian Wildcats,Abilene Christian Wildcats,Central Arkansas Bears,76,81,0.0
+400919502,2017-01-06T01:00Z,UTSA Roadrunners at Southern Miss Golden Eagles,Southern Miss Golden Eagles,UTSA Roadrunners,77,59,1.0
+400919461,2017-01-06T01:00Z,UAB Blazers at North Texas Mean Green,North Texas Mean Green,UAB Blazers,52,54,0.0
+400919445,2017-01-06T01:00Z,Middle Tennessee Blue Raiders at Rice Owls,Rice Owls,Middle Tennessee Blue Raiders,77,80,0.0
+400919349,2017-01-06T01:00Z,Charlotte 49ers at Western Kentucky Hilltoppers,Western Kentucky Hilltoppers,Charlotte 49ers,82,80,1.0
+400918049,2017-01-06T01:00Z,UT Rio Grande Valley Vaqueros at Chicago State Cougars,Chicago State Cougars,UT Rio Grande Valley Vaqueros,64,83,0.0
+400917934,2017-01-06T01:00Z,IU Indianapolis Jaguars at North Dakota State Bison,North Dakota State Bison,IU Indianapolis Jaguars,93,89,1.0
+400917780,2017-01-06T01:00Z,SIU Edwardsville Cougars at Eastern Kentucky Colonels,Eastern Kentucky Colonels,SIU Edwardsville Cougars,78,61,1.0
+400917568,2017-01-06T01:00Z,Fairfield Stags at Manhattan Jaspers,Manhattan Jaspers,Fairfield Stags,79,97,0.0
+400916914,2017-01-06T01:00Z,Furman Paladins at Samford Bulldogs,Samford Bulldogs,Furman Paladins,73,83,0.0
+400916370,2017-01-06T01:00Z,Northern Arizona Lumberjacks at North Dakota Fighting Hawks,North Dakota Fighting Hawks,Northern Arizona Lumberjacks,68,63,1.0
+400922048,2017-01-06T01:20Z,SE Louisiana Lions at Houston Christian Huskies,Houston Christian Huskies,SE Louisiana Lions,81,74,1.0
+400922126,2017-01-06T01:30Z,Sam Houston Bearkats at McNeese Cowboys,McNeese Cowboys,Sam Houston Bearkats,67,74,0.0
+400922107,2017-01-06T01:30Z,LSU New Orleans Privateers at Lamar Cardinals,Lamar Cardinals,LSU New Orleans Privateers,62,66,0.0
+400922089,2017-01-06T01:30Z,Northwestern State Demons at Incarnate Word Cardinals,Incarnate Word Cardinals,Northwestern State Demons,84,80,1.0
+400917781,2017-01-06T01:53Z,Murray State Racers at Jacksonville State Gamecocks,Jacksonville State Gamecocks,Murray State Racers,63,76,0.0
+400919179,2017-01-06T02:00Z,Fairleigh Dickinson Knights at Wagner Seahawks,Wagner Seahawks,Fairleigh Dickinson Knights,69,70,0.0
+400917782,2017-01-06T02:00Z,Southeast Missouri State Redhawks at Tennessee State Tigers,Tennessee State Tigers,Southeast Missouri State Redhawks,65,62,1.0
+400917777,2017-01-06T02:00Z,Austin Peay Governors at Tennessee Tech Golden Eagles,Tennessee Tech Golden Eagles,Austin Peay Governors,76,67,1.0
+400916371,2017-01-06T02:00Z,Southern Utah Thunderbirds at Northern Colorado Bears,Northern Colorado Bears,Southern Utah Thunderbirds,76,78,0.0
+400915609,2017-01-06T02:00Z,Colorado Buffaloes at Arizona State Sun Devils,Arizona State Sun Devils,Colorado Buffaloes,78,77,1.0
+400915095,2017-01-06T02:00Z,Minnesota Golden Gophers at Northwestern Wildcats,Northwestern Wildcats,Minnesota Golden Gophers,66,70,0.0
+400915006,2017-01-06T02:00Z,Iowa Hawkeyes at Nebraska Cornhuskers,Nebraska Cornhuskers,Iowa Hawkeyes,93,90,1.0
+400916369,2017-01-06T02:05Z,Montana State Bobcats at Eastern Washington Eagles,Eastern Washington Eagles,Montana State Bobcats,82,64,1.0
+400918891,2017-01-06T03:00Z,Hawai'i Rainbow Warriors at Cal State Fullerton Titans,Cal State Fullerton Titans,Hawai'i Rainbow Warriors,67,64,1.0
+400916372,2017-01-06T03:00Z,Montana Grizzlies at Idaho Vandals,Idaho Vandals,Montana Grizzlies,57,70,0.0
+400915818,2017-01-06T03:00Z,Portland Pilots at Santa Clara Broncos,Santa Clara Broncos,Portland Pilots,70,42,1.0
+400915815,2017-01-06T03:00Z,Loyola Marymount Lions at Pepperdine Waves,Pepperdine Waves,Loyola Marymount Lions,71,70,1.0
+400915814,2017-01-06T03:00Z,Pacific Tigers at San Diego Toreros,San Diego Toreros,Pacific Tigers,53,56,0.0
+400917114,2017-01-06T23:30Z,Western Michigan Broncos at Akron Zips,Akron Zips,Western Michigan Broncos,66,59,1.0
+400918304,2017-01-07T00:00Z,Rhode Island Rams at Dayton Flyers,Dayton Flyers,Rhode Island Rams,67,64,1.0
+400917570,2017-01-07T00:00Z,Rider Broncs at Marist Red Foxes,Marist Red Foxes,Rider Broncs,62,73,0.0
+400917569,2017-01-07T00:00Z,Iona Gaels at Monmouth Hawks,Monmouth Hawks,Iona Gaels,92,74,1.0
+400918520,2017-01-07T01:00Z,Milwaukee Panthers at Green Bay Phoenix,Green Bay Phoenix,Milwaukee Panthers,80,74,1.0
+400918503,2017-01-07T01:00Z,Detroit Mercy Titans at UIC Flames,UIC Flames,Detroit Mercy Titans,78,64,1.0
+400919552,2017-01-07T02:00Z,Kent State Golden Flashes at Ohio Bobcats,Ohio Bobcats,Kent State Golden Flashes,85,67,1.0
+400918583,2017-01-07T02:00Z,Oakland Golden Grizzlies at Valparaiso Beacons,Valparaiso Beacons,Oakland Golden Grizzlies,66,78,0.0
+400919673,2017-01-08T00:30Z,Marquette Golden Eagles at Villanova Wildcats,Villanova Wildcats,Marquette Golden Eagles,93,81,1.0
+400916204,2017-01-08T00:00Z,Oklahoma State Cowboys at Baylor Bears,Baylor Bears,Oklahoma State Cowboys,61,57,1.0
+400916205,2017-01-08T00:15Z,Texas Tech Red Raiders at Kansas Jayhawks,Kansas Jayhawks,Texas Tech Red Raiders,85,68,1.0
+400916202,2017-01-07T18:00Z,TCU Horned Frogs at West Virginia Mountaineers,West Virginia Mountaineers,TCU Horned Frogs,82,70,1.0
+400915362,2017-01-07T19:00Z,Boston College Eagles at Duke Blue Devils,Duke Blue Devils,Boston College Eagles,93,82,1.0
+400915364,2017-01-07T19:00Z,Louisville Cardinals at Georgia Tech Yellow Jackets,Georgia Tech Yellow Jackets,Louisville Cardinals,50,65,0.0
+400919671,2017-01-07T19:00Z,Creighton Bluejays at Providence Friars,Providence Friars,Creighton Bluejays,64,78,0.0
+400915363,2017-01-07T19:00Z,Virginia Tech Hokies at Florida State Seminoles,Florida State Seminoles,Virginia Tech Hokies,93,78,1.0
+400915614,2017-01-08T00:00Z,Oregon Ducks at Washington State Cougars,Washington State Cougars,Oregon Ducks,66,85,0.0
+400919672,2017-01-07T19:30Z,St. John's Red Storm at Xavier Musketeers,Xavier Musketeers,St. John's Red Storm,97,82,1.0
+400915615,2017-01-08T02:30Z,Colorado Buffaloes at Arizona Wildcats,Arizona Wildcats,Colorado Buffaloes,82,73,1.0
+400919669,2017-01-07T17:00Z,Butler Bulldogs at Georgetown Hoyas,Georgetown Hoyas,Butler Bulldogs,76,85,0.0
+400915823,2017-01-08T04:00Z,Saint Mary's Gaels at San Francisco Dons,San Francisco Dons,Saint Mary's Gaels,52,63,0.0
+400916573,2017-01-08T02:00Z,Cincinnati Bearcats at Houston Cougars,Houston Cougars,Cincinnati Bearcats,58,67,0.0
+400915365,2017-01-07T20:00Z,Clemson Tigers at Notre Dame Fighting Irish,Notre Dame Fighting Irish,Clemson Tigers,75,70,1.0
+400910643,2017-01-07T22:15Z,Tennessee Volunteers at Florida Gators,Florida Gators,Tennessee Volunteers,83,70,1.0
+400914959,2017-01-07T22:00Z,Illinois Fighting Illini at Indiana Hoosiers,Indiana Hoosiers,Illinois Fighting Illini,96,80,1.0
+400919670,2017-01-07T17:00Z,DePaul Blue Demons at Seton Hall Pirates,Seton Hall Pirates,DePaul Blue Demons,87,56,1.0
+400916571,2017-01-07T17:00Z,East Carolina Pirates at Temple Owls,Temple Owls,East Carolina Pirates,81,62,1.0
+400915361,2017-01-07T17:00Z,Pittsburgh Panthers at Syracuse Orange,Syracuse Orange,Pittsburgh Panthers,77,66,1.0
+400918483,2017-01-07T18:00Z,Cleveland State Vikings at Northern Kentucky Norse,Northern Kentucky Norse,Cleveland State Vikings,83,75,1.0
+400918422,2017-01-07T18:00Z,Massachusetts Minutemen at VCU Rams,VCU Rams,Massachusetts Minutemen,81,64,1.0
+400917109,2017-01-07T18:00Z,Bowling Green Falcons at Ball State Cardinals,Ball State Cardinals,Bowling Green Falcons,71,76,0.0
+400916921,2017-01-07T18:00Z,VMI Keydets at The Citadel Bulldogs,The Citadel Bulldogs,VMI Keydets,79,74,1.0
+400915075,2017-01-07T18:00Z,Michigan State Spartans at Penn State Nittany Lions,Penn State Nittany Lions,Michigan State Spartans,72,63,1.0
+400910668,2017-01-07T18:00Z,Missouri Tigers at Georgia Bulldogs,Georgia Bulldogs,Missouri Tigers,71,66,1.0
+400910788,2017-01-07T18:30Z,Texas A&M Aggies at South Carolina Gamecocks,South Carolina Gamecocks,Texas A&M Aggies,79,68,1.0
+400919805,2017-01-07T19:00Z,Air Force Falcons at Colorado State Rams,Colorado State Rams,Air Force Falcons,85,58,1.0
+400919370,2017-01-07T19:00Z,Florida International Panthers at Florida Atlantic Owls,Florida Atlantic Owls,Florida International Panthers,73,64,1.0
+400919343,2017-01-07T19:00Z,Mitchell Mariners at Yale Bulldogs,Yale Bulldogs,Mitchell Mariners,102,46,1.0
+400918825,2017-01-07T19:00Z,NJIT Highlanders at South Carolina Upstate Spartans,South Carolina Upstate Spartans,NJIT Highlanders,75,65,1.0
+400918214,2017-01-07T19:00Z,Illinois State Redbirds at Indiana State Sycamores,Indiana State Sycamores,Illinois State Redbirds,58,77,0.0
+400917785,2017-01-07T19:00Z,Eastern Illinois Panthers at Eastern Kentucky Colonels,Eastern Kentucky Colonels,Eastern Illinois Panthers,60,74,0.0
+400917572,2017-01-07T19:00Z,Manhattan Jaspers at Quinnipiac Bobcats,Quinnipiac Bobcats,Manhattan Jaspers,81,72,1.0
+400916764,2017-01-07T19:00Z,High Point Panthers at UNC Asheville Bulldogs,UNC Asheville Bulldogs,High Point Panthers,88,58,1.0
+400916762,2017-01-07T19:00Z,Campbell Fighting Camels at Liberty Flames,Liberty Flames,Campbell Fighting Camels,61,54,1.0
+400916020,2017-01-07T19:15Z,South Alabama Jaguars at Georgia State Panthers,Georgia State Panthers,South Alabama Jaguars,78,77,1.0
+400917110,2017-01-07T19:30Z,Buffalo Bulls at Eastern Michigan Eagles,Eastern Michigan Eagles,Buffalo Bulls,68,77,0.0
+400919446,2017-01-07T20:00Z,Middle Tennessee Blue Raiders at North Texas Mean Green,North Texas Mean Green,Middle Tennessee Blue Raiders,68,79,0.0
+400919184,2017-01-07T20:00Z,Bryant Bulldogs at Fairleigh Dickinson Knights,Fairleigh Dickinson Knights,Bryant Bulldogs,87,84,1.0
+400918349,2017-01-07T20:00Z,Saint Joseph's Hawks at Fordham Rams,Fordham Rams,Saint Joseph's Hawks,55,70,0.0
+400917935,2017-01-07T20:00Z,Oral Roberts Golden Eagles at Western Illinois Leathernecks,Western Illinois Leathernecks,Oral Roberts Golden Eagles,86,71,1.0
+400916203,2017-01-07T20:00Z,Oklahoma Sooners at Kansas State Wildcats,Kansas State Wildcats,Oklahoma Sooners,75,64,1.0
+400915612,2017-01-07T20:00Z,Oregon State Beavers at Washington Huskies,Washington Huskies,Oregon State Beavers,87,61,1.0
+400918050,2017-01-07T20:05Z,New Mexico State Aggies at Chicago State Cougars,Chicago State Cougars,New Mexico State Aggies,62,78,0.0
+400915031,2017-01-07T20:15Z,Maryland Terrapins at Michigan Wolverines,Michigan Wolverines,Maryland Terrapins,70,77,0.0
+400919186,2017-01-07T20:30Z,Mount St. Mary's Mountaineers at Central Connecticut Blue Devils,Central Connecticut Blue Devils,Mount St. Mary's Mountaineers,68,77,0.0
+400916023,2017-01-07T20:30Z,Little Rock Trojans at App State Mountaineers,App State Mountaineers,Little Rock Trojans,68,76,0.0
+400910714,2017-01-07T20:30Z,Mississippi State Bulldogs at LSU Tigers,LSU Tigers,Mississippi State Bulldogs,78,95,0.0
+400922090,2017-01-07T21:00Z,LSU New Orleans Privateers at Incarnate Word Cardinals,Incarnate Word Cardinals,LSU New Orleans Privateers,72,87,0.0
+400920419,2017-01-07T21:00Z,Delaware State Hornets at North Carolina A&T Aggies,North Carolina A&T Aggies,Delaware State Hornets,53,55,0.0
+400919566,2017-01-07T21:00Z,Hofstra Pride at Charleston Cougars,Charleston Cougars,Hofstra Pride,77,71,1.0
+400919185,2017-01-07T21:00Z,Long Island University Sharks at Saint Francis Red Wolves,Saint Francis Red Wolves,Long Island University Sharks,70,83,0.0
+400919183,2017-01-07T21:00Z,St. Francis Brooklyn Terriers at Robert Morris Colonials,Robert Morris Colonials,St. Francis Brooklyn Terriers,62,58,1.0
+400919182,2017-01-07T21:00Z,Sacred Heart Pioneers at Wagner Seahawks,Wagner Seahawks,Sacred Heart Pioneers,75,64,1.0
+400918771,2017-01-07T21:00Z,Florida Gulf Coast Eagles at Stetson Hatters,Stetson Hatters,Florida Gulf Coast Eagles,88,89,0.0
+400918596,2017-01-07T21:00Z,Youngstown State Penguins at Wright State Raiders,Wright State Raiders,Youngstown State Penguins,75,80,0.0
+400918142,2017-01-07T21:00Z,Southern Illinois Salukis at Missouri State Bears,Missouri State Bears,Southern Illinois Salukis,67,75,0.0
+400917113,2017-01-07T21:00Z,Miami (OH) RedHawks at Toledo Rockets,Toledo Rockets,Miami (OH) RedHawks,91,76,1.0
+400916766,2017-01-07T21:00Z,Radford Highlanders at Presbyterian Blue Hose,Presbyterian Blue Hose,Radford Highlanders,63,76,0.0
+400916765,2017-01-07T21:00Z,Longwood Lancers at Winthrop Eagles,Winthrop Eagles,Longwood Lancers,83,65,1.0
+400915822,2017-01-07T21:00Z,San Diego Toreros at Pepperdine Waves,Pepperdine Waves,San Diego Toreros,68,76,0.0
+400916373,2017-01-07T21:05Z,Montana Grizzlies at Eastern Washington Eagles,Eastern Washington Eagles,Montana Grizzlies,59,65,0.0
+400917937,2017-01-07T21:15Z,IU Indianapolis Jaguars at South Dakota Coyotes,South Dakota Coyotes,IU Indianapolis Jaguars,85,74,1.0
+400917786,2017-01-07T21:15Z,SIU Edwardsville Cougars at Morehead State Eagles,Morehead State Eagles,SIU Edwardsville Cougars,73,65,1.0
+400917111,2017-01-07T21:30Z,Central Michigan Chippewas at Northern Illinois Huskies,Northern Illinois Huskies,Central Michigan Chippewas,87,83,1.0
+400916919,2017-01-07T21:30Z,East Tennessee State Buccaneers at Mercer Bears,Mercer Bears,East Tennessee State Buccaneers,58,67,0.0
+400916763,2017-01-07T21:30Z,Charleston Southern Buccaneers at Gardner-Webb Runnin' Bulldogs,Gardner-Webb Runnin' Bulldogs,Charleston Southern Buccaneers,79,75,1.0
+400916021,2017-01-07T21:30Z,Arkansas State Red Wolves at Coastal Carolina Chanticleers,Coastal Carolina Chanticleers,Arkansas State Red Wolves,80,65,1.0
+400922247,2017-01-07T22:00Z,Alabama A&M Bulldogs at Mississippi Valley State Delta Devils,Mississippi Valley State Delta Devils,Alabama A&M Bulldogs,76,79,0.0
+400921972,2017-01-07T22:00Z,Stephen F. Austin Lumberjacks at Abilene Christian Wildcats,Abilene Christian Wildcats,Stephen F. Austin Lumberjacks,69,60,1.0
+400919877,2017-01-07T22:00Z,Fresno State Bulldogs at San José State Spartans,San José State Spartans,Fresno State Bulldogs,69,62,1.0
+400919503,2017-01-07T22:00Z,UTEP Miners at Southern Miss Golden Eagles,Southern Miss Golden Eagles,UTEP Miners,73,65,1.0
+400918808,2017-01-07T22:00Z,Kennesaw State Owls at Lipscomb Bisons,Lipscomb Bisons,Kennesaw State Owls,82,79,1.0
+400918384,2017-01-07T22:00Z,George Mason Patriots at St. Bonaventure Bonnies,St. Bonaventure Bonnies,George Mason Patriots,82,72,1.0
+400916922,2017-01-07T22:00Z,Western Carolina Catamounts at UNC Greensboro Spartans,UNC Greensboro Spartans,Western Carolina Catamounts,76,57,1.0
+400916918,2017-01-07T22:00Z,Furman Paladins at Chattanooga Mocs,Chattanooga Mocs,Furman Paladins,80,64,1.0
+400916572,2017-01-07T22:00Z,South Florida Bulls at SMU Mustangs,SMU Mustangs,South Florida Bulls,84,65,1.0
+400916374,2017-01-07T22:00Z,Southern Utah Thunderbirds at North Dakota Fighting Hawks,North Dakota Fighting Hawks,Southern Utah Thunderbirds,95,65,1.0
+400916024,2017-01-07T22:00Z,Troy Trojans at Georgia Southern Eagles,Georgia Southern Eagles,Troy Trojans,86,82,1.0
+400915613,2017-01-07T22:00Z,Utah Utes at Arizona State Sun Devils,Arizona State Sun Devils,Utah Utes,82,88,0.0
+400922108,2017-01-07T22:30Z,SE Louisiana Lions at Lamar Cardinals,Lamar Cardinals,SE Louisiana Lions,74,54,1.0
+400917936,2017-01-07T22:30Z,Omaha Mavericks at South Dakota State Jackrabbits,South Dakota State Jackrabbits,Omaha Mavericks,93,101,0.0
+400916022,2017-01-07T22:30Z,UT Arlington Mavericks at Texas State Bobcats,Texas State Bobcats,UT Arlington Mavericks,81,73,1.0
+400922258,2017-01-07T23:00Z,Texas Southern Tigers at Prairie View A&M Panthers,Prairie View A&M Panthers,Texas Southern Tigers,82,87,0.0
+400920403,2017-01-07T23:00Z,Coppin State Eagles at Florida A&M Rattlers,Florida A&M Rattlers,Coppin State Eagles,54,53,1.0
+400919859,2017-01-07T23:00Z,UNLV Rebels at Utah State Aggies,Utah State Aggies,UNLV Rebels,79,63,1.0
+400919475,2017-01-07T23:00Z,Old Dominion Monarchs at Western Kentucky Hilltoppers,Western Kentucky Hilltoppers,Old Dominion Monarchs,67,79,0.0
+400915821,2017-01-07T23:00Z,Santa Clara Broncos at Loyola Marymount Lions,Loyola Marymount Lions,Santa Clara Broncos,66,56,1.0
+400910618,2017-01-07T23:00Z,Ole Miss Rebels at Auburn Tigers,Auburn Tigers,Ole Miss Rebels,85,88,0.0
+400922236,2017-01-07T23:30Z,Southern Jaguars at Grambling Tigers,Grambling Tigers,Southern Jaguars,79,87,0.0
+400919767,2017-01-08T00:00Z,James Madison Dukes at Northeastern Huskies,Northeastern Huskies,James Madison Dukes,64,54,1.0
+400919622,2017-01-08T00:00Z,Towson Tigers at Elon Phoenix,Elon Phoenix,Towson Tigers,72,61,1.0
+400919587,2017-01-08T00:00Z,UNC Wilmington Seahawks at Delaware Blue Hens,Delaware Blue Hens,UNC Wilmington Seahawks,81,91,0.0
+400919413,2017-01-08T00:00Z,UTSA Roadrunners at Louisiana Tech Bulldogs,Louisiana Tech Bulldogs,UTSA Roadrunners,68,69,0.0
+400919350,2017-01-08T00:00Z,Charlotte 49ers at Marshall Thundering Herd,Marshall Thundering Herd,Charlotte 49ers,110,93,1.0
+400919333,2017-01-08T00:00Z,Pennsylvania Quakers at Princeton Tigers,Princeton Tigers,Pennsylvania Quakers,61,52,1.0
+400919313,2017-01-08T00:00Z,Harvard Crimson at Dartmouth Big Green,Dartmouth Big Green,Harvard Crimson,58,74,0.0
+400919283,2017-01-08T00:00Z,Howard Bison at Columbia Lions,Columbia Lions,Howard Bison,66,48,1.0
+400918945,2017-01-08T00:00Z,UC Riverside Highlanders at Long Beach State Beach,Long Beach State Beach,UC Riverside Highlanders,70,64,1.0
+400918794,2017-01-08T00:00Z,North Florida Ospreys at Jacksonville Dolphins,Jacksonville Dolphins,North Florida Ospreys,64,80,0.0
+400917938,2017-01-08T00:00Z,Denver Pioneers at Purdue Fort Wayne Mastodons,Purdue Fort Wayne Mastodons,Denver Pioneers,87,83,1.0
+400917571,2017-01-08T00:00Z,Saint Peter's Peacocks at Siena Saints,Siena Saints,Saint Peter's Peacocks,56,54,1.0
+400910552,2017-01-08T00:00Z,Vanderbilt Commodores at Alabama Crimson Tide,Alabama Crimson Tide,Vanderbilt Commodores,59,56,1.0
+400922140,2017-01-08T00:15Z,Nicholls Colonels at Sam Houston Bearkats,Sam Houston Bearkats,Nicholls Colonels,74,61,1.0
+400922162,2017-01-08T01:00Z,Northwestern State Demons at Texas A&M-Corpus Christi Islanders,Texas A&M-Corpus Christi Islanders,Northwestern State Demons,99,82,1.0
+400922049,2017-01-08T01:00Z,McNeese Cowboys at Houston Christian Huskies,Houston Christian Huskies,McNeese Cowboys,60,49,1.0
+400919491,2017-01-08T01:00Z,UAB Blazers at Rice Owls,Rice Owls,UAB Blazers,81,88,0.0
+400918873,2017-01-08T01:00Z,Cal Poly Mustangs at UC Davis Aggies,UC Davis Aggies,Cal Poly Mustangs,68,64,1.0
+400918328,2017-01-08T01:00Z,Duquesne Dukes at La Salle Explorers,La Salle Explorers,Duquesne Dukes,88,81,1.0
+400918201,2017-01-08T01:00Z,Loyola Chicago Ramblers at Bradley Braves,Bradley Braves,Loyola Chicago Ramblers,62,78,0.0
+400918052,2017-01-08T01:00Z,UT Rio Grande Valley Vaqueros at Kansas City Roos,Kansas City Roos,UT Rio Grande Valley Vaqueros,83,79,1.0
+400917784,2017-01-08T01:00Z,Southeast Missouri State Redhawks at Belmont Bruins,Belmont Bruins,Southeast Missouri State Redhawks,87,75,1.0
+400917783,2017-01-08T01:00Z,Austin Peay Governors at Jacksonville State Gamecocks,Jacksonville State Gamecocks,Austin Peay Governors,71,68,1.0
+400916025,2017-01-08T01:15Z,UL Monroe Warhawks at Louisiana Ragin' Cajuns,Louisiana Ragin' Cajuns,UL Monroe Warhawks,69,60,1.0
+400922216,2017-01-08T01:30Z,Alabama State Hornets at Arkansas-Pine Bluff Golden Lions,Arkansas-Pine Bluff Golden Lions,Alabama State Hornets,71,63,1.0
+400917788,2017-01-08T01:30Z,UT Martin Skyhawks at Tennessee State Tigers,Tennessee State Tigers,UT Martin Skyhawks,76,65,1.0
+400917787,2017-01-08T01:30Z,Murray State Racers at Tennessee Tech Golden Eagles,Tennessee Tech Golden Eagles,Murray State Racers,71,67,1.0
+400910589,2017-01-08T01:30Z,Arkansas Razorbacks at Kentucky Wildcats,Kentucky Wildcats,Arkansas Razorbacks,97,71,1.0
+400920365,2017-01-08T02:00Z,Morgan State Bears at Bethune-Cookman Wildcats,Bethune-Cookman Wildcats,Morgan State Bears,63,69,0.0
+400918053,2017-01-08T02:00Z,Utah Valley Wolverines at Grand Canyon Lopes,Grand Canyon Lopes,Utah Valley Wolverines,82,72,1.0
+400916375,2017-01-08T02:00Z,Northern Arizona Lumberjacks at Northern Colorado Bears,Northern Colorado Bears,Northern Arizona Lumberjacks,83,79,1.0
+400915819,2017-01-08T02:00Z,Pacific Tigers at BYU Cougars,BYU Cougars,Pacific Tigers,91,62,1.0
+400911031,2017-01-08T02:15Z,Texas Longhorns at Iowa State Cyclones,Iowa State Cyclones,Texas Longhorns,79,70,1.0
+400918051,2017-01-08T03:00Z,Seattle U Redhawks at Cal State Bakersfield Roadrunners,Cal State Bakersfield Roadrunners,Seattle U Redhawks,78,71,1.0
+400916376,2017-01-08T03:00Z,Montana State Bobcats at Idaho Vandals,Idaho Vandals,Montana State Bobcats,83,81,1.0
+400916378,2017-01-08T03:05Z,Sacramento State Hornets at Portland State Vikings,Portland State Vikings,Sacramento State Hornets,83,76,1.0
+400918930,2017-01-08T03:30Z,Hawai'i Rainbow Warriors at UC Irvine Anteaters,UC Irvine Anteaters,Hawai'i Rainbow Warriors,84,56,1.0
+400918892,2017-01-08T03:30Z,Cal State Northridge Matadors at Cal State Fullerton Titans,Cal State Fullerton Titans,Cal State Northridge Matadors,65,70,0.0
+400919823,2017-01-08T04:00Z,San Diego State Aztecs at Boise State Broncos,Boise State Broncos,San Diego State Aztecs,78,66,1.0
+400919906,2017-01-08T04:15Z,Nevada Wolf Pack at New Mexico Lobos,New Mexico Lobos,Nevada Wolf Pack,104,105,0.0
+400915820,2017-01-08T03:00Z,Gonzaga Bulldogs at Portland Pilots,Portland Pilots,Gonzaga Bulldogs,0,0,0.5
+400915366,2017-01-08T01:00Z,NC State Wolfpack at North Carolina Tar Heels,North Carolina Tar Heels,NC State Wolfpack,0,0,0.5
+400920482,2017-01-07T21:00Z,Maryland Eastern Shore Hawks at North Carolina Central Eagles,North Carolina Central Eagles,Maryland Eastern Shore Hawks,0,0,0.5
+400919605,2017-01-07T21:00Z,Drexel Dragons at William & Mary Tribe,William & Mary Tribe,Drexel Dragons,0,0,0.5
+400920437,2017-01-07T23:00Z,South Carolina State Bulldogs at Hampton Pirates,Hampton Pirates,South Carolina State Bulldogs,0,0,0.5
+400922198,2017-01-07T23:30Z,Alcorn State Braves at Jackson State Tigers,Jackson State Tigers,Alcorn State Braves,0,0,0.5
+400920522,2017-01-07T23:30Z,Savannah State Tigers at Norfolk State Spartans,Norfolk State Spartans,Savannah State Tigers,0,0,0.5
+400972707,2017-01-08T00:00Z,Niagara Purple Eagles at Rider Broncs,Rider Broncs,Niagara Purple Eagles,0,0,0.5
+400972706,2017-01-08T00:00Z,Weber State Wildcats at Idaho State Bengals,Idaho State Bengals,Weber State Wildcats,0,0,0.5
+400916920,2017-01-08T00:00Z,Wofford Terriers at Samford Bulldogs,Samford Bulldogs,Wofford Terriers,0,0,0.5
+400915616,2017-01-09T01:00Z,Stanford Cardinal at UCLA Bruins,UCLA Bruins,Stanford Cardinal,89,75,1.0
+400915367,2017-01-09T01:00Z,Wake Forest Demon Deacons at Virginia Cavaliers,Virginia Cavaliers,Wake Forest Demon Deacons,79,62,1.0
+400914933,2017-01-08T21:30Z,Wisconsin Badgers at Purdue Boilermakers,Purdue Boilermakers,Wisconsin Badgers,66,55,1.0
+400933455,2017-01-08T18:00Z,NC State Wolfpack at North Carolina Tar Heels,North Carolina Tar Heels,NC State Wolfpack,107,56,1.0
+400915617,2017-01-09T03:00Z,California Golden Bears at USC Trojans,USC Trojans,California Golden Bears,73,74,0.0
+400918691,2017-01-08T17:00Z,Maine Black Bears at UMBC Retrievers,UMBC Retrievers,Maine Black Bears,75,64,1.0
+400918365,2017-01-08T17:00Z,Richmond Spiders at George Washington Revolutionaries,George Washington Revolutionaries,Richmond Spiders,70,77,0.0
+400919057,2017-01-08T18:00Z,Loyola Maryland Greyhounds at Army Black Knights,Army Black Knights,Loyola Maryland Greyhounds,66,57,1.0
+400919056,2017-01-08T18:00Z,Bucknell Bison at Holy Cross Crusaders,Holy Cross Crusaders,Bucknell Bison,49,68,0.0
+400918504,2017-01-08T18:00Z,Detroit Mercy Titans at Valparaiso Beacons,Valparaiso Beacons,Detroit Mercy Titans,81,74,1.0
+400919300,2017-01-08T19:00Z,Fisher Eagles at Cornell Big Red,Cornell Big Red,Fisher Eagles,100,72,1.0
+400919060,2017-01-08T19:00Z,Colgate Raiders at Navy Midshipmen,Navy Midshipmen,Colgate Raiders,67,55,1.0
+400919059,2017-01-08T19:00Z,American University Eagles at Lehigh Mountain Hawks,Lehigh Mountain Hawks,American University Eagles,79,73,1.0
+400919058,2017-01-08T19:00Z,Boston University Terriers at Lafayette Leopards,Lafayette Leopards,Boston University Terriers,75,91,0.0
+400918645,2017-01-08T19:00Z,UMass Lowell River Hawks at Binghamton Bearcats,Binghamton Bearcats,UMass Lowell River Hawks,75,79,0.0
+400918614,2017-01-08T19:00Z,UAlbany Great Danes at Stony Brook Seawolves,Stony Brook Seawolves,UAlbany Great Danes,72,70,1.0
+400918267,2017-01-08T19:00Z,Davidson Wildcats at Saint Louis Billikens,Saint Louis Billikens,Davidson Wildcats,66,77,0.0
+400917575,2017-01-08T19:00Z,Marist Red Foxes at Monmouth Hawks,Monmouth Hawks,Marist Red Foxes,71,64,1.0
+400915111,2017-01-08T19:15Z,Northwestern Wildcats at Nebraska Cornhuskers,Nebraska Cornhuskers,Northwestern Wildcats,66,74,0.0
+400916574,2017-01-08T20:00Z,Memphis Tigers at Tulane Green Wave,Tulane Green Wave,Memphis Tigers,59,80,0.0
+400933447,2017-01-08T21:00Z,Wofford Terriers at Samford Bulldogs,Samford Bulldogs,Wofford Terriers,91,89,1.0
+400918666,2017-01-08T21:00Z,Hartford Hawks at Vermont Catamounts,Vermont Catamounts,Hartford Hawks,85,54,1.0
+400918239,2017-01-08T21:00Z,Evansville Purple Aces at Drake Bulldogs,Drake Bulldogs,Evansville Purple Aces,88,76,1.0
+400918117,2017-01-08T21:00Z,Wichita State Shockers at Northern Iowa Panthers,Northern Iowa Panthers,Wichita State Shockers,66,80,0.0
+400917574,2017-01-08T21:00Z,Canisius Golden Griffins at Iona Gaels,Iona Gaels,Canisius Golden Griffins,98,75,1.0
+400915007,2017-01-08T21:30Z,Rutgers Scarlet Knights at Iowa Hawkeyes,Iowa Hawkeyes,Rutgers Scarlet Knights,68,62,1.0
+400918555,2017-01-08T22:00Z,Oakland Golden Grizzlies at UIC Flames,UIC Flames,Oakland Golden Grizzlies,57,58,0.0
+400917573,2017-01-08T22:00Z,Niagara Purple Eagles at Rider Broncs,Rider Broncs,Niagara Purple Eagles,89,78,1.0
+400916575,2017-01-08T22:00Z,UCF Knights at UConn Huskies,UConn Huskies,UCF Knights,64,49,1.0
+400915096,2017-01-09T00:30Z,Ohio State Buckeyes at Minnesota Golden Gophers,Minnesota Golden Gophers,Ohio State Buckeyes,78,68,1.0
+400920483,2017-01-09T21:00Z,Maryland Eastern Shore Hawks at North Carolina A&T Aggies,North Carolina A&T Aggies,Maryland Eastern Shore Hawks,88,99,0.0
+400919674,2017-01-09T23:30Z,St. John's Red Storm at Georgetown Hoyas,Georgetown Hoyas,St. John's Red Storm,83,55,1.0
+400920438,2017-01-10T00:00Z,Savannah State Tigers at Hampton Pirates,Hampton Pirates,Savannah State Tigers,84,80,1.0
+400917939,2017-01-10T00:00Z,Olivet Comets at Purdue Fort Wayne Mastodons,Purdue Fort Wayne Mastodons,Olivet Comets,115,60,1.0
+400917576,2017-01-10T00:00Z,Quinnipiac Bobcats at Saint Peter's Peacocks,Saint Peter's Peacocks,Quinnipiac Bobcats,58,54,1.0
+400916029,2017-01-10T00:00Z,South Alabama Jaguars at Georgia Southern Eagles,Georgia Southern Eagles,South Alabama Jaguars,84,79,1.0
+400916028,2017-01-10T00:00Z,Arkansas State Red Wolves at App State Mountaineers,App State Mountaineers,Arkansas State Red Wolves,70,57,1.0
+400916027,2017-01-10T00:00Z,Little Rock Trojans at Coastal Carolina Chanticleers,Coastal Carolina Chanticleers,Little Rock Trojans,66,63,1.0
+400916026,2017-01-10T00:00Z,Troy Trojans at Georgia State Panthers,Georgia State Panthers,Troy Trojans,77,80,0.0
+400920366,2017-01-10T00:30Z,Coppin State Eagles at Bethune-Cookman Wildcats,Bethune-Cookman Wildcats,Coppin State Eagles,73,76,0.0
+400922387,2017-01-10T01:30Z,Southern Jaguars at Jackson State Tigers,Jackson State Tigers,Southern Jaguars,65,61,1.0
+400922248,2017-01-10T01:30Z,Alabama State Hornets at Mississippi Valley State Delta Devils,Mississippi Valley State Delta Devils,Alabama State Hornets,73,70,1.0
+400922217,2017-01-10T01:30Z,Alabama A&M Bulldogs at Arkansas-Pine Bluff Golden Lions,Arkansas-Pine Bluff Golden Lions,Alabama A&M Bulldogs,81,65,1.0
+400922199,2017-01-10T01:30Z,Alcorn State Braves at Grambling Tigers,Grambling Tigers,Alcorn State Braves,67,62,1.0
+400920420,2017-01-10T00:30Z,Delaware State Hornets at North Carolina Central Eagles,North Carolina Central Eagles,Delaware State Hornets,0,0,0.5
+400920523,2017-01-10T01:00Z,South Carolina State Bulldogs at Norfolk State Spartans,Norfolk State Spartans,South Carolina State Bulldogs,0,0,0.5
+400916206,2017-01-11T00:00Z,Baylor Bears at West Virginia Mountaineers,West Virginia Mountaineers,Baylor Bears,89,68,1.0
+400916207,2017-01-11T02:00Z,Kansas Jayhawks at Oklahoma Sooners,Oklahoma Sooners,Kansas Jayhawks,70,81,0.0
+400919675,2017-01-11T00:00Z,Xavier Musketeers at Villanova Wildcats,Villanova Wildcats,Xavier Musketeers,79,54,1.0
+400910693,2017-01-11T00:00Z,Kentucky Wildcats at Vanderbilt Commodores,Vanderbilt Commodores,Kentucky Wildcats,81,87,0.0
+400915369,2017-01-11T01:00Z,Duke Blue Devils at Florida State Seminoles,Florida State Seminoles,Duke Blue Devils,88,72,1.0
+400910553,2017-01-11T02:00Z,Florida Gators at Alabama Crimson Tide,Alabama Crimson Tide,Florida Gators,67,80,0.0
+400916208,2017-01-11T02:15Z,Kansas State Wildcats at Texas Tech Red Raiders,Texas Tech Red Raiders,Kansas State Wildcats,66,65,1.0
+400933556,2017-01-10T21:00Z,Delaware State Hornets at North Carolina Central Eagles,North Carolina Central Eagles,Delaware State Hornets,68,69,0.0
+400920493,2017-01-11T00:00Z,Morgan State Bears at Florida A&M Rattlers,Florida A&M Rattlers,Morgan State Bears,59,62,0.0
+400919324,2017-01-11T00:00Z,McGill Martlets at Harvard Crimson,Harvard Crimson,McGill Martlets,70,45,1.0
+400918385,2017-01-11T00:00Z,George Mason Patriots at Saint Joseph's Hawks,Saint Joseph's Hawks,George Mason Patriots,67,75,0.0
+400917578,2017-01-11T00:00Z,Canisius Golden Griffins at Fairfield Stags,Fairfield Stags,Canisius Golden Griffins,72,86,0.0
+400917577,2017-01-11T00:00Z,Niagara Purple Eagles at Manhattan Jaspers,Manhattan Jaspers,Niagara Purple Eagles,78,69,1.0
+400917120,2017-01-11T00:00Z,Toledo Rockets at Western Michigan Broncos,Western Michigan Broncos,Toledo Rockets,90,74,1.0
+400917119,2017-01-11T00:00Z,Ohio Bobcats at Buffalo Bulls,Buffalo Bulls,Ohio Bobcats,72,74,0.0
+400917118,2017-01-11T00:00Z,Northern Illinois Huskies at Kent State Golden Flashes,Kent State Golden Flashes,Northern Illinois Huskies,70,74,0.0
+400917117,2017-01-11T00:00Z,Miami (OH) RedHawks at Ball State Cardinals,Ball State Cardinals,Miami (OH) RedHawks,85,74,1.0
+400917116,2017-01-11T00:00Z,Eastern Michigan Eagles at Bowling Green Falcons,Bowling Green Falcons,Eastern Michigan Eagles,53,81,0.0
+400917115,2017-01-11T00:00Z,Akron Zips at Central Michigan Chippewas,Central Michigan Chippewas,Akron Zips,85,89,0.0
+400915368,2017-01-11T00:00Z,Syracuse Orange at Virginia Tech Hokies,Virginia Tech Hokies,Syracuse Orange,83,73,1.0
+400910619,2017-01-11T00:00Z,Auburn Tigers at Missouri Tigers,Missouri Tigers,Auburn Tigers,72,77,0.0
+400917789,2017-01-11T00:30Z,Tennessee Tech Golden Eagles at Southeast Missouri State Redhawks,Southeast Missouri State Redhawks,Tennessee Tech Golden Eagles,83,78,1.0
+400918521,2017-01-11T01:00Z,Northern Kentucky Norse at Green Bay Phoenix,Green Bay Phoenix,Northern Kentucky Norse,80,71,1.0
+400917790,2017-01-11T01:00Z,Fort Valley State Wildcats at Jacksonville State Gamecocks,Jacksonville State Gamecocks,Fort Valley State Wildcats,81,69,1.0
+400919860,2017-01-11T02:00Z,UNLV Rebels at New Mexico Lobos,New Mexico Lobos,UNLV Rebels,66,71,0.0
+400919676,2017-01-11T02:00Z,Providence Friars at DePaul Blue Demons,DePaul Blue Demons,Providence Friars,64,63,1.0
+400914977,2017-01-11T02:00Z,Indiana Hoosiers at Maryland Terrapins,Maryland Terrapins,Indiana Hoosiers,75,72,1.0
+400910590,2017-01-11T02:00Z,Mississippi State Bulldogs at Arkansas Razorbacks,Arkansas Razorbacks,Mississippi State Bulldogs,78,84,0.0
+400919926,2017-01-11T04:00Z,San José State Spartans at San Diego State Aztecs,San Diego State Aztecs,San José State Spartans,76,61,1.0
+400919678,2017-01-12T02:00Z,Butler Bulldogs at Creighton Bluejays,Creighton Bluejays,Butler Bulldogs,75,64,1.0
+400915371,2017-01-12T01:00Z,North Carolina Tar Heels at Wake Forest Demon Deacons,Wake Forest Demon Deacons,North Carolina Tar Heels,87,93,0.0
+400915370,2017-01-12T00:00Z,Pittsburgh Panthers at Louisville Cardinals,Louisville Cardinals,Pittsburgh Panthers,85,80,1.0
+400915076,2017-01-12T00:00Z,Minnesota Golden Gophers at Michigan State Spartans,Michigan State Spartans,Minnesota Golden Gophers,65,47,1.0
+400933449,2017-01-11T23:00Z,Maryland Eastern Shore Hawks at North Carolina Central Eagles,North Carolina Central Eagles,Maryland Eastern Shore Hawks,69,52,1.0
+400918366,2017-01-11T23:00Z,George Washington Revolutionaries at VCU Rams,VCU Rams,George Washington Revolutionaries,85,55,1.0
+400916576,2017-01-11T23:00Z,Houston Cougars at East Carolina Pirates,East Carolina Pirates,Houston Cougars,58,74,0.0
+400916771,2017-01-11T23:30Z,Presbyterian Blue Hose at Winthrop Eagles,Winthrop Eagles,Presbyterian Blue Hose,75,52,1.0
+400910789,2017-01-11T23:30Z,South Carolina Gamecocks at Tennessee Volunteers,Tennessee Volunteers,South Carolina Gamecocks,60,70,0.0
+400919677,2017-01-12T00:00Z,Seton Hall Pirates at Marquette Golden Eagles,Marquette Golden Eagles,Seton Hall Pirates,89,86,1.0
+400919065,2017-01-12T00:00Z,Lehigh Mountain Hawks at Bucknell Bison,Bucknell Bison,Lehigh Mountain Hawks,71,82,0.0
+400919062,2017-01-12T00:00Z,American University Eagles at Boston University Terriers,Boston University Terriers,American University Eagles,76,66,1.0
+400919061,2017-01-12T00:00Z,Colgate Raiders at Army Black Knights,Army Black Knights,Colgate Raiders,76,79,0.0
+400918692,2017-01-12T00:00Z,UMass Lowell River Hawks at Maine Black Bears,Maine Black Bears,UMass Lowell River Hawks,73,71,1.0
+400918667,2017-01-12T00:00Z,UMBC Retrievers at Hartford Hawks,Hartford Hawks,UMBC Retrievers,68,84,0.0
+400918646,2017-01-12T00:00Z,Vermont Catamounts at Binghamton Bearcats,Binghamton Bearcats,Vermont Catamounts,50,67,0.0
+400918615,2017-01-12T00:00Z,New Hampshire Wildcats at UAlbany Great Danes,UAlbany Great Danes,New Hampshire Wildcats,67,75,0.0
+400918449,2017-01-12T00:00Z,St. Bonaventure Bonnies at Richmond Spiders,Richmond Spiders,St. Bonaventure Bonnies,78,61,1.0
+400918329,2017-01-12T00:00Z,Saint Louis Billikens at Duquesne Dukes,Duquesne Dukes,Saint Louis Billikens,73,66,1.0
+400918305,2017-01-12T00:00Z,Dayton Flyers at Massachusetts Minutemen,Massachusetts Minutemen,Dayton Flyers,67,55,1.0
+400918268,2017-01-12T00:00Z,Fordham Rams at Davidson Wildcats,Davidson Wildcats,Fordham Rams,54,60,0.0
+400918118,2017-01-12T00:00Z,Loyola Chicago Ramblers at Wichita State Shockers,Wichita State Shockers,Loyola Chicago Ramblers,87,75,1.0
+400917941,2017-01-12T00:00Z,Omaha Mavericks at IU Indianapolis Jaguars,IU Indianapolis Jaguars,Omaha Mavericks,71,79,0.0
+400916923,2017-01-12T00:00Z,The Citadel Bulldogs at Chattanooga Mocs,Chattanooga Mocs,The Citadel Bulldogs,83,73,1.0
+400916770,2017-01-12T00:00Z,Longwood Lancers at UNC Asheville Bulldogs,UNC Asheville Bulldogs,Longwood Lancers,89,68,1.0
+400916769,2017-01-12T00:00Z,Liberty Flames at High Point Panthers,High Point Panthers,Liberty Flames,58,62,0.0
+400916767,2017-01-12T00:00Z,Campbell Fighting Camels at Gardner-Webb Runnin' Bulldogs,Gardner-Webb Runnin' Bulldogs,Campbell Fighting Camels,60,76,0.0
+400916577,2017-01-12T00:00Z,Tulane Green Wave at South Florida Bulls,South Florida Bulls,Tulane Green Wave,67,82,0.0
+400910669,2017-01-12T00:00Z,Georgia Bulldogs at Ole Miss Rebels,Ole Miss Rebels,Georgia Bulldogs,47,69,0.0
+400919063,2017-01-12T00:05Z,Lafayette Leopards at Holy Cross Crusaders,Holy Cross Crusaders,Lafayette Leopards,71,54,1.0
+400919064,2017-01-12T00:30Z,Navy Midshipmen at Loyola Maryland Greyhounds,Loyola Maryland Greyhounds,Navy Midshipmen,62,75,0.0
+400916768,2017-01-12T00:30Z,Radford Highlanders at Charleston Southern Buccaneers,Charleston Southern Buccaneers,Radford Highlanders,70,64,1.0
+400933431,2017-01-12T01:00Z,Savannah State Tigers at Norfolk State Spartans,Norfolk State Spartans,Savannah State Tigers,80,76,1.0
+400922188,2017-01-12T01:00Z,Texas A&M-Corpus Christi Islanders at Stephen F. Austin Lumberjacks,Stephen F. Austin Lumberjacks,Texas A&M-Corpus Christi Islanders,79,46,1.0
+400922091,2017-01-12T01:00Z,Incarnate Word Cardinals at Lamar Cardinals,Lamar Cardinals,Incarnate Word Cardinals,87,72,1.0
+400918215,2017-01-12T01:00Z,Indiana State Sycamores at Drake Bulldogs,Drake Bulldogs,Indiana State Sycamores,87,70,1.0
+400918180,2017-01-12T01:00Z,Evansville Purple Aces at Missouri State Bears,Missouri State Bears,Evansville Purple Aces,55,51,1.0
+400918143,2017-01-12T01:00Z,Illinois State Redbirds at Southern Illinois Salukis,Southern Illinois Salukis,Illinois State Redbirds,53,60,0.0
+400917942,2017-01-12T01:00Z,North Dakota State Bison at South Dakota Coyotes,South Dakota Coyotes,North Dakota State Bison,69,70,0.0
+400916924,2017-01-12T01:00Z,Mercer Bears at Samford Bulldogs,Samford Bulldogs,Mercer Bears,65,68,0.0
+400916578,2017-01-12T01:00Z,Memphis Tigers at Tulsa Golden Hurricane,Tulsa Golden Hurricane,Memphis Tigers,81,71,1.0
+400911032,2017-01-12T01:00Z,TCU Horned Frogs at Texas Longhorns,Texas Longhorns,TCU Horned Frogs,61,64,0.0
+400933453,2017-01-12T01:30Z,Alcorn State Braves at Jackson State Tigers,Jackson State Tigers,Alcorn State Braves,50,63,0.0
+400910715,2017-01-12T01:30Z,LSU Tigers at Texas A&M Aggies,Texas A&M Aggies,LSU Tigers,92,62,1.0
+400919940,2017-01-12T02:00Z,Utah State Aggies at Wyoming Cowboys,Wyoming Cowboys,Utah State Aggies,95,87,1.0
+400919806,2017-01-12T02:00Z,Fresno State Bulldogs at Air Force Falcons,Air Force Falcons,Fresno State Bulldogs,81,72,1.0
+400918162,2017-01-12T02:00Z,Northern Iowa Panthers at Bradley Braves,Bradley Braves,Northern Iowa Panthers,72,61,1.0
+400917940,2017-01-12T02:00Z,Western Illinois Leathernecks at Denver Pioneers,Denver Pioneers,Western Illinois Leathernecks,84,70,1.0
+400916579,2017-01-12T02:00Z,Temple Owls at UConn Huskies,UConn Huskies,Temple Owls,73,59,1.0
+400916209,2017-01-12T02:00Z,Iowa State Cyclones at Oklahoma State Cowboys,Oklahoma State Cowboys,Iowa State Cyclones,86,96,0.0
+400915372,2017-01-12T02:00Z,NC State Wolfpack at Boston College Eagles,Boston College Eagles,NC State Wolfpack,74,66,1.0
+400914960,2017-01-12T02:00Z,Michigan Wolverines at Illinois Fighting Illini,Illinois Fighting Illini,Michigan Wolverines,85,69,1.0
+400918911,2017-01-12T03:30Z,Cal State Northridge Matadors at Long Beach State Beach,Long Beach State Beach,Cal State Northridge Matadors,82,89,0.0
+400915622,2017-01-13T04:00Z,UCLA Bruins at Colorado Buffaloes,Colorado Buffaloes,UCLA Bruins,89,104,0.0
+400915826,2017-01-13T02:00Z,Loyola Marymount Lions at Gonzaga Bulldogs,Gonzaga Bulldogs,Loyola Marymount Lions,93,55,1.0
+400915620,2017-01-13T02:00Z,Arizona State Sun Devils at Arizona Wildcats,Arizona Wildcats,Arizona State Sun Devils,91,75,1.0
+400915008,2017-01-13T02:00Z,Purdue Boilermakers at Iowa Hawkeyes,Iowa Hawkeyes,Purdue Boilermakers,83,78,1.0
+400914934,2017-01-13T00:00Z,Ohio State Buckeyes at Wisconsin Badgers,Wisconsin Badgers,Ohio State Buckeyes,89,66,1.0
+400915374,2017-01-13T00:00Z,Notre Dame Fighting Irish at Miami Hurricanes,Miami Hurricanes,Notre Dame Fighting Irish,62,67,0.0
+400915828,2017-01-13T04:00Z,Saint Mary's Gaels at Portland Pilots,Portland Pilots,Saint Mary's Gaels,33,74,0.0
+400916580,2017-01-13T02:00Z,SMU Mustangs at Cincinnati Bearcats,Cincinnati Bearcats,SMU Mustangs,66,64,1.0
+400915619,2017-01-13T02:00Z,USC Trojans at Utah Utes,Utah Utes,USC Trojans,86,64,1.0
+400919188,2017-01-12T23:00Z,Saint Francis Red Wolves at Robert Morris Colonials,Robert Morris Colonials,Saint Francis Red Wolves,57,77,0.0
+400919785,2017-01-13T00:00Z,William & Mary Tribe at UNC Wilmington Seahawks,UNC Wilmington Seahawks,William & Mary Tribe,101,77,1.0
+400919623,2017-01-13T00:00Z,Hofstra Pride at Elon Phoenix,Elon Phoenix,Hofstra Pride,96,80,1.0
+400919606,2017-01-13T00:00Z,Drexel Dragons at Northeastern Huskies,Northeastern Huskies,Drexel Dragons,92,75,1.0
+400919588,2017-01-13T00:00Z,Delaware Blue Hens at Towson Tigers,Towson Tigers,Delaware Blue Hens,83,56,1.0
+400919567,2017-01-13T00:00Z,Charleston Cougars at James Madison Dukes,James Madison Dukes,Charleston Cougars,51,53,0.0
+400919476,2017-01-13T00:00Z,Southern Miss Golden Eagles at Old Dominion Monarchs,Old Dominion Monarchs,Southern Miss Golden Eagles,54,50,1.0
+400919351,2017-01-13T00:00Z,Louisiana Tech Bulldogs at Charlotte 49ers,Charlotte 49ers,Louisiana Tech Bulldogs,73,79,0.0
+400919191,2017-01-13T00:00Z,Central Connecticut Blue Devils at Long Island University Sharks,Long Island University Sharks,Central Connecticut Blue Devils,60,49,1.0
+400919190,2017-01-13T00:00Z,Sacred Heart Pioneers at St. Francis Brooklyn Terriers,St. Francis Brooklyn Terriers,Sacred Heart Pioneers,75,87,0.0
+400919189,2017-01-13T00:00Z,Fairleigh Dickinson Knights at Mount St. Mary's Mountaineers,Mount St. Mary's Mountaineers,Fairleigh Dickinson Knights,77,70,1.0
+400919187,2017-01-13T00:00Z,Wagner Seahawks at Bryant Bulldogs,Bryant Bulldogs,Wagner Seahawks,77,66,1.0
+400918837,2017-01-13T00:00Z,North Florida Ospreys at South Carolina Upstate Spartans,South Carolina Upstate Spartans,North Florida Ospreys,65,73,0.0
+400918795,2017-01-13T00:00Z,Jacksonville Dolphins at NJIT Highlanders,NJIT Highlanders,Jacksonville Dolphins,81,82,0.0
+400918772,2017-01-13T00:00Z,Florida Gulf Coast Eagles at Kennesaw State Owls,Kennesaw State Owls,Florida Gulf Coast Eagles,75,78,0.0
+400918403,2017-01-13T00:00Z,La Salle Explorers at Rhode Island Rams,Rhode Island Rams,La Salle Explorers,75,87,0.0
+400917793,2017-01-13T00:00Z,Tennessee State Tigers at Eastern Kentucky Colonels,Eastern Kentucky Colonels,Tennessee State Tigers,49,63,0.0
+400917791,2017-01-13T00:00Z,Belmont Bruins at Morehead State Eagles,Morehead State Eagles,Belmont Bruins,78,84,0.0
+400916926,2017-01-13T00:00Z,UNC Greensboro Spartans at East Tennessee State Buccaneers,East Tennessee State Buccaneers,UNC Greensboro Spartans,79,83,0.0
+400916925,2017-01-13T00:00Z,Western Carolina Catamounts at VMI Keydets,VMI Keydets,Western Carolina Catamounts,79,78,1.0
+400915373,2017-01-13T00:00Z,Clemson Tigers at Georgia Tech Yellow Jackets,Georgia Tech Yellow Jackets,Clemson Tigers,75,63,1.0
+400918809,2017-01-13T00:30Z,Stetson Hatters at Lipscomb Bisons,Lipscomb Bisons,Stetson Hatters,94,68,1.0
+400918589,2017-01-13T00:45Z,Valparaiso Beacons at Youngstown State Penguins,Youngstown State Penguins,Valparaiso Beacons,62,78,0.0
+400918484,2017-01-13T00:45Z,UIC Flames at Cleveland State Vikings,Cleveland State Vikings,UIC Flames,54,59,0.0
+400919513,2017-01-13T01:00Z,Western Kentucky Hilltoppers at UAB Blazers,UAB Blazers,Western Kentucky Hilltoppers,72,54,1.0
+400919430,2017-01-13T01:00Z,Marshall Thundering Herd at Middle Tennessee Blue Raiders,Middle Tennessee Blue Raiders,Marshall Thundering Herd,69,57,1.0
+400919371,2017-01-13T01:00Z,Florida Atlantic Owls at UTSA Roadrunners,UTSA Roadrunners,Florida Atlantic Owls,68,63,1.0
+400918538,2017-01-13T01:00Z,Northern Kentucky Norse at Milwaukee Panthers,Milwaukee Panthers,Northern Kentucky Norse,68,58,1.0
+400918522,2017-01-13T01:00Z,Wright State Raiders at Green Bay Phoenix,Green Bay Phoenix,Wright State Raiders,78,61,1.0
+400918055,2017-01-13T01:00Z,Cal State Bakersfield Roadrunners at UT Rio Grande Valley Vaqueros,UT Rio Grande Valley Vaqueros,Cal State Bakersfield Roadrunners,81,88,0.0
+400917943,2017-01-13T01:00Z,South Dakota State Jackrabbits at Oral Roberts Golden Eagles,Oral Roberts Golden Eagles,South Dakota State Jackrabbits,94,88,1.0
+400917792,2017-01-13T01:00Z,Murray State Racers at Eastern Illinois Panthers,Eastern Illinois Panthers,Murray State Racers,72,83,0.0
+400917579,2017-01-13T01:00Z,Quinnipiac Bobcats at Siena Saints,Siena Saints,Quinnipiac Bobcats,81,74,1.0
+400922141,2017-01-13T01:30Z,Nicholls Colonels at Northwestern State Demons,Northwestern State Demons,Nicholls Colonels,86,81,1.0
+400921973,2017-01-13T01:30Z,SE Louisiana Lions at Abilene Christian Wildcats,Abilene Christian Wildcats,SE Louisiana Lions,50,56,0.0
+400916380,2017-01-13T01:30Z,Sacramento State Hornets at Southern Utah Thunderbirds,Southern Utah Thunderbirds,Sacramento State Hornets,83,88,0.0
+400922152,2017-01-13T01:45Z,Sam Houston Bearkats at LSU New Orleans Privateers,LSU New Orleans Privateers,Sam Houston Bearkats,68,70,0.0
+400919390,2017-01-13T02:00Z,Florida International Panthers at UTEP Miners,UTEP Miners,Florida International Panthers,88,87,1.0
+400918057,2017-01-13T02:00Z,Grand Canyon Lopes at New Mexico State Aggies,New Mexico State Aggies,Grand Canyon Lopes,81,69,1.0
+400918054,2017-01-13T02:00Z,Chicago State Cougars at Utah Valley Wolverines,Utah Valley Wolverines,Chicago State Cougars,61,70,0.0
+400917794,2017-01-13T02:00Z,Austin Peay Governors at SIU Edwardsville Cougars,SIU Edwardsville Cougars,Austin Peay Governors,81,83,0.0
+400916383,2017-01-13T02:00Z,Idaho Vandals at Weber State Wildcats,Weber State Wildcats,Idaho Vandals,91,66,1.0
+400916382,2017-01-13T02:00Z,Northern Colorado Bears at Montana Grizzlies,Montana Grizzlies,Northern Colorado Bears,89,68,1.0
+400916379,2017-01-13T02:00Z,North Dakota Fighting Hawks at Montana State Bobcats,Montana State Bobcats,North Dakota Fighting Hawks,85,90,0.0
+400915824,2017-01-13T02:00Z,San Francisco Dons at BYU Cougars,BYU Cougars,San Francisco Dons,85,75,1.0
+400915618,2017-01-13T02:00Z,Washington Huskies at California Golden Bears,California Golden Bears,Washington Huskies,69,59,1.0
+400915140,2017-01-13T02:00Z,Northwestern Wildcats at Rutgers Scarlet Knights,Rutgers Scarlet Knights,Northwestern Wildcats,60,69,0.0
+400922029,2017-01-13T02:05Z,Central Arkansas Bears at Houston Christian Huskies,Houston Christian Huskies,Central Arkansas Bears,78,89,0.0
+400916384,2017-01-13T02:05Z,Eastern Washington Eagles at Idaho State Bengals,Idaho State Bengals,Eastern Washington Eagles,85,92,0.0
+400918956,2017-01-13T03:00Z,UC Irvine Anteaters at UC Santa Barbara Gauchos,UC Santa Barbara Gauchos,UC Irvine Anteaters,62,66,0.0
+400918874,2017-01-13T03:00Z,Cal State Fullerton Titans at Cal Poly Mustangs,Cal Poly Mustangs,Cal State Fullerton Titans,74,87,0.0
+400918056,2017-01-13T03:00Z,Kansas City Roos at Seattle U Redhawks,Seattle U Redhawks,Kansas City Roos,68,84,0.0
+400915827,2017-01-13T03:00Z,Pepperdine Waves at Pacific Tigers,Pacific Tigers,Pepperdine Waves,79,74,1.0
+400915825,2017-01-13T03:00Z,Santa Clara Broncos at San Diego Toreros,San Diego Toreros,Santa Clara Broncos,57,59,0.0
+400918966,2017-01-13T04:00Z,UC Davis Aggies at UC Riverside Highlanders,UC Riverside Highlanders,UC Davis Aggies,61,55,1.0
+400915621,2017-01-13T04:00Z,Washington State Cougars at Stanford Cardinal,Stanford Cardinal,Washington State Cougars,84,54,1.0
+400916381,2017-01-13T01:30Z,Portland State Vikings at Northern Arizona Lumberjacks,Northern Arizona Lumberjacks,Portland State Vikings,0,0,0.5
+400918755,2017-01-14T00:00Z,UMBC Retrievers at Vermont Catamounts,Vermont Catamounts,UMBC Retrievers,81,72,1.0
+400918505,2017-01-14T00:00Z,Detroit Mercy Titans at Oakland Golden Grizzlies,Oakland Golden Grizzlies,Detroit Mercy Titans,88,93,0.0
+400917125,2017-01-14T00:00Z,Toledo Rockets at Central Michigan Chippewas,Central Michigan Chippewas,Toledo Rockets,96,88,1.0
+400919334,2017-01-14T01:00Z,Yale Bulldogs at Pennsylvania Quakers,Pennsylvania Quakers,Yale Bulldogs,60,68,0.0
+400919264,2017-01-14T01:00Z,Brown Bears at Princeton Tigers,Princeton Tigers,Brown Bears,97,66,1.0
+400917580,2017-01-14T02:00Z,Rider Broncs at Manhattan Jaspers,Manhattan Jaspers,Rider Broncs,76,73,1.0
+400916211,2017-01-14T21:30Z,Baylor Bears at Kansas State Wildcats,Kansas State Wildcats,Baylor Bears,68,77,0.0
+400916210,2017-01-14T19:00Z,Oklahoma State Cowboys at Kansas Jayhawks,Kansas Jayhawks,Oklahoma State Cowboys,87,80,1.0
+400919680,2017-01-14T17:00Z,Villanova Wildcats at St. John's Red Storm,St. John's Red Storm,Villanova Wildcats,57,70,0.0
+400915624,2017-01-14T23:00Z,UCLA Bruins at Utah Utes,Utah Utes,UCLA Bruins,82,83,0.0
+400915833,2017-01-15T03:00Z,Saint Mary's Gaels at Gonzaga Bulldogs,Gonzaga Bulldogs,Saint Mary's Gaels,79,56,1.0
+400910620,2017-01-14T21:00Z,Auburn Tigers at Kentucky Wildcats,Kentucky Wildcats,Auburn Tigers,92,72,1.0
+400915376,2017-01-14T17:00Z,Duke Blue Devils at Louisville Cardinals,Louisville Cardinals,Duke Blue Devils,78,69,1.0
+400919683,2017-01-14T18:00Z,Truman State Bulldogs at Creighton Bluejays,Creighton Bluejays,Truman State Bulldogs,101,69,1.0
+400915378,2017-01-14T19:00Z,Florida State Seminoles at North Carolina Tar Heels,North Carolina Tar Heels,Florida State Seminoles,96,83,1.0
+400911033,2017-01-14T21:00Z,West Virginia Mountaineers at Texas Longhorns,Texas Longhorns,West Virginia Mountaineers,72,74,0.0
+400919681,2017-01-14T19:00Z,Xavier Musketeers at Butler Bulldogs,Butler Bulldogs,Xavier Musketeers,83,78,1.0
+400915626,2017-01-15T03:30Z,Oregon State Beavers at Oregon Ducks,Oregon Ducks,Oregon State Beavers,85,43,1.0
+400915375,2017-01-14T17:00Z,Virginia Cavaliers at Clemson Tigers,Clemson Tigers,Virginia Cavaliers,73,77,0.0
+400915379,2017-01-14T19:00Z,Notre Dame Fighting Irish at Virginia Tech Hokies,Virginia Tech Hokies,Notre Dame Fighting Irish,71,76,0.0
+400910644,2017-01-14T17:00Z,Georgia Bulldogs at Florida Gators,Florida Gators,Georgia Bulldogs,80,76,1.0
+400915097,2017-01-14T17:00Z,Minnesota Golden Gophers at Penn State Nittany Lions,Penn State Nittany Lions,Minnesota Golden Gophers,52,50,1.0
+400919679,2017-01-14T17:00Z,Seton Hall Pirates at Providence Friars,Providence Friars,Seton Hall Pirates,65,61,1.0
+400918306,2017-01-14T17:00Z,Dayton Flyers at Duquesne Dukes,Duquesne Dukes,Dayton Flyers,57,76,0.0
+400917795,2017-01-14T17:00Z,Austin Peay Governors at Eastern Illinois Panthers,Eastern Illinois Panthers,Austin Peay Governors,84,92,0.0
+400917124,2017-01-14T17:00Z,Northern Illinois Huskies at Bowling Green Falcons,Bowling Green Falcons,Northern Illinois Huskies,52,69,0.0
+400916772,2017-01-14T17:00Z,Winthrop Eagles at Campbell Fighting Camels,Campbell Fighting Camels,Winthrop Eagles,63,72,0.0
+400916584,2017-01-14T17:00Z,UConn Huskies at Georgetown Hoyas,Georgetown Hoyas,UConn Huskies,72,69,1.0
+400915377,2017-01-14T17:00Z,Miami Hurricanes at Pittsburgh Panthers,Pittsburgh Panthers,Miami Hurricanes,46,72,0.0
+400918450,2017-01-14T17:30Z,Richmond Spiders at Saint Joseph's Hawks,Saint Joseph's Hawks,Richmond Spiders,66,70,0.0
+400918647,2017-01-14T18:00Z,Binghamton Bearcats at New Hampshire Wildcats,New Hampshire Wildcats,Binghamton Bearcats,73,66,1.0
+400918216,2017-01-14T18:00Z,Bradley Braves at Indiana State Sycamores,Indiana State Sycamores,Bradley Braves,81,71,1.0
+400916931,2017-01-14T18:00Z,Samford Bulldogs at The Citadel Bulldogs,The Citadel Bulldogs,Samford Bulldogs,90,98,0.0
+400916929,2017-01-14T18:00Z,UNC Greensboro Spartans at VMI Keydets,VMI Keydets,UNC Greensboro Spartans,82,91,0.0
+400910732,2017-01-14T18:00Z,Texas A&M Aggies at Mississippi State Bulldogs,Mississippi State Bulldogs,Texas A&M Aggies,67,59,1.0
+400919843,2017-01-14T19:00Z,New Mexico Lobos at Colorado State Rams,Colorado State Rams,New Mexico Lobos,71,84,0.0
+400919791,2017-01-14T19:00Z,Northeastern Huskies at Towson Tigers,Towson Tigers,Northeastern Huskies,74,67,1.0
+400919682,2017-01-14T19:00Z,DePaul Blue Demons at Marquette Golden Eagles,Marquette Golden Eagles,DePaul Blue Demons,83,58,1.0
+400919636,2017-01-14T19:00Z,Hofstra Pride at UNC Wilmington Seahawks,UNC Wilmington Seahawks,Hofstra Pride,84,76,1.0
+400919431,2017-01-14T19:00Z,Marshall Thundering Herd at UAB Blazers,UAB Blazers,Marshall Thundering Herd,94,78,1.0
+400919069,2017-01-14T19:00Z,Army Black Knights at American University Eagles,American University Eagles,Army Black Knights,49,53,0.0
+400919068,2017-01-14T19:00Z,Navy Midshipmen at Lafayette Leopards,Lafayette Leopards,Navy Midshipmen,51,88,0.0
+400919067,2017-01-14T19:00Z,Bucknell Bison at Colgate Raiders,Colgate Raiders,Bucknell Bison,69,83,0.0
+400919066,2017-01-14T19:00Z,Holy Cross Crusaders at Lehigh Mountain Hawks,Lehigh Mountain Hawks,Holy Cross Crusaders,68,51,1.0
+400918796,2017-01-14T19:00Z,Jacksonville Dolphins at South Carolina Upstate Spartans,South Carolina Upstate Spartans,Jacksonville Dolphins,73,66,1.0
+400918693,2017-01-14T19:00Z,Stony Brook Seawolves at Maine Black Bears,Maine Black Bears,Stony Brook Seawolves,54,74,0.0
+400918668,2017-01-14T19:00Z,Hartford Hawks at UMass Lowell River Hawks,UMass Lowell River Hawks,Hartford Hawks,71,55,1.0
+400918269,2017-01-14T19:00Z,VCU Rams at Davidson Wildcats,Davidson Wildcats,VCU Rams,69,63,1.0
+400918144,2017-01-14T19:00Z,Southern Illinois Salukis at Evansville Purple Aces,Evansville Purple Aces,Southern Illinois Salukis,61,73,0.0
+400917944,2017-01-14T19:00Z,Purdue Fort Wayne Mastodons at South Dakota Coyotes,South Dakota Coyotes,Purdue Fort Wayne Mastodons,66,63,1.0
+400917583,2017-01-14T19:00Z,Iona Gaels at Quinnipiac Bobcats,Quinnipiac Bobcats,Iona Gaels,97,91,1.0
+400917581,2017-01-14T19:00Z,Marist Red Foxes at Canisius Golden Griffins,Canisius Golden Griffins,Marist Red Foxes,91,58,1.0
+400917123,2017-01-14T19:00Z,Kent State Golden Flashes at Western Michigan Broncos,Western Michigan Broncos,Kent State Golden Flashes,92,88,1.0
+400917121,2017-01-14T19:00Z,Ball State Cardinals at Buffalo Bulls,Buffalo Bulls,Ball State Cardinals,77,92,0.0
+400916927,2017-01-14T19:00Z,Chattanooga Mocs at Mercer Bears,Mercer Bears,Chattanooga Mocs,68,70,0.0
+400916774,2017-01-14T19:00Z,Gardner-Webb Runnin' Bulldogs at Longwood Lancers,Longwood Lancers,Gardner-Webb Runnin' Bulldogs,79,85,0.0
+400915053,2017-01-14T19:00Z,Nebraska Cornhuskers at Michigan Wolverines,Michigan Wolverines,Nebraska Cornhuskers,91,85,1.0
+400918386,2017-01-14T19:30Z,Saint Louis Billikens at George Mason Patriots,George Mason Patriots,Saint Louis Billikens,56,63,0.0
+400916387,2017-01-14T19:30Z,Sacramento State Hornets at Northern Arizona Lumberjacks,Northern Arizona Lumberjacks,Sacramento State Hornets,62,74,0.0
+400919462,2017-01-14T20:00Z,North Texas Mean Green at Rice Owls,Rice Owls,North Texas Mean Green,101,79,1.0
+400919196,2017-01-14T20:00Z,St. Francis Brooklyn Terriers at Long Island University Sharks,Long Island University Sharks,St. Francis Brooklyn Terriers,63,58,1.0
+400918539,2017-01-14T20:00Z,Wright State Raiders at Milwaukee Panthers,Milwaukee Panthers,Wright State Raiders,67,70,0.0
+400921257,2017-01-14T20:30Z,Akron Zips at Miami (OH) RedHawks,Miami (OH) RedHawks,Akron Zips,70,74,0.0
+400919194,2017-01-14T20:30Z,Fairleigh Dickinson Knights at Central Connecticut Blue Devils,Central Connecticut Blue Devils,Fairleigh Dickinson Knights,47,59,0.0
+400918485,2017-01-14T20:30Z,Valparaiso Beacons at Cleveland State Vikings,Cleveland State Vikings,Valparaiso Beacons,67,78,0.0
+400917122,2017-01-14T20:30Z,Eastern Michigan Eagles at Ohio Bobcats,Ohio Bobcats,Eastern Michigan Eagles,49,53,0.0
+400910554,2017-01-14T20:30Z,Alabama Crimson Tide at LSU Tigers,LSU Tigers,Alabama Crimson Tide,66,81,0.0
+400922050,2017-01-14T21:00Z,Houston Christian Huskies at Incarnate Word Cardinals,Incarnate Word Cardinals,Houston Christian Huskies,82,77,1.0
+400920450,2017-01-14T21:00Z,Howard Bison at Maryland Eastern Shore Hawks,Maryland Eastern Shore Hawks,Howard Bison,66,74,0.0
+400920421,2017-01-14T21:00Z,Hampton Pirates at Delaware State Hornets,Delaware State Hornets,Hampton Pirates,77,85,0.0
+400920404,2017-01-14T21:00Z,North Carolina A&T Aggies at Coppin State Eagles,Coppin State Eagles,North Carolina A&T Aggies,75,73,1.0
+400920367,2017-01-14T21:00Z,Bethune-Cookman Wildcats at South Carolina State Bulldogs,South Carolina State Bulldogs,Bethune-Cookman Wildcats,78,74,1.0
+400919807,2017-01-14T21:00Z,San José State Spartans at Air Force Falcons,Air Force Falcons,San José State Spartans,85,89,0.0
+400919624,2017-01-14T21:00Z,Elon Phoenix at James Madison Dukes,James Madison Dukes,Elon Phoenix,60,59,1.0
+400919589,2017-01-14T21:00Z,Delaware Blue Hens at Drexel Dragons,Drexel Dragons,Delaware Blue Hens,76,60,1.0
+400919568,2017-01-14T21:00Z,William & Mary Tribe at Charleston Cougars,Charleston Cougars,William & Mary Tribe,77,67,1.0
+400919414,2017-01-14T21:00Z,Louisiana Tech Bulldogs at Old Dominion Monarchs,Old Dominion Monarchs,Louisiana Tech Bulldogs,63,75,0.0
+400919391,2017-01-14T21:00Z,Florida International Panthers at UTSA Roadrunners,UTSA Roadrunners,Florida International Panthers,57,55,1.0
+400919284,2017-01-14T21:00Z,Columbia Lions at Cornell Big Red,Cornell Big Red,Columbia Lions,75,79,0.0
+400919195,2017-01-14T21:00Z,Sacred Heart Pioneers at Bryant Bulldogs,Bryant Bulldogs,Sacred Heart Pioneers,110,112,0.0
+400919193,2017-01-14T21:00Z,Robert Morris Colonials at Wagner Seahawks,Wagner Seahawks,Robert Morris Colonials,53,50,1.0
+400919192,2017-01-14T21:00Z,Saint Francis Red Wolves at Mount St. Mary's Mountaineers,Mount St. Mary's Mountaineers,Saint Francis Red Wolves,78,72,1.0
+400918826,2017-01-14T21:00Z,North Florida Ospreys at NJIT Highlanders,NJIT Highlanders,North Florida Ospreys,84,78,1.0
+400917945,2017-01-14T21:00Z,IU Indianapolis Jaguars at Oral Roberts Golden Eagles,Oral Roberts Golden Eagles,IU Indianapolis Jaguars,85,91,0.0
+400916930,2017-01-14T21:00Z,Western Carolina Catamounts at East Tennessee State Buccaneers,East Tennessee State Buccaneers,Western Carolina Catamounts,75,52,1.0
+400916582,2017-01-14T21:00Z,Tulsa Golden Hurricane at Temple Owls,Temple Owls,Tulsa Golden Hurricane,68,70,0.0
+400916581,2017-01-14T21:00Z,Houston Cougars at UCF Knights,UCF Knights,Houston Cougars,77,70,1.0
+400916385,2017-01-14T21:00Z,Northern Colorado Bears at Montana State Bobcats,Montana State Bobcats,Northern Colorado Bears,68,53,1.0
+400915623,2017-01-14T21:00Z,Washington State Cougars at California Golden Bears,California Golden Bears,Washington State Cougars,58,54,1.0
+400915380,2017-01-14T21:00Z,Boston College Eagles at Syracuse Orange,Syracuse Orange,Boston College Eagles,76,53,1.0
+400916033,2017-01-14T21:05Z,Texas State Bobcats at South Alabama Jaguars,South Alabama Jaguars,Texas State Bobcats,72,67,1.0
+400922163,2017-01-14T21:30Z,Sam Houston Bearkats at Northwestern State Demons,Northwestern State Demons,Sam Houston Bearkats,68,77,0.0
+400918863,2017-01-14T21:30Z,Stetson Hatters at Kennesaw State Owls,Kennesaw State Owls,Stetson Hatters,84,65,1.0
+400918350,2017-01-14T21:30Z,Fordham Rams at St. Bonaventure Bonnies,St. Bonaventure Bonnies,Fordham Rams,73,53,1.0
+400916776,2017-01-14T21:30Z,Liberty Flames at Radford Highlanders,Radford Highlanders,Liberty Flames,64,71,0.0
+400916030,2017-01-14T21:30Z,App State Mountaineers at Coastal Carolina Chanticleers,Coastal Carolina Chanticleers,App State Mountaineers,85,73,1.0
+400921974,2017-01-14T22:00Z,Lamar Cardinals at Abilene Christian Wildcats,Abilene Christian Wildcats,Lamar Cardinals,67,64,1.0
+400918773,2017-01-14T22:00Z,Florida Gulf Coast Eagles at Lipscomb Bisons,Lipscomb Bisons,Florida Gulf Coast Eagles,80,84,0.0
+400916031,2017-01-14T22:00Z,Georgia State Panthers at UL Monroe Warhawks,UL Monroe Warhawks,Georgia State Panthers,65,73,0.0
+400916035,2017-01-14T22:15Z,UT Arlington Mavericks at Troy Trojans,Troy Trojans,UT Arlington Mavericks,93,71,1.0
+400916773,2017-01-14T22:30Z,UNC Asheville Bulldogs at Charleston Southern Buccaneers,Charleston Southern Buccaneers,UNC Asheville Bulldogs,67,76,0.0
+400916212,2017-01-14T22:30Z,Iowa State Cyclones at TCU Horned Frogs,TCU Horned Frogs,Iowa State Cyclones,84,77,1.0
+400923003,2017-01-14T23:00Z,Florida A&M Rattlers at Savannah State Tigers,Savannah State Tigers,Florida A&M Rattlers,93,88,1.0
+400919554,2017-01-14T23:00Z,Nevada Wolf Pack at Wyoming Cowboys,Wyoming Cowboys,Nevada Wolf Pack,74,89,0.0
+400919447,2017-01-14T23:00Z,Western Kentucky Hilltoppers at Middle Tennessee Blue Raiders,Middle Tennessee Blue Raiders,Western Kentucky Hilltoppers,91,76,1.0
+400917946,2017-01-14T23:00Z,North Dakota State Bison at Denver Pioneers,Denver Pioneers,North Dakota State Bison,79,55,1.0
+400916583,2017-01-14T23:00Z,South Florida Bulls at Memphis Tigers,Memphis Tigers,South Florida Bulls,62,56,1.0
+400914961,2017-01-14T23:00Z,Maryland Terrapins at Illinois Fighting Illini,Illinois Fighting Illini,Maryland Terrapins,56,62,0.0
+400910591,2017-01-14T23:00Z,Missouri Tigers at Arkansas Razorbacks,Arkansas Razorbacks,Missouri Tigers,92,73,1.0
+400925425,2017-01-14T23:30Z,Jackson State Tigers at Prairie View A&M Panthers,Prairie View A&M Panthers,Jackson State Tigers,63,57,1.0
+400922641,2017-01-14T23:30Z,Alabama State Hornets at Alabama A&M Bulldogs,Alabama A&M Bulldogs,Alabama State Hornets,55,57,0.0
+400922218,2017-01-14T23:30Z,Arkansas-Pine Bluff Golden Lions at Southern Jaguars,Southern Jaguars,Arkansas-Pine Bluff Golden Lions,76,75,1.0
+400920524,2017-01-14T23:30Z,North Carolina Central Eagles at Norfolk State Spartans,Norfolk State Spartans,North Carolina Central Eagles,57,72,0.0
+400910768,2017-01-14T23:30Z,Ole Miss Rebels at South Carolina Gamecocks,South Carolina Gamecocks,Ole Miss Rebels,67,56,1.0
+400922200,2017-01-15T00:00Z,Mississippi Valley State Delta Devils at Alcorn State Braves,Alcorn State Braves,Mississippi Valley State Delta Devils,77,84,0.0
+400922142,2017-01-15T00:00Z,Nicholls Colonels at Stephen F. Austin Lumberjacks,Stephen F. Austin Lumberjacks,Nicholls Colonels,80,60,1.0
+400919824,2017-01-15T00:00Z,Boise State Broncos at Fresno State Bulldogs,Fresno State Bulldogs,Boise State Broncos,89,80,1.0
+400919352,2017-01-15T00:00Z,Southern Miss Golden Eagles at Charlotte 49ers,Charlotte 49ers,Southern Miss Golden Eagles,82,66,1.0
+400918556,2017-01-15T00:00Z,UIC Flames at Youngstown State Penguins,Youngstown State Penguins,UIC Flames,89,92,0.0
+400917796,2017-01-15T00:00Z,Belmont Bruins at Eastern Kentucky Colonels,Eastern Kentucky Colonels,Belmont Bruins,59,72,0.0
+400917582,2017-01-15T00:00Z,Monmouth Hawks at Niagara Purple Eagles,Niagara Purple Eagles,Monmouth Hawks,83,90,0.0
+400916928,2017-01-15T00:00Z,Furman Paladins at Wofford Terriers,Wofford Terriers,Furman Paladins,67,58,1.0
+400916775,2017-01-15T00:00Z,Presbyterian Blue Hose at High Point Panthers,High Point Panthers,Presbyterian Blue Hose,77,44,1.0
+400917800,2017-01-15T00:15Z,Southeast Missouri State Redhawks at UT Martin Skyhawks,UT Martin Skyhawks,Southeast Missouri State Redhawks,79,69,1.0
+400916032,2017-01-15T00:15Z,Arkansas State Red Wolves at Little Rock Trojans,Little Rock Trojans,Arkansas State Red Wolves,72,77,0.0
+400917798,2017-01-15T00:45Z,Tennessee State Tigers at Morehead State Eagles,Morehead State Eagles,Tennessee State Tigers,87,85,1.0
+400922030,2017-01-15T01:00Z,Central Arkansas Bears at Texas A&M-Corpus Christi Islanders,Texas A&M-Corpus Christi Islanders,Central Arkansas Bears,88,81,1.0
+400919340,2017-01-15T01:00Z,Yale Bulldogs at Princeton Tigers,Princeton Tigers,Yale Bulldogs,66,58,1.0
+400919265,2017-01-15T01:00Z,Brown Bears at Pennsylvania Quakers,Pennsylvania Quakers,Brown Bears,70,82,0.0
+400918893,2017-01-15T01:00Z,Cal State Fullerton Titans at UC Irvine Anteaters,UC Irvine Anteaters,Cal State Fullerton Titans,87,67,1.0
+400918119,2017-01-15T01:00Z,Wichita State Shockers at Illinois State Redbirds,Illinois State Redbirds,Wichita State Shockers,76,62,1.0
+400918060,2017-01-15T01:00Z,Grand Canyon Lopes at UT Rio Grande Valley Vaqueros,UT Rio Grande Valley Vaqueros,Grand Canyon Lopes,66,79,0.0
+400917947,2017-01-15T01:00Z,Western Illinois Leathernecks at Omaha Mavericks,Omaha Mavericks,Western Illinois Leathernecks,86,72,1.0
+400917799,2017-01-15T01:00Z,Murray State Racers at SIU Edwardsville Cougars,SIU Edwardsville Cougars,Murray State Racers,59,67,0.0
+400915831,2017-01-15T01:00Z,Santa Clara Broncos at Pepperdine Waves,Pepperdine Waves,Santa Clara Broncos,61,75,0.0
+400915625,2017-01-15T01:00Z,Washington Huskies at Stanford Cardinal,Stanford Cardinal,Washington Huskies,76,69,1.0
+400916034,2017-01-15T01:15Z,Georgia Southern Eagles at Louisiana Ragin' Cajuns,Louisiana Ragin' Cajuns,Georgia Southern Eagles,76,81,0.0
+400922921,2017-01-15T01:30Z,Grambling Tigers at Texas Southern Tigers,Texas Southern Tigers,Grambling Tigers,76,55,1.0
+400916386,2017-01-15T01:30Z,Portland State Vikings at Southern Utah Thunderbirds,Southern Utah Thunderbirds,Portland State Vikings,77,88,0.0
+400916213,2017-01-15T01:30Z,Texas Tech Red Raiders at Oklahoma Sooners,Oklahoma Sooners,Texas Tech Red Raiders,84,75,1.0
+400910803,2017-01-15T01:30Z,Tennessee Volunteers at Vanderbilt Commodores,Vanderbilt Commodores,Tennessee Volunteers,75,87,0.0
+400917797,2017-01-15T01:50Z,Jacksonville State Gamecocks at Tennessee Tech Golden Eagles,Tennessee Tech Golden Eagles,Jacksonville State Gamecocks,59,74,0.0
+400919372,2017-01-15T02:00Z,Florida Atlantic Owls at UTEP Miners,UTEP Miners,Florida Atlantic Owls,66,65,1.0
+400918061,2017-01-15T02:00Z,Kansas City Roos at Utah Valley Wolverines,Utah Valley Wolverines,Kansas City Roos,86,76,1.0
+400918058,2017-01-15T02:00Z,Cal State Bakersfield Roadrunners at New Mexico State Aggies,New Mexico State Aggies,Cal State Bakersfield Roadrunners,63,58,1.0
+400916389,2017-01-15T02:00Z,Eastern Washington Eagles at Weber State Wildcats,Weber State Wildcats,Eastern Washington Eagles,70,67,1.0
+400916388,2017-01-15T02:00Z,North Dakota Fighting Hawks at Montana Grizzlies,Montana Grizzlies,North Dakota Fighting Hawks,76,70,1.0
+400916390,2017-01-15T02:05Z,Idaho Vandals at Idaho State Bengals,Idaho State Bengals,Idaho Vandals,62,77,0.0
+400919555,2017-01-15T03:00Z,Utah State Aggies at San Diego State Aztecs,San Diego State Aztecs,Utah State Aggies,74,55,1.0
+400918875,2017-01-15T03:00Z,Cal Poly Mustangs at UC Santa Barbara Gauchos,UC Santa Barbara Gauchos,Cal Poly Mustangs,58,53,1.0
+400918059,2017-01-15T03:00Z,Chicago State Cougars at Seattle U Redhawks,Seattle U Redhawks,Chicago State Cougars,65,50,1.0
+400915830,2017-01-15T03:00Z,Loyola Marymount Lions at Portland Pilots,Portland Pilots,Loyola Marymount Lions,78,79,0.0
+400915829,2017-01-15T03:00Z,BYU Cougars at San Diego Toreros,San Diego Toreros,BYU Cougars,88,75,1.0
+400918912,2017-01-15T03:30Z,UC Davis Aggies at Cal State Northridge Matadors,Cal State Northridge Matadors,UC Davis Aggies,68,71,0.0
+400915832,2017-01-15T04:00Z,Pacific Tigers at San Francisco Dons,San Francisco Dons,Pacific Tigers,72,51,1.0
+400918931,2017-01-15T04:59Z,Long Beach State Beach at Hawai'i Rainbow Warriors,Hawai'i Rainbow Warriors,Long Beach State Beach,114,107,1.0
+400916585,2017-01-15T21:00Z,Cincinnati Bearcats at East Carolina Pirates,East Carolina Pirates,Cincinnati Bearcats,46,55,0.0
+400914978,2017-01-15T17:00Z,Rutgers Scarlet Knights at Indiana Hoosiers,Indiana Hoosiers,Rutgers Scarlet Knights,76,57,1.0
+400915077,2017-01-15T18:30Z,Michigan State Spartans at Ohio State Buckeyes,Ohio State Buckeyes,Michigan State Spartans,72,67,1.0
+400917585,2017-01-15T19:00Z,Saint Peter's Peacocks at Rider Broncs,Rider Broncs,Saint Peter's Peacocks,65,71,0.0
+400917584,2017-01-15T19:00Z,Siena Saints at Fairfield Stags,Fairfield Stags,Siena Saints,54,63,0.0
+400918423,2017-01-15T19:30Z,Massachusetts Minutemen at Rhode Island Rams,Rhode Island Rams,Massachusetts Minutemen,79,77,1.0
+400922127,2017-01-15T21:00Z,McNeese Cowboys at SE Louisiana Lions,SE Louisiana Lions,McNeese Cowboys,79,75,1.0
+400918181,2017-01-15T21:00Z,Missouri State Bears at Loyola Chicago Ramblers,Loyola Chicago Ramblers,Missouri State Bears,77,71,1.0
+400918163,2017-01-15T21:00Z,Drake Bulldogs at Northern Iowa Panthers,Northern Iowa Panthers,Drake Bulldogs,79,60,1.0
+400918367,2017-01-15T21:30Z,George Washington Revolutionaries at La Salle Explorers,La Salle Explorers,George Washington Revolutionaries,79,69,1.0
+400916586,2017-01-15T23:00Z,SMU Mustangs at Tulane Green Wave,Tulane Green Wave,SMU Mustangs,64,80,0.0
+400915381,2017-01-15T23:30Z,Georgia Tech Yellow Jackets at NC State Wolfpack,NC State Wolfpack,Georgia Tech Yellow Jackets,76,86,0.0
+400915009,2017-01-16T00:30Z,Iowa Hawkeyes at Northwestern Wildcats,Northwestern Wildcats,Iowa Hawkeyes,89,54,1.0
+400915627,2017-01-16T01:30Z,USC Trojans at Colorado Buffaloes,Colorado Buffaloes,USC Trojans,68,71,0.0
+400919687,2017-01-16T23:30Z,Seton Hall Pirates at Villanova Wildcats,Villanova Wildcats,Seton Hall Pirates,76,46,1.0
+400916214,2017-01-17T02:00Z,Kansas Jayhawks at Iowa State Cyclones,Iowa State Cyclones,Kansas Jayhawks,72,76,0.0
+400915382,2017-01-17T00:00Z,Syracuse Orange at North Carolina Tar Heels,North Carolina Tar Heels,Syracuse Orange,85,68,1.0
+400919684,2017-01-16T17:00Z,Marquette Golden Eagles at Butler Bulldogs,Butler Bulldogs,Marquette Golden Eagles,88,80,1.0
+400918729,2017-01-16T18:00Z,Vermont Catamounts at New Hampshire Wildcats,New Hampshire Wildcats,Vermont Catamounts,59,71,0.0
+400918669,2017-01-16T18:00Z,Maine Black Bears at Hartford Hawks,Hartford Hawks,Maine Black Bears,54,44,1.0
+400918616,2017-01-16T18:00Z,UAlbany Great Danes at UMBC Retrievers,UMBC Retrievers,UAlbany Great Danes,50,77,0.0
+400919685,2017-01-16T19:00Z,Creighton Bluejays at Xavier Musketeers,Xavier Musketeers,Creighton Bluejays,67,72,0.0
+400918709,2017-01-16T19:00Z,Stony Brook Seawolves at UMass Lowell River Hawks,UMass Lowell River Hawks,Stony Brook Seawolves,75,86,0.0
+400916037,2017-01-16T20:00Z,UT Arlington Mavericks at South Alabama Jaguars,South Alabama Jaguars,UT Arlington Mavericks,83,89,0.0
+400920405,2017-01-16T21:25Z,Coppin State Eagles at Howard Bison,Howard Bison,Coppin State Eagles,72,81,0.0
+400919686,2017-01-16T21:30Z,DePaul Blue Demons at St. John's Red Storm,St. John's Red Storm,DePaul Blue Demons,78,68,1.0
+400933772,2017-01-16T22:30Z,Portland State Vikings at Northern Arizona Lumberjacks,Northern Arizona Lumberjacks,Portland State Vikings,83,76,1.0
+400920368,2017-01-16T23:00Z,Bethune-Cookman Wildcats at Florida A&M Rattlers,Florida A&M Rattlers,Bethune-Cookman Wildcats,76,82,0.0
+400919556,2017-01-17T00:00Z,North Carolina Central Eagles at Hampton Pirates,Hampton Pirates,North Carolina Central Eagles,51,64,0.0
+400919197,2017-01-17T00:00Z,Harvard Crimson at Bryant Bulldogs,Bryant Bulldogs,Harvard Crimson,65,70,0.0
+400919070,2017-01-17T00:00Z,Boston University Terriers at Loyola Maryland Greyhounds,Loyola Maryland Greyhounds,Boston University Terriers,77,69,1.0
+400918506,2017-01-17T00:00Z,Youngstown State Penguins at Detroit Mercy Titans,Detroit Mercy Titans,Youngstown State Penguins,87,71,1.0
+400918486,2017-01-17T00:00Z,Cleveland State Vikings at Oakland Golden Grizzlies,Oakland Golden Grizzlies,Cleveland State Vikings,65,76,0.0
+400917587,2017-01-17T00:00Z,Marist Red Foxes at Niagara Purple Eagles,Niagara Purple Eagles,Marist Red Foxes,87,93,0.0
+400917586,2017-01-17T00:00Z,Monmouth Hawks at Canisius Golden Griffins,Canisius Golden Griffins,Monmouth Hawks,72,76,0.0
+400922249,2017-01-17T00:30Z,Mississippi Valley State Delta Devils at Southern Jaguars,Southern Jaguars,Mississippi Valley State Delta Devils,87,81,1.0
+400923004,2017-01-17T01:00Z,Savannah State Tigers at South Carolina State Bulldogs,South Carolina State Bulldogs,Savannah State Tigers,82,86,0.0
+400920494,2017-01-17T01:00Z,North Carolina A&T Aggies at Morgan State Bears,Morgan State Bears,North Carolina A&T Aggies,82,53,1.0
+400920422,2017-01-17T01:00Z,Norfolk State Spartans at Delaware State Hornets,Delaware State Hornets,Norfolk State Spartans,70,75,0.0
+400918523,2017-01-17T01:00Z,Green Bay Phoenix at Valparaiso Beacons,Valparaiso Beacons,Green Bay Phoenix,80,56,1.0
+400916039,2017-01-17T01:00Z,Texas State Bobcats at Troy Trojans,Troy Trojans,Texas State Bobcats,71,75,0.0
+400916038,2017-01-17T01:00Z,Georgia State Panthers at Louisiana Ragin' Cajuns,Louisiana Ragin' Cajuns,Georgia State Panthers,86,101,0.0
+400916036,2017-01-17T01:00Z,Georgia Southern Eagles at UL Monroe Warhawks,UL Monroe Warhawks,Georgia Southern Eagles,60,62,0.0
+400922259,2017-01-17T01:30Z,Grambling Tigers at Prairie View A&M Panthers,Prairie View A&M Panthers,Grambling Tigers,94,82,1.0
+400922201,2017-01-17T01:50Z,Arkansas-Pine Bluff Golden Lions at Alcorn State Braves,Alcorn State Braves,Arkansas-Pine Bluff Golden Lions,82,64,1.0
+400919688,2017-01-17T02:00Z,Providence Friars at Georgetown Hoyas,Georgetown Hoyas,Providence Friars,56,74,0.0
+400919557,2017-01-17T02:00Z,Jackson State Tigers at Texas Southern Tigers,Texas Southern Tigers,Jackson State Tigers,67,44,1.0
+400911034,2017-01-18T00:00Z,Texas Longhorns at Baylor Bears,Baylor Bears,Texas Longhorns,74,64,1.0
+400914962,2017-01-18T00:00Z,Illinois Fighting Illini at Purdue Boilermakers,Purdue Boilermakers,Illinois Fighting Illini,91,68,1.0
+400917590,2017-01-18T00:00Z,Rider Broncs at Siena Saints,Siena Saints,Rider Broncs,78,68,1.0
+400917589,2017-01-18T00:00Z,Iona Gaels at Manhattan Jaspers,Manhattan Jaspers,Iona Gaels,67,82,0.0
+400917588,2017-01-18T00:00Z,Saint Peter's Peacocks at Fairfield Stags,Fairfield Stags,Saint Peter's Peacocks,55,69,0.0
+400917131,2017-01-18T00:00Z,Western Michigan Broncos at Eastern Michigan Eagles,Eastern Michigan Eagles,Western Michigan Broncos,86,80,1.0
+400917130,2017-01-18T00:00Z,Ohio Bobcats at Akron Zips,Akron Zips,Ohio Bobcats,83,68,1.0
+400917128,2017-01-18T00:00Z,Central Michigan Chippewas at Ball State Cardinals,Ball State Cardinals,Central Michigan Chippewas,98,83,1.0
+400917127,2017-01-18T00:00Z,Buffalo Bulls at Kent State Golden Flashes,Kent State Golden Flashes,Buffalo Bulls,69,82,0.0
+400917126,2017-01-18T00:00Z,Bowling Green Falcons at Toledo Rockets,Toledo Rockets,Bowling Green Falcons,85,73,1.0
+400916587,2017-01-18T00:00Z,South Florida Bulls at UCF Knights,UCF Knights,South Florida Bulls,86,64,1.0
+400915383,2017-01-18T00:00Z,Pittsburgh Panthers at NC State Wolfpack,NC State Wolfpack,Pittsburgh Panthers,79,74,1.0
+400910694,2017-01-18T00:00Z,Kentucky Wildcats at Mississippi State Bulldogs,Mississippi State Bulldogs,Kentucky Wildcats,81,88,0.0
+400910592,2017-01-18T00:00Z,Arkansas Razorbacks at Texas A&M Aggies,Texas A&M Aggies,Arkansas Razorbacks,60,62,0.0
+400918540,2017-01-18T01:00Z,Milwaukee Panthers at UIC Flames,UIC Flames,Milwaukee Panthers,71,57,1.0
+400917129,2017-01-18T01:00Z,Miami (OH) RedHawks at Northern Illinois Huskies,Northern Illinois Huskies,Miami (OH) RedHawks,62,58,1.0
+400918464,2017-01-18T02:00Z,St. Bonaventure Bonnies at Saint Louis Billikens,Saint Louis Billikens,St. Bonaventure Bonnies,52,71,0.0
+400918120,2017-01-18T02:00Z,Wichita State Shockers at Evansville Purple Aces,Evansville Purple Aces,Wichita State Shockers,65,82,0.0
+400918062,2017-01-18T02:00Z,San Diego Christian Hawks at Grand Canyon Lopes,Grand Canyon Lopes,San Diego Christian Hawks,90,58,1.0
+400914935,2017-01-18T02:00Z,Michigan Wolverines at Wisconsin Badgers,Wisconsin Badgers,Michigan Wolverines,68,64,1.0
+400910769,2017-01-18T02:00Z,Tennessee Volunteers at Ole Miss Rebels,Ole Miss Rebels,Tennessee Volunteers,80,69,1.0
+400910670,2017-01-18T02:00Z,Vanderbilt Commodores at Georgia Bulldogs,Georgia Bulldogs,Vanderbilt Commodores,76,68,1.0
+400919861,2017-01-18T03:00Z,San Diego State Aztecs at UNLV Rebels,UNLV Rebels,San Diego State Aztecs,51,64,0.0
+400919825,2017-01-18T04:00Z,New Mexico Lobos at Boise State Broncos,Boise State Broncos,New Mexico Lobos,70,81,0.0
+400916216,2017-01-19T00:00Z,Oklahoma Sooners at West Virginia Mountaineers,West Virginia Mountaineers,Oklahoma Sooners,87,89,0.0
+400915384,2017-01-19T00:00Z,Notre Dame Fighting Irish at Florida State Seminoles,Florida State Seminoles,Notre Dame Fighting Irish,83,80,1.0
+400910645,2017-01-18T23:30Z,Florida Gators at South Carolina Gamecocks,South Carolina Gamecocks,Florida Gators,57,53,1.0
+400916589,2017-01-19T00:00Z,Temple Owls at Cincinnati Bearcats,Cincinnati Bearcats,Temple Owls,81,74,1.0
+400919074,2017-01-19T00:00Z,Loyola Maryland Greyhounds at Bucknell Bison,Bucknell Bison,Loyola Maryland Greyhounds,76,63,1.0
+400919073,2017-01-19T00:00Z,Holy Cross Crusaders at Army Black Knights,Army Black Knights,Holy Cross Crusaders,76,85,0.0
+400919072,2017-01-19T00:00Z,Lehigh Mountain Hawks at Navy Midshipmen,Navy Midshipmen,Lehigh Mountain Hawks,75,72,1.0
+400919071,2017-01-19T00:00Z,Colgate Raiders at Boston University Terriers,Boston University Terriers,Colgate Raiders,58,67,0.0
+400918424,2017-01-19T00:00Z,Saint Joseph's Hawks at Massachusetts Minutemen,Massachusetts Minutemen,Saint Joseph's Hawks,62,57,1.0
+400918351,2017-01-19T00:00Z,VCU Rams at Fordham Rams,Fordham Rams,VCU Rams,69,67,1.0
+400918330,2017-01-19T00:00Z,Duquesne Dukes at George Washington Revolutionaries,George Washington Revolutionaries,Duquesne Dukes,65,63,1.0
+400918182,2017-01-19T00:00Z,Missouri State Bears at Indiana State Sycamores,Indiana State Sycamores,Missouri State Bears,68,73,0.0
+400917948,2017-01-19T00:00Z,South Dakota State Jackrabbits at IU Indianapolis Jaguars,IU Indianapolis Jaguars,South Dakota State Jackrabbits,85,83,1.0
+400914979,2017-01-19T00:00Z,Indiana Hoosiers at Penn State Nittany Lions,Penn State Nittany Lions,Indiana Hoosiers,75,78,0.0
+400910555,2017-01-19T00:00Z,Missouri Tigers at Alabama Crimson Tide,Alabama Crimson Tide,Missouri Tigers,68,56,1.0
+400919075,2017-01-19T00:30Z,Lafayette Leopards at American University Eagles,American University Eagles,Lafayette Leopards,71,57,1.0
+400916588,2017-01-19T00:30Z,Tulane Green Wave at Tulsa Golden Hurricane,Tulsa Golden Hurricane,Tulane Green Wave,89,82,1.0
+400916215,2017-01-19T00:30Z,TCU Horned Frogs at Texas Tech Red Raiders,Texas Tech Red Raiders,TCU Horned Frogs,75,69,1.0
+400922031,2017-01-19T01:00Z,Central Arkansas Bears at McNeese Cowboys,McNeese Cowboys,Central Arkansas Bears,82,72,1.0
+400918164,2017-01-19T01:00Z,Loyola Chicago Ramblers at Northern Iowa Panthers,Northern Iowa Panthers,Loyola Chicago Ramblers,72,69,1.0
+400918145,2017-01-19T01:00Z,Southern Illinois Salukis at Drake Bulldogs,Drake Bulldogs,Southern Illinois Salukis,88,84,1.0
+400917950,2017-01-19T01:00Z,South Dakota Coyotes at Oral Roberts Golden Eagles,Oral Roberts Golden Eagles,South Dakota Coyotes,90,80,1.0
+400917949,2017-01-19T01:00Z,Denver Pioneers at Omaha Mavericks,Omaha Mavericks,Denver Pioneers,97,88,1.0
+400915386,2017-01-19T01:00Z,Miami Hurricanes at Wake Forest Demon Deacons,Wake Forest Demon Deacons,Miami Hurricanes,96,79,1.0
+400915385,2017-01-19T01:00Z,Virginia Cavaliers at Boston College Eagles,Boston College Eagles,Virginia Cavaliers,54,71,0.0
+400918063,2017-01-19T01:05Z,Roosevelt Lakers at Chicago State Cougars,Chicago State Cougars,Roosevelt Lakers,77,57,1.0
+400910621,2017-01-19T01:30Z,LSU Tigers at Auburn Tigers,Auburn Tigers,LSU Tigers,78,74,1.0
+400918227,2017-01-19T02:00Z,Illinois State Redbirds at Bradley Braves,Bradley Braves,Illinois State Redbirds,49,69,0.0
+400916217,2017-01-19T02:00Z,Kansas State Wildcats at Oklahoma State Cowboys,Oklahoma State Cowboys,Kansas State Wildcats,88,96,0.0
+400915628,2017-01-19T02:00Z,Utah Utes at Washington State Cougars,Washington State Cougars,Utah Utes,47,88,0.0
+400915387,2017-01-19T02:00Z,Georgia Tech Yellow Jackets at Virginia Tech Hokies,Virginia Tech Hokies,Georgia Tech Yellow Jackets,62,61,1.0
+400915112,2017-01-19T02:00Z,Ohio State Buckeyes at Nebraska Cornhuskers,Nebraska Cornhuskers,Ohio State Buckeyes,66,67,0.0
+400919933,2017-01-19T03:00Z,Wyoming Cowboys at San José State Spartans,San José State Spartans,Wyoming Cowboys,70,80,0.0
+400919808,2017-01-19T03:00Z,Air Force Falcons at Nevada Wolf Pack,Nevada Wolf Pack,Air Force Falcons,83,76,1.0
+400918894,2017-01-19T03:00Z,UC Riverside Highlanders at Cal State Fullerton Titans,Cal State Fullerton Titans,UC Riverside Highlanders,63,71,0.0
+400918876,2017-01-19T03:00Z,UC Irvine Anteaters at Cal Poly Mustangs,Cal Poly Mustangs,UC Irvine Anteaters,48,70,0.0
+400919844,2017-01-19T04:00Z,Colorado State Rams at Fresno State Bulldogs,Fresno State Bulldogs,Colorado State Rams,78,57,1.0
+400915629,2017-01-19T04:00Z,Colorado Buffaloes at Washington Huskies,Washington Huskies,Colorado Buffaloes,85,83,1.0
+400918913,2017-01-19T04:59Z,Cal State Northridge Matadors at Hawai'i Rainbow Warriors,Hawai'i Rainbow Warriors,Cal State Northridge Matadors,80,77,1.0
+400915633,2017-01-20T04:00Z,Arizona State Sun Devils at UCLA Bruins,UCLA Bruins,Arizona State Sun Devils,102,80,1.0
+400915388,2017-01-20T02:00Z,Clemson Tigers at Louisville Cardinals,Louisville Cardinals,Clemson Tigers,92,60,1.0
+400915631,2017-01-20T02:00Z,Arizona Wildcats at USC Trojans,USC Trojans,Arizona Wildcats,66,73,0.0
+400915836,2017-01-20T04:00Z,Pacific Tigers at Saint Mary's Gaels,Saint Mary's Gaels,Pacific Tigers,62,50,1.0
+400915010,2017-01-20T00:00Z,Maryland Terrapins at Iowa Hawkeyes,Iowa Hawkeyes,Maryland Terrapins,76,84,0.0
+400919768,2017-01-20T00:00Z,James Madison Dukes at William & Mary Tribe,William & Mary Tribe,James Madison Dukes,73,72,1.0
+400919637,2017-01-20T00:00Z,Towson Tigers at Hofstra Pride,Hofstra Pride,Towson Tigers,80,86,0.0
+400919607,2017-01-20T00:00Z,Drexel Dragons at Elon Phoenix,Elon Phoenix,Drexel Dragons,93,73,1.0
+400919590,2017-01-20T00:00Z,Northeastern Huskies at Delaware Blue Hens,Delaware Blue Hens,Northeastern Huskies,69,62,1.0
+400919569,2017-01-20T00:00Z,UNC Wilmington Seahawks at Charleston Cougars,Charleston Cougars,UNC Wilmington Seahawks,59,65,0.0
+400919392,2017-01-20T00:00Z,Middle Tennessee Blue Raiders at Florida International Panthers,Florida International Panthers,Middle Tennessee Blue Raiders,52,65,0.0
+400919202,2017-01-20T00:00Z,St. Francis Brooklyn Terriers at Fairleigh Dickinson Knights,Fairleigh Dickinson Knights,St. Francis Brooklyn Terriers,57,40,1.0
+400919201,2017-01-20T00:00Z,Mount St. Mary's Mountaineers at Sacred Heart Pioneers,Sacred Heart Pioneers,Mount St. Mary's Mountaineers,75,86,0.0
+400919200,2017-01-20T00:00Z,Bryant Bulldogs at Saint Francis Red Wolves,Saint Francis Red Wolves,Bryant Bulldogs,75,61,1.0
+400919199,2017-01-20T00:00Z,Central Connecticut Blue Devils at Robert Morris Colonials,Robert Morris Colonials,Central Connecticut Blue Devils,74,67,1.0
+400919198,2017-01-20T00:00Z,Wagner Seahawks at Long Island University Sharks,Long Island University Sharks,Wagner Seahawks,76,69,1.0
+400918838,2017-01-20T00:00Z,Kennesaw State Owls at North Florida Ospreys,North Florida Ospreys,Kennesaw State Owls,86,84,1.0
+400918827,2017-01-20T00:00Z,NJIT Highlanders at Stetson Hatters,Stetson Hatters,NJIT Highlanders,82,76,1.0
+400918797,2017-01-20T00:00Z,Lipscomb Bisons at Jacksonville Dolphins,Jacksonville Dolphins,Lipscomb Bisons,95,112,0.0
+400918774,2017-01-20T00:00Z,South Carolina Upstate Spartans at Florida Gulf Coast Eagles,Florida Gulf Coast Eagles,South Carolina Upstate Spartans,60,62,0.0
+400918710,2017-01-20T00:00Z,UMass Lowell River Hawks at Vermont Catamounts,Vermont Catamounts,UMass Lowell River Hawks,81,67,1.0
+400918694,2017-01-20T00:00Z,New Hampshire Wildcats at Maine Black Bears,Maine Black Bears,New Hampshire Wildcats,63,74,0.0
+400918670,2017-01-20T00:00Z,Hartford Hawks at Stony Brook Seawolves,Stony Brook Seawolves,Hartford Hawks,80,64,1.0
+400918617,2017-01-20T00:00Z,Binghamton Bearcats at UAlbany Great Danes,UAlbany Great Danes,Binghamton Bearcats,84,65,1.0
+400918307,2017-01-20T00:00Z,Richmond Spiders at Dayton Flyers,Dayton Flyers,Richmond Spiders,75,59,1.0
+400918270,2017-01-20T00:00Z,Davidson Wildcats at La Salle Explorers,La Salle Explorers,Davidson Wildcats,91,83,1.0
+400916935,2017-01-20T00:00Z,Mercer Bears at UNC Greensboro Spartans,UNC Greensboro Spartans,Mercer Bears,68,66,1.0
+400916934,2017-01-20T00:00Z,VMI Keydets at Wofford Terriers,Wofford Terriers,VMI Keydets,88,70,1.0
+400916933,2017-01-20T00:00Z,East Tennessee State Buccaneers at Furman Paladins,Furman Paladins,East Tennessee State Buccaneers,75,62,1.0
+400916932,2017-01-20T00:00Z,The Citadel Bulldogs at Western Carolina Catamounts,Western Carolina Catamounts,The Citadel Bulldogs,100,95,1.0
+400916780,2017-01-20T00:00Z,Radford Highlanders at Longwood Lancers,Longwood Lancers,Radford Highlanders,60,72,0.0
+400916779,2017-01-20T00:00Z,Gardner-Webb Runnin' Bulldogs at Liberty Flames,Liberty Flames,Gardner-Webb Runnin' Bulldogs,65,62,1.0
+400916778,2017-01-20T00:00Z,Charleston Southern Buccaneers at Presbyterian Blue Hose,Presbyterian Blue Hose,Charleston Southern Buccaneers,52,73,0.0
+400916777,2017-01-20T00:00Z,High Point Panthers at Campbell Fighting Camels,Campbell Fighting Camels,High Point Panthers,78,83,0.0
+400916590,2017-01-20T00:00Z,UConn Huskies at SMU Mustangs,SMU Mustangs,UConn Huskies,69,49,1.0
+400922109,2017-01-20T00:30Z,Lamar Cardinals at Sam Houston Bearkats,Sam Houston Bearkats,Lamar Cardinals,87,65,1.0
+400919415,2017-01-20T00:30Z,Rice Owls at Louisiana Tech Bulldogs,Louisiana Tech Bulldogs,Rice Owls,74,64,1.0
+400917804,2017-01-20T00:30Z,SIU Edwardsville Cougars at Southeast Missouri State Redhawks,Southeast Missouri State Redhawks,SIU Edwardsville Cougars,79,76,1.0
+400922189,2017-01-20T01:00Z,Stephen F. Austin Lumberjacks at Texas A&M-Corpus Christi Islanders,Texas A&M-Corpus Christi Islanders,Stephen F. Austin Lumberjacks,58,61,0.0
+400922051,2017-01-20T01:00Z,Houston Christian Huskies at LSU New Orleans Privateers,LSU New Orleans Privateers,Houston Christian Huskies,72,64,1.0
+400919463,2017-01-20T01:00Z,North Texas Mean Green at Southern Miss Golden Eagles,Southern Miss Golden Eagles,North Texas Mean Green,75,65,1.0
+400919373,2017-01-20T01:00Z,UAB Blazers at Florida Atlantic Owls,Florida Atlantic Owls,UAB Blazers,78,80,0.0
+400917951,2017-01-20T01:00Z,Purdue Fort Wayne Mastodons at North Dakota State Bison,North Dakota State Bison,Purdue Fort Wayne Mastodons,89,83,1.0
+400917806,2017-01-20T01:00Z,Tennessee Tech Golden Eagles at Tennessee State Tigers,Tennessee State Tigers,Tennessee Tech Golden Eagles,74,80,0.0
+400917805,2017-01-20T01:00Z,Eastern Kentucky Colonels at Murray State Racers,Murray State Racers,Eastern Kentucky Colonels,86,79,1.0
+400917803,2017-01-20T01:00Z,Eastern Illinois Panthers at UT Martin Skyhawks,UT Martin Skyhawks,Eastern Illinois Panthers,82,71,1.0
+400917802,2017-01-20T01:00Z,Jacksonville State Gamecocks at Belmont Bruins,Belmont Bruins,Jacksonville State Gamecocks,77,60,1.0
+400917801,2017-01-20T01:00Z,Morehead State Eagles at Austin Peay Governors,Austin Peay Governors,Morehead State Eagles,82,89,0.0
+400917591,2017-01-20T01:00Z,Siena Saints at Saint Peter's Peacocks,Saint Peter's Peacocks,Siena Saints,77,65,1.0
+400916392,2017-01-20T01:00Z,Weber State Wildcats at North Dakota Fighting Hawks,North Dakota Fighting Hawks,Weber State Wildcats,83,77,1.0
+400921975,2017-01-20T02:00Z,Abilene Christian Wildcats at Nicholls Colonels,Nicholls Colonels,Abilene Christian Wildcats,62,59,1.0
+400916781,2017-01-20T02:00Z,UNC Asheville Bulldogs at Winthrop Eagles,Winthrop Eagles,UNC Asheville Bulldogs,76,73,1.0
+400916591,2017-01-20T02:00Z,Memphis Tigers at Houston Cougars,Houston Cougars,Memphis Tigers,67,70,0.0
+400916393,2017-01-20T02:00Z,Idaho State Bengals at Northern Colorado Bears,Northern Colorado Bears,Idaho State Bengals,69,73,0.0
+400915834,2017-01-20T02:00Z,Pepperdine Waves at BYU Cougars,BYU Cougars,Pepperdine Waves,99,70,1.0
+400915630,2017-01-20T02:00Z,California Golden Bears at Oregon Ducks,Oregon Ducks,California Golden Bears,86,63,1.0
+400916391,2017-01-20T02:05Z,Northern Arizona Lumberjacks at Eastern Washington Eagles,Eastern Washington Eagles,Northern Arizona Lumberjacks,84,62,1.0
+400916394,2017-01-20T03:00Z,Southern Utah Thunderbirds at Idaho Vandals,Idaho Vandals,Southern Utah Thunderbirds,79,67,1.0
+400915837,2017-01-20T03:00Z,Portland Pilots at San Francisco Dons,San Francisco Dons,Portland Pilots,75,50,1.0
+400915835,2017-01-20T03:00Z,San Diego Toreros at Loyola Marymount Lions,Loyola Marymount Lions,San Diego Toreros,62,69,0.0
+400916396,2017-01-20T03:05Z,Montana State Bobcats at Sacramento State Hornets,Sacramento State Hornets,Montana State Bobcats,65,74,0.0
+400916395,2017-01-20T03:05Z,Montana Grizzlies at Portland State Vikings,Portland State Vikings,Montana Grizzlies,88,79,1.0
+400918946,2017-01-20T03:30Z,UC Santa Barbara Gauchos at Long Beach State Beach,Long Beach State Beach,UC Santa Barbara Gauchos,81,76,1.0
+400915838,2017-01-20T04:00Z,Gonzaga Bulldogs at Santa Clara Broncos,Santa Clara Broncos,Gonzaga Bulldogs,57,88,0.0
+400915632,2017-01-20T04:00Z,Stanford Cardinal at Oregon State Beavers,Oregon State Beavers,Stanford Cardinal,46,62,0.0
+400917133,2017-01-20T23:30Z,Eastern Michigan Eagles at Akron Zips,Akron Zips,Eastern Michigan Eagles,70,63,1.0
+400918571,2017-01-21T00:00Z,Oakland Golden Grizzlies at Northern Kentucky Norse,Northern Kentucky Norse,Oakland Golden Grizzlies,70,79,0.0
+400918507,2017-01-21T00:00Z,Detroit Mercy Titans at Wright State Raiders,Wright State Raiders,Detroit Mercy Titans,106,88,1.0
+400917594,2017-01-21T00:00Z,Canisius Golden Griffins at Quinnipiac Bobcats,Quinnipiac Bobcats,Canisius Golden Griffins,95,90,1.0
+400917593,2017-01-21T00:00Z,Manhattan Jaspers at Monmouth Hawks,Monmouth Hawks,Manhattan Jaspers,82,71,1.0
+400917592,2017-01-21T00:00Z,Fairfield Stags at Iona Gaels,Iona Gaels,Fairfield Stags,96,89,1.0
+400919266,2017-01-21T01:00Z,Yale Bulldogs at Brown Bears,Brown Bears,Yale Bulldogs,74,75,0.0
+400918524,2017-01-21T01:00Z,Youngstown State Penguins at Green Bay Phoenix,Green Bay Phoenix,Youngstown State Penguins,89,92,0.0
+400918487,2017-01-21T01:00Z,Cleveland State Vikings at Milwaukee Panthers,Milwaukee Panthers,Cleveland State Vikings,63,62,1.0
+400919689,2017-01-21T17:00Z,Providence Friars at Villanova Wildcats,Villanova Wildcats,Providence Friars,78,68,1.0
+400911035,2017-01-21T19:00Z,Texas Longhorns at Kansas Jayhawks,Kansas Jayhawks,Texas Longhorns,79,67,1.0
+400915635,2017-01-21T21:00Z,Arizona Wildcats at UCLA Bruins,UCLA Bruins,Arizona Wildcats,85,96,0.0
+400915840,2017-01-22T01:00Z,Portland Pilots at Gonzaga Bulldogs,Gonzaga Bulldogs,Portland Pilots,73,52,1.0
+400910695,2017-01-21T23:00Z,South Carolina Gamecocks at Kentucky Wildcats,Kentucky Wildcats,South Carolina Gamecocks,85,69,1.0
+400916221,2017-01-22T01:00Z,Baylor Bears at TCU Horned Frogs,TCU Horned Frogs,Baylor Bears,53,62,0.0
+400919691,2017-01-21T19:30Z,Marquette Golden Eagles at Creighton Bluejays,Creighton Bluejays,Marquette Golden Eagles,94,102,0.0
+400916220,2017-01-21T23:00Z,West Virginia Mountaineers at Kansas State Wildcats,Kansas State Wildcats,West Virginia Mountaineers,79,75,1.0
+400915389,2017-01-21T17:00Z,North Carolina Tar Heels at Boston College Eagles,Boston College Eagles,North Carolina Tar Heels,82,90,0.0
+400915391,2017-01-21T19:00Z,Louisville Cardinals at Florida State Seminoles,Florida State Seminoles,Louisville Cardinals,73,68,1.0
+400915636,2017-01-21T23:00Z,Stanford Cardinal at Oregon Ducks,Oregon Ducks,Stanford Cardinal,69,52,1.0
+400919690,2017-01-21T19:00Z,Butler Bulldogs at DePaul Blue Demons,DePaul Blue Demons,Butler Bulldogs,69,70,0.0
+400915390,2017-01-21T17:00Z,Syracuse Orange at Notre Dame Fighting Irish,Notre Dame Fighting Irish,Syracuse Orange,84,66,1.0
+400915393,2017-01-21T19:00Z,Georgia Tech Yellow Jackets at Virginia Cavaliers,Virginia Cavaliers,Georgia Tech Yellow Jackets,62,49,1.0
+400914936,2017-01-21T21:30Z,Wisconsin Badgers at Minnesota Golden Gophers,Minnesota Golden Gophers,Wisconsin Badgers,76,78,0.0
+400915394,2017-01-22T01:15Z,Miami Hurricanes at Duke Blue Devils,Duke Blue Devils,Miami Hurricanes,70,58,1.0
+400910646,2017-01-21T17:00Z,Vanderbilt Commodores at Florida Gators,Florida Gators,Vanderbilt Commodores,66,68,0.0
+400916593,2017-01-21T21:00Z,Cincinnati Bearcats at Tulane Green Wave,Tulane Green Wave,Cincinnati Bearcats,61,78,0.0
+400915177,2017-01-21T17:00Z,Penn State Nittany Lions at Purdue Boilermakers,Purdue Boilermakers,Penn State Nittany Lions,77,52,1.0
+400915842,2017-01-22T04:00Z,Pepperdine Waves at Saint Mary's Gaels,Saint Mary's Gaels,Pepperdine Waves,85,65,1.0
+400917808,2017-01-21T17:00Z,Tennessee Tech Golden Eagles at Belmont Bruins,Belmont Bruins,Tennessee Tech Golden Eagles,82,70,1.0
+400916785,2017-01-21T17:00Z,High Point Panthers at Radford Highlanders,Radford Highlanders,High Point Panthers,58,61,0.0
+400915113,2017-01-21T17:00Z,Nebraska Cornhuskers at Rutgers Scarlet Knights,Rutgers Scarlet Knights,Nebraska Cornhuskers,65,64,1.0
+400910671,2017-01-21T17:00Z,Georgia Bulldogs at Texas A&M Aggies,Texas A&M Aggies,Georgia Bulldogs,63,62,1.0
+400918352,2017-01-21T17:30Z,Fordham Rams at Massachusetts Minutemen,Massachusetts Minutemen,Fordham Rams,68,71,0.0
+400917952,2017-01-21T18:00Z,Denver Pioneers at IU Indianapolis Jaguars,IU Indianapolis Jaguars,Denver Pioneers,74,78,0.0
+400916592,2017-01-21T18:00Z,Tulsa Golden Hurricane at South Florida Bulls,South Florida Bulls,Tulsa Golden Hurricane,67,79,0.0
+400921258,2017-01-21T18:30Z,Miami (OH) RedHawks at Central Michigan Chippewas,Central Michigan Chippewas,Miami (OH) RedHawks,101,92,1.0
+400919076,2017-01-21T18:30Z,Navy Midshipmen at Army Black Knights,Army Black Knights,Navy Midshipmen,80,96,0.0
+400919591,2017-01-21T19:00Z,Towson Tigers at Delaware Blue Hens,Delaware Blue Hens,Towson Tigers,58,75,0.0
+400919314,2017-01-21T19:00Z,Dartmouth Big Green at Harvard Crimson,Harvard Crimson,Dartmouth Big Green,82,68,1.0
+400919078,2017-01-21T19:00Z,Loyola Maryland Greyhounds at Colgate Raiders,Colgate Raiders,Loyola Maryland Greyhounds,52,49,1.0
+400919077,2017-01-21T19:00Z,Boston University Terriers at Bucknell Bison,Bucknell Bison,Boston University Terriers,70,59,1.0
+400917595,2017-01-21T19:00Z,Niagara Purple Eagles at Saint Peter's Peacocks,Saint Peter's Peacocks,Niagara Purple Eagles,55,57,0.0
+400916937,2017-01-21T19:00Z,Mercer Bears at Western Carolina Catamounts,Western Carolina Catamounts,Mercer Bears,50,70,0.0
+400916219,2017-01-21T19:00Z,Oklahoma State Cowboys at Texas Tech Red Raiders,Texas Tech Red Raiders,Oklahoma State Cowboys,64,83,0.0
+400916218,2017-01-21T19:00Z,Iowa State Cyclones at Oklahoma Sooners,Oklahoma Sooners,Iowa State Cyclones,87,92,0.0
+400915392,2017-01-21T19:00Z,Wake Forest Demon Deacons at NC State Wolfpack,NC State Wolfpack,Wake Forest Demon Deacons,88,93,0.0
+400916040,2017-01-21T19:15Z,Coastal Carolina Chanticleers at Georgia State Panthers,Georgia State Panthers,Coastal Carolina Chanticleers,76,56,1.0
+400914963,2017-01-21T19:15Z,Illinois Fighting Illini at Michigan Wolverines,Michigan Wolverines,Illinois Fighting Illini,66,57,1.0
+400918331,2017-01-21T19:30Z,Rhode Island Rams at Duquesne Dukes,Duquesne Dukes,Rhode Island Rams,69,90,0.0
+400917136,2017-01-21T19:30Z,Western Michigan Broncos at Buffalo Bulls,Buffalo Bulls,Western Michigan Broncos,66,54,1.0
+400917132,2017-01-21T19:30Z,Ball State Cardinals at Bowling Green Falcons,Bowling Green Falcons,Ball State Cardinals,79,74,1.0
+400919205,2017-01-21T20:00Z,Central Connecticut Blue Devils at Saint Francis Red Wolves,Saint Francis Red Wolves,Central Connecticut Blue Devils,83,84,0.0
+400918183,2017-01-21T20:00Z,Bradley Braves at Missouri State Bears,Missouri State Bears,Bradley Braves,76,62,1.0
+400918121,2017-01-21T20:00Z,Indiana State Sycamores at Wichita State Shockers,Wichita State Shockers,Indiana State Sycamores,84,58,1.0
+400917953,2017-01-21T20:00Z,North Dakota State Bison at Western Illinois Leathernecks,Western Illinois Leathernecks,North Dakota State Bison,57,89,0.0
+400916784,2017-01-21T20:00Z,Presbyterian Blue Hose at Gardner-Webb Runnin' Bulldogs,Gardner-Webb Runnin' Bulldogs,Presbyterian Blue Hose,78,61,1.0
+400916398,2017-01-21T20:00Z,Idaho State Bengals at North Dakota Fighting Hawks,North Dakota Fighting Hawks,Idaho State Bengals,89,64,1.0
+400919206,2017-01-21T20:30Z,Wagner Seahawks at Sacred Heart Pioneers,Sacred Heart Pioneers,Wagner Seahawks,62,67,0.0
+400910751,2017-01-21T20:30Z,Ole Miss Rebels at Missouri Tigers,Missouri Tigers,Ole Miss Rebels,71,75,0.0
+400922128,2017-01-21T21:00Z,Northwestern State Demons at McNeese Cowboys,McNeese Cowboys,Northwestern State Demons,65,78,0.0
+400922110,2017-01-21T21:00Z,Lamar Cardinals at Nicholls Colonels,Nicholls Colonels,Lamar Cardinals,76,87,0.0
+400920451,2017-01-21T21:00Z,Howard Bison at North Carolina A&T Aggies,North Carolina A&T Aggies,Howard Bison,63,78,0.0
+400920423,2017-01-21T21:00Z,Delaware State Hornets at South Carolina State Bulldogs,South Carolina State Bulldogs,Delaware State Hornets,74,64,1.0
+400920369,2017-01-21T21:00Z,Maryland Eastern Shore Hawks at Bethune-Cookman Wildcats,Bethune-Cookman Wildcats,Maryland Eastern Shore Hawks,79,82,0.0
+400919638,2017-01-21T21:00Z,Northeastern Huskies at Hofstra Pride,Hofstra Pride,Northeastern Huskies,78,73,1.0
+400919608,2017-01-21T21:00Z,Drexel Dragons at UNC Wilmington Seahawks,UNC Wilmington Seahawks,Drexel Dragons,87,74,1.0
+400919570,2017-01-21T21:00Z,James Madison Dukes at Charleston Cougars,Charleston Cougars,James Madison Dukes,73,60,1.0
+400919207,2017-01-21T21:00Z,Mount St. Mary's Mountaineers at St. Francis Brooklyn Terriers,St. Francis Brooklyn Terriers,Mount St. Mary's Mountaineers,47,55,0.0
+400919204,2017-01-21T21:00Z,Long Island University Sharks at Fairleigh Dickinson Knights,Fairleigh Dickinson Knights,Long Island University Sharks,83,66,1.0
+400919203,2017-01-21T21:00Z,Bryant Bulldogs at Robert Morris Colonials,Robert Morris Colonials,Bryant Bulldogs,56,59,0.0
+400918852,2017-01-21T21:00Z,South Carolina Upstate Spartans at Stetson Hatters,Stetson Hatters,South Carolina Upstate Spartans,86,97,0.0
+400918202,2017-01-21T21:00Z,Evansville Purple Aces at Loyola Chicago Ramblers,Loyola Chicago Ramblers,Evansville Purple Aces,67,61,1.0
+400917954,2017-01-21T21:00Z,Omaha Mavericks at Oral Roberts Golden Eagles,Oral Roberts Golden Eagles,Omaha Mavericks,103,86,1.0
+400916938,2017-01-21T21:00Z,VMI Keydets at Furman Paladins,Furman Paladins,VMI Keydets,89,72,1.0
+400915843,2017-01-21T21:00Z,Loyola Marymount Lions at Santa Clara Broncos,Santa Clara Broncos,Loyola Marymount Lions,64,63,1.0
+400915634,2017-01-21T21:00Z,Colorado Buffaloes at Washington State Cougars,Washington State Cougars,Colorado Buffaloes,91,89,1.0
+400914980,2017-01-21T21:00Z,Michigan State Spartans at Indiana Hoosiers,Indiana Hoosiers,Michigan State Spartans,82,75,1.0
+400910556,2017-01-21T21:00Z,Alabama Crimson Tide at Auburn Tigers,Auburn Tigers,Alabama Crimson Tide,84,64,1.0
+400916397,2017-01-21T21:05Z,Southern Utah Thunderbirds at Eastern Washington Eagles,Eastern Washington Eagles,Southern Utah Thunderbirds,83,68,1.0
+400917134,2017-01-21T21:30Z,Ohio Bobcats at Northern Illinois Huskies,Northern Illinois Huskies,Ohio Bobcats,69,78,0.0
+400916782,2017-01-21T21:30Z,Campbell Fighting Camels at UNC Asheville Bulldogs,UNC Asheville Bulldogs,Campbell Fighting Camels,72,56,1.0
+400923016,2017-01-21T22:00Z,Prairie View A&M Panthers at Mississippi Valley State Delta Devils,Mississippi Valley State Delta Devils,Prairie View A&M Panthers,72,87,0.0
+400922032,2017-01-21T22:00Z,LSU New Orleans Privateers at Central Arkansas Bears,Central Arkansas Bears,LSU New Orleans Privateers,63,81,0.0
+400919826,2017-01-21T22:00Z,Boise State Broncos at San José State Spartans,San José State Spartans,Boise State Broncos,65,75,0.0
+400919492,2017-01-21T22:00Z,Rice Owls at Southern Miss Golden Eagles,Southern Miss Golden Eagles,Rice Owls,58,61,0.0
+400916939,2017-01-21T22:00Z,The Citadel Bulldogs at UNC Greensboro Spartans,UNC Greensboro Spartans,The Citadel Bulldogs,81,72,1.0
+400916936,2017-01-21T22:00Z,Samford Bulldogs at Chattanooga Mocs,Chattanooga Mocs,Samford Bulldogs,82,78,1.0
+400916045,2017-01-21T22:00Z,App State Mountaineers at Georgia Southern Eagles,Georgia Southern Eagles,App State Mountaineers,92,88,1.0
+400917809,2017-01-21T22:15Z,Eastern Illinois Panthers at Southeast Missouri State Redhawks,Southeast Missouri State Redhawks,Eastern Illinois Panthers,83,71,1.0
+400917955,2017-01-21T22:30Z,Purdue Fort Wayne Mastodons at South Dakota State Jackrabbits,South Dakota State Jackrabbits,Purdue Fort Wayne Mastodons,77,67,1.0
+400916783,2017-01-21T22:30Z,Longwood Lancers at Charleston Southern Buccaneers,Charleston Southern Buccaneers,Longwood Lancers,76,61,1.0
+400916042,2017-01-21T22:30Z,Louisiana Ragin' Cajuns at Texas State Bobcats,Texas State Bobcats,Louisiana Ragin' Cajuns,73,79,0.0
+400916041,2017-01-21T22:30Z,UL Monroe Warhawks at UT Arlington Mavericks,UT Arlington Mavericks,UL Monroe Warhawks,71,55,1.0
+400922202,2017-01-21T23:00Z,Alcorn State Braves at Alabama State Hornets,Alabama State Hornets,Alcorn State Braves,71,78,0.0
+400922052,2017-01-21T23:00Z,Houston Christian Huskies at SE Louisiana Lions,SE Louisiana Lions,Houston Christian Huskies,83,71,1.0
+400920495,2017-01-21T23:00Z,Morgan State Bears at Savannah State Tigers,Savannah State Tigers,Morgan State Bears,74,61,1.0
+400919878,2017-01-21T23:00Z,Fresno State Bulldogs at Nevada Wolf Pack,Nevada Wolf Pack,Fresno State Bulldogs,76,81,0.0
+400919809,2017-01-21T23:00Z,Air Force Falcons at UNLV Rebels,UNLV Rebels,Air Force Falcons,87,85,1.0
+400919432,2017-01-21T23:00Z,Western Kentucky Hilltoppers at Marshall Thundering Herd,Marshall Thundering Herd,Western Kentucky Hilltoppers,94,80,1.0
+400916594,2017-01-21T23:00Z,Houston Cougars at SMU Mustangs,SMU Mustangs,Houston Cougars,85,64,1.0
+400915841,2017-01-21T23:00Z,BYU Cougars at Pacific Tigers,Pacific Tigers,BYU Cougars,47,62,0.0
+400910733,2017-01-21T23:00Z,Mississippi State Bulldogs at Tennessee Volunteers,Tennessee Volunteers,Mississippi State Bulldogs,91,74,1.0
+400922238,2017-01-21T23:30Z,Jackson State Tigers at Grambling Tigers,Grambling Tigers,Jackson State Tigers,72,57,1.0
+400920439,2017-01-21T23:30Z,Hampton Pirates at Norfolk State Spartans,Norfolk State Spartans,Hampton Pirates,79,62,1.0
+400925381,2017-01-22T00:00Z,UC Santa Barbara Gauchos at UC Riverside Highlanders,UC Riverside Highlanders,UC Santa Barbara Gauchos,65,55,1.0
+400922393,2017-01-22T00:00Z,Southern Jaguars at Alabama A&M Bulldogs,Alabama A&M Bulldogs,Southern Jaguars,52,53,0.0
+400919625,2017-01-22T00:00Z,William & Mary Tribe at Elon Phoenix,Elon Phoenix,William & Mary Tribe,71,62,1.0
+400919416,2017-01-22T00:00Z,North Texas Mean Green at Louisiana Tech Bulldogs,Louisiana Tech Bulldogs,North Texas Mean Green,81,57,1.0
+400919393,2017-01-22T00:00Z,UAB Blazers at Florida International Panthers,Florida International Panthers,UAB Blazers,94,85,1.0
+400919374,2017-01-22T00:00Z,Middle Tennessee Blue Raiders at Florida Atlantic Owls,Florida Atlantic Owls,Middle Tennessee Blue Raiders,57,86,0.0
+400919285,2017-01-22T00:00Z,Cornell Big Red at Columbia Lions,Columbia Lions,Cornell Big Red,62,67,0.0
+400919079,2017-01-22T00:00Z,Lafayette Leopards at Lehigh Mountain Hawks,Lehigh Mountain Hawks,Lafayette Leopards,75,68,1.0
+400918810,2017-01-22T00:00Z,Lipscomb Bisons at North Florida Ospreys,North Florida Ospreys,Lipscomb Bisons,90,84,1.0
+400918798,2017-01-22T00:00Z,Kennesaw State Owls at Jacksonville Dolphins,Jacksonville Dolphins,Kennesaw State Owls,71,81,0.0
+400918775,2017-01-22T00:00Z,NJIT Highlanders at Florida Gulf Coast Eagles,Florida Gulf Coast Eagles,NJIT Highlanders,84,71,1.0
+400917812,2017-01-22T00:00Z,SIU Edwardsville Cougars at UT Martin Skyhawks,UT Martin Skyhawks,SIU Edwardsville Cougars,75,67,1.0
+400917596,2017-01-22T00:00Z,Marist Red Foxes at Rider Broncs,Rider Broncs,Marist Red Foxes,84,66,1.0
+400917135,2017-01-22T00:00Z,Toledo Rockets at Kent State Golden Flashes,Kent State Golden Flashes,Toledo Rockets,85,61,1.0
+400916786,2017-01-22T00:00Z,Winthrop Eagles at Liberty Flames,Liberty Flames,Winthrop Eagles,48,61,0.0
+400916043,2017-01-22T00:00Z,South Alabama Jaguars at Little Rock Trojans,Little Rock Trojans,South Alabama Jaguars,73,56,1.0
+400922173,2017-01-22T00:15Z,Texas A&M-Corpus Christi Islanders at Sam Houston Bearkats,Sam Houston Bearkats,Texas A&M-Corpus Christi Islanders,76,62,1.0
+400917807,2017-01-22T00:30Z,Murray State Racers at Austin Peay Governors,Austin Peay Governors,Murray State Racers,84,81,1.0
+400917810,2017-01-22T00:45Z,Eastern Kentucky Colonels at Morehead State Eagles,Morehead State Eagles,Eastern Kentucky Colonels,80,54,1.0
+400919907,2017-01-22T01:00Z,Wyoming Cowboys at New Mexico Lobos,New Mexico Lobos,Wyoming Cowboys,78,71,1.0
+400919353,2017-01-22T01:00Z,Old Dominion Monarchs at Charlotte 49ers,Charlotte 49ers,Old Dominion Monarchs,74,72,1.0
+400918228,2017-01-22T01:00Z,Drake Bulldogs at Illinois State Redbirds,Illinois State Redbirds,Drake Bulldogs,72,58,1.0
+400918146,2017-01-22T01:00Z,Northern Iowa Panthers at Southern Illinois Salukis,Southern Illinois Salukis,Northern Iowa Panthers,57,58,0.0
+400918064,2017-01-22T01:00Z,Chicago State Cougars at UT Rio Grande Valley Vaqueros,UT Rio Grande Valley Vaqueros,Chicago State Cougars,85,77,1.0
+400916044,2017-01-22T01:00Z,Troy Trojans at Arkansas State Red Wolves,Arkansas State Red Wolves,Troy Trojans,82,80,1.0
+400915637,2017-01-22T01:00Z,Utah Utes at Washington Huskies,Washington Huskies,Utah Utes,72,94,0.0
+400922219,2017-01-22T01:30Z,Texas Southern Tigers at Arkansas-Pine Bluff Golden Lions,Arkansas-Pine Bluff Golden Lions,Texas Southern Tigers,63,70,0.0
+400922092,2017-01-22T01:30Z,Stephen F. Austin Lumberjacks at Incarnate Word Cardinals,Incarnate Word Cardinals,Stephen F. Austin Lumberjacks,70,68,1.0
+400917811,2017-01-22T01:30Z,Jacksonville State Gamecocks at Tennessee State Tigers,Tennessee State Tigers,Jacksonville State Gamecocks,79,86,0.0
+400910593,2017-01-22T01:30Z,LSU Tigers at Arkansas Razorbacks,Arkansas Razorbacks,LSU Tigers,99,86,1.0
+400919845,2017-01-22T02:00Z,Colorado State Rams at Utah State Aggies,Utah State Aggies,Colorado State Rams,56,64,0.0
+400919523,2017-01-22T02:00Z,UTSA Roadrunners at UTEP Miners,UTEP Miners,UTSA Roadrunners,59,39,1.0
+400918067,2017-01-22T02:00Z,Kansas City Roos at New Mexico State Aggies,New Mexico State Aggies,Kansas City Roos,94,71,1.0
+400918066,2017-01-22T02:00Z,Seattle U Redhawks at Grand Canyon Lopes,Grand Canyon Lopes,Seattle U Redhawks,61,59,1.0
+400916399,2017-01-22T02:00Z,Weber State Wildcats at Northern Colorado Bears,Northern Colorado Bears,Weber State Wildcats,69,74,0.0
+400915839,2017-01-22T02:00Z,San Francisco Dons at San Diego Toreros,San Diego Toreros,San Francisco Dons,43,60,0.0
+400918914,2017-01-22T03:00Z,UC Irvine Anteaters at Cal State Northridge Matadors,Cal State Northridge Matadors,UC Irvine Anteaters,73,105,0.0
+400918877,2017-01-22T03:00Z,Long Beach State Beach at Cal Poly Mustangs,Cal Poly Mustangs,Long Beach State Beach,92,98,0.0
+400918065,2017-01-22T03:00Z,Utah Valley Wolverines at Cal State Bakersfield Roadrunners,Cal State Bakersfield Roadrunners,Utah Valley Wolverines,68,65,1.0
+400916400,2017-01-22T03:00Z,Northern Arizona Lumberjacks at Idaho Vandals,Idaho Vandals,Northern Arizona Lumberjacks,65,49,1.0
+400916402,2017-01-22T03:05Z,Montana State Bobcats at Portland State Vikings,Portland State Vikings,Montana State Bobcats,65,71,0.0
+400916401,2017-01-22T03:05Z,Montana Grizzlies at Sacramento State Hornets,Sacramento State Hornets,Montana Grizzlies,92,83,1.0
+400915638,2017-01-22T03:30Z,California Golden Bears at Oregon State Beavers,Oregon State Beavers,California Golden Bears,58,69,0.0
+400918933,2017-01-22T04:59Z,UC Davis Aggies at Hawai'i Rainbow Warriors,Hawai'i Rainbow Warriors,UC Davis Aggies,70,76,0.0
+400918459,2017-01-22T00:00Z,Pennsylvania Quakers at Saint Joseph's Hawks,Saint Joseph's Hawks,Pennsylvania Quakers,78,71,1.0
+400919692,2017-01-22T17:00Z,St. John's Red Storm at Seton Hall Pirates,Seton Hall Pirates,St. John's Red Storm,86,73,1.0
+400918711,2017-01-22T17:00Z,UMBC Retrievers at UMass Lowell River Hawks,UMass Lowell River Hawks,UMBC Retrievers,86,102,0.0
+400918671,2017-01-22T18:00Z,New Hampshire Wildcats at Hartford Hawks,Hartford Hawks,New Hampshire Wildcats,56,81,0.0
+400918541,2017-01-22T18:00Z,Youngstown State Penguins at Milwaukee Panthers,Milwaukee Panthers,Youngstown State Penguins,94,85,1.0
+400918508,2017-01-22T18:00Z,Detroit Mercy Titans at Northern Kentucky Norse,Northern Kentucky Norse,Detroit Mercy Titans,101,87,1.0
+400918387,2017-01-22T18:00Z,George Mason Patriots at Richmond Spiders,Richmond Spiders,George Mason Patriots,77,82,0.0
+400915141,2017-01-22T18:00Z,Northwestern Wildcats at Ohio State Buckeyes,Ohio State Buckeyes,Northwestern Wildcats,72,74,0.0
+400919693,2017-01-22T19:00Z,Georgetown Hoyas at Xavier Musketeers,Xavier Musketeers,Georgetown Hoyas,86,75,1.0
+400918648,2017-01-22T19:00Z,Stony Brook Seawolves at Binghamton Bearcats,Binghamton Bearcats,Stony Brook Seawolves,71,67,1.0
+400918618,2017-01-22T19:00Z,Maine Black Bears at UAlbany Great Danes,UAlbany Great Danes,Maine Black Bears,81,63,1.0
+400918584,2017-01-22T19:00Z,Oakland Golden Grizzlies at Wright State Raiders,Wright State Raiders,Oakland Golden Grizzlies,88,67,1.0
+400918404,2017-01-22T19:00Z,La Salle Explorers at VCU Rams,VCU Rams,La Salle Explorers,90,52,1.0
+400918308,2017-01-22T19:00Z,Saint Louis Billikens at Dayton Flyers,Dayton Flyers,Saint Louis Billikens,67,46,1.0
+400917598,2017-01-22T19:00Z,Fairfield Stags at Monmouth Hawks,Monmouth Hawks,Fairfield Stags,91,49,1.0
+400917597,2017-01-22T19:00Z,Siena Saints at Manhattan Jaspers,Manhattan Jaspers,Siena Saints,68,81,0.0
+400916940,2017-01-22T19:00Z,Wofford Terriers at East Tennessee State Buccaneers,East Tennessee State Buccaneers,Wofford Terriers,79,72,1.0
+400918557,2017-01-22T20:00Z,UIC Flames at Valparaiso Beacons,Valparaiso Beacons,UIC Flames,96,65,1.0
+400916595,2017-01-22T21:00Z,UCF Knights at Memphis Tigers,Memphis Tigers,UCF Knights,70,65,1.0
+400916596,2017-01-22T23:00Z,East Carolina Pirates at UConn Huskies,UConn Huskies,East Carolina Pirates,72,65,1.0
+400915395,2017-01-22T23:30Z,Virginia Tech Hokies at Clemson Tigers,Clemson Tigers,Virginia Tech Hokies,81,82,0.0
+400915639,2017-01-23T01:30Z,Arizona State Sun Devils at USC Trojans,USC Trojans,Arizona State Sun Devils,82,79,1.0
+400933945,2017-01-24T01:00Z,Gonzaga Bulldogs at Portland Pilots,Portland Pilots,Gonzaga Bulldogs,64,83,0.0
+400915396,2017-01-24T00:00Z,NC State Wolfpack at Duke Blue Devils,Duke Blue Devils,NC State Wolfpack,82,84,0.0
+400919080,2017-01-24T00:00Z,American University Eagles at Holy Cross Crusaders,Holy Cross Crusaders,American University Eagles,63,55,1.0
+400918488,2017-01-24T00:00Z,Cleveland State Vikings at Green Bay Phoenix,Green Bay Phoenix,Cleveland State Vikings,83,73,1.0
+400917601,2017-01-24T00:00Z,Rider Broncs at Saint Peter's Peacocks,Saint Peter's Peacocks,Rider Broncs,56,51,1.0
+400917600,2017-01-24T00:00Z,Canisius Golden Griffins at Niagara Purple Eagles,Niagara Purple Eagles,Canisius Golden Griffins,91,84,1.0
+400917599,2017-01-24T00:00Z,Quinnipiac Bobcats at Iona Gaels,Iona Gaels,Quinnipiac Bobcats,84,74,1.0
+400916222,2017-01-24T00:00Z,TCU Horned Frogs at Oklahoma State Cowboys,Oklahoma State Cowboys,TCU Horned Frogs,89,76,1.0
+400916051,2017-01-24T00:00Z,Coastal Carolina Chanticleers at Georgia Southern Eagles,Georgia Southern Eagles,Coastal Carolina Chanticleers,91,80,1.0
+400916046,2017-01-24T00:00Z,App State Mountaineers at Georgia State Panthers,Georgia State Panthers,App State Mountaineers,83,72,1.0
+400920496,2017-01-24T00:30Z,Morgan State Bears at South Carolina State Bulldogs,South Carolina State Bulldogs,Morgan State Bears,75,77,0.0
+400920452,2017-01-24T00:30Z,Howard Bison at North Carolina Central Eagles,North Carolina Central Eagles,Howard Bison,74,39,1.0
+400920406,2017-01-24T00:30Z,Norfolk State Spartans at Coppin State Eagles,Coppin State Eagles,Norfolk State Spartans,64,74,0.0
+400916047,2017-01-24T00:30Z,Troy Trojans at Little Rock Trojans,Little Rock Trojans,Troy Trojans,69,78,0.0
+400920484,2017-01-24T01:00Z,Maryland Eastern Shore Hawks at Florida A&M Rattlers,Florida A&M Rattlers,Maryland Eastern Shore Hawks,79,86,0.0
+400920424,2017-01-24T01:00Z,Delaware State Hornets at Savannah State Tigers,Savannah State Tigers,Delaware State Hornets,94,79,1.0
+400916050,2017-01-24T01:00Z,UL Monroe Warhawks at Texas State Bobcats,Texas State Bobcats,UL Monroe Warhawks,63,57,1.0
+400922394,2017-01-24T01:30Z,Southern Jaguars at Alabama State Hornets,Alabama State Hornets,Southern Jaguars,79,65,1.0
+400922260,2017-01-24T01:30Z,Prairie View A&M Panthers at Arkansas-Pine Bluff Golden Lions,Arkansas-Pine Bluff Golden Lions,Prairie View A&M Panthers,71,68,1.0
+400922203,2017-01-24T01:30Z,Alcorn State Braves at Alabama A&M Bulldogs,Alabama A&M Bulldogs,Alcorn State Braves,70,81,0.0
+400919558,2017-01-24T02:00Z,Texas Southern Tigers at Mississippi Valley State Delta Devils,Mississippi Valley State Delta Devils,Texas Southern Tigers,103,89,1.0
+400916049,2017-01-24T02:00Z,Louisiana Ragin' Cajuns at UT Arlington Mavericks,UT Arlington Mavericks,Louisiana Ragin' Cajuns,108,71,1.0
+400911036,2017-01-24T02:00Z,Oklahoma Sooners at Texas Longhorns,Texas Longhorns,Oklahoma Sooners,84,83,1.0
+400916048,2017-01-24T01:00Z,South Alabama Jaguars at Arkansas State Red Wolves,Arkansas State Red Wolves,South Alabama Jaguars,74,62,1.0
+400916787,2017-01-23T23:30Z,Pfeiffer Falcons at Winthrop Eagles,Winthrop Eagles,Pfeiffer Falcons,0,0,0.5
+400916223,2017-01-25T00:00Z,Kansas Jayhawks at West Virginia Mountaineers,West Virginia Mountaineers,Kansas Jayhawks,85,69,1.0
+400910696,2017-01-25T02:00Z,Kentucky Wildcats at Tennessee Volunteers,Tennessee Volunteers,Kentucky Wildcats,82,80,1.0
+400915398,2017-01-25T01:00Z,Virginia Cavaliers at Notre Dame Fighting Irish,Notre Dame Fighting Irish,Virginia Cavaliers,54,71,0.0
+400915397,2017-01-25T00:00Z,Louisville Cardinals at Pittsburgh Panthers,Pittsburgh Panthers,Louisville Cardinals,51,106,0.0
+400914937,2017-01-25T02:00Z,Penn State Nittany Lions at Wisconsin Badgers,Wisconsin Badgers,Penn State Nittany Lions,82,55,1.0
+400915078,2017-01-25T00:00Z,Purdue Boilermakers at Michigan State Spartans,Michigan State Spartans,Purdue Boilermakers,73,84,0.0
+400915032,2017-01-25T00:00Z,Rutgers Scarlet Knights at Maryland Terrapins,Maryland Terrapins,Rutgers Scarlet Knights,67,55,1.0
+400910622,2017-01-24T23:30Z,Auburn Tigers at South Carolina Gamecocks,South Carolina Gamecocks,Auburn Tigers,98,69,1.0
+400918460,2017-01-25T00:00Z,Saint Joseph's Hawks at St. Bonaventure Bonnies,St. Bonaventure Bonnies,Saint Joseph's Hawks,67,63,1.0
+400918122,2017-01-25T00:00Z,Southern Illinois Salukis at Wichita State Shockers,Wichita State Shockers,Southern Illinois Salukis,87,45,1.0
+400917142,2017-01-25T00:00Z,Toledo Rockets at Ohio Bobcats,Ohio Bobcats,Toledo Rockets,76,79,0.0
+400917140,2017-01-25T00:00Z,Buffalo Bulls at Miami (OH) RedHawks,Miami (OH) RedHawks,Buffalo Bulls,75,74,1.0
+400917139,2017-01-25T00:00Z,Bowling Green Falcons at Central Michigan Chippewas,Central Michigan Chippewas,Bowling Green Falcons,82,76,1.0
+400917137,2017-01-25T00:00Z,Akron Zips at Western Michigan Broncos,Western Michigan Broncos,Akron Zips,80,90,0.0
+400918271,2017-01-25T00:30Z,Duquesne Dukes at Davidson Wildcats,Davidson Wildcats,Duquesne Dukes,74,60,1.0
+400919694,2017-01-25T01:00Z,Villanova Wildcats at Marquette Golden Eagles,Marquette Golden Eagles,Villanova Wildcats,74,72,1.0
+400918184,2017-01-25T01:00Z,Drake Bulldogs at Missouri State Bears,Missouri State Bears,Drake Bulldogs,71,72,0.0
+400917141,2017-01-25T01:00Z,Kent State Golden Flashes at Northern Illinois Huskies,Northern Illinois Huskies,Kent State Golden Flashes,66,73,0.0
+400915399,2017-01-25T01:00Z,Wake Forest Demon Deacons at Syracuse Orange,Syracuse Orange,Wake Forest Demon Deacons,81,76,1.0
+400910594,2017-01-25T01:30Z,Arkansas Razorbacks at Vanderbilt Commodores,Vanderbilt Commodores,Arkansas Razorbacks,70,71,0.0
+400919810,2017-01-25T02:00Z,San Diego State Aztecs at Air Force Falcons,Air Force Falcons,San Diego State Aztecs,60,57,1.0
+400917138,2017-01-25T02:00Z,Ball State Cardinals at Eastern Michigan Eagles,Eastern Michigan Eagles,Ball State Cardinals,80,88,0.0
+400916597,2017-01-25T02:00Z,Tulane Green Wave at Houston Cougars,Houston Cougars,Tulane Green Wave,65,51,1.0
+400916224,2017-01-25T02:00Z,Kansas State Wildcats at Iowa State Cyclones,Iowa State Cyclones,Kansas State Wildcats,70,65,1.0
+400919908,2017-01-25T04:00Z,Utah State Aggies at New Mexico Lobos,New Mexico Lobos,Utah State Aggies,74,61,1.0
+400916225,2017-01-26T01:00Z,Texas Tech Red Raiders at Baylor Bears,Baylor Bears,Texas Tech Red Raiders,65,61,1.0
+400915400,2017-01-26T00:00Z,Florida State Seminoles at Georgia Tech Yellow Jackets,Georgia Tech Yellow Jackets,Florida State Seminoles,78,56,1.0
+400915640,2017-01-26T04:00Z,UCLA Bruins at USC Trojans,USC Trojans,UCLA Bruins,84,76,1.0
+400919697,2017-01-26T01:30Z,Butler Bulldogs at Seton Hall Pirates,Seton Hall Pirates,Butler Bulldogs,54,61,0.0
+400919696,2017-01-26T00:00Z,Creighton Bluejays at Georgetown Hoyas,Georgetown Hoyas,Creighton Bluejays,71,51,1.0
+400910647,2017-01-26T02:00Z,Florida Gators at LSU Tigers,LSU Tigers,Florida Gators,71,106,0.0
+400916599,2017-01-25T23:00Z,SMU Mustangs at UCF Knights,UCF Knights,SMU Mustangs,60,65,0.0
+400916598,2017-01-25T23:00Z,Memphis Tigers at Temple Owls,Temple Owls,Memphis Tigers,77,66,1.0
+400919695,2017-01-25T23:30Z,St. John's Red Storm at Providence Friars,Providence Friars,St. John's Red Storm,86,91,0.0
+400933427,2017-01-26T00:00Z,South Carolina State Bulldogs at Hampton Pirates,Hampton Pirates,South Carolina State Bulldogs,66,68,0.0
+400919211,2017-01-26T00:00Z,Bryant Bulldogs at Central Connecticut Blue Devils,Central Connecticut Blue Devils,Bryant Bulldogs,54,65,0.0
+400919083,2017-01-26T00:00Z,Lehigh Mountain Hawks at Colgate Raiders,Colgate Raiders,Lehigh Mountain Hawks,62,76,0.0
+400919082,2017-01-26T00:00Z,Army Black Knights at Boston University Terriers,Boston University Terriers,Army Black Knights,90,89,1.0
+400919081,2017-01-26T00:00Z,Bucknell Bison at Lafayette Leopards,Lafayette Leopards,Bucknell Bison,55,78,0.0
+400918828,2017-01-26T00:00Z,NJIT Highlanders at Kennesaw State Owls,Kennesaw State Owls,NJIT Highlanders,71,65,1.0
+400918799,2017-01-26T00:00Z,Stetson Hatters at Jacksonville Dolphins,Jacksonville Dolphins,Stetson Hatters,103,92,1.0
+400918776,2017-01-26T00:00Z,Florida Gulf Coast Eagles at North Florida Ospreys,North Florida Ospreys,Florida Gulf Coast Eagles,82,86,0.0
+400918743,2017-01-26T00:00Z,UMBC Retrievers at Stony Brook Seawolves,Stony Brook Seawolves,UMBC Retrievers,83,73,1.0
+400918712,2017-01-26T00:00Z,UMass Lowell River Hawks at New Hampshire Wildcats,New Hampshire Wildcats,UMass Lowell River Hawks,80,71,1.0
+400918649,2017-01-26T00:00Z,Hartford Hawks at Binghamton Bearcats,Binghamton Bearcats,Hartford Hawks,76,55,1.0
+400918619,2017-01-26T00:00Z,Vermont Catamounts at UAlbany Great Danes,UAlbany Great Danes,Vermont Catamounts,49,60,0.0
+400918405,2017-01-26T00:00Z,Pennsylvania Quakers at La Salle Explorers,La Salle Explorers,Pennsylvania Quakers,74,77,0.0
+400918368,2017-01-26T00:00Z,George Washington Revolutionaries at George Mason Patriots,George Mason Patriots,George Washington Revolutionaries,68,87,0.0
+400916944,2017-01-26T00:00Z,UNC Greensboro Spartans at Wofford Terriers,Wofford Terriers,UNC Greensboro Spartans,93,74,1.0
+400916943,2017-01-26T00:00Z,Western Carolina Catamounts at Furman Paladins,Furman Paladins,Western Carolina Catamounts,85,37,1.0
+400916942,2017-01-26T00:00Z,VMI Keydets at Chattanooga Mocs,Chattanooga Mocs,VMI Keydets,64,80,0.0
+400916601,2017-01-26T00:00Z,UConn Huskies at South Florida Bulls,South Florida Bulls,UConn Huskies,60,81,0.0
+400916600,2017-01-26T00:00Z,Tulsa Golden Hurricane at East Carolina Pirates,East Carolina Pirates,Tulsa Golden Hurricane,69,66,1.0
+400915098,2017-01-26T00:00Z,Minnesota Golden Gophers at Ohio State Buckeyes,Ohio State Buckeyes,Minnesota Golden Gophers,78,72,1.0
+400910734,2017-01-26T00:00Z,Missouri Tigers at Mississippi State Bulldogs,Mississippi State Bulldogs,Missouri Tigers,89,74,1.0
+400919085,2017-01-26T00:30Z,Holy Cross Crusaders at Loyola Maryland Greyhounds,Loyola Maryland Greyhounds,Holy Cross Crusaders,65,62,1.0
+400919084,2017-01-26T00:30Z,Navy Midshipmen at American University Eagles,American University Eagles,Navy Midshipmen,53,71,0.0
+400918811,2017-01-26T00:30Z,South Carolina Upstate Spartans at Lipscomb Bisons,Lipscomb Bisons,South Carolina Upstate Spartans,84,77,1.0
+400917957,2017-01-26T00:30Z,IU Indianapolis Jaguars at Purdue Fort Wayne Mastodons,Purdue Fort Wayne Mastodons,IU Indianapolis Jaguars,103,73,1.0
+400910770,2017-01-26T00:30Z,Texas A&M Aggies at Ole Miss Rebels,Ole Miss Rebels,Texas A&M Aggies,76,80,0.0
+400918439,2017-01-26T01:00Z,Rhode Island Rams at Richmond Spiders,Richmond Spiders,Rhode Island Rams,73,62,1.0
+400918425,2017-01-26T01:00Z,Massachusetts Minutemen at Saint Louis Billikens,Saint Louis Billikens,Massachusetts Minutemen,74,70,1.0
+400918217,2017-01-26T01:00Z,Indiana State Sycamores at Illinois State Redbirds,Illinois State Redbirds,Indiana State Sycamores,71,66,1.0
+400918203,2017-01-26T01:00Z,Bradley Braves at Loyola Chicago Ramblers,Loyola Chicago Ramblers,Bradley Braves,70,50,1.0
+400918165,2017-01-26T01:00Z,Evansville Purple Aces at Northern Iowa Panthers,Northern Iowa Panthers,Evansville Purple Aces,61,54,1.0
+400917959,2017-01-26T01:00Z,Oral Roberts Golden Eagles at North Dakota State Bison,North Dakota State Bison,Oral Roberts Golden Eagles,81,71,1.0
+400917958,2017-01-26T01:00Z,Western Illinois Leathernecks at South Dakota Coyotes,South Dakota Coyotes,Western Illinois Leathernecks,62,55,1.0
+400917814,2017-01-26T01:00Z,Tennessee State Tigers at SIU Edwardsville Cougars,SIU Edwardsville Cougars,Tennessee State Tigers,56,76,0.0
+400917813,2017-01-26T01:00Z,Belmont Bruins at Eastern Illinois Panthers,Eastern Illinois Panthers,Belmont Bruins,64,77,0.0
+400916941,2017-01-26T01:00Z,East Tennessee State Buccaneers at Samford Bulldogs,Samford Bulldogs,East Tennessee State Buccaneers,86,96,0.0
+400922164,2017-01-26T02:00Z,Northwestern State Demons at SE Louisiana Lions,SE Louisiana Lions,Northwestern State Demons,71,85,0.0
+400922111,2017-01-26T02:00Z,Texas A&M-Corpus Christi Islanders at Lamar Cardinals,Lamar Cardinals,Texas A&M-Corpus Christi Islanders,66,69,0.0
+400922033,2017-01-26T02:00Z,Central Arkansas Bears at Stephen F. Austin Lumberjacks,Stephen F. Austin Lumberjacks,Central Arkansas Bears,78,76,1.0
+400919862,2017-01-26T02:00Z,UNLV Rebels at Wyoming Cowboys,Wyoming Cowboys,UNLV Rebels,66,65,1.0
+400919846,2017-01-26T02:00Z,San José State Spartans at Colorado State Rams,Colorado State Rams,San José State Spartans,81,72,1.0
+400917956,2017-01-26T02:00Z,South Dakota State Jackrabbits at Denver Pioneers,Denver Pioneers,South Dakota State Jackrabbits,91,82,1.0
+400915401,2017-01-26T02:00Z,Boston College Eagles at Miami Hurricanes,Miami Hurricanes,Boston College Eagles,78,77,1.0
+400914964,2017-01-26T02:00Z,Iowa Hawkeyes at Illinois Fighting Illini,Illinois Fighting Illini,Iowa Hawkeyes,76,64,1.0
+400910557,2017-01-26T02:00Z,Alabama Crimson Tide at Georgia Bulldogs,Georgia Bulldogs,Alabama Crimson Tide,60,80,0.0
+400916377,2017-01-26T02:05Z,Weber State Wildcats at Idaho State Bengals,Idaho State Bengals,Weber State Wildcats,73,85,0.0
+400919827,2017-01-26T03:00Z,Nevada Wolf Pack at Boise State Broncos,Boise State Broncos,Nevada Wolf Pack,57,76,0.0
+400918915,2017-01-26T03:00Z,Cal State Northridge Matadors at UC Santa Barbara Gauchos,UC Santa Barbara Gauchos,Cal State Northridge Matadors,57,78,0.0
+400915641,2017-01-26T04:00Z,Washington Huskies at Arizona State Sun Devils,Arizona State Sun Devils,Washington Huskies,86,75,1.0
+400918934,2017-01-26T04:59Z,UC Riverside Highlanders at Hawai'i Rainbow Warriors,Hawai'i Rainbow Warriors,UC Riverside Highlanders,64,70,0.0
+400915844,2017-01-27T02:00Z,San Diego Toreros at Gonzaga Bulldogs,Gonzaga Bulldogs,San Diego Toreros,79,43,1.0
+400915643,2017-01-27T02:30Z,Washington State Cougars at Arizona Wildcats,Arizona Wildcats,Washington State Cougars,79,62,1.0
+400915402,2017-01-27T01:00Z,Virginia Tech Hokies at North Carolina Tar Heels,North Carolina Tar Heels,Virginia Tech Hokies,91,72,1.0
+400915644,2017-01-27T03:30Z,Oregon Ducks at Utah Utes,Utah Utes,Oregon Ducks,67,73,0.0
+400916602,2017-01-27T00:00Z,Xavier Musketeers at Cincinnati Bearcats,Cincinnati Bearcats,Xavier Musketeers,86,78,1.0
+400919769,2017-01-27T00:00Z,UNC Wilmington Seahawks at James Madison Dukes,James Madison Dukes,UNC Wilmington Seahawks,76,87,0.0
+400919626,2017-01-27T00:00Z,Elon Phoenix at Northeastern Huskies,Northeastern Huskies,Elon Phoenix,49,51,0.0
+400919609,2017-01-27T00:00Z,Hofstra Pride at Drexel Dragons,Drexel Dragons,Hofstra Pride,81,80,1.0
+400919592,2017-01-27T00:00Z,Delaware Blue Hens at William & Mary Tribe,William & Mary Tribe,Delaware Blue Hens,82,58,1.0
+400919571,2017-01-27T00:00Z,Charleston Cougars at Towson Tigers,Towson Tigers,Charleston Cougars,83,77,1.0
+400919433,2017-01-27T00:00Z,UTSA Roadrunners at Marshall Thundering Herd,Marshall Thundering Herd,UTSA Roadrunners,92,71,1.0
+400919375,2017-01-27T00:00Z,Florida Atlantic Owls at Florida International Panthers,Florida International Panthers,Florida Atlantic Owls,65,83,0.0
+400919213,2017-01-27T00:00Z,Fairleigh Dickinson Knights at St. Francis Brooklyn Terriers,St. Francis Brooklyn Terriers,Fairleigh Dickinson Knights,73,79,0.0
+400919212,2017-01-27T00:00Z,Long Island University Sharks at Sacred Heart Pioneers,Sacred Heart Pioneers,Long Island University Sharks,57,60,0.0
+400919210,2017-01-27T00:00Z,Saint Francis Red Wolves at Wagner Seahawks,Wagner Seahawks,Saint Francis Red Wolves,67,72,0.0
+400919208,2017-01-27T00:00Z,Robert Morris Colonials at Mount St. Mary's Mountaineers,Mount St. Mary's Mountaineers,Robert Morris Colonials,48,47,1.0
+400918068,2017-01-27T00:00Z,Grand Canyon Lopes at Kansas City Roos,Kansas City Roos,Grand Canyon Lopes,83,77,1.0
+400917815,2017-01-27T00:00Z,Morehead State Eagles at Tennessee Tech Golden Eagles,Tennessee Tech Golden Eagles,Morehead State Eagles,76,73,1.0
+400917602,2017-01-27T00:00Z,Manhattan Jaspers at Niagara Purple Eagles,Niagara Purple Eagles,Manhattan Jaspers,69,70,0.0
+400916792,2017-01-27T00:00Z,UNC Asheville Bulldogs at Presbyterian Blue Hose,Presbyterian Blue Hose,UNC Asheville Bulldogs,47,73,0.0
+400916791,2017-01-27T00:00Z,Liberty Flames at Longwood Lancers,Longwood Lancers,Liberty Flames,62,93,0.0
+400916790,2017-01-27T00:00Z,Winthrop Eagles at Gardner-Webb Runnin' Bulldogs,Gardner-Webb Runnin' Bulldogs,Winthrop Eagles,70,72,0.0
+400916789,2017-01-27T00:00Z,Charleston Southern Buccaneers at High Point Panthers,High Point Panthers,Charleston Southern Buccaneers,72,69,1.0
+400916788,2017-01-27T00:00Z,Campbell Fighting Camels at Radford Highlanders,Radford Highlanders,Campbell Fighting Camels,61,78,0.0
+400919448,2017-01-27T00:30Z,Southern Miss Golden Eagles at Middle Tennessee Blue Raiders,Middle Tennessee Blue Raiders,Southern Miss Golden Eagles,72,56,1.0
+400917603,2017-01-27T00:30Z,Saint Peter's Peacocks at Marist Red Foxes,Marist Red Foxes,Saint Peter's Peacocks,65,81,0.0
+400922129,2017-01-27T01:00Z,McNeese Cowboys at LSU New Orleans Privateers,LSU New Orleans Privateers,McNeese Cowboys,75,56,1.0
+400922053,2017-01-27T01:00Z,Nicholls Colonels at Houston Christian Huskies,Houston Christian Huskies,Nicholls Colonels,83,80,1.0
+400919524,2017-01-27T01:00Z,UTEP Miners at Western Kentucky Hilltoppers,Western Kentucky Hilltoppers,UTEP Miners,65,62,1.0
+400919477,2017-01-27T01:00Z,Old Dominion Monarchs at Rice Owls,Rice Owls,Old Dominion Monarchs,72,80,0.0
+400919354,2017-01-27T01:00Z,Charlotte 49ers at North Texas Mean Green,North Texas Mean Green,Charlotte 49ers,81,82,0.0
+400917817,2017-01-27T01:00Z,Southeast Missouri State Redhawks at Murray State Racers,Murray State Racers,Southeast Missouri State Redhawks,74,75,0.0
+400917816,2017-01-27T01:00Z,Eastern Kentucky Colonels at Jacksonville State Gamecocks,Jacksonville State Gamecocks,Eastern Kentucky Colonels,52,57,0.0
+400915114,2017-01-27T01:00Z,Nebraska Cornhuskers at Northwestern Wildcats,Northwestern Wildcats,Nebraska Cornhuskers,73,61,1.0
+400918069,2017-01-27T01:05Z,Cal State Bakersfield Roadrunners at Chicago State Cougars,Chicago State Cougars,Cal State Bakersfield Roadrunners,59,75,0.0
+400921976,2017-01-27T01:30Z,Abilene Christian Wildcats at Incarnate Word Cardinals,Incarnate Word Cardinals,Abilene Christian Wildcats,82,79,1.0
+400916405,2017-01-27T01:30Z,Northern Colorado Bears at Northern Arizona Lumberjacks,Northern Arizona Lumberjacks,Northern Colorado Bears,63,50,1.0
+400916404,2017-01-27T01:30Z,North Dakota Fighting Hawks at Southern Utah Thunderbirds,Southern Utah Thunderbirds,North Dakota Fighting Hawks,89,91,0.0
+400915642,2017-01-27T01:30Z,Oregon State Beavers at Colorado Buffaloes,Colorado Buffaloes,Oregon State Beavers,85,78,1.0
+400919417,2017-01-27T02:00Z,Louisiana Tech Bulldogs at UAB Blazers,UAB Blazers,Louisiana Tech Bulldogs,79,70,1.0
+400918070,2017-01-27T02:00Z,UT Rio Grande Valley Vaqueros at Utah Valley Wolverines,Utah Valley Wolverines,UT Rio Grande Valley Vaqueros,92,81,1.0
+400917818,2017-01-27T02:00Z,UT Martin Skyhawks at Austin Peay Governors,Austin Peay Governors,UT Martin Skyhawks,79,85,0.0
+400916406,2017-01-27T02:00Z,Eastern Washington Eagles at Montana Grizzlies,Montana Grizzlies,Eastern Washington Eagles,60,72,0.0
+400916403,2017-01-27T02:00Z,Idaho Vandals at Montana State Bobcats,Montana State Bobcats,Idaho Vandals,94,91,1.0
+400914981,2017-01-27T02:00Z,Indiana Hoosiers at Michigan Wolverines,Michigan Wolverines,Indiana Hoosiers,90,60,1.0
+400918878,2017-01-27T03:00Z,Cal Poly Mustangs at UC Irvine Anteaters,UC Irvine Anteaters,Cal Poly Mustangs,66,79,0.0
+400918071,2017-01-27T03:00Z,New Mexico State Aggies at Seattle U Redhawks,Seattle U Redhawks,New Mexico State Aggies,56,71,0.0
+400915845,2017-01-27T03:00Z,Pacific Tigers at Loyola Marymount Lions,Loyola Marymount Lions,Pacific Tigers,79,73,1.0
+400918895,2017-01-27T03:30Z,Cal State Fullerton Titans at Long Beach State Beach,Long Beach State Beach,Cal State Fullerton Titans,76,65,1.0
+400915846,2017-01-27T03:30Z,Portland Pilots at Pepperdine Waves,Pepperdine Waves,Portland Pilots,78,60,1.0
+400915848,2017-01-27T04:00Z,BYU Cougars at Santa Clara Broncos,Santa Clara Broncos,BYU Cougars,76,68,1.0
+400915847,2017-01-27T04:00Z,San Francisco Dons at Saint Mary's Gaels,Saint Mary's Gaels,San Francisco Dons,66,46,1.0
+400919301,2017-01-27T23:00Z,Harvard Crimson at Cornell Big Red,Cornell Big Red,Harvard Crimson,71,77,0.0
+400919286,2017-01-28T00:00Z,Dartmouth Big Green at Columbia Lions,Columbia Lions,Dartmouth Big Green,66,54,1.0
+400918509,2017-01-28T00:00Z,Milwaukee Panthers at Detroit Mercy Titans,Detroit Mercy Titans,Milwaukee Panthers,69,73,0.0
+400917605,2017-01-28T00:00Z,Iona Gaels at Siena Saints,Siena Saints,Iona Gaels,66,77,0.0
+400917604,2017-01-28T00:00Z,Quinnipiac Bobcats at Monmouth Hawks,Monmouth Hawks,Quinnipiac Bobcats,95,76,1.0
+400919267,2017-01-28T01:00Z,Brown Bears at Yale Bulldogs,Yale Bulldogs,Brown Bears,85,75,1.0
+400918590,2017-01-28T01:00Z,Wright State Raiders at Valparaiso Beacons,Valparaiso Beacons,Wright State Raiders,70,55,1.0
+400918558,2017-01-28T01:00Z,Northern Kentucky Norse at UIC Flames,UIC Flames,Northern Kentucky Norse,62,79,0.0
+400918526,2017-01-28T02:00Z,Green Bay Phoenix at Oakland Golden Grizzlies,Oakland Golden Grizzlies,Green Bay Phoenix,72,80,0.0
+400918309,2017-01-28T02:00Z,Dayton Flyers at VCU Rams,VCU Rams,Dayton Flyers,73,68,1.0
+400916407,2017-01-28T02:00Z,Idaho State Bengals at Weber State Wildcats,Weber State Wildcats,Idaho State Bengals,96,74,1.0
+400915853,2017-01-29T03:00Z,Gonzaga Bulldogs at Pepperdine Waves,Pepperdine Waves,Gonzaga Bulldogs,49,96,0.0
+400915405,2017-01-28T17:00Z,Florida State Seminoles at Syracuse Orange,Syracuse Orange,Florida State Seminoles,82,72,1.0
+400915646,2017-01-29T02:30Z,Oregon Ducks at Colorado Buffaloes,Colorado Buffaloes,Oregon Ducks,74,65,1.0
+400919700,2017-01-29T01:00Z,Georgetown Hoyas at Butler Bulldogs,Butler Bulldogs,Georgetown Hoyas,81,85,0.0
+400915403,2017-01-28T17:00Z,Notre Dame Fighting Irish at Georgia Tech Yellow Jackets,Georgia Tech Yellow Jackets,Notre Dame Fighting Irish,62,60,1.0
+400914938,2017-01-28T17:00Z,Wisconsin Badgers at Rutgers Scarlet Knights,Rutgers Scarlet Knights,Wisconsin Badgers,54,61,0.0
+400919699,2017-01-28T19:30Z,DePaul Blue Demons at Creighton Bluejays,Creighton Bluejays,DePaul Blue Demons,83,66,1.0
+400915407,2017-01-28T20:00Z,Duke Blue Devils at Wake Forest Demon Deacons,Wake Forest Demon Deacons,Duke Blue Devils,83,85,0.0
+400915852,2017-01-29T04:00Z,Saint Mary's Gaels at Santa Clara Broncos,Santa Clara Broncos,Saint Mary's Gaels,59,72,0.0
+400915033,2017-01-28T19:15Z,Maryland Terrapins at Minnesota Golden Gophers,Minnesota Golden Gophers,Maryland Terrapins,78,85,0.0
+400919216,2017-01-28T17:00Z,Fairleigh Dickinson Knights at Bryant Bulldogs,Bryant Bulldogs,Fairleigh Dickinson Knights,73,72,1.0
+400918272,2017-01-28T17:00Z,Davidson Wildcats at Fordham Rams,Fordham Rams,Davidson Wildcats,66,84,0.0
+400917821,2017-01-28T17:00Z,Morehead State Eagles at Jacksonville State Gamecocks,Jacksonville State Gamecocks,Morehead State Eagles,69,72,0.0
+400917144,2017-01-28T17:00Z,Central Michigan Chippewas at Kent State Golden Flashes,Kent State Golden Flashes,Central Michigan Chippewas,98,105,0.0
+400916797,2017-01-28T17:00Z,Radford Highlanders at UNC Asheville Bulldogs,UNC Asheville Bulldogs,Radford Highlanders,80,69,1.0
+400915404,2017-01-28T17:00Z,Clemson Tigers at Pittsburgh Panthers,Pittsburgh Panthers,Clemson Tigers,60,67,0.0
+400910815,2017-01-28T17:00Z,Texas A&M Aggies at West Virginia Mountaineers,West Virginia Mountaineers,Texas A&M Aggies,81,77,1.0
+400918730,2017-01-28T18:00Z,New Hampshire Wildcats at UMBC Retrievers,UMBC Retrievers,New Hampshire Wildcats,105,103,1.0
+400918388,2017-01-28T18:00Z,George Mason Patriots at Massachusetts Minutemen,Massachusetts Minutemen,George Mason Patriots,74,76,0.0
+400917606,2017-01-28T18:00Z,Marist Red Foxes at Fairfield Stags,Fairfield Stags,Marist Red Foxes,72,62,1.0
+400917147,2017-01-28T18:00Z,Western Michigan Broncos at Ball State Cardinals,Ball State Cardinals,Western Michigan Broncos,84,78,1.0
+400916948,2017-01-28T18:00Z,Samford Bulldogs at VMI Keydets,VMI Keydets,Samford Bulldogs,67,69,0.0
+400915406,2017-01-28T18:00Z,North Carolina Tar Heels at Miami Hurricanes,Miami Hurricanes,North Carolina Tar Heels,77,62,1.0
+400916603,2017-01-28T18:30Z,UCF Knights at Tulsa Golden Hurricane,Tulsa Golden Hurricane,UCF Knights,77,66,1.0
+400919698,2017-01-28T19:00Z,Providence Friars at Marquette Golden Eagles,Marquette Golden Eagles,Providence Friars,78,79,0.0
+400919572,2017-01-28T19:00Z,Charleston Cougars at Drexel Dragons,Drexel Dragons,Charleston Cougars,76,90,0.0
+400919086,2017-01-28T19:00Z,Loyola Maryland Greyhounds at Lafayette Leopards,Lafayette Leopards,Loyola Maryland Greyhounds,62,70,0.0
+400918853,2017-01-28T19:00Z,Kennesaw State Owls at South Carolina Upstate Spartans,South Carolina Upstate Spartans,Kennesaw State Owls,79,73,1.0
+400918713,2017-01-28T19:00Z,Fisher Eagles at UMass Lowell River Hawks,UMass Lowell River Hawks,Fisher Eagles,97,73,1.0
+400918440,2017-01-28T19:00Z,St. Bonaventure Bonnies at Rhode Island Rams,Rhode Island Rams,St. Bonaventure Bonnies,71,59,1.0
+400918204,2017-01-28T19:00Z,Loyola Chicago Ramblers at Indiana State Sycamores,Indiana State Sycamores,Loyola Chicago Ramblers,66,81,0.0
+400918166,2017-01-28T19:00Z,Northern Iowa Panthers at Drake Bulldogs,Drake Bulldogs,Northern Iowa Panthers,63,71,0.0
+400917608,2017-01-28T19:00Z,Manhattan Jaspers at Canisius Golden Griffins,Canisius Golden Griffins,Manhattan Jaspers,78,64,1.0
+400917145,2017-01-28T19:00Z,Northern Illinois Huskies at Toledo Rockets,Toledo Rockets,Northern Illinois Huskies,72,74,0.0
+400916949,2017-01-28T19:00Z,Furman Paladins at UNC Greensboro Spartans,UNC Greensboro Spartans,Furman Paladins,67,73,0.0
+400916795,2017-01-28T19:00Z,High Point Panthers at Winthrop Eagles,Winthrop Eagles,High Point Panthers,80,83,0.0
+400916793,2017-01-28T19:00Z,Liberty Flames at Campbell Fighting Camels,Campbell Fighting Camels,Liberty Flames,40,72,0.0
+400910804,2017-01-28T19:00Z,Kansas State Wildcats at Tennessee Volunteers,Tennessee Volunteers,Kansas State Wildcats,70,58,1.0
+400910716,2017-01-28T19:00Z,LSU Tigers at Texas Tech Red Raiders,Texas Tech Red Raiders,LSU Tigers,77,64,1.0
+400910648,2017-01-28T19:00Z,Florida Gators at Oklahoma Sooners,Oklahoma Sooners,Florida Gators,52,84,0.0
+400919464,2017-01-28T20:00Z,Old Dominion Monarchs at North Texas Mean Green,North Texas Mean Green,Old Dominion Monarchs,67,73,0.0
+400919087,2017-01-28T20:00Z,Bucknell Bison at Army Black Knights,Army Black Knights,Bucknell Bison,75,96,0.0
+400917607,2017-01-28T20:00Z,Rider Broncs at Niagara Purple Eagles,Niagara Purple Eagles,Rider Broncs,80,67,1.0
+400918072,2017-01-28T20:05Z,Grand Canyon Lopes at Chicago State Cougars,Chicago State Cougars,Grand Canyon Lopes,77,85,0.0
+400921262,2017-01-28T20:30Z,Eastern Michigan Eagles at Miami (OH) RedHawks,Miami (OH) RedHawks,Eastern Michigan Eagles,57,74,0.0
+400919217,2017-01-28T20:30Z,Long Island University Sharks at Central Connecticut Blue Devils,Central Connecticut Blue Devils,Long Island University Sharks,61,52,1.0
+400916604,2017-01-28T20:30Z,East Carolina Pirates at Memphis Tigers,Memphis Tigers,East Carolina Pirates,57,50,1.0
+400916055,2017-01-28T20:30Z,UT Arlington Mavericks at App State Mountaineers,App State Mountaineers,UT Arlington Mavericks,67,83,0.0
+400920534,2017-01-28T21:00Z,North Carolina A&T Aggies at North Carolina Central Eagles,North Carolina Central Eagles,North Carolina A&T Aggies,82,59,1.0
+400920485,2017-01-28T21:00Z,South Carolina State Bulldogs at Maryland Eastern Shore Hawks,Maryland Eastern Shore Hawks,South Carolina State Bulldogs,92,69,1.0
+400920453,2017-01-28T21:00Z,Savannah State Tigers at Howard Bison,Howard Bison,Savannah State Tigers,70,73,0.0
+400920425,2017-01-28T21:00Z,Florida A&M Rattlers at Delaware State Hornets,Delaware State Hornets,Florida A&M Rattlers,68,81,0.0
+400920407,2017-01-28T21:00Z,Morgan State Bears at Coppin State Eagles,Coppin State Eagles,Morgan State Bears,74,76,0.0
+400919909,2017-01-28T21:00Z,New Mexico Lobos at Nevada Wolf Pack,Nevada Wolf Pack,New Mexico Lobos,82,65,1.0
+400919786,2017-01-28T21:00Z,UNC Wilmington Seahawks at William & Mary Tribe,William & Mary Tribe,UNC Wilmington Seahawks,96,78,1.0
+400919627,2017-01-28T21:00Z,Elon Phoenix at Hofstra Pride,Hofstra Pride,Elon Phoenix,70,84,0.0
+400919531,2017-01-28T21:00Z,UTSA Roadrunners at Western Kentucky Hilltoppers,Western Kentucky Hilltoppers,UTSA Roadrunners,81,66,1.0
+400919215,2017-01-28T21:00Z,St. Francis Brooklyn Terriers at Wagner Seahawks,Wagner Seahawks,St. Francis Brooklyn Terriers,66,64,1.0
+400919214,2017-01-28T21:00Z,Sacred Heart Pioneers at Mount St. Mary's Mountaineers,Mount St. Mary's Mountaineers,Sacred Heart Pioneers,67,53,1.0
+400919088,2017-01-28T21:00Z,Holy Cross Crusaders at Navy Midshipmen,Navy Midshipmen,Holy Cross Crusaders,60,47,1.0
+400918839,2017-01-28T21:00Z,North Florida Ospreys at Stetson Hatters,Stetson Hatters,North Florida Ospreys,88,74,1.0
+400918812,2017-01-28T21:00Z,Lipscomb Bisons at NJIT Highlanders,NJIT Highlanders,Lipscomb Bisons,62,66,0.0
+400918369,2017-01-28T21:00Z,Saint Louis Billikens at George Washington Revolutionaries,George Washington Revolutionaries,Saint Louis Billikens,63,55,1.0
+400917960,2017-01-28T21:00Z,Purdue Fort Wayne Mastodons at Oral Roberts Golden Eagles,Oral Roberts Golden Eagles,Purdue Fort Wayne Mastodons,83,87,0.0
+400917146,2017-01-28T21:00Z,Ohio Bobcats at Bowling Green Falcons,Bowling Green Falcons,Ohio Bobcats,72,96,0.0
+400916947,2017-01-28T21:00Z,Chattanooga Mocs at East Tennessee State Buccaneers,East Tennessee State Buccaneers,Chattanooga Mocs,76,71,1.0
+400916410,2017-01-28T21:00Z,North Dakota Fighting Hawks at Northern Arizona Lumberjacks,Northern Arizona Lumberjacks,North Dakota Fighting Hawks,68,67,1.0
+400916408,2017-01-28T21:00Z,Eastern Washington Eagles at Montana State Bobcats,Montana State Bobcats,Eastern Washington Eagles,91,90,1.0
+400915851,2017-01-28T21:00Z,San Francisco Dons at Pacific Tigers,Pacific Tigers,San Francisco Dons,60,81,0.0
+400910829,2017-01-28T21:00Z,Iowa State Cyclones at Vanderbilt Commodores,Vanderbilt Commodores,Iowa State Cyclones,84,78,1.0
+400910672,2017-01-28T21:00Z,Texas Longhorns at Georgia Bulldogs,Georgia Bulldogs,Texas Longhorns,59,57,1.0
+400910595,2017-01-28T21:00Z,Arkansas Razorbacks at Oklahoma State Cowboys,Oklahoma State Cowboys,Arkansas Razorbacks,99,71,1.0
+400917961,2017-01-28T21:15Z,Denver Pioneers at South Dakota Coyotes,South Dakota Coyotes,Denver Pioneers,88,83,1.0
+400917820,2017-01-28T21:15Z,SIU Edwardsville Cougars at Eastern Illinois Panthers,Eastern Illinois Panthers,SIU Edwardsville Cougars,75,60,1.0
+400916945,2017-01-28T21:30Z,The Citadel Bulldogs at Mercer Bears,Mercer Bears,The Citadel Bulldogs,82,66,1.0
+400916052,2017-01-28T21:30Z,Texas State Bobcats at Coastal Carolina Chanticleers,Coastal Carolina Chanticleers,Texas State Bobcats,50,52,0.0
+400914965,2017-01-28T21:30Z,Illinois Fighting Illini at Penn State Nittany Lions,Penn State Nittany Lions,Illinois Fighting Illini,71,67,1.0
+400922034,2017-01-28T22:00Z,Incarnate Word Cardinals at Central Arkansas Bears,Central Arkansas Bears,Incarnate Word Cardinals,80,81,0.0
+400919863,2017-01-28T22:00Z,UNLV Rebels at San José State Spartans,San José State Spartans,UNLV Rebels,76,72,1.0
+400916053,2017-01-28T22:00Z,Arkansas State Red Wolves at UL Monroe Warhawks,UL Monroe Warhawks,Arkansas State Red Wolves,63,73,0.0
+400916057,2017-01-28T22:15Z,Georgia State Panthers at Troy Trojans,Troy Trojans,Georgia State Panthers,72,78,0.0
+400922112,2017-01-28T22:30Z,Northwestern State Demons at Lamar Cardinals,Lamar Cardinals,Northwestern State Demons,85,64,1.0
+400916794,2017-01-28T22:30Z,Gardner-Webb Runnin' Bulldogs at Charleston Southern Buccaneers,Charleston Southern Buccaneers,Gardner-Webb Runnin' Bulldogs,76,85,0.0
+400919847,2017-01-28T23:00Z,Colorado State Rams at San Diego State Aztecs,San Diego State Aztecs,Colorado State Rams,77,78,0.0
+400919828,2017-01-28T23:00Z,Boise State Broncos at Wyoming Cowboys,Wyoming Cowboys,Boise State Broncos,65,80,0.0
+400919418,2017-01-28T23:00Z,Louisiana Tech Bulldogs at Middle Tennessee Blue Raiders,Middle Tennessee Blue Raiders,Louisiana Tech Bulldogs,71,61,1.0
+400919302,2017-01-28T23:00Z,Dartmouth Big Green at Cornell Big Red,Cornell Big Red,Dartmouth Big Green,75,62,1.0
+400918406,2017-01-28T23:00Z,La Salle Explorers at Saint Joseph's Hawks,Saint Joseph's Hawks,La Salle Explorers,73,72,1.0
+400918332,2017-01-28T23:00Z,Duquesne Dukes at Richmond Spiders,Richmond Spiders,Duquesne Dukes,101,90,1.0
+400916409,2017-01-28T23:00Z,Northern Colorado Bears at Southern Utah Thunderbirds,Southern Utah Thunderbirds,Northern Colorado Bears,71,89,0.0
+400910771,2017-01-28T23:00Z,Baylor Bears at Ole Miss Rebels,Ole Miss Rebels,Baylor Bears,75,78,0.0
+400910623,2017-01-28T23:00Z,Auburn Tigers at TCU Horned Frogs,TCU Horned Frogs,Auburn Tigers,80,88,0.0
+400910558,2017-01-28T23:00Z,Mississippi State Bulldogs at Alabama Crimson Tide,Alabama Crimson Tide,Mississippi State Bulldogs,71,62,1.0
+400910697,2017-01-28T23:15Z,Kansas Jayhawks at Kentucky Wildcats,Kentucky Wildcats,Kansas Jayhawks,73,79,0.0
+400922250,2017-01-28T23:30Z,Mississippi Valley State Delta Devils at Jackson State Tigers,Jackson State Tigers,Mississippi Valley State Delta Devils,83,68,1.0
+400922220,2017-01-28T23:30Z,Arkansas-Pine Bluff Golden Lions at Grambling Tigers,Grambling Tigers,Arkansas-Pine Bluff Golden Lions,61,53,1.0
+400922204,2017-01-28T23:30Z,Southern Jaguars at Alcorn State Braves,Alcorn State Braves,Southern Jaguars,74,64,1.0
+400920370,2017-01-28T23:30Z,Bethune-Cookman Wildcats at Norfolk State Spartans,Norfolk State Spartans,Bethune-Cookman Wildcats,73,66,1.0
+400922261,2017-01-29T00:00Z,Alabama A&M Bulldogs at Prairie View A&M Panthers,Prairie View A&M Panthers,Alabama A&M Bulldogs,70,65,1.0
+400922153,2017-01-29T00:00Z,LSU New Orleans Privateers at Stephen F. Austin Lumberjacks,Stephen F. Austin Lumberjacks,LSU New Orleans Privateers,71,61,1.0
+400919792,2017-01-29T00:00Z,Towson Tigers at Northeastern Huskies,Northeastern Huskies,Towson Tigers,69,62,1.0
+400919593,2017-01-29T00:00Z,James Madison Dukes at Delaware Blue Hens,Delaware Blue Hens,James Madison Dukes,66,61,1.0
+400919434,2017-01-29T00:00Z,UTEP Miners at Marshall Thundering Herd,Marshall Thundering Herd,UTEP Miners,68,91,0.0
+400919287,2017-01-29T00:00Z,Harvard Crimson at Columbia Lions,Columbia Lions,Harvard Crimson,65,62,1.0
+400919218,2017-01-29T00:00Z,Robert Morris Colonials at Saint Francis Red Wolves,Saint Francis Red Wolves,Robert Morris Colonials,89,83,1.0
+400918777,2017-01-29T00:00Z,Jacksonville Dolphins at Florida Gulf Coast Eagles,Florida Gulf Coast Eagles,Jacksonville Dolphins,78,56,1.0
+400918744,2017-01-29T00:00Z,Vermont Catamounts at Stony Brook Seawolves,Stony Brook Seawolves,Vermont Catamounts,64,71,0.0
+400918620,2017-01-29T00:00Z,UAlbany Great Danes at Hartford Hawks,Hartford Hawks,UAlbany Great Danes,61,74,0.0
+400918489,2017-01-29T00:00Z,Cleveland State Vikings at Youngstown State Penguins,Youngstown State Penguins,Cleveland State Vikings,67,64,1.0
+400916946,2017-01-29T00:00Z,Wofford Terriers at Western Carolina Catamounts,Western Carolina Catamounts,Wofford Terriers,68,62,1.0
+400916796,2017-01-29T00:00Z,Longwood Lancers at Presbyterian Blue Hose,Presbyterian Blue Hose,Longwood Lancers,71,62,1.0
+400915645,2017-01-29T00:00Z,Oregon State Beavers at Utah Utes,Utah Utes,Oregon State Beavers,86,78,1.0
+400922174,2017-01-29T00:15Z,SE Louisiana Lions at Sam Houston Bearkats,Sam Houston Bearkats,SE Louisiana Lions,71,69,1.0
+400922130,2017-01-29T00:30Z,McNeese Cowboys at Nicholls Colonels,Nicholls Colonels,McNeese Cowboys,78,74,1.0
+400917819,2017-01-29T00:30Z,Southeast Missouri State Redhawks at Austin Peay Governors,Austin Peay Governors,Southeast Missouri State Redhawks,71,82,0.0
+400917143,2017-01-29T00:30Z,Buffalo Bulls at Akron Zips,Akron Zips,Buffalo Bulls,91,90,1.0
+400921977,2017-01-29T01:00Z,Abilene Christian Wildcats at Texas A&M-Corpus Christi Islanders,Texas A&M-Corpus Christi Islanders,Abilene Christian Wildcats,72,60,1.0
+400919504,2017-01-29T01:00Z,Southern Miss Golden Eagles at UAB Blazers,UAB Blazers,Southern Miss Golden Eagles,87,43,1.0
+400919355,2017-01-29T01:00Z,Charlotte 49ers at Rice Owls,Rice Owls,Charlotte 49ers,84,67,1.0
+400918957,2017-01-29T01:00Z,UC Irvine Anteaters at UC Davis Aggies,UC Davis Aggies,UC Irvine Anteaters,74,65,1.0
+400918916,2017-01-29T01:00Z,Cal State Northridge Matadors at UC Riverside Highlanders,UC Riverside Highlanders,Cal State Northridge Matadors,59,63,0.0
+400918147,2017-01-29T01:00Z,Missouri State Bears at Southern Illinois Salukis,Southern Illinois Salukis,Missouri State Bears,85,84,1.0
+400918073,2017-01-29T01:00Z,Cal State Bakersfield Roadrunners at Kansas City Roos,Kansas City Roos,Cal State Bakersfield Roadrunners,63,74,0.0
+400917963,2017-01-29T01:00Z,South Dakota State Jackrabbits at Omaha Mavericks,Omaha Mavericks,South Dakota State Jackrabbits,84,88,0.0
+400917962,2017-01-29T01:00Z,IU Indianapolis Jaguars at Western Illinois Leathernecks,Western Illinois Leathernecks,IU Indianapolis Jaguars,78,69,1.0
+400917822,2017-01-29T01:00Z,UT Martin Skyhawks at Murray State Racers,Murray State Racers,UT Martin Skyhawks,94,86,1.0
+400916605,2017-01-29T01:00Z,Tulane Green Wave at UConn Huskies,UConn Huskies,Tulane Green Wave,78,68,1.0
+400915011,2017-01-29T01:00Z,Ohio State Buckeyes at Iowa Hawkeyes,Iowa Hawkeyes,Ohio State Buckeyes,85,72,1.0
+400916054,2017-01-29T01:05Z,Georgia Southern Eagles at South Alabama Jaguars,South Alabama Jaguars,Georgia Southern Eagles,78,66,1.0
+400916056,2017-01-29T01:15Z,Little Rock Trojans at Louisiana Ragin' Cajuns,Louisiana Ragin' Cajuns,Little Rock Trojans,88,82,1.0
+400922398,2017-01-29T01:30Z,Alabama State Hornets at Texas Southern Tigers,Texas Southern Tigers,Alabama State Hornets,70,68,1.0
+400917824,2017-01-29T01:30Z,Eastern Kentucky Colonels at Tennessee Tech Golden Eagles,Tennessee Tech Golden Eagles,Eastern Kentucky Colonels,66,79,0.0
+400917823,2017-01-29T01:30Z,Belmont Bruins at Tennessee State Tigers,Tennessee State Tigers,Belmont Bruins,76,93,0.0
+400910752,2017-01-29T01:30Z,South Carolina Gamecocks at Missouri Tigers,Missouri Tigers,South Carolina Gamecocks,53,63,0.0
+400919879,2017-01-29T02:00Z,Fresno State Bulldogs at Utah State Aggies,Utah State Aggies,Fresno State Bulldogs,78,65,1.0
+400918879,2017-01-29T02:00Z,Cal Poly Mustangs at Cal State Fullerton Titans,Cal State Fullerton Titans,Cal Poly Mustangs,81,71,1.0
+400918074,2017-01-29T02:00Z,New Mexico State Aggies at Utah Valley Wolverines,Utah Valley Wolverines,New Mexico State Aggies,69,74,0.0
+400916411,2017-01-29T02:00Z,Idaho Vandals at Montana Grizzlies,Montana Grizzlies,Idaho Vandals,77,85,0.0
+400915849,2017-01-29T02:00Z,Loyola Marymount Lions at BYU Cougars,BYU Cougars,Loyola Marymount Lions,85,77,1.0
+400918075,2017-01-29T03:00Z,UT Rio Grande Valley Vaqueros at Seattle U Redhawks,Seattle U Redhawks,UT Rio Grande Valley Vaqueros,96,84,1.0
+400916606,2017-01-29T03:00Z,Temple Owls at Houston Cougars,Houston Cougars,Temple Owls,79,66,1.0
+400915850,2017-01-29T03:00Z,San Diego Toreros at Portland Pilots,Portland Pilots,San Diego Toreros,52,68,0.0
+400916412,2017-01-29T03:05Z,Portland State Vikings at Sacramento State Hornets,Sacramento State Hornets,Portland State Vikings,80,77,1.0
+400918972,2017-01-29T05:30Z,UC Santa Barbara Gauchos at Hawai'i Rainbow Warriors,Hawai'i Rainbow Warriors,UC Santa Barbara Gauchos,78,56,1.0
+400915408,2017-01-29T18:00Z,Virginia Cavaliers at Villanova Wildcats,Villanova Wildcats,Virginia Cavaliers,61,59,1.0
+400915648,2017-01-29T20:30Z,Washington Huskies at Arizona Wildcats,Arizona Wildcats,Washington Huskies,77,66,1.0
+400915409,2017-01-29T18:00Z,NC State Wolfpack at Louisville Cardinals,Louisville Cardinals,NC State Wolfpack,85,60,1.0
+400916607,2017-01-29T21:00Z,South Florida Bulls at Cincinnati Bearcats,Cincinnati Bearcats,South Florida Bulls,94,53,1.0
+400915115,2017-01-29T21:30Z,Purdue Boilermakers at Nebraska Cornhuskers,Nebraska Cornhuskers,Purdue Boilermakers,83,80,1.0
+400919701,2017-01-29T23:00Z,Xavier Musketeers at St. John's Red Storm,St. John's Red Storm,Xavier Musketeers,77,82,0.0
+400918542,2017-01-29T18:00Z,Milwaukee Panthers at Oakland Golden Grizzlies,Oakland Golden Grizzlies,Milwaukee Panthers,79,70,1.0
+400915054,2017-01-29T18:00Z,Michigan Wolverines at Michigan State Spartans,Michigan State Spartans,Michigan Wolverines,70,62,1.0
+400919089,2017-01-29T19:00Z,Colgate Raiders at American University Eagles,American University Eagles,Colgate Raiders,65,70,0.0
+400918650,2017-01-29T19:00Z,Binghamton Bearcats at Maine Black Bears,Maine Black Bears,Binghamton Bearcats,54,65,0.0
+400918510,2017-01-29T19:00Z,Green Bay Phoenix at Detroit Mercy Titans,Detroit Mercy Titans,Green Bay Phoenix,93,92,1.0
+400915647,2017-01-29T19:00Z,Washington State Cougars at Arizona State Sun Devils,Arizona State Sun Devils,Washington State Cougars,83,91,0.0
+400918572,2017-01-29T19:30Z,Northern Kentucky Norse at Valparaiso Beacons,Valparaiso Beacons,Northern Kentucky Norse,65,58,1.0
+400918559,2017-01-29T21:00Z,Wright State Raiders at UIC Flames,UIC Flames,Wright State Raiders,86,88,0.0
+400918229,2017-01-29T21:00Z,Illinois State Redbirds at Evansville Purple Aces,Evansville Purple Aces,Illinois State Redbirds,59,69,0.0
+400918123,2017-01-29T21:00Z,Wichita State Shockers at Bradley Braves,Bradley Braves,Wichita State Shockers,49,64,0.0
+400917609,2017-01-29T21:00Z,Saint Peter's Peacocks at Iona Gaels,Iona Gaels,Saint Peter's Peacocks,69,66,1.0
+400915410,2017-01-29T23:30Z,Boston College Eagles at Virginia Tech Hokies,Virginia Tech Hokies,Boston College Eagles,85,79,1.0
+400914982,2017-01-29T23:30Z,Indiana Hoosiers at Northwestern Wildcats,Northwestern Wildcats,Indiana Hoosiers,68,55,1.0
+400915649,2017-01-30T01:30Z,Stanford Cardinal at California Golden Bears,California Golden Bears,Stanford Cardinal,66,55,1.0
+400915411,2017-01-31T00:00Z,Duke Blue Devils at Notre Dame Fighting Irish,Notre Dame Fighting Irish,Duke Blue Devils,74,84,0.0
+400933587,2017-01-31T00:00Z,Drexel Dragons at William & Mary Tribe,William & Mary Tribe,Drexel Dragons,108,85,1.0
+400920408,2017-01-31T00:00Z,Coppin State Eagles at Hampton Pirates,Hampton Pirates,Coppin State Eagles,77,65,1.0
+400919981,2017-01-31T00:00Z,South Carolina State Bulldogs at Howard Bison,Howard Bison,South Carolina State Bulldogs,68,77,0.0
+400919090,2017-01-31T00:00Z,Boston University Terriers at Lehigh Mountain Hawks,Lehigh Mountain Hawks,Boston University Terriers,59,76,0.0
+400918829,2017-01-31T00:00Z,Kennesaw State Owls at NJIT Highlanders,NJIT Highlanders,Kennesaw State Owls,53,54,0.0
+400918813,2017-01-31T00:00Z,Lipscomb Bisons at South Carolina Upstate Spartans,South Carolina Upstate Spartans,Lipscomb Bisons,80,92,0.0
+400918800,2017-01-31T00:00Z,Jacksonville Dolphins at Stetson Hatters,Stetson Hatters,Jacksonville Dolphins,86,89,0.0
+400918778,2017-01-31T00:00Z,North Florida Ospreys at Florida Gulf Coast Eagles,Florida Gulf Coast Eagles,North Florida Ospreys,74,59,1.0
+400917612,2017-01-31T00:00Z,Siena Saints at Quinnipiac Bobcats,Quinnipiac Bobcats,Siena Saints,75,84,0.0
+400917611,2017-01-31T00:00Z,Rider Broncs at Canisius Golden Griffins,Canisius Golden Griffins,Rider Broncs,66,72,0.0
+400917610,2017-01-31T00:00Z,Monmouth Hawks at Marist Red Foxes,Marist Red Foxes,Monmouth Hawks,71,83,0.0
+400916950,2017-01-31T00:00Z,Western Carolina Catamounts at Mercer Bears,Mercer Bears,Western Carolina Catamounts,62,47,1.0
+400916061,2017-01-31T00:00Z,Texas State Bobcats at App State Mountaineers,App State Mountaineers,Texas State Bobcats,55,68,0.0
+400916058,2017-01-31T00:00Z,UT Arlington Mavericks at Coastal Carolina Chanticleers,Coastal Carolina Chanticleers,UT Arlington Mavericks,72,70,1.0
+400920497,2017-01-31T00:30Z,Florida A&M Rattlers at Morgan State Bears,Morgan State Bears,Florida A&M Rattlers,77,60,1.0
+400920486,2017-01-31T00:30Z,Savannah State Tigers at Maryland Eastern Shore Hawks,Maryland Eastern Shore Hawks,Savannah State Tigers,82,87,0.0
+400920426,2017-01-31T00:30Z,North Carolina Central Eagles at Delaware State Hornets,Delaware State Hornets,North Carolina Central Eagles,74,82,0.0
+400920525,2017-01-31T01:00Z,North Carolina A&T Aggies at Norfolk State Spartans,Norfolk State Spartans,North Carolina A&T Aggies,83,69,1.0
+400916063,2017-01-31T01:00Z,Georgia Southern Eagles at Troy Trojans,Troy Trojans,Georgia Southern Eagles,83,76,1.0
+400916062,2017-01-31T01:00Z,Arkansas State Red Wolves at Louisiana Ragin' Cajuns,Louisiana Ragin' Cajuns,Arkansas State Red Wolves,69,88,0.0
+400916059,2017-01-31T01:00Z,Little Rock Trojans at UL Monroe Warhawks,UL Monroe Warhawks,Little Rock Trojans,68,52,1.0
+400922399,2017-01-31T01:30Z,Alabama A&M Bulldogs at Texas Southern Tigers,Texas Southern Tigers,Alabama A&M Bulldogs,92,47,1.0
+400922239,2017-01-31T01:30Z,Mississippi Valley State Delta Devils at Grambling Tigers,Grambling Tigers,Mississippi Valley State Delta Devils,77,74,1.0
+400922221,2017-01-31T01:30Z,Arkansas-Pine Bluff Golden Lions at Jackson State Tigers,Jackson State Tigers,Arkansas-Pine Bluff Golden Lions,74,59,1.0
+400919982,2017-01-31T02:00Z,Alabama State Hornets at Prairie View A&M Panthers,Prairie View A&M Panthers,Alabama State Hornets,72,52,1.0
+400918076,2017-01-31T02:00Z,Northern New Mexico Eagles at New Mexico State Aggies,New Mexico State Aggies,Northern New Mexico Eagles,98,75,1.0
+400917825,2017-01-31T02:00Z,SIU Edwardsville Cougars at Belmont Bruins,Belmont Bruins,SIU Edwardsville Cougars,92,69,1.0
+400916226,2017-01-31T02:00Z,Oklahoma State Cowboys at Oklahoma Sooners,Oklahoma Sooners,Oklahoma State Cowboys,66,68,0.0
+400916060,2017-01-31T02:00Z,Georgia State Panthers at South Alabama Jaguars,South Alabama Jaguars,Georgia State Panthers,80,83,0.0
+400916227,2017-02-01T02:00Z,West Virginia Mountaineers at Iowa State Cyclones,Iowa State Cyclones,West Virginia Mountaineers,72,85,0.0
+400910673,2017-02-01T02:00Z,Georgia Bulldogs at Kentucky Wildcats,Kentucky Wildcats,Georgia Bulldogs,90,81,1.0
+400914939,2017-02-01T02:00Z,Wisconsin Badgers at Illinois Fighting Illini,Illinois Fighting Illini,Wisconsin Badgers,43,57,0.0
+400915412,2017-02-01T00:00Z,Pittsburgh Panthers at North Carolina Tar Heels,North Carolina Tar Heels,Pittsburgh Panthers,80,78,1.0
+400919702,2017-02-01T00:00Z,Creighton Bluejays at Butler Bulldogs,Butler Bulldogs,Creighton Bluejays,67,76,0.0
+400915034,2017-02-01T00:00Z,Maryland Terrapins at Ohio State Buckeyes,Ohio State Buckeyes,Maryland Terrapins,71,77,0.0
+400917152,2017-01-31T23:00Z,Ohio Bobcats at Western Michigan Broncos,Western Michigan Broncos,Ohio Bobcats,90,85,1.0
+400918370,2017-02-01T00:00Z,George Washington Revolutionaries at Rhode Island Rams,Rhode Island Rams,George Washington Revolutionaries,82,70,1.0
+400917613,2017-02-01T00:00Z,Manhattan Jaspers at Fairfield Stags,Fairfield Stags,Manhattan Jaspers,78,49,1.0
+400917153,2017-02-01T00:00Z,Toledo Rockets at Ball State Cardinals,Ball State Cardinals,Toledo Rockets,81,80,1.0
+400917151,2017-02-01T00:00Z,Miami (OH) RedHawks at Bowling Green Falcons,Bowling Green Falcons,Miami (OH) RedHawks,83,72,1.0
+400917150,2017-02-01T00:00Z,Kent State Golden Flashes at Eastern Michigan Eagles,Eastern Michigan Eagles,Kent State Golden Flashes,64,70,0.0
+400917149,2017-02-01T00:00Z,Central Michigan Chippewas at Buffalo Bulls,Buffalo Bulls,Central Michigan Chippewas,101,91,1.0
+400916798,2017-02-01T00:00Z,Presbyterian Blue Hose at Liberty Flames,Liberty Flames,Presbyterian Blue Hose,71,51,1.0
+400915413,2017-02-01T00:00Z,Wake Forest Demon Deacons at Boston College Eagles,Boston College Eagles,Wake Forest Demon Deacons,80,85,0.0
+400915012,2017-02-01T00:00Z,Iowa Hawkeyes at Rutgers Scarlet Knights,Rutgers Scarlet Knights,Iowa Hawkeyes,63,83,0.0
+400910735,2017-02-01T00:00Z,Mississippi State Bulldogs at Ole Miss Rebels,Ole Miss Rebels,Mississippi State Bulldogs,88,61,1.0
+400918077,2017-02-01T00:30Z,Ottawa (KS) OTTAWA (KS) at Kansas City Roos,Kansas City Roos,Ottawa (KS) OTTAWA (KS),93,67,1.0
+400918273,2017-02-01T01:00Z,Davidson Wildcats at Saint Joseph's Hawks,Saint Joseph's Hawks,Davidson Wildcats,60,75,0.0
+400918185,2017-02-01T01:00Z,Loyola Chicago Ramblers at Missouri State Bears,Missouri State Bears,Loyola Chicago Ramblers,82,81,1.0
+400917964,2017-02-01T01:00Z,Denver Pioneers at Oral Roberts Golden Eagles,Oral Roberts Golden Eagles,Denver Pioneers,69,93,0.0
+400917148,2017-02-01T01:00Z,Akron Zips at Northern Illinois Huskies,Northern Illinois Huskies,Akron Zips,73,76,0.0
+400916608,2017-02-01T01:00Z,Temple Owls at Tulane Green Wave,Tulane Green Wave,Temple Owls,71,79,0.0
+400919829,2017-02-01T02:00Z,Boise State Broncos at Colorado State Rams,Colorado State Rams,Boise State Broncos,76,79,0.0
+400919703,2017-02-01T02:00Z,Georgetown Hoyas at DePaul Blue Demons,DePaul Blue Demons,Georgetown Hoyas,73,76,0.0
+400918310,2017-02-01T02:00Z,Dayton Flyers at Fordham Rams,Fordham Rams,Dayton Flyers,66,75,0.0
+400918078,2017-02-01T02:00Z,Bethesda Flames at Grand Canyon Lopes,Grand Canyon Lopes,Bethesda Flames,95,66,1.0
+400910816,2017-02-01T02:00Z,Vanderbilt Commodores at Texas A&M Aggies,Texas A&M Aggies,Vanderbilt Commodores,54,68,0.0
+400910624,2017-02-01T02:00Z,Tennessee Volunteers at Auburn Tigers,Auburn Tigers,Tennessee Volunteers,77,87,0.0
+400919927,2017-02-01T04:00Z,Wyoming Cowboys at San Diego State Aztecs,San Diego State Aztecs,Wyoming Cowboys,77,68,1.0

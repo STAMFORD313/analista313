@@ -1,6 +1,6 @@
 # Estadísticas del bot
 
-Actualizado: 02/11/2026 08:21
+Actualizado: 02/11/2026 08:37
 
 **Ganadas 3 / perdidas 4** (43 % acierto) · beneficio -2.68 $ · ROI -15.4 % · banca 97.32 $
 
@@ -31,6 +31,14 @@ Si el bot está bien calibrado, el acierto real se parece a la prob. media. Brie
 
 | Fecha | Apuesta | Cuota | Stake | Resultado | Por qué falló |
 |---|---|---|---|---|---|
+| 2026-11-02 | Troy Trojans vs Massachusetts Minutemen → Gana Troy Trojans | 1.62 | 1.23 $ | ⏳ +0.00 $ |  |
+| 2026-11-02 | Florida Gators vs Miami Hurricanes → Gana Florida Gators | 1.49 | 1.25 $ | ⏳ +0.00 $ |  |
+| 2026-11-02 | Southeast Missouri State Redhawks vs Lipscomb Bisons → Gana Southeast Missouri State Redhawks | 1.98 | 2.16 $ | ⏳ +0.00 $ |  |
+| 2026-11-02 | Louisiana Ragin' Cajuns vs Akron Zips → Gana Akron Zips | 1.41 | 1.75 $ | ⏳ +0.00 $ |  |
+| 2026-11-02 | Boston University Terriers vs Northeastern Huskies → Gana Boston University Terriers | 1.87 | 2.34 $ | ⏳ +0.00 $ |  |
+| 2026-11-02 | McNeese Cowboys vs UAB Blazers → Gana McNeese Cowboys | 1.56 | 2.38 $ | ⏳ +0.00 $ |  |
+| 2026-11-02 | Coastal Carolina Chanticleers vs Eastern Michigan Eagles → Gana Coastal Carolina Chanticleers | 1.87 | 2.65 $ | ⏳ +0.00 $ |  |
+| 2026-11-02 | Bryant Bulldogs vs Siena Saints → Gana Siena Saints | 1.7 | 2.73 $ | ⏳ +0.00 $ |  |
 | 2026-11-01 | Zenith vs Team Kinetix → Zenith +1.5 mapas | 1.76 | 2.4 $ | 🟩 +1.82 $ |  |
 | 2026-11-01 | Washington Commanders vs Philadelphia Eagles → Más de 40.5 puntos | 1.91 | 1.17 $ | 🟥 -1.17 $ | sin análisis (IA no disponible) |
 | 2026-11-01 | Kalamata vs Iraklis → Más de 2.5 goles | 2.15 | 1.76 $ | ⏳ +0.00 $ |  |
