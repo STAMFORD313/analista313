@@ -47,3 +47,16 @@ assert C.ajustar(0.6, 1, 2) == 0.6  # sin coeficientes entrenados no toca la pro
 L = C.card_lines(1, 2, "Uno", "Dos")
 assert len(L) == 3 and "Uno: p" in L[0] and "fuerte nuke" in L[1] and "débil inferno" in L[1] and "15 mapas juntos" in L[2], L
 print("ok cs2_players")
+
+# Dota 2/LoL: parseo de players_stats + lineup sin red (get simulado)
+C.configure("dota2")
+fake = {"dota2/stats/matches/9/players_stats": [{"id": 1, "status": "finished", "winner_team_id": 5, "game_number": 1, "winner_score": 30,
+         "loser_score": 10, "dota2_game_players": [{"player_id": 50, "team_id": 5, "kills": 9, "deaths": 0, "assists": 10, "gold_per_min": 600,
+                                                    "dota2_hero": {"localized_name": "Mirana"}}]}],
+        "dota2/stats/matches/9/lineup": [{"player_id": 50, "player": {"nickname": "Yatoro", "slug": "yatoro"}}]}
+C.get = lambda path, **k: fake[path]
+mid, pm, pp, gr = C._stats("x", 9, {"match_id": 9, "date": "2025-01-01"})
+assert pm[0]["nick"] == "Yatoro" and pm[0]["adr"] == 600 and pp[0]["map"] == "Mirana" and abs(pp[0]["rating"] - 2.996) < 1e-3
+assert gr[0]["winner_id"] == 5 and gr[0]["game_id"] == 1 and C.GRAPH.name == "grafo_dota2.json.gz"
+C.configure("cs2")
+print("ok cs2_players moba")

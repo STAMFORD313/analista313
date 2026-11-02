@@ -1,7 +1,8 @@
-"""CS2 a nivel de JUGADOR con la API pública de bo3.gg (sin clave): partidos de nivel S/A/B con sus mapas, estadísticas
-por jugador y partido (rating, ADR, KAST, K/D, primeras bajas) y rating por mapa, y fichajes. Construye el grafo de
-conocimiento data/cs2/grafo_cs2.json (jugadores, equipos, mapas, torneos) y da features para el modelo (team_features).
-Uso: python cs2_players.py [update|graph|backtest]   (sin argumento: update + graph). Incremental: solo baja lo nuevo."""
+"""Esports a nivel de JUGADOR con la API pública de bo3.gg (sin clave): CS2, Dota 2 y LoL (R6 y MLBB no tienen
+estadísticas por jugador públicas). Partidos de nivel S/A/B, estadísticas por jugador y partida (CS2: rating, ADR, KAST,
+primeras bajas y rating por mapa; Dota 2/LoL: K/D/A, oro por minuto y héroe/campeón) y fichajes. Construye el grafo de
+conocimiento data/<juego>/grafo_<juego>.json.gz (jugadores, equipos, mapas/héroes, torneos) y da features para el modelo.
+Uso: python cs2_players.py [update|graph|backtest|walkforward] [cs2|dota2|lol]. Incremental: solo baja lo nuevo."""
 import gzip, json, math, os, sys, time, warnings
 from collections import defaultdict
 from concurrent.futures import ThreadPoolExecutor
@@ -14,9 +15,20 @@ API = "https://api.bo3.gg/api/v1"
 UA = {"User-Agent": "Mozilla/5.0 (analista313; github.com/STAMFORD313/analista313)"}
 from pathlib import Path
 warnings.filterwarnings("ignore", category=FutureWarning)  # concat con tablas vacías la primera vez
-DIR = Path(__file__).parent / "data" / "cs2"
-GAMES, PMATCH, PMAPS, NOSTATS, TRANSF, GRAPH = (DIR / f for f in (
-    "players_games.csv", "players_matches.csv", "players_maps.csv", "players_nostats.csv", "players_transfers.csv", "grafo_cs2.json.gz"))
+DISCIPLINES = {"cs2": (1, "mapa"), "dota2": (4, "héroe"), "lol": (3, "campeón")}  # slug → (discipline_id de bo3.gg, unidad por partida)
+
+
+def configure(slug):
+    """Apunta el módulo a un juego: data/<slug>/players_*.csv, su grafo y sus coeficientes."""
+    global SLUG, DISC, UNIT, DIR, GAMES, MLIST, PMATCH, PMAPS, NOSTATS, TRANSF, GRAPH, PARAMS
+    SLUG, (DISC, UNIT) = slug, DISCIPLINES[slug]
+    DIR = Path(__file__).parent / "data" / slug
+    GAMES, MLIST, PMATCH, PMAPS, NOSTATS, TRANSF, GRAPH, PARAMS = (DIR / f for f in (
+        "players_games.csv", "players_matchlist.csv", "players_matches.csv", "players_maps.csv", "players_nostats.csv",
+        "players_transfers.csv", f"grafo_{slug}.json.gz", "players_params.json"))
+
+
+configure("cs2")
 SINCE = "2024-05-01"  # 2 años y medio: medio año de calentamiento para las features
 TIERS = "s,a,b"
 G_COLS = ["game_id", "match_id", "slug", "date", "tier", "bo", "tournament_id", "tournament", "t1_id", "t2_id", "team1", "team2",
@@ -42,34 +54,43 @@ def _read(path, cols):
     return pd.read_csv(path) if path.exists() else pd.DataFrame(columns=cols)
 
 
+def _meta(m):
+    t1, t2, t = m.get("team1") or {}, m.get("team2") or {}, m.get("tournament") or {}
+    return {"match_id": m["id"], "slug": m["slug"], "date": m["start_date"], "tier": m.get("tier"), "bo": m.get("bo_type"),
+            "tournament_id": m.get("tournament_id"), "tournament": t.get("name", ""), "t1_id": m["team1_id"], "t2_id": m["team2_id"],
+            "team1": t1.get("name"), "team2": t2.get("name")}
+
+
 def update_games(max_pages=400):
-    """Partidos S/A/B terminados con sus mapas, del más nuevo hacia atrás hasta enlazar con lo guardado (o hasta SINCE)."""
-    old = _read(GAMES, G_COLS)
+    """Partidos S/A/B terminados, del más nuevo hacia atrás hasta enlazar con lo guardado (o hasta SINCE). En CS2 trae los mapas
+    (players_games.csv); en Dota 2/LoL solo la lista (players_matchlist.csv): las partidas llegan con las estadísticas."""
+    cs = SLUG == "cs2"
+    out, cols = (GAMES, G_COLS) if cs else (MLIST, G_COLS[1:12])
+    old = _read(out, cols)
     known, rows = set(old.match_id), []
     for page in range(max_pages):
-        res = get("matches", **{"page[limit]": 100, "page[offset]": page * 100, "sort": "-start_date", "with": "games,teams,tournament",
-                                "filter[matches.discipline_id][eq]": 1, "filter[matches.status][in]": "finished",
+        res = get("matches", **{"page[limit]": 100, "page[offset]": page * 100, "sort": "-start_date",
+                                "with": "games,teams,tournament" if cs else "teams,tournament",
+                                "filter[matches.discipline_id][eq]": DISC, "filter[matches.status][in]": "finished",
                                 "filter[matches.tier][in]": TIERS, "filter[matches.start_date][gt]": SINCE})["results"]
         new = [m for m in res if m["id"] not in known]
         for m in new:
-            t1, t2, t = m.get("team1") or {}, m.get("team2") or {}, m.get("tournament") or {}
-            for g in m.get("games") or []:
+            if not cs and m.get("team1_id") and m.get("team2_id"): rows.append(_meta(m))
+            for g in (m.get("games") or []) if cs else []:
                 w = (g.get("winner_team_clan") or {}).get("team_id")
                 if not w or g.get("status") != "finished": continue
-                rows.append({"game_id": g["id"], "match_id": m["id"], "slug": m["slug"], "date": m["start_date"], "tier": m.get("tier"),
-                             "bo": m.get("bo_type"), "tournament_id": m.get("tournament_id"), "tournament": t.get("name", ""),
-                             "t1_id": m["team1_id"], "t2_id": m["team2_id"], "team1": t1.get("name"), "team2": t2.get("name"),
-                             "number": g.get("number"), "map": g.get("map_name"), "winner_id": w,
+                rows.append({"game_id": g["id"], **_meta(m), "number": g.get("number"), "map": g.get("map_name"), "winner_id": w,
                              "ws": g.get("winner_clan_score"), "ls": g.get("loser_clan_score")})
         if page % 20 == 0: print("páginas", page, res[-1]["start_date"] if res else "", len(rows), flush=True)
         if len(new) < len(res) or not res: break
-    df = pd.concat([old, pd.DataFrame(rows, columns=G_COLS)], ignore_index=True).drop_duplicates("game_id")
-    df.sort_values(["date", "match_id", "number"]).to_csv(GAMES, index=False)
+    df = pd.concat([old, pd.DataFrame(rows, columns=cols)], ignore_index=True).drop_duplicates(cols[0])
+    df.sort_values(["date", "match_id"]).to_csv(out, index=False)
     return df
 
 
-def _stats(slug, mid):
+def _stats(slug, mid, meta=None):
     """Estadísticas del partido por jugador (1 llamada por partido): agregado + rating de cada mapa."""
+    if SLUG != "cs2": return _stats_moba(mid, meta)
     pm, pp = [], []
     for s in get(f"matches/{slug}/players_stats"):
         sp = s.get("steam_profile") or {}
@@ -84,35 +105,62 @@ def _stats(slug, mid):
             if g.get("player_rating") is not None:
                 pp.append({"game_id": g["game_id"], "match_id": mid, "player_id": pid, "team_id": tid, "map": g.get("map_name"),
                            "rating": round(g["player_rating"], 3)})
-    return mid, pm, pp
+    return mid, pm, pp, []
+
+
+def _stats_moba(mid, meta):
+    """Dota 2/LoL: partidas del partido (ganador) y por jugador K/D/A, oro por minuto y héroe/campeón. «Rating» de la partida:
+    ln((K+A+1)/(D+1)) (cada alineación tiene un jugador por rol, así que el sesgo de rol se cancela entre equipos)."""
+    games = get(f"{SLUG}/stats/matches/{mid}/players_stats")
+    nick = {p["player_id"]: p.get("player") or {} for p in get(f"{SLUG}/stats/matches/{mid}/lineup")} if games else {}
+    grows, pp, agg = [], [], {}
+    for g in games:
+        if g.get("status") != "finished" or not g.get("winner_team_id"): continue
+        grows.append({"game_id": g["id"], **meta, "number": g.get("game_number"), "map": None, "winner_id": g["winner_team_id"],
+                      "ws": g.get("winner_score"), "ls": g.get("loser_score")})
+        for p in g.get(f"{SLUG}_game_players") or []:
+            pid, k, d, a = p.get("player_id"), p.get("kills") or 0, p.get("deaths") or 0, p.get("assists") or 0
+            if not pid: continue
+            unit = (p.get("dota2_hero") or {}).get("localized_name") if SLUG == "dota2" else (p.get("lol_champion") or {}).get("name")
+            r = round(math.log((k + a + 1) / (d + 1)), 3)
+            pp.append({"game_id": g["id"], "match_id": mid, "player_id": pid, "team_id": p.get("team_id"), "map": unit, "rating": r})
+            s = agg.setdefault(pid, {"match_id": mid, "player_id": pid, "nick": nick.get(pid, {}).get("nickname"),
+                                     "slug": nick.get(pid, {}).get("slug"), "team_id": p.get("team_id"), "kills": 0, "deaths": 0,
+                                     "assists": 0, "adr": 0.0, "kast": None, "rating": 0.0, "fk": None, "fd": None, "clutches": None, "n": 0})
+            s["kills"] += k; s["deaths"] += d; s["assists"] += a; s["adr"] += p.get("gold_per_min") or 0; s["rating"] += r; s["n"] += 1
+    pm = [{**s, "adr": round(s["adr"] / s["n"], 1), "rating": round(s["rating"] / s["n"], 3)} for s in agg.values()]  # adr = oro/min
+    return mid, pm, pp, grows
 
 
 def update_stats(games, workers=4, limit=None, chunk=400):
     """Baja las estadísticas de jugadores de los partidos que aún no las tienen (en paralelo moderado, guardando cada `chunk`)."""
     pm_old, pp_old, nos = _read(PMATCH, PM_COLS), _read(PMAPS, PP_COLS), _read(NOSTATS, ["match_id"])
     m = games[games.date >= SINCE].drop_duplicates("match_id").sort_values("date", ascending=False)
+    meta = {r["match_id"]: r for r in m[G_COLS[1:12]].to_dict("records")}
     recent = pd.to_datetime(m.date, utc=True) > pd.Timestamp.now(tz="UTC") - pd.Timedelta(days=3)  # stats aún pueden llegar
     todo = m[~m.match_id.isin(set(pm_old.match_id) | (set(nos.match_id) - set(m[recent].match_id)))]
-    todo = list(zip(todo.slug, todo.match_id))[:limit]
+    todo = [(sl, mi, meta[mi]) for sl, mi in zip(todo.slug, todo.match_id)][:limit]
     print(f"stats pendientes: {len(todo)}", flush=True)
     for i in range(0, len(todo), chunk):
-        pm, pp, empty = [], [], []
+        pm, pp, empty, gr = [], [], [], []
         with ThreadPoolExecutor(workers) as ex:
             for res in ex.map(lambda a: _safe_stats(*a), todo[i:i + chunk]):
                 if res is None: continue
-                mid, a, b = res
-                pm += a; pp += b
+                mid, a, b, c = res
+                pm += a; pp += b; gr += c
                 if not a: empty.append(mid)
         pm_old = pd.concat([pm_old, pd.DataFrame(pm, columns=PM_COLS)], ignore_index=True).drop_duplicates(["match_id", "player_id"])
         pp_old = pd.concat([pp_old, pd.DataFrame(pp, columns=PP_COLS)], ignore_index=True).drop_duplicates(["game_id", "player_id"])
         nos = pd.concat([nos, pd.DataFrame({"match_id": empty})]).drop_duplicates()
+        if gr: pd.concat([_read(GAMES, G_COLS), pd.DataFrame(gr, columns=G_COLS)]).drop_duplicates("game_id").sort_values(
+            ["date", "match_id", "number"]).to_csv(GAMES, index=False)
         pm_old.to_csv(PMATCH, index=False); pp_old.to_csv(PMAPS, index=False); nos.to_csv(NOSTATS, index=False)
         print(f"stats {i + len(todo[i:i + chunk])}/{len(todo)}", flush=True)
     return pm_old, pp_old
 
 
-def _safe_stats(slug, mid):
-    try: return _stats(slug, mid)
+def _safe_stats(slug, mid, meta=None):
+    try: return _stats(slug, mid, meta)
     except Exception as e:
         print("stats", slug, e, flush=True); return None
 
@@ -176,11 +224,11 @@ def build_graph():
     ser = ser.sort_values("date")
     for t in set(g.t1_id) | set(g.t2_id):
         G.add_node(T(t), type="equipo", nombre=names.get(t))
-    for m in g["map"].dropna().unique(): G.add_node(f"mapa:{m}", type="mapa", nombre=m.replace("de_", ""))
+    for m in set(g["map"].dropna()) | set(pp["map"].dropna()): G.add_node(f"{UNIT}:{m}", type=UNIT, nombre=m.replace("de_", ""))
     for tid, tg in g.groupby("tournament_id"):
         G.add_node(f"torneo:{int(tid)}", type="torneo", nombre=tg.tournament.iloc[0], nivel=tg.tier.iloc[0], fecha=str(tg.date.min().date()))
     for (t, m), x in gm.groupby(["team", "map"]):
-        G.add_edge(T(t), f"mapa:{m}", key="domina_mapa", mapas=len(x), wr=round(x.win.mean(), 3),
+        G.add_edge(T(t), f"{UNIT}:{m}", key="domina_mapa", mapas=len(x), wr=round(x.win.mean(), 3),
                    wr_ult_6m=round(x[x.date > now - pd.Timedelta(days=182)].win.mean(), 3) if (x.date > now - pd.Timedelta(days=182)).any() else None)
     for (t, r), x in ser.groupby(["team", "rival"]):
         w, l = int(x.won.sum()), int((~x.won).sum())
@@ -207,15 +255,16 @@ def build_graph():
         riv = {names.get(r, str(r)): {"n": len(y), "wr": round(y.win.mean(), 3)} for r, y in x.groupby("rival")}
         G.add_node(P(p), type="jugador", nick=last.nick, slug=last.slug if isinstance(last.slug, str) else None,
                    equipo_actual=names.get(last.team_id), partidos=len(a), mapas=len(x), rating=round(x.rating.mean(), 2),
-                   adr=round(a.adr.mean(), 1), kast=round(a.kast.mean(), 3), kd=round(k / max(dth, 1), 2),
-                   primeras_bajas=f"{int(a.fk.sum())}-{int(a.fd.sum())}", wr_mapas=round(x.win.mean(), 3),
+                   **({"adr": round(a.adr.mean(), 1), "kast": round(a.kast.mean(), 3)} if SLUG == "cs2" else {"oro_min": round(a.adr.mean())}),
+                   kd=round(k / max(dth, 1), 2),
+                   **({"primeras_bajas": f"{int(a.fk.sum())}-{int(a.fd.sum())}"} if SLUG == "cs2" else {}), wr_mapas=round(x.win.mean(), 3),
                    forma=round(x.rating.tail(10).mean(), 2), forma_wr=round(x.win.tail(10).mean(), 2), ultimo=str(x.date.max().date()),
                    mapas_fuertes=[m.replace("de_", "") for m in _top(maps, "rating")],
                    mapas_debiles=[m.replace("de_", "") for m in _top(maps, "rating", rev=False)],
                    rivales_favorables=_top(riv, "wr", min_n=4, wr=True), rivales_desfavorables=_top(riv, "wr", rev=False, min_n=4, wr=True),
                    )  # el detalle por mapa está en las aristas domina_mapa
         for m, v in maps.items():
-            G.add_edge(P(p), f"mapa:{m}", key="domina_mapa", mapas=v["n"], wr=v["wr"], rating=v["rating"])
+            G.add_edge(P(p), f"{UNIT}:{m}", key="domina_mapa", mapas=v["n"], wr=v["wr"], rating=v["rating"])
         for t, y in x.groupby("team_id"):
             if pd.isna(t): continue
             if T(t) not in G: G.add_node(T(t), type="equipo", nombre=None)
@@ -269,7 +318,6 @@ def load_graph():
     return nx.node_link_graph(json.loads(gzip.decompress(GRAPH.read_bytes())), edges="links")
 
 
-PARAMS = DIR / "players_params.json"  # coeficientes del ajuste sobre el Elo (los escribe backtest())
 FEATS = ["fuerza", "h2h", "quimica"]  # "mapas" (ventaja de mapa pool) no aporta en el backtest: se queda solo en el grafo
 
 
@@ -358,7 +406,11 @@ def run_states(g, pp, on_match=None):
     return st
 
 
-_STATE = None
+_STATE, _CARD = {}, {}  # por juego
+
+
+def _use(slug):
+    if slug != SLUG: configure(slug)
 
 
 def refresh():
@@ -371,50 +423,67 @@ def refresh():
         print("cs2_players refresh:", repr(e))
 
 
+_REFRESHED = []
+
+
+def refresh_all():
+    """En el bot horario (1 vez por proceso): datos y grafos de todos los juegos (CS2, Dota 2, LoL) y de FC 27 (fc_players.py),
+    aunque su modelo aún no los use, para que los grafos se mantengan solos sin tocar el workflow."""
+    _REFRESHED.append(1)
+    cur = SLUG
+    for sl in DISCIPLINES:
+        configure(sl); refresh()
+    configure(cur)
+    try:
+        import fc_players
+        fc_players.refresh()
+    except Exception as e:
+        print("fc_players:", repr(e))
+
+
 def state():
-    """Estado con todo lo jugado (se calcula una vez por proceso, ~15 s)."""
-    global _STATE
-    if _STATE is None:
-        if os.getenv("GITHUB_ACTIONS"): refresh()  # en el bot horario: datos y grafo al día sin tocar el workflow
+    """Estado del juego configurado con todo lo jugado (se calcula una vez por proceso y juego, ~15 s)."""
+    if SLUG not in _STATE:
+        if os.getenv("GITHUB_ACTIONS") and not _REFRESHED: refresh_all()  # en el bot horario: datos y grafos al día
         if PARAMS.exists():
             c = json.loads(PARAMS.read_text())
             Estado.DECAY, Estado.OPP = c.get("decay", Estado.DECAY), c.get("opp", Estado.OPP)
-        _STATE = run_states(*load())
-    return _STATE
+        _STATE[SLUG] = run_states(*load())
+    return _STATE[SLUG]
 
 
-def team_features(team_id, rival_id, fecha=None):
+def team_features(team_id, rival_id, fecha=None, slug="cs2"):
     """Features de team_id frente a rival_id con lo jugado hasta ahora: fuerza de la plantilla actual (rating medio de su
     última alineación), ventaja de mapa pool, H2H por mapas y química (mapas jugados juntos por las parejas)."""
+    _use(slug)
     d = pd.Timestamp(fecha or pd.Timestamp.now(tz="UTC"))
     return state().features(team_id, rival_id, d if d.tzinfo else d.tz_localize("UTC"))
 
 
-def ajustar(p_elo, team1_id, team2_id, fecha=None):
-    """Prob. de la serie del Elo de esports.py corregida con las features (coeficientes de players_params.json)."""
+def ajustar(p_elo, team1_id, team2_id, fecha=None, slug="cs2"):
+    """Prob. de la serie del Elo de esports.py corregida con las features (coeficientes de data/<slug>/players_params.json)."""
+    _use(slug)
     if not PARAMS.exists() or not GAMES.exists(): return p_elo
     c = json.loads(PARAMS.read_text())
-    f = team_features(team1_id, team2_id, fecha)
+    f = team_features(team1_id, team2_id, fecha, slug)
     p = min(max(p_elo, 1e-6), 1 - 1e-6)
     z = c["a"] * math.log(p / (1 - p)) + sum(c[k] * f[k] for k in FEATS)
     return 1 / (1 + math.exp(-z))
 
 
-_CARD = None
-
-
-def card_lines(team1_id, team2_id, name1, name2):
+def card_lines(team1_id, team2_id, name1, name2, slug="cs2"):
     """2-3 líneas en texto plano para la tarjeta de CS2 (escapar con A.esc): jugadores en forma de la plantilla actual
     (rating medio en sus 10 últimos mapas), mapa fuerte/débil de cada equipo (último año, ≥5 mapas) y química."""
-    global _CARD
+    _use(slug)
     st = state()
-    if _CARD is None:
+    if SLUG not in _CARD:
         g, pp = load()
         nick = _read(PMATCH, PM_COLS).drop_duplicates("player_id", keep="last").set_index("player_id").nick
         date = dict(zip(g.game_id, g.date))
         pp = pp.assign(date=pp.game_id.map(date)).sort_values("date")
-        _CARD = (g, pp.groupby("player_id").rating.apply(lambda r: r.tail(10).mean()), nick)
-    g, form, nick = _CARD
+        _CARD[SLUG] = (g, pp.groupby("player_id").rating.apply(lambda r: r.tail(10).mean()), nick)
+    g, form, nick = _CARD[SLUG]
+    cs = SLUG == "cs2"
     recent = g[g.date > g.date.max() - pd.Timedelta(days=365)]
     out = {"forma": [], "mapas": [], "quimica": []}
     for t, name in ((team1_id, name1), (team2_id, name2)):
@@ -423,13 +492,16 @@ def card_lines(team1_id, team2_id, name1, name2):
             out["forma"].append(f"{name}: sin datos"); out["mapas"].append(f"{name}: sin datos"); out["quimica"].append(f"{name}: sin datos")
             continue
         top = sorted(((form.get(p, 0), nick.get(p, "?")) for p in lu), reverse=True)[:2]
-        out["forma"].append(f"{name}: " + ", ".join(f"{n} {r:.1f}" for r, n in top))
-        m = recent[(recent.t1_id == t) | (recent.t2_id == t)].assign(w=lambda d: d.winner_id == t).groupby("map").w.agg(["mean", "size"])
+        out["forma"].append(f"{name}: " + ", ".join(f"{n} {r:.1f}" if cs else f"{n} {math.exp(r):.1f}" for r, n in top))
+        m = recent[((recent.t1_id == t) | (recent.t2_id == t)) & recent["map"].notna()].assign(w=lambda d: d.winner_id == t).groupby("map").w.agg(["mean", "size"])
         m = m[m["size"] >= 5].sort_values("mean")
         out["mapas"].append(f"{name}: " + (f"fuerte {m.index[-1].replace('de_', '')} {m['mean'].iloc[-1]:.0%}, débil {m.index[0].replace('de_', '')} "
                                            f"{m['mean'].iloc[0]:.0%}" if len(m) >= 2 else "pocos mapas"))
         pairs = [st.pair[a, b] for i, a in enumerate(lu) for b in lu[i + 1:]]
-        out["quimica"].append(f"{name}: {sum(pairs) / len(pairs):.0f} mapas juntos de media")
+        out["quimica"].append(f"{name}: {sum(pairs) / len(pairs):.0f} {'mapas' if cs else 'partidas'} juntos de media")
+    if not cs:  # Dota 2/LoL: no hay mapas; la forma es el KDA ((K+A+1)/(D+1)) de sus 10 últimas partidas
+        return [f"• Jugadores en forma (KDA últimas 10 partidas): {' | '.join(out['forma'])}",
+                f"• Química de la plantilla: {' | '.join(out['quimica'])}"]
     return [f"• Jugadores en forma (rating últimos 10 mapas): {' | '.join(out['forma'])}",
             f"• Mapas (último año): {' | '.join(out['mapas'])}",
             f"• Química de la plantilla: {' | '.join(out['quimica'])}"]
@@ -454,19 +526,20 @@ def frame(train_from="2024-11-01"):
     cada partido), logit de la prob. del Elo de producción de esports.py (con margen de rondas) y resultado."""
     import numpy as np
     import esports as E
+    E.configure(SLUG)
     since = pd.Timestamp(train_from, tz="UTC")
-    if train_from not in _ELO:
+    if (SLUG, train_from) not in _ELO:
         df = pd.read_csv(E.HIST)
         df["date"] = pd.to_datetime(df["date"], utc=True)
         df = df.sort_values("date", ignore_index=True)
         df = df[df.date >= df.date.max() - pd.DateOffset(years=4)]
         preds = {}
         E.map_elo(df, since, E.load_games(), preds)
-        _ELO[train_from] = df[df.date >= since].assign(p_elo=lambda d: d.id.map(lambda i: preds[i][0]))[["id", "t1_id", "winner_id", "p_elo"]]
+        _ELO[SLUG, train_from] = df[df.date >= since].assign(p_elo=lambda d: d.id.map(lambda i: preds[i][0]))[["id", "t1_id", "winner_id", "p_elo"]]
     g, pp = load()
     rows = []
     run_states(g, pp, lambda mid, t1, t2, d, st: rows.append({"id": mid, "t1": t1, "date": d, **st.features(t1, t2, d)}))
-    x = pd.DataFrame(rows).merge(_ELO[train_from], on="id")
+    x = pd.DataFrame(rows).merge(_ELO[SLUG, train_from], on="id")
     x = x[(x.t1 == x.t1_id) & (x.date >= since)]
     x["y"] = (x.winner_id == x.t1_id).astype(float)
     p = x.p_elo.clip(1e-6, 1 - 1e-6)
@@ -525,7 +598,8 @@ def walk_forward(grid_decay=(0.97, 0.99, 0.995, 1.0), grid_opp=(0.0, 0.5, 1.0, 1
 
 if __name__ == "__main__":
     cmd = sys.argv[1] if len(sys.argv) > 1 else "all"
-    if cmd in ("update", "all"): update(int(sys.argv[2]) if len(sys.argv) > 2 else None)
+    configure(sys.argv[2] if len(sys.argv) > 2 else "cs2")
+    if cmd in ("update", "all"): update()
     if cmd in ("graph", "all"): build_graph()
     if cmd == "backtest": backtest()
     if cmd == "walkforward": walk_forward()
