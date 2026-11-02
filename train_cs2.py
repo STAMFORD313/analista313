@@ -37,25 +37,6 @@ def fetch_regions(pause=0.3):
     print(E.SLUG, len(teams), "equipos")
 
 
-def vs_market(df, since, games):
-    """Modelo vs cuotas PREVIAS de Thunderpick (data/cs2/odds.csv): log-loss y ROI plano con ventaja 5-30 %."""
-    if not E.ODDS.exists(): return
-    preds = {}
-    E.map_elo(df, since, games, preds)
-    o = pd.read_csv(E.ODDS).merge(df[["id", "t1_id", "winner_id"]], on="id")
-    o = o[o.id.isin(preds) & (o.o1 > 1) & (o.o2 > 1)]
-    if o.empty: return print("vs Thunderpick: aún no hay partidos terminados con cuota previa")
-    o["p"], o["y"] = o.id.map(lambda i: preds[i][0]), (o.winner_id == o.t1_id).astype(int)
-    o["m"] = (1 / o.o1) / (1 / o.o1 + 1 / o.o2)
-    ll = lambda p: -(o.y * p.clip(1e-6, 1).map(math.log) + (1 - o.y) * (1 - p).clip(1e-6, 1).map(math.log)).mean()
-    for name, q in (("modelo", o.p), ("mezcla 50/50 (la del bot)", 0.5 * o.p + 0.5 * o.m)):
-        bets = [(e1, o.o1[i] - 1 if o.y[i] else -1) if 0.05 <= e1 <= 0.30 else (e2, o.o2[i] - 1 if not o.y[i] else -1)
-                for i, e1, e2 in zip(o.index, q * o.o1 - 1, (1 - q) * o.o2 - 1) if 0.05 <= e1 <= 0.30 or 0.05 <= e2 <= 0.30]
-        roi = sum(b[1] for b in bets) / len(bets) if bets else float("nan")
-        print(f"vs Thunderpick ({len(o)} partidos) {name}: log-loss {ll(q):.4f} vs mercado {ll(o.m):.4f}; "
-              f"ROI con ventaja 5-30 %: {roi:+.1%} en {len(bets)} apuestas")
-
-
 def fit_maps3(df, s1, s2, games):
     """Prob. de ir al 3er mapa en BO3: logística sobre logit(2p(1-p)) del Elo. Ajusta en el año -2, mide en el -1 y guarda
     el ajuste con los dos años. Devuelve (a, b) y lo imprime frente a mapas independientes y a la tasa base."""
@@ -98,6 +79,29 @@ def tune_region(df, s1, s2, games):
                                                    "logloss_region": round(b, 4)}))
 
 
+def year1_loss():
+    """Log-loss del año -1 con los parámetros cargados ahora en E (para comparar viejo y nuevo en la misma ventana)."""
+    d = pd.read_csv(E.HIST); d["date"] = pd.to_datetime(d["date"], utc=True); d = d.sort_values("date")
+    d = d[d.date >= d.date.max() - pd.DateOffset(years=4)]
+    return E.map_elo(d, d.date.max() - pd.DateOffset(years=1), E.load_games())[4]
+
+
+def auto():
+    """Reentreno semanal (workflow entrenar.yml): regiones nuevas la primera semana del mes y walk-forward; se queda
+    con lo nuevo solo si el log-loss del año -1 no empeora frente a los parámetros de antes en la MISMA ventana."""
+    files = [E.DIR / "params.json", E.DIR / "teams.csv"]
+    old = {f: f.read_bytes() for f in files if f.exists()}
+    before = year1_loss()
+    if pd.Timestamp.now(tz="UTC").day <= 7 or not (E.DIR / "teams.csv").exists(): fetch_regions()
+    main()
+    E.configure(E.SLUG)
+    after = year1_loss()
+    print(f"{E.SLUG}: año -1 antes {before:.4f} → después {after:.4f}")
+    if after > before:
+        for f, b in old.items(): f.write_bytes(b)
+        print(f"{E.SLUG}: empeora, se mantienen los parámetros anteriores")
+
+
 NAMES = {"K": "K", "new_k": "NEW_K", "decay": "DECAY", "k_bo1": "K_BO1", "series_scale": "SERIES_SCALE", "mov": "MOV"}
 
 
@@ -126,14 +130,16 @@ def main():
     print(f"Fuera de muestra: ajustado en año-2 → año-1 {bestA[1]:.4f} (en muestra {bestB[1]:.4f}); "
           f"ajustado en año-1 → año-2 {bestB[0]:.4f} (en muestra {bestA[0]:.4f})")
     print(f"MEJOR robusto {best[2]}: año-2 {best[0]:.4f} año-1 {best[1]:.4f} (azar = {math.log(2):.4f})")
-    (E.DIR / "params.json").write_text(json.dumps({**best[2], "tier_scale": 0, "start_spread": 1, "logloss": round(best[1], 4),
+    keep = {k: v for k, v in (json.loads((E.DIR / "params.json").read_text()) if (E.DIR / "params.json").exists() else {}).items()
+            if k == "blend"}  # el peso de la mezcla no lo decide este ajuste
+    (E.DIR / "params.json").write_text(json.dumps({**keep, **best[2], "tier_scale": 0, "start_spread": 1, "logloss": round(best[1], 4),
                                                    "logloss_prev_year": round(best[0], 4), "oos_next_year": round(bestA[1], 4)}))
     for n, v in best[2].items(): setattr(E, NAMES[n], v)
     E.ID_B = in_b
     tune_region(df, s1, s2, games)
     maps3 = fit_maps3(df, s1, s2, games)
     (E.DIR / "params.json").write_text(json.dumps({**json.loads((E.DIR / "params.json").read_text()), "maps3": maps3}))
-    vs_market(df, s2, games)
+    print("vs Thunderpick:", E.market_report())
 
 
 if __name__ == "__main__":
@@ -150,7 +156,6 @@ if __name__ == "__main__":
         d = d[d.date >= d.date.max() - pd.DateOffset(years=4)]
         m3 = fit_maps3(d, d.date.max() - pd.DateOffset(years=2), d.date.max() - pd.DateOffset(years=1), E.load_games())
         (E.DIR / "params.json").write_text(json.dumps({**json.loads((E.DIR / "params.json").read_text()), "maps3": m3})); print(m3)
-    elif "mercado" in sys.argv:  # solo la comparación con Thunderpick, con los parámetros guardados
-        d = pd.read_csv(E.HIST); d["date"] = pd.to_datetime(d["date"], utc=True); d = d.sort_values("date")
-        vs_market(d[d.date >= d.date.max() - pd.DateOffset(years=4)], d.date.max() - pd.DateOffset(years=1), E.load_games())
+    elif "mercado" in sys.argv: print("vs Thunderpick:", E.market_report())
+    elif "auto" in sys.argv: auto()
     else: main()

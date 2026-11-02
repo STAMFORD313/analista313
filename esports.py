@@ -19,7 +19,7 @@ DISCIPLINES = {"cs2": (1, "🎮", "CS2"), "dota2": (4, "🐉", "Dota 2"), "lol":
 
 def configure(slug):
     """Apunta el módulo a una disciplina: sus archivos en data/<slug>/ y sus parámetros entrenados (train_cs2.py <slug>)."""
-    global SLUG, DISC, ICON, NAME, TITLE, DIR, HIST, GAMES, ODDS, K, TIER_K, TIER_START, NEW_K, DECAY, K_BO1, SERIES_SCALE, MAPS3, MOV, REGION_K
+    global SLUG, DISC, ICON, NAME, TITLE, DIR, HIST, GAMES, ODDS, K, TIER_K, TIER_START, NEW_K, DECAY, K_BO1, SERIES_SCALE, MAPS3, MOV, REGION_K, BLEND
     SLUG, (DISC, ICON, NAME) = slug, DISCIPLINES[slug]
     TITLE = f"{ICON} {NAME}"
     DIR = A.DATA / slug
@@ -36,7 +36,8 @@ def configure(slug):
     SERIES_SCALE = P.get("series_scale", 1)  # escala de la diferencia de Elo en BO3/BO5
     MAPS3 = P.get("maps3", [0, 1])           # recalibración de la prob. de ir al 3er mapa en BO3 (ver bo3_scores)
     MOV = P.get("mov", 0)
-    REGION_K = P.get("region_k", 0)          # K del nivel de región (cruces interregionales); 0 = sin ajuste                    # margen de rondas: K × (ln(dif+1)/ln 7)^MOV (13-7 → ×1)
+    REGION_K = P.get("region_k", 0)
+    BLEND = P.get("blend", 0.5)              # peso del modelo frente a la prob. sin margen de Thunderpick (ver market_report)          # K del nivel de región (cruces interregionales); 0 = sin ajuste                    # margen de rondas: K × (ln(dif+1)/ln 7)^MOV (13-7 → ×1)
 
 
 configure("cs2")
@@ -203,7 +204,7 @@ def extra_markets(bet, p_map, g):
         inv = sum(1 / x for x in o)
         for k, ok in zip(pair, o):
             market, line, side, wins = EXTRA[k]
-            q = 0.5 * sum(v for (a, b), v in sc.items() if wins(a, b)) + 0.5 / ok / inv
+            q = BLEND * sum(v for (a, b), v in sc.items() if wins(a, b)) + (1 - BLEND) / ok / inv
             team = g["team1"] if side == 1 else g["team2"]
             pick = f"{team} {line:+g} mapas" if line else ("Más" if market == "over" else "Menos") + " de 2.5 mapas"
             if q >= A.MIN_P and A.EDGE <= q * ok - 1 <= A.MAX_EDGE:
@@ -215,10 +216,10 @@ def extra_markets(bet, p_map, g):
     return list(best.values())
 
 
-def save_odds(up, now):
+def save_odds(up, now, prob=lambda m: None):
     """Guarda la última cuota PREVIA de cada partido (la de bo3.gg en partidos terminados es la del final, en directo):
     sirve para medir calibración y ROI del modelo frente a Thunderpick sin mirar el futuro."""
-    rows = [{"id": m["id"], "seen": now.isoformat(), "start": m["start_date"],
+    rows = [{"id": m["id"], "seen": now.isoformat(), "start": m["start_date"], "p": prob(m),
              "o1": (m.get("bet_updates") or {}).get("team_1", {}).get("coeff"), "o2": (m.get("bet_updates") or {}).get("team_2", {}).get("coeff"),
              **{k: x.get("coeff") for x in (m.get("bet_updates") or {}).get("additional_markets") or [] for k in [x.get("bet_type")] if k in EXTRA}}
             for m in up if pd.Timestamp(m["start_date"]) > now]
@@ -226,6 +227,42 @@ def save_odds(up, now):
     if not rows: return
     old = pd.read_csv(ODDS) if ODDS.exists() else pd.DataFrame()
     pd.concat([old, pd.DataFrame(rows)]).drop_duplicates("id", keep="last").to_csv(ODDS, index=False)
+
+
+def market_report():
+    """Modelo vs Thunderpick con la prob. del modelo y la cuota PREVIA guardadas antes de cada partido (odds.csv):
+    partidos, log-loss de modelo / mezcla del bot / mercado sin margen / mezclas 0.25-0.75, y ROI plano (± error típico)
+    de lo que la mezcla habría apostado (ventaja entre EDGE y MAX_EDGE)."""
+    if not (ODDS.exists() and HIST.exists()): return {"n": 0}
+    o = pd.read_csv(ODDS)
+    if "p" not in o: return {"n": 0}
+    o = o.dropna(subset=["p", "o1", "o2"]).merge(pd.read_csv(HIST, usecols=["id", "t1_id", "winner_id"]), on="id")
+    o = o[(o.o1 > 1) & (o.o2 > 1)]
+    if o.empty: return {"n": 0}
+    y = (o.winner_id == o.t1_id).astype(float)
+    mk = (1 / o.o1) / (1 / o.o1 + 1 / o.o2)
+    ll = lambda q: float(-(y * q.clip(1e-6, 1).map(math.log) + (1 - y) * (1 - q).clip(1e-6, 1).map(math.log)).mean())
+    q = BLEND * o.p + (1 - BLEND) * mk
+    ret = [(o1 - 1 if yy else -1) if A.EDGE <= q1 * o1 - 1 <= A.MAX_EDGE else (o2 - 1 if not yy else -1)
+           for q1, o1, o2, yy in zip(q, o.o1, o.o2, y) if A.EDGE <= q1 * o1 - 1 <= A.MAX_EDGE or A.EDGE <= (1 - q1) * o2 - 1 <= A.MAX_EDGE]
+    sd = pd.Series(ret, dtype=float)
+    return {"n": len(o), "modelo": ll(o.p), "mezcla": ll(q), "mercado": ll(mk), "blend": BLEND,
+            **{f"mezcla_{w}": ll(w * o.p + (1 - w) * mk) for w in (0.25, 0.5, 0.75)},
+            "apuestas": len(ret), "roi": float(sd.mean()) if ret else None,
+            "roi_err": float(sd.std() / len(sd) ** 0.5) if len(ret) > 1 else None}
+
+
+def market_report_md():
+    """Tabla Markdown del informe frente a Thunderpick por esport (para ESTADISTICAS.md)."""
+    out = ["| Esport | Partidos | Log-loss modelo | Mezcla del bot | Mercado | Apuestas | ROI (± error) |", "|---|---|---|---|---|---|---|"]
+    for slug in DISCIPLINES:
+        configure(slug)
+        r = market_report()
+        if not r["n"]: out.append(f"| {TITLE} | 0 | — | — | — | — | — |"); continue
+        roi = f"{r['roi']:+.1%} ± {r['roi_err']:.1%}" if r["roi_err"] is not None else (f"{r['roi']:+.1%}" if r["roi"] is not None else "—")
+        out.append(f"| {TITLE} | {r['n']} | {r['modelo']:.4f} | {r['mezcla']:.4f} (peso {r['blend']}) | {r['mercado']:.4f} | {r['apuestas']} | {roi} |")
+    configure("cs2")
+    return "\n".join(out)
 
 
 def players_adjust(p, t1, t2):
@@ -257,18 +294,26 @@ def run_one(state, today, kg):
     try: up = get(**{"sort": "start_date", "filter[matches.status][in]": "upcoming"})["results"]
     except (requests.RequestException, ValueError) as e:
         print("bo3.gg", e); return
-    save_odds(up, now)
-    for m in up:
-        start, bet, key = pd.Timestamp(m["start_date"]), m.get("bet_updates") or {}, f"{SLUG}|{m['id']}"
-        if not (now < start < now + pd.Timedelta(hours=36)) or key in state["analyzed"]: continue
-        g = row(m)
-        if not g or g["bo"] % 2 == 0: continue  # BO2 admite empate: el Elo de serie no lo cubre
+
+    def model(m):
+        """(fila, Elo 1, Elo 2, prob. mapa, prob. serie) con lo sabido ahora; None si no hay equipos o es BO par."""
+        g, start = row(m), pd.Timestamp(m["start_date"])
+        if not g or g["bo"] % 2 == 0: return None  # BO2 admite empate: el Elo de serie no lo cubre
         r1, r2 = (decayed(R[t], (start - last[t]).days, TIER_START.get(tier[t], 1450)) if t in R else TIER_START.get(g["tier"], 1450)
                   for t in (g["t1_id"], g["t2_id"]))
         r1, r2 = r1 + G.get(reg.get(g["t1_id"]), 0.0), r2 + G.get(reg.get(g["t2_id"]), 0.0)  # nivel de su región
         p_map = map_prob(r1, r2, g["bo"])
         p = series_prob(p_map, g["bo"])
         if SLUG == "cs2" and g["tier"] in ("s", "a", "b"): p = players_adjust(p, g["t1_id"], g["t2_id"])
+        return g, r1, r2, p_map, p
+
+    save_odds(up, now, lambda m: round(x[4], 4) if (x := model(m)) else None)  # la prob. previa queda guardada para el informe
+    for m in up:
+        start, bet, key = pd.Timestamp(m["start_date"]), m.get("bet_updates") or {}, f"{SLUG}|{m['id']}"
+        if not (now < start < now + pd.Timedelta(hours=36)) or key in state["analyzed"]: continue
+        x = model(m)
+        if not x: continue
+        g, r1, r2, p_map, p = x
         hh = df[((df.t1_id == g["t1_id"]) & (df.t2_id == g["t2_id"])) | ((df.t1_id == g["t2_id"]) & (df.t2_id == g["t1_id"]))]
         h2h = f"{len(hh)}: {int((hh.winner_id == g['t1_id']).sum())}-{int((hh.winner_id == g['t2_id']).sum())}" if len(hh) else "sin precedentes"
         kg.match(TITLE, g["team1"], g["team2"], start, {"1": p, "2": 1 - p}, ([], []), h2h)
@@ -277,7 +322,7 @@ def run_one(state, today, kg):
         if not (o1 and o2 and o1 > 1 and o2 > 1): continue
         inv, cands = 1 / o1 + 1 / o2, []
         for side, q_model, o, tid, name in ((1, p, o1, g["t1_id"], g["team1"]), (2, 1 - p, o2, g["t2_id"], g["team2"])):
-            q = 0.5 * q_model + 0.5 / o / inv
+            q = BLEND * q_model + (1 - BLEND) / o / inv
             if q >= A.MIN_P:
                 cands.append({"market": f"t{side}", "team_id": tid, "pick": name, "odds": o, "book": "Thunderpick",
                               "p": round(q, 3), "implied": round(1 / o / inv, 3), "edge": round(q * o - 1, 3)})

@@ -215,3 +215,12 @@ assert esports.DISC == 4 and esports.HIST.parent.name == "dota2" and esports.TIT
 esports.configure("cs2")
 assert esports.DISC == 1 and esports.SLUG == "cs2"
 print("ok más esports")
+_d = Path(tempfile.mkdtemp())
+pd.DataFrame({"id": [1, 2], "p": [0.8, 0.4], "o1": [1.6, 2.6], "o2": [2.4, 1.5]}).to_csv(_d / "odds.csv", index=False)
+pd.DataFrame({"id": [1, 2], "t1_id": [5, 6], "winner_id": [5, 7]}).to_csv(_d / "matches.csv", index=False)
+esports.ODDS, esports.HIST = _d / "odds.csv", _d / "matches.csv"
+_r = esports.market_report()
+assert _r["n"] == 2 and _r["modelo"] < _r["mercado"] and _r["apuestas"] >= 1
+esports.configure("cs2")
+assert "| 🎮 CS2 |" in esports.market_report_md()
+print("ok informe esports vs Thunderpick")
