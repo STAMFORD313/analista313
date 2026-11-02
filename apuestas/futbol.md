@@ -1,6 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 02/11/2026 18:09 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 02/11/2026 18:15 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Kalamata vs Iraklis — 02/11 · 18:30
 

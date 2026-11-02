@@ -1,6 +1,6 @@
 # 🏀 NBA·NCAA · apuestas de valor
 
-Actualizado 02/11/2026 18:09 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 02/11/2026 18:15 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Northern Kentucky Norse vs UTEP Miners — 02/11 · 20:00
 

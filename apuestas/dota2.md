@@ -1,6 +1,6 @@
 # 🐉 Dota 2 · apuestas de valor
 
-Actualizado 02/11/2026 18:09 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 02/11/2026 18:15 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## GamerLegion vs CyberHero — 02/11 · 20:00
 
