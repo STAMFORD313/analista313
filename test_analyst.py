@@ -213,6 +213,15 @@ assert [v["market"] for v in multisport.choices((0.5, 0.3, 0.2), (2.2, 3.3, 5.0)
 assert {"cfb", "cbb", "ucl", "uel"} <= set(multisport.SPORTS) and "uecl" not in multisport.SPORTS
 print("ok competiciones ESPN nuevas")
 
+import starters  # porteros titulares: un portero que encaja menos que la media sube la prob. de su equipo
+g1 = pd.DataFrame({"id": ["1", "2"], "home": ["A", "A"], "away": ["B", "B"]})
+gl1 = pd.DataFrame({"id": ["1", "1", "2", "2"], "date": ["2026-01-01", "2026-01-01", "2026-01-03", "2026-01-03"],
+                    "side": ["home", "away"] * 2, "goalie": ["g1", "g2", "g3", "g2"], "toi": 60.0, "sa": 30.0, "ga": [0.0, 6.0, 3.0, 3.0]})
+d1, st1 = starters.ratings(g1, gl1, 180, 30)
+assert d1["1"] == 0 and st1["G"]["g1"][0] > 0 > st1["G"]["g2"][0] and d1["2"] > 0  # g3 nuevo (media) vs g2 malo
+assert starters.adjust(0.5, 0, 75, 30) == 0.5 and starters.adjust(0.5, 0.01, 75, 30) > 0.5
+print("ok porteros")
+
 import esports
 sc = esports.bo3_scores(0.6)
 assert abs(sum(sc.values()) - 1) < 1e-9 and sc[(2, 0)] > sc[(0, 2)]

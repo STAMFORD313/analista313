@@ -30,6 +30,7 @@ SPORTS.update({l: (*v, _X[l]["hfa"], _X[l]["K"]) for l, v in {  # competiciones 
     "ucl": ("soccer/uefa.champions", "🏆 Champions League", "fútbol"),
     "uel": ("soccer/uefa.europa", "🏆 Europa League", "fútbol")}.items() if l in _X})  # Conference: sin señal en el backtest
 _P = {**_X, **_P}
+STARTERS = json.loads((A.DATA / "starters.json").read_text()) if (A.DATA / "starters.json").exists() else {}  # starters.py
 SOCCER = ("ucl", "uel")  # 1X2 con empate: un Elo común con la Conference y probs. con espn_extra.soccer_probs
 TOT = json.loads(totals_model.PARAMS.read_text()) if totals_model.PARAMS.exists() else {}  # lo ajusta totals_model.py
 SPREAD = {**TOT.get("spread", {}), **{l: c["spread"] for l, c in _P.items() if "spread" in c}}  # margen desde el Elo (NBA, NFL)
@@ -62,7 +63,8 @@ def parse(data):
             res = (1.0 if h.get("winner") else 0.0 if a.get("winner") else 0.5) if state == "post" else None
             rows.append({"id": c["id"], "date": c.get("date") or ev["date"], "event": ev.get("name", ""),
                          "home": name(h), "away": name(a), "hs": h.get("score"), "as": a.get("score"), "res": res,
-                         "state": state, "odds": c.get("odds")})
+                         "state": state, "odds": c.get("odds"),  # titular probable (portero NHL / abridor MLB)
+                         "prob": [str(((x.get("probables") or [{}])[0].get("athlete") or {}).get("id") or "") for x in (h, a)]})
     return rows
 
 
@@ -299,6 +301,10 @@ def run_league(league, state, today, kg):
             c: v for c, v in json.loads(ufc_model.PARAMS.read_text()).items() if c in ("kt", "pw", "hfa", "idle", "keep")})[0])
         pred = dict(zip(allg.index, pred))
     prob = lambda g: pred[g["id"]] if not k else win_prob(R, g["home"], g["away"], hfa + injury_elo(inj.get(g["home"], [])) - injury_elo(inj.get(g["away"], [])))
+    if league in STARTERS:  # portero titular probable (NHL) frente al habitual del equipo
+        import starters
+        sd, elo_p = starters.live(league, df, pre, now), prob
+        prob = lambda g: float(starters.adjust(elo_p(g), sd[g["id"]], STARTERS[league]["c"], starters.CONF[league][2]))
     p3 = (lambda p: espn_extra.soccer_probs([p], _P[league])[0]) if soccer else None
     save_odds(league, pre, now, prob, pts, p3)
     for g in sorted(new, key=lambda g: g["date"]):
