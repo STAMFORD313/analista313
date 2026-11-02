@@ -1,14 +1,14 @@
 """Escucha los botones de Telegram casi sin pausa (cada ejecución de GitHub Actions dura ~5 h 45 min y la
 siguiente la releva): al pulsar un deporte, el bot muestra solo las apuestas de ese deporte en un único mensaje
 que se va editando. Lee el estado que publica la ejecución horaria (git fetch cada 5 min)."""
-import json, subprocess, time
+import json, os, subprocess, time
 
 import requests
 
 import analyst as A
 import radar
 
-RUN_SECONDS, REFRESH = 5 * 3600 + 45 * 60, 300
+RUN_SECONDS, REFRESH, KICK = 5 * 3600 + 45 * 60, 300, 1800
 API = f"https://api.telegram.org/bot{A.TG}"
 
 
@@ -26,10 +26,24 @@ def target_message(cq, state):
     return mid if mid and mid != state.get("scoreboard_id") else None
 
 
+def kick_analysis():
+    """Lanza el workflow `analista` cada 30 min (el cron de GitHub se salta horas). Necesita GITHUB_TOKEN con actions: write."""
+    repo, token = os.getenv("GITHUB_REPOSITORY"), os.getenv("GITHUB_TOKEN")
+    if not (repo and token): return
+    try:
+        r = requests.post(f"https://api.github.com/repos/{repo}/actions/workflows/analista.yml/dispatches",
+                          headers={"Authorization": f"Bearer {token}", "Accept": "application/vnd.github+json"},
+                          json={"ref": "main"}, timeout=30)
+        if r.status_code != 204: print("dispatch analista", r.status_code, r.text[:200])
+    except requests.RequestException as e: print("dispatch analista", e)
+
+
 def main():
     state, loaded, view, last, offset, shown = load_state(), time.time(), None, "futbol", None, None
     end = time.time() + RUN_SECONDS
+    kicked = 0
     while time.time() < end:
+        if time.time() - kicked > KICK: kick_analysis(); kicked = time.time()
         if time.time() - loaded > REFRESH: state, loaded = load_state(), time.time()
         try:
             ups = requests.get(f"{API}/getUpdates", params={"timeout": 50, "offset": offset,
