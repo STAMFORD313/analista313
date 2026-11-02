@@ -7,7 +7,7 @@ concurrency: entrenar
 jobs:
   run:
     runs-on: ubuntu-latest
-    timeout-minutes: 180
+    timeout-minutes: 240
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -15,10 +15,16 @@ jobs:
       - run: pip install -r requirements.txt
       # cada juego por separado: si uno falla, los demás se entrenan igual; solo cambia params.json si no empeora
       - run: for g in cs2 dota2 lol r6 mlbb; do python train_cs2.py $g auto || echo "fallo en $g"; done
+      # modelos de [agente-modelos]: también solo cambian parámetros si no empeoran fuera de muestra
+      - run: |
+          pip install scikit-learn
+          python train_espn.py || echo "fallo en train_espn"
+          python train_espn.py ncaa || echo "fallo en train_espn ncaa"
+          python train_football.py || echo "fallo en train_football"
       - run: |
           git config user.name analista-bot
           git config user.email actions@users.noreply.github.com
-          git add data/{cs2,dota2,lol,r6,mlbb}/params.json data/{cs2,dota2,lol,r6,mlbb}/teams.csv
+          git add data/{cs2,dota2,lol,r6,mlbb}/params.json data/{cs2,dota2,lol,r6,mlbb}/teams.csv data/espn_params.json data/espn_markets.json data/football_params.json
           git diff --cached --quiet && exit 0
           git commit -m "reentreno semanal de esports $(date -u +%F)"
           for i in 1 2 3 4 5; do git pull --rebase --autostash -X theirs -q && git push && exit 0; git rebase --abort 2>/dev/null; sleep 10; done; exit 1
