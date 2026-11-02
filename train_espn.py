@@ -53,26 +53,36 @@ def spread_fit(df, c, val, test):
     return {"a": float(a), "b": float(b), "sd": sd, "crps": round(float(new), 3), "crps_old": round(float(was), 3)}
 
 
+def measure(name, P, odds, y):
+    """log-loss modelo vs mercado sin margen, peso óptimo del modelo y ROI (mezcla 0.5, EDGE de analyst)."""
+    m = np.isfinite(P).all(1) & np.isfinite(odds).all(1) & np.isfinite(y)
+    if m.sum() < 10: return print(f"{name}: {m.sum()} partidos terminados con cuota, aún pocos")
+    P, odds, y = P[m], odds[m], y[m].astype(int)
+    mk = (1 / odds) / (1 / odds).sum(1, keepdims=True)
+    G = np.where(np.arange(P.shape[1])[None, :] == y[:, None], odds - 1, -1.0)
+    lls = {w: TF.logloss(w * P + (1 - w) * mk, y) for w in np.round(np.arange(0, 1.01, 0.1), 1)}
+    r = TF.roi_g(0.5 * P + 0.5 * mk, odds, G, M.A.EDGE)
+    print(f"{name}: {m.sum()} partidos · log-loss modelo {lls[1.0]:.4f} · mercado {lls[0.0]:.4f} · "
+          f"mejor peso {min(lls, key=lls.get)} ({min(lls.values()):.4f}) · ROI {r[0]:+.1%} ± {r[2]:.1%} en {r[1]} apuestas")
+
+
 def market_report():
     """Con las cuotas previas guardadas por multisport.save_odds y los partidos ya terminados: log-loss del modelo y del
-    mercado sin margen, peso óptimo del modelo en la mezcla y ROI (mezcla actual 0.5, EDGE de analyst) por liga y mercado."""
+    mercado sin margen, peso óptimo del modelo en la mezcla y ROI por liga y mercado."""
     for f in sorted(M.DIR.glob("odds_*.csv")):
         league = f.stem[5:]
-        o = pd.read_csv(f, dtype={"id": str}).merge(load(league)[["id", "hs", "as", "res"]], on="id")
-        hs, as_ = pd.to_numeric(o.hs, errors="coerce"), pd.to_numeric(o["as"], errors="coerce")
-        for name, pm, a, b, y in (("ganador", o.p, o.oh, o.oa, (o.res == 0).astype(int).where(o.res != 0.5)),
-                                  ("total", o.p_over, o.to, o.tu, (hs + as_ < o.tl).astype(int).where(hs + as_ != o.tl)),
-                                  ("hándicap", o.p_cover, o.sh, o.sa, (hs - as_ + o.sl < 0).astype(int).where(hs - as_ + o.sl != 0))):
-            m = pm.notna() & a.notna() & b.notna() & y.notna()
-            if m.sum() < 10:
-                print(f"{league} {name}: {m.sum()} partidos terminados con cuota, aún pocos"); continue
-            odds = np.column_stack([a[m], b[m]]).astype(float)
-            P, mk, yy = np.column_stack([pm[m], 1 - pm[m]]), (1 / odds) / (1 / odds).sum(1, keepdims=True), y[m].to_numpy(int)
-            G = np.where(np.arange(2)[None, :] == yy[:, None], odds - 1, -1.0)
-            lls = {w: TF.logloss(w * P + (1 - w) * mk, yy) for w in np.round(np.arange(0, 1.01, 0.1), 1)}
-            r = TF.roi_g(0.5 * P + 0.5 * mk, odds, G, M.A.EDGE)
-            print(f"{league} {name}: {m.sum()} partidos · log-loss modelo {lls[1.0]:.4f} · mercado {lls[0.0]:.4f} · "
-                  f"mejor peso {min(lls, key=lls.get)} ({min(lls.values()):.4f}) · ROI {r[0]:+.1%} ± {r[2]:.1%} en {r[1]} apuestas")
+        hist = pd.concat([load(league)] + ([load(l) for l in ("ucl", "uel", "uecl") if l != league] if league in M.SOCCER else []))
+        o = pd.read_csv(f, dtype={"id": str}).merge(hist[["id", "hs", "as", "res"]].drop_duplicates("id"), on="id")
+        col = lambda *c: np.column_stack([pd.to_numeric(o[x], errors="coerce") if x in o else np.full(len(o), np.nan) for x in c])
+        hs, as_, res = col("hs")[:, 0], col("as")[:, 0], col("res")[:, 0]
+        nan = lambda cond, v: np.where(cond, np.nan, v)
+        if "od" in o:  # fútbol: 1X2 con empate
+            p = col("p", "pd")
+            measure(f"{league} 1X2", np.column_stack([p, 1 - p.sum(1)]), col("oh", "od", "oa"), np.select([res == 1, res == 0.5], [0, 1], 2).astype(float))
+        else: measure(f"{league} ganador", np.column_stack([col("p"), 1 - col("p")]), col("oh", "oa"), nan(res == 0.5, (res == 0).astype(float)))
+        tl, sl = col("tl")[:, 0], col("sl")[:, 0]
+        measure(f"{league} total", np.column_stack([col("p_over"), 1 - col("p_over")]), col("to", "tu"), nan(hs + as_ == tl, (hs + as_ < tl).astype(float)))
+        measure(f"{league} hándicap", np.column_stack([col("p_cover"), 1 - col("p_cover")]), col("sh", "sa"), nan(hs - as_ + sl == 0, (hs - as_ + sl < 0).astype(float)))
 
 
 def main():

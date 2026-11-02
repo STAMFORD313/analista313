@@ -23,6 +23,14 @@ YEARS = 10
 DIR = A.DATA / "espn"
 _P = json.loads((A.DATA / "espn_params.json").read_text()) if (A.DATA / "espn_params.json").exists() else {}  # lo ajusta train_espn.py
 for _l, _p in _P.items(): SPORTS[_l] = (*SPORTS[_l][:3], _p["hfa"], _p["K"])
+_X = json.loads((A.DATA / "espn_extra_params.json").read_text()) if (A.DATA / "espn_extra_params.json").exists() else {}
+SPORTS.update({l: (*v, _X[l]["hfa"], _X[l]["K"]) for l, v in {  # competiciones de espn_extra.py (agente-datos)
+    "cfb": ("football/college-football", "🏈 NCAA Football", "fútbol americano"),
+    "cbb": ("basketball/mens-college-basketball", "🏀 NCAA Basketball", "baloncesto"),
+    "ucl": ("soccer/uefa.champions", "🏆 Champions League", "fútbol"),
+    "uel": ("soccer/uefa.europa", "🏆 Europa League", "fútbol")}.items() if l in _X})  # Conference: sin señal en el backtest
+_P = {**_X, **_P}
+SOCCER = ("ucl", "uel")  # 1X2 con empate: un Elo común con la Conference y probs. con espn_extra.soccer_probs
 TOT = json.loads(totals_model.PARAMS.read_text()) if totals_model.PARAMS.exists() else {}  # lo ajusta totals_model.py
 SPREAD = {**TOT.get("spread", {}), **{l: c["spread"] for l, c in _P.items() if "spread" in c}}  # margen desde el Elo (NBA, NFL)
 TOT = {l: c for l, c in TOT.items() if l != "spread" and c["ou"] < c["ou_old"]}  # solo ligas donde mejora el más/menos
@@ -113,10 +121,14 @@ def moneyline(odds):
 
 
 def signals(p_home, oh, oa, every=False):
-    if not (oh and oa): return []
-    inv, out = 1 / oh + 1 / oa, []
-    for side, p, o in (("home", p_home, oh), ("away", 1 - p_home, oa)):
-        q = 0.5 * p + 0.5 / o / inv  # mezcla Elo + mercado sin margen, como en fútbol
+    return choices((p_home, 1 - p_home), (oh, oa), ("home", "away"), every)
+
+
+def choices(ps, odds, sides, every=False, w=0.5):
+    if not (odds and all(odds)): return []
+    inv, out = sum(1 / o for o in odds), []
+    for side, p, o in zip(sides, ps, odds):
+        q = w * p + (1 - w) / o / inv  # mezcla Elo + mercado sin margen
         if q >= A.MIN_P and (every or A.EDGE <= q * o - 1 <= A.MAX_EDGE):
             out.append({"market": side, "odds": o, "book": "DraftKings", "p": round(q, 3), "implied": round(1 / o / inv, 3),
                         "edge": round(q * o - 1, 3)})
@@ -203,6 +215,7 @@ def settle(df, league, state):
             elif s["market"] in ("over", "under"):
                 t = float(r["hs"]) + float(r["as"])
                 s["result"] = "nula" if t == s["line"] else (t > s["line"]) == (s["market"] == "over")
+            elif league in SOCCER: s["result"] = r["res"] == {"home": 1.0, "D": 0.5, "away": 0.0}[s["market"]]
             else: s["result"] = "nula" if r["res"] == 0.5 else (r["res"] == 1) == (s["market"] == "home")
             if pd.notna(r["hs"]) and pd.notna(r["as"]): s["score"] = f"{int(float(r['hs']))}-{int(float(r['as']))}"
 
@@ -217,7 +230,7 @@ def line_details(odds):
     except (TypeError, IndexError, AttributeError): return "", None
 
 
-def save_odds(league, games, now, prob, pts):
+def save_odds(league, games, now, prob, pts, p3=None):
     """Guarda la última cuota PREVIA de DraftKings de cada partido (moneyline, total y hándicap) con la prob. del modelo
     en ese momento: train_espn.py informe mide con ellas log-loss frente al mercado, mezcla óptima y ROI."""
     rows = []
@@ -225,8 +238,11 @@ def save_odds(league, games, now, prob, pts):
         (oh, oa), (tl, to, tu), (sl, sh, sa) = moneyline(g["odds"]), totals(g["odds"]), spreads(g["odds"])
         if not (oh or to or sh): continue
         p = prob(g)
+        if p3:  # fútbol: prob. del local y del empate, y cuota del empate
+            import espn_extra
+            (p, pd_, _), od = p3(p), (espn_extra.moneyline3(g["odds"]) or (None,) * 3)[1]
         rows.append({"id": g["id"], "seen": now.isoformat(), "start": g["date"], "home": g["home"], "away": g["away"],
-                     "p": round(p, 4), "oh": oh, "oa": oa, "tl": tl, "to": to, "tu": tu,
+                     "p": round(p, 4), "oh": oh, "oa": oa, **({"pd": round(pd_, 4), "od": od} if p3 else {}), "tl": tl, "to": to, "tu": tu,
                      "p_over": round(over_prob(pts, g["home"], g["away"], tl, league)[0], 4) if pts and tl and to else None,
                      "sl": sl, "sh": sh, "sa": sa,
                      "p_cover": round(totals_model.p_cover(league, p, sl, {"spread": SPREAD}), 4) if league in SPREAD and sl is not None else None})
@@ -238,15 +254,21 @@ def save_odds(league, games, now, prob, pts):
 
 def run_league(league, state, today, kg):
     path, title, sport, hfa, k = SPORTS[league]
-    df = update_history(league, today)
+    soccer, extra = league in SOCCER, league in _X
+    if extra:
+        import espn_extra  # importación tardía: espn_extra importa este módulo
+        df = pd.concat([espn_extra.history(l, today) for l in (espn_extra.SOCCER if soccer else [league])])
+        df = df.drop_duplicates("id").sort_values("date", ignore_index=True)
+    else: df = update_history(league, today)
     print(f"{league}: {len(df)} partidos de historial")
     settle(df, league, state)
     p_ = _P.get(league, {})
     R = elo(df, hfa, k, None, p_.get("keep", 0.75), p_.get("kt", 250), p_.get("mov", False)) if k else None
-    pts = points_model(df, league, today) if k else None  # totales solo en deportes de equipo
+    pts = points_model(df, league, today) if k and not extra else None  # totales solo en las ligas con backtest
     games = {}
     for d in pd.date_range(today, periods=A.HORIZON_DAYS + 1):
-        try: games.update({g["id"]: g for g in parse(get(f"{path}/scoreboard", dates=f"{d:%Y%m%d}", limit=1000)) if g["state"] == "pre"})
+        q = {"limit": 300, **espn_extra.EXTRA[league][3]} if extra else {"limit": 1000}  # college: groups y limit 300
+        try: games.update({g["id"]: g for g in parse(get(f"{path}/scoreboard", dates=f"{d:%Y%m%d}", **q)) if g["state"] == "pre"})
         except (requests.RequestException, ValueError, KeyError) as e: print("ESPN", league, d, e)
     now = pd.Timestamp.now(tz="UTC")
     pre = [g for g in games.values() if pd.Timestamp(g["date"]) > now and "TBD" not in (g["home"], g["away"])]
@@ -261,7 +283,8 @@ def run_league(league, state, today, kg):
             c: v for c, v in json.loads(ufc_model.PARAMS.read_text()).items() if c in ("kt", "pw", "hfa", "idle", "keep")})[0])
         pred = dict(zip(allg.index, pred))
     prob = lambda g: pred[g["id"]] if not k else win_prob(R, g["home"], g["away"], hfa + injury_elo(inj.get(g["home"], [])) - injury_elo(inj.get(g["away"], [])))
-    save_odds(league, pre, now, prob, pts)
+    p3 = (lambda p: espn_extra.soccer_probs([p], _P[league])[0]) if soccer else None
+    save_odds(league, pre, now, prob, pts, p3)
     for g in sorted(new, key=lambda g: g["date"]):
         home, away = g["home"], g["away"]
         squads = [inj.get(t, []) for t in (home, away)]
@@ -269,7 +292,8 @@ def run_league(league, state, today, kg):
         hh = df[((df.home == home) & (df.away == away)) | ((df.home == away) & (df.away == home))]
         wins = lambda t: int((((hh.home == t) & (hh.res == 1)) | ((hh.away == t) & (hh.res == 0))).sum())
         h2h = f"{len(hh)} desde {hh.date.min():%Y}: {wins(home)}-{wins(away)}" if len(hh) else "sin precedentes"
-        kg.match(title, home, away, g["date"], {"1": p, "2": 1 - p}, squads, h2h)
+        P3 = p3(p) if soccer else None
+        kg.match(title, home, away, g["date"], dict(zip("1X2", P3)) if soccer else {"1": p, "2": 1 - p}, squads, h2h)
         state["analyzed"].append(key(league, g))
         line, oo, ou = totals(g["odds"])
         if pts and line and oo and ou:
@@ -299,16 +323,19 @@ def run_league(league, state, today, kg):
                     "context": f"{home} vs {away} ({title}). Hándicap {team} {v['line']:+g}: margen esperado desde el Elo "
                                f"(gana {home} {p:.0%}). Forma {home} {form(df, home)}, {away} {form(df, away)}. H2H {h2h}. "
                                f"Bajas: {A.absences_line(home, squads[0])}; {A.absences_line(away, squads[1])}."})
-        oh, oa = moneyline(g["odds"])
-        cands = signals(p, oh, oa, every=True)
+        o3 = espn_extra.moneyline3(g["odds"]) if soccer else None
+        # fútbol: mismo peso del modelo que el 1X2 de ligas (train_football: el mercado gana; con 0 solo hay candidatas)
+        cands = choices(P3, o3, ("home", "D", "away"), True, A.W["1x2"]) if soccer else signals(p, *moneyline(g["odds"]), every=True)
         if not cands: continue
+        oh, oa = (o3[0], o3[2]) if soccer else moneyline(g["odds"])
+        odds = o3 if soccer else (oh, oa)
+        mk = [1 / o / sum(1 / x for x in odds) for o in odds]  # casas sin margen
         vb = [v for v in cands if A.EDGE <= v["edge"] <= A.MAX_EDGE] or [max(cands, key=lambda v: v["edge"])]
         details, total = line_details(g["odds"])
         fav = home if oh < oa else away
         info = [f"📊 <b>Escenarios</b> (Elo con {len(df):,} partidos y bajas)".replace(",", "."),
-                f"Gana {A.esc(home)} {p:.0%} · Gana {A.esc(away)} {1 - p:.0%}",
-                f"Casas: {A.esc(home)} {vb[0]['implied'] if vb[0]['market'] == 'home' else 1 - vb[0]['implied']:.0%} · "
-                f"{A.esc(away)} {vb[0]['implied'] if vb[0]['market'] == 'away' else 1 - vb[0]['implied']:.0%}"]
+                f"1 {P3[0]:.0%} · X {P3[1]:.0%} · 2 {P3[2]:.0%}" if soccer else f"Gana {A.esc(home)} {p:.0%} · Gana {A.esc(away)} {1 - p:.0%}",
+                f"Casas: 1 {mk[0]:.0%} · X {mk[1]:.0%} · 2 {mk[2]:.0%}" if soccer else f"Casas: {A.esc(home)} {mk[0]:.0%} · {A.esc(away)} {mk[1]:.0%}"]
         if details or total: info.append(f"Hándicap {A.esc(details)} · Total puntos {total}")
         info += ["", "🔎 <b>Claves</b>",
                  f"• Forma: {A.esc(home)} {form(df, home)} | {A.esc(away)} {form(df, away)}",
@@ -316,12 +343,13 @@ def run_league(league, state, today, kg):
                  f"• Bajas: {A.absences_line(home, squads[0])}; {A.absences_line(away, squads[1])}",
                  f"• Favorito de las casas: {A.esc(fav)} @ {min(oh, oa):.2f}"]
         context = (f"{home} vs {away} ({title}, {sport}). Modelo Elo con {YEARS} años de historial ajustado por bajas: "
-                   f"{home} {p:.0%}, {away} {1 - p:.0%}. Cuotas DraftKings {oh}/{oa}, hándicap {details}, total {total}. "
+                   f"{home} {(P3[0] if soccer else p):.0%}, {'empate ' + format(P3[1], '.0%') + ', ' if soccer else ''}{away} {(P3[2] if soccer else 1 - p):.0%}. "
+                   f"Cuotas DraftKings {'/'.join(map(str, odds))}, hándicap {details}, total {total}. "
                    f"Forma {home} {form(df, home)}, {away} {form(df, away)}. H2H {h2h}. Bajas {home}: "
                    f"{'; '.join(x['name'] + ' ' + x['status'] for x in squads[0]) or 'ninguna'}. Bajas {away}: "
                    f"{'; '.join(x['name'] + ' ' + x['status'] for x in squads[1]) or 'ninguna'}.")
         for v in vb:
-            state["signals"].append({**v, "key": key(league, g), "match": f"{home} vs {away}", "pick": g[v["market"]],
+            state["signals"].append({**v, "key": key(league, g), "match": f"{home} vs {away}", "pick": g.get(v["market"], "Empate"),
                                      "start": g["date"], "league": f"{title} · {g['event']}" if k is None else title,
                                      "sport": title.split()[0], "info": info, "context": context})
 

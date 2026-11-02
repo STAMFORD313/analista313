@@ -168,6 +168,12 @@ with contextlib.redirect_stdout(io_.StringIO()) as out: train_espn.market_report
 multisport.DIR = old_dir
 assert "nba ganador: 20 partidos" in out.getvalue() and "nba hándicap: 20 partidos" in out.getvalue(), out.getvalue()
 print("ok informe de cuotas ESPN")
+st3 = {"signals": [{"key": "ucl|2026-11-02|A|B", "market": "D"}, {"key": "ucl|2026-11-02|A|B", "market": "home"}]}
+multisport.settle(pd.DataFrame([{"date": "2026-11-02", "home": "A", "away": "B", "hs": 1, "as": 1, "res": 0.5}]), "ucl", st3)
+assert [s["result"] for s in st3["signals"]] == [True, False]  # Champions/Europa: el empate cuenta
+assert [v["market"] for v in multisport.choices((0.5, 0.3, 0.2), (2.2, 3.3, 5.0), ("home", "D", "away"))] == ["home"]
+assert {"cfb", "cbb", "ucl", "uel"} <= set(multisport.SPORTS) and "uecl" not in multisport.SPORTS
+print("ok competiciones ESPN nuevas")
 
 import esports
 sc = esports.bo3_scores(0.6)
