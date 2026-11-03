@@ -1,6 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 03/11/2026 22:35 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 03/11/2026 22:41 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Kavviro vs Simaponika — 03/11 · 22:43
 
@@ -146,21 +146,39 @@ Hándicap Kray: −1.5 45% · −2.5 29%
 • Liga: Portugal Primera  
 • Unibet: 1 1.50 · X 5.30 · 2 3.35 (sin margen 58%/16%/26%) · ventaja -4%. Sin stake hasta demostrar ROI con estas cuotas.  
 
-## OG vs Inquisitor — 03/11 · 23:10
+## Simaponika vs kkikus — 03/11 · 23:19
 
-👀 candidata · 🎮⚽ FC 27 · Portugal Primera · **Gana Inquisitor** @ **1.61** (Unibet) · prob 56% vs casas 55% · ventaja -10%
+👀 candidata · 🎮⚽ FC 27 · World Cup A · **Empate** @ **6.00** (Unibet) · prob 19% vs casas 14% · ventaja +13%
 
-- ❌ Valor: ventaja -10% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+- ✅ Valor: ventaja +13% (mín. 12% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
 
 📊 **Escenarios** (Poisson por jugador, 55.104 partidos)  
-Goles esperados: OG 2.04 · Inquisitor 2.89  
-Ganador: OG 24% · empate 20% · Inquisitor 56%  
-Total: más de 4.5 goles 55% · menos 45%  
-Hándicap Inquisitor: −1.5 38% · −2.5 22%  
+Goles esperados: Simaponika 3.06 · kkikus 2.01  
+Ganador: Simaponika 60% · empate 19% · kkikus 21%  
+Total: más de 5.5 goles 40% · menos 60%  
+Hándicap Simaponika: −1.5 41% · −2.5 25%  
 🔎 **Claves**  
-• Forma: OG ✅❌➖➖➖ | Inquisitor ✅✅➖✅✅  
-• Partidos: OG 488 | Inquisitor 488  
+• Forma: Simaponika ✅❌❌➖❌ | kkikus ✅➖❌❌❌  
+• Partidos: Simaponika 991 | kkikus 831  
+• Liga: World Cup A  
+• Unibet: 1 1.33 · X 6.00 · 2 4.25 (sin margen 65%/14%/20%) · ventaja +13%. Sin stake hasta demostrar ROI con estas cuotas.  
+
+## RossFCDK vs OG — 03/11 · 23:22
+
+👀 candidata · 🎮⚽ FC 27 · Portugal Primera · **Gana RossFCDK** @ **2.75** (Unibet) · prob 34% vs casas 32% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 55.104 partidos)  
+Goles esperados: RossFCDK 2.22 · OG 2.46  
+Ganador: RossFCDK 34% · empate 22% · OG 44%  
+Total: más de 4.5 goles 50% · menos 50%  
+Hándicap OG: −1.5 27% · −2.5 14%  
+🔎 **Claves**  
+• Forma: RossFCDK ✅✅➖➖❌ | OG ✅❌➖➖➖  
+• Partidos: RossFCDK 451 | OG 488  
 • Liga: Portugal Primera  
-• Unibet: 1 3.50 · X 4.35 · 2 1.61 (sin margen 25%/20%/55%) · ventaja -10%. Sin stake hasta demostrar ROI con estas cuotas.  
+• Unibet: 1 2.75 · X 3.85 · 2 1.91 (sin margen 32%/23%/46%) · ventaja -6%. Sin stake hasta demostrar ROI con estas cuotas.  
 
