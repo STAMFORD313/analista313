@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 03/11/2026 21:33 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 03/11/2026 21:42 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## MEIA NOITE vs BESTIA Academy — 03/11 · 22:00
 
