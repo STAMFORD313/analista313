@@ -1,24 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 03/11/2026 09:46 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## kamito vs Loka — 03/11 · 09:48
-
-👀 candidata · 🎮⚽ FC 27 · EFL Championship · **Gana Loka** @ **1.39** (cuota justa (sin casa)) · prob 72% vs casas 72% · ventaja +0%
-
-- ❌ Valor: ventaja +0% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 54.404 partidos)  
-Goles esperados: kamito 3.08 · Loka 5.28  
-Ganador: kamito 17% · empate 11% · Loka 72%  
-Total: más de 8.5 goles 46% · menos 54%  
-Hándicap Loka: −1.5 59% · −2.5 45%  
-🔎 **Claves**  
-• Forma: kamito ➖❌✅✅❌ | Loka ➖➖✅✅✅  
-• Partidos: kamito 364 | Loka 1024  
-• Liga: EFL Championship  
-• Sin cuotas gratuitas de esoccer: cuota justa del modelo, solo candidata (no se apuesta).  
+Actualizado 03/11/2026 09:59 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Kril vs Fireline — 03/11 · 10:06
 
@@ -89,6 +71,24 @@ Hándicap Kril: −1.5 63% · −2.5 50%
 🔎 **Claves**  
 • Forma: Dan_dragonio ✅❌➖✅➖ | Kril ✅✅✅✅✅  
 • Partidos: Dan_dragonio 1308 | Kril 215  
+• Liga: Volta World Cup B  
+• Sin cuotas gratuitas de esoccer: cuota justa del modelo, solo candidata (no se apuesta).  
+
+## Kril vs Icecold — 03/11 · 10:42
+
+👀 candidata · 🎮⚽ FC 27 · Volta World Cup B · **Gana Kril** @ **1.56** (cuota justa (sin casa)) · prob 64% vs casas 64% · ventaja +0%
+
+- ❌ Valor: ventaja +0% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 54.422 partidos)  
+Goles esperados: Kril 3.81 · Icecold 2.39  
+Ganador: Kril 64% · empate 14% · Icecold 22%  
+Total: más de 6.5 goles 43% · menos 57%  
+Hándicap Kril: −1.5 48% · −2.5 32%  
+🔎 **Claves**  
+• Forma: Kril ✅✅✅✅✅ | Icecold ➖➖❌➖❌  
+• Partidos: Kril 215 | Icecold 16  
 • Liga: Volta World Cup B  
 • Sin cuotas gratuitas de esoccer: cuota justa del modelo, solo candidata (no se apuesta).  
 
@@ -198,5 +198,41 @@ Hándicap Loka: −1.5 60% · −2.5 45%
 • Forma: saportj ✅❌❌❌❌ | Loka ➖➖✅✅✅  
 • Partidos: saportj 584 | Loka 1024  
 • Liga: CSL  
+• Sin cuotas gratuitas de esoccer: cuota justa del modelo, solo candidata (no se apuesta).  
+
+## Icecold vs Kril — 03/11 · 11:47
+
+👀 candidata · 🎮⚽ FC 27 · Volta Europa League · **Gana Kril** @ **1.54** (cuota justa (sin casa)) · prob 65% vs casas 65% · ventaja +0%
+
+- ❌ Valor: ventaja +0% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 54.422 partidos)  
+Goles esperados: Icecold 2.54 · Kril 4.05  
+Ganador: Icecold 21% · empate 14% · Kril 65%  
+Total: más de 6.5 goles 49% · menos 51%  
+Hándicap Kril: −1.5 49% · −2.5 34%  
+🔎 **Claves**  
+• Forma: Icecold ➖➖❌➖❌ | Kril ✅✅✅✅✅  
+• Partidos: Icecold 16 | Kril 215  
+• Liga: Volta Europa League  
+• Sin cuotas gratuitas de esoccer: cuota justa del modelo, solo candidata (no se apuesta).  
+
+## Kril vs Fireline — 03/11 · 11:56
+
+👀 candidata · 🎮⚽ FC 27 · Volta Europa League · **Gana Kril** @ **1.29** (cuota justa (sin casa)) · prob 78% vs casas 78% · ventaja +0%
+
+- ❌ Valor: ventaja +0% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 54.422 partidos)  
+Goles esperados: Kril 5.17 · Fireline 2.55  
+Ganador: Kril 78% · empate 10% · Fireline 13%  
+Total: más de 7.5 goles 51% · menos 49%  
+Hándicap Kril: −1.5 65% · −2.5 51%  
+🔎 **Claves**  
+• Forma: Kril ✅✅✅✅✅ | Fireline ❌➖❌❌❌  
+• Partidos: Kril 215 | Fireline 56  
+• Liga: Volta Europa League  
 • Sin cuotas gratuitas de esoccer: cuota justa del modelo, solo candidata (no se apuesta).  
 
