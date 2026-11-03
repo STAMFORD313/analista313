@@ -11,6 +11,8 @@ import analyst as A
 START = 100.0
 KELLY, MAX_STAKE, MAX_EXPOSURE = 0.10, 0.05, 0.30  # 1/10 Kelly (backtest: ver MEJORAS.md), máx. 5 % por apuesta y 30 % en juego
 MAX_SINGLES, COMBO_LEGS, COMBO_MIN_P, COMBO_STAKE = 8, 3, 0.55, 0.02
+_C = json.loads((A.DATA / "combo_params.json").read_text()) if (A.DATA / "combo_params.json").exists() else {}  # train_combos.py
+COMBO_LEGS, COMBO_MIN_P, COMBO_STAKE = _C.get("legs", COMBO_LEGS), _C.get("min_p", COMBO_MIN_P), _C.get("stake", COMBO_STAKE)
 # decisión por valor: EV = p·cuota − 1 >= EDGE + Z_UNC·|p − p_mercado|·cuota (margen que crece con el desacuerdo con el mercado,
 # la mayor fuente de error del modelo); sin filtro de prob. >= 55 % (backtest en MEJORAS.md: no aportaba). La IA solo opina.
 Z_UNC = 0.25
