@@ -1,6 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 03/11/2026 09:13 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 03/11/2026 09:38 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Kril vs Dan_dragonio — 03/11 · 09:39
 
@@ -108,5 +108,59 @@ Hándicap Kril: −1.5 63% · −2.5 48%
 • Forma: Fireline ❌➖❌❌❌ | Kril ✅✅✅✅✅  
 • Partidos: Fireline 56 | Kril 215  
 • Liga: Volta World Cup B  
+• Sin cuotas gratuitas de esoccer: cuota justa del modelo, solo candidata (no se apuesta).  
+
+## Haiko vs Kril — 03/11 · 11:20
+
+👀 candidata · 🎮⚽ FC 27 · Volta Europa League · **Gana Kril** @ **1.38** (cuota justa (sin casa)) · prob 72% vs casas 72% · ventaja +0%
+
+- ❌ Valor: ventaja +0% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 54.422 partidos)  
+Goles esperados: Haiko 2.82 · Kril 4.98  
+Ganador: Haiko 17% · empate 11% · Kril 72%  
+Total: más de 7.5 goles 52% · menos 48%  
+Hándicap Kril: −1.5 59% · −2.5 44%  
+🔎 **Claves**  
+• Forma: Haiko ❌❌✅✅➖ | Kril ✅✅✅✅✅  
+• Partidos: Haiko 1348 | Kril 215  
+• Liga: Volta Europa League  
+• Sin cuotas gratuitas de esoccer: cuota justa del modelo, solo candidata (no se apuesta).  
+
+## Kril vs Dan_dragonio — 03/11 · 11:29
+
+👀 candidata · 🎮⚽ FC 27 · Volta Europa League · **Gana Kril** @ **1.31** (cuota justa (sin casa)) · prob 76% vs casas 76% · ventaja +0%
+
+- ❌ Valor: ventaja +0% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 54.422 partidos)  
+Goles esperados: Kril 6.09 · Dan_dragonio 3.37  
+Ganador: Kril 76% · empate 9% · Dan_dragonio 15%  
+Total: más de 9.5 goles 47% · menos 53%  
+Hándicap Kril: −1.5 65% · −2.5 52%  
+🔎 **Claves**  
+• Forma: Kril ✅✅✅✅✅ | Dan_dragonio ✅❌➖✅➖  
+• Partidos: Kril 215 | Dan_dragonio 1308  
+• Liga: Volta Europa League  
+• Sin cuotas gratuitas de esoccer: cuota justa del modelo, solo candidata (no se apuesta).  
+
+## saportj vs Loka — 03/11 · 11:32
+
+👀 candidata · 🎮⚽ FC 27 · CSL · **Gana Loka** @ **1.35** (cuota justa (sin casa)) · prob 74% vs casas 74% · ventaja +0%
+
+- ❌ Valor: ventaja +0% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 54.422 partidos)  
+Goles esperados: saportj 2.39 · Loka 4.59  
+Ganador: saportj 15% · empate 11% · Loka 74%  
+Total: más de 6.5 goles 55% · menos 45%  
+Hándicap Loka: −1.5 60% · −2.5 45%  
+🔎 **Claves**  
+• Forma: saportj ✅❌❌❌❌ | Loka ➖➖✅✅✅  
+• Partidos: saportj 584 | Loka 1024  
+• Liga: CSL  
 • Sin cuotas gratuitas de esoccer: cuota justa del modelo, solo candidata (no se apuesta).  
 
