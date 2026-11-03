@@ -54303,3 +54303,103 @@ id,tournament_id,club1,club2,ht1,ht2
 2359928,260761,USA,Mexico,3,1
 2359929,260761,Sweden,USA,0,7
 2359930,260761,Denmark,Ghana,2,3
+2359931,260763,Man Utd,Brighton,0,1
+2359932,260763,Nottm Forest,Aston Villa,0,2
+2359933,260763,Aston Villa,Man Utd,2,2
+2359934,260763,Brighton,Newcastle,2,2
+2359935,260763,Newcastle,Aston Villa,0,0
+2359936,260763,Man Utd,Nottm Forest,2,1
+2359937,260763,Nottm Forest,Newcastle,1,2
+2359938,260763,Aston Villa,Brighton,2,2
+2359939,260763,Brighton,Nottm Forest,6,2
+2359940,260763,Newcastle,Man Utd,4,3
+2359941,260763,Brighton,Man Utd,3,2
+2359942,260763,Aston Villa,Nottm Forest,0,1
+2359943,260763,Man Utd,Aston Villa,1,0
+2359944,260763,Newcastle,Brighton,0,5
+2359945,260763,Aston Villa,Newcastle,3,4
+2359946,260763,Nottm Forest,Man Utd,1,4
+2359947,260763,Newcastle,Nottm Forest,4,1
+2359948,260763,Brighton,Aston Villa,3,0
+2359949,260763,Nottm Forest,Brighton,1,1
+2359950,260763,Man Utd,Newcastle,2,0
+2360011,260781,Inter Miami CF,Atlanta United,0,1
+2360012,260781,LA Galaxy,Los Angeles FC,3,0
+2360013,260781,Los Angeles FC,Inter Miami CF,2,3
+2360014,260781,Atlanta United,Seattle Sounders FC,3,3
+2360015,260781,Seattle Sounders FC,Los Angeles FC,1,1
+2360016,260781,Inter Miami CF,LA Galaxy,1,0
+2360017,260781,LA Galaxy,Seattle Sounders FC,2,1
+2360018,260781,Los Angeles FC,Atlanta United,0,0
+2360019,260781,Atlanta United,LA Galaxy,3,1
+2360020,260781,Seattle Sounders FC,Inter Miami CF,1,3
+2360021,260781,Atlanta United,Inter Miami CF,1,1
+2360022,260781,Los Angeles FC,LA Galaxy,2,1
+2360023,260781,Inter Miami CF,Los Angeles FC,2,1
+2360024,260781,Seattle Sounders FC,Atlanta United,2,3
+2360025,260781,Los Angeles FC,Seattle Sounders FC,1,4
+2360026,260781,LA Galaxy,Inter Miami CF,0,1
+2360027,260781,Seattle Sounders FC,LA Galaxy,0,0
+2360028,260781,Atlanta United,Los Angeles FC,2,0
+2360029,260781,LA Galaxy,Atlanta United,0,0
+2360030,260781,Inter Miami CF,Seattle Sounders FC,3,0
+2359671,260782,France,England,2,1
+2359672,260782,Argentina,Brazil,2,3
+2359673,260782,Brazil,France,3,0
+2359674,260782,England,Spain,1,2
+2359675,260782,Spain,Brazil,2,0
+2359676,260782,France,Argentina,1,1
+2359677,260782,Argentina,Spain,0,1
+2359678,260782,Brazil,England,1,0
+2359679,260782,England,Argentina,1,1
+2359680,260782,Spain,France,3,0
+2359681,260782,England,France,6,3
+2359682,260782,Brazil,Argentina,3,1
+2359683,260782,France,Brazil,2,0
+2359684,260782,Spain,England,1,2
+2359685,260782,Brazil,Spain,3,1
+2359686,260782,Argentina,France,3,2
+2359687,260782,Spain,Argentina,2,0
+2359688,260782,England,Brazil,4,1
+2359689,260782,Argentina,England,1,1
+2359690,260782,France,Spain,1,2
+2360619,260804,Liverpool,Tottenham,1,2
+2360620,260804,Chelsea,Arsenal,3,1
+2360621,260804,Arsenal,Liverpool,3,3
+2360622,260804,Tottenham,Man City,1,3
+2360623,260804,Man City,Arsenal,4,1
+2360624,260804,Liverpool,Chelsea,4,3
+2360625,260804,Chelsea,Man City,3,1
+2360626,260804,Arsenal,Tottenham,1,2
+2360627,260804,Tottenham,Chelsea,2,2
+2360628,260804,Man City,Liverpool,1,4
+2360629,260804,Tottenham,Liverpool,1,1
+2360630,260804,Arsenal,Chelsea,3,2
+2360631,260804,Liverpool,Arsenal,3,0
+2360632,260804,Man City,Tottenham,4,4
+2360633,260804,Arsenal,Man City,2,1
+2360634,260804,Chelsea,Liverpool,1,1
+2360635,260804,Man City,Chelsea,1,3
+2360636,260804,Tottenham,Arsenal,4,1
+2360637,260804,Chelsea,Tottenham,1,1
+2360638,260804,Liverpool,Man City,5,3
+2360151,260815,Bayern Munchen,B Dortmund,2,1
+2360152,260815,Frankfurt,Leipzig,2,2
+2360153,260815,Leipzig,Bayern Munchen,2,2
+2360154,260815,B Dortmund,Stuttgart,1,1
+2360155,260815,Stuttgart,Leipzig,1,1
+2360156,260815,Bayern Munchen,Frankfurt,2,3
+2360157,260815,Frankfurt,Stuttgart,2,0
+2360158,260815,Leipzig,B Dortmund,1,2
+2360159,260815,B Dortmund,Frankfurt,3,0
+2360160,260815,Stuttgart,Bayern Munchen,2,1
+2360161,260815,B Dortmund,Bayern Munchen,2,1
+2360162,260815,Leipzig,Frankfurt,2,1
+2360163,260815,Bayern Munchen,Leipzig,3,2
+2360164,260815,Stuttgart,B Dortmund,1,2
+2360165,260815,Leipzig,Stuttgart,0,2
+2360166,260815,Frankfurt,Bayern Munchen,0,2
+2360167,260815,Stuttgart,Frankfurt,0,1
+2360168,260815,B Dortmund,Leipzig,1,3
+2360169,260815,Frankfurt,B Dortmund,1,2
+2360170,260815,Bayern Munchen,Stuttgart,2,2

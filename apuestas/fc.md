@@ -1,6 +1,42 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 03/11/2026 09:10 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 03/11/2026 09:13 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+
+## Kril vs Dan_dragonio — 03/11 · 09:39
+
+👀 candidata · 🎮⚽ FC 27 · Volta World Cup B · **Gana Kril** @ **1.33** (cuota justa (sin casa)) · prob 76% vs casas 76% · ventaja +0%
+
+- ❌ Valor: ventaja +0% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 54.404 partidos)  
+Goles esperados: Kril 5.72 · Dan_dragonio 3.17  
+Ganador: Kril 75% · empate 10% · Dan_dragonio 15%  
+Total: más de 8.5 goles 53% · menos 47%  
+Hándicap Kril: −1.5 63% · −2.5 50%  
+🔎 **Claves**  
+• Forma: Kril ✅✅✅✅✅ | Dan_dragonio ✅❌➖✅➖  
+• Partidos: Kril 215 | Dan_dragonio 1308  
+• Liga: Volta World Cup B  
+• Sin cuotas gratuitas de esoccer: cuota justa del modelo, solo candidata (no se apuesta).  
+
+## kamito vs Loka — 03/11 · 09:48
+
+👀 candidata · 🎮⚽ FC 27 · EFL Championship · **Gana Loka** @ **1.39** (cuota justa (sin casa)) · prob 72% vs casas 72% · ventaja +0%
+
+- ❌ Valor: ventaja +0% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 54.404 partidos)  
+Goles esperados: kamito 3.08 · Loka 5.28  
+Ganador: kamito 17% · empate 11% · Loka 72%  
+Total: más de 8.5 goles 46% · menos 54%  
+Hándicap Loka: −1.5 59% · −2.5 45%  
+🔎 **Claves**  
+• Forma: kamito ➖❌✅✅❌ | Loka ➖➖✅✅✅  
+• Partidos: kamito 364 | Loka 1024  
+• Liga: EFL Championship  
+• Sin cuotas gratuitas de esoccer: cuota justa del modelo, solo candidata (no se apuesta).  
 
 ## Kril vs Fireline — 03/11 · 10:06
 
@@ -18,6 +54,24 @@ Hándicap Kril: −1.5 63% · −2.5 48%
 • Forma: Kril ✅✅✅✅✅ | Fireline ❌➖❌❌❌  
 • Partidos: Kril 215 | Fireline 56  
 • Liga: Volta World Cup B  
+• Sin cuotas gratuitas de esoccer: cuota justa del modelo, solo candidata (no se apuesta).  
+
+## Loka vs saportj — 03/11 · 10:12
+
+👀 candidata · 🎮⚽ FC 27 · EFL Championship · **Gana Loka** @ **1.37** (cuota justa (sin casa)) · prob 73% vs casas 73% · ventaja +0%
+
+- ❌ Valor: ventaja +0% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 54.404 partidos)  
+Goles esperados: Loka 4.36 · saportj 2.27  
+Ganador: Loka 73% · empate 12% · saportj 15%  
+Total: más de 6.5 goles 49% · menos 51%  
+Hándicap Loka: −1.5 59% · −2.5 43%  
+🔎 **Claves**  
+• Forma: Loka ➖➖✅✅✅ | saportj ✅❌❌❌❌  
+• Partidos: Loka 1024 | saportj 584  
+• Liga: EFL Championship  
 • Sin cuotas gratuitas de esoccer: cuota justa del modelo, solo candidata (no se apuesta).  
 
 ## Dan_dragonio vs Kril — 03/11 · 10:24
