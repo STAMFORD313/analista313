@@ -20,6 +20,7 @@ TITLE = f"{ICON} {NAME}"
 _P = json.loads((DIR / "params.json").read_text()) if (DIR / "params.json").exists() else {}  # lo ajusta train_fc.py
 LR = _P.get("lr", 0.03)        # paso del ataque/defensa de cada jugador por partido
 LR_LEAGUE = _P.get("lr_league", 0.01)
+CALIB = _P.get("calib")          # [a, b] de train_fc_calib.py: p_i ∝ p_i^a · e^(b·empate); None = sin recalibrar
 SHRINK = _P.get("shrink", 0.0)  # encogimiento de las fuerzas hacia 0 por partido (olvido)
 MAX_GOALS = 15
 PER_RUN = 3                     # candidatas por run (hay ~1.500 partidos al día): las de pick más seguro en las próximas 2 h
@@ -67,6 +68,14 @@ def update_history(days=2, pause=0.3):
 
 
 def poisson(k, lam): return math.exp(-lam) * lam ** k / math.factorial(k)
+
+
+def calibrate(p, calib=None):
+    """1X2 recalibrado (train_fc_calib.py: el Poisson independiente se queda corto en empates). Sin calib, igual."""
+    c = CALIB if calib is None else calib
+    if not c: return p
+    w = {k: math.exp(c[0] * math.log(max(v, 1e-9)) + (c[1] if k == "X" else 0)) for k, v in p.items()}
+    t = sum(w.values()); return {k: v / t for k, v in w.items()}
 
 
 def markets(l1, l2):
@@ -277,6 +286,7 @@ def run(state, today, kg):
                 if not (now < start < now + pd.Timedelta(hours=2)) or key in state["analyzed"]: continue
                 l1, l2 = m.lam(g["league"], g["p1"], g["p2"]), m.lam(g["league"], g["p2"], g["p1"])
                 p, tot, diff = markets(l1, l2)
+                p = calibrate(p)
                 cands.append((max(p.values()), g, start, key, l1, l2, p, tot, diff))
             time.sleep(0.3)
     except (requests.RequestException, ValueError) as e:

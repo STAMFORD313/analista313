@@ -489,3 +489,12 @@ assert len(_lc) == 1 and _lc.ok.iloc[0] and abs(_lc.p.iloc[0] - 0.36) < 1e-9 and
 assert "Combinada de cada tarjeta" in "\n".join(esoccer.sim_lines())
 esoccer.HIST = _eh3
 print("ok simulación de combinadas FC 27")
+
+# FC 27: recalibración del 1X2 (train_fc_calib.py → esoccer.calibrate)
+_pc = {"1": 0.7, "X": 0.12, "2": 0.18}
+_c1 = esoccer.calibrate(_pc, [1.0, 0.0]); assert all(abs(_c1[k] - _pc[k]) < 1e-9 for k in _pc)  # identidad
+_c2 = esoccer.calibrate(_pc, [1.16, 0.32]); assert abs(sum(_c2.values()) - 1) < 1e-9 and _c2["X"] > _pc["X"]
+import train_fc_calib
+_Q = train_fc_calib.calibrate_arr(np.array([[0.7, 0.12, 0.18]]), 1.16, 0.32)[0]
+assert np.allclose(_Q, [_c2["1"], _c2["X"], _c2["2"]])
+print("ok recalibración FC 27")

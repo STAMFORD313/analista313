@@ -41,7 +41,10 @@ def main():
     la, lb, best = min(res, key=lambda r: r[0])
     old = losses(df, a, b)[1]
     print(f"elegido en A {best} → B {lb:.4f} ({nb} partidos) · antes {old:.4f} · frecuencia por liga {league_freq(df, a, b):.4f} · azar {math.log(3):.4f}")
-    if lb <= old: (F.DIR / "params.json").write_text(json.dumps({**best, "logloss_oos": round(lb, 4), "n_oos": nb}))
+    if lb <= old:  # conserva la recalibración de train_fc_calib.py (se rehace justo después en entrenar.yml)
+        prev = json.loads((F.DIR / "params.json").read_text()) if (F.DIR / "params.json").exists() else {}
+        (F.DIR / "params.json").write_text(json.dumps({**{k: prev[k] for k in ("calib", "calib_test") if k in prev},
+                                                       **best, "logloss_oos": round(lb, 4), "n_oos": nb}))
     else: print("empeora: se mantienen los parámetros anteriores")
 
 
