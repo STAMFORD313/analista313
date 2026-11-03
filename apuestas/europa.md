@@ -1,6 +1,6 @@
 # 🏆 Champions·Europa · apuestas de valor
 
-Actualizado 03/11/2026 19:19 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 03/11/2026 19:41 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Atlético Madrid vs Bayern Munich — 03/11 · 21:00
 
