@@ -15,7 +15,8 @@ import analyst as A
 import espn_soccer as ES
 
 LOG = A.DATA / "player_props_log.csv"
-SUB_W, ALPHA, K = 0.35, 0.05, 6.0
+_P = json.loads((A.DATA / "football_players.json").read_text()) if (A.DATA / "football_players.json").exists() else {}
+SUB_W, ALPHA, K = _P.get("sub_w", 0.35), _P.get("alpha", 0.05), _P.get("k", 6.0)  # backtest() los elige fuera de muestra
 STAT_IX = {"goles": 5, "asist": 6, "tiros": 7, "tiros_puerta": 8, "faltas": 11, "amarillas": 12, "rojas": 13}
 
 
@@ -47,43 +48,64 @@ def rows():
 STATS = ["goles", "asist", "tiros_puerta", "cards"]
 
 
-def walk(d):
+def walk(d, alpha=None, k=None, sub_w=None):
     """Por fila, ritmo previo (por partido como titular) de cada estadística, con olvido y encogido a su posición."""
+    ALPHA_, K_, SUB_ = (ALPHA if alpha is None else alpha), (K if k is None else k), (SUB_W if sub_w is None else sub_w)
     S, P = {}, {}
     out = {s: np.zeros(len(d)) for s in STATS}; out["n"] = np.zeros(len(d))
     for i, r in enumerate(d.itertuples(index=False)):
-        w = 1.0 if r.starter else SUB_W
+        w = 1.0 if r.starter else SUB_
         st, ps = S.get(r.pid), P.setdefault(r.pos, {s: [0.0, 0.0] for s in STATS})
         out["n"][i] = st["n"] if st else 0
         for s in STATS:
             prior = ps[s][0] / ps[s][1] if ps[s][1] else 0.05
             x, e = st[s] if st else (0.0, 0.0)
-            out[s][i] = (x + K * prior) / (e + K)  # por partido completo como titular
+            out[s][i] = (x + K_ * prior) / (e + K_)  # por partido completo como titular
         if st is None: st = S[r.pid] = {"n": 0, **{s: (0.0, 0.0) for s in STATS}}
         st["n"] += 1
         for s in STATS:
             v = getattr(r, s); x, e = st[s]
-            st[s] = (x * (1 - ALPHA) + v, e * (1 - ALPHA) + w)
+            st[s] = (x * (1 - ALPHA_) + v, e * (1 - ALPHA_) + w)
             ps[s][0] += v; ps[s][1] += w
     return pd.DataFrame(out, index=d.index), S, P
 
 
-def backtest():
+def backtest(save=True):
+    """Olvido, K y peso del suplente elegidos con los titulares del tramo 40-70 % de los datos; medido en el 30 % final
+    frente a (a) la frecuencia media de los titulares y (b) la frecuencia del PROPIO jugador (sus partidos previos,
+    contando suplencias con el mismo peso), la referencia dura. Guarda data/football_players.json."""
+    import itertools
     d = rows()
-    f, _, _ = walk(d)
-    te = (d.date >= d.date.quantile(0.5)).to_numpy() & (f.n >= 3).to_numpy() & d.starter.to_numpy()
-    print(f"ESPN fútbol: {len(d)} jugador-partido, {d.game.nunique()} partidos; test (2.ª mitad, titulares con ≥3 previos): {te.sum()}")
-    res = {}
+    q40, q70 = d.date.quantile(0.4), d.date.quantile(0.7)
+    y_all = {s: (d[s].to_numpy() >= 1) for s in STATS}
+    ll = lambda y, q: -(y * np.log(q) + (1 - y) * np.log(1 - q))
+    best = None
+    for a, k, sw in itertools.product([0.02, 0.05, 0.1], [3.0, 6.0, 12.0], [0.25, 0.35, 0.5]):
+        f, _, _ = walk(d, a, k, sw)
+        m = ((d.date >= q40) & (d.date < q70)).to_numpy() & (f.n >= 3).to_numpy() & d.starter.to_numpy()
+        sc = sum(ll(y_all[s][m], np.clip(1 - np.exp(-f[s].to_numpy()[m]), 1e-4, 1 - 1e-4)).mean() for s in ("goles", "tiros_puerta"))
+        if best is None or sc < best[0]: best = (sc, a, k, sw, f)
+    _, a, k, sw, f = best
+    own = {}
+    for s in STATS:  # frecuencia propia: nº de partidos con ≥1 / partidos jugados, previos
+        hit = pd.Series(y_all[s].astype(float), index=d.index)
+        g = hit.groupby(d.pid)
+        own[s] = (g.cumsum() - hit) / g.cumcount().replace(0, np.nan)
+    te = (d.date >= q70).to_numpy() & (f.n >= 3).to_numpy() & d.starter.to_numpy()
+    print(f"ESPN fútbol: {len(d)} jugador-partido, {d.game.nunique()} partidos desde {d.date.min():%Y-%m-%d}; elegido olvido {a}, K {k}, "
+          f"suplente {sw}; test (30 % final, titulares con ≥3 previos): {te.sum()}")
+    res = {"alpha": a, "k": k, "sub_w": sw, "n_test": int(te.sum()), "stats": {}}
     for s, name in (("goles", "marca"), ("tiros_puerta", "≥1 tiro a puerta"), ("cards", "tarjeta"), ("asist", "asistencia")):
-        y = (d[s].to_numpy() >= 1)[te]
+        y = y_all[s][te]
         p = np.clip(1 - np.exp(-f[s].to_numpy()[te]), 1e-4, 1 - 1e-4)
-        base = np.clip(y.mean(), 1e-4, 1 - 1e-4)  # referencia: frecuencia media de los titulares
-        ll = lambda q: -(y * np.log(q) + (1 - y) * np.log(1 - q))
-        l1, l0 = ll(p), ll(np.full(len(y), base))
-        se = float((l1 - l0).std() / math.sqrt(len(y)))
-        res[s] = (round(float(l0.mean()), 4), round(float(l1.mean()), 4), round(se, 4))
-        print(f"  {name}: log-loss frecuencia media {l0.mean():.4f} → modelo por jugador {l1.mean():.4f} ({l1.mean() - l0.mean():+.4f} ± {se:.4f}); "
-              f"prob. media {p.mean():.3f} vs real {y.mean():.3f}")
+        o = np.clip(np.nan_to_num(own[s].to_numpy()[te], nan=y.mean()), 0.02, 0.98)  # propia, recortada (con 3 partidos puede ser 0 o 1)
+        l1, l0, lo = ll(y, p), ll(y, np.full(len(y), np.clip(y.mean(), 1e-4, 1 - 1e-4))), ll(y, o)
+        se = lambda u, v: float((u - v).std() / math.sqrt(len(y)))
+        res["stats"][s] = {"ll": round(float(l1.mean()), 4), "ll_media": round(float(l0.mean()), 4), "ll_propia": round(float(lo.mean()), 4),
+                           "se_propia": round(se(l1, lo), 4)}
+        print(f"  {name}: media de titulares {l0.mean():.4f} · frecuencia propia {lo.mean():.4f} · modelo {l1.mean():.4f} "
+              f"(vs propia {l1.mean() - lo.mean():+.4f} ± {se(l1, lo):.4f}); prob. media {p.mean():.3f} vs real {y.mean():.3f}")
+    if save: (A.DATA / "football_players.json").write_text(json.dumps(res, indent=1))
     return res
 
 

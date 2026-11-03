@@ -26,7 +26,7 @@ jobs:
       - run: |
           git config user.name analista-bot
           git config user.email actions@users.noreply.github.com
-          git add data/espn_soccer data/nba/box.jsonl data/nhl/box.jsonl data/player_props_log.csv
+          git add data/espn_soccer data/nba/box.jsonl data/nhl/box.jsonl data/player_props_log.csv data/football_players.json
           git diff --cached --quiet && exit 0
           git commit -m "datos ESPN $(date -u +%FT%H:%M)"
           for i in 1 2 3 4 5; do git pull --rebase --autostash -X theirs -q && git push && exit 0; git rebase --abort 2>/dev/null; sleep 10; done; exit 1
