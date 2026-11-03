@@ -264,3 +264,19 @@ assert _r["n"] == 2 and _r["modelo"] < _r["mercado"] and _r["apuestas"] >= 1
 esports.configure("cs2")
 assert "| 🎮 CS2 |" in esports.market_report_md()
 print("ok informe esports vs Thunderpick")
+
+import football_stats, kambi
+_o = lambda t, odds, line: {"type": t, "odds": odds, "line": line, "status": "OPEN"}
+_d = {"betOffers": [{"criterion": {"englishLabel": "Total Corners", "lifetime": "FULL_TIME"}, "outcomes": [_o("OT_OVER", 1850, 9500), _o("OT_UNDER", 1900, 9500)]},
+                    {"criterion": {"englishLabel": "Total Corners by Leeds", "lifetime": "FULL_TIME"}, "outcomes": [_o("OT_OVER", 2000, 5500), _o("OT_UNDER", 1750, 5500)]},
+                    {"criterion": {"englishLabel": "Total Corners - 1st Half", "lifetime": "FIRST_HALF"}, "outcomes": [_o("OT_OVER", 2000, 4500), _o("OT_UNDER", 1750, 4500)]}]}
+_k = kambi.parse(_d, "Leeds", "Hull")
+assert _k == {("corners", "t"): {9.5: {"o": 1.85, "u": 1.9}}, ("corners", "h"): {5.5: {"o": 2.0, "u": 1.75}}}, _k
+_e, football_stats.expected = football_stats.expected, lambda *a: (7.0, 4.0, 9.5, 5.5, 4.5)  # local muy de córners
+_sv = {v["market"]: v for v in football_stats.value_signals(None, "E1", "Leeds", "Hull", None, _k)}
+football_stats.expected = _e
+assert _sv["corners_t_o"]["p"] > _sv["corners_t_o"]["implied"] and _sv["corners_h_o"]["pick"] == "Más de 5.5 córners de Leeds", _sv
+assert football_stats.result("corners_t_o", 9.5, {"HC": 6, "AC": 4}) and not football_stats.result("corners_h_o", 5.5, {"HC": 5, "AC": 9})
+assert football_stats.result("corners_a_u", 4.5, {"HC": 6, "AC": float("nan")}) is None  # football-data aún sin córners: espera
+assert bankroll.pick_text({**_sv["corners_h_o"], "match": "Leeds vs Hull"}) == "Más de 5.5 córners de Leeds" and bankroll.segment({**_sv["corners_h_o"], "sport": "⚽"}) == "⚽ corners"
+print("ok córners con cuota real")

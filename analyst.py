@@ -9,6 +9,8 @@ import pandas as pd
 import requests
 
 import features_extra
+import football_stats
+import kambi
 
 DATA = Path(__file__).parent / "data"
 HIST, NEW, STATE = DATA / "hist", DATA / "new", DATA / "state.json"
@@ -37,7 +39,8 @@ TG, CHAT = os.getenv("TELEGRAM_TOKEN"), os.getenv("TELEGRAM_CHAT_ID")
 GEMINI, MODEL = os.getenv("GEMINI_API_KEY"), os.getenv("GEMINI_MODEL", "gemini-flash-latest")
 CLOSE = {"H": "AvgCH", "D": "AvgCD", "A": "AvgCA", "O25": "AvgC>2.5", "U25": "AvgC<2.5"}  # cuotas de cierre → CLV
 PINNACLE = {"H": "PSH", "D": "PSD", "A": "PSA", "O25": "P>2.5", "U25": "P<2.5"}  # la casa más afinada: ancla del mercado
-COLS = ["Div", "Date", "HomeTeam", "AwayTeam", "FTHG", "FTAG", "HST", "AST", *CLOSE.values()]  # tiros a puerta: features_extra
+COLS = ["Div", "Date", "HomeTeam", "AwayTeam", "FTHG", "FTAG", "HST", "AST", "HC", "AC", "HY", "AY", "HR", "AR", "HF", "AF",
+        *CLOSE.values()]  # tiros a puerta: features_extra; córners/tarjetas/faltas: football_stats
 RHO = _P.get("rho", -0.10)  # Dixon-Coles: corrige la frecuencia de 0-0, 1-0, 0-1 y 1-1
 BOOKIES = {"B365": "Bet365", "PS": "Pinnacle", "BW": "Bwin", "BV": "BetVictor", "BFD": "Betfred", "PP": "Paddy Power",
            "SKB": "Sky Bet", "WH": "William Hill"}  # sin Betfair Exchange: comisión y poca liquidez
@@ -336,7 +339,10 @@ def settle_signals(df, state, today):
     for s in state["signals"]:
         if s.get("result") is None and s["key"] in recent:
             r = recent[s["key"]]
-            if s["market"] in ("AHH", "AHA"):
+            if "_" in s["market"]:  # córners / tiros a puerta (football_stats.value_signals)
+                if (res := football_stats.result(s["market"], s["line"], r)) is None: continue
+                s["result"] = res
+            elif s["market"] in ("AHH", "AHA"):
                 d = (r["FTHG"] - r["FTAG"]) * (1 if s["market"] == "AHH" else -1)
                 s["factor"] = ah_factor(d, s["line"], s["odds"])
                 s["result"] = True if s["factor"] > 1 else False if s["factor"] < 1 else "nula"
@@ -356,6 +362,7 @@ def analyze_fixtures(df, state, today, kg):
     models, inj, now = {}, {}, pd.Timestamp.now(tz="UTC")
     season = df[df.Date >= today - pd.Timedelta(days=300)]
     fx = fx.assign(_i=range(len(df), len(df) + len(fx)))  # índice propio tras el historial para las features
+    stats_df = football_stats.prep(df)
     F = features_extra.features(pd.concat([df, fx.set_index("_i")[["Date", "HomeTeam", "AwayTeam"]]]).sort_values("Date", kind="stable"))
     for row in fx.sort_values(["Date", "Time"]).to_dict("records"):
         k = key(row)
@@ -372,7 +379,8 @@ def analyze_fixtures(df, state, today, kg):
         kg.match(ALL_LEAGUES[div], home, away, start, {"1": P["H"], "X": P["D"], "2": P["A"]}, squads, h2h_summary(hh, home, away))
         state["analyzed"].append(k)
         cands = value_bets(P, row, every=True) + ah_bets(P, row, every=True)
-        if not cands: continue
+        sv = football_stats.value_signals(stats_df, div, home, away, today, kambi.offers(home, away, start) if div in LEAGUES else {})
+        if not cands and not sv: continue
         vb = [v for v in cands if MARKET_EDGE[group_of(v["market"])] <= v["edge"] <= MAX_EDGE]
         rest = [v for v in cands if not EDGE <= v["edge"] <= MAX_EDGE]  # candidata que bankroll.py no apostaría
         vb = vb or [max(rest, key=lambda v: v["edge"])] if vb or rest else []  # sin valor: la mejor como candidata
@@ -387,15 +395,18 @@ def analyze_fixtures(df, state, today, kg):
                 f"• Forma: {esc(home)} {form(df, home)} | {esc(away)} {form(df, away)}",
                 f"• H2H: {h2h_summary(hh, home, away)}",
                 f"• Bajas: {absences_line(home, squads[0])}; {absences_line(away, squads[1])}",
-                f"• Favorito de las casas: {esc(pick.get(fav, 'Empate'))} @ {best_odds(row, fav)[0]:.2f}"]
+                f"• Favorito de las casas: {esc(pick.get(fav, 'Empate'))} @ {best_odds(row, fav)[0] or 0:.2f}"]
+        stat_lines = football_stats.card_lines(stats_df, div, home, away, today, P)
+        info += stat_lines
         context = (f"{home} vs {away} ({ALL_LEAGUES[div]}). Modelo Poisson con historial desde 2005 y bajas: "
                    f"1 {P['H']:.0%} X {P['D']:.0%} 2 {P['A']:.0%}, +2.5 {P['O25']:.0%}, ambos marcan {P['BTTS']:.0%}. "
                    f"Forma {home} {form(df, home)}, {away} {form(df, away)} (✅ victoria ➖ empate ❌ derrota). "
                    f"H2H {h2h_summary(hh, home, away)}. Bajas {home}: "
                    f"{'; '.join(p['name'] + ' ' + p['pos'] + ' ' + p['status'] + ' ' + str(p['games']) + ' PJ' for p in squads[0]) or 'ninguna'}. "
-                   f"Bajas {away}: {'; '.join(p['name'] + ' ' + p['pos'] + ' ' + p['status'] + ' ' + str(p['games']) + ' PJ' for p in squads[1]) or 'ninguna'}.")
-        for v in vb:
-            name = (f"{home if v['market'] == 'AHH' else away} {v['line']:+g} (hándicap asiático)" if v["market"] in ("AHH", "AHA")
+                   f"Bajas {away}: {'; '.join(p['name'] + ' ' + p['pos'] + ' ' + p['status'] + ' ' + str(p['games']) + ' PJ' for p in squads[1]) or 'ninguna'}."
+                   + (f" Estadísticas del modelo: {' | '.join(re.sub('<[^>]+>', '', l) for l in stat_lines[2:])}." if stat_lines else ""))
+        for v in vb + sv:
+            name = v.get("pick") or (f"{home if v['market'] == 'AHH' else away} {v['line']:+g} (hándicap asiático)" if v["market"] in ("AHH", "AHA")
                     else pick.get(v["market"], NAMES[v["market"]]))
             state["signals"].append({**v, "key": k, "match": f"{home} vs {away}", "pick": name,
                                      "start": start.isoformat(), "league": ALL_LEAGUES[div], "sport": "⚽",

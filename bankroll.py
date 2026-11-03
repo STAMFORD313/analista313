@@ -32,7 +32,7 @@ def pick(s):
 
 def pick_text(s):
     p = pick(s)
-    return p if s["market"] in ("D", "O25", "U25", "over", "under", "AHH", "AHA", "sph", "spa") else f"Gana {p}"
+    return p if s["market"] in ("D", "O25", "U25", "over", "under", "AHH", "AHA", "sph", "spa") or "_" in s["market"] else f"Gana {p}"
 
 
 def when(s): return pd.Timestamp(s["start"]).tz_convert("Europe/Madrid").strftime("%d/%m · %H:%M")
@@ -50,7 +50,7 @@ def bank_line(bank):
 
 
 def segment(s):
-    kind = "goles" if s["market"] in ("O25", "U25") else "totales" if s["market"] in ("over", "under") else "hándicap" if s["market"] in ("AHH", "AHA", "sph", "spa") else "empate" if s["market"] == "D" else "favorito" if s["odds"] < 2 else "no favorito"
+    kind = s["market"].split("_")[0] if "_" in s["market"] else "goles" if s["market"] in ("O25", "U25") else "totales" if s["market"] in ("over", "under") else "hándicap" if s["market"] in ("AHH", "AHA", "sph", "spa") else "empate" if s["market"] == "D" else "favorito" if s["odds"] < 2 else "no favorito"
     return f"{s.get('sport', '?')} {kind}"
 
 
@@ -248,7 +248,7 @@ def calibration_md(path=None):
     for name, g in [*((f"{t.left:.0%}-{min(t.right, 1):.0%}", g) for t, g in d.groupby("tramo", observed=True)), ("Total", d)]:
         out.append(f"| {name} | {len(g)} | {g.p.mean():.0%} | {g.gano.mean():.0%} | {((g.p - g.gano) ** 2).mean():.3f} | "
                    f"{((g.implied - g.gano) ** 2).mean():.3f} | {100 * (g.retorno.mean() - 1):+.1f} % |")
-    d["tipo"] = d.mercado.map(lambda m: "goles/totales" if m in ("O25", "U25", "over", "under") else
+    d["tipo"] = d.mercado.map(lambda m: m.split("_")[0] if "_" in m else "goles/totales" if m in ("O25", "U25", "over", "under") else
                               "hándicap" if m in ("AHH", "AHA", "sph", "spa") else "ganador")
     out += ["", "### Por deporte y mercado (cada modelo se evalúa por separado)", "",
             "| Deporte | Mercado | Señales | Prob. media | Acierto | Brier bot | Brier casas | ROI a 1 u. |", "|---|---|---|---|---|---|---|---|"]
