@@ -446,3 +446,27 @@ _hd = pd.DataFrame({"Div": ["E0"], "Date": [pd.Timestamp("2026-11-01")], "HomeTe
 _rp = football_stats.stats_odds_report(_hd)
 assert _rp["cards", "t"]["n"] == 1 and _rp["corners", "t"]["n"] == 1 and _rp["sot", "h"]["n"] == 1
 print("ok registro de estadísticas de Unibet")
+
+# simulación de FC 27: pronósticos enviados → resultado real (esoccer.simulation / sim_lines / radar.fc_sim_card)
+_t2 = Path(tempfile.mkdtemp())
+esoccer.PRED, _eh2 = _t2 / "pred.csv", esoccer.HIST
+esoccer.HIST = _t2 / "m.csv"
+pd.DataFrame({"id": [10, 11, 12], "s1": [6, 2, 1], "s2": [2, 2, 3]}).to_csv(esoccer.HIST, index=False)
+_sim_state = {"signals": [
+    {"sport": "🎮⚽", "key": "fc|10", "match": "Kril vs Fireline", "start": "2026-11-03T12:00:00+00:00", "market": "H", "p": 0.8,
+     "odds": 1.25, "book": "cuota justa (sin casa)", "league": "🎮⚽ FC 27 · Volta",
+     "info": ["x", "Goles esperados: Kril 5.44 · Fireline 2.56", "Total: más de 8.5 goles 41% · menos 59%", "Hándicap Kril: −1.5 68% · −2.5 54%"]},
+    {"sport": "🎮⚽", "key": "fc|11", "match": "Kril vs Haiko", "start": "2026-11-03T12:10:00+00:00", "market": "H", "p": 0.7,
+     "odds": 1.9, "book": "Unibet"},  # ya empezado: sin info, solo el ganador
+    {"sport": "🎮⚽", "key": "fc|12", "match": "A vs B", "start": "2026-11-03T12:20:00+00:00", "market": "A", "p": 0.6, "odds": 2.1, "book": "Unibet"}]}
+assert esoccer.backfill_predictions(_sim_state) == 3 and esoccer.backfill_predictions(_sim_state) == 0
+_d = esoccer.simulation()
+assert _d.ok_1x2.tolist() == [True, False, True] and _d.ok_tot.iloc[0] == 1.0 and _d.ok_h15.iloc[0] == 1.0  # 6-2: menos de 8.5 ✅, −1.5 ✅
+assert _d.ok_tot.iloc[1:].isna().all() and abs(_d.g_unibet.sum() - (-1 + 1.1)) < 1e-9
+_sl = "\n".join(esoccer.sim_lines())
+assert "3 pronósticos jugados" in _sl and "Kril <b>6-2</b> Fireline" in _sl and "con cuota de Unibet (2)" in _sl
+cards.clear(); _ss = {}
+radar.fc_sim_card(_ss); radar.fc_sim_card(_ss)
+assert len(cards) == 1 and "FC 27 · SIMULACIÓN" in cards[0] and _ss["fc_sim_n"] == 3
+esoccer.HIST = _eh2
+print("ok simulación FC 27")

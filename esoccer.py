@@ -151,11 +151,87 @@ def market_report(edge=0.05):
             "roi_se": round(float(gain.std() / np.sqrt(bet.sum())), 4) if bet.sum() > 1 else None}
 
 
+PRED = A.DATA / "fc" / "predicciones.csv"  # cada pronóstico enviado (ganador, total, hándicap) para la simulación
+PRED_COLS = ["id", "start", "p1", "p2", "liga", "l1", "l2", "pick", "p_pick", "line", "p_over", "fav", "p_h15", "odds", "book"]
+
+
+def save_predictions(rows):
+    if not rows: return
+    new = pd.DataFrame(rows, columns=PRED_COLS)
+    old = pd.read_csv(PRED) if PRED.exists() else new.iloc[:0]
+    pd.concat([old, new]).drop_duplicates("id", keep="first").to_csv(PRED, index=False)
+
+
+def backfill_predictions(state):
+    """Pronósticos de FC ya enviados antes de existir predicciones.csv: se leen de su texto en state.json."""
+    import re
+    done = set(pd.read_csv(PRED).id) if PRED.exists() else set()
+    rows = []
+    for x in state.get("signals", []):
+        if x.get("sport") != ICON: continue
+        mid = int(x["key"].split("|")[1])
+        if mid in done: continue
+        t = "\n".join(x.get("info") or [])  # sin info (ya empezado): solo el ganador
+        g = re.search(r"Goles esperados: (.+?) ([\d.]+) · (.+?) ([\d.]+)", t)
+        tot = re.search(r"más de ([\d.]+) goles (\d+)%", t)
+        h = re.search(r"Hándicap (.+?): −1.5 (\d+)%", t)
+        p1, p2 = x["match"].split(" vs ", 1)
+        rows.append({"id": mid, "start": x["start"], "p1": p1, "p2": p2, "liga": x.get("league", "").split(" · ")[-1],
+                     "l1": float(g.group(2)) if g else None, "l2": float(g.group(4)) if g else None,
+                     "pick": {"H": "1", "D": "X", "A": "2"}[x["market"]], "p_pick": x["p"],
+                     "line": float(tot.group(1)) if tot else None, "p_over": int(tot.group(2)) / 100 if tot else None,
+                     "fav": ("1" if A.esc(p1) == h.group(1) else "2") if h else None, "p_h15": int(h.group(2)) / 100 if h else None,
+                     "odds": x["odds"] if x.get("book") == "Unibet" else None, "book": x.get("book")})
+    save_predictions(rows)
+    return len(rows)
+
+
+def simulation():
+    """Pronósticos ya jugados con su resultado: acierto del ganador, del total (lado más probable) y del hándicap −1.5 del
+    favorito, y ganancia simulada a 1 u por pronóstico a la cuota justa (1/p) y, si la hubo, a la cuota de Unibet."""
+    if not PRED.exists() or not HIST.exists(): return pd.DataFrame()
+    d = pd.read_csv(PRED).merge(pd.read_csv(HIST)[["id", "s1", "s2"]], on="id").dropna(subset=["s1", "s2"])
+    if d.empty: return d
+    res = np.select([d.s1 > d.s2, d.s1 == d.s2], ["1", "X"], "2")
+    d["ok_1x2"] = res == d.pick.astype(str)
+    over, has_t, has_h = d.p_over >= 0.5, d.line.notna(), d.fav.notna()  # sin total/hándicap guardado: NaN (no cuenta)
+    d["pick_tot"] = np.where(over, "Más", "Menos"); d["p_tot"] = np.where(has_t, np.where(over, d.p_over, 1 - d.p_over), np.nan)
+    d["ok_tot"] = np.where(has_t, (((d.s1 + d.s2) > d.line) == over).astype(float), np.nan)
+    fav1 = d.fav.astype(str).str.replace(".0", "", regex=False) == "1"
+    d["ok_h15"] = np.where(has_h, (np.where(fav1, d.s1 - d.s2, d.s2 - d.s1) >= 2).astype(float), np.nan)
+    d["g_justa"] = np.where(d.ok_1x2, 1 / d.p_pick - 1, -1.0)
+    d["g_unibet"] = np.where(d.odds.notna(), np.where(d.ok_1x2, d.odds - 1, -1.0), np.nan)
+    return d.sort_values("start")
+
+
+def sim_lines(last=8):
+    """Texto (HTML) del apartado de simulación: resumen por mercado y los últimos pronósticos con su resultado."""
+    d = simulation()
+    if d.empty: return ["🧪 <b>Simulación</b>: aún no hay pronósticos de FC 27 jugados."]
+    u = d[d.odds.notna()]
+    out = [f"🧪 <b>SIMULACIÓN</b> · {len(d)} pronósticos jugados (prob. del bot → acierto real)",
+           f"Ganador ({len(d)}): {d.p_pick.mean():.0%} → <b>{d.ok_1x2.mean():.0%}</b>"
+           + (f" · Total más/menos ({d.ok_tot.notna().sum()}): {d.p_tot.mean():.0%} → <b>{d.ok_tot.mean():.0%}</b>" if d.ok_tot.notna().any() else "")
+           + (f" · Favorito −1.5 ({d.ok_h15.notna().sum()}): {d.p_h15.mean():.0%} → <b>{d.ok_h15.mean():.0%}</b>" if d.ok_h15.notna().any() else ""),
+           f"Apostando 1 u a cada ganador: a cuota justa {d.g_justa.sum():+.1f} u"
+           + (f" · con cuota de Unibet ({len(u)}): <b>{u.g_unibet.sum():+.1f} u</b> (ROI {u.g_unibet.mean():+.0%})" if len(u) else
+              " · aún sin pronósticos con cuota de Unibet jugados")]
+    for r in d.tail(last).itertuples():
+        win = {"1": r.p1, "X": "Empate", "2": r.p2}[str(r.pick)]
+        out.append(f"{'✅' if r.ok_1x2 else '❌'} {A.esc(r.p1)} <b>{int(r.s1)}-{int(r.s2)}</b> {A.esc(r.p2)} · {A.esc(win)} ({r.p_pick:.0%})"
+                   + (f" · {r.pick_tot} de {r.line:g} {'✅' if r.ok_tot else '❌'}" if pd.notna(r.ok_tot) else "")
+                   + (f" · −1.5 {'✅' if r.ok_h15 else '❌'}" if pd.notna(r.ok_h15) else "")
+                   + (f" · @{r.odds:.2f}" if pd.notna(r.odds) else ""))
+    return out
+
+
 def run(state, today, kg):
     df = update_history()
     print(f"{SLUG}: {len(df)} partidos de historial")
     if df.empty: return
     settle(df, state)
+    try: backfill_predictions(state)
+    except Exception as e: print("simulación FC", repr(e))
     m, *_ = fit(df[df.date >= df.date.max() - pd.Timedelta(days=120)])
     now = pd.Timestamp.now(tz="UTC")
     cands = []
@@ -186,6 +262,7 @@ def run(state, today, kg):
     print(f"{SLUG}: {len(evs)} partidos de esoccer en Unibet, {len(rows)} emparejados con Esoccer Battle")
     # primero los que tienen cuota de Unibet (por ventaja), luego el resto (por seguridad del pick)
     edge_of = lambda c: max(c[6][k] * book[c[3]][k] - 1 for k in "1X2") if c[3] in book else -9
+    preds = []
     for _, g, start, key, l1, l2, p, tot, diff in sorted(cands, key=lambda c: (c[3] in book, edge_of(c), c[0]), reverse=True)[:PER_RUN]:
         state["analyzed"].append(key)
         kg.match(TITLE, g["p1"], g["p2"], start, p, ([], []), "")
@@ -211,8 +288,12 @@ def run(state, today, kg):
             sig = {"odds": o[mk], "book": "Unibet", "implied": round(1 / o[mk] / inv, 3), "edge": round(p[mk] * o[mk] - 1, 3), "sin_stake": True}
             info[-1] = (f"• Unibet: 1 {o['1']:.2f} · X {o['X']:.2f} · 2 {o['2']:.2f} (sin margen {1 / o['1'] / inv:.0%}/"
                         f"{1 / o['X'] / inv:.0%}/{1 / o['2'] / inv:.0%}) · ventaja {sig['edge']:+.0%}. Sin stake hasta demostrar ROI con estas cuotas.")
+        preds.append({"id": g["id"], "start": start.isoformat(), "p1": g["p1"], "p2": g["p2"], "liga": g["league"], "l1": round(l1, 3),
+                      "l2": round(l2, 3), "pick": mk, "p_pick": round(p[mk], 4), "line": line, "p_over": round(over, 4),
+                      "fav": "1" if sign == 1 else "2", "p_h15": round(hcp[1.5], 4), "odds": sig["odds"] if o else None, "book": sig["book"]})
         state["signals"].append({"market": {"1": "H", "X": "D", "2": "A"}[mk], "pick": {"1": g["p1"], "X": "Empate", "2": g["p2"]}[mk],
                                  **sig, "p": round(p[mk], 3), "key": key, "match": f"{g['p1']} vs {g['p2']}",
                                  "start": start.isoformat(), "league": f"{TITLE} · {g['league']}", "sport": ICON, "info": info,
                                  "context": f"EA FC Esoccer Battle {g['p1']} vs {g['p2']} ({g['league']}): goles esperados {l1:.2f}-{l2:.2f}, "
                                             f"1X2 {p['1']:.0%}/{p['X']:.0%}/{p['2']:.0%}. Sin cuotas de casa."})
+    save_predictions(preds)

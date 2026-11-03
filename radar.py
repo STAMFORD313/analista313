@@ -130,9 +130,26 @@ def combos_card(state):
     state["combo_sent"] = now.isoformat()
 
 
+SIM_EVERY = pd.Timedelta(hours=6)
+
+
+def fc_sim_card(state):
+    """Tarjeta «FC 27 · SIMULACIÓN» como mucho cada 6 h y solo si hay pronósticos jugados nuevos desde la anterior."""
+    import esoccer
+    now = pd.Timestamp.now(tz="UTC")
+    if state.get("fc_sim_sent") and now - pd.Timestamp(state["fc_sim_sent"]) < SIM_EVERY: return
+    d = esoccer.simulation()
+    if d.empty or len(d) <= state.get("fc_sim_n", 0): return
+    A.send_card("\n".join([f"{FC_ICON} <b>FC 27 · SIMULACIÓN</b>", "Cómo habrían salido los pronósticos que te mandó el bot.", B.LINE,
+                            *esoccer.sim_lines(10)]))
+    state["fc_sim_sent"], state["fc_sim_n"] = now.isoformat(), len(d)
+
+
 def run(state, today):
     radar(state, today)
     fc_card(state)
+    try: fc_sim_card(state)
+    except Exception as e: print("simulación FC", repr(e))
     combos_card(state)
     pages(state)
 
@@ -150,6 +167,11 @@ def sport_view(state, slug, limit=12):
         lines += [f"{'💵' if s['placed'] else '👀'} <b>{A.esc(s['match']).replace(' vs ', ' 🆚 ')}</b> · 🕒 {B.when(s)}",
                   f"   → {A.esc(B.pick_text(s))} @ <b>{s['odds']:.2f}</b> ({A.esc(s.get('book', ''))}) · {s['p']:.0%} · {s['edge']:+.0%} {marks}"]
     lines += [B.LINE, "Checklist: valor (con incertidumbre) · segmento"]
+    if slug == "fc":  # FC 27: cómo habrían salido los pronósticos ya enviados
+        try:
+            import esoccer
+            lines += [B.LINE, *esoccer.sim_lines()]
+        except Exception as e: print("simulación FC", repr(e))
     return "\n".join(lines)
 
 
