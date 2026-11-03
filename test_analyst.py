@@ -619,3 +619,34 @@ football_stats.settle_sgp(_sg2, {"E0|2026-11-01|Leeds|Hull": {"FTHG": 1, "FTAG":
 _h2 = pd.read_csv(football_stats.SGP_LOG)
 assert _h2.simulada.tolist() == [1, 0] and abs(_h2.ganancia.iloc[0] - 2.78) < 1e-9 and "Simuladas a 1 u" in football_stats.sgp_history()
 print("ok combinadas simuladas con cuota de Unibet")
+
+# NBA/NFL/NHL: combinada «ganador + total» simulada con DraftKings y liquidada con el marcador (multisport.us_combo)
+import multisport as _MS2
+_ml, _MS2.moneyline = _MS2.moneyline, lambda odds: (1.5, 2.8)
+_usg = {"date": "2026-11-04T00:00Z", "home": "Lakers", "away": "Celtics", "odds": None}
+_tc = [{"market": "over", "p": 0.55, "odds": 1.91}, {"market": "under", "p": 0.45, "odds": 1.91}]
+_us = {"signals": [{"key": "nba|2026-11-04|Lakers|Celtics", "market": "home", "info": ["📊"]}]}
+_MS2.us_combo(_us, "nba", _usg, "Lakers", "Celtics", 0.70, _tc, 224.5)
+_MS2.moneyline = _ml
+_cbu = _us["sgp"]["nba|2026-11-04|Lakers|Celtics"]["combos"][0]
+assert [l["text"] for l in _cbu["legs"]] == ["Gana Lakers", "Más de 224.5 puntos"] and _cbu["kind"] == "nba"
+assert _cbu["odds"] == round(1.5 * 1.91, 2) and abs(_cbu["edge"] - (_cbu["p"] * _cbu["odds"] - 1)) < 2e-3
+_MS2.attach_combo_lines(_us); assert any(l.startswith("🧩 Combinada: Gana Lakers") for l in _us["signals"][0]["info"])
+football_stats.SGP_LOG = Path(tempfile.mkdtemp()) / "sgp3.csv"
+_dfu = pd.DataFrame([{"date": "2026-11-04T00:00Z", "home": "Lakers", "away": "Celtics", "hs": 120, "as": 110, "res": 1.0}])
+assert _MS2.settle_us_combos(_dfu, "nba", _us) == 1 and not _us["sgp"]
+_lgu = pd.read_csv(football_stats.SGP_LOG); assert _lgu.acierto.iloc[0] == 1 and _lgu.tipo.iloc[0] == "nba"
+print("ok combinadas NBA simuladas")
+
+# Champions/Europa: liquidación de combinadas con las estadísticas de ESPN (espn_soccer.recent_rows)
+_el2 = espn_soccer.load
+_fut2 = (pd.Timestamp.now(tz="UTC") - pd.Timedelta(days=1)).strftime("%Y-%m-%dT20:00Z")
+espn_soccer.load = lambda code: [{"date": _fut2, "home": "Barcelona", "away": "Aston Villa", "hs": 2, "as": 1,
+                                  "team_stats": {"h": {"wonCorners": 7, "yellowCards": 1, "redCards": 0, "foulsCommitted": 10, "shotsOnTarget": 6},
+                                                 "a": {"wonCorners": 3, "yellowCards": 2, "redCards": 1, "foulsCommitted": 12, "shotsOnTarget": 2}}}] if code == "ucl" else []
+_rr = espn_soccer.recent_rows()
+espn_soccer.load = _el2
+_kk = f"ucl|{_fut2[:10]}|Barcelona|Aston Villa"
+assert _rr[_kk]["HC"] == 7 and _rr[_kk]["AY"] == 3 and _rr[_kk]["FTHG"] == 2
+assert football_stats.leg_hit({"var": "sot_a", "sign": -1, "line": 4.5}, _rr[_kk]) is True  # menos de 4.5 tiros a puerta del Villa ✅
+print("ok combinadas de Champions con ESPN")

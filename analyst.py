@@ -336,7 +336,9 @@ def send_card(text): tg("sendMessage", text=text[:4000], parse_mode="HTML", disa
 # ---------- tareas ----------
 def settle_signals(df, state, today):
     recent = {key(r): r for r in df[df.Date >= today - pd.Timedelta(days=30)].to_dict("records")}
-    try: print("combinadas de estadísticas liquidadas:", football_stats.settle_sgp(state, recent, today))
+    try:
+        import espn_soccer  # Champions/Europa: estadísticas de los partidos desde ESPN (datos_espn.yml)
+        print("combinadas de estadísticas liquidadas:", football_stats.settle_sgp(state, {**recent, **espn_soccer.recent_rows()}, today))
     except Exception as e: print("fallo en settle_sgp", repr(e))
     for s in state["signals"]:
         if s.get("result") is None and s["key"] in recent:

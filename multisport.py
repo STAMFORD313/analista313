@@ -2,6 +2,7 @@
 cuotas DraftKings, señales de valor, IA, grafo, PDF y Telegram. Reutiliza las utilidades de analyst.py."""
 import json, math
 
+import numpy as np
 import pandas as pd
 import requests
 
@@ -212,7 +213,75 @@ def form(df, t, n=5):
 def key(league, g): return f"{league}|{str(g['date'])[:10]}|{g['home']}|{g['away']}"
 
 
+US_SGP = ("nba", "nfl", "nhl")
+_SGP_US = json.loads((A.DATA / "sgp_us.json").read_text()) if (A.DATA / "sgp_us.json").exists() else {}  # train_nba_sgp.py
+
+
+def us_combo(state, league, g, home, away, p, tc, line):
+    """Combinada del mismo partido «ganador + Más/Menos del total» con las cuotas de DraftKings: prob. conjunta con la
+    correlación margen-total medida (train_nba_sgp.py; en NBA ≈ 0 → producto), cuota aprox. = producto de las dos.
+    Se registra la de más ventaja y se SIMULA a 1 u si ventaja ≥ football_stats.SIM_EDGE. Liquida settle_us_combos."""
+    import train_sgp
+    ml = {v["market"]: v for v in signals(p, *moneyline(g["odds"]), every=True)}
+    ou = {v["market"]: v for v in tc}
+    if not ({"home", "away"} <= set(ml) and {"over", "under"} <= set(ou)): return
+    rho = (_SGP_US.get(league) or {}).get("rho", 0.0)
+    cells = train_sgp.cells_copula(np.array([ml["home"]["p"]]), np.array([ou["over"]["p"]]), rho)[0]  # LO, LU, VO, VU
+    word = {"nba": "puntos", "nfl": "puntos", "nhl": "goles"}[league]
+    best = None
+    for (side, tot), pj in zip([("home", "over"), ("home", "under"), ("away", "over"), ("away", "under")], cells):
+        odds = ml[side]["odds"] * ou[tot]["odds"]
+        c = {"kind": league, "p": round(float(pj), 4), "odds": round(odds, 2), "edge": round(float(pj) * odds - 1, 3),
+             "legs": [{"var": f"win_{side}", "sign": 1, "line": 0.0, "p": ml[side]["p"], "odds": ml[side]["odds"],
+                       "text": f"Gana {home if side == 'home' else away}"},
+                      {"var": "total_t", "sign": 1 if tot == "over" else -1, "line": float(line), "p": ou[tot]["p"], "odds": ou[tot]["odds"],
+                       "text": f"{'Más' if tot == 'over' else 'Menos'} de {line:g} {word}"}]}
+        if best is None or c["edge"] > best["edge"]: best = c
+    import football_stats
+    best["sim"] = best["edge"] >= football_stats.SIM_EDGE
+    k = key(league, g)
+    state.setdefault("sgp", {})[k] = {"match": f"{home} vs {away}", "start": str(g["date"]), "combos": [best], "priced": True,
+                                      "lines": [f"🧩 Combinada: {' + '.join(l['text'] for l in best['legs'])} → prob. {best['p']:.0%}, "
+                                                f"cuota justa {1 / best['p']:.2f}", *football_stats.sim_lines([best])]}
+
+
+def settle_us_combos(df, league, state):
+    """Liquida las combinadas «ganador + total» de la liga con el marcador final → data/sgp_log.csv."""
+    import football_stats
+    done = {key(league, r): r for r in df.tail(3000).to_dict("records")}
+    rows = []
+    for k, v in list((state.get("sgp") or {}).items()):
+        if not k.startswith(f"{league}|") or (r := done.get(k)) is None or pd.isna(r["hs"]) or pd.isna(r["as"]): continue
+        hs, as_ = float(r["hs"]), float(r["as"])
+        for c in v["combos"]:
+            hits = [(hs > as_) if l["var"] == "win_home" else (as_ > hs) if l["var"] == "win_away" else
+                    ((hs + as_ > l["line"]) == (l["sign"] > 0)) for l in c["legs"]]
+            if hs == as_ or any(hs + as_ == l["line"] for l in c["legs"] if l["var"] == "total_t"): continue  # empate/push: nula
+            rows.append({"fecha": k.split("|")[1], "partido": v["match"], "tipo": c["kind"], "piernas": len(c["legs"]), "p": c["p"],
+                         "acierto": int(all(hits)), "piernas_acertadas": sum(hits), "p_piernas": round(float(np.mean([l["p"] for l in c["legs"]])), 4),
+                         "cuota": c.get("odds"), "ventaja": c.get("edge"), "simulada": int(bool(c.get("sim"))),
+                         "ganancia": (c["odds"] - 1 if all(hits) else -1.0) if c.get("sim") else None,
+                         "piernas_txt": " + ".join(l["text"] for l in c["legs"])})
+        del state["sgp"][k]
+    if rows:
+        new = pd.DataFrame(rows)
+        old = pd.read_csv(football_stats.SGP_LOG) if football_stats.SGP_LOG.exists() else new.iloc[:0]
+        pd.concat([old, new]).to_csv(football_stats.SGP_LOG, index=False)
+    return len(rows)
+
+
+def attach_combo_lines(state):
+    """Pega las líneas de la combinada «ganador + total» a las señales del partido (para la tarjeta de combinadas)."""
+    for s in state["signals"]:
+        v = (state.get("sgp") or {}).get(s.get("key"))
+        if v and v.get("lines") and s.get("info") and not any(l.startswith("🧩") for l in s["info"]):
+            s["info"] = s["info"] + ["", *v["lines"]]
+
+
 def settle(df, league, state):
+    if league in US_SGP:
+        try: settle_us_combos(df, league, state)
+        except Exception as e: print("liquidar combinadas", league, repr(e))
     done = {key(league, r): r for r in df.tail(5000).to_dict("records")}
     for s in state["signals"]:
         r = done.get(s["key"])
@@ -332,6 +401,9 @@ def run_league(league, state, today, kg):
                     "context": f"{home} vs {away} ({title}). Modelo de puntos (ataque/defensa con {YEARS} años, decaimiento 1 año): "
                                f"total esperado {v['expected']} frente a línea {line}. Forma {home} {form(df, home)}, {away} {form(df, away)}. "
                                f"H2H {h2h}. Bajas: {A.absences_line(home, squads[0])}; {A.absences_line(away, squads[1])}."})
+        if league in US_SGP and pts and line and oo and ou:  # combinada «ganador + total» del mismo partido (simulada)
+            try: us_combo(state, league, g, home, away, p, tc, line)
+            except Exception as e: print("combinada", league, repr(e))
         sl, sh, sa = spreads(g["odds"])
         if league in SPREAD and sl is not None and sh and sa:  # hándicap: prob. de cubrir desde el Elo, mezclada con DK
             sc = [{**v, "market": "sp" + v["market"][0], "line": sl if v["market"] == "home" else -sl}
@@ -366,7 +438,9 @@ def run_league(league, state, today, kg):
                  f"• Bajas: {A.absences_line(home, squads[0])}; {A.absences_line(away, squads[1])}",
                  f"• Favorito de las casas: {A.esc(fav)} @ {min(oh, oa):.2f}"]
         if soccer:  # Champions / Europa: córners, tarjetas, faltas y tiros a puerta con lo que hace cada equipo en su liga
-            try: info += football_stats.euro_lines(home, away, today)
+            try:
+                info += football_stats.euro_lines(home, away, today)
+                info += euro_combos(state, key(league, g), home, away, g)
             except Exception as e: print("estadísticas europeas", repr(e))
         context = (f"{home} vs {away} ({title}, {sport}). Modelo Elo con {YEARS} años de historial ajustado por bajas: "
                    f"{home} {(P3[0] if soccer else p):.0%}, {'empate ' + format(P3[1], '.0%') + ', ' if soccer else ''}{away} {(P3[2] if soccer else 1 - p):.0%}. "
@@ -378,6 +452,21 @@ def run_league(league, state, today, kg):
             state["signals"].append({**v, "key": key(league, g), "match": f"{home} vs {away}", "pick": g.get(v["market"], "Empate"),
                                      "start": g["date"], "league": f"{title} · {g['event']}" if k is None else title,
                                      "sport": title.split()[0], "info": info, "context": context})
+
+
+def euro_combos(state, k, home, away, g):
+    """Registra las combinadas de la última euro_lines (state["sgp"], se liquidan con data/espn_soccer) con la cuota de
+    Unibet de cada pierna (goles: Más/Menos 2.5 de DraftKings) y devuelve las líneas «🎯 simulada/no simulada»."""
+    if not football_stats.LAST: return []
+    import kambi
+    start = pd.Timestamp(g["date"])
+    try: offers = kambi.offers(home, away, start, ("corners", *kambi.STAT_LABELS))
+    except Exception as e: print("Kambi Europa", repr(e)); offers = {}
+    tl, oo, ou = totals(g.get("odds"))
+    row = {"Avg>2.5": oo, "Avg<2.5": ou} if tl == 2.5 else {}
+    combos = football_stats.price_combos(list(football_stats.LAST), offers, row)
+    state.setdefault("sgp", {})[k] = {"match": f"{home} vs {away}", "start": start.isoformat(), "combos": combos, "priced": bool(offers)}
+    return football_stats.sim_lines(combos)
 
 
 def euro_backfill(state, today):
@@ -401,3 +490,4 @@ def run(state, today, kg):
         try: run_league(league, state, today, kg)
         except Exception as e:  # un deporte caído no debe parar los demás
             print("fallo en", league, repr(e))
+    attach_combo_lines(state)

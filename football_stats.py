@@ -380,8 +380,8 @@ def sim_lines(combos):
     out = []
     for c in combos:
         if c.get("odds"):
-            out.append(f"🎯 {'Simulada' if c.get('sim') else 'No simulada'} ({'crear apuesta' if c['kind'] == 'corta' else 'larga'}): "
-                       f"cuota Unibet aprox. {c['odds']:.2f} (producto de piernas) · prob. {c['p']:.0%} · ventaja {c['edge']:+.0%}"
+            out.append(f"🎯 {'Simulada' if c.get('sim') else 'No simulada'} ({ {'corta': 'crear apuesta', 'larga': 'larga'}.get(c['kind'], c['kind'].upper())}): "
+                       f"cuota {'DraftKings' if c['kind'] in ('nba', 'nfl', 'nhl') else 'Unibet'} aprox. {c['odds']:.2f} (producto de piernas) · prob. {c['p']:.0%} · ventaja {c['edge']:+.0%}"
                        + (" → 1 u en la banca de simulación" if c.get("sim") else ""))
     return out
 
@@ -417,7 +417,7 @@ def sgp_history():
     if d.empty: return ""
     out = []
     for kind, g in d.groupby("tipo"):
-        out.append(f"{kind}s {len(g)}: previsto {g.p.mean():.0%}, acertadas {g.acierto.mean():.0%} "
+        out.append(f"{ {'corta': 'cortas', 'larga': 'largas'}.get(kind, kind.upper())} {len(g)}: previsto {g.p.mean():.0%}, acertadas {g.acierto.mean():.0%} "
                    f"(piernas {g.piernas_acertadas.sum() / g.piernas.sum():.0%} vs {g.p_piernas.mean():.0%})")
     txt = "📈 Historial real: " + " · ".join(out)
     if "simulada" in d and (sm := d[d.simulada == 1]).shape[0]:

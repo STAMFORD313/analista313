@@ -72,6 +72,24 @@ def load(league):
     return [json.loads(l) for l in p.open(encoding="utf-8")] if p.exists() else []
 
 
+def recent_rows(codes=("ucl", "uel"), days=30):
+    """{clave de multisport «liga|fecha|local|visitante»: fila con columnas de football-data (FTHG, HC, HY=amarillas+rojas,
+    HF, HST…)} de los partidos de ESPN de los últimos días, para liquidar combinadas europeas (football_stats.settle_sgp)."""
+    out, cut = {}, f"{pd.Timestamp.now(tz='UTC') - pd.Timedelta(days=days):%Y-%m-%d}"
+    for code in codes:
+        for g in load(code):
+            if str(g["date"])[:10] < cut: continue
+            ts = g.get("team_stats") or {}
+            h, a = ts.get("h") or {}, ts.get("a") or {}
+            if not h or not a: continue
+            x = lambda d, k: d.get(k, float("nan"))
+            out[f"{code}|{str(g['date'])[:10]}|{g['home']}|{g['away']}"] = {
+                "FTHG": g["hs"], "FTAG": g["as"], "HC": x(h, "wonCorners"), "AC": x(a, "wonCorners"),
+                "HY": x(h, "yellowCards") + h.get("redCards", 0), "AY": x(a, "yellowCards") + a.get("redCards", 0),
+                "HF": x(h, "foulsCommitted"), "AF": x(a, "foulsCommitted"), "HST": x(h, "shotsOnTarget"), "AST": x(a, "shotsOnTarget")}
+    return out
+
+
 def events(slug, day):
     """[(id, fecha, local, visitante, goles local, goles visitante)] de los partidos TERMINADOS de un día."""
     out = []
