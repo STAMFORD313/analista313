@@ -732,3 +732,11 @@ radar.sgp_results_card(_rs); radar.sgp_results_card(_rs)
 assert len(cards) == 1 and "  ↳ Menos de 2.5 tarjetas de QPR ✅" in cards[0] and "  ↳ Menos de 5.5 tiros a puerta de QPR ❌" in cards[0]
 assert "❌ Perdido: <b>1.00 €</b>" in cards[0] and "Total simuladas: 1 · -1.00 €" in cards[0]
 print("ok formato boleto")
+
+# quitar el margen con Shin (devig.py): suma 1 y carga más margen en la sorpresa que el reparto proporcional
+import devig
+_o = [1.5, 4.2, 7.0]
+_ps, _pp = devig.shin(_o), devig.proportional(_o)
+assert abs(_ps.sum() - 1) < 1e-9 and _ps[0] > _pp[0] and _ps[2] < _pp[2]
+assert np.allclose(devig.shin([2.0, 2.0]), [0.5, 0.5]) and devig.shin(np.array([_o, _o])).shape == (2, 3)
+print("ok Shin")

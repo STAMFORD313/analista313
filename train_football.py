@@ -156,7 +156,10 @@ def main():
     F = FX.features(df)[(df.Date >= since).to_numpy()].reset_index(drop=True)
     P = np.stack([M[:, I > J].sum(1), M[:, I == J].sum(1), M[:, I < J].sum(1)], 1)
     X = FX.design(P, F, {c: float(F[c].std()) or 1.0 for c in FX.FEATS})
-    mk, odds = norm(num("mH", "mD", "mA")), num("oH", "oD", "oA")
+    import devig
+    mh = num("mH", "mD", "mA"); okm = np.isfinite(mh).all(1) & (mh > 1).all(1)
+    mk = np.full_like(mh, np.nan); mk[okm] = devig.shin(mh[okm])  # 1X2 sin margen con Shin (como el bot)
+    odds = num("oH", "oD", "oA")
     o1 = ok & np.isfinite(mk).all(1) & np.isfinite(odds).all(1) & F[["elo_diff", "rest_diff"]].notna().all(1).to_numpy()
     Q = LogisticRegression(C=10, max_iter=2000).fit(X[o1 & (yr == 0)], y[o1 & (yr == 0)]).predict_proba(X)
     win = np.zeros(odds.shape, bool); win[np.arange(len(y)), y] = True

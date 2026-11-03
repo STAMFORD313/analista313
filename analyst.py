@@ -10,6 +10,7 @@ import requests
 
 import features_extra
 import football_stats
+import devig
 import kambi
 
 DATA = Path(__file__).parent / "data"
@@ -171,8 +172,9 @@ def value_bets(P, row, every=False):
         avg = ({m: float(pin[m]) for m in group} if all(pd.notna(v) and float(v) > 1 for v in pin.values()) else
                {m: float(row[c]) if pd.notna(row.get(c := f"Avg{SUFFIX[m]}")) else best[m][0] for m in group})
         inv = sum(1 / o for o in avg.values())
+        fair = dict(zip(group, devig.shin([avg[m] for m in group]))) if g == "1x2" else {m: 1 / avg[m] / inv for m in group}
         for m in group:
-            implied = 1 / avg[m] / inv  # probabilidad del mercado sin margen
+            implied = float(fair[m])  # prob. del mercado sin margen (1X2: método de Shin, mejor que el proporcional fuera de muestra)
             p, (o, book) = W[g] * P[m] + (1 - W[g]) * implied, best[m]  # mezcla modelo + mercado: el Poisson solo sobreestima ventajas
             if p >= MIN_P and (every or MARKET_EDGE[g] <= p * o - 1 <= MAX_EDGE):
                 out.append({"market": m, "odds": o, "book": book, "p": round(p, 3), "implied": round(implied, 3),
