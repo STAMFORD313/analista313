@@ -123,6 +123,34 @@ PLAYER_LABELS = re.compile(r"^(To Score|To Get a Card|To give an assist|To score
 
 
 _nba = None
+_esp = None
+ESPORT_WORDS = {"cs2": ("counter", "cs2", "cs:go", "csgo"), "dota2": ("dota",), "lol": ("league of legends", "lol"),
+                "r6": ("rainbow", "r6"), "mlbb": ("mobile legends", "mlbb")}
+
+
+def esports_events():
+    """Partidos de esports de Unibet con su cuota de ganador: [{disc, home, away, start, o1, o2}] (disciplina por el path)."""
+    global _esp
+    if _esp is None:
+        _esp = []
+        for x in get("listView/esports/all/all/all/matches").get("events", []):
+            e = x.get("event") or {}
+            path = " ".join(str(t.get("englishName", t.get("name", ""))) for t in e.get("path", [])).lower()
+            disc = next((d for d, ws in ESPORT_WORDS.items() if any(w in path for w in ws)), None)
+            o = {o.get("type"): o["odds"] / 1000 for b in x.get("betOffers", []) for o in b.get("outcomes", []) if o.get("odds")}
+            if disc and o.get("OT_ONE") and o.get("OT_TWO"):
+                _esp.append({"disc": disc, "home": e.get("homeName", ""), "away": e.get("awayName", ""), "start": pd.Timestamp(e["start"]),
+                             "o1": o["OT_ONE"], "o2": o["OT_TWO"]})
+    return _esp
+
+
+def find_esport(disc, t1, t2, start):
+    """Cuotas de Unibet (o1 para t1, o2 para t2) de un partido de bo3.gg, emparejando nombres y hora (±3 h), o None."""
+    for e in esports_events():
+        if e["disc"] != disc or abs((e["start"] - pd.Timestamp(start)).total_seconds()) > 3 * 3600: continue
+        if A.find_team(t1, [e["home"]]) and A.find_team(t2, [e["away"]]): return e["o1"], e["o2"]
+        if A.find_team(t1, [e["away"]]) and A.find_team(t2, [e["home"]]): return e["o2"], e["o1"]
+    return None
 
 
 def nba_props(home, away, start):

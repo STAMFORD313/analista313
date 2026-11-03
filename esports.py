@@ -252,6 +252,23 @@ def sgp_lines(bet, p_map, g):
     return ["", "🧩 <b>Marcador exacto «gana + más de 2.5 mapas»</b> (son opciones alternativas: como mucho UNA; solo información, sin stake)", *out]
 
 
+def save_unibet(up, now, model):
+    """Cuota de ganador de Unibet de los próximos partidos (emparejados con bo3.gg) + prob. del modelo → data/<juego>/odds_unibet.csv."""
+    import kambi
+    rows = []
+    for m in up:
+        start = pd.Timestamp(m["start_date"])
+        if not (now < start < now + pd.Timedelta(hours=36)) or not (x := model(m)): continue
+        g = x[0]
+        if (o := kambi.find_esport(SLUG, g["team1"], g["team2"], start)):
+            rows.append({"id": m["id"], "seen": now.isoformat(), "start": start.isoformat(), "o1": o[0], "o2": o[1], "p": round(x[4], 4)})
+    if rows:
+        f = DIR / "odds_unibet.csv"
+        new = pd.DataFrame(rows); old = pd.read_csv(f) if f.exists() else new.iloc[:0]
+        pd.concat([old, new]).drop_duplicates("id", keep="last").to_csv(f, index=False)
+    print(f"{SLUG}: {len(rows)} partidos con cuota de Unibet")
+
+
 def save_odds(up, now, prob=lambda m: None):
     """Guarda la última cuota PREVIA de cada partido (la de bo3.gg en partidos terminados es la del final, en directo):
     sirve para medir calibración y ROI del modelo frente a Thunderpick sin mirar el futuro."""
@@ -360,6 +377,8 @@ def run_one(state, today, kg):
         return g, r1, r2, p_map, p
 
     save_odds(up, now, lambda m: round(x[4], 4) if (x := model(m)) else None)  # la prob. previa queda guardada para el informe
+    try: save_unibet(up, now, model)  # 2.ª casa: más partidos con cuota real para medir el modelo
+    except Exception as ex: print("Unibet esports", repr(ex))
     for m in up:
         start, bet, key = pd.Timestamp(m["start_date"]), m.get("bet_updates") or {}, f"{SLUG}|{m['id']}"
         if not (now < start < now + pd.Timedelta(hours=36)) or key in state["analyzed"]: continue

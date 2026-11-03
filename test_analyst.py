@@ -819,3 +819,17 @@ finally:
     else: _kf.write_bytes(_kb)
     nba_props.T.rows, nba_props.params, nba_props.LOG = _tr, _pa, _lg
 print("ok liquidación props NBA")
+
+# esports: Unibet como 2.ª casa (kambi.esports_events / find_esport)
+_kg3, _es0 = kambi.get, kambi._esp
+kambi._esp = None
+kambi.get = lambda path: {"events": [
+    {"event": {"homeName": "Natus Vincere", "awayName": "FaZe Clan", "start": "2026-11-05T15:00:00Z", "path": [{"englishName": "Esports"}, {"englishName": "Counter-Strike 2"}]},
+     "betOffers": [{"outcomes": [{"type": "OT_ONE", "odds": 1750}, {"type": "OT_TWO", "odds": 2050}]}]},
+    {"event": {"homeName": "T1", "awayName": "Gen.G", "start": "2026-11-05T10:00:00Z", "path": [{"englishName": "League of Legends"}]},
+     "betOffers": [{"outcomes": [{"type": "OT_ONE", "odds": 1600}, {"type": "OT_TWO", "odds": 2300}]}]}]}
+assert len(kambi.esports_events()) == 2 and kambi.esports_events()[1]["disc"] == "lol"
+assert kambi.find_esport("cs2", "FaZe Clan", "Natus Vincere", "2026-11-05T16:00:00Z") == (2.05, 1.75)  # orden de bo3.gg
+assert kambi.find_esport("cs2", "FaZe Clan", "Natus Vincere", "2026-11-06T16:00:00Z") is None
+kambi.get, kambi._esp = _kg3, _es0
+print("ok esports con Unibet")
