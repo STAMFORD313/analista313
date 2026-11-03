@@ -868,9 +868,9 @@
   "fc|2359733",
   "fc|2360214",
   "fc|2360215",
-  "fc|2360665",
   "fc|2360076",
-  "fc|2359738"
+  "fc|2359738",
+  "fc|2361535"
  ],
  "signals": [
   {
@@ -11282,19 +11282,6 @@
    "start": "2026-11-03T12:45:00+00:00",
    "league": "🎮⚽ FC 27 · Volta Seria A",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 54.518 partidos)",
-    "Goles esperados: Kril 5.15 · Haiko 2.91",
-    "Ganador: Kril 73% · empate 11% · Haiko 16%",
-    "Total: más de 8.5 goles 42% · menos 58%",
-    "Hándicap Kril: −1.5 60% · −2.5 46%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Kril ✅➖✅✅✅ | Haiko ✅➖❌✅❌",
-    "• Partidos: Kril 223 | Haiko 1356",
-    "• Liga: Volta Seria A",
-    "• Sin cuotas gratuitas de esoccer: cuota justa del modelo, solo candidata (no se apuesta)."
-   ],
    "context": "EA FC Esoccer Battle Kril vs Haiko (Volta Seria A): goles esperados 5.15-2.91, 1X2 73%/11%/16%. Sin cuotas de casa.",
    "captured": "2026-11-03T11:41",
    "version": "e65a1f8",
@@ -11433,40 +11420,6 @@
   },
   {
    "market": "H",
-   "pick": "zoyir",
-   "odds": 2.18,
-   "book": "Unibet",
-   "implied": 0.403,
-   "edge": 0.091,
-   "sin_stake": true,
-   "p": 0.501,
-   "key": "fc|2360665",
-   "match": "zoyir vs Frantsuz",
-   "start": "2026-11-03T12:44:00+00:00",
-   "league": "🎮⚽ FC 27 · Champions League A 2x6",
-   "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 54.636 partidos)",
-    "Goles esperados: zoyir 4.53 · Frantsuz 4.01",
-    "Ganador: zoyir 50% · empate 14% · Frantsuz 36%",
-    "Total: más de 8.5 goles 48% · menos 52%",
-    "Hándicap zoyir: −1.5 36% · −2.5 24%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: zoyir ✅❌❌❌❌ | Frantsuz ❌❌✅✅❌",
-    "• Partidos: zoyir 489 | Frantsuz 537",
-    "• Liga: Champions League A 2x6",
-    "• Unibet: 1 2.18 · X 5.40 · 2 2.02 (sin margen 40%/16%/43%) · ventaja +9%. Sin stake hasta demostrar ROI con estas cuotas."
-   ],
-   "context": "EA FC Esoccer Battle zoyir vs Frantsuz (Champions League A 2x6): goles esperados 4.53-4.01, 1X2 50%/14%/36%. Sin cuotas de casa.",
-   "captured": "2026-11-03T12:42",
-   "version": "59e95f4",
-   "bajas": "",
-   "considered": true,
-   "placed": false
-  },
-  {
-   "market": "H",
    "pick": "Loka",
    "odds": 1.97,
    "book": "Unibet",
@@ -11493,8 +11446,8 @@
     "• Unibet: 1 1.97 · X 5.00 · 2 2.30 (sin margen 44%/18%/38%) · ventaja +4%. Sin stake hasta demostrar ROI con estas cuotas."
    ],
    "context": "EA FC Esoccer Battle Loka vs Smetana (CSL): goles esperados 4.07-3.36, 1X2 53%/14%/33%. Sin cuotas de casa.",
-   "captured": "2026-11-03T12:42",
-   "version": "59e95f4",
+   "captured": "2026-11-03T12:47",
+   "version": "c526549",
    "bajas": "",
    "considered": true,
    "placed": false
@@ -11527,8 +11480,42 @@
     "• Unibet: 1 2.55 · X 3.55 · 2 2.10 (sin margen 34%/24%/41%) · ventaja +4%. Sin stake hasta demostrar ROI con estas cuotas."
    ],
    "context": "EA FC Esoccer Battle Bomb1to vs KraftVK (Champions League B): goles esperados 3.41-3.90, 1X2 36%/15%/50%. Sin cuotas de casa.",
-   "captured": "2026-11-03T12:42",
-   "version": "59e95f4",
+   "captured": "2026-11-03T12:47",
+   "version": "c526549",
+   "bajas": "",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "H",
+   "pick": "Edwardson",
+   "odds": 3.05,
+   "book": "Unibet",
+   "implied": 0.288,
+   "edge": 0.011,
+   "sin_stake": true,
+   "p": 0.332,
+   "key": "fc|2361535",
+   "match": "Edwardson vs Revange",
+   "start": "2026-11-03T12:52:00+00:00",
+   "league": "🎮⚽ FC 27 · LaLiga",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 54.636 partidos)",
+    "Goles esperados: Edwardson 1.96 · Revange 2.33",
+    "Ganador: Edwardson 33% · empate 20% · Revange 47%",
+    "Total: más de 4.5 goles 43% · menos 57%",
+    "Hándicap Revange: −1.5 28% · −2.5 15%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Edwardson ✅✅✅❌❌ | Revange ❌❌✅✅❌",
+    "• Partidos: Edwardson 1120 | Revange 539",
+    "• Liga: LaLiga",
+    "• Unibet: 1 3.05 · X 4.50 · 2 1.70 (sin margen 29%/20%/52%) · ventaja +1%. Sin stake hasta demostrar ROI con estas cuotas."
+   ],
+   "context": "EA FC Esoccer Battle Edwardson vs Revange (LaLiga): goles esperados 1.96-2.33, 1X2 33%/20%/47%. Sin cuotas de casa.",
+   "captured": "2026-11-03T12:47",
+   "version": "c526549",
    "bajas": "",
    "considered": true,
    "placed": false
@@ -12728,5 +12715,7 @@
    ]
   }
  },
- "combo_sent": "2026-11-03T10:11:25.624500+00:00"
+ "combo_sent": "2026-11-03T10:11:25.624500+00:00",
+ "fc_sim_sent": "2026-11-03T12:47:34.461252+00:00",
+ "fc_sim_n": 24
 }

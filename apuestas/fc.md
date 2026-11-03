@@ -1,42 +1,24 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 03/11/2026 13:42 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 03/11/2026 13:47 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## zoyir vs Frantsuz — 03/11 · 13:44
+## Edwardson vs Revange — 03/11 · 13:52
 
-👀 candidata · 🎮⚽ FC 27 · Champions League A 2x6 · **Gana zoyir** @ **2.18** (Unibet) · prob 50% vs casas 40% · ventaja +9%
+👀 candidata · 🎮⚽ FC 27 · LaLiga · **Gana Edwardson** @ **3.05** (Unibet) · prob 33% vs casas 29% · ventaja +1%
 
-- ❌ Valor: ventaja +9% (mín. 10% con la incertidumbre, máx. 30%)
+- ❌ Valor: ventaja +1% (mín. 8% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
 📊 **Escenarios** (Poisson por jugador, 54.636 partidos)  
-Goles esperados: zoyir 4.53 · Frantsuz 4.01  
-Ganador: zoyir 50% · empate 14% · Frantsuz 36%  
-Total: más de 8.5 goles 48% · menos 52%  
-Hándicap zoyir: −1.5 36% · −2.5 24%  
+Goles esperados: Edwardson 1.96 · Revange 2.33  
+Ganador: Edwardson 33% · empate 20% · Revange 47%  
+Total: más de 4.5 goles 43% · menos 57%  
+Hándicap Revange: −1.5 28% · −2.5 15%  
 🔎 **Claves**  
-• Forma: zoyir ✅❌❌❌❌ | Frantsuz ❌❌✅✅❌  
-• Partidos: zoyir 489 | Frantsuz 537  
-• Liga: Champions League A 2x6  
-• Unibet: 1 2.18 · X 5.40 · 2 2.02 (sin margen 40%/16%/43%) · ventaja +9%. Sin stake hasta demostrar ROI con estas cuotas.  
-
-## Kril vs Haiko — 03/11 · 13:45
-
-👀 candidata · 🎮⚽ FC 27 · Volta Seria A · **Gana Kril** @ **1.37** (cuota justa (sin casa)) · prob 73% vs casas 73% · ventaja +0%
-
-- ❌ Valor: ventaja +0% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 54.518 partidos)  
-Goles esperados: Kril 5.15 · Haiko 2.91  
-Ganador: Kril 73% · empate 11% · Haiko 16%  
-Total: más de 8.5 goles 42% · menos 58%  
-Hándicap Kril: −1.5 60% · −2.5 46%  
-🔎 **Claves**  
-• Forma: Kril ✅➖✅✅✅ | Haiko ✅➖❌✅❌  
-• Partidos: Kril 223 | Haiko 1356  
-• Liga: Volta Seria A  
-• Sin cuotas gratuitas de esoccer: cuota justa del modelo, solo candidata (no se apuesta).  
+• Forma: Edwardson ✅✅✅❌❌ | Revange ❌❌✅✅❌  
+• Partidos: Edwardson 1120 | Revange 539  
+• Liga: LaLiga  
+• Unibet: 1 3.05 · X 4.50 · 2 1.70 (sin margen 29%/20%/52%) · ventaja +1%. Sin stake hasta demostrar ROI con estas cuotas.  
 
 ## Dan_dragonio vs Kril — 03/11 · 13:54
 
