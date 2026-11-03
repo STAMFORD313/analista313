@@ -237,6 +237,56 @@ def value_signals(df, div, home, away, today, offers):
     return list(best.values())
 
 
+STATS_ODDS = Path(__file__).parent / "data" / "kambi_stats_odds.csv"
+
+
+def log_offers(df, div, home, away, today, start, offers):
+    """Registra en data/kambi_stats_odds.csv cada línea de Unibet (todas las estadísticas, también las que no se apuestan)
+    con la prob. del modelo de «más de», para medir modelo vs casa por estadística cuando acaben los partidos."""
+    if not PARAMS.exists() or not offers: return 0
+    P, rows = json.loads(PARAMS.read_text()), []
+    for (stat, scope), lines in offers.items():
+        e = expected(df, div, stat, home, away, today, P) if stat in P else None
+        if not e: continue
+        mu, r = {"t": e[0] + e[1], "h": e[0], "a": e[1]}[scope], P[stat]["r_team" if scope != "t" else "r"]
+        for line, o in lines.items():
+            rows.append({"seen": pd.Timestamp.now(tz="UTC").isoformat(), "start": pd.Timestamp(start).isoformat(), "div": div,
+                         "home": home, "away": away, "stat": stat, "scope": scope, "line": line, "o_over": o["o"], "o_under": o["u"],
+                         "p_over": round(over(mu, r, line) if line % 1 == 0.5 else float(1 - T.cdf("nbinom", mu, r, np.array(int(line)))), 4),
+                         "mu": round(mu, 3)})
+    if rows:
+        new = pd.DataFrame(rows)
+        old = pd.read_csv(STATS_ODDS) if STATS_ODDS.exists() else new.iloc[:0]
+        pd.concat([old, new]).drop_duplicates(["start", "home", "away", "stat", "scope", "line"], keep="last").to_csv(STATS_ODDS, index=False)
+    return len(rows)
+
+
+def stats_odds_report(df, edge=0.05):
+    """Modelo frente a Unibet por estadística y alcance con los partidos ya jugados (df de football-data con prep):
+    {(stat, scope): {n, ll_modelo, ll_mercado, apuestas, roi, roi_se}} con la última cuota previa de cada línea .5."""
+    if not STATS_ODDS.exists(): return {}
+    o = pd.read_csv(STATS_ODDS)
+    o = o[o.line % 1 == 0.5].assign(Date=pd.to_datetime(o.start, utc=True).dt.tz_convert("Europe/London").dt.tz_localize(None).dt.normalize())
+    m = o.merge(df.assign(Date=df.Date.dt.normalize()), left_on=["div", "Date", "home", "away"], right_on=["Div", "Date", "HomeTeam", "AwayTeam"])
+    out = {}
+    for (stat, scope), g in m.groupby(["stat", "scope"]):
+        h, a = ("FTHG", "FTAG") if stat == "goals" else STATS[stat][:2]
+        x = {"t": g[h] + g[a], "h": g[h], "a": g[a]}[scope]
+        g = g[x.notna()]; y = (x[x.notna()] > g.line).to_numpy(float)
+        if g.empty: continue
+        po = g.p_over.clip(1e-6, 1 - 1e-6).to_numpy(); inv = 1 / g.o_over + 1 / g.o_under
+        pm = (1 / g.o_over / inv).clip(1e-6, 1 - 1e-6).to_numpy()
+        ll = lambda p: float(-(y * np.log(p) + (1 - y) * np.log(1 - p)).mean())
+        ev_o, ev_u = po * g.o_over.to_numpy() - 1, (1 - po) * g.o_under.to_numpy() - 1
+        side_o = ev_o >= ev_u; ev = np.where(side_o, ev_o, ev_u); bet = ev >= edge
+        win = np.where(side_o, y == 1, y == 0)
+        gain = np.where(win, np.where(side_o, g.o_over, g.o_under) - 1, -1.0)[bet]
+        out[stat, scope] = {"n": len(g), "ll_modelo": round(ll(po), 4), "ll_mercado": round(ll(pm), 4), "apuestas": int(bet.sum()),
+                            "roi": round(float(gain.mean()), 4) if bet.any() else None,
+                            "roi_se": round(float(gain.std() / np.sqrt(bet.sum())), 4) if bet.sum() > 1 else None}
+    return out
+
+
 def result(market, line, r):
     """True/False con la fila de football-data.co.uk del partido; None si aún no trae la estadística."""
     stat, scope, side = market.split("_")

@@ -11,6 +11,11 @@ import analyst as A
 URL = "https://eu-offering-api.kambicdn.com/offering/v2018/ub"
 Q = {"lang": "en_GB", "market": "GB"}
 LABEL = re.compile(r"^Total Corners(?: by (.+?))?$", re.I)
+# otras estadísticas que se REGISTRAN (no se apuestan) para medir el modelo frente a Unibet: Kambi puede contarlas distinto
+STAT_LABELS = {"cards": re.compile(r"^Total (?:Cards|Bookings)(?: by (.+?))?$", re.I),
+               "sot": re.compile(r"^Total Shots on Target(?: by (.+?))?$", re.I),
+               "fouls": re.compile(r"^Total Fouls(?: by (.+?))?$", re.I)}
+LABELS_SEEN = {}  # nombre de mercado → veces visto en este run (data/kambi_labels.json: para descubrir mercados)
 _events = None
 _raw = None
 NICK = re.compile(r"\(([^()]+)\)")  # «Arsenal (Kray) Esports» → Kray
@@ -84,21 +89,38 @@ def find(home, away, start):
     return None
 
 
-def parse(d, home, away):
+def parse(d, home, away, stats=("corners",)):
     """{(stat, 't'|'h'|'a'): {línea: {'o': cuota, 'u': cuota}}} de un betoffer/event de Kambi (solo partido completo)."""
     out = {}
+    labels = {"corners": LABEL, **{k: v for k, v in STAT_LABELS.items() if k in stats}}
     for b in d.get("betOffers", []):
-        m = LABEL.match(b["criterion"].get("englishLabel", ""))
+        lab = b["criterion"].get("englishLabel", "")
+        LABELS_SEEN[lab] = LABELS_SEEN.get(lab, 0) + 1
+        m = next(((st, m) for st, rx in labels.items() if st in stats and (m := rx.match(lab))), None)
         if not m or b["criterion"].get("lifetime") != "FULL_TIME": continue
+        stat, m = m
         scope = "t" if not m.group(1) else "h" if m.group(1) == home else "a" if m.group(1) == away else None
         for o in b.get("outcomes", []):
             if scope and o.get("status") == "OPEN" and o.get("type") in ("OT_OVER", "OT_UNDER") and o.get("odds") and o.get("line"):
-                out.setdefault(("corners", scope), {}).setdefault(o["line"] / 1000, {})[o["type"][3].lower()] = o["odds"] / 1000
+                out.setdefault((stat, scope), {}).setdefault(o["line"] / 1000, {})[o["type"][3].lower()] = o["odds"] / 1000
     return {k: {l: v for l, v in lines.items() if len(v) == 2} for k, lines in out.items()}
 
 
-def offers(home, away, start):
-    """Cuotas de córners del partido de football-data.co.uk; {} si Kambi no lo tiene."""
+def offers(home, away, start, stats=("corners",)):
+    """Cuotas de córners (y de `stats`) del partido de football-data.co.uk; {} si Kambi no lo tiene. Una descarga por partido."""
     e = find(home, away, start)
     if not e: return {}
-    return parse(get(f"betoffer/event/{e['id']}"), e["home"], e["away"])
+    ck = ("offer", e["id"])
+    if ck not in _offer_cache: _offer_cache[ck] = get(f"betoffer/event/{e['id']}")
+    return parse(_offer_cache[ck], e["home"], e["away"], stats)
+
+
+_offer_cache = {}
+
+
+def save_labels(path):
+    """Acumula en `path` (JSON) cuántas veces se ha visto cada mercado de Kambi."""
+    import json
+    old = json.loads(path.read_text()) if path.exists() else {}
+    for k, v in LABELS_SEEN.items(): old[k] = old.get(k, 0) + v
+    path.write_text(json.dumps(dict(sorted(old.items(), key=lambda x: -x[1])), ensure_ascii=False, indent=0))

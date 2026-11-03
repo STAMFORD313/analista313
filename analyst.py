@@ -381,7 +381,10 @@ def analyze_fixtures(df, state, today, kg):
         kg.match(ALL_LEAGUES[div], home, away, start, {"1": P["H"], "X": P["D"], "2": P["A"]}, squads, h2h_summary(hh, home, away))
         state["analyzed"].append(k)
         cands = value_bets(P, row, every=True) + ah_bets(P, row, every=True)
-        sv = football_stats.value_signals(stats_df, div, home, away, today, kambi.offers(home, away, start) if div in LEAGUES else {})
+        offers = kambi.offers(home, away, start, ("corners", *kambi.STAT_LABELS)) if div in LEAGUES else {}
+        try: football_stats.log_offers(stats_df, div, home, away, today, start, offers)  # todas: para medir modelo vs Unibet
+        except Exception as e: print("registro Kambi", repr(e))
+        sv = football_stats.value_signals(stats_df, div, home, away, today, {k: v for k, v in offers.items() if k[0] == "corners"})
         if not cands and not sv: continue
         vb = [v for v in cands if MARKET_EDGE[group_of(v["market"])] <= v["edge"] <= MAX_EDGE]
         rest = [v for v in cands if not EDGE <= v["edge"] <= MAX_EDGE]  # candidata que bankroll.py no apostaría
@@ -446,6 +449,8 @@ def main():
     except Exception as e: print("fallo en cs2", repr(e))  # los esports no deben parar el resto
     bankroll.run(state, today, kg)
     kg.save()
+    try: kambi.save_labels(DATA / "kambi_labels.json")  # qué mercados ofrece Unibet (para añadir los que el modelo cubra)
+    except Exception as e: print("mercados Kambi", repr(e))
     prune(state)
     state.pop("seen", None)
     STATE.write_text(json.dumps(state, ensure_ascii=False, indent=1), encoding="utf-8")

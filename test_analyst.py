@@ -422,3 +422,27 @@ assert _mr["partidos"] == 3 and _mr["apuestas"] == 3 and abs(_mr["roi"] - (1 - 1
 esoccer.HIST = _eh
 assert "s.get(\"sin_stake\")" in Path(bankroll.__file__).read_text()  # la banca no apuesta las señales sin_stake
 print("ok FC 27 con cuotas de Unibet")
+
+# registro de todas las estadísticas de Unibet (no solo córners) e informe modelo vs casa
+_bo = {"betOffers": [
+    {"criterion": {"englishLabel": "Total Cards", "lifetime": "FULL_TIME"},
+     "outcomes": [{"type": "OT_OVER", "odds": 1900, "line": 4500, "status": "OPEN"}, {"type": "OT_UNDER", "odds": 1850, "line": 4500, "status": "OPEN"}]},
+    {"criterion": {"englishLabel": "Total Shots on Target by Leeds", "lifetime": "FULL_TIME"},
+     "outcomes": [{"type": "OT_OVER", "odds": 2000, "line": 4500, "status": "OPEN"}, {"type": "OT_UNDER", "odds": 1750, "line": 4500, "status": "OPEN"}]},
+    {"criterion": {"englishLabel": "Total Corners", "lifetime": "FULL_TIME"},
+     "outcomes": [{"type": "OT_OVER", "odds": 1800, "line": 9500, "status": "OPEN"}, {"type": "OT_UNDER", "odds": 1950, "line": 9500, "status": "OPEN"}]}]}
+assert set(kambi.parse(_bo, "Leeds", "Hull")) == {("corners", "t")}  # por defecto, solo córners (lo que se apuesta)
+_pa = kambi.parse(_bo, "Leeds", "Hull", ("corners", *kambi.STAT_LABELS))
+assert _pa[("cards", "t")] == {4.5: {"o": 1.9, "u": 1.85}} and _pa[("sot", "h")][4.5]["o"] == 2.0 and kambi.LABELS_SEEN["Total Cards"] >= 1
+football_stats.STATS_ODDS = Path(tempfile.mkdtemp()) / "k.csv"
+_e2, football_stats.expected = football_stats.expected, lambda *a: (2.5, 2.0, 4.5, 2.5, 2.5)
+_pp = football_stats.PARAMS
+football_stats.PARAMS = Path(tempfile.mkdtemp()) / "p.json"
+football_stats.PARAMS.write_text(json.dumps({s: {"r": 50, "r_team": 50} for s in football_stats.STATS}))
+assert football_stats.log_offers(None, "E0", "Leeds", "Hull", None, "2026-11-01T15:00:00+00:00", _pa) == 3
+football_stats.expected, football_stats.PARAMS = _e2, _pp
+_hd = pd.DataFrame({"Div": ["E0"], "Date": [pd.Timestamp("2026-11-01")], "HomeTeam": ["Leeds"], "AwayTeam": ["Hull"],
+                    "FTHG": [1], "FTAG": [0], "HC": [6], "AC": [5], "HY": [3], "AY": [3], "HST": [6], "AST": [2], "HF": [9], "AF": [9]})
+_rp = football_stats.stats_odds_report(_hd)
+assert _rp["cards", "t"]["n"] == 1 and _rp["corners", "t"]["n"] == 1 and _rp["sot", "h"]["n"] == 1
+print("ok registro de estadísticas de Unibet")
