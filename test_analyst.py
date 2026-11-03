@@ -560,3 +560,20 @@ _AN.PROPS_LOG = Path(tempfile.mkdtemp()) / "pp.csv"
 assert _AN.log_player_props("SP1", "Real Madrid", "Barcelona", "2026-11-05T20:00:00+00:00") == 2 and len(pd.read_csv(_AN.PROPS_LOG)) == 2
 kambi.find = _fe; kambi._offer_cache.clear(); kambi._offer_cache.update(_oc)
 print("ok props de jugador de Unibet")
+
+# cuotas del partido como feature de las estadísticas (train_market_stats.py → football_stats.market_factor)
+import train_market_stats
+_s, _g = train_market_stats.market_features(pd.DataFrame([{"AvgH": 1.5, "AvgD": 4.0, "AvgA": 6.0, "Avg>2.5": 1.8, "Avg<2.5": 2.0}]))
+_t = 1 / 1.5 + 1 / 4 + 1 / 6
+assert abs(_s[0] - (1 / 1.5 - 1 / 6) / _t) < 1e-9 and abs(_g[0] - np.log((1 / 1.8) / (1 / 2.0))) < 1e-9
+_s2, _ = train_market_stats.market_features(pd.DataFrame([{"BbAvH": 2.0, "BbAvD": 3.4, "BbAvA": 3.8, "BbAv>2.5": 1.9, "BbAv<2.5": 1.9}]))
+assert _s2[0] > 0  # temporadas antiguas: columnas BbAv
+football_stats.MATCH_MK.clear()
+_Pm = {"market": {"corners": {"a": 0.35, "b": 0.0, "g_mean": 0.1}}}
+assert football_stats.market_factor("corners", "City", "Burnley", _Pm) == (1.0, 1.0)  # sin cuotas: sin ajuste
+football_stats.set_market({"HomeTeam": "City", "AwayTeam": "Burnley", "AvgH": 1.2, "AvgD": 7, "AvgA": 13, "Avg>2.5": 1.4, "Avg<2.5": 3.0})
+_fh, _fa = football_stats.market_factor("corners", "City", "Burnley", _Pm)
+assert _fh > 1 > _fa and abs(_fh * _fa - 1) < 1e-9  # el favorito saca más córners y el rival menos
+assert football_stats.market_factor("cards", "City", "Burnley", _Pm) == (1.0, 1.0)
+football_stats.MATCH_MK.clear()
+print("ok cuotas como feature de estadísticas")

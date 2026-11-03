@@ -98,7 +98,7 @@ def backtest():
         print(f"covarianza {a} × {b}: {c:+.4f} (n={m.sum()})")
     out["cov"] = cov
     old = json.loads(PARAMS.read_text()) if PARAMS.exists() else {}
-    out.update({k: old[k] for k in ("rho", "form") if k in old})  # cópula (train_sgp.py) y forma (train_form.py)
+    out.update({k: old[k] for k in ("rho", "form", "market", "referee") if k in old})  # cópula (train_sgp.py) y forma (train_form.py)
     PARAMS.write_text(json.dumps(out, indent=1))
 
 
@@ -133,15 +133,34 @@ def form_factor(df, stat, team, today, P):
     return float(np.exp(c * _cache[ck].get(team, 0.0)))
 
 
+MATCH_MK = {}  # (local, visitante) → (supremacía del local, logit P(más de 2.5)) sin margen; lo rellena analyst con set_market
+
+
+def set_market(row):
+    """Guarda las cuotas medias del partido (fila de fixtures.csv) para market_factor."""
+    import train_market_stats as TM
+    s, g = TM.market_features(pd.DataFrame([row]))
+    if np.isfinite(s[0]) and np.isfinite(g[0]): MATCH_MK[row["HomeTeam"], row["AwayTeam"]] = (float(s[0]), float(g[0]))
+
+
+def market_factor(stat, home, away, P):
+    """(factor local, factor visitante) = exp(a·supremacía + b·(g − media)) de train_market_stats.py; (1, 1) sin cuotas."""
+    m, mk = P.get("market", {}).get(stat), MATCH_MK.get((home, away))
+    if not m or not mk: return 1.0, 1.0
+    s, g = mk[0], mk[1] - m["g_mean"]
+    return float(np.exp(m["a"] * s + m["b"] * g)), float(np.exp(-m["a"] * s + m["b"] * g))
+
+
 def expected(df, div, stat, home, away, today, P):
     """(esperado local, esperado visitante, línea mediana total, local, visitante) o None si la liga no tiene datos.
-    Incluye la forma reciente de cada equipo (form_factor) donde mejora fuera de muestra."""
+    Incluye la forma reciente de cada equipo (form_factor) y las cuotas del partido (market_factor) donde mejoran fuera de muestra."""
     m = _model(df, div, stat, today, P)
     if not m: return None
     (mu_h, mu_a, s), lt, lth, lta = m
     g = lambda t, team: s[t].get(team, 1.0)
-    return (mu_h * g("att_h", home) * g("def_a", away) * form_factor(df, stat, home, today, P),
-            mu_a * g("att_a", away) * g("def_h", home) * form_factor(df, stat, away, today, P), lt, lth, lta)
+    fh, fa = market_factor(stat, home, away, P)  # cuotas del partido (favorito → más córners y tiros)
+    return (mu_h * g("att_h", home) * g("def_a", away) * form_factor(df, stat, home, today, P) * fh,
+            mu_a * g("att_a", away) * g("def_h", home) * form_factor(df, stat, away, today, P) * fa, lt, lth, lta)
 
 
 # nombres de football-data → como los escribe ESPN (Champions / Europa League)

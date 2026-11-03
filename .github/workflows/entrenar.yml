@@ -27,6 +27,7 @@ jobs:
           python train_football.py || echo "fallo en train_football"
           python football_stats.py || echo "fallo en football_stats"   # córners, tarjetas, faltas, tiros a puerta
           python train_form.py || echo "fallo en train_form"   # forma reciente en córners/faltas/tiros a puerta
+          python train_market_stats.py || echo "fallo en train_market_stats"   # cuotas como feature de las estadísticas
           python train_sgp.py || echo "fallo en train_sgp"   # cópula de «crear apuesta» (mismo partido)
       - run: |
           git config user.name analista-bot

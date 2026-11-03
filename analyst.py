@@ -406,6 +406,8 @@ def analyze_fixtures(df, state, today, kg):
         start = pd.Timestamp(f"{row['Date']:%Y-%m-%d} {row.get('Time') or '00:00'}", tz="Europe/London")
         if start <= now: continue  # ya empezado
         div, home, away = row["Div"], row["HomeTeam"], row["AwayTeam"]
+        try: football_stats.set_market(row)  # cuotas del partido para córners/tiros/faltas/tarjetas esperados
+        except Exception as e: print("cuotas para estadísticas", repr(e))
         if k in state["analyzed"]:  # analizado antes de que Unibet lo publicara: se vuelve a mirar hasta encontrarlo
             if div in LEAGUES and k not in state.setdefault("kambi_ok", []) and start - now < pd.Timedelta(days=2):
                 try: kambi_recheck(state, stats_df, row, k, start, today)
