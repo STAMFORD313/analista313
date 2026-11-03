@@ -5816,7 +5816,8 @@
    "placed": false,
    "captured": "2026-11-03T06:59",
    "version": "7948daf",
-   "bajas": "Fenerbahce: sin bajas; Liverpool: sin bajas"
+   "bajas": "Fenerbahce: sin bajas; Liverpool: sin bajas",
+   "combo_anunciada": true
   },
   {
    "market": "home",
@@ -10980,7 +10981,8 @@
    "version": "a0fe0a5",
    "bajas": "Kortrijk: sin bajas; KV Mechelen: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "combo_anunciada": true
   },
   {
    "market": "AHH",
@@ -11022,7 +11024,8 @@
    "version": "a0fe0a5",
    "bajas": "Cardiff: sin bajas; West Ham: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "combo_anunciada": true
   },
   {
    "market": "AHH",
@@ -11721,7 +11724,8 @@
    "version": "ec6ab36",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "combo_anunciada": true
   },
   {
    "market": "t1",
@@ -11765,7 +11769,8 @@
    "version": "ec6ab36",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "combo_anunciada": true
   },
   {
    "market": "AHA",
@@ -11815,7 +11820,8 @@
     "confianza": 4,
     "modelo": "gemini-flash-lite-latest"
    },
-   "placed": true
+   "placed": true,
+   "combo_anunciada": true
   },
   {
    "market": "H",
@@ -12707,19 +12713,6 @@
    "start": "2026-11-03T19:22:00+00:00",
    "league": "🎮⚽ FC 27 · Premier League",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 54.954 partidos)",
-    "Goles esperados: lzrn 2.61 · llulle 2.68",
-    "Ganador: lzrn 38% · empate 21% · llulle 41%",
-    "Total: más de 5.5 goles 43% · menos 57%",
-    "Hándicap llulle: −1.5 26% · −2.5 14%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: lzrn ❌✅➖❌✅ | llulle ❌✅➖➖➖",
-    "• Partidos: lzrn 727 | llulle 801",
-    "• Liga: Premier League",
-    "• Unibet: 1 1.92 · X 4.20 · 2 2.60 (sin margen 46%/21%/34%) · ventaja +7%. Sin stake hasta demostrar ROI con estas cuotas."
-   ],
    "context": "EA FC Esoccer Battle lzrn vs llulle (Premier League): goles esperados 2.61-2.68, 1X2 38%/21%/41%. Sin cuotas de casa.",
    "captured": "2026-11-03T18:48",
    "version": "970e700",
@@ -12776,11 +12769,12 @@
     "• Unibet: 1 1.90 · X 5.00 · 2 2.40 (sin margen 46%/17%/36%) · ventaja +13%. Sin stake hasta demostrar ROI con estas cuotas."
    ],
    "context": "EA FC Esoccer Battle mPm vs Gazi (Copa America): goles esperados 3.36-2.32, 1X2 60%/18%/23%. Sin cuotas de casa.",
-   "captured": "2026-11-03T19:14",
+   "captured": "2026-11-03T19:22",
    "version": "05b4399",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "anunciada": true
   },
   {
    "market": "D",
@@ -12810,11 +12804,12 @@
     "• Unibet: 1 2.20 · X 5.20 · 2 2.00 (sin margen 40%/17%/44%) · ventaja +13%. Sin stake hasta demostrar ROI con estas cuotas."
    ],
    "context": "EA FC Esoccer Battle Gazi vs Shinobu (Copa America): goles esperados 2.30-2.55, 1X2 34%/22%/44%. Sin cuotas de casa.",
-   "captured": "2026-11-03T19:14",
+   "captured": "2026-11-03T19:22",
    "version": "05b4399",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "anunciada": true
   },
   {
    "market": "H",
@@ -12830,25 +12825,11 @@
    "start": "2026-11-03T19:22:00+00:00",
    "league": "🎮⚽ FC 27 · Copa America",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 54.974 partidos)",
-    "Goles esperados: mPm 4.25 · ramzes 3.13",
-    "Ganador: mPm 60% · empate 15% · ramzes 25%",
-    "Total: más de 7.5 goles 46% · menos 54%",
-    "Hándicap mPm: −1.5 44% · −2.5 30%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: mPm ❌✅❌❌❌ | ramzes ❌❌❌➖✅",
-    "• Partidos: mPm 639 | ramzes 988",
-    "• Liga: Copa America",
-    "• Unibet: 1 1.85 · X 5.50 · 2 2.38 (sin margen 47%/16%/37%) · ventaja +11%. Sin stake hasta demostrar ROI con estas cuotas."
-   ],
    "context": "EA FC Esoccer Battle mPm vs ramzes (Copa America): goles esperados 4.25-3.13, 1X2 60%/15%/25%. Sin cuotas de casa.",
-   "captured": "2026-11-03T19:14",
+   "captured": "2026-11-03T19:22",
    "version": "05b4399",
    "bajas": "",
-   "considered": true,
-   "placed": false
+   "considered": true
   }
  ],
  "bank": {
@@ -13265,7 +13246,7 @@
  },
  "scoreboard_id": 132,
  "scoreboard_text": "📊 <b>MARCADOR DEL BOT</b>\n━━━━━━━━━━━━━━━\n🟩 Ganadas: <b>8</b> (35 %)\n🟥 Perdidas: <b>15</b> (65 %)\n⏳ En juego: 4\n\nÚltimas 23:\n🟥🟥🟥🟩🟥🟩🟥🟥🟥🟥🟥🟥🟥🟥🟩🟥🟥🟩🟩🟩🟩🟩🟥\n━━━━━━━━━━━━━━━\n💵 Beneficio -15.04 $ · ROI -32.4 %\n📐 CLV medio +2.5 % (cuota cogida vs cierre)\n💰 Banca: <b>84.96 $</b> (-15.04 $ desde 100 $) · libre 79.50 ${\"inline_keyboard\": [[{\"text\": \"\\ud83d\\udcc8 Ver historial completo y fallos\", \"url\": \"https://github.com/STAMFORD313/analista313/blob/main/ESTADISTICAS.md\"}], [{\"text\": \"\\u26bd F\\u00fatbol\", \"callback_data\": \"dep:futbol\"}, {\"text\": \"\\ud83c\\udfc0 NBA\\u00b7NCAA\", \"callback_data\": \"dep:nba\"}, {\"text\": \"\\ud83c\\udfc8 NFL\\u00b7NCAA\", \"callback_data\": \"dep:nfl\"}], [{\"text\": \"\\ud83c\\udfc6 Champions\\u00b7Europa\", \"callback_data\": \"dep:europa\"}, {\"text\": \"\\ud83c\\udfd2 NHL\", \"callback_data\": \"dep:nhl\"}, {\"text\": \"\\u26be MLB\", \"callback_data\": \"dep:mlb\"}], [{\"text\": \"\\ud83e\\udd4a UFC\", \"callback_data\": \"dep:ufc\"}, {\"text\": \"\\ud83c\\udfbe Tenis\", \"callback_data\": \"dep:tenis\"}, {\"text\": \"\\ud83c\\udfae CS2\", \"callback_data\": \"dep:cs2\"}], [{\"text\": \"\\ud83d\\udc09 Dota 2\", \"callback_data\": \"dep:dota2\"}, {\"text\": \"\\ud83e\\uddd9 LoL\", \"callback_data\": \"dep:lol\"}, {\"text\": \"\\ud83d\\udd2b R6 Siege\", \"callback_data\": \"dep:r6\"}], [{\"text\": \"\\ud83d\\udcf1 MLBB\", \"callback_data\": \"dep:mlbb\"}, {\"text\": \"\\ud83c\\udfae\\u26bd FC 27\", \"callback_data\": \"dep:fc\"}]]}",
- "fc_sent": "2026-11-03T15:18:37.969493+00:00",
+ "fc_sent": "2026-11-03T19:22:57.312180+00:00",
  "sgp": {
   "E1|2026-11-03|Blackburn|Stoke": {
    "match": "Blackburn vs Stoke",
@@ -14112,7 +14093,7 @@
    ]
   }
  },
- "combo_sent": "2026-11-03T16:18:49.370731+00:00",
+ "combo_sent": "2026-11-03T19:22:58.858804+00:00",
  "fc_sim_sent": "2026-11-03T18:48:20.609897+00:00",
  "fc_sim_n": 72,
  "kambi_ok": [
