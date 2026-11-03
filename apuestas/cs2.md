@@ -1,40 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 03/11/2026 12:57 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## GenOne vs Lilmix — 03/11 · 13:00
-
-👀 candidata · 🎮 CS2 · Fiesta Series 3 · **Gana GenOne** @ **1.30** (Thunderpick) · prob 76% vs casas 71% · ventaja -1%
-
-- ❌ Valor: ventaja -1% (mín. 7% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 76.380 partidos)  
-Mapa: GenOne 73% · Serie BO3: GenOne 82% - 18% Lilmix  
-Casas: GenOne 71% · Lilmix 29%  
-🔎 **Claves**  
-• Elo: GenOne 1691 (586 series) | Lilmix 1428 (416 series)  
-• Forma: GenOne ✅❌❌❌❌ | Lilmix ✅✅❌❌❌  
-• H2H: 6: 5-1  
-• Torneo: Fiesta Series 3 (nivel C)  
-• Cambios de plantilla: ninguno  
-
-## GenOne vs Lilmix — 03/11 · 13:00
-
-👀 candidata · 🎮 CS2 · Fiesta Series 3 · **GenOne -1.5 mapas** @ **2.10** (Thunderpick) · prob 52% vs casas 44% · ventaja +10%
-
-- ✅ Valor: ventaja +10% (mín. 9% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 hándicap» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 76.380 partidos)  
-Mapa: GenOne 73% · Serie BO3: GenOne 82% - 18% Lilmix  
-Casas: GenOne 71% · Lilmix 29%  
-🔎 **Claves**  
-• Elo: GenOne 1691 (586 series) | Lilmix 1428 (416 series)  
-• Forma: GenOne ✅❌❌❌❌ | Lilmix ✅✅❌❌❌  
-• H2H: 6: 5-1  
-• Torneo: Fiesta Series 3 (nivel C)  
-• Cambios de plantilla: ninguno  
+Actualizado 03/11/2026 13:11 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## PCIFIC vs Falcons Force — 03/11 · 15:00
 

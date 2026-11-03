@@ -54518,3 +54518,43 @@ id,tournament_id,club1,club2,ht1,ht2
 2360188,260817,Nice,Lyon,1,1
 2360189,260817,Monaco,Nice,2,1
 2360190,260817,Marseille,Paris,0,1
+2359971,260766,Salzburg,Roma,1,1
+2359972,260766,Aston Villa,Porto,3,2
+2359973,260766,Porto,Salzburg,1,3
+2359974,260766,Roma,Fenerbahce,2,3
+2359975,260766,Fenerbahce,Porto,2,1
+2359976,260766,Salzburg,Aston Villa,2,1
+2359977,260766,Aston Villa,Fenerbahce,1,0
+2359978,260766,Porto,Roma,0,1
+2359979,260766,Roma,Aston Villa,1,1
+2359980,260766,Fenerbahce,Salzburg,2,5
+2359981,260766,Roma,Salzburg,5,2
+2359982,260766,Porto,Aston Villa,2,2
+2359983,260766,Salzburg,Porto,2,1
+2359984,260766,Fenerbahce,Roma,3,3
+2359985,260766,Porto,Fenerbahce,2,3
+2359986,260766,Aston Villa,Salzburg,1,4
+2359987,260766,Fenerbahce,Aston Villa,4,1
+2359988,260766,Roma,Porto,6,0
+2359989,260766,Aston Villa,Roma,0,3
+2359990,260766,Salzburg,Fenerbahce,3,3
+2360639,260806,Atleti,Real Madrid,2,4
+2360640,260806,Paris,Bayern Munchen,2,2
+2360641,260806,Bayern Munchen,Atleti,2,2
+2360642,260806,Real Madrid,Liverpool,3,1
+2360643,260806,Liverpool,Bayern Munchen,2,4
+2360644,260806,Atleti,Paris,1,3
+2360645,260806,Paris,Liverpool,4,3
+2360646,260806,Bayern Munchen,Real Madrid,0,3
+2360647,260806,Real Madrid,Paris,0,1
+2360648,260806,Liverpool,Atleti,1,3
+2360649,260806,Real Madrid,Atleti,3,1
+2360650,260806,Bayern Munchen,Paris,1,1
+2360651,260806,Atleti,Bayern Munchen,2,1
+2360652,260806,Liverpool,Real Madrid,2,4
+2360653,260806,Bayern Munchen,Liverpool,1,2
+2360654,260806,Paris,Atleti,3,3
+2360655,260806,Liverpool,Paris,1,2
+2360656,260806,Real Madrid,Bayern Munchen,3,1
+2360657,260806,Paris,Real Madrid,2,1
+2360658,260806,Atleti,Liverpool,4,3
