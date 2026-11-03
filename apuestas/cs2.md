@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 03/11/2026 19:14 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 03/11/2026 19:19 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## QUINTESSÊNCIA vs RED Canids Academy — 03/11 · 20:00
 

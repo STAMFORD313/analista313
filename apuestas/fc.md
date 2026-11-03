@@ -1,6 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 03/11/2026 19:14 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 03/11/2026 19:19 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## ramzes vs mPm — 03/11 · 19:22
 
@@ -38,24 +38,6 @@ Hándicap chevare: −1.5 34% · −2.5 21%
 • Liga: Super Lig  
 • Unibet: 1 2.12 · X 4.10 · 2 2.30 (sin margen 41%/21%/38%) · ventaja +10%. Sin stake hasta demostrar ROI con estas cuotas.  
 
-## Shinobu vs Gazi — 03/11 · 19:34
-
-👀 candidata · 🎮⚽ FC 27 · Copa America · **Empate** @ **5.00** (Unibet) · prob 22% vs casas 18% · ventaja +8%
-
-- ❌ Valor: ventaja +8% (mín. 10% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 54.894 partidos)  
-Goles esperados: Shinobu 2.55 · Gazi 2.30  
-Ganador: Shinobu 44% · empate 22% · Gazi 34%  
-Total: más de 4.5 goles 53% · menos 47%  
-Hándicap Shinobu: −1.5 28% · −2.5 15%  
-🔎 **Claves**  
-• Forma: Shinobu ✅✅❌➖✅ | Gazi ✅❌➖✅❌  
-• Partidos: Shinobu 1180 | Gazi 324  
-• Liga: Copa America  
-• Unibet: 1 2.20 · X 5.00 · 2 2.04 (sin margen 40%/17%/43%) · ventaja +8%. Sin stake hasta demostrar ROI con estas cuotas.  
-
 ## chevare vs Animal — 03/11 · 19:38
 
 👀 candidata · 🎮⚽ FC 27 · Super Lig · **Gana chevare** @ **2.55** (Unibet) · prob 46% vs casas 34% · ventaja +17%
@@ -74,21 +56,39 @@ Hándicap chevare: −1.5 32% · −2.5 20%
 • Liga: Super Lig  
 • Unibet: 1 2.55 · X 3.55 · 2 2.10 (sin margen 34%/24%/41%) · ventaja +17%. Sin stake hasta demostrar ROI con estas cuotas.  
 
-## Maslja vs w1nkos — 03/11 · 19:40
+## Gazi vs mPm — 03/11 · 19:46
 
-👀 candidata · 🎮⚽ FC 27 · Europa League · **Gana w1nkos** @ **1.89** (Unibet) · prob 57% vs casas 46% · ventaja +8%
+👀 candidata · 🎮⚽ FC 27 · Copa America · **Gana mPm** @ **1.83** (Unibet) · prob 60% vs casas 48% · ventaja +9%
 
-- ❌ Valor: ventaja +8% (mín. 10% con la incertidumbre, máx. 30%)
+- ❌ Valor: ventaja +9% (mín. 10% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
 
 📊 **Escenarios** (Poisson por jugador, 54.894 partidos)  
-Goles esperados: Maslja 2.95 · w1nkos 3.87  
-Ganador: Maslja 27% · empate 17% · w1nkos 57%  
-Total: más de 6.5 goles 52% · menos 48%  
-Hándicap w1nkos: −1.5 41% · −2.5 27%  
+Goles esperados: Gazi 2.32 · mPm 3.36  
+Ganador: Gazi 23% · empate 18% · mPm 60%  
+Total: más de 5.5 goles 50% · menos 50%  
+Hándicap mPm: −1.5 42% · −2.5 26%  
 🔎 **Claves**  
-• Forma: Maslja ✅❌✅➖➖ | w1nkos ❌✅✅✅❌  
-• Partidos: Maslja 804 | w1nkos 1079  
-• Liga: Europa League  
-• Unibet: 1 2.35 · X 5.30 · 2 1.89 (sin margen 37%/17%/46%) · ventaja +8%. Sin stake hasta demostrar ROI con estas cuotas.  
+• Forma: Gazi ✅❌➖✅❌ | mPm ❌✅❌❌❌  
+• Partidos: Gazi 324 | mPm 639  
+• Liga: Copa America  
+• Unibet: 1 2.55 · X 4.90 · 2 1.83 (sin margen 34%/18%/48%) · ventaja +9%. Sin stake hasta demostrar ROI con estas cuotas.  
+
+## mPm vs Shinobu — 03/11 · 19:58
+
+👀 candidata · 🎮⚽ FC 27 · Copa America · **Empate** @ **6.40** (Unibet) · prob 18% vs casas 14% · ventaja +12%
+
+- ✅ Valor: ventaja +12% (mín. 11% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 54.894 partidos)  
+Goles esperados: mPm 3.58 · Shinobu 2.74  
+Ganador: mPm 56% · empate 17% · Shinobu 27%  
+Total: más de 6.5 goles 45% · menos 55%  
+Hándicap mPm: −1.5 39% · −2.5 25%  
+🔎 **Claves**  
+• Forma: mPm ❌✅❌❌❌ | Shinobu ✅✅❌➖✅  
+• Partidos: mPm 639 | Shinobu 1180  
+• Liga: Copa America  
+• Unibet: 1 1.70 · X 6.40 · 2 2.55 (sin margen 52%/14%/35%) · ventaja +12%. Sin stake hasta demostrar ROI con estas cuotas.  
 
