@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 03/11/2026 15:43 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 03/11/2026 15:48 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## BRUTE vs Nexus — 03/11 · 16:00
 

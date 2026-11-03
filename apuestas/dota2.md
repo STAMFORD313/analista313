@@ -1,6 +1,6 @@
 # 🐉 Dota 2 · apuestas de valor
 
-Actualizado 03/11/2026 15:43 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 03/11/2026 15:48 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## HULIGANI vs Yellow Submarine — 03/11 · 17:00
 
