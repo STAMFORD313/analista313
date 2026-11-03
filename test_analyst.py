@@ -311,3 +311,15 @@ _kg = knowledge.Graph.__new__(knowledge.Graph); _kg.g = knowledge.nx.Graph(); _k
 _kg.team_stats(_p)
 assert _kg.g.nodes["Leeds"]["stats"]["visitante"]["n"] == _n // 2
 print("ok perfiles de equipo en el grafo")
+
+# combinada del mismo partido en BO3 (esports.sgp_lines: ganador + más de 2.5 = 2-1)
+import esports as _E, train_sgp_esports as _TS
+_sc = _E.bo3_scores(0.6)
+assert abs(sum(_sc.values()) - 1) < 1e-9 and np.allclose(_TS.cells(np.array([0.6]), np.array([_sc[2, 1] / 0.6]))[0], [_sc[2, 0], _sc[2, 1], _sc[1, 2], _sc[0, 2]])
+_bet = {"team_1": {"coeff": 1.5}, "team_2": {"coeff": 2.5}, "additional_markets": [
+    {"bet_type": "team_1_handicap_under_1_5", "coeff": 2.6}, {"bet_type": "team_2_handicap_over_1_5", "coeff": 1.45}]}
+_sl = _E.sgp_lines(_bet, 0.6, {"team1": "FaZe", "team2": "NaVi"})
+assert len(_sl) == 4 and "FaZe gana + Más de 2.5 mapas (2-1)" in _sl[2] and "casa" in _sl[2] and "casa" not in _sl[3]
+_j = 1 / float(_sl[2].split("cuota justa ")[1].split()[0]); _n = 1 / float(_sl[2].split("ingenuo ")[1].split(")")[0])
+assert _j < _n  # el producto ingenuo sobrestima la combinada (más de 2.5 y ganador están correlacionados)
+print("ok crear apuesta esports BO3")

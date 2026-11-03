@@ -216,6 +216,27 @@ def extra_markets(bet, p_map, g):
     return list(best.values())
 
 
+def sgp_lines(bet, p_map, g):
+    """«Crear apuesta» del mismo partido en BO3: ganador + más de 2.5 mapas = marcador 2-1 (train_sgp_esports.py: el
+    marcador de bo3_scores está calibrado, el producto de ganador × más de 2.5 lo sobrestima ~8 %). Solo candidata:
+    cuota justa del modelo y, si Thunderpick da ganador y hándicap, su prob. sin margen implícita (ganar − ganar 2-0)."""
+    sc = bo3_scores(p_map)
+    odds = {x["bet_type"]: x.get("coeff") for x in bet.get("additional_markets") or [] if x.get("active", True)}
+    o1, o2 = ((bet.get(t) or {}).get("coeff") for t in ("team_1", "team_2"))
+    out = []
+    for side, team, cell, win, ah in ((1, g["team1"], (2, 1), sc[2, 0] + sc[2, 1], ("team_1_handicap_under_1_5", "team_2_handicap_over_1_5")),
+                                      (2, g["team2"], (1, 2), sc[0, 2] + sc[1, 2], ("team_2_handicap_under_1_5", "team_1_handicap_over_1_5"))):
+        pj, naive = sc[cell], win * (sc[2, 1] + sc[1, 2])
+        txt = f"🧩 {A.esc(team)} gana + Más de 2.5 mapas (2-1): {pj:.0%}, cuota justa {1 / pj:.2f} (producto ingenuo {1 / naive:.2f})"
+        a, b = (odds.get(k) for k in ah)
+        if o1 and o2 and o1 > 1 and o2 > 1 and a and b and a > 1 and b > 1:
+            pw = (1 / (o1 if side == 1 else o2)) / (1 / o1 + 1 / o2)
+            implied = pw - (1 / a) / (1 / a + 1 / b)
+            if implied > 0.01: txt += f" · casa {implied:.0%}"
+        out.append(txt)
+    return ["", "🧩 <b>Crear apuesta</b> (marcador exacto, sin stake)", *out]
+
+
 def save_odds(up, now, prob=lambda m: None):
     """Guarda la última cuota PREVIA de cada partido (la de bo3.gg en partidos terminados es la del final, en directo):
     sirve para medir calibración y ROI del modelo frente a Thunderpick sin mirar el futuro."""
@@ -353,7 +374,8 @@ def run_one(state, today, kg):
                 f"• Forma: {A.esc(g['team1'])} {form(df, g['t1_id'])} | {A.esc(g['team2'])} {form(df, g['t2_id'])}",
                 f"• H2H: {h2h}",
                 f"• Torneo: {A.esc(g['tournament'])} (nivel {g['tier'].upper()})",
-                f"• Cambios de plantilla: {A.esc(', '.join(roster)) if roster else 'ninguno'}", *players_lines(g)]
+                f"• Cambios de plantilla: {A.esc(', '.join(roster)) if roster else 'ninguno'}", *players_lines(g),
+                *(sgp_lines(bet, p_map, g) if g["bo"] == 3 else [])]
         context = (f"{NAME} {g['team1']} vs {g['team2']}, BO{g['bo']}, torneo {g['tournament']} nivel {g['tier']}. Elo por mapa "
                    f"{r1:.0f} vs {r2:.0f} (prob. mapa {p_map:.0%}, serie {p:.0%}). Forma {form(df, g['t1_id'])} / {form(df, g['t2_id'])} "
                    f"(✅ victoria ❌ derrota). H2H {h2h}. Cambios de plantilla: {', '.join(roster) or 'ninguno'}. Cuotas Thunderpick {o1}/{o2}.")
