@@ -470,3 +470,22 @@ radar.fc_sim_card(_ss); radar.fc_sim_card(_ss)
 assert len(cards) == 1 and "FC 27 · SIMULACIÓN" in cards[0] and _ss["fc_sim_n"] == 3
 esoccer.HIST = _eh2
 print("ok simulación FC 27")
+
+# simulación de combinadas de FC 27: ganador + total del mismo partido y combinada de cada tarjeta
+_jw = esoccer.joint_win_total(2.0, 1.0, "1", 2.5, True)
+_p1 = esoccer.markets(2.0, 1.0)[0]["1"]
+assert 0 < _jw < _p1 and abs(esoccer.joint_win_total(2.0, 1.0, "1", 2.5, False) + _jw - _p1) < 1e-9
+_t3 = Path(tempfile.mkdtemp()); esoccer.PRED, _eh3 = _t3 / "p.csv", esoccer.HIST
+esoccer.HIST = _t3 / "m.csv"
+pd.DataFrame({"id": [1, 2, 3], "s1": [3, 2, 0], "s2": [1, 0, 1]}).to_csv(esoccer.HIST, index=False)
+esoccer.save_predictions([
+    {"id": 1, "start": "a", "p1": "A", "p2": "B", "l1": 2.0, "l2": 1.0, "pick": "1", "p_pick": 0.6, "line": 2.5, "p_over": 0.6, "fav": "1", "p_h15": 0.4, "odds": 1.8, "lote": "L1"},
+    {"id": 2, "start": "b", "p1": "C", "p2": "D", "l1": 2.0, "l2": 1.0, "pick": "1", "p_pick": 0.6, "line": 2.5, "p_over": 0.6, "fav": "1", "p_h15": 0.4, "odds": 1.7, "lote": "L1"},
+    {"id": 3, "start": "c", "p1": "E", "p2": "F", "l1": 2.0, "l2": 1.0, "pick": "1", "p_pick": 0.6, "line": 2.5, "p_over": 0.6, "fav": "1", "p_h15": 0.4, "odds": None, "lote": "L2"}])
+_d3 = esoccer.simulation()
+assert _d3.ok_wt.tolist() == [1.0, 0.0, 0.0]  # 3-1 gana y más de 2.5 ✅; 2-0 gana pero menos ❌; 0-1 pierde ❌
+_lc = esoccer.lot_combos(_d3)
+assert len(_lc) == 1 and _lc.ok.iloc[0] and abs(_lc.p.iloc[0] - 0.36) < 1e-9 and abs(_lc.g_unibet.iloc[0] - (1.8 * 1.7 - 1)) < 1e-9
+assert "Combinada de cada tarjeta" in "\n".join(esoccer.sim_lines())
+esoccer.HIST = _eh3
+print("ok simulación de combinadas FC 27")

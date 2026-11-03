@@ -152,14 +152,14 @@ def market_report(edge=0.05):
 
 
 PRED = A.DATA / "fc" / "predicciones.csv"  # cada pronóstico enviado (ganador, total, hándicap) para la simulación
-PRED_COLS = ["id", "start", "p1", "p2", "liga", "l1", "l2", "pick", "p_pick", "line", "p_over", "fav", "p_h15", "odds", "book"]
+PRED_COLS = ["id", "start", "p1", "p2", "liga", "l1", "l2", "pick", "p_pick", "line", "p_over", "fav", "p_h15", "odds", "book", "lote"]
 
 
 def save_predictions(rows):
     if not rows: return
     new = pd.DataFrame(rows, columns=PRED_COLS)
     old = pd.read_csv(PRED) if PRED.exists() else new.iloc[:0]
-    pd.concat([old, new]).drop_duplicates("id", keep="first").to_csv(PRED, index=False)
+    pd.concat([old, new]).drop_duplicates("id", keep="first").reindex(columns=PRED_COLS).to_csv(PRED, index=False)
 
 
 def backfill_predictions(state):
@@ -200,8 +200,31 @@ def simulation():
     fav1 = d.fav.astype(str).str.replace(".0", "", regex=False) == "1"
     d["ok_h15"] = np.where(has_h, (np.where(fav1, d.s1 - d.s2, d.s2 - d.s1) >= 2).astype(float), np.nan)
     d["g_justa"] = np.where(d.ok_1x2, 1 / d.p_pick - 1, -1.0)
+    d["p_wt"] = [joint_win_total(r.l1, r.l2, str(r.pick), r.line, r.p_over >= 0.5) if pd.notna(r.l1) and pd.notna(r.line) else np.nan
+                 for r in d.itertuples()]  # «crear apuesta» ganador + total del mismo partido (prob. conjunta exacta del Poisson)
+    d["ok_wt"] = np.where(d.p_wt.notna(), (d.ok_1x2 & (d.ok_tot == 1)).astype(float), np.nan)
     d["g_unibet"] = np.where(d.odds.notna(), np.where(d.ok_1x2, d.odds - 1, -1.0), np.nan)
     return d.sort_values("start")
+
+
+def joint_win_total(l1, l2, pick, line, over):
+    """P(gana el pick y el total cae del lado elegido) con goles Poisson independientes (como markets)."""
+    return sum(poisson(i, l1) * poisson(j, l2) for i in range(MAX_GOALS) for j in range(MAX_GOALS)
+               if {"1": i > j, "X": i == j, "2": j > i}[pick] and ((i + j > line) == over))
+
+
+def lot_combos(d):
+    """Combinada de los pronósticos de una misma tarjeta (mismo run, ≥2, todos jugados): prob. = producto (partidos
+    distintos), acierto si aciertan todos; ganancia a 1 u a cuota justa y, si todos tenían cuota de Unibet, a esa."""
+    if "lote" not in d or d.lote.isna().all(): return pd.DataFrame()
+    rows = []
+    for lote, g in d.dropna(subset=["lote"]).groupby("lote"):
+        if len(g) < 2: continue
+        p, ok = float(g.p_pick.prod()), bool(g.ok_1x2.all())
+        odds = float(g.odds.prod()) if g.odds.notna().all() else np.nan
+        rows.append({"lote": lote, "n": len(g), "p": p, "ok": ok, "g_justa": 1 / p - 1 if ok else -1.0,
+                     "g_unibet": (odds - 1 if ok else -1.0) if pd.notna(odds) else np.nan})
+    return pd.DataFrame(rows)
 
 
 def sim_lines(last=8):
@@ -216,6 +239,16 @@ def sim_lines(last=8):
            f"Apostando 1 u a cada ganador: a cuota justa {d.g_justa.sum():+.1f} u"
            + (f" · con cuota de Unibet ({len(u)}): <b>{u.g_unibet.sum():+.1f} u</b> (ROI {u.g_unibet.mean():+.0%})" if len(u) else
               " · aún sin pronósticos con cuota de Unibet jugados")]
+    wt = d[d.p_wt.notna()]
+    out.append("🧩 Combinada ganador + total del mismo partido: " + (
+        f"{len(wt)} jugadas · prevista {wt.p_wt.mean():.0%} → <b>{wt.ok_wt.mean():.0%}</b> · a cuota justa {np.where(wt.ok_wt == 1, 1 / wt.p_wt - 1, -1).sum():+.1f} u"
+        if len(wt) else "aún sin partidos con total guardado (desde hoy se guarda)"))
+    lc = lot_combos(d)
+    out.append("🔗 Combinada de cada tarjeta (todos sus pronósticos): " + (
+        f"{len(lc)} jugadas · prevista {lc.p.mean():.0%} → <b>{lc.ok.mean():.0%}</b> · a cuota justa {lc.g_justa.sum():+.1f} u"
+        + (f" · con Unibet {lc.g_unibet.sum():+.1f} u ({lc.g_unibet.notna().sum()})" if lc.g_unibet.notna().any() else "")
+        if len(lc) else "aún sin tarjetas completas jugadas (desde hoy se guarda cada tarjeta)"))
+    out.append("Últimos (✅/❌ = ganador; el total y −1.5 van aparte):")
     for r in d.tail(last).itertuples():
         win = {"1": r.p1, "X": "Empate", "2": r.p2}[str(r.pick)]
         out.append(f"{'✅' if r.ok_1x2 else '❌'} {A.esc(r.p1)} <b>{int(r.s1)}-{int(r.s2)}</b> {A.esc(r.p2)} · {A.esc(win)} ({r.p_pick:.0%})"
@@ -290,7 +323,8 @@ def run(state, today, kg):
                         f"{1 / o['X'] / inv:.0%}/{1 / o['2'] / inv:.0%}) · ventaja {sig['edge']:+.0%}. Sin stake hasta demostrar ROI con estas cuotas.")
         preds.append({"id": g["id"], "start": start.isoformat(), "p1": g["p1"], "p2": g["p2"], "liga": g["league"], "l1": round(l1, 3),
                       "l2": round(l2, 3), "pick": mk, "p_pick": round(p[mk], 4), "line": line, "p_over": round(over, 4),
-                      "fav": "1" if sign == 1 else "2", "p_h15": round(hcp[1.5], 4), "odds": sig["odds"] if o else None, "book": sig["book"]})
+                      "fav": "1" if sign == 1 else "2", "p_h15": round(hcp[1.5], 4), "odds": sig["odds"] if o else None, "book": sig["book"],
+                      "lote": now.isoformat()[:16]})  # mismo run = misma tarjeta (para simular su combinada)
         state["signals"].append({"market": {"1": "H", "X": "D", "2": "A"}[mk], "pick": {"1": g["p1"], "X": "Empate", "2": g["p2"]}[mk],
                                  **sig, "p": round(p[mk], 3), "key": key, "match": f"{g['p1']} vs {g['p2']}",
                                  "start": start.isoformat(), "league": f"{TITLE} · {g['league']}", "sport": ICON, "info": info,
