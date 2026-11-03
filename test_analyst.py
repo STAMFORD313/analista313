@@ -636,7 +636,9 @@ _ml, _MS2.moneyline = _MS2.moneyline, lambda odds: (1.5, 2.8)
 _usg = {"date": "2026-11-04T00:00Z", "home": "Lakers", "away": "Celtics", "odds": None}
 _tc = [{"market": "over", "p": 0.55, "odds": 1.91}, {"market": "under", "p": 0.45, "odds": 1.91}]
 _us = {"signals": [{"key": "nba|2026-11-04|Lakers|Celtics", "market": "home", "info": ["📊"]}]}
+_mcs, _MS2._MC = _MS2._MC, {}  # sin el juez del mercado (peso 0.5) para probar la mecánica
 _MS2.us_combo(_us, "nba", _usg, "Lakers", "Celtics", 0.70, _tc, 224.5)
+_MS2._MC = _mcs
 _MS2.moneyline = _ml
 _cbu = _us["sgp"]["nba|2026-11-04|Lakers|Celtics"]["combos"][0]
 assert [l["text"] for l in _cbu["legs"]] == ["Gana Lakers", "Más de 224.5 puntos"] and _cbu["kind"] == "nba"
