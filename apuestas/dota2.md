@@ -1,34 +1,13 @@
 # 🐉 Dota 2 · apuestas de valor
 
-Actualizado 02/11/2026 18:37 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## GamerLegion vs CyberHero — 02/11 · 20:00
-
-👀 candidata · 🐉 Dota 2 · EPL Masters III · **Gana GamerLegion** @ **1.08** (Thunderpick) · prob 82% vs casas 86% · ventaja -11%
-
-- ✅ Probabilidad 82% (mín. 55%)
-- ❌ Ventaja -11% (entre 5% y 30%)
-- ✅ Segmento «🐉 favorito» sin pérdidas
-- ❌ IA: sin revisar (no pasó lo anterior)
-
-📊 **Escenarios** (Elo por mapa. 11.607 partidos)  
-Mapa: GamerLegion 70% · Serie BO3: GamerLegion 78% - 22% CyberHero  
-Casas: GamerLegion 86% · CyberHero 14%  
-🔎 **Claves**  
-• Elo: GamerLegion 1936 (109 series) | CyberHero 1742 (16 series)  
-• Forma: GamerLegion ✅✅✅❌❌ | CyberHero ❌✅❌✅✅  
-• H2H: sin precedentes  
-• Torneo: EPL Masters III (nivel B)  
-• Cambios de plantilla: ninguno  
+Actualizado 03/11/2026 08:00 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## LEGION vs OG — 03/11 · 11:00
 
 👀 candidata · 🐉 Dota 2 · EPL Masters III · **Gana LEGION** @ **3.21** (Thunderpick) · prob 31% vs casas 29% · ventaja -0%
 
-- ❌ Probabilidad 31% (mín. 55%)
-- ❌ Ventaja -0% (entre 5% y 30%)
-- ✅ Segmento «🐉 no favorito» sin pérdidas
-- ❌ IA: sin revisar (no pasó lo anterior)
+- ❌ Valor: ventaja -0% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🐉 no favorito» sin pérdidas demostradas
 
 📊 **Escenarios** (Elo por mapa, 11.613 partidos)  
 Mapa: LEGION 39% · Serie BO3: LEGION 33% - 67% OG  
@@ -40,14 +19,31 @@ Casas: LEGION 29% · OG 71%
 • Torneo: EPL Masters III (nivel B)  
 • Cambios de plantilla: LEGION, OG  
 
+## Nemiga Gaming vs CyberHero — 03/11 · 14:00
+
+👀 candidata · 🐉 Dota 2 · EPL Masters III · **Gana Nemiga Gaming** @ **2.70** (Thunderpick) · prob 35% vs casas 34% · ventaja -7%
+
+- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🐉 no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 11.617 partidos)  
+Mapa: Nemiga Gaming 41% · Serie BO3: Nemiga Gaming 35% - 65% CyberHero  
+Casas: Nemiga Gaming 34% · CyberHero 66%  
+🔎 **Claves**  
+• Elo: Nemiga Gaming 1682 (307 series) | CyberHero 1766 (17 series)  
+• Forma: Nemiga Gaming ❌✅✅✅❌ | CyberHero ✅❌✅✅❌  
+• H2H: sin precedentes  
+• Torneo: EPL Masters III (nivel B)  
+• Cambios de plantilla: Nemiga Gaming, CyberHero  
+• Jugadores en forma (KDA últimas 10 partidas): Nemiga Gaming: youNG G 4.2, byun 2.5 | CyberHero: Ainkrad 4.1, WoE 3.2  
+• Química de la plantilla: Nemiga Gaming: 128 partidas juntos de media | CyberHero: 132 partidas juntos de media  
+
 ## HULIGANI vs Yellow Submarine — 03/11 · 17:00
 
 👀 candidata · 🐉 Dota 2 · EPL Masters III · **Gana HULIGANI** @ **2.60** (Thunderpick) · prob 36% vs casas 36% · ventaja -6%
 
-- ❌ Probabilidad 36% (mín. 55%)
-- ❌ Ventaja -6% (entre 5% y 30%)
-- ✅ Segmento «🐉 no favorito» sin pérdidas
-- ❌ IA: sin revisar (no pasó lo anterior)
+- ❌ Valor: ventaja -6% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🐉 no favorito» sin pérdidas demostradas
 
 📊 **Escenarios** (Elo por mapa, 11.613 partidos)  
 Mapa: HULIGANI 41% · Serie BO3: HULIGANI 37% - 63% Yellow Submarine  
@@ -58,4 +54,23 @@ Casas: HULIGANI 35% · Yellow Submarine 65%
 • H2H: 13: 8-5  
 • Torneo: EPL Masters III (nivel B)  
 • Cambios de plantilla: ninguno  
+
+## Natus Vincere vs GamerLegion — 03/11 · 20:00
+
+👀 candidata · 🐉 Dota 2 · EPL Masters III · **Gana Natus Vincere** @ **1.69** (Thunderpick) · prob 58% vs casas 55% · ventaja -1%
+
+- ❌ Valor: ventaja -1% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🐉 favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 11.617 partidos)  
+Mapa: Natus Vincere 52% · Serie BO3: Natus Vincere 62% - 38% GamerLegion  
+Casas: Natus Vincere 55% · GamerLegion 45%  
+🔎 **Claves**  
+• Elo: Natus Vincere 1987 (252 series) | GamerLegion 1969 (110 series)  
+• Forma: Natus Vincere ✅❌❌❌✅ | GamerLegion ✅✅❌❌✅  
+• H2H: 3: 3-0  
+• Torneo: EPL Masters III (nivel B)  
+• Cambios de plantilla: ninguno  
+• Jugadores en forma (KDA últimas 10 partidas): Natus Vincere: Niku 4.6, gotthejuice 3.4 | GamerLegion: RCY 5.9, Fayde 4.6  
+• Química de la plantilla: Natus Vincere: 498 partidas juntos de media | GamerLegion: 325 partidas juntos de media  
 

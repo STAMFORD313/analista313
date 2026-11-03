@@ -34503,3 +34503,8 @@ game_id,match_id,slug,date,tier,bo,tournament_id,tournament,t1_id,t2_id,team1,te
 191020,132580,mouz-cs2-vs-tyloo-cs-go-02-11-2026,2026-11-02T10:20:00.000+00:00,s,3,5113,Intel Extreme Masters Beijing 2026,765,757,MOUZ,TYLOO,2,de_nuke,765,13.0,7.0
 191006,132575,natus-vincere-vs-falcons-esports-02-11-2026,2026-11-02T11:45:00.000+00:00,s,3,5113,Intel Extreme Masters Beijing 2026,787,2713,Natus Vincere,Falcons,1,de_ancient,787,13.0,5.0
 191005,132575,natus-vincere-vs-falcons-esports-02-11-2026,2026-11-02T11:45:00.000+00:00,s,3,5113,Intel Extreme Masters Beijing 2026,787,2713,Natus Vincere,Falcons,2,de_mirage,787,13.0,11.0
+192056,133044,liquid-vs-parivision-03-11-2026,2026-11-03T02:00:00.000+00:00,s,3,5113,Intel Extreme Masters Beijing 2026,790,8171,Liquid,PARIVISION,1,de_ancient,8171,13.0,7.0
+192058,133044,liquid-vs-parivision-03-11-2026,2026-11-03T02:00:00.000+00:00,s,3,5113,Intel Extreme Masters Beijing 2026,790,8171,Liquid,PARIVISION,2,de_inferno,8171,13.0,9.0
+192062,133046,aurora-gaming-vs-g2-03-11-2026,2026-11-03T02:00:00.000+00:00,s,3,5113,Intel Extreme Masters Beijing 2026,3598,793,Aurora,G2,3,de_dust2,3598,16.0,13.0
+192063,133046,aurora-gaming-vs-g2-03-11-2026,2026-11-03T02:00:00.000+00:00,s,3,5113,Intel Extreme Masters Beijing 2026,3598,793,Aurora,G2,2,de_inferno,793,13.0,9.0
+192064,133046,aurora-gaming-vs-g2-03-11-2026,2026-11-03T02:00:00.000+00:00,s,3,5113,Intel Extreme Masters Beijing 2026,3598,793,Aurora,G2,1,de_nuke,3598,13.0,9.0

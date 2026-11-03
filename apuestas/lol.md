@@ -1,15 +1,13 @@
 # 🧙 LoL · apuestas de valor
 
-Actualizado 02/11/2026 18:37 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 03/11/2026 08:00 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Top Esports vs Invictus Gaming — 03/11 · 23:00
 
 👀 candidata · 🧙 LoL · Worlds 2026 · **Gana Top Esports** @ **2.00** (Thunderpick) · prob 48% vs casas 46% · ventaja -5%
 
-- ❌ Probabilidad 48% (mín. 55%)
-- ❌ Ventaja -5% (entre 5% y 30%)
-- ✅ Segmento «🧙 no favorito» sin pérdidas
-- ❌ IA: sin revisar (no pasó lo anterior)
+- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🧙 no favorito» sin pérdidas demostradas
 
 📊 **Escenarios** (Elo por mapa, 14.800 partidos)  
 Mapa: Top Esports 49% · Serie BO5: Top Esports 49% - 51% Invictus Gaming  
