@@ -1,1 +1,1 @@
-{"lr": 0.003, "lr_league": 0.002, "shrink": 0, "logloss_oos": 0.983, "n_oos": 17810, "calib_test": {"ll": 0.9802, "ll_cal": 0.9773, "se": 0.0006, "n": 17782}, "calib": [1.1605, 0.3212]}
+{"lr": 0.003, "lr_league": 0.002, "shrink": 0, "logloss_oos": 0.983, "n_oos": 17810, "calib_test": {"ll": 0.9788, "ll_cal": 0.9758, "se": 0.0006, "n": 17766}, "calib": [1.1598, 0.3221]}

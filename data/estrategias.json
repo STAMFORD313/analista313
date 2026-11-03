@@ -1,6 +1,23 @@
 {
- "fecha": "2026-11-03 21:19",
- "n": 266,
+ "fecha": "2026-11-03 22:49",
+ "n": 277,
  "rentables": [],
- "bloqueados": []
+ "bloqueados": [
+  {
+   "segmento": "mercado=ganador · ventaja=<0",
+   "n": 101,
+   "roi": -0.1214,
+   "se": 0.055,
+   "roi_antigua": -0.0804,
+   "roi_nueva": -0.1686
+  },
+  {
+   "segmento": "ventaja=<0",
+   "n": 110,
+   "roi": -0.1167,
+   "se": 0.0558,
+   "roi_antigua": -0.0338,
+   "roi_nueva": -0.2126
+  }
+ ]
 }
