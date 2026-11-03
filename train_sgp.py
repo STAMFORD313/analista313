@@ -44,11 +44,11 @@ def cells_cov(pa, pb, c):
 def cell(ya, yb): return np.where(ya, np.where(yb, 0, 1), np.where(yb, 2, 3))
 
 
-def load():
-    """DataFrame del periodo de 3 años y dict {var: (mu, r, y, línea, test, fit)}."""
+def load(frame=False):
+    """Dict {var: (mu, r, y, línea)}, máscaras test y ajuste (y con frame=True, las filas del periodo de 3 años)."""
     import train_football as TF
     P = json.loads(FS.PARAMS.read_text())
-    df = FS.prep(pd.concat([A.load_csv(f.read_bytes(), A.COLS + FS.COLS) for f in sorted(A.HIST.glob("*.csv"))], ignore_index=True))
+    df = FS.prep(pd.concat([A.load_csv(f.read_bytes(), A.COLS + FS.COLS + ["Referee"]) for f in sorted(A.HIST.glob("*.csv"))], ignore_index=True))
     d = df.dropna(subset=["FTHG", "FTAG", *FS.COLS[:4], "HF", "AF", "HST", "AST"]).sort_values("Date", ignore_index=True)
     end = d.Date.max(); since = end - pd.DateOffset(years=3)
     e = d[d.Date >= since].reset_index(drop=True)
@@ -66,7 +66,7 @@ def load():
         for sc, mu, y, rr in (("t", mh + ma, e[h] + e[a], r), ("h", mh, e[h], rt), ("a", ma, e[a], rt)):
             V[f"{st}_{sc}"] = (mu, rr, y.to_numpy(float), lines[sc])
     ok = np.logical_and.reduce([np.isfinite(l) & (mu > 0) for mu, _, _, l in V.values()])
-    return V, test & ok, ~test & ok
+    return (V, test & ok, ~test & ok, e) if frame else (V, test & ok, ~test & ok)
 
 
 def p_over(v, shift=0):
