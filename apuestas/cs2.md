@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 03/11/2026 22:21 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 03/11/2026 22:29 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Natus Vincere vs B8 — 04/11 · 05:30
 
