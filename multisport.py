@@ -127,8 +127,20 @@ def moneyline(odds):
         return None, None
 
 
-def signals(p_home, oh, oa, every=False):
-    return choices((p_home, 1 - p_home), (oh, oa), ("home", "away"), every)
+_MC = json.loads((A.DATA / "market_check.json").read_text()) if (A.DATA / "market_check.json").exists() else {}
+
+
+def weight(league, market):
+    """Peso del modelo frente al mercado sin margen por liga y mercado (market_check.py, cuotas de CIERRE de DraftKings):
+    el elegido en la 1.ª mitad (w_opt) solo si en la 2.ª mitad bate al mercado; si no, 0 (= mercado puro: sin ventajas,
+    el bot no apuesta ahí). Sin backtest: 0.5 (lo de antes)."""
+    r = (_MC.get(league) or {}).get(market)
+    if not r: return 0.5
+    return r["w_opt"] if r.get("ll_2a_mitad_w_opt", 9) < r.get("ll_2a_mitad_mercado", 0) else 0.0
+
+
+def signals(p_home, oh, oa, every=False, w=0.5):
+    return choices((p_home, 1 - p_home), (oh, oa), ("home", "away"), every, w)
 
 
 def choices(ps, odds, sides, every=False, w=0.5):
@@ -181,7 +193,8 @@ def total_signals(model, home, away, line, oo, ou, league=None):
     p_over, exp = over_prob(model, home, away, line, league)
     inv, out = 1 / oo + 1 / ou, []
     for side, p, o in (("over", p_over, oo), ("under", 1 - p_over, ou)):
-        q = 0.5 * p + 0.5 / o / inv
+        w = weight(league, "totales")
+        q = w * p + (1 - w) / o / inv
         if q >= A.MIN_P:
             out.append({"market": side, "line": line, "odds": o, "book": "DraftKings", "p": round(q, 3),
                         "implied": round(1 / o / inv, 3), "edge": round(q * o - 1, 3), "expected": round(exp, 1)})
@@ -222,7 +235,7 @@ def us_combo(state, league, g, home, away, p, tc, line):
     correlación margen-total medida (train_nba_sgp.py; en NBA ≈ 0 → producto), cuota aprox. = producto de las dos.
     Se registra la de más ventaja y se SIMULA a 1 u si ventaja ≥ football_stats.SIM_EDGE. Liquida settle_us_combos."""
     import train_sgp
-    ml = {v["market"]: v for v in signals(p, *moneyline(g["odds"]), every=True)}
+    ml = {v["market"]: v for v in signals(p, *moneyline(g["odds"]), every=True, w=weight(league, "ganador"))}
     ou = {v["market"]: v for v in tc}
     if not ({"home", "away"} <= set(ml) and {"over", "under"} <= set(ou)): return
     rho = (_SGP_US.get(league) or {}).get("rho", 0.0)
@@ -407,7 +420,7 @@ def run_league(league, state, today, kg):
         sl, sh, sa = spreads(g["odds"])
         if league in SPREAD and sl is not None and sh and sa:  # hándicap: prob. de cubrir desde el Elo, mezclada con DK
             sc = [{**v, "market": "sp" + v["market"][0], "line": sl if v["market"] == "home" else -sl}
-                  for v in signals(totals_model.p_cover(league, p, sl, {"spread": SPREAD}), sh, sa, every=True)]
+                  for v in signals(totals_model.p_cover(league, p, sl, {"spread": SPREAD}), sh, sa, every=True, w=weight(league, "hándicap"))]
             for v in [v for v in sc if A.EDGE <= v["edge"] <= A.MAX_EDGE] or sorted(sc, key=lambda v: -v["edge"])[:1]:
                 team = home if v["market"] == "sph" else away
                 state["signals"].append({**v, "key": key(league, g), "match": f"{home} vs {away}", "start": g["date"],
@@ -420,7 +433,8 @@ def run_league(league, state, today, kg):
                                f"Bajas: {A.absences_line(home, squads[0])}; {A.absences_line(away, squads[1])}."})
         o3 = espn_extra.moneyline3(g["odds"]) if soccer else None
         # fútbol: mismo peso del modelo que el 1X2 de ligas (train_football: el mercado gana; con 0 solo hay candidatas)
-        cands = choices(P3, o3, ("home", "D", "away"), True, A.W["1x2"]) if soccer else signals(p, *moneyline(g["odds"]), every=True)
+        cands = choices(P3, o3, ("home", "D", "away"), True, weight(league, "1X2") if league in _MC else A.W["1x2"]) if soccer else \
+            signals(p, *moneyline(g["odds"]), every=True, w=weight(league, "ganador"))
         if not cands: continue
         oh, oa = (o3[0], o3[2]) if soccer else moneyline(g["odds"])
         odds = o3 if soccer else (oh, oa)

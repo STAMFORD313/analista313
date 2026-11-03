@@ -24,6 +24,7 @@ EXPERTS = {
     # ── evaluadores (comparan con la casa usando lo ya jugado) ─────────────────────────────────────────────────
     "props_futbol": (0, 15, [PY, "football_players.py"], "Props de jugador de fútbol: backtest y liquidación de las cuotas de Unibet"),
     "estrategias": (0, 10, [PY, "estrategias.py"], "Busca segmentos rentables/perdedores con validación (ajusta el stake de la banca)"),
+    "juez_mercado": (24, 40, [PY, "market_check.py"], "Modelo vs cuotas de CIERRE de DraftKings por liga y mercado: fija el peso del modelo (0 = no apostar)"),
     # ── entrenadores (diarios; solo guardan si no empeoran fuera de muestra) ──────────────────────────────────
     "entrena_esports": (24, 90, ["bash", "-c", "for g in cs2 dota2 lol r6 mlbb; do python train_cs2.py $g auto || echo fallo $g; done"],
                         "Elo por mapa/serie de CS2, Dota 2, LoL, R6 y MLBB"),

@@ -773,3 +773,13 @@ assert _st1["bien"]["ok"] and _st1["bien"]["salida"] == "hecho" and not _st1["ma
 assert not NU.due("diario", _st1, pd.Timestamp.now(tz="UTC")) and NU.due("bien", _st1, pd.Timestamp.now(tz="UTC"))
 NU.EXPERTS.clear(); NU.EXPERTS.update(_ex); NU.STATE = _stf
 print("ok equipo de expertos")
+
+# peso del modelo por liga y mercado validado contra las cuotas de cierre (multisport.weight ← market_check.json)
+import multisport as _MW
+_mc0 = _MW._MC
+_MW._MC = {"nba": {"ganador": {"w_opt": 0.1, "ll_2a_mitad_w_opt": 0.5322, "ll_2a_mitad_mercado": 0.5297}},
+           "nfl": {"hándicap": {"w_opt": 0.7, "ll_2a_mitad_w_opt": 0.6880, "ll_2a_mitad_mercado": 0.6960}}}
+assert _MW.weight("nba", "ganador") == 0.0 and _MW.weight("nfl", "hándicap") == 0.7 and _MW.weight("mlb", "ganador") == 0.5
+assert _MW.signals(0.7, 1.9, 2.0, every=True, w=0.0)[0]["edge"] < 0.01  # peso 0 → prob. del mercado: sin ventaja
+_MW._MC = _mc0
+print("ok peso por liga y mercado")
