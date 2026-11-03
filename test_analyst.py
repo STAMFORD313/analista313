@@ -785,3 +785,15 @@ assert _MW.weight("nba", "ganador") == 0.0 and _MW.weight("nfl", "hándicap") ==
 assert _MW.signals(0.7, 1.9, 2.0, every=True, w=0.0)[0]["edge"] < 0.01  # peso 0 → prob. del mercado: sin ventaja
 _MW._MC = _mc0
 print("ok peso por liga y mercado")
+
+# props de jugador NBA de Unibet (kambi.nba_props): todas las salidas con jugador
+_kg2, _nb0 = kambi.get, kambi._nba
+kambi._nba = [{"id": 7, "home": "Los Angeles Lakers", "away": "Boston Celtics", "start": pd.Timestamp("2026-11-05T00:30:00Z")}]
+kambi.get = lambda path: {"betOffers": [
+    {"criterion": {"englishLabel": "Points scored by the player - Including Overtime"},
+     "outcomes": [{"participant": "LeBron James", "type": "OT_OVER", "line": 25500, "odds": 1870}, {"participant": "LeBron James", "type": "OT_UNDER", "line": 25500, "odds": 1950}]},
+    {"criterion": {"englishLabel": "Moneyline"}, "outcomes": [{"type": "OT_ONE", "odds": 1500}]}]}
+_np2 = kambi.nba_props("Los Angeles Lakers", "Boston Celtics", "2026-11-05T00:30:00Z")
+assert len(_np2) == 2 and _np2[0]["jugador"] == "LeBron James" and _np2[0]["linea"] == 25.5 and kambi.LABELS_SEEN.get("NBA · Moneyline")
+kambi.get, kambi._nba = _kg2, _nb0
+print("ok props NBA de Unibet")

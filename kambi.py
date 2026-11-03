@@ -122,6 +122,30 @@ PLAYER_LABELS = re.compile(r"^(To Score|To Get a Card|To give an assist|To score
                            r"To score at least \d goals|First Goal Scorer)", re.I)
 
 
+_nba = None
+
+
+def nba_props(home, away, start):
+    """Props de jugador NBA de Unibet (puntos, rebotes, asistencias, triples… según los publique): todas las salidas con
+    jugador (`participant`) del partido, [{mercado, jugador, tipo, línea, cuota}]. También anota los nombres de mercado."""
+    global _nba
+    if _nba is None:
+        _nba = [{"id": e["id"], "home": e.get("homeName", ""), "away": e.get("awayName", ""), "start": pd.Timestamp(e["start"])}
+                for x in get("listView/basketball/nba/all/all/matches").get("events", []) if (e := x.get("event"))]
+    ev = next((e for e in _nba if abs((e["start"] - pd.Timestamp(start)).total_seconds()) < 86400
+               and A.find_team(home, [e["home"]]) and A.find_team(away, [e["away"]])), None)
+    if not ev: return []
+    out = []
+    for b in get(f"betoffer/event/{ev['id']}").get("betOffers", []):
+        lab = OPTA.sub("", b["criterion"].get("englishLabel", ""))
+        LABELS_SEEN["NBA · " + lab] = LABELS_SEEN.get("NBA · " + lab, 0) + 1
+        for o in b.get("outcomes", []):
+            if o.get("participant") and o.get("odds") and o.get("status", "OPEN") == "OPEN":
+                out.append({"mercado": lab, "jugador": o["participant"], "tipo": o.get("type"),
+                            "linea": o["line"] / 1000 if o.get("line") else None, "cuota": o["odds"] / 1000})
+    return out
+
+
 def player_props(home, away, start):
     """Cuotas de props de jugador de fútbol (marcar, asistir, tarjeta, tiros a puerta del jugador…) del partido ya
     descargado por offers(): [{mercado, jugador, tipo, línea, cuota}]. Solo registro (aún no hay estadísticas por

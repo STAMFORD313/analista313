@@ -451,6 +451,16 @@ def run_league(league, state, today, kg):
                  f"• H2H: {h2h}",
                  f"• Bajas: {A.absences_line(home, squads[0])}; {A.absences_line(away, squads[1])}",
                  f"• Favorito de las casas: {A.esc(fav)} @ {min(oh, oa):.2f}"]
+        if league == "nba":  # cuotas de props de jugador de Unibet: se guardan para medir el modelo de props contra la casa
+            try:
+                import kambi
+                rows = kambi.nba_props(home, away, g["date"])
+                if rows:
+                    f = A.DATA / "nba" / "kambi_props.csv"
+                    new = pd.DataFrame(rows).assign(seen=pd.Timestamp.now(tz="UTC").isoformat(), start=str(g["date"]), home=home, away=away)
+                    old_ = pd.read_csv(f) if f.exists() else new.iloc[:0]
+                    pd.concat([old_, new]).drop_duplicates(["start", "home", "mercado", "jugador", "tipo", "linea"], keep="last").to_csv(f, index=False)
+            except Exception as e: print("props NBA Unibet", repr(e))
         if league == "nba":  # props de jugador (train_nba_props.py), sin los lesionados
             try:
                 import nba_props
