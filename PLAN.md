@@ -12,7 +12,8 @@ Informe al usuario: una línea por mejora con 🟢 (conseguido) o 🔴 (no mejor
 - [x] Esports: Unibet como 2.ª casa (cuotas de CS2/LoL/Dota/Valorant) → más partidos con cuota real y mejor cuota.
 - [ ] Esports: añadir las disciplinas que confirme `data/sondeo.json` (Valorant, etc.) con su experto de datos y su Elo.
 - [ ] Props: con ≥ 200 liquidadas, decidir por estadística (NBA y fútbol) si se apuestan (ROI − 2 e.t. > 0).
-- [ ] Fútbol: más ligas de ESPN (con Unibet) en espn_soccer.LEAGUES y en el modelo de estadísticas.
+- [x] Fútbol: más ligas de ESPN en espn_soccer.LEAGUES (las 11 «nuevas» del bot).
+- [ ] Fútbol: modelo de estadísticas (córners/tarjetas/tiros) para las 11 ligas nuevas con los datos de ESPN.
 - [ ] Fútbol: efecto del portero en córners y árbitro en todas las ligas (con el historial de ESPN).
 - [ ] Props de CS2/Dota/LoL (kills) contra cuotas reales si Unibet/Thunderpick las publican.
 - [ ] NFL y Champions (único mercado US/Europa que bate al cierre): reforzar con datos de jugadores (QB titular, nflverse).

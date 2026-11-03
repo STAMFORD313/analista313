@@ -18,7 +18,10 @@ import analyst as A
 BASE = "https://site.api.espn.com/apis/site/v2/sports/soccer"
 LEAGUES = {"E0": "eng.1", "E1": "eng.2", "SP1": "esp.1", "SP2": "esp.2", "I1": "ita.1", "I2": "ita.2", "D1": "ger.1", "D2": "ger.2",
            "F1": "fra.1", "F2": "fra.2", "N1": "ned.1", "P1": "por.1", "B1": "bel.1", "T1": "tur.1", "G1": "gre.1", "SC0": "sco.1",
-           "ucl": "uefa.champions", "uel": "uefa.europa"}
+           "ucl": "uefa.champions", "uel": "uefa.europa",
+           # ligas «nuevas» del bot: football-data no trae sus estadísticas; ESPN sí (córners, tarjetas, tiros, jugadores)
+           "ARG": "arg.1", "BRA": "bra.1", "MEX": "mex.1", "USA": "usa.1", "JPN": "jpn.1", "AUT": "aut.1", "DNK": "den.1",
+           "NOR": "nor.1", "SWE": "swe.1", "SWZ": "sui.1", "POL": "pol.1"}
 PSTATS = ["totalGoals", "goalAssists", "totalShots", "shotsOnTarget", "saves", "shotsFaced", "foulsCommitted", "yellowCards",
           "redCards", "offsides"]
 TSTATS = ["wonCorners", "totalShots", "shotsOnTarget", "foulsCommitted", "yellowCards", "redCards", "saves", "possessionPct", "offsides"]
