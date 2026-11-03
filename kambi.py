@@ -116,6 +116,25 @@ def offers(home, away, start, stats=("corners",)):
 
 
 _offer_cache = {}
+PLAYER_LABELS = re.compile(r"^(To Score|To Get a Card|To give an assist|To score or give an assist|Player's shots on target|"
+                           r"To score at least \d goals|First Goal Scorer)", re.I)
+
+
+def player_props(home, away, start):
+    """Cuotas de props de jugador de fútbol (marcar, asistir, tarjeta, tiros a puerta del jugador…) del partido ya
+    descargado por offers(): [{mercado, jugador, tipo, línea, cuota}]. Solo registro (aún no hay estadísticas por
+    jugador para liquidarlas ni medir el modelo)."""
+    e = find(home, away, start)
+    d = _offer_cache.get(("offer", e["id"])) if e else None
+    out = []
+    for b in (d or {}).get("betOffers", []):
+        lab = b["criterion"].get("englishLabel", "")
+        if not PLAYER_LABELS.match(lab): continue
+        for o in b.get("outcomes", []):
+            if o.get("status", "OPEN") != "OPEN" or not o.get("odds"): continue
+            out.append({"mercado": re.sub(r" \(Settled using Opta data\)", "", lab), "jugador": o.get("participant") or o.get("englishLabel") or o.get("label"),
+                        "tipo": o.get("type"), "linea": o.get("line", 0) / 1000 if o.get("line") else None, "cuota": o["odds"] / 1000})
+    return out
 
 
 def save_labels(path):

@@ -545,3 +545,18 @@ assert any(l.startswith("⚪ Fútbol · córners (3)") for l in _pl)  # 3 partid
 cards.clear(); _ps = {}; radar.paper_card(_ps); radar.paper_card(_ps); assert len(cards) == 1 and "BANCO DE PRUEBAS" in cards[0]
 bankroll.LOG = _lg
 print("ok banco de pruebas")
+
+# props de jugador de Unibet (kambi.player_props → data/kambi_player_props.csv), solo registro
+_fe, _oc = kambi.find, dict(kambi._offer_cache)
+kambi.find = lambda h, a, s: {"id": 99, "home": h, "away": a}
+kambi._offer_cache[("offer", 99)] = {"betOffers": [
+    {"criterion": {"englishLabel": "Player's shots on target (Settled using Opta data)"},
+     "outcomes": [{"participant": "Mbappé, Kylian", "type": "OT_OVER", "line": 1500, "odds": 2100}]},
+    {"criterion": {"englishLabel": "To Score"}, "outcomes": [{"participant": "Vinícius Júnior", "type": "OT_YES", "odds": 2600}]},
+    {"criterion": {"englishLabel": "Total Goals"}, "outcomes": [{"type": "OT_OVER", "line": 2500, "odds": 1900}]}]}
+_pp = kambi.player_props("Real Madrid", "Barcelona", None)
+assert len(_pp) == 2 and _pp[0] == {"mercado": "Player's shots on target", "jugador": "Mbappé, Kylian", "tipo": "OT_OVER", "linea": 1.5, "cuota": 2.1}
+_AN.PROPS_LOG = Path(tempfile.mkdtemp()) / "pp.csv"
+assert _AN.log_player_props("SP1", "Real Madrid", "Barcelona", "2026-11-05T20:00:00+00:00") == 2 and len(pd.read_csv(_AN.PROPS_LOG)) == 2
+kambi.find = _fe; kambi._offer_cache.clear(); kambi._offer_cache.update(_oc)
+print("ok props de jugador de Unibet")

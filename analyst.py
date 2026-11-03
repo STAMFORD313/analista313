@@ -355,6 +355,20 @@ def settle_signals(df, state, today):
             s["result"] = "nula"  # aplazado o sin resultado
 
 
+PROPS_LOG = DATA / "kambi_player_props.csv"
+
+
+def log_player_props(div, home, away, start):
+    """Guarda las cuotas de props de jugador de Unibet del partido (una vez por partido y día)."""
+    rows = kambi.player_props(home, away, start)
+    if not rows: return 0
+    new = pd.DataFrame(rows).assign(seen=pd.Timestamp.now(tz="UTC").isoformat(), start=pd.Timestamp(start).isoformat(),
+                                    div=div, home=home, away=away)
+    old = pd.read_csv(PROPS_LOG) if PROPS_LOG.exists() else new.iloc[:0]
+    pd.concat([old, new]).drop_duplicates(["start", "home", "away", "mercado", "jugador", "tipo", "linea"], keep="last").to_csv(PROPS_LOG, index=False)
+    return len(rows)
+
+
 def kambi_recheck(state, stats_df, row, k, start, today):
     """Partido ya analizado: si Unibet ya lo tiene, registra sus líneas de estadísticas y añade las señales de córners
     (una sola vez por partido: state["kambi_ok"])."""
@@ -363,6 +377,7 @@ def kambi_recheck(state, stats_df, row, k, start, today):
     if not offers: return
     state["kambi_ok"].append(k)
     football_stats.log_offers(stats_df, div, home, away, today, start, offers)
+    log_player_props(div, home, away, start)
     old = next((s for s in state["signals"] if s["key"] == k and s.get("info")), None)
     info = old["info"] if old else ["📊 <b>Córners</b> (cuota de Unibet publicada después del análisis)",
                                     *football_stats.card_lines(stats_df, div, home, away, today, {"O25": 0.5})[1:-1]]
@@ -407,7 +422,7 @@ def analyze_fixtures(df, state, today, kg):
         cands = value_bets(P, row, every=True) + ah_bets(P, row, every=True)
         offers = kambi.offers(home, away, start, ("corners", *kambi.STAT_LABELS)) if div in LEAGUES else {}
         if offers: state.setdefault("kambi_ok", []).append(k)  # ya tiene cuotas: no hace falta volver a mirar
-        try: football_stats.log_offers(stats_df, div, home, away, today, start, offers)  # todas: para medir modelo vs Unibet
+        try: football_stats.log_offers(stats_df, div, home, away, today, start, offers); log_player_props(div, home, away, start)  # todas: para medir modelo vs Unibet
         except Exception as e: print("registro Kambi", repr(e))
         sv = football_stats.value_signals(stats_df, div, home, away, today, {k: v for k, v in offers.items() if k[0] == "corners"})
         if not cands and not sv: continue
