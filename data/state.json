@@ -690,6 +690,7 @@
   "wta|2026-11-05|Anna Blinkova|Li Zongyu",
   "wta|2026-11-04|Laura Samson|Carole Monnet",
   "wta|2026-11-05|Mai Hontama|Zhibek Kulambayeva",
+  "atp|2026-11-04|Thiago Agustin Tirante|Jan-Lennard Struff",
   "cs2|132573",
   "cs2|132574",
   "cs2|132578",
@@ -964,10 +965,13 @@
   "fc|2360909",
   "fc|2360774",
   "fc|2360910",
-  "atp|2026-11-04|Thiago Agustin Tirante|Jan-Lennard Struff",
   "fc|2360142",
   "fc|2360141",
-  "fc|2360911"
+  "fc|2360911",
+  "wta|2026-11-04|Jazmin Ortenzi|Bianca Andreescu",
+  "fc|2360287",
+  "fc|2360147",
+  "fc|2360144"
  ],
  "signals": [
   {
@@ -11282,7 +11286,10 @@
    "version": "3b3284c",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "4-7",
+   "result": true,
+   "logged": true
   },
   {
    "market": "H",
@@ -11375,7 +11382,10 @@
    "version": "35cee24",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "5-3",
+   "result": false,
+   "logged": true
   },
   {
    "market": "A",
@@ -11396,7 +11406,10 @@
    "version": "35cee24",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "1-4",
+   "result": true,
+   "logged": true
   },
   {
    "market": "D",
@@ -11417,7 +11430,10 @@
    "version": "970e700",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "3-3",
+   "result": true,
+   "logged": true
   },
   {
    "market": "A",
@@ -11481,7 +11497,10 @@
    "bajas": "",
    "considered": true,
    "placed": false,
-   "anunciada": true
+   "anunciada": true,
+   "score": "1-2",
+   "result": false,
+   "logged": true
   },
   {
    "market": "D",
@@ -11503,7 +11522,10 @@
    "bajas": "",
    "considered": true,
    "placed": false,
-   "anunciada": true
+   "anunciada": true,
+   "score": "2-4",
+   "result": false,
+   "logged": true
   },
   {
    "market": "H",
@@ -11523,7 +11545,10 @@
    "captured": "2026-11-03T19:22",
    "version": "05b4399",
    "bajas": "",
-   "considered": true
+   "considered": true,
+   "score": "5-4",
+   "result": true,
+   "logged": true
   },
   {
    "market": "corners_a_u",
@@ -11802,7 +11827,10 @@
    "version": "3ffddd5",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "0-5",
+   "result": false,
+   "logged": true
   },
   {
    "market": "D",
@@ -11861,19 +11889,6 @@
    "start": "2026-11-03T20:10:00+00:00",
    "league": "🎮⚽ FC 27 · Premier League",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 54.974 partidos)",
-    "Goles esperados: Animal 3.39 · llulle 2.77",
-    "Ganador: Animal 52% · empate 18% · llulle 30%",
-    "Total: más de 6.5 goles 42% · menos 58%",
-    "Hándicap Animal: −1.5 36% · −2.5 22%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Animal ✅✅❌✅✅ | llulle ❌❌❌✅✅",
-    "• Partidos: Animal 760 | llulle 809",
-    "• Liga: Premier League",
-    "• Unibet: 1 2.08 · X 3.75 · 2 2.48 (sin margen 42%/23%/35%) · ventaja +8%. Sin stake hasta demostrar ROI con estas cuotas."
-   ],
    "context": "EA FC Esoccer Battle Animal vs llulle (Premier League): goles esperados 3.39-2.77, 1X2 52%/18%/30%. Sin cuotas de casa.",
    "captured": "2026-11-03T19:43",
    "version": "7d8fd15",
@@ -11929,19 +11944,6 @@
    "start": "2026-11-03T20:10:00+00:00",
    "league": "🎮⚽ FC 27 · Premier League",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 54.974 partidos)",
-    "Goles esperados: lzrn 2.84 · chevare 3.61",
-    "Ganador: lzrn 28% · empate 17% · chevare 54%",
-    "Total: más de 6.5 goles 47% · menos 53%",
-    "Hándicap chevare: −1.5 38% · −2.5 24%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: lzrn ❌❌✅✅❌ | chevare ❌✅❌❌❌",
-    "• Partidos: lzrn 735 | chevare 520",
-    "• Liga: Premier League",
-    "• Unibet: 1 2.45 · X 4.50 · 2 1.94 (sin margen 36%/19%/45%) · ventaja +6%. Sin stake hasta demostrar ROI con estas cuotas."
-   ],
    "context": "EA FC Esoccer Battle lzrn vs chevare (Premier League): goles esperados 2.84-3.61, 1X2 28%/17%/54%. Sin cuotas de casa.",
    "captured": "2026-11-03T19:43",
    "version": "7d8fd15",
@@ -12803,6 +12805,94 @@
    "context": "EA FC Esoccer Battle llulle vs lzrn (Premier League): goles esperados 2.66-2.60, 1X2 41%/21%/38%. Sin cuotas de casa.",
    "captured": "2026-11-03T20:05",
    "version": "c0fb9e1",
+   "bajas": "",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "H",
+   "pick": "Gaga",
+   "odds": 6.4,
+   "book": "Unibet",
+   "implied": 0.14,
+   "edge": 1.71,
+   "sin_stake": true,
+   "p": 0.423,
+   "key": "fc|2360287",
+   "match": "Gaga vs Maslja",
+   "start": "2026-11-03T20:16:00+00:00",
+   "league": "🎮⚽ FC 27 · Europa League",
+   "sport": "🎮⚽",
+   "context": "EA FC Esoccer Battle Gaga vs Maslja (Europa League): goles esperados 2.62-2.47, 1X2 42%/21%/37%. Sin cuotas de casa.",
+   "captured": "2026-11-03T20:17",
+   "version": "a31452a",
+   "bajas": "",
+   "considered": true
+  },
+  {
+   "market": "A",
+   "pick": "mPm",
+   "odds": 1.98,
+   "book": "Unibet",
+   "implied": 0.441,
+   "edge": 0.202,
+   "sin_stake": true,
+   "p": 0.607,
+   "key": "fc|2360147",
+   "match": "Gazi vs mPm",
+   "start": "2026-11-03T20:56:00+00:00",
+   "league": "🎮⚽ FC 27 · Copa America",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 55.014 partidos)",
+    "Goles esperados: Gazi 2.36 · mPm 3.47",
+    "Ganador: Gazi 22% · empate 17% · mPm 61%",
+    "Total: más de 5.5 goles 53% · menos 47%",
+    "Hándicap mPm: −1.5 43% · −2.5 27%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Gazi ✅➖❌✅❌ | mPm ✅✅✅❌✅",
+    "• Partidos: Gazi 332 | mPm 647",
+    "• Liga: Copa America",
+    "• Unibet: 1 2.32 · X 4.80 · 2 1.98 (sin margen 38%/18%/44%) · ventaja +20%. Sin stake hasta demostrar ROI con estas cuotas."
+   ],
+   "context": "EA FC Esoccer Battle Gazi vs mPm (Copa America): goles esperados 2.36-3.47, 1X2 22%/17%/61%. Sin cuotas de casa.",
+   "captured": "2026-11-03T20:17",
+   "version": "a31452a",
+   "bajas": "",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "A",
+   "pick": "mPm",
+   "odds": 1.92,
+   "book": "Unibet",
+   "implied": 0.459,
+   "edge": 0.189,
+   "sin_stake": true,
+   "p": 0.619,
+   "key": "fc|2360144",
+   "match": "ramzes vs mPm",
+   "start": "2026-11-03T20:32:00+00:00",
+   "league": "🎮⚽ FC 27 · Copa America",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 55.014 partidos)",
+    "Goles esperados: ramzes 3.21 · mPm 4.47",
+    "Ganador: ramzes 23% · empate 15% · mPm 62%",
+    "Total: más de 7.5 goles 50% · menos 50%",
+    "Hándicap mPm: −1.5 46% · −2.5 32%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: ramzes ❌✅❌✅✅ | mPm ✅✅✅❌✅",
+    "• Partidos: ramzes 996 | mPm 647",
+    "• Liga: Copa America",
+    "• Unibet: 1 2.17 · X 6.50 · 2 1.92 (sin margen 41%/14%/46%) · ventaja +19%. Sin stake hasta demostrar ROI con estas cuotas."
+   ],
+   "context": "EA FC Esoccer Battle ramzes vs mPm (Copa America): goles esperados 3.21-4.47, 1X2 23%/15%/62%. Sin cuotas de casa.",
+   "captured": "2026-11-03T20:17",
+   "version": "a31452a",
    "bajas": "",
    "considered": true,
    "placed": false

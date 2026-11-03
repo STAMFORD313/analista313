@@ -1,42 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 03/11/2026 21:05 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Animal vs llulle — 03/11 · 21:10
-
-👀 candidata · 🎮⚽ FC 27 · Premier League · **Gana Animal** @ **2.08** (Unibet) · prob 52% vs casas 42% · ventaja +8%
-
-- ❌ Valor: ventaja +8% (mín. 10% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 54.974 partidos)  
-Goles esperados: Animal 3.39 · llulle 2.77  
-Ganador: Animal 52% · empate 18% · llulle 30%  
-Total: más de 6.5 goles 42% · menos 58%  
-Hándicap Animal: −1.5 36% · −2.5 22%  
-🔎 **Claves**  
-• Forma: Animal ✅✅❌✅✅ | llulle ❌❌❌✅✅  
-• Partidos: Animal 760 | llulle 809  
-• Liga: Premier League  
-• Unibet: 1 2.08 · X 3.75 · 2 2.48 (sin margen 42%/23%/35%) · ventaja +8%. Sin stake hasta demostrar ROI con estas cuotas.  
-
-## lzrn vs chevare — 03/11 · 21:10
-
-👀 candidata · 🎮⚽ FC 27 · Premier League · **Gana chevare** @ **1.94** (Unibet) · prob 54% vs casas 45% · ventaja +6%
-
-- ❌ Valor: ventaja +6% (mín. 10% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 54.974 partidos)  
-Goles esperados: lzrn 2.84 · chevare 3.61  
-Ganador: lzrn 28% · empate 17% · chevare 54%  
-Total: más de 6.5 goles 47% · menos 53%  
-Hándicap chevare: −1.5 38% · −2.5 24%  
-🔎 **Claves**  
-• Forma: lzrn ❌❌✅✅❌ | chevare ❌✅❌❌❌  
-• Partidos: lzrn 735 | chevare 520  
-• Liga: Premier League  
-• Unibet: 1 2.45 · X 4.50 · 2 1.94 (sin margen 36%/19%/45%) · ventaja +6%. Sin stake hasta demostrar ROI con estas cuotas.  
+Actualizado 03/11/2026 21:17 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## DEKSON vs Mani — 03/11 · 21:19
 
@@ -109,4 +73,40 @@ Hándicap llulle: −1.5 26% · −2.5 14%
 • Partidos: llulle 809 | lzrn 735  
 • Liga: Premier League  
 • Unibet: 1 2.55 · X 4.00 · 2 1.98 (sin margen 34%/22%/44%) · ventaja +4%. Sin stake hasta demostrar ROI con estas cuotas.  
+
+## ramzes vs mPm — 03/11 · 21:32
+
+👀 candidata · 🎮⚽ FC 27 · Copa America · **Gana mPm** @ **1.92** (Unibet) · prob 62% vs casas 46% · ventaja +19%
+
+- ✅ Valor: ventaja +19% (mín. 13% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 55.014 partidos)  
+Goles esperados: ramzes 3.21 · mPm 4.47  
+Ganador: ramzes 23% · empate 15% · mPm 62%  
+Total: más de 7.5 goles 50% · menos 50%  
+Hándicap mPm: −1.5 46% · −2.5 32%  
+🔎 **Claves**  
+• Forma: ramzes ❌✅❌✅✅ | mPm ✅✅✅❌✅  
+• Partidos: ramzes 996 | mPm 647  
+• Liga: Copa America  
+• Unibet: 1 2.17 · X 6.50 · 2 1.92 (sin margen 41%/14%/46%) · ventaja +19%. Sin stake hasta demostrar ROI con estas cuotas.  
+
+## Gazi vs mPm — 03/11 · 21:56
+
+👀 candidata · 🎮⚽ FC 27 · Copa America · **Gana mPm** @ **1.98** (Unibet) · prob 61% vs casas 44% · ventaja +20%
+
+- ✅ Valor: ventaja +20% (mín. 13% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 55.014 partidos)  
+Goles esperados: Gazi 2.36 · mPm 3.47  
+Ganador: Gazi 22% · empate 17% · mPm 61%  
+Total: más de 5.5 goles 53% · menos 47%  
+Hándicap mPm: −1.5 43% · −2.5 27%  
+🔎 **Claves**  
+• Forma: Gazi ✅➖❌✅❌ | mPm ✅✅✅❌✅  
+• Partidos: Gazi 332 | mPm 647  
+• Liga: Copa America  
+• Unibet: 1 2.32 · X 4.80 · 2 1.98 (sin margen 38%/18%/44%) · ventaja +20%. Sin stake hasta demostrar ROI con estas cuotas.  
 
