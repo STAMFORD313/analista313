@@ -200,7 +200,7 @@ def place(bank, signals, today, kg):
     approved = []
     for s in sorted(new, key=lambda s: s["edge"] - margin(s), reverse=True):
         if len(approved) >= MAX_SINGLES: break
-        if not value_ok(s) or segment(s) in bad: continue
+        if not value_ok(s) or segment(s) in bad or s.get("sin_stake"): continue  # sin_stake: cuota real aún sin ROI demostrado (FC 27)
         ok, reason, conf, model = ai_review(s)  # solo consultiva: se registra en senales.csv para medir si aporta
         s["ai"] = {"apostar": ok, "motivo": reason, "confianza": conf, "modelo": model}
         stake = bet([s], bank["balance"] * min(KELLY * kelly_frac(s), MAX_STAKE), s["odds"], f"{s['match']} → {pick_text(s)}")

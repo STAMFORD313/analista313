@@ -84,10 +84,17 @@ def fc_card(state):
     if state.get("fc_sent") and now - pd.Timestamp(state["fc_sent"]) < FC_EVERY: return
     new = sorted((s for s in upcoming(state) if s.get("sport") == FC_ICON and not s.get("anunciada")), key=lambda s: -s["p"])[:5]
     if not new: return
-    lines = [f"{FC_ICON} <b>FC 27 · PRONÓSTICOS</b>", "Sin cuotas de casa: solo pronóstico, el bot no apuesta.", B.LINE]
+    lines = [f"{FC_ICON} <b>FC 27 · PRONÓSTICOS</b>", "Con cuota de Unibet cuando la hay; el bot aún no apuesta (sin ROI demostrado)."]
+    try:
+        import esoccer
+        if (m := esoccer.market_report()):
+            lines.append(f"📈 Frente a Unibet: {m['partidos']} partidos · log-loss modelo {m['ll_modelo']} vs casa {m['ll_mercado']}"
+                         + (f" · {m['apuestas']} con ventaja ≥5 %: ROI {m['roi']:+.0%} ± {m['roi_se'] or 0:.0%}" if m["apuestas"] else ""))
+    except Exception as e: print("informe FC", repr(e))
+    lines.append(B.LINE)
     for s in new:
         lines += [f"<b>{A.esc(s['match']).replace(' vs ', ' 🆚 ')}</b> · 🕒 {B.when(s)}", f"→ <b>{A.esc(B.pick_text(s))}</b> ({s['p']:.0%})",
-                  *[f"   {l}" for l in s["info"][1:5]], ""]
+                  *[f"   {l}" for l in s["info"][1:5]], *[f"   {l}" for l in s["info"] if l.startswith("• Unibet")], ""]
         s["anunciada"] = True
     A.send_card("\n".join(lines))
     state["fc_sent"] = now.isoformat()

@@ -394,3 +394,31 @@ _wf = (Path(__file__).parent / ".github/workflows/reloj.yml").read_text()
 assert "gh workflow run analista.yml" in _wf and "gh workflow run reloj.yml" in _wf and "cancel-in-progress: true" in _wf
 assert "actions: write" in _wf and "workflow_dispatch" in (Path(__file__).parent / ".github/workflows/analista.yml").read_text()
 print("ok reloj")
+
+# FC 27 con cuotas reales de Unibet (kambi.esoccer_events / esoccer.market_report); sin stake hasta demostrar ROI
+import esoccer
+_ev = lambda i, h, a, path: {"event": {"id": i, "homeName": h, "awayName": a, "start": "2026-11-03T12:00:00Z",
+                                        "path": [{"englishName": x} for x in path]},
+                              "betOffers": [{"outcomes": [{"type": "OT_ONE", "odds": 2100}, {"type": "OT_CROSS", "odds": 4000},
+                                                          {"type": "OT_TWO", "odds": 2900}]}]}
+_kg, _kr = kambi.get, kambi._raw
+kambi._raw = [_ev(1, "Arsenal (Kray) Esports", "Chelsea (Boulevard) Esports", ["Football", "Esports Battle"]),
+              _ev(2, "Arsenal", "Chelsea", ["Football", "England", "Premier League"])]
+kambi.get = lambda path: {"events": []}
+_es = kambi.esoccer_events()
+assert len(_es) == 1 and (_es[0]["p1"], _es[0]["p2"]) == ("kray", "boulevard") and _es[0]["odds"] == {"1": 2.1, "X": 4.0, "2": 2.9}
+assert [e["home"] for e in kambi.events()] == ["Arsenal"] or kambi._events is not None  # el fútbol normal sigue sin esports
+_f = kambi.find_esoccer("Boulevard", "Kray", pd.Timestamp("2026-11-03T12:10:00Z"), _es)
+assert _f["odds"]["1"] == 2.9 and _f["odds"]["2"] == 2.1  # orden de Esoccer Battle
+assert kambi.find_esoccer("Kray", "Boulevard", pd.Timestamp("2026-11-03T13:00:00Z"), _es) is None  # otra hora
+kambi.get, kambi._raw = _kg, _kr
+_tmp = Path(tempfile.mkdtemp())
+esoccer.ODDS, _eh = _tmp / "odds.csv", esoccer.HIST
+esoccer.HIST = _tmp / "matches.csv"
+pd.DataFrame({"id": [1, 2, 3], "s1": [3, 1, 0], "s2": [1, 1, 2]}).to_csv(esoccer.HIST, index=False)
+esoccer.save_odds([{"id": i, "o1": 2.0, "oX": 4.0, "o2": 3.0, "m1": m1, "mX": 0.2, "m2": 0.8 - m1} for i, m1 in ((1, 0.6), (2, 0.6), (3, 0.3))])
+_mr = esoccer.market_report()
+assert _mr["partidos"] == 3 and _mr["apuestas"] == 3 and abs(_mr["roi"] - (1 - 1 + 2) / 3) < 1e-3  # gana 1 (+1), empate en 2 (−1), gana 3 a 3.0 (+2)
+esoccer.HIST = _eh
+assert "s.get(\"sin_stake\")" in Path(bankroll.__file__).read_text()  # la banca no apuesta las señales sin_stake
+print("ok FC 27 con cuotas de Unibet")

@@ -4,10 +4,12 @@ por liga (Volta, 2x4, 2x6...) → 1X2, total de goles y hándicap. No hay cuotas
 salen como candidatas a cuota justa (ventaja 0, el bot no las apuesta) para medir calibración hasta tener cuotas."""
 import json, math, time
 
+import numpy as np
 import pandas as pd
 import requests
 
 import analyst as A
+import kambi
 
 API = "https://football.esportsbattle.com/api"
 DIR = A.DATA / "fc"
@@ -122,6 +124,33 @@ def settle(df, state):
             s["result"] = {"H": s1 > s2, "D": s1 == s2, "A": s2 > s1}[s["market"]]
 
 
+ODDS = A.DATA / "fc" / "odds.csv"  # última cuota 1X2 de Unibet vista ANTES de cada partido, con la prob. del modelo
+
+
+def save_odds(rows):
+    if not rows: return
+    new = pd.DataFrame(rows)
+    old = pd.read_csv(ODDS) if ODDS.exists() else new.iloc[:0]
+    pd.concat([old, new]).drop_duplicates("id", keep="last").to_csv(ODDS, index=False)
+
+
+def market_report(edge=0.05):
+    """Modelo frente a Unibet con los partidos ya jugados: log-loss modelo / mercado sin margen y ROI de apostar el
+    resultado de más ventaja si es >= edge (a la cuota guardada antes del partido). {} sin datos."""
+    if not ODDS.exists() or not HIST.exists(): return {}
+    o = pd.read_csv(ODDS).merge(pd.read_csv(HIST)[["id", "s1", "s2"]], on="id").dropna(subset=["s1", "s2"])
+    if o.empty: return {}
+    y = np.select([o.s1 > o.s2, o.s1 == o.s2], [0, 1], 2)
+    M = o[["m1", "mX", "m2"]].to_numpy(float); O = o[["o1", "oX", "o2"]].to_numpy(float)
+    K = 1 / O; K /= K.sum(1, keepdims=True)
+    ll = lambda P: float(-np.log(np.clip(P[np.arange(len(y)), y], 1e-9, 1)).mean())
+    ev = M * O - 1; j = ev.argmax(1); bet = ev[np.arange(len(y)), j] >= edge
+    gain = np.where(j == y, O[np.arange(len(y)), j] - 1, -1.0)[bet]
+    return {"partidos": len(o), "ll_modelo": round(ll(M), 4), "ll_mercado": round(ll(K), 4), "apuestas": int(bet.sum()),
+            "roi": round(float(gain.mean()), 4) if bet.any() else None,
+            "roi_se": round(float(gain.std() / np.sqrt(bet.sum())), 4) if bet.sum() > 1 else None}
+
+
 def run(state, today, kg):
     df = update_history()
     print(f"{SLUG}: {len(df)} partidos de historial")
@@ -143,7 +172,21 @@ def run(state, today, kg):
             time.sleep(0.3)
     except (requests.RequestException, ValueError) as e:
         print("esportsbattle", e); return
-    for _, g, start, key, l1, l2, p, tot, diff in sorted(cands, key=lambda c: -c[0])[:PER_RUN]:
+    try: evs = kambi.esoccer_events()
+    except Exception as e: print("Kambi esoccer", repr(e)); evs = []
+    book, rows = {}, []
+    for c in cands:  # cuotas reales de Unibet: se guardan todas (para medir el modelo), aunque no salgan como señal
+        g, start, p = c[1], c[2], c[6]
+        if (e := kambi.find_esoccer(g["p1"], g["p2"], start, evs)):
+            book[c[3]] = e["odds"]
+            rows.append({"id": g["id"], "seen": now.isoformat(), "start": start.isoformat(), "p1": g["p1"], "p2": g["p2"],
+                         "o1": e["odds"]["1"], "oX": e["odds"]["X"], "o2": e["odds"]["2"],
+                         "m1": round(p["1"], 4), "mX": round(p["X"], 4), "m2": round(p["2"], 4)})
+    save_odds(rows)
+    print(f"{SLUG}: {len(evs)} partidos de esoccer en Unibet, {len(rows)} emparejados con Esoccer Battle")
+    # primero los que tienen cuota de Unibet (por ventaja), luego el resto (por seguridad del pick)
+    edge_of = lambda c: max(c[6][k] * book[c[3]][k] - 1 for k in "1X2") if c[3] in book else -9
+    for _, g, start, key, l1, l2, p, tot, diff in sorted(cands, key=lambda c: (c[3] in book, edge_of(c), c[0]), reverse=True)[:PER_RUN]:
         state["analyzed"].append(key)
         kg.match(TITLE, g["p1"], g["p2"], start, p, ([], []), "")
         mk = max(p, key=p.get)
@@ -160,10 +203,16 @@ def run(state, today, kg):
                 f"• Forma: {A.esc(g['p1'])} {form(df, g['p1'])} | {A.esc(g['p2'])} {form(df, g['p2'])}",
                 f"• Partidos: {A.esc(g['p1'])} {m.n.get(g['p1'], 0)} | {A.esc(g['p2'])} {m.n.get(g['p2'], 0)}",
                 f"• Liga: {A.esc(g['league'])}",
-                "• Sin cuotas gratuitas de esoccer: cuota justa del modelo, solo candidata (no se apuesta)."]
+                "• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta)."]
+        sig = {"odds": round(1 / p[mk], 2), "book": "cuota justa (sin casa)", "implied": round(p[mk], 3), "edge": 0.0}
+        if (o := book.get(key)):  # cuota real: el resultado de más ventaja; sin stake hasta que market_report demuestre ROI
+            mk = max("1X2", key=lambda k: p[k] * o[k] - 1)
+            inv = sum(1 / v for v in o.values())
+            sig = {"odds": o[mk], "book": "Unibet", "implied": round(1 / o[mk] / inv, 3), "edge": round(p[mk] * o[mk] - 1, 3), "sin_stake": True}
+            info[-1] = (f"• Unibet: 1 {o['1']:.2f} · X {o['X']:.2f} · 2 {o['2']:.2f} (sin margen {1 / o['1'] / inv:.0%}/"
+                        f"{1 / o['X'] / inv:.0%}/{1 / o['2'] / inv:.0%}) · ventaja {sig['edge']:+.0%}. Sin stake hasta demostrar ROI con estas cuotas.")
         state["signals"].append({"market": {"1": "H", "X": "D", "2": "A"}[mk], "pick": {"1": g["p1"], "X": "Empate", "2": g["p2"]}[mk],
-                                 "odds": round(1 / p[mk], 2), "book": "cuota justa (sin casa)", "p": round(p[mk], 3),
-                                 "implied": round(p[mk], 3), "edge": 0.0, "key": key, "match": f"{g['p1']} vs {g['p2']}",
+                                 **sig, "p": round(p[mk], 3), "key": key, "match": f"{g['p1']} vs {g['p2']}",
                                  "start": start.isoformat(), "league": f"{TITLE} · {g['league']}", "sport": ICON, "info": info,
                                  "context": f"EA FC Esoccer Battle {g['p1']} vs {g['p2']} ({g['league']}): goles esperados {l1:.2f}-{l2:.2f}, "
                                             f"1X2 {p['1']:.0%}/{p['X']:.0%}/{p['2']:.0%}. Sin cuotas de casa."})
