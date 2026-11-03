@@ -2,7 +2,7 @@
 (la mejor entre casas en fútbol; DraftKings en NBA/NFL/NHL/MLB/UFC). Antes de cada apuesta la IA revisa
 todos los datos y puede vetarla. Simples con 1/10 de Kelly + una combinada por ejecución.
 Cada apuesta y cada resultado se envía como una tarjeta de Telegram."""
-import json, math, os
+import json, math, os, re
 
 import pandas as pd
 
@@ -11,8 +11,11 @@ import analyst as A
 START = 100.0
 KELLY, MAX_STAKE, MAX_EXPOSURE = 0.10, 0.05, 0.30  # 1/10 Kelly (backtest: ver MEJORAS.md), máx. 5 % por apuesta y 30 % en juego
 MAX_SINGLES, COMBO_LEGS, COMBO_MIN_P, COMBO_STAKE = 8, 3, 0.55, 0.02
-SURE_P, SURE_CONF = 0.55, 4  # solo apuesta (y manda) lo que de verdad cree que gana: prob >= 55 % y la IA con confianza >= 4/5
-SEG_MIN, SEG_ROI = 15, -0.10  # autoajuste: deja de apostar en segmentos con >= 15 apuestas y ROI < -10 %
+# decisión por valor: EV = p·cuota − 1 >= EDGE + Z_UNC·|p − p_mercado|·cuota (margen que crece con el desacuerdo con el mercado,
+# la mayor fuente de error del modelo); sin filtro de prob. >= 55 % (backtest en MEJORAS.md: no aportaba). La IA solo opina.
+Z_UNC = 0.25
+SEG_MIN, SEG_Z = 50, 1.645  # autoajuste: fuera un segmento solo con >= 50 apuestas y el IC 90 % del ROI entero por debajo de 0
+MAX_EVENT = 0.05  # exposición correlacionada: máx. 5 % de la banca en un mismo partido (todos sus mercados)
 VOID_DAYS = 14  # apuesta sin resultado 14 días después del inicio → nula (devuelve el stake)
 REPO = os.getenv("GITHUB_REPOSITORY", "STAMFORD313/analista313")
 STATS_MD = A.DATA.parent / "ESTADISTICAS.md"
@@ -55,9 +58,33 @@ def seg_stats(bank, signals):
     by, out = {(s["key"], s["market"]): s for s in signals}, {}
     for b in bank["bets"]:
         if b["status"] == "abierta" or len(b["legs"]) != 1: continue
-        o = out.setdefault(segment(by[tuple(b["legs"][0])]), {"n": 0, "won": 0, "profit": 0.0, "staked": 0.0})
+        o = out.setdefault(segment(by[tuple(b["legs"][0])]), {"n": 0, "won": 0, "profit": 0.0, "staked": 0.0, "r": 0.0, "r2": 0.0})
+        r = b["return"] / b["stake"] - 1  # resultado por unidad apostada
         o["n"] += 1; o["won"] += b["status"] == "ganada"; o["profit"] += b["return"] - b["stake"]; o["staked"] += b["stake"]
+        o["r"] += r; o["r2"] += r * r
     return out
+
+
+def bad_segments(segs):
+    """Segmentos con pérdida demostrada: >= SEG_MIN apuestas y límite superior del IC 90 % del ROI por unidad < 0."""
+    def upper(v):
+        m = v["r"] / v["n"]
+        return m + SEG_Z * math.sqrt(max(v["r2"] / v["n"] - m * m, 0) / v["n"])
+    return {k for k, v in segs.items() if v["n"] >= SEG_MIN and upper(v) < 0}
+
+
+def margin(s):
+    """Ventaja mínima exigida a la señal: EDGE + Z_UNC·|p − p_mercado|·cuota."""
+    return A.EDGE + Z_UNC * abs(s["p"] - s.get("implied", 1 / s["odds"])) * s["odds"]
+
+
+def value_ok(s): return margin(s) <= s["edge"] <= A.MAX_EDGE
+
+
+def kelly_frac(s):
+    """Kelly con la prob. encogida hacia el mercado según la incertidumbre (el mismo Z_UNC del margen)."""
+    p = s["p"] - Z_UNC * abs(s["p"] - s.get("implied", 1 / s["odds"]))
+    return max(0.0, (p * s["odds"] - 1) / (s["odds"] - 1))
 
 
 def spread_result(market, line, hs, as_):
@@ -124,16 +151,6 @@ def result_card(b, legs, bank):
                       f"💵 Apostado {b['stake']:.2f} $ → cobrado {b['return']:.2f} $", bank_line(bank)])
 
 
-def autopsy(b, legs):
-    """La IA explica por qué falló la apuesta; queda en el grafo y en ESTADISTICAS.md para mejorar."""
-    detail = "\n".join(f"- {x.get('context', x['match'])} Apuesta: {pick_text(x)} @ {x['odds']}, prob {x['p']:.0%}. "
-                       f"Resultado final {x.get('score', '?')} ({'acertada' if x.get('result') is True else 'fallada'})." for x in legs)
-    r = A.ai_json(f"""Eres un analista profesional revisando una apuesta perdida para mejorar el modelo.
-{detail}
-Explica en 1-2 frases en español la causa más probable del fallo (varianza normal, bajas mal valoradas, forma, cuota sin valor real...)
-y si el modelo debe corregir algo. Responde SOLO con JSON: {{"causa": "...", "corregir": "..."}}""")
-    return r or {"causa": "sin análisis (IA no disponible)", "corregir": ""}
-
 
 def settle(bank, signals, kg):
     now = pd.Timestamp.now(tz="UTC")
@@ -150,7 +167,6 @@ def settle(bank, signals, kg):
         ret = 0.0 if 0.0 in f else round(b["stake"] * math.prod(f), 2)
         b["status"], b["return"] = ("ganada" if ret > b["stake"] else "perdida" if ret < b["stake"] else "nula"), ret
         bank["balance"] = round(bank["balance"] + b["return"], 2)
-        if b["status"] == "perdida": b["autopsia"] = autopsy(b, legs)
         kg.result(b)
         A.send_card(result_card(b, legs, bank))
 
@@ -167,6 +183,9 @@ def place(bank, signals, today, kg):
     def bet(legs, stake, odds, desc):
         nonlocal open_stake
         room = max(0.0, MAX_EXPOSURE * (bank["balance"] + open_stake) - open_stake)
+        if len(legs) == 1:  # mismo partido: todos sus mercados comparten el tope MAX_EVENT
+            same = sum(b["stake"] for b in bank["bets"] if b["status"] == "abierta" and any(l[0] == legs[0]["key"] for l in b["legs"]))
+            room = min(room, MAX_EVENT * (bank["balance"] + open_stake) - same)
         stake = round(min(stake, room, bank["balance"]), 2)
         if stake < 1: return None
         bank["balance"] = round(bank["balance"] - stake, 2); open_stake += stake
@@ -175,17 +194,14 @@ def place(bank, signals, today, kg):
         bank["bets"].append(b); kg.bet(b, signals)
         return stake
 
-    segs = seg_stats(bank, signals)
-    bad = {k for k, v in segs.items() if v["n"] >= SEG_MIN and v["profit"] / v["staked"] < SEG_ROI}
+    bad = bad_segments(seg_stats(bank, signals))
     approved = []
-    for s in sorted(new, key=lambda s: s["p"] * (1 + s["edge"]), reverse=True):
+    for s in sorted(new, key=lambda s: s["edge"] - margin(s), reverse=True):
         if len(approved) >= MAX_SINGLES: break
-        if s["p"] < SURE_P or not A.EDGE <= s["edge"] <= A.MAX_EDGE or segment(s) in bad: continue
-        ok, reason, conf, model = ai_review(s)
+        if not value_ok(s) or segment(s) in bad: continue
+        ok, reason, conf, model = ai_review(s)  # solo consultiva: se registra en senales.csv para medir si aporta
         s["ai"] = {"apostar": ok, "motivo": reason, "confianza": conf, "modelo": model}
-        if not ok or (str(conf).isdigit() and int(conf) < SURE_CONF): continue
-        kelly = (s["p"] * s["odds"] - 1) / (s["odds"] - 1)
-        stake = bet([s], bank["balance"] * min(KELLY * kelly, MAX_STAKE), s["odds"], f"{s['match']} → {pick_text(s)}")
+        stake = bet([s], bank["balance"] * min(KELLY * kelly_frac(s), MAX_STAKE), s["odds"], f"{s['match']} → {pick_text(s)}")
         if stake:
             approved.append(s); s["placed"] = True
             A.send_card(single_card(s, stake, bank, reason, conf))
@@ -194,7 +210,7 @@ def place(bank, signals, today, kg):
     for s in sorted(approved, key=lambda s: s["p"], reverse=True):
         if s["p"] >= COMBO_MIN_P and s["key"] not in seen and len(legs) < COMBO_LEGS:
             legs.append(s); seen.add(s["key"])
-    if len(legs) >= 2:
+    if len(legs) >= 2 and not any(len(b["legs"]) > 1 and b["date"] == f"{today:%Y-%m-%d}" for b in bank["bets"]):  # 1 combinada al día
         odds = math.prod(s["odds"] for s in legs)
         stake = bet(legs, bank["balance"] * COMBO_STAKE, odds, "Combinada: " + " + ".join(pick_text(s) for s in legs))
         if stake: A.send_card(combo_card(legs, stake, odds, bank))
@@ -206,7 +222,8 @@ def log_signals(state):
     rows = [{"fecha": str(s.get("start", ""))[:10], "deporte": s.get("sport") or ("⚽" if s["key"].split("|")[0] in A.ALL_LEAGUES else s["key"].split("|")[0]), "mercado": s["market"], "p": s["p"],
              "implied": s.get("implied", round(1 / s["odds"], 3)), "odds": s["odds"], "edge": s["edge"],
              "gano": int(s["result"] is True), "retorno": s.get("factor", s["odds"] if s["result"] is True else 0.0),
-             "clv": s.get("clv"), "casa": s.get("book", ""), "apostada": int((s["key"], s["market"]) in used),
+             "clv": s.get("clv", round(s["odds"] * s["close_p"] - 1, 3) if s.get("close_p") else None),
+             "capturada": s.get("captured", ""), "version": s.get("version", ""), "bajas": s.get("bajas", ""), "casa": s.get("book", ""), "apostada": int((s["key"], s["market"]) in used),
              # IA: modelo que respondió, "sin IA" si se le preguntó y falló, vacío si no llegó a revisarse
              "ia": (s["ai"].get("modelo") or "sin IA") if s.get("ai") else "", "ia_apostar": (s.get("ai") or {}).get("apostar", "")}
             for s in state["signals"] if s.get("result") in (True, False) and not s.get("logged")]
@@ -231,6 +248,12 @@ def calibration_md(path=None):
     for name, g in [*((f"{t.left:.0%}-{min(t.right, 1):.0%}", g) for t, g in d.groupby("tramo", observed=True)), ("Total", d)]:
         out.append(f"| {name} | {len(g)} | {g.p.mean():.0%} | {g.gano.mean():.0%} | {((g.p - g.gano) ** 2).mean():.3f} | "
                    f"{((g.implied - g.gano) ** 2).mean():.3f} | {100 * (g.retorno.mean() - 1):+.1f} % |")
+    d["tipo"] = d.mercado.map(lambda m: "goles/totales" if m in ("O25", "U25", "over", "under") else
+                              "hándicap" if m in ("AHH", "AHA", "sph", "spa") else "ganador")
+    out += ["", "### Por deporte y mercado (cada modelo se evalúa por separado)", "",
+            "| Deporte | Mercado | Señales | Prob. media | Acierto | Brier bot | Brier casas | ROI a 1 u. |", "|---|---|---|---|---|---|---|---|"]
+    out += [f"| {sp} | {t} | {len(g)} | {g.p.mean():.0%} | {g.gano.mean():.0%} | {((g.p - g.gano) ** 2).mean():.3f} | "
+            f"{((g.implied - g.gano) ** 2).mean():.3f} | {100 * (g.retorno.mean() - 1):+.1f} % |" for (sp, t), g in d.groupby(["deporte", "tipo"])]
     c = d[d.apostada.eq(1) & d.clv.notna()]
     if len(c):
         out += ["", "**CLV de lo apostado** (cuota cogida vs cierre; positivo = se gana al mercado): " +
@@ -245,8 +268,18 @@ def sanity(signals):
         if s.get("result") == "nula" and not s.get("score") and s.get("start") and pd.Timestamp(s["start"]) > cut: s["result"] = None
 
 
+def freeze(signals):
+    """Congela cada pronóstico al verlo por primera vez (antes del partido): hora, versión del modelo y bajas conocidas."""
+    now, ver = pd.Timestamp.now(tz="UTC").isoformat()[:16], os.getenv("GITHUB_SHA", "local")[:7]
+    for s in signals:
+        if "captured" not in s:
+            s["captured"], s["version"] = now, ver
+            s["bajas"] = next((re.sub("<[^>]+>", "", l)[9:] for l in s.get("info", []) if l.startswith("• Bajas")), "")
+
+
 def run(state, today, kg):
     bank = state.setdefault("bank", {"balance": START, "bets": []})
+    freeze(state["signals"])
     sanity(state["signals"])
     settle(bank, state["signals"], kg)
     log_signals(state)
@@ -289,10 +322,10 @@ def scoreboard(state):
     md += [f"| {k} | {v['n']} | {v['won']} | {100 * v['won'] / v['n']:.0f} % | {v['profit']:+.2f} $ | {100 * v['profit'] / v['staked']:+.1f} % |"
            for k, v in sorted(seg.items())]
     md += ["", *calibration_md(), "## Historial (lo más reciente primero)", "",
-           "| Fecha | Apuesta | Cuota | Stake | Resultado | Por qué falló |", "|---|---|---|---|---|---|"]
+           "| Fecha | Apuesta | Cuota | Stake | Resultado |", "|---|---|---|---|---|"]
     md += [f"| {b['date']} | {b['desc']} | {b['odds']} | {b['stake']} $ | "
            f"{ {'ganada': '🟩', 'perdida': '🟥', 'nula': '⬜'}.get(b['status'], '⏳')} "
-           f"{(b.get('return', 0) - b['stake']) if b['status'] != 'abierta' else 0:+.2f} $ | {(b.get('autopsia') or {}).get('causa', '')} |"
+           f"{(b.get('return', 0) - b['stake']) if b['status'] != 'abierta' else 0:+.2f} $ |"
            for b in reversed(bank["bets"])]
     STATS_MD.write_text("\n".join(md) + "\n", encoding="utf-8")
     return text

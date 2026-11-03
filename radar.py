@@ -15,15 +15,9 @@ RADAR_HOUR, RADAR_TOP = 10, 5  # a partir de las 10:00 (España), una vez al dí
 
 def checklist(s, bad=frozenset()):
     """[(ok, texto)] con cada condición que debe cumplir una apuesta para que el bot la coja."""
-    ai = s.get("ai") or {}
-    conf = ai.get("confianza")
     return [
-        (s["p"] >= B.SURE_P, f"Probabilidad {s['p']:.0%} (mín. {B.SURE_P:.0%})"),
-        (A.EDGE <= s["edge"] <= A.MAX_EDGE, f"Ventaja {s['edge']:+.0%} (entre {A.EDGE:.0%} y {A.MAX_EDGE:.0%})"),
-        (B.segment(s) not in bad, f"Segmento «{B.segment(s)}» sin pérdidas"),
-        (bool(ai) and ai.get("apostar") is not False and (not str(conf).isdigit() or int(conf) >= B.SURE_CONF),
-         "IA: " + (f"confianza {conf}/5 (mín. {B.SURE_CONF})" + (f" · {ai['motivo']}" if ai.get("motivo") else "")
-                   if ai else "sin revisar (no pasó lo anterior)")),
+        (B.value_ok(s), f"Valor: ventaja {s['edge']:+.0%} (mín. {B.margin(s):.0%} con la incertidumbre, máx. {A.MAX_EDGE:.0%})"),
+        (B.segment(s) not in bad, f"Segmento «{B.segment(s)}» sin pérdidas demostradas"),
     ]
 
 
@@ -44,7 +38,7 @@ def radar(state, today):
     cands = [s for s in upcoming(state) if not s["placed"]
              and pd.Timestamp(s["start"]) < pd.Timestamp.now(tz="UTC") + pd.Timedelta(hours=36)]
     if not cands: return
-    bad = {k for k, v in B.seg_stats(bank, state["signals"]).items() if v["n"] >= B.SEG_MIN and v["profit"] / v["staked"] < B.SEG_ROI}
+    bad = B.bad_segments(B.seg_stats(bank, state["signals"]))
     cands.sort(key=lambda s: (sum(ok for ok, _ in checklist(s, bad)), s["p"]), reverse=True)
     lines = ["🔭 <b>RADAR DEL DÍA</b>", "Hoy no hay apuestas seguras. Las más cercanas y por qué aún no las cojo:", B.LINE]
     for s in cands[:RADAR_TOP]:
@@ -59,7 +53,7 @@ def pages(state):
     """Una página por deporte con todas sus apuestas de valor próximas (cogidas o no) y su checklist."""
     PAGES.mkdir(exist_ok=True)
     bank = state["bank"]
-    bad = {k for k, v in B.seg_stats(bank, state["signals"]).items() if v["n"] >= B.SEG_MIN and v["profit"] / v["staked"] < B.SEG_ROI}
+    bad = B.bad_segments(B.seg_stats(bank, state["signals"]))
     for icon, (slug, name) in SPORTS.items():
         sig = sorted((s for s in upcoming(state) if s.get("sport") == icon), key=lambda s: s["start"])
         md = [f"# {icon} {name} · apuestas de valor", "",
@@ -106,7 +100,7 @@ def run(state, today):
 def sport_view(state, slug, limit=12):
     """Texto (HTML de Telegram) con las próximas apuestas y candidatas de un deporte."""
     icon, name = next((i, n) for i, (s, n) in SPORTS.items() if s == slug)
-    bad = {k for k, v in B.seg_stats(state["bank"], state["signals"]).items() if v["n"] >= B.SEG_MIN and v["profit"] / v["staked"] < B.SEG_ROI}
+    bad = B.bad_segments(B.seg_stats(state["bank"], state["signals"]))
     sig = sorted((s for s in upcoming(state) if s.get("sport") == icon),
                  key=lambda s: (not s["placed"], -sum(ok for ok, _ in checklist(s, bad)), s["start"]))[:limit]
     lines = [f"{icon} <b>{name.upper()}</b> · próximas apuestas", "💵 apostada · 👀 candidata · ✅/❌ checklist", B.LINE]
@@ -115,7 +109,7 @@ def sport_view(state, slug, limit=12):
         marks = "".join("✅" if ok else "❌" for ok, _ in checklist(s, bad))
         lines += [f"{'💵' if s['placed'] else '👀'} <b>{A.esc(s['match']).replace(' vs ', ' 🆚 ')}</b> · 🕒 {B.when(s)}",
                   f"   → {A.esc(B.pick_text(s))} @ <b>{s['odds']:.2f}</b> ({A.esc(s.get('book', ''))}) · {s['p']:.0%} · {s['edge']:+.0%} {marks}"]
-    lines += [B.LINE, "Checklist: probabilidad · ventaja · segmento · IA"]
+    lines += [B.LINE, "Checklist: valor (con incertidumbre) · segmento"]
     return "\n".join(lines)
 
 
