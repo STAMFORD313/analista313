@@ -54636,3 +54636,43 @@ id,tournament_id,club1,club2,ht1,ht2
 2359808,260799,Bayern Munchen,Frankfurt,1,2
 2361531,260799,Frankfurt,Leipzig,2,3
 2361532,260799,Bayern Munchen,Stuttgart,1,0
+2359991,260768,Napoli,Sassuolo,2,4
+2359992,260768,Roma,Bologna,1,1
+2359993,260768,Bologna,Napoli,0,6
+2359994,260768,Sassuolo,Juventus,5,0
+2359995,260768,Juventus,Bologna,4,1
+2359996,260768,Napoli,Roma,2,0
+2359997,260768,Roma,Juventus,1,3
+2359998,260768,Bologna,Sassuolo,1,0
+2359999,260768,Sassuolo,Roma,3,1
+2360000,260768,Juventus,Napoli,0,4
+2360001,260768,Sassuolo,Napoli,2,0
+2360002,260768,Bologna,Roma,2,0
+2360003,260768,Napoli,Bologna,2,1
+2360004,260768,Juventus,Sassuolo,3,4
+2360005,260768,Bologna,Juventus,0,5
+2360006,260768,Roma,Napoli,2,2
+2360007,260768,Juventus,Roma,3,3
+2360008,260768,Sassuolo,Bologna,6,1
+2360009,260768,Roma,Sassuolo,0,0
+2360010,260768,Napoli,Juventus,4,3
+2360071,260777,Chengdu Rongcheng,Shanghai Shenhua,1,2
+2360072,260777,Shandong Taishan,Shanghai Port,2,2
+2360073,260777,Shanghai Port,Chengdu Rongcheng,0,4
+2360074,260777,Shanghai Shenhua,Beijing Guoan,0,1
+2360075,260777,Beijing Guoan,Shanghai Port,0,0
+2360076,260777,Chengdu Rongcheng,Shandong Taishan,3,4
+2360077,260777,Shandong Taishan,Beijing Guoan,2,2
+2360078,260777,Shanghai Port,Shanghai Shenhua,1,1
+2360079,260777,Shanghai Shenhua,Shandong Taishan,1,2
+2360080,260777,Beijing Guoan,Chengdu Rongcheng,2,4
+2360659,260808,Atleti,Real Madrid,2,4
+2360660,260808,Paris,Bayern Munchen,3,2
+2360661,260808,Bayern Munchen,Atleti,2,2
+2360662,260808,Real Madrid,Liverpool,3,1
+2360663,260808,Liverpool,Bayern Munchen,0,2
+2360664,260808,Atleti,Paris,1,2
+2360665,260808,Paris,Liverpool,3,2
+2360666,260808,Bayern Munchen,Real Madrid,1,3
+2360667,260808,Real Madrid,Paris,1,3
+2360668,260808,Liverpool,Atleti,3,1

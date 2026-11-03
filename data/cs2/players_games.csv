@@ -34517,3 +34517,9 @@ game_id,match_id,slug,date,tier,bo,tournament_id,tournament,t1_id,t2_id,team1,te
 192040,133038,faze-vs-falcons-esports-03-11-2026,2026-11-03T07:00:00.000+00:00,s,3,5113,Intel Extreme Masters Beijing 2026,791,2713,FaZe,Falcons,1,de_ancient,2713,13.0,3.0
 192036,133037,the-mongolz-vs-heroic-03-11-2026,2026-11-03T08:00:00.000+00:00,s,3,5113,Intel Extreme Masters Beijing 2026,736,759,The MongolZ,HEROIC,2,de_nuke,736,19.0,17.0
 192037,133037,the-mongolz-vs-heroic-03-11-2026,2026-11-03T08:00:00.000+00:00,s,3,5113,Intel Extreme Masters Beijing 2026,736,759,The MongolZ,HEROIC,1,de_inferno,736,13.0,7.0
+192032,133036,furia-vs-natus-vincere-03-11-2026,2026-11-03T10:15:00.000+00:00,s,3,5113,Intel Extreme Masters Beijing 2026,648,787,FURIA,Natus Vincere,3,de_cache,648,13.0,10.0
+192033,133036,furia-vs-natus-vincere-03-11-2026,2026-11-03T10:15:00.000+00:00,s,3,5113,Intel Extreme Masters Beijing 2026,648,787,FURIA,Natus Vincere,2,de_nuke,648,16.0,12.0
+192034,133036,furia-vs-natus-vincere-03-11-2026,2026-11-03T10:15:00.000+00:00,s,3,5113,Intel Extreme Masters Beijing 2026,648,787,FURIA,Natus Vincere,1,de_ancient,787,16.0,12.0
+192041,133039,legacy-br-vs-b8-03-11-2026,2026-11-03T10:55:00.000+00:00,s,3,5113,Intel Extreme Masters Beijing 2026,8118,1539,Legacy,B8,3,de_mirage,1539,13.0,9.0
+192042,133039,legacy-br-vs-b8-03-11-2026,2026-11-03T10:55:00.000+00:00,s,3,5113,Intel Extreme Masters Beijing 2026,8118,1539,Legacy,B8,2,de_cache,8118,13.0,6.0
+192043,133039,legacy-br-vs-b8-03-11-2026,2026-11-03T10:55:00.000+00:00,s,3,5113,Intel Extreme Masters Beijing 2026,8118,1539,Legacy,B8,1,de_dust2,1539,13.0,11.0
