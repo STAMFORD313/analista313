@@ -20,6 +20,7 @@ COLS = ["HC", "AC", "HY", "AY", "HR", "AR", "HF", "AF", "HST", "AST"]
 HLS, KS = [180, 365, 540, 1000], [2, 5, 10, 20, 40, 80]
 BASE_K = 1e9  # k enorme = todos los equipos iguales a la media de la liga (la referencia a batir)
 COMBO_MIN_P = 0.6
+LONG_MIN_P = 0.55  # piernas de la combinada larga (hasta 5)
 W = 0.5  # shortcut: peso del modelo frente al mercado sin margen sin ajustar (no hay cuotas históricas de córners); ajustarlo con senales.csv
 _cache = {}
 
@@ -124,6 +125,73 @@ def expected(df, div, stat, home, away, today, P):
     return mu_h * g("att_h", home) * g("def_a", away), mu_a * g("att_a", away) * g("def_h", home), lt, lth, lta
 
 
+# nombres de football-data → como los escribe ESPN (Champions / Europa League)
+EURO_ALIASES = {"Man United": "Manchester United", "Man City": "Manchester City", "Inter": "Internazionale",
+                "Sp Lisbon": "Sporting CP", "Paris SG": "Paris Saint-Germain", "Roma": "AS Roma", "Stuttgart": "VfB Stuttgart",
+                "Feyenoord": "Feyenoord Rotterdam", "Ath Madrid": "Atletico Madrid", "Ath Bilbao": "Athletic Club",
+                "Sp Braga": "Braga", "Ein Frankfurt": "Eintracht Frankfurt", "Leverkusen": "Bayer Leverkusen",
+                "Dortmund": "Borussia Dortmund", "M'gladbach": "Borussia Monchengladbach", "Nott'm Forest": "Nottingham Forest",
+                "Sociedad": "Real Sociedad", "Betis": "Real Betis", "Celta": "Celta Vigo", "PSV Eindhoven": "PSV",
+                "Olympiakos": "Olympiacos", "Club Brugge": "Club Brugge", "St Gilloise": "Union St.-Gilloise"}
+
+
+def team_div(df, name, today):
+    """(liga, nombre en football-data) de un equipo con nombre de ESPN, o None (con exigencia alta: mejor nada que otro)."""
+    import difflib
+    ck = ("team", name, f"{today:%Y-%m-%d}")
+    if ck not in _cache:
+        r = df[df.Date >= today - pd.Timedelta(days=400)]
+        last = pd.concat([r[["Date", "Div", "HomeTeam"]].rename(columns={"HomeTeam": "t"}),
+                          r[["Date", "Div", "AwayTeam"]].rename(columns={"AwayTeam": "t"})]).sort_values("Date").groupby("t").Div.last()
+        n, best = A.norm(name), (0.0, None)
+        for t, div in last.items():
+            m = A.norm(EURO_ALIASES.get(t, t))
+            sc = 1.0 if m == n else 0.92 if len(min(m, n, key=len)) >= 5 and (f" {m} " in f" {n} " or f" {n} " in f" {m} ") \
+                else difflib.SequenceMatcher(None, m, n).ratio()
+            if sc > best[0]: best = (sc, (div, t))
+        _cache[ck] = best[1] if best[0] >= 0.88 else None
+    return _cache[ck]
+
+
+def cross_expected(df, home, away, today, P):
+    """Partido europeo entre equipos de ligas distintas (o de la misma): para cada estadística (y goles), esperado de cada
+    equipo = media de local (visitante) de las dos ligas × ataque del equipo en su liga × defensa del rival en la suya;
+    línea = mediana de las dos ligas. shortcut: no corrige el nivel de cada liga ni el estilo de la competición europea
+    (sin datos de córners/tarjetas de Champions para medirlo). {stat: (eh, ea, lt, lth, lta)}; {} si falta algún equipo."""
+    th, ta = team_div(df, home, today), team_div(df, away, today)
+    if not th or not ta: return {}
+    out = {}
+    for stat in ["goals", *STATS]:
+        h, a = ("FTHG", "FTAG") if stat == "goals" else STATS[stat][:2]
+        Q = P.get(stat) or {"k": A.SHRINK, "half_life": A.HALF_LIFE}
+        mh, ma = (_model(df, th[0], stat, today, P), _model(df, ta[0], stat, today, P)) if stat != "goals" else (None, None)
+        if stat == "goals":
+            mods = []
+            for div in (th[0], ta[0]):
+                d = df[df.Div == div]
+                mods.append((A.strengths(d, div, today, Q["k"], Q["half_life"]), None, None, None))
+            mh, ma = mods
+        if not mh or not ma: continue
+        (hh, ha, sh), (ah, aa, sa) = mh[0], ma[0]
+        g = lambda s_, k, t: s_[k].get(t, 1.0)
+        eh = np.sqrt(hh * ah) * g(sh, "att_h", th[1]) * g(sa, "def_a", ta[1])
+        ea = np.sqrt(ha * aa) * g(sa, "att_a", ta[1]) * g(sh, "def_h", th[1])
+        ln = lambda x, y: float(np.floor((x + y) / 2)) + 0.5 if x is not None else 2.5
+        out[stat] = (eh, ea, ln(mh[1], ma[1]), ln(mh[2], ma[2]), ln(mh[3], ma[3]))
+    return out
+
+
+def euro_lines(home, away, today):
+    """Líneas de estadísticas para la tarjeta de un partido de Champions / Europa League (multisport); [] si falta un equipo."""
+    if "euro_df" not in _cache:
+        _cache["euro_df"] = prep(pd.concat([A.load_csv(f.read_bytes(), A.COLS + COLS) for f in sorted(A.HIST.glob("*.csv"))],
+                                           ignore_index=True).dropna(subset=["FTHG", "FTAG"]).sort_values("Date", ignore_index=True))
+    df, today = _cache["euro_df"], pd.Timestamp(today).tz_localize(None).normalize()
+    if not PARAMS.exists(): return []
+    cross = cross_expected(df, home, away, today, json.loads(PARAMS.read_text()))
+    return card_lines(df, None, home, away, today, None, cross=cross) if cross else []
+
+
 def over(mu, r, line): return float(1 - T.cdf("nbinom", mu, r, np.array(int(line))))  # P(X > line), línea a .5
 
 
@@ -178,14 +246,14 @@ def joint(legs, cov, rho=None):
     return min(max(p * (1 + corr), 0.0), min(l["p"] for l in legs))
 
 
-def card_lines(df, div, home, away, today, P_goals):
-    """Líneas para la tarjeta del partido (texto HTML), con la combinada «crear apuesta» y su cuota justa."""
+def card_lines(df, div, home, away, today, P_goals, cross=None):
+    """`cross`: {stat: esperados} de cross_expected (partidos europeos). Líneas para la tarjeta del partido (texto HTML), con la combinada «crear apuesta» y su cuota justa."""
     if not PARAMS.exists(): return []
     P = json.loads(PARAMS.read_text())
     lines, legs = ["", "📐 <b>Estadísticas esperadas</b>"], []
     rho = P.get("rho")
     for stat, (_, _, name) in STATS.items():
-        e = expected(df, div, stat, home, away, today, P)
+        e = cross.get(stat) if cross is not None else expected(df, div, stat, home, away, today, P)
         if not e: continue
         eh, ea, lt, lth, lta = e
         pt, ph, pa = over(eh + ea, P[stat]["r"], lt), over(eh, P[stat]["r_team"], lth), over(ea, P[stat]["r_team"], lta)
@@ -202,14 +270,24 @@ def card_lines(df, div, home, away, today, P_goals):
             legs.append({"stat": stat, "var": f"{stat}_{sc}", "sign": 1 if p0 >= 0.5 else -1, "p": max(p0, 1 - p0),
                          "text": f"{'Más' if p0 >= 0.5 else 'Menos'} de {ln} {name}{who}"})
     if len(lines) == 2: return []
+    if cross is not None:  # partido europeo: goles con el mismo cruce (Poisson), en vez del modelo de la liga
+        from scipy import stats as S
+        lines[1] += " · cruce de las dos ligas, sin backtest en Europa"
+        P_goals = {"O25": float(1 - S.poisson.cdf(2, sum(cross["goals"][:2])))} if "goals" in cross else P_goals
+        if not P_goals: return lines
     po = P_goals["O25"]
     legs.append({"stat": "goals", "var": "goals_t", "sign": 1 if po >= 0.5 else -1, "p": max(po, 1 - po),
                  "text": f"{'Más' if po >= 0.5 else 'Menos'} de 2.5 goles"})
-    legs = sorted([l for l in legs if l["p"] >= COMBO_MIN_P], key=lambda l: -l["p"])[:3]
+    allr = sorted(legs, key=lambda l: -l["p"])
+    legs = [l for l in allr if l["p"] >= COMBO_MIN_P][:3]
     if len(legs) >= 2:
         pj = joint(legs, P.get("cov", {}), rho)
         lines.append(f"🧩 Crear apuesta: {' + '.join(l['text'] for l in legs)} → prob. {pj:.0%}, cuota justa {1 / pj:.2f} "
                      f"(solo vale si la casa paga más)")
+    long_ = [l for l in allr if l["p"] >= LONG_MIN_P][:5]  # combinada larga: más cuota, una pierna por estadístico (cópula)
+    if len(long_) > max(len(legs), 2) and rho:
+        pj = joint(long_, P.get("cov", {}), rho)
+        lines.append(f"🚀 Combinada larga: {' + '.join(l['text'] for l in long_)} → prob. {pj:.0%}, cuota justa {1 / pj:.2f}")
     return lines
 
 

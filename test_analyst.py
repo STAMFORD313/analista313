@@ -323,3 +323,18 @@ assert len(_sl) == 4 and "FaZe gana + Más de 2.5 mapas (2-1)" in _sl[2] and "ca
 _j = 1 / float(_sl[2].split("cuota justa ")[1].split()[0]); _n = 1 / float(_sl[2].split("ingenuo ")[1].split(")")[0])
 assert _j < _n  # el producto ingenuo sobrestima la combinada (más de 2.5 y ganador están correlacionados)
 print("ok crear apuesta esports BO3")
+
+# Champions / Europa: estadísticas cruzando las ligas de cada equipo (football_stats.cross_expected / euro_lines)
+_td = pd.DataFrame({"Date": pd.to_datetime(["2026-09-01", "2026-09-02", "2026-09-03"]), "Div": ["E0", "SP1", "I1"],
+                    "HomeTeam": ["Man United", "Barcelona", "Inter"], "AwayTeam": ["Arsenal", "Sevilla", "Roma"]})
+_t0 = pd.Timestamp("2026-11-03")
+assert football_stats.team_div(_td, "Manchester United", _t0) == ("E0", "Man United")
+assert football_stats.team_div(_td, "AS Roma", _t0) == ("I1", "Roma") and football_stats.team_div(_td, "Internazionale", _t0) == ("I1", "Inter")
+assert football_stats.team_div(_td, "Shakhtar Donetsk", _t0) is None and football_stats.team_div(_td, "Manchester City", _t0) is None
+_cr = {"goals": (1.9, 0.9, 2.5, None, None), "corners": (6.4, 4.1, 10.5, 5.5, 4.5), "cards": (1.9, 2.1, 4.5, 2.5, 2.5),
+       "fouls": (11.3, 10.1, 24.5, 12.5, 12.5), "sot": (6.3, 3.1, 9.5, 4.5, 4.5)}
+_cl = football_stats.card_lines(None, None, "Barcelona", "Aston Villa", _t0, None, cross=_cr)
+assert "sin backtest en Europa" in _cl[1] and any(l.startswith("🧩 Crear apuesta") for l in _cl)
+_lg = [l for l in _cl if l.startswith("🚀 Combinada larga")]
+assert _lg and float(_lg[0].split("cuota justa ")[1]) > float([l for l in _cl if l.startswith("🧩")][0].split("cuota justa ")[1].split()[0])
+print("ok estadísticas Champions/Europa y combinada larga")

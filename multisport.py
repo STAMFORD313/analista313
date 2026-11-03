@@ -7,6 +7,7 @@ import requests
 
 import analyst as A
 import bankroll
+import football_stats
 import tennis_model, totals_model, ufc_model
 
 ESPN = "https://site.api.espn.com/apis/site/v2/sports"
@@ -364,6 +365,9 @@ def run_league(league, state, today, kg):
                  f"• H2H: {h2h}",
                  f"• Bajas: {A.absences_line(home, squads[0])}; {A.absences_line(away, squads[1])}",
                  f"• Favorito de las casas: {A.esc(fav)} @ {min(oh, oa):.2f}"]
+        if soccer:  # Champions / Europa: córners, tarjetas, faltas y tiros a puerta con lo que hace cada equipo en su liga
+            try: info += football_stats.euro_lines(home, away, today)
+            except Exception as e: print("estadísticas europeas", repr(e))
         context = (f"{home} vs {away} ({title}, {sport}). Modelo Elo con {YEARS} años de historial ajustado por bajas: "
                    f"{home} {(P3[0] if soccer else p):.0%}, {'empate ' + format(P3[1], '.0%') + ', ' if soccer else ''}{away} {(P3[2] if soccer else 1 - p):.0%}. "
                    f"Cuotas DraftKings {'/'.join(map(str, odds))}, hándicap {details}, total {total}. "
