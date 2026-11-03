@@ -54598,3 +54598,41 @@ id,tournament_id,club1,club2,ht1,ht2
 2360208,260819,Spain,England,1,0
 2360209,260819,Argentina,Spain,1,2
 2360210,260819,Brazil,France,1,0
+2360051,260775,Chengdu Rongcheng,Shanghai Shenhua,2,0
+2360052,260775,Shandong Taishan,Shanghai Port,1,2
+2360053,260775,Shanghai Port,Chengdu Rongcheng,0,4
+2360054,260775,Shanghai Shenhua,Beijing Guoan,1,3
+2360055,260775,Beijing Guoan,Shanghai Port,4,2
+2360056,260775,Chengdu Rongcheng,Shandong Taishan,1,2
+2360057,260775,Shandong Taishan,Beijing Guoan,4,0
+2360058,260775,Shanghai Port,Shanghai Shenhua,0,2
+2360059,260775,Shanghai Shenhua,Shandong Taishan,4,4
+2360060,260775,Beijing Guoan,Chengdu Rongcheng,4,2
+2360061,260775,Shanghai Shenhua,Chengdu Rongcheng,2,1
+2360062,260775,Shanghai Port,Shandong Taishan,0,3
+2360063,260775,Chengdu Rongcheng,Shanghai Port,1,1
+2360064,260775,Beijing Guoan,Shanghai Shenhua,0,4
+2360065,260775,Shanghai Port,Beijing Guoan,2,0
+2360066,260775,Shandong Taishan,Chengdu Rongcheng,0,1
+2360067,260775,Beijing Guoan,Shandong Taishan,3,3
+2360068,260775,Shanghai Shenhua,Shanghai Port,2,1
+2360069,260775,Shandong Taishan,Shanghai Shenhua,0,2
+2360070,260775,Chengdu Rongcheng,Beijing Guoan,5,2
+2359792,260799,Stuttgart,Frankfurt,1,0
+2361518,260799,Leipzig,Bayern Munchen,1,0
+2361519,260799,Leipzig,Stuttgart,2,1
+2361520,260799,Bayern Munchen,Frankfurt,0,3
+2361521,260799,Frankfurt,Leipzig,1,1
+2361522,260799,Bayern Munchen,Stuttgart,2,0
+2361523,260799,Stuttgart,Frankfurt,1,1
+2361524,260799,Leipzig,Bayern Munchen,3,1
+2361525,260799,Leipzig,Stuttgart,1,2
+2361526,260799,Bayern Munchen,Frankfurt,4,1
+2361527,260799,Frankfurt,Leipzig,0,2
+2361528,260799,Bayern Munchen,Stuttgart,2,0
+2361529,260799,Stuttgart,Frankfurt,2,2
+2361530,260799,Leipzig,Bayern Munchen,1,2
+2359807,260799,Leipzig,Stuttgart,0,1
+2359808,260799,Bayern Munchen,Frankfurt,1,2
+2361531,260799,Frankfurt,Leipzig,2,3
+2361532,260799,Bayern Munchen,Stuttgart,1,0
