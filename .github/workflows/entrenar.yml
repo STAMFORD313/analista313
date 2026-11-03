@@ -22,10 +22,11 @@ jobs:
           python train_espn.py || echo "fallo en train_espn"
           python train_espn.py ncaa || echo "fallo en train_espn ncaa"
           python train_football.py || echo "fallo en train_football"
+          python football_stats.py || echo "fallo en football_stats"   # córners, tarjetas, faltas, tiros a puerta
       - run: |
           git config user.name analista-bot
           git config user.email actions@users.noreply.github.com
-          git add data/{cs2,dota2,lol,r6,mlbb}/params.json data/{cs2,dota2,lol,r6,mlbb}/teams.csv data/fc/params.json data/espn_params.json data/espn_markets.json data/football_params.json
+          git add data/{cs2,dota2,lol,r6,mlbb}/params.json data/{cs2,dota2,lol,r6,mlbb}/teams.csv data/fc/params.json data/espn_params.json data/espn_markets.json data/football_params.json data/football_stats.json
           git diff --cached --quiet && exit 0
           git commit -m "reentreno semanal de esports $(date -u +%F)"
           for i in 1 2 3 4 5; do git pull --rebase --autostash -X theirs -q && git push && exit 0; git rebase --abort 2>/dev/null; sleep 10; done; exit 1
