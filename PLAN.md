@@ -9,6 +9,7 @@ Informe al usuario: una línea por mejora con 🟢 (conseguido) o 🔴 (no mejor
 3. Tomar la primera tarea pendiente de la cola, hacerla, test, MEJORAS.md, push.
 
 ## Cola (en orden; marcar [x] al terminar)
+- [ ] Esports/FC 27 vs casa: repetir con ≥ 200 partidos (CS2/Dota) y ≥ 600 (FC 27); si el modelo bate a la casa en 2 mitades, quitar sin_stake.
 - [x] Esports: Unibet como 2.ª casa (cuotas de CS2/LoL/Dota/Valorant) → más partidos con cuota real y mejor cuota.
 - [ ] Esports: añadir las disciplinas que confirme `data/sondeo.json` (Valorant, etc.) con su experto de datos y su Elo.
 - [ ] Props: con ≥ 200 liquidadas, decidir por estadística (NBA y fútbol) si se apuestan (ROI − 2 e.t. > 0).
