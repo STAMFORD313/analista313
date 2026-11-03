@@ -678,6 +678,7 @@
   "wta|2026-11-05|Elena Pridankina|Alexandra Shubladze",
   "atp|2026-11-04|Matteo Berrettini|Ugo Humbert",
   "wta|2026-11-05|Anastasia Zakharova|Vaishnavi Adkar",
+  "atp|2026-11-04|Tommy Paul|Daniel Merida",
   "cs2|132573",
   "cs2|132574",
   "cs2|132578",
@@ -915,12 +916,15 @@
   "fc|2360109",
   "fc|2360875",
   "fc|2360110",
-  "atp|2026-11-04|Tommy Paul|Daniel Merida",
   "cs2|133263",
   "cs2|133262",
   "fc|2360881",
   "fc|2360880",
-  "fc|2360111"
+  "fc|2360111",
+  "atp|2026-11-04|Novak Djokovic|Rinky Hijikata",
+  "fc|2360114",
+  "fc|2360877",
+  "fc|2360258"
  ],
  "signals": [
   {
@@ -12335,6 +12339,108 @@
    "bajas": "",
    "considered": true,
    "placed": false
+  },
+  {
+   "market": "H",
+   "pick": "mPm",
+   "odds": 1.83,
+   "book": "Unibet",
+   "implied": 0.481,
+   "edge": 0.101,
+   "sin_stake": true,
+   "p": 0.602,
+   "key": "fc|2360114",
+   "match": "mPm vs ramzes",
+   "start": "2026-11-03T17:02:00+00:00",
+   "league": "🎮⚽ FC 27 · A-League",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 54.814 partidos)",
+    "Goles esperados: mPm 3.68 · ramzes 2.59",
+    "Ganador: mPm 60% · empate 17% · ramzes 23%",
+    "Total: más de 6.5 goles 44% · menos 56%",
+    "Hándicap mPm: −1.5 43% · −2.5 28%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: mPm ❌❌✅✅➖ | ramzes ❌➖✅❌❌",
+    "• Partidos: mPm 631 | ramzes 980",
+    "• Liga: A-League",
+    "• Unibet: 1 1.83 · X 5.75 · 2 2.40 (sin margen 48%/15%/37%) · ventaja +10%. Sin stake hasta demostrar ROI con estas cuotas."
+   ],
+   "context": "EA FC Esoccer Battle mPm vs ramzes (A-League): goles esperados 3.68-2.59, 1X2 60%/17%/23%. Sin cuotas de casa.",
+   "captured": "2026-11-03T16:27",
+   "version": "eb38e07",
+   "bajas": "",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "H",
+   "pick": "chevare",
+   "odds": 2.25,
+   "book": "Unibet",
+   "implied": 0.386,
+   "edge": 0.044,
+   "sin_stake": true,
+   "p": 0.464,
+   "key": "fc|2360877",
+   "match": "chevare vs Animal",
+   "start": "2026-11-03T16:28:00+00:00",
+   "league": "🎮⚽ FC 27 · Champions League B",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 54.814 partidos)",
+    "Goles esperados: chevare 4.04 · Animal 3.75",
+    "Ganador: chevare 46% · empate 16% · Animal 37%",
+    "Total: más de 7.5 goles 52% · menos 48%",
+    "Hándicap chevare: −1.5 33% · −2.5 21%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: chevare ✅❌❌❌❌ | Animal ✅✅✅✅❌",
+    "• Partidos: chevare 504 | Animal 744",
+    "• Liga: Champions League B",
+    "• Unibet: 1 2.25 · X 3.80 · 2 2.25 (sin margen 39%/23%/39%) · ventaja +4%. Sin stake hasta demostrar ROI con estas cuotas."
+   ],
+   "context": "EA FC Esoccer Battle chevare vs Animal (Champions League B): goles esperados 4.04-3.75, 1X2 46%/16%/37%. Sin cuotas de casa.",
+   "captured": "2026-11-03T16:27",
+   "version": "eb38e07",
+   "bajas": "",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "H",
+   "pick": "w1nkos",
+   "odds": 2.16,
+   "book": "Unibet",
+   "implied": 0.405,
+   "edge": 0.043,
+   "sin_stake": true,
+   "p": 0.483,
+   "key": "fc|2360258",
+   "match": "w1nkos vs Duka",
+   "start": "2026-11-03T16:56:00+00:00",
+   "league": "🎮⚽ FC 27 · World Cup B",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 54.814 partidos)",
+    "Goles esperados: w1nkos 3.01 · Duka 2.57",
+    "Ganador: w1nkos 48% · empate 20% · Duka 32%",
+    "Total: más de 5.5 goles 49% · menos 51%",
+    "Hándicap w1nkos: −1.5 32% · −2.5 19%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: w1nkos ❌✅✅✅❌ | Duka ❌✅❌✅➖",
+    "• Partidos: w1nkos 1079 | Duka 978",
+    "• Liga: World Cup B",
+    "• Unibet: 1 2.16 · X 5.10 · 2 2.07 (sin margen 41%/17%/42%) · ventaja +4%. Sin stake hasta demostrar ROI con estas cuotas."
+   ],
+   "context": "EA FC Esoccer Battle w1nkos vs Duka (World Cup B): goles esperados 3.01-2.57, 1X2 48%/20%/32%. Sin cuotas de casa.",
+   "captured": "2026-11-03T16:27",
+   "version": "eb38e07",
+   "bajas": "",
+   "considered": true,
+   "placed": false
   }
  ],
  "bank": {
@@ -12766,21 +12872,24 @@
        "sign": -1,
        "line": 4.5,
        "p": 0.7544,
-       "text": "Menos de 4.5 tiros a puerta de Stoke"
+       "text": "Menos de 4.5 tiros a puerta de Stoke",
+       "odds": null
       },
       {
        "var": "fouls_h",
        "sign": -1,
        "line": 11.5,
        "p": 0.7471,
-       "text": "Menos de 11.5 faltas de Blackburn"
+       "text": "Menos de 11.5 faltas de Blackburn",
+       "odds": null
       },
       {
        "var": "cards_h",
        "sign": -1,
        "line": 2.5,
        "p": 0.7012,
-       "text": "Menos de 2.5 tarjetas de Blackburn"
+       "text": "Menos de 2.5 tarjetas de Blackburn",
+       "odds": null
       }
      ]
     },
@@ -12793,32 +12902,37 @@
        "sign": -1,
        "line": 4.5,
        "p": 0.7544,
-       "text": "Menos de 4.5 tiros a puerta de Stoke"
+       "text": "Menos de 4.5 tiros a puerta de Stoke",
+       "odds": null
       },
       {
        "var": "fouls_h",
        "sign": -1,
        "line": 11.5,
        "p": 0.7471,
-       "text": "Menos de 11.5 faltas de Blackburn"
+       "text": "Menos de 11.5 faltas de Blackburn",
+       "odds": null
       },
       {
        "var": "cards_h",
        "sign": -1,
        "line": 2.5,
        "p": 0.7012,
-       "text": "Menos de 2.5 tarjetas de Blackburn"
+       "text": "Menos de 2.5 tarjetas de Blackburn",
+       "odds": null
       },
       {
        "var": "goals_t",
        "sign": -1,
        "line": 2.5,
        "p": 0.6367,
-       "text": "Menos de 2.5 goles"
+       "text": "Menos de 2.5 goles",
+       "odds": 1.76
       }
      ]
     }
-   ]
+   ],
+   "priced": true
   },
   "E1|2026-11-03|Charlton|Bolton": {
    "match": "Charlton vs Bolton",
@@ -12833,21 +12947,24 @@
        "sign": -1,
        "line": 5.5,
        "p": 0.7812,
-       "text": "Menos de 5.5 tiros a puerta de Charlton"
+       "text": "Menos de 5.5 tiros a puerta de Charlton",
+       "odds": null
       },
       {
        "var": "cards_h",
        "sign": -1,
        "line": 2.5,
        "p": 0.7534,
-       "text": "Menos de 2.5 tarjetas de Charlton"
+       "text": "Menos de 2.5 tarjetas de Charlton",
+       "odds": null
       },
       {
        "var": "fouls_h",
        "sign": -1,
        "line": 11.5,
        "p": 0.6384,
-       "text": "Menos de 11.5 faltas de Charlton"
+       "text": "Menos de 11.5 faltas de Charlton",
+       "odds": null
       }
      ]
     },
@@ -12860,39 +12977,45 @@
        "sign": -1,
        "line": 5.5,
        "p": 0.7812,
-       "text": "Menos de 5.5 tiros a puerta de Charlton"
+       "text": "Menos de 5.5 tiros a puerta de Charlton",
+       "odds": null
       },
       {
        "var": "cards_h",
        "sign": -1,
        "line": 2.5,
        "p": 0.7534,
-       "text": "Menos de 2.5 tarjetas de Charlton"
+       "text": "Menos de 2.5 tarjetas de Charlton",
+       "odds": null
       },
       {
        "var": "fouls_h",
        "sign": -1,
        "line": 11.5,
        "p": 0.6384,
-       "text": "Menos de 11.5 faltas de Charlton"
+       "text": "Menos de 11.5 faltas de Charlton",
+       "odds": null
       },
       {
        "var": "goals_t",
        "sign": -1,
        "line": 2.5,
        "p": 0.5634,
-       "text": "Menos de 2.5 goles"
+       "text": "Menos de 2.5 goles",
+       "odds": 2.05
       },
       {
        "var": "corners_t",
        "sign": -1,
        "line": 10.5,
        "p": 0.5571,
-       "text": "Menos de 10.5 córners"
+       "text": "Menos de 10.5 córners",
+       "odds": 1.76
       }
      ]
     }
-   ]
+   ],
+   "priced": true
   },
   "E1|2026-11-03|Derby|Norwich": {
    "match": "Derby vs Norwich",
@@ -12907,25 +13030,29 @@
        "sign": -1,
        "line": 5.5,
        "p": 0.7695,
-       "text": "Menos de 5.5 tiros a puerta de Derby"
+       "text": "Menos de 5.5 tiros a puerta de Derby",
+       "odds": null
       },
       {
        "var": "fouls_a",
        "sign": -1,
        "line": 11.5,
        "p": 0.7155,
-       "text": "Menos de 11.5 faltas de Norwich"
+       "text": "Menos de 11.5 faltas de Norwich",
+       "odds": null
       },
       {
        "var": "cards_h",
        "sign": -1,
        "line": 2.5,
        "p": 0.6802,
-       "text": "Menos de 2.5 tarjetas de Derby"
+       "text": "Menos de 2.5 tarjetas de Derby",
+       "odds": null
       }
      ]
     }
-   ]
+   ],
+   "priced": true
   },
   "E1|2026-11-03|Portsmouth|Swansea": {
    "match": "Portsmouth vs Swansea",
@@ -12940,14 +13067,16 @@
        "sign": -1,
        "line": 2.5,
        "p": 0.737,
-       "text": "Menos de 2.5 tarjetas de Portsmouth"
+       "text": "Menos de 2.5 tarjetas de Portsmouth",
+       "odds": null
       },
       {
        "var": "sot_h",
        "sign": -1,
        "line": 5.5,
        "p": 0.6981,
-       "text": "Menos de 5.5 tiros a puerta de Portsmouth"
+       "text": "Menos de 5.5 tiros a puerta de Portsmouth",
+       "odds": null
       }
      ]
     },
@@ -12960,39 +13089,45 @@
        "sign": -1,
        "line": 2.5,
        "p": 0.737,
-       "text": "Menos de 2.5 tarjetas de Portsmouth"
+       "text": "Menos de 2.5 tarjetas de Portsmouth",
+       "odds": null
       },
       {
        "var": "sot_h",
        "sign": -1,
        "line": 5.5,
        "p": 0.6981,
-       "text": "Menos de 5.5 tiros a puerta de Portsmouth"
+       "text": "Menos de 5.5 tiros a puerta de Portsmouth",
+       "odds": null
       },
       {
        "var": "corners_a",
        "sign": -1,
        "line": 4.5,
        "p": 0.585,
-       "text": "Menos de 4.5 córners de Swansea"
+       "text": "Menos de 4.5 córners de Swansea",
+       "odds": 1.75
       },
       {
        "var": "goals_t",
        "sign": -1,
        "line": 2.5,
        "p": 0.561,
-       "text": "Menos de 2.5 goles"
+       "text": "Menos de 2.5 goles",
+       "odds": 1.67
       },
       {
        "var": "fouls_t",
        "sign": 1,
        "line": 22.5,
        "p": 0.5596,
-       "text": "Más de 22.5 faltas"
+       "text": "Más de 22.5 faltas",
+       "odds": null
       }
      ]
     }
-   ]
+   ],
+   "priced": true
   },
   "E1|2026-11-03|Preston|Sheffield Utd": {
    "match": "Preston vs Sheffield Utd",
@@ -13007,25 +13142,29 @@
        "sign": -1,
        "line": 5.5,
        "p": 0.8152,
-       "text": "Menos de 5.5 tiros a puerta de Preston"
+       "text": "Menos de 5.5 tiros a puerta de Preston",
+       "odds": null
       },
       {
        "var": "cards_a",
        "sign": -1,
        "line": 2.5,
        "p": 0.7363,
-       "text": "Menos de 2.5 tarjetas de Sheffield Utd"
+       "text": "Menos de 2.5 tarjetas de Sheffield Utd",
+       "odds": null
       },
       {
        "var": "fouls_t",
        "sign": -1,
        "line": 22.5,
        "p": 0.6562,
-       "text": "Menos de 22.5 faltas"
+       "text": "Menos de 22.5 faltas",
+       "odds": null
       }
      ]
     }
-   ]
+   ],
+   "priced": true
   },
   "E1|2026-11-03|QPR|Burnley": {
    "match": "QPR vs Burnley",
@@ -13114,21 +13253,24 @@
        "sign": -1,
        "line": 4.5,
        "p": 0.6996,
-       "text": "Menos de 4.5 tiros a puerta de Lincoln"
+       "text": "Menos de 4.5 tiros a puerta de Lincoln",
+       "odds": null
       },
       {
        "var": "cards_h",
        "sign": -1,
        "line": 2.5,
        "p": 0.6625,
-       "text": "Menos de 2.5 tarjetas de Watford"
+       "text": "Menos de 2.5 tarjetas de Watford",
+       "odds": null
       },
       {
        "var": "goals_t",
        "sign": -1,
        "line": 2.5,
        "p": 0.6065,
-       "text": "Menos de 2.5 goles"
+       "text": "Menos de 2.5 goles",
+       "odds": 1.94
       }
      ]
     },
@@ -13141,32 +13283,37 @@
        "sign": -1,
        "line": 4.5,
        "p": 0.6996,
-       "text": "Menos de 4.5 tiros a puerta de Lincoln"
+       "text": "Menos de 4.5 tiros a puerta de Lincoln",
+       "odds": null
       },
       {
        "var": "cards_h",
        "sign": -1,
        "line": 2.5,
        "p": 0.6625,
-       "text": "Menos de 2.5 tarjetas de Watford"
+       "text": "Menos de 2.5 tarjetas de Watford",
+       "odds": null
       },
       {
        "var": "goals_t",
        "sign": -1,
        "line": 2.5,
        "p": 0.6065,
-       "text": "Menos de 2.5 goles"
+       "text": "Menos de 2.5 goles",
+       "odds": 1.94
       },
       {
        "var": "corners_a",
        "sign": -1,
        "line": 4.5,
        "p": 0.5631,
-       "text": "Menos de 4.5 córners de Lincoln"
+       "text": "Menos de 4.5 córners de Lincoln",
+       "odds": 1.79
       }
      ]
     }
-   ]
+   ],
+   "priced": true
   },
   "E1|2026-11-03|Birmingham|Millwall": {
    "match": "Birmingham vs Millwall",
@@ -13181,21 +13328,24 @@
        "sign": -1,
        "line": 11.5,
        "p": 0.7654,
-       "text": "Menos de 11.5 faltas de Birmingham"
+       "text": "Menos de 11.5 faltas de Birmingham",
+       "odds": null
       },
       {
        "var": "sot_a",
        "sign": -1,
        "line": 4.5,
        "p": 0.7501,
-       "text": "Menos de 4.5 tiros a puerta de Millwall"
+       "text": "Menos de 4.5 tiros a puerta de Millwall",
+       "odds": null
       },
       {
        "var": "cards_h",
        "sign": -1,
        "line": 2.5,
        "p": 0.7477,
-       "text": "Menos de 2.5 tarjetas de Birmingham"
+       "text": "Menos de 2.5 tarjetas de Birmingham",
+       "odds": null
       }
      ]
     },
@@ -13208,39 +13358,45 @@
        "sign": -1,
        "line": 11.5,
        "p": 0.7654,
-       "text": "Menos de 11.5 faltas de Birmingham"
+       "text": "Menos de 11.5 faltas de Birmingham",
+       "odds": null
       },
       {
        "var": "sot_a",
        "sign": -1,
        "line": 4.5,
        "p": 0.7501,
-       "text": "Menos de 4.5 tiros a puerta de Millwall"
+       "text": "Menos de 4.5 tiros a puerta de Millwall",
+       "odds": null
       },
       {
        "var": "cards_h",
        "sign": -1,
        "line": 2.5,
        "p": 0.7477,
-       "text": "Menos de 2.5 tarjetas de Birmingham"
+       "text": "Menos de 2.5 tarjetas de Birmingham",
+       "odds": null
       },
       {
        "var": "corners_a",
        "sign": -1,
        "line": 4.5,
        "p": 0.5643,
-       "text": "Menos de 4.5 córners de Millwall"
+       "text": "Menos de 4.5 córners de Millwall",
+       "odds": 1.68
       },
       {
        "var": "goals_t",
        "sign": -1,
        "line": 2.5,
        "p": 0.554,
-       "text": "Menos de 2.5 goles"
+       "text": "Menos de 2.5 goles",
+       "odds": 1.99
       }
      ]
     }
-   ]
+   ],
+   "priced": true
   },
   "E1|2026-11-03|West Brom|Southampton": {
    "match": "West Brom vs Southampton",
@@ -13255,25 +13411,29 @@
        "sign": -1,
        "line": 5.5,
        "p": 0.7504,
-       "text": "Menos de 5.5 tiros a puerta de West Brom"
+       "text": "Menos de 5.5 tiros a puerta de West Brom",
+       "odds": null
       },
       {
        "var": "cards_h",
        "sign": -1,
        "line": 2.5,
        "p": 0.6838,
-       "text": "Menos de 2.5 tarjetas de West Brom"
+       "text": "Menos de 2.5 tarjetas de West Brom",
+       "odds": null
       },
       {
        "var": "fouls_h",
        "sign": -1,
        "line": 11.5,
        "p": 0.6184,
-       "text": "Menos de 11.5 faltas de West Brom"
+       "text": "Menos de 11.5 faltas de West Brom",
+       "odds": null
       }
      ]
     }
-   ]
+   ],
+   "priced": true
   },
   "B1|2026-11-04|Kortrijk|KV Mechelen": {
    "match": "Kortrijk vs KV Mechelen",

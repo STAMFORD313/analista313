@@ -1,6 +1,24 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 03/11/2026 17:18 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 03/11/2026 17:27 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+
+## chevare vs Animal — 03/11 · 17:28
+
+👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana chevare** @ **2.25** (Unibet) · prob 46% vs casas 39% · ventaja +4%
+
+- ❌ Valor: ventaja +4% (mín. 9% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 54.814 partidos)  
+Goles esperados: chevare 4.04 · Animal 3.75  
+Ganador: chevare 46% · empate 16% · Animal 37%  
+Total: más de 7.5 goles 52% · menos 48%  
+Hándicap chevare: −1.5 33% · −2.5 21%  
+🔎 **Claves**  
+• Forma: chevare ✅❌❌❌❌ | Animal ✅✅✅✅❌  
+• Partidos: chevare 504 | Animal 744  
+• Liga: Champions League B  
+• Unibet: 1 2.25 · X 3.80 · 2 2.25 (sin margen 39%/23%/39%) · ventaja +4%. Sin stake hasta demostrar ROI con estas cuotas.  
 
 ## ramzes vs Gazi — 03/11 · 17:38
 
@@ -74,6 +92,24 @@ Hándicap Shinobu: −1.5 26% · −2.5 14%
 • Liga: A-League  
 • Unibet: 1 1.79 · X 5.10 · 2 2.60 (sin margen 49%/17%/34%) · ventaja +4%. Sin stake hasta demostrar ROI con estas cuotas.  
 
+## w1nkos vs Duka — 03/11 · 17:56
+
+👀 candidata · 🎮⚽ FC 27 · World Cup B · **Gana w1nkos** @ **2.16** (Unibet) · prob 48% vs casas 40% · ventaja +4%
+
+- ❌ Valor: ventaja +4% (mín. 9% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 54.814 partidos)  
+Goles esperados: w1nkos 3.01 · Duka 2.57  
+Ganador: w1nkos 48% · empate 20% · Duka 32%  
+Total: más de 5.5 goles 49% · menos 51%  
+Hándicap w1nkos: −1.5 32% · −2.5 19%  
+🔎 **Claves**  
+• Forma: w1nkos ❌✅✅✅❌ | Duka ❌✅❌✅➖  
+• Partidos: w1nkos 1079 | Duka 978  
+• Liga: World Cup B  
+• Unibet: 1 2.16 · X 5.10 · 2 2.07 (sin margen 41%/17%/42%) · ventaja +4%. Sin stake hasta demostrar ROI con estas cuotas.  
+
 ## lzrn vs llulle — 03/11 · 18:02
 
 👀 candidata · 🎮⚽ FC 27 · Super Lig · **Gana llulle** @ **2.75** (Unibet) · prob 42% vs casas 32% · ventaja +15%
@@ -91,4 +127,22 @@ Hándicap llulle: −1.5 27% · −2.5 14%
 • Partidos: lzrn 719 | llulle 793  
 • Liga: Super Lig  
 • Unibet: 1 1.84 · X 4.20 · 2 2.75 (sin margen 47%/21%/32%) · ventaja +15%. Sin stake hasta demostrar ROI con estas cuotas.  
+
+## mPm vs ramzes — 03/11 · 18:02
+
+👀 candidata · 🎮⚽ FC 27 · A-League · **Gana mPm** @ **1.83** (Unibet) · prob 60% vs casas 48% · ventaja +10%
+
+- ❌ Valor: ventaja +10% (mín. 11% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 54.814 partidos)  
+Goles esperados: mPm 3.68 · ramzes 2.59  
+Ganador: mPm 60% · empate 17% · ramzes 23%  
+Total: más de 6.5 goles 44% · menos 56%  
+Hándicap mPm: −1.5 43% · −2.5 28%  
+🔎 **Claves**  
+• Forma: mPm ❌❌✅✅➖ | ramzes ❌➖✅❌❌  
+• Partidos: mPm 631 | ramzes 980  
+• Liga: A-League  
+• Unibet: 1 1.83 · X 5.75 · 2 2.40 (sin margen 48%/15%/37%) · ventaja +10%. Sin stake hasta demostrar ROI con estas cuotas.  
 
