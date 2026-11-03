@@ -97,7 +97,8 @@ def backtest():
         cov[f"{a}|{b}"] = round(float(c), 4)
         print(f"covarianza {a} × {b}: {c:+.4f} (n={m.sum()})")
     out["cov"] = cov
-    if PARAMS.exists() and "rho" in (old := json.loads(PARAMS.read_text())): out["rho"] = old["rho"]  # cópula de train_sgp.py
+    old = json.loads(PARAMS.read_text()) if PARAMS.exists() else {}
+    out.update({k: old[k] for k in ("rho", "form") if k in old})  # cópula (train_sgp.py) y forma (train_form.py)
     PARAMS.write_text(json.dumps(out, indent=1))
 
 
@@ -116,13 +117,31 @@ def _model(df, div, stat, today, P):
     return _cache[ck]
 
 
+def form_factor(df, stat, team, today, P):
+    """exp(c · ln((media últimos 10 + 0.5) / (media últimos 76 + 0.5))) de la estadística a favor del equipo (train_form.py;
+    c solo en las estadísticas donde mejoró fuera de muestra). 1 si no hay c o pocos partidos."""
+    c = P.get("form", {}).get(stat, {}).get("c")
+    if not c or stat not in STATS: return 1.0
+    ck = ("form", stat, f"{today:%Y-%m-%d}")
+    if ck not in _cache:
+        h, a, _ = STATS[stat]
+        d = df[df.Date < today].dropna(subset=[h, a])
+        x = pd.concat([pd.DataFrame({"t": d.HomeTeam, "v": d[h], "D": d.Date}), pd.DataFrame({"t": d.AwayTeam, "v": d[a], "D": d.Date})])
+        x = x.sort_values("D", kind="stable").groupby("t").tail(76).groupby("t").v
+        n, short, long_ = x.count(), x.apply(lambda v: v.tail(10).mean()), x.mean()
+        _cache[ck] = np.log((short + 0.5) / (long_ + 0.5)).where(n >= 20, 0.0).to_dict()
+    return float(np.exp(c * _cache[ck].get(team, 0.0)))
+
+
 def expected(df, div, stat, home, away, today, P):
-    """(esperado local, esperado visitante, línea mediana total, local, visitante) o None si la liga no tiene datos."""
+    """(esperado local, esperado visitante, línea mediana total, local, visitante) o None si la liga no tiene datos.
+    Incluye la forma reciente de cada equipo (form_factor) donde mejora fuera de muestra."""
     m = _model(df, div, stat, today, P)
     if not m: return None
     (mu_h, mu_a, s), lt, lth, lta = m
     g = lambda t, team: s[t].get(team, 1.0)
-    return mu_h * g("att_h", home) * g("def_a", away), mu_a * g("att_a", away) * g("def_h", home), lt, lth, lta
+    return (mu_h * g("att_h", home) * g("def_a", away) * form_factor(df, stat, home, today, P),
+            mu_a * g("att_a", away) * g("def_h", home) * form_factor(df, stat, away, today, P), lt, lth, lta)
 
 
 # nombres de football-data → como los escribe ESPN (Champions / Europa League)
@@ -174,8 +193,8 @@ def cross_expected(df, home, away, today, P):
         if not mh or not ma: continue
         (hh, ha, sh), (ah, aa, sa) = mh[0], ma[0]
         g = lambda s_, k, t: s_[k].get(t, 1.0)
-        eh = np.sqrt(hh * ah) * g(sh, "att_h", th[1]) * g(sa, "def_a", ta[1])
-        ea = np.sqrt(ha * aa) * g(sa, "att_a", ta[1]) * g(sh, "def_h", th[1])
+        eh = np.sqrt(hh * ah) * g(sh, "att_h", th[1]) * g(sa, "def_a", ta[1]) * form_factor(df, stat, th[1], today, P)
+        ea = np.sqrt(ha * aa) * g(sa, "att_a", ta[1]) * g(sh, "def_h", th[1]) * form_factor(df, stat, ta[1], today, P)
         ln = lambda x, y: float(np.floor((x + y) / 2)) + 0.5 if x is not None else 2.5
         out[stat] = (eh, ea, ln(mh[1], ma[1]), ln(mh[2], ma[2]), ln(mh[3], ma[3]))
     return out

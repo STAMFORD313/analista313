@@ -338,3 +338,15 @@ assert "sin backtest en Europa" in _cl[1] and any(l.startswith("🧩 Crear apues
 _lg = [l for l in _cl if l.startswith("🚀 Combinada larga")]
 assert _lg and float(_lg[0].split("cuota justa ")[1]) > float([l for l in _cl if l.startswith("🧩")][0].split("cuota justa ")[1].split()[0])
 print("ok estadísticas Champions/Europa y combinada larga")
+
+# forma reciente en las estadísticas de fútbol (train_form.py → football_stats.form_factor)
+_fd = pd.DataFrame({"Date": pd.date_range("2025-01-01", periods=80, freq="7D"), "HomeTeam": "Leeds", "AwayTeam": "Hull",
+                    "HC": [4] * 70 + [8] * 10, "AC": 4.0})
+_P = {"form": {"corners": {"c": 0.2}}}
+football_stats._cache.clear()
+_ff = football_stats.form_factor(_fd, "corners", "Leeds", pd.Timestamp("2027-01-01"), _P)
+assert abs(_ff - np.exp(0.2 * np.log((8 + 0.5) / ((66 * 4 + 80) / 76 + 0.5)))) < 1e-9 and _ff > 1
+assert football_stats.form_factor(_fd, "corners", "Hull", pd.Timestamp("2027-01-01"), _P) == 1.0  # forma plana
+assert football_stats.form_factor(_fd, "cards", "Leeds", pd.Timestamp("2027-01-01"), _P) == 1.0   # sin c: sin ajuste
+football_stats._cache.clear()
+print("ok forma reciente en estadísticas")
