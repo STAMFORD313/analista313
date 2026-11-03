@@ -1,42 +1,24 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 03/11/2026 13:58 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 03/11/2026 14:11 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## Bomb1to vs KraftVK — 03/11 · 14:01
+## dm1trena vs Revange — 03/11 · 14:16
 
-👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana KraftVK** @ **2.10** (Unibet) · prob 50% vs casas 41% · ventaja +4%
+👀 candidata · 🎮⚽ FC 27 · LaLiga · **Gana dm1trena** @ **3.35** (Unibet) · prob 34% vs casas 26% · ventaja +14%
 
-- ❌ Valor: ventaja +4% (mín. 9% con la incertidumbre, máx. 30%)
+- ✅ Valor: ventaja +14% (mín. 12% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
 📊 **Escenarios** (Poisson por jugador, 54.636 partidos)  
-Goles esperados: Bomb1to 3.41 · KraftVK 3.90  
-Ganador: Bomb1to 36% · empate 15% · KraftVK 50%  
-Total: más de 7.5 goles 45% · menos 55%  
-Hándicap KraftVK: −1.5 35% · −2.5 22%  
+Goles esperados: dm1trena 2.31 · Revange 2.72  
+Ganador: dm1trena 34% · empate 18% · Revange 48%  
+Total: más de 5.5 goles 39% · menos 61%  
+Hándicap Revange: −1.5 30% · −2.5 17%  
 🔎 **Claves**  
-• Forma: Bomb1to ➖✅❌❌❌ | KraftVK ❌✅➖✅✅  
-• Partidos: Bomb1to 1146 | KraftVK 900  
-• Liga: Champions League B  
-• Unibet: 1 2.55 · X 3.55 · 2 2.10 (sin margen 34%/24%/41%) · ventaja +4%. Sin stake hasta demostrar ROI con estas cuotas.  
-
-## Frantsuz vs TikitakaMaster — 03/11 · 14:02
-
-👀 candidata · 🎮⚽ FC 27 · Champions League A 2x6 · **Gana Frantsuz** @ **3.90** (Unibet) · prob 33% vs casas 22% · ventaja +29%
-
-- ✅ Valor: ventaja +29% (mín. 16% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 54.636 partidos)  
-Goles esperados: Frantsuz 3.99 · TikitakaMaster 4.78  
-Ganador: Frantsuz 33% · empate 13% · TikitakaMaster 54%  
-Total: más de 8.5 goles 51% · menos 49%  
-Hándicap TikitakaMaster: −1.5 40% · −2.5 28%  
-🔎 **Claves**  
-• Forma: Frantsuz ❌❌✅✅❌ | TikitakaMaster ✅❌➖✅✅  
-• Partidos: Frantsuz 537 | TikitakaMaster 591  
-• Liga: Champions League A 2x6  
-• Unibet: 1 3.90 · X 5.80 · 2 1.38 (sin margen 22%/15%/63%) · ventaja +29%. Sin stake hasta demostrar ROI con estas cuotas.  
+• Forma: dm1trena ➖❌❌✅✅ | Revange ❌❌✅✅❌  
+• Partidos: dm1trena 964 | Revange 539  
+• Liga: LaLiga  
+• Unibet: 1 3.35 · X 4.25 · 2 1.65 (sin margen 26%/21%/53%) · ventaja +14%. Sin stake hasta demostrar ROI con estas cuotas.  
 
 ## Fireline vs Kril — 03/11 · 14:21
 
@@ -109,4 +91,40 @@ Hándicap ZORO: −1.5 82% · −2.5 72%
 • Partidos: cappo 228 | ZORO 704  
 • Liga: International A 2x6  
 • Sin cuotas gratuitas de esoccer: cuota justa del modelo, solo candidata (no se apuesta).  
+
+## Wboy vs Bomb1to — 03/11 · 14:37
+
+👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana Wboy** @ **3.10** (Unibet) · prob 40% vs casas 28% · ventaja +22%
+
+- ✅ Valor: ventaja +22% (mín. 14% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 54.636 partidos)  
+Goles esperados: Wboy 3.44 · Bomb1to 3.64  
+Ganador: Wboy 39% · empate 15% · Bomb1to 45%  
+Total: más de 7.5 goles 41% · menos 59%  
+Hándicap Bomb1to: −1.5 31% · −2.5 19%  
+🔎 **Claves**  
+• Forma: Wboy ✅❌✅➖✅ | Bomb1to ➖✅❌❌❌  
+• Partidos: Wboy 955 | Bomb1to 1146  
+• Liga: Champions League B  
+• Unibet: 1 3.10 · X 4.30 · 2 1.70 (sin margen 28%/20%/51%) · ventaja +22%. Sin stake hasta demostrar ROI con estas cuotas.  
+
+## Jekunam vs dm1trena — 03/11 · 14:40
+
+👀 candidata · 🎮⚽ FC 27 · LaLiga · **Gana dm1trena** @ **3.40** (Unibet) · prob 34% vs casas 26% · ventaja +14%
+
+- ✅ Valor: ventaja +14% (mín. 12% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 54.636 partidos)  
+Goles esperados: Jekunam 2.77 · dm1trena 2.33  
+Ganador: Jekunam 49% · empate 18% · dm1trena 33%  
+Total: más de 5.5 goles 40% · menos 60%  
+Hándicap Jekunam: −1.5 31% · −2.5 17%  
+🔎 **Claves**  
+• Forma: Jekunam ➖✅❌❌✅ | dm1trena ➖❌❌✅✅  
+• Partidos: Jekunam 945 | dm1trena 964  
+• Liga: LaLiga  
+• Unibet: 1 1.78 · X 3.40 · 2 3.40 (sin margen 49%/26%/26%) · ventaja +14%. Sin stake hasta demostrar ROI con estas cuotas.  
 

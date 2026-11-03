@@ -1,25 +1,6 @@
 # 🐉 Dota 2 · apuestas de valor
 
-Actualizado 03/11/2026 13:58 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Nemiga Gaming vs CyberHero — 03/11 · 14:00
-
-👀 candidata · 🐉 Dota 2 · EPL Masters III · **Gana Nemiga Gaming** @ **2.70** (Thunderpick) · prob 35% vs casas 34% · ventaja -7%
-
-- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🐉 no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 11.617 partidos)  
-Mapa: Nemiga Gaming 41% · Serie BO3: Nemiga Gaming 35% - 65% CyberHero  
-Casas: Nemiga Gaming 34% · CyberHero 66%  
-🔎 **Claves**  
-• Elo: Nemiga Gaming 1682 (307 series) | CyberHero 1766 (17 series)  
-• Forma: Nemiga Gaming ❌✅✅✅❌ | CyberHero ✅❌✅✅❌  
-• H2H: sin precedentes  
-• Torneo: EPL Masters III (nivel B)  
-• Cambios de plantilla: Nemiga Gaming, CyberHero  
-• Jugadores en forma (KDA últimas 10 partidas): Nemiga Gaming: youNG G 4.2, byun 2.5 | CyberHero: Ainkrad 4.1, WoE 3.2  
-• Química de la plantilla: Nemiga Gaming: 128 partidas juntos de media | CyberHero: 132 partidas juntos de media  
+Actualizado 03/11/2026 14:11 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## HULIGANI vs Yellow Submarine — 03/11 · 17:00
 
