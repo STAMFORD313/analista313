@@ -1,11 +1,13 @@
 """Grafo de conocimiento persistente (data/grafo.json, formato node-link de networkx):
-ligas → equipos → jugadores (estado, posición, partidos), partidos (probabilidades), H2H entre equipos y apuestas del bot."""
+ligas → equipos → jugadores (estado, posición, partidos), partidos (probabilidades), H2H entre equipos y apuestas del bot.
+Cada equipo de fútbol lleva en `stats` su perfil de 10 años (team_profiles.py)."""
 import json
 
 import networkx as nx
 import pandas as pd
 
 import analyst as A
+import team_profiles
 
 PATH = A.DATA / "grafo.json"
 KEEP_DAYS = 30
@@ -46,7 +48,13 @@ class Graph:
             self.g.nodes[bid].update(status=b["status"], retorno=b["return"],
                                      **{f"autopsia_{k}": v for k, v in (b.get("autopsia") or {}).items()})
 
+    def team_stats(self, prof):
+        """Pega a cada nodo «equipo» su perfil de 10 años (team_profiles: medias a favor/en contra, % más de, forma)."""
+        for n, d in self.g.nodes(data=True):
+            if d.get("type") == "equipo" and n in prof: d["stats"] = prof[n]
+
     def save(self):
         cut = (pd.Timestamp.now(tz="UTC") - pd.Timedelta(days=KEEP_DAYS)).isoformat()
         self.g.remove_nodes_from([n for n, d in self.g.nodes(data=True) if d.get("type") == "partido" and d["start"] < cut])
+        self.team_stats(team_profiles.refresh())
         PATH.write_text(json.dumps(nx.node_link_data(self.g, edges="links"), ensure_ascii=False), encoding="utf-8")

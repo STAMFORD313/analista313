@@ -295,3 +295,19 @@ assert abs(football_stats.joint(_l, {"goals|sot": 0.02}) - (0.36 + 0.02)) < 1e-9
 _c = train_sgp.cells_copula(np.array([0.3, 0.7]), np.array([0.6, 0.2]), -0.3)
 assert np.allclose(_c.sum(1), 1) and np.allclose(_c[:, 0] + _c[:, 1], [0.3, 0.7], atol=1e-6)
 print("ok combinadas del mismo partido (cópula)")
+
+# perfiles de equipo de 10 años en el grafo (team_profiles.py)
+import team_profiles, knowledge
+_n = 260
+_d = pd.DataFrame({"Div": "E0", "Date": pd.date_range("2024-01-01", periods=_n, freq="3D"),
+                   "HomeTeam": np.where(np.arange(_n) % 2, "Leeds", "Hull"), "AwayTeam": np.where(np.arange(_n) % 2, "Hull", "Leeds"),
+                   "FTHG": 1, "FTAG": 0, "HS": 10, "AS": 8, "HST": 4, "AST": 3, "HF": 11, "AF": 12,
+                   "HC": np.where(np.arange(_n) % 2, 7, 3), "AC": 4, "HY": 2, "AY": 1, "HR": 0, "AR": 0})
+_p = team_profiles.profiles(_d)
+assert _p["Leeds"]["local"]["corners"][:2] == [7.0, 4.0] and _p["Hull"]["local"]["corners"][:2] == [3.0, 4.0]
+assert _p["Leeds"]["local"]["corners"][2] == 1.0 and _p["Hull"]["local"]["corners"][2] == 0.0  # línea de liga 4.5
+assert _p["Leeds"]["partidos"] == _n and abs(_p["Leeds"]["forma10"]["corners"]) < 0.3
+_kg = knowledge.Graph.__new__(knowledge.Graph); _kg.g = knowledge.nx.Graph(); _kg.g.add_node("Leeds", type="equipo")
+_kg.team_stats(_p)
+assert _kg.g.nodes["Leeds"]["stats"]["visitante"]["n"] == _n // 2
+print("ok perfiles de equipo en el grafo")
