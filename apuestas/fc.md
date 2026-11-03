@@ -1,24 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 03/11/2026 16:53 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Maslja vs Duka — 03/11 · 16:58
-
-👀 candidata · 🎮⚽ FC 27 · Serie A · **Gana Maslja** @ **3.50** (Unibet) · prob 34% vs casas 25% · ventaja +18%
-
-- ✅ Valor: ventaja +18% (mín. 13% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 54.774 partidos)  
-Goles esperados: Maslja 2.37 · Duka 2.66  
-Ganador: Maslja 34% · empate 21% · Duka 45%  
-Total: más de 5.5 goles 39% · menos 61%  
-Hándicap Duka: −1.5 29% · −2.5 16%  
-🔎 **Claves**  
-• Forma: Maslja ❌❌➖❌❌ | Duka ➖✅✅➖✅  
-• Partidos: Maslja 796 | Duka 970  
-• Liga: Serie A  
-• Unibet: 1 3.50 · X 4.35 · 2 1.60 (sin margen 25%/20%/55%) · ventaja +18%. Sin stake hasta demostrar ROI con estas cuotas.  
+Actualizado 03/11/2026 16:58 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## ramzes vs mPm — 03/11 · 17:02
 
@@ -74,21 +56,39 @@ Hándicap chevare: −1.5 35% · −2.5 23%
 • Liga: Champions League B  
 • Unibet: 1 2.38 · X 3.75 · 2 2.15 (sin margen 36%/23%/40%) · ventaja +7%. Sin stake hasta demostrar ROI con estas cuotas.  
 
-## chevare vs Animal — 03/11 · 17:28
+## ramzes vs Gazi — 03/11 · 17:38
 
-👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana chevare** @ **2.25** (Unibet) · prob 46% vs casas 39% · ventaja +4%
+👀 candidata · 🎮⚽ FC 27 · A-League · **Empate** @ **5.10** (Unibet) · prob 22% vs casas 17% · ventaja +12%
 
-- ❌ Valor: ventaja +4% (mín. 9% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+- ✅ Valor: ventaja +12% (mín. 11% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
 
 📊 **Escenarios** (Poisson por jugador, 54.774 partidos)  
-Goles esperados: chevare 4.04 · Animal 3.75  
-Ganador: chevare 46% · empate 16% · Animal 37%  
-Total: más de 7.5 goles 52% · menos 48%  
-Hándicap chevare: −1.5 33% · −2.5 21%  
+Goles esperados: ramzes 2.49 · Gazi 2.27  
+Ganador: ramzes 43% · empate 22% · Gazi 35%  
+Total: más de 4.5 goles 52% · menos 48%  
+Hándicap ramzes: −1.5 27% · −2.5 14%  
 🔎 **Claves**  
-• Forma: chevare ✅❌❌❌❌ | Animal ✅✅✅✅❌  
-• Partidos: chevare 504 | Animal 744  
-• Liga: Champions League B  
-• Unibet: 1 2.25 · X 3.80 · 2 2.25 (sin margen 39%/23%/39%) · ventaja +4%. Sin stake hasta demostrar ROI con estas cuotas.  
+• Forma: ramzes ❌➖✅❌❌ | Gazi ✅✅❌❌✅  
+• Partidos: ramzes 980 | Gazi 316  
+• Liga: A-League  
+• Unibet: 1 1.96 · X 5.10 · 2 2.28 (sin margen 45%/17%/38%) · ventaja +12%. Sin stake hasta demostrar ROI con estas cuotas.  
+
+## mPm vs Shinobu — 03/11 · 17:38
+
+👀 candidata · 🎮⚽ FC 27 · A-League · **Empate** @ **5.60** (Unibet) · prob 19% vs casas 16% · ventaja +5%
+
+- ❌ Valor: ventaja +5% (mín. 9% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 54.774 partidos)  
+Goles esperados: mPm 3.16 · Shinobu 2.24  
+Ganador: mPm 57% · empate 19% · Shinobu 24%  
+Total: más de 5.5 goles 45% · menos 55%  
+Hándicap mPm: −1.5 39% · −2.5 24%  
+🔎 **Claves**  
+• Forma: mPm ❌❌✅✅➖ | Shinobu ✅➖✅✅➖  
+• Partidos: mPm 631 | Shinobu 1172  
+• Liga: A-League  
+• Unibet: 1 1.67 · X 5.60 · 2 2.75 (sin margen 52%/16%/32%) · ventaja +5%. Sin stake hasta demostrar ROI con estas cuotas.  
 
