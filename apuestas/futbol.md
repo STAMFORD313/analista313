@@ -1,24 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 03/11/2026 23:29 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Chapecoense-SC vs Mirassol — 03/11 · 23:30
-
-👀 candidata · 🇧🇷 Brasileirão · **Gana Chapecoense-SC** @ **3.60** (Bet365) · prob 27% vs casas 27% · ventaja -2%
-
-- ❌ Valor: ventaja -2% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.23 - 1.65)  
-1 25% · X 27% · 2 48%  
-1X 52% · X2 75% · 12 73%  
-+1.5 79% · +2.5 55% · +3.5 33% · Ambos marcan 58%  
-Marcadores: 1-1 12% · 1-2 9% · 0-1 9% · 0-2 8%  
-🔎 **Claves**  
-• Forma: Chapecoense-SC ❌❌❌✅❌ | Mirassol ➖❌✅➖❌  
-• H2H: 1 desde 2026: 0V-1E-0D · 2.0 goles/partido · +2.5 en 0%  
-• Bajas: Chapecoense-SC: 0 fuera, 2 duda; Mirassol: sin bajas  
-• Favorito de las casas: Mirassol @ 2.01  
+Actualizado 03/11/2026 23:59 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Internacional vs Coritiba — 04/11 · 01:30
 
