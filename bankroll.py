@@ -7,6 +7,7 @@ import json, math, os, re
 import pandas as pd
 
 import analyst as A
+import boleto
 
 START = 100.0
 KELLY, MAX_STAKE, MAX_EXPOSURE = 0.10, 0.05, 0.30  # 1/10 Kelly (backtest: ver MEJORAS.md), máx. 5 % por apuesta y 30 % en juego
@@ -48,7 +49,7 @@ def total(bank): return bank["balance"] + sum(b["stake"] for b in bank["bets"] i
 
 def bank_line(bank):
     t = total(bank)
-    return f"💰 Banca: <b>{t:.2f} $</b> ({t - START:+.2f} $ desde 100 $) · libre {bank['balance']:.2f} $"
+    return f"💰 Banca: <b>{t:.2f} €</b> ({t - START:+.2f} € desde 100 €) · libre {bank['balance']:.2f} €"
 
 
 def segment(s):
@@ -117,15 +118,10 @@ Responde SOLO con JSON: {{"apostar": true, "confianza": 3, "motivo": "1-2 frases
 def single_card(s, stake, bank, reason, conf):
     conf = int(conf) if str(conf).isdigit() else 1 + min(4, round(s["edge"] * 20))
     return "\n".join([
-        header(s),
-        f"🕒 {when(s)} (hora España)",
-        f"<b>{A.esc(s['match']).replace(' vs ', ' 🆚 ')}</b>",
-        LINE,
-        f"🎯 <b>APUESTA: {A.esc(pick_text(s))}</b>",
-        f"💸 Cuota <b>{s['odds']:.2f}</b> · {A.esc(s.get('book', ''))}",
-        f"💵 Apuesta <b>{stake:.2f} $</b> → cobra <b>{stake * s['odds']:.2f} $</b> si acierta",
-        f"📈 Prob. bot <b>{s['p']:.0%}</b> vs casas {s.get('implied', 1 / s['odds']):.0%} · ventaja <b>{s['edge']:+.0%}</b>",
-        f"{stars(max(1, min(5, conf)))} confianza",
+        header(s), "🎯 <b>APUESTA DEL BOT</b>", LINE,
+        *boleto.boleto(s["match"], [(pick_text(s), None)], s["odds"], stake, when=when(s)),
+        f"📈 Prob. bot <b>{s['p']:.0%}</b> vs casa {s.get('implied', 1 / s['odds']):.0%} · ventaja <b>{s['edge']:+.0%}</b> · "
+        f"{A.esc(s.get('book', ''))} · {stars(max(1, min(5, conf)))}",
         LINE, *s.get("info", []), LINE,
         *([f"🤖 <i>{A.esc(reason)}</i>"] if reason else []),
         bank_line(bank)])
@@ -134,24 +130,25 @@ def single_card(s, stake, bank, reason, conf):
 def combo_card(legs, stake, odds, bank):
     p = math.prod(s["p"] for s in legs)
     return "\n".join([
-        f"🔗 <b>COMBINADA</b> · {len(legs)} selecciones", LINE,
-        *[f"{NUMS[i]} {s.get('sport', '')} {A.esc(s['match'])}\n     → <b>{A.esc(pick_text(s))}</b> @ {s['odds']:.2f} · 🕒 {when(s)}"
-          for i, s in enumerate(legs)],
-        LINE,
-        f"💸 Cuota total <b>{odds:.2f}</b>",
-        f"💵 Apuesta <b>{stake:.2f} $</b> → cobra <b>{stake * odds:.2f} $</b> si aciertan todas",
+        f"🔗 <b>COMBINADA DEL BOT</b> · {len(legs)} selecciones", LINE,
+        *boleto.boleto(None, [(s["match"], f"{pick_text(s)} @ {s['odds']:.2f} · 🕒 {when(s)}", None) for s in legs], odds, stake),
         f"📈 Prob. bot conjunta {p:.0%} · ventaja {p * odds - 1:+.0%}",
         bank_line(bank)])
 
 
 def result_card(b, legs, bank):
-    profit = b["return"] - b["stake"]
     head = {"ganada": "✅ <b>GANADA</b>", "nula": "➖ <b>NULA</b> (se devuelve)"}.get(b["status"], "❌ <b>PERDIDA</b>")
-    rows = [f"{'✅' if s.get('result') is True else '❌' if s.get('result') is False else '➖'} {s.get('sport', '')} "
-            f"{A.esc(s['match'])} {s.get('score', '')}\n     → {A.esc(pick_text(s))} @ {s['odds']:.2f}" for s in legs]
-    return "\n".join([f"{head} · {profit:+.2f} $" + (" · COMBINADA" if len(legs) > 1 else ""), LINE, *rows, LINE,
-                      f"💵 Apostado {b['stake']:.2f} $ → cobrado {b['return']:.2f} $", bank_line(bank)])
-
+    res = True if b["status"] == "ganada" else "nula" if b["status"] == "nula" else False
+    sel = [(s["match"] + (f" ({s['score']})" if s.get("score") else ""), pick_text(s),
+            s.get("result") if s.get("result") in (True, False, "nula") else None) for s in legs]
+    if len(legs) == 1: sel = [(sel[0][1], sel[0][2])]
+    title = legs[0]["match"] + (f" ({legs[0]['score']})" if legs[0].get("score") else "") if len(legs) == 1 else None
+    lines = boleto.legs_block(sel, title)
+    odds = b.get("odds") or math.prod(s["odds"] for s in legs)
+    if res is True: money = f"Cuota: <b>{odds:.2f}</b> · Apuesta: {b['stake']:.2f} € · ✅ Ganado: <b>{b['return']:.2f} €</b>"
+    elif res is False: money = f"Cuota: <b>{odds:.2f}</b> · Apuesta: {b['stake']:.2f} € · ❌ Perdido: <b>{b['stake']:.2f} €</b>"
+    else: money = f"➖ Nula: se devuelven {b['stake']:.2f} €"
+    return "\n".join([head + (" · COMBINADA" if len(legs) > 1 else ""), LINE, *lines, money, bank_line(bank)])
 
 
 def settle(bank, signals, kg):

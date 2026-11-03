@@ -93,14 +93,60 @@ def fc_card(state):
     except Exception as e: print("informe FC", repr(e))
     lines.append(B.LINE)
     for s in new:
-        lines += [f"<b>{A.esc(s['match']).replace(' vs ', ' 🆚 ')}</b> · 🕒 {B.when(s)}", f"→ <b>{A.esc(B.pick_text(s))}</b> ({s['p']:.0%})",
-                  *[f"   {l}" for l in s["info"][1:5]], *[f"   {l}" for l in s["info"] if l.startswith("• Unibet")], ""]
+        import boleto
+        lines += [*boleto.boleto(s["match"], [(B.pick_text(s), None)], s["odds"], None, when=B.when(s),
+                                 odds_label="Cuota Unibet" if s.get("book") == "Unibet" else "Cuota justa"),
+                  f"   Prob. bot {s['p']:.0%}", *[f"   {l}" for l in s["info"][1:5]], ""]
         s["anunciada"] = True
     A.send_card("\n".join(lines))
     state["fc_sent"] = now.isoformat()
 
 
 COMBO_EVERY, COMBO_MAX = pd.Timedelta(hours=3), 5
+
+
+def combo_slips(state, s):
+    """Predicción en formato boleto: cada combinada del partido con sus selecciones (sin marcas), cuota y apuesta simulada."""
+    import boleto
+    v = (state.get("sgp") or {}).get(s["key"])
+    head = [f"<b>{A.esc(s['match']).replace(' vs ', ' 🆚 ')}</b> · 🕒 {B.when(s)} · {A.esc(s.get('league', ''))}"]
+    if not v:  # sin combinadas registradas: las líneas de texto de siempre
+        return head + [l for l in s["info"] if l.startswith(("🧩", "🚀", "🎯"))] + [""]
+    out = head
+    name = {"corta": "🧩 Crear apuesta", "larga": "🚀 Combinada larga", "valor": "🎯 Con cuota real"}
+    for c in v["combos"]:
+        odds, lab = (c["odds"], "Cuota aprox.") if c.get("odds") else (1 / c["p"], "Cuota justa")
+        out += [f"{name.get(c['kind'], '🧩 Combinada')} · prob. {c['p']:.0%}" + (" · <b>SIMULADA</b>" if c.get("sim") else ""),
+                *boleto.boleto(None, [(l["text"], None) for l in c["legs"]], odds, 1.0 if c.get("sim") else None, odds_label=lab)]
+    return out + [""]
+
+
+SGP_EVERY = pd.Timedelta(hours=6)
+
+
+def sgp_results_card(state):
+    """Resultados de las combinadas ya jugadas (data/sgp_log.csv), en formato boleto con ✅/❌ en cada selección:
+    las nuevas desde la última tarjeta, como mucho cada 6 h y 8 por tarjeta."""
+    import boleto, football_stats
+    now = pd.Timestamp.now(tz="UTC")
+    if state.get("sgp_res_sent") and now - pd.Timestamp(state["sgp_res_sent"]) < SGP_EVERY: return
+    if not football_stats.SGP_LOG.exists(): return
+    d = pd.read_csv(football_stats.SGP_LOG)
+    new = d.iloc[state.get("sgp_res_n", 0):]
+    if new.empty or "piernas_ok" not in d: return
+    new = new[new.piernas_ok.notna()]
+    sim = new[new.simulada == 1] if "simulada" in new else new.iloc[:0]
+    show = pd.concat([sim, new[~new.index.isin(sim.index)]]).head(8)
+    lines = ["📋 <b>RESULTADOS DE COMBINADAS</b>", "✅/❌ en cada selección: la ❌ es la que falló. Las SIMULADAS llevan 1 € de la banca de prueba.", B.LINE]
+    for r in show.itertuples():
+        oks = str(r.piernas_ok).split(".")[0].zfill(int(r.piernas))
+        legs = [(t, o == "1") for t, o in zip(str(r.piernas_txt).split(" + "), oks)]
+        odds = r.cuota if pd.notna(getattr(r, "cuota", None)) else 1 / r.p
+        lines += [f"{'🎯 SIMULADA · ' if getattr(r, 'simulada', 0) == 1 else ''}{r.fecha}",
+                  *boleto.boleto(r.partido, legs, odds, 1.0, odds_label="Cuota aprox." if pd.notna(getattr(r, "cuota", None)) else "Cuota justa"), ""]
+    if (h := football_stats.sgp_history()): lines.append(h)
+    A.send_card("\n".join(lines))
+    state["sgp_res_sent"], state["sgp_res_n"] = now.isoformat(), len(d)
 
 
 def combos_card(state):
@@ -121,9 +167,7 @@ def combos_card(state):
              *([h] if (h := football_stats.sgp_history()) else ["📈 Historial real: aún sin combinadas liquidadas (se registran desde hoy)."]),
              B.LINE]
     for s in new:
-        st = [l for l in s["info"] if l.startswith(("Córners", "Faltas", "Tarjetas", "Tiros a puerta"))]
-        lines += [f"<b>{A.esc(s['match']).replace(' vs ', ' 🆚 ')}</b> · 🕒 {B.when(s)} · {A.esc(s.get('league', ''))}",
-                  *[f"   {l}" for l in st], *[l for l in s["info"] if l.startswith(("🧩", "🚀", "🎯"))], ""]
+        lines += combo_slips(state, s)
         for x in state["signals"]:
             if x["key"] == s["key"]: x["combo_anunciada"] = True
     A.send_card("\n".join(lines))
@@ -197,6 +241,8 @@ def run(state, today):
     except Exception as e: print("simulación FC", repr(e))
     try: paper_card(state)
     except Exception as e: print("banco de pruebas", repr(e))
+    try: sgp_results_card(state)
+    except Exception as e: print("resultados de combinadas", repr(e))
     combos_card(state)
     pages(state)
 

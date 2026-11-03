@@ -261,7 +261,7 @@ def settle_us_combos(df, league, state):
                          "acierto": int(all(hits)), "piernas_acertadas": sum(hits), "p_piernas": round(float(np.mean([l["p"] for l in c["legs"]])), 4),
                          "cuota": c.get("odds"), "ventaja": c.get("edge"), "simulada": int(bool(c.get("sim"))),
                          "ganancia": (c["odds"] - 1 if all(hits) else -1.0) if c.get("sim") else None,
-                         "piernas_txt": " + ".join(l["text"] for l in c["legs"])})
+                         "piernas_txt": " + ".join(l["text"] for l in c["legs"]), "piernas_ok": "".join("1" if h else "0" for h in hits)})
         del state["sgp"][k]
     if rows:
         new = pd.DataFrame(rows)

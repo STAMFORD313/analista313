@@ -361,7 +361,7 @@ _cs = {"bank": {"bets": []}, "signals": [
     {"key": "nba|x|A|B", "market": "home", "match": "A vs B", "start": _fut, "p": 0.6, "odds": 1.8, "edge": 0.0, "info": ["📊"]}]}
 cards.clear(); radar.A.send_card = cards.append
 radar.combos_card(_cs); radar.combos_card(_cs)
-assert len(cards) == 1 and cards[0].count("Barcelona 🆚 Aston Villa") == 1 and "Córners 6.4" in cards[0] and "A 🆚 B" not in cards[0]
+assert len(cards) == 1 and cards[0].count("Barcelona 🆚 Aston Villa") == 1 and "Crear apuesta" in cards[0] and "A 🆚 B" not in cards[0]
 assert all(s.get("combo_anunciada") for s in _cs["signals"][:2])
 import multisport as _MS
 _eb = {"signals": [{"key": "ucl|2026-11-03|Barcelona|Aston Villa", "match": "Barcelona vs Aston Villa", "start": _fut, "info": ["📊"]}]}
@@ -464,7 +464,7 @@ _d = esoccer.simulation()
 assert _d.ok_1x2.tolist() == [True, False, True] and _d.ok_tot.iloc[0] == 1.0 and _d.ok_h15.iloc[0] == 1.0  # 6-2: menos de 8.5 ✅, −1.5 ✅
 assert _d.ok_tot.iloc[1:].isna().all() and abs(_d.g_unibet.sum() - (-1 + 1.1)) < 1e-9
 _sl = "\n".join(esoccer.sim_lines())
-assert "3 pronósticos jugados" in _sl and "Kril <b>6-2</b> Fireline" in _sl and "con cuota de Unibet (2)" in _sl
+assert "3 pronósticos jugados" in _sl and "Kril 🆚 Fireline (6-2)" in _sl and "con cuota de Unibet (2)" in _sl and "✅ Ganado" in _sl and "❌ Perdido" in _sl
 cards.clear(); _ss = {}
 radar.fc_sim_card(_ss); radar.fc_sim_card(_ss)
 assert len(cards) == 1 and "FC 27 · SIMULACIÓN" in cards[0] and _ss["fc_sim_n"] == 3
@@ -704,3 +704,21 @@ finally:
     else: _kp.write_bytes(_kpb)
     FP.rows, FP.LOG = _rows0, _log0
 print("ok props de jugador de fútbol")
+
+# formato único de boleto (boleto.py) y tarjeta de resultados de combinadas (radar.sgp_results_card)
+import boleto
+_b = boleto.boleto("Madrid vs Sevilla", [("Gana Madrid", True), ("Marca Mbappé", True), ("Más de 2.5 córners", True)], 5.6, 1.9)
+assert _b[0] == "<b>Madrid 🆚 Sevilla</b>" and _b[1] == "  ↳ Gana Madrid ✅" and "✅ Ganado: <b>10.64 €</b>" in _b[-1]
+_b2 = boleto.boleto("Madrid vs Sevilla", [("Gana Madrid", True), ("Marca Mbappé", False)], 3.0, 2.0)
+assert "  ↳ Marca Mbappé ❌" in _b2 and "❌ Perdido: <b>2.00 €</b>" in _b2[-1]
+_b3 = boleto.boleto("Madrid vs Sevilla", [("Gana Madrid", None)], 1.8, 2.0, when="05/11 · 21:00")
+assert "✅" not in "".join(_b3) and "❌" not in "".join(_b3) and "Si acierta: 3.60 €" in _b3[-1]  # predicción: sin marcas
+football_stats.SGP_LOG = Path(tempfile.mkdtemp()) / "sgp4.csv"
+pd.DataFrame([{"fecha": "2026-11-03", "partido": "QPR vs Burnley", "tipo": "valor", "piernas": 2, "p": 0.4, "acierto": 0, "piernas_acertadas": 1,
+               "p_piernas": 0.6, "cuota": 3.2, "ventaja": 0.28, "simulada": 1, "ganancia": -1.0,
+               "piernas_txt": "Menos de 2.5 tarjetas de QPR + Menos de 5.5 tiros a puerta de QPR", "piernas_ok": "10"}]).to_csv(football_stats.SGP_LOG, index=False)
+cards.clear(); _rs = {}
+radar.sgp_results_card(_rs); radar.sgp_results_card(_rs)
+assert len(cards) == 1 and "  ↳ Menos de 2.5 tarjetas de QPR ✅" in cards[0] and "  ↳ Menos de 5.5 tiros a puerta de QPR ❌" in cards[0]
+assert "❌ Perdido: <b>1.00 €</b>" in cards[0] and "🎯 SIMULADA" in cards[0]
+print("ok formato boleto")

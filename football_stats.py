@@ -423,7 +423,7 @@ def settle_sgp(state, recent, today):
                              "p_piernas": round(float(np.mean([l["p"] for l in c["legs"]])), 4),
                              "cuota": c.get("odds"), "ventaja": c.get("edge"), "simulada": int(bool(c.get("sim"))),
                              "ganancia": (c["odds"] - 1 if all(hh) else -1.0) if c.get("sim") else None,
-                             "piernas_txt": " + ".join(l["text"] for l in c["legs"])})
+                             "piernas_txt": " + ".join(l["text"] for l in c["legs"]), "piernas_ok": "".join("1" if h else "0" for h in hh)})
         elif v["start"][:10] >= f"{today - pd.Timedelta(days=10):%Y-%m-%d}": keep[k] = v
     state["sgp"] = keep
     if rows:
