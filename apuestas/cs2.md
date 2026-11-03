@@ -1,23 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 03/11/2026 18:46 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## 9INE vs Revise — 03/11 · 19:00
-
-👀 candidata · 🎮 CS2 · Fiesta Series 3 · **Gana 9INE** @ **1.13** (Thunderpick) · prob 80% vs casas 82% · ventaja -10%
-
-- ❌ Valor: ventaja -10% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 76.380 partidos)  
-Mapa: 9INE 70% · Serie BO3: 9INE 79% - 21% Revise  
-Casas: 9INE 82% · Revise 18%  
-🔎 **Claves**  
-• Elo: 9INE 1751 (510 series) | Revise 1524 (35 series)  
-• Forma: 9INE ✅❌❌✅❌ | Revise ✅❌✅❌✅  
-• H2H: sin precedentes  
-• Torneo: Fiesta Series 3 (nivel C)  
-• Cambios de plantilla: ninguno  
+Actualizado 03/11/2026 19:14 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## QUINTESSÊNCIA vs RED Canids Academy — 03/11 · 20:00
 

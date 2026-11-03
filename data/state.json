@@ -683,6 +683,7 @@
   "wta|2026-11-04|Justina Mikulskyte|Tiphanie Lemaitre",
   "wta|2026-11-05|Justina Mikulskyte|Tiphanie Lemaitre",
   "wta|2026-11-04|Weronika Falkowska|Maaya Rajeshwaran Revathi",
+  "wta|2026-11-05|Moyuka Uchijima|Magda Linette",
   "cs2|132573",
   "cs2|132574",
   "cs2|132578",
@@ -937,12 +938,15 @@
   "fc|2360119",
   "fc|2360887",
   "fc|2360120",
-  "wta|2026-11-05|Moyuka Uchijima|Magda Linette",
   "cs2|133272",
   "cs2|133273",
   "fc|2360124",
   "fc|2360891",
-  "fc|2360895"
+  "fc|2360895",
+  "wta|2026-11-05|Anna Blinkova|Li Zongyu",
+  "fc|2360897",
+  "fc|2360126",
+  "fc|2360272"
  ],
  "signals": [
   {
@@ -2141,10 +2145,12 @@
    "context": "CS2 MASONIC vs MASQ, BO1, torneo Dust2.dk Ligaen Season 33: Regular Season nivel c. Elo por mapa 1469 vs 1438 (prob. mapa 54%, serie 54%). Forma ❌❌❌❌❌ / ❌✅❌❌✅ (✅ victoria ❌ derrota). H2H 2: 1-1. Cambios de plantilla: ninguno. Cuotas Thunderpick 1.35/2.84.",
    "considered": true,
    "placed": false,
-   "result": null,
+   "result": false,
    "captured": "2026-11-03T06:59",
    "version": "7948daf",
-   "bajas": ""
+   "bajas": "",
+   "score": "1-0",
+   "logged": true
   },
   {
    "market": "t1",
@@ -2777,18 +2783,6 @@
    "start": "2026-11-03T18:00:00+00:00",
    "league": "🔫 R6 Siege · EML Challenger Circuit 2026: Playoffs",
    "sport": "🔫",
-   "info": [
-    "📊 <b>Escenarios</b> (Elo por mapa. 3.337 partidos)",
-    "Mapa: Pannuhuone 50% · Serie BO3: Pannuhuone 50% - 50% Fans of Attics",
-    "Casas: Pannuhuone 60% · Fans of Attics 40%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Elo: Pannuhuone 1553 (14 series) | Fans of Attics 1554 (5 series)",
-    "• Forma: Pannuhuone ✅✅✅❌❌ | Fans of Attics ✅✅✅❌❌",
-    "• H2H: 1: 1-0",
-    "• Torneo: EML Challenger Circuit 2026: Playoffs (nivel B)",
-    "• Cambios de plantilla: ninguno"
-   ],
    "context": "R6 Siege Pannuhuone vs Fans of Attics, BO3, torneo EML Challenger Circuit 2026: Playoffs nivel b. Elo por mapa 1553 vs 1554 (prob. mapa 50%, serie 50%). Forma ✅✅✅❌❌ / ✅✅✅❌❌ (✅ victoria ❌ derrota). H2H 1: 1-0. Cambios de plantilla: ninguno. Cuotas Thunderpick 1.54/2.3.",
    "considered": true,
    "placed": false,
@@ -7439,18 +7433,6 @@
    "start": "2026-11-03T18:00:00+00:00",
    "league": "🎮 CS2 · Fiesta Series 3",
    "sport": "🎮",
-   "info": [
-    "📊 <b>Escenarios</b> (Elo por mapa, 76.380 partidos)",
-    "Mapa: 9INE 70% · Serie BO3: 9INE 79% - 21% Revise",
-    "Casas: 9INE 82% · Revise 18%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Elo: 9INE 1751 (510 series) | Revise 1524 (35 series)",
-    "• Forma: 9INE ✅❌❌✅❌ | Revise ✅❌✅❌✅",
-    "• H2H: sin precedentes",
-    "• Torneo: Fiesta Series 3 (nivel C)",
-    "• Cambios de plantilla: ninguno"
-   ],
    "context": "CS2 9INE vs Revise, BO3, torneo Fiesta Series 3 nivel c. Elo por mapa 1751 vs 1524 (prob. mapa 70%, serie 79%). Forma ✅❌❌✅❌ / ✅❌✅❌✅ (✅ victoria ❌ derrota). H2H sin precedentes. Cambios de plantilla: ninguno. Cuotas Thunderpick 1.13/5.0.",
    "captured": "2026-11-03T06:59",
    "version": "7948daf",
@@ -12106,7 +12088,10 @@
    "version": "9858f69",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "3-1",
+   "result": false,
+   "logged": true
   },
   {
    "market": "A",
@@ -12127,7 +12112,10 @@
    "version": "9858f69",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "4-2",
+   "result": false,
+   "logged": true
   },
   {
    "market": "D",
@@ -12148,7 +12136,10 @@
    "version": "7f8a028",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "1-5",
+   "result": false,
+   "logged": true
   },
   {
    "market": "A",
@@ -12193,7 +12184,10 @@
    "version": "7f8a028",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "0-3",
+   "result": false,
+   "logged": true
   },
   {
    "market": "A",
@@ -12256,7 +12250,10 @@
    "version": "caacbb9",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "2-3",
+   "result": false,
+   "logged": true
   },
   {
    "market": "H",
@@ -12277,7 +12274,10 @@
    "version": "eb38e07",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "5-2",
+   "result": true,
+   "logged": true
   },
   {
    "market": "H",
@@ -12448,7 +12448,10 @@
    "version": "63e9be6",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "2-2",
+   "result": true,
+   "logged": true
   },
   {
    "market": "D",
@@ -12469,7 +12472,10 @@
    "version": "584d5eb",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "0-3",
+   "result": false,
+   "logged": true
   },
   {
    "market": "A",
@@ -12511,7 +12517,10 @@
    "version": "584d5eb",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "3-2",
+   "result": false,
+   "logged": true
   },
   {
    "market": "A",
@@ -12561,19 +12570,6 @@
    "start": "2026-11-03T18:02:00+00:00",
    "league": "🎮⚽ FC 27 · Super Lig",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 54.874 partidos)",
-    "Goles esperados: llulle 2.65 · lzrn 2.58",
-    "Ganador: llulle 41% · empate 21% · lzrn 38%",
-    "Total: más de 5.5 goles 42% · menos 58%",
-    "Hándicap llulle: −1.5 26% · −2.5 14%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: llulle ❌✅➖➖➖ | lzrn ❌✅➖❌✅",
-    "• Partidos: llulle 801 | lzrn 727",
-    "• Liga: Super Lig",
-    "• Unibet: 1 2.80 · X 4.30 · 2 1.80 (sin margen 31%/20%/49%) · ventaja +15%. Sin stake hasta demostrar ROI con estas cuotas."
-   ],
    "context": "EA FC Esoccer Battle llulle vs lzrn (Super Lig): goles esperados 2.65-2.58, 1X2 41%/21%/38%. Sin cuotas de casa.",
    "captured": "2026-11-03T17:46",
    "version": "3b3284c",
@@ -12611,6 +12607,108 @@
    "context": "EA FC Esoccer Battle Glumac vs chevare (Super Lig): goles esperados 3.46-3.86, 1X2 35%/17%/48%. Sin cuotas de casa.",
    "captured": "2026-11-03T17:46",
    "version": "3b3284c",
+   "bajas": "",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "H",
+   "pick": "chevare",
+   "odds": 2.55,
+   "book": "Unibet",
+   "implied": 0.341,
+   "edge": 0.167,
+   "sin_stake": true,
+   "p": 0.458,
+   "key": "fc|2360897",
+   "match": "chevare vs Animal",
+   "start": "2026-11-03T18:38:00+00:00",
+   "league": "🎮⚽ FC 27 · Super Lig",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 54.894 partidos)",
+    "Goles esperados: chevare 3.86 · Animal 3.60",
+    "Ganador: chevare 46% · empate 17% · Animal 37%",
+    "Total: más de 7.5 goles 47% · menos 53%",
+    "Hándicap chevare: −1.5 32% · −2.5 20%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: chevare ➖❌➖✅✅ | Animal ➖❌➖❌❌",
+    "• Partidos: chevare 512 | Animal 752",
+    "• Liga: Super Lig",
+    "• Unibet: 1 2.55 · X 3.55 · 2 2.10 (sin margen 34%/24%/41%) · ventaja +17%. Sin stake hasta demostrar ROI con estas cuotas."
+   ],
+   "context": "EA FC Esoccer Battle chevare vs Animal (Super Lig): goles esperados 3.86-3.60, 1X2 46%/17%/37%. Sin cuotas de casa.",
+   "captured": "2026-11-03T18:14",
+   "version": "35cee24",
+   "bajas": "",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "D",
+   "pick": "Empate",
+   "odds": 5.0,
+   "book": "Unibet",
+   "implied": 0.175,
+   "edge": 0.084,
+   "sin_stake": true,
+   "p": 0.217,
+   "key": "fc|2360126",
+   "match": "Shinobu vs Gazi",
+   "start": "2026-11-03T18:34:00+00:00",
+   "league": "🎮⚽ FC 27 · Copa America",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 54.894 partidos)",
+    "Goles esperados: Shinobu 2.55 · Gazi 2.30",
+    "Ganador: Shinobu 44% · empate 22% · Gazi 34%",
+    "Total: más de 4.5 goles 53% · menos 47%",
+    "Hándicap Shinobu: −1.5 28% · −2.5 15%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Shinobu ✅✅❌➖✅ | Gazi ✅❌➖✅❌",
+    "• Partidos: Shinobu 1180 | Gazi 324",
+    "• Liga: Copa America",
+    "• Unibet: 1 2.20 · X 5.00 · 2 2.04 (sin margen 40%/17%/43%) · ventaja +8%. Sin stake hasta demostrar ROI con estas cuotas."
+   ],
+   "context": "EA FC Esoccer Battle Shinobu vs Gazi (Copa America): goles esperados 2.55-2.30, 1X2 44%/22%/34%. Sin cuotas de casa.",
+   "captured": "2026-11-03T18:14",
+   "version": "35cee24",
+   "bajas": "",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "A",
+   "pick": "w1nkos",
+   "odds": 1.89,
+   "book": "Unibet",
+   "implied": 0.463,
+   "edge": 0.076,
+   "sin_stake": true,
+   "p": 0.569,
+   "key": "fc|2360272",
+   "match": "Maslja vs w1nkos",
+   "start": "2026-11-03T18:40:00+00:00",
+   "league": "🎮⚽ FC 27 · Europa League",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 54.894 partidos)",
+    "Goles esperados: Maslja 2.95 · w1nkos 3.87",
+    "Ganador: Maslja 27% · empate 17% · w1nkos 57%",
+    "Total: más de 6.5 goles 52% · menos 48%",
+    "Hándicap w1nkos: −1.5 41% · −2.5 27%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Maslja ✅❌✅➖➖ | w1nkos ❌✅✅✅❌",
+    "• Partidos: Maslja 804 | w1nkos 1079",
+    "• Liga: Europa League",
+    "• Unibet: 1 2.35 · X 5.30 · 2 1.89 (sin margen 37%/17%/46%) · ventaja +8%. Sin stake hasta demostrar ROI con estas cuotas."
+   ],
+   "context": "EA FC Esoccer Battle Maslja vs w1nkos (Europa League): goles esperados 2.95-3.87, 1X2 27%/17%/57%. Sin cuotas de casa.",
+   "captured": "2026-11-03T18:14",
+   "version": "35cee24",
    "bajas": "",
    "considered": true,
    "placed": false
