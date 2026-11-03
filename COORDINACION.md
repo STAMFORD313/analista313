@@ -107,3 +107,4 @@
 - [agente-mejora] multisport.py: solo 2 líneas (import football_stats y `info += football_stats.euro_lines(...)` en ucl/uel).
 - [agente-mejora] radar.py: nueva `combos_card` (llamada en run); multisport.py: `euro_backfill` al empezar run.
 - [agente-mejora] esoccer.py: cuotas de Unibet (kambi.esoccer_events/find_esoccer), data/fc/odds.csv, market_report; bankroll.py: salta señales `sin_stake`; radar.fc_card: línea de Unibet e informe.
+- [agente-mejora] esports.py: 1 línea en `info` (cs2_props.card_lines) para CS2 S/A/B; creo cs2_props.py y train_cs2_props.py.

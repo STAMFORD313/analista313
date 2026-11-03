@@ -498,3 +498,18 @@ import train_fc_calib
 _Q = train_fc_calib.calibrate_arr(np.array([[0.7, 0.12, 0.18]]), 1.16, 0.32)[0]
 assert np.allclose(_Q, [_c2["1"], _c2["X"], _c2["2"]])
 print("ok recalibración FC 27")
+
+# props de jugador CS2: kills esperados en la serie (train_cs2_props.py → cs2_props)
+import cs2_props
+_P0 = {"half_life": 50, "k": 300, "c": 0.06, "r": 10.0, "rounds_per_map": 21.0, "n_test": 52293, "ou": 0.6561, "ou_ref": 0.6821}
+_ps, _pl = cs2_props.params, cs2_props._state.get("kpr")
+cs2_props.params = lambda: _P0
+cs2_props._state["kpr"] = ({1: (70.0, 100.0), 2: (60.0, 100.0)}, 0.65, {10: [(1, "ZywOo")], 20: [(2, "s1mple")]}, _P0)
+_ex = cs2_props.expected(10, 20, 0.6, 3, esoccer.np and __import__("esports").bo3_scores(0.6))
+assert len(_ex) == 2 and _ex[0][2] > _ex[1][2] and _ex[0][3] < _ex[0][2] < _ex[0][4]  # más KPR y equipo favorito → más kills
+_e1 = cs2_props.expected(10, 20, 0.6, 1)
+assert _e1[0][2] < _ex[0][2]  # BO1 (1 mapa) < BO3 (2-3 mapas)
+_cl2 = cs2_props.card_lines({"t1_id": 10, "t2_id": 20, "team1": "Vitality", "team2": "NaVi", "bo": 3}, 0.6, __import__("esports").bo3_scores(0.6))
+assert "Kills esperados" in _cl2[1] and "52.293 casos" in _cl2[1] and _cl2[2].startswith("Vitality: ZywOo")
+cs2_props.params = _ps; cs2_props._state.clear()
+print("ok props CS2")

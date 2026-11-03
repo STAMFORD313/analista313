@@ -7,6 +7,7 @@ import pandas as pd
 import requests
 
 import analyst as A
+import cs2_props
 
 API = "https://api.bo3.gg/api/v1/matches"
 COLS = ["id", "date", "team1", "team2", "t1_id", "t2_id", "s1", "s2", "winner_id", "bo", "tier", "tournament"]
@@ -375,7 +376,8 @@ def run_one(state, today, kg):
                 f"• H2H: {h2h}",
                 f"• Torneo: {A.esc(g['tournament'])} (nivel {g['tier'].upper()})",
                 f"• Cambios de plantilla: {A.esc(', '.join(roster)) if roster else 'ninguno'}", *players_lines(g),
-                *(sgp_lines(bet, p_map, g) if g["bo"] == 3 else [])]
+                *(sgp_lines(bet, p_map, g) if g["bo"] == 3 else []),
+                *(cs2_props.card_lines(g, p_map, bo3_scores(p_map)) if SLUG == "cs2" and g["tier"] in ("s", "a", "b") else [])]
         context = (f"{NAME} {g['team1']} vs {g['team2']}, BO{g['bo']}, torneo {g['tournament']} nivel {g['tier']}. Elo por mapa "
                    f"{r1:.0f} vs {r2:.0f} (prob. mapa {p_map:.0%}, serie {p:.0%}). Forma {form(df, g['t1_id'])} / {form(df, g['t2_id'])} "
                    f"(✅ victoria ❌ derrota). H2H {h2h}. Cambios de plantilla: {', '.join(roster) or 'ninguno'}. Cuotas Thunderpick {o1}/{o2}.")
