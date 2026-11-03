@@ -1,24 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 03/11/2026 09:38 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Kril vs Dan_dragonio — 03/11 · 09:39
-
-👀 candidata · 🎮⚽ FC 27 · Volta World Cup B · **Gana Kril** @ **1.33** (cuota justa (sin casa)) · prob 76% vs casas 76% · ventaja +0%
-
-- ❌ Valor: ventaja +0% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 54.404 partidos)  
-Goles esperados: Kril 5.72 · Dan_dragonio 3.17  
-Ganador: Kril 75% · empate 10% · Dan_dragonio 15%  
-Total: más de 8.5 goles 53% · menos 47%  
-Hándicap Kril: −1.5 63% · −2.5 50%  
-🔎 **Claves**  
-• Forma: Kril ✅✅✅✅✅ | Dan_dragonio ✅❌➖✅➖  
-• Partidos: Kril 215 | Dan_dragonio 1308  
-• Liga: Volta World Cup B  
-• Sin cuotas gratuitas de esoccer: cuota justa del modelo, solo candidata (no se apuesta).  
+Actualizado 03/11/2026 09:46 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## kamito vs Loka — 03/11 · 09:48
 
@@ -74,6 +56,24 @@ Hándicap Loka: −1.5 59% · −2.5 43%
 • Liga: EFL Championship  
 • Sin cuotas gratuitas de esoccer: cuota justa del modelo, solo candidata (no se apuesta).  
 
+## Kril vs Haiko — 03/11 · 10:15
+
+👀 candidata · 🎮⚽ FC 27 · Volta World Cup B · **Gana Kril** @ **1.40** (cuota justa (sin casa)) · prob 71% vs casas 71% · ventaja +0%
+
+- ❌ Valor: ventaja +0% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 54.422 partidos)  
+Goles esperados: Kril 4.68 · Haiko 2.65  
+Ganador: Kril 71% · empate 11% · Haiko 17%  
+Total: más de 7.5 goles 45% · menos 55%  
+Hándicap Kril: −1.5 57% · −2.5 42%  
+🔎 **Claves**  
+• Forma: Kril ✅✅✅✅✅ | Haiko ❌❌✅✅➖  
+• Partidos: Kril 215 | Haiko 1348  
+• Liga: Volta World Cup B  
+• Sin cuotas gratuitas de esoccer: cuota justa del modelo, solo candidata (no se apuesta).  
+
 ## Dan_dragonio vs Kril — 03/11 · 10:24
 
 👀 candidata · 🎮⚽ FC 27 · Volta World Cup B · **Gana Kril** @ **1.32** (cuota justa (sin casa)) · prob 76% vs casas 76% · ventaja +0%
@@ -92,6 +92,24 @@ Hándicap Kril: −1.5 63% · −2.5 50%
 • Liga: Volta World Cup B  
 • Sin cuotas gratuitas de esoccer: cuota justa del modelo, solo candidata (no se apuesta).  
 
+## Loka vs kamito — 03/11 · 10:48
+
+👀 candidata · 🎮⚽ FC 27 · EFL Championship · **Gana Loka** @ **1.39** (cuota justa (sin casa)) · prob 72% vs casas 72% · ventaja +0%
+
+- ❌ Valor: ventaja +0% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 54.422 partidos)  
+Goles esperados: Loka 5.28 · kamito 3.08  
+Ganador: Loka 72% · empate 11% · kamito 17%  
+Total: más de 8.5 goles 46% · menos 54%  
+Hándicap Loka: −1.5 59% · −2.5 45%  
+🔎 **Claves**  
+• Forma: Loka ➖➖✅✅✅ | kamito ➖❌✅✅❌  
+• Partidos: Loka 1024 | kamito 364  
+• Liga: EFL Championship  
+• Sin cuotas gratuitas de esoccer: cuota justa del modelo, solo candidata (no se apuesta).  
+
 ## Fireline vs Kril — 03/11 · 10:51
 
 👀 candidata · 🎮⚽ FC 27 · Volta World Cup B · **Gana Kril** @ **1.30** (cuota justa (sin casa)) · prob 77% vs casas 77% · ventaja +0%
@@ -108,6 +126,24 @@ Hándicap Kril: −1.5 63% · −2.5 48%
 • Forma: Fireline ❌➖❌❌❌ | Kril ✅✅✅✅✅  
 • Partidos: Fireline 56 | Kril 215  
 • Liga: Volta World Cup B  
+• Sin cuotas gratuitas de esoccer: cuota justa del modelo, solo candidata (no se apuesta).  
+
+## TikitakaMaster vs why — 03/11 · 11:18
+
+👀 candidata · 🎮⚽ FC 27 · Champions League A 2x6 · **Gana TikitakaMaster** @ **1.52** (cuota justa (sin casa)) · prob 66% vs casas 66% · ventaja +0%
+
+- ❌ Valor: ventaja +0% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 54.422 partidos)  
+Goles esperados: TikitakaMaster 4.64 · why 3.01  
+Ganador: TikitakaMaster 66% · empate 12% · why 22%  
+Total: más de 7.5 goles 50% · menos 50%  
+Hándicap TikitakaMaster: −1.5 51% · −2.5 37%  
+🔎 **Claves**  
+• Forma: TikitakaMaster ✅❌✅✅➖ | why ✅➖❌✅❌  
+• Partidos: TikitakaMaster 583 | why 513  
+• Liga: Champions League A 2x6  
 • Sin cuotas gratuitas de esoccer: cuota justa del modelo, solo candidata (no se apuesta).  
 
 ## Haiko vs Kril — 03/11 · 11:20

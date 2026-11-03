@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 03/11/2026 09:38 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 03/11/2026 09:46 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## QUAZAR vs Just Players — 03/11 · 10:00
 
