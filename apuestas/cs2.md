@@ -1,40 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 03/11/2026 09:59 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## QUAZAR vs Just Players — 03/11 · 10:00
-
-👀 candidata · 🎮 CS2 · Fiesta Series 3 · **Gana QUAZAR** @ **1.95** (Thunderpick) · prob 51% vs casas 47% · ventaja -0%
-
-- ❌ Valor: ventaja -0% (mín. 7% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 76.380 partidos)  
-Mapa: QUAZAR 53% · Serie BO3: QUAZAR 55% - 45% Just Players  
-Casas: QUAZAR 47% · Just Players 53%  
-🔎 **Claves**  
-• Elo: QUAZAR 1740 (217 series) | Just Players 1706 (93 series)  
-• Forma: QUAZAR ✅✅❌❌❌ | Just Players ✅❌✅✅✅  
-• H2H: sin precedentes  
-• Torneo: Fiesta Series 3 (nivel C)  
-• Cambios de plantilla: ninguno  
-
-## QUAZAR vs Just Players — 03/11 · 10:00
-
-👀 candidata · 🎮 CS2 · Fiesta Series 3 · **QUAZAR -1.5 mapas** @ **3.80** (Thunderpick) · prob 28% vs casas 24% · ventaja +6%
-
-- ❌ Valor: ventaja +6% (mín. 9% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 hándicap» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 76.380 partidos)  
-Mapa: QUAZAR 53% · Serie BO3: QUAZAR 55% - 45% Just Players  
-Casas: QUAZAR 47% · Just Players 53%  
-🔎 **Claves**  
-• Elo: QUAZAR 1740 (217 series) | Just Players 1706 (93 series)  
-• Forma: QUAZAR ✅✅❌❌❌ | Just Players ✅❌✅✅✅  
-• H2H: sin precedentes  
-• Torneo: Fiesta Series 3 (nivel C)  
-• Cambios de plantilla: ninguno  
+Actualizado 03/11/2026 10:11 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## FURIA vs Natus Vincere — 03/11 · 10:30
 

@@ -1,24 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 03/11/2026 09:59 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Kril vs Fireline — 03/11 · 10:06
-
-👀 candidata · 🎮⚽ FC 27 · Volta World Cup B · **Gana Kril** @ **1.30** (cuota justa (sin casa)) · prob 77% vs casas 77% · ventaja +0%
-
-- ❌ Valor: ventaja +0% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 54.404 partidos)  
-Goles esperados: Kril 4.86 · Fireline 2.40  
-Ganador: Kril 77% · empate 10% · Fireline 13%  
-Total: más de 7.5 goles 44% · menos 56%  
-Hándicap Kril: −1.5 63% · −2.5 48%  
-🔎 **Claves**  
-• Forma: Kril ✅✅✅✅✅ | Fireline ❌➖❌❌❌  
-• Partidos: Kril 215 | Fireline 56  
-• Liga: Volta World Cup B  
-• Sin cuotas gratuitas de esoccer: cuota justa del modelo, solo candidata (no se apuesta).  
+Actualizado 03/11/2026 10:11 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Loka vs saportj — 03/11 · 10:12
 
@@ -128,6 +110,24 @@ Hándicap Kril: −1.5 63% · −2.5 48%
 • Liga: Volta World Cup B  
 • Sin cuotas gratuitas de esoccer: cuota justa del modelo, solo candidata (no se apuesta).  
 
+## Totti vs Tesla — 03/11 · 11:00
+
+👀 candidata · 🎮⚽ FC 27 · World Cup A · **Gana Tesla** @ **1.56** (cuota justa (sin casa)) · prob 64% vs casas 64% · ventaja +0%
+
+- ❌ Valor: ventaja +0% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 54.422 partidos)  
+Goles esperados: Totti 2.64 · Tesla 4.09  
+Ganador: Totti 22% · empate 14% · Tesla 64%  
+Total: más de 6.5 goles 51% · menos 49%  
+Hándicap Tesla: −1.5 49% · −2.5 33%  
+🔎 **Claves**  
+• Forma: Totti ❌❌➖✅➖ | Tesla ✅✅➖✅❌  
+• Partidos: Totti 835 | Tesla 820  
+• Liga: World Cup A  
+• Sin cuotas gratuitas de esoccer: cuota justa del modelo, solo candidata (no se apuesta).  
+
 ## TikitakaMaster vs why — 03/11 · 11:18
 
 👀 candidata · 🎮⚽ FC 27 · Champions League A 2x6 · **Gana TikitakaMaster** @ **1.52** (cuota justa (sin casa)) · prob 66% vs casas 66% · ventaja +0%
@@ -234,5 +234,41 @@ Hándicap Kril: −1.5 65% · −2.5 51%
 • Forma: Kril ✅✅✅✅✅ | Fireline ❌➖❌❌❌  
 • Partidos: Kril 215 | Fireline 56  
 • Liga: Volta Europa League  
+• Sin cuotas gratuitas de esoccer: cuota justa del modelo, solo candidata (no se apuesta).  
+
+## Kril vs Haiko — 03/11 · 12:05
+
+👀 candidata · 🎮⚽ FC 27 · Volta Europa League · **Gana Kril** @ **1.38** (cuota justa (sin casa)) · prob 72% vs casas 72% · ventaja +0%
+
+- ❌ Valor: ventaja +0% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 54.422 partidos)  
+Goles esperados: Kril 4.98 · Haiko 2.82  
+Ganador: Kril 72% · empate 11% · Haiko 17%  
+Total: más de 7.5 goles 52% · menos 48%  
+Hándicap Kril: −1.5 59% · −2.5 44%  
+🔎 **Claves**  
+• Forma: Kril ✅✅✅✅✅ | Haiko ❌❌✅✅➖  
+• Partidos: Kril 215 | Haiko 1348  
+• Liga: Volta Europa League  
+• Sin cuotas gratuitas de esoccer: cuota justa del modelo, solo candidata (no se apuesta).  
+
+## kamito vs Loka — 03/11 · 12:08
+
+👀 candidata · 🎮⚽ FC 27 · CSL · **Gana Loka** @ **1.37** (cuota justa (sin casa)) · prob 73% vs casas 73% · ventaja +0%
+
+- ❌ Valor: ventaja +0% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 54.422 partidos)  
+Goles esperados: kamito 3.24 · Loka 5.55  
+Ganador: kamito 17% · empate 10% · Loka 73%  
+Total: más de 8.5 goles 52% · menos 48%  
+Hándicap Loka: −1.5 60% · −2.5 47%  
+🔎 **Claves**  
+• Forma: kamito ➖❌✅✅❌ | Loka ➖➖✅✅✅  
+• Partidos: kamito 364 | Loka 1024  
+• Liga: CSL  
 • Sin cuotas gratuitas de esoccer: cuota justa del modelo, solo candidata (no se apuesta).  
 
