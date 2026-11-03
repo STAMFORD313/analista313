@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 03/11/2026 18:13 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 03/11/2026 18:19 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## OLDBOYS PL vs Fire Flux — 03/11 · 18:30
 

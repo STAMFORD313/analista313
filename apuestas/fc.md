@@ -1,42 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 03/11/2026 18:13 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Glumac vs lzrn — 03/11 · 18:14
-
-👀 candidata · 🎮⚽ FC 27 · Super Lig · **Gana Glumac** @ **2.05** (Unibet) · prob 51% vs casas 42% · ventaja +4%
-
-- ❌ Valor: ventaja +4% (mín. 9% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 54.834 partidos)  
-Goles esperados: Glumac 3.70 · lzrn 3.13  
-Ganador: Glumac 51% · empate 17% · lzrn 32%  
-Total: más de 6.5 goles 53% · menos 47%  
-Hándicap Glumac: −1.5 36% · −2.5 22%  
-🔎 **Claves**  
-• Forma: Glumac ❌✅❌✅➖ | lzrn ✅❌✅❌➖  
-• Partidos: Glumac 672 | lzrn 719  
-• Liga: Super Lig  
-• Unibet: 1 2.05 · X 3.80 · 2 2.50 (sin margen 42%/23%/35%) · ventaja +4%. Sin stake hasta demostrar ROI con estas cuotas.  
-
-## Gazi vs Shinobu — 03/11 · 18:14
-
-👀 candidata · 🎮⚽ FC 27 · A-League · **Empate** @ **4.40** (Unibet) · prob 24% vs casas 20% · ventaja +6%
-
-- ❌ Valor: ventaja +6% (mín. 10% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 54.874 partidos)  
-Goles esperados: Gazi 1.95 · Shinobu 2.16  
-Ganador: Gazi 34% · empate 24% · Shinobu 42%  
-Total: más de 4.5 goles 39% · menos 61%  
-Hándicap Shinobu: −1.5 25% · −2.5 12%  
-🔎 **Claves**  
-• Forma: Gazi ✅✅❌❌✅ | Shinobu ✅➖✅✅➖  
-• Partidos: Gazi 316 | Shinobu 1172  
-• Liga: A-League  
-• Unibet: 1 2.12 · X 4.40 · 2 2.23 (sin margen 41%/20%/39%) · ventaja +6%. Sin stake hasta demostrar ROI con estas cuotas.  
+Actualizado 03/11/2026 18:19 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Dicca vs DEKSON — 03/11 · 18:23
 
