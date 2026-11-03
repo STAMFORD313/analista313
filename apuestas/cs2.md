@@ -1,23 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 03/11/2026 16:18 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## boyband vs ROUNDS — 03/11 · 16:30
-
-👀 candidata · 🎮 CS2 · Elisa Open Suomi Season 14 · **Gana boyband** @ **1.68** (Thunderpick) · prob 57% vs casas 55% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa. 76.347 partidos)  
-Mapa: boyband 57% · Serie BO3: boyband 60% - 40% ROUNDS  
-Casas: boyband 55% · ROUNDS 45%  
-🔎 **Claves**  
-• Elo: boyband 1423 (16 series) | ROUNDS 1350 (177 series)  
-• Forma: boyband ✅✅✅❌❌ | ROUNDS ❌❌❌❌✅  
-• H2H: 1: 0-1  
-• Torneo: Elisa Open Suomi Season 14 (nivel C)  
-• Cambios de plantilla: ninguno  
+Actualizado 03/11/2026 16:44 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## BOJONG vs eSuba — 03/11 · 18:00
 
