@@ -1,23 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 03/11/2026 21:42 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## MEIA NOITE vs BESTIA Academy — 03/11 · 22:00
-
-👀 candidata · 🎮 CS2 · Gamers Club Liga Série A: October 2026 · **Gana BESTIA Academy** @ **2.22** (Thunderpick) · prob 45% vs casas 42% · ventaja -0%
-
-- ❌ Valor: ventaja -0% (mín. 7% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 76.351 partidos)  
-Mapa: MEIA NOITE 51% · Serie BO3: MEIA NOITE 52% - 48% BESTIA Academy  
-Casas: MEIA NOITE 58% · BESTIA Academy 42%  
-🔎 **Claves**  
-• Elo: MEIA NOITE 1502 (38 series) | BESTIA Academy 1488 (137 series)  
-• Forma: MEIA NOITE ✅❌✅❌❌ | BESTIA Academy ❌❌❌❌✅  
-• H2H: sin precedentes  
-• Torneo: Gamers Club Liga Série A: October 2026 (nivel C)  
-• Cambios de plantilla: MEIA NOITE  
+Actualizado 03/11/2026 22:05 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Natus Vincere vs B8 — 04/11 · 05:30
 

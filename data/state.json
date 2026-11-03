@@ -982,7 +982,19 @@
   "cs2|133264",
   "fc|2359835",
   "fc|2360787",
-  "fc|2360150"
+  "fc|2360150",
+  "cs2|133269",
+  "cs2|133274",
+  "cs2|133279",
+  "cs2|133445",
+  "cs2|133446",
+  "cs2|133450",
+  "cs2|133451",
+  "cs2|133348",
+  "cs2|133093",
+  "fc|2359833",
+  "fc|2359838",
+  "fc|2359831"
  ],
  "signals": [
   {
@@ -6084,7 +6096,10 @@
    "placed": false,
    "captured": "2026-11-03T06:59",
    "version": "7948daf",
-   "bajas": ""
+   "bajas": "",
+   "score": "2-0",
+   "result": false,
+   "logged": true
   },
   {
    "market": "t2",
@@ -6100,24 +6115,15 @@
    "start": "2026-11-03T21:00:00+00:00",
    "league": "🎮 CS2 · Gamers Club Liga Série A: October 2026",
    "sport": "🎮",
-   "info": [
-    "📊 <b>Escenarios</b> (Elo por mapa, 76.351 partidos)",
-    "Mapa: MEIA NOITE 51% · Serie BO3: MEIA NOITE 52% - 48% BESTIA Academy",
-    "Casas: MEIA NOITE 58% · BESTIA Academy 42%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Elo: MEIA NOITE 1502 (38 series) | BESTIA Academy 1488 (137 series)",
-    "• Forma: MEIA NOITE ✅❌✅❌❌ | BESTIA Academy ❌❌❌❌✅",
-    "• H2H: sin precedentes",
-    "• Torneo: Gamers Club Liga Série A: October 2026 (nivel C)",
-    "• Cambios de plantilla: MEIA NOITE"
-   ],
    "context": "CS2 MEIA NOITE vs BESTIA Academy, BO3, torneo Gamers Club Liga Série A: October 2026 nivel c. Elo por mapa 1502 vs 1488 (prob. mapa 51%, serie 52%). Forma ✅❌✅❌❌ / ❌❌❌❌✅ (✅ victoria ❌ derrota). H2H sin precedentes. Cambios de plantilla: MEIA NOITE. Cuotas Thunderpick 1.59/2.22.",
    "considered": true,
    "placed": false,
    "captured": "2026-11-03T06:59",
    "version": "7948daf",
-   "bajas": ""
+   "bajas": "",
+   "score": "2-0",
+   "result": false,
+   "logged": true
   },
   {
    "market": "t1",
@@ -11489,7 +11495,10 @@
    "version": "970e700",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "1-1",
+   "result": true,
+   "logged": true
   },
   {
    "market": "H",
@@ -11865,7 +11874,10 @@
    "version": "3ffddd5",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "1-2",
+   "result": false,
+   "logged": true
   },
   {
    "market": "D",
@@ -11887,7 +11899,10 @@
    "bajas": "",
    "considered": true,
    "placed": false,
-   "anunciada": true
+   "anunciada": true,
+   "score": "2-3",
+   "result": false,
+   "logged": true
   },
   {
    "market": "H",
@@ -11929,7 +11944,10 @@
    "version": "7d8fd15",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "3-5",
+   "result": false,
+   "logged": true
   },
   {
    "market": "A",
@@ -12808,19 +12826,6 @@
    "start": "2026-11-03T20:56:00+00:00",
    "league": "🎮⚽ FC 27 · Copa America",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 55.014 partidos)",
-    "Goles esperados: Gazi 2.36 · mPm 3.47",
-    "Ganador: Gazi 22% · empate 17% · mPm 61%",
-    "Total: más de 5.5 goles 53% · menos 47%",
-    "Hándicap mPm: −1.5 43% · −2.5 27%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Gazi ✅➖❌✅❌ | mPm ✅✅✅❌✅",
-    "• Partidos: Gazi 332 | mPm 647",
-    "• Liga: Copa America",
-    "• Unibet: 1 2.32 · X 4.80 · 2 1.98 (sin margen 38%/18%/44%) · ventaja +20%. Sin stake hasta demostrar ROI con estas cuotas."
-   ],
    "context": "EA FC Esoccer Battle Gazi vs mPm (Copa America): goles esperados 2.36-3.47, 1X2 22%/17%/61%. Sin cuotas de casa.",
    "captured": "2026-11-03T20:17",
    "version": "a31452a",
@@ -12863,19 +12868,6 @@
    "start": "2026-11-03T20:44:00+00:00",
    "league": "🎮⚽ FC 27 · Copa America",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 55.034 partidos)",
-    "Goles esperados: Shinobu 2.54 · Gazi 2.41",
-    "Ganador: Shinobu 42% · empate 22% · Gazi 37%",
-    "Total: más de 4.5 goles 55% · menos 45%",
-    "Hándicap Shinobu: −1.5 26% · −2.5 14%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Shinobu ❌❌❌✅❌ | Gazi ✅➖❌✅❌",
-    "• Partidos: Shinobu 1188 | Gazi 332",
-    "• Liga: Copa America",
-    "• Unibet: 1 1.94 · X 5.50 · 2 2.25 (sin margen 45%/16%/39%) · ventaja +18%. Sin stake hasta demostrar ROI con estas cuotas."
-   ],
    "context": "EA FC Esoccer Battle Shinobu vs Gazi (Copa America): goles esperados 2.54-2.41, 1X2 42%/22%/37%. Sin cuotas de casa.",
    "captured": "2026-11-03T20:33",
    "version": "4fd4a23",
@@ -12897,25 +12889,15 @@
    "start": "2026-11-03T20:43:00+00:00",
    "league": "🎮⚽ FC 27 · Serie A",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 55.034 partidos)",
-    "Goles esperados: DEKSON 2.08 · Dicca 2.69",
-    "Ganador: DEKSON 27% · empate 21% · Dicca 51%",
-    "Total: más de 4.5 goles 52% · menos 48%",
-    "Hándicap Dicca: −1.5 33% · −2.5 19%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: DEKSON ➖❌❌❌✅ | Dicca ➖✅❌➖❌",
-    "• Partidos: DEKSON 449 | Dicca 593",
-    "• Liga: Serie A",
-    "• Unibet: 1 3.10 · X 5.60 · 2 1.58 (sin margen 28%/16%/56%) · ventaja +18%. Sin stake hasta demostrar ROI con estas cuotas."
-   ],
    "context": "EA FC Esoccer Battle DEKSON vs Dicca (Serie A): goles esperados 2.08-2.69, 1X2 27%/21%/51%. Sin cuotas de casa.",
    "captured": "2026-11-03T20:33",
    "version": "4fd4a23",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "4-2",
+   "result": false,
+   "logged": true
   },
   {
    "market": "D",
@@ -13049,6 +13031,108 @@
    "context": "EA FC Esoccer Battle mPm vs Shinobu (Copa America): goles esperados 3.80-2.73, 1X2 60%/17%/24%. Sin cuotas de casa.",
    "captured": "2026-11-03T20:42",
    "version": "2474317",
+   "bajas": "",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "H",
+   "pick": "OG",
+   "odds": 2.55,
+   "book": "Unibet",
+   "implied": 0.342,
+   "edge": 0.111,
+   "sin_stake": true,
+   "p": 0.436,
+   "key": "fc|2359833",
+   "match": "OG vs RossFCDK",
+   "start": "2026-11-03T21:22:00+00:00",
+   "league": "🎮⚽ FC 27 · Portugal Primera",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 55.074 partidos)",
+    "Goles esperados: OG 2.46 · RossFCDK 2.22",
+    "Ganador: OG 44% · empate 22% · RossFCDK 34%",
+    "Total: más de 4.5 goles 50% · menos 50%",
+    "Hándicap OG: −1.5 27% · −2.5 14%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: OG ✅❌➖➖➖ | RossFCDK ✅✅➖➖❌",
+    "• Partidos: OG 488 | RossFCDK 451",
+    "• Liga: Portugal Primera",
+    "• Unibet: 1 2.55 · X 4.00 · 2 1.98 (sin margen 34%/22%/44%) · ventaja +11%. Sin stake hasta demostrar ROI con estas cuotas."
+   ],
+   "context": "EA FC Esoccer Battle OG vs RossFCDK (Portugal Primera): goles esperados 2.46-2.22, 1X2 44%/22%/34%. Sin cuotas de casa.",
+   "captured": "2026-11-03T21:05",
+   "version": "6d16940",
+   "bajas": "",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "H",
+   "pick": "OG",
+   "odds": 4.8,
+   "book": "Unibet",
+   "implied": 0.18,
+   "edge": 0.085,
+   "sin_stake": true,
+   "p": 0.226,
+   "key": "fc|2359838",
+   "match": "OG vs Kray",
+   "start": "2026-11-03T21:46:00+00:00",
+   "league": "🎮⚽ FC 27 · Portugal Primera",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 55.074 partidos)",
+    "Goles esperados: OG 2.50 · Kray 3.61",
+    "Ganador: OG 23% · empate 17% · Kray 60%",
+    "Total: más de 6.5 goles 41% · menos 59%",
+    "Hándicap Kray: −1.5 43% · −2.5 28%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: OG ✅❌➖➖➖ | Kray ❌❌❌➖❌",
+    "• Partidos: OG 488 | Kray 487",
+    "• Liga: Portugal Primera",
+    "• Unibet: 1 4.80 · X 4.60 · 2 1.37 (sin margen 18%/19%/63%) · ventaja +8%. Sin stake hasta demostrar ROI con estas cuotas."
+   ],
+   "context": "EA FC Esoccer Battle OG vs Kray (Portugal Primera): goles esperados 2.50-3.61, 1X2 23%/17%/60%. Sin cuotas de casa.",
+   "captured": "2026-11-03T21:05",
+   "version": "6d16940",
+   "bajas": "",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "D",
+   "pick": "Empate",
+   "odds": 6.25,
+   "book": "Unibet",
+   "implied": 0.139,
+   "edge": 0.063,
+   "sin_stake": true,
+   "p": 0.17,
+   "key": "fc|2359831",
+   "match": "RossFCDK vs Kray",
+   "start": "2026-11-03T21:10:00+00:00",
+   "league": "🎮⚽ FC 27 · Portugal Primera",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 55.074 partidos)",
+    "Goles esperados: RossFCDK 2.14 · Kray 3.41",
+    "Ganador: RossFCDK 19% · empate 17% · Kray 64%",
+    "Total: más de 5.5 goles 48% · menos 52%",
+    "Hándicap Kray: −1.5 45% · −2.5 29%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: RossFCDK ✅✅➖➖❌ | Kray ❌❌❌➖❌",
+    "• Partidos: RossFCDK 451 | Kray 487",
+    "• Liga: Portugal Primera",
+    "• Unibet: 1 5.20 · X 6.25 · 2 1.25 (sin margen 17%/14%/69%) · ventaja +6%. Sin stake hasta demostrar ROI con estas cuotas."
+   ],
+   "context": "EA FC Esoccer Battle RossFCDK vs Kray (Portugal Primera): goles esperados 2.14-3.41, 1X2 19%/17%/64%. Sin cuotas de casa.",
+   "captured": "2026-11-03T21:05",
+   "version": "6d16940",
    "bajas": "",
    "considered": true,
    "placed": false
