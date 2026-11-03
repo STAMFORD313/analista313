@@ -116,24 +116,14 @@ Responde SOLO con JSON: {{"apostar": true, "confianza": 3, "motivo": "1-2 frases
 
 
 def single_card(s, stake, bank, reason, conf):
-    conf = int(conf) if str(conf).isdigit() else 1 + min(4, round(s["edge"] * 20))
-    return "\n".join([
-        header(s), "🎯 <b>APUESTA DEL BOT</b>", LINE,
-        *boleto.boleto(s["match"], [(pick_text(s), None)], s["odds"], stake, when=when(s)),
-        f"📈 Prob. bot <b>{s['p']:.0%}</b> vs casa {s.get('implied', 1 / s['odds']):.0%} · ventaja <b>{s['edge']:+.0%}</b> · "
-        f"{A.esc(s.get('book', ''))} · {stars(max(1, min(5, conf)))}",
-        LINE, *s.get("info", []), LINE,
-        *([f"🤖 <i>{A.esc(reason)}</i>"] if reason else []),
-        bank_line(bank)])
+    """Solo la apuesta: partido, selección, cuota y cuánto apostar (el análisis queda en el menú y en apuestas/*.md)."""
+    return "\n".join([f"🎯 <b>APUESTA</b> · {A.esc(s.get('league', ''))}",
+                      *boleto.boleto(s["match"], [(pick_text(s), None)], s["odds"], stake, when=when(s))])
 
 
 def combo_card(legs, stake, odds, bank):
-    p = math.prod(s["p"] for s in legs)
-    return "\n".join([
-        f"🔗 <b>COMBINADA DEL BOT</b> · {len(legs)} selecciones", LINE,
-        *boleto.boleto(None, [(s["match"], f"{pick_text(s)} @ {s['odds']:.2f} · 🕒 {when(s)}", None) for s in legs], odds, stake),
-        f"📈 Prob. bot conjunta {p:.0%} · ventaja {p * odds - 1:+.0%}",
-        bank_line(bank)])
+    return "\n".join([f"🔗 <b>COMBINADA</b> · {len(legs)} selecciones",
+                      *boleto.boleto(None, [(s["match"], f"{pick_text(s)} · 🕒 {when(s)}", None) for s in legs], odds, stake)])
 
 
 def result_card(b, legs, bank):
@@ -148,7 +138,7 @@ def result_card(b, legs, bank):
     if res is True: money = f"Cuota: <b>{odds:.2f}</b> · Apuesta: {b['stake']:.2f} € · ✅ Ganado: <b>{b['return']:.2f} €</b>"
     elif res is False: money = f"Cuota: <b>{odds:.2f}</b> · Apuesta: {b['stake']:.2f} € · ❌ Perdido: <b>{b['stake']:.2f} €</b>"
     else: money = f"➖ Nula: se devuelven {b['stake']:.2f} €"
-    return "\n".join([head + (" · COMBINADA" if len(legs) > 1 else ""), LINE, *lines, money, bank_line(bank)])
+    return "\n".join([head + (" · COMBINADA" if len(legs) > 1 else ""), *lines, money])
 
 
 def settle(bank, signals, kg):

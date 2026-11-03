@@ -84,19 +84,10 @@ def fc_card(state):
     if state.get("fc_sent") and now - pd.Timestamp(state["fc_sent"]) < FC_EVERY: return
     new = sorted((s for s in upcoming(state) if s.get("sport") == FC_ICON and not s.get("anunciada")), key=lambda s: -s["p"])[:5]
     if not new: return
-    lines = [f"{FC_ICON} <b>FC 27 · PRONÓSTICOS</b>", "Con cuota de Unibet cuando la hay; el bot aún no apuesta (sin ROI demostrado)."]
-    try:
-        import esoccer
-        if (m := esoccer.market_report()):
-            lines.append(f"📈 Frente a Unibet: {m['partidos']} partidos · log-loss modelo {m['ll_modelo']} vs casa {m['ll_mercado']}"
-                         + (f" · {m['apuestas']} con ventaja ≥5 %: ROI {m['roi']:+.0%} ± {m['roi_se'] or 0:.0%}" if m["apuestas"] else ""))
-    except Exception as e: print("informe FC", repr(e))
-    lines.append(B.LINE)
+    import boleto
+    lines = [f"{FC_ICON} <b>FC 27 · APUESTAS</b> (simuladas, 1 €)"]
     for s in new:
-        import boleto
-        lines += [*boleto.boleto(s["match"], [(B.pick_text(s), None)], s["odds"], None, when=B.when(s),
-                                 odds_label="Cuota Unibet" if s.get("book") == "Unibet" else "Cuota justa"),
-                  f"   Prob. bot {s['p']:.0%}", *[f"   {l}" for l in s["info"][1:5]], ""]
+        lines += ["", *boleto.boleto(s["match"], [(B.pick_text(s), None)], s["odds"], 1.0, when=B.when(s))]
         s["anunciada"] = True
     A.send_card("\n".join(lines))
     state["fc_sent"] = now.isoformat()
@@ -138,40 +129,38 @@ def sgp_results_card(state):
     if new.empty or "piernas_ok" not in d: return
     new = new[new.piernas_ok.notna()]
     sim = new[new.simulada == 1] if "simulada" in new else new.iloc[:0]
-    show = pd.concat([sim, new[~new.index.isin(sim.index)]]).head(8)
-    lines = ["📋 <b>RESULTADOS DE COMBINADAS</b>", "✅/❌ en cada selección: la ❌ es la que falló. Las SIMULADAS llevan 1 € de la banca de prueba.", B.LINE]
+    show = sim.head(8)  # solo las que el bot «apostó»
+    if show.empty: state["sgp_res_n"] = len(d); return
+    lines = ["📋 <b>RESULTADOS DE COMBINADAS</b>"]
     for r in show.itertuples():
         oks = str(r.piernas_ok).split(".")[0].zfill(int(r.piernas))
         legs = [(t, o == "1") for t, o in zip(str(r.piernas_txt).split(" + "), oks)]
         odds = r.cuota if pd.notna(getattr(r, "cuota", None)) else 1 / r.p
-        lines += [f"{'🎯 SIMULADA · ' if getattr(r, 'simulada', 0) == 1 else ''}{r.fecha}",
-                  *boleto.boleto(r.partido, legs, odds, 1.0, odds_label="Cuota aprox." if pd.notna(getattr(r, "cuota", None)) else "Cuota justa"), ""]
-    if (h := football_stats.sgp_history()): lines.append(h)
+        lines += ["", *boleto.boleto(r.partido, legs, odds, 1.0)]
+    sm = d[d.simulada == 1] if "simulada" in d else d.iloc[:0]
+    if len(sm): lines += ["", f"💰 Total simuladas: {len(sm)} · {sm.ganancia.sum():+.2f} €"]
     A.send_card("\n".join(lines))
     state["sgp_res_sent"], state["sgp_res_n"] = now.isoformat(), len(d)
 
 
 def combos_card(state):
-    """Tarjeta «🧩 COMBINADAS» con las combinadas de estadísticas (córners, faltas, tarjetas, tiros a puerta, goles) de los
-    próximos partidos de fútbol, de football_stats.card_lines / euro_lines: una vez por partido, como mucho cada 3 h y
-    5 partidos por tarjeta (los de antes primero). Son candidatas: el bot no las apuesta."""
+    """Tarjeta «🧩 COMBINADAS»: solo las combinadas que el bot apuesta (simuladas a 1 €), una por partido (la de más
+    ventaja), como boleto: partido, selecciones, cuota y apuesta. Como mucho cada 3 h y 6 partidos."""
+    import boleto
     now = pd.Timestamp.now(tz="UTC")
     if state.get("combo_sent") and now - pd.Timestamp(state["combo_sent"]) < COMBO_EVERY: return
-    by = {}
-    for s in sorted(upcoming(state), key=lambda s: s["start"]):
-        if s["key"] in by or s.get("combo_anunciada") or not any(l.startswith(("🧩", "🚀")) for l in s["info"]): continue
-        by[s["key"]] = s
-    new = list(by.values())[:COMBO_MAX]
-    if not new: return
-    lines = ["🧩 <b>COMBINADAS DE ESTADÍSTICAS</b>",
-             "Córners, faltas, tarjetas y tiros a puerta de cada equipo (su media, forma y rival). Cuota justa = la mínima "
-             "que tiene que pagar la casa para que valga la pena. Candidatas: el bot no las apuesta.",
-             *([h] if (h := football_stats.sgp_history()) else ["📈 Historial real: aún sin combinadas liquidadas (se registran desde hoy)."]),
-             B.LINE]
-    for s in new:
-        lines += combo_slips(state, s)
-        for x in state["signals"]:
-            if x["key"] == s["key"]: x["combo_anunciada"] = True
+    picks = []
+    for k, v in (state.get("sgp") or {}).items():
+        if v.get("anunciada") or pd.Timestamp(v["start"]) <= now: continue
+        sims = [c for c in v["combos"] if c.get("sim") and c.get("odds")]
+        if sims: picks.append((v["start"], k, v, max(sims, key=lambda c: c["edge"])))
+    picks = sorted(picks, key=lambda x: x[0])[:6]
+    if not picks: return
+    lines = ["🧩 <b>COMBINADAS</b> (simuladas, 1 €)"]
+    for start, k, v, c in picks:
+        lines += ["", *boleto.boleto(v["match"], [(l["text"], None) for l in c["legs"]], c["odds"], 1.0,
+                                     when=pd.Timestamp(start).tz_convert("Europe/Madrid").strftime("%d/%m · %H:%M"))]
+        v["anunciada"] = True
     A.send_card("\n".join(lines))
     state["combo_sent"] = now.isoformat()
 
@@ -231,8 +220,7 @@ def fc_sim_card(state):
     if state.get("fc_sim_sent") and now - pd.Timestamp(state["fc_sim_sent"]) < SIM_EVERY: return
     d = esoccer.simulation()
     if d.empty or len(d) <= state.get("fc_sim_n", 0): return
-    A.send_card("\n".join([f"{FC_ICON} <b>FC 27 · SIMULACIÓN</b>", "Cómo habrían salido los pronósticos que te mandó el bot.", B.LINE,
-                            *esoccer.sim_lines(10)]))
+    A.send_card("\n".join([f"{FC_ICON} <b>FC 27 · RESULTADOS</b>", *esoccer.sim_lines(10)]))
     state["fc_sim_sent"], state["fc_sim_n"] = now.isoformat(), len(d)
 
 

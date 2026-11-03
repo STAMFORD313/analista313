@@ -241,34 +241,22 @@ def sim_lines(last=8):
     d = simulation()
     if d.empty: return ["🧪 <b>Simulación</b>: aún no hay pronósticos de FC 27 jugados."]
     u = d[d.odds.notna()]
-    out = [f"🧪 <b>RESUMEN</b> · {len(d)} pronósticos jugados (prob. del bot → acierto real)",
-           f"Ganador ({len(d)}): {d.p_pick.mean():.0%} → <b>{d.ok_1x2.mean():.0%}</b>"
-           + (f" · Total más/menos ({d.ok_tot.notna().sum()}): {d.p_tot.mean():.0%} → <b>{d.ok_tot.mean():.0%}</b>" if d.ok_tot.notna().any() else "")
-           + (f" · Favorito −1.5 ({d.ok_h15.notna().sum()}): {d.p_h15.mean():.0%} → <b>{d.ok_h15.mean():.0%}</b>" if d.ok_h15.notna().any() else ""),
-           f"Apostando 1 € a cada ganador: a cuota justa {d.g_justa.sum():+.2f} €"
-           + (f" · con cuota de Unibet ({len(u)}): <b>{u.g_unibet.sum():+.2f} €</b> (ROI {u.g_unibet.mean():+.0%})" if len(u) else
-              " · aún sin pronósticos con cuota de Unibet jugados")]
-    wt = d[d.p_wt.notna()]
-    if len(wt): out.append(f"🧩 Ganador + total del mismo partido ({len(wt)}): prevista {wt.p_wt.mean():.0%} → acertadas <b>{wt.ok_wt.mean():.0%}</b>")
-    lc = lot_combos(d)
-    if len(lc): out.append(f"🔗 Combinada de cada tarjeta ({len(lc)}): prevista {lc.p.mean():.0%} → acertadas <b>{lc.ok.mean():.0%}</b> · "
-                           f"a 1 € con Unibet {lc.g_unibet.sum():+.2f} €" if lc.g_unibet.notna().any() else
-                           f"🔗 Combinada de cada tarjeta ({len(lc)}): prevista {lc.p.mean():.0%} → acertadas <b>{lc.ok.mean():.0%}</b>")
-    out += ["", "<b>Últimas apuestas simuladas (1 € al ganador)</b>"]
+    u = d[d.odds.notna()]
+    g = u.g_unibet if len(u) else d.g_justa
+    out = [f"💰 Total ({len(g)} apuestas de 1 €): <b>{g.sum():+.2f} €</b> · acertadas {(g > 0).mean():.0%}"]
     import boleto
     for r in d.tail(last).itertuples():
         win = {"1": r.p1, "X": "Empate", "2": r.p2}[str(r.pick)]
         odds = r.odds if pd.notna(r.odds) else 1 / r.p_pick
-        out += [*boleto.boleto(f"{r.p1} vs {r.p2} ({int(r.s1)}-{int(r.s2)})", [(f"Gana {win}" if win != "Empate" else "Empate", bool(r.ok_1x2))],
-                               odds, 1.0, odds_label="Cuota Unibet" if pd.notna(r.odds) else "Cuota justa"), ""]
+        out += ["", *boleto.boleto(f"{r.p1} vs {r.p2} ({int(r.s1)}-{int(r.s2)})", [(f"Gana {win}" if win != "Empate" else "Empate", bool(r.ok_1x2))],
+                                   odds, 1.0)]
     lots = d.dropna(subset=["lote"]) if "lote" in d else d.iloc[:0]
     lots = [g for _, g in lots.groupby("lote") if len(g) >= 2][-2:]
-    if lots: out.append("<b>Últimas combinadas de tarjeta (1 €)</b>")
     for g in lots:
         legs = [(f"{r.p1} vs {r.p2} ({int(r.s1)}-{int(r.s2)})", {"1": f"Gana {r.p1}", "X": "Empate", "2": f"Gana {r.p2}"}[str(r.pick)], bool(r.ok_1x2))
                 for r in g.itertuples()]
         odds = float(g.odds.prod()) if g.odds.notna().all() else float((1 / g.p_pick).prod())
-        out += [*boleto.boleto(None, legs, odds, 1.0, odds_label="Cuota Unibet" if g.odds.notna().all() else "Cuota justa"), ""]
+        out += ["", "🔗 Combinada", *boleto.boleto(None, legs, odds, 1.0)]
     return out
 
 
