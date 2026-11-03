@@ -902,7 +902,7 @@
   "cs2|133278",
   "fc|2360870",
   "fc|2360100",
-  "fc|2360099"
+  "fc|2360871"
  ],
  "signals": [
   {
@@ -11997,8 +11997,8 @@
     "• Unibet: 1 2.43 · X 4.40 · 2 1.97 (sin margen 36%/20%/44%) · ventaja +15%. Sin stake hasta demostrar ROI con estas cuotas."
    ],
    "context": "EA FC Esoccer Battle lzrn vs chevare (Champions League B): goles esperados 2.91-3.90, 1X2 25%/16%/58%. Sin cuotas de casa.",
-   "captured": "2026-11-03T15:13",
-   "version": "b4acf44",
+   "captured": "2026-11-03T15:18",
+   "version": "9d270fa",
    "bajas": "",
    "considered": true,
    "placed": false,
@@ -12032,43 +12032,43 @@
     "• Unibet: 1 3.35 · X 7.00 · 2 1.40 (sin margen 26%/12%/62%) · ventaja +13%. Sin stake hasta demostrar ROI con estas cuotas."
    ],
    "context": "EA FC Esoccer Battle Shinobu vs mPm (Eredivisie): goles esperados 2.54-3.77, 1X2 21%/16%/62%. Sin cuotas de casa.",
-   "captured": "2026-11-03T15:13",
-   "version": "b4acf44",
+   "captured": "2026-11-03T15:18",
+   "version": "9d270fa",
    "bajas": "",
    "considered": true,
    "placed": false,
    "anunciada": true
   },
   {
-   "market": "D",
-   "pick": "Empate",
-   "odds": 5.5,
+   "market": "H",
+   "pick": "llulle",
+   "odds": 2.65,
    "book": "Unibet",
-   "implied": 0.16,
-   "edge": 0.098,
+   "implied": 0.329,
+   "edge": 0.117,
    "sin_stake": true,
-   "p": 0.2,
-   "key": "fc|2360099",
-   "match": "Gazi vs ramzes",
-   "start": "2026-11-03T15:28:00+00:00",
-   "league": "🎮⚽ FC 27 · Eredivisie",
+   "p": 0.421,
+   "key": "fc|2360871",
+   "match": "llulle vs lzrn",
+   "start": "2026-11-03T15:52:00+00:00",
+   "league": "🎮⚽ FC 27 · Champions League B",
    "sport": "🎮⚽",
    "info": [
     "📊 <b>Escenarios</b> (Poisson por jugador, 54.754 partidos)",
-    "Goles esperados: Gazi 2.57 · ramzes 2.93",
-    "Ganador: Gazi 33% · empate 20% · ramzes 47%",
-    "Total: más de 5.5 goles 47% · menos 53%",
-    "Hándicap ramzes: −1.5 31% · −2.5 18%",
+    "Goles esperados: llulle 2.76 · lzrn 2.64",
+    "Ganador: llulle 42% · empate 20% · lzrn 37%",
+    "Total: más de 5.5 goles 45% · menos 55%",
+    "Hándicap llulle: −1.5 27% · −2.5 15%",
     "",
     "🔎 <b>Claves</b>",
-    "• Forma: Gazi ➖❌❌✅❌ | ramzes ✅❌✅❌❌",
-    "• Partidos: Gazi 308 | ramzes 972",
-    "• Liga: Eredivisie",
-    "• Unibet: 1 2.45 · X 5.50 · 2 1.82 (sin margen 36%/16%/48%) · ventaja +10%. Sin stake hasta demostrar ROI con estas cuotas."
+    "• Forma: llulle ➖❌✅✅✅ | lzrn ✅❌✅❌➖",
+    "• Partidos: llulle 793 | lzrn 719",
+    "• Liga: Champions League B",
+    "• Unibet: 1 2.65 · X 4.25 · 2 1.87 (sin margen 33%/21%/47%) · ventaja +12%. Sin stake hasta demostrar ROI con estas cuotas."
    ],
-   "context": "EA FC Esoccer Battle Gazi vs ramzes (Eredivisie): goles esperados 2.57-2.93, 1X2 33%/20%/47%. Sin cuotas de casa.",
-   "captured": "2026-11-03T15:13",
-   "version": "b4acf44",
+   "context": "EA FC Esoccer Battle llulle vs lzrn (Champions League B): goles esperados 2.76-2.64, 1X2 42%/20%/37%. Sin cuotas de casa.",
+   "captured": "2026-11-03T15:18",
+   "version": "9d270fa",
    "bajas": "",
    "considered": true,
    "placed": false,
@@ -12489,7 +12489,7 @@
  },
  "scoreboard_id": 132,
  "scoreboard_text": "📊 <b>MARCADOR DEL BOT</b>\n━━━━━━━━━━━━━━━\n🟩 Ganadas: <b>8</b> (35 %)\n🟥 Perdidas: <b>15</b> (65 %)\n⏳ En juego: 4\n\nÚltimas 23:\n🟥🟥🟥🟩🟥🟩🟥🟥🟥🟥🟥🟥🟥🟥🟩🟥🟥🟩🟩🟩🟩🟩🟥\n━━━━━━━━━━━━━━━\n💵 Beneficio -15.04 $ · ROI -32.4 %\n📐 CLV medio +2.5 % (cuota cogida vs cierre)\n💰 Banca: <b>84.96 $</b> (-15.04 $ desde 100 $) · libre 79.50 ${\"inline_keyboard\": [[{\"text\": \"\\ud83d\\udcc8 Ver historial completo y fallos\", \"url\": \"https://github.com/STAMFORD313/analista313/blob/main/ESTADISTICAS.md\"}], [{\"text\": \"\\u26bd F\\u00fatbol\", \"callback_data\": \"dep:futbol\"}, {\"text\": \"\\ud83c\\udfc0 NBA\\u00b7NCAA\", \"callback_data\": \"dep:nba\"}, {\"text\": \"\\ud83c\\udfc8 NFL\\u00b7NCAA\", \"callback_data\": \"dep:nfl\"}], [{\"text\": \"\\ud83c\\udfc6 Champions\\u00b7Europa\", \"callback_data\": \"dep:europa\"}, {\"text\": \"\\ud83c\\udfd2 NHL\", \"callback_data\": \"dep:nhl\"}, {\"text\": \"\\u26be MLB\", \"callback_data\": \"dep:mlb\"}], [{\"text\": \"\\ud83e\\udd4a UFC\", \"callback_data\": \"dep:ufc\"}, {\"text\": \"\\ud83c\\udfbe Tenis\", \"callback_data\": \"dep:tenis\"}, {\"text\": \"\\ud83c\\udfae CS2\", \"callback_data\": \"dep:cs2\"}], [{\"text\": \"\\ud83d\\udc09 Dota 2\", \"callback_data\": \"dep:dota2\"}, {\"text\": \"\\ud83e\\uddd9 LoL\", \"callback_data\": \"dep:lol\"}, {\"text\": \"\\ud83d\\udd2b R6 Siege\", \"callback_data\": \"dep:r6\"}], [{\"text\": \"\\ud83d\\udcf1 MLBB\", \"callback_data\": \"dep:mlbb\"}, {\"text\": \"\\ud83c\\udfae\\u26bd FC 27\", \"callback_data\": \"dep:fc\"}]]}",
- "fc_sent": "2026-11-03T15:13:59.455468+00:00",
+ "fc_sent": "2026-11-03T15:18:37.969493+00:00",
  "sgp": {
   "E1|2026-11-03|Blackburn|Stoke": {
    "match": "Blackburn vs Stoke",
@@ -13284,5 +13284,15 @@
  },
  "combo_sent": "2026-11-03T13:15:55.864264+00:00",
  "fc_sim_sent": "2026-11-03T12:47:34.461252+00:00",
- "fc_sim_n": 24
+ "fc_sim_n": 24,
+ "kambi_ok": [
+  "E1|2026-11-03|Blackburn|Stoke",
+  "E1|2026-11-03|Charlton|Bolton",
+  "E1|2026-11-03|Derby|Norwich",
+  "E1|2026-11-03|Portsmouth|Swansea",
+  "E1|2026-11-03|Preston|Sheffield Utd",
+  "E1|2026-11-03|Watford|Lincoln",
+  "E1|2026-11-03|Birmingham|Millwall",
+  "E1|2026-11-03|West Brom|Southampton"
+ ]
 }

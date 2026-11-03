@@ -1,6 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 03/11/2026 16:14 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 03/11/2026 16:18 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Shinobu vs mPm — 03/11 · 16:28
 
@@ -20,24 +20,6 @@ Hándicap mPm: −1.5 45% · −2.5 30%
 • Liga: Eredivisie  
 • Unibet: 1 3.35 · X 7.00 · 2 1.40 (sin margen 26%/12%/62%) · ventaja +13%. Sin stake hasta demostrar ROI con estas cuotas.  
 
-## Gazi vs ramzes — 03/11 · 16:28
-
-👀 candidata · 🎮⚽ FC 27 · Eredivisie · **Empate** @ **5.50** (Unibet) · prob 20% vs casas 16% · ventaja +10%
-
-- ❌ Valor: ventaja +10% (mín. 11% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 54.754 partidos)  
-Goles esperados: Gazi 2.57 · ramzes 2.93  
-Ganador: Gazi 33% · empate 20% · ramzes 47%  
-Total: más de 5.5 goles 47% · menos 53%  
-Hándicap ramzes: −1.5 31% · −2.5 18%  
-🔎 **Claves**  
-• Forma: Gazi ➖❌❌✅❌ | ramzes ✅❌✅❌❌  
-• Partidos: Gazi 308 | ramzes 972  
-• Liga: Eredivisie  
-• Unibet: 1 2.45 · X 5.50 · 2 1.82 (sin margen 36%/16%/48%) · ventaja +10%. Sin stake hasta demostrar ROI con estas cuotas.  
-
 ## lzrn vs chevare — 03/11 · 16:40
 
 👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana chevare** @ **1.97** (Unibet) · prob 58% vs casas 44% · ventaja +15%
@@ -55,4 +37,22 @@ Hándicap chevare: −1.5 42% · −2.5 28%
 • Partidos: lzrn 719 | chevare 504  
 • Liga: Champions League B  
 • Unibet: 1 2.43 · X 4.40 · 2 1.97 (sin margen 36%/20%/44%) · ventaja +15%. Sin stake hasta demostrar ROI con estas cuotas.  
+
+## llulle vs lzrn — 03/11 · 16:52
+
+👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana llulle** @ **2.65** (Unibet) · prob 42% vs casas 33% · ventaja +12%
+
+- ✅ Valor: ventaja +12% (mín. 11% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 54.754 partidos)  
+Goles esperados: llulle 2.76 · lzrn 2.64  
+Ganador: llulle 42% · empate 20% · lzrn 37%  
+Total: más de 5.5 goles 45% · menos 55%  
+Hándicap llulle: −1.5 27% · −2.5 15%  
+🔎 **Claves**  
+• Forma: llulle ➖❌✅✅✅ | lzrn ✅❌✅❌➖  
+• Partidos: llulle 793 | lzrn 719  
+• Liga: Champions League B  
+• Unibet: 1 2.65 · X 4.25 · 2 1.87 (sin margen 33%/21%/47%) · ventaja +12%. Sin stake hasta demostrar ROI con estas cuotas.  
 
