@@ -513,3 +513,22 @@ _cl2 = cs2_props.card_lines({"t1_id": 10, "t2_id": 20, "team1": "Vitality", "tea
 assert "Kills esperados" in _cl2[1] and "52.293 casos" in _cl2[1] and _cl2[2].startswith("Vitality: ZywOo")
 cs2_props.params = _ps; cs2_props._state.clear()
 print("ok props CS2")
+
+# partidos ya analizados: se vuelve a mirar Unibet hasta encontrarlos (analyst.kambi_recheck)
+import analyst as _AN
+_ko, _lo, _vs = _AN.kambi.offers, _AN.football_stats.log_offers, _AN.football_stats.value_signals
+_AN.kambi.offers = lambda *a, **k: {}
+_ks = {"signals": [{"key": "E1|2026-11-04|Cardiff|West Ham", "market": "H", "info": ["📊 x"], "context": "c"}], "kambi_ok": []}
+_row = {"Div": "E1", "HomeTeam": "Cardiff", "AwayTeam": "West Ham"}
+_st = pd.Timestamp("2026-11-04 20:00", tz="Europe/London")
+_AN.kambi_recheck(_ks, None, _row, "E1|2026-11-04|Cardiff|West Ham", _st, None)
+assert _ks["kambi_ok"] == [] and len(_ks["signals"]) == 1  # Unibet aún no lo tiene: se reintenta en el próximo run
+_logged = []
+_AN.kambi.offers = lambda *a, **k: {("corners", "t"): {9.5: {"o": 1.9, "u": 1.9}}, ("cards", "t"): {4.5: {"o": 1.8, "u": 2.0}}}
+_AN.football_stats.log_offers = lambda *a: _logged.append(a[-1])
+_AN.football_stats.value_signals = lambda df, div, h, a, t, off: [{"market": "corners_t_o", "line": 9.5, "odds": 1.9, "p": 0.6, "edge": 0.14, "pick": "Más de 9.5 córners"}] if list(off) == [("corners", "t")] else []
+_AN.kambi_recheck(_ks, None, _row, "E1|2026-11-04|Cardiff|West Ham", _st, None)
+assert _ks["kambi_ok"] == ["E1|2026-11-04|Cardiff|West Ham"] and len(_logged[0]) == 2  # registra todas las estadísticas
+assert _ks["signals"][-1]["market"] == "corners_t_o" and _ks["signals"][-1]["info"] == ["📊 x"]  # señal solo de córners, con su info
+_AN.kambi.offers, _AN.football_stats.log_offers, _AN.football_stats.value_signals = _ko, _lo, _vs
+print("ok Unibet se vuelve a mirar")

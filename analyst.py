@@ -355,10 +355,29 @@ def settle_signals(df, state, today):
             s["result"] = "nula"  # aplazado o sin resultado
 
 
+def kambi_recheck(state, stats_df, row, k, start, today):
+    """Partido ya analizado: si Unibet ya lo tiene, registra sus líneas de estadísticas y añade las señales de córners
+    (una sola vez por partido: state["kambi_ok"])."""
+    div, home, away = row["Div"], row["HomeTeam"], row["AwayTeam"]
+    offers = kambi.offers(home, away, start, ("corners", *kambi.STAT_LABELS))
+    if not offers: return
+    state["kambi_ok"].append(k)
+    football_stats.log_offers(stats_df, div, home, away, today, start, offers)
+    old = next((s for s in state["signals"] if s["key"] == k and s.get("info")), None)
+    info = old["info"] if old else ["📊 <b>Córners</b> (cuota de Unibet publicada después del análisis)",
+                                    *football_stats.card_lines(stats_df, div, home, away, today, {"O25": 0.5})[1:-1]]
+    have = {s["market"] for s in state["signals"] if s["key"] == k}
+    for v in football_stats.value_signals(stats_df, div, home, away, today, {x: y for x, y in offers.items() if x[0] == "corners"}):
+        if v["market"] in have: continue
+        state["signals"].append({**v, "key": k, "match": f"{home} vs {away}", "start": start.isoformat(), "league": ALL_LEAGUES[div],
+                                 "sport": "⚽", "info": info, "context": old["context"] if old else f"{home} vs {away} ({ALL_LEAGUES[div]}): córners."})
+
+
 def analyze_fixtures(df, state, today, kg):
     fx = fixtures()
     fx = fx[(fx.Date >= today) & (fx.Date <= today + pd.Timedelta(days=HORIZON_DAYS))]
     dated = lambda k: k.split("|")[1][4:5] == "-"  # las claves de CS2 son "cs2|<id>", sin fecha: se guardan las 1000 últimas
+    state["kambi_ok"] = [k for k in state.get("kambi_ok", []) if k.split("|")[1] >= f"{today - pd.Timedelta(days=3):%Y-%m-%d}"]
     state["analyzed"] = ([k for k in state["analyzed"] if dated(k) and k.split("|")[1] >= f"{today - pd.Timedelta(days=7):%Y-%m-%d}"]
                          + [k for k in state["analyzed"] if not dated(k)][-1000:])
     models, inj, now = {}, {}, pd.Timestamp.now(tz="UTC")
@@ -370,8 +389,13 @@ def analyze_fixtures(df, state, today, kg):
         k = key(row)
         # shortcut: hora de fixtures.csv tomada como hora de Londres (las ligas "nuevas" también la dan así)
         start = pd.Timestamp(f"{row['Date']:%Y-%m-%d} {row.get('Time') or '00:00'}", tz="Europe/London")
-        if k in state["analyzed"] or start <= now: continue  # ya empezado
+        if start <= now: continue  # ya empezado
         div, home, away = row["Div"], row["HomeTeam"], row["AwayTeam"]
+        if k in state["analyzed"]:  # analizado antes de que Unibet lo publicara: se vuelve a mirar hasta encontrarlo
+            if div in LEAGUES and k not in state.setdefault("kambi_ok", []) and start - now < pd.Timedelta(days=2):
+                try: kambi_recheck(state, stats_df, row, k, start, today)
+                except Exception as e: print("Kambi recheck", repr(e))
+            continue
         if div not in models: models[div], inj[div] = strengths(df, div, today), injuries(div)
         squads = [inj[div].get(find_team(t, inj[div]), []) for t in (home, away)]
         played = [int(((season.HomeTeam == t) | (season.AwayTeam == t)).sum()) for t in (home, away)]
@@ -382,6 +406,7 @@ def analyze_fixtures(df, state, today, kg):
         state["analyzed"].append(k)
         cands = value_bets(P, row, every=True) + ah_bets(P, row, every=True)
         offers = kambi.offers(home, away, start, ("corners", *kambi.STAT_LABELS)) if div in LEAGUES else {}
+        if offers: state.setdefault("kambi_ok", []).append(k)  # ya tiene cuotas: no hace falta volver a mirar
         try: football_stats.log_offers(stats_df, div, home, away, today, start, offers)  # todas: para medir modelo vs Unibet
         except Exception as e: print("registro Kambi", repr(e))
         sv = football_stats.value_signals(stats_df, div, home, away, today, {k: v for k, v in offers.items() if k[0] == "corners"})
