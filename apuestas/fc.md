@@ -1,24 +1,24 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 03/11/2026 19:41 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 03/11/2026 19:48 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## Gazi vs mPm — 03/11 · 19:46
+## DEKSON vs Linox — 03/11 · 19:55
 
-👀 candidata · 🎮⚽ FC 27 · Copa America · **Gana mPm** @ **1.83** (Unibet) · prob 60% vs casas 48% · ventaja +9%
+👀 candidata · 🎮⚽ FC 27 · Serie A · **Empate** @ **4.20** (Unibet) · prob 25% vs casas 21% · ventaja +6%
 
-- ❌ Valor: ventaja +9% (mín. 10% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+- ❌ Valor: ventaja +6% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 54.894 partidos)  
-Goles esperados: Gazi 2.32 · mPm 3.36  
-Ganador: Gazi 23% · empate 18% · mPm 60%  
-Total: más de 5.5 goles 50% · menos 50%  
-Hándicap mPm: −1.5 42% · −2.5 26%  
+📊 **Escenarios** (Poisson por jugador, 54.954 partidos)  
+Goles esperados: DEKSON 1.83 · Linox 1.98  
+Ganador: DEKSON 34% · empate 25% · Linox 41%  
+Total: más de 3.5 goles 53% · menos 47%  
+Hándicap Linox: −1.5 23% · −2.5 11%  
 🔎 **Claves**  
-• Forma: Gazi ✅❌➖✅❌ | mPm ❌✅❌❌❌  
-• Partidos: Gazi 324 | mPm 639  
-• Liga: Copa America  
-• Unibet: 1 2.55 · X 4.90 · 2 1.83 (sin margen 34%/18%/48%) · ventaja +9%. Sin stake hasta demostrar ROI con estas cuotas.  
+• Forma: DEKSON ➖❌❌❌✅ | Linox ✅✅✅✅➖  
+• Partidos: DEKSON 449 | Linox 735  
+• Liga: Serie A  
+• Unibet: 1 2.38 · X 4.20 · 2 2.04 (sin margen 37%/21%/43%) · ventaja +6%. Sin stake hasta demostrar ROI con estas cuotas.  
 
 ## DEKSON vs Linox — 03/11 · 19:55
 
@@ -74,21 +74,39 @@ Hándicap mPm: −1.5 39% · −2.5 25%
 • Liga: Copa America  
 • Unibet: 1 1.70 · X 6.40 · 2 2.55 (sin margen 52%/14%/35%) · ventaja +12%. Sin stake hasta demostrar ROI con estas cuotas.  
 
-## ramzes vs Gazi — 03/11 · 19:58
+## SDI vs Gazi — 03/11 · 20:10
 
-👀 candidata · 🎮⚽ FC 27 · Copa America · **Empate** @ **5.00** (Unibet) · prob 20% vs casas 17% · ventaja -0%
+👀 candidata · 🎮⚽ FC 27 · Copa America · **Empate** @ **5.50** (Unibet) · prob 20% vs casas 16% · ventaja +9%
 
-- ❌ Valor: ventaja -0% (mín. 8% con la incertidumbre, máx. 30%)
+- ❌ Valor: ventaja +9% (mín. 10% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
 
 📊 **Escenarios** (Poisson por jugador, 54.954 partidos)  
-Goles esperados: ramzes 2.91 · Gazi 2.72  
-Ganador: ramzes 43% · empate 20% · Gazi 37%  
-Total: más de 5.5 goles 49% · menos 51%  
-Hándicap ramzes: −1.5 28% · −2.5 16%  
+Goles esperados: SDI 2.87 · Gazi 2.84  
+Ganador: SDI 40% · empate 20% · Gazi 40%  
+Total: más de 5.5 goles 51% · menos 49%  
+Hándicap SDI: −1.5 26% · −2.5 14%  
 🔎 **Claves**  
-• Forma: ramzes ❌❌❌➖✅ | Gazi ✅❌➖✅❌  
-• Partidos: ramzes 988 | Gazi 324  
+• Forma: SDI ❌✅✅✅➖ | Gazi ✅❌➖✅❌  
+• Partidos: SDI 324 | Gazi 324  
 • Liga: Copa America  
-• Unibet: 1 2.00 · X 5.00 · 2 2.23 (sin margen 44%/17%/39%) · ventaja -0%. Sin stake hasta demostrar ROI con estas cuotas.  
+• Unibet: 1 2.18 · X 5.50 · 2 2.00 (sin margen 40%/16%/44%) · ventaja +9%. Sin stake hasta demostrar ROI con estas cuotas.  
+
+## lzrn vs llulle — 03/11 · 20:22
+
+👀 candidata · 🎮⚽ FC 27 · Premier League · **Gana llulle** @ **2.60** (Unibet) · prob 41% vs casas 34% · ventaja +7%
+
+- ❌ Valor: ventaja +7% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 54.954 partidos)  
+Goles esperados: lzrn 2.61 · llulle 2.68  
+Ganador: lzrn 38% · empate 21% · llulle 41%  
+Total: más de 5.5 goles 43% · menos 57%  
+Hándicap llulle: −1.5 26% · −2.5 14%  
+🔎 **Claves**  
+• Forma: lzrn ❌✅➖❌✅ | llulle ❌✅➖➖➖  
+• Partidos: lzrn 727 | llulle 801  
+• Liga: Premier League  
+• Unibet: 1 1.92 · X 4.20 · 2 2.60 (sin margen 46%/21%/34%) · ventaja +7%. Sin stake hasta demostrar ROI con estas cuotas.  
 
