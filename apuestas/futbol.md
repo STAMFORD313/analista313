@@ -1,6 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 03/11/2026 11:07 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 03/11/2026 11:11 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Chapecoense-SC vs Mirassol — 03/11 · 23:30
 
