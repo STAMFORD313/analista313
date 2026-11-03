@@ -91,9 +91,38 @@ def fc_card(state):
     state["fc_sent"] = now.isoformat()
 
 
+COMBO_EVERY, COMBO_MAX = pd.Timedelta(hours=3), 5
+
+
+def combos_card(state):
+    """Tarjeta «🧩 COMBINADAS» con las combinadas de estadísticas (córners, faltas, tarjetas, tiros a puerta, goles) de los
+    próximos partidos de fútbol, de football_stats.card_lines / euro_lines: una vez por partido, como mucho cada 3 h y
+    5 partidos por tarjeta (los de antes primero). Son candidatas: el bot no las apuesta."""
+    now = pd.Timestamp.now(tz="UTC")
+    if state.get("combo_sent") and now - pd.Timestamp(state["combo_sent"]) < COMBO_EVERY: return
+    by = {}
+    for s in sorted(upcoming(state), key=lambda s: s["start"]):
+        if s["key"] in by or s.get("combo_anunciada") or not any(l.startswith(("🧩", "🚀")) for l in s["info"]): continue
+        by[s["key"]] = s
+    new = list(by.values())[:COMBO_MAX]
+    if not new: return
+    lines = ["🧩 <b>COMBINADAS DE ESTADÍSTICAS</b>",
+             "Córners, faltas, tarjetas y tiros a puerta de cada equipo (su media, forma y rival). Cuota justa = la mínima "
+             "que tiene que pagar la casa para que valga la pena. Candidatas: el bot no las apuesta.", B.LINE]
+    for s in new:
+        st = [l for l in s["info"] if l.startswith(("Córners", "Faltas", "Tarjetas", "Tiros a puerta"))]
+        lines += [f"<b>{A.esc(s['match']).replace(' vs ', ' 🆚 ')}</b> · 🕒 {B.when(s)} · {A.esc(s.get('league', ''))}",
+                  *[f"   {l}" for l in st], *[l for l in s["info"] if l.startswith(("🧩", "🚀"))], ""]
+        for x in state["signals"]:
+            if x["key"] == s["key"]: x["combo_anunciada"] = True
+    A.send_card("\n".join(lines))
+    state["combo_sent"] = now.isoformat()
+
+
 def run(state, today):
     radar(state, today)
     fc_card(state)
+    combos_card(state)
     pages(state)
 
 

@@ -105,3 +105,4 @@
 - [sesión-usuario] córners con cuota real (kambi.py + football_stats.value_signals, d693ed4). AVISO: ese commit subió también football_stats.py y sus cambios en analyst.py, que estaban sin commitear en el árbol (de quien hizo la entrada del 03-11 en MEJORAS); los completo subiendo data/football_stats.json y la línea de entrenar.yml. Revisad que es lo que queríais.
 - [agente-mejora] edito esports.py solo para añadir `sgp_lines` (combinada del mismo partido en BO3) y su llamada al final de `info`; creo train_sgp_esports.py (guarda "sgp" en data/<juego>/params.json, informativo).
 - [agente-mejora] multisport.py: solo 2 líneas (import football_stats y `info += football_stats.euro_lines(...)` en ucl/uel).
+- [agente-mejora] radar.py: nueva `combos_card` (llamada en run); multisport.py: `euro_backfill` al empezar run.

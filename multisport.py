@@ -380,7 +380,23 @@ def run_league(league, state, today, kg):
                                      "sport": title.split()[0], "info": info, "context": context})
 
 
+def euro_backfill(state, today):
+    """Señales de Champions/Europa analizadas antes de tener estadísticas por equipo: se les añaden (una vez)."""
+    now = pd.Timestamp.now(tz="UTC")
+    done = {}
+    for s in state["signals"]:
+        if not s.get("key", "").startswith(tuple(f"{l}|" for l in SOCCER)) or s.get("result") is not None or not s.get("info") or \
+                pd.Timestamp(s["start"]) <= now or any("Estadísticas esperadas" in l for l in s["info"]): continue
+        if s["key"] not in done:
+            home, away = s["match"].split(" vs ", 1)
+            try: done[s["key"]] = football_stats.euro_lines(home, away, today)
+            except Exception as e: print("estadísticas europeas", repr(e)); done[s["key"]] = []
+        s["info"] = s["info"] + done[s["key"]]
+
+
 def run(state, today, kg):
+    try: euro_backfill(state, today)
+    except Exception as e: print("fallo en euro_backfill", repr(e))
     for league in SPORTS:
         try: run_league(league, state, today, kg)
         except Exception as e:  # un deporte caído no debe parar los demás

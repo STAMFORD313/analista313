@@ -350,3 +350,23 @@ assert football_stats.form_factor(_fd, "corners", "Hull", pd.Timestamp("2027-01-
 assert football_stats.form_factor(_fd, "cards", "Leeds", pd.Timestamp("2027-01-01"), _P) == 1.0   # sin c: sin ajuste
 football_stats._cache.clear()
 print("ok forma reciente en estadísticas")
+
+# tarjeta «🧩 COMBINADAS» (radar.combos_card) y relleno de estadísticas en Champions (multisport.euro_backfill)
+_fut = (pd.Timestamp.now(tz="UTC") + pd.Timedelta(days=1)).isoformat()
+_cs = {"bank": {"bets": []}, "signals": [
+    {"key": "ucl|x|Barcelona|Aston Villa", "market": "home", "match": "Barcelona vs Aston Villa", "start": _fut, "p": 0.7, "odds": 1.3,
+     "edge": -0.04, "league": "🏆 Champions League", "info": ["📊", "Córners 6.4 - 3.9: total +10.5 45%", "🧩 Crear apuesta: A + B → prob. 45%, cuota justa 2.22"]},
+    {"key": "ucl|x|Barcelona|Aston Villa", "market": "D", "match": "Barcelona vs Aston Villa", "start": _fut, "p": 0.2, "odds": 6,
+     "edge": -0.05, "league": "🏆 Champions League", "info": ["📊", "🧩 Crear apuesta: A + B → prob. 45%, cuota justa 2.22"]},
+    {"key": "nba|x|A|B", "market": "home", "match": "A vs B", "start": _fut, "p": 0.6, "odds": 1.8, "edge": 0.0, "info": ["📊"]}]}
+cards.clear(); radar.A.send_card = cards.append
+radar.combos_card(_cs); radar.combos_card(_cs)
+assert len(cards) == 1 and cards[0].count("Barcelona 🆚 Aston Villa") == 1 and "Córners 6.4" in cards[0] and "A 🆚 B" not in cards[0]
+assert all(s.get("combo_anunciada") for s in _cs["signals"][:2])
+import multisport as _MS
+_eb = {"signals": [{"key": "ucl|2026-11-03|Barcelona|Aston Villa", "match": "Barcelona vs Aston Villa", "start": _fut, "info": ["📊"]}]}
+_el, _MS.football_stats.euro_lines = _MS.football_stats.euro_lines, lambda h, a, t: ["", "📐 <b>Estadísticas esperadas</b>", "🧩 x"]
+_MS.euro_backfill(_eb, None); _MS.euro_backfill(_eb, None)
+_MS.football_stats.euro_lines = _el
+assert _eb["signals"][0]["info"] == ["📊", "", "📐 <b>Estadísticas esperadas</b>", "🧩 x"]  # una sola vez
+print("ok tarjeta de combinadas")
