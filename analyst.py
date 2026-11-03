@@ -336,6 +336,8 @@ def send_card(text): tg("sendMessage", text=text[:4000], parse_mode="HTML", disa
 # ---------- tareas ----------
 def settle_signals(df, state, today):
     recent = {key(r): r for r in df[df.Date >= today - pd.Timedelta(days=30)].to_dict("records")}
+    try: print("combinadas de estadísticas liquidadas:", football_stats.settle_sgp(state, recent, today))
+    except Exception as e: print("fallo en settle_sgp", repr(e))
     for s in state["signals"]:
         if s.get("result") is None and s["key"] in recent:
             r = recent[s["key"]]
@@ -398,6 +400,8 @@ def analyze_fixtures(df, state, today, kg):
                 f"• Favorito de las casas: {esc(pick.get(fav, 'Empate'))} @ {best_odds(row, fav)[0] or 0:.2f}"]
         stat_lines = football_stats.card_lines(stats_df, div, home, away, today, P)
         info += stat_lines
+        if football_stats.LAST:  # se liquidan después del partido para tener historial real (football_stats.settle_sgp)
+            state.setdefault("sgp", {})[k] = {"match": f"{home} vs {away}", "start": start.isoformat(), "combos": list(football_stats.LAST)}
         context = (f"{home} vs {away} ({ALL_LEAGUES[div]}). Modelo Poisson con historial desde 2005 y bajas: "
                    f"1 {P['H']:.0%} X {P['D']:.0%} 2 {P['A']:.0%}, +2.5 {P['O25']:.0%}, ambos marcan {P['BTTS']:.0%}. "
                    f"Forma {home} {form(df, home)}, {away} {form(df, away)} (✅ victoria ➖ empate ❌ derrota). "

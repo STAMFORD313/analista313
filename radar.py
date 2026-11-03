@@ -2,6 +2,8 @@
 y una página por deporte (apuestas/<deporte>.md) que se abre desde los botones del mensaje fijado."""
 import pandas as pd
 
+import football_stats
+
 import analyst as A
 import bankroll as B
 import esports
@@ -108,7 +110,9 @@ def combos_card(state):
     if not new: return
     lines = ["🧩 <b>COMBINADAS DE ESTADÍSTICAS</b>",
              "Córners, faltas, tarjetas y tiros a puerta de cada equipo (su media, forma y rival). Cuota justa = la mínima "
-             "que tiene que pagar la casa para que valga la pena. Candidatas: el bot no las apuesta.", B.LINE]
+             "que tiene que pagar la casa para que valga la pena. Candidatas: el bot no las apuesta.",
+             *([h] if (h := football_stats.sgp_history()) else ["📈 Historial real: aún sin combinadas liquidadas (se registran desde hoy)."]),
+             B.LINE]
     for s in new:
         st = [l for l in s["info"] if l.startswith(("Córners", "Faltas", "Tarjetas", "Tiros a puerta"))]
         lines += [f"<b>{A.esc(s['match']).replace(' vs ', ' 🆚 ')}</b> · 🕒 {B.when(s)} · {A.esc(s.get('league', ''))}",

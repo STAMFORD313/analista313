@@ -370,3 +370,21 @@ _MS.euro_backfill(_eb, None); _MS.euro_backfill(_eb, None)
 _MS.football_stats.euro_lines = _el
 assert _eb["signals"][0]["info"] == ["📊", "", "📐 <b>Estadísticas esperadas</b>", "🧩 x"]  # una sola vez
 print("ok tarjeta de combinadas")
+
+# historial real de las combinadas de estadísticas (football_stats.settle_sgp / sgp_history)
+football_stats.SGP_LOG = Path(tempfile.mkdtemp()) / "sgp_log.csv"
+_leg = lambda v, s, l, p: {"var": v, "sign": s, "line": l, "p": p, "text": v}
+_sg = {"sgp": {"E0|2026-11-01|Leeds|Hull": {"match": "Leeds vs Hull", "start": "2026-11-01T15:00:00+00:00", "combos": [
+          {"kind": "corta", "p": 0.4, "legs": [_leg("corners_h", 1, 5.5, 0.6), _leg("goals_t", -1, 2.5, 0.65)]},
+          {"kind": "larga", "p": 0.2, "legs": [_leg("corners_h", 1, 5.5, 0.6), _leg("cards_a", 1, 1.5, 0.6)]}]},
+       "E0|2026-11-02|Spurs|Wolves": {"match": "Spurs vs Wolves", "start": "2026-11-02T15:00:00+00:00", "combos": [
+          {"kind": "corta", "p": 0.4, "legs": [_leg("corners_t", 1, 9.5, 0.6), _leg("goals_t", 1, 2.5, 0.6)]}]}}}
+_rec = {"E0|2026-11-01|Leeds|Hull": {"FTHG": 1, "FTAG": 0, "HC": 7, "AC": 2, "HY": 1, "AY": 1, "HR": 0, "AR": 0},
+        "E0|2026-11-02|Spurs|Wolves": {"FTHG": 3, "FTAG": 1, "HC": float("nan"), "AC": float("nan")}}  # sin córners aún
+assert football_stats.settle_sgp(_sg, _rec, pd.Timestamp("2026-11-03")) == 2
+assert list(_sg["sgp"]) == ["E0|2026-11-02|Spurs|Wolves"]  # la de Spurs espera a que football-data traiga los córners
+_h = pd.read_csv(football_stats.SGP_LOG)
+assert _h.acierto.tolist() == [1, 0] and _h.piernas_acertadas.tolist() == [2, 1]
+assert "cortas 1: previsto 40%, acertadas 100%" in football_stats.sgp_history()
+assert football_stats.settle_sgp(_sg, {}, pd.Timestamp("2026-11-20")) == 0 and not _sg["sgp"]  # >10 días: fuera
+print("ok historial de combinadas")

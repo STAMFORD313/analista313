@@ -265,8 +265,59 @@ def joint(legs, cov, rho=None):
     return min(max(p * (1 + corr), 0.0), min(l["p"] for l in legs))
 
 
+LAST = []  # combinadas de la última card_lines (las registra analyst para liquidarlas: historial real de acierto)
+SGP_LOG = Path(__file__).parent / "data" / "sgp_log.csv"
+
+
+def _combo(kind, legs, pj):
+    return {"kind": kind, "p": round(float(pj), 4),
+            "legs": [{"var": l["var"], "sign": l["sign"], "line": float(l["line"]), "p": round(float(l["p"]), 4), "text": l["text"]} for l in legs]}
+
+
+def leg_hit(leg, r):
+    """True/False de una pierna con la fila de football-data; None si la fila aún no trae la estadística."""
+    stat, sc = leg["var"].rsplit("_", 1)
+    h, a = ("FTHG", "FTAG") if stat == "goals" else STATS[stat][:2]
+    x = {"t": r.get(h, np.nan) + r.get(a, np.nan), "h": r.get(h, np.nan), "a": r.get(a, np.nan)}[sc]
+    return None if pd.isna(x) else bool(x > leg["line"]) == (leg["sign"] > 0)
+
+
+def settle_sgp(state, recent, today):
+    """Liquida las combinadas registradas (state["sgp"]) con los partidos ya jugados (recent: clave → fila) y las añade
+    a data/sgp_log.csv; borra las de más de 10 días sin resultado."""
+    rows, keep = [], {}
+    for k, v in (state.get("sgp") or {}).items():
+        r = recent.get(k)
+        hits = [[leg_hit(l, r) for l in c["legs"]] for c in v["combos"]] if r is not None else None
+        if hits and all(h is not None for hh in hits for h in hh):
+            for c, hh in zip(v["combos"], hits):
+                rows.append({"fecha": v["start"][:10], "partido": v["match"], "tipo": c["kind"], "piernas": len(c["legs"]),
+                             "p": c["p"], "acierto": int(all(hh)), "piernas_acertadas": sum(hh),
+                             "p_piernas": round(float(np.mean([l["p"] for l in c["legs"]])), 4)})
+        elif v["start"][:10] >= f"{today - pd.Timedelta(days=10):%Y-%m-%d}": keep[k] = v
+    state["sgp"] = keep
+    if rows:
+        new = pd.DataFrame(rows)
+        old = pd.read_csv(SGP_LOG) if SGP_LOG.exists() else new.iloc[:0]
+        pd.concat([old, new]).to_csv(SGP_LOG, index=False)
+    return len(rows)
+
+
+def sgp_history():
+    """Texto con el historial real de las combinadas liquidadas (prob. media prevista frente a acierto), o ""."""
+    if not SGP_LOG.exists(): return ""
+    d = pd.read_csv(SGP_LOG)
+    if d.empty: return ""
+    out = []
+    for kind, g in d.groupby("tipo"):
+        out.append(f"{kind}s {len(g)}: previsto {g.p.mean():.0%}, acertadas {g.acierto.mean():.0%} "
+                   f"(piernas {g.piernas_acertadas.sum() / g.piernas.sum():.0%} vs {g.p_piernas.mean():.0%})")
+    return "📈 Historial real: " + " · ".join(out)
+
+
 def card_lines(df, div, home, away, today, P_goals, cross=None):
     """`cross`: {stat: esperados} de cross_expected (partidos europeos). Líneas para la tarjeta del partido (texto HTML), con la combinada «crear apuesta» y su cuota justa."""
+    LAST.clear()
     if not PARAMS.exists(): return []
     P = json.loads(PARAMS.read_text())
     lines, legs = ["", "📐 <b>Estadísticas esperadas</b>"], []
@@ -286,7 +337,7 @@ def card_lines(df, div, home, away, today, P_goals, cross=None):
                  ("a", pa, lta, away, rho and P[stat]["team_ou"] < P[stat]["team_ou_base"])) if ok]
         if opts:
             sc, p0, ln, who = max(opts, key=lambda o: max(o[1], 1 - o[1]))
-            legs.append({"stat": stat, "var": f"{stat}_{sc}", "sign": 1 if p0 >= 0.5 else -1, "p": max(p0, 1 - p0),
+            legs.append({"stat": stat, "var": f"{stat}_{sc}", "sign": 1 if p0 >= 0.5 else -1, "p": max(p0, 1 - p0), "line": ln,
                          "text": f"{'Más' if p0 >= 0.5 else 'Menos'} de {ln} {name}{who}"})
     if len(lines) == 2: return []
     if cross is not None:  # partido europeo: goles con el mismo cruce (Poisson), en vez del modelo de la liga
@@ -295,7 +346,7 @@ def card_lines(df, div, home, away, today, P_goals, cross=None):
         P_goals = {"O25": float(1 - S.poisson.cdf(2, sum(cross["goals"][:2])))} if "goals" in cross else P_goals
         if not P_goals: return lines
     po = P_goals["O25"]
-    legs.append({"stat": "goals", "var": "goals_t", "sign": 1 if po >= 0.5 else -1, "p": max(po, 1 - po),
+    legs.append({"stat": "goals", "var": "goals_t", "sign": 1 if po >= 0.5 else -1, "p": max(po, 1 - po), "line": 2.5,
                  "text": f"{'Más' if po >= 0.5 else 'Menos'} de 2.5 goles"})
     allr = sorted(legs, key=lambda l: -l["p"])
     legs = [l for l in allr if l["p"] >= COMBO_MIN_P][:3]
@@ -303,10 +354,12 @@ def card_lines(df, div, home, away, today, P_goals, cross=None):
         pj = joint(legs, P.get("cov", {}), rho)
         lines.append(f"🧩 Crear apuesta: {' + '.join(l['text'] for l in legs)} → prob. {pj:.0%}, cuota justa {1 / pj:.2f} "
                      f"(solo vale si la casa paga más)")
+        LAST.append(_combo("corta", legs, pj))
     long_ = [l for l in allr if l["p"] >= LONG_MIN_P][:5]  # combinada larga: más cuota, una pierna por estadístico (cópula)
     if len(long_) > max(len(legs), 2) and rho:
         pj = joint(long_, P.get("cov", {}), rho)
         lines.append(f"🚀 Combinada larga: {' + '.join(l['text'] for l in long_)} → prob. {pj:.0%}, cuota justa {1 / pj:.2f}")
+        LAST.append(_combo("larga", long_, pj))
     return lines
 
 
