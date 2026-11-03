@@ -1,6 +1,6 @@
 # Estadísticas del bot
 
-Actualizado: 03/11/2026 15:13
+Actualizado: 03/11/2026 15:20
 
 **Ganadas 8 / perdidas 15** (35 % acierto) · beneficio -15.04 $ · ROI -32.4 % · banca 84.96 $
 
@@ -58,6 +58,7 @@ Si el bot está bien calibrado, el acierto real se parece a la prob. media. Brie
 
 | Fecha | Apuesta | Cuota | Stake | Resultado |
 |---|---|---|---|---|
+| 2026-11-03 | The MongolZ vs FURIA → FURIA +1.5 mapas | 1.69 | 1.2 $ | ⏳ +0.00 $ |
 | 2026-11-03 | Combinada: Menos de 72.5 puntos + Baltimore Ravens +8.5 | 3.82 | 1.65 $ | ⏳ +0.00 $ |
 | 2026-11-03 | Florida Atlantic Owls vs UTSA Roadrunners → Menos de 72.5 puntos | 1.91 | 1.35 $ | ⏳ +0.00 $ |
 | 2026-11-03 | Baltimore Ravens vs Jacksonville Jaguars → Baltimore Ravens +8.5 | 2.0 | 1.26 $ | ⏳ +0.00 $ |
