@@ -195,6 +195,8 @@ def paper_lines(min_n=3):
         import football_players
         if football_players.LOG.exists() and (pp := football_players.report()):
             out += ["⚽👤 <b>Props de jugador (Unibet)</b>: real · prob. casa · prob. modelo", *pp]
+        import nba_props
+        if (pn := nba_props.report()): out += ["🏀👤 <b>Props NBA (Unibet)</b>: modelo vs casa", *pn]
     except Exception as e: print("props de jugador", repr(e))
     out.append("🟢/🔴 = gana/pierde con margen (2 errores típicos, mín. 20) · ⚪ = aún es ruido: hacen falta más partidos")
     return out

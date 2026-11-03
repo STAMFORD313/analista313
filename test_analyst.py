@@ -797,3 +797,25 @@ _np2 = kambi.nba_props("Los Angeles Lakers", "Boston Celtics", "2026-11-05T00:30
 assert len(_np2) == 2 and _np2[0]["jugador"] == "LeBron James" and _np2[0]["linea"] == 25.5 and kambi.LABELS_SEEN.get("NBA · Moneyline")
 kambi.get, kambi._nba = _kg2, _nb0
 print("ok props NBA de Unibet")
+
+# props NBA: liquidación de Unibet y modelo vs casa (nba_props.settle / report)
+assert nba_props.stat_of("Points scored by the player - Including Overtime") == "puntos" and nba_props.stat_of("3-point field goals made") == "triples"
+assert nba_props.stat_of("Points + Rebounds by the player") is None and nba_props.norm("James, LeBron") == "lebron james"
+_tr, _pa, _lg = nba_props.T.rows, nba_props.params, nba_props.LOG
+_rr = pd.DataFrame([{"date": pd.Timestamp(f"2026-10-{i:02d}T00:30:00Z"), "game": str(i), "pid": "3", "name": "LeBron James", "team": "LAL",
+                     "min": 35.0, "puntos": 25.0 + i, "rebotes": 8.0, "asistencias": 8.0, "triples": 2.0} for i in range(1, 15)])
+nba_props.T.rows = lambda: _rr
+nba_props.params = lambda: {"a_min": 0.2, "a_rate": 0.05, "k": 50, "stats": {s: {"r": 30.0} for s in ("puntos", "rebotes", "asistencias", "triples")}}
+nba_props.LOG = Path(tempfile.mkdtemp()) / "pl.csv"
+_kf = A_.DATA / "nba" / "kambi_props.csv"; _kb = _kf.read_bytes() if _kf.exists() else None
+pd.DataFrame([{"mercado": "Points scored by the player", "jugador": "LeBron James", "tipo": t, "linea": 35.5, "cuota": c, "seen": "2026-10-14T10:00:00+00:00",
+               "start": "2026-10-14T00:30:00+00:00", "home": "Lakers", "away": "Celtics"} for t, c in (("OT_OVER", 1.9), ("OT_UNDER", 1.9))]).to_csv(_kf, index=False)
+try:
+    _sn = nba_props.settle()
+    assert len(_sn) == 1 and _sn.mas.iloc[0] == 1 and _sn.p_casa_mas.iloc[0] == 0.5 and _sn.esperado.iloc[0] > 25  # 39 puntos > 35.5
+    assert nba_props.report()[0].startswith("puntos (1)")
+finally:
+    if _kb is None: _kf.unlink()
+    else: _kf.write_bytes(_kb)
+    nba_props.T.rows, nba_props.params, nba_props.LOG = _tr, _pa, _lg
+print("ok liquidación props NBA")

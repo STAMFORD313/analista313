@@ -23,6 +23,7 @@ EXPERTS = {
     "sondeo_esports": (12, 10, [PY, "sondeo.py"], "Disciplinas nuevas de bo3.gg y esports con cuota en Unibet"),
     # ── evaluadores (comparan con la casa usando lo ya jugado) ─────────────────────────────────────────────────
     "props_futbol": (0, 15, [PY, "football_players.py"], "Props de jugador de fútbol: backtest y liquidación de las cuotas de Unibet"),
+    "props_nba": (0, 10, [PY, "nba_props.py"], "Props de jugador NBA: liquida las cuotas de Unibet y mide el modelo contra la casa"),
     "estrategias": (0, 10, [PY, "estrategias.py"], "Busca segmentos rentables/perdedores con validación (ajusta el stake de la banca)"),
     "juez_mercado": (24, 40, [PY, "market_check.py"], "Modelo vs cuotas de CIERRE de DraftKings por liga y mercado: fija el peso del modelo (0 = no apostar)"),
     # ── entrenadores (diarios; solo guardan si no empeoran fuera de muestra) ──────────────────────────────────
