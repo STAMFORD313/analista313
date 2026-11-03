@@ -116,7 +116,7 @@ def update(max_games=1500, seasons=3, pause=0.4):
             done = {json.loads(l)["id"] for l in p.open(encoding="utf-8")} if p.exists() else set()
             if back:  # historial: desde el día en que se quedó, hacia atrás
                 start = pd.Timestamp(prog.get(slug, f"{today - pd.Timedelta(days=8):%Y-%m-%d}"), tz="UTC")
-                days = pd.date_range(end=start, periods=40, freq="D")[::-1]
+                days = pd.date_range(end=start, periods=150, freq="D")[::-1]
                 if start < today - pd.DateOffset(years=seasons): continue
             else: days = pd.date_range(end=today, periods=7, freq="D")[::-1]
             with p.open("a", encoding="utf-8") as f:

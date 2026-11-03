@@ -437,6 +437,11 @@ def run_league(league, state, today, kg):
                  f"• H2H: {h2h}",
                  f"• Bajas: {A.absences_line(home, squads[0])}; {A.absences_line(away, squads[1])}",
                  f"• Favorito de las casas: {A.esc(fav)} @ {min(oh, oa):.2f}"]
+        if league == "nba":  # props de jugador (train_nba_props.py), sin los lesionados
+            try:
+                import nba_props
+                info += nba_props.card_lines(home, away, [x["name"] for sq in squads for x in sq if x.get("status") == "lesionado"])
+            except Exception as e: print("props NBA", repr(e))
         if soccer:  # Champions / Europa: córners, tarjetas, faltas y tiros a puerta con lo que hace cada equipo en su liga
             try:
                 info += football_stats.euro_lines(home, away, today)

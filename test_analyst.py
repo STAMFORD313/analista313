@@ -666,3 +666,17 @@ assert _pc and _pc["kind"] == "valor" and all(l["var"] != "fouls_h" for l in _pc
 assert abs(_pc["odds"] - np.prod([l["odds"] for l in _pc["legs"]])) < 0.01 and abs(_pc["edge"] - (_pc["p"] * _pc["odds"] - 1)) < 0.02
 assert football_stats.priced_combo(_pool[:1], _pa2) is None
 print("ok combinada con cuota de Unibet")
+
+# props de jugador NBA (train_nba_props.py → nba_props.card_lines)
+import nba_props
+_np0, _ns0 = nba_props.params, dict(nba_props._state)
+nba_props.params = lambda: {"a_min": 0.2, "a_rate": 0.05, "k": 50, "stats": {s: {"r": 20.0, "ou": 0.66, "ou_ref": 0.68} for s in
+                                                                           ("puntos", "rebotes", "asistencias", "triples")}}
+nba_props._state["teams"] = {"Miami Heat": [("Giannis Antetokounmpo", 34.0, {"puntos": 0.9, "rebotes": 0.35, "asistencias": 0.2, "triples": 0.01}, None),
+                                            ("Bam Adebayo", 32.0, {"puntos": 0.5, "rebotes": 0.3, "asistencias": 0.12, "triples": 0.02}, None)],
+                             "Boston Celtics": [("Derrick White", 30.0, {"puntos": 0.45, "rebotes": 0.12, "asistencias": 0.14, "triples": 0.07}, None)]}
+_nl = nba_props.card_lines("Miami Heat", "Boston Celtics", ["Bam Adebayo"])
+assert any(l.startswith("Giannis Antetokounmpo (Heat, 34 min): 30.6") for l in _nl) and not any("Bam" in l for l in _nl)
+assert any(l.startswith("Derrick White (Celtics") for l in _nl)
+nba_props.params = _np0; nba_props._state.clear(); nba_props._state.update(_ns0)
+print("ok props NBA")
