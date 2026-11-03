@@ -1,42 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 03/11/2026 22:12 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Buu vs ZORO — 03/11 · 22:14
-
-👀 candidata · 🎮⚽ FC 27 · Champions League B 2x6 · **Gana ZORO** @ **1.08** (Unibet) · prob 88% vs casas 81% · ventaja -5%
-
-- ❌ Valor: ventaja -5% (mín. 7% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 55.094 partidos)  
-Goles esperados: Buu 3.92 · ZORO 7.94  
-Ganador: Buu 7% · empate 6% · ZORO 88%  
-Total: más de 11.5 goles 51% · menos 49%  
-Hándicap ZORO: −1.5 75% · −2.5 65%  
-🔎 **Claves**  
-• Forma: Buu ❌➖✅❌❌ | ZORO ✅✅➖✅❌  
-• Partidos: Buu 659 | ZORO 720  
-• Liga: Champions League B 2x6  
-• Unibet: 1 8.50 · X 10.50 · 2 1.08 (sin margen 10%/8%/81%) · ventaja -5%. Sin stake hasta demostrar ROI con estas cuotas.  
-
-## kkikus vs Simaponika — 03/11 · 22:19
-
-👀 candidata · 🎮⚽ FC 27 · World Cup A · **Empate** @ **6.25** (Unibet) · prob 19% vs casas 14% · ventaja +17%
-
-- ✅ Valor: ventaja +17% (mín. 13% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 55.034 partidos)  
-Goles esperados: kkikus 2.01 · Simaponika 3.06  
-Ganador: kkikus 21% · empate 19% · Simaponika 60%  
-Total: más de 5.5 goles 40% · menos 60%  
-Hándicap Simaponika: −1.5 41% · −2.5 25%  
-🔎 **Claves**  
-• Forma: kkikus ✅➖❌❌❌ | Simaponika ✅❌❌➖❌  
-• Partidos: kkikus 831 | Simaponika 991  
-• Liga: World Cup A  
-• Unibet: 1 4.25 · X 6.25 · 2 1.32 (sin margen 20%/14%/66%) · ventaja +17%. Sin stake hasta demostrar ROI con estas cuotas.  
+Actualizado 03/11/2026 22:21 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## OG vs RossFCDK — 03/11 · 22:22
 
@@ -145,4 +109,58 @@ Hándicap Inquisitor: −1.5 27% · −2.5 13%
 • Partidos: Inquisitor 488 | hotShot 452  
 • Liga: Portugal Primera  
 • Unibet: 1 2.32 · X 2.50 · 2 3.05 (sin margen 37%/35%/28%) · ventaja +5%. Sin stake hasta demostrar ROI con estas cuotas.  
+
+## tizzy vs Simaponika — 03/11 · 22:55
+
+👀 candidata · 🎮⚽ FC 27 · World Cup A · **Empate** @ **6.50** (Unibet) · prob 18% vs casas 13% · ventaja +15%
+
+- ✅ Valor: ventaja +15% (mín. 12% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 55.104 partidos)  
+Goles esperados: tizzy 3.28 · Simaponika 2.10  
+Ganador: tizzy 62% · empate 18% · Simaponika 20%  
+Total: más de 5.5 goles 45% · menos 55%  
+Hándicap tizzy: −1.5 44% · −2.5 28%  
+🔎 **Claves**  
+• Forma: tizzy ❌❌✅✅✅ | Simaponika ✅❌❌➖❌  
+• Partidos: tizzy 288 | Simaponika 991  
+• Liga: World Cup A  
+• Unibet: 1 1.29 · X 6.50 · 2 4.40 (sin margen 67%/13%/20%) · ventaja +15%. Sin stake hasta demostrar ROI con estas cuotas.  
+
+## Kavviro vs kkikus — 03/11 · 22:55
+
+👀 candidata · 🎮⚽ FC 27 · World Cup A · **Empate** @ **8.50** (Unibet) · prob 13% vs casas 10% · ventaja +9%
+
+- ❌ Valor: ventaja +9% (mín. 11% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 55.104 partidos)  
+Goles esperados: Kavviro 3.52 · kkikus 1.43  
+Ganador: Kavviro 79% · empate 13% · kkikus 9%  
+Total: más de 4.5 goles 55% · menos 45%  
+Hándicap Kavviro: −1.5 60% · −2.5 41%  
+🔎 **Claves**  
+• Forma: Kavviro ✅✅❌✅✅ | kkikus ✅➖❌❌❌  
+• Partidos: Kavviro 696 | kkikus 831  
+• Liga: World Cup A  
+• Unibet: 1 1.09 · X 8.50 · 2 9.50 (sin margen 80%/10%/9%) · ventaja +9%. Sin stake hasta demostrar ROI con estas cuotas.  
+
+## hotShot vs RossFCDK — 03/11 · 22:58
+
+👀 candidata · 🎮⚽ FC 27 · Portugal Primera · **Gana RossFCDK** @ **4.00** (Unibet) · prob 27% vs casas 22% · ventaja +9%
+
+- ❌ Valor: ventaja +9% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 55.104 partidos)  
+Goles esperados: hotShot 2.07 · RossFCDK 1.59  
+Ganador: hotShot 48% · empate 25% · RossFCDK 27%  
+Total: más de 3.5 goles 50% · menos 50%  
+Hándicap hotShot: −1.5 28% · −2.5 14%  
+🔎 **Claves**  
+• Forma: hotShot ❌✅➖❌✅ | RossFCDK ✅✅➖➖❌  
+• Partidos: hotShot 452 | RossFCDK 451  
+• Liga: Portugal Primera  
+• Unibet: 1 2.12 · X 2.32 · 2 4.00 (sin margen 41%/37%/22%) · ventaja +9%. Sin stake hasta demostrar ROI con estas cuotas.  
 

@@ -997,7 +997,11 @@
   "fc|2359831",
   "fc|2359837",
   "fc|2359836",
-  "fc|2360716"
+  "fc|2360716",
+  "dota2|132368",
+  "fc|2360790",
+  "fc|2360789",
+  "fc|2359840"
  ],
  "signals": [
   {
@@ -12757,7 +12761,10 @@
    "version": "c0fb9e1",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "3-3",
+   "result": true,
+   "logged": true
   },
   {
    "market": "D",
@@ -12778,7 +12785,10 @@
    "version": "c0fb9e1",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "1-1",
+   "result": true,
+   "logged": true
   },
   {
    "market": "H",
@@ -12846,7 +12856,10 @@
    "version": "a31452a",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "0-5",
+   "result": true,
+   "logged": true
   },
   {
    "market": "A",
@@ -12867,7 +12880,10 @@
    "version": "a31452a",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "0-1",
+   "result": true,
+   "logged": true
   },
   {
    "market": "D",
@@ -12888,7 +12904,10 @@
    "version": "4fd4a23",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "2-2",
+   "result": true,
+   "logged": true
   },
   {
    "market": "D",
@@ -12928,19 +12947,6 @@
    "start": "2026-11-03T21:19:00+00:00",
    "league": "🎮⚽ FC 27 · World Cup A",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 55.034 partidos)",
-    "Goles esperados: kkikus 2.01 · Simaponika 3.06",
-    "Ganador: kkikus 21% · empate 19% · Simaponika 60%",
-    "Total: más de 5.5 goles 40% · menos 60%",
-    "Hándicap Simaponika: −1.5 41% · −2.5 25%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: kkikus ✅➖❌❌❌ | Simaponika ✅❌❌➖❌",
-    "• Partidos: kkikus 831 | Simaponika 991",
-    "• Liga: World Cup A",
-    "• Unibet: 1 4.25 · X 6.25 · 2 1.32 (sin margen 20%/14%/66%) · ventaja +17%. Sin stake hasta demostrar ROI con estas cuotas."
-   ],
    "context": "EA FC Esoccer Battle kkikus vs Simaponika (World Cup A): goles esperados 2.01-3.06, 1X2 21%/19%/60%. Sin cuotas de casa.",
    "captured": "2026-11-03T20:33",
    "version": "4fd4a23",
@@ -13035,7 +13041,10 @@
    "version": "2474317",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "4-5",
+   "result": false,
+   "logged": true
   },
   {
    "market": "H",
@@ -13208,22 +13217,111 @@
    "start": "2026-11-03T21:14:00+00:00",
    "league": "🎮⚽ FC 27 · Champions League B 2x6",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 55.094 partidos)",
-    "Goles esperados: Buu 3.92 · ZORO 7.94",
-    "Ganador: Buu 7% · empate 6% · ZORO 88%",
-    "Total: más de 11.5 goles 51% · menos 49%",
-    "Hándicap ZORO: −1.5 75% · −2.5 65%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Buu ❌➖✅❌❌ | ZORO ✅✅➖✅❌",
-    "• Partidos: Buu 659 | ZORO 720",
-    "• Liga: Champions League B 2x6",
-    "• Unibet: 1 8.50 · X 10.50 · 2 1.08 (sin margen 10%/8%/81%) · ventaja -5%. Sin stake hasta demostrar ROI con estas cuotas."
-   ],
    "context": "EA FC Esoccer Battle Buu vs ZORO (Champions League B 2x6): goles esperados 3.92-7.94, 1X2 7%/6%/88%. Sin cuotas de casa.",
    "captured": "2026-11-03T21:12",
    "version": "4ab72d5",
+   "bajas": "",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "D",
+   "pick": "Empate",
+   "odds": 6.5,
+   "book": "Unibet",
+   "implied": 0.133,
+   "edge": 0.149,
+   "sin_stake": true,
+   "p": 0.177,
+   "key": "fc|2360790",
+   "match": "tizzy vs Simaponika",
+   "start": "2026-11-03T21:55:00+00:00",
+   "league": "🎮⚽ FC 27 · World Cup A",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 55.104 partidos)",
+    "Goles esperados: tizzy 3.28 · Simaponika 2.10",
+    "Ganador: tizzy 62% · empate 18% · Simaponika 20%",
+    "Total: más de 5.5 goles 45% · menos 55%",
+    "Hándicap tizzy: −1.5 44% · −2.5 28%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: tizzy ❌❌✅✅✅ | Simaponika ✅❌❌➖❌",
+    "• Partidos: tizzy 288 | Simaponika 991",
+    "• Liga: World Cup A",
+    "• Unibet: 1 1.29 · X 6.50 · 2 4.40 (sin margen 67%/13%/20%) · ventaja +15%. Sin stake hasta demostrar ROI con estas cuotas."
+   ],
+   "context": "EA FC Esoccer Battle tizzy vs Simaponika (World Cup A): goles esperados 3.28-2.10, 1X2 62%/18%/20%. Sin cuotas de casa.",
+   "captured": "2026-11-03T21:21",
+   "version": "4ca2c0f",
+   "bajas": "",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "D",
+   "pick": "Empate",
+   "odds": 8.5,
+   "book": "Unibet",
+   "implied": 0.103,
+   "edge": 0.094,
+   "sin_stake": true,
+   "p": 0.129,
+   "key": "fc|2360789",
+   "match": "Kavviro vs kkikus",
+   "start": "2026-11-03T21:55:00+00:00",
+   "league": "🎮⚽ FC 27 · World Cup A",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 55.104 partidos)",
+    "Goles esperados: Kavviro 3.52 · kkikus 1.43",
+    "Ganador: Kavviro 79% · empate 13% · kkikus 9%",
+    "Total: más de 4.5 goles 55% · menos 45%",
+    "Hándicap Kavviro: −1.5 60% · −2.5 41%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Kavviro ✅✅❌✅✅ | kkikus ✅➖❌❌❌",
+    "• Partidos: Kavviro 696 | kkikus 831",
+    "• Liga: World Cup A",
+    "• Unibet: 1 1.09 · X 8.50 · 2 9.50 (sin margen 80%/10%/9%) · ventaja +9%. Sin stake hasta demostrar ROI con estas cuotas."
+   ],
+   "context": "EA FC Esoccer Battle Kavviro vs kkikus (World Cup A): goles esperados 3.52-1.43, 1X2 79%/13%/9%. Sin cuotas de casa.",
+   "captured": "2026-11-03T21:21",
+   "version": "4ca2c0f",
+   "bajas": "",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "A",
+   "pick": "RossFCDK",
+   "odds": 4.0,
+   "book": "Unibet",
+   "implied": 0.217,
+   "edge": 0.086,
+   "sin_stake": true,
+   "p": 0.271,
+   "key": "fc|2359840",
+   "match": "hotShot vs RossFCDK",
+   "start": "2026-11-03T21:58:00+00:00",
+   "league": "🎮⚽ FC 27 · Portugal Primera",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 55.104 partidos)",
+    "Goles esperados: hotShot 2.07 · RossFCDK 1.59",
+    "Ganador: hotShot 48% · empate 25% · RossFCDK 27%",
+    "Total: más de 3.5 goles 50% · menos 50%",
+    "Hándicap hotShot: −1.5 28% · −2.5 14%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: hotShot ❌✅➖❌✅ | RossFCDK ✅✅➖➖❌",
+    "• Partidos: hotShot 452 | RossFCDK 451",
+    "• Liga: Portugal Primera",
+    "• Unibet: 1 2.12 · X 2.32 · 2 4.00 (sin margen 41%/37%/22%) · ventaja +9%. Sin stake hasta demostrar ROI con estas cuotas."
+   ],
+   "context": "EA FC Esoccer Battle hotShot vs RossFCDK (Portugal Primera): goles esperados 2.07-1.59, 1X2 48%/25%/27%. Sin cuotas de casa.",
+   "captured": "2026-11-03T21:21",
+   "version": "4ca2c0f",
    "bajas": "",
    "considered": true,
    "placed": false
