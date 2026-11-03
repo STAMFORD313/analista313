@@ -1,47 +1,6 @@
 # 🏆 Champions·Europa · apuestas de valor
 
-Actualizado 03/11/2026 18:19 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Galatasaray vs VfB Stuttgart — 03/11 · 18:45
-
-👀 candidata · 🏆 Champions League · **Gana Galatasaray** @ **2.15** (DraftKings) · prob 44% vs casas 44% · ventaja -5%
-
-- ❌ Valor: ventaja -5% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏆 no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo con 5.115 partidos y bajas)  
-1 46% · X 21% · 2 34%  
-Casas: 1 44% · X 23% · 2 33%  
-Hándicap GAL +115 · Total puntos 3.5  
-🔎 **Claves**  
-• Forma: Galatasaray ✅❌❌❌✅ | VfB Stuttgart ❌❌✅✅➖  
-• H2H: sin precedentes  
-• Bajas: Galatasaray: sin bajas; VfB Stuttgart: sin bajas  
-• Favorito de las casas: Galatasaray @ 2.15  
-📐 **Estadísticas esperadas** · cruce de las dos ligas, sin backtest en Europa  
-Córners 6.4 - 4.1: total +10.5 47% · Galatasaray +5.5 56% · VfB Stuttgart +4.5 38%  
-Tarjetas 2.0 - 2.3: total +4.5 44% · Galatasaray +2.5 33% · VfB Stuttgart +2.5 41%  
-Faltas 11.7 - 11.0: total +24.5 35% · Galatasaray +12.5 39% · VfB Stuttgart +12.5 32%  
-Tiros a puerta 7.0 - 4.1: total +10.5 54% · Galatasaray +5.5 67% · VfB Stuttgart +4.5 39%  
-🧩 Crear apuesta: Más de 2.5 goles + Menos de 12.5 faltas de VfB Stuttgart + Menos de 2.5 tarjetas de Galatasaray → prob. 34%, cuota justa 2.90 (solo vale si la casa paga más)  
-🚀 Combinada larga: Más de 2.5 goles + Menos de 12.5 faltas de VfB Stuttgart + Menos de 2.5 tarjetas de Galatasaray + Más de 5.5 tiros a puerta de Galatasaray + Menos de 4.5 córners de VfB Stuttgart → prob. 17%, cuota justa 6.01  
-
-## Shakhtar Donetsk vs Sporting CP — 03/11 · 18:45
-
-👀 candidata · 🏆 Champions League · **Gana Shakhtar Donetsk** @ **3.60** (DraftKings) · prob 26% vs casas 26% · ventaja -5%
-
-- ❌ Valor: ventaja -5% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏆 no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo con 5.115 partidos y bajas)  
-1 45% · X 21% · 2 34%  
-Casas: 1 26% · X 25% · 2 49%  
-Hándicap SCP -105 · Total puntos 2.5  
-🔎 **Claves**  
-• Forma: Shakhtar Donetsk ❌❌➖✅❌ | Sporting CP ❌❌✅✅❌  
-• H2H: sin precedentes  
-• Bajas: Shakhtar Donetsk: sin bajas; Sporting CP: sin bajas  
-• Favorito de las casas: Sporting CP @ 1.95  
+Actualizado 03/11/2026 18:46 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Atlético Madrid vs Bayern Munich — 03/11 · 21:00
 

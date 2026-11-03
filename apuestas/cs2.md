@@ -1,23 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 03/11/2026 18:19 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## OLDBOYS PL vs Fire Flux — 03/11 · 18:30
-
-👀 candidata · 🎮 CS2 · ESEA Season 59: Advanced Division - Europe · **Gana OLDBOYS PL** @ **1.82** (Thunderpick) · prob 51% vs casas 51% · ventaja -7%
-
-- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa. 76.347 partidos)  
-Mapa: OLDBOYS PL 51% · Serie BO1: OLDBOYS PL 51% - 49% Fire Flux  
-Casas: OLDBOYS PL 51% · Fire Flux 49%  
-🔎 **Claves**  
-• Elo: OLDBOYS PL 1653 (78 series) | Fire Flux 1644 (333 series)  
-• Forma: OLDBOYS PL ✅✅❌✅✅ | Fire Flux ✅✅❌❌❌  
-• H2H: sin precedentes  
-• Torneo: ESEA Season 59: Advanced Division - Europe (nivel C)  
-• Cambios de plantilla: ninguno  
+Actualizado 03/11/2026 18:46 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## 9INE vs Revise — 03/11 · 19:00
 

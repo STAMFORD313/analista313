@@ -1,6 +1,6 @@
 # Estadísticas del bot
 
-Actualizado: 03/11/2026 18:19
+Actualizado: 03/11/2026 18:46
 
 **Ganadas 8 / perdidas 15** (35 % acierto) · beneficio -15.04 $ · ROI -32.4 % · banca 84.96 $
 
@@ -25,11 +25,11 @@ Si el bot está bien calibrado, el acierto real se parece a la prob. media. Brie
 
 | Prob. bot | Señales | Prob. media | Acierto real | Brier bot | Brier casas | ROI a 1 u. |
 |---|---|---|---|---|---|---|
-| 0%-40% | 38 | 31% | 18% | 0.171 | 0.155 | -28.2 % |
+| 0%-40% | 39 | 32% | 18% | 0.170 | 0.154 | -30.1 % |
 | 40%-55% | 54 | 48% | 52% | 0.234 | 0.246 | +16.3 % |
-| 55%-70% | 40 | 61% | 57% | 0.254 | 0.277 | +10.5 % |
+| 55%-70% | 41 | 61% | 59% | 0.252 | 0.275 | +11.9 % |
 | 70%-100% | 85 | 86% | 91% | 0.085 | 0.080 | -0.5 % |
-| Total | 217 | 63% | 62% | 0.168 | 0.171 | +0.9 % |
+| Total | 219 | 62% | 62% | 0.168 | 0.171 | +0.7 % |
 
 ### Por deporte y mercado (cada modelo se evalúa por separado)
 
@@ -40,7 +40,7 @@ Si el bot está bien calibrado, el acierto real se parece a la prob. media. Brie
 | nfl | ganador | 3 | 44% | 33% | 0.147 | 0.133 | -35.8 % |
 | ⚽ | ganador | 12 | 34% | 17% | 0.149 | 0.135 | -56.8 % |
 | ⚽ | goles/totales | 3 | 50% | 0% | 0.255 | 0.207 | -100.0 % |
-| 🎮 | ganador | 30 | 61% | 63% | 0.171 | 0.173 | -5.3 % |
+| 🎮 | ganador | 31 | 61% | 65% | 0.172 | 0.174 | -2.9 % |
 | 🎮 | hándicap | 4 | 43% | 50% | 0.288 | 0.295 | +47.5 % |
 | 🎮⚽ | ganador | 30 | 45% | 37% | 0.242 | 0.238 | +4.5 % |
 | 🏀 | ganador | 106 | 76% | 75% | 0.130 | 0.131 | -0.3 % |
@@ -49,7 +49,7 @@ Si el bot está bien calibrado, el acierto real se parece a la prob. media. Brie
 | 🏈 | goles/totales | 2 | 55% | 50% | 0.259 | 0.250 | -4.5 % |
 | 🏒 | ganador | 6 | 51% | 50% | 0.258 | 0.267 | +0.1 % |
 | 🏒 | goles/totales | 6 | 54% | 83% | 0.200 | 0.217 | +50.6 % |
-| 🐉 | ganador | 6 | 55% | 83% | 0.196 | 0.267 | +95.5 % |
+| 🐉 | ganador | 7 | 52% | 71% | 0.185 | 0.246 | +67.6 % |
 | 🐉 | hándicap | 2 | 51% | 50% | 0.079 | 0.142 | -12.0 % |
 
 **CLV de lo apostado** (cuota cogida vs cierre; positivo = se gana al mercado): ⚽ +2.5 % (8)
