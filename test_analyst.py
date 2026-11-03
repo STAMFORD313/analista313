@@ -532,3 +532,16 @@ assert _ks["kambi_ok"] == ["E1|2026-11-04|Cardiff|West Ham"] and len(_logged[0])
 assert _ks["signals"][-1]["market"] == "corners_t_o" and _ks["signals"][-1]["info"] == ["📊 x"]  # señal solo de córners, con su info
 _AN.kambi.offers, _AN.football_stats.log_offers, _AN.football_stats.value_signals = _ko, _lo, _vs
 print("ok Unibet se vuelve a mirar")
+
+# banco de pruebas: todas las candidatas liquidadas a 1 u por deporte y mercado (radar.paper_lines / paper_card)
+_lg = B_LOG = bankroll.LOG
+bankroll.LOG = Path(tempfile.mkdtemp()) / "s.csv"
+pd.DataFrame({"deporte": ["🏀"] * 25 + ["⚽"] * 3 + ["🎮⚽"], "mercado": ["home"] * 25 + ["corners_t_o"] * 3 + ["H"],
+              "p": 0.6, "odds": 2.0, "gano": [1] * 20 + [0] * 5 + [0, 0, 0] + [1], "retorno": [2.0] * 20 + [0] * 5 + [0, 0, 0] + [2],
+              "casa": ["DraftKings"] * 25 + ["Unibet"] * 3 + ["cuota justa (sin casa)"]}).to_csv(bankroll.LOG, index=False)
+_pl = radar.paper_lines()
+assert "28 candidatas" in _pl[0] and any(l.startswith("🟢 NBA / baloncesto · ganador (25)") for l in _pl)
+assert any(l.startswith("⚪ Fútbol · córners (3)") for l in _pl)  # 3 partidos: ruido aunque pierdan todos
+cards.clear(); _ps = {}; radar.paper_card(_ps); radar.paper_card(_ps); assert len(cards) == 1 and "BANCO DE PRUEBAS" in cards[0]
+bankroll.LOG = _lg
+print("ok banco de pruebas")

@@ -131,6 +131,46 @@ def combos_card(state):
 
 
 SIM_EVERY = pd.Timedelta(hours=6)
+NAMES_SPORT = {"⚽": "Fútbol", "🏀": "NBA / baloncesto", "🏈": "NFL / americano", "🏒": "NHL", "⚾": "MLB", "🎾": "Tenis", "🥊": "UFC",
+               "🎮": "CS2", "🐉": "Dota 2", "🧙": "LoL", "🔫": "R6", "📱": "MLBB", "🎮⚽": "FC 27", "🏆": "Champions/Europa",
+               "nba": "NBA / baloncesto", "nfl": "NFL / americano", "nhl": "NHL", "mlb": "MLB"}
+
+
+def paper_lines(min_n=3):
+    """Banco de pruebas: TODAS las candidatas liquidadas con cuota real (data/senales.csv), apostadas o no, a 1 u cada
+    una: por deporte y mercado, prob. del bot → acierto real y ROI ± error típico. Para ver dónde falla con muestra."""
+    import numpy as np
+    if not B.LOG.exists(): return []
+    d = pd.read_csv(B.LOG)
+    d = d[~d.casa.astype(str).str.startswith("cuota justa")]
+    if d.empty: return []
+    d["g"] = np.where(d.gano.astype(float) == 1, d.retorno.astype(float) - 1, -1.0)
+    d["mk"] = d.mercado.astype(str).str.replace(r"^(corners|cards|fouls|sot)_.*", r"\1", regex=True).map(
+        lambda m: {"H": "1X2", "D": "1X2", "A": "1X2", "home": "ganador", "away": "ganador", "t1": "ganador", "t2": "ganador",
+                   "over": "total", "under": "total", "O25": "total", "U25": "total", "AHH": "hándicap", "AHA": "hándicap",
+                   "sph": "hándicap", "spa": "hándicap", "corners": "córners"}.get(m, m))
+    out = [f"🧪 <b>BANCO DE PRUEBAS</b> · {len(d)} candidatas liquidadas a 1 u (apostadas o no)",
+           f"Total: prob. bot {d.p.mean():.0%} → acierto {d.gano.mean():.0%} · ROI <b>{d.g.mean():+.1%}</b> ± {d.g.std() / np.sqrt(len(d)):.1%}"]
+    for (sp, mk), g in sorted(d.groupby([d.deporte.astype(str), "mk"]), key=lambda x: -len(x[1])):
+        if len(g) < min_n: continue
+        se = g.g.std() / np.sqrt(len(g))
+        flag = "⚪" if len(g) < 20 else "🔴" if g.g.mean() + 2 * se < 0 else "🟢" if g.g.mean() - 2 * se > 0 else "⚪"
+        out.append(f"{flag} {NAMES_SPORT.get(sp, sp)} · {mk} ({len(g)}): {g.p.mean():.0%} → {g.gano.mean():.0%} · ROI {g.g.mean():+.0%} ± {se:.0%}")
+    out.append("🟢/🔴 = gana/pierde con margen (2 errores típicos, mín. 20) · ⚪ = aún es ruido: hacen falta más partidos")
+    return out
+
+
+PAPER_EVERY = pd.Timedelta(hours=24)
+
+
+def paper_card(state):
+    """Una vez al día: tarjeta del banco de pruebas."""
+    now = pd.Timestamp.now(tz="UTC")
+    if state.get("paper_sent") and now - pd.Timestamp(state["paper_sent"]) < PAPER_EVERY: return
+    lines = paper_lines()
+    if not lines: return
+    A.send_card("\n".join(lines))
+    state["paper_sent"] = now.isoformat()
 
 
 def fc_sim_card(state):
@@ -150,6 +190,8 @@ def run(state, today):
     fc_card(state)
     try: fc_sim_card(state)
     except Exception as e: print("simulación FC", repr(e))
+    try: paper_card(state)
+    except Exception as e: print("banco de pruebas", repr(e))
     combos_card(state)
     pages(state)
 
