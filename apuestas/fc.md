@@ -1,24 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 03/11/2026 16:44 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Duka vs w1nkos — 03/11 · 16:46
-
-👀 candidata · 🎮⚽ FC 27 · Serie A · **Gana w1nkos** @ **2.20** (Unibet) · prob 48% vs casas 40% · ventaja +6%
-
-- ❌ Valor: ventaja +6% (mín. 10% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 54.774 partidos)  
-Goles esperados: Duka 2.61 · w1nkos 3.04  
-Ganador: Duka 32% · empate 20% · w1nkos 48%  
-Total: más de 5.5 goles 50% · menos 50%  
-Hándicap w1nkos: −1.5 32% · −2.5 19%  
-🔎 **Claves**  
-• Forma: Duka ➖✅✅➖✅ | w1nkos ❌❌➖✅✅  
-• Partidos: Duka 970 | w1nkos 1071  
-• Liga: Serie A  
-• Unibet: 1 2.04 · X 5.10 · 2 2.20 (sin margen 43%/17%/40%) · ventaja +6%. Sin stake hasta demostrar ROI con estas cuotas.  
+Actualizado 03/11/2026 16:49 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## llulle vs lzrn — 03/11 · 16:52
 
@@ -73,4 +55,22 @@ Hándicap mPm: −1.5 43% · −2.5 28%
 • Partidos: ramzes 980 | mPm 631  
 • Liga: A-League  
 • Unibet: 1 2.43 · X 5.20 · 2 1.86 (sin margen 36%/17%/47%) · ventaja +12%. Sin stake hasta demostrar ROI con estas cuotas.  
+
+## Shinobu vs Gazi — 03/11 · 17:14
+
+👀 candidata · 🎮⚽ FC 27 · A-League · **Empate** @ **4.70** (Unibet) · prob 24% vs casas 19% · ventaja +13%
+
+- ✅ Valor: ventaja +13% (mín. 11% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 54.774 partidos)  
+Goles esperados: Shinobu 2.16 · Gazi 1.95  
+Ganador: Shinobu 42% · empate 24% · Gazi 34%  
+Total: más de 4.5 goles 39% · menos 61%  
+Hándicap Shinobu: −1.5 25% · −2.5 12%  
+🔎 **Claves**  
+• Forma: Shinobu ✅➖✅✅➖ | Gazi ✅✅❌❌✅  
+• Partidos: Shinobu 1172 | Gazi 316  
+• Liga: A-League  
+• Unibet: 1 2.20 · X 4.70 · 2 2.10 (sin margen 40%/19%/42%) · ventaja +13%. Sin stake hasta demostrar ROI con estas cuotas.  
 
