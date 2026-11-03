@@ -34515,3 +34515,5 @@ game_id,match_id,slug,date,tier,bo,tournament_id,tournament,t1_id,t2_id,team1,te
 192038,133038,faze-vs-falcons-esports-03-11-2026,2026-11-03T07:00:00.000+00:00,s,3,5113,Intel Extreme Masters Beijing 2026,791,2713,FaZe,Falcons,3,de_mirage,2713,13.0,7.0
 192039,133038,faze-vs-falcons-esports-03-11-2026,2026-11-03T07:00:00.000+00:00,s,3,5113,Intel Extreme Masters Beijing 2026,791,2713,FaZe,Falcons,2,de_anubis,791,13.0,10.0
 192040,133038,faze-vs-falcons-esports-03-11-2026,2026-11-03T07:00:00.000+00:00,s,3,5113,Intel Extreme Masters Beijing 2026,791,2713,FaZe,Falcons,1,de_ancient,2713,13.0,3.0
+192036,133037,the-mongolz-vs-heroic-03-11-2026,2026-11-03T08:00:00.000+00:00,s,3,5113,Intel Extreme Masters Beijing 2026,736,759,The MongolZ,HEROIC,2,de_nuke,736,19.0,17.0
+192037,133037,the-mongolz-vs-heroic-03-11-2026,2026-11-03T08:00:00.000+00:00,s,3,5113,Intel Extreme Masters Beijing 2026,736,759,The MongolZ,HEROIC,1,de_inferno,736,13.0,7.0
