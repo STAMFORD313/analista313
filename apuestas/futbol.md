@@ -1,5 +1,5 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 03/11/2026 08:00 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 03/11/2026 09:06 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 _No hay apuestas de valor próximas en este deporte ahora mismo._
