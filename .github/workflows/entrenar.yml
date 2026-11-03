@@ -23,6 +23,7 @@ jobs:
           python train_espn.py ncaa || echo "fallo en train_espn ncaa"
           python train_football.py || echo "fallo en train_football"
           python football_stats.py || echo "fallo en football_stats"   # córners, tarjetas, faltas, tiros a puerta
+          python train_sgp.py || echo "fallo en train_sgp"   # cópula de «crear apuesta» (mismo partido)
       - run: |
           git config user.name analista-bot
           git config user.email actions@users.noreply.github.com

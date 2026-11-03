@@ -280,3 +280,18 @@ assert football_stats.result("corners_t_o", 9.5, {"HC": 6, "AC": 4}) and not foo
 assert football_stats.result("corners_a_u", 4.5, {"HC": 6, "AC": float("nan")}) is None  # football-data aún sin córners: espera
 assert bankroll.pick_text({**_sv["corners_h_o"], "match": "Leeds vs Hull"}) == "Más de 5.5 córners de Leeds" and bankroll.segment({**_sv["corners_h_o"], "sport": "⚽"}) == "⚽ corners"
 print("ok córners con cuota real")
+
+# combinadas del mismo partido con cópula (train_sgp.py → football_stats.json["rho"])
+import train_sgp
+import numpy as np
+_rho = {"names": ["goals_t", "sot_t", "cards_h"], "R": [[1, 0.5, 0], [0.5, 1, 0], [0, 0, 1]]}
+_l = [{"stat": "goals", "var": "goals_t", "sign": 1, "p": 0.6}, {"stat": "sot", "var": "sot_t", "sign": 1, "p": 0.6}]
+_pj = football_stats.joint(_l, {}, _rho)
+assert 0.36 < _pj < 0.6 and abs(_pj - train_sgp.cells_copula(_l[0]["p"], _l[1]["p"], 0.5)[0, 0]) < 1e-3  # positiva → > producto
+assert football_stats.joint([_l[0], {**_l[1], "sign": -1}], {}, _rho) < 0.31  # «menos de» invierte la correlación
+_l3 = _l + [{"stat": "cards", "var": "cards_h", "sign": 1, "p": 0.7}]
+assert abs(football_stats.joint(_l3, {}, _rho) - _pj * 0.7) < 2e-3  # pierna independiente multiplica
+assert abs(football_stats.joint(_l, {"goals|sot": 0.02}) - (0.36 + 0.02)) < 1e-9  # sin cópula: covarianzas de antes
+_c = train_sgp.cells_copula(np.array([0.3, 0.7]), np.array([0.6, 0.2]), -0.3)
+assert np.allclose(_c.sum(1), 1) and np.allclose(_c[:, 0] + _c[:, 1], [0.3, 0.7], atol=1e-6)
+print("ok combinadas del mismo partido (cópula)")

@@ -96,6 +96,7 @@ def backtest():
         cov[f"{a}|{b}"] = round(float(c), 4)
         print(f"covarianza {a} × {b}: {c:+.4f} (n={m.sum()})")
     out["cov"] = cov
+    if PARAMS.exists() and "rho" in (old := json.loads(PARAMS.read_text())): out["rho"] = old["rho"]  # cópula de train_sgp.py
     PARAMS.write_text(json.dumps(out, indent=1))
 
 
@@ -157,9 +158,20 @@ def result(market, line, r):
     return None if pd.isna(x) else bool(x > line) == (side == "o")
 
 
-def joint(legs, cov):
-    """Prob. de acertar todas las piernas: producto corregido por las covarianzas por pares (Bahadur de 1.er orden).
-    Una pierna «menos de» invierte el signo. shortcut: covarianza medida a la línea mediana, se aplica a cualquier línea."""
+def joint(legs, cov, rho=None):
+    """Prob. de acertar todas las piernas (cada una {stat, sign, p}; `var` = «<stat>_<t|h|a>» para la cópula).
+    Con `rho` (train_sgp.py: cópula gaussiana, correlación latente de cada par, medida fuera de muestra) y todas las
+    piernas en ella → P(Z_i ≤ Φ⁻¹(p_i)) con la correlación de signo corregido por «menos de». Si no, producto corregido
+    por las covarianzas por pares (Bahadur de 1.er orden; shortcut: medida a la línea mediana)."""
+    names = (rho or {}).get("names", [])
+    if len(legs) >= 2 and all(l.get("var") in names for l in legs):
+        from scipy import stats as S
+        idx = [names.index(l["var"]) for l in legs]
+        sg = np.array([l["sign"] for l in legs], float)
+        R = np.array(rho["R"])[np.ix_(idx, idx)] * np.outer(sg, sg)
+        z = S.norm.ppf(np.clip([l["p"] for l in legs], 1e-9, 1 - 1e-9))
+        pj = float(S.multivariate_normal(np.zeros(len(legs)), R, allow_singular=True).cdf(z)) if len(legs) > 1 else float(legs[0]["p"])
+        return min(max(pj, 0.0), min(l["p"] for l in legs))
     p = float(np.prod([l["p"] for l in legs]))
     corr = sum(cov.get(f"{x['stat']}|{y['stat']}", cov.get(f"{y['stat']}|{x['stat']}", 0.0)) * x["sign"] * y["sign"] / (x["p"] * y["p"])
                for x, y in itertools.combinations(legs, 2))
@@ -171,6 +183,7 @@ def card_lines(df, div, home, away, today, P_goals):
     if not PARAMS.exists(): return []
     P = json.loads(PARAMS.read_text())
     lines, legs = ["", "📐 <b>Estadísticas esperadas</b>"], []
+    rho = P.get("rho")
     for stat, (_, _, name) in STATS.items():
         e = expected(df, div, stat, home, away, today, P)
         if not e: continue
@@ -178,16 +191,23 @@ def card_lines(df, div, home, away, today, P_goals):
         pt, ph, pa = over(eh + ea, P[stat]["r"], lt), over(eh, P[stat]["r_team"], lth), over(ea, P[stat]["r_team"], lta)
         lines.append(f"{name.capitalize()} {eh:.1f} - {ea:.1f}: total +{lt} {pt:.0%} · {A.esc(home)} +{lth} {ph:.0%} · "
                      f"{A.esc(away)} +{lta} {pa:.0%}")
-        if P[stat]["ou"] < P[stat]["ou_base"]:  # solo mercados donde el modelo bate a la media de la liga
-            legs.append({"stat": stat, "sign": 1 if pt >= 0.5 else -1, "p": max(pt, 1 - pt),
-                         "text": f"{'Más' if pt >= 0.5 else 'Menos'} de {lt} {name}"})
+        # solo mercados donde el modelo bate a la media de la liga; por estadístico, la pierna más probable (total o de
+        # equipo: la cópula de train_sgp no mide total × equipo del mismo estadístico, y la casa no suele combinarlas)
+        opts = [(sc, p0, ln, f" de {A.esc(t)}" if t else "") for sc, p0, ln, t, ok in
+                (("t", pt, lt, "", P[stat]["ou"] < P[stat]["ou_base"]),
+                 ("h", ph, lth, home, rho and P[stat]["team_ou"] < P[stat]["team_ou_base"]),
+                 ("a", pa, lta, away, rho and P[stat]["team_ou"] < P[stat]["team_ou_base"])) if ok]
+        if opts:
+            sc, p0, ln, who = max(opts, key=lambda o: max(o[1], 1 - o[1]))
+            legs.append({"stat": stat, "var": f"{stat}_{sc}", "sign": 1 if p0 >= 0.5 else -1, "p": max(p0, 1 - p0),
+                         "text": f"{'Más' if p0 >= 0.5 else 'Menos'} de {ln} {name}{who}"})
     if len(lines) == 2: return []
     po = P_goals["O25"]
-    legs.append({"stat": "goals", "sign": 1 if po >= 0.5 else -1, "p": max(po, 1 - po),
+    legs.append({"stat": "goals", "var": "goals_t", "sign": 1 if po >= 0.5 else -1, "p": max(po, 1 - po),
                  "text": f"{'Más' if po >= 0.5 else 'Menos'} de 2.5 goles"})
     legs = sorted([l for l in legs if l["p"] >= COMBO_MIN_P], key=lambda l: -l["p"])[:3]
     if len(legs) >= 2:
-        pj = joint(legs, P.get("cov", {}))
+        pj = joint(legs, P.get("cov", {}), rho)
         lines.append(f"🧩 Crear apuesta: {' + '.join(l['text'] for l in legs)} → prob. {pj:.0%}, cuota justa {1 / pj:.2f} "
                      f"(solo vale si la casa paga más)")
     return lines
