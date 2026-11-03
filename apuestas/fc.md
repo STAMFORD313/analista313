@@ -1,42 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 03/11/2026 17:13 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Shinobu vs Gazi — 03/11 · 17:14
-
-👀 candidata · 🎮⚽ FC 27 · A-League · **Empate** @ **4.70** (Unibet) · prob 24% vs casas 19% · ventaja +13%
-
-- ✅ Valor: ventaja +13% (mín. 11% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 54.774 partidos)  
-Goles esperados: Shinobu 2.16 · Gazi 1.95  
-Ganador: Shinobu 42% · empate 24% · Gazi 34%  
-Total: más de 4.5 goles 39% · menos 61%  
-Hándicap Shinobu: −1.5 25% · −2.5 12%  
-🔎 **Claves**  
-• Forma: Shinobu ✅➖✅✅➖ | Gazi ✅✅❌❌✅  
-• Partidos: Shinobu 1172 | Gazi 316  
-• Liga: A-League  
-• Unibet: 1 2.20 · X 4.70 · 2 2.10 (sin margen 40%/19%/42%) · ventaja +13%. Sin stake hasta demostrar ROI con estas cuotas.  
-
-## Glumac vs chevare — 03/11 · 17:16
-
-👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana chevare** @ **2.15** (Unibet) · prob 50% vs casas 40% · ventaja +7%
-
-- ❌ Valor: ventaja +7% (mín. 10% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 54.774 partidos)  
-Goles esperados: Glumac 3.62 · chevare 4.12  
-Ganador: Glumac 34% · empate 16% · chevare 50%  
-Total: más de 7.5 goles 51% · menos 49%  
-Hándicap chevare: −1.5 35% · −2.5 23%  
-🔎 **Claves**  
-• Forma: Glumac ❌✅❌✅➖ | chevare ✅❌❌❌❌  
-• Partidos: Glumac 672 | chevare 504  
-• Liga: Champions League B  
-• Unibet: 1 2.38 · X 3.75 · 2 2.15 (sin margen 36%/23%/40%) · ventaja +7%. Sin stake hasta demostrar ROI con estas cuotas.  
+Actualizado 03/11/2026 17:18 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## ramzes vs Gazi — 03/11 · 17:38
 
@@ -126,5 +90,5 @@ Hándicap llulle: −1.5 27% · −2.5 14%
 • Forma: lzrn ✅❌✅❌➖ | llulle ➖❌✅✅✅  
 • Partidos: lzrn 719 | llulle 793  
 • Liga: Super Lig  
-• Unibet: 1 1.83 · X 4.25 · 2 2.75 (sin margen 48%/21%/32%) · ventaja +15%. Sin stake hasta demostrar ROI con estas cuotas.  
+• Unibet: 1 1.84 · X 4.20 · 2 2.75 (sin margen 47%/21%/32%) · ventaja +15%. Sin stake hasta demostrar ROI con estas cuotas.  
 

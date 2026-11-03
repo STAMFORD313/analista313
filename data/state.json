@@ -915,8 +915,9 @@
   "fc|2360109",
   "fc|2360875",
   "fc|2360110",
-  "cs2|133262",
+  "atp|2026-11-04|Tommy Paul|Daniel Merida",
   "cs2|133263",
+  "cs2|133262",
   "fc|2360881",
   "fc|2360880",
   "fc|2360111"
@@ -5765,7 +5766,8 @@
    "placed": false,
    "captured": "2026-11-03T06:59",
    "version": "7948daf",
-   "bajas": "Villarreal: sin bajas; Paris Saint-Germain: sin bajas"
+   "bajas": "Villarreal: sin bajas; Paris Saint-Germain: sin bajas",
+   "combo_anunciada": true
   },
   {
    "market": "away",
@@ -10098,7 +10100,8 @@
    "version": "a0fe0a5",
    "bajas": "QPR: sin bajas; Burnley: 0 fuera, 2 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "combo_anunciada": true
   },
   {
    "market": "A",
@@ -10139,7 +10142,8 @@
    "version": "a0fe0a5",
    "bajas": "Watford: sin bajas; Lincoln: 1 fuera, 1 duda (Tendayi Darikwa)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "combo_anunciada": true
   },
   {
    "market": "corners_h_o",
@@ -10181,7 +10185,8 @@
    "version": "a0fe0a5",
    "bajas": "Watford: sin bajas; Lincoln: 1 fuera, 1 duda (Tendayi Darikwa)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "combo_anunciada": true
   },
   {
    "market": "corners_h_u",
@@ -10223,7 +10228,8 @@
    "version": "a0fe0a5",
    "bajas": "Watford: sin bajas; Lincoln: 1 fuera, 1 duda (Tendayi Darikwa)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "combo_anunciada": true
   },
   {
    "market": "corners_t_o",
@@ -10265,7 +10271,8 @@
    "version": "a0fe0a5",
    "bajas": "Watford: sin bajas; Lincoln: 1 fuera, 1 duda (Tendayi Darikwa)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "combo_anunciada": true
   },
   {
    "market": "corners_t_u",
@@ -10307,7 +10314,8 @@
    "version": "a0fe0a5",
    "bajas": "Watford: sin bajas; Lincoln: 1 fuera, 1 duda (Tendayi Darikwa)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "combo_anunciada": true
   },
   {
    "market": "corners_a_o",
@@ -10349,7 +10357,8 @@
    "version": "a0fe0a5",
    "bajas": "Watford: sin bajas; Lincoln: 1 fuera, 1 duda (Tendayi Darikwa)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "combo_anunciada": true
   },
   {
    "market": "corners_a_u",
@@ -10391,7 +10400,8 @@
    "version": "a0fe0a5",
    "bajas": "Watford: sin bajas; Lincoln: 1 fuera, 1 duda (Tendayi Darikwa)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "combo_anunciada": true
   },
   {
    "market": "A",
@@ -10432,7 +10442,8 @@
    "version": "a0fe0a5",
    "bajas": "Birmingham: 0 fuera, 1 duda; Millwall: 0 fuera, 1 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "combo_anunciada": true
   },
   {
    "market": "corners_h_o",
@@ -10474,7 +10485,8 @@
    "version": "a0fe0a5",
    "bajas": "Birmingham: 0 fuera, 1 duda; Millwall: 0 fuera, 1 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "combo_anunciada": true
   },
   {
    "market": "corners_h_u",
@@ -10516,7 +10528,8 @@
    "version": "a0fe0a5",
    "bajas": "Birmingham: 0 fuera, 1 duda; Millwall: 0 fuera, 1 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "combo_anunciada": true
   },
   {
    "market": "corners_a_u",
@@ -10558,7 +10571,8 @@
    "version": "a0fe0a5",
    "bajas": "Birmingham: 0 fuera, 1 duda; Millwall: 0 fuera, 1 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "combo_anunciada": true
   },
   {
    "market": "corners_a_o",
@@ -10600,7 +10614,8 @@
    "version": "a0fe0a5",
    "bajas": "Birmingham: 0 fuera, 1 duda; Millwall: 0 fuera, 1 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "combo_anunciada": true
   },
   {
    "market": "corners_t_u",
@@ -10642,7 +10657,8 @@
    "version": "a0fe0a5",
    "bajas": "Birmingham: 0 fuera, 1 duda; Millwall: 0 fuera, 1 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "combo_anunciada": true
   },
   {
    "market": "corners_t_o",
@@ -10684,7 +10700,8 @@
    "version": "a0fe0a5",
    "bajas": "Birmingham: 0 fuera, 1 duda; Millwall: 0 fuera, 1 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "combo_anunciada": true
   },
   {
    "market": "D",
@@ -10724,7 +10741,8 @@
    "version": "a0fe0a5",
    "bajas": "West Brom: sin bajas; Southampton: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "combo_anunciada": true
   },
   {
    "market": "corners_h_o",
@@ -10765,7 +10783,8 @@
    "version": "a0fe0a5",
    "bajas": "West Brom: sin bajas; Southampton: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "combo_anunciada": true
   },
   {
    "market": "corners_h_u",
@@ -10806,7 +10825,8 @@
    "version": "a0fe0a5",
    "bajas": "West Brom: sin bajas; Southampton: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "combo_anunciada": true
   },
   {
    "market": "corners_t_o",
@@ -10847,7 +10867,8 @@
    "version": "a0fe0a5",
    "bajas": "West Brom: sin bajas; Southampton: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "combo_anunciada": true
   },
   {
    "market": "corners_t_u",
@@ -10888,7 +10909,8 @@
    "version": "a0fe0a5",
    "bajas": "West Brom: sin bajas; Southampton: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "combo_anunciada": true
   },
   {
    "market": "corners_a_o",
@@ -10929,7 +10951,8 @@
    "version": "a0fe0a5",
    "bajas": "West Brom: sin bajas; Southampton: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "combo_anunciada": true
   },
   {
    "market": "corners_a_u",
@@ -10970,7 +10993,8 @@
    "version": "a0fe0a5",
    "bajas": "West Brom: sin bajas; Southampton: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "combo_anunciada": true
   },
   {
    "market": "H",
@@ -12093,19 +12117,6 @@
    "start": "2026-11-03T16:14:00+00:00",
    "league": "🎮⚽ FC 27 · A-League",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 54.774 partidos)",
-    "Goles esperados: Shinobu 2.16 · Gazi 1.95",
-    "Ganador: Shinobu 42% · empate 24% · Gazi 34%",
-    "Total: más de 4.5 goles 39% · menos 61%",
-    "Hándicap Shinobu: −1.5 25% · −2.5 12%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Shinobu ✅➖✅✅➖ | Gazi ✅✅❌❌✅",
-    "• Partidos: Shinobu 1172 | Gazi 316",
-    "• Liga: A-League",
-    "• Unibet: 1 2.20 · X 4.70 · 2 2.10 (sin margen 40%/19%/42%) · ventaja +13%. Sin stake hasta demostrar ROI con estas cuotas."
-   ],
    "context": "EA FC Esoccer Battle Shinobu vs Gazi (A-League): goles esperados 2.16-1.95, 1X2 42%/24%/34%. Sin cuotas de casa.",
    "captured": "2026-11-03T15:49",
    "version": "9858f69",
@@ -12182,19 +12193,6 @@
    "start": "2026-11-03T16:16:00+00:00",
    "league": "🎮⚽ FC 27 · Champions League B",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 54.774 partidos)",
-    "Goles esperados: Glumac 3.62 · chevare 4.12",
-    "Ganador: Glumac 34% · empate 16% · chevare 50%",
-    "Total: más de 7.5 goles 51% · menos 49%",
-    "Hándicap chevare: −1.5 35% · −2.5 23%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Glumac ❌✅❌✅➖ | chevare ✅❌❌❌❌",
-    "• Partidos: Glumac 672 | chevare 504",
-    "• Liga: Champions League B",
-    "• Unibet: 1 2.38 · X 3.75 · 2 2.15 (sin margen 36%/23%/40%) · ventaja +7%. Sin stake hasta demostrar ROI con estas cuotas."
-   ],
    "context": "EA FC Esoccer Battle Glumac vs chevare (Champions League B): goles esperados 3.62-4.12, 1X2 34%/16%/50%. Sin cuotas de casa.",
    "captured": "2026-11-03T15:58",
    "version": "7f8a028",
@@ -12241,7 +12239,7 @@
    "pick": "llulle",
    "odds": 2.75,
    "book": "Unibet",
-   "implied": 0.317,
+   "implied": 0.318,
    "edge": 0.151,
    "sin_stake": true,
    "p": 0.419,
@@ -12261,11 +12259,11 @@
     "• Forma: lzrn ✅❌✅❌➖ | llulle ➖❌✅✅✅",
     "• Partidos: lzrn 719 | llulle 793",
     "• Liga: Super Lig",
-    "• Unibet: 1 1.83 · X 4.25 · 2 2.75 (sin margen 48%/21%/32%) · ventaja +15%. Sin stake hasta demostrar ROI con estas cuotas."
+    "• Unibet: 1 1.84 · X 4.20 · 2 2.75 (sin margen 47%/21%/32%) · ventaja +15%. Sin stake hasta demostrar ROI con estas cuotas."
    ],
    "context": "EA FC Esoccer Battle lzrn vs llulle (Super Lig): goles esperados 2.54-2.66, 1X2 37%/21%/42%. Sin cuotas de casa.",
-   "captured": "2026-11-03T16:13",
-   "version": "df390e5",
+   "captured": "2026-11-03T16:18",
+   "version": "caacbb9",
    "bajas": "",
    "considered": true,
    "placed": false
@@ -12298,8 +12296,8 @@
     "• Unibet: 1 1.92 · X 4.40 · 2 2.50 (sin margen 45%/20%/35%) · ventaja +11%. Sin stake hasta demostrar ROI con estas cuotas."
    ],
    "context": "EA FC Esoccer Battle chevare vs lzrn (Super Lig): goles esperados 3.76-2.80, 1X2 58%/17%/26%. Sin cuotas de casa.",
-   "captured": "2026-11-03T16:13",
-   "version": "df390e5",
+   "captured": "2026-11-03T16:18",
+   "version": "caacbb9",
    "bajas": "",
    "considered": true,
    "placed": false
@@ -12332,8 +12330,8 @@
     "• Unibet: 1 1.79 · X 5.10 · 2 2.60 (sin margen 49%/17%/34%) · ventaja +4%. Sin stake hasta demostrar ROI con estas cuotas."
    ],
    "context": "EA FC Esoccer Battle ramzes vs Shinobu (A-League): goles esperados 2.68-2.70, 1X2 39%/20%/40%. Sin cuotas de casa.",
-   "captured": "2026-11-03T16:13",
-   "version": "df390e5",
+   "captured": "2026-11-03T16:18",
+   "version": "caacbb9",
    "bajas": "",
    "considered": true,
    "placed": false
@@ -13546,7 +13544,7 @@
    ]
   }
  },
- "combo_sent": "2026-11-03T13:15:55.864264+00:00",
+ "combo_sent": "2026-11-03T16:18:49.370731+00:00",
  "fc_sim_sent": "2026-11-03T12:47:34.461252+00:00",
  "fc_sim_n": 24,
  "kambi_ok": [

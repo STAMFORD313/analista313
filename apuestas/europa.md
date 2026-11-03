@@ -1,6 +1,6 @@
 # 🏆 Champions·Europa · apuestas de valor
 
-Actualizado 03/11/2026 17:13 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 03/11/2026 17:18 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Galatasaray vs VfB Stuttgart — 03/11 · 18:45
 
