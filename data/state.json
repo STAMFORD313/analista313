@@ -1027,7 +1027,11 @@
   "fc|2363103",
   "fc|2361104",
   "fc|2363107",
-  "fc|2361105"
+  "fc|2361105",
+  "wta|2026-11-04|Julia Grabher|Julia Riera",
+  "fc|2359855",
+  "fc|2359857",
+  "fc|2359853"
  ],
  "signals": [
   {
@@ -13004,7 +13008,10 @@
    "version": "2474317",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "2-2",
+   "result": false,
+   "logged": true
   },
   {
    "market": "D",
@@ -13073,7 +13080,10 @@
    "version": "6d16940",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "2-3",
+   "result": false,
+   "logged": true
   },
   {
    "market": "H",
@@ -13094,7 +13104,10 @@
    "version": "6d16940",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "4-3",
+   "result": true,
+   "logged": true
   },
   {
    "market": "D",
@@ -13115,7 +13128,10 @@
    "version": "6d16940",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "2-5",
+   "result": false,
+   "logged": true
   },
   {
    "market": "H",
@@ -13136,7 +13152,10 @@
    "version": "4ab72d5",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "3-1",
+   "result": true,
+   "logged": true
   },
   {
    "market": "D",
@@ -13157,7 +13176,10 @@
    "version": "4ab72d5",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "1-4",
+   "result": false,
+   "logged": true
   },
   {
    "market": "A",
@@ -13250,7 +13272,10 @@
    "version": "4ca2c0f",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "5-5",
+   "result": false,
+   "logged": true
   },
   {
    "market": "H",
@@ -13271,7 +13296,10 @@
    "version": "81f1424",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "3-1",
+   "result": true,
+   "logged": true
   },
   {
    "market": "A",
@@ -13337,7 +13365,10 @@
    "version": "81f1424",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "2-3",
+   "result": false,
+   "logged": true
   },
   {
    "market": "D",
@@ -13382,7 +13413,10 @@
    "version": "178986c",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "1-3",
+   "result": false,
+   "logged": true
   },
   {
    "market": "A",
@@ -13403,7 +13437,10 @@
    "version": "178986c",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "1-4",
+   "result": true,
+   "logged": true
   },
   {
    "market": "A",
@@ -13424,7 +13461,10 @@
    "version": "5e5d5e3",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "1-4",
+   "result": true,
+   "logged": true
   },
   {
    "market": "A",
@@ -13459,19 +13499,6 @@
    "start": "2026-11-03T23:04:00+00:00",
    "league": "🎮⚽ FC 27 · Volta World Cup B",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 55.114 partidos)",
-    "Goles esperados: Sheva 5.03 · Yerema 1.89",
-    "Ganador: Sheva 87% · empate 8% · Yerema 5%",
-    "Total: más de 6.5 goles 54% · menos 46%",
-    "Hándicap Sheva: −1.5 73% · −2.5 59%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Sheva ✅✅❌✅✅ | Yerema ❌❌➖❌❌",
-    "• Partidos: Sheva 1278 | Yerema 512",
-    "• Liga: Volta World Cup B",
-    "• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta)."
-   ],
    "context": "EA FC Esoccer Battle Sheva vs Yerema (Volta World Cup B): goles esperados 5.03-1.89, 1X2 87%/8%/5%. Sin cuotas de casa.",
    "captured": "2026-11-03T21:57",
    "version": "fdaa47e",
@@ -13498,7 +13525,10 @@
    "version": "5b59178",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "4-4",
+   "result": false,
+   "logged": true
   },
   {
    "market": "D",
@@ -13543,7 +13573,10 @@
    "version": "5b59178",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "4-1",
+   "result": false,
+   "logged": true
   },
   {
    "market": "A",
@@ -13564,7 +13597,10 @@
    "version": "43129b6",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "3-4",
+   "result": true,
+   "logged": true
   },
   {
    "market": "D",
@@ -13604,19 +13640,6 @@
    "start": "2026-11-03T23:05:00+00:00",
    "league": "🎮⚽ FC 27 · Serie A",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 55.134 partidos)",
-    "Goles esperados: kkikus 2.08 · Simaponika 3.15",
-    "Ganador: kkikus 21% · empate 18% · Simaponika 60%",
-    "Total: más de 5.5 goles 42% · menos 58%",
-    "Hándicap Simaponika: −1.5 42% · −2.5 26%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: kkikus ✅➖❌❌❌ | Simaponika ✅❌❌➖❌",
-    "• Partidos: kkikus 831 | Simaponika 991",
-    "• Liga: Serie A",
-    "• Unibet: 1 3.95 · X 6.00 · 2 1.37 (sin margen 22%/14%/63%) · ventaja +10%. Sin stake hasta demostrar ROI con estas cuotas."
-   ],
    "context": "EA FC Esoccer Battle kkikus vs Simaponika (Serie A): goles esperados 2.08-3.15, 1X2 21%/18%/60%. Sin cuotas de casa.",
    "captured": "2026-11-03T22:29",
    "version": "43129b6",
@@ -13722,6 +13745,108 @@
    "context": "EA FC Esoccer Battle zaha vs Solya (Argentina Super League 2x6): goles esperados 5.28-4.89, 1X2 48%/14%/38%. Sin cuotas de casa.",
    "captured": "2026-11-03T22:59",
    "version": "2d9baba",
+   "bajas": "",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "A",
+   "pick": "OG",
+   "odds": 3.85,
+   "book": "Unibet",
+   "implied": 0.225,
+   "edge": 0.247,
+   "sin_stake": true,
+   "p": 0.324,
+   "key": "fc|2359855",
+   "match": "hotShot vs OG",
+   "start": "2026-11-03T23:44:00+00:00",
+   "league": "🎮⚽ FC 27 · World Cup A",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 55.186 partidos)",
+    "Goles esperados: hotShot 2.30 · OG 2.00",
+    "Ganador: hotShot 44% · empate 23% · OG 32%",
+    "Total: más de 4.5 goles 43% · menos 57%",
+    "Hándicap hotShot: −1.5 27% · −2.5 14%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: hotShot ➖❌➖❌➖ | OG ✅❌✅➖✅",
+    "• Partidos: hotShot 460 | OG 496",
+    "• Liga: World Cup A",
+    "• Unibet: 1 2.20 · X 2.28 · 2 3.85 (sin margen 39%/38%/23%) · ventaja +25%. Sin stake hasta demostrar ROI con estas cuotas."
+   ],
+   "context": "EA FC Esoccer Battle hotShot vs OG (World Cup A): goles esperados 2.30-2.00, 1X2 44%/23%/32%. Sin cuotas de casa.",
+   "captured": "2026-11-03T23:10",
+   "version": "4b37b58",
+   "bajas": "",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "H",
+   "pick": "Inquisitor",
+   "odds": 2.55,
+   "book": "Unibet",
+   "implied": 0.339,
+   "edge": 0.213,
+   "sin_stake": true,
+   "p": 0.476,
+   "key": "fc|2359857",
+   "match": "Inquisitor vs hotShot",
+   "start": "2026-11-03T23:56:00+00:00",
+   "league": "🎮⚽ FC 27 · World Cup A",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 55.186 partidos)",
+    "Goles esperados: Inquisitor 2.24 · hotShot 1.79",
+    "Ganador: Inquisitor 48% · empate 24% · hotShot 29%",
+    "Total: más de 4.5 goles 38% · menos 62%",
+    "Hándicap Inquisitor: −1.5 29% · −2.5 15%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Inquisitor ✅✅✅✅➖ | hotShot ➖❌➖❌➖",
+    "• Partidos: Inquisitor 496 | hotShot 460",
+    "• Liga: World Cup A",
+    "• Unibet: 1 2.55 · X 2.75 · 2 2.50 (sin margen 34%/31%/35%) · ventaja +21%. Sin stake hasta demostrar ROI con estas cuotas."
+   ],
+   "context": "EA FC Esoccer Battle Inquisitor vs hotShot (World Cup A): goles esperados 2.24-1.79, 1X2 48%/24%/29%. Sin cuotas de casa.",
+   "captured": "2026-11-03T23:10",
+   "version": "4b37b58",
+   "bajas": "",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "H",
+   "pick": "OG",
+   "odds": 2.48,
+   "book": "Unibet",
+   "implied": 0.349,
+   "edge": 0.129,
+   "sin_stake": true,
+   "p": 0.455,
+   "key": "fc|2359853",
+   "match": "OG vs RossFCDK",
+   "start": "2026-11-03T23:32:00+00:00",
+   "league": "🎮⚽ FC 27 · World Cup A",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 55.186 partidos)",
+    "Goles esperados: OG 2.63 · RossFCDK 2.31",
+    "Ganador: OG 46% · empate 21% · RossFCDK 33%",
+    "Total: más de 4.5 goles 55% · menos 45%",
+    "Hándicap OG: −1.5 29% · −2.5 16%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: OG ✅❌✅➖✅ | RossFCDK ➖❌❌❌➖",
+    "• Partidos: OG 496 | RossFCDK 459",
+    "• Liga: World Cup A",
+    "• Unibet: 1 2.48 · X 3.05 · 2 2.35 (sin margen 35%/28%/37%) · ventaja +13%. Sin stake hasta demostrar ROI con estas cuotas."
+   ],
+   "context": "EA FC Esoccer Battle OG vs RossFCDK (World Cup A): goles esperados 2.63-2.31, 1X2 46%/21%/33%. Sin cuotas de casa.",
+   "captured": "2026-11-03T23:10",
+   "version": "4b37b58",
    "bajas": "",
    "considered": true,
    "placed": false
