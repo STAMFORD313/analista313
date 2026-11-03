@@ -195,9 +195,23 @@ PAIRS = [("total_maps_over_2_5", "total_maps_under_2_5"), ("team_1_handicap_unde
          ("team_2_handicap_under_1_5", "team_1_handicap_over_1_5")]
 
 
+def consistent(bet, odds, tol=0.03):
+    """False si los hándicaps ±1.5 de Thunderpick contradicen al ganador (P(equipo gana 2-0) > P(equipo gana)): pasa
+    en algunos partidos (p. ej. MongolZ-FURIA 4-nov: MongolZ 2-0 al 46 % con MongolZ ganador al 28 %) y daría ventajas
+    falsas."""
+    o1, o2 = ((bet.get(t) or {}).get("coeff") for t in ("team_1", "team_2"))
+    q = [odds.get(k) for k in ("team_1_handicap_under_1_5", "team_2_handicap_over_1_5", "team_2_handicap_under_1_5", "team_1_handicap_over_1_5")]
+    if not (o1 and o2 and o1 > 1 and o2 > 1) or not all(x and x > 1 for x in q): return True
+    p1 = (1 / o1) / (1 / o1 + 1 / o2)
+    t1_20 = (1 / q[0]) / (1 / q[0] + 1 / q[1]); t2_20 = (1 / q[2]) / (1 / q[2] + 1 / q[3])
+    return t1_20 <= p1 + tol and t2_20 <= 1 - p1 + tol
+
+
 def extra_markets(bet, p_map, g):
     """Total de mapas y hándicap ±1.5 en BO3: modelo (bo3_scores) mezclado 50/50 con la prob. sin margen de Thunderpick."""
     odds = {x["bet_type"]: x.get("coeff") for x in bet.get("additional_markets") or [] if x.get("active", True)}
+    if not consistent(bet, odds):
+        print("Thunderpick: hándicaps incoherentes con el ganador, se ignoran", g.get("team1"), g.get("team2")); return []
     sc, out = bo3_scores(p_map), []
     for pair in PAIRS:
         o = [odds.get(k) for k in pair]
@@ -228,14 +242,14 @@ def sgp_lines(bet, p_map, g):
     for side, team, cell, win, ah in ((1, g["team1"], (2, 1), sc[2, 0] + sc[2, 1], ("team_1_handicap_under_1_5", "team_2_handicap_over_1_5")),
                                       (2, g["team2"], (1, 2), sc[0, 2] + sc[1, 2], ("team_2_handicap_under_1_5", "team_1_handicap_over_1_5"))):
         pj, naive = sc[cell], win * (sc[2, 1] + sc[1, 2])
-        txt = f"🧩 {A.esc(team)} gana + Más de 2.5 mapas (2-1): {pj:.0%}, cuota justa {1 / pj:.2f} (producto ingenuo {1 / naive:.2f})"
+        txt = f"• {A.esc(team)} gana 2-1: {pj:.0%} → cuota justa {1 / pj:.2f}"
         a, b = (odds.get(k) for k in ah)
         if o1 and o2 and o1 > 1 and o2 > 1 and a and b and a > 1 and b > 1:
             pw = (1 / (o1 if side == 1 else o2)) / (1 / o1 + 1 / o2)
             implied = pw - (1 / a) / (1 / a + 1 / b)
-            if implied > 0.01: txt += f" · casa {implied:.0%}"
+            if implied > 0.01 and consistent(bet, odds): txt += f" · casa {implied:.0%}" + (" ✔ el bot lo ve más probable que la casa" if pj > implied + 0.03 else "")
         out.append(txt)
-    return ["", "🧩 <b>Crear apuesta</b> (marcador exacto, sin stake)", *out]
+    return ["", "🧩 <b>Marcador exacto «gana + más de 2.5 mapas»</b> (son opciones alternativas: como mucho UNA; solo información, sin stake)", *out]
 
 
 def save_odds(up, now, prob=lambda m: None):

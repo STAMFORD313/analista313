@@ -319,9 +319,14 @@ assert abs(sum(_sc.values()) - 1) < 1e-9 and np.allclose(_TS.cells(np.array([0.6
 _bet = {"team_1": {"coeff": 1.5}, "team_2": {"coeff": 2.5}, "additional_markets": [
     {"bet_type": "team_1_handicap_under_1_5", "coeff": 2.6}, {"bet_type": "team_2_handicap_over_1_5", "coeff": 1.45}]}
 _sl = _E.sgp_lines(_bet, 0.6, {"team1": "FaZe", "team2": "NaVi"})
-assert len(_sl) == 4 and "FaZe gana + Más de 2.5 mapas (2-1)" in _sl[2] and "casa" in _sl[2] and "casa" not in _sl[3]
-_j = 1 / float(_sl[2].split("cuota justa ")[1].split()[0]); _n = 1 / float(_sl[2].split("ingenuo ")[1].split(")")[0])
-assert _j < _n  # el producto ingenuo sobrestima la combinada (más de 2.5 y ganador están correlacionados)
+assert len(_sl) == 4 and "FaZe gana 2-1" in _sl[2] and "casa" in _sl[2] and "casa" not in _sl[3] and "como mucho UNA" in _sl[1]
+_j = 1 / float(_sl[2].split("cuota justa ")[1].split()[0])
+assert abs(_j - _sc[2, 1]) < 0.01  # prob. del marcador 2-1 de bo3_scores
+# Thunderpick incoherente (MongolZ-FURIA 4-nov: MongolZ 2-0 al 46 % siendo ganador al 28 %): se ignoran los hándicaps
+_bad = {"team_1": {"coeff": 3.25}, "team_2": {"coeff": 1.29}}
+_bo = {"team_1_handicap_over_1_5": 1.09, "team_2_handicap_under_1_5": 6.0, "team_1_handicap_under_1_5": 2.02, "team_2_handicap_over_1_5": 1.7}
+assert not _E.consistent(_bad, _bo) and _E.consistent(_bet, {x["bet_type"]: x["coeff"] for x in _bet["additional_markets"]})
+assert _E.extra_markets({**_bad, "additional_markets": [{"bet_type": k, "coeff": v} for k, v in _bo.items()]}, 0.3, {"team1": "MongolZ", "team2": "FURIA"}) == []
 print("ok crear apuesta esports BO3")
 
 # Champions / Europa: estadísticas cruzando las ligas de cada equipo (football_stats.cross_expected / euro_lines)

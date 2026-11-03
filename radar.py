@@ -111,6 +111,8 @@ def combo_slips(state, s):
     v = (state.get("sgp") or {}).get(s["key"])
     head = [f"<b>{A.esc(s['match']).replace(' vs ', ' 🆚 ')}</b> · 🕒 {B.when(s)} · {A.esc(s.get('league', ''))}"]
     if not v:  # sin combinadas registradas: las líneas de texto de siempre
+        i = next((j for j, l in enumerate(s["info"]) if l.startswith("🧩 <b>Marcador exacto")), None)  # esports: el bloque entero
+        if i is not None: return head + s["info"][i:i + 3] + [""]
         return head + [l for l in s["info"] if l.startswith(("🧩", "🚀", "🎯"))] + [""]
     out = head
     name = {"corta": "🧩 Crear apuesta", "larga": "🚀 Combinada larga", "valor": "🎯 Con cuota real"}

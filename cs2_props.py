@@ -61,7 +61,7 @@ def card_lines(g, p_map, scores=None):
     if not ex: return []
     P = params()
     n = f"{P['n_test']:,}".replace(",", ".")
-    lines = ["", f"🎯 <b>Kills esperados en la serie</b> (rango 80 %; mejor que la media de sus 10 últimas en {n} casos: "
+    lines = ["", f"🔫 <b>Kills esperados en la serie</b> (rango 80 %; mejor que la media de sus 10 últimas en {n} casos: "
                  f"log-loss {P['ou_ref']}→{P['ou']}; sin cuotas de props, solo referencia)"]
     for side, name in ((1, g["team1"]), (2, g["team2"])):
         pl = sorted((x for x in ex if x[0] == side), key=lambda x: -x[2])
