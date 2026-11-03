@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 03/11/2026 12:12 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 03/11/2026 12:41 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## GenOne vs Lilmix — 03/11 · 13:00
 
