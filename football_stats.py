@@ -351,6 +351,41 @@ def leg_hit(leg, r):
     return None if pd.isna(x) else bool(x > leg["line"]) == (leg["sign"] > 0)
 
 
+SIM_EDGE = 0.05  # ventaja mínima (prob. conjunta del modelo × cuota aprox. − 1) para simular la combinada a 1 u
+
+
+def price_combos(combos, offers, row=None):
+    """Pone a cada pierna la cuota de Unibet de su línea exacta (offers de kambi; goles: cuota media de Más/Menos 2.5 de
+    la fila de fixtures.csv) y a la combinada la cuota aprox. = producto de piernas y si se SIMULA (ventaja ≥ SIM_EDGE).
+    shortcut: el «crear apuesta» real de la casa suele pagar menos que el producto (descuenta la correlación); por eso
+    la ventaja se calcula con la prob. conjunta del modelo, que sí la incluye, y se mide con el resultado real."""
+    for c in combos:
+        for l in c["legs"]:
+            stat, sc = l["var"].rsplit("_", 1)
+            if stat == "goals":
+                o = (row or {}).get("Avg>2.5" if l["sign"] > 0 else "Avg<2.5")
+                l["odds"] = float(o) if o and pd.notna(o) and l["line"] == 2.5 else None
+            else:
+                o = (offers or {}).get((stat, sc), {}).get(l["line"])
+                l["odds"] = o["o" if l["sign"] > 0 else "u"] if o else None
+        if all(l.get("odds") for l in c["legs"]):
+            c["odds"] = round(float(np.prod([l["odds"] for l in c["legs"]])), 2)
+            c["edge"] = round(c["p"] * c["odds"] - 1, 3)
+            c["sim"] = c["edge"] >= SIM_EDGE
+    return combos
+
+
+def sim_lines(combos):
+    """Líneas de tarjeta: cuota aprox. de Unibet de cada combinada y si el bot la simula."""
+    out = []
+    for c in combos:
+        if c.get("odds"):
+            out.append(f"🎯 {'Simulada' if c.get('sim') else 'No simulada'} ({'crear apuesta' if c['kind'] == 'corta' else 'larga'}): "
+                       f"cuota Unibet aprox. {c['odds']:.2f} (producto de piernas) · prob. {c['p']:.0%} · ventaja {c['edge']:+.0%}"
+                       + (" → 1 u en la banca de simulación" if c.get("sim") else ""))
+    return out
+
+
 def settle_sgp(state, recent, today):
     """Liquida las combinadas registradas (state["sgp"]) con los partidos ya jugados (recent: clave → fila) y las añade
     a data/sgp_log.csv; borra las de más de 10 días sin resultado."""
@@ -362,7 +397,10 @@ def settle_sgp(state, recent, today):
             for c, hh in zip(v["combos"], hits):
                 rows.append({"fecha": v["start"][:10], "partido": v["match"], "tipo": c["kind"], "piernas": len(c["legs"]),
                              "p": c["p"], "acierto": int(all(hh)), "piernas_acertadas": sum(hh),
-                             "p_piernas": round(float(np.mean([l["p"] for l in c["legs"]])), 4)})
+                             "p_piernas": round(float(np.mean([l["p"] for l in c["legs"]])), 4),
+                             "cuota": c.get("odds"), "ventaja": c.get("edge"), "simulada": int(bool(c.get("sim"))),
+                             "ganancia": (c["odds"] - 1 if all(hh) else -1.0) if c.get("sim") else None,
+                             "piernas_txt": " + ".join(l["text"] for l in c["legs"])})
         elif v["start"][:10] >= f"{today - pd.Timedelta(days=10):%Y-%m-%d}": keep[k] = v
     state["sgp"] = keep
     if rows:
@@ -381,7 +419,11 @@ def sgp_history():
     for kind, g in d.groupby("tipo"):
         out.append(f"{kind}s {len(g)}: previsto {g.p.mean():.0%}, acertadas {g.acierto.mean():.0%} "
                    f"(piernas {g.piernas_acertadas.sum() / g.piernas.sum():.0%} vs {g.p_piernas.mean():.0%})")
-    return "📈 Historial real: " + " · ".join(out)
+    txt = "📈 Historial real: " + " · ".join(out)
+    if "simulada" in d and (sm := d[d.simulada == 1]).shape[0]:
+        txt += (f"\n🎯 Simuladas a 1 u con cuota de Unibet: {len(sm)} · acertadas {sm.acierto.mean():.0%} · "
+                f"<b>{sm.ganancia.sum():+.1f} u</b> (ROI {sm.ganancia.mean():+.0%})")
+    return txt
 
 
 def card_lines(df, div, home, away, today, P_goals, cross=None):

@@ -123,7 +123,7 @@ def combos_card(state):
     for s in new:
         st = [l for l in s["info"] if l.startswith(("Córners", "Faltas", "Tarjetas", "Tiros a puerta"))]
         lines += [f"<b>{A.esc(s['match']).replace(' vs ', ' 🆚 ')}</b> · 🕒 {B.when(s)} · {A.esc(s.get('league', ''))}",
-                  *[f"   {l}" for l in st], *[l for l in s["info"] if l.startswith(("🧩", "🚀"))], ""]
+                  *[f"   {l}" for l in st], *[l for l in s["info"] if l.startswith(("🧩", "🚀", "🎯"))], ""]
         for x in state["signals"]:
             if x["key"] == s["key"]: x["combo_anunciada"] = True
     A.send_card("\n".join(lines))

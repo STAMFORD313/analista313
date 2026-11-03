@@ -375,8 +375,15 @@ def kambi_recheck(state, stats_df, row, k, start, today):
     div, home, away = row["Div"], row["HomeTeam"], row["AwayTeam"]
     offers = kambi.offers(home, away, start, ("corners", *kambi.STAT_LABELS))
     if not offers: return
-    state["kambi_ok"].append(k)
-    football_stats.log_offers(stats_df, div, home, away, today, start, offers)
+    if k not in state["kambi_ok"]:
+        state["kambi_ok"].append(k)
+        football_stats.log_offers(stats_df, div, home, away, today, start, offers)
+    if k in state.get("sgp", {}):  # las combinadas ya registradas reciben ahora la cuota de Unibet
+        football_stats.price_combos(state["sgp"][k]["combos"], offers, row)
+        state["sgp"][k]["priced"] = True
+        for s in state["signals"]:
+            if s["key"] == k and s.get("info") and not any(l.startswith("🎯") for l in s["info"]):
+                s["info"] = s["info"] + football_stats.sim_lines(state["sgp"][k]["combos"])
     log_player_props(div, home, away, start)
     old = next((s for s in state["signals"] if s["key"] == k and s.get("info")), None)
     info = old["info"] if old else ["📊 <b>Córners</b> (cuota de Unibet publicada después del análisis)",
@@ -409,7 +416,8 @@ def analyze_fixtures(df, state, today, kg):
         try: football_stats.set_market(row)  # cuotas del partido para córners/tiros/faltas/tarjetas esperados
         except Exception as e: print("cuotas para estadísticas", repr(e))
         if k in state["analyzed"]:  # analizado antes de que Unibet lo publicara: se vuelve a mirar hasta encontrarlo
-            if div in LEAGUES and k not in state.setdefault("kambi_ok", []) and start - now < pd.Timedelta(days=2):
+            unpriced = k in state.get("sgp", {}) and not state["sgp"][k].get("priced")  # combinadas aún sin cuota de Unibet
+            if div in LEAGUES and (k not in state.setdefault("kambi_ok", []) or unpriced) and start - now < pd.Timedelta(days=2):
                 try: kambi_recheck(state, stats_df, row, k, start, today)
                 except Exception as e: print("Kambi recheck", repr(e))
             continue
@@ -446,7 +454,10 @@ def analyze_fixtures(df, state, today, kg):
         stat_lines = football_stats.card_lines(stats_df, div, home, away, today, P)
         info += stat_lines
         if football_stats.LAST:  # se liquidan después del partido para tener historial real (football_stats.settle_sgp)
-            state.setdefault("sgp", {})[k] = {"match": f"{home} vs {away}", "start": start.isoformat(), "combos": list(football_stats.LAST)}
+            combos = football_stats.price_combos(list(football_stats.LAST), offers, row)
+            state.setdefault("sgp", {})[k] = {"match": f"{home} vs {away}", "start": start.isoformat(), "combos": combos, "priced": bool(offers)}
+            stat_lines += football_stats.sim_lines(combos)
+            info += football_stats.sim_lines(combos)
         context = (f"{home} vs {away} ({ALL_LEAGUES[div]}). Modelo Poisson con historial desde 2005 y bajas: "
                    f"1 {P['H']:.0%} X {P['D']:.0%} 2 {P['A']:.0%}, +2.5 {P['O25']:.0%}, ambos marcan {P['BTTS']:.0%}. "
                    f"Forma {home} {form(df, home)}, {away} {form(df, away)} (✅ victoria ➖ empate ❌ derrota). "

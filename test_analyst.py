@@ -605,3 +605,17 @@ _nd = {"boxscore": {"players": [{"team": {"displayName": "Lakers"}, "statistics"
 _nb = nba_players.compact(_nd)["teams"][0]["players"][0]
 assert _nb[:7] == ["3", "LeBron James", 35.0, 27.0, 5.0, True, False] and _nb[7:13] == [8.0, 9.0, 3.0, 2.0, 1.0, 3.0] and len(_nb) == nba_players.N_COLS
 print("ok ESPN jugadores fútbol y NBA")
+
+# combinadas simuladas con la cuota de Unibet de cada pierna (football_stats.price_combos / sim_lines / settle_sgp)
+_cb = [{"kind": "corta", "p": 0.40, "legs": [_leg("corners_h", 1, 5.5, 0.6), _leg("goals_t", -1, 2.5, 0.65)]},
+       {"kind": "larga", "p": 0.20, "legs": [_leg("corners_h", 1, 5.5, 0.6), _leg("cards_a", 1, 1.5, 0.6)]}]
+football_stats.price_combos(_cb, {("corners", "h"): {5.5: {"o": 1.8, "u": 2.0}}}, {"Avg>2.5": 1.7, "Avg<2.5": 2.1})
+assert _cb[0]["odds"] == round(1.8 * 2.1, 2) and _cb[0]["sim"] and abs(_cb[0]["edge"] - (0.4 * 3.78 - 1)) < 1e-3
+assert "odds" not in _cb[1]  # la tarjeta del visitante no tiene cuota: no se simula
+assert football_stats.sim_lines(_cb)[0].startswith("🎯 Simulada (crear apuesta): cuota Unibet aprox. 3.78")
+football_stats.SGP_LOG = Path(tempfile.mkdtemp()) / "sgp2.csv"
+_sg2 = {"sgp": {"E0|2026-11-01|Leeds|Hull": {"match": "Leeds vs Hull", "start": "2026-11-01T15:00:00+00:00", "combos": _cb}}}
+football_stats.settle_sgp(_sg2, {"E0|2026-11-01|Leeds|Hull": {"FTHG": 1, "FTAG": 0, "HC": 7, "AC": 2, "HY": 1, "AY": 3, "HR": 0, "AR": 0}}, pd.Timestamp("2026-11-03"))
+_h2 = pd.read_csv(football_stats.SGP_LOG)
+assert _h2.simulada.tolist() == [1, 0] and abs(_h2.ganancia.iloc[0] - 2.78) < 1e-9 and "Simuladas a 1 u" in football_stats.sgp_history()
+print("ok combinadas simuladas con cuota de Unibet")
