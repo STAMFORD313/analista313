@@ -1,5 +1,5 @@
 # 🏀 NBA·NCAA · apuestas de valor
 
-Actualizado 03/11/2026 23:03 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 03/11/2026 23:08 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 _No hay apuestas de valor próximas en este deporte ahora mismo._

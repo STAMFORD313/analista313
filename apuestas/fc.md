@@ -1,6 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 03/11/2026 23:03 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 03/11/2026 23:08 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Kray vs RossFCDK — 03/11 · 23:10
 
@@ -20,12 +20,12 @@ Hándicap Kray: −1.5 45% · −2.5 29%
 • Liga: Portugal Primera  
 • Unibet: 1 1.50 · X 5.30 · 2 3.35 (sin margen 58%/16%/26%) · ventaja -4%. Sin stake hasta demostrar ROI con estas cuotas.  
 
-## OG vs Inquisitor — 03/11 · 23:10
+## Simaponika vs kkikus — 03/11 · 23:19
 
-👀 candidata · 🎮⚽ FC 27 · Portugal Primera · **Gana Inquisitor** @ **1.61** (Unibet) · prob 56% vs casas 55% · ventaja -10%
+👀 candidata · 🎮⚽ FC 27 · World Cup A · **Empate** @ **6.00** (Unibet) · prob 19% vs casas 14% · ventaja +13%
 
-- ❌ Valor: ventaja -10% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+- ✅ Valor: ventaja +13% (mín. 12% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
 
 📊 **Escenarios** (Poisson por jugador, 55.114 partidos)  
 Goles esperados: OG 2.04 · Inquisitor 2.89  
@@ -92,24 +92,6 @@ Hándicap Sheva: −1.5 73% · −2.5 59%
 • Liga: Volta World Cup B  
 • Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
 
-## Yerema vs Sheva — 03/11 · 23:19
-
-👀 candidata · 🎮⚽ FC 27 · Volta World Cup B · **Gana Sheva** @ **1.15** (cuota justa (sin casa)) · prob 87% vs casas 87% · ventaja +0%
-
-- ❌ Valor: ventaja +0% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 55.114 partidos)  
-Goles esperados: Yerema 1.89 · Sheva 5.03  
-Ganador: Yerema 5% · empate 8% · Sheva 87%  
-Total: más de 6.5 goles 54% · menos 46%  
-Hándicap Sheva: −1.5 73% · −2.5 59%  
-🔎 **Claves**  
-• Forma: Yerema ❌❌➖❌❌ | Sheva ✅✅❌✅✅  
-• Partidos: Yerema 512 | Sheva 1278  
-• Liga: Volta World Cup B  
-• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
-
 ## RossFCDK vs OG — 03/11 · 23:22
 
 👀 candidata · 🎮⚽ FC 27 · Portugal Primera · **Gana RossFCDK** @ **2.75** (Unibet) · prob 34% vs casas 32% · ventaja -6%
@@ -146,23 +128,59 @@ Hándicap Kray: −1.5 31% · −2.5 17%
 • Liga: Portugal Primera  
 • Unibet: 1 2.60 · X 4.00 · 2 1.93 (sin margen 33%/22%/45%) · ventaja -6%. Sin stake hasta demostrar ROI con estas cuotas.  
 
-## hotShot vs Kray — 03/11 · 23:22
+## Kavviro vs tizzy — 03/11 · 23:31
 
-👀 candidata · 🎮⚽ FC 27 · Portugal Primera · **Gana Kray** @ **1.93** (Unibet) · prob 49% vs casas 45% · ventaja -6%
+👀 candidata · 🎮⚽ FC 27 · World Cup A · **Empate** @ **4.50** (Unibet) · prob 22% vs casas 19% · ventaja -1%
 
-- ❌ Valor: ventaja -6% (mín. 7% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+- ❌ Valor: ventaja -1% (mín. 8% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 55.114 partidos)  
-Goles esperados: hotShot 2.10 · Kray 2.59  
-Ganador: hotShot 30% · empate 22% · Kray 49%  
-Total: más de 4.5 goles 50% · menos 50%  
-Hándicap Kray: −1.5 31% · −2.5 17%  
+📊 **Escenarios** (Poisson por jugador, 55.134 partidos)  
+Goles esperados: Kavviro 2.42 · tizzy 2.32  
+Ganador: Kavviro 41% · empate 22% · tizzy 37%  
+Total: más de 4.5 goles 51% · menos 49%  
+Hándicap Kavviro: −1.5 25% · −2.5 13%  
 🔎 **Claves**  
-• Forma: hotShot ❌✅➖❌✅ | Kray ❌❌❌➖❌  
-• Partidos: hotShot 452 | Kray 487  
+• Forma: Kavviro ✅✅❌✅✅ | tizzy ❌❌✅✅✅  
+• Partidos: Kavviro 696 | tizzy 288  
+• Liga: World Cup A  
+• Unibet: 1 2.05 · X 4.50 · 2 2.30 (sin margen 43%/19%/38%) · ventaja -1%. Sin stake hasta demostrar ROI con estas cuotas.  
+
+## OG vs hotShot — 03/11 · 23:34
+
+👀 candidata · 🎮⚽ FC 27 · Portugal Primera · **Gana OG** @ **4.20** (Unibet) · prob 31% vs casas 21% · ventaja +31%
+
+- ❌ Valor: ventaja +31% (mín. 16% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 55.134 partidos)  
+Goles esperados: OG 1.86 · hotShot 2.18  
+Ganador: OG 31% · empate 24% · hotShot 45%  
+Total: más de 4.5 goles 38% · menos 62%  
+Hándicap hotShot: −1.5 27% · −2.5 13%  
+🔎 **Claves**  
+• Forma: OG ✅❌➖➖➖ | hotShot ❌✅➖❌✅  
+• Partidos: OG 488 | hotShot 452  
 • Liga: Portugal Primera  
-• Unibet: 1 2.60 · X 4.00 · 2 1.93 (sin margen 33%/22%/45%) · ventaja -6%. Sin stake hasta demostrar ROI con estas cuotas.  
+• Unibet: 1 4.20 · X 2.28 · 2 2.14 (sin margen 21%/38%/41%) · ventaja +31%. Sin stake hasta demostrar ROI con estas cuotas.  
+
+## Inquisitor vs RossFCDK — 03/11 · 23:34
+
+👀 candidata · 🎮⚽ FC 27 · Portugal Primera · **Gana RossFCDK** @ **4.30** (Unibet) · prob 21% vs casas 20% · ventaja -11%
+
+- ❌ Valor: ventaja -11% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 55.134 partidos)  
+Goles esperados: Inquisitor 2.73 · RossFCDK 1.75  
+Ganador: Inquisitor 59% · empate 20% · RossFCDK 21%  
+Total: más de 4.5 goles 46% · menos 54%  
+Hándicap Inquisitor: −1.5 39% · −2.5 23%  
+🔎 **Claves**  
+• Forma: Inquisitor ✅✅➖✅✅ | RossFCDK ✅✅➖➖❌  
+• Partidos: Inquisitor 488 | RossFCDK 451  
+• Liga: Portugal Primera  
+• Unibet: 1 1.46 · X 4.20 · 2 4.30 (sin margen 59%/21%/20%) · ventaja -11%. Sin stake hasta demostrar ROI con estas cuotas.  
 
 ## Sheva vs Yerema — 04/11 · 00:04
 
