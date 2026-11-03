@@ -1,23 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 03/11/2026 19:48 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## QUINTESSÊNCIA vs RED Canids Academy — 03/11 · 20:00
-
-👀 candidata · 🎮 CS2 · CCT South America 2026 Series 8 · **Gana RED Canids Academy** @ **1.29** (Thunderpick) · prob 73% vs casas 72% · ventaja -6%
-
-- ❌ Valor: ventaja -6% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 76.351 partidos)  
-Mapa: QUINTESSÊNCIA 36% · Serie BO3: QUINTESSÊNCIA 26% - 74% RED Canids Academy  
-Casas: QUINTESSÊNCIA 28% · RED Canids Academy 72%  
-🔎 **Claves**  
-• Elo: QUINTESSÊNCIA 1526 (62 series) | RED Canids Academy 1680 (128 series)  
-• Forma: QUINTESSÊNCIA ✅❌✅❌❌ | RED Canids Academy ✅✅✅❌✅  
-• H2H: 6: 2-4  
-• Torneo: CCT South America 2026 Series 8 (nivel B)  
-• Cambios de plantilla: ninguno  
+Actualizado 03/11/2026 20:14 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## MEIA NOITE vs BESTIA Academy — 03/11 · 22:00
 
