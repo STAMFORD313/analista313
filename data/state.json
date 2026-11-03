@@ -860,6 +860,7 @@
   "fc|2359729",
   "fc|2360662",
   "atp|2026-11-04|Mattia Bellucci|Arthur Rinderknech",
+  "wta|2026-11-04|Janice Tjen|Joanna Garland",
   "cs2|133358",
   "cs2|133359",
   "cs2|133360",
@@ -11345,7 +11346,10 @@
    "version": "565fcdb",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "0-6",
+   "result": true,
+   "logged": true
   },
   {
    "market": "A",
@@ -11374,30 +11378,30 @@
    "odds": 3.55,
    "book": "Unibet",
    "implied": 0.248,
-   "edge": 0.3,
+   "edge": 0.401,
    "sin_stake": true,
-   "p": 0.366,
+   "p": 0.395,
    "key": "fc|2359733",
    "match": "Bomb1to vs Wboy",
    "start": "2026-11-03T12:37:00+00:00",
    "league": "🎮⚽ FC 27 · Champions League B",
    "sport": "🎮⚽",
    "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 54.578 partidos)",
-    "Goles esperados: Bomb1to 3.73 · Wboy 3.33",
-    "Ganador: Bomb1to 48% · empate 15% · Wboy 37%",
+    "📊 <b>Escenarios</b> (Poisson por jugador, 54.598 partidos)",
+    "Goles esperados: Bomb1to 3.64 · Wboy 3.44",
+    "Ganador: Bomb1to 45% · empate 15% · Wboy 39%",
     "Total: más de 7.5 goles 41% · menos 59%",
-    "Hándicap Bomb1to: −1.5 33% · −2.5 21%",
+    "Hándicap Bomb1to: −1.5 31% · −2.5 19%",
     "",
     "🔎 <b>Claves</b>",
-    "• Forma: Bomb1to ❌❌❌✅➖ | Wboy ➖❌✅❌❌",
-    "• Partidos: Bomb1to 1138 | Wboy 947",
+    "• Forma: Bomb1to ➖✅❌❌❌ | Wboy ✅❌✅➖✅",
+    "• Partidos: Bomb1to 1146 | Wboy 955",
     "• Liga: Champions League B",
-    "• Unibet: 1 1.60 · X 4.35 · 2 3.55 (sin margen 55%/20%/25%) · ventaja +30%. Sin stake hasta demostrar ROI con estas cuotas."
+    "• Unibet: 1 1.60 · X 4.35 · 2 3.55 (sin margen 55%/20%/25%) · ventaja +40%. Sin stake hasta demostrar ROI con estas cuotas."
    ],
-   "context": "EA FC Esoccer Battle Bomb1to vs Wboy (Champions League B): goles esperados 3.73-3.33, 1X2 48%/15%/37%. Sin cuotas de casa.",
-   "captured": "2026-11-03T12:11",
-   "version": "7c7f2ee",
+   "context": "EA FC Esoccer Battle Bomb1to vs Wboy (Champions League B): goles esperados 3.64-3.44, 1X2 45%/15%/39%. Sin cuotas de casa.",
+   "captured": "2026-11-03T12:15",
+   "version": "dddba07",
    "bajas": "",
    "considered": true,
    "placed": false
@@ -11417,7 +11421,7 @@
    "league": "🎮⚽ FC 27 · FA Cup",
    "sport": "🎮⚽",
    "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 54.578 partidos)",
+    "📊 <b>Escenarios</b> (Poisson por jugador, 54.598 partidos)",
     "Goles esperados: Tesla 3.05 · Pavlinho19 2.41",
     "Ganador: Tesla 52% · empate 17% · Pavlinho19 31%",
     "Total: más de 5.5 goles 46% · menos 54%",
@@ -11430,8 +11434,8 @@
     "• Unibet: 1 2.45 · X 3.70 · 2 2.12 (sin margen 35%/23%/41%) · ventaja +27%. Sin stake hasta demostrar ROI con estas cuotas."
    ],
    "context": "EA FC Esoccer Battle Tesla vs Pavlinho19 (FA Cup): goles esperados 3.05-2.41, 1X2 52%/17%/31%. Sin cuotas de casa.",
-   "captured": "2026-11-03T12:11",
-   "version": "7c7f2ee",
+   "captured": "2026-11-03T12:15",
+   "version": "dddba07",
    "bajas": "",
    "considered": true,
    "placed": false
@@ -11451,7 +11455,7 @@
    "league": "🎮⚽ FC 27 · FA Cup",
    "sport": "🎮⚽",
    "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 54.578 partidos)",
+    "📊 <b>Escenarios</b> (Poisson por jugador, 54.598 partidos)",
     "Goles esperados: Pavlinho19 2.72 · Taz 2.79",
     "Ganador: Pavlinho19 40% · empate 17% · Taz 42%",
     "Total: más de 5.5 goles 47% · menos 53%",
@@ -11464,8 +11468,8 @@
     "• Unibet: 1 1.74 · X 4.40 · 2 2.90 (sin margen 50%/20%/30%) · ventaja +23%. Sin stake hasta demostrar ROI con estas cuotas."
    ],
    "context": "EA FC Esoccer Battle Pavlinho19 vs Taz (FA Cup): goles esperados 2.72-2.79, 1X2 40%/17%/42%. Sin cuotas de casa.",
-   "captured": "2026-11-03T12:11",
-   "version": "7c7f2ee",
+   "captured": "2026-11-03T12:15",
+   "version": "dddba07",
    "bajas": "",
    "considered": true,
    "placed": false

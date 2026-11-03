@@ -1,6 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 03/11/2026 13:11 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 03/11/2026 13:15 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Tesla vs Pavlinho19 — 03/11 · 13:22
 
@@ -9,7 +9,7 @@ Actualizado 03/11/2026 13:11 (hora España). ✅ = el bot apuesta · ❌ = condi
 - ✅ Valor: ventaja +27% (mín. 15% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 54.578 partidos)  
+📊 **Escenarios** (Poisson por jugador, 54.598 partidos)  
 Goles esperados: Tesla 3.05 · Pavlinho19 2.41  
 Ganador: Tesla 52% · empate 17% · Pavlinho19 31%  
 Total: más de 5.5 goles 46% · menos 54%  
@@ -27,7 +27,7 @@ Hándicap Tesla: −1.5 35% · −2.5 21%
 - ✅ Valor: ventaja +23% (mín. 14% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 54.578 partidos)  
+📊 **Escenarios** (Poisson por jugador, 54.598 partidos)  
 Goles esperados: Pavlinho19 2.72 · Taz 2.79  
 Ganador: Pavlinho19 40% · empate 17% · Taz 42%  
 Total: más de 5.5 goles 47% · menos 53%  
@@ -58,21 +58,21 @@ Hándicap Kril: −1.5 68% · −2.5 54%
 
 ## Bomb1to vs Wboy — 03/11 · 13:37
 
-👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana Wboy** @ **3.55** (Unibet) · prob 37% vs casas 25% · ventaja +30%
+👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana Wboy** @ **3.55** (Unibet) · prob 40% vs casas 25% · ventaja +40%
 
-- ✅ Valor: ventaja +30% (mín. 15% con la incertidumbre, máx. 30%)
+- ❌ Valor: ventaja +40% (mín. 18% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 54.578 partidos)  
-Goles esperados: Bomb1to 3.73 · Wboy 3.33  
-Ganador: Bomb1to 48% · empate 15% · Wboy 37%  
+📊 **Escenarios** (Poisson por jugador, 54.598 partidos)  
+Goles esperados: Bomb1to 3.64 · Wboy 3.44  
+Ganador: Bomb1to 45% · empate 15% · Wboy 39%  
 Total: más de 7.5 goles 41% · menos 59%  
-Hándicap Bomb1to: −1.5 33% · −2.5 21%  
+Hándicap Bomb1to: −1.5 31% · −2.5 19%  
 🔎 **Claves**  
-• Forma: Bomb1to ❌❌❌✅➖ | Wboy ➖❌✅❌❌  
-• Partidos: Bomb1to 1138 | Wboy 947  
+• Forma: Bomb1to ➖✅❌❌❌ | Wboy ✅❌✅➖✅  
+• Partidos: Bomb1to 1146 | Wboy 955  
 • Liga: Champions League B  
-• Unibet: 1 1.60 · X 4.35 · 2 3.55 (sin margen 55%/20%/25%) · ventaja +30%. Sin stake hasta demostrar ROI con estas cuotas.  
+• Unibet: 1 1.60 · X 4.35 · 2 3.55 (sin margen 55%/20%/25%) · ventaja +40%. Sin stake hasta demostrar ROI con estas cuotas.  
 
 ## Kril vs Haiko — 03/11 · 13:45
 
