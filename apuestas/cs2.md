@@ -1,23 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 03/11/2026 17:58 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## BOJONG vs eSuba — 03/11 · 18:00
-
-👀 candidata · 🎮 CS2 · ESEA Season 59: Advanced Division - Europe · **Gana eSuba** @ **1.67** (Thunderpick) · prob 57% vs casas 56% · ventaja -5%
-
-- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa. 76.347 partidos)  
-Mapa: BOJONG 41% · Serie BO1: BOJONG 41% - 59% eSuba  
-Casas: BOJONG 44% · eSuba 56%  
-🔎 **Claves**  
-• Elo: BOJONG 1342 (56 series) | eSuba 1402 (91 series)  
-• Forma: BOJONG ❌❌❌✅❌ | eSuba ❌❌❌❌❌  
-• H2H: sin precedentes  
-• Torneo: ESEA Season 59: Advanced Division - Europe (nivel C)  
-• Cambios de plantilla: ninguno  
+Actualizado 03/11/2026 18:13 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## OLDBOYS PL vs Fire Flux — 03/11 · 18:30
 
