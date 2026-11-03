@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 03/11/2026 14:15 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 03/11/2026 14:43 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## PCIFIC vs Falcons Force — 03/11 · 15:00
 
