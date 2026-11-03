@@ -156,6 +156,11 @@ def paper_lines(min_n=3):
         se = g.g.std() / np.sqrt(len(g))
         flag = "⚪" if len(g) < 20 else "🔴" if g.g.mean() + 2 * se < 0 else "🟢" if g.g.mean() - 2 * se > 0 else "⚪"
         out.append(f"{flag} {NAMES_SPORT.get(sp, sp)} · {mk} ({len(g)}): {g.p.mean():.0%} → {g.gano.mean():.0%} · ROI {g.g.mean():+.0%} ± {se:.0%}")
+    try:  # props de jugador de fútbol con cuota real de Unibet, liquidadas con ESPN (football_players.py)
+        import football_players
+        if football_players.LOG.exists() and (pp := football_players.report()):
+            out += ["⚽👤 <b>Props de jugador (Unibet)</b>: real · prob. casa · prob. modelo", *pp]
+    except Exception as e: print("props de jugador", repr(e))
     out.append("🟢/🔴 = gana/pierde con margen (2 errores típicos, mín. 20) · ⚪ = aún es ruido: hacen falta más partidos")
     return out
 

@@ -680,3 +680,27 @@ assert any(l.startswith("Giannis Antetokounmpo (Heat, 34 min): 30.6") for l in _
 assert any(l.startswith("Derrick White (Celtics") for l in _nl)
 nba_props.params = _np0; nba_props._state.clear(); nba_props._state.update(_ns0)
 print("ok props NBA")
+
+# props de jugador de fútbol con ESPN y liquidación de las cuotas de Unibet (football_players)
+import football_players as FP, math
+assert FP.group("CD-L") == "D" and FP.group("G") == "G" and FP.group("F") == "F" and FP.group("AM") == "M"
+assert FP.norm("Kylian Mbappé") == "kylian mbappe" and abs(FP.prob(0.5, 1) - (1 - math.exp(-0.5))) < 1e-12
+_fr = pd.DataFrame([{"date": pd.Timestamp("2026-10-0%d" % i, tz="UTC"), "game": str(i), "pid": "9", "name": "Kylian Mbappé", "team": "RM",
+                     "starter": True, "pos": "F", "goles": 1.0, "asist": 0.0, "tiros_puerta": 2.0, "cards": 0.0} for i in range(1, 6)])
+_fw, _, _ = FP.walk(_fr)
+assert abs(_fw.goles.iloc[0] - 0.05) < 1e-9 and _fw.goles.iloc[-1] > 0.9  # sin historial: valor por defecto; luego aprende que marca siempre
+_rows0, _log0 = FP.rows, FP.LOG
+FP.rows = lambda: _fr.assign(date=_fr.date + pd.Timedelta(hours=20))
+FP.LOG = Path(tempfile.mkdtemp()) / "pp.csv"
+_kp = A_.DATA / "kambi_player_props.csv"
+_kpb = _kp.read_bytes() if _kp.exists() else None
+pd.DataFrame([{"mercado": "To Score", "jugador": "Kylian Mbappe", "tipo": "OT_YES", "linea": 1.0, "cuota": 1.9, "seen": "2026-10-05T10:00:00+00:00",
+               "start": "2026-10-05T20:00:00+00:00", "div": "SP1", "home": "Real Madrid", "away": "Getafe"}]).to_csv(_kp, index=False)
+try:
+    _st = FP.settle()
+    assert len(_st) == 1 and _st.acierto.iloc[0] == 1 and _st.p_casa.iloc[0] == round(1 / 1.9, 4) and 0.3 < _st.p_modelo.iloc[0] < 1
+finally:
+    if _kpb is None: _kp.unlink()
+    else: _kp.write_bytes(_kpb)
+    FP.rows, FP.LOG = _rows0, _log0
+print("ok props de jugador de fútbol")

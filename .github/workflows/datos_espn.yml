@@ -17,14 +17,16 @@ jobs:
       - uses: actions/setup-python@v5
         with: {python-version: "3.12", cache: pip}
       - run: pip install -r requirements.txt
-      - run: python espn_soccer.py 6000 || echo "fallo en ESPN fútbol"
+      - run: |
+          python espn_soccer.py 6000 || echo "fallo en ESPN fútbol"
+          python football_players.py || echo "fallo en props de jugador"   # backtest + liquidar props de Unibet
       - run: |
           python nba_players.py descargar nba completo || echo "fallo en NBA"
           python nba_players.py descargar nhl completo || echo "fallo en NHL"
       - run: |
           git config user.name analista-bot
           git config user.email actions@users.noreply.github.com
-          git add data/espn_soccer data/nba/box.jsonl data/nhl/box.jsonl
+          git add data/espn_soccer data/nba/box.jsonl data/nhl/box.jsonl data/player_props_log.csv
           git diff --cached --quiet && exit 0
           git commit -m "datos ESPN $(date -u +%FT%H:%M)"
           for i in 1 2 3 4 5; do git pull --rebase --autostash -X theirs -q && git push && exit 0; git rebase --abort 2>/dev/null; sleep 10; done; exit 1
