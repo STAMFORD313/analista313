@@ -1,24 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 03/11/2026 14:11 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## dm1trena vs Revange — 03/11 · 14:16
-
-👀 candidata · 🎮⚽ FC 27 · LaLiga · **Gana dm1trena** @ **3.35** (Unibet) · prob 34% vs casas 26% · ventaja +14%
-
-- ✅ Valor: ventaja +14% (mín. 12% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 54.636 partidos)  
-Goles esperados: dm1trena 2.31 · Revange 2.72  
-Ganador: dm1trena 34% · empate 18% · Revange 48%  
-Total: más de 5.5 goles 39% · menos 61%  
-Hándicap Revange: −1.5 30% · −2.5 17%  
-🔎 **Claves**  
-• Forma: dm1trena ➖❌❌✅✅ | Revange ❌❌✅✅❌  
-• Partidos: dm1trena 964 | Revange 539  
-• Liga: LaLiga  
-• Unibet: 1 3.35 · X 4.25 · 2 1.65 (sin margen 26%/21%/53%) · ventaja +14%. Sin stake hasta demostrar ROI con estas cuotas.  
+Actualizado 03/11/2026 14:15 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Fireline vs Kril — 03/11 · 14:21
 
@@ -92,39 +74,57 @@ Hándicap ZORO: −1.5 82% · −2.5 72%
 • Liga: International A 2x6  
 • Sin cuotas gratuitas de esoccer: cuota justa del modelo, solo candidata (no se apuesta).  
 
+## Taz vs Pavlinho19 — 03/11 · 14:34
+
+👀 candidata · 🎮⚽ FC 27 · FA Cup · **Gana Taz** @ **2.65** (Unibet) · prob 41% vs casas 33% · ventaja +9%
+
+- ❌ Valor: ventaja +9% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 54.636 partidos)  
+Goles esperados: Taz 2.79 · Pavlinho19 2.72  
+Ganador: Taz 41% · empate 20% · Pavlinho19 39%  
+Total: más de 5.5 goles 47% · menos 53%  
+Hándicap Taz: −1.5 26% · −2.5 14%  
+🔎 **Claves**  
+• Forma: Taz ➖✅✅❌➖ | Pavlinho19 ➖❌✅✅➖  
+• Partidos: Taz 821 | Pavlinho19 809  
+• Liga: FA Cup  
+• Unibet: 1 2.65 · X 4.40 · 2 1.85 (sin margen 33%/20%/47%) · ventaja +9%. Sin stake hasta demostrar ROI con estas cuotas.  
+
 ## Wboy vs Bomb1to — 03/11 · 14:37
 
-👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana Wboy** @ **3.10** (Unibet) · prob 40% vs casas 28% · ventaja +22%
+👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana Wboy** @ **3.10** (Unibet) · prob 38% vs casas 28% · ventaja +18%
 
-- ✅ Valor: ventaja +22% (mín. 14% con la incertidumbre, máx. 30%)
+- ✅ Valor: ventaja +18% (mín. 13% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
 📊 **Escenarios** (Poisson por jugador, 54.636 partidos)  
 Goles esperados: Wboy 3.44 · Bomb1to 3.64  
-Ganador: Wboy 39% · empate 15% · Bomb1to 45%  
+Ganador: Wboy 38% · empate 17% · Bomb1to 45%  
 Total: más de 7.5 goles 41% · menos 59%  
 Hándicap Bomb1to: −1.5 31% · −2.5 19%  
 🔎 **Claves**  
 • Forma: Wboy ✅❌✅➖✅ | Bomb1to ➖✅❌❌❌  
 • Partidos: Wboy 955 | Bomb1to 1146  
 • Liga: Champions League B  
-• Unibet: 1 3.10 · X 4.30 · 2 1.70 (sin margen 28%/20%/51%) · ventaja +22%. Sin stake hasta demostrar ROI con estas cuotas.  
+• Unibet: 1 3.10 · X 4.30 · 2 1.70 (sin margen 28%/20%/51%) · ventaja +18%. Sin stake hasta demostrar ROI con estas cuotas.  
 
-## Jekunam vs dm1trena — 03/11 · 14:40
+## ramzes vs mPm — 03/11 · 14:52
 
-👀 candidata · 🎮⚽ FC 27 · LaLiga · **Gana dm1trena** @ **3.40** (Unibet) · prob 34% vs casas 26% · ventaja +14%
+👀 candidata · 🎮⚽ FC 27 · Eredivisie · **Gana mPm** @ **1.77** (Unibet) · prob 62% vs casas 50% · ventaja +11%
 
-- ✅ Valor: ventaja +14% (mín. 12% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+- ✅ Valor: ventaja +11% (mín. 11% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
 
 📊 **Escenarios** (Poisson por jugador, 54.636 partidos)  
-Goles esperados: Jekunam 2.77 · dm1trena 2.33  
-Ganador: Jekunam 49% · empate 18% · dm1trena 33%  
-Total: más de 5.5 goles 40% · menos 60%  
-Hándicap Jekunam: −1.5 31% · −2.5 17%  
+Goles esperados: ramzes 2.96 · mPm 4.23  
+Ganador: ramzes 22% · empate 15% · mPm 63%  
+Total: más de 7.5 goles 43% · menos 57%  
+Hándicap mPm: −1.5 46% · −2.5 32%  
 🔎 **Claves**  
-• Forma: Jekunam ➖✅❌❌✅ | dm1trena ➖❌❌✅✅  
-• Partidos: Jekunam 945 | dm1trena 964  
-• Liga: LaLiga  
-• Unibet: 1 1.78 · X 3.40 · 2 3.40 (sin margen 49%/26%/26%) · ventaja +14%. Sin stake hasta demostrar ROI con estas cuotas.  
+• Forma: ramzes ✅❌✅❌❌ | mPm ❌✅✅✅❌  
+• Partidos: ramzes 972 | mPm 623  
+• Liga: Eredivisie  
+• Unibet: 1 2.43 · X 6.40 · 2 1.77 (sin margen 36%/14%/50%) · ventaja +11%. Sin stake hasta demostrar ROI con estas cuotas.  
 
