@@ -50,7 +50,7 @@ def due(name, st, now):
     return every == 0 or not last or now - pd.Timestamp(last) >= pd.Timedelta(hours=every) - pd.Timedelta(minutes=5)
 
 
-def run(names=None, budget_min=240):
+def run(names=None, budget_min=100):  # pasadas cortas: lo que no quepa queda pendiente para la siguiente
     st, now, t_start = load(), pd.Timestamp.now(tz="UTC"), time.time()
     todo = names or [n for n in EXPERTS if due(n, st, now)]
     for n in todo:
