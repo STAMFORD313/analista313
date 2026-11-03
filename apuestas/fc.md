@@ -1,58 +1,58 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 03/11/2026 15:20 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 03/11/2026 15:43 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## Edwardson vs dm1trena — 03/11 · 15:28
+## mPm vs ramzes — 03/11 · 15:52
 
-👀 candidata · 🎮⚽ FC 27 · LaLiga · **Gana Edwardson** @ **2.80** (Unibet) · prob 38% vs casas 31% · ventaja +6%
+👀 candidata · 🎮⚽ FC 27 · Eredivisie · **Gana mPm** @ **1.76** (Unibet) · prob 62% vs casas 50% · ventaja +10%
+
+- ❌ Valor: ventaja +10% (mín. 11% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 54.734 partidos)  
+Goles esperados: mPm 4.23 · ramzes 2.96  
+Ganador: mPm 63% · empate 15% · ramzes 22%  
+Total: más de 7.5 goles 43% · menos 57%  
+Hándicap mPm: −1.5 46% · −2.5 32%  
+🔎 **Claves**  
+• Forma: mPm ❌✅✅✅❌ | ramzes ✅❌✅❌❌  
+• Partidos: mPm 623 | ramzes 972  
+• Liga: Eredivisie  
+• Unibet: 1 1.76 · X 5.60 · 2 2.55 (sin margen 50%/16%/34%) · ventaja +10%. Sin stake hasta demostrar ROI con estas cuotas.  
+
+## lzrn vs llulle — 03/11 · 15:52
+
+👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana llulle** @ **2.60** (Unibet) · prob 42% vs casas 34% · ventaja +10%
+
+- ❌ Valor: ventaja +10% (mín. 11% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 54.734 partidos)  
+Goles esperados: lzrn 2.64 · llulle 2.76  
+Ganador: lzrn 37% · empate 20% · llulle 42%  
+Total: más de 5.5 goles 45% · menos 55%  
+Hándicap llulle: −1.5 27% · −2.5 15%  
+🔎 **Claves**  
+• Forma: lzrn ✅❌✅❌➖ | llulle ➖❌✅✅✅  
+• Partidos: lzrn 719 | llulle 793  
+• Liga: Champions League B  
+• Unibet: 1 1.90 · X 4.20 · 2 2.60 (sin margen 46%/21%/33%) · ventaja +10%. Sin stake hasta demostrar ROI con estas cuotas.  
+
+## Duka vs Maslja — 03/11 · 15:58
+
+👀 candidata · 🎮⚽ FC 27 · Serie A · **Gana Maslja** @ **3.15** (Unibet) · prob 34% vs casas 28% · ventaja +6%
 
 - ❌ Valor: ventaja +6% (mín. 10% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 54.696 partidos)  
-Goles esperados: Edwardson 2.30 · dm1trena 2.34  
-Ganador: Edwardson 38% · empate 22% · dm1trena 40%  
-Total: más de 4.5 goles 49% · menos 51%  
-Hándicap dm1trena: −1.5 24% · −2.5 12%  
+📊 **Escenarios** (Poisson por jugador, 54.734 partidos)  
+Goles esperados: Duka 2.66 · Maslja 2.37  
+Ganador: Duka 45% · empate 21% · Maslja 34%  
+Total: más de 5.5 goles 39% · menos 61%  
+Hándicap Duka: −1.5 29% · −2.5 16%  
 🔎 **Claves**  
-• Forma: Edwardson ✅✅✅❌❌ | dm1trena ➖❌❌✅✅  
-• Partidos: Edwardson 1120 | dm1trena 964  
-• Liga: LaLiga  
-• Unibet: 1 2.80 · X 3.05 · 2 2.15 (sin margen 31%/29%/40%) · ventaja +6%. Sin stake hasta demostrar ROI con estas cuotas.  
-
-## ramzes vs Gazi — 03/11 · 15:28
-
-👀 candidata · 🎮⚽ FC 27 · Eredivisie · **Empate** @ **5.00** (Unibet) · prob 20% vs casas 18% · ventaja -0%
-
-- ❌ Valor: ventaja -0% (mín. 8% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 54.696 partidos)  
-Goles esperados: ramzes 2.93 · Gazi 2.57  
-Ganador: ramzes 47% · empate 20% · Gazi 33%  
-Total: más de 5.5 goles 47% · menos 53%  
-Hándicap ramzes: −1.5 31% · −2.5 18%  
-🔎 **Claves**  
-• Forma: ramzes ✅❌✅❌❌ | Gazi ➖❌❌✅❌  
-• Partidos: ramzes 972 | Gazi 308  
-• Liga: Eredivisie  
-• Unibet: 1 1.86 · X 5.00 · 2 2.48 (sin margen 47%/18%/35%) · ventaja -0%. Sin stake hasta demostrar ROI con estas cuotas.  
-
-## borees vs Maslja — 03/11 · 15:34
-
-👀 candidata · 🎮⚽ FC 27 · Serie A · **Gana borees** @ **2.05** (Unibet) · prob 48% vs casas 42% · ventaja -2%
-
-- ❌ Valor: ventaja -2% (mín. 8% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 54.696 partidos)  
-Goles esperados: borees 3.09 · Maslja 2.68  
-Ganador: borees 48% · empate 19% · Maslja 33%  
-Total: más de 5.5 goles 52% · menos 48%  
-Hándicap borees: −1.5 32% · −2.5 19%  
-🔎 **Claves**  
-• Forma: borees ➖✅❌➖✅ | Maslja ❌❌➖❌❌  
-• Partidos: borees 900 | Maslja 796  
+• Forma: Duka ➖✅✅➖✅ | Maslja ❌❌➖❌❌  
+• Partidos: Duka 970 | Maslja 796  
 • Liga: Serie A  
-• Unibet: 1 2.05 · X 4.10 · 2 2.40 (sin margen 42%/21%/36%) · ventaja -2%. Sin stake hasta demostrar ROI con estas cuotas.  
+• Unibet: 1 1.73 · X 4.00 · 2 3.15 (sin margen 50%/22%/28%) · ventaja +6%. Sin stake hasta demostrar ROI con estas cuotas.  
 

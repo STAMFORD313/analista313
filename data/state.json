@@ -889,7 +889,14 @@
   "cs2|133043",
   "fc|2361547",
   "fc|2360089",
-  "fc|2360236"
+  "fc|2360236",
+  "atp|2026-11-04|Luca Van Assche|Learner Tien",
+  "wta|2026-11-04|Anastasia Zakharova|Vaishnavi Adkar",
+  "wta|2026-11-04|Isabella Shinikova|Gina Feistel",
+  "cs2|133092",
+  "fc|2360094",
+  "fc|2360861",
+  "fc|2360239"
  ],
  "signals": [
   {
@@ -11363,7 +11370,10 @@
    "version": "dddba07",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "4-2",
+   "result": false,
+   "logged": true
   },
   {
    "market": "H",
@@ -11456,7 +11466,10 @@
    "version": "c526549",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "3-3",
+   "result": false,
+   "logged": true
   },
   {
    "market": "H",
@@ -11477,7 +11490,10 @@
    "version": "c526549",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "1-1",
+   "result": false,
+   "logged": true
   },
   {
    "market": "H",
@@ -11522,7 +11538,10 @@
    "version": "b1b0077",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "4-1",
+   "result": true,
+   "logged": true
   },
   {
    "market": "A",
@@ -11567,7 +11586,10 @@
    "version": "ba4bbd9",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "2-4",
+   "result": false,
+   "logged": true
   },
   {
    "market": "A",
@@ -11633,7 +11655,10 @@
    "version": "ef61226",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "4-4",
+   "result": false,
+   "logged": true
   },
   {
    "market": "H",
@@ -11654,7 +11679,10 @@
    "version": "ef61226",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "3-4",
+   "result": false,
+   "logged": true
   },
   {
    "market": "A",
@@ -11832,25 +11860,15 @@
    "start": "2026-11-03T14:28:00+00:00",
    "league": "🎮⚽ FC 27 · LaLiga",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 54.696 partidos)",
-    "Goles esperados: Edwardson 2.30 · dm1trena 2.34",
-    "Ganador: Edwardson 38% · empate 22% · dm1trena 40%",
-    "Total: más de 4.5 goles 49% · menos 51%",
-    "Hándicap dm1trena: −1.5 24% · −2.5 12%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Edwardson ✅✅✅❌❌ | dm1trena ➖❌❌✅✅",
-    "• Partidos: Edwardson 1120 | dm1trena 964",
-    "• Liga: LaLiga",
-    "• Unibet: 1 2.80 · X 3.05 · 2 2.15 (sin margen 31%/29%/40%) · ventaja +6%. Sin stake hasta demostrar ROI con estas cuotas."
-   ],
    "context": "EA FC Esoccer Battle Edwardson vs dm1trena (LaLiga): goles esperados 2.30-2.34, 1X2 38%/22%/40%. Sin cuotas de casa.",
    "captured": "2026-11-03T14:18",
    "version": "ec6ab36",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "1-1",
+   "result": false,
+   "logged": true
   },
   {
    "market": "D",
@@ -11866,19 +11884,6 @@
    "start": "2026-11-03T14:28:00+00:00",
    "league": "🎮⚽ FC 27 · Eredivisie",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 54.696 partidos)",
-    "Goles esperados: ramzes 2.93 · Gazi 2.57",
-    "Ganador: ramzes 47% · empate 20% · Gazi 33%",
-    "Total: más de 5.5 goles 47% · menos 53%",
-    "Hándicap ramzes: −1.5 31% · −2.5 18%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: ramzes ✅❌✅❌❌ | Gazi ➖❌❌✅❌",
-    "• Partidos: ramzes 972 | Gazi 308",
-    "• Liga: Eredivisie",
-    "• Unibet: 1 1.86 · X 5.00 · 2 2.48 (sin margen 47%/18%/35%) · ventaja -0%. Sin stake hasta demostrar ROI con estas cuotas."
-   ],
    "context": "EA FC Esoccer Battle ramzes vs Gazi (Eredivisie): goles esperados 2.93-2.57, 1X2 47%/20%/33%. Sin cuotas de casa.",
    "captured": "2026-11-03T14:18",
    "version": "ec6ab36",
@@ -11900,22 +11905,111 @@
    "start": "2026-11-03T14:34:00+00:00",
    "league": "🎮⚽ FC 27 · Serie A",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 54.696 partidos)",
-    "Goles esperados: borees 3.09 · Maslja 2.68",
-    "Ganador: borees 48% · empate 19% · Maslja 33%",
-    "Total: más de 5.5 goles 52% · menos 48%",
-    "Hándicap borees: −1.5 32% · −2.5 19%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: borees ➖✅❌➖✅ | Maslja ❌❌➖❌❌",
-    "• Partidos: borees 900 | Maslja 796",
-    "• Liga: Serie A",
-    "• Unibet: 1 2.05 · X 4.10 · 2 2.40 (sin margen 42%/21%/36%) · ventaja -2%. Sin stake hasta demostrar ROI con estas cuotas."
-   ],
    "context": "EA FC Esoccer Battle borees vs Maslja (Serie A): goles esperados 3.09-2.68, 1X2 48%/19%/33%. Sin cuotas de casa.",
    "captured": "2026-11-03T14:18",
    "version": "ec6ab36",
+   "bajas": "",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "H",
+   "pick": "mPm",
+   "odds": 1.76,
+   "book": "Unibet",
+   "implied": 0.499,
+   "edge": 0.1,
+   "sin_stake": true,
+   "p": 0.625,
+   "key": "fc|2360094",
+   "match": "mPm vs ramzes",
+   "start": "2026-11-03T14:52:00+00:00",
+   "league": "🎮⚽ FC 27 · Eredivisie",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 54.734 partidos)",
+    "Goles esperados: mPm 4.23 · ramzes 2.96",
+    "Ganador: mPm 63% · empate 15% · ramzes 22%",
+    "Total: más de 7.5 goles 43% · menos 57%",
+    "Hándicap mPm: −1.5 46% · −2.5 32%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: mPm ❌✅✅✅❌ | ramzes ✅❌✅❌❌",
+    "• Partidos: mPm 623 | ramzes 972",
+    "• Liga: Eredivisie",
+    "• Unibet: 1 1.76 · X 5.60 · 2 2.55 (sin margen 50%/16%/34%) · ventaja +10%. Sin stake hasta demostrar ROI con estas cuotas."
+   ],
+   "context": "EA FC Esoccer Battle mPm vs ramzes (Eredivisie): goles esperados 4.23-2.96, 1X2 63%/15%/22%. Sin cuotas de casa.",
+   "captured": "2026-11-03T14:43",
+   "version": "d5fdc64",
+   "bajas": "",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "A",
+   "pick": "llulle",
+   "odds": 2.6,
+   "book": "Unibet",
+   "implied": 0.335,
+   "edge": 0.096,
+   "sin_stake": true,
+   "p": 0.421,
+   "key": "fc|2360861",
+   "match": "lzrn vs llulle",
+   "start": "2026-11-03T14:52:00+00:00",
+   "league": "🎮⚽ FC 27 · Champions League B",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 54.734 partidos)",
+    "Goles esperados: lzrn 2.64 · llulle 2.76",
+    "Ganador: lzrn 37% · empate 20% · llulle 42%",
+    "Total: más de 5.5 goles 45% · menos 55%",
+    "Hándicap llulle: −1.5 27% · −2.5 15%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: lzrn ✅❌✅❌➖ | llulle ➖❌✅✅✅",
+    "• Partidos: lzrn 719 | llulle 793",
+    "• Liga: Champions League B",
+    "• Unibet: 1 1.90 · X 4.20 · 2 2.60 (sin margen 46%/21%/33%) · ventaja +10%. Sin stake hasta demostrar ROI con estas cuotas."
+   ],
+   "context": "EA FC Esoccer Battle lzrn vs llulle (Champions League B): goles esperados 2.64-2.76, 1X2 37%/20%/42%. Sin cuotas de casa.",
+   "captured": "2026-11-03T14:43",
+   "version": "d5fdc64",
+   "bajas": "",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "A",
+   "pick": "Maslja",
+   "odds": 3.15,
+   "book": "Unibet",
+   "implied": 0.277,
+   "edge": 0.063,
+   "sin_stake": true,
+   "p": 0.338,
+   "key": "fc|2360239",
+   "match": "Duka vs Maslja",
+   "start": "2026-11-03T14:58:00+00:00",
+   "league": "🎮⚽ FC 27 · Serie A",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 54.734 partidos)",
+    "Goles esperados: Duka 2.66 · Maslja 2.37",
+    "Ganador: Duka 45% · empate 21% · Maslja 34%",
+    "Total: más de 5.5 goles 39% · menos 61%",
+    "Hándicap Duka: −1.5 29% · −2.5 16%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Duka ➖✅✅➖✅ | Maslja ❌❌➖❌❌",
+    "• Partidos: Duka 970 | Maslja 796",
+    "• Liga: Serie A",
+    "• Unibet: 1 1.73 · X 4.00 · 2 3.15 (sin margen 50%/22%/28%) · ventaja +6%. Sin stake hasta demostrar ROI con estas cuotas."
+   ],
+   "context": "EA FC Esoccer Battle Duka vs Maslja (Serie A): goles esperados 2.66-2.37, 1X2 45%/21%/34%. Sin cuotas de casa.",
+   "captured": "2026-11-03T14:43",
+   "version": "d5fdc64",
    "bajas": "",
    "considered": true,
    "placed": false
