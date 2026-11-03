@@ -1,6 +1,6 @@
 name: entrenar
 on:
-  schedule: [{cron: "41 3 * * 1"}]   # lunes 03:41 UTC: reentreno semanal de los esports (regiones la 1.ª semana del mes)
+  schedule: [{cron: "41 3 * * *"}]   # cada día 03:41 UTC: reentreno de todos los modelos (solo cambian si no empeoran fuera de muestra)
   workflow_dispatch:
 permissions: {contents: write}
 concurrency: entrenar

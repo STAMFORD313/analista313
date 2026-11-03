@@ -744,3 +744,19 @@ print("ok Shin")
 # la banca no apuesta cuotas > MAX_ODDS (sesgo favorito-sorpresa: el bot sobrevalora las sorpresas)
 assert bankroll.MAX_ODDS == 2.5 and 's["odds"] > MAX_ODDS' in Path(bankroll.__file__).read_text()
 print("ok cuota máxima")
+
+# bot «nutrición»: buscador de estrategias walk-forward (estrategias.py) y su efecto en el stake
+import estrategias
+_rng = np.random.default_rng(1)
+_dd = pd.DataFrame({"fecha": [f"2026-10-{1 + i % 28:02d}" for i in range(120)], "deporte": ["🏀"] * 60 + ["⚽"] * 60,
+                    "mercado": ["home"] * 60 + ["H"] * 60, "odds": 1.9, "edge": 0.08, "casa": "DraftKings",
+                    "gano": [1] * 50 + [0] * 10 + [0] * 55 + [1] * 5, "retorno": [1.9] * 50 + [0] * 10 + [0] * 55 + [1.9] * 5})
+_es = estrategias.search(_dd)
+assert any(r["segmento"] == "deporte=🏀" for r in _es["rentables"]) and any(r["segmento"] == "deporte=⚽" for r in _es["bloqueados"])
+_eo = estrategias.OUT
+estrategias.OUT = Path(tempfile.mkdtemp()) / "e.json"; estrategias.OUT.write_text(json.dumps(_es))
+assert estrategias.factor({"sport": "⚽", "market": "H", "odds": 1.9, "edge": 0.08}) == 0.0
+assert estrategias.factor({"sport": "🏀", "market": "home", "odds": 1.9, "edge": 0.08}) == 1.5
+assert estrategias.factor({"sport": "🎮", "market": "over", "odds": 3.0, "edge": 0.2}) == 1.0  # ningún segmento con datos
+estrategias.OUT = _eo
+print("ok estrategias")

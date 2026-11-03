@@ -8,6 +8,7 @@ import pandas as pd
 
 import analyst as A
 import boleto
+import estrategias
 
 START = 100.0
 KELLY, MAX_STAKE, MAX_EXPOSURE = 0.10, 0.05, 0.30  # 1/10 Kelly (backtest: ver MEJORAS.md), máx. 5 % por apuesta y 30 % en juego
@@ -192,7 +193,9 @@ def place(bank, signals, today, kg):
         if not value_ok(s) or segment(s) in bad or s.get("sin_stake") or s["odds"] > MAX_ODDS: continue  # sin_stake: cuota real aún sin ROI demostrado (FC 27)
         ok, reason, conf, model = ai_review(s)  # solo consultiva: se registra en senales.csv para medir si aporta
         s["ai"] = {"apostar": ok, "motivo": reason, "confianza": conf, "modelo": model}
-        stake = bet([s], bank["balance"] * min(KELLY * kelly_frac(s), MAX_STAKE), s["odds"], f"{s['match']} → {pick_text(s)}")
+        f = estrategias.factor(s)  # bot «nutrición»: 0 en segmentos con pérdida demostrada, ×1.5 en rentables confirmados
+        if f == 0: continue
+        stake = bet([s], bank["balance"] * min(KELLY * kelly_frac(s) * f, MAX_STAKE), s["odds"], f"{s['match']} → {pick_text(s)}")
         if stake:
             approved.append(s); s["placed"] = True
             A.send_card(single_card(s, stake, bank, reason, conf))

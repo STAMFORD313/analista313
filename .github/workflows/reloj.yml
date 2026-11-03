@@ -19,4 +19,5 @@ jobs:
         env: {GH_TOKEN: "${{ github.token }}"}
         run: |
           gh workflow run analista.yml -R "${{ github.repository }}" --ref main
-          gh workflow run reloj.yml -R "${{ github.repository }}" --ref main
+          gh workflow run datos_espn.yml -R "${{ github.repository }}" --ref main || true   # bot «nutrición»: datos y estrategias sin parar
+          gh workflow run reloj.yml -R "${{ github.repository }}" --ref main   # el último: el reloj nuevo cancela a este
