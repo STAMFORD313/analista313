@@ -1,6 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 03/11/2026 16:49 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 03/11/2026 16:53 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Blackburn vs Stoke — 03/11 · 20:45
 

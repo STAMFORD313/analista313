@@ -1,24 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 03/11/2026 16:49 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## llulle vs lzrn — 03/11 · 16:52
-
-👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana llulle** @ **2.65** (Unibet) · prob 42% vs casas 33% · ventaja +12%
-
-- ✅ Valor: ventaja +12% (mín. 11% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 54.754 partidos)  
-Goles esperados: llulle 2.76 · lzrn 2.64  
-Ganador: llulle 42% · empate 20% · lzrn 37%  
-Total: más de 5.5 goles 45% · menos 55%  
-Hándicap llulle: −1.5 27% · −2.5 15%  
-🔎 **Claves**  
-• Forma: llulle ➖❌✅✅✅ | lzrn ✅❌✅❌➖  
-• Partidos: llulle 793 | lzrn 719  
-• Liga: Champions League B  
-• Unibet: 1 2.65 · X 4.25 · 2 1.87 (sin margen 33%/21%/47%) · ventaja +12%. Sin stake hasta demostrar ROI con estas cuotas.  
+Actualizado 03/11/2026 16:53 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Maslja vs Duka — 03/11 · 16:58
 
@@ -73,4 +55,40 @@ Hándicap Shinobu: −1.5 25% · −2.5 12%
 • Partidos: Shinobu 1172 | Gazi 316  
 • Liga: A-League  
 • Unibet: 1 2.20 · X 4.70 · 2 2.10 (sin margen 40%/19%/42%) · ventaja +13%. Sin stake hasta demostrar ROI con estas cuotas.  
+
+## Glumac vs chevare — 03/11 · 17:16
+
+👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana chevare** @ **2.15** (Unibet) · prob 50% vs casas 40% · ventaja +7%
+
+- ❌ Valor: ventaja +7% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 54.774 partidos)  
+Goles esperados: Glumac 3.62 · chevare 4.12  
+Ganador: Glumac 34% · empate 16% · chevare 50%  
+Total: más de 7.5 goles 51% · menos 49%  
+Hándicap chevare: −1.5 35% · −2.5 23%  
+🔎 **Claves**  
+• Forma: Glumac ❌✅❌✅➖ | chevare ✅❌❌❌❌  
+• Partidos: Glumac 672 | chevare 504  
+• Liga: Champions League B  
+• Unibet: 1 2.38 · X 3.75 · 2 2.15 (sin margen 36%/23%/40%) · ventaja +7%. Sin stake hasta demostrar ROI con estas cuotas.  
+
+## chevare vs Animal — 03/11 · 17:28
+
+👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana chevare** @ **2.25** (Unibet) · prob 46% vs casas 39% · ventaja +4%
+
+- ❌ Valor: ventaja +4% (mín. 9% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 54.774 partidos)  
+Goles esperados: chevare 4.04 · Animal 3.75  
+Ganador: chevare 46% · empate 16% · Animal 37%  
+Total: más de 7.5 goles 52% · menos 48%  
+Hándicap chevare: −1.5 33% · −2.5 21%  
+🔎 **Claves**  
+• Forma: chevare ✅❌❌❌❌ | Animal ✅✅✅✅❌  
+• Partidos: chevare 504 | Animal 744  
+• Liga: Champions League B  
+• Unibet: 1 2.25 · X 3.80 · 2 2.25 (sin margen 39%/23%/39%) · ventaja +4%. Sin stake hasta demostrar ROI con estas cuotas.  
 
