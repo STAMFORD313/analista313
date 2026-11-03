@@ -1,6 +1,5 @@
-name: entrenar
+name: entrenar   # manual: el reentreno diario lo hacen los expertos de nutricion.py
 on:
-  schedule: [{cron: "41 3 * * *"}]   # cada día 03:41 UTC: reentreno de todos los modelos (solo cambian si no empeoran fuera de muestra)
   workflow_dispatch:
 permissions: {contents: write}
 concurrency: entrenar

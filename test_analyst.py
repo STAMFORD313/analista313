@@ -760,3 +760,16 @@ assert estrategias.factor({"sport": "🏀", "market": "home", "odds": 1.9, "edge
 assert estrategias.factor({"sport": "🎮", "market": "over", "odds": 3.0, "edge": 0.2}) == 1.0  # ningún segmento con datos
 estrategias.OUT = _eo
 print("ok estrategias")
+
+# equipo de bots expertos (nutricion.py): ejecuta los que tocan, aislados, y deja el parte
+import nutricion as NU, sys
+_ex, _stf = dict(NU.EXPERTS), NU.STATE
+NU.STATE = Path(tempfile.mkdtemp()) / "x.json"
+NU.EXPERTS.clear(); NU.EXPERTS.update({"bien": (0, 1, [sys.executable, "-c", "print('hecho')"], "a"),
+                                       "mal": (0, 1, [sys.executable, "-c", "raise SystemExit(1)"], "b"),
+                                       "diario": (24, 1, [sys.executable, "-c", "print(1)"], "c")})
+_st1 = NU.run()
+assert _st1["bien"]["ok"] and _st1["bien"]["salida"] == "hecho" and not _st1["mal"]["ok"] and "diario" in _st1  # uno falla, los demás siguen
+assert not NU.due("diario", _st1, pd.Timestamp.now(tz="UTC")) and NU.due("bien", _st1, pd.Timestamp.now(tz="UTC"))
+NU.EXPERTS.clear(); NU.EXPERTS.update(_ex); NU.STATE = _stf
+print("ok equipo de expertos")
