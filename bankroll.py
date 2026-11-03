@@ -22,6 +22,8 @@ MAX_EVENT = 0.05  # exposición correlacionada: máx. 5 % de la banca en un mism
 VOID_DAYS = 14  # apuesta sin resultado 14 días después del inicio → nula (devuelve el stake)
 REPO = os.getenv("GITHUB_REPOSITORY", "STAMFORD313/analista313")
 STATS_MD = A.DATA.parent / "ESTADISTICAS.md"
+MAX_ODDS = 2.5  # banco de pruebas 3-nov (262 candidatas): cuota > 2.5 → prob. del bot 25-43 % vs acierto 16-30 % (casa 17-34 %), ROI −13 %;
+#               ≤ 2.5 bien calibrado. Por encima solo candidatas (se siguen midiendo en senales.csv). shortcut: elegido mirando esos datos
 LOG = A.DATA / "senales.csv"  # todas las señales liquidadas (apostadas o no): calibración, Brier y CLV a largo plazo
 BANDS = [0, 0.4, 0.55, 0.7, 1.01]
 LINE = "━━━━━━━━━━━━━━━"
@@ -187,7 +189,7 @@ def place(bank, signals, today, kg):
     approved = []
     for s in sorted(new, key=lambda s: s["edge"] - margin(s), reverse=True):
         if len(approved) >= MAX_SINGLES: break
-        if not value_ok(s) or segment(s) in bad or s.get("sin_stake"): continue  # sin_stake: cuota real aún sin ROI demostrado (FC 27)
+        if not value_ok(s) or segment(s) in bad or s.get("sin_stake") or s["odds"] > MAX_ODDS: continue  # sin_stake: cuota real aún sin ROI demostrado (FC 27)
         ok, reason, conf, model = ai_review(s)  # solo consultiva: se registra en senales.csv para medir si aporta
         s["ai"] = {"apostar": ok, "motivo": reason, "confianza": conf, "modelo": model}
         stake = bet([s], bank["balance"] * min(KELLY * kelly_frac(s), MAX_STAKE), s["odds"], f"{s['match']} → {pick_text(s)}")

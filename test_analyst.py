@@ -740,3 +740,7 @@ _ps, _pp = devig.shin(_o), devig.proportional(_o)
 assert abs(_ps.sum() - 1) < 1e-9 and _ps[0] > _pp[0] and _ps[2] < _pp[2]
 assert np.allclose(devig.shin([2.0, 2.0]), [0.5, 0.5]) and devig.shin(np.array([_o, _o])).shape == (2, 3)
 print("ok Shin")
+
+# la banca no apuesta cuotas > MAX_ODDS (sesgo favorito-sorpresa: el bot sobrevalora las sorpresas)
+assert bankroll.MAX_ODDS == 2.5 and 's["odds"] > MAX_ODDS' in Path(bankroll.__file__).read_text()
+print("ok cuota máxima")
