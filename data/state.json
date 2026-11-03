@@ -663,6 +663,7 @@
   "wta|2026-11-03|Emerson Jones|Alexandra Eala",
   "wta|2026-11-04|Robin Montgomery|Jeline Vandromme",
   "wta|2026-11-04|Sofya Lansere|Kristina Novak",
+  "wta|2026-11-05|Sorana Cirstea|Mary Stoiana",
   "cs2|132573",
   "cs2|132574",
   "cs2|132578",
@@ -851,10 +852,13 @@
   "fc|2359999",
   "fc|2360004",
   "fc|2359991",
-  "wta|2026-11-05|Sorana Cirstea|Mary Stoiana",
   "fc|2360669",
   "fc|2360009",
-  "fc|2360001"
+  "fc|2360001",
+  "atp|2026-11-04|Quentin Halys|Frances Tiafoe",
+  "fc|2360211",
+  "fc|2359729",
+  "fc|2360662"
  ],
  "signals": [
   {
@@ -7939,7 +7943,10 @@
    "version": "622f84c",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "4-4",
+   "result": false,
+   "logged": true
   },
   {
    "market": "A",
@@ -7979,7 +7986,10 @@
    "version": "622f84c",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "3-2",
+   "result": false,
+   "logged": true
   },
   {
    "market": "H",
@@ -8045,7 +8055,10 @@
    "version": "dc693b4",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "3-3",
+   "result": false,
+   "logged": true
   },
   {
    "market": "H",
@@ -8065,7 +8078,10 @@
    "version": "e515e49",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "2-2",
+   "result": false,
+   "logged": true
   },
   {
    "market": "A",
@@ -8085,7 +8101,10 @@
    "version": "e515e49",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "1-1",
+   "result": false,
+   "logged": true
   },
   {
    "market": "H",
@@ -8148,7 +8167,10 @@
    "version": "e6458d0",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "7-4",
+   "result": true,
+   "logged": true
   },
   {
    "market": "A",
@@ -8521,7 +8543,10 @@
    "bajas": "",
    "considered": true,
    "placed": false,
-   "anunciada": true
+   "anunciada": true,
+   "score": "1-10",
+   "result": true,
+   "logged": true
   },
   {
    "market": "H",
@@ -8576,7 +8601,10 @@
    "bajas": "",
    "considered": true,
    "placed": false,
-   "anunciada": true
+   "anunciada": true,
+   "score": "5-6",
+   "result": true,
+   "logged": true
   },
   {
    "market": "A",
@@ -11312,6 +11340,108 @@
    "context": "EA FC Esoccer Battle Kril vs Haiko (Volta Seria A): goles esperados 5.15-2.91, 1X2 73%/11%/16%. Sin cuotas de casa.",
    "captured": "2026-11-03T11:41",
    "version": "e65a1f8",
+   "bajas": "",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "A",
+   "pick": "Tesla",
+   "odds": 1.64,
+   "book": "Unibet",
+   "implied": 0.533,
+   "edge": 0.066,
+   "sin_stake": true,
+   "p": 0.65,
+   "key": "fc|2360211",
+   "match": "Totti vs Tesla",
+   "start": "2026-11-03T12:10:00+00:00",
+   "league": "🎮⚽ FC 27 · FA Cup",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 54.558 partidos)",
+    "Goles esperados: Totti 2.54 · Tesla 4.03",
+    "Ganador: Totti 21% · empate 14% · Tesla 65%",
+    "Total: más de 6.5 goles 48% · menos 52%",
+    "Hándicap Tesla: −1.5 49% · −2.5 34%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Totti ❌❌✅❌❌ | Tesla ✅✅✅✅❌",
+    "• Partidos: Totti 843 | Tesla 828",
+    "• Liga: FA Cup",
+    "• Unibet: 1 3.45 · X 4.10 · 2 1.64 (sin margen 25%/21%/53%) · ventaja +7%. Sin stake hasta demostrar ROI con estas cuotas."
+   ],
+   "context": "EA FC Esoccer Battle Totti vs Tesla (FA Cup): goles esperados 2.54-4.03, 1X2 21%/14%/65%. Sin cuotas de casa.",
+   "captured": "2026-11-03T11:57",
+   "version": "565fcdb",
+   "bajas": "",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "A",
+   "pick": "KraftVK",
+   "odds": 2.25,
+   "book": "Unibet",
+   "implied": 0.387,
+   "edge": 0.055,
+   "sin_stake": true,
+   "p": 0.469,
+   "key": "fc|2359729",
+   "match": "d1pseN vs KraftVK",
+   "start": "2026-11-03T12:03:00+00:00",
+   "league": "🎮⚽ FC 27 · World Cup B",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 54.558 partidos)",
+    "Goles esperados: d1pseN 2.91 · KraftVK 3.23",
+    "Ganador: d1pseN 37% · empate 16% · KraftVK 47%",
+    "Total: más de 6.5 goles 42% · menos 58%",
+    "Hándicap KraftVK: −1.5 31% · −2.5 18%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: d1pseN ❌✅✅✅➖ | KraftVK ✅✅❌➖➖",
+    "• Partidos: d1pseN 146 | KraftVK 892",
+    "• Liga: World Cup B",
+    "• Unibet: 1 2.23 · X 3.90 · 2 2.25 (sin margen 39%/22%/39%) · ventaja +6%. Sin stake hasta demostrar ROI con estas cuotas."
+   ],
+   "context": "EA FC Esoccer Battle d1pseN vs KraftVK (World Cup B): goles esperados 2.91-3.23, 1X2 37%/16%/47%. Sin cuotas de casa.",
+   "captured": "2026-11-03T11:57",
+   "version": "565fcdb",
+   "bajas": "",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "A",
+   "pick": "Frantsuz",
+   "odds": 2.45,
+   "book": "Unibet",
+   "implied": 0.356,
+   "edge": 0.052,
+   "sin_stake": true,
+   "p": 0.429,
+   "key": "fc|2360662",
+   "match": "flamez vs Frantsuz",
+   "start": "2026-11-03T12:08:00+00:00",
+   "league": "🎮⚽ FC 27 · Champions League A 2x6",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 54.558 partidos)",
+    "Goles esperados: flamez 4.66 · Frantsuz 4.62",
+    "Ganador: flamez 44% · empate 13% · Frantsuz 43%",
+    "Total: más de 9.5 goles 45% · menos 55%",
+    "Hándicap flamez: −1.5 31% · −2.5 21%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: flamez ❌✅✅➖✅ | Frantsuz ❌❌✅✅❌",
+    "• Partidos: flamez 632 | Frantsuz 537",
+    "• Liga: Champions League A 2x6",
+    "• Unibet: 1 1.92 · X 4.60 · 2 2.45 (sin margen 45%/19%/36%) · ventaja +5%. Sin stake hasta demostrar ROI con estas cuotas."
+   ],
+   "context": "EA FC Esoccer Battle flamez vs Frantsuz (Champions League A 2x6): goles esperados 4.66-4.62, 1X2 44%/13%/43%. Sin cuotas de casa.",
+   "captured": "2026-11-03T11:57",
+   "version": "565fcdb",
    "bajas": "",
    "considered": true,
    "placed": false

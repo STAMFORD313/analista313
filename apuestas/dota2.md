@@ -1,6 +1,6 @@
 # 🐉 Dota 2 · apuestas de valor
 
-Actualizado 03/11/2026 12:41 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 03/11/2026 12:57 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Nemiga Gaming vs CyberHero — 03/11 · 14:00
 
