@@ -1,23 +1,6 @@
 # 🐉 Dota 2 · apuestas de valor
 
-Actualizado 03/11/2026 16:58 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## HULIGANI vs Yellow Submarine — 03/11 · 17:00
-
-👀 candidata · 🐉 Dota 2 · EPL Masters III · **Gana HULIGANI** @ **2.60** (Thunderpick) · prob 36% vs casas 36% · ventaja -6%
-
-- ❌ Valor: ventaja -6% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🐉 no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 11.613 partidos)  
-Mapa: HULIGANI 41% · Serie BO3: HULIGANI 37% - 63% Yellow Submarine  
-Casas: HULIGANI 35% · Yellow Submarine 65%  
-🔎 **Claves**  
-• Elo: HULIGANI 1822 (347 series) | Yellow Submarine 1904 (302 series)  
-• Forma: HULIGANI ✅✅✅✅✅ | Yellow Submarine ✅✅❌✅✅  
-• H2H: 13: 8-5  
-• Torneo: EPL Masters III (nivel B)  
-• Cambios de plantilla: ninguno  
+Actualizado 03/11/2026 17:13 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Natus Vincere vs GamerLegion — 03/11 · 20:00
 

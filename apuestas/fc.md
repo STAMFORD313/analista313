@@ -1,24 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 03/11/2026 16:58 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## ramzes vs mPm — 03/11 · 17:02
-
-👀 candidata · 🎮⚽ FC 27 · A-League · **Gana mPm** @ **1.86** (Unibet) · prob 60% vs casas 47% · ventaja +12%
-
-- ✅ Valor: ventaja +12% (mín. 11% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 54.774 partidos)  
-Goles esperados: ramzes 2.59 · mPm 3.68  
-Ganador: ramzes 23% · empate 17% · mPm 60%  
-Total: más de 6.5 goles 44% · menos 56%  
-Hándicap mPm: −1.5 43% · −2.5 28%  
-🔎 **Claves**  
-• Forma: ramzes ❌➖✅❌❌ | mPm ❌❌✅✅➖  
-• Partidos: ramzes 980 | mPm 631  
-• Liga: A-League  
-• Unibet: 1 2.43 · X 5.20 · 2 1.86 (sin margen 36%/17%/47%) · ventaja +12%. Sin stake hasta demostrar ROI con estas cuotas.  
+Actualizado 03/11/2026 17:13 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Shinobu vs Gazi — 03/11 · 17:14
 
@@ -91,4 +73,58 @@ Hándicap mPm: −1.5 39% · −2.5 24%
 • Partidos: mPm 631 | Shinobu 1172  
 • Liga: A-League  
 • Unibet: 1 1.67 · X 5.60 · 2 2.75 (sin margen 52%/16%/32%) · ventaja +5%. Sin stake hasta demostrar ROI con estas cuotas.  
+
+## chevare vs lzrn — 03/11 · 17:50
+
+👀 candidata · 🎮⚽ FC 27 · Super Lig · **Gana chevare** @ **1.92** (Unibet) · prob 58% vs casas 45% · ventaja +11%
+
+- ❌ Valor: ventaja +11% (mín. 11% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 54.794 partidos)  
+Goles esperados: chevare 3.76 · lzrn 2.80  
+Ganador: chevare 58% · empate 17% · lzrn 26%  
+Total: más de 6.5 goles 48% · menos 52%  
+Hándicap chevare: −1.5 41% · −2.5 27%  
+🔎 **Claves**  
+• Forma: chevare ✅❌❌❌❌ | lzrn ✅❌✅❌➖  
+• Partidos: chevare 504 | lzrn 719  
+• Liga: Super Lig  
+• Unibet: 1 1.92 · X 4.40 · 2 2.50 (sin margen 45%/20%/35%) · ventaja +11%. Sin stake hasta demostrar ROI con estas cuotas.  
+
+## ramzes vs Shinobu — 03/11 · 17:50
+
+👀 candidata · 🎮⚽ FC 27 · A-League · **Empate** @ **5.10** (Unibet) · prob 20% vs casas 17% · ventaja +4%
+
+- ❌ Valor: ventaja +4% (mín. 9% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 54.794 partidos)  
+Goles esperados: ramzes 2.68 · Shinobu 2.70  
+Ganador: ramzes 39% · empate 20% · Shinobu 40%  
+Total: más de 5.5 goles 45% · menos 55%  
+Hándicap Shinobu: −1.5 26% · −2.5 14%  
+🔎 **Claves**  
+• Forma: ramzes ❌➖✅❌❌ | Shinobu ✅➖✅✅➖  
+• Partidos: ramzes 980 | Shinobu 1172  
+• Liga: A-League  
+• Unibet: 1 1.79 · X 5.10 · 2 2.60 (sin margen 49%/17%/34%) · ventaja +4%. Sin stake hasta demostrar ROI con estas cuotas.  
+
+## lzrn vs llulle — 03/11 · 18:02
+
+👀 candidata · 🎮⚽ FC 27 · Super Lig · **Gana llulle** @ **2.75** (Unibet) · prob 42% vs casas 32% · ventaja +15%
+
+- ✅ Valor: ventaja +15% (mín. 12% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 54.794 partidos)  
+Goles esperados: lzrn 2.54 · llulle 2.66  
+Ganador: lzrn 37% · empate 21% · llulle 42%  
+Total: más de 5.5 goles 42% · menos 58%  
+Hándicap llulle: −1.5 27% · −2.5 14%  
+🔎 **Claves**  
+• Forma: lzrn ✅❌✅❌➖ | llulle ➖❌✅✅✅  
+• Partidos: lzrn 719 | llulle 793  
+• Liga: Super Lig  
+• Unibet: 1 1.83 · X 4.25 · 2 2.75 (sin margen 48%/21%/32%) · ventaja +15%. Sin stake hasta demostrar ROI con estas cuotas.  
 

@@ -1,6 +1,6 @@
 # 🏈 NFL·NCAA · apuestas de valor
 
-Actualizado 03/11/2026 16:58 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 03/11/2026 17:13 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Akron Zips vs Ohio Bobcats — 04/11 · 01:00
 
