@@ -577,3 +577,31 @@ assert _fh > 1 > _fa and abs(_fh * _fa - 1) < 1e-9  # el favorito saca más cór
 assert football_stats.market_factor("cards", "City", "Burnley", _Pm) == (1.0, 1.0)
 football_stats.MATCH_MK.clear()
 print("ok cuotas como feature de estadísticas")
+
+# ESPN: fútbol por jugador y árbitro (espn_soccer.compact) y NBA con rebotes/asistencias/triples (nba_players.compact)
+import espn_soccer, nba_players
+_sd = {"header": {"competitions": [{"competitors": [{"homeAway": "home", "team": {"id": "1"}}, {"homeAway": "away", "team": {"id": "2"}}]}]},
+       "gameInfo": {"officials": [{"displayName": "Michael Oliver", "position": {"name": "Referee"}},
+                                  {"displayName": "X", "position": {"name": "Assistant Referee"}}]},
+       "boxscore": {"teams": [{"team": {"id": "1"}, "statistics": [{"name": "wonCorners", "displayValue": "7"}, {"name": "shotsOnTarget", "displayValue": "5"}]},
+                              {"team": {"id": "2"}, "statistics": [{"name": "wonCorners", "displayValue": "3"}]}]},
+       "rosters": [{"team": {"id": "1"}, "homeAway": "home", "roster": [
+           {"starter": True, "athlete": {"id": "9", "displayName": "Kylian Mbappé"}, "position": {"abbreviation": "F"},
+            "stats": [{"name": "totalShots", "value": 5.0}, {"name": "shotsOnTarget", "value": 3.0}, {"name": "totalGoals", "value": 2.0}]},
+           {"starter": False, "athlete": {"id": "8", "displayName": "Suplente"}, "stats": []}]},
+                   {"team": {"id": "2"}, "homeAway": "away", "roster": [
+           {"starter": True, "athlete": {"id": "1", "displayName": "Portero"}, "position": {"abbreviation": "G"},
+            "stats": [{"name": "saves", "value": 4.0}, {"name": "shotsFaced", "value": 6.0}]}]}]}
+_sc = espn_soccer.compact(_sd)
+assert _sc["referee"] == "Michael Oliver" and _sc["team_stats"]["h"]["wonCorners"] == 7.0 and _sc["team_stats"]["a"]["wonCorners"] == 3.0
+assert len(_sc["players"]) == 2  # el suplente que no jugó no se guarda
+_mb = dict(zip(["id", "nombre", "lado", "titular", "pos", *espn_soccer.PSTATS], _sc["players"][0]))
+assert _mb["lado"] == "h" and _mb["totalGoals"] == 2 and _mb["shotsOnTarget"] == 3 and _mb["totalShots"] == 5
+assert _sc["players"][1][2] == "a" and _sc["players"][1][5 + espn_soccer.PSTATS.index("saves")] == 4
+_nd = {"boxscore": {"players": [{"team": {"displayName": "Lakers"}, "statistics": [{
+    "labels": ["MIN", "FG", "3PT", "FT", "OREB", "DREB", "REB", "AST", "STL", "BLK", "TO", "PF", "+/-", "PTS"],
+    "athletes": [{"athlete": {"id": "3", "displayName": "LeBron James"}, "starter": True,
+                  "stats": ["35", "10-20", "3-7", "4-5", "1", "7", "8", "9", "2", "1", "3", "2", "+5", "27"]}]}]}]}}
+_nb = nba_players.compact(_nd)["teams"][0]["players"][0]
+assert _nb[:7] == ["3", "LeBron James", 35.0, 27.0, 5.0, True, False] and _nb[7:13] == [8.0, 9.0, 3.0, 2.0, 1.0, 3.0] and len(_nb) == nba_players.N_COLS
+print("ok ESPN jugadores fútbol y NBA")

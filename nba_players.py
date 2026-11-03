@@ -1,5 +1,6 @@
 """Jugadores y bajas en NBA (y NHL/NFL) desde el resumen público de partido de ESPN (summary?event=<id>).
-download(league): guarda en data/<league>/box.jsonl el boxscore compacto (minutos, puntos, +/- por jugador) y la
+download(league): guarda en data/<league>/box.jsonl el boxscore compacto (minutos, puntos, +/-, rebotes, asistencias,
+triples, robos, tapones, pérdidas o tiros NHL por jugador) y la
 cuota de cierre de DraftKings (pickcenter) de cada partido del historial de data/espn/<league>.
 Uso: python nba_players.py descargar [liga] | python nba_players.py (grafo + backtest de bajas)."""
 import json, sys, time
@@ -23,6 +24,17 @@ def _min(v):
     except ValueError: return 0.0
 
 
+EXTRA = ["REB", "AST", "3PT", "STL", "BLK", "TO", "S"]  # columnas 7.. de cada jugador (props: rebotes, asistencias…)
+N_COLS = 7 + len(EXTRA)
+
+
+def num(v):
+    """«7» → 7.0; «3-8» (hechos-intentados, triples) → 3.0; «--»/None → 0.0."""
+    v = str(v if v is not None else "0").replace("--", "0").strip()
+    try: return float(v.split("-")[0]) if v and not v.startswith("-") else float(v or 0)
+    except ValueError: return 0.0
+
+
 def compact(d):
     """Resumen ESPN → dict compacto: equipos con [id, nombre, min, pts, +/-, titular, no jugó] y cuotas DK."""
     teams = []
@@ -38,8 +50,9 @@ def compact(d):
                 mins = _min(g("MIN") or g("TOI") or 0)
                 pts = g("PTS") or g("G") or 0
                 pm = g("+/-") or 0
-                rows.append([a["athlete"]["id"], a["athlete"]["displayName"], mins, float(str(pts).replace("--", "0") or 0),
-                             float(str(pm).replace("+", "").replace("--", "0") or 0), bool(a.get("starter")), bool(a.get("didNotPlay"))])
+                rows.append([a["athlete"]["id"], a["athlete"]["displayName"], mins, num(pts),
+                             float(str(pm).replace("+", "").replace("--", "0") or 0), bool(a.get("starter")), bool(a.get("didNotPlay")),
+                             *[num(g(k)) for k in EXTRA]])  # 7+: REB, AST, triples, STL, BLK, TO (NBA) o S (NHL)
         teams.append({"team": t["team"]["displayName"], "players": rows})
     pc = next((p for p in d.get("pickcenter") or [] if (p.get("provider") or {}).get("name") == "DraftKings"), None)
     h, a = (pc or {}).get("homeTeamOdds") or {}, (pc or {}).get("awayTeamOdds") or {}
@@ -49,26 +62,39 @@ def compact(d):
     return {"teams": teams, "odds": odds}
 
 
-def download(league, years=3, pause=0.35):
-    """(ESPN solo guarda cuotas de cierre en el summary desde ~nov 2025: para cuotas basta years=1.)"""
-    """Descarga incremental (salta ids ya guardados) de los partidos de los últimos `years` años."""
+def download(league, years=3, pause=0.35, refetch=False, max_new=None):
+    """Descarga incremental (salta ids ya guardados) de los partidos de los últimos `years` años.
+    refetch: vuelve a bajar los partidos guardados con el formato antiguo (sin rebotes/asistencias…) y reescribe el archivo.
+    (ESPN solo guarda cuotas de cierre en el summary desde ~nov 2025: para cuotas basta years=1.)"""
     df = pd.concat([x for f in sorted((M.DIR / league).glob("*.csv")) if not (x := pd.read_csv(f, dtype={"id": str})).empty])
     df["date"] = pd.to_datetime(df.date, utc=True)
     df = df.dropna(subset=["res"]).drop_duplicates("id").sort_values("date")
     df = df[df.date >= df.date.max() - pd.DateOffset(years=years)]
     p = box_path(league); p.parent.mkdir(parents=True, exist_ok=True)
-    done = {json.loads(l)["id"] for l in p.open(encoding="utf-8")} if p.exists() else set()
-    with p.open("a", encoding="utf-8") as f:
-        for r in df.rename(columns={"as": "as_"}).itertuples():
-            if r.id in done: continue
-            try: d = M.get(f"{SUMMARY[league]}/summary", event=r.id)
-            except (M.requests.RequestException, ValueError) as e: print("ESPN", r.id, e); time.sleep(5); continue
-            c = compact(d)
-            if league not in PLAYERS: c.pop("teams")
-            f.write(json.dumps({"id": r.id, "date": str(r.date), "home": r.home, "away": r.away, "hs": r.hs, "as": r.as_,
-                                "res": r.res, **c}, ensure_ascii=False) + "\n")
-            f.flush()
-            time.sleep(pause)
+    old = {(g := json.loads(l))["id"]: g for l in p.open(encoding="utf-8")} if p.exists() else {}
+    full = lambda g: league not in PLAYERS or all(len(r) >= N_COLS for t in g.get("teams", []) for r in t["players"])
+    done = {i for i, g in old.items() if not refetch or full(g)}
+    n = 0
+    for r in df.rename(columns={"as": "as_"}).itertuples():
+        if r.id in done: continue
+        if max_new is not None and n >= max_new: break
+        try: d = M.get(f"{SUMMARY[league]}/summary", event=r.id)
+        except (M.requests.RequestException, ValueError) as e: print("ESPN", r.id, e); time.sleep(5); continue
+        c = compact(d)
+        if league not in PLAYERS: c.pop("teams")
+        old[r.id] = {"id": r.id, "date": str(r.date), "home": r.home, "away": r.away, "hs": r.hs, "as": r.as_, "res": r.res, **c}
+        n += 1
+        if n % 200 == 0: _write(p, old)
+        time.sleep(pause)
+    _write(p, old)
+    print(f"{league}: {n} partidos descargados, {len(old)} en {p}")
+
+
+def _write(p, games):
+    tmp = p.with_suffix(".tmp")
+    with tmp.open("w", encoding="utf-8") as f:
+        for g in sorted(games.values(), key=lambda g: g["date"]): f.write(json.dumps(g, ensure_ascii=False) + "\n")
+    tmp.replace(p)
 
 
 def load_box(league):
@@ -233,7 +259,7 @@ def graph(games, st):
 
 
 if __name__ == "__main__":
-    if sys.argv[1:2] == ["descargar"]:
-        download(sys.argv[2] if len(sys.argv) > 2 else "nba")
+    if sys.argv[1:2] == ["descargar"]:  # python nba_players.py descargar nba [completo]
+        download(sys.argv[2] if len(sys.argv) > 2 else "nba", refetch="completo" in sys.argv)
     else:
         backtest(sys.argv[1] if len(sys.argv) > 1 else "nba")
