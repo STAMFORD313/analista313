@@ -9,7 +9,10 @@ import pandas as pd
 
 import multisport as M
 
-SUMMARY = {"nba": "basketball/nba", "nhl": "hockey/nhl", "nfl": "football/nfl"}
+SUMMARY = {"nba": "basketball/nba", "nhl": "hockey/nhl", "nfl": "football/nfl", "mlb": "baseball/mlb",
+           "cfb": "football/college-football", "cbb": "basketball/mens-college-basketball",
+           "ucl": "soccer/uefa.champions", "uel": "soccer/uefa.europa"}
+PLAYERS = ("nba", "nhl")  # en el resto solo se guardan las cuotas
 
 
 def box_path(league): return M.A.DATA / league / "box.jsonl"
@@ -39,12 +42,15 @@ def compact(d):
                              float(str(pm).replace("+", "").replace("--", "0") or 0), bool(a.get("starter")), bool(a.get("didNotPlay"))])
         teams.append({"team": t["team"]["displayName"], "players": rows})
     pc = next((p for p in d.get("pickcenter") or [] if (p.get("provider") or {}).get("name") == "DraftKings"), None)
-    odds = None if not pc else {"ml_h": (pc.get("homeTeamOdds") or {}).get("moneyLine"), "ml_a": (pc.get("awayTeamOdds") or {}).get("moneyLine"),
-                                "spread": pc.get("spread"), "total": pc.get("overUnder")}
+    h, a = (pc or {}).get("homeTeamOdds") or {}, (pc or {}).get("awayTeamOdds") or {}
+    odds = None if not pc else {"ml_h": h.get("moneyLine"), "ml_a": a.get("moneyLine"), "ml_d": (pc.get("drawOdds") or {}).get("moneyLine"),
+                                "spread": pc.get("spread"), "sp_h": h.get("spreadOdds"), "sp_a": a.get("spreadOdds"),
+                                "total": pc.get("overUnder"), "over": pc.get("overOdds"), "under": pc.get("underOdds")}
     return {"teams": teams, "odds": odds}
 
 
 def download(league, years=3, pause=0.35):
+    """(ESPN solo guarda cuotas de cierre en el summary desde ~nov 2025: para cuotas basta years=1.)"""
     """Descarga incremental (salta ids ya guardados) de los partidos de los últimos `years` años."""
     df = pd.concat([x for f in sorted((M.DIR / league).glob("*.csv")) if not (x := pd.read_csv(f, dtype={"id": str})).empty])
     df["date"] = pd.to_datetime(df.date, utc=True)
@@ -57,8 +63,10 @@ def download(league, years=3, pause=0.35):
             if r.id in done: continue
             try: d = M.get(f"{SUMMARY[league]}/summary", event=r.id)
             except (M.requests.RequestException, ValueError) as e: print("ESPN", r.id, e); time.sleep(5); continue
+            c = compact(d)
+            if league not in PLAYERS: c.pop("teams")
             f.write(json.dumps({"id": r.id, "date": str(r.date), "home": r.home, "away": r.away, "hs": r.hs, "as": r.as_,
-                                "res": r.res, **compact(d)}, ensure_ascii=False) + "\n")
+                                "res": r.res, **c}, ensure_ascii=False) + "\n")
             f.flush()
             time.sleep(pause)
 

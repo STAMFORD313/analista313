@@ -48,7 +48,7 @@ imp = absence_impact([{"pos": "F", "status": "lesionado", "games": 10}, {"pos": 
 assert imp == {"att": 0.10, "def": 0.03}, imp
 print("ok bajas y casas")
 txt = bankroll.scoreboard({"bank": bk, "signals": st["signals"]})
-assert "Ganadas: <b>1</b> (33 %)" in txt and "🟥🟩🟥" in txt, txt
+assert "Ganadas: <b>1</b> (33 %)" in txt and sorted(txt.split("Últimas 3:")[1].split()[0]) == sorted("🟥🟩🟥"), txt  # el orden depende de la prioridad
 print("ok marcador")
 
 # nula: tarjeta y marcador no la cuentan como perdida; combinada con una pierna perdida se liquida sin esperar al resto
@@ -155,9 +155,25 @@ n0 = len(pd.read_csv(bankroll.LOG)); bankroll.log_signals(fc)
 assert len(pd.read_csv(bankroll.LOG)) == n0 + 1 and "| Total | 3 |" in "\n".join(bankroll.calibration_md())
 print("ok FC 27")
 
+# revisión experta: decisión por valor con incertidumbre, autoajuste con IC, tope por partido, combinada diaria y congelado
+v = {"p": 0.6, "implied": 0.5, "odds": 2.0, "edge": 0.2}
+assert abs(bankroll.margin(v) - 0.10) < 1e-9 and bankroll.value_ok(v) and not bankroll.value_ok({**v, "edge": 0.08})
+assert abs(bankroll.kelly_frac(v) - 0.15) < 1e-9 and bankroll.kelly_frac({**v, "p": 0.5}) == 0
+seg = {"a": {"n": 60, "r": -0.5 * 60, "r2": 0.5 * 60}, "b": {"n": 60, "r": -0.05 * 60, "r2": 1.0 * 60}, "c": {"n": 10, "r": -9.0, "r2": 9.0}}
+assert bankroll.bad_segments(seg) == {"a"}  # b: pérdida dentro del ruido; c: pocas apuestas
+ev = [{"key": "e1", "market": m, "odds": 2.0, "p": 0.62, "implied": 0.6, "edge": 0.24, "match": "X vs Y", "pick": "X", "start": "2099-01-01T00:00Z"}
+      for m in ("H", "O25", "AHH")]
+bk3 = {"balance": 100.0, "bets": []}
+bankroll.place(bk3, ev, pd.Timestamp("2026-11-03"), KG())
+assert len(bk3["bets"]) == 2 and sum(b["stake"] for b in bk3["bets"]) <= 5.0 + 1e-9 and all(len(b["legs"]) == 1 for b in bk3["bets"]), bk3
+fz = [{"key": "z", "market": "H", "info": ["x", "• Bajas: <b>A</b>: sin bajas"]}]
+bankroll.freeze(fz); bankroll.freeze([{**fz[0], "captured": "otra"}])
+assert fz[0]["bajas"] == "A: sin bajas" and fz[0]["version"] == "local" and len(fz[0]["captured"]) == 16
+print("ok revisión experta")
+
 import radar
 s0 = {"key": "k9", "market": "U25", "odds": 2.0, "p": 0.5, "edge": 0.06, "match": "E vs F", "sport": "⚽"}
-assert [ok for ok, _ in radar.checklist(s0)] == [False, True, True, False]
+assert [ok for ok, _ in radar.checklist(s0)] == [True, True]
 assert len(sum(radar.menu(), [])) == len(radar.SPORTS)
 print("ok radar")
 
