@@ -465,6 +465,7 @@ def euro_combos(state, k, home, away, g):
     tl, oo, ou = totals(g.get("odds"))
     row = {"Avg>2.5": oo, "Avg<2.5": ou} if tl == 2.5 else {}
     combos = football_stats.price_combos(list(football_stats.LAST), offers, row)
+    if (pc := football_stats.priced_combo(football_stats.POOL, offers, row)): combos.append(pc)
     state.setdefault("sgp", {})[k] = {"match": f"{home} vs {away}", "start": start.isoformat(), "combos": combos, "priced": bool(offers)}
     return football_stats.sim_lines(combos)
 

@@ -382,6 +382,9 @@ def kambi_recheck(state, stats_df, row, k, start, today):
         football_stats.log_offers(stats_df, div, home, away, today, start, offers)
     if k in state.get("sgp", {}):  # las combinadas ya registradas reciben ahora la cuota de Unibet
         football_stats.price_combos(state["sgp"][k]["combos"], offers, row)
+        pool = state["sgp"][k].get("pool") or []
+        if pool and not any(c["kind"] == "valor" for c in state["sgp"][k]["combos"]) and (pc := football_stats.priced_combo(pool, offers, row)):
+            state["sgp"][k]["combos"].append(pc)
         state["sgp"][k]["priced"] = True
         for s in state["signals"]:
             if s["key"] == k and s.get("info") and not any(l.startswith("🎯") for l in s["info"]):
@@ -457,7 +460,9 @@ def analyze_fixtures(df, state, today, kg):
         info += stat_lines
         if football_stats.LAST:  # se liquidan después del partido para tener historial real (football_stats.settle_sgp)
             combos = football_stats.price_combos(list(football_stats.LAST), offers, row)
-            state.setdefault("sgp", {})[k] = {"match": f"{home} vs {away}", "start": start.isoformat(), "combos": combos, "priced": bool(offers)}
+            if (pc := football_stats.priced_combo(football_stats.POOL, offers, row)): combos.append(pc)
+            state.setdefault("sgp", {})[k] = {"match": f"{home} vs {away}", "start": start.isoformat(), "combos": combos, "priced": bool(offers),
+                                              "pool": [dict(l) for l in football_stats.POOL]}
             stat_lines += football_stats.sim_lines(combos)
             info += football_stats.sim_lines(combos)
         context = (f"{home} vs {away} ({ALL_LEAGUES[div]}). Modelo Poisson con historial desde 2005 y bajas: "

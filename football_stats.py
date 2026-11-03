@@ -334,6 +334,7 @@ def joint(legs, cov, rho=None):
     return min(max(p * (1 + corr), 0.0), min(l["p"] for l in legs))
 
 
+POOL = []  # piernas candidatas de la última card_lines (una por estadístico, p ≥ LONG_MIN_P): para la combinada con cuota
 LAST = []  # combinadas de la última card_lines (las registra analyst para liquidarlas: historial real de acierto)
 SGP_LOG = Path(__file__).parent / "data" / "sgp_log.csv"
 
@@ -375,12 +376,34 @@ def price_combos(combos, offers, row=None):
     return combos
 
 
+def priced_combo(pool, offers, row=None, rho=None, cov=None):
+    """«Combinada con cuota»: entre las piernas candidatas que SÍ tienen cuota de Unibet (o goles de fixtures), la de 2-3
+    piernas con más ventaja (prob. conjunta con la cópula × producto de cuotas − 1). None si no hay ≥ 2 con cuota."""
+    import itertools
+    legs = [dict(l) for l in pool]
+    price_combos([{"legs": legs, "p": 0, "kind": "x"}], offers, row)
+    legs = [l for l in legs if l.get("odds")]
+    if len(legs) < 2: return None
+    if rho is None or cov is None:
+        P = json.loads(PARAMS.read_text()) if PARAMS.exists() else {}
+        rho, cov = P.get("rho"), P.get("cov", {})
+    best = None
+    for n in (2, 3):
+        for c in itertools.combinations(legs, n):
+            pj = joint(list(c), cov, rho)
+            odds = float(np.prod([l["odds"] for l in c]))
+            if best is None or pj * odds - 1 > best["edge"]:
+                best = {"kind": "valor", "p": round(pj, 4), "legs": list(c), "odds": round(odds, 2), "edge": round(pj * odds - 1, 3)}
+    best["sim"] = best["edge"] >= SIM_EDGE
+    return best
+
+
 def sim_lines(combos):
     """Líneas de tarjeta: cuota aprox. de Unibet de cada combinada y si el bot la simula."""
     out = []
     for c in combos:
         if c.get("odds"):
-            out.append(f"🎯 {'Simulada' if c.get('sim') else 'No simulada'} ({ {'corta': 'crear apuesta', 'larga': 'larga'}.get(c['kind'], c['kind'].upper())}): "
+            out.append(f"🎯 {'Simulada' if c.get('sim') else 'No simulada'} ({ {'corta': 'crear apuesta', 'larga': 'larga', 'valor': 'con cuota: ' + ' + '.join(l['text'] for l in c['legs'])}.get(c['kind'], c['kind'].upper())}): "
                        f"cuota {'DraftKings' if c['kind'] in ('nba', 'nfl', 'nhl') else 'Unibet'} aprox. {c['odds']:.2f} (producto de piernas) · prob. {c['p']:.0%} · ventaja {c['edge']:+.0%}"
                        + (" → 1 u en la banca de simulación" if c.get("sim") else ""))
     return out
@@ -417,7 +440,7 @@ def sgp_history():
     if d.empty: return ""
     out = []
     for kind, g in d.groupby("tipo"):
-        out.append(f"{ {'corta': 'cortas', 'larga': 'largas'}.get(kind, kind.upper())} {len(g)}: previsto {g.p.mean():.0%}, acertadas {g.acierto.mean():.0%} "
+        out.append(f"{ {'corta': 'cortas', 'larga': 'largas', 'valor': 'con cuota'}.get(kind, kind.upper())} {len(g)}: previsto {g.p.mean():.0%}, acertadas {g.acierto.mean():.0%} "
                    f"(piernas {g.piernas_acertadas.sum() / g.piernas.sum():.0%} vs {g.p_piernas.mean():.0%})")
     txt = "📈 Historial real: " + " · ".join(out)
     if "simulada" in d and (sm := d[d.simulada == 1]).shape[0]:
@@ -428,7 +451,7 @@ def sgp_history():
 
 def card_lines(df, div, home, away, today, P_goals, cross=None):
     """`cross`: {stat: esperados} de cross_expected (partidos europeos). Líneas para la tarjeta del partido (texto HTML), con la combinada «crear apuesta» y su cuota justa."""
-    LAST.clear()
+    LAST.clear(); POOL.clear()
     if not PARAMS.exists(): return []
     P = json.loads(PARAMS.read_text())
     lines, legs = ["", "📐 <b>Estadísticas esperadas</b>"], []
@@ -460,6 +483,7 @@ def card_lines(df, div, home, away, today, P_goals, cross=None):
     legs.append({"stat": "goals", "var": "goals_t", "sign": 1 if po >= 0.5 else -1, "p": max(po, 1 - po), "line": 2.5,
                  "text": f"{'Más' if po >= 0.5 else 'Menos'} de 2.5 goles"})
     allr = sorted(legs, key=lambda l: -l["p"])
+    POOL[:] = [l for l in allr if l["p"] >= LONG_MIN_P]
     legs = [l for l in allr if l["p"] >= COMBO_MIN_P][:3]
     if len(legs) >= 2:
         pj = joint(legs, P.get("cov", {}), rho)

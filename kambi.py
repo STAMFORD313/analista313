@@ -12,9 +12,10 @@ URL = "https://eu-offering-api.kambicdn.com/offering/v2018/ub"
 Q = {"lang": "en_GB", "market": "GB"}
 LABEL = re.compile(r"^Total Corners(?: by (.+?))?$", re.I)
 # otras estadísticas que se REGISTRAN (no se apuestan) para medir el modelo frente a Unibet: Kambi puede contarlas distinto
-STAT_LABELS = {"cards": re.compile(r"^Total (?:Cards|Bookings)(?: by (.+?))?$", re.I),
-               "sot": re.compile(r"^Total Shots on Target(?: by (.+?))?$", re.I),
-               "fouls": re.compile(r"^Total Fouls(?: by (.+?))?$", re.I)}
+STAT_LABELS = {"cards": re.compile(r"^Total (?:Cards|Bookings)(?:(?: by| -) (.+?))?$", re.I),  # «Total Cards - Derby County»
+               "sot": re.compile(r"^Total Shots on Target(?:(?: by| -) (.+?))?$", re.I),
+               "fouls": re.compile(r"^Total Fouls(?:(?: by| -) (.+?))?$", re.I)}
+OPTA = re.compile(r"\s*\(Settled using Opta data\)\s*$", re.I)  # sufijo de los mercados que Kambi liquida con Opta
 LABELS_SEEN = {}  # nombre de mercado → veces visto en este run (data/kambi_labels.json: para descubrir mercados)
 _events = None
 _raw = None
@@ -96,6 +97,7 @@ def parse(d, home, away, stats=("corners",)):
     for b in d.get("betOffers", []):
         lab = b["criterion"].get("englishLabel", "")
         LABELS_SEEN[lab] = LABELS_SEEN.get(lab, 0) + 1
+        lab = OPTA.sub("", lab)
         m = next(((st, m) for st, rx in labels.items() if st in stats and (m := rx.match(lab))), None)
         if not m or b["criterion"].get("lifetime") != "FULL_TIME": continue
         stat, m = m

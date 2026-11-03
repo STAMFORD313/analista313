@@ -650,3 +650,19 @@ _kk = f"ucl|{_fut2[:10]}|Barcelona|Aston Villa"
 assert _rr[_kk]["HC"] == 7 and _rr[_kk]["AY"] == 3 and _rr[_kk]["FTHG"] == 2
 assert football_stats.leg_hit({"var": "sot_a", "sign": -1, "line": 4.5}, _rr[_kk]) is True  # menos de 4.5 tiros a puerta del Villa ✅
 print("ok combinadas de Champions con ESPN")
+
+# Kambi: nombres reales «… (Settled using Opta data)» y «Total Cards - Equipo»; combinada solo con piernas con cuota
+_bo2 = {"betOffers": [
+    {"criterion": {"englishLabel": "Total Shots on Target by Leeds (Settled using Opta data)", "lifetime": "FULL_TIME"},
+     "outcomes": [{"type": "OT_OVER", "odds": 2000, "line": 4500, "status": "OPEN"}, {"type": "OT_UNDER", "odds": 1750, "line": 4500, "status": "OPEN"}]},
+    {"criterion": {"englishLabel": "Total Cards - Hull", "lifetime": "FULL_TIME"},
+     "outcomes": [{"type": "OT_OVER", "odds": 1900, "line": 1500, "status": "OPEN"}, {"type": "OT_UNDER", "odds": 1850, "line": 1500, "status": "OPEN"}]}]}
+_pa2 = kambi.parse(_bo2, "Leeds", "Hull", ("corners", *kambi.STAT_LABELS))
+assert _pa2[("sot", "h")][4.5]["o"] == 2.0 and _pa2[("cards", "a")][1.5]["u"] == 1.85
+_pool = [_leg("fouls_h", -1, 11.5, 0.7), _leg("sot_h", -1, 4.5, 0.62), _leg("cards_a", -1, 1.5, 0.6), _leg("goals_t", 1, 2.5, 0.58)]
+for _l, _st in zip(_pool, ["fouls", "sot", "cards", "goals"]): _l["stat"] = _st
+_pc = football_stats.priced_combo(_pool, _pa2, {"Avg>2.5": 1.9, "Avg<2.5": 1.9}, rho=None, cov={})
+assert _pc and _pc["kind"] == "valor" and all(l["var"] != "fouls_h" for l in _pc["legs"])  # faltas sin mercado: fuera
+assert abs(_pc["odds"] - np.prod([l["odds"] for l in _pc["legs"]])) < 0.01 and abs(_pc["edge"] - (_pc["p"] * _pc["odds"] - 1)) < 0.02
+assert football_stats.priced_combo(_pool[:1], _pa2) is None
+print("ok combinada con cuota de Unibet")
