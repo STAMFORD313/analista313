@@ -1,18 +1,20 @@
 # Estadísticas del bot
 
-Actualizado: 03/11/2026 10:11
+Actualizado: 03/11/2026 11:07
 
-**Ganadas 8 / perdidas 8** (50 % acierto) · beneficio -3.55 $ · ROI -10.1 % · banca 96.45 $
+**Ganadas 8 / perdidas 15** (35 % acierto) · beneficio -15.04 $ · ROI -32.4 % · banca 84.96 $
 
-🟥🟥🟥🟩🟩🟥🟥🟩🟥🟥🟩🟩🟩🟩🟩🟥
+🟥🟥🟥🟩🟥🟩🟥🟥🟥🟥🟥🟥🟥🟥🟩🟥🟥🟩🟩🟩🟩🟩🟥
 
 ## Por segmento (deporte y tipo de apuesta)
 
 | Segmento | Apuestas | Ganadas | % | Beneficio | ROI |
 |---|---|---|---|---|---|
 | ? favorito | 1 | 1 | 100 % | +3.19 $ | +92.5 % |
-| ? no favorito | 4 | 1 | 25 % | -6.52 $ | -62.5 % |
-| ⚽ no favorito | 1 | 0 | 0 % | -1.06 $ | -100.0 % |
+| ? goles | 1 | 0 | 0 % | -1.69 $ | -100.0 % |
+| ? no favorito | 6 | 1 | 17 % | -9.37 $ | -70.6 % |
+| ⚽ goles | 1 | 0 | 0 % | -1.76 $ | -100.0 % |
+| ⚽ no favorito | 3 | 0 | 0 % | -4.62 $ | -100.0 % |
 | 🏀 favorito | 8 | 5 | 62 % | +0.19 $ | +1.2 % |
 | 🏈 totales | 1 | 0 | 0 % | -1.17 $ | -100.0 % |
 | 🐉 hándicap | 1 | 1 | 100 % | +1.82 $ | +75.8 % |
@@ -23,11 +25,11 @@ Si el bot está bien calibrado, el acierto real se parece a la prob. media. Brie
 
 | Prob. bot | Señales | Prob. media | Acierto real | Brier bot | Brier casas | ROI a 1 u. |
 |---|---|---|---|---|---|---|
-| 0%-40% | 18 | 33% | 11% | 0.141 | 0.107 | -64.3 % |
-| 40%-55% | 28 | 48% | 68% | 0.241 | 0.267 | +53.2 % |
+| 0%-40% | 26 | 31% | 12% | 0.135 | 0.109 | -63.8 % |
+| 40%-55% | 35 | 48% | 57% | 0.239 | 0.253 | +28.8 % |
 | 55%-70% | 35 | 61% | 60% | 0.249 | 0.280 | +16.0 % |
 | 70%-100% | 82 | 87% | 90% | 0.087 | 0.082 | -1.1 % |
-| Total | 163 | 69% | 71% | 0.154 | 0.159 | +4.9 % |
+| Total | 178 | 66% | 66% | 0.155 | 0.158 | -1.1 % |
 
 ### Por deporte y mercado (cada modelo se evalúa por separado)
 
@@ -36,8 +38,9 @@ Si el bot está bien calibrado, el acierto real se parece a la prob. media. Brie
 | ? | ganador | 2 | 42% | 50% | 0.237 | 0.227 | +27.0 % |
 | nba | ganador | 1 | 63% | 100% | 0.138 | 0.162 | +67.6 % |
 | nfl | ganador | 3 | 44% | 33% | 0.147 | 0.133 | -35.8 % |
-| ⚽ | ganador | 1 | 25% | 0% | 0.064 | 0.041 | -100.0 % |
-| 🎮 | ganador | 24 | 62% | 62% | 0.186 | 0.186 | -4.4 % |
+| ⚽ | ganador | 12 | 34% | 17% | 0.149 | 0.135 | -56.8 % |
+| ⚽ | goles/totales | 3 | 50% | 0% | 0.255 | 0.207 | -100.0 % |
+| 🎮 | ganador | 25 | 60% | 60% | 0.182 | 0.182 | -8.2 % |
 | 🎮 | hándicap | 1 | 46% | 0% | 0.216 | 0.162 | -100.0 % |
 | 🏀 | ganador | 106 | 76% | 75% | 0.130 | 0.131 | -0.3 % |
 | 🏀 | goles/totales | 3 | 52% | 100% | 0.231 | 0.250 | +90.9 % |
@@ -48,7 +51,7 @@ Si el bot está bien calibrado, el acierto real se parece a la prob. media. Brie
 | 🐉 | ganador | 5 | 60% | 100% | 0.216 | 0.304 | +134.6 % |
 | 🐉 | hándicap | 2 | 51% | 50% | 0.079 | 0.142 | -12.0 % |
 
-**CLV de lo apostado** (cuota cogida vs cierre; positivo = se gana al mercado): ⚽ +4.4 % (1)
+**CLV de lo apostado** (cuota cogida vs cierre; positivo = se gana al mercado): ⚽ +2.5 % (8)
 
 ## Historial (lo más reciente primero)
 
@@ -67,15 +70,15 @@ Si el bot está bien calibrado, el acierto real se parece a la prob. media. Brie
 | 2026-11-02 | Bryant Bulldogs vs Siena Saints → Gana Siena Saints | 1.7 | 2.73 $ | 🟥 -2.73 $ |
 | 2026-11-01 | Zenith vs Team Kinetix → Zenith +1.5 mapas | 1.76 | 2.4 $ | 🟩 +1.82 $ |
 | 2026-11-01 | Washington Commanders vs Philadelphia Eagles → Más de 40.5 puntos | 1.91 | 1.17 $ | 🟥 -1.17 $ |
-| 2026-11-01 | Kalamata vs Iraklis → Más de 2.5 goles | 2.15 | 1.76 $ | ⏳ +0.00 $ |
-| 2026-11-01 | Gil Vicente vs Guimaraes → Gana Gil Vicente | 2.85 | 2.09 $ | ⏳ +0.00 $ |
+| 2026-11-01 | Kalamata vs Iraklis → Más de 2.5 goles | 2.15 | 1.76 $ | 🟥 -1.76 $ |
+| 2026-11-01 | Gil Vicente vs Guimaraes → Gana Gil Vicente | 2.85 | 2.09 $ | 🟥 -2.09 $ |
 | 2026-11-01 | Sp Braga vs Famalicao → Gana Famalicao | 4.75 | 1.06 $ | 🟥 -1.06 $ |
-| 2026-11-01 | Belgrano vs Barracas Central → Gana Barracas Central | 5.0 | 1.47 $ | ⏳ +0.00 $ |
-| 2026-11-01 | 🔗 Combinada: Los Angeles Lakers + Denver Broncos + Más de 2.5 goles (Lorient vs Brest) @ 6.62 | 6.62 | 1.63 $ | ⏳ +0.00 $ |
-| 2026-11-01 | Newcastle vs Everton → Newcastle @ 2.35 | 2.35 | 1.21 $ | ⏳ +0.00 $ |
-| 2026-11-01 | Atalanta vs Parma → Menos de 2.5 goles @ 2.30 | 2.3 | 1.69 $ | ⏳ +0.00 $ |
+| 2026-11-01 | Belgrano vs Barracas Central → Gana Barracas Central | 5.0 | 1.47 $ | 🟥 -1.47 $ |
+| 2026-11-01 | 🔗 Combinada: Los Angeles Lakers + Denver Broncos + Más de 2.5 goles (Lorient vs Brest) @ 6.62 | 6.62 | 1.63 $ | 🟥 -1.63 $ |
+| 2026-11-01 | Newcastle vs Everton → Newcastle @ 2.35 | 2.35 | 1.21 $ | 🟥 -1.21 $ |
+| 2026-11-01 | Atalanta vs Parma → Menos de 2.5 goles @ 2.30 | 2.3 | 1.69 $ | 🟥 -1.69 $ |
 | 2026-11-01 | Philadelphia Flyers vs Utah Mammoth → Philadelphia Flyers @ 2.54 | 2.54 | 1.54 $ | 🟩 +2.37 $ |
-| 2026-11-01 | Lorient vs Brest → Lorient @ 2.50 | 2.5 | 1.64 $ | ⏳ +0.00 $ |
+| 2026-11-01 | Lorient vs Brest → Lorient @ 2.50 | 2.5 | 1.64 $ | 🟥 -1.64 $ |
 | 2026-11-01 | Denver Broncos vs Kansas City Chiefs → Denver Broncos @ 1.93 | 1.93 | 3.45 $ | 🟩 +3.19 $ |
 | 2026-11-01 | Miami Dolphins vs New England Patriots → Miami Dolphins @ 3.75 | 3.75 | 2.04 $ | 🟥 -2.04 $ |
 | 2026-11-01 | Washington Commanders vs Philadelphia Eagles → Philadelphia Eagles @ 3.20 | 3.2 | 3.24 $ | 🟥 -3.24 $ |

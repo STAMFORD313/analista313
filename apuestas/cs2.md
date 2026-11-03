@@ -1,23 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 03/11/2026 10:11 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## FURIA vs Natus Vincere — 03/11 · 10:30
-
-👀 candidata · 🎮 CS2 · Intel Extreme Masters Beijing 2026 · **Gana Natus Vincere** @ **2.00** (Thunderpick) · prob 46% vs casas 46% · ventaja -7%
-
-- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 76.355 partidos)  
-Mapa: FURIA 52% · Serie BO3: FURIA 53% - 47% Natus Vincere  
-Casas: FURIA 54% · Natus Vincere 46%  
-🔎 **Claves**  
-• Elo: FURIA 2164 (325 series) | Natus Vincere 2139 (276 series)  
-• Forma: FURIA ✅✅✅✅✅ | Natus Vincere ❌✅❌✅✅  
-• H2H: 18: 7-11  
-• Torneo: Intel Extreme Masters Beijing 2026 (nivel S)  
-• Cambios de plantilla: ninguno  
+Actualizado 03/11/2026 11:07 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## GenOne vs Lilmix — 03/11 · 13:00
 

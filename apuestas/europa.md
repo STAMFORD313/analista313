@@ -1,6 +1,6 @@
 # 🏆 Champions·Europa · apuestas de valor
 
-Actualizado 03/11/2026 10:11 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 03/11/2026 11:07 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Galatasaray vs VfB Stuttgart — 03/11 · 18:45
 
@@ -18,6 +18,13 @@ Hándicap GAL +115 · Total puntos 3.5
 • H2H: sin precedentes  
 • Bajas: Galatasaray: sin bajas; VfB Stuttgart: sin bajas  
 • Favorito de las casas: Galatasaray @ 2.15  
+📐 **Estadísticas esperadas** · cruce de las dos ligas, sin backtest en Europa  
+Córners 6.4 - 4.1: total +10.5 47% · Galatasaray +5.5 56% · VfB Stuttgart +4.5 38%  
+Tarjetas 2.0 - 2.3: total +4.5 44% · Galatasaray +2.5 33% · VfB Stuttgart +2.5 41%  
+Faltas 11.7 - 11.0: total +24.5 35% · Galatasaray +12.5 39% · VfB Stuttgart +12.5 32%  
+Tiros a puerta 7.0 - 4.1: total +10.5 54% · Galatasaray +5.5 67% · VfB Stuttgart +4.5 39%  
+🧩 Crear apuesta: Más de 2.5 goles + Menos de 12.5 faltas de VfB Stuttgart + Menos de 2.5 tarjetas de Galatasaray → prob. 34%, cuota justa 2.90 (solo vale si la casa paga más)  
+🚀 Combinada larga: Más de 2.5 goles + Menos de 12.5 faltas de VfB Stuttgart + Menos de 2.5 tarjetas de Galatasaray + Más de 5.5 tiros a puerta de Galatasaray + Menos de 4.5 córners de VfB Stuttgart → prob. 17%, cuota justa 6.01  
 
 ## Shakhtar Donetsk vs Sporting CP — 03/11 · 18:45
 
@@ -52,6 +59,13 @@ Hándicap MUN +150 · Total puntos 3.5
 • H2H: 3 desde 2016: 0-2  
 • Bajas: Atlético Madrid: sin bajas; Bayern Munich: sin bajas  
 • Favorito de las casas: Bayern Munich @ 2.50  
+📐 **Estadísticas esperadas** · cruce de las dos ligas, sin backtest en Europa  
+Córners 5.0 - 4.7: total +10.5 38% · Atlético Madrid +5.5 38% · Bayern Munich +4.5 48%  
+Tarjetas 2.1 - 1.8: total +4.5 36% · Atlético Madrid +2.5 34% · Bayern Munich +2.5 28%  
+Faltas 9.9 - 8.9: total +23.5 16% · Atlético Madrid +11.5 30% · Bayern Munich +11.5 20%  
+Tiros a puerta 4.8 - 5.1: total +10.5 40% · Atlético Madrid +5.5 35% · Bayern Munich +4.5 56%  
+🧩 Crear apuesta: Menos de 23.5 faltas + Menos de 2.5 tarjetas de Bayern Munich + Menos de 5.5 tiros a puerta de Atlético Madrid → prob. 41%, cuota justa 2.44 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 23.5 faltas + Menos de 2.5 tarjetas de Bayern Munich + Menos de 5.5 tiros a puerta de Atlético Madrid + Más de 2.5 goles + Menos de 5.5 córners de Atlético Madrid → prob. 16%, cuota justa 6.26  
 
 ## Barcelona vs Aston Villa — 03/11 · 21:00
 
@@ -69,6 +83,13 @@ Hándicap BAR -390 · Total puntos 4.5
 • H2H: sin precedentes  
 • Bajas: Barcelona: sin bajas; Aston Villa: sin bajas  
 • Favorito de las casas: Barcelona @ 1.26  
+📐 **Estadísticas esperadas** · cruce de las dos ligas, sin backtest en Europa  
+Córners 6.4 - 3.9: total +10.5 45% · Barcelona +5.5 57% · Aston Villa +4.5 35%  
+Tarjetas 1.9 - 2.1: total +4.5 37% · Barcelona +2.5 30% · Aston Villa +2.5 35%  
+Faltas 11.4 - 10.1: total +24.5 27% · Barcelona +12.5 36% · Aston Villa +12.5 23%  
+Tiros a puerta 6.5 - 2.9: total +9.5 47% · Barcelona +4.5 75% · Aston Villa +4.5 18%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Aston Villa + Menos de 12.5 faltas de Aston Villa + Menos de 2.5 tarjetas de Barcelona → prob. 45%, cuota justa 2.22 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Aston Villa + Menos de 12.5 faltas de Aston Villa + Menos de 2.5 tarjetas de Barcelona + Más de 2.5 goles + Menos de 4.5 córners de Aston Villa → prob. 20%, cuota justa 5.01  
 
 ## Bodo/Glimt vs Lille — 03/11 · 21:00
 
@@ -103,6 +124,13 @@ Hándicap INT -125 · Total puntos 3.5
 • H2H: 2 desde 2025: 0-2  
 • Bajas: Feyenoord Rotterdam: sin bajas; Internazionale: sin bajas  
 • Favorito de las casas: Internazionale @ 1.80  
+📐 **Estadísticas esperadas** · cruce de las dos ligas, sin backtest en Europa  
+Córners 5.2 - 4.3: total +10.5 37% · Feyenoord Rotterdam +5.5 42% · Internazionale +4.5 42%  
+Tarjetas 1.4 - 1.7: total +3.5 37% · Feyenoord Rotterdam +1.5 39% · Internazionale +2.5 25%  
+Faltas 9.1 - 11.9: total +22.5 37% · Feyenoord Rotterdam +11.5 22% · Internazionale +11.5 52%  
+Tiros a puerta 5.1 - 4.5: total +10.5 37% · Feyenoord Rotterdam +5.5 40% · Internazionale +4.5 46%  
+🧩 Crear apuesta: Menos de 11.5 faltas de Feyenoord Rotterdam + Menos de 2.5 tarjetas de Internazionale + Menos de 10.5 córners → prob. 37%, cuota justa 2.73 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 11.5 faltas de Feyenoord Rotterdam + Menos de 2.5 tarjetas de Internazionale + Menos de 10.5 córners + Menos de 10.5 tiros a puerta + Más de 2.5 goles → prob. 11%, cuota justa 8.74  
 
 ## LASK Linz vs Slovan Bratislava — 03/11 · 21:00
 
@@ -137,6 +165,13 @@ Hándicap MAN +130 · Total puntos 3.5
 • H2H: 2 desde 2021: 2-0  
 • Bajas: Manchester United: sin bajas; AS Roma: sin bajas  
 • Favorito de las casas: Manchester United @ 2.30  
+📐 **Estadísticas esperadas** · cruce de las dos ligas, sin backtest en Europa  
+Córners 5.2 - 4.7: total +10.5 40% · Manchester United +5.5 40% · AS Roma +4.5 48%  
+Tarjetas 2.1 - 2.3: total +4.5 43% · Manchester United +2.5 34% · AS Roma +2.5 40%  
+Faltas 11.5 - 12.1: total +22.5 56% · Manchester United +11.5 48% · AS Roma +12.5 43%  
+Tiros a puerta 5.4 - 4.3: total +9.5 51% · Manchester United +4.5 61% · AS Roma +4.5 43%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Manchester United + Más de 4.5 tiros a puerta de Manchester United → prob. 42%, cuota justa 2.39 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Manchester United + Más de 4.5 tiros a puerta de Manchester United + Menos de 10.5 córners + Menos de 12.5 faltas de AS Roma + Más de 2.5 goles → prob. 9%, cuota justa 10.63  
 
 ## Villarreal vs Paris Saint-Germain — 03/11 · 21:00
 
@@ -154,6 +189,13 @@ Hándicap PSG -165 · Total puntos 3.5
 • H2H: sin precedentes  
 • Bajas: Villarreal: sin bajas; Paris Saint-Germain: sin bajas  
 • Favorito de las casas: Paris Saint-Germain @ 1.61  
+📐 **Estadísticas esperadas** · cruce de las dos ligas, sin backtest en Europa  
+Córners 5.1 - 4.5: total +10.5 38% · Villarreal +5.5 40% · Paris Saint-Germain +4.5 46%  
+Tarjetas 1.7 - 1.6: total +4.5 25% · Villarreal +2.5 25% · Paris Saint-Germain +2.5 22%  
+Faltas 10.3 - 8.3: total +24.5 11% · Villarreal +12.5 25% · Paris Saint-Germain +12.5 9%  
+Tiros a puerta 5.1 - 5.5: total +9.5 59% · Villarreal +5.5 39% · Paris Saint-Germain +4.5 61%  
+🧩 Crear apuesta: Menos de 12.5 faltas de Paris Saint-Germain + Menos de 2.5 tarjetas de Paris Saint-Germain + Más de 2.5 goles → prob. 51%, cuota justa 1.96 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 12.5 faltas de Paris Saint-Germain + Menos de 2.5 tarjetas de Paris Saint-Germain + Más de 2.5 goles + Menos de 10.5 córners + Más de 4.5 tiros a puerta de Paris Saint-Germain → prob. 22%, cuota justa 4.62  
 
 ## Stade Rennais vs Olympiacos — 04/11 · 16:30
 
@@ -205,6 +247,13 @@ Hándicap LIV -175 · Total puntos 3.5
 • H2H: sin precedentes  
 • Bajas: Fenerbahce: sin bajas; Liverpool: sin bajas  
 • Favorito de las casas: Liverpool @ 1.57  
+📐 **Estadísticas esperadas** · cruce de las dos ligas, sin backtest en Europa  
+Córners 5.1 - 4.6: total +10.5 38% · Fenerbahce +5.5 40% · Liverpool +4.5 46%  
+Tarjetas 2.2 - 2.6: total +4.5 52% · Fenerbahce +2.5 38% · Liverpool +2.5 48%  
+Faltas 10.9 - 13.0: total +25.5 36% · Fenerbahce +12.5 30% · Liverpool +13.5 42%  
+Tiros a puerta 5.6 - 4.3: total +9.5 52% · Fenerbahce +5.5 48% · Liverpool +4.5 42%  
+🧩 Crear apuesta: Más de 2.5 goles + Menos de 12.5 faltas de Fenerbahce + Menos de 2.5 tarjetas de Fenerbahce → prob. 34%, cuota justa 2.95 (solo vale si la casa paga más)  
+🚀 Combinada larga: Más de 2.5 goles + Menos de 12.5 faltas de Fenerbahce + Menos de 2.5 tarjetas de Fenerbahce + Menos de 10.5 córners + Menos de 4.5 tiros a puerta de Liverpool → prob. 11%, cuota justa 9.23  
 
 ## Borussia Dortmund vs Real Betis — 04/11 · 21:00
 
@@ -222,6 +271,13 @@ Hándicap DOR -140 · Total puntos 3.5
 • H2H: sin precedentes  
 • Bajas: Borussia Dortmund: sin bajas; Real Betis: sin bajas  
 • Favorito de las casas: Borussia Dortmund @ 1.71  
+📐 **Estadísticas esperadas** · cruce de las dos ligas, sin backtest en Europa  
+Córners 6.1 - 4.0: total +10.5 43% · Borussia Dortmund +5.5 53% · Real Betis +4.5 37%  
+Tarjetas 1.9 - 1.7: total +4.5 29% · Borussia Dortmund +2.5 29% · Real Betis +2.5 24%  
+Faltas 11.0 - 9.5: total +23.5 26% · Borussia Dortmund +11.5 43% · Real Betis +11.5 25%  
+Tiros a puerta 5.8 - 4.0: total +10.5 39% · Borussia Dortmund +5.5 51% · Real Betis +4.5 37%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Real Betis + Menos de 11.5 faltas de Real Betis + Menos de 4.5 córners de Real Betis → prob. 37%, cuota justa 2.70 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Real Betis + Menos de 11.5 faltas de Real Betis + Menos de 4.5 córners de Real Betis + Menos de 4.5 tiros a puerta de Real Betis + Más de 2.5 goles → prob. 14%, cuota justa 7.30  
 
 ## FC Porto vs Napoli — 04/11 · 21:00
 
@@ -239,6 +295,13 @@ Hándicap FCP +105 · Total puntos 2.5
 • H2H: sin precedentes  
 • Bajas: FC Porto: sin bajas; Napoli: sin bajas  
 • Favorito de las casas: FC Porto @ 2.05  
+📐 **Estadísticas esperadas** · cruce de las dos ligas, sin backtest en Europa  
+Córners 5.3 - 4.0: total +9.5 46% · FC Porto +5.5 43% · Napoli +4.5 38%  
+Tarjetas 2.0 - 2.2: total +4.5 42% · FC Porto +2.5 34% · Napoli +2.5 38%  
+Faltas 12.7 - 9.8: total +24.5 33% · FC Porto +12.5 50% · Napoli +12.5 20%  
+Tiros a puerta 4.9 - 3.4: total +9.5 32% · FC Porto +4.5 52% · Napoli +4.5 26%  
+🧩 Crear apuesta: Menos de 12.5 faltas de Napoli + Menos de 4.5 tiros a puerta de Napoli + Menos de 2.5 tarjetas de FC Porto → prob. 40%, cuota justa 2.51 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 12.5 faltas de Napoli + Menos de 4.5 tiros a puerta de Napoli + Menos de 2.5 tarjetas de FC Porto + Menos de 4.5 córners de Napoli + Menos de 2.5 goles → prob. 17%, cuota justa 5.99  
 
 ## Lens vs Como — 04/11 · 21:00
 
@@ -256,6 +319,13 @@ Hándicap COMO +120 · Total puntos 3.5
 • H2H: sin precedentes  
 • Bajas: Lens: sin bajas; Como: sin bajas  
 • Favorito de las casas: Como @ 2.20  
+📐 **Estadísticas esperadas** · cruce de las dos ligas, sin backtest en Europa  
+Córners 5.4 - 4.3: total +10.5 39% · Lens +5.5 44% · Como +4.5 43%  
+Tarjetas 2.2 - 2.1: total +4.5 41% · Lens +2.5 36% · Como +2.5 34%  
+Faltas 13.2 - 11.3: total +23.5 56% · Lens +11.5 65% · Como +12.5 35%  
+Tiros a puerta 4.9 - 4.1: total +9.5 41% · Lens +5.5 37% · Como +4.5 38%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Como + Más de 11.5 faltas de Lens + Menos de 5.5 tiros a puerta de Lens → prob. 28%, cuota justa 3.60 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Como + Más de 11.5 faltas de Lens + Menos de 5.5 tiros a puerta de Lens + Menos de 10.5 córners → prob. 18%, cuota justa 5.43  
 
 ## PSV Eindhoven vs Club Brugge — 04/11 · 21:00
 
@@ -290,6 +360,13 @@ Hándicap MNC -180 · Total puntos 3.5
 • H2H: 6 desde 2021: 1-4  
 • Bajas: RB Leipzig: sin bajas; Manchester City: sin bajas  
 • Favorito de las casas: Manchester City @ 1.56  
+📐 **Estadísticas esperadas** · cruce de las dos ligas, sin backtest en Europa  
+Córners 5.0 - 5.3: total +10.5 45% · RB Leipzig +5.5 38% · Manchester City +4.5 56%  
+Tarjetas 1.7 - 1.9: total +4.5 30% · RB Leipzig +2.5 25% · Manchester City +2.5 29%  
+Faltas 11.2 - 11.3: total +21.5 56% · RB Leipzig +11.5 45% · Manchester City +11.5 46%  
+Tiros a puerta 5.1 - 4.7: total +9.5 52% · RB Leipzig +5.5 40% · Manchester City +4.5 50%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de RB Leipzig + Menos de 5.5 córners de RB Leipzig → prob. 46%, cuota justa 2.17 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de RB Leipzig + Menos de 5.5 córners de RB Leipzig + Menos de 5.5 tiros a puerta de RB Leipzig + Más de 21.5 faltas → prob. 16%, cuota justa 6.08  
 
 ## Slavia Prague vs Arsenal — 04/11 · 21:00
 
@@ -375,6 +452,13 @@ Hándicap CRY -105 · Total puntos 3.5
 • H2H: sin precedentes  
 • Bajas: Crystal Palace: sin bajas; TSG Hoffenheim: sin bajas  
 • Favorito de las casas: Crystal Palace @ 1.95  
+📐 **Estadísticas esperadas** · cruce de las dos ligas, sin backtest en Europa  
+Córners 5.1 - 4.9: total +10.5 41% · Crystal Palace +5.5 39% · TSG Hoffenheim +4.5 51%  
+Tarjetas 1.8 - 2.3: total +4.5 39% · Crystal Palace +2.5 26% · TSG Hoffenheim +2.5 41%  
+Faltas 9.8 - 12.6: total +21.5 56% · Crystal Palace +11.5 29% · TSG Hoffenheim +11.5 60%  
+Tiros a puerta 4.5 - 4.3: total +9.5 38% · Crystal Palace +5.5 30% · TSG Hoffenheim +4.5 42%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Crystal Palace + Menos de 11.5 faltas de Crystal Palace + Menos de 5.5 tiros a puerta de Crystal Palace → prob. 38%, cuota justa 2.66 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Crystal Palace + Menos de 11.5 faltas de Crystal Palace + Menos de 5.5 tiros a puerta de Crystal Palace + Menos de 5.5 córners de Crystal Palace + Más de 2.5 goles → prob. 13%, cuota justa 7.76  
 
 ## Levski Sofia vs Jagiellonia Bialystok — 05/11 · 18:45
 
@@ -443,6 +527,13 @@ Hándicap RSO -120 · Total puntos 3.5
 • H2H: sin precedentes  
 • Bajas: Real Sociedad: sin bajas; Lyon: sin bajas  
 • Favorito de las casas: Real Sociedad @ 1.83  
+📐 **Estadísticas esperadas** · cruce de las dos ligas, sin backtest en Europa  
+Córners 5.9 - 4.4: total +10.5 45% · Real Sociedad +5.5 50% · Lyon +4.5 44%  
+Tarjetas 2.4 - 2.3: total +4.5 48% · Real Sociedad +2.5 42% · Lyon +2.5 39%  
+Faltas 14.3 - 12.5: total +24.5 65% · Real Sociedad +12.5 66% · Lyon +12.5 48%  
+Tiros a puerta 5.0 - 4.1: total +9.5 42% · Real Sociedad +5.5 38% · Lyon +4.5 38%  
+🧩 Crear apuesta: Más de 12.5 faltas de Real Sociedad + Menos de 4.5 tiros a puerta de Lyon + Menos de 2.5 tarjetas de Lyon → prob. 24%, cuota justa 4.18 (solo vale si la casa paga más)  
+🚀 Combinada larga: Más de 12.5 faltas de Real Sociedad + Menos de 4.5 tiros a puerta de Lyon + Menos de 2.5 tarjetas de Lyon + Menos de 4.5 córners de Lyon → prob. 15%, cuota justa 6.89  
 
 ## Sparta Prague vs AFC Bournemouth — 05/11 · 18:45
 
@@ -477,6 +568,12 @@ Hándicap JUV -105 · Total puntos 2.5
 • H2H: sin precedentes  
 • Bajas: AZ Alkmaar: sin bajas; Juventus: sin bajas  
 • Favorito de las casas: Juventus @ 1.95  
+📐 **Estadísticas esperadas** · cruce de las dos ligas, sin backtest en Europa  
+Córners 5.5 - 4.8: total +10.5 46% · AZ Alkmaar +5.5 46% · Juventus +4.5 50%  
+Tarjetas 1.5 - 1.7: total +3.5 40% · AZ Alkmaar +1.5 43% · Juventus +2.5 25%  
+Faltas 10.0 - 11.9: total +22.5 44% · AZ Alkmaar +11.5 31% · Juventus +11.5 52%  
+Tiros a puerta 4.7 - 4.2: total +10.5 29% · AZ Alkmaar +5.5 34% · Juventus +4.5 40%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Juventus + Menos de 10.5 tiros a puerta + Menos de 11.5 faltas de AZ Alkmaar → prob. 37%, cuota justa 2.72 (solo vale si la casa paga más)  
 
 ## Bayer Leverkusen vs Marseille — 05/11 · 21:00
 
@@ -494,6 +591,13 @@ Hándicap B04 -245 · Total puntos 3.5
 • H2H: sin precedentes  
 • Bajas: Bayer Leverkusen: sin bajas; Marseille: sin bajas  
 • Favorito de las casas: Bayer Leverkusen @ 1.41  
+📐 **Estadísticas esperadas** · cruce de las dos ligas, sin backtest en Europa  
+Córners 5.6 - 4.0: total +10.5 37% · Bayer Leverkusen +5.5 47% · Marseille +4.5 37%  
+Tarjetas 1.9 - 2.3: total +4.5 42% · Bayer Leverkusen +2.5 31% · Marseille +2.5 42%  
+Faltas 10.6 - 11.2: total +22.5 43% · Bayer Leverkusen +11.5 38% · Marseille +11.5 44%  
+Tiros a puerta 5.5 - 4.2: total +10.5 38% · Bayer Leverkusen +5.5 46% · Marseille +4.5 41%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Bayer Leverkusen + Menos de 4.5 córners de Marseille + Menos de 11.5 faltas de Bayer Leverkusen → prob. 29%, cuota justa 3.40 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Bayer Leverkusen + Menos de 4.5 córners de Marseille + Menos de 11.5 faltas de Bayer Leverkusen + Menos de 10.5 tiros a puerta + Más de 2.5 goles → prob. 9%, cuota justa 11.13  
 
 ## Benfica vs Lech Poznan — 05/11 · 21:00
 
@@ -545,6 +649,13 @@ Hándicap BES +115 · Total puntos 2.5
 • H2H: sin precedentes  
 • Bajas: Celtic: sin bajas; Besiktas: sin bajas  
 • Favorito de las casas: Besiktas @ 2.15  
+📐 **Estadísticas esperadas** · cruce de las dos ligas, sin backtest en Europa  
+Córners 6.8 - 4.5: total +10.5 56% · Celtic +6.5 48% · Besiktas +4.5 44%  
+Tarjetas 2.0 - 2.1: total +4.5 39% · Celtic +2.5 32% · Besiktas +2.5 36%  
+Faltas 13.0 - 10.7: total +25.5 36% · Celtic +13.5 43% · Besiktas +13.5 21%  
+Tiros a puerta 6.1 - 3.8: total +9.5 52% · Celtic +5.5 55% · Besiktas +4.5 33%  
+🧩 Crear apuesta: Menos de 13.5 faltas de Besiktas + Menos de 2.5 tarjetas de Celtic + Menos de 4.5 tiros a puerta de Besiktas → prob. 37%, cuota justa 2.73 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 13.5 faltas de Besiktas + Menos de 2.5 tarjetas de Celtic + Menos de 4.5 tiros a puerta de Besiktas + Más de 2.5 goles + Más de 10.5 córners → prob. 10%, cuota justa 10.15  
 
 ## Hapoel Be'er vs OFI Crete — 05/11 · 21:00
 

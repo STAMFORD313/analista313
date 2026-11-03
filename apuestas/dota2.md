@@ -1,23 +1,6 @@
 # 🐉 Dota 2 · apuestas de valor
 
-Actualizado 03/11/2026 10:11 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## LEGION vs OG — 03/11 · 11:00
-
-👀 candidata · 🐉 Dota 2 · EPL Masters III · **Gana LEGION** @ **3.21** (Thunderpick) · prob 31% vs casas 29% · ventaja -0%
-
-- ❌ Valor: ventaja -0% (mín. 7% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🐉 no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 11.613 partidos)  
-Mapa: LEGION 39% · Serie BO3: LEGION 33% - 67% OG  
-Casas: LEGION 29% · OG 71%  
-🔎 **Claves**  
-• Elo: LEGION 1799 (17 series) | OG 1905 (298 series)  
-• Forma: LEGION ✅✅❌❌❌ | OG ❌✅❌❌❌  
-• H2H: 1: 0-1  
-• Torneo: EPL Masters III (nivel B)  
-• Cambios de plantilla: LEGION, OG  
+Actualizado 03/11/2026 11:07 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Nemiga Gaming vs CyberHero — 03/11 · 14:00
 
