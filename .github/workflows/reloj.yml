@@ -1,0 +1,22 @@
+name: reloj
+# El cron de GitHub casi no salta en este repo (5 runs programados de ~140 en 3 días): el bot solo corría al subir código.
+# Reloj que se mantiene solo: espera 30 min, lanza `analista` y se vuelve a lanzar (workflow_dispatch con GITHUB_TOKEN sí
+# crea runs nuevos). Solo hay un reloj a la vez (cancel-in-progress: el nuevo cancela al viejo). Si la cadena se rompe,
+# la rearranca el cron de abajo cuando GitHub lo dispare, o un push que toque este archivo.
+on:
+  workflow_dispatch:
+  schedule: [{cron: "7 */2 * * *"}]
+  push: {branches: [main], paths: [".github/workflows/reloj.yml"]}
+permissions: {actions: write, contents: read}
+concurrency: {group: reloj, cancel-in-progress: true}
+jobs:
+  tick:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - run: sleep 1800
+      - name: lanzar analista y el siguiente reloj
+        env: {GH_TOKEN: "${{ github.token }}"}
+        run: |
+          gh workflow run analista.yml -R "${{ github.repository }}" --ref main
+          gh workflow run reloj.yml -R "${{ github.repository }}" --ref main

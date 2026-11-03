@@ -388,3 +388,9 @@ assert _h.acierto.tolist() == [1, 0] and _h.piernas_acertadas.tolist() == [2, 1]
 assert "cortas 1: previsto 40%, acertadas 100%" in football_stats.sgp_history()
 assert football_stats.settle_sgp(_sg, {}, pd.Timestamp("2026-11-20")) == 0 and not _sg["sgp"]  # >10 días: fuera
 print("ok historial de combinadas")
+
+# reloj propio (el cron de GitHub casi no salta): espera, lanza analista y se relanza; un solo reloj a la vez
+_wf = (Path(__file__).parent / ".github/workflows/reloj.yml").read_text()
+assert "gh workflow run analista.yml" in _wf and "gh workflow run reloj.yml" in _wf and "cancel-in-progress: true" in _wf
+assert "actions: write" in _wf and "workflow_dispatch" in (Path(__file__).parent / ".github/workflows/analista.yml").read_text()
+print("ok reloj")
