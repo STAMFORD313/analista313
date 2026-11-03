@@ -1,6 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 03/11/2026 20:29 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 03/11/2026 20:37 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Blackburn vs Stoke — 03/11 · 20:45
 
@@ -1466,6 +1466,163 @@ Faltas 11.5 - 11.4: total +22.5 51% · Kortrijk +10.5 58% · KV Mechelen +11.5 4
 Tiros a puerta 4.5 - 4.4: total +9.5 40% · Kortrijk +5.5 31% · KV Mechelen +4.5 44%  
 🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Kortrijk + Menos de 2.5 tarjetas de KV Mechelen + Menos de 5.5 córners de Kortrijk → prob. 29%, cuota justa 3.48 (solo vale si la casa paga más)  
 🚀 Combinada larga: Menos de 5.5 tiros a puerta de Kortrijk + Menos de 2.5 tarjetas de KV Mechelen + Menos de 5.5 córners de Kortrijk + Más de 10.5 faltas de Kortrijk → prob. 17%, cuota justa 5.82  
+🎯 No simulada (crear apuesta): cuota Unibet aprox. 2.88 (producto de piernas) · prob. 29% · ventaja -17%  
+
+## Kortrijk vs KV Mechelen — 04/11 · 20:30
+
+👀 candidata · 🇧🇪 Pro League · **Menos de 6.5 córners de KV Mechelen** @ **1.24** (Unibet) · prob 75% vs casas 74% · ventaja -7%
+
+- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.15 - 1.57)  
+1 34% · X 27% · 2 40%  
+1X 60% · X2 66% · 12 73%  
++1.5 76% · +2.5 51% · +3.5 29% · Ambos marcan 55%  
+Marcadores: 1-1 12% · 0-1 10% · 1-2 9% · 0-2 8%  
+🔎 **Claves**  
+• Forma: Kortrijk ❌❌✅❌➖ | KV Mechelen   
+• H2H: sin precedentes  
+• Bajas: Kortrijk: sin bajas; KV Mechelen: sin bajas  
+• Favorito de las casas: KV Mechelen @ 2.50  
+📐 **Estadísticas esperadas**  
+Córners 5.1 - 4.8: total +10.5 41% · Kortrijk +5.5 40% · KV Mechelen +4.5 49%  
+Tarjetas 2.0 - 2.2: total +3.5 59% · Kortrijk +1.5 59% · KV Mechelen +2.5 39%  
+Faltas 11.5 - 11.4: total +22.5 51% · Kortrijk +10.5 58% · KV Mechelen +11.5 46%  
+Tiros a puerta 4.5 - 4.4: total +9.5 40% · Kortrijk +5.5 31% · KV Mechelen +4.5 44%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Kortrijk + Menos de 2.5 tarjetas de KV Mechelen + Menos de 5.5 córners de Kortrijk → prob. 29%, cuota justa 3.48 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Kortrijk + Menos de 2.5 tarjetas de KV Mechelen + Menos de 5.5 córners de Kortrijk + Más de 10.5 faltas de Kortrijk → prob. 17%, cuota justa 5.82  
+🎯 No simulada (crear apuesta): cuota Unibet aprox. 2.88 (producto de piernas) · prob. 29% · ventaja -17%  
+
+## Kortrijk vs KV Mechelen — 04/11 · 20:30
+
+👀 candidata · 🇧🇪 Pro League · **Más de 3.5 córners de KV Mechelen** @ **1.44** (Unibet) · prob 64% vs casas 64% · ventaja -7%
+
+- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.15 - 1.57)  
+1 34% · X 27% · 2 40%  
+1X 60% · X2 66% · 12 73%  
++1.5 76% · +2.5 51% · +3.5 29% · Ambos marcan 55%  
+Marcadores: 1-1 12% · 0-1 10% · 1-2 9% · 0-2 8%  
+🔎 **Claves**  
+• Forma: Kortrijk ❌❌✅❌➖ | KV Mechelen   
+• H2H: sin precedentes  
+• Bajas: Kortrijk: sin bajas; KV Mechelen: sin bajas  
+• Favorito de las casas: KV Mechelen @ 2.50  
+📐 **Estadísticas esperadas**  
+Córners 5.1 - 4.8: total +10.5 41% · Kortrijk +5.5 40% · KV Mechelen +4.5 49%  
+Tarjetas 2.0 - 2.2: total +3.5 59% · Kortrijk +1.5 59% · KV Mechelen +2.5 39%  
+Faltas 11.5 - 11.4: total +22.5 51% · Kortrijk +10.5 58% · KV Mechelen +11.5 46%  
+Tiros a puerta 4.5 - 4.4: total +9.5 40% · Kortrijk +5.5 31% · KV Mechelen +4.5 44%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Kortrijk + Menos de 2.5 tarjetas de KV Mechelen + Menos de 5.5 córners de Kortrijk → prob. 29%, cuota justa 3.48 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Kortrijk + Menos de 2.5 tarjetas de KV Mechelen + Menos de 5.5 córners de Kortrijk + Más de 10.5 faltas de Kortrijk → prob. 17%, cuota justa 5.82  
+🎯 No simulada (crear apuesta): cuota Unibet aprox. 2.88 (producto de piernas) · prob. 29% · ventaja -17%  
+
+## Kortrijk vs KV Mechelen — 04/11 · 20:30
+
+👀 candidata · 🇧🇪 Pro League · **Más de 7.5 córners** @ **1.26** (Unibet) · prob 74% vs casas 73% · ventaja -7%
+
+- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.15 - 1.57)  
+1 34% · X 27% · 2 40%  
+1X 60% · X2 66% · 12 73%  
++1.5 76% · +2.5 51% · +3.5 29% · Ambos marcan 55%  
+Marcadores: 1-1 12% · 0-1 10% · 1-2 9% · 0-2 8%  
+🔎 **Claves**  
+• Forma: Kortrijk ❌❌✅❌➖ | KV Mechelen   
+• H2H: sin precedentes  
+• Bajas: Kortrijk: sin bajas; KV Mechelen: sin bajas  
+• Favorito de las casas: KV Mechelen @ 2.50  
+📐 **Estadísticas esperadas**  
+Córners 5.1 - 4.8: total +10.5 41% · Kortrijk +5.5 40% · KV Mechelen +4.5 49%  
+Tarjetas 2.0 - 2.2: total +3.5 59% · Kortrijk +1.5 59% · KV Mechelen +2.5 39%  
+Faltas 11.5 - 11.4: total +22.5 51% · Kortrijk +10.5 58% · KV Mechelen +11.5 46%  
+Tiros a puerta 4.5 - 4.4: total +9.5 40% · Kortrijk +5.5 31% · KV Mechelen +4.5 44%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Kortrijk + Menos de 2.5 tarjetas de KV Mechelen + Menos de 5.5 córners de Kortrijk → prob. 29%, cuota justa 3.48 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Kortrijk + Menos de 2.5 tarjetas de KV Mechelen + Menos de 5.5 córners de Kortrijk + Más de 10.5 faltas de Kortrijk → prob. 17%, cuota justa 5.82  
+🎯 No simulada (crear apuesta): cuota Unibet aprox. 2.88 (producto de piernas) · prob. 29% · ventaja -17%  
+
+## Kortrijk vs KV Mechelen — 04/11 · 20:30
+
+👀 candidata · 🇧🇪 Pro League · **Menos de 12.5 córners** @ **1.22** (Unibet) · prob 77% vs casas 75% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.15 - 1.57)  
+1 34% · X 27% · 2 40%  
+1X 60% · X2 66% · 12 73%  
++1.5 76% · +2.5 51% · +3.5 29% · Ambos marcan 55%  
+Marcadores: 1-1 12% · 0-1 10% · 1-2 9% · 0-2 8%  
+🔎 **Claves**  
+• Forma: Kortrijk ❌❌✅❌➖ | KV Mechelen   
+• H2H: sin precedentes  
+• Bajas: Kortrijk: sin bajas; KV Mechelen: sin bajas  
+• Favorito de las casas: KV Mechelen @ 2.50  
+📐 **Estadísticas esperadas**  
+Córners 5.1 - 4.8: total +10.5 41% · Kortrijk +5.5 40% · KV Mechelen +4.5 49%  
+Tarjetas 2.0 - 2.2: total +3.5 59% · Kortrijk +1.5 59% · KV Mechelen +2.5 39%  
+Faltas 11.5 - 11.4: total +22.5 51% · Kortrijk +10.5 58% · KV Mechelen +11.5 46%  
+Tiros a puerta 4.5 - 4.4: total +9.5 40% · Kortrijk +5.5 31% · KV Mechelen +4.5 44%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Kortrijk + Menos de 2.5 tarjetas de KV Mechelen + Menos de 5.5 córners de Kortrijk → prob. 29%, cuota justa 3.48 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Kortrijk + Menos de 2.5 tarjetas de KV Mechelen + Menos de 5.5 córners de Kortrijk + Más de 10.5 faltas de Kortrijk → prob. 17%, cuota justa 5.82  
+🎯 No simulada (crear apuesta): cuota Unibet aprox. 2.88 (producto de piernas) · prob. 29% · ventaja -17%  
+
+## Kortrijk vs KV Mechelen — 04/11 · 20:30
+
+👀 candidata · 🇧🇪 Pro League · **Más de 3.5 córners de Kortrijk** @ **1.36** (Unibet) · prob 68% vs casas 67% · ventaja -7%
+
+- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.15 - 1.57)  
+1 34% · X 27% · 2 40%  
+1X 60% · X2 66% · 12 73%  
++1.5 76% · +2.5 51% · +3.5 29% · Ambos marcan 55%  
+Marcadores: 1-1 12% · 0-1 10% · 1-2 9% · 0-2 8%  
+🔎 **Claves**  
+• Forma: Kortrijk ❌❌✅❌➖ | KV Mechelen   
+• H2H: sin precedentes  
+• Bajas: Kortrijk: sin bajas; KV Mechelen: sin bajas  
+• Favorito de las casas: KV Mechelen @ 2.50  
+📐 **Estadísticas esperadas**  
+Córners 5.1 - 4.8: total +10.5 41% · Kortrijk +5.5 40% · KV Mechelen +4.5 49%  
+Tarjetas 2.0 - 2.2: total +3.5 59% · Kortrijk +1.5 59% · KV Mechelen +2.5 39%  
+Faltas 11.5 - 11.4: total +22.5 51% · Kortrijk +10.5 58% · KV Mechelen +11.5 46%  
+Tiros a puerta 4.5 - 4.4: total +9.5 40% · Kortrijk +5.5 31% · KV Mechelen +4.5 44%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Kortrijk + Menos de 2.5 tarjetas de KV Mechelen + Menos de 5.5 córners de Kortrijk → prob. 29%, cuota justa 3.48 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Kortrijk + Menos de 2.5 tarjetas de KV Mechelen + Menos de 5.5 córners de Kortrijk + Más de 10.5 faltas de Kortrijk → prob. 17%, cuota justa 5.82  
+🎯 No simulada (crear apuesta): cuota Unibet aprox. 2.88 (producto de piernas) · prob. 29% · ventaja -17%  
+
+## Kortrijk vs KV Mechelen — 04/11 · 20:30
+
+👀 candidata · 🇧🇪 Pro League · **Menos de 6.5 córners de Kortrijk** @ **1.32** (Unibet) · prob 71% vs casas 69% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.15 - 1.57)  
+1 34% · X 27% · 2 40%  
+1X 60% · X2 66% · 12 73%  
++1.5 76% · +2.5 51% · +3.5 29% · Ambos marcan 55%  
+Marcadores: 1-1 12% · 0-1 10% · 1-2 9% · 0-2 8%  
+🔎 **Claves**  
+• Forma: Kortrijk ❌❌✅❌➖ | KV Mechelen   
+• H2H: sin precedentes  
+• Bajas: Kortrijk: sin bajas; KV Mechelen: sin bajas  
+• Favorito de las casas: KV Mechelen @ 2.50  
+📐 **Estadísticas esperadas**  
+Córners 5.1 - 4.8: total +10.5 41% · Kortrijk +5.5 40% · KV Mechelen +4.5 49%  
+Tarjetas 2.0 - 2.2: total +3.5 59% · Kortrijk +1.5 59% · KV Mechelen +2.5 39%  
+Faltas 11.5 - 11.4: total +22.5 51% · Kortrijk +10.5 58% · KV Mechelen +11.5 46%  
+Tiros a puerta 4.5 - 4.4: total +9.5 40% · Kortrijk +5.5 31% · KV Mechelen +4.5 44%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Kortrijk + Menos de 2.5 tarjetas de KV Mechelen + Menos de 5.5 córners de Kortrijk → prob. 29%, cuota justa 3.48 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Kortrijk + Menos de 2.5 tarjetas de KV Mechelen + Menos de 5.5 córners de Kortrijk + Más de 10.5 faltas de Kortrijk → prob. 17%, cuota justa 5.82  
+🎯 No simulada (crear apuesta): cuota Unibet aprox. 2.88 (producto de piernas) · prob. 29% · ventaja -17%  
 
 ## Cardiff vs West Ham — 04/11 · 20:45
 

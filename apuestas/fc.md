@@ -1,24 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 03/11/2026 20:29 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Gazi vs Shinobu — 03/11 · 20:34
-
-👀 candidata · 🎮⚽ FC 27 · Copa America · **Empate** @ **5.20** (Unibet) · prob 22% vs casas 17% · ventaja +13%
-
-- ✅ Valor: ventaja +13% (mín. 11% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 54.974 partidos)  
-Goles esperados: Gazi 2.30 · Shinobu 2.55  
-Ganador: Gazi 34% · empate 22% · Shinobu 44%  
-Total: más de 4.5 goles 53% · menos 47%  
-Hándicap Shinobu: −1.5 28% · −2.5 15%  
-🔎 **Claves**  
-• Forma: Gazi ✅❌➖✅❌ | Shinobu ✅✅❌➖✅  
-• Partidos: Gazi 324 | Shinobu 1180  
-• Liga: Copa America  
-• Unibet: 1 2.20 · X 5.20 · 2 2.00 (sin margen 40%/17%/44%) · ventaja +13%. Sin stake hasta demostrar ROI con estas cuotas.  
+Actualizado 03/11/2026 20:37 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## mPm vs Gazi — 03/11 · 20:46
 
