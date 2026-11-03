@@ -1,60 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 03/11/2026 22:29 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Bosko vs cappo — 03/11 · 22:32
-
-👀 candidata · 🎮⚽ FC 27 · Champions League B 2x6 · **Gana Bosko** @ **1.61** (Unibet) · prob 59% vs casas 55% · ventaja -6%
-
-- ❌ Valor: ventaja -6% (mín. 7% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 55.104 partidos)  
-Goles esperados: Bosko 4.99 · cappo 3.91  
-Ganador: Bosko 59% · empate 14% · cappo 27%  
-Total: más de 8.5 goles 53% · menos 47%  
-Hándicap Bosko: −1.5 44% · −2.5 31%  
-🔎 **Claves**  
-• Forma: Bosko ❌➖✅❌✅ | cappo ✅❌❌❌❌  
-• Partidos: Bosko 475 | cappo 244  
-• Liga: Champions League B 2x6  
-• Unibet: 1 1.61 · X 5.30 · 2 3.05 (sin margen 55%/17%/29%) · ventaja -6%. Sin stake hasta demostrar ROI con estas cuotas.  
-
-## hotShot vs OG — 03/11 · 22:34
-
-👀 candidata · 🎮⚽ FC 27 · Portugal Primera · **Gana OG** @ **3.75** (Unibet) · prob 31% vs casas 23% · ventaja +17%
-
-- ✅ Valor: ventaja +17% (mín. 12% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 55.054 partidos)  
-Goles esperados: hotShot 2.18 · OG 1.86  
-Ganador: hotShot 45% · empate 24% · OG 31%  
-Total: más de 4.5 goles 38% · menos 62%  
-Hándicap hotShot: −1.5 27% · −2.5 13%  
-🔎 **Claves**  
-• Forma: hotShot ❌✅➖❌✅ | OG ✅❌➖➖➖  
-• Partidos: hotShot 452 | OG 488  
-• Liga: Portugal Primera  
-• Unibet: 1 2.28 · X 2.25 · 2 3.75 (sin margen 38%/39%/23%) · ventaja +17%. Sin stake hasta demostrar ROI con estas cuotas.  
-
-## RossFCDK vs Inquisitor — 03/11 · 22:34
-
-👀 candidata · 🎮⚽ FC 27 · Portugal Primera · **Empate** @ **5.00** (Unibet) · prob 20% vs casas 17% · ventaja +1%
-
-- ❌ Valor: ventaja +1% (mín. 9% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 55.094 partidos)  
-Goles esperados: RossFCDK 1.75 · Inquisitor 2.73  
-Ganador: RossFCDK 21% · empate 20% · Inquisitor 59%  
-Total: más de 4.5 goles 46% · menos 54%  
-Hándicap Inquisitor: −1.5 39% · −2.5 23%  
-🔎 **Claves**  
-• Forma: RossFCDK ✅✅➖➖❌ | Inquisitor ✅✅➖✅✅  
-• Partidos: RossFCDK 451 | Inquisitor 488  
-• Liga: Portugal Primera  
-• Unibet: 1 4.40 · X 5.00 · 2 1.37 (sin margen 20%/17%/63%) · ventaja +1%. Sin stake hasta demostrar ROI con estas cuotas.  
+Actualizado 03/11/2026 22:35 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Kavviro vs Simaponika — 03/11 · 22:43
 
@@ -164,24 +110,6 @@ Hándicap hotShot: −1.5 28% · −2.5 14%
 • Liga: Portugal Primera  
 • Unibet: 1 2.12 · X 2.32 · 2 4.00 (sin margen 41%/37%/22%) · ventaja +9%. Sin stake hasta demostrar ROI con estas cuotas.  
 
-## Kray vs Inquisitor — 03/11 · 22:58
-
-👀 candidata · 🎮⚽ FC 27 · Portugal Primera · **Empate** @ **4.60** (Unibet) · prob 20% vs casas 19% · ventaja -8%
-
-- ❌ Valor: ventaja -8% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 55.104 partidos)  
-Goles esperados: Kray 2.84 · Inquisitor 2.78  
-Ganador: Kray 41% · empate 20% · Inquisitor 39%  
-Total: más de 5.5 goles 49% · menos 51%  
-Hándicap Kray: −1.5 27% · −2.5 15%  
-🔎 **Claves**  
-• Forma: Kray ❌❌❌➖❌ | Inquisitor ✅✅➖✅✅  
-• Partidos: Kray 487 | Inquisitor 488  
-• Liga: Portugal Primera  
-• Unibet: 1 2.10 · X 4.60 · 2 2.23 (sin margen 42%/19%/39%) · ventaja -8%. Sin stake hasta demostrar ROI con estas cuotas.  
-
 ## Stenido vs Solya — 03/11 · 23:00
 
 👀 candidata · 🎮⚽ FC 27 · Argentina Super League 2x6 · **Gana Solya** @ **1.24** (Unibet) · prob 77% vs casas 70% · ventaja -5%
@@ -199,4 +127,40 @@ Hándicap Solya: −1.5 62% · −2.5 50%
 • Partidos: Stenido 175 | Solya 265  
 • Liga: Argentina Super League 2x6  
 • Unibet: 1 4.80 · X 7.50 · 2 1.24 (sin margen 18%/12%/70%) · ventaja -5%. Sin stake hasta demostrar ROI con estas cuotas.  
+
+## Kray vs RossFCDK — 03/11 · 23:10
+
+👀 candidata · 🎮⚽ FC 27 · Portugal Primera · **Gana Kray** @ **1.50** (Unibet) · prob 64% vs casas 58% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 55.104 partidos)  
+Goles esperados: Kray 3.41 · RossFCDK 2.14  
+Ganador: Kray 64% · empate 17% · RossFCDK 19%  
+Total: más de 5.5 goles 48% · menos 52%  
+Hándicap Kray: −1.5 45% · −2.5 29%  
+🔎 **Claves**  
+• Forma: Kray ❌❌❌➖❌ | RossFCDK ✅✅➖➖❌  
+• Partidos: Kray 487 | RossFCDK 451  
+• Liga: Portugal Primera  
+• Unibet: 1 1.50 · X 5.30 · 2 3.35 (sin margen 58%/16%/26%) · ventaja -4%. Sin stake hasta demostrar ROI con estas cuotas.  
+
+## OG vs Inquisitor — 03/11 · 23:10
+
+👀 candidata · 🎮⚽ FC 27 · Portugal Primera · **Gana Inquisitor** @ **1.61** (Unibet) · prob 56% vs casas 55% · ventaja -10%
+
+- ❌ Valor: ventaja -10% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 55.104 partidos)  
+Goles esperados: OG 2.04 · Inquisitor 2.89  
+Ganador: OG 24% · empate 20% · Inquisitor 56%  
+Total: más de 4.5 goles 55% · menos 45%  
+Hándicap Inquisitor: −1.5 38% · −2.5 22%  
+🔎 **Claves**  
+• Forma: OG ✅❌➖➖➖ | Inquisitor ✅✅➖✅✅  
+• Partidos: OG 488 | Inquisitor 488  
+• Liga: Portugal Primera  
+• Unibet: 1 3.50 · X 4.35 · 2 1.61 (sin margen 25%/20%/55%) · ventaja -10%. Sin stake hasta demostrar ROI con estas cuotas.  
 
