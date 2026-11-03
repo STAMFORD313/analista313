@@ -1,23 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 03/11/2026 15:48 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## BRUTE vs Nexus — 03/11 · 16:00
-
-👀 candidata · 🎮 CS2 · Fiesta Series 3 · **Gana Nexus** @ **2.80** (Thunderpick) · prob 36% vs casas 33% · ventaja +0%
-
-- ❌ Valor: ventaja +0% (mín. 7% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 76.380 partidos)  
-Mapa: BRUTE 58% · Serie BO3: BRUTE 61% - 39% Nexus  
-Casas: BRUTE 67% · Nexus 33%  
-🔎 **Claves**  
-• Elo: BRUTE 1791 (340 series) | Nexus 1709 (706 series)  
-• Forma: BRUTE ❌✅✅✅❌ | Nexus ✅✅❌❌✅  
-• H2H: 1: 0-1  
-• Torneo: Fiesta Series 3 (nivel C)  
-• Cambios de plantilla: ninguno  
+Actualizado 03/11/2026 16:14 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## boyband vs ROUNDS — 03/11 · 16:30
 

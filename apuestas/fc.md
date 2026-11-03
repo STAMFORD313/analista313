@@ -1,58 +1,58 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 03/11/2026 15:48 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 03/11/2026 16:14 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## mPm vs ramzes — 03/11 · 15:52
+## Shinobu vs mPm — 03/11 · 16:28
 
-👀 candidata · 🎮⚽ FC 27 · Eredivisie · **Gana mPm** @ **1.76** (Unibet) · prob 62% vs casas 50% · ventaja +10%
+👀 candidata · 🎮⚽ FC 27 · Eredivisie · **Empate** @ **7.00** (Unibet) · prob 16% vs casas 12% · ventaja +13%
+
+- ✅ Valor: ventaja +13% (mín. 12% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 54.754 partidos)  
+Goles esperados: Shinobu 2.54 · mPm 3.77  
+Ganador: Shinobu 21% · empate 16% · mPm 62%  
+Total: más de 6.5 goles 44% · menos 56%  
+Hándicap mPm: −1.5 45% · −2.5 30%  
+🔎 **Claves**  
+• Forma: Shinobu ➖✅❌❌✅ | mPm ❌✅✅✅❌  
+• Partidos: Shinobu 1164 | mPm 623  
+• Liga: Eredivisie  
+• Unibet: 1 3.35 · X 7.00 · 2 1.40 (sin margen 26%/12%/62%) · ventaja +13%. Sin stake hasta demostrar ROI con estas cuotas.  
+
+## Gazi vs ramzes — 03/11 · 16:28
+
+👀 candidata · 🎮⚽ FC 27 · Eredivisie · **Empate** @ **5.50** (Unibet) · prob 20% vs casas 16% · ventaja +10%
 
 - ❌ Valor: ventaja +10% (mín. 11% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 54.754 partidos)  
+Goles esperados: Gazi 2.57 · ramzes 2.93  
+Ganador: Gazi 33% · empate 20% · ramzes 47%  
+Total: más de 5.5 goles 47% · menos 53%  
+Hándicap ramzes: −1.5 31% · −2.5 18%  
+🔎 **Claves**  
+• Forma: Gazi ➖❌❌✅❌ | ramzes ✅❌✅❌❌  
+• Partidos: Gazi 308 | ramzes 972  
+• Liga: Eredivisie  
+• Unibet: 1 2.45 · X 5.50 · 2 1.82 (sin margen 36%/16%/48%) · ventaja +10%. Sin stake hasta demostrar ROI con estas cuotas.  
+
+## lzrn vs chevare — 03/11 · 16:40
+
+👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana chevare** @ **1.97** (Unibet) · prob 58% vs casas 44% · ventaja +15%
+
+- ✅ Valor: ventaja +15% (mín. 12% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 54.734 partidos)  
-Goles esperados: mPm 4.23 · ramzes 2.96  
-Ganador: mPm 63% · empate 15% · ramzes 22%  
-Total: más de 7.5 goles 43% · menos 57%  
-Hándicap mPm: −1.5 46% · −2.5 32%  
+📊 **Escenarios** (Poisson por jugador, 54.754 partidos)  
+Goles esperados: lzrn 2.91 · chevare 3.90  
+Ganador: lzrn 25% · empate 16% · chevare 58%  
+Total: más de 6.5 goles 52% · menos 48%  
+Hándicap chevare: −1.5 42% · −2.5 28%  
 🔎 **Claves**  
-• Forma: mPm ❌✅✅✅❌ | ramzes ✅❌✅❌❌  
-• Partidos: mPm 623 | ramzes 972  
-• Liga: Eredivisie  
-• Unibet: 1 1.76 · X 5.60 · 2 2.55 (sin margen 50%/16%/34%) · ventaja +10%. Sin stake hasta demostrar ROI con estas cuotas.  
-
-## lzrn vs llulle — 03/11 · 15:52
-
-👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana llulle** @ **2.60** (Unibet) · prob 42% vs casas 34% · ventaja +10%
-
-- ❌ Valor: ventaja +10% (mín. 11% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 54.734 partidos)  
-Goles esperados: lzrn 2.64 · llulle 2.76  
-Ganador: lzrn 37% · empate 20% · llulle 42%  
-Total: más de 5.5 goles 45% · menos 55%  
-Hándicap llulle: −1.5 27% · −2.5 15%  
-🔎 **Claves**  
-• Forma: lzrn ✅❌✅❌➖ | llulle ➖❌✅✅✅  
-• Partidos: lzrn 719 | llulle 793  
+• Forma: lzrn ✅❌✅❌➖ | chevare ✅❌❌❌❌  
+• Partidos: lzrn 719 | chevare 504  
 • Liga: Champions League B  
-• Unibet: 1 1.90 · X 4.20 · 2 2.60 (sin margen 46%/21%/33%) · ventaja +10%. Sin stake hasta demostrar ROI con estas cuotas.  
-
-## Duka vs Maslja — 03/11 · 15:58
-
-👀 candidata · 🎮⚽ FC 27 · Serie A · **Gana Maslja** @ **3.15** (Unibet) · prob 34% vs casas 28% · ventaja +6%
-
-- ❌ Valor: ventaja +6% (mín. 10% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 54.734 partidos)  
-Goles esperados: Duka 2.66 · Maslja 2.37  
-Ganador: Duka 45% · empate 21% · Maslja 34%  
-Total: más de 5.5 goles 39% · menos 61%  
-Hándicap Duka: −1.5 29% · −2.5 16%  
-🔎 **Claves**  
-• Forma: Duka ➖✅✅➖✅ | Maslja ❌❌➖❌❌  
-• Partidos: Duka 970 | Maslja 796  
-• Liga: Serie A  
-• Unibet: 1 1.73 · X 4.00 · 2 3.15 (sin margen 50%/22%/28%) · ventaja +6%. Sin stake hasta demostrar ROI con estas cuotas.  
+• Unibet: 1 2.43 · X 4.40 · 2 1.97 (sin margen 36%/20%/44%) · ventaja +15%. Sin stake hasta demostrar ROI con estas cuotas.  
 
