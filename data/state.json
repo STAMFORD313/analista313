@@ -689,6 +689,7 @@
   "wta|2026-11-04|Irene Burillo|Luisina Giovannini",
   "wta|2026-11-05|Anna Blinkova|Li Zongyu",
   "wta|2026-11-04|Laura Samson|Carole Monnet",
+  "wta|2026-11-05|Mai Hontama|Zhibek Kulambayeva",
   "cs2|132573",
   "cs2|132574",
   "cs2|132578",
@@ -954,10 +955,12 @@
   "fc|2360132",
   "fc|2360901",
   "fc|2360760",
-  "wta|2026-11-05|Mai Hontama|Zhibek Kulambayeva",
   "fc|2360137",
   "fc|2360136",
-  "fc|2360134"
+  "fc|2360134",
+  "fc|2360140",
+  "fc|2360770",
+  "fc|2360769"
  ],
  "signals": [
   {
@@ -12829,7 +12832,113 @@
    "captured": "2026-11-03T19:22",
    "version": "05b4399",
    "bajas": "",
-   "considered": true
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "D",
+   "pick": "Empate",
+   "odds": 6.25,
+   "book": "Unibet",
+   "implied": 0.141,
+   "edge": 0.091,
+   "sin_stake": true,
+   "p": 0.175,
+   "key": "fc|2360140",
+   "match": "Shinobu vs mPm",
+   "start": "2026-11-03T19:58:00+00:00",
+   "league": "🎮⚽ FC 27 · Copa America",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 54.974 partidos)",
+    "Goles esperados: Shinobu 2.74 · mPm 3.58",
+    "Ganador: Shinobu 27% · empate 17% · mPm 56%",
+    "Total: más de 6.5 goles 45% · menos 55%",
+    "Hándicap mPm: −1.5 39% · −2.5 25%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Shinobu ✅✅❌➖✅ | mPm ❌✅❌❌❌",
+    "• Partidos: Shinobu 1180 | mPm 639",
+    "• Liga: Copa America",
+    "• Unibet: 1 2.50 · X 6.25 · 2 1.74 (sin margen 35%/14%/51%) · ventaja +9%. Sin stake hasta demostrar ROI con estas cuotas."
+   ],
+   "context": "EA FC Esoccer Battle Shinobu vs mPm (Copa America): goles esperados 2.74-3.58, 1X2 27%/17%/56%. Sin cuotas de casa.",
+   "captured": "2026-11-03T19:29",
+   "version": "e85b5b6",
+   "bajas": "",
+   "considered": true,
+   "placed": false,
+   "anunciada": true
+  },
+  {
+   "market": "D",
+   "pick": "Empate",
+   "odds": 4.2,
+   "book": "Unibet",
+   "implied": 0.207,
+   "edge": 0.056,
+   "sin_stake": true,
+   "p": 0.251,
+   "key": "fc|2360770",
+   "match": "Linox vs DEKSON",
+   "start": "2026-11-03T19:55:00+00:00",
+   "league": "🎮⚽ FC 27 · Serie A",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 54.974 partidos)",
+    "Goles esperados: Linox 1.98 · DEKSON 1.83",
+    "Ganador: Linox 41% · empate 25% · DEKSON 34%",
+    "Total: más de 3.5 goles 53% · menos 47%",
+    "Hándicap Linox: −1.5 23% · −2.5 11%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Linox ✅✅✅✅➖ | DEKSON ➖❌❌❌✅",
+    "• Partidos: Linox 735 | DEKSON 449",
+    "• Liga: Serie A",
+    "• Unibet: 1 1.96 · X 4.20 · 2 2.50 (sin margen 44%/21%/35%) · ventaja +6%. Sin stake hasta demostrar ROI con estas cuotas."
+   ],
+   "context": "EA FC Esoccer Battle Linox vs DEKSON (Serie A): goles esperados 1.98-1.83, 1X2 41%/25%/34%. Sin cuotas de casa.",
+   "captured": "2026-11-03T19:29",
+   "version": "e85b5b6",
+   "bajas": "",
+   "considered": true,
+   "placed": false,
+   "anunciada": true
+  },
+  {
+   "market": "D",
+   "pick": "Empate",
+   "odds": 5.4,
+   "book": "Unibet",
+   "implied": 0.162,
+   "edge": 0.047,
+   "sin_stake": true,
+   "p": 0.194,
+   "key": "fc|2360769",
+   "match": "Dicca vs Mani",
+   "start": "2026-11-03T19:55:00+00:00",
+   "league": "🎮⚽ FC 27 · Serie A",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 54.974 partidos)",
+    "Goles esperados: Dicca 3.05 · Mani 2.80",
+    "Ganador: Dicca 45% · empate 19% · Mani 36%",
+    "Total: más de 5.5 goles 53% · menos 47%",
+    "Hándicap Dicca: −1.5 30% · −2.5 17%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Dicca ➖✅❌➖❌ | Mani ❌❌❌✅➖",
+    "• Partidos: Dicca 593 | Mani 736",
+    "• Liga: Serie A",
+    "• Unibet: 1 1.83 · X 5.40 · 2 2.43 (sin margen 48%/16%/36%) · ventaja +5%. Sin stake hasta demostrar ROI con estas cuotas."
+   ],
+   "context": "EA FC Esoccer Battle Dicca vs Mani (Serie A): goles esperados 3.05-2.80, 1X2 45%/19%/36%. Sin cuotas de casa.",
+   "captured": "2026-11-03T19:29",
+   "version": "e85b5b6",
+   "bajas": "",
+   "considered": true,
+   "placed": false,
+   "anunciada": true
   }
  ],
  "bank": {
@@ -13245,8 +13354,8 @@
   ]
  },
  "scoreboard_id": 132,
- "scoreboard_text": "📊 <b>MARCADOR DEL BOT</b>\n━━━━━━━━━━━━━━━\n🟩 Ganadas: <b>8</b> (35 %)\n🟥 Perdidas: <b>15</b> (65 %)\n⏳ En juego: 4\n\nÚltimas 23:\n🟥🟥🟥🟩🟥🟩🟥🟥🟥🟥🟥🟥🟥🟥🟩🟥🟥🟩🟩🟩🟩🟩🟥\n━━━━━━━━━━━━━━━\n💵 Beneficio -15.04 $ · ROI -32.4 %\n📐 CLV medio +2.5 % (cuota cogida vs cierre)\n💰 Banca: <b>84.96 $</b> (-15.04 $ desde 100 $) · libre 79.50 ${\"inline_keyboard\": [[{\"text\": \"\\ud83d\\udcc8 Ver historial completo y fallos\", \"url\": \"https://github.com/STAMFORD313/analista313/blob/main/ESTADISTICAS.md\"}], [{\"text\": \"\\u26bd F\\u00fatbol\", \"callback_data\": \"dep:futbol\"}, {\"text\": \"\\ud83c\\udfc0 NBA\\u00b7NCAA\", \"callback_data\": \"dep:nba\"}, {\"text\": \"\\ud83c\\udfc8 NFL\\u00b7NCAA\", \"callback_data\": \"dep:nfl\"}], [{\"text\": \"\\ud83c\\udfc6 Champions\\u00b7Europa\", \"callback_data\": \"dep:europa\"}, {\"text\": \"\\ud83c\\udfd2 NHL\", \"callback_data\": \"dep:nhl\"}, {\"text\": \"\\u26be MLB\", \"callback_data\": \"dep:mlb\"}], [{\"text\": \"\\ud83e\\udd4a UFC\", \"callback_data\": \"dep:ufc\"}, {\"text\": \"\\ud83c\\udfbe Tenis\", \"callback_data\": \"dep:tenis\"}, {\"text\": \"\\ud83c\\udfae CS2\", \"callback_data\": \"dep:cs2\"}], [{\"text\": \"\\ud83d\\udc09 Dota 2\", \"callback_data\": \"dep:dota2\"}, {\"text\": \"\\ud83e\\uddd9 LoL\", \"callback_data\": \"dep:lol\"}, {\"text\": \"\\ud83d\\udd2b R6 Siege\", \"callback_data\": \"dep:r6\"}], [{\"text\": \"\\ud83d\\udcf1 MLBB\", \"callback_data\": \"dep:mlbb\"}, {\"text\": \"\\ud83c\\udfae\\u26bd FC 27\", \"callback_data\": \"dep:fc\"}]]}",
- "fc_sent": "2026-11-03T19:22:57.312180+00:00",
+ "scoreboard_text": "📊 <b>MARCADOR DEL BOT</b>\n━━━━━━━━━━━━━━━\n🟩 Ganadas: <b>8</b> (35 %)\n🟥 Perdidas: <b>15</b> (65 %)\n⏳ En juego: 4\n\nÚltimas 23:\n🟥🟥🟥🟩🟥🟩🟥🟥🟥🟥🟥🟥🟥🟥🟩🟥🟥🟩🟩🟩🟩🟩🟥\n━━━━━━━━━━━━━━━\n💵 Beneficio -15.04 $ · ROI -32.4 %\n📐 CLV medio +2.5 % (cuota cogida vs cierre)\n💰 Banca: <b>84.96 €</b> (-15.04 € desde 100 €) · libre 79.50 €{\"inline_keyboard\": [[{\"text\": \"\\ud83d\\udcc8 Ver historial completo y fallos\", \"url\": \"https://github.com/STAMFORD313/analista313/blob/main/ESTADISTICAS.md\"}], [{\"text\": \"\\u26bd F\\u00fatbol\", \"callback_data\": \"dep:futbol\"}, {\"text\": \"\\ud83c\\udfc0 NBA\\u00b7NCAA\", \"callback_data\": \"dep:nba\"}, {\"text\": \"\\ud83c\\udfc8 NFL\\u00b7NCAA\", \"callback_data\": \"dep:nfl\"}], [{\"text\": \"\\ud83c\\udfc6 Champions\\u00b7Europa\", \"callback_data\": \"dep:europa\"}, {\"text\": \"\\ud83c\\udfd2 NHL\", \"callback_data\": \"dep:nhl\"}, {\"text\": \"\\u26be MLB\", \"callback_data\": \"dep:mlb\"}], [{\"text\": \"\\ud83e\\udd4a UFC\", \"callback_data\": \"dep:ufc\"}, {\"text\": \"\\ud83c\\udfbe Tenis\", \"callback_data\": \"dep:tenis\"}, {\"text\": \"\\ud83c\\udfae CS2\", \"callback_data\": \"dep:cs2\"}], [{\"text\": \"\\ud83d\\udc09 Dota 2\", \"callback_data\": \"dep:dota2\"}, {\"text\": \"\\ud83e\\uddd9 LoL\", \"callback_data\": \"dep:lol\"}, {\"text\": \"\\ud83d\\udd2b R6 Siege\", \"callback_data\": \"dep:r6\"}], [{\"text\": \"\\ud83d\\udcf1 MLBB\", \"callback_data\": \"dep:mlbb\"}, {\"text\": \"\\ud83c\\udfae\\u26bd FC 27\", \"callback_data\": \"dep:fc\"}]]}",
+ "fc_sent": "2026-11-03T19:29:17.252049+00:00",
  "sgp": {
   "E1|2026-11-03|Blackburn|Stoke": {
    "match": "Blackburn vs Stoke",
@@ -14093,7 +14202,7 @@
    ]
   }
  },
- "combo_sent": "2026-11-03T19:22:58.858804+00:00",
+ "combo_sent": "2026-11-03T19:29:18.780644+00:00",
  "fc_sim_sent": "2026-11-03T18:48:20.609897+00:00",
  "fc_sim_n": 72,
  "kambi_ok": [
