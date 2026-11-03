@@ -1,96 +1,42 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 03/11/2026 21:17 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 03/11/2026 21:33 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## DEKSON vs Mani — 03/11 · 21:19
+## DEKSON vs Dicca — 03/11 · 21:43
 
-👀 candidata · 🎮⚽ FC 27 · Serie A · **Empate** @ **4.90** (Unibet) · prob 22% vs casas 18% · ventaja +6%
+👀 candidata · 🎮⚽ FC 27 · Serie A · **Empate** @ **5.60** (Unibet) · prob 21% vs casas 16% · ventaja +18%
 
-- ❌ Valor: ventaja +6% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Valor: ventaja +18% (mín. 13% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 54.974 partidos)  
-Goles esperados: DEKSON 2.18 · Mani 2.60  
-Ganador: DEKSON 31% · empate 22% · Mani 47%  
+📊 **Escenarios** (Poisson por jugador, 55.034 partidos)  
+Goles esperados: DEKSON 2.08 · Dicca 2.69  
+Ganador: DEKSON 27% · empate 21% · Dicca 51%  
 Total: más de 4.5 goles 52% · menos 48%  
-Hándicap Mani: −1.5 30% · −2.5 16%  
+Hándicap Dicca: −1.5 33% · −2.5 19%  
 🔎 **Claves**  
-• Forma: DEKSON ➖❌❌❌✅ | Mani ❌❌❌✅➖  
-• Partidos: DEKSON 449 | Mani 736  
+• Forma: DEKSON ➖❌❌❌✅ | Dicca ➖✅❌➖❌  
+• Partidos: DEKSON 449 | Dicca 593  
 • Liga: Serie A  
-• Unibet: 1 2.65 · X 4.90 · 2 1.78 (sin margen 33%/18%/49%) · ventaja +6%. Sin stake hasta demostrar ROI con estas cuotas.  
+• Unibet: 1 3.10 · X 5.60 · 2 1.58 (sin margen 28%/16%/56%) · ventaja +18%. Sin stake hasta demostrar ROI con estas cuotas.  
 
-## Gazi vs SDI — 03/11 · 21:20
+## Shinobu vs Gazi — 03/11 · 21:44
 
-👀 candidata · 🎮⚽ FC 27 · Copa America · **Empate** @ **5.50** (Unibet) · prob 20% vs casas 16% · ventaja +9%
+👀 candidata · 🎮⚽ FC 27 · Copa America · **Empate** @ **5.50** (Unibet) · prob 22% vs casas 16% · ventaja +18%
 
-- ❌ Valor: ventaja +9% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Valor: ventaja +18% (mín. 13% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 54.994 partidos)  
-Goles esperados: Gazi 2.84 · SDI 2.87  
-Ganador: Gazi 40% · empate 20% · SDI 40%  
-Total: más de 5.5 goles 51% · menos 49%  
-Hándicap SDI: −1.5 26% · −2.5 14%  
+📊 **Escenarios** (Poisson por jugador, 55.034 partidos)  
+Goles esperados: Shinobu 2.54 · Gazi 2.41  
+Ganador: Shinobu 42% · empate 22% · Gazi 37%  
+Total: más de 4.5 goles 55% · menos 45%  
+Hándicap Shinobu: −1.5 26% · −2.5 14%  
 🔎 **Claves**  
-• Forma: Gazi ✅❌➖✅❌ | SDI ❌✅✅✅➖  
-• Partidos: Gazi 324 | SDI 324  
+• Forma: Shinobu ❌❌❌✅❌ | Gazi ✅➖❌✅❌  
+• Partidos: Shinobu 1188 | Gazi 332  
 • Liga: Copa America  
-• Unibet: 1 1.91 · X 5.50 · 2 2.30 (sin margen 46%/16%/38%) · ventaja +9%. Sin stake hasta demostrar ROI con estas cuotas.  
-
-## Shinobu vs ramzes — 03/11 · 21:20
-
-👀 candidata · 🎮⚽ FC 27 · Copa America · **Empate** @ **5.75** (Unibet) · prob 19% vs casas 15% · ventaja +7%
-
-- ❌ Valor: ventaja +7% (mín. 10% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 54.994 partidos)  
-Goles esperados: Shinobu 3.22 · ramzes 3.10  
-Ganador: Shinobu 43% · empate 19% · ramzes 39%  
-Total: más de 6.5 goles 44% · menos 56%  
-Hándicap Shinobu: −1.5 29% · −2.5 17%  
-🔎 **Claves**  
-• Forma: Shinobu ✅✅❌➖✅ | ramzes ❌❌❌➖✅  
-• Partidos: Shinobu 1180 | ramzes 988  
-• Liga: Copa America  
-• Unibet: 1 2.23 · X 5.75 · 2 1.95 (sin margen 40%/15%/45%) · ventaja +7%. Sin stake hasta demostrar ROI con estas cuotas.  
-
-## llulle vs lzrn — 03/11 · 21:22
-
-👀 candidata · 🎮⚽ FC 27 · Premier League · **Gana llulle** @ **2.55** (Unibet) · prob 41% vs casas 34% · ventaja +4%
-
-- ❌ Valor: ventaja +4% (mín. 9% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 54.994 partidos)  
-Goles esperados: llulle 2.66 · lzrn 2.60  
-Ganador: llulle 41% · empate 21% · lzrn 38%  
-Total: más de 5.5 goles 43% · menos 57%  
-Hándicap llulle: −1.5 26% · −2.5 14%  
-🔎 **Claves**  
-• Forma: llulle ❌❌❌✅✅ | lzrn ❌❌✅✅❌  
-• Partidos: llulle 809 | lzrn 735  
-• Liga: Premier League  
-• Unibet: 1 2.55 · X 4.00 · 2 1.98 (sin margen 34%/22%/44%) · ventaja +4%. Sin stake hasta demostrar ROI con estas cuotas.  
-
-## ramzes vs mPm — 03/11 · 21:32
-
-👀 candidata · 🎮⚽ FC 27 · Copa America · **Gana mPm** @ **1.92** (Unibet) · prob 62% vs casas 46% · ventaja +19%
-
-- ✅ Valor: ventaja +19% (mín. 13% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 55.014 partidos)  
-Goles esperados: ramzes 3.21 · mPm 4.47  
-Ganador: ramzes 23% · empate 15% · mPm 62%  
-Total: más de 7.5 goles 50% · menos 50%  
-Hándicap mPm: −1.5 46% · −2.5 32%  
-🔎 **Claves**  
-• Forma: ramzes ❌✅❌✅✅ | mPm ✅✅✅❌✅  
-• Partidos: ramzes 996 | mPm 647  
-• Liga: Copa America  
-• Unibet: 1 2.17 · X 6.50 · 2 1.92 (sin margen 41%/14%/46%) · ventaja +19%. Sin stake hasta demostrar ROI con estas cuotas.  
+• Unibet: 1 1.94 · X 5.50 · 2 2.25 (sin margen 45%/16%/39%) · ventaja +18%. Sin stake hasta demostrar ROI con estas cuotas.  
 
 ## Gazi vs mPm — 03/11 · 21:56
 
@@ -109,4 +55,22 @@ Hándicap mPm: −1.5 43% · −2.5 27%
 • Partidos: Gazi 332 | mPm 647  
 • Liga: Copa America  
 • Unibet: 1 2.32 · X 4.80 · 2 1.98 (sin margen 38%/18%/44%) · ventaja +20%. Sin stake hasta demostrar ROI con estas cuotas.  
+
+## kkikus vs Simaponika — 03/11 · 22:19
+
+👀 candidata · 🎮⚽ FC 27 · World Cup A · **Empate** @ **6.25** (Unibet) · prob 19% vs casas 14% · ventaja +17%
+
+- ✅ Valor: ventaja +17% (mín. 13% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 55.034 partidos)  
+Goles esperados: kkikus 2.01 · Simaponika 3.06  
+Ganador: kkikus 21% · empate 19% · Simaponika 60%  
+Total: más de 5.5 goles 40% · menos 60%  
+Hándicap Simaponika: −1.5 41% · −2.5 25%  
+🔎 **Claves**  
+• Forma: kkikus ✅➖❌❌❌ | Simaponika ✅❌❌➖❌  
+• Partidos: kkikus 831 | Simaponika 991  
+• Liga: World Cup A  
+• Unibet: 1 4.25 · X 6.25 · 2 1.32 (sin margen 20%/14%/66%) · ventaja +17%. Sin stake hasta demostrar ROI con estas cuotas.  
 
