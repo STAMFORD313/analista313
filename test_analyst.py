@@ -168,7 +168,7 @@ bankroll.place(bk3, ev, pd.Timestamp("2026-11-03"), KG())
 assert len(bk3["bets"]) == 2 and sum(b["stake"] for b in bk3["bets"]) <= 5.0 + 1e-9 and all(len(b["legs"]) == 1 for b in bk3["bets"]), bk3
 fz = [{"key": "z", "market": "H", "info": ["x", "• Bajas: <b>A</b>: sin bajas"]}]
 bankroll.freeze(fz); bankroll.freeze([{**fz[0], "captured": "otra"}])
-assert fz[0]["bajas"] == "A: sin bajas" and fz[0]["version"] == "local" and len(fz[0]["captured"]) == 16
+assert fz[0]["bajas"] == "A: sin bajas" and fz[0]["version"] == bankroll.os.getenv("GITHUB_SHA", "local")[:7] and len(fz[0]["captured"]) == 16
 print("ok revisión experta")
 
 import radar
