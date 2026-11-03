@@ -20,13 +20,14 @@ jobs:
       - run: |
           python espn_soccer.py 6000 || echo "fallo en ESPN fútbol"
           python football_players.py || echo "fallo en props de jugador"   # backtest + liquidar props de Unibet
+      - run: python sondeo.py || echo "fallo en sondeo"   # disciplinas de bo3.gg y esports con cuota en Unibet
       - run: |
           python nba_players.py descargar nba completo || echo "fallo en NBA"
           python nba_players.py descargar nhl completo || echo "fallo en NHL"
       - run: |
           git config user.name analista-bot
           git config user.email actions@users.noreply.github.com
-          git add data/espn_soccer data/nba/box.jsonl data/nhl/box.jsonl data/player_props_log.csv data/football_players.json
+          git add data/espn_soccer data/nba/box.jsonl data/nhl/box.jsonl data/player_props_log.csv data/football_players.json data/sondeo.json
           git diff --cached --quiet && exit 0
           git commit -m "datos ESPN $(date -u +%FT%H:%M)"
           for i in 1 2 3 4 5; do git pull --rebase --autostash -X theirs -q && git push && exit 0; git rebase --abort 2>/dev/null; sleep 10; done; exit 1
