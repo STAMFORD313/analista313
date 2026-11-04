@@ -1,23 +1,6 @@
 # 📱 MLBB · apuestas de valor
 
-Actualizado 04/11/2026 06:41 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Alter Ego vs ONIC — 04/11 · 07:00
-
-👀 candidata · 📱 MLBB · MPL Indonesia Season 18 · **Gana ONIC** @ **2.21** (Thunderpick) · prob 45% vs casas 42% · ventaja -0%
-
-- ❌ Valor: ventaja -0% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «📱 no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 2.473 partidos)  
-Mapa: Alter Ego 51% · Serie BO5: Alter Ego 52% - 48% ONIC  
-Casas: Alter Ego 58% · ONIC 42%  
-🔎 **Claves**  
-• Elo: Alter Ego 1704 (104 series) | ONIC 1694 (121 series)  
-• Forma: Alter Ego ❌❌✅✅❌ | ONIC ✅❌✅✅❌  
-• H2H: 11: 4-7  
-• Torneo: MPL Indonesia Season 18 (nivel A)  
-• Cambios de plantilla: ninguno  
+Actualizado 04/11/2026 07:10 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Bigetron by Vitality vs EVOS — 04/11 · 12:00
 

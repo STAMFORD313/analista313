@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 04/11/2026 06:41 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 04/11/2026 07:10 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## The MongolZ vs FURIA — 04/11 · 10:30
 
@@ -87,4 +87,24 @@ Casas: aimers 50% · Ryvex 50%
 • H2H: sin precedentes  
 • Torneo: ESEA Season 59: Advanced Division - Europe (nivel C)  
 • Cambios de plantilla: ninguno  
+
+## Nordic Valor vs boyband — 05/11 · 19:00
+
+👀 candidata · 🎮 CS2 · Elisa Open Suomi Season 14 · **Gana boyband** @ **1.36** (Thunderpick) · prob 68% vs casas 67% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 76.437 partidos)  
+Mapa: Nordic Valor 37% · Serie BO3: Nordic Valor 31% - 69% boyband  
+Casas: Nordic Valor 33% · boyband 67%  
+🔎 **Claves**  
+• Elo: Nordic Valor 1348 (12 series) | boyband 1486 (17 series)  
+• Forma: Nordic Valor ✅✅❌❌❌ | boyband ✅✅❌❌✅  
+• H2H: 1: 0-1  
+• Torneo: Elisa Open Suomi Season 14 (nivel C)  
+• Cambios de plantilla: ninguno  
+🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
+• Nordic Valor gana 2-1: 15% → cuota justa 6.71  
+• boyband gana 2-1: 25% → cuota justa 4.01  
 
