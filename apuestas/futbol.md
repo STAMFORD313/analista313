@@ -1,6 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 04/11/2026 01:10 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 04/11/2026 01:29 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Internacional vs Coritiba — 04/11 · 01:30
 
