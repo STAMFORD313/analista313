@@ -1172,7 +1172,11 @@
   "cs2|133218",
   "fc|2359890",
   "fc|2359891",
-  "fc|2361118"
+  "fc|2361118",
+  "cs2|132969",
+  "fc|2359895",
+  "fc|2359894",
+  "fc|2361119"
  ],
  "signals": [
   {
@@ -3040,7 +3044,10 @@
    "placed": false,
    "captured": "2026-11-03T06:59",
    "version": "7948daf",
-   "bajas": "Akron Zips: sin bajas; Ohio Bobcats: sin bajas"
+   "bajas": "Akron Zips: sin bajas; Ohio Bobcats: sin bajas",
+   "result": true,
+   "score": "20-28",
+   "logged": true
   },
   {
    "market": "away",
@@ -15096,7 +15103,10 @@
    "version": "ac73879",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "7-5",
+   "result": false,
+   "logged": true
   },
   {
    "market": "D",
@@ -15165,7 +15175,10 @@
    "version": "aeeb853",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "3-1",
+   "result": false,
+   "logged": true
   },
   {
    "market": "H",
@@ -15186,7 +15199,10 @@
    "version": "aeeb853",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "1-3",
+   "result": false,
+   "logged": true
   },
   {
    "market": "H",
@@ -15207,7 +15223,10 @@
    "version": "aeeb853",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "2-3",
+   "result": false,
+   "logged": true
   },
   {
    "market": "H",
@@ -15294,7 +15313,10 @@
    "version": "5ddd416",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "2-3",
+   "result": false,
+   "logged": true
   },
   {
    "market": "H",
@@ -15315,7 +15337,10 @@
    "version": "5ddd416",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "2-1",
+   "result": true,
+   "logged": true
   },
   {
    "market": "A",
@@ -15336,7 +15361,10 @@
    "version": "5ddd416",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "1-6",
+   "result": true,
+   "logged": true
   },
   {
    "market": "A",
@@ -15352,25 +15380,15 @@
    "start": "2026-11-04T03:28:00+00:00",
    "league": "🎮⚽ FC 27 · Champions League A",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 55.354 partidos)",
-    "Goles esperados: RossFCDK 1.76 · hotShot 2.26",
-    "Ganador: RossFCDK 28% · empate 24% · hotShot 49%",
-    "Total: más de 4.5 goles 37% · menos 63%",
-    "Hándicap hotShot: −1.5 30% · −2.5 15%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: RossFCDK ✅❌✅❌➖ | hotShot ❌❌✅❌➖",
-    "• Partidos: RossFCDK 467 | hotShot 468",
-    "• Liga: Champions League A",
-    "• Unibet: 1 3.45 · X 2.30 · 2 2.33 (sin margen 25%/38%/37%) · ventaja +14%. Sin stake hasta demostrar ROI con estas cuotas."
-   ],
    "context": "EA FC Esoccer Battle RossFCDK vs hotShot (Champions League A): goles esperados 1.76-2.26, 1X2 28%/24%/49%. Sin cuotas de casa.",
    "captured": "2026-11-04T03:14",
    "version": "e859e56",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "1-1",
+   "result": false,
+   "logged": true
   },
   {
    "market": "A",
@@ -15404,7 +15422,8 @@
    "version": "e859e56",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "anunciada": true
   },
   {
    "market": "A",
@@ -15420,25 +15439,117 @@
    "start": "2026-11-04T03:38:00+00:00",
    "league": "🎮⚽ FC 27 · LaLiga 2x6",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 55.354 partidos)",
-    "Goles esperados: Stenido 3.80 · Solya 6.32",
-    "Ganador: Stenido 14% · empate 10% · Solya 77%",
-    "Total: más de 10.5 goles 43% · menos 57%",
-    "Hándicap Solya: −1.5 62% · −2.5 49%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Stenido ➖❌❌❌❌ | Solya ✅✅➖✅➖",
-    "• Partidos: Stenido 183 | Solya 273",
-    "• Liga: LaLiga 2x6",
-    "• Unibet: 1 3.95 · X 6.40 · 2 1.34 (sin margen 22%/14%/65%) · ventaja +3%. Sin stake hasta demostrar ROI con estas cuotas."
-   ],
    "context": "EA FC Esoccer Battle Stenido vs Solya (LaLiga 2x6): goles esperados 3.80-6.32, 1X2 14%/10%/77%. Sin cuotas de casa.",
    "captured": "2026-11-04T03:14",
    "version": "e859e56",
    "bajas": "",
    "considered": true,
    "placed": false
+  },
+  {
+   "market": "H",
+   "pick": "hotShot",
+   "odds": 2.48,
+   "book": "Unibet",
+   "implied": 0.349,
+   "edge": 0.1,
+   "sin_stake": true,
+   "p": 0.443,
+   "key": "fc|2359895",
+   "match": "hotShot vs OG",
+   "start": "2026-11-04T04:14:00+00:00",
+   "league": "🎮⚽ FC 27 · Serie A",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 55.374 partidos)",
+    "Goles esperados: hotShot 2.39 · OG 2.11",
+    "Ganador: hotShot 44% · empate 23% · OG 33%",
+    "Total: más de 4.5 goles 47% · menos 53%",
+    "Hándicap hotShot: −1.5 27% · −2.5 14%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: hotShot ✅❌✅✅➖ | OG ✅❌➖❌❌",
+    "• Partidos: hotShot 476 | OG 512",
+    "• Liga: Serie A",
+    "• Unibet: 1 2.48 · X 2.25 · 2 3.25 (sin margen 35%/38%/27%) · ventaja +10%. Sin stake hasta demostrar ROI con estas cuotas."
+   ],
+   "context": "EA FC Esoccer Battle hotShot vs OG (Serie A): goles esperados 2.39-2.11, 1X2 44%/23%/33%. Sin cuotas de casa.",
+   "captured": "2026-11-04T03:40",
+   "version": "ff0ac98",
+   "bajas": "",
+   "considered": true,
+   "placed": false,
+   "anunciada": true
+  },
+  {
+   "market": "H",
+   "pick": "Kray",
+   "odds": 2.04,
+   "book": "Unibet",
+   "implied": 0.428,
+   "edge": 0.036,
+   "sin_stake": true,
+   "p": 0.508,
+   "key": "fc|2359894",
+   "match": "Kray vs hotShot",
+   "start": "2026-11-04T04:02:00+00:00",
+   "league": "🎮⚽ FC 27 · Serie A",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 55.374 partidos)",
+    "Goles esperados: Kray 2.89 · hotShot 2.31",
+    "Ganador: Kray 51% · empate 20% · hotShot 29%",
+    "Total: más de 5.5 goles 42% · menos 58%",
+    "Hándicap Kray: −1.5 34% · −2.5 19%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Kray ✅✅✅✅➖ | hotShot ✅❌✅✅➖",
+    "• Partidos: Kray 511 | hotShot 476",
+    "• Liga: Serie A",
+    "• Unibet: 1 2.04 · X 3.80 · 2 2.55 (sin margen 43%/23%/34%) · ventaja +4%. Sin stake hasta demostrar ROI con estas cuotas."
+   ],
+   "context": "EA FC Esoccer Battle Kray vs hotShot (Serie A): goles esperados 2.89-2.31, 1X2 51%/20%/29%. Sin cuotas de casa.",
+   "captured": "2026-11-04T03:40",
+   "version": "ff0ac98",
+   "bajas": "",
+   "considered": true,
+   "placed": false,
+   "anunciada": true
+  },
+  {
+   "market": "A",
+   "pick": "zaha",
+   "odds": 1.28,
+   "book": "Unibet",
+   "implied": 0.675,
+   "edge": 0.027,
+   "sin_stake": true,
+   "p": 0.802,
+   "key": "fc|2361119",
+   "match": "Stenido vs zaha",
+   "start": "2026-11-04T03:56:00+00:00",
+   "league": "🎮⚽ FC 27 · LaLiga 2x6",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 55.374 partidos)",
+    "Goles esperados: Stenido 4.00 · zaha 6.97",
+    "Ganador: Stenido 12% · empate 8% · zaha 80%",
+    "Total: más de 10.5 goles 53% · menos 47%",
+    "Hándicap zaha: −1.5 66% · −2.5 55%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Stenido ➖❌❌❌❌ | zaha ❌✅➖✅➖",
+    "• Partidos: Stenido 183 | zaha 316",
+    "• Liga: LaLiga 2x6",
+    "• Unibet: 1 4.50 · X 6.50 · 2 1.28 (sin margen 19%/13%/68%) · ventaja +3%. Sin stake hasta demostrar ROI con estas cuotas."
+   ],
+   "context": "EA FC Esoccer Battle Stenido vs zaha (LaLiga 2x6): goles esperados 4.00-6.97, 1X2 12%/8%/80%. Sin cuotas de casa.",
+   "captured": "2026-11-04T03:40",
+   "version": "ff0ac98",
+   "bajas": "",
+   "considered": true,
+   "placed": false,
+   "anunciada": true
   }
  ],
  "bank": {
@@ -15855,7 +15966,7 @@
  },
  "scoreboard_id": 156,
  "scoreboard_text": "📊 <b>MARCADOR DEL BOT</b>\n━━━━━━━━━━━━━━━\n🟩 Ganadas: <b>8</b> (35 %)\n🟥 Perdidas: <b>15</b> (65 %)\n⏳ En juego: 4\n\nÚltimas 23:\n🟥🟥🟥🟩🟥🟩🟥🟥🟥🟥🟥🟥🟥🟥🟩🟥🟥🟩🟩🟩🟩🟩🟥\n━━━━━━━━━━━━━━━\n💵 Beneficio -15.04 $ · ROI -32.4 %\n📐 CLV medio +2.5 % (cuota cogida vs cierre)\n💰 Banca: <b>84.96 €</b> (-15.04 € desde 100 €) · libre 79.50 €{\"inline_keyboard\": [[{\"text\": \"\\ud83d\\udcc8 Ver historial completo y fallos\", \"url\": \"https://github.com/STAMFORD313/analista313/blob/main/ESTADISTICAS.md\"}], [{\"text\": \"\\u26bd F\\u00fatbol\", \"callback_data\": \"dep:futbol\"}, {\"text\": \"\\ud83c\\udfc0 NBA\\u00b7NCAA\", \"callback_data\": \"dep:nba\"}, {\"text\": \"\\ud83c\\udfc8 NFL\\u00b7NCAA\", \"callback_data\": \"dep:nfl\"}], [{\"text\": \"\\ud83c\\udfc6 Champions\\u00b7Europa\", \"callback_data\": \"dep:europa\"}, {\"text\": \"\\ud83c\\udfd2 NHL\", \"callback_data\": \"dep:nhl\"}, {\"text\": \"\\u26be MLB\", \"callback_data\": \"dep:mlb\"}], [{\"text\": \"\\ud83e\\udd4a UFC\", \"callback_data\": \"dep:ufc\"}, {\"text\": \"\\ud83c\\udfbe Tenis\", \"callback_data\": \"dep:tenis\"}, {\"text\": \"\\ud83c\\udfae CS2\", \"callback_data\": \"dep:cs2\"}], [{\"text\": \"\\ud83d\\udc09 Dota 2\", \"callback_data\": \"dep:dota2\"}, {\"text\": \"\\ud83e\\uddd9 LoL\", \"callback_data\": \"dep:lol\"}, {\"text\": \"\\ud83d\\udd2b R6 Siege\", \"callback_data\": \"dep:r6\"}], [{\"text\": \"\\ud83d\\udcf1 MLBB\", \"callback_data\": \"dep:mlbb\"}, {\"text\": \"\\ud83c\\udfae\\u26bd FC 27\", \"callback_data\": \"dep:fc\"}]]}",
- "fc_sent": "2026-11-03T23:29:21.942368+00:00",
+ "fc_sent": "2026-11-04T03:40:55.889314+00:00",
  "sgp": {
   "E1|2026-11-03|QPR|Burnley": {
    "match": "QPR vs Burnley",
