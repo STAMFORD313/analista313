@@ -1107,7 +1107,7 @@ def answer(text, depth=0, quoted=None):
 def natural(user_text, reply, hist=()):
     """La IA (interpreta.redactar) cuenta con palabras naturales lo que ha calculado el bot; si no hay IA, falla o mete un
     número que el bot no dio, se manda la respuesta del bot tal cual."""
-    if reply == HELP or reply.startswith("📡"): return reply  # directo de apuestas: con sus iconos tal cual
+    if reply == HELP or reply.startswith(("📡", "🧾")): return reply  # directo de apuestas: con sus iconos tal cual
     if sum(l.lstrip().startswith(("•", "↳")) for l in reply.split("\n")) >= 2: return reply  # listas: tal cual (la IA las estropeaba)
     import html, interpreta
     report = html.unescape(re.sub(r"<[^>]+>", "", reply))
@@ -1138,6 +1138,11 @@ def _answer(t, short=True):
         import simulaciones
         ks = find(t, D, n=1, kind="equipo")
         return simulaciones.compare(D[ks[0]]["name"] if ks else None)
+    if re.search(r"(ha|han|ya) (finalizado|terminado|acabado)|(finalizo|termino|acabo) (el|los) partido|ya (acabo|termino|finalizo)", q):
+        import simulaciones
+        done = simulaciones.settle()
+        if done: return "\n\n".join(done)
+        return (simulaciones.live(filtro=t) or "") + "\n\nESPN aún no lo da por terminado; en cuanto lo haga te mando el resultado 👍"
     if re.search(SIMS_RX, q) or re.search(r"directo|en juego|jugando|ahora|marcador", q) and re.search(r"apuesta|combinad|simulad|boleto", q):
         import simulaciones
         return simulaciones.live(filtro=t) or simulaciones.summary()

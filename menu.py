@@ -74,6 +74,10 @@ def refresh_live(cards, now=None):
             foot = "\n\n🔄 " + time.strftime("%H:%M", time.gmtime()) + " UTC · " + ("terminado" if done else "se actualiza cada 3 min")
             A.tg("editMessageText", message_id=mid, text=(txt + foot)[:4000], parse_mode="HTML")
         if done or now - c["start"] > LIVE_MAX: cards.pop(mid)
+        if done:  # acabado: liquidar ya y mandar el resultado con el porqué
+            try:
+                for m in simulaciones.settle(): A.tg("sendMessage", text=m[:4000], parse_mode="HTML")
+            except Exception as e: print("simuladas", repr(e))
 
 
 def main():

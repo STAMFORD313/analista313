@@ -128,9 +128,21 @@ def judge(leg, g):
     return ok, f"hubo {v:g} {stat}" + (f" de {team}" if team else "")
 
 
-def settle():
+def final_game(leg, b, now, boards):
+    """Partido ya terminado según el marcador de ESPN en directo (los datos guardados tardan horas en llegar):
+    así la apuesta se liquida en cuanto acaba. Solo mira partidos de los últimos 2 días que ya deberían haber acabado."""
+    t = pd.Timestamp(leg.get("start") or b["creada"])
+    t = t.tz_localize("UTC") if t.tzinfo is None else t
+    if not (pd.Timedelta(minutes=100) <= now - t <= pd.Timedelta(days=2)) and leg.get("start"): return None
+    if not leg.get("start") and now - t > pd.Timedelta(days=2): return None
+    try: g = live_game({**leg, "ahora": t}, boards)
+    except Exception as e: print("final", repr(e)[:80]); return None
+    return g if g and g["estado"] == "post" else None
+
+
+def settle(now=None):
     """Liquida las simuladas pendientes; devuelve los mensajes (HTML) de las que acaban de terminar."""
-    bets, now, out, changed = load(), pd.Timestamp.now(tz="UTC"), [], False
+    bets, now, out, changed, boards = load(), now or pd.Timestamp.now(tz="UTC"), [], False, {}
     for b in bets.values():
         if b["estado"] != "pendiente": continue
         for leg in b["legs"]:
@@ -141,7 +153,7 @@ def settle():
                 if ok is not None: leg["ok"], leg["por"] = ok, why; changed = True
                 elif now - pd.Timestamp(leg["start"]) > GIVE_UP: leg["ok"], leg["por"] = "nula", "sin resultado"; changed = True
                 continue
-            g = find_game({**leg, "creada": b["creada"]})
+            g = find_game({**leg, "creada": b["creada"]}) or final_game(leg, b, now, boards)
             if g:
                 ok, why = judge(leg, g)
                 if ok is not None: leg["ok"], leg["por"] = ok, why; changed = True

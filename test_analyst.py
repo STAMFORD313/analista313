@@ -1359,7 +1359,7 @@ print("ok cómo va esta (citando el boleto)")
 import menu as _MN
 _sent, _tg0, _lv0 = [], _MN.A.tg, _MN.simulaciones.live
 try:
-    _MN.A.tg = lambda m, **d: _sent.append((m, d))
+    _MN.A.tg = lambda m, **d: _sent.append((m, d)); _st0 = _MN.simulaciones.settle; _MN.simulaciones.settle = lambda: []
     _MN.simulaciones.live = lambda filtro=None: "📡 <b>Tus apuestas en juego</b>\n⏳ AEK – Madrid: Más de 7.5 córners · lleva 5 córners"
     _cards = {7: {"filtro": "x", "t": 0, "start": 0}}
     _MN.refresh_live(_cards, now=200)
@@ -1368,6 +1368,22 @@ try:
     _MN.simulaciones.live = lambda filtro=None: "📡 <b>Tus apuestas en juego</b>\n✅ AEK – Madrid: Más de 7.5 córners · terminado: hubo 9 córners"
     _MN.refresh_live(_cards, now=400); assert "terminado" in _sent[-1][1]["text"] and not _cards
 finally:
-    _MN.A.tg, _MN.simulaciones.live = _tg0, _lv0
+    _MN.A.tg, _MN.simulaciones.live, _MN.simulaciones.settle = _tg0, _lv0, _st0
 assert _CH.natural("cómo va mi apuesta", "📡 <b>Tus apuestas en juego</b>\n🟢 x") .startswith("📡")
 print("ok tarjeta en directo que se refresca")
+
+_mem0 = dict(_SL._MEM); _f0 = _SL.FILE; _SL.FILE = A.DATA / "_test_sim_final.json"; _SL._MEM.clear()
+try:
+    _now = pd.Timestamp.now(tz="UTC")
+    _SL.FILE.write_text(json.dumps([{"id": "1", "creada": str(_now - pd.Timedelta(hours=4)), "titulo": "Tu boleto", "odds": 3.0, "stake": 1, "estado": "pendiente", "rev": 1,
+        "legs": [{"home": "AEK Athens", "away": "Real Madrid", "txt": "Más de 7.5 córners"}, {"home": "AEK Athens", "away": "Real Madrid", "txt": "Gana Real Madrid"}]}]))
+    _fg0, _lg0 = _SL.find_game, _SL.live_game
+    _SL.find_game = lambda leg: None
+    _SL.live_game = lambda l, b: {**_gm, "estado": "post", "reloj": "FT", "hs": 1, "as": 2}
+    _r = _CH.answer("Ya ha finalizado el partido")
+    assert "GANADA" in _r and "9 córners" in _r, _r
+    assert _SL.load()["1"]["estado"] == "ganada"
+finally:
+    _SL.find_game, _SL.live_game = _fg0, _lg0
+    _SL.FILE.unlink(missing_ok=True); _SL.FILE = _f0; _SL._MEM.clear(); _SL._MEM.update(_mem0)
+print("ok liquida al acabar con el marcador de ESPN")

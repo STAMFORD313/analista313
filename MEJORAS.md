@@ -171,3 +171,4 @@
 - 2026-11-04: directo también en NBA/NHL/NFL/MLB (marcador y periodo de ESPN; 🟢/🔴 de momento, ✅/❌ al acabar).
 - 2026-11-04: el chat recuerda a qué apuesta te refieres: responder a un mensaje del bot (o pegar el boleto) con «¿cómo va esta?» enseña solo esa apuesta en directo; boletos de foto sin hora también se siguen en directo; repetidos salen una vez.
 - 2026-11-04: directo con sus iconos (la IA redactora ya no reescribe la tarjeta 📡) y la tarjeta se reedita sola cada 3 min hasta que acaban los partidos (máx. 4 h).
+- 2026-11-04: las simuladas se liquidan en cuanto ESPN da el partido por terminado (marcador en directo, sin esperar a los datos guardados); «ya ha terminado el partido» liquida y manda el resultado en vez de repetir la apuesta.
