@@ -926,6 +926,13 @@ assert "curarte en salud" in _CH.answer("Madrid Barcelona más de 9.5 córners")
 assert _CH.safe_line(lambda l: 1.0 if l < 4 else 0.0) == 3.5 and _CH.safer(lambda l: 0.9 if l < 6 else 0.5, 9.5, "corners").count("más de 5.5") == 1
 _CH._CTX["partido"] = ("futbol|t|RM", "futbol|t|B")
 _r = _CH.answer("combinada segura"); assert "Combinada segura" in _r and "cuota justa" in _r, _r
+_sb2 = _CH.scoreboard
+_CH.scoreboard = lambda sp, lg, days=21, team=None: [(pd.Timestamp.now(tz="UTC") + pd.Timedelta(hours=5), "Real Madrid", "Barcelona", "")] if lg == "SP1" else []
+try:
+    _r = _CH.answer("Añádeles más para subir la cuota, lo máximo que pueda pero de forma segura"); assert "del día" in _r and "cuota justa" in _r, _r
+    _lg, _p = _CH.pick_legs([("a", "x", 0.9), ("a", "y", 0.9), ("a", "z", 0.9), ("b", "w", 0.9), ("b", "v", 0.9)], per_match=2)
+    assert len(_lg) == 4 and _p >= _CH.COMBO_FLOOR and sum(m == "a" for m, _, _ in _lg) == 2
+finally: _CH.scoreboard = _sb2
 _CH.LEAGUE.clear(); _CH._DB.clear(); _CH._DB["t"] = 0; _CH._BASE.clear(); _CH._CTX.clear()
 print("ok chat de Telegram")
 # ESPN: partidos sin estadísticas (todo a 0) no sirven para liquidar
