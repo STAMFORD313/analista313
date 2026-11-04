@@ -2,7 +2,7 @@ name: probar_interprete
 # Prueba a mano del intérprete del chat (Gemini con el secreto GEMINI_API_KEY).
 on:
   workflow_dispatch:
-  push: {branches: [main], paths: ["interpreta.py", "chat.py", "sonda_boleto.py", ".github/workflows/probar_interprete.yml"]}
+  push: {branches: [main], paths: ["interpreta.py", "chat.py", "sonda_boleto.py", "tmp_sonda/slip.jpg", ".github/workflows/probar_interprete.yml"]}
 permissions: {contents: read}
 jobs:
   probar:

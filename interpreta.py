@@ -223,5 +223,6 @@ def read_slip(image, mime="image/jpeg"):
             m = re.search(r"\{.*\}", r.text or "", re.S)
             out = json.loads(m.group(0)) if m else None
             if isinstance(out, dict) and out.get("piernas"): return out
+            print("Gemini boleto sin piernas", model, (r.text or "")[:300])
         except Exception as e: print("Gemini boleto", model, str(e)[:200])
     return None
