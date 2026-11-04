@@ -17,14 +17,16 @@ def get(path, **params):
 
 
 def events(hours=48, max_pages=8):
-    now = pd.Timestamp.now(tz="UTC"); out, params = [], {"state": "upcoming", "type": "football_match", "limit": 500, "sort": "start_datetime,id"}
+    now = pd.Timestamp.now(tz="UTC"); out = []
+    params = {"state": "upcoming", "type": "football_match", "limit": 200,
+              "start_datetime_min": f"{now:%Y-%m-%dT%H:%M:%SZ}", "start_datetime_max": f"{now + pd.Timedelta(hours=hours):%Y-%m-%dT%H:%M:%SZ}"}
     for _ in range(max_pages):
         d = get("events/", **params)
         for e in d.get("events", []):
             t = pd.Timestamp(e["start_datetime"])
             if now < t < now + pd.Timedelta(hours=hours) and " vs " in e["name"]: out.append((e["id"], t, *e["name"].split(" vs ", 1)))
         nxt = (d.get("pagination") or {}).get("next_page")
-        if not nxt or (d.get("events") and pd.Timestamp(d["events"][-1]["start_datetime"]) > now + pd.Timedelta(hours=hours)): break
+        if not nxt or not d.get("events"): break
         params = dict(p.split("=", 1) for p in nxt.lstrip("?").split("&"))
     return out
 

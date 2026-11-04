@@ -63,7 +63,7 @@ def candidates(now=None, uni=None, min_edge=MIN_EDGE, max_odds=MAX_ODDS):
                         "info": [f"💎 <b>Valor contra Pinnacle</b>: {book} paga {o:.2f} y el precio justo de Pinnacle es {1 / p:.2f} "
                                  f"(ventaja {edge:+.1%})", "Backtest 2015-2026 (cuota ≤ 2.5, > 3 %): ROI +11 % ± 3 %, CLV +5 %."],
                         "context": f"{r.home} vs {r.away} ({r.league}). Estrategia de valor: {book} {o:.2f} frente a Pinnacle justo {1 / p:.2f}."})
-    if edges: print(f"valor Pinnacle: {len(pin)} partidos de Pinnacle, {len(uni)} de las casas Kambi, {matched} emparejados; "
+    if edges: print(f"valor Pinnacle: {len(pin)} partidos de Pinnacle, {len(uni)} de las casas (Kambi + Smarkets), {matched} emparejados; "
                     f"ventaja de la mejor casa: mediana {sorted(edges)[len(edges) // 2]:+.1%}, máxima {max(edges):+.1%}")
     else: print(f"valor Pinnacle: {len(pin)} partidos de Pinnacle, {len(uni)} de Unibet, 0 emparejados")
     return out
