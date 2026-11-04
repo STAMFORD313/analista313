@@ -1,6 +1,6 @@
 # 🧙 LoL · apuestas de valor
 
-Actualizado 04/11/2026 09:11 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 04/11/2026 09:17 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Gen.G Esports vs LYON — 04/11 · 23:00
 

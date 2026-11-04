@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 04/11/2026 09:11 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 04/11/2026 09:17 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## The MongolZ vs FURIA — 04/11 · 10:30
 
@@ -88,6 +88,46 @@ Casas: aimers 50% · Ryvex 50%
 • Torneo: ESEA Season 59: Advanced Division - Europe (nivel C)  
 • Cambios de plantilla: ninguno  
 
+## RED Canids Academy vs Underworld — 04/11 · 19:30
+
+👀 candidata · 🎮 CS2 · Gamers Club Liga Série A: October 2026 · **Gana RED Canids Academy** @ **1.17** (Thunderpick) · prob 75% vs casas 79% · ventaja -12%
+
+- ❌ Valor: ventaja -12% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 76.439 partidos)  
+Mapa: RED Canids Academy 65% · Serie BO3: RED Canids Academy 71% - 29% Underworld  
+Casas: RED Canids Academy 79% · Underworld 21%  
+🔎 **Claves**  
+• Elo: RED Canids Academy 1646 (129 series) | Underworld 1485 (12 series)  
+• Forma: RED Canids Academy ✅✅❌✅❌ | Underworld ✅❌❌✅✅  
+• H2H: 1: 1-0  
+• Torneo: Gamers Club Liga Série A: October 2026 (nivel C)  
+• Cambios de plantilla: ninguno  
+🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
+• RED Canids Academy gana 2-1: 25% → cuota justa 4.03  
+• Underworld gana 2-1: 14% → cuota justa 7.34  
+
+## BORRACHEIROS vs ALKA — 04/11 · 22:00
+
+💵 **APOSTADA** · 🎮 CS2 · Gamers Club Liga Série A: October 2026 · **Gana BORRACHEIROS** @ **2.34** (Thunderpick) · prob 55% vs casas 40% · ventaja +28%
+
+- ✅ Valor: ventaja +28% (mín. 14% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮 no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 76.439 partidos)  
+Mapa: BORRACHEIROS 64% · Serie BO3: BORRACHEIROS 70% - 30% ALKA  
+Casas: BORRACHEIROS 40% · ALKA 60%  
+🔎 **Claves**  
+• Elo: BORRACHEIROS 1615 (40 series) | ALKA 1464 (100 series)  
+• Forma: BORRACHEIROS ✅✅✅✅❌ | ALKA ❌❌❌❌✅  
+• H2H: 6: 0-6  
+• Torneo: Gamers Club Liga Série A: October 2026 (nivel C)  
+• Cambios de plantilla: ninguno  
+🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
+• BORRACHEIROS gana 2-1: 25% → cuota justa 4.02  
+• ALKA gana 2-1: 14% → cuota justa 7.05  
+
 ## Nordic Valor vs boyband — 05/11 · 19:00
 
 👀 candidata · 🎮 CS2 · Elisa Open Suomi Season 14 · **Gana boyband** @ **1.36** (Thunderpick) · prob 68% vs casas 67% · ventaja -8%
@@ -107,4 +147,24 @@ Casas: Nordic Valor 33% · boyband 67%
 🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
 • Nordic Valor gana 2-1: 15% → cuota justa 6.71  
 • boyband gana 2-1: 25% → cuota justa 4.01  
+
+## QUINTESSÊNCIA vs Grêmio — 05/11 · 19:30
+
+👀 candidata · 🎮 CS2 · Gamers Club Liga Série A: October 2026 · **Gana QUINTESSÊNCIA** @ **1.93** (Thunderpick) · prob 55% vs casas 48% · ventaja +6%
+
+- ❌ Valor: ventaja +6% (mín. 9% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 76.439 partidos)  
+Mapa: QUINTESSÊNCIA 58% · Serie BO3: QUINTESSÊNCIA 62% - 38% Grêmio  
+Casas: QUINTESSÊNCIA 48% · Grêmio 52%  
+🔎 **Claves**  
+• Elo: QUINTESSÊNCIA 1560 (63 series) | Grêmio 1470 (48 series)  
+• Forma: QUINTESSÊNCIA ❌✅❌❌✅ | Grêmio ✅✅❌✅✅  
+• H2H: 3: 1-2  
+• Torneo: Gamers Club Liga Série A: October 2026 (nivel C)  
+• Cambios de plantilla: ninguno  
+🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
+• QUINTESSÊNCIA gana 2-1: 25% → cuota justa 4.06  
+• Grêmio gana 2-1: 18% → cuota justa 5.69  
 
