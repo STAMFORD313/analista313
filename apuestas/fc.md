@@ -1,24 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 04/11/2026 16:23 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## llulle vs lzrn — 04/11 · 16:28
-
-👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana llulle** @ **2.75** (Unibet) · prob 42% vs casas 32% · ventaja +15%
-
-- ✅ Valor: ventaja +15% (mín. 12% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 55.936 partidos)  
-Goles esperados: llulle 2.90 · lzrn 2.77  
-Ganador: llulle 42% · empate 20% · lzrn 38%  
-Total: más de 5.5 goles 50% · menos 50%  
-Hándicap llulle: −1.5 28% · −2.5 15%  
-🔎 **Claves**  
-• Forma: llulle ❌❌✅❌✅ | lzrn ✅➖❌❌➖  
-• Partidos: llulle 817 | lzrn 743  
-• Liga: Champions League B  
-• Unibet: 1 2.75 · X 4.00 · 2 1.87 (sin margen 32%/22%/47%) · ventaja +15%. Sin stake hasta demostrar ROI con estas cuotas.  
+Actualizado 04/11/2026 16:29 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Totti vs borees — 04/11 · 16:34
 
