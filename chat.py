@@ -21,6 +21,7 @@ N_LAST, DECAY = 20, 0.93
 STATS = [("tiros_puerta", r"tiros? a puerta|a puerta|shots? on target|\bsot\b", "tiros a puerta"),
          ("corners", r"c[oó]rners?|saques? de esquina", "córners"),
          ("tarjetas", r"tarjetas?|amarillas?|cards?", "tarjetas"),
+         ("faltas_recibidas", r"faltas? recibidas?|recibir\w* (?:\d+\+? )?faltas?|le hac\w+ faltas?|fouls? (?:won|suffered|drawn)", "faltas recibidas"),
          ("faltas", r"faltas?|fouls?", "faltas"),
          ("fueras", r"fueras? de juego|offsides?", "fueras de juego"),
          ("paradas", r"paradas?|saves?", "paradas"),
@@ -33,7 +34,7 @@ STATS = [("tiros_puerta", r"tiros? a puerta|a puerta|shots? on target|\bsot\b", 
          ("tiros", r"tiros?|disparos?|remates?|shots?", "tiros"),
          ("goles", r"goles|gol\b|marca|anota|goals?|scorer", "goles")]
 LABEL = {k: l for k, _, l in STATS}
-PLAYER_STATS = {"futbol": ["goles", "asistencias", "tiros", "tiros_puerta", "faltas", "tarjetas", "fueras", "paradas"],
+PLAYER_STATS = {"futbol": ["goles", "asistencias", "tiros", "tiros_puerta", "faltas", "faltas_recibidas", "tarjetas", "fueras", "paradas"],
                 "nba": ["puntos", "rebotes", "asistencias", "triples", "robos", "tapones"], "nhl": ["goles", "tiros"]}
 TEAM_STATS = {"futbol": ["goles", "corners", "tiros", "tiros_puerta", "faltas", "tarjetas", "fueras"], "nba": ["puntos"], "nhl": ["goles"]}
 HELP = ("💬 Escríbeme, por ejemplo:\n• <i>estadísticas de Mbappé</i>\n• <i>Mbappé más de 1.5 tiros a puerta a 1.9</i>\n"
@@ -100,6 +101,7 @@ def build():
                 team = g["home"] if p[2] == "h" else g["away"]
                 v = dict(zip(["goles", "asistencias", "tiros", "tiros_puerta", "paradas", "_rec", "faltas", "_am", "_ro", "fueras"], p[5:15]))
                 v["tarjetas"] = v.pop("_am") + v.pop("_ro"); v.pop("_rec"); v["_titular"] = bool(p[3])
+                v["faltas_recibidas"] = p[15] if len(p) > 15 else None  # campo nuevo: None en partidos aún sin rellenar
                 _add(db, f"futbol|p|{p[0]}", p[1], "futbol", "jugador", g["date"], v, team=team)
     for lg in ("nba", "nhl"):
         f = A.DATA / lg / "box.jsonl"
@@ -823,7 +825,7 @@ def slip_leg(leg, D):
     lt = low(txt)
     if tipo in ("otro", None):  # respaldo si la IA no lo clasificó: «anotará», «3+ remates a puerta»
         if re.search(r"anotar|marcar|goleador", lt): leg = {**leg, "tipo": "mas_menos", "estadistica": "goles", "lado": "mas", "linea": 0.5}
-        elif m := re.search(r"(\d+)\s*\+\s*(remates a puerta|tiros a puerta|remates|tiros|corners|tarjetas)", lt):
+        elif m := re.search(r"(\d+)\s*\+\s*(faltas recibidas|remates a puerta|tiros a puerta|remates|tiros|corners|tarjetas)", lt):
             leg = {**leg, "tipo": "mas_menos", "estadistica": m.group(2).replace("remates", "tiros"), "lado": "mas", "linea": int(m.group(1)) - 0.5}
         tipo = leg.get("tipo")
     if tipo == "comparacion" and len(ks) == 2:  # «Mayor número de córners: Real Madrid»

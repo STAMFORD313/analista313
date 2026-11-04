@@ -5,7 +5,7 @@ todas las ligas y liquidar las props de Unibet (data/kambi_player_props.csv).
 data/espn_soccer/<liga>.jsonl, una línea por partido: {id, date, league, home, away, hs, as, referee,
 team_stats: {local|visitante: {wonCorners, totalShots, shotsOnTarget, foulsCommitted, yellowCards, ...}},
 players: [[id, nombre, equipo (h|a), titular, posición, goles, asist., tiros, tiros a puerta, paradas, tiros recibidos,
-faltas, amarillas, rojas, fueras de juego]]}.
+faltas, amarillas, rojas, fueras de juego, faltas recibidas]]}.
 Uso: python espn_soccer.py [max_partidos] → incremental: primero los últimos 7 días, luego historial hacia atrás
 (3 temporadas) hasta max_partidos por ejecución (lo lanza .github/workflows/datos_espn.yml)."""
 import json, sys, time
@@ -23,7 +23,7 @@ LEAGUES = {"E0": "eng.1", "E1": "eng.2", "SP1": "esp.1", "SP2": "esp.2", "I1": "
            "ARG": "arg.1", "BRA": "bra.1", "MEX": "mex.1", "USA": "usa.1", "JPN": "jpn.1", "AUT": "aut.1", "DNK": "den.1",
            "NOR": "nor.1", "SWE": "swe.1", "SWZ": "sui.1", "POL": "pol.1"}
 PSTATS = ["totalGoals", "goalAssists", "totalShots", "shotsOnTarget", "saves", "shotsFaced", "foulsCommitted", "yellowCards",
-          "redCards", "offsides"]
+          "redCards", "offsides", "foulsSuffered"]  # faltas recibidas: añadidas el 4-nov (los partidos anteriores se rellenan con backfill)
 TSTATS = ["wonCorners", "totalShots", "shotsOnTarget", "foulsCommitted", "yellowCards", "redCards", "saves", "possessionPct", "offsides"]
 DIR = A.DATA / "espn_soccer"
 
@@ -176,5 +176,25 @@ def update(max_games=1500, seasons=3, pause=0.4):
     return n
 
 
+def backfill(max_games=600, pause=0.4):
+    """Vuelve a bajar los partidos guardados sin el último campo de jugador (faltas recibidas), de los más recientes a los
+    más antiguos, hasta max_games por ejecución; reescribe cada liga."""
+    done = 0
+    for code, slug in LEAGUES.items():
+        if done >= max_games: break
+        games = load(code)
+        old = [i for i, g in enumerate(games) if g["players"] and len(g["players"][0]) < 5 + len(PSTATS)]
+        if not old: continue
+        for i in sorted(old, key=lambda i: str(games[i]["date"]), reverse=True)[: max_games - done]:
+            try: games[i].update(compact(get(f"{slug}/summary", event=games[i]["id"])))
+            except (requests.RequestException, ValueError) as e: print("ESPN", slug, games[i]["id"], e); time.sleep(3); continue
+            done += 1; time.sleep(pause)
+        with path(code).open("w", encoding="utf-8") as f:
+            for g in games: f.write(json.dumps(g, ensure_ascii=False) + "\n")
+    print(f"ESPN fútbol: {done} partidos rellenados con faltas recibidas")
+    return done
+
+
 if __name__ == "__main__":
-    update(int(sys.argv[1]) if len(sys.argv) > 1 else 1500)
+    if len(sys.argv) > 1 and sys.argv[1] == "backfill": backfill(int(sys.argv[2]) if len(sys.argv) > 2 else 600)
+    else: update(int(sys.argv[1]) if len(sys.argv) > 1 else 1500)

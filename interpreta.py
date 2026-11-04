@@ -202,11 +202,12 @@ if __name__ == "__main__":  # prueba: python interpreta.py (en Actions: probar_i
 SLIP = """Lee la imagen de un boleto de apuestas deportivas y devuelve SOLO un JSON con lo que pone, sin inventar nada:
 {"piernas": [{"partido": "Local - Visitante", "deporte": "futbol|nba|nhl|nfl|tenis|esports|fc27|otro",
   "tipo": "ganador|empate|doble_oportunidad|mas_menos|comparacion|otro", "equipo": "equipo o jugador al que se refiere (si aplica)",
-  "estadistica": "goles|córners|tarjetas|tiros|tiros a puerta|puntos|rebotes|asistencias|triples|mapas|otro (si es más/menos)",
+  "estadistica": "goles|córners|tarjetas|tiros|tiros a puerta|faltas|faltas recibidas|puntos|rebotes|asistencias|triples|mapas|otro (si es más/menos)",
   "lado": "mas|menos", "linea": 9.5, "doble": "1X|X2|12", "cuota": 1.85, "texto": "la selección tal cual aparece"}],
  "cuota_total": 12.3, "importe": 1.0}
 Reglas de clasificación:
 - «Anotará», «marca en cualquier momento», «goleador» → tipo mas_menos, equipo = el jugador, estadistica goles, lado mas, linea 0.5.
+- «N+ faltas recibidas» («recibirá falta») → mas_menos, estadistica «faltas recibidas», linea N−0.5.
 - «N+ remates a puerta / tiros / córners / tarjetas …» → mas_menos, lado mas, linea N−0.5 (3+ → 2.5); equipo = jugador o equipo.
 - «Más de X córners/tarjetas/goles» sin equipo ni jugador → total del partido: equipo null.
 - «Resultado final: Equipo» o «Gana Equipo» → ganador; «Empate» → empate; «1X/X2/doble oportunidad» → doble_oportunidad.

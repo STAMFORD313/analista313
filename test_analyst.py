@@ -1157,3 +1157,7 @@ print("ok córners contra un rival")
 # boletos: respaldo de clasificación («anotará», «3+ remates») y nombres de ciudades en español
 assert _CH.find("AEK Atenas Real Madrid", {"x|t|1": {"name": "AEK Athens", "norm": "aek athens", "kind": "equipo", "sport": "futbol", "games": []}}, n=1) == ["x|t|1"]
 print("ok boletos: ciudades y piernas de jugador")
+# faltas recibidas por jugador (ESPN foulsSuffered)
+assert _CH.parse_leg("Bellingham 2+ faltas recibidas") == {"stat": "faltas_recibidas", "line": 1.5, "over": True}
+assert _CH.parse_leg("Bellingham más de 1.5 faltas")["stat"] == "faltas" and "foulsSuffered" in _ESZ.PSTATS
+print("ok faltas recibidas")
