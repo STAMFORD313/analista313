@@ -1387,3 +1387,27 @@ finally:
     _SL.find_game, _SL.live_game = _fg0, _lg0
     _SL.FILE.unlink(missing_ok=True); _SL.FILE = _f0; _SL._MEM.clear(); _SL._MEM.update(_mem0)
 print("ok liquida al acabar con el marcador de ESPN")
+
+# órdenes sobre «crear apuesta»: separar por equipo y tiros a puerta de los delanteros
+_mc = _CH.match_combo; _seen = {}
+_CH.match_combo = lambda D, kh, ka, target, hours=72, by_team=False, shooters=None: _seen.update(h=D[kh]["name"], a=D[ka]["name"], t=target, b=by_team, s=shooters and D[shooters]["name"]) or "ok"
+try:
+    _CH._DB.update(db=_D, t=1e18)
+    _kr, _kb = _CH.find("Real Madrid", _D, n=1, kind="equipo")[0], _CH.find("Barcelona", _D, n=1, kind="equipo")[0]
+    _CH._CTX["crear"] = (_kr, _kb, 20.0)
+    _CH.answer("Separa por corner de cada equipo y tarjetas de cada equipo para subir la cuota y también con tiros a puerta de delanteros del Barcelona")
+    assert _seen == {"h": "Real Madrid", "a": "Barcelona", "t": 20.0, "b": True, "s": "Barcelona"}, _seen
+finally: _CH.match_combo = _mc; _CH._DB.clear(); _CH._DB["t"] = 0; _CH._CTX.clear(); _CH.LAST_FILE.unlink(missing_ok=True)
+_pp, _lp, _fd = _KB.player_props, _CH.leg_prob, _CH.find
+try:
+    _KB.player_props = lambda h, a, t: [{"mercado": "Player's shots on target", "jugador": "Delantero Uno", "linea": 0.5, "cuota": 1.6},
+                                        {"mercado": "Player's shots on target", "jugador": "Delantero Uno", "linea": 1.5, "cuota": 3.2},
+                                        {"mercado": "Player's shots on target", "jugador": "Lateral", "linea": 0.5, "cuota": 3.0}]
+    _Dp = {"t": {"name": "Barcelona", "kind": "equipo"}, "p1": {"name": "Delantero Uno", "kind": "jugador", "team": "Barcelona"},
+           "p2": {"name": "Lateral", "kind": "jugador", "team": "Barcelona"}}
+    _CH.find = lambda txt, D=None, n=2, kind=None: ["p1"] if "Uno" in txt else ["p2"]
+    _CH.leg_prob = lambda ks, leg, D: ({("p1", 0.5): 0.66, ("p1", 1.5): 0.30, ("p2", 0.5): 0.20}[(ks[0], leg["line"])], "")
+    _sl = _CH.shooter_legs(_Dp, "t", "Real Madrid", "Barcelona", _now)
+    assert len(_sl) == 1 and _sl[0][5] == "Delantero Uno" and _sl[0][3] == "Más de 0.5 tiros a puerta" and abs(_sl[0][1] - 0.66) < 1e-9, _sl
+finally: _KB.player_props, _CH.leg_prob, _CH.find = _pp, _lp, _fd
+print("ok crear apuesta por equipo y con rematadores")

@@ -172,3 +172,4 @@
 - 2026-11-04: el chat recuerda a qué apuesta te refieres: responder a un mensaje del bot (o pegar el boleto) con «¿cómo va esta?» enseña solo esa apuesta en directo; boletos de foto sin hora también se siguen en directo; repetidos salen una vez.
 - 2026-11-04: directo con sus iconos (la IA redactora ya no reescribe la tarjeta 📡) y la tarjeta se reedita sola cada 3 min hasta que acaban los partidos (máx. 4 h).
 - 2026-11-04: las simuladas se liquidan en cuanto ESPN da el partido por terminado (marcador en directo, sin esperar a los datos guardados); «ya ha terminado el partido» liquida y manda el resultado en vez de repetir la apuesta.
+- 2026-11-04: «crear apuesta» cumple órdenes de seguimiento: «separa por cada equipo» → córners y tarjetas de cada equipo (no totales) y «tiros a puerta de los delanteros de X» → rematadores con cuota de Unibet y prob. del modelo (calibrado: predice 21.5 %, acierta 21.7 % en 166 props; la casa sin margen 44.7 %).

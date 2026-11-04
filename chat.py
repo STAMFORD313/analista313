@@ -692,7 +692,27 @@ def _leg(meta, txt, q):
     return dict(code=meta[0], start=meta[1], home=meta[2], away=meta[3], txt=txt, odds=None, p=q)
 
 
-def match_combo(D, kh, ka, target, hours=72):
+def shooter_legs(D, team_key, home, away, t, n=2, min_p=0.35):
+    """Tiros a puerta de los rematadores de un equipo con cuotas de Unibet: [(ventaja, p, cuota, txt, 'sot', jugador)].
+    Probabilidad del modelo (medido en 166 props liquidadas: predice 21.5 % y acierta 21.7 %; la de Unibet sin margen
+    no sirve aquí: daba 44.7 %). Los n con más probabilidad (los delanteros/rematadores salen solos: más tiros)."""
+    import kambi
+    try: rows = [r for r in kambi.player_props(home, away, t) if r["mercado"].startswith("Player's shots on target") and r["linea"]]
+    except Exception as ex: print("Kambi props", repr(ex)); rows = []
+    team = D[team_key]["name"]
+    out = []
+    for r in rows:
+        ks = [k for k in find(r["jugador"], D, n=1, kind="jugador") if D[k].get("team") == team]
+        if not ks: continue
+        p, _ = leg_prob(ks, {"stat": "tiros_puerta", "line": r["linea"], "over": True}, D)
+        if p is None or p < min_p: continue
+        out.append((p * r["cuota"] - 1, p, r["cuota"], f"Más de {r['linea']:g} tiros a puerta", "sot", D[ks[0]]["name"]))
+    best = {}
+    for c in sorted(out, key=lambda c: -c[1]): best.setdefault(c[5], c)  # una línea por jugador: la más probable
+    return sorted(best.values(), key=lambda c: -c[1])[:n]
+
+
+def match_combo(D, kh, ka, target, hours=72, by_team=False, shooters=None):
     """Combinada de cuota alta de UN partido («crear apuesta»): todas las líneas de Unibet del partido (córners y tarjetas,
     total y de cada equipo), la de más ventaja de cada mercado (prob. = 30 % modelo + 70 % casa sin margen) y, por
     estadística, o el total o los de equipo (no los dos: el total es la suma). Ojo: en un mismo partido las piernas van
@@ -707,6 +727,7 @@ def match_combo(D, kh, ka, target, hours=72):
     try: off = kambi.offers(home, away, t, stats=("corners", "cards"))
     except Exception as ex: print("Kambi", repr(ex)); off = {}
     if not off: return f"Unibet aún no tiene mercados de córners y tarjetas de {A.esc(home)} – {A.esc(away)}."
+    _CTX["crear"] = (kh, ka, target)
     cands = []
     for (stat, scope), lines in off.items():
         mm = match_model(kh, ka, D, "corners" if stat == "corners" else "tarjetas")
@@ -714,6 +735,7 @@ def match_combo(D, kh, ka, target, hours=72):
         mu = mm[0] + mm[1] if scope == "t" else mm[0] if scope == "h" else mm[1]
         who = "" if scope == "t" else f" de {home if scope == 'h' else away}"
         best = None
+        if by_team and scope == "t": continue  # «de cada equipo»: solo las de equipo
         for line, o in lines.items():
             po = nb_over(mu, mm[2], line); mo = (1 / o["o"]) / (1 / o["o"] + 1 / o["u"])
             for side, pmod, pmk, odd in (("Más", po, mo, o["o"]), ("Menos", 1 - po, 1 - mo, o["u"])):
@@ -722,20 +744,26 @@ def match_combo(D, kh, ka, target, hours=72):
                 leg = (q * odd - 1, q, odd, f"{side} de {line:g} {LABEL['corners' if stat == 'corners' else 'tarjetas']}{who}", stat, scope)
                 if best is None or leg[0] > best[0]: best = leg
         if best: cands.append(best)
-    legs, odds, p, used = [], 1.0, 1.0, {}
+    forced = []
+    if shooters: forced = shooter_legs(D, shooters, home, away, t)
+    legs, odds, p, used = list(forced), 1.0, 1.0, {}
+    for c in forced: odds *= c[2]; p *= c[1]
     for c in sorted(cands, key=lambda c: -c[0]):
-        if odds >= target: break
+        if odds >= target and not by_team: break  # lo pedido (cada equipo) va entero aunque pase de la cuota
         st, sc = c[4], c[5]
         if (sc == "t" and used.get(st)) or (sc != "t" and "t" in used.get(st, set())): continue  # total o equipos, no ambos
         legs.append(c); odds *= c[2]; p *= c[1]; used.setdefault(st, set()).add(sc)
     if not legs: return f"No veo líneas útiles de Unibet en {A.esc(home)} – {A.esc(away)}."
     ev = p * odds - 1
-    remember(f"Crear apuesta {home} – {away}", [dict(code=None, start=str(t), home=home, away=away, txt=c[3], odds=c[2], p=c[1]) for c in legs], odds, p)
+    remember(f"Crear apuesta {home} – {away}", [dict(code=None, start=str(t), home=home, away=away, txt=c[3], odds=c[2], p=c[1],
+                                                     **({"jugador": c[5]} if c[4] == "sot" else {})) for c in legs], odds, p)
     loc = t.tz_convert(TZ)
     out = [f"🎰 <b>Crear apuesta · {A.esc(home)} – {A.esc(away)}</b> · {DIAS[loc.dayofweek]} {loc:%H:%M} (cuotas de Unibet)"]
-    out += [f"  • {A.esc(c[3])} @ {c[2]:.2f} ({c[1]:.0%}, ventaja {c[0]:+.0%})" for c in legs]
+    out += [f"  • {A.esc(c[5] + ': ') if c[4] == 'sot' else ''}{A.esc(c[3])} @ {c[2]:.2f} ({c[1]:.0%}, ventaja {c[0]:+.0%})" for c in legs]
+    if shooters and not forced: out.append(f"⚠️ Unibet aún no da tiros a puerta de jugadores de {A.esc(D[shooters]['name'])} (o no tengo sus datos).")
+    if by_team and not any(c[5] in ("h", "a") for c in legs if c[4] != "sot"): out.append("⚠️ Unibet no tiene líneas de córners/tarjetas por equipo en este partido.")
     out.append(f"{len(legs)} piernas · cuota aprox. <b>{odds:.1f}</b> (producto) · acierta el <b>{p:.1%}</b>.")
-    if odds < target:
+    if odds < target and not by_team and not shooters:
         out.append(f"⚠️ Con los mercados de córners y tarjetas de este partido llego a {odds:.1f}, no a {target:g}. "
                    "Para cuota más alta hay que juntar varios partidos («combinada a cuota 80»).")
     out.append("ℹ️ En «crear apuesta» Unibet calcula su propia cuota (suele pagar algo menos que el producto): compárala.")
@@ -1156,6 +1184,17 @@ def _answer(t, short=True):
                  + (f" @ {l['odds']:.2f}" if l.get("odds") else ""), None) for l in b["legs"]]
         return "\n".join(["✅ <b>Apuntada</b> (simulada): " + A.esc(b["titulo"]), *BO.boleto(None, legs, b.get("odds"), b.get("stake")),
                           "Cuando acaben los partidos te digo si hemos ganado o perdido, pierna a pierna y por qué."])
+    split = re.search(r"cada equipo|por equipos?|separ", q)
+    shoot = re.search(r"tiros? a puerta de (?:los )?(?:delanteros|jugadores|rematadores|atacantes)", q)
+    if (split or shoot) and (_CTX.get("crear") or len(find(t, D, n=2, kind="equipo")) == 2):  # orden sobre «crear apuesta»
+        ks = find(t, D, n=2, kind="equipo")
+        kh, ka, tg = _CTX["crear"] if _CTX.get("crear") and len(ks) < 2 else (*ks, 20.0)
+        sh = None
+        if shoot:
+            named = [k for k in ks if k in (kh, ka)]
+            sh = named[-1] if named else None
+        m_t = re.search(r"cuota (?:de )?(\d+(?:[.,]\d+)?)", q)
+        return match_combo(D, kh, ka, _f(m_t.group(1)) if m_t else tg, by_team=bool(split), shooters=sh)
     if re.search(COMBO_RX, q) and not re.search(r"mas de|menos de|over|under|\d\+", q):
         ks = find(t, D, n=2, kind="equipo")
         if len(ks) == 2: kh, ka = ks
