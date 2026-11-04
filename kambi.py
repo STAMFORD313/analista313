@@ -123,6 +123,16 @@ PLAYER_LABELS = re.compile(r"^(To Score|To Get a Card|To give an assist|To score
 
 
 _nba = None
+
+
+def _debug(k, v):
+    """Diagnóstico en data/kambi_debug.json (se sube con los datos): para ver desde fuera qué devuelve Kambi."""
+    import json
+    f = A.DATA / "kambi_debug.json"
+    try: d = json.loads(f.read_text()) if f.exists() else {}
+    except ValueError: d = {}
+    d[k] = {**v, "hora": str(pd.Timestamp.now(tz="UTC"))[:16]}
+    f.write_text(json.dumps(d, ensure_ascii=False, indent=1))
 _esp = None
 ESPORT_WORDS = {"cs2": ("counter", "cs2", "cs:go", "csgo"), "dota2": ("dota",), "lol": ("league of legends", "lol"),
                 "r6": ("rainbow", "r6"), "mlbb": ("mobile legends", "mlbb")}
@@ -164,6 +174,8 @@ def nba_props(home, away, start):
                and A.find_team(home, [e["home"]]) and A.find_team(away, [e["away"]])), None)
     if not ev:
         print(f"Unibet NBA: {len(_nba)} partidos, sin emparejar {home} vs {away}", [f"{e['home']} vs {e['away']}" for e in _nba[:3]])
+        _debug("nba", {"kambi": len(_nba), "ejemplo_kambi": [f"{e['home']} vs {e['away']} {e['start']}" for e in _nba[:3]],
+                       "buscado": f"{home} vs {away} {start}"})
         return []
     out = []
     for b in get(f"betoffer/event/{ev['id']}").get("betOffers", []):

@@ -465,7 +465,9 @@ def run_league(league, state, today, kg):
                     new = pd.DataFrame(rows).assign(seen=pd.Timestamp.now(tz="UTC").isoformat(), start=str(g["date"]), home=home, away=away)
                     old_ = pd.read_csv(f) if f.exists() else new.iloc[:0]
                     pd.concat([old_, new]).drop_duplicates(["start", "home", "mercado", "jugador", "tipo", "linea"], keep="last").to_csv(f, index=False)
-            except Exception as e: print("props NBA Unibet", repr(e))
+            except Exception as e:
+                print("props NBA Unibet", repr(e))
+                import kambi; kambi._debug("nba_error", {"error": repr(e)[:300]})
         if league == "nba":  # props de jugador (train_nba_props.py), sin los lesionados
             try:
                 import nba_props
