@@ -1,24 +1,24 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 04/11/2026 07:15 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 04/11/2026 07:21 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## Taz vs Ganger_29 — 04/11 · 07:18
+## kamito vs Loka — 04/11 · 07:26
 
-👀 candidata · 🎮⚽ FC 27 · Bundesliga · **Gana Taz** @ **2.30** (Unibet) · prob 51% vs casas 38% · ventaja +18%
+👀 candidata · 🎮⚽ FC 27 · MLS · **Gana Loka** @ **1.55** (Unibet) · prob 74% vs casas 57% · ventaja +15%
 
-- ✅ Valor: ventaja +18% (mín. 13% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+- ✅ Valor: ventaja +15% (mín. 12% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
 
 📊 **Escenarios** (Poisson por jugador, 55.462 partidos)  
-Goles esperados: Taz 3.23 · Ganger_29 2.64  
-Ganador: Taz 51% · empate 19% · Ganger_29 30%  
-Total: más de 5.5 goles 53% · menos 47%  
-Hándicap Taz: −1.5 35% · −2.5 21%  
+Goles esperados: kamito 2.57 · Loka 4.60  
+Ganador: kamito 14% · empate 12% · Loka 74%  
+Total: más de 7.5 goles 43% · menos 57%  
+Hándicap Loka: −1.5 57% · −2.5 42%  
 🔎 **Claves**  
-• Forma: Taz ✅✅✅➖❌ | Ganger_29 ❌✅➖➖❌  
-• Partidos: Taz 829 | Ganger_29 704  
-• Liga: Bundesliga  
-• Unibet: 1 2.30 · X 3.75 · 2 2.23 (sin margen 38%/23%/39%) · ventaja +18%. Sin stake hasta demostrar ROI con estas cuotas.  
+• Forma: kamito ❌➖✅❌❌ | Loka ✅❌✅➖✅  
+• Partidos: kamito 384 | Loka 1044  
+• Liga: MLS  
+• Unibet: 1 3.25 · X 5.50 · 2 1.55 (sin margen 27%/16%/57%) · ventaja +15%. Sin stake hasta demostrar ROI con estas cuotas.  
 
 ## v1nniePuh vs why — 04/11 · 07:30
 
@@ -55,4 +55,22 @@ Hándicap Wboy: −1.5 34% · −2.5 21%
 • Partidos: Wboy 963 | mko1919 1052  
 • Liga: World Cup A  
 • Unibet: 1 1.50 · X 4.35 · 2 4.10 (sin margen 58%/20%/21%) · ventaja +29%. Sin stake hasta demostrar ROI con estas cuotas.  
+
+## Tesla vs Maxa — 04/11 · 07:42
+
+👀 candidata · 🎮⚽ FC 27 · Bundesliga · **Gana Tesla** @ **1.88** (Unibet) · prob 59% vs casas 46% · ventaja +10%
+
+- ❌ Valor: ventaja +10% (mín. 11% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 55.462 partidos)  
+Goles esperados: Tesla 3.75 · Maxa 2.74  
+Ganador: Tesla 59% · empate 17% · Maxa 25%  
+Total: más de 6.5 goles 47% · menos 53%  
+Hándicap Tesla: −1.5 42% · −2.5 27%  
+🔎 **Claves**  
+• Forma: Tesla ❌✅✅✅✅ | Maxa ✅➖❌✅✅  
+• Partidos: Tesla 844 | Maxa 797  
+• Liga: Bundesliga  
+• Unibet: 1 1.88 · X 4.00 · 2 2.75 (sin margen 46%/22%/32%) · ventaja +10%. Sin stake hasta demostrar ROI con estas cuotas.  
 
