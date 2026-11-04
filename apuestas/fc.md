@@ -1,60 +1,24 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 04/11/2026 08:14 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 04/11/2026 08:33 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## Ganger_29 vs Taz — 04/11 · 08:18
+## Uncle vs Wboy — 04/11 · 08:55
 
-👀 candidata · 🎮⚽ FC 27 · Bundesliga · **Gana Taz** @ **2.23** (Unibet) · prob 51% vs casas 39% · ventaja +14%
+👀 candidata · 🎮⚽ FC 27 · Serie A · **Gana Wboy** @ **3.10** (Unibet) · prob 36% vs casas 28% · ventaja +12%
 
-- ✅ Valor: ventaja +14% (mín. 12% con la incertidumbre, máx. 30%)
+- ✅ Valor: ventaja +12% (mín. 11% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 55.482 partidos)  
-Goles esperados: Ganger_29 2.64 · Taz 3.23  
-Ganador: Ganger_29 30% · empate 19% · Taz 51%  
-Total: más de 5.5 goles 53% · menos 47%  
-Hándicap Taz: −1.5 35% · −2.5 21%  
-🔎 **Claves**  
-• Forma: Ganger_29 ❌✅➖➖❌ | Taz ✅✅✅➖❌  
-• Partidos: Ganger_29 704 | Taz 829  
-• Liga: Bundesliga  
-• Unibet: 1 2.28 · X 3.85 · 2 2.23 (sin margen 38%/23%/39%) · ventaja +14%. Sin stake hasta demostrar ROI con estas cuotas.  
-
-## Loka vs kamito — 04/11 · 08:26
-
-👀 candidata · 🎮⚽ FC 27 · MLS · **Gana Loka** @ **1.56** (Unibet) · prob 74% vs casas 56% · ventaja +15%
-
-- ✅ Valor: ventaja +15% (mín. 12% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 55.482 partidos)  
-Goles esperados: Loka 4.60 · kamito 2.57  
-Ganador: Loka 74% · empate 12% · kamito 14%  
-Total: más de 7.5 goles 43% · menos 57%  
-Hándicap Loka: −1.5 57% · −2.5 42%  
-🔎 **Claves**  
-• Forma: Loka ✅❌✅➖✅ | kamito ❌➖✅❌❌  
-• Partidos: Loka 1044 | kamito 384  
-• Liga: MLS  
-• Unibet: 1 1.56 · X 5.25 · 2 3.30 (sin margen 57%/17%/27%) · ventaja +15%. Sin stake hasta demostrar ROI con estas cuotas.  
-
-## mko1919 vs Wboy — 04/11 · 08:33
-
-👀 candidata · 🎮⚽ FC 27 · World Cup A · **Gana mko1919** @ **4.10** (Unibet) · prob 31% vs casas 21% · ventaja +29%
-
-- ✅ Valor: ventaja +29% (mín. 16% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 55.482 partidos)  
-Goles esperados: mko1919 2.82 · Wboy 3.35  
-Ganador: mko1919 31% · empate 18% · Wboy 50%  
+📊 **Escenarios** (Poisson por jugador, 55.502 partidos)  
+Goles esperados: Uncle 3.21 · Wboy 2.97  
+Ganador: Uncle 45% · empate 19% · Wboy 36%  
 Total: más de 6.5 goles 42% · menos 58%  
-Hándicap Wboy: −1.5 34% · −2.5 21%  
+Hándicap Uncle: −1.5 30% · −2.5 18%  
 🔎 **Claves**  
-• Forma: mko1919 ➖➖❌✅❌ | Wboy ❌❌❌❌✅  
-• Partidos: mko1919 1052 | Wboy 963  
-• Liga: World Cup A  
-• Unibet: 1 4.10 · X 4.35 · 2 1.46 (sin margen 21%/20%/59%) · ventaja +29%. Sin stake hasta demostrar ROI con estas cuotas.  
+• Forma: Uncle ✅❌✅❌❌ | Wboy ❌❌❌❌✅  
+• Partidos: Uncle 610 | Wboy 963  
+• Liga: Serie A  
+• Unibet: 1 1.87 · X 3.45 · 2 3.10 (sin margen 47%/25%/28%) · ventaja +12%. Sin stake hasta demostrar ROI con estas cuotas.  
 
 ## saportj vs Loka — 04/11 · 09:00
 
@@ -73,4 +37,40 @@ Hándicap Loka: −1.5 58% · −2.5 42%
 • Partidos: saportj 604 | Loka 1044  
 • Liga: EFL Championship  
 • Unibet: 1 3.15 · X 5.50 · 2 1.54 (sin margen 28%/16%/57%) · ventaja +16%. Sin stake hasta demostrar ROI con estas cuotas.  
+
+## Bomb1to vs Uncle — 04/11 · 09:07
+
+👀 candidata · 🎮⚽ FC 27 · Serie A · **Gana Uncle** @ **3.55** (Unibet) · prob 38% vs casas 24% · ventaja +33%
+
+- ❌ Valor: ventaja +33% (mín. 17% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 55.502 partidos)  
+Goles esperados: Bomb1to 2.87 · Uncle 2.74  
+Ganador: Bomb1to 42% · empate 20% · Uncle 38%  
+Total: más de 5.5 goles 49% · menos 51%  
+Hándicap Bomb1to: −1.5 28% · −2.5 15%  
+🔎 **Claves**  
+• Forma: Bomb1to ➖➖✅✅➖ | Uncle ✅❌✅❌❌  
+• Partidos: Bomb1to 1154 | Uncle 610  
+• Liga: Serie A  
+• Unibet: 1 2.02 · X 2.65 · 2 3.55 (sin margen 43%/33%/24%) · ventaja +33%. Sin stake hasta demostrar ROI con estas cuotas.  
+
+## Uncle vs mko1919 — 04/11 · 09:19
+
+👀 candidata · 🎮⚽ FC 27 · Serie A · **Gana mko1919** @ **4.25** (Unibet) · prob 28% vs casas 20% · ventaja +17%
+
+- ✅ Valor: ventaja +17% (mín. 13% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 55.502 partidos)  
+Goles esperados: Uncle 3.13 · mko1919 2.42  
+Ganador: Uncle 53% · empate 19% · mko1919 28%  
+Total: más de 5.5 goles 48% · menos 52%  
+Hándicap Uncle: −1.5 36% · −2.5 22%  
+🔎 **Claves**  
+• Forma: Uncle ✅❌✅❌❌ | mko1919 ➖➖❌✅❌  
+• Partidos: Uncle 610 | mko1919 1052  
+• Liga: Serie A  
+• Unibet: 1 1.88 · X 2.63 · 2 4.25 (sin margen 46%/33%/21%) · ventaja +17%. Sin stake hasta demostrar ROI con estas cuotas.  
 
