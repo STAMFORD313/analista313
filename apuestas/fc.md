@@ -1,6 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 04/11/2026 12:33 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 04/11/2026 12:38 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Ganger_29 vs Taz — 04/11 · 12:48
 
@@ -55,4 +55,58 @@ Hándicap Loka: −1.5 64% · −2.5 50%
 • Partidos: Loka 1060 | kamito 400  
 • Liga: CSL  
 • Unibet: 1 1.58 · X 5.50 · 2 3.10 (sin margen 56%/16%/28%) · ventaja +26%. Sin stake hasta demostrar ROI con estas cuotas.  
+
+## mko1919 vs Wboy — 04/11 · 13:03
+
+👀 candidata · 🎮⚽ FC 27 · World Cup B · **Gana mko1919** @ **3.95** (Unibet) · prob 28% vs casas 22% · ventaja +11%
+
+- ❌ Valor: ventaja +11% (mín. 11% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 55.722 partidos)  
+Goles esperados: mko1919 2.88 · Wboy 3.52  
+Ganador: mko1919 28% · empate 18% · Wboy 54%  
+Total: más de 6.5 goles 46% · menos 54%  
+Hándicap Wboy: −1.5 36% · −2.5 22%  
+🔎 **Claves**  
+• Forma: mko1919 ❌❌❌❌✅ | Wboy ✅➖✅❌❌  
+• Partidos: mko1919 1068 | Wboy 979  
+• Liga: World Cup B  
+• Unibet: 1 3.95 · X 4.10 · 2 1.56 (sin margen 22%/21%/56%) · ventaja +11%. Sin stake hasta demostrar ROI con estas cuotas.  
+
+## Jekunam vs dm1trena — 04/11 · 13:06
+
+👀 candidata · 🎮⚽ FC 27 · Bundesliga · **Gana Jekunam** @ **2.25** (Unibet) · prob 49% vs casas 38% · ventaja +11%
+
+- ❌ Valor: ventaja +11% (mín. 11% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 55.722 partidos)  
+Goles esperados: Jekunam 2.78 · dm1trena 2.33  
+Ganador: Jekunam 49% · empate 21% · dm1trena 30%  
+Total: más de 5.5 goles 40% · menos 60%  
+Hándicap Jekunam: −1.5 31% · −2.5 18%  
+🔎 **Claves**  
+• Forma: Jekunam ✅➖❌✅➖ | dm1trena ➖➖❌❌❌  
+• Partidos: Jekunam 970 | dm1trena 989  
+• Liga: Bundesliga  
+• Unibet: 1 2.25 · X 3.15 · 2 2.55 (sin margen 39%/28%/34%) · ventaja +11%. Sin stake hasta demostrar ROI con estas cuotas.  
+
+## saportj vs crinner — 04/11 · 13:08
+
+👀 candidata · 🎮⚽ FC 27 · CSL · **Gana crinner** @ **1.79** (Unibet) · prob 66% vs casas 49% · ventaja +18%
+
+- ✅ Valor: ventaja +18% (mín. 13% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 55.722 partidos)  
+Goles esperados: saportj 2.09 · crinner 3.41  
+Ganador: saportj 17% · empate 17% · crinner 66%  
+Total: más de 5.5 goles 47% · menos 53%  
+Hándicap crinner: −1.5 46% · −2.5 30%  
+🔎 **Claves**  
+• Forma: saportj ✅❌❌❌❌ | crinner ❌✅✅✅✅  
+• Partidos: saportj 620 | crinner 875  
+• Liga: CSL  
+• Unibet: 1 2.80 · X 4.40 · 2 1.79 (sin margen 31%/20%/49%) · ventaja +18%. Sin stake hasta demostrar ROI con estas cuotas.  
 
