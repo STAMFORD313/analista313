@@ -914,16 +914,21 @@ def analyze_slip(slip, D=None):
     total = slip.get("cuota_total") or (float(np.prod([l.get("cuota") for l in slip["piernas"]])) if all(l.get("cuota") for l in slip["piernas"]) else None)
     out = ["🧾 <b>Tu boleto</b> (leído de la imagen)", *rows]
     known = [p for p in ps if p is not None]
-    if known and len(known) == len(ps):
+    games = [l.get("partido") for l in slip["piernas"]]
+    same = max((games.count(g) for g in set(games)), default=0)
+    if same >= 3:  # «crear apuesta»: las piernas de un partido van muy ligadas (si Mbappé marca, gana el Madrid más a menudo)
+        out.append(f"ℹ️ {same} piernas del mismo partido van muy ligadas: multiplicarlas no sirve y la cuota de la casa"
+                   + (f" ({total:g})" if total else "") + " ya lo tiene en cuenta. Mira pierna a pierna: las 🟢 son las que la casa paga por encima de lo que valen.")
+    elif known and len(known) == len(ps):
         p = float(np.prod(known)); out.append(f"Todas a la vez: <b>{p:.1%}</b> (cuota justa {1 / p:.2f})")
-        if len({l.get("partido") for l in slip["piernas"]}) == 1:
-            out.append("ℹ️ Todas son del mismo partido: van algo ligadas y el cálculo conjunto es aproximado.")
+        if same == 2: out.append("ℹ️ Hay piernas del mismo partido: van algo ligadas y el cálculo conjunto es aproximado.")
         if total: out.append(verdict(p, total))
     elif known: out.append(f"Puedo evaluar {len(known)} de {len(ps)} piernas; el resto no lo cubren mis datos.")
     ok_sims = [s for s in sims if s is not None]
     if ok_sims:
         remember("Tu boleto", ok_sims, total, float(np.prod(known)) if known else None)
-        extra = f" (sin las {len(sims) - len(ok_sims)} piernas que no puedo liquidar)" if len(ok_sims) < len(sims) else ""
+        nx = len(sims) - len(ok_sims)
+        extra = (f" (sin {'la pierna' if nx == 1 else f'las {nx} piernas'} que no puedo liquidar)") if nx else ""
         out.append(f"\n❓ ¿Te la simulo con 1 € y te aviso cuando acaben{extra}?"); _CTX["oferta"] = "simula la última combinada"
     return "\n".join(out)
 

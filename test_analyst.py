@@ -1176,7 +1176,7 @@ _CH._DB.update(db=_D, t=1e18); _CH._CTX.clear(); _MDl3 = _MD.legs; _MD.legs = la
 try:
     _r = _CH.analyze_slip({"piernas": [{"partido": "Real Madrid - Barcelona", "tipo": "ganador", "equipo": "Real Madrid", "cuota": 2.1, "texto": "Real Madrid"},
                                        {"partido": "Real Madrid - Barcelona", "tipo": "otro", "texto": "Bellingham marca de chilena", "cuota": 9.0}]})
-    assert "❓" in _r and "sin las 1 piernas" in _r, _r
+    assert "❓" in _r and "sin la pierna" in _r, _r
     _CH._CTX.clear(); assert _CH.last_combo()["titulo"] == "Tu boleto"  # leída de disco tras «reinicio»
 finally: _MD.legs = _MDl3; _CH._DB.clear(); _CH._DB["t"] = 0; _CH._CTX.clear(); _CH.LAST_FILE.unlink(missing_ok=True)
 print("ok boleto simulable con piernas sin datos")
@@ -1185,3 +1185,10 @@ _cg2 = _IP2._complete_gemini; _os.environ["GEMINI_API_KEY"] = "x"; _IP2._complet
 try: assert _CH.natural("hola", "🧩 Combinada\n• A (90%)\n• B (85%)") == "🧩 Combinada\n• A (90%)\n• B (85%)"
 finally: _IP2._complete_gemini = _cg2; _os.environ.pop("GEMINI_API_KEY")
 print("ok listas sin IA")
+# boleto «crear apuesta» de un partido: no multiplica piernas ligadas
+_CH._DB.update(db=_D, t=1e18); _MDl4 = _MD.legs; _MD.legs = lambda hours=48, sports=None: []
+try:
+    _lg = {"partido": "Real Madrid - Barcelona", "tipo": "ganador", "equipo": "Real Madrid", "cuota": 2.1, "texto": "Real Madrid"}
+    _r = _CH.analyze_slip({"piernas": [_lg, _lg, _lg], "cuota_total": 14.0}); assert "muy ligadas" in _r and "Todas a la vez" not in _r, _r
+finally: _MD.legs = _MDl4; _CH._DB.clear(); _CH._DB["t"] = 0; _CH._CTX.clear(); _CH.LAST_FILE.unlink(missing_ok=True)
+print("ok crear apuesta sin multiplicar")
