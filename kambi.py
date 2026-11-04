@@ -46,6 +46,23 @@ def raw_football():
     return _raw
 
 
+# otras casas sobre la misma plataforma Kambi (sondeadas el 4-nov: responden sin clave); cada una pone su margen
+BOOKS = {"ub": "Unibet", "paf": "Paf", "pafes": "Paf España", "leo": "LeoVegas", "leoes": "LeoVegas España"}
+_raw_ops = {}
+
+
+def raw_football_op(op):
+    """Lista de fútbol de un operador de Kambi (una descarga por ejecución y operador)."""
+    if op == "ub": return raw_football()
+    if op not in _raw_ops:
+        try:
+            r = requests.get(f"https://eu-offering-api.kambicdn.com/offering/v2018/{op}/listView/football/all/all/all/matches.json",
+                             params=Q, headers=A.UA, timeout=40)
+            _raw_ops[op] = r.json().get("events", []) if r.ok else []
+        except (requests.RequestException, ValueError) as e: print("Kambi", op, e); _raw_ops[op] = []
+    return _raw_ops[op]
+
+
 def nick(name):
     """Nickname del jugador de esoccer en un nombre de Kambi («Arsenal (Kray) Esports» → «kray»), o None."""
     m = NICK.search(name or "")
@@ -72,10 +89,10 @@ def esoccer_events():
     return out
 
 
-def football_1x2():
-    """1X2 de Unibet de los partidos de fútbol (sin esports) de la lista de Kambi: [{home, away, start, odds{H,D,A}}]."""
+def football_1x2(op="ub"):
+    """1X2 de un operador de Kambi (Unibet por defecto) de los partidos de fútbol sin esports: [{home, away, start, odds{H,D,A}}]."""
     out = []
-    for x in raw_football():
+    for x in raw_football_op(op):
         e = x.get("event") or {}
         if "esports" in str(e.get("path")).lower() or not e.get("homeName"): continue
         odds = {}
@@ -83,8 +100,21 @@ def football_1x2():
             for o in b.get("outcomes", []):
                 kk = {"OT_ONE": "H", "OT_CROSS": "D", "OT_TWO": "A"}.get(o.get("type"))
                 if kk and o.get("odds") and o.get("status", "OPEN") == "OPEN": odds[kk] = o["odds"] / 1000
-        if len(odds) == 3: out.append({"home": e["homeName"], "away": e["awayName"], "start": pd.Timestamp(e["start"]), "odds": odds})
+        if len(odds) == 3: out.append({"home": e["homeName"], "away": e["awayName"], "start": pd.Timestamp(e["start"]), "odds": odds,
+                                       "book": BOOKS.get(op, op)})
     return out
+
+
+def football_1x2_best():
+    """La mejor cuota de cada resultado entre los operadores de Kambi (BOOKS), con la casa que la paga."""
+    best = {}
+    for op in BOOKS:
+        for e in football_1x2(op):
+            k = (e["home"], e["away"], e["start"].floor("h"))
+            b = best.setdefault(k, {"home": e["home"], "away": e["away"], "start": e["start"], "odds": {}, "books": {}})
+            for m, o in e["odds"].items():
+                if o > b["odds"].get(m, 0): b["odds"][m], b["books"][m] = o, e["book"]
+    return [b for b in best.values() if len(b["odds"]) == 3]
 
 
 def find_esoccer(p1, p2, start, evs=None):

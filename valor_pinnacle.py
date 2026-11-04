@@ -33,7 +33,7 @@ def candidates(now=None, uni=None, min_edge=MIN_EDGE, max_odds=MAX_ODDS):
     now = now or pd.Timestamp.now(tz="UTC")
     pin = fair_rows(now)
     if not len(pin): return []
-    uni = kambi.football_1x2() if uni is None else uni
+    uni = kambi.football_1x2_best() if uni is None else uni  # la mejor cuota entre Unibet, Paf y LeoVegas (misma plataforma)
     out, matched, edges = [], 0, []
     for r in pin.itertuples():
         t = pd.Timestamp(r.start)
@@ -47,13 +47,14 @@ def candidates(now=None, uni=None, min_edge=MIN_EDGE, max_odds=MAX_ODDS):
             p, o = inv[m] / tot, u["odds"][m]
             edge = o * p - 1
             if edge < min_edge or o > max_odds: continue
-            out.append({"key": f"vp|{t:%Y-%m-%d}|{r.home}|{r.away}", "market": m, "pick": name, "odds": round(o, 2), "book": "Unibet",
+            book = (u.get("books") or {}).get(m, u.get("book", "Unibet"))
+            out.append({"key": f"vp|{t:%Y-%m-%d}|{r.home}|{r.away}", "market": m, "pick": name, "odds": round(o, 2), "book": book,
                         "p": round(p, 4), "implied": round(p, 4), "edge": round(edge, 4), "match": f"{r.home} vs {r.away}",
                         "start": t.isoformat(), "league": f"💎 Valor vs Pinnacle · {r.league}", "sport": SPORT,
-                        "info": [f"💎 <b>Valor contra Pinnacle</b>: Unibet paga {o:.2f} y el precio justo de Pinnacle es {1 / p:.2f} "
+                        "info": [f"💎 <b>Valor contra Pinnacle</b>: {book} paga {o:.2f} y el precio justo de Pinnacle es {1 / p:.2f} "
                                  f"(ventaja {edge:+.1%})", "Backtest 2015-2026 (cuota ≤ 2.5, > 3 %): ROI +11 % ± 3 %, CLV +5 %."],
-                        "context": f"{r.home} vs {r.away} ({r.league}). Estrategia de valor: Unibet {o:.2f} frente a Pinnacle justo {1 / p:.2f}."})
-    if edges: print(f"valor Pinnacle: {len(pin)} partidos de Pinnacle, {len(uni)} de Unibet, {matched} emparejados; "
+                        "context": f"{r.home} vs {r.away} ({r.league}). Estrategia de valor: {book} {o:.2f} frente a Pinnacle justo {1 / p:.2f}."})
+    if edges: print(f"valor Pinnacle: {len(pin)} partidos de Pinnacle, {len(uni)} de las casas Kambi, {matched} emparejados; "
                     f"ventaja de Unibet: mediana {sorted(edges)[len(edges) // 2]:+.1%}, máxima {max(edges):+.1%}")
     else: print(f"valor Pinnacle: {len(pin)} partidos de Pinnacle, {len(uni)} de Unibet, 0 emparejados")
     return out
