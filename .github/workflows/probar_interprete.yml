@@ -13,7 +13,9 @@ jobs:
       - uses: actions/setup-python@v5
         with: {python-version: "3.12"}
       - run: pip install -r requirements.txt
-      - run: python interpreta.py; python -c "import chat; print('partidos 48 h:', {k: len(v) for k, v in chat.upcoming(chat.DAY_LEAGUES).items()})"
+      - run: |
+          python interpreta.py
+          python -c "import chat; print('partidos 48 h', {k: len(v) for k, v in chat.upcoming(chat.DAY_LEAGUES).items()})"
         env:
           PYTHONUNBUFFERED: "1"
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
