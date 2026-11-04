@@ -29,3 +29,9 @@ Informe al usuario: una línea por mejora con 🟢 (conseguido) o 🔴 (no mejor
 - [x] OpenDota en el Elo de Dota 2: medido, no mejora (0.6597 vs 0.5894 de bo3.gg; mezcla w=0). Reintentar con héroes/jugadores · gol.gg (LoL) · Liquipedia (calendarios esports, con límite de peticiones)
 - [ ] API oficial NHL (api-web.nhle.com) · MLB statsapi · StatsBomb open data (histórico de eventos) · OpenLigaDB (Bundesliga)
 - Bloqueadas desde Actions: SofaScore, FBref, HLTV, NBA (cdn/stats), Betfair, Oracle's Elixir, TheSportsDB (clave «3» retirada)
+
+## Estrategias (laboratorio.py, semanal)
+- [x] Laboratorio con ~30 estrategias y validación antes/después de 2021 + CLV
+- [ ] Más casas en vivo para comparar cuotas (la ventaja viene de coger la mejor): Unibet + DraftKings (ESPN) + Thunderpick + las que sondee el agente de plataformas
+- [ ] Vigilar el CLV real de «valor contra Pinnacle» (⚽💎) con ≥ 50 apuestas; si CLV < 0, apagarla
+- [ ] Añadir al laboratorio: córners/tarjetas contra Pinnacle (si sus cuotas se guardan), NBA/NHL con odds_*.csv + cierre Pinnacle

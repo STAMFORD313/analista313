@@ -41,6 +41,7 @@ EXPERTS = {
     "entrena_futbol": (24, 90, ["bash", "-c", "pip install -q scikit-learn; python train_football.py; python football_stats.py; "
                                               "python train_form.py; python train_market_stats.py; python train_sgp.py"],
                        "Fútbol: 1X2/goles, córners/tarjetas/faltas/tiros, forma, cuotas como dato y cópula de combinadas"),
+    "laboratorio": (168, 20, [PY, "laboratorio.py"], "Laboratorio: prueba muchas estrategias con 11 años de cuotas (antes/después de 2021, ROI y CLV)"),
     "entrena_combinadas_us": (24, 10, [PY, "train_nba_sgp.py"], "Correlación ganador-total de NBA/NFL/NHL"),
 }
 

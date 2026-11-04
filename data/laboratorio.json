@@ -1,0 +1,574 @@
+{
+ "fecha": "2026-11-04",
+ "partidos": 60192,
+ "estrategias": [
+  {
+   "estrategia": "valor 1X2 mejor >2% cuotas ≤2.5",
+   "n": 1509,
+   "antes": {
+    "n": 1295,
+    "roi": 0.0728,
+    "se": 0.028,
+    "clv": 0.0397
+   },
+   "despues": {
+    "n": 214,
+    "roi": 0.1317,
+    "se": 0.0702,
+    "clv": 0.0517
+   },
+   "total": {
+    "roi": 0.0812,
+    "se": 0.026,
+    "clv": 0.0414
+   },
+   "buena": false,
+   "prometedora": true
+  },
+  {
+   "estrategia": "favorito local (Pinnacle ≥ 60 %) a b365",
+   "n": 9315,
+   "antes": {
+    "n": 5099,
+    "roi": -0.0255,
+    "se": 0.0086,
+    "clv": -0.0448
+   },
+   "despues": {
+    "n": 4216,
+    "roi": -0.0084,
+    "se": 0.0094,
+    "clv": -0.0442
+   },
+   "total": {
+    "roi": -0.0177,
+    "se": 0.0063,
+    "clv": -0.0445
+   },
+   "buena": false,
+   "prometedora": false
+  },
+  {
+   "estrategia": "valor más/menos 2.5 mejor >2%",
+   "n": 2080,
+   "antes": {
+    "n": 488,
+    "roi": 0.0544,
+    "se": 0.0498,
+    "clv": 0.0418
+   },
+   "despues": {
+    "n": 1592,
+    "roi": 0.0294,
+    "se": 0.0297,
+    "clv": 0.036
+   },
+   "total": {
+    "roi": 0.0353,
+    "se": 0.0256,
+    "clv": 0.0374
+   },
+   "buena": false,
+   "prometedora": false
+  },
+  {
+   "estrategia": "siempre el favorito a la mejor cuota",
+   "n": 60139,
+   "antes": {
+    "n": 32308,
+    "roi": -0.0206,
+    "se": 0.0056,
+    "clv": -0.027
+   },
+   "despues": {
+    "n": 27831,
+    "roi": -0.0241,
+    "se": 0.006,
+    "clv": -0.0371
+   },
+   "total": {
+    "roi": -0.0222,
+    "se": 0.0041,
+    "clv": -0.0317
+   },
+   "buena": false,
+   "prometedora": false
+  },
+  {
+   "estrategia": "empate en partidos igualados a b365",
+   "n": 11198,
+   "antes": {
+    "n": 5961,
+    "roi": 0.0164,
+    "se": 0.0193,
+    "clv": -0.0415
+   },
+   "despues": {
+    "n": 5237,
+    "roi": -0.0115,
+    "se": 0.0207,
+    "clv": -0.0312
+   },
+   "total": {
+    "roi": 0.0034,
+    "se": 0.0141,
+    "clv": -0.0367
+   },
+   "buena": false,
+   "prometedora": false
+  },
+  {
+   "estrategia": "valor más/menos 2.5 mejor >4%",
+   "n": 521,
+   "antes": {
+    "n": 104,
+    "roi": 0.0418,
+    "se": 0.1116,
+    "clv": 0.0776
+   },
+   "despues": {
+    "n": 417,
+    "roi": 0.0783,
+    "se": 0.0661,
+    "clv": 0.065
+   },
+   "total": {
+    "roi": 0.0711,
+    "se": 0.0574,
+    "clv": 0.0675
+   },
+   "buena": false,
+   "prometedora": false
+  },
+  {
+   "estrategia": "valor 1X2 mejor >5% cuotas ≤2.5",
+   "n": 396,
+   "antes": {
+    "n": 315,
+    "roi": 0.1321,
+    "se": 0.059,
+    "clv": 0.0679
+   },
+   "despues": {
+    "n": 81,
+    "roi": 0.1791,
+    "se": 0.1167,
+    "clv": 0.09
+   },
+   "total": {
+    "roi": 0.1417,
+    "se": 0.0526,
+    "clv": 0.0725
+   },
+   "buena": false,
+   "prometedora": true
+  },
+  {
+   "estrategia": "valor 1X2 mejor >8% cuotas ≤2.5",
+   "n": 112,
+   "antes": {
+    "n": 70,
+    "roi": 0.2867,
+    "se": 0.1294,
+    "clv": 0.0989
+   },
+   "despues": {
+    "n": 42,
+    "roi": 0.2493,
+    "se": 0.1631,
+    "clv": 0.1165
+   },
+   "total": {
+    "roi": 0.2727,
+    "se": 0.101,
+    "clv": 0.1055
+   },
+   "buena": false,
+   "prometedora": true
+  },
+  {
+   "estrategia": "valor 1X2 mejor >3% solo empates",
+   "n": 1563,
+   "antes": {
+    "n": 907,
+    "roi": 0.0566,
+    "se": 0.0657,
+    "clv": 0.034
+   },
+   "despues": {
+    "n": 656,
+    "roi": 0.0513,
+    "se": 0.0706,
+    "clv": 0.0195
+   },
+   "total": {
+    "roi": 0.0543,
+    "se": 0.0483,
+    "clv": 0.0279
+   },
+   "buena": false,
+   "prometedora": false
+  },
+  {
+   "estrategia": "valor 1X2 b365 >2% cuotas todas",
+   "n": 4853,
+   "antes": {
+    "n": 2961,
+    "roi": -0.0138,
+    "se": 0.0434,
+    "clv": 0.0312
+   },
+   "despues": {
+    "n": 1892,
+    "roi": 0.0136,
+    "se": 0.0532,
+    "clv": 0.011
+   },
+   "total": {
+    "roi": -0.0031,
+    "se": 0.0336,
+    "clv": 0.0233
+   },
+   "buena": false,
+   "prometedora": false
+  },
+  {
+   "estrategia": "valor 1X2 mejor >3% sin top-5",
+   "n": 464,
+   "antes": {
+    "n": 330,
+    "roi": 0.1155,
+    "se": 0.057,
+    "clv": 0.0458
+   },
+   "despues": {
+    "n": 134,
+    "roi": 0.08,
+    "se": 0.0912,
+    "clv": 0.0695
+   },
+   "total": {
+    "roi": 0.1052,
+    "se": 0.0483,
+    "clv": 0.0527
+   },
+   "buena": false,
+   "prometedora": true
+  },
+  {
+   "estrategia": "valor 1X2 b365 >3% cuotas todas",
+   "n": 3409,
+   "antes": {
+    "n": 2090,
+    "roi": 0.002,
+    "se": 0.0551,
+    "clv": 0.0396
+   },
+   "despues": {
+    "n": 1319,
+    "roi": 0.0326,
+    "se": 0.0679,
+    "clv": 0.0136
+   },
+   "total": {
+    "roi": 0.0138,
+    "se": 0.0428,
+    "clv": 0.0295
+   },
+   "buena": false,
+   "prometedora": false
+  },
+  {
+   "estrategia": "valor 1X2 mejor >2% cuotas todas",
+   "n": 11097,
+   "antes": {
+    "n": 7355,
+    "roi": -0.0012,
+    "se": 0.0272,
+    "clv": 0.0421
+   },
+   "despues": {
+    "n": 3742,
+    "roi": -0.0355,
+    "se": 0.0377,
+    "clv": 0.0283
+   },
+   "total": {
+    "roi": -0.0128,
+    "se": 0.022,
+    "clv": 0.0374
+   },
+   "buena": false,
+   "prometedora": false
+  },
+  {
+   "estrategia": "valor 1X2 b365 >3% solo empates",
+   "n": 976,
+   "antes": {
+    "n": 525,
+    "roi": 0.0481,
+    "se": 0.0874,
+    "clv": 0.0276
+   },
+   "despues": {
+    "n": 451,
+    "roi": 0.0656,
+    "se": 0.089,
+    "clv": 0.0163
+   },
+   "total": {
+    "roi": 0.0562,
+    "se": 0.0624,
+    "clv": 0.0224
+   },
+   "buena": false,
+   "prometedora": false
+  },
+  {
+   "estrategia": "valor 1X2 mejor >3% cuotas ≤2.5",
+   "n": 942,
+   "antes": {
+    "n": 801,
+    "roi": 0.1187,
+    "se": 0.0358,
+    "clv": 0.0518
+   },
+   "despues": {
+    "n": 141,
+    "roi": 0.0606,
+    "se": 0.0883,
+    "clv": 0.0695
+   },
+   "total": {
+    "roi": 0.11,
+    "se": 0.0332,
+    "clv": 0.0544
+   },
+   "buena": false,
+   "prometedora": true
+  },
+  {
+   "estrategia": "visitante no favorito 2.5-4 a b365",
+   "n": 25009,
+   "antes": {
+    "n": 13675,
+    "roi": -0.0792,
+    "se": 0.0126,
+    "clv": -0.0554
+   },
+   "despues": {
+    "n": 11334,
+    "roi": -0.0929,
+    "se": 0.0136,
+    "clv": -0.0781
+   },
+   "total": {
+    "roi": -0.0854,
+    "se": 0.0092,
+    "clv": -0.0657
+   },
+   "buena": false,
+   "prometedora": false
+  },
+  {
+   "estrategia": "valor 1X2 mejor >3% cuotas todas",
+   "n": 7896,
+   "antes": {
+    "n": 5193,
+    "roi": 0.023,
+    "se": 0.0353,
+    "clv": 0.0529
+   },
+   "despues": {
+    "n": 2703,
+    "roi": -0.0307,
+    "se": 0.047,
+    "clv": 0.0379
+   },
+   "total": {
+    "roi": 0.0046,
+    "se": 0.0282,
+    "clv": 0.0478
+   },
+   "buena": false,
+   "prometedora": false
+  },
+  {
+   "estrategia": "valor 1X2 b365 >5% cuotas todas",
+   "n": 1800,
+   "antes": {
+    "n": 1100,
+    "roi": -0.0206,
+    "se": 0.082,
+    "clv": 0.0575
+   },
+   "despues": {
+    "n": 700,
+    "roi": 0.0538,
+    "se": 0.1038,
+    "clv": 0.021
+   },
+   "total": {
+    "roi": 0.0083,
+    "se": 0.0643,
+    "clv": 0.0433
+   },
+   "buena": false,
+   "prometedora": false
+  },
+  {
+   "estrategia": "valor más/menos 2.5 b365 >2%",
+   "n": 151,
+   "antes": null,
+   "despues": {
+    "n": 143,
+    "roi": 0.0862,
+    "se": 0.1272,
+    "clv": 0.0584
+   },
+   "total": {
+    "roi": 0.078,
+    "se": 0.1227,
+    "clv": 0.0571
+   },
+   "buena": false,
+   "prometedora": false
+  },
+  {
+   "estrategia": "valor 1X2 mejor >5% cuotas todas",
+   "n": 4378,
+   "antes": {
+    "n": 2767,
+    "roi": 0.0185,
+    "se": 0.0542,
+    "clv": 0.0743
+   },
+   "despues": {
+    "n": 1611,
+    "roi": -0.0493,
+    "se": 0.0654,
+    "clv": 0.0546
+   },
+   "total": {
+    "roi": -0.0064,
+    "se": 0.0418,
+    "clv": 0.067
+   },
+   "buena": false,
+   "prometedora": false
+  },
+  {
+   "estrategia": "valor más/menos 2.5 b365 >4%",
+   "n": 85,
+   "antes": null,
+   "despues": {
+    "n": 83,
+    "roi": 0.0629,
+    "se": 0.175,
+    "clv": 0.1034
+   },
+   "total": {
+    "roi": 0.0379,
+    "se": 0.1717,
+    "clv": 0.1011
+   },
+   "buena": false,
+   "prometedora": false
+  },
+  {
+   "estrategia": "valor 1X2 b365 >8% cuotas todas",
+   "n": 790,
+   "antes": {
+    "n": 475,
+    "roi": 0.0017,
+    "se": 0.1437,
+    "clv": 0.0851
+   },
+   "despues": {
+    "n": 315,
+    "roi": 0.0568,
+    "se": 0.1768,
+    "clv": 0.0359
+   },
+   "total": {
+    "roi": 0.0237,
+    "se": 0.1115,
+    "clv": 0.0655
+   },
+   "buena": false,
+   "prometedora": false
+  },
+  {
+   "estrategia": "valor 1X2 mejor >8% cuotas todas",
+   "n": 2071,
+   "antes": {
+    "n": 1253,
+    "roi": -0.0188,
+    "se": 0.091,
+    "clv": 0.1004
+   },
+   "despues": {
+    "n": 818,
+    "roi": -0.1127,
+    "se": 0.0959,
+    "clv": 0.083
+   },
+   "total": {
+    "roi": -0.0559,
+    "se": 0.0668,
+    "clv": 0.0935
+   },
+   "buena": false,
+   "prometedora": false
+  },
+  {
+   "estrategia": "valor hándicap asiático b365 >3%",
+   "n": 41,
+   "antes": null,
+   "despues": {
+    "n": 33,
+    "roi": -0.21,
+    "se": 0.1737,
+    "clv": 0.0492
+   },
+   "total": {
+    "roi": -0.0734,
+    "se": 0.1584,
+    "clv": 0.0411
+   },
+   "buena": false,
+   "prometedora": false
+  },
+  {
+   "estrategia": "valor 1X2 b365 >2% cuotas ≤2.5",
+   "n": 34,
+   "antes": null,
+   "despues": null,
+   "total": {
+    "roi": -0.0782,
+    "se": 0.1935,
+    "clv": 0.0147
+   },
+   "buena": false,
+   "prometedora": false
+  },
+  {
+   "estrategia": "valor 1X2 mejor >3% solo top-5",
+   "n": 478,
+   "antes": {
+    "n": 471,
+    "roi": 0.1209,
+    "se": 0.046,
+    "clv": 0.056
+   },
+   "despues": null,
+   "total": {
+    "roi": 0.1146,
+    "se": 0.0456,
+    "clv": 0.0562
+   },
+   "buena": false,
+   "prometedora": false
+  }
+ ]
+}

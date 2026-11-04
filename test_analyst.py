@@ -1244,3 +1244,9 @@ try:
     assert _VP.settle(_st) == 1 and _st["signals"][0]["result"] is True and _st["signals"][0]["score"] == "2-0"
 finally: _VP._results = _rs
 print("ok valor contra Pinnacle")
+# laboratorio de estrategias: métricas por periodo y veredicto
+import laboratorio as _LB
+_Dl = pd.DataFrame({"Date": pd.to_datetime(["2016-01-01"] * 40 + ["2023-01-01"] * 40)})
+_r = _LB.run_strategy(_Dl, "prueba", [(pd.Series([True] * 80), pd.Series([2.0] * 80), pd.Series([True, False, True] * 26 + [True, True]), pd.Series([0.5] * 80))])
+assert _r["antes"]["n"] == 40 and _r["despues"]["n"] == 40 and _r["total"]["clv"] == 0.0 and "prometedora" in _r
+print("ok laboratorio")
