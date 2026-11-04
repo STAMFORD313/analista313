@@ -11,7 +11,9 @@
     "away": "Real Madrid",
     "txt": "Más de 4.5 córners de AEK Athens",
     "odds": 3.1,
-    "p": 0.3978663854939434
+    "p": 0.3978663854939434,
+    "ok": false,
+    "por": "hubo 0 córners de AEK Athens"
    },
    {
     "code": null,
@@ -20,7 +22,9 @@
     "away": "Real Madrid",
     "txt": "Menos de 4.5 córners de Real Madrid",
     "odds": 2.9,
-    "p": 0.4025805667472062
+    "p": 0.4025805667472062,
+    "ok": false,
+    "por": "hubo 7 córners de Real Madrid"
    },
    {
     "code": null,
@@ -29,7 +33,9 @@
     "away": "Real Madrid",
     "txt": "Más de 1.5 tarjetas de Real Madrid",
     "odds": 2.32,
-    "p": 0.47977268997406985
+    "p": 0.47977268997406985,
+    "ok": false,
+    "por": "hubo 1 tarjetas de Real Madrid"
    },
    {
     "code": null,
@@ -38,15 +44,17 @@
     "away": "Real Madrid",
     "txt": "Más de 1.5 tarjetas de AEK Athens",
     "odds": 1.7,
-    "p": 0.5580797835091764
+    "p": 0.5580797835091764,
+    "ok": true,
+    "por": "hubo 2 tarjetas de AEK Athens"
    }
   ],
   "odds": 35.46,
   "p": 0.04288662485305556,
   "stake": 1.0,
-  "estado": "pendiente",
-  "avisada": false,
-  "rev": 1
+  "estado": "perdida",
+  "avisada": true,
+  "rev": 2
  },
  {
   "id": "20261104132334",
@@ -61,7 +69,9 @@
     "p": 0.45777067948086386,
     "odds": null,
     "txt": "Más de 0.5 goles",
-    "jugador": "Kylian Mbappé"
+    "jugador": "Kylian Mbappé",
+    "ok": true,
+    "por": "Kylian Mbappé: 1 goles"
    },
    {
     "code": null,
@@ -71,7 +81,9 @@
     "p": 0.16706775741262858,
     "odds": null,
     "txt": "Más de 0.5 goles",
-    "jugador": "Vinícius Júnior"
+    "jugador": "Vinícius Júnior",
+    "ok": false,
+    "por": "Vinícius Júnior: 0 goles"
    },
    {
     "code": null,
@@ -81,7 +93,9 @@
     "p": 0.23494606583458205,
     "odds": null,
     "txt": "Más de 2.5 tiros a puerta",
-    "jugador": "Kylian Mbappé"
+    "jugador": "Kylian Mbappé",
+    "ok": true,
+    "por": "Kylian Mbappé: 3 tiros a puerta"
    },
    {
     "code": null,
@@ -91,7 +105,9 @@
     "p": 0.36178015192870844,
     "odds": null,
     "txt": "Más de 0.5 tiros a puerta",
-    "jugador": "Yan Diomande"
+    "jugador": "Yan Diomande",
+    "ok": false,
+    "por": "Yan Diomande: 0 tiros a puerta"
    },
    {
     "code": null,
@@ -101,7 +117,9 @@
     "p": 0.4105424086247186,
     "odds": null,
     "txt": "Más de 0.5 tiros a puerta",
-    "jugador": "Jude Bellingham"
+    "jugador": "Jude Bellingham",
+    "ok": true,
+    "por": "Jude Bellingham: 1 tiros a puerta"
    },
    {
     "code": null,
@@ -110,7 +128,9 @@
     "away": "Real Madrid",
     "txt": "Gana Real Madrid",
     "odds": null,
-    "p": 0.5406
+    "p": 0.5406,
+    "ok": true,
+    "por": "acabó 2-3"
    },
    {
     "code": null,
@@ -119,7 +139,9 @@
     "away": "Real Madrid",
     "p": 0.7032929857081511,
     "odds": null,
-    "txt": "Más de 7.5 córners"
+    "txt": "Más de 7.5 córners",
+    "ok": false,
+    "por": "hubo 7 córners"
    },
    {
     "code": null,
@@ -128,7 +150,9 @@
     "away": "Real Madrid",
     "p": 0.9845615492771116,
     "odds": null,
-    "txt": "Más de 0.5 tarjetas"
+    "txt": "Más de 0.5 tarjetas",
+    "ok": true,
+    "por": "hubo 3 tarjetas"
    },
    {
     "code": null,
@@ -138,15 +162,17 @@
     "p": null,
     "odds": null,
     "txt": "Más de 1.5 faltas recibidas",
-    "jugador": "Jude Bellingham"
+    "jugador": "Jude Bellingham",
+    "ok": true,
+    "por": "Jude Bellingham: 3 faltas recibidas"
    }
   ],
   "odds": 14.0,
   "p": 0.0005390818698748012,
   "stake": 1.0,
-  "estado": "pendiente",
-  "avisada": false,
-  "rev": 1
+  "estado": "perdida",
+  "avisada": true,
+  "rev": 2
  },
  {
   "id": "20261104132953",
@@ -161,7 +187,9 @@
     "p": 0.45778048237591534,
     "odds": null,
     "txt": "Más de 0.5 goles",
-    "jugador": "Kylian Mbappé"
+    "jugador": "Kylian Mbappé",
+    "ok": true,
+    "por": "Kylian Mbappé: 1 goles"
    },
    {
     "code": null,
@@ -171,7 +199,9 @@
     "p": 0.16707325320966812,
     "odds": null,
     "txt": "Más de 0.5 goles",
-    "jugador": "Vinícius Júnior"
+    "jugador": "Vinícius Júnior",
+    "ok": false,
+    "por": "Vinícius Júnior: 0 goles"
    },
    {
     "code": null,
@@ -181,7 +211,9 @@
     "p": 0.23497412843120813,
     "odds": null,
     "txt": "Más de 2.5 tiros a puerta",
-    "jugador": "Kylian Mbappé"
+    "jugador": "Kylian Mbappé",
+    "ok": true,
+    "por": "Kylian Mbappé: 3 tiros a puerta"
    },
    {
     "code": null,
@@ -191,7 +223,9 @@
     "p": 0.3618033837332786,
     "odds": null,
     "txt": "Más de 0.5 tiros a puerta",
-    "jugador": "Yan Diomande"
+    "jugador": "Yan Diomande",
+    "ok": false,
+    "por": "Yan Diomande: 0 tiros a puerta"
    },
    {
     "code": null,
@@ -201,7 +235,9 @@
     "p": 0.41056675735747267,
     "odds": null,
     "txt": "Más de 0.5 tiros a puerta",
-    "jugador": "Jude Bellingham"
+    "jugador": "Jude Bellingham",
+    "ok": true,
+    "por": "Jude Bellingham: 1 tiros a puerta"
    },
    {
     "code": null,
@@ -210,7 +246,9 @@
     "away": "Real Madrid",
     "txt": "Gana Real Madrid",
     "odds": null,
-    "p": 0.5406
+    "p": 0.5406,
+    "ok": true,
+    "por": "acabó 2-3"
    },
    {
     "code": null,
@@ -219,7 +257,9 @@
     "away": "Real Madrid",
     "p": 0.7032929857081511,
     "odds": null,
-    "txt": "Más de 7 córners"
+    "txt": "Más de 7 córners",
+    "ok": false,
+    "por": "hubo 7 córners"
    },
    {
     "code": null,
@@ -228,7 +268,9 @@
     "away": "Real Madrid",
     "p": 0.9845615492771116,
     "odds": null,
-    "txt": "Más de 0 tarjetas"
+    "txt": "Más de 0 tarjetas",
+    "ok": true,
+    "por": "hubo 3 tarjetas"
    },
    {
     "code": null,
@@ -238,15 +280,17 @@
     "p": 0.6666667150608692,
     "odds": null,
     "txt": "Más de 1.5 faltas recibidas",
-    "jugador": "Jude Bellingham"
+    "jugador": "Jude Bellingham",
+    "ok": true,
+    "por": "Jude Bellingham: 3 faltas recibidas"
    }
   ],
   "odds": 14.0,
   "p": 0.0003594947886675118,
   "stake": 1.0,
-  "estado": "pendiente",
-  "avisada": false,
-  "rev": 1
+  "estado": "perdida",
+  "avisada": true,
+  "rev": 2
  },
  {
   "id": "20261104140841",
@@ -261,7 +305,9 @@
     "p": 0.45772536852779094,
     "odds": null,
     "txt": "Más de 0.5 goles",
-    "jugador": "Kylian Mbappé"
+    "jugador": "Kylian Mbappé",
+    "ok": true,
+    "por": "Kylian Mbappé: 1 goles"
    },
    {
     "code": null,
@@ -271,7 +317,9 @@
     "p": 0.16704235637265993,
     "odds": null,
     "txt": "Más de 0.5 goles",
-    "jugador": "Vinícius Júnior"
+    "jugador": "Vinícius Júnior",
+    "ok": false,
+    "por": "Vinícius Júnior: 0 goles"
    },
    {
     "code": null,
@@ -281,7 +329,9 @@
     "p": 0.23484077338313197,
     "odds": null,
     "txt": "Más de 2.5 tiros a puerta",
-    "jugador": "Kylian Mbappé"
+    "jugador": "Kylian Mbappé",
+    "ok": true,
+    "por": "Kylian Mbappé: 3 tiros a puerta"
    },
    {
     "code": null,
@@ -291,7 +341,9 @@
     "p": 0.3617215132499459,
     "odds": null,
     "txt": "Más de 0.5 tiros a puerta",
-    "jugador": "Yan Diomande"
+    "jugador": "Yan Diomande",
+    "ok": false,
+    "por": "Yan Diomande: 0 tiros a puerta"
    },
    {
     "code": null,
@@ -301,7 +353,9 @@
     "p": 0.4104809496794791,
     "odds": null,
     "txt": "Más de 0.5 tiros a puerta",
-    "jugador": "Jude Bellingham"
+    "jugador": "Jude Bellingham",
+    "ok": true,
+    "por": "Jude Bellingham: 1 tiros a puerta"
    },
    {
     "code": null,
@@ -310,7 +364,9 @@
     "away": "Real Madrid",
     "txt": "Gana Real Madrid",
     "odds": null,
-    "p": 0.5406
+    "p": 0.5406,
+    "ok": true,
+    "por": "acabó 2-3"
    },
    {
     "code": null,
@@ -319,7 +375,9 @@
     "away": "Real Madrid",
     "p": 0.7032929857081511,
     "odds": null,
-    "txt": "Más de 7.5 córners"
+    "txt": "Más de 7.5 córners",
+    "ok": false,
+    "por": "hubo 7 córners"
    },
    {
     "code": null,
@@ -329,15 +387,17 @@
     "p": 0.6665422168398683,
     "odds": null,
     "txt": "Más de 1.5 faltas recibidas",
-    "jugador": "Jude Bellingham"
+    "jugador": "Jude Bellingham",
+    "ok": true,
+    "por": "Jude Bellingham: 3 faltas recibidas"
    }
   ],
   "odds": 14.0,
   "p": 0.00036458634554613226,
   "stake": 1.0,
-  "estado": "pendiente",
-  "avisada": false,
-  "rev": 1
+  "estado": "perdida",
+  "avisada": true,
+  "rev": 2
  },
  {
   "id": "20261104191319629731",
