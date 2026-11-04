@@ -85,6 +85,20 @@ def legs(hours=48, sports=None):
     return out
 
 
+def euro_probs(home, away, days=5):
+    """1X2 del bot (Elo de Champions/Europa League, data/espn/odds_ucl|uel.csv) de un partido europeo, o None. El modelo de
+    goles del chat no sirve entre ligas distintas (el AEK golea en Grecia y parecería igual que el Madrid)."""
+    now = pd.Timestamp.now(tz="UTC")
+    for lg in ("ucl", "uel", "uecl"):
+        d = _latest(A.DATA / "espn" / f"odds_{lg}.csv")
+        if not len(d) or "pd" not in d: continue
+        for r in d.itertuples():
+            if abs((pd.Timestamp(r.start) - now).days) > days or pd.isna(r.p) or pd.isna(r.pd): continue
+            if A.find_team(home, [r.home]) and A.find_team(away, [r.away]):
+                return {"H": float(r.p), "D": float(r.pd), "A": float(1 - r.p - r.pd), "home": r.home, "away": r.away}
+    return None
+
+
 # ── Pinnacle: probabilidad del mercado sin margen (la casa más afinada; pinnacle.py) ────────────────────────────────
 PIN_FILE = {"espn:nba": "baloncesto", "espn:nhl": "hockey", "espn:nfl": "americano", "espn:mlb": "beisbol"}
 _PIN = {}

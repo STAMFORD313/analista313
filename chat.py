@@ -763,11 +763,13 @@ def slip_leg(leg, D):
                 return p, f"{A.esc(txt)}: <b>{p:.0%}</b> según el modelo del bot", dict(src=l["src"], side=l["side"] if p == pfav else
                          ("A" if l["side"] == "H" else "H"), start=l["start"], home=l["home"], away=l["away"], txt=f"Gana {eq or fav}",
                          odds=leg.get("cuota"), p=p)
-        if len(ks) == 2 and D[ks[0]]["sport"] == "futbol":  # fútbol: el 1X2 del chat (goles esperados + Dixon-Coles)
-            m = exp_pair(ks[0], ks[1], D, "goles")
+        if len(ks) == 2 and D[ks[0]]["sport"] == "futbol":  # fútbol: Elo europeo del bot o el 1X2 del chat (goles + Dixon-Coles)
+            P = multideporte.euro_probs(D[ks[0]]["name"], D[ks[1]]["name"])
+            m = None if P else exp_pair(ks[0], ks[1], D, "goles")
             if m:
                 P = A.probs(max(m[0] * HFA["futbol"], 0.05), max(m[1] / HFA["futbol"], 0.05)); t = P["H"] + P["D"] + P["A"]
                 P = {k: P[k] / t for k in ("H", "D", "A")}
+            if P:
                 h, a = D[ks[0]]["name"], D[ks[1]]["name"]
                 if tipo == "empate": p, tx = P["D"], "Empate"
                 elif tipo == "doble_oportunidad":
@@ -811,9 +813,12 @@ def analyze_slip(slip, D=None):
 def winner(kh, ka, D, odds=None, pick=None):
     h, a, sp = D[kh], D[ka], D[kh]["sport"]
     stat = "puntos" if sp == "nba" else "goles"
-    m = exp_pair(kh, ka, D, stat)
-    if not m: return f"Pocos datos de {A.esc(h['name'])} o {A.esc(a['name'])} para opinar."
-    if sp == "nba":
+    import multideporte
+    eu = multideporte.euro_probs(h["name"], a["name"]) if sp == "futbol" else None
+    m = None if eu else exp_pair(kh, ka, D, stat)
+    if not (m or eu): return f"Pocos datos de {A.esc(h['name'])} o {A.esc(a['name'])} para opinar."
+    if eu: P = {k: eu[k] for k in ("H", "D", "A")}  # partido europeo: Elo de Champions/Europa League del bot
+    elif sp == "nba":
         ph = float(SS.norm.sf(0, loc=m[0] - m[1] + NBA_HOME, scale=NBA_SD)); P = {"H": ph, "D": 0.0, "A": 1 - ph}
     else:
         P = A.probs(max(m[0] * HFA[sp], 0.05), max(m[1] / HFA[sp], 0.05)); t = P["H"] + P["D"] + P["A"]
