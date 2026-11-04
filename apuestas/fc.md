@@ -1,42 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 04/11/2026 15:25 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## dm1trena vs Edwardson — 04/11 · 15:28
-
-👀 candidata · 🎮⚽ FC 27 · LaLiga · **Gana Edwardson** @ **2.65** (Unibet) · prob 38% vs casas 33% · ventaja +1%
-
-- ❌ Valor: ventaja +1% (mín. 8% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 55.896 partidos)  
-Goles esperados: dm1trena 2.44 · Edwardson 2.39  
-Ganador: dm1trena 40% · empate 22% · Edwardson 38%  
-Total: más de 4.5 goles 53% · menos 47%  
-Hándicap dm1trena: −1.5 25% · −2.5 13%  
-🔎 **Claves**  
-• Forma: dm1trena ➖❌❌✅➖ | Edwardson ➖✅❌✅➖  
-• Partidos: dm1trena 997 | Edwardson 1153  
-• Liga: LaLiga  
-• Unibet: 1 2.35 · X 2.85 · 2 2.65 (sin margen 37%/30%/33%) · ventaja +1%. Sin stake hasta demostrar ROI con estas cuotas.  
-
-## Shinobu vs spirtes — 04/11 · 15:28
-
-👀 candidata · 🎮⚽ FC 27 · Eredivisie · **Gana Shinobu** @ **2.43** (Unibet) · prob 40% vs casas 36% · ventaja -2%
-
-- ❌ Valor: ventaja -2% (mín. 8% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 55.896 partidos)  
-Goles esperados: Shinobu 2.67 · spirtes 2.61  
-Ganador: Shinobu 40% · empate 21% · spirtes 39%  
-Total: más de 5.5 goles 43% · menos 57%  
-Hándicap Shinobu: −1.5 26% · −2.5 14%  
-🔎 **Claves**  
-• Forma: Shinobu ❌➖✅➖✅ | spirtes ❌❌✅➖➖  
-• Partidos: Shinobu 1192 | spirtes 884  
-• Liga: Eredivisie  
-• Unibet: 1 2.43 · X 3.65 · 2 2.14 (sin margen 36%/24%/41%) · ventaja -2%. Sin stake hasta demostrar ROI con estas cuotas.  
+Actualizado 04/11/2026 15:30 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## w1nkos vs Maslja — 04/11 · 15:34
 
@@ -128,21 +92,57 @@ Hándicap Animal: −1.5 41% · −2.5 28%
 • Liga: Champions League B  
 • Unibet: 1 2.70 · X 4.30 · 2 1.84 (sin margen 32%/20%/47%) · ventaja +7%. Sin stake hasta demostrar ROI con estas cuotas.  
 
-## Buu vs cappo — 04/11 · 15:42
+## pikalicaaa vs Firminho — 04/11 · 15:49
 
-👀 candidata · 🎮⚽ FC 27 · International A 2x6 · **Empate** @ **8.00** (Unibet) · prob 12% vs casas 11% · ventaja -1%
+👀 candidata · 🎮⚽ FC 27 · Europa League · **Empate** @ **6.25** (Unibet) · prob 17% vs casas 14% · ventaja +5%
 
-- ❌ Valor: ventaja -1% (mín. 8% con la incertidumbre, máx. 30%)
+- ❌ Valor: ventaja +5% (mín. 10% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
 
 📊 **Escenarios** (Poisson por jugador, 55.896 partidos)  
-Goles esperados: Buu 5.75 · cappo 4.43  
-Ganador: Buu 64% · empate 12% · cappo 24%  
-Total: más de 10.5 goles 44% · menos 56%  
-Hándicap Buu: −1.5 47% · −2.5 35%  
+Goles esperados: pikalicaaa 2.47 · Firminho 3.56  
+Ganador: pikalicaaa 21% · empate 17% · Firminho 62%  
+Total: más de 6.5 goles 40% · menos 60%  
+Hándicap Firminho: −1.5 43% · −2.5 27%  
 🔎 **Claves**  
-• Forma: Buu ❌❌✅❌❌ | cappo ❌❌❌❌❌  
-• Partidos: Buu 663 | cappo 248  
-• Liga: International A 2x6  
-• Unibet: 1 1.37 · X 8.00 · 2 3.40 (sin margen 64%/11%/26%) · ventaja -1%. Sin stake hasta demostrar ROI con estas cuotas.  
+• Forma: pikalicaaa ➖✅❌❌❌ | Firminho ✅❌❌❌❌  
+• Partidos: pikalicaaa 543 | Firminho 688  
+• Liga: Europa League  
+• Unibet: 1 3.75 · X 6.25 · 2 1.37 (sin margen 23%/14%/63%) · ventaja +5%. Sin stake hasta demostrar ROI con estas cuotas.  
+
+## chevare vs lzrn — 04/11 · 15:52
+
+👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana chevare** @ **1.93** (Unibet) · prob 56% vs casas 45% · ventaja +8%
+
+- ❌ Valor: ventaja +8% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 55.896 partidos)  
+Goles esperados: chevare 3.84 · lzrn 3.06  
+Ganador: chevare 56% · empate 17% · lzrn 28%  
+Total: más de 6.5 goles 53% · menos 47%  
+Hándicap chevare: −1.5 39% · −2.5 25%  
+🔎 **Claves**  
+• Forma: chevare ❌➖✅✅❌ | lzrn ✅➖❌❌➖  
+• Partidos: chevare 528 | lzrn 743  
+• Liga: Champions League B  
+• Unibet: 1 1.93 · X 4.40 · 2 2.50 (sin margen 45%/20%/35%) · ventaja +8%. Sin stake hasta demostrar ROI con estas cuotas.  
+
+## Animal vs llulle — 04/11 · 15:52
+
+👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana Animal** @ **1.96** (Unibet) · prob 54% vs casas 44% · ventaja +5%
+
+- ❌ Valor: ventaja +5% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 55.896 partidos)  
+Goles esperados: Animal 3.61 · llulle 2.92  
+Ganador: Animal 54% · empate 17% · llulle 29%  
+Total: más de 6.5 goles 48% · menos 52%  
+Hándicap Animal: −1.5 37% · −2.5 23%  
+🔎 **Claves**  
+• Forma: Animal ✅✅✅➖✅ | llulle ❌❌✅❌✅  
+• Partidos: Animal 768 | llulle 817  
+• Liga: Champions League B  
+• Unibet: 1 1.96 · X 3.85 · 2 2.63 (sin margen 44%/23%/33%) · ventaja +5%. Sin stake hasta demostrar ROI con estas cuotas.  
 
