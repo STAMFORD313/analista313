@@ -574,7 +574,7 @@ def long_combo(D, target, hours=48):
         if best:
             loc = t.tz_convert(TZ)
             cands.append((f"{A.esc(home)} – {A.esc(away)} · {DIAS[loc.dayofweek]} {loc:%H:%M}", t, *best))
-    print(f"combinada larga: {len(matches)} partidos, {priced} con cuotas de Unibet, {len(cands)} piernas con ventaja")
+    print(f"combinada larga: {len(matches)} partidos, {priced} con cuotas de Unibet, {len(cands)} piernas candidatas")
     value = [c for c in cands if c[2] >= LONG_EDGE]
     pool = value if len(value) >= 2 else cands  # sin ventaja suficiente: la menos mala, avisando de lo que se pierde
     legs, odds, p = [], 1.0, 1.0
