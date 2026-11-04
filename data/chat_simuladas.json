@@ -338,5 +338,56 @@
   "estado": "pendiente",
   "avisada": false,
   "rev": 1
+ },
+ {
+  "id": "20261104191319629731",
+  "creada": "2026-11-04 19:13:19.629799+00:00",
+  "titulo": "Combinada cuota 18.7",
+  "legs": [
+   {
+    "code": "ucl",
+    "start": "2026-11-04 20:00:00+00:00",
+    "home": "FC Porto",
+    "away": "Napoli",
+    "txt": "Menos de 3.5 tarjetas",
+    "odds": 2.16,
+    "p": 0.466164686130091
+   },
+   {
+    "src": "esports:cs2",
+    "side": "H",
+    "code": null,
+    "start": "2026-11-04 21:00:00+00:00",
+    "home": "BORRACHEIROS",
+    "away": "ALKA",
+    "txt": "Gana BORRACHEIROS",
+    "odds": 2.3,
+    "p": 0.5001550724637681
+   },
+   {
+    "code": null,
+    "start": "2026-11-05 18:00:00+00:00",
+    "home": "Belgrano",
+    "away": "Platense",
+    "txt": "Gana Belgrano",
+    "odds": 1.85,
+    "p": 0.5777
+   },
+   {
+    "code": null,
+    "start": "2026-11-05 18:00:00+00:00",
+    "home": "Defensa y Justicia",
+    "away": "Boca Juniors",
+    "txt": "Gana Boca Juniors",
+    "odds": 2.04,
+    "p": 0.5117
+   }
+  ],
+  "odds": 18.75,
+  "p": 0.06892262870460752,
+  "stake": 1.0,
+  "estado": "pendiente",
+  "avisada": false,
+  "rev": 1
  }
 ]
