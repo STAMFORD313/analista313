@@ -17,5 +17,6 @@ jobs:
         continue-on-error: true
       - run: python menu.py
         env:
+          PYTHONUNBUFFERED: "1"   # que los errores salgan en el log al momento
           TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
