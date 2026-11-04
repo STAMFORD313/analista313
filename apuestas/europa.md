@@ -1,23 +1,6 @@
 # 🏆 Champions·Europa · apuestas de valor
 
-Actualizado 04/11/2026 16:29 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Stade Rennais vs Olympiacos — 04/11 · 16:30
-
-👀 candidata · 🏆 Europa League · **Gana Stade Rennais** @ **2.15** (DraftKings) · prob 45% vs casas 45% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏆 no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo con 5.115 partidos y bajas)  
-1 40% · X 21% · 2 39%  
-Casas: 1 45% · X 26% · 2 29%  
-Hándicap REN +115 · Total puntos 2.5  
-🔎 **Claves**  
-• Forma: Stade Rennais ❌❌➖✅➖ | Olympiacos ❌❌✅✅✅  
-• H2H: sin precedentes  
-• Bajas: Stade Rennais: sin bajas; Olympiacos: sin bajas  
-• Favorito de las casas: Stade Rennais @ 2.15  
+Actualizado 04/11/2026 16:34 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## AEK Athens vs Real Madrid — 04/11 · 18:45
 
