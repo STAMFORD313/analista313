@@ -1271,3 +1271,22 @@ try:
 finally: _CH.long_combo, _SM.FILE, _SM.push = _lc2, _smf5, _smp5; _SM._MEM.clear(); _CH._DB.clear(); _CH._DB["t"] = 0; _CH._CTX.clear()
 _CH.LAST_FILE.unlink(missing_ok=True)
 print("ok barrido de combinadas")
+# Smarkets: cuota efectiva tras comisión y paginación decodificada
+import smarkets as _SMK
+_g0 = _SMK.get
+_calls = []
+def _fg(path, **p):
+    _calls.append((path, p))
+    if path == "events/" and "pagination_last_id" not in p:
+        return {"events": [{"id": "1", "name": "Sevilla vs Getafe", "start_datetime": (pd.Timestamp.now(tz="UTC") + pd.Timedelta(hours=5)).strftime("%Y-%m-%dT%H:%M:%SZ")}],
+                "pagination": {"next_page": "?state=upcoming&start_datetime_min=2026-11-04T16%3A58%3A00Z&pagination_last_id=1"}}
+    if path == "events/": return {"events": [], "pagination": {}}
+    if path.startswith("events/1/markets"): return {"markets": [{"id": "9", "event_id": "1", "market_type": {"name": "WINNER_3_WAY"}}]}
+    if path.startswith("markets/9/contracts"): return {"contracts": [{"id": c, "market_id": "9", "contract_type": {"name": n}} for c, n in (("a", "HOME"), ("b", "DRAW"), ("c", "AWAY"))]}
+    return {"a": {"offers": [{"price": 5000, "quantity": 10**6}]}, "b": {"offers": [{"price": 2500, "quantity": 10**6}]}, "c": {"offers": [{"price": 2500, "quantity": 10**6}]}}
+_SMK.get = _fg
+try:
+    _o = _SMK.football_1x2(); assert _o[0]["odds"] == {"H": 1.98, "D": 3.94, "A": 3.94}, _o
+    assert any(p.get("start_datetime_min") == "2026-11-04T16:58:00Z" for _, p in _calls)
+finally: _SMK.get = _g0
+print("ok Smarkets")

@@ -28,7 +28,8 @@ def events(hours=48, max_pages=8):
             if now < t < now + pd.Timedelta(hours=hours) and " vs " in e["name"]: out.append((e["id"], t, *e["name"].split(" vs ", 1)))
         nxt = (d.get("pagination") or {}).get("next_page")
         if not nxt or not d.get("events"): break
-        params = dict(p.split("=", 1) for p in nxt.lstrip("?").split("&"))
+        from urllib.parse import parse_qsl
+        params = dict(parse_qsl(nxt.lstrip("?")))  # decodificado: si no, requests lo codifica dos veces (%253A)
     return out
 
 
