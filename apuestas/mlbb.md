@@ -1,6 +1,6 @@
 # 📱 MLBB · apuestas de valor
 
-Actualizado 04/11/2026 06:15 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 04/11/2026 06:41 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Alter Ego vs ONIC — 04/11 · 07:00
 
