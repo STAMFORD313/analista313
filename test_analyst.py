@@ -1335,3 +1335,23 @@ assert _r[0] == "🟢" and "70-64" in _r[1] and "Q3" in _r[1], _r
 _b[("nba", "20261104")] = [("1", "post", "Final", "Detroit Pistons", "Philadelphia 76ers", 101, 108)]
 assert _SL.live_other({"src": "espn:nba", "home": "Detroit Pistons", "away": "Philadelphia 76ers", "side": "H", "start": "2026-11-05T00:00:00+00:00"}, _b)[0] == "❌"
 print("ok directo NBA/NHL")
+
+import chat as _CH
+_mem0 = dict(_SL._MEM); _f0 = _SL.FILE; _SL.FILE = A.DATA / "_test_sim_quote.json"; _SL._MEM.clear()
+try:
+    _now = pd.Timestamp.now(tz="UTC")
+    _bt = lambda i, h, a: {"id": i, "creada": str(_now - pd.Timedelta(hours=5)), "titulo": "Tu boleto", "odds": 14.0, "stake": 1, "estado": "pendiente", "rev": 1,
+        "legs": [{"home": h, "away": a, "txt": "Más de 0.5 goles", "jugador": "Kylian Mbappé"}, {"home": h, "away": a, "txt": "Más de 7.5 córners"}]}
+    _SL.FILE.write_text(json.dumps([_bt("1", "AEK Athens", "Real Madrid"), _bt("2", "AEK Athens", "Real Madrid"), _bt("3", "FC Porto", "Napoli")]))
+    _gm = {"home": "AEK Athens", "away": "Real Madrid", "hs": 1, "as": 2, "estado": "in", "reloj": "80'",
+           "team_stats": {"h": {"wonCorners": 2, "totalShots": 5}, "a": {"wonCorners": 7, "totalShots": 14}},
+           "players": [["1", "Kylian Mbappé", "a", True, "F", 1, 0, 4, 3, 0, 0, 1, 0, 0, 0, 2]]}
+    _orig = _SL.live_game; _SL.live_game = lambda l, b: _gm if l["home"] == "AEK Athens" else None
+    _r = _CH.answer("Me refiero a esta", quoted="✅ Apuntada (simulada): Tu boleto AEK Athens – Real Madrid ↳ Kylian Mbappé: Más de 0.5 goles Cuota: 14.00")
+    assert "AEK Athens" in _r and "Porto" not in _r and _r.count("Tu boleto") == 1 and "✅" in _r and "lleva 9 córners" in _r and "80'" in _r, _r
+    _r = _CH.answer("Tu boleto AEK Athens – Real Madrid ↳ Kylian Mbappé: Más de 0.5 goles. Como va esta?")
+    assert "AEK Athens" in _r and "Porto" not in _r, _r
+    _SL.live_game = _orig
+finally:
+    _SL.FILE.unlink(missing_ok=True); _SL.FILE = _f0; _SL._MEM.clear(); _SL._MEM.update(_mem0)
+print("ok cómo va esta (citando el boleto)")

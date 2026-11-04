@@ -102,7 +102,8 @@ def main():
             elif msg and (msg.get("text") or msg.get("voice") or msg.get("audio")):  # frase libre o nota de voz (chat.py, sin IA)
                 try:
                     said = msg.get("text") or voz.from_message(msg)
-                    reply = charla.answer(said) if said else "🎤 No he entendido el audio, ¿me lo repites?"
+                    quoted = (msg.get("reply_to_message") or {}).get("text") or (msg.get("reply_to_message") or {}).get("caption")
+                    reply = charla.answer(said, quoted=quoted) if said else "🎤 No he entendido el audio, ¿me lo repites?"
                     if not msg.get("text") and said: reply = f"🎤 <i>«{A.esc(said)}»</i>\n\n{reply}"
                 except Exception as e:
                     import traceback; traceback.print_exc()

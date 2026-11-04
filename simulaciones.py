@@ -185,7 +185,7 @@ def _scoreboard(slug, day, sport="soccer"):
 
 def live_game(leg, boards):
     """Partido de ESPN de una pierna empezada: {home, away, hs, as, estado, reloj, team_stats, players} o None."""
-    day = pd.Timestamp(leg["start"])
+    day = pd.Timestamp(leg.get("start") or leg.get("ahora") or pd.Timestamp.now(tz="UTC"))  # boletos de foto: sin hora
     codes = [leg["code"]] if leg.get("code") in ES.LEAGUES else list(ES.LEAGUES)
     for code in codes:
         key = (code, f"{day:%Y%m%d}")
@@ -244,12 +244,32 @@ def live_leg(leg, g):
     return "⏳", why.replace("hubo", "lleva")
 
 
-def live(now=None, boards=None):
+def _norm(x):
+    import unicodedata
+    return unicodedata.normalize("NFKD", str(x)).encode("ascii", "ignore").decode().lower()
+
+
+def matches(b, filtro):
+    """¿La apuesta es de la que habla el texto (nombra alguno de sus equipos)?"""
+    f = _norm(filtro)
+    return any(n and _norm(n) in f for l in b["legs"] for n in (l.get("home"), l.get("away")))
+
+
+def live(now=None, boards=None, filtro=None):
     """«¿Cómo van mis apuestas?» con partidos en juego: marcador y estadísticas de ESPN ahora mismo, pierna a pierna.
-    None si no hay ninguna simulada pendiente con partidos ya empezados."""
+    `filtro`: texto que nombra los equipos de una apuesta («cómo va esta» citando el boleto) → solo esa, empezada o no.
+    None si no hay ninguna que enseñar. Las repetidas (mismo boleto apuntado dos veces) salen una sola vez."""
     now, boards = now or pd.Timestamp.now(tz="UTC"), {} if boards is None else boards
-    pend = [b for b in load().values() if b["estado"] == "pendiente"
-            and any(l.get("ok") is None and l.get("start") and pd.Timestamp(l["start"]) <= now for l in b["legs"])]
+    started = lambda l: l.get("ok") is None and (not l.get("start") or pd.Timestamp(l["start"]) <= now)
+    pend = [b for b in load().values() if b["estado"] == "pendiente"]
+    sel = [b for b in pend if matches(b, filtro)] if filtro else []
+    pend = sel or [b for b in pend if any(started(l) for l in b["legs"])
+                   and (not all(not l.get("start") for l in b["legs"]) or now - pd.Timestamp(b["creada"]) < pd.Timedelta(days=2))]
+    seen, uniq = set(), []
+    for b in sorted(pend, key=lambda b: b["id"], reverse=True):
+        k = tuple(sorted((l.get("home"), l.get("away"), l.get("txt"), l.get("jugador")) for l in b["legs"]))
+        if k not in seen: seen.add(k); uniq.append(b)
+    pend = uniq[::-1]
     if not pend: return None
     out = ["📡 <b>Tus apuestas en juego</b>"]
     for b in sorted(pend, key=lambda b: b["id"]):
@@ -259,13 +279,13 @@ def live(now=None, boards=None):
             if l.get("ok") is not None:
                 icon = {True: "✅", False: "❌"}.get(l["ok"], "➖")
                 out.append(f"{icon} {name} · {A.esc(l.get('por', ''))}"); continue
-            if not l.get("start") or pd.Timestamp(l["start"]) > now:
+            if l.get("start") and pd.Timestamp(l["start"]) > now:
                 out.append(f"🕒 {name} · aún no ha empezado"); continue
             if l.get("src"):
                 r = live_other(l, boards) if l["src"].startswith("espn:") else None
                 out.append(f"{r[0]} {name} · {A.esc(r[1])}" if r else f"⏳ {name} · sin directo"); continue
-            g = live_game(l, boards)
-            if not g: out.append(f"⏳ {name} · sin directo"); continue
+            g = live_game({**l, "ahora": now}, boards)
+            if not g: out.append(f"{'⏳' if l.get('start') else '🕒'} {name} · " + ("sin directo" if l.get("start") else "ESPN no lo da en juego ahora")); continue
             icon, why = live_leg(l, g)
             out.append(f"{icon} {name} · {A.esc(why)}" + (f" ({A.esc(g['reloj'])})" if g["estado"] == "in" and g["reloj"] else ""))
     return "\n".join(out)

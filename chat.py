@@ -581,7 +581,7 @@ def last_combo():
 
 
 SIM_RX = r"\bsimul|\bapunta|\bregistra|\bguardala|\bjuegala|\bjugamos|\bmetele|\bvamos con (esa|ella)"
-SIMS_RX = r"como van|como vamos|mis (apuestas|simuladas|combinadas)|balance|que tal (van|mis)"
+SIMS_RX = r"como van|como vamos|como (va|lleva|esta) (esta|esa|mi|la)\b|mis (apuestas|simuladas|combinadas)|balance|que tal (van|mis)"
 
 
 def safe_combo(kh, ka, D):
@@ -1067,9 +1067,22 @@ def offer(question, command):
 def _plain(html_text): return re.sub(r"<[^>]+>", "", html_text).replace("\n", " ")[:300]
 
 
-def answer(text, depth=0):
-    """Respuesta HTML a un mensaje libre del dueño (escrito o de voz)."""
+QUOTE_RX = r"simulad|boleto|combinada|cuota|@"
+
+
+def answer(text, depth=0, quoted=None):
+    """Respuesta HTML a un mensaje libre del dueño (escrito o de voz). `quoted`: texto del mensaje al que responde
+    en Telegram («me refiero a esta», «¿cómo va esta?» citando un boleto) → se tiene en cuenta como contexto."""
     t = text.strip()
+    if quoted and depth == 0:
+        ql = low(quoted)
+        if re.search(QUOTE_RX, ql) and not re.search(SIM_RX, low(t)) and (len(t.split()) <= 8 or re.search(SIMS_RX, low(t))):
+            import simulaciones
+            r = simulaciones.live(filtro=quoted)
+            if r:
+                _CTX.setdefault("hist", []).extend([("usuario", t), ("bot", _plain(r))])
+                return r
+        t = f"{t} (sobre: {quoted.strip()[:300]})"
     hist = _CTX.setdefault("hist", [])
     q = low(t)
     pend = _CTX.pop("oferta", None)
@@ -1127,7 +1140,7 @@ def _answer(t, short=True):
         return simulaciones.compare(D[ks[0]]["name"] if ks else None)
     if re.search(SIMS_RX, q) or re.search(r"directo|en juego|jugando|ahora|marcador", q) and re.search(r"apuesta|combinad|simulad|boleto", q):
         import simulaciones
-        return simulaciones.live() or simulaciones.summary()
+        return simulaciones.live(filtro=t) or simulaciones.summary()
     if re.search(SIM_RX, q):
         if not last_combo(): return "Primero pídeme una combinada (o mándame la foto del boleto) y luego te la simulo."
         import simulaciones
