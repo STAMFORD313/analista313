@@ -15,14 +15,23 @@ jobs:
       - run: pip install -r requirements.txt
       - run: |
           python - <<'PY'
-          import requests, json
-          r = requests.get("https://gamma-api.polymarket.com/events", params={"tag_slug": "soccer", "closed": "false", "limit": 5, "order": "startDate", "ascending": "false"}, timeout=20)
-          print(r.status_code)
-          for e in r.json()[:5]:
-              print(e.get("title"), e.get("startDate"), e.get("endDate"))
-              for m in e.get("markets", [])[:4]:
-                  print("   ", m.get("question"), m.get("outcomes"), m.get("outcomePrices"), m.get("liquidity"), m.get("sportsMarketType"), m.get("gameStartTime"))
-          r = requests.get("https://gamma-api.polymarket.com/sports", timeout=20); print(r.status_code, json.dumps(r.json())[:1500])
+          import requests, json, collections
+          ev = []
+          for off in (0, 100, 200, 300):
+              r = requests.get("https://gamma-api.polymarket.com/events", params={"tag_slug": "soccer", "closed": "false", "limit": 100, "offset": off}, timeout=20)
+              ev += r.json()
+          print(len(ev), "eventos")
+          c = collections.Counter(m.get("sportsMarketType") for e in ev for m in e.get("markets", []))
+          print(c)
+          n = 0
+          for e in ev:
+              ms = [m for m in e.get("markets", []) if m.get("sportsMarketType") == "moneyline"]
+              if not ms or n >= 6: continue
+              n += 1
+              print(e.get("title"), e.get("startDate"), [t.get("slug") for t in e.get("tags", [])][:6])
+              for m in ms:
+                  print("   ", m.get("question"), m.get("outcomePrices"), "bid", m.get("bestBid"), "ask", m.get("bestAsk"), "liq", m.get("liquidityNum"), "vol", m.get("volumeNum"), "fee", m.get("feesEnabled"), m.get("takerBaseFee"), m.get("gameStartTime"))
+          print(sorted(ev[0].get("markets", [{}])[0].keys()))
           PY
         env:
           PYTHONUNBUFFERED: "1"
