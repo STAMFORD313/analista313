@@ -949,6 +949,28 @@ def analyze_slip(slip, D=None):
     return "\n".join(out)
 
 
+SWEEP_TARGET, SWEEP_MIN_ODDS, SWEEP_MIN_EV = 16.0, 8.0, 0.05
+
+
+def sweep():
+    """Barrido automático (menu.py cada pocas horas): combinada con cabeza a cuota ~16 con TODAS las piernas con ventaja;
+    si la hay y no es repetida, se apunta como simulada y se devuelve el mensaje para Telegram; si no, None."""
+    keep = _CTX.get("ultima")
+    try:
+        text = long_combo(db(), SWEEP_TARGET)
+        u = _CTX.get("ultima")
+        if not u or u is keep or not u.get("odds") or u["odds"] < SWEEP_MIN_ODDS: return None
+        if any(l.get("p") is None or l["p"] * (l.get("odds") or 0) - 1 < LONG_EDGE for l in u["legs"]): return None
+        if (u["p"] or 0) * u["odds"] - 1 < SWEEP_MIN_EV: return None
+        import simulaciones
+        b = simulaciones.record({**u, "titulo": f"Barrido · {u['titulo']}"})
+        if b.get("duplicada"): return None
+        return "🔎 <b>Barrido del bot</b>: he encontrado una combinada buena\n" + text + "\n🧾 La simulo con 1 € y te digo cómo acaba."
+    finally:
+        if keep is not None: _CTX["ultima"] = keep
+        else: _CTX.pop("ultima", None)
+
+
 def winner(kh, ka, D, odds=None, pick=None):
     h, a, sp = D[kh], D[ka], D[kh]["sport"]
     stat = "puntos" if sp == "nba" else "goles"

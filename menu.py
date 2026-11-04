@@ -12,6 +12,7 @@ import radar
 import simulaciones
 
 RUN_SECONDS, REFRESH, KICK = 5 * 3600 + 45 * 60, 300, 1800
+SWEEP = 3 * 3600  # barrido de combinadas buenas (chat.sweep) cada 3 h
 API = f"https://api.telegram.org/bot{A.TG}"
 
 
@@ -63,9 +64,15 @@ def main():
     voz.warm()  # carga Whisper en segundo plano: el primer audio no espera la descarga del modelo
     state, loaded, view, last, offset, shown = load_state(), time.time(), None, "futbol", None, None
     end = time.time() + RUN_SECONDS
-    kicked = 0
+    kicked, swept = 0, time.time() - SWEEP + 600  # primer barrido a los 10 min de arrancar
     while time.time() < end:
         if time.time() - kicked > KICK: kick_analysis(); kicked = time.time()
+        if time.time() - swept > SWEEP:
+            swept = time.time()
+            try:
+                msg = charla.sweep()
+                if msg: A.tg("sendMessage", text=msg[:4000], parse_mode="HTML")
+            except Exception as e: print("barrido", repr(e))
         if time.time() - loaded > REFRESH:
             state, loaded = load_state(), time.time()
             try:  # simuladas del chat: liquidar con ESPN y avisar
