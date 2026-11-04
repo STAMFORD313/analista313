@@ -1154,3 +1154,6 @@ try:
     _r = _CH.answer("¿hará el Barcelona tantos córners contra el Real Madrid?"); assert "Barcelona</b> contra <b>Real Madrid" in _r and "esperados" in _r, _r
 finally: _CH.match_market = _mm0; _CH.LEAGUE.clear(); _CH._DB.clear(); _CH._DB["t"] = 0; _CH._BASE.clear(); _CH._CTX.clear()
 print("ok córners contra un rival")
+# boletos: respaldo de clasificación («anotará», «3+ remates») y nombres de ciudades en español
+assert _CH.find("AEK Atenas Real Madrid", {"x|t|1": {"name": "AEK Athens", "norm": "aek athens", "kind": "equipo", "sport": "futbol", "games": []}}, n=1) == ["x|t|1"]
+print("ok boletos: ciudades y piernas de jugador")

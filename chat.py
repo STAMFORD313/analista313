@@ -42,6 +42,13 @@ HELP = ("💬 Escríbeme, por ejemplo:\n• <i>estadísticas de Mbappé</i>\n•
         "• <i>Combinada segura</i> (del último partido) · <i>combinada Girona Almería</i> · <i>combinada del día</i>\n"
         "• <i>¿Quién gana?</i> (del último partido que te mostré) · <i>quién gana Girona Almería</i> · <i>gana Girona a 2.10</i>")
 _DB = {"t": 0}
+CITY = {"atenas": "athens", "napoles": "napoli", "oporto": "porto", "praga": "prague", "munich": "munich", "lisboa": "lisbon",
+        "estambul": "istanbul", "copenhague": "copenhagen", "belgrado": "belgrade", "zagreb": "zagreb", "bucarest": "bucharest",
+        "varsovia": "warsaw", "amsterdam": "amsterdam", "londres": "london", "brujas": "brugge", "marsella": "marseille",
+        "lyon": "lyon", "roma": "roma", "glasgow": "glasgow", "moscu": "moscow", "salzburgo": "salzburg", "eindhoven": "eindhoven",
+        "bilbao": "bilbao", "sevilla": "sevilla", "milan": "milan", "turin": "torino", "genova": "genoa", "florencia": "fiorentina",
+        "leverkusen": "leverkusen", "dortmund": "dortmund", "colonia": "koln", "friburgo": "freiburg", "maguncia": "mainz",
+        "monchengladbach": "monchengladbach", "estrasburgo": "strasbourg", "niza": "nice", "lille": "lille", "mallorca": "mallorca"}
 LEAGUE = {}  # liga → [(estadísticas del local, del visitante)] en orden (sin partidos sin estadísticas: ESPN los da a 0)
 # apodos de uso común → nombre de ESPN (solo si el nombre completo no está ya en la frase)
 ALIAS = {"madrid": "real madrid", "real": "real madrid", "barca": "barcelona", "atleti": "atletico madrid", "atletico": "atletico madrid",
@@ -125,6 +132,7 @@ def find(text, D=None, n=2, kind=None):
     """Entidades nombradas en el texto (nombre completo, o nombre/apellido de ≥ 4 letras), por orden de aparición.
     kind="equipo" para estadísticas que solo tienen los equipos (córners)."""
     D = D or db(); t = f" {norm(names_only(text))} "
+    for es, en in CITY.items(): t = t.replace(f" {es} ", f" {en} ")  # «AEK Atenas» (casas españolas) → «AEK Athens» (ESPN)
     for a, full in ALIAS.items():
         if f" {a} " in t and f" {full} " not in t and not any(f" {x} {a} " in t or f" {a} {x} " in t for x in full.split() if x != a):
             t = t.replace(f" {a} ", f" {full} ", 1)
@@ -809,12 +817,29 @@ def other_winner(q, hours=72):
 
 def slip_leg(leg, D):
     """(probabilidad según el bot, texto de la pierna, dict para simular o None) de una pierna leída de un boleto."""
-    tipo, txt, eq = leg.get("tipo"), leg.get("texto") or "", leg.get("equipo") or ""
+    tipo, txt, eq = leg.get("tipo"), (leg.get("texto") or "").split("\n")[0], leg.get("equipo") or ""
     teams = [x.strip() for x in re.split(r"\s+(?:-|–|vs\.?|v)\s+", leg.get("partido") or "") if x.strip()]
     ks = find(" ".join(teams), D, n=2, kind="equipo") if teams else []
+    lt = low(txt)
+    if tipo in ("otro", None):  # respaldo si la IA no lo clasificó: «anotará», «3+ remates a puerta»
+        if re.search(r"anotar|marcar|goleador", lt): leg = {**leg, "tipo": "mas_menos", "estadistica": "goles", "lado": "mas", "linea": 0.5}
+        elif m := re.search(r"(\d+)\s*\+\s*(remates a puerta|tiros a puerta|remates|tiros|corners|tarjetas)", lt):
+            leg = {**leg, "tipo": "mas_menos", "estadistica": m.group(2).replace("remates", "tiros"), "lado": "mas", "linea": int(m.group(1)) - 0.5}
+        tipo = leg.get("tipo")
+    if tipo == "comparacion" and len(ks) == 2:  # «Mayor número de córners: Real Madrid»
+        kh, ka = fixture_order(ks[0], ks[1], D)
+        stat = "tarjetas" if "tarjeta" in low(leg.get("estadistica") or txt) else "corners"
+        mm = match_model(kh, ka, D, stat)
+        if mm:
+            pmf = lambda mu: SS.nbinom.pmf(np.arange(40), mm[2], mm[2] / (mm[2] + mu))
+            ph, pa = pmf(mm[0]), pmf(mm[1])
+            p_home = float(sum(ph[i] * pa[:i].sum() for i in range(40)))
+            home_pick = find_team_name(eq, (D[kh]["name"],)) if eq else True
+            p = p_home if home_pick else float(sum(pa[i] * ph[:i].sum() for i in range(40)))
+            return p, f"{A.esc(txt)}: <b>{p:.0%}</b> según el bot (esperados {mm[0]:.1f} – {mm[1]:.1f}; empate = perdida)", None
     if tipo == "mas_menos" and leg.get("linea") is not None:
         side = "más de" if (leg.get("lado") or "mas") == "mas" else "menos de"
-        frase = f"{eq or ' '.join(teams)} {side} {leg['linea']} {leg.get('estadistica') or ''}"
+        frase = f"{eq or ' '.join(teams)} {side} {leg['linea']} {(leg.get('estadistica') or '').replace('remates', 'tiros')}"
         pl = parse_leg(frase); keys = find(frase, D, kind="equipo" if pl["stat"] == "corners" else None)
         if not eq and len(ks) == 2: keys = ks  # total del partido
         if pl["stat"] and pl["line"] is not None and keys:
@@ -875,6 +900,8 @@ def analyze_slip(slip, D=None):
     known = [p for p in ps if p is not None]
     if known and len(known) == len(ps):
         p = float(np.prod(known)); out.append(f"Todas a la vez: <b>{p:.1%}</b> (cuota justa {1 / p:.2f})")
+        if len({l.get("partido") for l in slip["piernas"]}) == 1:
+            out.append("ℹ️ Todas son del mismo partido: van algo ligadas y el cálculo conjunto es aproximado.")
         if total: out.append(verdict(p, total))
     elif known: out.append(f"Puedo evaluar {len(known)} de {len(ps)} piernas; el resto no lo cubren mis datos.")
     if all(s is not None for s in sims) and sims:
