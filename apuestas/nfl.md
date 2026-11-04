@@ -1,6 +1,6 @@
 # 🏈 NFL·NCAA · apuestas de valor
 
-Actualizado 04/11/2026 23:35 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 05/11/2026 00:04 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Massachusetts Minutemen vs Ball State Cardinals — 05/11 · 01:00
 
