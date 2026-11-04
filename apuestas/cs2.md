@@ -1,80 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 04/11/2026 17:10 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Falcons Force vs Xcity — 04/11 · 18:30
-
-👀 candidata · 🎮 CS2 · ESEA Season 59: Advanced Division - Europe · **Gana Xcity** @ **2.20** (Thunderpick) · prob 45% vs casas 42% · ventaja -1%
-
-- ❌ Valor: ventaja -1% (mín. 7% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 76.380 partidos)  
-Mapa: Falcons Force 52% · Serie BO1: Falcons Force 52% - 48% Xcity  
-Casas: Falcons Force 58% · Xcity 42%  
-🔎 **Claves**  
-• Elo: Falcons Force 1574 (133 series) | Xcity 1562 (2 series)  
-• Forma: Falcons Force ✅✅✅❌❌ | Xcity ✅❌  
-• H2H: sin precedentes  
-• Torneo: ESEA Season 59: Advanced Division - Europe (nivel C)  
-• Cambios de plantilla: ninguno  
-
-## aimers vs Ryvex — 04/11 · 19:00
-
-👀 candidata · 🎮 CS2 · ESEA Season 59: Advanced Division - Europe · **Gana Ryvex** @ **1.86** (Thunderpick) · prob 56% vs casas 50% · ventaja +4%
-
-- ❌ Valor: ventaja +4% (mín. 8% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 76.380 partidos)  
-Mapa: aimers 38% · Serie BO1: aimers 38% - 62% Ryvex  
-Casas: aimers 50% · Ryvex 50%  
-🔎 **Claves**  
-• Elo: aimers 1323 (3 series) | Ryvex 1408 (26 series)  
-• Forma: aimers ❌❌❌ | Ryvex ✅✅❌✅❌  
-• H2H: sin precedentes  
-• Torneo: ESEA Season 59: Advanced Division - Europe (nivel C)  
-• Cambios de plantilla: ninguno  
-
-## RED Canids Academy vs Underworld — 04/11 · 19:30
-
-👀 candidata · 🎮 CS2 · Gamers Club Liga Série A: October 2026 · **Gana RED Canids Academy** @ **1.17** (Thunderpick) · prob 75% vs casas 79% · ventaja -12%
-
-- ❌ Valor: ventaja -12% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 76.439 partidos)  
-Mapa: RED Canids Academy 65% · Serie BO3: RED Canids Academy 71% - 29% Underworld  
-Casas: RED Canids Academy 79% · Underworld 21%  
-🔎 **Claves**  
-• Elo: RED Canids Academy 1646 (129 series) | Underworld 1485 (12 series)  
-• Forma: RED Canids Academy ✅✅❌✅❌ | Underworld ✅❌❌✅✅  
-• H2H: 1: 1-0  
-• Torneo: Gamers Club Liga Série A: October 2026 (nivel C)  
-• Cambios de plantilla: ninguno  
-🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
-• RED Canids Academy gana 2-1: 25% → cuota justa 4.03  
-• Underworld gana 2-1: 14% → cuota justa 7.34  
-
-## BORRACHEIROS vs ALKA — 04/11 · 22:00
-
-💵 **APOSTADA** · 🎮 CS2 · Gamers Club Liga Série A: October 2026 · **Gana BORRACHEIROS** @ **2.34** (Thunderpick) · prob 55% vs casas 40% · ventaja +28%
-
-- ✅ Valor: ventaja +28% (mín. 14% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 76.439 partidos)  
-Mapa: BORRACHEIROS 64% · Serie BO3: BORRACHEIROS 70% - 30% ALKA  
-Casas: BORRACHEIROS 40% · ALKA 60%  
-🔎 **Claves**  
-• Elo: BORRACHEIROS 1615 (40 series) | ALKA 1464 (100 series)  
-• Forma: BORRACHEIROS ✅✅✅✅❌ | ALKA ❌❌❌❌✅  
-• H2H: 6: 0-6  
-• Torneo: Gamers Club Liga Série A: October 2026 (nivel C)  
-• Cambios de plantilla: ninguno  
-🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
-• BORRACHEIROS gana 2-1: 25% → cuota justa 4.02  
-• ALKA gana 2-1: 14% → cuota justa 7.05  
+Actualizado 04/11/2026 23:28 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Nordic Valor vs boyband — 05/11 · 19:00
 
@@ -135,4 +61,56 @@ Casas: RUSH 37% · MEIA NOITE 63%
 🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
 • RUSH gana 2-1: 21% → cuota justa 4.82  
 • MEIA NOITE gana 2-1: 23% → cuota justa 4.32  
+
+## PARIVISION vs Natus Vincere — 06/11 · 07:30
+
+👀 candidata · 🎮 CS2 · Intel Extreme Masters Beijing 2026 · **Gana Natus Vincere** @ **1.29** (Thunderpick) · prob 72% vs casas 71% · ventaja -7%
+
+- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 76.483 partidos)  
+Mapa: PARIVISION 34% · Serie BO3: PARIVISION 27% - 73% Natus Vincere  
+Casas: PARIVISION 29% · Natus Vincere 71%  
+🔎 **Claves**  
+• Elo: PARIVISION 1969 (320 series) | Natus Vincere 2149 (279 series)  
+• Forma: PARIVISION ✅❌✅✅❌ | Natus Vincere ✅✅❌✅✅  
+• H2H: 4: 1-3  
+• Torneo: Intel Extreme Masters Beijing 2026 (nivel S)  
+• Cambios de plantilla: ninguno  
+• Jugadores en forma (rating últimos 10 mapas): PARIVISION: Jame 6.4, xiELO 6.0 | Natus Vincere: w0nderful 6.9, b1t 6.9  
+• Mapas (último año): PARIVISION: fuerte ancient 68%, débil cache 33% | Natus Vincere: fuerte train 80%, débil inferno 47%  
+• Química de la plantilla: PARIVISION: 111 mapas juntos de media | Natus Vincere: 370 mapas juntos de media  
+🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
+• PARIVISION gana 2-1: 13% → cuota justa 7.96 · casa 13%  
+• Natus Vincere gana 2-1: 25% → cuota justa 4.07 · casa 26%  
+🔫 **Kills esperados en la serie** (rango 80 %; mejor que la media de sus 10 últimas en 52.265 casos: log-loss 0.6821→0.6562; sin cuotas de props, solo referencia)  
+PARIVISION: xiELO 33 (19-48) · Jame 32 (18-48) · HObbit 32 (18-47) · zweih 31 (18-46) · FL1T 31 (17-45)  
+Natus Vincere: w0nderful 38 (22-56) · b1t 36 (21-54) · makazze 36 (21-53) · iM 35 (20-52) · Aleksib 27 (15-40)  
+
+## FURIA vs BetBoom — 06/11 · 10:45
+
+👀 candidata · 🎮 CS2 · Intel Extreme Masters Beijing 2026 · **Gana FURIA** @ **1.51** (Thunderpick) · prob 64% vs casas 61% · ventaja -3%
+
+- ❌ Valor: ventaja -3% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 76.483 partidos)  
+Mapa: FURIA 59% · Serie BO3: FURIA 67% - 33% BetBoom  
+Casas: FURIA 61% · BetBoom 39%  
+🔎 **Claves**  
+• Elo: FURIA 2152 (326 series) | BetBoom 2058 (356 series)  
+• Forma: FURIA ✅✅✅✅❌ | BetBoom ❌✅❌✅✅  
+• H2H: 7: 6-1  
+• Torneo: Intel Extreme Masters Beijing 2026 (nivel S)  
+• Cambios de plantilla: ninguno  
+• Jugadores en forma (rating últimos 10 mapas): FURIA: molodoy 6.8, KSCERATO 6.2 | BetBoom: Magnojez 6.6, d1Ledez 6.1  
+• Mapas (último año): FURIA: fuerte inferno 68%, débil anubis 38% | BetBoom: fuerte nuke 62%, débil cache 43%  
+• Química de la plantilla: FURIA: 426 mapas juntos de media | BetBoom: 283 mapas juntos de media  
+🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
+• FURIA gana 2-1: 25% → cuota justa 4.05 · casa 25%  
+• BetBoom gana 2-1: 17% → cuota justa 5.76 · casa 18%  
+🔫 **Kills esperados en la serie** (rango 80 %; mejor que la media de sus 10 últimas en 52.265 casos: log-loss 0.6821→0.6562; sin cuotas de props, solo referencia)  
+FURIA: molodoy 38 (22-56) · KSCERATO 37 (21-55) · YEKINDAR 36 (20-52) · yuurih 32 (18-47) · FalleN 29 (17-43)  
+BetBoom: Magnojez 36 (21-53) · zorte 34 (19-50) · d1Ledez 32 (19-48) · s1ren 31 (18-47) · Boombl4 29 (16-43)  
 

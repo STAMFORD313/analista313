@@ -9,6 +9,8 @@ fecha,partido,tipo,piernas,p,acierto,piernas_acertadas,p_piernas,cuota,ventaja,s
 2026-11-03,Preston vs Sheffield Utd,corta,3,0.4201,1,3,0.7359,,,0,,Menos de 5.5 tiros a puerta de Preston + Menos de 2.5 tarjetas de Sheffield Utd + Menos de 22.5 faltas,111
 2026-11-03,Watford vs Lincoln,corta,3,0.3176,0,2,0.6562,,,0,,Menos de 4.5 tiros a puerta de Lincoln + Menos de 2.5 tarjetas de Watford + Menos de 2.5 goles,101
 2026-11-03,Watford vs Lincoln,larga,4,0.1883,0,2,0.6329,,,0,,Menos de 4.5 tiros a puerta de Lincoln + Menos de 2.5 tarjetas de Watford + Menos de 2.5 goles + Menos de 4.5 córners de Lincoln,1010
-2026-11-03,Birmingham vs Millwall,corta,3,0.4469,0,2,0.7544,,,0,,Menos de 11.5 faltas de Birmingham + Menos de 4.5 tiros a puerta de Millwall + Menos de 2.5 tarjetas de Birmingham,011
-2026-11-03,Birmingham vs Millwall,larga,5,0.1604,0,3,0.6763,,,0,,Menos de 11.5 faltas de Birmingham + Menos de 4.5 tiros a puerta de Millwall + Menos de 2.5 tarjetas de Birmingham + Menos de 4.5 córners de Millwall + Menos de 2.5 goles,01110
+2026-11-03,Birmingham vs Millwall,corta,3,0.4469,0,2,0.7544,,,0,,Menos de 11.5 faltas de Birmingham + Menos de 4.5 tiros a puerta de Millwall + Menos de 2.5 tarjetas de Birmingham,11
+2026-11-03,Birmingham vs Millwall,larga,5,0.1604,0,3,0.6763,,,0,,Menos de 11.5 faltas de Birmingham + Menos de 4.5 tiros a puerta de Millwall + Menos de 2.5 tarjetas de Birmingham + Menos de 4.5 córners de Millwall + Menos de 2.5 goles,1110
 2026-11-03,West Brom vs Southampton,corta,3,0.3321,0,2,0.6842,,,0,,Menos de 5.5 tiros a puerta de West Brom + Menos de 2.5 tarjetas de West Brom + Menos de 11.5 faltas de West Brom,110
+2026-11-04,Kortrijk vs KV Mechelen,corta,3,0.2872,1,3,0.6361,2.88,-0.173,0,,Menos de 5.5 tiros a puerta de Kortrijk + Menos de 2.5 tarjetas de KV Mechelen + Menos de 5.5 córners de Kortrijk,111
+2026-11-04,Kortrijk vs KV Mechelen,larga,4,0.1718,1,4,0.6232,,,0,,Menos de 5.5 tiros a puerta de Kortrijk + Menos de 2.5 tarjetas de KV Mechelen + Menos de 5.5 córners de Kortrijk + Más de 10.5 faltas de Kortrijk,1111

@@ -21381,3 +21381,13 @@ game_id,match_id,slug,date,tier,bo,tournament_id,tournament,t1_id,t2_id,team1,te
 33142,132451,zenith-cn-vs-cloud-dawning-04-11-2026,2026-11-04T11:00:00.000+00:00,b,3,6211,EPL World Series: Southeast Asia Season 19,25435,21875,Zenith,Cloud Dawning,2,,21875,42,22
 33030,132366,yellow-submarine-vs-natus-vincere-dota2-04-11-2026,2026-11-04T11:10:00.000+00:00,b,3,6200,EPL Masters III,16486,16676,Yellow Submarine,Natus Vincere,1,,16676,23,22
 33286,132823,xipto-esports-dota2-vs-team-synapse-04-11-2026,2026-11-04T12:00:00.000+00:00,b,3,6245,Esports Pro Circuit Season 3,25259,25201,Xipto Esports,Team Synapse,1,,25201,42,15
+33033,132367,og-dota2-vs-gamerlegion-dota2-04-11-2026,2026-11-04T13:30:00.000+00:00,b,3,6200,EPL Masters III,22027,16714,GamerLegion,OG,1,,22027,31,19
+33032,132367,og-dota2-vs-gamerlegion-dota2-04-11-2026,2026-11-04T13:30:00.000+00:00,b,3,6200,EPL Masters III,22027,16714,GamerLegion,OG,2,,22027,60,26
+33371,133135,zero-tenacity-dota-vs-angry-birds-04-11-2026,2026-11-04T14:00:00.000+00:00,b,3,6263,Asgard Championship Season 2,18713,25604,Zero Tenacity,angry birds,1,,25604,34,10
+33370,133135,zero-tenacity-dota-vs-angry-birds-04-11-2026,2026-11-04T14:00:00.000+00:00,b,3,6263,Asgard Championship Season 2,18713,25604,Zero Tenacity,angry birds,2,,25604,66,35
+33374,133136,spirit-academy-dota2-vs-xipto-esports-dota2-04-11-2026,2026-11-04T16:30:00.000+00:00,b,3,6263,Asgard Championship Season 2,21945,25259,Team Spirit Academy,Xipto Esports,1,,21945,38,34
+33373,133136,spirit-academy-dota2-vs-xipto-esports-dota2-04-11-2026,2026-11-04T16:30:00.000+00:00,b,3,6263,Asgard Championship Season 2,21945,25259,Team Spirit Academy,Xipto Esports,2,,25259,30,15
+33372,133136,spirit-academy-dota2-vs-xipto-esports-dota2-04-11-2026,2026-11-04T16:30:00.000+00:00,b,3,6263,Asgard Championship Season 2,21945,25259,Team Spirit Academy,Xipto Esports,3,,21945,21,1
+33035,132368,cyberhero-vs-l1ga-team-04-11-2026,2026-11-04T16:45:00.000+00:00,b,3,6200,EPL Masters III,15098,25398,HULIGANI,CyberHero,2,,15098,34,13
+33039,132369,gamerlegion-dota2-vs-l1ga-team-04-11-2026,2026-11-04T19:00:00.000+00:00,b,3,6200,EPL Masters III,22027,15098,GamerLegion,HULIGANI,1,,22027,29,13
+33038,132369,gamerlegion-dota2-vs-l1ga-team-04-11-2026,2026-11-04T19:00:00.000+00:00,b,3,6200,EPL Masters III,22027,15098,GamerLegion,HULIGANI,2,,22027,38,14

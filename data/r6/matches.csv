@@ -3338,3 +3338,5 @@ id,date,team1,team2,t1_id,t2_id,s1,s2,winner_id,bo,tier,tournament
 78683,2024-01-05T17:00:00.000+00:00,G2 Esports,G Who,19715,19283,0,2,19283.0,3,b,R6 South Breach 2023
 133074,2026-11-03T16:00:00.000+00:00,Honvéd,Goud Guys,25621,25396,2,0,25621.0,3,b,EML Challenger Circuit 2026: Playoffs
 133075,2026-11-03T18:15:00.000+00:00,Pannuhuone,Fans of Attics,22296,23252,0,2,23252.0,3,b,EML Challenger Circuit 2026: Playoffs
+133077,2026-11-04T19:15:00.000+00:00,Honvéd,Fans of Attics,25621,23252,2,0,25621.0,3,b,EML Challenger Circuit 2026: Playoffs
+133076,2026-11-04T16:25:00.000+00:00,Goud Guys,Pannuhuone,25396,22296,1,2,22296.0,3,b,EML Challenger Circuit 2026: Playoffs
