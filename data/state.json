@@ -1386,7 +1386,10 @@
   "fc|2361906",
   "fc|2364036",
   "fc|2362272",
-  "fc|2361909"
+  "fc|2361909",
+  "fc|2361912",
+  "fc|2362270",
+  "fc|2362275"
  ],
  "signals": [
   {
@@ -18711,7 +18714,11 @@
    "bajas": "",
    "considered": true,
    "placed": false,
-   "anunciada": true
+   "anunciada": true,
+   "score": "1-3",
+   "result": false,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "A",
@@ -18733,7 +18740,11 @@
    "bajas": "",
    "considered": true,
    "placed": false,
-   "anunciada": true
+   "anunciada": true,
+   "score": "1-3",
+   "result": true,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "D",
@@ -18776,7 +18787,11 @@
    "version": "6fe8303",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "3-3",
+   "result": false,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "D",
@@ -18818,7 +18833,11 @@
    "version": "6fe8303",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "2-4",
+   "result": false,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "D",
@@ -18918,6 +18937,108 @@
    "context": "EA FC Esoccer Battle Inquisitor vs OG (World Cup A): goles esperados 2.93-2.02, 1X2 59%/19%/22%. Sin cuotas de casa.",
    "captured": "2026-11-04T23:04",
    "version": "ed233b3",
+   "bajas": "",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "H",
+   "pick": "hotShot",
+   "odds": 2.5,
+   "book": "Unibet",
+   "implied": 0.346,
+   "edge": 0.138,
+   "sin_stake": true,
+   "p": 0.455,
+   "key": "fc|2361912",
+   "match": "hotShot vs OG",
+   "start": "2026-11-04T23:44:00+00:00",
+   "league": "🎮⚽ FC 27 · World Cup A",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 56.356 partidos)",
+    "Goles esperados: hotShot 2.25 · OG 1.96",
+    "Ganador: hotShot 46% · empate 23% · OG 31%",
+    "Total: más de 4.5 goles 41% · menos 59%",
+    "Hándicap hotShot: −1.5 27% · −2.5 13%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: hotShot ❌❌✅❌➖ | OG ❌❌❌❌➖",
+    "• Partidos: hotShot 492 | OG 528",
+    "• Liga: World Cup A",
+    "• Unibet: 1 2.50 · X 2.23 · 2 3.25 (sin margen 35%/39%/27%) · ventaja +14%. Sin stake hasta demostrar ROI con estas cuotas."
+   ],
+   "context": "EA FC Esoccer Battle hotShot vs OG (World Cup A): goles esperados 2.25-1.96, 1X2 46%/23%/31%. Sin cuotas de casa.",
+   "captured": "2026-11-04T23:13",
+   "version": "d9a183e",
+   "bajas": "",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "D",
+   "pick": "Empate",
+   "odds": 6.75,
+   "book": "Unibet",
+   "implied": 0.128,
+   "edge": 0.05,
+   "sin_stake": true,
+   "p": 0.156,
+   "key": "fc|2362270",
+   "match": "Simaponika vs tizzy",
+   "start": "2026-11-04T23:17:00+00:00",
+   "league": "🎮⚽ FC 27 · Serie A",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 56.356 partidos)",
+    "Goles esperados: Simaponika 2.05 · tizzy 3.49",
+    "Ganador: Simaponika 15% · empate 16% · tizzy 69%",
+    "Total: más de 5.5 goles 48% · menos 52%",
+    "Hándicap tizzy: −1.5 48% · −2.5 32%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Simaponika ✅❌✅❌❌ | tizzy ❌✅❌✅✅",
+    "• Partidos: Simaponika 1024 | tizzy 321",
+    "• Liga: Serie A",
+    "• Unibet: 1 4.60 · X 6.75 · 2 1.27 (sin margen 19%/13%/68%) · ventaja +5%. Sin stake hasta demostrar ROI con estas cuotas."
+   ],
+   "context": "EA FC Esoccer Battle Simaponika vs tizzy (Serie A): goles esperados 2.05-3.49, 1X2 15%/16%/69%. Sin cuotas de casa.",
+   "captured": "2026-11-04T23:13",
+   "version": "d9a183e",
+   "bajas": "",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "D",
+   "pick": "Empate",
+   "odds": 6.1,
+   "book": "Unibet",
+   "implied": 0.143,
+   "edge": 0.04,
+   "sin_stake": true,
+   "p": 0.17,
+   "key": "fc|2362275",
+   "match": "Simaponika vs Kavviro",
+   "start": "2026-11-04T23:41:00+00:00",
+   "league": "🎮⚽ FC 27 · Serie A",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 56.356 partidos)",
+    "Goles esperados: Simaponika 1.70 · Kavviro 3.06",
+    "Ganador: Simaponika 14% · empate 17% · Kavviro 68%",
+    "Total: más de 4.5 goles 52% · menos 48%",
+    "Hándicap Kavviro: −1.5 46% · −2.5 29%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Simaponika ✅❌✅❌❌ | Kavviro ❌✅✅✅✅",
+    "• Partidos: Simaponika 1024 | Kavviro 729",
+    "• Liga: Serie A",
+    "• Unibet: 1 4.40 · X 6.10 · 2 1.32 (sin margen 20%/14%/66%) · ventaja +4%. Sin stake hasta demostrar ROI con estas cuotas."
+   ],
+   "context": "EA FC Esoccer Battle Simaponika vs Kavviro (Serie A): goles esperados 1.70-3.06, 1X2 14%/17%/68%. Sin cuotas de casa.",
+   "captured": "2026-11-04T23:13",
+   "version": "d9a183e",
    "bajas": "",
    "considered": true,
    "placed": false
