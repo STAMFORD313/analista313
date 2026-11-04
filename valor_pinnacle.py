@@ -34,13 +34,15 @@ def candidates(now=None, uni=None):
     pin = fair_rows(now)
     if not len(pin): return []
     uni = kambi.football_1x2() if uni is None else uni
-    out = []
+    out, matched, edges = [], 0, []
     for r in pin.itertuples():
         t = pd.Timestamp(r.start)
         u = next((e for e in uni if abs((e["start"] - t).total_seconds()) < 2 * 3600
                   and A.find_team(r.home, [e["home"]]) and A.find_team(r.away, [e["away"]])), None)
         if not u: continue
+        matched += 1
         inv = {"H": 1 / r.o_home, "D": 1 / r.o_draw, "A": 1 / r.o_away}; tot = sum(inv.values())
+        edges += [u["odds"][m] * inv[m] / tot - 1 for m in "HDA"]
         for m, name in (("H", r.home), ("D", "Empate"), ("A", r.away)):
             p, o = inv[m] / tot, u["odds"][m]
             edge = o * p - 1
@@ -51,6 +53,9 @@ def candidates(now=None, uni=None):
                         "info": [f"💎 <b>Valor contra Pinnacle</b>: Unibet paga {o:.2f} y el precio justo de Pinnacle es {1 / p:.2f} "
                                  f"(ventaja {edge:+.1%})", "Backtest 2015-2026 (cuota ≤ 2.5, > 3 %): ROI +11 % ± 3 %, CLV +5 %."],
                         "context": f"{r.home} vs {r.away} ({r.league}). Estrategia de valor: Unibet {o:.2f} frente a Pinnacle justo {1 / p:.2f}."})
+    if edges: print(f"valor Pinnacle: {len(pin)} partidos de Pinnacle, {len(uni)} de Unibet, {matched} emparejados; "
+                    f"ventaja de Unibet: mediana {sorted(edges)[len(edges) // 2]:+.1%}, máxima {max(edges):+.1%}")
+    else: print(f"valor Pinnacle: {len(pin)} partidos de Pinnacle, {len(uni)} de Unibet, 0 emparejados")
     return out
 
 
