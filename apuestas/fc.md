@@ -1,76 +1,58 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 04/11/2026 05:11 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 04/11/2026 05:40 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## hotShot vs OG — 04/11 · 05:14
+## goldfer vs flamez — 04/11 · 06:00
 
-👀 candidata · 🎮⚽ FC 27 · Serie A · **Gana hotShot** @ **2.48** (Unibet) · prob 44% vs casas 35% · ventaja +10%
-
-- ❌ Valor: ventaja +10% (mín. 11% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 55.374 partidos)  
-Goles esperados: hotShot 2.39 · OG 2.11  
-Ganador: hotShot 44% · empate 23% · OG 33%  
-Total: más de 4.5 goles 47% · menos 53%  
-Hándicap hotShot: −1.5 27% · −2.5 14%  
-🔎 **Claves**  
-• Forma: hotShot ✅❌✅✅➖ | OG ✅❌➖❌❌  
-• Partidos: hotShot 476 | OG 512  
-• Liga: Serie A  
-• Unibet: 1 2.48 · X 2.25 · 2 3.25 (sin margen 35%/38%/27%) · ventaja +10%. Sin stake hasta demostrar ROI con estas cuotas.  
-
-## Solya vs zaha — 04/11 · 05:14
-
-👀 candidata · 🎮⚽ FC 27 · LaLiga 2x6 · **Gana zaha** @ **2.23** (Unibet) · prob 46% vs casas 39% · ventaja +3%
-
-- ❌ Valor: ventaja +3% (mín. 9% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 55.374 partidos)  
-Goles esperados: Solya 4.98 · zaha 5.21  
-Ganador: Solya 40% · empate 14% · zaha 46%  
-Total: más de 10.5 goles 44% · menos 56%  
-Hándicap zaha: −1.5 34% · −2.5 23%  
-🔎 **Claves**  
-• Forma: Solya ✅✅➖✅➖ | zaha ❌✅➖✅➖  
-• Partidos: Solya 273 | zaha 316  
-• Liga: LaLiga 2x6  
-• Unibet: 1 2.10 · X 4.50 · 2 2.23 (sin margen 42%/19%/39%) · ventaja +3%. Sin stake hasta demostrar ROI con estas cuotas.  
-
-## Inquisitor vs hotShot — 04/11 · 05:26
-
-👀 candidata · 🎮⚽ FC 27 · Serie A · **Gana hotShot** @ **3.65** (Unibet) · prob 28% vs casas 24% · ventaja +2%
+👀 candidata · 🎮⚽ FC 27 · Premier League 2x6 · **Gana flamez** @ **1.37** (Unibet) · prob 74% vs casas 63% · ventaja +2%
 
 - ❌ Valor: ventaja +2% (mín. 9% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 55.374 partidos)  
+Goles esperados: goldfer 2.56 · flamez 4.63  
+Ganador: goldfer 13% · empate 12% · flamez 74%  
+Total: más de 7.5 goles 43% · menos 57%  
+Hándicap flamez: −1.5 58% · −2.5 43%  
+🔎 **Claves**  
+• Forma: goldfer ✅❌❌❌✅ | flamez ✅✅✅✅❌  
+• Partidos: goldfer 413 | flamez 636  
+• Liga: Premier League 2x6  
+• Unibet: 1 4.10 · X 5.40 · 2 1.37 (sin margen 21%/16%/63%) · ventaja +2%. Sin stake hasta demostrar ROI con estas cuotas.  
+
+## why vs v1nniePuh — 04/11 · 06:00
+
+👀 candidata · 🎮⚽ FC 27 · Premier League 2x6 · **Gana v1nniePuh** @ **1.93** (Unibet) · prob 52% vs casas 45% · ventaja +1%
+
+- ❌ Valor: ventaja +1% (mín. 8% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 55.374 partidos)  
+Goles esperados: why 3.53 · v1nniePuh 4.19  
+Ganador: why 32% · empate 16% · v1nniePuh 52%  
+Total: más de 7.5 goles 51% · menos 49%  
+Hándicap v1nniePuh: −1.5 38% · −2.5 25%  
+🔎 **Claves**  
+• Forma: why ➖❌❌✅❌ | v1nniePuh ❌➖❌➖✅  
+• Partidos: why 525 | v1nniePuh 576  
+• Liga: Premier League 2x6  
+• Unibet: 1 2.28 · X 5.40 · 2 1.93 (sin margen 38%/16%/45%) · ventaja +1%. Sin stake hasta demostrar ROI con estas cuotas.  
+
+## hotShot vs Kray — 04/11 · 06:02
+
+👀 candidata · 🎮⚽ FC 27 · Serie A · **Gana Kray** @ **2.04** (Unibet) · prob 51% vs casas 43% · ventaja +4%
+
+- ❌ Valor: ventaja +4% (mín. 9% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
 📊 **Escenarios** (Poisson por jugador, 55.374 partidos)  
-Goles esperados: Inquisitor 2.34 · hotShot 1.84  
-Ganador: Inquisitor 49% · empate 23% · hotShot 28%  
-Total: más de 4.5 goles 41% · menos 59%  
-Hándicap Inquisitor: −1.5 30% · −2.5 16%  
+Goles esperados: hotShot 2.31 · Kray 2.89  
+Ganador: hotShot 29% · empate 20% · Kray 51%  
+Total: más de 5.5 goles 42% · menos 58%  
+Hándicap Kray: −1.5 34% · −2.5 19%  
 🔎 **Claves**  
-• Forma: Inquisitor ❌✅✅❌➖ | hotShot ✅❌✅✅➖  
-• Partidos: Inquisitor 512 | hotShot 476  
+• Forma: hotShot ✅❌✅✅➖ | Kray ✅✅✅✅➖  
+• Partidos: hotShot 476 | Kray 511  
 • Liga: Serie A  
-• Unibet: 1 2.02 · X 2.65 · 2 3.65 (sin margen 43%/33%/24%) · ventaja +2%. Sin stake hasta demostrar ROI con estas cuotas.  
-
-## hotShot vs RossFCDK — 04/11 · 05:38
-
-👀 candidata · 🎮⚽ FC 27 · Serie A · **Gana RossFCDK** @ **3.85** (Unibet) · prob 28% vs casas 23% · ventaja +9%
-
-- ❌ Valor: ventaja +9% (mín. 10% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 55.374 partidos)  
-Goles esperados: hotShot 2.28 · RossFCDK 1.80  
-Ganador: hotShot 48% · empate 23% · RossFCDK 28%  
-Total: más de 4.5 goles 39% · menos 61%  
-Hándicap hotShot: −1.5 30% · −2.5 15%  
-🔎 **Claves**  
-• Forma: hotShot ✅❌✅✅➖ | RossFCDK ❌❌➖❌➖  
-• Partidos: hotShot 476 | RossFCDK 475  
-• Liga: Serie A  
-• Unibet: 1 2.17 · X 2.32 · 2 3.85 (sin margen 40%/37%/23%) · ventaja +9%. Sin stake hasta demostrar ROI con estas cuotas.  
+• Unibet: 1 2.45 · X 3.95 · 2 2.04 (sin margen 35%/22%/43%) · ventaja +4%. Sin stake hasta demostrar ROI con estas cuotas.  
 

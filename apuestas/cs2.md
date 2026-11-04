@@ -1,32 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 04/11/2026 05:11 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Natus Vincere vs B8 — 04/11 · 05:30
-
-👀 candidata · 🎮 CS2 · Intel Extreme Masters Beijing 2026 · **Gana Natus Vincere** @ **1.23** (Thunderpick) · prob 76% vs casas 75% · ventaja -6%
-
-- ❌ Valor: ventaja -6% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 76.390 partidos)  
-Mapa: Natus Vincere 69% · Serie BO3: Natus Vincere 77% - 23% B8  
-Casas: Natus Vincere 75% · B8 25%  
-🔎 **Claves**  
-• Elo: Natus Vincere 2134 (277 series) | B8 1920 (445 series)  
-• Forma: Natus Vincere ✅❌✅✅❌ | B8 ✅❌❌❌✅  
-• H2H: 5: 5-0  
-• Torneo: Intel Extreme Masters Beijing 2026 (nivel S)  
-• Cambios de plantilla: Natus Vincere  
-• Jugadores en forma (rating últimos 10 mapas): Natus Vincere: w0nderful 6.6, b1t 6.6 | B8: npl 6.1, s1zzi 5.5  
-• Mapas (último año): Natus Vincere: fuerte train 80%, débil inferno 44% | B8: fuerte dust2 61%, débil inferno 35%  
-• Química de la plantilla: Natus Vincere: 366 mapas juntos de media | B8: 326 mapas juntos de media  
-🧩 **Crear apuesta** (marcador exacto, sin stake)  
-🧩 Natus Vincere gana + Más de 2.5 mapas (2-1): 24%, cuota justa 4.19 (producto ingenuo 3.69) · casa 25%  
-🧩 B8 gana + Más de 2.5 mapas (2-1): 11%, cuota justa 9.33 (producto ingenuo 13.33) · casa 11%  
-🎯 **Kills esperados en la serie** (rango 80 %; mejor que la media de sus 10 últimas en 52.293 casos: log-loss 0.6821→0.6561; sin cuotas de props, solo referencia)  
-Natus Vincere: w0nderful 37 (22-55) · makazze 36 (21-53) · b1t 36 (21-53) · iM 35 (20-52) · Aleksib 27 (15-40)  
-B8: npl 33 (19-48) · kensizor 31 (17-45) · s1zzi 31 (17-45) · esenthial 29 (17-43) · alex666 27 (15-41)  
+Actualizado 04/11/2026 05:40 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## The MongolZ vs FURIA — 04/11 · 10:30
 
