@@ -2,30 +2,30 @@
  "alpha": 0.02,
  "k": 12.0,
  "sub_w": 0.25,
- "n_test": 36397,
+ "n_test": 36132,
  "stats": {
   "goles": {
-   "ll": 0.2825,
-   "ll_media": 0.3216,
-   "ll_propia": 0.3018,
+   "ll": 0.2827,
+   "ll_media": 0.3218,
+   "ll_propia": 0.3021,
    "se_propia": 0.001
   },
   "tiros_puerta": {
-   "ll": 0.4828,
-   "ll_media": 0.569,
-   "ll_propia": 0.5353,
+   "ll": 0.4831,
+   "ll_media": 0.5693,
+   "ll_propia": 0.5359,
    "se_propia": 0.002
   },
   "cards": {
-   "ll": 0.4101,
+   "ll": 0.41,
    "ll_media": 0.4195,
-   "ll_propia": 0.4461,
+   "ll_propia": 0.4463,
    "se_propia": 0.0015
   },
   "asist": {
-   "ll": 0.2511,
-   "ll_media": 0.2629,
-   "ll_propia": 0.2641,
+   "ll": 0.2513,
+   "ll_media": 0.2634,
+   "ll_propia": 0.2646,
    "se_propia": 0.0009
   }
  }
