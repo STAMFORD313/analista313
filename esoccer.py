@@ -21,6 +21,7 @@ _P = json.loads((DIR / "params.json").read_text()) if (DIR / "params.json").exis
 LR = _P.get("lr", 0.03)        # paso del ataque/defensa de cada jugador por partido
 LR_LEAGUE = _P.get("lr_league", 0.01)
 CALIB = _P.get("calib")          # [a, b] de train_fc_calib.py: p_i ∝ p_i^a · e^(b·empate); None = sin recalibrar
+H2H = _P.get("h2h", 0.0)         # train_fc_calib.py: peso del cara a cara (balance encogido) sobre local/visitante
 SHRINK = _P.get("shrink", 0.0)  # encogimiento de las fuerzas hacia 0 por partido (olvido)
 MAX_GOALS = 15
 PER_RUN = 3                     # candidatas por run (hay ~1.500 partidos al día): las de pick más seguro en las próximas 2 h
@@ -76,6 +77,29 @@ def calibrate(p, calib=None):
     if not c: return p
     w = {k: math.exp(c[0] * math.log(max(v, 1e-9)) + (c[1] if k == "X" else 0)) for k, v in p.items()}
     t = sum(w.values()); return {k: v / t for k, v in w.items()}
+
+
+def h2h_table(df):
+    """{(a, b) ordenado: [victorias del 1.º − del 2.º, partidos]} de todo el historial."""
+    H = {}
+    for a, b, s1, s2 in zip(df.p1, df.p2, df.s1, df.s2):
+        k = tuple(sorted((a, b))); s = H.setdefault(k, [0, 0])
+        s[0] += (1 if s1 > s2 else -1 if s2 > s1 else 0) * (1 if k[0] == a else -1); s[1] += 1
+    return H
+
+
+def h2h_value(H, a, b):
+    """Balance de A frente a B encogido: (victorias − derrotas) / (partidos + 5)."""
+    k = tuple(sorted((a, b))); s = H.get(k, [0, 0])
+    return (s[0] if k[0] == a else -s[0]) / (s[1] + 5)
+
+
+def h2h_adjust(p, x, w=None):
+    """1X2 con el cara a cara: sube el logaritmo de «1» en w·x y baja el de «2» lo mismo (w=0: igual)."""
+    w = H2H if w is None else w
+    if not w or not x: return p
+    q = {"1": p["1"] * math.exp(w * x), "X": p["X"], "2": p["2"] * math.exp(-w * x)}
+    t = sum(q.values()); return {k: v / t for k, v in q.items()}
 
 
 def markets(l1, l2):
@@ -265,6 +289,7 @@ def run(state, today, kg):
     try: backfill_predictions(state)
     except Exception as e: print("simulación FC", repr(e))
     m, *_ = fit(df[df.date >= df.date.max() - pd.Timedelta(days=120)])
+    H = h2h_table(df)
     now = pd.Timestamp.now(tz="UTC")
     cands = []
     try:
@@ -276,7 +301,7 @@ def run(state, today, kg):
                 if not (now < start < now + pd.Timedelta(hours=2)) or key in state["analyzed"]: continue
                 l1, l2 = m.lam(g["league"], g["p1"], g["p2"]), m.lam(g["league"], g["p2"], g["p1"])
                 p, tot, diff = markets(l1, l2)
-                p = calibrate(p)
+                p = h2h_adjust(calibrate(p), h2h_value(H, g["p1"], g["p2"]))
                 cands.append((max(p.values()), g, start, key, l1, l2, p, tot, diff))
             time.sleep(0.3)
     except (requests.RequestException, ValueError) as e:

@@ -873,3 +873,10 @@ assert nba_props.stat_of("Points & Rebounds by the player - Including Overtime")
 assert nba_props.stat_of("Points, rebounds & assists by the player - Including Overtime") == "puntos+rebotes+asistencias"
 assert nba_props.stat_of("Point Spread - Including Overtime") is None and nba_props.stat_of("Rebounds by the player - Including Overtime") == "rebotes"
 print("ok mercados NBA reales")
+# FC 27: cara a cara entre jugadores (train_fc_calib.py → esoccer.h2h_adjust)
+_hdf = pd.DataFrame({"p1": ["a", "b", "a"], "p2": ["b", "a", "c"], "s1": [3, 0, 1], "s2": [1, 2, 1]})
+_H = esoccer.h2h_table(_hdf)
+assert abs(esoccer.h2h_value(_H, "a", "b") - 2 / 7) < 1e-9 and abs(esoccer.h2h_value(_H, "b", "a") + 2 / 7) < 1e-9 and esoccer.h2h_value(_H, "a", "z") == 0
+_ph = {"1": 0.4, "X": 0.2, "2": 0.4}; _qh = esoccer.h2h_adjust(_ph, 0.3, 0.15)
+assert _qh["1"] > _qh["2"] and abs(sum(_qh.values()) - 1) < 1e-9 and esoccer.h2h_adjust(_ph, 0.3, 0.0) == _ph
+print("ok cara a cara FC 27")

@@ -4,7 +4,7 @@ p_i ∝ p_i^a · exp(b·[i = empate]): `a` < 1 encoge los favoritos, `b` > 0 sub
 modelo de producción (esoccer.fit, cada partido predicho antes de jugarse); a y b por máxima verosimilitud en los días
 −30 a −15, medido en los últimos 15 días: log-loss y calibración de los picks seguros (prob. máx. ≥ 0.6, como los que
 manda el bot). Guarda "calib": [a, b] en data/fc/params.json solo si mejora el log-loss fuera de muestra en más de
-2 errores típicos (lo usa esoccer.calibrate). Uso: PYTHONIOENCODING=utf-8 python train_fc_calib.py"""
+2 errores típicos (lo usa esoccer.calibrate). Igual con el cara a cara («h2h», esoccer.h2h_adjust). Uso: PYTHONIOENCODING=utf-8 python train_fc_calib.py"""
 import json, math
 
 import numpy as np
@@ -20,13 +20,15 @@ def calibrate_arr(P, a, b):
 
 
 def predictions(df, since):
-    m, rows = E.Model(), []
+    m, rows, H = E.Model(), [], {}
     for r in df.itertuples():
         if r.date >= since:
             p, _, _ = E.markets(m.lam(r.league, r.p1, r.p2), m.lam(r.league, r.p2, r.p1))
-            rows.append((r.date, p["1"], p["X"], p["2"], 0 if r.s1 > r.s2 else 1 if r.s1 == r.s2 else 2))
+            rows.append((r.date, p["1"], p["X"], p["2"], 0 if r.s1 > r.s2 else 1 if r.s1 == r.s2 else 2, E.h2h_value(H, r.p1, r.p2)))
         m.update(r.league, r.p1, r.p2, r.s1, r.s2)
-    d = pd.DataFrame(rows, columns=["date", "p1", "pX", "p2", "y"])
+        k = tuple(sorted((r.p1, r.p2))); s = H.setdefault(k, [0, 0])  # cara a cara, solo con partidos anteriores
+        s[0] += (1 if r.s1 > r.s2 else -1 if r.s2 > r.s1 else 0) * (1 if k[0] == r.p1 else -1); s[1] += 1
+    d = pd.DataFrame(rows, columns=["date", "p1", "pX", "p2", "y", "h2h"])
     return d
 
 
@@ -52,6 +54,15 @@ def main():
     P_["calib_test"] = {"ll": round(float(l0.mean()), 4), "ll_cal": round(float(l1.mean()), 4), "se": round(se, 4), "n": int(te.sum())}
     if l1.mean() < l0.mean() - 2 * se: P_["calib"] = [round(float(x), 4) for x in w]; print("  guardado calib")
     else: P_.pop("calib", None)
+    # cara a cara entre los dos jugadores (sobre el 1X2 recalibrado que se use)
+    B = Q if "calib" in P_ else P; x = d.h2h.to_numpy()
+    shift = lambda w: (lambda Z: Z / Z.sum(1, keepdims=True))(B * np.exp(np.c_[w * x, 0 * x, -w * x]))
+    wh = float(optimize.minimize_scalar(lambda w: nll(shift(w), fi).sum(), bounds=(-1, 1), method="bounded").x)
+    lb, lh = nll(B, te), nll(shift(wh), te); seh = float((lh - lb).std() / math.sqrt(te.sum()))
+    print(f"  cara a cara: w={wh:+.3f}, log-loss {lb.mean():.4f} → {lh.mean():.4f} ({lh.mean() - lb.mean():+.4f} ± {seh:.4f})")
+    P_["h2h_test"] = {"ll": round(float(lb.mean()), 4), "ll_h2h": round(float(lh.mean()), 4), "se": round(seh, 4)}
+    if lh.mean() < lb.mean() - 2 * seh: P_["h2h"] = round(wh, 4); print("  guardado h2h")
+    else: P_.pop("h2h", None)
     f.write_text(json.dumps(P_))
 
 
