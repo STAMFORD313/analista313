@@ -268,7 +268,7 @@ def base_rate(D, sport, kind, stat, line):
 
 def shrink(p, sport, kind, stat, line, D, total=False):
     c = TEMP.get((sport, kind), 0.8)
-    b = 0.5  # provisional: hacia el 50 % (hacia la media de la liga castigaba demasiado a las estrellas)
+    b = 0.5 if total else base_rate(D, sport, kind, stat, line)  # hacia la media de la liga: mejor log-loss que hacia el 50 %
     lg = lambda q: math.log(min(max(q, 1e-4), 1 - 1e-4) / (1 - min(max(q, 1e-4), 1 - 1e-4)))
     return 1 / (1 + math.exp(-(lg(b) + c * (lg(p) - lg(b)))))
 
