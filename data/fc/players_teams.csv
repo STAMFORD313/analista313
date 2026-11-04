@@ -55502,3 +55502,103 @@ id,tournament_id,club1,club2,ht1,ht2
 2361985,260927,B Dortmund,Leipzig,1,2
 2361986,260927,Stuttgart,B Dortmund,1,2
 2361987,260927,Frankfurt,Bayern Munchen,2,2
+2361568,260890,Newcastle,Aston Villa,0,2
+2361569,260890,Man Utd,Nottm Forest,0,2
+2361570,260890,Nottm Forest,Newcastle,1,2
+2361571,260890,Aston Villa,Brighton,1,0
+2361572,260890,Brighton,Nottm Forest,1,5
+2361573,260890,Newcastle,Man Utd,2,1
+2361574,260890,Man Utd,Brighton,4,2
+2361575,260890,Nottm Forest,Aston Villa,1,0
+2361576,260890,Aston Villa,Man Utd,3,1
+2361577,260890,Brighton,Newcastle,1,1
+2361578,260890,Aston Villa,Newcastle,2,3
+2361579,260890,Nottm Forest,Man Utd,0,0
+2361580,260890,Newcastle,Nottm Forest,1,2
+2361581,260890,Brighton,Aston Villa,1,3
+2361582,260890,Nottm Forest,Brighton,3,1
+2361583,260890,Man Utd,Newcastle,3,3
+2361584,260890,Brighton,Man Utd,1,2
+2361585,260890,Aston Villa,Nottm Forest,2,1
+2361586,260890,Man Utd,Aston Villa,0,3
+2361587,260890,Newcastle,Brighton,2,1
+2361648,260901,Spain,Brazil,1,0
+2361649,260901,France,Argentina,1,3
+2361650,260901,Argentina,Spain,2,3
+2361651,260901,Brazil,England,1,1
+2361652,260901,England,Argentina,1,2
+2361653,260901,Spain,France,2,0
+2361654,260901,France,England,0,1
+2361655,260901,Argentina,Brazil,4,1
+2361656,260901,Brazil,France,2,2
+2361657,260901,England,Spain,1,0
+2361658,260901,Brazil,Spain,3,1
+2361659,260901,Argentina,France,2,0
+2361660,260901,Spain,Argentina,1,0
+2361661,260901,England,Brazil,2,2
+2361662,260901,Argentina,England,1,3
+2361663,260901,France,Spain,0,2
+2361664,260901,England,France,1,1
+2361665,260901,Brazil,Argentina,3,0
+2361666,260901,France,Brazil,3,2
+2361667,260901,Spain,England,2,1
+2361728,260912,Salzburg,Roma,2,0
+2361729,260912,Porto,Aston Villa,2,0
+2361730,260912,Aston Villa,Salzburg,0,2
+2361731,260912,Roma,Fenerbahce,1,3
+2361732,260912,Fenerbahce,Aston Villa,0,1
+2361733,260912,Salzburg,Porto,1,1
+2361734,260912,Porto,Fenerbahce,1,3
+2361735,260912,Aston Villa,Roma,1,2
+2361736,260912,Roma,Porto,1,2
+2361737,260912,Fenerbahce,Salzburg,1,1
+2361738,260912,Roma,Salzburg,2,1
+2361739,260912,Aston Villa,Porto,0,0
+2361740,260912,Salzburg,Aston Villa,0,2
+2361741,260912,Fenerbahce,Roma,2,1
+2361742,260912,Aston Villa,Fenerbahce,0,1
+2361743,260912,Porto,Salzburg,1,0
+2361744,260912,Fenerbahce,Porto,1,1
+2361745,260912,Roma,Aston Villa,2,0
+2361746,260912,Porto,Roma,0,1
+2361747,260912,Salzburg,Fenerbahce,2,0
+2362328,260934,Tottenham,Man City,2,0
+2362329,260934,Liverpool,Chelsea,1,1
+2362330,260934,Chelsea,Tottenham,1,3
+2362331,260934,Man City,Arsenal,1,3
+2362332,260934,Arsenal,Chelsea,3,1
+2362333,260934,Tottenham,Liverpool,1,1
+2362334,260934,Liverpool,Arsenal,1,4
+2362335,260934,Chelsea,Man City,4,3
+2362336,260934,Man City,Liverpool,1,2
+2362337,260934,Arsenal,Tottenham,2,0
+2362338,260934,Man City,Tottenham,2,1
+2362339,260934,Chelsea,Liverpool,1,1
+2362340,260934,Tottenham,Chelsea,1,3
+2362341,260934,Arsenal,Man City,1,1
+2362342,260934,Chelsea,Arsenal,1,1
+2362343,260934,Liverpool,Tottenham,3,2
+2362344,260934,Arsenal,Liverpool,4,3
+2362345,260934,Man City,Chelsea,1,3
+2362346,260934,Liverpool,Man City,1,2
+2362347,260934,Tottenham,Arsenal,1,2
+2362702,260950,Inter Miami CF,Atlanta United,1,1
+2362703,260950,LA Galaxy,Los Angeles FC,3,2
+2362704,260950,Los Angeles FC,Inter Miami CF,2,0
+2362705,260950,Atlanta United,Seattle Sounders FC,0,2
+2362706,260950,Seattle Sounders FC,Los Angeles FC,1,2
+2362707,260950,Inter Miami CF,LA Galaxy,0,2
+2362708,260950,LA Galaxy,Seattle Sounders FC,1,0
+2362709,260950,Los Angeles FC,Atlanta United,1,3
+2362710,260950,Atlanta United,LA Galaxy,2,0
+2362711,260950,Seattle Sounders FC,Inter Miami CF,2,0
+2362712,260950,Atlanta United,Inter Miami CF,3,1
+2362713,260950,Los Angeles FC,LA Galaxy,2,0
+2362714,260950,Inter Miami CF,Los Angeles FC,1,1
+2362715,260950,Seattle Sounders FC,Atlanta United,1,0
+2362716,260950,Los Angeles FC,Seattle Sounders FC,2,1
+2362717,260950,LA Galaxy,Inter Miami CF,0,0
+2362718,260950,Seattle Sounders FC,LA Galaxy,1,1
+2362719,260950,Atlanta United,Los Angeles FC,2,1
+2362720,260950,LA Galaxy,Atlanta United,0,1
+2362721,260950,Inter Miami CF,Seattle Sounders FC,0,1

@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 04/11/2026 09:17 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 04/11/2026 09:22 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## The MongolZ vs FURIA — 04/11 · 10:30
 

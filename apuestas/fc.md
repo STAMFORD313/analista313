@@ -1,42 +1,24 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 04/11/2026 09:17 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 04/11/2026 09:22 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## Uncle vs mko1919 — 04/11 · 09:19
+## Taz vs Ganger_29 — 04/11 · 09:28
 
-👀 candidata · 🎮⚽ FC 27 · Serie A · **Gana mko1919** @ **4.25** (Unibet) · prob 28% vs casas 20% · ventaja +17%
+👀 candidata · 🎮⚽ FC 27 · Ligue 1 · **Gana Taz** @ **2.16** (Unibet) · prob 52% vs casas 40% · ventaja +12%
 
-- ✅ Valor: ventaja +17% (mín. 13% con la incertidumbre, máx. 30%)
+- ✅ Valor: ventaja +12% (mín. 11% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 55.502 partidos)  
-Goles esperados: Uncle 3.13 · mko1919 2.42  
-Ganador: Uncle 53% · empate 19% · mko1919 28%  
-Total: más de 5.5 goles 48% · menos 52%  
-Hándicap Uncle: −1.5 36% · −2.5 22%  
+📊 **Escenarios** (Poisson por jugador, 55.602 partidos)  
+Goles esperados: Taz 3.18 · Ganger_29 2.55  
+Ganador: Taz 52% · empate 19% · Ganger_29 29%  
+Total: más de 5.5 goles 51% · menos 49%  
+Hándicap Taz: −1.5 35% · −2.5 21%  
 🔎 **Claves**  
-• Forma: Uncle ✅❌✅❌❌ | mko1919 ➖➖❌✅❌  
-• Partidos: Uncle 610 | mko1919 1052  
-• Liga: Serie A  
-• Unibet: 1 1.88 · X 2.63 · 2 4.25 (sin margen 46%/33%/21%) · ventaja +17%. Sin stake hasta demostrar ROI con estas cuotas.  
-
-## why vs v1nniePuh — 04/11 · 09:20
-
-👀 candidata · 🎮⚽ FC 27 · Champions League A 2x6 · **Gana why** @ **4.70** (Unibet) · prob 32% vs casas 18% · ventaja +48%
-
-- ❌ Valor: ventaja +48% (mín. 20% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 55.502 partidos)  
-Goles esperados: why 3.58 · v1nniePuh 4.26  
-Ganador: why 31% · empate 16% · v1nniePuh 53%  
-Total: más de 7.5 goles 52% · menos 48%  
-Hándicap v1nniePuh: −1.5 38% · −2.5 25%  
-🔎 **Claves**  
-• Forma: why ➖❌❌✅❌ | v1nniePuh ❌➖❌➖✅  
-• Partidos: why 525 | v1nniePuh 576  
-• Liga: Champions League A 2x6  
-• Unibet: 1 4.70 · X 5.80 · 2 1.30 (sin margen 18%/15%/67%) · ventaja +48%. Sin stake hasta demostrar ROI con estas cuotas.  
+• Forma: Taz ➖❌➖➖✅ | Ganger_29 ➖❌❌❌❌  
+• Partidos: Taz 837 | Ganger_29 712  
+• Liga: Ligue 1  
+• Unibet: 1 2.16 · X 4.00 · 2 2.28 (sin margen 40%/22%/38%) · ventaja +12%. Sin stake hasta demostrar ROI con estas cuotas.  
 
 ## DaVa vs dm1trena — 04/11 · 09:34
 
@@ -91,4 +73,40 @@ Hándicap Taz: −1.5 30% · −2.5 17%
 • Partidos: Lumix 865 | Taz 837  
 • Liga: Ligue 1  
 • Unibet: 1 1.97 · X 4.10 · 2 2.55 (sin margen 44%/21%/34%) · ventaja +17%. Sin stake hasta demostrar ROI con estas cuotas.  
+
+## Bomb1to vs mko1919 — 04/11 · 09:55
+
+👀 candidata · 🎮⚽ FC 27 · Serie A · **Gana Bomb1to** @ **1.92** (Unibet) · prob 59% vs casas 45% · ventaja +13%
+
+- ✅ Valor: ventaja +13% (mín. 12% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 55.602 partidos)  
+Goles esperados: Bomb1to 3.43 · mko1919 2.50  
+Ganador: Bomb1to 59% · empate 18% · mko1919 23%  
+Total: más de 5.5 goles 54% · menos 46%  
+Hándicap Bomb1to: −1.5 40% · −2.5 25%  
+🔎 **Claves**  
+• Forma: Bomb1to ✅✅❌❌❌ | mko1919 ❌❌❌❌❌  
+• Partidos: Bomb1to 1162 | mko1919 1060  
+• Liga: Serie A  
+• Unibet: 1 1.92 · X 3.20 · 2 3.15 (sin margen 45%/27%/28%) · ventaja +13%. Sin stake hasta demostrar ROI con estas cuotas.  
+
+## Loka vs saportj — 04/11 · 10:00
+
+👀 candidata · 🎮⚽ FC 27 · EFL Championship · **Gana Loka** @ **1.60** (Unibet) · prob 76% vs casas 55% · ventaja +22%
+
+- ✅ Valor: ventaja +22% (mín. 14% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 55.602 partidos)  
+Goles esperados: Loka 4.17 · saportj 2.12  
+Ganador: Loka 76% · empate 12% · saportj 11%  
+Total: más de 6.5 goles 44% · menos 56%  
+Hándicap Loka: −1.5 58% · −2.5 42%  
+🔎 **Claves**  
+• Forma: Loka ✅✅❌✅✅ | saportj ❌❌➖❌❌  
+• Partidos: Loka 1052 | saportj 612  
+• Liga: EFL Championship  
+• Unibet: 1 1.60 · X 5.25 · 2 3.10 (sin margen 55%/17%/28%) · ventaja +22%. Sin stake hasta demostrar ROI con estas cuotas.  
 
