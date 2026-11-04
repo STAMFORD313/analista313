@@ -23,6 +23,8 @@ MAX_EVENT = 0.05  # exposición correlacionada: máx. 5 % de la banca en un mism
 VOID_DAYS = 14  # apuesta sin resultado 14 días después del inicio → nula (devuelve el stake)
 REPO = os.getenv("GITHUB_REPOSITORY", "STAMFORD313/analista313")
 STATS_MD = A.DATA.parent / "ESTADISTICAS.md"
+MIN_ODDS = 1.5  # laboratorio 4-nov (valor contra Pinnacle, 11 años): 1.5-2 → ROI +14 % ± 5 %, 2-2.5 → +9 % ± 5 %; < 1.5 → +8 % ± 7 % (n 66)
+#               y en el bot real < 1.5 → −3 % ± 4 % (130): poca ganancia por apuesta y el margen se la come
 MAX_ODDS = 2.5  # banco de pruebas 3-nov (262 candidatas): cuota > 2.5 → prob. del bot 25-43 % vs acierto 16-30 % (casa 17-34 %), ROI −13 %;
 #               ≤ 2.5 bien calibrado. Por encima solo candidatas (se siguen midiendo en senales.csv). shortcut: elegido mirando esos datos
 LOG = A.DATA / "senales.csv"  # todas las señales liquidadas (apostadas o no): calibración, Brier y CLV a largo plazo
@@ -190,7 +192,7 @@ def place(bank, signals, today, kg):
     approved = []
     for s in sorted(new, key=lambda s: s["edge"] - margin(s), reverse=True):
         if len(approved) >= MAX_SINGLES: break
-        if not value_ok(s) or segment(s) in bad or s.get("sin_stake") or s["odds"] > MAX_ODDS: continue  # sin_stake: cuota real aún sin ROI demostrado (FC 27)
+        if not value_ok(s) or segment(s) in bad or s.get("sin_stake") or not MIN_ODDS <= s["odds"] <= MAX_ODDS: continue  # sin_stake: cuota real aún sin ROI demostrado (FC 27)
         ok, reason, conf, model = ai_review(s)  # solo consultiva: se registra en senales.csv para medir si aporta
         s["ai"] = {"apostar": ok, "motivo": reason, "confianza": conf, "modelo": model}
         f = estrategias.factor(s)  # bot «nutrición»: 0 en segmentos con pérdida demostrada, ×1.5 en rentables confirmados

@@ -746,7 +746,7 @@ assert np.allclose(devig.shin([2.0, 2.0]), [0.5, 0.5]) and devig.shin(np.array([
 print("ok Shin")
 
 # la banca no apuesta cuotas > MAX_ODDS (sesgo favorito-sorpresa: el bot sobrevalora las sorpresas)
-assert bankroll.MAX_ODDS == 2.5 and 's["odds"] > MAX_ODDS' in Path(bankroll.__file__).read_text()
+assert bankroll.MAX_ODDS == 2.5 and bankroll.MIN_ODDS == 1.5 and 'not MIN_ODDS <= s["odds"] <= MAX_ODDS' in Path(bankroll.__file__).read_text()
 print("ok cuota máxima")
 
 # bot «nutrición»: buscador de estrategias walk-forward (estrategias.py) y su efecto en el stake
