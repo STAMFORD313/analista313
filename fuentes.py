@@ -89,13 +89,6 @@ def update_opendota(pages=40):
     print(f"OpenDota: {len(rows)} partidas nuevas, {len(d)} guardadas")
 
 
-if __name__ == "__main__":
-    what = sys.argv[1] if len(sys.argv) > 1 else "todo"
-    if what in ("understat", "todo"): update_understat()
-    if what in ("opendota", "todo"): update_opendota(int(sys.argv[2]) if len(sys.argv) > 2 else 40)
-    if what in ("fotmob", "todo"): update_fotmob(int(sys.argv[2]) if len(sys.argv) > 2 else 400)
-
-
 # ── FotMob: estadísticas por partido con xG (data/fotmob/AAAAMM.jsonl) ──────────────────────────────────────────────
 FM = "https://www.fotmob.com/api/data"
 FM_DIR = A.DATA / "fotmob"
@@ -159,3 +152,10 @@ def update_fotmob(max_details=400, days_back=3):
         time.sleep(0.5)
     prog_f.write_text(json.dumps(prog))
     print(f"FotMob: {n} partidos nuevos, {len(done)} guardados")
+
+
+if __name__ == "__main__":
+    what = sys.argv[1] if len(sys.argv) > 1 else "todo"
+    if what in ("understat", "todo"): update_understat()
+    if what in ("opendota", "todo"): update_opendota(int(sys.argv[2]) if len(sys.argv) > 2 else 40)
+    if what in ("fotmob", "todo"): update_fotmob(int(sys.argv[2]) if len(sys.argv) > 2 else 400)
