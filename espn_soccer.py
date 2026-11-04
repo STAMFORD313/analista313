@@ -67,6 +67,11 @@ def compact(d):
     return {"referee": referee(d), "team_stats": ts, "players": players}
 
 
+def has_stats(d):
+    """ESPN guarda a 0 todas las estadísticas de los partidos que no cubre (~4 %): eso no son 0 córners."""
+    return bool(d) and bool(d.get("totalShots") or d.get("wonCorners") or d.get("foulsCommitted"))
+
+
 def path(league): return DIR / f"{LEAGUES[league]}.jsonl"
 
 
@@ -84,7 +89,7 @@ def recent_rows(codes=("ucl", "uel"), days=30):
             if str(g["date"])[:10] < cut: continue
             ts = g.get("team_stats") or {}
             h, a = ts.get("h") or {}, ts.get("a") or {}
-            if not h or not a: continue
+            if not (has_stats(h) and has_stats(a)): continue
             x = lambda d, k: d.get(k, float("nan"))
             out[f"{code}|{str(g['date'])[:10]}|{g['home']}|{g['away']}"] = {
                 "FTHG": g["hs"], "FTAG": g["as"], "HC": x(h, "wonCorners"), "AC": x(a, "wonCorners"),
@@ -108,7 +113,7 @@ def rows_for_keys(keys):
             if not (A.find_team(home, [g["home"]]) and A.find_team(away, [g["away"]])): continue
             ts = g.get("team_stats") or {}
             h, a = ts.get("h") or {}, ts.get("a") or {}
-            if not h or not a: break
+            if not (has_stats(h) and has_stats(a)): break  # sin estadísticas: que liquide football-data
             x = lambda d, c: d.get(c, float("nan"))
             out[k] = {"FTHG": g["hs"], "FTAG": g["as"], "HC": x(h, "wonCorners"), "AC": x(a, "wonCorners"),
                       "HY": x(h, "yellowCards") + h.get("redCards", 0), "AY": x(a, "yellowCards") + a.get("redCards", 0),

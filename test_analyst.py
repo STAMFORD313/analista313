@@ -924,3 +924,12 @@ assert "moneda" in _CH.coin(0.5) and _CH.coin(0.7) == ""
 assert "70 %" in "\n".join(_CH.preview("Real Madrid", "Barcelona", {**_D, "futbol|t|Real Madrid": _D["futbol|t|RM"], "futbol|t|Barcelona": _D["futbol|t|B"]}, "futbol"))
 _CH.LEAGUE.clear(); _CH._DB.clear(); _CH._DB["t"] = 0; _CH._BASE.clear()
 print("ok chat de Telegram")
+# ESPN: partidos sin estadísticas (todo a 0) no sirven para liquidar
+import espn_soccer as _ESZ
+assert not _ESZ.has_stats({"wonCorners": 0.0, "totalShots": 0.0, "foulsCommitted": 0.0}) and _ESZ.has_stats({"wonCorners": 0.0, "totalShots": 7.0})
+_ld = _ESZ.load
+_z = {k: 0.0 for k in _ESZ.TSTATS}
+_ESZ.load = lambda code: [{"id": "1", "date": "2026-11-01T15:00Z", "home": "Arsenal", "away": "Chelsea", "hs": 1, "as": 0, "team_stats": {"h": _z, "a": _z}}] if code == "E0" else []
+try: assert _ESZ.rows_for_keys(["E0|2026-11-01|Arsenal|Chelsea"]) == {}
+finally: _ESZ.load = _ld
+print("ok ESPN sin estadísticas no liquida")
