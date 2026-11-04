@@ -1184,7 +1184,10 @@
   "fc|2359897",
   "fc|2359904",
   "fc|2362328",
-  "fc|2362329"
+  "fc|2362329",
+  "fc|2363146",
+  "fc|2362331",
+  "fc|2359905"
  ],
  "signals": [
   {
@@ -3075,7 +3078,10 @@
    "placed": false,
    "captured": "2026-11-03T06:59",
    "version": "7948daf",
-   "bajas": "Miami (OH) RedHawks: sin bajas; Buffalo Bulls: sin bajas"
+   "bajas": "Miami (OH) RedHawks: sin bajas; Buffalo Bulls: sin bajas",
+   "result": true,
+   "score": "31-34",
+   "logged": true
   },
   {
    "market": "away",
@@ -14905,7 +14911,10 @@
    "version": "e240f08",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "4-7",
+   "result": true,
+   "logged": true
   },
   {
    "market": "H",
@@ -15232,7 +15241,10 @@
    "version": "e018207",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "5-2",
+   "result": true,
+   "logged": true
   },
   {
    "market": "A",
@@ -15277,7 +15289,10 @@
    "version": "e018207",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "4-6",
+   "result": true,
+   "logged": true
   },
   {
    "market": "H",
@@ -15416,7 +15431,10 @@
    "version": "e859e56",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "1-4",
+   "result": true,
+   "logged": true
   },
   {
    "market": "H",
@@ -15482,7 +15500,10 @@
    "bajas": "",
    "considered": true,
    "placed": false,
-   "anunciada": true
+   "anunciada": true,
+   "score": "6-4",
+   "result": false,
+   "logged": true
   },
   {
    "market": "A",
@@ -15524,7 +15545,10 @@
    "version": "9a564f6",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "7-7",
+   "result": false,
+   "logged": true
   },
   {
    "market": "A",
@@ -15561,19 +15585,6 @@
    "start": "2026-11-04T05:02:00+00:00",
    "league": "🎮⚽ FC 27 · Serie A",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 55.374 partidos)",
-    "Goles esperados: hotShot 2.31 · Kray 2.89",
-    "Ganador: hotShot 29% · empate 20% · Kray 51%",
-    "Total: más de 5.5 goles 42% · menos 58%",
-    "Hándicap Kray: −1.5 34% · −2.5 19%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: hotShot ✅❌✅✅➖ | Kray ✅✅✅✅➖",
-    "• Partidos: hotShot 476 | Kray 511",
-    "• Liga: Serie A",
-    "• Unibet: 1 2.45 · X 3.95 · 2 2.04 (sin margen 35%/22%/43%) · ventaja +4%. Sin stake hasta demostrar ROI con estas cuotas."
-   ],
    "context": "EA FC Esoccer Battle hotShot vs Kray (Serie A): goles esperados 2.31-2.89, 1X2 29%/20%/51%. Sin cuotas de casa.",
    "captured": "2026-11-04T04:40",
    "version": "d5d8969",
@@ -15595,19 +15606,6 @@
    "start": "2026-11-04T05:00:00+00:00",
    "league": "🎮⚽ FC 27 · Premier League 2x6",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 55.374 partidos)",
-    "Goles esperados: goldfer 2.56 · flamez 4.63",
-    "Ganador: goldfer 13% · empate 12% · flamez 74%",
-    "Total: más de 7.5 goles 43% · menos 57%",
-    "Hándicap flamez: −1.5 58% · −2.5 43%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: goldfer ✅❌❌❌✅ | flamez ✅✅✅✅❌",
-    "• Partidos: goldfer 413 | flamez 636",
-    "• Liga: Premier League 2x6",
-    "• Unibet: 1 4.10 · X 5.40 · 2 1.37 (sin margen 21%/16%/63%) · ventaja +2%. Sin stake hasta demostrar ROI con estas cuotas."
-   ],
    "context": "EA FC Esoccer Battle goldfer vs flamez (Premier League 2x6): goles esperados 2.56-4.63, 1X2 13%/12%/74%. Sin cuotas de casa.",
    "captured": "2026-11-04T04:40",
    "version": "d5d8969",
@@ -15629,22 +15627,97 @@
    "start": "2026-11-04T05:00:00+00:00",
    "league": "🎮⚽ FC 27 · Premier League 2x6",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 55.374 partidos)",
-    "Goles esperados: why 3.53 · v1nniePuh 4.19",
-    "Ganador: why 32% · empate 16% · v1nniePuh 52%",
-    "Total: más de 7.5 goles 51% · menos 49%",
-    "Hándicap v1nniePuh: −1.5 38% · −2.5 25%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: why ➖❌❌✅❌ | v1nniePuh ❌➖❌➖✅",
-    "• Partidos: why 525 | v1nniePuh 576",
-    "• Liga: Premier League 2x6",
-    "• Unibet: 1 2.28 · X 5.40 · 2 1.93 (sin margen 38%/16%/45%) · ventaja +1%. Sin stake hasta demostrar ROI con estas cuotas."
-   ],
    "context": "EA FC Esoccer Battle why vs v1nniePuh (Premier League 2x6): goles esperados 3.53-4.19, 1X2 32%/16%/52%. Sin cuotas de casa.",
    "captured": "2026-11-04T04:40",
    "version": "d5d8969",
+   "bajas": "",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "A",
+   "pick": "Simaponika",
+   "odds": 7.5,
+   "book": "Unibet",
+   "implied": 0.12,
+   "edge": 0.228,
+   "sin_stake": true,
+   "p": 0.164,
+   "key": "fc|2363146",
+   "match": "tizzy vs Simaponika",
+   "start": "2026-11-04T05:11:00+00:00",
+   "league": "🎮⚽ FC 27 · Club World Cup",
+   "sport": "🎮⚽",
+   "context": "EA FC Esoccer Battle tizzy vs Simaponika (Club World Cup): goles esperados 3.82-2.24, 1X2 69%/15%/16%. Sin cuotas de casa.",
+   "captured": "2026-11-04T05:11",
+   "version": "652418b",
+   "bajas": "",
+   "considered": true
+  },
+  {
+   "market": "H",
+   "pick": "flamez",
+   "odds": 4.2,
+   "book": "Unibet",
+   "implied": 0.209,
+   "edge": 0.174,
+   "sin_stake": true,
+   "p": 0.28,
+   "key": "fc|2362331",
+   "match": "flamez vs riko",
+   "start": "2026-11-04T05:18:00+00:00",
+   "league": "🎮⚽ FC 27 · Premier League 2x6",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 55.404 partidos)",
+    "Goles esperados: flamez 3.11 · riko 3.95",
+    "Ganador: flamez 28% · empate 16% · riko 56%",
+    "Total: más de 7.5 goles 41% · menos 59%",
+    "Hándicap riko: −1.5 40% · −2.5 26%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: flamez ✅✅✅✅❌ | riko ✅✅✅✅❌",
+    "• Partidos: flamez 636 | riko 582",
+    "• Liga: Premier League 2x6",
+    "• Unibet: 1 4.20 · X 3.60 · 2 1.60 (sin margen 21%/24%/55%) · ventaja +17%. Sin stake hasta demostrar ROI con estas cuotas."
+   ],
+   "context": "EA FC Esoccer Battle flamez vs riko (Premier League 2x6): goles esperados 3.11-3.95, 1X2 28%/16%/56%. Sin cuotas de casa.",
+   "captured": "2026-11-04T05:11",
+   "version": "652418b",
+   "bajas": "",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "A",
+   "pick": "hotShot",
+   "odds": 2.55,
+   "book": "Unibet",
+   "implied": 0.34,
+   "edge": 0.131,
+   "sin_stake": true,
+   "p": 0.443,
+   "key": "fc|2359905",
+   "match": "OG vs hotShot",
+   "start": "2026-11-04T05:14:00+00:00",
+   "league": "🎮⚽ FC 27 · Serie A",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 55.404 partidos)",
+    "Goles esperados: OG 2.11 · hotShot 2.39",
+    "Ganador: OG 33% · empate 23% · hotShot 44%",
+    "Total: más de 4.5 goles 47% · menos 53%",
+    "Hándicap hotShot: −1.5 27% · −2.5 14%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: OG ✅❌➖❌❌ | hotShot ✅❌✅✅➖",
+    "• Partidos: OG 512 | hotShot 476",
+    "• Liga: Serie A",
+    "• Unibet: 1 3.20 · X 2.23 · 2 2.55 (sin margen 27%/39%/34%) · ventaja +13%. Sin stake hasta demostrar ROI con estas cuotas."
+   ],
+   "context": "EA FC Esoccer Battle OG vs hotShot (Serie A): goles esperados 2.11-2.39, 1X2 33%/23%/44%. Sin cuotas de casa.",
+   "captured": "2026-11-04T05:11",
+   "version": "652418b",
    "bajas": "",
    "considered": true,
    "placed": false
