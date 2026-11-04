@@ -900,5 +900,14 @@ _CH._DB.update(db=_D, t=1e18)
 _r = _CH.answer("Mbappé más de 1.5 tiros a puerta a 1.9"); assert "🟢" in _r and "Mbappé" in _r, _r
 assert "Combinada" in _CH.answer("Mbappé más de 1.5 tiros a puerta y Madrid Barcelona más de 9.5 córners @2.0")
 assert "Real Madrid" in _CH.answer("estadísticas del Real Madrid") and "No te he entendido" in _CH.answer("qwerty zzz")
-_CH._DB.clear(); _CH._DB["t"] = 0
+for _e in _D.values(): _e["leagues"] = {"SP1"}
+_D["futbol|t|RM"]["games"][-1][1].update(_rival="Barcelona", _casa=True, goles=2.0); _D["futbol|t|RM"]["games"][-1][2]["goles"] = 1.0
+_sb = _CH.scoreboard
+_CH.scoreboard = lambda sp, lg, days=21: [(pd.Timestamp("2026-11-08 19:00", tz="UTC"), "Barcelona", "Real Madrid", "LaLiga")]
+try:
+    _r = _CH.answer("¿Cuál es el próximo rival del Real Madrid?"); assert "Barcelona – Real Madrid" in _r and "20:00" in _r, _r
+    _r = _CH.answer("próximo partido de Mbappé"); assert "Barcelona – Real Madrid" in _r, _r  # su equipo
+    _r = _CH.answer("último resultado del Real Madrid"); assert "ganó 2-1 contra Barcelona en casa" in _r, _r
+finally: _CH.scoreboard = _sb
+_CH._DB.clear(); _CH._DB["t"] = 0; _CH._BASE.clear()
 print("ok chat de Telegram")

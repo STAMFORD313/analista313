@@ -38,7 +38,7 @@ PLAYER_STATS = {"futbol": ["goles", "asistencias", "tiros", "tiros_puerta", "fal
 TEAM_STATS = {"futbol": ["goles", "corners", "tiros", "tiros_puerta", "faltas", "tarjetas", "fueras"], "nba": ["puntos"], "nhl": ["goles"]}
 HELP = ("💬 Escríbeme, por ejemplo:\n• <i>estadísticas de Mbappé</i>\n• <i>Mbappé más de 1.5 tiros a puerta a 1.9</i>\n"
         "• <i>LeBron más de 25.5 puntos y Curry 4+ triples @3.1</i>\n• <i>Real Madrid más de 5.5 córners</i>\n"
-        "• <i>Madrid Barcelona más de 9.5 córners</i> (total del partido)")
+        "• <i>Madrid Barcelona más de 9.5 córners</i> (total del partido)\n• <i>¿Cuál es el próximo rival del Almería?</i> · <i>último resultado del Betis</i>")
 _DB = {"t": 0}
 # apodos de uso común → nombre de ESPN (solo si el nombre completo no está ya en la frase)
 ALIAS = {"madrid": "real madrid", "real": "real madrid", "barca": "barcelona", "atleti": "atletico madrid", "atletico": "atletico madrid",
@@ -65,9 +65,10 @@ def norm(s):
 
 
 # ── datos: {clave: {"name", "sport", "kind", "team", "games": [(fecha, {stat: valor}, {stat: valor en contra})]}} ──
-def _add(db, key, name, sport, kind, date, vals, against=None, team=None):
-    e = db.setdefault(key, {"name": name, "sport": sport, "kind": kind, "team": team, "games": []})
+def _add(db, key, name, sport, kind, date, vals, against=None, team=None, league=None):
+    e = db.setdefault(key, {"name": name, "sport": sport, "kind": kind, "team": team, "games": [], "leagues": set()})
     e["games"].append((str(date)[:10], vals, against or {})); e["team"] = team or e["team"]
+    if league: e["leagues"].add(league)
 
 
 def build():
@@ -82,7 +83,8 @@ def build():
                                 "fueras": d.get("offsides")}
                 f, a = tv(ts.get(sd) or {}), tv(ts.get(o) or {})
                 f["goles"], a["goles"] = gf, ga
-                _add(db, f"futbol|t|{team}", team, "futbol", "equipo", g["date"], f, a)
+                f["_rival"], f["_casa"] = g["away"] if sd == "h" else g["home"], sd == "h"
+                _add(db, f"futbol|t|{team}", team, "futbol", "equipo", g["date"], f, a, league=code)
             for p in g["players"]:
                 team = g["home"] if p[2] == "h" else g["away"]
                 v = dict(zip(["goles", "asistencias", "tiros", "tiros_puerta", "paradas", "_rec", "faltas", "_am", "_ro", "fueras"], p[5:15]))
@@ -97,7 +99,8 @@ def build():
                 me = t["team"]; home = me == g["home"]
                 gf, ga = (g["hs"], g["as"]) if home else (g["as"], g["hs"])
                 key = "puntos" if lg == "nba" else "goles"
-                _add(db, f"{lg}|t|{me}", me, lg, "equipo", g["date"], {key: gf}, {key: ga})
+                _add(db, f"{lg}|t|{me}", me, lg, "equipo", g["date"], {key: gf, "_rival": g["away"] if home else g["home"], "_casa": home},
+                     {key: ga}, league=lg)
                 for p in t["players"]:
                     if p[6] or p[2] <= 0: continue
                     x = p + [0] * 14
@@ -234,10 +237,40 @@ def leg_prob(keys, leg, D):
         if len(x) < 5: return None, f"pocos datos de {LABEL[stat]} de {A.esc(e['name'])}"
         mu, var = moments(x); who = A.esc(e["name"])
         hist = sum(v > line for v in x[-10:]) if over else sum(v < line for v in x[-10:]), len(x[-10:])
-    p = p_over(mu, var, line); p = p if over else 1 - p
+    p = p_over(mu, var, line)
+    p = shrink(p, es[0]["sport"], es[0]["kind"], stat, line, D, total=len(es) == 2)
+    p = p if over else 1 - p
     txt = f"{who} {'más' if over else 'menos'} de {line:g} {LABEL[stat]}: media {mu:.1f} → <b>{p:.0%}</b>"
     if hist: txt += f" (lo cumplió en {hist[0]} de sus {hist[1]} últimos)"
     return p, txt
+
+
+# confianza: las probabilidades extremas de sus 20 últimos partidos se pasaban de optimistas (dice 76 %, ocurre 66 %);
+# temperatura sobre el logit alrededor de la frecuencia de toda la liga, elegida con ~1,4 M de partidos previos
+TEMP = {("futbol", "jugador"): 0.8, ("futbol", "equipo"): 0.65, ("nba", "jugador"): 0.85, ("nba", "equipo"): 0.85,
+        ("nhl", "jugador"): 0.85, ("nhl", "equipo"): 0.85}
+_BASE = {}
+
+
+def base_rate(D, sport, kind, stat, line):
+    k = (sport, kind, stat, line)
+    if k not in _BASE:
+        n = h = 0
+        for e in D.values():
+            if e["sport"] != sport or e["kind"] != kind: continue
+            for g in e["games"][-N_LAST:]:
+                v = g[1].get(stat)
+                if v is None or v != v: continue
+                n += 1; h += v > line
+        _BASE[k] = (h + 1) / (n + 2)
+    return _BASE[k]
+
+
+def shrink(p, sport, kind, stat, line, D, total=False):
+    c = TEMP.get((sport, kind), 0.8)
+    b = 0.5  # provisional: hacia el 50 % (hacia la media de la liga castigaba demasiado a las estrellas)
+    lg = lambda q: math.log(min(max(q, 1e-4), 1 - 1e-4) / (1 - min(max(q, 1e-4), 1 - 1e-4)))
+    return 1 / (1 + math.exp(-(lg(b) + c * (lg(p) - lg(b)))))
 
 
 def verdict(p, odds):
@@ -247,11 +280,94 @@ def verdict(p, odds):
     return f"{icon}: a {odds:.2f} ganas {ev:+.0%} por € a la larga (cuota justa {1 / max(p, 1e-6):.2f})."
 
 
+# ── calendario: próximo partido y último resultado ─────────────────────────────────────────────────────────────
+NEXT_RX = r"proxim|siguiente|cuando juega|contra quien|\brival|calendario|juega (?:hoy|manana|el)"
+LAST_RX = r"ultimo (?:partido|resultado)|como (?:quedo|acabo|salio)|resultado"
+SPORT_PATH = {"nba": "basketball/nba", "nhl": "hockey/nhl"}
+TZ = "Europe/Madrid"
+DIAS = ["lun", "mar", "mié", "jue", "vie", "sáb", "dom"]
+
+
+def scoreboard(sport, league, days=21):
+    """[(fecha UTC, local, visitante, competición)] de los próximos días en ESPN."""
+    import pandas as pd, requests
+    a = pd.Timestamp.now(tz="UTC"); b = a + pd.Timedelta(days=days)
+    path = SPORT_PATH.get(sport) or f"soccer/{ES.LEAGUES.get(league, league)}"
+    r = requests.get(f"https://site.api.espn.com/apis/site/v2/sports/{path}/scoreboard",
+                     params={"dates": f"{a:%Y%m%d}-{b:%Y%m%d}", "limit": 500}, headers=A.UA, timeout=20)
+    r.raise_for_status(); out = []
+    for e in r.json().get("events", []):
+        c = (e.get("competitions") or [{}])[0]
+        if ((c.get("status") or e.get("status") or {}).get("type") or {}).get("completed"): continue
+        t = {x.get("homeAway"): x["team"]["displayName"] for x in c.get("competitors", []) if x.get("team")}
+        if "home" in t and "away" in t:
+            out.append((pd.Timestamp(e["date"]), t["home"], t["away"], (e.get("league") or {}).get("name") or league))
+    return out
+
+
+def team_of(key, D):
+    e = D[key]
+    if e["kind"] == "equipo": return key
+    k = f"{e['sport']}|t|{e['team']}"
+    if k in D: return k
+    return next((k for k, x in D.items() if x["kind"] == "equipo" and x["sport"] == e["sport"] and x["name"] == e["team"]), None)
+
+
+def preview(home, away, D, sport):
+    """Totales esperados del partido (córners, tarjetas, goles) con lo de cada equipo a favor y en contra."""
+    kh, ka = f"{sport}|t|{home}", f"{sport}|t|{away}"
+    if kh not in D or ka not in D: return []
+    out = []
+    for stat in (("goles", "corners", "tarjetas") if sport == "futbol" else ("puntos",) if sport == "nba" else ("goles",)):
+        u = [(series(D[kh], stat), series(D[ka], stat, True)), (series(D[ka], stat), series(D[kh], stat, True))]
+        if any(len(x) < 5 or len(y) < 5 for x, y in u): continue
+        m = [(moments(x)[0] + moments(y)[0]) / 2 for x, y in u]
+        out.append(f"• {LABEL[stat]}: {m[0]:.1f} – {m[1]:.1f} (total {sum(m):.1f})")
+    return (["Lo esperado:"] + out) if out else []
+
+
+def next_match(key, D):
+    import pandas as pd
+    tk = team_of(key, D)
+    if not tk: return f"No sé en qué equipo juega {A.esc(D[key]['name'])}."
+    e = D[tk]; name = norm(e["name"])
+    found = []
+    for lg in sorted(e["leagues"]) or [e["sport"]]:
+        try: found += [m for m in scoreboard(e["sport"], lg) if name in (norm(m[1]), norm(m[2]))]
+        except Exception as ex: print("calendario", lg, repr(ex))
+    if not found: return f"{_who(e)}\nNo encuentro su próximo partido en las próximas 3 semanas."
+    when, home, away, comp = min(found, key=lambda m: m[0])
+    loc = when.tz_convert(TZ)
+    rival = away if norm(home) == name else home
+    lines = [_who(e), f"Próximo partido: <b>{A.esc(home)} – {A.esc(away)}</b>",
+             f"📅 {DIAS[loc.dayofweek]} {loc:%d/%m} a las {loc:%H:%M} (hora España) · {A.esc(comp)}"]
+    kr = f"{e['sport']}|t|{rival}"
+    if kr in D:
+        last = [g for g in D[tk]["games"] if g[1].get("_rival") == rival][-3:]
+        if last: lines.append("Últimos entre ellos: " + " · ".join(f"{g[1].get('goles', g[1].get('puntos')):g}-{g[2].get('goles', g[2].get('puntos')):g}" for g in last)
+                              + f" (goles de {A.esc(e['name'])} primero)")
+    return "\n".join(lines + preview(home, away, D, e["sport"]))
+
+
+def last_match(key, D):
+    tk = team_of(key, D)
+    if not tk: return f"No sé en qué equipo juega {A.esc(D[key]['name'])}."
+    e = D[tk]; d, f, a = e["games"][-1]
+    k = "puntos" if e["sport"] == "nba" else "goles"
+    gf, ga = f.get(k), a.get(k)
+    res = "✅ ganó" if gf > ga else "❌ perdió" if gf < ga else "➖ empató"
+    return f"{_who(e)}\nÚltimo partido ({d}): {res} {gf:g}-{ga:g} contra {A.esc(f.get('_rival', '?'))}" + (" en casa" if f.get("_casa") else " fuera")
+
+
 def answer(text):
     """Respuesta HTML a un mensaje libre del dueño."""
     t = text.strip()
     if not t or re.match(r"^/?(ayuda|help|hola|que puedes)", norm(t)): return HELP
     D = db()
+    q = low(t)
+    if re.search(NEXT_RX, q) or re.search(LAST_RX, q):
+        keys = find(t, D, n=1)
+        if keys: return next_match(keys[0], D) if re.search(NEXT_RX, q) else last_match(keys[0], D)
     legs, odds = split_legs(t), odds_in(t)
     parsed = []
     for seg in legs:
