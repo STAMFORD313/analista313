@@ -1,24 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 04/11/2026 10:19 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## DaVa vs MeLToSik — 04/11 · 10:22
-
-👀 candidata · 🎮⚽ FC 27 · Champions League AFC · **Gana DaVa** @ **1.76** (Unibet) · prob 62% vs casas 50% · ventaja +9%
-
-- ❌ Valor: ventaja +9% (mín. 11% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 55.602 partidos)  
-Goles esperados: DaVa 2.60 · MeLToSik 1.58  
-Ganador: DaVa 62% · empate 20% · MeLToSik 18%  
-Total: más de 4.5 goles 41% · menos 59%  
-Hándicap DaVa: −1.5 40% · −2.5 23%  
-🔎 **Claves**  
-• Forma: DaVa ✅✅➖❌✅ | MeLToSik ➖➖➖✅✅  
-• Partidos: DaVa 1100 | MeLToSik 1037  
-• Liga: Champions League AFC  
-• Unibet: 1 1.76 · X 3.30 · 2 3.65 (sin margen 50%/26%/24%) · ventaja +9%. Sin stake hasta demostrar ROI con estas cuotas.  
+Actualizado 04/11/2026 10:23 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Ganger_29 vs Taz — 04/11 · 10:28
 
@@ -92,6 +74,24 @@ Hándicap Wboy: −1.5 36% · −2.5 23%
 • Liga: Serie A  
 • Unibet: 1 4.10 · X 3.95 · 2 1.56 (sin margen 21%/22%/56%) · ventaja +16%. Sin stake hasta demostrar ROI con estas cuotas.  
 
+## saportj vs crinner — 04/11 · 10:48
+
+👀 candidata · 🎮⚽ FC 27 · EFL Championship · **Gana crinner** @ **1.71** (Unibet) · prob 64% vs casas 51% · ventaja +9%
+
+- ❌ Valor: ventaja +9% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 55.602 partidos)  
+Goles esperados: saportj 1.96 · crinner 3.14  
+Ganador: saportj 18% · empate 18% · crinner 64%  
+Total: más de 5.5 goles 40% · menos 60%  
+Hándicap crinner: −1.5 43% · −2.5 27%  
+🔎 **Claves**  
+• Forma: saportj ❌❌➖❌❌ | crinner ✅✅✅✅✅  
+• Partidos: saportj 612 | crinner 867  
+• Liga: EFL Championship  
+• Unibet: 1 3.10 · X 4.30 · 2 1.71 (sin margen 28%/20%/51%) · ventaja +9%. Sin stake hasta demostrar ROI con estas cuotas.  
+
 ## v1nniePuh vs why — 04/11 · 11:00
 
 👀 candidata · 🎮⚽ FC 27 · Champions League A 2x6 · **Gana why** @ **4.80** (Unibet) · prob 30% vs casas 18% · ventaja +45%
@@ -130,9 +130,9 @@ Hándicap Bomb1to: −1.5 40% · −2.5 26%
 
 ## saportj vs Loka — 04/11 · 11:20
 
-👀 candidata · 🎮⚽ FC 27 · CSL · **Gana Loka** @ **1.61** (Unibet) · prob 78% vs casas 55% · ventaja +26%
+👀 candidata · 🎮⚽ FC 27 · CSL · **Gana Loka** @ **1.57** (Unibet) · prob 78% vs casas 56% · ventaja +22%
 
-- ✅ Valor: ventaja +26% (mín. 14% con la incertidumbre, máx. 30%)
+- ✅ Valor: ventaja +22% (mín. 14% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
 
 📊 **Escenarios** (Poisson por jugador, 55.602 partidos)  
@@ -144,5 +144,5 @@ Hándicap Loka: −1.5 60% · −2.5 45%
 • Forma: saportj ❌❌➖❌❌ | Loka ✅✅❌✅✅  
 • Partidos: saportj 612 | Loka 1052  
 • Liga: CSL  
-• Unibet: 1 3.10 · X 5.20 · 2 1.61 (sin margen 28%/17%/55%) · ventaja +26%. Sin stake hasta demostrar ROI con estas cuotas.  
+• Unibet: 1 3.25 · X 5.25 · 2 1.57 (sin margen 27%/17%/56%) · ventaja +22%. Sin stake hasta demostrar ROI con estas cuotas.  
 
