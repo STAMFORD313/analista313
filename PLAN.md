@@ -11,7 +11,7 @@ Informe al usuario: una línea por mejora con 🟢 (conseguido) o 🔴 (no mejor
 ## Cola (en orden; marcar [x] al terminar)
 - [ ] Esports/FC 27 vs casa: repetir con ≥ 200 partidos (CS2/Dota) y ≥ 600 (FC 27); si el modelo bate a la casa en 2 mitades, quitar sin_stake.
 - [x] Esports: Unibet como 2.ª casa (cuotas de CS2/LoL/Dota/Valorant) → más partidos con cuota real y mejor cuota.
-- [ ] Esports: añadir las disciplinas que confirme `data/sondeo.json` (Valorant, etc.) con su experto de datos y su Elo.
+- [x] Esports: sondeo → bo3.gg solo tiene CS2/LoL/Dota/R6/MLBB (ya cubiertas); Unibet además CoD, Overwatch 2, Honor of Kings (sin fuente gratuita de resultados).
 - [ ] Props: con ≥ 200 liquidadas, decidir por estadística (NBA y fútbol) si se apuestan (ROI − 2 e.t. > 0).
 - [x] Fútbol: más ligas de ESPN en espn_soccer.LEAGUES (las 11 «nuevas» del bot).
 - [ ] Fútbol: modelo de estadísticas (córners/tarjetas/tiros) para las 11 ligas nuevas con los datos de ESPN.

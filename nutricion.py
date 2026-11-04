@@ -17,7 +17,7 @@ PY = sys.executable
 # nombre: (cada cuántas horas, minutos máximos, comando, qué hace)
 EXPERTS = {
     # ── recopiladores de datos ───────────────────────────────────────────────────────────────────────────────
-    "datos_futbol_jugadores": (0, 40, [PY, "espn_soccer.py", "3000"], "ESPN fútbol: alineaciones, jugadores, porteros y árbitro de 18 competiciones"),
+    "datos_futbol_jugadores": (0, 45, [PY, "espn_soccer.py", "1200"], "ESPN fútbol: alineaciones, jugadores, porteros y árbitro de 18 competiciones"),
     "datos_nba_nhl": (6, 60, [PY, "-c", "import nba_players as N; [N.download(l, refetch=True) for l in ('nba', 'nhl')]"],
                       "ESPN NBA/NHL: boxscores con puntos, rebotes, asistencias, triples y tiros por jugador"),
     "sondeo_esports": (12, 10, [PY, "sondeo.py"], "Disciplinas nuevas de bo3.gg y esports con cuota en Unibet"),
