@@ -2,7 +2,7 @@ name: probar_interprete
 # Prueba a mano del intérprete del chat (Gemini con el secreto GEMINI_API_KEY).
 on:
   workflow_dispatch:
-  push: {branches: [main], paths: ["interpreta.py", "chat.py", "sonda_fuentes.py", ".github/workflows/probar_interprete.yml"]}
+  push: {branches: [main], paths: ["interpreta.py", "chat.py", "pinnacle.py", ".github/workflows/probar_interprete.yml"]}
 permissions: {contents: read}
 jobs:
   probar:
@@ -16,7 +16,7 @@ jobs:
       - run: |
           python interpreta.py
           python -c "import chat; print('partidos 48 h', {k: len(v) for k, v in chat.upcoming(chat.DAY_LEAGUES).items()})"
-          python sonda_fuentes.py
+          python pinnacle.py && head -3 data/pinnacle/futbol.csv && wc -l data/pinnacle/*.csv
         env:
           PYTHONUNBUFFERED: "1"
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
