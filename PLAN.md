@@ -17,5 +17,5 @@ Informe al usuario: una línea por mejora con 🟢 (conseguido) o 🔴 (no mejor
 - [ ] Fútbol: modelo de estadísticas (córners/tarjetas/tiros) para las 11 ligas nuevas con los datos de ESPN.
 - [x] Fútbol: portero → córners descartado (sin efecto). Árbitro: ESPN solo lo publica en ~20 %; reintentar con más historial.
 - [ ] Props de CS2/Dota/LoL (kills) contra cuotas reales si Unibet/Thunderpick las publican.
-- [ ] NFL y Champions (único mercado US/Europa que bate al cierre): reforzar con datos de jugadores (QB titular, nflverse).
+- [x] NFL con nflverse: con 1.808 partidos la casa gana (la ventaja de 263 era ruido) → NFL sin apuestas. Champions: revalidar con más partidos.
 - [ ] Revisar semanalmente el banco de pruebas y las estrategias; ajustar MAX_ODDS y segmentos con datos nuevos.

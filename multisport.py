@@ -130,10 +130,15 @@ def moneyline(odds):
 _MC = json.loads((A.DATA / "market_check.json").read_text()) if (A.DATA / "market_check.json").exists() else {}
 
 
+_NFLV = json.loads((A.DATA / "nfl" / "nflverse.json").read_text()) if (A.DATA / "nfl" / "nflverse.json").exists() else {}
+
+
 def weight(league, market):
     """Peso del modelo frente al mercado sin margen por liga y mercado (market_check.py, cuotas de CIERRE de DraftKings):
     el elegido en la 1.ª mitad (w_opt) solo si en la 2.ª mitad bate al mercado; si no, 0 (= mercado puro: sin ventajas,
     el bot no apuesta ahí). Sin backtest: 0.5 (lo de antes)."""
+    if league == "nfl" and _NFLV and _NFLV.get("ll_mezcla", 0) >= _NFLV.get("ll_mercado", 9):
+        return 0.0  # nflverse (1.808 partidos 2020+, cuota de cierre): la casa gana a Elo + QB → sin ventaja
     r = (_MC.get(league) or {}).get(market)
     if not r: return 0.5
     return r["w_opt"] if r.get("ll_2a_mitad_w_opt", 9) < r.get("ll_2a_mitad_mercado", 0) else 0.0

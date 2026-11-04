@@ -781,7 +781,9 @@ import multisport as _MW
 _mc0 = _MW._MC
 _MW._MC = {"nba": {"ganador": {"w_opt": 0.1, "ll_2a_mitad_w_opt": 0.5322, "ll_2a_mitad_mercado": 0.5297}},
            "nfl": {"hándicap": {"w_opt": 0.7, "ll_2a_mitad_w_opt": 0.6880, "ll_2a_mitad_mercado": 0.6960}}}
+_nfx, _MW._NFLV = _MW._NFLV, {}
 assert _MW.weight("nba", "ganador") == 0.0 and _MW.weight("nfl", "hándicap") == 0.7 and _MW.weight("mlb", "ganador") == 0.5
+_MW._NFLV = _nfx
 assert _MW.signals(0.7, 1.9, 2.0, every=True, w=0.0)[0]["edge"] < 0.01  # peso 0 → prob. del mercado: sin ventaja
 _MW._MC = _mc0
 print("ok peso por liga y mercado")
@@ -833,3 +835,11 @@ assert kambi.find_esport("cs2", "FaZe Clan", "Natus Vincere", "2026-11-05T16:00:
 assert kambi.find_esport("cs2", "FaZe Clan", "Natus Vincere", "2026-11-06T16:00:00Z") is None
 kambi.get, kambi._esp = _kg3, _es0
 print("ok esports con Unibet")
+
+# NFL: si nflverse dice que la casa gana, peso 0 aunque el juez de 263 partidos diga otra cosa
+_nf0, _mc1 = _MW._NFLV, _MW._MC
+_MW._NFLV = {"ll_mezcla": 0.6114, "ll_mercado": 0.6098}
+_MW._MC = {"nfl": {"ganador": {"w_opt": 0.4, "ll_2a_mitad_w_opt": 0.64, "ll_2a_mitad_mercado": 0.65}}}
+assert _MW.weight("nfl", "ganador") == 0.0
+_MW._NFLV, _MW._MC = _nf0, _mc1
+print("ok NFL nflverse")
