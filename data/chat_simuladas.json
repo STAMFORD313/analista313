@@ -411,7 +411,9 @@
     "away": "Napoli",
     "txt": "Menos de 3.5 tarjetas",
     "odds": 2.16,
-    "p": 0.466164686130091
+    "p": 0.466164686130091,
+    "ok": false,
+    "por": "hubo 6 tarjetas"
    },
    {
     "src": "esports:cs2",
