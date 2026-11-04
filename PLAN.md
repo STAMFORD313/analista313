@@ -22,7 +22,8 @@ Informe al usuario: una línea por mejora con 🟢 (conseguido) o 🔴 (no mejor
 
 ## Fuentes de datos nuevas (sondeo desde Actions, 4-nov: gratis y sin clave)
 - [x] Pinnacle (cuotas de cierre, todos los deportes) → pinnacle.py, experto datos_pinnacle
-- [ ] Usar Pinnacle como referencia del juez del mercado y del valor de las piernas (sustituir la casa sin margen de Unibet/DK)
+- [x] Pinnacle como referencia del valor de las piernas «gana X» del chat (31 de 85 casan)
+- [ ] Pinnacle en el juez del mercado (cierre de Pinnacle frente al modelo, por liga) cuando haya ≥ 200 partidos guardados
 - [ ] FotMob (fútbol: estadísticas, alineaciones, xG por partido) · Understat (xG de 6 ligas)
 - [ ] OpenDota (Dota 2 pro: partidas, héroes, jugadores) · gol.gg (LoL) · Liquipedia (calendarios esports, con límite de peticiones)
 - [ ] API oficial NHL (api-web.nhle.com) · MLB statsapi · StatsBomb open data (histórico de eventos) · OpenLigaDB (Bundesliga)

@@ -6,6 +6,7 @@ Fuentes (las escribe el run de analista cada 30 min):
   esports          data/grafo.json (partidos con prob. de serie) + data/<juego>/odds.csv (Thunderpick) · resultados data/<juego>/matches.csv
   FC 27            data/fc/predicciones.csv (1X2 recalibrado + cuota Unibet) · resultados data/fc/matches.csv
 
+Referencia del mercado: pinnacle_fair (moneyline de Pinnacle sin margen) cuando Pinnacle tiene el partido.
 Calibración de los favoritos medida en el historial (walk-forward, últimos años; «dice → pasa»): NBA 87→87 %, CS2 87→87 %,
 Dota 2 82→86 %, LoL 92→87 %, R6 87→79 %, MLBB 92→85 %, FC 27 83→76 % (n 17). OFFSET resta lo que se pasa de optimista."""
 import json
@@ -82,6 +83,31 @@ def legs(hours=48, sports=None):
                             txt=txt, p=round(float(r.p_pick) - OFFSET["fc"], 4),
                             odds=float(r.odds) if getattr(r, "book", "") == "Unibet" and not pd.isna(r.odds) else None))
     return out
+
+
+# ── Pinnacle: probabilidad del mercado sin margen (la casa más afinada; pinnacle.py) ────────────────────────────────
+PIN_FILE = {"espn:nba": "baloncesto", "espn:nhl": "hockey", "espn:nfl": "americano", "espn:mlb": "beisbol"}
+_PIN = {}
+
+
+def pinnacle_fair(leg):
+    """Probabilidad sin margen (moneyline de Pinnacle) de la pierna «gana X», o None si Pinnacle no tiene el partido."""
+    f = PIN_FILE.get(leg["src"], "esports" if leg["src"].startswith("esports:") else None)
+    if not f or leg.get("side") not in ("H", "A"): return None
+    if f not in _PIN:
+        try: d = pd.read_csv(A.DATA / "pinnacle" / f"{f}.csv")
+        except FileNotFoundError: d = pd.DataFrame(columns=["market"])
+        _PIN[f] = d[d.market == "moneyline"].dropna(subset=["o_home", "o_away"])
+    t = pd.Timestamp(leg["start"])
+    for r in _PIN[f].itertuples():
+        if abs((pd.Timestamp(r.start) - t).total_seconds()) > 6 * 3600: continue
+        same = A.find_team(leg["home"], [r.home]) and A.find_team(leg["away"], [r.away])
+        swap = A.find_team(leg["home"], [r.away]) and A.find_team(leg["away"], [r.home])
+        if not (same or swap): continue
+        ih, ia = 1 / r.o_home, 1 / r.o_away; ph = ih / (ih + ia)
+        p_home = ph if same else 1 - ph
+        return round(p_home if leg["side"] == "H" else 1 - p_home, 4)
+    return None
 
 
 # ── liquidación ─────────────────────────────────────────────────────────────────────────────────────────────────

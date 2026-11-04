@@ -685,7 +685,8 @@ def long_combo(D, target, hours=48, sports=None):
             cands.append((m, t, *best))
     for l in other_legs(hours, sports):  # ganador en NBA/NHL/esports/FC 27 con la cuota guardada por el bot
         if not l["odds"]: continue
-        pm = min(0.99, 1 / l["odds"] / 1.05)  # prob. de la casa quitando ~5 % de margen
+        import multideporte
+        pm = multideporte.pinnacle_fair(l) or min(0.99, 1 / l["odds"] / 1.05)  # Pinnacle sin margen; si no, la casa − ~5 %
         q = W_LONG * l["p"] + (1 - W_LONG) * pm
         if not (LONG_P[0] <= q <= LONG_P[1]): continue
         meta[l["m"]] = l; priced += 1
@@ -728,6 +729,7 @@ def other_winner(q, hours=72):
     out = [f"⚔️ {l['sport']} <b>{A.esc(l['home'])} – {A.esc(l['away'])}</b> · {DIAS[loc.dayofweek]} {loc:%d/%m %H:%M}",
            f"👉 Favorito: <b>{A.esc(fav)}</b> ({l['p']:.0%}, cuota justa {1 / l['p']:.2f})" if l["txt"].startswith("Gana") else
            f"👉 Lo más probable: empate ({l['p']:.0%})"]
+    if (pin := multideporte.pinnacle_fair(l)): out.append(f"📈 Pinnacle (la casa más afinada) le da {pin:.0%}")
     if l.get("odds"): out.append(verdict(l["p"], l["odds"]))
     return "\n".join(out)
 

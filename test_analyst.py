@@ -1121,3 +1121,11 @@ print("ok crear apuesta de un partido")
 import pinnacle as _PN
 assert _PN.dec(150) == 2.5 and _PN.dec(-200) == 1.5 and _PN.dec(None) is None
 print("ok Pinnacle")
+# Pinnacle sin margen como referencia del mercado en las piernas «gana X»
+_MD._PIN["baloncesto"] = pd.DataFrame([{"start": "2026-11-05T00:30:00Z", "home": "Boston Celtics", "away": "Milwaukee Bucks",
+                                        "market": "moneyline", "o_home": 1.25, "o_away": 4.2}])
+_pf = _MD.pinnacle_fair({"src": "espn:nba", "side": "A", "start": "2026-11-05T00:30:00Z", "home": "Boston Celtics", "away": "Milwaukee Bucks"})
+assert abs(_pf - (1 / 4.2) / (1 / 1.25 + 1 / 4.2)) < 1e-3
+assert _MD.pinnacle_fair({"src": "espn:nba", "side": "H", "start": "2026-11-09T00:30:00Z", "home": "Boston Celtics", "away": "Milwaukee Bucks"}) is None
+_MD._PIN.clear()
+print("ok Pinnacle como referencia")
