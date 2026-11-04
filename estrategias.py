@@ -58,8 +58,11 @@ def search(d=None):
         old, new = g[np.array(idx) < half], g[np.array(idx) >= half]
         row = {"segmento": seg, "n": n, "roi": round(m, 4), "se": round(se, 4), "roi_antigua": round(float(old.mean()), 4) if len(old) else None,
                "roi_nueva": round(float(new.mean()), 4) if len(new) else None}
+        cl = pd.to_numeric(d.clv.iloc[idx], errors="coerce").dropna() if "clv" in d else pd.Series(dtype=float)
+        if len(cl) >= 10:  # CLV: ¿coge el bot mejor cuota que el cierre? señal de ventaja mucho antes que el ROI
+            row["clv"], row["clv_se"], row["clv_n"] = round(float(cl.mean()), 4), round(float(cl.std() / math.sqrt(len(cl))), 4), int(len(cl))
         if m - 2 * se > 0 and len(old) >= 10 and len(new) >= 10 and old.mean() > 0 and new.mean() > 0: good.append(row)
-        elif m + 2 * se < 0: bad.append(row)
+        elif m + 2 * se < 0 or (row.get("clv_n", 0) >= MIN_N and row["clv"] + 2 * row["clv_se"] < 0): bad.append(row)  # pierde o coge peor cuota que el cierre
     out = {"fecha": f"{pd.Timestamp.now(tz='UTC'):%Y-%m-%d %H:%M}", "n": len(d),
            "rentables": sorted(good, key=lambda r: -(r["roi"] - 2 * r["se"])), "bloqueados": sorted(bad, key=lambda r: r["roi"] + 2 * r["se"])}
     return out

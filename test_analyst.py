@@ -1212,3 +1212,14 @@ print("ok comparar simuladas")
 import fuentes as _FU
 assert "match_id" in _FU.OD_COLS and _FU.UNDERSTAT["SP1"] == "La_liga"
 print("ok fuentes extra")
+# CLV con el cierre de Pinnacle (ganador y más/menos) y su uso en estrategias
+import pinnacle as _PN2
+_PN2._CLOSE["baloncesto"] = pd.DataFrame([{"matchup": 1, "start": "2026-11-05T00:30:00+00:00", "league": "NBA", "home": "Boston Celtics", "away": "Milwaukee Bucks",
+    "market": "moneyline", "line": None, "o_home": 1.25, "o_away": 4.2, "o_draw": None, "o_over": None, "o_under": None, "seen": ""},
+    {"matchup": 1, "start": "2026-11-05T00:30:00+00:00", "league": "NBA", "home": "Boston Celtics", "away": "Milwaukee Bucks",
+     "market": "total", "line": 224.5, "o_home": None, "o_away": None, "o_draw": None, "o_over": 1.9, "o_under": 1.95, "seen": ""}])
+_s = {"key": "nba|2026-11-05|Boston Celtics|Milwaukee Bucks", "match": "Boston Celtics vs Milwaukee Bucks", "start": "2026-11-05T00:30Z"}
+assert abs(_PN2.close_p({**_s, "market": "away"}) - (1 / 4.2) / (1 / 1.25 + 1 / 4.2)) < 1e-3
+assert _PN2.close_p({**_s, "market": "over", "line": 224.5}) > 0.5 and _PN2.close_p({**_s, "market": "over", "line": 230.5}) is None
+_PN2._CLOSE.clear()
+print("ok CLV con Pinnacle")

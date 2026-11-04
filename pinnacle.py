@@ -37,7 +37,7 @@ def snapshot(sport_id, hours=72):
     keep = {}
     for i, m in mus.items():
         t = pd.Timestamp(m["startTime"])
-        if now - pd.Timedelta(hours=3) < t < now + pd.Timedelta(hours=hours): keep[i] = (m, t)
+        if now < t < now + pd.Timedelta(hours=hours): keep[i] = (m, t)  # solo antes de empezar: la última = la de cierre (no en vivo)
     rows = []
     for mk in get(f"sports/{sport_id}/markets/straight?primaryOnly=true&withSpecials=false"):
         if mk.get("matchupId") not in keep or mk.get("period") != 0 or mk.get("status") != "open": continue
@@ -73,3 +73,38 @@ def update(hours=72):
 
 if __name__ == "__main__":
     update(int(sys.argv[1]) if len(sys.argv) > 1 else 72)
+
+
+# ── CLV: la cuota que cogió el bot frente al cierre de Pinnacle sin margen ──────────────────────────────────────────
+FILE_OF = {"nba": "baloncesto", "cbb": "baloncesto", "nhl": "hockey", "nfl": "americano", "cfb": "americano", "mlb": "beisbol",
+           "cs2": "esports", "lol": "esports", "dota2": "esports", "r6": "esports", "mlbb": "esports", "atp": "tenis", "wta": "tenis"}
+_CLOSE = {}
+
+
+def close_p(s):
+    """Probabilidad sin margen del cierre de Pinnacle del lado apostado por la señal s (ganador o más/menos), o None."""
+    import analyst as A
+    lg = s["key"].split("|")[0]
+    f = FILE_OF.get(lg, "futbol" if lg in A.ALL_LEAGUES or lg in ("ucl", "uel", "uecl") else None)
+    if not f or " vs " not in s.get("match", ""): return None
+    if f not in _CLOSE:
+        try: _CLOSE[f] = pd.read_csv(DIR / f"{f}.csv")
+        except FileNotFoundError: _CLOSE[f] = pd.DataFrame(columns=COLS)
+    d, (home, away), t = _CLOSE[f], s["match"].split(" vs ", 1), pd.Timestamp(s["start"])
+    m = s["market"]
+    side = {"home": "h", "H": "h", "t1": "h", "away": "a", "A": "a", "t2": "a", "D": "d",
+            "over": "o", "O25": "o", "under": "u", "U25": "u"}.get(m)
+    if not side: return None
+    mk = "total" if side in "ou" else "moneyline"
+    for r in d[d.market == mk].itertuples():
+        if abs((pd.Timestamp(r.start) - t).total_seconds()) > 3 * 3600: continue
+        if not (A.find_team(home, [r.home]) and A.find_team(away, [r.away])): continue
+        if mk == "total":
+            line = s.get("line") or (2.5 if m in ("O25", "U25") else None)
+            if line is None or r.line != line or pd.isna(r.o_over) or pd.isna(r.o_under): return None
+            io, iu = 1 / r.o_over, 1 / r.o_under
+            return round((io if side == "o" else iu) / (io + iu), 4)
+        inv = {"h": 1 / r.o_home, "a": 1 / r.o_away, "d": (1 / r.o_draw) if r.o_draw == r.o_draw and r.o_draw else 0.0}
+        if side == "d" and not inv["d"]: return None
+        return round(inv[side] / sum(inv.values()), 4)
+    return None

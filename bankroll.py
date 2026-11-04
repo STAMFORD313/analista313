@@ -213,6 +213,11 @@ def place(bank, signals, today, kg):
 def log_signals(state):
     """Añade a LOG cada señal ya decidida (ganada/perdida) una sola vez; state.json las poda a los 3 días."""
     used = {tuple(l) for b in state["bank"]["bets"] for l in b["legs"]}
+    import pinnacle  # CLV en todos los deportes: cierre de Pinnacle sin margen (si football-data no trae su cierre)
+    for s in state["signals"]:
+        if s.get("result") in (True, False) and not s.get("logged") and s.get("clv") is None and not s.get("close_p"):
+            try: s["close_p"] = pinnacle.close_p(s)
+            except Exception as e: print("CLV Pinnacle", repr(e)[:100])
     rows = [{"fecha": str(s.get("start", ""))[:10], "deporte": s.get("sport") or ("⚽" if s["key"].split("|")[0] in A.ALL_LEAGUES else s["key"].split("|")[0]), "mercado": s["market"], "p": s["p"],
              "implied": s.get("implied", round(1 / s["odds"], 3)), "odds": s["odds"], "edge": s["edge"],
              "gano": int(s["result"] is True), "retorno": s.get("factor", s["odds"] if s["result"] is True else 0.0),
