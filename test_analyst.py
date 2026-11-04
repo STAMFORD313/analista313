@@ -1192,3 +1192,11 @@ try:
     _r = _CH.analyze_slip({"piernas": [_lg, _lg, _lg], "cuota_total": 14.0}); assert "muy ligadas" in _r and "Todas a la vez" not in _r, _r
 finally: _MD.legs = _MDl4; _CH._DB.clear(); _CH._DB["t"] = 0; _CH._CTX.clear(); _CH.LAST_FILE.unlink(missing_ok=True)
 print("ok crear apuesta sin multiplicar")
+# simuladas: la misma combinada no se apunta dos veces
+_smf3, _smp3 = _SM.FILE, _SM.push
+_SM.FILE = A_.DATA / "_test_simuladas3.json"; _SM.FILE.unlink(missing_ok=True); _SM._MEM.clear(); _SM.push = lambda m: None
+try:
+    _cb = {"titulo": "X", "legs": [dict(home="A", away="B", txt="Más de 4.5 córners", start=None, code=None)], "odds": 1.2}
+    assert not _SM.record(_cb).get("duplicada") and _SM.record(_cb).get("duplicada") and len(_SM.load()) == 1
+finally: _SM.FILE.unlink(missing_ok=True); _SM.FILE, _SM.push = _smf3, _smp3; _SM._MEM.clear()
+print("ok simuladas sin duplicados")

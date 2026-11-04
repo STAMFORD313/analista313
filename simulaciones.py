@@ -50,6 +50,9 @@ def push(msg):
 def record(combo, stake=1.0):
     """Apunta una combinada de chat.py ({"titulo", "legs": [{code, home, away, start, txt, odds, p}], "odds", "p"})."""
     bets = load()
+    sig = lambda legs: sorted((l.get("home"), l.get("away"), l.get("txt"), l.get("jugador")) for l in legs)
+    dup = next((b for b in bets.values() if b["estado"] == "pendiente" and sig(b["legs"]) == sig(combo["legs"])), None)
+    if dup: return {**dup, "duplicada": True}  # la misma combinada ya apuntada (p. ej. un «sí» repetido)
     bid = f"{pd.Timestamp.now(tz='UTC'):%Y%m%d%H%M%S}"
     bets[bid] = {"id": bid, "creada": str(pd.Timestamp.now(tz="UTC")), "titulo": combo.get("titulo", "Combinada"),
                  "legs": combo["legs"], "odds": combo.get("odds"), "p": combo.get("p"), "stake": stake,

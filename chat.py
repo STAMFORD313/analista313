@@ -1090,6 +1090,7 @@ def _answer(t, short=True):
         if not last_combo(): return "Primero pídeme una combinada (o mándame la foto del boleto) y luego te la simulo."
         import simulaciones
         b = simulaciones.record(_CTX.pop("ultima")); LAST_FILE.unlink(missing_ok=True)
+        if b.get("duplicada"): return "👍 Esa ya la tenías apuntada; te aviso cuando acaben los partidos."
         import boleto as BO
         legs = [(f"{l['home']} – {l['away']}", (f"{l['jugador']}: " if l.get("jugador") else "") + l["txt"]
                  + (f" @ {l['odds']:.2f}" if l.get("odds") else ""), None) for l in b["legs"]]
