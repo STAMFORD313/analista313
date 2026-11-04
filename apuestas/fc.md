@@ -1,60 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 04/11/2026 02:40 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Yerema vs Sheva — 04/11 · 02:49
-
-👀 candidata · 🎮⚽ FC 27 · Volta International A · **Gana Sheva** @ **1.16** (cuota justa (sin casa)) · prob 86% vs casas 86% · ventaja +0%
-
-- ❌ Valor: ventaja +0% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 55.206 partidos)  
-Goles esperados: Yerema 1.84 · Sheva 4.84  
-Ganador: Yerema 6% · empate 8% · Sheva 86%  
-Total: más de 6.5 goles 50% · menos 50%  
-Hándicap Sheva: −1.5 72% · −2.5 57%  
-🔎 **Claves**  
-• Forma: Yerema ❌❌❌❌✅ | Sheva ❌✅➖✅✅  
-• Partidos: Yerema 528 | Sheva 1294  
-• Liga: Volta International A  
-• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
-
-## hotShot vs OG — 04/11 · 03:04
-
-👀 candidata · 🎮⚽ FC 27 · Champions League A · **Gana hotShot** @ **2.70** (Unibet) · prob 45% vs casas 32% · ventaja +21%
-
-- ✅ Valor: ventaja +21% (mín. 14% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 55.276 partidos)  
-Goles esperados: hotShot 2.36 · OG 2.06  
-Ganador: hotShot 45% · empate 23% · OG 32%  
-Total: más de 4.5 goles 45% · menos 55%  
-Hándicap hotShot: −1.5 28% · −2.5 14%  
-🔎 **Claves**  
-• Forma: hotShot ➖❌➖❌➖ | OG ✅❌✅➖✅  
-• Partidos: hotShot 460 | OG 496  
-• Liga: Champions League A  
-• Unibet: 1 2.70 · X 2.10 · 2 3.25 (sin margen 32%/41%/27%) · ventaja +21%. Sin stake hasta demostrar ROI con estas cuotas.  
-
-## Stenido vs zaha — 04/11 · 03:08
-
-👀 candidata · 🎮⚽ FC 27 · LaLiga 2x6 · **Gana zaha** @ **1.22** (cuota justa (sin casa)) · prob 82% vs casas 82% · ventaja +0%
-
-- ❌ Valor: ventaja +0% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 55.206 partidos)  
-Goles esperados: Stenido 3.97 · zaha 7.17  
-Ganador: Stenido 10% · empate 8% · zaha 82%  
-Total: más de 11.5 goles 43% · menos 57%  
-Hándicap zaha: −1.5 69% · −2.5 57%  
-🔎 **Claves**  
-• Forma: Stenido ✅❌✅❌➖ | zaha ✅✅✅✅✅  
-• Partidos: Stenido 175 | zaha 308  
-• Liga: LaLiga 2x6  
-• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
+Actualizado 04/11/2026 03:10 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Kavviro vs kkikus — 04/11 · 03:15
 
@@ -74,6 +20,24 @@ Hándicap Kavviro: −1.5 63% · −2.5 46%
 • Liga: Champions League B  
 • Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
 
+## tizzy vs Simaponika — 04/11 · 03:15
+
+👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana Simaponika** @ **6.10** (Unibet) · prob 16% vs casas 14% · ventaja -0%
+
+- ❌ Valor: ventaja -0% (mín. 8% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 55.276 partidos)  
+Goles esperados: tizzy 3.90 · Simaponika 2.29  
+Ganador: tizzy 69% · empate 15% · Simaponika 16%  
+Total: más de 6.5 goles 42% · menos 58%  
+Hándicap tizzy: −1.5 51% · −2.5 35%  
+🔎 **Claves**  
+• Forma: tizzy ➖✅✅✅✅ | Simaponika ➖❌❌❌❌  
+• Partidos: tizzy 303 | Simaponika 1006  
+• Liga: Champions League B  
+• Unibet: 1 1.23 · X 5.75 · 2 6.10 (sin margen 71%/15%/14%) · ventaja -0%. Sin stake hasta demostrar ROI con estas cuotas.  
+
 ## Inquisitor vs hotShot — 04/11 · 03:16
 
 👀 candidata · 🎮⚽ FC 27 · Champions League A · **Gana Inquisitor** @ **2.65** (Unibet) · prob 48% vs casas 33% · ventaja +27%
@@ -92,6 +56,24 @@ Hándicap Inquisitor: −1.5 29% · −2.5 15%
 • Liga: Champions League A  
 • Unibet: 1 2.65 · X 2.65 · 2 2.48 (sin margen 33%/33%/35%) · ventaja +27%. Sin stake hasta demostrar ROI con estas cuotas.  
 
+## Solya vs zaha — 04/11 · 03:26
+
+👀 candidata · 🎮⚽ FC 27 · LaLiga 2x6 · **Gana zaha** @ **2.14** (Unibet) · prob 46% vs casas 41% · ventaja -1%
+
+- ❌ Valor: ventaja -1% (mín. 8% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 55.276 partidos)  
+Goles esperados: Solya 4.98 · zaha 5.21  
+Ganador: Solya 40% · empate 14% · zaha 46%  
+Total: más de 10.5 goles 44% · menos 56%  
+Hándicap zaha: −1.5 34% · −2.5 23%  
+🔎 **Claves**  
+• Forma: Solya ✅✅➖✅➖ | zaha ❌✅➖✅➖  
+• Partidos: Solya 273 | zaha 316  
+• Liga: LaLiga 2x6  
+• Unibet: 1 2.12 · X 4.90 · 2 2.14 (sin margen 41%/18%/41%) · ventaja -1%. Sin stake hasta demostrar ROI con estas cuotas.  
+
 ## tizzy vs kkikus — 04/11 · 03:27
 
 👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana tizzy** @ **1.22** (cuota justa (sin casa)) · prob 82% vs casas 82% · ventaja +0%
@@ -109,6 +91,24 @@ Hándicap tizzy: −1.5 66% · −2.5 50%
 • Partidos: tizzy 294 | kkikus 837  
 • Liga: Champions League B  
 • Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
+
+## Simaponika vs Kavviro — 04/11 · 03:27
+
+👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana Kavviro** @ **1.45** (Unibet) · prob 68% vs casas 60% · ventaja -1%
+
+- ❌ Valor: ventaja -1% (mín. 8% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 55.276 partidos)  
+Goles esperados: Simaponika 1.83 · Kavviro 3.31  
+Ganador: Simaponika 15% · empate 17% · Kavviro 68%  
+Total: más de 5.5 goles 41% · menos 59%  
+Hándicap Kavviro: −1.5 49% · −2.5 31%  
+🔎 **Claves**  
+• Forma: Simaponika ➖❌❌❌❌ | Kavviro ✅✅❌✅✅  
+• Partidos: Simaponika 1006 | Kavviro 711  
+• Liga: Champions League B  
+• Unibet: 1 3.80 · X 5.00 · 2 1.45 (sin margen 23%/17%/60%) · ventaja -1%. Sin stake hasta demostrar ROI con estas cuotas.  
 
 ## hotShot vs RossFCDK — 04/11 · 03:28
 
