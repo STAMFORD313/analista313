@@ -27,8 +27,21 @@ def warm():
     threading.Thread(target=go, daemon=True).start()
 
 
+def decode(path):
+    """Audio → float32 mono a 16 kHz con PyAV (faster_whisper.decode_audio pasa a av.open un argumento que PyAV ≥ 15 ya no
+    acepta: «open() got an unexpected keyword argument 'metadata_errors'»)."""
+    import av, numpy as np
+    out = []
+    with av.open(path) as c:
+        rs = av.audio.resampler.AudioResampler(format="s16", layout="mono", rate=16000)
+        for fr in c.decode(audio=0):
+            out += [f.to_ndarray().reshape(-1) for f in rs.resample(fr)]
+        out += [f.to_ndarray().reshape(-1) for f in rs.resample(None)]
+    return (np.concatenate(out).astype(np.float32) / 32768.0) if out else np.zeros(0, np.float32)
+
+
 def transcribe(path):
-    segs, _ = model().transcribe(path, language="es", beam_size=5, vad_filter=True,
+    segs, _ = model().transcribe(decode(path), language="es", beam_size=5, vad_filter=True,
                                  initial_prompt="Apuestas de fútbol, NBA y esports: córners, tarjetas, tiros a puerta, cuota, combinada.")
     return " ".join(s.text.strip() for s in segs).strip()
 
