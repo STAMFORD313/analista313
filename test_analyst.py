@@ -921,8 +921,12 @@ _mm = _CH.match_model("futbol|t|RM", "futbol|t|B", _D, "corners")
 assert _mm and _mm[1] > 4.0 and 8.5 < _mm[0] + _mm[1] < 10.5, _mm  # el Barça (7 a favor) saca más que la media de visitante (4)
 _r = _CH.answer("Madrid Barcelona más de 9.5 córners"); assert "esperado" in _r, _r
 assert "moneda" in _CH.coin(0.5) and _CH.coin(0.7) == ""
-assert "70 %" in "\n".join(_CH.preview("Real Madrid", "Barcelona", {**_D, "futbol|t|Real Madrid": _D["futbol|t|RM"], "futbol|t|Barcelona": _D["futbol|t|B"]}, "futbol"))
-_CH.LEAGUE.clear(); _CH._DB.clear(); _CH._DB["t"] = 0; _CH._BASE.clear()
+assert "seguro" in "\n".join(_CH.preview("Real Madrid", "Barcelona", {**_D, "futbol|t|Real Madrid": _D["futbol|t|RM"], "futbol|t|Barcelona": _D["futbol|t|B"]}, "futbol"))
+assert "curarte en salud" in _CH.answer("Madrid Barcelona más de 9.5 córners")
+assert _CH.safe_line(lambda l: 1.0 if l < 4 else 0.0) == 3.5 and _CH.safer(lambda l: 0.9 if l < 6 else 0.5, 9.5, "corners").count("más de 5.5") == 1
+_CH._CTX["partido"] = ("futbol|t|RM", "futbol|t|B")
+_r = _CH.answer("combinada segura"); assert "Combinada segura" in _r and "cuota justa" in _r, _r
+_CH.LEAGUE.clear(); _CH._DB.clear(); _CH._DB["t"] = 0; _CH._BASE.clear(); _CH._CTX.clear()
 print("ok chat de Telegram")
 # ESPN: partidos sin estadísticas (todo a 0) no sirven para liquidar
 import espn_soccer as _ESZ

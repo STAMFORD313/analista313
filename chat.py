@@ -39,6 +39,7 @@ TEAM_STATS = {"futbol": ["goles", "corners", "tiros", "tiros_puerta", "faltas", 
 HELP = ("💬 Escríbeme, por ejemplo:\n• <i>estadísticas de Mbappé</i>\n• <i>Mbappé más de 1.5 tiros a puerta a 1.9</i>\n"
         "• <i>LeBron más de 25.5 puntos y Curry 4+ triples @3.1</i>\n• <i>Real Madrid más de 5.5 córners</i>\n"
         "• <i>Madrid Barcelona más de 9.5 córners</i> (total del partido)\n• <i>¿Cuál es el próximo rival del Almería?</i> · <i>último resultado del Betis</i>\n"
+        "• <i>Combinada segura</i> (del último partido) · <i>combinada Girona Almería</i>\n"
         "• <i>¿Quién gana?</i> (del último partido que te mostré) · <i>quién gana Girona Almería</i> · <i>gana Girona a 2.10</i>")
 _DB = {"t": 0}
 LEAGUE = {}  # liga → [(estadísticas del local, del visitante)] en orden (sin partidos sin estadísticas: ESPN los da a 0)
@@ -265,7 +266,9 @@ def leg_prob(keys, leg, D):
     if mm:
         p = nb_over(mm[0] + mm[1], mm[2], line); p = p if over else 1 - p
         txt = f"{A.esc(es[0]['name'])} – {A.esc(es[1]['name'])} {'más' if over else 'menos'} de {line:g} {LABEL[stat]}: esperado {mm[0] + mm[1]:.1f} → <b>{p:.0%}</b>"
-        return p, txt + coin(p)
+        txt += coin(p)
+        if over and p < 0.75: txt += safer(lambda l: nb_over(mm[0] + mm[1], mm[2], l), line, stat)
+        return p, txt
     if len(es) == 2 and all(e["kind"] == "equipo" for e in es):
         (a, b) = es; parts = [(series(a, stat), series(b, stat, True)), (series(b, stat), series(a, stat, True))]
         if any(len(u) < 5 or len(v) < 5 for u, v in parts): return None, f"pocos datos de {LABEL[stat]} de {A.esc(a['name'])} o {A.esc(b['name'])}"
@@ -283,6 +286,8 @@ def leg_prob(keys, leg, D):
     p = p if over else 1 - p
     txt = f"{who} {'más' if over else 'menos'} de {line:g} {LABEL[stat]}: media {mu:.1f} → <b>{p:.0%}</b>"
     if hist: txt += f" (lo cumplió en {hist[0]} de sus {hist[1]} últimos)"
+    if over and p < 0.75:
+        txt += safer(lambda l: shrink(p_over(mu, var, l), es[0]["sport"], es[0]["kind"], stat, l, D, total=len(es) == 2), line, stat)
     return p, txt
 
 
@@ -314,6 +319,20 @@ def shrink(p, sport, kind, stat, line, D, total=False):
     b = 0.5 if total else base_rate(D, sport, kind, stat, line)
     lg = lambda q: math.log(min(max(q, 1e-4), 1 - 1e-4) / (1 - min(max(q, 1e-4), 1 - 1e-4)))
     return 1 / (1 + math.exp(-(lg(b) + c * (lg(p) - lg(b)))))
+
+
+SAFE_P = 0.85  # «curarse en salud»: líneas del 85 % (medidas: córners 88→91 % real, tarjetas 89→89 %, goles 90→92 %)
+
+
+def safe_line(f, target=SAFE_P, top=40):
+    """La línea más alta (x.5) con P(más de la línea) ≥ target, o None."""
+    return max((l + 0.5 for l in range(top) if f(l + 0.5) >= target), default=None)
+
+
+def safer(f, line, stat):
+    l = safe_line(f)
+    if l is None or l >= line: return ""
+    return f"\n👉 Para curarte en salud: <b>más de {l:g} {LABEL[stat]}</b> ({f(l):.0%}); buena pierna para una combinada"
 
 
 def coin(p):
@@ -402,6 +421,34 @@ WIN_RX = r"\bgana|ganador|ganaria|quien gana|favorito|1x2|pronostico|como (?:va 
 _CTX = {}
 
 
+COMBO_RX = r"combinad|combi\b|parlay|apuesta segura|segura"
+
+
+def safe_combo(kh, ka, D):
+    """Combinada «segura» del partido: piernas del ≥ 85 % (córners, tarjetas, goles, doble oportunidad del favorito)."""
+    h, a = D[kh], D[ka]
+    legs = []
+    for stat in ("corners", "tarjetas"):
+        mm = match_model(kh, ka, D, stat)
+        if not mm: continue
+        f = lambda l, t=mm[0] + mm[1], r=mm[2]: nb_over(t, r, l)
+        if (l := safe_line(f)) is not None: legs.append((f"Más de {l:g} {LABEL[stat]}", f(l)))
+    m = exp_pair(kh, ka, D, "goles")
+    if m:
+        lh, la = max(m[0] * HFA["futbol"], 0.05), max(m[1] / HFA["futbol"], 0.05)
+        P = A.probs(lh, la); t = P["H"] + P["D"] + P["A"]
+        p00 = math.exp(-lh - la) * (1 - lh * la * A.RHO) / t
+        if P["O15"] / t >= SAFE_P: legs.append(("Más de 1.5 goles", P["O15"] / t))
+        elif 1 - p00 >= SAFE_P: legs.append(("Más de 0.5 goles", 1 - p00))
+        dc = max((("1X", h["name"], (P["H"] + P["D"]) / t), ("X2", a["name"], (P["A"] + P["D"]) / t)), key=lambda x: x[2])
+        if dc[2] >= 0.8: legs.append((f"{A.esc(dc[1])} o empate ({dc[0]})", dc[2]))
+    if len(legs) < 2: return f"No veo piernas suficientemente seguras en {A.esc(h['name'])} – {A.esc(a['name'])}."
+    p = float(np.prod([x[1] for x in legs]))
+    return "\n".join([f"🧩 <b>Combinada segura · {A.esc(h['name'])} – {A.esc(a['name'])}</b>"]
+                      + [f"• {txt} ({q:.0%})" for txt, q in legs]
+                      + [f"Todas: <b>{p:.0%}</b> → cuota justa {1 / p:.2f}. Si la casa te la paga a más de {1.05 / p:.2f}, 🟢 adelante."])
+
+
 def winner(kh, ka, D, odds=None, pick=None):
     h, a, sp = D[kh], D[ka], D[kh]["sport"]
     stat = "puntos" if sp == "nba" else "goles"
@@ -432,9 +479,9 @@ def preview(home, away, D, sport):
         mm = match_model(kh, ka, D, stat) if sport == "futbol" and stat != "goles" else None
         if mm:
             tot = mm[0] + mm[1]
-            safe = max((l + 0.5 for l in range(0, 30) if nb_over(tot, mm[2], l + 0.5) >= 0.7), default=None)
+            safe = safe_line(lambda l: nb_over(tot, mm[2], l))
             out.append(f"• {LABEL[stat]}: {mm[0]:.1f} – {mm[1]:.1f} (total {tot:.1f})"
-                       + (f" · con 70 %: más de {safe:g}" if safe is not None else ""))
+                       + (f" · seguro ({SAFE_P:.0%}): más de {safe:g}" if safe is not None else ""))
             continue
         u = [(series(D[kh], stat), series(D[ka], stat, True)), (series(D[ka], stat), series(D[kh], stat, True))]
         if any(len(x) < 5 or len(y) < 5 for x, y in u): continue
@@ -487,6 +534,16 @@ def answer(text):
     if not t or re.match(r"^/?(ayuda|help|hola|que puedes)", norm(t)): return HELP
     D = db()
     q = low(t)
+    if re.search(COMBO_RX, q) and not re.search(r"mas de|menos de|over|under|\d\+", q):
+        ks = find(t, D, n=2, kind="equipo")
+        if len(ks) == 2: kh, ka = ks
+        elif ks:
+            _CTX.pop("partido", None); next_match(ks[0], D); kh, ka = _CTX.get("partido") or (None, None)
+        else: kh, ka = _CTX.get("partido") or (None, None)
+        if not (kh and ka and kh in D and ka in D): return "¿De qué partido? Por ejemplo: <i>combinada Girona Almería</i>"
+        _CTX["partido"] = (kh, ka)
+        if D[kh]["sport"] != "futbol": return "La combinada segura de momento es solo de fútbol."
+        return safe_combo(kh, ka, D)
     if re.search(WIN_RX, q) and not re.search(r"mas de|menos de|over|under|\d\+", q):
         ks = find(t, D, n=2, kind="equipo")
         if len(ks) == 2: kh, ka = ks
