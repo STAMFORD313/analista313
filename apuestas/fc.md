@@ -1,24 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 04/11/2026 16:45 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Dicca vs Linox — 04/11 · 16:49
-
-👀 candidata · 🎮⚽ FC 27 · Europa League · **Gana Dicca** @ **2.28** (Unibet) · prob 46% vs casas 38% · ventaja +6%
-
-- ❌ Valor: ventaja +6% (mín. 10% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 55.936 partidos)  
-Goles esperados: Dicca 2.69 · Linox 2.30  
-Ganador: Dicca 46% · empate 21% · Linox 32%  
-Total: más de 4.5 goles 56% · menos 44%  
-Hándicap Dicca: −1.5 30% · −2.5 17%  
-🔎 **Claves**  
-• Forma: Dicca ✅❌✅✅❌ | Linox ✅❌✅✅❌  
-• Partidos: Dicca 601 | Linox 743  
-• Liga: Europa League  
-• Unibet: 1 2.28 · X 3.85 · 2 2.20 (sin margen 38%/23%/39%) · ventaja +6%. Sin stake hasta demostrar ROI con estas cuotas.  
+Actualizado 04/11/2026 16:51 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## llulle vs Animal — 04/11 · 16:52
 
@@ -127,4 +109,58 @@ Hándicap w1nkos: −1.5 34% · −2.5 20%
 • Partidos: w1nkos 1095 | Rodja 903  
 • Liga: World Cup B  
 • Unibet: 1 1.64 · X 6.00 · 2 2.80 (sin margen 54%/15%/32%) · ventaja +10%. Sin stake hasta demostrar ROI con estas cuotas.  
+
+## Maslja vs Totti — 04/11 · 17:20
+
+👀 candidata · 🎮⚽ FC 27 · World Cup B · **Gana Maslja** @ **2.35** (Unibet) · prob 44% vs casas 37% · ventaja +4%
+
+- ❌ Valor: ventaja +4% (mín. 9% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 55.956 partidos)  
+Goles esperados: Maslja 3.15 · Totti 2.97  
+Ganador: Maslja 44% · empate 19% · Totti 37%  
+Total: más de 6.5 goles 41% · menos 59%  
+Hándicap Maslja: −1.5 29% · −2.5 17%  
+🔎 **Claves**  
+• Forma: Maslja ❌❌❌✅✅ | Totti ✅❌❌❌❌  
+• Partidos: Maslja 820 | Totti 859  
+• Liga: World Cup B  
+• Unibet: 1 2.35 · X 4.60 · 2 1.98 (sin margen 37%/19%/44%) · ventaja +4%. Sin stake hasta demostrar ROI con estas cuotas.  
+
+## lzrn vs llulle — 04/11 · 17:28
+
+👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana llulle** @ **2.80** (Unibet) · prob 42% vs casas 31% · ventaja +17%
+
+- ✅ Valor: ventaja +17% (mín. 12% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 55.956 partidos)  
+Goles esperados: lzrn 2.77 · llulle 2.90  
+Ganador: lzrn 38% · empate 20% · llulle 42%  
+Total: más de 5.5 goles 50% · menos 50%  
+Hándicap llulle: −1.5 28% · −2.5 15%  
+🔎 **Claves**  
+• Forma: lzrn ✅➖❌❌➖ | llulle ❌❌✅❌✅  
+• Partidos: lzrn 743 | llulle 817  
+• Liga: Champions League B  
+• Unibet: 1 1.83 · X 4.10 · 2 2.80 (sin margen 48%/21%/31%) · ventaja +17%. Sin stake hasta demostrar ROI con estas cuotas.  
+
+## pikalicaaa vs Mani — 04/11 · 17:35
+
+👀 candidata · 🎮⚽ FC 27 · Champions League A · **Gana Mani** @ **1.82** (Unibet) · prob 58% vs casas 48% · ventaja +6%
+
+- ❌ Valor: ventaja +6% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 55.956 partidos)  
+Goles esperados: pikalicaaa 2.31 · Mani 3.28  
+Ganador: pikalicaaa 24% · empate 18% · Mani 58%  
+Total: más de 5.5 goles 49% · menos 51%  
+Hándicap Mani: −1.5 40% · −2.5 25%  
+🔎 **Claves**  
+• Forma: pikalicaaa ➖✅❌❌❌ | Mani ❌✅❌✅✅  
+• Partidos: pikalicaaa 543 | Mani 744  
+• Liga: Champions League A  
+• Unibet: 1 2.55 · X 5.00 · 2 1.82 (sin margen 34%/18%/48%) · ventaja +6%. Sin stake hasta demostrar ROI con estas cuotas.  
 
