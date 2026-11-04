@@ -568,22 +568,26 @@ def long_combo(D, target, hours=48):
                 mo = (1 / o["o"]) / (1 / o["o"] + 1 / o["u"])  # probabilidad de la casa sin margen
                 for side, pmod, pmk, odd in (("Más", po, mo, o["o"]), ("Menos", 1 - po, 1 - mo, o["u"])):
                     p = W_LONG * pmod + (1 - W_LONG) * pmk
-                    if not (LONG_P[0] <= p <= LONG_P[1]) or p * odd - 1 < LONG_EDGE: continue
+                    if not (LONG_P[0] <= p <= LONG_P[1]): continue
                     leg = (p * odd - 1, p, odd, f"{side} de {line:g} {LABEL['corners' if stat == 'corners' else 'tarjetas']}")
                     if best is None or leg[0] > best[0]: best = leg
         if best:
             loc = t.tz_convert(TZ)
             cands.append((f"{A.esc(home)} – {A.esc(away)} · {DIAS[loc.dayofweek]} {loc:%H:%M}", t, *best))
     print(f"combinada larga: {len(matches)} partidos, {priced} con cuotas de Unibet, {len(cands)} piernas con ventaja")
+    value = [c for c in cands if c[2] >= LONG_EDGE]
+    pool = value if len(value) >= 2 else cands  # sin ventaja suficiente: la menos mala, avisando de lo que se pierde
     legs, odds, p = [], 1.0, 1.0
-    for c in sorted(cands, key=lambda c: -c[2]):
+    for c in sorted(pool, key=lambda c: -c[2]):
         if odds >= target: break
         legs.append(c); odds *= c[4]; p *= c[3]
     if len(legs) < 2:
-        return (f"Hoy no encuentro piernas con ventaja frente a Unibet para una combinada grande ({priced} partidos con cuotas "
-                f"en las próximas {hours} h). Mejor no forzarla: a cuota alta sin ventaja, la casa gana seguro a la larga.")
+        return (f"Hoy no tengo cuotas de Unibet suficientes para una combinada grande ({priced} partidos con cuotas "
+                f"en las próximas {hours} h; los de mañana suelen salir por la noche).")
     legs.sort(key=lambda c: c[1]); ev = p * odds - 1
     lines = [f"🎰 <b>Combinada de cuota alta · objetivo {target:g}</b> (cuotas reales de Unibet)"]
+    if pool is cands and len(value) < 2:
+        lines.append("⚠️ Hoy no hay piernas con ventaja clara frente a Unibet: esta es la menos mala.")
     for m, _, e, q, o, txt in legs: lines.append(f"<b>{m}</b>\n  • {txt} @ {o:.2f} ({q:.0%}, ventaja {e:+.0%})")
     lines.append(f"{len(legs)} piernas · cuota <b>{odds:.1f}</b>: 1 € → {odds:.0f} € · acierta el <b>{p:.1%}</b> de las veces.")
     if odds < target: lines.append(f"⚠️ Con piernas con ventaja solo llego a cuota {odds:.1f}.")

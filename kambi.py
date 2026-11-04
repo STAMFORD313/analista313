@@ -82,11 +82,21 @@ def find_esoccer(p1, p2, start, evs=None):
     return None
 
 
+YOUTH = re.compile(r"\b(U\d{2}|II|B|Women|W|Reserves|Youth)\b", re.I)  # «Real Madrid U19» no es el Real Madrid
+ALIAS = {"Wolverhampton Wanderers": "Wolves", "Wolverhampton": "Wolves", "Brighton & Hove Albion": "Brighton",
+         "Tottenham Hotspur": "Tottenham", "West Ham United": "West Ham", "Newcastle United": "Newcastle",
+         "Nottingham Forest": "Nottm Forest", "Internazionale": "Inter", "Paris Saint-Germain": "PSG"}
+
+
 def find(home, away, start):
-    """Evento de Kambi del partido (mismo día ±1 y los dos equipos emparejados por nombre) o None."""
-    evs = [e for e in events() if abs((e["start"] - start).total_seconds()) < 86400]
+    """Evento de Kambi del partido (±1 día, el de hora más cercana) con los dos equipos emparejados por nombre, sin
+    confundirlo con su equipo juvenil/filial/femenino (la Youth League juega el mismo día que la Champions) o None."""
+    young = bool(YOUTH.search(f"{home} {away}"))
+    evs = sorted((e for e in events() if abs((e["start"] - start).total_seconds()) < 86400
+                  and bool(YOUTH.search(f"{e['home']} {e['away']}")) == young),
+                 key=lambda e: abs((e["start"] - start).total_seconds()))
     for e in evs:
-        if A.find_team(home, [e["home"]]) and A.find_team(away, [e["away"]]): return e
+        if all(A.find_team(n, [k]) or A.find_team(ALIAS.get(n, n), [k]) for n, k in ((home, e["home"]), (away, e["away"]))): return e
     return None
 
 

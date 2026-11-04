@@ -1032,8 +1032,18 @@ _CH.upcoming = lambda codes, hours=48: {"SP1": [(_now + pd.Timedelta(hours=5 + i
                                                  enumerate([("Real Madrid", "Barcelona"), ("Barcelona", "Atlético Madrid"), ("Atlético Madrid", "Real Madrid")])]}
 _KB.offers = lambda h, a, t, stats=(): {("corners", "t"): {6.5: {"o": 1.30, "u": 3.40}, 12.5: {"o": 4.5, "u": 1.18}}}
 try:
-    _r = _CH.answer("combinada del día a cuota 80"); assert "objetivo 80" in _r or "no encuentro piernas" in _r.lower(), _r
+    _r = _CH.answer("combinada del día a cuota 80"); assert "objetivo 80" in _r or "no tengo cuotas" in _r.lower(), _r
     _KB.offers = lambda h, a, t, stats=(): {}
-    assert "Hoy no encuentro piernas" in _CH.long_combo(_D, 80)
+    assert "Hoy no tengo cuotas de Unibet" in _CH.long_combo(_D, 80)
 finally: _KB.offers, _CH.upcoming = _off, _up4; _CH.LEAGUE.clear(); _CH._DB.clear(); _CH._DB["t"] = 0; _CH._BASE.clear()
 print("ok combinada de cuota alta")
+# Kambi: no confundir el partido con el de juveniles (Youth League el mismo día) y alias de nombres
+_kev = _KB._events
+_KB._events = [{"id": 1, "home": "AEK Athens FC U19", "away": "Real Madrid U19", "start": pd.Timestamp("2026-11-04 10:00", tz="UTC")},
+               {"id": 2, "home": "AEK Athens", "away": "Real Madrid", "start": pd.Timestamp("2026-11-04 17:45", tz="UTC")},
+               {"id": 3, "home": "Bristol City", "away": "Wolves", "start": pd.Timestamp("2026-11-04 19:45", tz="UTC")}]
+try:
+    assert _KB.find("AEK Athens", "Real Madrid", pd.Timestamp("2026-11-04 17:45", tz="UTC"))["id"] == 2
+    assert _KB.find("Bristol City", "Wolverhampton Wanderers", pd.Timestamp("2026-11-04 19:45", tz="UTC"))["id"] == 3
+finally: _KB._events = _kev
+print("ok Kambi sin juveniles")
