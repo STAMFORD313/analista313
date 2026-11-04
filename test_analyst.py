@@ -880,3 +880,25 @@ assert abs(esoccer.h2h_value(_H, "a", "b") - 2 / 7) < 1e-9 and abs(esoccer.h2h_v
 _ph = {"1": 0.4, "X": 0.2, "2": 0.4}; _qh = esoccer.h2h_adjust(_ph, 0.3, 0.15)
 assert _qh["1"] > _qh["2"] and abs(sum(_qh.values()) - 1) < 1e-9 and esoccer.h2h_adjust(_ph, 0.3, 0.0) == _ph
 print("ok cara a cara FC 27")
+# chat de Telegram sin IA (chat.py): lectura de la frase, búsqueda de nombres y opinión
+import chat as _CH
+assert _CH.parse_leg("Mbappé más de 1,5 tiros a puerta") == {"stat": "tiros_puerta", "line": 1.5, "over": True}
+assert _CH.parse_leg("Curry 4+ triples") == {"stat": "triples", "line": 3.5, "over": True}
+assert _CH.parse_leg("menos de 9.5 córners")["over"] is False and _CH.parse_leg("Yamal marca")["line"] == 0.5
+assert _CH.odds_in("Jokic más de 11.5 rebotes cuota 1,80") == [1.8] and _CH.odds_in("x @3.1") == [3.1] and _CH.odds_in("más de 25.5 puntos") == []
+_g = lambda v, a=None: [("2026-10-%02d" % (i + 1), {**v, "_titular": True}, a or {}) for i in range(12)]
+_D = {"futbol|p|1": {"name": "Kylian Mbappé", "sport": "futbol", "kind": "jugador", "team": "Real Madrid", "games": _g({"tiros_puerta": 3.0})},
+      "futbol|p|2": {"name": "Gustavo Puerta", "sport": "futbol", "kind": "jugador", "team": "X", "games": _g({"tiros_puerta": 0.0})},
+      "futbol|t|RM": {"name": "Real Madrid", "sport": "futbol", "kind": "equipo", "team": None, "games": _g({"corners": 6.0}, {"corners": 4.0})},
+      "futbol|t|AM": {"name": "Atlético Madrid", "sport": "futbol", "kind": "equipo", "team": None, "games": _g({"corners": 5.0}, {"corners": 5.0})},
+      "futbol|t|B": {"name": "Barcelona", "sport": "futbol", "kind": "equipo", "team": None, "games": _g({"corners": 7.0}, {"corners": 3.0})}}
+for _e in _D.values(): _e["norm"] = _CH.norm(_e["name"])
+assert _CH.find("Mbappe más de 1.5 tiros a puerta", _D) == ["futbol|p|1"]  # «puerta» no es Gustavo Puerta
+assert _CH.find("Madrid Barcelona más de 9.5 córners", _D, kind="equipo") == ["futbol|t|RM", "futbol|t|B"]
+assert _CH.find("Real Madrid más de 5.5 córners", _D, kind="equipo") == ["futbol|t|RM"]
+_CH._DB.update(db=_D, t=1e18)
+_r = _CH.answer("Mbappé más de 1.5 tiros a puerta a 1.9"); assert "🟢" in _r and "Mbappé" in _r, _r
+assert "Combinada" in _CH.answer("Mbappé más de 1.5 tiros a puerta y Madrid Barcelona más de 9.5 córners @2.0")
+assert "Real Madrid" in _CH.answer("estadísticas del Real Madrid") and "No te he entendido" in _CH.answer("qwerty zzz")
+_CH._DB.clear(); _CH._DB["t"] = 0
+print("ok chat de Telegram")

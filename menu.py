@@ -1,11 +1,12 @@
 """Escucha los botones de Telegram casi sin pausa (cada ejecución de GitHub Actions dura ~5 h 45 min y la
 siguiente la releva): al pulsar un deporte, el bot muestra solo las apuestas de ese deporte en un único mensaje
-que se va editando. Lee el estado que publica la ejecución horaria (git fetch cada 5 min)."""
+que se va editando; y si le escribes, contesta con estadísticas o su opinión de una apuesta (chat.py). Lee el estado que publica la ejecución horaria (git fetch cada 5 min)."""
 import json, os, subprocess, time
 
 import requests
 
 import analyst as A
+import chat as charla
 import radar
 
 RUN_SECONDS, REFRESH, KICK = 5 * 3600 + 45 * 60, 300, 1800
@@ -62,6 +63,11 @@ def main():
                 if slug == "refresh": state, loaded, slug = load_state(), time.time(), last
             elif msg and msg.get("text", "").startswith(("/start", "/menu")):
                 slug = last
+            elif msg and msg.get("text"):  # frase libre: estadísticas u opinión de una apuesta (chat.py, sin IA)
+                try: reply = charla.answer(msg["text"])
+                except Exception as e: print("chat", repr(e)); reply = "No he podido mirarlo ahora, prueba en un rato."
+                A.tg("sendMessage", text=reply[:4000], parse_mode="HTML", reply_to_message_id=msg.get("message_id"))
+                continue
             if not slug: continue
             last, text = slug, radar.sport_view(state, slug)
             target = target_message(cq, state)
