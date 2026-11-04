@@ -33,7 +33,8 @@ SCHEMA = {"type": "object", "properties": {"orden": {"type": "string"}, "respues
           "required": ["orden", "respuesta"], "additionalProperties": False}
 
 
-GEMINI_MODELS = os.getenv("CHAT_GEMINI_MODELS", "gemini-flash-lite-latest,gemini-flash-latest")  # lite: ~0,6 s y acertó 4/4 en la prueba; flash daba 503.split(",")
+# lite primero: ~0,6 s y acertó 4/4 en la prueba de Actions; flash daba 503/504 por saturación
+GEMINI_MODELS = os.getenv("CHAT_GEMINI_MODELS", "gemini-flash-lite-latest,gemini-flash-latest").split(",")
 _DEAD = set()  # modelos de Gemini con la cuota del día agotada (429)
 
 

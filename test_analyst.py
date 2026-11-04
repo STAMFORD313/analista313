@@ -995,4 +995,5 @@ class _GC:
 _gg.Client = _GC; _os.environ["GEMINI_API_KEY"] = "x"
 try: assert _IP2.route("súbele la cuota") == {"orden": "combinada del día", "respuesta": ""}
 finally: _gg.Client = _cl; _os.environ.pop("GEMINI_API_KEY")
+assert _IP2.GEMINI_MODELS[0] == "gemini-flash-lite-latest" and isinstance(_IP2.GEMINI_MODELS, list)
 print("ok intérprete con Gemini")
