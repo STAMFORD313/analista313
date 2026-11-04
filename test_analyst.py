@@ -1161,3 +1161,11 @@ print("ok boletos: ciudades y piernas de jugador")
 assert _CH.parse_leg("Bellingham 2+ faltas recibidas") == {"stat": "faltas_recibidas", "line": 1.5, "over": True}
 assert _CH.parse_leg("Bellingham más de 1.5 faltas")["stat"] == "faltas" and "foulsSuffered" in _ESZ.PSTATS
 print("ok faltas recibidas")
+# simuladas: piernas de jugador (goles, tiros a puerta, faltas recibidas) con las estadísticas de ESPN del partido
+_gp = {"home": "AEK Athens", "away": "Real Madrid", "hs": 0, "as": 2,
+       "players": [["1", "Kylian Mbappé", "a", True, "F", 1.0, 0.0, 5.0, 3.0, 0.0, 0.0, 1.0, 0.0, 0.0, 1.0, 2.0]]}
+assert _SM.judge({"jugador": "Kylian Mbappé", "txt": "Más de 0.5 goles"}, _gp) == (True, "Kylian Mbappé: 1 goles")
+assert _SM.judge({"jugador": "Kylian Mbappe", "txt": "Más de 2.5 tiros a puerta"}, _gp)[0] is True
+assert _SM.judge({"jugador": "Kylian Mbappé", "txt": "Más de 1.5 faltas recibidas"}, _gp)[0] is True
+assert _SM.judge({"jugador": "Jude Bellingham", "txt": "Más de 0.5 goles"}, _gp)[0] == "nula"
+print("ok simuladas de jugador")

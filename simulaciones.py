@@ -80,8 +80,29 @@ def find_game(leg):
     return None
 
 
+PIX = {"goles": 5, "asistencias": 6, "tiros": 7, "tiros a puerta": 8, "paradas": 9, "faltas": 11, "faltas recibidas": 15}
+PLAYER_RX = re.compile(r"^(Más|Menos) de ([\d.]+) (goles|asistencias|tiros a puerta|tiros|paradas|faltas recibidas|faltas|tarjetas)$")
+
+
+def judge_player(leg, g):
+    """Pierna de jugador («Más de 0.5 goles» de Mbappé) con sus estadísticas en el partido de ESPN."""
+    import unicodedata
+    n = lambda s: unicodedata.normalize("NFKD", str(s)).encode("ascii", "ignore").decode().lower().strip()
+    m = PLAYER_RX.match(leg["txt"])
+    if not m: return "nula", "pierna no reconocida"
+    side, line, stat = m.group(1), float(m.group(2)), m.group(3)
+    pl = next((p for p in g.get("players") or [] if n(p[1]) == n(leg["jugador"])), None)
+    if pl is None: return "nula", f"{leg['jugador']} no jugó"
+    if stat == "tarjetas": v = pl[12] + pl[13]
+    elif PIX[stat] < len(pl): v = pl[PIX[stat]]
+    else: return None, "ESPN aún sin ese dato"
+    ok = v > line if side == "Más" else v < line
+    return ok, f"{leg['jugador']}: {v:g} {stat}"
+
+
 def judge(leg, g):
     """(acierto True/False/'nula', porqué) de una pierna con el partido de ESPN."""
+    if leg.get("jugador"): return judge_player(leg, g)
     h, a = (g.get("team_stats") or {}).get("h") or {}, (g.get("team_stats") or {}).get("a") or {}
     if leg["txt"] == "Empate" or leg["txt"].startswith("Gana "):  # 1X2 de fútbol leído de un boleto
         w = leg["txt"][5:]

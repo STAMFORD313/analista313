@@ -846,10 +846,12 @@ def slip_leg(leg, D):
         if not eq and len(ks) == 2: keys = ks  # total del partido
         if pl["stat"] and pl["line"] is not None and keys:
             p, t = leg_prob(keys, pl, D)
-            sim = (dict(code=None, start=None, home=D[ks[0]]["name"], away=D[ks[1]]["name"], p=p,
-                        txt=f"{'Más' if pl['over'] else 'Menos'} de {pl['line']:g} {LABEL[pl['stat']]}"
-                            + ("" if len(keys) == 2 else f" de {D[keys[0]]['name']}"), odds=leg.get("cuota"))
-                   if p is not None and len(ks) == 2 and pl["stat"] in ("corners", "tarjetas", "goles") else None)
+            word = f"{'Más' if pl['over'] else 'Menos'} de {pl['line']:g} {LABEL[pl['stat']]}"
+            player = D[keys[0]]["kind"] == "jugador" and len(keys) == 1
+            sim = (dict(code=None, start=None, home=D[ks[0]]["name"], away=D[ks[1]]["name"], p=p, odds=leg.get("cuota"),
+                        txt=word + ("" if len(keys) == 2 or player else f" de {D[keys[0]]['name']}"),
+                        **({"jugador": D[keys[0]]["name"]} if player else {}))
+                   if p is not None and len(ks) == 2 and (player or pl["stat"] in ("corners", "tarjetas", "goles")) else None)
             return p, t, sim
     if tipo in ("ganador", "empate", "doble_oportunidad"):
         import multideporte
