@@ -34544,3 +34544,5 @@ game_id,match_id,slug,date,tier,bo,tournament_id,tournament,t1_id,t2_id,team1,te
 192053,133043,the-mongolz-vs-furia-04-11-2026,2026-11-04T09:30:00.000+00:00,s,3,5113,Intel Extreme Masters Beijing 2026,736,648,The MongolZ,FURIA,3,de_dust2,736,13.0,11.0
 192054,133043,the-mongolz-vs-furia-04-11-2026,2026-11-04T09:30:00.000+00:00,s,3,5113,Intel Extreme Masters Beijing 2026,736,648,The MongolZ,FURIA,2,de_cache,736,13.0,8.0
 192055,133043,the-mongolz-vs-furia-04-11-2026,2026-11-04T09:30:00.000+00:00,s,3,5113,Intel Extreme Masters Beijing 2026,736,648,The MongolZ,FURIA,1,de_inferno,648,13.0,10.0
+192051,133042,natus-vincere-vs-falcons-esports-04-11-2026,2026-11-04T10:15:00.000+00:00,s,3,5113,Intel Extreme Masters Beijing 2026,787,2713,Natus Vincere,Falcons,2,de_inferno,787,13.0,4.0
+192052,133042,natus-vincere-vs-falcons-esports-04-11-2026,2026-11-04T10:15:00.000+00:00,s,3,5113,Intel Extreme Masters Beijing 2026,787,2713,Natus Vincere,Falcons,1,de_ancient,2713,13.0,11.0
