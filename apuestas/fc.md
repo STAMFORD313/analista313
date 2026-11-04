@@ -1,6 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 04/11/2026 12:26 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 04/11/2026 12:33 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Ganger_29 vs Taz — 04/11 · 12:48
 
@@ -9,7 +9,7 @@ Actualizado 04/11/2026 12:26 (hora España). ✅ = el bot apuesta · ❌ = condi
 - ✅ Valor: ventaja +19% (mín. 13% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 55.702 partidos)  
+📊 **Escenarios** (Poisson por jugador, 55.722 partidos)  
 Goles esperados: Ganger_29 2.60 · Taz 3.37  
 Ganador: Ganger_29 27% · empate 18% · Taz 55%  
 Total: más de 5.5 goles 55% · menos 45%  
@@ -22,21 +22,21 @@ Hándicap Taz: −1.5 37% · −2.5 23%
 
 ## why vs v1nniePuh — 04/11 · 12:50
 
-👀 candidata · 🎮⚽ FC 27 · Champions League A 2x6 · **Gana why** @ **4.75** (Unibet) · prob 30% vs casas 18% · ventaja +44%
+👀 candidata · 🎮⚽ FC 27 · Champions League A 2x6 · **Gana why** @ **4.75** (Unibet) · prob 28% vs casas 18% · ventaja +35%
 
-- ❌ Valor: ventaja +44% (mín. 19% con la incertidumbre, máx. 30%)
+- ❌ Valor: ventaja +35% (mín. 17% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 55.702 partidos)  
-Goles esperados: why 3.52 · v1nniePuh 4.21  
-Ganador: why 30% · empate 16% · v1nniePuh 54%  
-Total: más de 7.5 goles 51% · menos 49%  
-Hándicap v1nniePuh: −1.5 38% · −2.5 25%  
+📊 **Escenarios** (Poisson por jugador, 55.722 partidos)  
+Goles esperados: why 3.59 · v1nniePuh 4.43  
+Ganador: why 28% · empate 15% · v1nniePuh 56%  
+Total: más de 8.5 goles 41% · menos 59%  
+Hándicap v1nniePuh: −1.5 40% · −2.5 27%  
 🔎 **Claves**  
-• Forma: why ➖❌✅❌❌ | v1nniePuh ➖✅✅❌✅  
-• Partidos: why 533 | v1nniePuh 584  
+• Forma: why ➖❌✅❌❌ | v1nniePuh ✅✅❌➖❌  
+• Partidos: why 541 | v1nniePuh 592  
 • Liga: Champions League A 2x6  
-• Unibet: 1 4.75 · X 6.10 · 2 1.29 (sin margen 18%/14%/67%) · ventaja +44%. Sin stake hasta demostrar ROI con estas cuotas.  
+• Unibet: 1 4.75 · X 6.10 · 2 1.29 (sin margen 18%/14%/67%) · ventaja +35%. Sin stake hasta demostrar ROI con estas cuotas.  
 
 ## Loka vs kamito — 04/11 · 12:56
 
@@ -45,7 +45,7 @@ Hándicap v1nniePuh: −1.5 38% · −2.5 25%
 - ✅ Valor: ventaja +26% (mín. 14% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 55.702 partidos)  
+📊 **Escenarios** (Poisson por jugador, 55.722 partidos)  
 Goles esperados: Loka 5.82 · kamito 3.23  
 Ganador: Loka 79% · empate 9% · kamito 11%  
 Total: más de 9.5 goles 42% · menos 58%  

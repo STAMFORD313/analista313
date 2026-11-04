@@ -16235,7 +16235,10 @@
    "version": "3057b5c",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "4-5",
+   "result": false,
+   "logged": true
   },
   {
    "market": "A",
@@ -16820,7 +16823,10 @@
    "version": "2928e8a",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "8-3",
+   "result": false,
+   "logged": true
   },
   {
    "market": "H",
@@ -17316,8 +17322,8 @@
     "• Cambios de plantilla: ninguno"
    ],
    "context": "MLBB Natus Vincere vs Alter Ego, BO5, torneo MPL Indonesia Season 18 nivel a. Elo por mapa 1730 vs 1720 (prob. mapa 51%, serie 52%). Forma ❌✅✅✅❌ / ❌✅✅❌✅ (✅ victoria ❌ derrota). H2H 9: 2-7. Cambios de plantilla: ninguno. Cuotas Thunderpick 1.71/2.07.",
-   "captured": "2026-11-04T11:26",
-   "version": "795ab64",
+   "captured": "2026-11-04T11:33",
+   "version": "a080006",
    "bajas": "",
    "considered": true,
    "placed": false
@@ -17328,30 +17334,30 @@
    "odds": 4.75,
    "book": "Unibet",
    "implied": 0.183,
-   "edge": 0.438,
+   "edge": 0.352,
    "sin_stake": true,
-   "p": 0.303,
+   "p": 0.285,
    "key": "fc|2362369",
    "match": "why vs v1nniePuh",
    "start": "2026-11-04T11:50:00+00:00",
    "league": "🎮⚽ FC 27 · Champions League A 2x6",
    "sport": "🎮⚽",
    "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 55.702 partidos)",
-    "Goles esperados: why 3.52 · v1nniePuh 4.21",
-    "Ganador: why 30% · empate 16% · v1nniePuh 54%",
-    "Total: más de 7.5 goles 51% · menos 49%",
-    "Hándicap v1nniePuh: −1.5 38% · −2.5 25%",
+    "📊 <b>Escenarios</b> (Poisson por jugador, 55.722 partidos)",
+    "Goles esperados: why 3.59 · v1nniePuh 4.43",
+    "Ganador: why 28% · empate 15% · v1nniePuh 56%",
+    "Total: más de 8.5 goles 41% · menos 59%",
+    "Hándicap v1nniePuh: −1.5 40% · −2.5 27%",
     "",
     "🔎 <b>Claves</b>",
-    "• Forma: why ➖❌✅❌❌ | v1nniePuh ➖✅✅❌✅",
-    "• Partidos: why 533 | v1nniePuh 584",
+    "• Forma: why ➖❌✅❌❌ | v1nniePuh ✅✅❌➖❌",
+    "• Partidos: why 541 | v1nniePuh 592",
     "• Liga: Champions League A 2x6",
-    "• Unibet: 1 4.75 · X 6.10 · 2 1.29 (sin margen 18%/14%/67%) · ventaja +44%. Sin stake hasta demostrar ROI con estas cuotas."
+    "• Unibet: 1 4.75 · X 6.10 · 2 1.29 (sin margen 18%/14%/67%) · ventaja +35%. Sin stake hasta demostrar ROI con estas cuotas."
    ],
-   "context": "EA FC Esoccer Battle why vs v1nniePuh (Champions League A 2x6): goles esperados 3.52-4.21, 1X2 30%/16%/54%. Sin cuotas de casa.",
-   "captured": "2026-11-04T11:26",
-   "version": "795ab64",
+   "context": "EA FC Esoccer Battle why vs v1nniePuh (Champions League A 2x6): goles esperados 3.59-4.43, 1X2 28%/15%/56%. Sin cuotas de casa.",
+   "captured": "2026-11-04T11:33",
+   "version": "a080006",
    "bajas": "",
    "considered": true,
    "placed": false
@@ -17371,7 +17377,7 @@
    "league": "🎮⚽ FC 27 · CSL",
    "sport": "🎮⚽",
    "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 55.702 partidos)",
+    "📊 <b>Escenarios</b> (Poisson por jugador, 55.722 partidos)",
     "Goles esperados: Loka 5.82 · kamito 3.23",
     "Ganador: Loka 79% · empate 9% · kamito 11%",
     "Total: más de 9.5 goles 42% · menos 58%",
@@ -17384,8 +17390,8 @@
     "• Unibet: 1 1.58 · X 5.50 · 2 3.10 (sin margen 56%/16%/28%) · ventaja +26%. Sin stake hasta demostrar ROI con estas cuotas."
    ],
    "context": "EA FC Esoccer Battle Loka vs kamito (CSL): goles esperados 5.82-3.23, 1X2 79%/9%/11%. Sin cuotas de casa.",
-   "captured": "2026-11-04T11:26",
-   "version": "795ab64",
+   "captured": "2026-11-04T11:33",
+   "version": "a080006",
    "bajas": "",
    "considered": true,
    "placed": false
@@ -17405,7 +17411,7 @@
    "league": "🎮⚽ FC 27 · World Cup A",
    "sport": "🎮⚽",
    "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 55.702 partidos)",
+    "📊 <b>Escenarios</b> (Poisson por jugador, 55.722 partidos)",
     "Goles esperados: Ganger_29 2.60 · Taz 3.37",
     "Ganador: Ganger_29 27% · empate 18% · Taz 55%",
     "Total: más de 5.5 goles 55% · menos 45%",
@@ -17418,8 +17424,8 @@
     "• Unibet: 1 2.20 · X 4.25 · 2 2.18 (sin margen 40%/20%/40%) · ventaja +19%. Sin stake hasta demostrar ROI con estas cuotas."
    ],
    "context": "EA FC Esoccer Battle Ganger_29 vs Taz (World Cup A): goles esperados 2.60-3.37, 1X2 27%/18%/55%. Sin cuotas de casa.",
-   "captured": "2026-11-04T11:26",
-   "version": "795ab64",
+   "captured": "2026-11-04T11:33",
+   "version": "a080006",
    "bajas": "",
    "considered": true,
    "placed": false
