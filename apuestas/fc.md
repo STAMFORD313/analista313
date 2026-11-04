@@ -1,6 +1,42 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 04/11/2026 13:08 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 04/11/2026 13:15 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+
+## Maxa vs Tesla — 04/11 · 13:22
+
+👀 candidata · 🎮⚽ FC 27 · FA Cup · **Gana Tesla** @ **1.83** (Unibet) · prob 60% vs casas 48% · ventaja +10%
+
+- ❌ Valor: ventaja +10% (mín. 11% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 55.782 partidos)  
+Goles esperados: Maxa 2.77 · Tesla 3.89  
+Ganador: Maxa 24% · empate 16% · Tesla 60%  
+Total: más de 6.5 goles 50% · menos 50%  
+Hándicap Tesla: −1.5 43% · −2.5 29%  
+🔎 **Claves**  
+• Forma: Maxa ✅❌➖❌❌ | Tesla ✅❌➖➖✅  
+• Partidos: Maxa 821 | Tesla 868  
+• Liga: FA Cup  
+• Unibet: 1 2.85 · X 4.00 · 2 1.83 (sin margen 31%/22%/48%) · ventaja +10%. Sin stake hasta demostrar ROI con estas cuotas.  
+
+## mko1919 vs Bomb1to — 04/11 · 13:25
+
+👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana Bomb1to** @ **1.82** (Unibet) · prob 60% vs casas 48% · ventaja +10%
+
+- ❌ Valor: ventaja +10% (mín. 11% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 55.782 partidos)  
+Goles esperados: mko1919 2.57 · Bomb1to 3.59  
+Ganador: mko1919 23% · empate 17% · Bomb1to 60%  
+Total: más de 6.5 goles 42% · menos 58%  
+Hándicap Bomb1to: −1.5 42% · −2.5 27%  
+🔎 **Claves**  
+• Forma: mko1919 ❌❌❌❌❌ | Bomb1to ➖✅➖✅✅  
+• Partidos: mko1919 1076 | Bomb1to 1178  
+• Liga: Champions League B  
+• Unibet: 1 3.40 · X 3.25 · 2 1.82 (sin margen 26%/27%/48%) · ventaja +10%. Sin stake hasta demostrar ROI con estas cuotas.  
 
 ## saportj vs Loka — 04/11 · 13:30
 
@@ -55,6 +91,24 @@ Hándicap DaVa: −1.5 41% · −2.5 24%
 • Partidos: MeLToSik 1045 | DaVa 1108  
 • Liga: LaLiga  
 • Unibet: 1 3.40 · X 3.45 · 2 1.78 (sin margen 26%/25%/49%) · ventaja +12%. Sin stake hasta demostrar ROI con estas cuotas.  
+
+## crinner vs kamito — 04/11 · 13:54
+
+👀 candidata · 🎮⚽ FC 27 · CSL · **Gana crinner** @ **1.66** (Unibet) · prob 66% vs casas 53% · ventaja +10%
+
+- ❌ Valor: ventaja +10% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 55.782 partidos)  
+Goles esperados: crinner 4.31 · kamito 2.90  
+Ganador: crinner 66% · empate 14% · kamito 19%  
+Total: más de 7.5 goles 43% · menos 57%  
+Hándicap crinner: −1.5 48% · −2.5 34%  
+🔎 **Claves**  
+• Forma: crinner ❌✅✅✅✅ | kamito ❌❌✅❌✅  
+• Partidos: crinner 875 | kamito 400  
+• Liga: CSL  
+• Unibet: 1 1.66 · X 6.00 · 2 2.75 (sin margen 53%/15%/32%) · ventaja +10%. Sin stake hasta demostrar ROI con estas cuotas.  
 
 ## Taz vs Ganger_29 — 04/11 · 13:58
 

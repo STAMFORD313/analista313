@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 04/11/2026 13:08 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 04/11/2026 13:15 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Falcons Force vs Xcity — 04/11 · 18:30
 

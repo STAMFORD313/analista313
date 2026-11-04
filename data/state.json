@@ -1272,7 +1272,11 @@
   "fc|2362033",
   "fc|2362760",
   "fc|2362036",
-  "fc|2361790"
+  "fc|2361790",
+  "wta|2026-11-05|Kristina Kroitor|Ksenia Zaytseva",
+  "fc|2362766",
+  "fc|2362030",
+  "fc|2361709"
  ],
  "signals": [
   {
@@ -16922,7 +16926,10 @@
    "version": "9c42e77",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "3-3",
+   "result": false,
+   "logged": true
   },
   {
    "market": "A",
@@ -17060,7 +17067,10 @@
    "version": "3487abb",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "3-3",
+   "result": false,
+   "logged": true
   },
   {
    "market": "H",
@@ -17081,7 +17091,10 @@
    "version": "3487abb",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "2-3",
+   "result": false,
+   "logged": true
   },
   {
    "market": "A",
@@ -17317,7 +17330,10 @@
    "version": "0923972",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "5-2",
+   "result": false,
+   "logged": true
   },
   {
    "market": "t2",
@@ -17596,6 +17612,108 @@
    "context": "EA FC Esoccer Battle MeLToSik vs DaVa (LaLiga): goles esperados 1.77-2.85, 1X2 18%/19%/63%. Sin cuotas de casa.",
    "captured": "2026-11-04T12:08",
    "version": "63e4ce0",
+   "bajas": "",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "H",
+   "pick": "crinner",
+   "odds": 1.66,
+   "book": "Unibet",
+   "implied": 0.532,
+   "edge": 0.102,
+   "sin_stake": true,
+   "p": 0.664,
+   "key": "fc|2362766",
+   "match": "crinner vs kamito",
+   "start": "2026-11-04T12:54:00+00:00",
+   "league": "🎮⚽ FC 27 · CSL",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 55.782 partidos)",
+    "Goles esperados: crinner 4.31 · kamito 2.90",
+    "Ganador: crinner 66% · empate 14% · kamito 19%",
+    "Total: más de 7.5 goles 43% · menos 57%",
+    "Hándicap crinner: −1.5 48% · −2.5 34%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: crinner ❌✅✅✅✅ | kamito ❌❌✅❌✅",
+    "• Partidos: crinner 875 | kamito 400",
+    "• Liga: CSL",
+    "• Unibet: 1 1.66 · X 6.00 · 2 2.75 (sin margen 53%/15%/32%) · ventaja +10%. Sin stake hasta demostrar ROI con estas cuotas."
+   ],
+   "context": "EA FC Esoccer Battle crinner vs kamito (CSL): goles esperados 4.31-2.90, 1X2 66%/14%/19%. Sin cuotas de casa.",
+   "captured": "2026-11-04T12:15",
+   "version": "72664be",
+   "bajas": "",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "A",
+   "pick": "Tesla",
+   "odds": 1.83,
+   "book": "Unibet",
+   "implied": 0.476,
+   "edge": 0.101,
+   "sin_stake": true,
+   "p": 0.602,
+   "key": "fc|2362030",
+   "match": "Maxa vs Tesla",
+   "start": "2026-11-04T12:22:00+00:00",
+   "league": "🎮⚽ FC 27 · FA Cup",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 55.782 partidos)",
+    "Goles esperados: Maxa 2.77 · Tesla 3.89",
+    "Ganador: Maxa 24% · empate 16% · Tesla 60%",
+    "Total: más de 6.5 goles 50% · menos 50%",
+    "Hándicap Tesla: −1.5 43% · −2.5 29%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Maxa ✅❌➖❌❌ | Tesla ✅❌➖➖✅",
+    "• Partidos: Maxa 821 | Tesla 868",
+    "• Liga: FA Cup",
+    "• Unibet: 1 2.85 · X 4.00 · 2 1.83 (sin margen 31%/22%/48%) · ventaja +10%. Sin stake hasta demostrar ROI con estas cuotas."
+   ],
+   "context": "EA FC Esoccer Battle Maxa vs Tesla (FA Cup): goles esperados 2.77-3.89, 1X2 24%/16%/60%. Sin cuotas de casa.",
+   "captured": "2026-11-04T12:15",
+   "version": "72664be",
+   "bajas": "",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "A",
+   "pick": "Bomb1to",
+   "odds": 1.82,
+   "book": "Unibet",
+   "implied": 0.477,
+   "edge": 0.099,
+   "sin_stake": true,
+   "p": 0.604,
+   "key": "fc|2361709",
+   "match": "mko1919 vs Bomb1to",
+   "start": "2026-11-04T12:25:00+00:00",
+   "league": "🎮⚽ FC 27 · Champions League B",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 55.782 partidos)",
+    "Goles esperados: mko1919 2.57 · Bomb1to 3.59",
+    "Ganador: mko1919 23% · empate 17% · Bomb1to 60%",
+    "Total: más de 6.5 goles 42% · menos 58%",
+    "Hándicap Bomb1to: −1.5 42% · −2.5 27%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: mko1919 ❌❌❌❌❌ | Bomb1to ➖✅➖✅✅",
+    "• Partidos: mko1919 1076 | Bomb1to 1178",
+    "• Liga: Champions League B",
+    "• Unibet: 1 3.40 · X 3.25 · 2 1.82 (sin margen 26%/27%/48%) · ventaja +10%. Sin stake hasta demostrar ROI con estas cuotas."
+   ],
+   "context": "EA FC Esoccer Battle mko1919 vs Bomb1to (Champions League B): goles esperados 2.57-3.59, 1X2 23%/17%/60%. Sin cuotas de casa.",
+   "captured": "2026-11-04T12:15",
+   "version": "72664be",
    "bajas": "",
    "considered": true,
    "placed": false
