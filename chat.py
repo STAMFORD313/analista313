@@ -1107,7 +1107,7 @@ def answer(text, depth=0, quoted=None):
 def natural(user_text, reply, hist=()):
     """La IA (interpreta.redactar) cuenta con palabras naturales lo que ha calculado el bot; si no hay IA, falla o mete un
     número que el bot no dio, se manda la respuesta del bot tal cual."""
-    if reply == HELP: return reply
+    if reply == HELP or reply.startswith("📡"): return reply  # directo de apuestas: con sus iconos tal cual
     if sum(l.lstrip().startswith(("•", "↳")) for l in reply.split("\n")) >= 2: return reply  # listas: tal cual (la IA las estropeaba)
     import html, interpreta
     report = html.unescape(re.sub(r"<[^>]+>", "", reply))

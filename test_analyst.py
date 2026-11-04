@@ -1355,3 +1355,19 @@ try:
 finally:
     _SL.FILE.unlink(missing_ok=True); _SL.FILE = _f0; _SL._MEM.clear(); _SL._MEM.update(_mem0)
 print("ok cómo va esta (citando el boleto)")
+
+import menu as _MN
+_sent, _tg0, _lv0 = [], _MN.A.tg, _MN.simulaciones.live
+try:
+    _MN.A.tg = lambda m, **d: _sent.append((m, d))
+    _MN.simulaciones.live = lambda filtro=None: "📡 <b>Tus apuestas en juego</b>\n⏳ AEK – Madrid: Más de 7.5 córners · lleva 5 córners"
+    _cards = {7: {"filtro": "x", "t": 0, "start": 0}}
+    _MN.refresh_live(_cards, now=200)
+    assert _sent and _sent[0][0] == "editMessageText" and _sent[0][1]["message_id"] == 7 and "cada 3 min" in _sent[0][1]["text"] and 7 in _cards
+    _MN.refresh_live(_cards, now=250); assert len(_sent) == 1  # aún no tocan 3 min
+    _MN.simulaciones.live = lambda filtro=None: "📡 <b>Tus apuestas en juego</b>\n✅ AEK – Madrid: Más de 7.5 córners · terminado: hubo 9 córners"
+    _MN.refresh_live(_cards, now=400); assert "terminado" in _sent[-1][1]["text"] and not _cards
+finally:
+    _MN.A.tg, _MN.simulaciones.live = _tg0, _lv0
+assert _CH.natural("cómo va mi apuesta", "📡 <b>Tus apuestas en juego</b>\n🟢 x") .startswith("📡")
+print("ok tarjeta en directo que se refresca")

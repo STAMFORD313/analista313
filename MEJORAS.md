@@ -170,3 +170,4 @@
 - 2026-11-04: «¿cómo van mis apuestas?» en directo: marcador, minuto y córners/tarjetas de ESPN ahora mismo, pierna a pierna (✅ ya cumplida, ❌ ya fallada, ⏳ lleva X, 🟢/🔴 de momento).
 - 2026-11-04: directo también en NBA/NHL/NFL/MLB (marcador y periodo de ESPN; 🟢/🔴 de momento, ✅/❌ al acabar).
 - 2026-11-04: el chat recuerda a qué apuesta te refieres: responder a un mensaje del bot (o pegar el boleto) con «¿cómo va esta?» enseña solo esa apuesta en directo; boletos de foto sin hora también se siguen en directo; repetidos salen una vez.
+- 2026-11-04: directo con sus iconos (la IA redactora ya no reescribe la tarjeta 📡) y la tarjeta se reedita sola cada 3 min hasta que acaban los partidos (máx. 4 h).
