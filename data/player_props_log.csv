@@ -1,863 +1,863 @@
 fecha,partido,jugador,mercado,linea,cuota,p_casa,p_modelo,titular,valor,acierto
-2026-11-03,Blackburn vs Stoke,Todd Cantwell,To score at least 2 goals,1.5,19.0,0.0526,0.0095,1,0.0,0
-2026-11-03,Blackburn vs Stoke,Djibril Soumaré,Player's shots on target,0.5,2.8,0.3571,0.1712,1,0.0,0
-2026-11-03,Blackburn vs Stoke,Moussa Baradji,To give an assist,0.5,4.9,0.2041,0.0073,0,0.0,0
-2026-11-03,Blackburn vs Stoke,Yuki Ohashi,Player's shots on target,0.5,1.26,0.7937,0.1636,0,0.0,0
-2026-11-03,Blackburn vs Stoke,Sam Morsy,Player's shots on target,0.5,2.9,0.3448,0.1999,1,1.0,1
-2026-11-03,Blackburn vs Stoke,Oladapo Afolayan,To give an assist,0.5,4.5,0.2222,0.0907,1,0.0,0
-2026-11-03,Blackburn vs Stoke,Ben Johnson,To Score,0.5,12.0,0.0833,0.0841,1,0.0,0
+2026-11-03,Blackburn vs Stoke,Todd Cantwell,To score at least 2 goals,1.5,19.0,0.0526,0.0094,1,0.0,0
+2026-11-03,Blackburn vs Stoke,Djibril Soumaré,Player's shots on target,0.5,2.8,0.3571,0.1705,1,0.0,0
+2026-11-03,Blackburn vs Stoke,Moussa Baradji,To give an assist,0.5,4.9,0.2041,0.0074,0,0.0,0
+2026-11-03,Blackburn vs Stoke,Yuki Ohashi,Player's shots on target,0.5,1.26,0.7937,0.1653,0,0.0,0
+2026-11-03,Blackburn vs Stoke,Sam Morsy,Player's shots on target,0.5,2.9,0.3448,0.2118,1,1.0,1
+2026-11-03,Blackburn vs Stoke,Oladapo Afolayan,To give an assist,0.5,4.5,0.2222,0.0906,1,0.0,0
+2026-11-03,Blackburn vs Stoke,Ben Johnson,To Score,0.5,12.0,0.0833,0.0827,1,0.0,0
 2026-11-03,Blackburn vs Stoke,Jack McGlynn,To score at least 2 goals,1.5,30.0,0.0333,0.0203,1,1.0,0
-2026-11-03,Blackburn vs Stoke,Jack McGlynn,To Score,0.5,4.5,0.2222,0.1946,1,1.0,1
-2026-11-03,Blackburn vs Stoke,Bae Jun-Ho,To Score,0.5,6.25,0.16,0.0218,0,0.0,0
-2026-11-03,Blackburn vs Stoke,Sam Morsy,To Score,0.5,6.5,0.1538,0.0533,1,0.0,0
-2026-11-03,Blackburn vs Stoke,Oladapo Afolayan,To Score,0.5,4.0,0.25,0.1604,1,0.0,0
-2026-11-03,Blackburn vs Stoke,Andri Gudjohnsen,Player's shots on target,0.5,1.6,0.625,0.4947,1,1.0,1
-2026-11-03,Blackburn vs Stoke,Junior Tchamadeu,To Score,0.5,12.0,0.0833,0.0177,0,0.0,0
-2026-11-03,Blackburn vs Stoke,Svante Ingelsson,To Score,0.5,6.25,0.16,0.0155,0,0.0,0
-2026-11-03,Blackburn vs Stoke,Ben Wilmot,To Score,0.5,12.5,0.08,0.0981,1,0.0,0
-2026-11-03,Blackburn vs Stoke,Tomás Rigo,To Score,0.5,7.0,0.1429,0.022,0,0.0,0
+2026-11-03,Blackburn vs Stoke,Jack McGlynn,To Score,0.5,4.5,0.2222,0.1944,1,1.0,1
+2026-11-03,Blackburn vs Stoke,Bae Jun-Ho,To Score,0.5,6.25,0.16,0.0214,0,0.0,0
+2026-11-03,Blackburn vs Stoke,Sam Morsy,To Score,0.5,6.5,0.1538,0.0507,1,0.0,0
+2026-11-03,Blackburn vs Stoke,Oladapo Afolayan,To Score,0.5,4.0,0.25,0.1517,1,0.0,0
+2026-11-03,Blackburn vs Stoke,Andri Gudjohnsen,Player's shots on target,0.5,1.6,0.625,0.4948,1,1.0,1
+2026-11-03,Blackburn vs Stoke,Junior Tchamadeu,To Score,0.5,12.0,0.0833,0.0175,0,0.0,0
+2026-11-03,Blackburn vs Stoke,Svante Ingelsson,To Score,0.5,6.25,0.16,0.0154,0,0.0,0
+2026-11-03,Blackburn vs Stoke,Ben Wilmot,To Score,0.5,12.5,0.08,0.0958,1,0.0,0
+2026-11-03,Blackburn vs Stoke,Tomás Rigo,To Score,0.5,7.0,0.1429,0.0221,0,0.0,0
 2026-11-03,Blackburn vs Stoke,Yuri Ribeiro,To Get a Card,0.5,4.4,0.2273,0.0358,0,0.0,0
-2026-11-03,Blackburn vs Stoke,Bae Jun-Ho,To Get a Card,0.5,4.5,0.2222,0.023,0,0.0,0
-2026-11-03,Blackburn vs Stoke,Million Manhoef,To Get a Card,0.5,4.3,0.2326,0.1048,1,0.0,0
-2026-11-03,Blackburn vs Stoke,Million Manhoef,To give an assist,0.5,4.0,0.25,0.0756,1,0.0,0
-2026-11-03,Blackburn vs Stoke,Kristi Montgomery,To give an assist,0.5,5.0,0.2,0.0666,1,0.0,0
+2026-11-03,Blackburn vs Stoke,Bae Jun-Ho,To Get a Card,0.5,4.5,0.2222,0.0225,0,0.0,0
+2026-11-03,Blackburn vs Stoke,Million Manhoef,To Get a Card,0.5,4.3,0.2326,0.1079,1,0.0,0
+2026-11-03,Blackburn vs Stoke,Million Manhoef,To give an assist,0.5,4.0,0.25,0.0806,1,0.0,0
+2026-11-03,Blackburn vs Stoke,Kristi Montgomery,To give an assist,0.5,5.0,0.2,0.0668,1,0.0,0
 2026-11-03,Blackburn vs Stoke,Dion De Neve,To Get a Card,0.5,4.5,0.2222,0.0171,0,0.0,0
-2026-11-03,Blackburn vs Stoke,Justin Devenny,To give an assist,0.5,6.5,0.1538,0.0395,1,0.0,0
-2026-11-03,Blackburn vs Stoke,Yuki Ohashi,To Score,0.5,2.3,0.4348,0.0558,0,0.0,0
-2026-11-03,Blackburn vs Stoke,Sean McLoughlin,Player's shots on target,0.5,4.8,0.2083,0.1173,1,0.0,0
+2026-11-03,Blackburn vs Stoke,Justin Devenny,To give an assist,0.5,6.5,0.1538,0.0397,1,0.0,0
+2026-11-03,Blackburn vs Stoke,Yuki Ohashi,To Score,0.5,2.3,0.4348,0.0574,0,0.0,0
+2026-11-03,Blackburn vs Stoke,Sean McLoughlin,Player's shots on target,0.5,4.8,0.2083,0.116,1,0.0,0
 2026-11-03,Blackburn vs Stoke,George Hirst,To score at least 2 goals,1.5,21.0,0.0476,0.0021,0,0.0,0
-2026-11-03,Blackburn vs Stoke,Todd Cantwell,To give an assist,0.5,3.7,0.2703,0.1262,1,0.0,0
-2026-11-03,Blackburn vs Stoke,Jake Garrett,To give an assist,0.5,7.5,0.1333,0.0146,0,0.0,0
+2026-11-03,Blackburn vs Stoke,Todd Cantwell,To give an assist,0.5,3.7,0.2703,0.1264,1,0.0,0
+2026-11-03,Blackburn vs Stoke,Jake Garrett,To give an assist,0.5,7.5,0.1333,0.0138,0,0.0,0
 2026-11-03,Blackburn vs Stoke,Tomás Rigo,Player's shots on target,0.5,3.0,0.3333,0.0947,0,0.0,0
-2026-11-03,Blackburn vs Stoke,Justin Devenny,To score at least 2 goals,1.5,56.0,0.0179,0.0091,1,0.0,0
+2026-11-03,Blackburn vs Stoke,Justin Devenny,To score at least 2 goals,1.5,56.0,0.0179,0.0092,1,0.0,0
 2026-11-03,Blackburn vs Stoke,Djibril Soumaré,To score at least 2 goals,1.5,51.0,0.0196,0.0008,1,0.0,0
 2026-11-03,Blackburn vs Stoke,Yuki Ohashi,To score at least 3 goals,2.5,34.0,0.0294,0.0,0,0.0,0
-2026-11-03,Blackburn vs Stoke,George Hirst,To give an assist,0.5,7.0,0.1429,0.0269,0,0.0,0
-2026-11-03,Blackburn vs Stoke,Yuki Ohashi,Player's shots on target,1.5,2.15,0.4651,0.0142,0,0.0,0
-2026-11-03,Blackburn vs Stoke,Sam Morsy,To score at least 2 goals,1.5,56.0,0.0179,0.0014,1,0.0,0
-2026-11-03,Blackburn vs Stoke,Hayden Carter,Player's shots on target,0.5,5.0,0.2,0.1247,1,0.0,0
-2026-11-03,Blackburn vs Stoke,Svante Ingelsson,Player's shots on target,0.5,2.6,0.3846,0.0639,0,0.0,0
-2026-11-03,Blackburn vs Stoke,Ben Wilmot,To Get a Card,0.5,3.1,0.3226,0.1447,1,0.0,0
-2026-11-03,Blackburn vs Stoke,Hayden Carter,To Get a Card,0.5,4.1,0.2439,0.2186,1,1.0,1
+2026-11-03,Blackburn vs Stoke,George Hirst,To give an assist,0.5,7.0,0.1429,0.0266,0,0.0,0
+2026-11-03,Blackburn vs Stoke,Yuki Ohashi,Player's shots on target,1.5,2.15,0.4651,0.0145,0,0.0,0
+2026-11-03,Blackburn vs Stoke,Sam Morsy,To score at least 2 goals,1.5,56.0,0.0179,0.0013,1,0.0,0
+2026-11-03,Blackburn vs Stoke,Hayden Carter,Player's shots on target,0.5,5.0,0.2,0.1142,1,0.0,0
+2026-11-03,Blackburn vs Stoke,Svante Ingelsson,Player's shots on target,0.5,2.6,0.3846,0.0641,0,0.0,0
+2026-11-03,Blackburn vs Stoke,Ben Wilmot,To Get a Card,0.5,3.1,0.3226,0.144,1,0.0,0
+2026-11-03,Blackburn vs Stoke,Hayden Carter,To Get a Card,0.5,4.1,0.2439,0.2278,1,1.0,1
 2026-11-03,Blackburn vs Stoke,Justin Devenny,To Get a Card,0.5,4.2,0.2381,0.0882,1,0.0,0
-2026-11-03,Blackburn vs Stoke,Djibril Soumaré,To give an assist,0.5,7.0,0.1429,0.0355,1,0.0,0
-2026-11-03,Blackburn vs Stoke,Bae Jun-Ho,To give an assist,0.5,5.2,0.1923,0.0167,0,0.0,0
-2026-11-03,Blackburn vs Stoke,Jake Garrett,To Get a Card,0.5,4.3,0.2326,0.0405,0,0.0,0
-2026-11-03,Blackburn vs Stoke,Róbert Bozeník,To give an assist,0.5,4.0,0.25,0.0683,1,0.0,0
+2026-11-03,Blackburn vs Stoke,Djibril Soumaré,To give an assist,0.5,7.0,0.1429,0.0358,1,0.0,0
+2026-11-03,Blackburn vs Stoke,Bae Jun-Ho,To give an assist,0.5,5.2,0.1923,0.0171,0,0.0,0
+2026-11-03,Blackburn vs Stoke,Jake Garrett,To Get a Card,0.5,4.3,0.2326,0.0382,0,0.0,0
+2026-11-03,Blackburn vs Stoke,Róbert Bozeník,To give an assist,0.5,4.0,0.25,0.0685,1,0.0,0
 2026-11-03,Blackburn vs Stoke,Moussa Baradji,To Get a Card,0.5,4.0,0.25,0.0425,0,0.0,0
 2026-11-03,Blackburn vs Stoke,Yuki Ohashi,To give an assist,0.5,5.8,0.1724,0.0128,0,0.0,0
-2026-11-03,Blackburn vs Stoke,Andri Gudjohnsen,To give an assist,0.5,3.8,0.2632,0.0507,1,0.0,0
-2026-11-03,Blackburn vs Stoke,Oladapo Afolayan,Player's shots on target,0.5,1.85,0.5405,0.4197,1,0.0,0
+2026-11-03,Blackburn vs Stoke,Andri Gudjohnsen,To give an assist,0.5,3.8,0.2632,0.0508,1,0.0,0
+2026-11-03,Blackburn vs Stoke,Oladapo Afolayan,Player's shots on target,0.5,1.85,0.5405,0.4055,1,0.0,0
 2026-11-03,Blackburn vs Stoke,Róbert Bozeník,To Get a Card,0.5,3.9,0.2564,0.1138,1,1.0,1
 2026-11-03,Blackburn vs Stoke,Bosun Lawal,To Get a Card,0.5,4.4,0.2273,0.0458,0,0.0,0
-2026-11-03,Blackburn vs Stoke,Kristi Montgomery,Player's shots on target,0.5,2.7,0.3704,0.1804,1,0.0,0
-2026-11-03,Blackburn vs Stoke,Jack McGlynn,To Get a Card,0.5,4.5,0.2222,0.1419,1,0.0,0
-2026-11-03,Blackburn vs Stoke,Jack McGlynn,To give an assist,0.5,3.7,0.2703,0.1517,1,0.0,0
+2026-11-03,Blackburn vs Stoke,Kristi Montgomery,Player's shots on target,0.5,2.7,0.3704,0.1797,1,0.0,0
+2026-11-03,Blackburn vs Stoke,Jack McGlynn,To Get a Card,0.5,4.5,0.2222,0.1422,1,0.0,0
+2026-11-03,Blackburn vs Stoke,Jack McGlynn,To give an assist,0.5,3.7,0.2703,0.1521,1,0.0,0
 2026-11-03,Blackburn vs Stoke,Tomás Rigo,To Get a Card,0.5,3.7,0.2703,0.024,0,0.0,0
-2026-11-03,Blackburn vs Stoke,Junior Tchamadeu,To Get a Card,0.5,3.7,0.2703,0.0745,0,1.0,1
-2026-11-03,Blackburn vs Stoke,Svante Ingelsson,To Get a Card,0.5,3.3,0.303,0.0421,0,0.0,0
+2026-11-03,Blackburn vs Stoke,Junior Tchamadeu,To Get a Card,0.5,3.7,0.2703,0.0732,0,1.0,1
+2026-11-03,Blackburn vs Stoke,Svante Ingelsson,To Get a Card,0.5,3.3,0.303,0.0425,0,0.0,0
 2026-11-03,Blackburn vs Stoke,Ben Pearson,To Get a Card,0.5,3.5,0.2857,0.0713,0,0.0,0
-2026-11-03,Blackburn vs Stoke,Djibril Soumaré,To Get a Card,0.5,3.7,0.2703,0.1826,1,1.0,1
-2026-11-03,Blackburn vs Stoke,George Hirst,To Get a Card,0.5,3.9,0.2564,0.0432,0,0.0,0
-2026-11-03,Blackburn vs Stoke,Oladapo Afolayan,To Get a Card,0.5,4.3,0.2326,0.1403,1,0.0,0
-2026-11-03,Blackburn vs Stoke,George Hirst,Player's shots on target,0.5,1.78,0.5618,0.1643,0,0.0,0
-2026-11-03,Blackburn vs Stoke,George Hirst,To Score,0.5,3.8,0.2632,0.0639,0,0.0,0
+2026-11-03,Blackburn vs Stoke,Djibril Soumaré,To Get a Card,0.5,3.7,0.2703,0.1827,1,1.0,1
+2026-11-03,Blackburn vs Stoke,George Hirst,To Get a Card,0.5,3.9,0.2564,0.0427,0,0.0,0
+2026-11-03,Blackburn vs Stoke,Oladapo Afolayan,To Get a Card,0.5,4.3,0.2326,0.142,1,0.0,0
+2026-11-03,Blackburn vs Stoke,George Hirst,Player's shots on target,0.5,1.78,0.5618,0.1659,0,0.0,0
+2026-11-03,Blackburn vs Stoke,George Hirst,To Score,0.5,3.8,0.2632,0.0645,0,0.0,0
 2026-11-03,Blackburn vs Stoke,Luke Graham,To Score,0.5,8.5,0.1176,0.0568,1,0.0,0
-2026-11-03,Blackburn vs Stoke,Yuri Ribeiro,To Score,0.5,11.5,0.087,0.0133,0,0.0,0
-2026-11-03,Blackburn vs Stoke,Svante Ingelsson,To give an assist,0.5,5.5,0.1818,0.0121,0,0.0,0
-2026-11-03,Blackburn vs Stoke,Bae Jun-Ho,Player's shots on target,0.5,2.65,0.3774,0.0841,0,0.0,0
-2026-11-03,Blackburn vs Stoke,Sam Morsy,To give an assist,0.5,6.0,0.1667,0.0549,1,0.0,0
-2026-11-03,Blackburn vs Stoke,Kristi Montgomery,To Score,0.5,6.25,0.16,0.0673,1,0.0,0
-2026-11-03,Blackburn vs Stoke,Harry Pickering,To Score,0.5,11.5,0.087,0.0147,1,0.0,0
-2026-11-03,Blackburn vs Stoke,Hayden Carter,To Score,0.5,11.0,0.0909,0.0584,1,0.0,0
-2026-11-03,Blackburn vs Stoke,Sean McLoughlin,To Score,0.5,11.5,0.087,0.0232,1,0.0,0
+2026-11-03,Blackburn vs Stoke,Yuri Ribeiro,To Score,0.5,11.5,0.087,0.0134,0,0.0,0
+2026-11-03,Blackburn vs Stoke,Svante Ingelsson,To give an assist,0.5,5.5,0.1818,0.0129,0,0.0,0
+2026-11-03,Blackburn vs Stoke,Bae Jun-Ho,Player's shots on target,0.5,2.65,0.3774,0.0844,0,0.0,0
+2026-11-03,Blackburn vs Stoke,Sam Morsy,To give an assist,0.5,6.0,0.1667,0.0624,1,0.0,0
+2026-11-03,Blackburn vs Stoke,Kristi Montgomery,To Score,0.5,6.25,0.16,0.0672,1,0.0,0
+2026-11-03,Blackburn vs Stoke,Harry Pickering,To Score,0.5,11.5,0.087,0.0138,1,0.0,0
+2026-11-03,Blackburn vs Stoke,Hayden Carter,To Score,0.5,11.0,0.0909,0.0534,1,0.0,0
+2026-11-03,Blackburn vs Stoke,Sean McLoughlin,To Score,0.5,11.5,0.087,0.0229,1,0.0,0
 2026-11-03,Blackburn vs Stoke,Moussa Baradji,To score at least 2 goals,1.5,19.0,0.0526,0.0003,0,0.0,0
-2026-11-03,Blackburn vs Stoke,Moussa Baradji,To Score,0.5,3.7,0.2703,0.0257,0,0.0,0
-2026-11-03,Blackburn vs Stoke,Yuki Ohashi,To score at least 2 goals,1.5,8.0,0.125,0.0016,0,0.0,0
-2026-11-03,Blackburn vs Stoke,Andri Gudjohnsen,To score at least 2 goals,1.5,14.0,0.0714,0.064,1,1.0,0
-2026-11-03,Blackburn vs Stoke,Andri Gudjohnsen,To Score,0.5,3.0,0.3333,0.3356,1,1.0,1
-2026-11-03,Blackburn vs Stoke,Luke Graham,To Get a Card,0.5,3.5,0.2857,0.1795,1,0.0,0
-2026-11-03,Blackburn vs Stoke,Harry Pickering,To Get a Card,0.5,4.5,0.2222,0.1746,1,0.0,0
-2026-11-03,Blackburn vs Stoke,Luke Graham,Player's shots on target,0.5,3.5,0.2857,0.1294,1,0.0,0
-2026-11-03,Blackburn vs Stoke,Ben Johnson,To Get a Card,0.5,4.0,0.25,0.1013,1,0.0,0
-2026-11-03,Blackburn vs Stoke,Kristi Montgomery,To Get a Card,0.5,4.2,0.2381,0.1255,1,0.0,0
-2026-11-03,Blackburn vs Stoke,Todd Cantwell,To Get a Card,0.5,2.95,0.339,0.2408,1,0.0,0
-2026-11-03,Blackburn vs Stoke,Million Manhoef,Player's shots on target,0.5,1.68,0.5952,0.5017,1,1.0,1
-2026-11-03,Blackburn vs Stoke,Justin Devenny,Player's shots on target,0.5,2.3,0.4348,0.3623,1,0.0,0
-2026-11-03,Blackburn vs Stoke,Djibril Soumaré,To Score,0.5,6.5,0.1538,0.0389,1,0.0,0
-2026-11-03,Blackburn vs Stoke,Todd Cantwell,Player's shots on target,0.5,1.7,0.5882,0.3973,1,1.0,1
-2026-11-03,Blackburn vs Stoke,Bosun Lawal,To Score,0.5,12.0,0.0833,0.0162,0,0.0,0
+2026-11-03,Blackburn vs Stoke,Moussa Baradji,To Score,0.5,3.7,0.2703,0.0258,0,0.0,0
+2026-11-03,Blackburn vs Stoke,Yuki Ohashi,To score at least 2 goals,1.5,8.0,0.125,0.0017,0,0.0,0
+2026-11-03,Blackburn vs Stoke,Andri Gudjohnsen,To score at least 2 goals,1.5,14.0,0.0714,0.0641,1,1.0,0
+2026-11-03,Blackburn vs Stoke,Andri Gudjohnsen,To Score,0.5,3.0,0.3333,0.3359,1,1.0,1
+2026-11-03,Blackburn vs Stoke,Luke Graham,To Get a Card,0.5,3.5,0.2857,0.1794,1,0.0,0
+2026-11-03,Blackburn vs Stoke,Harry Pickering,To Get a Card,0.5,4.5,0.2222,0.1695,1,0.0,0
+2026-11-03,Blackburn vs Stoke,Luke Graham,Player's shots on target,0.5,3.5,0.2857,0.1291,1,0.0,0
+2026-11-03,Blackburn vs Stoke,Ben Johnson,To Get a Card,0.5,4.0,0.25,0.0998,1,0.0,0
+2026-11-03,Blackburn vs Stoke,Kristi Montgomery,To Get a Card,0.5,4.2,0.2381,0.1256,1,0.0,0
+2026-11-03,Blackburn vs Stoke,Todd Cantwell,To Get a Card,0.5,2.95,0.339,0.2409,1,0.0,0
+2026-11-03,Blackburn vs Stoke,Million Manhoef,Player's shots on target,0.5,1.68,0.5952,0.5092,1,1.0,1
+2026-11-03,Blackburn vs Stoke,Justin Devenny,Player's shots on target,0.5,2.3,0.4348,0.3624,1,0.0,0
+2026-11-03,Blackburn vs Stoke,Djibril Soumaré,To Score,0.5,6.5,0.1538,0.0388,1,0.0,0
+2026-11-03,Blackburn vs Stoke,Todd Cantwell,Player's shots on target,0.5,1.7,0.5882,0.3969,1,1.0,1
+2026-11-03,Blackburn vs Stoke,Bosun Lawal,To Score,0.5,12.0,0.0833,0.0163,0,0.0,0
 2026-11-03,Blackburn vs Stoke,Moussa Baradji,Player's shots on target,0.5,1.7,0.5882,0.117,0,0.0,0
-2026-11-03,Blackburn vs Stoke,Jack McGlynn,Player's shots on target,0.5,2.05,0.4878,0.4155,1,1.0,1
-2026-11-03,Blackburn vs Stoke,Róbert Bozeník,Player's shots on target,0.5,1.85,0.5405,0.4074,1,1.0,1
+2026-11-03,Blackburn vs Stoke,Jack McGlynn,Player's shots on target,0.5,2.05,0.4878,0.4146,1,1.0,1
+2026-11-03,Blackburn vs Stoke,Róbert Bozeník,Player's shots on target,0.5,1.85,0.5405,0.4075,1,1.0,1
 2026-11-03,Blackburn vs Stoke,Yuri Ribeiro,Player's shots on target,0.5,5.0,0.2,0.0427,0,0.0,0
-2026-11-03,Blackburn vs Stoke,Jake Garrett,To Score,0.5,9.0,0.1111,0.0323,0,0.0,0
-2026-11-03,Blackburn vs Stoke,Justin Devenny,To Score,0.5,5.8,0.1724,0.1321,1,0.0,0
-2026-11-03,Blackburn vs Stoke,Róbert Bozeník,To Score,0.5,4.0,0.25,0.1354,1,0.0,0
+2026-11-03,Blackburn vs Stoke,Jake Garrett,To Score,0.5,9.0,0.1111,0.0306,0,0.0,0
+2026-11-03,Blackburn vs Stoke,Justin Devenny,To Score,0.5,5.8,0.1724,0.1325,1,0.0,0
+2026-11-03,Blackburn vs Stoke,Róbert Bozeník,To Score,0.5,4.0,0.25,0.1358,1,0.0,0
 2026-11-03,Blackburn vs Stoke,Andri Gudjohnsen,To Get a Card,0.5,4.6,0.2174,0.0882,1,1.0,1
-2026-11-03,Blackburn vs Stoke,Yuki Ohashi,To Get a Card,0.5,4.3,0.2326,0.0397,0,0.0,0
-2026-11-03,Blackburn vs Stoke,Sean McLoughlin,To Get a Card,0.5,2.9,0.3448,0.204,1,0.0,0
-2026-11-03,Blackburn vs Stoke,Sam Morsy,To Get a Card,0.5,3.9,0.2564,0.2693,1,0.0,0
-2026-11-03,Blackburn vs Stoke,Dion De Neve,To Score,0.5,8.5,0.1176,0.0205,0,0.0,0
-2026-11-03,Blackburn vs Stoke,Todd Cantwell,To Score,0.5,3.6,0.2778,0.1344,1,0.0,0
-2026-11-03,Blackburn vs Stoke,Million Manhoef,To Score,0.5,3.5,0.2857,0.1451,1,0.0,0
-2026-11-03,Blackburn vs Stoke,Million Manhoef,To score at least 2 goals,1.5,18.0,0.0556,0.0111,1,0.0,0
-2026-11-03,Blackburn vs Stoke,Ben Pearson,To Score,0.5,10.0,0.1,0.0189,0,0.0,0
-2026-11-03,Charlton vs Bolton,Ruben Rodrigues,To Score,0.5,4.5,0.2222,0.0344,0,0.0,0
-2026-11-03,Charlton vs Bolton,Karlan Grant,Player's shots on target,0.5,1.6,0.625,0.4524,1,0.0,0
-2026-11-03,Charlton vs Bolton,Lewis Brunt,To Score,0.5,12.0,0.0833,0.0196,0,0.0,0
+2026-11-03,Blackburn vs Stoke,Yuki Ohashi,To Get a Card,0.5,4.3,0.2326,0.0394,0,0.0,0
+2026-11-03,Blackburn vs Stoke,Sean McLoughlin,To Get a Card,0.5,2.9,0.3448,0.202,1,0.0,0
+2026-11-03,Blackburn vs Stoke,Sam Morsy,To Get a Card,0.5,3.9,0.2564,0.2702,1,0.0,0
+2026-11-03,Blackburn vs Stoke,Dion De Neve,To Score,0.5,8.5,0.1176,0.0206,0,0.0,0
+2026-11-03,Blackburn vs Stoke,Todd Cantwell,To Score,0.5,3.6,0.2778,0.1343,1,0.0,0
+2026-11-03,Blackburn vs Stoke,Million Manhoef,To Score,0.5,3.5,0.2857,0.1535,1,0.0,0
+2026-11-03,Blackburn vs Stoke,Million Manhoef,To score at least 2 goals,1.5,18.0,0.0556,0.0124,1,0.0,0
+2026-11-03,Blackburn vs Stoke,Ben Pearson,To Score,0.5,10.0,0.1,0.019,0,0.0,0
+2026-11-03,Charlton vs Bolton,Ruben Rodrigues,To Score,0.5,4.5,0.2222,0.0334,0,0.0,0
+2026-11-03,Charlton vs Bolton,Karlan Grant,Player's shots on target,0.5,1.6,0.625,0.4539,1,0.0,0
+2026-11-03,Charlton vs Bolton,Lewis Brunt,To Score,0.5,12.0,0.0833,0.0197,0,0.0,0
 2026-11-03,Charlton vs Bolton,Kyliane Dong,To score at least 2 goals,1.5,19.0,0.0526,0.0013,0,0.0,0
 2026-11-03,Charlton vs Bolton,Sonny Carey,Player's shots on target,0.5,1.43,0.6993,0.1135,0,0.0,0
 2026-11-03,Charlton vs Bolton,Tyreece Campbell,To score at least 2 goals,1.5,19.0,0.0526,0.0111,1,0.0,0
 2026-11-03,Charlton vs Bolton,Lloyd Jones,To Score,0.5,8.0,0.125,0.0523,1,0.0,0
-2026-11-03,Charlton vs Bolton,Kyliane Dong,To Score,0.5,3.5,0.2857,0.0501,0,0.0,0
-2026-11-03,Charlton vs Bolton,David Watson,To give an assist,0.5,5.5,0.1818,0.0152,0,0.0,0
-2026-11-03,Charlton vs Bolton,Luca Stephenson,To Get a Card,0.5,3.3,0.303,0.2027,1,0.0,0
-2026-11-03,Charlton vs Bolton,Sam Dalby,To score at least 2 goals,1.5,16.0,0.0625,0.0348,1,1.0,0
+2026-11-03,Charlton vs Bolton,Kyliane Dong,To Score,0.5,3.5,0.2857,0.0502,0,0.0,0
+2026-11-03,Charlton vs Bolton,David Watson,To give an assist,0.5,5.5,0.1818,0.0153,0,0.0,0
+2026-11-03,Charlton vs Bolton,Luca Stephenson,To Get a Card,0.5,3.3,0.303,0.2025,1,0.0,0
+2026-11-03,Charlton vs Bolton,Sam Dalby,To score at least 2 goals,1.5,16.0,0.0625,0.0349,1,1.0,0
 2026-11-03,Charlton vs Bolton,Kyliane Dong,Player's shots on target,1.5,3.8,0.2632,0.0064,0,0.0,0
-2026-11-03,Charlton vs Bolton,Tyreece Campbell,To Get a Card,0.5,5.8,0.1724,0.1046,1,0.0,0
+2026-11-03,Charlton vs Bolton,Tyreece Campbell,To Get a Card,0.5,5.8,0.1724,0.1047,1,0.0,0
 2026-11-03,Charlton vs Bolton,Miles Leaburn,To give an assist,0.5,3.0,0.3333,0.0099,0,0.0,0
 2026-11-03,Charlton vs Bolton,Ivan Mesik,To score at least 2 goals,1.5,41.0,0.0244,0.0004,0,0.0,0
-2026-11-03,Charlton vs Bolton,Samuel Iling-Junior,Player's shots on target,0.5,2.35,0.4255,0.3129,1,0.0,0
-2026-11-03,Charlton vs Bolton,Amari'i Bell,To Get a Card,0.5,4.2,0.2381,0.0939,1,0.0,0
+2026-11-03,Charlton vs Bolton,Samuel Iling-Junior,Player's shots on target,0.5,2.35,0.4255,0.3115,1,0.0,0
+2026-11-03,Charlton vs Bolton,Amari'i Bell,To Get a Card,0.5,4.2,0.2381,0.0929,1,0.0,0
 2026-11-03,Charlton vs Bolton,Kyliane Dong,Player's shots on target,0.5,1.65,0.6061,0.1108,0,0.0,0
 2026-11-03,Charlton vs Bolton,Miles Leaburn,To Get a Card,0.5,5.0,0.2,0.0359,0,0.0,0
-2026-11-03,Charlton vs Bolton,Samuel Iling-Junior,To give an assist,0.5,7.0,0.1429,0.0745,1,0.0,0
+2026-11-03,Charlton vs Bolton,Samuel Iling-Junior,To give an assist,0.5,7.0,0.1429,0.0736,1,0.0,0
 2026-11-03,Charlton vs Bolton,Thierry Gale,To give an assist,0.5,6.5,0.1538,0.03,0,0.0,0
-2026-11-03,Charlton vs Bolton,Akin Famewo,To Get a Card,0.5,4.0,0.25,0.1548,1,0.0,0
-2026-11-03,Charlton vs Bolton,Harvey Knibbs,Player's shots on target,0.5,2.4,0.4167,0.2755,1,0.0,0
-2026-11-03,Charlton vs Bolton,Harvey Knibbs,To Get a Card,0.5,4.8,0.2083,0.2024,1,1.0,1
+2026-11-03,Charlton vs Bolton,Akin Famewo,To Get a Card,0.5,4.0,0.25,0.1622,1,0.0,0
+2026-11-03,Charlton vs Bolton,Harvey Knibbs,Player's shots on target,0.5,2.4,0.4167,0.2747,1,0.0,0
+2026-11-03,Charlton vs Bolton,Harvey Knibbs,To Get a Card,0.5,4.8,0.2083,0.2025,1,1.0,1
 2026-11-03,Charlton vs Bolton,Ivan Mesik,To Get a Card,0.5,4.5,0.2222,0.0468,0,0.0,0
-2026-11-03,Charlton vs Bolton,Karlan Grant,To give an assist,0.5,6.0,0.1667,0.0544,1,0.0,0
-2026-11-03,Charlton vs Bolton,Matthew Godden,To score at least 2 goals,1.5,16.0,0.0625,0.0016,0,0.0,0
-2026-11-03,Charlton vs Bolton,Akin Famewo,Player's shots on target,0.5,4.8,0.2083,0.1207,1,0.0,0
-2026-11-03,Charlton vs Bolton,Joe Rankin-Costello,To Get a Card,0.5,4.2,0.2381,0.0479,0,0.0,0
-2026-11-03,Charlton vs Bolton,Billy Koumetio,To Score,0.5,9.0,0.1111,0.0223,1,0.0,0
-2026-11-03,Charlton vs Bolton,Lewis Brunt,Player's shots on target,0.5,5.0,0.2,0.0641,0,0.0,0
+2026-11-03,Charlton vs Bolton,Karlan Grant,To give an assist,0.5,6.0,0.1667,0.053,1,0.0,0
+2026-11-03,Charlton vs Bolton,Matthew Godden,To score at least 2 goals,1.5,16.0,0.0625,0.0013,0,0.0,0
+2026-11-03,Charlton vs Bolton,Akin Famewo,Player's shots on target,0.5,4.8,0.2083,0.1154,1,0.0,0
+2026-11-03,Charlton vs Bolton,Joe Rankin-Costello,To Get a Card,0.5,4.2,0.2381,0.0488,0,0.0,0
+2026-11-03,Charlton vs Bolton,Billy Koumetio,To Score,0.5,9.0,0.1111,0.0214,1,0.0,0
+2026-11-03,Charlton vs Bolton,Lewis Brunt,Player's shots on target,0.5,5.0,0.2,0.0642,0,0.0,0
 2026-11-03,Charlton vs Bolton,Kyliane Dong,To score at least 3 goals,2.5,111.0,0.009,0.0,0,0.0,0
 2026-11-03,Charlton vs Bolton,Sam Dalby,To score at least 3 goals,2.5,91.0,0.011,0.0033,1,1.0,0
 2026-11-03,Charlton vs Bolton,Thierry Gale,To Get a Card,0.5,3.9,0.2564,0.0366,0,0.0,0
-2026-11-03,Charlton vs Bolton,Billy Koumetio,To Get a Card,0.5,3.9,0.2564,0.1718,1,0.0,0
-2026-11-03,Charlton vs Bolton,Tyreece Campbell,Player's shots on target,0.5,1.7,0.5882,0.3811,1,0.0,0
-2026-11-03,Charlton vs Bolton,Nathaniel Chalobah,To Get a Card,0.5,4.2,0.2381,0.178,1,0.0,0
-2026-11-03,Charlton vs Bolton,Samuel Iling-Junior,To Get a Card,0.5,3.6,0.2778,0.1093,1,0.0,0
-2026-11-03,Charlton vs Bolton,Luca Stephenson,To Score,0.5,7.5,0.1333,0.0332,1,0.0,0
+2026-11-03,Charlton vs Bolton,Billy Koumetio,To Get a Card,0.5,3.9,0.2564,0.1651,1,0.0,0
+2026-11-03,Charlton vs Bolton,Tyreece Campbell,Player's shots on target,0.5,1.7,0.5882,0.3807,1,0.0,0
+2026-11-03,Charlton vs Bolton,Nathaniel Chalobah,To Get a Card,0.5,4.2,0.2381,0.1712,1,0.0,0
+2026-11-03,Charlton vs Bolton,Samuel Iling-Junior,To Get a Card,0.5,3.6,0.2778,0.1077,1,0.0,0
+2026-11-03,Charlton vs Bolton,Luca Stephenson,To Score,0.5,7.5,0.1333,0.0331,1,0.0,0
 2026-11-03,Charlton vs Bolton,David Watson,To Get a Card,0.5,3.5,0.2857,0.0281,0,0.0,0
-2026-11-03,Charlton vs Bolton,Ivan Mesik,To give an assist,0.5,5.5,0.1818,0.0071,0,0.0,0
-2026-11-03,Charlton vs Bolton,Oliver Skipp,To Get a Card,0.5,4.1,0.2439,0.0462,0,0.0,0
-2026-11-03,Charlton vs Bolton,Ruben Rodrigues,Player's shots on target,0.5,2.05,0.4878,0.1312,0,0.0,0
-2026-11-03,Charlton vs Bolton,Harvey Knibbs,To give an assist,0.5,6.75,0.1481,0.0873,1,0.0,0
-2026-11-03,Charlton vs Bolton,Atsuki Ito,To Get a Card,0.5,3.7,0.2703,0.1149,1,0.0,0
-2026-11-03,Charlton vs Bolton,Charlie Kelman,To Get a Card,0.5,4.5,0.2222,0.0708,1,0.0,0
-2026-11-03,Charlton vs Bolton,Oliver Skipp,To Score,0.5,10.0,0.1,0.0139,0,0.0,0
-2026-11-03,Charlton vs Bolton,David Watson,To Score,0.5,5.5,0.1818,0.0336,0,0.0,0
-2026-11-03,Charlton vs Bolton,Lloyd Jones,To Get a Card,0.5,3.4,0.2941,0.1597,1,0.0,0
-2026-11-03,Charlton vs Bolton,Luca Stephenson,To give an assist,0.5,5.5,0.1818,0.036,1,0.0,0
-2026-11-03,Charlton vs Bolton,Ruben Rodrigues,To give an assist,0.5,5.3,0.1887,0.0198,0,0.0,0
-2026-11-03,Charlton vs Bolton,Ruben Rodrigues,To Get a Card,0.5,4.0,0.25,0.0208,0,1.0,1
+2026-11-03,Charlton vs Bolton,Ivan Mesik,To give an assist,0.5,5.5,0.1818,0.0072,0,0.0,0
+2026-11-03,Charlton vs Bolton,Oliver Skipp,To Get a Card,0.5,4.1,0.2439,0.0467,0,0.0,0
+2026-11-03,Charlton vs Bolton,Ruben Rodrigues,Player's shots on target,0.5,2.05,0.4878,0.1277,0,0.0,0
+2026-11-03,Charlton vs Bolton,Harvey Knibbs,To give an assist,0.5,6.75,0.1481,0.0876,1,0.0,0
+2026-11-03,Charlton vs Bolton,Atsuki Ito,To Get a Card,0.5,3.7,0.2703,0.1151,1,0.0,0
+2026-11-03,Charlton vs Bolton,Charlie Kelman,To Get a Card,0.5,4.5,0.2222,0.0709,1,0.0,0
+2026-11-03,Charlton vs Bolton,Oliver Skipp,To Score,0.5,10.0,0.1,0.0138,0,0.0,0
+2026-11-03,Charlton vs Bolton,David Watson,To Score,0.5,5.5,0.1818,0.0338,0,0.0,0
+2026-11-03,Charlton vs Bolton,Lloyd Jones,To Get a Card,0.5,3.4,0.2941,0.1596,1,0.0,0
+2026-11-03,Charlton vs Bolton,Luca Stephenson,To give an assist,0.5,5.5,0.1818,0.0358,1,0.0,0
+2026-11-03,Charlton vs Bolton,Ruben Rodrigues,To give an assist,0.5,5.3,0.1887,0.0217,0,0.0,0
+2026-11-03,Charlton vs Bolton,Ruben Rodrigues,To Get a Card,0.5,4.0,0.25,0.0226,0,1.0,1
 2026-11-03,Charlton vs Bolton,Kyliane Dong,To Get a Card,0.5,4.0,0.25,0.0419,0,0.0,0
-2026-11-03,Charlton vs Bolton,Sam Dalby,To give an assist,0.5,4.7,0.2128,0.0388,1,0.0,0
-2026-11-03,Charlton vs Bolton,David Watson,Player's shots on target,0.5,2.4,0.4167,0.108,0,0.0,0
-2026-11-03,Charlton vs Bolton,Matthew Godden,To Get a Card,0.5,8.0,0.125,0.0367,0,0.0,0
-2026-11-03,Charlton vs Bolton,Harvey Knibbs,To score at least 2 goals,1.5,46.0,0.0217,0.0073,1,0.0,0
-2026-11-03,Charlton vs Bolton,Conor Coventry,To Get a Card,0.5,3.6,0.2778,0.1814,1,0.0,0
+2026-11-03,Charlton vs Bolton,Sam Dalby,To give an assist,0.5,4.7,0.2128,0.039,1,0.0,0
+2026-11-03,Charlton vs Bolton,David Watson,Player's shots on target,0.5,2.4,0.4167,0.1081,0,0.0,0
+2026-11-03,Charlton vs Bolton,Matthew Godden,To Get a Card,0.5,8.0,0.125,0.0337,0,0.0,0
+2026-11-03,Charlton vs Bolton,Harvey Knibbs,To score at least 2 goals,1.5,46.0,0.0217,0.0072,1,0.0,0
+2026-11-03,Charlton vs Bolton,Conor Coventry,To Get a Card,0.5,3.6,0.2778,0.1815,1,0.0,0
 2026-11-03,Charlton vs Bolton,Sonny Carey,To give an assist,0.5,4.5,0.2222,0.0183,0,0.0,0
-2026-11-03,Charlton vs Bolton,Gaizka Larrazabal,To Get a Card,0.5,3.8,0.2632,0.0397,0,0.0,0
+2026-11-03,Charlton vs Bolton,Gaizka Larrazabal,To Get a Card,0.5,3.8,0.2632,0.0398,0,0.0,0
 2026-11-03,Charlton vs Bolton,Kyliane Dong,To give an assist,0.5,5.0,0.2,0.0279,0,0.0,0
-2026-11-03,Charlton vs Bolton,Charlie Kelman,To give an assist,0.5,3.2,0.3125,0.0551,1,0.0,0
-2026-11-03,Charlton vs Bolton,Miles Leaburn,Player's shots on target,0.5,1.8,0.5556,0.0823,0,0.0,0
+2026-11-03,Charlton vs Bolton,Charlie Kelman,To give an assist,0.5,3.2,0.3125,0.0552,1,0.0,0
+2026-11-03,Charlton vs Bolton,Miles Leaburn,Player's shots on target,0.5,1.8,0.5556,0.0824,0,0.0,0
 2026-11-03,Charlton vs Bolton,Sam Dalby,To Get a Card,0.5,3.9,0.2564,0.0711,1,0.0,0
-2026-11-03,Charlton vs Bolton,Matthew Godden,To Score,0.5,3.3,0.303,0.0554,0,0.0,0
+2026-11-03,Charlton vs Bolton,Matthew Godden,To Score,0.5,3.3,0.303,0.0511,0,0.0,0
 2026-11-03,Charlton vs Bolton,Gaizka Larrazabal,To Score,0.5,7.0,0.1429,0.0416,0,0.0,0
-2026-11-03,Charlton vs Bolton,Josh Sheehan,To Score,0.5,6.5,0.1538,0.1295,1,0.0,0
-2026-11-03,Charlton vs Bolton,Matthew Godden,Player's shots on target,0.5,1.55,0.6452,0.1414,0,0.0,0
-2026-11-03,Charlton vs Bolton,Joe Rankin-Costello,To Score,0.5,7.5,0.1333,0.0279,0,0.0,0
-2026-11-03,Charlton vs Bolton,Karlan Grant,To score at least 2 goals,1.5,17.0,0.0588,0.0124,1,0.0,0
-2026-11-03,Charlton vs Bolton,Charlie Kelman,To Score,0.5,4.1,0.2439,0.2252,1,0.0,0
-2026-11-03,Charlton vs Bolton,Tyler Bindon,To Score,0.5,10.5,0.0952,0.0185,0,0.0,0
-2026-11-03,Charlton vs Bolton,Amari'i Bell,To Score,0.5,10.0,0.1,0.0103,1,0.0,0
-2026-11-03,Charlton vs Bolton,Atsuki Ito,To Score,0.5,6.5,0.1538,0.1371,1,0.0,0
-2026-11-03,Charlton vs Bolton,Sam Dalby,Player's shots on target,1.5,3.3,0.303,0.1279,1,1.0,0
+2026-11-03,Charlton vs Bolton,Josh Sheehan,To Score,0.5,6.5,0.1538,0.1294,1,0.0,0
+2026-11-03,Charlton vs Bolton,Matthew Godden,Player's shots on target,0.5,1.55,0.6452,0.1308,0,0.0,0
+2026-11-03,Charlton vs Bolton,Joe Rankin-Costello,To Score,0.5,7.5,0.1333,0.028,0,0.0,0
+2026-11-03,Charlton vs Bolton,Karlan Grant,To score at least 2 goals,1.5,17.0,0.0588,0.0129,1,0.0,0
+2026-11-03,Charlton vs Bolton,Charlie Kelman,To Score,0.5,4.1,0.2439,0.2255,1,0.0,0
+2026-11-03,Charlton vs Bolton,Tyler Bindon,To Score,0.5,10.5,0.0952,0.0186,0,0.0,0
+2026-11-03,Charlton vs Bolton,Amari'i Bell,To Score,0.5,10.0,0.1,0.0102,1,0.0,0
+2026-11-03,Charlton vs Bolton,Atsuki Ito,To Score,0.5,6.5,0.1538,0.137,1,0.0,0
+2026-11-03,Charlton vs Bolton,Sam Dalby,Player's shots on target,1.5,3.3,0.303,0.128,1,1.0,0
 2026-11-03,Charlton vs Bolton,Ruben Rodrigues,To score at least 2 goals,1.5,29.0,0.0345,0.0006,0,0.0,0
-2026-11-03,Charlton vs Bolton,Thierry Gale,Player's shots on target,0.5,2.1,0.4762,0.1152,0,2.0,1
-2026-11-03,Charlton vs Bolton,Miles Leaburn,To Score,0.5,3.8,0.2632,0.0218,0,0.0,0
-2026-11-03,Charlton vs Bolton,Samuel Iling-Junior,To Score,0.5,5.75,0.1739,0.0605,1,0.0,0
+2026-11-03,Charlton vs Bolton,Thierry Gale,Player's shots on target,0.5,2.1,0.4762,0.1153,0,2.0,1
+2026-11-03,Charlton vs Bolton,Miles Leaburn,To Score,0.5,3.8,0.2632,0.0219,0,0.0,0
+2026-11-03,Charlton vs Bolton,Samuel Iling-Junior,To Score,0.5,5.75,0.1739,0.0595,1,0.0,0
 2026-11-03,Charlton vs Bolton,Miles Leaburn,To score at least 2 goals,1.5,21.0,0.0476,0.0002,0,0.0,0
-2026-11-03,Charlton vs Bolton,Xavier Simons,To Score,0.5,7.0,0.1429,0.1232,1,0.0,0
+2026-11-03,Charlton vs Bolton,Xavier Simons,To Score,0.5,7.0,0.1429,0.1181,1,0.0,0
 2026-11-03,Charlton vs Bolton,Thierry Gale,To score at least 2 goals,1.5,30.0,0.0333,0.0013,0,0.0,0
-2026-11-03,Charlton vs Bolton,Sam Dalby,Player's shots on target,0.5,1.55,0.6452,0.461,1,1.0,1
-2026-11-03,Charlton vs Bolton,Sonny Carey,To Score,0.5,2.9,0.3448,0.0345,0,0.0,0
-2026-11-03,Charlton vs Bolton,Karlan Grant,To Get a Card,0.5,4.4,0.2273,0.1263,1,0.0,0
-2026-11-03,Charlton vs Bolton,Nathaniel Chalobah,Player's shots on target,0.5,2.65,0.3774,0.2459,1,0.0,0
-2026-11-03,Charlton vs Bolton,Charlie Kelman,Player's shots on target,0.5,1.85,0.5405,0.5263,1,1.0,1
-2026-11-03,Charlton vs Bolton,Josh Sheehan,To give an assist,0.5,6.25,0.16,0.05,1,0.0,0
-2026-11-03,Charlton vs Bolton,Ivan Mesik,Player's shots on target,0.5,2.4,0.4167,0.0763,0,0.0,0
-2026-11-03,Charlton vs Bolton,Lloyd Jones,Player's shots on target,0.5,3.2,0.3125,0.1991,1,0.0,0
-2026-11-03,Charlton vs Bolton,Sam Dalby,To Score,0.5,3.2,0.3125,0.2519,1,1.0,1
-2026-11-03,Charlton vs Bolton,Nathaniel Chalobah,To give an assist,0.5,5.75,0.1739,0.0747,1,0.0,0
-2026-11-03,Charlton vs Bolton,Gaizka Larrazabal,Player's shots on target,0.5,3.0,0.3333,0.1265,0,0.0,0
-2026-11-03,Charlton vs Bolton,Tyreece Campbell,To Score,0.5,3.6,0.2778,0.1452,1,0.0,0
-2026-11-03,Charlton vs Bolton,Josh Sheehan,Player's shots on target,0.5,2.65,0.3774,0.4151,1,0.0,0
+2026-11-03,Charlton vs Bolton,Sam Dalby,Player's shots on target,0.5,1.55,0.6452,0.4612,1,1.0,1
+2026-11-03,Charlton vs Bolton,Sonny Carey,To Score,0.5,2.9,0.3448,0.0346,0,0.0,0
+2026-11-03,Charlton vs Bolton,Karlan Grant,To Get a Card,0.5,4.4,0.2273,0.123,1,0.0,0
+2026-11-03,Charlton vs Bolton,Nathaniel Chalobah,Player's shots on target,0.5,2.65,0.3774,0.2467,1,0.0,0
+2026-11-03,Charlton vs Bolton,Charlie Kelman,Player's shots on target,0.5,1.85,0.5405,0.5264,1,1.0,1
+2026-11-03,Charlton vs Bolton,Josh Sheehan,To give an assist,0.5,6.25,0.16,0.0504,1,0.0,0
+2026-11-03,Charlton vs Bolton,Ivan Mesik,Player's shots on target,0.5,2.4,0.4167,0.0764,0,0.0,0
+2026-11-03,Charlton vs Bolton,Lloyd Jones,Player's shots on target,0.5,3.2,0.3125,0.199,1,0.0,0
+2026-11-03,Charlton vs Bolton,Sam Dalby,To Score,0.5,3.2,0.3125,0.2523,1,1.0,1
+2026-11-03,Charlton vs Bolton,Nathaniel Chalobah,To give an assist,0.5,5.75,0.1739,0.0719,1,0.0,0
+2026-11-03,Charlton vs Bolton,Gaizka Larrazabal,Player's shots on target,0.5,3.0,0.3333,0.1266,0,0.0,0
+2026-11-03,Charlton vs Bolton,Tyreece Campbell,To Score,0.5,3.6,0.2778,0.1451,1,0.0,0
+2026-11-03,Charlton vs Bolton,Josh Sheehan,Player's shots on target,0.5,2.65,0.3774,0.4144,1,0.0,0
 2026-11-03,Charlton vs Bolton,Sonny Carey,To score at least 2 goals,1.5,12.0,0.0833,0.0006,0,0.0,0
-2026-11-03,Charlton vs Bolton,Ivan Mesik,To Score,0.5,5.5,0.1818,0.0279,0,0.0,0
-2026-11-03,Charlton vs Bolton,Akin Famewo,To Score,0.5,12.0,0.0833,0.0339,1,0.0,0
-2026-11-03,Charlton vs Bolton,Charlie Kelman,To score at least 2 goals,1.5,23.0,0.0435,0.0275,1,0.0,0
-2026-11-03,Charlton vs Bolton,Thierry Gale,To Score,0.5,4.7,0.2128,0.0496,0,0.0,0
-2026-11-03,Charlton vs Bolton,Nathaniel Chalobah,To Score,0.5,6.25,0.16,0.1035,1,0.0,0
-2026-11-03,Charlton vs Bolton,Matthew Godden,To give an assist,0.5,5.5,0.1818,0.0129,0,0.0,0
-2026-11-03,Charlton vs Bolton,Xavier Simons,To give an assist,0.5,5.3,0.1887,0.0453,1,0.0,0
+2026-11-03,Charlton vs Bolton,Ivan Mesik,To Score,0.5,5.5,0.1818,0.028,0,0.0,0
+2026-11-03,Charlton vs Bolton,Akin Famewo,To Score,0.5,12.0,0.0833,0.0324,1,0.0,0
+2026-11-03,Charlton vs Bolton,Charlie Kelman,To score at least 2 goals,1.5,23.0,0.0435,0.0276,1,0.0,0
+2026-11-03,Charlton vs Bolton,Thierry Gale,To Score,0.5,4.7,0.2128,0.0498,0,0.0,0
+2026-11-03,Charlton vs Bolton,Nathaniel Chalobah,To Score,0.5,6.25,0.16,0.0991,1,0.0,0
+2026-11-03,Charlton vs Bolton,Matthew Godden,To give an assist,0.5,5.5,0.1818,0.0119,0,0.0,0
+2026-11-03,Charlton vs Bolton,Xavier Simons,To give an assist,0.5,5.3,0.1887,0.0437,1,0.0,0
 2026-11-03,Charlton vs Bolton,Lewis Brunt,To Get a Card,0.5,4.1,0.2439,0.0314,0,0.0,0
-2026-11-03,Charlton vs Bolton,Josh Sheehan,To Get a Card,0.5,3.5,0.2857,0.2118,1,0.0,0
+2026-11-03,Charlton vs Bolton,Josh Sheehan,To Get a Card,0.5,3.5,0.2857,0.212,1,0.0,0
 2026-11-03,Charlton vs Bolton,Tyler Bindon,To Get a Card,0.5,6.25,0.16,0.0296,0,0.0,0
-2026-11-03,Charlton vs Bolton,Xavier Simons,To Get a Card,0.5,4.0,0.25,0.141,1,0.0,0
+2026-11-03,Charlton vs Bolton,Xavier Simons,To Get a Card,0.5,4.0,0.25,0.1355,1,0.0,0
 2026-11-03,Charlton vs Bolton,Sonny Carey,To Get a Card,0.5,3.9,0.2564,0.019,0,0.0,0
-2026-11-03,Charlton vs Bolton,Conor Coventry,To Score,0.5,10.0,0.1,0.0328,1,0.0,0
-2026-11-03,Charlton vs Bolton,Harvey Knibbs,To Score,0.5,5.5,0.1818,0.1181,1,0.0,0
-2026-11-03,Charlton vs Bolton,Karlan Grant,To Score,0.5,3.4,0.2941,0.1535,1,0.0,0
-2026-11-03,Derby vs Norwich,Filip Bilbija,To score at least 2 goals,1.5,15.0,0.0667,0.0053,0,0.0,0
-2026-11-03,Derby vs Norwich,Filip Bilbija,To Score,0.5,3.2,0.3125,0.101,0,0.0,0
-2026-11-03,Derby vs Norwich,Dion Sanderson,To Score,0.5,13.0,0.0769,0.0216,1,0.0,0
-2026-11-03,Derby vs Norwich,Mathias Kvistgaarden,Player's shots on target,0.5,1.48,0.6757,0.4963,1,1.0,1
+2026-11-03,Charlton vs Bolton,Conor Coventry,To Score,0.5,10.0,0.1,0.0327,1,0.0,0
+2026-11-03,Charlton vs Bolton,Harvey Knibbs,To Score,0.5,5.5,0.1818,0.1179,1,0.0,0
+2026-11-03,Charlton vs Bolton,Karlan Grant,To Score,0.5,3.4,0.2941,0.1564,1,0.0,0
+2026-11-03,Derby vs Norwich,Filip Bilbija,To score at least 2 goals,1.5,15.0,0.0667,0.0047,0,0.0,0
+2026-11-03,Derby vs Norwich,Filip Bilbija,To Score,0.5,3.2,0.3125,0.0958,0,0.0,0
+2026-11-03,Derby vs Norwich,Dion Sanderson,To Score,0.5,13.0,0.0769,0.0209,1,0.0,0
+2026-11-03,Derby vs Norwich,Mathias Kvistgaarden,Player's shots on target,0.5,1.48,0.6757,0.4965,1,1.0,1
 2026-11-03,Derby vs Norwich,Carlton Morris,To score at least 3 goals,2.5,61.0,0.0164,0.0022,1,0.0,0
-2026-11-03,Derby vs Norwich,Ruairi McConville,Player's shots on target,0.5,4.1,0.2439,0.1722,1,0.0,0
-2026-11-03,Derby vs Norwich,Benjamin Chrisene,Player's shots on target,0.5,3.5,0.2857,0.0533,0,0.0,0
-2026-11-03,Derby vs Norwich,Lucien Mahovo,To give an assist,0.5,6.5,0.1538,0.0103,0,0.0,0
-2026-11-03,Derby vs Norwich,Alex Mowatt,To Score,0.5,9.5,0.1053,0.0677,1,0.0,0
-2026-11-03,Derby vs Norwich,Oscar Fraulo,To Score,0.5,9.0,0.1111,0.1043,1,0.0,0
+2026-11-03,Derby vs Norwich,Ruairi McConville,Player's shots on target,0.5,4.1,0.2439,0.172,1,0.0,0
+2026-11-03,Derby vs Norwich,Benjamin Chrisene,Player's shots on target,0.5,3.5,0.2857,0.0519,0,0.0,0
+2026-11-03,Derby vs Norwich,Lucien Mahovo,To give an assist,0.5,6.5,0.1538,0.0104,0,0.0,0
+2026-11-03,Derby vs Norwich,Alex Mowatt,To Score,0.5,9.5,0.1053,0.0682,1,0.0,0
+2026-11-03,Derby vs Norwich,Oscar Fraulo,To Score,0.5,9.0,0.1111,0.1041,1,0.0,0
 2026-11-03,Derby vs Norwich,Filip Bilbija,To score at least 3 goals,2.5,71.0,0.0141,0.0002,0,0.0,0
 2026-11-03,Derby vs Norwich,Oscar Schwartau,To Score,0.5,3.7,0.2703,0.0328,0,0.0,0
-2026-11-03,Derby vs Norwich,Anthony Musaba,To Get a Card,0.5,3.7,0.2703,0.0918,1,0.0,0
-2026-11-03,Derby vs Norwich,Sam Field,To Score,0.5,8.0,0.125,0.0562,1,0.0,0
+2026-11-03,Derby vs Norwich,Anthony Musaba,To Get a Card,0.5,3.7,0.2703,0.0937,1,0.0,0
+2026-11-03,Derby vs Norwich,Sam Field,To Score,0.5,8.0,0.125,0.062,1,0.0,0
 2026-11-03,Derby vs Norwich,Oscar Schwartau,To Get a Card,0.5,4.2,0.2381,0.0293,0,0.0,0
-2026-11-03,Derby vs Norwich,Benjamin Chrisene,To Score,0.5,8.0,0.125,0.0247,0,0.0,0
-2026-11-03,Derby vs Norwich,Bobby Clark,To score at least 2 goals,1.5,41.0,0.0244,0.0085,1,0.0,0
-2026-11-03,Derby vs Norwich,Anthony Musaba,To score at least 2 goals,1.5,30.0,0.0333,0.0125,1,1.0,0
-2026-11-03,Derby vs Norwich,Harry Darling,To Get a Card,0.5,3.8,0.2632,0.1613,1,0.0,0
-2026-11-03,Derby vs Norwich,José Córdoba,To Get a Card,0.5,3.5,0.2857,0.0477,0,0.0,0
-2026-11-03,Derby vs Norwich,Jacob Wright,To Score,0.5,5.0,0.2,0.0915,1,0.0,0
-2026-11-03,Derby vs Norwich,Jack Stacey,To Get a Card,0.5,4.3,0.2326,0.1733,1,0.0,0
-2026-11-03,Derby vs Norwich,Kellen Fisher,To Get a Card,0.5,3.6,0.2778,0.0555,0,0.0,0
-2026-11-03,Derby vs Norwich,Sam Field,To Get a Card,0.5,3.5,0.2857,0.1381,1,0.0,0
+2026-11-03,Derby vs Norwich,Benjamin Chrisene,To Score,0.5,8.0,0.125,0.0241,0,0.0,0
+2026-11-03,Derby vs Norwich,Bobby Clark,To score at least 2 goals,1.5,41.0,0.0244,0.0084,1,0.0,0
+2026-11-03,Derby vs Norwich,Anthony Musaba,To score at least 2 goals,1.5,30.0,0.0333,0.0133,1,1.0,0
+2026-11-03,Derby vs Norwich,Harry Darling,To Get a Card,0.5,3.8,0.2632,0.1624,1,0.0,0
+2026-11-03,Derby vs Norwich,José Córdoba,To Get a Card,0.5,3.5,0.2857,0.0476,0,0.0,0
+2026-11-03,Derby vs Norwich,Jacob Wright,To Score,0.5,5.0,0.2,0.0914,1,0.0,0
+2026-11-03,Derby vs Norwich,Jack Stacey,To Get a Card,0.5,4.3,0.2326,0.173,1,0.0,0
+2026-11-03,Derby vs Norwich,Kellen Fisher,To Get a Card,0.5,3.6,0.2778,0.0551,0,0.0,0
+2026-11-03,Derby vs Norwich,Sam Field,To Get a Card,0.5,3.5,0.2857,0.1331,1,0.0,0
 2026-11-03,Derby vs Norwich,Oscar Schwartau,To give an assist,0.5,3.7,0.2703,0.0243,0,0.0,0
-2026-11-03,Derby vs Norwich,Filip Bilbija,To Get a Card,0.5,3.2,0.3125,0.0369,0,0.0,0
-2026-11-03,Derby vs Norwich,Andre Brooks,To Get a Card,0.5,3.8,0.2632,0.1522,1,0.0,0
+2026-11-03,Derby vs Norwich,Filip Bilbija,To Get a Card,0.5,3.2,0.3125,0.0415,0,0.0,0
+2026-11-03,Derby vs Norwich,Andre Brooks,To Get a Card,0.5,3.8,0.2632,0.1516,1,0.0,0
 2026-11-03,Derby vs Norwich,Jacob Wright,To score at least 2 goals,1.5,35.0,0.0286,0.0043,1,0.0,0
 2026-11-03,Derby vs Norwich,Mathias Kvistgaarden,To Get a Card,0.5,4.0,0.25,0.1385,1,0.0,0
-2026-11-03,Derby vs Norwich,Bobby Clark,To give an assist,0.5,6.25,0.16,0.1061,1,0.0,0
-2026-11-03,Derby vs Norwich,Jacob Wright,To Get a Card,0.5,3.3,0.303,0.1498,1,0.0,0
-2026-11-03,Derby vs Norwich,Rhian Brewster,To Get a Card,0.5,3.8,0.2632,0.0327,0,0.0,0
-2026-11-03,Derby vs Norwich,Carlton Morris,Player's shots on target,0.5,1.4,0.7143,0.462,1,1.0,1
-2026-11-03,Derby vs Norwich,Carlton Morris,Player's shots on target,1.5,2.65,0.3774,0.1285,1,1.0,0
+2026-11-03,Derby vs Norwich,Bobby Clark,To give an assist,0.5,6.25,0.16,0.1058,1,0.0,0
+2026-11-03,Derby vs Norwich,Jacob Wright,To Get a Card,0.5,3.3,0.303,0.1499,1,0.0,0
+2026-11-03,Derby vs Norwich,Rhian Brewster,To Get a Card,0.5,3.8,0.2632,0.0325,0,0.0,0
+2026-11-03,Derby vs Norwich,Carlton Morris,Player's shots on target,0.5,1.4,0.7143,0.4722,1,1.0,1
+2026-11-03,Derby vs Norwich,Carlton Morris,Player's shots on target,1.5,2.65,0.3774,0.1349,1,1.0,0
 2026-11-03,Derby vs Norwich,Jovon Makama,To give an assist,0.5,5.0,0.2,0.0076,0,0.0,0
-2026-11-03,Derby vs Norwich,Sammie Szmodics,To Get a Card,0.5,2.95,0.339,0.1549,1,0.0,0
+2026-11-03,Derby vs Norwich,Sammie Szmodics,To Get a Card,0.5,2.95,0.339,0.1635,1,0.0,0
 2026-11-03,Derby vs Norwich,Mohammed Fuseini,To Get a Card,0.5,4.2,0.2381,0.0346,0,0.0,0
-2026-11-03,Derby vs Norwich,Alex Mowatt,To Get a Card,0.5,3.1,0.3226,0.1882,1,0.0,0
-2026-11-03,Derby vs Norwich,Carlton Morris,To Get a Card,0.5,3.5,0.2857,0.1645,1,0.0,0
+2026-11-03,Derby vs Norwich,Alex Mowatt,To Get a Card,0.5,3.1,0.3226,0.1858,1,0.0,0
+2026-11-03,Derby vs Norwich,Carlton Morris,To Get a Card,0.5,3.5,0.2857,0.1648,1,0.0,0
 2026-11-03,Derby vs Norwich,Jovon Makama,To Get a Card,0.5,4.0,0.25,0.0391,0,0.0,0
-2026-11-03,Derby vs Norwich,Bobby Clark,To Get a Card,0.5,3.4,0.2941,0.1666,1,0.0,0
-2026-11-03,Derby vs Norwich,Sam Field,To give an assist,0.5,6.0,0.1667,0.0629,1,0.0,0
-2026-11-03,Derby vs Norwich,Harry Darling,To give an assist,0.5,7.0,0.1429,0.0262,1,0.0,0
-2026-11-03,Derby vs Norwich,Carlton Morris,To give an assist,0.5,5.3,0.1887,0.0779,1,0.0,0
-2026-11-03,Derby vs Norwich,Harry Darling,To Score,0.5,7.0,0.1429,0.0481,1,0.0,0
-2026-11-03,Derby vs Norwich,Anthony Musaba,To give an assist,0.5,5.0,0.2,0.1706,1,0.0,0
-2026-11-03,Derby vs Norwich,Jovon Makama,Player's shots on target,0.5,1.35,0.7407,0.1615,0,1.0,1
-2026-11-03,Derby vs Norwich,Oscar Fraulo,To Get a Card,0.5,3.3,0.303,0.191,1,0.0,0
-2026-11-03,Derby vs Norwich,Filip Bilbija,Player's shots on target,0.5,1.55,0.6452,0.1903,0,0.0,0
-2026-11-03,Derby vs Norwich,Ruairi McConville,To Get a Card,0.5,3.8,0.2632,0.1036,1,0.0,0
-2026-11-03,Derby vs Norwich,Andre Brooks,To score at least 2 goals,1.5,16.0,0.0625,0.0128,1,0.0,0
-2026-11-03,Derby vs Norwich,Mohammed Fuseini,To Score,0.5,4.7,0.2128,0.0371,0,0.0,0
-2026-11-03,Derby vs Norwich,Sammie Szmodics,To give an assist,0.5,6.0,0.1667,0.0663,1,0.0,0
+2026-11-03,Derby vs Norwich,Bobby Clark,To Get a Card,0.5,3.4,0.2941,0.1658,1,0.0,0
+2026-11-03,Derby vs Norwich,Sam Field,To give an assist,0.5,6.0,0.1667,0.0607,1,0.0,0
+2026-11-03,Derby vs Norwich,Harry Darling,To give an assist,0.5,7.0,0.1429,0.0254,1,0.0,0
+2026-11-03,Derby vs Norwich,Carlton Morris,To give an assist,0.5,5.3,0.1887,0.0749,1,0.0,0
+2026-11-03,Derby vs Norwich,Harry Darling,To Score,0.5,7.0,0.1429,0.0468,1,0.0,0
+2026-11-03,Derby vs Norwich,Anthony Musaba,To give an assist,0.5,5.0,0.2,0.1835,1,0.0,0
+2026-11-03,Derby vs Norwich,Jovon Makama,Player's shots on target,0.5,1.35,0.7407,0.1616,0,1.0,1
+2026-11-03,Derby vs Norwich,Oscar Fraulo,To Get a Card,0.5,3.3,0.303,0.1912,1,0.0,0
+2026-11-03,Derby vs Norwich,Filip Bilbija,Player's shots on target,0.5,1.55,0.6452,0.2014,0,0.0,0
+2026-11-03,Derby vs Norwich,Ruairi McConville,To Get a Card,0.5,3.8,0.2632,0.1035,1,0.0,0
+2026-11-03,Derby vs Norwich,Andre Brooks,To score at least 2 goals,1.5,16.0,0.0625,0.0122,1,0.0,0
+2026-11-03,Derby vs Norwich,Mohammed Fuseini,To Score,0.5,4.7,0.2128,0.0372,0,0.0,0
+2026-11-03,Derby vs Norwich,Sammie Szmodics,To give an assist,0.5,6.0,0.1667,0.0742,1,0.0,0
 2026-11-03,Derby vs Norwich,Mohammed Fuseini,To score at least 2 goals,1.5,34.0,0.0294,0.0007,0,0.0,0
-2026-11-03,Derby vs Norwich,Jack Robinson,To Get a Card,0.5,3.3,0.303,0.0498,0,0.0,0
-2026-11-03,Derby vs Norwich,Oscar Fraulo,To give an assist,0.5,6.0,0.1667,0.0849,1,0.0,0
-2026-11-03,Derby vs Norwich,Filip Bilbija,Player's shots on target,1.5,3.3,0.303,0.0194,0,0.0,0
+2026-11-03,Derby vs Norwich,Jack Robinson,To Get a Card,0.5,3.3,0.303,0.0516,0,0.0,0
+2026-11-03,Derby vs Norwich,Oscar Fraulo,To give an assist,0.5,6.0,0.1667,0.0852,1,0.0,0
+2026-11-03,Derby vs Norwich,Filip Bilbija,Player's shots on target,1.5,3.3,0.303,0.0218,0,0.0,0
 2026-11-03,Derby vs Norwich,Oscar Schwartau,To score at least 2 goals,1.5,20.0,0.05,0.0005,0,0.0,0
-2026-11-03,Derby vs Norwich,Bobby Clark,Player's shots on target,0.5,2.4,0.4167,0.3307,1,0.0,0
-2026-11-03,Derby vs Norwich,Harry Darling,Player's shots on target,0.5,3.1,0.3226,0.1823,1,0.0,0
-2026-11-03,Derby vs Norwich,Andre Brooks,To Score,0.5,3.4,0.2941,0.1558,1,0.0,0
-2026-11-03,Derby vs Norwich,Ante Crnac,To give an assist,0.5,4.8,0.2083,0.0206,0,0.0,0
+2026-11-03,Derby vs Norwich,Bobby Clark,Player's shots on target,0.5,2.4,0.4167,0.3288,1,0.0,0
+2026-11-03,Derby vs Norwich,Harry Darling,Player's shots on target,0.5,3.1,0.3226,0.1828,1,0.0,0
+2026-11-03,Derby vs Norwich,Andre Brooks,To Score,0.5,3.4,0.2941,0.152,1,0.0,0
+2026-11-03,Derby vs Norwich,Ante Crnac,To give an assist,0.5,4.8,0.2083,0.0204,0,0.0,0
 2026-11-03,Derby vs Norwich,Mohammed Fuseini,To give an assist,0.5,6.5,0.1538,0.027,0,0.0,0
-2026-11-03,Derby vs Norwich,Ante Crnac,To Get a Card,0.5,5.5,0.1818,0.0453,0,0.0,0
-2026-11-03,Derby vs Norwich,Harry Darling,To score at least 2 goals,1.5,61.0,0.0164,0.0012,1,0.0,0
+2026-11-03,Derby vs Norwich,Ante Crnac,To Get a Card,0.5,5.5,0.1818,0.0449,0,0.0,0
+2026-11-03,Derby vs Norwich,Harry Darling,To score at least 2 goals,1.5,61.0,0.0164,0.0011,1,0.0,0
 2026-11-03,Derby vs Norwich,Lucien Mahovo,To Get a Card,0.5,3.4,0.2941,0.0191,0,0.0,0
-2026-11-03,Derby vs Norwich,Mathias Kvistgaarden,To give an assist,0.5,3.3,0.303,0.1671,1,0.0,0
-2026-11-03,Derby vs Norwich,Jacob Wright,Player's shots on target,0.5,2.35,0.4255,0.3509,1,1.0,1
-2026-11-03,Derby vs Norwich,Rhian Brewster,To Score,0.5,4.2,0.2381,0.0499,0,0.0,0
-2026-11-03,Derby vs Norwich,Bobby Clark,To Score,0.5,5.5,0.1818,0.1278,1,0.0,0
-2026-11-03,Derby vs Norwich,Ryan Nyambe,To Score,0.5,12.5,0.08,0.017,1,0.0,0
-2026-11-03,Derby vs Norwich,Jack Stacey,To Score,0.5,9.5,0.1053,0.0731,1,0.0,0
-2026-11-03,Derby vs Norwich,Sammie Szmodics,To Score,0.5,4.7,0.2128,0.1693,1,0.0,0
-2026-11-03,Derby vs Norwich,Jack Stacey,Player's shots on target,0.5,4.2,0.2381,0.1411,1,0.0,0
-2026-11-03,Derby vs Norwich,Darlin Yongwa,To Score,0.5,9.5,0.1053,0.0182,1,1.0,1
-2026-11-03,Derby vs Norwich,Carlton Morris,To score at least 2 goals,1.5,12.0,0.0833,0.0267,1,0.0,0
-2026-11-03,Derby vs Norwich,Sammie Szmodics,Player's shots on target,0.5,2.1,0.4762,0.48,1,0.0,0
-2026-11-03,Derby vs Norwich,Filip Bilbija,To give an assist,0.5,6.5,0.1538,0.0192,0,0.0,0
+2026-11-03,Derby vs Norwich,Mathias Kvistgaarden,To give an assist,0.5,3.3,0.303,0.1672,1,0.0,0
+2026-11-03,Derby vs Norwich,Jacob Wright,Player's shots on target,0.5,2.35,0.4255,0.3504,1,1.0,1
+2026-11-03,Derby vs Norwich,Rhian Brewster,To Score,0.5,4.2,0.2381,0.0497,0,0.0,0
+2026-11-03,Derby vs Norwich,Bobby Clark,To Score,0.5,5.5,0.1818,0.1271,1,0.0,0
+2026-11-03,Derby vs Norwich,Ryan Nyambe,To Score,0.5,12.5,0.08,0.0167,1,0.0,0
+2026-11-03,Derby vs Norwich,Jack Stacey,To Score,0.5,9.5,0.1053,0.0704,1,0.0,0
+2026-11-03,Derby vs Norwich,Sammie Szmodics,To Score,0.5,4.7,0.2128,0.2007,1,0.0,0
+2026-11-03,Derby vs Norwich,Jack Stacey,Player's shots on target,0.5,4.2,0.2381,0.141,1,0.0,0
+2026-11-03,Derby vs Norwich,Darlin Yongwa,To Score,0.5,9.5,0.1053,0.017,1,1.0,1
+2026-11-03,Derby vs Norwich,Carlton Morris,To score at least 2 goals,1.5,12.0,0.0833,0.0269,1,0.0,0
+2026-11-03,Derby vs Norwich,Sammie Szmodics,Player's shots on target,0.5,2.1,0.4762,0.5053,1,0.0,0
+2026-11-03,Derby vs Norwich,Filip Bilbija,To give an assist,0.5,6.5,0.1538,0.0269,0,0.0,0
 2026-11-03,Derby vs Norwich,Ante Crnac,To score at least 2 goals,1.5,20.0,0.05,0.0007,0,0.0,0
-2026-11-03,Derby vs Norwich,Ante Crnac,Player's shots on target,0.5,1.75,0.5714,0.103,0,0.0,0
-2026-11-03,Derby vs Norwich,Ante Crnac,To Score,0.5,3.7,0.2703,0.0377,0,0.0,0
+2026-11-03,Derby vs Norwich,Ante Crnac,Player's shots on target,0.5,1.75,0.5714,0.1042,0,0.0,0
+2026-11-03,Derby vs Norwich,Ante Crnac,To Score,0.5,3.7,0.2703,0.0374,0,0.0,0
 2026-11-03,Derby vs Norwich,José Córdoba,To Score,0.5,10.0,0.1,0.0159,0,0.0,0
-2026-11-03,Derby vs Norwich,Carlton Morris,To Score,0.5,2.8,0.3571,0.2219,1,0.0,0
-2026-11-03,Derby vs Norwich,Ryan Nyambe,To Get a Card,0.5,4.9,0.2041,0.1544,1,1.0,1
+2026-11-03,Derby vs Norwich,Carlton Morris,To Score,0.5,2.8,0.3571,0.2226,1,0.0,0
+2026-11-03,Derby vs Norwich,Ryan Nyambe,To Get a Card,0.5,4.9,0.2041,0.1515,1,1.0,1
 2026-11-03,Derby vs Norwich,Lucien Mahovo,To score at least 2 goals,1.5,56.0,0.0179,0.0003,0,0.0,0
-2026-11-03,Derby vs Norwich,Sammie Szmodics,To score at least 2 goals,1.5,34.0,0.0294,0.0152,1,0.0,0
-2026-11-03,Derby vs Norwich,Lucien Mahovo,Player's shots on target,0.5,3.0,0.3333,0.0825,0,0.0,0
-2026-11-03,Derby vs Norwich,Rhian Brewster,Player's shots on target,0.5,1.87,0.5348,0.0904,0,0.0,0
-2026-11-03,Derby vs Norwich,Oscar Schwartau,Player's shots on target,0.5,1.78,0.5618,0.1044,0,0.0,0
-2026-11-03,Derby vs Norwich,Andre Brooks,Player's shots on target,0.5,1.68,0.5952,0.4193,1,0.0,0
-2026-11-03,Derby vs Norwich,Mohammed Fuseini,Player's shots on target,0.5,2.1,0.4762,0.1479,0,1.0,1
-2026-11-03,Derby vs Norwich,Anthony Musaba,To Score,0.5,4.4,0.2273,0.1538,1,1.0,1
-2026-11-03,Derby vs Norwich,Rhian Brewster,To give an assist,0.5,5.6,0.1786,0.0257,0,0.0,0
-2026-11-03,Derby vs Norwich,Andre Brooks,To give an assist,0.5,3.6,0.2778,0.0876,1,0.0,0
-2026-11-03,Derby vs Norwich,Anthony Musaba,Player's shots on target,0.5,2.05,0.4878,0.4661,1,2.0,1
+2026-11-03,Derby vs Norwich,Sammie Szmodics,To score at least 2 goals,1.5,34.0,0.0294,0.0216,1,0.0,0
+2026-11-03,Derby vs Norwich,Lucien Mahovo,Player's shots on target,0.5,3.0,0.3333,0.0826,0,0.0,0
+2026-11-03,Derby vs Norwich,Rhian Brewster,Player's shots on target,0.5,1.87,0.5348,0.0899,0,0.0,0
+2026-11-03,Derby vs Norwich,Oscar Schwartau,Player's shots on target,0.5,1.78,0.5618,0.1045,0,0.0,0
+2026-11-03,Derby vs Norwich,Andre Brooks,Player's shots on target,0.5,1.68,0.5952,0.4146,1,0.0,0
+2026-11-03,Derby vs Norwich,Mohammed Fuseini,Player's shots on target,0.5,2.1,0.4762,0.148,0,1.0,1
+2026-11-03,Derby vs Norwich,Anthony Musaba,To Score,0.5,4.4,0.2273,0.1584,1,1.0,1
+2026-11-03,Derby vs Norwich,Rhian Brewster,To give an assist,0.5,5.6,0.1786,0.0256,0,0.0,0
+2026-11-03,Derby vs Norwich,Andre Brooks,To give an assist,0.5,3.6,0.2778,0.0886,1,0.0,0
+2026-11-03,Derby vs Norwich,Anthony Musaba,Player's shots on target,0.5,2.05,0.4878,0.4636,1,2.0,1
 2026-11-03,Derby vs Norwich,Kellen Fisher,To Score,0.5,9.5,0.1053,0.0105,0,0.0,0
-2026-11-03,Derby vs Norwich,Jovon Makama,To Score,0.5,2.6,0.3846,0.0795,0,1.0,1
+2026-11-03,Derby vs Norwich,Jovon Makama,To Score,0.5,2.6,0.3846,0.0796,0,1.0,1
 2026-11-03,Derby vs Norwich,Max Johnston,To Score,0.5,11.5,0.087,0.0195,1,0.0,0
-2026-11-03,Derby vs Norwich,Jovon Makama,To score at least 2 goals,1.5,9.5,0.1053,0.0032,0,1.0,0
-2026-11-03,Derby vs Norwich,Max Johnston,To Get a Card,0.5,3.4,0.2941,0.1439,1,0.0,0
-2026-11-03,Derby vs Norwich,Dion Sanderson,To Get a Card,0.5,3.9,0.2564,0.1882,1,0.0,0
-2026-11-03,Derby vs Norwich,Benjamin Chrisene,To Get a Card,0.5,4.2,0.2381,0.0355,0,0.0,0
-2026-11-03,Derby vs Norwich,Jack Robinson,To Score,0.5,12.5,0.08,0.0168,0,0.0,0
-2026-11-03,Derby vs Norwich,Darlin Yongwa,To Get a Card,0.5,3.6,0.2778,0.2144,1,0.0,0
-2026-11-03,Derby vs Norwich,Lucien Mahovo,To Score,0.5,6.75,0.1481,0.0229,0,0.0,0
-2026-11-03,Derby vs Norwich,Mathias Kvistgaarden,To score at least 2 goals,1.5,12.0,0.0833,0.0286,1,0.0,0
-2026-11-03,Derby vs Norwich,Jacob Wright,To give an assist,0.5,4.4,0.2273,0.142,1,0.0,0
-2026-11-03,Derby vs Norwich,Ruairi McConville,To Score,0.5,9.5,0.1053,0.0339,1,0.0,0
+2026-11-03,Derby vs Norwich,Jovon Makama,To score at least 2 goals,1.5,9.5,0.1053,0.0033,0,1.0,0
+2026-11-03,Derby vs Norwich,Max Johnston,To Get a Card,0.5,3.4,0.2941,0.1437,1,0.0,0
+2026-11-03,Derby vs Norwich,Dion Sanderson,To Get a Card,0.5,3.9,0.2564,0.1825,1,0.0,0
+2026-11-03,Derby vs Norwich,Benjamin Chrisene,To Get a Card,0.5,4.2,0.2381,0.0345,0,0.0,0
+2026-11-03,Derby vs Norwich,Jack Robinson,To Score,0.5,12.5,0.08,0.0163,0,0.0,0
+2026-11-03,Derby vs Norwich,Darlin Yongwa,To Get a Card,0.5,3.6,0.2778,0.2151,1,0.0,0
+2026-11-03,Derby vs Norwich,Lucien Mahovo,To Score,0.5,6.75,0.1481,0.023,0,0.0,0
+2026-11-03,Derby vs Norwich,Mathias Kvistgaarden,To score at least 2 goals,1.5,12.0,0.0833,0.0287,1,0.0,0
+2026-11-03,Derby vs Norwich,Jacob Wright,To give an assist,0.5,4.4,0.2273,0.1422,1,0.0,0
+2026-11-03,Derby vs Norwich,Ruairi McConville,To Score,0.5,9.5,0.1053,0.0338,1,0.0,0
 2026-11-03,Derby vs Norwich,Rhian Brewster,To score at least 2 goals,1.5,25.0,0.04,0.0013,0,0.0,0
-2026-11-03,Derby vs Norwich,Mathias Kvistgaarden,To Score,0.5,2.9,0.3448,0.2295,1,0.0,0
-2026-11-03,Portsmouth vs Swansea,Marko Stamenic,To Score,0.5,9.0,0.1111,0.0782,1,0.0,0
+2026-11-03,Derby vs Norwich,Mathias Kvistgaarden,To Score,0.5,2.9,0.3448,0.2298,1,0.0,0
+2026-11-03,Portsmouth vs Swansea,Marko Stamenic,To Score,0.5,9.0,0.1111,0.0781,1,0.0,0
 2026-11-03,Portsmouth vs Swansea,Jayden Meghoma,To Score,0.5,12.0,0.0833,0.0156,1,0.0,0
-2026-11-03,Portsmouth vs Swansea,Gonçalo Franco,To Score,0.5,10.0,0.1,0.0669,1,0.0,0
+2026-11-03,Portsmouth vs Swansea,Gonçalo Franco,To Score,0.5,10.0,0.1,0.0662,1,0.0,0
 2026-11-03,Portsmouth vs Swansea,Abu Kamara,To Score,0.5,4.7,0.2128,0.0252,0,0.0,0
 2026-11-03,Portsmouth vs Swansea,Jeremy Monga,Player's shots on target,0.5,1.92,0.5208,0.072,0,0.0,0
-2026-11-03,Portsmouth vs Swansea,Zan Vipotnik,Player's shots on target,0.5,1.41,0.7092,0.189,0,1.0,1
-2026-11-03,Portsmouth vs Swansea,Ryan Kavuma-McQueen,Player's shots on target,0.5,1.85,0.5405,0.1462,0,0.0,0
-2026-11-03,Portsmouth vs Swansea,Conor Shaughnessy,To Score,0.5,11.5,0.087,0.0395,0,0.0,0
-2026-11-03,Portsmouth vs Swansea,Zan Vipotnik,To Score,0.5,2.7,0.3704,0.0969,0,1.0,1
-2026-11-03,Portsmouth vs Swansea,Thomas Waddingham,Player's shots on target,0.5,2.0,0.5,0.1141,0,1.0,1
-2026-11-03,Portsmouth vs Swansea,Abu Kamara,Player's shots on target,0.5,2.05,0.4878,0.0947,0,0.0,0
-2026-11-03,Portsmouth vs Swansea,Terry Devlin,To Score,0.5,10.0,0.1,0.107,1,2.0,1
-2026-11-03,Portsmouth vs Swansea,Iyad Mohamed,To Score,0.5,9.0,0.1111,0.0544,1,0.0,0
-2026-11-03,Portsmouth vs Swansea,Odin Bailey,Player's shots on target,0.5,2.8,0.3571,0.2665,1,0.0,0
-2026-11-03,Portsmouth vs Swansea,Terry Devlin,Player's shots on target,0.5,4.0,0.25,0.213,1,2.0,1
+2026-11-03,Portsmouth vs Swansea,Zan Vipotnik,Player's shots on target,0.5,1.41,0.7092,0.1893,0,1.0,1
+2026-11-03,Portsmouth vs Swansea,Ryan Kavuma-McQueen,Player's shots on target,0.5,1.85,0.5405,0.1463,0,0.0,0
+2026-11-03,Portsmouth vs Swansea,Conor Shaughnessy,To Score,0.5,11.5,0.087,0.0384,0,0.0,0
+2026-11-03,Portsmouth vs Swansea,Zan Vipotnik,To Score,0.5,2.7,0.3704,0.0974,0,1.0,1
+2026-11-03,Portsmouth vs Swansea,Thomas Waddingham,Player's shots on target,0.5,2.0,0.5,0.1142,0,1.0,1
+2026-11-03,Portsmouth vs Swansea,Abu Kamara,Player's shots on target,0.5,2.05,0.4878,0.0945,0,0.0,0
+2026-11-03,Portsmouth vs Swansea,Terry Devlin,To Score,0.5,10.0,0.1,0.1067,1,2.0,1
+2026-11-03,Portsmouth vs Swansea,Iyad Mohamed,To Score,0.5,9.0,0.1111,0.0542,1,0.0,0
+2026-11-03,Portsmouth vs Swansea,Odin Bailey,Player's shots on target,0.5,2.8,0.3571,0.2652,1,0.0,0
+2026-11-03,Portsmouth vs Swansea,Terry Devlin,Player's shots on target,0.5,4.0,0.25,0.2124,1,2.0,1
 2026-11-03,Portsmouth vs Swansea,Ryan Kavuma-McQueen,To Get a Card,0.5,4.5,0.2222,0.0405,0,0.0,0
-2026-11-03,Portsmouth vs Swansea,Jayden Meghoma,To Get a Card,0.5,4.9,0.2041,0.1685,1,0.0,0
-2026-11-03,Portsmouth vs Swansea,Marko Milovanovic,To Get a Card,0.5,4.0,0.25,0.1796,1,0.0,0
-2026-11-03,Portsmouth vs Swansea,Melker Widell,To Get a Card,0.5,3.2,0.3125,0.1621,1,0.0,0
-2026-11-03,Portsmouth vs Swansea,Tyrese Shade,To Get a Card,0.5,4.3,0.2326,0.1088,1,0.0,0
-2026-11-03,Portsmouth vs Swansea,Marko Stamenic,To Get a Card,0.5,2.8,0.3571,0.2318,1,0.0,0
-2026-11-03,Portsmouth vs Swansea,Jenson Seelt,To Get a Card,0.5,3.1,0.3226,0.0929,1,0.0,0
-2026-11-03,Portsmouth vs Swansea,Tom Iorpenda,To give an assist,0.5,4.7,0.2128,0.0167,0,0.0,0
-2026-11-03,Portsmouth vs Swansea,Abu Kamara,To give an assist,0.5,4.8,0.2083,0.0172,0,0.0,0
-2026-11-03,Portsmouth vs Swansea,Tyrese Shade,To Score,0.5,4.4,0.2273,0.0739,1,0.0,0
+2026-11-03,Portsmouth vs Swansea,Jayden Meghoma,To Get a Card,0.5,4.9,0.2041,0.1679,1,0.0,0
+2026-11-03,Portsmouth vs Swansea,Marko Milovanovic,To Get a Card,0.5,4.0,0.25,0.1777,1,0.0,0
+2026-11-03,Portsmouth vs Swansea,Melker Widell,To Get a Card,0.5,3.2,0.3125,0.1622,1,0.0,0
+2026-11-03,Portsmouth vs Swansea,Tyrese Shade,To Get a Card,0.5,4.3,0.2326,0.1091,1,0.0,0
+2026-11-03,Portsmouth vs Swansea,Marko Stamenic,To Get a Card,0.5,2.8,0.3571,0.2319,1,0.0,0
+2026-11-03,Portsmouth vs Swansea,Jenson Seelt,To Get a Card,0.5,3.1,0.3226,0.0928,1,0.0,0
+2026-11-03,Portsmouth vs Swansea,Tom Iorpenda,To give an assist,0.5,4.7,0.2128,0.0155,0,0.0,0
+2026-11-03,Portsmouth vs Swansea,Abu Kamara,To give an assist,0.5,4.8,0.2083,0.0171,0,0.0,0
+2026-11-03,Portsmouth vs Swansea,Tyrese Shade,To Score,0.5,4.4,0.2273,0.0737,1,0.0,0
 2026-11-03,Portsmouth vs Swansea,Zan Vipotnik,To score at least 2 goals,1.5,10.5,0.0952,0.0049,0,1.0,0
 2026-11-03,Portsmouth vs Swansea,Rocco Robert Shein,To Get a Card,0.5,3.7,0.2703,0.0309,0,0.0,0
-2026-11-03,Portsmouth vs Swansea,Odin Bailey,To give an assist,0.5,7.0,0.1429,0.0779,1,1.0,1
-2026-11-03,Portsmouth vs Swansea,Josh Tymon,To Get a Card,0.5,2.65,0.3774,0.1505,1,0.0,0
-2026-11-03,Portsmouth vs Swansea,Rocco Robert Shein,Player's shots on target,0.5,3.2,0.3125,0.0799,0,0.0,0
-2026-11-03,Portsmouth vs Swansea,Jenson Seelt,Player's shots on target,0.5,4.3,0.2326,0.1035,1,0.0,0
-2026-11-03,Portsmouth vs Swansea,Zan Vipotnik,Player's shots on target,1.5,2.7,0.3704,0.0191,0,1.0,0
+2026-11-03,Portsmouth vs Swansea,Odin Bailey,To give an assist,0.5,7.0,0.1429,0.0785,1,1.0,1
+2026-11-03,Portsmouth vs Swansea,Josh Tymon,To Get a Card,0.5,2.65,0.3774,0.1493,1,0.0,0
+2026-11-03,Portsmouth vs Swansea,Rocco Robert Shein,Player's shots on target,0.5,3.2,0.3125,0.08,0,0.0,0
+2026-11-03,Portsmouth vs Swansea,Jenson Seelt,Player's shots on target,0.5,4.3,0.2326,0.1032,1,0.0,0
+2026-11-03,Portsmouth vs Swansea,Zan Vipotnik,Player's shots on target,1.5,2.7,0.3704,0.0192,0,1.0,0
 2026-11-03,Portsmouth vs Swansea,Zan Vipotnik,To score at least 3 goals,2.5,51.0,0.0196,0.0002,0,1.0,0
 2026-11-03,Portsmouth vs Swansea,Josh Murphy,To Get a Card,0.5,3.9,0.2564,0.0386,0,0.0,0
-2026-11-03,Portsmouth vs Swansea,Jay Fulton,To Get a Card,0.5,3.1,0.3226,0.2096,1,0.0,0
-2026-11-03,Portsmouth vs Swansea,Melker Widell,Player's shots on target,0.5,2.9,0.3448,0.3661,1,0.0,0
+2026-11-03,Portsmouth vs Swansea,Jay Fulton,To Get a Card,0.5,3.1,0.3226,0.208,1,0.0,0
+2026-11-03,Portsmouth vs Swansea,Melker Widell,Player's shots on target,0.5,2.9,0.3448,0.3656,1,0.0,0
 2026-11-03,Portsmouth vs Swansea,Thomas Waddingham,To Get a Card,0.5,4.8,0.2083,0.0478,0,0.0,0
 2026-11-03,Portsmouth vs Swansea,Elijah Just,To Get a Card,0.5,4.9,0.2041,0.05,0,0.0,0
-2026-11-03,Portsmouth vs Swansea,Gonçalo Franco,To Get a Card,0.5,3.1,0.3226,0.1492,1,0.0,0
+2026-11-03,Portsmouth vs Swansea,Gonçalo Franco,To Get a Card,0.5,3.1,0.3226,0.1505,1,0.0,0
 2026-11-03,Portsmouth vs Swansea,Zan Vipotnik,To give an assist,0.5,3.7,0.2703,0.0191,0,0.0,0
-2026-11-03,Portsmouth vs Swansea,Zak Swanson,To Get a Card,0.5,3.6,0.2778,0.0373,0,0.0,0
-2026-11-03,Portsmouth vs Swansea,Tom Iorpenda,Player's shots on target,0.5,2.65,0.3774,0.1034,0,0.0,0
-2026-11-03,Portsmouth vs Swansea,Adrian Segecic,To give an assist,0.5,5.3,0.1887,0.1171,1,0.0,0
-2026-11-03,Portsmouth vs Swansea,Rocco Robert Shein,To give an assist,0.5,6.75,0.1481,0.0112,0,0.0,0
-2026-11-03,Portsmouth vs Swansea,Adam Idah,To Get a Card,0.5,3.7,0.2703,0.0754,1,0.0,0
+2026-11-03,Portsmouth vs Swansea,Zak Swanson,To Get a Card,0.5,3.6,0.2778,0.0371,0,0.0,0
+2026-11-03,Portsmouth vs Swansea,Tom Iorpenda,Player's shots on target,0.5,2.65,0.3774,0.0958,0,0.0,0
+2026-11-03,Portsmouth vs Swansea,Adrian Segecic,To give an assist,0.5,5.3,0.1887,0.1173,1,0.0,0
+2026-11-03,Portsmouth vs Swansea,Rocco Robert Shein,To give an assist,0.5,6.75,0.1481,0.0113,0,0.0,0
+2026-11-03,Portsmouth vs Swansea,Adam Idah,To Get a Card,0.5,3.7,0.2703,0.0751,1,0.0,0
 2026-11-03,Portsmouth vs Swansea,Ryan Kavuma-McQueen,To give an assist,0.5,4.9,0.2041,0.031,0,0.0,0
-2026-11-03,Portsmouth vs Swansea,Joseph Opoku,To Get a Card,0.5,3.0,0.3333,0.0989,1,0.0,0
-2026-11-03,Portsmouth vs Swansea,Zan Vipotnik,To Get a Card,0.5,3.9,0.2564,0.0166,0,0.0,0
-2026-11-03,Portsmouth vs Swansea,Adrian Segecic,To Score,0.5,4.0,0.25,0.2201,1,0.0,0
+2026-11-03,Portsmouth vs Swansea,Joseph Opoku,To Get a Card,0.5,3.0,0.3333,0.099,1,0.0,0
+2026-11-03,Portsmouth vs Swansea,Zan Vipotnik,To Get a Card,0.5,3.9,0.2564,0.0165,0,0.0,0
+2026-11-03,Portsmouth vs Swansea,Adrian Segecic,To Score,0.5,4.0,0.25,0.22,1,0.0,0
 2026-11-03,Portsmouth vs Swansea,Elijah Just,Player's shots on target,0.5,2.05,0.4878,0.1057,0,0.0,0
-2026-11-03,Portsmouth vs Swansea,Melker Widell,To give an assist,0.5,7.0,0.1429,0.101,1,0.0,0
-2026-11-03,Portsmouth vs Swansea,Marko Milovanovic,To give an assist,0.5,5.8,0.1724,0.0742,1,0.0,0
+2026-11-03,Portsmouth vs Swansea,Melker Widell,To give an assist,0.5,7.0,0.1429,0.1013,1,0.0,0
+2026-11-03,Portsmouth vs Swansea,Marko Milovanovic,To give an assist,0.5,5.8,0.1724,0.0734,1,0.0,0
 2026-11-03,Portsmouth vs Swansea,Jeremy Monga,To give an assist,0.5,5.0,0.2,0.022,0,0.0,0
-2026-11-03,Portsmouth vs Swansea,Josh Murphy,Player's shots on target,0.5,1.85,0.5405,0.1573,0,0.0,0
-2026-11-03,Portsmouth vs Swansea,Stephen Welsh,To Get a Card,0.5,3.4,0.2941,0.1149,1,0.0,0
-2026-11-03,Portsmouth vs Swansea,Adam Idah,To give an assist,0.5,4.6,0.2174,0.0997,1,0.0,0
-2026-11-03,Portsmouth vs Swansea,Josh Murphy,To Score,0.5,4.0,0.25,0.029,0,0.0,0
+2026-11-03,Portsmouth vs Swansea,Josh Murphy,Player's shots on target,0.5,1.85,0.5405,0.1574,0,0.0,0
+2026-11-03,Portsmouth vs Swansea,Stephen Welsh,To Get a Card,0.5,3.4,0.2941,0.1147,1,0.0,0
+2026-11-03,Portsmouth vs Swansea,Adam Idah,To give an assist,0.5,4.6,0.2174,0.0994,1,0.0,0
+2026-11-03,Portsmouth vs Swansea,Josh Murphy,To Score,0.5,4.0,0.25,0.0291,0,0.0,0
 2026-11-03,Portsmouth vs Swansea,Jeremy Monga,To Get a Card,0.5,3.7,0.2703,0.0293,0,0.0,0
-2026-11-03,Portsmouth vs Swansea,Odin Bailey,To Get a Card,0.5,3.9,0.2564,0.1251,1,0.0,0
+2026-11-03,Portsmouth vs Swansea,Odin Bailey,To Get a Card,0.5,3.9,0.2564,0.1254,1,0.0,0
 2026-11-03,Portsmouth vs Swansea,Abu Kamara,To Get a Card,0.5,5.0,0.2,0.0169,0,0.0,0
-2026-11-03,Portsmouth vs Swansea,Conor Shaughnessy,To Get a Card,0.5,5.3,0.1887,0.0178,0,0.0,0
+2026-11-03,Portsmouth vs Swansea,Conor Shaughnessy,To Get a Card,0.5,5.3,0.1887,0.0212,0,0.0,0
 2026-11-03,Portsmouth vs Swansea,Josh Murphy,To give an assist,0.5,3.9,0.2564,0.0781,0,0.0,0
 2026-11-03,Portsmouth vs Swansea,Josh Murphy,To score at least 2 goals,1.5,20.0,0.05,0.0004,0,0.0,0
 2026-11-03,Portsmouth vs Swansea,Adrian Segecic,To score at least 2 goals,1.5,21.0,0.0476,0.0262,1,0.0,0
-2026-11-03,Portsmouth vs Swansea,Ryan Kavuma-McQueen,To Score,0.5,4.1,0.2439,0.0318,0,0.0,0
-2026-11-03,Portsmouth vs Swansea,Adam Idah,Player's shots on target,0.5,1.75,0.5714,0.5462,1,0.0,0
-2026-11-03,Portsmouth vs Swansea,Marko Milovanovic,Player's shots on target,0.5,1.43,0.6993,0.503,1,0.0,0
-2026-11-03,Portsmouth vs Swansea,Odin Bailey,To Score,0.5,7.0,0.1429,0.0853,1,0.0,0
-2026-11-03,Portsmouth vs Swansea,Rocco Robert Shein,To Score,0.5,7.0,0.1429,0.0249,0,0.0,0
-2026-11-03,Portsmouth vs Swansea,Terry Devlin,To Get a Card,0.5,3.7,0.2703,0.1493,1,0.0,0
-2026-11-03,Portsmouth vs Swansea,Tyrese Shade,Player's shots on target,0.5,2.0,0.5,0.3121,1,1.0,1
+2026-11-03,Portsmouth vs Swansea,Ryan Kavuma-McQueen,To Score,0.5,4.1,0.2439,0.0319,0,0.0,0
+2026-11-03,Portsmouth vs Swansea,Adam Idah,Player's shots on target,0.5,1.75,0.5714,0.5449,1,0.0,0
+2026-11-03,Portsmouth vs Swansea,Marko Milovanovic,Player's shots on target,0.5,1.43,0.6993,0.4991,1,0.0,0
+2026-11-03,Portsmouth vs Swansea,Odin Bailey,To Score,0.5,7.0,0.1429,0.085,1,0.0,0
+2026-11-03,Portsmouth vs Swansea,Rocco Robert Shein,To Score,0.5,7.0,0.1429,0.025,0,0.0,0
+2026-11-03,Portsmouth vs Swansea,Terry Devlin,To Get a Card,0.5,3.7,0.2703,0.1489,1,0.0,0
+2026-11-03,Portsmouth vs Swansea,Tyrese Shade,Player's shots on target,0.5,2.0,0.5,0.311,1,1.0,1
 2026-11-03,Portsmouth vs Swansea,Abu Kamara,To score at least 2 goals,1.5,31.0,0.0323,0.0003,0,0.0,0
-2026-11-03,Portsmouth vs Swansea,Jeremy Monga,To Score,0.5,4.0,0.25,0.0251,0,0.0,0
-2026-11-03,Portsmouth vs Swansea,Jay Fulton,To Score,0.5,11.5,0.087,0.0541,1,0.0,0
-2026-11-03,Portsmouth vs Swansea,Zak Swanson,To Score,0.5,12.5,0.08,0.0286,0,0.0,0
+2026-11-03,Portsmouth vs Swansea,Jeremy Monga,To Score,0.5,4.0,0.25,0.0253,0,0.0,0
+2026-11-03,Portsmouth vs Swansea,Jay Fulton,To Score,0.5,11.5,0.087,0.0527,1,0.0,0
+2026-11-03,Portsmouth vs Swansea,Zak Swanson,To Score,0.5,12.5,0.08,0.0284,0,0.0,0
 2026-11-03,Portsmouth vs Swansea,Madiodio Dia,To Score,0.5,12.0,0.0833,0.0187,1,0.0,0
 2026-11-03,Portsmouth vs Swansea,Regan Poole,To Score,0.5,12.0,0.0833,0.0168,1,0.0,0
-2026-11-03,Portsmouth vs Swansea,Elijah Just,To Score,0.5,4.3,0.2326,0.0203,0,0.0,0
-2026-11-03,Portsmouth vs Swansea,Melker Widell,To Score,0.5,6.5,0.1538,0.0394,1,0.0,0
-2026-11-03,Portsmouth vs Swansea,Adam Idah,To Score,0.5,3.4,0.2941,0.2873,1,0.0,0
-2026-11-03,Portsmouth vs Swansea,Josh Tymon,To Score,0.5,11.5,0.087,0.0252,1,0.0,0
-2026-11-03,Portsmouth vs Swansea,Thomas Waddingham,To score at least 2 goals,1.5,30.0,0.0333,0.0014,0,1.0,0
-2026-11-03,Portsmouth vs Swansea,Marlon Pack,To Score,0.5,11.0,0.0909,0.0166,0,0.0,0
-2026-11-03,Portsmouth vs Swansea,Marlon Pack,To Get a Card,0.5,3.5,0.2857,0.0595,0,0.0,0
-2026-11-03,Portsmouth vs Swansea,Thomas Waddingham,To give an assist,0.5,4.9,0.2041,0.0131,0,0.0,0
-2026-11-03,Portsmouth vs Swansea,Joseph Opoku,Player's shots on target,0.5,2.2,0.4545,0.5375,1,0.0,0
-2026-11-03,Portsmouth vs Swansea,Adrian Segecic,Player's shots on target,0.5,1.8,0.5556,0.4112,1,0.0,0
-2026-11-03,Portsmouth vs Swansea,Tom Iorpenda,To Score,0.5,6.0,0.1667,0.0369,0,0.0,0
-2026-11-03,Portsmouth vs Swansea,Tyrese Shade,To give an assist,0.5,5.0,0.2,0.1133,1,0.0,0
-2026-11-03,Portsmouth vs Swansea,Joseph Opoku,To give an assist,0.5,4.5,0.2222,0.1481,1,0.0,0
-2026-11-03,Portsmouth vs Swansea,Thomas Waddingham,To Score,0.5,4.5,0.2222,0.0532,0,1.0,1
-2026-11-03,Portsmouth vs Swansea,Stephen Welsh,Player's shots on target,0.5,4.0,0.25,0.0653,1,0.0,0
+2026-11-03,Portsmouth vs Swansea,Elijah Just,To Score,0.5,4.3,0.2326,0.0204,0,0.0,0
+2026-11-03,Portsmouth vs Swansea,Melker Widell,To Score,0.5,6.5,0.1538,0.0392,1,0.0,0
+2026-11-03,Portsmouth vs Swansea,Adam Idah,To Score,0.5,3.4,0.2941,0.2866,1,0.0,0
+2026-11-03,Portsmouth vs Swansea,Josh Tymon,To Score,0.5,11.5,0.087,0.0246,1,0.0,0
+2026-11-03,Portsmouth vs Swansea,Thomas Waddingham,To score at least 2 goals,1.5,30.0,0.0333,0.0015,0,1.0,0
+2026-11-03,Portsmouth vs Swansea,Marlon Pack,To Score,0.5,11.0,0.0909,0.0165,0,0.0,0
+2026-11-03,Portsmouth vs Swansea,Marlon Pack,To Get a Card,0.5,3.5,0.2857,0.0597,0,0.0,0
+2026-11-03,Portsmouth vs Swansea,Thomas Waddingham,To give an assist,0.5,4.9,0.2041,0.0132,0,0.0,0
+2026-11-03,Portsmouth vs Swansea,Joseph Opoku,Player's shots on target,0.5,2.2,0.4545,0.5371,1,0.0,0
+2026-11-03,Portsmouth vs Swansea,Adrian Segecic,Player's shots on target,0.5,1.8,0.5556,0.4108,1,0.0,0
+2026-11-03,Portsmouth vs Swansea,Tom Iorpenda,To Score,0.5,6.0,0.1667,0.0343,0,0.0,0
+2026-11-03,Portsmouth vs Swansea,Tyrese Shade,To give an assist,0.5,5.0,0.2,0.1137,1,0.0,0
+2026-11-03,Portsmouth vs Swansea,Joseph Opoku,To give an assist,0.5,4.5,0.2222,0.1483,1,0.0,0
+2026-11-03,Portsmouth vs Swansea,Thomas Waddingham,To Score,0.5,4.5,0.2222,0.0534,0,1.0,1
+2026-11-03,Portsmouth vs Swansea,Stephen Welsh,Player's shots on target,0.5,4.0,0.25,0.065,1,0.0,0
 2026-11-03,Portsmouth vs Swansea,Joseph Opoku,To score at least 2 goals,1.5,30.0,0.0333,0.0385,1,0.0,0
-2026-11-03,Portsmouth vs Swansea,Joseph Opoku,To Score,0.5,4.5,0.2222,0.2645,1,0.0,0
+2026-11-03,Portsmouth vs Swansea,Joseph Opoku,To Score,0.5,4.5,0.2222,0.2643,1,0.0,0
 2026-11-03,Portsmouth vs Swansea,Jeremy Monga,To score at least 2 goals,1.5,21.0,0.0476,0.0003,0,0.0,0
 2026-11-03,Portsmouth vs Swansea,Jenson Seelt,To Score,0.5,10.0,0.1,0.0204,1,0.0,0
 2026-11-03,Portsmouth vs Swansea,Ryan Kavuma-McQueen,To score at least 2 goals,1.5,25.0,0.04,0.0005,0,0.0,0
 2026-11-03,Portsmouth vs Swansea,Stephen Welsh,To Score,0.5,8.5,0.1176,0.0186,1,0.0,0
 2026-11-03,Portsmouth vs Swansea,Elijah Just,To give an assist,0.5,5.0,0.2,0.0183,0,0.0,0
-2026-11-03,Portsmouth vs Swansea,Madiodio Dia,To Get a Card,0.5,3.9,0.2564,0.1349,1,0.0,0
-2026-11-03,Portsmouth vs Swansea,Tom Iorpenda,To Get a Card,0.5,3.2,0.3125,0.0309,0,0.0,0
-2026-11-03,Portsmouth vs Swansea,Iyad Mohamed,To Get a Card,0.5,3.9,0.2564,0.169,1,0.0,0
-2026-11-03,Portsmouth vs Swansea,Adrian Segecic,To Get a Card,0.5,4.0,0.25,0.1009,1,0.0,0
-2026-11-03,Portsmouth vs Swansea,Adam Idah,To score at least 2 goals,1.5,16.0,0.0625,0.0459,1,0.0,0
-2026-11-03,Portsmouth vs Swansea,Marko Milovanovic,To score at least 2 goals,1.5,12.5,0.08,0.0349,1,0.0,0
-2026-11-03,Portsmouth vs Swansea,Marko Milovanovic,To Score,0.5,2.9,0.3448,0.2522,1,0.0,0
+2026-11-03,Portsmouth vs Swansea,Madiodio Dia,To Get a Card,0.5,3.9,0.2564,0.1348,1,0.0,0
+2026-11-03,Portsmouth vs Swansea,Tom Iorpenda,To Get a Card,0.5,3.2,0.3125,0.0285,0,0.0,0
+2026-11-03,Portsmouth vs Swansea,Iyad Mohamed,To Get a Card,0.5,3.9,0.2564,0.1691,1,0.0,0
+2026-11-03,Portsmouth vs Swansea,Adrian Segecic,To Get a Card,0.5,4.0,0.25,0.101,1,0.0,0
+2026-11-03,Portsmouth vs Swansea,Adam Idah,To score at least 2 goals,1.5,16.0,0.0625,0.0457,1,0.0,0
+2026-11-03,Portsmouth vs Swansea,Marko Milovanovic,To score at least 2 goals,1.5,12.5,0.08,0.0342,1,0.0,0
+2026-11-03,Portsmouth vs Swansea,Marko Milovanovic,To Score,0.5,2.9,0.3448,0.25,1,0.0,0
 2026-11-03,Portsmouth vs Swansea,Tyrese Shade,To score at least 2 goals,1.5,26.0,0.0385,0.0028,1,0.0,0
 2026-11-03,Portsmouth vs Swansea,Elijah Just,To score at least 2 goals,1.5,25.0,0.04,0.0002,0,0.0,0
 2026-11-03,Portsmouth vs Swansea,Regan Poole,To Get a Card,0.5,3.3,0.303,0.1262,1,1.0,1
-2026-11-03,Preston vs Sheffield Utd,Sydie Peck,Player's shots on target,0.5,2.02,0.495,0.3733,1,4.0,1
+2026-11-03,Preston vs Sheffield Utd,Sydie Peck,Player's shots on target,0.5,2.02,0.495,0.3724,1,4.0,1
 2026-11-03,Preston vs Sheffield Utd,Jordan Ayew,To score at least 2 goals,1.5,12.0,0.0833,0.0009,0,0.0,0
-2026-11-03,Preston vs Sheffield Utd,Johnny Kenny,To Score,0.5,3.5,0.2857,0.1905,1,0.0,0
-2026-11-03,Preston vs Sheffield Utd,Johnny Kenny,To score at least 2 goals,1.5,18.0,0.0556,0.0194,1,0.0,0
-2026-11-03,Preston vs Sheffield Utd,Callum Lang,Player's shots on target,0.5,1.97,0.5076,0.1411,0,1.0,1
-2026-11-03,Preston vs Sheffield Utd,Romelle Donovan,To Score,0.5,4.0,0.25,0.0922,1,0.0,0
-2026-11-03,Preston vs Sheffield Utd,Sam McCallum,To Score,0.5,10.0,0.1,0.0211,0,0.0,0
-2026-11-03,Preston vs Sheffield Utd,Oliver Arblaster,To score at least 2 goals,1.5,56.0,0.0179,0.0003,0,0.0,0
-2026-11-03,Preston vs Sheffield Utd,Tahith Chong,Player's shots on target,0.5,2.55,0.3922,0.2819,1,0.0,0
-2026-11-03,Preston vs Sheffield Utd,Andrew Hughes,Player's shots on target,0.5,5.0,0.2,0.1237,1,0.0,0
-2026-11-03,Preston vs Sheffield Utd,Odeluga Offiah,To Score,0.5,12.0,0.0833,0.0125,1,0.0,0
-2026-11-03,Preston vs Sheffield Utd,Japhet Tanganga,To Score,0.5,11.0,0.0909,0.0567,1,0.0,0
-2026-11-03,Preston vs Sheffield Utd,Andrew Hughes,To Score,0.5,12.0,0.0833,0.0441,1,0.0,0
-2026-11-03,Preston vs Sheffield Utd,Jordan Storey,Player's shots on target,0.5,4.8,0.2083,0.1206,1,0.0,0
-2026-11-03,Preston vs Sheffield Utd,Callum Lang,To Get a Card,0.5,3.4,0.2941,0.0463,0,0.0,0
-2026-11-03,Preston vs Sheffield Utd,Japhet Tanganga,To Get a Card,0.5,3.6,0.2778,0.2127,1,0.0,0
-2026-11-03,Preston vs Sheffield Utd,Léo Leroy,To Get a Card,0.5,3.2,0.3125,0.2183,1,1.0,1
-2026-11-03,Preston vs Sheffield Utd,Thomas Cannon,To give an assist,0.5,4.7,0.2128,0.0627,1,0.0,0
+2026-11-03,Preston vs Sheffield Utd,Johnny Kenny,To Score,0.5,3.5,0.2857,0.191,1,0.0,0
+2026-11-03,Preston vs Sheffield Utd,Johnny Kenny,To score at least 2 goals,1.5,18.0,0.0556,0.0195,1,0.0,0
+2026-11-03,Preston vs Sheffield Utd,Callum Lang,Player's shots on target,0.5,1.97,0.5076,0.143,0,1.0,1
+2026-11-03,Preston vs Sheffield Utd,Romelle Donovan,To Score,0.5,4.0,0.25,0.0921,1,0.0,0
+2026-11-03,Preston vs Sheffield Utd,Sam McCallum,To Score,0.5,10.0,0.1,0.0205,0,0.0,0
+2026-11-03,Preston vs Sheffield Utd,Oliver Arblaster,To score at least 2 goals,1.5,56.0,0.0179,0.0004,0,0.0,0
+2026-11-03,Preston vs Sheffield Utd,Tahith Chong,Player's shots on target,0.5,2.55,0.3922,0.2697,1,0.0,0
+2026-11-03,Preston vs Sheffield Utd,Andrew Hughes,Player's shots on target,0.5,5.0,0.2,0.1225,1,0.0,0
+2026-11-03,Preston vs Sheffield Utd,Odeluga Offiah,To Score,0.5,12.0,0.0833,0.0123,1,0.0,0
+2026-11-03,Preston vs Sheffield Utd,Japhet Tanganga,To Score,0.5,11.0,0.0909,0.0556,1,0.0,0
+2026-11-03,Preston vs Sheffield Utd,Andrew Hughes,To Score,0.5,12.0,0.0833,0.0426,1,0.0,0
+2026-11-03,Preston vs Sheffield Utd,Jordan Storey,Player's shots on target,0.5,4.8,0.2083,0.1179,1,0.0,0
+2026-11-03,Preston vs Sheffield Utd,Callum Lang,To Get a Card,0.5,3.4,0.2941,0.047,0,0.0,0
+2026-11-03,Preston vs Sheffield Utd,Japhet Tanganga,To Get a Card,0.5,3.6,0.2778,0.213,1,0.0,0
+2026-11-03,Preston vs Sheffield Utd,Léo Leroy,To Get a Card,0.5,3.2,0.3125,0.2185,1,1.0,1
+2026-11-03,Preston vs Sheffield Utd,Thomas Cannon,To give an assist,0.5,4.7,0.2128,0.0625,1,0.0,0
 2026-11-03,Preston vs Sheffield Utd,Thierry Small,To Get a Card,0.5,3.1,0.3226,0.0305,0,0.0,0
-2026-11-03,Preston vs Sheffield Utd,Jordan Storey,To Get a Card,0.5,3.3,0.303,0.1558,1,0.0,0
-2026-11-03,Preston vs Sheffield Utd,Delano Burgzorg,To Score,0.5,4.2,0.2381,0.0311,0,0.0,0
-2026-11-03,Preston vs Sheffield Utd,Jusef Erabi,Player's shots on target,0.5,1.8,0.5556,0.4307,1,0.0,0
+2026-11-03,Preston vs Sheffield Utd,Jordan Storey,To Get a Card,0.5,3.3,0.303,0.1569,1,0.0,0
+2026-11-03,Preston vs Sheffield Utd,Delano Burgzorg,To Score,0.5,4.2,0.2381,0.0305,0,0.0,0
+2026-11-03,Preston vs Sheffield Utd,Jusef Erabi,Player's shots on target,0.5,1.8,0.5556,0.4309,1,0.0,0
 2026-11-03,Preston vs Sheffield Utd,Sydie Peck,To give an assist,0.5,5.2,0.1923,0.1095,1,0.0,0
 2026-11-03,Preston vs Sheffield Utd,Thomas Cannon,To score at least 3 goals,2.5,56.0,0.0179,0.002,1,0.0,0
-2026-11-03,Preston vs Sheffield Utd,Thomas Cannon,To Get a Card,0.5,5.0,0.2,0.0834,1,0.0,0
-2026-11-03,Preston vs Sheffield Utd,Jordan Thompson,Player's shots on target,0.5,5.0,0.2,0.2219,1,0.0,0
-2026-11-03,Preston vs Sheffield Utd,Sam McCallum,To Get a Card,0.5,3.8,0.2632,0.0402,0,0.0,0
-2026-11-03,Preston vs Sheffield Utd,Hamza Choudhury,To Get a Card,0.5,5.0,0.2,0.1831,1,0.0,0
-2026-11-03,Preston vs Sheffield Utd,Andrija Vukcevic,To Get a Card,0.5,3.5,0.2857,0.1893,1,0.0,0
-2026-11-03,Preston vs Sheffield Utd,Alfie Devine,To Get a Card,0.5,3.4,0.2941,0.0204,0,0.0,0
-2026-11-03,Preston vs Sheffield Utd,Jordan Ayew,To Get a Card,0.5,4.2,0.2381,0.0367,0,0.0,0
-2026-11-03,Preston vs Sheffield Utd,Odeluga Offiah,To Get a Card,0.5,3.8,0.2632,0.1186,1,0.0,0
-2026-11-03,Preston vs Sheffield Utd,Matt Doherty,To Get a Card,0.5,3.7,0.2703,0.0445,0,0.0,0
-2026-11-03,Preston vs Sheffield Utd,Romelle Donovan,To give an assist,0.5,4.7,0.2128,0.0933,1,1.0,1
-2026-11-03,Preston vs Sheffield Utd,Johnny Kenny,To give an assist,0.5,4.5,0.2222,0.0471,1,0.0,0
-2026-11-03,Preston vs Sheffield Utd,Romelle Donovan,To Get a Card,0.5,3.7,0.2703,0.1202,1,0.0,0
-2026-11-03,Preston vs Sheffield Utd,Alfie Devine,To Score,0.5,4.5,0.2222,0.0397,0,0.0,0
+2026-11-03,Preston vs Sheffield Utd,Thomas Cannon,To Get a Card,0.5,5.0,0.2,0.0831,1,0.0,0
+2026-11-03,Preston vs Sheffield Utd,Jordan Thompson,Player's shots on target,0.5,5.0,0.2,0.2103,1,0.0,0
+2026-11-03,Preston vs Sheffield Utd,Sam McCallum,To Get a Card,0.5,3.8,0.2632,0.0399,0,0.0,0
+2026-11-03,Preston vs Sheffield Utd,Hamza Choudhury,To Get a Card,0.5,5.0,0.2,0.1836,1,0.0,0
+2026-11-03,Preston vs Sheffield Utd,Andrija Vukcevic,To Get a Card,0.5,3.5,0.2857,0.1889,1,0.0,0
+2026-11-03,Preston vs Sheffield Utd,Alfie Devine,To Get a Card,0.5,3.4,0.2941,0.0248,0,0.0,0
+2026-11-03,Preston vs Sheffield Utd,Jordan Ayew,To Get a Card,0.5,4.2,0.2381,0.0379,0,0.0,0
+2026-11-03,Preston vs Sheffield Utd,Odeluga Offiah,To Get a Card,0.5,3.8,0.2632,0.1162,1,0.0,0
+2026-11-03,Preston vs Sheffield Utd,Matt Doherty,To Get a Card,0.5,3.7,0.2703,0.0436,0,0.0,0
+2026-11-03,Preston vs Sheffield Utd,Romelle Donovan,To give an assist,0.5,4.7,0.2128,0.0937,1,1.0,1
+2026-11-03,Preston vs Sheffield Utd,Johnny Kenny,To give an assist,0.5,4.5,0.2222,0.0473,1,0.0,0
+2026-11-03,Preston vs Sheffield Utd,Romelle Donovan,To Get a Card,0.5,3.7,0.2703,0.1204,1,0.0,0
+2026-11-03,Preston vs Sheffield Utd,Alfie Devine,To Score,0.5,4.5,0.2222,0.039,0,0.0,0
 2026-11-03,Preston vs Sheffield Utd,Jusef Erabi,To Get a Card,0.5,4.1,0.2439,0.1246,1,0.0,0
-2026-11-03,Preston vs Sheffield Utd,Andrew Hughes,To Get a Card,0.5,3.3,0.303,0.2199,1,0.0,0
-2026-11-03,Preston vs Sheffield Utd,Harrison Burrows,To give an assist,0.5,5.5,0.1818,0.0953,1,1.0,1
-2026-11-03,Preston vs Sheffield Utd,Léo Leroy,To give an assist,0.5,7.0,0.1429,0.0935,1,0.0,0
-2026-11-03,Preston vs Sheffield Utd,Oliver Arblaster,To Get a Card,0.5,3.8,0.2632,0.0404,0,0.0,0
-2026-11-03,Preston vs Sheffield Utd,Jordan Ayew,Player's shots on target,0.5,1.47,0.6803,0.118,0,0.0,0
-2026-11-03,Preston vs Sheffield Utd,Rhys Norrington-Davies,To Get a Card,0.5,5.5,0.1818,0.0559,0,0.0,0
-2026-11-03,Preston vs Sheffield Utd,Tyrese Campbell,To score at least 2 goals,1.5,16.0,0.0625,0.0014,0,0.0,0
-2026-11-03,Preston vs Sheffield Utd,Tahith Chong,To score at least 2 goals,1.5,46.0,0.0217,0.0027,1,0.0,0
-2026-11-03,Preston vs Sheffield Utd,Jordan Thompson,To Score,0.5,12.0,0.0833,0.0576,1,0.0,0
-2026-11-03,Preston vs Sheffield Utd,Thierry Small,To give an assist,0.5,5.8,0.1724,0.0136,0,0.0,0
-2026-11-03,Preston vs Sheffield Utd,Thomas Cannon,To Score,0.5,2.7,0.3704,0.2173,1,0.0,0
-2026-11-03,Preston vs Sheffield Utd,Léo Leroy,Player's shots on target,0.5,3.0,0.3333,0.1869,1,1.0,1
-2026-11-03,Preston vs Sheffield Utd,Tyrese Campbell,To give an assist,0.5,3.5,0.2857,0.0225,0,0.0,0
-2026-11-03,Preston vs Sheffield Utd,Tahith Chong,To give an assist,0.5,6.25,0.16,0.0903,1,0.0,0
-2026-11-03,Preston vs Sheffield Utd,Harrison Burrows,Player's shots on target,0.5,2.45,0.4082,0.2513,1,0.0,0
-2026-11-03,Preston vs Sheffield Utd,Femi Seriki,To Get a Card,0.5,3.8,0.2632,0.0389,0,0.0,0
-2026-11-03,Preston vs Sheffield Utd,Delano Burgzorg,To Get a Card,0.5,3.3,0.303,0.0395,0,0.0,0
-2026-11-03,Preston vs Sheffield Utd,Sydie Peck,To Get a Card,0.5,3.5,0.2857,0.1755,1,0.0,0
-2026-11-03,Preston vs Sheffield Utd,Harrison Burrows,To Get a Card,0.5,4.5,0.2222,0.1145,1,0.0,0
-2026-11-03,Preston vs Sheffield Utd,Thomas Cannon,Player's shots on target,1.5,2.7,0.3704,0.1594,1,0.0,0
-2026-11-03,Preston vs Sheffield Utd,Oliver Arblaster,To give an assist,0.5,6.5,0.1538,0.015,0,0.0,0
-2026-11-03,Preston vs Sheffield Utd,Jairo Riedewald,To Get a Card,0.5,3.8,0.2632,0.1232,1,0.0,0
-2026-11-03,Preston vs Sheffield Utd,Jordan Ayew,To give an assist,0.5,3.8,0.2632,0.0165,0,0.0,0
-2026-11-03,Preston vs Sheffield Utd,Alfie Devine,To give an assist,0.5,6.0,0.1667,0.0265,0,1.0,1
-2026-11-03,Preston vs Sheffield Utd,Delano Burgzorg,To give an assist,0.5,6.0,0.1667,0.0305,0,0.0,0
+2026-11-03,Preston vs Sheffield Utd,Andrew Hughes,To Get a Card,0.5,3.3,0.303,0.2181,1,0.0,0
+2026-11-03,Preston vs Sheffield Utd,Harrison Burrows,To give an assist,0.5,5.5,0.1818,0.0944,1,1.0,1
+2026-11-03,Preston vs Sheffield Utd,Léo Leroy,To give an assist,0.5,7.0,0.1429,0.0938,1,0.0,0
+2026-11-03,Preston vs Sheffield Utd,Oliver Arblaster,To Get a Card,0.5,3.8,0.2632,0.0403,0,0.0,0
+2026-11-03,Preston vs Sheffield Utd,Jordan Ayew,Player's shots on target,0.5,1.47,0.6803,0.1181,0,0.0,0
+2026-11-03,Preston vs Sheffield Utd,Rhys Norrington-Davies,To Get a Card,0.5,5.5,0.1818,0.0558,0,0.0,0
+2026-11-03,Preston vs Sheffield Utd,Tyrese Campbell,To score at least 2 goals,1.5,16.0,0.0625,0.0015,0,0.0,0
+2026-11-03,Preston vs Sheffield Utd,Tahith Chong,To score at least 2 goals,1.5,46.0,0.0217,0.0029,1,0.0,0
+2026-11-03,Preston vs Sheffield Utd,Jordan Thompson,To Score,0.5,12.0,0.0833,0.0544,1,0.0,0
+2026-11-03,Preston vs Sheffield Utd,Thierry Small,To give an assist,0.5,5.8,0.1724,0.0137,0,0.0,0
+2026-11-03,Preston vs Sheffield Utd,Thomas Cannon,To Score,0.5,2.7,0.3704,0.2167,1,0.0,0
+2026-11-03,Preston vs Sheffield Utd,Léo Leroy,Player's shots on target,0.5,3.0,0.3333,0.1859,1,1.0,1
+2026-11-03,Preston vs Sheffield Utd,Tyrese Campbell,To give an assist,0.5,3.5,0.2857,0.0231,0,0.0,0
+2026-11-03,Preston vs Sheffield Utd,Tahith Chong,To give an assist,0.5,6.25,0.16,0.0844,1,0.0,0
+2026-11-03,Preston vs Sheffield Utd,Harrison Burrows,Player's shots on target,0.5,2.45,0.4082,0.2515,1,0.0,0
+2026-11-03,Preston vs Sheffield Utd,Femi Seriki,To Get a Card,0.5,3.8,0.2632,0.0384,0,0.0,0
+2026-11-03,Preston vs Sheffield Utd,Delano Burgzorg,To Get a Card,0.5,3.3,0.303,0.0387,0,0.0,0
+2026-11-03,Preston vs Sheffield Utd,Sydie Peck,To Get a Card,0.5,3.5,0.2857,0.1753,1,0.0,0
+2026-11-03,Preston vs Sheffield Utd,Harrison Burrows,To Get a Card,0.5,4.5,0.2222,0.1135,1,0.0,0
+2026-11-03,Preston vs Sheffield Utd,Thomas Cannon,Player's shots on target,1.5,2.7,0.3704,0.1585,1,0.0,0
+2026-11-03,Preston vs Sheffield Utd,Oliver Arblaster,To give an assist,0.5,6.5,0.1538,0.0133,0,0.0,0
+2026-11-03,Preston vs Sheffield Utd,Jairo Riedewald,To Get a Card,0.5,3.8,0.2632,0.1208,1,0.0,0
+2026-11-03,Preston vs Sheffield Utd,Jordan Ayew,To give an assist,0.5,3.8,0.2632,0.018,0,0.0,0
+2026-11-03,Preston vs Sheffield Utd,Alfie Devine,To give an assist,0.5,6.0,0.1667,0.026,0,1.0,1
+2026-11-03,Preston vs Sheffield Utd,Delano Burgzorg,To give an assist,0.5,6.0,0.1667,0.0306,0,0.0,0
 2026-11-03,Preston vs Sheffield Utd,Sydie Peck,To score at least 2 goals,1.5,29.0,0.0345,0.0046,1,3.0,1
-2026-11-03,Preston vs Sheffield Utd,Oliver Arblaster,Player's shots on target,0.5,2.6,0.3846,0.0617,0,0.0,0
-2026-11-03,Preston vs Sheffield Utd,Femi Seriki,To Score,0.5,10.5,0.0952,0.0157,0,0.0,0
-2026-11-03,Preston vs Sheffield Utd,Jordan Ayew,To Score,0.5,2.9,0.3448,0.0425,0,0.0,0
-2026-11-03,Preston vs Sheffield Utd,Jusef Erabi,To Score,0.5,3.9,0.2564,0.1294,1,0.0,0
+2026-11-03,Preston vs Sheffield Utd,Oliver Arblaster,Player's shots on target,0.5,2.6,0.3846,0.0619,0,0.0,0
+2026-11-03,Preston vs Sheffield Utd,Femi Seriki,To Score,0.5,10.5,0.0952,0.0155,0,0.0,0
+2026-11-03,Preston vs Sheffield Utd,Jordan Ayew,To Score,0.5,2.9,0.3448,0.0417,0,0.0,0
+2026-11-03,Preston vs Sheffield Utd,Jusef Erabi,To Score,0.5,3.9,0.2564,0.1299,1,0.0,0
 2026-11-03,Preston vs Sheffield Utd,Jusef Erabi,To score at least 2 goals,1.5,20.0,0.05,0.0088,1,0.0,0
-2026-11-03,Preston vs Sheffield Utd,Oliver Arblaster,To Score,0.5,5.75,0.1739,0.0243,0,0.0,0
-2026-11-03,Preston vs Sheffield Utd,Harrison Burrows,To Score,0.5,5.2,0.1923,0.1074,1,0.0,0
-2026-11-03,Preston vs Sheffield Utd,Jairo Riedewald,To Score,0.5,9.0,0.1111,0.0854,1,0.0,0
-2026-11-03,Preston vs Sheffield Utd,Liam Lindsay,To Score,0.5,11.5,0.087,0.025,0,0.0,0
-2026-11-03,Preston vs Sheffield Utd,Thomas Cannon,Player's shots on target,0.5,1.4,0.7143,0.5086,1,0.0,0
-2026-11-03,Preston vs Sheffield Utd,Thierry Small,To Score,0.5,4.7,0.2128,0.0251,0,0.0,0
-2026-11-03,Preston vs Sheffield Utd,Jordan Thompson,To Get a Card,0.5,3.8,0.2632,0.2696,1,0.0,0
+2026-11-03,Preston vs Sheffield Utd,Oliver Arblaster,To Score,0.5,5.75,0.1739,0.0268,0,0.0,0
+2026-11-03,Preston vs Sheffield Utd,Harrison Burrows,To Score,0.5,5.2,0.1923,0.1065,1,0.0,0
+2026-11-03,Preston vs Sheffield Utd,Jairo Riedewald,To Score,0.5,9.0,0.1111,0.0835,1,0.0,0
+2026-11-03,Preston vs Sheffield Utd,Liam Lindsay,To Score,0.5,11.5,0.087,0.024,0,0.0,0
+2026-11-03,Preston vs Sheffield Utd,Thomas Cannon,Player's shots on target,0.5,1.4,0.7143,0.5072,1,0.0,0
+2026-11-03,Preston vs Sheffield Utd,Thierry Small,To Score,0.5,4.7,0.2128,0.0252,0,0.0,0
+2026-11-03,Preston vs Sheffield Utd,Jordan Thompson,To Get a Card,0.5,3.8,0.2632,0.2787,1,0.0,0
 2026-11-03,Preston vs Sheffield Utd,Tyrese Campbell,Player's shots on target,0.5,1.65,0.6061,0.1444,0,0.0,0
 2026-11-03,Preston vs Sheffield Utd,Johnny Kenny,To Get a Card,0.5,4.3,0.2326,0.0859,1,0.0,0
-2026-11-03,Preston vs Sheffield Utd,Tahith Chong,To Get a Card,0.5,4.7,0.2128,0.131,1,0.0,0
+2026-11-03,Preston vs Sheffield Utd,Tahith Chong,To Get a Card,0.5,4.7,0.2128,0.1411,1,0.0,0
 2026-11-03,Preston vs Sheffield Utd,Jordan Ayew,Player's shots on target,1.5,3.0,0.3333,0.0073,0,0.0,0
-2026-11-03,Preston vs Sheffield Utd,Callum Lang,To give an assist,0.5,4.8,0.2083,0.0169,0,0.0,0
-2026-11-03,Preston vs Sheffield Utd,Tyrese Campbell,To Score,0.5,3.3,0.303,0.0528,0,0.0,0
-2026-11-03,Preston vs Sheffield Utd,Delano Burgzorg,Player's shots on target,0.5,1.98,0.5051,0.1225,0,0.0,0
-2026-11-03,Preston vs Sheffield Utd,Tahith Chong,To Score,0.5,5.75,0.1739,0.0732,1,0.0,0
-2026-11-03,Preston vs Sheffield Utd,Thomas Cannon,To score at least 2 goals,1.5,10.5,0.0952,0.0255,1,0.0,0
-2026-11-03,Preston vs Sheffield Utd,Liam Lindsay,To Get a Card,0.5,3.8,0.2632,0.0458,0,0.0,0
-2026-11-03,Preston vs Sheffield Utd,Andrew Hughes,To give an assist,0.5,7.0,0.1429,0.0149,1,0.0,0
+2026-11-03,Preston vs Sheffield Utd,Callum Lang,To give an assist,0.5,4.8,0.2083,0.0185,0,0.0,0
+2026-11-03,Preston vs Sheffield Utd,Tyrese Campbell,To Score,0.5,3.3,0.303,0.0538,0,0.0,0
+2026-11-03,Preston vs Sheffield Utd,Delano Burgzorg,Player's shots on target,0.5,1.98,0.5051,0.1235,0,0.0,0
+2026-11-03,Preston vs Sheffield Utd,Tahith Chong,To Score,0.5,5.75,0.1739,0.0749,1,0.0,0
+2026-11-03,Preston vs Sheffield Utd,Thomas Cannon,To score at least 2 goals,1.5,10.5,0.0952,0.0254,1,0.0,0
+2026-11-03,Preston vs Sheffield Utd,Liam Lindsay,To Get a Card,0.5,3.8,0.2632,0.0467,0,0.0,0
+2026-11-03,Preston vs Sheffield Utd,Andrew Hughes,To give an assist,0.5,7.0,0.1429,0.0144,1,0.0,0
 2026-11-03,Preston vs Sheffield Utd,Thierry Small,Player's shots on target,0.5,2.15,0.4651,0.1073,0,0.0,0
-2026-11-03,Preston vs Sheffield Utd,Johnny Kenny,Player's shots on target,0.5,1.66,0.6024,0.4371,1,0.0,0
-2026-11-03,Preston vs Sheffield Utd,Romelle Donovan,Player's shots on target,0.5,1.95,0.5128,0.328,1,1.0,1
-2026-11-03,Preston vs Sheffield Utd,Sydie Peck,To Score,0.5,4.3,0.2326,0.0947,1,3.0,1
-2026-11-03,Preston vs Sheffield Utd,Harrison Burrows,To score at least 2 goals,1.5,41.0,0.0244,0.006,1,0.0,0
-2026-11-03,Preston vs Sheffield Utd,Mark McGuinness,To Score,0.5,10.5,0.0952,0.0394,1,0.0,0
-2026-11-03,Preston vs Sheffield Utd,Callum Lang,To Score,0.5,4.2,0.2381,0.0542,0,1.0,1
+2026-11-03,Preston vs Sheffield Utd,Johnny Kenny,Player's shots on target,0.5,1.66,0.6024,0.4374,1,0.0,0
+2026-11-03,Preston vs Sheffield Utd,Romelle Donovan,Player's shots on target,0.5,1.95,0.5128,0.3272,1,1.0,1
+2026-11-03,Preston vs Sheffield Utd,Sydie Peck,To Score,0.5,4.3,0.2326,0.0944,1,3.0,1
+2026-11-03,Preston vs Sheffield Utd,Harrison Burrows,To score at least 2 goals,1.5,41.0,0.0244,0.0059,1,0.0,0
+2026-11-03,Preston vs Sheffield Utd,Mark McGuinness,To Score,0.5,10.5,0.0952,0.0392,1,0.0,0
+2026-11-03,Preston vs Sheffield Utd,Callum Lang,To Score,0.5,4.2,0.2381,0.0566,0,1.0,1
 2026-11-03,Preston vs Sheffield Utd,Thierry Small,To score at least 2 goals,1.5,30.0,0.0333,0.0003,0,0.0,0
-2026-11-03,Preston vs Sheffield Utd,Andrija Vukcevic,To Score,0.5,11.5,0.087,0.0356,1,0.0,0
-2026-11-03,Preston vs Sheffield Utd,Alfie Devine,Player's shots on target,0.5,2.0,0.5,0.106,0,0.0,0
-2026-11-03,Preston vs Sheffield Utd,Léo Leroy,To Score,0.5,7.0,0.1429,0.0577,1,1.0,1
-2026-11-03,Preston vs Sheffield Utd,Matt Doherty,To Score,0.5,10.5,0.0952,0.0195,0,0.0,0
-2026-11-03,Preston vs Sheffield Utd,Jordan Storey,To Score,0.5,11.0,0.0909,0.0282,1,0.0,0
-2026-11-03,Preston vs Sheffield Utd,Hamza Choudhury,To Score,0.5,10.0,0.1,0.0121,1,0.0,0
-2026-11-03,Preston vs Sheffield Utd,Tyrese Campbell,To Get a Card,0.5,5.0,0.2,0.0294,0,0.0,0
+2026-11-03,Preston vs Sheffield Utd,Andrija Vukcevic,To Score,0.5,11.5,0.087,0.0353,1,0.0,0
+2026-11-03,Preston vs Sheffield Utd,Alfie Devine,Player's shots on target,0.5,2.0,0.5,0.1041,0,0.0,0
+2026-11-03,Preston vs Sheffield Utd,Léo Leroy,To Score,0.5,7.0,0.1429,0.0576,1,1.0,1
+2026-11-03,Preston vs Sheffield Utd,Matt Doherty,To Score,0.5,10.5,0.0952,0.0185,0,0.0,0
+2026-11-03,Preston vs Sheffield Utd,Jordan Storey,To Score,0.5,11.0,0.0909,0.0276,1,0.0,0
+2026-11-03,Preston vs Sheffield Utd,Hamza Choudhury,To Score,0.5,10.0,0.1,0.0119,1,0.0,0
+2026-11-03,Preston vs Sheffield Utd,Tyrese Campbell,To Get a Card,0.5,5.0,0.2,0.0298,0,0.0,0
 2026-11-03,Preston vs Sheffield Utd,Rhys Norrington-Davies,To Score,0.5,11.0,0.0909,0.0173,0,0.0,0
-2026-11-03,Preston vs Sheffield Utd,Mark McGuinness,To Get a Card,0.5,4.3,0.2326,0.1366,1,0.0,0
-2026-11-03,Watford vs Lincoln,Chiedozie Ogbene,To Score,0.5,5.0,0.2,0.0989,1,0.0,0
-2026-11-03,Watford vs Lincoln,Othmane Maamma,Player's shots on target,0.5,1.75,0.5714,0.4074,1,0.0,0
-2026-11-03,Watford vs Lincoln,Ben House,To score at least 2 goals,1.5,20.0,0.05,0.0132,1,0.0,0
-2026-11-03,Watford vs Lincoln,Stephy Mavididi,Player's shots on target,0.5,1.73,0.578,0.3509,1,1.0,1
-2026-11-03,Watford vs Lincoln,Martín Payero,To Score,0.5,8.0,0.125,0.0205,0,0.0,0
-2026-11-03,Watford vs Lincoln,Stephy Mavididi,To Score,0.5,4.0,0.25,0.0955,1,1.0,1
-2026-11-03,Watford vs Lincoln,Mamadou Doumbia,Player's shots on target,0.5,1.82,0.5495,0.1395,0,0.0,0
-2026-11-03,Watford vs Lincoln,Iker Bravo,Player's shots on target,0.5,1.75,0.5714,0.3147,1,0.0,0
-2026-11-03,Watford vs Lincoln,Krépin Diatta,To give an assist,0.5,7.0,0.1429,0.0153,0,0.0,0
-2026-11-03,Watford vs Lincoln,Edo Kayembe,Player's shots on target,0.5,2.23,0.4484,0.3156,1,0.0,0
-2026-11-03,Watford vs Lincoln,Iker Bravo,To Score,0.5,4.1,0.2439,0.0896,1,0.0,0
-2026-11-03,Watford vs Lincoln,Rocco Vata,Player's shots on target,0.5,1.53,0.6536,0.1516,0,0.0,0
-2026-11-03,Watford vs Lincoln,Dom Jefferies,To Score,0.5,6.5,0.1538,0.0345,0,0.0,0
+2026-11-03,Preston vs Sheffield Utd,Mark McGuinness,To Get a Card,0.5,4.3,0.2326,0.136,1,0.0,0
+2026-11-03,Watford vs Lincoln,Chiedozie Ogbene,To Score,0.5,5.0,0.2,0.0928,1,0.0,0
+2026-11-03,Watford vs Lincoln,Othmane Maamma,Player's shots on target,0.5,1.75,0.5714,0.4145,1,0.0,0
+2026-11-03,Watford vs Lincoln,Ben House,To score at least 2 goals,1.5,20.0,0.05,0.0133,1,0.0,0
+2026-11-03,Watford vs Lincoln,Stephy Mavididi,Player's shots on target,0.5,1.73,0.578,0.357,1,1.0,1
+2026-11-03,Watford vs Lincoln,Martín Payero,To Score,0.5,8.0,0.125,0.021,0,0.0,0
+2026-11-03,Watford vs Lincoln,Stephy Mavididi,To Score,0.5,4.0,0.25,0.0994,1,1.0,1
+2026-11-03,Watford vs Lincoln,Mamadou Doumbia,Player's shots on target,0.5,1.82,0.5495,0.1394,0,0.0,0
+2026-11-03,Watford vs Lincoln,Iker Bravo,Player's shots on target,0.5,1.75,0.5714,0.3134,1,0.0,0
+2026-11-03,Watford vs Lincoln,Krépin Diatta,To give an assist,0.5,7.0,0.1429,0.0137,0,0.0,0
+2026-11-03,Watford vs Lincoln,Edo Kayembe,Player's shots on target,0.5,2.23,0.4484,0.3195,1,0.0,0
+2026-11-03,Watford vs Lincoln,Iker Bravo,To Score,0.5,4.1,0.2439,0.0892,1,0.0,0
+2026-11-03,Watford vs Lincoln,Rocco Vata,Player's shots on target,0.5,1.53,0.6536,0.1508,0,0.0,0
+2026-11-03,Watford vs Lincoln,Dom Jefferies,To Score,0.5,6.5,0.1538,0.0347,0,0.0,0
 2026-11-03,Watford vs Lincoln,Dom Jefferies,To Get a Card,0.5,3.3,0.303,0.041,0,0.0,0
 2026-11-03,Watford vs Lincoln,Marc Bola,To Score,0.5,10.5,0.0952,0.0492,1,0.0,0
-2026-11-03,Watford vs Lincoln,Ben House,To Score,0.5,3.6,0.2778,0.1583,1,0.0,0
-2026-11-03,Watford vs Lincoln,Ryley Towler,To Get a Card,0.5,2.8,0.3571,0.0376,0,0.0,0
-2026-11-03,Watford vs Lincoln,Iker Bravo,To Get a Card,0.5,4.0,0.25,0.1911,1,0.0,0
-2026-11-03,Watford vs Lincoln,Adam Reach,Player's shots on target,0.5,3.6,0.2778,0.0856,0,0.0,0
-2026-11-03,Watford vs Lincoln,Ryley Towler,Player's shots on target,0.5,3.5,0.2857,0.0576,0,0.0,0
-2026-11-03,Watford vs Lincoln,Rocco Vata,To Score,0.5,3.4,0.2941,0.0359,0,0.0,0
+2026-11-03,Watford vs Lincoln,Ben House,To Score,0.5,3.6,0.2778,0.1587,1,0.0,0
+2026-11-03,Watford vs Lincoln,Ryley Towler,To Get a Card,0.5,2.8,0.3571,0.0435,0,0.0,0
+2026-11-03,Watford vs Lincoln,Iker Bravo,To Get a Card,0.5,4.0,0.25,0.1907,1,0.0,0
+2026-11-03,Watford vs Lincoln,Adam Reach,Player's shots on target,0.5,3.6,0.2778,0.0787,0,0.0,0
+2026-11-03,Watford vs Lincoln,Ryley Towler,Player's shots on target,0.5,3.5,0.2857,0.055,0,0.0,0
+2026-11-03,Watford vs Lincoln,Rocco Vata,To Score,0.5,3.4,0.2941,0.0357,0,0.0,0
 2026-11-03,Watford vs Lincoln,Mamadou Doumbia,To Score,0.5,4.3,0.2326,0.0426,0,0.0,0
-2026-11-03,Watford vs Lincoln,Tom Bayliss,To Score,0.5,5.75,0.1739,0.1242,1,0.0,0
-2026-11-03,Watford vs Lincoln,Rocco Vata,To score at least 2 goals,1.5,17.0,0.0588,0.0007,0,0.0,0
-2026-11-03,Watford vs Lincoln,Robert Street,To give an assist,0.5,5.0,0.2,0.0119,0,0.0,0
-2026-11-03,Watford vs Lincoln,Martín Payero,Player's shots on target,0.5,3.1,0.3226,0.1047,0,0.0,0
-2026-11-03,Watford vs Lincoln,Isaac Olaofe,To Score,0.5,4.5,0.2222,0.0285,0,0.0,0
-2026-11-03,Watford vs Lincoln,Krépin Diatta,Player's shots on target,0.5,3.6,0.2778,0.0811,0,0.0,0
-2026-11-03,Watford vs Lincoln,Yunus Konak,To Get a Card,0.5,3.2,0.3125,0.1283,1,0.0,0
-2026-11-03,Watford vs Lincoln,Chiedozie Ogbene,To Get a Card,0.5,4.1,0.2439,0.0611,1,0.0,0
-2026-11-03,Watford vs Lincoln,Jordan Zemura,To Get a Card,0.5,4.7,0.2128,0.0476,0,0.0,0
-2026-11-03,Watford vs Lincoln,Ryley Towler,To give an assist,0.5,7.5,0.1333,0.0082,0,0.0,0
-2026-11-03,Watford vs Lincoln,Adam Reach,To Get a Card,0.5,3.4,0.2941,0.0177,0,0.0,0
+2026-11-03,Watford vs Lincoln,Tom Bayliss,To Score,0.5,5.75,0.1739,0.124,1,0.0,0
+2026-11-03,Watford vs Lincoln,Rocco Vata,To score at least 2 goals,1.5,17.0,0.0588,0.0006,0,0.0,0
+2026-11-03,Watford vs Lincoln,Robert Street,To give an assist,0.5,5.0,0.2,0.012,0,0.0,0
+2026-11-03,Watford vs Lincoln,Martín Payero,Player's shots on target,0.5,3.1,0.3226,0.1021,0,0.0,0
+2026-11-03,Watford vs Lincoln,Isaac Olaofe,To Score,0.5,4.5,0.2222,0.0287,0,0.0,0
+2026-11-03,Watford vs Lincoln,Krépin Diatta,Player's shots on target,0.5,3.6,0.2778,0.0726,0,0.0,0
+2026-11-03,Watford vs Lincoln,Yunus Konak,To Get a Card,0.5,3.2,0.3125,0.1282,1,0.0,0
+2026-11-03,Watford vs Lincoln,Chiedozie Ogbene,To Get a Card,0.5,4.1,0.2439,0.057,1,0.0,0
+2026-11-03,Watford vs Lincoln,Jordan Zemura,To Get a Card,0.5,4.7,0.2128,0.0468,0,0.0,0
+2026-11-03,Watford vs Lincoln,Ryley Towler,To give an assist,0.5,7.5,0.1333,0.0078,0,0.0,0
+2026-11-03,Watford vs Lincoln,Adam Reach,To Get a Card,0.5,3.4,0.2941,0.0162,0,0.0,0
 2026-11-03,Watford vs Lincoln,Amin Nabizada,To give an assist,0.5,4.6,0.2174,0.0097,0,0.0,0
-2026-11-03,Watford vs Lincoln,Hector Kyprianou,Player's shots on target,0.5,3.5,0.2857,0.2037,1,1.0,1
-2026-11-03,Watford vs Lincoln,Othmane Maamma,To Get a Card,0.5,3.5,0.2857,0.1176,1,0.0,0
-2026-11-03,Watford vs Lincoln,Daniel Oyegoke,To Get a Card,0.5,3.5,0.2857,0.1405,1,0.0,0
-2026-11-03,Watford vs Lincoln,Hector Kyprianou,To Get a Card,0.5,3.4,0.2941,0.2455,1,1.0,1
+2026-11-03,Watford vs Lincoln,Hector Kyprianou,Player's shots on target,0.5,3.5,0.2857,0.2031,1,1.0,1
+2026-11-03,Watford vs Lincoln,Othmane Maamma,To Get a Card,0.5,3.5,0.2857,0.1233,1,0.0,0
+2026-11-03,Watford vs Lincoln,Daniel Oyegoke,To Get a Card,0.5,3.5,0.2857,0.1407,1,0.0,0
+2026-11-03,Watford vs Lincoln,Hector Kyprianou,To Get a Card,0.5,3.4,0.2941,0.2456,1,1.0,1
 2026-11-03,Watford vs Lincoln,Ben House,To Get a Card,0.5,3.6,0.2778,0.2139,1,1.0,1
-2026-11-03,Watford vs Lincoln,Mamadou Doumbia,To give an assist,0.5,4.8,0.2083,0.0061,0,0.0,0
-2026-11-03,Watford vs Lincoln,Rocco Vata,To give an assist,0.5,6.0,0.1667,0.0381,0,0.0,0
-2026-11-03,Watford vs Lincoln,Othmane Maamma,To give an assist,0.5,5.1,0.1961,0.0518,1,0.0,0
-2026-11-03,Watford vs Lincoln,Ben House,Player's shots on target,0.5,1.65,0.6061,0.3979,1,1.0,1
-2026-11-03,Watford vs Lincoln,Rocco Vata,To Get a Card,0.5,3.7,0.2703,0.0131,0,0.0,0
-2026-11-03,Watford vs Lincoln,Callum Elder,To Get a Card,0.5,3.2,0.3125,0.2243,1,0.0,0
-2026-11-03,Watford vs Lincoln,Mamadou Doumbia,To Get a Card,0.5,3.9,0.2564,0.0435,0,0.0,0
-2026-11-03,Watford vs Lincoln,Tom Bayliss,To give an assist,0.5,6.0,0.1667,0.0666,1,0.0,0
-2026-11-03,Watford vs Lincoln,Krépin Diatta,To Get a Card,0.5,4.1,0.2439,0.0325,0,0.0,0
-2026-11-03,Watford vs Lincoln,Freddie Draper,Player's shots on target,1.5,3.7,0.2703,0.107,1,0.0,0
-2026-11-03,Watford vs Lincoln,Edo Kayembe,To Get a Card,0.5,3.8,0.2632,0.1783,1,1.0,1
+2026-11-03,Watford vs Lincoln,Mamadou Doumbia,To give an assist,0.5,4.8,0.2083,0.0062,0,0.0,0
+2026-11-03,Watford vs Lincoln,Rocco Vata,To give an assist,0.5,6.0,0.1667,0.0379,0,0.0,0
+2026-11-03,Watford vs Lincoln,Othmane Maamma,To give an assist,0.5,5.1,0.1961,0.0499,1,0.0,0
+2026-11-03,Watford vs Lincoln,Ben House,Player's shots on target,0.5,1.65,0.6061,0.3981,1,1.0,1
+2026-11-03,Watford vs Lincoln,Rocco Vata,To Get a Card,0.5,3.7,0.2703,0.013,0,0.0,0
+2026-11-03,Watford vs Lincoln,Callum Elder,To Get a Card,0.5,3.2,0.3125,0.2255,1,0.0,0
+2026-11-03,Watford vs Lincoln,Mamadou Doumbia,To Get a Card,0.5,3.9,0.2564,0.0434,0,0.0,0
+2026-11-03,Watford vs Lincoln,Tom Bayliss,To give an assist,0.5,6.0,0.1667,0.067,1,0.0,0
+2026-11-03,Watford vs Lincoln,Krépin Diatta,To Get a Card,0.5,4.1,0.2439,0.0442,0,0.0,0
+2026-11-03,Watford vs Lincoln,Freddie Draper,Player's shots on target,1.5,3.7,0.2703,0.1071,1,0.0,0
+2026-11-03,Watford vs Lincoln,Edo Kayembe,To Get a Card,0.5,3.8,0.2632,0.1809,1,1.0,1
 2026-11-03,Watford vs Lincoln,Kevin Keben,To Score,0.5,11.0,0.0909,0.0127,1,0.0,0
 2026-11-03,Watford vs Lincoln,Robert Street,To Get a Card,0.5,3.7,0.2703,0.0349,0,0.0,0
-2026-11-03,Watford vs Lincoln,Chiedozie Ogbene,To give an assist,0.5,5.0,0.2,0.0551,1,0.0,0
-2026-11-03,Watford vs Lincoln,Ben House,To give an assist,0.5,5.0,0.2,0.118,1,0.0,0
-2026-11-03,Watford vs Lincoln,Myron Boadu,To Get a Card,0.5,4.0,0.25,0.1492,1,0.0,0
-2026-11-03,Watford vs Lincoln,Tom Bayliss,To Get a Card,0.5,3.1,0.3226,0.1909,1,0.0,0
-2026-11-03,Watford vs Lincoln,Sonny Bradley,To Get a Card,0.5,2.9,0.3448,0.0881,1,1.0,1
-2026-11-03,Watford vs Lincoln,Chiedozie Ogbene,Player's shots on target,0.5,2.2,0.4545,0.2942,1,0.0,0
-2026-11-03,Watford vs Lincoln,Edo Kayembe,To give an assist,0.5,5.0,0.2,0.0618,1,0.0,0
-2026-11-03,Watford vs Lincoln,Callum Elder,To Score,0.5,12.0,0.0833,0.0425,1,0.0,0
+2026-11-03,Watford vs Lincoln,Chiedozie Ogbene,To give an assist,0.5,5.0,0.2,0.0516,1,0.0,0
+2026-11-03,Watford vs Lincoln,Ben House,To give an assist,0.5,5.0,0.2,0.1182,1,0.0,0
+2026-11-03,Watford vs Lincoln,Myron Boadu,To Get a Card,0.5,4.0,0.25,0.1371,1,0.0,0
+2026-11-03,Watford vs Lincoln,Tom Bayliss,To Get a Card,0.5,3.1,0.3226,0.1911,1,0.0,0
+2026-11-03,Watford vs Lincoln,Sonny Bradley,To Get a Card,0.5,2.9,0.3448,0.1048,1,1.0,1
+2026-11-03,Watford vs Lincoln,Chiedozie Ogbene,Player's shots on target,0.5,2.2,0.4545,0.2885,1,0.0,0
+2026-11-03,Watford vs Lincoln,Edo Kayembe,To give an assist,0.5,5.0,0.2,0.0603,1,0.0,0
+2026-11-03,Watford vs Lincoln,Callum Elder,To Score,0.5,12.0,0.0833,0.0417,1,0.0,0
 2026-11-03,Watford vs Lincoln,Isaac Olaofe,To score at least 2 goals,1.5,29.0,0.0345,0.0004,0,0.0,0
-2026-11-03,Watford vs Lincoln,Dom Jefferies,Player's shots on target,0.5,2.8,0.3571,0.1177,0,0.0,0
-2026-11-03,Watford vs Lincoln,Martín Payero,To give an assist,0.5,6.0,0.1667,0.009,0,0.0,0
-2026-11-03,Watford vs Lincoln,Robert Street,To Score,0.5,3.3,0.303,0.0392,0,0.0,0
-2026-11-03,Watford vs Lincoln,Isaac Olaofe,Player's shots on target,0.5,2.02,0.495,0.0974,0,0.0,0
-2026-11-03,Watford vs Lincoln,Kevin Keben,To Get a Card,0.5,4.1,0.2439,0.1392,1,1.0,1
-2026-11-03,Watford vs Lincoln,Hector Kyprianou,To Score,0.5,9.0,0.1111,0.0586,1,0.0,0
-2026-11-03,Watford vs Lincoln,Freddie Draper,To give an assist,0.5,4.9,0.2041,0.0402,1,0.0,0
-2026-11-03,Watford vs Lincoln,Stephy Mavididi,To give an assist,0.5,4.4,0.2273,0.0483,1,0.0,0
-2026-11-03,Watford vs Lincoln,Tom Bayliss,Player's shots on target,0.5,2.55,0.3922,0.274,1,0.0,0
-2026-11-03,Watford vs Lincoln,Myron Boadu,To give an assist,0.5,7.5,0.1333,0.0367,1,1.0,1
-2026-11-03,Watford vs Lincoln,Iker Bravo,To give an assist,0.5,4.0,0.25,0.1239,1,0.0,0
-2026-11-03,Watford vs Lincoln,Adam Reach,To Score,0.5,9.0,0.1111,0.0295,0,0.0,0
-2026-11-03,Watford vs Lincoln,Jordan Zemura,To Score,0.5,9.5,0.1053,0.0222,0,0.0,0
-2026-11-03,Watford vs Lincoln,Sonny Bradley,To Score,0.5,10.0,0.1,0.0193,1,0.0,0
-2026-11-03,Watford vs Lincoln,Ryley Towler,To Score,0.5,8.0,0.125,0.0241,0,0.0,0
-2026-11-03,Watford vs Lincoln,Myron Boadu,To score at least 2 goals,1.5,18.0,0.0556,0.0351,1,0.0,0
-2026-11-03,Watford vs Lincoln,Freddie Draper,To score at least 2 goals,1.5,18.0,0.0556,0.0137,1,0.0,0
-2026-11-03,Watford vs Lincoln,Marc Bola,To Get a Card,0.5,4.0,0.25,0.0904,1,0.0,0
-2026-11-03,Watford vs Lincoln,Amin Nabizada,Player's shots on target,0.5,1.75,0.5714,0.1207,0,0.0,0
-2026-11-03,Watford vs Lincoln,Amin Nabizada,To Get a Card,0.5,4.2,0.2381,0.0558,0,0.0,0
-2026-11-03,Watford vs Lincoln,Amin Nabizada,To Score,0.5,4.0,0.25,0.0484,0,0.0,0
-2026-11-03,Watford vs Lincoln,Isaac Olaofe,To give an assist,0.5,4.8,0.2083,0.0164,0,0.0,0
-2026-11-03,Watford vs Lincoln,Martín Payero,To Get a Card,0.5,3.9,0.2564,0.0723,0,0.0,0
+2026-11-03,Watford vs Lincoln,Dom Jefferies,Player's shots on target,0.5,2.8,0.3571,0.1178,0,0.0,0
+2026-11-03,Watford vs Lincoln,Martín Payero,To give an assist,0.5,6.0,0.1667,0.0102,0,0.0,0
+2026-11-03,Watford vs Lincoln,Robert Street,To Score,0.5,3.3,0.303,0.0394,0,0.0,0
+2026-11-03,Watford vs Lincoln,Isaac Olaofe,Player's shots on target,0.5,2.02,0.495,0.0975,0,0.0,0
+2026-11-03,Watford vs Lincoln,Kevin Keben,To Get a Card,0.5,4.1,0.2439,0.1391,1,1.0,1
+2026-11-03,Watford vs Lincoln,Hector Kyprianou,To Score,0.5,9.0,0.1111,0.0585,1,0.0,0
+2026-11-03,Watford vs Lincoln,Freddie Draper,To give an assist,0.5,4.9,0.2041,0.0403,1,0.0,0
+2026-11-03,Watford vs Lincoln,Stephy Mavididi,To give an assist,0.5,4.4,0.2273,0.0545,1,0.0,0
+2026-11-03,Watford vs Lincoln,Tom Bayliss,Player's shots on target,0.5,2.55,0.3922,0.2729,1,0.0,0
+2026-11-03,Watford vs Lincoln,Myron Boadu,To give an assist,0.5,7.5,0.1333,0.0336,1,1.0,1
+2026-11-03,Watford vs Lincoln,Iker Bravo,To give an assist,0.5,4.0,0.25,0.1238,1,0.0,0
+2026-11-03,Watford vs Lincoln,Adam Reach,To Score,0.5,9.0,0.1111,0.0272,0,0.0,0
+2026-11-03,Watford vs Lincoln,Jordan Zemura,To Score,0.5,9.5,0.1053,0.0219,0,0.0,0
+2026-11-03,Watford vs Lincoln,Sonny Bradley,To Score,0.5,10.0,0.1,0.0186,1,0.0,0
+2026-11-03,Watford vs Lincoln,Ryley Towler,To Score,0.5,8.0,0.125,0.0231,0,0.0,0
+2026-11-03,Watford vs Lincoln,Myron Boadu,To score at least 2 goals,1.5,18.0,0.0556,0.054,1,0.0,0
+2026-11-03,Watford vs Lincoln,Freddie Draper,To score at least 2 goals,1.5,18.0,0.0556,0.0138,1,0.0,0
+2026-11-03,Watford vs Lincoln,Marc Bola,To Get a Card,0.5,4.0,0.25,0.0903,1,0.0,0
+2026-11-03,Watford vs Lincoln,Amin Nabizada,Player's shots on target,0.5,1.75,0.5714,0.1201,0,0.0,0
+2026-11-03,Watford vs Lincoln,Amin Nabizada,To Get a Card,0.5,4.2,0.2381,0.0555,0,0.0,0
+2026-11-03,Watford vs Lincoln,Amin Nabizada,To Score,0.5,4.0,0.25,0.0482,0,0.0,0
+2026-11-03,Watford vs Lincoln,Isaac Olaofe,To give an assist,0.5,4.8,0.2083,0.0165,0,0.0,0
+2026-11-03,Watford vs Lincoln,Martín Payero,To Get a Card,0.5,3.9,0.2564,0.0746,0,0.0,0
 2026-11-03,Watford vs Lincoln,Branimir Mlačić,To Get a Card,0.5,3.5,0.2857,0.0466,0,1.0,1
-2026-11-03,Watford vs Lincoln,Andrei Coubis,To Get a Card,0.5,3.3,0.303,0.1448,1,0.0,0
-2026-11-03,Watford vs Lincoln,Yunus Konak,To give an assist,0.5,5.8,0.1724,0.0396,1,0.0,0
+2026-11-03,Watford vs Lincoln,Andrei Coubis,To Get a Card,0.5,3.3,0.303,0.1446,1,0.0,0
+2026-11-03,Watford vs Lincoln,Yunus Konak,To give an assist,0.5,5.8,0.1724,0.0398,1,0.0,0
 2026-11-03,Watford vs Lincoln,Isaac Olaofe,To Get a Card,0.5,3.4,0.2941,0.0421,0,0.0,0
 2026-11-03,Watford vs Lincoln,Robert Street,Player's shots on target,1.5,3.4,0.2941,0.0063,0,0.0,0
-2026-11-03,Watford vs Lincoln,Stephy Mavididi,To Get a Card,0.5,4.4,0.2273,0.1079,1,1.0,1
+2026-11-03,Watford vs Lincoln,Stephy Mavididi,To Get a Card,0.5,4.4,0.2273,0.1082,1,1.0,1
 2026-11-03,Watford vs Lincoln,Freddie Draper,To Get a Card,0.5,3.6,0.2778,0.245,1,0.0,0
 2026-11-03,Watford vs Lincoln,Amin Nabizada,To score at least 2 goals,1.5,21.0,0.0476,0.0012,0,0.0,0
-2026-11-03,Watford vs Lincoln,Othmane Maamma,To Score,0.5,4.2,0.2381,0.1043,1,0.0,0
-2026-11-03,Watford vs Lincoln,Yunus Konak,To Score,0.5,8.0,0.125,0.0434,1,0.0,0
-2026-11-03,Watford vs Lincoln,Robert Street,Player's shots on target,0.5,1.57,0.6369,0.1098,0,0.0,0
+2026-11-03,Watford vs Lincoln,Othmane Maamma,To Score,0.5,4.2,0.2381,0.1101,1,0.0,0
+2026-11-03,Watford vs Lincoln,Yunus Konak,To Score,0.5,8.0,0.125,0.0432,1,0.0,0
+2026-11-03,Watford vs Lincoln,Robert Street,Player's shots on target,0.5,1.57,0.6369,0.1099,0,0.0,0
 2026-11-03,Watford vs Lincoln,Robert Street,To score at least 2 goals,1.5,17.0,0.0588,0.0008,0,0.0,0
 2026-11-03,Watford vs Lincoln,Robert Street,To score at least 3 goals,2.5,91.0,0.011,0.0,0,0.0,0
-2026-11-03,Watford vs Lincoln,Freddie Draper,Player's shots on target,0.5,1.65,0.6061,0.4253,1,0.0,0
-2026-11-03,Watford vs Lincoln,Edo Kayembe,To score at least 2 goals,1.5,41.0,0.0244,0.0063,1,0.0,0
-2026-11-03,Watford vs Lincoln,Dom Jefferies,To give an assist,0.5,6.5,0.1538,0.0104,0,0.0,0
-2026-11-03,Watford vs Lincoln,Freddie Draper,To Score,0.5,3.5,0.2857,0.1608,1,0.0,0
-2026-11-03,Watford vs Lincoln,Myron Boadu,To Score,0.5,3.4,0.2941,0.2531,1,0.0,0
+2026-11-03,Watford vs Lincoln,Freddie Draper,Player's shots on target,0.5,1.65,0.6061,0.4255,1,0.0,0
+2026-11-03,Watford vs Lincoln,Edo Kayembe,To score at least 2 goals,1.5,41.0,0.0244,0.0072,1,0.0,0
+2026-11-03,Watford vs Lincoln,Dom Jefferies,To give an assist,0.5,6.5,0.1538,0.0105,0,0.0,0
+2026-11-03,Watford vs Lincoln,Freddie Draper,To Score,0.5,3.5,0.2857,0.1613,1,0.0,0
+2026-11-03,Watford vs Lincoln,Myron Boadu,To Score,0.5,3.4,0.2941,0.3101,1,0.0,0
 2026-11-03,Watford vs Lincoln,Mamadou Doumbia,To score at least 2 goals,1.5,23.0,0.0435,0.0009,0,0.0,0
-2026-11-03,Watford vs Lincoln,Branimir Mlačić,To Score,0.5,11.0,0.0909,0.0234,0,0.0,0
-2026-11-03,Watford vs Lincoln,Krépin Diatta,To Score,0.5,9.0,0.1111,0.0197,0,0.0,0
+2026-11-03,Watford vs Lincoln,Branimir Mlačić,To Score,0.5,11.0,0.0909,0.0235,0,0.0,0
+2026-11-03,Watford vs Lincoln,Krépin Diatta,To Score,0.5,9.0,0.1111,0.0177,0,0.0,0
 2026-11-03,Watford vs Lincoln,Andrei Coubis,To Score,0.5,11.0,0.0909,0.067,1,0.0,0
-2026-11-03,Watford vs Lincoln,Chiedozie Ogbene,To score at least 2 goals,1.5,34.0,0.0294,0.0051,1,0.0,0
-2026-11-03,Watford vs Lincoln,Daniel Oyegoke,To Score,0.5,12.0,0.0833,0.0492,1,0.0,0
-2026-11-03,Watford vs Lincoln,Edo Kayembe,To Score,0.5,5.5,0.1818,0.1103,1,0.0,0
-2026-11-03,Watford vs Lincoln,Myron Boadu,Player's shots on target,0.5,1.53,0.6536,0.4572,1,0.0,0
-2026-11-03,Watford vs Lincoln,Stephy Mavididi,To score at least 2 goals,1.5,21.0,0.0476,0.0047,1,1.0,0
-2026-11-03,Birmingham vs Millwall,Jake Cooper,To score at least 2 goals,1.5,51.0,0.0196,0.0039,1,0.0,0
-2026-11-03,Birmingham vs Millwall,Scott Wright,To Score,0.5,5.3,0.1887,0.031,0,0.0,0
-2026-11-03,Birmingham vs Millwall,Derek Mazou-Sacko,To Score,0.5,7.0,0.1429,0.0641,1,0.0,0
+2026-11-03,Watford vs Lincoln,Chiedozie Ogbene,To score at least 2 goals,1.5,34.0,0.0294,0.0044,1,0.0,0
+2026-11-03,Watford vs Lincoln,Daniel Oyegoke,To Score,0.5,12.0,0.0833,0.049,1,0.0,0
+2026-11-03,Watford vs Lincoln,Edo Kayembe,To Score,0.5,5.5,0.1818,0.1177,1,0.0,0
+2026-11-03,Watford vs Lincoln,Myron Boadu,Player's shots on target,0.5,1.53,0.6536,0.4943,1,0.0,0
+2026-11-03,Watford vs Lincoln,Stephy Mavididi,To score at least 2 goals,1.5,21.0,0.0476,0.0051,1,1.0,0
+2026-11-03,Birmingham vs Millwall,Jake Cooper,To score at least 2 goals,1.5,51.0,0.0196,0.0041,1,0.0,0
+2026-11-03,Birmingham vs Millwall,Scott Wright,To Score,0.5,5.3,0.1887,0.0312,0,0.0,0
+2026-11-03,Birmingham vs Millwall,Derek Mazou-Sacko,To Score,0.5,7.0,0.1429,0.061,1,0.0,0
 2026-11-03,Birmingham vs Millwall,Demarai Gray,To score at least 3 goals,2.5,71.0,0.0141,0.0,0,0.0,0
 2026-11-03,Birmingham vs Millwall,Camiel Neghli,To Score,0.5,5.4,0.1852,0.1402,1,0.0,0
-2026-11-03,Birmingham vs Millwall,Caleb Taylor,To Score,0.5,12.5,0.08,0.094,1,0.0,0
+2026-11-03,Birmingham vs Millwall,Caleb Taylor,To Score,0.5,12.5,0.08,0.0935,1,0.0,0
 2026-11-03,Birmingham vs Millwall,Mihailo Ivanović,To score at least 2 goals,1.5,23.0,0.0435,0.0314,1,0.0,0
-2026-11-03,Birmingham vs Millwall,Liam Millar,To score at least 2 goals,1.5,19.0,0.0526,0.0179,1,0.0,0
-2026-11-03,Birmingham vs Millwall,Carlos Vicente,To Score,0.5,4.0,0.25,0.0517,0,0.0,0
+2026-11-03,Birmingham vs Millwall,Liam Millar,To score at least 2 goals,1.5,19.0,0.0526,0.0165,1,0.0,0
+2026-11-03,Birmingham vs Millwall,Carlos Vicente,To Score,0.5,4.0,0.25,0.0519,0,0.0,0
 2026-11-03,Birmingham vs Millwall,Carlos Vicente,To score at least 2 goals,1.5,23.0,0.0435,0.0014,0,0.0,0
-2026-11-03,Birmingham vs Millwall,Max Bird,Player's shots on target,0.5,2.5,0.4,0.3529,1,1.0,1
-2026-11-03,Birmingham vs Millwall,Jhon Solís,To Score,0.5,7.5,0.1333,0.0616,1,0.0,0
-2026-11-03,Birmingham vs Millwall,Romain Esse,Player's shots on target,0.5,2.35,0.4255,0.1174,0,0.0,0
-2026-11-03,Birmingham vs Millwall,Max Bird,To Score,0.5,5.8,0.1724,0.0935,1,1.0,1
+2026-11-03,Birmingham vs Millwall,Max Bird,Player's shots on target,0.5,2.5,0.4,0.3606,1,1.0,1
+2026-11-03,Birmingham vs Millwall,Jhon Solís,To Score,0.5,7.5,0.1333,0.0608,1,0.0,0
+2026-11-03,Birmingham vs Millwall,Romain Esse,Player's shots on target,0.5,2.35,0.4255,0.1147,0,0.0,0
+2026-11-03,Birmingham vs Millwall,Max Bird,To Score,0.5,5.8,0.1724,0.092,1,1.0,1
 2026-11-03,Birmingham vs Millwall,Demarai Gray,Player's shots on target,1.5,3.5,0.2857,0.0135,0,0.0,0
-2026-11-03,Birmingham vs Millwall,Max Bird,To give an assist,0.5,6.0,0.1667,0.1335,1,1.0,1
-2026-11-03,Birmingham vs Millwall,Danny Batth,To Get a Card,0.5,4.0,0.25,0.0294,0,0.0,0
-2026-11-03,Birmingham vs Millwall,Tomoki Iwata,Player's shots on target,0.5,3.1,0.3226,0.2418,1,0.0,0
-2026-11-03,Birmingham vs Millwall,Liam Millar,Player's shots on target,1.5,4.3,0.2326,0.0934,1,0.0,0
-2026-11-03,Birmingham vs Millwall,Mihailo Ivanović,To give an assist,0.5,5.1,0.1961,0.0939,1,0.0,0
+2026-11-03,Birmingham vs Millwall,Max Bird,To give an assist,0.5,6.0,0.1667,0.1427,1,1.0,1
+2026-11-03,Birmingham vs Millwall,Danny Batth,To Get a Card,0.5,4.0,0.25,0.0288,0,0.0,0
+2026-11-03,Birmingham vs Millwall,Tomoki Iwata,Player's shots on target,0.5,3.1,0.3226,0.2413,1,0.0,0
+2026-11-03,Birmingham vs Millwall,Liam Millar,Player's shots on target,1.5,4.3,0.2326,0.0911,1,0.0,0
+2026-11-03,Birmingham vs Millwall,Mihailo Ivanović,To give an assist,0.5,5.1,0.1961,0.094,1,0.0,0
 2026-11-03,Birmingham vs Millwall,Demarai Gray,To give an assist,0.5,4.3,0.2326,0.0291,0,0.0,0
-2026-11-03,Birmingham vs Millwall,Patrick Roberts,To give an assist,0.5,5.0,0.2,0.1543,1,0.0,0
+2026-11-03,Birmingham vs Millwall,Patrick Roberts,To give an assist,0.5,5.0,0.2,0.1572,1,0.0,0
 2026-11-03,Birmingham vs Millwall,Luis Vázquez,To Get a Card,0.5,4.9,0.2041,0.0438,0,0.0,0
 2026-11-03,Birmingham vs Millwall,Demarai Gray,To Get a Card,0.5,4.1,0.2439,0.0366,0,0.0,0
-2026-11-03,Birmingham vs Millwall,Marvin Ducksch,To Get a Card,0.5,4.2,0.2381,0.0263,0,0.0,0
-2026-11-03,Birmingham vs Millwall,Kyrell Lisbie,To Get a Card,0.5,4.3,0.2326,0.1836,1,0.0,0
-2026-11-03,Birmingham vs Millwall,Luke Cundle,To Get a Card,0.5,4.4,0.2273,0.1057,1,0.0,0
-2026-11-03,Birmingham vs Millwall,Derek Mazou-Sacko,To Get a Card,0.5,3.9,0.2564,0.2056,1,0.0,0
+2026-11-03,Birmingham vs Millwall,Marvin Ducksch,To Get a Card,0.5,4.2,0.2381,0.0285,0,0.0,0
+2026-11-03,Birmingham vs Millwall,Kyrell Lisbie,To Get a Card,0.5,4.3,0.2326,0.1838,1,0.0,0
+2026-11-03,Birmingham vs Millwall,Luke Cundle,To Get a Card,0.5,4.4,0.2273,0.11,1,0.0,0
+2026-11-03,Birmingham vs Millwall,Derek Mazou-Sacko,To Get a Card,0.5,3.9,0.2564,0.2072,1,0.0,0
 2026-11-03,Birmingham vs Millwall,Scott Wright,To Get a Card,0.5,4.5,0.2222,0.0259,0,0.0,0
 2026-11-03,Birmingham vs Millwall,Camiel Neghli,To score at least 2 goals,1.5,41.0,0.0244,0.0103,1,0.0,0
-2026-11-03,Birmingham vs Millwall,Carlos Vicente,To Get a Card,0.5,5.5,0.1818,0.0363,0,0.0,0
-2026-11-03,Birmingham vs Millwall,Tomoki Iwata,To Get a Card,0.5,4.3,0.2326,0.1248,1,0.0,0
-2026-11-03,Birmingham vs Millwall,Jay Stansfield,To Get a Card,0.5,4.5,0.2222,0.1645,1,0.0,0
+2026-11-03,Birmingham vs Millwall,Carlos Vicente,To Get a Card,0.5,5.5,0.1818,0.0351,0,0.0,0
+2026-11-03,Birmingham vs Millwall,Tomoki Iwata,To Get a Card,0.5,4.3,0.2326,0.1249,1,0.0,0
+2026-11-03,Birmingham vs Millwall,Jay Stansfield,To Get a Card,0.5,4.5,0.2222,0.1679,1,0.0,0
 2026-11-03,Birmingham vs Millwall,Christoph Klarer,To Get a Card,0.5,4.0,0.25,0.1905,1,0.0,0
-2026-11-03,Birmingham vs Millwall,Liam Millar,To Get a Card,0.5,3.8,0.2632,0.1626,1,0.0,0
-2026-11-03,Birmingham vs Millwall,Patrick Roberts,To Get a Card,0.5,5.0,0.2,0.1192,1,0.0,0
-2026-11-03,Birmingham vs Millwall,Josh Coburn,To Get a Card,0.5,4.2,0.2381,0.0236,0,0.0,0
+2026-11-03,Birmingham vs Millwall,Liam Millar,To Get a Card,0.5,3.8,0.2632,0.163,1,0.0,0
+2026-11-03,Birmingham vs Millwall,Patrick Roberts,To Get a Card,0.5,5.0,0.2,0.1174,1,0.0,0
+2026-11-03,Birmingham vs Millwall,Josh Coburn,To Get a Card,0.5,4.2,0.2381,0.0234,0,0.0,0
 2026-11-03,Birmingham vs Millwall,Mark Sykes,To Get a Card,0.5,4.3,0.2326,0.0326,0,0.0,0
-2026-11-03,Birmingham vs Millwall,Derek Mazou-Sacko,Player's shots on target,0.5,3.05,0.3279,0.243,1,0.0,0
-2026-11-03,Birmingham vs Millwall,Jordi Osei-Tutu,To give an assist,0.5,7.5,0.1333,0.0291,1,0.0,0
-2026-11-03,Birmingham vs Millwall,Jhon Solís,Player's shots on target,0.5,3.2,0.3125,0.2552,1,1.0,1
+2026-11-03,Birmingham vs Millwall,Derek Mazou-Sacko,Player's shots on target,0.5,3.05,0.3279,0.2422,1,0.0,0
+2026-11-03,Birmingham vs Millwall,Jordi Osei-Tutu,To give an assist,0.5,7.5,0.1333,0.0289,1,0.0,0
+2026-11-03,Birmingham vs Millwall,Jhon Solís,Player's shots on target,0.5,3.2,0.3125,0.252,1,1.0,1
 2026-11-03,Birmingham vs Millwall,Mihailo Ivanović,To Get a Card,0.5,4.5,0.2222,0.083,1,0.0,0
-2026-11-03,Birmingham vs Millwall,Jake Cooper,To Get a Card,0.5,3.6,0.2778,0.1639,1,0.0,0
-2026-11-03,Birmingham vs Millwall,Jhon Solís,To Get a Card,0.5,4.8,0.2083,0.2058,1,0.0,0
+2026-11-03,Birmingham vs Millwall,Jake Cooper,To Get a Card,0.5,3.6,0.2778,0.1623,1,0.0,0
+2026-11-03,Birmingham vs Millwall,Jhon Solís,To Get a Card,0.5,4.8,0.2083,0.2037,1,0.0,0
 2026-11-03,Birmingham vs Millwall,Jordi Osei-Tutu,To Score,0.5,6.75,0.1481,0.0268,1,0.0,0
-2026-11-03,Birmingham vs Millwall,Josh Coburn,Player's shots on target,0.5,1.7,0.5882,0.1651,0,0.0,0
-2026-11-03,Birmingham vs Millwall,Derek Mazou-Sacko,To give an assist,0.5,6.75,0.1481,0.0605,1,0.0,0
-2026-11-03,Birmingham vs Millwall,Romain Esse,To Get a Card,0.5,4.5,0.2222,0.0301,0,0.0,0
+2026-11-03,Birmingham vs Millwall,Josh Coburn,Player's shots on target,0.5,1.7,0.5882,0.1639,0,0.0,0
+2026-11-03,Birmingham vs Millwall,Derek Mazou-Sacko,To give an assist,0.5,6.75,0.1481,0.0579,1,0.0,0
+2026-11-03,Birmingham vs Millwall,Romain Esse,To Get a Card,0.5,4.5,0.2222,0.029,0,0.0,0
 2026-11-03,Birmingham vs Millwall,Josh Coburn,To give an assist,0.5,4.7,0.2128,0.0054,0,0.0,0
-2026-11-03,Birmingham vs Millwall,Camiel Neghli,To give an assist,0.5,5.5,0.1818,0.1301,1,0.0,0
-2026-11-03,Birmingham vs Millwall,Phil Neumann,To Get a Card,0.5,4.5,0.2222,0.156,1,0.0,0
-2026-11-03,Birmingham vs Millwall,Mark Sykes,To give an assist,0.5,6.5,0.1538,0.0149,0,0.0,0
-2026-11-03,Birmingham vs Millwall,Kyrell Lisbie,To give an assist,0.5,4.7,0.2128,0.0616,1,0.0,0
-2026-11-03,Birmingham vs Millwall,Camiel Neghli,To Get a Card,0.5,4.0,0.25,0.0994,1,0.0,0
+2026-11-03,Birmingham vs Millwall,Camiel Neghli,To give an assist,0.5,5.5,0.1818,0.1303,1,0.0,0
+2026-11-03,Birmingham vs Millwall,Phil Neumann,To Get a Card,0.5,4.5,0.2222,0.1534,1,0.0,0
+2026-11-03,Birmingham vs Millwall,Mark Sykes,To give an assist,0.5,6.5,0.1538,0.0143,0,0.0,0
+2026-11-03,Birmingham vs Millwall,Kyrell Lisbie,To give an assist,0.5,4.7,0.2128,0.062,1,0.0,0
+2026-11-03,Birmingham vs Millwall,Camiel Neghli,To Get a Card,0.5,4.0,0.25,0.0995,1,0.0,0
 2026-11-03,Birmingham vs Millwall,Luis Vázquez,To give an assist,0.5,3.8,0.2632,0.0243,0,0.0,0
-2026-11-03,Birmingham vs Millwall,Scott Wright,To give an assist,0.5,7.0,0.1429,0.014,0,0.0,0
+2026-11-03,Birmingham vs Millwall,Scott Wright,To give an assist,0.5,7.0,0.1429,0.0141,0,0.0,0
 2026-11-03,Birmingham vs Millwall,Alex Cochrane,To Get a Card,0.5,4.0,0.25,0.1763,1,1.0,1
-2026-11-03,Birmingham vs Millwall,Marvin Ducksch,Player's shots on target,1.5,3.3,0.303,0.0157,0,0.0,0
-2026-11-03,Birmingham vs Millwall,Jordi Osei-Tutu,To Get a Card,0.5,3.6,0.2778,0.1206,1,1.0,1
+2026-11-03,Birmingham vs Millwall,Marvin Ducksch,Player's shots on target,1.5,3.3,0.303,0.0164,0,0.0,0
+2026-11-03,Birmingham vs Millwall,Jordi Osei-Tutu,To Get a Card,0.5,3.6,0.2778,0.1204,1,1.0,1
 2026-11-03,Birmingham vs Millwall,Alex Cochrane,To Score,0.5,8.0,0.125,0.0588,1,1.0,1
-2026-11-03,Birmingham vs Millwall,Alex Cochrane,To give an assist,0.5,5.2,0.1923,0.1282,1,0.0,0
-2026-11-03,Birmingham vs Millwall,Luis Vázquez,To Score,0.5,3.6,0.2778,0.0345,0,0.0,0
-2026-11-03,Birmingham vs Millwall,Liam Millar,To Score,0.5,3.7,0.2703,0.1831,1,0.0,0
-2026-11-03,Birmingham vs Millwall,Lyndon Dykes,Player's shots on target,0.5,2.05,0.4878,0.4207,1,0.0,0
-2026-11-03,Birmingham vs Millwall,Jake Cooper,Player's shots on target,0.5,2.8,0.3571,0.2257,1,1.0,1
-2026-11-03,Birmingham vs Millwall,Kyrell Lisbie,Player's shots on target,0.5,1.75,0.5714,0.4763,1,0.0,0
-2026-11-03,Birmingham vs Millwall,Josh Coburn,To Score,0.5,3.5,0.2857,0.0737,0,0.0,0
-2026-11-03,Birmingham vs Millwall,Jay Stansfield,To give an assist,0.5,3.4,0.2941,0.1069,1,0.0,0
-2026-11-03,Birmingham vs Millwall,Liam Millar,Player's shots on target,0.5,1.77,0.565,0.3998,1,0.0,0
-2026-11-03,Birmingham vs Millwall,Max Bird,To Get a Card,0.5,5.8,0.1724,0.0723,1,0.0,0
-2026-11-03,Birmingham vs Millwall,Lyndon Dykes,To give an assist,0.5,5.75,0.1739,0.118,1,0.0,0
+2026-11-03,Birmingham vs Millwall,Alex Cochrane,To give an assist,0.5,5.2,0.1923,0.1281,1,0.0,0
+2026-11-03,Birmingham vs Millwall,Luis Vázquez,To Score,0.5,3.6,0.2778,0.0346,0,0.0,0
+2026-11-03,Birmingham vs Millwall,Liam Millar,To Score,0.5,3.7,0.2703,0.1762,1,0.0,0
+2026-11-03,Birmingham vs Millwall,Lyndon Dykes,Player's shots on target,0.5,2.05,0.4878,0.4184,1,0.0,0
+2026-11-03,Birmingham vs Millwall,Jake Cooper,Player's shots on target,0.5,2.8,0.3571,0.2344,1,1.0,1
+2026-11-03,Birmingham vs Millwall,Kyrell Lisbie,Player's shots on target,0.5,1.75,0.5714,0.4755,1,0.0,0
+2026-11-03,Birmingham vs Millwall,Josh Coburn,To Score,0.5,3.5,0.2857,0.0732,0,0.0,0
+2026-11-03,Birmingham vs Millwall,Jay Stansfield,To give an assist,0.5,3.4,0.2941,0.1024,1,0.0,0
+2026-11-03,Birmingham vs Millwall,Liam Millar,Player's shots on target,0.5,1.77,0.565,0.3954,1,0.0,0
+2026-11-03,Birmingham vs Millwall,Max Bird,To Get a Card,0.5,5.8,0.1724,0.0709,1,0.0,0
+2026-11-03,Birmingham vs Millwall,Lyndon Dykes,To give an assist,0.5,5.75,0.1739,0.1125,1,0.0,0
 2026-11-03,Birmingham vs Millwall,Luis Vázquez,Player's shots on target,0.5,1.72,0.5814,0.113,0,0.0,0
-2026-11-03,Birmingham vs Millwall,Marvin Ducksch,To give an assist,0.5,4.0,0.25,0.0138,0,0.0,0
-2026-11-03,Birmingham vs Millwall,Patrick Roberts,Player's shots on target,0.5,2.2,0.4545,0.293,1,1.0,1
-2026-11-03,Birmingham vs Millwall,Carlos Vicente,To give an assist,0.5,3.4,0.2941,0.0172,0,0.0,0
-2026-11-03,Birmingham vs Millwall,Jay Stansfield,To score at least 2 goals,1.5,16.0,0.0625,0.0096,1,1.0,0
-2026-11-03,Birmingham vs Millwall,Jay Stansfield,To Score,0.5,3.4,0.2941,0.1353,1,1.0,1
-2026-11-03,Birmingham vs Millwall,Lyndon Dykes,To score at least 2 goals,1.5,29.0,0.0345,0.0214,1,0.0,0
-2026-11-03,Birmingham vs Millwall,Carlos Vicente,Player's shots on target,0.5,1.85,0.5405,0.1213,0,0.0,0
-2026-11-03,Birmingham vs Millwall,Romain Esse,To Score,0.5,5.2,0.1923,0.0333,0,0.0,0
-2026-11-03,Birmingham vs Millwall,Jake Cooper,To Score,0.5,6.5,0.1538,0.0869,1,0.0,0
-2026-11-03,Birmingham vs Millwall,Phil Neumann,To Score,0.5,10.0,0.1,0.0867,1,0.0,0
+2026-11-03,Birmingham vs Millwall,Marvin Ducksch,To give an assist,0.5,4.0,0.25,0.0217,0,0.0,0
+2026-11-03,Birmingham vs Millwall,Patrick Roberts,Player's shots on target,0.5,2.2,0.4545,0.2883,1,1.0,1
+2026-11-03,Birmingham vs Millwall,Carlos Vicente,To give an assist,0.5,3.4,0.2941,0.0183,0,0.0,0
+2026-11-03,Birmingham vs Millwall,Jay Stansfield,To score at least 2 goals,1.5,16.0,0.0625,0.011,1,1.0,0
+2026-11-03,Birmingham vs Millwall,Jay Stansfield,To Score,0.5,3.4,0.2941,0.1447,1,1.0,1
+2026-11-03,Birmingham vs Millwall,Lyndon Dykes,To score at least 2 goals,1.5,29.0,0.0345,0.0237,1,0.0,0
+2026-11-03,Birmingham vs Millwall,Carlos Vicente,Player's shots on target,0.5,1.85,0.5405,0.1206,0,0.0,0
+2026-11-03,Birmingham vs Millwall,Romain Esse,To Score,0.5,5.2,0.1923,0.0336,0,0.0,0
+2026-11-03,Birmingham vs Millwall,Jake Cooper,To Score,0.5,6.5,0.1538,0.0893,1,0.0,0
+2026-11-03,Birmingham vs Millwall,Phil Neumann,To Score,0.5,10.0,0.1,0.0905,1,0.0,0
 2026-11-03,Birmingham vs Millwall,Demarai Gray,To score at least 2 goals,1.5,15.0,0.0667,0.0016,0,0.0,0
-2026-11-03,Birmingham vs Millwall,Daniel Kelly,To Score,0.5,7.0,0.1429,0.0228,0,0.0,0
-2026-11-03,Birmingham vs Millwall,Mihailo Ivanović,To Score,0.5,4.1,0.2439,0.2399,1,0.0,0
-2026-11-03,Birmingham vs Millwall,Mark Sykes,To Score,0.5,8.0,0.125,0.0355,0,0.0,0
-2026-11-03,Birmingham vs Millwall,Luke Cundle,To Score,0.5,8.5,0.1176,0.1752,1,0.0,0
-2026-11-03,Birmingham vs Millwall,Patrick Roberts,To score at least 2 goals,1.5,35.0,0.0286,0.0036,1,0.0,0
-2026-11-03,Birmingham vs Millwall,Danny Batth,To Score,0.5,12.5,0.08,0.0187,0,0.0,0
-2026-11-03,Birmingham vs Millwall,Liam Millar,To give an assist,0.5,4.4,0.2273,0.1655,1,0.0,0
-2026-11-03,Birmingham vs Millwall,Marvin Ducksch,To Score,0.5,3.1,0.3226,0.0596,0,0.0,0
-2026-11-03,Birmingham vs Millwall,Ethan Laird,To Get a Card,0.5,4.2,0.2381,0.1786,1,0.0,0
-2026-11-03,Birmingham vs Millwall,Jay Stansfield,Player's shots on target,0.5,1.62,0.6173,0.4955,1,4.0,1
-2026-11-03,Birmingham vs Millwall,Camiel Neghli,Player's shots on target,0.5,2.3,0.4348,0.3661,1,0.0,0
-2026-11-03,Birmingham vs Millwall,Patrick Roberts,To Score,0.5,4.8,0.2083,0.0838,1,0.0,0
-2026-11-03,Birmingham vs Millwall,Demarai Gray,Player's shots on target,0.5,1.6,0.625,0.1595,0,0.0,0
-2026-11-03,Birmingham vs Millwall,Alex Cochrane,Player's shots on target,0.5,3.4,0.2941,0.159,1,1.0,1
-2026-11-03,Birmingham vs Millwall,Marvin Ducksch,To score at least 2 goals,1.5,14.0,0.0714,0.0018,0,0.0,0
+2026-11-03,Birmingham vs Millwall,Daniel Kelly,To Score,0.5,7.0,0.1429,0.0229,0,0.0,0
+2026-11-03,Birmingham vs Millwall,Mihailo Ivanović,To Score,0.5,4.1,0.2439,0.2401,1,0.0,0
+2026-11-03,Birmingham vs Millwall,Mark Sykes,To Score,0.5,8.0,0.125,0.0341,0,0.0,0
+2026-11-03,Birmingham vs Millwall,Luke Cundle,To Score,0.5,8.5,0.1176,0.1834,1,0.0,0
+2026-11-03,Birmingham vs Millwall,Patrick Roberts,To score at least 2 goals,1.5,35.0,0.0286,0.0035,1,0.0,0
+2026-11-03,Birmingham vs Millwall,Danny Batth,To Score,0.5,12.5,0.08,0.0184,0,0.0,0
+2026-11-03,Birmingham vs Millwall,Liam Millar,To give an assist,0.5,4.4,0.2273,0.1659,1,0.0,0
+2026-11-03,Birmingham vs Millwall,Marvin Ducksch,To Score,0.5,3.1,0.3226,0.0611,0,0.0,0
+2026-11-03,Birmingham vs Millwall,Ethan Laird,To Get a Card,0.5,4.2,0.2381,0.1873,1,0.0,0
+2026-11-03,Birmingham vs Millwall,Jay Stansfield,Player's shots on target,0.5,1.62,0.6173,0.4882,1,4.0,1
+2026-11-03,Birmingham vs Millwall,Camiel Neghli,Player's shots on target,0.5,2.3,0.4348,0.3657,1,0.0,0
+2026-11-03,Birmingham vs Millwall,Patrick Roberts,To Score,0.5,4.8,0.2083,0.0823,1,0.0,0
+2026-11-03,Birmingham vs Millwall,Demarai Gray,Player's shots on target,0.5,1.6,0.625,0.1596,0,0.0,0
+2026-11-03,Birmingham vs Millwall,Alex Cochrane,Player's shots on target,0.5,3.4,0.2941,0.1588,1,1.0,1
+2026-11-03,Birmingham vs Millwall,Marvin Ducksch,To score at least 2 goals,1.5,14.0,0.0714,0.0019,0,0.0,0
 2026-11-03,Birmingham vs Millwall,Luis Vázquez,To score at least 2 goals,1.5,19.0,0.0526,0.0006,0,0.0,0
-2026-11-03,Birmingham vs Millwall,Josh Coburn,To score at least 2 goals,1.5,18.0,0.0556,0.0028,0,0.0,0
-2026-11-03,Birmingham vs Millwall,Marvin Ducksch,Player's shots on target,0.5,1.55,0.6452,0.1719,0,0.0,0
-2026-11-03,Birmingham vs Millwall,Romain Esse,To give an assist,0.5,6.25,0.16,0.0182,0,0.0,0
-2026-11-03,Birmingham vs Millwall,Bright Osayi-Samuel,To Score,0.5,10.5,0.0952,0.0136,0,0.0,0
-2026-11-03,Birmingham vs Millwall,Caleb Taylor,To Get a Card,0.5,3.7,0.2703,0.0713,1,0.0,0
-2026-11-03,Birmingham vs Millwall,Mihailo Ivanović,Player's shots on target,0.5,1.92,0.5208,0.5622,1,0.0,0
+2026-11-03,Birmingham vs Millwall,Josh Coburn,To score at least 2 goals,1.5,18.0,0.0556,0.0027,0,0.0,0
+2026-11-03,Birmingham vs Millwall,Marvin Ducksch,Player's shots on target,0.5,1.55,0.6452,0.1756,0,0.0,0
+2026-11-03,Birmingham vs Millwall,Romain Esse,To give an assist,0.5,6.25,0.16,0.0175,0,0.0,0
+2026-11-03,Birmingham vs Millwall,Bright Osayi-Samuel,To Score,0.5,10.5,0.0952,0.0137,0,0.0,0
+2026-11-03,Birmingham vs Millwall,Caleb Taylor,To Get a Card,0.5,3.7,0.2703,0.0708,1,0.0,0
+2026-11-03,Birmingham vs Millwall,Mihailo Ivanović,Player's shots on target,0.5,1.92,0.5208,0.5623,1,0.0,0
 2026-11-03,Birmingham vs Millwall,Marvin Ducksch,To score at least 3 goals,2.5,71.0,0.0141,0.0,0,0.0,0
-2026-11-03,Birmingham vs Millwall,Scott Wright,Player's shots on target,0.5,2.5,0.4,0.0872,0,0.0,0
+2026-11-03,Birmingham vs Millwall,Scott Wright,Player's shots on target,0.5,2.5,0.4,0.0873,0,0.0,0
 2026-11-03,Birmingham vs Millwall,Zak Sturge,To Score,0.5,10.0,0.1,0.0196,1,0.0,0
-2026-11-03,Birmingham vs Millwall,Kyrell Lisbie,To Score,0.5,3.6,0.2778,0.202,1,0.0,0
-2026-11-03,Birmingham vs Millwall,Zak Sturge,To Get a Card,0.5,3.7,0.2703,0.1923,1,0.0,0
-2026-11-03,Birmingham vs Millwall,Lyndon Dykes,To Get a Card,0.5,4.8,0.2083,0.1766,1,0.0,0
+2026-11-03,Birmingham vs Millwall,Kyrell Lisbie,To Score,0.5,3.6,0.2778,0.2018,1,0.0,0
+2026-11-03,Birmingham vs Millwall,Zak Sturge,To Get a Card,0.5,3.7,0.2703,0.1919,1,0.0,0
+2026-11-03,Birmingham vs Millwall,Lyndon Dykes,To Get a Card,0.5,4.8,0.2083,0.193,1,0.0,0
 2026-11-03,Birmingham vs Millwall,Daniel Kelly,To Get a Card,0.5,3.7,0.2703,0.019,0,0.0,0
-2026-11-03,Birmingham vs Millwall,Lyndon Dykes,To Score,0.5,4.5,0.2222,0.1997,1,0.0,0
+2026-11-03,Birmingham vs Millwall,Lyndon Dykes,To Score,0.5,4.5,0.2222,0.2097,1,0.0,0
 2026-11-03,Birmingham vs Millwall,Bright Osayi-Samuel,To Get a Card,0.5,4.0,0.25,0.0532,0,0.0,0
 2026-11-03,Birmingham vs Millwall,Christoph Klarer,To Score,0.5,9.5,0.1053,0.0449,1,0.0,0
-2026-11-03,Birmingham vs Millwall,Ethan Laird,To Score,0.5,9.5,0.1053,0.0208,1,0.0,0
-2026-11-03,Birmingham vs Millwall,Tomoki Iwata,To Score,0.5,7.5,0.1333,0.0645,1,0.0,0
-2026-11-03,Birmingham vs Millwall,Demarai Gray,To Score,0.5,3.3,0.303,0.0565,0,0.0,0
+2026-11-03,Birmingham vs Millwall,Ethan Laird,To Score,0.5,9.5,0.1053,0.0182,1,0.0,0
+2026-11-03,Birmingham vs Millwall,Tomoki Iwata,To Score,0.5,7.5,0.1333,0.0644,1,0.0,0
+2026-11-03,Birmingham vs Millwall,Demarai Gray,To Score,0.5,3.3,0.303,0.0566,0,0.0,0
 2026-11-03,Birmingham vs Millwall,Kyrell Lisbie,To score at least 2 goals,1.5,19.0,0.0526,0.0219,1,0.0,0
-2026-11-03,West Brom vs Southampton,Nathaniel Phillips,To Score,0.5,10.0,0.1,0.0188,0,0.0,0
+2026-11-03,West Brom vs Southampton,Nathaniel Phillips,To Score,0.5,10.0,0.1,0.0193,0,0.0,0
 2026-11-03,West Brom vs Southampton,Zach Abbott,To Get a Card,0.5,3.3,0.303,0.0315,0,0.0,0
-2026-11-03,West Brom vs Southampton,Felix Horn Myhre,Player's shots on target,0.5,2.8,0.3571,0.3475,1,0.0,0
-2026-11-03,West Brom vs Southampton,Rabby Nzingoula,To Score,0.5,9.0,0.1111,0.0736,1,0.0,0
-2026-11-03,West Brom vs Southampton,Jayson Molumby,To Score,0.5,7.0,0.1429,0.0698,1,0.0,0
+2026-11-03,West Brom vs Southampton,Felix Horn Myhre,Player's shots on target,0.5,2.8,0.3571,0.3477,1,0.0,0
+2026-11-03,West Brom vs Southampton,Rabby Nzingoula,To Score,0.5,9.0,0.1111,0.0636,1,0.0,0
+2026-11-03,West Brom vs Southampton,Jayson Molumby,To Score,0.5,7.0,0.1429,0.0691,1,0.0,0
 2026-11-03,West Brom vs Southampton,Barney Stewart,To score at least 2 goals,1.5,14.0,0.0714,0.0007,0,0.0,0
-2026-11-03,West Brom vs Southampton,Barney Stewart,To Score,0.5,3.1,0.3226,0.037,0,0.0,0
-2026-11-03,West Brom vs Southampton,Felix Horn Myhre,To Score,0.5,6.5,0.1538,0.1765,1,0.0,0
-2026-11-03,West Brom vs Southampton,Finn Azaz,To Score,0.5,3.8,0.2632,0.199,1,0.0,0
-2026-11-03,West Brom vs Southampton,Cameron Bragg,To Score,0.5,7.0,0.1429,0.0279,0,0.0,0
-2026-11-03,West Brom vs Southampton,Ousmane Diakité,To Get a Card,0.5,3.1,0.3226,0.2081,1,0.0,0
-2026-11-03,West Brom vs Southampton,Flynn Downes,To Get a Card,0.5,2.85,0.3509,0.267,1,1.0,1
-2026-11-03,West Brom vs Southampton,James Ward-Prowse,To Get a Card,0.5,3.8,0.2632,0.1016,1,0.0,0
-2026-11-03,West Brom vs Southampton,Ousmane Diakité,To give an assist,0.5,7.5,0.1333,0.0283,1,0.0,0
+2026-11-03,West Brom vs Southampton,Barney Stewart,To Score,0.5,3.1,0.3226,0.0372,0,0.0,0
+2026-11-03,West Brom vs Southampton,Felix Horn Myhre,To Score,0.5,6.5,0.1538,0.177,1,0.0,0
+2026-11-03,West Brom vs Southampton,Finn Azaz,To Score,0.5,3.8,0.2632,0.1985,1,0.0,0
+2026-11-03,West Brom vs Southampton,Cameron Bragg,To Score,0.5,7.0,0.1429,0.028,0,0.0,0
+2026-11-03,West Brom vs Southampton,Ousmane Diakité,To Get a Card,0.5,3.1,0.3226,0.2077,1,0.0,0
+2026-11-03,West Brom vs Southampton,Flynn Downes,To Get a Card,0.5,2.85,0.3509,0.2688,1,1.0,1
+2026-11-03,West Brom vs Southampton,James Ward-Prowse,To Get a Card,0.5,3.8,0.2632,0.0976,1,0.0,0
+2026-11-03,West Brom vs Southampton,Ousmane Diakité,To give an assist,0.5,7.5,0.1333,0.0285,1,0.0,0
 2026-11-03,West Brom vs Southampton,Barney Stewart,To Get a Card,0.5,3.7,0.2703,0.0209,0,0.0,0
-2026-11-03,West Brom vs Southampton,Isaac Price,To Get a Card,0.5,3.7,0.2703,0.1146,1,0.0,0
+2026-11-03,West Brom vs Southampton,Isaac Price,To Get a Card,0.5,3.7,0.2703,0.1147,1,0.0,0
 2026-11-03,West Brom vs Southampton,Felix Horn Myhre,To Get a Card,0.5,3.6,0.2778,0.0777,1,0.0,0
-2026-11-03,West Brom vs Southampton,Felix Horn Myhre,To give an assist,0.5,6.0,0.1667,0.128,1,0.0,0
-2026-11-03,West Brom vs Southampton,Jayson Molumby,To Get a Card,0.5,3.2,0.3125,0.1804,1,0.0,0
-2026-11-03,West Brom vs Southampton,Keven Schlotterbeck,To give an assist,0.5,7.5,0.1333,0.028,1,0.0,0
+2026-11-03,West Brom vs Southampton,Felix Horn Myhre,To give an assist,0.5,6.0,0.1667,0.1282,1,0.0,0
+2026-11-03,West Brom vs Southampton,Jayson Molumby,To Get a Card,0.5,3.2,0.3125,0.1817,1,0.0,0
+2026-11-03,West Brom vs Southampton,Keven Schlotterbeck,To give an assist,0.5,7.5,0.1333,0.033,1,0.0,0
 2026-11-03,West Brom vs Southampton,George Campbell,To Score,0.5,10.0,0.1,0.0686,1,0.0,0
-2026-11-03,West Brom vs Southampton,Callum Styles,To Get a Card,0.5,3.5,0.2857,0.1868,1,1.0,1
-2026-11-03,West Brom vs Southampton,Nathan Wood,To Score,0.5,10.0,0.1,0.0157,0,0.0,0
-2026-11-03,West Brom vs Southampton,Keven Schlotterbeck,Player's shots on target,0.5,3.3,0.303,0.1759,1,0.0,0
-2026-11-03,West Brom vs Southampton,Chris Mepham,To Get a Card,0.5,3.1,0.3226,0.1904,1,0.0,0
-2026-11-03,West Brom vs Southampton,Keven Schlotterbeck,To Get a Card,0.5,2.8,0.3571,0.1604,1,0.0,0
-2026-11-03,West Brom vs Southampton,Nathaniel Phillips,To Get a Card,0.5,3.2,0.3125,0.0439,0,0.0,0
-2026-11-03,West Brom vs Southampton,Nathan Wood,To Get a Card,0.5,3.1,0.3226,0.0422,0,0.0,0
-2026-11-03,West Brom vs Southampton,Harry Whitwell,To Get a Card,0.5,3.9,0.2564,0.0456,0,0.0,0
-2026-11-03,West Brom vs Southampton,James Bree,To Get a Card,0.5,3.3,0.303,0.1539,1,0.0,0
-2026-11-03,West Brom vs Southampton,Samuel Edozie,To Get a Card,0.5,3.3,0.303,0.0976,1,0.0,0
-2026-11-03,West Brom vs Southampton,Brayann Pereira,To Get a Card,0.5,3.6,0.2778,0.1443,1,0.0,0
-2026-11-03,West Brom vs Southampton,George Campbell,To Get a Card,0.5,3.4,0.2941,0.171,1,0.0,0
-2026-11-03,West Brom vs Southampton,Finn Azaz,To Get a Card,0.5,3.4,0.2941,0.1449,1,0.0,0
-2026-11-03,West Brom vs Southampton,Harry Whitwell,Player's shots on target,0.5,2.7,0.3704,0.0674,0,0.0,0
-2026-11-03,West Brom vs Southampton,Jimmy Morgan,To score at least 2 goals,1.5,10.0,0.1,0.0269,1,0.0,0
-2026-11-03,West Brom vs Southampton,Rabby Nzingoula,To give an assist,0.5,7.0,0.1429,0.0878,1,0.0,0
-2026-11-03,West Brom vs Southampton,Ousmane Diakité,To Score,0.5,8.0,0.125,0.0426,1,0.0,0
-2026-11-03,West Brom vs Southampton,Zach Abbott,To Score,0.5,11.0,0.0909,0.024,0,0.0,0
-2026-11-03,West Brom vs Southampton,Jayson Molumby,To give an assist,0.5,7.0,0.1429,0.0569,1,0.0,0
-2026-11-03,West Brom vs Southampton,Nathaniel Phillips,Player's shots on target,0.5,4.5,0.2222,0.0641,0,0.0,0
-2026-11-03,West Brom vs Southampton,Chris Mepham,Player's shots on target,0.5,4.6,0.2174,0.1408,1,0.0,0
-2026-11-03,West Brom vs Southampton,Jack Stephens,To Score,0.5,11.0,0.0909,0.0399,1,0.0,0
-2026-11-03,West Brom vs Southampton,Jayson Molumby,Player's shots on target,0.5,3.1,0.3226,0.2576,1,1.0,1
+2026-11-03,West Brom vs Southampton,Callum Styles,To Get a Card,0.5,3.5,0.2857,0.1862,1,1.0,1
+2026-11-03,West Brom vs Southampton,Nathan Wood,To Score,0.5,10.0,0.1,0.0156,0,0.0,0
+2026-11-03,West Brom vs Southampton,Keven Schlotterbeck,Player's shots on target,0.5,3.3,0.303,0.1774,1,0.0,0
+2026-11-03,West Brom vs Southampton,Chris Mepham,To Get a Card,0.5,3.1,0.3226,0.1903,1,0.0,0
+2026-11-03,West Brom vs Southampton,Keven Schlotterbeck,To Get a Card,0.5,2.8,0.3571,0.1691,1,0.0,0
+2026-11-03,West Brom vs Southampton,Nathaniel Phillips,To Get a Card,0.5,3.2,0.3125,0.0437,0,0.0,0
+2026-11-03,West Brom vs Southampton,Nathan Wood,To Get a Card,0.5,3.1,0.3226,0.0417,0,0.0,0
+2026-11-03,West Brom vs Southampton,Harry Whitwell,To Get a Card,0.5,3.9,0.2564,0.0457,0,0.0,0
+2026-11-03,West Brom vs Southampton,James Bree,To Get a Card,0.5,3.3,0.303,0.1531,1,0.0,0
+2026-11-03,West Brom vs Southampton,Samuel Edozie,To Get a Card,0.5,3.3,0.303,0.1114,1,0.0,0
+2026-11-03,West Brom vs Southampton,Brayann Pereira,To Get a Card,0.5,3.6,0.2778,0.1442,1,0.0,0
+2026-11-03,West Brom vs Southampton,George Campbell,To Get a Card,0.5,3.4,0.2941,0.1709,1,0.0,0
+2026-11-03,West Brom vs Southampton,Finn Azaz,To Get a Card,0.5,3.4,0.2941,0.144,1,0.0,0
+2026-11-03,West Brom vs Southampton,Harry Whitwell,Player's shots on target,0.5,2.7,0.3704,0.0675,0,0.0,0
+2026-11-03,West Brom vs Southampton,Jimmy Morgan,To score at least 2 goals,1.5,10.0,0.1,0.027,1,0.0,0
+2026-11-03,West Brom vs Southampton,Rabby Nzingoula,To give an assist,0.5,7.0,0.1429,0.0764,1,0.0,0
+2026-11-03,West Brom vs Southampton,Ousmane Diakité,To Score,0.5,8.0,0.125,0.0424,1,0.0,0
+2026-11-03,West Brom vs Southampton,Zach Abbott,To Score,0.5,11.0,0.0909,0.0242,0,0.0,0
+2026-11-03,West Brom vs Southampton,Jayson Molumby,To give an assist,0.5,7.0,0.1429,0.0565,1,0.0,0
+2026-11-03,West Brom vs Southampton,Nathaniel Phillips,Player's shots on target,0.5,4.5,0.2222,0.0649,0,0.0,0
+2026-11-03,West Brom vs Southampton,Chris Mepham,Player's shots on target,0.5,4.6,0.2174,0.1406,1,0.0,0
+2026-11-03,West Brom vs Southampton,Jack Stephens,To Score,0.5,11.0,0.0909,0.0379,1,0.0,0
+2026-11-03,West Brom vs Southampton,Jayson Molumby,Player's shots on target,0.5,3.1,0.3226,0.2575,1,1.0,1
 2026-11-03,West Brom vs Southampton,Brayann Pereira,To Score,0.5,11.0,0.0909,0.0187,1,0.0,0
-2026-11-03,West Brom vs Southampton,Kuryu Matsuki,To Score,0.5,3.6,0.2778,0.2178,1,0.0,0
-2026-11-03,West Brom vs Southampton,Kuryu Matsuki,To score at least 2 goals,1.5,21.0,0.0476,0.0257,1,0.0,0
-2026-11-03,West Brom vs Southampton,Jimmy Morgan,To give an assist,0.5,4.5,0.2222,0.1828,1,0.0,0
-2026-11-03,West Brom vs Southampton,Tom Fellows,To Get a Card,0.5,3.9,0.2564,0.0245,0,0.0,0
-2026-11-03,West Brom vs Southampton,Kuryu Matsuki,To give an assist,0.5,4.8,0.2083,0.0827,1,0.0,0
-2026-11-03,West Brom vs Southampton,James Ward-Prowse,Player's shots on target,0.5,3.3,0.303,0.2851,1,0.0,0
-2026-11-03,West Brom vs Southampton,Ryan Manning,To give an assist,0.5,5.75,0.1739,0.1409,1,0.0,0
-2026-11-03,West Brom vs Southampton,Barney Stewart,Player's shots on target,0.5,1.54,0.6494,0.1019,0,0.0,0
-2026-11-03,West Brom vs Southampton,Samuel Edozie,To give an assist,0.5,4.1,0.2439,0.1645,1,0.0,0
-2026-11-03,West Brom vs Southampton,James Ward-Prowse,To give an assist,0.5,5.2,0.1923,0.0873,1,0.0,0
-2026-11-03,West Brom vs Southampton,Isaac Price,To give an assist,0.5,4.0,0.25,0.0777,1,0.0,0
+2026-11-03,West Brom vs Southampton,Kuryu Matsuki,To Score,0.5,3.6,0.2778,0.2177,1,0.0,0
+2026-11-03,West Brom vs Southampton,Kuryu Matsuki,To score at least 2 goals,1.5,21.0,0.0476,0.0256,1,0.0,0
+2026-11-03,West Brom vs Southampton,Jimmy Morgan,To give an assist,0.5,4.5,0.2222,0.1829,1,0.0,0
+2026-11-03,West Brom vs Southampton,Tom Fellows,To Get a Card,0.5,3.9,0.2564,0.0239,0,0.0,0
+2026-11-03,West Brom vs Southampton,Kuryu Matsuki,To give an assist,0.5,4.8,0.2083,0.0829,1,0.0,0
+2026-11-03,West Brom vs Southampton,James Ward-Prowse,Player's shots on target,0.5,3.3,0.303,0.2872,1,0.0,0
+2026-11-03,West Brom vs Southampton,Ryan Manning,To give an assist,0.5,5.75,0.1739,0.1386,1,0.0,0
+2026-11-03,West Brom vs Southampton,Barney Stewart,Player's shots on target,0.5,1.54,0.6494,0.102,0,0.0,0
+2026-11-03,West Brom vs Southampton,Samuel Edozie,To give an assist,0.5,4.1,0.2439,0.1504,1,0.0,0
+2026-11-03,West Brom vs Southampton,James Ward-Prowse,To give an assist,0.5,5.2,0.1923,0.0839,1,0.0,0
+2026-11-03,West Brom vs Southampton,Isaac Price,To give an assist,0.5,4.0,0.25,0.0779,1,0.0,0
 2026-11-03,West Brom vs Southampton,Harry Whitwell,To give an assist,0.5,5.5,0.1818,0.0185,0,0.0,0
-2026-11-03,West Brom vs Southampton,Jimmy Morgan,Player's shots on target,0.5,1.34,0.7463,0.4211,1,0.0,0
-2026-11-03,West Brom vs Southampton,Kuryu Matsuki,Player's shots on target,0.5,1.82,0.5495,0.3865,1,0.0,0
-2026-11-03,West Brom vs Southampton,Finn Azaz,To give an assist,0.5,4.0,0.25,0.1958,1,0.0,0
-2026-11-03,West Brom vs Southampton,Callum Styles,To Score,0.5,9.5,0.1053,0.074,1,0.0,0
-2026-11-03,West Brom vs Southampton,Samuel Edozie,Player's shots on target,0.5,2.1,0.4762,0.3687,1,1.0,1
-2026-11-03,West Brom vs Southampton,Finn Azaz,Player's shots on target,0.5,1.87,0.5348,0.4734,1,1.0,1
-2026-11-03,West Brom vs Southampton,Keven Schlotterbeck,To Score,0.5,7.0,0.1429,0.06,1,0.0,0
+2026-11-03,West Brom vs Southampton,Jimmy Morgan,Player's shots on target,0.5,1.34,0.7463,0.4213,1,0.0,0
+2026-11-03,West Brom vs Southampton,Kuryu Matsuki,Player's shots on target,0.5,1.82,0.5495,0.386,1,0.0,0
+2026-11-03,West Brom vs Southampton,Finn Azaz,To give an assist,0.5,4.0,0.25,0.201,1,0.0,0
+2026-11-03,West Brom vs Southampton,Callum Styles,To Score,0.5,9.5,0.1053,0.0728,1,0.0,0
+2026-11-03,West Brom vs Southampton,Samuel Edozie,Player's shots on target,0.5,2.1,0.4762,0.3395,1,1.0,1
+2026-11-03,West Brom vs Southampton,Finn Azaz,Player's shots on target,0.5,1.87,0.5348,0.4777,1,1.0,1
+2026-11-03,West Brom vs Southampton,Keven Schlotterbeck,To Score,0.5,7.0,0.1429,0.0636,1,0.0,0
 2026-11-03,West Brom vs Southampton,Chris Mepham,To Score,0.5,10.5,0.0952,0.0345,1,0.0,0
-2026-11-03,West Brom vs Southampton,Samuel Edozie,To score at least 2 goals,1.5,26.0,0.0385,0.0022,1,1.0,0
-2026-11-03,West Brom vs Southampton,Samuel Edozie,To Score,0.5,4.3,0.2326,0.0662,1,1.0,1
-2026-11-03,West Brom vs Southampton,Ryan Manning,To Score,0.5,6.25,0.16,0.107,1,0.0,0
-2026-11-03,West Brom vs Southampton,James Ward-Prowse,To Score,0.5,7.5,0.1333,0.0694,1,0.0,0
-2026-11-03,West Brom vs Southampton,Tom Fellows,To Score,0.5,5.3,0.1887,0.0228,0,0.0,0
-2026-11-03,West Brom vs Southampton,Harry Whitwell,To Score,0.5,6.0,0.1667,0.0293,0,0.0,0
-2026-11-03,West Brom vs Southampton,Brayann Pereira,Player's shots on target,0.5,4.6,0.2174,0.0865,1,0.0,0
+2026-11-03,West Brom vs Southampton,Samuel Edozie,To score at least 2 goals,1.5,26.0,0.0385,0.0018,1,1.0,0
+2026-11-03,West Brom vs Southampton,Samuel Edozie,To Score,0.5,4.3,0.2326,0.0599,1,1.0,1
+2026-11-03,West Brom vs Southampton,Ryan Manning,To Score,0.5,6.25,0.16,0.1053,1,0.0,0
+2026-11-03,West Brom vs Southampton,James Ward-Prowse,To Score,0.5,7.5,0.1333,0.0777,1,0.0,0
+2026-11-03,West Brom vs Southampton,Tom Fellows,To Score,0.5,5.3,0.1887,0.0222,0,0.0,0
+2026-11-03,West Brom vs Southampton,Harry Whitwell,To Score,0.5,6.0,0.1667,0.0294,0,0.0,0
+2026-11-03,West Brom vs Southampton,Brayann Pereira,Player's shots on target,0.5,4.6,0.2174,0.0862,1,0.0,0
 2026-11-03,West Brom vs Southampton,Barney Stewart,To give an assist,0.5,4.6,0.2174,0.0113,0,0.0,0
-2026-11-03,West Brom vs Southampton,Callum Styles,Player's shots on target,0.5,4.0,0.25,0.2181,1,0.0,0
-2026-11-03,West Brom vs Southampton,Tom Fellows,To give an assist,0.5,4.6,0.2174,0.038,0,0.0,0
-2026-11-03,West Brom vs Southampton,Ryan Manning,Player's shots on target,0.5,2.85,0.3509,0.2266,1,0.0,0
+2026-11-03,West Brom vs Southampton,Callum Styles,Player's shots on target,0.5,4.0,0.25,0.217,1,0.0,0
+2026-11-03,West Brom vs Southampton,Tom Fellows,To give an assist,0.5,4.6,0.2174,0.0393,0,0.0,0
+2026-11-03,West Brom vs Southampton,Ryan Manning,Player's shots on target,0.5,2.85,0.3509,0.223,1,0.0,0
 2026-11-03,West Brom vs Southampton,Isaac Price,To score at least 2 goals,1.5,19.0,0.0526,0.0163,1,1.0,0
-2026-11-03,West Brom vs Southampton,Isaac Price,To Score,0.5,3.5,0.2857,0.1751,1,1.0,1
-2026-11-03,West Brom vs Southampton,Tom Fellows,Player's shots on target,0.5,2.45,0.4082,0.0669,0,0.0,0
-2026-11-03,West Brom vs Southampton,Flynn Downes,To Score,0.5,11.0,0.0909,0.0723,1,0.0,0
-2026-11-03,West Brom vs Southampton,Isaac Price,Player's shots on target,0.5,1.73,0.578,0.5209,1,3.0,1
-2026-11-03,West Brom vs Southampton,Keven Schlotterbeck,To score at least 2 goals,1.5,67.0,0.0149,0.0018,1,0.0,0
-2026-11-03,West Brom vs Southampton,George Campbell,Player's shots on target,0.5,4.3,0.2326,0.1701,1,0.0,0
-2026-11-03,West Brom vs Southampton,Jimmy Morgan,To Score,0.5,2.6,0.3846,0.2228,1,0.0,0
-2026-11-03,West Brom vs Southampton,Kuryu Matsuki,To Get a Card,0.5,3.3,0.303,0.1031,1,0.0,0
-2026-11-03,West Brom vs Southampton,Jack Stephens,To Get a Card,0.5,3.0,0.3333,0.1254,1,0.0,0
-2026-11-03,West Brom vs Southampton,Ryan Manning,To score at least 2 goals,1.5,56.0,0.0179,0.0059,1,0.0,0
-2026-11-03,West Brom vs Southampton,Rabby Nzingoula,To Get a Card,0.5,3.3,0.303,0.2162,1,1.0,1
+2026-11-03,West Brom vs Southampton,Isaac Price,To Score,0.5,3.5,0.2857,0.175,1,1.0,1
+2026-11-03,West Brom vs Southampton,Tom Fellows,Player's shots on target,0.5,2.45,0.4082,0.0665,0,0.0,0
+2026-11-03,West Brom vs Southampton,Flynn Downes,To Score,0.5,11.0,0.0909,0.0725,1,0.0,0
+2026-11-03,West Brom vs Southampton,Isaac Price,Player's shots on target,0.5,1.73,0.578,0.5207,1,3.0,1
+2026-11-03,West Brom vs Southampton,Keven Schlotterbeck,To score at least 2 goals,1.5,67.0,0.0149,0.0021,1,0.0,0
+2026-11-03,West Brom vs Southampton,George Campbell,Player's shots on target,0.5,4.3,0.2326,0.17,1,0.0,0
+2026-11-03,West Brom vs Southampton,Jimmy Morgan,To Score,0.5,2.6,0.3846,0.2232,1,0.0,0
+2026-11-03,West Brom vs Southampton,Kuryu Matsuki,To Get a Card,0.5,3.3,0.303,0.1033,1,0.0,0
+2026-11-03,West Brom vs Southampton,Jack Stephens,To Get a Card,0.5,3.0,0.3333,0.1273,1,0.0,0
+2026-11-03,West Brom vs Southampton,Ryan Manning,To score at least 2 goals,1.5,56.0,0.0179,0.0057,1,0.0,0
+2026-11-03,West Brom vs Southampton,Rabby Nzingoula,To Get a Card,0.5,3.3,0.303,0.232,1,1.0,1
 2026-11-03,West Brom vs Southampton,Jimmy Morgan,To Get a Card,0.5,3.7,0.2703,0.1806,1,0.0,0
 2026-11-03,West Brom vs Southampton,Cameron Bragg,To give an assist,0.5,6.5,0.1538,0.0159,0,0.0,0
-2026-11-03,West Brom vs Southampton,Ryan Manning,To Get a Card,0.5,3.2,0.3125,0.1514,1,0.0,0
+2026-11-03,West Brom vs Southampton,Ryan Manning,To Get a Card,0.5,3.2,0.3125,0.1515,1,0.0,0
 2026-11-03,West Brom vs Southampton,Cameron Bragg,To Get a Card,0.5,3.5,0.2857,0.0503,0,0.0,0
-2026-11-03,West Brom vs Southampton,James Bree,To Score,0.5,9.5,0.1053,0.0855,1,0.0,0
-2026-11-03,West Brom vs Southampton,Finn Azaz,To score at least 2 goals,1.5,21.0,0.0476,0.0213,1,0.0,0
+2026-11-03,West Brom vs Southampton,James Bree,To Score,0.5,9.5,0.1053,0.0837,1,0.0,0
+2026-11-03,West Brom vs Southampton,Finn Azaz,To score at least 2 goals,1.5,21.0,0.0476,0.0212,1,0.0,0
