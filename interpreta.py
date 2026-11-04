@@ -4,7 +4,7 @@ Recibe la frase (escrita o transcrita de un audio) y las últimas líneas de la 
 chat.py sabe ejecutar («combinada Girona Almería», «estadísticas de Mbappé»…) o a una respuesta corta si hay que
 preguntar algo. Los números (probabilidades, cuotas) los pone siempre chat.py con sus modelos medidos: el intérprete
 no inventa datos. Proveedores, en orden: Claude si hay ANTHROPIC_API_KEY (de pago, opcional); Gemini con el secreto GEMINI_API_KEY que ya
-usa el bot (plan gratis: flash y, si se agota la cuota, flash-lite); GitHub Models con el token del workflow
+usa el bot (plan gratis: flash-lite y, si falla, flash); GitHub Models con el token del workflow
 (GH_MODELS_TOKEN; probado el 4-nov: aún no responde). Sin ninguno, chat.py sigue con sus reglas. `python interpreta.py` hace una prueba (workflow probar_interprete.yml)."""
 import json, os
 
@@ -33,7 +33,7 @@ SCHEMA = {"type": "object", "properties": {"orden": {"type": "string"}, "respues
           "required": ["orden", "respuesta"], "additionalProperties": False}
 
 
-GEMINI_MODELS = os.getenv("CHAT_GEMINI_MODELS", "gemini-flash-latest,gemini-flash-lite-latest").split(",")
+GEMINI_MODELS = os.getenv("CHAT_GEMINI_MODELS", "gemini-flash-lite-latest,gemini-flash-latest")  # lite: ~0,6 s y acertó 4/4 en la prueba; flash daba 503.split(",")
 _DEAD = set()  # modelos de Gemini con la cuota del día agotada (429)
 
 
@@ -46,7 +46,7 @@ def route_gemini(text, history=()):
     if not key: return None
     try: from google import genai
     except ImportError: print("intérprete: falta google-genai"); return None
-    client = genai.Client(api_key=key, http_options={"timeout": 30_000})
+    client = genai.Client(api_key=key, http_options={"timeout": 15_000})
     for model in [m.strip() for m in GEMINI_MODELS if m.strip() not in _DEAD]:
         try:
             r = client.models.generate_content(model=model, contents=_prompt(text, history),
