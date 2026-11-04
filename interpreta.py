@@ -60,10 +60,11 @@ def route_github(text, history=()):
             try: r = requests.post(GH_URL, headers=head, json={"model": model.strip(), "messages": msgs, "temperature": 0,
                                                                   "max_tokens": 300, "response_format": fmt}, timeout=30)
             except requests.RequestException as e: print("GitHub Models", repr(e)); return None
-            if r.status_code == 400: continue  # formato no admitido: probar el siguiente
+            if r.status_code == 400: print("GitHub Models 400", model, r.text[:300]); continue  # formato no admitido: el siguiente
             if not r.ok: print("GitHub Models", model, r.status_code, r.text[:200]); break
             try: out = _parse(r.json()["choices"][0]["message"]["content"])
             except (ValueError, KeyError, IndexError): out = None
+            if not out: print("GitHub Models respuesta rara", r.text[:300])
             if out: return out
     return None
 
