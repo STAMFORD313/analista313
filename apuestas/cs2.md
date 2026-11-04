@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 04/11/2026 09:52 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 04/11/2026 10:10 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## The MongolZ vs FURIA — 04/11 · 10:30
 
@@ -167,4 +167,24 @@ Casas: QUINTESSÊNCIA 48% · Grêmio 52%
 🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
 • QUINTESSÊNCIA gana 2-1: 25% → cuota justa 4.06  
 • Grêmio gana 2-1: 18% → cuota justa 5.69  
+
+## RUSH vs MEIA NOITE — 05/11 · 22:00
+
+👀 candidata · 🎮 CS2 · Gamers Club Liga Série A: October 2026 · **Gana RUSH** @ **2.49** (Thunderpick) · prob 41% vs casas 37% · ventaja +3%
+
+- ❌ Valor: ventaja +3% (mín. 8% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮 no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 76.440 partidos)  
+Mapa: RUSH 47% · Serie BO3: RUSH 46% - 54% MEIA NOITE  
+Casas: RUSH 37% · MEIA NOITE 63%  
+🔎 **Claves**  
+• Elo: RUSH 1493 (23 series) | MEIA NOITE 1523 (39 series)  
+• Forma: RUSH ✅✅❌✅✅ | MEIA NOITE ❌✅❌❌✅  
+• H2H: 1: 0-1  
+• Torneo: Gamers Club Liga Série A: October 2026 (nivel C)  
+• Cambios de plantilla: ninguno  
+🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
+• RUSH gana 2-1: 21% → cuota justa 4.82  
+• MEIA NOITE gana 2-1: 23% → cuota justa 4.32  
 
