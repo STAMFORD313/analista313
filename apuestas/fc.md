@@ -1,60 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 04/11/2026 09:42 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## dm1trena vs Jekunam — 04/11 · 09:46
-
-👀 candidata · 🎮⚽ FC 27 · Champions League AFC · **Gana Jekunam** @ **2.25** (Unibet) · prob 47% vs casas 38% · ventaja +5%
-
-- ❌ Valor: ventaja +5% (mín. 10% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 55.602 partidos)  
-Goles esperados: dm1trena 2.14 · Jekunam 2.50  
-Ganador: dm1trena 31% · empate 22% · Jekunam 47%  
-Total: más de 4.5 goles 49% · menos 51%  
-Hándicap Jekunam: −1.5 29% · −2.5 15%  
-🔎 **Claves**  
-• Forma: dm1trena ✅➖✅❌➖ | Jekunam ❌✅❌✅❌  
-• Partidos: dm1trena 981 | Jekunam 962  
-• Liga: Champions League AFC  
-• Unibet: 1 2.65 · X 3.00 · 2 2.25 (sin margen 33%/29%/38%) · ventaja +5%. Sin stake hasta demostrar ROI con estas cuotas.  
-
-## crinner vs saportj — 04/11 · 09:48
-
-👀 candidata · 🎮⚽ FC 27 · EFL Championship · **Gana crinner** @ **1.70** (Unibet) · prob 64% vs casas 52% · ventaja +9%
-
-- ❌ Valor: ventaja +9% (mín. 10% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 55.602 partidos)  
-Goles esperados: crinner 3.14 · saportj 1.96  
-Ganador: crinner 64% · empate 18% · saportj 18%  
-Total: más de 5.5 goles 40% · menos 60%  
-Hándicap crinner: −1.5 43% · −2.5 27%  
-🔎 **Claves**  
-• Forma: crinner ✅✅✅✅✅ | saportj ❌❌➖❌❌  
-• Partidos: crinner 867 | saportj 612  
-• Liga: EFL Championship  
-• Unibet: 1 1.70 · X 4.10 · 2 3.25 (sin margen 52%/21%/27%) · ventaja +9%. Sin stake hasta demostrar ROI con estas cuotas.  
-
-## Lumix vs Taz — 04/11 · 09:52
-
-👀 candidata · 🎮⚽ FC 27 · Ligue 1 · **Gana Taz** @ **2.55** (Unibet) · prob 46% vs casas 34% · ventaja +17%
-
-- ✅ Valor: ventaja +17% (mín. 12% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 55.602 partidos)  
-Goles esperados: Lumix 2.58 · Taz 2.90  
-Ganador: Lumix 34% · empate 20% · Taz 46%  
-Total: más de 5.5 goles 47% · menos 53%  
-Hándicap Taz: −1.5 30% · −2.5 17%  
-🔎 **Claves**  
-• Forma: Lumix ❌➖✅✅➖ | Taz ➖❌➖➖✅  
-• Partidos: Lumix 865 | Taz 837  
-• Liga: Ligue 1  
-• Unibet: 1 1.97 · X 4.10 · 2 2.55 (sin margen 44%/21%/34%) · ventaja +17%. Sin stake hasta demostrar ROI con estas cuotas.  
+Actualizado 04/11/2026 09:52 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Bomb1to vs mko1919 — 04/11 · 09:55
 
@@ -145,4 +91,58 @@ Hándicap dm1trena: −1.5 24% · −2.5 12%
 • Partidos: MeLToSik 1037 | dm1trena 981  
 • Liga: Champions League AFC  
 • Unibet: 1 2.90 · X 3.10 · 2 2.04 (sin margen 30%/28%/42%) · ventaja +5%. Sin stake hasta demostrar ROI con estas cuotas.  
+
+## DaVa vs MeLToSik — 04/11 · 10:22
+
+👀 candidata · 🎮⚽ FC 27 · Champions League AFC · **Gana DaVa** @ **1.76** (Unibet) · prob 62% vs casas 50% · ventaja +9%
+
+- ❌ Valor: ventaja +9% (mín. 11% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 55.602 partidos)  
+Goles esperados: DaVa 2.60 · MeLToSik 1.58  
+Ganador: DaVa 62% · empate 20% · MeLToSik 18%  
+Total: más de 4.5 goles 41% · menos 59%  
+Hándicap DaVa: −1.5 40% · −2.5 23%  
+🔎 **Claves**  
+• Forma: DaVa ✅✅➖❌✅ | MeLToSik ➖➖➖✅✅  
+• Partidos: DaVa 1100 | MeLToSik 1037  
+• Liga: Champions League AFC  
+• Unibet: 1 1.76 · X 3.30 · 2 3.65 (sin margen 50%/26%/24%) · ventaja +9%. Sin stake hasta demostrar ROI con estas cuotas.  
+
+## Ganger_29 vs Taz — 04/11 · 10:28
+
+👀 candidata · 🎮⚽ FC 27 · Ligue 1 · **Gana Taz** @ **2.16** (Unibet) · prob 52% vs casas 40% · ventaja +12%
+
+- ✅ Valor: ventaja +12% (mín. 11% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 55.602 partidos)  
+Goles esperados: Ganger_29 2.55 · Taz 3.18  
+Ganador: Ganger_29 29% · empate 19% · Taz 52%  
+Total: más de 5.5 goles 51% · menos 49%  
+Hándicap Taz: −1.5 35% · −2.5 21%  
+🔎 **Claves**  
+• Forma: Ganger_29 ➖❌❌❌❌ | Taz ➖❌➖➖✅  
+• Partidos: Ganger_29 712 | Taz 837  
+• Liga: Ligue 1  
+• Unibet: 1 2.25 · X 4.20 · 2 2.16 (sin margen 39%/21%/40%) · ventaja +12%. Sin stake hasta demostrar ROI con estas cuotas.  
+
+## Tesla vs Lumix — 04/11 · 10:28
+
+👀 candidata · 🎮⚽ FC 27 · Ligue 1 · **Gana Tesla** @ **1.77** (Unibet) · prob 60% vs casas 49% · ventaja +5%
+
+- ❌ Valor: ventaja +5% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 55.602 partidos)  
+Goles esperados: Tesla 3.26 · Lumix 2.26  
+Ganador: Tesla 59% · empate 18% · Lumix 22%  
+Total: más de 5.5 goles 47% · menos 53%  
+Hándicap Tesla: −1.5 41% · −2.5 25%  
+🔎 **Claves**  
+• Forma: Tesla ✅✅✅✅➖ | Lumix ❌➖✅✅➖  
+• Partidos: Tesla 852 | Lumix 865  
+• Liga: Ligue 1  
+• Unibet: 1 1.77 · X 4.10 · 2 2.95 (sin margen 49%/21%/30%) · ventaja +5%. Sin stake hasta demostrar ROI con estas cuotas.  
 
