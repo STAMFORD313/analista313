@@ -1,6 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 04/11/2026 10:23 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 04/11/2026 10:27 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Ganger_29 vs Taz — 04/11 · 10:28
 
@@ -37,6 +37,24 @@ Hándicap Tesla: −1.5 41% · −2.5 25%
 • Partidos: Tesla 852 | Lumix 865  
 • Liga: Ligue 1  
 • Unibet: 1 1.77 · X 4.10 · 2 2.95 (sin margen 49%/21%/30%) · ventaja +5%. Sin stake hasta demostrar ROI con estas cuotas.  
+
+## Wboy vs Bomb1to — 04/11 · 10:31
+
+👀 candidata · 🎮⚽ FC 27 · Serie A · **Gana Wboy** @ **3.30** (Unibet) · prob 33% vs casas 26% · ventaja +8%
+
+- ❌ Valor: ventaja +8% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 55.602 partidos)  
+Goles esperados: Wboy 3.14 · Bomb1to 3.56  
+Ganador: Wboy 33% · empate 18% · Bomb1to 50%  
+Total: más de 6.5 goles 50% · menos 50%  
+Hándicap Bomb1to: −1.5 33% · −2.5 20%  
+🔎 **Claves**  
+• Forma: Wboy ✅✅❌✅✅ | Bomb1to ✅✅❌❌❌  
+• Partidos: Wboy 971 | Bomb1to 1162  
+• Liga: Serie A  
+• Unibet: 1 3.30 · X 3.90 · 2 1.71 (sin margen 26%/22%/51%) · ventaja +8%. Sin stake hasta demostrar ROI con estas cuotas.  
 
 ## Loka vs kamito — 04/11 · 10:36
 
@@ -110,6 +128,24 @@ Hándicap v1nniePuh: −1.5 38% · −2.5 25%
 • Liga: Champions League A 2x6  
 • Unibet: 1 1.28 · X 6.00 · 2 4.80 (sin margen 68%/14%/18%) · ventaja +45%. Sin stake hasta demostrar ROI con estas cuotas.  
 
+## Taz vs Lumix — 04/11 · 11:12
+
+👀 candidata · 🎮⚽ FC 27 · World Cup A · **Gana Taz** @ **2.38** (Unibet) · prob 46% vs casas 37% · ventaja +9%
+
+- ❌ Valor: ventaja +9% (mín. 11% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 55.602 partidos)  
+Goles esperados: Taz 2.91 · Lumix 2.59  
+Ganador: Taz 46% · empate 20% · Lumix 34%  
+Total: más de 5.5 goles 47% · menos 53%  
+Hándicap Taz: −1.5 30% · −2.5 17%  
+🔎 **Claves**  
+• Forma: Taz ➖❌➖➖✅ | Lumix ❌➖✅✅➖  
+• Partidos: Taz 837 | Lumix 865  
+• Liga: World Cup A  
+• Unibet: 1 2.38 · X 4.10 · 2 2.07 (sin margen 37%/21%/42%) · ventaja +9%. Sin stake hasta demostrar ROI con estas cuotas.  
+
 ## mko1919 vs Bomb1to — 04/11 · 11:15
 
 👀 candidata · 🎮⚽ FC 27 · World Cup B · **Gana Bomb1to** @ **1.95** (Unibet) · prob 59% vs casas 45% · ventaja +15%
@@ -145,4 +181,22 @@ Hándicap Loka: −1.5 60% · −2.5 45%
 • Partidos: saportj 612 | Loka 1052  
 • Liga: CSL  
 • Unibet: 1 3.25 · X 5.25 · 2 1.57 (sin margen 27%/17%/56%) · ventaja +22%. Sin stake hasta demostrar ROI con estas cuotas.  
+
+## Tesla vs Ganger_29 — 04/11 · 11:24
+
+👀 candidata · 🎮⚽ FC 27 · World Cup A · **Gana Tesla** @ **1.62** (Unibet) · prob 66% vs casas 54% · ventaja +7%
+
+- ❌ Valor: ventaja +7% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 55.602 partidos)  
+Goles esperados: Tesla 3.59 · Ganger_29 2.25  
+Ganador: Tesla 66% · empate 16% · Ganger_29 18%  
+Total: más de 5.5 goles 53% · menos 47%  
+Hándicap Tesla: −1.5 47% · −2.5 31%  
+🔎 **Claves**  
+• Forma: Tesla ✅✅✅✅➖ | Ganger_29 ➖❌❌❌❌  
+• Partidos: Tesla 852 | Ganger_29 712  
+• Liga: World Cup A  
+• Unibet: 1 1.62 · X 4.20 · 2 3.55 (sin margen 54%/21%/25%) · ventaja +7%. Sin stake hasta demostrar ROI con estas cuotas.  
 
