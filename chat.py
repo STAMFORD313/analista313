@@ -519,12 +519,43 @@ def upcoming(codes, hours=48):
     return out
 
 
-def day_combo(D, hours=48, target=None):
+SPORT_WORDS = {"nba": r"\bnba\b|baloncesto|basket", "nhl": r"\bnhl\b|hockey", "nfl": r"\bnfl\b|americano", "mlb": r"\bmlb\b|beisbol",
+               "cs2": r"\bcs2?\b|counter", "lol": r"\blol\b|league of legends", "dota2": r"\bdota", "r6": r"\br6\b|rainbow",
+               "mlbb": r"mlbb|mobile legends", "fc": r"fc ?2[67]|fifa|esoccer", "futbol": r"futbol|liga|champions|europa league"}
+ESPORTS_WORDS = r"e-?sports?|videojuegos"
+
+
+def sports_in(q):
+    """Deportes nombrados en la frase (None = todos)."""
+    got = {k for k, rx in SPORT_WORDS.items() if re.search(rx, q)}
+    if re.search(ESPORTS_WORDS, q): got |= {"cs2", "lol", "dota2", "r6", "mlbb", "fc"}
+    return got or None
+
+
+def other_legs(hours, sports):
+    """Piernas «gana X» de NBA/NHL/NFL/MLB, esports y FC 27 (multideporte.py: probabilidades de los modelos del bot)."""
+    import multideporte
+    try: L = multideporte.legs(hours, None if sports is None else [s for s in sports if s != "futbol"])
+    except Exception as ex: print("multideporte", repr(ex)); return []
+    out = []
+    for l in L:
+        loc = pd_ts(l["start"]).tz_convert(TZ)
+        l["m"] = f"{l['sport']} {A.esc(l['home'])} – {A.esc(l['away'])} · {DIAS[loc.dayofweek]} {loc:%H:%M}"
+        out.append(l)
+    return out
+
+
+def pd_ts(x):
+    import pandas as pd
+    return pd.Timestamp(x)
+
+
+def day_combo(D, hours=48, target=None, sports=None):
     """Combinada segura «popurrí» con los partidos de las próximas 48 h de las ligas principales: la pierna más segura de
     cada partido (las de partidos distintos son independientes), hasta COMBO_FLOOR o hasta la cuota `target`."""
     import pandas as pd
     cands, when, seen, meta = [], {}, 0, {}
-    for code, evs in upcoming(DAY_LEAGUES, hours).items():
+    for code, evs in (upcoming(DAY_LEAGUES, hours) if sports is None or "futbol" in sports else {}).items():
         seen += len(evs)
         for t, home, away, _ in evs:
             kh, ka = tkey("futbol", home, D), tkey("futbol", away, D)
@@ -533,7 +564,11 @@ def day_combo(D, hours=48, target=None):
             if m in when: continue  # el mismo partido listado en dos competiciones
             when[m] = t; meta[m] = (code, str(t), home, away)
             cands += [(m, txt, q) for txt, q in safe_legs(kh, ka, D)]
-    print(f"combinada del día: {seen} partidos en ESPN, {len(when)} con datos, {len(cands)} piernas seguras")
+    for l in other_legs(hours, sports):  # NBA, NHL, esports, FC 27: favorito claro según el modelo del bot
+        if l["p"] < SAFE_P: continue
+        when[l["m"]] = pd_ts(l["start"]); meta[l["m"]] = l; seen += 1
+        cands.append((l["m"], l["txt"], l["p"]))
+    print(f"combinada del día: {seen} partidos, {len(when)} con datos, {len(cands)} piernas seguras")
     legs, p = pick_legs(cands, per_match=1, target=target)
     if (target and 1 / p < target) or len(legs) < 2:  # no llega con una por partido: hasta 2 (siguen siendo ≥ 85 %)
         legs, p = pick_legs(cands, per_match=2, target=target)
@@ -541,8 +576,7 @@ def day_combo(D, hours=48, target=None):
         return (f"No encuentro partidos con piernas seguras en las próximas {hours} h"
                 + (f" (ESPN me da {seen} partidos, pero de {len(when)} tengo datos)." if seen else " (ESPN no me devuelve partidos)."))
     legs.sort(key=lambda x: (when[x[0]], -x[2]))
-    remember("Combinada segura del día" + (f" (cuota {target:g})" if target else ""),
-             [dict(code=meta[m][0], start=meta[m][1], home=meta[m][2], away=meta[m][3], txt=txt, odds=None, p=q) for m, txt, q in legs], None, p)
+    remember("Combinada segura del día" + (f" (cuota {target:g})" if target else ""), [_leg(meta[m], txt, q) for m, txt, q in legs], None, p)
     title = "🧩 <b>Combinada segura del día</b>" + (f" · buscando cuota {target:g}" if target else "")
     note = (f"\n⚠️ Con piernas seguras solo llego a cuota justa {1 / p:.2f}." if target and 1 / p < target else "")
     return _combo_text(title, legs, p, grouped=True) + note
@@ -554,14 +588,22 @@ LONG_P = (0.30, 0.92)  # piernas de la combinada larga: probabilidad del modelo 
 W_LONG, LONG_EDGE = 0.30, 0.02
 
 
-def long_combo(D, target, hours=48):
+def _leg(meta, txt, q):
+    """Pierna para simular: fútbol (code, start, home, away) o de otro deporte (dict de multideporte con src y side)."""
+    if isinstance(meta, dict):
+        return dict(src=meta["src"], side=meta["side"], code=None, start=meta["start"], home=meta["home"], away=meta["away"],
+                    txt=txt, odds=meta.get("odds"), p=q)
+    return dict(code=meta[0], start=meta[1], home=meta[2], away=meta[3], txt=txt, odds=None, p=q)
+
+
+def long_combo(D, target, hours=48, sports=None):
     """Combinada de cuota alta (p. ej. 80) con cuotas REALES de Unibet (Kambi): de cada partido de las próximas 48 h, la
     línea de córners o tarjetas totales con más ventaja (prob. del modelo × cuota − 1 ≥ 0); se añaden, de más a menos
     ventaja, hasta que el producto de cuotas llega a `target`. Entre partidos distintos la casa paga el producto exacto."""
     import kambi
     from concurrent.futures import ThreadPoolExecutor
     matches = []
-    for code, evs in upcoming(DAY_LEAGUES, hours).items():
+    for code, evs in (upcoming(DAY_LEAGUES, hours) if sports is None or "futbol" in sports else {}).items():
         for t, home, away, _ in evs:
             kh, ka = tkey("futbol", home, D), tkey("futbol", away, D)
             if kh and ka: matches.append((t, home, away, kh, ka, code))
@@ -590,28 +632,53 @@ def long_combo(D, target, hours=48):
             loc = t.tz_convert(TZ); m = f"{A.esc(home)} – {A.esc(away)} · {DIAS[loc.dayofweek]} {loc:%H:%M}"
             meta[m] = (code, str(t), home, away)
             cands.append((m, t, *best))
-    print(f"combinada larga: {len(matches)} partidos, {priced} con cuotas de Unibet, {len(cands)} piernas candidatas")
+    for l in other_legs(hours, sports):  # ganador en NBA/NHL/esports/FC 27 con la cuota guardada por el bot
+        if not l["odds"]: continue
+        pm = min(0.99, 1 / l["odds"] / 1.05)  # prob. de la casa quitando ~5 % de margen
+        q = W_LONG * l["p"] + (1 - W_LONG) * pm
+        if not (LONG_P[0] <= q <= LONG_P[1]): continue
+        meta[l["m"]] = l; priced += 1
+        cands.append((l["m"], pd_ts(l["start"]), q * l["odds"] - 1, q, l["odds"], l["txt"]))
+    print(f"combinada larga: {len(matches)} partidos, {priced} con cuotas, {len(cands)} piernas candidatas")
     value = [c for c in cands if c[2] >= LONG_EDGE]
     pool = value if len(value) >= 2 else cands  # sin ventaja suficiente: la menos mala, avisando de lo que se pierde
     legs, odds, p = [], 1.0, 1.0
-    for c in sorted(pool, key=lambda c: -c[2]):
-        if odds >= target: break
+    for c in sorted(pool, key=lambda c: -c[2]) + sorted([c for c in cands if c not in pool], key=lambda c: -c[2]):
+        if odds >= target: break  # primero las de ventaja; si no llegan, las menos malas (la ganancia esperada lo refleja)
         legs.append(c); odds *= c[4]; p *= c[3]
     if len(legs) < 2:
         return (f"Hoy no tengo cuotas de Unibet suficientes para una combinada grande ({priced} partidos con cuotas "
                 f"en las próximas {hours} h; los de mañana suelen salir por la noche).")
     legs.sort(key=lambda c: c[1]); ev = p * odds - 1
-    remember(f"Combinada cuota {odds:.1f}", [dict(code=meta[m][0], start=meta[m][1], home=meta[m][2], away=meta[m][3], txt=txt,
-                                                  odds=o, p=q) for m, _, e, q, o, txt in legs], odds, p)
-    lines = [f"🎰 <b>Combinada de cuota alta · objetivo {target:g}</b> (cuotas reales de Unibet)"]
-    if pool is cands and len(value) < 2:
-        lines.append("⚠️ Hoy no hay piernas con ventaja clara frente a Unibet: esta es la menos mala.")
+    remember(f"Combinada cuota {odds:.1f}", [{**_leg(meta[m], txt, q), "odds": o} for m, _, e, q, o, txt in legs], odds, p)
+    lines = [f"🎰 <b>Combinada de cuota alta · objetivo {target:g}</b> (cuotas reales de las casas)"]
+    n_bad = sum(x[2] < LONG_EDGE for x in legs)
+    if n_bad: lines.append(f"⚠️ {n_bad} de las {len(legs)} piernas no tienen ventaja clara frente a la casa: son las menos malas para llegar a la cuota.")
     for m, _, e, q, o, txt in legs: lines.append(f"<b>{m}</b>\n  • {txt} @ {o:.2f} ({q:.0%}, ventaja {e:+.0%})")
     lines.append(f"{len(legs)} piernas · cuota <b>{odds:.1f}</b>: 1 € → {odds:.0f} € · acierta el <b>{p:.1%}</b> de las veces.")
     if odds < target: lines.append(f"⚠️ Con piernas con ventaja solo llego a cuota {odds:.1f}.")
     lines.append(f"{'🟢' if ev > 0 else '🔴'} Según el modelo, a la larga {'ganas' if ev > 0 else 'pierdes'} {abs(ev):.0%} de lo apostado. "
                  "Es lotería: apuesta solo lo que puedas perder (1 €).")
     return "\n".join(lines)
+
+
+def other_winner(q, hours=72):
+    """«¿Quién gana NAVI – G2?» en esports, FC 27, NBA, NHL…: la probabilidad del modelo del bot para ese partido."""
+    import multideporte
+    try: L = multideporte.legs(hours)
+    except Exception as ex: print("multideporte", repr(ex)); return None
+    t = f" {norm(q)} "
+    hit = [l for l in L if (f" {norm(l['home'])} " in t or f" {norm(l['away'])} " in t) and l["src"] != "espn:nba" or
+           (f" {norm(l['home'])} " in t and f" {norm(l['away'])} " in t)]
+    if not hit: return None
+    l = min(hit, key=lambda l: l["start"])
+    loc = pd_ts(l["start"]).tz_convert(TZ)
+    fav = l["txt"].replace("Gana ", "")
+    out = [f"⚔️ {l['sport']} <b>{A.esc(l['home'])} – {A.esc(l['away'])}</b> · {DIAS[loc.dayofweek]} {loc:%d/%m %H:%M}",
+           f"👉 Favorito: <b>{A.esc(fav)}</b> ({l['p']:.0%}, cuota justa {1 / l['p']:.2f})" if l["txt"].startswith("Gana") else
+           f"👉 Lo más probable: empate ({l['p']:.0%})"]
+    if l.get("odds"): out.append(verdict(l["p"], l["odds"]))
+    return "\n".join(out)
 
 
 def winner(kh, ka, D, odds=None, pick=None):
@@ -778,13 +845,15 @@ def _answer(t, short=True):
         else: kh, ka = _CTX.get("partido") or (None, None)
         m_t = re.search(r"(?:cuota|a)\s*(?:de\s*)?(\d+(?:[.,]\d+)?)", q) or re.search(r"@\s*(\d+(?:[.,]\d+)?)", q)
         target = _f(m_t.group(1)) if m_t and 1.2 <= _f(m_t.group(1)) <= 1000 else None
-        if target and target >= 10: return long_combo(D, target)
+        sp = sports_in(q)
+        if target and target >= 10: return long_combo(D, target, sports=sp)
         if target or re.search(r"del dia|de hoy|de manana|varios partidos|popurri|sub\w* la cuota|anad|mas piernas|mas cuota|lo maximo", q) \
-                or not (kh and ka and kh in D and ka in D): return day_combo(D, target=target)
+                or sp is not None or not (kh and ka and kh in D and ka in D): return day_combo(D, target=target, sports=sp)
         _CTX["partido"] = (kh, ka)
         if D[kh]["sport"] != "futbol": return "La combinada segura de momento es solo de fútbol."
         h, a = D[kh]["name"], D[ka]["name"]
         return safe_combo(kh, ka, D) + offer("¿La junto con otros partidos para subir más la cuota?", "combinada del día")
+    if re.search(WIN_RX, q) and not re.search(r"mas de|menos de|over|under|\d\+", q) and (r := other_winner(q)): return r
     if re.search(WIN_RX, q) and not re.search(r"mas de|menos de|over|under|\d\+", q):
         ks = find(t, D, n=2, kind="equipo")
         if len(ks) == 2: kh, ka = ks

@@ -929,11 +929,12 @@ _r = _CH.answer("combinada segura"); assert "Combinada segura" in _r and "cuota 
 _sb2, _up2 = _CH.scoreboard, _CH.upcoming
 _CH.scoreboard = lambda sp, lg, days=21, team=None: [(pd.Timestamp.now(tz="UTC") + pd.Timedelta(hours=5), "Real Madrid", "Barcelona", "")] if lg == "SP1" else []
 _CH.upcoming = lambda codes, hours=48: {"SP1": _CH.scoreboard("futbol", "SP1")}
+_ol2 = _CH.other_legs; _CH.other_legs = lambda hours, sports: []
 try:
     _r = _CH.answer("Añádeles más para subir la cuota, lo máximo que pueda pero de forma segura"); assert "del día" in _r and "cuota justa" in _r, _r
     _lg, _p = _CH.pick_legs([("a", "x", 0.9), ("a", "y", 0.9), ("a", "z", 0.9), ("b", "w", 0.9), ("b", "v", 0.9)], per_match=2)
     assert len(_lg) == 4 and _p >= _CH.COMBO_FLOOR and sum(m == "a" for m, _, _ in _lg) == 2
-finally: _CH.scoreboard, _CH.upcoming = _sb2, _up2
+finally: _CH.scoreboard, _CH.upcoming, _CH.other_legs = _sb2, _up2, _ol2
 _CH.LEAGUE.clear(); _CH._DB.clear(); _CH._DB["t"] = 0; _CH._BASE.clear(); _CH._CTX.clear()
 print("ok chat de Telegram")
 # ESPN: partidos sin estadísticas (todo a 0) no sirven para liquidar
@@ -1015,8 +1016,9 @@ _lg2, _p2 = _CH.pick_legs([(f"m{i}", "x", 0.9) for i in range(12)], per_match=1,
 assert 1 / _p2 >= 2.5 and len(_lg2) == 9 and len({m for m, _, _ in _lg2}) == 9
 _up = _CH.upcoming
 _CH.upcoming = lambda codes, hours=48: {}
+_ol = _CH.other_legs; _CH.other_legs = lambda hours, sports: []
 try: assert "ESPN no me devuelve partidos" in _CH.day_combo({}, target=2.5)
-finally: _CH.upcoming = _up
+finally: _CH.upcoming, _CH.other_legs = _up, _ol
 _lg3, _p3 = _CH.pick_legs([("a", "x", 0.97), ("a", "y", 0.86), ("b", "z", 0.96), ("b", "w", 0.87)], per_match=1, target=1.3)
 assert [x[1] for x in _lg3] == ["y", "w"]  # la segura que más paga de cada partido
 print("ok combinada a cuota objetivo")
@@ -1031,11 +1033,12 @@ for _e in _D.values():
 _CH.upcoming = lambda codes, hours=48: {"SP1": [(_now + pd.Timedelta(hours=5 + i), h, a, "") for i, (h, a) in
                                                  enumerate([("Real Madrid", "Barcelona"), ("Barcelona", "Atlético Madrid"), ("Atlético Madrid", "Real Madrid")])]}
 _KB.offers = lambda h, a, t, stats=(): {("corners", "t"): {6.5: {"o": 1.30, "u": 3.40}, 12.5: {"o": 4.5, "u": 1.18}}}
+_ol3 = _CH.other_legs; _CH.other_legs = lambda hours, sports: []
 try:
     _r = _CH.answer("combinada del día a cuota 80"); assert "objetivo 80" in _r or "no tengo cuotas" in _r.lower(), _r
     _KB.offers = lambda h, a, t, stats=(): {}
     assert "Hoy no tengo cuotas de Unibet" in _CH.long_combo(_D, 80)
-finally: _KB.offers, _CH.upcoming = _off, _up4; _CH.LEAGUE.clear(); _CH._DB.clear(); _CH._DB["t"] = 0; _CH._BASE.clear()
+finally: _KB.offers, _CH.upcoming, _CH.other_legs = _off, _up4, _ol3; _CH.LEAGUE.clear(); _CH._DB.clear(); _CH._DB["t"] = 0; _CH._BASE.clear()
 print("ok combinada de cuota alta")
 # Kambi: no confundir el partido con el de juveniles (Youth League el mismo día) y alias de nombres
 _kev = _KB._events
@@ -1068,3 +1071,29 @@ try:
     assert _SM.settle() == [] and "1 terminadas" in _CH.answer("¿cómo van mis simuladas?")
 finally: _SM.FILE.unlink(missing_ok=True); _SM.FILE, _SM.games, _SM.push = _smf, _sml, _smp; _SM._MEM.clear(); _CH._CTX.clear()
 print("ok apuestas simuladas del chat")
+# todos los deportes en el chat: piernas «gana X» de NBA/NHL/esports/FC 27 (multideporte) y su liquidación en simuladas
+import multideporte as _MD
+_L = _MD.legs(24 * 365)
+assert all({"src", "home", "away", "start", "side", "txt", "p"} <= set(l) for l in _L)
+assert _CH.sports_in("combinada de esports y nba") >= {"nba", "cs2", "fc"} and _CH.sports_in("combinada del día") is None
+assert _CH._leg({"src": "esports:cs2", "side": "H", "start": "2026-11-04T20:00Z", "home": "NAVI", "away": "G2", "odds": 1.5}, "Gana NAVI", 0.9)["src"] == "esports:cs2"
+_jd = _MD._result
+_MD._result = lambda leg: (2.0, 1.0)
+try: assert _MD.judge({"src": "esports:cs2", "side": "H"}) == (True, "acabó 2-1") and _MD.judge({"src": "fc", "side": "X"})[0] is False
+finally: _MD._result = _jd
+_smf2, _smp2 = _SM.FILE, _SM.push
+_SM.FILE = A_.DATA / "_test_simuladas2.json"; _SM.FILE.unlink(missing_ok=True); _SM._MEM.clear(); _SM.push = lambda m: None
+_mj = _MD.judge
+try:
+    _SM.record({"titulo": "Combinada del día", "legs": [dict(src="espn:nba", side="H", start="2026-11-04T23:00Z", home="Boston Celtics",
+                                                             away="Milwaukee Bucks", txt="Gana Boston Celtics", odds=None, p=0.85)], "odds": 1.18})
+    _MD.judge = lambda leg: (None, "sin resultado todavía"); assert _SM.settle() == []
+    _MD.judge = lambda leg: (True, "acabó 112-104"); _m = _SM.settle(); assert len(_m) == 1 and "GANADA" in _m[0] and "112-104" in _m[0], _m
+finally: _MD.judge = _mj; _SM.FILE.unlink(missing_ok=True); _SM.FILE, _SM.push = _smf2, _smp2; _SM._MEM.clear()
+print("ok todos los deportes en el chat")
+_mdl = _MD.legs
+_MD.legs = lambda hours=48, sports=None: [dict(src="esports:lol", sport="🧙 LoL", home="Gen.G Esports", away="LYON", start="2026-11-04T22:00Z",
+                                               side="H", txt="Gana Gen.G Esports", p=0.88, odds=1.20)]
+try: _r = _CH.answer("¿quién gana Gen.G Esports contra LYON?"); assert "Favorito" in _r and "Gen.G" in _r and "🟢" in _r, _r
+finally: _MD.legs = _mdl
+print("ok quién gana en esports")

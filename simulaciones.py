@@ -4,7 +4,8 @@
 pierna y el porqué (lo que pasó de verdad frente a la línea).
 
 Piernas que entiende (las que escribe chat.py): «Más/Menos de X córners|tarjetas|goles» (totales del partido) y
-«<equipo> o empate (1X|X2)»."""
+«<equipo> o empate (1X|X2)» de fútbol; y «Gana X» / «Empate» de NBA, NHL, NFL, MLB, esports y FC 27
+(multideporte.py)."""
 import json, re, subprocess, time
 
 import pandas as pd
@@ -104,6 +105,12 @@ def settle():
         if b["estado"] != "pendiente": continue
         for leg in b["legs"]:
             if leg.get("ok") is not None: continue
+            if leg.get("src"):  # NBA/NHL/esports/FC 27: resultados que guarda el bot (multideporte.py)
+                import multideporte
+                ok, why = multideporte.judge(leg)
+                if ok is not None: leg["ok"], leg["por"] = ok, why; changed = True
+                elif now - pd.Timestamp(leg["start"]) > GIVE_UP: leg["ok"], leg["por"] = "nula", "sin resultado"; changed = True
+                continue
             g = find_game({**leg, "creada": b["creada"]})
             if g:
                 ok, why = judge(leg, g)
