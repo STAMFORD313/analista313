@@ -1,78 +1,24 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 04/11/2026 09:26 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 04/11/2026 09:38 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## Taz vs Ganger_29 — 04/11 · 09:28
+## dm1trena vs Jekunam — 04/11 · 09:46
 
-👀 candidata · 🎮⚽ FC 27 · Ligue 1 · **Gana Taz** @ **2.16** (Unibet) · prob 52% vs casas 40% · ventaja +12%
+👀 candidata · 🎮⚽ FC 27 · Champions League AFC · **Gana Jekunam** @ **2.25** (Unibet) · prob 47% vs casas 38% · ventaja +5%
 
-- ✅ Valor: ventaja +12% (mín. 11% con la incertidumbre, máx. 30%)
+- ❌ Valor: ventaja +5% (mín. 10% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
 📊 **Escenarios** (Poisson por jugador, 55.602 partidos)  
-Goles esperados: Taz 3.18 · Ganger_29 2.55  
-Ganador: Taz 52% · empate 19% · Ganger_29 29%  
-Total: más de 5.5 goles 51% · menos 49%  
-Hándicap Taz: −1.5 35% · −2.5 21%  
+Goles esperados: dm1trena 2.14 · Jekunam 2.50  
+Ganador: dm1trena 31% · empate 22% · Jekunam 47%  
+Total: más de 4.5 goles 49% · menos 51%  
+Hándicap Jekunam: −1.5 29% · −2.5 15%  
 🔎 **Claves**  
-• Forma: Taz ➖❌➖➖✅ | Ganger_29 ➖❌❌❌❌  
-• Partidos: Taz 837 | Ganger_29 712  
-• Liga: Ligue 1  
-• Unibet: 1 2.16 · X 4.00 · 2 2.28 (sin margen 40%/22%/38%) · ventaja +12%. Sin stake hasta demostrar ROI con estas cuotas.  
-
-## Bomb1to vs Wboy — 04/11 · 09:31
-
-👀 candidata · 🎮⚽ FC 27 · Serie A · **Gana Wboy** @ **3.30** (Unibet) · prob 33% vs casas 26% · ventaja +8%
-
-- ❌ Valor: ventaja +8% (mín. 10% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 55.602 partidos)  
-Goles esperados: Bomb1to 3.56 · Wboy 3.14  
-Ganador: Bomb1to 50% · empate 18% · Wboy 33%  
-Total: más de 6.5 goles 50% · menos 50%  
-Hándicap Bomb1to: −1.5 33% · −2.5 20%  
-🔎 **Claves**  
-• Forma: Bomb1to ✅✅❌❌❌ | Wboy ✅✅❌✅✅  
-• Partidos: Bomb1to 1162 | Wboy 971  
-• Liga: Serie A  
-• Unibet: 1 1.72 · X 3.85 · 2 3.30 (sin margen 51%/23%/26%) · ventaja +8%. Sin stake hasta demostrar ROI con estas cuotas.  
-
-## DaVa vs dm1trena — 04/11 · 09:34
-
-👀 candidata · 🎮⚽ FC 27 · Champions League AFC · **Gana dm1trena** @ **5.80** (Unibet) · prob 20% vs casas 15% · ventaja +16%
-
-- ✅ Valor: ventaja +16% (mín. 12% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 55.602 partidos)  
-Goles esperados: DaVa 2.89 · dm1trena 1.82  
-Ganador: DaVa 61% · empate 19% · dm1trena 20%  
-Total: más de 4.5 goles 51% · menos 49%  
-Hándicap DaVa: −1.5 41% · −2.5 25%  
-🔎 **Claves**  
-• Forma: DaVa ✅✅➖❌✅ | dm1trena ✅➖✅❌➖  
-• Partidos: DaVa 1100 | dm1trena 981  
+• Forma: dm1trena ✅➖✅❌➖ | Jekunam ❌✅❌✅❌  
+• Partidos: dm1trena 981 | Jekunam 962  
 • Liga: Champions League AFC  
-• Unibet: 1 1.40 · X 3.75 · 2 5.80 (sin margen 62%/23%/15%) · ventaja +16%. Sin stake hasta demostrar ROI con estas cuotas.  
-
-## kamito vs Loka — 04/11 · 09:36
-
-👀 candidata · 🎮⚽ FC 27 · EFL Championship · **Gana Loka** @ **1.52** (Unibet) · prob 76% vs casas 57% · ventaja +16%
-
-- ✅ Valor: ventaja +16% (mín. 12% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 55.602 partidos)  
-Goles esperados: kamito 2.93 · Loka 5.22  
-Ganador: kamito 13% · empate 11% · Loka 76%  
-Total: más de 8.5 goles 43% · menos 57%  
-Hándicap Loka: −1.5 60% · −2.5 46%  
-🔎 **Claves**  
-• Forma: kamito ❌✅➖❌❌ | Loka ✅✅❌✅✅  
-• Partidos: kamito 392 | Loka 1052  
-• Liga: EFL Championship  
-• Unibet: 1 3.10 · X 5.80 · 2 1.52 (sin margen 28%/15%/57%) · ventaja +16%. Sin stake hasta demostrar ROI con estas cuotas.  
+• Unibet: 1 2.65 · X 3.00 · 2 2.25 (sin margen 33%/29%/38%) · ventaja +5%. Sin stake hasta demostrar ROI con estas cuotas.  
 
 ## crinner vs saportj — 04/11 · 09:48
 
@@ -146,6 +92,24 @@ Hándicap Loka: −1.5 58% · −2.5 42%
 • Liga: EFL Championship  
 • Unibet: 1 1.60 · X 5.25 · 2 3.10 (sin margen 55%/17%/28%) · ventaja +22%. Sin stake hasta demostrar ROI con estas cuotas.  
 
+## Ganger_29 vs Tesla — 04/11 · 10:04
+
+👀 candidata · 🎮⚽ FC 27 · Ligue 1 · **Gana Tesla** @ **1.60** (Unibet) · prob 66% vs casas 55% · ventaja +5%
+
+- ❌ Valor: ventaja +5% (mín. 9% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 55.602 partidos)  
+Goles esperados: Ganger_29 2.24 · Tesla 3.58  
+Ganador: Ganger_29 18% · empate 16% · Tesla 66%  
+Total: más de 5.5 goles 52% · menos 48%  
+Hándicap Tesla: −1.5 46% · −2.5 31%  
+🔎 **Claves**  
+• Forma: Ganger_29 ➖❌❌❌❌ | Tesla ✅✅✅✅➖  
+• Partidos: Ganger_29 712 | Tesla 852  
+• Liga: Ligue 1  
+• Unibet: 1 3.55 · X 4.30 · 2 1.60 (sin margen 25%/20%/55%) · ventaja +5%. Sin stake hasta demostrar ROI con estas cuotas.  
+
 ## Uncle vs Bomb1to — 04/11 · 10:07
 
 👀 candidata · 🎮⚽ FC 27 · Serie A · **Gana Uncle** @ **3.90** (Unibet) · prob 38% vs casas 22% · ventaja +47%
@@ -163,4 +127,22 @@ Hándicap Bomb1to: −1.5 27% · −2.5 15%
 • Partidos: Uncle 618 | Bomb1to 1162  
 • Liga: Serie A  
 • Unibet: 1 3.90 · X 2.95 · 2 1.82 (sin margen 22%/30%/48%) · ventaja +47%. Sin stake hasta demostrar ROI con estas cuotas.  
+
+## MeLToSik vs dm1trena — 04/11 · 10:10
+
+👀 candidata · 🎮⚽ FC 27 · Champions League AFC · **Gana MeLToSik** @ **2.90** (Unibet) · prob 36% vs casas 30% · ventaja +5%
+
+- ❌ Valor: ventaja +5% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 55.602 partidos)  
+Goles esperados: MeLToSik 2.15 · dm1trena 2.24  
+Ganador: MeLToSik 36% · empate 23% · dm1trena 41%  
+Total: más de 4.5 goles 45% · menos 55%  
+Hándicap dm1trena: −1.5 24% · −2.5 12%  
+🔎 **Claves**  
+• Forma: MeLToSik ➖➖➖✅✅ | dm1trena ✅➖✅❌➖  
+• Partidos: MeLToSik 1037 | dm1trena 981  
+• Liga: Champions League AFC  
+• Unibet: 1 2.90 · X 3.10 · 2 2.04 (sin margen 30%/28%/42%) · ventaja +5%. Sin stake hasta demostrar ROI con estas cuotas.  
 
