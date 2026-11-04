@@ -1,8 +1,8 @@
 {
  "datos_futbol_jugadores": {
-  "ultima": "2026-11-04T02:18:59.478492+00:00",
+  "ultima": "2026-11-04T02:41:47.697748+00:00",
   "ok": true,
-  "segundos": 1254,
+  "segundos": 1356,
   "salida": "ESPN fútbol: 1200 partidos nuevos",
   "tarea": "ESPN fútbol: alineaciones, jugadores, porteros y árbitro de 18 competiciones"
  },
@@ -21,21 +21,21 @@
   "tarea": "Disciplinas nuevas de bo3.gg y esports con cuota en Unibet"
  },
  "props_futbol": {
-  "ultima": "2026-11-04T02:18:59.478492+00:00",
+  "ultima": "2026-11-04T02:41:47.697748+00:00",
   "ok": true,
-  "segundos": 58,
+  "segundos": 71,
   "salida": "  To score at least 3 goals (10): real 0% · casa 2% · modelo 0%",
   "tarea": "Props de jugador de fútbol: backtest y liquidación de las cuotas de Unibet"
  },
  "props_nba": {
-  "ultima": "2026-11-04T02:18:59.478492+00:00",
+  "ultima": "2026-11-04T02:41:47.697748+00:00",
   "ok": true,
   "segundos": 1,
   "salida": "props NBA liquidadas: 0",
   "tarea": "Props de jugador NBA: liquida las cuotas de Unibet y mide el modelo contra la casa"
  },
  "estrategias": {
-  "ultima": "2026-11-04T02:18:59.478492+00:00",
+  "ultima": "2026-11-04T02:41:47.697748+00:00",
   "ok": true,
   "segundos": 1,
   "salida": "316 candidatas: 0 estrategias rentables, 0 bloqueadas",
@@ -89,5 +89,12 @@
   "segundos": 2,
   "salida": "nhl: ρ(margen local, total) = +0.035 · test 1496 partidos: log-loss 4 casillas independencia 1.36995 → cópula 1.36976 (-0.00018 ± 0.00058) · «favorito gana + más»: cópula 0.289 / producto 0.286 / real",
   "tarea": "Correlación ganador-total de NBA/NFL/NHL"
+ },
+ "juez_nfl": {
+  "ultima": "2026-11-04T02:41:47.697748+00:00",
+  "ok": true,
+  "segundos": 7,
+  "salida": "  ROI 2020+ con ventaja ≥ 8%: -11.4% ± 18.2% en 79",
+  "tarea": "NFL con nflverse (cuotas de cierre y QB desde 1999): ¿bate Elo + QB a la casa?"
  }
 }
