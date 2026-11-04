@@ -1,24 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 04/11/2026 01:29 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Internacional vs Coritiba — 04/11 · 01:30
-
-👀 candidata · 🇧🇷 Brasileirão · **Gana Internacional** @ **1.57** (Bet365) · prob 58% vs casas 58% · ventaja -9%
-
-- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.87 - 1.01)  
-1 50% · X 26% · 2 24%  
-1X 76% · X2 50% · 12 74%  
-+1.5 79% · +2.5 55% · +3.5 33% · Ambos marcan 54%  
-Marcadores: 1-1 11% · 1-0 10% · 2-1 10% · 2-0 10%  
-🔎 **Claves**  
-• Forma: Internacional ✅➖❌✅❌ | Coritiba ❌➖❌❌✅  
-• H2H: 17 desde 2012: 8V-7E-2D · 2.3 goles/partido · +2.5 en 29%  
-• Bajas: Internacional: 0 fuera, 4 duda; Coritiba: 0 fuera, 1 duda  
-• Favorito de las casas: Internacional @ 1.57  
+Actualizado 04/11/2026 01:57 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Kortrijk vs KV Mechelen — 04/11 · 20:30
 
