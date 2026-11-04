@@ -1,6 +1,6 @@
 # 📱 MLBB · apuestas de valor
 
-Actualizado 04/11/2026 08:10 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 04/11/2026 08:14 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Bigetron by Vitality vs EVOS — 04/11 · 12:00
 

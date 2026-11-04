@@ -1,6 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 04/11/2026 08:10 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 04/11/2026 08:14 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Ganger_29 vs Taz — 04/11 · 08:18
 
@@ -19,24 +19,6 @@ Hándicap Taz: −1.5 35% · −2.5 21%
 • Partidos: Ganger_29 704 | Taz 829  
 • Liga: Bundesliga  
 • Unibet: 1 2.28 · X 3.85 · 2 2.23 (sin margen 38%/23%/39%) · ventaja +14%. Sin stake hasta demostrar ROI con estas cuotas.  
-
-## Wboy vs Bomb1to — 04/11 · 08:21
-
-👀 candidata · 🎮⚽ FC 27 · World Cup A · **Gana Wboy** @ **3.35** (Unibet) · prob 34% vs casas 26% · ventaja +13%
-
-- ✅ Valor: ventaja +13% (mín. 11% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 55.482 partidos)  
-Goles esperados: Wboy 2.94 · Bomb1to 3.34  
-Ganador: Wboy 34% · empate 18% · Bomb1to 48%  
-Total: más de 6.5 goles 44% · menos 56%  
-Hándicap Bomb1to: −1.5 32% · −2.5 20%  
-🔎 **Claves**  
-• Forma: Wboy ❌❌❌❌✅ | Bomb1to ➖➖✅✅➖  
-• Partidos: Wboy 963 | Bomb1to 1154  
-• Liga: World Cup A  
-• Unibet: 1 3.35 · X 3.85 · 2 1.71 (sin margen 26%/23%/51%) · ventaja +13%. Sin stake hasta demostrar ROI con estas cuotas.  
 
 ## Loka vs kamito — 04/11 · 08:26
 
@@ -73,4 +55,22 @@ Hándicap Wboy: −1.5 34% · −2.5 21%
 • Partidos: mko1919 1052 | Wboy 963  
 • Liga: World Cup A  
 • Unibet: 1 4.10 · X 4.35 · 2 1.46 (sin margen 21%/20%/59%) · ventaja +29%. Sin stake hasta demostrar ROI con estas cuotas.  
+
+## saportj vs Loka — 04/11 · 09:00
+
+👀 candidata · 🎮⚽ FC 27 · EFL Championship · **Gana Loka** @ **1.54** (Unibet) · prob 75% vs casas 56% · ventaja +16%
+
+- ✅ Valor: ventaja +16% (mín. 12% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 55.482 partidos)  
+Goles esperados: saportj 2.18 · Loka 4.22  
+Ganador: saportj 12% · empate 13% · Loka 75%  
+Total: más de 6.5 goles 46% · menos 54%  
+Hándicap Loka: −1.5 58% · −2.5 42%  
+🔎 **Claves**  
+• Forma: saportj ❌❌❌❌➖ | Loka ✅❌✅➖✅  
+• Partidos: saportj 604 | Loka 1044  
+• Liga: EFL Championship  
+• Unibet: 1 3.15 · X 5.50 · 2 1.54 (sin margen 28%/16%/57%) · ventaja +16%. Sin stake hasta demostrar ROI con estas cuotas.  
 
