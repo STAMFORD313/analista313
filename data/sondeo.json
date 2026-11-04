@@ -1,5 +1,5 @@
 {
- "fecha": "2026-11-04 12:05",
+ "fecha": "2026-11-04 12:38",
  "bo3": {
   "1": {
    "próximos": 20,
@@ -95,18 +95,18 @@
    ]
   },
   "8": {
-   "próximos": 7,
+   "próximos": 6,
    "ejemplo": [
-    [
-     "bigetron-by-vitality-vs-evos-04-11-2026",
-     "MPL Indonesia Season 18"
-    ],
     [
      "natus-vincere-3-vs-alter-ego-2-05-11-2026",
      "MPL Indonesia Season 18"
     ],
     [
      "team-liquid-id-vs-7657b78a09-05-11-2026",
+     "MPL Indonesia Season 18"
+    ],
+    [
+     "929362c095-vs-b30bc71c25-06-11-2026",
      "MPL Indonesia Season 18"
     ]
    ]
@@ -151,8 +151,6 @@
   "Esports / CS2 / IEM Beijing": 2,
   "Esports / Overwatch 2 / OWCS KR": 2,
   "Esports / Overwatch 2 / OWCS CN": 2,
-  "Esports / CS2 / CCT European Series 13": 1,
-  "Esports / CS2 / NODWIN Clutch Series": 1,
   "Esports / CS2 / ESL Challenger League EU Cup": 1
  }
 }
