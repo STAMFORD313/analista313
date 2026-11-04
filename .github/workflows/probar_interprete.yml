@@ -14,8 +14,15 @@ jobs:
         with: {python-version: "3.12"}
       - run: pip install -r requirements.txt
       - run: |
-          python -c "import valor_pinnacle as V, collections; c = V.candidates(); print(len(c), 'con valor', collections.Counter(x['book'] for x in c))"
-          python -c "import chat; print('partidos 48 h', {k: len(v) for k, v in chat.upcoming(chat.DAY_LEAGUES).items()})"
+          python - <<'PY'
+          import requests, json
+          r = requests.get("https://gamma-api.polymarket.com/events", params={"tag_slug": "soccer", "closed": "false", "limit": 5, "order": "startDate", "ascending": "false"}, timeout=20)
+          print(r.status_code)
+          for e in r.json()[:5]:
+              print(e.get("title"), e.get("startDate"), e.get("endDate"))
+              for m in e.get("markets", [])[:4]:
+                  print("   ", m.get("question"), m.get("outcomes"), m.get("outcomePrices"), m.get("liquidity"), m.get("sportsMarketType"), m.get("gameStartTime"))
+          r = requests.get("https://gamma-api.polymarket.com/sports", timeout=20); print(r.status_code, json.dumps(r.json())[:1500])
+          PY
         env:
           PYTHONUNBUFFERED: "1"
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
