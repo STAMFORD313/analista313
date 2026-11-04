@@ -34525,3 +34525,6 @@ game_id,match_id,slug,date,tier,bo,tournament_id,tournament,t1_id,t2_id,team1,te
 192043,133039,legacy-br-vs-b8-03-11-2026,2026-11-03T10:55:00.000+00:00,s,3,5113,Intel Extreme Masters Beijing 2026,8118,1539,Legacy,B8,1,de_dust2,1539,13.0,11.0
 192253,133166,quintessencia-vs-red-canids-academy-03-11-2026,2026-11-03T19:15:00.000+00:00,b,3,5624,CCT South America 2026 Series 8,23217,16743,QUINTESSÊNCIA,RED Canids Academy,2,de_ancient,23217,13.0,6.0
 192254,133166,quintessencia-vs-red-canids-academy-03-11-2026,2026-11-03T19:15:00.000+00:00,b,3,5624,CCT South America 2026 Series 8,23217,16743,QUINTESSÊNCIA,RED Canids Academy,1,de_cache,23217,13.0,6.0
+192255,133167,bestia-academy-vs-zetta-games-cs-03-11-2026,2026-11-03T22:15:00.000+00:00,b,3,5624,CCT South America 2026 Series 8,18461,23468,BESTIA Academy,Zetta,3,de_mirage,23468,16.0,13.0
+192256,133167,bestia-academy-vs-zetta-games-cs-03-11-2026,2026-11-03T22:15:00.000+00:00,b,3,5624,CCT South America 2026 Series 8,18461,23468,BESTIA Academy,Zetta,2,de_dust2,23468,13.0,11.0
+192257,133167,bestia-academy-vs-zetta-games-cs-03-11-2026,2026-11-03T22:15:00.000+00:00,b,3,5624,CCT South America 2026 Series 8,18461,23468,BESTIA Academy,Zetta,1,de_ancient,18461,13.0,5.0
