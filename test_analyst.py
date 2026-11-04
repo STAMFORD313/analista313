@@ -141,8 +141,8 @@ assert len(d) == 3 and d.ia.tolist() == ["", "", "sin IA"], d
 print("ok IA con respaldo")
 
 # FC 27: tarjeta de pronósticos sin inundar y fuera de la calibración
-fc = {"bank": {"bets": []}, "signals": [{"key": f"fc|{i}", "market": "H", "pick": f"P{i}", "match": f"P{i} vs Q{i}", "odds": 2.0, "p": 0.5,
-      "implied": 0.5, "edge": 0.0, "book": "cuota justa (sin casa)", "sport": "🎮⚽", "start": "2099-01-01T00:00Z",
+fc = {"bank": {"bets": []}, "signals": [{"key": f"fc|{i}", "market": "H", "pick": f"P{i}", "match": f"P{i} vs Q{i}", "odds": 2.0, "p": 0.55,
+      "implied": 0.5, "edge": 0.1, "book": "Unibet", "sport": "🎮⚽", "start": "2099-01-01T00:00Z",
       "info": ["x", "Goles esperados 1-1", "Ganador P 50%", "Total", "Hándicap", "Forma"]} for i in range(7)]}
 import radar
 cards.clear(); radar.A.send_card = cards.append
@@ -150,7 +150,7 @@ radar.fc_card(fc); radar.fc_card(fc)
 assert len(cards) == 1 and cards[0].count("🆚") == 5 and "Gana P0" in cards[0] and "Forma" not in cards[0], cards
 fc["fc_sent"] = "2000-01-01T00:00Z"; radar.fc_card(fc)
 assert len(cards) == 2 and cards[1].count("🆚") == 2
-fc["signals"][0]["result"] = True; fc["signals"][0]["start"] = "2026-11-02"
+fc["signals"][0]["result"] = True; fc["signals"][0]["start"] = "2026-11-02"; fc["signals"][0]["book"] = "cuota justa (sin casa)"
 n0 = len(pd.read_csv(bankroll.LOG)); bankroll.log_signals(fc)
 assert len(pd.read_csv(bankroll.LOG)) == n0 + 1 and "| Total | 3 |" in "\n".join(bankroll.calibration_md())
 print("ok FC 27")
@@ -474,7 +474,7 @@ _d = esoccer.simulation()
 assert _d.ok_1x2.tolist() == [True, False, True] and _d.ok_tot.iloc[0] == 1.0 and _d.ok_h15.iloc[0] == 1.0  # 6-2: menos de 8.5 ✅, −1.5 ✅
 assert _d.ok_tot.iloc[1:].isna().all() and abs(_d.g_unibet.sum() - (-1 + 1.1)) < 1e-9
 _sl = "\n".join(esoccer.sim_lines())
-assert "Total (2 apuestas de 1 €)" in _sl and "Kril 🆚 Fireline (6-2)" in _sl and "✅ Ganado" in _sl and "❌ Perdido" in _sl
+assert "Total (1 apuestas de 1 € con valor)" in _sl and "A 🆚 B (1-3)" in _sl and "✅ Ganado" in _sl and "Kril" not in _sl  # solo las de valor
 cards.clear(); _ss = {}
 radar.fc_sim_card(_ss); radar.fc_sim_card(_ss)
 assert len(cards) == 1 and "FC 27 · RESULTADOS" in cards[0] and _ss["fc_sim_n"] == 3
@@ -496,7 +496,7 @@ _d3 = esoccer.simulation()
 assert _d3.ok_wt.tolist() == [1.0, 0.0, 0.0]  # 3-1 gana y más de 2.5 ✅; 2-0 gana pero menos ❌; 0-1 pierde ❌
 _lc = esoccer.lot_combos(_d3)
 assert len(_lc) == 1 and _lc.ok.iloc[0] and abs(_lc.p.iloc[0] - 0.36) < 1e-9 and abs(_lc.g_unibet.iloc[0] - (1.8 * 1.7 - 1)) < 1e-9
-assert "🔗 Combinada" in "\n".join(esoccer.sim_lines())
+assert "Total" in "\n".join(esoccer.sim_lines())
 esoccer.HIST = _eh3
 print("ok simulación de combinadas FC 27")
 

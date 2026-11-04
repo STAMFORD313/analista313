@@ -82,7 +82,8 @@ def fc_card(state):
     """FC 27 no se apuesta (sin cuotas de casa): como mucho cada 4 h, una tarjeta con sus pronósticos aún no enviados."""
     now = pd.Timestamp.now(tz="UTC")
     if state.get("fc_sent") and now - pd.Timestamp(state["fc_sent"]) < FC_EVERY: return
-    new = sorted((s for s in upcoming(state) if s.get("sport") == FC_ICON and not s.get("anunciada")), key=lambda s: -s["p"])[:5]
+    new = sorted((s for s in upcoming(state) if s.get("sport") == FC_ICON and not s.get("anunciada") and s.get("book") == "Unibet"
+                  and 0.05 <= s["edge"] <= 0.3), key=lambda s: -s["edge"])[:5]  # solo con valor frente a Unibet (no el favorito)
     if not new: return
     import boleto
     lines = [f"{FC_ICON} <b>FC 27 · APUESTAS</b> (simuladas, 1 €)"]

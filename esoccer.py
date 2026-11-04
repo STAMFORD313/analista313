@@ -236,27 +236,24 @@ def lot_combos(d):
     return pd.DataFrame(rows)
 
 
+FC_EDGE = 0.05  # solo se «apuesta» (simulación y tarjeta) si prob. del bot × cuota de Unibet − 1 ≥ 5 %: elegir por valor,
+                # no por favorito (4-nov, 142 con cuota: sin ventaja ROI −27 %, con ventaja 5-30 % +23 %)
+
+
+def value_bets(d):
+    return d[d.odds.notna() & (d.p_pick * d.odds - 1 >= FC_EDGE) & (d.p_pick * d.odds - 1 <= 0.3)]
+
+
 def sim_lines(last=8):
-    """Texto (HTML) del apartado de simulación: resumen por mercado y los últimos pronósticos con su resultado."""
+    """Resultado de las apuestas simuladas de FC 27: solo las de valor (cuota de Unibet por encima de la prob. del bot)."""
     d = simulation()
-    if d.empty: return ["🧪 <b>Simulación</b>: aún no hay pronósticos de FC 27 jugados."]
-    u = d[d.odds.notna()]
-    u = d[d.odds.notna()]
-    g = u.g_unibet if len(u) else d.g_justa
-    out = [f"💰 Total ({len(g)} apuestas de 1 €): <b>{g.sum():+.2f} €</b> · acertadas {(g > 0).mean():.0%}"]
+    v = value_bets(d) if not d.empty else d
+    if v.empty: return ["Aún no hay apuestas de valor de FC 27 jugadas."]
+    out = [f"💰 Total ({len(v)} apuestas de 1 € con valor): <b>{v.g_unibet.sum():+.2f} €</b> · acertadas {v.ok_1x2.mean():.0%}"]
     import boleto
-    for r in d.tail(last).itertuples():
-        win = {"1": r.p1, "X": "Empate", "2": r.p2}[str(r.pick)]
-        odds = r.odds if pd.notna(r.odds) else 1 / r.p_pick
-        out += ["", *boleto.boleto(f"{r.p1} vs {r.p2} ({int(r.s1)}-{int(r.s2)})", [(f"Gana {win}" if win != "Empate" else "Empate", bool(r.ok_1x2))],
-                                   odds, 1.0)]
-    lots = d.dropna(subset=["lote"]) if "lote" in d else d.iloc[:0]
-    lots = [g for _, g in lots.groupby("lote") if len(g) >= 2][-2:]
-    for g in lots:
-        legs = [(f"{r.p1} vs {r.p2} ({int(r.s1)}-{int(r.s2)})", {"1": f"Gana {r.p1}", "X": "Empate", "2": f"Gana {r.p2}"}[str(r.pick)], bool(r.ok_1x2))
-                for r in g.itertuples()]
-        odds = float(g.odds.prod()) if g.odds.notna().all() else float((1 / g.p_pick).prod())
-        out += ["", "🔗 Combinada", *boleto.boleto(None, legs, odds, 1.0)]
+    for r in v.tail(last).itertuples():
+        win = {"1": f"Gana {r.p1}", "X": "Empate", "2": f"Gana {r.p2}"}[str(r.pick)]
+        out += ["", *boleto.boleto(f"{r.p1} vs {r.p2} ({int(r.s1)}-{int(r.s2)})", [(win, bool(r.ok_1x2))], r.odds, 1.0)]
     return out
 
 
