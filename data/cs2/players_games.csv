@@ -34528,3 +34528,7 @@ game_id,match_id,slug,date,tier,bo,tournament_id,tournament,t1_id,t2_id,team1,te
 192255,133167,bestia-academy-vs-zetta-games-cs-03-11-2026,2026-11-03T22:15:00.000+00:00,b,3,5624,CCT South America 2026 Series 8,18461,23468,BESTIA Academy,Zetta,3,de_mirage,23468,16.0,13.0
 192256,133167,bestia-academy-vs-zetta-games-cs-03-11-2026,2026-11-03T22:15:00.000+00:00,b,3,5624,CCT South America 2026 Series 8,18461,23468,BESTIA Academy,Zetta,2,de_dust2,23468,13.0,11.0
 192257,133167,bestia-academy-vs-zetta-games-cs-03-11-2026,2026-11-03T22:15:00.000+00:00,b,3,5624,CCT South America 2026 Series 8,18461,23468,BESTIA Academy,Zetta,1,de_ancient,18461,13.0,5.0
+192069,133048,betboom-team-vs-aurora-gaming-04-11-2026,2026-11-04T02:00:00.000+00:00,s,3,5113,Intel Extreme Masters Beijing 2026,7498,3598,BetBoom,Aurora,2,de_cache,7498,13.0,5.0
+192070,133048,betboom-team-vs-aurora-gaming-04-11-2026,2026-11-04T02:00:00.000+00:00,s,3,5113,Intel Extreme Masters Beijing 2026,7498,3598,BetBoom,Aurora,1,de_mirage,7498,13.0,5.0
+192072,133049,liquid-vs-tyloo-cs-go-04-11-2026,2026-11-04T02:00:00.000+00:00,s,3,5113,Intel Extreme Masters Beijing 2026,790,757,Liquid,TYLOO,2,de_anubis,790,13.0,4.0
+192073,133049,liquid-vs-tyloo-cs-go-04-11-2026,2026-11-04T02:00:00.000+00:00,s,3,5113,Intel Extreme Masters Beijing 2026,790,757,Liquid,TYLOO,1,de_mirage,790,13.0,11.0
