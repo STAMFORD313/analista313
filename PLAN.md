@@ -33,6 +33,7 @@ Informe al usuario: una línea por mejora con 🟢 (conseguido) o 🔴 (no mejor
 ## Estrategias (laboratorio.py, semanal)
 - [x] Laboratorio con ~30 estrategias y validación antes/después de 2021 + CLV
 - [x] Más casas en vivo: Kambi (Unibet, Paf, LeoVegas ×2) + Smarkets → mediana frente a Pinnacle de −9.9 % a −4.2 %
-- [ ] Polymarket (mercados de predicción) y más mercados de Smarkets (más/menos goles, ambos marcan) en valor contra Pinnacle
+- [x] Más/menos 2.5 goles de Smarkets en valor contra Pinnacle (candidata sin stake)
+- [ ] Polymarket y ambos marcan en valor contra Pinnacle
 - [ ] Vigilar el CLV real de «valor contra Pinnacle» (⚽💎) con ≥ 50 apuestas; si CLV < 0, apagarla
 - [ ] Añadir al laboratorio: córners/tarjetas contra Pinnacle (si sus cuotas se guardan), NBA/NHL con odds_*.csv + cierre Pinnacle

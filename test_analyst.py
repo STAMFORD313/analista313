@@ -1290,3 +1290,13 @@ try:
     assert any(p.get("start_datetime_min") == "2026-11-04T16:58:00Z" for _, p in _calls)
 finally: _SMK.get = _g0
 print("ok Smarkets")
+# valor contra Pinnacle en más/menos 2.5 (Smarkets): candidata sin stake
+_now2 = pd.Timestamp.now(tz="UTC") + pd.Timedelta(hours=5)
+_rc = pd.read_csv
+_VP.pd.read_csv = lambda f, *a, **k: pd.DataFrame([{"start": str(_now2), "league": "LaLiga", "home": "Sevilla", "away": "Getafe", "market": "total",
+                                                      "line": 2.5, "o_over": 2.1, "o_under": 1.8}]) if "pinnacle" in str(f) else _rc(f, *a, **k)
+try:
+    _co = _VP.candidates_ou(ou=[{"home": "Sevilla", "away": "Getafe", "start": _now2, "line": 2.5, "odds": {"O": 2.3, "U": 1.75}, "book": "Smarkets"}])
+    assert [c["market"] for c in _co] == ["O25"] and _co[0]["sin_stake"], _co
+finally: _VP.pd.read_csv = _rc
+print("ok valor goles contra Pinnacle")

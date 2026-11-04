@@ -69,8 +69,42 @@ def candidates(now=None, uni=None, min_edge=MIN_EDGE, max_odds=MAX_ODDS):
     return out
 
 
+def candidates_ou(now=None, ou=None, min_edge=MIN_EDGE):
+    """Más/menos 2.5 goles: Smarkets frente al total de Pinnacle sin margen. Sin stake hasta demostrarlo (laboratorio:
+    +5.4 % ± 5 % antes de 2021, +2.9 % ± 3 % después, CLV +3.6 %): se registran para medir su CLV."""
+    now = now or pd.Timestamp.now(tz="UTC")
+    try: d = pd.read_csv(A.DATA / "pinnacle" / "futbol.csv")
+    except FileNotFoundError: return []
+    d = d[(d.market == "total") & (d.line == 2.5)].dropna(subset=["o_over", "o_under"])
+    t0 = pd.to_datetime(d.start, utc=True); d = d[(t0 > now + pd.Timedelta(minutes=10)) & (t0 < now + pd.Timedelta(hours=HOURS))]
+    if not len(d): return []
+    if ou is None:
+        import smarkets
+        ou = smarkets.football_ou(HOURS)
+    out = []
+    for r in d.itertuples():
+        t = pd.Timestamp(r.start)
+        u = next((e for e in ou if abs((e["start"] - t).total_seconds()) < 2 * 3600
+                  and A.find_team(r.home, [e["home"]]) and A.find_team(r.away, [e["away"]])), None)
+        if not u: continue
+        io, iu = 1 / r.o_over, 1 / r.o_under
+        for m, side, p in (("O25", "O", io / (io + iu)), ("U25", "U", iu / (io + iu))):
+            o = u["odds"][side]; edge = o * p - 1
+            if edge < min_edge or o > MAX_ODDS: continue
+            out.append({"key": f"vp|{t:%Y-%m-%d}|{r.home}|{r.away}", "market": m, "line": 2.5, "odds": round(o, 2), "book": u["book"],
+                        "p": round(p, 4), "implied": round(p, 4), "edge": round(edge, 4), "match": f"{r.home} vs {r.away}",
+                        "start": t.isoformat(), "league": f"💎 Valor vs Pinnacle · {r.league}", "sport": SPORT + "⚽", "sin_stake": True,
+                        "info": [f"💎 <b>Valor contra Pinnacle (goles)</b>: {u['book']} paga {o:.2f} y el justo de Pinnacle es {1 / p:.2f} ({edge:+.1%})",
+                                 "Candidata sin dinero hasta demostrar su CLV."],
+                        "context": f"{r.home} vs {r.away}: {'más' if side == 'O' else 'menos'} de 2.5 goles, valor contra Pinnacle."})
+    return out
+
+
 def run(state):
-    try: cands = candidates()
+    try:
+        cands = candidates()
+        try: cands += candidates_ou()
+        except Exception as e: print("valor Pinnacle goles", repr(e)[:120])
     except Exception as e: print("valor Pinnacle", repr(e)); return
     have = {(s["key"], s["market"]) for s in state["signals"]}
     new = [c for c in cands if (c["key"], c["market"]) not in have]
@@ -101,7 +135,8 @@ def settle(state):
                   and A.find_team(home, [g["home"]]) and A.find_team(away, [g["away"]])), None)
         if g:
             hs, as_ = float(g["hs"]), float(g["as"])
-            s["result"] = {"H": hs > as_, "D": hs == as_, "A": as_ > hs}[s["market"]]; s["score"] = f"{hs:g}-{as_:g}"; n += 1
+            s["result"] = {"H": hs > as_, "D": hs == as_, "A": as_ > hs, "O25": hs + as_ > 2.5, "U25": hs + as_ < 2.5}[s["market"]]
+            s["score"] = f"{hs:g}-{as_:g}"; n += 1
         elif pd.Timestamp.now(tz="UTC") - t > pd.Timedelta(days=6): s["result"] = "nula"
     print(f"valor Pinnacle: {n} liquidadas")
     return n

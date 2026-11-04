@@ -36,6 +36,33 @@ def events(hours=48, max_pages=8):
 def chunks(x, n=40): return [x[i:i + n] for i in range(0, len(x), n)]
 
 
+def football_ou(hours=48, line="2.5"):
+    """[{home, away, start, line, odds{O,U}, book}] del mercado más/menos `line` goles, cuota efectiva tras comisión."""
+    ev = {e[0]: e for e in events(hours)}
+    mk = {}
+    for ids in chunks(list(ev)):
+        for m in get(f"events/{','.join(ids)}/markets/").get("markets", []):
+            t = m.get("market_type") or {}
+            if t.get("name") == "OVER_UNDER" and str(t.get("param")) == line: mk[m["id"]] = m["event_id"]
+    out = []
+    for ids in chunks(list(mk)):
+        cts = get(f"markets/{','.join(ids)}/contracts/").get("contracts", [])
+        quotes = get(f"markets/{','.join(ids)}/quotes/")
+        by = {}
+        for c in cts:
+            side = {"OVER": "O", "UNDER": "U"}.get((c.get("contract_type") or {}).get("name")) or \
+                   ("O" if c.get("name", "").lower().startswith("over") else "U" if c.get("name", "").lower().startswith("under") else None)
+            offers = [o for o in (quotes.get(c["id"]) or {}).get("offers", []) if o.get("quantity", 0) >= MIN_QTY and o.get("price")]
+            if side and offers:
+                o = 10000 / min(x["price"] for x in offers)
+                by.setdefault(c["market_id"], {})[side] = round(1 + (o - 1) * (1 - COMMISSION), 3)
+        for mid, odds in by.items():
+            if len(odds) == 2:
+                _, t, h, a = ev[mk[mid]]
+                out.append({"home": h, "away": a, "start": t, "line": float(line), "odds": odds, "book": "Smarkets"})
+    return out
+
+
 def football_1x2(hours=48):
     """[{home, away, start, odds{H,D,A}, book: "Smarkets"}] con la cuota efectiva tras comisión."""
     ev = {e[0]: e for e in events(hours)}
