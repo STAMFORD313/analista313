@@ -534,6 +534,64 @@ def day_combo(D, hours=48, target=None):
     return _combo_text(title, legs, p, grouped=True) + note
 
 
+LONG_P = (0.30, 0.92)  # piernas de la combinada larga: probabilidad del modelo en la zona calibrada
+# prudencia: en totales de córners el modelo apenas supera a la media de la liga (medido) y a Unibet aún no se le ha
+# medido aquí → probabilidad usada = 30 % modelo + 70 % la de la casa sin margen; candidata hasta medirla con resultados
+W_LONG, LONG_EDGE = 0.30, 0.02
+
+
+def long_combo(D, target, hours=48):
+    """Combinada de cuota alta (p. ej. 80) con cuotas REALES de Unibet (Kambi): de cada partido de las próximas 48 h, la
+    línea de córners o tarjetas totales con más ventaja (prob. del modelo × cuota − 1 ≥ 0); se añaden, de más a menos
+    ventaja, hasta que el producto de cuotas llega a `target`. Entre partidos distintos la casa paga el producto exacto."""
+    import kambi
+    from concurrent.futures import ThreadPoolExecutor
+    matches = []
+    for code, evs in upcoming(DAY_LEAGUES, hours).items():
+        for t, home, away, _ in evs:
+            kh, ka = tkey("futbol", home, D), tkey("futbol", away, D)
+            if kh and ka: matches.append((t, home, away, kh, ka))
+    def get(m):
+        try: return m, kambi.offers(m[1], m[2], m[0], stats=("corners", "cards"))
+        except Exception as ex: print("Kambi", m[1], m[2], repr(ex)); return m, {}
+    with ThreadPoolExecutor(6) as ex: got = list(ex.map(get, matches))
+    cands, priced = [], 0
+    for (t, home, away, kh, ka), off in got:
+        if not off: continue
+        priced += 1; best = None
+        for stat in ("corners", "cards"):
+            lines = off.get((stat, "t")) or {}
+            mm = match_model(kh, ka, D, "corners" if stat == "corners" else "tarjetas")
+            if not mm or not lines: continue
+            for line, o in lines.items():
+                po = nb_over(mm[0] + mm[1], mm[2], line)
+                mo = (1 / o["o"]) / (1 / o["o"] + 1 / o["u"])  # probabilidad de la casa sin margen
+                for side, pmod, pmk, odd in (("Más", po, mo, o["o"]), ("Menos", 1 - po, 1 - mo, o["u"])):
+                    p = W_LONG * pmod + (1 - W_LONG) * pmk
+                    if not (LONG_P[0] <= p <= LONG_P[1]) or p * odd - 1 < LONG_EDGE: continue
+                    leg = (p * odd - 1, p, odd, f"{side} de {line:g} {LABEL['corners' if stat == 'corners' else 'tarjetas']}")
+                    if best is None or leg[0] > best[0]: best = leg
+        if best:
+            loc = t.tz_convert(TZ)
+            cands.append((f"{A.esc(home)} – {A.esc(away)} · {DIAS[loc.dayofweek]} {loc:%H:%M}", t, *best))
+    print(f"combinada larga: {len(matches)} partidos, {priced} con cuotas de Unibet, {len(cands)} piernas con ventaja")
+    legs, odds, p = [], 1.0, 1.0
+    for c in sorted(cands, key=lambda c: -c[2]):
+        if odds >= target: break
+        legs.append(c); odds *= c[4]; p *= c[3]
+    if len(legs) < 2:
+        return (f"Hoy no encuentro piernas con ventaja frente a Unibet para una combinada grande ({priced} partidos con cuotas "
+                f"en las próximas {hours} h). Mejor no forzarla: a cuota alta sin ventaja, la casa gana seguro a la larga.")
+    legs.sort(key=lambda c: c[1]); ev = p * odds - 1
+    lines = [f"🎰 <b>Combinada de cuota alta · objetivo {target:g}</b> (cuotas reales de Unibet)"]
+    for m, _, e, q, o, txt in legs: lines.append(f"<b>{m}</b>\n  • {txt} @ {o:.2f} ({q:.0%}, ventaja {e:+.0%})")
+    lines.append(f"{len(legs)} piernas · cuota <b>{odds:.1f}</b>: 1 € → {odds:.0f} € · acierta el <b>{p:.1%}</b> de las veces.")
+    if odds < target: lines.append(f"⚠️ Con piernas con ventaja solo llego a cuota {odds:.1f}.")
+    lines.append(f"{'🟢' if ev > 0 else '🔴'} Según el modelo, a la larga {'ganas' if ev > 0 else 'pierdes'} {abs(ev):.0%} de lo apostado. "
+                 "Es lotería: apuesta solo lo que puedas perder (1 €).")
+    return "\n".join(lines)
+
+
 def winner(kh, ka, D, odds=None, pick=None):
     h, a, sp = D[kh], D[ka], D[kh]["sport"]
     stat = "puntos" if sp == "nba" else "goles"
@@ -687,7 +745,8 @@ def _answer(t, short=True):
             _CTX.pop("partido", None); next_match(ks[0], D); kh, ka = _CTX.get("partido") or (None, None)
         else: kh, ka = _CTX.get("partido") or (None, None)
         m_t = re.search(r"(?:cuota|a)\s*(?:de\s*)?(\d+(?:[.,]\d+)?)", q) or re.search(r"@\s*(\d+(?:[.,]\d+)?)", q)
-        target = _f(m_t.group(1)) if m_t and 1.2 <= _f(m_t.group(1)) <= 50 else None
+        target = _f(m_t.group(1)) if m_t and 1.2 <= _f(m_t.group(1)) <= 1000 else None
+        if target and target >= 10: return long_combo(D, target)
         if target or re.search(r"del dia|de hoy|de manana|varios partidos|popurri|sub\w* la cuota|anad|mas piernas|mas cuota|lo maximo", q) \
                 or not (kh and ka and kh in D and ka in D): return day_combo(D, target=target)
         _CTX["partido"] = (kh, ka)

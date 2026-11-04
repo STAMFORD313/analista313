@@ -1020,3 +1020,20 @@ finally: _CH.upcoming = _up
 _lg3, _p3 = _CH.pick_legs([("a", "x", 0.97), ("a", "y", 0.86), ("b", "z", 0.96), ("b", "w", 0.87)], per_match=1, target=1.3)
 assert [x[1] for x in _lg3] == ["y", "w"]  # la segura que más paga de cada partido
 print("ok combinada a cuota objetivo")
+# combinada de cuota alta con cuotas de Unibet (simuladas): piernas con ventaja tras mezclar modelo y casa, hasta la cuota
+import kambi as _KB
+_off, _up4 = _KB.offers, _CH.upcoming
+_now = pd.Timestamp.now(tz="UTC")
+_CH._DB.update(db=_D, t=1e18); _CH.LEAGUE["SP1"] = [({"corners": 5.0}, {"corners": 4.0})] * 40
+for _e in _D.values():
+    if _e["kind"] == "equipo":
+        for _x in _e["games"]: _x[1]["_liga"] = "SP1"
+_CH.upcoming = lambda codes, hours=48: {"SP1": [(_now + pd.Timedelta(hours=5 + i), h, a, "") for i, (h, a) in
+                                                 enumerate([("Real Madrid", "Barcelona"), ("Barcelona", "Atlético Madrid"), ("Atlético Madrid", "Real Madrid")])]}
+_KB.offers = lambda h, a, t, stats=(): {("corners", "t"): {6.5: {"o": 1.30, "u": 3.40}, 12.5: {"o": 4.5, "u": 1.18}}}
+try:
+    _r = _CH.answer("combinada del día a cuota 80"); assert "objetivo 80" in _r or "no encuentro piernas" in _r.lower(), _r
+    _KB.offers = lambda h, a, t, stats=(): {}
+    assert "Hoy no encuentro piernas" in _CH.long_combo(_D, 80)
+finally: _KB.offers, _CH.upcoming = _off, _up4; _CH.LEAGUE.clear(); _CH._DB.clear(); _CH._DB["t"] = 0; _CH._BASE.clear()
+print("ok combinada de cuota alta")
