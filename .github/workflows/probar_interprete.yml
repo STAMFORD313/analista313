@@ -14,24 +14,8 @@ jobs:
         with: {python-version: "3.12"}
       - run: pip install -r requirements.txt
       - run: |
-          python - <<'PY'
-          import requests, json, collections
-          ev = []
-          for off in (0, 100, 200, 300):
-              r = requests.get("https://gamma-api.polymarket.com/events", params={"tag_slug": "soccer", "closed": "false", "limit": 100, "offset": off}, timeout=20)
-              ev += r.json()
-          print(len(ev), "eventos")
-          c = collections.Counter(m.get("sportsMarketType") for e in ev for m in e.get("markets", []))
-          print(c)
-          n = 0
-          for e in ev:
-              ms = [m for m in e.get("markets", []) if m.get("sportsMarketType") == "moneyline"]
-              if not ms or n >= 6: continue
-              n += 1
-              print(e.get("title"), e.get("startDate"), [t.get("slug") for t in e.get("tags", [])][:6])
-              for m in ms:
-                  print("   ", m.get("question"), m.get("outcomePrices"), "bid", m.get("bestBid"), "ask", m.get("bestAsk"), "liq", m.get("liquidityNum"), "vol", m.get("volumeNum"), "fee", m.get("feesEnabled"), m.get("takerBaseFee"), m.get("gameStartTime"))
-          print(sorted(ev[0].get("markets", [{}])[0].keys()))
-          PY
+          python -c "import valor_pinnacle as V, collections; c = V.candidates(); print(len(c), 'con valor', collections.Counter(x['book'] for x in c))"
+          python -c "import chat; print('partidos 48 h', {k: len(v) for k, v in chat.upcoming(chat.DAY_LEAGUES).items()})"
         env:
           PYTHONUNBUFFERED: "1"
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
