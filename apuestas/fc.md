@@ -1,96 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 04/11/2026 14:55 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Ganger_29 vs Taz — 04/11 · 14:58
-
-👀 candidata · 🎮⚽ FC 27 · FA Cup · **Gana Taz** @ **2.28** (Unibet) · prob 58% vs casas 38% · ventaja +32%
-
-- ❌ Valor: ventaja +32% (mín. 16% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 55.832 partidos)  
-Goles esperados: Ganger_29 2.61 · Taz 3.57  
-Ganador: Ganger_29 25% · empate 17% · Taz 58%  
-Total: más de 6.5 goles 42% · menos 58%  
-Hándicap Taz: −1.5 41% · −2.5 26%  
-🔎 **Claves**  
-• Forma: Ganger_29 ❌✅➖❌➖ | Taz ✅✅✅✅➖  
-• Partidos: Ganger_29 728 | Taz 853  
-• Liga: FA Cup  
-• Unibet: 1 2.10 · X 4.30 · 2 2.28 (sin margen 42%/20%/38%) · ventaja +32%. Sin stake hasta demostrar ROI con estas cuotas.  
-
-## dm1trena vs DaVa — 04/11 · 15:04
-
-👀 candidata · 🎮⚽ FC 27 · LaLiga · **Gana DaVa** @ **1.64** (Unibet) · prob 66% vs casas 53% · ventaja +8%
-
-- ❌ Valor: ventaja +8% (mín. 10% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 55.842 partidos)  
-Goles esperados: dm1trena 2.07 · DaVa 3.32  
-Ganador: dm1trena 17% · empate 17% · DaVa 66%  
-Total: más de 5.5 goles 45% · menos 55%  
-Hándicap DaVa: −1.5 45% · −2.5 29%  
-🔎 **Claves**  
-• Forma: dm1trena ➖❌❌✅➖ | DaVa ✅❌➖✅➖  
-• Partidos: dm1trena 997 | DaVa 1116  
-• Liga: LaLiga  
-• Unibet: 1 3.90 · X 3.60 · 2 1.64 (sin margen 22%/24%/53%) · ventaja +8%. Sin stake hasta demostrar ROI con estas cuotas.  
-
-## SDI vs spirtes — 04/11 · 15:04
-
-👀 candidata · 🎮⚽ FC 27 · Eredivisie · **Gana SDI** @ **2.80** (Unibet) · prob 37% vs casas 31% · ventaja +2%
-
-- ❌ Valor: ventaja +2% (mín. 9% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 55.856 partidos)  
-Goles esperados: SDI 3.11 · spirtes 3.26  
-Ganador: SDI 37% · empate 18% · spirtes 45%  
-Total: más de 6.5 goles 45% · menos 55%  
-Hándicap spirtes: −1.5 29% · −2.5 17%  
-🔎 **Claves**  
-• Forma: SDI ❌➖❌❌➖ | spirtes ❌❌✅➖➖  
-• Partidos: SDI 336 | spirtes 884  
-• Liga: Eredivisie  
-• Unibet: 1 2.80 · X 3.95 · 2 1.87 (sin margen 31%/22%/47%) · ventaja +2%. Sin stake hasta demostrar ROI con estas cuotas.  
-
-## Buu vs Lufy — 04/11 · 15:06
-
-👀 candidata · 🎮⚽ FC 27 · International A 2x6 · **Gana Lufy** @ **1.95** (Unibet) · prob 56% vs casas 45% · ventaja +9%
-
-- ❌ Valor: ventaja +9% (mín. 10% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 55.842 partidos)  
-Goles esperados: Buu 5.00 · Lufy 5.88  
-Ganador: Buu 31% · empate 13% · Lufy 56%  
-Total: más de 10.5 goles 52% · menos 48%  
-Hándicap Lufy: −1.5 42% · −2.5 31%  
-🔎 **Claves**  
-• Forma: Buu ❌❌✅❌❌ | Lufy ❌➖✅✅✅  
-• Partidos: Buu 663 | Lufy 646  
-• Liga: International A 2x6  
-• Unibet: 1 2.18 · X 6.00 · 2 1.95 (sin margen 40%/15%/45%) · ventaja +9%. Sin stake hasta demostrar ROI con estas cuotas.  
-
-## cappo vs steeffant — 04/11 · 15:06
-
-👀 candidata · 🎮⚽ FC 27 · International A 2x6 · **Gana steeffant** @ **1.21** (Unibet) · prob 85% vs casas 72% · ventaja +3%
-
-- ❌ Valor: ventaja +3% (mín. 9% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 55.856 partidos)  
-Goles esperados: cappo 3.33 · steeffant 6.49  
-Ganador: cappo 8% · empate 7% · steeffant 85%  
-Total: más de 9.5 goles 52% · menos 48%  
-Hándicap steeffant: −1.5 70% · −2.5 58%  
-🔎 **Claves**  
-• Forma: cappo ❌❌❌❌❌ | steeffant ✅✅✅➖❌  
-• Partidos: cappo 248 | steeffant 703  
-• Liga: International A 2x6  
-• Unibet: 1 5.00 · X 8.00 · 2 1.21 (sin margen 17%/11%/72%) · ventaja +3%. Sin stake hasta demostrar ROI con estas cuotas.  
+Actualizado 04/11/2026 15:09 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Maslja vs Totti — 04/11 · 15:10
 
@@ -109,6 +19,24 @@ Hándicap Maslja: −1.5 29% · −2.5 17%
 • Partidos: Maslja 820 | Totti 859  
 • Liga: Serie A  
 • Unibet: 1 2.48 · X 4.50 · 2 1.93 (sin margen 35%/19%/45%) · ventaja +9%. Sin stake hasta demostrar ROI con estas cuotas.  
+
+## spirtes vs mPm — 04/11 · 15:16
+
+👀 candidata · 🎮⚽ FC 27 · Eredivisie · **Gana mPm** @ **1.78** (Unibet) · prob 60% vs casas 49% · ventaja +7%
+
+- ❌ Valor: ventaja +7% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 55.876 partidos)  
+Goles esperados: spirtes 2.56 · mPm 3.62  
+Ganador: spirtes 23% · empate 17% · mPm 60%  
+Total: más de 6.5 goles 42% · menos 58%  
+Hándicap mPm: −1.5 42% · −2.5 27%  
+🔎 **Claves**  
+• Forma: spirtes ❌❌✅➖➖ | mPm ✅✅✅✅❌  
+• Partidos: spirtes 884 | mPm 651  
+• Liga: Eredivisie  
+• Unibet: 1 2.75 · X 4.60 · 2 1.78 (sin margen 32%/19%/49%) · ventaja +7%. Sin stake hasta demostrar ROI con estas cuotas.  
 
 ## Totti vs w1nkos — 04/11 · 15:22
 
@@ -163,4 +91,40 @@ Hándicap Mani: −1.5 41% · −2.5 26%
 • Partidos: pikalicaaa 543 | Mani 744  
 • Liga: Europa League  
 • Unibet: 1 2.60 · X 4.40 · 2 1.88 (sin margen 34%/20%/47%) · ventaja +11%. Sin stake hasta demostrar ROI con estas cuotas.  
+
+## DaVa vs Jekunam — 04/11 · 15:28
+
+👀 candidata · 🎮⚽ FC 27 · LaLiga · **Gana DaVa** @ **1.97** (Unibet) · prob 55% vs casas 44% · ventaja +8%
+
+- ❌ Valor: ventaja +8% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 55.876 partidos)  
+Goles esperados: DaVa 2.80 · Jekunam 2.08  
+Ganador: DaVa 55% · empate 20% · Jekunam 25%  
+Total: más de 4.5 goles 54% · menos 46%  
+Hándicap DaVa: −1.5 35% · −2.5 20%  
+🔎 **Claves**  
+• Forma: DaVa ✅❌➖✅➖ | Jekunam ❌✅✅❌➖  
+• Partidos: DaVa 1116 | Jekunam 978  
+• Liga: LaLiga  
+• Unibet: 1 1.97 · X 3.55 · 2 2.75 (sin margen 44%/24%/32%) · ventaja +8%. Sin stake hasta demostrar ROI con estas cuotas.  
+
+## w1nkos vs Maslja — 04/11 · 15:34
+
+👀 candidata · 🎮⚽ FC 27 · Serie A · **Gana w1nkos** @ **2.04** (Unibet) · prob 55% vs casas 43% · ventaja +12%
+
+- ✅ Valor: ventaja +12% (mín. 11% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 55.876 partidos)  
+Goles esperados: w1nkos 3.68 · Maslja 2.92  
+Ganador: w1nkos 55% · empate 17% · Maslja 28%  
+Total: más de 6.5 goles 49% · menos 51%  
+Hándicap w1nkos: −1.5 38% · −2.5 24%  
+🔎 **Claves**  
+• Forma: w1nkos ❌✅❌✅➖ | Maslja ❌❌❌✅✅  
+• Partidos: w1nkos 1095 | Maslja 820  
+• Liga: Serie A  
+• Unibet: 1 2.04 · X 4.25 · 2 2.38 (sin margen 43%/21%/37%) · ventaja +12%. Sin stake hasta demostrar ROI con estas cuotas.  
 

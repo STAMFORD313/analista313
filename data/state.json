@@ -1308,7 +1308,10 @@
   "dota2|132454",
   "fc|2362050",
   "fc|2362188",
-  "fc|2363382"
+  "fc|2363382",
+  "fc|2362053",
+  "fc|2361807",
+  "fc|2362778"
  ],
  "signals": [
   {
@@ -17568,7 +17571,10 @@
    "bajas": "",
    "considered": true,
    "placed": false,
-   "anunciada": true
+   "anunciada": true,
+   "score": "4-1",
+   "result": true,
+   "logged": true
   },
   {
    "market": "D",
@@ -17612,7 +17618,10 @@
    "version": "63e4ce0",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "3-4",
+   "result": false,
+   "logged": true
   },
   {
    "market": "A",
@@ -17678,7 +17687,10 @@
    "version": "72664be",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "2-5",
+   "result": true,
+   "logged": true
   },
   {
    "market": "A",
@@ -17777,7 +17789,10 @@
    "version": "62fb419",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "1-1",
+   "result": false,
+   "logged": true
   },
   {
    "market": "A",
@@ -17819,7 +17834,10 @@
    "version": "f26ee10",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "4-4",
+   "result": false,
+   "logged": true
   },
   {
    "market": "H",
@@ -17930,7 +17948,10 @@
    "version": "3d8de42",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "3-2",
+   "result": true,
+   "logged": true
   },
   {
    "market": "H",
@@ -17951,7 +17972,10 @@
    "version": "eb23da5",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "6-1",
+   "result": true,
+   "logged": true
   },
   {
    "market": "A",
@@ -17972,7 +17996,10 @@
    "version": "eb23da5",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "4-6",
+   "result": true,
+   "logged": true
   },
   {
    "market": "H",
@@ -18009,25 +18036,15 @@
    "start": "2026-11-04T13:58:00+00:00",
    "league": "🎮⚽ FC 27 · FA Cup",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 55.832 partidos)",
-    "Goles esperados: Ganger_29 2.61 · Taz 3.57",
-    "Ganador: Ganger_29 25% · empate 17% · Taz 58%",
-    "Total: más de 6.5 goles 42% · menos 58%",
-    "Hándicap Taz: −1.5 41% · −2.5 26%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Ganger_29 ❌✅➖❌➖ | Taz ✅✅✅✅➖",
-    "• Partidos: Ganger_29 728 | Taz 853",
-    "• Liga: FA Cup",
-    "• Unibet: 1 2.10 · X 4.30 · 2 2.28 (sin margen 42%/20%/38%) · ventaja +32%. Sin stake hasta demostrar ROI con estas cuotas."
-   ],
    "context": "EA FC Esoccer Battle Ganger_29 vs Taz (FA Cup): goles esperados 2.61-3.57, 1X2 25%/17%/58%. Sin cuotas de casa.",
    "captured": "2026-11-04T13:23",
    "version": "047d580",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "1-2",
+   "result": true,
+   "logged": true
   },
   {
    "market": "H",
@@ -18077,19 +18094,6 @@
    "start": "2026-11-04T14:06:00+00:00",
    "league": "🎮⚽ FC 27 · International A 2x6",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 55.842 partidos)",
-    "Goles esperados: Buu 5.00 · Lufy 5.88",
-    "Ganador: Buu 31% · empate 13% · Lufy 56%",
-    "Total: más de 10.5 goles 52% · menos 48%",
-    "Hándicap Lufy: −1.5 42% · −2.5 31%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Buu ❌❌✅❌❌ | Lufy ❌➖✅✅✅",
-    "• Partidos: Buu 663 | Lufy 646",
-    "• Liga: International A 2x6",
-    "• Unibet: 1 2.18 · X 6.00 · 2 1.95 (sin margen 40%/15%/45%) · ventaja +9%. Sin stake hasta demostrar ROI con estas cuotas."
-   ],
    "context": "EA FC Esoccer Battle Buu vs Lufy (International A 2x6): goles esperados 5.00-5.88, 1X2 31%/13%/56%. Sin cuotas de casa.",
    "captured": "2026-11-04T13:30",
    "version": "786eab5",
@@ -18111,19 +18115,6 @@
    "start": "2026-11-04T14:04:00+00:00",
    "league": "🎮⚽ FC 27 · LaLiga",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 55.842 partidos)",
-    "Goles esperados: dm1trena 2.07 · DaVa 3.32",
-    "Ganador: dm1trena 17% · empate 17% · DaVa 66%",
-    "Total: más de 5.5 goles 45% · menos 55%",
-    "Hándicap DaVa: −1.5 45% · −2.5 29%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: dm1trena ➖❌❌✅➖ | DaVa ✅❌➖✅➖",
-    "• Partidos: dm1trena 997 | DaVa 1116",
-    "• Liga: LaLiga",
-    "• Unibet: 1 3.90 · X 3.60 · 2 1.64 (sin margen 22%/24%/53%) · ventaja +8%. Sin stake hasta demostrar ROI con estas cuotas."
-   ],
    "context": "EA FC Esoccer Battle dm1trena vs DaVa (LaLiga): goles esperados 2.07-3.32, 1X2 17%/17%/66%. Sin cuotas de casa.",
    "captured": "2026-11-04T13:30",
    "version": "786eab5",
@@ -18199,19 +18190,6 @@
    "start": "2026-11-04T14:06:00+00:00",
    "league": "🎮⚽ FC 27 · International A 2x6",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 55.856 partidos)",
-    "Goles esperados: cappo 3.33 · steeffant 6.49",
-    "Ganador: cappo 8% · empate 7% · steeffant 85%",
-    "Total: más de 9.5 goles 52% · menos 48%",
-    "Hándicap steeffant: −1.5 70% · −2.5 58%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: cappo ❌❌❌❌❌ | steeffant ✅✅✅➖❌",
-    "• Partidos: cappo 248 | steeffant 703",
-    "• Liga: International A 2x6",
-    "• Unibet: 1 5.00 · X 8.00 · 2 1.21 (sin margen 17%/11%/72%) · ventaja +3%. Sin stake hasta demostrar ROI con estas cuotas."
-   ],
    "context": "EA FC Esoccer Battle cappo vs steeffant (International A 2x6): goles esperados 3.33-6.49, 1X2 8%/7%/85%. Sin cuotas de casa.",
    "captured": "2026-11-04T13:39",
    "version": "0fc72a7",
@@ -18233,19 +18211,6 @@
    "start": "2026-11-04T14:04:00+00:00",
    "league": "🎮⚽ FC 27 · Eredivisie",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 55.856 partidos)",
-    "Goles esperados: SDI 3.11 · spirtes 3.26",
-    "Ganador: SDI 37% · empate 18% · spirtes 45%",
-    "Total: más de 6.5 goles 45% · menos 55%",
-    "Hándicap spirtes: −1.5 29% · −2.5 17%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: SDI ❌➖❌❌➖ | spirtes ❌❌✅➖➖",
-    "• Partidos: SDI 336 | spirtes 884",
-    "• Liga: Eredivisie",
-    "• Unibet: 1 2.80 · X 3.95 · 2 1.87 (sin margen 31%/22%/47%) · ventaja +2%. Sin stake hasta demostrar ROI con estas cuotas."
-   ],
    "context": "EA FC Esoccer Battle SDI vs spirtes (Eredivisie): goles esperados 3.11-3.26, 1X2 37%/18%/45%. Sin cuotas de casa.",
    "captured": "2026-11-04T13:39",
    "version": "0fc72a7",
@@ -18372,6 +18337,108 @@
    "context": "EA FC Esoccer Battle Lufy vs ZORO (International A 2x6): goles esperados 4.04-6.99, 1X2 10%/8%/82%. Sin cuotas de casa.",
    "captured": "2026-11-04T13:55",
    "version": "ea26b39",
+   "bajas": "",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "H",
+   "pick": "w1nkos",
+   "odds": 2.04,
+   "book": "Unibet",
+   "implied": 0.428,
+   "edge": 0.119,
+   "sin_stake": true,
+   "p": 0.548,
+   "key": "fc|2362053",
+   "match": "w1nkos vs Maslja",
+   "start": "2026-11-04T14:34:00+00:00",
+   "league": "🎮⚽ FC 27 · Serie A",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 55.876 partidos)",
+    "Goles esperados: w1nkos 3.68 · Maslja 2.92",
+    "Ganador: w1nkos 55% · empate 17% · Maslja 28%",
+    "Total: más de 6.5 goles 49% · menos 51%",
+    "Hándicap w1nkos: −1.5 38% · −2.5 24%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: w1nkos ❌✅❌✅➖ | Maslja ❌❌❌✅✅",
+    "• Partidos: w1nkos 1095 | Maslja 820",
+    "• Liga: Serie A",
+    "• Unibet: 1 2.04 · X 4.25 · 2 2.38 (sin margen 43%/21%/37%) · ventaja +12%. Sin stake hasta demostrar ROI con estas cuotas."
+   ],
+   "context": "EA FC Esoccer Battle w1nkos vs Maslja (Serie A): goles esperados 3.68-2.92, 1X2 55%/17%/28%. Sin cuotas de casa.",
+   "captured": "2026-11-04T14:09",
+   "version": "d915faa",
+   "bajas": "",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "H",
+   "pick": "DaVa",
+   "odds": 1.97,
+   "book": "Unibet",
+   "implied": 0.44,
+   "edge": 0.083,
+   "sin_stake": true,
+   "p": 0.55,
+   "key": "fc|2361807",
+   "match": "DaVa vs Jekunam",
+   "start": "2026-11-04T14:28:00+00:00",
+   "league": "🎮⚽ FC 27 · LaLiga",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 55.876 partidos)",
+    "Goles esperados: DaVa 2.80 · Jekunam 2.08",
+    "Ganador: DaVa 55% · empate 20% · Jekunam 25%",
+    "Total: más de 4.5 goles 54% · menos 46%",
+    "Hándicap DaVa: −1.5 35% · −2.5 20%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: DaVa ✅❌➖✅➖ | Jekunam ❌✅✅❌➖",
+    "• Partidos: DaVa 1116 | Jekunam 978",
+    "• Liga: LaLiga",
+    "• Unibet: 1 1.97 · X 3.55 · 2 2.75 (sin margen 44%/24%/32%) · ventaja +8%. Sin stake hasta demostrar ROI con estas cuotas."
+   ],
+   "context": "EA FC Esoccer Battle DaVa vs Jekunam (LaLiga): goles esperados 2.80-2.08, 1X2 55%/20%/25%. Sin cuotas de casa.",
+   "captured": "2026-11-04T14:09",
+   "version": "d915faa",
+   "bajas": "",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "A",
+   "pick": "mPm",
+   "odds": 1.78,
+   "book": "Unibet",
+   "implied": 0.492,
+   "edge": 0.071,
+   "sin_stake": true,
+   "p": 0.602,
+   "key": "fc|2362778",
+   "match": "spirtes vs mPm",
+   "start": "2026-11-04T14:16:00+00:00",
+   "league": "🎮⚽ FC 27 · Eredivisie",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 55.876 partidos)",
+    "Goles esperados: spirtes 2.56 · mPm 3.62",
+    "Ganador: spirtes 23% · empate 17% · mPm 60%",
+    "Total: más de 6.5 goles 42% · menos 58%",
+    "Hándicap mPm: −1.5 42% · −2.5 27%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: spirtes ❌❌✅➖➖ | mPm ✅✅✅✅❌",
+    "• Partidos: spirtes 884 | mPm 651",
+    "• Liga: Eredivisie",
+    "• Unibet: 1 2.75 · X 4.60 · 2 1.78 (sin margen 32%/19%/49%) · ventaja +7%. Sin stake hasta demostrar ROI con estas cuotas."
+   ],
+   "context": "EA FC Esoccer Battle spirtes vs mPm (Eredivisie): goles esperados 2.56-3.62, 1X2 23%/17%/60%. Sin cuotas de casa.",
+   "captured": "2026-11-04T14:09",
+   "version": "d915faa",
    "bajas": "",
    "considered": true,
    "placed": false
