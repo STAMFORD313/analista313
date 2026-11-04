@@ -742,7 +742,7 @@ def match_combo(D, kh, ka, target, hours=72):
     return "\n".join(out)
 
 
-def long_combo(D, target, hours=48, sports=None):
+def long_combo(D, target, hours=48, sports=None, only_stats=False):
     """Combinada de cuota alta (p. ej. 80) con cuotas REALES de Unibet (Kambi): de cada partido de las próximas 48 h, la
     línea de córners o tarjetas totales con más ventaja (prob. del modelo × cuota − 1 ≥ 0); se añaden, de más a menos
     ventaja, hasta que el producto de cuotas llega a `target`. Entre partidos distintos la casa paga el producto exacto."""
@@ -778,7 +778,7 @@ def long_combo(D, target, hours=48, sports=None):
             loc = t.tz_convert(TZ); m = f"{A.esc(home)} – {A.esc(away)} · {DIAS[loc.dayofweek]} {loc:%H:%M}"
             meta[m] = (code, str(t), home, away)
             cands.append((m, t, *best))
-    for l in other_legs(hours, sports):  # ganador en NBA/NHL/esports/FC 27 con la cuota guardada por el bot
+    for l in ([] if only_stats else other_legs(hours, sports)):  # ganador en NBA/NHL/esports/FC 27 con la cuota guardada por el bot
         if not l["odds"]: continue
         import multideporte
         pm = multideporte.pinnacle_fair(l) or min(0.99, 1 / l["odds"] / 1.05)  # Pinnacle sin margen; si no, la casa − ~5 %
@@ -1110,7 +1110,8 @@ def _answer(t, short=True):
         target = _f(m_t.group(1)) if m_t and 1.2 <= _f(m_t.group(1)) <= 1000 else None
         sp = sports_in(q)
         if target and target >= 10 and len(ks) == 2: return match_combo(D, kh, ka, target)  # «solo de este partido»
-        if target and target >= 10: return long_combo(D, target, sports=sp)
+        stats_only = bool(re.search(r"corner|tarjeta", q)) and not re.search(r"gana|ganador|nba|esports|cs2|dota|lol", q)
+        if target and target >= 10: return long_combo(D, target, sports=sp, only_stats=stats_only)  # «de córners y tarjetas a cuota 16»
         if target or re.search(r"del dia|de hoy|de manana|varios partidos|popurri|sub\w* la cuota|anad|mas piernas|mas cuota|lo maximo", q) \
                 or sp is not None or not (kh and ka and kh in D and ka in D): return day_combo(D, target=target, sports=sp)
         _CTX["partido"] = (kh, ka)

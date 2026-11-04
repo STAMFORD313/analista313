@@ -1250,3 +1250,11 @@ _Dl = pd.DataFrame({"Date": pd.to_datetime(["2016-01-01"] * 40 + ["2023-01-01"] 
 _r = _LB.run_strategy(_Dl, "prueba", [(pd.Series([True] * 80), pd.Series([2.0] * 80), pd.Series([True, False, True] * 26 + [True, True]), pd.Series([0.5] * 80))])
 assert _r["antes"]["n"] == 40 and _r["despues"]["n"] == 40 and _r["total"]["clv"] == 0.0 and "prometedora" in _r
 print("ok laboratorio")
+# combinada de cuota alta solo de córners y tarjetas
+_lc = _CH.long_combo; _seen = {}
+_CH.long_combo = lambda D, target, hours=48, sports=None, only_stats=False: _seen.update(t=target, o=only_stats) or "ok"
+try:
+    _CH._DB.update(db=_D, t=1e18); _CH.answer("combinada de córners y tarjetas a cuota 16"); assert _seen == {"t": 16.0, "o": True}, _seen
+    _CH.answer("combinada a cuota 80"); assert _seen == {"t": 80.0, "o": False}, _seen
+finally: _CH.long_combo = _lc; _CH._DB.clear(); _CH._DB["t"] = 0; _CH._CTX.clear(); _CH.LAST_FILE.unlink(missing_ok=True)
+print("ok combinada solo córners y tarjetas")
