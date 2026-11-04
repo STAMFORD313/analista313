@@ -1,24 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 04/11/2026 17:02 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Maki vs lzrn — 04/11 · 17:04
-
-👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana Maki** @ **1.79** (Unibet) · prob 60% vs casas 49% · ventaja +7%
-
-- ❌ Valor: ventaja +7% (mín. 10% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 55.956 partidos)  
-Goles esperados: Maki 4.58 · lzrn 3.53  
-Ganador: Maki 60% · empate 15% · lzrn 26%  
-Total: más de 8.5 goles 42% · menos 58%  
-Hándicap Maki: −1.5 43% · −2.5 30%  
-🔎 **Claves**  
-• Forma: Maki ❌✅❌✅✅ | lzrn ✅➖❌❌➖  
-• Partidos: Maki 835 | lzrn 743  
-• Liga: Champions League B  
-• Unibet: 1 1.79 · X 6.25 · 2 2.40 (sin margen 49%/14%/37%) · ventaja +7%. Sin stake hasta demostrar ROI con estas cuotas.  
+Actualizado 04/11/2026 17:10 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Animal vs chevare — 04/11 · 17:16
 
@@ -73,6 +55,42 @@ Hándicap Maslja: −1.5 29% · −2.5 17%
 • Partidos: Maslja 820 | Totti 859  
 • Liga: World Cup B  
 • Unibet: 1 2.35 · X 4.60 · 2 1.98 (sin margen 37%/19%/44%) · ventaja +4%. Sin stake hasta demostrar ROI con estas cuotas.  
+
+## spirtes vs mPm — 04/11 · 17:26
+
+👀 candidata · 🎮⚽ FC 27 · A-League · **Gana mPm** @ **1.71** (Unibet) · prob 64% vs casas 52% · ventaja +9%
+
+- ❌ Valor: ventaja +9% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 55.976 partidos)  
+Goles esperados: spirtes 2.30 · mPm 3.55  
+Ganador: spirtes 20% · empate 17% · mPm 64%  
+Total: más de 5.5 goles 53% · menos 47%  
+Hándicap mPm: −1.5 45% · −2.5 29%  
+🔎 **Claves**  
+• Forma: spirtes ❌➖❌❌➖ | mPm ✅✅✅✅✅  
+• Partidos: spirtes 892 | mPm 659  
+• Liga: A-League  
+• Unibet: 1 2.60 · X 6.10 · 2 1.71 (sin margen 34%/14%/52%) · ventaja +9%. Sin stake hasta demostrar ROI con estas cuotas.  
+
+## Gazi vs Shinobu — 04/11 · 17:26
+
+👀 candidata · 🎮⚽ FC 27 · A-League · **Gana Shinobu** @ **2.35** (Unibet) · prob 45% vs casas 37% · ventaja +6%
+
+- ❌ Valor: ventaja +6% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 55.976 partidos)  
+Goles esperados: Gazi 1.91 · Shinobu 2.20  
+Ganador: Gazi 31% · empate 24% · Shinobu 45%  
+Total: más de 4.5 goles 39% · menos 61%  
+Hándicap Shinobu: −1.5 27% · −2.5 13%  
+🔎 **Claves**  
+• Forma: Gazi ❌➖❌❌❌ | Shinobu ✅✅❌✅➖  
+• Partidos: Gazi 344 | Shinobu 1200  
+• Liga: A-League  
+• Unibet: 1 2.08 · X 4.10 · 2 2.35 (sin margen 42%/21%/37%) · ventaja +6%. Sin stake hasta demostrar ROI con estas cuotas.  
 
 ## lzrn vs llulle — 04/11 · 17:28
 
@@ -163,4 +181,22 @@ Hándicap borees: −1.5 32% · −2.5 19%
 • Partidos: borees 924 | Totti 859  
 • Liga: World Cup B  
 • Unibet: 1 2.45 · X 4.10 · 2 2.02 (sin margen 36%/21%/43%) · ventaja +16%. Sin stake hasta demostrar ROI con estas cuotas.  
+
+## lzrn vs Animal — 04/11 · 17:50
+
+👀 candidata · 🎮⚽ FC 27 · Super Lig · **Gana Animal** @ **1.92** (Unibet) · prob 57% vs casas 45% · ventaja +10%
+
+- ❌ Valor: ventaja +10% (mín. 11% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 55.976 partidos)  
+Goles esperados: lzrn 2.97 · Animal 3.84  
+Ganador: lzrn 26% · empate 17% · Animal 57%  
+Total: más de 6.5 goles 52% · menos 48%  
+Hándicap Animal: −1.5 40% · −2.5 26%  
+🔎 **Claves**  
+• Forma: lzrn ✅➖❌❌➖ | Animal ✅✅✅➖✅  
+• Partidos: lzrn 743 | Animal 768  
+• Liga: Super Lig  
+• Unibet: 1 2.45 · X 4.60 · 2 1.92 (sin margen 36%/19%/45%) · ventaja +10%. Sin stake hasta demostrar ROI con estas cuotas.  
 

@@ -1347,7 +1347,10 @@
   "mlbb|131358",
   "fc|2362072",
   "fc|2362070",
-  "fc|2362446"
+  "fc|2362446",
+  "fc|2362448",
+  "fc|2362798",
+  "fc|2362799"
  ],
  "signals": [
   {
@@ -18111,7 +18114,11 @@
    "version": "047d580",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "0-4",
+   "result": false,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "A",
@@ -18304,7 +18311,11 @@
    "version": "ea26b39",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "3-1",
+   "result": false,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "A",
@@ -18367,7 +18378,11 @@
    "version": "988e887",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "5-3",
+   "result": true,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "H",
@@ -18409,7 +18424,11 @@
    "version": "d915faa",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "3-4",
+   "result": false,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "A",
@@ -18614,7 +18633,11 @@
    "version": "526cc41",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "4-1",
+   "result": false,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "H",
@@ -18656,7 +18679,11 @@
    "version": "69dd2ee",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "2-2",
+   "result": false,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "H",
@@ -18677,7 +18704,11 @@
    "version": "69dd2ee",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "2-3",
+   "result": false,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "A",
@@ -18890,19 +18921,6 @@
    "start": "2026-11-04T16:04:00+00:00",
    "league": "🎮⚽ FC 27 · Champions League B",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 55.956 partidos)",
-    "Goles esperados: Maki 4.58 · lzrn 3.53",
-    "Ganador: Maki 60% · empate 15% · lzrn 26%",
-    "Total: más de 8.5 goles 42% · menos 58%",
-    "Hándicap Maki: −1.5 43% · −2.5 30%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Maki ❌✅❌✅✅ | lzrn ✅➖❌❌➖",
-    "• Partidos: Maki 835 | lzrn 743",
-    "• Liga: Champions League B",
-    "• Unibet: 1 1.79 · X 6.25 · 2 2.40 (sin margen 49%/14%/37%) · ventaja +7%. Sin stake hasta demostrar ROI con estas cuotas."
-   ],
    "context": "EA FC Esoccer Battle Maki vs lzrn (Champions League B): goles esperados 4.58-3.53, 1X2 60%/15%/26%. Sin cuotas de casa.",
    "captured": "2026-11-04T15:45",
    "version": "a89546d",
@@ -19145,6 +19163,108 @@
    "context": "EA FC Esoccer Battle Maki vs Animal (Champions League B): goles esperados 4.62-4.60, 1X2 43%/15%/42%. Sin cuotas de casa.",
    "captured": "2026-11-04T16:02",
    "version": "60e5177",
+   "bajas": "",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "A",
+   "pick": "Animal",
+   "odds": 1.92,
+   "book": "Unibet",
+   "implied": 0.454,
+   "edge": 0.101,
+   "sin_stake": true,
+   "p": 0.574,
+   "key": "fc|2362448",
+   "match": "lzrn vs Animal",
+   "start": "2026-11-04T16:50:00+00:00",
+   "league": "🎮⚽ FC 27 · Super Lig",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 55.976 partidos)",
+    "Goles esperados: lzrn 2.97 · Animal 3.84",
+    "Ganador: lzrn 26% · empate 17% · Animal 57%",
+    "Total: más de 6.5 goles 52% · menos 48%",
+    "Hándicap Animal: −1.5 40% · −2.5 26%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: lzrn ✅➖❌❌➖ | Animal ✅✅✅➖✅",
+    "• Partidos: lzrn 743 | Animal 768",
+    "• Liga: Super Lig",
+    "• Unibet: 1 2.45 · X 4.60 · 2 1.92 (sin margen 36%/19%/45%) · ventaja +10%. Sin stake hasta demostrar ROI con estas cuotas."
+   ],
+   "context": "EA FC Esoccer Battle lzrn vs Animal (Super Lig): goles esperados 2.97-3.84, 1X2 26%/17%/57%. Sin cuotas de casa.",
+   "captured": "2026-11-04T16:10",
+   "version": "dd077b7",
+   "bajas": "",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "A",
+   "pick": "mPm",
+   "odds": 1.71,
+   "book": "Unibet",
+   "implied": 0.516,
+   "edge": 0.09,
+   "sin_stake": true,
+   "p": 0.637,
+   "key": "fc|2362798",
+   "match": "spirtes vs mPm",
+   "start": "2026-11-04T16:26:00+00:00",
+   "league": "🎮⚽ FC 27 · A-League",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 55.976 partidos)",
+    "Goles esperados: spirtes 2.30 · mPm 3.55",
+    "Ganador: spirtes 20% · empate 17% · mPm 64%",
+    "Total: más de 5.5 goles 53% · menos 47%",
+    "Hándicap mPm: −1.5 45% · −2.5 29%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: spirtes ❌➖❌❌➖ | mPm ✅✅✅✅✅",
+    "• Partidos: spirtes 892 | mPm 659",
+    "• Liga: A-League",
+    "• Unibet: 1 2.60 · X 6.10 · 2 1.71 (sin margen 34%/14%/52%) · ventaja +9%. Sin stake hasta demostrar ROI con estas cuotas."
+   ],
+   "context": "EA FC Esoccer Battle spirtes vs mPm (A-League): goles esperados 2.30-3.55, 1X2 20%/17%/64%. Sin cuotas de casa.",
+   "captured": "2026-11-04T16:10",
+   "version": "dd077b7",
+   "bajas": "",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "A",
+   "pick": "Shinobu",
+   "odds": 2.35,
+   "book": "Unibet",
+   "implied": 0.37,
+   "edge": 0.06,
+   "sin_stake": true,
+   "p": 0.451,
+   "key": "fc|2362799",
+   "match": "Gazi vs Shinobu",
+   "start": "2026-11-04T16:26:00+00:00",
+   "league": "🎮⚽ FC 27 · A-League",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 55.976 partidos)",
+    "Goles esperados: Gazi 1.91 · Shinobu 2.20",
+    "Ganador: Gazi 31% · empate 24% · Shinobu 45%",
+    "Total: más de 4.5 goles 39% · menos 61%",
+    "Hándicap Shinobu: −1.5 27% · −2.5 13%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Gazi ❌➖❌❌❌ | Shinobu ✅✅❌✅➖",
+    "• Partidos: Gazi 344 | Shinobu 1200",
+    "• Liga: A-League",
+    "• Unibet: 1 2.08 · X 4.10 · 2 2.35 (sin margen 42%/21%/37%) · ventaja +6%. Sin stake hasta demostrar ROI con estas cuotas."
+   ],
+   "context": "EA FC Esoccer Battle Gazi vs Shinobu (A-League): goles esperados 1.91-2.20, 1X2 31%/24%/45%. Sin cuotas de casa.",
+   "captured": "2026-11-04T16:10",
+   "version": "dd077b7",
    "bajas": "",
    "considered": true,
    "placed": false
