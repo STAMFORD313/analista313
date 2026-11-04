@@ -1,6 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 04/11/2026 09:22 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 04/11/2026 09:26 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Taz vs Ganger_29 — 04/11 · 09:28
 
@@ -19,6 +19,24 @@ Hándicap Taz: −1.5 35% · −2.5 21%
 • Partidos: Taz 837 | Ganger_29 712  
 • Liga: Ligue 1  
 • Unibet: 1 2.16 · X 4.00 · 2 2.28 (sin margen 40%/22%/38%) · ventaja +12%. Sin stake hasta demostrar ROI con estas cuotas.  
+
+## Bomb1to vs Wboy — 04/11 · 09:31
+
+👀 candidata · 🎮⚽ FC 27 · Serie A · **Gana Wboy** @ **3.30** (Unibet) · prob 33% vs casas 26% · ventaja +8%
+
+- ❌ Valor: ventaja +8% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 55.602 partidos)  
+Goles esperados: Bomb1to 3.56 · Wboy 3.14  
+Ganador: Bomb1to 50% · empate 18% · Wboy 33%  
+Total: más de 6.5 goles 50% · menos 50%  
+Hándicap Bomb1to: −1.5 33% · −2.5 20%  
+🔎 **Claves**  
+• Forma: Bomb1to ✅✅❌❌❌ | Wboy ✅✅❌✅✅  
+• Partidos: Bomb1to 1162 | Wboy 971  
+• Liga: Serie A  
+• Unibet: 1 1.72 · X 3.85 · 2 3.30 (sin margen 51%/23%/26%) · ventaja +8%. Sin stake hasta demostrar ROI con estas cuotas.  
 
 ## DaVa vs dm1trena — 04/11 · 09:34
 
@@ -55,6 +73,24 @@ Hándicap Loka: −1.5 60% · −2.5 46%
 • Partidos: kamito 392 | Loka 1052  
 • Liga: EFL Championship  
 • Unibet: 1 3.10 · X 5.80 · 2 1.52 (sin margen 28%/15%/57%) · ventaja +16%. Sin stake hasta demostrar ROI con estas cuotas.  
+
+## crinner vs saportj — 04/11 · 09:48
+
+👀 candidata · 🎮⚽ FC 27 · EFL Championship · **Gana crinner** @ **1.70** (Unibet) · prob 64% vs casas 52% · ventaja +9%
+
+- ❌ Valor: ventaja +9% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 55.602 partidos)  
+Goles esperados: crinner 3.14 · saportj 1.96  
+Ganador: crinner 64% · empate 18% · saportj 18%  
+Total: más de 5.5 goles 40% · menos 60%  
+Hándicap crinner: −1.5 43% · −2.5 27%  
+🔎 **Claves**  
+• Forma: crinner ✅✅✅✅✅ | saportj ❌❌➖❌❌  
+• Partidos: crinner 867 | saportj 612  
+• Liga: EFL Championship  
+• Unibet: 1 1.70 · X 4.10 · 2 3.25 (sin margen 52%/21%/27%) · ventaja +9%. Sin stake hasta demostrar ROI con estas cuotas.  
 
 ## Lumix vs Taz — 04/11 · 09:52
 
@@ -109,4 +145,22 @@ Hándicap Loka: −1.5 58% · −2.5 42%
 • Partidos: Loka 1052 | saportj 612  
 • Liga: EFL Championship  
 • Unibet: 1 1.60 · X 5.25 · 2 3.10 (sin margen 55%/17%/28%) · ventaja +22%. Sin stake hasta demostrar ROI con estas cuotas.  
+
+## Uncle vs Bomb1to — 04/11 · 10:07
+
+👀 candidata · 🎮⚽ FC 27 · Serie A · **Gana Uncle** @ **3.90** (Unibet) · prob 38% vs casas 22% · ventaja +47%
+
+- ❌ Valor: ventaja +47% (mín. 20% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 55.602 partidos)  
+Goles esperados: Uncle 2.73 · Bomb1to 2.83  
+Ganador: Uncle 38% · empate 20% · Bomb1to 42%  
+Total: más de 5.5 goles 48% · menos 52%  
+Hándicap Bomb1to: −1.5 27% · −2.5 15%  
+🔎 **Claves**  
+• Forma: Uncle ❌❌✅✅✅ | Bomb1to ✅✅❌❌❌  
+• Partidos: Uncle 618 | Bomb1to 1162  
+• Liga: Serie A  
+• Unibet: 1 3.90 · X 2.95 · 2 1.82 (sin margen 22%/30%/48%) · ventaja +47%. Sin stake hasta demostrar ROI con estas cuotas.  
 
