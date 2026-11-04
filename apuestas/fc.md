@@ -1,6 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 04/11/2026 10:10 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 04/11/2026 10:15 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## DaVa vs MeLToSik — 04/11 · 10:22
 
@@ -56,24 +56,6 @@ Hándicap Tesla: −1.5 41% · −2.5 25%
 • Liga: Ligue 1  
 • Unibet: 1 1.77 · X 4.10 · 2 2.95 (sin margen 49%/21%/30%) · ventaja +5%. Sin stake hasta demostrar ROI con estas cuotas.  
 
-## Wboy vs Bomb1to — 04/11 · 10:31
-
-👀 candidata · 🎮⚽ FC 27 · Serie A · **Gana Wboy** @ **3.30** (Unibet) · prob 33% vs casas 26% · ventaja +8%
-
-- ❌ Valor: ventaja +8% (mín. 10% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 55.602 partidos)  
-Goles esperados: Wboy 3.14 · Bomb1to 3.56  
-Ganador: Wboy 33% · empate 18% · Bomb1to 50%  
-Total: más de 6.5 goles 50% · menos 50%  
-Hándicap Bomb1to: −1.5 33% · −2.5 20%  
-🔎 **Claves**  
-• Forma: Wboy ✅✅❌✅✅ | Bomb1to ✅✅❌❌❌  
-• Partidos: Wboy 971 | Bomb1to 1162  
-• Liga: Serie A  
-• Unibet: 1 3.30 · X 3.90 · 2 1.71 (sin margen 26%/22%/51%) · ventaja +8%. Sin stake hasta demostrar ROI con estas cuotas.  
-
 ## Loka vs kamito — 04/11 · 10:36
 
 👀 candidata · 🎮⚽ FC 27 · EFL Championship · **Gana Loka** @ **1.65** (Unibet) · prob 77% vs casas 53% · ventaja +27%
@@ -109,4 +91,22 @@ Hándicap Wboy: −1.5 36% · −2.5 23%
 • Partidos: mko1919 1060 | Wboy 971  
 • Liga: Serie A  
 • Unibet: 1 4.10 · X 3.95 · 2 1.56 (sin margen 21%/22%/56%) · ventaja +16%. Sin stake hasta demostrar ROI con estas cuotas.  
+
+## v1nniePuh vs why — 04/11 · 11:00
+
+👀 candidata · 🎮⚽ FC 27 · Champions League A 2x6 · **Gana why** @ **4.80** (Unibet) · prob 30% vs casas 18% · ventaja +45%
+
+- ❌ Valor: ventaja +45% (mín. 20% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 55.602 partidos)  
+Goles esperados: v1nniePuh 4.21 · why 3.52  
+Ganador: v1nniePuh 54% · empate 16% · why 30%  
+Total: más de 7.5 goles 51% · menos 49%  
+Hándicap v1nniePuh: −1.5 38% · −2.5 25%  
+🔎 **Claves**  
+• Forma: v1nniePuh ➖✅✅❌✅ | why ➖❌✅❌❌  
+• Partidos: v1nniePuh 584 | why 533  
+• Liga: Champions League A 2x6  
+• Unibet: 1 1.28 · X 6.00 · 2 4.80 (sin margen 68%/14%/18%) · ventaja +45%. Sin stake hasta demostrar ROI con estas cuotas.  
 
