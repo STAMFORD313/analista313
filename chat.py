@@ -480,10 +480,22 @@ def _combo_text(title, legs, p, grouped=False):
     return "\n".join(lines)
 
 
+def remember(title, legs, odds, p):
+    """Última combinada mostrada, para «simúlala» (simulaciones.record)."""
+    _CTX["ultima"] = {"titulo": title, "legs": legs, "odds": round(odds, 2) if odds else (round(1 / p, 2) if p else None), "p": p}
+
+
+SIM_RX = r"\bsimul|\bapunta|\bregistra|\bguardala|\bjuegala|\bjugamos|\bmetele|\bvamos con (esa|ella)"
+SIMS_RX = r"como van|mis (apuestas|simuladas|combinadas)|balance|que tal (van|mis)"
+
+
 def safe_combo(kh, ka, D):
     h, a = D[kh], D[ka]
     legs, p = pick_legs([("", txt, q) for txt, q in safe_legs(kh, ka, D)])
     if len(legs) < 2: return f"No veo piernas suficientemente seguras en {A.esc(h['name'])} – {A.esc(a['name'])}."
+    code = next((g[1].get("_liga") for g in reversed(h["games"]) if g[1].get("_liga")), None)
+    remember(f"Combinada segura {h['name']} – {a['name']}", [dict(code=code, home=h["name"], away=a["name"], start=None, txt=txt,
+                                                                   odds=None, p=q) for _, txt, q in legs], None, p)
     extra = "\n💡 Para subir más la cuota sin arriesgar: <i>combinada del día</i> (junta piernas seguras de varios partidos)."
     return _combo_text(f"🧩 <b>Combinada segura · {A.esc(h['name'])} – {A.esc(a['name'])}</b>", legs, p) + extra
 
@@ -511,7 +523,7 @@ def day_combo(D, hours=48, target=None):
     """Combinada segura «popurrí» con los partidos de las próximas 48 h de las ligas principales: la pierna más segura de
     cada partido (las de partidos distintos son independientes), hasta COMBO_FLOOR o hasta la cuota `target`."""
     import pandas as pd
-    cands, when, seen = [], {}, 0
+    cands, when, seen, meta = [], {}, 0, {}
     for code, evs in upcoming(DAY_LEAGUES, hours).items():
         seen += len(evs)
         for t, home, away, _ in evs:
@@ -519,7 +531,7 @@ def day_combo(D, hours=48, target=None):
             if not (kh and ka): continue
             loc = t.tz_convert(TZ); m = f"{A.esc(home)} – {A.esc(away)} · {DIAS[loc.dayofweek]} {loc:%H:%M}"
             if m in when: continue  # el mismo partido listado en dos competiciones
-            when[m] = t
+            when[m] = t; meta[m] = (code, str(t), home, away)
             cands += [(m, txt, q) for txt, q in safe_legs(kh, ka, D)]
     print(f"combinada del día: {seen} partidos en ESPN, {len(when)} con datos, {len(cands)} piernas seguras")
     legs, p = pick_legs(cands, per_match=1, target=target)
@@ -529,6 +541,8 @@ def day_combo(D, hours=48, target=None):
         return (f"No encuentro partidos con piernas seguras en las próximas {hours} h"
                 + (f" (ESPN me da {seen} partidos, pero de {len(when)} tengo datos)." if seen else " (ESPN no me devuelve partidos)."))
     legs.sort(key=lambda x: (when[x[0]], -x[2]))
+    remember("Combinada segura del día" + (f" (cuota {target:g})" if target else ""),
+             [dict(code=meta[m][0], start=meta[m][1], home=meta[m][2], away=meta[m][3], txt=txt, odds=None, p=q) for m, txt, q in legs], None, p)
     title = "🧩 <b>Combinada segura del día</b>" + (f" · buscando cuota {target:g}" if target else "")
     note = (f"\n⚠️ Con piernas seguras solo llego a cuota justa {1 / p:.2f}." if target and 1 / p < target else "")
     return _combo_text(title, legs, p, grouped=True) + note
@@ -550,13 +564,14 @@ def long_combo(D, target, hours=48):
     for code, evs in upcoming(DAY_LEAGUES, hours).items():
         for t, home, away, _ in evs:
             kh, ka = tkey("futbol", home, D), tkey("futbol", away, D)
-            if kh and ka: matches.append((t, home, away, kh, ka))
+            if kh and ka: matches.append((t, home, away, kh, ka, code))
     def get(m):
         try: return m, kambi.offers(m[1], m[2], m[0], stats=("corners", "cards"))
         except Exception as ex: print("Kambi", m[1], m[2], repr(ex)); return m, {}
     with ThreadPoolExecutor(6) as ex: got = list(ex.map(get, matches))
     cands, priced = [], 0
-    for (t, home, away, kh, ka), off in got:
+    meta = {}
+    for (t, home, away, kh, ka, code), off in got:
         if not off: continue
         priced += 1; best = None
         for stat in ("corners", "cards"):
@@ -572,8 +587,9 @@ def long_combo(D, target, hours=48):
                     leg = (p * odd - 1, p, odd, f"{side} de {line:g} {LABEL['corners' if stat == 'corners' else 'tarjetas']}")
                     if best is None or leg[0] > best[0]: best = leg
         if best:
-            loc = t.tz_convert(TZ)
-            cands.append((f"{A.esc(home)} – {A.esc(away)} · {DIAS[loc.dayofweek]} {loc:%H:%M}", t, *best))
+            loc = t.tz_convert(TZ); m = f"{A.esc(home)} – {A.esc(away)} · {DIAS[loc.dayofweek]} {loc:%H:%M}"
+            meta[m] = (code, str(t), home, away)
+            cands.append((m, t, *best))
     print(f"combinada larga: {len(matches)} partidos, {priced} con cuotas de Unibet, {len(cands)} piernas candidatas")
     value = [c for c in cands if c[2] >= LONG_EDGE]
     pool = value if len(value) >= 2 else cands  # sin ventaja suficiente: la menos mala, avisando de lo que se pierde
@@ -585,6 +601,8 @@ def long_combo(D, target, hours=48):
         return (f"Hoy no tengo cuotas de Unibet suficientes para una combinada grande ({priced} partidos con cuotas "
                 f"en las próximas {hours} h; los de mañana suelen salir por la noche).")
     legs.sort(key=lambda c: c[1]); ev = p * odds - 1
+    remember(f"Combinada cuota {odds:.1f}", [dict(code=meta[m][0], start=meta[m][1], home=meta[m][2], away=meta[m][3], txt=txt,
+                                                  odds=o, p=q) for m, _, e, q, o, txt in legs], odds, p)
     lines = [f"🎰 <b>Combinada de cuota alta · objetivo {target:g}</b> (cuotas reales de Unibet)"]
     if pool is cands and len(value) < 2:
         lines.append("⚠️ Hoy no hay piernas con ventaja clara frente a Unibet: esta es la menos mala.")
@@ -742,6 +760,16 @@ def _answer(t, short=True):
     if not t or re.match(r"^/?(ayuda|help|hola|que puedes)", norm(t)): return HELP
     D = db()
     q = low(t)
+    if re.search(SIMS_RX, q):
+        import simulaciones
+        return simulaciones.summary()
+    if re.search(SIM_RX, q):
+        if not _CTX.get("ultima"): return "Primero pídeme una combinada y luego te la simulo."
+        import simulaciones
+        b = simulaciones.record(_CTX.pop("ultima"))
+        return ("✅ <b>Apuntada</b> (simulada, 1 €): " + A.esc(b["titulo"]) + f" · {len(b['legs'])} piernas"
+                + (f" · cuota {b['odds']:.2f}" if b.get("odds") else "")
+                + ".\nCuando acaben los partidos te digo si hemos ganado o perdido, pierna a pierna y por qué.")
     if re.search(COMBO_RX, q) and not re.search(r"mas de|menos de|over|under|\d\+", q):
         ks = find(t, D, n=2, kind="equipo")
         if len(ks) == 2: kh, ka = ks

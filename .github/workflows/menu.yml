@@ -2,8 +2,9 @@ name: menu
 on:
   schedule: [{cron: "0 */5 * * *"}]   # cada 5 h arranca una escucha nueva de ~5 h 45 min: cubre las 24 h
   workflow_dispatch:
-  push: {branches: [main], paths: ["menu.py", "radar.py", "bankroll.py", "esports.py", "chat.py", "voz.py", "interpreta.py", ".github/workflows/menu.yml"]}
+  push: {branches: [main], paths: ["menu.py", "radar.py", "bankroll.py", "esports.py", "chat.py", "voz.py", "interpreta.py", "simulaciones.py", ".github/workflows/menu.yml"]}
 concurrency: {group: menu, cancel-in-progress: true}   # la nueva releva a la anterior (un solo lector de Telegram)
+permissions: {contents: write}   # sube data/chat_simuladas.json (apuestas simuladas desde el chat)
 jobs:
   listen:
     runs-on: ubuntu-latest

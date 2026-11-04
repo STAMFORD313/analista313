@@ -1047,3 +1047,24 @@ try:
     assert _KB.find("Bristol City", "Wolverhampton Wanderers", pd.Timestamp("2026-11-04 19:45", tz="UTC"))["id"] == 3
 finally: _KB._events = _kev
 print("ok Kambi sin juveniles")
+# apuestas simuladas desde el chat: «simúlala» la apunta; al llegar las estadísticas de ESPN se liquida con el porqué
+import simulaciones as _SM
+_smf, _sml, _smp = _SM.FILE, _SM.games, _SM.push
+_SM.FILE = A_.DATA / "_test_simuladas.json"; _SM.FILE.unlink(missing_ok=True); _SM._MEM.clear()
+_SM.push = lambda msg: None
+_CH._CTX.clear()
+try:
+    assert "Primero pídeme" in _CH.answer("simula la apuesta")
+    _CH.remember("Combinada cuota 9.0", [dict(code="ucl", start="2026-11-04T20:00:00+00:00", home="Slavia Prague", away="Arsenal",
+                                               txt="Más de 4.5 tarjetas", odds=3.0, p=0.4),
+                                          dict(code="ucl", start="2026-11-04T20:00:00+00:00", home="FC Porto", away="Napoli",
+                                               txt="Napoli o empate (X2)", odds=3.0, p=0.5)], 9.0, 0.2)
+    _r = _CH.answer("Simula la apuesta y cuando se terminen los partidos me dices si hemos ganado"); assert "Apuntada" in _r, _r
+    assert _SM.settle() == []  # aún sin partidos
+    _z = {"wonCorners": 5.0, "totalShots": 10.0, "foulsCommitted": 10.0, "yellowCards": 2.0, "redCards": 0.0}
+    _SM.games = lambda code: [{"home": "Slavia Prague", "away": "Arsenal", "date": "2026-11-04T20:00Z", "hs": 0, "as": 2, "team_stats": {"h": _z, "a": _z}},
+                              {"home": "FC Porto", "away": "Napoli", "date": "2026-11-04T20:00Z", "hs": 1, "as": 1, "team_stats": {"h": _z, "a": _z}}]
+    _msgs = _SM.settle(); assert len(_msgs) == 1 and "perdida" in _msgs[0] and "hubo 4 tarjetas" in _msgs[0] and "✅" in _msgs[0], _msgs
+    assert _SM.settle() == [] and "1 terminadas" in _CH.answer("¿cómo van mis simuladas?")
+finally: _SM.FILE.unlink(missing_ok=True); _SM.FILE, _SM.games, _SM.push = _smf, _sml, _smp; _SM._MEM.clear(); _CH._CTX.clear()
+print("ok apuestas simuladas del chat")

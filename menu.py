@@ -9,6 +9,7 @@ import analyst as A
 import chat as charla
 import voz
 import radar
+import simulaciones
 
 RUN_SECONDS, REFRESH, KICK = 5 * 3600 + 45 * 60, 300, 1800
 API = f"https://api.telegram.org/bot{A.TG}"
@@ -47,7 +48,11 @@ def main():
     kicked = 0
     while time.time() < end:
         if time.time() - kicked > KICK: kick_analysis(); kicked = time.time()
-        if time.time() - loaded > REFRESH: state, loaded = load_state(), time.time()
+        if time.time() - loaded > REFRESH:
+            state, loaded = load_state(), time.time()
+            try:  # simuladas del chat: liquidar con ESPN y avisar
+                for msg in simulaciones.settle(): A.tg("sendMessage", text=msg[:4000], parse_mode="HTML")
+            except Exception as e: print("simuladas", repr(e))
         try:
             ups = requests.get(f"{API}/getUpdates", params={"timeout": 50, "offset": offset,
                                                              "allowed_updates": '["callback_query","message"]'}, timeout=70).json()
