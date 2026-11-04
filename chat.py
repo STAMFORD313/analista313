@@ -242,6 +242,35 @@ def _rate(e, stat, base, against=False):
     return (x + K_T * base) / (w + K_T) / base if base > 0 else 1.0
 
 
+_MKP = {}
+
+
+def match_market(home, away):
+    """Supremacía del local sin margen (P local − P visitante) con las cuotas del partido: DraftKings de Champions/Europa
+    (data/espn/odds_ucl|uel.csv) o el 1X2 de Pinnacle (data/pinnacle/futbol.csv). None si no hay cuotas."""
+    import pandas as pd, multideporte
+    now = pd.Timestamp.now(tz="UTC")
+    for f, cols in ((A.DATA / "espn" / "odds_ucl.csv", ("oh", "od", "oa")), (A.DATA / "espn" / "odds_uel.csv", ("oh", "od", "oa")),
+                    (A.DATA / "pinnacle" / "futbol.csv", ("o_home", "o_draw", "o_away"))):
+        d = multideporte._latest(f) if "espn" in str(f) else (pd.read_csv(f) if f.exists() else pd.DataFrame())
+        if not len(d): continue
+        if "market" in d: d = d[d.market == "moneyline"]
+        for r in d.itertuples():
+            o = [getattr(r, c, None) for c in cols]
+            if any(x is None or x != x or x <= 1 for x in o) or abs((pd.Timestamp(r.start) - now).days) > 5: continue
+            if A.find_team(home, [r.home]) and A.find_team(away, [r.away]):
+                ih, idr, ia = (1 / x for x in o); t = ih + idr + ia
+                return (ih - ia) / t
+    return None
+
+
+def market_params():
+    if "p" not in _MKP:
+        try: _MKP["p"] = json.loads((A.DATA / "football_stats.json").read_text()).get("market", {})
+        except (FileNotFoundError, ValueError): _MKP["p"] = {}
+    return _MKP["p"]
+
+
 def match_model(kh, ka, D, stat):
     """(media del local, media del visitante, r) del modelo anclado a la liga, o None (sin liga o sin datos)."""
     h, a = D[kh], D[ka]
@@ -252,7 +281,51 @@ def match_model(kh, ka, D, stat):
     L = (Lh + La) / 2  # shortcut: ritmos de cada equipo relativos a la media de la liga sin separar casa/fuera (casa/fuera medido peor)
     mh = Lh * _rate(h, stat, L) * _rate(a, stat, L, True)
     ma = La * _rate(a, stat, L) * _rate(h, stat, L, True)
+    # cuotas del partido (train_market_stats.py, medido: córners por equipo −0.012 de log-loss): el favorito saca más córners
+    # y ve menos tarjetas; corrige además los cruces entre ligas (el AEK domina en Grecia, no ante el Madrid)
+    mp = market_params().get({"corners": "corners", "tarjetas": "cards"}.get(stat, ""), {})
+    s = match_market(h["name"], a["name"]) if mp else None
+    if s is not None:
+        mh, ma = mh * math.exp(mp["a"] * s), ma * math.exp(-mp["a"] * s)
     return mh, ma, R_NB.get(stat, 20.0)
+
+
+def fixture_order(k1, k2, D):
+    """(local, visitante) del partido entre dos equipos: el de la memoria del chat o el de las cuotas guardadas; si no, tal cual."""
+    import pandas as pd, multideporte
+    if set(_CTX.get("partido") or ()) == {k1, k2}: return _CTX["partido"]
+    n1, n2 = D[k1]["name"], D[k2]["name"]
+    for f in ("odds_ucl", "odds_uel"):
+        d = multideporte._latest(A.DATA / "espn" / f"{f}.csv")
+        for r in d.itertuples() if len(d) else []:
+            if A.find_team(n2, [r.home]) and A.find_team(n1, [r.away]): return k2, k1
+            if A.find_team(n1, [r.home]) and A.find_team(n2, [r.away]): return k1, k2
+    return k1, k2
+
+
+def team_vs(focus, rival, stat, D, line=None, over=True):
+    """Cuántos córners/tarjetas sacará un equipo CONTRA un rival concreto (a favor del equipo × en contra del rival, ajustado
+    por las cuotas del partido) y la probabilidad de la línea."""
+    kh, ka = fixture_order(focus, rival, D)
+    mm = match_model(kh, ka, D, stat)
+    if not mm: return f"Pocos datos de {LABEL[stat]} de {A.esc(D[focus]['name'])} o {A.esc(D[rival]['name'])}."
+    mu = mm[0] if focus == kh else mm[1]
+    f = lambda l: nb_over(mu, mm[2], l)
+    own = series(D[focus], stat)[-5:]
+    lines = [f"⚽ <b>{A.esc(D[focus]['name'])}</b> contra <b>{A.esc(D[rival]['name'])}</b>"
+             + (" (en casa)" if focus == kh else " (fuera)"),
+             f"• {LABEL[stat]} esperados: <b>{mu:.1f}</b> (su media normal {moments(series(D[focus], stat))[0]:.1f}; últimos 5: {' '.join(f'{v:g}' for v in own)})"]
+    if line is not None:
+        p = f(line) if over else 1 - f(line)
+        lines.append(f"• {'Más' if over else 'Menos'} de {line:g}: <b>{p:.0%}</b>{coin(p)}")
+        if over and p < 0.75: lines.append(safer(f, line, stat).strip())
+    else:
+        ls = [l + 0.5 for l in range(max(0, int(mu) - 3), int(mu) + 3)]
+        lines.append("• " + " · ".join(f"más de {l:g}: {f(l):.0%}" for l in ls))
+    return "\n".join(lines)
+
+
+VS_RX = r"\b(contra|vs|frente a|ante|enfrente)\b"
 
 
 def nb_over(mu, r, line): return float(SS.nbinom.sf(math.floor(line), r, r / (r + mu)))
@@ -1010,6 +1083,10 @@ def _answer(t, short=True):
                 out += offer("¿Quieres la combinada segura de este partido?", f"combinada {D[m[0]]['name']} {D[m[1]]['name']}")
             return out
         if keys: return last_match(keys[0], D)
+    if re.search(VS_RX, q):  # «córners del AEK contra el Real Madrid», «¿hará el Athens más de 4.5 córners ante el Madrid?»
+        pl = parse_leg(t); ks = find(t, D, n=2, kind="equipo")
+        if pl["stat"] in ("corners", "tarjetas") and len(ks) == 2:
+            return team_vs(ks[0], ks[1], pl["stat"], D, pl["line"], pl["over"])
     legs, odds = split_legs(t), odds_in(t)
     parsed = []
     for seg in legs:

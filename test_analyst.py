@@ -1141,3 +1141,16 @@ try:
 finally: _MD.legs = _mdl2; _CH._DB.clear(); _CH._DB["t"] = 0; _CH._CTX.clear()
 assert _SM.judge({"txt": "Gana Real Madrid"}, {"home": "Real Madrid", "away": "Barcelona", "hs": 2, "as": 1})[0] is True
 print("ok boleto en imagen")
+# córners de un equipo contra un rival concreto, con la supremacía de las cuotas (el débil saca menos)
+_CH._DB.update(db=_D, t=1e18); _CH.LEAGUE["SP1"] = [({"corners": 5.0}, {"corners": 4.0})] * 40
+for _e in _D.values():
+    if _e["kind"] == "equipo":
+        for _x in _e["games"]: _x[1]["_liga"] = "SP1"
+_mm0 = _CH.match_market
+try:
+    _CH.match_market = lambda h, a: None; _base = _CH.match_model("futbol|t|RM", "futbol|t|B", _D, "corners")
+    _CH.match_market = lambda h, a: 0.6; _fav = _CH.match_model("futbol|t|RM", "futbol|t|B", _D, "corners")
+    assert _fav[0] > _base[0] and _fav[1] < _base[1]  # el favorito local saca más córners, el visitante menos
+    _r = _CH.answer("¿hará el Barcelona tantos córners contra el Real Madrid?"); assert "Barcelona</b> contra <b>Real Madrid" in _r and "esperados" in _r, _r
+finally: _CH.match_market = _mm0; _CH.LEAGUE.clear(); _CH._DB.clear(); _CH._DB["t"] = 0; _CH._BASE.clear(); _CH._CTX.clear()
+print("ok córners contra un rival")
