@@ -1,24 +1,24 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 04/11/2026 14:30 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 04/11/2026 14:39 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## Ganger_29 vs Tesla — 04/11 · 14:34
+## Edwardson vs DaVa — 04/11 · 14:40
 
-👀 candidata · 🎮⚽ FC 27 · FA Cup · **Gana Tesla** @ **1.67** (Unibet) · prob 70% vs casas 52% · ventaja +17%
+👀 candidata · 🎮⚽ FC 27 · LaLiga · **Gana DaVa** @ **1.61** (Unibet) · prob 63% vs casas 54% · ventaja +2%
 
-- ✅ Valor: ventaja +17% (mín. 12% con la incertidumbre, máx. 30%)
+- ❌ Valor: ventaja +2% (mín. 9% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 55.832 partidos)  
-Goles esperados: Ganger_29 2.25 · Tesla 3.85  
-Ganador: Ganger_29 15% · empate 15% · Tesla 70%  
-Total: más de 6.5 goles 41% · menos 59%  
-Hándicap Tesla: −1.5 51% · −2.5 35%  
+📊 **Escenarios** (Poisson por jugador, 55.856 partidos)  
+Goles esperados: Edwardson 1.72 · DaVa 2.82  
+Ganador: Edwardson 18% · empate 19% · DaVa 63%  
+Total: más de 4.5 goles 48% · menos 52%  
+Hándicap DaVa: −1.5 42% · −2.5 25%  
 🔎 **Claves**  
-• Forma: Ganger_29 ❌✅➖❌➖ | Tesla ✅❌➖➖✅  
-• Partidos: Ganger_29 728 | Tesla 868  
-• Liga: FA Cup  
-• Unibet: 1 3.40 · X 4.00 · 2 1.67 (sin margen 26%/22%/52%) · ventaja +17%. Sin stake hasta demostrar ROI con estas cuotas.  
+• Forma: Edwardson ➖✅❌✅➖ | DaVa ✅❌➖✅➖  
+• Partidos: Edwardson 1153 | DaVa 1116  
+• Liga: LaLiga  
+• Unibet: 1 3.45 · X 4.35 · 2 1.61 (sin margen 25%/20%/54%) · ventaja +2%. Sin stake hasta demostrar ROI con estas cuotas.  
 
 ## Lumix vs Ganger_29 — 04/11 · 14:46
 
@@ -37,24 +37,6 @@ Hándicap Lumix: −1.5 34% · −2.5 20%
 • Partidos: Lumix 881 | Ganger_29 728  
 • Liga: FA Cup  
 • Unibet: 1 2.23 · X 3.40 · 2 2.43 (sin margen 39%/25%/36%) · ventaja +18%. Sin stake hasta demostrar ROI con estas cuotas.  
-
-## Lufy vs cappo — 04/11 · 14:48
-
-👀 candidata · 🎮⚽ FC 27 · International A 2x6 · **Gana Lufy** @ **1.55** (Unibet) · prob 72% vs casas 57% · ventaja +12%
-
-- ✅ Valor: ventaja +12% (mín. 11% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 55.832 partidos)  
-Goles esperados: Lufy 6.04 · cappo 3.96  
-Ganador: Lufy 72% · empate 11% · cappo 17%  
-Total: más de 9.5 goles 54% · menos 46%  
-Hándicap Lufy: −1.5 57% · −2.5 44%  
-🔎 **Claves**  
-• Forma: Lufy ❌➖✅✅✅ | cappo ❌❌❌❌❌  
-• Partidos: Lufy 646 | cappo 248  
-• Liga: International A 2x6  
-• Unibet: 1 1.55 · X 4.80 · 2 3.55 (sin margen 57%/18%/25%) · ventaja +12%. Sin stake hasta demostrar ROI con estas cuotas.  
 
 ## Lufy vs cappo — 04/11 · 14:48
 
@@ -128,6 +110,24 @@ Hándicap DaVa: −1.5 45% · −2.5 29%
 • Liga: LaLiga  
 • Unibet: 1 3.90 · X 3.60 · 2 1.64 (sin margen 22%/24%/53%) · ventaja +8%. Sin stake hasta demostrar ROI con estas cuotas.  
 
+## SDI vs spirtes — 04/11 · 15:04
+
+👀 candidata · 🎮⚽ FC 27 · Eredivisie · **Gana SDI** @ **2.80** (Unibet) · prob 37% vs casas 31% · ventaja +2%
+
+- ❌ Valor: ventaja +2% (mín. 9% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 55.856 partidos)  
+Goles esperados: SDI 3.11 · spirtes 3.26  
+Ganador: SDI 37% · empate 18% · spirtes 45%  
+Total: más de 6.5 goles 45% · menos 55%  
+Hándicap spirtes: −1.5 29% · −2.5 17%  
+🔎 **Claves**  
+• Forma: SDI ❌➖❌❌➖ | spirtes ❌❌✅➖➖  
+• Partidos: SDI 336 | spirtes 884  
+• Liga: Eredivisie  
+• Unibet: 1 2.80 · X 3.95 · 2 1.87 (sin margen 31%/22%/47%) · ventaja +2%. Sin stake hasta demostrar ROI con estas cuotas.  
+
 ## Buu vs Lufy — 04/11 · 15:06
 
 👀 candidata · 🎮⚽ FC 27 · International A 2x6 · **Gana Lufy** @ **1.95** (Unibet) · prob 56% vs casas 45% · ventaja +9%
@@ -145,6 +145,24 @@ Hándicap Lufy: −1.5 42% · −2.5 31%
 • Partidos: Buu 663 | Lufy 646  
 • Liga: International A 2x6  
 • Unibet: 1 2.18 · X 6.00 · 2 1.95 (sin margen 40%/15%/45%) · ventaja +9%. Sin stake hasta demostrar ROI con estas cuotas.  
+
+## cappo vs steeffant — 04/11 · 15:06
+
+👀 candidata · 🎮⚽ FC 27 · International A 2x6 · **Gana steeffant** @ **1.21** (Unibet) · prob 85% vs casas 72% · ventaja +3%
+
+- ❌ Valor: ventaja +3% (mín. 9% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 55.856 partidos)  
+Goles esperados: cappo 3.33 · steeffant 6.49  
+Ganador: cappo 8% · empate 7% · steeffant 85%  
+Total: más de 9.5 goles 52% · menos 48%  
+Hándicap steeffant: −1.5 70% · −2.5 58%  
+🔎 **Claves**  
+• Forma: cappo ❌❌❌❌❌ | steeffant ✅✅✅➖❌  
+• Partidos: cappo 248 | steeffant 703  
+• Liga: International A 2x6  
+• Unibet: 1 5.00 · X 8.00 · 2 1.21 (sin margen 17%/11%/72%) · ventaja +3%. Sin stake hasta demostrar ROI con estas cuotas.  
 
 ## Maslja vs Totti — 04/11 · 15:10
 
