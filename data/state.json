@@ -1280,7 +1280,11 @@
   "r6|132880",
   "fc|2362769",
   "fc|2362034",
-  "fc|2361789"
+  "fc|2361789",
+  "atp|2026-11-05|Tommy Paul|Quentin Halys",
+  "fc|2362039",
+  "fc|2361793",
+  "fc|2362376"
  ],
  "signals": [
   {
@@ -10902,7 +10906,10 @@
    "bajas": "",
    "considered": true,
    "placed": false,
-   "combo_anunciada": true
+   "combo_anunciada": true,
+   "score": "2-1",
+   "result": true,
+   "logged": true
   },
   {
    "market": "AHA",
@@ -10930,7 +10937,10 @@
     "modelo": "gemini-flash-lite-latest"
    },
    "placed": true,
-   "combo_anunciada": true
+   "combo_anunciada": true,
+   "score": "2-1",
+   "result": true,
+   "logged": true
   },
   {
    "market": "H",
@@ -17601,19 +17611,6 @@
    "start": "2026-11-04T12:52:00+00:00",
    "league": "🎮⚽ FC 27 · LaLiga",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 55.762 partidos)",
-    "Goles esperados: MeLToSik 1.77 · DaVa 2.85",
-    "Ganador: MeLToSik 18% · empate 19% · DaVa 63%",
-    "Total: más de 4.5 goles 49% · menos 51%",
-    "Hándicap DaVa: −1.5 41% · −2.5 24%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: MeLToSik ✅➖❌✅➖ | DaVa ❌✅✅✅➖",
-    "• Partidos: MeLToSik 1045 | DaVa 1108",
-    "• Liga: LaLiga",
-    "• Unibet: 1 3.40 · X 3.45 · 2 1.78 (sin margen 26%/25%/49%) · ventaja +12%. Sin stake hasta demostrar ROI con estas cuotas."
-   ],
    "context": "EA FC Esoccer Battle MeLToSik vs DaVa (LaLiga): goles esperados 1.77-2.85, 1X2 18%/19%/63%. Sin cuotas de casa.",
    "captured": "2026-11-04T12:08",
    "version": "63e4ce0",
@@ -17778,19 +17775,6 @@
    "start": "2026-11-04T12:46:00+00:00",
    "league": "🎮⚽ FC 27 · FA Cup",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 55.822 partidos)",
-    "Goles esperados: Ganger_29 2.19 · Lumix 2.83",
-    "Ganador: Ganger_29 27% · empate 20% · Lumix 53%",
-    "Total: más de 5.5 goles 39% · menos 61%",
-    "Hándicap Lumix: −1.5 34% · −2.5 20%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Ganger_29 ❌✅➖❌➖ | Lumix ❌❌✅✅❌",
-    "• Partidos: Ganger_29 728 | Lumix 881",
-    "• Liga: FA Cup",
-    "• Unibet: 1 2.55 · X 3.55 · 2 2.08 (sin margen 34%/24%/42%) · ventaja +10%. Sin stake hasta demostrar ROI con estas cuotas."
-   ],
    "context": "EA FC Esoccer Battle Ganger_29 vs Lumix (FA Cup): goles esperados 2.19-2.83, 1X2 27%/20%/53%. Sin cuotas de casa.",
    "captured": "2026-11-04T12:39",
    "version": "62fb419",
@@ -17812,29 +17796,118 @@
    "start": "2026-11-04T12:40:00+00:00",
    "league": "🎮⚽ FC 27 · LaLiga",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 55.822 partidos)",
-    "Goles esperados: dm1trena 2.49 · MeLToSik 2.46",
-    "Ganador: dm1trena 40% · empate 21% · MeLToSik 38%",
-    "Total: más de 4.5 goles 55% · menos 45%",
-    "Hándicap dm1trena: −1.5 25% · −2.5 13%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: dm1trena ➖❌❌✅➖ | MeLToSik ❌✅➖❌❌",
-    "• Partidos: dm1trena 997 | MeLToSik 1053",
-    "• Liga: LaLiga",
-    "• Unibet: 1 2.14 · X 3.05 · 2 2.80 (sin margen 41%/28%/31%) · ventaja +7%. Sin stake hasta demostrar ROI con estas cuotas."
-   ],
    "context": "EA FC Esoccer Battle dm1trena vs MeLToSik (LaLiga): goles esperados 2.49-2.46, 1X2 40%/21%/38%. Sin cuotas de casa.",
    "captured": "2026-11-04T12:39",
    "version": "62fb419",
    "bajas": "",
    "considered": true,
    "placed": false
+  },
+  {
+   "market": "H",
+   "pick": "Maxa",
+   "odds": 2.02,
+   "book": "Unibet",
+   "implied": 0.43,
+   "edge": 0.031,
+   "sin_stake": true,
+   "p": 0.511,
+   "key": "fc|2362039",
+   "match": "Maxa vs Ganger_29",
+   "start": "2026-11-04T13:10:00+00:00",
+   "league": "🎮⚽ FC 27 · FA Cup",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 55.822 partidos)",
+    "Goles esperados: Maxa 3.13 · Ganger_29 2.57",
+    "Ganador: Maxa 51% · empate 19% · Ganger_29 30%",
+    "Total: más de 5.5 goles 51% · menos 49%",
+    "Hándicap Maxa: −1.5 34% · −2.5 20%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Maxa ✅❌➖❌❌ | Ganger_29 ❌✅➖❌➖",
+    "• Partidos: Maxa 821 | Ganger_29 728",
+    "• Liga: FA Cup",
+    "• Unibet: 1 2.02 · X 3.80 · 2 2.55 (sin margen 43%/23%/34%) · ventaja +3%. Sin stake hasta demostrar ROI con estas cuotas."
+   ],
+   "context": "EA FC Esoccer Battle Maxa vs Ganger_29 (FA Cup): goles esperados 3.13-2.57, 1X2 51%/19%/30%. Sin cuotas de casa.",
+   "captured": "2026-11-04T12:53",
+   "version": "f26ee10",
+   "bajas": "",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "H",
+   "pick": "DaVa",
+   "odds": 1.56,
+   "book": "Unibet",
+   "implied": 0.563,
+   "edge": 0.025,
+   "sin_stake": true,
+   "p": 0.657,
+   "key": "fc|2361793",
+   "match": "DaVa vs dm1trena",
+   "start": "2026-11-04T13:04:00+00:00",
+   "league": "🎮⚽ FC 27 · LaLiga",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 55.822 partidos)",
+    "Goles esperados: DaVa 3.32 · dm1trena 2.07",
+    "Ganador: DaVa 66% · empate 17% · dm1trena 17%",
+    "Total: más de 5.5 goles 45% · menos 55%",
+    "Hándicap DaVa: −1.5 45% · −2.5 29%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: DaVa ✅❌➖✅➖ | dm1trena ➖❌❌✅➖",
+    "• Partidos: DaVa 1116 | dm1trena 997",
+    "• Liga: LaLiga",
+    "• Unibet: 1 1.56 · X 3.70 · 2 4.40 (sin margen 56%/24%/20%) · ventaja +2%. Sin stake hasta demostrar ROI con estas cuotas."
+   ],
+   "context": "EA FC Esoccer Battle DaVa vs dm1trena (LaLiga): goles esperados 3.32-2.07, 1X2 66%/17%/17%. Sin cuotas de casa.",
+   "captured": "2026-11-04T12:53",
+   "version": "f26ee10",
+   "bajas": "",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "H",
+   "pick": "flamez",
+   "odds": 1.68,
+   "book": "Unibet",
+   "implied": 0.52,
+   "edge": 0.017,
+   "sin_stake": true,
+   "p": 0.605,
+   "key": "fc|2362376",
+   "match": "flamez vs why",
+   "start": "2026-11-04T13:02:00+00:00",
+   "league": "🎮⚽ FC 27 · Champions League A 2x6",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 55.822 partidos)",
+    "Goles esperados: flamez 4.50 · why 3.47",
+    "Ganador: flamez 61% · empate 15% · why 25%",
+    "Total: más de 7.5 goles 54% · menos 46%",
+    "Hándicap flamez: −1.5 43% · −2.5 30%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: flamez ➖✅➖✅✅ | why ➖❌✅❌❌",
+    "• Partidos: flamez 652 | why 541",
+    "• Liga: Champions League A 2x6",
+    "• Unibet: 1 1.68 · X 4.50 · 2 3.05 (sin margen 52%/19%/29%) · ventaja +2%. Sin stake hasta demostrar ROI con estas cuotas."
+   ],
+   "context": "EA FC Esoccer Battle flamez vs why (Champions League A 2x6): goles esperados 4.50-3.47, 1X2 61%/15%/25%. Sin cuotas de casa.",
+   "captured": "2026-11-04T12:53",
+   "version": "f26ee10",
+   "bajas": "",
+   "considered": true,
+   "placed": false
   }
  ],
  "bank": {
-  "balance": 78.36,
+  "balance": 80.39,
   "bets": [
    {
     "date": "2026-11-01",
@@ -18241,7 +18314,8 @@
     "stake": 1.2,
     "odds": 1.69,
     "desc": "The MongolZ vs FURIA → FURIA +1.5 mapas",
-    "status": "abierta"
+    "status": "ganada",
+    "return": 2.03
    },
    {
     "date": "2026-11-04",
@@ -18259,7 +18333,7 @@
   ]
  },
  "scoreboard_id": 156,
- "scoreboard_text": "📊 <b>MARCADOR DEL BOT</b>\n━━━━━━━━━━━━━━━\n🟩 Ganadas: <b>8</b> (35 %)\n🟥 Perdidas: <b>15</b> (65 %)\n⏳ En juego: 5\n\nÚltimas 23:\n🟥🟥🟥🟩🟥🟩🟥🟥🟥🟥🟥🟥🟥🟥🟩🟥🟥🟩🟩🟩🟩🟩🟥\n━━━━━━━━━━━━━━━\n💵 Beneficio -15.04 $ · ROI -32.4 %\n📐 CLV medio +2.5 % (cuota cogida vs cierre)\n💰 Banca: <b>84.96 €</b> (-15.04 € desde 100 €) · libre 78.36 €{\"inline_keyboard\": [[{\"text\": \"\\ud83d\\udcc8 Ver historial completo y fallos\", \"url\": \"https://github.com/STAMFORD313/analista313/blob/main/ESTADISTICAS.md\"}], [{\"text\": \"\\u26bd F\\u00fatbol\", \"callback_data\": \"dep:futbol\"}, {\"text\": \"\\ud83c\\udfc0 NBA\\u00b7NCAA\", \"callback_data\": \"dep:nba\"}, {\"text\": \"\\ud83c\\udfc8 NFL\\u00b7NCAA\", \"callback_data\": \"dep:nfl\"}], [{\"text\": \"\\ud83c\\udfc6 Champions\\u00b7Europa\", \"callback_data\": \"dep:europa\"}, {\"text\": \"\\ud83c\\udfd2 NHL\", \"callback_data\": \"dep:nhl\"}, {\"text\": \"\\u26be MLB\", \"callback_data\": \"dep:mlb\"}], [{\"text\": \"\\ud83e\\udd4a UFC\", \"callback_data\": \"dep:ufc\"}, {\"text\": \"\\ud83c\\udfbe Tenis\", \"callback_data\": \"dep:tenis\"}, {\"text\": \"\\ud83c\\udfae CS2\", \"callback_data\": \"dep:cs2\"}], [{\"text\": \"\\ud83d\\udc09 Dota 2\", \"callback_data\": \"dep:dota2\"}, {\"text\": \"\\ud83e\\uddd9 LoL\", \"callback_data\": \"dep:lol\"}, {\"text\": \"\\ud83d\\udd2b R6 Siege\", \"callback_data\": \"dep:r6\"}], [{\"text\": \"\\ud83d\\udcf1 MLBB\", \"callback_data\": \"dep:mlbb\"}, {\"text\": \"\\ud83c\\udfae\\u26bd FC 27\", \"callback_data\": \"dep:fc\"}]]}",
+ "scoreboard_text": "📊 <b>MARCADOR DEL BOT</b>\n━━━━━━━━━━━━━━━\n🟩 Ganadas: <b>9</b> (38 %)\n🟥 Perdidas: <b>15</b> (62 %)\n⏳ En juego: 4\n\nÚltimas 24:\n🟥🟥🟥🟩🟥🟩🟥🟥🟥🟥🟥🟥🟥🟥🟩🟥🟥🟩🟩🟩🟩🟩🟥🟩\n━━━━━━━━━━━━━━━\n💵 Beneficio -14.21 $ · ROI -29.8 %\n📐 CLV medio +2.5 % (cuota cogida vs cierre)\n💰 Banca: <b>85.79 €</b> (-14.21 € desde 100 €) · libre 80.39 €{\"inline_keyboard\": [[{\"text\": \"\\ud83d\\udcc8 Ver historial completo y fallos\", \"url\": \"https://github.com/STAMFORD313/analista313/blob/main/ESTADISTICAS.md\"}], [{\"text\": \"\\u26bd F\\u00fatbol\", \"callback_data\": \"dep:futbol\"}, {\"text\": \"\\ud83c\\udfc0 NBA\\u00b7NCAA\", \"callback_data\": \"dep:nba\"}, {\"text\": \"\\ud83c\\udfc8 NFL\\u00b7NCAA\", \"callback_data\": \"dep:nfl\"}], [{\"text\": \"\\ud83c\\udfc6 Champions\\u00b7Europa\", \"callback_data\": \"dep:europa\"}, {\"text\": \"\\ud83c\\udfd2 NHL\", \"callback_data\": \"dep:nhl\"}, {\"text\": \"\\u26be MLB\", \"callback_data\": \"dep:mlb\"}], [{\"text\": \"\\ud83e\\udd4a UFC\", \"callback_data\": \"dep:ufc\"}, {\"text\": \"\\ud83c\\udfbe Tenis\", \"callback_data\": \"dep:tenis\"}, {\"text\": \"\\ud83c\\udfae CS2\", \"callback_data\": \"dep:cs2\"}], [{\"text\": \"\\ud83d\\udc09 Dota 2\", \"callback_data\": \"dep:dota2\"}, {\"text\": \"\\ud83e\\uddd9 LoL\", \"callback_data\": \"dep:lol\"}, {\"text\": \"\\ud83d\\udd2b R6 Siege\", \"callback_data\": \"dep:r6\"}], [{\"text\": \"\\ud83d\\udcf1 MLBB\", \"callback_data\": \"dep:mlbb\"}, {\"text\": \"\\ud83c\\udfae\\u26bd FC 27\", \"callback_data\": \"dep:fc\"}]]}",
  "fc_sent": "2026-11-04T11:42:52.610722+00:00",
  "sgp": {
   "E1|2026-11-03|QPR|Burnley": {
