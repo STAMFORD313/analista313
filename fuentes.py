@@ -96,6 +96,15 @@ FM_LEAGUES = ("Premier League", "LaLiga", "Bundesliga", "Serie A", "Ligue 1", "C
               "Champions League", "Europa League", "Conference League", "Segunda", "Serie B", "2. Bundesliga", "Ligue 2",
               "Pro League", "Super Lig", "Premiership", "Super League", "MLS", "Liga MX", "Serie A Betano", "Liga Profesional",
               "Eliteserien", "Allsvenskan", "Superliga", "Ekstraklasa", "J. League", "J1 League", "Bundesliga 2")
+# Solo países donde FotMob publica xG (medido: el resto llega sin estadísticas) y sin juveniles/femeninas/regionales.
+FM_CC = {"ENG", "ESP", "ITA", "GER", "FRA", "POR", "NED", "BEL", "TUR", "SCO", "GRE", "AUT", "SUI", "DEN", "SWE", "NOR",
+         "POL", "RUS", "USA", "MEX", "ARG", "BRA", "JPN", "INT", "INT-2"}
+FM_SKIP = re.compile(r"U\d\d|Femen|Women|Frauen|Féminine|Feminine|Federaci|Group|Youth|Reserve|Primavera|Liga F\b|National League", re.I)
+
+
+def fm_keep(name, ccode):
+    return (ccode in FM_CC and not FM_SKIP.search(name or "")
+            and any(name.startswith(x) or x in name for x in FM_LEAGUES + ("LaLiga2", "Superligaen", "Primera")))
 
 
 def fm_compact(d):
@@ -119,7 +128,7 @@ def fm_day(day, done):
     out = []
     for lg in r.get("leagues") or []:
         name = lg.get("name") or ""
-        if not any(name.startswith(x) or name == x for x in FM_LEAGUES): continue
+        if not fm_keep(name, lg.get("ccode") or ""): continue
         for m in lg.get("matches") or []:
             if (m.get("status") or {}).get("finished") and str(m["id"]) not in done: out.append(str(m["id"]))
     return out

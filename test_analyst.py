@@ -1300,3 +1300,9 @@ try:
     assert [c["market"] for c in _co] == ["O25"] and _co[0]["sin_stake"], _co
 finally: _VP.pd.read_csv = _rc
 print("ok valor goles contra Pinnacle")
+
+import fuentes as _FU
+assert _FU.fm_keep("Premier League", "ENG") and _FU.fm_keep("Champions League", "INT-2") and _FU.fm_keep("LaLiga2", "ESP")
+assert not _FU.fm_keep("Premier League U18", "ENG") and not _FU.fm_keep("Premier League", "TAN")
+assert not _FU.fm_keep("Liga MX Femenil Apertura", "MEX") and not _FU.fm_keep("Segunda Federacion - Group 2", "ESP")
+print("ok filtro FotMob")
