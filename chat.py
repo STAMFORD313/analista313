@@ -83,7 +83,7 @@ def build():
                                 "fueras": d.get("offsides")}
                 f, a = tv(ts.get(sd) or {}), tv(ts.get(o) or {})
                 f["goles"], a["goles"] = gf, ga
-                f["_rival"], f["_casa"] = g["away"] if sd == "h" else g["home"], sd == "h"
+                f["_rival"], f["_casa"], f["_liga"] = g["away"] if sd == "h" else g["home"], sd == "h", code
                 _add(db, f"futbol|t|{team}", team, "futbol", "equipo", g["date"], f, a, league=code)
             for p in g["players"]:
                 team = g["home"] if p[2] == "h" else g["away"]
@@ -288,21 +288,39 @@ TZ = "Europe/Madrid"
 DIAS = ["lun", "mar", "mié", "jue", "vie", "sáb", "dom"]
 
 
-def scoreboard(sport, league, days=21):
-    """[(fecha UTC, local, visitante, competición)] de los próximos días en ESPN."""
+def _events(path, dates):
     import pandas as pd, requests
-    a = pd.Timestamp.now(tz="UTC"); b = a + pd.Timedelta(days=days)
-    path = SPORT_PATH.get(sport) or f"soccer/{ES.LEAGUES.get(league, league)}"
-    r = requests.get(f"https://site.api.espn.com/apis/site/v2/sports/{path}/scoreboard",
-                     params={"dates": f"{a:%Y%m%d}-{b:%Y%m%d}", "limit": 500}, headers=A.UA, timeout=20)
+    r = requests.get(f"https://site.api.espn.com/apis/site/v2/sports/{path}/scoreboard", params={"dates": dates, "limit": 500},
+                     headers=A.UA, timeout=20)
     r.raise_for_status(); out = []
     for e in r.json().get("events", []):
         c = (e.get("competitions") or [{}])[0]
         if ((c.get("status") or e.get("status") or {}).get("type") or {}).get("completed"): continue
         t = {x.get("homeAway"): x["team"]["displayName"] for x in c.get("competitors", []) if x.get("team")}
         if "home" in t and "away" in t:
-            out.append((pd.Timestamp(e["date"]), t["home"], t["away"], (e.get("league") or {}).get("name") or league))
+            out.append((pd.Timestamp(e["date"]), t["home"], t["away"], (e.get("league") or {}).get("name") or ""))
     return out
+
+
+def scoreboard(sport, league, days=21, team=None):
+    """[(fecha UTC, local, visitante, competición)] de los próximos días en ESPN: primero todo el rango de una vez y, si
+    ahí no sale `team`, día a día (como espn_soccer.events, que sí funciona) hasta encontrarlo."""
+    import pandas as pd
+    a = pd.Timestamp.now(tz="UTC"); b = a + pd.Timedelta(days=days)
+    path = SPORT_PATH.get(sport) or f"soccer/{ES.LEAGUES.get(league, league)}"
+    try: out = _events(path, f"{a:%Y%m%d}-{b:%Y%m%d}")
+    except Exception as ex: print("calendario rango", path, repr(ex)); out = []
+    if team is None or any(plays(team, m) for m in out): return out
+    for d in pd.date_range(a.normalize(), b, freq="D"):
+        day = _events(path, f"{d:%Y%m%d}")
+        if any(plays(team, m) for m in day): return day
+    return out
+
+
+def plays(name, m):
+    """¿Juega el equipo `name` en el partido m? (mismo nombre de ESPN, o uno contenido en el otro: «UD Almería»)."""
+    n = norm(name)
+    return any(x and (n == x or (min(len(n), len(x)) >= 5 and (n in x or x in n))) for x in (norm(m[1] or ""), norm(m[2] or "")))
 
 
 def team_of(key, D):
@@ -331,16 +349,20 @@ def next_match(key, D):
     tk = team_of(key, D)
     if not tk: return f"No sé en qué equipo juega {A.esc(D[key]['name'])}."
     e = D[tk]; name = norm(e["name"])
-    found = []
-    for lg in sorted(e["leagues"]) or [e["sport"]]:
-        try: found += [m for m in scoreboard(e["sport"], lg) if name in (norm(m[1]), norm(m[2]))]
-        except Exception as ex: print("calendario", lg, repr(ex))
-    if not found: return f"{_who(e)}\nNo encuentro su próximo partido en las próximas 3 semanas."
+    found, errs = [], []
+    recent = sorted({g[1].get("_liga") for g in e["games"][-8:] if g[1].get("_liga")})
+    for lg in recent + sorted(e["leagues"] - set(recent)) or [e["sport"]]:
+        try: found += [m for m in scoreboard(e["sport"], lg, team=e["name"]) if plays(e["name"], m)]
+        except Exception as ex: print("calendario", lg, repr(ex)); errs.append(type(ex).__name__)
+        if found and lg in recent: break
+    if not found:
+        return f"{_who(e)}\nNo encuentro su próximo partido en las próximas 3 semanas" + (f" (ESPN no responde: {errs[0]})." if errs else ".")
     when, home, away, comp = min(found, key=lambda m: m[0])
+    comp = comp or ""
     loc = when.tz_convert(TZ)
-    rival = away if norm(home) == name else home
+    rival = away if plays(e["name"], (None, home, "")) else home
     lines = [_who(e), f"Próximo partido: <b>{A.esc(home)} – {A.esc(away)}</b>",
-             f"📅 {DIAS[loc.dayofweek]} {loc:%d/%m} a las {loc:%H:%M} (hora España) · {A.esc(comp)}"]
+             f"📅 {DIAS[loc.dayofweek]} {loc:%d/%m} a las {loc:%H:%M} (hora España)" + (f" · {A.esc(comp)}" if comp else "")]
     kr = f"{e['sport']}|t|{rival}"
     if kr in D:
         last = [g for g in D[tk]["games"] if g[1].get("_rival") == rival][-3:]

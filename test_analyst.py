@@ -903,11 +903,12 @@ assert "Real Madrid" in _CH.answer("estadísticas del Real Madrid") and "No te h
 for _e in _D.values(): _e["leagues"] = {"SP1"}
 _D["futbol|t|RM"]["games"][-1][1].update(_rival="Barcelona", _casa=True, goles=2.0); _D["futbol|t|RM"]["games"][-1][2]["goles"] = 1.0
 _sb = _CH.scoreboard
-_CH.scoreboard = lambda sp, lg, days=21: [(pd.Timestamp("2026-11-08 19:00", tz="UTC"), "Barcelona", "Real Madrid", "LaLiga")]
+_CH.scoreboard = lambda sp, lg, days=21, team=None: [(pd.Timestamp("2026-11-08 19:00", tz="UTC"), "Barcelona", "Real Madrid", "LaLiga")]
 try:
     _r = _CH.answer("¿Cuál es el próximo rival del Real Madrid?"); assert "Barcelona – Real Madrid" in _r and "20:00" in _r, _r
     _r = _CH.answer("próximo partido de Mbappé"); assert "Barcelona – Real Madrid" in _r, _r  # su equipo
     _r = _CH.answer("último resultado del Real Madrid"); assert "ganó 2-1 contra Barcelona en casa" in _r, _r
+    assert _CH.plays("Almería", (None, "Cádiz", "UD Almería")) and not _CH.plays("Almería", (None, "Cádiz", "")) and not _CH.plays("Real Madrid", (None, "Real Betis", "Madrid CFF"))
 finally: _CH.scoreboard = _sb
 _CH._DB.clear(); _CH._DB["t"] = 0; _CH._BASE.clear()
 print("ok chat de Telegram")
