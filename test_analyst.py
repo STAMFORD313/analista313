@@ -1209,3 +1209,6 @@ try:
     _r = _SM.compare("A"); assert _r.index("Corta") < _r.index("Larga") and "más floja" in _r, _r
 finally: _SM.FILE.unlink(missing_ok=True); _SM.FILE, _SM.push = _smf4, _smp4; _SM._MEM.clear()
 print("ok comparar simuladas")
+import fuentes as _FU
+assert "match_id" in _FU.OD_COLS and _FU.UNDERSTAT["SP1"] == "La_liga"
+print("ok fuentes extra")

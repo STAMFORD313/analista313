@@ -24,7 +24,8 @@ Informe al usuario: una línea por mejora con 🟢 (conseguido) o 🔴 (no mejor
 - [x] Pinnacle (cuotas de cierre, todos los deportes) → pinnacle.py, experto datos_pinnacle
 - [x] Pinnacle como referencia del valor de las piernas «gana X» del chat (31 de 85 casan)
 - [ ] Pinnacle en el juez del mercado (cierre de Pinnacle frente al modelo, por liga) cuando haya ≥ 200 partidos guardados
-- [ ] FotMob (fútbol: estadísticas, alineaciones, xG por partido) · Understat (xG de 6 ligas)
-- [ ] OpenDota (Dota 2 pro: partidas, héroes, jugadores) · gol.gg (LoL) · Liquipedia (calendarios esports, con límite de peticiones)
+- [ ] FotMob (fútbol: estadísticas, alineaciones, xG por partido) · ~~Understat~~ (4-nov: sirve una página vacía a cualquier petición desde Actions)
+- [x] OpenDota → fuentes.py, experto datos_opendota (500 partidas en la prueba; 40 páginas por pasada)
+- [ ] OpenDota en el Elo de Dota 2 (más partidas y ligas que bo3.gg) · gol.gg (LoL) · Liquipedia (calendarios esports, con límite de peticiones)
 - [ ] API oficial NHL (api-web.nhle.com) · MLB statsapi · StatsBomb open data (histórico de eventos) · OpenLigaDB (Bundesliga)
 - Bloqueadas desde Actions: SofaScore, FBref, HLTV, NBA (cdn/stats), Betfair, Oracle's Elixir, TheSportsDB (clave «3» retirada)
