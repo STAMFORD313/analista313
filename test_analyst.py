@@ -1223,3 +1223,24 @@ assert abs(_PN2.close_p({**_s, "market": "away"}) - (1 / 4.2) / (1 / 1.25 + 1 / 
 assert _PN2.close_p({**_s, "market": "over", "line": 224.5}) > 0.5 and _PN2.close_p({**_s, "market": "over", "line": 230.5}) is None
 _PN2._CLOSE.clear()
 print("ok CLV con Pinnacle")
+# estrategia «valor contra Pinnacle»: Unibet por encima del precio justo de Pinnacle (cuota ≤ 2.5, ventaja ≥ 3 %)
+import valor_pinnacle as _VP
+_now = pd.Timestamp("2026-11-07T12:00Z")
+_fr = _VP.fair_rows
+_VP.fair_rows = lambda now: pd.DataFrame([{"start": "2026-11-07T20:00:00+00:00", "league": "Spain - LaLiga", "home": "Sevilla", "away": "Getafe",
+                                          "market": "moneyline", "o_home": 2.0, "o_draw": 3.4, "o_away": 4.4}])
+try:
+    _c = _VP.candidates(_now, uni=[{"home": "Sevilla FC", "away": "Getafe CF", "start": pd.Timestamp("2026-11-07T20:00Z"),
+                                    "odds": {"H": 2.20, "D": 3.30, "A": 4.0}}])
+    assert [c["market"] for c in _c] == ["H"] and abs(_c[0]["edge"] - (2.2 * (1 / 2.0) / (1 / 2.0 + 1 / 3.4 + 1 / 4.4) - 1)) < 1e-3, _c
+    assert _c[0]["implied"] == _c[0]["p"] and _c[0]["sport"] == "⚽💎"  # la banca le exige su EDGE sin penalizar la incertidumbre
+finally: _VP.fair_rows = _fr
+_rs = _VP._results
+_VP._results = lambda days=6: [{"date": "2026-11-07T20:00:00Z", "home": "Sevilla", "away": "Getafe", "hs": 2, "as": 0}]
+try:
+    _st = {"signals": [dict(_c[0])]}; _st["signals"][0]["start"] = "2026-11-01T20:00:00+00:00"
+    _st["signals"][0]["key"] = "vp|2026-11-01|Sevilla|Getafe"
+    _VP._results = lambda days=6: [{"date": "2026-11-01T20:00:00Z", "home": "Sevilla", "away": "Getafe", "hs": 2, "as": 0}]
+    assert _VP.settle(_st) == 1 and _st["signals"][0]["result"] is True and _st["signals"][0]["score"] == "2-0"
+finally: _VP._results = _rs
+print("ok valor contra Pinnacle")

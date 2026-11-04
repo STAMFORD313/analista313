@@ -72,6 +72,21 @@ def esoccer_events():
     return out
 
 
+def football_1x2():
+    """1X2 de Unibet de los partidos de fútbol (sin esports) de la lista de Kambi: [{home, away, start, odds{H,D,A}}]."""
+    out = []
+    for x in raw_football():
+        e = x.get("event") or {}
+        if "esports" in str(e.get("path")).lower() or not e.get("homeName"): continue
+        odds = {}
+        for b in x.get("betOffers", []):
+            for o in b.get("outcomes", []):
+                kk = {"OT_ONE": "H", "OT_CROSS": "D", "OT_TWO": "A"}.get(o.get("type"))
+                if kk and o.get("odds") and o.get("status", "OPEN") == "OPEN": odds[kk] = o["odds"] / 1000
+        if len(odds) == 3: out.append({"home": e["homeName"], "away": e["awayName"], "start": pd.Timestamp(e["start"]), "odds": odds})
+    return out
+
+
 def find_esoccer(p1, p2, start, evs=None):
     """Evento de Unibet de un partido de Esoccer Battle (mismos nicknames, ±20 min) con las cuotas en el orden p1/p2, o None."""
     a, b = p1.lower(), p2.lower()

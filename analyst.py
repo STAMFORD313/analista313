@@ -520,6 +520,10 @@ def main():
     settle_signals(df, state, today)
     analyze_fixtures(df, state, today, kg)
     multisport.run(state, today, kg)
+    try:  # estrategia de valor: Unibet por encima del precio justo de Pinnacle (valor_pinnacle.py)
+        import valor_pinnacle
+        valor_pinnacle.settle(state); valor_pinnacle.run(state)
+    except Exception as e: print("valor Pinnacle", repr(e))
     try: esports.run(state, today, kg)
     except Exception as e: print("fallo en cs2", repr(e))  # los esports no deben parar el resto
     bankroll.run(state, today, kg)

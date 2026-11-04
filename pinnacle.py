@@ -77,7 +77,7 @@ if __name__ == "__main__":
 
 # ── CLV: la cuota que cogió el bot frente al cierre de Pinnacle sin margen ──────────────────────────────────────────
 FILE_OF = {"nba": "baloncesto", "cbb": "baloncesto", "nhl": "hockey", "nfl": "americano", "cfb": "americano", "mlb": "beisbol",
-           "cs2": "esports", "lol": "esports", "dota2": "esports", "r6": "esports", "mlbb": "esports", "atp": "tenis", "wta": "tenis"}
+           "cs2": "esports", "lol": "esports", "dota2": "esports", "r6": "esports", "mlbb": "esports", "atp": "tenis", "wta": "tenis", "vp": "futbol"}
 _CLOSE = {}
 
 
