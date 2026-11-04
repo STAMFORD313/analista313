@@ -167,3 +167,4 @@
 - 2026-11-04: valor contra Pinnacle en más/menos 2.5 goles con precio de Smarkets (sin stake, candidata). Laboratorio: +5.4 % ± 5 % (2015-20), +2.9 % ± 3 % (2021+), CLV +3.6 %.
 - 2026-11-04: Polymarket probado desde Actions: 400 eventos de fútbol, solo 14 mercados 1X2, horquilla 0.41/0.80, liquidez <2.000 $ y comisión → descartado (sin ventaja posible). Ambos marcan: sin referencia de Pinnacle ni histórico, en espera.
 - 2026-11-04: FotMob solo descarga ligas con xG (país + sin juveniles/femeninas/regionales): partidos útiles 47 % → 77 % del cupo, conserva 410 de 420 con xG → el historial para validar xG crece ~1.6× más rápido.
+- 2026-11-04: «¿cómo van mis apuestas?» en directo: marcador, minuto y córners/tarjetas de ESPN ahora mismo, pierna a pierna (✅ ya cumplida, ❌ ya fallada, ⏳ lleva X, 🟢/🔴 de momento).

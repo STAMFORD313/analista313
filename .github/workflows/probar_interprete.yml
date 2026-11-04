@@ -2,7 +2,7 @@ name: probar_interprete
 # Prueba a mano del intérprete del chat (Gemini con el secreto GEMINI_API_KEY).
 on:
   workflow_dispatch:
-  push: {branches: [main], paths: ["smarkets.py", "valor_pinnacle.py", "kambi.py", "fuentes.py", "interpreta.py", "chat.py",  ".github/workflows/probar_interprete.yml"]}
+  push: {branches: [main], paths: ["smarkets.py", "valor_pinnacle.py", "kambi.py", "fuentes.py", "interpreta.py", "chat.py", "simulaciones.py",  ".github/workflows/probar_interprete.yml"]}
 permissions: {contents: read}
 jobs:
   probar:
@@ -14,6 +14,15 @@ jobs:
         with: {python-version: "3.12"}
       - run: pip install -r requirements.txt
       - run: |
+          python -c "
+          import simulaciones as S, pandas as pd
+          now = pd.Timestamp.now(tz='UTC')
+          for slug, code in (('uefa.champions', 'ucl'), ('uefa.europa', 'uel'), ('eng.2', 'E1')):
+              b = S._scoreboard(slug, now); x = next((x for x in b if x[1] in ('in', 'post')), None); print(slug, len(b), x)
+              if x:
+                  g = S.live_game({'code': code, 'home': x[3], 'away': x[4], 'start': str(now)}, {})
+                  print(g['estado'], g['reloj'], g['hs'], g['as'], g['team_stats']); print(S.live_leg({'txt': 'Más de 8.5 córners'}, g), S.live_leg({'txt': 'Gana ' + x[3]}, g))
+          "
           python -c "import valor_pinnacle as V, collections; c = V.candidates(); print(len(c), 'con valor', collections.Counter(x['book'] for x in c))"
           python -c "import chat; print('partidos 48 h', {k: len(v) for k, v in chat.upcoming(chat.DAY_LEAGUES).items()})"
         env:

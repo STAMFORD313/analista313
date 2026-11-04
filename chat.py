@@ -581,7 +581,7 @@ def last_combo():
 
 
 SIM_RX = r"\bsimul|\bapunta|\bregistra|\bguardala|\bjuegala|\bjugamos|\bmetele|\bvamos con (esa|ella)"
-SIMS_RX = r"como van|mis (apuestas|simuladas|combinadas)|balance|que tal (van|mis)"
+SIMS_RX = r"como van|como vamos|mis (apuestas|simuladas|combinadas)|balance|que tal (van|mis)"
 
 
 def safe_combo(kh, ka, D):
@@ -1125,9 +1125,9 @@ def _answer(t, short=True):
         import simulaciones
         ks = find(t, D, n=1, kind="equipo")
         return simulaciones.compare(D[ks[0]]["name"] if ks else None)
-    if re.search(SIMS_RX, q):
+    if re.search(SIMS_RX, q) or re.search(r"directo|en juego|jugando|ahora|marcador", q) and re.search(r"apuesta|combinad|simulad|boleto", q):
         import simulaciones
-        return simulaciones.summary()
+        return simulaciones.live() or simulaciones.summary()
     if re.search(SIM_RX, q):
         if not last_combo(): return "Primero pídeme una combinada (o mándame la foto del boleto) y luego te la simulo."
         import simulaciones

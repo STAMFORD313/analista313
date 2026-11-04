@@ -166,6 +166,85 @@ def card(b):
     return "\n".join([f"🧾 <b>{head}</b> · {A.esc(b['titulo'])}", *B.boleto(None, legs, b.get("odds"), b.get("stake"), res)]) + A.esc(why)
 
 
+# ── en directo ──────────────────────────────────────────────────────────────────────────────────────────────────
+def _scoreboard(slug, day):
+    """[(evento ESPN, estado 'pre'|'in'|'post', reloj, local, visitante, goles local, goles visitante)] de un día."""
+    out = []
+    for e in ES.get(f"{slug}/scoreboard", dates=f"{day:%Y%m%d}").get("events", []):
+        c = (e.get("competitions") or [{}])[0]
+        st = (c.get("status") or e.get("status") or {}).get("type") or {}
+        t = {x.get("homeAway"): x for x in c.get("competitors", [])}
+        if "home" in t and "away" in t:
+            out.append((e["id"], st.get("state"), st.get("shortDetail") or "", t["home"]["team"]["displayName"],
+                        t["away"]["team"]["displayName"], ES._f(t["home"].get("score")), ES._f(t["away"].get("score"))))
+    return out
+
+
+def live_game(leg, boards):
+    """Partido de ESPN de una pierna empezada: {home, away, hs, as, estado, reloj, team_stats, players} o None."""
+    day = pd.Timestamp(leg["start"])
+    codes = [leg["code"]] if leg.get("code") in ES.LEAGUES else list(ES.LEAGUES)
+    for code in codes:
+        key = (code, f"{day:%Y%m%d}")
+        if key not in boards:
+            try: boards[key] = _scoreboard(ES.LEAGUES[code], day)
+            except Exception as e: print("directo", key, repr(e)[:80]); boards[key] = []
+        for ev, state, clock, h, a, hs, as_ in boards[key]:
+            if h == leg["home"] and a == leg["away"] and state in ("in", "post"):
+                try: det = ES.compact(ES.get(f"{ES.LEAGUES[code]}/summary", event=ev))
+                except Exception: det = {}
+                return {**det, "home": h, "away": a, "hs": hs, "as": as_, "estado": state, "reloj": clock}
+    return None
+
+
+def live_leg(leg, g):
+    """(icono, texto) de una pierna con el partido en juego: ✅/❌ si ya está decidida, ⏳ si aún no."""
+    if g["estado"] == "post":
+        ok, why = judge(leg, g)
+        return {True: "✅", False: "❌"}.get(ok, "⏳"), f"terminado: {why}"
+    if leg.get("jugador"):
+        ok, why = judge(leg, g)
+        if ok is True and leg["txt"].startswith("Más") or ok is False and leg["txt"].startswith("Menos"):
+            return ("✅" if ok else "❌"), f"ya {why}"
+        return "⏳", f"va: {why}"
+    score = f"{g['hs']:g}-{g['as']:g}"
+    if leg["txt"] == "Empate" or leg["txt"].startswith("Gana ") or DC_RX.match(leg["txt"]):
+        ok, _ = judge(leg, g)
+        return ("🟢" if ok else "🔴"), f"va {score}" + (" (de momento la ganas)" if ok else " (de momento la pierdes)")
+    m = LEG_RX.match(leg["txt"])
+    if not m: return "⏳", f"va {score}"
+    ok, why = judge(leg, g)
+    if ok is None: return "⏳", f"va {score}, ESPN aún sin estadísticas"
+    side = m.group(1)
+    if side == "Más" and ok: return "✅", why.replace("hubo", "ya lleva")
+    if side == "Menos" and not ok: return "❌", why.replace("hubo", "ya lleva")
+    return "⏳", why.replace("hubo", "lleva")
+
+
+def live(now=None, boards=None):
+    """«¿Cómo van mis apuestas?» con partidos en juego: marcador y estadísticas de ESPN ahora mismo, pierna a pierna.
+    None si no hay ninguna simulada pendiente con partidos ya empezados."""
+    now, boards = now or pd.Timestamp.now(tz="UTC"), {} if boards is None else boards
+    pend = [b for b in load().values() if b["estado"] == "pendiente"
+            and any(l.get("ok") is None and l.get("start") and pd.Timestamp(l["start"]) <= now for l in b["legs"])]
+    if not pend: return None
+    out = ["📡 <b>Tus apuestas en juego</b>"]
+    for b in sorted(pend, key=lambda b: b["id"]):
+        out.append(f"\n🧾 <b>{A.esc(b['titulo'])}</b>" + (f" · cuota {b['odds']:.2f}" if b.get("odds") else ""))
+        for l in b["legs"]:
+            name = f"{A.esc(l['home'])} – {A.esc(l['away'])}: {A.esc(l['txt'])}" + (f" ({A.esc(l['jugador'])})" if l.get("jugador") else "")
+            if l.get("ok") is not None:
+                icon = {True: "✅", False: "❌"}.get(l["ok"], "➖")
+                out.append(f"{icon} {name} · {A.esc(l.get('por', ''))}"); continue
+            if not l.get("start") or pd.Timestamp(l["start"]) > now:
+                out.append(f"🕒 {name} · aún no ha empezado"); continue
+            g = None if l.get("src") else live_game(l, boards)
+            if not g: out.append(f"⏳ {name} · sin directo"); continue
+            icon, why = live_leg(l, g)
+            out.append(f"{icon} {name} · {A.esc(why)}" + (f" ({A.esc(g['reloj'])})" if g["estado"] == "in" and g["reloj"] else ""))
+    return "\n".join(out)
+
+
 def summary():
     """Estado de las simuladas del chat (para «¿cómo van mis apuestas?»)."""
     bets = sorted(load().values(), key=lambda b: b["id"])[-10:]

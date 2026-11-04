@@ -1306,3 +1306,25 @@ assert _FU.fm_keep("Premier League", "ENG") and _FU.fm_keep("Champions League", 
 assert not _FU.fm_keep("Premier League U18", "ENG") and not _FU.fm_keep("Premier League", "TAN")
 assert not _FU.fm_keep("Liga MX Femenil Apertura", "MEX") and not _FU.fm_keep("Segunda Federacion - Group 2", "ESP")
 print("ok filtro FotMob")
+
+import simulaciones as _SL, json, pandas as pd, analyst as A
+_g = {"home": "Girona", "away": "Almería", "hs": 1, "as": 0, "estado": "in", "reloj": "63'",
+      "team_stats": {"h": {"wonCorners": 4, "totalShots": 9, "yellowCards": 2}, "a": {"wonCorners": 3, "totalShots": 5, "yellowCards": 1}}}
+assert _SL.live_leg({"txt": "Más de 6.5 córners"}, _g)[0] == "✅"
+assert _SL.live_leg({"txt": "Menos de 2.5 tarjetas"}, _g)[0] == "❌"
+assert _SL.live_leg({"txt": "Más de 9.5 córners"}, _g)[0] == "⏳" and "lleva 7" in _SL.live_leg({"txt": "Más de 9.5 córners"}, _g)[1]
+assert _SL.live_leg({"txt": "Gana Girona"}, _g)[0] == "🟢" and _SL.live_leg({"txt": "Almería o empate (X2)"}, _g)[0] == "🔴"
+assert _SL.live_leg({"txt": "Más de 0.5 goles"}, {**_g, "estado": "post"})[0] == "✅"
+_mem0 = dict(_SL._MEM); _f0 = _SL.FILE; _SL.FILE = A.DATA / "_test_sim_live.json"; _SL._MEM.clear()
+try:
+    _now = pd.Timestamp.now(tz="UTC")
+    _SL.FILE.write_text(json.dumps([{"id": "1", "creada": str(_now), "titulo": "Prueba", "odds": 3.0, "stake": 1, "estado": "pendiente", "rev": 1,
+        "legs": [{"code": "SP2", "home": "Girona", "away": "Almería", "start": str(_now - pd.Timedelta(minutes=60)), "txt": "Más de 6.5 córners"},
+                 {"code": "SP2", "home": "Eibar", "away": "Leganés", "start": str(_now + pd.Timedelta(hours=2)), "txt": "Gana Eibar"}]}]))
+    _orig = _SL.live_game; _SL.live_game = lambda l, b: _g
+    _txt = _SL.live(_now)
+    assert "en juego" in _txt and "✅" in _txt and "ya lleva 7 córners" in _txt and "aún no ha empezado" in _txt and "63'" in _txt, _txt
+    _SL.live_game = _orig
+finally:
+    _SL.FILE.unlink(missing_ok=True); _SL.FILE = _f0; _SL._MEM.clear(); _SL._MEM.update(_mem0)
+print("ok apuestas en directo")
