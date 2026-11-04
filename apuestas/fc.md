@@ -1,24 +1,24 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 04/11/2026 13:34 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 04/11/2026 13:39 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## Bomb1to vs Uncle — 04/11 · 13:37
+## dm1trena vs MeLToSik — 04/11 · 13:40
 
-👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana Uncle** @ **2.80** (Unibet) · prob 38% vs casas 31% · ventaja +8%
+👀 candidata · 🎮⚽ FC 27 · LaLiga · **Gana MeLToSik** @ **2.80** (Unibet) · prob 38% vs casas 31% · ventaja +7%
 
-- ❌ Valor: ventaja +8% (mín. 10% con la incertidumbre, máx. 30%)
+- ❌ Valor: ventaja +7% (mín. 10% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
 📊 **Escenarios** (Poisson por jugador, 55.822 partidos)  
-Goles esperados: Bomb1to 2.95 · Uncle 2.88  
-Ganador: Bomb1to 42% · empate 20% · Uncle 38%  
-Total: más de 5.5 goles 53% · menos 47%  
-Hándicap Bomb1to: −1.5 27% · −2.5 15%  
+Goles esperados: dm1trena 2.49 · MeLToSik 2.46  
+Ganador: dm1trena 40% · empate 21% · MeLToSik 38%  
+Total: más de 4.5 goles 55% · menos 45%  
+Hándicap dm1trena: −1.5 25% · −2.5 13%  
 🔎 **Claves**  
-• Forma: Bomb1to ➖✅➖✅✅ | Uncle ✅✅➖✅✅  
-• Partidos: Bomb1to 1178 | Uncle 634  
-• Liga: Champions League B  
-• Unibet: 1 2.33 · X 2.70 · 2 2.80 (sin margen 37%/32%/31%) · ventaja +8%. Sin stake hasta demostrar ROI con estas cuotas.  
+• Forma: dm1trena ➖❌❌✅➖ | MeLToSik ❌✅➖❌❌  
+• Partidos: dm1trena 997 | MeLToSik 1053  
+• Liga: LaLiga  
+• Unibet: 1 2.14 · X 3.05 · 2 2.80 (sin margen 41%/28%/31%) · ventaja +7%. Sin stake hasta demostrar ROI con estas cuotas.  
 
 ## Ganger_29 vs Lumix — 04/11 · 13:46
 
