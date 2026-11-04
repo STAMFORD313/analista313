@@ -1269,4 +1269,5 @@ try:
     assert _CH.sweep().startswith("🔎") and _CH.sweep() is None  # la segunda vez: repetida
     _legs[0]["p"] = 0.4; _SM.FILE.unlink(missing_ok=True); _SM._MEM.clear(); assert _CH.sweep() is None  # una pierna sin ventaja
 finally: _CH.long_combo, _SM.FILE, _SM.push = _lc2, _smf5, _smp5; _SM._MEM.clear(); _CH._DB.clear(); _CH._DB["t"] = 0; _CH._CTX.clear()
+_CH.LAST_FILE.unlink(missing_ok=True)
 print("ok barrido de combinadas")
