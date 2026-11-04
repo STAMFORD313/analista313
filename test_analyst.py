@@ -854,3 +854,18 @@ espn_soccer.load = _el3
 assert list(_rk) == ["E1|2026-11-03|Blackburn|Stoke"] and _rk["E1|2026-11-03|Blackburn|Stoke"]["HC"] == 6 and _rk["E1|2026-11-03|Blackburn|Stoke"]["AY"] == 2
 assert football_stats.result("corners_t_o", 9.5, _rk["E1|2026-11-03|Blackburn|Stoke"]) is True
 print("ok liquidar con ESPN")
+
+# props NBA de Unibet en todos los partidos próximos, analizados o no (multisport.nba_props_pass)
+_np3 = kambi.nba_props
+kambi.nba_props = lambda h, a, s: [{"mercado": "Points", "jugador": "X", "tipo": "OT_OVER", "linea": 20.5, "cuota": 1.9}]
+_fp = A_.DATA / "nba" / "kambi_props.csv"; _fpb = _fp.read_bytes() if _fp.exists() else None
+_pst = {"nba_props_ok": []}
+_g1 = {"date": (pd.Timestamp.now(tz="UTC") + pd.Timedelta(hours=5)).isoformat(), "home": "A", "away": "B"}
+try:
+    _MS.nba_props_pass(_pst, [_g1]); _MS.nba_props_pass(_pst, [_g1])
+    assert len(_pst["nba_props_ok"]) == 1 and len(pd.read_csv(_fp)) >= 1
+finally:
+    if _fpb is None: _fp.unlink(missing_ok=True)
+    else: _fp.write_bytes(_fpb)
+    kambi.nba_props = _np3
+print("ok pasada de props NBA")

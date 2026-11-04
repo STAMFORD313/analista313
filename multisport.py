@@ -379,6 +379,9 @@ def run_league(league, state, today, kg):
     now = pd.Timestamp.now(tz="UTC")
     pre = [g for g in games.values() if pd.Timestamp(g["date"]) > now and "TBD" not in (g["home"], g["away"])]
     new = [g for g in pre if key(league, g) not in state["analyzed"]]
+    if league == "nba":
+        try: nba_props_pass(state, pre)
+        except Exception as e: print("props NBA Unibet", repr(e))
     if not pre: return
     inj = injuries(league)
     if not k:  # tenis (Elo por superficie) y UFC: modelos de agente-datos; los partidos de hoy predicen sin actualizar
@@ -456,18 +459,6 @@ def run_league(league, state, today, kg):
                  f"• H2H: {h2h}",
                  f"• Bajas: {A.absences_line(home, squads[0])}; {A.absences_line(away, squads[1])}",
                  f"• Favorito de las casas: {A.esc(fav)} @ {min(oh, oa):.2f}"]
-        if league == "nba":  # cuotas de props de jugador de Unibet: se guardan para medir el modelo de props contra la casa
-            try:
-                import kambi
-                rows = kambi.nba_props(home, away, g["date"])
-                if rows:
-                    f = A.DATA / "nba" / "kambi_props.csv"
-                    new = pd.DataFrame(rows).assign(seen=pd.Timestamp.now(tz="UTC").isoformat(), start=str(g["date"]), home=home, away=away)
-                    old_ = pd.read_csv(f) if f.exists() else new.iloc[:0]
-                    pd.concat([old_, new]).drop_duplicates(["start", "home", "mercado", "jugador", "tipo", "linea"], keep="last").to_csv(f, index=False)
-            except Exception as e:
-                print("props NBA Unibet", repr(e))
-                import kambi; kambi._debug("nba_error", {"error": repr(e)[:300]})
         if league == "nba":  # props de jugador (train_nba_props.py), sin los lesionados
             try:
                 import nba_props
@@ -488,6 +479,26 @@ def run_league(league, state, today, kg):
             state["signals"].append({**v, "key": key(league, g), "match": f"{home} vs {away}", "pick": g.get(v["market"], "Empate"),
                                      "start": g["date"], "league": f"{title} · {g['event']}" if k is None else title,
                                      "sport": title.split()[0], "info": info, "context": context})
+
+
+def nba_props_pass(state, pre):
+    """En cada run, para los partidos NBA de las próximas 36 h aún sin props guardadas (state["nba_props_ok"]): cuotas
+    de props de jugador de Unibet → data/nba/kambi_props.csv (para medir el modelo de props contra la casa)."""
+    import kambi
+    now, done, rows = pd.Timestamp.now(tz="UTC"), state.setdefault("nba_props_ok", []), []
+    for g in pre:
+        k = key("nba", g)
+        if k in done or not (now < pd.Timestamp(g["date"]) < now + pd.Timedelta(hours=36)): continue
+        r = kambi.nba_props(g["home"], g["away"], g["date"])
+        if r:
+            done.append(k)
+            rows += [{**x, "seen": now.isoformat(), "start": str(g["date"]), "home": g["home"], "away": g["away"]} for x in r]
+    state["nba_props_ok"] = done[-300:]
+    if rows:
+        f = A.DATA / "nba" / "kambi_props.csv"
+        new = pd.DataFrame(rows); old = pd.read_csv(f) if f.exists() else new.iloc[:0]
+        pd.concat([old, new]).drop_duplicates(["start", "home", "mercado", "jugador", "tipo", "linea"], keep="last").to_csv(f, index=False)
+    print(f"Unibet NBA: props guardadas de {len(rows)} líneas")
 
 
 def euro_combos(state, k, home, away, g):
