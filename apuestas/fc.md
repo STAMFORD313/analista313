@@ -1,24 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 04/11/2026 15:09 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Maslja vs Totti — 04/11 · 15:10
-
-👀 candidata · 🎮⚽ FC 27 · Serie A · **Gana Maslja** @ **2.48** (Unibet) · prob 44% vs casas 35% · ventaja +9%
-
-- ❌ Valor: ventaja +9% (mín. 10% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 55.832 partidos)  
-Goles esperados: Maslja 3.10 · Totti 2.92  
-Ganador: Maslja 44% · empate 19% · Totti 37%  
-Total: más de 6.5 goles 40% · menos 60%  
-Hándicap Maslja: −1.5 29% · −2.5 17%  
-🔎 **Claves**  
-• Forma: Maslja ❌❌❌✅✅ | Totti ✅❌❌❌❌  
-• Partidos: Maslja 820 | Totti 859  
-• Liga: Serie A  
-• Unibet: 1 2.48 · X 4.50 · 2 1.93 (sin margen 35%/19%/45%) · ventaja +9%. Sin stake hasta demostrar ROI con estas cuotas.  
+Actualizado 04/11/2026 15:15 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## spirtes vs mPm — 04/11 · 15:16
 
@@ -92,24 +74,6 @@ Hándicap Mani: −1.5 41% · −2.5 26%
 • Liga: Europa League  
 • Unibet: 1 2.60 · X 4.40 · 2 1.88 (sin margen 34%/20%/47%) · ventaja +11%. Sin stake hasta demostrar ROI con estas cuotas.  
 
-## DaVa vs Jekunam — 04/11 · 15:28
-
-👀 candidata · 🎮⚽ FC 27 · LaLiga · **Gana DaVa** @ **1.97** (Unibet) · prob 55% vs casas 44% · ventaja +8%
-
-- ❌ Valor: ventaja +8% (mín. 10% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 55.876 partidos)  
-Goles esperados: DaVa 2.80 · Jekunam 2.08  
-Ganador: DaVa 55% · empate 20% · Jekunam 25%  
-Total: más de 4.5 goles 54% · menos 46%  
-Hándicap DaVa: −1.5 35% · −2.5 20%  
-🔎 **Claves**  
-• Forma: DaVa ✅❌➖✅➖ | Jekunam ❌✅✅❌➖  
-• Partidos: DaVa 1116 | Jekunam 978  
-• Liga: LaLiga  
-• Unibet: 1 1.97 · X 3.55 · 2 2.75 (sin margen 44%/24%/32%) · ventaja +8%. Sin stake hasta demostrar ROI con estas cuotas.  
-
 ## w1nkos vs Maslja — 04/11 · 15:34
 
 👀 candidata · 🎮⚽ FC 27 · Serie A · **Gana w1nkos** @ **2.04** (Unibet) · prob 55% vs casas 43% · ventaja +12%
@@ -127,4 +91,40 @@ Hándicap w1nkos: −1.5 38% · −2.5 24%
 • Partidos: w1nkos 1095 | Maslja 820  
 • Liga: Serie A  
 • Unibet: 1 2.04 · X 4.25 · 2 2.38 (sin margen 43%/21%/37%) · ventaja +12%. Sin stake hasta demostrar ROI con estas cuotas.  
+
+## borees vs Totti — 04/11 · 15:34
+
+👀 candidata · 🎮⚽ FC 27 · Serie A · **Gana borees** @ **2.30** (Unibet) · prob 47% vs casas 38% · ventaja +8%
+
+- ❌ Valor: ventaja +8% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 55.876 partidos)  
+Goles esperados: borees 3.08 · Totti 2.67  
+Ganador: borees 47% · empate 19% · Totti 33%  
+Total: más de 5.5 goles 51% · menos 49%  
+Hándicap borees: −1.5 32% · −2.5 19%  
+🔎 **Claves**  
+• Forma: borees ✅➖✅✅❌ | Totti ✅❌❌❌❌  
+• Partidos: borees 924 | Totti 859  
+• Liga: Serie A  
+• Unibet: 1 2.30 · X 4.25 · 2 2.08 (sin margen 38%/20%/42%) · ventaja +8%. Sin stake hasta demostrar ROI con estas cuotas.  
+
+## Dicca vs pikalicaaa — 04/11 · 15:37
+
+👀 candidata · 🎮⚽ FC 27 · Europa League · **Gana Dicca** @ **1.75** (Unibet) · prob 64% vs casas 50% · ventaja +12%
+
+- ✅ Valor: ventaja +12% (mín. 11% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 55.876 partidos)  
+Goles esperados: Dicca 3.60 · pikalicaaa 2.33  
+Ganador: Dicca 64% · empate 16% · pikalicaaa 20%  
+Total: más de 5.5 goles 54% · menos 46%  
+Hándicap Dicca: −1.5 46% · −2.5 30%  
+🔎 **Claves**  
+• Forma: Dicca ✅❌✅✅❌ | pikalicaaa ➖✅❌❌❌  
+• Partidos: Dicca 601 | pikalicaaa 543  
+• Liga: Europa League  
+• Unibet: 1 1.75 · X 4.40 · 2 2.88 (sin margen 50%/20%/30%) · ventaja +12%. Sin stake hasta demostrar ROI con estas cuotas.  
 
