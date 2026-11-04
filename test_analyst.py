@@ -970,3 +970,18 @@ try:
     assert len(_CH._CTX["hist"]) <= 12
 finally: _CH.scoreboard = _sb3; _IP.route = _rt; _CH._DB.clear(); _CH._DB["t"] = 0; _CH._CTX.clear(); _CH._BASE.clear()
 print("ok conversación del chat")
+# intérprete con GitHub Models (respuesta simulada; sin token no se llama)
+import interpreta as _IP2, requests as _rq
+assert _IP2.route_github("hola") is None or __import__("os").getenv("GH_MODELS_TOKEN")
+_pst2, _env = _rq.post, __import__("os").environ.get("GH_MODELS_TOKEN")
+class _R:
+    status_code, ok = 200, True
+    def json(self): return {"choices": [{"message": {"content": '{"orden": "combinada Girona Almería", "respuesta": ""}'}}]}
+_rq.post = lambda *a, **k: _R(); __import__("os").environ["GH_MODELS_TOKEN"] = "x"
+try: assert _IP2.route("sí", [("bot", "¿Quieres la combinada de Girona – Almería?")]) == {"orden": "combinada Girona Almería", "respuesta": ""}
+finally:
+    _rq.post = _pst2
+    if _env is None: __import__("os").environ.pop("GH_MODELS_TOKEN")
+    else: __import__("os").environ["GH_MODELS_TOKEN"] = _env
+assert _IP2._parse('```json\n{"orden": "ayuda", "respuesta": ""}\n```')["orden"] == "ayuda"
+print("ok intérprete con GitHub Models")

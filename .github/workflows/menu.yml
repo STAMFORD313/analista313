@@ -3,7 +3,8 @@ on:
   schedule: [{cron: "0 */5 * * *"}]   # cada 5 h arranca una escucha nueva de ~5 h 45 min: cubre las 24 h
   workflow_dispatch:
   push: {branches: [main], paths: ["menu.py", "radar.py", "bankroll.py", "esports.py", "chat.py", "voz.py", "interpreta.py", ".github/workflows/menu.yml"]}
-concurrency: {group: menu, cancel-in-progress: true}   # la nueva releva a la anterior (un solo lector de Telegram)
+concurrency: {group: menu, cancel-in-progress: true}
+permissions: {contents: read, models: read}   # models: el intérprete del chat usa GitHub Models (gratis) con el token del workflow   # la nueva releva a la anterior (un solo lector de Telegram)
 jobs:
   listen:
     runs-on: ubuntu-latest
@@ -20,4 +21,5 @@ jobs:
           PYTHONUNBUFFERED: "1"   # que los errores salgan en el log al momento
           TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}   # opcional: sin él, el chat solo usa reglas
+          GH_MODELS_TOKEN: ${{ secrets.GITHUB_TOKEN }}   # intérprete del chat con GitHub Models (gratis, sin claves)
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}   # opcional (de pago): si existe, se usa Claude en vez de GitHub Models

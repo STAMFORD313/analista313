@@ -1,0 +1,19 @@
+name: probar_interprete
+# Prueba a mano del intérprete del chat con GitHub Models (gratis, con el token del propio workflow).
+on:
+  workflow_dispatch:
+  push: {branches: [main], paths: ["interpreta.py", ".github/workflows/probar_interprete.yml"]}
+permissions: {contents: read, models: read}
+jobs:
+  probar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.12"}
+      - run: pip install requests
+      - run: python interpreta.py
+        env:
+          PYTHONUNBUFFERED: "1"
+          GH_MODELS_TOKEN: ${{ secrets.GITHUB_TOKEN }}
