@@ -340,8 +340,21 @@ def settle_signals(df, state, today):
     recent = {key(r): r for r in df[df.Date >= today - pd.Timedelta(days=30)].to_dict("records")}
     try:
         import espn_soccer  # Champions/Europa: estadísticas de los partidos desde ESPN (datos_espn.yml)
-        print("combinadas de estadísticas liquidadas:", football_stats.settle_sgp(state, {**recent, **espn_soccer.recent_rows()}, today))
+        pend = [k for k in state.get("sgp", {}) if k not in recent and k.split("|")[1] < f"{today:%Y-%m-%d}"]
+        espn = espn_soccer.rows_for_keys(pend)  # domésticas que football-data aún no publica: estadísticas de ESPN
+        print("combinadas de estadísticas liquidadas:", football_stats.settle_sgp(state, {**espn, **recent, **espn_soccer.recent_rows()}, today))
     except Exception as e: print("fallo en settle_sgp", repr(e))
+    try:  # córners/tarjetas sin fila de football-data todavía: ESPN
+        import espn_soccer
+        pend = [s["key"] for s in state["signals"] if s.get("result") is None and "_" in s.get("market", "") and s["key"] not in recent
+                and s["key"].split("|")[1] < f"{today:%Y-%m-%d}"]
+        espn_rows = espn_soccer.rows_for_keys(set(pend))
+    except Exception as e: print("ESPN para liquidar", repr(e)); espn_rows = {}
+    for s in state["signals"]:
+        if s.get("result") is None and "_" in s.get("market", "") and s["key"] not in recent and s["key"] in espn_rows:
+            if (res := football_stats.result(s["market"], s["line"], espn_rows[s["key"]])) is not None:
+                s["result"], s["fuente"] = res, "ESPN"
+                r = espn_rows[s["key"]]; s["score"] = f"{int(r['FTHG'])}-{int(r['FTAG'])}"
     for s in state["signals"]:
         if s.get("result") is None and s["key"] in recent:
             r = recent[s["key"]]

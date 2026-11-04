@@ -843,3 +843,14 @@ _MW._MC = {"nfl": {"ganador": {"w_opt": 0.4, "ll_2a_mitad_w_opt": 0.64, "ll_2a_m
 assert _MW.weight("nfl", "ganador") == 0.0
 _MW._NFLV, _MW._MC = _nf0, _mc1
 print("ok NFL nflverse")
+
+# liquidar con ESPN cuando football-data aún no publica (espn_soccer.rows_for_keys)
+_el3 = espn_soccer.load
+espn_soccer.load = lambda code: [{"date": "2026-11-03T19:45Z", "home": "Blackburn Rovers", "away": "Stoke City", "hs": 1, "as": 2,
+    "team_stats": {"h": {"wonCorners": 6, "yellowCards": 2, "foulsCommitted": 11, "shotsOnTarget": 3},
+                   "a": {"wonCorners": 4, "yellowCards": 1, "redCards": 1, "foulsCommitted": 9, "shotsOnTarget": 5}}}] if code == "E1" else []
+_rk = espn_soccer.rows_for_keys(["E1|2026-11-03|Blackburn|Stoke", "E1|2026-11-03|Leeds|Hull"])
+espn_soccer.load = _el3
+assert list(_rk) == ["E1|2026-11-03|Blackburn|Stoke"] and _rk["E1|2026-11-03|Blackburn|Stoke"]["HC"] == 6 and _rk["E1|2026-11-03|Blackburn|Stoke"]["AY"] == 2
+assert football_stats.result("corners_t_o", 9.5, _rk["E1|2026-11-03|Blackburn|Stoke"]) is True
+print("ok liquidar con ESPN")

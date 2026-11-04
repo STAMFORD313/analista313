@@ -93,6 +93,31 @@ def recent_rows(codes=("ucl", "uel"), days=30):
     return out
 
 
+def rows_for_keys(keys):
+    """Filas tipo football-data (FTHG, HC, HY…) de ESPN para claves del bot «Div|fecha|local|visitante» de ligas
+    domésticas (nombres de football-data emparejados con los de ESPN por fecha ±1 día): para liquidar córners,
+    tarjetas y combinadas sin esperar a que football-data publique el partido. {clave: fila}."""
+    import analyst as A
+    out, cache = {}, {}
+    for k in keys:
+        div, day, home, away = k.split("|")
+        if div not in LEAGUES: continue
+        if div not in cache: cache[div] = load(div)
+        for g in cache[div]:
+            if abs((pd.Timestamp(str(g["date"])[:10]) - pd.Timestamp(day)).days) > 1: continue
+            if not (A.find_team(home, [g["home"]]) and A.find_team(away, [g["away"]])): continue
+            ts = g.get("team_stats") or {}
+            h, a = ts.get("h") or {}, ts.get("a") or {}
+            if not h or not a: break
+            x = lambda d, c: d.get(c, float("nan"))
+            out[k] = {"FTHG": g["hs"], "FTAG": g["as"], "HC": x(h, "wonCorners"), "AC": x(a, "wonCorners"),
+                      "HY": x(h, "yellowCards") + h.get("redCards", 0), "AY": x(a, "yellowCards") + a.get("redCards", 0),
+                      "HR": 0, "AR": 0, "HF": x(h, "foulsCommitted"), "AF": x(a, "foulsCommitted"),
+                      "HST": x(h, "shotsOnTarget"), "AST": x(a, "shotsOnTarget"), "fuente": "ESPN"}
+            break
+    return out
+
+
 def events(slug, day):
     """[(id, fecha, local, visitante, goles local, goles visitante)] de los partidos TERMINADOS de un día."""
     out = []
