@@ -176,19 +176,25 @@ def update(max_games=1500, seasons=3, pause=0.4):
     return n
 
 
-def backfill(max_games=600, pause=0.4):
+def backfill(max_games=600, workers=6):
     """Vuelve a bajar los partidos guardados sin el último campo de jugador (faltas recibidas), de los más recientes a los
-    más antiguos, hasta max_games por ejecución; reescribe cada liga."""
+    más antiguos, hasta max_games por ejecución (en paralelo); reescribe cada liga."""
+    from concurrent.futures import ThreadPoolExecutor
     done = 0
     for code, slug in LEAGUES.items():
         if done >= max_games: break
         games = load(code)
         old = [i for i, g in enumerate(games) if g["players"] and len(g["players"][0]) < 5 + len(PSTATS)]
         if not old: continue
-        for i in sorted(old, key=lambda i: str(games[i]["date"]), reverse=True)[: max_games - done]:
-            try: games[i].update(compact(get(f"{slug}/summary", event=games[i]["id"])))
-            except (requests.RequestException, ValueError) as e: print("ESPN", slug, games[i]["id"], e); time.sleep(3); continue
-            done += 1; time.sleep(pause)
+        todo = sorted(old, key=lambda i: str(games[i]["date"]), reverse=True)[: max_games - done]
+        def one(i):
+            for k in range(3):
+                try: return i, compact(get(f"{slug}/summary", event=games[i]["id"]))
+                except (requests.RequestException, ValueError) as e: print("ESPN", slug, games[i]["id"], e); time.sleep(3 * (k + 1))
+            return i, None
+        with ThreadPoolExecutor(workers) as ex:
+            for i, c in ex.map(one, todo):
+                if c and c["players"]: games[i].update(c); done += 1
         with path(code).open("w", encoding="utf-8") as f:
             for g in games: f.write(json.dumps(g, ensure_ascii=False) + "\n")
     print(f"ESPN fútbol: {done} partidos rellenados con faltas recibidas")
