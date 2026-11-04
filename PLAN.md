@@ -15,7 +15,7 @@ Informe al usuario: una línea por mejora con 🟢 (conseguido) o 🔴 (no mejor
 - [ ] Props: con ≥ 200 liquidadas, decidir por estadística (NBA y fútbol) si se apuestan (ROI − 2 e.t. > 0).
 - [x] Fútbol: más ligas de ESPN en espn_soccer.LEAGUES (las 11 «nuevas» del bot).
 - [ ] Fútbol: modelo de estadísticas (córners/tarjetas/tiros) para las 11 ligas nuevas con los datos de ESPN.
-- [ ] Fútbol: efecto del portero en córners y árbitro en todas las ligas (con el historial de ESPN).
+- [x] Fútbol: portero → córners descartado (sin efecto). Árbitro: ESPN solo lo publica en ~20 %; reintentar con más historial.
 - [ ] Props de CS2/Dota/LoL (kills) contra cuotas reales si Unibet/Thunderpick las publican.
 - [ ] NFL y Champions (único mercado US/Europa que bate al cierre): reforzar con datos de jugadores (QB titular, nflverse).
 - [ ] Revisar semanalmente el banco de pruebas y las estrategias; ajustar MAX_ODDS y segmentos con datos nuevos.
