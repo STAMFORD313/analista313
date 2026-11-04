@@ -1292,7 +1292,7 @@
   "wta|2026-11-06|Sofya Lansere|Martyna Kubka",
   "fc|2362044",
   "fc|2362043",
-  "fc|2361720"
+  "fc|2363380"
  ],
  "signals": [
   {
@@ -17427,7 +17427,10 @@
    "version": "a080006",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "6-8",
+   "result": false,
+   "logged": true
   },
   {
    "market": "H",
@@ -17833,7 +17836,10 @@
    "version": "f26ee10",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "2-5",
+   "result": false,
+   "logged": true
   },
   {
    "market": "A",
@@ -17870,19 +17876,6 @@
    "start": "2026-11-04T13:18:00+00:00",
    "league": "🎮⚽ FC 27 · CSL",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 55.822 partidos)",
-    "Goles esperados: crinner 3.59 · saportj 2.36",
-    "Ganador: crinner 64% · empate 16% · saportj 19%",
-    "Total: más de 5.5 goles 55% · menos 45%",
-    "Hándicap crinner: −1.5 45% · −2.5 29%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: crinner ✅❌❌✅✅ | saportj ❌❌✅✅❌",
-    "• Partidos: crinner 883 | saportj 628",
-    "• Liga: CSL",
-    "• Unibet: 1 1.70 · X 4.50 · 2 3.05 (sin margen 52%/20%/29%) · ventaja +9%. Sin stake hasta demostrar ROI con estas cuotas."
-   ],
    "context": "EA FC Esoccer Battle crinner vs saportj (CSL): goles esperados 3.59-2.36, 1X2 64%/16%/19%. Sin cuotas de casa.",
    "captured": "2026-11-04T13:08",
    "version": "3d8de42",
@@ -17939,7 +17932,7 @@
    "league": "🎮⚽ FC 27 · FA Cup",
    "sport": "🎮⚽",
    "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 55.822 partidos)",
+    "📊 <b>Escenarios</b> (Poisson por jugador, 55.832 partidos)",
     "Goles esperados: Lumix 2.83 · Ganger_29 2.19",
     "Ganador: Lumix 53% · empate 20% · Ganger_29 27%",
     "Total: más de 5.5 goles 39% · menos 61%",
@@ -17952,8 +17945,8 @@
     "• Unibet: 1 2.23 · X 3.40 · 2 2.43 (sin margen 39%/25%/36%) · ventaja +18%. Sin stake hasta demostrar ROI con estas cuotas."
    ],
    "context": "EA FC Esoccer Battle Lumix vs Ganger_29 (FA Cup): goles esperados 2.83-2.19, 1X2 53%/20%/27%. Sin cuotas de casa.",
-   "captured": "2026-11-04T13:13",
-   "version": "3657278",
+   "captured": "2026-11-04T13:18",
+   "version": "eb23da5",
    "bajas": "",
    "considered": true,
    "placed": false
@@ -17973,7 +17966,7 @@
    "league": "🎮⚽ FC 27 · FA Cup",
    "sport": "🎮⚽",
    "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 55.822 partidos)",
+    "📊 <b>Escenarios</b> (Poisson por jugador, 55.832 partidos)",
     "Goles esperados: Ganger_29 2.25 · Tesla 3.85",
     "Ganador: Ganger_29 15% · empate 15% · Tesla 70%",
     "Total: más de 6.5 goles 41% · menos 59%",
@@ -17986,42 +17979,42 @@
     "• Unibet: 1 3.40 · X 4.00 · 2 1.67 (sin margen 26%/22%/52%) · ventaja +17%. Sin stake hasta demostrar ROI con estas cuotas."
    ],
    "context": "EA FC Esoccer Battle Ganger_29 vs Tesla (FA Cup): goles esperados 2.25-3.85, 1X2 15%/15%/70%. Sin cuotas de casa.",
-   "captured": "2026-11-04T13:13",
-   "version": "3657278",
+   "captured": "2026-11-04T13:18",
+   "version": "eb23da5",
    "bajas": "",
    "considered": true,
    "placed": false
   },
   {
    "market": "H",
-   "pick": "Uncle",
-   "odds": 2.8,
+   "pick": "Lufy",
+   "odds": 1.55,
    "book": "Unibet",
-   "implied": 0.31,
-   "edge": 0.076,
+   "implied": 0.568,
+   "edge": 0.119,
    "sin_stake": true,
-   "p": 0.384,
-   "key": "fc|2361720",
-   "match": "Uncle vs Bomb1to",
-   "start": "2026-11-04T13:37:00+00:00",
-   "league": "🎮⚽ FC 27 · Champions League B",
+   "p": 0.722,
+   "key": "fc|2363380",
+   "match": "Lufy vs cappo",
+   "start": "2026-11-04T13:48:00+00:00",
+   "league": "🎮⚽ FC 27 · International A 2x6",
    "sport": "🎮⚽",
    "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 55.822 partidos)",
-    "Goles esperados: Uncle 2.88 · Bomb1to 2.95",
-    "Ganador: Uncle 38% · empate 20% · Bomb1to 42%",
-    "Total: más de 5.5 goles 53% · menos 47%",
-    "Hándicap Bomb1to: −1.5 27% · −2.5 15%",
+    "📊 <b>Escenarios</b> (Poisson por jugador, 55.832 partidos)",
+    "Goles esperados: Lufy 6.04 · cappo 3.96",
+    "Ganador: Lufy 72% · empate 11% · cappo 17%",
+    "Total: más de 9.5 goles 54% · menos 46%",
+    "Hándicap Lufy: −1.5 57% · −2.5 44%",
     "",
     "🔎 <b>Claves</b>",
-    "• Forma: Uncle ✅✅➖✅✅ | Bomb1to ➖✅➖✅✅",
-    "• Partidos: Uncle 634 | Bomb1to 1178",
-    "• Liga: Champions League B",
-    "• Unibet: 1 2.80 · X 2.70 · 2 2.35 (sin margen 31%/32%/37%) · ventaja +8%. Sin stake hasta demostrar ROI con estas cuotas."
+    "• Forma: Lufy ❌➖✅✅✅ | cappo ❌❌❌❌❌",
+    "• Partidos: Lufy 646 | cappo 248",
+    "• Liga: International A 2x6",
+    "• Unibet: 1 1.55 · X 4.80 · 2 3.55 (sin margen 57%/18%/25%) · ventaja +12%. Sin stake hasta demostrar ROI con estas cuotas."
    ],
-   "context": "EA FC Esoccer Battle Uncle vs Bomb1to (Champions League B): goles esperados 2.88-2.95, 1X2 38%/20%/42%. Sin cuotas de casa.",
-   "captured": "2026-11-04T13:13",
-   "version": "3657278",
+   "context": "EA FC Esoccer Battle Lufy vs cappo (International A 2x6): goles esperados 6.04-3.96, 1X2 72%/11%/17%. Sin cuotas de casa.",
+   "captured": "2026-11-04T13:18",
+   "version": "eb23da5",
    "bajas": "",
    "considered": true,
    "placed": false
@@ -18836,8 +18829,8 @@
   }
  },
  "combo_sent": "2026-11-03T19:29:18.780644+00:00",
- "fc_sim_sent": "2026-11-04T07:14:55.450526+00:00",
- "fc_sim_n": 177,
+ "fc_sim_sent": "2026-11-04T13:18:31.295198+00:00",
+ "fc_sim_n": 244,
  "kambi_ok": [
   "E1|2026-11-03|Blackburn|Stoke",
   "E1|2026-11-03|Charlton|Bolton",
