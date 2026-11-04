@@ -443,10 +443,12 @@ def safe_legs(kh, ka, D):
         lh, la = max(m[0] * HFA["futbol"], 0.05), max(m[1] / HFA["futbol"], 0.05)
         P = A.probs(lh, la); t = P["H"] + P["D"] + P["A"]
         p00 = math.exp(-lh - la) * (1 - lh * la * A.RHO) / t
-        if P["O15"] / t >= SAFE_P: legs.append(("Más de 1.5 goles", P["O15"] / t))
+        # medido (2.ª mitad ESPN): más de 1.5 con 87 % previsto acierta 84 % → se exige 88 %; más de 0.5 cumple (88→91 %)
+        if P["O15"] / t >= 0.88: legs.append(("Más de 1.5 goles", P["O15"] / t))
         elif 1 - p00 >= SAFE_P: legs.append(("Más de 0.5 goles", 1 - p00))
         dc = max((("1X", h["name"], (P["H"] + P["D"]) / t), ("X2", a["name"], (P["A"] + P["D"]) / t)), key=lambda x: x[2])
-        if dc[2] >= 0.8: legs.append((f"{A.esc(dc[1])} o empate ({dc[0]})", dc[2]))
+        # 1X cumple de sobra (82 % previsto → 86 % real); X2 se pasa de optimista (82 % → 75 %): al visitante se le exige 88 %
+        if dc[2] >= (0.8 if dc[0] == "1X" else 0.88): legs.append((f"{A.esc(dc[1])} o empate ({dc[0]})", dc[2]))
     return legs
 
 
