@@ -19,3 +19,11 @@ Informe al usuario: una línea por mejora con 🟢 (conseguido) o 🔴 (no mejor
 - [ ] Props de CS2/Dota/LoL (kills) contra cuotas reales si Unibet/Thunderpick las publican.
 - [x] NFL con nflverse: con 1.808 partidos la casa gana (la ventaja de 263 era ruido) → NFL sin apuestas. Champions: revalidar con más partidos.
 - [ ] Revisar semanalmente el banco de pruebas y las estrategias; ajustar MAX_ODDS y segmentos con datos nuevos.
+
+## Fuentes de datos nuevas (sondeo desde Actions, 4-nov: gratis y sin clave)
+- [x] Pinnacle (cuotas de cierre, todos los deportes) → pinnacle.py, experto datos_pinnacle
+- [ ] Usar Pinnacle como referencia del juez del mercado y del valor de las piernas (sustituir la casa sin margen de Unibet/DK)
+- [ ] FotMob (fútbol: estadísticas, alineaciones, xG por partido) · Understat (xG de 6 ligas)
+- [ ] OpenDota (Dota 2 pro: partidas, héroes, jugadores) · gol.gg (LoL) · Liquipedia (calendarios esports, con límite de peticiones)
+- [ ] API oficial NHL (api-web.nhle.com) · MLB statsapi · StatsBomb open data (histórico de eventos) · OpenLigaDB (Bundesliga)
+- Bloqueadas desde Actions: SofaScore, FBref, HLTV, NBA (cdn/stats), Betfair, Oracle's Elixir, TheSportsDB (clave «3» retirada)

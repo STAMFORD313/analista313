@@ -20,6 +20,7 @@ EXPERTS = {
     "datos_futbol_jugadores": (0, 45, [PY, "espn_soccer.py", "1200"], "ESPN fútbol: alineaciones, jugadores, porteros y árbitro de 18 competiciones"),
     "datos_nba_nhl": (6, 60, [PY, "-c", "import nba_players as N; [N.download(l, refetch=True) for l in ('nba', 'nhl')]"],
                       "ESPN NBA/NHL: boxscores con puntos, rebotes, asistencias, triples y tiros por jugador"),
+    "datos_pinnacle": (0, 10, [PY, "pinnacle.py"], "Pinnacle: cuotas de cierre de la casa más afinada (fútbol, NBA, NHL, esports, NFL, tenis)"),
     "sondeo_esports": (12, 10, [PY, "sondeo.py"], "Disciplinas nuevas de bo3.gg y esports con cuota en Unibet"),
     # ── evaluadores (comparan con la casa usando lo ya jugado) ─────────────────────────────────────────────────
     "props_futbol": (0, 15, [PY, "football_players.py"], "Props de jugador de fútbol: backtest y liquidación de las cuotas de Unibet"),

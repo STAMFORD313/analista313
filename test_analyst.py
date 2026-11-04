@@ -1117,3 +1117,7 @@ _g = {"home": "AEK Athens", "away": "Real Madrid", "hs": 0, "as": 3, "team_stats
 assert _SM.judge({"txt": "Menos de 6.5 córners de Real Madrid"}, _g) == (False, "hubo 7 córners de Real Madrid")
 assert _SM.judge({"txt": "Más de 2.5 córners de AEK Athens"}, _g)[0] is False and _SM.judge({"txt": "Más de 8.5 córners"}, _g)[0] is True
 print("ok crear apuesta de un partido")
+# Pinnacle: cuotas americanas → decimales
+import pinnacle as _PN
+assert _PN.dec(150) == 2.5 and _PN.dec(-200) == 1.5 and _PN.dec(None) is None
+print("ok Pinnacle")
