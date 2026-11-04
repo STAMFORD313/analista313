@@ -1083,6 +1083,10 @@ def _answer(t, short=True):
     if not t or re.match(r"^/?(ayuda|help|hola|que puedes)", norm(t)): return HELP
     D = db()
     q = low(t)
+    if re.search(r"(mas|mayor) posibilidades|cual (tiene|es) (mas|mejor)|compara", q) and re.search(r"apuesta|simulad|combinad|boleto", q):
+        import simulaciones
+        ks = find(t, D, n=1, kind="equipo")
+        return simulaciones.compare(D[ks[0]]["name"] if ks else None)
     if re.search(SIMS_RX, q):
         import simulaciones
         return simulaciones.summary()

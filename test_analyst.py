@@ -1200,3 +1200,12 @@ try:
     assert not _SM.record(_cb).get("duplicada") and _SM.record(_cb).get("duplicada") and len(_SM.load()) == 1
 finally: _SM.FILE.unlink(missing_ok=True); _SM.FILE, _SM.push = _smf3, _smp3; _SM._MEM.clear()
 print("ok simuladas sin duplicados")
+# comparar simuladas pendientes («¿cuál tiene más posibilidades?»)
+_smf4, _smp4 = _SM.FILE, _SM.push
+_SM.FILE = A_.DATA / "_test_simuladas4.json"; _SM.FILE.unlink(missing_ok=True); _SM._MEM.clear(); _SM.push = lambda m: None
+try:
+    _SM.record({"titulo": "Larga", "legs": [dict(home="A", away="B", txt="Gana A", p=0.5), dict(home="A", away="B", txt="Más de 9.5 córners", p=0.4)]})
+    _SM.record({"titulo": "Corta", "legs": [dict(home="A", away="B", txt="Más de 4.5 córners", p=0.9)]})
+    _r = _SM.compare("A"); assert _r.index("Corta") < _r.index("Larga") and "más floja" in _r, _r
+finally: _SM.FILE.unlink(missing_ok=True); _SM.FILE, _SM.push = _smf4, _smp4; _SM._MEM.clear()
+print("ok comparar simuladas")

@@ -53,7 +53,7 @@ def record(combo, stake=1.0):
     sig = lambda legs: sorted((l.get("home"), l.get("away"), l.get("txt"), l.get("jugador")) for l in legs)
     dup = next((b for b in bets.values() if b["estado"] == "pendiente" and sig(b["legs"]) == sig(combo["legs"])), None)
     if dup: return {**dup, "duplicada": True}  # la misma combinada ya apuntada (p. ej. un «sí» repetido)
-    bid = f"{pd.Timestamp.now(tz='UTC'):%Y%m%d%H%M%S}"
+    bid = f"{pd.Timestamp.now(tz='UTC'):%Y%m%d%H%M%S%f}"  # con microsegundos: dos en el mismo segundo no se pisan
     bets[bid] = {"id": bid, "creada": str(pd.Timestamp.now(tz="UTC")), "titulo": combo.get("titulo", "Combinada"),
                  "legs": combo["legs"], "odds": combo.get("odds"), "p": combo.get("p"), "stake": stake,
                  "estado": "pendiente", "avisada": False, "rev": 1}
@@ -178,3 +178,27 @@ def summary():
         icon = {"ganada": "✅", "perdida": "❌", "nula": "➖"}.get(b["estado"], "⏳")
         lines.append(f"{icon} {A.esc(b['titulo'])} · {n_ok}/{len(b['legs'])} piernas" + (f" · cuota {b['odds']:.2f}" if b.get("odds") else ""))
     return "\n".join(lines)
+
+
+def compare(filtro=None):
+    """Simuladas pendientes ordenadas por posibilidades: producto de las probabilidades del bot (con piernas del mismo
+    partido es solo orientativo: van ligadas) y la pierna más floja, que es la que más la pone en riesgo."""
+    import math
+    pend = [b for b in load().values() if b["estado"] == "pendiente"]
+    if filtro:
+        f = filtro.lower()
+        pend = [b for b in pend if any(f in f"{l.get('home', '')} {l.get('away', '')}".lower() for l in b["legs"])] or pend
+    if not pend: return "No tienes apuestas simuladas pendientes."
+    rows = []
+    for b in pend:
+        ps = [l["p"] for l in b["legs"] if l.get("p") is not None]
+        prod = math.prod(ps) if ps else None
+        weak = min((l for l in b["legs"] if l.get("p") is not None), key=lambda l: l["p"], default=None)
+        rows.append((prod or 0, b, weak, len(ps)))
+    rows.sort(key=lambda r: -r[0])
+    out = ["📊 <b>Tus simuladas pendientes</b> (de más a menos posibilidades)"]
+    for i, (prod, b, weak, n) in enumerate(rows, 1):
+        out.append(f"{i}. {A.esc(b['titulo'])} · {len(b['legs'])} piernas" + (f" · cuota {b['odds']:.2f}" if b.get("odds") else ""))
+        if weak: out.append(f"   La más floja: {A.esc((weak.get('jugador') + ': ') if weak.get('jugador') else '')}{A.esc(weak['txt'])} ({weak['p']:.0%})")
+    out.append("ℹ️ Con piernas del mismo partido el orden es orientativo: van ligadas. Menos piernas y más seguras = más posibilidades.")
+    return "\n".join(out)
