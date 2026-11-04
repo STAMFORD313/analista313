@@ -1,42 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 04/11/2026 15:52 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## ZORO vs cappo — 04/11 · 16:00
-
-👀 candidata · 🎮⚽ FC 27 · International A 2x6 · **Gana ZORO** @ **1.11** (Unibet) · prob 94% vs casas 79% · ventaja +4%
-
-- ❌ Valor: ventaja +4% (mín. 9% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 55.916 partidos)  
-Goles esperados: ZORO 8.04 · cappo 3.04  
-Ganador: ZORO 94% · empate 3% · cappo 3%  
-Total: más de 11.5 goles 41% · menos 59%  
-Hándicap ZORO: −1.5 84% · −2.5 75%  
-🔎 **Claves**  
-• Forma: ZORO ❌✅✅✅✅ | cappo ❌❌❌❌❌  
-• Partidos: ZORO 724 | cappo 248  
-• Liga: International A 2x6  
-• Unibet: 1 1.11 · X 8.50 · 2 8.00 (sin margen 79%/10%/11%) · ventaja +4%. Sin stake hasta demostrar ROI con estas cuotas.  
-
-## lzrn vs Maki — 04/11 · 16:04
-
-👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana Maki** @ **1.78** (Unibet) · prob 60% vs casas 49% · ventaja +6%
-
-- ❌ Valor: ventaja +6% (mín. 10% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 55.916 partidos)  
-Goles esperados: lzrn 3.53 · Maki 4.58  
-Ganador: lzrn 26% · empate 15% · Maki 60%  
-Total: más de 8.5 goles 42% · menos 58%  
-Hándicap Maki: −1.5 43% · −2.5 30%  
-🔎 **Claves**  
-• Forma: lzrn ✅➖❌❌➖ | Maki ❌✅❌✅✅  
-• Partidos: lzrn 743 | Maki 835  
-• Liga: Champions League B  
-• Unibet: 1 2.55 · X 5.40 · 2 1.78 (sin margen 34%/16%/49%) · ventaja +6%. Sin stake hasta demostrar ROI con estas cuotas.  
+Actualizado 04/11/2026 16:09 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Totti vs Maslja — 04/11 · 16:10
 
@@ -55,4 +19,58 @@ Hándicap Maslja: −1.5 29% · −2.5 17%
 • Partidos: Totti 859 | Maslja 820  
 • Liga: Serie A  
 • Unibet: 1 2.00 · X 4.50 · 2 2.35 (sin margen 44%/19%/37%) · ventaja +4%. Sin stake hasta demostrar ROI con estas cuotas.  
+
+## w1nkos vs Totti — 04/11 · 16:22
+
+👀 candidata · 🎮⚽ FC 27 · Serie A · **Gana w1nkos** @ **1.93** (Unibet) · prob 58% vs casas 45% · ventaja +12%
+
+- ✅ Valor: ventaja +12% (mín. 11% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 55.936 partidos)  
+Goles esperados: w1nkos 3.74 · Totti 2.80  
+Ganador: w1nkos 58% · empate 17% · Totti 25%  
+Total: más de 6.5 goles 48% · menos 52%  
+Hándicap w1nkos: −1.5 41% · −2.5 26%  
+🔎 **Claves**  
+• Forma: w1nkos ❌✅❌✅➖ | Totti ✅❌❌❌❌  
+• Partidos: w1nkos 1095 | Totti 859  
+• Liga: Serie A  
+• Unibet: 1 1.93 · X 4.40 · 2 2.50 (sin margen 45%/20%/35%) · ventaja +12%. Sin stake hasta demostrar ROI con estas cuotas.  
+
+## llulle vs lzrn — 04/11 · 16:28
+
+👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana llulle** @ **2.75** (Unibet) · prob 42% vs casas 32% · ventaja +15%
+
+- ✅ Valor: ventaja +15% (mín. 12% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 55.936 partidos)  
+Goles esperados: llulle 2.90 · lzrn 2.77  
+Ganador: llulle 42% · empate 20% · lzrn 38%  
+Total: más de 5.5 goles 50% · menos 50%  
+Hándicap llulle: −1.5 28% · −2.5 15%  
+🔎 **Claves**  
+• Forma: llulle ❌❌✅❌✅ | lzrn ✅➖❌❌➖  
+• Partidos: llulle 817 | lzrn 743  
+• Liga: Champions League B  
+• Unibet: 1 2.75 · X 4.00 · 2 1.87 (sin margen 32%/22%/47%) · ventaja +15%. Sin stake hasta demostrar ROI con estas cuotas.  
+
+## Totti vs borees — 04/11 · 16:34
+
+👀 candidata · 🎮⚽ FC 27 · Serie A · **Gana borees** @ **2.38** (Unibet) · prob 47% vs casas 36% · ventaja +12%
+
+- ✅ Valor: ventaja +12% (mín. 11% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 55.936 partidos)  
+Goles esperados: Totti 2.67 · borees 3.08  
+Ganador: Totti 33% · empate 19% · borees 47%  
+Total: más de 5.5 goles 51% · menos 49%  
+Hándicap borees: −1.5 32% · −2.5 19%  
+🔎 **Claves**  
+• Forma: Totti ✅❌❌❌❌ | borees ✅➖✅✅❌  
+• Partidos: Totti 859 | borees 924  
+• Liga: Serie A  
+• Unibet: 1 2.02 · X 4.25 · 2 2.38 (sin margen 43%/20%/37%) · ventaja +12%. Sin stake hasta demostrar ROI con estas cuotas.  
 
