@@ -884,6 +884,7 @@ assert _qh["1"] > _qh["2"] and abs(sum(_qh.values()) - 1) < 1e-9 and esoccer.h2h
 print("ok cara a cara FC 27")
 # chat de Telegram sin IA (chat.py): lectura de la frase, búsqueda de nombres y opinión
 import chat as _CH
+_CH.LAST_FILE = A_.DATA / "_test_ultima.json"; _CH.LAST_FILE.unlink(missing_ok=True)  # los tests no tocan la del bot
 assert _CH.parse_leg("Mbappé más de 1,5 tiros a puerta") == {"stat": "tiros_puerta", "line": 1.5, "over": True}
 assert _CH.parse_leg("Curry 4+ triples") == {"stat": "triples", "line": 3.5, "over": True}
 assert _CH.parse_leg("menos de 9.5 córners")["over"] is False and _CH.parse_leg("Yamal marca")["line"] == 0.5
@@ -1059,7 +1060,7 @@ _SM.FILE = A_.DATA / "_test_simuladas.json"; _SM.FILE.unlink(missing_ok=True); _
 _SM.push = lambda msg: None
 _CH._CTX.clear()
 try:
-    assert "Primero pídeme" in _CH.answer("simula la apuesta")
+    _CH.LAST_FILE.unlink(missing_ok=True); assert "Primero pídeme" in _CH.answer("simula la apuesta")
     _CH.remember("Combinada cuota 9.0", [dict(code="ucl", start="2026-11-04T20:00:00+00:00", home="Slavia Prague", away="Arsenal",
                                                txt="Más de 4.5 tarjetas", odds=3.0, p=0.4),
                                           dict(code="ucl", start="2026-11-04T20:00:00+00:00", home="FC Porto", away="Napoli",
@@ -1169,3 +1170,13 @@ assert _SM.judge({"jugador": "Kylian Mbappe", "txt": "Más de 2.5 tiros a puerta
 assert _SM.judge({"jugador": "Kylian Mbappé", "txt": "Más de 1.5 faltas recibidas"}, _gp)[0] is True
 assert _SM.judge({"jugador": "Jude Bellingham", "txt": "Más de 0.5 goles"}, _gp)[0] == "nula"
 print("ok simuladas de jugador")
+_CH.LAST_FILE.unlink(missing_ok=True)
+# boleto con una pierna sin datos: se guarda igual para simular (sin la que no se puede liquidar) y sobrevive a un reinicio
+_CH._DB.update(db=_D, t=1e18); _CH._CTX.clear(); _MDl3 = _MD.legs; _MD.legs = lambda hours=48, sports=None: []
+try:
+    _r = _CH.analyze_slip({"piernas": [{"partido": "Real Madrid - Barcelona", "tipo": "ganador", "equipo": "Real Madrid", "cuota": 2.1, "texto": "Real Madrid"},
+                                       {"partido": "Real Madrid - Barcelona", "tipo": "otro", "texto": "Bellingham marca de chilena", "cuota": 9.0}]})
+    assert "❓" in _r and "sin las 1 piernas" in _r, _r
+    _CH._CTX.clear(); assert _CH.last_combo()["titulo"] == "Tu boleto"  # leída de disco tras «reinicio»
+finally: _MD.legs = _MDl3; _CH._DB.clear(); _CH._DB["t"] = 0; _CH._CTX.clear(); _CH.LAST_FILE.unlink(missing_ok=True)
+print("ok boleto simulable con piernas sin datos")

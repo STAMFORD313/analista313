@@ -563,9 +563,21 @@ def _combo_text(title, legs, p, grouped=False):
     return "\n".join(lines)
 
 
+LAST_FILE = A.DATA / "chat_ultima.json"  # local (sin subir): la última combinada sobrevive a un reinicio del lector
+
+
 def remember(title, legs, odds, p):
     """Última combinada mostrada, para «simúlala» (simulaciones.record)."""
     _CTX["ultima"] = {"titulo": title, "legs": legs, "odds": round(odds, 2) if odds else (round(1 / p, 2) if p else None), "p": p}
+    try: LAST_FILE.write_text(json.dumps(_CTX["ultima"], ensure_ascii=False, default=str))
+    except OSError: pass
+
+
+def last_combo():
+    if not _CTX.get("ultima") and LAST_FILE.exists():
+        try: _CTX["ultima"] = json.loads(LAST_FILE.read_text())
+        except ValueError: pass
+    return _CTX.get("ultima")
 
 
 SIM_RX = r"\bsimul|\bapunta|\bregistra|\bguardala|\bjuegala|\bjugamos|\bmetele|\bvamos con (esa|ella)"
@@ -851,7 +863,7 @@ def slip_leg(leg, D):
             sim = (dict(code=None, start=None, home=D[ks[0]]["name"], away=D[ks[1]]["name"], p=p, odds=leg.get("cuota"),
                         txt=word + ("" if len(keys) == 2 or player else f" de {D[keys[0]]['name']}"),
                         **({"jugador": D[keys[0]]["name"]} if player else {}))
-                   if p is not None and len(ks) == 2 and (player or pl["stat"] in ("corners", "tarjetas", "goles")) else None)
+                   if len(ks) == 2 and (player or pl["stat"] in ("corners", "tarjetas", "goles")) else None)  # simulable aunque falte p
             return p, t, sim
     if tipo in ("ganador", "empate", "doble_oportunidad"):
         import multideporte
@@ -908,9 +920,11 @@ def analyze_slip(slip, D=None):
             out.append("ℹ️ Todas son del mismo partido: van algo ligadas y el cálculo conjunto es aproximado.")
         if total: out.append(verdict(p, total))
     elif known: out.append(f"Puedo evaluar {len(known)} de {len(ps)} piernas; el resto no lo cubren mis datos.")
-    if all(s is not None for s in sims) and sims:
-        remember("Tu boleto", sims, total, float(np.prod(known)) if known else None)
-        out.append("\n❓ ¿Te la simulo con 1 € y te aviso cuando acaben?"); _CTX["oferta"] = "simula la última combinada"
+    ok_sims = [s for s in sims if s is not None]
+    if ok_sims:
+        remember("Tu boleto", ok_sims, total, float(np.prod(known)) if known else None)
+        extra = f" (sin las {len(sims) - len(ok_sims)} piernas que no puedo liquidar)" if len(ok_sims) < len(sims) else ""
+        out.append(f"\n❓ ¿Te la simulo con 1 € y te aviso cuando acaben{extra}?"); _CTX["oferta"] = "simula la última combinada"
     return "\n".join(out)
 
 
@@ -1067,9 +1081,9 @@ def _answer(t, short=True):
         import simulaciones
         return simulaciones.summary()
     if re.search(SIM_RX, q):
-        if not _CTX.get("ultima"): return "Primero pídeme una combinada y luego te la simulo."
+        if not last_combo(): return "Primero pídeme una combinada (o mándame la foto del boleto) y luego te la simulo."
         import simulaciones
-        b = simulaciones.record(_CTX.pop("ultima"))
+        b = simulaciones.record(_CTX.pop("ultima")); LAST_FILE.unlink(missing_ok=True)
         return ("✅ <b>Apuntada</b> (simulada, 1 €): " + A.esc(b["titulo"]) + f" · {len(b['legs'])} piernas"
                 + (f" · cuota {b['odds']:.2f}" if b.get("odds") else "")
                 + ".\nCuando acaben los partidos te digo si hemos ganado o perdido, pierna a pierna y por qué.")
