@@ -162,7 +162,9 @@ def nba_props(home, away, start):
                 for x in get("listView/basketball/nba/all/all/matches").get("events", []) if (e := x.get("event"))]
     ev = next((e for e in _nba if abs((e["start"] - pd.Timestamp(start)).total_seconds()) < 86400
                and A.find_team(home, [e["home"]]) and A.find_team(away, [e["away"]])), None)
-    if not ev: return []
+    if not ev:
+        print(f"Unibet NBA: {len(_nba)} partidos, sin emparejar {home} vs {away}", [f"{e['home']} vs {e['away']}" for e in _nba[:3]])
+        return []
     out = []
     for b in get(f"betoffer/event/{ev['id']}").get("betOffers", []):
         lab = OPTA.sub("", b["criterion"].get("englishLabel", ""))
