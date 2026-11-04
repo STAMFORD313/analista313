@@ -1,3 +1,5 @@
+import os as _os0
+for _k in ("GEMINI_API_KEY", "ANTHROPIC_API_KEY", "GH_MODELS_TOKEN"): _os0.environ.pop(_k, None)  # el chat de los tests nunca llama a una IA (en Actions hay clave)
 import analyst
 analyst.TG = analyst.CHAT = analyst.GEMINI = None  # los tests nunca envían a Telegram ni llaman a la IA
 analyst.W, analyst.MARKET_EDGE = dict.fromkeys(analyst.W, 0.5), dict.fromkeys(analyst.W, 0.05)  # lógica con la mezcla clásica
