@@ -1431,3 +1431,11 @@ try:
 finally:
     _SL.find_game = _fg0; _SL.FILE.unlink(missing_ok=True); _SL.FILE = _f0; _SL._MEM.clear(); _SL._MEM.update(_mem0)
 print("ok un solo aviso por boleto repetido")
+
+_mem0 = dict(_SL._MEM); _f0 = _SL.FILE; _SL.FILE = A.DATA / "_test_sim_cal.json"; _SL._MEM.clear()
+try:
+    _SL.FILE.write_text(json.dumps([{"id": str(i), "creada": "2026-11-01", "titulo": "x", "odds": 4.0, "stake": 1, "p": 0.25, "rev": 1,
+                                     "estado": "ganada" if i == 0 else "perdida", "legs": []} for i in range(4)]))
+    _s = _SL.summary(); assert "esperaba acertar 1.00 de 4 y ha acertado 1" in _s and "ROI +0%" in _s and "pocas" in _s, _s
+finally: _SL.FILE.unlink(missing_ok=True); _SL.FILE = _f0; _SL._MEM.clear(); _SL._MEM.update(_mem0)
+print("ok calibración de las simuladas")

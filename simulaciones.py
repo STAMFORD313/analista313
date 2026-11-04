@@ -312,6 +312,15 @@ def summary():
     done = [b for b in bets if b["estado"] in ("ganada", "perdida")]
     bal = sum((b["stake"] * (b["odds"] or 0) - b["stake"]) if b["estado"] == "ganada" else -b["stake"] for b in done)
     lines = [f"🧾 <b>Tus simuladas</b> · {len(done)} terminadas, {sum(b['estado'] == 'ganada' for b in done)} ganadas · balance {bal:+.2f} €"]
+    allb, seen = [], set()
+    for b in load().values():  # el mismo boleto apuntado varias veces cuenta una
+        k = tuple(sorted((l.get("home"), l.get("away"), l.get("txt"), l.get("jugador")) for l in b["legs"]))
+        if b["estado"] in ("ganada", "perdida") and b.get("p") and (k not in seen or not b["legs"]): seen.add(k); allb.append(b)
+    if allb:  # ¿el bot se fía de sí mismo lo justo? aciertos esperados (suma de probabilidades) frente a reales
+        exp, real = sum(b["p"] for b in allb), sum(b["estado"] == "ganada" for b in allb)
+        stake = sum(b["stake"] for b in allb); ret = sum(b["stake"] * (b["odds"] or 0) for b in allb if b["estado"] == "ganada")
+        lines.append(f"🎯 El bot esperaba acertar {exp:.2f} de {len(allb)} y ha acertado {real} · ROI {ret / stake - 1:+.0%}"
+                     + (" (aún pocas para sacar conclusiones)" if len(allb) < 30 else ""))
     for b in bets:
         n_ok = sum(l.get("ok") is True for l in b["legs"])
         icon = {"ganada": "✅", "perdida": "❌", "nula": "➖"}.get(b["estado"], "⏳")

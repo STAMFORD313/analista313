@@ -177,3 +177,4 @@
 - 2026-11-04: liquidación en vivo verificada en producción (AEK 2-3 Madrid: 4 simuladas cerradas al acabar). Boletos repetidos: un solo aviso de resultado.
 - 2026-11-04: arreglado analista en rojo: el test de combinada larga usaba cuotas reales de Pinnacle en Actions (por la noche hay partidos) → ahora sin red.
 - 2026-11-04: tests herméticos: sin red (requests bloqueado) y sin datos reales en la prueba de simuladas → analista volvía a fallar en Actions cuando los partidos de prueba reales ya se habían jugado.
+- 2026-11-04: resumen de simuladas con calibración: aciertos esperados por el bot (suma de prob.) frente a reales y ROI, sin contar boletos repetidos.
