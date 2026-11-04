@@ -1,6 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 04/11/2026 01:57 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 04/11/2026 02:09 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## kkikus vs Simaponika — 04/11 · 02:15
 
@@ -19,6 +19,24 @@ Hándicap Simaponika: −1.5 43% · −2.5 27%
 • Partidos: kkikus 837 | Simaponika 997  
 • Liga: Champions League B  
 • Unibet: 1 3.00 · X 5.80 · 2 1.58 (sin margen 29%/15%/56%) · ventaja +2%. Sin stake hasta demostrar ROI con estas cuotas.  
+
+## Kavviro vs tizzy — 04/11 · 02:15
+
+👀 candidata · 🎮⚽ FC 27 · Champions League B · **Empate** @ **4.80** (Unibet) · prob 20% vs casas 18% · ventaja -2%
+
+- ❌ Valor: ventaja -2% (mín. 8% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 55.244 partidos)  
+Goles esperados: Kavviro 2.77 · tizzy 2.61  
+Ganador: Kavviro 43% · empate 20% · tizzy 37%  
+Total: más de 5.5 goles 45% · menos 55%  
+Hándicap Kavviro: −1.5 28% · −2.5 15%  
+🔎 **Claves**  
+• Forma: Kavviro ✅✅❌✅✅ | tizzy ➖✅✅✅✅  
+• Partidos: Kavviro 711 | tizzy 303  
+• Liga: Champions League B  
+• Unibet: 1 1.94 · X 4.80 · 2 2.38 (sin margen 45%/18%/37%) · ventaja -2%. Sin stake hasta demostrar ROI con estas cuotas.  
 
 ## Kavviro vs kkikus — 04/11 · 02:27
 
@@ -55,6 +73,42 @@ Hándicap tizzy: −1.5 66% · −2.5 50%
 • Partidos: tizzy 294 | kkikus 837  
 • Liga: Champions League B  
 • Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
+
+## Simaponika vs Kavviro — 04/11 · 02:39
+
+👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana Kavviro** @ **1.36** (Unibet) · prob 68% vs casas 64% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 55.244 partidos)  
+Goles esperados: Simaponika 1.83 · Kavviro 3.31  
+Ganador: Simaponika 15% · empate 17% · Kavviro 68%  
+Total: más de 5.5 goles 41% · menos 59%  
+Hándicap Kavviro: −1.5 49% · −2.5 31%  
+🔎 **Claves**  
+• Forma: Simaponika ➖❌❌❌❌ | Kavviro ✅✅❌✅✅  
+• Partidos: Simaponika 1006 | Kavviro 711  
+• Liga: Champions League B  
+• Unibet: 1 4.35 · X 5.20 · 2 1.36 (sin margen 20%/17%/64%) · ventaja -8%. Sin stake hasta demostrar ROI con estas cuotas.  
+
+## RossFCDK vs Kray — 04/11 · 02:40
+
+👀 candidata · 🎮⚽ FC 27 · Champions League A · **Gana Kray** @ **1.62** (Unibet) · prob 66% vs casas 54% · ventaja +6%
+
+- ❌ Valor: ventaja +6% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 55.244 partidos)  
+Goles esperados: RossFCDK 2.30 · Kray 3.70  
+Ganador: RossFCDK 18% · empate 16% · Kray 66%  
+Total: más de 5.5 goles 55% · menos 45%  
+Hándicap Kray: −1.5 48% · −2.5 32%  
+🔎 **Claves**  
+• Forma: RossFCDK ➖❌❌❌➖ | Kray ❌✅✅❌➖  
+• Partidos: RossFCDK 459 | Kray 495  
+• Liga: Champions League A  
+• Unibet: 1 3.15 · X 4.90 · 2 1.62 (sin margen 28%/18%/54%) · ventaja +6%. Sin stake hasta demostrar ROI con estas cuotas.  
 
 ## Yerema vs Sheva — 04/11 · 02:49
 

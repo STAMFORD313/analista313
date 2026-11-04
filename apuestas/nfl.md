@@ -1,23 +1,6 @@
 # 🏈 NFL·NCAA · apuestas de valor
 
-Actualizado 04/11/2026 01:57 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Miami (OH) RedHawks vs Buffalo Bulls — 04/11 · 02:00
-
-👀 candidata · 🏈 NCAA Football · **Gana Buffalo Bulls** @ **3.05** (DraftKings) · prob 36% vs casas 32% · ventaja +9%
-
-- ✅ Valor: ventaja +9% (mín. 8% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo con 9.455 partidos y bajas)  
-Gana Miami (OH) RedHawks 60% · Gana Buffalo Bulls 40%  
-Casas: Miami (OH) RedHawks 69% · Buffalo Bulls 31%  
-Hándicap M-OH -6.5 · Total puntos 44.5  
-🔎 **Claves**  
-• Forma: Miami (OH) RedHawks ✅❌✅✅✅ | Buffalo Bulls ✅❌✅✅✅  
-• H2H: 9 desde 2016: 6-3  
-• Bajas: Miami (OH) RedHawks: sin bajas; Buffalo Bulls: sin bajas  
-• Favorito de las casas: Miami (OH) RedHawks @ 1.40  
+Actualizado 04/11/2026 02:09 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Massachusetts Minutemen vs Ball State Cardinals — 05/11 · 01:00
 
