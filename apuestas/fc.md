@@ -1,60 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 04/11/2026 16:51 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## llulle vs Animal — 04/11 · 16:52
-
-👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana Animal** @ **2.04** (Unibet) · prob 54% vs casas 43% · ventaja +9%
-
-- ❌ Valor: ventaja +9% (mín. 11% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 55.936 partidos)  
-Goles esperados: llulle 2.92 · Animal 3.61  
-Ganador: llulle 29% · empate 17% · Animal 54%  
-Total: más de 6.5 goles 48% · menos 52%  
-Hándicap Animal: −1.5 37% · −2.5 23%  
-🔎 **Claves**  
-• Forma: llulle ❌❌✅❌✅ | Animal ✅✅✅➖✅  
-• Partidos: llulle 817 | Animal 768  
-• Liga: Champions League B  
-• Unibet: 1 2.55 · X 3.80 · 2 2.04 (sin margen 34%/23%/43%) · ventaja +9%. Sin stake hasta demostrar ROI con estas cuotas.  
-
-## lzrn vs chevare — 04/11 · 16:52
-
-👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana chevare** @ **1.92** (Unibet) · prob 56% vs casas 45% · ventaja +7%
-
-- ❌ Valor: ventaja +7% (mín. 10% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 55.936 partidos)  
-Goles esperados: lzrn 3.06 · chevare 3.84  
-Ganador: lzrn 28% · empate 17% · chevare 56%  
-Total: más de 6.5 goles 53% · menos 47%  
-Hándicap chevare: −1.5 39% · −2.5 25%  
-🔎 **Claves**  
-• Forma: lzrn ✅➖❌❌➖ | chevare ❌➖✅✅❌  
-• Partidos: lzrn 743 | chevare 528  
-• Liga: Champions League B  
-• Unibet: 1 2.50 · X 4.40 · 2 1.92 (sin margen 35%/20%/45%) · ventaja +7%. Sin stake hasta demostrar ROI con estas cuotas.  
-
-## ZORO vs Lufy — 04/11 · 16:54
-
-👀 candidata · 🎮⚽ FC 27 · International A 2x6 · **Gana ZORO** @ **1.29** (Unibet) · prob 82% vs casas 67% · ventaja +5%
-
-- ❌ Valor: ventaja +5% (mín. 10% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 55.936 partidos)  
-Goles esperados: ZORO 6.99 · Lufy 4.04  
-Ganador: ZORO 82% · empate 8% · Lufy 11%  
-Total: más de 11.5 goles 42% · menos 58%  
-Hándicap ZORO: −1.5 66% · −2.5 54%  
-🔎 **Claves**  
-• Forma: ZORO ❌✅✅✅✅ | Lufy ❌➖✅✅✅  
-• Partidos: ZORO 724 | Lufy 646  
-• Liga: International A 2x6  
-• Unibet: 1 1.29 · X 5.80 · 2 4.75 (sin margen 67%/15%/18%) · ventaja +5%. Sin stake hasta demostrar ROI con estas cuotas.  
+Actualizado 04/11/2026 17:02 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Maki vs lzrn — 04/11 · 17:04
 
@@ -146,6 +92,42 @@ Hándicap llulle: −1.5 28% · −2.5 15%
 • Liga: Champions League B  
 • Unibet: 1 1.83 · X 4.10 · 2 2.80 (sin margen 48%/21%/31%) · ventaja +17%. Sin stake hasta demostrar ROI con estas cuotas.  
 
+## Maki vs Animal — 04/11 · 17:28
+
+👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana Maki** @ **2.40** (Unibet) · prob 43% vs casas 36% · ventaja +2%
+
+- ❌ Valor: ventaja +2% (mín. 9% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 55.956 partidos)  
+Goles esperados: Maki 4.62 · Animal 4.60  
+Ganador: Maki 43% · empate 15% · Animal 42%  
+Total: más de 9.5 goles 44% · menos 56%  
+Hándicap Maki: −1.5 31% · −2.5 20%  
+🔎 **Claves**  
+• Forma: Maki ❌✅❌✅✅ | Animal ✅✅✅➖✅  
+• Partidos: Maki 835 | Animal 768  
+• Liga: Champions League B  
+• Unibet: 1 2.40 · X 4.60 · 2 1.95 (sin margen 36%/19%/45%) · ventaja +2%. Sin stake hasta demostrar ROI con estas cuotas.  
+
+## Totti vs w1nkos — 04/11 · 17:32
+
+👀 candidata · 🎮⚽ FC 27 · World Cup B · **Gana w1nkos** @ **1.91** (Unibet) · prob 58% vs casas 46% · ventaja +11%
+
+- ✅ Valor: ventaja +11% (mín. 11% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 55.956 partidos)  
+Goles esperados: Totti 2.85 · w1nkos 3.80  
+Ganador: Totti 25% · empate 17% · w1nkos 58%  
+Total: más de 6.5 goles 50% · menos 50%  
+Hándicap w1nkos: −1.5 41% · −2.5 27%  
+🔎 **Claves**  
+• Forma: Totti ✅❌❌❌❌ | w1nkos ❌✅❌✅➖  
+• Partidos: Totti 859 | w1nkos 1095  
+• Liga: World Cup B  
+• Unibet: 1 2.50 · X 4.40 · 2 1.91 (sin margen 35%/20%/45%) · ventaja +11%. Sin stake hasta demostrar ROI con estas cuotas.  
+
 ## pikalicaaa vs Mani — 04/11 · 17:35
 
 👀 candidata · 🎮⚽ FC 27 · Champions League A · **Gana Mani** @ **1.82** (Unibet) · prob 58% vs casas 48% · ventaja +6%
@@ -163,4 +145,22 @@ Hándicap Mani: −1.5 40% · −2.5 25%
 • Partidos: pikalicaaa 543 | Mani 744  
 • Liga: Champions League A  
 • Unibet: 1 2.55 · X 5.00 · 2 1.82 (sin margen 34%/18%/48%) · ventaja +6%. Sin stake hasta demostrar ROI con estas cuotas.  
+
+## borees vs Totti — 04/11 · 17:44
+
+👀 candidata · 🎮⚽ FC 27 · World Cup B · **Gana borees** @ **2.45** (Unibet) · prob 47% vs casas 36% · ventaja +16%
+
+- ✅ Valor: ventaja +16% (mín. 12% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 55.956 partidos)  
+Goles esperados: borees 3.13 · Totti 2.72  
+Ganador: borees 47% · empate 19% · Totti 34%  
+Total: más de 5.5 goles 53% · menos 47%  
+Hándicap borees: −1.5 32% · −2.5 19%  
+🔎 **Claves**  
+• Forma: borees ✅➖✅✅❌ | Totti ✅❌❌❌❌  
+• Partidos: borees 924 | Totti 859  
+• Liga: World Cup B  
+• Unibet: 1 2.45 · X 4.10 · 2 2.02 (sin margen 36%/21%/43%) · ventaja +16%. Sin stake hasta demostrar ROI con estas cuotas.  
 
