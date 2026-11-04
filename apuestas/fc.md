@@ -1,6 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 04/11/2026 09:38 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 04/11/2026 09:42 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## dm1trena vs Jekunam — 04/11 · 09:46
 

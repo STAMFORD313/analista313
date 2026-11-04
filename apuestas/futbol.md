@@ -1,6 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 04/11/2026 09:38 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 04/11/2026 09:42 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Kortrijk vs KV Mechelen — 04/11 · 20:30
 
