@@ -22,7 +22,8 @@ conversación previa para resolver referencias («sí», «ese partido», «y de
 - «<jugador o equipo> más de <línea> <estadística>» (estadísticas: goles, tiros, tiros a puerta, córners, tarjetas, faltas, \
 fueras de juego, puntos, rebotes, asistencias, triples); con cuota: «… a 1.90»; total de un partido: «<local> <visitante> más de 9.5 córners»
 - varias piernas en una combinada: unirlas con « y » («Mbappé más de 0.5 tiros a puerta y Madrid Barcelona más de 7.5 córners @2.1»)
-- «combinada <local> <visitante>» (combinada segura de un partido) · «combinada del día» (varios partidos, para subir la cuota con seguridad)
+- «combinada <local> <visitante>» (combinada segura de un partido) · «combinada del día» (lo más seguro de cada partido de las \
+próximas 48 h, para subir la cuota con seguridad) · «combinada del día a cuota 2.5» (si dice a qué cuota quiere llegar; «dos con cinco» = 2.5)
 - «ayuda»
 
 Si el último mensaje responde a una pregunta del bot («sí», «vale», «venga», «ese»), devuelve la orden que el bot ofrecía. \
@@ -128,6 +129,7 @@ estén en él. No uses lo que sepas tú de fútbol. Si el informe no responde a 
 - Mantén la recomendación del bot (🟢/🟡/🔴, «me gusta», «no la cogería», «casi una moneda») sin suavizarla ni exagerarla.
 - Si es una combinada o una lista de apuestas, escribe cada pierna en su propia línea con «•» para que se pueda apostar.
 - Si el informe termina con una pregunta (❓), termina tú con esa misma pregunta, con tus palabras.
+- Habla como si los datos fueran tuyos: nunca digas «informe», «el bot dice» ni «he revisado». Sin muletillas como «jefe».
 - Texto plano, sin Markdown ni HTML. Breve: lo que diría una persona en un chat."""
 
 

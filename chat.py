@@ -421,7 +421,7 @@ WIN_RX = r"\bgana|ganador|ganaria|quien gana|favorito|1x2|pronostico|como (?:va 
 _CTX = {}
 
 
-COMBO_RX = r"combinad|combi\b|parlay|apuesta segura|segura"
+COMBO_RX = r"combinad|combi\b|parlay|apuesta segura|segura|popurri|lo mas seguro"
 
 
 COMBO_FLOOR, COMBO_MAX = 0.60, 8  # «lo máximo de forma segura»: se añaden piernas mientras todas juntas sigan ≥ 60 %
@@ -452,11 +452,14 @@ def safe_legs(kh, ka, D):
     return legs
 
 
-def pick_legs(cands, per_match=None):
-    """De [(partido, texto, p)], las más seguras primero mientras el total siga ≥ COMBO_FLOOR (máx. COMBO_MAX piernas)."""
+def pick_legs(cands, per_match=None, target=None):
+    """De [(partido, texto, p)], las más seguras primero mientras el total siga ≥ COMBO_FLOOR (máx. COMBO_MAX piernas).
+    Con `target` (cuota buscada, p. ej. 2.5): se añaden piernas seguras hasta que la cuota justa llega a esa cifra."""
     out, p, n = [], 1.0, {}
     for m, txt, q in sorted(cands, key=lambda x: -x[2]):
-        if len(out) >= COMBO_MAX or p * q < COMBO_FLOOR: continue
+        if target:
+            if 1 / p >= target or len(out) >= 15: break
+        elif len(out) >= COMBO_MAX or p * q < COMBO_FLOOR: continue
         if per_match and n.get(m, 0) >= per_match: continue
         out.append((m, txt, q)); p *= q; n[m] = n.get(m, 0) + 1
     return out, p
@@ -483,26 +486,50 @@ def safe_combo(kh, ka, D):
     return _combo_text(f"🧩 <b>Combinada segura · {A.esc(h['name'])} – {A.esc(a['name'])}</b>", legs, p) + extra
 
 
-def day_combo(D, hours=48):
-    """Combinada segura con los partidos de las próximas 48 h de las ligas principales: hasta 2 piernas por partido
-    (las de partidos distintos son independientes: así sube la cuota sin juntar piernas que se mueven a la vez)."""
+def upcoming(codes, hours=48):
+    """{liga: [(fecha, local, visitante, competición)]} de las próximas `hours` horas, pidiendo a ESPN día a día y en
+    paralelo (la consulta de un rango de fechas no devolvía partidos)."""
     import pandas as pd
-    now = pd.Timestamp.now(tz="UTC"); cands, when = [], {}
-    for code in DAY_LEAGUES:
-        try: evs = scoreboard("futbol", code, days=2)
-        except Exception as ex: print("combinada del día", code, repr(ex)); continue
+    from concurrent.futures import ThreadPoolExecutor
+    now = pd.Timestamp.now(tz="UTC")
+    days = [f"{d:%Y%m%d}" for d in pd.date_range(now.normalize(), now + pd.Timedelta(hours=hours), freq="D")]
+    jobs = [(c, d) for c in codes for d in days]
+    def get(job):
+        c, d = job
+        try: return c, _events(f"soccer/{ES.LEAGUES.get(c, c)}", d)
+        except Exception as ex: print("calendario", c, d, repr(ex)); return c, []
+    out = {}
+    with ThreadPoolExecutor(8) as ex:
+        for c, evs in ex.map(get, jobs):
+            out.setdefault(c, []).extend(m for m in evs if now < m[0] < now + pd.Timedelta(hours=hours))
+    return out
+
+
+def day_combo(D, hours=48, target=None):
+    """Combinada segura «popurrí» con los partidos de las próximas 48 h de las ligas principales: la pierna más segura de
+    cada partido (las de partidos distintos son independientes), hasta COMBO_FLOOR o hasta la cuota `target`."""
+    import pandas as pd
+    cands, when, seen = [], {}, 0
+    for code, evs in upcoming(DAY_LEAGUES, hours).items():
+        seen += len(evs)
         for t, home, away, _ in evs:
-            if not (now < t < now + pd.Timedelta(hours=hours)): continue
             kh, ka = tkey("futbol", home, D), tkey("futbol", away, D)
             if not (kh and ka): continue
             loc = t.tz_convert(TZ); m = f"{A.esc(home)} – {A.esc(away)} · {DIAS[loc.dayofweek]} {loc:%H:%M}"
             if m in when: continue  # el mismo partido listado en dos competiciones
             when[m] = t
             cands += [(m, txt, q) for txt, q in safe_legs(kh, ka, D)]
-    legs, p = pick_legs(cands, per_match=2)
-    if len(legs) < 2: return "No encuentro partidos con piernas seguras en las próximas 48 h."
+    print(f"combinada del día: {seen} partidos en ESPN, {len(when)} con datos, {len(cands)} piernas seguras")
+    legs, p = pick_legs(cands, per_match=1, target=target)
+    if (target and 1 / p < target) or len(legs) < 2:  # no llega con una por partido: hasta 2 (siguen siendo ≥ 85 %)
+        legs, p = pick_legs(cands, per_match=2, target=target)
+    if len(legs) < 2:
+        return (f"No encuentro partidos con piernas seguras en las próximas {hours} h"
+                + (f" (ESPN me da {seen} partidos, pero de {len(when)} tengo datos)." if seen else " (ESPN no me devuelve partidos)."))
     legs.sort(key=lambda x: (when[x[0]], -x[2]))
-    return _combo_text("🧩 <b>Combinada segura del día</b>", legs, p, grouped=True)
+    title = "🧩 <b>Combinada segura del día</b>" + (f" · buscando cuota {target:g}" if target else "")
+    note = (f"\n⚠️ Con piernas seguras solo llego a cuota justa {1 / p:.2f}." if target and 1 / p < target else "")
+    return _combo_text(title, legs, p, grouped=True) + note
 
 
 def winner(kh, ka, D, odds=None, pick=None):
@@ -657,7 +684,10 @@ def _answer(t, short=True):
         elif ks:
             _CTX.pop("partido", None); next_match(ks[0], D); kh, ka = _CTX.get("partido") or (None, None)
         else: kh, ka = _CTX.get("partido") or (None, None)
-        if re.search(r"del dia|de hoy|de manana|varios partidos|sub\w* la cuota|anad|mas piernas|mas cuota|lo maximo", q) or not (kh and ka and kh in D and ka in D): return day_combo(D)
+        m_t = re.search(r"(?:cuota|a)\s*(?:de\s*)?(\d+(?:[.,]\d+)?)", q) or re.search(r"@\s*(\d+(?:[.,]\d+)?)", q)
+        target = _f(m_t.group(1)) if m_t and 1.2 <= _f(m_t.group(1)) <= 50 else None
+        if target or re.search(r"del dia|de hoy|de manana|varios partidos|popurri|sub\w* la cuota|anad|mas piernas|mas cuota|lo maximo", q) \
+                or not (kh and ka and kh in D and ka in D): return day_combo(D, target=target)
         _CTX["partido"] = (kh, ka)
         if D[kh]["sport"] != "futbol": return "La combinada segura de momento es solo de fútbol."
         h, a = D[kh]["name"], D[ka]["name"]
