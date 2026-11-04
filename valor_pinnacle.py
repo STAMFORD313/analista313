@@ -33,13 +33,22 @@ def candidates(now=None, uni=None, min_edge=MIN_EDGE, max_odds=MAX_ODDS):
     now = now or pd.Timestamp.now(tz="UTC")
     pin = fair_rows(now)
     if not len(pin): return []
-    uni = kambi.football_1x2_best() if uni is None else uni  # la mejor cuota entre Unibet, Paf y LeoVegas (misma plataforma)
+    if uni is None:  # la mejor cuota entre Unibet, Paf, LeoVegas (Kambi) y Smarkets (bolsa, tras su comisión)
+        uni = kambi.football_1x2_best()
+        try:
+            import smarkets
+            uni += smarkets.football_1x2(HOURS)
+        except Exception as e: print("Smarkets", repr(e)[:120])
     out, matched, edges = [], 0, []
     for r in pin.itertuples():
         t = pd.Timestamp(r.start)
-        u = next((e for e in uni if abs((e["start"] - t).total_seconds()) < 2 * 3600
-                  and A.find_team(r.home, [e["home"]]) and A.find_team(r.away, [e["away"]])), None)
-        if not u: continue
+        us = [e for e in uni if abs((e["start"] - t).total_seconds()) < 2 * 3600
+              and A.find_team(r.home, [e["home"]]) and A.find_team(r.away, [e["away"]])]
+        if not us: continue
+        u = {"odds": {}, "books": {}}  # la mejor cuota de cada resultado entre todas las casas que tienen el partido
+        for e in us:
+            for mm, o in e["odds"].items():
+                if o > u["odds"].get(mm, 0): u["odds"][mm], u["books"][mm] = o, (e.get("books") or {}).get(mm, e.get("book", "?"))
         matched += 1
         inv = {"H": 1 / r.o_home, "D": 1 / r.o_draw, "A": 1 / r.o_away}; tot = sum(inv.values())
         edges += [u["odds"][m] * inv[m] / tot - 1 for m in "HDA"]
@@ -55,7 +64,7 @@ def candidates(now=None, uni=None, min_edge=MIN_EDGE, max_odds=MAX_ODDS):
                                  f"(ventaja {edge:+.1%})", "Backtest 2015-2026 (cuota ≤ 2.5, > 3 %): ROI +11 % ± 3 %, CLV +5 %."],
                         "context": f"{r.home} vs {r.away} ({r.league}). Estrategia de valor: {book} {o:.2f} frente a Pinnacle justo {1 / p:.2f}."})
     if edges: print(f"valor Pinnacle: {len(pin)} partidos de Pinnacle, {len(uni)} de las casas Kambi, {matched} emparejados; "
-                    f"ventaja de Unibet: mediana {sorted(edges)[len(edges) // 2]:+.1%}, máxima {max(edges):+.1%}")
+                    f"ventaja de la mejor casa: mediana {sorted(edges)[len(edges) // 2]:+.1%}, máxima {max(edges):+.1%}")
     else: print(f"valor Pinnacle: {len(pin)} partidos de Pinnacle, {len(uni)} de Unibet, 0 emparejados")
     return out
 
