@@ -17,6 +17,7 @@ jobs:
           python -c "
           import simulaciones as S, pandas as pd
           now = pd.Timestamp.now(tz='UTC')
+          print('nba', S._scoreboard('basketball/nba', now, sport='nba')[:3]); print('nhl', S._scoreboard('hockey/nhl', now, sport='nhl')[:2])
           for slug, code in (('uefa.champions', 'ucl'), ('uefa.europa', 'uel'), ('eng.2', 'E1')):
               b = S._scoreboard(slug, now); x = next((x for x in b if x[1] in ('in', 'post')), None); print(slug, len(b), x)
               if x:

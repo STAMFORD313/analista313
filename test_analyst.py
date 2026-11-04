@@ -1328,3 +1328,10 @@ try:
 finally:
     _SL.FILE.unlink(missing_ok=True); _SL.FILE = _f0; _SL._MEM.clear(); _SL._MEM.update(_mem0)
 print("ok apuestas en directo")
+
+_b = {("nba", "20261104"): [("1", "in", "Q3 5:12", "Detroit Pistons", "Philadelphia 76ers", 70, 64)]}
+_r = _SL.live_other({"src": "espn:nba", "home": "Detroit Pistons", "away": "Philadelphia 76ers", "side": "H", "start": "2026-11-05T00:00:00+00:00"}, _b)
+assert _r[0] == "🟢" and "70-64" in _r[1] and "Q3" in _r[1], _r
+_b[("nba", "20261104")] = [("1", "post", "Final", "Detroit Pistons", "Philadelphia 76ers", 101, 108)]
+assert _SL.live_other({"src": "espn:nba", "home": "Detroit Pistons", "away": "Philadelphia 76ers", "side": "H", "start": "2026-11-05T00:00:00+00:00"}, _b)[0] == "❌"
+print("ok directo NBA/NHL")

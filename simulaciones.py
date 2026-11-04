@@ -167,10 +167,13 @@ def card(b):
 
 
 # ── en directo ──────────────────────────────────────────────────────────────────────────────────────────────────
-def _scoreboard(slug, day):
+def _scoreboard(slug, day, sport="soccer"):
     """[(evento ESPN, estado 'pre'|'in'|'post', reloj, local, visitante, goles local, goles visitante)] de un día."""
     out = []
-    for e in ES.get(f"{slug}/scoreboard", dates=f"{day:%Y%m%d}").get("events", []):
+    data = ES.get(f"{slug}/scoreboard", dates=f"{day:%Y%m%d}") if sport == "soccer" else \
+        __import__("requests").get(f"https://site.api.espn.com/apis/site/v2/sports/{slug}/scoreboard",
+                                   params={"dates": f"{day:%Y%m%d}"}, headers=A.UA, timeout=30).json()
+    for e in data.get("events", []):
         c = (e.get("competitions") or [{}])[0]
         st = (c.get("status") or e.get("status") or {}).get("type") or {}
         t = {x.get("homeAway"): x for x in c.get("competitors", [])}
@@ -194,6 +197,26 @@ def live_game(leg, boards):
                 try: det = ES.compact(ES.get(f"{ES.LEAGUES[code]}/summary", event=ev))
                 except Exception: det = {}
                 return {**det, "home": h, "away": a, "hs": hs, "as": as_, "estado": state, "reloj": clock}
+    return None
+
+
+def live_other(leg, boards):
+    """NBA/NHL/NFL/MLB (piernas «src: espn:<liga>»): (icono, texto) con el marcador de ESPN en juego, o None."""
+    import multisport
+    lg = leg["src"].split(":")[1]
+    if lg not in multisport.SPORTS: return None
+    slug, t = multisport.SPORTS[lg][0], pd.Timestamp(leg["start"])
+    t = t.tz_localize("UTC") if t.tzinfo is None else t
+    for day in dict.fromkeys(x.tz_localize(None).normalize() for x in (t.tz_convert("America/New_York"), t.tz_convert("UTC"))):  # ESPN fecha en hora de EE. UU.
+        key = (lg, f"{day:%Y%m%d}")
+        if key not in boards:
+            try: boards[key] = _scoreboard(slug, day, sport=lg)
+            except Exception as e: print("directo", key, repr(e)[:80]); boards[key] = []
+        for ev, state, clock, h, a, hs, as_ in boards[key]:
+            if h == leg["home"] and a == leg["away"] and state in ("in", "post"):
+                ok = hs > as_ if leg["side"] == "H" else as_ > hs if leg["side"] == "A" else hs == as_
+                if state == "post": return ("✅" if ok else "❌"), f"terminado: acabó {hs:g}-{as_:g}"
+                return ("🟢" if ok else "🔴"), f"va {hs:g}-{as_:g}" + (f" ({clock})" if clock else "")
     return None
 
 
@@ -238,7 +261,10 @@ def live(now=None, boards=None):
                 out.append(f"{icon} {name} · {A.esc(l.get('por', ''))}"); continue
             if not l.get("start") or pd.Timestamp(l["start"]) > now:
                 out.append(f"🕒 {name} · aún no ha empezado"); continue
-            g = None if l.get("src") else live_game(l, boards)
+            if l.get("src"):
+                r = live_other(l, boards) if l["src"].startswith("espn:") else None
+                out.append(f"{r[0]} {name} · {A.esc(r[1])}" if r else f"⏳ {name} · sin directo"); continue
+            g = live_game(l, boards)
             if not g: out.append(f"⏳ {name} · sin directo"); continue
             icon, why = live_leg(l, g)
             out.append(f"{icon} {name} · {A.esc(why)}" + (f" ({A.esc(g['reloj'])})" if g["estado"] == "in" and g["reloj"] else ""))
