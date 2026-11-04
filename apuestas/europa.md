@@ -1,6 +1,6 @@
 # 🏆 Champions·Europa · apuestas de valor
 
-Actualizado 04/11/2026 16:34 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 04/11/2026 16:40 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## AEK Athens vs Real Madrid — 04/11 · 18:45
 
