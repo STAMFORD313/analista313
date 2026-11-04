@@ -1213,7 +1213,10 @@
   "fc|2362719",
   "fc|2361670",
   "fc|2361673",
-  "fc|2361668"
+  "fc|2361668",
+  "fc|2362349",
+  "fc|2361990",
+  "fc|2361991"
  ],
  "signals": [
   {
@@ -16091,7 +16094,8 @@
    "version": "a82fe38",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "anunciada": true
   },
   {
    "market": "H",
@@ -16146,7 +16150,8 @@
    "version": "0dd12d9",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "anunciada": true
   },
   {
    "market": "A",
@@ -16214,7 +16219,112 @@
    "version": "0dd12d9",
    "bajas": "",
    "considered": true,
+   "placed": false,
+   "anunciada": true
+  },
+  {
+   "market": "H",
+   "pick": "why",
+   "odds": 4.7,
+   "book": "Unibet",
+   "implied": 0.184,
+   "edge": 0.48,
+   "sin_stake": true,
+   "p": 0.315,
+   "key": "fc|2362349",
+   "match": "why vs v1nniePuh",
+   "start": "2026-11-04T08:20:00+00:00",
+   "league": "🎮⚽ FC 27 · Champions League A 2x6",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 55.502 partidos)",
+    "Goles esperados: why 3.58 · v1nniePuh 4.26",
+    "Ganador: why 31% · empate 16% · v1nniePuh 53%",
+    "Total: más de 7.5 goles 52% · menos 48%",
+    "Hándicap v1nniePuh: −1.5 38% · −2.5 25%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: why ➖❌❌✅❌ | v1nniePuh ❌➖❌➖✅",
+    "• Partidos: why 525 | v1nniePuh 576",
+    "• Liga: Champions League A 2x6",
+    "• Unibet: 1 4.70 · X 5.80 · 2 1.30 (sin margen 18%/15%/67%) · ventaja +48%. Sin stake hasta demostrar ROI con estas cuotas."
+   ],
+   "context": "EA FC Esoccer Battle why vs v1nniePuh (Champions League A 2x6): goles esperados 3.58-4.26, 1X2 31%/16%/53%. Sin cuotas de casa.",
+   "captured": "2026-11-04T07:42",
+   "version": "3057b5c",
+   "bajas": "",
+   "considered": true,
    "placed": false
+  },
+  {
+   "market": "A",
+   "pick": "Tesla",
+   "odds": 1.86,
+   "book": "Unibet",
+   "implied": 0.47,
+   "edge": 0.103,
+   "sin_stake": true,
+   "p": 0.593,
+   "key": "fc|2361990",
+   "match": "Maxa vs Tesla",
+   "start": "2026-11-04T07:52:00+00:00",
+   "league": "🎮⚽ FC 27 · Ligue 1",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 55.502 partidos)",
+    "Goles esperados: Maxa 2.65 · Tesla 3.70",
+    "Ganador: Maxa 24% · empate 17% · Tesla 59%",
+    "Total: más de 6.5 goles 45% · menos 55%",
+    "Hándicap Tesla: −1.5 42% · −2.5 27%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Maxa ➖✅❌❌➖ | Tesla ✅✅✅✅➖",
+    "• Partidos: Maxa 805 | Tesla 852",
+    "• Liga: Ligue 1",
+    "• Unibet: 1 2.80 · X 4.00 · 2 1.86 (sin margen 31%/22%/47%) · ventaja +10%. Sin stake hasta demostrar ROI con estas cuotas."
+   ],
+   "context": "EA FC Esoccer Battle Maxa vs Tesla (Ligue 1): goles esperados 2.65-3.70, 1X2 24%/17%/59%. Sin cuotas de casa.",
+   "captured": "2026-11-04T07:42",
+   "version": "3057b5c",
+   "bajas": "",
+   "considered": true,
+   "placed": false,
+   "anunciada": true
+  },
+  {
+   "market": "H",
+   "pick": "Taz",
+   "odds": 2.4,
+   "book": "Unibet",
+   "implied": 0.362,
+   "edge": 0.1,
+   "sin_stake": true,
+   "p": 0.458,
+   "key": "fc|2361991",
+   "match": "Taz vs Lumix",
+   "start": "2026-11-04T07:52:00+00:00",
+   "league": "🎮⚽ FC 27 · Ligue 1",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 55.502 partidos)",
+    "Goles esperados: Taz 2.90 · Lumix 2.58",
+    "Ganador: Taz 46% · empate 20% · Lumix 34%",
+    "Total: más de 5.5 goles 47% · menos 53%",
+    "Hándicap Taz: −1.5 30% · −2.5 17%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Taz ➖❌➖➖✅ | Lumix ❌➖✅✅➖",
+    "• Partidos: Taz 837 | Lumix 865",
+    "• Liga: Ligue 1",
+    "• Unibet: 1 2.40 · X 4.00 · 2 2.07 (sin margen 36%/22%/42%) · ventaja +10%. Sin stake hasta demostrar ROI con estas cuotas."
+   ],
+   "context": "EA FC Esoccer Battle Taz vs Lumix (Ligue 1): goles esperados 2.90-2.58, 1X2 46%/20%/34%. Sin cuotas de casa.",
+   "captured": "2026-11-04T07:42",
+   "version": "3057b5c",
+   "bajas": "",
+   "considered": true,
+   "placed": false,
+   "anunciada": true
   }
  ],
  "bank": {
@@ -16631,7 +16741,7 @@
  },
  "scoreboard_id": 156,
  "scoreboard_text": "📊 <b>MARCADOR DEL BOT</b>\n━━━━━━━━━━━━━━━\n🟩 Ganadas: <b>8</b> (35 %)\n🟥 Perdidas: <b>15</b> (65 %)\n⏳ En juego: 4\n\nÚltimas 23:\n🟥🟥🟥🟩🟥🟩🟥🟥🟥🟥🟥🟥🟥🟥🟩🟥🟥🟩🟩🟩🟩🟩🟥\n━━━━━━━━━━━━━━━\n💵 Beneficio -15.04 $ · ROI -32.4 %\n📐 CLV medio +2.5 % (cuota cogida vs cierre)\n💰 Banca: <b>84.96 €</b> (-15.04 € desde 100 €) · libre 79.50 €{\"inline_keyboard\": [[{\"text\": \"\\ud83d\\udcc8 Ver historial completo y fallos\", \"url\": \"https://github.com/STAMFORD313/analista313/blob/main/ESTADISTICAS.md\"}], [{\"text\": \"\\u26bd F\\u00fatbol\", \"callback_data\": \"dep:futbol\"}, {\"text\": \"\\ud83c\\udfc0 NBA\\u00b7NCAA\", \"callback_data\": \"dep:nba\"}, {\"text\": \"\\ud83c\\udfc8 NFL\\u00b7NCAA\", \"callback_data\": \"dep:nfl\"}], [{\"text\": \"\\ud83c\\udfc6 Champions\\u00b7Europa\", \"callback_data\": \"dep:europa\"}, {\"text\": \"\\ud83c\\udfd2 NHL\", \"callback_data\": \"dep:nhl\"}, {\"text\": \"\\u26be MLB\", \"callback_data\": \"dep:mlb\"}], [{\"text\": \"\\ud83e\\udd4a UFC\", \"callback_data\": \"dep:ufc\"}, {\"text\": \"\\ud83c\\udfbe Tenis\", \"callback_data\": \"dep:tenis\"}, {\"text\": \"\\ud83c\\udfae CS2\", \"callback_data\": \"dep:cs2\"}], [{\"text\": \"\\ud83d\\udc09 Dota 2\", \"callback_data\": \"dep:dota2\"}, {\"text\": \"\\ud83e\\uddd9 LoL\", \"callback_data\": \"dep:lol\"}, {\"text\": \"\\ud83d\\udd2b R6 Siege\", \"callback_data\": \"dep:r6\"}], [{\"text\": \"\\ud83d\\udcf1 MLBB\", \"callback_data\": \"dep:mlbb\"}, {\"text\": \"\\ud83c\\udfae\\u26bd FC 27\", \"callback_data\": \"dep:fc\"}]]}",
- "fc_sent": "2026-11-04T03:40:55.889314+00:00",
+ "fc_sent": "2026-11-04T07:42:36.758476+00:00",
  "sgp": {
   "E1|2026-11-03|QPR|Burnley": {
    "match": "QPR vs Burnley",
