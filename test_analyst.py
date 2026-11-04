@@ -802,7 +802,7 @@ print("ok props NBA de Unibet")
 
 # props NBA: liquidación de Unibet y modelo vs casa (nba_props.settle / report)
 assert nba_props.stat_of("Points scored by the player - Including Overtime") == "puntos" and nba_props.stat_of("3-point field goals made") == "triples"
-assert nba_props.stat_of("Points + Rebounds by the player") is None and nba_props.norm("James, LeBron") == "lebron james"
+assert nba_props.stat_of("Points + Rebounds by the player") == "puntos+rebotes" and nba_props.norm("James, LeBron") == "lebron james"
 _tr, _pa, _lg = nba_props.T.rows, nba_props.params, nba_props.LOG
 _rr = pd.DataFrame([{"date": pd.Timestamp(f"2026-10-{i:02d}T00:30:00Z"), "game": str(i), "pid": "3", "name": "LeBron James", "team": "LAL",
                      "min": 35.0, "puntos": 25.0 + i, "rebotes": 8.0, "asistencias": 8.0, "triples": 2.0} for i in range(1, 15)])
@@ -869,6 +869,7 @@ finally:
     else: _fp.write_bytes(_fpb)
     kambi.nba_props = _np3
 print("ok pasada de props NBA")
-assert nba_props.stat_of("Points & Rebounds by the player - Including Overtime") is None and nba_props.stat_of("6+ Rebounds By The Player") is None
+assert nba_props.stat_of("Points & Rebounds by the player - Including Overtime") == "puntos+rebotes" and nba_props.stat_of("6+ Rebounds By The Player") is None
+assert nba_props.stat_of("Points, rebounds & assists by the player - Including Overtime") == "puntos+rebotes+asistencias"
 assert nba_props.stat_of("Point Spread - Including Overtime") is None and nba_props.stat_of("Rebounds by the player - Including Overtime") == "rebotes"
 print("ok mercados NBA reales")

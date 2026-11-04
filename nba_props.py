@@ -67,10 +67,22 @@ STAT_RX = [("triples", re.compile(r"3-?point|three", re.I)), ("rebotes", re.comp
 
 
 def stat_of(label):
+    """Estadística (o combinación «puntos+rebotes»…) de un mercado más/menos de jugador de Unibet; None si no se modela."""
     l = label.lower()
-    if any(x in l for x in ("+", " and ", "&", ",", "double", "spread", "moneyline", "total")) or re.match(r"\d+\+", l):
-        return None  # combinados (pts & reb…), dobles-dobles, «6+ rebotes» y mercados de equipo: sin modelo aún
+    if any(x in l for x in ("double", "spread", "moneyline", "total")) or re.match(r"\d+\+", l): return None
+    if any(x in l for x in ("&", ",", " and ", "+")):  # combinados: puntos & rebotes, puntos, rebotes & asistencias…
+        parts = [s for s, rx in (("puntos", re.compile(r"point", re.I)), ("rebotes", re.compile(r"rebound", re.I)),
+                                 ("asistencias", re.compile(r"assist", re.I))) if rx.search(label)]
+        return "+".join(parts) if len(parts) >= 2 else None
     return next((s for s, rx in STAT_RX if rx.search(label)), None)
+
+
+def mu_r(x, stat, P):
+    """Media y r de la binomial negativa de una estadística o combinación (independencia: suma de medias y de
+    varianzas extra mu²/r)."""
+    mus = [(getattr(x, f"r_{s}") * x.e_min, P["stats"][s]["r"]) for s in stat.split("+")]
+    mu = sum(m for m, _ in mus); extra = sum(m * m / r for m, r in mus)
+    return mu, (mu * mu / extra if extra > 0 else 1e6)
 
 
 def norm(s):
@@ -100,12 +112,12 @@ def settle():
         day = pd.Timestamp(start).tz_convert("UTC")
         x = next((idx.get((dd.strftime("%Y-%m-%d"), norm(jug))) for dd in (day, day - pd.Timedelta(days=1)) if idx.get((dd.strftime("%Y-%m-%d"), norm(jug)))), None)
         if x is None: continue  # aún sin jugar o no jugó (la casa anula)
-        mu, r = getattr(x, f"r_{stat}") * x.e_min, P["stats"][stat]["r"]
+        mu, r = mu_r(x, stat, P)
         p_over = float(1 - stats.nbinom.cdf(math.floor(line), r, r / (r + max(mu, 1e-6))))
         o = dict(zip(g.tipo, g.cuota))
         oo, ou = o.get("OT_OVER"), o.get("OT_UNDER")
         p_casa = (1 / oo) / (1 / oo + 1 / ou) if oo and ou else (1 / oo if oo else None)
-        val = getattr(x, stat)
+        val = sum(getattr(x, s_) for s_ in stat.split("+"))
         out.append({"fecha": str(start)[:10], "jugador": jug, "stat": stat, "linea": line, "cuota_mas": oo, "cuota_menos": ou,
                     "p_casa_mas": round(p_casa, 4) if p_casa else None, "p_modelo_mas": round(p_over, 4), "esperado": round(mu, 2),
                     "valor": val, "mas": int(val > line)})
