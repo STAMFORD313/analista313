@@ -14,16 +14,6 @@ jobs:
         with: {python-version: "3.12"}
       - run: pip install -r requirements.txt
       - run: |
-          python - <<'PY'
-          import requests
-          for path, ev in (("basketball/nba", "401810723"), ("basketball/nba", "401585000"), ("hockey/nhl", "401773000"), ("basketball/nba", "400899000")):
-              try:
-                  d = requests.get(f"https://site.api.espn.com/apis/site/v2/sports/{path}/summary", params={"event": ev}, timeout=30).json()
-                  pc = d.get("pickcenter") or []; od = d.get("odds") or []
-                  print(path, ev, (d.get("header") or {}).get("season"), "pickcenter", len(pc), [ (p.get("provider", {}).get("name"), p.get("details"), p.get("overUnder"), (p.get("homeTeamOdds") or {}).get("moneyLine"), (p.get("awayTeamOdds") or {}).get("moneyLine")) for p in pc][:3], "odds", len(od))
-              except Exception as e: print(path, ev, repr(e)[:200])
-          PY
-      - run: |
           python -c "
           import simulaciones as S, pandas as pd
           now = pd.Timestamp.now(tz='UTC')

@@ -38,3 +38,4 @@ Informe al usuario: una línea por mejora con 🟢 (conseguido) o 🔴 (no mejor
 - [ ] Ambos marcan: Pinnacle no lo ofrece ni hay histórico de cuotas → sin forma de validarlo, en espera
 - [ ] Vigilar el CLV real de «valor contra Pinnacle» (⚽💎) con ≥ 50 apuestas; si CLV < 0, apagarla
 - [ ] Añadir al laboratorio: córners/tarjetas contra Pinnacle (si sus cuotas se guardan), NBA/NHL con odds_*.csv + cierre Pinnacle
+  - Bloqueado (nov 2026): ESPN no guarda cuotas de partidos pasados (pickcenter vacío); se usarán las de data/espn/odds_nba|nhl.csv cuando haya ≥300 partidos
