@@ -1,21 +1,21 @@
 # 📱 MLBB · apuestas de valor
 
-Actualizado 04/11/2026 11:19 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 04/11/2026 12:26 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## Bigetron by Vitality vs EVOS — 04/11 · 12:00
+## Natus Vincere vs Alter Ego — 05/11 · 07:00
 
-👀 candidata · 📱 MLBB · MPL Indonesia Season 18 · **Gana Bigetron by Vitality** @ **1.46** (Thunderpick) · prob 65% vs casas 64% · ventaja -5%
+👀 candidata · 📱 MLBB · MPL Indonesia Season 18 · **Gana Alter Ego** @ **2.07** (Thunderpick) · prob 46% vs casas 45% · ventaja -4%
 
-- ❌ Valor: ventaja -5% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «📱 favorito» sin pérdidas demostradas
+- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «📱 no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Elo por mapa, 2.473 partidos)  
-Mapa: Bigetron by Vitality 59% · Serie BO5: Bigetron by Vitality 66% - 34% EVOS  
-Casas: Bigetron by Vitality 64% · EVOS 36%  
+📊 **Escenarios** (Elo por mapa, 2.474 partidos)  
+Mapa: Natus Vincere 51% · Serie BO5: Natus Vincere 52% - 48% Alter Ego  
+Casas: Natus Vincere 55% · Alter Ego 45%  
 🔎 **Claves**  
-• Elo: Bigetron by Vitality 1721 (109 series) | EVOS 1648 (89 series)  
-• Forma: Bigetron by Vitality ✅❌✅✅✅ | EVOS ✅✅❌❌✅  
-• H2H: 12: 9-3  
+• Elo: Natus Vincere 1730 (65 series) | Alter Ego 1720 (105 series)  
+• Forma: Natus Vincere ❌✅✅✅❌ | Alter Ego ❌✅✅❌✅  
+• H2H: 9: 2-7  
 • Torneo: MPL Indonesia Season 18 (nivel A)  
 • Cambios de plantilla: ninguno  
 

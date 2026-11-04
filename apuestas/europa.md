@@ -1,6 +1,6 @@
 # 🏆 Champions·Europa · apuestas de valor
 
-Actualizado 04/11/2026 11:19 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 04/11/2026 12:26 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Stade Rennais vs Olympiacos — 04/11 · 16:30
 
