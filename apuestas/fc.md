@@ -1,78 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 04/11/2026 14:39 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Edwardson vs DaVa — 04/11 · 14:40
-
-👀 candidata · 🎮⚽ FC 27 · LaLiga · **Gana DaVa** @ **1.61** (Unibet) · prob 63% vs casas 54% · ventaja +2%
-
-- ❌ Valor: ventaja +2% (mín. 9% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 55.856 partidos)  
-Goles esperados: Edwardson 1.72 · DaVa 2.82  
-Ganador: Edwardson 18% · empate 19% · DaVa 63%  
-Total: más de 4.5 goles 48% · menos 52%  
-Hándicap DaVa: −1.5 42% · −2.5 25%  
-🔎 **Claves**  
-• Forma: Edwardson ➖✅❌✅➖ | DaVa ✅❌➖✅➖  
-• Partidos: Edwardson 1153 | DaVa 1116  
-• Liga: LaLiga  
-• Unibet: 1 3.45 · X 4.35 · 2 1.61 (sin margen 25%/20%/54%) · ventaja +2%. Sin stake hasta demostrar ROI con estas cuotas.  
-
-## Lumix vs Ganger_29 — 04/11 · 14:46
-
-👀 candidata · 🎮⚽ FC 27 · FA Cup · **Gana Lumix** @ **2.23** (Unibet) · prob 53% vs casas 39% · ventaja +18%
-
-- ✅ Valor: ventaja +18% (mín. 13% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 55.832 partidos)  
-Goles esperados: Lumix 2.83 · Ganger_29 2.19  
-Ganador: Lumix 53% · empate 20% · Ganger_29 27%  
-Total: más de 5.5 goles 39% · menos 61%  
-Hándicap Lumix: −1.5 34% · −2.5 20%  
-🔎 **Claves**  
-• Forma: Lumix ❌❌✅✅❌ | Ganger_29 ❌✅➖❌➖  
-• Partidos: Lumix 881 | Ganger_29 728  
-• Liga: FA Cup  
-• Unibet: 1 2.23 · X 3.40 · 2 2.43 (sin margen 39%/25%/36%) · ventaja +18%. Sin stake hasta demostrar ROI con estas cuotas.  
-
-## Lufy vs cappo — 04/11 · 14:48
-
-👀 candidata · 🎮⚽ FC 27 · International A 2x6 · **Gana Lufy** @ **1.55** (Unibet) · prob 72% vs casas 57% · ventaja +12%
-
-- ✅ Valor: ventaja +12% (mín. 11% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 55.832 partidos)  
-Goles esperados: Lufy 6.04 · cappo 3.96  
-Ganador: Lufy 72% · empate 11% · cappo 17%  
-Total: más de 9.5 goles 54% · menos 46%  
-Hándicap Lufy: −1.5 57% · −2.5 44%  
-🔎 **Claves**  
-• Forma: Lufy ❌➖✅✅✅ | cappo ❌❌❌❌❌  
-• Partidos: Lufy 646 | cappo 248  
-• Liga: International A 2x6  
-• Unibet: 1 1.55 · X 4.80 · 2 3.55 (sin margen 57%/18%/25%) · ventaja +12%. Sin stake hasta demostrar ROI con estas cuotas.  
-
-## DaVa vs MeLToSik — 04/11 · 14:52
-
-👀 candidata · 🎮⚽ FC 27 · LaLiga · **Gana DaVa** @ **1.66** (Unibet) · prob 64% vs casas 53% · ventaja +6%
-
-- ❌ Valor: ventaja +6% (mín. 10% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 55.842 partidos)  
-Goles esperados: DaVa 2.89 · MeLToSik 1.77  
-Ganador: DaVa 64% · empate 19% · MeLToSik 18%  
-Total: más de 4.5 goles 50% · menos 50%  
-Hándicap DaVa: −1.5 42% · −2.5 25%  
-🔎 **Claves**  
-• Forma: DaVa ✅❌➖✅➖ | MeLToSik ❌✅➖❌❌  
-• Partidos: DaVa 1116 | MeLToSik 1053  
-• Liga: LaLiga  
-• Unibet: 1 1.66 · X 3.50 · 2 3.90 (sin margen 53%/25%/22%) · ventaja +6%. Sin stake hasta demostrar ROI con estas cuotas.  
+Actualizado 04/11/2026 14:55 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Ganger_29 vs Taz — 04/11 · 14:58
 
@@ -181,4 +109,58 @@ Hándicap Maslja: −1.5 29% · −2.5 17%
 • Partidos: Maslja 820 | Totti 859  
 • Liga: Serie A  
 • Unibet: 1 2.48 · X 4.50 · 2 1.93 (sin margen 35%/19%/45%) · ventaja +9%. Sin stake hasta demostrar ROI con estas cuotas.  
+
+## Totti vs w1nkos — 04/11 · 15:22
+
+👀 candidata · 🎮⚽ FC 27 · Serie A · **Gana w1nkos** @ **2.08** (Unibet) · prob 58% vs casas 42% · ventaja +20%
+
+- ✅ Valor: ventaja +20% (mín. 13% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 55.856 partidos)  
+Goles esperados: Totti 2.80 · w1nkos 3.74  
+Ganador: Totti 25% · empate 17% · w1nkos 58%  
+Total: más de 6.5 goles 48% · menos 52%  
+Hándicap w1nkos: −1.5 41% · −2.5 26%  
+🔎 **Claves**  
+• Forma: Totti ✅❌❌❌❌ | w1nkos ❌✅❌✅➖  
+• Partidos: Totti 859 | w1nkos 1095  
+• Liga: Serie A  
+• Unibet: 1 2.30 · X 4.30 · 2 2.08 (sin margen 38%/20%/42%) · ventaja +20%. Sin stake hasta demostrar ROI con estas cuotas.  
+
+## Lufy vs ZORO — 04/11 · 15:24
+
+👀 candidata · 🎮⚽ FC 27 · International A 2x6 · **Gana ZORO** @ **1.33** (Unibet) · prob 82% vs casas 65% · ventaja +9%
+
+- ❌ Valor: ventaja +9% (mín. 11% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 55.856 partidos)  
+Goles esperados: Lufy 4.04 · ZORO 6.99  
+Ganador: Lufy 10% · empate 8% · ZORO 82%  
+Total: más de 11.5 goles 42% · menos 58%  
+Hándicap ZORO: −1.5 66% · −2.5 54%  
+🔎 **Claves**  
+• Forma: Lufy ❌➖✅✅✅ | ZORO ❌✅✅✅✅  
+• Partidos: Lufy 646 | ZORO 724  
+• Liga: International A 2x6  
+• Unibet: 1 4.40 · X 5.75 · 2 1.33 (sin margen 20%/15%/65%) · ventaja +9%. Sin stake hasta demostrar ROI con estas cuotas.  
+
+## pikalicaaa vs Mani — 04/11 · 15:25
+
+👀 candidata · 🎮⚽ FC 27 · Europa League · **Gana Mani** @ **1.88** (Unibet) · prob 59% vs casas 46% · ventaja +11%
+
+- ❌ Valor: ventaja +11% (mín. 11% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 55.856 partidos)  
+Goles esperados: pikalicaaa 2.41 · Mani 3.43  
+Ganador: pikalicaaa 23% · empate 18% · Mani 59%  
+Total: más de 5.5 goles 53% · menos 47%  
+Hándicap Mani: −1.5 41% · −2.5 26%  
+🔎 **Claves**  
+• Forma: pikalicaaa ➖✅❌❌❌ | Mani ❌✅❌✅✅  
+• Partidos: pikalicaaa 543 | Mani 744  
+• Liga: Europa League  
+• Unibet: 1 2.60 · X 4.40 · 2 1.88 (sin margen 34%/20%/47%) · ventaja +11%. Sin stake hasta demostrar ROI con estas cuotas.  
 
