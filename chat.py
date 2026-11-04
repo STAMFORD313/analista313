@@ -41,6 +41,7 @@ HELP = ("💬 Escríbeme, por ejemplo:\n• <i>estadísticas de Mbappé</i>\n•
         "• <i>Madrid Barcelona más de 9.5 córners</i> (total del partido)\n• <i>¿Cuál es el próximo rival del Almería?</i> · <i>último resultado del Betis</i>\n"
         "• <i>¿Quién gana?</i> (del último partido que te mostré) · <i>quién gana Girona Almería</i> · <i>gana Girona a 2.10</i>")
 _DB = {"t": 0}
+LEAGUE = {}  # liga → [(estadísticas del local, del visitante)] en orden (sin partidos sin estadísticas: ESPN los da a 0)
 # apodos de uso común → nombre de ESPN (solo si el nombre completo no está ya en la frase)
 ALIAS = {"madrid": "real madrid", "real": "real madrid", "barca": "barcelona", "atleti": "atletico madrid", "atletico": "atletico madrid",
          "inter": "internazionale", "milan": "ac milan", "psg": "paris saint germain", "united": "manchester united",
@@ -73,17 +74,18 @@ def _add(db, key, name, sport, kind, date, vals, against=None, team=None, league
 
 
 def build():
-    db = {}
+    db = {}; LEAGUE.clear()
     for code in ES.LEAGUES:
         for g in ES.load(code):
             ts = g.get("team_stats") or {}
             for sd, team, gf, ga in (("h", g["home"], g["hs"], g["as"]), ("a", g["away"], g["as"], g["hs"])):
                 o = "a" if sd == "h" else "h"
-                tv = lambda d: {"goles": None, "corners": d.get("wonCorners"), "tiros": d.get("totalShots"), "tiros_puerta": d.get("shotsOnTarget"),
+                tv = lambda d: {} if not (d.get("totalShots") or d.get("wonCorners") or d.get("foulsCommitted")) else {"goles": None, "corners": d.get("wonCorners"), "tiros": d.get("totalShots"), "tiros_puerta": d.get("shotsOnTarget"),
                                 "faltas": d.get("foulsCommitted"), "tarjetas": (d.get("yellowCards") or 0) + (d.get("redCards") or 0) if d else None,
                                 "fueras": d.get("offsides")}
                 f, a = tv(ts.get(sd) or {}), tv(ts.get(o) or {})
                 f["goles"], a["goles"] = gf, ga
+                if sd == "h": LEAGUE.setdefault(code, []).append((f, a))  # (local, visitante) para las medias de la liga
                 f["_rival"], f["_casa"], f["_liga"] = g["away"] if sd == "h" else g["home"], sd == "h", code
                 _add(db, f"futbol|t|{team}", team, "futbol", "equipo", g["date"], f, a, league=code)
             for p in g["players"]:
@@ -222,10 +224,48 @@ def stats_card(key, D=None):
     return "\n".join(l for l in lines if l)
 
 
+# ── totales de partido (fútbol): media de la liga × ataque y defensa de cada equipo (olvido 0.07, encogido con K=10 partidos)
+# y binomial negativa con r común. Medido (2.ª mitad, ~7.500 partidos ESPN limpios): córners ≈ media de la liga (8.5: −0.0004
+# ± 0.0014; el historial de los equipos casi no predice el total de córners), tarjetas −0.0058 ± 0.0018 en 4.5; calibrado
+# (córners ≥ 65 % → 69 % previsto, 70 % real; tarjetas 73 % → 73 %). Goles: el 1X2 de winner().
+ALPHA_T, K_T = 0.07, 10.0
+R_NB = {"corners": 20.0, "tarjetas": 40.0, "goles": 40.0}
+
+
+def _rate(e, stat, base, against=False):
+    x = w = 0.0
+    for g in e["games"]:
+        v = g[2 if against else 1].get(stat)
+        if v is None or v != v: continue
+        x, w = x * (1 - ALPHA_T) + v, w * (1 - ALPHA_T) + 1
+    return (x + K_T * base) / (w + K_T) / base if base > 0 else 1.0
+
+
+def match_model(kh, ka, D, stat):
+    """(media del local, media del visitante, r) del modelo anclado a la liga, o None (sin liga o sin datos)."""
+    h, a = D[kh], D[ka]
+    code = next((g[1].get("_liga") for g in reversed(h["games"]) if g[1].get("_liga")), None)
+    games = [x for x in LEAGUE.get(code, [])[-380:] if x[0].get(stat) is not None and x[1].get(stat) is not None]
+    if len(games) < 30: return None
+    Lh = sum(x[0][stat] for x in games) / len(games); La = sum(x[1][stat] for x in games) / len(games)
+    L = (Lh + La) / 2  # shortcut: ritmos de cada equipo relativos a la media de la liga sin separar casa/fuera (casa/fuera medido peor)
+    mh = Lh * _rate(h, stat, L) * _rate(a, stat, L, True)
+    ma = La * _rate(a, stat, L) * _rate(h, stat, L, True)
+    return mh, ma, R_NB.get(stat, 20.0)
+
+
+def nb_over(mu, r, line): return float(SS.nbinom.sf(math.floor(line), r, r / (r + mu)))
+
+
 def leg_prob(keys, leg, D):
     """(probabilidad, texto) de una pierna con 1 entidad (jugador/equipo) o 2 equipos (total del partido)."""
     es = [D[k] for k in keys]
     stat, line, over = leg["stat"], leg["line"], leg["over"]
+    mm = match_model(*keys, D, stat) if len(es) == 2 and all(e["kind"] == "equipo" and e["sport"] == "futbol" for e in es) else None
+    if mm:
+        p = nb_over(mm[0] + mm[1], mm[2], line); p = p if over else 1 - p
+        txt = f"{A.esc(es[0]['name'])} – {A.esc(es[1]['name'])} {'más' if over else 'menos'} de {line:g} {LABEL[stat]}: esperado {mm[0] + mm[1]:.1f} → <b>{p:.0%}</b>"
+        return p, txt + coin(p)
     if len(es) == 2 and all(e["kind"] == "equipo" for e in es):
         (a, b) = es; parts = [(series(a, stat), series(b, stat, True)), (series(b, stat), series(a, stat, True))]
         if any(len(u) < 5 or len(v) < 5 for u, v in parts): return None, f"pocos datos de {LABEL[stat]} de {A.esc(a['name'])} o {A.esc(b['name'])}"
@@ -274,6 +314,10 @@ def shrink(p, sport, kind, stat, line, D, total=False):
     b = 0.5 if total else base_rate(D, sport, kind, stat, line)
     lg = lambda q: math.log(min(max(q, 1e-4), 1 - 1e-4) / (1 - min(max(q, 1e-4), 1 - 1e-4)))
     return 1 / (1 + math.exp(-(lg(b) + c * (lg(p) - lg(b)))))
+
+
+def coin(p):
+    return " · 📉 casi una moneda: aquí no hay ventaja" if 0.42 < p < 0.58 else ""
 
 
 def verdict(p, odds):
@@ -385,6 +429,13 @@ def preview(home, away, D, sport):
     if kh not in D or ka not in D: return []
     out = []
     for stat in (("goles", "corners", "tarjetas") if sport == "futbol" else ("puntos",) if sport == "nba" else ("goles",)):
+        mm = match_model(kh, ka, D, stat) if sport == "futbol" and stat != "goles" else None
+        if mm:
+            tot = mm[0] + mm[1]
+            safe = max((l + 0.5 for l in range(0, 30) if nb_over(tot, mm[2], l + 0.5) >= 0.7), default=None)
+            out.append(f"• {LABEL[stat]}: {mm[0]:.1f} – {mm[1]:.1f} (total {tot:.1f})"
+                       + (f" · con 70 %: más de {safe:g}" if safe is not None else ""))
+            continue
         u = [(series(D[kh], stat), series(D[ka], stat, True)), (series(D[ka], stat), series(D[kh], stat, True))]
         if any(len(x) < 5 or len(y) < 5 for x, y in u): continue
         m = [(moments(x)[0] + moments(y)[0]) / 2 for x, y in u]

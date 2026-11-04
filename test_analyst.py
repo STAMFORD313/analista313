@@ -915,5 +915,12 @@ try:
     _r = _CH.answer("¿Cuál ganaría?"); assert "Barcelona – Real Madrid" in _r and "Favorito" in _r or "igualado" in _r, _r  # recuerda el partido
     _r = _CH.answer("gana Real Madrid a 9.0"); assert "🟢" in _r, _r
 finally: _CH.scoreboard = _sb; _CH._CTX.clear()
-_CH._DB.clear(); _CH._DB["t"] = 0; _CH._BASE.clear()
+for _x in _D["futbol|t|RM"]["games"]: _x[1]["_liga"] = "SP1"
+_CH.LEAGUE["SP1"] = [({"corners": 5.0}, {"corners": 4.0})] * 40
+_mm = _CH.match_model("futbol|t|RM", "futbol|t|B", _D, "corners")
+assert _mm and _mm[1] > 4.0 and 8.5 < _mm[0] + _mm[1] < 10.5, _mm  # el Barça (7 a favor) saca más que la media de visitante (4)
+_r = _CH.answer("Madrid Barcelona más de 9.5 córners"); assert "esperado" in _r, _r
+assert "moneda" in _CH.coin(0.5) and _CH.coin(0.7) == ""
+assert "70 %" in "\n".join(_CH.preview("Real Madrid", "Barcelona", {**_D, "futbol|t|Real Madrid": _D["futbol|t|RM"], "futbol|t|Barcelona": _D["futbol|t|B"]}, "futbol"))
+_CH.LEAGUE.clear(); _CH._DB.clear(); _CH._DB["t"] = 0; _CH._BASE.clear()
 print("ok chat de Telegram")
