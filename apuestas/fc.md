@@ -1,24 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 04/11/2026 10:35 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Loka vs kamito — 04/11 · 10:36
-
-👀 candidata · 🎮⚽ FC 27 · EFL Championship · **Gana Loka** @ **1.65** (Unibet) · prob 77% vs casas 53% · ventaja +27%
-
-- ✅ Valor: ventaja +27% (mín. 15% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 55.602 partidos)  
-Goles esperados: Loka 5.22 · kamito 2.93  
-Ganador: Loka 77% · empate 11% · kamito 12%  
-Total: más de 8.5 goles 43% · menos 57%  
-Hándicap Loka: −1.5 60% · −2.5 46%  
-🔎 **Claves**  
-• Forma: Loka ✅✅❌✅✅ | kamito ❌✅➖❌❌  
-• Partidos: Loka 1052 | kamito 392  
-• Liga: EFL Championship  
-• Unibet: 1 1.65 · X 5.60 · 2 2.85 (sin margen 53%/16%/31%) · ventaja +27%. Sin stake hasta demostrar ROI con estas cuotas.  
+Actualizado 04/11/2026 10:39 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## mko1919 vs Wboy — 04/11 · 10:43
 
@@ -171,7 +153,7 @@ Hándicap Tesla: −1.5 47% · −2.5 31%
 - ❌ Valor: ventaja +8% (mín. 10% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 55.602 partidos)  
+📊 **Escenarios** (Poisson por jugador, 55.622 partidos)  
 Goles esperados: Bomb1to 2.86 · Uncle 2.77  
 Ganador: Bomb1to 42% · empate 20% · Uncle 38%  
 Total: más de 5.5 goles 49% · menos 51%  
@@ -189,7 +171,7 @@ Hándicap Bomb1to: −1.5 27% · −2.5 15%
 - ✅ Valor: ventaja +12% (mín. 11% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 55.602 partidos)  
+📊 **Escenarios** (Poisson por jugador, 55.622 partidos)  
 Goles esperados: dm1trena 2.41 · MeLToSik 2.32  
 Ganador: dm1trena 41% · empate 22% · MeLToSik 37%  
 Total: más de 4.5 goles 51% · menos 49%  
@@ -199,4 +181,22 @@ Hándicap dm1trena: −1.5 25% · −2.5 13%
 • Partidos: dm1trena 981 | MeLToSik 1037  
 • Liga: Bundesliga  
 • Unibet: 1 2.00 · X 3.10 · 2 3.05 (sin margen 43%/28%/28%) · ventaja +12%. Sin stake hasta demostrar ROI con estas cuotas.  
+
+## Uncle vs mko1919 — 04/11 · 11:39
+
+👀 candidata · 🎮⚽ FC 27 · World Cup B · **Gana Uncle** @ **1.89** (Unibet) · prob 57% vs casas 46% · ventaja +8%
+
+- ❌ Valor: ventaja +8% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 55.622 partidos)  
+Goles esperados: Uncle 3.17 · mko1919 2.39  
+Ganador: Uncle 57% · empate 19% · mko1919 25%  
+Total: más de 5.5 goles 48% · menos 52%  
+Hándicap Uncle: −1.5 37% · −2.5 23%  
+🔎 **Claves**  
+• Forma: Uncle ❌❌✅✅✅ | mko1919 ❌❌❌❌❌  
+• Partidos: Uncle 618 | mko1919 1060  
+• Liga: World Cup B  
+• Unibet: 1 1.89 · X 2.70 · 2 4.00 (sin margen 46%/32%/22%) · ventaja +8%. Sin stake hasta demostrar ROI con estas cuotas.  
 

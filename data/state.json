@@ -1249,7 +1249,7 @@
   "fc|2362013",
   "fc|2361769",
   "fc|2361690",
-  "fc|2362010"
+  "fc|2361693"
  ],
  "signals": [
   {
@@ -16237,7 +16237,10 @@
    "bajas": "",
    "considered": true,
    "placed": false,
-   "anunciada": true
+   "anunciada": true,
+   "score": "3-3",
+   "result": false,
+   "logged": true
   },
   {
    "market": "H",
@@ -16259,7 +16262,10 @@
    "bajas": "",
    "considered": true,
    "placed": false,
-   "anunciada": true
+   "anunciada": true,
+   "score": "1-5",
+   "result": false,
+   "logged": true
   },
   {
    "market": "t1",
@@ -16397,7 +16403,10 @@
    "version": "f476e3b",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "5-3",
+   "result": false,
+   "logged": true
   },
   {
    "market": "A",
@@ -16502,7 +16511,10 @@
    "version": "9c98d3d",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "5-3",
+   "result": true,
+   "logged": true
   },
   {
    "market": "H",
@@ -16628,7 +16640,10 @@
    "version": "6162ca2",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "1-4",
+   "result": true,
+   "logged": true
   },
   {
    "market": "A",
@@ -16649,7 +16664,10 @@
    "version": "20d486c",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "2-6",
+   "result": true,
+   "logged": true
   },
   {
    "market": "H",
@@ -16691,7 +16709,10 @@
    "version": "20d486c",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "5-4",
+   "result": true,
+   "logged": true
   },
   {
    "market": "t1",
@@ -16778,19 +16799,6 @@
    "start": "2026-11-04T09:36:00+00:00",
    "league": "🎮⚽ FC 27 · EFL Championship",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 55.602 partidos)",
-    "Goles esperados: Loka 5.22 · kamito 2.93",
-    "Ganador: Loka 77% · empate 11% · kamito 12%",
-    "Total: más de 8.5 goles 43% · menos 57%",
-    "Hándicap Loka: −1.5 60% · −2.5 46%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Loka ✅✅❌✅✅ | kamito ❌✅➖❌❌",
-    "• Partidos: Loka 1052 | kamito 392",
-    "• Liga: EFL Championship",
-    "• Unibet: 1 1.65 · X 5.60 · 2 2.85 (sin margen 53%/16%/31%) · ventaja +27%. Sin stake hasta demostrar ROI con estas cuotas."
-   ],
    "context": "EA FC Esoccer Battle Loka vs kamito (EFL Championship): goles esperados 5.22-2.93, 1X2 77%/11%/12%. Sin cuotas de casa.",
    "captured": "2026-11-04T09:15",
    "version": "2928e8a",
@@ -17038,7 +17046,7 @@
    "league": "🎮⚽ FC 27 · Bundesliga",
    "sport": "🎮⚽",
    "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 55.602 partidos)",
+    "📊 <b>Escenarios</b> (Poisson por jugador, 55.622 partidos)",
     "Goles esperados: dm1trena 2.41 · MeLToSik 2.32",
     "Ganador: dm1trena 41% · empate 22% · MeLToSik 37%",
     "Total: más de 4.5 goles 51% · menos 49%",
@@ -17051,8 +17059,8 @@
     "• Unibet: 1 2.00 · X 3.10 · 2 3.05 (sin margen 43%/28%/28%) · ventaja +12%. Sin stake hasta demostrar ROI con estas cuotas."
    ],
    "context": "EA FC Esoccer Battle dm1trena vs MeLToSik (Bundesliga): goles esperados 2.41-2.32, 1X2 41%/22%/37%. Sin cuotas de casa.",
-   "captured": "2026-11-04T09:35",
-   "version": "a30205a",
+   "captured": "2026-11-04T09:39",
+   "version": "3487abb",
    "bajas": "",
    "considered": true,
    "placed": false
@@ -17072,7 +17080,7 @@
    "league": "🎮⚽ FC 27 · World Cup B",
    "sport": "🎮⚽",
    "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 55.602 partidos)",
+    "📊 <b>Escenarios</b> (Poisson por jugador, 55.622 partidos)",
     "Goles esperados: Bomb1to 2.86 · Uncle 2.77",
     "Ganador: Bomb1to 42% · empate 20% · Uncle 38%",
     "Total: más de 5.5 goles 49% · menos 51%",
@@ -17085,42 +17093,42 @@
     "• Unibet: 1 2.20 · X 2.85 · 2 2.88 (sin margen 39%/30%/30%) · ventaja +8%. Sin stake hasta demostrar ROI con estas cuotas."
    ],
    "context": "EA FC Esoccer Battle Bomb1to vs Uncle (World Cup B): goles esperados 2.86-2.77, 1X2 42%/20%/38%. Sin cuotas de casa.",
-   "captured": "2026-11-04T09:35",
-   "version": "a30205a",
+   "captured": "2026-11-04T09:39",
+   "version": "3487abb",
    "bajas": "",
    "considered": true,
    "placed": false
   },
   {
-   "market": "A",
-   "pick": "Tesla",
-   "odds": 1.77,
+   "market": "H",
+   "pick": "Uncle",
+   "odds": 1.89,
    "book": "Unibet",
-   "implied": 0.495,
-   "edge": 0.047,
+   "implied": 0.46,
+   "edge": 0.076,
    "sin_stake": true,
-   "p": 0.592,
-   "key": "fc|2362010",
-   "match": "Maxa vs Tesla",
-   "start": "2026-11-04T10:12:00+00:00",
-   "league": "🎮⚽ FC 27 · World Cup A",
+   "p": 0.569,
+   "key": "fc|2361693",
+   "match": "Uncle vs mko1919",
+   "start": "2026-11-04T10:39:00+00:00",
+   "league": "🎮⚽ FC 27 · World Cup B",
    "sport": "🎮⚽",
    "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 55.602 partidos)",
-    "Goles esperados: Maxa 2.66 · Tesla 3.72",
-    "Ganador: Maxa 24% · empate 17% · Tesla 59%",
-    "Total: más de 6.5 goles 45% · menos 55%",
-    "Hándicap Tesla: −1.5 42% · −2.5 28%",
+    "📊 <b>Escenarios</b> (Poisson por jugador, 55.622 partidos)",
+    "Goles esperados: Uncle 3.17 · mko1919 2.39",
+    "Ganador: Uncle 57% · empate 19% · mko1919 25%",
+    "Total: más de 5.5 goles 48% · menos 52%",
+    "Hándicap Uncle: −1.5 37% · −2.5 23%",
     "",
     "🔎 <b>Claves</b>",
-    "• Forma: Maxa ➖✅❌❌➖ | Tesla ✅✅✅✅➖",
-    "• Partidos: Maxa 805 | Tesla 852",
-    "• Liga: World Cup A",
-    "• Unibet: 1 2.95 · X 4.20 · 2 1.77 (sin margen 30%/21%/49%) · ventaja +5%. Sin stake hasta demostrar ROI con estas cuotas."
+    "• Forma: Uncle ❌❌✅✅✅ | mko1919 ❌❌❌❌❌",
+    "• Partidos: Uncle 618 | mko1919 1060",
+    "• Liga: World Cup B",
+    "• Unibet: 1 1.89 · X 2.70 · 2 4.00 (sin margen 46%/32%/22%) · ventaja +8%. Sin stake hasta demostrar ROI con estas cuotas."
    ],
-   "context": "EA FC Esoccer Battle Maxa vs Tesla (World Cup A): goles esperados 2.66-3.72, 1X2 24%/17%/59%. Sin cuotas de casa.",
-   "captured": "2026-11-04T09:35",
-   "version": "a30205a",
+   "context": "EA FC Esoccer Battle Uncle vs mko1919 (World Cup B): goles esperados 3.17-2.39, 1X2 57%/19%/25%. Sin cuotas de casa.",
+   "captured": "2026-11-04T09:39",
+   "version": "3487abb",
    "bajas": "",
    "considered": true,
    "placed": false
