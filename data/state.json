@@ -18700,7 +18700,8 @@
    "version": "b13d2a7",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "anunciada": true
   },
   {
    "market": "H",
@@ -18755,7 +18756,8 @@
    "version": "b13d2a7",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "anunciada": true
   },
   {
    "market": "t1",
@@ -18822,7 +18824,8 @@
    "version": "67c2805",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "anunciada": true
   },
   {
    "market": "A",
@@ -18907,11 +18910,12 @@
     "• Unibet: 1 1.64 · X 6.00 · 2 2.80 (sin margen 54%/15%/32%) · ventaja +10%. Sin stake hasta demostrar ROI con estas cuotas."
    ],
    "context": "EA FC Esoccer Battle w1nkos vs Rodja (World Cup B): goles esperados 3.31-2.81, 1X2 51%/18%/31%. Sin cuotas de casa.",
-   "captured": "2026-11-04T15:40",
-   "version": "9306d64",
+   "captured": "2026-11-04T15:45",
+   "version": "a89546d",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "anunciada": true
   },
   {
    "market": "H",
@@ -18941,11 +18945,12 @@
     "• Unibet: 1 1.79 · X 6.25 · 2 2.40 (sin margen 49%/14%/37%) · ventaja +7%. Sin stake hasta demostrar ROI con estas cuotas."
    ],
    "context": "EA FC Esoccer Battle Maki vs lzrn (Champions League B): goles esperados 4.58-3.53, 1X2 60%/15%/26%. Sin cuotas de casa.",
-   "captured": "2026-11-04T15:40",
-   "version": "9306d64",
+   "captured": "2026-11-04T15:45",
+   "version": "a89546d",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "anunciada": true
   },
   {
    "market": "H",
@@ -18975,8 +18980,8 @@
     "• Unibet: 1 2.35 · X 3.80 · 2 2.16 (sin margen 37%/23%/40%) · ventaja +4%. Sin stake hasta demostrar ROI con estas cuotas."
    ],
    "context": "EA FC Esoccer Battle Animal vs chevare (Champions League B): goles esperados 3.99-3.87, 1X2 44%/16%/39%. Sin cuotas de casa.",
-   "captured": "2026-11-04T15:40",
-   "version": "9306d64",
+   "captured": "2026-11-04T15:45",
+   "version": "a89546d",
    "bajas": "",
    "considered": true,
    "placed": false
@@ -19410,7 +19415,7 @@
  },
  "scoreboard_id": 156,
  "scoreboard_text": "📊 <b>MARCADOR DEL BOT</b>\n━━━━━━━━━━━━━━━\n🟩 Ganadas: <b>9</b> (38 %)\n🟥 Perdidas: <b>15</b> (62 %)\n⏳ En juego: 4\n\nÚltimas 24:\n🟥🟥🟥🟩🟥🟩🟥🟥🟥🟥🟥🟥🟥🟥🟩🟥🟥🟩🟩🟩🟩🟩🟥🟩\n━━━━━━━━━━━━━━━\n💵 Beneficio -14.21 $ · ROI -29.8 %\n📐 CLV medio +2.5 % (cuota cogida vs cierre)\n💰 Banca: <b>85.79 €</b> (-14.21 € desde 100 €) · libre 80.39 €{\"inline_keyboard\": [[{\"text\": \"\\ud83d\\udcc8 Ver historial completo y fallos\", \"url\": \"https://github.com/STAMFORD313/analista313/blob/main/ESTADISTICAS.md\"}], [{\"text\": \"\\u26bd F\\u00fatbol\", \"callback_data\": \"dep:futbol\"}, {\"text\": \"\\ud83c\\udfc0 NBA\\u00b7NCAA\", \"callback_data\": \"dep:nba\"}, {\"text\": \"\\ud83c\\udfc8 NFL\\u00b7NCAA\", \"callback_data\": \"dep:nfl\"}], [{\"text\": \"\\ud83c\\udfc6 Champions\\u00b7Europa\", \"callback_data\": \"dep:europa\"}, {\"text\": \"\\ud83c\\udfd2 NHL\", \"callback_data\": \"dep:nhl\"}, {\"text\": \"\\u26be MLB\", \"callback_data\": \"dep:mlb\"}], [{\"text\": \"\\ud83e\\udd4a UFC\", \"callback_data\": \"dep:ufc\"}, {\"text\": \"\\ud83c\\udfbe Tenis\", \"callback_data\": \"dep:tenis\"}, {\"text\": \"\\ud83c\\udfae CS2\", \"callback_data\": \"dep:cs2\"}], [{\"text\": \"\\ud83d\\udc09 Dota 2\", \"callback_data\": \"dep:dota2\"}, {\"text\": \"\\ud83e\\uddd9 LoL\", \"callback_data\": \"dep:lol\"}, {\"text\": \"\\ud83d\\udd2b R6 Siege\", \"callback_data\": \"dep:r6\"}], [{\"text\": \"\\ud83d\\udcf1 MLBB\", \"callback_data\": \"dep:mlbb\"}, {\"text\": \"\\ud83c\\udfae\\u26bd FC 27\", \"callback_data\": \"dep:fc\"}]]}",
- "fc_sent": "2026-11-04T11:42:52.610722+00:00",
+ "fc_sent": "2026-11-04T15:45:51.808814+00:00",
  "sgp": {
   "E1|2026-11-03|QPR|Burnley": {
    "match": "QPR vs Burnley",

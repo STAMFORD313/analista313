@@ -1,6 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 04/11/2026 16:40 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 04/11/2026 16:45 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Dicca vs Linox — 04/11 · 16:49
 
