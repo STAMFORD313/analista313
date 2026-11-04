@@ -734,6 +734,80 @@ def other_winner(q, hours=72):
     return "\n".join(out)
 
 
+def slip_leg(leg, D):
+    """(probabilidad según el bot, texto de la pierna, dict para simular o None) de una pierna leída de un boleto."""
+    tipo, txt, eq = leg.get("tipo"), leg.get("texto") or "", leg.get("equipo") or ""
+    teams = [x.strip() for x in re.split(r"\s+(?:-|–|vs\.?|v)\s+", leg.get("partido") or "") if x.strip()]
+    ks = find(" ".join(teams), D, n=2, kind="equipo") if teams else []
+    if tipo == "mas_menos" and leg.get("linea") is not None:
+        side = "más de" if (leg.get("lado") or "mas") == "mas" else "menos de"
+        frase = f"{eq or ' '.join(teams)} {side} {leg['linea']} {leg.get('estadistica') or ''}"
+        pl = parse_leg(frase); keys = find(frase, D, kind="equipo" if pl["stat"] == "corners" else None)
+        if not eq and len(ks) == 2: keys = ks  # total del partido
+        if pl["stat"] and pl["line"] is not None and keys:
+            p, t = leg_prob(keys, pl, D)
+            sim = (dict(code=None, start=None, home=D[ks[0]]["name"], away=D[ks[1]]["name"], p=p,
+                        txt=f"{'Más' if pl['over'] else 'Menos'} de {pl['line']:g} {LABEL[pl['stat']]}"
+                            + ("" if len(keys) == 2 else f" de {D[keys[0]]['name']}"), odds=leg.get("cuota"))
+                   if p is not None and len(ks) == 2 and pl["stat"] in ("corners", "tarjetas", "goles") else None)
+            return p, t, sim
+    if tipo in ("ganador", "empate", "doble_oportunidad"):
+        import multideporte
+        try: L = multideporte.legs(96)
+        except Exception: L = []
+        for l in L:  # NBA, NHL, esports, FC 27: modelos del bot
+            if teams and all(find_team_name(x, (l["home"], l["away"])) for x in teams[:2]):
+                pfav = l["p"]; fav = l["txt"].replace("Gana ", "")
+                p = pfav if (eq and find_team_name(eq, (fav,))) else 1 - pfav if tipo == "ganador" else None
+                if p is None: break
+                return p, f"{A.esc(txt)}: <b>{p:.0%}</b> según el modelo del bot", dict(src=l["src"], side=l["side"] if p == pfav else
+                         ("A" if l["side"] == "H" else "H"), start=l["start"], home=l["home"], away=l["away"], txt=f"Gana {eq or fav}",
+                         odds=leg.get("cuota"), p=p)
+        if len(ks) == 2 and D[ks[0]]["sport"] == "futbol":  # fútbol: el 1X2 del chat (goles esperados + Dixon-Coles)
+            m = exp_pair(ks[0], ks[1], D, "goles")
+            if m:
+                P = A.probs(max(m[0] * HFA["futbol"], 0.05), max(m[1] / HFA["futbol"], 0.05)); t = P["H"] + P["D"] + P["A"]
+                P = {k: P[k] / t for k in ("H", "D", "A")}
+                h, a = D[ks[0]]["name"], D[ks[1]]["name"]
+                if tipo == "empate": p, tx = P["D"], "Empate"
+                elif tipo == "doble_oportunidad":
+                    d = (leg.get("doble") or "1X").upper(); p = sum(P[{"1": "H", "X": "D", "2": "A"}[c]] for c in d if c in "1X2")
+                    tx = f"{h if d == '1X' else a} o empate ({d})" if d in ("1X", "X2") else None
+                else:
+                    home_side = find_team_name(eq, (h,)) if eq else True
+                    p, tx = (P["H"], f"Gana {h}") if home_side else (P["A"], f"Gana {a}")
+                sim = dict(code=None, start=None, home=h, away=a, txt=tx, odds=leg.get("cuota"), p=p) if tx else None
+                return p, f"{A.esc(txt)}: <b>{p:.0%}</b> según el bot", sim
+    return None, f"{A.esc(txt)}: no la puedo evaluar con mis datos", None
+
+
+def find_team_name(x, names):
+    nx = norm(x)
+    return any(nx and (nx == norm(n) or nx in norm(n) or norm(n) in nx) for n in names)
+
+
+def analyze_slip(slip, D=None):
+    """Análisis del boleto leído de una imagen: probabilidad de cada pierna con los modelos del bot, total y opinión."""
+    D = D or db()
+    rows, ps, sims = [], [], []
+    for leg in slip.get("piernas") or []:
+        p, t, sim = slip_leg(leg, D)
+        o = leg.get("cuota")
+        mark = "" if p is None or not o else (" 🟢" if p * o - 1 >= 0.03 else " 🔴" if p * o - 1 < -0.05 else " 🟡")
+        rows.append(f"• {t}" + (f" · cuota {o:g}" if o else "") + mark); ps.append(p); sims.append(sim)
+    total = slip.get("cuota_total") or (float(np.prod([l.get("cuota") for l in slip["piernas"]])) if all(l.get("cuota") for l in slip["piernas"]) else None)
+    out = ["🧾 <b>Tu boleto</b> (leído de la imagen)", *rows]
+    known = [p for p in ps if p is not None]
+    if known and len(known) == len(ps):
+        p = float(np.prod(known)); out.append(f"Todas a la vez: <b>{p:.1%}</b> (cuota justa {1 / p:.2f})")
+        if total: out.append(verdict(p, total))
+    elif known: out.append(f"Puedo evaluar {len(known)} de {len(ps)} piernas; el resto no lo cubren mis datos.")
+    if all(s is not None for s in sims) and sims:
+        remember("Tu boleto", sims, total, float(np.prod(known)) if known else None)
+        out.append("\n❓ ¿Te la simulo con 1 € y te aviso cuando acaben?"); _CTX["oferta"] = "simula la última combinada"
+    return "\n".join(out)
+
+
 def winner(kh, ka, D, odds=None, pick=None):
     h, a, sp = D[kh], D[ka], D[kh]["sport"]
     stat = "puntos" if sp == "nba" else "goles"

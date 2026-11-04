@@ -1129,3 +1129,15 @@ assert abs(_pf - (1 / 4.2) / (1 / 1.25 + 1 / 4.2)) < 1e-3
 assert _MD.pinnacle_fair({"src": "espn:nba", "side": "H", "start": "2026-11-09T00:30:00Z", "home": "Boston Celtics", "away": "Milwaukee Bucks"}) is None
 _MD._PIN.clear()
 print("ok Pinnacle como referencia")
+# boleto en imagen: las piernas leídas se analizan con los modelos del bot y se pueden simular
+_CH._DB.update(db=_D, t=1e18); _CH._CTX.clear()
+_slip = {"piernas": [{"partido": "Real Madrid - Barcelona", "tipo": "ganador", "equipo": "Real Madrid", "cuota": 2.1, "texto": "Real Madrid"},
+                     {"partido": "Real Madrid - Barcelona", "tipo": "otro", "texto": "Mbappé marca primero", "cuota": 5.0}], "cuota_total": 10.5}
+_mdl2 = _MD.legs; _MD.legs = lambda hours=48, sports=None: []
+try:
+    _r = _CH.analyze_slip(_slip); assert "Tu boleto" in _r and "Real Madrid" in _r and "no la puedo evaluar" in _r and "1 de 2" in _r, _r
+    _slip["piernas"] = _slip["piernas"][:1]; _r = _CH.analyze_slip(_slip); assert "Todas a la vez" in _r and "❓" in _r, _r
+    assert _CH._CTX["ultima"]["legs"][0]["txt"] == "Gana Real Madrid"
+finally: _MD.legs = _mdl2; _CH._DB.clear(); _CH._DB["t"] = 0; _CH._CTX.clear()
+assert _SM.judge({"txt": "Gana Real Madrid"}, {"home": "Real Madrid", "away": "Barcelona", "hs": 2, "as": 1})[0] is True
+print("ok boleto en imagen")

@@ -83,6 +83,10 @@ def find_game(leg):
 def judge(leg, g):
     """(acierto True/False/'nula', porqué) de una pierna con el partido de ESPN."""
     h, a = (g.get("team_stats") or {}).get("h") or {}, (g.get("team_stats") or {}).get("a") or {}
+    if leg["txt"] == "Empate" or leg["txt"].startswith("Gana "):  # 1X2 de fútbol leído de un boleto
+        w = leg["txt"][5:]
+        ok = g["hs"] == g["as"] if leg["txt"] == "Empate" else (g["hs"] > g["as"]) if w == g["home"] else (g["as"] > g["hs"])
+        return ok, f"acabó {g['hs']:g}-{g['as']:g}"
     if m := DC_RX.match(leg["txt"]):
         ok = g["hs"] >= g["as"] if m.group(2) == "1X" else g["as"] >= g["hs"]
         return ok, f"acabó {g['hs']:g}-{g['as']:g}"

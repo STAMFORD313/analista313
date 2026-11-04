@@ -41,6 +41,24 @@ def kick_analysis():
     except requests.RequestException as e: print("dispatch analista", e)
 
 
+def boleto_imagen(msg):
+    """Foto de un boleto → Gemini lee las piernas y cuotas (interpreta.read_slip) → el bot las analiza (chat.analyze_slip)."""
+    import interpreta, os
+    try:
+        fid = msg["photo"][-1]["file_id"] if msg.get("photo") else msg["document"]["file_id"]
+        path = voz.download(fid)
+        if not path: return "No he podido descargar la imagen."
+        try: data = open(path, "rb").read()
+        finally: os.unlink(path)
+        slip = interpreta.read_slip(data, (msg.get("document") or {}).get("mime_type") or "image/jpeg")
+        if not slip: return "No he sabido leer el boleto de la imagen 🤔 ¿Me escribes las apuestas?"
+        if msg.get("caption"): print("boleto con texto:", msg["caption"][:100])
+        return charla.analyze_slip(slip)
+    except Exception as e:
+        import traceback; traceback.print_exc()
+        return f"No he podido analizar la imagen ({A.esc(type(e).__name__)})."
+
+
 def main():
     voz.warm()  # carga Whisper en segundo plano: el primer audio no espera la descarga del modelo
     state, loaded, view, last, offset, shown = load_state(), time.time(), None, "futbol", None, None
@@ -70,6 +88,10 @@ def main():
                 if slug == "refresh": state, loaded, slug = load_state(), time.time(), last
             elif msg and msg.get("text", "").startswith(("/start", "/menu")):
                 slug = last
+            elif msg and (msg.get("photo") or str((msg.get("document") or {}).get("mime_type", "")).startswith("image/")):
+                reply = boleto_imagen(msg)  # foto de un boleto: la IA lo lee y el bot lo analiza
+                A.tg("sendMessage", text=reply[:4000], parse_mode="HTML", reply_to_message_id=msg.get("message_id"))
+                continue
             elif msg and (msg.get("text") or msg.get("voice") or msg.get("audio")):  # frase libre o nota de voz (chat.py, sin IA)
                 try:
                     said = msg.get("text") or voz.from_message(msg)

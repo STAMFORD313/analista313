@@ -195,3 +195,32 @@ if __name__ == "__main__":  # prueba: python interpreta.py (en Actions: probar_i
                       ("Añádeles más para subir la cuota, lo máximo que pueda pero de forma segura", [("bot", "Combinada segura · Girona – Almería")]),
                       ("cuánto suele tirar a puerta mbappe", [])):
         print(msg, "→", route(msg, hist))
+
+
+# ── lector de boletos: la IA solo LEE la imagen (piernas, cuotas); el análisis lo hace el bot ──────────────────────
+SLIP = """Lee la imagen de un boleto de apuestas deportivas y devuelve SOLO un JSON con lo que pone, sin inventar nada:
+{"piernas": [{"partido": "Local - Visitante", "deporte": "futbol|nba|nhl|nfl|tenis|esports|fc27|otro",
+  "tipo": "ganador|empate|doble_oportunidad|mas_menos|otro", "equipo": "equipo o jugador al que se refiere (si aplica)",
+  "estadistica": "goles|córners|tarjetas|tiros|tiros a puerta|puntos|rebotes|asistencias|triples|mapas|otro (si es más/menos)",
+  "lado": "mas|menos", "linea": 9.5, "doble": "1X|X2|12", "cuota": 1.85, "texto": "la selección tal cual aparece"}],
+ "cuota_total": 12.3, "importe": 1.0}
+Pon null en lo que no aparezca. Los nombres de equipos tal como salen en la imagen."""
+
+
+def read_slip(image, mime="image/jpeg"):
+    """Piernas del boleto de la imagen (dict de SLIP) con Gemini, o None."""
+    key = os.getenv("GEMINI_API_KEY")
+    if not key: return None
+    try: from google import genai; from google.genai import types
+    except ImportError: return None
+    client = genai.Client(api_key=key, http_options={"timeout": 40_000})
+    for model in ["gemini-flash-latest", "gemini-flash-lite-latest"]:  # flash lee mejor imágenes; lite de respaldo
+        try:
+            r = client.models.generate_content(model=model, contents=[types.Part.from_bytes(data=image, mime_type=mime), SLIP],
+                                               config={"response_mime_type": "application/json", "temperature": 0})
+            import re
+            m = re.search(r"\{.*\}", r.text or "", re.S)
+            out = json.loads(m.group(0)) if m else None
+            if isinstance(out, dict) and out.get("piernas"): return out
+        except Exception as e: print("Gemini boleto", model, str(e)[:200])
+    return None
