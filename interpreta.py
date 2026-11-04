@@ -23,7 +23,7 @@ conversación previa para resolver referencias («sí», «ese partido», «y de
 fueras de juego, puntos, rebotes, asistencias, triples); con cuota: «… a 1.90»; total de un partido: «<local> <visitante> más de 9.5 córners»
 - varias piernas en una combinada: unirlas con « y » («Mbappé más de 0.5 tiros a puerta y Madrid Barcelona más de 7.5 córners @2.1»)
 - «combinada <local> <visitante>» (combinada segura de un partido) · «combinada del día» (lo más seguro de cada partido de las \
-próximas 48 h, para subir la cuota con seguridad) · «combinada del día a cuota 2.5» (si dice a qué cuota quiere llegar; «dos con cinco» = 2.5) · «combinada de córners y tarjetas a cuota 16» (solo córners y tarjetas de fútbol) · para cuotas altas \
+próximas 48 h, para subir la cuota con seguridad) · «combinada del día a cuota 2.5» (si dice a qué cuota quiere llegar; «dos con cinco» = 2.5) · «combinada de córners y tarjetas a cuota 16» (solo córners y tarjetas de fútbol) · «combinada inteligente» o «combinada de todo a cuota 16» (todo tipo de mercados con estrategia) · para cuotas altas \
 («que pague 80», «1 € para ganar 100») también «combinada del día a cuota 80»
 - se puede limitar a deportes: «combinada del día de nba», «combinada de esports a cuota 20», «combinada segura de cs2 y fc 27» (deportes: fútbol, nba, nhl, nfl, mlb, cs2, lol, dota, r6, mlbb, fc 27/esoccer; «esports» = todos los videojuegos)
 - «<equipo> córners contra <rival>» o «<equipo> más de 4.5 córners contra <rival>» (cuántos córners o tarjetas hará un equipo ante un rival concreto; usa la conversación para saber de qué equipo y línea habla)

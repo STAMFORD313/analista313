@@ -27,8 +27,8 @@ def fair_rows(now):
     return d[(t > now + pd.Timedelta(minutes=10)) & (t < now + pd.Timedelta(hours=HOURS))]
 
 
-def candidates(now=None, uni=None):
-    """Señales de valor: Unibet paga más que Pinnacle sin margen."""
+def candidates(now=None, uni=None, min_edge=MIN_EDGE, max_odds=MAX_ODDS):
+    """Señales de valor: Unibet paga más que Pinnacle sin margen (min_edge/max_odds más laxos para piernas de combinada)."""
     import kambi
     now = now or pd.Timestamp.now(tz="UTC")
     pin = fair_rows(now)
@@ -46,7 +46,7 @@ def candidates(now=None, uni=None):
         for m, name in (("H", r.home), ("D", "Empate"), ("A", r.away)):
             p, o = inv[m] / tot, u["odds"][m]
             edge = o * p - 1
-            if edge < MIN_EDGE or o > MAX_ODDS: continue
+            if edge < min_edge or o > max_odds: continue
             out.append({"key": f"vp|{t:%Y-%m-%d}|{r.home}|{r.away}", "market": m, "pick": name, "odds": round(o, 2), "book": "Unibet",
                         "p": round(p, 4), "implied": round(p, 4), "edge": round(edge, 4), "match": f"{r.home} vs {r.away}",
                         "start": t.isoformat(), "league": f"💎 Valor vs Pinnacle · {r.league}", "sport": SPORT,
