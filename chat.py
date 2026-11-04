@@ -456,7 +456,9 @@ def pick_legs(cands, per_match=None, target=None):
     """De [(partido, texto, p)], las más seguras primero mientras el total siga ≥ COMBO_FLOOR (máx. COMBO_MAX piernas).
     Con `target` (cuota buscada, p. ej. 2.5): se añaden piernas seguras hasta que la cuota justa llega a esa cifra."""
     out, p, n = [], 1.0, {}
-    for m, txt, q in sorted(cands, key=lambda x: -x[2]):
+    # con cuota objetivo, primero las piernas seguras que más pagan (las de 85-90 %): llega con menos piernas a la misma
+    # probabilidad total, y cada pierna de más suma el margen de la casa
+    for m, txt, q in sorted(cands, key=lambda x: x[2] if target else -x[2]):
         if target:
             if 1 / p >= target or len(out) >= 15: break
         elif len(out) >= COMBO_MAX or p * q < COMBO_FLOOR: continue

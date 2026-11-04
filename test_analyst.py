@@ -1017,4 +1017,6 @@ _up = _CH.upcoming
 _CH.upcoming = lambda codes, hours=48: {}
 try: assert "ESPN no me devuelve partidos" in _CH.day_combo({}, target=2.5)
 finally: _CH.upcoming = _up
+_lg3, _p3 = _CH.pick_legs([("a", "x", 0.97), ("a", "y", 0.86), ("b", "z", 0.96), ("b", "w", 0.87)], per_match=1, target=1.3)
+assert [x[1] for x in _lg3] == ["y", "w"]  # la segura que más paga de cada partido
 print("ok combinada a cuota objetivo")
