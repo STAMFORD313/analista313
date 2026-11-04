@@ -16,6 +16,7 @@ jobs:
       - run: |
           python interpreta.py
           python -c "import chat; print('partidos 48 h', {k: len(v) for k, v in chat.upcoming(chat.DAY_LEAGUES).items()})"
+          python -c "import chat; print(chat.day_combo(chat.db(), target=2.5))"
         env:
           PYTHONUNBUFFERED: "1"
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
