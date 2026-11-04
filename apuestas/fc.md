@@ -1,42 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 04/11/2026 14:03 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## DaVa vs dm1trena — 04/11 · 14:04
-
-👀 candidata · 🎮⚽ FC 27 · LaLiga · **Gana DaVa** @ **1.56** (Unibet) · prob 66% vs casas 56% · ventaja +2%
-
-- ❌ Valor: ventaja +2% (mín. 9% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 55.822 partidos)  
-Goles esperados: DaVa 3.32 · dm1trena 2.07  
-Ganador: DaVa 66% · empate 17% · dm1trena 17%  
-Total: más de 5.5 goles 45% · menos 55%  
-Hándicap DaVa: −1.5 45% · −2.5 29%  
-🔎 **Claves**  
-• Forma: DaVa ✅❌➖✅➖ | dm1trena ➖❌❌✅➖  
-• Partidos: DaVa 1116 | dm1trena 997  
-• Liga: LaLiga  
-• Unibet: 1 1.56 · X 3.70 · 2 4.40 (sin margen 56%/24%/20%) · ventaja +2%. Sin stake hasta demostrar ROI con estas cuotas.  
-
-## kamito vs Loka — 04/11 · 14:06
-
-👀 candidata · 🎮⚽ FC 27 · CSL · **Gana Loka** @ **1.58** (Unibet) · prob 81% vs casas 56% · ventaja +28%
-
-- ✅ Valor: ventaja +28% (mín. 15% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 55.822 partidos)  
-Goles esperados: kamito 3.37 · Loka 6.18  
-Ganador: kamito 10% · empate 9% · Loka 81%  
-Total: más de 9.5 goles 48% · menos 52%  
-Hándicap Loka: −1.5 66% · −2.5 53%  
-🔎 **Claves**  
-• Forma: kamito ❌✅❌✅❌ | Loka ✅✅✅✅❌  
-• Partidos: kamito 408 | Loka 1068  
-• Liga: CSL  
-• Unibet: 1 3.15 · X 5.40 · 2 1.58 (sin margen 28%/16%/56%) · ventaja +28%. Sin stake hasta demostrar ROI con estas cuotas.  
+Actualizado 04/11/2026 14:08 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Maxa vs Ganger_29 — 04/11 · 14:10
 
