@@ -1,60 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 04/11/2026 10:27 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Ganger_29 vs Taz — 04/11 · 10:28
-
-👀 candidata · 🎮⚽ FC 27 · Ligue 1 · **Gana Taz** @ **2.16** (Unibet) · prob 52% vs casas 40% · ventaja +12%
-
-- ✅ Valor: ventaja +12% (mín. 11% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 55.602 partidos)  
-Goles esperados: Ganger_29 2.55 · Taz 3.18  
-Ganador: Ganger_29 29% · empate 19% · Taz 52%  
-Total: más de 5.5 goles 51% · menos 49%  
-Hándicap Taz: −1.5 35% · −2.5 21%  
-🔎 **Claves**  
-• Forma: Ganger_29 ➖❌❌❌❌ | Taz ➖❌➖➖✅  
-• Partidos: Ganger_29 712 | Taz 837  
-• Liga: Ligue 1  
-• Unibet: 1 2.25 · X 4.20 · 2 2.16 (sin margen 39%/21%/40%) · ventaja +12%. Sin stake hasta demostrar ROI con estas cuotas.  
-
-## Tesla vs Lumix — 04/11 · 10:28
-
-👀 candidata · 🎮⚽ FC 27 · Ligue 1 · **Gana Tesla** @ **1.77** (Unibet) · prob 60% vs casas 49% · ventaja +5%
-
-- ❌ Valor: ventaja +5% (mín. 10% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 55.602 partidos)  
-Goles esperados: Tesla 3.26 · Lumix 2.26  
-Ganador: Tesla 59% · empate 18% · Lumix 22%  
-Total: más de 5.5 goles 47% · menos 53%  
-Hándicap Tesla: −1.5 41% · −2.5 25%  
-🔎 **Claves**  
-• Forma: Tesla ✅✅✅✅➖ | Lumix ❌➖✅✅➖  
-• Partidos: Tesla 852 | Lumix 865  
-• Liga: Ligue 1  
-• Unibet: 1 1.77 · X 4.10 · 2 2.95 (sin margen 49%/21%/30%) · ventaja +5%. Sin stake hasta demostrar ROI con estas cuotas.  
-
-## Wboy vs Bomb1to — 04/11 · 10:31
-
-👀 candidata · 🎮⚽ FC 27 · Serie A · **Gana Wboy** @ **3.30** (Unibet) · prob 33% vs casas 26% · ventaja +8%
-
-- ❌ Valor: ventaja +8% (mín. 10% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 55.602 partidos)  
-Goles esperados: Wboy 3.14 · Bomb1to 3.56  
-Ganador: Wboy 33% · empate 18% · Bomb1to 50%  
-Total: más de 6.5 goles 50% · menos 50%  
-Hándicap Bomb1to: −1.5 33% · −2.5 20%  
-🔎 **Claves**  
-• Forma: Wboy ✅✅❌✅✅ | Bomb1to ✅✅❌❌❌  
-• Partidos: Wboy 971 | Bomb1to 1162  
-• Liga: Serie A  
-• Unibet: 1 3.30 · X 3.90 · 2 1.71 (sin margen 26%/22%/51%) · ventaja +8%. Sin stake hasta demostrar ROI con estas cuotas.  
+Actualizado 04/11/2026 10:35 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Loka vs kamito — 04/11 · 10:36
 
@@ -146,6 +92,24 @@ Hándicap Taz: −1.5 30% · −2.5 17%
 • Liga: World Cup A  
 • Unibet: 1 2.38 · X 4.10 · 2 2.07 (sin margen 37%/21%/42%) · ventaja +9%. Sin stake hasta demostrar ROI con estas cuotas.  
 
+## Maxa vs Tesla — 04/11 · 11:12
+
+👀 candidata · 🎮⚽ FC 27 · World Cup A · **Gana Tesla** @ **1.77** (Unibet) · prob 59% vs casas 50% · ventaja +5%
+
+- ❌ Valor: ventaja +5% (mín. 9% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 55.602 partidos)  
+Goles esperados: Maxa 2.66 · Tesla 3.72  
+Ganador: Maxa 24% · empate 17% · Tesla 59%  
+Total: más de 6.5 goles 45% · menos 55%  
+Hándicap Tesla: −1.5 42% · −2.5 28%  
+🔎 **Claves**  
+• Forma: Maxa ➖✅❌❌➖ | Tesla ✅✅✅✅➖  
+• Partidos: Maxa 805 | Tesla 852  
+• Liga: World Cup A  
+• Unibet: 1 2.95 · X 4.20 · 2 1.77 (sin margen 30%/21%/49%) · ventaja +5%. Sin stake hasta demostrar ROI con estas cuotas.  
+
 ## mko1919 vs Bomb1to — 04/11 · 11:15
 
 👀 candidata · 🎮⚽ FC 27 · World Cup B · **Gana Bomb1to** @ **1.95** (Unibet) · prob 59% vs casas 45% · ventaja +15%
@@ -199,4 +163,40 @@ Hándicap Tesla: −1.5 47% · −2.5 31%
 • Partidos: Tesla 852 | Ganger_29 712  
 • Liga: World Cup A  
 • Unibet: 1 1.62 · X 4.20 · 2 3.55 (sin margen 54%/21%/25%) · ventaja +7%. Sin stake hasta demostrar ROI con estas cuotas.  
+
+## Bomb1to vs Uncle — 04/11 · 11:27
+
+👀 candidata · 🎮⚽ FC 27 · World Cup B · **Gana Uncle** @ **2.88** (Unibet) · prob 38% vs casas 30% · ventaja +8%
+
+- ❌ Valor: ventaja +8% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 55.602 partidos)  
+Goles esperados: Bomb1to 2.86 · Uncle 2.77  
+Ganador: Bomb1to 42% · empate 20% · Uncle 38%  
+Total: más de 5.5 goles 49% · menos 51%  
+Hándicap Bomb1to: −1.5 27% · −2.5 15%  
+🔎 **Claves**  
+• Forma: Bomb1to ✅✅❌❌❌ | Uncle ❌❌✅✅✅  
+• Partidos: Bomb1to 1162 | Uncle 618  
+• Liga: World Cup B  
+• Unibet: 1 2.20 · X 2.85 · 2 2.88 (sin margen 39%/30%/30%) · ventaja +8%. Sin stake hasta demostrar ROI con estas cuotas.  
+
+## dm1trena vs MeLToSik — 04/11 · 11:30
+
+👀 candidata · 🎮⚽ FC 27 · Bundesliga · **Gana MeLToSik** @ **3.05** (Unibet) · prob 37% vs casas 28% · ventaja +12%
+
+- ✅ Valor: ventaja +12% (mín. 11% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 55.602 partidos)  
+Goles esperados: dm1trena 2.41 · MeLToSik 2.32  
+Ganador: dm1trena 41% · empate 22% · MeLToSik 37%  
+Total: más de 4.5 goles 51% · menos 49%  
+Hándicap dm1trena: −1.5 25% · −2.5 13%  
+🔎 **Claves**  
+• Forma: dm1trena ✅➖✅❌➖ | MeLToSik ➖➖➖✅✅  
+• Partidos: dm1trena 981 | MeLToSik 1037  
+• Liga: Bundesliga  
+• Unibet: 1 2.00 · X 3.10 · 2 3.05 (sin margen 43%/28%/28%) · ventaja +12%. Sin stake hasta demostrar ROI con estas cuotas.  
 
