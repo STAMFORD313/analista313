@@ -18,6 +18,15 @@ def model():
     return _M["m"]
 
 
+def warm():
+    """Descarga y carga el modelo en un hilo aparte al arrancar menu.py; el error, si lo hay, queda en el log."""
+    import threading
+    def go():
+        try: model(); print("Whisper listo:", MODEL)
+        except Exception as e: _M["error"] = repr(e); print("Whisper no carga:", repr(e))
+    threading.Thread(target=go, daemon=True).start()
+
+
 def transcribe(path):
     segs, _ = model().transcribe(path, language="es", beam_size=5, vad_filter=True,
                                  initial_prompt="Apuestas de fútbol, NBA y esports: córners, tarjetas, tiros a puerta, cuota, combinada.")

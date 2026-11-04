@@ -41,6 +41,7 @@ def kick_analysis():
 
 
 def main():
+    voz.warm()  # carga Whisper en segundo plano: el primer audio no espera la descarga del modelo
     state, loaded, view, last, offset, shown = load_state(), time.time(), None, "futbol", None, None
     end = time.time() + RUN_SECONDS
     kicked = 0
@@ -69,7 +70,9 @@ def main():
                     said = msg.get("text") or voz.from_message(msg)
                     reply = charla.answer(said) if said else "🎤 No he entendido el audio, ¿me lo repites?"
                     if not msg.get("text") and said: reply = f"🎤 <i>«{A.esc(said)}»</i>\n\n{reply}"
-                except Exception as e: print("chat", repr(e)); reply = "No he podido mirarlo ahora, prueba en un rato."
+                except Exception as e:
+                    import traceback; traceback.print_exc()
+                    reply = f"No he podido mirarlo ahora ({A.esc(type(e).__name__)}: {A.esc(str(e)[:150])})."
                 A.tg("sendMessage", text=reply[:4000], parse_mode="HTML", reply_to_message_id=msg.get("message_id"))
                 continue
             if not slug: continue
