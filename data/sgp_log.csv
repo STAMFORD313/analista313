@@ -1,0 +1,14 @@
+fecha,partido,tipo,piernas,p,acierto,piernas_acertadas,p_piernas,cuota,ventaja,simulada,ganancia,piernas_txt,piernas_ok
+2026-11-03,Blackburn vs Stoke,corta,3,0.4156,0,1,0.7342,,,0,,Menos de 4.5 tiros a puerta de Stoke + Menos de 11.5 faltas de Blackburn + Menos de 2.5 tarjetas de Blackburn,100
+2026-11-03,Blackburn vs Stoke,larga,4,0.2895,0,1,0.7099,,,0,,Menos de 4.5 tiros a puerta de Stoke + Menos de 11.5 faltas de Blackburn + Menos de 2.5 tarjetas de Blackburn + Menos de 2.5 goles,1000
+2026-11-03,Charlton vs Bolton,corta,3,0.3895,1,3,0.7243,,,0,,Menos de 5.5 tiros a puerta de Charlton + Menos de 2.5 tarjetas de Charlton + Menos de 11.5 faltas de Charlton,111
+2026-11-03,Charlton vs Bolton,larga,5,0.1313,1,5,0.6587,,,0,,Menos de 5.5 tiros a puerta de Charlton + Menos de 2.5 tarjetas de Charlton + Menos de 11.5 faltas de Charlton + Menos de 2.5 goles + Menos de 10.5 córners,11111
+2026-11-03,Derby vs Norwich,corta,3,0.3707,1,3,0.7217,,,0,,Menos de 5.5 tiros a puerta de Derby + Menos de 11.5 faltas de Norwich + Menos de 2.5 tarjetas de Derby,111
+2026-11-03,Portsmouth vs Swansea,corta,2,0.5035,1,2,0.7176,,,0,,Menos de 2.5 tarjetas de Portsmouth + Menos de 5.5 tiros a puerta de Portsmouth,11
+2026-11-03,Portsmouth vs Swansea,larga,5,0.1005,0,2,0.6281,,,0,,Menos de 2.5 tarjetas de Portsmouth + Menos de 5.5 tiros a puerta de Portsmouth + Menos de 4.5 córners de Swansea + Menos de 2.5 goles + Más de 22.5 faltas,11000
+2026-11-03,Preston vs Sheffield Utd,corta,3,0.4201,1,3,0.7359,,,0,,Menos de 5.5 tiros a puerta de Preston + Menos de 2.5 tarjetas de Sheffield Utd + Menos de 22.5 faltas,111
+2026-11-03,Watford vs Lincoln,corta,3,0.3176,0,2,0.6562,,,0,,Menos de 4.5 tiros a puerta de Lincoln + Menos de 2.5 tarjetas de Watford + Menos de 2.5 goles,101
+2026-11-03,Watford vs Lincoln,larga,4,0.1883,0,2,0.6329,,,0,,Menos de 4.5 tiros a puerta de Lincoln + Menos de 2.5 tarjetas de Watford + Menos de 2.5 goles + Menos de 4.5 córners de Lincoln,1010
+2026-11-03,Birmingham vs Millwall,corta,3,0.4469,0,2,0.7544,,,0,,Menos de 11.5 faltas de Birmingham + Menos de 4.5 tiros a puerta de Millwall + Menos de 2.5 tarjetas de Birmingham,011
+2026-11-03,Birmingham vs Millwall,larga,5,0.1604,0,3,0.6763,,,0,,Menos de 11.5 faltas de Birmingham + Menos de 4.5 tiros a puerta de Millwall + Menos de 2.5 tarjetas de Birmingham + Menos de 4.5 córners de Millwall + Menos de 2.5 goles,01110
+2026-11-03,West Brom vs Southampton,corta,3,0.3321,0,2,0.6842,,,0,,Menos de 5.5 tiros a puerta de West Brom + Menos de 2.5 tarjetas de West Brom + Menos de 11.5 faltas de West Brom,110

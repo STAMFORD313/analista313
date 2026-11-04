@@ -1171,8 +1171,8 @@
   "cs2|133098",
   "cs2|133218",
   "fc|2359890",
-  "fc|2361118",
-  "fc|2359887"
+  "fc|2359891",
+  "fc|2361118"
  ],
  "signals": [
   {
@@ -8619,7 +8619,11 @@
    "bajas": "Blackburn: 1 fuera, 0 duda (Lewis Miller); Stoke: sin bajas",
    "considered": true,
    "placed": false,
-   "combo_anunciada": true
+   "combo_anunciada": true,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "1-2",
+   "logged": true
   },
   {
    "market": "corners_h_u",
@@ -8641,7 +8645,11 @@
    "bajas": "Blackburn: 1 fuera, 0 duda (Lewis Miller); Stoke: sin bajas",
    "considered": true,
    "placed": false,
-   "combo_anunciada": true
+   "combo_anunciada": true,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "1-2",
+   "logged": true
   },
   {
    "market": "corners_t_o",
@@ -8663,7 +8671,11 @@
    "bajas": "Blackburn: 1 fuera, 0 duda (Lewis Miller); Stoke: sin bajas",
    "considered": true,
    "placed": false,
-   "combo_anunciada": true
+   "combo_anunciada": true,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "1-2",
+   "logged": true
   },
   {
    "market": "corners_t_u",
@@ -8685,7 +8697,11 @@
    "bajas": "Blackburn: 1 fuera, 0 duda (Lewis Miller); Stoke: sin bajas",
    "considered": true,
    "placed": false,
-   "combo_anunciada": true
+   "combo_anunciada": true,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "1-2",
+   "logged": true
   },
   {
    "market": "corners_a_o",
@@ -8707,7 +8723,11 @@
    "bajas": "Blackburn: 1 fuera, 0 duda (Lewis Miller); Stoke: sin bajas",
    "considered": true,
    "placed": false,
-   "combo_anunciada": true
+   "combo_anunciada": true,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "1-2",
+   "logged": true
   },
   {
    "market": "corners_a_u",
@@ -8729,7 +8749,11 @@
    "bajas": "Blackburn: 1 fuera, 0 duda (Lewis Miller); Stoke: sin bajas",
    "considered": true,
    "placed": false,
-   "combo_anunciada": true
+   "combo_anunciada": true,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "1-2",
+   "logged": true
   },
   {
    "market": "AHA",
@@ -8773,7 +8797,11 @@
    "bajas": "Charlton: 1 fuera, 0 duda (Zach Mitchell); Bolton: sin bajas",
    "considered": true,
    "placed": false,
-   "combo_anunciada": true
+   "combo_anunciada": true,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "0-1",
+   "logged": true
   },
   {
    "market": "corners_a_u",
@@ -8795,7 +8823,11 @@
    "bajas": "Charlton: 1 fuera, 0 duda (Zach Mitchell); Bolton: sin bajas",
    "considered": true,
    "placed": false,
-   "combo_anunciada": true
+   "combo_anunciada": true,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "0-1",
+   "logged": true
   },
   {
    "market": "corners_h_o",
@@ -8817,7 +8849,11 @@
    "bajas": "Charlton: 1 fuera, 0 duda (Zach Mitchell); Bolton: sin bajas",
    "considered": true,
    "placed": false,
-   "combo_anunciada": true
+   "combo_anunciada": true,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "0-1",
+   "logged": true
   },
   {
    "market": "corners_h_u",
@@ -8839,7 +8875,11 @@
    "bajas": "Charlton: 1 fuera, 0 duda (Zach Mitchell); Bolton: sin bajas",
    "considered": true,
    "placed": false,
-   "combo_anunciada": true
+   "combo_anunciada": true,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "0-1",
+   "logged": true
   },
   {
    "market": "corners_t_o",
@@ -8861,7 +8901,11 @@
    "bajas": "Charlton: 1 fuera, 0 duda (Zach Mitchell); Bolton: sin bajas",
    "considered": true,
    "placed": false,
-   "combo_anunciada": true
+   "combo_anunciada": true,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "0-1",
+   "logged": true
   },
   {
    "market": "corners_t_u",
@@ -8883,7 +8927,11 @@
    "bajas": "Charlton: 1 fuera, 0 duda (Zach Mitchell); Bolton: sin bajas",
    "considered": true,
    "placed": false,
-   "combo_anunciada": true
+   "combo_anunciada": true,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "0-1",
+   "logged": true
   },
   {
    "market": "O25",
@@ -8932,7 +8980,11 @@
     "modelo": "gemini-flash-lite-latest"
    },
    "placed": false,
-   "combo_anunciada": true
+   "combo_anunciada": true,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "0-4",
+   "logged": true
   },
   {
    "market": "corners_h_u",
@@ -8954,7 +9006,11 @@
    "bajas": "Derby: 0 fuera, 5 duda; Norwich: 1 fuera, 1 duda (Gabriel Forsyth)",
    "considered": true,
    "placed": false,
-   "combo_anunciada": true
+   "combo_anunciada": true,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "0-4",
+   "logged": true
   },
   {
    "market": "corners_t_o",
@@ -8976,7 +9032,11 @@
    "bajas": "Derby: 0 fuera, 5 duda; Norwich: 1 fuera, 1 duda (Gabriel Forsyth)",
    "considered": true,
    "placed": false,
-   "combo_anunciada": true
+   "combo_anunciada": true,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "0-4",
+   "logged": true
   },
   {
    "market": "corners_t_u",
@@ -8998,7 +9058,11 @@
    "bajas": "Derby: 0 fuera, 5 duda; Norwich: 1 fuera, 1 duda (Gabriel Forsyth)",
    "considered": true,
    "placed": false,
-   "combo_anunciada": true
+   "combo_anunciada": true,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "0-4",
+   "logged": true
   },
   {
    "market": "corners_a_o",
@@ -9020,7 +9084,11 @@
    "bajas": "Derby: 0 fuera, 5 duda; Norwich: 1 fuera, 1 duda (Gabriel Forsyth)",
    "considered": true,
    "placed": false,
-   "combo_anunciada": true
+   "combo_anunciada": true,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "0-4",
+   "logged": true
   },
   {
    "market": "corners_a_u",
@@ -9042,7 +9110,11 @@
    "bajas": "Derby: 0 fuera, 5 duda; Norwich: 1 fuera, 1 duda (Gabriel Forsyth)",
    "considered": true,
    "placed": false,
-   "combo_anunciada": true
+   "combo_anunciada": true,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "0-4",
+   "logged": true
   },
   {
    "market": "D",
@@ -9085,7 +9157,11 @@
    "bajas": "Portsmouth: 1 fuera, 1 duda (Mark Kosznovszky); Swansea: 0 fuera, 1 duda",
    "considered": true,
    "placed": false,
-   "combo_anunciada": true
+   "combo_anunciada": true,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "3-1",
+   "logged": true
   },
   {
    "market": "corners_t_u",
@@ -9107,7 +9183,11 @@
    "bajas": "Portsmouth: 1 fuera, 1 duda (Mark Kosznovszky); Swansea: 0 fuera, 1 duda",
    "considered": true,
    "placed": false,
-   "combo_anunciada": true
+   "combo_anunciada": true,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "3-1",
+   "logged": true
   },
   {
    "market": "corners_h_o",
@@ -9129,7 +9209,11 @@
    "bajas": "Portsmouth: 1 fuera, 1 duda (Mark Kosznovszky); Swansea: 0 fuera, 1 duda",
    "considered": true,
    "placed": false,
-   "combo_anunciada": true
+   "combo_anunciada": true,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "3-1",
+   "logged": true
   },
   {
    "market": "corners_h_u",
@@ -9151,7 +9235,11 @@
    "bajas": "Portsmouth: 1 fuera, 1 duda (Mark Kosznovszky); Swansea: 0 fuera, 1 duda",
    "considered": true,
    "placed": false,
-   "combo_anunciada": true
+   "combo_anunciada": true,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "3-1",
+   "logged": true
   },
   {
    "market": "corners_a_o",
@@ -9173,7 +9261,11 @@
    "bajas": "Portsmouth: 1 fuera, 1 duda (Mark Kosznovszky); Swansea: 0 fuera, 1 duda",
    "considered": true,
    "placed": false,
-   "combo_anunciada": true
+   "combo_anunciada": true,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "3-1",
+   "logged": true
   },
   {
    "market": "corners_a_u",
@@ -9195,7 +9287,11 @@
    "bajas": "Portsmouth: 1 fuera, 1 duda (Mark Kosznovszky); Swansea: 0 fuera, 1 duda",
    "considered": true,
    "placed": false,
-   "combo_anunciada": true
+   "combo_anunciada": true,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "3-1",
+   "logged": true
   },
   {
    "market": "AHH",
@@ -9239,7 +9335,11 @@
    "bajas": "Preston: 0 fuera, 2 duda; Sheffield Utd: sin bajas",
    "considered": true,
    "placed": false,
-   "combo_anunciada": true
+   "combo_anunciada": true,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "2-3",
+   "logged": true
   },
   {
    "market": "corners_t_u",
@@ -9261,7 +9361,11 @@
    "bajas": "Preston: 0 fuera, 2 duda; Sheffield Utd: sin bajas",
    "considered": true,
    "placed": false,
-   "combo_anunciada": true
+   "combo_anunciada": true,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "2-3",
+   "logged": true
   },
   {
    "market": "corners_h_o",
@@ -9283,7 +9387,11 @@
    "bajas": "Preston: 0 fuera, 2 duda; Sheffield Utd: sin bajas",
    "considered": true,
    "placed": false,
-   "combo_anunciada": true
+   "combo_anunciada": true,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "2-3",
+   "logged": true
   },
   {
    "market": "corners_h_u",
@@ -9305,7 +9413,11 @@
    "bajas": "Preston: 0 fuera, 2 duda; Sheffield Utd: sin bajas",
    "considered": true,
    "placed": false,
-   "combo_anunciada": true
+   "combo_anunciada": true,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "2-3",
+   "logged": true
   },
   {
    "market": "corners_a_u",
@@ -9327,7 +9439,11 @@
    "bajas": "Preston: 0 fuera, 2 duda; Sheffield Utd: sin bajas",
    "considered": true,
    "placed": false,
-   "combo_anunciada": true
+   "combo_anunciada": true,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "2-3",
+   "logged": true
   },
   {
    "market": "corners_a_o",
@@ -9349,7 +9465,11 @@
    "bajas": "Preston: 0 fuera, 2 duda; Sheffield Utd: sin bajas",
    "considered": true,
    "placed": false,
-   "combo_anunciada": true
+   "combo_anunciada": true,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "2-3",
+   "logged": true
   },
   {
    "market": "A",
@@ -9413,7 +9533,11 @@
    "bajas": "Watford: sin bajas; Lincoln: 1 fuera, 1 duda (Tendayi Darikwa)",
    "considered": true,
    "placed": false,
-   "combo_anunciada": true
+   "combo_anunciada": true,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "1-0",
+   "logged": true
   },
   {
    "market": "corners_h_u",
@@ -9435,7 +9559,11 @@
    "bajas": "Watford: sin bajas; Lincoln: 1 fuera, 1 duda (Tendayi Darikwa)",
    "considered": true,
    "placed": false,
-   "combo_anunciada": true
+   "combo_anunciada": true,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "1-0",
+   "logged": true
   },
   {
    "market": "corners_t_o",
@@ -9457,7 +9585,11 @@
    "bajas": "Watford: sin bajas; Lincoln: 1 fuera, 1 duda (Tendayi Darikwa)",
    "considered": true,
    "placed": false,
-   "combo_anunciada": true
+   "combo_anunciada": true,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "1-0",
+   "logged": true
   },
   {
    "market": "corners_t_u",
@@ -9479,7 +9611,11 @@
    "bajas": "Watford: sin bajas; Lincoln: 1 fuera, 1 duda (Tendayi Darikwa)",
    "considered": true,
    "placed": false,
-   "combo_anunciada": true
+   "combo_anunciada": true,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "1-0",
+   "logged": true
   },
   {
    "market": "corners_a_o",
@@ -9501,7 +9637,11 @@
    "bajas": "Watford: sin bajas; Lincoln: 1 fuera, 1 duda (Tendayi Darikwa)",
    "considered": true,
    "placed": false,
-   "combo_anunciada": true
+   "combo_anunciada": true,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "1-0",
+   "logged": true
   },
   {
    "market": "corners_a_u",
@@ -9523,7 +9663,11 @@
    "bajas": "Watford: sin bajas; Lincoln: 1 fuera, 1 duda (Tendayi Darikwa)",
    "considered": true,
    "placed": false,
-   "combo_anunciada": true
+   "combo_anunciada": true,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "1-0",
+   "logged": true
   },
   {
    "market": "A",
@@ -9566,7 +9710,11 @@
    "bajas": "Birmingham: 0 fuera, 1 duda; Millwall: 0 fuera, 1 duda",
    "considered": true,
    "placed": false,
-   "combo_anunciada": true
+   "combo_anunciada": true,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "3-0",
+   "logged": true
   },
   {
    "market": "corners_h_u",
@@ -9588,7 +9736,11 @@
    "bajas": "Birmingham: 0 fuera, 1 duda; Millwall: 0 fuera, 1 duda",
    "considered": true,
    "placed": false,
-   "combo_anunciada": true
+   "combo_anunciada": true,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "3-0",
+   "logged": true
   },
   {
    "market": "corners_a_u",
@@ -9610,7 +9762,11 @@
    "bajas": "Birmingham: 0 fuera, 1 duda; Millwall: 0 fuera, 1 duda",
    "considered": true,
    "placed": false,
-   "combo_anunciada": true
+   "combo_anunciada": true,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "3-0",
+   "logged": true
   },
   {
    "market": "corners_a_o",
@@ -9632,7 +9788,11 @@
    "bajas": "Birmingham: 0 fuera, 1 duda; Millwall: 0 fuera, 1 duda",
    "considered": true,
    "placed": false,
-   "combo_anunciada": true
+   "combo_anunciada": true,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "3-0",
+   "logged": true
   },
   {
    "market": "corners_t_u",
@@ -9654,7 +9814,11 @@
    "bajas": "Birmingham: 0 fuera, 1 duda; Millwall: 0 fuera, 1 duda",
    "considered": true,
    "placed": false,
-   "combo_anunciada": true
+   "combo_anunciada": true,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "3-0",
+   "logged": true
   },
   {
    "market": "corners_t_o",
@@ -9676,7 +9840,11 @@
    "bajas": "Birmingham: 0 fuera, 1 duda; Millwall: 0 fuera, 1 duda",
    "considered": true,
    "placed": false,
-   "combo_anunciada": true
+   "combo_anunciada": true,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "3-0",
+   "logged": true
   },
   {
    "market": "D",
@@ -9719,7 +9887,11 @@
    "bajas": "West Brom: sin bajas; Southampton: sin bajas",
    "considered": true,
    "placed": false,
-   "combo_anunciada": true
+   "combo_anunciada": true,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "1-1",
+   "logged": true
   },
   {
    "market": "corners_h_u",
@@ -9741,7 +9913,11 @@
    "bajas": "West Brom: sin bajas; Southampton: sin bajas",
    "considered": true,
    "placed": false,
-   "combo_anunciada": true
+   "combo_anunciada": true,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "1-1",
+   "logged": true
   },
   {
    "market": "corners_t_o",
@@ -9763,7 +9939,11 @@
    "bajas": "West Brom: sin bajas; Southampton: sin bajas",
    "considered": true,
    "placed": false,
-   "combo_anunciada": true
+   "combo_anunciada": true,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "1-1",
+   "logged": true
   },
   {
    "market": "corners_t_u",
@@ -9785,7 +9965,11 @@
    "bajas": "West Brom: sin bajas; Southampton: sin bajas",
    "considered": true,
    "placed": false,
-   "combo_anunciada": true
+   "combo_anunciada": true,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "1-1",
+   "logged": true
   },
   {
    "market": "corners_a_o",
@@ -9807,7 +9991,11 @@
    "bajas": "West Brom: sin bajas; Southampton: sin bajas",
    "considered": true,
    "placed": false,
-   "combo_anunciada": true
+   "combo_anunciada": true,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "1-1",
+   "logged": true
   },
   {
    "market": "corners_a_u",
@@ -9829,7 +10017,11 @@
    "bajas": "West Brom: sin bajas; Southampton: sin bajas",
    "considered": true,
    "placed": false,
-   "combo_anunciada": true
+   "combo_anunciada": true,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "1-1",
+   "logged": true
   },
   {
    "market": "H",
@@ -14741,7 +14933,10 @@
    "version": "e240f08",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "2-1",
+   "result": true,
+   "logged": true
   },
   {
    "market": "D",
@@ -14762,7 +14957,10 @@
    "version": "d0b1654",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "1-3",
+   "result": false,
+   "logged": true
   },
   {
    "market": "H",
@@ -14782,7 +14980,10 @@
    "version": "d0b1654",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "3-2",
+   "result": true,
+   "logged": true
   },
   {
    "market": "H",
@@ -14802,7 +15003,10 @@
    "version": "d0b1654",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "4-1",
+   "result": true,
+   "logged": true
   },
   {
    "market": "H",
@@ -14845,7 +15049,10 @@
    "version": "99bd027",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "4-1",
+   "result": true,
+   "logged": true
   },
   {
    "market": "H",
@@ -14865,7 +15072,10 @@
    "version": "99bd027",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "3-6",
+   "result": false,
+   "logged": true
   },
   {
    "market": "A",
@@ -14907,7 +15117,10 @@
    "version": "ac73879",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "1-3",
+   "result": false,
+   "logged": true
   },
   {
    "market": "A",
@@ -14928,7 +15141,10 @@
    "version": "ac73879",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "2-5",
+   "result": true,
+   "logged": true
   },
   {
    "market": "A",
@@ -15033,7 +15249,10 @@
    "version": "e018207",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "5-1",
+   "result": false,
+   "logged": true
   },
   {
    "market": "A",
@@ -15134,7 +15353,7 @@
    "league": "🎮⚽ FC 27 · Champions League A",
    "sport": "🎮⚽",
    "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 55.336 partidos)",
+    "📊 <b>Escenarios</b> (Poisson por jugador, 55.354 partidos)",
     "Goles esperados: RossFCDK 1.76 · hotShot 2.26",
     "Ganador: RossFCDK 28% · empate 24% · hotShot 49%",
     "Total: más de 4.5 goles 37% · menos 63%",
@@ -15147,8 +15366,42 @@
     "• Unibet: 1 3.45 · X 2.30 · 2 2.33 (sin margen 25%/38%/37%) · ventaja +14%. Sin stake hasta demostrar ROI con estas cuotas."
    ],
    "context": "EA FC Esoccer Battle RossFCDK vs hotShot (Champions League A): goles esperados 1.76-2.26, 1X2 28%/24%/49%. Sin cuotas de casa.",
-   "captured": "2026-11-04T03:10",
-   "version": "85f7215",
+   "captured": "2026-11-04T03:14",
+   "version": "e859e56",
+   "bajas": "",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "A",
+   "pick": "Kray",
+   "odds": 1.65,
+   "book": "Unibet",
+   "implied": 0.531,
+   "edge": 0.077,
+   "sin_stake": true,
+   "p": 0.653,
+   "key": "fc|2359891",
+   "match": "RossFCDK vs Kray",
+   "start": "2026-11-04T03:50:00+00:00",
+   "league": "🎮⚽ FC 27 · Serie A",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 55.354 partidos)",
+    "Goles esperados: RossFCDK 2.36 · Kray 3.75",
+    "Ganador: RossFCDK 19% · empate 16% · Kray 65%",
+    "Total: más de 6.5 goles 41% · menos 59%",
+    "Hándicap Kray: −1.5 47% · −2.5 32%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: RossFCDK ✅❌✅❌➖ | Kray ❌✅✅✅❌",
+    "• Partidos: RossFCDK 467 | Kray 503",
+    "• Liga: Serie A",
+    "• Unibet: 1 3.10 · X 4.70 · 2 1.65 (sin margen 28%/19%/53%) · ventaja +8%. Sin stake hasta demostrar ROI con estas cuotas."
+   ],
+   "context": "EA FC Esoccer Battle RossFCDK vs Kray (Serie A): goles esperados 2.36-3.75, 1X2 19%/16%/65%. Sin cuotas de casa.",
+   "captured": "2026-11-04T03:14",
+   "version": "e859e56",
    "bajas": "",
    "considered": true,
    "placed": false
@@ -15168,7 +15421,7 @@
    "league": "🎮⚽ FC 27 · LaLiga 2x6",
    "sport": "🎮⚽",
    "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 55.336 partidos)",
+    "📊 <b>Escenarios</b> (Poisson por jugador, 55.354 partidos)",
     "Goles esperados: Stenido 3.80 · Solya 6.32",
     "Ganador: Stenido 14% · empate 10% · Solya 77%",
     "Total: más de 10.5 goles 43% · menos 57%",
@@ -15181,42 +15434,8 @@
     "• Unibet: 1 3.95 · X 6.40 · 2 1.34 (sin margen 22%/14%/65%) · ventaja +3%. Sin stake hasta demostrar ROI con estas cuotas."
    ],
    "context": "EA FC Esoccer Battle Stenido vs Solya (LaLiga 2x6): goles esperados 3.80-6.32, 1X2 14%/10%/77%. Sin cuotas de casa.",
-   "captured": "2026-11-04T03:10",
-   "version": "85f7215",
-   "bajas": "",
-   "considered": true,
-   "placed": false
-  },
-  {
-   "market": "H",
-   "pick": "hotShot",
-   "odds": 3.65,
-   "book": "Unibet",
-   "implied": 0.239,
-   "edge": 0.009,
-   "sin_stake": true,
-   "p": 0.276,
-   "key": "fc|2359887",
-   "match": "hotShot vs Inquisitor",
-   "start": "2026-11-04T03:16:00+00:00",
-   "league": "🎮⚽ FC 27 · Champions League A",
-   "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 55.336 partidos)",
-    "Goles esperados: hotShot 1.81 · Inquisitor 2.32",
-    "Ganador: hotShot 28% · empate 23% · Inquisitor 49%",
-    "Total: más de 4.5 goles 40% · menos 60%",
-    "Hándicap Inquisitor: −1.5 30% · −2.5 16%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: hotShot ❌❌✅❌➖ | Inquisitor ✅➖✅✅✅",
-    "• Partidos: hotShot 468 | Inquisitor 504",
-    "• Liga: Champions League A",
-    "• Unibet: 1 3.65 · X 2.95 · 2 1.87 (sin margen 24%/30%/47%) · ventaja +1%. Sin stake hasta demostrar ROI con estas cuotas."
-   ],
-   "context": "EA FC Esoccer Battle hotShot vs Inquisitor (Champions League A): goles esperados 1.81-2.32, 1X2 28%/23%/49%. Sin cuotas de casa.",
-   "captured": "2026-11-04T03:10",
-   "version": "85f7215",
+   "captured": "2026-11-04T03:14",
+   "version": "e859e56",
    "bajas": "",
    "considered": true,
    "placed": false
@@ -15638,313 +15857,6 @@
  "scoreboard_text": "📊 <b>MARCADOR DEL BOT</b>\n━━━━━━━━━━━━━━━\n🟩 Ganadas: <b>8</b> (35 %)\n🟥 Perdidas: <b>15</b> (65 %)\n⏳ En juego: 4\n\nÚltimas 23:\n🟥🟥🟥🟩🟥🟩🟥🟥🟥🟥🟥🟥🟥🟥🟩🟥🟥🟩🟩🟩🟩🟩🟥\n━━━━━━━━━━━━━━━\n💵 Beneficio -15.04 $ · ROI -32.4 %\n📐 CLV medio +2.5 % (cuota cogida vs cierre)\n💰 Banca: <b>84.96 €</b> (-15.04 € desde 100 €) · libre 79.50 €{\"inline_keyboard\": [[{\"text\": \"\\ud83d\\udcc8 Ver historial completo y fallos\", \"url\": \"https://github.com/STAMFORD313/analista313/blob/main/ESTADISTICAS.md\"}], [{\"text\": \"\\u26bd F\\u00fatbol\", \"callback_data\": \"dep:futbol\"}, {\"text\": \"\\ud83c\\udfc0 NBA\\u00b7NCAA\", \"callback_data\": \"dep:nba\"}, {\"text\": \"\\ud83c\\udfc8 NFL\\u00b7NCAA\", \"callback_data\": \"dep:nfl\"}], [{\"text\": \"\\ud83c\\udfc6 Champions\\u00b7Europa\", \"callback_data\": \"dep:europa\"}, {\"text\": \"\\ud83c\\udfd2 NHL\", \"callback_data\": \"dep:nhl\"}, {\"text\": \"\\u26be MLB\", \"callback_data\": \"dep:mlb\"}], [{\"text\": \"\\ud83e\\udd4a UFC\", \"callback_data\": \"dep:ufc\"}, {\"text\": \"\\ud83c\\udfbe Tenis\", \"callback_data\": \"dep:tenis\"}, {\"text\": \"\\ud83c\\udfae CS2\", \"callback_data\": \"dep:cs2\"}], [{\"text\": \"\\ud83d\\udc09 Dota 2\", \"callback_data\": \"dep:dota2\"}, {\"text\": \"\\ud83e\\uddd9 LoL\", \"callback_data\": \"dep:lol\"}, {\"text\": \"\\ud83d\\udd2b R6 Siege\", \"callback_data\": \"dep:r6\"}], [{\"text\": \"\\ud83d\\udcf1 MLBB\", \"callback_data\": \"dep:mlbb\"}, {\"text\": \"\\ud83c\\udfae\\u26bd FC 27\", \"callback_data\": \"dep:fc\"}]]}",
  "fc_sent": "2026-11-03T23:29:21.942368+00:00",
  "sgp": {
-  "E1|2026-11-03|Blackburn|Stoke": {
-   "match": "Blackburn vs Stoke",
-   "start": "2026-11-03T19:45:00+00:00",
-   "combos": [
-    {
-     "kind": "corta",
-     "p": 0.4156,
-     "legs": [
-      {
-       "var": "sot_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.7544,
-       "text": "Menos de 4.5 tiros a puerta de Stoke",
-       "odds": null
-      },
-      {
-       "var": "fouls_h",
-       "sign": -1,
-       "line": 11.5,
-       "p": 0.7471,
-       "text": "Menos de 11.5 faltas de Blackburn",
-       "odds": null
-      },
-      {
-       "var": "cards_h",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.7012,
-       "text": "Menos de 2.5 tarjetas de Blackburn",
-       "odds": null
-      }
-     ]
-    },
-    {
-     "kind": "larga",
-     "p": 0.2895,
-     "legs": [
-      {
-       "var": "sot_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.7544,
-       "text": "Menos de 4.5 tiros a puerta de Stoke",
-       "odds": null
-      },
-      {
-       "var": "fouls_h",
-       "sign": -1,
-       "line": 11.5,
-       "p": 0.7471,
-       "text": "Menos de 11.5 faltas de Blackburn",
-       "odds": null
-      },
-      {
-       "var": "cards_h",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.7012,
-       "text": "Menos de 2.5 tarjetas de Blackburn",
-       "odds": null
-      },
-      {
-       "var": "goals_t",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.6367,
-       "text": "Menos de 2.5 goles",
-       "odds": 1.76
-      }
-     ]
-    }
-   ],
-   "priced": true
-  },
-  "E1|2026-11-03|Charlton|Bolton": {
-   "match": "Charlton vs Bolton",
-   "start": "2026-11-03T19:45:00+00:00",
-   "combos": [
-    {
-     "kind": "corta",
-     "p": 0.3895,
-     "legs": [
-      {
-       "var": "sot_h",
-       "sign": -1,
-       "line": 5.5,
-       "p": 0.7812,
-       "text": "Menos de 5.5 tiros a puerta de Charlton",
-       "odds": null
-      },
-      {
-       "var": "cards_h",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.7534,
-       "text": "Menos de 2.5 tarjetas de Charlton",
-       "odds": null
-      },
-      {
-       "var": "fouls_h",
-       "sign": -1,
-       "line": 11.5,
-       "p": 0.6384,
-       "text": "Menos de 11.5 faltas de Charlton",
-       "odds": null
-      }
-     ]
-    },
-    {
-     "kind": "larga",
-     "p": 0.1313,
-     "legs": [
-      {
-       "var": "sot_h",
-       "sign": -1,
-       "line": 5.5,
-       "p": 0.7812,
-       "text": "Menos de 5.5 tiros a puerta de Charlton",
-       "odds": null
-      },
-      {
-       "var": "cards_h",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.7534,
-       "text": "Menos de 2.5 tarjetas de Charlton",
-       "odds": null
-      },
-      {
-       "var": "fouls_h",
-       "sign": -1,
-       "line": 11.5,
-       "p": 0.6384,
-       "text": "Menos de 11.5 faltas de Charlton",
-       "odds": null
-      },
-      {
-       "var": "goals_t",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.5634,
-       "text": "Menos de 2.5 goles",
-       "odds": 2.05
-      },
-      {
-       "var": "corners_t",
-       "sign": -1,
-       "line": 10.5,
-       "p": 0.5571,
-       "text": "Menos de 10.5 córners",
-       "odds": 1.76
-      }
-     ]
-    }
-   ],
-   "priced": true
-  },
-  "E1|2026-11-03|Derby|Norwich": {
-   "match": "Derby vs Norwich",
-   "start": "2026-11-03T19:45:00+00:00",
-   "combos": [
-    {
-     "kind": "corta",
-     "p": 0.3707,
-     "legs": [
-      {
-       "var": "sot_h",
-       "sign": -1,
-       "line": 5.5,
-       "p": 0.7695,
-       "text": "Menos de 5.5 tiros a puerta de Derby",
-       "odds": null
-      },
-      {
-       "var": "fouls_a",
-       "sign": -1,
-       "line": 11.5,
-       "p": 0.7155,
-       "text": "Menos de 11.5 faltas de Norwich",
-       "odds": null
-      },
-      {
-       "var": "cards_h",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.6802,
-       "text": "Menos de 2.5 tarjetas de Derby",
-       "odds": null
-      }
-     ]
-    }
-   ],
-   "priced": true
-  },
-  "E1|2026-11-03|Portsmouth|Swansea": {
-   "match": "Portsmouth vs Swansea",
-   "start": "2026-11-03T19:45:00+00:00",
-   "combos": [
-    {
-     "kind": "corta",
-     "p": 0.5035,
-     "legs": [
-      {
-       "var": "cards_h",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.737,
-       "text": "Menos de 2.5 tarjetas de Portsmouth",
-       "odds": null
-      },
-      {
-       "var": "sot_h",
-       "sign": -1,
-       "line": 5.5,
-       "p": 0.6981,
-       "text": "Menos de 5.5 tiros a puerta de Portsmouth",
-       "odds": null
-      }
-     ]
-    },
-    {
-     "kind": "larga",
-     "p": 0.1005,
-     "legs": [
-      {
-       "var": "cards_h",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.737,
-       "text": "Menos de 2.5 tarjetas de Portsmouth",
-       "odds": null
-      },
-      {
-       "var": "sot_h",
-       "sign": -1,
-       "line": 5.5,
-       "p": 0.6981,
-       "text": "Menos de 5.5 tiros a puerta de Portsmouth",
-       "odds": null
-      },
-      {
-       "var": "corners_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.585,
-       "text": "Menos de 4.5 córners de Swansea",
-       "odds": 1.75
-      },
-      {
-       "var": "goals_t",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.561,
-       "text": "Menos de 2.5 goles",
-       "odds": 1.67
-      },
-      {
-       "var": "fouls_t",
-       "sign": 1,
-       "line": 22.5,
-       "p": 0.5596,
-       "text": "Más de 22.5 faltas",
-       "odds": null
-      }
-     ]
-    }
-   ],
-   "priced": true
-  },
-  "E1|2026-11-03|Preston|Sheffield Utd": {
-   "match": "Preston vs Sheffield Utd",
-   "start": "2026-11-03T19:45:00+00:00",
-   "combos": [
-    {
-     "kind": "corta",
-     "p": 0.4201,
-     "legs": [
-      {
-       "var": "sot_h",
-       "sign": -1,
-       "line": 5.5,
-       "p": 0.8152,
-       "text": "Menos de 5.5 tiros a puerta de Preston",
-       "odds": null
-      },
-      {
-       "var": "cards_a",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.7363,
-       "text": "Menos de 2.5 tarjetas de Sheffield Utd",
-       "odds": null
-      },
-      {
-       "var": "fouls_t",
-       "sign": -1,
-       "line": 22.5,
-       "p": 0.6562,
-       "text": "Menos de 22.5 faltas",
-       "odds": null
-      }
-     ]
-    }
-   ],
-   "priced": true
-  },
   "E1|2026-11-03|QPR|Burnley": {
    "match": "QPR vs Burnley",
    "start": "2026-11-03T19:45:00+00:00",
@@ -16018,201 +15930,6 @@
      ]
     }
    ]
-  },
-  "E1|2026-11-03|Watford|Lincoln": {
-   "match": "Watford vs Lincoln",
-   "start": "2026-11-03T19:45:00+00:00",
-   "combos": [
-    {
-     "kind": "corta",
-     "p": 0.3176,
-     "legs": [
-      {
-       "var": "sot_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.6996,
-       "text": "Menos de 4.5 tiros a puerta de Lincoln",
-       "odds": null
-      },
-      {
-       "var": "cards_h",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.6625,
-       "text": "Menos de 2.5 tarjetas de Watford",
-       "odds": null
-      },
-      {
-       "var": "goals_t",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.6065,
-       "text": "Menos de 2.5 goles",
-       "odds": 1.94
-      }
-     ]
-    },
-    {
-     "kind": "larga",
-     "p": 0.1883,
-     "legs": [
-      {
-       "var": "sot_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.6996,
-       "text": "Menos de 4.5 tiros a puerta de Lincoln",
-       "odds": null
-      },
-      {
-       "var": "cards_h",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.6625,
-       "text": "Menos de 2.5 tarjetas de Watford",
-       "odds": null
-      },
-      {
-       "var": "goals_t",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.6065,
-       "text": "Menos de 2.5 goles",
-       "odds": 1.94
-      },
-      {
-       "var": "corners_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.5631,
-       "text": "Menos de 4.5 córners de Lincoln",
-       "odds": 1.79
-      }
-     ]
-    }
-   ],
-   "priced": true
-  },
-  "E1|2026-11-03|Birmingham|Millwall": {
-   "match": "Birmingham vs Millwall",
-   "start": "2026-11-03T20:00:00+00:00",
-   "combos": [
-    {
-     "kind": "corta",
-     "p": 0.4469,
-     "legs": [
-      {
-       "var": "fouls_h",
-       "sign": -1,
-       "line": 11.5,
-       "p": 0.7654,
-       "text": "Menos de 11.5 faltas de Birmingham",
-       "odds": null
-      },
-      {
-       "var": "sot_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.7501,
-       "text": "Menos de 4.5 tiros a puerta de Millwall",
-       "odds": null
-      },
-      {
-       "var": "cards_h",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.7477,
-       "text": "Menos de 2.5 tarjetas de Birmingham",
-       "odds": null
-      }
-     ]
-    },
-    {
-     "kind": "larga",
-     "p": 0.1604,
-     "legs": [
-      {
-       "var": "fouls_h",
-       "sign": -1,
-       "line": 11.5,
-       "p": 0.7654,
-       "text": "Menos de 11.5 faltas de Birmingham",
-       "odds": null
-      },
-      {
-       "var": "sot_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.7501,
-       "text": "Menos de 4.5 tiros a puerta de Millwall",
-       "odds": null
-      },
-      {
-       "var": "cards_h",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.7477,
-       "text": "Menos de 2.5 tarjetas de Birmingham",
-       "odds": null
-      },
-      {
-       "var": "corners_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.5643,
-       "text": "Menos de 4.5 córners de Millwall",
-       "odds": 1.68
-      },
-      {
-       "var": "goals_t",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.554,
-       "text": "Menos de 2.5 goles",
-       "odds": 1.99
-      }
-     ]
-    }
-   ],
-   "priced": true
-  },
-  "E1|2026-11-03|West Brom|Southampton": {
-   "match": "West Brom vs Southampton",
-   "start": "2026-11-03T20:00:00+00:00",
-   "combos": [
-    {
-     "kind": "corta",
-     "p": 0.3321,
-     "legs": [
-      {
-       "var": "sot_h",
-       "sign": -1,
-       "line": 5.5,
-       "p": 0.7504,
-       "text": "Menos de 5.5 tiros a puerta de West Brom",
-       "odds": null
-      },
-      {
-       "var": "cards_h",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.6838,
-       "text": "Menos de 2.5 tarjetas de West Brom",
-       "odds": null
-      },
-      {
-       "var": "fouls_h",
-       "sign": -1,
-       "line": 11.5,
-       "p": 0.6184,
-       "text": "Menos de 11.5 faltas de West Brom",
-       "odds": null
-      }
-     ]
-    }
-   ],
-   "priced": true
   },
   "B1|2026-11-04|Kortrijk|KV Mechelen": {
    "match": "Kortrijk vs KV Mechelen",
@@ -16535,5 +16252,6 @@
   "E1|2026-11-04|Wrexham|Middlesbrough",
   "E1|2026-11-04|Bristol City|Wolves"
  ],
- "paper_sent": "2026-11-03T15:49:28.562023+00:00"
+ "paper_sent": "2026-11-03T15:49:28.562023+00:00",
+ "sgp_res_n": 13
 }
