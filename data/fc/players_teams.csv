@@ -55622,3 +55622,63 @@ id,tournament_id,club1,club2,ht1,ht2
 2362005,260929,Nice,Lyon,2,2
 2362006,260929,Paris,Nice,1,2
 2362007,260929,Monaco,Marseille,3,2
+2361588,260892,Germany,Netherlands,1,2
+2361589,260892,Norway,Czechia,2,1
+2361590,260892,Czechia,Germany,1,0
+2361591,260892,Netherlands,Morocco,4,3
+2361592,260892,Morocco,Czechia,1,3
+2361593,260892,Germany,Norway,4,2
+2361594,260892,Norway,Morocco,4,2
+2361595,260892,Czechia,Netherlands,2,1
+2361596,260892,Netherlands,Norway,2,2
+2361597,260892,Morocco,Germany,1,4
+2361598,260892,Netherlands,Germany,4,2
+2361599,260892,Czechia,Norway,2,2
+2361600,260892,Germany,Czechia,0,3
+2361601,260892,Morocco,Netherlands,2,3
+2361602,260892,Czechia,Morocco,2,3
+2361603,260892,Norway,Germany,2,2
+2361604,260892,Morocco,Norway,1,0
+2361605,260892,Netherlands,Czechia,3,1
+2361606,260892,Norway,Netherlands,2,1
+2361607,260892,Germany,Morocco,1,3
+2361668,260902,Roma,Juventus,0,0
+2361669,260902,Bologna,Sassuolo,2,1
+2361670,260902,Sassuolo,Roma,1,1
+2361671,260902,Juventus,Napoli,1,1
+2361672,260902,Napoli,Sassuolo,2,2
+2361673,260902,Roma,Bologna,4,2
+2361674,260902,Bologna,Napoli,0,3
+2361675,260902,Sassuolo,Juventus,4,1
+2361676,260902,Juventus,Bologna,3,0
+2361677,260902,Napoli,Roma,3,2
+2361678,260902,Juventus,Roma,1,2
+2361679,260902,Sassuolo,Bologna,3,0
+2361680,260902,Roma,Sassuolo,0,2
+2361681,260902,Napoli,Juventus,1,0
+2361682,260902,Sassuolo,Napoli,2,2
+2361683,260902,Bologna,Roma,0,0
+2361684,260902,Napoli,Bologna,1,1
+2361685,260902,Juventus,Sassuolo,1,2
+2361686,260902,Bologna,Juventus,0,0
+2361687,260902,Roma,Napoli,1,3
+2362722,260945,Middlesbrough,Wolves,4,2
+2362723,260945,West Ham,Burnley,2,0
+2362724,260945,Burnley,Middlesbrough,1,2
+2362725,260945,Wolves,Southampton,2,0
+2362726,260945,Southampton,Burnley,1,3
+2362727,260945,Middlesbrough,West Ham,0,1
+2362728,260945,West Ham,Southampton,1,0
+2362729,260945,Burnley,Wolves,1,1
+2362730,260945,Wolves,West Ham,3,3
+2362731,260945,Southampton,Middlesbrough,1,1
+2362732,260945,Wolves,Middlesbrough,5,0
+2362733,260945,Burnley,West Ham,1,4
+2362734,260945,Middlesbrough,Burnley,1,3
+2362735,260945,Southampton,Wolves,3,1
+2362736,260945,Burnley,Southampton,0,1
+2362737,260945,West Ham,Middlesbrough,2,0
+2362738,260945,Southampton,West Ham,3,0
+2362739,260945,Wolves,Burnley,2,3
+2362740,260945,West Ham,Wolves,1,2
+2362741,260945,Middlesbrough,Southampton,0,1
