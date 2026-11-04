@@ -1,6 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 04/11/2026 12:38 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 04/11/2026 12:42 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Ganger_29 vs Taz — 04/11 · 12:48
 
@@ -56,42 +56,6 @@ Hándicap Loka: −1.5 64% · −2.5 50%
 • Liga: CSL  
 • Unibet: 1 1.58 · X 5.50 · 2 3.10 (sin margen 56%/16%/28%) · ventaja +26%. Sin stake hasta demostrar ROI con estas cuotas.  
 
-## mko1919 vs Wboy — 04/11 · 13:03
-
-👀 candidata · 🎮⚽ FC 27 · World Cup B · **Gana mko1919** @ **3.95** (Unibet) · prob 28% vs casas 22% · ventaja +11%
-
-- ❌ Valor: ventaja +11% (mín. 11% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 55.722 partidos)  
-Goles esperados: mko1919 2.88 · Wboy 3.52  
-Ganador: mko1919 28% · empate 18% · Wboy 54%  
-Total: más de 6.5 goles 46% · menos 54%  
-Hándicap Wboy: −1.5 36% · −2.5 22%  
-🔎 **Claves**  
-• Forma: mko1919 ❌❌❌❌✅ | Wboy ✅➖✅❌❌  
-• Partidos: mko1919 1068 | Wboy 979  
-• Liga: World Cup B  
-• Unibet: 1 3.95 · X 4.10 · 2 1.56 (sin margen 22%/21%/56%) · ventaja +11%. Sin stake hasta demostrar ROI con estas cuotas.  
-
-## Jekunam vs dm1trena — 04/11 · 13:06
-
-👀 candidata · 🎮⚽ FC 27 · Bundesliga · **Gana Jekunam** @ **2.25** (Unibet) · prob 49% vs casas 38% · ventaja +11%
-
-- ❌ Valor: ventaja +11% (mín. 11% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 55.722 partidos)  
-Goles esperados: Jekunam 2.78 · dm1trena 2.33  
-Ganador: Jekunam 49% · empate 21% · dm1trena 30%  
-Total: más de 5.5 goles 40% · menos 60%  
-Hándicap Jekunam: −1.5 31% · −2.5 18%  
-🔎 **Claves**  
-• Forma: Jekunam ✅➖❌✅➖ | dm1trena ➖➖❌❌❌  
-• Partidos: Jekunam 970 | dm1trena 989  
-• Liga: Bundesliga  
-• Unibet: 1 2.25 · X 3.15 · 2 2.55 (sin margen 39%/28%/34%) · ventaja +11%. Sin stake hasta demostrar ROI con estas cuotas.  
-
 ## saportj vs crinner — 04/11 · 13:08
 
 👀 candidata · 🎮⚽ FC 27 · CSL · **Gana crinner** @ **1.79** (Unibet) · prob 66% vs casas 49% · ventaja +18%
@@ -109,4 +73,40 @@ Hándicap crinner: −1.5 46% · −2.5 30%
 • Partidos: saportj 620 | crinner 875  
 • Liga: CSL  
 • Unibet: 1 2.80 · X 4.40 · 2 1.79 (sin margen 31%/20%/49%) · ventaja +18%. Sin stake hasta demostrar ROI con estas cuotas.  
+
+## saportj vs Loka — 04/11 · 13:30
+
+👀 candidata · 🎮⚽ FC 27 · CSL · **Gana Loka** @ **1.64** (Unibet) · prob 78% vs casas 54% · ventaja +29%
+
+- ✅ Valor: ventaja +29% (mín. 15% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 55.722 partidos)  
+Goles esperados: saportj 2.33 · Loka 4.60  
+Ganador: saportj 11% · empate 11% · Loka 78%  
+Total: más de 6.5 goles 54% · menos 46%  
+Hándicap Loka: −1.5 61% · −2.5 46%  
+🔎 **Claves**  
+• Forma: saportj ✅❌❌❌❌ | Loka ✅✅❌❌✅  
+• Partidos: saportj 620 | Loka 1060  
+• Liga: CSL  
+• Unibet: 1 3.05 · X 5.00 · 2 1.64 (sin margen 29%/18%/54%) · ventaja +29%. Sin stake hasta demostrar ROI con estas cuotas.  
+
+## Tesla vs Ganger_29 — 04/11 · 13:34
+
+👀 candidata · 🎮⚽ FC 27 · FA Cup · **Gana Tesla** @ **1.68** (Unibet) · prob 68% vs casas 52% · ventaja +15%
+
+- ✅ Valor: ventaja +15% (mín. 12% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 55.722 partidos)  
+Goles esperados: Tesla 3.86 · Ganger_29 2.33  
+Ganador: Tesla 69% · empate 15% · Ganger_29 17%  
+Total: más de 6.5 goles 42% · menos 58%  
+Hándicap Tesla: −1.5 50% · −2.5 34%  
+🔎 **Claves**  
+• Forma: Tesla ➖➖✅✅✅ | Ganger_29 ❌❌❌❌❌  
+• Partidos: Tesla 860 | Ganger_29 720  
+• Liga: FA Cup  
+• Unibet: 1 1.68 · X 4.00 · 2 3.40 (sin margen 52%/22%/26%) · ventaja +15%. Sin stake hasta demostrar ROI con estas cuotas.  
 
