@@ -494,6 +494,7 @@ def day_combo(D, hours=48):
             kh, ka = tkey("futbol", home, D), tkey("futbol", away, D)
             if not (kh and ka): continue
             loc = t.tz_convert(TZ); m = f"{A.esc(home)} – {A.esc(away)} · {DIAS[loc.dayofweek]} {loc:%H:%M}"
+            if m in when: continue  # el mismo partido listado en dos competiciones
             when[m] = t
             cands += [(m, txt, q) for txt, q in safe_legs(kh, ka, D)]
     legs, p = pick_legs(cands, per_match=2)
@@ -581,9 +582,58 @@ def last_match(key, D):
     return f"{_who(e)}\nÚltimo partido ({d}): {res} {gf:g}-{ga:g} contra {A.esc(f.get('_rival', '?'))}" + (" en casa" if f.get("_casa") else " fuera")
 
 
-def answer(text):
-    """Respuesta HTML a un mensaje libre del dueño."""
+# ── conversación: memoria corta, respuestas a «sí/no» y el intérprete cuando las reglas no llegan ───────────────────
+YES_RX = r"^(si|sip|vale|venga|ok|okey|dale|claro|por favor|eso|ese|esa|adelante|hazlo|perfecto|de acuerdo|va)\b"
+NO_RX = r"^(no|nop|nada|deja|dejalo|olvidalo|otro|otra)\b"
+
+
+def offer(question, command):
+    """Pregunta que el bot deja hecha: si contestas «sí», ejecuta `command`."""
+    _CTX["oferta"] = command
+    return f"\n\n❓ {question}"
+
+
+def _plain(html_text): return re.sub(r"<[^>]+>", "", html_text).replace("\n", " ")[:300]
+
+
+def answer(text, depth=0):
+    """Respuesta HTML a un mensaje libre del dueño (escrito o de voz)."""
     t = text.strip()
+    hist = _CTX.setdefault("hist", [])
+    q = low(t)
+    pend = _CTX.pop("oferta", None)
+    if pend and re.match(YES_RX, q) and len(q.split()) <= 4: reply = answer(pend, depth + 1)
+    elif pend and re.match(NO_RX, q) and len(q.split()) <= 3: reply = "Vale 👍 ¿Qué quieres mirar entonces?"
+    else:
+        try: reply = _answer(t, short=len(t.split()) <= 5 or depth > 0)
+        except Exception as e: print("chat reglas", repr(e)); reply = None
+        if reply is None and depth == 0:
+            import interpreta
+            r = interpreta.route(t, hist + ([("bot", f"(ofrecía: {pend})")] if pend else []))
+            if r and r["orden"] and low(r["orden"]) != q: reply = answer(r["orden"], depth + 1)
+            elif r and r["respuesta"]: reply = A.esc(r["respuesta"])
+        if reply is None:
+            reply = _fallback(t)
+    if depth == 0:
+        hist += [("usuario", t), ("bot", _plain(reply))]; del hist[:-12]
+    return reply
+
+
+def _fallback(t):
+    """Sin entender la frase: mejor proponer algo concreto que un «no te entiendo»."""
+    D = db()
+    if _CTX.get("partido") and all(k in D for k in _CTX["partido"]):
+        h, a = (D[k]["name"] for k in _CTX["partido"])
+        return (f"No sé si te he entendido bien 🤔 ¿Hablas de <b>{A.esc(h)} – {A.esc(a)}</b>? Te puedo decir quién gana, "
+                f"las estadísticas o armarte la combinada segura." + offer("¿Te armo la combinada segura?", f"combinada {h} {a}"))
+    keys = find(t, D, n=1)
+    if keys: return stats_card(keys[0], D)
+    return ("No sé si te he entendido bien 🤔 Si me nombras un equipo o un jugador te digo sus números, quién gana o "
+            "una combinada segura." + offer("¿Te saco la combinada segura del día?", "combinada del día"))
+
+
+def _answer(t, short=True):
+    """Las reglas (sin IA). None si no entienden la frase."""
     if not t or re.match(r"^/?(ayuda|help|hola|que puedes)", norm(t)): return HELP
     D = db()
     q = low(t)
@@ -596,7 +646,8 @@ def answer(text):
         if re.search(r"del dia|de hoy|de manana|varios partidos|sub\w* la cuota|anad|mas piernas|mas cuota|lo maximo", q) or not (kh and ka and kh in D and ka in D): return day_combo(D)
         _CTX["partido"] = (kh, ka)
         if D[kh]["sport"] != "futbol": return "La combinada segura de momento es solo de fútbol."
-        return safe_combo(kh, ka, D)
+        h, a = D[kh]["name"], D[ka]["name"]
+        return safe_combo(kh, ka, D) + offer("¿La junto con otros partidos para subir más la cuota?", "combinada del día")
     if re.search(WIN_RX, q) and not re.search(r"mas de|menos de|over|under|\d\+", q):
         ks = find(t, D, n=2, kind="equipo")
         if len(ks) == 2: kh, ka = ks
@@ -610,10 +661,16 @@ def answer(text):
         _CTX["partido"] = (kh, ka)
         pick = next((k for k, x in (("H", kh), ("A", ka)) if x in ks), None) if odds_in(t) else None
         if pick is None and odds_in(t) and re.search(r"empate|\bx\b", q): pick = "D"
-        return winner(kh, ka, D, odds_in(t), pick)
+        return winner(kh, ka, D, odds_in(t), pick) + offer("¿Te armo la combinada segura de este partido?",
+                                                           f"combinada {D[kh]['name']} {D[ka]['name']}")
     if re.search(NEXT_RX, q) or re.search(LAST_RX, q):
         keys = find(t, D, n=1)
-        if keys: return next_match(keys[0], D) if re.search(NEXT_RX, q) else last_match(keys[0], D)
+        if keys and re.search(NEXT_RX, q):
+            out = next_match(keys[0], D); m = _CTX.get("partido")
+            if m and all(m) and "Próximo partido" in out:
+                out += offer("¿Quieres la combinada segura de este partido?", f"combinada {D[m[0]]['name']} {D[m[1]]['name']}")
+            return out
+        if keys: return last_match(keys[0], D)
     legs, odds = split_legs(t), odds_in(t)
     parsed = []
     for seg in legs:
@@ -622,8 +679,8 @@ def answer(text):
         if keys and leg["stat"] and leg["line"] is not None: parsed.append((keys, leg))
     if not parsed:
         keys = find(t, D, n=1)
-        if keys: return stats_card(keys[0], D)
-        return "No te he entendido 🤔\n\n" + HELP
+        if keys and (short or not __import__("interpreta").enabled()): return stats_card(keys[0], D)
+        return None
     out, ps = [], []
     for keys, leg in parsed:
         if len(keys) == 2 and not all(D[k]["kind"] == "equipo" for k in keys): keys = keys[:1]

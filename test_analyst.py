@@ -899,7 +899,7 @@ assert _CH.find("Real Madrid más de 5.5 córners", _D, kind="equipo") == ["futb
 _CH._DB.update(db=_D, t=1e18)
 _r = _CH.answer("Mbappé más de 1.5 tiros a puerta a 1.9"); assert "🟢" in _r and "Mbappé" in _r, _r
 assert "Combinada" in _CH.answer("Mbappé más de 1.5 tiros a puerta y Madrid Barcelona más de 9.5 córners @2.0")
-assert "Real Madrid" in _CH.answer("estadísticas del Real Madrid") and "No te he entendido" in _CH.answer("qwerty zzz")
+assert "Real Madrid" in _CH.answer("estadísticas del Real Madrid") and "No sé si te he entendido" in _CH.answer("qwerty zzz")
 for _e in _D.values():
     _e["leagues"] = {"SP1"}
     if _e["kind"] == "equipo":
@@ -953,3 +953,20 @@ try:
     assert _VZ.from_message({"voice": {"file_id": "x"}}) == "estadísticas de Mbappé" and _VZ.from_message({"text": "hola"}) is None
 finally: _VZ.download, _VZ.transcribe = _dl, _tr
 print("ok notas de voz")
+# conversación: «sí» responde a la pregunta del bot, «no» la descarta; sin entender, propone algo (intérprete simulado)
+import interpreta as _IP
+_CH._DB.update(db=_D, t=1e18); _CH._CTX.clear()
+_sb3 = _CH.scoreboard
+_CH.scoreboard = lambda sp, lg, days=21, team=None: [(pd.Timestamp.now(tz="UTC") + pd.Timedelta(hours=5), "Real Madrid", "Barcelona", "")] if lg == "SP1" else []
+_rt = _IP.route
+try:
+    _r = _CH.answer("¿quién gana Real Madrid Barcelona?"); assert "❓" in _r and _CH._CTX.get("oferta"), _r
+    _r = _CH.answer("sí"); assert "Real Madrid – Barcelona" in _r and "piernas" in _r, _r  # ejecuta lo ofrecido (la combinada)
+    _CH.answer("quién gana Real Madrid Barcelona"); assert "Vale" in _CH.answer("no") and not _CH._CTX.get("oferta")
+    _IP.route = lambda text, hist=(): {"orden": "estadísticas de Real Madrid", "respuesta": ""}
+    _r = _CH.answer("oye y qué tal le va últimamente al equipo blanco de la capital"); assert "Real Madrid" in _r and "Últimos" in _r, _r
+    _IP.route = lambda text, hist=(): None
+    _r = _CH.answer("zzz qqq"); assert "No te he entendido" not in _r and "❓" in _r, _r
+    assert len(_CH._CTX["hist"]) <= 12
+finally: _CH.scoreboard = _sb3; _IP.route = _rt; _CH._DB.clear(); _CH._DB["t"] = 0; _CH._CTX.clear(); _CH._BASE.clear()
+print("ok conversación del chat")

@@ -2,7 +2,7 @@ name: menu
 on:
   schedule: [{cron: "0 */5 * * *"}]   # cada 5 h arranca una escucha nueva de ~5 h 45 min: cubre las 24 h
   workflow_dispatch:
-  push: {branches: [main], paths: ["menu.py", "radar.py", "bankroll.py", "esports.py", "chat.py", "voz.py", ".github/workflows/menu.yml"]}
+  push: {branches: [main], paths: ["menu.py", "radar.py", "bankroll.py", "esports.py", "chat.py", "voz.py", "interpreta.py", ".github/workflows/menu.yml"]}
 concurrency: {group: menu, cancel-in-progress: true}   # la nueva releva a la anterior (un solo lector de Telegram)
 jobs:
   listen:
@@ -13,10 +13,11 @@ jobs:
       - uses: actions/setup-python@v5
         with: {python-version: "3.12", cache: pip}
       - run: pip install -r requirements.txt
-      - run: pip install faster-whisper   # notas de voz (voz.py): Whisper en la CPU, sin IA de pago; si falla, el chat de texto sigue
+      - run: pip install faster-whisper anthropic   # notas de voz (voz.py) e intérprete (interpreta.py); si falla, el chat con reglas sigue
         continue-on-error: true
       - run: python menu.py
         env:
           PYTHONUNBUFFERED: "1"   # que los errores salgan en el log al momento
           TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}   # opcional: sin él, el chat solo usa reglas
