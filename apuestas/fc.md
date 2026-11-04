@@ -1,6 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 04/11/2026 03:10 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 04/11/2026 03:14 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Kavviro vs kkikus — 04/11 · 03:15
 
@@ -145,6 +145,24 @@ Hándicap Sheva: −1.5 72% · −2.5 57%
 • Partidos: Sheva 1294 | Yerema 528  
 • Liga: Volta International A  
 • Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
+
+## Solya vs Stenido — 04/11 · 03:44
+
+👀 candidata · 🎮⚽ FC 27 · LaLiga 2x6 · **Gana Solya** @ **1.33** (Unibet) · prob 76% vs casas 65% · ventaja +2%
+
+- ❌ Valor: ventaja +2% (mín. 9% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 55.276 partidos)  
+Goles esperados: Solya 6.32 · Stenido 3.80  
+Ganador: Solya 76% · empate 10% · Stenido 14%  
+Total: más de 10.5 goles 43% · menos 57%  
+Hándicap Solya: −1.5 62% · −2.5 49%  
+🔎 **Claves**  
+• Forma: Solya ✅✅➖✅➖ | Stenido ➖❌❌❌❌  
+• Partidos: Solya 273 | Stenido 183  
+• Liga: LaLiga 2x6  
+• Unibet: 1 1.33 · X 6.50 · 2 4.00 (sin margen 65%/13%/22%) · ventaja +2%. Sin stake hasta demostrar ROI con estas cuotas.  
 
 ## Kavviro vs kkikus — 04/11 · 03:51
 
