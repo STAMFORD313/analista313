@@ -1057,7 +1057,8 @@ finally: _KB._events = _kev
 print("ok Kambi sin juveniles")
 # apuestas simuladas desde el chat: «simúlala» la apunta; al llegar las estadísticas de ESPN se liquida con el porqué
 import simulaciones as _SM
-_smf, _sml, _smp = _SM.FILE, _SM.games, _SM.push
+_smf, _sml, _smp, _smlg = _SM.FILE, _SM.games, _SM.push, _SM.live_game
+_SM.live_game = lambda leg, boards: None  # sin red: en Actions el marcador real de ESPN liquidaría estos partidos
 _SM.FILE = A_.DATA / "_test_simuladas.json"; _SM.FILE.unlink(missing_ok=True); _SM._MEM.clear()
 _SM.push = lambda msg: None
 _CH._CTX.clear()
@@ -1074,7 +1075,7 @@ try:
                               {"home": "FC Porto", "away": "Napoli", "date": "2026-11-04T20:00Z", "hs": 1, "as": 1, "team_stats": {"h": _z, "a": _z}}]
     _msgs = _SM.settle(); assert len(_msgs) == 1 and "perdida" in _msgs[0] and "hubo 4 tarjetas" in _msgs[0] and "✅" in _msgs[0], _msgs
     assert _SM.settle() == [] and "1 terminadas" in _CH.answer("¿cómo van mis simuladas?")
-finally: _SM.FILE.unlink(missing_ok=True); _SM.FILE, _SM.games, _SM.push = _smf, _sml, _smp; _SM._MEM.clear(); _CH._CTX.clear()
+finally: _SM.FILE.unlink(missing_ok=True); _SM.FILE, _SM.games, _SM.push, _SM.live_game = _smf, _sml, _smp, _smlg; _SM._MEM.clear(); _CH._CTX.clear()
 print("ok apuestas simuladas del chat")
 # todos los deportes en el chat: piernas «gana X» de NBA/NHL/esports/FC 27 (multideporte) y su liquidación en simuladas
 import multideporte as _MD
