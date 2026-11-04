@@ -1411,3 +1411,15 @@ try:
     assert len(_sl) == 1 and _sl[0][5] == "Delantero Uno" and _sl[0][3] == "Más de 0.5 tiros a puerta" and abs(_sl[0][1] - 0.66) < 1e-9, _sl
 finally: _KB.player_props, _CH.leg_prob, _CH.find = _pp, _lp, _fd
 print("ok crear apuesta por equipo y con rematadores")
+
+_mem0 = dict(_SL._MEM); _f0 = _SL.FILE; _SL.FILE = A.DATA / "_test_sim_dup.json"; _SL._MEM.clear()
+try:
+    _now = pd.Timestamp.now(tz="UTC")
+    _b1 = {"id": "1", "creada": str(_now - pd.Timedelta(hours=4)), "titulo": "Tu boleto", "odds": 3.0, "stake": 1, "estado": "pendiente", "rev": 1,
+           "legs": [{"home": "AEK Athens", "away": "Real Madrid", "txt": "Gana Real Madrid"}]}
+    _SL.FILE.write_text(json.dumps([_b1, {**_b1, "id": "2"}]))
+    _fg0 = _SL.find_game; _SL.find_game = lambda leg: {**_gm, "estado": "post", "hs": 1, "as": 2}
+    _o = _SL.settle(); assert len(_o) == 1 and all(b["estado"] == "ganada" for b in _SL.load().values()), _o
+finally:
+    _SL.find_game = _fg0; _SL.FILE.unlink(missing_ok=True); _SL.FILE = _f0; _SL._MEM.clear(); _SL._MEM.update(_mem0)
+print("ok un solo aviso por boleto repetido")

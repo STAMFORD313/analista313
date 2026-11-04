@@ -142,7 +142,7 @@ def final_game(leg, b, now, boards):
 
 def settle(now=None):
     """Liquida las simuladas pendientes; devuelve los mensajes (HTML) de las que acaban de terminar."""
-    bets, now, out, changed, boards = load(), now or pd.Timestamp.now(tz="UTC"), [], False, {}
+    bets, now, out, changed, boards, sent = load(), now or pd.Timestamp.now(tz="UTC"), [], False, {}, set()
     for b in bets.values():
         if b["estado"] != "pendiente": continue
         for leg in b["legs"]:
@@ -163,7 +163,9 @@ def settle(now=None):
             res = [l["ok"] for l in b["legs"]]
             b["estado"] = "perdida" if False in res else "nula" if all(r == "nula" for r in res) else "ganada"
             b["rev"] = b.get("rev", 1) + 1; changed = True
-            out.append(card(b)); b["avisada"] = True
+            k = tuple(sorted((l.get("home"), l.get("away"), l.get("txt"), l.get("jugador")) for l in b["legs"]))
+            if k not in sent: out.append(card(b)); sent.add(k)  # el mismo boleto apuntado varias veces: un solo aviso
+            b["avisada"] = True
     if changed: save(bets, "chat: simuladas liquidadas")
     return out
 
