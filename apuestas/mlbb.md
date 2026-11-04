@@ -1,6 +1,6 @@
 # 📱 MLBB · apuestas de valor
 
-Actualizado 04/11/2026 12:42 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 04/11/2026 13:08 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Natus Vincere vs Alter Ego — 05/11 · 07:00
 
