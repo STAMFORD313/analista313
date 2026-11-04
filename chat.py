@@ -1052,6 +1052,7 @@ def natural(user_text, reply, hist=()):
     """La IA (interpreta.redactar) cuenta con palabras naturales lo que ha calculado el bot; si no hay IA, falla o mete un
     número que el bot no dio, se manda la respuesta del bot tal cual."""
     if reply == HELP: return reply
+    if sum(l.lstrip().startswith(("•", "↳")) for l in reply.split("\n")) >= 2: return reply  # listas: tal cual (la IA las estropeaba)
     import html, interpreta
     report = html.unescape(re.sub(r"<[^>]+>", "", reply))
     try: out = interpreta.redactar(user_text, report, hist)
@@ -1084,9 +1085,11 @@ def _answer(t, short=True):
         if not last_combo(): return "Primero pídeme una combinada (o mándame la foto del boleto) y luego te la simulo."
         import simulaciones
         b = simulaciones.record(_CTX.pop("ultima")); LAST_FILE.unlink(missing_ok=True)
-        return ("✅ <b>Apuntada</b> (simulada, 1 €): " + A.esc(b["titulo"]) + f" · {len(b['legs'])} piernas"
-                + (f" · cuota {b['odds']:.2f}" if b.get("odds") else "")
-                + ".\nCuando acaben los partidos te digo si hemos ganado o perdido, pierna a pierna y por qué.")
+        import boleto as BO
+        legs = [(f"{l['home']} – {l['away']}", (f"{l['jugador']}: " if l.get("jugador") else "") + l["txt"]
+                 + (f" @ {l['odds']:.2f}" if l.get("odds") else ""), None) for l in b["legs"]]
+        return "\n".join(["✅ <b>Apuntada</b> (simulada): " + A.esc(b["titulo"]), *BO.boleto(None, legs, b.get("odds"), b.get("stake")),
+                          "Cuando acaben los partidos te digo si hemos ganado o perdido, pierna a pierna y por qué."])
     if re.search(COMBO_RX, q) and not re.search(r"mas de|menos de|over|under|\d\+", q):
         ks = find(t, D, n=2, kind="equipo")
         if len(ks) == 2: kh, ka = ks

@@ -1180,3 +1180,8 @@ try:
     _CH._CTX.clear(); assert _CH.last_combo()["titulo"] == "Tu boleto"  # leída de disco tras «reinicio»
 finally: _MD.legs = _MDl3; _CH._DB.clear(); _CH._DB["t"] = 0; _CH._CTX.clear(); _CH.LAST_FILE.unlink(missing_ok=True)
 print("ok boleto simulable con piernas sin datos")
+# respuestas con listas (boletos, combinadas) no pasan por la IA; la confirmación de simulada lleva las piernas
+_cg2 = _IP2._complete_gemini; _os.environ["GEMINI_API_KEY"] = "x"; _IP2._complete_gemini = lambda s, p: "texto de la IA"
+try: assert _CH.natural("hola", "🧩 Combinada\n• A (90%)\n• B (85%)") == "🧩 Combinada\n• A (90%)\n• B (85%)"
+finally: _IP2._complete_gemini = _cg2; _os.environ.pop("GEMINI_API_KEY")
+print("ok listas sin IA")
