@@ -1,24 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 04/11/2026 15:15 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## spirtes vs mPm — 04/11 · 15:16
-
-👀 candidata · 🎮⚽ FC 27 · Eredivisie · **Gana mPm** @ **1.78** (Unibet) · prob 60% vs casas 49% · ventaja +7%
-
-- ❌ Valor: ventaja +7% (mín. 10% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 55.876 partidos)  
-Goles esperados: spirtes 2.56 · mPm 3.62  
-Ganador: spirtes 23% · empate 17% · mPm 60%  
-Total: más de 6.5 goles 42% · menos 58%  
-Hándicap mPm: −1.5 42% · −2.5 27%  
-🔎 **Claves**  
-• Forma: spirtes ❌❌✅➖➖ | mPm ✅✅✅✅❌  
-• Partidos: spirtes 884 | mPm 651  
-• Liga: Eredivisie  
-• Unibet: 1 2.75 · X 4.60 · 2 1.78 (sin margen 32%/19%/49%) · ventaja +7%. Sin stake hasta demostrar ROI con estas cuotas.  
+Actualizado 04/11/2026 15:20 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Totti vs w1nkos — 04/11 · 15:22
 
@@ -127,4 +109,22 @@ Hándicap Dicca: −1.5 46% · −2.5 30%
 • Partidos: Dicca 601 | pikalicaaa 543  
 • Liga: Europa League  
 • Unibet: 1 1.75 · X 4.40 · 2 2.88 (sin margen 50%/20%/30%) · ventaja +12%. Sin stake hasta demostrar ROI con estas cuotas.  
+
+## lzrn vs Animal — 04/11 · 15:40
+
+👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana Animal** @ **1.84** (Unibet) · prob 58% vs casas 47% · ventaja +7%
+
+- ❌ Valor: ventaja +7% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 55.876 partidos)  
+Goles esperados: lzrn 3.19 · Animal 4.12  
+Ganador: lzrn 26% · empate 16% · Animal 58%  
+Total: más de 7.5 goles 45% · menos 55%  
+Hándicap Animal: −1.5 41% · −2.5 28%  
+🔎 **Claves**  
+• Forma: lzrn ✅➖❌❌➖ | Animal ✅✅✅➖✅  
+• Partidos: lzrn 743 | Animal 768  
+• Liga: Champions League B  
+• Unibet: 1 2.70 · X 4.30 · 2 1.84 (sin margen 32%/20%/47%) · ventaja +7%. Sin stake hasta demostrar ROI con estas cuotas.  
 
