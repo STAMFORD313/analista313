@@ -937,3 +937,12 @@ _ESZ.load = lambda code: [{"id": "1", "date": "2026-11-01T15:00Z", "home": "Arse
 try: assert _ESZ.rows_for_keys(["E0|2026-11-01|Arsenal|Chelsea"]) == {}
 finally: _ESZ.load = _ld
 print("ok ESPN sin estadísticas no liquida")
+# notas de voz: el audio se transcribe y el texto va al chat (Whisper simulado)
+import voz as _VZ
+_dl, _tr = _VZ.download, _VZ.transcribe
+_VZ.download = lambda fid: (open(_p := "/tmp/_voz_test.oga", "wb").close(), _p)[1]
+_VZ.transcribe = lambda p: "estadísticas de Mbappé"
+try:
+    assert _VZ.from_message({"voice": {"file_id": "x"}}) == "estadísticas de Mbappé" and _VZ.from_message({"text": "hola"}) is None
+finally: _VZ.download, _VZ.transcribe = _dl, _tr
+print("ok notas de voz")
