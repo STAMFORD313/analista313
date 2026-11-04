@@ -13,6 +13,7 @@ COMMISSION, MIN_QTY = 0.02, 200_000  # cantidad en unidades de Smarkets (≈ 20 
 
 def get(path, **params):
     r = requests.get(f"{API}/{path}", params=params, headers={**A.UA, "Accept": "application/json"}, timeout=30)
+    if not r.ok: print("Smarkets", r.status_code, r.url[:160], r.text[:300])
     r.raise_for_status(); return r.json()
 
 
