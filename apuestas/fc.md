@@ -1,6 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 04/11/2026 07:10 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 04/11/2026 07:15 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Taz vs Ganger_29 — 04/11 · 07:18
 
