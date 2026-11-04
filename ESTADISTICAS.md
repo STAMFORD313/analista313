@@ -1,6 +1,6 @@
 # Estadísticas del bot
 
-Actualizado: 04/11/2026 15:20
+Actualizado: 04/11/2026 15:25
 
 **Ganadas 9 / perdidas 15** (38 % acierto) · beneficio -14.21 $ · ROI -29.8 % · banca 85.79 $
 
@@ -26,11 +26,11 @@ Si el bot está bien calibrado, el acierto real se parece a la prob. media. Brie
 
 | Prob. bot | Señales | Prob. media | Acierto real | Brier bot | Brier casas | ROI a 1 u. |
 |---|---|---|---|---|---|---|
-| 0%-40% | 129 | 28% | 18% | 0.166 | 0.155 | -19.3 % |
+| 0%-40% | 130 | 28% | 18% | 0.166 | 0.154 | -19.9 % |
 | 40%-55% | 115 | 48% | 45% | 0.240 | 0.237 | -0.1 % |
-| 55%-70% | 113 | 62% | 66% | 0.224 | 0.249 | +14.3 % |
+| 55%-70% | 115 | 62% | 67% | 0.223 | 0.248 | +15.3 % |
 | 70%-100% | 122 | 84% | 84% | 0.125 | 0.119 | -1.9 % |
-| Total | 479 | 55% | 53% | 0.187 | 0.188 | -2.3 % |
+| Total | 482 | 55% | 53% | 0.187 | 0.187 | -2.2 % |
 
 ### Por deporte y mercado (cada modelo se evalúa por separado)
 
@@ -44,7 +44,7 @@ Si el bot está bien calibrado, el acierto real se parece a la prob. media. Brie
 | ⚽ | goles/totales | 3 | 50% | 0% | 0.255 | 0.207 | -100.0 % |
 | 🎮 | ganador | 39 | 60% | 59% | 0.195 | 0.196 | -7.8 % |
 | 🎮 | hándicap | 5 | 48% | 60% | 0.249 | 0.278 | +51.8 % |
-| 🎮⚽ | ganador | 217 | 45% | 39% | 0.206 | 0.203 | -4.1 % |
+| 🎮⚽ | ganador | 219 | 45% | 39% | 0.205 | 0.203 | -4.1 % |
 | 🏀 | ganador | 106 | 76% | 75% | 0.130 | 0.131 | -0.3 % |
 | 🏀 | goles/totales | 3 | 52% | 100% | 0.231 | 0.250 | +90.9 % |
 | 🏆 | ganador | 9 | 51% | 67% | 0.187 | 0.187 | +17.3 % |
@@ -52,7 +52,7 @@ Si el bot está bien calibrado, el acierto real se parece a la prob. media. Brie
 | 🏈 | goles/totales | 2 | 55% | 50% | 0.259 | 0.250 | -4.5 % |
 | 🏒 | ganador | 6 | 51% | 50% | 0.258 | 0.267 | +0.1 % |
 | 🏒 | goles/totales | 6 | 54% | 83% | 0.200 | 0.217 | +50.6 % |
-| 🐉 | ganador | 9 | 51% | 67% | 0.178 | 0.228 | +49.1 % |
+| 🐉 | ganador | 10 | 52% | 70% | 0.176 | 0.223 | +50.2 % |
 | 🐉 | hándicap | 2 | 51% | 50% | 0.079 | 0.142 | -12.0 % |
 | 📱 | ganador | 1 | 45% | 0% | 0.203 | 0.179 | -100.0 % |
 | 🔫 | ganador | 1 | 45% | 100% | 0.300 | 0.359 | +130.0 % |
