@@ -1,96 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 04/11/2026 08:42 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Maxa vs Tesla — 04/11 · 08:52
-
-👀 candidata · 🎮⚽ FC 27 · Ligue 1 · **Gana Tesla** @ **1.86** (Unibet) · prob 59% vs casas 47% · ventaja +10%
-
-- ❌ Valor: ventaja +10% (mín. 11% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 55.502 partidos)  
-Goles esperados: Maxa 2.65 · Tesla 3.70  
-Ganador: Maxa 24% · empate 17% · Tesla 59%  
-Total: más de 6.5 goles 45% · menos 55%  
-Hándicap Tesla: −1.5 42% · −2.5 27%  
-🔎 **Claves**  
-• Forma: Maxa ➖✅❌❌➖ | Tesla ✅✅✅✅➖  
-• Partidos: Maxa 805 | Tesla 852  
-• Liga: Ligue 1  
-• Unibet: 1 2.80 · X 4.00 · 2 1.86 (sin margen 31%/22%/47%) · ventaja +10%. Sin stake hasta demostrar ROI con estas cuotas.  
-
-## Taz vs Lumix — 04/11 · 08:52
-
-👀 candidata · 🎮⚽ FC 27 · Ligue 1 · **Gana Taz** @ **2.40** (Unibet) · prob 46% vs casas 36% · ventaja +10%
-
-- ❌ Valor: ventaja +10% (mín. 11% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 55.502 partidos)  
-Goles esperados: Taz 2.90 · Lumix 2.58  
-Ganador: Taz 46% · empate 20% · Lumix 34%  
-Total: más de 5.5 goles 47% · menos 53%  
-Hándicap Taz: −1.5 30% · −2.5 17%  
-🔎 **Claves**  
-• Forma: Taz ➖❌➖➖✅ | Lumix ❌➖✅✅➖  
-• Partidos: Taz 837 | Lumix 865  
-• Liga: Ligue 1  
-• Unibet: 1 2.40 · X 4.00 · 2 2.07 (sin margen 36%/22%/42%) · ventaja +10%. Sin stake hasta demostrar ROI con estas cuotas.  
-
-## Uncle vs Wboy — 04/11 · 08:55
-
-👀 candidata · 🎮⚽ FC 27 · Serie A · **Gana Wboy** @ **3.10** (Unibet) · prob 36% vs casas 28% · ventaja +12%
-
-- ✅ Valor: ventaja +12% (mín. 11% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 55.502 partidos)  
-Goles esperados: Uncle 3.21 · Wboy 2.97  
-Ganador: Uncle 45% · empate 19% · Wboy 36%  
-Total: más de 6.5 goles 42% · menos 58%  
-Hándicap Uncle: −1.5 30% · −2.5 18%  
-🔎 **Claves**  
-• Forma: Uncle ✅❌✅❌❌ | Wboy ❌❌❌❌✅  
-• Partidos: Uncle 610 | Wboy 963  
-• Liga: Serie A  
-• Unibet: 1 1.87 · X 3.45 · 2 3.10 (sin margen 47%/25%/28%) · ventaja +12%. Sin stake hasta demostrar ROI con estas cuotas.  
-
-## saportj vs Loka — 04/11 · 09:00
-
-👀 candidata · 🎮⚽ FC 27 · EFL Championship · **Gana Loka** @ **1.54** (Unibet) · prob 75% vs casas 56% · ventaja +16%
-
-- ✅ Valor: ventaja +16% (mín. 12% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 55.482 partidos)  
-Goles esperados: saportj 2.18 · Loka 4.22  
-Ganador: saportj 12% · empate 13% · Loka 75%  
-Total: más de 6.5 goles 46% · menos 54%  
-Hándicap Loka: −1.5 58% · −2.5 42%  
-🔎 **Claves**  
-• Forma: saportj ❌❌❌❌➖ | Loka ✅❌✅➖✅  
-• Partidos: saportj 604 | Loka 1044  
-• Liga: EFL Championship  
-• Unibet: 1 3.15 · X 5.50 · 2 1.54 (sin margen 28%/16%/57%) · ventaja +16%. Sin stake hasta demostrar ROI con estas cuotas.  
-
-## Bomb1to vs Uncle — 04/11 · 09:07
-
-👀 candidata · 🎮⚽ FC 27 · Serie A · **Gana Uncle** @ **3.55** (Unibet) · prob 38% vs casas 24% · ventaja +33%
-
-- ❌ Valor: ventaja +33% (mín. 17% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 55.502 partidos)  
-Goles esperados: Bomb1to 2.87 · Uncle 2.74  
-Ganador: Bomb1to 42% · empate 20% · Uncle 38%  
-Total: más de 5.5 goles 49% · menos 51%  
-Hándicap Bomb1to: −1.5 28% · −2.5 15%  
-🔎 **Claves**  
-• Forma: Bomb1to ➖➖✅✅➖ | Uncle ✅❌✅❌❌  
-• Partidos: Bomb1to 1154 | Uncle 610  
-• Liga: Serie A  
-• Unibet: 1 2.02 · X 2.65 · 2 3.55 (sin margen 43%/33%/24%) · ventaja +33%. Sin stake hasta demostrar ROI con estas cuotas.  
+Actualizado 04/11/2026 09:11 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Uncle vs mko1919 — 04/11 · 09:19
 
@@ -127,4 +37,58 @@ Hándicap v1nniePuh: −1.5 38% · −2.5 25%
 • Partidos: why 525 | v1nniePuh 576  
 • Liga: Champions League A 2x6  
 • Unibet: 1 4.70 · X 5.80 · 2 1.30 (sin margen 18%/15%/67%) · ventaja +48%. Sin stake hasta demostrar ROI con estas cuotas.  
+
+## DaVa vs dm1trena — 04/11 · 09:34
+
+👀 candidata · 🎮⚽ FC 27 · Champions League AFC · **Gana dm1trena** @ **5.80** (Unibet) · prob 20% vs casas 15% · ventaja +16%
+
+- ✅ Valor: ventaja +16% (mín. 12% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 55.602 partidos)  
+Goles esperados: DaVa 2.89 · dm1trena 1.82  
+Ganador: DaVa 61% · empate 19% · dm1trena 20%  
+Total: más de 4.5 goles 51% · menos 49%  
+Hándicap DaVa: −1.5 41% · −2.5 25%  
+🔎 **Claves**  
+• Forma: DaVa ✅✅➖❌✅ | dm1trena ✅➖✅❌➖  
+• Partidos: DaVa 1100 | dm1trena 981  
+• Liga: Champions League AFC  
+• Unibet: 1 1.40 · X 3.75 · 2 5.80 (sin margen 62%/23%/15%) · ventaja +16%. Sin stake hasta demostrar ROI con estas cuotas.  
+
+## kamito vs Loka — 04/11 · 09:36
+
+👀 candidata · 🎮⚽ FC 27 · EFL Championship · **Gana Loka** @ **1.52** (Unibet) · prob 76% vs casas 57% · ventaja +16%
+
+- ✅ Valor: ventaja +16% (mín. 12% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 55.602 partidos)  
+Goles esperados: kamito 2.93 · Loka 5.22  
+Ganador: kamito 13% · empate 11% · Loka 76%  
+Total: más de 8.5 goles 43% · menos 57%  
+Hándicap Loka: −1.5 60% · −2.5 46%  
+🔎 **Claves**  
+• Forma: kamito ❌✅➖❌❌ | Loka ✅✅❌✅✅  
+• Partidos: kamito 392 | Loka 1052  
+• Liga: EFL Championship  
+• Unibet: 1 3.10 · X 5.80 · 2 1.52 (sin margen 28%/15%/57%) · ventaja +16%. Sin stake hasta demostrar ROI con estas cuotas.  
+
+## Lumix vs Taz — 04/11 · 09:52
+
+👀 candidata · 🎮⚽ FC 27 · Ligue 1 · **Gana Taz** @ **2.55** (Unibet) · prob 46% vs casas 34% · ventaja +17%
+
+- ✅ Valor: ventaja +17% (mín. 12% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 55.602 partidos)  
+Goles esperados: Lumix 2.58 · Taz 2.90  
+Ganador: Lumix 34% · empate 20% · Taz 46%  
+Total: más de 5.5 goles 47% · menos 53%  
+Hándicap Taz: −1.5 30% · −2.5 17%  
+🔎 **Claves**  
+• Forma: Lumix ❌➖✅✅➖ | Taz ➖❌➖➖✅  
+• Partidos: Lumix 865 | Taz 837  
+• Liga: Ligue 1  
+• Unibet: 1 1.97 · X 4.10 · 2 2.55 (sin margen 44%/21%/34%) · ventaja +17%. Sin stake hasta demostrar ROI con estas cuotas.  
 
