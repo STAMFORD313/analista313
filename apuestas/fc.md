@@ -1,24 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 04/11/2026 14:18 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Tesla vs Maxa — 04/11 · 14:22
-
-👀 candidata · 🎮⚽ FC 27 · FA Cup · **Gana Tesla** @ **1.79** (Unibet) · prob 60% vs casas 49% · ventaja +8%
-
-- ❌ Valor: ventaja +8% (mín. 10% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 55.822 partidos)  
-Goles esperados: Tesla 3.89 · Maxa 2.77  
-Ganador: Tesla 60% · empate 16% · Maxa 24%  
-Total: más de 6.5 goles 50% · menos 50%  
-Hándicap Tesla: −1.5 43% · −2.5 29%  
-🔎 **Claves**  
-• Forma: Tesla ✅❌➖➖✅ | Maxa ✅❌➖❌❌  
-• Partidos: Tesla 868 | Maxa 821  
-• Liga: FA Cup  
-• Unibet: 1 1.79 · X 4.00 · 2 2.95 (sin margen 49%/22%/30%) · ventaja +8%. Sin stake hasta demostrar ROI con estas cuotas.  
+Actualizado 04/11/2026 14:23 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Ganger_29 vs Tesla — 04/11 · 14:34
 
@@ -73,4 +55,40 @@ Hándicap Lufy: −1.5 57% · −2.5 44%
 • Partidos: Lufy 646 | cappo 248  
 • Liga: International A 2x6  
 • Unibet: 1 1.55 · X 4.80 · 2 3.55 (sin margen 57%/18%/25%) · ventaja +12%. Sin stake hasta demostrar ROI con estas cuotas.  
+
+## Ganger_29 vs Taz — 04/11 · 14:58
+
+👀 candidata · 🎮⚽ FC 27 · FA Cup · **Gana Taz** @ **2.28** (Unibet) · prob 58% vs casas 38% · ventaja +32%
+
+- ❌ Valor: ventaja +32% (mín. 16% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 55.832 partidos)  
+Goles esperados: Ganger_29 2.61 · Taz 3.57  
+Ganador: Ganger_29 25% · empate 17% · Taz 58%  
+Total: más de 6.5 goles 42% · menos 58%  
+Hándicap Taz: −1.5 41% · −2.5 26%  
+🔎 **Claves**  
+• Forma: Ganger_29 ❌✅➖❌➖ | Taz ✅✅✅✅➖  
+• Partidos: Ganger_29 728 | Taz 853  
+• Liga: FA Cup  
+• Unibet: 1 2.10 · X 4.30 · 2 2.28 (sin margen 42%/20%/38%) · ventaja +32%. Sin stake hasta demostrar ROI con estas cuotas.  
+
+## Maslja vs Totti — 04/11 · 15:10
+
+👀 candidata · 🎮⚽ FC 27 · Serie A · **Gana Maslja** @ **2.48** (Unibet) · prob 44% vs casas 35% · ventaja +9%
+
+- ❌ Valor: ventaja +9% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 55.832 partidos)  
+Goles esperados: Maslja 3.10 · Totti 2.92  
+Ganador: Maslja 44% · empate 19% · Totti 37%  
+Total: más de 6.5 goles 40% · menos 60%  
+Hándicap Maslja: −1.5 29% · −2.5 17%  
+🔎 **Claves**  
+• Forma: Maslja ❌❌❌✅✅ | Totti ✅❌❌❌❌  
+• Partidos: Maslja 820 | Totti 859  
+• Liga: Serie A  
+• Unibet: 1 2.48 · X 4.50 · 2 1.93 (sin margen 35%/19%/45%) · ventaja +9%. Sin stake hasta demostrar ROI con estas cuotas.  
 
