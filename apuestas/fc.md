@@ -1,6 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 04/11/2026 10:15 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 04/11/2026 10:19 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## DaVa vs MeLToSik — 04/11 · 10:22
 
@@ -109,4 +109,40 @@ Hándicap v1nniePuh: −1.5 38% · −2.5 25%
 • Partidos: v1nniePuh 584 | why 533  
 • Liga: Champions League A 2x6  
 • Unibet: 1 1.28 · X 6.00 · 2 4.80 (sin margen 68%/14%/18%) · ventaja +45%. Sin stake hasta demostrar ROI con estas cuotas.  
+
+## mko1919 vs Bomb1to — 04/11 · 11:15
+
+👀 candidata · 🎮⚽ FC 27 · World Cup B · **Gana Bomb1to** @ **1.95** (Unibet) · prob 59% vs casas 45% · ventaja +15%
+
+- ✅ Valor: ventaja +15% (mín. 12% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 55.602 partidos)  
+Goles esperados: mko1919 2.53 · Bomb1to 3.47  
+Ganador: mko1919 23% · empate 17% · Bomb1to 59%  
+Total: más de 6.5 goles 39% · menos 61%  
+Hándicap Bomb1to: −1.5 40% · −2.5 26%  
+🔎 **Claves**  
+• Forma: mko1919 ❌❌❌❌❌ | Bomb1to ✅✅❌❌❌  
+• Partidos: mko1919 1060 | Bomb1to 1162  
+• Liga: World Cup B  
+• Unibet: 1 3.20 · X 3.10 · 2 1.95 (sin margen 27%/28%/45%) · ventaja +15%. Sin stake hasta demostrar ROI con estas cuotas.  
+
+## saportj vs Loka — 04/11 · 11:20
+
+👀 candidata · 🎮⚽ FC 27 · CSL · **Gana Loka** @ **1.61** (Unibet) · prob 78% vs casas 55% · ventaja +26%
+
+- ✅ Valor: ventaja +26% (mín. 14% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 55.602 partidos)  
+Goles esperados: saportj 2.31 · Loka 4.54  
+Ganador: saportj 11% · empate 11% · Loka 78%  
+Total: más de 6.5 goles 53% · menos 47%  
+Hándicap Loka: −1.5 60% · −2.5 45%  
+🔎 **Claves**  
+• Forma: saportj ❌❌➖❌❌ | Loka ✅✅❌✅✅  
+• Partidos: saportj 612 | Loka 1052  
+• Liga: CSL  
+• Unibet: 1 3.10 · X 5.20 · 2 1.61 (sin margen 28%/17%/55%) · ventaja +26%. Sin stake hasta demostrar ROI con estas cuotas.  
 
