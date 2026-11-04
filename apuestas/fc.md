@@ -1,24 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 04/11/2026 10:39 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## mko1919 vs Wboy — 04/11 · 10:43
-
-👀 candidata · 🎮⚽ FC 27 · Serie A · **Gana mko1919** @ **4.10** (Unibet) · prob 28% vs casas 21% · ventaja +16%
-
-- ✅ Valor: ventaja +16% (mín. 12% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 55.602 partidos)  
-Goles esperados: mko1919 2.96 · Wboy 3.59  
-Ganador: mko1919 28% · empate 17% · Wboy 54%  
-Total: más de 6.5 goles 48% · menos 52%  
-Hándicap Wboy: −1.5 36% · −2.5 23%  
-🔎 **Claves**  
-• Forma: mko1919 ❌❌❌❌❌ | Wboy ✅✅❌✅✅  
-• Partidos: mko1919 1060 | Wboy 971  
-• Liga: Serie A  
-• Unibet: 1 4.10 · X 3.95 · 2 1.56 (sin margen 21%/22%/56%) · ventaja +16%. Sin stake hasta demostrar ROI con estas cuotas.  
+Actualizado 04/11/2026 10:47 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## saportj vs crinner — 04/11 · 10:48
 
@@ -56,6 +38,24 @@ Hándicap v1nniePuh: −1.5 38% · −2.5 25%
 • Liga: Champions League A 2x6  
 • Unibet: 1 1.28 · X 6.00 · 2 4.80 (sin margen 68%/14%/18%) · ventaja +45%. Sin stake hasta demostrar ROI con estas cuotas.  
 
+## Ganger_29 vs Maxa — 04/11 · 11:00
+
+👀 candidata · 🎮⚽ FC 27 · World Cup A · **Gana Maxa** @ **2.12** (Unibet) · prob 50% vs casas 41% · ventaja +6%
+
+- ❌ Valor: ventaja +6% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 55.622 partidos)  
+Goles esperados: Ganger_29 2.55 · Maxa 3.05  
+Ganador: Ganger_29 31% · empate 19% · Maxa 50%  
+Total: más de 5.5 goles 49% · menos 51%  
+Hándicap Maxa: −1.5 33% · −2.5 19%  
+🔎 **Claves**  
+• Forma: Ganger_29 ❌❌❌❌❌ | Maxa ✅✅❌➖❌  
+• Partidos: Ganger_29 720 | Maxa 813  
+• Liga: World Cup A  
+• Unibet: 1 2.48 · X 3.65 · 2 2.12 (sin margen 35%/24%/41%) · ventaja +6%. Sin stake hasta demostrar ROI con estas cuotas.  
+
 ## Taz vs Lumix — 04/11 · 11:12
 
 👀 candidata · 🎮⚽ FC 27 · World Cup A · **Gana Taz** @ **2.38** (Unibet) · prob 46% vs casas 37% · ventaja +9%
@@ -76,21 +76,21 @@ Hándicap Taz: −1.5 30% · −2.5 17%
 
 ## Maxa vs Tesla — 04/11 · 11:12
 
-👀 candidata · 🎮⚽ FC 27 · World Cup A · **Gana Tesla** @ **1.77** (Unibet) · prob 59% vs casas 50% · ventaja +5%
+👀 candidata · 🎮⚽ FC 27 · World Cup A · **Gana Tesla** @ **1.77** (Unibet) · prob 59% vs casas 50% · ventaja +4%
 
-- ❌ Valor: ventaja +5% (mín. 9% con la incertidumbre, máx. 30%)
+- ❌ Valor: ventaja +4% (mín. 9% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 55.602 partidos)  
-Goles esperados: Maxa 2.66 · Tesla 3.72  
+📊 **Escenarios** (Poisson por jugador, 55.622 partidos)  
+Goles esperados: Maxa 2.74 · Tesla 3.79  
 Ganador: Maxa 24% · empate 17% · Tesla 59%  
-Total: más de 6.5 goles 45% · menos 55%  
+Total: más de 6.5 goles 48% · menos 52%  
 Hándicap Tesla: −1.5 42% · −2.5 28%  
 🔎 **Claves**  
-• Forma: Maxa ➖✅❌❌➖ | Tesla ✅✅✅✅➖  
-• Partidos: Maxa 805 | Tesla 852  
+• Forma: Maxa ✅✅❌➖❌ | Tesla ➖➖✅✅✅  
+• Partidos: Maxa 813 | Tesla 860  
 • Liga: World Cup A  
-• Unibet: 1 2.95 · X 4.20 · 2 1.77 (sin margen 30%/21%/49%) · ventaja +5%. Sin stake hasta demostrar ROI con estas cuotas.  
+• Unibet: 1 2.95 · X 4.20 · 2 1.77 (sin margen 30%/21%/49%) · ventaja +4%. Sin stake hasta demostrar ROI con estas cuotas.  
 
 ## mko1919 vs Bomb1to — 04/11 · 11:15
 
@@ -199,4 +199,22 @@ Hándicap Uncle: −1.5 37% · −2.5 23%
 • Partidos: Uncle 618 | mko1919 1060  
 • Liga: World Cup B  
 • Unibet: 1 1.89 · X 2.70 · 2 4.00 (sin margen 46%/32%/22%) · ventaja +8%. Sin stake hasta demostrar ROI con estas cuotas.  
+
+## saportj vs berg — 04/11 · 11:44
+
+👀 candidata · 🎮⚽ FC 27 · CSL · **Gana berg** @ **1.78** (Unibet) · prob 58% vs casas 49% · ventaja +3%
+
+- ❌ Valor: ventaja +3% (mín. 9% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 55.622 partidos)  
+Goles esperados: saportj 2.51 · berg 3.43  
+Ganador: saportj 24% · empate 18% · berg 58%  
+Total: más de 5.5 goles 55% · menos 45%  
+Hándicap berg: −1.5 40% · −2.5 25%  
+🔎 **Claves**  
+• Forma: saportj ❌❌➖❌❌ | berg ❌❌✅❌❌  
+• Partidos: saportj 612 | berg 879  
+• Liga: CSL  
+• Unibet: 1 2.50 · X 5.60 · 2 1.78 (sin margen 35%/16%/49%) · ventaja +3%. Sin stake hasta demostrar ROI con estas cuotas.  
 
