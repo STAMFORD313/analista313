@@ -1099,3 +1099,21 @@ _MD.legs = lambda hours=48, sports=None: [dict(src="esports:lol", sport="🧙 Lo
 try: _r = _CH.answer("¿quién gana Gen.G Esports contra LYON?"); assert "Favorito" in _r and "Gen.G" in _r and "🟢" in _r, _r
 finally: _MD.legs = _mdl
 print("ok quién gana en esports")
+# cuota alta de un solo partido («crear apuesta») y liquidación de piernas de un equipo
+_up5, _off5 = _CH.upcoming, _KB.offers
+_CH._DB.update(db=_D, t=1e18); _CH.LEAGUE["SP1"] = [({"corners": 5.0, "tarjetas": 2.0}, {"corners": 4.0, "tarjetas": 2.0})] * 40
+for _e in _D.values():
+    if _e["kind"] == "equipo":
+        for _x in _e["games"]: _x[1]["_liga"] = "SP1"; _x[1].setdefault("tarjetas", 2.0); _x[2].setdefault("tarjetas", 2.0)
+_CH.upcoming = lambda codes, hours=48: {"SP1": [(pd.Timestamp.now(tz="UTC") + pd.Timedelta(hours=6), "Real Madrid", "Barcelona", "")]}
+_KB.offers = lambda h, a, t, stats=(): {("corners", "h"): {5.5: {"o": 1.9, "u": 1.9}}, ("corners", "t"): {9.5: {"o": 1.9, "u": 1.9}},
+                                        ("cards", "t"): {3.5: {"o": 1.9, "u": 1.9}}}
+try:
+    _r = _CH.answer("combinada solo del Real Madrid contra el Barcelona a cuota 80"); assert "Crear apuesta" in _r, _r
+    assert not ("córners de Real Madrid" in _r and "Más de 9.5 córners @" in _r)  # total o de equipo, no ambos
+finally: _CH.upcoming, _KB.offers = _up5, _off5; _CH.LEAGUE.clear(); _CH._DB.clear(); _CH._DB["t"] = 0; _CH._BASE.clear(); _CH._CTX.clear()
+_zz = {"wonCorners": 7.0, "totalShots": 9.0, "foulsCommitted": 9.0, "yellowCards": 1.0, "redCards": 0.0}
+_g = {"home": "AEK Athens", "away": "Real Madrid", "hs": 0, "as": 3, "team_stats": {"h": dict(_zz, wonCorners=2.0), "a": _zz}}
+assert _SM.judge({"txt": "Menos de 6.5 córners de Real Madrid"}, _g) == (False, "hubo 7 córners de Real Madrid")
+assert _SM.judge({"txt": "Más de 2.5 córners de AEK Athens"}, _g)[0] is False and _SM.judge({"txt": "Más de 8.5 córners"}, _g)[0] is True
+print("ok crear apuesta de un partido")

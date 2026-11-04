@@ -596,6 +596,57 @@ def _leg(meta, txt, q):
     return dict(code=meta[0], start=meta[1], home=meta[2], away=meta[3], txt=txt, odds=None, p=q)
 
 
+def match_combo(D, kh, ka, target, hours=72):
+    """Combinada de cuota alta de UN partido («crear apuesta»): todas las líneas de Unibet del partido (córners y tarjetas,
+    total y de cada equipo), la de más ventaja de cada mercado (prob. = 30 % modelo + 70 % casa sin margen) y, por
+    estadística, o el total o los de equipo (no los dos: el total es la suma). Ojo: en un mismo partido las piernas van
+    algo ligadas y la casa suele pagar menos que el producto: es una aproximación."""
+    import kambi
+    h, a = D[kh]["name"], D[ka]["name"]
+    fx = [(t, home, away) for evs in upcoming(DAY_LEAGUES, hours).values() for t, home, away, _ in evs
+          if {tkey("futbol", home, D), tkey("futbol", away, D)} == {kh, ka}]
+    if not fx: return f"No encuentro {A.esc(h)} – {A.esc(a)} en las próximas {hours} h."
+    t, home, away = fx[0]
+    kh, ka = tkey("futbol", home, D), tkey("futbol", away, D)
+    try: off = kambi.offers(home, away, t, stats=("corners", "cards"))
+    except Exception as ex: print("Kambi", repr(ex)); off = {}
+    if not off: return f"Unibet aún no tiene mercados de córners y tarjetas de {A.esc(home)} – {A.esc(away)}."
+    cands = []
+    for (stat, scope), lines in off.items():
+        mm = match_model(kh, ka, D, "corners" if stat == "corners" else "tarjetas")
+        if not mm: continue
+        mu = mm[0] + mm[1] if scope == "t" else mm[0] if scope == "h" else mm[1]
+        who = "" if scope == "t" else f" de {home if scope == 'h' else away}"
+        best = None
+        for line, o in lines.items():
+            po = nb_over(mu, mm[2], line); mo = (1 / o["o"]) / (1 / o["o"] + 1 / o["u"])
+            for side, pmod, pmk, odd in (("Más", po, mo, o["o"]), ("Menos", 1 - po, 1 - mo, o["u"])):
+                q = W_LONG * pmod + (1 - W_LONG) * pmk
+                if not (LONG_P[0] <= q <= LONG_P[1]): continue
+                leg = (q * odd - 1, q, odd, f"{side} de {line:g} {LABEL['corners' if stat == 'corners' else 'tarjetas']}{who}", stat, scope)
+                if best is None or leg[0] > best[0]: best = leg
+        if best: cands.append(best)
+    legs, odds, p, used = [], 1.0, 1.0, {}
+    for c in sorted(cands, key=lambda c: -c[0]):
+        if odds >= target: break
+        st, sc = c[4], c[5]
+        if (sc == "t" and used.get(st)) or (sc != "t" and "t" in used.get(st, set())): continue  # total o equipos, no ambos
+        legs.append(c); odds *= c[2]; p *= c[1]; used.setdefault(st, set()).add(sc)
+    if not legs: return f"No veo líneas útiles de Unibet en {A.esc(home)} – {A.esc(away)}."
+    ev = p * odds - 1
+    remember(f"Crear apuesta {home} – {away}", [dict(code=None, start=str(t), home=home, away=away, txt=c[3], odds=c[2], p=c[1]) for c in legs], odds, p)
+    loc = t.tz_convert(TZ)
+    out = [f"🎰 <b>Crear apuesta · {A.esc(home)} – {A.esc(away)}</b> · {DIAS[loc.dayofweek]} {loc:%H:%M} (cuotas de Unibet)"]
+    out += [f"  • {A.esc(c[3])} @ {c[2]:.2f} ({c[1]:.0%}, ventaja {c[0]:+.0%})" for c in legs]
+    out.append(f"{len(legs)} piernas · cuota aprox. <b>{odds:.1f}</b> (producto) · acierta el <b>{p:.1%}</b>.")
+    if odds < target:
+        out.append(f"⚠️ Con los mercados de córners y tarjetas de este partido llego a {odds:.1f}, no a {target:g}. "
+                   "Para cuota más alta hay que juntar varios partidos («combinada a cuota 80»).")
+    out.append("ℹ️ En «crear apuesta» Unibet calcula su propia cuota (suele pagar algo menos que el producto): compárala.")
+    out.append(f"{'🟢' if ev > 0 else '🔴'} Según el modelo, a la larga {'ganas' if ev > 0 else 'pierdes'} {abs(ev):.0%}.")
+    return "\n".join(out)
+
+
 def long_combo(D, target, hours=48, sports=None):
     """Combinada de cuota alta (p. ej. 80) con cuotas REALES de Unibet (Kambi): de cada partido de las próximas 48 h, la
     línea de córners o tarjetas totales con más ventaja (prob. del modelo × cuota − 1 ≥ 0); se añaden, de más a menos
@@ -846,6 +897,7 @@ def _answer(t, short=True):
         m_t = re.search(r"(?:cuota|a)\s*(?:de\s*)?(\d+(?:[.,]\d+)?)", q) or re.search(r"@\s*(\d+(?:[.,]\d+)?)", q)
         target = _f(m_t.group(1)) if m_t and 1.2 <= _f(m_t.group(1)) <= 1000 else None
         sp = sports_in(q)
+        if target and target >= 10 and len(ks) == 2: return match_combo(D, kh, ka, target)  # «solo de este partido»
         if target and target >= 10: return long_combo(D, target, sports=sp)
         if target or re.search(r"del dia|de hoy|de manana|varios partidos|popurri|sub\w* la cuota|anad|mas piernas|mas cuota|lo maximo", q) \
                 or sp is not None or not (kh and ka and kh in D and ka in D): return day_combo(D, target=target, sports=sp)

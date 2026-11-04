@@ -16,7 +16,7 @@ import espn_soccer as ES
 
 FILE = A.DATA / "chat_simuladas.json"
 _MEM = {}  # id → apuesta: copia en memoria por si un git reset de menu.py borra un cambio aún sin subir
-LEG_RX = re.compile(r"^(Más|Menos) de ([\d.]+) (córners|tarjetas|goles)$")
+LEG_RX = re.compile(r"^(Más|Menos) de ([\d.]+) (córners|tarjetas|goles)(?: de (.+))?$")  # «… de <equipo>»: solo ese equipo
 DC_RX = re.compile(r"^(.+) o empate \((1X|X2)\)$")
 GIVE_UP = pd.Timedelta(days=4)  # sin datos de ESPN 4 días después del partido: la pierna se da por nula
 
@@ -88,14 +88,16 @@ def judge(leg, g):
         return ok, f"acabó {g['hs']:g}-{g['as']:g}"
     m = LEG_RX.match(leg["txt"])
     if not m: return "nula", "pierna no reconocida"
-    side, line, stat = m.group(1), float(m.group(2)), m.group(3)
-    if stat == "goles": v = g["hs"] + g["as"]
+    side, line, stat, team = m.group(1), float(m.group(2)), m.group(3), m.group(4)
+    sides = (h, a) if not team else (h,) if team == g["home"] else (a,) if team == g["away"] else None
+    if sides is None: return "nula", f"equipo {team} no está en el partido"
+    if stat == "goles": v = (g["hs"] + g["as"]) if not team else g["hs"] if team == g["home"] else g["as"]
     else:
         if not (ES.has_stats(h) and ES.has_stats(a)): return None, "ESPN aún no tiene las estadísticas"
         k = "wonCorners" if stat == "córners" else None
-        v = (h[k] + a[k]) if k else sum(d.get("yellowCards", 0) + d.get("redCards", 0) for d in (h, a))
+        v = sum(d[k] for d in sides) if k else sum(d.get("yellowCards", 0) + d.get("redCards", 0) for d in sides)
     ok = v > line if side == "Más" else v < line
-    return ok, f"hubo {v:g} {stat}"
+    return ok, f"hubo {v:g} {stat}" + (f" de {team}" if team else "")
 
 
 def settle():

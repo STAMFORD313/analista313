@@ -26,6 +26,7 @@ fueras de juego, puntos, rebotes, asistencias, triples); con cuota: «… a 1.90
 próximas 48 h, para subir la cuota con seguridad) · «combinada del día a cuota 2.5» (si dice a qué cuota quiere llegar; «dos con cinco» = 2.5) · para cuotas altas \
 («que pague 80», «1 € para ganar 100») también «combinada del día a cuota 80»
 - se puede limitar a deportes: «combinada del día de nba», «combinada de esports a cuota 20», «combinada segura de cs2 y fc 27» (deportes: fútbol, nba, nhl, nfl, mlb, cs2, lol, dota, r6, mlbb, fc 27/esoccer; «esports» = todos los videojuegos)
+- «combinada <local> <visitante> a cuota 80» cuando quiere la cuota alta SOLO de un partido («crear apuesta»)
 - «simula la última combinada» (cuando pide simular/apuntar/jugar la apuesta que le acaba de dar el bot) · «cómo van mis simuladas»
 - «ayuda»
 
