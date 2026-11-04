@@ -147,5 +147,105 @@
   "estado": "pendiente",
   "avisada": false,
   "rev": 1
+ },
+ {
+  "id": "20261104132953",
+  "creada": "2026-11-04 13:29:53.122306+00:00",
+  "titulo": "Tu boleto",
+  "legs": [
+   {
+    "code": null,
+    "start": null,
+    "home": "AEK Athens",
+    "away": "Real Madrid",
+    "p": 0.45778048237591534,
+    "odds": null,
+    "txt": "Más de 0.5 goles",
+    "jugador": "Kylian Mbappé"
+   },
+   {
+    "code": null,
+    "start": null,
+    "home": "AEK Athens",
+    "away": "Real Madrid",
+    "p": 0.16707325320966812,
+    "odds": null,
+    "txt": "Más de 0.5 goles",
+    "jugador": "Vinícius Júnior"
+   },
+   {
+    "code": null,
+    "start": null,
+    "home": "AEK Athens",
+    "away": "Real Madrid",
+    "p": 0.23497412843120813,
+    "odds": null,
+    "txt": "Más de 2.5 tiros a puerta",
+    "jugador": "Kylian Mbappé"
+   },
+   {
+    "code": null,
+    "start": null,
+    "home": "AEK Athens",
+    "away": "Real Madrid",
+    "p": 0.3618033837332786,
+    "odds": null,
+    "txt": "Más de 0.5 tiros a puerta",
+    "jugador": "Yan Diomande"
+   },
+   {
+    "code": null,
+    "start": null,
+    "home": "AEK Athens",
+    "away": "Real Madrid",
+    "p": 0.41056675735747267,
+    "odds": null,
+    "txt": "Más de 0.5 tiros a puerta",
+    "jugador": "Jude Bellingham"
+   },
+   {
+    "code": null,
+    "start": null,
+    "home": "AEK Athens",
+    "away": "Real Madrid",
+    "txt": "Gana Real Madrid",
+    "odds": null,
+    "p": 0.5406
+   },
+   {
+    "code": null,
+    "start": null,
+    "home": "AEK Athens",
+    "away": "Real Madrid",
+    "p": 0.7032929857081511,
+    "odds": null,
+    "txt": "Más de 7 córners"
+   },
+   {
+    "code": null,
+    "start": null,
+    "home": "AEK Athens",
+    "away": "Real Madrid",
+    "p": 0.9845615492771116,
+    "odds": null,
+    "txt": "Más de 0 tarjetas"
+   },
+   {
+    "code": null,
+    "start": null,
+    "home": "AEK Athens",
+    "away": "Real Madrid",
+    "p": 0.6666667150608692,
+    "odds": null,
+    "txt": "Más de 1.5 faltas recibidas",
+    "jugador": "Jude Bellingham"
+   }
+  ],
+  "odds": 14.0,
+  "p": 0.0003594947886675118,
+  "stake": 1.0,
+  "estado": "pendiente",
+  "avisada": false,
+  "rev": 1
  }
 ]
