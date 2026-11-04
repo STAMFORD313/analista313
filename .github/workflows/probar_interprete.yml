@@ -7,13 +7,13 @@ permissions: {contents: read, models: read}
 jobs:
   probar:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 30
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with: {python-version: "3.12"}
-      - run: pip install requests
-      - run: python sonda_modelos.py; python interpreta.py
+      - run: pip install requests huggingface_hub && pip install llama-cpp-python --prefer-binary --extra-index-url https://abetlen.github.io/llama-cpp-python/whl/cpu
+      - run: python sonda_modelos.py
         env:
           PYTHONUNBUFFERED: "1"
           GH_MODELS_TOKEN: ${{ secrets.GITHUB_TOKEN }}

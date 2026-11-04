@@ -1,15 +1,19 @@
-"""Sonda temporal: qué dirección de GitHub Models responde con el token del workflow (probar_interprete.yml)."""
-import os, requests
-tok = os.environ["GH_MODELS_TOKEN"]
-H = {"Authorization": f"Bearer {tok}", "Accept": "application/vnd.github+json", "X-GitHub-Api-Version": "2022-11-28",
-     "Content-Type": "application/json"}
-body = {"model": "openai/gpt-4.1-mini", "messages": [{"role": "user", "content": "Di solo: hola"}], "max_tokens": 10}
-for url, b in (("https://models.github.ai/inference/chat/completions", body),
-               ("https://models.github.ai/orgs/STAMFORD313/inference/chat/completions", body),
-               ("https://models.inference.ai.azure.com/chat/completions", dict(body, model="gpt-4o-mini"))):
-    try:
-        r = requests.post(url, headers=H, json=b, timeout=30, allow_redirects=False)
-        print(url, r.status_code, r.headers.get("content-type"), r.headers.get("location"), repr(r.text[:300]))
-    except Exception as e: print(url, repr(e))
-r = requests.get("https://models.github.ai/catalog/models", headers=H, timeout=30)
-print("catálogo", r.status_code, r.text[:300])
+"""Sonda temporal: modelo de lenguaje local (llama.cpp + Qwen2.5 GGUF) en la CPU del runner: ¿instala, carga, cuánto tarda?"""
+import json, time
+from huggingface_hub import hf_hub_download
+from llama_cpp import Llama
+import interpreta as I
+for repo, fn in (("Qwen/Qwen2.5-1.5B-Instruct-GGUF", "qwen2.5-1.5b-instruct-q4_k_m.gguf"),
+                 ("Qwen/Qwen2.5-3B-Instruct-GGUF", "qwen2.5-3b-instruct-q4_k_m.gguf")):
+    t0 = time.time(); p = hf_hub_download(repo, fn); t1 = time.time()
+    llm = Llama(model_path=p, n_ctx=4096, n_threads=4, verbose=False); t2 = time.time()
+    print(fn, f"descarga {t1 - t0:.0f} s, carga {t2 - t1:.0f} s", flush=True)
+    for msg, hist in (("sí", [("bot", "¿Quieres la combinada segura de Girona – Almería?")]),
+                      ("oye y qué tal le va últimamente al equipo blanco de la capital", []),
+                      ("Añádeles más para subir la cuota, lo máximo que pueda pero de forma segura", [("bot", "Combinada segura · Girona – Almería")]),
+                      ("cuánto suele tirar a puerta mbappe", []),
+                      ("y el barça cuantos corners saca", [])):
+        t = time.time()
+        r = llm.create_chat_completion(messages=[{"role": "system", "content": I.SYSTEM}, {"role": "user", "content": I._prompt(msg, hist)}],
+                                       response_format={"type": "json_object", "schema": I.SCHEMA}, temperature=0, max_tokens=120)
+        print(f"  {time.time() - t:.1f} s · {msg} → {r['choices'][0]['message']['content']}", flush=True)
