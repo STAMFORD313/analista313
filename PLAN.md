@@ -24,7 +24,7 @@ Informe al usuario: una línea por mejora con 🟢 (conseguido) o 🔴 (no mejor
 - [x] Pinnacle (cuotas de cierre, todos los deportes) → pinnacle.py, experto datos_pinnacle
 - [x] Pinnacle como referencia del valor de las piernas «gana X» del chat (31 de 85 casan)
 - [ ] Pinnacle en el juez del mercado (cierre de Pinnacle frente al modelo, por liga) cuando haya ≥ 200 partidos guardados
-- [ ] FotMob (fútbol: estadísticas, alineaciones, xG por partido) · ~~Understat~~ (4-nov: sirve una página vacía a cualquier petición desde Actions)
+- [x] FotMob recolector (xG y estadísticas por partido) → [ ] usar el xG en el 1X2 y en córners/tiros · ~~Understat~~ (4-nov: sirve una página vacía a cualquier petición desde Actions)
 - [x] OpenDota → fuentes.py, experto datos_opendota (500 partidas en la prueba; 40 páginas por pasada)
 - [x] OpenDota en el Elo de Dota 2: medido, no mejora (0.6597 vs 0.5894 de bo3.gg; mezcla w=0). Reintentar con héroes/jugadores · gol.gg (LoL) · Liquipedia (calendarios esports, con límite de peticiones)
 - [ ] API oficial NHL (api-web.nhle.com) · MLB statsapi · StatsBomb open data (histórico de eventos) · OpenLigaDB (Bundesliga)
