@@ -116,7 +116,74 @@ def route(text, history=()):
     return _parse(next((b.text for b in r.content if b.type == "text"), ""))
 
 
-if __name__ == "__main__":  # prueba: python interpreta.py
+# ── redactor: la IA cuenta con palabras naturales lo que ha calculado el bot (sin añadir datos) ─────────────────────
+WRITER = """Eres la voz de un bot de apuestas deportivas que habla con su dueño por Telegram, en español de España, cercano y \
+natural, como un amigo que sabe de apuestas (tutea, frases cortas, algún emoji con moderación). Te paso lo que el usuario \
+ha dicho y el INFORME DEL BOT, que es el único que tiene los datos: modelos entrenados y comprobados con miles de partidos.
+
+Reglas estrictas:
+- Usa SOLO los datos del informe. No añadas cifras, probabilidades, cuotas, fechas, resultados, nombres ni opiniones que no \
+estén en él. No uses lo que sepas tú de fútbol. Si el informe no responde a lo que preguntó, dilo con sinceridad.
+- Copia los números tal cual aparecen (mismo formato: 91%, 1.34, 9.5…). No redondees ni calcules nada nuevo.
+- Mantén la recomendación del bot (🟢/🟡/🔴, «me gusta», «no la cogería», «casi una moneda») sin suavizarla ni exagerarla.
+- Si es una combinada o una lista de apuestas, escribe cada pierna en su propia línea con «•» para que se pueda apostar.
+- Si el informe termina con una pregunta (❓), termina tú con esa misma pregunta, con tus palabras.
+- Texto plano, sin Markdown ni HTML. Breve: lo que diría una persona en un chat."""
+
+
+def _numbers(s):
+    import re
+    return {x.replace(",", ".").rstrip(".") for x in re.findall(r"\d+(?:[.,]\d+)?", s or "")}
+
+
+def _complete_gemini(system, prompt):
+    key = os.getenv("GEMINI_API_KEY")
+    if not key: return None
+    try: from google import genai
+    except ImportError: return None
+    client = genai.Client(api_key=key, http_options={"timeout": 15_000})
+    for model in [m.strip() for m in GEMINI_MODELS if m.strip() not in _DEAD]:
+        try:
+            r = client.models.generate_content(model=model, contents=prompt, config={"system_instruction": system, "temperature": 0.3})
+            if r.text and r.text.strip(): return r.text.strip()
+        except Exception as e:
+            print("Gemini redactor", model, str(e)[:200])
+            if getattr(e, "code", None) == 429: _DEAD.add(model)
+    return None
+
+
+def _complete_claude(system, prompt):
+    if not os.getenv("ANTHROPIC_API_KEY"): return None
+    try: import anthropic
+    except ImportError: return None
+    try:
+        r = anthropic.Anthropic(timeout=30.0, max_retries=1).beta.messages.create(
+            model=MODEL, max_tokens=2000, system=system, betas=["server-side-fallback-2026-07-01"], fallbacks="default",
+            output_config={"effort": "low"}, messages=[{"role": "user", "content": prompt}])
+    except (anthropic.APIStatusError, anthropic.APIConnectionError) as e: print("redactor Claude", repr(e)[:200]); return None
+    if r.stop_reason in ("refusal", "max_tokens"): return None
+    return next((b.text for b in r.content if b.type == "text"), None)
+
+
+def redactar(user_text, report, history=()):
+    """Respuesta natural escrita por la IA a partir del informe del bot, o None (sin IA, fallo, o la IA metió un número
+    que el bot no dio: entonces se manda el informe tal cual)."""
+    if not (os.getenv("ANTHROPIC_API_KEY") or os.getenv("GEMINI_API_KEY")): return None
+    convo = "\n".join(f"{who}: {msg}" for who, msg in list(history)[-6:]) or "(sin conversación previa)"
+    prompt = f"Conversación reciente:\n{convo}\n\nEl usuario ha dicho: {user_text}\n\nINFORME DEL BOT:\n{report}"
+    out = _complete_claude(WRITER, prompt) or _complete_gemini(WRITER, prompt)
+    if not out: return None
+    extra = _numbers(out) - _numbers(report) - _numbers(user_text)
+    if extra:
+        print("redactor descartado: números que no da el bot", sorted(extra)[:8]); return None
+    return out
+
+
+if __name__ == "__main__":  # prueba: python interpreta.py (en Actions: probar_interprete.yml)
+    print(redactar("¿qué combinada segura me recomiendas para el Girona Almería?",
+                   "🧩 Combinada segura · Girona – Almería\n• Más de 0.5 goles (92%)\n• Más de 4.5 córners (91%)\n"
+                   "• Más de 2.5 tarjetas (89%)\n3 piernas · todas: 75% → cuota justa 1.34. Si la casa te la paga a más de 1.40, 🟢 adelante."
+                   "\n\n❓ ¿La junto con otros partidos para subir más la cuota?"))
     for msg, hist in (("sí", [("bot", "¿Quieres la combinada segura de Girona – Almería?")]),
                       ("oye y qué tal le va últimamente al equipo blanco de la capital", []),
                       ("Añádeles más para subir la cuota, lo máximo que pueda pero de forma segura", [("bot", "Combinada segura · Girona – Almería")]),

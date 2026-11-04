@@ -997,3 +997,15 @@ try: assert _IP2.route("súbele la cuota") == {"orden": "combinada del día", "r
 finally: _gg.Client = _cl; _os.environ.pop("GEMINI_API_KEY")
 assert _IP2.GEMINI_MODELS[0] == "gemini-flash-lite-latest" and isinstance(_IP2.GEMINI_MODELS, list)
 print("ok intérprete con Gemini")
+# redactor: la IA escribe con los datos del bot; si mete un número que el bot no dio, se descarta
+_cg = _IP2._complete_gemini; _os.environ["GEMINI_API_KEY"] = "x"
+try:
+    _IP2._complete_gemini = lambda s, p: "Te diría que sí: más de 4.5 córners tiene un 91% 👍"
+    assert _IP2.redactar("¿y los córners?", "Más de 4.5 córners (91%) · cuota justa 1.10") == "Te diría que sí: más de 4.5 córners tiene un 91% 👍"
+    _IP2._complete_gemini = lambda s, p: "Yo creo que hay un 95% de que salgan más de 4.5 córners"
+    assert _IP2.redactar("¿y los córners?", "Más de 4.5 córners (91%)") is None  # 95 no lo dio el bot
+    _IP2._complete_gemini = lambda s, p: "Te cuento <b>todo</b> & más"
+    assert _CH.natural("hola", "<b>informe</b> sin números") == "Te cuento &lt;b&gt;todo&lt;/b&gt; &amp; más"  # texto escapado para Telegram
+    assert _CH.natural("ayuda", _CH.HELP) == _CH.HELP
+finally: _IP2._complete_gemini = _cg; _os.environ.pop("GEMINI_API_KEY")
+print("ok redactor con datos del bot")

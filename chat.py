@@ -617,8 +617,20 @@ def answer(text, depth=0):
         if reply is None:
             reply = _fallback(t)
     if depth == 0:
+        reply = natural(t, reply, hist)
         hist += [("usuario", t), ("bot", _plain(reply))]; del hist[:-12]
     return reply
+
+
+def natural(user_text, reply, hist=()):
+    """La IA (interpreta.redactar) cuenta con palabras naturales lo que ha calculado el bot; si no hay IA, falla o mete un
+    número que el bot no dio, se manda la respuesta del bot tal cual."""
+    if reply == HELP: return reply
+    import html, interpreta
+    report = html.unescape(re.sub(r"<[^>]+>", "", reply))
+    try: out = interpreta.redactar(user_text, report, hist)
+    except Exception as e: print("redactor", repr(e)); out = None
+    return A.esc(out) if out else reply
 
 
 def _fallback(t):
