@@ -869,3 +869,6 @@ finally:
     else: _fp.write_bytes(_fpb)
     kambi.nba_props = _np3
 print("ok pasada de props NBA")
+assert nba_props.stat_of("Points & Rebounds by the player - Including Overtime") is None and nba_props.stat_of("6+ Rebounds By The Player") is None
+assert nba_props.stat_of("Point Spread - Including Overtime") is None and nba_props.stat_of("Rebounds by the player - Including Overtime") == "rebotes"
+print("ok mercados NBA reales")

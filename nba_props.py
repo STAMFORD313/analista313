@@ -67,7 +67,9 @@ STAT_RX = [("triples", re.compile(r"3-?point|three", re.I)), ("rebotes", re.comp
 
 
 def stat_of(label):
-    if "+" in label or " and " in label.lower(): return None  # combinados (pts+reb…): sin modelo aún
+    l = label.lower()
+    if any(x in l for x in ("+", " and ", "&", ",", "double", "spread", "moneyline", "total")) or l[:1].isdigit():
+        return None  # combinados (pts & reb…), dobles-dobles, «6+ rebotes» y mercados de equipo: sin modelo aún
     return next((s for s, rx in STAT_RX if rx.search(label)), None)
 
 
