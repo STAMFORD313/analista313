@@ -1,5 +1,9 @@
 import os as _os0
 for _k in ("GEMINI_API_KEY", "ANTHROPIC_API_KEY", "GH_MODELS_TOKEN"): _os0.environ.pop(_k, None)  # el chat de los tests nunca llama a una IA (en Actions hay clave)
+import requests as _rq0
+def _sin_red(self, method, url, *a, **k):  # los tests no usan la red: en Actions hay partidos y cuotas reales que cambian el resultado
+    raise _rq0.ConnectionError(f"tests sin red: {url}")
+_rq0.Session.request = _sin_red
 import analyst
 analyst.TG = analyst.CHAT = analyst.GEMINI = None  # los tests nunca envían a Telegram ni llaman a la IA
 analyst.W, analyst.MARKET_EDGE = dict.fromkeys(analyst.W, 0.5), dict.fromkeys(analyst.W, 0.05)  # lógica con la mezcla clásica
@@ -1058,6 +1062,7 @@ print("ok Kambi sin juveniles")
 # apuestas simuladas desde el chat: «simúlala» la apunta; al llegar las estadísticas de ESPN se liquida con el porqué
 import simulaciones as _SM
 _smf, _sml, _smp, _smlg = _SM.FILE, _SM.games, _SM.push, _SM.live_game
+_SM.games = lambda code: []  # sin los datos guardados de verdad (estos partidos reales ya se han jugado)
 _SM.live_game = lambda leg, boards: None  # sin red: en Actions el marcador real de ESPN liquidaría estos partidos
 _SM.FILE = A_.DATA / "_test_simuladas.json"; _SM.FILE.unlink(missing_ok=True); _SM._MEM.clear()
 _SM.push = lambda msg: None

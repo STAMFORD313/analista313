@@ -176,3 +176,4 @@
 - 2026-11-04: NBA/NHL en laboratorio: ESPN no guarda cuotas históricas (pickcenter vacío en partidos pasados) → bloqueado hasta acumular ≥300 partidos con cuotas propias (hoy 29). Props de jugador de Unibet sin valor: entre titulares la casa da 43 % en tiros a puerta y salen 31 % (tarjeta 27 % vs 14 %, gol 17 % vs 10 %).
 - 2026-11-04: liquidación en vivo verificada en producción (AEK 2-3 Madrid: 4 simuladas cerradas al acabar). Boletos repetidos: un solo aviso de resultado.
 - 2026-11-04: arreglado analista en rojo: el test de combinada larga usaba cuotas reales de Pinnacle en Actions (por la noche hay partidos) → ahora sin red.
+- 2026-11-04: tests herméticos: sin red (requests bloqueado) y sin datos reales en la prueba de simuladas → analista volvía a fallar en Actions cuando los partidos de prueba reales ya se habían jugado.
