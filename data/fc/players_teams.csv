@@ -55978,3 +55978,343 @@ id,tournament_id,club1,club2,ht1,ht2
 2363310,260923,Bologna,Roma,1,2
 2363311,260923,Juventus,Bologna,2,2
 2362067,260923,Sassuolo,Napoli,3,0
+2362520,260889,Chelsea,Tottenham,3,3
+2362521,260889,Arsenal,Liverpool,2,1
+2362522,260889,Liverpool,Chelsea,1,0
+2362523,260889,Tottenham,Man City,0,1
+2362524,260889,Man City,Liverpool,0,2
+2362525,260889,Chelsea,Arsenal,0,0
+2362526,260889,Arsenal,Man City,0,0
+2362527,260889,Liverpool,Tottenham,1,3
+2362528,260889,Tottenham,Arsenal,0,3
+2362529,260889,Man City,Chelsea,1,2
+2362530,260889,Tottenham,Chelsea,2,1
+2362531,260889,Liverpool,Arsenal,2,1
+2362532,260889,Chelsea,Liverpool,2,3
+2362533,260889,Man City,Tottenham,0,1
+2362534,260889,Liverpool,Man City,1,1
+2362535,260889,Arsenal,Chelsea,0,2
+2362536,260889,Man City,Arsenal,0,1
+2362537,260889,Tottenham,Liverpool,1,1
+2362538,260889,Arsenal,Tottenham,1,3
+2362539,260889,Chelsea,Man City,0,0
+2362540,260891,England,Spain,0,1
+2362541,260891,France,Argentina,1,2
+2362542,260891,Argentina,England,0,1
+2362543,260891,Spain,Germany,1,0
+2362544,260891,Germany,Argentina,2,0
+2362545,260891,England,France,0,3
+2362546,260891,France,Germany,2,1
+2362547,260891,Argentina,Spain,3,2
+2362548,260891,Spain,France,1,0
+2362549,260891,Germany,England,0,0
+2362550,260891,Spain,England,0,1
+2362551,260891,Argentina,France,4,2
+2362552,260891,England,Argentina,1,1
+2362553,260891,Germany,Spain,0,1
+2362554,260891,Argentina,Germany,1,1
+2362555,260891,France,England,1,1
+2362556,260891,Germany,France,0,3
+2362557,260891,Spain,Argentina,0,4
+2362558,260891,France,Spain,0,4
+2362559,260891,England,Germany,1,1
+2362560,260894,Leipzig,Bayern Munchen,1,0
+2362561,260894,Frankfurt,Stuttgart,0,3
+2362562,260894,Stuttgart,Leipzig,3,1
+2362563,260894,Bayern Munchen,B Dortmund,0,1
+2362564,260894,B Dortmund,Stuttgart,1,0
+2362565,260894,Leipzig,Frankfurt,1,1
+2362566,260894,Frankfurt,B Dortmund,2,1
+2362567,260894,Stuttgart,Bayern Munchen,2,1
+2362568,260894,Bayern Munchen,Frankfurt,2,1
+2362569,260894,B Dortmund,Leipzig,1,1
+2362570,260894,Bayern Munchen,Leipzig,0,0
+2362571,260894,Stuttgart,Frankfurt,1,1
+2362572,260894,Leipzig,Stuttgart,1,0
+2362573,260894,B Dortmund,Bayern Munchen,0,2
+2362574,260894,Stuttgart,B Dortmund,1,1
+2362575,260894,Frankfurt,Leipzig,3,0
+2362576,260894,B Dortmund,Frankfurt,0,1
+2362577,260894,Bayern Munchen,Stuttgart,1,0
+2362578,260894,Frankfurt,Bayern Munchen,2,2
+2362579,260894,Leipzig,B Dortmund,2,0
+2362580,260896,Paris,Real Madrid,1,0
+2362581,260896,Bayern Munchen,Atleti,2,1
+2362582,260896,Atleti,Paris,1,0
+2362583,260896,Real Madrid,Liverpool,0,2
+2362584,260896,Liverpool,Atleti,1,1
+2362585,260896,Paris,Bayern Munchen,1,1
+2362586,260896,Bayern Munchen,Liverpool,0,2
+2362587,260896,Atleti,Real Madrid,0,0
+2362588,260896,Real Madrid,Bayern Munchen,2,1
+2362589,260896,Liverpool,Paris,2,1
+2362590,260896,Real Madrid,Paris,1,1
+2362591,260896,Atleti,Bayern Munchen,0,3
+2362592,260896,Paris,Atleti,0,2
+2362593,260896,Liverpool,Real Madrid,1,2
+2362594,260896,Atleti,Liverpool,1,1
+2362595,260896,Bayern Munchen,Paris,2,2
+2362596,260896,Liverpool,Bayern Munchen,0,2
+2362597,260896,Real Madrid,Atleti,1,1
+2362598,260896,Bayern Munchen,Real Madrid,1,1
+2362599,260896,Paris,Liverpool,1,1
+2362188,260905,Porto,Roma,1,0
+2362189,260905,Aston Villa,Fenerbahce,3,1
+2362190,260905,Fenerbahce,Porto,1,0
+2362191,260905,Roma,Salzburg,1,0
+2362192,260905,Salzburg,Fenerbahce,1,1
+2362193,260905,Porto,Aston Villa,0,2
+2362194,260905,Aston Villa,Salzburg,0,1
+2362195,260905,Fenerbahce,Roma,1,1
+2362196,260905,Roma,Aston Villa,0,2
+2362197,260905,Salzburg,Porto,1,2
+2362198,260905,Roma,Porto,1,1
+2362199,260905,Fenerbahce,Aston Villa,2,2
+2362200,260905,Porto,Fenerbahce,1,0
+2362201,260905,Salzburg,Roma,0,2
+2362202,260905,Fenerbahce,Salzburg,1,1
+2362203,260905,Aston Villa,Porto,0,2
+2362204,260905,Salzburg,Aston Villa,0,0
+2362205,260905,Roma,Fenerbahce,0,1
+2362206,260905,Aston Villa,Roma,4,0
+2362207,260905,Porto,Salzburg,1,2
+2362208,260906,Liverpool,Bayern Munchen,2,2
+2362209,260906,Atleti,Real Madrid,0,2
+2362210,260906,Real Madrid,Liverpool,2,0
+2362211,260906,Bayern Munchen,Paris,1,0
+2362212,260906,Paris,Real Madrid,1,4
+2362213,260906,Liverpool,Atleti,1,2
+2362214,260906,Atleti,Paris,3,0
+2362215,260906,Real Madrid,Bayern Munchen,2,3
+2362216,260906,Bayern Munchen,Atleti,0,2
+2362217,260906,Paris,Liverpool,1,3
+2362218,260906,Bayern Munchen,Liverpool,1,1
+2362219,260906,Real Madrid,Atleti,2,0
+2362220,260906,Liverpool,Real Madrid,3,2
+2362221,260906,Paris,Bayern Munchen,1,1
+2362222,260906,Real Madrid,Paris,1,2
+2362223,260906,Atleti,Liverpool,1,1
+2362224,260906,Paris,Atleti,0,2
+2362225,260906,Bayern Munchen,Real Madrid,1,2
+2362226,260906,Atleti,Bayern Munchen,2,2
+2362227,260906,Liverpool,Paris,0,2
+2362228,260907,Roma,Sassuolo,0,0
+2362229,260907,Bologna,Juventus,1,3
+2362230,260907,Juventus,Roma,1,1
+2362231,260907,Sassuolo,Napoli,2,2
+2362232,260907,Napoli,Juventus,2,0
+2362233,260907,Roma,Bologna,1,1
+2362234,260907,Bologna,Napoli,2,2
+2362235,260907,Juventus,Sassuolo,1,0
+2362236,260907,Sassuolo,Bologna,3,1
+2362237,260907,Napoli,Roma,2,1
+2362238,260907,Sassuolo,Roma,0,0
+2362239,260907,Juventus,Bologna,2,2
+2362240,260907,Roma,Juventus,0,1
+2362241,260907,Napoli,Sassuolo,2,0
+2362242,260907,Juventus,Napoli,0,2
+2362243,260907,Bologna,Roma,0,2
+2362244,260907,Napoli,Bologna,2,1
+2362245,260907,Sassuolo,Juventus,1,2
+2362246,260907,Bologna,Sassuolo,2,2
+2362247,260907,Roma,Napoli,0,0
+2362428,260913,B Dortmund,Arsenal,1,1
+2362429,260913,Juventus,Man City,1,0
+2362430,260913,Man City,B Dortmund,1,3
+2362431,260913,Arsenal,Sporting CP,3,2
+2362432,260913,Sporting CP,Man City,2,2
+2362433,260913,B Dortmund,Juventus,2,6
+2362434,260913,Juventus,Sporting CP,2,2
+2362435,260913,Man City,Arsenal,4,3
+2362436,260913,Arsenal,Juventus,5,0
+2362437,260913,Sporting CP,B Dortmund,1,2
+2362438,260913,Arsenal,B Dortmund,4,2
+2362439,260913,Man City,Juventus,3,2
+2362440,260913,B Dortmund,Man City,0,7
+2362441,260913,Sporting CP,Arsenal,0,1
+2362442,260913,Man City,Sporting CP,2,4
+2362443,260913,Juventus,B Dortmund,2,3
+2362444,260913,Sporting CP,Juventus,1,4
+2362445,260913,Arsenal,Man City,3,1
+2362446,260913,Juventus,Arsenal,1,3
+2362447,260913,B Dortmund,Sporting CP,0,2
+2362448,260915,Besiktas,Basaksehir,2,1
+2362449,260915,Trabzonspor,Galatasaray,3,0
+2362450,260915,Galatasaray,Besiktas,0,0
+2362451,260915,Basaksehir,Fenerbahce,1,2
+2362452,260915,Fenerbahce,Galatasaray,2,2
+2362453,260915,Besiktas,Trabzonspor,3,0
+2362454,260915,Trabzonspor,Fenerbahce,1,1
+2362455,260915,Galatasaray,Basaksehir,1,3
+2362456,260915,Basaksehir,Trabzonspor,2,4
+2362457,260915,Fenerbahce,Besiktas,1,1
+2362458,260915,Basaksehir,Besiktas,2,1
+2362459,260915,Galatasaray,Trabzonspor,3,2
+2362460,260915,Besiktas,Galatasaray,3,2
+2362461,260915,Fenerbahce,Basaksehir,1,3
+2362462,260915,Galatasaray,Fenerbahce,0,5
+2362463,260915,Trabzonspor,Besiktas,1,5
+2362464,260915,Fenerbahce,Trabzonspor,4,1
+2362465,260915,Basaksehir,Galatasaray,4,2
+2362466,260915,Trabzonspor,Basaksehir,0,5
+2362467,260915,Besiktas,Fenerbahce,1,1
+2362468,260917,Tottenham,Man City,1,0
+2362469,260917,Chelsea,Liverpool,0,2
+2362470,260917,Liverpool,Tottenham,1,1
+2362471,260917,Man City,Arsenal,3,2
+2362472,260917,Arsenal,Liverpool,2,2
+2362473,260917,Tottenham,Chelsea,3,4
+2362474,260917,Chelsea,Arsenal,1,4
+2362475,260917,Liverpool,Man City,2,2
+2362476,260917,Man City,Chelsea,1,3
+2362477,260917,Arsenal,Tottenham,2,2
+2362478,260917,Man City,Tottenham,1,4
+2362479,260917,Liverpool,Chelsea,3,2
+2362480,260917,Tottenham,Liverpool,2,2
+2362481,260917,Arsenal,Man City,2,2
+2362482,260917,Liverpool,Arsenal,0,1
+2362483,260917,Chelsea,Tottenham,4,2
+2362484,260917,Arsenal,Chelsea,0,3
+2362485,260917,Man City,Liverpool,1,3
+2362486,260917,Chelsea,Man City,1,2
+2362487,260917,Tottenham,Arsenal,3,1
+2363312,260924,Netherlands,Portugal,0,3
+2362069,260924,Morocco,Germany,1,2
+2362070,260924,Germany,Netherlands,1,1
+2363313,260924,Portugal,Belgium,0,0
+2362072,260924,Belgium,Germany,1,1
+2362073,260924,Netherlands,Morocco,0,0
+2362074,260924,Morocco,Belgium,1,1
+2363314,260924,Germany,Portugal,0,0
+2363315,260924,Portugal,Morocco,0,2
+2362077,260924,Belgium,Netherlands,2,1
+2363316,260924,Portugal,Netherlands,2,1
+2362079,260924,Germany,Morocco,1,2
+2362080,260924,Netherlands,Germany,0,3
+2363317,260924,Belgium,Portugal,0,1
+2362082,260924,Germany,Belgium,0,0
+2362083,260924,Morocco,Netherlands,0,2
+2362084,260924,Belgium,Morocco,0,3
+2363318,260924,Portugal,Germany,0,2
+2363319,260924,Morocco,Portugal,1,0
+2362087,260924,Netherlands,Belgium,0,2
+2363320,260925,Roma,Aston Villa,4,1
+2362089,260925,Fenerbahce,Porto,3,2
+2362090,260925,Porto,Roma,3,4
+2363321,260925,Aston Villa,Salzburg,0,0
+2362092,260925,Salzburg,Porto,2,0
+2362093,260925,Roma,Fenerbahce,2,2
+2362094,260925,Fenerbahce,Salzburg,1,1
+2363322,260925,Porto,Aston Villa,0,1
+2363323,260925,Aston Villa,Fenerbahce,5,1
+2362097,260925,Salzburg,Roma,2,3
+2363324,260925,Aston Villa,Roma,5,1
+2362099,260925,Porto,Fenerbahce,0,2
+2362100,260925,Roma,Porto,3,0
+2363325,260925,Salzburg,Aston Villa,2,2
+2362102,260925,Porto,Salzburg,1,1
+2362103,260925,Fenerbahce,Roma,2,1
+2362104,260925,Salzburg,Fenerbahce,2,2
+2363326,260925,Aston Villa,Porto,2,0
+2363327,260925,Fenerbahce,Aston Villa,1,1
+2362107,260925,Roma,Salzburg,1,2
+2362378,260935,Spain,England,2,5
+2363379,260935,France,Germany,4,2
+2363380,260935,Germany,Spain,3,0
+2362381,260935,England,Argentina,2,2
+2363381,260935,Argentina,Germany,1,3
+2362383,260935,Spain,France,0,4
+2362384,260935,France,Argentina,3,4
+2363382,260935,Germany,England,2,3
+2362386,260935,England,France,2,2
+2362387,260935,Argentina,Spain,2,1
+2362388,260935,England,Spain,3,0
+2363383,260935,Germany,France,3,5
+2363384,260935,Spain,Germany,1,2
+2362391,260935,Argentina,England,1,3
+2363385,260935,Germany,Argentina,3,1
+2362393,260935,France,Spain,4,2
+2362394,260935,Argentina,France,0,2
+2363386,260935,England,Germany,4,3
+2362396,260935,France,England,1,1
+2362397,260935,Spain,Argentina,2,3
+2362398,260937,B Dortmund,Juventus,1,1
+2363387,260937,Sporting CP,Arsenal,2,3
+2363388,260937,Arsenal,B Dortmund,4,1
+2362401,260937,Juventus,Man City,5,1
+2363389,260937,Man City,Arsenal,3,2
+2362403,260937,B Dortmund,Sporting CP,0,2
+2362404,260937,Sporting CP,Man City,3,0
+2363390,260937,Arsenal,Juventus,4,3
+2362406,260937,Juventus,Sporting CP,7,1
+2362407,260937,Man City,B Dortmund,2,1
+2362408,260937,Juventus,B Dortmund,4,1
+2363391,260937,Arsenal,Sporting CP,3,6
+2363392,260937,B Dortmund,Arsenal,3,4
+2362411,260937,Man City,Juventus,2,6
+2363393,260937,Arsenal,Man City,4,1
+2362413,260937,Sporting CP,B Dortmund,2,0
+2362414,260937,Man City,Sporting CP,1,3
+2363394,260937,Juventus,Arsenal,2,1
+2362416,260937,Sporting CP,Juventus,0,4
+2362417,260937,B Dortmund,Man City,5,2
+2362418,260939,B Dortmund,Juventus,2,2
+2363395,260939,Sporting CP,Arsenal,5,4
+2363396,260939,Arsenal,B Dortmund,3,1
+2362421,260939,Juventus,Man City,3,1
+2363397,260939,Man City,Arsenal,4,0
+2362423,260939,B Dortmund,Sporting CP,1,2
+2362424,260939,Sporting CP,Man City,3,2
+2363398,260939,Arsenal,Juventus,1,4
+2362426,260939,Juventus,Sporting CP,2,2
+2362427,260939,Man City,B Dortmund,2,2
+2362812,260943,Ecuador,Argentina,1,2
+2362813,260943,Colombia,Brazil,3,3
+2362814,260943,Brazil,Ecuador,2,1
+2362815,260943,Argentina,Uruguay,0,1
+2362816,260943,Uruguay,Brazil,1,1
+2362817,260943,Ecuador,Colombia,0,1
+2362818,260943,Colombia,Uruguay,2,0
+2362819,260943,Brazil,Argentina,0,1
+2362820,260943,Argentina,Colombia,1,1
+2362821,260943,Uruguay,Ecuador,1,1
+2362822,260943,Argentina,Ecuador,1,1
+2362823,260943,Brazil,Colombia,0,1
+2362824,260943,Ecuador,Brazil,2,2
+2362825,260943,Uruguay,Argentina,4,2
+2362826,260943,Brazil,Uruguay,0,1
+2362827,260943,Colombia,Ecuador,1,1
+2362828,260943,Uruguay,Colombia,1,1
+2362829,260943,Argentina,Brazil,3,0
+2362830,260943,Colombia,Argentina,0,1
+2362831,260943,Ecuador,Uruguay,1,4
+2362832,260948,Ecuador,Argentina,1,3
+2362833,260948,Colombia,Brazil,0,0
+2362834,260948,Brazil,Ecuador,1,1
+2362835,260948,Argentina,Uruguay,1,2
+2362836,260948,Uruguay,Brazil,2,0
+2362837,260948,Ecuador,Colombia,0,5
+2362838,260948,Colombia,Uruguay,2,2
+2362839,260948,Brazil,Argentina,4,1
+2362840,260948,Argentina,Colombia,1,4
+2362841,260948,Uruguay,Ecuador,2,2
+2362792,260949,Adelaide United,Melbourne City,2,0
+2362793,260949,Sydney FC,Melbourne Victory,0,1
+2362794,260949,Melbourne Victory,Adelaide United,3,2
+2362795,260949,Melbourne City,Western Sydney Wanderers,1,1
+2362796,260949,Western Sydney Wanderers,Melbourne Victory,2,1
+2362797,260949,Adelaide United,Sydney FC,2,2
+2362798,260949,Sydney FC,Western Sydney Wanderers,1,1
+2362799,260949,Melbourne Victory,Melbourne City,0,3
+2362800,260949,Melbourne City,Sydney FC,1,2
+2362801,260949,Western Sydney Wanderers,Adelaide United,1,1
+2362802,260949,Melbourne City,Adelaide United,2,0
+2362803,260949,Melbourne Victory,Sydney FC,0,1
+2362804,260949,Adelaide United,Melbourne Victory,0,2
+2362805,260949,Western Sydney Wanderers,Melbourne City,2,0
+2362806,260949,Melbourne Victory,Western Sydney Wanderers,1,1
+2362807,260949,Sydney FC,Adelaide United,1,1
+2362808,260949,Western Sydney Wanderers,Sydney FC,3,2
+2362809,260949,Melbourne City,Melbourne Victory,2,0
+2362810,260949,Sydney FC,Melbourne City,0,0
+2362811,260949,Adelaide United,Western Sydney Wanderers,0,0

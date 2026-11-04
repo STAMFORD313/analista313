@@ -798,6 +798,15 @@
   "wta|2026-11-06|Sofya Lansere|Martyna Kubka",
   "atp|2026-11-05|Lorenzo Musetti|Luca Van Assche",
   "wta|2026-11-06|Janice Tjen|Polina Kudermetova",
+  "atp|2026-11-05|Rinky Hijikata|Tomas Martin Etcheverry",
+  "atp|2026-11-05|Nuno Borges|Ignacio Buse",
+  "atp|2026-11-05|Jan-Lennard Struff|Casper Ruud",
+  "atp|2026-11-05|Matteo Berrettini|Carlos Alcaraz",
+  "atp|2026-11-05|Arthur Fils|Taylor Fritz",
+  "wta|2026-11-05|Carole Monnet|Leyre Romero Gormaz",
+  "wta|2026-11-05|Julia Riera|Renata Zarazua",
+  "wta|2026-11-05|Leolia Jeanjean|Alice Tubello",
+  "wta|2026-11-06|Robin Montgomery|Maaya Rajeshwaran Revathi",
   "cs2|132573",
   "cs2|132574",
   "cs2|132578",
@@ -1351,15 +1360,6 @@
   "fc|2362448",
   "fc|2362798",
   "fc|2362799",
-  "atp|2026-11-05|Rinky Hijikata|Tomas Martin Etcheverry",
-  "atp|2026-11-05|Nuno Borges|Ignacio Buse",
-  "atp|2026-11-05|Jan-Lennard Struff|Casper Ruud",
-  "atp|2026-11-05|Matteo Berrettini|Carlos Alcaraz",
-  "atp|2026-11-05|Arthur Fils|Taylor Fritz",
-  "wta|2026-11-05|Carole Monnet|Leyre Romero Gormaz",
-  "wta|2026-11-05|Julia Riera|Renata Zarazua",
-  "wta|2026-11-05|Leolia Jeanjean|Alice Tubello",
-  "wta|2026-11-06|Robin Montgomery|Maaya Rajeshwaran Revathi",
   "cs2|133299",
   "cs2|133285",
   "cs2|133284",
@@ -1380,7 +1380,10 @@
   "r6|133078",
   "fc|2361902",
   "fc|2361904",
-  "fc|2364034"
+  "fc|2364034",
+  "fc|2361907",
+  "fc|2362683",
+  "fc|2361906"
  ],
  "signals": [
   {
@@ -8232,19 +8235,6 @@
    "start": "2026-11-04T22:30:00+00:00",
    "league": "🇧🇷 Brasileirão",
    "sport": "⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (goles esperados 1.70 - 0.91)",
-    "1 53% · X 26% · 2 22%",
-    "1X 78% · X2 47% · 12 74%",
-    "+1.5 74% · +2.5 48% · +3.5 27% · Ambos marcan 49%",
-    "Marcadores: 1-0 12% · 1-1 12% · 2-0 11% · 2-1 10%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Athletico-PR ➖✅❌➖❌ | Vasco ✅➖❌✅❌",
-    "• H2H: 17 desde 2013: 9V-4E-4D · 2.1 goles/partido · +2.5 en 29%",
-    "• Bajas: Athletico-PR: sin bajas; Vasco: 0 fuera, 2 duda",
-    "• Favorito de las casas: Athletico-PR @ 2.05"
-   ],
    "context": "Athletico-PR vs Vasco (🇧🇷 Brasileirão). Modelo Poisson con historial desde 2005 y bajas: 1 53% X 26% 2 22%, +2.5 48%, ambos marcan 49%. Forma Athletico-PR ➖✅❌➖❌, Vasco ✅➖❌✅❌ (✅ victoria ➖ empate ❌ derrota). H2H 17 desde 2013: 9V-4E-4D · 2.1 goles/partido · +2.5 en 29%. Bajas Athletico-PR: ninguna. Bajas Vasco: Andres Gomez F duda 27 PJ; Mateus Cocao M duda 0 PJ.",
    "captured": "2026-11-03T10:11",
    "version": "b9e51af",
@@ -8265,19 +8255,6 @@
    "start": "2026-11-04T22:30:00+00:00",
    "league": "🇧🇷 Brasileirão",
    "sport": "⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (goles esperados 1.97 - 0.71)",
-    "1 69% · X 19% · 2 12%",
-    "1X 88% · X2 31% · 12 81%",
-    "+1.5 75% · +2.5 50% · +3.5 28% · Ambos marcan 44%",
-    "Marcadores: 2-0 13% · 1-0 13% · 1-1 10% · 2-1 9%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Flamengo RJ ➖✅✅✅✅ | Gremio ➖➖❌✅✅",
-    "• H2H: 27 desde 2012: 10V-5E-12D · 2.4 goles/partido · +2.5 en 37%",
-    "• Bajas: Flamengo RJ: 0 fuera, 3 duda; Gremio: 0 fuera, 5 duda",
-    "• Favorito de las casas: Flamengo RJ @ 1.13"
-   ],
    "context": "Flamengo RJ vs Gremio (🇧🇷 Brasileirão). Modelo Poisson con historial desde 2005 y bajas: 1 69% X 19% 2 12%, +2.5 50%, ambos marcan 44%. Forma Flamengo RJ ➖✅✅✅✅, Gremio ➖➖❌✅✅ (✅ victoria ➖ empate ❌ derrota). H2H 27 desde 2012: 10V-5E-12D · 2.4 goles/partido · +2.5 en 37%. Bajas Flamengo RJ: Saul Niguez M duda 11 PJ; Anthony Valencia F duda 1 PJ; Danilo D duda 11 PJ. Bajas Gremio: Cristian Pavon F duda 29 PJ; Danilo D duda 7 PJ; Juan Ignacio Nardoni M duda 18 PJ; Jovane Cabral M duda 6 PJ; Joao Lucas D duda 6 PJ.",
    "captured": "2026-11-03T10:11",
    "version": "b9e51af",
@@ -8562,7 +8539,11 @@
    "bajas": "Blackburn: 1 fuera, 0 duda (Lewis Miller); Stoke: sin bajas",
    "considered": true,
    "placed": false,
-   "combo_anunciada": true
+   "combo_anunciada": true,
+   "result": true,
+   "score": "1-2",
+   "clv": 0.155,
+   "logged": true
   },
   {
    "market": "corners_h_o",
@@ -8740,7 +8721,12 @@
    "bajas": "Charlton: 1 fuera, 0 duda (Zach Mitchell); Bolton: sin bajas",
    "considered": true,
    "placed": false,
-   "combo_anunciada": true
+   "combo_anunciada": true,
+   "factor": 1.9,
+   "result": true,
+   "score": "0-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_a_o",
@@ -8917,7 +8903,11 @@
    "bajas": "Derby: 0 fuera, 5 duda; Norwich: 1 fuera, 1 duda (Gabriel Forsyth)",
    "considered": true,
    "placed": false,
-   "combo_anunciada": true
+   "combo_anunciada": true,
+   "result": true,
+   "score": "0-4",
+   "clv": 0.055,
+   "logged": true
   },
   {
    "market": "corners_h_o",
@@ -9100,7 +9090,11 @@
    "bajas": "Portsmouth: 1 fuera, 1 duda (Mark Kosznovszky); Swansea: 0 fuera, 1 duda",
    "considered": true,
    "placed": false,
-   "combo_anunciada": true
+   "combo_anunciada": true,
+   "result": false,
+   "score": "3-1",
+   "clv": 0.087,
+   "logged": true
   },
   {
    "market": "corners_t_o",
@@ -9278,7 +9272,12 @@
    "bajas": "Preston: 0 fuera, 2 duda; Sheffield Utd: sin bajas",
    "considered": true,
    "placed": false,
-   "combo_anunciada": true
+   "combo_anunciada": true,
+   "factor": 0.0,
+   "result": false,
+   "score": "2-3",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_t_o",
@@ -9455,7 +9454,11 @@
    "bajas": "QPR: sin bajas; Burnley: 0 fuera, 2 duda",
    "considered": true,
    "placed": false,
-   "combo_anunciada": true
+   "combo_anunciada": true,
+   "result": false,
+   "score": "1-1",
+   "clv": 0.003,
+   "logged": true
   },
   {
    "market": "A",
@@ -9476,7 +9479,11 @@
    "bajas": "Watford: sin bajas; Lincoln: 1 fuera, 1 duda (Tendayi Darikwa)",
    "considered": true,
    "placed": false,
-   "combo_anunciada": true
+   "combo_anunciada": true,
+   "result": false,
+   "score": "1-0",
+   "clv": 0.062,
+   "logged": true
   },
   {
    "market": "corners_h_o",
@@ -9653,7 +9660,11 @@
    "bajas": "Birmingham: 0 fuera, 1 duda; Millwall: 0 fuera, 1 duda",
    "considered": true,
    "placed": false,
-   "combo_anunciada": true
+   "combo_anunciada": true,
+   "result": false,
+   "score": "3-0",
+   "clv": 0.03,
+   "logged": true
   },
   {
    "market": "corners_h_o",
@@ -9830,7 +9841,11 @@
    "bajas": "West Brom: sin bajas; Southampton: sin bajas",
    "considered": true,
    "placed": false,
-   "combo_anunciada": true
+   "combo_anunciada": true,
+   "result": true,
+   "score": "1-1",
+   "clv": 0.091,
+   "logged": true
   },
   {
    "market": "corners_h_o",
@@ -10033,7 +10048,12 @@
    "bajas": "Cardiff: sin bajas; West Ham: sin bajas",
    "considered": true,
    "placed": false,
-   "combo_anunciada": true
+   "combo_anunciada": true,
+   "factor": 1.88,
+   "result": true,
+   "score": "3-3",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "AHH",
@@ -10054,7 +10074,12 @@
    "version": "a0fe0a5",
    "bajas": "Wrexham: sin bajas; Middlesbrough: 0 fuera, 2 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "factor": 1.88,
+   "result": true,
+   "score": "2-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "A",
@@ -10074,7 +10099,11 @@
    "version": "a0fe0a5",
    "bajas": "Bristol City: sin bajas; Wolves: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "1-2",
+   "clv": 0.106,
+   "logged": true
   },
   {
    "market": "H",
@@ -12055,7 +12084,11 @@
    "version": "c0fb9e1",
    "bajas": "Cardiff: sin bajas; West Ham: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "3-3",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_a_u",
@@ -12076,7 +12109,11 @@
    "version": "c0fb9e1",
    "bajas": "Cardiff: sin bajas; West Ham: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "3-3",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_t_o",
@@ -12097,7 +12134,11 @@
    "version": "c0fb9e1",
    "bajas": "Cardiff: sin bajas; West Ham: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "3-3",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_t_u",
@@ -12118,7 +12159,11 @@
    "version": "c0fb9e1",
    "bajas": "Cardiff: sin bajas; West Ham: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "3-3",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_h_o",
@@ -12139,7 +12184,11 @@
    "version": "c0fb9e1",
    "bajas": "Cardiff: sin bajas; West Ham: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "3-3",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_h_u",
@@ -12160,7 +12209,11 @@
    "version": "c0fb9e1",
    "bajas": "Cardiff: sin bajas; West Ham: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "3-3",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_a_o",
@@ -12181,7 +12234,11 @@
    "version": "c0fb9e1",
    "bajas": "Wrexham: sin bajas; Middlesbrough: 0 fuera, 2 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "2-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_a_u",
@@ -12202,7 +12259,11 @@
    "version": "c0fb9e1",
    "bajas": "Wrexham: sin bajas; Middlesbrough: 0 fuera, 2 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "2-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_t_o",
@@ -12223,7 +12284,11 @@
    "version": "c0fb9e1",
    "bajas": "Wrexham: sin bajas; Middlesbrough: 0 fuera, 2 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "2-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_t_u",
@@ -12244,7 +12309,11 @@
    "version": "c0fb9e1",
    "bajas": "Wrexham: sin bajas; Middlesbrough: 0 fuera, 2 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "2-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_h_o",
@@ -12265,7 +12334,11 @@
    "version": "c0fb9e1",
    "bajas": "Wrexham: sin bajas; Middlesbrough: 0 fuera, 2 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "2-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_h_u",
@@ -12286,7 +12359,11 @@
    "version": "c0fb9e1",
    "bajas": "Wrexham: sin bajas; Middlesbrough: 0 fuera, 2 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "2-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_h_o",
@@ -12307,7 +12384,11 @@
    "version": "c0fb9e1",
    "bajas": "Bristol City: sin bajas; Wolves: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "1-2",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_h_u",
@@ -12328,7 +12409,11 @@
    "version": "c0fb9e1",
    "bajas": "Bristol City: sin bajas; Wolves: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "1-2",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_t_o",
@@ -12349,7 +12434,11 @@
    "version": "c0fb9e1",
    "bajas": "Bristol City: sin bajas; Wolves: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "1-2",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_t_u",
@@ -12370,7 +12459,11 @@
    "version": "c0fb9e1",
    "bajas": "Bristol City: sin bajas; Wolves: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "1-2",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_a_o",
@@ -12391,7 +12484,11 @@
    "version": "c0fb9e1",
    "bajas": "Bristol City: sin bajas; Wolves: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "1-2",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_a_u",
@@ -12412,7 +12509,11 @@
    "version": "c0fb9e1",
    "bajas": "Bristol City: sin bajas; Wolves: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "1-2",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "D",
@@ -18649,19 +18750,6 @@
    "start": "2026-11-04T22:34:00+00:00",
    "league": "🎮⚽ FC 27 · Portugal Primera",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 56.316 partidos)",
-    "Goles esperados: OG 2.00 · hotShot 2.29",
-    "Ganador: OG 31% · empate 23% · hotShot 45%",
-    "Total: más de 4.5 goles 43% · menos 57%",
-    "Hándicap hotShot: −1.5 27% · −2.5 14%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: OG ➖➖➖➖➖ | hotShot ✅✅➖✅➖",
-    "• Partidos: OG 520 | hotShot 484",
-    "• Liga: Portugal Primera",
-    "• Unibet: 1 3.65 · X 2.10 · 2 2.48 (sin margen 24%/41%/35%) · ventaja +15%. Sin stake hasta demostrar ROI con estas cuotas."
-   ],
    "context": "EA FC Esoccer Battle OG vs hotShot (Portugal Primera): goles esperados 2.00-2.29, 1X2 31%/23%/45%. Sin cuotas de casa.",
    "captured": "2026-11-04T22:28",
    "version": "63985fa",
@@ -18739,6 +18827,108 @@
    "considered": true,
    "placed": false,
    "anunciada": true
+  },
+  {
+   "market": "H",
+   "pick": "RossFCDK",
+   "odds": 4.6,
+   "book": "Unibet",
+   "implied": 0.19,
+   "edge": 0.257,
+   "sin_stake": true,
+   "p": 0.273,
+   "key": "fc|2361907",
+   "match": "RossFCDK vs hotShot",
+   "start": "2026-11-04T22:58:00+00:00",
+   "league": "🎮⚽ FC 27 · Portugal Primera",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 56.316 partidos)",
+    "Goles esperados: RossFCDK 1.77 · hotShot 2.23",
+    "Ganador: RossFCDK 27% · empate 24% · hotShot 49%",
+    "Total: más de 3.5 goles 57% · menos 43%",
+    "Hándicap hotShot: −1.5 29% · −2.5 15%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: RossFCDK ❌✅➖❌➖ | hotShot ✅✅➖✅➖",
+    "• Partidos: RossFCDK 483 | hotShot 484",
+    "• Liga: Portugal Primera",
+    "• Unibet: 1 4.60 · X 2.60 · 2 1.84 (sin margen 19%/34%/47%) · ventaja +26%. Sin stake hasta demostrar ROI con estas cuotas."
+   ],
+   "context": "EA FC Esoccer Battle RossFCDK vs hotShot (Portugal Primera): goles esperados 1.77-2.23, 1X2 27%/24%/49%. Sin cuotas de casa.",
+   "captured": "2026-11-04T22:35",
+   "version": "6fe8303",
+   "bajas": "",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "D",
+   "pick": "Empate",
+   "odds": 7.5,
+   "book": "Unibet",
+   "implied": 0.116,
+   "edge": 0.033,
+   "sin_stake": true,
+   "p": 0.138,
+   "key": "fc|2362683",
+   "match": "k0mych vs rostyk",
+   "start": "2026-11-04T22:54:00+00:00",
+   "league": "🎮⚽ FC 27 · Argentina Super League 2x6",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 56.316 partidos)",
+    "Goles esperados: k0mych 4.12 · rostyk 5.15",
+    "Ganador: k0mych 27% · empate 14% · rostyk 59%",
+    "Total: más de 9.5 goles 45% · menos 55%",
+    "Hándicap rostyk: −1.5 43% · −2.5 31%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: k0mych ❌❌❌➖❌ | rostyk ✅✅✅✅✅",
+    "• Partidos: k0mych 300 | rostyk 317",
+    "• Liga: Argentina Super League 2x6",
+    "• Unibet: 1 2.75 · X 7.50 · 2 1.53 (sin margen 32%/12%/57%) · ventaja +3%. Sin stake hasta demostrar ROI con estas cuotas."
+   ],
+   "context": "EA FC Esoccer Battle k0mych vs rostyk (Argentina Super League 2x6): goles esperados 4.12-5.15, 1X2 27%/14%/59%. Sin cuotas de casa.",
+   "captured": "2026-11-04T22:35",
+   "version": "6fe8303",
+   "bajas": "",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "D",
+   "pick": "Empate",
+   "odds": 5.3,
+   "book": "Unibet",
+   "implied": 0.165,
+   "edge": 0.023,
+   "sin_stake": true,
+   "p": 0.193,
+   "key": "fc|2361906",
+   "match": "Inquisitor vs Kray",
+   "start": "2026-11-04T22:58:00+00:00",
+   "league": "🎮⚽ FC 27 · Portugal Primera",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 56.316 partidos)",
+    "Goles esperados: Inquisitor 3.03 · Kray 2.89",
+    "Ganador: Inquisitor 44% · empate 19% · Kray 37%",
+    "Total: más de 5.5 goles 54% · menos 46%",
+    "Hándicap Inquisitor: −1.5 28% · −2.5 16%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Inquisitor ❌➖✅❌✅ | Kray ✅❌❌➖❌",
+    "• Partidos: Inquisitor 520 | Kray 519",
+    "• Liga: Portugal Primera",
+    "• Unibet: 1 1.95 · X 5.30 · 2 2.25 (sin margen 45%/16%/39%) · ventaja +2%. Sin stake hasta demostrar ROI con estas cuotas."
+   ],
+   "context": "EA FC Esoccer Battle Inquisitor vs Kray (Portugal Primera): goles esperados 3.03-2.89, 1X2 44%/19%/37%. Sin cuotas de casa.",
+   "captured": "2026-11-04T22:35",
+   "version": "6fe8303",
+   "bajas": "",
+   "considered": true,
+   "placed": false
   }
  ],
  "bank": {
@@ -19170,307 +19360,7 @@
  "scoreboard_id": 156,
  "scoreboard_text": "📊 <b>MARCADOR DEL BOT</b>\n━━━━━━━━━━━━━━━\n🟩 Ganadas: <b>9</b> (38 %)\n🟥 Perdidas: <b>15</b> (62 %)\n⏳ En juego: 4\n\nÚltimas 24:\n🟥🟥🟥🟩🟥🟩🟥🟥🟥🟥🟥🟥🟥🟥🟩🟥🟥🟩🟩🟩🟩🟩🟥🟩\n━━━━━━━━━━━━━━━\n💵 Beneficio -14.21 $ · ROI -29.8 %\n📐 CLV medio +2.5 % (cuota cogida vs cierre)\n💰 Banca: <b>85.79 €</b> (-14.21 € desde 100 €) · libre 80.39 €{\"inline_keyboard\": [[{\"text\": \"\\ud83d\\udcc8 Ver historial completo y fallos\", \"url\": \"https://github.com/STAMFORD313/analista313/blob/main/ESTADISTICAS.md\"}], [{\"text\": \"\\u26bd F\\u00fatbol\", \"callback_data\": \"dep:futbol\"}, {\"text\": \"\\ud83c\\udfc0 NBA\\u00b7NCAA\", \"callback_data\": \"dep:nba\"}, {\"text\": \"\\ud83c\\udfc8 NFL\\u00b7NCAA\", \"callback_data\": \"dep:nfl\"}], [{\"text\": \"\\ud83c\\udfc6 Champions\\u00b7Europa\", \"callback_data\": \"dep:europa\"}, {\"text\": \"\\ud83c\\udfd2 NHL\", \"callback_data\": \"dep:nhl\"}, {\"text\": \"\\u26be MLB\", \"callback_data\": \"dep:mlb\"}], [{\"text\": \"\\ud83e\\udd4a UFC\", \"callback_data\": \"dep:ufc\"}, {\"text\": \"\\ud83c\\udfbe Tenis\", \"callback_data\": \"dep:tenis\"}, {\"text\": \"\\ud83c\\udfae CS2\", \"callback_data\": \"dep:cs2\"}], [{\"text\": \"\\ud83d\\udc09 Dota 2\", \"callback_data\": \"dep:dota2\"}, {\"text\": \"\\ud83e\\uddd9 LoL\", \"callback_data\": \"dep:lol\"}, {\"text\": \"\\ud83d\\udd2b R6 Siege\", \"callback_data\": \"dep:r6\"}], [{\"text\": \"\\ud83d\\udcf1 MLBB\", \"callback_data\": \"dep:mlbb\"}, {\"text\": \"\\ud83c\\udfae\\u26bd FC 27\", \"callback_data\": \"dep:fc\"}]]}",
  "fc_sent": "2026-11-04T22:28:52.321844+00:00",
- "sgp": {
-  "E1|2026-11-03|QPR|Burnley": {
-   "match": "QPR vs Burnley",
-   "start": "2026-11-03T19:45:00+00:00",
-   "combos": [
-    {
-     "kind": "corta",
-     "p": 0.3423,
-     "legs": [
-      {
-       "var": "fouls_h",
-       "sign": -1,
-       "line": 11.5,
-       "p": 0.7062,
-       "text": "Menos de 11.5 faltas de QPR"
-      },
-      {
-       "var": "cards_h",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.7013,
-       "text": "Menos de 2.5 tarjetas de QPR"
-      },
-      {
-       "var": "sot_h",
-       "sign": -1,
-       "line": 5.5,
-       "p": 0.6754,
-       "text": "Menos de 5.5 tiros a puerta de QPR"
-      }
-     ]
-    },
-    {
-     "kind": "larga",
-     "p": 0.1049,
-     "legs": [
-      {
-       "var": "fouls_h",
-       "sign": -1,
-       "line": 11.5,
-       "p": 0.7062,
-       "text": "Menos de 11.5 faltas de QPR"
-      },
-      {
-       "var": "cards_h",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.7013,
-       "text": "Menos de 2.5 tarjetas de QPR"
-      },
-      {
-       "var": "sot_h",
-       "sign": -1,
-       "line": 5.5,
-       "p": 0.6754,
-       "text": "Menos de 5.5 tiros a puerta de QPR"
-      },
-      {
-       "var": "corners_t",
-       "sign": -1,
-       "line": 10.5,
-       "p": 0.6038,
-       "text": "Menos de 10.5 córners"
-      },
-      {
-       "var": "goals_t",
-       "sign": 1,
-       "line": 2.5,
-       "p": 0.5683,
-       "text": "Más de 2.5 goles"
-      }
-     ]
-    }
-   ]
-  },
-  "E1|2026-11-04|Cardiff|West Ham": {
-   "match": "Cardiff vs West Ham",
-   "start": "2026-11-04T19:45:00+00:00",
-   "combos": [
-    {
-     "kind": "corta",
-     "p": 0.346,
-     "legs": [
-      {
-       "var": "cards_h",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.7957,
-       "text": "Menos de 2.5 tarjetas de Cardiff",
-       "odds": null
-      },
-      {
-       "var": "fouls_h",
-       "sign": -1,
-       "line": 11.5,
-       "p": 0.6873,
-       "text": "Menos de 11.5 faltas de Cardiff",
-       "odds": null
-      },
-      {
-       "var": "sot_h",
-       "sign": -1,
-       "line": 5.5,
-       "p": 0.6261,
-       "text": "Menos de 5.5 tiros a puerta de Cardiff",
-       "odds": 1.47
-      }
-     ]
-    },
-    {
-     "kind": "larga",
-     "p": 0.1737,
-     "legs": [
-      {
-       "var": "cards_h",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.7957,
-       "text": "Menos de 2.5 tarjetas de Cardiff",
-       "odds": null
-      },
-      {
-       "var": "fouls_h",
-       "sign": -1,
-       "line": 11.5,
-       "p": 0.6873,
-       "text": "Menos de 11.5 faltas de Cardiff",
-       "odds": null
-      },
-      {
-       "var": "sot_h",
-       "sign": -1,
-       "line": 5.5,
-       "p": 0.6261,
-       "text": "Menos de 5.5 tiros a puerta de Cardiff",
-       "odds": 1.47
-      },
-      {
-       "var": "goals_t",
-       "sign": 1,
-       "line": 2.5,
-       "p": 0.5897,
-       "text": "Más de 2.5 goles",
-       "odds": 1.38
-      }
-     ]
-    }
-   ],
-   "priced": true
-  },
-  "E1|2026-11-04|Wrexham|Middlesbrough": {
-   "match": "Wrexham vs Middlesbrough",
-   "start": "2026-11-04T19:45:00+00:00",
-   "combos": [
-    {
-     "kind": "corta",
-     "p": 0.44,
-     "legs": [
-      {
-       "var": "cards_h",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.7669,
-       "text": "Menos de 2.5 tarjetas de Wrexham",
-       "odds": null
-      },
-      {
-       "var": "sot_h",
-       "sign": -1,
-       "line": 5.5,
-       "p": 0.7648,
-       "text": "Menos de 5.5 tiros a puerta de Wrexham",
-       "odds": null
-      },
-      {
-       "var": "fouls_a",
-       "sign": -1,
-       "line": 11.5,
-       "p": 0.7593,
-       "text": "Menos de 11.5 faltas de Middlesbrough",
-       "odds": null
-      }
-     ]
-    },
-    {
-     "kind": "larga",
-     "p": 0.1937,
-     "legs": [
-      {
-       "var": "cards_h",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.7669,
-       "text": "Menos de 2.5 tarjetas de Wrexham",
-       "odds": null
-      },
-      {
-       "var": "sot_h",
-       "sign": -1,
-       "line": 5.5,
-       "p": 0.7648,
-       "text": "Menos de 5.5 tiros a puerta de Wrexham",
-       "odds": null
-      },
-      {
-       "var": "fouls_a",
-       "sign": -1,
-       "line": 11.5,
-       "p": 0.7593,
-       "text": "Menos de 11.5 faltas de Middlesbrough",
-       "odds": null
-      },
-      {
-       "var": "goals_t",
-       "sign": 1,
-       "line": 2.5,
-       "p": 0.7051,
-       "text": "Más de 2.5 goles",
-       "odds": 1.61
-      },
-      {
-       "var": "corners_h",
-       "sign": -1,
-       "line": 5.5,
-       "p": 0.6083,
-       "text": "Menos de 5.5 córners de Wrexham",
-       "odds": 1.36
-      }
-     ]
-    }
-   ],
-   "priced": true
-  },
-  "E1|2026-11-04|Bristol City|Wolves": {
-   "match": "Bristol City vs Wolves",
-   "start": "2026-11-04T20:00:00+00:00",
-   "combos": [
-    {
-     "kind": "corta",
-     "p": 0.5266,
-     "legs": [
-      {
-       "var": "cards_h",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.7397,
-       "text": "Menos de 2.5 tarjetas de Bristol City",
-       "odds": null
-      },
-      {
-       "var": "sot_h",
-       "sign": -1,
-       "line": 5.5,
-       "p": 0.726,
-       "text": "Menos de 5.5 tiros a puerta de Bristol City",
-       "odds": null
-      }
-     ]
-    },
-    {
-     "kind": "larga",
-     "p": 0.1974,
-     "legs": [
-      {
-       "var": "cards_h",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.7397,
-       "text": "Menos de 2.5 tarjetas de Bristol City",
-       "odds": null
-      },
-      {
-       "var": "sot_h",
-       "sign": -1,
-       "line": 5.5,
-       "p": 0.726,
-       "text": "Menos de 5.5 tiros a puerta de Bristol City",
-       "odds": null
-      },
-      {
-       "var": "fouls_h",
-       "sign": -1,
-       "line": 11.5,
-       "p": 0.5839,
-       "text": "Menos de 11.5 faltas de Bristol City",
-       "odds": null
-      },
-      {
-       "var": "corners_a",
-       "sign": 1,
-       "line": 4.5,
-       "p": 0.568,
-       "text": "Más de 4.5 córners de Wolves",
-       "odds": 1.56
-      }
-     ]
-    }
-   ],
-   "priced": true
-  }
- },
+ "sgp": {},
  "combo_sent": "2026-11-03T19:29:18.780644+00:00",
  "fc_sim_sent": "2026-11-04T22:28:53.713872+00:00",
  "fc_sim_n": 310,
@@ -19489,7 +19379,7 @@
   "E1|2026-11-04|Bristol City|Wolves"
  ],
  "paper_sent": "2026-11-04T15:51:29.844295+00:00",
- "sgp_res_n": 15,
+ "sgp_res_n": 23,
  "nba_props_ok": [
   "nba|2026-11-05|Detroit Pistons|Philadelphia 76ers",
   "nba|2026-11-05|Washington Wizards|Atlanta Hawks",

@@ -1,6 +1,6 @@
 # 🏆 Champions·Europa · apuestas de valor
 
-Actualizado 04/11/2026 23:28 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 04/11/2026 23:35 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## AC Milan vs Ferencvaros — 05/11 · 18:45
 

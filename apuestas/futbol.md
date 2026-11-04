@@ -1,42 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 04/11/2026 23:28 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Athletico-PR vs Vasco — 04/11 · 23:30
-
-👀 candidata · 🇧🇷 Brasileirão · **Gana Vasco** @ **3.40** (Bet365) · prob 28% vs casas 28% · ventaja -3%
-
-- ❌ Valor: ventaja -3% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.70 - 0.91)  
-1 53% · X 26% · 2 22%  
-1X 78% · X2 47% · 12 74%  
-+1.5 74% · +2.5 48% · +3.5 27% · Ambos marcan 49%  
-Marcadores: 1-0 12% · 1-1 12% · 2-0 11% · 2-1 10%  
-🔎 **Claves**  
-• Forma: Athletico-PR ➖✅❌➖❌ | Vasco ✅➖❌✅❌  
-• H2H: 17 desde 2013: 9V-4E-4D · 2.1 goles/partido · +2.5 en 29%  
-• Bajas: Athletico-PR: sin bajas; Vasco: 0 fuera, 2 duda  
-• Favorito de las casas: Athletico-PR @ 2.05  
-
-## Flamengo RJ vs Gremio — 04/11 · 23:30
-
-👀 candidata · 🇧🇷 Brasileirão · **Gana Flamengo RJ** @ **1.13** (Bet365) · prob 80% vs casas 80% · ventaja -10%
-
-- ❌ Valor: ventaja -10% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.97 - 0.71)  
-1 69% · X 19% · 2 12%  
-1X 88% · X2 31% · 12 81%  
-+1.5 75% · +2.5 50% · +3.5 28% · Ambos marcan 44%  
-Marcadores: 2-0 13% · 1-0 13% · 1-1 10% · 2-1 9%  
-🔎 **Claves**  
-• Forma: Flamengo RJ ➖✅✅✅✅ | Gremio ➖➖❌✅✅  
-• H2H: 27 desde 2012: 10V-5E-12D · 2.4 goles/partido · +2.5 en 37%  
-• Bajas: Flamengo RJ: 0 fuera, 3 duda; Gremio: 0 fuera, 5 duda  
-• Favorito de las casas: Flamengo RJ @ 1.13  
+Actualizado 04/11/2026 23:35 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Botafogo RJ vs Atletico-MG — 05/11 · 01:30
 

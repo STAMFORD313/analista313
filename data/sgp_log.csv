@@ -14,3 +14,11 @@ fecha,partido,tipo,piernas,p,acierto,piernas_acertadas,p_piernas,cuota,ventaja,s
 2026-11-03,West Brom vs Southampton,corta,3,0.3321,0,2,0.6842,,,0,,Menos de 5.5 tiros a puerta de West Brom + Menos de 2.5 tarjetas de West Brom + Menos de 11.5 faltas de West Brom,110
 2026-11-04,Kortrijk vs KV Mechelen,corta,3,0.2872,1,3,0.6361,2.88,-0.173,0,,Menos de 5.5 tiros a puerta de Kortrijk + Menos de 2.5 tarjetas de KV Mechelen + Menos de 5.5 córners de Kortrijk,111
 2026-11-04,Kortrijk vs KV Mechelen,larga,4,0.1718,1,4,0.6232,,,0,,Menos de 5.5 tiros a puerta de Kortrijk + Menos de 2.5 tarjetas de KV Mechelen + Menos de 5.5 córners de Kortrijk + Más de 10.5 faltas de Kortrijk,1111
+2026-11-03,QPR vs Burnley,corta,3,0.3423,1,3,0.6943,,,0,,Menos de 11.5 faltas de QPR + Menos de 2.5 tarjetas de QPR + Menos de 5.5 tiros a puerta de QPR,111
+2026-11-03,QPR vs Burnley,larga,5,0.1049,0,4,0.651,,,0,,Menos de 11.5 faltas de QPR + Menos de 2.5 tarjetas de QPR + Menos de 5.5 tiros a puerta de QPR + Menos de 10.5 córners + Más de 2.5 goles,11110
+2026-11-04,Cardiff vs West Ham,corta,3,0.346,1,3,0.703,,,0,,Menos de 2.5 tarjetas de Cardiff + Menos de 11.5 faltas de Cardiff + Menos de 5.5 tiros a puerta de Cardiff,111
+2026-11-04,Cardiff vs West Ham,larga,4,0.1737,1,4,0.6747,,,0,,Menos de 2.5 tarjetas de Cardiff + Menos de 11.5 faltas de Cardiff + Menos de 5.5 tiros a puerta de Cardiff + Más de 2.5 goles,1111
+2026-11-04,Wrexham vs Middlesbrough,corta,3,0.44,1,3,0.7637,,,0,,Menos de 2.5 tarjetas de Wrexham + Menos de 5.5 tiros a puerta de Wrexham + Menos de 11.5 faltas de Middlesbrough,111
+2026-11-04,Wrexham vs Middlesbrough,larga,5,0.1937,0,4,0.7209,,,0,,Menos de 2.5 tarjetas de Wrexham + Menos de 5.5 tiros a puerta de Wrexham + Menos de 11.5 faltas de Middlesbrough + Más de 2.5 goles + Menos de 5.5 córners de Wrexham,11101
+2026-11-04,Bristol City vs Wolves,corta,2,0.5266,1,2,0.7329,,,0,,Menos de 2.5 tarjetas de Bristol City + Menos de 5.5 tiros a puerta de Bristol City,11
+2026-11-04,Bristol City vs Wolves,larga,4,0.1974,1,4,0.6544,,,0,,Menos de 2.5 tarjetas de Bristol City + Menos de 5.5 tiros a puerta de Bristol City + Menos de 11.5 faltas de Bristol City + Más de 4.5 córners de Wolves,1111
