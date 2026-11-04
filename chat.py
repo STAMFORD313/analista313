@@ -38,7 +38,8 @@ PLAYER_STATS = {"futbol": ["goles", "asistencias", "tiros", "tiros_puerta", "fal
 TEAM_STATS = {"futbol": ["goles", "corners", "tiros", "tiros_puerta", "faltas", "tarjetas", "fueras"], "nba": ["puntos"], "nhl": ["goles"]}
 HELP = ("💬 Escríbeme, por ejemplo:\n• <i>estadísticas de Mbappé</i>\n• <i>Mbappé más de 1.5 tiros a puerta a 1.9</i>\n"
         "• <i>LeBron más de 25.5 puntos y Curry 4+ triples @3.1</i>\n• <i>Real Madrid más de 5.5 córners</i>\n"
-        "• <i>Madrid Barcelona más de 9.5 córners</i> (total del partido)\n• <i>¿Cuál es el próximo rival del Almería?</i> · <i>último resultado del Betis</i>")
+        "• <i>Madrid Barcelona más de 9.5 córners</i> (total del partido)\n• <i>¿Cuál es el próximo rival del Almería?</i> · <i>último resultado del Betis</i>\n"
+        "• <i>¿Quién gana?</i> (del último partido que te mostré) · <i>quién gana Girona Almería</i> · <i>gana Girona a 2.10</i>")
 _DB = {"t": 0}
 # apodos de uso común → nombre de ESPN (solo si el nombre completo no está ya en la frase)
 ALIAS = {"madrid": "real madrid", "real": "real madrid", "barca": "barcelona", "atleti": "atletico madrid", "atletico": "atletico madrid",
@@ -325,12 +326,57 @@ def plays(name, m):
     return any(x and (n == x or (min(len(n), len(x)) >= 5 and (n in x or x in n))) for x in (norm(m[1] or ""), norm(m[2] or "")))
 
 
+def tkey(sport, name, D):
+    """Clave del equipo `name` (nombre de ESPN) en la base, o None."""
+    k = f"{sport}|t|{name}"
+    if k in D: return k
+    return next((k for k, x in D.items() if x["kind"] == "equipo" and x["sport"] == sport and plays(x["name"], (None, name, ""))), None)
+
+
 def team_of(key, D):
     e = D[key]
     if e["kind"] == "equipo": return key
     k = f"{e['sport']}|t|{e['team']}"
     if k in D: return k
     return next((k for k, x in D.items() if x["kind"] == "equipo" and x["sport"] == e["sport"] and x["name"] == e["team"]), None)
+
+
+def exp_pair(kh, ka, D, stat):
+    """(media del local, media del visitante) de una estadística: (a favor de uno + en contra del otro) / 2."""
+    u = [(series(D[kh], stat), series(D[ka], stat, True)), (series(D[ka], stat), series(D[kh], stat, True))]
+    if any(len(x) < 5 or len(y) < 5 for x, y in u): return None
+    return [(moments(x)[0] + moments(y)[0]) / 2 for x, y in u]
+
+
+# ── ¿quién gana? ───────────────────────────────────────────────────────────────────────────────────────────────
+# fútbol: goles esperados (a favor/en contra de sus 20 últimos) × ventaja de local, Poisson con Dixon-Coles (analyst.probs).
+# Medido en 8.339 partidos ESPN (2.ª mitad): log-loss 1X2 1.0332 con local ×1.12 vs 1.0725 de las frecuencias base
+# (ventaja 1.0 → 1.0472; 1.2 → 1.0368). La casa suele afinar más: sirve para opinar, no para apostar a ciegas.
+HFA = {"futbol": 1.12, "nhl": 1.05}
+NBA_HOME, NBA_SD = 2.5, 12.5  # puntos de ventaja de local y desviación del margen final
+WIN_RX = r"\bgana|ganador|ganaria|quien gana|favorito|1x2|pronostico|como (?:va a )?quedar|quien se lleva"
+_CTX = {}
+
+
+def winner(kh, ka, D, odds=None, pick=None):
+    h, a, sp = D[kh], D[ka], D[kh]["sport"]
+    stat = "puntos" if sp == "nba" else "goles"
+    m = exp_pair(kh, ka, D, stat)
+    if not m: return f"Pocos datos de {A.esc(h['name'])} o {A.esc(a['name'])} para opinar."
+    if sp == "nba":
+        ph = float(SS.norm.sf(0, loc=m[0] - m[1] + NBA_HOME, scale=NBA_SD)); P = {"H": ph, "D": 0.0, "A": 1 - ph}
+    else:
+        P = A.probs(max(m[0] * HFA[sp], 0.05), max(m[1] / HFA[sp], 0.05)); t = P["H"] + P["D"] + P["A"]
+        P = {k: P[k] / t for k in ("H", "D", "A")} | {"scores": P["scores"]}
+        if sp == "nhl": P = {"H": P["H"] + P["D"] / 2, "D": 0.0, "A": P["A"] + P["D"] / 2}  # la prórroga/penaltis reparte el empate
+    names = {"H": h["name"], "D": "Empate", "A": a["name"]}
+    lines = [f"⚔️ <b>{A.esc(h['name'])} – {A.esc(a['name'])}</b>"]
+    lines.append(" · ".join(f"{A.esc(names[k])} {P[k]:.0%} (cuota justa {1 / P[k]:.2f})" for k in ("H", "D", "A") if P[k] > 0))
+    fav = max(("H", "A"), key=lambda k: P[k]); gap = abs(P["H"] - P["A"])
+    lines.append(f"👉 Favorito: <b>{A.esc(names[fav])}</b>" if gap >= 0.12 else "👉 Muy igualado: no me mojaría con el ganador")
+    if P.get("scores"): lines.append("Resultado más probable: " + " · ".join(f"{sc} ({p:.0%})" for sc, p in P["scores"][:3]))
+    if odds and pick: lines.append(verdict(P[pick], odds[0]))
+    return "\n".join(lines)
 
 
 def preview(home, away, D, sport):
@@ -363,6 +409,7 @@ def next_match(key, D):
     comp = comp or ""
     loc = when.tz_convert(TZ)
     rival = away if plays(e["name"], (None, home, "")) else home
+    _CTX["partido"] = (tkey(e["sport"], home, D), tkey(e["sport"], away, D))
     lines = [_who(e), f"Próximo partido: <b>{A.esc(home)} – {A.esc(away)}</b>",
              f"📅 {DIAS[loc.dayofweek]} {loc:%d/%m} a las {loc:%H:%M} (hora España)" + (f" · {A.esc(comp)}" if comp else "")]
     kr = f"{e['sport']}|t|{rival}"
@@ -389,6 +436,20 @@ def answer(text):
     if not t or re.match(r"^/?(ayuda|help|hola|que puedes)", norm(t)): return HELP
     D = db()
     q = low(t)
+    if re.search(WIN_RX, q) and not re.search(r"mas de|menos de|over|under|\d\+", q):
+        ks = find(t, D, n=2, kind="equipo")
+        if len(ks) == 2: kh, ka = ks
+        elif ks and _CTX.get("partido") and ks[0] in _CTX["partido"]: kh, ka = _CTX["partido"]
+        elif ks:  # un equipo: su próximo partido
+            _CTX.pop("partido", None); next_match(ks[0], D); kh, ka = _CTX.get("partido") or (None, None)
+            if not kh: return f"No encuentro el próximo partido de {A.esc(D[ks[0]]['name'])}."
+        elif _CTX.get("partido"): kh, ka = _CTX["partido"]
+        else: return "¿De qué partido? Escríbeme los dos equipos, por ejemplo: <i>quién gana Girona Almería</i>"
+        if kh not in D or ka not in D: return "No tengo datos de uno de los dos equipos."  # (None si ESPN trae un recién ascendido)
+        _CTX["partido"] = (kh, ka)
+        pick = next((k for k, x in (("H", kh), ("A", ka)) if x in ks), None) if odds_in(t) else None
+        if pick is None and odds_in(t) and re.search(r"empate|\bx\b", q): pick = "D"
+        return winner(kh, ka, D, odds_in(t), pick)
     if re.search(NEXT_RX, q) or re.search(LAST_RX, q):
         keys = find(t, D, n=1)
         if keys: return next_match(keys[0], D) if re.search(NEXT_RX, q) else last_match(keys[0], D)
