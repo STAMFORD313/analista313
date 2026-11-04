@@ -1040,7 +1040,9 @@ _ol3 = _CH.other_legs; _CH.other_legs = lambda hours, sports: []
 try:
     _r = _CH.answer("combinada del día a cuota 80"); assert "objetivo 80" in _r or "no tengo cuotas" in _r.lower(), _r
     _KB.offers = lambda h, a, t, stats=(): {}
-    assert "Hoy no tengo cuotas de Unibet" in _CH.long_combo(_D, 80)
+    import valor_pinnacle as _VPx; _vpc = _VPx.candidates; _VPx.candidates = lambda *a, **k: []  # sin red: en Actions hay cuotas reales
+    try: assert "Hoy no tengo cuotas de Unibet" in _CH.long_combo(_D, 80)
+    finally: _VPx.candidates = _vpc
 finally: _KB.offers, _CH.upcoming, _CH.other_legs = _off, _up4, _ol3; _CH.LEAGUE.clear(); _CH._DB.clear(); _CH._DB["t"] = 0; _CH._BASE.clear()
 print("ok combinada de cuota alta")
 # Kambi: no confundir el partido con el de juveniles (Youth League el mismo día) y alias de nombres
