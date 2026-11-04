@@ -21,6 +21,8 @@ EXPERTS = {
     "datos_nba_nhl": (6, 60, [PY, "-c", "import nba_players as N; [N.download(l, refetch=True) for l in ('nba', 'nhl')]"],
                       "ESPN NBA/NHL: boxscores con puntos, rebotes, asistencias, triples y tiros por jugador"),
     "datos_futbol_faltas": (0, 15, [PY, "espn_soccer.py", "backfill", "500"], "ESPN fútbol: rellena las faltas recibidas por jugador de los partidos ya guardados"),
+    "datos_understat": (24, 20, [PY, "fuentes.py", "understat"], "Understat: xG por partido de las 5 grandes ligas y Rusia desde 2014"),
+    "datos_opendota": (0, 5, [PY, "fuentes.py", "opendota", "40"], "OpenDota: partidas profesionales de Dota 2 (nuevas e historial)"),
     "datos_pinnacle": (0, 10, [PY, "pinnacle.py"], "Pinnacle: cuotas de cierre de la casa más afinada (fútbol, NBA, NHL, esports, NFL, tenis)"),
     "sondeo_esports": (12, 10, [PY, "sondeo.py"], "Disciplinas nuevas de bo3.gg y esports con cuota en Unibet"),
     # ── evaluadores (comparan con la casa usando lo ya jugado) ─────────────────────────────────────────────────
