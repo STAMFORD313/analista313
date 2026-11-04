@@ -1,23 +1,6 @@
 # 🏈 NFL·NCAA · apuestas de valor
 
-Actualizado 04/11/2026 00:59 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Akron Zips vs Ohio Bobcats — 04/11 · 01:00
-
-👀 candidata · 🏈 NCAA Football · **Gana Ohio Bobcats** @ **1.21** (DraftKings) · prob 86% vs casas 80% · ventaja +3%
-
-- ❌ Valor: ventaja +3% (mín. 7% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo con 9.455 partidos y bajas)  
-Gana Akron Zips 8% · Gana Ohio Bobcats 92%  
-Casas: Akron Zips 20% · Ohio Bobcats 80%  
-Hándicap OHIO -12.5 · Total puntos 50.5  
-🔎 **Claves**  
-• Forma: Akron Zips ❌❌❌❌❌ | Ohio Bobcats ✅✅✅✅✅  
-• H2H: 9 desde 2016: 1-8  
-• Bajas: Akron Zips: sin bajas; Ohio Bobcats: sin bajas  
-• Favorito de las casas: Ohio Bobcats @ 1.21  
+Actualizado 04/11/2026 01:10 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Miami (OH) RedHawks vs Buffalo Bulls — 04/11 · 02:00
 
@@ -218,4 +201,224 @@ Hándicap JAX -8.5 · Total puntos 42.5
 • H2H: 5 desde 2017: 3-2  
 • Bajas: Baltimore Ravens: 3 fuera, 22 duda (Jaylinn Hawkins, Olaivavega Ioane, Lamar Jackson); Jacksonville Jaguars: 3 fuera, 22 duda (Eric Murray, DaVon Hamilton, Antonio Johnson)  
 • Favorito de las casas: Jacksonville Jaguars @ 1.21  
+
+## SMU Mustangs vs Virginia Tech Hokies — 07/11 · 01:00
+
+👀 candidata · 🏈 NCAA Football · **Más de 56.5 puntos** @ **1.93** (DraftKings) · prob 50% vs casas 50% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🏈 totales» sin pérdidas demostradas
+
+📊 **Escenarios**: total esperado **52.0** puntos · línea 56.5  
+Más 50% · Menos 50%  
+🔎 **Claves**  
+• Forma: SMU Mustangs ✅✅✅✅❌ | Virginia Tech Hokies ✅❌❌✅✅  
+• H2H: sin precedentes  
+• Bajas: SMU Mustangs: sin bajas; Virginia Tech Hokies: sin bajas  
+
+## SMU Mustangs vs Virginia Tech Hokies — 07/11 · 01:00
+
+👀 candidata · 🏈 NCAA Football · **SMU Mustangs -6** @ **1.91** (DraftKings) · prob 50% vs casas 50% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🏈 hándicap» sin pérdidas demostradas
+
+📊 **Escenarios**: SMU Mustangs cubre -6 con prob. 50% (casas 50%)  
+🔎 **Claves**  
+• Forma: SMU Mustangs ✅✅✅✅❌ | Virginia Tech Hokies ✅❌❌✅✅  
+• H2H: sin precedentes  
+• Bajas: SMU Mustangs: sin bajas; Virginia Tech Hokies: sin bajas  
+
+## SMU Mustangs vs Virginia Tech Hokies — 07/11 · 01:00
+
+👀 candidata · 🏈 NCAA Football · **Gana SMU Mustangs** @ **1.44** (DraftKings) · prob 66% vs casas 66% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🏈 favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo con 9.455 partidos y bajas)  
+Gana SMU Mustangs 78% · Gana Virginia Tech Hokies 22%  
+Casas: SMU Mustangs 66% · Virginia Tech Hokies 34%  
+Hándicap SMU -6 · Total puntos 56.5  
+🔎 **Claves**  
+• Forma: SMU Mustangs ✅✅✅✅❌ | Virginia Tech Hokies ✅❌❌✅✅  
+• H2H: sin precedentes  
+• Bajas: SMU Mustangs: sin bajas; Virginia Tech Hokies: sin bajas  
+• Favorito de las casas: SMU Mustangs @ 1.44  
+
+## East Carolina Pirates vs South Florida Bulls — 07/11 · 01:30
+
+👀 candidata · 🏈 NCAA Football · **Más de 39.5 puntos** @ **1.93** (DraftKings) · prob 50% vs casas 50% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🏈 totales» sin pérdidas demostradas
+
+📊 **Escenarios**: total esperado **53.9** puntos · línea 39.5  
+Más 50% · Menos 50%  
+🔎 **Claves**  
+• Forma: East Carolina Pirates ✅✅❌❌✅ | South Florida Bulls ✅❌❌✅✅  
+• H2H: 6 desde 2017: 3-3  
+• Bajas: East Carolina Pirates: sin bajas; South Florida Bulls: sin bajas  
+
+## East Carolina Pirates vs South Florida Bulls — 07/11 · 01:30
+
+👀 candidata · 🏈 NCAA Football · **East Carolina Pirates -1.5** @ **1.89** (DraftKings) · prob 50% vs casas 50% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🏈 hándicap» sin pérdidas demostradas
+
+📊 **Escenarios**: East Carolina Pirates cubre -1.5 con prob. 50% (casas 50%)  
+🔎 **Claves**  
+• Forma: East Carolina Pirates ✅✅❌❌✅ | South Florida Bulls ✅❌❌✅✅  
+• H2H: 6 desde 2017: 3-3  
+• Bajas: East Carolina Pirates: sin bajas; South Florida Bulls: sin bajas  
+
+## East Carolina Pirates vs South Florida Bulls — 07/11 · 01:30
+
+👀 candidata · 🏈 NCAA Football · **Gana East Carolina Pirates** @ **1.80** (DraftKings) · prob 53% vs casas 53% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🏈 favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo con 9.455 partidos y bajas)  
+Gana East Carolina Pirates 45% · Gana South Florida Bulls 55%  
+Casas: East Carolina Pirates 53% · South Florida Bulls 47%  
+Hándicap ECU -1.5 · Total puntos 39.5  
+🔎 **Claves**  
+• Forma: East Carolina Pirates ✅✅❌❌✅ | South Florida Bulls ✅❌❌✅✅  
+• H2H: 6 desde 2017: 3-3  
+• Bajas: East Carolina Pirates: sin bajas; South Florida Bulls: sin bajas  
+• Favorito de las casas: East Carolina Pirates @ 1.80  
+
+## Illinois Fighting Illini vs Nebraska Cornhuskers — 07/11 · 02:00
+
+👀 candidata · 🏈 NCAA Football · **Más de 50.5 puntos** @ **1.95** (DraftKings) · prob 49% vs casas 49% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🏈 totales» sin pérdidas demostradas
+
+📊 **Escenarios**: total esperado **44.8** puntos · línea 50.5  
+Más 49% · Menos 51%  
+🔎 **Claves**  
+• Forma: Illinois Fighting Illini ❌❌✅✅✅ | Nebraska Cornhuskers ✅✅❌❌❌  
+• H2H: 8 desde 2017: 4-4  
+• Bajas: Illinois Fighting Illini: sin bajas; Nebraska Cornhuskers: sin bajas  
+
+## Illinois Fighting Illini vs Nebraska Cornhuskers — 07/11 · 02:00
+
+👀 candidata · 🏈 NCAA Football · **Illinois Fighting Illini +4.5** @ **1.89** (DraftKings) · prob 50% vs casas 50% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🏈 hándicap» sin pérdidas demostradas
+
+📊 **Escenarios**: Illinois Fighting Illini cubre +4.5 con prob. 50% (casas 50%)  
+🔎 **Claves**  
+• Forma: Illinois Fighting Illini ❌❌✅✅✅ | Nebraska Cornhuskers ✅✅❌❌❌  
+• H2H: 8 desde 2017: 4-4  
+• Bajas: Illinois Fighting Illini: sin bajas; Nebraska Cornhuskers: sin bajas  
+
+## Illinois Fighting Illini vs Nebraska Cornhuskers — 07/11 · 02:00
+
+👀 candidata · 🏈 NCAA Football · **Gana Illinois Fighting Illini** @ **2.64** (DraftKings) · prob 36% vs casas 36% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🏈 no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo con 9.455 partidos y bajas)  
+Gana Illinois Fighting Illini 65% · Gana Nebraska Cornhuskers 35%  
+Casas: Illinois Fighting Illini 36% · Nebraska Cornhuskers 64%  
+Hándicap NEB -4.5 · Total puntos 50.5  
+🔎 **Claves**  
+• Forma: Illinois Fighting Illini ❌❌✅✅✅ | Nebraska Cornhuskers ✅✅❌❌❌  
+• H2H: 8 desde 2017: 4-4  
+• Bajas: Illinois Fighting Illini: sin bajas; Nebraska Cornhuskers: sin bajas  
+• Favorito de las casas: Nebraska Cornhuskers @ 1.50  
+
+## Nevada Wolf Pack vs New Mexico Lobos — 07/11 · 03:00
+
+👀 candidata · 🏈 NCAA Football · **Más de 37.5 puntos** @ **1.98** (DraftKings) · prob 48% vs casas 48% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🏈 totales» sin pérdidas demostradas
+
+📊 **Escenarios**: total esperado **48.3** puntos · línea 37.5  
+Más 48% · Menos 52%  
+🔎 **Claves**  
+• Forma: Nevada Wolf Pack ❌✅❌✅❌ | New Mexico Lobos ✅✅✅✅✅  
+• H2H: 5 desde 2016: 3-2  
+• Bajas: Nevada Wolf Pack: sin bajas; New Mexico Lobos: sin bajas  
+
+## Nevada Wolf Pack vs New Mexico Lobos — 07/11 · 03:00
+
+👀 candidata · 🏈 NCAA Football · **Nevada Wolf Pack +9.5** @ **1.93** (DraftKings) · prob 50% vs casas 50% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🏈 hándicap» sin pérdidas demostradas
+
+📊 **Escenarios**: Nevada Wolf Pack cubre +9.5 con prob. 50% (casas 50%)  
+🔎 **Claves**  
+• Forma: Nevada Wolf Pack ❌✅❌✅❌ | New Mexico Lobos ✅✅✅✅✅  
+• H2H: 5 desde 2016: 3-2  
+• Bajas: Nevada Wolf Pack: sin bajas; New Mexico Lobos: sin bajas  
+
+## Nevada Wolf Pack vs New Mexico Lobos — 07/11 · 03:00
+
+👀 candidata · 🏈 NCAA Football · **Gana New Mexico Lobos** @ **1.27** (DraftKings) · prob 76% vs casas 76% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🏈 favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo con 9.455 partidos y bajas)  
+Gana Nevada Wolf Pack 16% · Gana New Mexico Lobos 84%  
+Casas: Nevada Wolf Pack 24% · New Mexico Lobos 76%  
+Hándicap UNM -9.5 · Total puntos 37.5  
+🔎 **Claves**  
+• Forma: Nevada Wolf Pack ❌✅❌✅❌ | New Mexico Lobos ✅✅✅✅✅  
+• H2H: 5 desde 2016: 3-2  
+• Bajas: Nevada Wolf Pack: sin bajas; New Mexico Lobos: sin bajas  
+• Favorito de las casas: New Mexico Lobos @ 1.27  
+
+## Arizona Wildcats vs TCU Horned Frogs — 07/11 · 04:15
+
+👀 candidata · 🏈 NCAA Football · **Más de 43.5 puntos** @ **1.87** (DraftKings) · prob 51% vs casas 51% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🏈 totales» sin pérdidas demostradas
+
+📊 **Escenarios**: total esperado **48.0** puntos · línea 43.5  
+Más 51% · Menos 49%  
+🔎 **Claves**  
+• Forma: Arizona Wildcats ✅✅✅✅❌ | TCU Horned Frogs ❌❌✅❌✅  
+• H2H: 1 desde 2024: 0-1  
+• Bajas: Arizona Wildcats: sin bajas; TCU Horned Frogs: sin bajas  
+
+## Arizona Wildcats vs TCU Horned Frogs — 07/11 · 04:15
+
+👀 candidata · 🏈 NCAA Football · **Arizona Wildcats -9.5** @ **1.95** (DraftKings) · prob 49% vs casas 49% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🏈 hándicap» sin pérdidas demostradas
+
+📊 **Escenarios**: Arizona Wildcats cubre -9.5 con prob. 49% (casas 49%)  
+🔎 **Claves**  
+• Forma: Arizona Wildcats ✅✅✅✅❌ | TCU Horned Frogs ❌❌✅❌✅  
+• H2H: 1 desde 2024: 0-1  
+• Bajas: Arizona Wildcats: sin bajas; TCU Horned Frogs: sin bajas  
+
+## Arizona Wildcats vs TCU Horned Frogs — 07/11 · 04:15
+
+👀 candidata · 🏈 NCAA Football · **Gana Arizona Wildcats** @ **1.29** (DraftKings) · prob 74% vs casas 74% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🏈 favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo con 9.455 partidos y bajas)  
+Gana Arizona Wildcats 75% · Gana TCU Horned Frogs 25%  
+Casas: Arizona Wildcats 74% · TCU Horned Frogs 26%  
+Hándicap ARIZ -9.5 · Total puntos 43.5  
+🔎 **Claves**  
+• Forma: Arizona Wildcats ✅✅✅✅❌ | TCU Horned Frogs ❌❌✅❌✅  
+• H2H: 1 desde 2024: 0-1  
+• Bajas: Arizona Wildcats: sin bajas; TCU Horned Frogs: sin bajas  
+• Favorito de las casas: Arizona Wildcats @ 1.29  
 
