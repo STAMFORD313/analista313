@@ -1,19 +1,19 @@
 name: probar_interprete
-# Prueba a mano del intérprete del chat con GitHub Models (gratis, con el token del propio workflow).
+# Prueba a mano del intérprete del chat (Gemini con el secreto GEMINI_API_KEY).
 on:
   workflow_dispatch:
-  push: {branches: [main], paths: ["interpreta.py", "sonda_modelos.py", ".github/workflows/probar_interprete.yml"]}
-permissions: {contents: read, models: read}
+  push: {branches: [main], paths: ["interpreta.py", ".github/workflows/probar_interprete.yml"]}
+permissions: {contents: read}
 jobs:
   probar:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 5
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with: {python-version: "3.12"}
-      - run: pip install requests huggingface_hub && pip install llama-cpp-python --prefer-binary --extra-index-url https://abetlen.github.io/llama-cpp-python/whl/cpu
-      - run: python sonda_modelos.py
+      - run: pip install requests google-genai
+      - run: python interpreta.py
         env:
           PYTHONUNBUFFERED: "1"
-          GH_MODELS_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}

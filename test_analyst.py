@@ -977,11 +977,22 @@ _pst2, _env = _rq.post, __import__("os").environ.get("GH_MODELS_TOKEN")
 class _R:
     status_code, ok = 200, True
     def json(self): return {"choices": [{"message": {"content": '{"orden": "combinada Girona Almería", "respuesta": ""}'}}]}
-_rq.post = lambda *a, **k: _R(); __import__("os").environ["GH_MODELS_TOKEN"] = "x"
+_rq.post = lambda *a, **k: _R(); __import__("os").environ["GH_MODELS_TOKEN"] = "x"; _gk = __import__("os").environ.pop("GEMINI_API_KEY", None)
 try: assert _IP2.route("sí", [("bot", "¿Quieres la combinada de Girona – Almería?")]) == {"orden": "combinada Girona Almería", "respuesta": ""}
 finally:
     _rq.post = _pst2
+    if _gk: __import__("os").environ["GEMINI_API_KEY"] = _gk
     if _env is None: __import__("os").environ.pop("GH_MODELS_TOKEN")
     else: __import__("os").environ["GH_MODELS_TOKEN"] = _env
 assert _IP2._parse('```json\n{"orden": "ayuda", "respuesta": ""}\n```')["orden"] == "ayuda"
 print("ok intérprete con GitHub Models")
+# intérprete con Gemini (cliente simulado)
+import types as _ty, google.genai as _gg, os as _os
+_cl = _gg.Client
+class _GC:
+    def __init__(self, **k): self.models = self
+    def generate_content(self, **k): return _ty.SimpleNamespace(text='{"orden": "combinada del día", "respuesta": ""}')
+_gg.Client = _GC; _os.environ["GEMINI_API_KEY"] = "x"
+try: assert _IP2.route("súbele la cuota") == {"orden": "combinada del día", "respuesta": ""}
+finally: _gg.Client = _cl; _os.environ.pop("GEMINI_API_KEY")
+print("ok intérprete con Gemini")

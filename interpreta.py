@@ -3,9 +3,9 @@
 Recibe la frase (escrita o transcrita de un audio) y las últimas líneas de la conversación, y la traduce a UNA orden que
 chat.py sabe ejecutar («combinada Girona Almería», «estadísticas de Mbappé»…) o a una respuesta corta si hay que
 preguntar algo. Los números (probabilidades, cuotas) los pone siempre chat.py con sus modelos medidos: el intérprete
-no inventa datos. Proveedores, en orden: Claude si hay ANTHROPIC_API_KEY (de pago, opcional); si no, GitHub Models con el token del propio
-workflow (GH_MODELS_TOKEN = GITHUB_TOKEN con permiso «models: read»): gratis, sin claves, con límite diario. Sin ninguno,
-chat.py sigue con sus reglas. `python interpreta.py` hace una prueba (workflow probar_interprete.yml)."""
+no inventa datos. Proveedores, en orden: Claude si hay ANTHROPIC_API_KEY (de pago, opcional); Gemini con el secreto GEMINI_API_KEY que ya
+usa el bot (plan gratis: flash y, si se agota la cuota, flash-lite); GitHub Models con el token del workflow
+(GH_MODELS_TOKEN; probado el 4-nov: aún no responde). Sin ninguno, chat.py sigue con sus reglas. `python interpreta.py` hace una prueba (workflow probar_interprete.yml)."""
 import json, os
 
 MODEL = os.getenv("CHAT_MODEL", "claude-opus-5-5")
@@ -33,7 +33,33 @@ SCHEMA = {"type": "object", "properties": {"orden": {"type": "string"}, "respues
           "required": ["orden", "respuesta"], "additionalProperties": False}
 
 
-def enabled(): return bool(os.getenv("ANTHROPIC_API_KEY") or os.getenv("GH_MODELS_TOKEN"))
+GEMINI_MODELS = os.getenv("CHAT_GEMINI_MODELS", "gemini-flash-latest,gemini-flash-lite-latest").split(",")
+_DEAD = set()  # modelos de Gemini con la cuota del día agotada (429)
+
+
+def enabled(): return bool(os.getenv("ANTHROPIC_API_KEY") or os.getenv("GEMINI_API_KEY") or os.getenv("GH_MODELS_TOKEN"))
+
+
+def route_gemini(text, history=()):
+    """Gemini (google-genai, salida JSON). None si no hay clave, se agota la cuota o falla."""
+    key = os.getenv("GEMINI_API_KEY")
+    if not key: return None
+    try: from google import genai
+    except ImportError: print("intérprete: falta google-genai"); return None
+    client = genai.Client(api_key=key, http_options={"timeout": 30_000})
+    for model in [m.strip() for m in GEMINI_MODELS if m.strip() not in _DEAD]:
+        try:
+            r = client.models.generate_content(model=model, contents=_prompt(text, history),
+                                               config={"system_instruction": SYSTEM + "\n\nResponde SOLO con un JSON: "
+                                                       "{\"orden\": \"...\", \"respuesta\": \"...\"}.",
+                                                       "response_mime_type": "application/json", "temperature": 0})
+            out = _parse(r.text)
+            if out: return out
+            print("Gemini respuesta rara", model, (r.text or "")[:200])
+        except Exception as e:  # cuota, red o respuesta mala: al siguiente modelo
+            print("Gemini", model, str(e)[:200])
+            if getattr(e, "code", None) == 429: _DEAD.add(model.strip())
+    return None
 
 
 def _prompt(text, history):
@@ -42,8 +68,11 @@ def _prompt(text, history):
 
 
 def _parse(txt):
-    try: out = json.loads(txt.strip().removeprefix("```json").removeprefix("```").removesuffix("```"))
-    except (ValueError, AttributeError): return None
+    import re
+    m = re.search(r"\{.*\}", txt or "", re.S)
+    try: out = json.loads(m.group(0)) if m else None
+    except ValueError: return None
+    if not isinstance(out, dict): return None
     return {"orden": str(out.get("orden") or "").strip(), "respuesta": str(out.get("respuesta") or "").strip()}
 
 
@@ -71,7 +100,7 @@ def route_github(text, history=()):
 
 def route(text, history=()):
     """{"orden": str, "respuesta": str} o None (sin proveedor, error o rechazo)."""
-    if not os.getenv("ANTHROPIC_API_KEY"): return route_github(text, history)
+    if not os.getenv("ANTHROPIC_API_KEY"): return route_gemini(text, history) or route_github(text, history)
     try: import anthropic
     except ImportError: print("intérprete: falta el paquete anthropic"); return None
     try:
