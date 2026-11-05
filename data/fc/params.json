@@ -1,1 +1,1 @@
-{"lr": 0.003, "lr_league": 0.002, "shrink": 0, "logloss_oos": 0.983, "n_oos": 17810, "calib_test": {"ll": 0.9773, "ll_cal": 0.9741, "se": 0.0006, "n": 17796}, "calib": [1.1688, 0.3349], "h2h_test": {"ll": 0.9741, "ll_h2h": 0.9736, "se": 0.0003}}
+{"lr": 0.003, "lr_league": 0.002, "shrink": 0, "logloss_oos": 0.983, "n_oos": 17810, "calib_test": {"ll": 0.9773, "ll_cal": 0.9742, "se": 0.0006, "n": 17764}, "calib": [1.1714, 0.337], "h2h_test": {"ll": 0.9742, "ll_h2h": 0.9737, "se": 0.0003}}
