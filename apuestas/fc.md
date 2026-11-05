@@ -1,25 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 05/11/2026 13:14 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Ganger_29 vs Tesla — 05/11 · 13:22
-
-👀 candidata · 🎮⚽ FC 27 · FA Cup · **Gana Tesla** @ **1.66** (Unibet) · prob 72% vs casas 53% · ventaja +20%
-
-- ✅ Valor: ventaja +20% (mín. 13% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 56.936 partidos)  
-Goles esperados: Ganger_29 2.25 · Tesla 4.06  
-Ganador: Ganger_29 14% · empate 14% · Tesla 72%  
-Total: más de 6.5 goles 44% · menos 56%  
-Hándicap Tesla: −1.5 54% · −2.5 38%  
-🔎 **Claves**  
-• Forma: Ganger_29 ➖✅➖❌✅ | Tesla ❌✅✅✅❌  
-• Partidos: Ganger_29 751 | Tesla 891  
-• Liga: FA Cup  
-• Unibet: 1 3.20 · X 4.40 · 2 1.66 (sin margen 27%/20%/53%) · ventaja +20%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 1.66 (+19%) · Paf España 1.66 (+19%)  
+Actualizado 05/11/2026 13:22 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## dm1trena vs Revange — 05/11 · 13:40
 
@@ -39,6 +20,25 @@ Hándicap Revange: −1.5 30% · −2.5 16%
 • Liga: LaLiga  
 • Unibet: 1 3.60 · X 3.50 · 2 1.72 (sin margen 24%/25%/51%) · ventaja +18%. Sin stake hasta demostrar ROI con estas cuotas.  
 • En España: LeoVegas España 3.60 (+18%) · Paf España 3.60 (+18%)  
+
+## why vs goldfer — 05/11 · 13:44
+
+👀 candidata · 🎮⚽ FC 27 · Champions League A 2x6 · **Empate** @ **6.40** (Unibet) · prob 18% vs casas 14% · ventaja +12%
+
+- ✅ Valor: ventaja +12% (mín. 11% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 56.996 partidos)  
+Goles esperados: why 3.54 · goldfer 2.55  
+Ganador: why 58% · empate 17% · goldfer 24%  
+Total: más de 6.5 goles 41% · menos 59%  
+Hándicap why: −1.5 41% · −2.5 26%  
+🔎 **Claves**  
+• Forma: why ➖❌➖✅✅ | goldfer ❌❌❌❌❌  
+• Partidos: why 561 | goldfer 449  
+• Liga: Champions League A 2x6  
+• Unibet: 1 1.41 · X 6.40 · 2 3.50 (sin margen 62%/14%/25%) · ventaja +12%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 6.40 (+12%) · Paf España 6.40 (+12%)  
 
 ## Maxa vs Tesla — 05/11 · 13:46
 
