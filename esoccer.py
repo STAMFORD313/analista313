@@ -53,18 +53,24 @@ def match_rows(t, finished=True):
 
 
 def update_history(days=2, pause=0.3):
-    """Guarda los partidos de los torneos TERMINADOS (status 4) aún no guardados de los últimos `days` días."""
+    """Guarda los partidos TERMINADOS de los últimos `days` días: de los torneos acabados (status 4) aún no completos y,
+    además, los ya jugados de los torneos en curso (antes esperaba al final del torneo: horas de retraso en los resultados)."""
     DIR.mkdir(parents=True, exist_ok=True)
     old = pd.read_csv(HIST) if HIST.exists() else pd.DataFrame(columns=COLS)
-    known, rows, now = set(old.tournament_id), [], pd.Timestamp.now(tz="UTC")
-    try: ts = [t for t in tournaments(now - pd.Timedelta(days=days), now) if t.get("status_id") == 4 and t["id"] not in known]
+    done_f = DIR / "torneos_hechos.json"
+    done = set(json.loads(done_f.read_text())) if done_f.exists() else set(int(x) for x in old.tournament_id.dropna())
+    rows, now, finished = [], pd.Timestamp.now(tz="UTC"), []
+    try: ts = [t for t in tournaments(now - pd.Timedelta(days=days), now) if t["id"] not in done and t.get("status_id") != 1]
     except (requests.RequestException, ValueError) as e: print("esportsbattle", e); ts = []
     for t in ts:
-        try: rows += match_rows(t)
+        try:
+            rows += match_rows(t)
+            if t.get("status_id") == 4: finished.append(t["id"])
         except (requests.RequestException, ValueError) as e: print("esportsbattle", t["id"], e)  # se reintenta en el siguiente run
         time.sleep(pause)
     df = pd.concat([old, pd.DataFrame(rows, columns=COLS)], ignore_index=True).drop_duplicates("id").dropna(subset=["s1", "s2"])
     df.to_csv(HIST, index=False)
+    done_f.write_text(json.dumps(sorted(int(x) for x in done | set(finished))))
     df["date"] = pd.to_datetime(df["date"], utc=True)
     return df.sort_values(["date", "id"], ignore_index=True)
 

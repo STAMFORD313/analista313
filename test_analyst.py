@@ -1509,3 +1509,14 @@ _pd0 = {"1": 0.4, "X": 0.2, "2": 0.4}
 _pd1 = esoccer.draw_league(_pd0, "CSL", {"CSL": 0.75}); assert _pd1["X"] < 0.2 and abs(sum(_pd1.values()) - 1) < 1e-9
 assert esoccer.draw_league(_pd0, "Otra", {"CSL": 0.75}) == _pd0
 print("ok empate por liga FC 27")
+
+import tempfile as _tf, pathlib as _pl
+_d0, _h0, _tr0, _mr0 = _ESO.DIR, _ESO.HIST, _ESO.tournaments, _ESO.match_rows
+try:
+    _ESO.DIR = _pl.Path(_tf.mkdtemp()); _ESO.HIST = _ESO.DIR / "matches.csv"
+    _ESO.tournaments = lambda a, b: [{"id": 1, "status_id": 2}, {"id": 2, "status_id": 4}, {"id": 3, "status_id": 1}]
+    _ESO.match_rows = lambda t: [{"id": 10 * t["id"], "date": "2026-11-05T15:00:00Z", "tournament_id": t["id"], "league": "L", "p1": "a", "p2": "b", "s1": 1, "s2": 1}]
+    _h = _ESO.update_history(pause=0)
+    assert set(_h.id) == {10, 20} and json.loads((_ESO.DIR / "torneos_hechos.json").read_text()) == [2]  # el en curso se vuelve a mirar
+finally: _ESO.DIR, _ESO.HIST, _ESO.tournaments, _ESO.match_rows = _d0, _h0, _tr0, _mr0
+print("ok resultados de FC 27 sin esperar al final del torneo")
