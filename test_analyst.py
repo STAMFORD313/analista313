@@ -1521,3 +1521,10 @@ try:
     assert set(_h.id) == {10, 20} and json.loads((_ESO.DIR / "torneos_hechos.json").read_text()) == [2]  # el en curso se vuelve a mirar
 finally: _ESO.DIR, _ESO.HIST, _ESO.tournaments, _ESO.match_rows = _d0, _h0, _tr0, _mr0
 print("ok resultados de FC 27 sin esperar al final del torneo")
+
+assert _SL.same({"home": "Bournemouth", "away": "Sparta Prague"}, "AFC Bournemouth", "Sparta Prague")
+assert not _SL.same({"home": "Bournemouth", "away": "Ajax"}, "Brentford", "Ajax")
+_lg = _SL.live_game({"home": "Sparta Prague", "away": "Bournemouth", "start": "2026-11-05T17:45:00+00:00"},
+                    {(c, "20261105"): ([("9", "post", "FT", "Sparta Prague", "AFC Bournemouth", 0, 2)] if c == "uecl" else []) for c in [*_SL.ES.LEAGUES, "uecl"]})
+assert _lg and _lg["away"] == "Bournemouth" and _lg["as"] == 2 and _SL.judge({"txt": "Gana Bournemouth"}, _lg)[0] is True, _lg
+print("ok simuladas con nombres distintos y Conference League")

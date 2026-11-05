@@ -74,12 +74,22 @@ def games(code):
     return _GAMES[code][1]
 
 
+def same(leg, h, a):
+    """¿Es el partido de la pierna? Nombre exacto o parecido (Pinnacle «Bournemouth» = ESPN «AFC Bournemouth»)."""
+    if h == leg["home"] and a == leg["away"]: return True
+    return bool(A.find_team(leg["home"], [h]) and A.find_team(leg["away"], [a]))
+
+
+EXTRA_SLUGS = {"uecl": "uefa.europa.conf"}  # Conference League: no está en espn_soccer.LEAGUES pero sí en las combinadas
+
+
 def find_game(leg):
     after = pd.Timestamp(leg.get("start") or leg.get("creada")) - pd.Timedelta(hours=6)
     codes = [leg["code"]] if leg.get("code") in ES.LEAGUES else list(ES.LEAGUES)
     for code in codes:
         for g in games(code):
-            if g["home"] == leg["home"] and g["away"] == leg["away"] and pd.Timestamp(g["date"]) >= after: return g
+            if pd.Timestamp(g["date"]) >= after and same(leg, g["home"], g["away"]):
+                return {**g, "home": leg["home"], "away": leg["away"]}  # con los nombres de la pierna (Pinnacle ≠ ESPN)
     return None
 
 
@@ -223,17 +233,18 @@ def _scoreboard(slug, day, sport="soccer"):
 def live_game(leg, boards):
     """Partido de ESPN de una pierna empezada: {home, away, hs, as, estado, reloj, team_stats, players} o None."""
     day = pd.Timestamp(leg.get("start") or leg.get("ahora") or pd.Timestamp.now(tz="UTC"))  # boletos de foto: sin hora
-    codes = [leg["code"]] if leg.get("code") in ES.LEAGUES else list(ES.LEAGUES)
+    slugs = {**ES.LEAGUES, **EXTRA_SLUGS}
+    codes = [leg["code"]] if leg.get("code") in slugs else list(slugs)
     for code in codes:
         key = (code, f"{day:%Y%m%d}")
         if key not in boards:
-            try: boards[key] = _scoreboard(ES.LEAGUES[code], day)
+            try: boards[key] = _scoreboard(slugs[code], day)
             except Exception as e: print("directo", key, repr(e)[:80]); boards[key] = []
         for ev, state, clock, h, a, hs, as_ in boards[key]:
-            if h == leg["home"] and a == leg["away"] and state in ("in", "post"):
-                try: det = ES.compact(ES.get(f"{ES.LEAGUES[code]}/summary", event=ev))
+            if state in ("in", "post") and same(leg, h, a):
+                try: det = ES.compact(ES.get(f"{slugs[code]}/summary", event=ev))
                 except Exception: det = {}
-                return {**det, "home": h, "away": a, "hs": hs, "as": as_, "estado": state, "reloj": clock}
+                return {**det, "home": leg["home"], "away": leg["away"], "hs": hs, "as": as_, "estado": state, "reloj": clock}
     return None
 
 

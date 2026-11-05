@@ -203,3 +203,4 @@
 - 2026-11-05: FC 27: los resultados se guardan en cuanto acaba cada partido (antes solo al terminar el torneo entero: horas de retraso; de 7 empates mandados desde las 12:30 solo 1 tenía resultado). Torneos completos en data/fc/torneos_hechos.json.
 - 2026-11-05: FC 27: los partidos cuyo mejor pick es un empate con ventaja ≥ 5 % van primero en los 3 huecos de cada pasada (antes los ocupaban 1/2 que ya no se mandan: 12 empates cumplían la regla desde las 12:30 y solo se enviaron ~8).
 - 2026-11-05: barridos sin piernas repetidas: los partidos ya usados en barridos pendientes se excluyen (HULIGANI estaba en 3 combinadas a la vez, BRUTE SQ y B.LINE en 2 → una pierna fallada tumbaba varias).
+- 2026-11-05: simuladas: el partido se busca por nombre parecido (Pinnacle «Bournemouth» = ESPN «AFC Bournemouth») y también en la Conference League; las piernas de fútbol de los barridos no se liquidaban.
