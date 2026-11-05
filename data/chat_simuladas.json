@@ -541,5 +541,47 @@
   "estado": "pendiente",
   "avisada": false,
   "rev": 1
+ },
+ {
+  "id": "20261105165516575438",
+  "creada": "2026-11-05 16:55:16.575476+00:00",
+  "titulo": "Barrido · Combinada cuota 6.0",
+  "legs": [
+   {
+    "code": null,
+    "start": "2026-11-05 17:45:00+00:00",
+    "home": "Sparta Prague",
+    "away": "Bournemouth",
+    "txt": "Gana Bournemouth",
+    "odds": 1.6,
+    "p": 0.6932
+   },
+   {
+    "code": null,
+    "start": "2026-11-05 17:45:00+00:00",
+    "home": "Midtjylland",
+    "away": "Ajax",
+    "txt": "Gana Ajax",
+    "odds": 2.35,
+    "p": 0.457
+   },
+   {
+    "src": "esports:dota2",
+    "side": "H",
+    "code": null,
+    "start": "2026-11-06 16:00:00+00:00",
+    "home": "HULIGANI",
+    "away": "Yakult Brothers",
+    "txt": "Gana HULIGANI",
+    "odds": 1.6,
+    "p": 0.6557666666666666
+   }
+  ],
+  "odds": 6.02,
+  "p": 0.20774189617333333,
+  "stake": 1.0,
+  "estado": "pendiente",
+  "avisada": false,
+  "rev": 1
  }
 ]
