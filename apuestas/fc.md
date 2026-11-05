@@ -1,6 +1,24 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 05/11/2026 09:52 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 05/11/2026 09:58 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+
+## Maxa vs Totti — 05/11 · 10:04
+
+👀 candidata · 🎮⚽ FC 27 · Ligue 1 · **Empate** @ **5.60** (Unibet) · prob 19% vs casas 16% · ventaja +4%
+
+- ❌ Valor: ventaja +4% (mín. 9% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 56.798 partidos)  
+Goles esperados: Maxa 3.28 · Totti 2.80  
+Ganador: Maxa 50% · empate 19% · Totti 31%  
+Total: más de 6.5 goles 41% · menos 59%  
+Hándicap Maxa: −1.5 33% · −2.5 20%  
+🔎 **Claves**  
+• Forma: Maxa ✅➖❌✅✅ | Totti ❌➖➖✅❌  
+• Partidos: Maxa 837 | Totti 891  
+• Liga: Ligue 1  
+• Unibet: 1 1.65 · X 5.60 · 2 2.85 (sin margen 53%/16%/31%) · ventaja +4%. Sin stake hasta demostrar ROI con estas cuotas.  
 
 ## Kril vs Fireline — 05/11 · 10:06
 
@@ -56,6 +74,24 @@ Hándicap Revange: −1.5 28% · −2.5 15%
 • Liga: Champions League AFC  
 • Unibet: 1 1.60 · X 3.75 · 2 4.00 (sin margen 55%/23%/22%) · ventaja +23%. Sin stake hasta demostrar ROI con estas cuotas.  
 
+## why vs goldfer — 05/11 · 10:14
+
+👀 candidata · 🎮⚽ FC 27 · Champions League A 2x6 · **Empate** @ **6.40** (Unibet) · prob 17% vs casas 14% · ventaja +11%
+
+- ❌ Valor: ventaja +11% (mín. 11% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 56.798 partidos)  
+Goles esperados: why 3.52 · goldfer 2.66  
+Ganador: why 59% · empate 17% · goldfer 24%  
+Total: más de 6.5 goles 42% · menos 58%  
+Hándicap why: −1.5 39% · −2.5 25%  
+🔎 **Claves**  
+• Forma: why ❌❌❌✅✅ | goldfer ❌❌❌❌❌  
+• Partidos: why 553 | goldfer 441  
+• Liga: Champions League A 2x6  
+• Unibet: 1 1.38 · X 6.40 · 2 3.70 (sin margen 63%/14%/23%) · ventaja +11%. Sin stake hasta demostrar ROI con estas cuotas.  
+
 ## Tesla vs Maxa — 05/11 · 10:16
 
 👀 candidata · 🎮⚽ FC 27 · Ligue 1 · **Gana Tesla** @ **2.00** (Unibet) · prob 61% vs casas 44% · ventaja +23%
@@ -109,6 +145,24 @@ Hándicap Kril: −1.5 61% · −2.5 47%
 • Partidos: Dan_dragonio 1385 | Kril 293  
 • Liga: Volta World Cup B  
 • Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
+
+## Maxa vs Ganger_29 — 05/11 · 10:28
+
+👀 candidata · 🎮⚽ FC 27 · Ligue 1 · **Gana Maxa** @ **1.98** (Unibet) · prob 55% vs casas 44% · ventaja +9%
+
+- ❌ Valor: ventaja +9% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 56.798 partidos)  
+Goles esperados: Maxa 3.30 · Ganger_29 2.52  
+Ganador: Maxa 55% · empate 18% · Ganger_29 27%  
+Total: más de 5.5 goles 53% · menos 47%  
+Hándicap Maxa: −1.5 38% · −2.5 23%  
+🔎 **Claves**  
+• Forma: Maxa ✅➖❌✅✅ | Ganger_29 ❌➖❌❌❌  
+• Partidos: Maxa 837 | Ganger_29 744  
+• Liga: Ligue 1  
+• Unibet: 1 1.98 · X 4.40 · 2 2.40 (sin margen 44%/20%/36%) · ventaja +9%. Sin stake hasta demostrar ROI con estas cuotas.  
 
 ## Fireline vs Kril — 05/11 · 10:51
 
