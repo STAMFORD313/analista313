@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 05/11/2026 02:53 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 05/11/2026 03:12 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Nordic Valor vs boyband — 05/11 · 19:00
 

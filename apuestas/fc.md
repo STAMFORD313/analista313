@@ -1,60 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 05/11/2026 02:53 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## kkikus vs tizzy — 05/11 · 03:03
-
-👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana tizzy** @ **1.19** (cuota justa (sin casa)) · prob 84% vs casas 84% · ventaja +0%
-
-- ❌ Valor: ventaja +0% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 56.396 partidos)  
-Goles esperados: kkikus 2.19 · tizzy 4.82  
-Ganador: kkikus 7% · empate 9% · tizzy 84%  
-Total: más de 7.5 goles 40% · menos 60%  
-Hándicap tizzy: −1.5 66% · −2.5 51%  
-🔎 **Claves**  
-• Forma: kkikus ✅➖➖❌❌ | tizzy ❌❌✅❌✅  
-• Partidos: kkikus 872 | tizzy 329  
-• Liga: Champions League B  
-• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
-
-## hotShot vs OG — 05/11 · 03:04
-
-👀 candidata · 🎮⚽ FC 27 · Champions League A · **Gana OG** @ **3.65** (Unibet) · prob 33% vs casas 24% · ventaja +19%
-
-- ✅ Valor: ventaja +19% (mín. 13% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 56.476 partidos)  
-Goles esperados: hotShot 2.34 · OG 2.11  
-Ganador: hotShot 45% · empate 23% · OG 33%  
-Total: más de 4.5 goles 46% · menos 54%  
-Hándicap hotShot: −1.5 27% · −2.5 13%  
-🔎 **Claves**  
-• Forma: hotShot ✅❌➖✅❌ | OG ✅✅➖➖➖  
-• Partidos: hotShot 500 | OG 536  
-• Liga: Champions League A  
-• Unibet: 1 2.05 · X 2.60 · 2 3.65 (sin margen 43%/34%/24%) · ventaja +19%. Sin stake hasta demostrar ROI con estas cuotas.  
-
-## rostyk vs Solya — 05/11 · 03:08
-
-👀 candidata · 🎮⚽ FC 27 · LaLiga 2x6 · **Gana Solya** @ **1.61** (Unibet) · prob 66% vs casas 54% · ventaja +6%
-
-- ❌ Valor: ventaja +6% (mín. 10% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 56.488 partidos)  
-Goles esperados: rostyk 4.20 · Solya 5.71  
-Ganador: rostyk 22% · empate 12% · Solya 66%  
-Total: más de 9.5 goles 53% · menos 47%  
-Hándicap Solya: −1.5 50% · −2.5 37%  
-🔎 **Claves**  
-• Forma: rostyk ➖➖❌✅✅ | Solya ✅✅➖❌✅  
-• Partidos: rostyk 325 | Solya 288  
-• Liga: LaLiga 2x6  
-• Unibet: 1 2.55 · X 7.50 · 2 1.61 (sin margen 34%/12%/54%) · ventaja +6%. Sin stake hasta demostrar ROI con estas cuotas.  
+Actualizado 05/11/2026 03:12 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Kavviro vs tizzy — 05/11 · 03:15
 
@@ -199,4 +145,58 @@ Hándicap Sheva: −1.5 61% · −2.5 44%
 • Partidos: Sheva 1334 | Senya 1319  
 • Liga: Volta International A  
 • Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
+
+## OG vs Inquisitor — 05/11 · 03:40
+
+👀 candidata · 🎮⚽ FC 27 · Champions League A · **Gana Inquisitor** @ **1.80** (Unibet) · prob 59% vs casas 49% · ventaja +6%
+
+- ❌ Valor: ventaja +6% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 56.488 partidos)  
+Goles esperados: OG 2.13 · Inquisitor 3.04  
+Ganador: OG 22% · empate 19% · Inquisitor 59%  
+Total: más de 5.5 goles 41% · menos 59%  
+Hándicap Inquisitor: −1.5 39% · −2.5 23%  
+🔎 **Claves**  
+• Forma: OG ✅✅➖➖➖ | Inquisitor ❌❌✅❌➖  
+• Partidos: OG 536 | Inquisitor 536  
+• Liga: Champions League A  
+• Unibet: 1 2.75 · X 4.50 · 2 1.80 (sin margen 32%/19%/49%) · ventaja +6%. Sin stake hasta demostrar ROI con estas cuotas.  
+
+## Kray vs RossFCDK — 05/11 · 03:40
+
+👀 candidata · 🎮⚽ FC 27 · Champions League A · **Gana Kray** @ **1.58** (Unibet) · prob 66% vs casas 56% · ventaja +4%
+
+- ❌ Valor: ventaja +4% (mín. 9% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 56.488 partidos)  
+Goles esperados: Kray 3.68 · RossFCDK 2.39  
+Ganador: Kray 66% · empate 16% · RossFCDK 18%  
+Total: más de 6.5 goles 41% · menos 59%  
+Hándicap Kray: −1.5 46% · −2.5 30%  
+🔎 **Claves**  
+• Forma: Kray ✅✅✅➖➖ | RossFCDK ❌❌➖❌✅  
+• Partidos: Kray 535 | RossFCDK 499  
+• Liga: Champions League A  
+• Unibet: 1 1.58 · X 4.70 · 2 3.45 (sin margen 56%/19%/26%) · ventaja +4%. Sin stake hasta demostrar ROI con estas cuotas.  
+
+## RossFCDK vs OG — 05/11 · 03:52
+
+👀 candidata · 🎮⚽ FC 27 · Champions League A · **Gana OG** @ **2.65** (Unibet) · prob 43% vs casas 32% · ventaja +15%
+
+- ✅ Valor: ventaja +15% (mín. 12% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 56.488 partidos)  
+Goles esperados: RossFCDK 2.42 · OG 2.65  
+Ganador: RossFCDK 35% · empate 21% · OG 43%  
+Total: más de 5.5 goles 40% · menos 60%  
+Hándicap OG: −1.5 28% · −2.5 15%  
+🔎 **Claves**  
+• Forma: RossFCDK ❌❌➖❌✅ | OG ✅✅➖➖➖  
+• Partidos: RossFCDK 499 | OG 536  
+• Liga: Champions League A  
+• Unibet: 1 2.20 · X 3.05 · 2 2.65 (sin margen 39%/28%/33%) · ventaja +15%. Sin stake hasta demostrar ROI con estas cuotas.  
 
