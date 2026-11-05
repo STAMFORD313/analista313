@@ -191,3 +191,4 @@
 - 2026-11-05: entrena_fc27 en cada pasada del coordinador (cada 30 min, límite 25 min).
 - 2026-11-05: FC 27 con casas españolas: LeoVegas España y Paf España (Kambi) tienen los mismos partidos de Esoccer Battle que Unibet (23/23, sondeado); cada señal añade «En España: LeoVegas X · Paf Y» con su ventaja. Unibet sigue como referencia del histórico.
 - 2026-11-05: FC 27 con 999 partidos con cuota: la casa sin margen predice mejor que el modelo (log-loss 0.9945 vs 1.0003; mezcla 25 % modelo 0.9929). Apostando la mayor ventaja del modelo: > 0 % → −8.4 % ± 6.1 % (535), > 3 % → −0.7 % ± 7.3 %, > 5 % → +1.7 % ± 8.5 % (311). Ya no se mandan señales de FC 27 con < 5 % de ventaja; sigue sin stake.
+- 2026-11-05: entrenamiento FC 27 continuo de verdad: cada pasada (30 min) prueba 12 combinaciones nuevas alrededor de los mejores parámetros (antes repetía siempre la misma rejilla de 16); solo guarda si no empeora fuera de muestra.

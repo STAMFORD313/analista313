@@ -29,12 +29,26 @@ def league_freq(df, a, b):
     return float(-sum(math.log(max(fr.loc[l, k] if l in fr.index else 1 / 3, 1e-9)) for l, k in zip(te.league, o[te.index])) / len(te))
 
 
+def candidates(n=12, seed=None):
+    """Búsqueda continua (corre cada 30 min): los parámetros actuales, unas esquinas de la rejilla clásica y vecinos al
+    azar de los actuales (×0.5-2 en escala log) → cada pasada explora algo nuevo en vez de repetir siempre lo mismo."""
+    import random
+    rnd = random.Random(seed)
+    cur = json.loads((F.DIR / "params.json").read_text()) if (F.DIR / "params.json").exists() else {}
+    base = (cur.get("lr", 0.005), cur.get("lr_league", 0.002), cur.get("shrink", 0.0005))
+    out = [base, (0.003, 0.0005, 0), (0.005, 0.002, 0.0005), (0.01, 0.002, 0.0005)]
+    jit = lambda v, lo, hi: min(hi, max(lo, v * math.exp(rnd.uniform(-0.7, 0.7)))) if v else rnd.choice([0, lo])
+    while len(out) < n:
+        out.append((round(jit(base[0], 5e-4, 0.05), 5), round(jit(base[1], 1e-4, 0.01), 5), round(jit(base[2], 1e-4, 0.005), 5)))
+    return list(dict.fromkeys(out))
+
+
 def main():
     df = pd.read_csv(F.HIST); df["date"] = pd.to_datetime(df["date"], utc=True); df = df.sort_values(["date", "id"])
     end = df.date.max()
     a, b = end - pd.Timedelta(days=30), end - pd.Timedelta(days=15)
     res = []
-    for lr, lrl, sh in itertools.product([0.002, 0.003, 0.005, 0.01], [0.0005, 0.002], [0, 0.0005]):
+    for lr, lrl, sh in candidates():
         la, lb, nb = losses(df, a, b, lr=lr, lr_league=lrl, shrink=sh)
         res.append((la, lb, {"lr": lr, "lr_league": lrl, "shrink": sh}))
         print(f"{res[-1][2]}: tramo A {la:.4f} · B {lb:.4f}", flush=True)
