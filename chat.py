@@ -774,7 +774,7 @@ def match_combo(D, kh, ka, target, hours=72, by_team=False, shooters=None):
     return "\n".join(out)
 
 
-def long_combo(D, target, hours=48, sports=None, only_stats=False, value_only=False):
+def long_combo(D, target, hours=48, sports=None, only_stats=False, value_only=False, exclude=()):
     """Combinada de cuota alta (p. ej. 80) con cuotas REALES de Unibet (Kambi): de cada partido de las próximas 48 h, la
     línea de córners o tarjetas totales con más ventaja (prob. del modelo × cuota − 1 ≥ 0); se añaden, de más a menos
     ventaja, hasta que el producto de cuotas llega a `target`. Entre partidos distintos la casa paga el producto exacto."""
@@ -840,6 +840,7 @@ def long_combo(D, target, hours=48, sports=None, only_stats=False, value_only=Fa
         if odds >= target: break  # primero las de ventaja; si no llegan, las menos malas (la ganancia esperada lo refleja)
         hh, _, aa = re.sub(r"^\W+\s*", "", c[0].split(" · ")[0]).partition(" – ")
         g = (norm(hh)[:6], norm(aa)[:6])  # mismo partido aunque Pinnacle y ESPN escriban distinto los nombres
+        if g in exclude: continue  # partido ya usado en otra combinada pendiente (barridos: no repetir piernas)
         if c[3] < COMBO_MIN_LEG or kinds.get(kind(c[5]), 0) >= 3 or g in games: continue  # con cabeza: nada de longshots
         legs.append(c); odds *= c[4]; p *= c[3]; kinds[kind(c[5])] = kinds.get(kind(c[5]), 0) + 1; games.add(g)
     if len(legs) < 2:
@@ -1028,7 +1029,10 @@ def sweep():
     si la hay y no es repetida, se apunta como simulada y se devuelve el mensaje para Telegram; si no, None."""
     keep = _CTX.get("ultima")
     try:
-        text = long_combo(db(), SWEEP_TARGET, value_only=True)
+        import simulaciones
+        used = {(norm(l["home"])[:6], norm(l["away"])[:6]) for b in simulaciones.load().values()
+                if b["estado"] == "pendiente" and b["titulo"].startswith("Barrido") for l in b["legs"]}
+        text = long_combo(db(), SWEEP_TARGET, value_only=True, exclude=used)
         u = _CTX.get("ultima")
         if not u or u is keep or not u.get("odds") or u["odds"] < SWEEP_MIN_ODDS: return None
         if any(l.get("p") is None or l["p"] * (l.get("odds") or 0) - 1 < LONG_EDGE for l in u["legs"]): return None

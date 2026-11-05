@@ -1276,6 +1276,7 @@ _CH.long_combo = _fake
 try:
     _CH._DB.update(db=_D, t=1e18)
     assert _CH.sweep().startswith("🔎") and _CH.sweep() is None and _kw.get("value_only")  # la segunda vez: repetida
+    assert ("h0", "a0") in _kw.get("exclude", set())  # los partidos del barrido pendiente no se repiten
     _legs[0]["p"] = 0.4; _SM.FILE.unlink(missing_ok=True); _SM._MEM.clear(); assert _CH.sweep() is None  # una pierna sin ventaja
 finally: _CH.long_combo, _SM.FILE, _SM.push = _lc2, _smf5, _smp5; _SM._MEM.clear(); _CH._DB.clear(); _CH._DB["t"] = 0; _CH._CTX.clear()
 _CH.LAST_FILE.unlink(missing_ok=True)
