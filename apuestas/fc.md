@@ -1,42 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 05/11/2026 04:18 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Solya vs k0mych — 05/11 · 04:20
-
-👀 candidata · 🎮⚽ FC 27 · LaLiga 2x6 · **Gana Solya** @ **1.48** (Unibet) · prob 80% vs casas 59% · ventaja +18%
-
-- ✅ Valor: ventaja +18% (mín. 13% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 56.528 partidos)  
-Goles esperados: Solya 5.93 · k0mych 3.37  
-Ganador: Solya 80% · empate 9% · k0mych 11%  
-Total: más de 9.5 goles 45% · menos 55%  
-Hándicap Solya: −1.5 63% · −2.5 50%  
-🔎 **Claves**  
-• Forma: Solya ✅✅➖❌✅ | k0mych ❌➖➖❌❌  
-• Partidos: Solya 288 | k0mych 308  
-• Liga: LaLiga 2x6  
-• Unibet: 1 1.48 · X 6.50 · 2 3.10 (sin margen 59%/13%/28%) · ventaja +18%. Sin stake hasta demostrar ROI con estas cuotas.  
-
-## RossFCDK vs hotShot — 05/11 · 04:28
-
-👀 candidata · 🎮⚽ FC 27 · Champions League A · **Gana hotShot** @ **2.33** (Unibet) · prob 48% vs casas 37% · ventaja +11%
-
-- ✅ Valor: ventaja +11% (mín. 11% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 56.528 partidos)  
-Goles esperados: RossFCDK 1.87 · hotShot 2.28  
-Ganador: RossFCDK 29% · empate 23% · hotShot 48%  
-Total: más de 4.5 goles 40% · menos 60%  
-Hándicap hotShot: −1.5 29% · −2.5 14%  
-🔎 **Claves**  
-• Forma: RossFCDK ❌❌➖❌✅ | hotShot ✅❌➖✅❌  
-• Partidos: RossFCDK 499 | hotShot 500  
-• Liga: Champions League A  
-• Unibet: 1 3.55 · X 2.25 · 2 2.33 (sin margen 24%/38%/37%) · ventaja +11%. Sin stake hasta demostrar ROI con estas cuotas.  
+Actualizado 05/11/2026 04:43 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Inquisitor vs OG — 05/11 · 04:50
 
@@ -74,6 +38,24 @@ Hándicap Kray: −1.5 45% · −2.5 29%
 • Liga: Serie A  
 • Unibet: 1 3.15 · X 5.60 · 2 1.57 (sin margen 28%/16%/56%) · ventaja +3%. Sin stake hasta demostrar ROI con estas cuotas.  
 
+## rostyk vs Solya — 05/11 · 04:56
+
+👀 candidata · 🎮⚽ FC 27 · LaLiga 2x6 · **Gana Solya** @ **1.58** (Unibet) · prob 66% vs casas 55% · ventaja +4%
+
+- ❌ Valor: ventaja +4% (mín. 9% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 56.568 partidos)  
+Goles esperados: rostyk 4.20 · Solya 5.71  
+Ganador: rostyk 22% · empate 12% · Solya 66%  
+Total: más de 9.5 goles 53% · menos 47%  
+Hándicap Solya: −1.5 50% · −2.5 37%  
+🔎 **Claves**  
+• Forma: rostyk ➖➖❌✅✅ | Solya ✅✅➖❌✅  
+• Partidos: rostyk 325 | Solya 288  
+• Liga: LaLiga 2x6  
+• Unibet: 1 2.75 · X 6.75 · 2 1.58 (sin margen 32%/13%/55%) · ventaja +4%. Sin stake hasta demostrar ROI con estas cuotas.  
+
 ## kkikus vs Simaponika — 05/11 · 04:59
 
 👀 candidata · 🎮⚽ FC 27 · Club World Cup · **Empate** @ **6.25** (Unibet) · prob 18% vs casas 14% · ventaja +13%
@@ -109,4 +91,40 @@ Hándicap OG: −1.5 27% · −2.5 15%
 • Partidos: OG 536 | RossFCDK 499  
 • Liga: Serie A  
 • Unibet: 1 2.50 · X 3.10 · 2 2.32 (sin margen 35%/28%/37%) · ventaja +8%. Sin stake hasta demostrar ROI con estas cuotas.  
+
+## hotShot vs OG — 05/11 · 05:14
+
+👀 candidata · 🎮⚽ FC 27 · Serie A · **Gana OG** @ **3.85** (Unibet) · prob 33% vs casas 23% · ventaja +26%
+
+- ✅ Valor: ventaja +26% (mín. 15% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 56.568 partidos)  
+Goles esperados: hotShot 2.28 · OG 2.06  
+Ganador: hotShot 44% · empate 23% · OG 33%  
+Total: más de 4.5 goles 44% · menos 56%  
+Hándicap hotShot: −1.5 26% · −2.5 13%  
+🔎 **Claves**  
+• Forma: hotShot ✅✅❌➖➖ | OG ❌➖✅✅➖  
+• Partidos: hotShot 508 | OG 544  
+• Liga: Serie A  
+• Unibet: 1 1.98 · X 2.60 · 2 3.85 (sin margen 44%/33%/23%) · ventaja +26%. Sin stake hasta demostrar ROI con estas cuotas.  
+
+## k0mych vs Solya — 05/11 · 05:14
+
+👀 candidata · 🎮⚽ FC 27 · LaLiga 2x6 · **Gana Solya** @ **1.46** (Unibet) · prob 80% vs casas 60% · ventaja +16%
+
+- ✅ Valor: ventaja +16% (mín. 12% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 56.568 partidos)  
+Goles esperados: k0mych 3.37 · Solya 5.93  
+Ganador: k0mych 11% · empate 9% · Solya 80%  
+Total: más de 9.5 goles 45% · menos 55%  
+Hándicap Solya: −1.5 63% · −2.5 50%  
+🔎 **Claves**  
+• Forma: k0mych ❌➖➖❌❌ | Solya ✅✅➖❌✅  
+• Partidos: k0mych 308 | Solya 288  
+• Liga: LaLiga 2x6  
+• Unibet: 1 3.20 · X 6.50 · 2 1.46 (sin margen 27%/13%/59%) · ventaja +16%. Sin stake hasta demostrar ROI con estas cuotas.  
 
