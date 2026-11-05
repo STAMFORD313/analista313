@@ -554,7 +554,10 @@
     "away": "Bournemouth",
     "txt": "Gana Bournemouth",
     "odds": 1.6,
-    "p": 0.6932
+    "p": 0.6932,
+    "ok": true,
+    "por": "acabó 1-3",
+    "clv": -0.061
    },
    {
     "code": null,
@@ -563,7 +566,10 @@
     "away": "Ajax",
     "txt": "Gana Ajax",
     "odds": 2.35,
-    "p": 0.457
+    "p": 0.457,
+    "ok": true,
+    "por": "acabó 1-6",
+    "clv": 0.041
    },
    {
     "src": "esports:dota2",
