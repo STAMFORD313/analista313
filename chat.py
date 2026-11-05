@@ -997,17 +997,25 @@ def fc_table(days=None):
     d["edge"] = d.p_pick * d.odds - 1
     d["dia"] = pd.to_datetime(d.start, utc=True).dt.tz_convert(TZ).dt.strftime("%d/%m")
     row = lambda x: (len(x), int(x.ok_1x2.sum()), int((~x.ok_1x2.astype(bool)).sum()), float(x.g_unibet.sum()))
-    fmt = lambda name, r: f"{name:<10}{r[0]:>4}{r[1]:>4}{r[2]:>4}{r[3]:>+8.2f}{(r[3] / r[0] if r[0] else 0):>+7.0%}"
-    head = f"{'':<10}{'Ap':>4}{'✓':>4}{'✗':>4}{'€':>8}{'ROI':>7}"
-    lines = [head]
-    for dia, x in d.groupby("dia", sort=False): lines.append(fmt(dia, row(x)))
+    eur = lambda v: f"{'+' if v >= 0 else '−'}{abs(v):.2f} €".replace(".", ",")
+    icon = lambda v: "🟢" if v > 0 else "🔴" if v < 0 else "⚪"
+    per10 = lambda r: f"de cada 10 € apostados {'ganas' if r[3] >= 0 else 'pierdes'} {abs(r[3] / r[0] * 10):.2f} €".replace(".", ",")
+    out = ["🎮⚽ <b>FC 27 · cómo van los pronósticos</b>", "<i>(como si hubieras apostado 1 € a cada uno, con la cuota real de la casa)</i>", ""]
+    for dia, x in d.groupby("dia", sort=False):
+        r = row(x)
+        out.append(f"📅 <b>{dia}</b> · {r[0]} apuestas · ✅ {r[1]} ganadas · ❌ {r[2]} perdidas → {icon(r[3])} <b>{eur(r[3])}</b>")
     tot, rule = row(d), row(d[d.edge >= E.MIN_EDGE_SEND])
-    lines += ["─" * len(head), fmt("Total", tot), fmt("Vent.≥5%", rule)]
-    se = float(d.g_unibet.std() / len(d) ** 0.5) if len(d) > 1 else 0.0
-    return ("🎮⚽ <b>FC 27 · ganadas y perdidas</b> (1 € a cada pronóstico con cuota real de Unibet)\n<pre>" + A.esc("\n".join(lines)) + "</pre>\n"
-            f"Total: <b>{tot[3]:+.2f} €</b> en {tot[0]} apuestas (ROI {tot[3] / tot[0]:+.1%} ± {se:.1%}). "
-            f"Con la regla actual (solo ventaja ≥ 5 %): {rule[3]:+.2f} € en {rule[0]}.\n"
-            "Simulado, sin dinero real. Hasta que el ROI supere su margen de error no es una ganancia demostrada.")
+    xs = d[(d.edge >= E.MIN_EDGE_SEND) & d.pick.astype(str).isin(E.SEND_PICKS)]
+    out += ["", f"💰 <b>En total: {eur(tot[3])}</b> {icon(tot[3])}",
+            f"{tot[0]} apuestas: ✅ {tot[1]} ganadas y ❌ {tot[2]} perdidas. Es decir, {per10(tot)}.",
+            "", f"🎯 Solo las que el bot ve claras (ventaja de 5 % o más): <b>{eur(rule[3])}</b> {icon(rule[3])} en {rule[0]} apuestas ({per10(rule)})."]
+    if len(xs):
+        r = row(xs)
+        out.append(f"🤝 Empates con ventaja (lo único que te manda ahora): <b>{eur(r[3])}</b> {icon(r[3])} en {r[0]} apuestas "
+                   f"(✅ {r[1]} · ❌ {r[2]}; {per10(r)}).")
+    out += [
+            "", "⚠️ Es simulado, sin dinero real. Aún son pocos días: puede ser suerte, para bien o para mal."]
+    return "\n".join(out)
 
 
 def sweep():
