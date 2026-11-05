@@ -201,3 +201,4 @@
 - 2026-11-05: tabla de FC 27 con el resultado honesto desde la regla nueva (solo empates con ventaja, desde 5/11 12:30 UTC); lo anterior sirvió para elegir la regla.
 - 2026-11-05: arreglado el bucle de subida de los workflows (analista, nutrición, entrenar, rellenos): «git rebase --abort» sin rebase en curso daba error y bash -e cortaba el script al primer push rechazado → la pasada de nutrición de las 13:37 (entrenamiento FC 27 incluido) se perdió. Ahora reintenta 5 veces.
 - 2026-11-05: FC 27: los resultados se guardan en cuanto acaba cada partido (antes solo al terminar el torneo entero: horas de retraso; de 7 empates mandados desde las 12:30 solo 1 tenía resultado). Torneos completos en data/fc/torneos_hechos.json.
+- 2026-11-05: FC 27: los partidos cuyo mejor pick es un empate con ventaja ≥ 5 % van primero en los 3 huecos de cada pasada (antes los ocupaban 1/2 que ya no se mandan: 12 empates cumplían la regla desde las 12:30 y solo se enviaron ~8).

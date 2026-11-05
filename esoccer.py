@@ -343,8 +343,12 @@ def run(state, today, kg):
     print(f"{SLUG}: {len(evs)} partidos de esoccer en Unibet, {len(rows)} emparejados con Esoccer Battle")
     # primero los que tienen cuota de Unibet (por ventaja), luego el resto (por seguridad del pick)
     edge_of = lambda c: max(c[6][k] * book[c[3]][k] - 1 for k in "1X2") if c[3] in book else -9
+    def sendable(c):  # su mejor pick es de los que se mandan (empate) con ventaja suficiente: va primero
+        if c[3] not in book: return False
+        e = {k: c[6][k] * book[c[3]][k] - 1 for k in "1X2"}; k = max(e, key=e.get)
+        return k in SEND_PICKS and e[k] >= MIN_EDGE_SEND
     preds = []
-    for _, g, start, key, l1, l2, p, tot, diff in sorted(cands, key=lambda c: (c[3] in book, edge_of(c), c[0]), reverse=True)[:PER_RUN]:
+    for _, g, start, key, l1, l2, p, tot, diff in sorted(cands, key=lambda c: (sendable(c), c[3] in book, edge_of(c), c[0]), reverse=True)[:PER_RUN]:
         state["analyzed"].append(key)
         kg.match(TITLE, g["p1"], g["p2"], start, p, ([], []), "")
         mk = max(p, key=p.get)
