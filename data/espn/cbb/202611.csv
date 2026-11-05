@@ -211,8 +211,6 @@ id,date,event,home,away,hs,as,res
 401920343,2026-11-04T03:00Z,North Florida Ospreys at California Baptist Lancers,California Baptist Lancers,North Florida Ospreys,63,71,0.0
 401920155,2026-11-04T03:00Z,Cal State Fullerton Titans at San Diego State Aztecs,San Diego State Aztecs,Cal State Fullerton Titans,102,78,1.0
 401917511,2026-11-04T03:00Z,Bethesda Flames at Pacific Tigers,Pacific Tigers,Bethesda Flames,102,47,1.0
-401917514,2026-11-05T03:00Z,Queens University Royals at Loyola Marymount Lions,Loyola Marymount Lions,Queens University Royals,95,96,0.0
-401917513,2026-11-05T03:00Z,Milwaukee Panthers at Santa Clara Broncos,Santa Clara Broncos,Milwaukee Panthers,95,72,1.0
 401920232,2026-11-04T23:30Z,Framingham State Rams at Dartmouth Big Green,Dartmouth Big Green,Framingham State Rams,107,50,1.0
 401929450,2026-11-05T00:00Z,Regent Regent Royals at Old Dominion Monarchs,Old Dominion Monarchs,Regent Regent Royals,91,47,1.0
 401928853,2026-11-05T00:00Z,Virginia Lynchburg Dragons at Morgan State Bears,Morgan State Bears,Virginia Lynchburg Dragons,95,58,1.0
@@ -236,4 +234,6 @@ id,date,event,home,away,hs,as,res
 401925939,2026-11-05T02:00Z,Grace University Lancers at Utah Tech Trailblazers,Utah Tech Trailblazers,Grace University Lancers,103,52,1.0
 401922030,2026-11-05T02:00Z,Salish Kootenai Bison at Montana Grizzlies,Montana Grizzlies,Salish Kootenai Bison,105,40,1.0
 401918052,2026-11-05T02:00Z,Radford Highlanders at California Golden Bears,California Golden Bears,Radford Highlanders,84,70,1.0
+401917514,2026-11-05T03:00Z,Queens University Royals at Loyola Marymount Lions,Loyola Marymount Lions,Queens University Royals,95,96,0.0
+401917513,2026-11-05T03:00Z,Milwaukee Panthers at Santa Clara Broncos,Santa Clara Broncos,Milwaukee Panthers,95,72,1.0
 401917512,2026-11-05T03:00Z,North Dakota State Bison at Saint Mary's Gaels,Saint Mary's Gaels,North Dakota State Bison,105,64,1.0
