@@ -1,6 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 05/11/2026 18:47 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 05/11/2026 19:04 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Rodja vs w1nkos — 05/11 · 19:08
 
@@ -20,6 +20,25 @@ Hándicap w1nkos: −1.5 33% · −2.5 20%
 • Liga: World Cup B  
 • Unibet: 1 2.55 · X 5.40 · 2 1.77 (sin margen 34%/16%/49%) · ventaja +16%. Sin stake hasta demostrar ROI con estas cuotas.  
 • En España: LeoVegas España 5.40 (+16%) · Paf España 5.40 (+16%)  
+
+## borees vs Maslja — 05/11 · 19:08
+
+👀 candidata · 🎮⚽ FC 27 · World Cup B · **Empate** @ **4.60** (Unibet) · prob 23% vs casas 19% · ventaja +6%
+
+- ❌ Valor: ventaja +6% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 57.335 partidos)  
+Goles esperados: borees 2.84 · Maslja 2.81  
+Ganador: borees 39% · empate 23% · Maslja 38%  
+Total: más de 5.5 goles 50% · menos 50%  
+Hándicap borees: −1.5 26% · −2.5 14%  
+🔎 **Claves**  
+• Forma: borees ❌❌➖❌❌ | Maslja ✅✅✅➖❌  
+• Partidos: borees 963 | Maslja 858  
+• Liga: World Cup B  
+• Unibet: 1 2.05 · X 4.60 · 2 2.25 (sin margen 42%/19%/39%) · ventaja +6%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 4.60 (+6%) · Paf España 4.60 (+6%)  
 
 ## pikalicaaa vs Jankulovski — 05/11 · 19:23
 

@@ -57339,14 +57339,14 @@ id,tournament_id,club1,club2,ht1,ht2
 2364544,261059,Germany,Portugal,,
 2364545,261059,Belgium,Germany,,
 2364546,261059,Morocco,Netherlands,,
-2364187,260998,Germany,Argentina,1,1
-2364188,260998,England,France,0,0
-2364189,260998,France,Germany,2,1
-2364190,260998,Argentina,Spain,0,1
-2364191,260998,Spain,France,2,0
-2364192,260998,Germany,England,2,0
-2364193,260998,England,Spain,2,1
-2364194,260998,France,Argentina,1,1
+2364187,260998,Germany,Argentina,1.0,1.0
+2364188,260998,England,France,0.0,0.0
+2364189,260998,France,Germany,2.0,1.0
+2364190,260998,Argentina,Spain,0.0,1.0
+2364191,260998,Spain,France,2.0,0.0
+2364192,260998,Germany,England,2.0,0.0
+2364193,260998,England,Spain,2.0,1.0
+2364194,260998,France,Argentina,1.0,1.0
 2364195,260998,Argentina,England,,
 2364196,260998,Spain,Germany,,
 2364197,260998,Argentina,Germany,,
@@ -57359,12 +57359,12 @@ id,tournament_id,club1,club2,ht1,ht2
 2364204,260998,Argentina,France,,
 2364205,260998,England,Argentina,,
 2364206,260998,Germany,Spain,,
-2364397,261047,B Dortmund,Juventus,1,1
-2364398,261047,Arsenal,Man City,3,2
-2364399,261047,Man City,B Dortmund,2,2
-2364400,261047,Juventus,Sporting CP,4,1
-2364401,261047,Sporting CP,Man City,2,4
-2364402,261047,B Dortmund,Arsenal,2,1
+2364397,261047,B Dortmund,Juventus,1.0,1.0
+2364398,261047,Arsenal,Man City,3.0,2.0
+2364399,261047,Man City,B Dortmund,2.0,2.0
+2364400,261047,Juventus,Sporting CP,4.0,1.0
+2364401,261047,Sporting CP,Man City,2.0,4.0
+2364402,261047,B Dortmund,Arsenal,2.0,1.0
 2364403,261047,Arsenal,Sporting CP,,
 2364404,261047,Man City,Juventus,,
 2364405,261047,Juventus,Arsenal,,

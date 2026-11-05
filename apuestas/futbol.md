@@ -1,24 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 05/11/2026 18:47 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Aldosivi vs River Plate — 05/11 · 19:00
-
-👀 candidata · 🇦🇷 Liga Profesional · **Gana River Plate** @ **1.41** (Bet365) · prob 64% vs casas 64% · ventaja -10%
-
-- ❌ Valor: ventaja -10% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 0.74 - 1.58)  
-1 21% · X 25% · 2 54%  
-1X 46% · X2 79% · 12 75%  
-+1.5 68% · +2.5 41% · +3.5 20% · Ambos marcan 42%  
-Marcadores: 0-1 15% · 0-2 12% · 1-1 12% · 0-0 10%  
-🔎 **Claves**  
-• Forma: Aldosivi ❌❌❌✅❌ | River Plate ✅➖✅✅❌  
-• H2H: 8 desde 2015: 0V-1E-7D · 2.6 goles/partido · +2.5 en 50%  
-• Bajas: Aldosivi: sin bajas; River Plate: sin bajas  
-• Favorito de las casas: River Plate @ 1.41  
+Actualizado 05/11/2026 19:04 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Gimnasia L.P. vs Belgrano — 05/11 · 23:15
 

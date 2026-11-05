@@ -1,46 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 05/11/2026 18:47 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Nordic Valor vs boyband — 05/11 · 19:00
-
-👀 candidata · 🎮 CS2 · Elisa Open Suomi Season 14 · **Gana boyband** @ **1.36** (Thunderpick) · prob 68% vs casas 67% · ventaja -8%
-
-- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 76.437 partidos)  
-Mapa: Nordic Valor 37% · Serie BO3: Nordic Valor 31% - 69% boyband  
-Casas: Nordic Valor 33% · boyband 67%  
-🔎 **Claves**  
-• Elo: Nordic Valor 1348 (12 series) | boyband 1486 (17 series)  
-• Forma: Nordic Valor ✅✅❌❌❌ | boyband ✅✅❌❌✅  
-• H2H: 1: 0-1  
-• Torneo: Elisa Open Suomi Season 14 (nivel C)  
-• Cambios de plantilla: ninguno  
-🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
-• Nordic Valor gana 2-1: 15% → cuota justa 6.71  
-• boyband gana 2-1: 25% → cuota justa 4.01  
-
-## PCIFIC vs RBLS — 05/11 · 19:00
-
-👀 candidata · 🎮 CS2 · ESL Challenger League Season 52: Europe - Cup 10 · **Gana PCIFIC** @ **2.29** (Thunderpick) · prob 47% vs casas 40% · ventaja +7%
-
-- ❌ Valor: ventaja +7% (mín. 9% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 76.493 partidos)  
-Mapa: PCIFIC 52% · Serie BO3: PCIFIC 53% - 47% RBLS  
-Casas: PCIFIC 40% · RBLS 60%  
-🔎 **Claves**  
-• Elo: PCIFIC 1733 (148 series) | RBLS 1709 (224 series)  
-• Forma: PCIFIC ✅❌✅✅✅ | RBLS ✅❌✅✅✅  
-• H2H: 1: 0-1  
-• Torneo: ESL Challenger League Season 52: Europe - Cup 10 (nivel C)  
-• Cambios de plantilla: ninguno  
-🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
-• PCIFIC gana 2-1: 23% → cuota justa 4.36 · casa 3% ✔ el bot lo ve más probable que la casa  
-• RBLS gana 2-1: 21% → cuota justa 4.77 · casa 37%  
+Actualizado 05/11/2026 19:04 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## QUINTESSÊNCIA vs Grêmio — 05/11 · 19:30
 
