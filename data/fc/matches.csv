@@ -57175,3 +57175,70 @@ id,date,tournament_id,league,p1,p2,s1,s2
 2364524,2026-11-05T15:46:00Z,261058,Serie A,w1nkos,maggett0,7,3
 2364525,2026-11-05T15:58:00Z,261058,Serie A,Rodja,w1nkos,1,3
 2364526,2026-11-05T15:58:00Z,261058,Serie A,borees,Maslja,3,3
+2364377,2026-11-05T13:30:00Z,261045,International A 2x6,steeffant,Lufy,6,6
+2364378,2026-11-05T13:30:00Z,261045,International A 2x6,Bosko,Piljar,4,6
+2364379,2026-11-05T13:48:00Z,261045,International A 2x6,Piljar,steeffant,3,6
+2364380,2026-11-05T13:48:00Z,261045,International A 2x6,Lufy,cappo,6,4
+2364381,2026-11-05T14:06:00Z,261045,International A 2x6,cappo,Piljar,2,1
+2364382,2026-11-05T14:06:00Z,261045,International A 2x6,steeffant,Bosko,6,1
+2364383,2026-11-05T14:24:00Z,261045,International A 2x6,Bosko,cappo,3,5
+2364384,2026-11-05T14:24:00Z,261045,International A 2x6,Piljar,Lufy,4,4
+2364385,2026-11-05T14:42:00Z,261045,International A 2x6,Lufy,Bosko,8,4
+2364386,2026-11-05T14:42:00Z,261045,International A 2x6,cappo,steeffant,3,7
+2364387,2026-11-05T15:00:00Z,261045,International A 2x6,Lufy,steeffant,3,8
+2364388,2026-11-05T15:00:00Z,261045,International A 2x6,Piljar,Bosko,7,5
+2364389,2026-11-05T15:18:00Z,261045,International A 2x6,steeffant,Piljar,4,5
+2364391,2026-11-05T15:36:00Z,261045,International A 2x6,Piljar,cappo,4,3
+2364392,2026-11-05T15:36:00Z,261045,International A 2x6,Bosko,steeffant,1,4
+2364393,2026-11-05T15:54:00Z,261045,International A 2x6,cappo,Bosko,2,2
+2364394,2026-11-05T15:54:00Z,261045,International A 2x6,Lufy,Piljar,6,7
+2364647,2026-11-05T14:25:00Z,261026,Europa League,pikalicaaa,Dicca,3,2
+2364648,2026-11-05T14:25:00Z,261026,Europa League,Krkula,Firminho,3,2
+2364649,2026-11-05T14:37:00Z,261026,Europa League,Firminho,pikalicaaa,2,5
+2364650,2026-11-05T14:37:00Z,261026,Europa League,Dicca,Jankulovski,5,0
+2364651,2026-11-05T14:49:00Z,261026,Europa League,Jankulovski,Firminho,3,4
+2364652,2026-11-05T14:49:00Z,261026,Europa League,pikalicaaa,Krkula,2,2
+2364653,2026-11-05T15:01:00Z,261026,Europa League,Krkula,Jankulovski,6,2
+2364654,2026-11-05T15:01:00Z,261026,Europa League,Firminho,Dicca,4,2
+2364655,2026-11-05T15:13:00Z,261026,Europa League,Dicca,Krkula,5,5
+2364656,2026-11-05T15:13:00Z,261026,Europa League,Jankulovski,pikalicaaa,5,3
+2364657,2026-11-05T15:25:00Z,261026,Europa League,Dicca,pikalicaaa,1,0
+2364658,2026-11-05T15:25:00Z,261026,Europa League,Firminho,Krkula,5,3
+2364659,2026-11-05T15:37:00Z,261026,Europa League,pikalicaaa,Firminho,1,0
+2364660,2026-11-05T15:37:00Z,261026,Europa League,Jankulovski,Dicca,1,4
+2364661,2026-11-05T15:49:00Z,261026,Europa League,Firminho,Jankulovski,5,2
+2364662,2026-11-05T15:49:00Z,261026,Europa League,Krkula,pikalicaaa,3,4
+2364663,2026-11-05T16:01:00Z,261026,Europa League,Jankulovski,Krkula,2,2
+2364664,2026-11-05T16:01:00Z,261026,Europa League,Dicca,Firminho,5,2
+2364787,2026-11-05T14:40:00Z,261034,Champions League B,Animal,chevare,3,3
+2364788,2026-11-05T14:40:00Z,261034,Champions League B,llulle,Glumac,4,5
+2364789,2026-11-05T14:52:00Z,261034,Champions League B,Glumac,Animal,4,0
+2364790,2026-11-05T14:52:00Z,261034,Champions League B,chevare,Maki,3,4
+2364791,2026-11-05T15:04:00Z,261034,Champions League B,Maki,Glumac,5,6
+2364792,2026-11-05T15:04:00Z,261034,Champions League B,Animal,llulle,1,4
+2364793,2026-11-05T15:16:00Z,261034,Champions League B,llulle,Maki,2,4
+2364794,2026-11-05T15:16:00Z,261034,Champions League B,Glumac,chevare,5,5
+2364795,2026-11-05T15:28:00Z,261034,Champions League B,chevare,llulle,3,1
+2364796,2026-11-05T15:28:00Z,261034,Champions League B,Maki,Animal,4,3
+2364797,2026-11-05T15:40:00Z,261034,Champions League B,chevare,Animal,3,5
+2364798,2026-11-05T15:40:00Z,261034,Champions League B,Glumac,llulle,2,4
+2364799,2026-11-05T15:52:00Z,261034,Champions League B,Animal,Glumac,4,5
+2364800,2026-11-05T15:52:00Z,261034,Champions League B,Maki,chevare,4,3
+2364801,2026-11-05T16:04:00Z,261034,Champions League B,Glumac,Maki,4,4
+2364802,2026-11-05T16:04:00Z,261034,Champions League B,llulle,Animal,3,5
+2364167,2026-11-05T15:20:00Z,260996,Volta Premier League,Senya,Sheva,2,3
+2364168,2026-11-05T15:20:00Z,260996,Volta Premier League,Stasyan,Gula14,1,1
+2364169,2026-11-05T15:29:00Z,260996,Volta Premier League,Gula14,Senya,1,2
+2364170,2026-11-05T15:29:00Z,260996,Volta Premier League,Sheva,Kostolom89,3,2
+2364171,2026-11-05T15:38:00Z,260996,Volta Premier League,Kostolom89,Gula14,3,2
+2364172,2026-11-05T15:38:00Z,260996,Volta Premier League,Senya,Stasyan,5,2
+2364173,2026-11-05T15:47:00Z,260996,Volta Premier League,Stasyan,Kostolom89,2,0
+2364174,2026-11-05T15:47:00Z,260996,Volta Premier League,Gula14,Sheva,1,1
+2364175,2026-11-05T15:56:00Z,260996,Volta Premier League,Sheva,Stasyan,3,3
+2364176,2026-11-05T15:56:00Z,260996,Volta Premier League,Kostolom89,Senya,4,5
+2364177,2026-11-05T16:05:00Z,260996,Volta Premier League,Sheva,Senya,2,1
+2364178,2026-11-05T16:05:00Z,260996,Volta Premier League,Gula14,Stasyan,0,3
+2363837,2026-11-05T15:50:00Z,261056,A-League,dirowe,spirtes,3,2
+2363838,2026-11-05T15:50:00Z,261056,A-League,Smetana,Loka,2,8
+2363839,2026-11-05T16:02:00Z,261056,A-League,Loka,dirowe,7,1
+2363840,2026-11-05T16:02:00Z,261056,A-League,spirtes,Shinobu,2,1
