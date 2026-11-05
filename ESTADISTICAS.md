@@ -1,10 +1,10 @@
 # Estadísticas del bot
 
-Actualizado: 05/11/2026 01:16
+Actualizado: 05/11/2026 01:42
 
-**Ganadas 9 / perdidas 15** (38 % acierto) · beneficio -14.21 $ · ROI -29.8 % · banca 85.79 $
+**Ganadas 10 / perdidas 15** (40 % acierto) · beneficio -12.68 $ · ROI -26.0 % · banca 87.32 $
 
-🟥🟥🟥🟩🟥🟩🟥🟥🟥🟥🟥🟥🟥🟥🟩🟥🟥🟩🟩🟩🟩🟩🟥🟩
+🟥🟥🟥🟩🟥🟩🟥🟥🟥🟥🟥🟥🟥🟥🟩🟥🟥🟩🟩🟩🟩🟩🟥🟩🟩
 
 ## Por segmento (deporte y tipo de apuesta)
 
@@ -16,6 +16,7 @@ Actualizado: 05/11/2026 01:16
 | ⚽ goles | 1 | 0 | 0 % | -1.76 $ | -100.0 % |
 | ⚽ no favorito | 3 | 0 | 0 % | -4.62 $ | -100.0 % |
 | 🎮 hándicap | 1 | 1 | 100 % | +0.83 $ | +69.2 % |
+| 🎮 no favorito | 1 | 1 | 100 % | +1.53 $ | +134.2 % |
 | 🏀 favorito | 8 | 5 | 62 % | +0.19 $ | +1.2 % |
 | 🏈 totales | 1 | 0 | 0 % | -1.17 $ | -100.0 % |
 | 🐉 hándicap | 1 | 1 | 100 % | +1.82 $ | +75.8 % |
@@ -27,10 +28,10 @@ Si el bot está bien calibrado, el acierto real se parece a la prob. media. Brie
 | Prob. bot | Señales | Prob. media | Acierto real | Brier bot | Brier casas | ROI a 1 u. |
 |---|---|---|---|---|---|---|
 | 0%-40% | 147 | 28% | 19% | 0.169 | 0.160 | -17.4 % |
-| 40%-55% | 143 | 48% | 47% | 0.242 | 0.242 | +3.6 % |
+| 40%-55% | 144 | 48% | 47% | 0.242 | 0.243 | +4.5 % |
 | 55%-70% | 154 | 62% | 64% | 0.232 | 0.248 | +8.6 % |
-| 70%-100% | 138 | 83% | 86% | 0.121 | 0.118 | +0.6 % |
-| Total | 582 | 55% | 53% | 0.192 | 0.193 | -1.1 % |
+| 70%-100% | 139 | 83% | 86% | 0.120 | 0.117 | +0.6 % |
+| Total | 584 | 55% | 54% | 0.192 | 0.193 | -0.9 % |
 
 ### Por deporte y mercado (cada modelo se evalúa por separado)
 
@@ -43,7 +44,7 @@ Si el bot está bien calibrado, el acierto real se parece a la prob. media. Brie
 | ⚽ | ganador | 20 | 33% | 25% | 0.176 | 0.168 | -30.1 % |
 | ⚽ | goles/totales | 4 | 52% | 25% | 0.240 | 0.203 | -56.8 % |
 | ⚽ | hándicap | 4 | 52% | 75% | 0.242 | 0.242 | +41.5 % |
-| 🎮 | ganador | 40 | 61% | 60% | 0.192 | 0.193 | -7.2 % |
+| 🎮 | ganador | 41 | 60% | 61% | 0.192 | 0.197 | -3.7 % |
 | 🎮 | hándicap | 5 | 48% | 60% | 0.249 | 0.278 | +51.8 % |
 | 🎮⚽ | ganador | 270 | 46% | 41% | 0.211 | 0.209 | -3.0 % |
 | 🏀 | ganador | 106 | 76% | 75% | 0.130 | 0.131 | -0.3 % |
@@ -57,7 +58,7 @@ Si el bot está bien calibrado, el acierto real se parece a la prob. media. Brie
 | 🐉 | hándicap | 2 | 51% | 50% | 0.079 | 0.142 | -12.0 % |
 | 📱 | ganador | 2 | 55% | 50% | 0.162 | 0.154 | -27.0 % |
 | 🔫 | ganador | 1 | 45% | 100% | 0.300 | 0.359 | +130.0 % |
-| 🧙 | ganador | 1 | 48% | 0% | 0.227 | 0.213 | -100.0 % |
+| 🧙 | ganador | 2 | 70% | 50% | 0.116 | 0.112 | -48.5 % |
 
 **CLV de lo apostado** (cuota cogida vs cierre; positivo = se gana al mercado): ⚽ +2.5 % (8)
 
@@ -65,7 +66,7 @@ Si el bot está bien calibrado, el acierto real se parece a la prob. media. Brie
 
 | Fecha | Apuesta | Cuota | Stake | Resultado |
 |---|---|---|---|---|
-| 2026-11-04 | BORRACHEIROS vs ALKA → Gana BORRACHEIROS | 2.34 | 1.14 $ | ⏳ +0.00 $ |
+| 2026-11-04 | BORRACHEIROS vs ALKA → Gana BORRACHEIROS | 2.34 | 1.14 $ | 🟩 +1.53 $ |
 | 2026-11-03 | The MongolZ vs FURIA → FURIA +1.5 mapas | 1.69 | 1.2 $ | 🟩 +0.83 $ |
 | 2026-11-03 | Combinada: Menos de 72.5 puntos + Baltimore Ravens +8.5 | 3.82 | 1.65 $ | ⏳ +0.00 $ |
 | 2026-11-03 | Florida Atlantic Owls vs UTSA Roadrunners → Menos de 72.5 puntos | 1.91 | 1.35 $ | ⏳ +0.00 $ |

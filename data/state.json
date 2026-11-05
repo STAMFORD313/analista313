@@ -1548,7 +1548,10 @@
   "fc|2362291",
   "fc|2362643",
   "fc|2362649",
-  "fc|2362648"
+  "fc|2362648",
+  "fc|2362301",
+  "fc|2362653",
+  "fc|2362694"
  ],
  "signals": [
   {
@@ -3375,18 +3378,6 @@
    "start": "2026-11-05T00:30Z",
    "league": "🏈 NCAA Football",
    "sport": "🏈",
-   "info": [
-    "📊 <b>Escenarios</b> (Elo con 9.455 partidos y bajas)",
-    "Gana Eastern Michigan Eagles 54% · Gana Central Michigan Chippewas 46%",
-    "Casas: Eastern Michigan Eagles 53% · Central Michigan Chippewas 47%",
-    "Hándicap EMU -1.5 · Total puntos 44.5",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Eastern Michigan Eagles ✅✅✅❌❌ | Central Michigan Chippewas ❌✅❌❌❌",
-    "• H2H: 10 desde 2016: 4-6",
-    "• Bajas: Eastern Michigan Eagles: sin bajas; Central Michigan Chippewas: sin bajas",
-    "• Favorito de las casas: Eastern Michigan Eagles @ 1.80"
-   ],
    "context": "Eastern Michigan Eagles vs Central Michigan Chippewas (🏈 NCAA Football, fútbol americano). Modelo Elo con 10 años de historial ajustado por bajas: Eastern Michigan Eagles 54%, Central Michigan Chippewas 46%. Cuotas DraftKings 1.8/2.05, hándicap EMU -1.5, total 44.5. Forma Eastern Michigan Eagles ✅✅✅❌❌, Central Michigan Chippewas ❌✅❌❌❌. H2H 10 desde 2016: 4-6. Bajas Eastern Michigan Eagles: ninguna. Bajas Central Michigan Chippewas: ninguna.",
    "considered": true,
    "placed": false,
@@ -8368,19 +8359,6 @@
    "start": "2026-11-05T00:30:00+00:00",
    "league": "🇧🇷 Brasileirão",
    "sport": "⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (goles esperados 1.49 - 1.03)",
-    "1 42% · X 28% · 2 29%",
-    "1X 71% · X2 58% · 12 72%",
-    "+1.5 72% · +2.5 46% · +3.5 25% · Ambos marcan 50%",
-    "Marcadores: 1-1 13% · 1-0 11% · 2-1 9% · 2-0 9%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Botafogo RJ ❌➖✅❌❌ | Atletico-MG ➖✅✅❌❌",
-    "• H2H: 25 desde 2012: 8V-6E-11D · 2.4 goles/partido · +2.5 en 40%",
-    "• Bajas: Botafogo RJ: 0 fuera, 2 duda; Atletico-MG: 0 fuera, 5 duda",
-    "• Favorito de las casas: Botafogo RJ @ 1.91"
-   ],
    "context": "Botafogo RJ vs Atletico-MG (🇧🇷 Brasileirão). Modelo Poisson con historial desde 2005 y bajas: 1 42% X 28% 2 29%, +2.5 46%, ambos marcan 50%. Forma Botafogo RJ ❌➖✅❌❌, Atletico-MG ➖✅✅❌❌ (✅ victoria ➖ empate ❌ derrota). H2H 25 desde 2012: 8V-6E-11D · 2.4 goles/partido · +2.5 en 40%. Bajas Botafogo RJ: Jordan Barrera M duda 12 PJ; Kaio D duda 0 PJ. Bajas Atletico-MG: Reinier M duda 24 PJ; Fred M duda 6 PJ; Mateo Cassierra F duda 22 PJ; Ruan D duda 20 PJ; Robert Santos F duda 1 PJ.",
    "captured": "2026-11-03T10:11",
    "version": "b9e51af",
@@ -8401,19 +8379,6 @@
    "start": "2026-11-05T00:30:00+00:00",
    "league": "🇧🇷 Brasileirão",
    "sport": "⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (goles esperados 1.47 - 0.81)",
-    "1 48% · X 28% · 2 24%",
-    "1X 76% · X2 52% · 12 72%",
-    "+1.5 67% · +2.5 40% · +3.5 20% · Ambos marcan 43%",
-    "Marcadores: 1-0 14% · 1-1 13% · 2-0 11% · 0-0 11%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Sao Paulo ❌✅✅➖❌ | Corinthians ❌❌➖❌✅",
-    "• H2H: 29 desde 2012: 10V-12E-7D · 2.7 goles/partido · +2.5 en 45%",
-    "• Bajas: Sao Paulo: 0 fuera, 4 duda; Corinthians: 0 fuera, 5 duda",
-    "• Favorito de las casas: Sao Paulo @ 2.25"
-   ],
    "context": "Sao Paulo vs Corinthians (🇧🇷 Brasileirão). Modelo Poisson con historial desde 2005 y bajas: 1 48% X 28% 2 24%, +2.5 40%, ambos marcan 43%. Forma Sao Paulo ❌✅✅➖❌, Corinthians ❌❌➖❌✅ (✅ victoria ➖ empate ❌ derrota). H2H 29 desde 2012: 10V-12E-7D · 2.7 goles/partido · +2.5 en 45%. Bajas Sao Paulo: Marcos Antonio M duda 25 PJ; Marcos Antonio M duda 25 PJ; Aurelio Buta D duda 1 PJ; Alisson M duda 8 PJ. Bajas Corinthians: Memphis Depay F duda 14 PJ; Gabriel Paulista D duda 23 PJ; Alex Santana M duda 1 PJ; Raniele D duda 25 PJ; Zakaria Labyad M duda 11 PJ.",
    "captured": "2026-11-03T10:11",
    "version": "b9e51af",
@@ -8539,7 +8504,11 @@
    "version": "b9e51af",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "3-0",
+   "result": true,
+   "close_p": 0.9111,
+   "logged": true
   },
   {
    "market": "A",
@@ -15859,7 +15828,11 @@
     "confianza": 4,
     "modelo": "gemini-flash-lite-latest"
    },
-   "placed": true
+   "placed": true,
+   "score": "2-1",
+   "result": true,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "t1",
@@ -24024,10 +23997,109 @@
    "bajas": "",
    "considered": true,
    "placed": false
+  },
+  {
+   "market": "A",
+   "pick": "Kavviro",
+   "odds": 1.2,
+   "book": "cuota justa (sin casa)",
+   "implied": 0.831,
+   "edge": 0.0,
+   "p": 0.831,
+   "key": "fc|2362301",
+   "match": "kkikus vs Kavviro",
+   "start": "2026-11-05T02:27:00+00:00",
+   "league": "🎮⚽ FC 27 · Champions League B",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 56.396 partidos)",
+    "Goles esperados: kkikus 1.80 · Kavviro 4.21",
+    "Ganador: kkikus 7% · empate 10% · Kavviro 83%",
+    "Total: más de 6.5 goles 40% · menos 60%",
+    "Hándicap Kavviro: −1.5 64% · −2.5 47%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: kkikus ✅➖➖❌❌ | Kavviro ❌✅➖✅➖",
+    "• Partidos: kkikus 872 | Kavviro 737",
+    "• Liga: Champions League B",
+    "• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta)."
+   ],
+   "context": "EA FC Esoccer Battle kkikus vs Kavviro (Champions League B): goles esperados 1.80-4.21, 1X2 7%/10%/83%. Sin cuotas de casa.",
+   "captured": "2026-11-05T00:42",
+   "version": "4e0be0a",
+   "bajas": "",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "H",
+   "pick": "Sheva",
+   "odds": 1.23,
+   "book": "cuota justa (sin casa)",
+   "implied": 0.812,
+   "edge": 0.0,
+   "p": 0.812,
+   "key": "fc|2362653",
+   "match": "Sheva vs Senya",
+   "start": "2026-11-05T02:34:00+00:00",
+   "league": "🎮⚽ FC 27 · Volta International A",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 56.396 partidos)",
+    "Goles esperados: Sheva 3.97 · Senya 1.76",
+    "Ganador: Sheva 81% · empate 11% · Senya 8%",
+    "Total: más de 5.5 goles 51% · menos 49%",
+    "Hándicap Sheva: −1.5 61% · −2.5 44%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Sheva ❌✅✅❌❌ | Senya ❌❌❌❌❌",
+    "• Partidos: Sheva 1334 | Senya 1319",
+    "• Liga: Volta International A",
+    "• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta)."
+   ],
+   "context": "EA FC Esoccer Battle Sheva vs Senya (Volta International A): goles esperados 3.97-1.76, 1X2 81%/11%/8%. Sin cuotas de casa.",
+   "captured": "2026-11-05T00:42",
+   "version": "4e0be0a",
+   "bajas": "",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "A",
+   "pick": "Solya",
+   "odds": 1.25,
+   "book": "cuota justa (sin casa)",
+   "implied": 0.8,
+   "edge": 0.0,
+   "p": 0.8,
+   "key": "fc|2362694",
+   "match": "k0mych vs Solya",
+   "start": "2026-11-05T02:26:00+00:00",
+   "league": "🎮⚽ FC 27 · LaLiga 2x6",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 56.396 partidos)",
+    "Goles esperados: k0mych 3.27 · Solya 5.83",
+    "Ganador: k0mych 11% · empate 9% · Solya 80%",
+    "Total: más de 9.5 goles 43% · menos 57%",
+    "Hándicap Solya: −1.5 63% · −2.5 50%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: k0mych ❌❌❌➖❌ | Solya ✅✅✅➖✅",
+    "• Partidos: k0mych 300 | Solya 280",
+    "• Liga: LaLiga 2x6",
+    "• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta)."
+   ],
+   "context": "EA FC Esoccer Battle k0mych vs Solya (LaLiga 2x6): goles esperados 3.27-5.83, 1X2 11%/9%/80%. Sin cuotas de casa.",
+   "captured": "2026-11-05T00:42",
+   "version": "4e0be0a",
+   "bajas": "",
+   "considered": true,
+   "placed": false
   }
  ],
  "bank": {
-  "balance": 80.39,
+  "balance": 83.06,
   "bets": [
    {
     "date": "2026-11-01",
@@ -24448,12 +24520,13 @@
     "stake": 1.14,
     "odds": 2.34,
     "desc": "BORRACHEIROS vs ALKA → Gana BORRACHEIROS",
-    "status": "abierta"
+    "status": "ganada",
+    "return": 2.67
    }
   ]
  },
  "scoreboard_id": 156,
- "scoreboard_text": "📊 <b>MARCADOR DEL BOT</b>\n━━━━━━━━━━━━━━━\n🟩 Ganadas: <b>9</b> (38 %)\n🟥 Perdidas: <b>15</b> (62 %)\n⏳ En juego: 4\n\nÚltimas 24:\n🟥🟥🟥🟩🟥🟩🟥🟥🟥🟥🟥🟥🟥🟥🟩🟥🟥🟩🟩🟩🟩🟩🟥🟩\n━━━━━━━━━━━━━━━\n💵 Beneficio -14.21 $ · ROI -29.8 %\n📐 CLV medio +2.5 % (cuota cogida vs cierre)\n💰 Banca: <b>85.79 €</b> (-14.21 € desde 100 €) · libre 80.39 €{\"inline_keyboard\": [[{\"text\": \"\\ud83d\\udcc8 Ver historial completo y fallos\", \"url\": \"https://github.com/STAMFORD313/analista313/blob/main/ESTADISTICAS.md\"}], [{\"text\": \"\\u26bd F\\u00fatbol\", \"callback_data\": \"dep:futbol\"}, {\"text\": \"\\ud83c\\udfc0 NBA\\u00b7NCAA\", \"callback_data\": \"dep:nba\"}, {\"text\": \"\\ud83c\\udfc8 NFL\\u00b7NCAA\", \"callback_data\": \"dep:nfl\"}], [{\"text\": \"\\ud83c\\udfc6 Champions\\u00b7Europa\", \"callback_data\": \"dep:europa\"}, {\"text\": \"\\ud83c\\udfd2 NHL\", \"callback_data\": \"dep:nhl\"}, {\"text\": \"\\u26be MLB\", \"callback_data\": \"dep:mlb\"}], [{\"text\": \"\\ud83e\\udd4a UFC\", \"callback_data\": \"dep:ufc\"}, {\"text\": \"\\ud83c\\udfbe Tenis\", \"callback_data\": \"dep:tenis\"}, {\"text\": \"\\ud83c\\udfae CS2\", \"callback_data\": \"dep:cs2\"}], [{\"text\": \"\\ud83d\\udc09 Dota 2\", \"callback_data\": \"dep:dota2\"}, {\"text\": \"\\ud83e\\uddd9 LoL\", \"callback_data\": \"dep:lol\"}, {\"text\": \"\\ud83d\\udd2b R6 Siege\", \"callback_data\": \"dep:r6\"}], [{\"text\": \"\\ud83d\\udcf1 MLBB\", \"callback_data\": \"dep:mlbb\"}, {\"text\": \"\\ud83c\\udfae\\u26bd FC 27\", \"callback_data\": \"dep:fc\"}]]}",
+ "scoreboard_text": "📊 <b>MARCADOR DEL BOT</b>\n━━━━━━━━━━━━━━━\n🟩 Ganadas: <b>10</b> (40 %)\n🟥 Perdidas: <b>15</b> (60 %)\n⏳ En juego: 3\n\nÚltimas 25:\n🟥🟥🟥🟩🟥🟩🟥🟥🟥🟥🟥🟥🟥🟥🟩🟥🟥🟩🟩🟩🟩🟩🟥🟩🟩\n━━━━━━━━━━━━━━━\n💵 Beneficio -12.68 $ · ROI -26.0 %\n📐 CLV medio +2.5 % (cuota cogida vs cierre)\n💰 Banca: <b>87.32 €</b> (-12.68 € desde 100 €) · libre 83.06 €{\"inline_keyboard\": [[{\"text\": \"\\ud83d\\udcc8 Ver historial completo y fallos\", \"url\": \"https://github.com/STAMFORD313/analista313/blob/main/ESTADISTICAS.md\"}], [{\"text\": \"\\u26bd F\\u00fatbol\", \"callback_data\": \"dep:futbol\"}, {\"text\": \"\\ud83c\\udfc0 NBA\\u00b7NCAA\", \"callback_data\": \"dep:nba\"}, {\"text\": \"\\ud83c\\udfc8 NFL\\u00b7NCAA\", \"callback_data\": \"dep:nfl\"}], [{\"text\": \"\\ud83c\\udfc6 Champions\\u00b7Europa\", \"callback_data\": \"dep:europa\"}, {\"text\": \"\\ud83c\\udfd2 NHL\", \"callback_data\": \"dep:nhl\"}, {\"text\": \"\\u26be MLB\", \"callback_data\": \"dep:mlb\"}], [{\"text\": \"\\ud83e\\udd4a UFC\", \"callback_data\": \"dep:ufc\"}, {\"text\": \"\\ud83c\\udfbe Tenis\", \"callback_data\": \"dep:tenis\"}, {\"text\": \"\\ud83c\\udfae CS2\", \"callback_data\": \"dep:cs2\"}], [{\"text\": \"\\ud83d\\udc09 Dota 2\", \"callback_data\": \"dep:dota2\"}, {\"text\": \"\\ud83e\\uddd9 LoL\", \"callback_data\": \"dep:lol\"}, {\"text\": \"\\ud83d\\udd2b R6 Siege\", \"callback_data\": \"dep:r6\"}], [{\"text\": \"\\ud83d\\udcf1 MLBB\", \"callback_data\": \"dep:mlbb\"}, {\"text\": \"\\ud83c\\udfae\\u26bd FC 27\", \"callback_data\": \"dep:fc\"}]]}",
  "fc_sent": "2026-11-04T22:28:52.321844+00:00",
  "sgp": {},
  "combo_sent": "2026-11-03T19:29:18.780644+00:00",

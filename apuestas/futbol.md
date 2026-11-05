@@ -1,42 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 05/11/2026 01:16 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Botafogo RJ vs Atletico-MG — 05/11 · 01:30
-
-👀 candidata · 🇧🇷 Brasileirão · **Gana Atletico-MG** @ **3.90** (Bet365) · prob 26% vs casas 26% · ventaja +2%
-
-- ❌ Valor: ventaja +2% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.49 - 1.03)  
-1 42% · X 28% · 2 29%  
-1X 71% · X2 58% · 12 72%  
-+1.5 72% · +2.5 46% · +3.5 25% · Ambos marcan 50%  
-Marcadores: 1-1 13% · 1-0 11% · 2-1 9% · 2-0 9%  
-🔎 **Claves**  
-• Forma: Botafogo RJ ❌➖✅❌❌ | Atletico-MG ➖✅✅❌❌  
-• H2H: 25 desde 2012: 8V-6E-11D · 2.4 goles/partido · +2.5 en 40%  
-• Bajas: Botafogo RJ: 0 fuera, 2 duda; Atletico-MG: 0 fuera, 5 duda  
-• Favorito de las casas: Botafogo RJ @ 1.91  
-
-## Sao Paulo vs Corinthians — 05/11 · 01:30
-
-👀 candidata · 🇧🇷 Brasileirão · **Gana Corinthians** @ **3.30** (Bet365) · prob 29% vs casas 29% · ventaja -5%
-
-- ❌ Valor: ventaja -5% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.47 - 0.81)  
-1 48% · X 28% · 2 24%  
-1X 76% · X2 52% · 12 72%  
-+1.5 67% · +2.5 40% · +3.5 20% · Ambos marcan 43%  
-Marcadores: 1-0 14% · 1-1 13% · 2-0 11% · 0-0 11%  
-🔎 **Claves**  
-• Forma: Sao Paulo ❌✅✅➖❌ | Corinthians ❌❌➖❌✅  
-• H2H: 29 desde 2012: 10V-12E-7D · 2.7 goles/partido · +2.5 en 45%  
-• Bajas: Sao Paulo: 0 fuera, 4 duda; Corinthians: 0 fuera, 5 duda  
-• Favorito de las casas: Sao Paulo @ 2.25  
+Actualizado 05/11/2026 01:42 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Aldosivi vs River Plate — 05/11 · 19:00
 

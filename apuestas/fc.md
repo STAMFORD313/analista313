@@ -1,6 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 05/11/2026 01:16 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 05/11/2026 01:42 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Kavviro vs kkikus — 05/11 · 02:27
 
@@ -107,6 +107,60 @@ Hándicap pimchik: −1.5 53% · −2.5 37%
 🔎 **Claves**  
 • Forma: Senya ❌❌❌❌❌ | pimchik ✅➖➖✅✅  
 • Partidos: Senya 1319 | pimchik 928  
+• Liga: Volta International A  
+• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
+
+## k0mych vs Solya — 05/11 · 03:26
+
+👀 candidata · 🎮⚽ FC 27 · LaLiga 2x6 · **Gana Solya** @ **1.25** (cuota justa (sin casa)) · prob 80% vs casas 80% · ventaja +0%
+
+- ❌ Valor: ventaja +0% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 56.396 partidos)  
+Goles esperados: k0mych 3.27 · Solya 5.83  
+Ganador: k0mych 11% · empate 9% · Solya 80%  
+Total: más de 9.5 goles 43% · menos 57%  
+Hándicap Solya: −1.5 63% · −2.5 50%  
+🔎 **Claves**  
+• Forma: k0mych ❌❌❌➖❌ | Solya ✅✅✅➖✅  
+• Partidos: k0mych 300 | Solya 280  
+• Liga: LaLiga 2x6  
+• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
+
+## kkikus vs Kavviro — 05/11 · 03:27
+
+👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana Kavviro** @ **1.20** (cuota justa (sin casa)) · prob 83% vs casas 83% · ventaja +0%
+
+- ❌ Valor: ventaja +0% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 56.396 partidos)  
+Goles esperados: kkikus 1.80 · Kavviro 4.21  
+Ganador: kkikus 7% · empate 10% · Kavviro 83%  
+Total: más de 6.5 goles 40% · menos 60%  
+Hándicap Kavviro: −1.5 64% · −2.5 47%  
+🔎 **Claves**  
+• Forma: kkikus ✅➖➖❌❌ | Kavviro ❌✅➖✅➖  
+• Partidos: kkikus 872 | Kavviro 737  
+• Liga: Champions League B  
+• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
+
+## Sheva vs Senya — 05/11 · 03:34
+
+👀 candidata · 🎮⚽ FC 27 · Volta International A · **Gana Sheva** @ **1.23** (cuota justa (sin casa)) · prob 81% vs casas 81% · ventaja +0%
+
+- ❌ Valor: ventaja +0% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 56.396 partidos)  
+Goles esperados: Sheva 3.97 · Senya 1.76  
+Ganador: Sheva 81% · empate 11% · Senya 8%  
+Total: más de 5.5 goles 51% · menos 49%  
+Hándicap Sheva: −1.5 61% · −2.5 44%  
+🔎 **Claves**  
+• Forma: Sheva ❌✅✅❌❌ | Senya ❌❌❌❌❌  
+• Partidos: Sheva 1334 | Senya 1319  
 • Liga: Volta International A  
 • Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
 

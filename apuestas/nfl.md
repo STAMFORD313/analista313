@@ -1,23 +1,6 @@
 # 🏈 NFL·NCAA · apuestas de valor
 
-Actualizado 05/11/2026 01:16 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Eastern Michigan Eagles vs Central Michigan Chippewas — 05/11 · 01:30
-
-👀 candidata · 🏈 NCAA Football · **Gana Eastern Michigan Eagles** @ **1.80** (DraftKings) · prob 54% vs casas 53% · ventaja -3%
-
-- ❌ Valor: ventaja -3% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo con 9.455 partidos y bajas)  
-Gana Eastern Michigan Eagles 54% · Gana Central Michigan Chippewas 46%  
-Casas: Eastern Michigan Eagles 53% · Central Michigan Chippewas 47%  
-Hándicap EMU -1.5 · Total puntos 44.5  
-🔎 **Claves**  
-• Forma: Eastern Michigan Eagles ✅✅✅❌❌ | Central Michigan Chippewas ❌✅❌❌❌  
-• H2H: 10 desde 2016: 4-6  
-• Bajas: Eastern Michigan Eagles: sin bajas; Central Michigan Chippewas: sin bajas  
-• Favorito de las casas: Eastern Michigan Eagles @ 1.80  
+Actualizado 05/11/2026 01:42 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Florida Atlantic Owls vs UTSA Roadrunners — 06/11 · 01:30
 
