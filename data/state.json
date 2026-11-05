@@ -956,6 +956,7 @@
   "ufc|2026-11-07|Austin Bashi|Carlos Calderon",
   "wta|2026-11-06|Ksenia Zaytseva|Gina Feistel",
   "wta|2026-11-06|Zeynep Sonmez|Claire Liu",
+  "wta|2026-11-06|Anna Blinkova|Yasmine Kabbaj",
   "cs2|132573",
   "cs2|132574",
   "cs2|132578",
@@ -1724,10 +1725,12 @@
   "fc|2363551",
   "fc|2364486",
   "fc|2364482",
-  "wta|2026-11-06|Anna Blinkova|Yasmine Kabbaj",
   "fc|2364487",
   "fc|2363631",
-  "fc|2364485"
+  "fc|2364485",
+  "fc|2364490",
+  "fc|2363561",
+  "fc|2363806"
  ],
  "signals": [
   {
@@ -26381,20 +26384,6 @@
    "start": "2026-11-05T11:48:00+00:00",
    "league": "🎮⚽ FC 27 · World Cup A",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 56.896 partidos)",
-    "Goles esperados: Totti 2.37 · Tesla 4.02",
-    "Ganador: Totti 16% · empate 14% · Tesla 69%",
-    "Total: más de 6.5 goles 46% · menos 54%",
-    "Hándicap Tesla: −1.5 52% · −2.5 36%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Totti ✅❌➖✅❌ | Tesla ❌✅✅✅❌",
-    "• Partidos: Totti 898 | Tesla 891",
-    "• Liga: World Cup A",
-    "• Unibet: 1 3.55 · X 4.30 · 2 1.60 (sin margen 25%/20%/55%) · ventaja +11%. Sin stake hasta demostrar ROI con estas cuotas.",
-    "• En España: LeoVegas España 1.60 (+11%) · Paf España 1.60 (+11%)"
-   ],
    "context": "EA FC Esoccer Battle Totti vs Tesla (World Cup A): goles esperados 2.37-4.02, 1X2 16%/14%/69%. Sin cuotas de casa.",
    "captured": "2026-11-05T11:17",
    "version": "b64feff",
@@ -26477,6 +26466,41 @@
    "version": "ec6db12",
    "bajas": "",
    "considered": true
+  },
+  {
+   "market": "A",
+   "pick": "Tesla",
+   "odds": 1.66,
+   "book": "Unibet",
+   "implied": 0.527,
+   "edge": 0.195,
+   "sin_stake": true,
+   "p": 0.72,
+   "key": "fc|2364490",
+   "match": "Ganger_29 vs Tesla",
+   "start": "2026-11-05T12:22:00+00:00",
+   "league": "🎮⚽ FC 27 · FA Cup",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 56.936 partidos)",
+    "Goles esperados: Ganger_29 2.25 · Tesla 4.06",
+    "Ganador: Ganger_29 14% · empate 14% · Tesla 72%",
+    "Total: más de 6.5 goles 44% · menos 56%",
+    "Hándicap Tesla: −1.5 54% · −2.5 38%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Ganger_29 ➖✅➖❌✅ | Tesla ❌✅✅✅❌",
+    "• Partidos: Ganger_29 751 | Tesla 891",
+    "• Liga: FA Cup",
+    "• Unibet: 1 3.20 · X 4.40 · 2 1.66 (sin margen 27%/20%/53%) · ventaja +20%. Sin stake hasta demostrar ROI con estas cuotas.",
+    "• En España: LeoVegas España 1.66 (+19%) · Paf España 1.66 (+19%)"
+   ],
+   "context": "EA FC Esoccer Battle Ganger_29 vs Tesla (FA Cup): goles esperados 2.25-4.06, 1X2 14%/14%/72%. Sin cuotas de casa.",
+   "captured": "2026-11-05T12:00",
+   "version": "d70b486",
+   "bajas": "",
+   "considered": true,
+   "placed": false
   }
  ],
  "bank": {
