@@ -1,42 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 05/11/2026 23:02 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Gimnasia L.P. vs Belgrano — 05/11 · 23:15
-
-👀 candidata · 🇦🇷 Liga Profesional · **Empate** @ **3.40** (Bet365) · prob 28% vs casas 28% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ empate» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.02 - 1.02)  
-1 40% · X 29% · 2 31%  
-1X 69% · X2 60% · 12 71%  
-+1.5 61% · +2.5 33% · +3.5 15% · Ambos marcan 41%  
-Marcadores: 1-1 14% · 0-0 14% · 0-1 13% · 1-0 13%  
-🔎 **Claves**  
-• Forma: Gimnasia L.P. ➖➖✅✅✅ | Belgrano ✅✅❌❌➖  
-• H2H: 11 desde 2013: 4V-3E-4D · 1.9 goles/partido · +2.5 en 27%  
-• Bajas: Gimnasia L.P.: sin bajas; Belgrano: sin bajas  
-• Favorito de las casas: Gimnasia L.P. @ 2.45  
-
-## Palmeiras vs Remo — 05/11 · 23:30
-
-👀 candidata · 🇧🇷 Brasileirão · **Gana Palmeiras** @ **1.19** (Bet365) · prob 77% vs casas 77% · ventaja -9%
-
-- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 2.04 - 0.61)  
-1 72% · X 18% · 2 10%  
-1X 90% · X2 28% · 12 82%  
-+1.5 75% · +2.5 49% · +3.5 27% · Ambos marcan 40%  
-Marcadores: 2-0 15% · 1-0 14% · 3-0 10% · 1-1 9%  
-🔎 **Claves**  
-• Forma: Palmeiras ✅✅✅✅➖ | Remo ➖➖➖❌✅  
-• H2H: 1 desde 2026: 0V-1E-0D · 2.0 goles/partido · +2.5 en 0%  
-• Bajas: Palmeiras: 1 fuera, 2 duda (Jefte); Remo: 0 fuera, 2 duda  
-• Favorito de las casas: Palmeiras @ 1.19  
+Actualizado 05/11/2026 23:33 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Cruzeiro vs Bahia — 06/11 · 01:30
 
