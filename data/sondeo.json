@@ -1,5 +1,5 @@
 {
- "fecha": "2026-11-05 01:17",
+ "fecha": "2026-11-05 14:16",
  "bo3": {
   "1": {
    "próximos": 20,
@@ -22,15 +22,15 @@
    "próximos": 20,
    "ejemplo": [
     [
-     "god-chosen-vs-ferix-05-11-2026",
+     "god-chosen-vs-hoc-vien-96-06-11-2026",
      "Predator League Vietnam 2027"
     ],
     [
-     "saigon-phantom-vlr-vs-hoc-vien-96-05-11-2026",
+     "lpd-vs-an-angel-anbandonned-06-11-2026",
      "Predator League Vietnam 2027"
     ],
     [
-     "lpd-vs-original-gaming-vlr-05-11-2026",
+     "f8daaee2bd-vs-4f6d28933e-07-11-2026",
      "Predator League Vietnam 2027"
     ]
    ]
@@ -56,16 +56,16 @@
    "próximos": 20,
    "ejemplo": [
     [
-     "yellow-submarine-vs-gamerlegion-dota2-05-11-2026",
+     "natus-vincere-dota2-vs-61f6b3a22f-05-11-2026",
      "EPL Masters III"
     ],
     [
-     "natus-vincere-dota2-vs-6a9e68e1fe-05-11-2026",
-     "EPL Masters III"
-    ],
-    [
-     "yangon-galacticos-vs-zenith-cn-05-11-2026",
+     "direborn-vs-royal-bear-06-11-2026",
      "EPL World Series: Southeast Asia Season 19"
+    ],
+    [
+     "team-synapse-vs-team-allied-14-11-2026",
+     "Asgard Championship Season 2"
     ]
    ]
   },
@@ -95,18 +95,18 @@
    ]
   },
   "8": {
-   "próximos": 6,
+   "próximos": 12,
    "ejemplo": [
     [
-     "natus-vincere-3-vs-alter-ego-2-05-11-2026",
+     "alter-ego-2-vs-c08df775f5-06-11-2026",
      "MPL Indonesia Season 18"
     ],
     [
-     "team-liquid-id-vs-bigetron-by-vitality-05-11-2026",
+     "natus-vincere-3-vs-0307591882-06-11-2026",
      "MPL Indonesia Season 18"
     ],
     [
-     "929362c095-vs-b30bc71c25-06-11-2026",
+     "179bc51e97-vs-d64e87de76-07-11-2026",
      "MPL Indonesia Season 18"
     ]
    ]
@@ -141,17 +141,22 @@
   }
  },
  "kambi_esports": {
+  "Esports / CS2 / PGL Major": 8,
+  "Esports / Dota 2 / DreamLeague Div. 2": 7,
   "Esports / Call of Duty / Monster Launch Invitational": 7,
   "Esports / Rainbow 6 / BLAST Major": 4,
   "Esports / CS2 / BLAST Rivals Fall": 4,
-  "Esports / CS2 / European Pro League": 2,
-  "Esports / CS2 / CCT European Series 13": 2,
-  "Esports / Honor of Kings / KPL": 2,
-  "Esports / League of Legends / World Championship": 2,
+  "Esports / CS2 / CCT European Series 14": 3,
+  "Esports / League of Legends / World Championship": 3,
+  "Esports / CS2 / Svenska Cupen": 3,
+  "Esports / CS2 / STK Ranked": 3,
+  "Esports / CS2 / NODWIN Clutch Series": 2,
+  "Esports / CS2 / CCT South America Series": 2,
   "Esports / Overwatch 2 / OWCS KR": 2,
   "Esports / CS2 / IEM Beijing": 2,
   "Esports / Overwatch 2 / OWCS CN": 2,
-  "Esports / CS2 / United21": 1,
-  "Esports / Dota 2 / EPL Masters": 1
+  "Esports / Dota 2 / EPL Masters": 1,
+  "Esports / Honor of Kings / KPL": 1,
+  "Esports / CS2 / European Pro League": 1
  }
 }
