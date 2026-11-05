@@ -57459,16 +57459,16 @@ id,tournament_id,club1,club2,ht1,ht2
 2364704,261028,Napoli,Roma,,
 2364705,261028,Juventus,Napoli,,
 2364706,261028,Sassuolo,Bologna,,
-2364827,261038,Arsenal,Tottenham,2,2
-2364828,261038,Liverpool,Chelsea,1,1
-2364829,261038,Chelsea,Arsenal,2,4
-2364830,261038,Tottenham,Man City,1,5
-2364831,261038,Man City,Chelsea,5,0
-2364832,261038,Arsenal,Liverpool,0,1
-2364833,261038,Liverpool,Man City,3,1
-2364834,261038,Chelsea,Tottenham,3,3
-2364835,261038,Tottenham,Liverpool,1,2
-2364836,261038,Man City,Arsenal,1,0
+2364827,261038,Arsenal,Tottenham,2.0,2.0
+2364828,261038,Liverpool,Chelsea,1.0,1.0
+2364829,261038,Chelsea,Arsenal,2.0,4.0
+2364830,261038,Tottenham,Man City,1.0,5.0
+2364831,261038,Man City,Chelsea,5.0,0.0
+2364832,261038,Arsenal,Liverpool,0.0,1.0
+2364833,261038,Liverpool,Man City,3.0,1.0
+2364834,261038,Chelsea,Tottenham,3.0,3.0
+2364835,261038,Tottenham,Liverpool,1.0,2.0
+2364836,261038,Man City,Arsenal,1.0,0.0
 2364837,261038,Tottenham,Arsenal,,
 2364838,261038,Chelsea,Liverpool,,
 2364839,261038,Arsenal,Chelsea,,
