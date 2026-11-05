@@ -14,13 +14,6 @@ jobs:
         with: {python-version: "3.12"}
       - run: pip install -r requirements.txt
       - run: |
-          python - <<'PY'
-          import requests, fuentes as F, pandas as pd
-          r = requests.get(f"{F.FM}/matches?date=20261103", headers=F.UA, timeout=40)
-          print("matches", r.status_code, r.headers.get("content-type"), r.text[:300])
-          F.update_fotmob(3, days_back=1)
-          PY
-      - run: |
           python -c "
           import simulaciones as S, pandas as pd
           now = pd.Timestamp.now(tz='UTC')
