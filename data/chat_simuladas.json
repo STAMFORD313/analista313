@@ -681,5 +681,49 @@
   "estado": "pendiente",
   "avisada": false,
   "rev": 1
+ },
+ {
+  "id": "20261105212139793655",
+  "creada": "2026-11-05 21:21:39.793684+00:00",
+  "titulo": "Barrido · Combinada cuota 8.3",
+  "legs": [
+   {
+    "src": "esports:dota2",
+    "side": "A",
+    "code": null,
+    "start": "2026-11-06 10:00:00+00:00",
+    "home": "PlayTime",
+    "away": "Team Synapse",
+    "txt": "Gana Team Synapse",
+    "odds": 1.88,
+    "p": 0.554109929078014
+   },
+   {
+    "code": null,
+    "start": "2026-11-06 17:00:00+00:00",
+    "home": "Nea Salamis",
+    "away": "Omonia Aradippou",
+    "txt": "Gana Nea Salamis",
+    "odds": 2.0,
+    "p": 0.5124
+   },
+   {
+    "src": "esports:cs2",
+    "side": "A",
+    "code": null,
+    "start": "2026-11-06 18:00:00+00:00",
+    "home": "B8 Academy",
+    "away": "Banger Gang",
+    "txt": "Gana Banger Gang",
+    "odds": 2.2,
+    "p": 0.472230303030303
+   }
+  ],
+  "odds": 8.27,
+  "p": 0.13407842685684068,
+  "stake": 1.0,
+  "estado": "pendiente",
+  "avisada": false,
+  "rev": 1
  }
 ]
