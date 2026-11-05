@@ -1,6 +1,6 @@
 # 🏀 NBA·NCAA · apuestas de valor
 
-Actualizado 05/11/2026 16:43 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 05/11/2026 17:12 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Incarnate Word Cardinals vs Chicago State Cougars — 06/11 · 01:00
 

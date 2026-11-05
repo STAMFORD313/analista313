@@ -1,6 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 05/11/2026 16:43 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 05/11/2026 17:12 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## pikalicaaa vs Jankulovski — 05/11 · 17:13
 
