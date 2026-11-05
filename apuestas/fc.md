@@ -1,6 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 05/11/2026 09:58 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 05/11/2026 10:03 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Maxa vs Totti — 05/11 · 10:04
 
@@ -73,6 +73,25 @@ Hándicap Revange: −1.5 28% · −2.5 15%
 • Partidos: Revange 556 | dm1trena 1013  
 • Liga: Champions League AFC  
 • Unibet: 1 1.60 · X 3.75 · 2 4.00 (sin margen 55%/23%/22%) · ventaja +23%. Sin stake hasta demostrar ROI con estas cuotas.  
+
+## BlackStar98 vs DaVa — 05/11 · 10:10
+
+👀 candidata · 🎮⚽ FC 27 · Champions League AFC · **Empate** @ **4.25** (Unibet) · prob 24% vs casas 20% · ventaja +1%
+
+- ❌ Valor: ventaja +1% (mín. 9% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 56.798 partidos)  
+Goles esperados: BlackStar98 1.83 · DaVa 2.23  
+Ganador: BlackStar98 30% · empate 24% · DaVa 47%  
+Total: más de 4.5 goles 38% · menos 62%  
+Hándicap DaVa: −1.5 28% · −2.5 14%  
+🔎 **Claves**  
+• Forma: BlackStar98 ❌✅➖✅✅ | DaVa ➖❌✅➖➖  
+• Partidos: BlackStar98 270 | DaVa 1132  
+• Liga: Champions League AFC  
+• Unibet: 1 2.45 · X 4.25 · 2 1.98 (sin margen 36%/20%/44%) · ventaja +1%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 4.25 (+1%) · Paf España 4.25 (+1%)  
 
 ## why vs goldfer — 05/11 · 10:14
 
@@ -163,6 +182,44 @@ Hándicap Maxa: −1.5 38% · −2.5 23%
 • Partidos: Maxa 837 | Ganger_29 744  
 • Liga: Ligue 1  
 • Unibet: 1 1.98 · X 4.40 · 2 2.40 (sin margen 44%/20%/36%) · ventaja +9%. Sin stake hasta demostrar ROI con estas cuotas.  
+
+## Totti vs Tesla — 05/11 · 10:28
+
+👀 candidata · 🎮⚽ FC 27 · Ligue 1 · **Gana Tesla** @ **1.45** (Unibet) · prob 71% vs casas 60% · ventaja +2%
+
+- ❌ Valor: ventaja +2% (mín. 9% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 56.798 partidos)  
+Goles esperados: Totti 2.47 · Tesla 4.13  
+Ganador: Totti 15% · empate 14% · Tesla 71%  
+Total: más de 6.5 goles 49% · menos 51%  
+Hándicap Tesla: −1.5 52% · −2.5 36%  
+🔎 **Claves**  
+• Forma: Totti ❌➖➖✅❌ | Tesla ✅✅✅❌✅  
+• Partidos: Totti 891 | Tesla 884  
+• Liga: Ligue 1  
+• Unibet: 1 4.20 · X 4.40 · 2 1.45 (sin margen 21%/20%/60%) · ventaja +2%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 1.45 (+2%) · Paf España 1.45 (+2%)  
+
+## KraftVK vs LaikingDast — 05/11 · 10:31
+
+👀 candidata · 🎮⚽ FC 27 · Serie A · **Gana KraftVK** @ **1.95** (Unibet) · prob 53% vs casas 45% · ventaja +3%
+
+- ❌ Valor: ventaja +3% (mín. 9% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 56.798 partidos)  
+Goles esperados: KraftVK 3.43 · LaikingDast 2.79  
+Ganador: KraftVK 53% · empate 18% · LaikingDast 29%  
+Total: más de 6.5 goles 43% · menos 57%  
+Hándicap KraftVK: −1.5 36% · −2.5 22%  
+🔎 **Claves**  
+• Forma: KraftVK ❌❌✅✅✅ | LaikingDast ❌✅❌❌❌  
+• Partidos: KraftVK 916 | LaikingDast 456  
+• Liga: Serie A  
+• Unibet: 1 1.95 · X 3.15 · 2 3.15 (sin margen 45%/28%/28%) · ventaja +3%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 1.95 (+3%) · Paf España 1.95 (+3%)  
 
 ## Fireline vs Kril — 05/11 · 10:51
 
