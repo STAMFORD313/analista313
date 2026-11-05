@@ -240,6 +240,7 @@ def simulation():
     return d.sort_values("start")
 
 
+SEND_PICKS = {"X"}  # 1.ª/2.ª mitad (ventaja ≥ 5 %): 1 −10 %/−17 %, 2 −20 %/−4 %, X +82 % (34)/+59 % (18) → solo empates
 MIN_EDGE_SEND = 0.05  # 999 partidos con cuota de Unibet: ventaja > 0 → ROI −8.4 % ± 6.1 % (535); > 5 % → +1.7 % ± 8.5 % (311)
 
 
@@ -361,6 +362,7 @@ def run(state, today, kg):
                       "fav": "1" if sign == 1 else "2", "p_h15": round(hcp[1.5], 4), "odds": sig["odds"] if o else None, "book": sig["book"],
                       "lote": now.isoformat()[:16]})  # mismo run = misma tarjeta (para simular su combinada)
         if o and sig["edge"] < MIN_EDGE_SEND: continue  # medido (999 partidos): con < 5 % de ventaja se pierde; no se manda
+        if o and mk not in SEND_PICKS: continue  # 1/2 con ventaja pierden en las dos mitades del historial; se siguen midiendo
         state["signals"].append({"market": {"1": "H", "X": "D", "2": "A"}[mk], "pick": {"1": g["p1"], "X": "Empate", "2": g["p2"]}[mk],
                                  **sig, "p": round(p[mk], 3), "key": key, "match": f"{g['p1']} vs {g['p2']}",
                                  "start": start.isoformat(), "league": f"{TITLE} · {g['league']}", "sport": ICON, "info": info,
