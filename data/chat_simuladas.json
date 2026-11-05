@@ -635,5 +635,51 @@
   "estado": "pendiente",
   "avisada": false,
   "rev": 1
+ },
+ {
+  "id": "20261105202128542323",
+  "creada": "2026-11-05 20:21:28.542357+00:00",
+  "titulo": "Barrido · Combinada cuota 6.3",
+  "legs": [
+   {
+    "src": "espn:nhl",
+    "side": "A",
+    "code": null,
+    "start": "2026-11-06 00:00:00+00:00",
+    "home": "Pittsburgh Penguins",
+    "away": "Boston Bruins",
+    "txt": "Gana Boston Bruins",
+    "odds": 1.926,
+    "p": 0.54545
+   },
+   {
+    "src": "esports:dota2",
+    "side": "H",
+    "code": null,
+    "start": "2026-11-06 16:00:00+00:00",
+    "home": "HULIGANI",
+    "away": "Yakult Brothers",
+    "txt": "Gana HULIGANI",
+    "odds": 1.6,
+    "p": 0.6557666666666666
+   },
+   {
+    "src": "esports:cs2",
+    "side": "A",
+    "code": null,
+    "start": "2026-11-06 19:30:00+00:00",
+    "home": "Dynamo Eclot Phoenix",
+    "away": "B.LINE",
+    "txt": "Gana B.LINE",
+    "odds": 2.05,
+    "p": 0.5430032520325203
+   }
+  ],
+  "odds": 6.32,
+  "p": 0.19422570829777505,
+  "stake": 1.0,
+  "estado": "pendiente",
+  "avisada": false,
+  "rev": 1
  }
 ]
