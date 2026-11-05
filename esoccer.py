@@ -308,6 +308,10 @@ def run(state, today, kg):
         print("esportsbattle", e); return
     try: evs = kambi.esoccer_events()
     except Exception as e: print("Kambi esoccer", repr(e)); evs = []
+    es_evs = {}  # casas con licencia en España (mismos partidos, su propio precio): para que se pueda apostar desde allí
+    for op in kambi.ES_BOOKS:
+        try: es_evs[op] = kambi.esoccer_events(op)
+        except Exception as e: print("Kambi esoccer", op, repr(e)); es_evs[op] = []
     book, rows = {}, []
     for c in cands:  # cuotas reales de Unibet: se guardan todas (para medir el modelo), aunque no salgan como señal
         g, start, p = c[1], c[2], c[6]
@@ -340,12 +344,15 @@ def run(state, today, kg):
                 f"• Liga: {A.esc(g['league'])}",
                 "• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta)."]
         sig = {"odds": round(1 / p[mk], 2), "book": "cuota justa (sin casa)", "implied": round(p[mk], 3), "edge": 0.0}
+        es = [(kambi.ES_BOOKS[op], e["odds"]) for op, ev in es_evs.items() if (e := kambi.find_esoccer(g["p1"], g["p2"], start, ev))]
         if (o := book.get(key)):  # cuota real: el resultado de más ventaja; sin stake hasta que market_report demuestre ROI
             mk = max("1X2", key=lambda k: p[k] * o[k] - 1)
             inv = sum(1 / v for v in o.values())
             sig = {"odds": o[mk], "book": "Unibet", "implied": round(1 / o[mk] / inv, 3), "edge": round(p[mk] * o[mk] - 1, 3), "sin_stake": True}
             info[-1] = (f"• Unibet: 1 {o['1']:.2f} · X {o['X']:.2f} · 2 {o['2']:.2f} (sin margen {1 / o['1'] / inv:.0%}/"
                         f"{1 / o['X'] / inv:.0%}/{1 / o['2'] / inv:.0%}) · ventaja {sig['edge']:+.0%}. Sin stake hasta demostrar ROI con estas cuotas.")
+        if es:  # dónde apostarlo en España: el mismo pick en LeoVegas/Paf (con su ventaja según el modelo)
+            info.append("• En España: " + " · ".join(f"{b} {eo[mk]:.2f} ({p[mk] * eo[mk] - 1:+.0%})" for b, eo in es))
         preds.append({"id": g["id"], "start": start.isoformat(), "p1": g["p1"], "p2": g["p2"], "liga": g["league"], "l1": round(l1, 3),
                       "l2": round(l2, 3), "pick": mk, "p_pick": round(p[mk], 4), "line": line, "p_over": round(over, 4),
                       "fav": "1" if sign == 1 else "2", "p_h15": round(hcp[1.5], 4), "odds": sig["odds"] if o else None, "book": sig["book"],

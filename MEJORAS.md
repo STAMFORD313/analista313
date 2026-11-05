@@ -189,3 +189,4 @@
 - 2026-11-05: Smarkets exige ≥ 5 £ apostables (no solo 20 £ de pago): en cuotas altas el filtro dejaba pasar ofertas de 1-2 £ que daban ventajas falsas de +45/+50 %.
 - 2026-11-05: entrena_fc27 cada 3 h (antes 24 h; ~6 min por pasada). Estado FC 27 (391 pronósticos jugados): ganador predice 49 % y acierta 44 % (sobreconfiado), total de goles 50 % (55 % previsto), con Unibet ROI −4.1 % ± 7.8 % (342) → sigue sin stake.
 - 2026-11-05: entrena_fc27 en cada pasada del coordinador (cada 30 min, límite 25 min).
+- 2026-11-05: FC 27 con casas españolas: LeoVegas España y Paf España (Kambi) tienen los mismos partidos de Esoccer Battle que Unibet (23/23, sondeado); cada señal añade «En España: LeoVegas X · Paf Y» con su ventaja. Unibet sigue como referencia del histórico.

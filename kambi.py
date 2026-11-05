@@ -69,11 +69,24 @@ def nick(name):
     return m.group(1).strip().lower() if m else None
 
 
-def esoccer_events():
-    """Partidos de fútbol de esports (EA FC / Esoccer) con cuota 1X2 de Unibet: [{id, p1, p2, start, liga, odds{1,X,2}}],
+def _esports_op(op):
+    if op == "ub": return get("listView/esports/all/all/all/matches").get("events", [])
+    try:
+        r = requests.get(f"https://eu-offering-api.kambicdn.com/offering/v2018/{op}/listView/esports/all/all/all/matches.json",
+                         params=Q, headers=A.UA, timeout=40)
+        return r.json().get("events", []) if r.ok else []
+    except (requests.RequestException, ValueError) as e: print("Kambi", op, e); return []
+
+
+ES_BOOKS = {"leoes": "LeoVegas España", "pafes": "Paf España"}  # con licencia en España (Unibet no opera allí)
+
+
+def esoccer_events(op="ub"):
+    """Partidos de fútbol de esports (EA FC / Esoccer) con cuota 1X2 del operador de Kambi `op` (Unibet por defecto;
+    LeoVegas/Paf España tienen los mismos, sondeado el 5-nov): [{id, p1, p2, start, liga, odds{1,X,2}}],
     p1/p2 = nickname en minúsculas. Busca en la lista de fútbol (path con «esports») y en la de esports."""
     out, seen = [], set()
-    for x in raw_football() + get("listView/esports/all/all/all/matches").get("events", []):
+    for x in raw_football_op(op) + _esports_op(op):
         e = x.get("event") or {}
         path = " ".join(str(t.get("englishName", t.get("name", ""))) for t in e.get("path", [])).lower()
         n1, n2 = nick(e.get("homeName")), nick(e.get("awayName"))

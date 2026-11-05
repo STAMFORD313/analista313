@@ -14,19 +14,6 @@ jobs:
         with: {python-version: "3.12"}
       - run: pip install -r requirements.txt
       - run: |
-          python - <<'PY'
-          import requests, collections, kambi as K, analyst as A
-          for op in ("ub", "pafes", "leoes"):
-              n = collections.Counter()
-              for lst in ("football", "esports"):
-                  r = requests.get(f"https://eu-offering-api.kambicdn.com/offering/v2018/{op}/listView/{lst}/all/all/all/matches.json", params=K.Q, headers=A.UA, timeout=40)
-                  for x in (r.json().get("events", []) if r.ok else []):
-                      e = x.get("event") or {}
-                      path = " ".join(str(t.get("englishName", t.get("name", ""))) for t in e.get("path", [])).lower()
-                      if any(w in path for w in ("esoccer", "fifa", "fc 2", "volta", "esports battle", "efootball")): n[path[:60]] += 1
-              print(op, sum(n.values()), n.most_common(5))
-          PY
-      - run: |
           python -c "
           import simulaciones as S, pandas as pd
           now = pd.Timestamp.now(tz='UTC')
