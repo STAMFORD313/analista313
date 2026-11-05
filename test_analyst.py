@@ -1528,3 +1528,20 @@ _lg = _SL.live_game({"home": "Sparta Prague", "away": "Bournemouth", "start": "2
                     {(c, "20261105"): ([("9", "post", "FT", "Sparta Prague", "AFC Bournemouth", 0, 2)] if c == "uecl" else []) for c in [*_SL.ES.LEAGUES, "uecl"]})
 assert _lg and _lg["away"] == "Bournemouth" and _lg["as"] == 2 and _SL.judge({"txt": "Gana Bournemouth"}, _lg)[0] is True, _lg
 print("ok simuladas con nombres distintos y Conference League")
+
+_up9, _ol9, _off9 = _CH.upcoming, _CH.other_legs, _KB.offers
+try:
+    _CH.upcoming = lambda codes, hours=48: {}
+    _KB.offers = lambda *a, **k: {}
+    _now9 = pd.Timestamp.now(tz="UTC")
+    _CH.other_legs = lambda hours, sports: [
+        {"m": f"🎮 CS2 T{i}a – T{i}b · jue", "home": f"T{i}a", "away": f"T{i}b", "start": str(_now9 + pd.Timedelta(hours=3)),
+         "txt": f"Gana T{i}a", "odds": 2.2, "p": 0.6, "src": "esports:cs2", "side": "H", "sport": "🎮"} for i in range(4)]
+    import multideporte as _MDx; _pf9 = _MDx.pinnacle_fair; _MDx.pinnacle_fair = lambda l: 0.5
+    import valor_pinnacle as _VP9; _vc9 = _VP9.candidates; _VP9.candidates = lambda *a, **k: []
+    _ex = {(_CH.norm("T0a")[:6], _CH.norm("T0b")[:6])}
+    _r9 = _CH.long_combo(_D, 5, value_only=True, exclude=_ex)
+    assert "T0a" not in _r9 and "T1a" in _r9, _r9
+finally:
+    _CH.upcoming, _CH.other_legs, _KB.offers = _up9, _ol9, _off9; _MDx.pinnacle_fair = _pf9; _VP9.candidates = _vc9; _CH._CTX.clear(); _CH.LAST_FILE.unlink(missing_ok=True)
+print("ok barridos sin repetir piernas de esports")

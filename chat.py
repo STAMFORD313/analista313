@@ -838,7 +838,10 @@ def long_combo(D, target, hours=48, sports=None, only_stats=False, value_only=Fa
     rest = [] if value_only else sorted([c for c in cands if c not in pool], key=lambda c: -c[2])
     for c in sorted(pool, key=lambda c: -c[2]) + rest:
         if odds >= target: break  # primero las de ventaja; si no llegan, las menos malas (la ganancia esperada lo refleja)
-        hh, _, aa = re.sub(r"^\W+\s*", "", c[0].split(" · ")[0]).partition(" – ")
+        mt = meta.get(c[0])
+        if isinstance(mt, dict): hh, aa = mt.get("home", ""), mt.get("away", "")
+        elif mt: hh, aa = mt[2], mt[3]
+        else: hh, _, aa = re.sub(r"^\W+\s*", "", c[0].split(" · ")[0]).partition(" – ")
         g = (norm(hh)[:6], norm(aa)[:6])  # mismo partido aunque Pinnacle y ESPN escriban distinto los nombres
         if g in exclude: continue  # partido ya usado en otra combinada pendiente (barridos: no repetir piernas)
         if c[3] < COMBO_MIN_LEG or kinds.get(kind(c[5]), 0) >= 3 or g in games: continue  # con cabeza: nada de longshots
