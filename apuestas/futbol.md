@@ -1,6 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 05/11/2026 20:19 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 05/11/2026 20:34 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Gimnasia L.P. vs Belgrano — 05/11 · 23:15
 

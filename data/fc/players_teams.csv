@@ -57399,12 +57399,12 @@ id,tournament_id,club1,club2,ht1,ht2
 2363874,261050,Argentina,Brazil,,
 2363875,261050,Colombia,Argentina,,
 2363876,261050,Ecuador,Uruguay,,
-2364207,261001,B Dortmund,Stuttgart,1,1
-2364208,261001,Leipzig,Frankfurt,0,1
-2364209,261001,Frankfurt,B Dortmund,1,2
-2364210,261001,Stuttgart,Bayern Munchen,2,0
-2364211,261001,Bayern Munchen,Frankfurt,0,1
-2364212,261001,B Dortmund,Leipzig,3,3
+2364207,261001,B Dortmund,Stuttgart,1.0,1.0
+2364208,261001,Leipzig,Frankfurt,0.0,1.0
+2364209,261001,Frankfurt,B Dortmund,1.0,2.0
+2364210,261001,Stuttgart,Bayern Munchen,2.0,0.0
+2364211,261001,Bayern Munchen,Frankfurt,0.0,1.0
+2364212,261001,B Dortmund,Leipzig,3.0,3.0
 2364213,261001,Leipzig,Bayern Munchen,,
 2364214,261001,Frankfurt,Stuttgart,,
 2364215,261001,Stuttgart,Leipzig,,
@@ -57419,12 +57419,12 @@ id,tournament_id,club1,club2,ht1,ht2
 2364224,261001,Stuttgart,Frankfurt,,
 2364225,261001,Leipzig,Stuttgart,,
 2364226,261001,B Dortmund,Bayern Munchen,,
-2364547,261060,Fenerbahce,Porto,4,0
-2364548,261060,Salzburg,Aston Villa,1,0
-2364549,261060,Aston Villa,Fenerbahce,2,0
-2364550,261060,Porto,Roma,4,1
-2364551,261060,Roma,Aston Villa,0,1
-2364552,261060,Fenerbahce,Salzburg,2,0
+2364547,261060,Fenerbahce,Porto,4.0,0.0
+2364548,261060,Salzburg,Aston Villa,1.0,0.0
+2364549,261060,Aston Villa,Fenerbahce,2.0,0.0
+2364550,261060,Porto,Roma,4.0,1.0
+2364551,261060,Roma,Aston Villa,0.0,1.0
+2364552,261060,Fenerbahce,Salzburg,2.0,0.0
 2364553,261060,Salzburg,Roma,,
 2364554,261060,Aston Villa,Porto,,
 2364555,261060,Porto,Salzburg,,
@@ -57439,3 +57439,23 @@ id,tournament_id,club1,club2,ht1,ht2
 2364564,261060,Porto,Aston Villa,,
 2364565,261060,Salzburg,Porto,,
 2364566,261060,Fenerbahce,Roma,,
+2364687,261028,Sassuolo,Napoli,1,1
+2364688,261028,Juventus,Roma,2,1
+2364689,261028,Roma,Sassuolo,1,1
+2364690,261028,Napoli,Bologna,0,2
+2364691,261028,Bologna,Roma,1,2
+2364692,261028,Sassuolo,Juventus,3,1
+2364693,261028,Juventus,Bologna,,
+2364694,261028,Roma,Napoli,,
+2364695,261028,Napoli,Juventus,,
+2364696,261028,Bologna,Sassuolo,,
+2364697,261028,Napoli,Sassuolo,,
+2364698,261028,Roma,Juventus,,
+2364699,261028,Sassuolo,Roma,,
+2364700,261028,Bologna,Napoli,,
+2364701,261028,Roma,Bologna,,
+2364702,261028,Juventus,Sassuolo,,
+2364703,261028,Bologna,Juventus,,
+2364704,261028,Napoli,Roma,,
+2364705,261028,Juventus,Napoli,,
+2364706,261028,Sassuolo,Bologna,,
