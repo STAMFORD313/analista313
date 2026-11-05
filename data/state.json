@@ -1809,7 +1809,10 @@
   "fc|2363861",
   "fc|2364555",
   "fc|2363869",
-  "fc|2364413"
+  "fc|2364413",
+  "fc|2364415",
+  "fc|2363872",
+  "fc|2363871"
  ],
  "signals": [
   {
@@ -26490,20 +26493,6 @@
    "start": "2026-11-05T19:07:00+00:00",
    "league": "🎮⚽ FC 27 · Serie A",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 57.359 partidos)",
-    "Goles esperados: Dicca 3.06 · Jankulovski 2.03",
-    "Ganador: Dicca 60% · empate 19% · Jankulovski 21%",
-    "Total: más de 5.5 goles 40% · menos 60%",
-    "Hándicap Dicca: −1.5 41% · −2.5 25%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Dicca ❌✅➖✅➖ | Jankulovski ❌❌❌❌✅",
-    "• Partidos: Dicca 640 | Jankulovski 783",
-    "• Liga: Serie A",
-    "• Unibet: 1 1.67 · X 5.60 · 2 2.75 (sin margen 52%/16%/32%) · ventaja +8%. Sin stake hasta demostrar ROI con estas cuotas.",
-    "• En España: LeoVegas España 5.60 (+8%) · Paf España 5.60 (+8%)"
-   ],
    "context": "EA FC Esoccer Battle Dicca vs Jankulovski (Serie A): goles esperados 3.06-2.03, 1X2 60%/19%/21%. Sin cuotas de casa.",
    "captured": "2026-11-05T18:33",
    "version": "65c8dd4",
@@ -26644,6 +26633,30 @@
    "context": "EA FC Esoccer Battle w1nkos vs Rodja (Europa League): goles esperados 3.38-2.86, 1X2 49%/20%/31%. Sin cuotas de casa.",
    "captured": "2026-11-05T19:03",
    "version": "36a83df",
+   "bajas": "",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "key": "vp|2026-11-05|Bayer Leverkusen|Marseille",
+   "market": "H",
+   "pick": "Bayer Leverkusen",
+   "odds": 1.41,
+   "book": "Smarkets",
+   "p": 0.7385,
+   "implied": 0.7385,
+   "edge": 0.0428,
+   "match": "Bayer Leverkusen vs Marseille",
+   "start": "2026-11-05T20:00:00+00:00",
+   "league": "💎 Valor vs Pinnacle · UEFA - Europa League",
+   "sport": "⚽💎",
+   "info": [
+    "💎 <b>Valor contra Pinnacle</b>: Smarkets paga 1.41 y el precio justo de Pinnacle es 1.35 (ventaja +4.3%)",
+    "Backtest 2015-2026 (cuota ≤ 2.5, > 3 %): ROI +11 % ± 3 %, CLV +5 %."
+   ],
+   "context": "Bayer Leverkusen vs Marseille (UEFA - Europa League). Estrategia de valor: Smarkets 1.41 frente a Pinnacle justo 1.35.",
+   "captured": "2026-11-05T19:19",
+   "version": "37290fb",
    "bajas": "",
    "considered": true,
    "placed": false

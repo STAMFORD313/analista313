@@ -57379,16 +57379,16 @@ id,tournament_id,club1,club2,ht1,ht2
 2364414,261047,Juventus,Man City,,
 2364415,261047,Arsenal,Juventus,,
 2364416,261047,B Dortmund,Sporting CP,,
-2363857,261050,Ecuador,Argentina,2,1
-2363858,261050,Colombia,Brazil,2,3
-2363859,261050,Brazil,Ecuador,3,2
-2363860,261050,Argentina,Uruguay,1,0
-2363861,261050,Uruguay,Brazil,0,0
-2363862,261050,Ecuador,Colombia,3,3
-2363863,261050,Colombia,Uruguay,2,2
-2363864,261050,Brazil,Argentina,1,2
-2363865,261050,Argentina,Colombia,0,0
-2363866,261050,Uruguay,Ecuador,1,0
+2363857,261050,Ecuador,Argentina,2.0,1.0
+2363858,261050,Colombia,Brazil,2.0,3.0
+2363859,261050,Brazil,Ecuador,3.0,2.0
+2363860,261050,Argentina,Uruguay,1.0,0.0
+2363861,261050,Uruguay,Brazil,0.0,0.0
+2363862,261050,Ecuador,Colombia,3.0,3.0
+2363863,261050,Colombia,Uruguay,2.0,2.0
+2363864,261050,Brazil,Argentina,1.0,2.0
+2363865,261050,Argentina,Colombia,0.0,0.0
+2363866,261050,Uruguay,Ecuador,1.0,0.0
 2363867,261050,Argentina,Ecuador,,
 2363868,261050,Brazil,Colombia,,
 2363869,261050,Ecuador,Brazil,,
@@ -57399,3 +57399,43 @@ id,tournament_id,club1,club2,ht1,ht2
 2363874,261050,Argentina,Brazil,,
 2363875,261050,Colombia,Argentina,,
 2363876,261050,Ecuador,Uruguay,,
+2364207,261001,B Dortmund,Stuttgart,1,1
+2364208,261001,Leipzig,Frankfurt,0,1
+2364209,261001,Frankfurt,B Dortmund,1,2
+2364210,261001,Stuttgart,Bayern Munchen,2,0
+2364211,261001,Bayern Munchen,Frankfurt,0,1
+2364212,261001,B Dortmund,Leipzig,3,3
+2364213,261001,Leipzig,Bayern Munchen,,
+2364214,261001,Frankfurt,Stuttgart,,
+2364215,261001,Stuttgart,Leipzig,,
+2364216,261001,Bayern Munchen,B Dortmund,,
+2364217,261001,Stuttgart,B Dortmund,,
+2364218,261001,Frankfurt,Leipzig,,
+2364219,261001,B Dortmund,Frankfurt,,
+2364220,261001,Bayern Munchen,Stuttgart,,
+2364221,261001,Frankfurt,Bayern Munchen,,
+2364222,261001,Leipzig,B Dortmund,,
+2364223,261001,Bayern Munchen,Leipzig,,
+2364224,261001,Stuttgart,Frankfurt,,
+2364225,261001,Leipzig,Stuttgart,,
+2364226,261001,B Dortmund,Bayern Munchen,,
+2364547,261060,Fenerbahce,Porto,4,0
+2364548,261060,Salzburg,Aston Villa,1,0
+2364549,261060,Aston Villa,Fenerbahce,2,0
+2364550,261060,Porto,Roma,4,1
+2364551,261060,Roma,Aston Villa,0,1
+2364552,261060,Fenerbahce,Salzburg,2,0
+2364553,261060,Salzburg,Roma,,
+2364554,261060,Aston Villa,Porto,,
+2364555,261060,Porto,Salzburg,,
+2364556,261060,Roma,Fenerbahce,,
+2364557,261060,Porto,Fenerbahce,,
+2364558,261060,Aston Villa,Salzburg,,
+2364559,261060,Fenerbahce,Aston Villa,,
+2364560,261060,Roma,Porto,,
+2364561,261060,Aston Villa,Roma,,
+2364562,261060,Salzburg,Fenerbahce,,
+2364563,261060,Roma,Salzburg,,
+2364564,261060,Porto,Aston Villa,,
+2364565,261060,Salzburg,Porto,,
+2364566,261060,Fenerbahce,Roma,,
