@@ -1,42 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 05/11/2026 05:44 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## OG vs Inquisitor — 05/11 · 05:50
-
-👀 candidata · 🎮⚽ FC 27 · Serie A · **Gana Inquisitor** @ **1.85** (Unibet) · prob 58% vs casas 47% · ventaja +8%
-
-- ❌ Valor: ventaja +8% (mín. 10% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 56.568 partidos)  
-Goles esperados: OG 2.07 · Inquisitor 2.95  
-Ganador: OG 22% · empate 19% · Inquisitor 58%  
-Total: más de 5.5 goles 39% · menos 61%  
-Hándicap Inquisitor: −1.5 38% · −2.5 23%  
-🔎 **Claves**  
-• Forma: OG ❌➖✅✅➖ | Inquisitor ✅➖❌➖✅  
-• Partidos: OG 544 | Inquisitor 544  
-• Liga: Serie A  
-• Unibet: 1 2.60 · X 4.60 · 2 1.85 (sin margen 34%/19%/47%) · ventaja +8%. Sin stake hasta demostrar ROI con estas cuotas.  
-
-## Grellz vs tizzy — 05/11 · 05:59
-
-👀 candidata · 🎮⚽ FC 27 · Club World Cup · **Empate** @ **6.25** (Unibet) · prob 18% vs casas 14% · ventaja +14%
-
-- ✅ Valor: ventaja +14% (mín. 11% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 56.568 partidos)  
-Goles esperados: Grellz 3.30 · tizzy 3.30  
-Ganador: Grellz 40% · empate 18% · tizzy 42%  
-Total: más de 6.5 goles 49% · menos 51%  
-Hándicap tizzy: −1.5 28% · −2.5 16%  
-🔎 **Claves**  
-• Forma: Grellz ❌✅❌✅✅ | tizzy ✅❌✅✅✅  
-• Partidos: Grellz 1007 | tizzy 345  
-• Liga: Club World Cup  
-• Unibet: 1 2.12 · X 6.25 · 2 1.98 (sin margen 41%/14%/44%) · ventaja +14%. Sin stake hasta demostrar ROI con estas cuotas.  
+Actualizado 05/11/2026 06:11 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## OG vs hotShot — 05/11 · 06:14
 
@@ -73,4 +37,58 @@ Hándicap Kavviro: −1.5 28% · −2.5 16%
 • Partidos: Grellz 1007 | Kavviro 753  
 • Liga: Club World Cup  
 • Unibet: 1 2.20 · X 5.25 · 2 2.02 (sin margen 40%/17%/43%) · ventaja +5%. Sin stake hasta demostrar ROI con estas cuotas.  
+
+## RossFCDK vs hotShot — 05/11 · 06:38
+
+👀 candidata · 🎮⚽ FC 27 · Serie A · **Gana hotShot** @ **2.40** (Unibet) · prob 47% vs casas 36% · ventaja +13%
+
+- ✅ Valor: ventaja +13% (mín. 11% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 56.598 partidos)  
+Goles esperados: RossFCDK 1.83 · hotShot 2.20  
+Ganador: RossFCDK 29% · empate 24% · hotShot 47%  
+Total: más de 4.5 goles 38% · menos 62%  
+Hándicap hotShot: −1.5 28% · −2.5 14%  
+🔎 **Claves**  
+• Forma: RossFCDK ❌❌❌✅➖ | hotShot ✅✅❌➖➖  
+• Partidos: RossFCDK 507 | hotShot 508  
+• Liga: Serie A  
+• Unibet: 1 3.50 · X 2.23 · 2 2.40 (sin margen 25%/39%/36%) · ventaja +13%. Sin stake hasta demostrar ROI con estas cuotas.  
+
+## Ganger_29 vs Tesla — 05/11 · 06:42
+
+👀 candidata · 🎮⚽ FC 27 · Bundesliga · **Gana Tesla** @ **1.77** (Unibet) · prob 71% vs casas 49% · ventaja +26%
+
+- ✅ Valor: ventaja +26% (mín. 15% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 56.598 partidos)  
+Goles esperados: Ganger_29 2.23 · Tesla 3.90  
+Ganador: Ganger_29 15% · empate 14% · Tesla 71%  
+Total: más de 6.5 goles 41% · menos 59%  
+Hándicap Tesla: −1.5 52% · −2.5 36%  
+🔎 **Claves**  
+• Forma: Ganger_29 ✅➖❌❌❌ | Tesla ➖❌✅✅✅  
+• Partidos: Ganger_29 736 | Tesla 876  
+• Liga: Bundesliga  
+• Unibet: 1 3.00 · X 4.00 · 2 1.77 (sin margen 29%/22%/49%) · ventaja +26%. Sin stake hasta demostrar ROI con estas cuotas.  
+
+## why vs goldfer — 05/11 · 06:54
+
+👀 candidata · 🎮⚽ FC 27 · Premier League 2x6 · **Empate** @ **6.40** (Unibet) · prob 18% vs casas 14% · ventaja +12%
+
+- ✅ Valor: ventaja +12% (mín. 11% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 56.598 partidos)  
+Goles esperados: why 3.39 · goldfer 2.49  
+Ganador: why 60% · empate 18% · goldfer 23%  
+Total: más de 5.5 goles 54% · menos 46%  
+Hándicap why: −1.5 40% · −2.5 25%  
+🔎 **Claves**  
+• Forma: why ❌❌✅❌✅ | goldfer ❌❌❌❌❌  
+• Partidos: why 545 | goldfer 433  
+• Liga: Premier League 2x6  
+• Unibet: 1 1.48 · X 6.40 · 2 3.15 (sin margen 59%/14%/28%) · ventaja +12%. Sin stake hasta demostrar ROI con estas cuotas.  
 

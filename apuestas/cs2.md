@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 05/11/2026 05:44 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 05/11/2026 06:11 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Nordic Valor vs boyband — 05/11 · 19:00
 
@@ -113,4 +113,24 @@ Casas: FURIA 61% · BetBoom 39%
 🔫 **Kills esperados en la serie** (rango 80 %; mejor que la media de sus 10 últimas en 52.265 casos: log-loss 0.6821→0.6562; sin cuotas de props, solo referencia)  
 FURIA: molodoy 38 (22-56) · KSCERATO 37 (21-55) · YEKINDAR 36 (20-52) · yuurih 32 (18-47) · FalleN 29 (17-43)  
 BetBoom: Magnojez 36 (21-53) · zorte 34 (19-50) · d1Ledez 32 (19-48) · s1ren 31 (18-47) · Boombl4 29 (16-43)  
+
+## SINNERS Legacy vs Thousand — 06/11 · 18:00
+
+👀 candidata · 🎮 CS2 · MČR 2026 · **Gana Thousand** @ **1.92** (Thunderpick) · prob 54% vs casas 48% · ventaja +4%
+
+- ❌ Valor: ventaja +4% (mín. 8% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 76.485 partidos)  
+Mapa: SINNERS Legacy 43% · Serie BO3: SINNERS Legacy 40% - 60% Thousand  
+Casas: SINNERS Legacy 52% · Thousand 48%  
+🔎 **Claves**  
+• Elo: SINNERS Legacy 1358 (1 series) | Thousand 1431 (1 series)  
+• Forma: SINNERS Legacy ❌ | Thousand ❌  
+• H2H: sin precedentes  
+• Torneo: MČR 2026 (nivel C)  
+• Cambios de plantilla: SINNERS Legacy, Thousand  
+🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
+• SINNERS Legacy gana 2-1: 18% → cuota justa 5.41  
+• Thousand gana 2-1: 24% → cuota justa 4.11  
 
