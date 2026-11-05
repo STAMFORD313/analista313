@@ -56487,3 +56487,43 @@ id,date,tournament_id,league,p1,p2,s1,s2
 2362689,2026-11-05T00:42:00Z,260941,Argentina Super League 2x6,k0mych,rostyk,4,9
 2362690,2026-11-05T01:00:00Z,260941,Argentina Super League 2x6,Solya,rostyk,5,9
 2362691,2026-11-05T01:18:00Z,260941,Argentina Super League 2x6,Solya,k0mych,10,2
+2362148,2026-11-05T01:00:00Z,260930,World Cup B,mixes,Vanste,2,1
+2362149,2026-11-05T01:00:00Z,260930,World Cup B,Djape,Joop,1,4
+2362150,2026-11-05T01:12:00Z,260930,World Cup B,Joop,mixes,4,2
+2362151,2026-11-05T01:12:00Z,260930,World Cup B,Vanste,cosske,2,2
+2362152,2026-11-05T01:24:00Z,260930,World Cup B,cosske,Joop,0,0
+2362153,2026-11-05T01:24:00Z,260930,World Cup B,mixes,Djape,2,7
+2362154,2026-11-05T01:36:00Z,260930,World Cup B,Djape,cosske,1,7
+2362155,2026-11-05T01:36:00Z,260930,World Cup B,Joop,Vanste,1,1
+2362156,2026-11-05T01:48:00Z,260930,World Cup B,Vanste,Djape,6,5
+2362157,2026-11-05T01:48:00Z,260930,World Cup B,cosske,mixes,3,3
+2362158,2026-11-05T02:00:00Z,260930,World Cup B,Vanste,mixes,3,4
+2362159,2026-11-05T02:00:00Z,260930,World Cup B,Joop,Djape,4,3
+2362160,2026-11-05T02:12:00Z,260930,World Cup B,mixes,Joop,4,2
+2362161,2026-11-05T02:12:00Z,260930,World Cup B,cosske,Vanste,7,3
+2362162,2026-11-05T02:24:00Z,260930,World Cup B,Joop,cosske,0,1
+2362163,2026-11-05T02:24:00Z,260930,World Cup B,Djape,mixes,3,6
+2362164,2026-11-05T02:36:00Z,260930,World Cup B,cosske,Djape,6,2
+2362165,2026-11-05T02:36:00Z,260930,World Cup B,Vanste,Joop,2,2
+2362166,2026-11-05T02:48:00Z,260930,World Cup B,Djape,Vanste,5,5
+2362167,2026-11-05T02:48:00Z,260930,World Cup B,mixes,cosske,2,1
+2362640,2026-11-05T01:40:00Z,260899,Volta International A,Koss,Senya,3,3
+2362641,2026-11-05T01:40:00Z,260899,Volta International A,pimchik,bucho55,5,3
+2362642,2026-11-05T01:49:00Z,260899,Volta International A,bucho55,Koss,2,0
+2362643,2026-11-05T01:49:00Z,260899,Volta International A,Senya,Sheva,2,3
+2362644,2026-11-05T01:58:00Z,260899,Volta International A,Sheva,bucho55,2,3
+2362645,2026-11-05T01:58:00Z,260899,Volta International A,Koss,pimchik,3,6
+2362646,2026-11-05T02:07:00Z,260899,Volta International A,pimchik,Sheva,3,3
+2362647,2026-11-05T02:07:00Z,260899,Volta International A,bucho55,Senya,3,2
+2362648,2026-11-05T02:16:00Z,260899,Volta International A,Senya,pimchik,4,6
+2362649,2026-11-05T02:16:00Z,260899,Volta International A,Sheva,Koss,2,1
+2362650,2026-11-05T02:25:00Z,260899,Volta International A,Senya,Koss,5,2
+2362651,2026-11-05T02:25:00Z,260899,Volta International A,bucho55,pimchik,4,3
+2362652,2026-11-05T02:34:00Z,260899,Volta International A,Koss,bucho55,2,3
+2362653,2026-11-05T02:34:00Z,260899,Volta International A,Sheva,Senya,2,4
+2362654,2026-11-05T02:43:00Z,260899,Volta International A,bucho55,Sheva,1,2
+2362655,2026-11-05T02:43:00Z,260899,Volta International A,pimchik,Koss,4,0
+2362656,2026-11-05T02:52:00Z,260899,Volta International A,Sheva,pimchik,1,5
+2362657,2026-11-05T02:52:00Z,260899,Volta International A,Senya,bucho55,4,4
+2362658,2026-11-05T03:01:00Z,260899,Volta International A,pimchik,Senya,3,5
+2362659,2026-11-05T03:01:00Z,260899,Volta International A,Koss,Sheva,2,3
