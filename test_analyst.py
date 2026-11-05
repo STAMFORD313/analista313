@@ -1439,3 +1439,18 @@ try:
     _s = _SL.summary(); assert "esperaba acertar 1.00 de 4 y ha acertado 1" in _s and "ROI +0%" in _s and "pocas" in _s, _s
 finally: _SL.FILE.unlink(missing_ok=True); _SL.FILE = _f0; _SL._MEM.clear(); _SL._MEM.update(_mem0)
 print("ok calibración de las simuladas")
+
+_mem0 = dict(_SL._MEM); _f0 = _SL.FILE; _SL.FILE = A.DATA / "_test_sim_early.json"; _SL._MEM.clear()
+try:
+    _now = pd.Timestamp.now(tz="UTC")
+    _SL.FILE.write_text(json.dumps([{"id": "1", "creada": str(_now - pd.Timedelta(hours=5)), "titulo": "Combinada", "odds": 18.7, "stake": 1, "estado": "pendiente", "rev": 1,
+        "legs": [{"code": "ucl", "home": "FC Porto", "away": "Napoli", "start": str(_now - pd.Timedelta(hours=4)), "txt": "Menos de 3.5 tarjetas"},
+                 {"code": "ARG", "home": "Belgrano", "away": "Platense", "start": str(_now + pd.Timedelta(hours=18)), "txt": "Gana Belgrano"}]}]))
+    _fg0, _lg0 = _SL.find_game, _SL.live_game
+    _SL.find_game = lambda leg: {"home": "FC Porto", "away": "Napoli", "hs": 1, "as": 1, "team_stats": {"h": {**_z, "yellowCards": 3.0}, "a": {**_z, "yellowCards": 3.0}}} if leg["home"] == "FC Porto" else None
+    _SL.live_game = lambda l, b: None
+    _o = _SL.settle(); assert len(_o) == 1 and "perdida" in _o[0] and "otras 1 piernas" in _o[0] and _SL.load()["1"]["estado"] == "perdida", _o
+finally:
+    _SL.find_game, _SL.live_game = _fg0, _lg0
+    _SL.FILE.unlink(missing_ok=True); _SL.FILE = _f0; _SL._MEM.clear(); _SL._MEM.update(_mem0)
+print("ok combinada perdida en cuanto falla una pierna")

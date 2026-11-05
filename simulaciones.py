@@ -159,8 +159,8 @@ def settle(now=None):
                 if ok is not None: leg["ok"], leg["por"] = ok, why; changed = True
             elif now - pd.Timestamp(leg.get("start") or b["creada"]) > GIVE_UP:
                 leg["ok"], leg["por"] = "nula", "sin datos del partido"; changed = True
-        if all(l.get("ok") is not None for l in b["legs"]):
-            res = [l["ok"] for l in b["legs"]]
+        if all(l.get("ok") is not None for l in b["legs"]) or any(l.get("ok") is False for l in b["legs"]):  # una fallada: ya perdida
+            res = [l.get("ok") for l in b["legs"]]
             b["estado"] = "perdida" if False in res else "nula" if all(r == "nula" for r in res) else "ganada"
             b["rev"] = b.get("rev", 1) + 1; changed = True
             k = tuple(sorted((l.get("home"), l.get("away"), l.get("txt"), l.get("jugador")) for l in b["legs"]))
@@ -177,6 +177,8 @@ def card(b):
     head = {"ganada": "🎉 ¡Simulada GANADA!", "perdida": "Simulada perdida", "nula": "Simulada nula"}.get(b["estado"], "Simulada en juego")
     fail = [l for l in b["legs"] if l.get("ok") is False]
     why = (f"\nFalló{'ron' if len(fail) > 1 else ''}: " + "; ".join(f"{l['txt']} en {l['home']} – {l['away']} ({l['por']})" for l in fail)) if fail else ""
+    left = sum(l.get("ok") is None for l in b["legs"])
+    if fail and left: why += f"\n(Ya no hace falta esperar a las otras {left} piernas: con una fallada la combinada está perdida.)"
     return "\n".join([f"🧾 <b>{head}</b> · {A.esc(b['titulo'])}", *B.boleto(None, legs, b.get("odds"), b.get("stake"), res)]) + A.esc(why)
 
 
