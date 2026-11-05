@@ -57479,13 +57479,62 @@ id,tournament_id,club1,club2,ht1,ht2
 2364844,261038,Tottenham,Chelsea,,
 2364845,261038,Liverpool,Tottenham,,
 2364846,261038,Arsenal,Man City,,
-2363877,261055,Ecuador,Argentina,3,1
-2363878,261055,Colombia,Brazil,2,2
-2363879,261055,Brazil,Ecuador,3,3
-2363880,261055,Argentina,Uruguay,4,2
-2363881,261055,Uruguay,Brazil,1,1
-2363882,261055,Ecuador,Colombia,2,3
-2363883,261055,Colombia,Uruguay,1,0
-2363884,261055,Brazil,Argentina,3,3
+2363877,261055,Ecuador,Argentina,3.0,1.0
+2363878,261055,Colombia,Brazil,2.0,2.0
+2363879,261055,Brazil,Ecuador,3.0,3.0
+2363880,261055,Argentina,Uruguay,4.0,2.0
+2363881,261055,Uruguay,Brazil,1.0,1.0
+2363882,261055,Ecuador,Colombia,2.0,3.0
+2363883,261055,Colombia,Uruguay,1.0,0.0
+2363884,261055,Brazil,Argentina,3.0,3.0
 2363885,261055,Argentina,Colombia,,
 2363886,261055,Uruguay,Ecuador,,
+2364227,261003,Liverpool,Atleti,3,0
+2364228,261003,Paris,Bayern Munchen,0,3
+2364229,261003,Bayern Munchen,Liverpool,0,1
+2364230,261003,Atleti,Real Madrid,0,1
+2364231,261003,Real Madrid,Bayern Munchen,1,1
+2364232,261003,Liverpool,Paris,3,0
+2364233,261003,Paris,Real Madrid,2,0
+2364234,261003,Bayern Munchen,Atleti,0,1
+2364235,261003,Atleti,Paris,2,0
+2364236,261003,Real Madrid,Liverpool,1,3
+2364237,261003,Atleti,Liverpool,,
+2364238,261003,Bayern Munchen,Paris,,
+2364239,261003,Liverpool,Bayern Munchen,,
+2364240,261003,Real Madrid,Atleti,,
+2364241,261003,Bayern Munchen,Real Madrid,,
+2364242,261003,Paris,Liverpool,,
+2364243,261003,Real Madrid,Paris,,
+2364244,261003,Atleti,Bayern Munchen,,
+2364245,261003,Paris,Atleti,,
+2364246,261003,Liverpool,Real Madrid,,
+2366522,261049,B Dortmund,Man City,2,0
+2366523,261049,Sporting CP,Juventus,3,5
+2366524,261049,Sporting CP,B Dortmund,0,2
+2366525,261049,Juventus,Man City,1,2
+2366526,261049,Man City,Sporting CP,5,0
+2366527,261049,Juventus,B Dortmund,1,2
+2366528,261049,B Dortmund,Man City,,
+2366529,261049,Sporting CP,Juventus,,
+2364426,261049,Sporting CP,B Dortmund,,
+2366530,261049,Juventus,Man City,,
+2364567,261061,Real Madrid,Barcelona,2,1
+2364569,261061,Atleti,Real Madrid,1,1
+2364570,261061,Barcelona,Athletic Club,0,1
+2364571,261061,Athletic Club,Atleti,2,1
+2364573,261061,Villarreal,Athletic Club,,
+2364574,261061,Atleti,Barcelona,,
+2364575,261061,Barcelona,Villarreal,,
+2364576,261061,Athletic Club,Real Madrid,,
+2364577,261061,Barcelona,Real Madrid,,
+2364578,261061,Atleti,Villarreal,,
+2364579,261061,Real Madrid,Atleti,,
+2364580,261061,Athletic Club,Barcelona,,
+2364581,261061,Atleti,Athletic Club,,
+2364582,261061,Villarreal,Real Madrid,,
+2364583,261061,Athletic Club,Villarreal,,
+2364584,261061,Barcelona,Atleti,,
+2364585,261061,Villarreal,Barcelona,,
+2364586,261061,Real Madrid,Athletic Club,,
+2364568,261061,Villarreal,Atleti,,
