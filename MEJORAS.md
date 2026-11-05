@@ -187,3 +187,4 @@
 - 2026-11-05: CLV de hándicaps (sph/spa: 60 señales de NBA/NFL/universitario) con el cierre de Pinnacle cuando cierra en la misma línea. Revisión semanal: ningún segmento apostado; sin cambios de stake.
 - 2026-11-05: combinadas, crear apuesta y barridos buscan partidos en las 28 ligas con datos de ESPN (antes 13): Argentina, Brasil, México, MLS, Japón, segundas divisiones, Escocia, Grecia, Austria, nórdicas y Suiza.
 - 2026-11-05: Smarkets exige ≥ 5 £ apostables (no solo 20 £ de pago): en cuotas altas el filtro dejaba pasar ofertas de 1-2 £ que daban ventajas falsas de +45/+50 %.
+- 2026-11-05: entrena_fc27 cada 3 h (antes 24 h; ~6 min por pasada). Estado FC 27 (391 pronósticos jugados): ganador predice 49 % y acierta 44 % (sobreconfiado), total de goles 50 % (55 % previsto), con Unibet ROI −4.1 % ± 7.8 % (342) → sigue sin stake.
