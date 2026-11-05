@@ -1666,7 +1666,11 @@
   "fc|2364343",
   "fc|2363593",
   "fc|2363594",
-  "fc|2364446"
+  "fc|2364446",
+  "cs2|133453",
+  "fc|2364447",
+  "fc|2364448",
+  "fc|2363447"
  ],
  "signals": [
   {
@@ -24812,7 +24816,11 @@
    "version": "f96208e",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "2-8",
+   "result": true,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "A",
@@ -24879,7 +24887,11 @@
    "version": "3fc7344",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "7-1",
+   "result": true,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "A",
@@ -24900,7 +24912,11 @@
    "version": "3fc7344",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "3-2",
+   "result": false,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "A",
@@ -24946,7 +24962,11 @@
    "version": "740e5fd",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "2-3",
+   "result": true,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "D",
@@ -25075,7 +25095,11 @@
    "version": "6789ddf",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "6-0",
+   "result": true,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "A",
@@ -25117,7 +25141,11 @@
    "version": "6789ddf",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "9-3",
+   "result": true,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "A",
@@ -25138,7 +25166,11 @@
    "version": "6789ddf",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "4-4",
+   "result": false,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "A",
@@ -25196,19 +25228,6 @@
    "start": "2026-11-05T07:24:00+00:00",
    "league": "🎮⚽ FC 27 · Premier League 2x6",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 56.678 partidos)",
-    "Goles esperados: goldfer 2.49 · why 3.39",
-    "Ganador: goldfer 23% · empate 18% · why 60%",
-    "Total: más de 5.5 goles 54% · menos 46%",
-    "Hándicap why: −1.5 40% · −2.5 25%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: goldfer ❌❌❌❌❌ | why ❌❌✅❌✅",
-    "• Partidos: goldfer 433 | why 545",
-    "• Liga: Premier League 2x6",
-    "• Unibet: 1 4.25 · X 7.00 · 2 1.29 (sin margen 20%/12%/67%) · ventaja +23%. Sin stake hasta demostrar ROI con estas cuotas."
-   ],
    "context": "EA FC Esoccer Battle goldfer vs why (Premier League 2x6): goles esperados 2.49-3.39, 1X2 23%/18%/60%. Sin cuotas de casa.",
    "captured": "2026-11-05T07:09",
    "version": "c278c07",
@@ -25231,25 +25250,16 @@
    "start": "2026-11-05T07:18:00+00:00",
    "league": "🎮⚽ FC 27 · Bundesliga",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 56.678 partidos)",
-    "Goles esperados: Maxa 3.15 · Ganger_29 2.56",
-    "Ganador: Maxa 51% · empate 19% · Ganger_29 29%",
-    "Total: más de 5.5 goles 51% · menos 49%",
-    "Hándicap Maxa: −1.5 35% · −2.5 21%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Maxa ✅➖❌➖❌ | Ganger_29 ✅➖❌❌❌",
-    "• Partidos: Maxa 829 | Ganger_29 736",
-    "• Liga: Bundesliga",
-    "• Unibet: 1 2.00 · X 3.90 · 2 2.55 (sin margen 44%/22%/34%) · ventaja +3%. Sin stake hasta demostrar ROI con estas cuotas."
-   ],
    "context": "EA FC Esoccer Battle Maxa vs Ganger_29 (Bundesliga): goles esperados 3.15-2.56, 1X2 51%/19%/29%. Sin cuotas de casa.",
    "captured": "2026-11-05T07:09",
    "version": "c278c07",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "2-1",
+   "result": true,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "D",
@@ -25265,19 +25275,6 @@
    "start": "2026-11-05T07:24:00+00:00",
    "league": "🎮⚽ FC 27 · Premier League 2x6",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 56.678 partidos)",
-    "Goles esperados: Frantsuz 4.61 · v1nniePuh 4.40",
-    "Ganador: Frantsuz 44% · empate 15% · v1nniePuh 41%",
-    "Total: más de 9.5 goles 41% · menos 59%",
-    "Hándicap Frantsuz: −1.5 33% · −2.5 22%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Frantsuz ❌❌❌✅✅ | v1nniePuh ❌✅✅✅❌",
-    "• Partidos: Frantsuz 541 | v1nniePuh 596",
-    "• Liga: Premier League 2x6",
-    "• Unibet: 1 1.95 · X 6.75 · 2 2.10 (sin margen 45%/13%/42%) · ventaja +2%. Sin stake hasta demostrar ROI con estas cuotas."
-   ],
    "context": "EA FC Esoccer Battle Frantsuz vs v1nniePuh (Premier League 2x6): goles esperados 4.61-4.40, 1X2 44%/15%/41%. Sin cuotas de casa.",
    "captured": "2026-11-05T07:09",
    "version": "c278c07",
@@ -25299,19 +25296,6 @@
    "start": "2026-11-05T07:24:00+00:00",
    "league": "🎮⚽ FC 27 · Europa League",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 56.678 partidos)",
-    "Goles esperados: Revange 2.41 · MeLToSik 2.01",
-    "Ganador: Revange 49% · empate 22% · MeLToSik 29%",
-    "Total: más de 4.5 goles 45% · menos 55%",
-    "Hándicap Revange: −1.5 29% · −2.5 15%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Revange ✅✅✅✅❌ | MeLToSik ✅✅✅❌❌",
-    "• Partidos: Revange 548 | MeLToSik 1061",
-    "• Liga: Europa League",
-    "• Unibet: 1 1.72 · X 3.65 · 2 3.45 (sin margen 51%/24%/25%) · ventaja -0%. Sin stake hasta demostrar ROI con estas cuotas."
-   ],
    "context": "EA FC Esoccer Battle Revange vs MeLToSik (Europa League): goles esperados 2.41-2.01, 1X2 49%/22%/29%. Sin cuotas de casa.",
    "captured": "2026-11-05T07:14",
    "version": "db097bd",
@@ -25333,19 +25317,6 @@
    "start": "2026-11-05T07:24:00+00:00",
    "league": "🎮⚽ FC 27 · Europa League",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 56.678 partidos)",
-    "Goles esperados: dm1trena 2.05 · DaVa 3.29",
-    "Ganador: dm1trena 17% · empate 17% · DaVa 66%",
-    "Total: más de 5.5 goles 44% · menos 56%",
-    "Hándicap DaVa: −1.5 45% · −2.5 28%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: dm1trena ➖❌❌✅❌ | DaVa ✅➖❌✅➖",
-    "• Partidos: dm1trena 1005 | DaVa 1124",
-    "• Liga: Europa League",
-    "• Unibet: 1 5.60 · X 3.55 · 2 1.44 (sin margen 15%/24%/60%) · ventaja -2%. Sin stake hasta demostrar ROI con estas cuotas."
-   ],
    "context": "EA FC Esoccer Battle dm1trena vs DaVa (Europa League): goles esperados 2.05-3.29, 1X2 17%/17%/66%. Sin cuotas de casa.",
    "captured": "2026-11-05T07:14",
    "version": "db097bd",
@@ -25367,29 +25338,136 @@
    "start": "2026-11-05T07:18:00+00:00",
    "league": "🎮⚽ FC 27 · Bundesliga",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 56.678 partidos)",
-    "Goles esperados: Totti 2.46 · Tesla 3.92",
-    "Ganador: Totti 17% · empate 15% · Tesla 68%",
-    "Total: más de 6.5 goles 45% · menos 55%",
-    "Hándicap Tesla: −1.5 49% · −2.5 33%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Totti ➖❌❌✅❌ | Tesla ➖❌✅✅✅",
-    "• Partidos: Totti 883 | Tesla 876",
-    "• Liga: Bundesliga",
-    "• Unibet: 1 4.20 · X 4.70 · 2 1.42 (sin margen 21%/18%/61%) · ventaja -4%. Sin stake hasta demostrar ROI con estas cuotas."
-   ],
    "context": "EA FC Esoccer Battle Totti vs Tesla (Bundesliga): goles esperados 2.46-3.92, 1X2 17%/15%/68%. Sin cuotas de casa.",
    "captured": "2026-11-05T07:14",
    "version": "db097bd",
+   "bajas": "",
+   "considered": true,
+   "placed": false,
+   "score": "2-3",
+   "result": true,
+   "close_p": null,
+   "logged": true
+  },
+  {
+   "market": "t2",
+   "team_id": 25655,
+   "pick": "B.LINE",
+   "odds": 2.05,
+   "book": "Thunderpick",
+   "p": 0.588,
+   "implied": 0.45,
+   "edge": 0.206,
+   "key": "cs2|133453",
+   "match": "Dynamo Eclot Phoenix vs B.LINE",
+   "start": "2026-11-06T19:30:00+00:00",
+   "league": "🎮 CS2 · MČR 2026",
+   "sport": "🎮",
+   "info": [
+    "📊 <b>Escenarios</b> (Elo por mapa, 76.485 partidos)",
+    "Mapa: Dynamo Eclot Phoenix 34% · Serie BO3: Dynamo Eclot Phoenix 27% - 73% B.LINE",
+    "Casas: Dynamo Eclot Phoenix 55% · B.LINE 45%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Elo: Dynamo Eclot Phoenix 1226 (5 series) | B.LINE 1399 (1 series)",
+    "• Forma: Dynamo Eclot Phoenix ❌❌❌❌❌ | B.LINE ❌",
+    "• H2H: sin precedentes",
+    "• Torneo: MČR 2026 (nivel C)",
+    "• Cambios de plantilla: Dynamo Eclot Phoenix, B.LINE",
+    "",
+    "🧩 <b>Marcador exacto «gana + más de 2.5 mapas»</b> (son opciones alternativas: como mucho UNA; solo información, sin stake)",
+    "• Dynamo Eclot Phoenix gana 2-1: 13% → cuota justa 7.72",
+    "• B.LINE gana 2-1: 25% → cuota justa 4.05"
+   ],
+   "context": "CS2 Dynamo Eclot Phoenix vs B.LINE, BO3, torneo MČR 2026 nivel c. Elo por mapa 1226 vs 1399 (prob. mapa 34%, serie 27%). Forma ❌❌❌❌❌ / ❌ (✅ victoria ❌ derrota). H2H sin precedentes. Cambios de plantilla: Dynamo Eclot Phoenix, B.LINE. Cuotas Thunderpick 1.68/2.05.",
+   "captured": "2026-11-05T07:39",
+   "version": "12b94bc",
+   "bajas": "",
+   "considered": true,
+   "ai": {
+    "apostar": true,
+    "motivo": "B.LINE supera claramente en Elo y muestra mejor momento de forma que Dynamo Eclot Phoenix, ofreciendo una cuota de 2.05 con un valor matemático del 21%.",
+    "confianza": 4,
+    "modelo": "gemini-flash-lite-latest"
+   },
+   "placed": true
+  },
+  {
+   "market": "H",
+   "pick": "Totti",
+   "odds": 2.28,
+   "book": "Unibet",
+   "implied": 0.382,
+   "edge": 0.045,
+   "sin_stake": true,
+   "p": 0.458,
+   "key": "fc|2364447",
+   "match": "Totti vs Ganger_29",
+   "start": "2026-11-05T07:40:00+00:00",
+   "league": "🎮⚽ FC 27 · Ligue 1",
+   "sport": "🎮⚽",
+   "context": "EA FC Esoccer Battle Totti vs Ganger_29 (Ligue 1): goles esperados 2.92-2.62, 1X2 46%/20%/34%. Sin cuotas de casa.",
+   "captured": "2026-11-05T07:39",
+   "version": "12b94bc",
+   "bajas": "",
+   "considered": true
+  },
+  {
+   "market": "A",
+   "pick": "Taz",
+   "odds": 1.97,
+   "book": "Unibet",
+   "implied": 0.444,
+   "edge": -0.074,
+   "sin_stake": true,
+   "p": 0.47,
+   "key": "fc|2364448",
+   "match": "Maxa vs Taz",
+   "start": "2026-11-05T07:40:00+00:00",
+   "league": "🎮⚽ FC 27 · Ligue 1",
+   "sport": "🎮⚽",
+   "context": "EA FC Esoccer Battle Maxa vs Taz (Ligue 1): goles esperados 3.28-3.63, 1X2 35%/18%/47%. Sin cuotas de casa.",
+   "captured": "2026-11-05T07:39",
+   "version": "12b94bc",
+   "bajas": "",
+   "considered": true
+  },
+  {
+   "market": "H",
+   "pick": "Kril",
+   "odds": 1.22,
+   "book": "cuota justa (sin casa)",
+   "implied": 0.823,
+   "edge": 0.0,
+   "p": 0.823,
+   "key": "fc|2363447",
+   "match": "Kril vs Fireline",
+   "start": "2026-11-05T09:06:00+00:00",
+   "league": "🎮⚽ FC 27 · Volta World Cup B",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 56.698 partidos)",
+    "Goles esperados: Kril 4.81 · Fireline 2.28",
+    "Ganador: Kril 82% · empate 10% · Fireline 8%",
+    "Total: más de 7.5 goles 42% · menos 58%",
+    "Hándicap Kril: −1.5 65% · −2.5 50%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Kril ✅❌✅✅✅ | Fireline ❌❌❌➖❌",
+    "• Partidos: Kril 285 | Fireline 88",
+    "• Liga: Volta World Cup B",
+    "• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta)."
+   ],
+   "context": "EA FC Esoccer Battle Kril vs Fireline (Volta World Cup B): goles esperados 4.81-2.28, 1X2 82%/10%/8%. Sin cuotas de casa.",
+   "captured": "2026-11-05T07:39",
+   "version": "12b94bc",
    "bajas": "",
    "considered": true,
    "placed": false
   }
  ],
  "bank": {
-  "balance": 83.06,
+  "balance": 81.99,
   "bets": [
    {
     "date": "2026-11-01",
@@ -25812,11 +25890,24 @@
     "desc": "BORRACHEIROS vs ALKA → Gana BORRACHEIROS",
     "status": "ganada",
     "return": 2.67
+   },
+   {
+    "date": "2026-11-05",
+    "legs": [
+     [
+      "cs2|133453",
+      "t2"
+     ]
+    ],
+    "stake": 1.07,
+    "odds": 2.05,
+    "desc": "Dynamo Eclot Phoenix vs B.LINE → Gana B.LINE",
+    "status": "abierta"
    }
   ]
  },
  "scoreboard_id": 156,
- "scoreboard_text": "📊 <b>MARCADOR DEL BOT</b>\n━━━━━━━━━━━━━━━\n🟩 Ganadas: <b>10</b> (40 %)\n🟥 Perdidas: <b>15</b> (60 %)\n⏳ En juego: 3\n\nÚltimas 25:\n🟥🟥🟥🟩🟥🟩🟥🟥🟥🟥🟥🟥🟥🟥🟩🟥🟥🟩🟩🟩🟩🟩🟥🟩🟩\n━━━━━━━━━━━━━━━\n💵 Beneficio -12.68 $ · ROI -26.0 %\n📐 CLV medio +2.5 % (cuota cogida vs cierre)\n💰 Banca: <b>87.32 €</b> (-12.68 € desde 100 €) · libre 83.06 €{\"inline_keyboard\": [[{\"text\": \"\\ud83d\\udcc8 Ver historial completo y fallos\", \"url\": \"https://github.com/STAMFORD313/analista313/blob/main/ESTADISTICAS.md\"}], [{\"text\": \"\\u26bd F\\u00fatbol\", \"callback_data\": \"dep:futbol\"}, {\"text\": \"\\ud83c\\udfc0 NBA\\u00b7NCAA\", \"callback_data\": \"dep:nba\"}, {\"text\": \"\\ud83c\\udfc8 NFL\\u00b7NCAA\", \"callback_data\": \"dep:nfl\"}], [{\"text\": \"\\ud83c\\udfc6 Champions\\u00b7Europa\", \"callback_data\": \"dep:europa\"}, {\"text\": \"\\ud83c\\udfd2 NHL\", \"callback_data\": \"dep:nhl\"}, {\"text\": \"\\u26be MLB\", \"callback_data\": \"dep:mlb\"}], [{\"text\": \"\\ud83e\\udd4a UFC\", \"callback_data\": \"dep:ufc\"}, {\"text\": \"\\ud83c\\udfbe Tenis\", \"callback_data\": \"dep:tenis\"}, {\"text\": \"\\ud83c\\udfae CS2\", \"callback_data\": \"dep:cs2\"}], [{\"text\": \"\\ud83d\\udc09 Dota 2\", \"callback_data\": \"dep:dota2\"}, {\"text\": \"\\ud83e\\uddd9 LoL\", \"callback_data\": \"dep:lol\"}, {\"text\": \"\\ud83d\\udd2b R6 Siege\", \"callback_data\": \"dep:r6\"}], [{\"text\": \"\\ud83d\\udcf1 MLBB\", \"callback_data\": \"dep:mlbb\"}, {\"text\": \"\\ud83c\\udfae\\u26bd FC 27\", \"callback_data\": \"dep:fc\"}]]}",
+ "scoreboard_text": "📊 <b>MARCADOR DEL BOT</b>\n━━━━━━━━━━━━━━━\n🟩 Ganadas: <b>10</b> (40 %)\n🟥 Perdidas: <b>15</b> (60 %)\n⏳ En juego: 4\n\nÚltimas 25:\n🟥🟥🟥🟩🟥🟩🟥🟥🟥🟥🟥🟥🟥🟥🟩🟥🟥🟩🟩🟩🟩🟩🟥🟩🟩\n━━━━━━━━━━━━━━━\n💵 Beneficio -12.68 $ · ROI -26.0 %\n📐 CLV medio +2.5 % (cuota cogida vs cierre)\n💰 Banca: <b>87.32 €</b> (-12.68 € desde 100 €) · libre 81.99 €{\"inline_keyboard\": [[{\"text\": \"\\ud83d\\udcc8 Ver historial completo y fallos\", \"url\": \"https://github.com/STAMFORD313/analista313/blob/main/ESTADISTICAS.md\"}], [{\"text\": \"\\u26bd F\\u00fatbol\", \"callback_data\": \"dep:futbol\"}, {\"text\": \"\\ud83c\\udfc0 NBA\\u00b7NCAA\", \"callback_data\": \"dep:nba\"}, {\"text\": \"\\ud83c\\udfc8 NFL\\u00b7NCAA\", \"callback_data\": \"dep:nfl\"}], [{\"text\": \"\\ud83c\\udfc6 Champions\\u00b7Europa\", \"callback_data\": \"dep:europa\"}, {\"text\": \"\\ud83c\\udfd2 NHL\", \"callback_data\": \"dep:nhl\"}, {\"text\": \"\\u26be MLB\", \"callback_data\": \"dep:mlb\"}], [{\"text\": \"\\ud83e\\udd4a UFC\", \"callback_data\": \"dep:ufc\"}, {\"text\": \"\\ud83c\\udfbe Tenis\", \"callback_data\": \"dep:tenis\"}, {\"text\": \"\\ud83c\\udfae CS2\", \"callback_data\": \"dep:cs2\"}], [{\"text\": \"\\ud83d\\udc09 Dota 2\", \"callback_data\": \"dep:dota2\"}, {\"text\": \"\\ud83e\\uddd9 LoL\", \"callback_data\": \"dep:lol\"}, {\"text\": \"\\ud83d\\udd2b R6 Siege\", \"callback_data\": \"dep:r6\"}], [{\"text\": \"\\ud83d\\udcf1 MLBB\", \"callback_data\": \"dep:mlbb\"}, {\"text\": \"\\ud83c\\udfae\\u26bd FC 27\", \"callback_data\": \"dep:fc\"}]]}",
  "fc_sent": "2026-11-05T07:09:36.792320+00:00",
  "sgp": {},
  "combo_sent": "2026-11-03T19:29:18.780644+00:00",
