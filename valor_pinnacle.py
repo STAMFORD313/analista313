@@ -19,6 +19,9 @@ MIN_EDGE, MAX_ODDS, HOURS = 0.03, 2.5, 36
 SPORT = "⚽💎"  # segmento propio en la banca y en estrategias.py (no se mezcla con el 1X2 del modelo)
 
 
+MAX_EDGE = 0.25  # más ventaja que esto frente a Pinnacle no existe en la práctica: equipo mal emparejado o cuota caducada
+
+
 def fair_rows(now):
     import pinnacle
     d = pinnacle.read("futbol")
@@ -52,11 +55,13 @@ def candidates(now=None, uni=None, min_edge=MIN_EDGE, max_odds=MAX_ODDS):
                 if o > u["odds"].get(mm, 0): u["odds"][mm], u["books"][mm] = o, (e.get("books") or {}).get(mm, e.get("book", "?"))
         matched += 1
         inv = {"H": 1 / r.o_home, "D": 1 / r.o_draw, "A": 1 / r.o_away}; tot = sum(inv.values())
-        edges += [u["odds"][m] * inv[m] / tot - 1 for m in "HDA"]
+        edges += [(u["odds"][m] * inv[m] / tot - 1, f"{r.home}-{r.away} {m} {u['books'].get(m)} {u['odds'][m]:.2f} vs justo {tot / inv[m]:.2f}")
+                  for m in "HDA" if m in u["odds"]]
         for m, name in (("H", r.home), ("D", "Empate"), ("A", r.away)):
+            if m not in u["odds"]: continue
             p, o = inv[m] / tot, u["odds"][m]
             edge = o * p - 1
-            if edge < min_edge or o > max_odds: continue
+            if edge < min_edge or o > max_odds or edge > MAX_EDGE: continue  # > MAX_EDGE: casi siempre dato malo
             book = (u.get("books") or {}).get(m, u.get("book", "Unibet"))
             out.append({"key": f"vp|{t:%Y-%m-%d}|{r.home}|{r.away}", "market": m, "pick": name, "odds": round(o, 2), "book": book,
                         "p": round(p, 4), "implied": round(p, 4), "edge": round(edge, 4), "match": f"{r.home} vs {r.away}",
@@ -64,8 +69,11 @@ def candidates(now=None, uni=None, min_edge=MIN_EDGE, max_odds=MAX_ODDS):
                         "info": [f"💎 <b>Valor contra Pinnacle</b>: {book} paga {o:.2f} y el precio justo de Pinnacle es {1 / p:.2f} "
                                  f"(ventaja {edge:+.1%})", "Backtest 2015-2026 (cuota ≤ 2.5, > 3 %): ROI +11 % ± 3 %, CLV +5 %."],
                         "context": f"{r.home} vs {r.away} ({r.league}). Estrategia de valor: {book} {o:.2f} frente a Pinnacle justo {1 / p:.2f}."})
-    if edges: print(f"valor Pinnacle: {len(pin)} partidos de Pinnacle, {len(uni)} de las casas (Kambi + Smarkets), {matched} emparejados; "
-                    f"ventaja de la mejor casa: mediana {sorted(edges)[len(edges) // 2]:+.1%}, máxima {max(edges):+.1%}")
+    if edges:
+        ev = sorted(e for e, _ in edges)
+        print(f"valor Pinnacle: {len(pin)} partidos de Pinnacle, {len(uni)} de las casas (Kambi + Smarkets), {matched} emparejados; "
+              f"ventaja de la mejor casa: mediana {ev[len(ev) // 2]:+.1%}, máxima {ev[-1]:+.1%}")
+        print("  mayores:", " | ".join(f"{e:+.0%} {d}" for e, d in sorted(edges, key=lambda x: -x[0])[:4]))
     else: print(f"valor Pinnacle: {len(pin)} partidos de Pinnacle, {len(uni)} de Unibet, 0 emparejados")
     return out
 
