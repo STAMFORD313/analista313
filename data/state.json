@@ -1758,7 +1758,11 @@
   "cs2|133096",
   "fc|2364388",
   "fc|2364792",
-  "fc|2364510"
+  "fc|2364510",
+  "atp|2026-11-06|Ben Shelton|Tommy Paul",
+  "fc|2364794",
+  "fc|2364656",
+  "fc|2364514"
  ],
  "signals": [
   {
@@ -26654,6 +26658,41 @@
    "context": "EA FC Esoccer Battle w1nkos vs Rodja (Serie A): goles esperados 3.17-2.86, 1X2 47%/19%/34%. Sin cuotas de casa.",
    "captured": "2026-11-05T13:47",
    "version": "4fba141",
+   "bajas": "",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "D",
+   "pick": "Empate",
+   "odds": 4.75,
+   "book": "Unibet",
+   "implied": 0.184,
+   "edge": 0.056,
+   "sin_stake": true,
+   "p": 0.222,
+   "key": "fc|2364656",
+   "match": "Jankulovski vs pikalicaaa",
+   "start": "2026-11-05T15:13:00+00:00",
+   "league": "🎮⚽ FC 27 · Europa League",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 57.076 partidos)",
+    "Goles esperados: Jankulovski 2.39 · pikalicaaa 2.34",
+    "Ganador: Jankulovski 41% · empate 22% · pikalicaaa 36%",
+    "Total: más de 4.5 goles 51% · menos 49%",
+    "Hándicap Jankulovski: −1.5 25% · −2.5 12%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Jankulovski ❌❌❌✅✅ | pikalicaaa ➖✅✅✅❌",
+    "• Partidos: Jankulovski 768 | pikalicaaa 567",
+    "• Liga: Europa League",
+    "• Unibet: 1 1.90 · X 4.75 · 2 2.45 (sin margen 46%/18%/36%) · ventaja +6%. Sin stake hasta demostrar ROI con estas cuotas.",
+    "• En España: LeoVegas España 4.75 (+6%) · Paf España 4.75 (+6%)"
+   ],
+   "context": "EA FC Esoccer Battle Jankulovski vs pikalicaaa (Europa League): goles esperados 2.39-2.34, 1X2 41%/22%/36%. Sin cuotas de casa.",
+   "captured": "2026-11-05T14:22",
+   "version": "69b5531",
    "bajas": "",
    "considered": true,
    "placed": false
