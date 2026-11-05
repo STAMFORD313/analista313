@@ -1,6 +1,25 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 05/11/2026 15:22 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 05/11/2026 15:45 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+
+## Jankulovski vs Firminho — 05/11 · 15:49
+
+👀 candidata · 🎮⚽ FC 27 · Europa League · **Empate** @ **5.30** (Unibet) · prob 21% vs casas 16% · ventaja +9%
+
+- ❌ Valor: ventaja +9% (mín. 11% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 57.116 partidos)  
+Goles esperados: Jankulovski 2.36 · Firminho 3.06  
+Ganador: Jankulovski 24% · empate 21% · Firminho 55%  
+Total: más de 5.5 goles 46% · menos 54%  
+Hándicap Firminho: −1.5 36% · −2.5 21%  
+🔎 **Claves**  
+• Forma: Jankulovski ❌❌❌✅✅ | Firminho ➖✅❌❌✅  
+• Partidos: Jankulovski 768 | Firminho 712  
+• Liga: Europa League  
+• Unibet: 1 3.95 · X 5.30 · 2 1.40 (sin margen 22%/16%/62%) · ventaja +9%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 5.30 (+9%) · Paf España 5.30 (+9%)  
 
 ## w1nkos vs Rodja — 05/11 · 15:58
 

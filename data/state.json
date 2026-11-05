@@ -959,6 +959,7 @@
   "wta|2026-11-06|Anna Blinkova|Yasmine Kabbaj",
   "wta|2026-11-06|Mai Hontama|Magda Linette",
   "wta|2026-11-06|Antonia Ruzic|Alexandra Eala",
+  "atp|2026-11-06|Ben Shelton|Tommy Paul",
   "cs2|132573",
   "cs2|132574",
   "cs2|132578",
@@ -1759,10 +1760,13 @@
   "fc|2364388",
   "fc|2364792",
   "fc|2364510",
-  "atp|2026-11-06|Ben Shelton|Tommy Paul",
   "fc|2364794",
   "fc|2364656",
-  "fc|2364514"
+  "fc|2364514",
+  "wta|2026-11-06|Justina Mikulskyte|Noma Noha Akugue",
+  "fc|2364657",
+  "fc|2364651",
+  "fc|2364654"
  ],
  "signals": [
   {
@@ -25725,7 +25729,11 @@
    "version": "ee7caed",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "2-0",
+   "close_p": 0.5,
+   "logged": true
   },
   {
    "market": "D",
@@ -26575,7 +26583,11 @@
    "version": "8aae8c6",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "3-5",
+   "result": false,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "H",
@@ -26693,6 +26705,41 @@
    "context": "EA FC Esoccer Battle Jankulovski vs pikalicaaa (Europa League): goles esperados 2.39-2.34, 1X2 41%/22%/36%. Sin cuotas de casa.",
    "captured": "2026-11-05T14:22",
    "version": "69b5531",
+   "bajas": "",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "D",
+   "pick": "Empate",
+   "odds": 5.3,
+   "book": "Unibet",
+   "implied": 0.163,
+   "edge": 0.091,
+   "sin_stake": true,
+   "p": 0.206,
+   "key": "fc|2364651",
+   "match": "Jankulovski vs Firminho",
+   "start": "2026-11-05T14:49:00+00:00",
+   "league": "🎮⚽ FC 27 · Europa League",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 57.116 partidos)",
+    "Goles esperados: Jankulovski 2.36 · Firminho 3.06",
+    "Ganador: Jankulovski 24% · empate 21% · Firminho 55%",
+    "Total: más de 5.5 goles 46% · menos 54%",
+    "Hándicap Firminho: −1.5 36% · −2.5 21%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Jankulovski ❌❌❌✅✅ | Firminho ➖✅❌❌✅",
+    "• Partidos: Jankulovski 768 | Firminho 712",
+    "• Liga: Europa League",
+    "• Unibet: 1 3.95 · X 5.30 · 2 1.40 (sin margen 22%/16%/62%) · ventaja +9%. Sin stake hasta demostrar ROI con estas cuotas.",
+    "• En España: LeoVegas España 5.30 (+9%) · Paf España 5.30 (+9%)"
+   ],
+   "context": "EA FC Esoccer Battle Jankulovski vs Firminho (Europa League): goles esperados 2.36-3.06, 1X2 24%/21%/55%. Sin cuotas de casa.",
+   "captured": "2026-11-05T14:45",
+   "version": "846f3c1",
    "bajas": "",
    "considered": true,
    "placed": false
