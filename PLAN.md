@@ -12,7 +12,8 @@ Informe al usuario: una línea por mejora con 🟢 (conseguido) o 🔴 (no mejor
 - [ ] Esports/FC 27 vs casa: repetir con ≥ 200 partidos (CS2/Dota) y ≥ 600 (FC 27); si el modelo bate a la casa en 2 mitades, quitar sin_stake.
 - [x] Esports: Unibet como 2.ª casa (cuotas de CS2/LoL/Dota/Valorant) → más partidos con cuota real y mejor cuota.
 - [x] Esports: sondeo → bo3.gg solo tiene CS2/LoL/Dota/R6/MLBB (ya cubiertas); Unibet además CoD, Overwatch 2, Honor of Kings (sin fuente gratuita de resultados).
-- [ ] Props: con ≥ 200 liquidadas, decidir por estadística (NBA y fútbol) si se apuestan (ROI − 2 e.t. > 0).
+- [x] Props de fútbol (nov 2026, 753 titulares liquidadas): NO se apuestan. ROI apostando todas −38.5 % ± 9.4 %; las que el modelo ve con valor (15) −74 %. Unibet cobra un margen enorme en «sí» sin «no».
+- [ ] Props NBA: aún 0 liquidadas (data/nba/props_log.csv vacío); decidir con ≥ 200.
 - [x] Fútbol: más ligas de ESPN en espn_soccer.LEAGUES (las 11 «nuevas» del bot).
 - [ ] Fútbol: modelo de estadísticas (córners/tarjetas/tiros) para las 11 ligas nuevas con los datos de ESPN.
 - [x] Fútbol: portero → córners descartado (sin efecto). Árbitro: ESPN solo lo publica en ~20 %; reintentar con más historial.

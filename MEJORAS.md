@@ -182,3 +182,4 @@
 - 2026-11-05: CLV en las simuladas: cada pierna de ganador de fútbol liquidada guarda cuota × cierre de Pinnacle sin margen − 1; el resumen da la media (métrica de si el bot coge buenos precios).
 - 2026-11-05: Pinnacle sin juveniles/reservas/femenino (281 de 2061 filas): los nombraba igual que al primer equipo y podían emparejarse con el partido de los mayores (ventajas y CLV falsos; máxima vista +56.6 %).
 - 2026-11-05: revisadas las ventajas extremas contra Pinnacle (+44 %, +26 %, +21 %): todas son de Smarkets en el visitante muy poco favorito (cuotas 9.8-16.7, poco dinero ofrecido); se descartan las ventajas > 25 % y ya quedaban fuera por cuota > 2.5. No es un error de emparejamiento.
+- 2026-11-05: decisión props de fútbol con 753 titulares liquidadas: no se apuestan (ROI −38.5 % ± 9.4 % todas; −74 % en las 15 con valor del modelo). NBA aún sin liquidadas.
