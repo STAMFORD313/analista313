@@ -1,25 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 05/11/2026 13:22 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## dm1trena vs Revange — 05/11 · 13:40
-
-👀 candidata · 🎮⚽ FC 27 · LaLiga · **Gana dm1trena** @ **3.60** (Unibet) · prob 33% vs casas 24% · ventaja +18%
-
-- ✅ Valor: ventaja +18% (mín. 13% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 56.956 partidos)  
-Goles esperados: dm1trena 2.36 · Revange 2.70  
-Ganador: dm1trena 33% · empate 21% · Revange 46%  
-Total: más de 5.5 goles 40% · menos 60%  
-Hándicap Revange: −1.5 30% · −2.5 16%  
-🔎 **Claves**  
-• Forma: dm1trena ❌✅➖❌➖ | Revange ✅❌❌✅❌  
-• Partidos: dm1trena 1021 | Revange 564  
-• Liga: LaLiga  
-• Unibet: 1 3.60 · X 3.50 · 2 1.72 (sin margen 24%/25%/51%) · ventaja +18%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 3.60 (+18%) · Paf España 3.60 (+18%)  
+Actualizado 05/11/2026 13:42 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## why vs goldfer — 05/11 · 13:44
 
