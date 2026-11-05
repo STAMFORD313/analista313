@@ -1,9 +1,4 @@
 matchup,start,league,home,away,market,line,o_home,o_away,o_draw,o_over,o_under,seen
-1639891376,2026-11-04 13:00:00+00:00,ITF Women Neuquen - R1,Maria Jose Sanchez Uribe,Luciana Agudelo,spread,-1.5,1.5917,2.38,,,,2026-11-04 12:05:02.164515+00:00
-1639891376,2026-11-04 13:00:00+00:00,ITF Women Neuquen - R1,Maria Jose Sanchez Uribe,Luciana Agudelo,total,2.5,,,,3.57,1.3021,2026-11-04 12:05:02.164515+00:00
-1639894914,2026-11-04 11:30:00+00:00,ITF Women Heraklion - R2,Valentini Grammatikopoulou,Nuria Brancaccio,moneyline,,2.82,1.4444,,,,2026-11-04 12:05:02.164515+00:00
-1639894914,2026-11-04 11:30:00+00:00,ITF Women Heraklion - R2,Valentini Grammatikopoulou,Nuria Brancaccio,spread,1.5,1.7407,2.11,,,,2026-11-04 12:05:02.164515+00:00
-1639894914,2026-11-04 11:30:00+00:00,ITF Women Heraklion - R2,Valentini Grammatikopoulou,Nuria Brancaccio,total,2.5,,,,2.62,1.5,2026-11-04 12:05:02.164515+00:00
 1639821444,2026-11-04 13:15:00+00:00,ATP Paris - R2,Alexander Zverev,Lorenzo Musetti,moneyline,,1.4348,3.01,,,,2026-11-04 12:05:02.164515+00:00
 1639821444,2026-11-04 13:15:00+00:00,ATP Paris - R2,Alexander Zverev,Lorenzo Musetti,spread,-1.5,2.09,1.8065,,,,2026-11-04 12:05:02.164515+00:00
 1639821444,2026-11-04 13:15:00+00:00,ATP Paris - R2,Alexander Zverev,Lorenzo Musetti,total,2.5,,,,2.61,1.5376,2026-11-04 12:05:02.164515+00:00
@@ -11,35 +6,16 @@ matchup,start,league,home,away,market,line,o_home,o_away,o_draw,o_over,o_under,s
 1639894885,2026-11-04 11:57:00+00:00,ITF Men Heraklion - R1,Matias Reyniak,Petros Tsitsipas,moneyline,,1.9524,1.8621,,,,2026-11-04 12:05:02.164515+00:00
 1639894885,2026-11-04 11:57:00+00:00,ITF Men Heraklion - R1,Matias Reyniak,Petros Tsitsipas,spread,1.5,1.4329,2.86,,,,2026-11-04 12:05:02.164515+00:00
 1639894885,2026-11-04 11:57:00+00:00,ITF Men Heraklion - R1,Matias Reyniak,Petros Tsitsipas,total,2.5,,,,2.54,1.5319,2026-11-04 12:05:02.164515+00:00
-1639862819,2026-11-04 12:00:00+00:00,ITF Women Szabolcsveresmart - R1,Anna Boron,Lea Fojcik,moneyline,,1.7463,2.11,,,,2026-11-04 12:05:02.164515+00:00
-1639862819,2026-11-04 12:00:00+00:00,ITF Women Szabolcsveresmart - R1,Anna Boron,Lea Fojcik,spread,-1.5,2.59,1.5128,,,,2026-11-04 12:05:02.164515+00:00
-1639862819,2026-11-04 12:00:00+00:00,ITF Women Szabolcsveresmart - R1,Anna Boron,Lea Fojcik,total,2.5,,,,2.66,1.4878,2026-11-04 12:05:02.164515+00:00
 1639892886,2026-11-04 13:00:00+00:00,ITF Men Valencia - R1,Michiel De Krom,Enrique Carrascosa Diaz,moneyline,,1.5714,2.43,,,,2026-11-04 12:05:02.164515+00:00
 1639892886,2026-11-04 13:00:00+00:00,ITF Men Valencia - R1,Michiel De Krom,Enrique Carrascosa Diaz,spread,-1.5,2.29,1.6369,,,,2026-11-04 12:05:02.164515+00:00
 1639892886,2026-11-04 13:00:00+00:00,ITF Men Valencia - R1,Michiel De Krom,Enrique Carrascosa Diaz,total,2.5,,,,2.65,1.4926,2026-11-04 12:05:02.164515+00:00
-1639891380,2026-11-04 16:00:00+00:00,ITF Women Neuquen - R1,Ana Julieta Lopez Ocampos,Justina Gonzalez Daniele,moneyline,,23.02,1.0138,,,,2026-11-04 12:05:02.164515+00:00
 1639892889,2026-11-04 11:57:00+00:00,ITF Men Heraklion - R1,Tomas Curras Abasolo,Robert Guna,moneyline,,2.09,1.7576,,,,2026-11-04 12:05:02.164515+00:00
 1639892889,2026-11-04 11:57:00+00:00,ITF Men Heraklion - R1,Tomas Curras Abasolo,Robert Guna,spread,1.5,1.4902,2.66,,,,2026-11-04 12:05:02.164515+00:00
 1639892889,2026-11-04 11:57:00+00:00,ITF Men Heraklion - R1,Tomas Curras Abasolo,Robert Guna,total,2.5,,,,2.58,1.5155,2026-11-04 12:05:02.164515+00:00
 1639894858,2026-11-04 12:03:38+00:00,ATP Paris - R2,Tommy Paul,Daniel Merida Aguilar,moneyline,,1.2096,4.95,,,,2026-11-04 12:05:02.164515+00:00
 1639894858,2026-11-04 12:03:38+00:00,ATP Paris - R2,Tommy Paul,Daniel Merida Aguilar,spread,-1.5,1.7246,2.2,,,,2026-11-04 12:05:02.164515+00:00
 1639894858,2026-11-04 12:03:38+00:00,ATP Paris - R2,Tommy Paul,Daniel Merida Aguilar,total,2.5,,,,2.81,1.4762,2026-11-04 12:05:02.164515+00:00
-1639891333,2026-11-04 11:30:00+00:00,ITF Women Heraklion - R2,Carlota Martinez Cirez,Daria Yesypchuk,moneyline,,2.22,1.6757,,,,2026-11-04 12:05:02.164515+00:00
-1639891333,2026-11-04 11:30:00+00:00,ITF Women Heraklion - R2,Carlota Martinez Cirez,Daria Yesypchuk,spread,1.5,1.5025,2.62,,,,2026-11-04 12:05:02.164515+00:00
-1639891333,2026-11-04 11:30:00+00:00,ITF Women Heraklion - R2,Carlota Martinez Cirez,Daria Yesypchuk,total,2.5,,,,2.48,1.5525,2026-11-04 12:05:02.164515+00:00
 1639806464,2026-11-04 11:30:00+00:00,WTA 125k Luanda - Doubles,Maayan Laron / Madhurima Sawant,Farah Heddar / Emma Van Poppel,moneyline,,1.2439,3.7,,,,2026-11-04 12:05:02.164515+00:00
-1639862816,2026-11-04 12:00:00+00:00,ITF Women Szabolcsveresmart - R1,Tamara Sramkova,Viktoria Varga,moneyline,,3.97,1.2558,,,,2026-11-04 12:05:02.164515+00:00
-1639862816,2026-11-04 12:00:00+00:00,ITF Women Szabolcsveresmart - R1,Tamara Sramkova,Viktoria Varga,spread,1.5,2.28,1.641,,,,2026-11-04 12:05:02.164515+00:00
-1639862816,2026-11-04 12:00:00+00:00,ITF Women Szabolcsveresmart - R1,Tamara Sramkova,Viktoria Varga,total,2.5,,,,3.35,1.3344,2026-11-04 12:05:02.164515+00:00
-1639854163,2026-11-04 12:01:00+00:00,ITF Women Liberec - R1,Pia Lovric,Tena Lukas,moneyline,,1.5747,2.42,,,,2026-11-04 12:05:02.164515+00:00
-1639854163,2026-11-04 12:01:00+00:00,ITF Women Liberec - R1,Pia Lovric,Tena Lukas,spread,-1.5,2.41,1.578,,,,2026-11-04 12:05:02.164515+00:00
-1639854163,2026-11-04 12:01:00+00:00,ITF Women Liberec - R1,Pia Lovric,Tena Lukas,total,2.5,,,,2.43,1.5714,2026-11-04 12:05:02.164515+00:00
-1639894889,2026-11-04 11:30:00+00:00,ITF Women Heraklion - R2,Angela Fita Boluda,Angelica Raggi,moneyline,,1.3344,3.35,,,,2026-11-04 12:05:02.164515+00:00
-1639894889,2026-11-04 11:30:00+00:00,ITF Women Heraklion - R2,Angela Fita Boluda,Angelica Raggi,spread,-1.5,1.9091,1.9091,,,,2026-11-04 12:05:02.164515+00:00
-1639894889,2026-11-04 11:30:00+00:00,ITF Women Heraklion - R2,Angela Fita Boluda,Angelica Raggi,total,2.5,,,,2.68,1.4831,2026-11-04 12:05:02.164515+00:00
-1639854990,2026-11-04 13:30:00+00:00,ITF Women Liberec - R1,Iva Primorac,Eva Marie Voracek,moneyline,,1.4149,2.93,,,,2026-11-04 12:05:02.164515+00:00
-1639854990,2026-11-04 13:30:00+00:00,ITF Women Liberec - R1,Iva Primorac,Eva Marie Voracek,spread,-1.5,1.9174,1.9009,,,,2026-11-04 12:05:02.164515+00:00
-1639854990,2026-11-04 13:30:00+00:00,ITF Women Liberec - R1,Iva Primorac,Eva Marie Voracek,total,2.5,,,,3.02,1.3953,2026-11-04 12:05:02.164515+00:00
 1639870282,2026-11-04 12:00:00+00:00,WTA 125k Luanda - R16,Isabella Shinikova,Gina Feistel,moneyline,,2.75,1.4717,,,,2026-11-04 12:05:02.164515+00:00
 1639870282,2026-11-04 12:00:00+00:00,WTA 125k Luanda - R16,Isabella Shinikova,Gina Feistel,spread,1.5,1.7246,2.16,,,,2026-11-04 12:05:02.164515+00:00
 1639870282,2026-11-04 12:00:00+00:00,WTA 125k Luanda - R16,Isabella Shinikova,Gina Feistel,total,2.5,,,,2.57,1.5319,2026-11-04 12:05:02.164515+00:00
@@ -50,13 +26,9 @@ matchup,start,league,home,away,market,line,o_home,o_away,o_draw,o_over,o_under,s
 1639904704,2026-11-04 14:00:00+00:00,ITF Men Salvador - R16,Enzo Crevelaro,Victor Bini,moneyline,,3.72,1.2833,,,,2026-11-04 13:10:11.519352+00:00
 1639904704,2026-11-04 14:00:00+00:00,ITF Men Salvador - R16,Enzo Crevelaro,Victor Bini,spread,1.5,2.14,1.7246,,,,2026-11-04 13:10:11.519352+00:00
 1639904704,2026-11-04 14:00:00+00:00,ITF Men Salvador - R16,Enzo Crevelaro,Victor Bini,total,2.5,,,,3.06,1.3876,2026-11-04 13:10:11.519352+00:00
-1639862817,2026-11-04 12:00:00+00:00,ITF Women Szabolcsveresmart - R1,Sofia Alekseeva,Greta Fenyves,moneyline,,1.8929,1.9259,,,,2026-11-04 13:10:11.519352+00:00
-1639862817,2026-11-04 12:00:00+00:00,ITF Women Szabolcsveresmart - R1,Sofia Alekseeva,Greta Fenyves,spread,-1.5,2.64,1.495,,,,2026-11-04 13:10:11.519352+00:00
-1639862817,2026-11-04 12:00:00+00:00,ITF Women Szabolcsveresmart - R1,Sofia Alekseeva,Greta Fenyves,total,2.5,,,,2.42,1.5747,2026-11-04 13:10:11.519352+00:00
 1639904710,2026-11-04 13:00:00+00:00,ITF Men Pembroke - R1,Volodymyr Gurenko,Alexander Bernard,moneyline,,4.98,1.1815,,,,2026-11-04 13:10:11.519352+00:00
 1639904710,2026-11-04 13:00:00+00:00,ITF Men Pembroke - R1,Volodymyr Gurenko,Alexander Bernard,spread,1.5,2.58,1.5155,,,,2026-11-04 13:10:11.519352+00:00
 1639904710,2026-11-04 13:00:00+00:00,ITF Men Pembroke - R1,Volodymyr Gurenko,Alexander Bernard,total,2.5,,,,3.44,1.3195,2026-11-04 13:10:11.519352+00:00
-1639891377,2026-11-04 14:00:00+00:00,ITF Women Neuquen - R1,Pilar Da Silva,Fernanda Labrana,moneyline,,11.81,1.0501,,,,2026-11-04 13:10:11.519352+00:00
 1639904593,2026-11-04 13:00:00+00:00,ITF Men Salvador - R16,Victor Braga,Benjamin Torrealba,moneyline,,12.88,1.0439,,,,2026-11-04 13:10:11.519352+00:00
 1639904593,2026-11-04 13:00:00+00:00,ITF Men Salvador - R16,Victor Braga,Benjamin Torrealba,spread,1.5,4.46,1.2141,,,,2026-11-04 13:10:11.519352+00:00
 1639904593,2026-11-04 13:00:00+00:00,ITF Men Salvador - R16,Victor Braga,Benjamin Torrealba,total,2.5,,,,5.18,1.1709,2026-11-04 13:10:11.519352+00:00
@@ -71,22 +43,12 @@ matchup,start,league,home,away,market,line,o_home,o_away,o_draw,o_over,o_under,s
 1639904711,2026-11-04 13:00:00+00:00,ITF Men Pembroke - R1,Alvin Nicholas Tudorica,Kaipo Marshall,spread,-1.5,1.4255,2.89,,,,2026-11-04 13:10:11.519352+00:00
 1639904711,2026-11-04 13:00:00+00:00,ITF Men Pembroke - R1,Alvin Nicholas Tudorica,Kaipo Marshall,total,2.5,,,,3.69,1.2874,2026-11-04 13:10:11.519352+00:00
 1639904701,2026-11-04 13:00:00+00:00,ATP Paris - Doubles,Lucas Miedler / Neil Oberleitner,Arthur Reymond / Luca Sanchez,moneyline,,1.2747,3.74,,,,2026-11-04 13:10:11.519352+00:00
-1639854162,2026-11-04 13:24:00+00:00,ITF Women Liberec - R1,Ida Wobker,Weronika Ewald,moneyline,,1.5348,2.53,,,,2026-11-04 13:10:11.519352+00:00
-1639854162,2026-11-04 13:24:00+00:00,ITF Women Liberec - R1,Ida Wobker,Weronika Ewald,spread,-1.5,2.26,1.6536,,,,2026-11-04 13:10:11.519352+00:00
-1639854162,2026-11-04 13:24:00+00:00,ITF Women Liberec - R1,Ida Wobker,Weronika Ewald,total,2.5,,,,2.74,1.4651,2026-11-04 13:10:11.519352+00:00
-1639855118,2026-11-04 13:00:00+00:00,ITF Women Petange - R1,Julia Avdeeva,Lisa Zaar,moneyline,,1.5236,2.55,,,,2026-11-04 13:10:11.519352+00:00
-1639855118,2026-11-04 13:00:00+00:00,ITF Women Petange - R1,Julia Avdeeva,Lisa Zaar,spread,-1.5,2.32,1.6211,,,,2026-11-04 13:10:11.519352+00:00
-1639855118,2026-11-04 13:00:00+00:00,ITF Women Petange - R1,Julia Avdeeva,Lisa Zaar,total,2.5,,,,2.57,1.5181,2026-11-04 13:10:11.519352+00:00
-1639891376,2026-11-04 14:00:00+00:00,ITF Women Neuquen - R1,Maria Jose Sanchez Uribe,Luciana Agudelo,moneyline,,1.2247,4.32,,,,2026-11-04 13:10:11.519352+00:00
 1639862805,2026-11-04 14:00:00+00:00,ATP Paris - R2,Tomas Martin Etcheverry,Alex De Minaur,moneyline,,5.67,1.1736,,,,2026-11-04 13:10:11.519352+00:00
 1639862805,2026-11-04 14:00:00+00:00,ATP Paris - R2,Tomas Martin Etcheverry,Alex De Minaur,spread,1.5,2.36,1.641,,,,2026-11-04 13:10:11.519352+00:00
 1639862805,2026-11-04 14:00:00+00:00,ATP Paris - R2,Tomas Martin Etcheverry,Alex De Minaur,total,2.5,,,,2.87,1.4587,2026-11-04 13:10:11.519352+00:00
 1639904591,2026-11-04 14:00:00+00:00,ITF Men Salvador - R16,Giovanni Branchetti,Glauco Pinheiro Da Cruz Junior,moneyline,,1.2532,4.0,,,,2026-11-04 13:10:11.519352+00:00
 1639904591,2026-11-04 14:00:00+00:00,ITF Men Salvador - R16,Giovanni Branchetti,Glauco Pinheiro Da Cruz Junior,spread,-1.5,1.5988,2.37,,,,2026-11-04 13:10:11.519352+00:00
 1639904591,2026-11-04 14:00:00+00:00,ITF Men Salvador - R16,Giovanni Branchetti,Glauco Pinheiro Da Cruz Junior,total,2.5,,,,3.44,1.3205,2026-11-04 13:10:11.519352+00:00
-1639891379,2026-11-04 14:30:00+00:00,ITF Women Neuquen - R1,Zoe Doldan,Valentina Abril Bruno,moneyline,,2.51,1.5405,,,,2026-11-04 13:56:52.160053+00:00
-1639891379,2026-11-04 14:30:00+00:00,ITF Women Neuquen - R1,Zoe Doldan,Valentina Abril Bruno,spread,1.5,1.6757,2.22,,,,2026-11-04 13:56:52.160053+00:00
-1639891379,2026-11-04 14:30:00+00:00,ITF Women Neuquen - R1,Zoe Doldan,Valentina Abril Bruno,total,2.5,,,,2.73,1.4673,2026-11-04 13:56:52.160053+00:00
 1639904600,2026-11-04 14:30:00+00:00,ITF Men Salvador - R16,Enzo Lima,Agustin Eduardo Cuellar Lorberg,moneyline,,1.9524,1.8696,,,,2026-11-04 13:56:52.160053+00:00
 1639904600,2026-11-04 14:30:00+00:00,ITF Men Salvador - R16,Enzo Lima,Agustin Eduardo Cuellar Lorberg,spread,1.5,1.4292,2.87,,,,2026-11-04 13:56:52.160053+00:00
 1639904600,2026-11-04 14:30:00+00:00,ITF Men Salvador - R16,Enzo Lima,Agustin Eduardo Cuellar Lorberg,total,2.5,,,,2.61,1.5051,2026-11-04 13:56:52.160053+00:00
@@ -96,15 +58,7 @@ matchup,start,league,home,away,market,line,o_home,o_away,o_draw,o_over,o_under,s
 1639903162,2026-11-04 14:30:00+00:00,ITF Men Salvador - R16,Oscar Jose Gutierrez,Kaua Lorenzo Santos Gava,moneyline,,1.2309,4.24,,,,2026-11-04 13:56:52.160053+00:00
 1639903162,2026-11-04 14:30:00+00:00,ITF Men Salvador - R16,Oscar Jose Gutierrez,Kaua Lorenzo Santos Gava,spread,-1.5,1.5618,2.45,,,,2026-11-04 13:56:52.160053+00:00
 1639903162,2026-11-04 14:30:00+00:00,ITF Men Salvador - R16,Oscar Jose Gutierrez,Kaua Lorenzo Santos Gava,total,2.5,,,,3.66,1.2907,2026-11-04 13:56:52.160053+00:00
-1639891378,2026-11-04 14:30:00+00:00,ITF Women Neuquen - R1,Luna Morini,Josefina Estevez,moneyline,,6.45,1.1235,,,,2026-11-04 13:56:52.160053+00:00
 1639796625,2026-11-04 15:00:00+00:00,WTA Chennai - Doubles,Vaishnavi Adkar / Rutuja Bhosale,Madeleine Brooks / Amelia Rajecki,moneyline,,3.95,1.2591,,,,2026-11-04 13:56:52.160053+00:00
-1639855119,2026-11-04 13:46:00+00:00,ITF Women Petange - R1,Katarina Zavatska,Veronika Podrez,moneyline,,4.01,1.2525,,,,2026-11-04 13:56:52.160053+00:00
-1639855119,2026-11-04 13:46:00+00:00,ITF Women Petange - R1,Katarina Zavatska,Veronika Podrez,spread,1.5,2.16,1.7092,,,,2026-11-04 13:56:52.160053+00:00
-1639855119,2026-11-04 13:46:00+00:00,ITF Women Petange - R1,Katarina Zavatska,Veronika Podrez,total,2.5,,,,2.99,1.4016,2026-11-04 13:56:52.160053+00:00
-1639912399,2026-11-04 14:00:00+00:00,ITF Women Hilton Head Island - R1,Aya El Aouni,Olivia De Los Reyes,moneyline,,1.1073,7.09,,,,2026-11-04 13:56:52.160053+00:00
-1639894891,2026-11-04 11:30:00+00:00,ITF Women Heraklion - R2,Felitsata Dorofeeva-Rybas,Loes Ebeling Koning,moneyline,,1.8264,2.0,,,,2026-11-04 13:56:52.160053+00:00
-1639894891,2026-11-04 11:30:00+00:00,ITF Women Heraklion - R2,Felitsata Dorofeeva-Rybas,Loes Ebeling Koning,spread,-1.5,2.77,1.4566,,,,2026-11-04 13:56:52.160053+00:00
-1639894891,2026-11-04 11:30:00+00:00,ITF Women Heraklion - R2,Felitsata Dorofeeva-Rybas,Loes Ebeling Koning,total,2.5,,,,2.6,1.5076,2026-11-04 13:56:52.160053+00:00
 1639903194,2026-11-04 14:00:00+00:00,ITF Men Hilton Head Island - R1,William Mirarchi,Dylan Jaen,moneyline,,1.2128,4.48,,,,2026-11-04 13:56:52.160053+00:00
 1639903194,2026-11-04 14:00:00+00:00,ITF Men Hilton Head Island - R1,William Mirarchi,Dylan Jaen,spread,-1.5,1.5495,2.48,,,,2026-11-04 13:56:52.160053+00:00
 1639903194,2026-11-04 14:00:00+00:00,ITF Men Hilton Head Island - R1,William Mirarchi,Dylan Jaen,total,2.5,,,,3.62,1.2959,2026-11-04 13:56:52.160053+00:00
@@ -113,7 +67,6 @@ matchup,start,league,home,away,market,line,o_home,o_away,o_draw,o_over,o_under,s
 1639766728,2026-11-04 14:00:00+00:00,ATP Challenger Villa Maria - R1,Franco Agamenone,Ignacio Monzon,spread,-1.5,1.7463,2.13,,,,2026-11-04 13:56:52.160053+00:00
 1639766728,2026-11-04 14:00:00+00:00,ATP Challenger Villa Maria - R1,Franco Agamenone,Ignacio Monzon,total,2.5,,,,2.88,1.4386,2026-11-04 13:56:52.160053+00:00
 1639904599,2026-11-04 14:30:00+00:00,ITF Men Pembroke - R1,Noah Schachter,Tyler Mercier,moneyline,,1.1541,5.55,,,,2026-11-04 13:56:52.160053+00:00
-1639894928,2026-11-04 14:30:00+00:00,ITF Women Neuquen - R1,Berta Bonardi,Maria Sofia Madrid Rocca,moneyline,,1.2242,4.33,,,,2026-11-04 13:56:52.160053+00:00
 1639892865,2026-11-04 14:30:00+00:00,ATP Paris - R2,Novak Djokovic,Rinky Hijikata,moneyline,,1.2155,4.85,,,,2026-11-04 13:56:52.160053+00:00
 1639892865,2026-11-04 14:30:00+00:00,ATP Paris - R2,Novak Djokovic,Rinky Hijikata,spread,-1.5,1.7353,2.19,,,,2026-11-04 13:56:52.160053+00:00
 1639892865,2026-11-04 14:30:00+00:00,ATP Paris - R2,Novak Djokovic,Rinky Hijikata,total,2.5,,,,2.78,1.4831,2026-11-04 13:56:52.160053+00:00
@@ -137,46 +90,19 @@ matchup,start,league,home,away,market,line,o_home,o_away,o_draw,o_over,o_under,s
 1639762670,2026-11-04 14:00:00+00:00,ATP Challenger Villa Maria - R1,Joaquin Aguilar Cardozo,Juan Pablo Ficovich,moneyline,,1.3145,3.54,,,,2026-11-04 13:56:52.160053+00:00
 1639762670,2026-11-04 14:00:00+00:00,ATP Challenger Villa Maria - R1,Joaquin Aguilar Cardozo,Juan Pablo Ficovich,spread,-1.5,1.8264,2.02,,,,2026-11-04 13:56:52.160053+00:00
 1639762670,2026-11-04 14:00:00+00:00,ATP Challenger Villa Maria - R1,Joaquin Aguilar Cardozo,Juan Pablo Ficovich,total,2.5,,,,2.91,1.4292,2026-11-04 13:56:52.160053+00:00
-1639903195,2026-11-04 14:00:00+00:00,ITF Women Hilton Head Island - R1,Emery Combs,Mckenna Schaefbauer,moneyline,,1.2907,3.66,,,,2026-11-04 13:56:52.160053+00:00
-1639903195,2026-11-04 14:00:00+00:00,ITF Women Hilton Head Island - R1,Emery Combs,Mckenna Schaefbauer,spread,-1.5,1.8696,1.9524,,,,2026-11-04 13:56:52.160053+00:00
-1639903195,2026-11-04 14:00:00+00:00,ITF Women Hilton Head Island - R1,Emery Combs,Mckenna Schaefbauer,total,2.5,,,,2.77,1.4566,2026-11-04 13:56:52.160053+00:00
-1639912395,2026-11-04 16:00:00+00:00,ITF Women Orlando - R1,Kristina Penickova,Yaroslava Bartashevich,moneyline,,1.3096,3.52,,,,2026-11-04 15:00:14.073120+00:00
-1639912395,2026-11-04 16:00:00+00:00,ITF Women Orlando - R1,Kristina Penickova,Yaroslava Bartashevich,spread,-1.5,1.813,2.02,,,,2026-11-04 15:00:14.073120+00:00
-1639912395,2026-11-04 16:00:00+00:00,ITF Women Orlando - R1,Kristina Penickova,Yaroslava Bartashevich,total,2.5,,,,2.92,1.4184,2026-11-04 15:00:14.073120+00:00
 1639904626,2026-11-04 15:00:00+00:00,ITF Men Hilton Head Island - R1,Axel Nefve,Anuj Watane,moneyline,,1.2681,3.86,,,,2026-11-04 15:00:14.073120+00:00
 1639904626,2026-11-04 15:00:00+00:00,ITF Men Hilton Head Island - R1,Axel Nefve,Anuj Watane,spread,-1.5,1.6897,2.2,,,,2026-11-04 15:00:14.073120+00:00
 1639904626,2026-11-04 15:00:00+00:00,ITF Men Hilton Head Island - R1,Axel Nefve,Anuj Watane,total,2.5,,,,3.13,1.3717,2026-11-04 15:00:14.073120+00:00
-1639904630,2026-11-04 15:00:00+00:00,ITF Women Hilton Head Island - R1,Ciara Harding,Sophie Williams,moneyline,,1.5376,2.52,,,,2026-11-04 15:00:14.073120+00:00
-1639904630,2026-11-04 15:00:00+00:00,ITF Women Hilton Head Island - R1,Ciara Harding,Sophie Williams,spread,-1.5,2.21,1.6803,,,,2026-11-04 15:00:14.073120+00:00
-1639904630,2026-11-04 15:00:00+00:00,ITF Women Hilton Head Island - R1,Ciara Harding,Sophie Williams,total,2.5,,,,2.73,1.4673,2026-11-04 15:00:14.073120+00:00
 1639903161,2026-11-04 14:30:00+00:00,ATP Paris - Doubles,Sergio Martos Gornes / Szymon Walkow,Sadio Doumbia / David Pel,moneyline,,3.0,1.4,,,,2026-11-04 15:00:14.073120+00:00
-1639912394,2026-11-04 15:00:00+00:00,ITF Women Orlando - R1,Nao Nishino,Whitney Osuigwe,moneyline,,2.63,1.4975,,,,2026-11-04 15:00:14.073120+00:00
-1639912394,2026-11-04 15:00:00+00:00,ITF Women Orlando - R1,Nao Nishino,Whitney Osuigwe,spread,1.5,1.7752,2.06,,,,2026-11-04 15:00:14.073120+00:00
-1639912394,2026-11-04 15:00:00+00:00,ITF Women Orlando - R1,Nao Nishino,Whitney Osuigwe,total,2.5,,,,2.92,1.4167,2026-11-04 15:00:14.073120+00:00
 1639863302,2026-11-04 16:00:00+00:00,ATP Paris - R2,Nuno Borges,Karen Khachanov,moneyline,,2.71,1.5155,,,,2026-11-04 15:00:14.073120+00:00
 1639863302,2026-11-04 16:00:00+00:00,ATP Paris - R2,Nuno Borges,Karen Khachanov,spread,1.5,1.6757,2.29,,,,2026-11-04 15:00:14.073120+00:00
 1639863302,2026-11-04 16:00:00+00:00,ATP Paris - R2,Nuno Borges,Karen Khachanov,total,2.5,,,,2.48,1.5882,2026-11-04 15:00:14.073120+00:00
 1639855025,2026-11-04 16:00:00+00:00,ITF Men Harlingen - R1,Keaton Hance,Ilya Snitari,moneyline,,2.01,1.8197,,,,2026-11-04 15:00:14.073120+00:00
 1639855025,2026-11-04 16:00:00+00:00,ITF Men Harlingen - R1,Keaton Hance,Ilya Snitari,spread,1.5,1.4425,2.82,,,,2026-11-04 15:00:14.073120+00:00
 1639855025,2026-11-04 16:00:00+00:00,ITF Men Harlingen - R1,Keaton Hance,Ilya Snitari,total,2.5,,,,2.58,1.5155,2026-11-04 15:00:14.073120+00:00
-1639922573,2026-11-04 16:00:00+00:00,ITF Women Orlando - R1,Aspen Schuman,Kajsa Rinaldo Persson,moneyline,,3.88,1.2653,,,,2026-11-04 15:00:14.073120+00:00
-1639922573,2026-11-04 16:00:00+00:00,ITF Women Orlando - R1,Aspen Schuman,Kajsa Rinaldo Persson,spread,1.5,2.11,1.7407,,,,2026-11-04 15:00:14.073120+00:00
-1639922573,2026-11-04 16:00:00+00:00,ITF Women Orlando - R1,Aspen Schuman,Kajsa Rinaldo Persson,total,2.5,,,,2.93,1.4167,2026-11-04 15:00:14.073120+00:00
-1639903196,2026-11-04 15:00:00+00:00,ITF Women Hilton Head Island - R1,Abigail Haile,Mika Buchnik,moneyline,,1.8929,1.9259,,,,2026-11-04 15:00:14.073120+00:00
-1639903196,2026-11-04 15:00:00+00:00,ITF Women Hilton Head Island - R1,Abigail Haile,Mika Buchnik,spread,-1.5,2.87,1.4292,,,,2026-11-04 15:00:14.073120+00:00
-1639903196,2026-11-04 15:00:00+00:00,ITF Women Hilton Head Island - R1,Abigail Haile,Mika Buchnik,total,2.5,,,,2.65,1.4926,2026-11-04 15:00:14.073120+00:00
-1639904609,2026-11-04 16:00:00+00:00,ITF Women Huamantla - R1,Ana Carmen Zamburek,Valeriya Strakhova,moneyline,,4.18,1.2364,,,,2026-11-04 15:00:14.073120+00:00
-1639904609,2026-11-04 16:00:00+00:00,ITF Women Huamantla - R1,Ana Carmen Zamburek,Valeriya Strakhova,spread,1.5,2.25,1.6579,,,,2026-11-04 15:00:14.073120+00:00
-1639904609,2026-11-04 16:00:00+00:00,ITF Women Huamantla - R1,Ana Carmen Zamburek,Valeriya Strakhova,total,2.5,,,,3.11,1.3759,2026-11-04 15:00:14.073120+00:00
-1639918776,2026-11-04 15:00:00+00:00,ITF Women Orlando - R1,Briana Szabo,Nada Fouad,moneyline,,1.7143,2.15,,,,2026-11-04 15:00:14.073120+00:00
-1639918776,2026-11-04 15:00:00+00:00,ITF Women Orlando - R1,Briana Szabo,Nada Fouad,spread,-1.5,2.55,1.5236,,,,2026-11-04 15:00:14.073120+00:00
-1639918776,2026-11-04 15:00:00+00:00,ITF Women Orlando - R1,Briana Szabo,Nada Fouad,total,2.5,,,,2.62,1.5,2026-11-04 15:00:14.073120+00:00
 1639891339,2026-11-04 15:30:00+00:00,WTA Chennai - R16,Weronika Falkowska,Maaya Rajeshwaran Revathi,moneyline,,1.5882,2.5,,,,2026-11-04 15:00:14.073120+00:00
 1639891339,2026-11-04 15:30:00+00:00,WTA Chennai - R16,Weronika Falkowska,Maaya Rajeshwaran Revathi,spread,-1.5,2.37,1.6369,,,,2026-11-04 15:00:14.073120+00:00
 1639891339,2026-11-04 15:30:00+00:00,WTA Chennai - R16,Weronika Falkowska,Maaya Rajeshwaran Revathi,total,2.5,,,,2.62,1.5348,2026-11-04 15:00:14.073120+00:00
-1639904731,2026-11-04 15:00:00+00:00,ITF Women Hilton Head Island - R1,Carlota Moreno,Lani Chang,moneyline,,1.9259,1.8929,,,,2026-11-04 15:00:14.073120+00:00
-1639904731,2026-11-04 15:00:00+00:00,ITF Women Hilton Head Island - R1,Carlota Moreno,Lani Chang,spread,-1.5,2.88,1.4292,,,,2026-11-04 15:00:14.073120+00:00
-1639904731,2026-11-04 15:00:00+00:00,ITF Women Hilton Head Island - R1,Carlota Moreno,Lani Chang,total,2.5,,,,2.62,1.5,2026-11-04 15:00:14.073120+00:00
 1639903197,2026-11-04 15:00:00+00:00,ITF Men Hilton Head Island - R1,Jerrid Gaines Jr,Raul Garcia,moneyline,,2.02,1.8065,,,,2026-11-04 15:00:14.073120+00:00
 1639903197,2026-11-04 15:00:00+00:00,ITF Men Hilton Head Island - R1,Jerrid Gaines Jr,Raul Garcia,spread,1.5,1.4525,2.78,,,,2026-11-04 15:00:14.073120+00:00
 1639903197,2026-11-04 15:00:00+00:00,ITF Men Hilton Head Island - R1,Jerrid Gaines Jr,Raul Garcia,total,2.5,,,,2.7,1.4762,2026-11-04 15:00:14.073120+00:00
@@ -184,34 +110,15 @@ matchup,start,league,home,away,market,line,o_home,o_away,o_draw,o_over,o_under,s
 1639848535,2026-11-04 15:30:00+00:00,WTA 125k Luanda - R16,Diana Martynov,Yasmine Kabbaj,moneyline,,2.66,1.4975,,,,2026-11-04 15:00:14.073120+00:00
 1639848535,2026-11-04 15:30:00+00:00,WTA 125k Luanda - R16,Diana Martynov,Yasmine Kabbaj,spread,1.5,1.7463,2.13,,,,2026-11-04 15:00:14.073120+00:00
 1639848535,2026-11-04 15:30:00+00:00,WTA 125k Luanda - R16,Diana Martynov,Yasmine Kabbaj,total,2.5,,,,2.72,1.4808,2026-11-04 15:00:14.073120+00:00
-1639903177,2026-11-04 16:00:00+00:00,ITF Women Huamantla - R1,Anastasia Tikhonova,Miriana Tona,moneyline,,1.1133,6.83,,,,2026-11-04 15:00:14.073120+00:00
-1639903177,2026-11-04 16:00:00+00:00,ITF Women Huamantla - R1,Anastasia Tikhonova,Miriana Tona,spread,-1.5,1.4016,2.99,,,,2026-11-04 15:00:14.073120+00:00
-1639903177,2026-11-04 16:00:00+00:00,ITF Women Huamantla - R1,Anastasia Tikhonova,Miriana Tona,total,2.5,,,,3.72,1.2841,2026-11-04 15:00:14.073120+00:00
 1639922581,2026-11-04 16:00:00+00:00,ITF Men Harlingen - R1,Ioan Alexandru Chirita,Erik Schiessl,moneyline,,3.42,1.3226,,,,2026-11-04 15:00:14.073120+00:00
 1639922581,2026-11-04 16:00:00+00:00,ITF Men Harlingen - R1,Ioan Alexandru Chirita,Erik Schiessl,spread,1.5,2.14,1.7246,,,,2026-11-04 15:00:14.073120+00:00
 1639922581,2026-11-04 16:00:00+00:00,ITF Men Harlingen - R1,Ioan Alexandru Chirita,Erik Schiessl,total,2.5,,,,3.31,1.3413,2026-11-04 15:00:14.073120+00:00
 1639903135,2026-11-04 18:00:00+00:00,ITF Men Trois-Rivieres - R1,Felix Roussel,Joshua Peck,moneyline,,1.4274,2.88,,,,2026-11-04 15:00:14.073120+00:00
 1639903135,2026-11-04 18:00:00+00:00,ITF Men Trois-Rivieres - R1,Felix Roussel,Joshua Peck,spread,-1.5,2.02,1.813,,,,2026-11-04 15:00:14.073120+00:00
 1639903135,2026-11-04 18:00:00+00:00,ITF Men Trois-Rivieres - R1,Felix Roussel,Joshua Peck,total,2.5,,,,2.79,1.4505,2026-11-04 15:00:14.073120+00:00
-1639854186,2026-11-04 15:30:00+00:00,ITF Women Petange - R1,Lea Nilsson,Nahia Berecoechea,moneyline,,1.5155,2.58,,,,2026-11-04 15:00:14.073120+00:00
-1639854186,2026-11-04 15:30:00+00:00,ITF Women Petange - R1,Lea Nilsson,Nahia Berecoechea,spread,-1.5,2.25,1.6579,,,,2026-11-04 15:00:14.073120+00:00
-1639854186,2026-11-04 15:30:00+00:00,ITF Women Petange - R1,Lea Nilsson,Nahia Berecoechea,total,2.5,,,,2.66,1.4902,2026-11-04 15:00:14.073120+00:00
 1639848706,2026-11-04 16:00:00+00:00,WTA 125k Cali - R16,Leolia Jeanjean,Carolina Alves,moneyline,,1.1912,4.81,,,,2026-11-04 15:00:14.073120+00:00
 1639848706,2026-11-04 16:00:00+00:00,WTA 125k Cali - R16,Leolia Jeanjean,Carolina Alves,spread,-1.5,1.6135,2.34,,,,2026-11-04 15:00:14.073120+00:00
 1639848706,2026-11-04 16:00:00+00:00,WTA 125k Cali - R16,Leolia Jeanjean,Carolina Alves,total,2.5,,,,3.02,1.3953,2026-11-04 15:00:14.073120+00:00
-1639922575,2026-11-04 15:00:00+00:00,ITF Women Orlando - R1,Dasha Ivanova,Carolina Bohrer Martins,moneyline,,1.9174,1.9009,,,,2026-11-04 15:00:14.073120+00:00
-1639922575,2026-11-04 15:00:00+00:00,ITF Women Orlando - R1,Dasha Ivanova,Carolina Bohrer Martins,spread,-1.5,2.9,1.4219,,,,2026-11-04 15:00:14.073120+00:00
-1639922575,2026-11-04 15:00:00+00:00,ITF Women Orlando - R1,Dasha Ivanova,Carolina Bohrer Martins,total,2.5,,,,2.6,1.5076,2026-11-04 15:00:14.073120+00:00
-1639904612,2026-11-04 16:00:00+00:00,ITF Women Huamantla - R1,Ipek Oz,Maria Fernanda Navarro,moneyline,,1.0257,13.65,,,,2026-11-04 15:00:14.073120+00:00
-1639891381,2026-11-04 16:00:00+00:00,ITF Women Neuquen - R1,Sofia Simon Padros,Gabriela Kawano Cho,moneyline,,2.43,1.5714,,,,2026-11-04 15:00:14.073120+00:00
-1639891381,2026-11-04 16:00:00+00:00,ITF Women Neuquen - R1,Sofia Simon Padros,Gabriela Kawano Cho,spread,1.5,1.6579,2.26,,,,2026-11-04 15:00:14.073120+00:00
-1639891381,2026-11-04 16:00:00+00:00,ITF Women Neuquen - R1,Sofia Simon Padros,Gabriela Kawano Cho,total,2.5,,,,2.73,1.4673,2026-11-04 15:00:14.073120+00:00
-1639922583,2026-11-04 15:00:00+00:00,ITF Women Hilton Head Island - R1,Amaliia Elizarova,Dia Evtimova,moneyline,,3.77,1.277,,,,2026-11-04 15:00:14.073120+00:00
-1639922583,2026-11-04 15:00:00+00:00,ITF Women Hilton Head Island - R1,Amaliia Elizarova,Dia Evtimova,spread,1.5,2.29,1.641,,,,2026-11-04 15:00:14.073120+00:00
-1639922583,2026-11-04 15:00:00+00:00,ITF Women Hilton Head Island - R1,Amaliia Elizarova,Dia Evtimova,total,2.5,,,,3.5,1.3115,2026-11-04 15:00:14.073120+00:00
-1639922578,2026-11-04 16:00:00+00:00,ITF Women Orlando - R1,Margaux Rouvroy,Jana Hossam Salah,moneyline,,1.3175,3.46,,,,2026-11-04 15:00:14.073120+00:00
-1639922578,2026-11-04 16:00:00+00:00,ITF Women Orlando - R1,Margaux Rouvroy,Jana Hossam Salah,spread,-1.5,1.9009,1.9174,,,,2026-11-04 15:00:14.073120+00:00
-1639922578,2026-11-04 16:00:00+00:00,ITF Women Orlando - R1,Margaux Rouvroy,Jana Hossam Salah,total,2.5,,,,2.68,1.4808,2026-11-04 15:00:14.073120+00:00
 1639904712,2026-11-04 16:00:00+00:00,ITF Men Pembroke - R1,Juan Sebastian Dominguez Collado,Matt Kuhar,moneyline,,5.85,1.1425,,,,2026-11-04 15:00:14.073120+00:00
 1639862842,2026-11-04 16:00:00+00:00,ATP Challenger Bratislava - R16,Sascha Gueymard Wayenburg,Zsombor Piros,moneyline,,1.9615,1.8929,,,,2026-11-04 15:00:14.073120+00:00
 1639862842,2026-11-04 16:00:00+00:00,ATP Challenger Bratislava - R16,Sascha Gueymard Wayenburg,Zsombor Piros,spread,1.5,1.4,3.04,,,,2026-11-04 15:00:14.073120+00:00
@@ -222,9 +129,6 @@ matchup,start,league,home,away,market,line,o_home,o_away,o_draw,o_over,o_under,s
 1639891361,2026-11-04 16:00:00+00:00,ATP Paris - R2,Alex Molcan,Taylor Fritz,moneyline,,4.54,1.2364,,,,2026-11-04 15:00:14.073120+00:00
 1639891361,2026-11-04 16:00:00+00:00,ATP Paris - R2,Alex Molcan,Taylor Fritz,spread,1.5,2.15,1.7576,,,,2026-11-04 15:00:14.073120+00:00
 1639891361,2026-11-04 16:00:00+00:00,ATP Paris - R2,Alex Molcan,Taylor Fritz,total,2.5,,,,2.77,1.4854,2026-11-04 15:00:14.073120+00:00
-1639903179,2026-11-04 17:00:00+00:00,ITF Women Huamantla - R1,Victoria Rodriguez,Midori Castillo Meza,moneyline,,1.2681,3.86,,,,2026-11-04 16:07:43.212614+00:00
-1639903179,2026-11-04 17:00:00+00:00,ITF Women Huamantla - R1,Victoria Rodriguez,Midori Castillo Meza,spread,-1.5,1.6667,2.24,,,,2026-11-04 16:07:43.212614+00:00
-1639903179,2026-11-04 17:00:00+00:00,ITF Women Huamantla - R1,Victoria Rodriguez,Midori Castillo Meza,total,2.5,,,,3.18,1.3636,2026-11-04 16:07:43.212614+00:00
 1639904607,2026-11-04 16:30:00+00:00,ITF Men Salvador - R16,Henrique Ortenblad Nogueira,Joao Vitor Scramin Do Lago,moneyline,,1.7937,2.04,,,,2026-11-04 16:07:43.212614+00:00
 1639904607,2026-11-04 16:30:00+00:00,ITF Men Salvador - R16,Henrique Ortenblad Nogueira,Joao Vitor Scramin Do Lago,spread,-1.5,2.69,1.4785,,,,2026-11-04 16:07:43.212614+00:00
 1639904607,2026-11-04 16:30:00+00:00,ITF Men Salvador - R16,Henrique Ortenblad Nogueira,Joao Vitor Scramin Do Lago,total,2.5,,,,2.66,1.4902,2026-11-04 16:07:43.212614+00:00
@@ -247,7 +151,6 @@ matchup,start,league,home,away,market,line,o_home,o_away,o_draw,o_over,o_under,s
 1639904740,2026-11-04 16:30:00+00:00,ITF Men Salvador - R16,Joao Cunha,Julian Cundom,moneyline,,3.95,1.2577,,,,2026-11-04 16:07:43.212614+00:00
 1639904740,2026-11-04 16:30:00+00:00,ITF Men Salvador - R16,Joao Cunha,Julian Cundom,spread,1.5,2.27,1.6452,,,,2026-11-04 16:07:43.212614+00:00
 1639904740,2026-11-04 16:30:00+00:00,ITF Men Salvador - R16,Joao Cunha,Julian Cundom,total,2.5,,,,3.39,1.3279,2026-11-04 16:07:43.212614+00:00
-1639854167,2026-11-04 16:30:00+00:00,ITF Women Petange - R1,Marie Weckerle,Anna Siskova,moneyline,,6.66,1.1178,,,,2026-11-04 16:07:43.212614+00:00
 1639894925,2026-11-04 17:00:00+00:00,WTA 125k Cali - R16,Laura Samson,Carole Monnet,moneyline,,1.6944,2.21,,,,2026-11-04 16:07:43.212614+00:00
 1639894925,2026-11-04 17:00:00+00:00,WTA 125k Cali - R16,Laura Samson,Carole Monnet,spread,-1.5,2.58,1.5263,,,,2026-11-04 16:07:43.212614+00:00
 1639894925,2026-11-04 17:00:00+00:00,WTA 125k Cali - R16,Laura Samson,Carole Monnet,total,2.5,,,,2.53,1.5435,2026-11-04 16:07:43.212614+00:00
@@ -258,16 +161,9 @@ matchup,start,league,home,away,market,line,o_home,o_away,o_draw,o_over,o_under,s
 1639894859,2026-11-04 16:30:00+00:00,ATP Challenger Charlottesville - R16,Murphy Cassone,Stefan Kozlov,moneyline,,1.6494,2.27,,,,2026-11-04 16:07:43.212614+00:00
 1639894859,2026-11-04 16:30:00+00:00,ATP Challenger Charlottesville - R16,Murphy Cassone,Stefan Kozlov,spread,-1.5,2.52,1.5376,,,,2026-11-04 16:07:43.212614+00:00
 1639894859,2026-11-04 16:30:00+00:00,ATP Challenger Charlottesville - R16,Murphy Cassone,Stefan Kozlov,total,2.5,,,,2.36,1.6061,2026-11-04 16:07:43.212614+00:00
-1639904718,2026-11-04 17:30:00+00:00,ITF Women Huamantla - R1,Paulina Montiel,Jessica Hinojosa Gomez,moneyline,,19.72,1.0227,,,,2026-11-04 16:56:12.630094+00:00
-1639904719,2026-11-04 17:30:00+00:00,ITF Women Huamantla - R1,Diletta Cherubini,Alize Lim,moneyline,,1.2165,4.43,,,,2026-11-04 16:56:12.630094+00:00
-1639904719,2026-11-04 17:30:00+00:00,ITF Women Huamantla - R1,Diletta Cherubini,Alize Lim,spread,-1.5,1.6211,2.33,,,,2026-11-04 16:56:12.630094+00:00
-1639904719,2026-11-04 17:30:00+00:00,ITF Women Huamantla - R1,Diletta Cherubini,Alize Lim,total,2.5,,,,3.35,1.3333,2026-11-04 16:56:12.630094+00:00
 1639904729,2026-11-04 17:00:00+00:00,ITF Men Hilton Head Island - R1,Max Sheldon,Tristan Mccormick,moneyline,,2.58,1.5181,,,,2026-11-04 16:56:12.630094+00:00
 1639904729,2026-11-04 17:00:00+00:00,ITF Men Hilton Head Island - R1,Max Sheldon,Tristan Mccormick,spread,1.5,1.7407,2.11,,,,2026-11-04 16:56:12.630094+00:00
 1639904729,2026-11-04 17:00:00+00:00,ITF Men Hilton Head Island - R1,Max Sheldon,Tristan Mccormick,total,2.5,,,,2.7,1.4762,2026-11-04 16:56:12.630094+00:00
-1639904624,2026-11-04 17:00:00+00:00,ITF Women Hilton Head Island - R1,Allison Wang,Ashley Lahey,moneyline,,3.75,1.2801,,,,2026-11-04 16:56:12.630094+00:00
-1639904624,2026-11-04 17:00:00+00:00,ITF Women Hilton Head Island - R1,Allison Wang,Ashley Lahey,spread,1.5,2.29,1.641,,,,2026-11-04 16:56:12.630094+00:00
-1639904624,2026-11-04 17:00:00+00:00,ITF Women Hilton Head Island - R1,Allison Wang,Ashley Lahey,total,2.5,,,,3.31,1.3401,2026-11-04 16:56:12.630094+00:00
 1639904627,2026-11-04 17:00:00+00:00,ITF Men Hilton Head Island - R1,Clement Lemire,Matthew Segura,moneyline,,1.4274,2.88,,,,2026-11-04 16:56:12.630094+00:00
 1639904627,2026-11-04 17:00:00+00:00,ITF Men Hilton Head Island - R1,Clement Lemire,Matthew Segura,spread,-1.5,2.02,1.813,,,,2026-11-04 16:56:12.630094+00:00
 1639904627,2026-11-04 17:00:00+00:00,ITF Men Hilton Head Island - R1,Clement Lemire,Matthew Segura,total,2.5,,,,2.82,1.4444,2026-11-04 16:56:12.630094+00:00
@@ -277,27 +173,12 @@ matchup,start,league,home,away,market,line,o_home,o_away,o_draw,o_over,o_under,s
 1639894939,2026-11-04 19:30:00+00:00,ITF Men Trois-Rivieres - R1,Benjamin Thomas George,Eric David Verdes,moneyline,,2.04,1.7937,,,,2026-11-04 16:56:12.630094+00:00
 1639894939,2026-11-04 19:30:00+00:00,ITF Men Trois-Rivieres - R1,Benjamin Thomas George,Eric David Verdes,spread,1.5,1.4717,2.72,,,,2026-11-04 16:56:12.630094+00:00
 1639894939,2026-11-04 19:30:00+00:00,ITF Men Trois-Rivieres - R1,Benjamin Thomas George,Eric David Verdes,total,2.5,,,,2.61,1.5025,2026-11-04 16:56:12.630094+00:00
-1639904628,2026-11-04 17:00:00+00:00,ITF Women Hilton Head Island - R1,Anita Sahdiieva,Raquel Gonzalez Vilar,moneyline,,1.4065,2.97,,,,2026-11-04 16:56:12.630094+00:00
-1639904628,2026-11-04 17:00:00+00:00,ITF Women Hilton Head Island - R1,Anita Sahdiieva,Raquel Gonzalez Vilar,spread,-1.5,1.9524,1.8696,,,,2026-11-04 16:56:12.630094+00:00
-1639904628,2026-11-04 17:00:00+00:00,ITF Women Hilton Head Island - R1,Anita Sahdiieva,Raquel Gonzalez Vilar,total,2.5,,,,2.89,1.4255,2026-11-04 16:56:12.630094+00:00
-1639912400,2026-11-04 17:00:00+00:00,ITF Women Hilton Head Island - R1,Margaret Sohns,Ireland O'Brien,moneyline,,2.42,1.5747,,,,2026-11-04 16:56:12.630094+00:00
-1639912400,2026-11-04 17:00:00+00:00,ITF Women Hilton Head Island - R1,Margaret Sohns,Ireland O'Brien,spread,1.5,1.6452,2.28,,,,2026-11-04 16:56:12.630094+00:00
-1639912400,2026-11-04 17:00:00+00:00,ITF Women Hilton Head Island - R1,Margaret Sohns,Ireland O'Brien,total,2.5,,,,2.78,1.4525,2026-11-04 16:56:12.630094+00:00
 1639854187,2026-11-04 17:08:00+00:00,ITF Men Harlingen - R1,Filip Jeff Planinsek,Jordan Lee,moneyline,,1.9091,1.9091,,,,2026-11-04 16:56:12.630094+00:00
 1639854187,2026-11-04 17:08:00+00:00,ITF Men Harlingen - R1,Filip Jeff Planinsek,Jordan Lee,spread,1.5,1.463,2.75,,,,2026-11-04 16:56:12.630094+00:00
 1639854187,2026-11-04 17:08:00+00:00,ITF Men Harlingen - R1,Filip Jeff Planinsek,Jordan Lee,total,2.5,,,,2.85,1.4348,2026-11-04 16:56:12.630094+00:00
-1639904611,2026-11-04 17:08:00+00:00,ITF Women Huamantla - R1,Maria Jose Portillo Ramirez,Martina Colmegna,moneyline,,1.5747,2.43,,,,2026-11-04 16:56:12.630094+00:00
-1639904611,2026-11-04 17:08:00+00:00,ITF Women Huamantla - R1,Maria Jose Portillo Ramirez,Martina Colmegna,spread,-1.5,2.13,1.7299,,,,2026-11-04 16:56:12.630094+00:00
-1639904611,2026-11-04 17:08:00+00:00,ITF Women Huamantla - R1,Maria Jose Portillo Ramirez,Martina Colmegna,total,2.5,,,,2.42,1.578,2026-11-04 16:56:12.630094+00:00
 1639854158,2026-11-04 17:09:00+00:00,ITF Men Harlingen - R1,Andreja Petrovic,Aidan Mchugh,moneyline,,3.57,1.3021,,,,2026-11-04 16:56:12.630094+00:00
 1639854158,2026-11-04 17:09:00+00:00,ITF Men Harlingen - R1,Andreja Petrovic,Aidan Mchugh,spread,1.5,2.1,1.7519,,,,2026-11-04 16:56:12.630094+00:00
 1639854158,2026-11-04 17:09:00+00:00,ITF Men Harlingen - R1,Andreja Petrovic,Aidan Mchugh,total,2.5,,,,3.12,1.3745,2026-11-04 16:56:12.630094+00:00
-1639904730,2026-11-04 17:00:00+00:00,ITF Women Hilton Head Island - R1,Jantje Tilbuerger,Sara Shumate,moneyline,,1.2584,3.95,,,,2026-11-04 16:56:12.630094+00:00
-1639904730,2026-11-04 17:00:00+00:00,ITF Women Hilton Head Island - R1,Jantje Tilbuerger,Sara Shumate,spread,-1.5,1.7092,2.16,,,,2026-11-04 16:56:12.630094+00:00
-1639904730,2026-11-04 17:00:00+00:00,ITF Women Hilton Head Island - R1,Jantje Tilbuerger,Sara Shumate,total,2.5,,,,2.98,1.4032,2026-11-04 16:56:12.630094+00:00
-1639922572,2026-11-04 17:30:00+00:00,ITF Women Orlando - R1,Capucine Jauffret,Evialina Laskevich,moneyline,,4.98,1.1815,,,,2026-11-04 17:26:42.273358+00:00
-1639922572,2026-11-04 17:30:00+00:00,ITF Women Orlando - R1,Capucine Jauffret,Evialina Laskevich,spread,1.5,2.59,1.5102,,,,2026-11-04 17:26:42.273358+00:00
-1639922572,2026-11-04 17:30:00+00:00,ITF Women Orlando - R1,Capucine Jauffret,Evialina Laskevich,total,2.5,,,,3.53,1.3077,2026-11-04 17:26:42.273358+00:00
 1639904735,2026-11-04 17:30:00+00:00,ITF Men Guadalajara - R16,Rodrigo Alujas,Luis Carlos Alvarez,moneyline,,4.94,1.1838,,,,2026-11-04 17:26:42.273358+00:00
 1639904735,2026-11-04 17:30:00+00:00,ITF Men Guadalajara - R16,Rodrigo Alujas,Luis Carlos Alvarez,spread,1.5,2.48,1.5556,,,,2026-11-04 17:26:42.273358+00:00
 1639904735,2026-11-04 17:30:00+00:00,ITF Men Guadalajara - R16,Rodrigo Alujas,Luis Carlos Alvarez,total,2.5,,,,3.31,1.3413,2026-11-04 17:26:42.273358+00:00
@@ -307,18 +188,9 @@ matchup,start,league,home,away,market,line,o_home,o_away,o_draw,o_over,o_under,s
 1639863345,2026-11-04 18:00:00+00:00,ATP Paris - R2,Matteo Berrettini,Ugo Humbert,moneyline,,2.09,1.813,,,,2026-11-04 17:26:42.273358+00:00
 1639863345,2026-11-04 18:00:00+00:00,ATP Paris - R2,Matteo Berrettini,Ugo Humbert,spread,1.5,1.4082,3.09,,,,2026-11-04 17:26:42.273358+00:00
 1639863345,2026-11-04 18:00:00+00:00,ATP Paris - R2,Matteo Berrettini,Ugo Humbert,total,2.5,,,,2.2,1.7299,2026-11-04 17:26:42.273358+00:00
-1639922577,2026-11-04 17:30:00+00:00,ITF Women Orlando - R1,Arianna Zucchini,Aishi Das,moneyline,,1.5848,2.41,,,,2026-11-04 17:26:42.273358+00:00
-1639922577,2026-11-04 17:30:00+00:00,ITF Women Orlando - R1,Arianna Zucchini,Aishi Das,spread,-1.5,2.2,1.6849,,,,2026-11-04 17:26:42.273358+00:00
-1639922577,2026-11-04 17:30:00+00:00,ITF Women Orlando - R1,Arianna Zucchini,Aishi Das,total,2.5,,,,2.8,1.4484,2026-11-04 17:26:42.273358+00:00
-1639855120,2026-11-04 17:30:00+00:00,ITF Women Petange - R1,Rebecca Munk Mortensen,Fiona Crawley,moneyline,,5.79,1.1447,,,,2026-11-04 17:26:42.273358+00:00
-1639855120,2026-11-04 17:30:00+00:00,ITF Women Petange - R1,Rebecca Munk Mortensen,Fiona Crawley,spread,1.5,2.59,1.5102,,,,2026-11-04 17:26:42.273358+00:00
-1639855120,2026-11-04 17:30:00+00:00,ITF Women Petange - R1,Rebecca Munk Mortensen,Fiona Crawley,total,2.5,,,,3.26,1.3484,2026-11-04 17:26:42.273358+00:00
 1639903181,2026-11-04 18:00:00+00:00,WTA 125k Cali - R16,Julia Grabher,Julia Riera,moneyline,,1.7937,2.06,,,,2026-11-04 17:26:42.273358+00:00
 1639903181,2026-11-04 18:00:00+00:00,WTA 125k Cali - R16,Julia Grabher,Julia Riera,spread,-1.5,2.77,1.4651,,,,2026-11-04 17:26:42.273358+00:00
 1639903181,2026-11-04 18:00:00+00:00,WTA 125k Cali - R16,Julia Grabher,Julia Riera,total,2.5,,,,2.44,1.5814,2026-11-04 17:26:42.273358+00:00
-1639854164,2026-11-04 17:51:00+00:00,ITF Women Petange - R1,Oceane Dodin,Eva Bennemann,moneyline,,1.3861,3.06,,,,2026-11-04 17:26:42.273358+00:00
-1639854164,2026-11-04 17:51:00+00:00,ITF Women Petange - R1,Oceane Dodin,Eva Bennemann,spread,-1.5,1.9434,1.8772,,,,2026-11-04 17:26:42.273358+00:00
-1639854164,2026-11-04 17:51:00+00:00,ITF Women Petange - R1,Oceane Dodin,Eva Bennemann,total,2.5,,,,2.88,1.4274,2026-11-04 17:26:42.273358+00:00
 1639903132,2026-11-04 18:00:00+00:00,ATP Challenger Charlottesville - R16,Braden Shick,Darwin Blanch,moneyline,,4.12,1.2488,,,,2026-11-04 17:26:42.273358+00:00
 1639903132,2026-11-04 18:00:00+00:00,ATP Challenger Charlottesville - R16,Braden Shick,Darwin Blanch,spread,1.5,2.1,1.7634,,,,2026-11-04 17:26:42.273358+00:00
 1639903132,2026-11-04 18:00:00+00:00,ATP Challenger Charlottesville - R16,Braden Shick,Darwin Blanch,total,2.5,,,,2.82,1.4505,2026-11-04 17:26:42.273358+00:00
@@ -331,9 +203,6 @@ matchup,start,league,home,away,market,line,o_home,o_away,o_draw,o_over,o_under,s
 1639904727,2026-11-04 18:00:00+00:00,ATP Challenger Costa do Sauipe - R16,Gonzalo Bueno,Eduardo Ribeiro,moneyline,,1.6803,2.28,,,,2026-11-04 17:26:42.273358+00:00
 1639904727,2026-11-04 18:00:00+00:00,ATP Challenger Costa do Sauipe - R16,Gonzalo Bueno,Eduardo Ribeiro,spread,-1.5,2.66,1.5102,,,,2026-11-04 17:26:42.273358+00:00
 1639904727,2026-11-04 18:00:00+00:00,ATP Challenger Costa do Sauipe - R16,Gonzalo Bueno,Eduardo Ribeiro,total,2.5,,,,2.39,1.6135,2026-11-04 17:26:42.273358+00:00
-1639903176,2026-11-04 17:30:00+00:00,ITF Women Huamantla - R1,Maria Sholokhova,Martina Capurro Taborda,moneyline,,1.5495,2.49,,,,2026-11-04 17:26:42.273358+00:00
-1639903176,2026-11-04 17:30:00+00:00,ITF Women Huamantla - R1,Maria Sholokhova,Martina Capurro Taborda,spread,-1.5,2.19,1.6944,,,,2026-11-04 17:26:42.273358+00:00
-1639903176,2026-11-04 17:30:00+00:00,ITF Women Huamantla - R1,Maria Sholokhova,Martina Capurro Taborda,total,2.5,,,,3.01,1.3984,2026-11-04 17:26:42.273358+00:00
 1639904746,2026-11-04 17:30:00+00:00,ITF Men Harlingen - R1,Togan Tokac,Pablo Martinez Gomez,moneyline,,3.21,1.3584,,,,2026-11-04 17:26:42.273358+00:00
 1639904746,2026-11-04 17:30:00+00:00,ITF Men Harlingen - R1,Togan Tokac,Pablo Martinez Gomez,spread,1.5,2.01,1.813,,,,2026-11-04 17:26:42.273358+00:00
 1639904746,2026-11-04 17:30:00+00:00,ITF Men Harlingen - R1,Togan Tokac,Pablo Martinez Gomez,total,2.5,,,,3.0,1.3984,2026-11-04 17:26:42.273358+00:00
@@ -353,9 +222,6 @@ matchup,start,league,home,away,market,line,o_home,o_away,o_draw,o_over,o_under,s
 1639904608,2026-11-04 18:39:00+00:00,ITF Men Harlingen - R1,Prathinav Chunduru,Kevin Edengren,moneyline,,7.7,1.0948,,,,2026-11-04 18:14:19.193871+00:00
 1639904608,2026-11-04 18:39:00+00:00,ITF Men Harlingen - R1,Prathinav Chunduru,Kevin Edengren,spread,1.5,3.46,1.3175,,,,2026-11-04 18:14:19.193871+00:00
 1639904608,2026-11-04 18:39:00+00:00,ITF Men Harlingen - R1,Prathinav Chunduru,Kevin Edengren,total,2.5,,,,4.38,1.2208,2026-11-04 18:14:19.193871+00:00
-1639922576,2026-11-04 18:35:00+00:00,ITF Women Orlando - R1,Janae Preston,Isabella Kruger,moneyline,,1.0978,7.54,,,,2026-11-04 18:14:19.193871+00:00
-1639922576,2026-11-04 18:35:00+00:00,ITF Women Orlando - R1,Janae Preston,Isabella Kruger,spread,-1.5,1.3344,3.35,,,,2026-11-04 18:14:19.193871+00:00
-1639922576,2026-11-04 18:35:00+00:00,ITF Women Orlando - R1,Janae Preston,Isabella Kruger,total,2.5,,,,4.28,1.2283,2026-11-04 18:14:19.193871+00:00
 1639904748,2026-11-04 19:00:00+00:00,ITF Men Harlingen - R1,Samir Banerjee,Siwanat Auytayakul,moneyline,,1.0556,11.01,,,,2026-11-04 18:39:07.929688+00:00
 1639811610,2026-11-05 08:00:00+00:00,ATP Paris - Doubles,Francisco Cerundolo / Tomas Martin Etcheverry,Christian Harrison / Neal Skupski,moneyline,,3.27,1.339,,,,2026-11-04 18:39:07.929688+00:00
 1639870266,2026-11-04 18:40:00+00:00,ATP Challenger Bratislava - R16,Jerome Kym,Luka Pavlovic,moneyline,,1.2681,4.08,,,,2026-11-04 18:39:07.929688+00:00
@@ -364,10 +230,6 @@ matchup,start,league,home,away,market,line,o_home,o_away,o_draw,o_over,o_under,s
 1639904603,2026-11-04 19:30:00+00:00,WTA 125k Cali - R16,Despina Papamichail,Renata Zarazua,moneyline,,5.09,1.1818,,,,2026-11-04 18:39:07.929688+00:00
 1639904603,2026-11-04 19:30:00+00:00,WTA 125k Cali - R16,Despina Papamichail,Renata Zarazua,spread,1.5,2.45,1.5747,,,,2026-11-04 18:39:07.929688+00:00
 1639904603,2026-11-04 19:30:00+00:00,WTA 125k Cali - R16,Despina Papamichail,Renata Zarazua,total,2.5,,,,3.17,1.3731,2026-11-04 18:39:07.929688+00:00
-1639912393,2026-11-04 18:45:00+00:00,ITF Women Orlando - R1,Vivian Wolff,Allegra Korpanec Davies,moneyline,,1.1675,5.25,,,,2026-11-04 18:39:07.929688+00:00
-1639912393,2026-11-04 18:45:00+00:00,ITF Women Orlando - R1,Vivian Wolff,Allegra Korpanec Davies,spread,-1.5,1.4926,2.65,,,,2026-11-04 18:39:07.929688+00:00
-1639912393,2026-11-04 18:45:00+00:00,ITF Women Orlando - R1,Vivian Wolff,Allegra Korpanec Davies,total,2.5,,,,3.48,1.3135,2026-11-04 18:39:07.929688+00:00
-1639903178,2026-11-04 18:47:00+00:00,ITF Women Huamantla - R1,Jo-Yee Chan,Marian Gomez Pezuela Cano,moneyline,,1.017,23.6,,,,2026-11-04 18:39:07.929688+00:00
 1639903201,2026-11-04 19:00:00+00:00,ITF Men Guadalajara - R16,Frazier Rengifo,Blu Baker,moneyline,,2.26,1.6536,,,,2026-11-04 18:39:07.929688+00:00
 1639903201,2026-11-04 19:00:00+00:00,ITF Men Guadalajara - R16,Frazier Rengifo,Blu Baker,spread,1.5,1.5988,2.37,,,,2026-11-04 18:39:07.929688+00:00
 1639903201,2026-11-04 19:00:00+00:00,ITF Men Guadalajara - R16,Frazier Rengifo,Blu Baker,total,2.5,,,,2.8,1.4464,2026-11-04 18:39:07.929688+00:00
@@ -392,9 +254,6 @@ matchup,start,league,home,away,market,line,o_home,o_away,o_draw,o_over,o_under,s
 1639894938,2026-11-04 22:30:00+00:00,ITF Men Trois-Rivieres - R1,Daniel Kliebhan,Maxime St-Hilaire,moneyline,,1.9901,1.8333,,,,2026-11-04 19:40:23.704869+00:00
 1639894938,2026-11-04 22:30:00+00:00,ITF Men Trois-Rivieres - R1,Daniel Kliebhan,Maxime St-Hilaire,spread,1.5,1.4484,2.8,,,,2026-11-04 19:40:23.704869+00:00
 1639894938,2026-11-04 22:30:00+00:00,ITF Men Trois-Rivieres - R1,Daniel Kliebhan,Maxime St-Hilaire,total,2.5,,,,2.62,1.5025,2026-11-04 19:40:23.704869+00:00
-1639912397,2026-11-04 19:45:00+00:00,ITF Women Orlando - R1,Brooke Black,Annika Penickova,moneyline,,2.93,1.4167,,,,2026-11-04 19:40:23.704869+00:00
-1639912397,2026-11-04 19:45:00+00:00,ITF Women Orlando - R1,Brooke Black,Annika Penickova,spread,1.5,1.9346,1.885,,,,2026-11-04 19:40:23.704869+00:00
-1639912397,2026-11-04 19:45:00+00:00,ITF Women Orlando - R1,Brooke Black,Annika Penickova,total,2.5,,,,2.99,1.4016,2026-11-04 19:40:23.704869+00:00
 1639904703,2026-11-04 20:30:00+00:00,ATP Challenger Charlottesville - R16,Marcos Giron,Justin Boulais,moneyline,,1.2004,4.77,,,,2026-11-04 19:40:23.704869+00:00
 1639904703,2026-11-04 20:30:00+00:00,ATP Challenger Charlottesville - R16,Marcos Giron,Justin Boulais,spread,-1.5,1.641,2.31,,,,2026-11-04 19:40:23.704869+00:00
 1639904703,2026-11-04 20:30:00+00:00,ATP Challenger Charlottesville - R16,Marcos Giron,Justin Boulais,total,2.5,,,,3.04,1.4,2026-11-04 19:40:23.704869+00:00
@@ -404,15 +263,7 @@ matchup,start,league,home,away,market,line,o_home,o_away,o_draw,o_over,o_under,s
 1639848637,2026-11-04 20:15:00+00:00,ATP Paris - R2,Arthur Fils,Tomas Machac,moneyline,,1.5848,2.52,,,,2026-11-04 20:07:14.376867+00:00
 1639848637,2026-11-04 20:15:00+00:00,ATP Paris - R2,Arthur Fils,Tomas Machac,spread,-1.5,2.43,1.6061,,,,2026-11-04 20:07:14.376867+00:00
 1639848637,2026-11-04 20:15:00+00:00,ATP Paris - R2,Arthur Fils,Tomas Machac,total,2.5,,,,2.39,1.625,2026-11-04 20:07:14.376867+00:00
-1639904610,2026-11-04 20:45:00+00:00,ITF Women Huamantla - R1,Natalia Sousa Salazar,Miriam Bulgaru,moneyline,,31.79,1.0104,,,,2026-11-04 20:36:34.809221+00:00
 1639894894,2026-11-04 21:15:00+00:00,WTA 125K Cali - Doubles,Dalila Jakupovic / Nika Radisic,Irene Burillo Escorihuela / Julia Riera,moneyline,,1.2049,4.17,,,,2026-11-04 21:02:34.465921+00:00
-1639912396,2026-11-04 21:08:27+00:00,ITF Women Orlando - R1,Merna Refaat,Edda Mamedova,moneyline,,2.35,1.6098,,,,2026-11-04 21:02:34.465921+00:00
-1639912396,2026-11-04 21:08:27+00:00,ITF Women Orlando - R1,Merna Refaat,Edda Mamedova,spread,1.5,1.6289,2.31,,,,2026-11-04 21:02:34.465921+00:00
-1639912396,2026-11-04 21:08:27+00:00,ITF Women Orlando - R1,Merna Refaat,Edda Mamedova,total,2.5,,,,2.7,1.4762,2026-11-04 21:02:34.465921+00:00
-1639912392,2026-11-04 21:40:19+00:00,ITF Women Orlando - R1,Ema Burgic,Luciana Perry,moneyline,,2.23,1.6667,,,,2026-11-04 21:33:06.113291+00:00
-1639912392,2026-11-04 21:40:19+00:00,ITF Women Orlando - R1,Ema Burgic,Luciana Perry,spread,1.5,1.5128,2.59,,,,2026-11-04 21:33:06.113291+00:00
-1639912392,2026-11-04 21:40:19+00:00,ITF Women Orlando - R1,Ema Burgic,Luciana Perry,total,2.5,,,,2.53,1.5348,2026-11-04 21:33:06.113291+00:00
-1639918775,2026-11-04 22:00:00+00:00,ITF Women Orlando - R1,Sloane Stephens,Carolina Kuhl,moneyline,,1.07,9.44,,,,2026-11-04 21:33:06.113291+00:00
 1639904664,2026-11-04 21:36:38+00:00,ITF Men Harlingen - R1,Hiroki Sakagawa,Max Wiskandt,moneyline,,14.42,1.0369,,,,2026-11-04 21:33:06.113291+00:00
 1639904750,2026-11-04 22:30:00+00:00,ATP Challenger Costa do Sauipe - R16,Igor Marcondes,Camilo Ugo Carabelli,moneyline,,4.0,1.2755,,,,2026-11-04 21:33:06.113291+00:00
 1639904750,2026-11-04 22:30:00+00:00,ATP Challenger Costa do Sauipe - R16,Igor Marcondes,Camilo Ugo Carabelli,spread,1.5,2.0,1.8621,,,,2026-11-04 21:33:06.113291+00:00
@@ -427,9 +278,6 @@ matchup,start,league,home,away,market,line,o_home,o_away,o_draw,o_over,o_under,s
 1639894935,2026-11-04 23:30:00+00:00,ATP Challenger Charlottesville - R16,Jack Kennedy,Clement Chidekh,moneyline,,7.53,1.0886,,,,2026-11-04 22:33:10.304036+00:00
 1639894935,2026-11-04 23:30:00+00:00,ATP Challenger Charlottesville - R16,Jack Kennedy,Clement Chidekh,spread,1.5,3.26,1.3584,,,,2026-11-04 22:33:10.304036+00:00
 1639894935,2026-11-04 23:30:00+00:00,ATP Challenger Charlottesville - R16,Jack Kennedy,Clement Chidekh,total,2.5,,,,3.99,1.2618,2026-11-04 22:33:10.304036+00:00
-1639922574,2026-11-04 23:05:00+00:00,ITF Women Orlando - R1,Ashton Bowers,Julia Adams,moneyline,,2.06,1.7812,,,,2026-11-04 23:03:11.616689+00:00
-1639922574,2026-11-04 23:05:00+00:00,ITF Women Orlando - R1,Ashton Bowers,Julia Adams,spread,1.5,1.5,2.63,,,,2026-11-04 23:03:11.616689+00:00
-1639922574,2026-11-04 23:05:00+00:00,ITF Women Orlando - R1,Ashton Bowers,Julia Adams,total,2.5,,,,2.65,1.4902,2026-11-04 23:03:11.616689+00:00
 1639855020,2026-11-04 23:30:00+00:00,ATP Challenger Costa do Sauipe - R16,Gustavo Heide,Juan Carlos Prado Angelo,moneyline,,1.6993,2.25,,,,2026-11-04 23:03:11.616689+00:00
 1639855020,2026-11-04 23:30:00+00:00,ATP Challenger Costa do Sauipe - R16,Gustavo Heide,Juan Carlos Prado Angelo,spread,-1.5,2.53,1.5556,,,,2026-11-04 23:03:11.616689+00:00
 1639855020,2026-11-04 23:30:00+00:00,ATP Challenger Costa do Sauipe - R16,Gustavo Heide,Juan Carlos Prado Angelo,total,2.5,,,,2.47,1.578,2026-11-04 23:03:11.616689+00:00
@@ -439,398 +287,250 @@ matchup,start,league,home,away,market,line,o_home,o_away,o_draw,o_over,o_under,s
 1639961904,2026-11-05 02:00:00+00:00,ITF Men Maanshan - R16,Maxim Zhukov,Yue Xia,moneyline,,1.1529,5.58,,,,2026-11-05 01:41:53.868182+00:00
 1639961904,2026-11-05 02:00:00+00:00,ITF Men Maanshan - R16,Maxim Zhukov,Yue Xia,spread,-1.5,1.4831,2.68,,,,2026-11-05 01:41:53.868182+00:00
 1639961904,2026-11-05 02:00:00+00:00,ITF Men Maanshan - R16,Maxim Zhukov,Yue Xia,total,2.5,,,,3.5,1.3115,2026-11-05 01:41:53.868182+00:00
-1639922636,2026-11-05 03:00:00+00:00,ITF Women Incheon - R16,Yujin Kim,Berfu Cengiz,moneyline,,5.05,1.1779,,,,2026-11-05 01:41:53.868182+00:00
-1639922636,2026-11-05 03:00:00+00:00,ITF Women Incheon - R16,Yujin Kim,Berfu Cengiz,spread,1.5,2.85,1.4367,,,,2026-11-05 01:41:53.868182+00:00
-1639922636,2026-11-05 03:00:00+00:00,ITF Women Incheon - R16,Yujin Kim,Berfu Cengiz,total,2.5,,,,4.09,1.2445,2026-11-05 01:41:53.868182+00:00
-1639975144,2026-11-05 10:00:00+00:00,ITF Women Heraklion - R16,Matilde Paoletti,Martha Matoula,moneyline,,1.5208,2.45,,,,2026-11-05 01:41:53.868182+00:00
-1639975144,2026-11-05 10:00:00+00:00,ITF Women Heraklion - R16,Matilde Paoletti,Martha Matoula,spread,-1.5,2.36,1.5587,,,,2026-11-05 01:41:53.868182+00:00
-1639975144,2026-11-05 10:00:00+00:00,ITF Women Heraklion - R16,Matilde Paoletti,Martha Matoula,total,2.5,,,,2.39,1.5464,2026-11-05 01:41:53.868182+00:00
-1639935801,2026-11-05 11:00:00+00:00,ATP Challenger Taranto - R16,Maxim Mrva,Thomas Faurel,moneyline,,1.4808,2.69,,,,2026-11-05 01:41:53.868182+00:00
-1639935801,2026-11-05 11:00:00+00:00,ATP Challenger Taranto - R16,Maxim Mrva,Thomas Faurel,spread,-1.5,2.24,1.6667,,,,2026-11-05 01:41:53.868182+00:00
-1639935801,2026-11-05 11:00:00+00:00,ATP Challenger Taranto - R16,Maxim Mrva,Thomas Faurel,total,2.5,,,,2.52,1.5348,2026-11-05 01:41:53.868182+00:00
-1639964853,2026-11-05 09:00:00+00:00,WTA Hong Kong - Doubles,I-Hsuan Cho / Yi Tsen Cho,Xinyu Jiang / Hong Yi Cody Wong,moneyline,,2.04,1.7937,,,,2026-11-05 01:41:53.868182+00:00
-1639935782,2026-11-05 09:30:00+00:00,ATP Challenger Taranto - R16,Adrian Andreev,Matteo Martineau,moneyline,,2.33,1.6173,,,,2026-11-05 01:41:53.868182+00:00
-1639935782,2026-11-05 09:30:00+00:00,ATP Challenger Taranto - R16,Adrian Andreev,Matteo Martineau,spread,1.5,1.5291,2.54,,,,2026-11-05 01:41:53.868182+00:00
-1639935782,2026-11-05 09:30:00+00:00,ATP Challenger Taranto - R16,Adrian Andreev,Matteo Martineau,total,2.5,,,,2.3,1.6289,2026-11-05 01:41:53.868182+00:00
-1639904760,2026-11-05 16:00:00+00:00,ITF Women Huamantla - R16,Ingrid Carolina Millan Acosta,Malaika Rapolu,moneyline,,27.29,1.0074,,,,2026-11-05 01:41:53.868182+00:00
-1639979737,2026-11-05 11:30:00+00:00,ITF Women Petange - R16,Mina Hodzic,Lola Radivojevic,moneyline,,2.7,1.4386,,,,2026-11-05 01:41:53.868182+00:00
-1639979737,2026-11-05 11:30:00+00:00,ITF Women Petange - R16,Mina Hodzic,Lola Radivojevic,spread,1.5,1.7246,2.06,,,,2026-11-05 01:41:53.868182+00:00
-1639979737,2026-11-05 11:30:00+00:00,ITF Women Petange - R16,Mina Hodzic,Lola Radivojevic,total,2.5,,,,2.52,1.495,2026-11-05 01:41:53.868182+00:00
-1639975140,2026-11-05 10:00:00+00:00,ITF Women Heraklion - R16,Jennifer Ruggeri,Eliska Tichackova,moneyline,,1.3891,2.89,,,,2026-11-05 01:41:53.868182+00:00
-1639975140,2026-11-05 10:00:00+00:00,ITF Women Heraklion - R16,Jennifer Ruggeri,Eliska Tichackova,spread,-1.5,1.9346,1.8264,,,,2026-11-05 01:41:53.868182+00:00
-1639975140,2026-11-05 10:00:00+00:00,ITF Women Heraklion - R16,Jennifer Ruggeri,Eliska Tichackova,total,2.5,,,,2.76,1.4202,2026-11-05 01:41:53.868182+00:00
-1639863317,2026-11-05 12:30:00+00:00,WTA Chennai - R16,Anastasia Zakharova,Vaishnavi Adkar,moneyline,,1.1046,7.71,,,,2026-11-05 01:41:53.868182+00:00
-1639863317,2026-11-05 12:30:00+00:00,WTA Chennai - R16,Anastasia Zakharova,Vaishnavi Adkar,spread,-1.5,1.3861,3.2,,,,2026-11-05 01:41:53.868182+00:00
-1639863317,2026-11-05 12:30:00+00:00,WTA Chennai - R16,Anastasia Zakharova,Vaishnavi Adkar,total,2.5,,,,3.94,1.2817,2026-11-05 01:41:53.868182+00:00
-1639975079,2026-11-05 23:00:00+00:00,ITF Men Monastir - R16,Kasra Rahmani,Aziz Dougaz,moneyline,,4.08,1.2179,,,,2026-11-05 01:41:53.868182+00:00
-1639975079,2026-11-05 23:00:00+00:00,ITF Men Monastir - R16,Kasra Rahmani,Aziz Dougaz,spread,1.5,2.22,1.6289,,,,2026-11-05 01:41:53.868182+00:00
-1639975079,2026-11-05 23:00:00+00:00,ITF Men Monastir - R16,Kasra Rahmani,Aziz Dougaz,total,2.5,,,,2.97,1.3717,2026-11-05 01:41:53.868182+00:00
-1639982106,2026-11-05 17:00:00+00:00,ITF Women Petange - R16,Isis Louise Van Den Broek,Anna Siskova,moneyline,,3.78,1.2475,,,,2026-11-05 01:41:53.868182+00:00
-1639982106,2026-11-05 17:00:00+00:00,ITF Women Petange - R16,Isis Louise Van Den Broek,Anna Siskova,spread,1.5,2.06,1.7299,,,,2026-11-05 01:41:53.868182+00:00
-1639982106,2026-11-05 17:00:00+00:00,ITF Women Petange - R16,Isis Louise Van Den Broek,Anna Siskova,total,2.5,,,,2.77,1.4184,2026-11-05 01:41:53.868182+00:00
-1639971919,2026-11-05 11:00:00+00:00,ITF Women Monastir - R16,Amarni Banks,Marta Soriano Santiago,moneyline,,1.3745,2.95,,,,2026-11-05 01:41:53.868182+00:00
-1639971919,2026-11-05 11:00:00+00:00,ITF Women Monastir - R16,Amarni Banks,Marta Soriano Santiago,spread,-1.5,1.9174,1.8403,,,,2026-11-05 01:41:53.868182+00:00
-1639971919,2026-11-05 11:00:00+00:00,ITF Women Monastir - R16,Amarni Banks,Marta Soriano Santiago,total,2.5,,,,2.77,1.4184,2026-11-05 01:41:53.868182+00:00
-1639975142,2026-11-05 09:00:00+00:00,ITF Men Heraklion - R16,Robert Guna,Robin Bertrand,moneyline,,5.5,1.1337,,,,2026-11-05 01:41:53.868182+00:00
-1639975142,2026-11-05 09:00:00+00:00,ITF Men Heraklion - R16,Robert Guna,Robin Bertrand,spread,1.5,2.83,1.4016,,,,2026-11-05 01:41:53.868182+00:00
-1639975142,2026-11-05 09:00:00+00:00,ITF Men Heraklion - R16,Robert Guna,Robin Bertrand,total,2.5,,,,3.78,1.2475,2026-11-05 01:41:53.868182+00:00
-1639964827,2026-11-05 14:00:00+00:00,ATP Challenger Taranto - R16,Francesco Maestrelli,Peter Makk,moneyline,,1.33,3.38,,,,2026-11-05 01:41:53.868182+00:00
-1639964827,2026-11-05 14:00:00+00:00,ATP Challenger Taranto - R16,Francesco Maestrelli,Peter Makk,spread,-1.5,1.9174,1.9009,,,,2026-11-05 01:41:53.868182+00:00
-1639964827,2026-11-05 14:00:00+00:00,ATP Challenger Taranto - R16,Francesco Maestrelli,Peter Makk,total,2.5,,,,2.66,1.4878,2026-11-05 01:41:53.868182+00:00
-1639935785,2026-11-05 03:00:00+00:00,ITF Women Hamamatsu - R16,Chia Yi Tsao,Kisa Yoshioka,moneyline,,1.9434,1.8772,,,,2026-11-05 01:41:53.868182+00:00
-1639935785,2026-11-05 03:00:00+00:00,ITF Women Hamamatsu - R16,Chia Yi Tsao,Kisa Yoshioka,spread,-1.5,2.82,1.4425,,,,2026-11-05 01:41:53.868182+00:00
-1639935785,2026-11-05 03:00:00+00:00,ITF Women Hamamatsu - R16,Chia Yi Tsao,Kisa Yoshioka,total,2.5,,,,2.74,1.4651,2026-11-05 01:41:53.868182+00:00
-1639964843,2026-11-05 04:00:00+00:00,ITF Women Maanshan - R16,Yushan Shao,Yihan Qu,moneyline,,1.9804,1.8475,,,,2026-11-05 01:41:53.868182+00:00
-1639964843,2026-11-05 04:00:00+00:00,ITF Women Maanshan - R16,Yushan Shao,Yihan Qu,spread,1.5,1.4274,2.88,,,,2026-11-05 01:41:53.868182+00:00
-1639964843,2026-11-05 04:00:00+00:00,ITF Women Maanshan - R16,Yushan Shao,Yihan Qu,total,2.5,,,,2.53,1.5348,2026-11-05 01:41:53.868182+00:00
-1639935762,2026-11-05 04:30:00+00:00,ITF Women Incheon - R16,JiaYi Wang,Boyoung Jeong,moneyline,,1.5556,2.47,,,,2026-11-05 01:41:53.868182+00:00
-1639935762,2026-11-05 04:30:00+00:00,ITF Women Incheon - R16,JiaYi Wang,Boyoung Jeong,spread,-1.5,2.27,1.6452,,,,2026-11-05 01:41:53.868182+00:00
-1639935762,2026-11-05 04:30:00+00:00,ITF Women Incheon - R16,JiaYi Wang,Boyoung Jeong,total,2.5,,,,2.65,1.4926,2026-11-05 01:41:53.868182+00:00
-1639971903,2026-11-05 10:00:00+00:00,ATP Paris - Doubles,Orlando Luz / Rafael Matos,Lucas Miedler / Neil Oberleitner,moneyline,,2.42,1.565,,,,2026-11-05 01:41:53.868182+00:00
-1639961902,2026-11-05 05:30:00+00:00,ITF Men Maanshan - R16,Xirui Han,Qian Sun,moneyline,,3.42,1.3236,,,,2026-11-05 01:41:53.868182+00:00
-1639961902,2026-11-05 05:30:00+00:00,ITF Men Maanshan - R16,Xirui Han,Qian Sun,spread,1.5,1.8696,1.9524,,,,2026-11-05 01:41:53.868182+00:00
-1639961902,2026-11-05 05:30:00+00:00,ITF Men Maanshan - R16,Xirui Han,Qian Sun,total,2.5,,,,2.57,1.5181,2026-11-05 01:41:53.868182+00:00
-1639964874,2026-11-05 23:00:00+00:00,ITF Women Monastir - R16,Francesca Gandolfi,Mailuodi Lei,moneyline,,1.3344,3.16,,,,2026-11-05 01:41:53.868182+00:00
-1639964874,2026-11-05 23:00:00+00:00,ITF Women Monastir - R16,Francesca Gandolfi,Mailuodi Lei,spread,-1.5,1.8,1.9615,,,,2026-11-05 01:41:53.868182+00:00
-1639964874,2026-11-05 23:00:00+00:00,ITF Women Monastir - R16,Francesca Gandolfi,Mailuodi Lei,total,2.5,,,,2.94,1.3788,2026-11-05 01:41:53.868182+00:00
-1639975139,2026-11-05 09:00:00+00:00,ITF Men Heraklion - R16,Gilles Arnaud Bailly,Benjamin Pietri,moneyline,,1.5,2.51,,,,2026-11-05 01:41:53.868182+00:00
-1639975139,2026-11-05 09:00:00+00:00,ITF Men Heraklion - R16,Gilles Arnaud Bailly,Benjamin Pietri,spread,-1.5,2.19,1.641,,,,2026-11-05 01:41:53.868182+00:00
-1639975139,2026-11-05 09:00:00+00:00,ITF Men Heraklion - R16,Gilles Arnaud Bailly,Benjamin Pietri,total,2.5,,,,2.66,1.4505,2026-11-05 01:41:53.868182+00:00
-1639975099,2026-11-05 11:00:00+00:00,ITF Women Liberec - R16,Denisa Zoldakova,Federica Urgesi,moneyline,,2.21,1.6329,,,,2026-11-05 01:41:53.868182+00:00
-1639975099,2026-11-05 11:00:00+00:00,ITF Women Liberec - R16,Denisa Zoldakova,Federica Urgesi,spread,1.5,1.5181,2.46,,,,2026-11-05 01:41:53.868182+00:00
-1639975099,2026-11-05 11:00:00+00:00,ITF Women Liberec - R16,Denisa Zoldakova,Federica Urgesi,total,2.5,,,,2.45,1.5208,2026-11-05 01:41:53.868182+00:00
-1639964819,2026-11-05 12:30:00+00:00,ATP Challenger Bratislava - R16,Laslo Djere,Otto Virtanen,moneyline,,2.46,1.5848,,,,2026-11-05 01:41:53.868182+00:00
-1639964819,2026-11-05 12:30:00+00:00,ATP Challenger Bratislava - R16,Laslo Djere,Otto Virtanen,spread,1.5,1.5263,2.58,,,,2026-11-05 01:41:53.868182+00:00
-1639964819,2026-11-05 12:30:00+00:00,ATP Challenger Bratislava - R16,Laslo Djere,Otto Virtanen,total,2.5,,,,2.22,1.6849,2026-11-05 01:41:53.868182+00:00
-1639936047,2026-11-05 09:00:00+00:00,WTA 125k Luanda - R16,Kristina Kroitor,Ksenia Zaytseva,moneyline,,3.03,1.3937,,,,2026-11-05 01:41:53.868182+00:00
-1639936047,2026-11-05 09:00:00+00:00,WTA 125k Luanda - R16,Kristina Kroitor,Ksenia Zaytseva,spread,1.5,1.885,1.9346,,,,2026-11-05 01:41:53.868182+00:00
-1639936047,2026-11-05 09:00:00+00:00,WTA 125k Luanda - R16,Kristina Kroitor,Ksenia Zaytseva,total,2.5,,,,2.84,1.4367,2026-11-05 01:41:53.868182+00:00
-1639979746,2026-11-05 10:00:00+00:00,ITF Women Heraklion - R16,Joelle Lilly Sophie Steur,Lucie Nguyen Tan,moneyline,,1.2755,3.54,,,,2026-11-05 01:41:53.868182+00:00
-1639979746,2026-11-05 10:00:00+00:00,ITF Women Heraklion - R16,Joelle Lilly Sophie Steur,Lucie Nguyen Tan,spread,-1.5,1.6803,2.13,,,,2026-11-05 01:41:53.868182+00:00
-1639979746,2026-11-05 10:00:00+00:00,ITF Women Heraklion - R16,Joelle Lilly Sophie Steur,Lucie Nguyen Tan,total,2.5,,,,3.04,1.3571,2026-11-05 01:41:53.868182+00:00
-1639964894,2026-11-05 11:00:00+00:00,ITF Women Liberec - R16,Alena Kovackova,Lenka Munzarova,moneyline,,1.0541,9.46,,,,2026-11-05 01:41:53.868182+00:00
-1639975114,2026-11-05 09:00:00+00:00,ITF Men Valencia - R16,Yshai Oliel,Ignacio Parisca,moneyline,,2.6,1.4673,,,,2026-11-05 01:41:53.868182+00:00
-1639975114,2026-11-05 09:00:00+00:00,ITF Men Valencia - R16,Yshai Oliel,Ignacio Parisca,spread,1.5,1.7042,2.09,,,,2026-11-05 01:41:53.868182+00:00
-1639975114,2026-11-05 09:00:00+00:00,ITF Men Valencia - R16,Yshai Oliel,Ignacio Parisca,total,2.5,,,,2.65,1.4545,2026-11-05 01:41:53.868182+00:00
-1639979706,2026-11-05 10:00:00+00:00,ITF Men Valencia - R16,Leonid Sheyngezikht,Sergi Perez Contri,moneyline,,5.75,1.1244,,,,2026-11-05 01:41:53.868182+00:00
-1639979706,2026-11-05 10:00:00+00:00,ITF Men Valencia - R16,Leonid Sheyngezikht,Sergi Perez Contri,spread,1.5,2.65,1.4525,,,,2026-11-05 01:41:53.868182+00:00
-1639979706,2026-11-05 10:00:00+00:00,ITF Men Valencia - R16,Leonid Sheyngezikht,Sergi Perez Contri,total,2.5,,,,3.29,1.3106,2026-11-05 01:41:53.868182+00:00
-1639984851,2026-11-05 18:10:00+00:00,ATP Paris - R16,Matteo Berrettini,Carlos Alcaraz,moneyline,,5.66,1.1739,,,,2026-11-05 01:41:53.868182+00:00
-1639984851,2026-11-05 18:10:00+00:00,ATP Paris - R16,Matteo Berrettini,Carlos Alcaraz,spread,1.5,2.57,1.5495,,,,2026-11-05 01:41:53.868182+00:00
-1639984851,2026-11-05 18:10:00+00:00,ATP Paris - R16,Matteo Berrettini,Carlos Alcaraz,total,2.5,,,,3.24,1.3788,2026-11-05 01:41:53.868182+00:00
-1639975141,2026-11-05 10:00:00+00:00,ITF Women Heraklion - R16,Carlota Martinez Cirez,Nuria Brancaccio,moneyline,,4.19,1.2088,,,,2026-11-05 01:41:53.868182+00:00
-1639975141,2026-11-05 10:00:00+00:00,ITF Women Heraklion - R16,Carlota Martinez Cirez,Nuria Brancaccio,spread,1.5,2.2,1.641,,,,2026-11-05 01:41:53.868182+00:00
-1639975141,2026-11-05 10:00:00+00:00,ITF Women Heraklion - R16,Carlota Martinez Cirez,Nuria Brancaccio,total,2.5,,,,2.87,1.3953,2026-11-05 01:41:53.868182+00:00
-1639922638,2026-11-05 04:00:00+00:00,ITF Women Incheon - R16,Xinxin Yao,Xiaodi You,moneyline,,1.9091,1.9091,,,,2026-11-05 01:41:53.868182+00:00
-1639922638,2026-11-05 04:00:00+00:00,ITF Women Incheon - R16,Xinxin Yao,Xiaodi You,spread,1.5,1.4098,2.96,,,,2026-11-05 01:41:53.868182+00:00
-1639922638,2026-11-05 04:00:00+00:00,ITF Women Incheon - R16,Xinxin Yao,Xiaodi You,total,2.5,,,,2.37,1.5952,2026-11-05 01:41:53.868182+00:00
-1639891341,2026-11-05 11:00:00+00:00,ATP Challenger Taranto - R16,Sumit Nagal,Hugo Grenier,moneyline,,1.885,1.9346,,,,2026-11-05 01:41:53.868182+00:00
-1639891341,2026-11-05 11:00:00+00:00,ATP Challenger Taranto - R16,Sumit Nagal,Hugo Grenier,spread,-1.5,3.11,1.3774,,,,2026-11-05 01:41:53.868182+00:00
-1639891341,2026-11-05 11:00:00+00:00,ATP Challenger Taranto - R16,Sumit Nagal,Hugo Grenier,total,2.5,,,,2.33,1.6173,2026-11-05 01:41:53.868182+00:00
-1639975080,2026-11-05 23:00:00+00:00,ITF Men Monastir - R16,Maxence Rivet,Cesar Bouchelaghem,moneyline,,3.14,1.3367,,,,2026-11-05 01:41:53.868182+00:00
-1639975080,2026-11-05 23:00:00+00:00,ITF Men Monastir - R16,Maxence Rivet,Cesar Bouchelaghem,spread,1.5,1.8772,1.8772,,,,2026-11-05 01:41:53.868182+00:00
-1639975080,2026-11-05 23:00:00+00:00,ITF Men Monastir - R16,Maxence Rivet,Cesar Bouchelaghem,total,2.5,,,,2.73,1.431,2026-11-05 01:41:53.868182+00:00
-1639961833,2026-11-05 03:00:00+00:00,ITF Women Hamamatsu - R16,Shiho Tsujioka,Sera Nishimoto,moneyline,,1.2114,4.5,,,,2026-11-05 01:41:53.868182+00:00
-1639961833,2026-11-05 03:00:00+00:00,ITF Women Hamamatsu - R16,Shiho Tsujioka,Sera Nishimoto,spread,-1.5,1.565,2.45,,,,2026-11-05 01:41:53.868182+00:00
-1639961833,2026-11-05 03:00:00+00:00,ITF Women Hamamatsu - R16,Shiho Tsujioka,Sera Nishimoto,total,2.5,,,,3.44,1.3195,2026-11-05 01:41:53.868182+00:00
-1639904586,2026-11-05 10:30:00+00:00,WTA 125k Luanda - R16,Justina Mikulskyte,Tiphanie Lemaitre,moneyline,,2.28,1.641,,,,2026-11-05 01:41:53.868182+00:00
-1639904586,2026-11-05 10:30:00+00:00,WTA 125k Luanda - R16,Justina Mikulskyte,Tiphanie Lemaitre,spread,1.5,1.5814,2.41,,,,2026-11-05 01:41:53.868182+00:00
-1639904586,2026-11-05 10:30:00+00:00,WTA 125k Luanda - R16,Justina Mikulskyte,Tiphanie Lemaitre,total,2.5,,,,2.66,1.4878,2026-11-05 01:41:53.868182+00:00
-1639975083,2026-11-05 08:30:00+00:00,ITF Men Monastir - R16,Duje Ajdukovic,Kris Van Wyk,moneyline,,1.1277,5.65,,,,2026-11-05 01:41:53.868182+00:00
-1639975083,2026-11-05 08:30:00+00:00,ITF Men Monastir - R16,Duje Ajdukovic,Kris Van Wyk,spread,-1.5,1.4785,2.57,,,,2026-11-05 01:41:53.868182+00:00
-1639975083,2026-11-05 08:30:00+00:00,ITF Men Monastir - R16,Duje Ajdukovic,Kris Van Wyk,total,2.5,,,,3.17,1.3322,2026-11-05 01:41:53.868182+00:00
-1639964840,2026-11-05 02:00:00+00:00,ITF Women Maanshan - R16,Jiaqi Wang,Zijun Jiang,moneyline,,1.2725,3.81,,,,2026-11-05 01:41:53.868182+00:00
-1639964840,2026-11-05 02:00:00+00:00,ITF Women Maanshan - R16,Jiaqi Wang,Zijun Jiang,spread,-1.5,1.6757,2.22,,,,2026-11-05 01:41:53.868182+00:00
-1639964840,2026-11-05 02:00:00+00:00,ITF Women Maanshan - R16,Jiaqi Wang,Zijun Jiang,total,2.5,,,,3.14,1.3717,2026-11-05 01:41:53.868182+00:00
-1639982083,2026-11-05 10:00:00+00:00,ITF Women Heraklion - R16,Deborah Chiesa,Alisa Oktiabreva,moneyline,,5.02,1.155,,,,2026-11-05 01:41:53.868182+00:00
-1639982083,2026-11-05 10:00:00+00:00,ITF Women Heraklion - R16,Deborah Chiesa,Alisa Oktiabreva,spread,1.5,2.42,1.5319,,,,2026-11-05 01:41:53.868182+00:00
-1639982083,2026-11-05 10:00:00+00:00,ITF Women Heraklion - R16,Deborah Chiesa,Alisa Oktiabreva,total,2.5,,,,3.09,1.3472,2026-11-05 01:41:53.868182+00:00
-1639935974,2026-11-05 03:30:00+00:00,ITF Women Incheon - R16,Han Shi,Yujia Huang,moneyline,,1.3215,3.43,,,,2026-11-05 01:41:53.868182+00:00
-1639935974,2026-11-05 03:30:00+00:00,ITF Women Incheon - R16,Han Shi,Yujia Huang,spread,-1.5,1.9615,1.8621,,,,2026-11-05 01:41:53.868182+00:00
-1639935974,2026-11-05 03:30:00+00:00,ITF Women Incheon - R16,Han Shi,Yujia Huang,total,2.5,,,,2.59,1.5128,2026-11-05 01:41:53.868182+00:00
-1639971978,2026-11-05 16:00:00+00:00,ATP Paris - R16,Nuno Borges,Ignacio Buse,moneyline,,1.6623,2.34,,,,2026-11-05 01:41:53.868182+00:00
-1639971978,2026-11-05 16:00:00+00:00,ATP Paris - R16,Nuno Borges,Ignacio Buse,spread,-1.5,2.67,1.5181,,,,2026-11-05 01:41:53.868182+00:00
-1639971978,2026-11-05 16:00:00+00:00,ATP Paris - R16,Nuno Borges,Ignacio Buse,total,2.5,,,,2.34,1.6494,2026-11-05 01:41:53.868182+00:00
-1639892959,2026-11-05 09:00:00+00:00,WTA 125k Luanda - R16,Anna Blinkova,Zongyu Li,moneyline,,1.077,7.95,,,,2026-11-05 01:41:53.868182+00:00
-1639892959,2026-11-05 09:00:00+00:00,WTA 125k Luanda - R16,Anna Blinkova,Zongyu Li,spread,-1.5,1.3497,3.25,,,,2026-11-05 01:41:53.868182+00:00
-1639892959,2026-11-05 09:00:00+00:00,WTA 125k Luanda - R16,Anna Blinkova,Zongyu Li,total,2.5,,,,3.93,1.2604,2026-11-05 01:41:53.868182+00:00
-1639863300,2026-11-05 10:30:00+00:00,WTA Hong Kong - R16,Tereza Valentova,Alexandra Eala,moneyline,,2.6,1.5495,,,,2026-11-05 01:41:53.868182+00:00
-1639863300,2026-11-05 10:30:00+00:00,WTA Hong Kong - R16,Tereza Valentova,Alexandra Eala,spread,1.5,1.641,2.36,,,,2026-11-05 01:41:53.868182+00:00
-1639863300,2026-11-05 10:30:00+00:00,WTA Hong Kong - R16,Tereza Valentova,Alexandra Eala,total,2.5,,,,2.49,1.5814,2026-11-05 01:41:53.868182+00:00
-1639935787,2026-11-05 02:00:00+00:00,ITF Women Hamamatsu - R16,Ayano Shimizu,Haruna Arakawa,moneyline,,1.2481,4.05,,,,2026-11-05 01:41:53.868182+00:00
-1639935787,2026-11-05 02:00:00+00:00,ITF Women Hamamatsu - R16,Ayano Shimizu,Haruna Arakawa,spread,-1.5,1.641,2.28,,,,2026-11-05 01:41:53.868182+00:00
-1639935787,2026-11-05 02:00:00+00:00,ITF Women Hamamatsu - R16,Ayano Shimizu,Haruna Arakawa,total,2.5,,,,3.28,1.346,2026-11-05 01:41:53.868182+00:00
-1639982082,2026-11-05 10:00:00+00:00,ITF Women Heraklion - R16,Maria Golovina,Caijsa Hennemann,moneyline,,3.56,1.2732,,,,2026-11-05 01:41:53.868182+00:00
-1639982082,2026-11-05 10:00:00+00:00,ITF Women Heraklion - R16,Maria Golovina,Caijsa Hennemann,spread,1.5,2.04,1.7407,,,,2026-11-05 01:41:53.868182+00:00
-1639982082,2026-11-05 10:00:00+00:00,ITF Women Heraklion - R16,Maria Golovina,Caijsa Hennemann,total,2.5,,,,2.85,1.4,2026-11-05 01:41:53.868182+00:00
-1639855026,2026-11-05 03:00:00+00:00,ATP Challenger Taipei - R16,Jake Delaney,Omar Jasika,moneyline,,2.6,1.5405,,,,2026-11-05 01:41:53.868182+00:00
-1639855026,2026-11-05 03:00:00+00:00,ATP Challenger Taipei - R16,Jake Delaney,Omar Jasika,spread,1.5,1.6452,2.33,,,,2026-11-05 01:41:53.868182+00:00
-1639855026,2026-11-05 03:00:00+00:00,ATP Challenger Taipei - R16,Jake Delaney,Omar Jasika,total,2.5,,,,2.49,1.5714,2026-11-05 01:41:53.868182+00:00
-1639903160,2026-11-05 16:00:00+00:00,ATP Challenger Bratislava - R16,Dalibor Svrcina,Giovanni Mpetshi Perricard,moneyline,,2.23,1.6944,,,,2026-11-05 01:41:53.868182+00:00
-1639903160,2026-11-05 16:00:00+00:00,ATP Challenger Bratislava - R16,Dalibor Svrcina,Giovanni Mpetshi Perricard,spread,1.5,1.4608,2.79,,,,2026-11-05 01:41:53.868182+00:00
-1639903160,2026-11-05 16:00:00+00:00,ATP Challenger Bratislava - R16,Dalibor Svrcina,Giovanni Mpetshi Perricard,total,2.5,,,,2.22,1.6897,2026-11-05 01:41:53.868182+00:00
-1639964842,2026-11-05 05:30:00+00:00,ITF Women Maanshan - R16,Maria Pankratova,Jiayu Xu,moneyline,,1.3731,3.12,,,,2026-11-05 01:41:53.868182+00:00
-1639964842,2026-11-05 05:30:00+00:00,ITF Women Maanshan - R16,Maria Pankratova,Jiayu Xu,spread,-1.5,1.9174,1.9009,,,,2026-11-05 01:41:53.868182+00:00
-1639964842,2026-11-05 05:30:00+00:00,ITF Women Maanshan - R16,Maria Pankratova,Jiayu Xu,total,2.5,,,,2.84,1.4386,2026-11-05 01:41:53.868182+00:00
-1639936063,2026-11-05 05:30:00+00:00,ITF Men Maanshan - R16,Rigele Te,Zhao Zhao,moneyline,,1.1414,5.88,,,,2026-11-05 01:41:53.868182+00:00
-1639936063,2026-11-05 05:30:00+00:00,ITF Men Maanshan - R16,Rigele Te,Zhao Zhao,spread,-1.5,1.4484,2.8,,,,2026-11-05 01:41:53.868182+00:00
-1639936063,2026-11-05 05:30:00+00:00,ITF Men Maanshan - R16,Rigele Te,Zhao Zhao,total,2.5,,,,3.66,1.2907,2026-11-05 01:41:53.868182+00:00
-1639975132,2026-11-05 14:00:00+00:00,ATP Paris - R16,Rinky Hijikata,Tomas Martin Etcheverry,moneyline,,2.14,1.7752,,,,2026-11-05 01:41:53.868182+00:00
-1639975132,2026-11-05 14:00:00+00:00,ATP Paris - R16,Rinky Hijikata,Tomas Martin Etcheverry,spread,1.5,1.4505,2.9,,,,2026-11-05 01:41:53.868182+00:00
-1639975132,2026-11-05 14:00:00+00:00,ATP Paris - R16,Rinky Hijikata,Tomas Martin Etcheverry,total,2.5,,,,2.32,1.6623,2026-11-05 01:41:53.868182+00:00
-1639964822,2026-11-05 05:00:00+00:00,ITF Men Fergana - R16,Aryan Lakshmanan,David Eichenseher,moneyline,,3.94,1.2597,,,,2026-11-05 01:41:53.868182+00:00
-1639964822,2026-11-05 05:00:00+00:00,ITF Men Fergana - R16,Aryan Lakshmanan,David Eichenseher,spread,1.5,2.17,1.7042,,,,2026-11-05 01:41:53.868182+00:00
-1639964822,2026-11-05 05:00:00+00:00,ITF Men Fergana - R16,Aryan Lakshmanan,David Eichenseher,total,2.5,,,,3.1,1.3788,2026-11-05 01:41:53.868182+00:00
-1639936058,2026-11-05 10:10:00+00:00,ATP Paris - R16,Tommy Paul,Quentin Halys,moneyline,,1.3215,3.67,,,,2026-11-05 01:41:53.868182+00:00
-1639936058,2026-11-05 10:10:00+00:00,ATP Paris - R16,Tommy Paul,Quentin Halys,spread,-1.5,1.9709,1.9009,,,,2026-11-05 01:41:53.868182+00:00
-1639936058,2026-11-05 10:10:00+00:00,ATP Paris - R16,Tommy Paul,Quentin Halys,total,2.5,,,,2.51,1.5747,2026-11-05 01:41:53.868182+00:00
-1639964841,2026-11-05 05:30:00+00:00,ITF Men Maanshan - R16,Millen Hurrion,Lingxi Zhao,moneyline,,1.3546,3.23,,,,2026-11-05 01:41:53.868182+00:00
-1639964841,2026-11-05 05:30:00+00:00,ITF Men Maanshan - R16,Millen Hurrion,Lingxi Zhao,spread,-1.5,1.9091,1.9091,,,,2026-11-05 01:41:53.868182+00:00
-1639964841,2026-11-05 05:30:00+00:00,ITF Men Maanshan - R16,Millen Hurrion,Lingxi Zhao,total,2.5,,,,2.78,1.4525,2026-11-05 01:41:53.868182+00:00
-1639904650,2026-11-05 08:00:00+00:00,ITF Men Heraklion - R16,Andrej Nedic,Karl Friberg,moneyline,,1.4016,2.84,,,,2026-11-05 01:41:53.868182+00:00
-1639904650,2026-11-05 08:00:00+00:00,ITF Men Heraklion - R16,Andrej Nedic,Karl Friberg,spread,-1.5,1.9524,1.8065,,,,2026-11-05 01:41:53.868182+00:00
-1639904650,2026-11-05 08:00:00+00:00,ITF Men Heraklion - R16,Andrej Nedic,Karl Friberg,total,2.5,,,,2.65,1.4545,2026-11-05 01:41:53.868182+00:00
-1639975098,2026-11-05 11:00:00+00:00,ITF Women Liberec - R16,Tereza Krejcova,Lea Boskovic,moneyline,,5.73,1.1248,,,,2026-11-05 01:41:53.868182+00:00
-1639975098,2026-11-05 11:00:00+00:00,ITF Women Liberec - R16,Tereza Krejcova,Lea Boskovic,spread,1.5,2.57,1.4785,,,,2026-11-05 01:41:53.868182+00:00
-1639975098,2026-11-05 11:00:00+00:00,ITF Women Liberec - R16,Tereza Krejcova,Lea Boskovic,total,2.5,,,,3.2,1.3268,2026-11-05 01:41:53.868182+00:00
-1639961882,2026-11-05 05:00:00+00:00,ITF Men Fergana - R16,Digvijay Pratap Singh,Jan Hrazdil,moneyline,,1.2004,4.66,,,,2026-11-05 01:41:53.868182+00:00
-1639961882,2026-11-05 05:00:00+00:00,ITF Men Fergana - R16,Digvijay Pratap Singh,Jan Hrazdil,spread,-1.5,1.4902,2.65,,,,2026-11-05 01:41:53.868182+00:00
-1639961882,2026-11-05 05:00:00+00:00,ITF Men Fergana - R16,Digvijay Pratap Singh,Jan Hrazdil,total,2.5,,,,3.77,1.277,2026-11-05 01:41:53.868182+00:00
-1639964895,2026-11-05 11:00:00+00:00,ITF Women Liberec - R16,Iva Primorac,Julia Stusek,moneyline,,1.8772,1.8772,,,,2026-11-05 01:41:53.868182+00:00
-1639964895,2026-11-05 11:00:00+00:00,ITF Women Liberec - R16,Iva Primorac,Julia Stusek,spread,-1.5,2.89,1.3891,,,,2026-11-05 01:41:53.868182+00:00
-1639964895,2026-11-05 11:00:00+00:00,ITF Women Liberec - R16,Iva Primorac,Julia Stusek,total,2.5,,,,2.44,1.5263,2026-11-05 01:41:53.868182+00:00
-1639982085,2026-11-05 10:30:00+00:00,ITF Women Petange - R16,Lisa Zaar,Lea Nilsson,moneyline,,1.7407,2.04,,,,2026-11-05 01:41:53.868182+00:00
-1639982085,2026-11-05 10:30:00+00:00,ITF Women Petange - R16,Lisa Zaar,Lea Nilsson,spread,-1.5,2.64,1.4545,,,,2026-11-05 01:41:53.868182+00:00
-1639982085,2026-11-05 10:30:00+00:00,ITF Women Petange - R16,Lisa Zaar,Lea Nilsson,total,2.5,,,,2.46,1.5181,2026-11-05 01:41:53.868182+00:00
-1639964871,2026-11-06 03:00:00+00:00,WTA Chennai - QF,Janice Tjen,Polina Kudermetova,moneyline,,1.5814,2.49,,,,2026-11-05 01:41:53.868182+00:00
-1639964871,2026-11-06 03:00:00+00:00,WTA Chennai - QF,Janice Tjen,Polina Kudermetova,spread,-1.5,2.4,1.6098,,,,2026-11-05 01:41:53.868182+00:00
-1639964871,2026-11-06 03:00:00+00:00,WTA Chennai - QF,Janice Tjen,Polina Kudermetova,total,2.5,,,,2.51,1.5618,2026-11-05 01:41:53.868182+00:00
-1639935799,2026-11-05 11:00:00+00:00,ATP Challenger Taranto - R16,Kilian Feldbausch,Remy Bertola,moneyline,,1.9615,1.8621,,,,2026-11-05 01:41:53.868182+00:00
-1639935799,2026-11-05 11:00:00+00:00,ATP Challenger Taranto - R16,Kilian Feldbausch,Remy Bertola,spread,1.5,1.3891,3.05,,,,2026-11-05 01:41:53.868182+00:00
-1639935799,2026-11-05 11:00:00+00:00,ATP Challenger Taranto - R16,Kilian Feldbausch,Remy Bertola,total,2.5,,,,2.31,1.625,2026-11-05 01:41:53.868182+00:00
-1639903222,2026-11-05 04:30:00+00:00,ATP Challenger Taipei - R16,Harold Mayot,Sho Shimabukuro,moneyline,,1.7874,2.11,,,,2026-11-05 01:41:53.868182+00:00
-1639903222,2026-11-05 04:30:00+00:00,ATP Challenger Taipei - R16,Harold Mayot,Sho Shimabukuro,spread,-1.5,2.88,1.4464,,,,2026-11-05 01:41:53.868182+00:00
-1639903222,2026-11-05 04:30:00+00:00,ATP Challenger Taipei - R16,Harold Mayot,Sho Shimabukuro,total,2.5,,,,2.32,1.6494,2026-11-05 01:41:53.868182+00:00
-1639971950,2026-11-05 09:00:00+00:00,ITF Men Valencia - R16,Izan Almazan Valiente,Iliyan Radulov,moneyline,,1.7092,2.08,,,,2026-11-05 01:41:53.868182+00:00
-1639971950,2026-11-05 09:00:00+00:00,ITF Men Valencia - R16,Izan Almazan Valiente,Iliyan Radulov,spread,-1.5,2.52,1.495,,,,2026-11-05 01:41:53.868182+00:00
-1639971950,2026-11-05 09:00:00+00:00,ITF Men Valencia - R16,Izan Almazan Valiente,Iliyan Radulov,total,2.5,,,,2.5,1.5025,2026-11-05 01:41:53.868182+00:00
-1639936064,2026-11-05 05:30:00+00:00,ITF Men Maanshan - R16,Xin Zhou,Tianhui Zhang,moneyline,,5.97,1.1383,,,,2026-11-05 01:41:53.868182+00:00
-1639936064,2026-11-05 05:30:00+00:00,ITF Men Maanshan - R16,Xin Zhou,Tianhui Zhang,spread,1.5,2.8,1.4484,,,,2026-11-05 01:41:53.868182+00:00
-1639936064,2026-11-05 05:30:00+00:00,ITF Men Maanshan - R16,Xin Zhou,Tianhui Zhang,total,2.5,,,,3.62,1.2959,2026-11-05 01:41:53.868182+00:00
-1639979703,2026-11-05 10:00:00+00:00,ITF Men Valencia - R16,Samuele Pieri,Marcel Zielinski,moneyline,,1.3731,2.96,,,,2026-11-05 01:41:53.868182+00:00
-1639979703,2026-11-05 10:00:00+00:00,ITF Men Valencia - R16,Samuele Pieri,Marcel Zielinski,spread,-1.5,1.8333,1.9174,,,,2026-11-05 01:41:53.868182+00:00
-1639979703,2026-11-05 10:00:00+00:00,ITF Men Valencia - R16,Samuele Pieri,Marcel Zielinski,total,2.5,,,,2.91,1.3846,2026-11-05 01:41:53.868182+00:00
-1639863261,2026-11-05 04:30:00+00:00,ATP Challenger Taipei - R16,Yosuke Watanuki,Masamichi Imamura,moneyline,,1.1634,5.62,,,,2026-11-05 01:41:53.868182+00:00
-1639863261,2026-11-05 04:30:00+00:00,ATP Challenger Taipei - R16,Yosuke Watanuki,Masamichi Imamura,spread,-1.5,1.5236,2.62,,,,2026-11-05 01:41:53.868182+00:00
-1639863261,2026-11-05 04:30:00+00:00,ATP Challenger Taipei - R16,Yosuke Watanuki,Masamichi Imamura,total,2.5,,,,3.42,1.3401,2026-11-05 01:41:53.868182+00:00
-1639935786,2026-11-05 03:00:00+00:00,ITF Women Hamamatsu - R16,Kanon Sawashiro,Sae Noguchi,moneyline,,1.7937,2.04,,,,2026-11-05 01:41:53.868182+00:00
-1639935786,2026-11-05 03:00:00+00:00,ITF Women Hamamatsu - R16,Kanon Sawashiro,Sae Noguchi,spread,-1.5,2.85,1.4348,,,,2026-11-05 01:41:53.868182+00:00
-1639935786,2026-11-05 03:00:00+00:00,ITF Women Hamamatsu - R16,Kanon Sawashiro,Sae Noguchi,total,2.5,,,,2.5,1.5464,2026-11-05 01:41:53.868182+00:00
-1639936062,2026-11-05 04:00:00+00:00,ITF Women Maanshan - R16,Ikumi Yamazaki,Wenfei Yu,moneyline,,1.4082,2.96,,,,2026-11-05 01:41:53.868182+00:00
-1639936062,2026-11-05 04:00:00+00:00,ITF Women Maanshan - R16,Ikumi Yamazaki,Wenfei Yu,spread,-1.5,1.9091,1.9091,,,,2026-11-05 01:41:53.868182+00:00
-1639936062,2026-11-05 04:00:00+00:00,ITF Women Maanshan - R16,Ikumi Yamazaki,Wenfei Yu,total,2.5,,,,2.98,1.4032,2026-11-05 01:41:53.868182+00:00
-1639964893,2026-11-05 23:00:00+00:00,ITF Women Liberec - R16,Valentina Ryser,Josy Daems,moneyline,,1.3497,3.08,,,,2026-11-05 01:41:53.868182+00:00
-1639964893,2026-11-05 23:00:00+00:00,ITF Women Liberec - R16,Valentina Ryser,Josy Daems,spread,-1.5,1.9524,1.8065,,,,2026-11-05 01:41:53.868182+00:00
-1639964893,2026-11-05 23:00:00+00:00,ITF Women Liberec - R16,Valentina Ryser,Josy Daems,total,2.5,,,,2.59,1.4739,2026-11-05 01:41:53.868182+00:00
-1639984850,2026-11-05 17:30:00+00:00,ITF Women Petange - R16,Oceane Dodin,Fiona Crawley,moneyline,,2.1,1.6993,,,,2026-11-05 01:41:53.868182+00:00
-1639984850,2026-11-05 17:30:00+00:00,ITF Women Petange - R16,Oceane Dodin,Fiona Crawley,spread,1.5,1.4484,2.67,,,,2026-11-05 01:41:53.868182+00:00
-1639984850,2026-11-05 17:30:00+00:00,ITF Women Petange - R16,Oceane Dodin,Fiona Crawley,total,2.5,,,,2.3,1.5848,2026-11-05 01:41:53.868182+00:00
-1639961900,2026-11-05 04:00:00+00:00,ITF Men Maanshan - R16,Daniil Sarksian,Boxiong Zhang,moneyline,,1.4367,2.84,,,,2026-11-05 01:41:53.868182+00:00
-1639961900,2026-11-05 04:00:00+00:00,ITF Men Maanshan - R16,Daniil Sarksian,Boxiong Zhang,spread,-1.5,2.03,1.8,,,,2026-11-05 01:41:53.868182+00:00
-1639961900,2026-11-05 04:00:00+00:00,ITF Men Maanshan - R16,Daniil Sarksian,Boxiong Zhang,total,2.5,,,,2.78,1.4525,2026-11-05 01:41:53.868182+00:00
-1639971923,2026-11-05 11:00:00+00:00,ITF Women Monastir - R16,Mia Horvit,Ela Nala Milic,moneyline,,1.3571,3.04,,,,2026-11-05 01:41:53.868182+00:00
-1639971923,2026-11-05 11:00:00+00:00,ITF Women Monastir - R16,Mia Horvit,Ela Nala Milic,spread,-1.5,1.813,1.9434,,,,2026-11-05 01:41:53.868182+00:00
-1639971923,2026-11-05 11:00:00+00:00,ITF Women Monastir - R16,Mia Horvit,Ela Nala Milic,total,2.5,,,,3.07,1.3509,2026-11-05 01:41:53.868182+00:00
-1639870317,2026-11-05 09:30:00+00:00,ATP Challenger Taranto - R16,Jay Clarke,Gianluca Cadenasso,moneyline,,1.9346,1.885,,,,2026-11-05 01:41:53.868182+00:00
-1639870317,2026-11-05 09:30:00+00:00,ATP Challenger Taranto - R16,Jay Clarke,Gianluca Cadenasso,spread,1.5,1.3891,3.05,,,,2026-11-05 01:41:53.868182+00:00
-1639870317,2026-11-05 09:30:00+00:00,ATP Challenger Taranto - R16,Jay Clarke,Gianluca Cadenasso,total,2.5,,,,2.37,1.5988,2026-11-05 01:41:53.868182+00:00
-1639979745,2026-11-05 10:00:00+00:00,ITF Women Heraklion - R16,Angela Fita Boluda,Loes Ebeling Koning,moneyline,,2.26,1.6024,,,,2026-11-05 01:41:53.868182+00:00
-1639979745,2026-11-05 10:00:00+00:00,ITF Women Heraklion - R16,Angela Fita Boluda,Loes Ebeling Koning,spread,1.5,1.5848,2.3,,,,2026-11-05 01:41:53.868182+00:00
-1639979745,2026-11-05 10:00:00+00:00,ITF Women Heraklion - R16,Angela Fita Boluda,Loes Ebeling Koning,total,2.5,,,,2.69,1.4405,2026-11-05 01:41:53.868182+00:00
-1639904590,2026-11-05 11:00:00+00:00,WTA Chennai - R16,Simona Waltert,Lucrezia Stefanini,moneyline,,2.73,1.4975,,,,2026-11-05 01:41:53.868182+00:00
-1639904590,2026-11-05 11:00:00+00:00,WTA Chennai - R16,Simona Waltert,Lucrezia Stefanini,spread,1.5,1.7353,2.17,,,,2026-11-05 01:41:53.868182+00:00
-1639904590,2026-11-05 11:00:00+00:00,WTA Chennai - R16,Simona Waltert,Lucrezia Stefanini,total,2.5,,,,2.7,1.4975,2026-11-05 01:41:53.868182+00:00
-1639922558,2026-11-05 09:00:00+00:00,ATP Challenger Taipei - R16,Carl Emil Overbeck,Kasidit Samrej,moneyline,,1.8197,2.05,,,,2026-11-05 01:41:53.868182+00:00
-1639922558,2026-11-05 09:00:00+00:00,ATP Challenger Taipei - R16,Carl Emil Overbeck,Kasidit Samrej,spread,-1.5,2.87,1.4405,,,,2026-11-05 01:41:53.868182+00:00
-1639922558,2026-11-05 09:00:00+00:00,ATP Challenger Taipei - R16,Carl Emil Overbeck,Kasidit Samrej,total,2.5,,,,2.39,1.6024,2026-11-05 01:41:53.868182+00:00
-1639964875,2026-11-05 23:00:00+00:00,ITF Women Monastir - R16,Lya Isabel Fernandez Olivares,Astrid Cirotte,moneyline,,3.59,1.2695,,,,2026-11-05 01:41:53.868182+00:00
-1639964875,2026-11-05 23:00:00+00:00,ITF Women Monastir - R16,Lya Isabel Fernandez Olivares,Astrid Cirotte,spread,1.5,2.02,1.7576,,,,2026-11-05 01:41:53.868182+00:00
-1639964875,2026-11-05 23:00:00+00:00,ITF Women Monastir - R16,Lya Isabel Fernandez Olivares,Astrid Cirotte,total,2.5,,,,2.84,1.4,2026-11-05 01:41:53.868182+00:00
-1639982141,2026-11-05 18:00:00+00:00,ATP Paris - R16,Jan-Lennard Struff,Casper Ruud,moneyline,,2.6,1.5525,,,,2026-11-05 01:41:53.868182+00:00
-1639982141,2026-11-05 18:00:00+00:00,ATP Paris - R16,Jan-Lennard Struff,Casper Ruud,spread,1.5,1.565,2.53,,,,2026-11-05 01:41:53.868182+00:00
-1639982141,2026-11-05 18:00:00+00:00,ATP Paris - R16,Jan-Lennard Struff,Casper Ruud,total,2.5,,,,2.26,1.6897,2026-11-05 01:41:53.868182+00:00
-1639904759,2026-11-05 16:00:00+00:00,ITF Women Huamantla - R16,Zuzanna Pawlikowska,Misa Malkin,moneyline,,1.0612,8.8,,,,2026-11-05 01:41:53.868182+00:00
-1639870235,2026-11-05 12:00:00+00:00,WTA Hong Kong - R16,Sorana Cirstea,Mary Stoiana,moneyline,,1.2571,4.28,,,,2026-11-05 01:41:53.868182+00:00
-1639870235,2026-11-05 12:00:00+00:00,WTA Hong Kong - R16,Sorana Cirstea,Mary Stoiana,spread,-1.5,1.6897,2.27,,,,2026-11-05 01:41:53.868182+00:00
-1639870235,2026-11-05 12:00:00+00:00,WTA Hong Kong - R16,Sorana Cirstea,Mary Stoiana,total,2.5,,,,3.13,1.4,2026-11-05 01:41:53.868182+00:00
-1639936040,2026-11-05 05:00:00+00:00,ITF Men Fergana - R16,Dmitry Bessonov,Makar Krivoshchekov,moneyline,,1.1965,4.72,,,,2026-11-05 01:41:53.868182+00:00
-1639936040,2026-11-05 05:00:00+00:00,ITF Men Fergana - R16,Dmitry Bessonov,Makar Krivoshchekov,spread,-1.5,1.5263,2.55,,,,2026-11-05 01:41:53.868182+00:00
-1639936040,2026-11-05 05:00:00+00:00,ITF Men Fergana - R16,Dmitry Bessonov,Makar Krivoshchekov,total,2.5,,,,3.52,1.3096,2026-11-05 01:41:53.868182+00:00
-1639964899,2026-11-05 12:30:00+00:00,ATP Challenger Bratislava - R16,Tom Gentzsch,Matej Dodig,moneyline,,2.47,1.578,,,,2026-11-05 01:41:53.868182+00:00
-1639964899,2026-11-05 12:30:00+00:00,ATP Challenger Bratislava - R16,Tom Gentzsch,Matej Dodig,spread,1.5,1.5236,2.58,,,,2026-11-05 01:41:53.868182+00:00
-1639964899,2026-11-05 12:30:00+00:00,ATP Challenger Bratislava - R16,Tom Gentzsch,Matej Dodig,total,2.5,,,,2.29,1.6494,2026-11-05 01:41:53.868182+00:00
-1639922637,2026-11-05 03:00:00+00:00,ITF Women Incheon - R16,Zhuoxuan Bai,Sara Saito,moneyline,,1.5319,2.54,,,,2026-11-05 01:41:53.868182+00:00
-1639922637,2026-11-05 03:00:00+00:00,ITF Women Incheon - R16,Zhuoxuan Bai,Sara Saito,spread,-1.5,2.26,1.6536,,,,2026-11-05 01:41:53.868182+00:00
-1639922637,2026-11-05 03:00:00+00:00,ITF Women Incheon - R16,Zhuoxuan Bai,Sara Saito,total,2.5,,,,2.55,1.5263,2026-11-05 01:41:53.868182+00:00
-1639936041,2026-11-05 05:00:00+00:00,ITF Men Fergana - R16,Adrian Arcon,Amir Omarkhanov,moneyline,,30.33,1.0112,,,,2026-11-05 01:41:53.868182+00:00
-1639975097,2026-11-05 11:30:00+00:00,ATP Paris - Doubles,Harri Heliovaara / Henry Patten,Sadio Doumbia / David Pel,moneyline,,1.2198,4.3,,,,2026-11-05 01:41:53.868182+00:00
-1639971953,2026-11-06 03:30:00+00:00,WTA Chennai - QF,Robin Montgomery,Maaya Rajeshwaran Revathi,moneyline,,1.1669,5.68,,,,2026-11-05 01:41:53.868182+00:00
-1639971953,2026-11-06 03:30:00+00:00,WTA Chennai - QF,Robin Montgomery,Maaya Rajeshwaran Revathi,spread,-1.5,1.5236,2.61,,,,2026-11-05 01:41:53.868182+00:00
-1639971953,2026-11-06 03:30:00+00:00,WTA Chennai - QF,Robin Montgomery,Maaya Rajeshwaran Revathi,total,2.5,,,,3.39,1.3448,2026-11-05 01:41:53.868182+00:00
-1639961905,2026-11-05 04:00:00+00:00,ITF Women Maanshan - R16,Yingqun Sun,Marianna Shikhanova,moneyline,,1.4,3.0,,,,2026-11-05 01:41:53.868182+00:00
-1639961905,2026-11-05 04:00:00+00:00,ITF Women Maanshan - R16,Yingqun Sun,Marianna Shikhanova,spread,-1.5,2.0,1.8197,,,,2026-11-05 01:41:53.868182+00:00
-1639961905,2026-11-05 04:00:00+00:00,ITF Women Maanshan - R16,Yingqun Sun,Marianna Shikhanova,total,2.5,,,,2.73,1.4673,2026-11-05 01:41:53.868182+00:00
-1639979705,2026-11-05 09:00:00+00:00,ITF Men Valencia - R16,Alberto Barroso Campos,Alejandro Manzanera Pertusa,moneyline,,2.78,1.4167,,,,2026-11-05 01:41:53.868182+00:00
-1639979705,2026-11-05 09:00:00+00:00,ITF Men Valencia - R16,Alberto Barroso Campos,Alejandro Manzanera Pertusa,spread,1.5,1.6803,2.13,,,,2026-11-05 01:41:53.868182+00:00
-1639979705,2026-11-05 09:00:00+00:00,ITF Men Valencia - R16,Alberto Barroso Campos,Alejandro Manzanera Pertusa,total,2.5,,,,2.48,1.5128,2026-11-05 01:41:53.868182+00:00
-1639971904,2026-11-05 14:00:00+00:00,ATP Paris - R16,Lorenzo Musetti,Luca Van Assche,moneyline,,1.3401,3.53,,,,2026-11-05 01:41:53.868182+00:00
-1639971904,2026-11-05 14:00:00+00:00,ATP Paris - R16,Lorenzo Musetti,Luca Van Assche,spread,-1.5,2.02,1.8621,,,,2026-11-05 01:41:53.868182+00:00
-1639971904,2026-11-05 14:00:00+00:00,ATP Paris - R16,Lorenzo Musetti,Luca Van Assche,total,2.5,,,,2.52,1.5714,2026-11-05 01:41:53.868182+00:00
-1639982081,2026-11-05 08:00:00+00:00,ITF Men Heraklion - R16,Lorenzo Angelini,Alexandre Aubriot,moneyline,,1.3831,2.91,,,,2026-11-05 01:41:53.868182+00:00
-1639982081,2026-11-05 08:00:00+00:00,ITF Men Heraklion - R16,Lorenzo Angelini,Alexandre Aubriot,spread,-1.5,1.9091,1.8403,,,,2026-11-05 01:41:53.868182+00:00
-1639982081,2026-11-05 08:00:00+00:00,ITF Men Heraklion - R16,Lorenzo Angelini,Alexandre Aubriot,total,2.5,,,,2.88,1.3922,2026-11-05 01:41:53.868182+00:00
-1639821464,2026-11-05 13:00:00+00:00,ATP Paris - Doubles,Marcel Granollers / Horacio Zeballos,Quentin Halys / Pierre-Hugues Herbert,moneyline,,1.7143,2.13,,,,2026-11-05 01:41:53.868182+00:00
-1639892899,2026-11-05 09:30:00+00:00,WTA Chennai - R16,Moyuka Uchijima,Magda Linette,moneyline,,2.18,1.7353,,,,2026-11-05 01:41:53.868182+00:00
-1639892899,2026-11-05 09:30:00+00:00,WTA Chennai - R16,Moyuka Uchijima,Magda Linette,spread,1.5,1.4808,2.75,,,,2026-11-05 01:41:53.868182+00:00
-1639892899,2026-11-05 09:30:00+00:00,WTA Chennai - R16,Moyuka Uchijima,Magda Linette,total,2.5,,,,2.4,1.6098,2026-11-05 01:41:53.868182+00:00
-1639894926,2026-11-05 09:30:00+00:00,WTA Chennai - R16,Mai Hontama,Zhibek Kulambayeva,moneyline,,1.2033,4.94,,,,2026-11-05 01:41:53.868182+00:00
-1639894926,2026-11-05 09:30:00+00:00,WTA Chennai - R16,Mai Hontama,Zhibek Kulambayeva,spread,-1.5,1.641,2.34,,,,2026-11-05 01:41:53.868182+00:00
-1639894926,2026-11-05 09:30:00+00:00,WTA Chennai - R16,Mai Hontama,Zhibek Kulambayeva,total,2.5,,,,3.04,1.4082,2026-11-05 01:41:53.868182+00:00
-1639870280,2026-11-05 07:30:00+00:00,WTA Hong Kong - Doubles,Talia Gibson / Maddison Inglis,Qianhui Tang / Qiu Yu Ye,moneyline,,1.4975,2.64,,,,2026-11-05 01:41:53.868182+00:00
-1639935992,2026-11-05 02:00:00+00:00,ITF Women Hamamatsu - R16,Kurea Hayasaka,Yuno Kitahara,moneyline,,1.4831,2.68,,,,2026-11-05 01:41:53.868182+00:00
-1639935992,2026-11-05 02:00:00+00:00,ITF Women Hamamatsu - R16,Kurea Hayasaka,Yuno Kitahara,spread,-1.5,2.18,1.6993,,,,2026-11-05 01:41:53.868182+00:00
-1639935992,2026-11-05 02:00:00+00:00,ITF Women Hamamatsu - R16,Kurea Hayasaka,Yuno Kitahara,total,2.5,,,,2.62,1.5025,2026-11-05 01:41:53.868182+00:00
-1639975081,2026-11-05 08:30:00+00:00,ITF Men Monastir - R16,Nino Ehrenschneider,Wissam Abderrahman,moneyline,,1.3226,3.22,,,,2026-11-05 01:41:53.868182+00:00
-1639975081,2026-11-05 08:30:00+00:00,ITF Men Monastir - R16,Nino Ehrenschneider,Wissam Abderrahman,spread,-1.5,1.7246,2.06,,,,2026-11-05 01:41:53.868182+00:00
-1639975081,2026-11-05 08:30:00+00:00,ITF Men Monastir - R16,Nino Ehrenschneider,Wissam Abderrahman,total,2.5,,,,3.19,1.3289,2026-11-05 01:41:53.868182+00:00
-1639964821,2026-11-05 06:00:00+00:00,ITF Men Fergana - R16,Aristarkh Safonov,Nikita Ianin,moneyline,,1.6173,2.28,,,,2026-11-05 01:41:53.868182+00:00
-1639964821,2026-11-05 06:00:00+00:00,ITF Men Fergana - R16,Aristarkh Safonov,Nikita Ianin,spread,-1.5,2.34,1.5882,,,,2026-11-05 01:41:53.868182+00:00
-1639964821,2026-11-05 06:00:00+00:00,ITF Men Fergana - R16,Aristarkh Safonov,Nikita Ianin,total,2.5,,,,2.64,1.4762,2026-11-05 01:41:53.868182+00:00
-1639979738,2026-11-05 16:30:00+00:00,ITF Women Petange - R16,Lisa Pigato,Greet Minnen,moneyline,,3.2,1.3268,,,,2026-11-05 01:41:53.868182+00:00
-1639979738,2026-11-05 16:30:00+00:00,ITF Women Petange - R16,Lisa Pigato,Greet Minnen,spread,1.5,1.9615,1.8,,,,2026-11-05 01:41:53.868182+00:00
-1639979738,2026-11-05 16:30:00+00:00,ITF Women Petange - R16,Lisa Pigato,Greet Minnen,total,2.5,,,,2.9,1.3861,2026-11-05 01:41:53.868182+00:00
-1639961881,2026-11-05 06:00:00+00:00,ITF Men Fergana - R16,Calvin Mueller,Edoardo Cherie Ligniere,moneyline,,1.3676,3.07,,,,2026-11-05 01:41:53.868182+00:00
-1639961881,2026-11-05 06:00:00+00:00,ITF Men Fergana - R16,Calvin Mueller,Edoardo Cherie Ligniere,spread,-1.5,1.8929,1.8929,,,,2026-11-05 01:41:53.868182+00:00
-1639961881,2026-11-05 06:00:00+00:00,ITF Men Fergana - R16,Calvin Mueller,Edoardo Cherie Ligniere,total,2.5,,,,2.84,1.4184,2026-11-05 01:41:53.868182+00:00
-1639971985,2026-11-05 14:30:00+00:00,ITF Women Petange - R16,Dalma Galfi,Amandine Hesse,moneyline,,1.2358,3.89,,,,2026-11-05 01:41:53.868182+00:00
-1639971985,2026-11-05 14:30:00+00:00,ITF Women Petange - R16,Dalma Galfi,Amandine Hesse,spread,-1.5,1.6289,2.21,,,,2026-11-05 01:41:53.868182+00:00
-1639971985,2026-11-05 14:30:00+00:00,ITF Women Petange - R16,Dalma Galfi,Amandine Hesse,total,2.5,,,,3.08,1.3484,2026-11-05 01:41:53.868182+00:00
-1639903170,2026-11-05 17:30:00+00:00,ATP Challenger Bratislava - R16,Nicolai Budkov Kjaer,Kimmer Coppejans,moneyline,,1.33,3.49,,,,2026-11-05 01:41:53.868182+00:00
-1639903170,2026-11-05 17:30:00+00:00,ATP Challenger Bratislava - R16,Nicolai Budkov Kjaer,Kimmer Coppejans,spread,-1.5,2.0,1.8403,,,,2026-11-05 01:41:53.868182+00:00
-1639903170,2026-11-05 17:30:00+00:00,ATP Challenger Bratislava - R16,Nicolai Budkov Kjaer,Kimmer Coppejans,total,2.5,,,,2.5,1.5556,2026-11-05 01:41:53.868182+00:00
-1639961901,2026-11-05 02:00:00+00:00,ITF Women Maanshan - R16,Sara Yoshida,Yuhan Wang,moneyline,,5.46,1.1582,,,,2026-11-05 01:41:53.868182+00:00
-1639796626,2026-11-05 11:00:00+00:00,WTA Chennai - Doubles,Aneta Kucmova / Aneta Laboutkova,Shrivalli Rashmikaa Bhamidipaty / Maaya Rajeshwaran Revathi,moneyline,,1.1795,4.9,,,,2026-11-05 01:41:53.868182+00:00
-1639922644,2026-11-05 04:30:00+00:00,ITF Women Incheon - R16,Jia-Jing Lu,Yeonwoo Ku,moneyline,,3.29,1.3436,,,,2026-11-05 01:41:53.868182+00:00
-1639922644,2026-11-05 04:30:00+00:00,ITF Women Incheon - R16,Jia-Jing Lu,Yeonwoo Ku,spread,1.5,1.8696,1.9524,,,,2026-11-05 01:41:53.868182+00:00
-1639922644,2026-11-05 04:30:00+00:00,ITF Women Incheon - R16,Jia-Jing Lu,Yeonwoo Ku,total,2.5,,,,2.59,1.5102,2026-11-05 01:41:53.868182+00:00
-1639935761,2026-11-05 02:30:00+00:00,ITF Women Incheon - R16,Katie Swan,Rina Saigo,moneyline,,1.0419,13.27,,,,2026-11-05 01:41:53.868182+00:00
-1639862809,2026-11-05 10:00:00+00:00,ATP Paris - Doubles,Petr Nouza / Michael Venus,Marcelo Arevalo / Mate Pavic,moneyline,,2.74,1.4566,,,,2026-11-05 01:41:53.868182+00:00
-1639961832,2026-11-05 02:00:00+00:00,ITF Women Hamamatsu - R16,Maiko Uchijima,Koharu Ito,moneyline,,1.1647,5.31,,,,2026-11-05 01:41:53.868182+00:00
-1639961832,2026-11-05 02:00:00+00:00,ITF Women Hamamatsu - R16,Maiko Uchijima,Koharu Ito,spread,-1.5,1.4505,2.79,,,,2026-11-05 01:41:53.868182+00:00
-1639961832,2026-11-05 02:00:00+00:00,ITF Women Hamamatsu - R16,Maiko Uchijima,Koharu Ito,total,2.5,,,,3.85,1.2688,2026-11-05 01:41:53.868182+00:00
-1639862807,2026-11-05 10:00:00+00:00,ATP Challenger Taipei - R16,Chak Lam Coleman Wong,Chun-Chien Hou,moneyline,,1.0227,19.69,,,,2026-11-05 01:41:53.868182+00:00
-1639964877,2026-11-05 09:30:00+00:00,ITF Men Monastir - R16,Tuncay Duran,Mohamed Nazim Makhlouf,moneyline,,1.0851,7.23,,,,2026-11-05 01:41:53.868182+00:00
-1639964877,2026-11-05 09:30:00+00:00,ITF Men Monastir - R16,Tuncay Duran,Mohamed Nazim Makhlouf,spread,-1.5,1.3322,3.17,,,,2026-11-05 01:41:53.868182+00:00
-1639964877,2026-11-05 09:30:00+00:00,ITF Men Monastir - R16,Tuncay Duran,Mohamed Nazim Makhlouf,total,2.5,,,,3.87,1.2375,2026-11-05 01:41:53.868182+00:00
-1639891365,2026-11-05 14:30:00+00:00,ATP Paris - Doubles,Benjamin Bonzi / Arthur Rinderknech,Kevin Krawietz / Tim Puetz,moneyline,,2.5,1.5319,,,,2026-11-05 01:41:53.868182+00:00
-1639975143,2026-11-05 08:00:00+00:00,ITF Men Heraklion - R16,Miles Jones,Oleksii Krutykh,moneyline,,3.15,1.3356,,,,2026-11-05 01:41:53.868182+00:00
-1639975143,2026-11-05 08:00:00+00:00,ITF Men Heraklion - R16,Miles Jones,Oleksii Krutykh,spread,1.5,1.7937,1.9615,,,,2026-11-05 01:41:53.868182+00:00
-1639975143,2026-11-05 08:00:00+00:00,ITF Men Heraklion - R16,Miles Jones,Oleksii Krutykh,total,2.5,,,,2.5,1.5025,2026-11-05 01:41:53.868182+00:00
-1639971949,2026-11-05 10:00:00+00:00,ITF Men Valencia - R16,Julio Cesar Porras,Ivan Gakhov,moneyline,,2.74,1.4292,,,,2026-11-05 01:41:53.868182+00:00
-1639971949,2026-11-05 10:00:00+00:00,ITF Men Valencia - R16,Julio Cesar Porras,Ivan Gakhov,spread,1.5,1.6623,2.16,,,,2026-11-05 01:41:53.868182+00:00
-1639971949,2026-11-05 10:00:00+00:00,ITF Men Valencia - R16,Julio Cesar Porras,Ivan Gakhov,total,2.5,,,,2.4,1.5405,2026-11-05 01:41:53.868182+00:00
-1639935788,2026-11-05 03:00:00+00:00,ITF Women Hamamatsu - R16,Funa Kozaki,Mio Mushika,moneyline,,2.05,1.7874,,,,2026-11-05 01:41:53.868182+00:00
-1639935788,2026-11-05 03:00:00+00:00,ITF Women Hamamatsu - R16,Funa Kozaki,Mio Mushika,spread,1.5,1.4739,2.71,,,,2026-11-05 01:41:53.868182+00:00
-1639935788,2026-11-05 03:00:00+00:00,ITF Women Hamamatsu - R16,Funa Kozaki,Mio Mushika,total,2.5,,,,2.48,1.5525,2026-11-05 01:41:53.868182+00:00
-1639971935,2026-11-05 11:00:00+00:00,ITF Women Liberec - R16,Oriana Gniewkowska,Pia Lovric,moneyline,,4.25,1.2037,,,,2026-11-05 01:41:53.868182+00:00
-1639971935,2026-11-05 11:00:00+00:00,ITF Women Liberec - R16,Oriana Gniewkowska,Pia Lovric,spread,1.5,2.49,1.5076,,,,2026-11-05 01:41:53.868182+00:00
-1639971935,2026-11-05 11:00:00+00:00,ITF Women Liberec - R16,Oriana Gniewkowska,Pia Lovric,total,2.5,,,,3.56,1.2732,2026-11-05 01:41:53.868182+00:00
-1639971984,2026-11-05 11:30:00+00:00,ITF Women Petange - R16,Tessa Johanna Brockmann,Anna-Lena Friedsam,moneyline,,2.05,1.7299,,,,2026-11-05 01:41:53.868182+00:00
-1639971984,2026-11-05 11:30:00+00:00,ITF Women Petange - R16,Tessa Johanna Brockmann,Anna-Lena Friedsam,spread,1.5,1.4348,2.71,,,,2026-11-05 01:41:53.868182+00:00
-1639971984,2026-11-05 11:30:00+00:00,ITF Women Petange - R16,Tessa Johanna Brockmann,Anna-Lena Friedsam,total,2.5,,,,2.32,1.578,2026-11-05 01:41:53.868182+00:00
-1639964866,2026-11-05 10:30:00+00:00,WTA Hong Kong - Doubles,Jesika Maleckova / Miriam Skoch,Venus Williams / Yi-Fan Xu,moneyline,,1.7194,2.13,,,,2026-11-05 01:41:53.868182+00:00
 1639961903,2026-11-05 02:00:00+00:00,ITF Men Maanshan - R16,Kristjan Tamm,Filip Peliwo,moneyline,,1.9524,1.8696,,,,2026-11-05 01:41:53.868182+00:00
 1639961903,2026-11-05 02:00:00+00:00,ITF Men Maanshan - R16,Kristjan Tamm,Filip Peliwo,spread,1.5,1.4292,2.87,,,,2026-11-05 01:41:53.868182+00:00
 1639961903,2026-11-05 02:00:00+00:00,ITF Men Maanshan - R16,Kristjan Tamm,Filip Peliwo,total,2.5,,,,2.46,1.5618,2026-11-05 01:41:53.868182+00:00
-1639936067,2026-11-05 04:00:00+00:00,ITF Women Maanshan - R16,Anna Yang,Thasaporn Naklo,moneyline,,5.72,1.1475,,,,2026-11-05 01:41:53.868182+00:00
-1639935763,2026-11-05 02:00:00+00:00,ITF Women Incheon - R16,Xinyu Gao,Priska Madelyn Nugroho,moneyline,,1.5464,2.49,,,,2026-11-05 01:41:53.868182+00:00
-1639935763,2026-11-05 02:00:00+00:00,ITF Women Incheon - R16,Xinyu Gao,Priska Madelyn Nugroho,spread,-1.5,2.25,1.6579,,,,2026-11-05 01:41:53.868182+00:00
-1639935763,2026-11-05 02:00:00+00:00,ITF Women Incheon - R16,Xinyu Gao,Priska Madelyn Nugroho,total,2.5,,,,2.64,1.495,2026-11-05 01:41:53.868182+00:00
-1639971924,2026-11-05 08:30:00+00:00,ITF Men Monastir - R16,Andrea Bacaloni,John Echeverria,moneyline,,6.35,1.1054,,,,2026-11-05 01:41:53.868182+00:00
-1639971924,2026-11-05 08:30:00+00:00,ITF Men Monastir - R16,Andrea Bacaloni,John Echeverria,spread,1.5,3.12,1.3413,,,,2026-11-05 01:41:53.868182+00:00
-1639971924,2026-11-05 08:30:00+00:00,ITF Men Monastir - R16,Andrea Bacaloni,John Echeverria,total,2.5,,,,3.98,1.2268,2026-11-05 01:41:53.868182+00:00
-1639975101,2026-11-05 11:00:00+00:00,ITF Men San Gregorio di Catania - R16,Andrea De Marchi,Marcello Serafini,moneyline,,1.5076,2.49,,,,2026-11-05 01:41:53.868182+00:00
-1639975101,2026-11-05 11:00:00+00:00,ITF Men San Gregorio di Catania - R16,Andrea De Marchi,Marcello Serafini,spread,-1.5,2.15,1.6667,,,,2026-11-05 01:41:53.868182+00:00
-1639975101,2026-11-05 11:00:00+00:00,ITF Men San Gregorio di Catania - R16,Andrea De Marchi,Marcello Serafini,total,2.5,,,,2.57,1.4785,2026-11-05 01:41:53.868182+00:00
-1639936066,2026-11-05 04:00:00+00:00,ITF Women Maanshan - R16,Ru Xi Wu,Alina Tikhonova,moneyline,,5.86,1.1425,,,,2026-11-05 01:41:53.868182+00:00
-1639936024,2026-11-05 12:00:00+00:00,ATP Paris - R16,Ben Shelton,Arthur Rinderknech,moneyline,,1.3356,3.56,,,,2026-11-05 01:41:53.868182+00:00
-1639936024,2026-11-05 12:00:00+00:00,ATP Paris - R16,Ben Shelton,Arthur Rinderknech,spread,-1.5,1.9259,1.9434,,,,2026-11-05 01:41:53.868182+00:00
-1639936024,2026-11-05 12:00:00+00:00,ATP Paris - R16,Ben Shelton,Arthur Rinderknech,total,2.5,,,,2.65,1.5236,2026-11-05 01:41:53.868182+00:00
-1639904629,2026-11-05 09:00:00+00:00,ITF Men Hilton Head Island - R1,Julian Alonso Vivanco,Alexander Kotzen,moneyline,,1.5747,2.32,,,,2026-11-05 01:41:53.868182+00:00
-1639904629,2026-11-05 09:00:00+00:00,ITF Men Hilton Head Island - R1,Julian Alonso Vivanco,Alexander Kotzen,spread,-1.5,2.26,1.6061,,,,2026-11-05 01:41:53.868182+00:00
-1639904629,2026-11-05 09:00:00+00:00,ITF Men Hilton Head Island - R1,Julian Alonso Vivanco,Alexander Kotzen,total,2.5,,,,2.66,1.4484,2026-11-05 01:41:53.868182+00:00
-1639961895,2026-11-05 11:30:00+00:00,ATP Paris - Doubles,Adam Pavlasek / Patrik Rikl,Theo Arribage / Albano Olivetti,moneyline,,2.22,1.6623,,,,2026-11-05 01:41:53.868182+00:00
-1639975171,2026-11-05 14:00:00+00:00,ATP Challenger Bratislava - R16,Jurij Rodionov,Toby Samuel,moneyline,,2.11,1.7752,,,,2026-11-05 01:41:53.868182+00:00
-1639975171,2026-11-05 14:00:00+00:00,ATP Challenger Bratislava - R16,Jurij Rodionov,Toby Samuel,spread,1.5,1.4525,2.82,,,,2026-11-05 01:41:53.868182+00:00
-1639975171,2026-11-05 14:00:00+00:00,ATP Challenger Bratislava - R16,Jurij Rodionov,Toby Samuel,total,2.5,,,,2.32,1.6369,2026-11-05 01:41:53.868182+00:00
-1639975102,2026-11-05 11:00:00+00:00,ITF Men San Gregorio di Catania - R16,Gabriele Crivellaro,Pietro Marino,moneyline,,1.5556,2.37,,,,2026-11-05 01:41:53.868182+00:00
-1639975102,2026-11-05 11:00:00+00:00,ITF Men San Gregorio di Catania - R16,Gabriele Crivellaro,Pietro Marino,spread,-1.5,2.27,1.5988,,,,2026-11-05 01:41:53.868182+00:00
-1639975102,2026-11-05 11:00:00+00:00,ITF Men San Gregorio di Catania - R16,Gabriele Crivellaro,Pietro Marino,total,2.5,,,,2.58,1.4739,2026-11-05 01:41:53.868182+00:00
-1639964876,2026-11-05 08:30:00+00:00,ITF Men Monastir - R16,Toufik Sahtali,Giulio Perego,moneyline,,2.7,1.4386,,,,2026-11-05 01:41:53.868182+00:00
-1639964876,2026-11-05 08:30:00+00:00,ITF Men Monastir - R16,Toufik Sahtali,Giulio Perego,spread,1.5,1.7692,2.0,,,,2026-11-05 01:41:53.868182+00:00
-1639964876,2026-11-05 08:30:00+00:00,ITF Men Monastir - R16,Toufik Sahtali,Giulio Perego,total,2.5,,,,2.92,1.3831,2026-11-05 01:41:53.868182+00:00
-1639982148,2026-11-05 20:00:00+00:00,ATP Paris - R16,Arthur Fils,Taylor Fritz,moneyline,,1.7937,2.12,,,,2026-11-05 01:41:53.868182+00:00
-1639982148,2026-11-05 20:00:00+00:00,ATP Paris - R16,Arthur Fils,Taylor Fritz,spread,-1.5,2.98,1.431,,,,2026-11-05 01:41:53.868182+00:00
-1639982148,2026-11-05 20:00:00+00:00,ATP Paris - R16,Arthur Fils,Taylor Fritz,total,2.5,,,,2.28,1.6803,2026-11-05 01:41:53.868182+00:00
-1639870281,2026-11-05 12:30:00+00:00,ATP Challenger Taranto - R16,Philip Henning,Carlo Alberto Caniato,moneyline,,1.8333,1.9901,,,,2026-11-05 01:41:53.868182+00:00
-1639870281,2026-11-05 12:30:00+00:00,ATP Challenger Taranto - R16,Philip Henning,Carlo Alberto Caniato,spread,-1.5,2.83,1.4405,,,,2026-11-05 01:41:53.868182+00:00
-1639870281,2026-11-05 12:30:00+00:00,ATP Challenger Taranto - R16,Philip Henning,Carlo Alberto Caniato,total,2.5,,,,2.6,1.5102,2026-11-05 01:41:53.868182+00:00
-1639936025,2026-11-05 09:30:00+00:00,ATP Challenger Taranto - R16,Felix Gill,Buvaysar Gadamauri,moneyline,,1.7194,2.15,,,,2026-11-05 01:41:53.868182+00:00
-1639936025,2026-11-05 09:30:00+00:00,ATP Challenger Taranto - R16,Felix Gill,Buvaysar Gadamauri,spread,-1.5,2.73,1.4673,,,,2026-11-05 01:41:53.868182+00:00
-1639936025,2026-11-05 09:30:00+00:00,ATP Challenger Taranto - R16,Felix Gill,Buvaysar Gadamauri,total,2.5,,,,2.39,1.5882,2026-11-05 01:41:53.868182+00:00
-1639971921,2026-11-05 11:00:00+00:00,ITF Women Monastir - R16,Sophie Ehrenbergerova,Nahjime Dho,moneyline,,1.9709,1.7937,,,,2026-11-05 01:41:53.868182+00:00
-1639971921,2026-11-05 11:00:00+00:00,ITF Women Monastir - R16,Sophie Ehrenbergerova,Nahjime Dho,spread,1.5,1.4587,2.63,,,,2026-11-05 01:41:53.868182+00:00
-1639971921,2026-11-05 11:00:00+00:00,ITF Women Monastir - R16,Sophie Ehrenbergerova,Nahjime Dho,total,2.5,,,,2.79,1.4132,2026-11-05 01:41:53.868182+00:00
-1639796624,2026-11-05 12:30:00+00:00,WTA Chennai - Doubles,Mai Hontama / Moyuka Uchijima,Weronika Falkowska / Alana Smith,moneyline,,2.81,1.4367,,,,2026-11-05 01:41:53.868182+00:00
-1639935784,2026-11-05 02:00:00+00:00,ITF Women Hamamatsu - R16,Tiana Tian Deng,Nanari Katsumi,moneyline,,1.2247,4.32,,,,2026-11-05 01:41:53.868182+00:00
-1639935784,2026-11-05 02:00:00+00:00,ITF Women Hamamatsu - R16,Tiana Tian Deng,Nanari Katsumi,spread,-1.5,1.5747,2.42,,,,2026-11-05 01:41:53.868182+00:00
-1639935784,2026-11-05 02:00:00+00:00,ITF Women Hamamatsu - R16,Tiana Tian Deng,Nanari Katsumi,total,2.5,,,,3.44,1.3195,2026-11-05 01:41:53.868182+00:00
-1639862837,2026-11-05 06:10:00+00:00,WTA Hong Kong - R16,Elena Pridankina,Alexandra Shubladze,moneyline,,2.91,1.4587,,,,2026-11-05 01:41:53.868182+00:00
-1639862837,2026-11-05 06:10:00+00:00,WTA Hong Kong - R16,Elena Pridankina,Alexandra Shubladze,spread,1.5,1.7634,2.14,,,,2026-11-05 01:41:53.868182+00:00
-1639862837,2026-11-05 06:10:00+00:00,WTA Hong Kong - R16,Elena Pridankina,Alexandra Shubladze,total,2.5,,,,2.67,1.5181,2026-11-05 01:41:53.868182+00:00
-1639936065,2026-11-05 05:30:00+00:00,ITF Men Maanshan - R16,Seong Chan Hong,Pawit Sornlaksup,moneyline,,1.2096,4.52,,,,2026-11-05 01:41:53.868182+00:00
-1639936065,2026-11-05 05:30:00+00:00,ITF Men Maanshan - R16,Seong Chan Hong,Pawit Sornlaksup,spread,-1.5,1.641,2.28,,,,2026-11-05 01:41:53.868182+00:00
-1639936065,2026-11-05 05:30:00+00:00,ITF Men Maanshan - R16,Seong Chan Hong,Pawit Sornlaksup,total,2.5,,,,3.13,1.3731,2026-11-05 01:41:53.868182+00:00
-1639964823,2026-11-05 06:00:00+00:00,ITF Men Fergana - R16,Chirag Duhan,Muzammil Murtaza,moneyline,,1.2941,3.51,,,,2026-11-05 01:41:53.868182+00:00
-1639964823,2026-11-05 06:00:00+00:00,ITF Men Fergana - R16,Chirag Duhan,Muzammil Murtaza,spread,-1.5,1.7463,2.07,,,,2026-11-05 01:41:53.868182+00:00
-1639964823,2026-11-05 06:00:00+00:00,ITF Men Fergana - R16,Chirag Duhan,Muzammil Murtaza,total,2.5,,,,2.99,1.3831,2026-11-05 01:41:53.868182+00:00
-1639912376,2026-11-05 03:00:00+00:00,ATP Challenger Taipei - R16,Charles Broom,Alexandre Muller,moneyline,,2.22,1.7143,,,,2026-11-05 01:41:53.868182+00:00
-1639912376,2026-11-05 03:00:00+00:00,ATP Challenger Taipei - R16,Charles Broom,Alexandre Muller,spread,1.5,1.5,2.69,,,,2026-11-05 01:41:53.868182+00:00
-1639912376,2026-11-05 03:00:00+00:00,ATP Challenger Taipei - R16,Charles Broom,Alexandre Muller,total,2.5,,,,2.42,1.5988,2026-11-05 01:41:53.868182+00:00
-1639979704,2026-11-05 09:00:00+00:00,ITF Men Valencia - R16,Luka Talan Lopatic,Miguel Damas,moneyline,,2.95,1.3745,,,,2026-11-05 01:41:53.868182+00:00
-1639979704,2026-11-05 09:00:00+00:00,ITF Men Valencia - R16,Luka Talan Lopatic,Miguel Damas,spread,1.5,1.8696,1.885,,,,2026-11-05 01:41:53.868182+00:00
-1639979704,2026-11-05 09:00:00+00:00,ITF Men Valencia - R16,Luka Talan Lopatic,Miguel Damas,total,2.5,,,,2.72,1.431,2026-11-05 01:41:53.868182+00:00
-1639922634,2026-11-05 06:10:00+00:00,WTA Hong Kong - R16,Xinyu Wang,Antonia Ruzic,moneyline,,1.7042,2.24,,,,2026-11-05 01:41:53.868182+00:00
-1639922634,2026-11-05 06:10:00+00:00,WTA Hong Kong - R16,Xinyu Wang,Antonia Ruzic,spread,-1.5,2.7,1.495,,,,2026-11-05 01:41:53.868182+00:00
-1639922634,2026-11-05 06:10:00+00:00,WTA Hong Kong - R16,Xinyu Wang,Antonia Ruzic,total,2.5,,,,2.4,1.6061,2026-11-05 01:41:53.868182+00:00
-1639936048,2026-11-05 08:00:00+00:00,WTA Hong Kong - R16,Mika Stojsavljevic,Zeynep Sonmez,moneyline,,4.12,1.2639,,,,2026-11-05 01:41:53.868182+00:00
-1639936048,2026-11-05 08:00:00+00:00,WTA Hong Kong - R16,Mika Stojsavljevic,Zeynep Sonmez,spread,1.5,2.15,1.7463,,,,2026-11-05 01:41:53.868182+00:00
-1639936048,2026-11-05 08:00:00+00:00,WTA Hong Kong - R16,Mika Stojsavljevic,Zeynep Sonmez,total,2.5,,,,2.96,1.4274,2026-11-05 01:41:53.868182+00:00
-1639982084,2026-11-05 10:00:00+00:00,ITF Women Heraklion - R16,Raluca Georgiana Serban,Elena Ruxandra Bertea,moneyline,,1.8621,1.8929,,,,2026-11-05 01:41:53.868182+00:00
-1639982084,2026-11-05 10:00:00+00:00,ITF Women Heraklion - R16,Raluca Georgiana Serban,Elena Ruxandra Bertea,spread,-1.5,2.97,1.3717,,,,2026-11-05 01:41:53.868182+00:00
-1639982084,2026-11-05 10:00:00+00:00,ITF Women Heraklion - R16,Raluca Georgiana Serban,Elena Ruxandra Bertea,total,2.5,,,,2.32,1.578,2026-11-05 01:41:53.868182+00:00
-1639979739,2026-11-05 10:30:00+00:00,ITF Women Petange - R16,Jessika Ponchet,Veronika Podrez,moneyline,,2.92,1.3817,,,,2026-11-05 01:41:53.868182+00:00
-1639979739,2026-11-05 10:30:00+00:00,ITF Women Petange - R16,Jessika Ponchet,Veronika Podrez,spread,1.5,1.7692,2.0,,,,2026-11-05 01:41:53.868182+00:00
-1639979739,2026-11-05 10:30:00+00:00,ITF Women Petange - R16,Jessika Ponchet,Veronika Podrez,total,2.5,,,,2.63,1.4608,2026-11-05 01:41:53.868182+00:00
-1639964896,2026-11-05 11:00:00+00:00,ITF Women Liberec - R16,Manon Leonard,Weronika Ewald,moneyline,,1.4444,2.68,,,,2026-11-05 01:41:53.868182+00:00
-1639964896,2026-11-05 11:00:00+00:00,ITF Women Liberec - R16,Manon Leonard,Weronika Ewald,spread,-1.5,2.08,1.7092,,,,2026-11-05 01:41:53.868182+00:00
-1639964896,2026-11-05 11:00:00+00:00,ITF Women Liberec - R16,Manon Leonard,Weronika Ewald,total,2.5,,,,2.57,1.4762,2026-11-05 01:41:53.868182+00:00
-1639904615,2026-11-05 11:30:00+00:00,ITF Women Liberec - R16,Laura Mair,Elena Milovanovic,moneyline,,2.48,1.5102,,,,2026-11-05 01:41:53.868182+00:00
-1639904615,2026-11-05 11:30:00+00:00,ITF Women Liberec - R16,Laura Mair,Elena Milovanovic,spread,1.5,1.6061,2.26,,,,2026-11-05 01:41:53.868182+00:00
-1639904615,2026-11-05 11:30:00+00:00,ITF Women Liberec - R16,Laura Mair,Elena Milovanovic,total,2.5,,,,2.46,1.5155,2026-11-05 01:41:53.868182+00:00
-1639975103,2026-11-05 11:00:00+00:00,ITF Men San Gregorio di Catania - R16,Simone Massucco,Adrian Oetzbach,moneyline,,3.63,1.2646,,,,2026-11-05 01:41:53.868182+00:00
-1639975103,2026-11-05 11:00:00+00:00,ITF Men San Gregorio di Catania - R16,Simone Massucco,Adrian Oetzbach,spread,1.5,2.16,1.6579,,,,2026-11-05 01:41:53.868182+00:00
-1639975103,2026-11-05 11:00:00+00:00,ITF Men San Gregorio di Catania - R16,Simone Massucco,Adrian Oetzbach,total,2.5,,,,3.07,1.3509,2026-11-05 01:41:53.868182+00:00
-1639979748,2026-11-05 08:00:00+00:00,ITF Men Heraklion - R16,Melios Efstathiou,Pablo Perez Ramos,moneyline,,2.0,1.7692,,,,2026-11-05 01:41:53.868182+00:00
-1639979748,2026-11-05 08:00:00+00:00,ITF Men Heraklion - R16,Melios Efstathiou,Pablo Perez Ramos,spread,1.5,1.4444,2.68,,,,2026-11-05 01:41:53.868182+00:00
-1639979748,2026-11-05 08:00:00+00:00,ITF Men Heraklion - R16,Melios Efstathiou,Pablo Perez Ramos,total,2.5,,,,2.5,1.5051,2026-11-05 01:41:53.868182+00:00
+1639870317,2026-11-05 09:30:00+00:00,ATP Challenger Taranto - R16,Jay Clarke,Gianluca Cadenasso,moneyline,,1.9346,1.885,,,,2026-11-05 02:12:15.153206+00:00
+1639870317,2026-11-05 09:30:00+00:00,ATP Challenger Taranto - R16,Jay Clarke,Gianluca Cadenasso,spread,1.5,1.3891,3.05,,,,2026-11-05 02:12:15.153206+00:00
+1639870317,2026-11-05 09:30:00+00:00,ATP Challenger Taranto - R16,Jay Clarke,Gianluca Cadenasso,total,2.5,,,,2.37,1.5988,2026-11-05 02:12:15.153206+00:00
+1639964876,2026-11-05 08:30:00+00:00,ITF Men Monastir - R16,Toufik Sahtali,Giulio Perego,moneyline,,2.7,1.4386,,,,2026-11-05 02:12:15.153206+00:00
+1639964876,2026-11-05 08:30:00+00:00,ITF Men Monastir - R16,Toufik Sahtali,Giulio Perego,spread,1.5,1.7692,2.0,,,,2026-11-05 02:12:15.153206+00:00
+1639964876,2026-11-05 08:30:00+00:00,ITF Men Monastir - R16,Toufik Sahtali,Giulio Perego,total,2.5,,,,2.92,1.3831,2026-11-05 02:12:15.153206+00:00
+1639936047,2026-11-05 09:00:00+00:00,WTA 125k Luanda - R16,Kristina Kroitor,Ksenia Zaytseva,moneyline,,3.03,1.3937,,,,2026-11-05 02:12:15.153206+00:00
+1639936047,2026-11-05 09:00:00+00:00,WTA 125k Luanda - R16,Kristina Kroitor,Ksenia Zaytseva,spread,1.5,1.885,1.9346,,,,2026-11-05 02:12:15.153206+00:00
+1639936047,2026-11-05 09:00:00+00:00,WTA 125k Luanda - R16,Kristina Kroitor,Ksenia Zaytseva,total,2.5,,,,2.84,1.4367,2026-11-05 02:12:15.153206+00:00
+1639863317,2026-11-05 12:30:00+00:00,WTA Chennai - R16,Anastasia Zakharova,Vaishnavi Adkar,moneyline,,1.1046,7.71,,,,2026-11-05 02:12:15.153206+00:00
+1639863317,2026-11-05 12:30:00+00:00,WTA Chennai - R16,Anastasia Zakharova,Vaishnavi Adkar,spread,-1.5,1.3861,3.2,,,,2026-11-05 02:12:15.153206+00:00
+1639863317,2026-11-05 12:30:00+00:00,WTA Chennai - R16,Anastasia Zakharova,Vaishnavi Adkar,total,2.5,,,,3.94,1.2817,2026-11-05 02:12:15.153206+00:00
+1639971950,2026-11-05 09:00:00+00:00,ITF Men Valencia - R16,Izan Almazan Valiente,Iliyan Radulov,moneyline,,1.7092,2.08,,,,2026-11-05 02:12:15.153206+00:00
+1639971950,2026-11-05 09:00:00+00:00,ITF Men Valencia - R16,Izan Almazan Valiente,Iliyan Radulov,spread,-1.5,2.52,1.495,,,,2026-11-05 02:12:15.153206+00:00
+1639971950,2026-11-05 09:00:00+00:00,ITF Men Valencia - R16,Izan Almazan Valiente,Iliyan Radulov,total,2.5,,,,2.5,1.5025,2026-11-05 02:12:15.153206+00:00
+1639912376,2026-11-05 03:00:00+00:00,ATP Challenger Taipei - R16,Charles Broom,Alexandre Muller,moneyline,,2.22,1.7143,,,,2026-11-05 02:12:15.153206+00:00
+1639912376,2026-11-05 03:00:00+00:00,ATP Challenger Taipei - R16,Charles Broom,Alexandre Muller,spread,1.5,1.5,2.69,,,,2026-11-05 02:12:15.153206+00:00
+1639912376,2026-11-05 03:00:00+00:00,ATP Challenger Taipei - R16,Charles Broom,Alexandre Muller,total,2.5,,,,2.42,1.5988,2026-11-05 02:12:15.153206+00:00
+1639796624,2026-11-05 12:30:00+00:00,WTA Chennai - Doubles,Mai Hontama / Moyuka Uchijima,Weronika Falkowska / Alana Smith,moneyline,,2.81,1.4367,,,,2026-11-05 02:12:15.153206+00:00
+1639922634,2026-11-05 06:10:00+00:00,WTA Hong Kong - R16,Xinyu Wang,Antonia Ruzic,moneyline,,1.7042,2.24,,,,2026-11-05 02:12:15.153206+00:00
+1639922634,2026-11-05 06:10:00+00:00,WTA Hong Kong - R16,Xinyu Wang,Antonia Ruzic,spread,-1.5,2.7,1.495,,,,2026-11-05 02:12:15.153206+00:00
+1639922634,2026-11-05 06:10:00+00:00,WTA Hong Kong - R16,Xinyu Wang,Antonia Ruzic,total,2.5,,,,2.4,1.6061,2026-11-05 02:12:15.153206+00:00
+1639870235,2026-11-05 12:00:00+00:00,WTA Hong Kong - R16,Sorana Cirstea,Mary Stoiana,moneyline,,1.2571,4.28,,,,2026-11-05 02:12:15.153206+00:00
+1639870235,2026-11-05 12:00:00+00:00,WTA Hong Kong - R16,Sorana Cirstea,Mary Stoiana,spread,-1.5,1.6897,2.27,,,,2026-11-05 02:12:15.153206+00:00
+1639870235,2026-11-05 12:00:00+00:00,WTA Hong Kong - R16,Sorana Cirstea,Mary Stoiana,total,2.5,,,,3.13,1.4,2026-11-05 02:12:15.153206+00:00
+1639975079,2026-11-05 23:00:00+00:00,ITF Men Monastir - R16,Kasra Rahmani,Aziz Dougaz,moneyline,,4.08,1.2179,,,,2026-11-05 02:12:15.153206+00:00
+1639975079,2026-11-05 23:00:00+00:00,ITF Men Monastir - R16,Kasra Rahmani,Aziz Dougaz,spread,1.5,2.22,1.6289,,,,2026-11-05 02:12:15.153206+00:00
+1639975079,2026-11-05 23:00:00+00:00,ITF Men Monastir - R16,Kasra Rahmani,Aziz Dougaz,total,2.5,,,,2.97,1.3717,2026-11-05 02:12:15.153206+00:00
+1639982148,2026-11-05 20:00:00+00:00,ATP Paris - R16,Arthur Fils,Taylor Fritz,moneyline,,1.7874,2.13,,,,2026-11-05 02:12:15.153206+00:00
+1639982148,2026-11-05 20:00:00+00:00,ATP Paris - R16,Arthur Fils,Taylor Fritz,spread,-1.5,2.98,1.4329,,,,2026-11-05 02:12:15.153206+00:00
+1639982148,2026-11-05 20:00:00+00:00,ATP Paris - R16,Arthur Fils,Taylor Fritz,total,2.5,,,,2.28,1.6803,2026-11-05 02:12:15.153206+00:00
+1639964899,2026-11-05 12:30:00+00:00,ATP Challenger Bratislava - R16,Tom Gentzsch,Matej Dodig,moneyline,,2.47,1.578,,,,2026-11-05 02:12:15.153206+00:00
+1639964899,2026-11-05 12:30:00+00:00,ATP Challenger Bratislava - R16,Tom Gentzsch,Matej Dodig,spread,1.5,1.5291,2.57,,,,2026-11-05 02:12:15.153206+00:00
+1639964899,2026-11-05 12:30:00+00:00,ATP Challenger Bratislava - R16,Tom Gentzsch,Matej Dodig,total,2.5,,,,2.31,1.6369,2026-11-05 02:12:15.153206+00:00
+1639984851,2026-11-05 18:10:00+00:00,ATP Paris - R16,Matteo Berrettini,Carlos Alcaraz,moneyline,,5.65,1.1745,,,,2026-11-05 02:12:15.153206+00:00
+1639984851,2026-11-05 18:10:00+00:00,ATP Paris - R16,Matteo Berrettini,Carlos Alcaraz,spread,1.5,2.55,1.5587,,,,2026-11-05 02:12:15.153206+00:00
+1639984851,2026-11-05 18:10:00+00:00,ATP Paris - R16,Matteo Berrettini,Carlos Alcaraz,total,2.5,,,,3.21,1.3846,2026-11-05 02:12:15.153206+00:00
+1639936024,2026-11-05 12:00:00+00:00,ATP Paris - R16,Ben Shelton,Arthur Rinderknech,moneyline,,1.3356,3.56,,,,2026-11-05 02:12:15.153206+00:00
+1639936024,2026-11-05 12:00:00+00:00,ATP Paris - R16,Ben Shelton,Arthur Rinderknech,spread,-1.5,1.9259,1.9434,,,,2026-11-05 02:12:15.153206+00:00
+1639936024,2026-11-05 12:00:00+00:00,ATP Paris - R16,Ben Shelton,Arthur Rinderknech,total,2.5,,,,2.65,1.5236,2026-11-05 02:12:15.153206+00:00
+1639964853,2026-11-05 09:00:00+00:00,WTA Hong Kong - Doubles,I-Hsuan Cho / Yi Tsen Cho,Xinyu Jiang / Hong Yi Cody Wong,moneyline,,2.04,1.7937,,,,2026-11-05 02:12:15.153206+00:00
+1639904586,2026-11-05 10:30:00+00:00,WTA 125k Luanda - R16,Justina Mikulskyte,Tiphanie Lemaitre,moneyline,,2.28,1.641,,,,2026-11-05 02:12:15.153206+00:00
+1639904586,2026-11-05 10:30:00+00:00,WTA 125k Luanda - R16,Justina Mikulskyte,Tiphanie Lemaitre,spread,1.5,1.5814,2.41,,,,2026-11-05 02:12:15.153206+00:00
+1639904586,2026-11-05 10:30:00+00:00,WTA 125k Luanda - R16,Justina Mikulskyte,Tiphanie Lemaitre,total,2.5,,,,2.66,1.4878,2026-11-05 02:12:15.153206+00:00
+1639961902,2026-11-05 05:30:00+00:00,ITF Men Maanshan - R16,Xirui Han,Qian Sun,moneyline,,3.42,1.3236,,,,2026-11-05 02:12:15.153206+00:00
+1639961902,2026-11-05 05:30:00+00:00,ITF Men Maanshan - R16,Xirui Han,Qian Sun,spread,1.5,1.8696,1.9524,,,,2026-11-05 02:12:15.153206+00:00
+1639961902,2026-11-05 05:30:00+00:00,ITF Men Maanshan - R16,Xirui Han,Qian Sun,total,2.5,,,,2.57,1.5181,2026-11-05 02:12:15.153206+00:00
+1639891365,2026-11-05 14:30:00+00:00,ATP Paris - Doubles,Benjamin Bonzi / Arthur Rinderknech,Kevin Krawietz / Tim Puetz,moneyline,,2.5,1.5319,,,,2026-11-05 02:12:15.153206+00:00
+1639891341,2026-11-05 11:00:00+00:00,ATP Challenger Taranto - R16,Sumit Nagal,Hugo Grenier,moneyline,,1.885,1.9346,,,,2026-11-05 02:12:15.153206+00:00
+1639891341,2026-11-05 11:00:00+00:00,ATP Challenger Taranto - R16,Sumit Nagal,Hugo Grenier,spread,-1.5,3.11,1.3774,,,,2026-11-05 02:12:15.153206+00:00
+1639891341,2026-11-05 11:00:00+00:00,ATP Challenger Taranto - R16,Sumit Nagal,Hugo Grenier,total,2.5,,,,2.33,1.6173,2026-11-05 02:12:15.153206+00:00
+1639971904,2026-11-05 14:00:00+00:00,ATP Paris - R16,Lorenzo Musetti,Luca Van Assche,moneyline,,1.3401,3.53,,,,2026-11-05 02:12:15.153206+00:00
+1639971904,2026-11-05 14:00:00+00:00,ATP Paris - R16,Lorenzo Musetti,Luca Van Assche,spread,-1.5,2.02,1.8621,,,,2026-11-05 02:12:15.153206+00:00
+1639971904,2026-11-05 14:00:00+00:00,ATP Paris - R16,Lorenzo Musetti,Luca Van Assche,total,2.5,,,,2.52,1.5714,2026-11-05 02:12:15.153206+00:00
+1639796626,2026-11-05 11:00:00+00:00,WTA Chennai - Doubles,Aneta Kucmova / Aneta Laboutkova,Shrivalli Rashmikaa Bhamidipaty / Maaya Rajeshwaran Revathi,moneyline,,1.1795,4.9,,,,2026-11-05 02:12:15.153206+00:00
+1639979704,2026-11-05 09:00:00+00:00,ITF Men Valencia - R16,Luka Talan Lopatic,Miguel Damas,moneyline,,2.95,1.3745,,,,2026-11-05 02:12:15.153206+00:00
+1639979704,2026-11-05 09:00:00+00:00,ITF Men Valencia - R16,Luka Talan Lopatic,Miguel Damas,spread,1.5,1.8696,1.885,,,,2026-11-05 02:12:15.153206+00:00
+1639979704,2026-11-05 09:00:00+00:00,ITF Men Valencia - R16,Luka Talan Lopatic,Miguel Damas,total,2.5,,,,2.72,1.431,2026-11-05 02:12:15.153206+00:00
+1639936048,2026-11-05 08:00:00+00:00,WTA Hong Kong - R16,Mika Stojsavljevic,Zeynep Sonmez,moneyline,,4.12,1.2639,,,,2026-11-05 02:12:15.153206+00:00
+1639936048,2026-11-05 08:00:00+00:00,WTA Hong Kong - R16,Mika Stojsavljevic,Zeynep Sonmez,spread,1.5,2.15,1.7463,,,,2026-11-05 02:12:15.153206+00:00
+1639936048,2026-11-05 08:00:00+00:00,WTA Hong Kong - R16,Mika Stojsavljevic,Zeynep Sonmez,total,2.5,,,,2.96,1.4274,2026-11-05 02:12:15.153206+00:00
+1639936064,2026-11-05 05:30:00+00:00,ITF Men Maanshan - R16,Xin Zhou,Tianhui Zhang,moneyline,,5.97,1.1383,,,,2026-11-05 02:12:15.153206+00:00
+1639936064,2026-11-05 05:30:00+00:00,ITF Men Maanshan - R16,Xin Zhou,Tianhui Zhang,spread,1.5,2.8,1.4484,,,,2026-11-05 02:12:15.153206+00:00
+1639936064,2026-11-05 05:30:00+00:00,ITF Men Maanshan - R16,Xin Zhou,Tianhui Zhang,total,2.5,,,,3.62,1.2959,2026-11-05 02:12:15.153206+00:00
+1639903170,2026-11-05 17:30:00+00:00,ATP Challenger Bratislava - R16,Nicolai Budkov Kjaer,Kimmer Coppejans,moneyline,,1.3333,3.46,,,,2026-11-05 02:12:15.153206+00:00
+1639903170,2026-11-05 17:30:00+00:00,ATP Challenger Bratislava - R16,Nicolai Budkov Kjaer,Kimmer Coppejans,spread,-1.5,2.01,1.8333,,,,2026-11-05 02:12:15.153206+00:00
+1639903170,2026-11-05 17:30:00+00:00,ATP Challenger Bratislava - R16,Nicolai Budkov Kjaer,Kimmer Coppejans,total,2.5,,,,2.49,1.5587,2026-11-05 02:12:15.153206+00:00
+1639982141,2026-11-05 18:00:00+00:00,ATP Paris - R16,Jan-Lennard Struff,Casper Ruud,moneyline,,2.6,1.5525,,,,2026-11-05 02:12:15.153206+00:00
+1639982141,2026-11-05 18:00:00+00:00,ATP Paris - R16,Jan-Lennard Struff,Casper Ruud,spread,1.5,1.565,2.53,,,,2026-11-05 02:12:15.153206+00:00
+1639982141,2026-11-05 18:00:00+00:00,ATP Paris - R16,Jan-Lennard Struff,Casper Ruud,total,2.5,,,,2.26,1.6897,2026-11-05 02:12:15.153206+00:00
+1639870280,2026-11-05 07:30:00+00:00,WTA Hong Kong - Doubles,Talia Gibson / Maddison Inglis,Qianhui Tang / Qiu Yu Ye,moneyline,,1.4975,2.64,,,,2026-11-05 02:12:15.153206+00:00
+1639961895,2026-11-05 11:30:00+00:00,ATP Paris - Doubles,Adam Pavlasek / Patrik Rikl,Theo Arribage / Albano Olivetti,moneyline,,2.23,1.6579,,,,2026-11-05 02:12:15.153206+00:00
+1639892899,2026-11-05 09:30:00+00:00,WTA Chennai - R16,Moyuka Uchijima,Magda Linette,moneyline,,2.18,1.7353,,,,2026-11-05 02:12:15.153206+00:00
+1639892899,2026-11-05 09:30:00+00:00,WTA Chennai - R16,Moyuka Uchijima,Magda Linette,spread,1.5,1.4808,2.75,,,,2026-11-05 02:12:15.153206+00:00
+1639892899,2026-11-05 09:30:00+00:00,WTA Chennai - R16,Moyuka Uchijima,Magda Linette,total,2.5,,,,2.4,1.6098,2026-11-05 02:12:15.153206+00:00
+1639961881,2026-11-05 06:00:00+00:00,ITF Men Fergana - R16,Calvin Mueller,Edoardo Cherie Ligniere,moneyline,,1.3774,3.11,,,,2026-11-05 02:12:15.153206+00:00
+1639961881,2026-11-05 06:00:00+00:00,ITF Men Fergana - R16,Calvin Mueller,Edoardo Cherie Ligniere,spread,-1.5,1.9091,1.9091,,,,2026-11-05 02:12:15.153206+00:00
+1639961881,2026-11-05 06:00:00+00:00,ITF Men Fergana - R16,Calvin Mueller,Edoardo Cherie Ligniere,total,2.5,,,,2.88,1.4274,2026-11-05 02:12:15.153206+00:00
+1639904650,2026-11-05 08:00:00+00:00,ITF Men Heraklion - R16,Andrej Nedic,Karl Friberg,moneyline,,1.4115,2.87,,,,2026-11-05 02:12:15.153206+00:00
+1639904650,2026-11-05 08:00:00+00:00,ITF Men Heraklion - R16,Andrej Nedic,Karl Friberg,spread,-1.5,1.9709,1.8264,,,,2026-11-05 02:12:15.153206+00:00
+1639904650,2026-11-05 08:00:00+00:00,ITF Men Heraklion - R16,Andrej Nedic,Karl Friberg,total,2.5,,,,2.68,1.463,2026-11-05 02:12:15.153206+00:00
+1639936040,2026-11-05 05:00:00+00:00,ITF Men Fergana - R16,Dmitry Bessonov,Makar Krivoshchekov,moneyline,,1.1965,4.72,,,,2026-11-05 02:12:15.153206+00:00
+1639936040,2026-11-05 05:00:00+00:00,ITF Men Fergana - R16,Dmitry Bessonov,Makar Krivoshchekov,spread,-1.5,1.5263,2.55,,,,2026-11-05 02:12:15.153206+00:00
+1639936040,2026-11-05 05:00:00+00:00,ITF Men Fergana - R16,Dmitry Bessonov,Makar Krivoshchekov,total,2.5,,,,3.52,1.3096,2026-11-05 02:12:15.153206+00:00
+1639975103,2026-11-05 11:00:00+00:00,ITF Men San Gregorio di Catania - R16,Simone Massucco,Adrian Oetzbach,moneyline,,3.63,1.2646,,,,2026-11-05 02:12:15.153206+00:00
+1639975103,2026-11-05 11:00:00+00:00,ITF Men San Gregorio di Catania - R16,Simone Massucco,Adrian Oetzbach,spread,1.5,2.16,1.6579,,,,2026-11-05 02:12:15.153206+00:00
+1639975103,2026-11-05 11:00:00+00:00,ITF Men San Gregorio di Catania - R16,Simone Massucco,Adrian Oetzbach,total,2.5,,,,3.07,1.3509,2026-11-05 02:12:15.153206+00:00
+1639862837,2026-11-05 06:10:00+00:00,WTA Hong Kong - R16,Elena Pridankina,Alexandra Shubladze,moneyline,,2.91,1.4587,,,,2026-11-05 02:12:15.153206+00:00
+1639862837,2026-11-05 06:10:00+00:00,WTA Hong Kong - R16,Elena Pridankina,Alexandra Shubladze,spread,1.5,1.7634,2.14,,,,2026-11-05 02:12:15.153206+00:00
+1639862837,2026-11-05 06:10:00+00:00,WTA Hong Kong - R16,Elena Pridankina,Alexandra Shubladze,total,2.5,,,,2.67,1.5181,2026-11-05 02:12:15.153206+00:00
+1639971924,2026-11-05 08:30:00+00:00,ITF Men Monastir - R16,Andrea Bacaloni,John Echeverria,moneyline,,6.35,1.1054,,,,2026-11-05 02:12:15.153206+00:00
+1639971924,2026-11-05 08:30:00+00:00,ITF Men Monastir - R16,Andrea Bacaloni,John Echeverria,spread,1.5,3.12,1.3413,,,,2026-11-05 02:12:15.153206+00:00
+1639971924,2026-11-05 08:30:00+00:00,ITF Men Monastir - R16,Andrea Bacaloni,John Echeverria,total,2.5,,,,3.98,1.2268,2026-11-05 02:12:15.153206+00:00
+1639964819,2026-11-05 12:30:00+00:00,ATP Challenger Bratislava - R16,Laslo Djere,Otto Virtanen,moneyline,,2.48,1.5747,,,,2026-11-05 02:12:15.153206+00:00
+1639964819,2026-11-05 12:30:00+00:00,ATP Challenger Bratislava - R16,Laslo Djere,Otto Virtanen,spread,1.5,1.5464,2.53,,,,2026-11-05 02:12:15.153206+00:00
+1639964819,2026-11-05 12:30:00+00:00,ATP Challenger Bratislava - R16,Laslo Djere,Otto Virtanen,total,2.5,,,,2.27,1.6579,2026-11-05 02:12:15.153206+00:00
+1639935801,2026-11-05 11:00:00+00:00,ATP Challenger Taranto - R16,Maxim Mrva,Thomas Faurel,moneyline,,1.4808,2.69,,,,2026-11-05 02:12:15.153206+00:00
+1639935801,2026-11-05 11:00:00+00:00,ATP Challenger Taranto - R16,Maxim Mrva,Thomas Faurel,spread,-1.5,2.24,1.6667,,,,2026-11-05 02:12:15.153206+00:00
+1639935801,2026-11-05 11:00:00+00:00,ATP Challenger Taranto - R16,Maxim Mrva,Thomas Faurel,total,2.5,,,,2.52,1.5348,2026-11-05 02:12:15.153206+00:00
+1639975114,2026-11-05 09:00:00+00:00,ITF Men Valencia - R16,Yshai Oliel,Ignacio Parisca,moneyline,,2.6,1.4673,,,,2026-11-05 02:12:15.153206+00:00
+1639975114,2026-11-05 09:00:00+00:00,ITF Men Valencia - R16,Yshai Oliel,Ignacio Parisca,spread,1.5,1.7042,2.09,,,,2026-11-05 02:12:15.153206+00:00
+1639975114,2026-11-05 09:00:00+00:00,ITF Men Valencia - R16,Yshai Oliel,Ignacio Parisca,total,2.5,,,,2.65,1.4545,2026-11-05 02:12:15.153206+00:00
+1639964823,2026-11-05 06:00:00+00:00,ITF Men Fergana - R16,Chirag Duhan,Muzammil Murtaza,moneyline,,1.3257,3.4,,,,2026-11-05 02:12:15.153206+00:00
+1639964823,2026-11-05 06:00:00+00:00,ITF Men Fergana - R16,Chirag Duhan,Muzammil Murtaza,spread,-1.5,1.813,2.01,,,,2026-11-05 02:12:15.153206+00:00
+1639964823,2026-11-05 06:00:00+00:00,ITF Men Fergana - R16,Chirag Duhan,Muzammil Murtaza,total,2.5,,,,2.95,1.4098,2026-11-05 02:12:15.153206+00:00
+1639964841,2026-11-05 05:30:00+00:00,ITF Men Maanshan - R16,Millen Hurrion,Lingxi Zhao,moneyline,,1.3546,3.23,,,,2026-11-05 02:12:15.153206+00:00
+1639964841,2026-11-05 05:30:00+00:00,ITF Men Maanshan - R16,Millen Hurrion,Lingxi Zhao,spread,-1.5,1.9091,1.9091,,,,2026-11-05 02:12:15.153206+00:00
+1639964841,2026-11-05 05:30:00+00:00,ITF Men Maanshan - R16,Millen Hurrion,Lingxi Zhao,total,2.5,,,,2.78,1.4525,2026-11-05 02:12:15.153206+00:00
+1639979748,2026-11-05 08:00:00+00:00,ITF Men Heraklion - R16,Melios Efstathiou,Pablo Perez Ramos,moneyline,,2.02,1.7874,,,,2026-11-05 02:12:15.153206+00:00
+1639979748,2026-11-05 08:00:00+00:00,ITF Men Heraklion - R16,Melios Efstathiou,Pablo Perez Ramos,spread,1.5,1.4525,2.71,,,,2026-11-05 02:12:15.153206+00:00
+1639979748,2026-11-05 08:00:00+00:00,ITF Men Heraklion - R16,Melios Efstathiou,Pablo Perez Ramos,total,2.5,,,,2.53,1.5128,2026-11-05 02:12:15.153206+00:00
+1639964821,2026-11-05 06:00:00+00:00,ITF Men Fergana - R16,Aristarkh Safonov,Nikita Ianin,moneyline,,1.6289,2.3,,,,2026-11-05 02:12:15.153206+00:00
+1639964821,2026-11-05 06:00:00+00:00,ITF Men Fergana - R16,Aristarkh Safonov,Nikita Ianin,spread,-1.5,2.36,1.6024,,,,2026-11-05 02:12:15.153206+00:00
+1639964821,2026-11-05 06:00:00+00:00,ITF Men Fergana - R16,Aristarkh Safonov,Nikita Ianin,total,2.5,,,,2.67,1.4854,2026-11-05 02:12:15.153206+00:00
+1639903160,2026-11-05 16:00:00+00:00,ATP Challenger Bratislava - R16,Dalibor Svrcina,Giovanni Mpetshi Perricard,moneyline,,2.24,1.6897,,,,2026-11-05 02:12:15.153206+00:00
+1639903160,2026-11-05 16:00:00+00:00,ATP Challenger Bratislava - R16,Dalibor Svrcina,Giovanni Mpetshi Perricard,spread,1.5,1.4651,2.77,,,,2026-11-05 02:12:15.153206+00:00
+1639903160,2026-11-05 16:00:00+00:00,ATP Challenger Bratislava - R16,Dalibor Svrcina,Giovanni Mpetshi Perricard,total,2.5,,,,2.22,1.6897,2026-11-05 02:12:15.153206+00:00
+1639975102,2026-11-05 11:00:00+00:00,ITF Men San Gregorio di Catania - R16,Gabriele Crivellaro,Pietro Marino,moneyline,,1.5556,2.37,,,,2026-11-05 02:12:15.153206+00:00
+1639975102,2026-11-05 11:00:00+00:00,ITF Men San Gregorio di Catania - R16,Gabriele Crivellaro,Pietro Marino,spread,-1.5,2.27,1.5988,,,,2026-11-05 02:12:15.153206+00:00
+1639975102,2026-11-05 11:00:00+00:00,ITF Men San Gregorio di Catania - R16,Gabriele Crivellaro,Pietro Marino,total,2.5,,,,2.58,1.4739,2026-11-05 02:12:15.153206+00:00
+1639855026,2026-11-05 03:00:00+00:00,ATP Challenger Taipei - R16,Jake Delaney,Omar Jasika,moneyline,,2.6,1.5405,,,,2026-11-05 02:12:15.153206+00:00
+1639855026,2026-11-05 03:00:00+00:00,ATP Challenger Taipei - R16,Jake Delaney,Omar Jasika,spread,1.5,1.6452,2.33,,,,2026-11-05 02:12:15.153206+00:00
+1639855026,2026-11-05 03:00:00+00:00,ATP Challenger Taipei - R16,Jake Delaney,Omar Jasika,total,2.5,,,,2.49,1.5714,2026-11-05 02:12:15.153206+00:00
+1639964822,2026-11-05 05:00:00+00:00,ITF Men Fergana - R16,Aryan Lakshmanan,David Eichenseher,moneyline,,3.94,1.2597,,,,2026-11-05 02:12:15.153206+00:00
+1639964822,2026-11-05 05:00:00+00:00,ITF Men Fergana - R16,Aryan Lakshmanan,David Eichenseher,spread,1.5,2.17,1.7042,,,,2026-11-05 02:12:15.153206+00:00
+1639964822,2026-11-05 05:00:00+00:00,ITF Men Fergana - R16,Aryan Lakshmanan,David Eichenseher,total,2.5,,,,3.1,1.3788,2026-11-05 02:12:15.153206+00:00
+1639936025,2026-11-05 09:30:00+00:00,ATP Challenger Taranto - R16,Felix Gill,Buvaysar Gadamauri,moneyline,,1.7194,2.15,,,,2026-11-05 02:12:15.153206+00:00
+1639936025,2026-11-05 09:30:00+00:00,ATP Challenger Taranto - R16,Felix Gill,Buvaysar Gadamauri,spread,-1.5,2.73,1.4673,,,,2026-11-05 02:12:15.153206+00:00
+1639936025,2026-11-05 09:30:00+00:00,ATP Challenger Taranto - R16,Felix Gill,Buvaysar Gadamauri,total,2.5,,,,2.39,1.5882,2026-11-05 02:12:15.153206+00:00
+1639894926,2026-11-05 09:30:00+00:00,WTA Chennai - R16,Mai Hontama,Zhibek Kulambayeva,moneyline,,1.2033,4.94,,,,2026-11-05 02:12:15.153206+00:00
+1639894926,2026-11-05 09:30:00+00:00,WTA Chennai - R16,Mai Hontama,Zhibek Kulambayeva,spread,-1.5,1.641,2.34,,,,2026-11-05 02:12:15.153206+00:00
+1639894926,2026-11-05 09:30:00+00:00,WTA Chennai - R16,Mai Hontama,Zhibek Kulambayeva,total,2.5,,,,3.04,1.4082,2026-11-05 02:12:15.153206+00:00
+1639961882,2026-11-05 05:00:00+00:00,ITF Men Fergana - R16,Digvijay Pratap Singh,Jan Hrazdil,moneyline,,1.2004,4.66,,,,2026-11-05 02:12:15.153206+00:00
+1639961882,2026-11-05 05:00:00+00:00,ITF Men Fergana - R16,Digvijay Pratap Singh,Jan Hrazdil,spread,-1.5,1.4902,2.65,,,,2026-11-05 02:12:15.153206+00:00
+1639961882,2026-11-05 05:00:00+00:00,ITF Men Fergana - R16,Digvijay Pratap Singh,Jan Hrazdil,total,2.5,,,,3.77,1.277,2026-11-05 02:12:15.153206+00:00
+1639975139,2026-11-05 09:00:00+00:00,ITF Men Heraklion - R16,Gilles Arnaud Bailly,Benjamin Pietri,moneyline,,1.5,2.51,,,,2026-11-05 02:12:15.153206+00:00
+1639975139,2026-11-05 09:00:00+00:00,ITF Men Heraklion - R16,Gilles Arnaud Bailly,Benjamin Pietri,spread,-1.5,2.19,1.641,,,,2026-11-05 02:12:15.153206+00:00
+1639975139,2026-11-05 09:00:00+00:00,ITF Men Heraklion - R16,Gilles Arnaud Bailly,Benjamin Pietri,total,2.5,,,,2.66,1.4505,2026-11-05 02:12:15.153206+00:00
+1639964827,2026-11-05 14:00:00+00:00,ATP Challenger Taranto - R16,Francesco Maestrelli,Peter Makk,moneyline,,1.33,3.38,,,,2026-11-05 02:12:15.153206+00:00
+1639964827,2026-11-05 14:00:00+00:00,ATP Challenger Taranto - R16,Francesco Maestrelli,Peter Makk,spread,-1.5,1.9174,1.9009,,,,2026-11-05 02:12:15.153206+00:00
+1639964827,2026-11-05 14:00:00+00:00,ATP Challenger Taranto - R16,Francesco Maestrelli,Peter Makk,total,2.5,,,,2.66,1.4878,2026-11-05 02:12:15.153206+00:00
+1639964866,2026-11-05 10:30:00+00:00,WTA Hong Kong - Doubles,Jesika Maleckova / Miriam Skoch,Venus Williams / Yi-Fan Xu,moneyline,,1.7194,2.13,,,,2026-11-05 02:12:15.153206+00:00
+1639975171,2026-11-05 14:00:00+00:00,ATP Challenger Bratislava - R16,Jurij Rodionov,Toby Samuel,moneyline,,2.1,1.7812,,,,2026-11-05 02:12:15.153206+00:00
+1639975171,2026-11-05 14:00:00+00:00,ATP Challenger Bratislava - R16,Jurij Rodionov,Toby Samuel,spread,1.5,1.4484,2.83,,,,2026-11-05 02:12:15.153206+00:00
+1639975171,2026-11-05 14:00:00+00:00,ATP Challenger Bratislava - R16,Jurij Rodionov,Toby Samuel,total,2.5,,,,2.32,1.6369,2026-11-05 02:12:15.153206+00:00
+1639975101,2026-11-05 11:00:00+00:00,ITF Men San Gregorio di Catania - R16,Andrea De Marchi,Marcello Serafini,moneyline,,1.5076,2.49,,,,2026-11-05 02:12:15.153206+00:00
+1639975101,2026-11-05 11:00:00+00:00,ITF Men San Gregorio di Catania - R16,Andrea De Marchi,Marcello Serafini,spread,-1.5,2.15,1.6667,,,,2026-11-05 02:12:15.153206+00:00
+1639975101,2026-11-05 11:00:00+00:00,ITF Men San Gregorio di Catania - R16,Andrea De Marchi,Marcello Serafini,total,2.5,,,,2.57,1.4785,2026-11-05 02:12:15.153206+00:00
+1639971978,2026-11-05 16:00:00+00:00,ATP Paris - R16,Nuno Borges,Ignacio Buse,moneyline,,1.6452,2.38,,,,2026-11-05 02:12:15.153206+00:00
+1639971978,2026-11-05 16:00:00+00:00,ATP Paris - R16,Nuno Borges,Ignacio Buse,spread,-1.5,2.65,1.5263,,,,2026-11-05 02:12:15.153206+00:00
+1639971978,2026-11-05 16:00:00+00:00,ATP Paris - R16,Nuno Borges,Ignacio Buse,total,2.5,,,,2.34,1.6494,2026-11-05 02:12:15.153206+00:00
+1639936065,2026-11-05 05:30:00+00:00,ITF Men Maanshan - R16,Seong Chan Hong,Pawit Sornlaksup,moneyline,,1.2096,4.52,,,,2026-11-05 02:12:15.153206+00:00
+1639936065,2026-11-05 05:30:00+00:00,ITF Men Maanshan - R16,Seong Chan Hong,Pawit Sornlaksup,spread,-1.5,1.641,2.28,,,,2026-11-05 02:12:15.153206+00:00
+1639936065,2026-11-05 05:30:00+00:00,ITF Men Maanshan - R16,Seong Chan Hong,Pawit Sornlaksup,total,2.5,,,,3.13,1.3731,2026-11-05 02:12:15.153206+00:00
+1639975143,2026-11-05 08:00:00+00:00,ITF Men Heraklion - R16,Miles Jones,Oleksii Krutykh,moneyline,,3.44,1.304,,,,2026-11-05 02:12:15.153206+00:00
+1639975143,2026-11-05 08:00:00+00:00,ITF Men Heraklion - R16,Miles Jones,Oleksii Krutykh,spread,1.5,1.9091,1.8772,,,,2026-11-05 02:12:15.153206+00:00
+1639975143,2026-11-05 08:00:00+00:00,ITF Men Heraklion - R16,Miles Jones,Oleksii Krutykh,total,2.5,,,,2.67,1.4673,2026-11-05 02:12:15.153206+00:00
+1639821464,2026-11-05 13:00:00+00:00,ATP Paris - Doubles,Marcel Granollers / Horacio Zeballos,Quentin Halys / Pierre-Hugues Herbert,moneyline,,1.7092,2.14,,,,2026-11-05 02:12:15.153206+00:00
+1639979703,2026-11-05 10:00:00+00:00,ITF Men Valencia - R16,Samuele Pieri,Marcel Zielinski,moneyline,,1.3731,2.96,,,,2026-11-05 02:12:15.153206+00:00
+1639979703,2026-11-05 10:00:00+00:00,ITF Men Valencia - R16,Samuele Pieri,Marcel Zielinski,spread,-1.5,1.8333,1.9174,,,,2026-11-05 02:12:15.153206+00:00
+1639979703,2026-11-05 10:00:00+00:00,ITF Men Valencia - R16,Samuele Pieri,Marcel Zielinski,total,2.5,,,,2.91,1.3846,2026-11-05 02:12:15.153206+00:00
+1639982081,2026-11-05 08:00:00+00:00,ITF Men Heraklion - R16,Lorenzo Angelini,Alexandre Aubriot,moneyline,,1.3922,2.95,,,,2026-11-05 02:12:15.153206+00:00
+1639982081,2026-11-05 08:00:00+00:00,ITF Men Heraklion - R16,Lorenzo Angelini,Alexandre Aubriot,spread,-1.5,1.9259,1.8621,,,,2026-11-05 02:12:15.153206+00:00
+1639982081,2026-11-05 08:00:00+00:00,ITF Men Heraklion - R16,Lorenzo Angelini,Alexandre Aubriot,total,2.5,,,,2.91,1.4016,2026-11-05 02:12:15.153206+00:00
+1639936041,2026-11-05 05:00:00+00:00,ITF Men Fergana - R16,Adrian Arcon,Amir Omarkhanov,moneyline,,30.33,1.0112,,,,2026-11-05 02:12:15.153206+00:00
+1639975142,2026-11-05 09:00:00+00:00,ITF Men Heraklion - R16,Robert Guna,Robin Bertrand,moneyline,,5.5,1.1337,,,,2026-11-05 02:12:15.153206+00:00
+1639975142,2026-11-05 09:00:00+00:00,ITF Men Heraklion - R16,Robert Guna,Robin Bertrand,spread,1.5,2.83,1.4016,,,,2026-11-05 02:12:15.153206+00:00
+1639975142,2026-11-05 09:00:00+00:00,ITF Men Heraklion - R16,Robert Guna,Robin Bertrand,total,2.5,,,,3.78,1.2475,2026-11-05 02:12:15.153206+00:00
+1639903222,2026-11-05 04:30:00+00:00,ATP Challenger Taipei - R16,Harold Mayot,Sho Shimabukuro,moneyline,,1.7874,2.11,,,,2026-11-05 02:12:15.153206+00:00
+1639903222,2026-11-05 04:30:00+00:00,ATP Challenger Taipei - R16,Harold Mayot,Sho Shimabukuro,spread,-1.5,2.88,1.4464,,,,2026-11-05 02:12:15.153206+00:00
+1639903222,2026-11-05 04:30:00+00:00,ATP Challenger Taipei - R16,Harold Mayot,Sho Shimabukuro,total,2.5,,,,2.32,1.6494,2026-11-05 02:12:15.153206+00:00
+1639862809,2026-11-05 10:00:00+00:00,ATP Paris - Doubles,Petr Nouza / Michael Venus,Marcelo Arevalo / Mate Pavic,moneyline,,2.73,1.4587,,,,2026-11-05 02:12:15.153206+00:00
+1639979706,2026-11-05 10:00:00+00:00,ITF Men Valencia - R16,Leonid Sheyngezikht,Sergi Perez Contri,moneyline,,5.75,1.1244,,,,2026-11-05 02:12:15.153206+00:00
+1639979706,2026-11-05 10:00:00+00:00,ITF Men Valencia - R16,Leonid Sheyngezikht,Sergi Perez Contri,spread,1.5,2.65,1.4525,,,,2026-11-05 02:12:15.153206+00:00
+1639979706,2026-11-05 10:00:00+00:00,ITF Men Valencia - R16,Leonid Sheyngezikht,Sergi Perez Contri,total,2.5,,,,3.29,1.3106,2026-11-05 02:12:15.153206+00:00
+1639975081,2026-11-05 08:30:00+00:00,ITF Men Monastir - R16,Nino Ehrenschneider,Wissam Abderrahman,moneyline,,1.3226,3.22,,,,2026-11-05 02:12:15.153206+00:00
+1639975081,2026-11-05 08:30:00+00:00,ITF Men Monastir - R16,Nino Ehrenschneider,Wissam Abderrahman,spread,-1.5,1.7246,2.06,,,,2026-11-05 02:12:15.153206+00:00
+1639975081,2026-11-05 08:30:00+00:00,ITF Men Monastir - R16,Nino Ehrenschneider,Wissam Abderrahman,total,2.5,,,,3.19,1.3289,2026-11-05 02:12:15.153206+00:00
+1639975083,2026-11-05 08:30:00+00:00,ITF Men Monastir - R16,Duje Ajdukovic,Kris Van Wyk,moneyline,,1.1277,5.65,,,,2026-11-05 02:12:15.153206+00:00
+1639975083,2026-11-05 08:30:00+00:00,ITF Men Monastir - R16,Duje Ajdukovic,Kris Van Wyk,spread,-1.5,1.4785,2.57,,,,2026-11-05 02:12:15.153206+00:00
+1639975083,2026-11-05 08:30:00+00:00,ITF Men Monastir - R16,Duje Ajdukovic,Kris Van Wyk,total,2.5,,,,3.17,1.3322,2026-11-05 02:12:15.153206+00:00
+1639971949,2026-11-05 10:00:00+00:00,ITF Men Valencia - R16,Julio Cesar Porras,Ivan Gakhov,moneyline,,2.74,1.4292,,,,2026-11-05 02:12:15.153206+00:00
+1639971949,2026-11-05 10:00:00+00:00,ITF Men Valencia - R16,Julio Cesar Porras,Ivan Gakhov,spread,1.5,1.6623,2.16,,,,2026-11-05 02:12:15.153206+00:00
+1639971949,2026-11-05 10:00:00+00:00,ITF Men Valencia - R16,Julio Cesar Porras,Ivan Gakhov,total,2.5,,,,2.4,1.5405,2026-11-05 02:12:15.153206+00:00
+1639904629,2026-11-05 09:00:00+00:00,ITF Men Hilton Head Island - R1,Julian Alonso Vivanco,Alexander Kotzen,moneyline,,1.5747,2.32,,,,2026-11-05 02:12:15.153206+00:00
+1639904629,2026-11-05 09:00:00+00:00,ITF Men Hilton Head Island - R1,Julian Alonso Vivanco,Alexander Kotzen,spread,-1.5,2.26,1.6061,,,,2026-11-05 02:12:15.153206+00:00
+1639904629,2026-11-05 09:00:00+00:00,ITF Men Hilton Head Island - R1,Julian Alonso Vivanco,Alexander Kotzen,total,2.5,,,,2.66,1.4484,2026-11-05 02:12:15.153206+00:00
+1639892959,2026-11-05 09:00:00+00:00,WTA 125k Luanda - R16,Anna Blinkova,Zongyu Li,moneyline,,1.077,7.95,,,,2026-11-05 02:12:15.153206+00:00
+1639892959,2026-11-05 09:00:00+00:00,WTA 125k Luanda - R16,Anna Blinkova,Zongyu Li,spread,-1.5,1.3497,3.25,,,,2026-11-05 02:12:15.153206+00:00
+1639892959,2026-11-05 09:00:00+00:00,WTA 125k Luanda - R16,Anna Blinkova,Zongyu Li,total,2.5,,,,3.93,1.2604,2026-11-05 02:12:15.153206+00:00
+1639862807,2026-11-05 10:00:00+00:00,ATP Challenger Taipei - R16,Chak Lam Coleman Wong,Chun-Chien Hou,moneyline,,1.0227,19.69,,,,2026-11-05 02:12:15.153206+00:00
+1639964839,2026-11-06 06:00:00+00:00,WTA Hong Kong - QF,Aliaksandra Sasnovich,Maria Sakkari,moneyline,,2.2,1.7246,,,,2026-11-05 02:12:15.153206+00:00
+1639964839,2026-11-06 06:00:00+00:00,WTA Hong Kong - QF,Aliaksandra Sasnovich,Maria Sakkari,spread,1.5,1.4975,2.7,,,,2026-11-05 02:12:15.153206+00:00
+1639964839,2026-11-06 06:00:00+00:00,WTA Hong Kong - QF,Aliaksandra Sasnovich,Maria Sakkari,total,2.5,,,,2.41,1.6024,2026-11-05 02:12:15.153206+00:00
+1639975097,2026-11-05 11:30:00+00:00,ATP Paris - Doubles,Harri Heliovaara / Henry Patten,Sadio Doumbia / David Pel,moneyline,,1.2198,4.3,,,,2026-11-05 02:12:15.153206+00:00
+1639964871,2026-11-06 03:00:00+00:00,WTA Chennai - QF,Janice Tjen,Polina Kudermetova,moneyline,,1.5814,2.49,,,,2026-11-05 02:12:15.153206+00:00
+1639964871,2026-11-06 03:00:00+00:00,WTA Chennai - QF,Janice Tjen,Polina Kudermetova,spread,-1.5,2.4,1.6098,,,,2026-11-05 02:12:15.153206+00:00
+1639964871,2026-11-06 03:00:00+00:00,WTA Chennai - QF,Janice Tjen,Polina Kudermetova,total,2.5,,,,2.51,1.5618,2026-11-05 02:12:15.153206+00:00
+1639863300,2026-11-05 10:30:00+00:00,WTA Hong Kong - R16,Tereza Valentova,Alexandra Eala,moneyline,,2.6,1.5495,,,,2026-11-05 02:12:15.153206+00:00
+1639863300,2026-11-05 10:30:00+00:00,WTA Hong Kong - R16,Tereza Valentova,Alexandra Eala,spread,1.5,1.641,2.36,,,,2026-11-05 02:12:15.153206+00:00
+1639863300,2026-11-05 10:30:00+00:00,WTA Hong Kong - R16,Tereza Valentova,Alexandra Eala,total,2.5,,,,2.49,1.5814,2026-11-05 02:12:15.153206+00:00
+1639936058,2026-11-05 10:10:00+00:00,ATP Paris - R16,Tommy Paul,Quentin Halys,moneyline,,1.3215,3.67,,,,2026-11-05 02:12:15.153206+00:00
+1639936058,2026-11-05 10:10:00+00:00,ATP Paris - R16,Tommy Paul,Quentin Halys,spread,-1.5,1.9709,1.9009,,,,2026-11-05 02:12:15.153206+00:00
+1639936058,2026-11-05 10:10:00+00:00,ATP Paris - R16,Tommy Paul,Quentin Halys,total,2.5,,,,2.51,1.5747,2026-11-05 02:12:15.153206+00:00
+1639904590,2026-11-05 11:00:00+00:00,WTA Chennai - R16,Simona Waltert,Lucrezia Stefanini,moneyline,,2.73,1.4975,,,,2026-11-05 02:12:15.153206+00:00
+1639904590,2026-11-05 11:00:00+00:00,WTA Chennai - R16,Simona Waltert,Lucrezia Stefanini,spread,1.5,1.7353,2.17,,,,2026-11-05 02:12:15.153206+00:00
+1639904590,2026-11-05 11:00:00+00:00,WTA Chennai - R16,Simona Waltert,Lucrezia Stefanini,total,2.5,,,,2.7,1.4975,2026-11-05 02:12:15.153206+00:00
+1639936063,2026-11-05 05:30:00+00:00,ITF Men Maanshan - R16,Rigele Te,Zhao Zhao,moneyline,,1.1414,5.88,,,,2026-11-05 02:12:15.153206+00:00
+1639936063,2026-11-05 05:30:00+00:00,ITF Men Maanshan - R16,Rigele Te,Zhao Zhao,spread,-1.5,1.4484,2.8,,,,2026-11-05 02:12:15.153206+00:00
+1639936063,2026-11-05 05:30:00+00:00,ITF Men Maanshan - R16,Rigele Te,Zhao Zhao,total,2.5,,,,3.66,1.2907,2026-11-05 02:12:15.153206+00:00
+1639979705,2026-11-05 09:00:00+00:00,ITF Men Valencia - R16,Alberto Barroso Campos,Alejandro Manzanera Pertusa,moneyline,,2.78,1.4167,,,,2026-11-05 02:12:15.153206+00:00
+1639979705,2026-11-05 09:00:00+00:00,ITF Men Valencia - R16,Alberto Barroso Campos,Alejandro Manzanera Pertusa,spread,1.5,1.6803,2.13,,,,2026-11-05 02:12:15.153206+00:00
+1639979705,2026-11-05 09:00:00+00:00,ITF Men Valencia - R16,Alberto Barroso Campos,Alejandro Manzanera Pertusa,total,2.5,,,,2.48,1.5128,2026-11-05 02:12:15.153206+00:00
+1639964877,2026-11-05 09:30:00+00:00,ITF Men Monastir - R16,Tuncay Duran,Mohamed Nazim Makhlouf,moneyline,,1.0851,7.23,,,,2026-11-05 02:12:15.153206+00:00
+1639964877,2026-11-05 09:30:00+00:00,ITF Men Monastir - R16,Tuncay Duran,Mohamed Nazim Makhlouf,spread,-1.5,1.3322,3.17,,,,2026-11-05 02:12:15.153206+00:00
+1639964877,2026-11-05 09:30:00+00:00,ITF Men Monastir - R16,Tuncay Duran,Mohamed Nazim Makhlouf,total,2.5,,,,3.87,1.2375,2026-11-05 02:12:15.153206+00:00
+1639935799,2026-11-05 11:00:00+00:00,ATP Challenger Taranto - R16,Kilian Feldbausch,Remy Bertola,moneyline,,1.9615,1.8621,,,,2026-11-05 02:12:15.153206+00:00
+1639935799,2026-11-05 11:00:00+00:00,ATP Challenger Taranto - R16,Kilian Feldbausch,Remy Bertola,spread,1.5,1.3891,3.05,,,,2026-11-05 02:12:15.153206+00:00
+1639935799,2026-11-05 11:00:00+00:00,ATP Challenger Taranto - R16,Kilian Feldbausch,Remy Bertola,total,2.5,,,,2.31,1.625,2026-11-05 02:12:15.153206+00:00
+1639961900,2026-11-05 04:00:00+00:00,ITF Men Maanshan - R16,Daniil Sarksian,Boxiong Zhang,moneyline,,1.4367,2.84,,,,2026-11-05 02:12:15.153206+00:00
+1639961900,2026-11-05 04:00:00+00:00,ITF Men Maanshan - R16,Daniil Sarksian,Boxiong Zhang,spread,-1.5,2.03,1.8,,,,2026-11-05 02:12:15.153206+00:00
+1639961900,2026-11-05 04:00:00+00:00,ITF Men Maanshan - R16,Daniil Sarksian,Boxiong Zhang,total,2.5,,,,2.78,1.4525,2026-11-05 02:12:15.153206+00:00
+1639971953,2026-11-06 03:30:00+00:00,WTA Chennai - QF,Robin Montgomery,Maaya Rajeshwaran Revathi,moneyline,,1.1623,5.65,,,,2026-11-05 02:12:15.153206+00:00
+1639971953,2026-11-06 03:30:00+00:00,WTA Chennai - QF,Robin Montgomery,Maaya Rajeshwaran Revathi,spread,-1.5,1.5208,2.63,,,,2026-11-05 02:12:15.153206+00:00
+1639971953,2026-11-06 03:30:00+00:00,WTA Chennai - QF,Robin Montgomery,Maaya Rajeshwaran Revathi,total,2.5,,,,3.4,1.3425,2026-11-05 02:12:15.153206+00:00
+1639922558,2026-11-05 09:00:00+00:00,ATP Challenger Taipei - R16,Carl Emil Overbeck,Kasidit Samrej,moneyline,,1.7519,2.14,,,,2026-11-05 02:12:15.153206+00:00
+1639922558,2026-11-05 09:00:00+00:00,ATP Challenger Taipei - R16,Carl Emil Overbeck,Kasidit Samrej,spread,-1.5,2.77,1.4673,,,,2026-11-05 02:12:15.153206+00:00
+1639922558,2026-11-05 09:00:00+00:00,ATP Challenger Taipei - R16,Carl Emil Overbeck,Kasidit Samrej,total,2.5,,,,2.39,1.6024,2026-11-05 02:12:15.153206+00:00
+1639863261,2026-11-05 04:30:00+00:00,ATP Challenger Taipei - R16,Yosuke Watanuki,Masamichi Imamura,moneyline,,1.1634,5.62,,,,2026-11-05 02:12:15.153206+00:00
+1639863261,2026-11-05 04:30:00+00:00,ATP Challenger Taipei - R16,Yosuke Watanuki,Masamichi Imamura,spread,-1.5,1.5236,2.62,,,,2026-11-05 02:12:15.153206+00:00
+1639863261,2026-11-05 04:30:00+00:00,ATP Challenger Taipei - R16,Yosuke Watanuki,Masamichi Imamura,total,2.5,,,,3.42,1.3401,2026-11-05 02:12:15.153206+00:00
+1639975132,2026-11-05 14:00:00+00:00,ATP Paris - R16,Rinky Hijikata,Tomas Martin Etcheverry,moneyline,,2.16,1.7634,,,,2026-11-05 02:12:15.153206+00:00
+1639975132,2026-11-05 14:00:00+00:00,ATP Paris - R16,Rinky Hijikata,Tomas Martin Etcheverry,spread,1.5,1.463,2.86,,,,2026-11-05 02:12:15.153206+00:00
+1639975132,2026-11-05 14:00:00+00:00,ATP Paris - R16,Rinky Hijikata,Tomas Martin Etcheverry,total,2.5,,,,2.35,1.6452,2026-11-05 02:12:15.153206+00:00
+1639971903,2026-11-05 10:00:00+00:00,ATP Paris - Doubles,Orlando Luz / Rafael Matos,Lucas Miedler / Neil Oberleitner,moneyline,,2.41,1.5682,,,,2026-11-05 02:12:15.153206+00:00
+1639975080,2026-11-05 23:00:00+00:00,ITF Men Monastir - R16,Maxence Rivet,Cesar Bouchelaghem,moneyline,,3.14,1.3367,,,,2026-11-05 02:12:15.153206+00:00
+1639975080,2026-11-05 23:00:00+00:00,ITF Men Monastir - R16,Maxence Rivet,Cesar Bouchelaghem,spread,1.5,1.8772,1.8772,,,,2026-11-05 02:12:15.153206+00:00
+1639975080,2026-11-05 23:00:00+00:00,ITF Men Monastir - R16,Maxence Rivet,Cesar Bouchelaghem,total,2.5,,,,2.73,1.431,2026-11-05 02:12:15.153206+00:00
+1639935782,2026-11-05 09:30:00+00:00,ATP Challenger Taranto - R16,Adrian Andreev,Matteo Martineau,moneyline,,2.33,1.6173,,,,2026-11-05 02:12:15.153206+00:00
+1639935782,2026-11-05 09:30:00+00:00,ATP Challenger Taranto - R16,Adrian Andreev,Matteo Martineau,spread,1.5,1.5291,2.54,,,,2026-11-05 02:12:15.153206+00:00
+1639935782,2026-11-05 09:30:00+00:00,ATP Challenger Taranto - R16,Adrian Andreev,Matteo Martineau,total,2.5,,,,2.3,1.6289,2026-11-05 02:12:15.153206+00:00
+1639870281,2026-11-05 12:30:00+00:00,ATP Challenger Taranto - R16,Philip Henning,Carlo Alberto Caniato,moneyline,,1.8333,1.9901,,,,2026-11-05 02:12:15.153206+00:00
+1639870281,2026-11-05 12:30:00+00:00,ATP Challenger Taranto - R16,Philip Henning,Carlo Alberto Caniato,spread,-1.5,2.83,1.4405,,,,2026-11-05 02:12:15.153206+00:00
+1639870281,2026-11-05 12:30:00+00:00,ATP Challenger Taranto - R16,Philip Henning,Carlo Alberto Caniato,total,2.5,,,,2.6,1.5102,2026-11-05 02:12:15.153206+00:00
