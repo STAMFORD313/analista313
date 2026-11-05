@@ -1618,7 +1618,10 @@
   "dota2|133675",
   "fc|2362697",
   "fc|2362312",
-  "fc|2361947"
+  "fc|2361947",
+  "fc|2361949",
+  "fc|2361950",
+  "fc|2361948"
  ],
  "signals": [
   {
@@ -23727,7 +23730,11 @@
    "version": "5d2adff",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "1-3",
+   "result": true,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "H",
@@ -23747,7 +23754,11 @@
    "version": "5d2adff",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "5-3",
+   "result": true,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "H",
@@ -23767,7 +23778,11 @@
    "version": "5d2adff",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "3-0",
+   "result": true,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "A",
@@ -23859,7 +23874,11 @@
    "version": "4e0be0a",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "2-4",
+   "result": true,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "H",
@@ -23924,7 +23943,11 @@
    "version": "5c75119",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "3-1",
+   "result": true,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "A",
@@ -23945,7 +23968,11 @@
    "version": "5c75119",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "3-3",
+   "result": false,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "H",
@@ -23966,7 +23993,11 @@
    "version": "5c75119",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "3-4",
+   "result": false,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "H",
@@ -24029,7 +24060,11 @@
    "version": "5c75119",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "2-6",
+   "result": false,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "A",
@@ -24179,7 +24214,11 @@
    "version": "3d3af83",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "2-0",
+   "result": false,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "A",
@@ -24264,7 +24303,11 @@
    "version": "841fa9b",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "3-4",
+   "result": false,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "D",
@@ -24285,7 +24328,11 @@
    "version": "841fa9b",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "2-1",
+   "result": false,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "D",
@@ -24344,19 +24391,6 @@
    "start": "2026-11-05T03:16:00+00:00",
    "league": "🎮⚽ FC 27 · Champions League A",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 56.488 partidos)",
-    "Goles esperados: hotShot 1.83 · Inquisitor 2.35",
-    "Ganador: hotShot 27% · empate 23% · Inquisitor 50%",
-    "Total: más de 4.5 goles 41% · menos 59%",
-    "Hándicap Inquisitor: −1.5 31% · −2.5 16%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: hotShot ✅❌➖✅❌ | Inquisitor ❌❌✅❌➖",
-    "• Partidos: hotShot 500 | Inquisitor 536",
-    "• Liga: Champions League A",
-    "• Unibet: 1 2.75 · X 2.80 · 2 2.28 (sin margen 31%/31%/38%) · ventaja +13%. Sin stake hasta demostrar ROI con estas cuotas."
-   ],
    "context": "EA FC Esoccer Battle hotShot vs Inquisitor (Champions League A): goles esperados 1.83-2.35, 1X2 27%/23%/50%. Sin cuotas de casa.",
    "captured": "2026-11-05T02:43",
    "version": "d517d06",
@@ -24483,6 +24517,108 @@
    ],
    "context": "EA FC Esoccer Battle RossFCDK vs hotShot (Champions League A): goles esperados 1.87-2.28, 1X2 29%/23%/48%. Sin cuotas de casa.",
    "captured": "2026-11-05T03:12",
+   "version": "bd6ab2a",
+   "bajas": "",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "H",
+   "pick": "Inquisitor",
+   "odds": 1.85,
+   "book": "Unibet",
+   "implied": 0.472,
+   "edge": 0.084,
+   "sin_stake": true,
+   "p": 0.586,
+   "key": "fc|2361949",
+   "match": "Inquisitor vs OG",
+   "start": "2026-11-05T03:50:00+00:00",
+   "league": "🎮⚽ FC 27 · Serie A",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 56.548 partidos)",
+    "Goles esperados: Inquisitor 2.94 · OG 2.05",
+    "Ganador: Inquisitor 59% · empate 19% · OG 22%",
+    "Total: más de 4.5 goles 56% · menos 44%",
+    "Hándicap Inquisitor: −1.5 38% · −2.5 23%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Inquisitor ❌❌✅❌➖ | OG ✅✅➖➖➖",
+    "• Partidos: Inquisitor 536 | OG 536",
+    "• Liga: Serie A",
+    "• Unibet: 1 1.85 · X 4.70 · 2 2.55 (sin margen 47%/19%/34%) · ventaja +8%. Sin stake hasta demostrar ROI con estas cuotas."
+   ],
+   "context": "EA FC Esoccer Battle Inquisitor vs OG (Serie A): goles esperados 2.94-2.05, 1X2 59%/19%/22%. Sin cuotas de casa.",
+   "captured": "2026-11-05T03:18",
+   "version": "bd6ab2a",
+   "bajas": "",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "H",
+   "pick": "OG",
+   "odds": 2.5,
+   "book": "Unibet",
+   "implied": 0.347,
+   "edge": 0.077,
+   "sin_stake": true,
+   "p": 0.431,
+   "key": "fc|2361950",
+   "match": "OG vs RossFCDK",
+   "start": "2026-11-05T04:02:00+00:00",
+   "league": "🎮⚽ FC 27 · Serie A",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 56.548 partidos)",
+    "Goles esperados: OG 2.56 · RossFCDK 2.34",
+    "Ganador: OG 43% · empate 22% · RossFCDK 35%",
+    "Total: más de 4.5 goles 54% · menos 46%",
+    "Hándicap OG: −1.5 27% · −2.5 15%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: OG ✅✅➖➖➖ | RossFCDK ❌❌➖❌✅",
+    "• Partidos: OG 536 | RossFCDK 499",
+    "• Liga: Serie A",
+    "• Unibet: 1 2.50 · X 3.10 · 2 2.32 (sin margen 35%/28%/37%) · ventaja +8%. Sin stake hasta demostrar ROI con estas cuotas."
+   ],
+   "context": "EA FC Esoccer Battle OG vs RossFCDK (Serie A): goles esperados 2.56-2.34, 1X2 43%/22%/35%. Sin cuotas de casa.",
+   "captured": "2026-11-05T03:18",
+   "version": "bd6ab2a",
+   "bajas": "",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "A",
+   "pick": "Kray",
+   "odds": 1.57,
+   "book": "Unibet",
+   "implied": 0.562,
+   "edge": 0.027,
+   "sin_stake": true,
+   "p": 0.654,
+   "key": "fc|2361948",
+   "match": "RossFCDK vs Kray",
+   "start": "2026-11-05T03:50:00+00:00",
+   "league": "🎮⚽ FC 27 · Serie A",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 56.548 partidos)",
+    "Goles esperados: RossFCDK 2.31 · Kray 3.56",
+    "Ganador: RossFCDK 18% · empate 16% · Kray 65%",
+    "Total: más de 5.5 goles 53% · menos 47%",
+    "Hándicap Kray: −1.5 45% · −2.5 29%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: RossFCDK ❌❌➖❌✅ | Kray ✅✅✅➖➖",
+    "• Partidos: RossFCDK 499 | Kray 535",
+    "• Liga: Serie A",
+    "• Unibet: 1 3.15 · X 5.60 · 2 1.57 (sin margen 28%/16%/56%) · ventaja +3%. Sin stake hasta demostrar ROI con estas cuotas."
+   ],
+   "context": "EA FC Esoccer Battle RossFCDK vs Kray (Serie A): goles esperados 2.31-3.56, 1X2 18%/16%/65%. Sin cuotas de casa.",
+   "captured": "2026-11-05T03:18",
    "version": "bd6ab2a",
    "bajas": "",
    "considered": true,
