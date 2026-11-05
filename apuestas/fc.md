@@ -1,60 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 05/11/2026 10:03 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Maxa vs Totti — 05/11 · 10:04
-
-👀 candidata · 🎮⚽ FC 27 · Ligue 1 · **Empate** @ **5.60** (Unibet) · prob 19% vs casas 16% · ventaja +4%
-
-- ❌ Valor: ventaja +4% (mín. 9% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 56.798 partidos)  
-Goles esperados: Maxa 3.28 · Totti 2.80  
-Ganador: Maxa 50% · empate 19% · Totti 31%  
-Total: más de 6.5 goles 41% · menos 59%  
-Hándicap Maxa: −1.5 33% · −2.5 20%  
-🔎 **Claves**  
-• Forma: Maxa ✅➖❌✅✅ | Totti ❌➖➖✅❌  
-• Partidos: Maxa 837 | Totti 891  
-• Liga: Ligue 1  
-• Unibet: 1 1.65 · X 5.60 · 2 2.85 (sin margen 53%/16%/31%) · ventaja +4%. Sin stake hasta demostrar ROI con estas cuotas.  
-
-## Kril vs Fireline — 05/11 · 10:06
-
-👀 candidata · 🎮⚽ FC 27 · Volta World Cup B · **Gana Kril** @ **1.22** (cuota justa (sin casa)) · prob 82% vs casas 82% · ventaja +0%
-
-- ❌ Valor: ventaja +0% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 56.698 partidos)  
-Goles esperados: Kril 4.81 · Fireline 2.28  
-Ganador: Kril 82% · empate 10% · Fireline 8%  
-Total: más de 7.5 goles 42% · menos 58%  
-Hándicap Kril: −1.5 65% · −2.5 50%  
-🔎 **Claves**  
-• Forma: Kril ✅❌✅✅✅ | Fireline ❌❌❌➖❌  
-• Partidos: Kril 285 | Fireline 88  
-• Liga: Volta World Cup B  
-• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
-
-## Uncle vs LaikingDast — 05/11 · 10:07
-
-👀 candidata · 🎮⚽ FC 27 · Serie A · **Gana Uncle** @ **2.95** (Unibet) · prob 42% vs casas 29% · ventaja +22%
-
-- ✅ Valor: ventaja +22% (mín. 14% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 56.798 partidos)  
-Goles esperados: Uncle 2.56 · LaikingDast 2.46  
-Ganador: Uncle 42% · empate 21% · LaikingDast 37%  
-Total: más de 5.5 goles 39% · menos 61%  
-Hándicap Uncle: −1.5 26% · −2.5 14%  
-🔎 **Claves**  
-• Forma: Uncle ➖✅✅❌➖ | LaikingDast ❌✅❌❌❌  
-• Partidos: Uncle 650 | LaikingDast 456  
-• Liga: Serie A  
-• Unibet: 1 2.95 · X 2.55 · 2 2.38 (sin margen 29%/34%/36%) · ventaja +22%. Sin stake hasta demostrar ROI con estas cuotas.  
+Actualizado 05/11/2026 10:08 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Revange vs dm1trena — 05/11 · 10:10
 
@@ -147,6 +93,25 @@ Hándicap Taz: −1.5 44% · −2.5 29%
 • Liga: Ligue 1  
 • Unibet: 1 2.30 · X 4.90 · 2 1.98 (sin margen 38%/18%/44%) · ventaja +22%. Sin stake hasta demostrar ROI con estas cuotas.  
 
+## DaVa vs Revange — 05/11 · 10:22
+
+👀 candidata · 🎮⚽ FC 27 · Champions League AFC · **Gana Revange** @ **4.25** (Unibet) · prob 23% vs casas 21% · ventaja -0%
+
+- ❌ Valor: ventaja -0% (mín. 8% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 56.798 partidos)  
+Goles esperados: DaVa 2.49 · Revange 1.82  
+Ganador: DaVa 55% · empate 22% · Revange 23%  
+Total: más de 4.5 goles 43% · menos 57%  
+Hándicap DaVa: −1.5 33% · −2.5 18%  
+🔎 **Claves**  
+• Forma: DaVa ➖❌✅➖➖ | Revange ✅✅❌➖❌  
+• Partidos: DaVa 1132 | Revange 556  
+• Liga: Champions League AFC  
+• Unibet: 1 1.66 · X 3.30 · 2 4.25 (sin margen 53%/27%/21%) · ventaja -0%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 4.25 (-0%) · Paf España 4.25 (-0%)  
+
 ## Dan_dragonio vs Kril — 05/11 · 10:24
 
 👀 candidata · 🎮⚽ FC 27 · Volta World Cup B · **Gana Kril** @ **1.27** (cuota justa (sin casa)) · prob 79% vs casas 79% · ventaja +0%
@@ -220,6 +185,44 @@ Hándicap KraftVK: −1.5 36% · −2.5 22%
 • Liga: Serie A  
 • Unibet: 1 1.95 · X 3.15 · 2 3.15 (sin margen 45%/28%/28%) · ventaja +3%. Sin stake hasta demostrar ROI con estas cuotas.  
 • En España: LeoVegas España 1.95 (+3%) · Paf España 1.95 (+3%)  
+
+## dm1trena vs DaVa — 05/11 · 10:34
+
+👀 candidata · 🎮⚽ FC 27 · Champions League AFC · **Gana dm1trena** @ **6.10** (Unibet) · prob 19% vs casas 14% · ventaja +13%
+
+- ✅ Valor: ventaja +13% (mín. 12% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 56.798 partidos)  
+Goles esperados: dm1trena 1.85 · DaVa 2.89  
+Ganador: dm1trena 19% · empate 19% · DaVa 62%  
+Total: más de 4.5 goles 51% · menos 49%  
+Hándicap DaVa: −1.5 41% · −2.5 24%  
+🔎 **Claves**  
+• Forma: dm1trena ✅❌➖✅❌ | DaVa ➖❌✅➖➖  
+• Partidos: dm1trena 1013 | DaVa 1132  
+• Liga: Champions League AFC  
+• Unibet: 1 6.10 · X 3.55 · 2 1.41 (sin margen 14%/24%/61%) · ventaja +13%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 6.10 (+13%) · Paf España 6.10 (+13%)  
+
+## Revange vs MeLToSik — 05/11 · 10:34
+
+👀 candidata · 🎮⚽ FC 27 · Champions League AFC · **Gana MeLToSik** @ **3.45** (Unibet) · prob 30% vs casas 25% · ventaja +2%
+
+- ❌ Valor: ventaja +2% (mín. 9% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 56.798 partidos)  
+Goles esperados: Revange 2.13 · MeLToSik 1.82  
+Ganador: Revange 46% · empate 24% · MeLToSik 30%  
+Total: más de 3.5 goles 56% · menos 44%  
+Hándicap Revange: −1.5 26% · −2.5 13%  
+🔎 **Claves**  
+• Forma: Revange ✅✅❌➖❌ | MeLToSik ➖➖➖❌➖  
+• Partidos: Revange 556 | MeLToSik 1069  
+• Liga: Champions League AFC  
+• Unibet: 1 1.70 · X 3.80 · 2 3.45 (sin margen 52%/23%/25%) · ventaja +2%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 3.45 (+2%) · Paf España 3.45 (+2%)  
 
 ## Fireline vs Kril — 05/11 · 10:51
 

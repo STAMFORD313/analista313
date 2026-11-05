@@ -1,6 +1,6 @@
 # 🧙 LoL · apuestas de valor
 
-Actualizado 05/11/2026 10:03 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 05/11/2026 10:08 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Dplus KIA vs Bilibili Gaming — 05/11 · 23:00
 
