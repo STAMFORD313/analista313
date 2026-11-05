@@ -1,6 +1,42 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 05/11/2026 01:42 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 05/11/2026 02:11 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+
+## Grellz vs Simaponika — 05/11 · 02:15
+
+👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana Grellz** @ **1.41** (Unibet) · prob 70% vs casas 61% · ventaja -1%
+
+- ❌ Valor: ventaja -1% (mín. 8% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 56.436 partidos)  
+Goles esperados: Grellz 4.05 · Simaponika 2.44  
+Ganador: Grellz 70% · empate 14% · Simaponika 15%  
+Total: más de 6.5 goles 47% · menos 53%  
+Hándicap Grellz: −1.5 51% · −2.5 35%  
+🔎 **Claves**  
+• Forma: Grellz ✅✅✅✅➖ | Simaponika ❌❌❌✅✅  
+• Partidos: Grellz 999 | Simaponika 1040  
+• Liga: Champions League B  
+• Unibet: 1 1.41 · X 5.30 · 2 3.90 (sin margen 61%/16%/22%) · ventaja -1%. Sin stake hasta demostrar ROI con estas cuotas.  
+
+## tizzy vs Kavviro — 05/11 · 02:15
+
+👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana tizzy** @ **2.25** (Unibet) · prob 39% vs casas 39% · ventaja -13%
+
+- ❌ Valor: ventaja -13% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 56.436 partidos)  
+Goles esperados: tizzy 2.90 · Kavviro 2.98  
+Ganador: tizzy 39% · empate 20% · Kavviro 42%  
+Total: más de 5.5 goles 53% · menos 47%  
+Hándicap Kavviro: −1.5 27% · −2.5 15%  
+🔎 **Claves**  
+• Forma: tizzy ✅✅✅❌✅ | Kavviro ❌❌✅❌➖  
+• Partidos: tizzy 337 | Kavviro 745  
+• Liga: Champions League B  
+• Unibet: 1 2.25 · X 4.40 · 2 2.10 (sin margen 39%/20%/41%) · ventaja -13%. Sin stake hasta demostrar ROI con estas cuotas.  
 
 ## Kavviro vs kkikus — 05/11 · 02:27
 
@@ -19,6 +55,24 @@ Hándicap Kavviro: −1.5 64% · −2.5 47%
 • Partidos: Kavviro 737 | kkikus 872  
 • Liga: Champions League B  
 • Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
+
+## Simaponika vs tizzy — 05/11 · 02:27
+
+👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana tizzy** @ **1.36** (Unibet) · prob 72% vs casas 64% · ventaja -2%
+
+- ❌ Valor: ventaja -2% (mín. 8% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 56.436 partidos)  
+Goles esperados: Simaponika 2.40 · tizzy 4.10  
+Ganador: Simaponika 14% · empate 14% · tizzy 72%  
+Total: más de 6.5 goles 47% · menos 53%  
+Hándicap tizzy: −1.5 52% · −2.5 37%  
+🔎 **Claves**  
+• Forma: Simaponika ❌❌❌✅✅ | tizzy ✅✅✅❌✅  
+• Partidos: Simaponika 1040 | tizzy 337  
+• Liga: Champions League B  
+• Unibet: 1 4.20 · X 5.60 · 2 1.36 (sin margen 21%/16%/64%) · ventaja -2%. Sin stake hasta demostrar ROI con estas cuotas.  
 
 ## Senya vs Sheva — 05/11 · 02:49
 

@@ -34559,3 +34559,6 @@ game_id,match_id,slug,date,tier,bo,tournament_id,tournament,t1_id,t2_id,team1,te
 192401,133215,nexus-vs-the-last-resort-04-11-2026,2026-11-04T18:00:00.000+00:00,b,3,5628,CCT Europe 2026 Series 13,326,2740,Nexus,The Last Resort,1,de_cache,326,13.0,8.0
 192265,133170,borracheiros-vs-low-cortisol-br-04-11-2026,2026-11-04T19:00:00.000+00:00,b,3,5624,CCT South America 2026 Series 8,24668,25343,BORRACHEIROS,Low Cortisol BR,2,de_ancient,25343,13.0,8.0
 192266,133170,borracheiros-vs-low-cortisol-br-04-11-2026,2026-11-04T19:00:00.000+00:00,b,3,5624,CCT South America 2026 Series 8,24668,25343,BORRACHEIROS,Low Cortisol BR,1,de_cache,25343,13.0,10.0
+192267,133171,isurus-gaming-cs-go-vs-underworld-04-11-2026,2026-11-04T22:15:00.000+00:00,b,3,5624,CCT South America 2026 Series 8,591,25139,Isurus,Underworld,3,de_dust2,591,13.0,4.0
+192268,133171,isurus-gaming-cs-go-vs-underworld-04-11-2026,2026-11-04T22:15:00.000+00:00,b,3,5624,CCT South America 2026 Series 8,591,25139,Isurus,Underworld,2,de_inferno,25139,13.0,10.0
+192269,133171,isurus-gaming-cs-go-vs-underworld-04-11-2026,2026-11-04T22:15:00.000+00:00,b,3,5624,CCT South America 2026 Series 8,591,25139,Isurus,Underworld,1,de_mirage,591,13.0,1.0
