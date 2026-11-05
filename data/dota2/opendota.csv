@@ -1,4 +1,272 @@
 match_id,start_time,duration,league,series_id,series_type,radiant_id,radiant,dire_id,dire,radiant_score,dire_score,radiant_win
+17955123,2012-05-28T17:11:52+00:00,3374,Star Series Season II Lan Final,0.0,0.0,,,,,0.0,0.0,True
+17962237,2012-05-28T18:27:23+00:00,1917,Star Series Season II Lan Final,0.0,0.0,,,,,0.0,0.0,False
+17972480,2012-05-28T19:42:08+00:00,3054,Star Series Season II Lan Final,0.0,0.0,,,,,0.0,0.0,False
+18096178,2012-05-29T17:54:32+00:00,1525,Star Series Season II Lan Final,0.0,0.0,,,,,0.0,0.0,False
+18244878,2012-05-30T19:11:44+00:00,1915,Star Series Season II Lan Final,0.0,0.0,,,,,0.0,0.0,False
+18247965,2012-05-30T19:29:44+00:00,2727,Star Series Season II Lan Final,0.0,0.0,,,,,0.0,0.0,True
+18355350,2012-05-31T16:08:14+00:00,1078,Star Series Season II Lan Final,0.0,0.0,,,,,0.0,0.0,True
+18375947,2012-05-31T18:29:47+00:00,2651,Star Series Season II Lan Final,0.0,0.0,,,6.0,Absolute Legends,0.0,0.0,True
+18381978,2012-05-31T19:38:17+00:00,1928,Star Series Season II Lan Final,0.0,0.0,,,,,0.0,0.0,True
+18842103,2012-06-03T15:33:23+00:00,2018,Star Series Season II Lan Final,0.0,0.0,,,,,0.0,0.0,False
+18867010,2012-06-03T18:32:37+00:00,1579,Star Series Season II Lan Final,0.0,0.0,,,,,0.0,0.0,False
+19009163,2012-06-04T16:12:59+00:00,1857,Star Series Season II Lan Final,0.0,0.0,21.0,zNation,,,0.0,0.0,False
+19009484,2012-06-04T16:10:12+00:00,2273,Star Series Season II Lan Final,0.0,0.0,9.0,Keita Gaming,,,0.0,0.0,False
+19017126,2012-06-04T17:27:47+00:00,1245,Star Series Season II Lan Final,0.0,0.0,30.0,mTw,,,0.0,0.0,True
+19150047,2012-06-05T15:23:00+00:00,3605,Star Series Season II Lan Final,0.0,0.0,31.0,Darer,12.0,Ahead.kz,0.0,0.0,False
+19157124,2012-06-05T16:28:11+00:00,2006,Star Series Season II Lan Final,0.0,0.0,6.0,Absolute Legends,,,0.0,0.0,True
+19170410,2012-06-05T17:25:28+00:00,4594,Star Series Season II Lan Final,0.0,0.0,,,6.0,Absolute Legends,0.0,0.0,True
+19249598,2012-06-06T08:46:40+00:00,1963,Wild Cards East,0.0,0.0,37.0,Mineski Hyper-X,24.0,Trust Gaming,0.0,0.0,False
+19254348,2012-06-06T09:56:24+00:00,1558,Wild Cards East,0.0,0.0,24.0,Trust Gaming,37.0,Mineski Hyper-X,0.0,0.0,True
+19266829,2012-06-06T11:32:35+00:00,2445,Wild Cards East,0.0,0.0,35.0,ICE`,20.0,Newbee.mgb,0.0,0.0,False
+19277001,2012-06-06T12:32:16+00:00,3415,Wild Cards East,0.0,0.0,20.0,Newbee.mgb,35.0,ICE`,0.0,0.0,True
+19281584,2012-06-06T13:27:43+00:00,2653,Wild Cards West,0.0,0.0,30.0,mTw,1883502.0,Virtus.pro,0.0,0.0,False
+19285034,2012-06-06T14:01:25+00:00,2112,Wild Cards East,0.0,0.0,16.0,MSI-evoGT The-net.com,11.0,AEONSports,0.0,0.0,False
+19288328,2012-06-06T14:32:24+00:00,1667,Wild Cards West,0.0,0.0,1883502.0,Virtus.pro,30.0,mTw,0.0,0.0,False
+19302450,2012-06-06T18:06:02+00:00,2164,Wild Cards West,0.0,0.0,9.0,Keita Gaming,12.0,Ahead.kz,0.0,0.0,False
+19303839,2012-06-06T18:04:50+00:00,2940,Wild Cards East,0.0,0.0,16.0,MSI-evoGT The-net.com,11.0,AEONSports,0.0,0.0,False
+19305123,2012-06-06T17:54:19+00:00,4168,Wild Cards West,0.0,0.0,1883502.0,Virtus.pro,30.0,mTw,0.0,0.0,True
+19308670,2012-06-06T18:27:08+00:00,3584,Wild Cards East,0.0,0.0,34.0,DuskBin-Esports,,,0.0,0.0,True
+19311622,2012-06-06T19:02:09+00:00,3274,Wild Cards West,0.0,0.0,12.0,Ahead.kz,9.0,Keita Gaming,0.0,0.0,True
+19314522,2012-06-06T19:31:48+00:00,2414,Wild Cards West,0.0,0.0,29.0,Team Quantic,21.0,zNation,0.0,0.0,True
+19314985,2012-06-06T19:49:00+00:00,1930,Wild Cards East,0.0,0.0,,,34.0,DuskBin-Esports,0.0,0.0,False
+19320490,2012-06-06T20:37:39+00:00,1803,Wild Cards West,0.0,0.0,21.0,zNation,29.0,Team Quantic,0.0,0.0,True
+19320624,2012-06-06T20:34:13+00:00,2286,Wild Cards West,0.0,0.0,26.0,MOUZ,23.0,Team Infused,0.0,0.0,True
+19326398,2012-06-06T21:33:28+00:00,2158,Wild Cards West,0.0,0.0,29.0,Team Quantic,21.0,zNation,0.0,0.0,True
+19326771,2012-06-06T21:40:59+00:00,2064,Wild Cards West,0.0,0.0,23.0,Team Infused,26.0,MOUZ,0.0,0.0,True
+19331183,2012-06-06T22:41:54+00:00,1877,Wild Cards West,0.0,0.0,23.0,Team Infused,26.0,MOUZ,0.0,0.0,False
+19392045,2012-06-07T10:23:38+00:00,3573,Wild Cards East,0.0,0.0,20.0,Newbee.mgb,24.0,Trust Gaming,0.0,0.0,False
+19399329,2012-06-07T11:44:10+00:00,2365,Wild Cards East,0.0,0.0,24.0,Trust Gaming,20.0,Newbee.mgb,0.0,0.0,False
+19407750,2012-06-07T12:49:45+00:00,2507,Wild Cards East,0.0,0.0,24.0,Trust Gaming,20.0,Newbee.mgb,0.0,0.0,False
+19417655,2012-06-07T14:03:15+00:00,2565,Wild Cards East,0.0,0.0,16.0,MSI-evoGT The-net.com,,,0.0,0.0,False
+19425487,2012-06-07T15:05:18+00:00,2318,Wild Cards East,0.0,0.0,,,16.0,MSI-evoGT The-net.com,0.0,0.0,True
+19438844,2012-06-07T16:20:16+00:00,3312,Wild Cards East,0.0,0.0,37.0,Mineski Hyper-X,35.0,ICE`,0.0,0.0,False
+19445156,2012-06-07T17:18:22+00:00,2667,Wild Cards West,0.0,0.0,29.0,Team Quantic,12.0,Ahead.kz,0.0,0.0,False
+19445411,2012-06-07T17:20:13+00:00,2125,Wild Cards West,0.0,0.0,21.0,zNation,9.0,Keita Gaming,0.0,0.0,True
+19451502,2012-06-07T17:47:11+00:00,3810,Wild Cards East,0.0,0.0,35.0,ICE`,37.0,Mineski Hyper-X,0.0,0.0,False
+19452040,2012-06-07T18:26:32+00:00,1684,Wild Cards West,0.0,0.0,9.0,Keita Gaming,21.0,zNation,0.0,0.0,False
+19452859,2012-06-07T18:26:33+00:00,2217,Wild Cards West,0.0,0.0,12.0,Ahead.kz,29.0,Team Quantic,0.0,0.0,True
+19461370,2012-06-07T19:43:06+00:00,1791,Wild Cards East,0.0,0.0,37.0,Mineski Hyper-X,35.0,ICE`,0.0,0.0,False
+19461867,2012-06-07T19:38:52+00:00,2331,Wild Cards West,0.0,0.0,1883502.0,Virtus.pro,26.0,MOUZ,0.0,0.0,False
+19472796,2012-06-07T20:45:24+00:00,4421,Wild Cards West,0.0,0.0,26.0,MOUZ,1883502.0,Virtus.pro,0.0,0.0,False
+19479279,2012-06-07T22:25:09+00:00,3252,Wild Cards West,0.0,0.0,1883502.0,Virtus.pro,26.0,MOUZ,0.0,0.0,False
+19538671,2012-06-08T10:14:03+00:00,2359,Wild Cards East,0.0,0.0,,,24.0,Trust Gaming,0.0,0.0,True
+19544592,2012-06-08T11:11:56+00:00,1853,Wild Cards East,0.0,0.0,24.0,Trust Gaming,,,0.0,0.0,False
+19558770,2012-06-08T13:00:22+00:00,1933,Wild Cards East,0.0,0.0,11.0,AEONSports,34.0,DuskBin-Esports,0.0,0.0,True
+19560076,2012-06-08T13:16:12+00:00,1713,Wild Cards West,0.0,0.0,21.0,zNation,1883502.0,Virtus.pro,0.0,0.0,True
+19566866,2012-06-08T13:57:48+00:00,2179,Wild Cards East,0.0,0.0,34.0,DuskBin-Esports,11.0,AEONSports,0.0,0.0,False
+19569070,2012-06-08T14:07:20+00:00,2254,Wild Cards West,0.0,0.0,1883502.0,Virtus.pro,21.0,zNation,0.0,0.0,False
+19578465,2012-06-08T15:11:07+00:00,2381,Wild Cards West,0.0,0.0,21.0,zNation,1883502.0,Virtus.pro,0.0,0.0,True
+19581008,2012-06-08T15:31:59+00:00,2370,Wild Cards East,0.0,0.0,34.0,DuskBin-Esports,35.0,ICE`,0.0,0.0,False
+19588978,2012-06-08T16:16:34+00:00,3249,Wild Cards West,0.0,0.0,30.0,mTw,23.0,Team Infused,0.0,0.0,True
+19592251,2012-06-08T16:44:04+00:00,3300,Wild Cards East,0.0,0.0,35.0,ICE`,34.0,DuskBin-Esports,0.0,0.0,False
+19596853,2012-06-08T17:33:45+00:00,2509,Wild Cards West,0.0,0.0,23.0,Team Infused,30.0,mTw,0.0,0.0,False
+19600330,2012-06-08T17:57:25+00:00,2577,Wild Cards East,0.0,0.0,35.0,ICE`,34.0,DuskBin-Esports,0.0,0.0,False
+19612112,2012-06-08T19:32:40+00:00,2651,Wild Cards West,0.0,0.0,30.0,mTw,29.0,Team Quantic,0.0,0.0,True
+19618652,2012-06-08T20:41:02+00:00,2397,Wild Cards West,0.0,0.0,29.0,Team Quantic,30.0,mTw,0.0,0.0,False
+19704331,2012-06-09T11:38:02+00:00,1547,Wild Cards East,0.0,0.0,34.0,DuskBin-Esports,,,0.0,0.0,False
+19713444,2012-06-09T12:25:07+00:00,2939,Wild Cards East,0.0,0.0,,,34.0,DuskBin-Esports,0.0,0.0,False
+19724822,2012-06-09T13:58:46+00:00,2189,Wild Cards East,0.0,0.0,34.0,DuskBin-Esports,,,0.0,0.0,False
+19725653,2012-06-09T14:09:38+00:00,2046,Wild Cards West,0.0,0.0,30.0,mTw,21.0,zNation,0.0,0.0,True
+19733786,2012-06-09T15:04:17+00:00,2158,Wild Cards East,0.0,0.0,11.0,AEONSports,20.0,Newbee.mgb,0.0,0.0,False
+19734898,2012-06-09T15:01:17+00:00,2158,Wild Cards West,0.0,0.0,21.0,zNation,30.0,mTw,0.0,0.0,False
+19740349,2012-06-09T15:56:16+00:00,1855,Wild Cards East,0.0,0.0,20.0,Newbee.mgb,11.0,AEONSports,0.0,0.0,True
+19749664,2012-06-09T16:50:36+00:00,2410,Wild Cards East,0.0,0.0,,,11.0,AEONSports,0.0,0.0,False
+19751539,2012-06-09T16:47:06+00:00,3672,Wild Cards West,0.0,0.0,26.0,MOUZ,12.0,Ahead.kz,0.0,0.0,False
+19759483,2012-06-09T17:53:03+00:00,3692,Wild Cards East,0.0,0.0,11.0,AEONSports,,,0.0,0.0,False
+19760129,2012-06-09T18:15:53+00:00,2672,Wild Cards West,0.0,0.0,12.0,Ahead.kz,26.0,MOUZ,0.0,0.0,True
+19767786,2012-06-09T19:14:50+00:00,2960,Wild Cards East,0.0,0.0,11.0,AEONSports,,,0.0,0.0,False
+19881546,2012-06-10T13:23:25+00:00,2409,Wild Cards West,0.0,0.0,26.0,MOUZ,30.0,mTw,0.0,0.0,False
+19883775,2012-06-10T13:12:33+00:00,4641,Wild Cards East,0.0,0.0,,,20.0,Newbee.mgb,0.0,0.0,False
+19893466,2012-06-10T15:10:00+00:00,1828,Wild Cards East,0.0,0.0,20.0,Newbee.mgb,,,0.0,0.0,True
+19896672,2012-06-10T14:47:46+00:00,3626,Wild Cards West,0.0,0.0,30.0,mTw,26.0,MOUZ,0.0,0.0,True
+19903030,2012-06-10T16:03:51+00:00,2620,Wild Cards East,0.0,0.0,,,20.0,Newbee.mgb,0.0,0.0,False
+19910918,2012-06-10T17:28:49+00:00,1628,Wild Cards West,0.0,0.0,30.0,mTw,12.0,Ahead.kz,0.0,0.0,True
+19917771,2012-06-10T18:15:39+00:00,2244,Wild Cards West,0.0,0.0,12.0,Ahead.kz,30.0,mTw,0.0,0.0,True
+19926255,2012-06-10T19:11:21+00:00,2865,Wild Cards West,0.0,0.0,30.0,mTw,12.0,Ahead.kz,0.0,0.0,True
+19934308,2012-06-10T20:20:14+00:00,2775,Wild Cards West,0.0,0.0,12.0,Ahead.kz,30.0,mTw,0.0,0.0,False
+21708213,2012-06-21T17:20:46+00:00,2642,Star Series Season II Lan Final,0.0,0.0,,,33.0,Moscow Five,0.0,0.0,False
+21721650,2012-06-21T18:50:28+00:00,3259,The Defense,0.0,0.0,3.0,compLexity Gaming,33.0,Moscow Five,0.0,0.0,True
+21730450,2012-06-21T20:26:15+00:00,1520,The Defense,0.0,0.0,22.0,Counter Logic Gaming,47.0,Copenhagen Wolves,0.0,0.0,False
+21858118,2012-06-22T15:18:00+00:00,2426,Star Series Season II Lan Final,0.0,0.0,26.0,MOUZ,33.0,Moscow Five,0.0,0.0,True
+21870270,2012-06-22T16:39:01+00:00,2298,Star Series Season II Lan Final,0.0,0.0,,,26.0,MOUZ,0.0,0.0,False
+21878311,2012-06-22T17:47:31+00:00,1350,Star Series Season II Lan Final,0.0,0.0,26.0,MOUZ,,,0.0,0.0,True
+21891207,2012-06-22T18:59:17+00:00,2063,The Defense,0.0,0.0,22.0,Counter Logic Gaming,49.0,HelloMoto,0.0,0.0,True
+22068035,2012-06-23T17:48:01+00:00,2896,Star Series Season II Lan Final,0.0,0.0,22.0,Counter Logic Gaming,31.0,Darer,0.0,0.0,False
+22068373,2012-06-23T17:41:41+00:00,4348,The Defense,0.0,0.0,6.0,Absolute Legends,45.0,Hydra,0.0,0.0,True
+22075017,2012-06-23T19:15:12+00:00,1543,The Defense,0.0,0.0,23.0,Team Infused,21.0,zNation,0.0,0.0,True
+22257520,2012-06-24T18:40:38+00:00,2142,The Defense,0.0,0.0,52.0,uebelst-gamynG,41.0,4 Friends + Chrillee,0.0,0.0,True
+22270148,2012-06-24T19:43:27+00:00,3079,The Defense,0.0,0.0,51.0,We haz Asian,39.0,Shopify Rebellion,0.0,0.0,False
+22408179,2012-06-25T16:13:36+00:00,2588,The Defense,0.0,0.0,49.0,HelloMoto,9.0,Keita Gaming,0.0,0.0,True
+22423299,2012-06-25T18:09:47+00:00,1910,The Defense,0.0,0.0,12.0,Ahead.kz,36.0,Natus Vincere,0.0,0.0,True
+22433943,2012-06-25T18:52:32+00:00,3418,The Defense,0.0,0.0,53.0,Potm Bottom,22.0,Counter Logic Gaming,0.0,0.0,False
+22444193,2012-06-25T20:13:38+00:00,3366,The Defense,0.0,0.0,38.0,FnaticRaidCall,54.0,Storm Games Clan,0.0,0.0,False
+22584906,2012-06-26T16:22:53+00:00,2409,The Defense,0.0,0.0,21.0,zNation,26.0,MOUZ,0.0,0.0,False
+22596187,2012-06-26T17:32:01+00:00,1622,The Defense,0.0,0.0,23.0,Team Infused,51.0,We haz Asian,0.0,0.0,True
+22601579,2012-06-26T19:32:54+00:00,2195,The Defense,0.0,0.0,30.0,mTw,46.0,Team Empire,0.0,0.0,True
+22605533,2012-06-26T20:10:40+00:00,1492,The Defense,0.0,0.0,3.0,compLexity Gaming,45.0,Hydra,0.0,0.0,True
+22754454,2012-06-27T16:14:36+00:00,2555,The Defense,0.0,0.0,6.0,Absolute Legends,52.0,uebelst-gamynG,0.0,0.0,False
+22756010,2012-06-27T16:33:39+00:00,2617,Star Series Season II Lan Final,0.0,0.0,33.0,Moscow Five,,,0.0,0.0,True
+22768360,2012-06-27T17:40:17+00:00,2741,The Defense,0.0,0.0,41.0,4 Friends + Chrillee,33.0,Moscow Five,0.0,0.0,False
+22776431,2012-06-27T18:45:49+00:00,1840,The Defense,0.0,0.0,47.0,Copenhagen Wolves,53.0,Potm Bottom,0.0,0.0,False
+22782301,2012-06-27T19:37:26+00:00,2514,Star Series Season II Lan Final,0.0,0.0,46.0,Team Empire,36.0,Natus Vincere,0.0,0.0,False
+22927583,2012-06-28T16:22:07+00:00,2648,The Defense,0.0,0.0,49.0,HelloMoto,29.0,Team Quantic,0.0,0.0,False
+22935842,2012-06-28T17:29:42+00:00,1987,The Defense,0.0,0.0,46.0,Team Empire,54.0,Storm Games Clan,0.0,0.0,False
+22946133,2012-06-28T18:43:27+00:00,1781,The Defense,0.0,0.0,31.0,Darer,23.0,Team Infused,0.0,0.0,True
+22959375,2012-06-28T19:46:34+00:00,3640,The Defense,0.0,0.0,21.0,zNation,39.0,Shopify Rebellion,0.0,0.0,False
+23144619,2012-06-29T17:01:37+00:00,1642,The Defense,0.0,0.0,26.0,MOUZ,23.0,Team Infused,0.0,0.0,True
+23152391,2012-06-29T17:22:04+00:00,3141,Star Series Season II Lan Final,0.0,0.0,39.0,Shopify Rebellion,46.0,Team Empire,0.0,0.0,False
+23160256,2012-06-29T18:42:52+00:00,1295,Star Series Season II Lan Final,0.0,0.0,39.0,Shopify Rebellion,12.0,Ahead.kz,0.0,0.0,True
+23167785,2012-06-29T19:07:55+00:00,2307,The Defense,0.0,0.0,46.0,Team Empire,36.0,Natus Vincere,0.0,0.0,False
+23178677,2012-06-29T20:08:39+00:00,3003,The Defense,0.0,0.0,30.0,mTw,38.0,FnaticRaidCall,0.0,0.0,True
+23360488,2012-06-30T17:30:51+00:00,2227,The Defense,0.0,0.0,26.0,MOUZ,31.0,Darer,0.0,0.0,False
+23382424,2012-06-30T19:20:30+00:00,3939,The Defense,0.0,0.0,36.0,Natus Vincere,38.0,FnaticRaidCall,0.0,0.0,True
+23577790,2012-07-01T18:32:51+00:00,1344,The Defense,0.0,0.0,12.0,Ahead.kz,54.0,Storm Games Clan,0.0,0.0,False
+23738567,2012-07-02T15:16:58+00:00,1582,The Defense,0.0,0.0,51.0,We haz Asian,31.0,Darer,0.0,0.0,True
+23754414,2012-07-02T16:37:31+00:00,2310,The Defense,0.0,0.0,54.0,Storm Games Clan,36.0,Natus Vincere,0.0,0.0,False
+23766601,2012-07-02T17:24:57+00:00,3077,The Defense,0.0,0.0,41.0,4 Friends + Chrillee,6.0,Absolute Legends,0.0,0.0,False
+23776512,2012-07-02T19:02:22+00:00,1982,The Defense,0.0,0.0,6.0,Absolute Legends,3.0,compLexity Gaming,0.0,0.0,False
+23785038,2012-07-02T20:10:52+00:00,1157,The Defense,0.0,0.0,22.0,Counter Logic Gaming,55.0,_PowerRangers,0.0,0.0,True
+23798815,2012-07-02T21:17:36+00:00,1981,The Defense,0.0,0.0,53.0,Potm Bottom,29.0,Team Quantic,0.0,0.0,False
+23930691,2012-07-03T15:13:04+00:00,2407,The Defense,0.0,0.0,52.0,uebelst-gamynG,33.0,Moscow Five,0.0,0.0,False
+23945953,2012-07-03T16:33:12+00:00,3662,The Defense,0.0,0.0,12.0,Ahead.kz,46.0,Team Empire,0.0,0.0,False
+23957162,2012-07-03T17:54:15+00:00,2633,The Defense,0.0,0.0,51.0,We haz Asian,21.0,zNation,0.0,0.0,True
+23965147,2012-07-03T18:58:10+00:00,1965,The Defense,0.0,0.0,45.0,Hydra,33.0,Moscow Five,0.0,0.0,False
+23975019,2012-07-03T19:56:17+00:00,2021,The Defense,0.0,0.0,3.0,compLexity Gaming,52.0,uebelst-gamynG,0.0,0.0,True
+23987197,2012-07-03T21:32:00+00:00,1959,The Defense,0.0,0.0,29.0,Team Quantic,55.0,_PowerRangers,0.0,0.0,True
+24106719,2012-07-04T14:29:46+00:00,2742,Star Series Season II Lan Final,0.0,0.0,31.0,Darer,33.0,Moscow Five,0.0,0.0,False
+24138747,2012-07-04T18:13:30+00:00,2137,Star Series Season II Lan Final,0.0,0.0,31.0,Darer,30.0,mTw,0.0,0.0,True
+24147509,2012-07-04T19:16:17+00:00,1752,Star Series Season II Lan Final,0.0,0.0,30.0,mTw,33.0,Moscow Five,0.0,0.0,True
+24147793,2012-07-04T19:08:12+00:00,2023,The Defense,0.0,0.0,31.0,Darer,21.0,zNation,0.0,0.0,True
+24153849,2012-07-04T20:00:49+00:00,1508,Star Series Season II Lan Final,0.0,0.0,33.0,Moscow Five,30.0,mTw,0.0,0.0,True
+24159229,2012-07-04T20:10:44+00:00,3082,The Defense,0.0,0.0,47.0,Copenhagen Wolves,49.0,HelloMoto,0.0,0.0,False
+24165573,2012-07-04T21:21:16+00:00,1840,The Defense,0.0,0.0,55.0,_PowerRangers,47.0,Copenhagen Wolves,0.0,0.0,True
+24301411,2012-07-05T16:29:50+00:00,2586,The Defense,0.0,0.0,38.0,FnaticRaidCall,12.0,Ahead.kz,0.0,0.0,True
+24321518,2012-07-05T18:53:28+00:00,1740,The Defense,0.0,0.0,26.0,MOUZ,51.0,We haz Asian,0.0,0.0,True
+24334636,2012-07-05T20:03:26+00:00,2800,The Defense,0.0,0.0,3.0,compLexity Gaming,41.0,4 Friends + Chrillee,0.0,0.0,True
+24502016,2012-07-06T16:31:07+00:00,2639,The Defense,0.0,0.0,52.0,uebelst-gamynG,45.0,Hydra,0.0,0.0,True
+24535941,2012-07-06T19:49:12+00:00,2698,The Defense,0.0,0.0,,,53.0,Potm Bottom,0.0,0.0,False
+24708479,2012-07-07T17:17:33+00:00,1773,The Defense,0.0,0.0,46.0,Team Empire,38.0,FnaticRaidCall,0.0,0.0,True
+24724647,2012-07-07T18:47:52+00:00,1589,The Defense,0.0,0.0,33.0,Moscow Five,6.0,Absolute Legends,0.0,0.0,True
+24909112,2012-07-08T17:37:35+00:00,1858,The Defense,0.0,0.0,,,26.0,MOUZ,0.0,0.0,False
+24920736,2012-07-08T18:50:32+00:00,2160,The Defense,0.0,0.0,36.0,Natus Vincere,30.0,mTw,0.0,0.0,True
+25069926,2012-07-09T15:20:28+00:00,2406,The Defense,0.0,0.0,30.0,mTw,12.0,Ahead.kz,0.0,0.0,True
+25082887,2012-07-09T16:18:58+00:00,3088,The Defense,0.0,0.0,47.0,Copenhagen Wolves,29.0,Team Quantic,0.0,0.0,False
+25109007,2012-07-09T19:16:53+00:00,2413,The Defense,0.0,0.0,54.0,Storm Games Clan,30.0,mTw,0.0,0.0,False
+25116541,2012-07-09T20:10:43+00:00,1991,The Defense,0.0,0.0,29.0,Team Quantic,22.0,Counter Logic Gaming,0.0,0.0,True
+25275293,2012-07-10T17:57:46+00:00,2160,The Defense,0.0,0.0,55.0,_PowerRangers,53.0,Potm Bottom,0.0,0.0,True
+25449321,2012-07-11T17:04:28+00:00,3069,The Defense,0.0,0.0,39.0,Shopify Rebellion,31.0,Darer,0.0,0.0,False
+25558687,2012-07-12T09:35:26+00:00,2459,Star Series Season II Lan Final,0.0,0.0,26.0,MOUZ,33.0,Moscow Five,0.0,0.0,True
+25558718,2012-07-12T09:45:39+00:00,1862,Star Series Season II Lan Final,0.0,0.0,31.0,Darer,46.0,Team Empire,0.0,0.0,True
+25569589,2012-07-12T11:11:50+00:00,1780,Star Series Season II Lan Final,0.0,0.0,33.0,Moscow Five,46.0,Team Empire,0.0,0.0,False
+25577208,2012-07-12T11:49:14+00:00,2684,Star Series Season II Lan Final,0.0,0.0,36.0,Natus Vincere,26.0,MOUZ,0.0,0.0,True
+25590280,2012-07-12T13:35:36+00:00,1916,Star Series Season II Lan Final,0.0,0.0,26.0,MOUZ,31.0,Darer,0.0,0.0,False
+25592495,2012-07-12T13:56:56+00:00,1594,Star Series Season II Lan Final,0.0,0.0,,,36.0,Natus Vincere,0.0,0.0,False
+25609554,2012-07-12T15:30:41+00:00,2330,Star Series Season II Lan Final,0.0,0.0,26.0,MOUZ,46.0,Team Empire,0.0,0.0,False
+25609735,2012-07-12T15:24:36+00:00,1943,Star Series Season II Lan Final,0.0,0.0,36.0,Natus Vincere,31.0,Darer,0.0,0.0,False
+25626184,2012-07-12T17:09:27+00:00,2439,Star Series Season II Lan Final,0.0,0.0,31.0,Darer,,,0.0,0.0,True
+25626380,2012-07-12T17:21:57+00:00,1502,Star Series Season II Lan Final,0.0,0.0,36.0,Natus Vincere,46.0,Team Empire,0.0,0.0,True
+25779084,2012-07-13T12:00:25+00:00,3929,Star Series Season II Lan Final,0.0,0.0,36.0,Natus Vincere,26.0,MOUZ,0.0,0.0,False
+25789128,2012-07-13T13:28:40+00:00,2256,Star Series Season II Lan Final,0.0,0.0,26.0,MOUZ,36.0,Natus Vincere,0.0,0.0,False
+25796951,2012-07-13T14:26:30+00:00,1437,Star Series Season II Lan Final,0.0,0.0,36.0,Natus Vincere,26.0,MOUZ,0.0,0.0,True
+25816055,2012-07-13T15:56:54+00:00,1867,Star Series Season II Lan Final,0.0,0.0,31.0,Darer,33.0,Moscow Five,0.0,0.0,True
+25826824,2012-07-13T16:56:41+00:00,1840,Star Series Season II Lan Final,0.0,0.0,33.0,Moscow Five,31.0,Darer,0.0,0.0,True
+25838936,2012-07-13T17:53:08+00:00,2513,Star Series Season II Lan Final,0.0,0.0,31.0,Darer,33.0,Moscow Five,0.0,0.0,False
+25857414,2012-07-13T19:45:34+00:00,2163,Star Series Season II Lan Final,0.0,0.0,33.0,Moscow Five,36.0,Natus Vincere,0.0,0.0,False
+25863645,2012-07-13T20:49:49+00:00,1368,Star Series Season II Lan Final,0.0,0.0,36.0,Natus Vincere,33.0,Moscow Five,0.0,0.0,True
+25970652,2012-07-14T10:47:07+00:00,1921,Star Series Season II Lan Final,0.0,0.0,31.0,Darer,26.0,MOUZ,0.0,0.0,True
+25984610,2012-07-14T11:39:56+00:00,3427,Star Series Season II Lan Final,0.0,0.0,26.0,MOUZ,31.0,Darer,0.0,0.0,True
+26001844,2012-07-14T13:16:27+00:00,4585,Star Series Season II Lan Final,0.0,0.0,26.0,MOUZ,31.0,Darer,0.0,0.0,True
+26066512,2012-07-14T19:46:01+00:00,2079,Star Series Season II Lan Final,0.0,0.0,33.0,Moscow Five,26.0,MOUZ,0.0,0.0,True
+26083621,2012-07-14T20:55:17+00:00,3477,Star Series Season II Lan Final,0.0,0.0,26.0,MOUZ,33.0,Moscow Five,0.0,0.0,True
+26095709,2012-07-14T22:42:30+00:00,3193,Star Series Season II Lan Final,0.0,0.0,33.0,Moscow Five,26.0,MOUZ,0.0,0.0,False
+26275622,2012-07-15T18:46:04+00:00,2397,Star Series Season II Lan Final,0.0,0.0,36.0,Natus Vincere,26.0,MOUZ,0.0,0.0,True
+26285062,2012-07-15T19:53:18+00:00,1856,Star Series Season II Lan Final,0.0,0.0,26.0,MOUZ,36.0,Natus Vincere,0.0,0.0,False
+26420347,2012-07-16T13:35:50+00:00,2680,BeyondTheSummit World Tour,0.0,0.0,2.0,Zenith,42.0,Orange E-Sports,0.0,0.0,True
+26429009,2012-07-16T14:40:57+00:00,1059,BeyondTheSummit World Tour,0.0,0.0,42.0,Orange E-Sports,2.0,Zenith,0.0,0.0,True
+26438379,2012-07-16T15:20:30+00:00,2045,BeyondTheSummit World Tour,0.0,0.0,2.0,Zenith,42.0,Orange E-Sports,0.0,0.0,True
+26446367,2012-07-16T16:20:18+00:00,1350,BeyondTheSummit World Tour,0.0,0.0,3.0,compLexity Gaming,,,0.0,0.0,True
+26457004,2012-07-16T16:59:34+00:00,2554,BeyondTheSummit World Tour,0.0,0.0,,,3.0,compLexity Gaming,0.0,0.0,False
+26477412,2012-07-16T19:18:00+00:00,1691,The Defense,0.0,0.0,55.0,_PowerRangers,54.0,Storm Games Clan,0.0,0.0,False
+26485356,2012-07-16T19:59:56+00:00,1626,The Defense,0.0,0.0,54.0,Storm Games Clan,55.0,_PowerRangers,0.0,0.0,True
+26649858,2012-07-17T16:16:36+00:00,1812,BeyondTheSummit World Tour,0.0,0.0,31.0,Darer,39.0,Shopify Rebellion,0.0,0.0,False
+26658780,2012-07-17T17:29:48+00:00,1718,BeyondTheSummit World Tour,0.0,0.0,39.0,Shopify Rebellion,31.0,Darer,0.0,0.0,True
+26668994,2012-07-17T18:05:13+00:00,2218,The Defense,0.0,0.0,31.0,Darer,3.0,compLexity Gaming,0.0,0.0,True
+26678906,2012-07-17T19:17:39+00:00,1176,The Defense,0.0,0.0,3.0,compLexity Gaming,31.0,Darer,0.0,0.0,True
+26688398,2012-07-17T19:48:52+00:00,2178,The Defense,0.0,0.0,31.0,Darer,3.0,compLexity Gaming,0.0,0.0,False
+26819809,2012-07-18T13:35:51+00:00,1667,BeyondTheSummit World Tour,0.0,0.0,20.0,Newbee.mgb,15.0,LGD Gaming,0.0,0.0,False
+26829838,2012-07-18T14:29:45+00:00,1992,BeyondTheSummit World Tour,0.0,0.0,15.0,LGD Gaming,20.0,Newbee.mgb,0.0,0.0,False
+26850613,2012-07-18T16:38:27+00:00,2197,BeyondTheSummit World Tour,0.0,0.0,4.0,EHOME,3.0,compLexity Gaming,0.0,0.0,True
+26863746,2012-07-18T18:04:49+00:00,2646,BeyondTheSummit World Tour,0.0,0.0,3.0,compLexity Gaming,4.0,EHOME,0.0,0.0,True
+26878617,2012-07-18T19:17:39+00:00,2876,BeyondTheSummit World Tour,0.0,0.0,3.0,compLexity Gaming,4.0,EHOME,0.0,0.0,False
+27012271,2012-07-19T13:07:51+00:00,2502,BeyondTheSummit World Tour,0.0,0.0,66.0,eClub[MUFC],7.0,DK,0.0,0.0,True
+27024136,2012-07-19T14:10:06+00:00,2656,BeyondTheSummit World Tour,0.0,0.0,7.0,DK,66.0,eClub[MUFC],0.0,0.0,True
+27038733,2012-07-19T15:35:40+00:00,3014,BeyondTheSummit World Tour,0.0,0.0,66.0,eClub[MUFC],7.0,DK,0.0,0.0,False
+27042254,2012-07-19T16:23:17+00:00,1401,The Defense,0.0,0.0,39.0,Shopify Rebellion,6.0,Absolute Legends,0.0,0.0,True
+27048665,2012-07-19T16:50:44+00:00,1854,BeyondTheSummit World Tour,0.0,0.0,26.0,MOUZ,5.0,Invictus Gaming,0.0,0.0,True
+27051421,2012-07-19T17:05:21+00:00,1665,The Defense,0.0,0.0,6.0,Absolute Legends,39.0,Shopify Rebellion,0.0,0.0,False
+27062833,2012-07-19T17:44:14+00:00,3329,BeyondTheSummit World Tour,0.0,0.0,5.0,Invictus Gaming,26.0,MOUZ,0.0,0.0,True
+27072889,2012-07-19T19:06:20+00:00,1714,BeyondTheSummit World Tour,0.0,0.0,5.0,Invictus Gaming,26.0,MOUZ,0.0,0.0,True
+27231493,2012-07-20T13:45:26+00:00,3180,SEA League,0.0,0.0,,,66.0,eClub[MUFC],0.0,0.0,False
+27254316,2012-07-20T16:12:51+00:00,2378,SEA League,0.0,0.0,,,66.0,eClub[MUFC],0.0,0.0,False
+27266583,2012-07-20T17:28:52+00:00,1859,BeyondTheSummit World Tour,0.0,0.0,26.0,MOUZ,7.0,DK,0.0,0.0,True
+27269702,2012-07-20T17:27:15+00:00,2619,The Defense,0.0,0.0,53.0,Potm Bottom,46.0,Team Empire,0.0,0.0,False
+27279148,2012-07-20T18:38:18+00:00,2187,The Defense,0.0,0.0,46.0,Team Empire,53.0,Potm Bottom,0.0,0.0,False
+27284067,2012-07-20T19:48:13+00:00,1920,SEA League,0.0,0.0,,,7.0,DK,0.0,0.0,True
+27285322,2012-07-20T19:35:14+00:00,1980,The Defense,0.0,0.0,46.0,Team Empire,53.0,Potm Bottom,0.0,0.0,False
+27454834,2012-07-21T16:18:44+00:00,1474,BeyondTheSummit World Tour,0.0,0.0,6.0,Absolute Legends,4.0,EHOME,0.0,0.0,True
+27464495,2012-07-21T17:10:03+00:00,2165,BeyondTheSummit World Tour,0.0,0.0,4.0,EHOME,,,0.0,0.0,True
+27485299,2012-07-21T18:34:54+00:00,3831,The Defense,0.0,0.0,30.0,mTw,22.0,Counter Logic Gaming,0.0,0.0,False
+27494053,2012-07-21T19:59:38+00:00,1924,The Defense,0.0,0.0,22.0,Counter Logic Gaming,30.0,mTw,0.0,0.0,True
+27504408,2012-07-21T20:27:09+00:00,3815,The Defense,0.0,0.0,29.0,Team Quantic,36.0,Natus Vincere,0.0,0.0,True
+27512428,2012-07-21T21:45:57+00:00,1775,The Defense,0.0,0.0,36.0,Natus Vincere,29.0,Team Quantic,0.0,0.0,False
+27632664,2012-07-22T12:57:18+00:00,1477,BeyondTheSummit World Tour,0.0,0.0,,,2.0,Zenith,0.0,0.0,False
+27643111,2012-07-22T13:38:49+00:00,2414,BeyondTheSummit World Tour,0.0,0.0,2.0,Zenith,,,0.0,0.0,True
+27680708,2012-07-22T16:52:21+00:00,2496,BeyondTheSummit World Tour,0.0,0.0,33.0,Moscow Five,6.0,Absolute Legends,0.0,0.0,False
+27696323,2012-07-22T18:18:51+00:00,2704,BeyondTheSummit World Tour,0.0,0.0,6.0,Absolute Legends,33.0,Moscow Five,0.0,0.0,True
+27705471,2012-07-22T18:55:29+00:00,4213,The Defense,0.0,0.0,57.0,uebelst gamynG,51.0,We haz Asian,0.0,0.0,True
+27710579,2012-07-22T20:13:20+00:00,1415,The Defense,0.0,0.0,26.0,MOUZ,33.0,Moscow Five,0.0,0.0,True
+27712882,2012-07-22T20:30:17+00:00,1141,The Defense,0.0,0.0,51.0,We haz Asian,57.0,uebelst gamynG,0.0,0.0,True
+27719514,2012-07-22T20:48:19+00:00,2463,The Defense,0.0,0.0,33.0,Moscow Five,26.0,MOUZ,0.0,0.0,False
+27724364,2012-07-22T21:05:12+00:00,3222,The Defense,0.0,0.0,51.0,We haz Asian,57.0,uebelst gamynG,0.0,0.0,True
+27879229,2012-07-23T17:36:50+00:00,397,BeyondTheSummit World Tour,0.0,0.0,4.0,EHOME,33.0,Moscow Five,0.0,0.0,True
+27903525,2012-07-23T19:10:48+00:00,2959,BeyondTheSummit World Tour,0.0,0.0,33.0,Moscow Five,3.0,compLexity Gaming,0.0,0.0,False
+28041593,2012-07-24T13:25:22+00:00,2545,BeyondTheSummit World Tour,0.0,0.0,42.0,Orange E-Sports,,,0.0,0.0,True
+28049492,2012-07-24T14:26:26+00:00,1087,BeyondTheSummit World Tour,0.0,0.0,,,42.0,Orange E-Sports,0.0,0.0,False
+28073391,2012-07-24T16:17:14+00:00,2241,BeyondTheSummit World Tour,0.0,0.0,31.0,Darer,15.0,LGD Gaming,0.0,0.0,False
+28086279,2012-07-24T17:22:49+00:00,3210,BeyondTheSummit World Tour,0.0,0.0,15.0,LGD Gaming,31.0,Darer,0.0,0.0,False
+28097019,2012-07-24T18:46:32+00:00,2119,BeyondTheSummit World Tour,0.0,0.0,15.0,LGD Gaming,31.0,Darer,0.0,0.0,True
+28233202,2012-07-25T13:02:28+00:00,2303,BeyondTheSummit World Tour,0.0,0.0,5.0,Invictus Gaming,7.0,DK,0.0,0.0,False
+28255572,2012-07-25T15:15:22+00:00,2121,BeyondTheSummit World Tour,0.0,0.0,7.0,DK,5.0,Invictus Gaming,0.0,0.0,False
+28267238,2012-07-25T16:16:54+00:00,2836,BeyondTheSummit World Tour,0.0,0.0,5.0,Invictus Gaming,7.0,DK,0.0,0.0,False
+28279791,2012-07-25T17:29:17+00:00,2225,BeyondTheSummit World Tour,0.0,0.0,5.0,Invictus Gaming,66.0,eClub[MUFC],0.0,0.0,True
+28288210,2012-07-25T18:29:57+00:00,1737,BeyondTheSummit World Tour,0.0,0.0,66.0,eClub[MUFC],5.0,Invictus Gaming,0.0,0.0,False
+28292992,2012-07-25T19:05:49+00:00,975,The Defense,0.0,0.0,53.0,Potm Bottom,31.0,Darer,0.0,0.0,True
+28301101,2012-07-25T19:58:07+00:00,1506,The Defense,0.0,0.0,31.0,Darer,53.0,Potm Bottom,0.0,0.0,False
+28471761,2012-07-26T16:30:06+00:00,3190,The Defense,0.0,0.0,51.0,We haz Asian,36.0,Natus Vincere,0.0,0.0,False
+28485164,2012-07-26T18:19:17+00:00,2000,The Defense,0.0,0.0,36.0,Natus Vincere,51.0,We haz Asian,0.0,0.0,True
+28705062,2012-07-27T16:24:02+00:00,1400,The Defense,0.0,0.0,39.0,Shopify Rebellion,30.0,mTw,0.0,0.0,True
+28718127,2012-07-27T17:02:11+00:00,2668,The Defense,0.0,0.0,30.0,mTw,39.0,Shopify Rebellion,0.0,0.0,False
+28962447,2012-07-28T17:54:03+00:00,2154,The Defense,0.0,0.0,54.0,Storm Games Clan,33.0,Moscow Five,0.0,0.0,True
+29203110,2012-07-29T18:05:05+00:00,2367,The Defense,0.0,0.0,3.0,compLexity Gaming,29.0,Team Quantic,0.0,0.0,True
+29214616,2012-07-29T19:14:43+00:00,2680,The Defense,0.0,0.0,29.0,Team Quantic,3.0,compLexity Gaming,0.0,0.0,True
+29223327,2012-07-29T20:20:53+00:00,1465,The Defense,0.0,0.0,29.0,Team Quantic,3.0,compLexity Gaming,0.0,0.0,False
+29364063,2012-07-30T13:30:17+00:00,2109,BeyondTheSummit World Tour,0.0,0.0,39.0,Shopify Rebellion,20.0,Newbee.mgb,0.0,0.0,True
+29375839,2012-07-30T14:34:45+00:00,2271,BeyondTheSummit World Tour,0.0,0.0,20.0,Newbee.mgb,39.0,Shopify Rebellion,0.0,0.0,False
+29378911,2012-07-30T14:46:14+00:00,2623,Prodota 2 Worldwide League,0.0,0.0,,,67.0,paiN Gaming,0.0,0.0,False
+29393541,2012-07-30T16:08:31+00:00,2115,BeyondTheSummit World Tour,0.0,0.0,39.0,Shopify Rebellion,15.0,LGD Gaming,0.0,0.0,True
+29396603,2012-07-30T15:52:37+00:00,3032,Prodota 2 Worldwide League,0.0,0.0,,,,,0.0,0.0,False
+29405010,2012-07-30T17:03:55+00:00,2142,BeyondTheSummit World Tour,0.0,0.0,15.0,LGD Gaming,39.0,Shopify Rebellion,0.0,0.0,False
+29413678,2012-07-30T18:06:34+00:00,1842,BeyondTheSummit World Tour,0.0,0.0,15.0,LGD Gaming,39.0,Shopify Rebellion,0.0,0.0,False
+29425295,2012-07-30T18:30:55+00:00,4045,Prodota 2 Worldwide League,0.0,0.0,30.0,mTw,12.0,Ahead.kz,0.0,0.0,True
+29437253,2012-07-30T20:08:43+00:00,2262,Prodota 2 Worldwide League,0.0,0.0,12.0,Ahead.kz,30.0,mTw,0.0,0.0,False
+29572426,2012-07-31T13:20:14+00:00,1771,BeyondTheSummit World Tour,0.0,0.0,42.0,Orange E-Sports,22.0,Counter Logic Gaming,0.0,0.0,True
+29583255,2012-07-31T14:07:02+00:00,2433,BeyondTheSummit World Tour,0.0,0.0,22.0,Counter Logic Gaming,42.0,Orange E-Sports,0.0,0.0,True
+29595289,2012-07-31T15:09:31+00:00,2304,BeyondTheSummit World Tour,0.0,0.0,42.0,Orange E-Sports,22.0,Counter Logic Gaming,0.0,0.0,False
+29600224,2012-07-31T15:17:14+00:00,2518,Prodota 2 Worldwide League,0.0,0.0,54.0,Storm Games Clan,67.0,paiN Gaming,0.0,0.0,False
+29605564,2012-07-31T16:23:41+00:00,1170,BeyondTheSummit World Tour,0.0,0.0,,,22.0,Counter Logic Gaming,0.0,0.0,False
+29614273,2012-07-31T16:56:50+00:00,1735,BeyondTheSummit World Tour,0.0,0.0,22.0,Counter Logic Gaming,,,0.0,0.0,True
+29620611,2012-07-31T16:51:30+00:00,3492,Prodota 2 Worldwide League,0.0,0.0,12.0,Ahead.kz,67.0,paiN Gaming,0.0,0.0,False
 29631504,2012-07-31T18:24:55+00:00,2262,Prodota 2 Worldwide League,0.0,0.0,67.0,paiN Gaming,30.0,mTw,0.0,0.0,False
 29644356,2012-07-31T20:00:46+00:00,1779,Prodota 2 Worldwide League,0.0,0.0,30.0,mTw,67.0,paiN Gaming,0.0,0.0,True
 29654538,2012-07-31T20:49:27+00:00,2542,Prodota 2 Worldwide League,0.0,0.0,67.0,paiN Gaming,30.0,mTw,0.0,0.0,False
