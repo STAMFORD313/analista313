@@ -1,42 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 05/11/2026 02:11 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Grellz vs Simaponika — 05/11 · 02:15
-
-👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana Grellz** @ **1.41** (Unibet) · prob 70% vs casas 61% · ventaja -1%
-
-- ❌ Valor: ventaja -1% (mín. 8% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 56.436 partidos)  
-Goles esperados: Grellz 4.05 · Simaponika 2.44  
-Ganador: Grellz 70% · empate 14% · Simaponika 15%  
-Total: más de 6.5 goles 47% · menos 53%  
-Hándicap Grellz: −1.5 51% · −2.5 35%  
-🔎 **Claves**  
-• Forma: Grellz ✅✅✅✅➖ | Simaponika ❌❌❌✅✅  
-• Partidos: Grellz 999 | Simaponika 1040  
-• Liga: Champions League B  
-• Unibet: 1 1.41 · X 5.30 · 2 3.90 (sin margen 61%/16%/22%) · ventaja -1%. Sin stake hasta demostrar ROI con estas cuotas.  
-
-## tizzy vs Kavviro — 05/11 · 02:15
-
-👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana tizzy** @ **2.25** (Unibet) · prob 39% vs casas 39% · ventaja -13%
-
-- ❌ Valor: ventaja -13% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 56.436 partidos)  
-Goles esperados: tizzy 2.90 · Kavviro 2.98  
-Ganador: tizzy 39% · empate 20% · Kavviro 42%  
-Total: más de 5.5 goles 53% · menos 47%  
-Hándicap Kavviro: −1.5 27% · −2.5 15%  
-🔎 **Claves**  
-• Forma: tizzy ✅✅✅❌✅ | Kavviro ❌❌✅❌➖  
-• Partidos: tizzy 337 | Kavviro 745  
-• Liga: Champions League B  
-• Unibet: 1 2.25 · X 4.40 · 2 2.10 (sin margen 39%/20%/41%) · ventaja -13%. Sin stake hasta demostrar ROI con estas cuotas.  
+Actualizado 05/11/2026 02:16 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Kavviro vs kkikus — 05/11 · 02:27
 
@@ -73,6 +37,60 @@ Hándicap tizzy: −1.5 52% · −2.5 37%
 • Partidos: Simaponika 1040 | tizzy 337  
 • Liga: Champions League B  
 • Unibet: 1 4.20 · X 5.60 · 2 1.36 (sin margen 21%/16%/64%) · ventaja -2%. Sin stake hasta demostrar ROI con estas cuotas.  
+
+## tizzy vs Grellz — 05/11 · 02:39
+
+👀 candidata · 🎮⚽ FC 27 · Champions League B · **Empate** @ **5.40** (Unibet) · prob 18% vs casas 16% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 56.436 partidos)  
+Goles esperados: tizzy 3.51 · Grellz 3.42  
+Ganador: tizzy 43% · empate 18% · Grellz 39%  
+Total: más de 6.5 goles 54% · menos 46%  
+Hándicap tizzy: −1.5 29% · −2.5 18%  
+🔎 **Claves**  
+• Forma: tizzy ✅✅✅❌✅ | Grellz ✅✅✅✅➖  
+• Partidos: tizzy 337 | Grellz 999  
+• Liga: Champions League B  
+• Unibet: 1 1.95 · X 5.40 · 2 2.25 (sin margen 45%/16%/39%) · ventaja -4%. Sin stake hasta demostrar ROI con estas cuotas.  
+
+## Inquisitor vs OG — 05/11 · 02:40
+
+👀 candidata · 🎮⚽ FC 27 · Champions League A · **Gana Inquisitor** @ **1.75** (Unibet) · prob 62% vs casas 50% · ventaja +8%
+
+- ❌ Valor: ventaja +8% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 56.436 partidos)  
+Goles esperados: Inquisitor 3.13 · OG 2.09  
+Ganador: Inquisitor 62% · empate 18% · OG 20%  
+Total: más de 5.5 goles 42% · menos 58%  
+Hándicap Inquisitor: −1.5 41% · −2.5 25%  
+🔎 **Claves**  
+• Forma: Inquisitor ✅✅✅✅❌ | OG ❌❌❌❌➖  
+• Partidos: Inquisitor 528 | OG 528  
+• Liga: Champions League A  
+• Unibet: 1 1.75 · X 4.00 · 2 3.10 (sin margen 50%/22%/28%) · ventaja +8%. Sin stake hasta demostrar ROI con estas cuotas.  
+
+## RossFCDK vs Kray — 05/11 · 02:40
+
+👀 candidata · 🎮⚽ FC 27 · Champions League A · **Gana Kray** @ **1.60** (Unibet) · prob 67% vs casas 55% · ventaja +7%
+
+- ❌ Valor: ventaja +7% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 56.436 partidos)  
+Goles esperados: RossFCDK 2.39 · Kray 3.74  
+Ganador: RossFCDK 18% · empate 16% · Kray 67%  
+Total: más de 6.5 goles 41% · menos 59%  
+Hándicap Kray: −1.5 47% · −2.5 31%  
+🔎 **Claves**  
+• Forma: RossFCDK ✅❌✅❌➖ | Kray ❌✅✅➖✅  
+• Partidos: RossFCDK 491 | Kray 527  
+• Liga: Champions League A  
+• Unibet: 1 3.30 · X 4.75 · 2 1.60 (sin margen 27%/18%/55%) · ventaja +7%. Sin stake hasta demostrar ROI con estas cuotas.  
 
 ## Senya vs Sheva — 05/11 · 02:49
 
