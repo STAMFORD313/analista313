@@ -1,6 +1,15 @@
 {
- "fecha": "2026-11-05 21:08",
- "n": 728,
+ "fecha": "2026-11-05 21:41",
+ "n": 731,
  "rentables": [],
- "bloqueados": []
+ "bloqueados": [
+  {
+   "segmento": "mercado=1X2 · cuota=>2.5 · ventaja=>15%",
+   "n": 65,
+   "roi": -0.3685,
+   "se": 0.1814,
+   "roi_antigua": -0.2091,
+   "roi_nueva": -0.45
+  }
+ ]
 }
