@@ -1454,3 +1454,13 @@ finally:
     _SL.find_game, _SL.live_game = _fg0, _lg0
     _SL.FILE.unlink(missing_ok=True); _SL.FILE = _f0; _SL._MEM.clear(); _SL._MEM.update(_mem0)
 print("ok combinada perdida en cuanto falla una pierna")
+
+import pinnacle as _PN
+_cp0 = _PN.close_p
+try:
+    _PN.close_p = lambda sg: 0.5 if sg["market"] == "H" and sg["match"] == "FC Porto vs Napoli" else None
+    assert _SL.leg_clv({"home": "FC Porto", "away": "Napoli", "start": "2026-11-04T20:00Z", "txt": "Gana FC Porto", "odds": 2.2}) == 0.1
+    assert _SL.leg_clv({"home": "FC Porto", "away": "Napoli", "start": "2026-11-04T20:00Z", "txt": "Más de 2.5 goles", "odds": 2.2}) is None
+    assert _SL.leg_clv({"src": "espn:nba", "home": "A", "away": "B", "start": "x", "txt": "Gana A", "odds": 2.0}) is None
+finally: _PN.close_p = _cp0
+print("ok CLV de piernas simuladas")

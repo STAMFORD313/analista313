@@ -140,6 +140,19 @@ def final_game(leg, b, now, boards):
     return g if g and g["estado"] == "post" else None
 
 
+def leg_clv(leg):
+    """CLV de una pierna de ganador de fútbol («Gana X» / «Empate» con cuota): cuota × prob. de cierre de Pinnacle sin
+    margen − 1. Positivo de media = el bot coge mejores precios que el mercado al cierre (lo que hacen los profesionales)."""
+    if leg.get("src") or not leg.get("odds") or not leg.get("start"): return None
+    t = leg["txt"]
+    side = "D" if t == "Empate" else "H" if t == f"Gana {leg['home']}" else "A" if t == f"Gana {leg['away']}" else None
+    if not side: return None
+    import pinnacle
+    try: p = pinnacle.close_p({"key": "vp|x", "match": f"{leg['home']} vs {leg['away']}", "start": leg["start"], "market": side})
+    except Exception as e: print("CLV pierna", repr(e)[:80]); return None
+    return round(leg["odds"] * p - 1, 3) if p else None
+
+
 def settle(now=None):
     """Liquida las simuladas pendientes; devuelve los mensajes (HTML) de las que acaban de terminar."""
     bets, now, out, changed, boards, sent = load(), now or pd.Timestamp.now(tz="UTC"), [], False, {}, set()
@@ -156,7 +169,9 @@ def settle(now=None):
             g = find_game({**leg, "creada": b["creada"]}) or final_game(leg, b, now, boards)
             if g:
                 ok, why = judge(leg, g)
-                if ok is not None: leg["ok"], leg["por"] = ok, why; changed = True
+                if ok is not None:
+                    leg["ok"], leg["por"] = ok, why; changed = True
+                    if (c := leg_clv(leg)) is not None: leg["clv"] = c
             elif now - pd.Timestamp(leg.get("start") or b["creada"]) > GIVE_UP:
                 leg["ok"], leg["por"] = "nula", "sin datos del partido"; changed = True
         if all(l.get("ok") is not None for l in b["legs"]) or any(l.get("ok") is False for l in b["legs"]):  # una fallada: ya perdida
@@ -323,6 +338,8 @@ def summary():
         stake = sum(b["stake"] for b in allb); ret = sum(b["stake"] * (b["odds"] or 0) for b in allb if b["estado"] == "ganada")
         lines.append(f"🎯 El bot esperaba acertar {exp:.2f} de {len(allb)} y ha acertado {real} · ROI {ret / stake - 1:+.0%}"
                      + (" (aún pocas para sacar conclusiones)" if len(allb) < 30 else ""))
+    clv = [l["clv"] for b in load().values() for l in b["legs"] if l.get("clv") is not None]
+    if clv: lines.append(f"📈 CLV de las piernas de ganador: {sum(clv) / len(clv):+.1%} de media en {len(clv)} (positivo = mejor precio que el cierre de Pinnacle)")
     for b in bets:
         n_ok = sum(l.get("ok") is True for l in b["legs"])
         icon = {"ganada": "✅", "perdida": "❌", "nula": "➖"}.get(b["estado"], "⏳")
