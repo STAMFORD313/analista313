@@ -497,5 +497,49 @@
   "estado": "pendiente",
   "avisada": false,
   "rev": 1
+ },
+ {
+  "id": "20261105111952661776",
+  "creada": "2026-11-05 11:19:52.661819+00:00",
+  "titulo": "Barrido · Combinada cuota 11.0",
+  "legs": [
+   {
+    "code": null,
+    "start": "2026-11-05 13:45:00+00:00",
+    "home": "Diyala",
+    "away": "Al Minaa",
+    "txt": "Empate",
+    "odds": 2.55,
+    "p": 0.4191
+   },
+   {
+    "src": "esports:cs2",
+    "side": "A",
+    "code": null,
+    "start": "2026-11-05 19:30:00+00:00",
+    "home": "eSuba",
+    "away": "BRUTE SQ",
+    "txt": "Gana BRUTE SQ",
+    "odds": 2.1,
+    "p": 0.5250603174603174
+   },
+   {
+    "src": "esports:cs2",
+    "side": "A",
+    "code": null,
+    "start": "2026-11-06 19:30:00+00:00",
+    "home": "Dynamo Eclot Phoenix",
+    "away": "B.LINE",
+    "txt": "Gana B.LINE",
+    "odds": 2.05,
+    "p": 0.5430032520325203
+   }
+  ],
+  "odds": 10.98,
+  "p": 0.1194893746416508,
+  "stake": 1.0,
+  "estado": "pendiente",
+  "avisada": false,
+  "rev": 1
  }
 ]
