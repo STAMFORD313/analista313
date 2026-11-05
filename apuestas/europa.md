@@ -1,6 +1,6 @@
 # 🏆 Champions·Europa · apuestas de valor
 
-Actualizado 05/11/2026 19:33 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 05/11/2026 20:04 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## AZ Alkmaar vs Juventus — 05/11 · 21:00
 
