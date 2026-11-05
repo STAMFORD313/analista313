@@ -20,6 +20,7 @@ TITLE = f"{ICON} {NAME}"
 _P = json.loads((DIR / "params.json").read_text()) if (DIR / "params.json").exists() else {}  # lo ajusta train_fc.py
 LR = _P.get("lr", 0.03)        # paso del ataque/defensa de cada jugador por partido
 LR_LEAGUE = _P.get("lr_league", 0.01)
+DRAW_LIGA = _P.get("draw_liga") or {}  # factor del empate por liga (train_fc_calib.py: CSL/Volta menos, World Cup B más)
 CALIB = _P.get("calib")          # [a, b] de train_fc_calib.py: p_i ∝ p_i^a · e^(b·empate); None = sin recalibrar
 H2H = _P.get("h2h", 0.0)         # train_fc_calib.py: peso del cara a cara (balance encogido) sobre local/visitante
 SHRINK = _P.get("shrink", 0.0)  # encogimiento de las fuerzas hacia 0 por partido (olvido)
@@ -77,6 +78,13 @@ def calibrate(p, calib=None):
     if not c: return p
     w = {k: math.exp(c[0] * math.log(max(v, 1e-9)) + (c[1] if k == "X" else 0)) for k, v in p.items()}
     t = sum(w.values()); return {k: v / t for k, v in w.items()}
+
+
+def draw_league(p, league, table=None):
+    """Empate × factor de su liga (aprendido fuera de muestra) y renormaliza; sin factor, igual."""
+    f = (DRAW_LIGA if table is None else table).get(league)
+    if not f: return p
+    w = {**p, "X": p["X"] * f}; t = sum(w.values()); return {k: v / t for k, v in w.items()}
 
 
 def h2h_table(df):
@@ -305,7 +313,7 @@ def run(state, today, kg):
                 if not (now < start < now + pd.Timedelta(hours=2)) or key in state["analyzed"]: continue
                 l1, l2 = m.lam(g["league"], g["p1"], g["p2"]), m.lam(g["league"], g["p2"], g["p1"])
                 p, tot, diff = markets(l1, l2)
-                p = h2h_adjust(calibrate(p), h2h_value(H, g["p1"], g["p2"]))
+                p = h2h_adjust(draw_league(calibrate(p), g["league"]), h2h_value(H, g["p1"], g["p2"]))
                 cands.append((max(p.values()), g, start, key, l1, l2, p, tot, diff))
             time.sleep(0.3)
     except (requests.RequestException, ValueError) as e:

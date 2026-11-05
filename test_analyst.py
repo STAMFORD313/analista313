@@ -1504,3 +1504,8 @@ try:
     assert "FC 27 · ganadas y perdidas" in _t and "+1.00 €" in _t and "03/11" in _t and "<pre>" in _t, _t
 finally: _ESO.simulation = _sim0; _CH._CTX.clear(); _CH.LAST_FILE.unlink(missing_ok=True)
 print("ok tabla de FC 27")
+
+_pd0 = {"1": 0.4, "X": 0.2, "2": 0.4}
+_pd1 = esoccer.draw_league(_pd0, "CSL", {"CSL": 0.75}); assert _pd1["X"] < 0.2 and abs(sum(_pd1.values()) - 1) < 1e-9
+assert esoccer.draw_league(_pd0, "Otra", {"CSL": 0.75}) == _pd0
+print("ok empate por liga FC 27")

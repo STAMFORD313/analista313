@@ -24,11 +24,11 @@ def predictions(df, since):
     for r in df.itertuples():
         if r.date >= since:
             p, _, _ = E.markets(m.lam(r.league, r.p1, r.p2), m.lam(r.league, r.p2, r.p1))
-            rows.append((r.date, p["1"], p["X"], p["2"], 0 if r.s1 > r.s2 else 1 if r.s1 == r.s2 else 2, E.h2h_value(H, r.p1, r.p2)))
+            rows.append((r.date, p["1"], p["X"], p["2"], 0 if r.s1 > r.s2 else 1 if r.s1 == r.s2 else 2, E.h2h_value(H, r.p1, r.p2), r.league))
         m.update(r.league, r.p1, r.p2, r.s1, r.s2)
         k = tuple(sorted((r.p1, r.p2))); s = H.setdefault(k, [0, 0])  # cara a cara, solo con partidos anteriores
         s[0] += (1 if r.s1 > r.s2 else -1 if r.s2 > r.s1 else 0) * (1 if k[0] == r.p1 else -1); s[1] += 1
-    d = pd.DataFrame(rows, columns=["date", "p1", "pX", "p2", "y", "h2h"])
+    d = pd.DataFrame(rows, columns=["date", "p1", "pX", "p2", "y", "h2h", "league"])
     return d
 
 
@@ -54,8 +54,23 @@ def main():
     P_["calib_test"] = {"ll": round(float(l0.mean()), 4), "ll_cal": round(float(l1.mean()), 4), "se": round(se, 4), "n": int(te.sum())}
     if l1.mean() < l0.mean() - 2 * se: P_["calib"] = [round(float(x), 4) for x in w]; print("  guardado calib")
     else: P_.pop("calib", None)
+    # empate por liga (sobre el 1X2 recalibrado que se use): factor real/previsto en el ajuste, encogido con K partidos
+    B = Q if "calib" in P_ else P
+    K = 100; st = pd.DataFrame({"liga": d.league[fi], "pX": B[fi][:, 1], "X": (y[fi] == 1)}).groupby("liga").agg(n=("X", "size"), pred=("pX", "mean"), real=("X", "mean"))
+    st["f"] = ((st.real * st.n + st.pred * K) / (st.n + K)) / st.pred
+    fl = d.league.map(st.f).fillna(1.0).to_numpy()
+    D = B.copy(); D[:, 1] *= fl; D /= D.sum(1, keepdims=True)
+    ld0, ld1 = nll(B, te), nll(D, te); sed = float((ld1 - ld0).std() / math.sqrt(te.sum()))
+    print(f"  empate por liga: log-loss {ld0.mean():.4f} → {ld1.mean():.4f} ({ld1.mean() - ld0.mean():+.4f} ± {sed:.4f})")
+    P_["draw_test"] = {"ll": round(float(ld0.mean()), 4), "ll_draw": round(float(ld1.mean()), 4), "se": round(sed, 4)}
+    if ld1.mean() < ld0.mean() - 2 * sed:
+        # para producción: factores con los 30 días completos (lo medido arriba usa solo la 1.ª mitad)
+        al = pd.DataFrame({"liga": d.league, "pX": B[:, 1], "X": (y == 1)}).groupby("liga").agg(n=("X", "size"), pred=("pX", "mean"), real=("X", "mean"))
+        P_["draw_liga"] = {k: round(float(((r.real * r.n + r.pred * K) / (r.n + K)) / r.pred), 4) for k, r in al.iterrows()}
+        B = D; print("  guardado draw_liga")
+    else: P_.pop("draw_liga", None)
     # cara a cara entre los dos jugadores (sobre el 1X2 recalibrado que se use)
-    B = Q if "calib" in P_ else P; x = d.h2h.to_numpy()
+    x = d.h2h.to_numpy()
     shift = lambda w: (lambda Z: Z / Z.sum(1, keepdims=True))(B * np.exp(np.c_[w * x, 0 * x, -w * x]))
     wh = float(optimize.minimize_scalar(lambda w: nll(shift(w), fi).sum(), bounds=(-1, 1), method="bounded").x)
     lb, lh = nll(B, te), nll(shift(wh), te); seh = float((lh - lb).std() / math.sqrt(te.sum()))
