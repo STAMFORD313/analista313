@@ -1,31 +1,6 @@
 {
- "fecha": "2026-11-05 10:19",
- "n": 662,
+ "fecha": "2026-11-05 10:50",
+ "n": 673,
  "rentables": [],
- "bloqueados": [
-  {
-   "segmento": "deporte=🎮⚽ · mercado=1X2 · ventaja=0-5%",
-   "n": 61,
-   "roi": -0.3449,
-   "se": 0.1588,
-   "roi_antigua": -0.3147,
-   "roi_nueva": -0.3548
-  },
-  {
-   "segmento": "deporte=🎮⚽ · ventaja=0-5%",
-   "n": 61,
-   "roi": -0.3449,
-   "se": 0.1588,
-   "roi_antigua": -0.3147,
-   "roi_nueva": -0.3548
-  },
-  {
-   "segmento": "mercado=1X2 · ventaja=0-5%",
-   "n": 64,
-   "roi": -0.3303,
-   "se": 0.1561,
-   "roi_antigua": -0.3147,
-   "roi_nueva": -0.3351
-  }
- ]
+ "bloqueados": []
 }
