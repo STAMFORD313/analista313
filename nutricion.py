@@ -34,7 +34,7 @@ EXPERTS = {
     # ── entrenadores (diarios; solo guardan si no empeoran fuera de muestra) ──────────────────────────────────
     "entrena_esports": (24, 90, ["bash", "-c", "for g in cs2 dota2 lol r6 mlbb; do python train_cs2.py $g auto || echo fallo $g; done"],
                         "Elo por mapa/serie de CS2, Dota 2, LoL, R6 y MLBB"),
-    "entrena_fc27": (3, 30, ["bash", "-c", "python train_fc.py; python train_fc_calib.py"], "Modelo y recalibración de FC 27"),
+    "entrena_fc27": (0, 25, ["bash", "-c", "python train_fc.py; python train_fc_calib.py"], "Modelo y recalibración de FC 27"),
     "entrena_props": (24, 30, ["bash", "-c", "python train_cs2_props.py; python train_nba_props.py"], "Props de kills CS2 y de jugadores NBA"),
     "entrena_espn": (24, 90, ["bash", "-c", "pip install -q scikit-learn; python train_espn.py; python train_espn.py ncaa"],
                      "Elo y totales de NBA, NFL, NHL, MLB, tenis, UFC y NCAA"),
