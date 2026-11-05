@@ -1,82 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 05/11/2026 11:40 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Tesla vs Totti — 05/11 · 11:48
-
-👀 candidata · 🎮⚽ FC 27 · World Cup A · **Gana Tesla** @ **1.55** (Unibet) · prob 69% vs casas 57% · ventaja +7%
-
-- ❌ Valor: ventaja +7% (mín. 10% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 56.896 partidos)  
-Goles esperados: Tesla 4.00 · Totti 2.37  
-Ganador: Tesla 69% · empate 15% · Totti 16%  
-Total: más de 6.5 goles 45% · menos 55%  
-Hándicap Tesla: −1.5 51% · −2.5 36%  
-🔎 **Claves**  
-• Forma: Tesla ❌✅✅✅❌ | Totti ✅❌➖✅❌  
-• Partidos: Tesla 891 | Totti 898  
-• Liga: World Cup A  
-• Unibet: 1 1.55 · X 4.30 · 2 3.90 (sin margen 57%/21%/23%) · ventaja +7%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 1.55 (+7%) · Paf España 1.55 (+7%)  
-
-## goldfer vs why — 05/11 · 11:54
-
-👀 candidata · 🎮⚽ FC 27 · Champions League A 2x6 · **Empate** @ **6.10** (Unibet) · prob 18% vs casas 14% · ventaja +8%
-
-- ❌ Valor: ventaja +8% (mín. 10% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 56.896 partidos)  
-Goles esperados: goldfer 2.66 · why 3.52  
-Ganador: goldfer 26% · empate 18% · why 56%  
-Total: más de 6.5 goles 42% · menos 58%  
-Hándicap why: −1.5 39% · −2.5 25%  
-🔎 **Claves**  
-• Forma: goldfer ❌❌❌❌❌ | why ❌❌❌✅✅  
-• Partidos: goldfer 441 | why 553  
-• Liga: Champions League A 2x6  
-• Unibet: 1 3.65 · X 6.10 · 2 1.40 (sin margen 24%/14%/62%) · ventaja +8%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 6.10 (+8%) · Paf España 6.10 (+8%)  
-
-## DaVa vs dm1trena — 05/11 · 11:54
-
-👀 candidata · 🎮⚽ FC 27 · Bundesliga · **Gana dm1trena** @ **5.30** (Unibet) · prob 20% vs casas 17% · ventaja +6%
-
-- ❌ Valor: ventaja +6% (mín. 10% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 56.896 partidos)  
-Goles esperados: DaVa 3.09 · dm1trena 1.98  
-Ganador: DaVa 61% · empate 19% · dm1trena 20%  
-Total: más de 5.5 goles 40% · menos 60%  
-Hándicap DaVa: −1.5 42% · −2.5 26%  
-🔎 **Claves**  
-• Forma: DaVa ✅➖✅➖✅ | dm1trena ❌✅➖❌➖  
-• Partidos: DaVa 1140 | dm1trena 1021  
-• Liga: Bundesliga  
-• Unibet: 1 1.53 · X 3.40 · 2 5.30 (sin margen 58%/26%/17%) · ventaja +6%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 5.30 (+6%) · Paf España 5.30 (+6%)  
-
-## Ganger_29 vs Totti — 05/11 · 12:00
-
-👀 candidata · 🎮⚽ FC 27 · World Cup A · **Gana Totti** @ **2.95** (Unibet) · prob 43% vs casas 29% · ventaja +26%
-
-- ✅ Valor: ventaja +26% (mín. 15% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 56.896 partidos)  
-Goles esperados: Ganger_29 2.59 · Totti 2.76  
-Ganador: Ganger_29 37% · empate 21% · Totti 43%  
-Total: más de 5.5 goles 45% · menos 55%  
-Hándicap Totti: −1.5 28% · −2.5 15%  
-🔎 **Claves**  
-• Forma: Ganger_29 ➖✅➖❌✅ | Totti ✅❌➖✅❌  
-• Partidos: Ganger_29 751 | Totti 898  
-• Liga: World Cup A  
-• Unibet: 1 1.95 · X 3.30 · 2 2.95 (sin margen 44%/26%/29%) · ventaja +26%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.95 (+26%) · Paf España 2.95 (+26%)  
+Actualizado 05/11/2026 12:11 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Tesla vs Ganger_29 — 05/11 · 12:12
 
@@ -96,4 +20,61 @@ Hándicap Tesla: −1.5 53% · −2.5 37%
 • Liga: World Cup A  
 • Unibet: 1 1.65 · X 4.35 · 2 3.30 (sin margen 53%/20%/27%) · ventaja +18%. Sin stake hasta demostrar ROI con estas cuotas.  
 • En España: LeoVegas España 1.65 (+18%) · Paf España 1.65 (+18%)  
+
+## Revange vs dm1trena — 05/11 · 12:30
+
+👀 candidata · 🎮⚽ FC 27 · Bundesliga · **Gana dm1trena** @ **4.35** (Unibet) · prob 33% vs casas 20% · ventaja +43%
+
+- ❌ Valor: ventaja +43% (mín. 19% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 56.896 partidos)  
+Goles esperados: Revange 2.67 · dm1trena 2.33  
+Ganador: Revange 46% · empate 21% · dm1trena 33%  
+Total: más de 4.5 goles 56% · menos 44%  
+Hándicap Revange: −1.5 29% · −2.5 16%  
+🔎 **Claves**  
+• Forma: Revange ✅❌❌✅❌ | dm1trena ❌✅➖❌➖  
+• Partidos: Revange 564 | dm1trena 1021  
+• Liga: Bundesliga  
+• Unibet: 1 1.57 · X 3.70 · 2 4.35 (sin margen 56%/24%/20%) · ventaja +43%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 4.35 (+43%) · Paf España 4.35 (+43%)  
+
+## Tesla vs Maxa — 05/11 · 12:36
+
+👀 candidata · 🎮⚽ FC 27 · World Cup A · **Gana Tesla** @ **2.08** (Unibet) · prob 61% vs casas 42% · ventaja +27%
+
+- ✅ Valor: ventaja +27% (mín. 15% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 56.896 partidos)  
+Goles esperados: Tesla 3.84 · Maxa 2.70  
+Ganador: Tesla 61% · empate 16% · Maxa 23%  
+Total: más de 6.5 goles 48% · menos 52%  
+Hándicap Tesla: −1.5 44% · −2.5 29%  
+🔎 **Claves**  
+• Forma: Tesla ❌✅✅✅❌ | Maxa ✅❌❌✅✅  
+• Partidos: Tesla 891 | Maxa 844  
+• Liga: World Cup A  
+• Unibet: 1 2.08 · X 3.60 · 2 2.55 (sin margen 42%/24%/34%) · ventaja +27%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.08 (+27%) · Paf España 2.08 (+27%)  
+
+## Ganger_29 vs Taz — 05/11 · 12:36
+
+👀 candidata · 🎮⚽ FC 27 · World Cup A · **Gana Taz** @ **2.04** (Unibet) · prob 58% vs casas 43% · ventaja +19%
+
+- ✅ Valor: ventaja +19% (mín. 13% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 56.896 partidos)  
+Goles esperados: Ganger_29 2.57 · Taz 3.56  
+Ganador: Ganger_29 24% · empate 17% · Taz 58%  
+Total: más de 6.5 goles 41% · menos 59%  
+Hándicap Taz: −1.5 41% · −2.5 26%  
+🔎 **Claves**  
+• Forma: Ganger_29 ➖✅➖❌✅ | Taz ➖✅❌❌❌  
+• Partidos: Ganger_29 751 | Taz 877  
+• Liga: World Cup A  
+• Unibet: 1 2.23 · X 4.80 · 2 2.04 (sin margen 39%/18%/43%) · ventaja +19%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.04 (+19%) · Paf España 2.04 (+19%)  
 
