@@ -957,6 +957,7 @@
   "wta|2026-11-06|Ksenia Zaytseva|Gina Feistel",
   "wta|2026-11-06|Zeynep Sonmez|Claire Liu",
   "wta|2026-11-06|Anna Blinkova|Yasmine Kabbaj",
+  "wta|2026-11-06|Mai Hontama|Magda Linette",
   "cs2|132573",
   "cs2|132574",
   "cs2|132578",
@@ -1740,10 +1741,13 @@
   "fc|2364378",
   "fc|2364380",
   "fc|2363809",
-  "wta|2026-11-06|Mai Hontama|Magda Linette",
   "fc|2364503",
   "fc|2363571",
-  "fc|2364385"
+  "fc|2364385",
+  "wta|2026-11-06|Antonia Ruzic|Alexandra Eala",
+  "fc|2364504",
+  "fc|2364647",
+  "fc|2364505"
  ],
  "signals": [
   {
@@ -26609,7 +26613,11 @@
    "version": "16d45c1",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "3-2",
+   "result": false,
+   "close_p": null,
+   "logged": true
   }
  ],
  "bank": {
