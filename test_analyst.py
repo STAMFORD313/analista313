@@ -1494,3 +1494,13 @@ print("ok liquidez de Smarkets en £ apostables")
 import train_fc as _TF
 _cc = _TF.candidates(seed=1); assert 4 <= len(_cc) <= 12 and len(set(_cc)) == len(_cc) and _cc != _TF.candidates(seed=2)
 print("ok búsqueda continua FC 27")
+
+import esoccer as _ESO
+_sim0 = _ESO.simulation
+try:
+    _ESO.simulation = lambda: pd.DataFrame({"start": ["2026-11-03T10:00:00+00:00", "2026-11-03T11:00:00+00:00", "2026-11-04T10:00:00+00:00"],
+        "p_pick": [0.6, 0.5, 0.4], "odds": [2.0, 1.9, 2.0], "ok_1x2": [True, False, True], "g_unibet": [1.0, -1.0, 1.0]})
+    _t = _CH.answer("Hazme una tabla de las ganadas y perdidas de FC 27 y cuánto lleva ganado")
+    assert "FC 27 · ganadas y perdidas" in _t and "+1.00 €" in _t and "03/11" in _t and "<pre>" in _t, _t
+finally: _ESO.simulation = _sim0; _CH._CTX.clear(); _CH.LAST_FILE.unlink(missing_ok=True)
+print("ok tabla de FC 27")

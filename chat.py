@@ -985,6 +985,31 @@ def analyze_slip(slip, D=None):
 SWEEP_TARGET, SWEEP_MIN_ODDS, SWEEP_MIN_EV = 16.0, 5.0, 0.05  # solo piernas con ventaja: cuota ≥ 5 (no se rellena con malas)
 
 
+def fc_table(days=None):
+    """«Tabla de ganadas y perdidas de FC 27»: pronósticos ya jugados con cuota real (1 € cada uno), total, por día y
+    con la regla actual (ventaja ≥ 5 %): ganadas, perdidas, beneficio y ROI."""
+    import esoccer as E, pandas as pd
+    try: d = E.simulation()
+    except Exception as ex: return f"No puedo leer el historial de FC 27 ahora ({A.esc(type(ex).__name__)})."
+    if d is None or d.empty or "g_unibet" not in d: return "Aún no hay pronósticos de FC 27 jugados."
+    d = d[d.g_unibet.notna()].copy()
+    if d.empty: return "Aún no hay pronósticos de FC 27 con cuota real jugados."
+    d["edge"] = d.p_pick * d.odds - 1
+    d["dia"] = pd.to_datetime(d.start, utc=True).dt.tz_convert(TZ).dt.strftime("%d/%m")
+    row = lambda x: (len(x), int(x.ok_1x2.sum()), int((~x.ok_1x2.astype(bool)).sum()), float(x.g_unibet.sum()))
+    fmt = lambda name, r: f"{name:<10}{r[0]:>4}{r[1]:>4}{r[2]:>4}{r[3]:>+8.2f}{(r[3] / r[0] if r[0] else 0):>+7.0%}"
+    head = f"{'':<10}{'Ap':>4}{'✓':>4}{'✗':>4}{'€':>8}{'ROI':>7}"
+    lines = [head]
+    for dia, x in d.groupby("dia", sort=False): lines.append(fmt(dia, row(x)))
+    tot, rule = row(d), row(d[d.edge >= E.MIN_EDGE_SEND])
+    lines += ["─" * len(head), fmt("Total", tot), fmt("Vent.≥5%", rule)]
+    se = float(d.g_unibet.std() / len(d) ** 0.5) if len(d) > 1 else 0.0
+    return ("🎮⚽ <b>FC 27 · ganadas y perdidas</b> (1 € a cada pronóstico con cuota real de Unibet)\n<pre>" + A.esc("\n".join(lines)) + "</pre>\n"
+            f"Total: <b>{tot[3]:+.2f} €</b> en {tot[0]} apuestas (ROI {tot[3] / tot[0]:+.1%} ± {se:.1%}). "
+            f"Con la regla actual (solo ventaja ≥ 5 %): {rule[3]:+.2f} € en {rule[0]}.\n"
+            "Simulado, sin dinero real. Hasta que el ROI supere su margen de error no es una ganancia demostrada.")
+
+
 def sweep():
     """Barrido automático (menu.py cada pocas horas): combinada con cabeza a cuota ~16 con TODAS las piernas con ventaja;
     si la hay y no es repetida, se apunta como simulada y se devuelve el mensaje para Telegram; si no, None."""
@@ -1140,7 +1165,7 @@ def answer(text, depth=0, quoted=None):
 def natural(user_text, reply, hist=()):
     """La IA (interpreta.redactar) cuenta con palabras naturales lo que ha calculado el bot; si no hay IA, falla o mete un
     número que el bot no dio, se manda la respuesta del bot tal cual."""
-    if reply == HELP or reply.startswith(("📡", "🧾")): return reply  # directo de apuestas: con sus iconos tal cual
+    if reply == HELP or reply.startswith(("📡", "🧾", "🎮⚽")): return reply  # directo de apuestas: con sus iconos tal cual
     if sum(l.lstrip().startswith(("•", "↳")) for l in reply.split("\n")) >= 2: return reply  # listas: tal cual (la IA las estropeaba)
     import html, interpreta
     report = html.unescape(re.sub(r"<[^>]+>", "", reply))
@@ -1171,6 +1196,8 @@ def _answer(t, short=True):
         import simulaciones
         ks = find(t, D, n=1, kind="equipo")
         return simulaciones.compare(D[ks[0]]["name"] if ks else None)
+    if re.search(r"fc ?2[67]|esoccer|e-?soccer|fifa", q) and re.search(r"tabla|ganad|perdid|balance|cuanto|resultado|como va|historial|lleva", q):
+        return fc_table()
     if re.search(r"(ha|han|ya) (finalizado|terminado|acabado)|(finalizo|termino|acabo) (el|los) partido|ya (acabo|termino|finalizo)", q):
         import simulaciones
         done = simulaciones.settle()

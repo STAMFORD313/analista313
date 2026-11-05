@@ -28,7 +28,7 @@ próximas 48 h, para subir la cuota con seguridad) · «combinada del día a cuo
 - se puede limitar a deportes: «combinada del día de nba», «combinada de esports a cuota 20», «combinada segura de cs2 y fc 27» (deportes: fútbol, nba, nhl, nfl, mlb, cs2, lol, dota, r6, mlbb, fc 27/esoccer; «esports» = todos los videojuegos)
 - «<equipo> córners contra <rival>» o «<equipo> más de 4.5 córners contra <rival>» (cuántos córners o tarjetas hará un equipo ante un rival concreto; usa la conversación para saber de qué equipo y línea habla)
 - «combinada <local> <visitante> a cuota 80» cuando quiere la cuota alta SOLO de un partido («crear apuesta»)
-- «simula la última combinada» (cuando pide simular/apuntar/jugar la apuesta que le acaba de dar el bot) · «cómo van mis simuladas» · «compara mis apuestas simuladas» (cuál tiene más posibilidades)
+- «simula la última combinada» (cuando pide simular/apuntar/jugar la apuesta que le acaba de dar el bot) · «cómo van mis simuladas» · «compara mis apuestas simuladas» (cuál tiene más posibilidades) · «tabla de FC 27» (ganadas, perdidas y cuánto lleva ganado en FC 27 / esoccer)
 - «ayuda»
 
 Si el último mensaje responde a una pregunta del bot («sí», «vale», «venga», «ese»), devuelve la orden que el bot ofrecía. \

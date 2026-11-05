@@ -194,3 +194,4 @@
 - 2026-11-05: entrenamiento FC 27 continuo de verdad: cada pasada (30 min) prueba 12 combinaciones nuevas alrededor de los mejores parámetros (antes repetía siempre la misma rejilla de 16); solo guarda si no empeora fuera de muestra.
 - 2026-11-05: barridos arreglados: en ~1 día no habían apuntado ninguna combinada porque long_combo rellenaba con piernas sin ventaja para llegar a 16 y el barrido las rechazaba. Ahora el barrido arma la combinada solo con piernas con ventaja (cuota mínima 5, EV ≥ 5 %).
 - 2026-11-05: primer barrido real apuntado (cuota 7.2, 3 piernas de esports con ventaja). CLV de las simuladas ampliado a NBA/NHL y esports (cierre de Pinnacle de su deporte); FC 27 no está en Pinnacle.
+- 2026-11-05: chat «tabla de FC 27»: ganadas/perdidas por día, total en € (1 € por pronóstico con cuota real), ROI ± error y con la regla actual (ventaja ≥ 5 %). Hoy: 369 apuestas, −21.29 € (−5.8 % ± 7.6 %); con ventaja ≥ 5 %: +8.71 € en 266.
