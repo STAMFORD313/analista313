@@ -1,6 +1,6 @@
 # 🏈 NFL·NCAA · apuestas de valor
 
-Actualizado 05/11/2026 17:23 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 05/11/2026 18:04 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Florida Atlantic Owls vs UTSA Roadrunners — 06/11 · 01:30
 
