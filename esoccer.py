@@ -240,6 +240,9 @@ def simulation():
     return d.sort_values("start")
 
 
+MIN_EDGE_SEND = 0.05  # 999 partidos con cuota de Unibet: ventaja > 0 → ROI −8.4 % ± 6.1 % (535); > 5 % → +1.7 % ± 8.5 % (311)
+
+
 def joint_win_total(l1, l2, pick, line, over):
     """P(gana el pick y el total cae del lado elegido) con goles Poisson independientes (como markets)."""
     return sum(poisson(i, l1) * poisson(j, l2) for i in range(MAX_GOALS) for j in range(MAX_GOALS)
@@ -357,6 +360,7 @@ def run(state, today, kg):
                       "l2": round(l2, 3), "pick": mk, "p_pick": round(p[mk], 4), "line": line, "p_over": round(over, 4),
                       "fav": "1" if sign == 1 else "2", "p_h15": round(hcp[1.5], 4), "odds": sig["odds"] if o else None, "book": sig["book"],
                       "lote": now.isoformat()[:16]})  # mismo run = misma tarjeta (para simular su combinada)
+        if o and sig["edge"] < MIN_EDGE_SEND: continue  # medido (999 partidos): con < 5 % de ventaja se pierde; no se manda
         state["signals"].append({"market": {"1": "H", "X": "D", "2": "A"}[mk], "pick": {"1": g["p1"], "X": "Empate", "2": g["p2"]}[mk],
                                  **sig, "p": round(p[mk], 3), "key": key, "match": f"{g['p1']} vs {g['p2']}",
                                  "start": start.isoformat(), "league": f"{TITLE} · {g['league']}", "sport": ICON, "info": info,
