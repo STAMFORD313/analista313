@@ -1841,7 +1841,15 @@
   "cs2|133366",
   "fc|2364720",
   "fc|2364717",
-  "fc|2363671"
+  "fc|2363671",
+  "dota2|133142",
+  "dota2|133623",
+  "dota2|133528",
+  "dota2|133529",
+  "dota2|133527",
+  "fc|2365066",
+  "fc|2364724",
+  "fc|2364721"
  ],
  "signals": [
   {
@@ -2127,35 +2135,6 @@
    "result": false,
    "score": "0-0",
    "clv": -0.027,
-   "logged": true
-  },
-  {
-   "market": "A",
-   "odds": 3.5,
-   "book": "Bet365",
-   "p": 0.309,
-   "implied": 0.286,
-   "edge": 0.082,
-   "key": "ARG|2026-11-02|Defensa y Justicia|Independiente",
-   "match": "Defensa y Justicia vs Independiente",
-   "pick": "Independiente",
-   "start": "2026-11-02T22:00:00+00:00",
-   "league": "🇦🇷 Liga Profesional",
-   "sport": "⚽",
-   "context": "Defensa y Justicia vs Independiente (🇦🇷 Liga Profesional). Modelo Poisson con historial desde 2005 y bajas: 1 36% X 31% 2 33%, +2.5 33%, ambos marcan 41%. Forma Defensa y Justicia ➖✅✅❌✅, Independiente ✅❌➖➖❌ (✅ victoria ➖ empate ❌ derrota). H2H 14 desde 2014: 4V-4E-6D · 1.4 goles/partido · +2.5 en 21%. Bajas Defensa y Justicia: ninguna. Bajas Independiente: ninguna.",
-   "considered": true,
-   "ai": {
-    "apostar": false,
-    "motivo": "El modelo Poisson está sesgado por el historial desde 2005 (cuando Defensa militaba en el ascenso), sobrestimando a un Independiente en mala racha reciente frente a un Defensa sólido y en mejor forma.",
-    "confianza": 2
-   },
-   "placed": false,
-   "captured": "2026-11-03T06:59",
-   "version": "7948daf",
-   "bajas": "Defensa y Justicia: sin bajas; Independiente: sin bajas",
-   "result": false,
-   "score": "1-1",
-   "clv": 0.118,
    "logged": true
   },
   {
@@ -6266,7 +6245,11 @@
    "version": "7948daf",
    "bajas": "AZ Alkmaar: sin bajas; Juventus: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "1-2",
+   "close_p": 0.2799,
+   "logged": true
   },
   {
    "market": "home",
@@ -6286,7 +6269,11 @@
    "version": "7948daf",
    "bajas": "Bayer Leverkusen: sin bajas; Marseille: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "0-1",
+   "close_p": 0.683,
+   "logged": true
   },
   {
    "market": "home",
@@ -6306,7 +6293,11 @@
    "version": "7948daf",
    "bajas": "Benfica: sin bajas; Lech Poznan: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "3-1",
+   "close_p": 0.7652,
+   "logged": true
   },
   {
    "market": "home",
@@ -6326,7 +6317,11 @@
    "version": "7948daf",
    "bajas": "Celta Vigo: sin bajas; Union St.-Gilloise: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "1-2",
+   "close_p": 0.3946,
+   "logged": true
   },
   {
    "market": "home",
@@ -6346,7 +6341,11 @@
    "version": "7948daf",
    "bajas": "Celtic: sin bajas; Besiktas: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "3-2",
+   "close_p": 0.3243,
+   "logged": true
   },
   {
    "market": "home",
@@ -6366,7 +6365,11 @@
    "version": "7948daf",
    "bajas": "Hapoel Be'er: sin bajas; OFI Crete: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "0-2",
+   "close_p": 0.4394,
+   "logged": true
   },
   {
    "market": "home",
@@ -6386,7 +6389,11 @@
    "version": "7948daf",
    "bajas": "SK Sturm Graz: sin bajas; NK Celje: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "2-3",
+   "close_p": 0.6124,
+   "logged": true
   },
   {
    "market": "home",
@@ -6406,7 +6413,11 @@
    "version": "7948daf",
    "bajas": "Sunderland: sin bajas; Dinamo Zagreb: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "0-2",
+   "close_p": 0.6128,
+   "logged": true
   },
   {
    "market": "home",
@@ -6426,7 +6437,11 @@
    "version": "7948daf",
    "bajas": "Torreense: sin bajas; Ararat-Armenia: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "3-2",
+   "close_p": 0.5708,
+   "logged": true
   },
   {
    "market": "t1",
@@ -15526,20 +15541,6 @@
    "start": "2026-11-05T22:00:00+00:00",
    "league": "🧙 LoL · Worlds 2026",
    "sport": "🧙",
-   "info": [
-    "📊 <b>Escenarios</b> (Elo por mapa, 14.801 partidos)",
-    "Mapa: Dplus KIA 46% · Serie BO5: Dplus KIA 29% - 71% Bilibili Gaming",
-    "Casas: Dplus KIA 40% · Bilibili Gaming 60%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Elo: Dplus KIA 1959 (207 series) | Bilibili Gaming 1992 (212 series)",
-    "• Forma: Dplus KIA ✅❌✅✅✅ | Bilibili Gaming ❌✅✅❌✅",
-    "• H2H: 1: 1-0",
-    "• Torneo: Worlds 2026 (nivel S)",
-    "• Cambios de plantilla: ninguno",
-    "• Jugadores en forma (KDA últimas 10 partidas): Dplus KIA: Smash 3.7, ShowMaker 3.6 | Bilibili Gaming: knight 4.1, Viper 2.7",
-    "• Química de la plantilla: Dplus KIA: 221 partidas juntos de media | Bilibili Gaming: 274 partidas juntos de media"
-   ],
    "context": "LoL Dplus KIA vs Bilibili Gaming, BO5, torneo Worlds 2026 nivel s. Elo por mapa 1959 vs 1992 (prob. mapa 46%, serie 29%). Forma ✅❌✅✅✅ / ❌✅✅❌✅ (✅ victoria ❌ derrota). H2H 1: 1-0. Cambios de plantilla: ninguno. Cuotas Thunderpick 2.3/1.55.",
    "captured": "2026-11-04T10:05",
    "version": "497e42d",
@@ -26616,7 +26617,11 @@
    "version": "89e725f",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "4-2",
+   "result": false,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "D",
@@ -26637,7 +26642,11 @@
    "version": "89e725f",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "4-2",
+   "result": false,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "D",
@@ -26653,26 +26662,16 @@
    "start": "2026-11-05T21:43:00+00:00",
    "league": "🎮⚽ FC 27 · World Cup A",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 57.504 partidos)",
-    "Goles esperados: kkikus 2.95 · ssstasonn 2.55",
-    "Ganador: kkikus 47% · empate 22% · ssstasonn 32%",
-    "Total: más de 5.5 goles 47% · menos 53%",
-    "Hándicap kkikus: −1.5 31% · −2.5 18%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: kkikus ❌✅❌❌❌ | ssstasonn ❌❌➖❌❌",
-    "• Partidos: kkikus 897 | ssstasonn 871",
-    "• Liga: World Cup A",
-    "• Unibet: 1 1.84 · X 5.60 · 2 2.40 (sin margen 48%/16%/37%) · ventaja +21%. Sin stake hasta demostrar ROI con estas cuotas.",
-    "• En España: LeoVegas España 5.60 (+21%) · Paf España 5.60 (+21%)"
-   ],
    "context": "EA FC Esoccer Battle kkikus vs ssstasonn (World Cup A): goles esperados 2.95-2.55, 1X2 47%/22%/32%. Sin cuotas de casa.",
    "captured": "2026-11-05T21:17",
    "version": "2102e45",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "2-5",
+   "result": false,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "D",
@@ -26688,26 +26687,16 @@
    "start": "2026-11-05T21:43:00+00:00",
    "league": "🎮⚽ FC 27 · World Cup A",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 57.504 partidos)",
-    "Goles esperados: Simaponika 1.88 · believer 3.47",
-    "Ganador: Simaponika 14% · empate 17% · believer 69%",
-    "Total: más de 5.5 goles 45% · menos 55%",
-    "Hándicap believer: −1.5 51% · −2.5 34%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Simaponika ✅❌❌❌❌ | believer ➖✅✅✅✅",
-    "• Partidos: Simaponika 1056 | believer 884",
-    "• Liga: World Cup A",
-    "• Unibet: 1 4.50 · X 7.00 · 2 1.27 (sin margen 19%/12%/68%) · ventaja +19%. Sin stake hasta demostrar ROI con estas cuotas.",
-    "• En España: LeoVegas España 7.00 (+19%) · Paf España 7.00 (+19%)"
-   ],
    "context": "EA FC Esoccer Battle Simaponika vs believer (World Cup A): goles esperados 1.88-3.47, 1X2 14%/17%/69%. Sin cuotas de casa.",
    "captured": "2026-11-05T21:17",
    "version": "2102e45",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "2-3",
+   "result": false,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "D",
@@ -26783,23 +26772,114 @@
    "start": "2026-11-05T21:55:00+00:00",
    "league": "🎮⚽ FC 27 · World Cup A",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 57.519 partidos)",
-    "Goles esperados: kkikus 1.63 · believer 4.25",
-    "Ganador: kkikus 7% · empate 11% · believer 83%",
-    "Total: más de 5.5 goles 54% · menos 46%",
-    "Hándicap believer: −1.5 67% · −2.5 51%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: kkikus ✅❌❌❌❌ | believer ✅✅✅✅✅",
-    "• Partidos: kkikus 898 | believer 886",
-    "• Liga: World Cup A",
-    "• Unibet: 1 8.50 · X 10.50 · 2 1.08 (sin margen 10%/8%/81%) · ventaja +12%. Sin stake hasta demostrar ROI con estas cuotas.",
-    "• En España: LeoVegas España 10.50 (+12%) · Paf España 10.50 (+12%)"
-   ],
    "context": "EA FC Esoccer Battle kkikus vs believer (World Cup A): goles esperados 1.63-4.25, 1X2 7%/11%/83%. Sin cuotas de casa.",
    "captured": "2026-11-05T21:32",
    "version": "21133e3",
+   "bajas": "",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "D",
+   "pick": "Empate",
+   "odds": 6.25,
+   "book": "Unibet",
+   "implied": 0.138,
+   "edge": 0.189,
+   "sin_stake": true,
+   "p": 0.19,
+   "key": "fc|2365066",
+   "match": "Simaponika vs ssstasonn",
+   "start": "2026-11-05T22:31:00+00:00",
+   "league": "🎮⚽ FC 27 · World Cup A",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 57.543 partidos)",
+    "Goles esperados: Simaponika 3.33 · ssstasonn 2.14",
+    "Ganador: Simaponika 61% · empate 19% · ssstasonn 20%",
+    "Total: más de 5.5 goles 47% · menos 53%",
+    "Hándicap Simaponika: −1.5 44% · −2.5 28%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Simaponika ❌✅❌❌❌ | ssstasonn ❌❌❌✅✅",
+    "• Partidos: Simaponika 1060 | ssstasonn 874",
+    "• Liga: World Cup A",
+    "• Unibet: 1 1.30 · X 6.25 · 2 4.35 (sin margen 66%/14%/20%) · ventaja +19%. Sin stake hasta demostrar ROI con estas cuotas.",
+    "• En España: LeoVegas España 6.25 (+19%) · Paf España 6.25 (+19%)"
+   ],
+   "context": "EA FC Esoccer Battle Simaponika vs ssstasonn (World Cup A): goles esperados 3.33-2.14, 1X2 61%/19%/20%. Sin cuotas de casa.",
+   "captured": "2026-11-05T22:02",
+   "version": "66c504e",
+   "bajas": "",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "D",
+   "pick": "Empate",
+   "odds": 7.0,
+   "book": "Unibet",
+   "implied": 0.124,
+   "edge": 0.114,
+   "sin_stake": true,
+   "p": 0.159,
+   "key": "fc|2364724",
+   "match": "kkikus vs Nightxx",
+   "start": "2026-11-05T22:31:00+00:00",
+   "league": "🎮⚽ FC 27 · World Cup A",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 57.543 partidos)",
+    "Goles esperados: kkikus 2.22 · Nightxx 3.89",
+    "Ganador: kkikus 15% · empate 16% · Nightxx 69%",
+    "Total: más de 6.5 goles 41% · menos 59%",
+    "Hándicap Nightxx: −1.5 52% · −2.5 36%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: kkikus ❌❌❌❌❌ | Nightxx ❌✅❌✅✅",
+    "• Partidos: kkikus 900 | Nightxx 766",
+    "• Liga: World Cup A",
+    "• Unibet: 1 4.70 · X 7.00 · 2 1.26 (sin margen 19%/12%/69%) · ventaja +11%. Sin stake hasta demostrar ROI con estas cuotas.",
+    "• En España: LeoVegas España 7.00 (+11%) · Paf España 7.00 (+11%)"
+   ],
+   "context": "EA FC Esoccer Battle kkikus vs Nightxx (World Cup A): goles esperados 2.22-3.89, 1X2 15%/16%/69%. Sin cuotas de casa.",
+   "captured": "2026-11-05T22:02",
+   "version": "66c504e",
+   "bajas": "",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "D",
+   "pick": "Empate",
+   "odds": 5.1,
+   "book": "Unibet",
+   "implied": 0.172,
+   "edge": 0.052,
+   "sin_stake": true,
+   "p": 0.206,
+   "key": "fc|2364721",
+   "match": "Nightxx vs Simaponika",
+   "start": "2026-11-05T22:19:00+00:00",
+   "league": "🎮⚽ FC 27 · World Cup A",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 57.543 partidos)",
+    "Goles esperados: Nightxx 3.17 · Simaponika 2.53",
+    "Ganador: Nightxx 51% · empate 21% · Simaponika 28%",
+    "Total: más de 5.5 goles 50% · menos 50%",
+    "Hándicap Nightxx: −1.5 35% · −2.5 21%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Nightxx ❌✅❌✅✅ | Simaponika ❌✅❌❌❌",
+    "• Partidos: Nightxx 766 | Simaponika 1060",
+    "• Liga: World Cup A",
+    "• Unibet: 1 1.75 · X 5.10 · 2 2.70 (sin margen 50%/17%/33%) · ventaja +5%. Sin stake hasta demostrar ROI con estas cuotas.",
+    "• En España: LeoVegas España 5.10 (+5%) · Paf España 5.10 (+5%)"
+   ],
+   "context": "EA FC Esoccer Battle Nightxx vs Simaponika (World Cup A): goles esperados 3.17-2.53, 1X2 51%/21%/28%. Sin cuotas de casa.",
+   "captured": "2026-11-05T22:02",
+   "version": "66c504e",
    "bajas": "",
    "considered": true,
    "placed": false
@@ -27298,6 +27378,10 @@
   "nba|2026-11-05|Sacramento Kings|Los Angeles Lakers",
   "nba|2026-11-05|LA Clippers|Miami Heat",
   "nba|2026-11-06|Phoenix Suns|Orlando Magic",
-  "nba|2026-11-06|Golden State Warriors|Miami Heat"
+  "nba|2026-11-06|Golden State Warriors|Miami Heat",
+  "nba|2026-11-07|Cleveland Cavaliers|Philadelphia 76ers",
+  "nba|2026-11-07|Milwaukee Bucks|Toronto Raptors",
+  "nba|2026-11-07|New Orleans Pelicans|Minnesota Timberwolves",
+  "nba|2026-11-07|Sacramento Kings|San Antonio Spurs"
  ]
 }
