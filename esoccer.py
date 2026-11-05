@@ -248,6 +248,7 @@ def simulation():
     return d.sort_values("start")
 
 
+RULE_SINCE = "2026-11-05T12:30:00+00:00"  # desde aquí solo se mandan empates con ventaja ≥ 5 %: su resultado es el honesto
 SEND_PICKS = {"X"}  # 1.ª/2.ª mitad (ventaja ≥ 5 %): 1 −10 %/−17 %, 2 −20 %/−4 %, X +82 % (34)/+59 % (18) → solo empates
 MIN_EDGE_SEND = 0.05  # 999 partidos con cuota de Unibet: ventaja > 0 → ROI −8.4 % ± 6.1 % (535); > 5 % → +1.7 % ± 8.5 % (311)
 

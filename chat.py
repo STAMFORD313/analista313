@@ -1013,6 +1013,11 @@ def fc_table(days=None):
         r = row(xs)
         out.append(f"🤝 Empates con ventaja (lo único que te manda ahora): <b>{eur(r[3])}</b> {icon(r[3])} en {r[0]} apuestas "
                    f"(✅ {r[1]} · ❌ {r[2]}; {per10(r)}).")
+    new = xs[pd.to_datetime(xs.start, utc=True) >= pd.Timestamp(E.RULE_SINCE)]
+    r = row(new) if len(new) else (0, 0, 0, 0.0)
+    out.append(f"🆕 <b>Desde que solo te manda empates</b> (5/11 13:30): {r[0]} apuestas · ✅ {r[1]} · ❌ {r[2]} → "
+               f"{icon(r[3])} <b>{eur(r[3])}</b>" + (" (aún sin partidos jugados)" if not r[0] else "") +
+               ". Esta es la cifra que cuenta: lo de antes sirvió para elegir la regla.")
     out += [
             "", "⚠️ Es simulado, sin dinero real. Aún son pocos días: puede ser suerte, para bien o para mal."]
     return "\n".join(out)
