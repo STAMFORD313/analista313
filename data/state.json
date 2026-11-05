@@ -1670,7 +1670,10 @@
   "cs2|133453",
   "fc|2364447",
   "fc|2364448",
-  "fc|2363447"
+  "fc|2363447",
+  "fc|2363600",
+  "fc|2364453",
+  "fc|2363599"
  ],
  "signals": [
   {
@@ -3173,29 +3176,6 @@
    "score": "7-35",
    "close_p": 0.4605,
    "logged": true
-  },
-  {
-   "market": "home",
-   "odds": 4.0,
-   "book": "DraftKings",
-   "p": 0.479,
-   "implied": 0.24,
-   "edge": 0.915,
-   "key": "cbb|2026-11-02|Grambling Tigers|Northern Illinois Huskies",
-   "match": "Grambling Tigers vs Northern Illinois Huskies",
-   "pick": "Grambling Tigers",
-   "start": "2026-11-02T08:00Z",
-   "league": "🏀 NCAA Basketball",
-   "sport": "🏀",
-   "context": "Grambling Tigers vs Northern Illinois Huskies (🏀 NCAA Basketball, baloncesto). Modelo Elo con 10 años de historial ajustado por bajas: Grambling Tigers 72%, Northern Illinois Huskies 28%. Cuotas DraftKings 4.0/1.263, hándicap NIU -8.5, total 138.5. Forma Grambling Tigers ❌❌✅✅❌, Northern Illinois Huskies ❌❌❌❌❌. H2H sin precedentes. Bajas Grambling Tigers: ninguna. Bajas Northern Illinois Huskies: ninguna.",
-   "considered": true,
-   "placed": false,
-   "result": true,
-   "score": "89-87",
-   "logged": true,
-   "captured": "2026-11-03T06:59",
-   "version": "7948daf",
-   "bajas": ""
   },
   {
    "market": "home",
@@ -24866,7 +24846,11 @@
    "version": "f96208e",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "2-6",
+   "result": false,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "H",
@@ -24987,7 +24971,11 @@
    "version": "740e5fd",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "3-1",
+   "result": false,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "H",
@@ -25008,7 +24996,11 @@
    "version": "740e5fd",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "5-2",
+   "result": true,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "t2",
@@ -25120,7 +25112,11 @@
    "version": "6789ddf",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "2-4",
+   "result": true,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "H",
@@ -25191,7 +25187,11 @@
    "version": "6789ddf",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "1-1",
+   "result": false,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "H",
@@ -25212,7 +25212,11 @@
    "version": "6789ddf",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "1-5",
+   "result": false,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "D",
@@ -25234,7 +25238,11 @@
    "bajas": "",
    "considered": true,
    "placed": false,
-   "anunciada": true
+   "anunciada": true,
+   "score": "2-4",
+   "result": false,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "H",
@@ -25280,7 +25288,11 @@
    "version": "c278c07",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "4-3",
+   "result": false,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "A",
@@ -25301,7 +25313,11 @@
    "version": "db097bd",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "2-2",
+   "result": false,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "H",
@@ -25322,7 +25338,11 @@
    "version": "db097bd",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "2-2",
+   "result": false,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "A",
@@ -25464,6 +25484,110 @@
    "bajas": "",
    "considered": true,
    "placed": false
+  },
+  {
+   "key": "vp|2026-11-05|Lillestrom|Viktoria Plzen",
+   "market": "A",
+   "pick": "Viktoria Plzen",
+   "odds": 2.39,
+   "book": "Smarkets",
+   "p": 0.4404,
+   "implied": 0.4404,
+   "edge": 0.0535,
+   "match": "Lillestrom vs Viktoria Plzen",
+   "start": "2026-11-05T17:45:00+00:00",
+   "league": "💎 Valor vs Pinnacle · UEFA - Europa League",
+   "sport": "⚽💎",
+   "info": [
+    "💎 <b>Valor contra Pinnacle</b>: Smarkets paga 2.39 y el precio justo de Pinnacle es 2.27 (ventaja +5.3%)",
+    "Backtest 2015-2026 (cuota ≤ 2.5, > 3 %): ROI +11 % ± 3 %, CLV +5 %."
+   ],
+   "context": "Lillestrom vs Viktoria Plzen (UEFA - Europa League). Estrategia de valor: Smarkets 2.39 frente a Pinnacle justo 2.27.",
+   "captured": "2026-11-05T08:09",
+   "version": "3589a71",
+   "bajas": "",
+   "considered": true,
+   "ai": {
+    "apostar": true,
+    "motivo": "Existe una ligera discrepancia favorable en Smarkets frente a Pinnacle, respaldada por un modelo con 5% de valor y probabilidad estimada alineada.",
+    "confianza": 3,
+    "modelo": "gemini-flash-lite-latest"
+   },
+   "placed": false
+  },
+  {
+   "market": "H",
+   "pick": "dm1trena",
+   "odds": 4.1,
+   "book": "Unibet",
+   "implied": 0.214,
+   "edge": 0.259,
+   "sin_stake": true,
+   "p": 0.307,
+   "key": "fc|2363600",
+   "match": "dm1trena vs Revange",
+   "start": "2026-11-05T08:10:00+00:00",
+   "league": "🎮⚽ FC 27 · Champions League AFC",
+   "sport": "🎮⚽",
+   "context": "EA FC Esoccer Battle dm1trena vs Revange (Champions League AFC): goles esperados 2.16-2.48, 1X2 31%/22%/47%. Sin cuotas de casa.",
+   "captured": "2026-11-05T08:09",
+   "version": "3589a71",
+   "bajas": "",
+   "considered": true
+  },
+  {
+   "market": "A",
+   "pick": "Tesla",
+   "odds": 1.95,
+   "book": "Unibet",
+   "implied": 0.446,
+   "edge": 0.198,
+   "sin_stake": true,
+   "p": 0.614,
+   "key": "fc|2364453",
+   "match": "Maxa vs Tesla",
+   "start": "2026-11-05T08:16:00+00:00",
+   "league": "🎮⚽ FC 27 · Ligue 1",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 56.798 partidos)",
+    "Goles esperados: Maxa 2.79 · Tesla 3.98",
+    "Ganador: Maxa 23% · empate 16% · Tesla 61%",
+    "Total: más de 6.5 goles 52% · menos 48%",
+    "Hándicap Tesla: −1.5 45% · −2.5 30%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Maxa ✅➖❌✅✅ | Tesla ✅✅✅❌✅",
+    "• Partidos: Maxa 837 | Tesla 884",
+    "• Liga: Ligue 1",
+    "• Unibet: 1 2.60 · X 3.95 · 2 1.95 (sin margen 33%/22%/45%) · ventaja +20%. Sin stake hasta demostrar ROI con estas cuotas."
+   ],
+   "context": "EA FC Esoccer Battle Maxa vs Tesla (Ligue 1): goles esperados 2.79-3.98, 1X2 23%/16%/61%. Sin cuotas de casa.",
+   "captured": "2026-11-05T08:09",
+   "version": "3589a71",
+   "bajas": "",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "D",
+   "pick": "Empate",
+   "odds": 4.2,
+   "book": "Unibet",
+   "implied": 0.208,
+   "edge": -0.0,
+   "sin_stake": true,
+   "p": 0.238,
+   "key": "fc|2363599",
+   "match": "DaVa vs BlackStar98",
+   "start": "2026-11-05T08:10:00+00:00",
+   "league": "🎮⚽ FC 27 · Champions League AFC",
+   "sport": "🎮⚽",
+   "context": "EA FC Esoccer Battle DaVa vs BlackStar98 (Champions League AFC): goles esperados 2.23-1.83, 1X2 47%/24%/30%. Sin cuotas de casa.",
+   "captured": "2026-11-05T08:09",
+   "version": "3589a71",
+   "bajas": "",
+   "considered": true
   }
  ],
  "bank": {
