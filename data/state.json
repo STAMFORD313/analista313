@@ -1753,7 +1753,12 @@
   "fc|2364515",
   "fc|2364787",
   "fc|2363821",
-  "fc|2364789"
+  "fc|2364789",
+  "cs2|133095",
+  "cs2|133096",
+  "fc|2364388",
+  "fc|2364792",
+  "fc|2364510"
  ],
  "signals": [
   {
@@ -3112,29 +3117,6 @@
    "score": "7-35",
    "close_p": 0.4605,
    "logged": true
-  },
-  {
-   "market": "home",
-   "odds": 1.87,
-   "book": "DraftKings",
-   "p": 0.563,
-   "implied": 0.511,
-   "edge": 0.052,
-   "key": "cbb|2026-11-02|Queens University Royals|Winthrop Eagles",
-   "match": "Queens University Royals vs Winthrop Eagles",
-   "pick": "Queens University Royals",
-   "start": "2026-11-02T14:00Z",
-   "league": "🏀 NCAA Basketball",
-   "sport": "🏀",
-   "context": "Queens University Royals vs Winthrop Eagles (🏀 NCAA Basketball, baloncesto). Modelo Elo con 10 años de historial ajustado por bajas: Queens University Royals 61%, Winthrop Eagles 39%. Cuotas DraftKings 1.87/1.952, hándicap QUC -1.5, total 167.5. Forma Queens University Royals ❌✅✅✅❌, Winthrop Eagles ❌✅✅✅❌. H2H 3 desde 2023: 0-3. Bajas Queens University Royals: ninguna. Bajas Winthrop Eagles: ninguna.",
-   "considered": true,
-   "placed": false,
-   "result": true,
-   "score": "103-98",
-   "logged": true,
-   "captured": "2026-11-03T06:59",
-   "version": "7948daf",
-   "bajas": ""
   },
   {
    "market": "home",
@@ -26490,7 +26472,11 @@
    "version": "ec6db12",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "4-2",
+   "result": true,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "A",
@@ -26535,7 +26521,11 @@
    "version": "d70b486",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "1-4",
+   "result": true,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "A",
@@ -26556,7 +26546,11 @@
    "version": "8aae8c6",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "3-2",
+   "result": false,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "H",
@@ -26598,7 +26592,11 @@
    "version": "8aae8c6",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "2-3",
+   "result": false,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "D",
