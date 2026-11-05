@@ -774,7 +774,7 @@ def match_combo(D, kh, ka, target, hours=72, by_team=False, shooters=None):
     return "\n".join(out)
 
 
-def long_combo(D, target, hours=48, sports=None, only_stats=False):
+def long_combo(D, target, hours=48, sports=None, only_stats=False, value_only=False):
     """Combinada de cuota alta (p. ej. 80) con cuotas REALES de Unibet (Kambi): de cada partido de las próximas 48 h, la
     línea de córners o tarjetas totales con más ventaja (prob. del modelo × cuota − 1 ≥ 0); se añaden, de más a menos
     ventaja, hasta que el producto de cuotas llega a `target`. Entre partidos distintos la casa paga el producto exacto."""
@@ -834,7 +834,9 @@ def long_combo(D, target, hours=48, sports=None, only_stats=False):
     pool = value if len(value) >= 2 else cands  # sin ventaja suficiente: la menos mala, avisando de lo que se pierde
     legs, odds, p, kinds, games = [], 1.0, 1.0, {}, set()
     kind = lambda txt: "córners" if "córner" in txt else "tarjetas" if "tarjeta" in txt else "ganador"
-    for c in sorted(pool, key=lambda c: -c[2]) + sorted([c for c in cands if c not in pool], key=lambda c: -c[2]):
+    if value_only: pool = value  # barrido: solo piernas con ventaja, aunque no se llegue a la cuota objetivo
+    rest = [] if value_only else sorted([c for c in cands if c not in pool], key=lambda c: -c[2])
+    for c in sorted(pool, key=lambda c: -c[2]) + rest:
         if odds >= target: break  # primero las de ventaja; si no llegan, las menos malas (la ganancia esperada lo refleja)
         hh, _, aa = re.sub(r"^\W+\s*", "", c[0].split(" · ")[0]).partition(" – ")
         g = (norm(hh)[:6], norm(aa)[:6])  # mismo partido aunque Pinnacle y ESPN escriban distinto los nombres
@@ -980,7 +982,7 @@ def analyze_slip(slip, D=None):
     return "\n".join(out)
 
 
-SWEEP_TARGET, SWEEP_MIN_ODDS, SWEEP_MIN_EV = 16.0, 8.0, 0.05
+SWEEP_TARGET, SWEEP_MIN_ODDS, SWEEP_MIN_EV = 16.0, 5.0, 0.05  # solo piernas con ventaja: cuota ≥ 5 (no se rellena con malas)
 
 
 def sweep():
@@ -988,7 +990,7 @@ def sweep():
     si la hay y no es repetida, se apunta como simulada y se devuelve el mensaje para Telegram; si no, None."""
     keep = _CTX.get("ultima")
     try:
-        text = long_combo(db(), SWEEP_TARGET)
+        text = long_combo(db(), SWEEP_TARGET, value_only=True)
         u = _CTX.get("ultima")
         if not u or u is keep or not u.get("odds") or u["odds"] < SWEEP_MIN_ODDS: return None
         if any(l.get("p") is None or l["p"] * (l.get("odds") or 0) - 1 < LONG_EDGE for l in u["legs"]): return None

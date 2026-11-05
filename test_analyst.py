@@ -1270,11 +1270,12 @@ print("ok combinada solo córners y tarjetas")
 _lc2, _smf5, _smp5 = _CH.long_combo, _SM.FILE, _SM.push
 _SM.FILE = A_.DATA / "_test_simuladas5.json"; _SM.FILE.unlink(missing_ok=True); _SM._MEM.clear(); _SM.push = lambda m: None
 _legs = [dict(home=f"H{i}", away=f"A{i}", txt="Más de 8.5 córners", odds=2.0, p=0.55, start=None, code=None) for i in range(4)]
-def _fake(D, target, **k): _CH.remember("Combinada cuota 16.0", _legs, 16.0, 0.55 ** 4); return "texto"
+_kw = {}
+def _fake(D, target, **k): _kw.update(k); _CH.remember("Combinada cuota 16.0", _legs, 16.0, 0.55 ** 4); return "texto"
 _CH.long_combo = _fake
 try:
     _CH._DB.update(db=_D, t=1e18)
-    assert _CH.sweep().startswith("🔎") and _CH.sweep() is None  # la segunda vez: repetida
+    assert _CH.sweep().startswith("🔎") and _CH.sweep() is None and _kw.get("value_only")  # la segunda vez: repetida
     _legs[0]["p"] = 0.4; _SM.FILE.unlink(missing_ok=True); _SM._MEM.clear(); assert _CH.sweep() is None  # una pierna sin ventaja
 finally: _CH.long_combo, _SM.FILE, _SM.push = _lc2, _smf5, _smp5; _SM._MEM.clear(); _CH._DB.clear(); _CH._DB["t"] = 0; _CH._CTX.clear()
 _CH.LAST_FILE.unlink(missing_ok=True)
