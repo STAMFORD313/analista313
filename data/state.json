@@ -1730,7 +1730,10 @@
   "fc|2364485",
   "fc|2364490",
   "fc|2363561",
-  "fc|2363806"
+  "fc|2363806",
+  "fc|2364493",
+  "fc|2363640",
+  "fc|2364494"
  ],
  "signals": [
   {
@@ -25986,7 +25989,11 @@
    "version": "a876fc0",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "2-5",
+   "result": false,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "H",
@@ -26053,7 +26060,11 @@
    "version": "a5bd7c5",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "3-5",
+   "result": true,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "t2",
@@ -26130,7 +26141,11 @@
    "version": "e958eee",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "1-1",
+   "result": false,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "H",
@@ -26172,7 +26187,11 @@
    "version": "dc23da4",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "4-2",
+   "result": true,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "D",
@@ -26218,7 +26237,11 @@
    "version": "dc23da4",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "4-2",
+   "result": true,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "A",
@@ -26239,7 +26262,11 @@
    "version": "58fa319",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "7-2",
+   "result": false,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "H",
@@ -26261,7 +26288,11 @@
    "bajas": "",
    "considered": true,
    "placed": false,
-   "anunciada": true
+   "anunciada": true,
+   "score": "4-4",
+   "result": false,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "A",
@@ -26325,7 +26356,11 @@
    "bajas": "",
    "considered": true,
    "placed": false,
-   "anunciada": true
+   "anunciada": true,
+   "score": "1-4",
+   "result": false,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "A",
@@ -26347,7 +26382,11 @@
    "bajas": "",
    "considered": true,
    "placed": false,
-   "anunciada": true
+   "anunciada": true,
+   "score": "2-2",
+   "result": false,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "A",
@@ -26389,7 +26428,11 @@
    "version": "b64feff",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "3-5",
+   "result": true,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "A",
@@ -26410,7 +26453,11 @@
    "version": "b64feff",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "3-3",
+   "result": false,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "H",
@@ -26426,20 +26473,6 @@
    "start": "2026-11-05T12:10:00+00:00",
    "league": "🎮⚽ FC 27 · FA Cup",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 56.916 partidos)",
-    "Goles esperados: Totti 2.84 · Ganger_29 2.67",
-    "Ganador: Totti 43% · empate 20% · Ganger_29 37%",
-    "Total: más de 5.5 goles 47% · menos 53%",
-    "Hándicap Totti: −1.5 28% · −2.5 16%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Totti ✅❌➖✅❌ | Ganger_29 ➖✅➖❌✅",
-    "• Partidos: Totti 898 | Ganger_29 751",
-    "• Liga: FA Cup",
-    "• Unibet: 1 2.80 · X 3.40 · 2 2.00 (sin margen 31%/26%/43%) · ventaja +21%. Sin stake hasta demostrar ROI con estas cuotas.",
-    "• En España: LeoVegas España 2.80 (+21%) · Paf España 2.80 (+21%)"
-   ],
    "context": "EA FC Esoccer Battle Totti vs Ganger_29 (FA Cup): goles esperados 2.84-2.67, 1X2 43%/20%/37%. Sin cuotas de casa.",
    "captured": "2026-11-05T11:42",
    "version": "ec6db12",
@@ -26498,6 +26531,111 @@
    "context": "EA FC Esoccer Battle Ganger_29 vs Tesla (FA Cup): goles esperados 2.25-4.06, 1X2 14%/14%/72%. Sin cuotas de casa.",
    "captured": "2026-11-05T12:00",
    "version": "d70b486",
+   "bajas": "",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "A",
+   "pick": "Tesla",
+   "odds": 2.15,
+   "book": "Unibet",
+   "implied": 0.405,
+   "edge": 0.257,
+   "sin_stake": true,
+   "p": 0.585,
+   "key": "fc|2364493",
+   "match": "Maxa vs Tesla",
+   "start": "2026-11-05T12:46:00+00:00",
+   "league": "🎮⚽ FC 27 · FA Cup",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 56.956 partidos)",
+    "Goles esperados: Maxa 2.81 · Tesla 3.82",
+    "Ganador: Maxa 25% · empate 17% · Tesla 58%",
+    "Total: más de 6.5 goles 49% · menos 51%",
+    "Hándicap Tesla: −1.5 42% · −2.5 27%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Maxa ✅❌➖✅✅ | Tesla ✅➖✅❌✅",
+    "• Partidos: Maxa 852 | Tesla 899",
+    "• Liga: FA Cup",
+    "• Unibet: 1 2.38 · X 3.80 · 2 2.15 (sin margen 37%/23%/40%) · ventaja +26%. Sin stake hasta demostrar ROI con estas cuotas.",
+    "• En España: LeoVegas España 2.15 (+26%) · Paf España 2.15 (+26%)"
+   ],
+   "context": "EA FC Esoccer Battle Maxa vs Tesla (FA Cup): goles esperados 2.81-3.82, 1X2 25%/17%/58%. Sin cuotas de casa.",
+   "captured": "2026-11-05T12:14",
+   "version": "8aae8c6",
+   "bajas": "",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "H",
+   "pick": "dm1trena",
+   "odds": 3.6,
+   "book": "Unibet",
+   "implied": 0.243,
+   "edge": 0.183,
+   "sin_stake": true,
+   "p": 0.329,
+   "key": "fc|2363640",
+   "match": "dm1trena vs Revange",
+   "start": "2026-11-05T12:40:00+00:00",
+   "league": "🎮⚽ FC 27 · LaLiga",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 56.956 partidos)",
+    "Goles esperados: dm1trena 2.36 · Revange 2.70",
+    "Ganador: dm1trena 33% · empate 21% · Revange 46%",
+    "Total: más de 5.5 goles 40% · menos 60%",
+    "Hándicap Revange: −1.5 30% · −2.5 16%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: dm1trena ❌✅➖❌➖ | Revange ✅❌❌✅❌",
+    "• Partidos: dm1trena 1021 | Revange 564",
+    "• Liga: LaLiga",
+    "• Unibet: 1 3.60 · X 3.50 · 2 1.72 (sin margen 24%/25%/51%) · ventaja +18%. Sin stake hasta demostrar ROI con estas cuotas.",
+    "• En España: LeoVegas España 3.60 (+18%) · Paf España 3.60 (+18%)"
+   ],
+   "context": "EA FC Esoccer Battle dm1trena vs Revange (LaLiga): goles esperados 2.36-2.70, 1X2 33%/21%/46%. Sin cuotas de casa.",
+   "captured": "2026-11-05T12:14",
+   "version": "8aae8c6",
+   "bajas": "",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "H",
+   "pick": "Taz",
+   "odds": 2.02,
+   "book": "Unibet",
+   "implied": 0.431,
+   "edge": 0.18,
+   "sin_stake": true,
+   "p": 0.584,
+   "key": "fc|2364494",
+   "match": "Taz vs Ganger_29",
+   "start": "2026-11-05T12:46:00+00:00",
+   "league": "🎮⚽ FC 27 · FA Cup",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 56.956 partidos)",
+    "Goles esperados: Taz 3.66 · Ganger_29 2.67",
+    "Ganador: Taz 58% · empate 17% · Ganger_29 24%",
+    "Total: más de 6.5 goles 45% · menos 55%",
+    "Hándicap Taz: −1.5 41% · −2.5 27%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Taz ✅✅✅❌➖ | Ganger_29 ❌✅➖➖❌",
+    "• Partidos: Taz 885 | Ganger_29 759",
+    "• Liga: FA Cup",
+    "• Unibet: 1 2.02 · X 4.50 · 2 2.32 (sin margen 43%/19%/38%) · ventaja +18%. Sin stake hasta demostrar ROI con estas cuotas.",
+    "• En España: LeoVegas España 2.02 (+18%) · Paf España 2.02 (+18%)"
+   ],
+   "context": "EA FC Esoccer Battle Taz vs Ganger_29 (FA Cup): goles esperados 3.66-2.67, 1X2 58%/17%/24%. Sin cuotas de casa.",
+   "captured": "2026-11-05T12:14",
+   "version": "8aae8c6",
    "bajas": "",
    "considered": true,
    "placed": false

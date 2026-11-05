@@ -34562,3 +34562,6 @@ game_id,match_id,slug,date,tier,bo,tournament_id,tournament,t1_id,t2_id,team1,te
 192267,133171,isurus-gaming-cs-go-vs-underworld-04-11-2026,2026-11-04T22:15:00.000+00:00,b,3,5624,CCT South America 2026 Series 8,591,25139,Isurus,Underworld,3,de_dust2,591,13.0,4.0
 192268,133171,isurus-gaming-cs-go-vs-underworld-04-11-2026,2026-11-04T22:15:00.000+00:00,b,3,5624,CCT South America 2026 Series 8,591,25139,Isurus,Underworld,2,de_inferno,25139,13.0,10.0
 192269,133171,isurus-gaming-cs-go-vs-underworld-04-11-2026,2026-11-04T22:15:00.000+00:00,b,3,5624,CCT South America 2026 Series 8,591,25139,Isurus,Underworld,1,de_mirage,591,13.0,1.0
+192402,133216,genone-vs-maybe-ukr-05-11-2026,2026-11-05T09:00:00.000+00:00,b,3,5628,CCT Europe 2026 Series 13,1406,24681,GenOne,MAYBE,3,de_nuke,24681,13.0,6.0
+192403,133216,genone-vs-maybe-ukr-05-11-2026,2026-11-05T09:00:00.000+00:00,b,3,5628,CCT Europe 2026 Series 13,1406,24681,GenOne,MAYBE,2,de_dust2,24681,13.0,10.0
+192404,133216,genone-vs-maybe-ukr-05-11-2026,2026-11-05T09:00:00.000+00:00,b,3,5628,CCT Europe 2026 Series 13,1406,24681,GenOne,MAYBE,1,de_ancient,1406,13.0,10.0
