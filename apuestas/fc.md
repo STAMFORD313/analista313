@@ -1,6 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 05/11/2026 10:39 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 05/11/2026 10:44 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Fireline vs Kril — 05/11 · 10:51
 
@@ -57,4 +57,42 @@ Hándicap Totti: −1.5 29% · −2.5 16%
 • Liga: World Cup A  
 • Unibet: 1 2.95 · X 3.50 · 2 1.91 (sin margen 30%/25%/46%) · ventaja +34%. Sin stake hasta demostrar ROI con estas cuotas.  
 • En España: LeoVegas España 2.95 (+34%) · Paf España 2.95 (+34%)  
+
+## Ganger_29 vs Tesla — 05/11 · 11:12
+
+👀 candidata · 🎮⚽ FC 27 · World Cup A · **Gana Tesla** @ **1.60** (Unibet) · prob 71% vs casas 55% · ventaja +14%
+
+- ✅ Valor: ventaja +14% (mín. 11% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 56.816 partidos)  
+Goles esperados: Ganger_29 2.19 · Tesla 3.94  
+Ganador: Ganger_29 15% · empate 14% · Tesla 71%  
+Total: más de 6.5 goles 41% · menos 59%  
+Hándicap Tesla: −1.5 53% · −2.5 37%  
+🔎 **Claves**  
+• Forma: Ganger_29 ➖✅➖❌✅ | Tesla ❌✅✅✅❌  
+• Partidos: Ganger_29 751 | Tesla 891  
+• Liga: World Cup A  
+• Unibet: 1 3.40 · X 4.60 · 2 1.60 (sin margen 26%/19%/55%) · ventaja +14%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 1.60 (+14%) · Paf España 1.60 (+14%)  
+
+## Uncle vs KraftVK — 05/11 · 11:15
+
+👀 candidata · 🎮⚽ FC 27 · World Cup B · **Gana KraftVK** @ **2.38** (Unibet) · prob 49% vs casas 36% · ventaja +17%
+
+- ✅ Valor: ventaja +17% (mín. 13% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 56.816 partidos)  
+Goles esperados: Uncle 2.71 · KraftVK 3.20  
+Ganador: Uncle 32% · empate 19% · KraftVK 49%  
+Total: más de 5.5 goles 54% · menos 46%  
+Hándicap KraftVK: −1.5 33% · −2.5 20%  
+🔎 **Claves**  
+• Forma: Uncle ➖✅✅❌➖ | KraftVK ❌❌✅✅✅  
+• Partidos: Uncle 650 | KraftVK 916  
+• Liga: World Cup B  
+• Unibet: 1 2.55 · X 2.95 · 2 2.38 (sin margen 34%/29%/36%) · ventaja +17%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.38 (+17%) · Paf España 2.38 (+17%)  
 
