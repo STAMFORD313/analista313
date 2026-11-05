@@ -1472,3 +1472,13 @@ print("ok Pinnacle sin juveniles")
 
 assert _FU.fm_compact({"general": None, "header": {"teams": [None, None]}, "content": {"stats": {"Periods": {"All": None}}}})["stats"] == {}
 print("ok FotMob con huecos en la respuesta")
+
+_cl0 = dict(_PN._CLOSE)
+try:
+    _PN._CLOSE["americano"] = pd.DataFrame([{"matchup": 1, "start": "2026-11-06T01:15:00+00:00", "league": "NFL", "home": "Baltimore Ravens", "away": "Jacksonville Jaguars",
+        "market": "spread", "line": 8.5, "o_home": 1.9, "o_away": 1.9, "o_draw": None, "o_over": None, "o_under": None, "seen": ""}])
+    _sg = {"key": "nfl|x", "match": "Baltimore Ravens vs Jacksonville Jaguars", "start": "2026-11-06T01:15:00+00:00"}
+    assert _PN.close_p({**_sg, "market": "sph", "line": 8.5}) == 0.5 and _PN.close_p({**_sg, "market": "spa", "line": -8.5}) == 0.5
+    assert _PN.close_p({**_sg, "market": "sph", "line": 7.5}) is None
+finally: _PN._CLOSE.clear(); _PN._CLOSE.update(_cl0)
+print("ok CLV de hándicap con Pinnacle")

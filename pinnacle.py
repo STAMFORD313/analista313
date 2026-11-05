@@ -108,12 +108,17 @@ def close_p(s):
     d, (home, away), t = _CLOSE[f], s["match"].split(" vs ", 1), pd.Timestamp(s["start"])
     m = s["market"]
     side = {"home": "h", "H": "h", "t1": "h", "away": "a", "A": "a", "t2": "a", "D": "d",
-            "over": "o", "O25": "o", "under": "u", "U25": "u"}.get(m)
+            "over": "o", "O25": "o", "under": "u", "U25": "u", "sph": "sh", "spa": "sa"}.get(m)
     if not side: return None
-    mk = "total" if side in "ou" else "moneyline"
+    mk = "total" if side in ("o", "u") else "spread" if side in ("sh", "sa") else "moneyline"
     for r in d[d.market == mk].itertuples():
         if abs((pd.Timestamp(r.start) - t).total_seconds()) > 3 * 3600: continue
         if not (A.find_team(home, [r.home]) and A.find_team(away, [r.away])): continue
+        if mk == "spread":  # hándicap: solo si Pinnacle cerró en la misma línea (la del local; la del visitante es la opuesta)
+            if s.get("line") is None or pd.isna(r.line) or pd.isna(r.o_home) or pd.isna(r.o_away): return None
+            if abs(r.line - (s["line"] if side == "sh" else -s["line"])) > 1e-9: return None
+            ih, ia = 1 / r.o_home, 1 / r.o_away
+            return round((ih if side == "sh" else ia) / (ih + ia), 4)
         if mk == "total":
             line = s.get("line") or (2.5 if m in ("O25", "U25") else None)
             if line is None or r.line != line or pd.isna(r.o_over) or pd.isna(r.o_under): return None
