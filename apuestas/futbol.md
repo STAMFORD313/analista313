@@ -1,6 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 05/11/2026 03:12 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 05/11/2026 03:17 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Aldosivi vs River Plate — 05/11 · 19:00
 

@@ -1,78 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 05/11/2026 03:12 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Kavviro vs tizzy — 05/11 · 03:15
-
-👀 candidata · 🎮⚽ FC 27 · Champions League B · **Empate** @ **5.20** (Unibet) · prob 20% vs casas 17% · ventaja +2%
-
-- ❌ Valor: ventaja +2% (mín. 9% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 56.488 partidos)  
-Goles esperados: Kavviro 2.98 · tizzy 2.90  
-Ganador: Kavviro 42% · empate 20% · tizzy 39%  
-Total: más de 5.5 goles 53% · menos 47%  
-Hándicap Kavviro: −1.5 27% · −2.5 15%  
-🔎 **Claves**  
-• Forma: Kavviro ❌❌✅❌➖ | tizzy ✅✅✅❌✅  
-• Partidos: Kavviro 745 | tizzy 337  
-• Liga: Champions League B  
-• Unibet: 1 2.00 · X 5.20 · 2 2.20 (sin margen 44%/17%/40%) · ventaja +2%. Sin stake hasta demostrar ROI con estas cuotas.  
-
-## Sheva vs Koss — 05/11 · 03:16
-
-👀 candidata · 🎮⚽ FC 27 · Volta International A · **Gana Sheva** @ **1.30** (cuota justa (sin casa)) · prob 77% vs casas 77% · ventaja +0%
-
-- ❌ Valor: ventaja +0% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 56.396 partidos)  
-Goles esperados: Sheva 3.66 · Koss 1.71  
-Ganador: Sheva 77% · empate 13% · Koss 10%  
-Total: más de 5.5 goles 45% · menos 55%  
-Hándicap Sheva: −1.5 57% · −2.5 39%  
-🔎 **Claves**  
-• Forma: Sheva ❌✅✅❌❌ | Koss ✅✅❌➖✅  
-• Partidos: Sheva 1334 | Koss 1064  
-• Liga: Volta International A  
-• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
-
-## Senya vs pimchik — 05/11 · 03:16
-
-👀 candidata · 🎮⚽ FC 27 · Volta International A · **Gana pimchik** @ **1.36** (cuota justa (sin casa)) · prob 73% vs casas 73% · ventaja +0%
-
-- ❌ Valor: ventaja +0% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 56.396 partidos)  
-Goles esperados: Senya 2.18 · pimchik 3.92  
-Ganador: Senya 13% · empate 14% · pimchik 73%  
-Total: más de 6.5 goles 41% · menos 59%  
-Hándicap pimchik: −1.5 53% · −2.5 37%  
-🔎 **Claves**  
-• Forma: Senya ❌❌❌❌❌ | pimchik ✅➖➖✅✅  
-• Partidos: Senya 1319 | pimchik 928  
-• Liga: Volta International A  
-• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
-
-## Inquisitor vs hotShot — 05/11 · 03:16
-
-👀 candidata · 🎮⚽ FC 27 · Champions League A · **Gana Inquisitor** @ **2.28** (Unibet) · prob 50% vs casas 38% · ventaja +13%
-
-- ✅ Valor: ventaja +13% (mín. 12% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 56.488 partidos)  
-Goles esperados: Inquisitor 2.35 · hotShot 1.83  
-Ganador: Inquisitor 50% · empate 23% · hotShot 27%  
-Total: más de 4.5 goles 41% · menos 59%  
-Hándicap Inquisitor: −1.5 31% · −2.5 16%  
-🔎 **Claves**  
-• Forma: Inquisitor ❌❌✅❌➖ | hotShot ✅❌➖✅❌  
-• Partidos: Inquisitor 536 | hotShot 500  
-• Liga: Champions League A  
-• Unibet: 1 2.28 · X 2.75 · 2 2.80 (sin margen 38%/31%/31%) · ventaja +13%. Sin stake hasta demostrar ROI con estas cuotas.  
+Actualizado 05/11/2026 03:17 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## k0mych vs Solya — 05/11 · 03:26
 
@@ -128,6 +56,24 @@ Hándicap hotShot: −1.5 29% · −2.5 14%
 • Liga: Champions League A  
 • Unibet: 1 1.89 · X 2.55 · 2 4.40 (sin margen 46%/34%/20%) · ventaja +27%. Sin stake hasta demostrar ROI con estas cuotas.  
 
+## Kray vs Inquisitor — 05/11 · 03:28
+
+👀 candidata · 🎮⚽ FC 27 · Champions League A · **Empate** @ **5.20** (Unibet) · prob 19% vs casas 17% · ventaja +1%
+
+- ❌ Valor: ventaja +1% (mín. 8% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 56.488 partidos)  
+Goles esperados: Kray 2.95 · Inquisitor 3.00  
+Ganador: Kray 39% · empate 19% · Inquisitor 42%  
+Total: más de 5.5 goles 55% · menos 45%  
+Hándicap Inquisitor: −1.5 27% · −2.5 15%  
+🔎 **Claves**  
+• Forma: Kray ✅✅✅➖➖ | Inquisitor ❌❌✅❌➖  
+• Partidos: Kray 535 | Inquisitor 536  
+• Liga: Champions League A  
+• Unibet: 1 2.45 · X 5.20 · 2 1.85 (sin margen 36%/17%/47%) · ventaja +1%. Sin stake hasta demostrar ROI con estas cuotas.  
+
 ## Sheva vs Senya — 05/11 · 03:34
 
 👀 candidata · 🎮⚽ FC 27 · Volta International A · **Gana Sheva** @ **1.23** (cuota justa (sin casa)) · prob 81% vs casas 81% · ventaja +0%
@@ -145,6 +91,42 @@ Hándicap Sheva: −1.5 61% · −2.5 44%
 • Partidos: Sheva 1334 | Senya 1319  
 • Liga: Volta International A  
 • Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
+
+## Grellz vs tizzy — 05/11 · 03:39
+
+👀 candidata · 🎮⚽ FC 27 · Champions League B · **Empate** @ **5.80** (Unibet) · prob 18% vs casas 15% · ventaja +3%
+
+- ❌ Valor: ventaja +3% (mín. 9% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 56.488 partidos)  
+Goles esperados: Grellz 3.42 · tizzy 3.51  
+Ganador: Grellz 39% · empate 18% · tizzy 43%  
+Total: más de 6.5 goles 54% · menos 46%  
+Hándicap tizzy: −1.5 29% · −2.5 18%  
+🔎 **Claves**  
+• Forma: Grellz ✅✅✅✅➖ | tizzy ✅✅✅❌✅  
+• Partidos: Grellz 999 | tizzy 337  
+• Liga: Champions League B  
+• Unibet: 1 2.18 · X 5.80 · 2 1.96 (sin margen 40%/15%/45%) · ventaja +3%. Sin stake hasta demostrar ROI con estas cuotas.  
+
+## Simaponika vs kkikus — 05/11 · 03:39
+
+👀 candidata · 🎮⚽ FC 27 · Champions League B · **Empate** @ **5.80** (Unibet) · prob 18% vs casas 15% · ventaja +2%
+
+- ❌ Valor: ventaja +2% (mín. 9% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 56.488 partidos)  
+Goles esperados: Simaponika 3.41 · kkikus 2.53  
+Ganador: Simaponika 59% · empate 18% · kkikus 23%  
+Total: más de 5.5 goles 54% · menos 46%  
+Hándicap Simaponika: −1.5 39% · −2.5 25%  
+🔎 **Claves**  
+• Forma: Simaponika ❌❌❌✅✅ | kkikus ❌❌❌❌❌  
+• Partidos: Simaponika 1040 | kkikus 880  
+• Liga: Champions League B  
+• Unibet: 1 1.36 · X 5.80 · 2 4.00 (sin margen 64%/15%/22%) · ventaja +2%. Sin stake hasta demostrar ROI con estas cuotas.  
 
 ## OG vs Inquisitor — 05/11 · 03:40
 
