@@ -186,3 +186,4 @@
 - 2026-11-05: arreglado el experto datos_fotmob (fallaba desde el 4-nov 20:12 con NoneType: respuestas con huecos de FotMob); comprobado en Actions: vuelve a guardar partidos.
 - 2026-11-05: CLV de hándicaps (sph/spa: 60 señales de NBA/NFL/universitario) con el cierre de Pinnacle cuando cierra en la misma línea. Revisión semanal: ningún segmento apostado; sin cambios de stake.
 - 2026-11-05: combinadas, crear apuesta y barridos buscan partidos en las 28 ligas con datos de ESPN (antes 13): Argentina, Brasil, México, MLS, Japón, segundas divisiones, Escocia, Grecia, Austria, nórdicas y Suiza.
+- 2026-11-05: Smarkets exige ≥ 5 £ apostables (no solo 20 £ de pago): en cuotas altas el filtro dejaba pasar ofertas de 1-2 £ que daban ventajas falsas de +45/+50 %.

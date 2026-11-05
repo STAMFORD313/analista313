@@ -8,7 +8,14 @@ import requests
 import analyst as A
 
 API = "https://api.smarkets.com/v3"
-COMMISSION, MIN_QTY = 0.02, 200_000  # cantidad en unidades de Smarkets (≈ 20 £ disponibles)
+COMMISSION, MIN_QTY = 0.02, 200_000  # cantidad en unidades de Smarkets (≈ 20 £ de PAGO disponibles)
+MIN_STAKE = 5.0  # £ que se pueden APOSTAR a ese precio (pago × prob.): en cuotas altas 20 £ de pago son 1-2 £ de apuesta
+
+
+def liquid(o):
+    """Oferta con dinero de verdad: ≥ MIN_QTY de pago y ≥ MIN_STAKE £ apostables (quantity/10⁴ £ × price/10⁴)."""
+    q, pr = o.get("quantity", 0), o.get("price") or 0
+    return bool(pr) and q >= MIN_QTY and q * pr / 1e8 >= MIN_STAKE
 
 
 def get(path, **params):
@@ -52,7 +59,7 @@ def football_ou(hours=48, line="2.5"):
         for c in cts:
             side = {"OVER": "O", "UNDER": "U"}.get((c.get("contract_type") or {}).get("name")) or \
                    ("O" if c.get("name", "").lower().startswith("over") else "U" if c.get("name", "").lower().startswith("under") else None)
-            offers = [o for o in (quotes.get(c["id"]) or {}).get("offers", []) if o.get("quantity", 0) >= MIN_QTY and o.get("price")]
+            offers = [o for o in (quotes.get(c["id"]) or {}).get("offers", []) if liquid(o)]
             if side and offers:
                 o = 10000 / min(x["price"] for x in offers)
                 by.setdefault(c["market_id"], {})[side] = round(1 + (o - 1) * (1 - COMMISSION), 3)
@@ -77,7 +84,7 @@ def football_1x2(hours=48):
         by = {}
         for c in cts:
             side = {"HOME": "H", "DRAW": "D", "AWAY": "A"}.get((c.get("contract_type") or {}).get("name"))
-            offers = [o for o in (quotes.get(c["id"]) or {}).get("offers", []) if o.get("quantity", 0) >= MIN_QTY and o.get("price")]
+            offers = [o for o in (quotes.get(c["id"]) or {}).get("offers", []) if liquid(o)]
             if side and offers:
                 o = 10000 / min(x["price"] for x in offers)
                 by.setdefault(c["market_id"], {})[side] = round(1 + (o - 1) * (1 - COMMISSION), 3)

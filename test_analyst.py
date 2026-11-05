@@ -1482,3 +1482,8 @@ try:
     assert _PN.close_p({**_sg, "market": "sph", "line": 7.5}) is None
 finally: _PN._CLOSE.clear(); _PN._CLOSE.update(_cl0)
 print("ok CLV de hándicap con Pinnacle")
+
+import smarkets as _SMK
+assert _SMK.liquid({"quantity": 1_000_000, "price": 5000}) and not _SMK.liquid({"quantity": 300_000, "price": 600})  # 30 £ de pago a 16.7: 1.8 £ apostables
+assert not _SMK.liquid({"quantity": 100_000, "price": 5000})
+print("ok liquidez de Smarkets en £ apostables")
