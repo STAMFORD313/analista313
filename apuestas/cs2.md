@@ -1,26 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 05/11/2026 19:16 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## QUINTESSÊNCIA vs Grêmio — 05/11 · 19:30
-
-👀 candidata · 🎮 CS2 · Gamers Club Liga Série A: October 2026 · **Gana QUINTESSÊNCIA** @ **1.93** (Thunderpick) · prob 55% vs casas 48% · ventaja +6%
-
-- ❌ Valor: ventaja +6% (mín. 9% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 76.439 partidos)  
-Mapa: QUINTESSÊNCIA 58% · Serie BO3: QUINTESSÊNCIA 62% - 38% Grêmio  
-Casas: QUINTESSÊNCIA 48% · Grêmio 52%  
-🔎 **Claves**  
-• Elo: QUINTESSÊNCIA 1560 (63 series) | Grêmio 1470 (48 series)  
-• Forma: QUINTESSÊNCIA ❌✅❌❌✅ | Grêmio ✅✅❌✅✅  
-• H2H: 3: 1-2  
-• Torneo: Gamers Club Liga Série A: October 2026 (nivel C)  
-• Cambios de plantilla: ninguno  
-🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
-• QUINTESSÊNCIA gana 2-1: 25% → cuota justa 4.06  
-• Grêmio gana 2-1: 18% → cuota justa 5.69  
+Actualizado 05/11/2026 19:33 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## RUSH vs MEIA NOITE — 05/11 · 22:00
 

@@ -1,23 +1,23 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 05/11/2026 19:16 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 05/11/2026 19:33 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## pikalicaaa vs Jankulovski — 05/11 · 19:23
+## Dicca vs Jankulovski — 05/11 · 20:07
 
-👀 candidata · 🎮⚽ FC 27 · Champions League A · **Empate** @ **4.70** (Unibet) · prob 24% vs casas 19% · ventaja +12%
+👀 candidata · 🎮⚽ FC 27 · Serie A · **Empate** @ **5.60** (Unibet) · prob 19% vs casas 16% · ventaja +8%
 
-- ✅ Valor: ventaja +12% (mín. 11% con la incertidumbre, máx. 30%)
+- ❌ Valor: ventaja +8% (mín. 10% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 57.320 partidos)  
-Goles esperados: pikalicaaa 2.41 · Jankulovski 2.27  
-Ganador: pikalicaaa 41% · empate 24% · Jankulovski 35%  
-Total: más de 4.5 goles 50% · menos 50%  
-Hándicap pikalicaaa: −1.5 26% · −2.5 13%  
+📊 **Escenarios** (Poisson por jugador, 57.359 partidos)  
+Goles esperados: Dicca 3.06 · Jankulovski 2.03  
+Ganador: Dicca 60% · empate 19% · Jankulovski 21%  
+Total: más de 5.5 goles 40% · menos 60%  
+Hándicap Dicca: −1.5 41% · −2.5 25%  
 🔎 **Claves**  
-• Forma: pikalicaaa ➖✅✅❌✅ | Jankulovski ➖❌❌❌❌  
-• Partidos: pikalicaaa 579 | Jankulovski 780  
-• Liga: Champions League A  
-• Unibet: 1 2.40 · X 4.70 · 2 1.95 (sin margen 36%/19%/45%) · ventaja +12%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 4.70 (+12%) · Paf España 4.70 (+12%)  
+• Forma: Dicca ❌✅➖✅➖ | Jankulovski ❌❌❌❌✅  
+• Partidos: Dicca 640 | Jankulovski 783  
+• Liga: Serie A  
+• Unibet: 1 1.67 · X 5.60 · 2 2.75 (sin margen 52%/16%/32%) · ventaja +8%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 5.60 (+8%) · Paf España 5.60 (+8%)  
 
