@@ -1,6 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 05/11/2026 09:40 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 05/11/2026 09:52 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Kril vs Fireline — 05/11 · 10:06
 
@@ -19,6 +19,24 @@ Hándicap Kril: −1.5 65% · −2.5 50%
 • Partidos: Kril 285 | Fireline 88  
 • Liga: Volta World Cup B  
 • Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
+
+## Uncle vs LaikingDast — 05/11 · 10:07
+
+👀 candidata · 🎮⚽ FC 27 · Serie A · **Gana Uncle** @ **2.95** (Unibet) · prob 42% vs casas 29% · ventaja +22%
+
+- ✅ Valor: ventaja +22% (mín. 14% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 56.798 partidos)  
+Goles esperados: Uncle 2.56 · LaikingDast 2.46  
+Ganador: Uncle 42% · empate 21% · LaikingDast 37%  
+Total: más de 5.5 goles 39% · menos 61%  
+Hándicap Uncle: −1.5 26% · −2.5 14%  
+🔎 **Claves**  
+• Forma: Uncle ➖✅✅❌➖ | LaikingDast ❌✅❌❌❌  
+• Partidos: Uncle 650 | LaikingDast 456  
+• Liga: Serie A  
+• Unibet: 1 2.95 · X 2.55 · 2 2.38 (sin margen 29%/34%/36%) · ventaja +22%. Sin stake hasta demostrar ROI con estas cuotas.  
 
 ## Revange vs dm1trena — 05/11 · 10:10
 
@@ -55,6 +73,24 @@ Hándicap Tesla: −1.5 45% · −2.5 30%
 • Partidos: Tesla 884 | Maxa 837  
 • Liga: Ligue 1  
 • Unibet: 1 2.00 · X 3.60 · 2 2.70 (sin margen 44%/24%/32%) · ventaja +23%. Sin stake hasta demostrar ROI con estas cuotas.  
+
+## Ganger_29 vs Taz — 05/11 · 10:16
+
+👀 candidata · 🎮⚽ FC 27 · Ligue 1 · **Gana Taz** @ **1.98** (Unibet) · prob 62% vs casas 44% · ventaja +22%
+
+- ✅ Valor: ventaja +22% (mín. 14% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 56.798 partidos)  
+Goles esperados: Ganger_29 2.61 · Taz 3.78  
+Ganador: Ganger_29 22% · empate 16% · Taz 62%  
+Total: más de 6.5 goles 46% · menos 54%  
+Hándicap Taz: −1.5 44% · −2.5 29%  
+🔎 **Claves**  
+• Forma: Ganger_29 ❌➖❌❌❌ | Taz ✅➖➖❌✅  
+• Partidos: Ganger_29 744 | Taz 869  
+• Liga: Ligue 1  
+• Unibet: 1 2.30 · X 4.90 · 2 1.98 (sin margen 38%/18%/44%) · ventaja +22%. Sin stake hasta demostrar ROI con estas cuotas.  
 
 ## Dan_dragonio vs Kril — 05/11 · 10:24
 
