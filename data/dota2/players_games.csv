@@ -21391,3 +21391,6 @@ game_id,match_id,slug,date,tier,bo,tournament_id,tournament,t1_id,t2_id,team1,te
 33035,132368,cyberhero-vs-l1ga-team-04-11-2026,2026-11-04T16:45:00.000+00:00,b,3,6200,EPL Masters III,15098,25398,HULIGANI,CyberHero,2,,15098,34,13
 33039,132369,gamerlegion-dota2-vs-l1ga-team-04-11-2026,2026-11-04T19:00:00.000+00:00,b,3,6200,EPL Masters III,22027,15098,GamerLegion,HULIGANI,1,,22027,29,13
 33038,132369,gamerlegion-dota2-vs-l1ga-team-04-11-2026,2026-11-04T19:00:00.000+00:00,b,3,6200,EPL Masters III,22027,15098,GamerLegion,HULIGANI,2,,22027,38,14
+33302,133112,team-allied-vs-team-lynx-04-11-2026,2026-11-04T20:00:00.000+00:00,b,3,6263,Asgard Championship Season 2,25634,19913,Allied,Team Lynx,1,,25634,48,42
+33301,133112,team-allied-vs-team-lynx-04-11-2026,2026-11-04T20:00:00.000+00:00,b,3,6263,Asgard Championship Season 2,25634,19913,Allied,Team Lynx,2,,19913,42,35
+33300,133112,team-allied-vs-team-lynx-04-11-2026,2026-11-04T20:00:00.000+00:00,b,3,6263,Asgard Championship Season 2,25634,19913,Allied,Team Lynx,3,,19913,44,19
