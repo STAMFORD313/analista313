@@ -1,62 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 05/11/2026 10:44 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Fireline vs Kril — 05/11 · 10:51
-
-👀 candidata · 🎮⚽ FC 27 · Volta World Cup B · **Gana Kril** @ **1.20** (cuota justa (sin casa)) · prob 83% vs casas 83% · ventaja +0%
-
-- ❌ Valor: ventaja +0% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 56.798 partidos)  
-Goles esperados: Fireline 2.27 · Kril 4.89  
-Ganador: Fireline 8% · empate 9% · Kril 83%  
-Total: más de 7.5 goles 43% · menos 57%  
-Hándicap Kril: −1.5 66% · −2.5 51%  
-🔎 **Claves**  
-• Forma: Fireline ❌➖✅❌❌ | Kril ✅❌✅✅✅  
-• Partidos: Fireline 96 | Kril 293  
-• Liga: Volta World Cup B  
-• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
-
-## dm1trena vs BlackStar98 — 05/11 · 10:58
-
-👀 candidata · 🎮⚽ FC 27 · Champions League AFC · **Gana dm1trena** @ **3.90** (Unibet) · prob 28% vs casas 22% · ventaja +7%
-
-- ❌ Valor: ventaja +7% (mín. 10% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 56.798 partidos)  
-Goles esperados: dm1trena 1.94 · BlackStar98 2.50  
-Ganador: dm1trena 27% · empate 22% · BlackStar98 50%  
-Total: más de 4.5 goles 46% · menos 54%  
-Hándicap BlackStar98: −1.5 32% · −2.5 17%  
-🔎 **Claves**  
-• Forma: dm1trena ✅❌➖✅❌ | BlackStar98 ❌✅➖✅✅  
-• Partidos: dm1trena 1013 | BlackStar98 270  
-• Liga: Champions League AFC  
-• Unibet: 1 3.90 · X 3.05 · 2 1.79 (sin margen 22%/29%/49%) · ventaja +7%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 3.90 (+7%) · Paf España 3.90 (+7%)  
-
-## Totti vs Ganger_29 — 05/11 · 11:00
-
-👀 candidata · 🎮⚽ FC 27 · World Cup A · **Gana Totti** @ **2.95** (Unibet) · prob 45% vs casas 30% · ventaja +34%
-
-- ❌ Valor: ventaja +34% (mín. 17% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 56.798 partidos)  
-Goles esperados: Totti 2.79 · Ganger_29 2.50  
-Ganador: Totti 45% · empate 21% · Ganger_29 34%  
-Total: más de 5.5 goles 44% · menos 56%  
-Hándicap Totti: −1.5 29% · −2.5 16%  
-🔎 **Claves**  
-• Forma: Totti ❌➖➖✅❌ | Ganger_29 ❌➖❌❌❌  
-• Partidos: Totti 891 | Ganger_29 744  
-• Liga: World Cup A  
-• Unibet: 1 2.95 · X 3.50 · 2 1.91 (sin margen 30%/25%/46%) · ventaja +34%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.95 (+34%) · Paf España 2.95 (+34%)  
+Actualizado 05/11/2026 11:11 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Ganger_29 vs Tesla — 05/11 · 11:12
 
@@ -95,4 +39,61 @@ Hándicap KraftVK: −1.5 33% · −2.5 20%
 • Liga: World Cup B  
 • Unibet: 1 2.55 · X 2.95 · 2 2.38 (sin margen 34%/29%/36%) · ventaja +17%. Sin stake hasta demostrar ROI con estas cuotas.  
 • En España: LeoVegas España 2.38 (+17%) · Paf España 2.38 (+17%)  
+
+## LaikingDast vs Uncle — 05/11 · 11:27
+
+👀 candidata · 🎮⚽ FC 27 · World Cup B · **Gana LaikingDast** @ **3.25** (Unibet) · prob 37% vs casas 27% · ventaja +21%
+
+- ✅ Valor: ventaja +21% (mín. 14% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 56.896 partidos)  
+Goles esperados: LaikingDast 2.51 · Uncle 2.61  
+Ganador: LaikingDast 37% · empate 21% · Uncle 41%  
+Total: más de 5.5 goles 41% · menos 59%  
+Hándicap Uncle: −1.5 26% · −2.5 14%  
+🔎 **Claves**  
+• Forma: LaikingDast ➖❌✅❌❌ | Uncle ✅❌❌➖➖  
+• Partidos: LaikingDast 464 | Uncle 658  
+• Liga: World Cup B  
+• Unibet: 1 3.25 · X 2.60 · 2 2.18 (sin margen 27%/33%/40%) · ventaja +21%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 3.25 (+21%) · Paf España 3.25 (+21%)  
+
+## dm1trena vs Revange — 05/11 · 11:30
+
+👀 candidata · 🎮⚽ FC 27 · Bundesliga · **Gana dm1trena** @ **4.50** (Unibet) · prob 33% vs casas 20% · ventaja +48%
+
+- ❌ Valor: ventaja +48% (mín. 20% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 56.896 partidos)  
+Goles esperados: dm1trena 2.34 · Revange 2.68  
+Ganador: dm1trena 33% · empate 21% · Revange 46%  
+Total: más de 5.5 goles 39% · menos 61%  
+Hándicap Revange: −1.5 29% · −2.5 16%  
+🔎 **Claves**  
+• Forma: dm1trena ❌✅➖❌➖ | Revange ✅❌❌✅❌  
+• Partidos: dm1trena 1021 | Revange 564  
+• Liga: Bundesliga  
+• Unibet: 1 4.50 · X 4.10 · 2 1.50 (sin margen 20%/22%/59%) · ventaja +48%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 4.50 (+48%) · Paf España 4.50 (+48%)  
+
+## Maxa vs Tesla — 05/11 · 11:36
+
+👀 candidata · 🎮⚽ FC 27 · World Cup A · **Gana Tesla** @ **2.14** (Unibet) · prob 61% vs casas 40% · ventaja +30%
+
+- ✅ Valor: ventaja +30% (mín. 16% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 56.896 partidos)  
+Goles esperados: Maxa 2.69 · Tesla 3.82  
+Ganador: Maxa 23% · empate 16% · Tesla 61%  
+Total: más de 6.5 goles 48% · menos 52%  
+Hándicap Tesla: −1.5 44% · −2.5 29%  
+🔎 **Claves**  
+• Forma: Maxa ✅❌❌✅✅ | Tesla ❌✅✅✅❌  
+• Partidos: Maxa 844 | Tesla 891  
+• Liga: World Cup A  
+• Unibet: 1 2.43 · X 3.65 · 2 2.14 (sin margen 36%/24%/41%) · ventaja +30%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.14 (+30%) · Paf España 2.14 (+30%)  
 
