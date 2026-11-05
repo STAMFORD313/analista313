@@ -1,42 +1,61 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 05/11/2026 21:35 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 05/11/2026 22:04 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## pikalicaaa vs Jankulovski — 05/11 · 21:43
+## kkikus vs Simaponika — 05/11 · 22:07
 
-👀 candidata · 🎮⚽ FC 27 · Serie A · **Empate** @ **5.10** (Unibet) · prob 23% vs casas 17% · ventaja +19%
+👀 candidata · 🎮⚽ FC 27 · World Cup A · **Empate** @ **6.25** (Unibet) · prob 22% vs casas 14% · ventaja +37%
 
-- ✅ Valor: ventaja +19% (mín. 13% con la incertidumbre, máx. 30%)
+- ❌ Valor: ventaja +37% (mín. 18% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 57.449 partidos)  
-Goles esperados: pikalicaaa 2.34 · Jankulovski 2.17  
-Ganador: pikalicaaa 42% · empate 23% · Jankulovski 35%  
-Total: más de 4.5 goles 47% · menos 53%  
-Hándicap pikalicaaa: −1.5 26% · −2.5 13%  
+📊 **Escenarios** (Poisson por jugador, 57.490 partidos)  
+Goles esperados: kkikus 2.09 · Simaponika 2.85  
+Ganador: kkikus 25% · empate 22% · Simaponika 53%  
+Total: más de 4.5 goles 55% · menos 45%  
+Hándicap Simaponika: −1.5 36% · −2.5 21%  
 🔎 **Claves**  
-• Forma: pikalicaaa ➖❌✅❌✅ | Jankulovski ✅✅❌❌✅  
-• Partidos: pikalicaaa 588 | Jankulovski 788  
-• Liga: Serie A  
-• Unibet: 1 2.38 · X 5.10 · 2 1.90 (sin margen 37%/17%/46%) · ventaja +19%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 5.10 (+19%) · Paf España 5.10 (+19%)  
+• Forma: kkikus ❌❌✅❌❌ | Simaponika ✅❌❌❌❌  
+• Partidos: kkikus 896 | Simaponika 1056  
+• Liga: World Cup A  
+• Unibet: 1 3.95 · X 6.25 · 2 1.35 (sin margen 22%/14%/64%) · ventaja +37%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 6.25 (+37%) · Paf España 6.25 (+37%)  
 
-## believer vs kkikus — 05/11 · 21:55
+## Nightxx vs kkikus — 05/11 · 22:31
 
-👀 candidata · 🎮⚽ FC 27 · World Cup A · **Empate** @ **11.00** (Unibet) · prob 12% vs casas 8% · ventaja +27%
+👀 candidata · 🎮⚽ FC 27 · World Cup A · **Empate** @ **7.50** (Unibet) · prob 17% vs casas 12% · ventaja +27%
 
 - ✅ Valor: ventaja +27% (mín. 15% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 57.449 partidos)  
-Goles esperados: believer 4.11 · kkikus 1.66  
-Ganador: believer 81% · empate 12% · kkikus 7%  
-Total: más de 5.5 goles 52% · menos 48%  
-Hándicap believer: −1.5 65% · −2.5 48%  
+📊 **Escenarios** (Poisson por jugador, 57.490 partidos)  
+Goles esperados: Nightxx 3.76 · kkikus 2.28  
+Ganador: Nightxx 66% · empate 17% · kkikus 17%  
+Total: más de 6.5 goles 40% · menos 60%  
+Hándicap Nightxx: −1.5 49% · −2.5 33%  
 🔎 **Claves**  
-• Forma: believer ✅➖✅✅✅ | kkikus ❌❌✅❌❌  
-• Partidos: believer 883 | kkikus 896  
+• Forma: Nightxx ✅➖❌✅❌ | kkikus ❌❌✅❌❌  
+• Partidos: Nightxx 762 | kkikus 896  
 • Liga: World Cup A  
-• Unibet: 1 1.07 · X 11.00 · 2 9.00 (sin margen 82%/8%/10%) · ventaja +27%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 11.00 (+27%) · Paf España 11.00 (+27%)  
+• Unibet: 1 1.21 · X 7.50 · 2 5.40 (sin margen 72%/12%/16%) · ventaja +27%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 7.50 (+27%) · Paf España 7.50 (+27%)  
+
+## ssstasonn vs Simaponika — 05/11 · 22:31
+
+👀 candidata · 🎮⚽ FC 27 · World Cup A · **Empate** @ **6.50** (Unibet) · prob 19% vs casas 13% · ventaja +22%
+
+- ✅ Valor: ventaja +22% (mín. 14% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 57.490 partidos)  
+Goles esperados: ssstasonn 2.09 · Simaponika 3.35  
+Ganador: ssstasonn 19% · empate 19% · Simaponika 63%  
+Total: más de 5.5 goles 46% · menos 54%  
+Hándicap Simaponika: −1.5 45% · −2.5 29%  
+🔎 **Claves**  
+• Forma: ssstasonn ❌❌❌➖❌ | Simaponika ✅❌❌❌❌  
+• Partidos: ssstasonn 870 | Simaponika 1056  
+• Liga: World Cup A  
+• Unibet: 1 4.80 · X 6.50 · 2 1.27 (sin margen 18%/13%/68%) · ventaja +22%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 6.50 (+22%) · Paf España 6.50 (+22%)  
 
