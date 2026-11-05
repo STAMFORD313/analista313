@@ -448,8 +448,8 @@
   "odds": 18.75,
   "p": 0.06892262870460752,
   "stake": 1.0,
-  "estado": "pendiente",
-  "avisada": false,
-  "rev": 1
+  "estado": "perdida",
+  "avisada": true,
+  "rev": 2
  }
 ]
