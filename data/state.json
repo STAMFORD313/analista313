@@ -1697,7 +1697,10 @@
   "fc|2364355",
   "fc|2364467",
   "fc|2363617",
-  "fc|2363616"
+  "fc|2363616",
+  "fc|2363785",
+  "fc|2364468",
+  "fc|2363618"
  ],
  "signals": [
   {
@@ -25358,7 +25361,11 @@
    "captured": "2026-11-05T07:39",
    "version": "12b94bc",
    "bajas": "",
-   "considered": true
+   "considered": true,
+   "score": "2-6",
+   "result": false,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "A",
@@ -25378,7 +25385,11 @@
    "captured": "2026-11-05T07:39",
    "version": "12b94bc",
    "bajas": "",
-   "considered": true
+   "considered": true,
+   "score": "4-3",
+   "result": false,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "H",
@@ -25469,7 +25480,11 @@
    "version": "3589a71",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "4-2",
+   "result": false,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "D",
@@ -25582,7 +25597,11 @@
    "captured": "2026-11-05T08:40",
    "version": "04e720b",
    "bajas": "",
-   "considered": true
+   "considered": true,
+   "score": "2-2",
+   "result": false,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "H",
@@ -25603,7 +25622,11 @@
    "version": "04e720b",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "3-4",
+   "result": false,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "A",
@@ -25666,7 +25689,11 @@
    "version": "f528cdc",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "2-1",
+   "result": false,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "H",
@@ -25686,7 +25713,11 @@
    "captured": "2026-11-05T08:52",
    "version": "f528cdc",
    "bajas": "",
-   "considered": true
+   "considered": true,
+   "score": "5-3",
+   "result": true,
+   "close_p": null,
+   "logged": true
   },
   {
    "key": "vp|2026-11-05|Kuching City|Gangwon FC",
@@ -25774,7 +25805,11 @@
    "version": "ee7caed",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "3-2",
+   "result": false,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "H",
@@ -25853,20 +25888,6 @@
    "start": "2026-11-05T09:34:00+00:00",
    "league": "🎮⚽ FC 27 · Champions League AFC",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 56.798 partidos)",
-    "Goles esperados: dm1trena 1.85 · DaVa 2.89",
-    "Ganador: dm1trena 19% · empate 19% · DaVa 62%",
-    "Total: más de 4.5 goles 51% · menos 49%",
-    "Hándicap DaVa: −1.5 41% · −2.5 24%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: dm1trena ✅❌➖✅❌ | DaVa ➖❌✅➖➖",
-    "• Partidos: dm1trena 1013 | DaVa 1132",
-    "• Liga: Champions League AFC",
-    "• Unibet: 1 6.10 · X 3.55 · 2 1.41 (sin margen 14%/24%/61%) · ventaja +13%. Sin stake hasta demostrar ROI con estas cuotas.",
-    "• En España: LeoVegas España 6.10 (+13%) · Paf España 6.10 (+13%)"
-   ],
    "context": "EA FC Esoccer Battle dm1trena vs DaVa (Champions League AFC): goles esperados 1.85-2.89, 1X2 19%/19%/62%. Sin cuotas de casa.",
    "captured": "2026-11-05T09:08",
    "version": "eb59965",
@@ -25888,20 +25909,6 @@
    "start": "2026-11-05T09:34:00+00:00",
    "league": "🎮⚽ FC 27 · Champions League AFC",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 56.798 partidos)",
-    "Goles esperados: Revange 2.13 · MeLToSik 1.82",
-    "Ganador: Revange 46% · empate 24% · MeLToSik 30%",
-    "Total: más de 3.5 goles 56% · menos 44%",
-    "Hándicap Revange: −1.5 26% · −2.5 13%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Revange ✅✅❌➖❌ | MeLToSik ➖➖➖❌➖",
-    "• Partidos: Revange 556 | MeLToSik 1069",
-    "• Liga: Champions League AFC",
-    "• Unibet: 1 1.70 · X 3.80 · 2 3.45 (sin margen 52%/23%/25%) · ventaja +2%. Sin stake hasta demostrar ROI con estas cuotas.",
-    "• En España: LeoVegas España 3.45 (+2%) · Paf España 3.45 (+2%)"
-   ],
    "context": "EA FC Esoccer Battle Revange vs MeLToSik (Champions League AFC): goles esperados 2.13-1.82, 1X2 46%/24%/30%. Sin cuotas de casa.",
    "captured": "2026-11-05T09:08",
    "version": "eb59965",

@@ -1,44 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 05/11/2026 10:32 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## dm1trena vs DaVa — 05/11 · 10:34
-
-👀 candidata · 🎮⚽ FC 27 · Champions League AFC · **Gana dm1trena** @ **6.10** (Unibet) · prob 19% vs casas 14% · ventaja +13%
-
-- ✅ Valor: ventaja +13% (mín. 12% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 56.798 partidos)  
-Goles esperados: dm1trena 1.85 · DaVa 2.89  
-Ganador: dm1trena 19% · empate 19% · DaVa 62%  
-Total: más de 4.5 goles 51% · menos 49%  
-Hándicap DaVa: −1.5 41% · −2.5 24%  
-🔎 **Claves**  
-• Forma: dm1trena ✅❌➖✅❌ | DaVa ➖❌✅➖➖  
-• Partidos: dm1trena 1013 | DaVa 1132  
-• Liga: Champions League AFC  
-• Unibet: 1 6.10 · X 3.55 · 2 1.41 (sin margen 14%/24%/61%) · ventaja +13%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 6.10 (+13%) · Paf España 6.10 (+13%)  
-
-## Revange vs MeLToSik — 05/11 · 10:34
-
-👀 candidata · 🎮⚽ FC 27 · Champions League AFC · **Gana MeLToSik** @ **3.45** (Unibet) · prob 30% vs casas 25% · ventaja +2%
-
-- ❌ Valor: ventaja +2% (mín. 9% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 56.798 partidos)  
-Goles esperados: Revange 2.13 · MeLToSik 1.82  
-Ganador: Revange 46% · empate 24% · MeLToSik 30%  
-Total: más de 3.5 goles 56% · menos 44%  
-Hándicap Revange: −1.5 26% · −2.5 13%  
-🔎 **Claves**  
-• Forma: Revange ✅✅❌➖❌ | MeLToSik ➖➖➖❌➖  
-• Partidos: Revange 556 | MeLToSik 1069  
-• Liga: Champions League AFC  
-• Unibet: 1 1.70 · X 3.80 · 2 3.45 (sin margen 52%/23%/25%) · ventaja +2%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 3.45 (+2%) · Paf España 3.45 (+2%)  
+Actualizado 05/11/2026 10:39 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Fireline vs Kril — 05/11 · 10:51
 
