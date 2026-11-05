@@ -143,12 +143,16 @@ def final_game(leg, b, now, boards):
 def leg_clv(leg):
     """CLV de una pierna de ganador de fútbol («Gana X» / «Empate» con cuota): cuota × prob. de cierre de Pinnacle sin
     margen − 1. Positivo de media = el bot coge mejores precios que el mercado al cierre (lo que hacen los profesionales)."""
-    if leg.get("src") or not leg.get("odds") or not leg.get("start"): return None
+    if not leg.get("odds") or not leg.get("start"): return None
     t = leg["txt"]
     side = "D" if t == "Empate" else "H" if t == f"Gana {leg['home']}" else "A" if t == f"Gana {leg['away']}" else None
-    if not side: return None
+    if leg.get("src"):  # NBA/NHL (espn:nba) y esports (esports:cs2): su archivo de Pinnacle; FC 27 no está en Pinnacle
+        lg = leg["src"].split(":")[-1]; side = leg.get("side") or side
+        if leg["src"] == "fc": return None
+    else: lg = "vp"
+    if side not in ("H", "A", "D"): return None
     import pinnacle
-    try: p = pinnacle.close_p({"key": "vp|x", "match": f"{leg['home']} vs {leg['away']}", "start": leg["start"], "market": side})
+    try: p = pinnacle.close_p({"key": f"{lg}|x", "match": f"{leg['home']} vs {leg['away']}", "start": leg["start"], "market": side})
     except Exception as e: print("CLV pierna", repr(e)[:80]); return None
     return round(leg["odds"] * p - 1, 3) if p else None
 
@@ -163,7 +167,9 @@ def settle(now=None):
             if leg.get("src"):  # NBA/NHL/esports/FC 27: resultados que guarda el bot (multideporte.py)
                 import multideporte
                 ok, why = multideporte.judge(leg)
-                if ok is not None: leg["ok"], leg["por"] = ok, why; changed = True
+                if ok is not None:
+                    leg["ok"], leg["por"] = ok, why; changed = True
+                    if (c := leg_clv(leg)) is not None: leg["clv"] = c
                 elif now - pd.Timestamp(leg["start"]) > GIVE_UP: leg["ok"], leg["por"] = "nula", "sin resultado"; changed = True
                 continue
             g = find_game({**leg, "creada": b["creada"]}) or final_game(leg, b, now, boards)
@@ -339,7 +345,7 @@ def summary():
         lines.append(f"🎯 El bot esperaba acertar {exp:.2f} de {len(allb)} y ha acertado {real} · ROI {ret / stake - 1:+.0%}"
                      + (" (aún pocas para sacar conclusiones)" if len(allb) < 30 else ""))
     clv = [l["clv"] for b in load().values() for l in b["legs"] if l.get("clv") is not None]
-    if clv: lines.append(f"📈 CLV de las piernas de ganador: {sum(clv) / len(clv):+.1%} de media en {len(clv)} (positivo = mejor precio que el cierre de Pinnacle)")
+    if clv: lines.append(f"📈 CLV de las piernas de ganador (fútbol, NBA, NHL, esports): {sum(clv) / len(clv):+.1%} de media en {len(clv)} (positivo = mejor precio que el cierre de Pinnacle)")
     for b in bets:
         n_ok = sum(l.get("ok") is True for l in b["legs"])
         icon = {"ganada": "✅", "perdida": "❌", "nula": "➖"}.get(b["estado"], "⏳")

@@ -1462,7 +1462,9 @@ try:
     _PN.close_p = lambda sg: 0.5 if sg["market"] == "H" and sg["match"] == "FC Porto vs Napoli" else None
     assert _SL.leg_clv({"home": "FC Porto", "away": "Napoli", "start": "2026-11-04T20:00Z", "txt": "Gana FC Porto", "odds": 2.2}) == 0.1
     assert _SL.leg_clv({"home": "FC Porto", "away": "Napoli", "start": "2026-11-04T20:00Z", "txt": "Más de 2.5 goles", "odds": 2.2}) is None
-    assert _SL.leg_clv({"src": "espn:nba", "home": "A", "away": "B", "start": "x", "txt": "Gana A", "odds": 2.0}) is None
+    assert _SL.leg_clv({"src": "fc", "home": "A", "away": "B", "start": "x", "txt": "Gana A", "side": "H", "odds": 2.0}) is None
+    _PN.close_p = lambda sg: 0.55 if sg["key"] == "cs2|x" and sg["market"] == "A" else None
+    assert _SL.leg_clv({"src": "esports:cs2", "home": "eSuba", "away": "BRUTE SQ", "start": "x", "txt": "Gana BRUTE SQ", "side": "A", "odds": 2.0}) == 0.1
 finally: _PN.close_p = _cp0
 print("ok CLV de piernas simuladas")
 
