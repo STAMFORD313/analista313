@@ -1,25 +1,44 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 05/11/2026 12:11 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 05/11/2026 12:17 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## Tesla vs Ganger_29 — 05/11 · 12:12
+## Maxa vs Totti — 05/11 · 12:24
 
-👀 candidata · 🎮⚽ FC 27 · World Cup A · **Gana Tesla** @ **1.65** (Unibet) · prob 71% vs casas 53% · ventaja +18%
+👀 candidata · 🎮⚽ FC 27 · World Cup A · **Gana Totti** @ **3.45** (Unibet) · prob 31% vs casas 26% · ventaja +8%
 
-- ✅ Valor: ventaja +18% (mín. 12% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+- ❌ Valor: ventaja +8% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
 📊 **Escenarios** (Poisson por jugador, 56.896 partidos)  
-Goles esperados: Tesla 3.94 · Ganger_29 2.19  
-Ganador: Tesla 71% · empate 14% · Ganger_29 15%  
-Total: más de 6.5 goles 41% · menos 59%  
-Hándicap Tesla: −1.5 53% · −2.5 37%  
+Goles esperados: Maxa 3.20 · Totti 2.69  
+Ganador: Maxa 50% · empate 19% · Totti 31%  
+Total: más de 5.5 goles 54% · menos 46%  
+Hándicap Maxa: −1.5 34% · −2.5 20%  
 🔎 **Claves**  
-• Forma: Tesla ❌✅✅✅❌ | Ganger_29 ➖✅➖❌✅  
-• Partidos: Tesla 891 | Ganger_29 751  
+• Forma: Maxa ✅❌❌✅✅ | Totti ✅❌➖✅❌  
+• Partidos: Maxa 844 | Totti 898  
 • Liga: World Cup A  
-• Unibet: 1 1.65 · X 4.35 · 2 3.30 (sin margen 53%/20%/27%) · ventaja +18%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 1.65 (+18%) · Paf España 1.65 (+18%)  
+• Unibet: 1 1.61 · X 4.40 · 2 3.45 (sin margen 55%/20%/25%) · ventaja +8%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 3.45 (+8%) · Paf España 3.45 (+8%)  
+
+## Uncle vs LaikingDast — 05/11 · 12:27
+
+👀 candidata · 🎮⚽ FC 27 · World Cup B · **Gana LaikingDast** @ **3.00** (Unibet) · prob 37% vs casas 29% · ventaja +12%
+
+- ✅ Valor: ventaja +12% (mín. 11% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 56.896 partidos)  
+Goles esperados: Uncle 2.64 · LaikingDast 2.53  
+Ganador: Uncle 42% · empate 21% · LaikingDast 37%  
+Total: más de 5.5 goles 41% · menos 59%  
+Hándicap Uncle: −1.5 26% · −2.5 14%  
+🔎 **Claves**  
+• Forma: Uncle ✅❌❌➖➖ | LaikingDast ➖❌✅❌❌  
+• Partidos: Uncle 658 | LaikingDast 464  
+• Liga: World Cup B  
+• Unibet: 1 2.35 · X 2.50 · 2 3.00 (sin margen 37%/35%/29%) · ventaja +12%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 3.00 (+12%) · Paf España 3.00 (+12%)  
 
 ## Revange vs dm1trena — 05/11 · 12:30
 
@@ -77,4 +96,23 @@ Hándicap Taz: −1.5 41% · −2.5 26%
 • Liga: World Cup A  
 • Unibet: 1 2.23 · X 4.80 · 2 2.04 (sin margen 39%/18%/43%) · ventaja +19%. Sin stake hasta demostrar ROI con estas cuotas.  
 • En España: LeoVegas España 2.04 (+19%) · Paf España 2.04 (+19%)  
+
+## Totti vs Tesla — 05/11 · 12:48
+
+👀 candidata · 🎮⚽ FC 27 · World Cup A · **Gana Tesla** @ **1.60** (Unibet) · prob 69% vs casas 55% · ventaja +11%
+
+- ✅ Valor: ventaja +11% (mín. 11% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 56.896 partidos)  
+Goles esperados: Totti 2.37 · Tesla 4.02  
+Ganador: Totti 16% · empate 14% · Tesla 69%  
+Total: más de 6.5 goles 46% · menos 54%  
+Hándicap Tesla: −1.5 52% · −2.5 36%  
+🔎 **Claves**  
+• Forma: Totti ✅❌➖✅❌ | Tesla ❌✅✅✅❌  
+• Partidos: Totti 898 | Tesla 891  
+• Liga: World Cup A  
+• Unibet: 1 3.55 · X 4.30 · 2 1.60 (sin margen 25%/20%/55%) · ventaja +11%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 1.60 (+11%) · Paf España 1.60 (+11%)  
 
