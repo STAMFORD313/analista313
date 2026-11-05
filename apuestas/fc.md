@@ -1,6 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 05/11/2026 01:12 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 05/11/2026 01:16 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Kavviro vs kkikus — 05/11 · 02:27
 
@@ -18,6 +18,24 @@ Hándicap Kavviro: −1.5 64% · −2.5 47%
 • Forma: Kavviro ❌✅➖✅➖ | kkikus ✅➖➖❌❌  
 • Partidos: Kavviro 737 | kkikus 872  
 • Liga: Champions League B  
+• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
+
+## Senya vs Sheva — 05/11 · 02:49
+
+👀 candidata · 🎮⚽ FC 27 · Volta International A · **Gana Sheva** @ **1.23** (cuota justa (sin casa)) · prob 81% vs casas 81% · ventaja +0%
+
+- ❌ Valor: ventaja +0% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 56.396 partidos)  
+Goles esperados: Senya 1.76 · Sheva 3.97  
+Ganador: Senya 8% · empate 11% · Sheva 81%  
+Total: más de 5.5 goles 51% · menos 49%  
+Hándicap Sheva: −1.5 61% · −2.5 44%  
+🔎 **Claves**  
+• Forma: Senya ❌❌❌❌❌ | Sheva ❌✅✅❌❌  
+• Partidos: Senya 1319 | Sheva 1334  
+• Liga: Volta International A  
 • Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
 
 ## Grellz vs kkikus — 05/11 · 02:51
@@ -54,5 +72,41 @@ Hándicap tizzy: −1.5 66% · −2.5 51%
 • Forma: kkikus ✅➖➖❌❌ | tizzy ❌❌✅❌✅  
 • Partidos: kkikus 872 | tizzy 329  
 • Liga: Champions League B  
+• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
+
+## Sheva vs Koss — 05/11 · 03:16
+
+👀 candidata · 🎮⚽ FC 27 · Volta International A · **Gana Sheva** @ **1.30** (cuota justa (sin casa)) · prob 77% vs casas 77% · ventaja +0%
+
+- ❌ Valor: ventaja +0% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 56.396 partidos)  
+Goles esperados: Sheva 3.66 · Koss 1.71  
+Ganador: Sheva 77% · empate 13% · Koss 10%  
+Total: más de 5.5 goles 45% · menos 55%  
+Hándicap Sheva: −1.5 57% · −2.5 39%  
+🔎 **Claves**  
+• Forma: Sheva ❌✅✅❌❌ | Koss ✅✅❌➖✅  
+• Partidos: Sheva 1334 | Koss 1064  
+• Liga: Volta International A  
+• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
+
+## Senya vs pimchik — 05/11 · 03:16
+
+👀 candidata · 🎮⚽ FC 27 · Volta International A · **Gana pimchik** @ **1.36** (cuota justa (sin casa)) · prob 73% vs casas 73% · ventaja +0%
+
+- ❌ Valor: ventaja +0% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 56.396 partidos)  
+Goles esperados: Senya 2.18 · pimchik 3.92  
+Ganador: Senya 13% · empate 14% · pimchik 73%  
+Total: más de 6.5 goles 41% · menos 59%  
+Hándicap pimchik: −1.5 53% · −2.5 37%  
+🔎 **Claves**  
+• Forma: Senya ❌❌❌❌❌ | pimchik ✅➖➖✅✅  
+• Partidos: Senya 1319 | pimchik 928  
+• Liga: Volta International A  
 • Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
 

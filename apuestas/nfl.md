@@ -1,6 +1,6 @@
 # 🏈 NFL·NCAA · apuestas de valor
 
-Actualizado 05/11/2026 01:12 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 05/11/2026 01:16 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Eastern Michigan Eagles vs Central Michigan Chippewas — 05/11 · 01:30
 
