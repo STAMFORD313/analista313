@@ -1817,7 +1817,11 @@
   "cs2|133101",
   "fc|2364696",
   "fc|2364699",
-  "fc|2364559"
+  "fc|2364559",
+  "atp|2026-11-06|Taylor Fritz|Carlos Alcaraz",
+  "fc|2364565",
+  "fc|2363879",
+  "fc|2364837"
  ],
  "signals": [
   {
@@ -1886,23 +1890,6 @@
    "result": false,
    "score": "0-1",
    "clv": 0.098,
-   "logged": true
-  },
-  {
-   "market": "H",
-   "odds": 2.18,
-   "p": 0.485,
-   "edge": 0.057,
-   "key": "SP1|2026-11-02|La Coruna|Osasuna",
-   "match": "La Coruna vs Osasuna",
-   "start": "2026-11-02T20:00:00+00:00",
-   "considered": true,
-   "captured": "2026-11-03T06:59",
-   "version": "7948daf",
-   "bajas": "",
-   "result": true,
-   "score": "2-1",
-   "clv": 0.048,
    "logged": true
   },
   {
@@ -2091,35 +2078,6 @@
    "result": false,
    "score": "1-1",
    "clv": 0.049,
-   "logged": true
-  },
-  {
-   "market": "A",
-   "odds": 3.0,
-   "book": "Bet365",
-   "p": 0.359,
-   "implied": 0.312,
-   "edge": 0.077,
-   "key": "F2|2026-11-02|Red Star|Nancy",
-   "match": "Red Star vs Nancy",
-   "pick": "Nancy",
-   "start": "2026-11-02T19:45:00+00:00",
-   "league": "🇫🇷 Ligue 2",
-   "sport": "⚽",
-   "context": "Red Star vs Nancy (🇫🇷 Ligue 2). Modelo Poisson con historial desde 2005 y bajas: 1 32% X 28% 2 41%, +2.5 42%, ambos marcan 48%. Forma Red Star ✅✅✅❌❌, Nancy ❌✅✅✅✅ (✅ victoria ➖ empate ❌ derrota). H2H 6 desde 2015: 2V-1E-3D · 1.7 goles/partido · +2.5 en 17%. Bajas Red Star: ninguna. Bajas Nancy: ninguna.",
-   "considered": true,
-   "ai": {
-    "apostar": true,
-    "motivo": null,
-    "confianza": null
-   },
-   "placed": false,
-   "captured": "2026-11-03T06:59",
-   "version": "7948daf",
-   "bajas": "Red Star: sin bajas; Nancy: sin bajas",
-   "result": true,
-   "score": "1-4",
-   "clv": 0.103,
    "logged": true
   },
   {
@@ -2738,29 +2696,6 @@
    "result": false,
    "score": "7-35",
    "close_p": 0.4605,
-   "logged": true
-  },
-  {
-   "market": "home",
-   "odds": 1.263,
-   "book": "DraftKings",
-   "p": 0.805,
-   "implied": 0.76,
-   "edge": 0.017,
-   "key": "cbb|2026-11-02|San José State Spartans|UTSA Roadrunners",
-   "match": "San José State Spartans vs UTSA Roadrunners",
-   "pick": "San José State Spartans",
-   "start": "2026-11-02T20:00Z",
-   "league": "🏀 NCAA Basketball",
-   "sport": "🏀",
-   "context": "San José State Spartans vs UTSA Roadrunners (🏀 NCAA Basketball, baloncesto). Modelo Elo con 10 años de historial ajustado por bajas: San José State Spartans 85%, UTSA Roadrunners 15%. Cuotas DraftKings 1.263/4.0, hándicap SJSU -8.5, total 153.5. Forma San José State Spartans ❌❌❌✅❌, UTSA Roadrunners ❌❌❌❌❌. H2H sin precedentes. Bajas San José State Spartans: ninguna. Bajas UTSA Roadrunners: ninguna.",
-   "considered": true,
-   "placed": false,
-   "result": true,
-   "score": "95-74",
-   "captured": "2026-11-03T06:59",
-   "version": "7948daf",
-   "bajas": "San José State Spartans: sin bajas; UTSA Roadrunners: sin bajas",
    "logged": true
   },
   {
@@ -6166,7 +6101,11 @@
    "version": "7948daf",
    "bajas": "AC Milan: sin bajas; Ferencvaros: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "0-2",
+   "close_p": 0.6786,
+   "logged": true
   },
   {
    "market": "home",
@@ -6186,7 +6125,11 @@
    "version": "7948daf",
    "bajas": "Anderlecht: sin bajas; RB Salzburg: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "2-0",
+   "close_p": 0.5013,
+   "logged": true
   },
   {
    "market": "home",
@@ -6206,7 +6149,11 @@
    "version": "7948daf",
    "bajas": "Crystal Palace: sin bajas; TSG Hoffenheim: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "1-1",
+   "close_p": 0.4944,
+   "logged": true
   },
   {
    "market": "home",
@@ -6226,7 +6173,11 @@
    "version": "7948daf",
    "bajas": "Levski Sofia: sin bajas; Jagiellonia Bialystok: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "1-0",
+   "close_p": 0.489,
+   "logged": true
   },
   {
    "market": "home",
@@ -6246,7 +6197,11 @@
    "version": "7948daf",
    "bajas": "Lillestrom: sin bajas; Viktoria Plzen: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "0-1",
+   "close_p": 0.2967,
+   "logged": true
   },
   {
    "market": "home",
@@ -6266,7 +6221,11 @@
    "version": "7948daf",
    "bajas": "NEC Nijmegen: sin bajas; Omonia Nicosia: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "3-1",
+   "close_p": 0.5923,
+   "logged": true
   },
   {
    "market": "home",
@@ -6286,7 +6245,11 @@
    "version": "7948daf",
    "bajas": "Real Sociedad: sin bajas; Lyon: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "1-1",
+   "close_p": 0.5593,
+   "logged": true
   },
   {
    "market": "away",
@@ -6306,7 +6269,11 @@
    "version": "7948daf",
    "bajas": "Sparta Prague: sin bajas; AFC Bournemouth: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "1-3",
+   "close_p": 0.5866,
+   "logged": true
   },
   {
    "market": "home",
@@ -6321,25 +6288,6 @@
    "start": "2026-11-05T20:00Z",
    "league": "🏆 Europa League",
    "sport": "🏆",
-   "info": [
-    "📊 <b>Escenarios</b> (Elo con 5.115 partidos y bajas)",
-    "1 44% · X 21% · 2 36%",
-    "Casas: 1 26% · X 25% · 2 49%",
-    "Hándicap JUV -105 · Total puntos 2.5",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: AZ Alkmaar ❌❌❌✅✅ | Juventus ❌❌✅✅➖",
-    "• H2H: sin precedentes",
-    "• Bajas: AZ Alkmaar: sin bajas; Juventus: sin bajas",
-    "• Favorito de las casas: Juventus @ 1.95",
-    "",
-    "📐 <b>Estadísticas esperadas</b> · cruce de las dos ligas, sin backtest en Europa",
-    "Córners 5.5 - 4.8: total +10.5 46% · AZ Alkmaar +5.5 46% · Juventus +4.5 50%",
-    "Tarjetas 1.5 - 1.7: total +3.5 40% · AZ Alkmaar +1.5 43% · Juventus +2.5 25%",
-    "Faltas 10.0 - 11.9: total +22.5 44% · AZ Alkmaar +11.5 31% · Juventus +11.5 52%",
-    "Tiros a puerta 4.7 - 4.2: total +10.5 29% · AZ Alkmaar +5.5 34% · Juventus +4.5 40%",
-    "🧩 Crear apuesta: Menos de 2.5 tarjetas de Juventus + Menos de 10.5 tiros a puerta + Menos de 11.5 faltas de AZ Alkmaar → prob. 37%, cuota justa 2.72 (solo vale si la casa paga más)"
-   ],
    "context": "AZ Alkmaar vs Juventus (🏆 Europa League, fútbol). Modelo Elo con 10 años de historial ajustado por bajas: AZ Alkmaar 44%, empate 21%, Juventus 36%. Cuotas DraftKings 3.75/3.8/1.952, hándicap JUV -105, total 2.5. Forma AZ Alkmaar ❌❌❌✅✅, Juventus ❌❌✅✅➖. H2H sin precedentes. Bajas AZ Alkmaar: ninguna. Bajas Juventus: ninguna.",
    "captured": "2026-11-03T06:59",
    "version": "7948daf",
@@ -6360,26 +6308,6 @@
    "start": "2026-11-05T20:00Z",
    "league": "🏆 Europa League",
    "sport": "🏆",
-   "info": [
-    "📊 <b>Escenarios</b> (Elo con 5.115 partidos y bajas)",
-    "1 74% · X 13% · 2 13%",
-    "Casas: 1 67% · X 18% · 2 15%",
-    "Hándicap B04 -245 · Total puntos 3.5",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Bayer Leverkusen ➖❌✅✅✅ | Marseille ❌❌❌❌❌",
-    "• H2H: sin precedentes",
-    "• Bajas: Bayer Leverkusen: sin bajas; Marseille: sin bajas",
-    "• Favorito de las casas: Bayer Leverkusen @ 1.41",
-    "",
-    "📐 <b>Estadísticas esperadas</b> · cruce de las dos ligas, sin backtest en Europa",
-    "Córners 5.6 - 4.0: total +10.5 37% · Bayer Leverkusen +5.5 47% · Marseille +4.5 37%",
-    "Tarjetas 1.9 - 2.3: total +4.5 42% · Bayer Leverkusen +2.5 31% · Marseille +2.5 42%",
-    "Faltas 10.6 - 11.2: total +22.5 43% · Bayer Leverkusen +11.5 38% · Marseille +11.5 44%",
-    "Tiros a puerta 5.5 - 4.2: total +10.5 38% · Bayer Leverkusen +5.5 46% · Marseille +4.5 41%",
-    "🧩 Crear apuesta: Menos de 2.5 tarjetas de Bayer Leverkusen + Menos de 4.5 córners de Marseille + Menos de 11.5 faltas de Bayer Leverkusen → prob. 29%, cuota justa 3.40 (solo vale si la casa paga más)",
-    "🚀 Combinada larga: Menos de 2.5 tarjetas de Bayer Leverkusen + Menos de 4.5 córners de Marseille + Menos de 11.5 faltas de Bayer Leverkusen + Menos de 10.5 tiros a puerta + Más de 2.5 goles → prob. 9%, cuota justa 11.13"
-   ],
    "context": "Bayer Leverkusen vs Marseille (🏆 Europa League, fútbol). Modelo Elo con 10 años de historial ajustado por bajas: Bayer Leverkusen 74%, empate 13%, Marseille 13%. Cuotas DraftKings 1.408/5.25/6.5, hándicap B04 -245, total 3.5. Forma Bayer Leverkusen ➖❌✅✅✅, Marseille ❌❌❌❌❌. H2H sin precedentes. Bajas Bayer Leverkusen: ninguna. Bajas Marseille: ninguna.",
    "captured": "2026-11-03T06:59",
    "version": "7948daf",
@@ -6400,18 +6328,6 @@
    "start": "2026-11-05T20:00Z",
    "league": "🏆 Europa League",
    "sport": "🏆",
-   "info": [
-    "📊 <b>Escenarios</b> (Elo con 5.115 partidos y bajas)",
-    "1 68% · X 15% · 2 17%",
-    "Casas: 1 81% · X 12% · 2 7%",
-    "Hándicap SLB -600 · Total puntos 3.5",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Benfica ❌❌✅✅✅ | Lech Poznan ❌❌❌❌➖",
-    "• H2H: 2 desde 2020: 2-0",
-    "• Bajas: Benfica: sin bajas; Lech Poznan: sin bajas",
-    "• Favorito de las casas: Benfica @ 1.17"
-   ],
    "context": "Benfica vs Lech Poznan (🏆 Europa League, fútbol). Modelo Elo con 10 años de historial ajustado por bajas: Benfica 68%, empate 15%, Lech Poznan 17%. Cuotas DraftKings 1.167/8.0/14.0, hándicap SLB -600, total 3.5. Forma Benfica ❌❌✅✅✅, Lech Poznan ❌❌❌❌➖. H2H 2 desde 2020: 2-0. Bajas Benfica: ninguna. Bajas Lech Poznan: ninguna.",
    "captured": "2026-11-03T06:59",
    "version": "7948daf",
@@ -6432,18 +6348,6 @@
    "start": "2026-11-05T20:00Z",
    "league": "🏆 Europa League",
    "sport": "🏆",
-   "info": [
-    "📊 <b>Escenarios</b> (Elo con 5.115 partidos y bajas)",
-    "1 50% · X 20% · 2 30%",
-    "Casas: 1 43% · X 26% · 2 31%",
-    "Hándicap CEL +120 · Total puntos 2.5",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Celta Vigo ❌❌❌❌✅ | Union St.-Gilloise ❌✅✅➖✅",
-    "• H2H: sin precedentes",
-    "• Bajas: Celta Vigo: sin bajas; Union St.-Gilloise: sin bajas",
-    "• Favorito de las casas: Celta Vigo @ 2.20"
-   ],
    "context": "Celta Vigo vs Union St.-Gilloise (🏆 Europa League, fútbol). Modelo Elo con 10 años de historial ajustado por bajas: Celta Vigo 50%, empate 20%, Union St.-Gilloise 30%. Cuotas DraftKings 2.2/3.7/3.1, hándicap CEL +120, total 2.5. Forma Celta Vigo ❌❌❌❌✅, Union St.-Gilloise ❌✅✅➖✅. H2H sin precedentes. Bajas Celta Vigo: ninguna. Bajas Union St.-Gilloise: ninguna.",
    "captured": "2026-11-03T06:59",
    "version": "7948daf",
@@ -6464,26 +6368,6 @@
    "start": "2026-11-05T20:00Z",
    "league": "🏆 Europa League",
    "sport": "🏆",
-   "info": [
-    "📊 <b>Escenarios</b> (Elo con 5.115 partidos y bajas)",
-    "1 40% · X 21% · 2 39%",
-    "Casas: 1 31% · X 25% · 2 44%",
-    "Hándicap BES +115 · Total puntos 2.5",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Celtic ❌❌❌❌❌ | Besiktas ✅❌✅✅➖",
-    "• H2H: sin precedentes",
-    "• Bajas: Celtic: sin bajas; Besiktas: sin bajas",
-    "• Favorito de las casas: Besiktas @ 2.15",
-    "",
-    "📐 <b>Estadísticas esperadas</b> · cruce de las dos ligas, sin backtest en Europa",
-    "Córners 6.8 - 4.5: total +10.5 56% · Celtic +6.5 48% · Besiktas +4.5 44%",
-    "Tarjetas 2.0 - 2.1: total +4.5 39% · Celtic +2.5 32% · Besiktas +2.5 36%",
-    "Faltas 13.0 - 10.7: total +25.5 36% · Celtic +13.5 43% · Besiktas +13.5 21%",
-    "Tiros a puerta 6.1 - 3.8: total +9.5 52% · Celtic +5.5 55% · Besiktas +4.5 33%",
-    "🧩 Crear apuesta: Menos de 13.5 faltas de Besiktas + Menos de 2.5 tarjetas de Celtic + Menos de 4.5 tiros a puerta de Besiktas → prob. 37%, cuota justa 2.73 (solo vale si la casa paga más)",
-    "🚀 Combinada larga: Menos de 13.5 faltas de Besiktas + Menos de 2.5 tarjetas de Celtic + Menos de 4.5 tiros a puerta de Besiktas + Más de 2.5 goles + Más de 10.5 córners → prob. 10%, cuota justa 10.15"
-   ],
    "context": "Celtic vs Besiktas (🏆 Europa League, fútbol). Modelo Elo con 10 años de historial ajustado por bajas: Celtic 40%, empate 21%, Besiktas 39%. Cuotas DraftKings 3.1/3.85/2.15, hándicap BES +115, total 2.5. Forma Celtic ❌❌❌❌❌, Besiktas ✅❌✅✅➖. H2H sin precedentes. Bajas Celtic: ninguna. Bajas Besiktas: ninguna.",
    "captured": "2026-11-03T06:59",
    "version": "7948daf",
@@ -6504,18 +6388,6 @@
    "start": "2026-11-05T20:00Z",
    "league": "🏆 Europa League",
    "sport": "🏆",
-   "info": [
-    "📊 <b>Escenarios</b> (Elo con 5.115 partidos y bajas)",
-    "1 43% · X 21% · 2 36%",
-    "Casas: 1 45% · X 26% · 2 29%",
-    "Hándicap HBE +115 · Total puntos 2.5",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Hapoel Be'er ➖✅➖❌❌ | OFI Crete ✅❌❌",
-    "• H2H: sin precedentes",
-    "• Bajas: Hapoel Be'er: sin bajas; OFI Crete: sin bajas",
-    "• Favorito de las casas: Hapoel Be'er @ 2.15"
-   ],
    "context": "Hapoel Be'er vs OFI Crete (🏆 Europa League, fútbol). Modelo Elo con 10 años de historial ajustado por bajas: Hapoel Be'er 43%, empate 21%, OFI Crete 36%. Cuotas DraftKings 2.15/3.7/3.25, hándicap HBE +115, total 2.5. Forma Hapoel Be'er ➖✅➖❌❌, OFI Crete ✅❌❌. H2H sin precedentes. Bajas Hapoel Be'er: ninguna. Bajas OFI Crete: ninguna.",
    "captured": "2026-11-03T06:59",
    "version": "7948daf",
@@ -6536,18 +6408,6 @@
    "start": "2026-11-05T20:00Z",
    "league": "🏆 Europa League",
    "sport": "🏆",
-   "info": [
-    "📊 <b>Escenarios</b> (Elo con 5.115 partidos y bajas)",
-    "1 47% · X 20% · 2 32%",
-    "Casas: 1 62% · X 21% · 2 17%",
-    "Hándicap STG -185 · Total puntos 2.5",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: SK Sturm Graz ❌✅➖❌✅ | NK Celje ❌❌❌❌➖",
-    "• H2H: sin precedentes",
-    "• Bajas: SK Sturm Graz: sin bajas; NK Celje: sin bajas",
-    "• Favorito de las casas: SK Sturm Graz @ 1.54"
-   ],
    "context": "SK Sturm Graz vs NK Celje (🏆 Europa League, fútbol). Modelo Elo con 10 años de historial ajustado por bajas: SK Sturm Graz 47%, empate 20%, NK Celje 32%. Cuotas DraftKings 1.541/4.6/5.5, hándicap STG -185, total 2.5. Forma SK Sturm Graz ❌✅➖❌✅, NK Celje ❌❌❌❌➖. H2H sin precedentes. Bajas SK Sturm Graz: ninguna. Bajas NK Celje: ninguna.",
    "captured": "2026-11-03T06:59",
    "version": "7948daf",
@@ -6568,18 +6428,6 @@
    "start": "2026-11-05T20:00Z",
    "league": "🏆 Europa League",
    "sport": "🏆",
-   "info": [
-    "📊 <b>Escenarios</b> (Elo con 5.115 partidos y bajas)",
-    "1 55% · X 19% · 2 26%",
-    "Casas: 1 65% · X 20% · 2 15%",
-    "Hándicap SUN -210 · Total puntos 2.5",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Sunderland ✅✅➖ | Dinamo Zagreb ❌❌➖✅❌",
-    "• H2H: sin precedentes",
-    "• Bajas: Sunderland: sin bajas; Dinamo Zagreb: sin bajas",
-    "• Favorito de las casas: Sunderland @ 1.48"
-   ],
    "context": "Sunderland vs Dinamo Zagreb (🏆 Europa League, fútbol). Modelo Elo con 10 años de historial ajustado por bajas: Sunderland 55%, empate 19%, Dinamo Zagreb 26%. Cuotas DraftKings 1.476/4.7/6.5, hándicap SUN -210, total 2.5. Forma Sunderland ✅✅➖, Dinamo Zagreb ❌❌➖✅❌. H2H sin precedentes. Bajas Sunderland: ninguna. Bajas Dinamo Zagreb: ninguna.",
    "captured": "2026-11-03T06:59",
    "version": "7948daf",
@@ -6600,18 +6448,6 @@
    "start": "2026-11-05T20:00Z",
    "league": "🏆 Europa League",
    "sport": "🏆",
-   "info": [
-    "📊 <b>Escenarios</b> (Elo con 5.115 partidos y bajas)",
-    "1 54% · X 19% · 2 27%",
-    "Casas: 1 54% · X 24% · 2 22%",
-    "Hándicap TOR -130 · Total puntos 2.5",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Torreense ✅❌❌ | Ararat-Armenia ✅❌❌❌❌",
-    "• H2H: sin precedentes",
-    "• Bajas: Torreense: sin bajas; Ararat-Armenia: sin bajas",
-    "• Favorito de las casas: Torreense @ 1.77"
-   ],
    "context": "Torreense vs Ararat-Armenia (🏆 Europa League, fútbol). Modelo Elo con 10 años de historial ajustado por bajas: Torreense 54%, empate 19%, Ararat-Armenia 27%. Cuotas DraftKings 1.769/3.9/4.4, hándicap TOR -130, total 2.5. Forma Torreense ✅❌❌, Ararat-Armenia ✅❌❌❌❌. H2H sin precedentes. Bajas Torreense: ninguna. Bajas Ararat-Armenia: ninguna.",
    "captured": "2026-11-03T06:59",
    "version": "7948daf",
@@ -17851,7 +17687,11 @@
    "version": "63985fa",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "0-2",
+   "result": false,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "H",
@@ -26498,10 +26338,6 @@
    "start": "2026-11-05T20:00:00+00:00",
    "league": "💎 Valor vs Pinnacle · UEFA - Europa League",
    "sport": "⚽💎",
-   "info": [
-    "💎 <b>Valor contra Pinnacle</b>: Smarkets paga 1.23 y el precio justo de Pinnacle es 1.16 (ventaja +5.5%)",
-    "Backtest 2015-2026 (cuota ≤ 2.5, > 3 %): ROI +11 % ± 3 %, CLV +5 %."
-   ],
    "context": "Benfica vs Lech Poznan (UEFA - Europa League). Estrategia de valor: Smarkets 1.23 frente a Pinnacle justo 1.16.",
    "captured": "2026-11-05T19:03",
    "version": "36a83df",
@@ -26522,10 +26358,6 @@
    "start": "2026-11-05T20:00:00+00:00",
    "league": "💎 Valor vs Pinnacle · UEFA - Europa League",
    "sport": "⚽💎",
-   "info": [
-    "💎 <b>Valor contra Pinnacle</b>: Smarkets paga 1.58 y el precio justo de Pinnacle es 1.49 (ventaja +5.6%)",
-    "Backtest 2015-2026 (cuota ≤ 2.5, > 3 %): ROI +11 % ± 3 %, CLV +5 %."
-   ],
    "context": "Sunderland vs Dinamo Zagreb (UEFA - Europa League). Estrategia de valor: Smarkets 1.58 frente a Pinnacle justo 1.49.",
    "captured": "2026-11-05T19:03",
    "version": "36a83df",
@@ -26552,10 +26384,6 @@
    "start": "2026-11-05T20:00:00+00:00",
    "league": "💎 Valor vs Pinnacle · UEFA - Europa League",
    "sport": "⚽💎",
-   "info": [
-    "💎 <b>Valor contra Pinnacle</b>: Smarkets paga 2.06 y el precio justo de Pinnacle es 1.98 (ventaja +3.9%)",
-    "Backtest 2015-2026 (cuota ≤ 2.5, > 3 %): ROI +11 % ± 3 %, CLV +5 %."
-   ],
    "context": "AZ Alkmaar vs Juventus (UEFA - Europa League). Estrategia de valor: Smarkets 2.06 frente a Pinnacle justo 1.98.",
    "captured": "2026-11-05T19:03",
    "version": "36a83df",
@@ -26576,10 +26404,6 @@
    "start": "2026-11-05T20:00:00+00:00",
    "league": "💎 Valor vs Pinnacle · UEFA - Europa League",
    "sport": "⚽💎",
-   "info": [
-    "💎 <b>Valor contra Pinnacle</b>: Smarkets paga 2.35 y el precio justo de Pinnacle es 2.28 (ventaja +3.3%)",
-    "Backtest 2015-2026 (cuota ≤ 2.5, > 3 %): ROI +11 % ± 3 %, CLV +5 %."
-   ],
    "context": "Celtic vs Besiktas (UEFA - Europa League). Estrategia de valor: Smarkets 2.35 frente a Pinnacle justo 2.28.",
    "captured": "2026-11-05T19:03",
    "version": "36a83df",
@@ -26606,7 +26430,11 @@
    "version": "36a83df",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "3-1",
+   "result": false,
+   "close_p": null,
+   "logged": true
   },
   {
    "key": "vp|2026-11-05|Bayer Leverkusen|Marseille",
@@ -26621,10 +26449,6 @@
    "start": "2026-11-05T20:00:00+00:00",
    "league": "💎 Valor vs Pinnacle · UEFA - Europa League",
    "sport": "⚽💎",
-   "info": [
-    "💎 <b>Valor contra Pinnacle</b>: Smarkets paga 1.41 y el precio justo de Pinnacle es 1.35 (ventaja +4.3%)",
-    "Backtest 2015-2026 (cuota ≤ 2.5, > 3 %): ROI +11 % ± 3 %, CLV +5 %."
-   ],
    "context": "Bayer Leverkusen vs Marseille (UEFA - Europa League). Estrategia de valor: Smarkets 1.41 frente a Pinnacle justo 1.35.",
    "captured": "2026-11-05T19:19",
    "version": "37290fb",
@@ -26646,26 +26470,16 @@
    "start": "2026-11-05T19:43:00+00:00",
    "league": "🎮⚽ FC 27 · Serie A",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 57.407 partidos)",
-    "Goles esperados: Jankulovski 2.18 · pikalicaaa 2.35",
-    "Ganador: Jankulovski 35% · empate 23% · pikalicaaa 42%",
-    "Total: más de 4.5 goles 47% · menos 53%",
-    "Hándicap pikalicaaa: −1.5 26% · −2.5 13%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Jankulovski ❌✅✅✅❌ | pikalicaaa ✅❌➖❌✅",
-    "• Partidos: Jankulovski 786 | pikalicaaa 586",
-    "• Liga: Serie A",
-    "• Unibet: 1 1.88 · X 5.80 · 2 2.30 (sin margen 47%/15%/38%) · ventaja +34%. Sin stake hasta demostrar ROI con estas cuotas.",
-    "• En España: LeoVegas España 5.80 (+35%) · Paf España 5.80 (+35%)"
-   ],
    "context": "EA FC Esoccer Battle Jankulovski vs pikalicaaa (Serie A): goles esperados 2.18-2.35, 1X2 35%/23%/42%. Sin cuotas de casa.",
    "captured": "2026-11-05T19:34",
    "version": "3c5637d",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "3-1",
+   "result": false,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "D",
@@ -26700,7 +26514,44 @@
    "version": "3c5637d",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "anunciada": true
+  },
+  {
+   "market": "D",
+   "pick": "Empate",
+   "odds": 5.5,
+   "book": "Unibet",
+   "implied": 0.16,
+   "edge": 0.08,
+   "sin_stake": true,
+   "p": 0.196,
+   "key": "fc|2364565",
+   "match": "Rodja vs w1nkos",
+   "start": "2026-11-05T20:28:00+00:00",
+   "league": "🎮⚽ FC 27 · Europa League",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 57.440 partidos)",
+    "Goles esperados: Rodja 2.78 · w1nkos 3.46",
+    "Ganador: Rodja 28% · empate 20% · w1nkos 52%",
+    "Total: más de 6.5 goles 43% · menos 57%",
+    "Hándicap w1nkos: −1.5 37% · −2.5 23%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Rodja ➖❌✅❌❌ | w1nkos ✅✅✅✅✅",
+    "• Partidos: Rodja 948 | w1nkos 1141",
+    "• Liga: Europa League",
+    "• Unibet: 1 2.55 · X 5.50 · 2 1.78 (sin margen 35%/16%/49%) · ventaja +8%. Sin stake hasta demostrar ROI con estas cuotas.",
+    "• En España: LeoVegas España 5.50 (+8%) · Paf España 5.50 (+8%)"
+   ],
+   "context": "EA FC Esoccer Battle Rodja vs w1nkos (Europa League): goles esperados 2.78-3.46, 1X2 28%/20%/52%. Sin cuotas de casa.",
+   "captured": "2026-11-05T20:06",
+   "version": "de9fb53",
+   "bajas": "",
+   "considered": true,
+   "placed": false,
+   "anunciada": true
   }
  ],
  "bank": {
@@ -27158,7 +27009,7 @@
  },
  "scoreboard_id": 156,
  "scoreboard_text": "📊 <b>MARCADOR DEL BOT</b>\n━━━━━━━━━━━━━━━\n🟩 Ganadas: <b>10</b> (40 %)\n🟥 Perdidas: <b>15</b> (60 %)\n⏳ En juego: 5\n\nÚltimas 25:\n🟥🟥🟥🟩🟥🟩🟥🟥🟥🟥🟥🟥🟥🟥🟩🟥🟥🟩🟩🟩🟩🟩🟥🟩🟩\n━━━━━━━━━━━━━━━\n💵 Beneficio -12.68 $ · ROI -26.0 %\n📐 CLV medio +2.5 % (cuota cogida vs cierre)\n💰 Banca: <b>87.32 €</b> (-12.68 € desde 100 €) · libre 80.57 €{\"inline_keyboard\": [[{\"text\": \"\\ud83d\\udcc8 Ver historial completo y fallos\", \"url\": \"https://github.com/STAMFORD313/analista313/blob/main/ESTADISTICAS.md\"}], [{\"text\": \"\\u26bd F\\u00fatbol\", \"callback_data\": \"dep:futbol\"}, {\"text\": \"\\ud83c\\udfc0 NBA\\u00b7NCAA\", \"callback_data\": \"dep:nba\"}, {\"text\": \"\\ud83c\\udfc8 NFL\\u00b7NCAA\", \"callback_data\": \"dep:nfl\"}], [{\"text\": \"\\ud83c\\udfc6 Champions\\u00b7Europa\", \"callback_data\": \"dep:europa\"}, {\"text\": \"\\ud83c\\udfd2 NHL\", \"callback_data\": \"dep:nhl\"}, {\"text\": \"\\u26be MLB\", \"callback_data\": \"dep:mlb\"}], [{\"text\": \"\\ud83e\\udd4a UFC\", \"callback_data\": \"dep:ufc\"}, {\"text\": \"\\ud83c\\udfbe Tenis\", \"callback_data\": \"dep:tenis\"}, {\"text\": \"\\ud83c\\udfae CS2\", \"callback_data\": \"dep:cs2\"}], [{\"text\": \"\\ud83d\\udc09 Dota 2\", \"callback_data\": \"dep:dota2\"}, {\"text\": \"\\ud83e\\uddd9 LoL\", \"callback_data\": \"dep:lol\"}, {\"text\": \"\\ud83d\\udd2b R6 Siege\", \"callback_data\": \"dep:r6\"}], [{\"text\": \"\\ud83d\\udcf1 MLBB\", \"callback_data\": \"dep:mlbb\"}, {\"text\": \"\\ud83c\\udfae\\u26bd FC 27\", \"callback_data\": \"dep:fc\"}]]}",
- "fc_sent": "2026-11-05T15:43:18.565569+00:00",
+ "fc_sent": "2026-11-05T20:06:00.468719+00:00",
  "sgp": {},
  "combo_sent": "2026-11-03T19:29:18.780644+00:00",
  "fc_sim_sent": "2026-11-05T17:34:39.724419+00:00",
