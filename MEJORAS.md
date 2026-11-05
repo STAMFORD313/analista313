@@ -199,3 +199,4 @@
 - 2026-11-05: FC 27 · empate por liga (factor real/previsto con 30 días, encogido K=100) dentro de train_fc_calib: log-loss fuera de muestra 0.9734 → 0.9721 (−0.0013 ± 0.0003); con cara a cara 0.9716. CSL ×0.80, Volta < 1, Champions A ×1.09. Se recalcula cada 30 min y solo se guarda si mejora > 2 e.t.
 - 2026-11-05: tabla de FC 27 en lenguaje claro (día a día con ✅/❌ y € ganados, total, «de cada 10 € apostados…» y empates con ventaja aparte).
 - 2026-11-05: tabla de FC 27 con el resultado honesto desde la regla nueva (solo empates con ventaja, desde 5/11 12:30 UTC); lo anterior sirvió para elegir la regla.
+- 2026-11-05: arreglado el bucle de subida de los workflows (analista, nutrición, entrenar, rellenos): «git rebase --abort» sin rebase en curso daba error y bash -e cortaba el script al primer push rechazado → la pasada de nutrición de las 13:37 (entrenamiento FC 27 incluido) se perdió. Ahora reintenta 5 veces.
