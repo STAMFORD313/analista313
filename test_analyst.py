@@ -1469,3 +1469,6 @@ _dp = pd.DataFrame({"league": ["UEFA - Youth League U19", "UEFA - Champions Leag
                     "home": ["PSV"] * 5})
 assert list(_PN.senior(_dp).league.fillna("-")) == ["UEFA - Champions League", "-"]
 print("ok Pinnacle sin juveniles")
+
+assert _FU.fm_compact({"general": None, "header": {"teams": [None, None]}, "content": {"stats": {"Periods": {"All": None}}}})["stats"] == {}
+print("ok FotMob con huecos en la respuesta")

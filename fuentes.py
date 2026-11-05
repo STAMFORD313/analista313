@@ -109,10 +109,11 @@ def fm_keep(name, ccode):
 
 def fm_compact(d):
     """Detalle de FotMob → {id, date, league, home, away, hs, as, stats: {clave: [local, visitante]}} (solo números)."""
-    g = d.get("general") or {}; h = (d.get("header") or {}).get("teams") or [{}, {}]
+    g = d.get("general") or {}; h = [t or {} for t in ((d.get("header") or {}).get("teams") or [{}, {}])] + [{}, {}]
     stats = {}
-    for grp in (((d.get("content") or {}).get("stats") or {}).get("Periods") or {}).get("All", {}).get("stats", []) or []:
-        for s in grp.get("stats") or []:
+    for grp in ((((d.get("content") or {}).get("stats") or {}).get("Periods") or {}).get("All") or {}).get("stats") or []:
+        for s in (grp or {}).get("stats") or []:
+            if not isinstance(s, dict): continue
             v = s.get("stats")
             if s.get("key") and isinstance(v, list) and len(v) == 2:
                 try: stats[s["key"]] = [float(str(x).split(" ")[0].replace("%", "")) for x in v]
@@ -124,9 +125,10 @@ def fm_compact(d):
 
 def fm_day(day, done):
     """Partidos terminados de un día en las ligas de FM_LEAGUES aún no guardados: [(id, liga)]."""
-    r = requests.get(f"{FM}/matches?date={day:%Y%m%d}", headers=UA, timeout=40).json()
+    r = requests.get(f"{FM}/matches?date={day:%Y%m%d}", headers=UA, timeout=40).json() or {}
     out = []
     for lg in r.get("leagues") or []:
+        if not isinstance(lg, dict): continue
         name = lg.get("name") or ""
         if not fm_keep(name, lg.get("ccode") or ""): continue
         for m in lg.get("matches") or []:
@@ -144,15 +146,16 @@ def update_fotmob(max_details=400, days_back=3):
     today = pd.Timestamp.now(tz="UTC").normalize()
     back_from = pd.Timestamp(prog.get("atras", str(today - pd.Timedelta(days=days_back + 1))))
     days = list(pd.date_range(end=today, periods=days_back, freq="D")[::-1]) + list(pd.date_range(end=back_from, periods=400, freq="D")[::-1])
-    n = 0
+    n = fails = 0
     for i, day in enumerate(days):
+        if fails >= 5 and n == 0: print("FotMob: 5 días seguidos sin respuesta válida, se deja para la próxima"); break
         if n >= max_details or day < today - pd.DateOffset(years=3): break
         try: ids = fm_day(day, done)
-        except (requests.RequestException, ValueError) as e: print("FotMob", day.date(), repr(e)[:100]); continue
+        except (requests.RequestException, ValueError, AttributeError, TypeError) as e: print("FotMob", day.date(), repr(e)[:100]); fails += 1; continue
         for mid in ids:
             if n >= max_details: break
-            try: c = fm_compact(requests.get(f"{FM}/matchDetails?matchId={mid}", headers=UA, timeout=40).json())
-            except (requests.RequestException, ValueError) as e: print("FotMob", mid, repr(e)[:100]); continue
+            try: c = fm_compact(requests.get(f"{FM}/matchDetails?matchId={mid}", headers=UA, timeout=40).json() or {})
+            except (requests.RequestException, ValueError, AttributeError, TypeError) as e: print("FotMob", mid, repr(e)[:100]); continue
             if not c["date"]: continue
             with (FM_DIR / f"{str(c['date'])[:7].replace('-', '')}.jsonl").open("a", encoding="utf-8") as f:
                 f.write(json.dumps({**c, "id": str(c["id"])}, ensure_ascii=False) + "\n")
