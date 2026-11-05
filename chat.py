@@ -509,7 +509,9 @@ COMBO_RX = r"combinad|combi\b|parlay|apuesta segura|segura|popurri|lo mas seguro
 
 
 COMBO_FLOOR, COMBO_MAX = 0.60, 8  # «lo máximo de forma segura»: se añaden piernas mientras todas juntas sigan ≥ 60 %
-DAY_LEAGUES = ["SP1", "E0", "I1", "D1", "F1", "ucl", "uel", "SP2", "E1", "P1", "N1", "T1", "B1"]
+DAY_LEAGUES = ["SP1", "E0", "I1", "D1", "F1", "ucl", "uel", "SP2", "E1", "P1", "N1", "T1", "B1",
+               # con datos de ESPN y medias de liga también (córners/tarjetas): más partidos donde elegir piernas
+               "I2", "D2", "F2", "G1", "SC0", "ARG", "BRA", "MEX", "USA", "JPN", "AUT", "DNK", "NOR", "SWE", "SWZ"]
 
 
 def safe_legs(kh, ka, D):

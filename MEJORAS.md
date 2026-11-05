@@ -185,3 +185,4 @@
 - 2026-11-05: decisión props de fútbol con 753 titulares liquidadas: no se apuestan (ROI −38.5 % ± 9.4 % todas; −74 % en las 15 con valor del modelo). NBA aún sin liquidadas.
 - 2026-11-05: arreglado el experto datos_fotmob (fallaba desde el 4-nov 20:12 con NoneType: respuestas con huecos de FotMob); comprobado en Actions: vuelve a guardar partidos.
 - 2026-11-05: CLV de hándicaps (sph/spa: 60 señales de NBA/NFL/universitario) con el cierre de Pinnacle cuando cierra en la misma línea. Revisión semanal: ningún segmento apostado; sin cambios de stake.
+- 2026-11-05: combinadas, crear apuesta y barridos buscan partidos en las 28 ligas con datos de ESPN (antes 13): Argentina, Brasil, México, MLS, Japón, segundas divisiones, Escocia, Grecia, Austria, nórdicas y Suiza.
