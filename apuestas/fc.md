@@ -1,43 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 05/11/2026 10:08 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Revange vs dm1trena — 05/11 · 10:10
-
-👀 candidata · 🎮⚽ FC 27 · Champions League AFC · **Gana dm1trena** @ **4.00** (Unibet) · prob 31% vs casas 22% · ventaja +23%
-
-- ✅ Valor: ventaja +23% (mín. 14% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 56.798 partidos)  
-Goles esperados: Revange 2.48 · dm1trena 2.16  
-Ganador: Revange 47% · empate 22% · dm1trena 31%  
-Total: más de 4.5 goles 49% · menos 51%  
-Hándicap Revange: −1.5 28% · −2.5 15%  
-🔎 **Claves**  
-• Forma: Revange ✅✅❌➖❌ | dm1trena ✅❌➖✅❌  
-• Partidos: Revange 556 | dm1trena 1013  
-• Liga: Champions League AFC  
-• Unibet: 1 1.60 · X 3.75 · 2 4.00 (sin margen 55%/23%/22%) · ventaja +23%. Sin stake hasta demostrar ROI con estas cuotas.  
-
-## BlackStar98 vs DaVa — 05/11 · 10:10
-
-👀 candidata · 🎮⚽ FC 27 · Champions League AFC · **Empate** @ **4.25** (Unibet) · prob 24% vs casas 20% · ventaja +1%
-
-- ❌ Valor: ventaja +1% (mín. 9% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 56.798 partidos)  
-Goles esperados: BlackStar98 1.83 · DaVa 2.23  
-Ganador: BlackStar98 30% · empate 24% · DaVa 47%  
-Total: más de 4.5 goles 38% · menos 62%  
-Hándicap DaVa: −1.5 28% · −2.5 14%  
-🔎 **Claves**  
-• Forma: BlackStar98 ❌✅➖✅✅ | DaVa ➖❌✅➖➖  
-• Partidos: BlackStar98 270 | DaVa 1132  
-• Liga: Champions League AFC  
-• Unibet: 1 2.45 · X 4.25 · 2 1.98 (sin margen 36%/20%/44%) · ventaja +1%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 4.25 (+1%) · Paf España 4.25 (+1%)  
+Actualizado 05/11/2026 10:13 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## why vs goldfer — 05/11 · 10:14
 
