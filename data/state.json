@@ -1824,7 +1824,11 @@
   "fc|2364837",
   "fc|2364707",
   "fc|2364706",
-  "fc|2366526"
+  "fc|2366526",
+  "wta|2026-11-06|Leyre Romero Gormaz|Julia Riera",
+  "fc|2363882",
+  "fc|2363881",
+  "fc|2366525"
  ],
  "signals": [
   {
@@ -14278,7 +14282,11 @@
    "version": "edc560e",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "1-2",
+   "result": true,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "A",
@@ -24641,7 +24649,11 @@
     "confianza": 3,
     "modelo": "gemini-flash-lite-latest"
    },
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "0-1",
+   "close_p": 0.4577,
+   "logged": true
   },
   {
    "market": "H",
@@ -26129,7 +26141,11 @@
     "confianza": 4,
     "modelo": "gemini-flash-lite-latest"
    },
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "1-1",
+   "close_p": 0.5593,
+   "logged": true
   },
   {
    "key": "vp|2026-11-05|Mjallby|Borac Banja Luka",
@@ -26149,7 +26165,11 @@
    "version": "3d07afd",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "2-0",
+   "close_p": 0.3975,
+   "logged": true
   },
   {
    "key": "vp|2026-11-05|Sparta Prague|Bournemouth",
@@ -26175,7 +26195,11 @@
     "confianza": 4,
     "modelo": "gemini-flash-lite-latest"
    },
-   "placed": true
+   "placed": true,
+   "result": true,
+   "score": "1-3",
+   "close_p": 0.5866,
+   "logged": true
   },
   {
    "key": "vp|2026-11-05|Midtjylland|Ajax",
@@ -26201,7 +26225,11 @@
     "confianza": 4,
     "modelo": "gemini-flash-lite-latest"
    },
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "1-6",
+   "close_p": 0.4428,
+   "logged": true
   },
   {
    "market": "D",
@@ -26504,7 +26532,11 @@
    "bajas": "",
    "considered": true,
    "placed": false,
-   "anunciada": true
+   "anunciada": true,
+   "score": "1-6",
+   "result": false,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "D",
@@ -26520,20 +26552,6 @@
    "start": "2026-11-05T20:28:00+00:00",
    "league": "🎮⚽ FC 27 · Europa League",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 57.440 partidos)",
-    "Goles esperados: Rodja 2.78 · w1nkos 3.46",
-    "Ganador: Rodja 28% · empate 20% · w1nkos 52%",
-    "Total: más de 6.5 goles 43% · menos 57%",
-    "Hándicap w1nkos: −1.5 37% · −2.5 23%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Rodja ➖❌✅❌❌ | w1nkos ✅✅✅✅✅",
-    "• Partidos: Rodja 948 | w1nkos 1141",
-    "• Liga: Europa League",
-    "• Unibet: 1 2.55 · X 5.50 · 2 1.78 (sin margen 35%/16%/49%) · ventaja +8%. Sin stake hasta demostrar ROI con estas cuotas.",
-    "• En España: LeoVegas España 5.50 (+8%) · Paf España 5.50 (+8%)"
-   ],
    "context": "EA FC Esoccer Battle Rodja vs w1nkos (Europa League): goles esperados 2.78-3.46, 1X2 28%/20%/52%. Sin cuotas de casa.",
    "captured": "2026-11-05T20:06",
    "version": "de9fb53",
@@ -26614,7 +26632,7 @@
   }
  ],
  "bank": {
-  "balance": 80.57,
+  "balance": 82.83,
   "bets": [
    {
     "date": "2026-11-01",
@@ -27062,12 +27080,13 @@
     "stake": 1.42,
     "odds": 1.59,
     "desc": "Sparta Prague vs Bournemouth → Gana Bournemouth",
-    "status": "abierta"
+    "status": "ganada",
+    "return": 2.26
    }
   ]
  },
  "scoreboard_id": 156,
- "scoreboard_text": "📊 <b>MARCADOR DEL BOT</b>\n━━━━━━━━━━━━━━━\n🟩 Ganadas: <b>10</b> (40 %)\n🟥 Perdidas: <b>15</b> (60 %)\n⏳ En juego: 5\n\nÚltimas 25:\n🟥🟥🟥🟩🟥🟩🟥🟥🟥🟥🟥🟥🟥🟥🟩🟥🟥🟩🟩🟩🟩🟩🟥🟩🟩\n━━━━━━━━━━━━━━━\n💵 Beneficio -12.68 $ · ROI -26.0 %\n📐 CLV medio +2.5 % (cuota cogida vs cierre)\n💰 Banca: <b>87.32 €</b> (-12.68 € desde 100 €) · libre 80.57 €{\"inline_keyboard\": [[{\"text\": \"\\ud83d\\udcc8 Ver historial completo y fallos\", \"url\": \"https://github.com/STAMFORD313/analista313/blob/main/ESTADISTICAS.md\"}], [{\"text\": \"\\u26bd F\\u00fatbol\", \"callback_data\": \"dep:futbol\"}, {\"text\": \"\\ud83c\\udfc0 NBA\\u00b7NCAA\", \"callback_data\": \"dep:nba\"}, {\"text\": \"\\ud83c\\udfc8 NFL\\u00b7NCAA\", \"callback_data\": \"dep:nfl\"}], [{\"text\": \"\\ud83c\\udfc6 Champions\\u00b7Europa\", \"callback_data\": \"dep:europa\"}, {\"text\": \"\\ud83c\\udfd2 NHL\", \"callback_data\": \"dep:nhl\"}, {\"text\": \"\\u26be MLB\", \"callback_data\": \"dep:mlb\"}], [{\"text\": \"\\ud83e\\udd4a UFC\", \"callback_data\": \"dep:ufc\"}, {\"text\": \"\\ud83c\\udfbe Tenis\", \"callback_data\": \"dep:tenis\"}, {\"text\": \"\\ud83c\\udfae CS2\", \"callback_data\": \"dep:cs2\"}], [{\"text\": \"\\ud83d\\udc09 Dota 2\", \"callback_data\": \"dep:dota2\"}, {\"text\": \"\\ud83e\\uddd9 LoL\", \"callback_data\": \"dep:lol\"}, {\"text\": \"\\ud83d\\udd2b R6 Siege\", \"callback_data\": \"dep:r6\"}], [{\"text\": \"\\ud83d\\udcf1 MLBB\", \"callback_data\": \"dep:mlbb\"}, {\"text\": \"\\ud83c\\udfae\\u26bd FC 27\", \"callback_data\": \"dep:fc\"}]]}",
+ "scoreboard_text": "📊 <b>MARCADOR DEL BOT</b>\n━━━━━━━━━━━━━━━\n🟩 Ganadas: <b>11</b> (42 %)\n🟥 Perdidas: <b>15</b> (58 %)\n⏳ En juego: 4\n\nÚltimas 26:\n🟥🟥🟥🟩🟥🟩🟥🟥🟥🟥🟥🟥🟥🟥🟩🟥🟥🟩🟩🟩🟩🟩🟥🟩🟩🟩\n━━━━━━━━━━━━━━━\n💵 Beneficio -11.84 $ · ROI -23.6 %\n📐 CLV medio +2.5 % (cuota cogida vs cierre)\n💰 Banca: <b>88.16 €</b> (-11.84 € desde 100 €) · libre 82.83 €{\"inline_keyboard\": [[{\"text\": \"\\ud83d\\udcc8 Ver historial completo y fallos\", \"url\": \"https://github.com/STAMFORD313/analista313/blob/main/ESTADISTICAS.md\"}], [{\"text\": \"\\u26bd F\\u00fatbol\", \"callback_data\": \"dep:futbol\"}, {\"text\": \"\\ud83c\\udfc0 NBA\\u00b7NCAA\", \"callback_data\": \"dep:nba\"}, {\"text\": \"\\ud83c\\udfc8 NFL\\u00b7NCAA\", \"callback_data\": \"dep:nfl\"}], [{\"text\": \"\\ud83c\\udfc6 Champions\\u00b7Europa\", \"callback_data\": \"dep:europa\"}, {\"text\": \"\\ud83c\\udfd2 NHL\", \"callback_data\": \"dep:nhl\"}, {\"text\": \"\\u26be MLB\", \"callback_data\": \"dep:mlb\"}], [{\"text\": \"\\ud83e\\udd4a UFC\", \"callback_data\": \"dep:ufc\"}, {\"text\": \"\\ud83c\\udfbe Tenis\", \"callback_data\": \"dep:tenis\"}, {\"text\": \"\\ud83c\\udfae CS2\", \"callback_data\": \"dep:cs2\"}], [{\"text\": \"\\ud83d\\udc09 Dota 2\", \"callback_data\": \"dep:dota2\"}, {\"text\": \"\\ud83e\\uddd9 LoL\", \"callback_data\": \"dep:lol\"}, {\"text\": \"\\ud83d\\udd2b R6 Siege\", \"callback_data\": \"dep:r6\"}], [{\"text\": \"\\ud83d\\udcf1 MLBB\", \"callback_data\": \"dep:mlbb\"}, {\"text\": \"\\ud83c\\udfae\\u26bd FC 27\", \"callback_data\": \"dep:fc\"}]]}",
  "fc_sent": "2026-11-05T20:06:00.468719+00:00",
  "sgp": {},
  "combo_sent": "2026-11-03T19:29:18.780644+00:00",
