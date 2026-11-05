@@ -109,8 +109,8 @@ def pinnacle_fair(leg):
     f = PIN_FILE.get(leg["src"], "esports" if leg["src"].startswith("esports:") else None)
     if not f or leg.get("side") not in ("H", "A"): return None
     if f not in _PIN:
-        try: d = pd.read_csv(A.DATA / "pinnacle" / f"{f}.csv")
-        except FileNotFoundError: d = pd.DataFrame(columns=["market"])
+        import pinnacle
+        d = pinnacle.read(f)
         _PIN[f] = d[d.market == "moneyline"].dropna(subset=["o_home", "o_away"])
     t = pd.Timestamp(leg["start"])
     for r in _PIN[f].itertuples():

@@ -180,3 +180,4 @@
 - 2026-11-04: resumen de simuladas con calibración: aciertos esperados por el bot (suma de prob.) frente a reales y ROI, sin contar boletos repetidos.
 - 2026-11-05: simulada perdida y avisada en cuanto falla una pierna (antes esperaba a que acabaran todas: la de cuota 18.7 llevaba horas perdida por las tarjetas del Porto–Napoli).
 - 2026-11-05: CLV en las simuladas: cada pierna de ganador de fútbol liquidada guarda cuota × cierre de Pinnacle sin margen − 1; el resumen da la media (métrica de si el bot coge buenos precios).
+- 2026-11-05: Pinnacle sin juveniles/reservas/femenino (281 de 2061 filas): los nombraba igual que al primer equipo y podían emparejarse con el partido de los mayores (ventajas y CLV falsos; máxima vista +56.6 %).

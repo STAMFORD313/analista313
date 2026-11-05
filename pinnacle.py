@@ -3,7 +3,7 @@
 Guarda en data/pinnacle/<deporte>.csv una fila por partido y mercado principal (ganador, total y hándicap del partido
 completo) con la ÚLTIMA cuota vista: como se sobrescribe en cada pasada hasta que empieza, al final queda la de cierre.
 Lo lanza nutricion.py (experto «datos_pinnacle»). Uso: python pinnacle.py"""
-import json, sys
+import json, re, sys
 
 import pandas as pd
 import requests
@@ -55,6 +55,22 @@ def snapshot(sport_id, hours=72):
     return rows
 
 
+# juveniles, reservas y femenino: Pinnacle los nombra igual que al primer equipo («PSV – Club Brugge» de la Youth League)
+# → se emparejarían con el partido de los mayores (ventajas y CLV falsos). Fuera al guardar y al leer.
+NOT_SENIOR = re.compile(r"U\d\d|Youth|Reserve|Women|Femen|Frauen|Primavera|Juvenil|Amateur", re.I)
+
+
+def senior(d):
+    """Filas de primeros equipos (sin juveniles/reservas/femenino) de un DataFrame de Pinnacle."""
+    return d[~d["league"].fillna("").astype(str).str.contains(NOT_SENIOR)] if "league" in d and len(d) else d
+
+
+def read(name):
+    """data/pinnacle/<name>.csv sin juveniles/reservas/femenino (DataFrame vacío con columnas si no existe)."""
+    f = DIR / f"{name}.csv"
+    return senior(pd.read_csv(f)) if f.exists() else pd.DataFrame(columns=COLS)
+
+
 def update(hours=72):
     DIR.mkdir(parents=True, exist_ok=True)
     tot = 0
@@ -65,7 +81,7 @@ def update(hours=72):
         old = pd.read_csv(f) if f.exists() else pd.DataFrame(columns=COLS)
         new = pd.DataFrame(rows, columns=COLS)
         # la fila más reciente de cada partido y mercado: antes de empezar se sobrescribe → queda la cuota de cierre
-        d = pd.concat([old, new]).drop_duplicates(["matchup", "market"], keep="last")
+        d = senior(pd.concat([old, new]).drop_duplicates(["matchup", "market"], keep="last"))
         d.to_csv(f, index=False); tot += len(new)
         print(f"Pinnacle {name}: {len(new)} mercados ahora, {len(d)} guardados")
     print(f"Pinnacle: {tot} mercados")
@@ -88,8 +104,7 @@ def close_p(s):
     f = FILE_OF.get(lg, "futbol" if lg in A.ALL_LEAGUES or lg in ("ucl", "uel", "uecl") else None)
     if not f or " vs " not in s.get("match", ""): return None
     if f not in _CLOSE:
-        try: _CLOSE[f] = pd.read_csv(DIR / f"{f}.csv")
-        except FileNotFoundError: _CLOSE[f] = pd.DataFrame(columns=COLS)
+        _CLOSE[f] = read(f)
     d, (home, away), t = _CLOSE[f], s["match"].split(" vs ", 1), pd.Timestamp(s["start"])
     m = s["market"]
     side = {"home": "h", "H": "h", "t1": "h", "away": "a", "A": "a", "t2": "a", "D": "d",

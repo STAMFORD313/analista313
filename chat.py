@@ -262,7 +262,8 @@ def match_market(home, away):
     now = pd.Timestamp.now(tz="UTC")
     for f, cols in ((A.DATA / "espn" / "odds_ucl.csv", ("oh", "od", "oa")), (A.DATA / "espn" / "odds_uel.csv", ("oh", "od", "oa")),
                     (A.DATA / "pinnacle" / "futbol.csv", ("o_home", "o_draw", "o_away"))):
-        d = multideporte._latest(f) if "espn" in str(f) else (pd.read_csv(f) if f.exists() else pd.DataFrame())
+        import pinnacle
+        d = multideporte._latest(f) if "espn" in str(f) else pinnacle.read("futbol")
         if not len(d): continue
         if "market" in d: d = d[d.market == "moneyline"]
         for r in d.itertuples():

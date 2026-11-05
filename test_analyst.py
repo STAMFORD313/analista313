@@ -1464,3 +1464,8 @@ try:
     assert _SL.leg_clv({"src": "espn:nba", "home": "A", "away": "B", "start": "x", "txt": "Gana A", "odds": 2.0}) is None
 finally: _PN.close_p = _cp0
 print("ok CLV de piernas simuladas")
+
+_dp = pd.DataFrame({"league": ["UEFA - Youth League U19", "UEFA - Champions League", "Uruguay - Reserve League", "CAF - Champions League Women", None],
+                    "home": ["PSV"] * 5})
+assert list(_PN.senior(_dp).league.fillna("-")) == ["UEFA - Champions League", "-"]
+print("ok Pinnacle sin juveniles")

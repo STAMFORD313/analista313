@@ -20,8 +20,9 @@ SPORT = "⚽💎"  # segmento propio en la banca y en estrategias.py (no se mezc
 
 
 def fair_rows(now):
-    try: d = pd.read_csv(A.DATA / "pinnacle" / "futbol.csv")
-    except FileNotFoundError: return pd.DataFrame()
+    import pinnacle
+    d = pinnacle.read("futbol")
+    if not len(d): return pd.DataFrame()
     d = d[(d.market == "moneyline")].dropna(subset=["o_home", "o_away", "o_draw"])
     t = pd.to_datetime(d.start, utc=True)
     return d[(t > now + pd.Timedelta(minutes=10)) & (t < now + pd.Timedelta(hours=HOURS))]
@@ -73,8 +74,9 @@ def candidates_ou(now=None, ou=None, min_edge=MIN_EDGE):
     """Más/menos 2.5 goles: Smarkets frente al total de Pinnacle sin margen. Sin stake hasta demostrarlo (laboratorio:
     +5.4 % ± 5 % antes de 2021, +2.9 % ± 3 % después, CLV +3.6 %): se registran para medir su CLV."""
     now = now or pd.Timestamp.now(tz="UTC")
-    try: d = pd.read_csv(A.DATA / "pinnacle" / "futbol.csv")
-    except FileNotFoundError: return []
+    import pinnacle
+    d = pinnacle.read("futbol")
+    if not len(d): return []
     d = d[(d.market == "total") & (d.line == 2.5)].dropna(subset=["o_over", "o_under"])
     t0 = pd.to_datetime(d.start, utc=True); d = d[(t0 > now + pd.Timedelta(minutes=10)) & (t0 < now + pd.Timedelta(hours=HOURS))]
     if not len(d): return []
