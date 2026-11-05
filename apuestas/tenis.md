@@ -1,5 +1,5 @@
 # 🎾 Tenis · apuestas de valor
 
-Actualizado 05/11/2026 09:15 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 05/11/2026 09:40 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 _No hay apuestas de valor próximas en este deporte ahora mismo._

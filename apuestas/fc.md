@@ -1,42 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 05/11/2026 09:15 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Maxa vs Tesla — 05/11 · 09:16
-
-👀 candidata · 🎮⚽ FC 27 · Ligue 1 · **Gana Tesla** @ **1.95** (Unibet) · prob 61% vs casas 45% · ventaja +20%
-
-- ✅ Valor: ventaja +20% (mín. 13% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 56.798 partidos)  
-Goles esperados: Maxa 2.79 · Tesla 3.98  
-Ganador: Maxa 23% · empate 16% · Tesla 61%  
-Total: más de 6.5 goles 52% · menos 48%  
-Hándicap Tesla: −1.5 45% · −2.5 30%  
-🔎 **Claves**  
-• Forma: Maxa ✅➖❌✅✅ | Tesla ✅✅✅❌✅  
-• Partidos: Maxa 837 | Tesla 884  
-• Liga: Ligue 1  
-• Unibet: 1 2.60 · X 3.95 · 2 1.95 (sin margen 33%/22%/45%) · ventaja +20%. Sin stake hasta demostrar ROI con estas cuotas.  
-
-## Kril vs Dan_dragonio — 05/11 · 09:39
-
-👀 candidata · 🎮⚽ FC 27 · Volta World Cup B · **Gana Kril** @ **1.27** (cuota justa (sin casa)) · prob 79% vs casas 79% · ventaja +0%
-
-- ❌ Valor: ventaja +0% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 56.798 partidos)  
-Goles esperados: Kril 5.50 · Dan_dragonio 3.16  
-Ganador: Kril 79% · empate 10% · Dan_dragonio 11%  
-Total: más de 8.5 goles 50% · menos 50%  
-Hándicap Kril: −1.5 61% · −2.5 47%  
-🔎 **Claves**  
-• Forma: Kril ✅❌✅✅✅ | Dan_dragonio ❌❌❌✅❌  
-• Partidos: Kril 293 | Dan_dragonio 1385  
-• Liga: Volta World Cup B  
-• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
+Actualizado 05/11/2026 09:40 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Kril vs Fireline — 05/11 · 10:06
 
@@ -55,6 +19,42 @@ Hándicap Kril: −1.5 65% · −2.5 50%
 • Partidos: Kril 285 | Fireline 88  
 • Liga: Volta World Cup B  
 • Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
+
+## Revange vs dm1trena — 05/11 · 10:10
+
+👀 candidata · 🎮⚽ FC 27 · Champions League AFC · **Gana dm1trena** @ **4.00** (Unibet) · prob 31% vs casas 22% · ventaja +23%
+
+- ✅ Valor: ventaja +23% (mín. 14% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 56.798 partidos)  
+Goles esperados: Revange 2.48 · dm1trena 2.16  
+Ganador: Revange 47% · empate 22% · dm1trena 31%  
+Total: más de 4.5 goles 49% · menos 51%  
+Hándicap Revange: −1.5 28% · −2.5 15%  
+🔎 **Claves**  
+• Forma: Revange ✅✅❌➖❌ | dm1trena ✅❌➖✅❌  
+• Partidos: Revange 556 | dm1trena 1013  
+• Liga: Champions League AFC  
+• Unibet: 1 1.60 · X 3.75 · 2 4.00 (sin margen 55%/23%/22%) · ventaja +23%. Sin stake hasta demostrar ROI con estas cuotas.  
+
+## Tesla vs Maxa — 05/11 · 10:16
+
+👀 candidata · 🎮⚽ FC 27 · Ligue 1 · **Gana Tesla** @ **2.00** (Unibet) · prob 61% vs casas 44% · ventaja +23%
+
+- ✅ Valor: ventaja +23% (mín. 14% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 56.798 partidos)  
+Goles esperados: Tesla 3.98 · Maxa 2.79  
+Ganador: Tesla 61% · empate 16% · Maxa 23%  
+Total: más de 6.5 goles 52% · menos 48%  
+Hándicap Tesla: −1.5 45% · −2.5 30%  
+🔎 **Claves**  
+• Forma: Tesla ✅✅✅❌✅ | Maxa ✅➖❌✅✅  
+• Partidos: Tesla 884 | Maxa 837  
+• Liga: Ligue 1  
+• Unibet: 1 2.00 · X 3.60 · 2 2.70 (sin margen 44%/24%/32%) · ventaja +23%. Sin stake hasta demostrar ROI con estas cuotas.  
 
 ## Dan_dragonio vs Kril — 05/11 · 10:24
 
