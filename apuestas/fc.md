@@ -1,25 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 06/11/2026 10:58 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Pavlinho19 vs Taz — 06/11 · 11:00
-
-👀 candidata · 🎮⚽ FC 27 · World Cup A · **Gana Taz** @ **2.55** (Unibet) · prob 43% vs casas 34% · ventaja +9%
-
-- ❌ Valor: ventaja +9% (mín. 10% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 58.093 partidos)  
-Goles esperados: Pavlinho19 2.71 · Taz 2.92  
-Ganador: Pavlinho19 36% · empate 21% · Taz 43%  
-Total: más de 5.5 goles 49% · menos 51%  
-Hándicap Taz: −1.5 29% · −2.5 16%  
-🔎 **Claves**  
-• Forma: Pavlinho19 ✅❌❌❌❌ | Taz ❌✅❌✅➖  
-• Partidos: Pavlinho19 833 | Taz 909  
-• Liga: World Cup A  
-• Unibet: 1 1.86 · X 4.60 · 2 2.55 (sin margen 47%/19%/34%) · ventaja +9%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.55 (+9%) · Paf España 2.55 (+9%)  
+Actualizado 06/11/2026 11:09 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Taz vs Ganger_29 — 06/11 · 11:12
 
@@ -39,6 +20,25 @@ Hándicap Taz: −1.5 39% · −2.5 25%
 • Liga: World Cup A  
 • Unibet: 1 2.06 · X 4.70 · 2 2.23 (sin margen 42%/19%/39%) · ventaja +15%. Sin stake hasta demostrar ROI con estas cuotas.  
 • En España: LeoVegas España 2.06 (+15%) · Paf España 2.06 (+15%)  
+
+## d1pseN vs Bomb1to — 06/11 · 11:15
+
+👀 candidata · 🎮⚽ FC 27 · World Cup B · **Gana d1pseN** @ **3.25** (Unibet) · prob 35% vs casas 27% · ventaja +12%
+
+- ✅ Valor: ventaja +12% (mín. 11% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 58.105 partidos)  
+Goles esperados: d1pseN 2.87 · Bomb1to 2.98  
+Ganador: d1pseN 35% · empate 23% · Bomb1to 43%  
+Total: más de 5.5 goles 53% · menos 47%  
+Hándicap Bomb1to: −1.5 28% · −2.5 16%  
+🔎 **Claves**  
+• Forma: d1pseN ❌✅➖➖➖ | Bomb1to ✅❌✅✅❌  
+• Partidos: d1pseN 210 | Bomb1to 1202  
+• Liga: World Cup B  
+• Unibet: 1 3.25 · X 3.00 · 2 1.97 (sin margen 27%/29%/44%) · ventaja +12%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 3.25 (+12%) · Paf España 3.25 (+12%)  
 
 ## why vs riko — 06/11 · 11:18
 
