@@ -2023,7 +2023,10 @@
   "fc|2365446",
   "fc|2366013",
   "fc|2366175",
-  "fc|2365191"
+  "fc|2365191",
+  "fc|2365193",
+  "fc|2365192",
+  "fc|2366015"
  ],
  "signals": [
   {
@@ -4425,30 +4428,6 @@
    "score": "3-2",
    "result": true,
    "close_p": 0.6618,
-   "logged": true
-  },
-  {
-   "market": "A",
-   "pick": "Kril",
-   "odds": 1.33,
-   "book": "cuota justa (sin casa)",
-   "p": 0.752,
-   "implied": 0.752,
-   "edge": 0.0,
-   "key": "fc|2359949",
-   "match": "Fireline vs Kril",
-   "start": "2026-11-03T08:01:00+00:00",
-   "league": "🎮⚽ FC 27 · Volta FA Cup",
-   "sport": "🎮⚽",
-   "context": "EA FC Esoccer Battle Fireline vs Kril (Volta FA Cup): goles esperados 2.80-5.22, 1X2 15%/10%/75%. Sin cuotas de casa.",
-   "captured": "2026-11-03T06:59",
-   "version": "7948daf",
-   "bajas": "",
-   "considered": true,
-   "placed": false,
-   "anunciada": true,
-   "score": "1-7",
-   "result": true,
    "logged": true
   },
   {
@@ -26165,6 +26144,30 @@
    "context": "Nara Club vs Kochi United (Japan - J3 League). Estrategia de valor: Unibet 1.87 frente a Pinnacle justo 1.80.",
    "captured": "2026-11-06T07:39",
    "version": "fab7022",
+   "bajas": "",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "key": "vp|2026-11-06|Al-Talaba|Gaz Al Shamal",
+   "market": "H",
+   "pick": "Al-Talaba",
+   "odds": 2.12,
+   "book": "Unibet",
+   "p": 0.4894,
+   "implied": 0.4894,
+   "edge": 0.0376,
+   "match": "Al-Talaba vs Gaz Al Shamal",
+   "start": "2026-11-06T13:45:00+00:00",
+   "league": "💎 Valor vs Pinnacle · Iraq - Stars League",
+   "sport": "⚽💎",
+   "info": [
+    "💎 <b>Valor contra Pinnacle</b>: Unibet paga 2.12 y el precio justo de Pinnacle es 2.04 (ventaja +3.8%)",
+    "Backtest 2015-2026 (cuota ≤ 2.5, > 3 %): ROI +11 % ± 3 %, CLV +5 %."
+   ],
+   "context": "Al-Talaba vs Gaz Al Shamal (Iraq - Stars League). Estrategia de valor: Unibet 2.12 frente a Pinnacle justo 2.04.",
+   "captured": "2026-11-06T08:10",
+   "version": "4632d3d",
    "bajas": "",
    "considered": true,
    "placed": false
