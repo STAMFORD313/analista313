@@ -1,6 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 06/11/2026 16:15 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 06/11/2026 16:28 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Motor Lublin vs Wisla Plock — 06/11 · 18:00
 
@@ -9421,6 +9421,7 @@ Faltas 14.2 - 11.6: total +25.5 50% · Espanol +12.5 64% · La Coruna +12.5 38%
 Tiros a puerta 4.3 - 4.2: total +9.5 35% · Espanol +4.5 42% · La Coruna +4.5 41%  
 🧩 Crear apuesta: Menos de 9.5 tiros a puerta + Menos de 10.5 córners + Más de 12.5 faltas de Espanol → prob. 30%, cuota justa 3.38 (solo vale si la casa paga más)  
 🚀 Combinada larga: Menos de 9.5 tiros a puerta + Menos de 10.5 córners + Más de 12.5 faltas de Espanol + Menos de 2.5 tarjetas de Espanol → prob. 15%, cuota justa 6.49  
+🎯 Simulada (con cuota: Menos de 9.5 tiros a puerta + Menos de 10.5 córners): cuota Unibet aprox. 2.43 (producto de piernas) · prob. 44% · ventaja +6% → 1 u en la banca de simulación  
 
 ## Cadiz vs Oviedo — 07/11 · 16:15
 
@@ -9446,6 +9447,319 @@ Faltas 13.9 - 14.0: total +26.5 58% · Cadiz +13.5 52% · Oviedo +13.5 52%
 Tiros a puerta 4.0 - 4.5: total +9.5 35% · Cadiz +5.5 23% · Oviedo +4.5 46%  
 🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Cadiz + Menos de 3.5 tarjetas de Oviedo + Menos de 2.5 goles → prob. 38%, cuota justa 2.60 (solo vale si la casa paga más)  
 🚀 Combinada larga: Menos de 5.5 tiros a puerta de Cadiz + Menos de 3.5 tarjetas de Oviedo + Menos de 2.5 goles + Menos de 5.5 córners de Cadiz + Más de 26.5 faltas → prob. 14%, cuota justa 7.23  
+🎯 No simulada (con cuota: Menos de 2.5 goles + Menos de 5.5 córners de Cadiz): cuota Unibet aprox. 2.41 (producto de piernas) · prob. 37% · ventaja -11%  
+
+## Espanol vs La Coruna — 07/11 · 16:15
+
+👀 candidata · 🇪🇸 LaLiga · **Más de 2.5 córners de La Coruna** @ **1.19** (Unibet) · prob 78% vs casas 78% · ventaja -7%
+
+- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.20 - 1.35)  
+1 31% · X 29% · 2 40%  
+1X 60% · X2 69% · 12 71%  
++1.5 73% · +2.5 47% · +3.5 25% · Ambos marcan 52%  
+Marcadores: 1-1 13% · 0-1 10% · 1-0 9% · 1-2 9%  
+🔎 **Claves**  
+• Forma: Espanol ❌➖❌❌✅ | La Coruna ➖❌➖❌✅  
+• H2H: 22 desde 2005: 10V-5E-7D · 2.2 goles/partido · +2.5 en 41%  
+• Bajas: Espanol: 4 fuera, 2 duda (Roger Hinojo, Pol Lozano, Jofre Carreras); La Coruna: 0 fuera, 2 duda  
+• Favorito de las casas: Espanol @ 2.30  
+📐 **Estadísticas esperadas**  
+Córners 4.9 - 4.6: total +10.5 35% · Espanol +5.5 36% · La Coruna +4.5 46%  
+Tarjetas 2.4 - 2.6: total +4.5 54% · Espanol +2.5 42% · La Coruna +2.5 48%  
+Faltas 14.2 - 11.6: total +25.5 50% · Espanol +12.5 64% · La Coruna +12.5 38%  
+Tiros a puerta 4.3 - 4.2: total +9.5 35% · Espanol +4.5 42% · La Coruna +4.5 41%  
+🧩 Crear apuesta: Menos de 9.5 tiros a puerta + Menos de 10.5 córners + Más de 12.5 faltas de Espanol → prob. 30%, cuota justa 3.38 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 9.5 tiros a puerta + Menos de 10.5 córners + Más de 12.5 faltas de Espanol + Menos de 2.5 tarjetas de Espanol → prob. 15%, cuota justa 6.49  
+🎯 Simulada (con cuota: Menos de 9.5 tiros a puerta + Menos de 10.5 córners): cuota Unibet aprox. 2.43 (producto de piernas) · prob. 44% · ventaja +6% → 1 u en la banca de simulación  
+
+## Espanol vs La Coruna — 07/11 · 16:15
+
+👀 candidata · 🇪🇸 LaLiga · **Menos de 5.5 córners de La Coruna** @ **1.46** (Unibet) · prob 65% vs casas 63% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.20 - 1.35)  
+1 31% · X 29% · 2 40%  
+1X 60% · X2 69% · 12 71%  
++1.5 73% · +2.5 47% · +3.5 25% · Ambos marcan 52%  
+Marcadores: 1-1 13% · 0-1 10% · 1-0 9% · 1-2 9%  
+🔎 **Claves**  
+• Forma: Espanol ❌➖❌❌✅ | La Coruna ➖❌➖❌✅  
+• H2H: 22 desde 2005: 10V-5E-7D · 2.2 goles/partido · +2.5 en 41%  
+• Bajas: Espanol: 4 fuera, 2 duda (Roger Hinojo, Pol Lozano, Jofre Carreras); La Coruna: 0 fuera, 2 duda  
+• Favorito de las casas: Espanol @ 2.30  
+📐 **Estadísticas esperadas**  
+Córners 4.9 - 4.6: total +10.5 35% · Espanol +5.5 36% · La Coruna +4.5 46%  
+Tarjetas 2.4 - 2.6: total +4.5 54% · Espanol +2.5 42% · La Coruna +2.5 48%  
+Faltas 14.2 - 11.6: total +25.5 50% · Espanol +12.5 64% · La Coruna +12.5 38%  
+Tiros a puerta 4.3 - 4.2: total +9.5 35% · Espanol +4.5 42% · La Coruna +4.5 41%  
+🧩 Crear apuesta: Menos de 9.5 tiros a puerta + Menos de 10.5 córners + Más de 12.5 faltas de Espanol → prob. 30%, cuota justa 3.38 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 9.5 tiros a puerta + Menos de 10.5 córners + Más de 12.5 faltas de Espanol + Menos de 2.5 tarjetas de Espanol → prob. 15%, cuota justa 6.49  
+🎯 Simulada (con cuota: Menos de 9.5 tiros a puerta + Menos de 10.5 córners): cuota Unibet aprox. 2.43 (producto de piernas) · prob. 44% · ventaja +6% → 1 u en la banca de simulación  
+
+## Espanol vs La Coruna — 07/11 · 16:15
+
+👀 candidata · 🇪🇸 LaLiga · **Menos de 5.5 córners de Espanol** @ **1.58** (Unibet) · prob 61% vs casas 58% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.20 - 1.35)  
+1 31% · X 29% · 2 40%  
+1X 60% · X2 69% · 12 71%  
++1.5 73% · +2.5 47% · +3.5 25% · Ambos marcan 52%  
+Marcadores: 1-1 13% · 0-1 10% · 1-0 9% · 1-2 9%  
+🔎 **Claves**  
+• Forma: Espanol ❌➖❌❌✅ | La Coruna ➖❌➖❌✅  
+• H2H: 22 desde 2005: 10V-5E-7D · 2.2 goles/partido · +2.5 en 41%  
+• Bajas: Espanol: 4 fuera, 2 duda (Roger Hinojo, Pol Lozano, Jofre Carreras); La Coruna: 0 fuera, 2 duda  
+• Favorito de las casas: Espanol @ 2.30  
+📐 **Estadísticas esperadas**  
+Córners 4.9 - 4.6: total +10.5 35% · Espanol +5.5 36% · La Coruna +4.5 46%  
+Tarjetas 2.4 - 2.6: total +4.5 54% · Espanol +2.5 42% · La Coruna +2.5 48%  
+Faltas 14.2 - 11.6: total +25.5 50% · Espanol +12.5 64% · La Coruna +12.5 38%  
+Tiros a puerta 4.3 - 4.2: total +9.5 35% · Espanol +4.5 42% · La Coruna +4.5 41%  
+🧩 Crear apuesta: Menos de 9.5 tiros a puerta + Menos de 10.5 córners + Más de 12.5 faltas de Espanol → prob. 30%, cuota justa 3.38 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 9.5 tiros a puerta + Menos de 10.5 córners + Más de 12.5 faltas de Espanol + Menos de 2.5 tarjetas de Espanol → prob. 15%, cuota justa 6.49  
+🎯 Simulada (con cuota: Menos de 9.5 tiros a puerta + Menos de 10.5 córners): cuota Unibet aprox. 2.43 (producto de piernas) · prob. 44% · ventaja +6% → 1 u en la banca de simulación  
+
+## Espanol vs La Coruna — 07/11 · 16:15
+
+👀 candidata · 🇪🇸 LaLiga · **Más de 2.5 córners de Espanol** @ **1.14** (Unibet) · prob 81% vs casas 80% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.20 - 1.35)  
+1 31% · X 29% · 2 40%  
+1X 60% · X2 69% · 12 71%  
++1.5 73% · +2.5 47% · +3.5 25% · Ambos marcan 52%  
+Marcadores: 1-1 13% · 0-1 10% · 1-0 9% · 1-2 9%  
+🔎 **Claves**  
+• Forma: Espanol ❌➖❌❌✅ | La Coruna ➖❌➖❌✅  
+• H2H: 22 desde 2005: 10V-5E-7D · 2.2 goles/partido · +2.5 en 41%  
+• Bajas: Espanol: 4 fuera, 2 duda (Roger Hinojo, Pol Lozano, Jofre Carreras); La Coruna: 0 fuera, 2 duda  
+• Favorito de las casas: Espanol @ 2.30  
+📐 **Estadísticas esperadas**  
+Córners 4.9 - 4.6: total +10.5 35% · Espanol +5.5 36% · La Coruna +4.5 46%  
+Tarjetas 2.4 - 2.6: total +4.5 54% · Espanol +2.5 42% · La Coruna +2.5 48%  
+Faltas 14.2 - 11.6: total +25.5 50% · Espanol +12.5 64% · La Coruna +12.5 38%  
+Tiros a puerta 4.3 - 4.2: total +9.5 35% · Espanol +4.5 42% · La Coruna +4.5 41%  
+🧩 Crear apuesta: Menos de 9.5 tiros a puerta + Menos de 10.5 córners + Más de 12.5 faltas de Espanol → prob. 30%, cuota justa 3.38 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 9.5 tiros a puerta + Menos de 10.5 córners + Más de 12.5 faltas de Espanol + Menos de 2.5 tarjetas de Espanol → prob. 15%, cuota justa 6.49  
+🎯 Simulada (con cuota: Menos de 9.5 tiros a puerta + Menos de 10.5 córners): cuota Unibet aprox. 2.43 (producto de piernas) · prob. 44% · ventaja +6% → 1 u en la banca de simulación  
+
+## Espanol vs La Coruna — 07/11 · 16:15
+
+👀 candidata · 🇪🇸 LaLiga · **Más de 6.5 córners** @ **1.11** (Unibet) · prob 82% vs casas 82% · ventaja -9%
+
+- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.20 - 1.35)  
+1 31% · X 29% · 2 40%  
+1X 60% · X2 69% · 12 71%  
++1.5 73% · +2.5 47% · +3.5 25% · Ambos marcan 52%  
+Marcadores: 1-1 13% · 0-1 10% · 1-0 9% · 1-2 9%  
+🔎 **Claves**  
+• Forma: Espanol ❌➖❌❌✅ | La Coruna ➖❌➖❌✅  
+• H2H: 22 desde 2005: 10V-5E-7D · 2.2 goles/partido · +2.5 en 41%  
+• Bajas: Espanol: 4 fuera, 2 duda (Roger Hinojo, Pol Lozano, Jofre Carreras); La Coruna: 0 fuera, 2 duda  
+• Favorito de las casas: Espanol @ 2.30  
+📐 **Estadísticas esperadas**  
+Córners 4.9 - 4.6: total +10.5 35% · Espanol +5.5 36% · La Coruna +4.5 46%  
+Tarjetas 2.4 - 2.6: total +4.5 54% · Espanol +2.5 42% · La Coruna +2.5 48%  
+Faltas 14.2 - 11.6: total +25.5 50% · Espanol +12.5 64% · La Coruna +12.5 38%  
+Tiros a puerta 4.3 - 4.2: total +9.5 35% · Espanol +4.5 42% · La Coruna +4.5 41%  
+🧩 Crear apuesta: Menos de 9.5 tiros a puerta + Menos de 10.5 córners + Más de 12.5 faltas de Espanol → prob. 30%, cuota justa 3.38 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 9.5 tiros a puerta + Menos de 10.5 córners + Más de 12.5 faltas de Espanol + Menos de 2.5 tarjetas de Espanol → prob. 15%, cuota justa 6.49  
+🎯 Simulada (con cuota: Menos de 9.5 tiros a puerta + Menos de 10.5 córners): cuota Unibet aprox. 2.43 (producto de piernas) · prob. 44% · ventaja +6% → 1 u en la banca de simulación  
+
+## Espanol vs La Coruna — 07/11 · 16:15
+
+👀 candidata · 🇪🇸 LaLiga · **Menos de 8.5 córners** @ **2.60** (Unibet) · prob 38% vs casas 36% · ventaja -1%
+
+- ❌ Valor: ventaja -1% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.20 - 1.35)  
+1 31% · X 29% · 2 40%  
+1X 60% · X2 69% · 12 71%  
++1.5 73% · +2.5 47% · +3.5 25% · Ambos marcan 52%  
+Marcadores: 1-1 13% · 0-1 10% · 1-0 9% · 1-2 9%  
+🔎 **Claves**  
+• Forma: Espanol ❌➖❌❌✅ | La Coruna ➖❌➖❌✅  
+• H2H: 22 desde 2005: 10V-5E-7D · 2.2 goles/partido · +2.5 en 41%  
+• Bajas: Espanol: 4 fuera, 2 duda (Roger Hinojo, Pol Lozano, Jofre Carreras); La Coruna: 0 fuera, 2 duda  
+• Favorito de las casas: Espanol @ 2.30  
+📐 **Estadísticas esperadas**  
+Córners 4.9 - 4.6: total +10.5 35% · Espanol +5.5 36% · La Coruna +4.5 46%  
+Tarjetas 2.4 - 2.6: total +4.5 54% · Espanol +2.5 42% · La Coruna +2.5 48%  
+Faltas 14.2 - 11.6: total +25.5 50% · Espanol +12.5 64% · La Coruna +12.5 38%  
+Tiros a puerta 4.3 - 4.2: total +9.5 35% · Espanol +4.5 42% · La Coruna +4.5 41%  
+🧩 Crear apuesta: Menos de 9.5 tiros a puerta + Menos de 10.5 córners + Más de 12.5 faltas de Espanol → prob. 30%, cuota justa 3.38 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 9.5 tiros a puerta + Menos de 10.5 córners + Más de 12.5 faltas de Espanol + Menos de 2.5 tarjetas de Espanol → prob. 15%, cuota justa 6.49  
+🎯 Simulada (con cuota: Menos de 9.5 tiros a puerta + Menos de 10.5 córners): cuota Unibet aprox. 2.43 (producto de piernas) · prob. 44% · ventaja +6% → 1 u en la banca de simulación  
+
+## Cadiz vs Oviedo — 07/11 · 16:15
+
+👀 candidata · 🇪🇸 LaLiga 2 · **Más de 4.5 córners de Cadiz** @ **1.92** (Unibet) · prob 51% vs casas 47% · ventaja -3%
+
+- ❌ Valor: ventaja -3% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.08 - 1.14)  
+1 27% · X 31% · 2 42%  
+1X 58% · X2 73% · 12 69%  
++1.5 66% · +2.5 38% · +3.5 19% · Ambos marcan 46%  
+Marcadores: 1-1 14% · 0-1 12% · 0-0 11% · 1-0 11%  
+🔎 **Claves**  
+• Forma: Cadiz ✅❌❌✅❌ | Oviedo ❌✅✅➖❌  
+• H2H: 10 desde 2016: 4V-1E-5D · 2.3 goles/partido · +2.5 en 40%  
+• Bajas: Cadiz: 0 fuera, 2 duda; Oviedo: sin bajas  
+• Favorito de las casas: Oviedo @ 2.50  
+📐 **Estadísticas esperadas**  
+Córners 5.1 - 4.7: total +9.5 51% · Cadiz +5.5 40% · Oviedo +4.5 48%  
+Tarjetas 2.9 - 2.6: total +5.5 46% · Cadiz +2.5 55% · Oviedo +3.5 26%  
+Faltas 13.9 - 14.0: total +26.5 58% · Cadiz +13.5 52% · Oviedo +13.5 52%  
+Tiros a puerta 4.0 - 4.5: total +9.5 35% · Cadiz +5.5 23% · Oviedo +4.5 46%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Cadiz + Menos de 3.5 tarjetas de Oviedo + Menos de 2.5 goles → prob. 38%, cuota justa 2.60 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Cadiz + Menos de 3.5 tarjetas de Oviedo + Menos de 2.5 goles + Menos de 5.5 córners de Cadiz + Más de 26.5 faltas → prob. 14%, cuota justa 7.23  
+🎯 No simulada (con cuota: Menos de 2.5 goles + Menos de 5.5 córners de Cadiz): cuota Unibet aprox. 2.41 (producto de piernas) · prob. 37% · ventaja -11%  
+
+## Cadiz vs Oviedo — 07/11 · 16:15
+
+👀 candidata · 🇪🇸 LaLiga 2 · **Menos de 5.5 córners de Cadiz** @ **1.40** (Unibet) · prob 63% vs casas 65% · ventaja -12%
+
+- ❌ Valor: ventaja -12% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.08 - 1.14)  
+1 27% · X 31% · 2 42%  
+1X 58% · X2 73% · 12 69%  
++1.5 66% · +2.5 38% · +3.5 19% · Ambos marcan 46%  
+Marcadores: 1-1 14% · 0-1 12% · 0-0 11% · 1-0 11%  
+🔎 **Claves**  
+• Forma: Cadiz ✅❌❌✅❌ | Oviedo ❌✅✅➖❌  
+• H2H: 10 desde 2016: 4V-1E-5D · 2.3 goles/partido · +2.5 en 40%  
+• Bajas: Cadiz: 0 fuera, 2 duda; Oviedo: sin bajas  
+• Favorito de las casas: Oviedo @ 2.50  
+📐 **Estadísticas esperadas**  
+Córners 5.1 - 4.7: total +9.5 51% · Cadiz +5.5 40% · Oviedo +4.5 48%  
+Tarjetas 2.9 - 2.6: total +5.5 46% · Cadiz +2.5 55% · Oviedo +3.5 26%  
+Faltas 13.9 - 14.0: total +26.5 58% · Cadiz +13.5 52% · Oviedo +13.5 52%  
+Tiros a puerta 4.0 - 4.5: total +9.5 35% · Cadiz +5.5 23% · Oviedo +4.5 46%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Cadiz + Menos de 3.5 tarjetas de Oviedo + Menos de 2.5 goles → prob. 38%, cuota justa 2.60 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Cadiz + Menos de 3.5 tarjetas de Oviedo + Menos de 2.5 goles + Menos de 5.5 córners de Cadiz + Más de 26.5 faltas → prob. 14%, cuota justa 7.23  
+🎯 No simulada (con cuota: Menos de 2.5 goles + Menos de 5.5 córners de Cadiz): cuota Unibet aprox. 2.41 (producto de piernas) · prob. 37% · ventaja -11%  
+
+## Cadiz vs Oviedo — 07/11 · 16:15
+
+👀 candidata · 🇪🇸 LaLiga 2 · **Más de 3.5 córners de Oviedo** @ **1.38** (Unibet) · prob 65% vs casas 66% · ventaja -10%
+
+- ❌ Valor: ventaja -10% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.08 - 1.14)  
+1 27% · X 31% · 2 42%  
+1X 58% · X2 73% · 12 69%  
++1.5 66% · +2.5 38% · +3.5 19% · Ambos marcan 46%  
+Marcadores: 1-1 14% · 0-1 12% · 0-0 11% · 1-0 11%  
+🔎 **Claves**  
+• Forma: Cadiz ✅❌❌✅❌ | Oviedo ❌✅✅➖❌  
+• H2H: 10 desde 2016: 4V-1E-5D · 2.3 goles/partido · +2.5 en 40%  
+• Bajas: Cadiz: 0 fuera, 2 duda; Oviedo: sin bajas  
+• Favorito de las casas: Oviedo @ 2.50  
+📐 **Estadísticas esperadas**  
+Córners 5.1 - 4.7: total +9.5 51% · Cadiz +5.5 40% · Oviedo +4.5 48%  
+Tarjetas 2.9 - 2.6: total +5.5 46% · Cadiz +2.5 55% · Oviedo +3.5 26%  
+Faltas 13.9 - 14.0: total +26.5 58% · Cadiz +13.5 52% · Oviedo +13.5 52%  
+Tiros a puerta 4.0 - 4.5: total +9.5 35% · Cadiz +5.5 23% · Oviedo +4.5 46%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Cadiz + Menos de 3.5 tarjetas de Oviedo + Menos de 2.5 goles → prob. 38%, cuota justa 2.60 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Cadiz + Menos de 3.5 tarjetas de Oviedo + Menos de 2.5 goles + Menos de 5.5 córners de Cadiz + Más de 26.5 faltas → prob. 14%, cuota justa 7.23  
+🎯 No simulada (con cuota: Menos de 2.5 goles + Menos de 5.5 córners de Cadiz): cuota Unibet aprox. 2.41 (producto de piernas) · prob. 37% · ventaja -11%  
+
+## Cadiz vs Oviedo — 07/11 · 16:15
+
+👀 candidata · 🇪🇸 LaLiga 2 · **Menos de 5.5 córners de Oviedo** @ **1.48** (Unibet) · prob 64% vs casas 61% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.08 - 1.14)  
+1 27% · X 31% · 2 42%  
+1X 58% · X2 73% · 12 69%  
++1.5 66% · +2.5 38% · +3.5 19% · Ambos marcan 46%  
+Marcadores: 1-1 14% · 0-1 12% · 0-0 11% · 1-0 11%  
+🔎 **Claves**  
+• Forma: Cadiz ✅❌❌✅❌ | Oviedo ❌✅✅➖❌  
+• H2H: 10 desde 2016: 4V-1E-5D · 2.3 goles/partido · +2.5 en 40%  
+• Bajas: Cadiz: 0 fuera, 2 duda; Oviedo: sin bajas  
+• Favorito de las casas: Oviedo @ 2.50  
+📐 **Estadísticas esperadas**  
+Córners 5.1 - 4.7: total +9.5 51% · Cadiz +5.5 40% · Oviedo +4.5 48%  
+Tarjetas 2.9 - 2.6: total +5.5 46% · Cadiz +2.5 55% · Oviedo +3.5 26%  
+Faltas 13.9 - 14.0: total +26.5 58% · Cadiz +13.5 52% · Oviedo +13.5 52%  
+Tiros a puerta 4.0 - 4.5: total +9.5 35% · Cadiz +5.5 23% · Oviedo +4.5 46%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Cadiz + Menos de 3.5 tarjetas de Oviedo + Menos de 2.5 goles → prob. 38%, cuota justa 2.60 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Cadiz + Menos de 3.5 tarjetas de Oviedo + Menos de 2.5 goles + Menos de 5.5 córners de Cadiz + Más de 26.5 faltas → prob. 14%, cuota justa 7.23  
+🎯 No simulada (con cuota: Menos de 2.5 goles + Menos de 5.5 córners de Cadiz): cuota Unibet aprox. 2.41 (producto de piernas) · prob. 37% · ventaja -11%  
+
+## Cadiz vs Oviedo — 07/11 · 16:15
+
+👀 candidata · 🇪🇸 LaLiga 2 · **Más de 8.5 córners** @ **1.53** (Unibet) · prob 62% vs casas 60% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.08 - 1.14)  
+1 27% · X 31% · 2 42%  
+1X 58% · X2 73% · 12 69%  
++1.5 66% · +2.5 38% · +3.5 19% · Ambos marcan 46%  
+Marcadores: 1-1 14% · 0-1 12% · 0-0 11% · 1-0 11%  
+🔎 **Claves**  
+• Forma: Cadiz ✅❌❌✅❌ | Oviedo ❌✅✅➖❌  
+• H2H: 10 desde 2016: 4V-1E-5D · 2.3 goles/partido · +2.5 en 40%  
+• Bajas: Cadiz: 0 fuera, 2 duda; Oviedo: sin bajas  
+• Favorito de las casas: Oviedo @ 2.50  
+📐 **Estadísticas esperadas**  
+Córners 5.1 - 4.7: total +9.5 51% · Cadiz +5.5 40% · Oviedo +4.5 48%  
+Tarjetas 2.9 - 2.6: total +5.5 46% · Cadiz +2.5 55% · Oviedo +3.5 26%  
+Faltas 13.9 - 14.0: total +26.5 58% · Cadiz +13.5 52% · Oviedo +13.5 52%  
+Tiros a puerta 4.0 - 4.5: total +9.5 35% · Cadiz +5.5 23% · Oviedo +4.5 46%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Cadiz + Menos de 3.5 tarjetas de Oviedo + Menos de 2.5 goles → prob. 38%, cuota justa 2.60 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Cadiz + Menos de 3.5 tarjetas de Oviedo + Menos de 2.5 goles + Menos de 5.5 córners de Cadiz + Más de 26.5 faltas → prob. 14%, cuota justa 7.23  
+🎯 No simulada (con cuota: Menos de 2.5 goles + Menos de 5.5 córners de Cadiz): cuota Unibet aprox. 2.41 (producto de piernas) · prob. 37% · ventaja -11%  
+
+## Cadiz vs Oviedo — 07/11 · 16:15
+
+👀 candidata · 🇪🇸 LaLiga 2 · **Menos de 11.5 córners** @ **1.30** (Unibet) · prob 70% vs casas 70% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.08 - 1.14)  
+1 27% · X 31% · 2 42%  
+1X 58% · X2 73% · 12 69%  
++1.5 66% · +2.5 38% · +3.5 19% · Ambos marcan 46%  
+Marcadores: 1-1 14% · 0-1 12% · 0-0 11% · 1-0 11%  
+🔎 **Claves**  
+• Forma: Cadiz ✅❌❌✅❌ | Oviedo ❌✅✅➖❌  
+• H2H: 10 desde 2016: 4V-1E-5D · 2.3 goles/partido · +2.5 en 40%  
+• Bajas: Cadiz: 0 fuera, 2 duda; Oviedo: sin bajas  
+• Favorito de las casas: Oviedo @ 2.50  
+📐 **Estadísticas esperadas**  
+Córners 5.1 - 4.7: total +9.5 51% · Cadiz +5.5 40% · Oviedo +4.5 48%  
+Tarjetas 2.9 - 2.6: total +5.5 46% · Cadiz +2.5 55% · Oviedo +3.5 26%  
+Faltas 13.9 - 14.0: total +26.5 58% · Cadiz +13.5 52% · Oviedo +13.5 52%  
+Tiros a puerta 4.0 - 4.5: total +9.5 35% · Cadiz +5.5 23% · Oviedo +4.5 46%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Cadiz + Menos de 3.5 tarjetas de Oviedo + Menos de 2.5 goles → prob. 38%, cuota justa 2.60 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Cadiz + Menos de 3.5 tarjetas de Oviedo + Menos de 2.5 goles + Menos de 5.5 córners de Cadiz + Más de 26.5 faltas → prob. 14%, cuota justa 7.23  
+🎯 No simulada (con cuota: Menos de 2.5 goles + Menos de 5.5 córners de Cadiz): cuota Unibet aprox. 2.41 (producto de piernas) · prob. 37% · ventaja -11%  
 
 ## For Sittard vs Telstar — 07/11 · 16:30
 
