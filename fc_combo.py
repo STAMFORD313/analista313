@@ -260,7 +260,8 @@ def leo_report():
     if not len(x): return "🎮⚽ Aún no hay partidos jugados con cuotas de LeoVegas."
     pnl = np.where(x.ok, x.odds - 1, -1.0)
     return (f"🎮⚽ <b>FC 27 con cuotas reales de LeoVegas</b>\n{x.id.nunique()} partidos jugados · {len(x)} apuestas que pasan la lógica\n"
-            f"✅ Acierta {x.ok.mean():.0%} (la casa esperaba {x.pc.mean():.0%})\n"
+            f"✅ Acierta {x.ok.mean():.0%} (la casa esperaba {x.pc.mean():.0%}): el bot saca {100 * (x.ok.mean() - x.pc.mean()):+.1f} puntos\n"
+            f"✂️ Margen de LeoVegas: {100 * (1 / x.odds - x.pc).mean():.1f} puntos por apuesta (lo que habría que superar)\n"
             f"{'🟢' if pnl.sum() > 0 else '🔴'} 1 € a cada una: {pnl.sum():+.2f} € ({pnl.mean():+.1%} por apuesta)\n"
             f"{'Va por delante de la casa.' if pnl.mean() > 2 * pnl.std() / np.sqrt(len(pnl)) else 'Sin ventaja demostrada: el margen de la casa se come el acierto. Sin dinero real.'}")
 
