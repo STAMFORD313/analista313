@@ -203,6 +203,19 @@ def blend_w(min_ids=200, grid=(0.0, 0.15, 0.3, 0.5, 0.7, 1.0)):
     return best
 
 
+KEY = ["id", "k", "who", "line", "s"]
+
+
+def merge_log(old, new):
+    """Une el registro de cuotas: la última cuota vista de cada pierna y, aparte, la primera (seen0/odds0/p_casa0),
+    para medir si la casa mueve la cuota hacia lo que dice el bot antes del partido (CLV)."""
+    c = pd.concat([old, new], ignore_index=True)
+    for col, src in (("seen0", "seen"), ("odds0", "odds"), ("p_casa0", "p_casa")):
+        c[col] = c[col].fillna(c[src]) if col in c else c[src]
+    first = c.drop_duplicates(KEY, keep="first")[KEY + ["seen0", "odds0", "p_casa0"]]
+    return c.drop(columns=["seen0", "odds0", "p_casa0"]).drop_duplicates(KEY, keep="last").merge(first, on=KEY, how="left")
+
+
 def leo_report():
     """Balance honesto con cuotas reales de LeoVegas: 1 € a cada pierna que habría pasado la lógica (medias, cara a cara,
     vetos) en los partidos ya jugados de odds_leo.csv. Texto para el chat."""
@@ -282,7 +295,7 @@ def candidates(hours=3, push=True):
     if log:
         try:
             old = pd.read_csv(LOG) if LOG.exists() else pd.DataFrame()
-            pd.concat([old, pd.DataFrame(log)]).drop_duplicates(["id", "k", "who", "line", "s"], keep="last").to_csv(LOG, index=False)
+            merge_log(old, pd.DataFrame(log)).to_csv(LOG, index=False)
             if push: import simulaciones; simulaciones.push("datos: cuotas FC 27 de LeoVegas", LOG)  # para que aprenda con ellas
         except OSError as ex: print("odds_leo", ex)
     print(f"combinada FC 27: {len(games)} partidos, {priced} con cuotas de {BOOK}, {len(cands)} piernas")

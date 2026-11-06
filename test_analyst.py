@@ -1651,3 +1651,9 @@ try:
     _rep = _FCC.leo_report(); assert "1 partidos jugados · 1 apuestas" in _rep and "+0.30 €" in _rep, _rep
 finally: _FCC.LOG, _FCC.E.HIST = _log0, _h0
 print("ok balance FC 27 con cuotas de LeoVegas")
+_o1 = pd.DataFrame([{"seen": "t1", "id": 1, "k": "tot", "who": None, "line": 4.5, "s": "O", "odds": 1.50, "p_casa": 0.62}])
+_o2 = pd.DataFrame([{"seen": "t2", "id": 1, "k": "tot", "who": None, "line": 4.5, "s": "O", "odds": 1.40, "p_casa": 0.67},
+                    {"seen": "t2", "id": 2, "k": "ptot", "who": "h", "line": 2.5, "s": "U", "odds": 2.0, "p_casa": 0.48}])
+_m = _FCC.merge_log(_FCC.merge_log(pd.DataFrame(), _o1), _o2).set_index("id")
+assert len(_m) == 2 and _m.loc[1, "odds"] == 1.40 and _m.loc[1, "odds0"] == 1.50 and _m.loc[1, "seen0"] == "t1" and _m.loc[2, "odds0"] == 2.0
+print("ok registro LeoVegas guarda primera y última cuota")
