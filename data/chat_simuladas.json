@@ -750,7 +750,9 @@
     "away": "LOS",
     "txt": "Gana DarkZero",
     "odds": 1.98,
-    "p": 0.5293003367003366
+    "p": 0.5293003367003366,
+    "ok": true,
+    "por": "acabó 2-0"
    },
    {
     "src": "esports:cs2",
