@@ -1,6 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 06/11/2026 14:44 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 06/11/2026 15:15 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Motor Lublin vs Wisla Plock — 06/11 · 18:00
 
@@ -5370,6 +5370,7 @@ Faltas 11.4 - 13.3: total +22.5 65% · Cagliari +11.5 47% · Frosinone +11.5 66%
 Tiros a puerta 4.4 - 4.7: total +9.5 43% · Cagliari +4.5 45% · Frosinone +4.5 50%  
 🧩 Crear apuesta: Menos de 2.5 tarjetas de Frosinone + Más de 11.5 faltas de Frosinone + Menos de 5.5 córners de Cagliari → prob. 27%, cuota justa 3.75 (solo vale si la casa paga más)  
 🚀 Combinada larga: Menos de 2.5 tarjetas de Frosinone + Más de 11.5 faltas de Frosinone + Menos de 5.5 córners de Cagliari + Menos de 9.5 tiros a puerta + Más de 2.5 goles → prob. 7%, cuota justa 14.54  
+🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Frosinone + Menos de 9.5 tiros a puerta): cuota Unibet aprox. 2.80 (producto de piernas) · prob. 40% · ventaja +12% → 1 u en la banca de simulación  
 
 ## Torino vs Lecce — 07/11 · 15:00
 
@@ -5395,6 +5396,8 @@ Faltas 10.5 - 11.6: total +22.5 46% · Torino +11.5 37% · Lecce +11.5 49%
 Tiros a puerta 4.9 - 3.7: total +9.5 36% · Torino +4.5 53% · Lecce +4.5 31%  
 🧩 Crear apuesta: Menos de 2.5 tarjetas de Lecce + Menos de 4.5 tiros a puerta de Lecce + Menos de 4.5 córners de Lecce → prob. 34%, cuota justa 2.95 (solo vale si la casa paga más)  
 🚀 Combinada larga: Menos de 2.5 tarjetas de Lecce + Menos de 4.5 tiros a puerta de Lecce + Menos de 4.5 córners de Lecce + Menos de 2.5 goles + Menos de 11.5 faltas de Torino → prob. 15%, cuota justa 6.66  
+🎯 No simulada (crear apuesta): cuota Unibet aprox. 2.69 (producto de piernas) · prob. 34% · ventaja -9%  
+🎯 Simulada (con cuota: Menos de 4.5 tiros a puerta de Lecce + Menos de 4.5 córners de Lecce + Menos de 2.5 goles): cuota Unibet aprox. 3.88 (producto de piernas) · prob. 34% · ventaja +34% → 1 u en la banca de simulación  
 
 ## Cesena vs Catanzaro — 07/11 · 15:00
 
@@ -5420,6 +5423,7 @@ Faltas 14.8 - 10.7: total +27.5 34% · Cesena +14.5 51% · Catanzaro +13.5 20%
 Tiros a puerta 4.8 - 4.0: total +8.5 51% · Cesena +5.5 36% · Catanzaro +3.5 55%  
 🧩 Crear apuesta: Menos de 13.5 faltas de Catanzaro + Menos de 5.5 tiros a puerta de Cesena + Menos de 4.5 córners de Catanzaro → prob. 30%, cuota justa 3.34 (solo vale si la casa paga más)  
 🚀 Combinada larga: Menos de 13.5 faltas de Catanzaro + Menos de 5.5 tiros a puerta de Cesena + Menos de 4.5 córners de Catanzaro + Menos de 2.5 tarjetas de Catanzaro + Más de 2.5 goles → prob. 10%, cuota justa 10.10  
+🎯 No simulada (con cuota: Menos de 4.5 córners de Catanzaro + Más de 2.5 goles): cuota Unibet aprox. 2.77 (producto de piernas) · prob. 37% · ventaja +2%  
 
 ## Juve Stabia vs Arezzo — 07/11 · 15:00
 
@@ -5470,6 +5474,7 @@ Faltas 13.2 - 15.5: total +27.5 57% · Padova +14.5 35% · Empoli +13.5 67%
 Tiros a puerta 4.4 - 3.7: total +8.5 42% · Padova +5.5 28% · Empoli +3.5 51%  
 🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Padova + Más de 13.5 faltas de Empoli + Menos de 2.5 tarjetas de Padova → prob. 30%, cuota justa 3.37 (solo vale si la casa paga más)  
 🚀 Combinada larga: Menos de 5.5 tiros a puerta de Padova + Más de 13.5 faltas de Empoli + Menos de 2.5 tarjetas de Padova + Menos de 2.5 goles + Menos de 5.5 córners de Padova → prob. 13%, cuota justa 7.90  
+🎯 No simulada (con cuota: Menos de 2.5 goles + Menos de 5.5 córners de Padova): cuota Unibet aprox. 2.62 (producto de piernas) · prob. 35% · ventaja -8%  
 
 ## Pisa vs Sudtirol — 07/11 · 15:00
 
@@ -5495,6 +5500,943 @@ Faltas 12.0 - 14.6: total +27.5 42% · Pisa +14.5 23% · Sudtirol +13.5 59%
 Tiros a puerta 6.0 - 3.1: total +8.5 54% · Pisa +5.5 53% · Sudtirol +3.5 37%  
 🧩 Crear apuesta: Menos de 14.5 faltas de Pisa + Menos de 4.5 córners de Sudtirol + Menos de 2.5 tarjetas de Pisa → prob. 41%, cuota justa 2.45 (solo vale si la casa paga más)  
 🚀 Combinada larga: Menos de 14.5 faltas de Pisa + Menos de 4.5 córners de Sudtirol + Menos de 2.5 tarjetas de Pisa + Menos de 3.5 tiros a puerta de Sudtirol + Más de 2.5 goles → prob. 13%, cuota justa 7.52  
+🎯 Simulada (con cuota: Menos de 4.5 córners de Sudtirol + Más de 2.5 goles): cuota Unibet aprox. 2.55 (producto de piernas) · prob. 42% · ventaja +8% → 1 u en la banca de simulación  
+
+## Cagliari vs Frosinone — 07/11 · 15:00
+
+👀 candidata · 🇮🇹 Serie A · **Más de 2.5 córners de Cagliari** @ **1.15** (Unibet) · prob 81% vs casas 80% · ventaja -7%
+
+- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.49 - 1.42)  
+1 30% · X 29% · 2 41%  
+1X 59% · X2 70% · 12 71%  
++1.5 79% · +2.5 56% · +3.5 33% · Ambos marcan 59%  
+Marcadores: 1-1 12% · 2-1 9% · 1-2 8% · 1-0 8%  
+🔎 **Claves**  
+• Forma: Cagliari ➖❌❌❌❌ | Frosinone ❌✅➖✅✅  
+• H2H: 6 desde 2018: 2V-3E-1D · 3.0 goles/partido · +2.5 en 50%  
+• Bajas: Cagliari: 5 fuera, 1 duda (Adam Obert, Roberto Gagliardini, Mattia Felici); Frosinone: 0 fuera, 1 duda  
+• Favorito de las casas: Frosinone @ 2.50  
+📐 **Estadísticas esperadas**  
+Córners 5.1 - 5.0: total +9.5 55% · Cagliari +5.5 39% · Frosinone +4.5 53%  
+Tarjetas 1.9 - 1.9: total +3.5 51% · Cagliari +1.5 55% · Frosinone +2.5 29%  
+Faltas 11.4 - 13.3: total +22.5 65% · Cagliari +11.5 47% · Frosinone +11.5 66%  
+Tiros a puerta 4.4 - 4.7: total +9.5 43% · Cagliari +4.5 45% · Frosinone +4.5 50%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Frosinone + Más de 11.5 faltas de Frosinone + Menos de 5.5 córners de Cagliari → prob. 27%, cuota justa 3.75 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Frosinone + Más de 11.5 faltas de Frosinone + Menos de 5.5 córners de Cagliari + Menos de 9.5 tiros a puerta + Más de 2.5 goles → prob. 7%, cuota justa 14.54  
+🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Frosinone + Menos de 9.5 tiros a puerta): cuota Unibet aprox. 2.80 (producto de piernas) · prob. 40% · ventaja +12% → 1 u en la banca de simulación  
+
+## Cagliari vs Frosinone — 07/11 · 15:00
+
+👀 candidata · 🇮🇹 Serie A · **Menos de 5.5 córners de Cagliari** @ **1.54** (Unibet) · prob 60% vs casas 60% · ventaja -7%
+
+- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.49 - 1.42)  
+1 30% · X 29% · 2 41%  
+1X 59% · X2 70% · 12 71%  
++1.5 79% · +2.5 56% · +3.5 33% · Ambos marcan 59%  
+Marcadores: 1-1 12% · 2-1 9% · 1-2 8% · 1-0 8%  
+🔎 **Claves**  
+• Forma: Cagliari ➖❌❌❌❌ | Frosinone ❌✅➖✅✅  
+• H2H: 6 desde 2018: 2V-3E-1D · 3.0 goles/partido · +2.5 en 50%  
+• Bajas: Cagliari: 5 fuera, 1 duda (Adam Obert, Roberto Gagliardini, Mattia Felici); Frosinone: 0 fuera, 1 duda  
+• Favorito de las casas: Frosinone @ 2.50  
+📐 **Estadísticas esperadas**  
+Córners 5.1 - 5.0: total +9.5 55% · Cagliari +5.5 39% · Frosinone +4.5 53%  
+Tarjetas 1.9 - 1.9: total +3.5 51% · Cagliari +1.5 55% · Frosinone +2.5 29%  
+Faltas 11.4 - 13.3: total +22.5 65% · Cagliari +11.5 47% · Frosinone +11.5 66%  
+Tiros a puerta 4.4 - 4.7: total +9.5 43% · Cagliari +4.5 45% · Frosinone +4.5 50%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Frosinone + Más de 11.5 faltas de Frosinone + Menos de 5.5 córners de Cagliari → prob. 27%, cuota justa 3.75 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Frosinone + Más de 11.5 faltas de Frosinone + Menos de 5.5 córners de Cagliari + Menos de 9.5 tiros a puerta + Más de 2.5 goles → prob. 7%, cuota justa 14.54  
+🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Frosinone + Menos de 9.5 tiros a puerta): cuota Unibet aprox. 2.80 (producto de piernas) · prob. 40% · ventaja +12% → 1 u en la banca de simulación  
+
+## Cagliari vs Frosinone — 07/11 · 15:00
+
+👀 candidata · 🇮🇹 Serie A · **Más de 3.5 córners de Frosinone** @ **1.26** (Unibet) · prob 70% vs casas 73% · ventaja -11%
+
+- ❌ Valor: ventaja -11% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.49 - 1.42)  
+1 30% · X 29% · 2 41%  
+1X 59% · X2 70% · 12 71%  
++1.5 79% · +2.5 56% · +3.5 33% · Ambos marcan 59%  
+Marcadores: 1-1 12% · 2-1 9% · 1-2 8% · 1-0 8%  
+🔎 **Claves**  
+• Forma: Cagliari ➖❌❌❌❌ | Frosinone ❌✅➖✅✅  
+• H2H: 6 desde 2018: 2V-3E-1D · 3.0 goles/partido · +2.5 en 50%  
+• Bajas: Cagliari: 5 fuera, 1 duda (Adam Obert, Roberto Gagliardini, Mattia Felici); Frosinone: 0 fuera, 1 duda  
+• Favorito de las casas: Frosinone @ 2.50  
+📐 **Estadísticas esperadas**  
+Córners 5.1 - 5.0: total +9.5 55% · Cagliari +5.5 39% · Frosinone +4.5 53%  
+Tarjetas 1.9 - 1.9: total +3.5 51% · Cagliari +1.5 55% · Frosinone +2.5 29%  
+Faltas 11.4 - 13.3: total +22.5 65% · Cagliari +11.5 47% · Frosinone +11.5 66%  
+Tiros a puerta 4.4 - 4.7: total +9.5 43% · Cagliari +4.5 45% · Frosinone +4.5 50%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Frosinone + Más de 11.5 faltas de Frosinone + Menos de 5.5 córners de Cagliari → prob. 27%, cuota justa 3.75 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Frosinone + Más de 11.5 faltas de Frosinone + Menos de 5.5 córners de Cagliari + Menos de 9.5 tiros a puerta + Más de 2.5 goles → prob. 7%, cuota justa 14.54  
+🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Frosinone + Menos de 9.5 tiros a puerta): cuota Unibet aprox. 2.80 (producto de piernas) · prob. 40% · ventaja +12% → 1 u en la banca de simulación  
+
+## Cagliari vs Frosinone — 07/11 · 15:00
+
+👀 candidata · 🇮🇹 Serie A · **Menos de 4.5 córners de Frosinone** @ **2.28** (Unibet) · prob 44% vs casas 40% · ventaja -1%
+
+- ❌ Valor: ventaja -1% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.49 - 1.42)  
+1 30% · X 29% · 2 41%  
+1X 59% · X2 70% · 12 71%  
++1.5 79% · +2.5 56% · +3.5 33% · Ambos marcan 59%  
+Marcadores: 1-1 12% · 2-1 9% · 1-2 8% · 1-0 8%  
+🔎 **Claves**  
+• Forma: Cagliari ➖❌❌❌❌ | Frosinone ❌✅➖✅✅  
+• H2H: 6 desde 2018: 2V-3E-1D · 3.0 goles/partido · +2.5 en 50%  
+• Bajas: Cagliari: 5 fuera, 1 duda (Adam Obert, Roberto Gagliardini, Mattia Felici); Frosinone: 0 fuera, 1 duda  
+• Favorito de las casas: Frosinone @ 2.50  
+📐 **Estadísticas esperadas**  
+Córners 5.1 - 5.0: total +9.5 55% · Cagliari +5.5 39% · Frosinone +4.5 53%  
+Tarjetas 1.9 - 1.9: total +3.5 51% · Cagliari +1.5 55% · Frosinone +2.5 29%  
+Faltas 11.4 - 13.3: total +22.5 65% · Cagliari +11.5 47% · Frosinone +11.5 66%  
+Tiros a puerta 4.4 - 4.7: total +9.5 43% · Cagliari +4.5 45% · Frosinone +4.5 50%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Frosinone + Más de 11.5 faltas de Frosinone + Menos de 5.5 córners de Cagliari → prob. 27%, cuota justa 3.75 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Frosinone + Más de 11.5 faltas de Frosinone + Menos de 5.5 córners de Cagliari + Menos de 9.5 tiros a puerta + Más de 2.5 goles → prob. 7%, cuota justa 14.54  
+🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Frosinone + Menos de 9.5 tiros a puerta): cuota Unibet aprox. 2.80 (producto de piernas) · prob. 40% · ventaja +12% → 1 u en la banca de simulación  
+
+## Cagliari vs Frosinone — 07/11 · 15:00
+
+👀 candidata · 🇮🇹 Serie A · **Más de 7.5 córners** @ **1.17** (Unibet) · prob 78% vs casas 78% · ventaja -9%
+
+- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.49 - 1.42)  
+1 30% · X 29% · 2 41%  
+1X 59% · X2 70% · 12 71%  
++1.5 79% · +2.5 56% · +3.5 33% · Ambos marcan 59%  
+Marcadores: 1-1 12% · 2-1 9% · 1-2 8% · 1-0 8%  
+🔎 **Claves**  
+• Forma: Cagliari ➖❌❌❌❌ | Frosinone ❌✅➖✅✅  
+• H2H: 6 desde 2018: 2V-3E-1D · 3.0 goles/partido · +2.5 en 50%  
+• Bajas: Cagliari: 5 fuera, 1 duda (Adam Obert, Roberto Gagliardini, Mattia Felici); Frosinone: 0 fuera, 1 duda  
+• Favorito de las casas: Frosinone @ 2.50  
+📐 **Estadísticas esperadas**  
+Córners 5.1 - 5.0: total +9.5 55% · Cagliari +5.5 39% · Frosinone +4.5 53%  
+Tarjetas 1.9 - 1.9: total +3.5 51% · Cagliari +1.5 55% · Frosinone +2.5 29%  
+Faltas 11.4 - 13.3: total +22.5 65% · Cagliari +11.5 47% · Frosinone +11.5 66%  
+Tiros a puerta 4.4 - 4.7: total +9.5 43% · Cagliari +4.5 45% · Frosinone +4.5 50%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Frosinone + Más de 11.5 faltas de Frosinone + Menos de 5.5 córners de Cagliari → prob. 27%, cuota justa 3.75 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Frosinone + Más de 11.5 faltas de Frosinone + Menos de 5.5 córners de Cagliari + Menos de 9.5 tiros a puerta + Más de 2.5 goles → prob. 7%, cuota justa 14.54  
+🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Frosinone + Menos de 9.5 tiros a puerta): cuota Unibet aprox. 2.80 (producto de piernas) · prob. 40% · ventaja +12% → 1 u en la banca de simulación  
+
+## Cagliari vs Frosinone — 07/11 · 15:00
+
+👀 candidata · 🇮🇹 Serie A · **Menos de 9.5 córners** @ **2.30** (Unibet) · prob 43% vs casas 40% · ventaja -2%
+
+- ❌ Valor: ventaja -2% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.49 - 1.42)  
+1 30% · X 29% · 2 41%  
+1X 59% · X2 70% · 12 71%  
++1.5 79% · +2.5 56% · +3.5 33% · Ambos marcan 59%  
+Marcadores: 1-1 12% · 2-1 9% · 1-2 8% · 1-0 8%  
+🔎 **Claves**  
+• Forma: Cagliari ➖❌❌❌❌ | Frosinone ❌✅➖✅✅  
+• H2H: 6 desde 2018: 2V-3E-1D · 3.0 goles/partido · +2.5 en 50%  
+• Bajas: Cagliari: 5 fuera, 1 duda (Adam Obert, Roberto Gagliardini, Mattia Felici); Frosinone: 0 fuera, 1 duda  
+• Favorito de las casas: Frosinone @ 2.50  
+📐 **Estadísticas esperadas**  
+Córners 5.1 - 5.0: total +9.5 55% · Cagliari +5.5 39% · Frosinone +4.5 53%  
+Tarjetas 1.9 - 1.9: total +3.5 51% · Cagliari +1.5 55% · Frosinone +2.5 29%  
+Faltas 11.4 - 13.3: total +22.5 65% · Cagliari +11.5 47% · Frosinone +11.5 66%  
+Tiros a puerta 4.4 - 4.7: total +9.5 43% · Cagliari +4.5 45% · Frosinone +4.5 50%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Frosinone + Más de 11.5 faltas de Frosinone + Menos de 5.5 córners de Cagliari → prob. 27%, cuota justa 3.75 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Frosinone + Más de 11.5 faltas de Frosinone + Menos de 5.5 córners de Cagliari + Menos de 9.5 tiros a puerta + Más de 2.5 goles → prob. 7%, cuota justa 14.54  
+🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Frosinone + Menos de 9.5 tiros a puerta): cuota Unibet aprox. 2.80 (producto de piernas) · prob. 40% · ventaja +12% → 1 u en la banca de simulación  
+
+## Torino vs Lecce — 07/11 · 15:00
+
+👀 candidata · 🇮🇹 Serie A · **Menos de 3.5 córners de Lecce** @ **1.96** (Unibet) · prob 49% vs casas 47% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.25 - 0.87)  
+1 45% · X 30% · 2 25%  
+1X 75% · X2 55% · 12 70%  
++1.5 63% · +2.5 36% · +3.5 17% · Ambos marcan 42%  
+Marcadores: 1-0 14% · 1-1 14% · 0-0 13% · 0-1 10%  
+🔎 **Claves**  
+• Forma: Torino ✅✅✅❌❌ | Lecce ❌✅❌❌❌  
+• H2H: 14 desde 2008: 6V-3E-5D · 2.4 goles/partido · +2.5 en 50%  
+• Bajas: Torino: 1 fuera, 4 duda (Franco Israel); Lecce: 4 fuera, 3 duda (Lassana Coulibaly, Santiago Pierotti, Kialonda Gaspar)  
+• Favorito de las casas: Torino @ 1.80  
+📐 **Estadísticas esperadas**  
+Córners 5.7 - 3.8: total +9.5 47% · Torino +5.5 48% · Lecce +4.5 33%  
+Tarjetas 1.4 - 1.9: total +3.5 42% · Torino +1.5 41% · Lecce +2.5 29%  
+Faltas 10.5 - 11.6: total +22.5 46% · Torino +11.5 37% · Lecce +11.5 49%  
+Tiros a puerta 4.9 - 3.7: total +9.5 36% · Torino +4.5 53% · Lecce +4.5 31%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Lecce + Menos de 4.5 tiros a puerta de Lecce + Menos de 4.5 córners de Lecce → prob. 34%, cuota justa 2.95 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Lecce + Menos de 4.5 tiros a puerta de Lecce + Menos de 4.5 córners de Lecce + Menos de 2.5 goles + Menos de 11.5 faltas de Torino → prob. 15%, cuota justa 6.66  
+🎯 No simulada (crear apuesta): cuota Unibet aprox. 2.69 (producto de piernas) · prob. 34% · ventaja -9%  
+🎯 Simulada (con cuota: Menos de 4.5 tiros a puerta de Lecce + Menos de 4.5 córners de Lecce + Menos de 2.5 goles): cuota Unibet aprox. 3.88 (producto de piernas) · prob. 34% · ventaja +34% → 1 u en la banca de simulación  
+
+## Torino vs Lecce — 07/11 · 15:00
+
+👀 candidata · 🇮🇹 Serie A · **Más de 2.5 córners de Lecce** @ **1.33** (Unibet) · prob 68% vs casas 69% · ventaja -9%
+
+- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.25 - 0.87)  
+1 45% · X 30% · 2 25%  
+1X 75% · X2 55% · 12 70%  
++1.5 63% · +2.5 36% · +3.5 17% · Ambos marcan 42%  
+Marcadores: 1-0 14% · 1-1 14% · 0-0 13% · 0-1 10%  
+🔎 **Claves**  
+• Forma: Torino ✅✅✅❌❌ | Lecce ❌✅❌❌❌  
+• H2H: 14 desde 2008: 6V-3E-5D · 2.4 goles/partido · +2.5 en 50%  
+• Bajas: Torino: 1 fuera, 4 duda (Franco Israel); Lecce: 4 fuera, 3 duda (Lassana Coulibaly, Santiago Pierotti, Kialonda Gaspar)  
+• Favorito de las casas: Torino @ 1.80  
+📐 **Estadísticas esperadas**  
+Córners 5.7 - 3.8: total +9.5 47% · Torino +5.5 48% · Lecce +4.5 33%  
+Tarjetas 1.4 - 1.9: total +3.5 42% · Torino +1.5 41% · Lecce +2.5 29%  
+Faltas 10.5 - 11.6: total +22.5 46% · Torino +11.5 37% · Lecce +11.5 49%  
+Tiros a puerta 4.9 - 3.7: total +9.5 36% · Torino +4.5 53% · Lecce +4.5 31%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Lecce + Menos de 4.5 tiros a puerta de Lecce + Menos de 4.5 córners de Lecce → prob. 34%, cuota justa 2.95 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Lecce + Menos de 4.5 tiros a puerta de Lecce + Menos de 4.5 córners de Lecce + Menos de 2.5 goles + Menos de 11.5 faltas de Torino → prob. 15%, cuota justa 6.66  
+🎯 No simulada (crear apuesta): cuota Unibet aprox. 2.69 (producto de piernas) · prob. 34% · ventaja -9%  
+🎯 Simulada (con cuota: Menos de 4.5 tiros a puerta de Lecce + Menos de 4.5 córners de Lecce + Menos de 2.5 goles): cuota Unibet aprox. 3.88 (producto de piernas) · prob. 34% · ventaja +34% → 1 u en la banca de simulación  
+
+## Torino vs Lecce — 07/11 · 15:00
+
+👀 candidata · 🇮🇹 Serie A · **Más de 8.5 córners** @ **1.68** (Unibet) · prob 57% vs casas 55% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.25 - 0.87)  
+1 45% · X 30% · 2 25%  
+1X 75% · X2 55% · 12 70%  
++1.5 63% · +2.5 36% · +3.5 17% · Ambos marcan 42%  
+Marcadores: 1-0 14% · 1-1 14% · 0-0 13% · 0-1 10%  
+🔎 **Claves**  
+• Forma: Torino ✅✅✅❌❌ | Lecce ❌✅❌❌❌  
+• H2H: 14 desde 2008: 6V-3E-5D · 2.4 goles/partido · +2.5 en 50%  
+• Bajas: Torino: 1 fuera, 4 duda (Franco Israel); Lecce: 4 fuera, 3 duda (Lassana Coulibaly, Santiago Pierotti, Kialonda Gaspar)  
+• Favorito de las casas: Torino @ 1.80  
+📐 **Estadísticas esperadas**  
+Córners 5.7 - 3.8: total +9.5 47% · Torino +5.5 48% · Lecce +4.5 33%  
+Tarjetas 1.4 - 1.9: total +3.5 42% · Torino +1.5 41% · Lecce +2.5 29%  
+Faltas 10.5 - 11.6: total +22.5 46% · Torino +11.5 37% · Lecce +11.5 49%  
+Tiros a puerta 4.9 - 3.7: total +9.5 36% · Torino +4.5 53% · Lecce +4.5 31%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Lecce + Menos de 4.5 tiros a puerta de Lecce + Menos de 4.5 córners de Lecce → prob. 34%, cuota justa 2.95 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Lecce + Menos de 4.5 tiros a puerta de Lecce + Menos de 4.5 córners de Lecce + Menos de 2.5 goles + Menos de 11.5 faltas de Torino → prob. 15%, cuota justa 6.66  
+🎯 No simulada (crear apuesta): cuota Unibet aprox. 2.69 (producto de piernas) · prob. 34% · ventaja -9%  
+🎯 Simulada (con cuota: Menos de 4.5 tiros a puerta de Lecce + Menos de 4.5 córners de Lecce + Menos de 2.5 goles): cuota Unibet aprox. 3.88 (producto de piernas) · prob. 34% · ventaja +34% → 1 u en la banca de simulación  
+
+## Torino vs Lecce — 07/11 · 15:00
+
+👀 candidata · 🇮🇹 Serie A · **Menos de 12.5 córners** @ **1.12** (Unibet) · prob 82% vs casas 81% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.25 - 0.87)  
+1 45% · X 30% · 2 25%  
+1X 75% · X2 55% · 12 70%  
++1.5 63% · +2.5 36% · +3.5 17% · Ambos marcan 42%  
+Marcadores: 1-0 14% · 1-1 14% · 0-0 13% · 0-1 10%  
+🔎 **Claves**  
+• Forma: Torino ✅✅✅❌❌ | Lecce ❌✅❌❌❌  
+• H2H: 14 desde 2008: 6V-3E-5D · 2.4 goles/partido · +2.5 en 50%  
+• Bajas: Torino: 1 fuera, 4 duda (Franco Israel); Lecce: 4 fuera, 3 duda (Lassana Coulibaly, Santiago Pierotti, Kialonda Gaspar)  
+• Favorito de las casas: Torino @ 1.80  
+📐 **Estadísticas esperadas**  
+Córners 5.7 - 3.8: total +9.5 47% · Torino +5.5 48% · Lecce +4.5 33%  
+Tarjetas 1.4 - 1.9: total +3.5 42% · Torino +1.5 41% · Lecce +2.5 29%  
+Faltas 10.5 - 11.6: total +22.5 46% · Torino +11.5 37% · Lecce +11.5 49%  
+Tiros a puerta 4.9 - 3.7: total +9.5 36% · Torino +4.5 53% · Lecce +4.5 31%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Lecce + Menos de 4.5 tiros a puerta de Lecce + Menos de 4.5 córners de Lecce → prob. 34%, cuota justa 2.95 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Lecce + Menos de 4.5 tiros a puerta de Lecce + Menos de 4.5 córners de Lecce + Menos de 2.5 goles + Menos de 11.5 faltas de Torino → prob. 15%, cuota justa 6.66  
+🎯 No simulada (crear apuesta): cuota Unibet aprox. 2.69 (producto de piernas) · prob. 34% · ventaja -9%  
+🎯 Simulada (con cuota: Menos de 4.5 tiros a puerta de Lecce + Menos de 4.5 córners de Lecce + Menos de 2.5 goles): cuota Unibet aprox. 3.88 (producto de piernas) · prob. 34% · ventaja +34% → 1 u en la banca de simulación  
+
+## Torino vs Lecce — 07/11 · 15:00
+
+👀 candidata · 🇮🇹 Serie A · **Más de 6.5 córners de Torino** @ **3.05** (Unibet) · prob 33% vs casas 30% · ventaja -0%
+
+- ❌ Valor: ventaja -0% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.25 - 0.87)  
+1 45% · X 30% · 2 25%  
+1X 75% · X2 55% · 12 70%  
++1.5 63% · +2.5 36% · +3.5 17% · Ambos marcan 42%  
+Marcadores: 1-0 14% · 1-1 14% · 0-0 13% · 0-1 10%  
+🔎 **Claves**  
+• Forma: Torino ✅✅✅❌❌ | Lecce ❌✅❌❌❌  
+• H2H: 14 desde 2008: 6V-3E-5D · 2.4 goles/partido · +2.5 en 50%  
+• Bajas: Torino: 1 fuera, 4 duda (Franco Israel); Lecce: 4 fuera, 3 duda (Lassana Coulibaly, Santiago Pierotti, Kialonda Gaspar)  
+• Favorito de las casas: Torino @ 1.80  
+📐 **Estadísticas esperadas**  
+Córners 5.7 - 3.8: total +9.5 47% · Torino +5.5 48% · Lecce +4.5 33%  
+Tarjetas 1.4 - 1.9: total +3.5 42% · Torino +1.5 41% · Lecce +2.5 29%  
+Faltas 10.5 - 11.6: total +22.5 46% · Torino +11.5 37% · Lecce +11.5 49%  
+Tiros a puerta 4.9 - 3.7: total +9.5 36% · Torino +4.5 53% · Lecce +4.5 31%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Lecce + Menos de 4.5 tiros a puerta de Lecce + Menos de 4.5 córners de Lecce → prob. 34%, cuota justa 2.95 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Lecce + Menos de 4.5 tiros a puerta de Lecce + Menos de 4.5 córners de Lecce + Menos de 2.5 goles + Menos de 11.5 faltas de Torino → prob. 15%, cuota justa 6.66  
+🎯 No simulada (crear apuesta): cuota Unibet aprox. 2.69 (producto de piernas) · prob. 34% · ventaja -9%  
+🎯 Simulada (con cuota: Menos de 4.5 tiros a puerta de Lecce + Menos de 4.5 córners de Lecce + Menos de 2.5 goles): cuota Unibet aprox. 3.88 (producto de piernas) · prob. 34% · ventaja +34% → 1 u en la banca de simulación  
+
+## Torino vs Lecce — 07/11 · 15:00
+
+👀 candidata · 🇮🇹 Serie A · **Menos de 7.5 córners de Torino** @ **1.18** (Unibet) · prob 77% vs casas 78% · ventaja -10%
+
+- ❌ Valor: ventaja -10% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.25 - 0.87)  
+1 45% · X 30% · 2 25%  
+1X 75% · X2 55% · 12 70%  
++1.5 63% · +2.5 36% · +3.5 17% · Ambos marcan 42%  
+Marcadores: 1-0 14% · 1-1 14% · 0-0 13% · 0-1 10%  
+🔎 **Claves**  
+• Forma: Torino ✅✅✅❌❌ | Lecce ❌✅❌❌❌  
+• H2H: 14 desde 2008: 6V-3E-5D · 2.4 goles/partido · +2.5 en 50%  
+• Bajas: Torino: 1 fuera, 4 duda (Franco Israel); Lecce: 4 fuera, 3 duda (Lassana Coulibaly, Santiago Pierotti, Kialonda Gaspar)  
+• Favorito de las casas: Torino @ 1.80  
+📐 **Estadísticas esperadas**  
+Córners 5.7 - 3.8: total +9.5 47% · Torino +5.5 48% · Lecce +4.5 33%  
+Tarjetas 1.4 - 1.9: total +3.5 42% · Torino +1.5 41% · Lecce +2.5 29%  
+Faltas 10.5 - 11.6: total +22.5 46% · Torino +11.5 37% · Lecce +11.5 49%  
+Tiros a puerta 4.9 - 3.7: total +9.5 36% · Torino +4.5 53% · Lecce +4.5 31%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Lecce + Menos de 4.5 tiros a puerta de Lecce + Menos de 4.5 córners de Lecce → prob. 34%, cuota justa 2.95 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Lecce + Menos de 4.5 tiros a puerta de Lecce + Menos de 4.5 córners de Lecce + Menos de 2.5 goles + Menos de 11.5 faltas de Torino → prob. 15%, cuota justa 6.66  
+🎯 No simulada (crear apuesta): cuota Unibet aprox. 2.69 (producto de piernas) · prob. 34% · ventaja -9%  
+🎯 Simulada (con cuota: Menos de 4.5 tiros a puerta de Lecce + Menos de 4.5 córners de Lecce + Menos de 2.5 goles): cuota Unibet aprox. 3.88 (producto de piernas) · prob. 34% · ventaja +34% → 1 u en la banca de simulación  
+
+## Cesena vs Catanzaro — 07/11 · 15:00
+
+👀 candidata · 🇮🇹 Serie B · **Más de 9.5 córners** @ **1.68** (Unibet) · prob 51% vs casas 53% · ventaja -14%
+
+- ❌ Valor: ventaja -14% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.49 - 1.49)  
+1 38% · X 28% · 2 34%  
+1X 66% · X2 62% · 12 72%  
++1.5 80% · +2.5 57% · +3.5 35% · Ambos marcan 61%  
+Marcadores: 1-1 12% · 2-1 8% · 1-2 8% · 1-0 7%  
+🔎 **Claves**  
+• Forma: Cesena ❌➖❌✅➖ | Catanzaro ❌➖❌➖➖  
+• H2H: 6 desde 2005: 4V-0E-2D · 4.2 goles/partido · +2.5 en 67%  
+• Bajas: Cesena: 1 fuera, 0 duda (Jonathan Klinsmann); Catanzaro: 1 fuera, 0 duda (Costantino Favasuli)  
+• Favorito de las casas: Cesena @ 2.15  
+📐 **Estadísticas esperadas**  
+Córners 5.7 - 4.0: total +9.5 49% · Cesena +5.5 47% · Catanzaro +4.5 37%  
+Tarjetas 2.5 - 2.3: total +4.5 50% · Cesena +2.5 45% · Catanzaro +2.5 39%  
+Faltas 14.8 - 10.7: total +27.5 34% · Cesena +14.5 51% · Catanzaro +13.5 20%  
+Tiros a puerta 4.8 - 4.0: total +8.5 51% · Cesena +5.5 36% · Catanzaro +3.5 55%  
+🧩 Crear apuesta: Menos de 13.5 faltas de Catanzaro + Menos de 5.5 tiros a puerta de Cesena + Menos de 4.5 córners de Catanzaro → prob. 30%, cuota justa 3.34 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 13.5 faltas de Catanzaro + Menos de 5.5 tiros a puerta de Cesena + Menos de 4.5 córners de Catanzaro + Menos de 2.5 tarjetas de Catanzaro + Más de 2.5 goles → prob. 10%, cuota justa 10.10  
+🎯 No simulada (con cuota: Menos de 4.5 córners de Catanzaro + Más de 2.5 goles): cuota Unibet aprox. 2.77 (producto de piernas) · prob. 37% · ventaja +2%  
+
+## Cesena vs Catanzaro — 07/11 · 15:00
+
+👀 candidata · 🇮🇹 Serie B · **Menos de 11.5 córners** @ **1.36** (Unibet) · prob 69% vs casas 66% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.49 - 1.49)  
+1 38% · X 28% · 2 34%  
+1X 66% · X2 62% · 12 72%  
++1.5 80% · +2.5 57% · +3.5 35% · Ambos marcan 61%  
+Marcadores: 1-1 12% · 2-1 8% · 1-2 8% · 1-0 7%  
+🔎 **Claves**  
+• Forma: Cesena ❌➖❌✅➖ | Catanzaro ❌➖❌➖➖  
+• H2H: 6 desde 2005: 4V-0E-2D · 4.2 goles/partido · +2.5 en 67%  
+• Bajas: Cesena: 1 fuera, 0 duda (Jonathan Klinsmann); Catanzaro: 1 fuera, 0 duda (Costantino Favasuli)  
+• Favorito de las casas: Cesena @ 2.15  
+📐 **Estadísticas esperadas**  
+Córners 5.7 - 4.0: total +9.5 49% · Cesena +5.5 47% · Catanzaro +4.5 37%  
+Tarjetas 2.5 - 2.3: total +4.5 50% · Cesena +2.5 45% · Catanzaro +2.5 39%  
+Faltas 14.8 - 10.7: total +27.5 34% · Cesena +14.5 51% · Catanzaro +13.5 20%  
+Tiros a puerta 4.8 - 4.0: total +8.5 51% · Cesena +5.5 36% · Catanzaro +3.5 55%  
+🧩 Crear apuesta: Menos de 13.5 faltas de Catanzaro + Menos de 5.5 tiros a puerta de Cesena + Menos de 4.5 córners de Catanzaro → prob. 30%, cuota justa 3.34 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 13.5 faltas de Catanzaro + Menos de 5.5 tiros a puerta de Cesena + Menos de 4.5 córners de Catanzaro + Menos de 2.5 tarjetas de Catanzaro + Más de 2.5 goles → prob. 10%, cuota justa 10.10  
+🎯 No simulada (con cuota: Menos de 4.5 córners de Catanzaro + Más de 2.5 goles): cuota Unibet aprox. 2.77 (producto de piernas) · prob. 37% · ventaja +2%  
+
+## Cesena vs Catanzaro — 07/11 · 15:00
+
+👀 candidata · 🇮🇹 Serie B · **Más de 3.5 córners de Catanzaro** @ **1.55** (Unibet) · prob 56% vs casas 58% · ventaja -14%
+
+- ❌ Valor: ventaja -14% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.49 - 1.49)  
+1 38% · X 28% · 2 34%  
+1X 66% · X2 62% · 12 72%  
++1.5 80% · +2.5 57% · +3.5 35% · Ambos marcan 61%  
+Marcadores: 1-1 12% · 2-1 8% · 1-2 8% · 1-0 7%  
+🔎 **Claves**  
+• Forma: Cesena ❌➖❌✅➖ | Catanzaro ❌➖❌➖➖  
+• H2H: 6 desde 2005: 4V-0E-2D · 4.2 goles/partido · +2.5 en 67%  
+• Bajas: Cesena: 1 fuera, 0 duda (Jonathan Klinsmann); Catanzaro: 1 fuera, 0 duda (Costantino Favasuli)  
+• Favorito de las casas: Cesena @ 2.15  
+📐 **Estadísticas esperadas**  
+Córners 5.7 - 4.0: total +9.5 49% · Cesena +5.5 47% · Catanzaro +4.5 37%  
+Tarjetas 2.5 - 2.3: total +4.5 50% · Cesena +2.5 45% · Catanzaro +2.5 39%  
+Faltas 14.8 - 10.7: total +27.5 34% · Cesena +14.5 51% · Catanzaro +13.5 20%  
+Tiros a puerta 4.8 - 4.0: total +8.5 51% · Cesena +5.5 36% · Catanzaro +3.5 55%  
+🧩 Crear apuesta: Menos de 13.5 faltas de Catanzaro + Menos de 5.5 tiros a puerta de Cesena + Menos de 4.5 córners de Catanzaro → prob. 30%, cuota justa 3.34 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 13.5 faltas de Catanzaro + Menos de 5.5 tiros a puerta de Cesena + Menos de 4.5 córners de Catanzaro + Menos de 2.5 tarjetas de Catanzaro + Más de 2.5 goles → prob. 10%, cuota justa 10.10  
+🎯 No simulada (con cuota: Menos de 4.5 córners de Catanzaro + Más de 2.5 goles): cuota Unibet aprox. 2.77 (producto de piernas) · prob. 37% · ventaja +2%  
+
+## Cesena vs Catanzaro — 07/11 · 15:00
+
+👀 candidata · 🇮🇹 Serie B · **Menos de 4.5 córners de Catanzaro** @ **1.60** (Unibet) · prob 60% vs casas 56% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.49 - 1.49)  
+1 38% · X 28% · 2 34%  
+1X 66% · X2 62% · 12 72%  
++1.5 80% · +2.5 57% · +3.5 35% · Ambos marcan 61%  
+Marcadores: 1-1 12% · 2-1 8% · 1-2 8% · 1-0 7%  
+🔎 **Claves**  
+• Forma: Cesena ❌➖❌✅➖ | Catanzaro ❌➖❌➖➖  
+• H2H: 6 desde 2005: 4V-0E-2D · 4.2 goles/partido · +2.5 en 67%  
+• Bajas: Cesena: 1 fuera, 0 duda (Jonathan Klinsmann); Catanzaro: 1 fuera, 0 duda (Costantino Favasuli)  
+• Favorito de las casas: Cesena @ 2.15  
+📐 **Estadísticas esperadas**  
+Córners 5.7 - 4.0: total +9.5 49% · Cesena +5.5 47% · Catanzaro +4.5 37%  
+Tarjetas 2.5 - 2.3: total +4.5 50% · Cesena +2.5 45% · Catanzaro +2.5 39%  
+Faltas 14.8 - 10.7: total +27.5 34% · Cesena +14.5 51% · Catanzaro +13.5 20%  
+Tiros a puerta 4.8 - 4.0: total +8.5 51% · Cesena +5.5 36% · Catanzaro +3.5 55%  
+🧩 Crear apuesta: Menos de 13.5 faltas de Catanzaro + Menos de 5.5 tiros a puerta de Cesena + Menos de 4.5 córners de Catanzaro → prob. 30%, cuota justa 3.34 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 13.5 faltas de Catanzaro + Menos de 5.5 tiros a puerta de Cesena + Menos de 4.5 córners de Catanzaro + Menos de 2.5 tarjetas de Catanzaro + Más de 2.5 goles → prob. 10%, cuota justa 10.10  
+🎯 No simulada (con cuota: Menos de 4.5 córners de Catanzaro + Más de 2.5 goles): cuota Unibet aprox. 2.77 (producto de piernas) · prob. 37% · ventaja +2%  
+
+## Cesena vs Catanzaro — 07/11 · 15:00
+
+👀 candidata · 🇮🇹 Serie B · **Más de 5.5 córners de Cesena** @ **1.88** (Unibet) · prob 48% vs casas 48% · ventaja -10%
+
+- ❌ Valor: ventaja -10% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.49 - 1.49)  
+1 38% · X 28% · 2 34%  
+1X 66% · X2 62% · 12 72%  
++1.5 80% · +2.5 57% · +3.5 35% · Ambos marcan 61%  
+Marcadores: 1-1 12% · 2-1 8% · 1-2 8% · 1-0 7%  
+🔎 **Claves**  
+• Forma: Cesena ❌➖❌✅➖ | Catanzaro ❌➖❌➖➖  
+• H2H: 6 desde 2005: 4V-0E-2D · 4.2 goles/partido · +2.5 en 67%  
+• Bajas: Cesena: 1 fuera, 0 duda (Jonathan Klinsmann); Catanzaro: 1 fuera, 0 duda (Costantino Favasuli)  
+• Favorito de las casas: Cesena @ 2.15  
+📐 **Estadísticas esperadas**  
+Córners 5.7 - 4.0: total +9.5 49% · Cesena +5.5 47% · Catanzaro +4.5 37%  
+Tarjetas 2.5 - 2.3: total +4.5 50% · Cesena +2.5 45% · Catanzaro +2.5 39%  
+Faltas 14.8 - 10.7: total +27.5 34% · Cesena +14.5 51% · Catanzaro +13.5 20%  
+Tiros a puerta 4.8 - 4.0: total +8.5 51% · Cesena +5.5 36% · Catanzaro +3.5 55%  
+🧩 Crear apuesta: Menos de 13.5 faltas de Catanzaro + Menos de 5.5 tiros a puerta de Cesena + Menos de 4.5 córners de Catanzaro → prob. 30%, cuota justa 3.34 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 13.5 faltas de Catanzaro + Menos de 5.5 tiros a puerta de Cesena + Menos de 4.5 córners de Catanzaro + Menos de 2.5 tarjetas de Catanzaro + Más de 2.5 goles → prob. 10%, cuota justa 10.10  
+🎯 No simulada (con cuota: Menos de 4.5 córners de Catanzaro + Más de 2.5 goles): cuota Unibet aprox. 2.77 (producto de piernas) · prob. 37% · ventaja +2%  
+
+## Cesena vs Catanzaro — 07/11 · 15:00
+
+👀 candidata · 🇮🇹 Serie B · **Menos de 5.5 córners de Cesena** @ **1.72** (Unibet) · prob 52% vs casas 52% · ventaja -10%
+
+- ❌ Valor: ventaja -10% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.49 - 1.49)  
+1 38% · X 28% · 2 34%  
+1X 66% · X2 62% · 12 72%  
++1.5 80% · +2.5 57% · +3.5 35% · Ambos marcan 61%  
+Marcadores: 1-1 12% · 2-1 8% · 1-2 8% · 1-0 7%  
+🔎 **Claves**  
+• Forma: Cesena ❌➖❌✅➖ | Catanzaro ❌➖❌➖➖  
+• H2H: 6 desde 2005: 4V-0E-2D · 4.2 goles/partido · +2.5 en 67%  
+• Bajas: Cesena: 1 fuera, 0 duda (Jonathan Klinsmann); Catanzaro: 1 fuera, 0 duda (Costantino Favasuli)  
+• Favorito de las casas: Cesena @ 2.15  
+📐 **Estadísticas esperadas**  
+Córners 5.7 - 4.0: total +9.5 49% · Cesena +5.5 47% · Catanzaro +4.5 37%  
+Tarjetas 2.5 - 2.3: total +4.5 50% · Cesena +2.5 45% · Catanzaro +2.5 39%  
+Faltas 14.8 - 10.7: total +27.5 34% · Cesena +14.5 51% · Catanzaro +13.5 20%  
+Tiros a puerta 4.8 - 4.0: total +8.5 51% · Cesena +5.5 36% · Catanzaro +3.5 55%  
+🧩 Crear apuesta: Menos de 13.5 faltas de Catanzaro + Menos de 5.5 tiros a puerta de Cesena + Menos de 4.5 córners de Catanzaro → prob. 30%, cuota justa 3.34 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 13.5 faltas de Catanzaro + Menos de 5.5 tiros a puerta de Cesena + Menos de 4.5 córners de Catanzaro + Menos de 2.5 tarjetas de Catanzaro + Más de 2.5 goles → prob. 10%, cuota justa 10.10  
+🎯 No simulada (con cuota: Menos de 4.5 córners de Catanzaro + Más de 2.5 goles): cuota Unibet aprox. 2.77 (producto de piernas) · prob. 37% · ventaja +2%  
+
+## Juve Stabia vs Arezzo — 07/11 · 15:00
+
+👀 candidata · 🇮🇹 Serie B · **Más de 5.5 córners de Juve Stabia** @ **2.16** (Unibet) · prob 46% vs casas 42% · ventaja +0%
+
+- ❌ Valor: ventaja +0% (mín. 8% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.47 - 1.00)  
+1 46% · X 29% · 2 25%  
+1X 75% · X2 54% · 12 71%  
++1.5 71% · +2.5 45% · +3.5 24% · Ambos marcan 49%  
+Marcadores: 1-1 13% · 1-0 12% · 2-1 9% · 2-0 9%  
+🔎 **Claves**  
+• Forma: Juve Stabia ➖✅✅❌➖ | Arezzo ➖✅❌❌➖  
+• H2H: sin precedentes  
+• Bajas: Juve Stabia: 0 fuera, 4 duda; Arezzo: sin bajas  
+• Favorito de las casas: Juve Stabia @ 1.77  
+📐 **Estadísticas esperadas**  
+Córners 6.0 - 3.6: total +9.5 48% · Juve Stabia +5.5 51% · Arezzo +4.5 30%  
+Tarjetas 2.0 - 2.6: total +4.5 47% · Juve Stabia +2.5 32% · Arezzo +2.5 48%  
+Faltas 14.7 - 15.7: total +27.5 67% · Juve Stabia +14.5 50% · Arezzo +13.5 68%  
+Tiros a puerta 4.9 - 3.1: total +8.5 40% · Juve Stabia +5.5 36% · Arezzo +3.5 37%  
+🧩 Crear apuesta: Menos de 4.5 córners de Arezzo + Más de 13.5 faltas de Arezzo + Menos de 2.5 tarjetas de Juve Stabia → prob. 32%, cuota justa 3.12 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 córners de Arezzo + Más de 13.5 faltas de Arezzo + Menos de 2.5 tarjetas de Juve Stabia + Menos de 5.5 tiros a puerta de Juve Stabia → prob. 19%, cuota justa 5.17  
+
+## Juve Stabia vs Arezzo — 07/11 · 15:00
+
+👀 candidata · 🇮🇹 Serie B · **Menos de 5.5 córners de Juve Stabia** @ **1.53** (Unibet) · prob 54% vs casas 58% · ventaja -18%
+
+- ❌ Valor: ventaja -18% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.47 - 1.00)  
+1 46% · X 29% · 2 25%  
+1X 75% · X2 54% · 12 71%  
++1.5 71% · +2.5 45% · +3.5 24% · Ambos marcan 49%  
+Marcadores: 1-1 13% · 1-0 12% · 2-1 9% · 2-0 9%  
+🔎 **Claves**  
+• Forma: Juve Stabia ➖✅✅❌➖ | Arezzo ➖✅❌❌➖  
+• H2H: sin precedentes  
+• Bajas: Juve Stabia: 0 fuera, 4 duda; Arezzo: sin bajas  
+• Favorito de las casas: Juve Stabia @ 1.77  
+📐 **Estadísticas esperadas**  
+Córners 6.0 - 3.6: total +9.5 48% · Juve Stabia +5.5 51% · Arezzo +4.5 30%  
+Tarjetas 2.0 - 2.6: total +4.5 47% · Juve Stabia +2.5 32% · Arezzo +2.5 48%  
+Faltas 14.7 - 15.7: total +27.5 67% · Juve Stabia +14.5 50% · Arezzo +13.5 68%  
+Tiros a puerta 4.9 - 3.1: total +8.5 40% · Juve Stabia +5.5 36% · Arezzo +3.5 37%  
+🧩 Crear apuesta: Menos de 4.5 córners de Arezzo + Más de 13.5 faltas de Arezzo + Menos de 2.5 tarjetas de Juve Stabia → prob. 32%, cuota justa 3.12 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 córners de Arezzo + Más de 13.5 faltas de Arezzo + Menos de 2.5 tarjetas de Juve Stabia + Menos de 5.5 tiros a puerta de Juve Stabia → prob. 19%, cuota justa 5.17  
+
+## Juve Stabia vs Arezzo — 07/11 · 15:00
+
+👀 candidata · 🇮🇹 Serie B · **Más de 9.5 córners** @ **2.23** (Unibet) · prob 44% vs casas 40% · ventaja -1%
+
+- ❌ Valor: ventaja -1% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.47 - 1.00)  
+1 46% · X 29% · 2 25%  
+1X 75% · X2 54% · 12 71%  
++1.5 71% · +2.5 45% · +3.5 24% · Ambos marcan 49%  
+Marcadores: 1-1 13% · 1-0 12% · 2-1 9% · 2-0 9%  
+🔎 **Claves**  
+• Forma: Juve Stabia ➖✅✅❌➖ | Arezzo ➖✅❌❌➖  
+• H2H: sin precedentes  
+• Bajas: Juve Stabia: 0 fuera, 4 duda; Arezzo: sin bajas  
+• Favorito de las casas: Juve Stabia @ 1.77  
+📐 **Estadísticas esperadas**  
+Córners 6.0 - 3.6: total +9.5 48% · Juve Stabia +5.5 51% · Arezzo +4.5 30%  
+Tarjetas 2.0 - 2.6: total +4.5 47% · Juve Stabia +2.5 32% · Arezzo +2.5 48%  
+Faltas 14.7 - 15.7: total +27.5 67% · Juve Stabia +14.5 50% · Arezzo +13.5 68%  
+Tiros a puerta 4.9 - 3.1: total +8.5 40% · Juve Stabia +5.5 36% · Arezzo +3.5 37%  
+🧩 Crear apuesta: Menos de 4.5 córners de Arezzo + Más de 13.5 faltas de Arezzo + Menos de 2.5 tarjetas de Juve Stabia → prob. 32%, cuota justa 3.12 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 córners de Arezzo + Más de 13.5 faltas de Arezzo + Menos de 2.5 tarjetas de Juve Stabia + Menos de 5.5 tiros a puerta de Juve Stabia → prob. 19%, cuota justa 5.17  
+
+## Juve Stabia vs Arezzo — 07/11 · 15:00
+
+👀 candidata · 🇮🇹 Serie B · **Menos de 9.5 córners** @ **1.50** (Unibet) · prob 56% vs casas 60% · ventaja -16%
+
+- ❌ Valor: ventaja -16% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.47 - 1.00)  
+1 46% · X 29% · 2 25%  
+1X 75% · X2 54% · 12 71%  
++1.5 71% · +2.5 45% · +3.5 24% · Ambos marcan 49%  
+Marcadores: 1-1 13% · 1-0 12% · 2-1 9% · 2-0 9%  
+🔎 **Claves**  
+• Forma: Juve Stabia ➖✅✅❌➖ | Arezzo ➖✅❌❌➖  
+• H2H: sin precedentes  
+• Bajas: Juve Stabia: 0 fuera, 4 duda; Arezzo: sin bajas  
+• Favorito de las casas: Juve Stabia @ 1.77  
+📐 **Estadísticas esperadas**  
+Córners 6.0 - 3.6: total +9.5 48% · Juve Stabia +5.5 51% · Arezzo +4.5 30%  
+Tarjetas 2.0 - 2.6: total +4.5 47% · Juve Stabia +2.5 32% · Arezzo +2.5 48%  
+Faltas 14.7 - 15.7: total +27.5 67% · Juve Stabia +14.5 50% · Arezzo +13.5 68%  
+Tiros a puerta 4.9 - 3.1: total +8.5 40% · Juve Stabia +5.5 36% · Arezzo +3.5 37%  
+🧩 Crear apuesta: Menos de 4.5 córners de Arezzo + Más de 13.5 faltas de Arezzo + Menos de 2.5 tarjetas de Juve Stabia → prob. 32%, cuota justa 3.12 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 córners de Arezzo + Más de 13.5 faltas de Arezzo + Menos de 2.5 tarjetas de Juve Stabia + Menos de 5.5 tiros a puerta de Juve Stabia → prob. 19%, cuota justa 5.17  
+
+## Juve Stabia vs Arezzo — 07/11 · 15:00
+
+👀 candidata · 🇮🇹 Serie B · **Más de 3.5 córners de Arezzo** @ **1.88** (Unibet) · prob 47% vs casas 48% · ventaja -11%
+
+- ❌ Valor: ventaja -11% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.47 - 1.00)  
+1 46% · X 29% · 2 25%  
+1X 75% · X2 54% · 12 71%  
++1.5 71% · +2.5 45% · +3.5 24% · Ambos marcan 49%  
+Marcadores: 1-1 13% · 1-0 12% · 2-1 9% · 2-0 9%  
+🔎 **Claves**  
+• Forma: Juve Stabia ➖✅✅❌➖ | Arezzo ➖✅❌❌➖  
+• H2H: sin precedentes  
+• Bajas: Juve Stabia: 0 fuera, 4 duda; Arezzo: sin bajas  
+• Favorito de las casas: Juve Stabia @ 1.77  
+📐 **Estadísticas esperadas**  
+Córners 6.0 - 3.6: total +9.5 48% · Juve Stabia +5.5 51% · Arezzo +4.5 30%  
+Tarjetas 2.0 - 2.6: total +4.5 47% · Juve Stabia +2.5 32% · Arezzo +2.5 48%  
+Faltas 14.7 - 15.7: total +27.5 67% · Juve Stabia +14.5 50% · Arezzo +13.5 68%  
+Tiros a puerta 4.9 - 3.1: total +8.5 40% · Juve Stabia +5.5 36% · Arezzo +3.5 37%  
+🧩 Crear apuesta: Menos de 4.5 córners de Arezzo + Más de 13.5 faltas de Arezzo + Menos de 2.5 tarjetas de Juve Stabia → prob. 32%, cuota justa 3.12 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 córners de Arezzo + Más de 13.5 faltas de Arezzo + Menos de 2.5 tarjetas de Juve Stabia + Menos de 5.5 tiros a puerta de Juve Stabia → prob. 19%, cuota justa 5.17  
+
+## Juve Stabia vs Arezzo — 07/11 · 15:00
+
+👀 candidata · 🇮🇹 Serie B · **Menos de 3.5 córners de Arezzo** @ **1.72** (Unibet) · prob 53% vs casas 52% · ventaja -9%
+
+- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.47 - 1.00)  
+1 46% · X 29% · 2 25%  
+1X 75% · X2 54% · 12 71%  
++1.5 71% · +2.5 45% · +3.5 24% · Ambos marcan 49%  
+Marcadores: 1-1 13% · 1-0 12% · 2-1 9% · 2-0 9%  
+🔎 **Claves**  
+• Forma: Juve Stabia ➖✅✅❌➖ | Arezzo ➖✅❌❌➖  
+• H2H: sin precedentes  
+• Bajas: Juve Stabia: 0 fuera, 4 duda; Arezzo: sin bajas  
+• Favorito de las casas: Juve Stabia @ 1.77  
+📐 **Estadísticas esperadas**  
+Córners 6.0 - 3.6: total +9.5 48% · Juve Stabia +5.5 51% · Arezzo +4.5 30%  
+Tarjetas 2.0 - 2.6: total +4.5 47% · Juve Stabia +2.5 32% · Arezzo +2.5 48%  
+Faltas 14.7 - 15.7: total +27.5 67% · Juve Stabia +14.5 50% · Arezzo +13.5 68%  
+Tiros a puerta 4.9 - 3.1: total +8.5 40% · Juve Stabia +5.5 36% · Arezzo +3.5 37%  
+🧩 Crear apuesta: Menos de 4.5 córners de Arezzo + Más de 13.5 faltas de Arezzo + Menos de 2.5 tarjetas de Juve Stabia → prob. 32%, cuota justa 3.12 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 córners de Arezzo + Más de 13.5 faltas de Arezzo + Menos de 2.5 tarjetas de Juve Stabia + Menos de 5.5 tiros a puerta de Juve Stabia → prob. 19%, cuota justa 5.17  
+
+## Padova vs Empoli — 07/11 · 15:00
+
+👀 candidata · 🇮🇹 Serie B · **Más de 8.5 córners** @ **1.47** (Unibet) · prob 60% vs casas 61% · ventaja -11%
+
+- ❌ Valor: ventaja -11% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.24 - 1.05)  
+1 37% · X 30% · 2 32%  
+1X 68% · X2 63% · 12 70%  
++1.5 67% · +2.5 40% · +3.5 20% · Ambos marcan 47%  
+Marcadores: 1-1 14% · 1-0 12% · 0-0 11% · 0-1 10%  
+🔎 **Claves**  
+• Forma: Padova ❌❌✅✅➖ | Empoli ❌➖❌❌➖  
+• H2H: 12 desde 2009: 3V-4E-5D · 3.2 goles/partido · +2.5 en 58%  
+• Bajas: Padova: 2 fuera, 2 duda (Giovanni Giunti, Luca Zanimacchia); Empoli: sin bajas  
+• Favorito de las casas: Padova @ 2.20  
+📐 **Estadísticas esperadas**  
+Córners 5.2 - 4.3: total +9.5 48% · Padova +5.5 41% · Empoli +4.5 42%  
+Tarjetas 2.1 - 2.5: total +4.5 49% · Padova +2.5 36% · Empoli +2.5 46%  
+Faltas 13.2 - 15.5: total +27.5 57% · Padova +14.5 35% · Empoli +13.5 67%  
+Tiros a puerta 4.4 - 3.7: total +8.5 42% · Padova +5.5 28% · Empoli +3.5 51%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Padova + Más de 13.5 faltas de Empoli + Menos de 2.5 tarjetas de Padova → prob. 30%, cuota justa 3.37 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Padova + Más de 13.5 faltas de Empoli + Menos de 2.5 tarjetas de Padova + Menos de 2.5 goles + Menos de 5.5 córners de Padova → prob. 13%, cuota justa 7.90  
+🎯 No simulada (con cuota: Menos de 2.5 goles + Menos de 5.5 córners de Padova): cuota Unibet aprox. 2.62 (producto de piernas) · prob. 35% · ventaja -8%  
+
+## Padova vs Empoli — 07/11 · 15:00
+
+👀 candidata · 🇮🇹 Serie B · **Menos de 10.5 córners** @ **1.50** (Unibet) · prob 62% vs casas 60% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.24 - 1.05)  
+1 37% · X 30% · 2 32%  
+1X 68% · X2 63% · 12 70%  
++1.5 67% · +2.5 40% · +3.5 20% · Ambos marcan 47%  
+Marcadores: 1-1 14% · 1-0 12% · 0-0 11% · 0-1 10%  
+🔎 **Claves**  
+• Forma: Padova ❌❌✅✅➖ | Empoli ❌➖❌❌➖  
+• H2H: 12 desde 2009: 3V-4E-5D · 3.2 goles/partido · +2.5 en 58%  
+• Bajas: Padova: 2 fuera, 2 duda (Giovanni Giunti, Luca Zanimacchia); Empoli: sin bajas  
+• Favorito de las casas: Padova @ 2.20  
+📐 **Estadísticas esperadas**  
+Córners 5.2 - 4.3: total +9.5 48% · Padova +5.5 41% · Empoli +4.5 42%  
+Tarjetas 2.1 - 2.5: total +4.5 49% · Padova +2.5 36% · Empoli +2.5 46%  
+Faltas 13.2 - 15.5: total +27.5 57% · Padova +14.5 35% · Empoli +13.5 67%  
+Tiros a puerta 4.4 - 3.7: total +8.5 42% · Padova +5.5 28% · Empoli +3.5 51%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Padova + Más de 13.5 faltas de Empoli + Menos de 2.5 tarjetas de Padova → prob. 30%, cuota justa 3.37 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Padova + Más de 13.5 faltas de Empoli + Menos de 2.5 tarjetas de Padova + Menos de 2.5 goles + Menos de 5.5 córners de Padova → prob. 13%, cuota justa 7.90  
+🎯 No simulada (con cuota: Menos de 2.5 goles + Menos de 5.5 córners de Padova): cuota Unibet aprox. 2.62 (producto de piernas) · prob. 35% · ventaja -8%  
+
+## Padova vs Empoli — 07/11 · 15:00
+
+👀 candidata · 🇮🇹 Serie B · **Más de 4.5 córners de Padova** @ **1.70** (Unibet) · prob 54% vs casas 53% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.24 - 1.05)  
+1 37% · X 30% · 2 32%  
+1X 68% · X2 63% · 12 70%  
++1.5 67% · +2.5 40% · +3.5 20% · Ambos marcan 47%  
+Marcadores: 1-1 14% · 1-0 12% · 0-0 11% · 0-1 10%  
+🔎 **Claves**  
+• Forma: Padova ❌❌✅✅➖ | Empoli ❌➖❌❌➖  
+• H2H: 12 desde 2009: 3V-4E-5D · 3.2 goles/partido · +2.5 en 58%  
+• Bajas: Padova: 2 fuera, 2 duda (Giovanni Giunti, Luca Zanimacchia); Empoli: sin bajas  
+• Favorito de las casas: Padova @ 2.20  
+📐 **Estadísticas esperadas**  
+Córners 5.2 - 4.3: total +9.5 48% · Padova +5.5 41% · Empoli +4.5 42%  
+Tarjetas 2.1 - 2.5: total +4.5 49% · Padova +2.5 36% · Empoli +2.5 46%  
+Faltas 13.2 - 15.5: total +27.5 57% · Padova +14.5 35% · Empoli +13.5 67%  
+Tiros a puerta 4.4 - 3.7: total +8.5 42% · Padova +5.5 28% · Empoli +3.5 51%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Padova + Más de 13.5 faltas de Empoli + Menos de 2.5 tarjetas de Padova → prob. 30%, cuota justa 3.37 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Padova + Más de 13.5 faltas de Empoli + Menos de 2.5 tarjetas de Padova + Menos de 2.5 goles + Menos de 5.5 córners de Padova → prob. 13%, cuota justa 7.90  
+🎯 No simulada (con cuota: Menos de 2.5 goles + Menos de 5.5 córners de Padova): cuota Unibet aprox. 2.62 (producto de piernas) · prob. 35% · ventaja -8%  
+
+## Padova vs Empoli — 07/11 · 15:00
+
+👀 candidata · 🇮🇹 Serie B · **Menos de 5.5 córners de Padova** @ **1.50** (Unibet) · prob 59% vs casas 60% · ventaja -11%
+
+- ❌ Valor: ventaja -11% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.24 - 1.05)  
+1 37% · X 30% · 2 32%  
+1X 68% · X2 63% · 12 70%  
++1.5 67% · +2.5 40% · +3.5 20% · Ambos marcan 47%  
+Marcadores: 1-1 14% · 1-0 12% · 0-0 11% · 0-1 10%  
+🔎 **Claves**  
+• Forma: Padova ❌❌✅✅➖ | Empoli ❌➖❌❌➖  
+• H2H: 12 desde 2009: 3V-4E-5D · 3.2 goles/partido · +2.5 en 58%  
+• Bajas: Padova: 2 fuera, 2 duda (Giovanni Giunti, Luca Zanimacchia); Empoli: sin bajas  
+• Favorito de las casas: Padova @ 2.20  
+📐 **Estadísticas esperadas**  
+Córners 5.2 - 4.3: total +9.5 48% · Padova +5.5 41% · Empoli +4.5 42%  
+Tarjetas 2.1 - 2.5: total +4.5 49% · Padova +2.5 36% · Empoli +2.5 46%  
+Faltas 13.2 - 15.5: total +27.5 57% · Padova +14.5 35% · Empoli +13.5 67%  
+Tiros a puerta 4.4 - 3.7: total +8.5 42% · Padova +5.5 28% · Empoli +3.5 51%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Padova + Más de 13.5 faltas de Empoli + Menos de 2.5 tarjetas de Padova → prob. 30%, cuota justa 3.37 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Padova + Más de 13.5 faltas de Empoli + Menos de 2.5 tarjetas de Padova + Menos de 2.5 goles + Menos de 5.5 córners de Padova → prob. 13%, cuota justa 7.90  
+🎯 No simulada (con cuota: Menos de 2.5 goles + Menos de 5.5 córners de Padova): cuota Unibet aprox. 2.62 (producto de piernas) · prob. 35% · ventaja -8%  
+
+## Padova vs Empoli — 07/11 · 15:00
+
+👀 candidata · 🇮🇹 Serie B · **Más de 4.5 córners de Empoli** @ **1.85** (Unibet) · prob 45% vs casas 48% · ventaja -16%
+
+- ❌ Valor: ventaja -16% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.24 - 1.05)  
+1 37% · X 30% · 2 32%  
+1X 68% · X2 63% · 12 70%  
++1.5 67% · +2.5 40% · +3.5 20% · Ambos marcan 47%  
+Marcadores: 1-1 14% · 1-0 12% · 0-0 11% · 0-1 10%  
+🔎 **Claves**  
+• Forma: Padova ❌❌✅✅➖ | Empoli ❌➖❌❌➖  
+• H2H: 12 desde 2009: 3V-4E-5D · 3.2 goles/partido · +2.5 en 58%  
+• Bajas: Padova: 2 fuera, 2 duda (Giovanni Giunti, Luca Zanimacchia); Empoli: sin bajas  
+• Favorito de las casas: Padova @ 2.20  
+📐 **Estadísticas esperadas**  
+Córners 5.2 - 4.3: total +9.5 48% · Padova +5.5 41% · Empoli +4.5 42%  
+Tarjetas 2.1 - 2.5: total +4.5 49% · Padova +2.5 36% · Empoli +2.5 46%  
+Faltas 13.2 - 15.5: total +27.5 57% · Padova +14.5 35% · Empoli +13.5 67%  
+Tiros a puerta 4.4 - 3.7: total +8.5 42% · Padova +5.5 28% · Empoli +3.5 51%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Padova + Más de 13.5 faltas de Empoli + Menos de 2.5 tarjetas de Padova → prob. 30%, cuota justa 3.37 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Padova + Más de 13.5 faltas de Empoli + Menos de 2.5 tarjetas de Padova + Menos de 2.5 goles + Menos de 5.5 córners de Padova → prob. 13%, cuota justa 7.90  
+🎯 No simulada (con cuota: Menos de 2.5 goles + Menos de 5.5 córners de Padova): cuota Unibet aprox. 2.62 (producto de piernas) · prob. 35% · ventaja -8%  
+
+## Padova vs Empoli — 07/11 · 15:00
+
+👀 candidata · 🇮🇹 Serie B · **Menos de 4.5 córners de Empoli** @ **1.74** (Unibet) · prob 55% vs casas 52% · ventaja -5%
+
+- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.24 - 1.05)  
+1 37% · X 30% · 2 32%  
+1X 68% · X2 63% · 12 70%  
++1.5 67% · +2.5 40% · +3.5 20% · Ambos marcan 47%  
+Marcadores: 1-1 14% · 1-0 12% · 0-0 11% · 0-1 10%  
+🔎 **Claves**  
+• Forma: Padova ❌❌✅✅➖ | Empoli ❌➖❌❌➖  
+• H2H: 12 desde 2009: 3V-4E-5D · 3.2 goles/partido · +2.5 en 58%  
+• Bajas: Padova: 2 fuera, 2 duda (Giovanni Giunti, Luca Zanimacchia); Empoli: sin bajas  
+• Favorito de las casas: Padova @ 2.20  
+📐 **Estadísticas esperadas**  
+Córners 5.2 - 4.3: total +9.5 48% · Padova +5.5 41% · Empoli +4.5 42%  
+Tarjetas 2.1 - 2.5: total +4.5 49% · Padova +2.5 36% · Empoli +2.5 46%  
+Faltas 13.2 - 15.5: total +27.5 57% · Padova +14.5 35% · Empoli +13.5 67%  
+Tiros a puerta 4.4 - 3.7: total +8.5 42% · Padova +5.5 28% · Empoli +3.5 51%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Padova + Más de 13.5 faltas de Empoli + Menos de 2.5 tarjetas de Padova → prob. 30%, cuota justa 3.37 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Padova + Más de 13.5 faltas de Empoli + Menos de 2.5 tarjetas de Padova + Menos de 2.5 goles + Menos de 5.5 córners de Padova → prob. 13%, cuota justa 7.90  
+🎯 No simulada (con cuota: Menos de 2.5 goles + Menos de 5.5 córners de Padova): cuota Unibet aprox. 2.62 (producto de piernas) · prob. 35% · ventaja -8%  
+
+## Pisa vs Sudtirol — 07/11 · 15:00
+
+👀 candidata · 🇮🇹 Serie B · **Más de 3.5 córners de Sudtirol** @ **1.70** (Unibet) · prob 47% vs casas 53% · ventaja -20%
+
+- ❌ Valor: ventaja -20% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.70 - 1.25)  
+1 55% · X 26% · 2 20%  
+1X 80% · X2 45% · 12 74%  
++1.5 80% · +2.5 56% · +3.5 34% · Ambos marcan 59%  
+Marcadores: 1-1 12% · 2-1 9% · 1-0 8% · 2-0 8%  
+🔎 **Claves**  
+• Forma: Pisa ✅✅➖➖❌ | Sudtirol ➖❌➖❌➖  
+• H2H: 6 desde 2022: 2V-2E-2D · 3.3 goles/partido · +2.5 en 83%  
+• Bajas: Pisa: 1 fuera, 1 duda (Henrik Meister); Sudtirol: 0 fuera, 2 duda  
+• Favorito de las casas: Pisa @ 1.58  
+📐 **Estadísticas esperadas**  
+Córners 6.2 - 3.3: total +9.5 48% · Pisa +5.5 54% · Sudtirol +4.5 26%  
+Tarjetas 2.0 - 2.6: total +4.5 48% · Pisa +2.5 32% · Sudtirol +2.5 49%  
+Faltas 12.0 - 14.6: total +27.5 42% · Pisa +14.5 23% · Sudtirol +13.5 59%  
+Tiros a puerta 6.0 - 3.1: total +8.5 54% · Pisa +5.5 53% · Sudtirol +3.5 37%  
+🧩 Crear apuesta: Menos de 14.5 faltas de Pisa + Menos de 4.5 córners de Sudtirol + Menos de 2.5 tarjetas de Pisa → prob. 41%, cuota justa 2.45 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 14.5 faltas de Pisa + Menos de 4.5 córners de Sudtirol + Menos de 2.5 tarjetas de Pisa + Menos de 3.5 tiros a puerta de Sudtirol + Más de 2.5 goles → prob. 13%, cuota justa 7.52  
+🎯 Simulada (con cuota: Menos de 4.5 córners de Sudtirol + Más de 2.5 goles): cuota Unibet aprox. 2.55 (producto de piernas) · prob. 42% · ventaja +8% → 1 u en la banca de simulación  
+
+## Pisa vs Sudtirol — 07/11 · 15:00
+
+👀 candidata · 🇮🇹 Serie B · **Menos de 3.5 córners de Sudtirol** @ **1.90** (Unibet) · prob 53% vs casas 47% · ventaja +0%
+
+- ❌ Valor: ventaja +0% (mín. 8% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.70 - 1.25)  
+1 55% · X 26% · 2 20%  
+1X 80% · X2 45% · 12 74%  
++1.5 80% · +2.5 56% · +3.5 34% · Ambos marcan 59%  
+Marcadores: 1-1 12% · 2-1 9% · 1-0 8% · 2-0 8%  
+🔎 **Claves**  
+• Forma: Pisa ✅✅➖➖❌ | Sudtirol ➖❌➖❌➖  
+• H2H: 6 desde 2022: 2V-2E-2D · 3.3 goles/partido · +2.5 en 83%  
+• Bajas: Pisa: 1 fuera, 1 duda (Henrik Meister); Sudtirol: 0 fuera, 2 duda  
+• Favorito de las casas: Pisa @ 1.58  
+📐 **Estadísticas esperadas**  
+Córners 6.2 - 3.3: total +9.5 48% · Pisa +5.5 54% · Sudtirol +4.5 26%  
+Tarjetas 2.0 - 2.6: total +4.5 48% · Pisa +2.5 32% · Sudtirol +2.5 49%  
+Faltas 12.0 - 14.6: total +27.5 42% · Pisa +14.5 23% · Sudtirol +13.5 59%  
+Tiros a puerta 6.0 - 3.1: total +8.5 54% · Pisa +5.5 53% · Sudtirol +3.5 37%  
+🧩 Crear apuesta: Menos de 14.5 faltas de Pisa + Menos de 4.5 córners de Sudtirol + Menos de 2.5 tarjetas de Pisa → prob. 41%, cuota justa 2.45 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 14.5 faltas de Pisa + Menos de 4.5 córners de Sudtirol + Menos de 2.5 tarjetas de Pisa + Menos de 3.5 tiros a puerta de Sudtirol + Más de 2.5 goles → prob. 13%, cuota justa 7.52  
+🎯 Simulada (con cuota: Menos de 4.5 córners de Sudtirol + Más de 2.5 goles): cuota Unibet aprox. 2.55 (producto de piernas) · prob. 42% · ventaja +8% → 1 u en la banca de simulación  
+
+## Pisa vs Sudtirol — 07/11 · 15:00
+
+👀 candidata · 🇮🇹 Serie B · **Más de 8.5 córners** @ **1.50** (Unibet) · prob 60% vs casas 60% · ventaja -10%
+
+- ❌ Valor: ventaja -10% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.70 - 1.25)  
+1 55% · X 26% · 2 20%  
+1X 80% · X2 45% · 12 74%  
++1.5 80% · +2.5 56% · +3.5 34% · Ambos marcan 59%  
+Marcadores: 1-1 12% · 2-1 9% · 1-0 8% · 2-0 8%  
+🔎 **Claves**  
+• Forma: Pisa ✅✅➖➖❌ | Sudtirol ➖❌➖❌➖  
+• H2H: 6 desde 2022: 2V-2E-2D · 3.3 goles/partido · +2.5 en 83%  
+• Bajas: Pisa: 1 fuera, 1 duda (Henrik Meister); Sudtirol: 0 fuera, 2 duda  
+• Favorito de las casas: Pisa @ 1.58  
+📐 **Estadísticas esperadas**  
+Córners 6.2 - 3.3: total +9.5 48% · Pisa +5.5 54% · Sudtirol +4.5 26%  
+Tarjetas 2.0 - 2.6: total +4.5 48% · Pisa +2.5 32% · Sudtirol +2.5 49%  
+Faltas 12.0 - 14.6: total +27.5 42% · Pisa +14.5 23% · Sudtirol +13.5 59%  
+Tiros a puerta 6.0 - 3.1: total +8.5 54% · Pisa +5.5 53% · Sudtirol +3.5 37%  
+🧩 Crear apuesta: Menos de 14.5 faltas de Pisa + Menos de 4.5 córners de Sudtirol + Menos de 2.5 tarjetas de Pisa → prob. 41%, cuota justa 2.45 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 14.5 faltas de Pisa + Menos de 4.5 córners de Sudtirol + Menos de 2.5 tarjetas de Pisa + Menos de 3.5 tiros a puerta de Sudtirol + Más de 2.5 goles → prob. 13%, cuota justa 7.52  
+🎯 Simulada (con cuota: Menos de 4.5 córners de Sudtirol + Más de 2.5 goles): cuota Unibet aprox. 2.55 (producto de piernas) · prob. 42% · ventaja +8% → 1 u en la banca de simulación  
+
+## Pisa vs Sudtirol — 07/11 · 15:00
+
+👀 candidata · 🇮🇹 Serie B · **Menos de 10.5 córners** @ **1.49** (Unibet) · prob 62% vs casas 60% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.70 - 1.25)  
+1 55% · X 26% · 2 20%  
+1X 80% · X2 45% · 12 74%  
++1.5 80% · +2.5 56% · +3.5 34% · Ambos marcan 59%  
+Marcadores: 1-1 12% · 2-1 9% · 1-0 8% · 2-0 8%  
+🔎 **Claves**  
+• Forma: Pisa ✅✅➖➖❌ | Sudtirol ➖❌➖❌➖  
+• H2H: 6 desde 2022: 2V-2E-2D · 3.3 goles/partido · +2.5 en 83%  
+• Bajas: Pisa: 1 fuera, 1 duda (Henrik Meister); Sudtirol: 0 fuera, 2 duda  
+• Favorito de las casas: Pisa @ 1.58  
+📐 **Estadísticas esperadas**  
+Córners 6.2 - 3.3: total +9.5 48% · Pisa +5.5 54% · Sudtirol +4.5 26%  
+Tarjetas 2.0 - 2.6: total +4.5 48% · Pisa +2.5 32% · Sudtirol +2.5 49%  
+Faltas 12.0 - 14.6: total +27.5 42% · Pisa +14.5 23% · Sudtirol +13.5 59%  
+Tiros a puerta 6.0 - 3.1: total +8.5 54% · Pisa +5.5 53% · Sudtirol +3.5 37%  
+🧩 Crear apuesta: Menos de 14.5 faltas de Pisa + Menos de 4.5 córners de Sudtirol + Menos de 2.5 tarjetas de Pisa → prob. 41%, cuota justa 2.45 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 14.5 faltas de Pisa + Menos de 4.5 córners de Sudtirol + Menos de 2.5 tarjetas de Pisa + Menos de 3.5 tiros a puerta de Sudtirol + Más de 2.5 goles → prob. 13%, cuota justa 7.52  
+🎯 Simulada (con cuota: Menos de 4.5 córners de Sudtirol + Más de 2.5 goles): cuota Unibet aprox. 2.55 (producto de piernas) · prob. 42% · ventaja +8% → 1 u en la banca de simulación  
+
+## Pisa vs Sudtirol — 07/11 · 15:00
+
+👀 candidata · 🇮🇹 Serie B · **Más de 5.5 córners de Pisa** @ **1.87** (Unibet) · prob 51% vs casas 48% · ventaja -5%
+
+- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.70 - 1.25)  
+1 55% · X 26% · 2 20%  
+1X 80% · X2 45% · 12 74%  
++1.5 80% · +2.5 56% · +3.5 34% · Ambos marcan 59%  
+Marcadores: 1-1 12% · 2-1 9% · 1-0 8% · 2-0 8%  
+🔎 **Claves**  
+• Forma: Pisa ✅✅➖➖❌ | Sudtirol ➖❌➖❌➖  
+• H2H: 6 desde 2022: 2V-2E-2D · 3.3 goles/partido · +2.5 en 83%  
+• Bajas: Pisa: 1 fuera, 1 duda (Henrik Meister); Sudtirol: 0 fuera, 2 duda  
+• Favorito de las casas: Pisa @ 1.58  
+📐 **Estadísticas esperadas**  
+Córners 6.2 - 3.3: total +9.5 48% · Pisa +5.5 54% · Sudtirol +4.5 26%  
+Tarjetas 2.0 - 2.6: total +4.5 48% · Pisa +2.5 32% · Sudtirol +2.5 49%  
+Faltas 12.0 - 14.6: total +27.5 42% · Pisa +14.5 23% · Sudtirol +13.5 59%  
+Tiros a puerta 6.0 - 3.1: total +8.5 54% · Pisa +5.5 53% · Sudtirol +3.5 37%  
+🧩 Crear apuesta: Menos de 14.5 faltas de Pisa + Menos de 4.5 córners de Sudtirol + Menos de 2.5 tarjetas de Pisa → prob. 41%, cuota justa 2.45 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 14.5 faltas de Pisa + Menos de 4.5 córners de Sudtirol + Menos de 2.5 tarjetas de Pisa + Menos de 3.5 tiros a puerta de Sudtirol + Más de 2.5 goles → prob. 13%, cuota justa 7.52  
+🎯 Simulada (con cuota: Menos de 4.5 córners de Sudtirol + Más de 2.5 goles): cuota Unibet aprox. 2.55 (producto de piernas) · prob. 42% · ventaja +8% → 1 u en la banca de simulación  
+
+## Pisa vs Sudtirol — 07/11 · 15:00
+
+👀 candidata · 🇮🇹 Serie B · **Menos de 5.5 córners de Pisa** @ **1.72** (Unibet) · prob 49% vs casas 52% · ventaja -16%
+
+- ❌ Valor: ventaja -16% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.70 - 1.25)  
+1 55% · X 26% · 2 20%  
+1X 80% · X2 45% · 12 74%  
++1.5 80% · +2.5 56% · +3.5 34% · Ambos marcan 59%  
+Marcadores: 1-1 12% · 2-1 9% · 1-0 8% · 2-0 8%  
+🔎 **Claves**  
+• Forma: Pisa ✅✅➖➖❌ | Sudtirol ➖❌➖❌➖  
+• H2H: 6 desde 2022: 2V-2E-2D · 3.3 goles/partido · +2.5 en 83%  
+• Bajas: Pisa: 1 fuera, 1 duda (Henrik Meister); Sudtirol: 0 fuera, 2 duda  
+• Favorito de las casas: Pisa @ 1.58  
+📐 **Estadísticas esperadas**  
+Córners 6.2 - 3.3: total +9.5 48% · Pisa +5.5 54% · Sudtirol +4.5 26%  
+Tarjetas 2.0 - 2.6: total +4.5 48% · Pisa +2.5 32% · Sudtirol +2.5 49%  
+Faltas 12.0 - 14.6: total +27.5 42% · Pisa +14.5 23% · Sudtirol +13.5 59%  
+Tiros a puerta 6.0 - 3.1: total +8.5 54% · Pisa +5.5 53% · Sudtirol +3.5 37%  
+🧩 Crear apuesta: Menos de 14.5 faltas de Pisa + Menos de 4.5 córners de Sudtirol + Menos de 2.5 tarjetas de Pisa → prob. 41%, cuota justa 2.45 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 14.5 faltas de Pisa + Menos de 4.5 córners de Sudtirol + Menos de 2.5 tarjetas de Pisa + Menos de 3.5 tiros a puerta de Sudtirol + Más de 2.5 goles → prob. 13%, cuota justa 7.52  
+🎯 Simulada (con cuota: Menos de 4.5 córners de Sudtirol + Más de 2.5 goles): cuota Unibet aprox. 2.55 (producto de piernas) · prob. 42% · ventaja +8% → 1 u en la banca de simulación  
 
 ## Dortmund vs Elversberg — 07/11 · 15:30
 

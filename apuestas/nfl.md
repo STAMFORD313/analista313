@@ -1,6 +1,6 @@
 # 🏈 NFL·NCAA · apuestas de valor
 
-Actualizado 06/11/2026 14:44 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 06/11/2026 15:15 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## SMU Mustangs vs Virginia Tech Hokies — 07/11 · 01:00
 
