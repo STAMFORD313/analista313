@@ -1,24 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 06/11/2026 01:23 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Cruzeiro vs Bahia — 06/11 · 01:30
-
-👀 candidata · 🇧🇷 Brasileirão · **Gana Cruzeiro** @ **1.66** (Bet365) · prob 56% vs casas 56% · ventaja -6%
-
-- ❌ Valor: ventaja -6% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.66 - 0.96)  
-1 51% · X 26% · 2 23%  
-1X 77% · X2 49% · 12 74%  
-+1.5 74% · +2.5 49% · +3.5 27% · Ambos marcan 50%  
-Marcadores: 1-1 12% · 1-0 12% · 2-0 10% · 2-1 10%  
-🔎 **Claves**  
-• Forma: Cruzeiro ✅❌✅✅✅ | Bahia ❌✅❌➖✅  
-• H2H: 19 desde 2012: 10V-6E-3D · 2.5 goles/partido · +2.5 en 58%  
-• Bajas: Cruzeiro: 1 fuera, 2 duda (Gabriel Pec); Bahia: 0 fuera, 1 duda  
-• Favorito de las casas: Cruzeiro @ 1.66  
+Actualizado 06/11/2026 01:42 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Vitoria vs Fluminense — 07/11 · 00:00
 

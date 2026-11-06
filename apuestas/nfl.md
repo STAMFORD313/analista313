@@ -1,50 +1,6 @@
 # 🏈 NFL·NCAA · apuestas de valor
 
-Actualizado 06/11/2026 01:23 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Florida Atlantic Owls vs UTSA Roadrunners — 06/11 · 01:30
-
-💵 **APOSTADA** · 🏈 NCAA Football · **Menos de 72.5 puntos** @ **1.91** (DraftKings) · prob 63% vs casas 50% · ventaja +21%
-
-- ✅ Valor: ventaja +21% (mín. 11% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 totales» sin pérdidas demostradas
-
-📊 **Escenarios**: total esperado **60.6** puntos · línea 72.5  
-Más 37% · Menos 63%  
-🔎 **Claves**  
-• Forma: Florida Atlantic Owls ✅✅❌✅❌ | UTSA Roadrunners ✅✅✅✅✅  
-• H2H: 4 desde 2019: 2-2  
-• Bajas: Florida Atlantic Owls: sin bajas; UTSA Roadrunners: sin bajas  
-
-## Florida Atlantic Owls vs UTSA Roadrunners — 06/11 · 01:30
-
-👀 candidata · 🏈 NCAA Football · **UTSA Roadrunners -7** @ **1.95** (DraftKings) · prob 55% vs casas 49% · ventaja +7%
-
-- ❌ Valor: ventaja +7% (mín. 8% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 hándicap» sin pérdidas demostradas
-
-📊 **Escenarios**: UTSA Roadrunners cubre -7 con prob. 55% (casas 49%)  
-🔎 **Claves**  
-• Forma: Florida Atlantic Owls ✅✅❌✅❌ | UTSA Roadrunners ✅✅✅✅✅  
-• H2H: 4 desde 2019: 2-2  
-• Bajas: Florida Atlantic Owls: sin bajas; UTSA Roadrunners: sin bajas  
-
-## Florida Atlantic Owls vs UTSA Roadrunners — 06/11 · 01:30
-
-👀 candidata · 🏈 NCAA Football · **Gana UTSA Roadrunners** @ **1.38** (DraftKings) · prob 77% vs casas 70% · ventaja +6%
-
-- ❌ Valor: ventaja +6% (mín. 8% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo con 9.455 partidos y bajas)  
-Gana Florida Atlantic Owls 15% · Gana UTSA Roadrunners 85%  
-Casas: Florida Atlantic Owls 30% · UTSA Roadrunners 70%  
-Hándicap UTSA -7 · Total puntos 72.5  
-🔎 **Claves**  
-• Forma: Florida Atlantic Owls ✅✅❌✅❌ | UTSA Roadrunners ✅✅✅✅✅  
-• H2H: 4 desde 2019: 2-2  
-• Bajas: Florida Atlantic Owls: sin bajas; UTSA Roadrunners: sin bajas  
-• Favorito de las casas: UTSA Roadrunners @ 1.38  
+Actualizado 06/11/2026 01:42 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Southern Miss Golden Eagles vs James Madison Dukes — 06/11 · 02:00
 
