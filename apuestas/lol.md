@@ -1,6 +1,6 @@
 # 🧙 LoL · apuestas de valor
 
-Actualizado 06/11/2026 05:16 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 06/11/2026 05:46 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Karmine Corp vs T1 — 06/11 · 23:00
 

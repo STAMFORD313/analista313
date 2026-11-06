@@ -1999,7 +1999,10 @@
   "r6|132884",
   "fc|2364780",
   "fc|2364777",
-  "fc|2364776"
+  "fc|2364776",
+  "fc|2365090",
+  "fc|2364781",
+  "fc|2365994"
  ],
  "signals": [
   {
@@ -3623,7 +3626,11 @@
     "confianza": null,
     "modelo": null
    },
-   "placed": true
+   "placed": true,
+   "result": false,
+   "score": "60-29",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "spa",
@@ -3644,7 +3651,11 @@
    "version": "7948daf",
    "bajas": "Florida Atlantic Owls: sin bajas; UTSA Roadrunners: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "60-29",
+   "close_p": 0.5092,
+   "logged": true
   },
   {
    "market": "away",
@@ -3664,7 +3675,11 @@
    "version": "7948daf",
    "bajas": "Florida Atlantic Owls: sin bajas; UTSA Roadrunners: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "60-29",
+   "close_p": 0.7133,
+   "logged": true
   },
   {
    "market": "under",
@@ -26541,7 +26556,8 @@
     "stake": 1.35,
     "odds": 1.91,
     "desc": "Florida Atlantic Owls vs UTSA Roadrunners → Menos de 72.5 puntos",
-    "status": "abierta"
+    "status": "perdida",
+    "return": 0.0
    },
    {
     "date": "2026-11-03",
@@ -26619,7 +26635,7 @@
   ]
  },
  "scoreboard_id": 156,
- "scoreboard_text": "📊 <b>MARCADOR DEL BOT</b>\n━━━━━━━━━━━━━━━\n🟩 Ganadas: <b>11</b> (39 %)\n🟥 Perdidas: <b>17</b> (61 %)\n⏳ En juego: 2\n\nÚltimas 28:\n🟥🟥🟥🟩🟥🟩🟥🟥🟥🟥🟥🟥🟥🟥🟩🟥🟥🟩🟩🟩🟩🟩🟥🟥🟥🟩🟩🟩\n━━━━━━━━━━━━━━━\n💵 Beneficio -14.75 $ · ROI -27.7 %\n📐 CLV medio +2.5 % (cuota cogida vs cierre)\n💰 Banca: <b>85.25 €</b> (-14.75 € desde 100 €) · libre 82.83 €{\"inline_keyboard\": [[{\"text\": \"\\ud83d\\udcc8 Ver historial completo y fallos\", \"url\": \"https://github.com/STAMFORD313/analista313/blob/main/ESTADISTICAS.md\"}], [{\"text\": \"\\u26bd F\\u00fatbol\", \"callback_data\": \"dep:futbol\"}, {\"text\": \"\\ud83c\\udfc0 NBA\\u00b7NCAA\", \"callback_data\": \"dep:nba\"}, {\"text\": \"\\ud83c\\udfc8 NFL\\u00b7NCAA\", \"callback_data\": \"dep:nfl\"}], [{\"text\": \"\\ud83c\\udfc6 Champions\\u00b7Europa\", \"callback_data\": \"dep:europa\"}, {\"text\": \"\\ud83c\\udfd2 NHL\", \"callback_data\": \"dep:nhl\"}, {\"text\": \"\\u26be MLB\", \"callback_data\": \"dep:mlb\"}], [{\"text\": \"\\ud83e\\udd4a UFC\", \"callback_data\": \"dep:ufc\"}, {\"text\": \"\\ud83c\\udfbe Tenis\", \"callback_data\": \"dep:tenis\"}, {\"text\": \"\\ud83c\\udfae CS2\", \"callback_data\": \"dep:cs2\"}], [{\"text\": \"\\ud83d\\udc09 Dota 2\", \"callback_data\": \"dep:dota2\"}, {\"text\": \"\\ud83e\\uddd9 LoL\", \"callback_data\": \"dep:lol\"}, {\"text\": \"\\ud83d\\udd2b R6 Siege\", \"callback_data\": \"dep:r6\"}], [{\"text\": \"\\ud83d\\udcf1 MLBB\", \"callback_data\": \"dep:mlbb\"}, {\"text\": \"\\ud83c\\udfae\\u26bd FC 27\", \"callback_data\": \"dep:fc\"}]]}",
+ "scoreboard_text": "📊 <b>MARCADOR DEL BOT</b>\n━━━━━━━━━━━━━━━\n🟩 Ganadas: <b>11</b> (38 %)\n🟥 Perdidas: <b>18</b> (62 %)\n⏳ En juego: 1\n\nÚltimas 29:\n🟥🟥🟥🟩🟥🟩🟥🟥🟥🟥🟥🟥🟥🟥🟩🟥🟥🟩🟩🟩🟩🟩🟥🟥🟥🟥🟩🟩🟩\n━━━━━━━━━━━━━━━\n💵 Beneficio -16.10 $ · ROI -29.5 %\n📐 CLV medio +2.5 % (cuota cogida vs cierre)\n💰 Banca: <b>83.90 €</b> (-16.10 € desde 100 €) · libre 82.83 €{\"inline_keyboard\": [[{\"text\": \"\\ud83d\\udcc8 Ver historial completo y fallos\", \"url\": \"https://github.com/STAMFORD313/analista313/blob/main/ESTADISTICAS.md\"}], [{\"text\": \"\\u26bd F\\u00fatbol\", \"callback_data\": \"dep:futbol\"}, {\"text\": \"\\ud83c\\udfc0 NBA\\u00b7NCAA\", \"callback_data\": \"dep:nba\"}, {\"text\": \"\\ud83c\\udfc8 NFL\\u00b7NCAA\", \"callback_data\": \"dep:nfl\"}], [{\"text\": \"\\ud83c\\udfc6 Champions\\u00b7Europa\", \"callback_data\": \"dep:europa\"}, {\"text\": \"\\ud83c\\udfd2 NHL\", \"callback_data\": \"dep:nhl\"}, {\"text\": \"\\u26be MLB\", \"callback_data\": \"dep:mlb\"}], [{\"text\": \"\\ud83e\\udd4a UFC\", \"callback_data\": \"dep:ufc\"}, {\"text\": \"\\ud83c\\udfbe Tenis\", \"callback_data\": \"dep:tenis\"}, {\"text\": \"\\ud83c\\udfae CS2\", \"callback_data\": \"dep:cs2\"}], [{\"text\": \"\\ud83d\\udc09 Dota 2\", \"callback_data\": \"dep:dota2\"}, {\"text\": \"\\ud83e\\uddd9 LoL\", \"callback_data\": \"dep:lol\"}, {\"text\": \"\\ud83d\\udd2b R6 Siege\", \"callback_data\": \"dep:r6\"}], [{\"text\": \"\\ud83d\\udcf1 MLBB\", \"callback_data\": \"dep:mlbb\"}, {\"text\": \"\\ud83c\\udfae\\u26bd FC 27\", \"callback_data\": \"dep:fc\"}]]}",
  "fc_sent": "2026-11-06T01:12:37.206839+00:00",
  "sgp": {
   "nfl|2026-11-08|Atlanta Falcons|Cincinnati Bengals": {
