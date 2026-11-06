@@ -172,6 +172,22 @@ class Model:
         self.n[a] = self.n.get(a, 0) + 1; self.n[b] = self.n.get(b, 0) + 1
 
 
+MODEL_F = DIR / "modelo.json"  # fuerzas ya ajustadas (las guarda cada run de analista): el chat no tiene que reajustar
+
+
+def save_model(m):
+    try: MODEL_F.write_text(json.dumps({"t": time.time(), "att": m.att, "dfn": m.dfn, "base": m.base, "n": m.n}))
+    except OSError as e: print("modelo FC", e)
+
+
+def load_model(max_age=6 * 3600):
+    """Modelo guardado por el último run (None si no hay o tiene más de `max_age` s)."""
+    try: d = json.loads(MODEL_F.read_text())
+    except (OSError, ValueError): return None
+    if time.time() - d.get("t", 0) > max_age: return None
+    m = Model(); m.att, m.dfn, m.base, m.n = d["att"], d["dfn"], d["base"], d["n"]; return m
+
+
 def fit(df, since=None, model=None):
     """Recorre el historial en orden; devuelve (modelo, log-loss 1X2 desde `since` con la predicción previa, nº)."""
     m, loss, cnt = model or Model(), 0.0, 0
@@ -338,6 +354,7 @@ def run(state, today, kg):
     try: backfill_predictions(state)
     except Exception as e: print("simulación FC", repr(e))
     m, *_ = fit(df[df.date >= df.date.max() - pd.Timedelta(days=120)])
+    save_model(m)
     H = h2h_table(df)
     now = pd.Timestamp.now(tz="UTC")
     cands = []

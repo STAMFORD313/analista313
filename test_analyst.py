@@ -1589,3 +1589,10 @@ _cc = [{"edge": 0.05, "q": 0.6, "odds": 1.9, "pm": 0.7, "pc": 0.55, "g": {"p1": 
 _t, _sim, _o, _p = _FCC.combo(6, cands=_cc)
 assert _sim and len(_sim) == 3 and abs(_o - 1.9 ** 3) < 1e-9 and "Goles esperados" in _t and _sim[0]["src"] == "fc" and _sim[0]["fc"]["k"] == "tot", _t
 print("ok combinada FC 27 con LeoVegas")
+
+_mf0 = esoccer.MODEL_F
+try:
+    esoccer.MODEL_F = A.DATA / "_test_modelo_fc.json"; _mm = esoccer.Model(); _mm.update("L", "a", "b", 3, 1)
+    esoccer.save_model(_mm); _m2 = esoccer.load_model(); assert _m2 and abs(_m2.lam("L", "a", "b") - _mm.lam("L", "a", "b")) < 1e-12
+finally: esoccer.MODEL_F.unlink(missing_ok=True); esoccer.MODEL_F = _mf0
+print("ok modelo FC 27 guardado para el chat")

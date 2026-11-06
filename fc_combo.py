@@ -25,8 +25,9 @@ _MODEL = {}
 def model():
     """Modelo de goles por jugador con los últimos 120 días (se rehace como mucho cada 20 min)."""
     if _MODEL.get("t", 0) > time.time() - 1200: return _MODEL["m"], _MODEL["df"]
-    df = E.update_history()
-    m, *_ = E.fit(df[df.date >= df.date.max() - pd.Timedelta(days=120)])
+    df = pd.read_csv(E.HIST); df["date"] = pd.to_datetime(df["date"], utc=True); df = df.sort_values(["date", "id"], ignore_index=True)
+    m = E.load_model()  # el de analista (cada 30 min); si no hay, se ajusta aquí (tarda minutos)
+    if m is None: m, *_ = E.fit(df[df.date >= df.date.max() - pd.Timedelta(days=120)])
     _MODEL.update(t=time.time(), m=m, df=df)
     return m, df
 
