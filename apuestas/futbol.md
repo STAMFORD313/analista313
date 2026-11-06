@@ -1,6 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 06/11/2026 01:16 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 06/11/2026 01:23 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Cruzeiro vs Bahia — 06/11 · 01:30
 

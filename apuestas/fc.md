@@ -1,6 +1,24 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 06/11/2026 01:16 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 06/11/2026 01:23 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+
+## believer vs kkikus — 06/11 · 02:15
+
+👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana believer** @ **1.21** (cuota justa (sin casa)) · prob 82% vs casas 82% · ventaja +0%
+
+- ❌ Valor: ventaja +0% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 57.644 partidos)  
+Goles esperados: believer 4.45 · kkikus 1.79  
+Ganador: believer 82% · empate 11% · kkikus 7%  
+Total: más de 6.5 goles 43% · menos 57%  
+Hándicap believer: −1.5 67% · −2.5 51%  
+🔎 **Claves**  
+• Forma: believer ✅✅✅✅✅ | kkikus ❌❌➖✅❌  
+• Partidos: believer 896 | kkikus 909  
+• Liga: Champions League B  
+• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
 
 ## believer vs ssstasonn — 06/11 · 02:39
 
@@ -54,5 +72,41 @@ Hándicap fantazer: −1.5 67% · −2.5 52%
 • Forma: fantazer ❌❌✅✅✅ | Yerema ➖✅❌✅✅  
 • Partidos: fantazer 1394 | Yerema 569  
 • Liga: Volta International A  
+• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
+
+## zaha vs k0mych — 06/11 · 03:08
+
+👀 candidata · 🎮⚽ FC 27 · LaLiga 2x6 · **Gana zaha** @ **1.24** (cuota justa (sin casa)) · prob 81% vs casas 81% · ventaja +0%
+
+- ❌ Valor: ventaja +0% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 57.644 partidos)  
+Goles esperados: zaha 6.38 · k0mych 3.45  
+Ganador: zaha 81% · empate 8% · k0mych 11%  
+Total: más de 9.5 goles 52% · menos 48%  
+Hándicap zaha: −1.5 67% · −2.5 55%  
+🔎 **Claves**  
+• Forma: zaha ✅➖➖✅✅ | k0mych ❌❌➖✅❌  
+• Partidos: zaha 328 | k0mych 320  
+• Liga: LaLiga 2x6  
+• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
+
+## kkikus vs believer — 06/11 · 03:15
+
+👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana believer** @ **1.21** (cuota justa (sin casa)) · prob 82% vs casas 82% · ventaja +0%
+
+- ❌ Valor: ventaja +0% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 57.644 partidos)  
+Goles esperados: kkikus 1.79 · believer 4.45  
+Ganador: kkikus 7% · empate 11% · believer 82%  
+Total: más de 6.5 goles 43% · menos 57%  
+Hándicap believer: −1.5 67% · −2.5 51%  
+🔎 **Claves**  
+• Forma: kkikus ❌❌➖✅❌ | believer ✅✅✅✅✅  
+• Partidos: kkikus 909 | believer 896  
+• Liga: Champions League B  
 • Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
 
