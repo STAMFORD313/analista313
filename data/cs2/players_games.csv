@@ -34572,3 +34572,7 @@ game_id,match_id,slug,date,tier,bo,tournament_id,tournament,t1_id,t2_id,team1,te
 192278,133174,damajuana-vs-red-canids-academy-05-11-2026,2026-11-05T19:15:00.000+00:00,b,3,5624,CCT South America 2026 Series 8,22881,16743,DAMAJUANA,RED Canids Academy,1,de_dust2,16743,13.0,5.0
 192280,133175,gremio-vs-underworld-05-11-2026,2026-11-05T22:10:00.000+00:00,b,3,5624,CCT South America 2026 Series 8,24856,25139,Grêmio,Underworld,2,de_cache,24856,13.0,6.0
 192281,133175,gremio-vs-underworld-05-11-2026,2026-11-05T22:10:00.000+00:00,b,3,5624,CCT South America 2026 Series 8,24856,25139,Grêmio,Underworld,1,de_mirage,24856,13.0,7.0
+192080,133052,parivision-vs-natus-vincere-06-11-2026,2026-11-06T06:30:00.000+00:00,s,3,5113,Intel Extreme Masters Beijing 2026,8171,787,PARIVISION,Natus Vincere,3,de_ancient,787,13.0,10.0
+192081,133052,parivision-vs-natus-vincere-06-11-2026,2026-11-06T06:30:00.000+00:00,s,3,5113,Intel Extreme Masters Beijing 2026,8171,787,PARIVISION,Natus Vincere,2,de_inferno,787,13.0,9.0
+192082,133052,parivision-vs-natus-vincere-06-11-2026,2026-11-06T06:30:00.000+00:00,s,3,5113,Intel Extreme Masters Beijing 2026,8171,787,PARIVISION,Natus Vincere,1,de_mirage,8171,16.0,14.0
+192416,133220,g2-ares-vs-the-last-resort-06-11-2026,2026-11-06T09:00:00.000+00:00,b,3,5628,CCT Europe 2026 Series 13,10994,2740,G2 Ares,The Last Resort,1,de_cache,10994,13.0,2.0
