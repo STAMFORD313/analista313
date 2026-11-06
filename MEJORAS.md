@@ -205,3 +205,4 @@
 - 2026-11-05: barridos sin piernas repetidas: los partidos ya usados en barridos pendientes se excluyen (HULIGANI estaba en 3 combinadas a la vez, BRUTE SQ y B.LINE en 2 → una pierna fallada tumbaba varias).
 - 2026-11-05: simuladas: el partido se busca por nombre parecido (Pinnacle «Bournemouth» = ESPN «AFC Bournemouth») y también en la Conference League; las piernas de fútbol de los barridos no se liquidaban.
 - 2026-11-05: liquidación de barridos verificada (Sparta 1-3 Bournemouth, Midtjylland 1-6 Ajax: ganadas, CLV −6.1 %/+4.1 %). Exclusión de partidos repetidos arreglada para esports/NBA/NHL (se comparaba el texto con emoji en vez de los equipos).
+- 2026-11-06: analista en rojo desde 22:52: el test del bankroll dependía de los segmentos reales bloqueados (estrategias bloqueó «cuota > 2.5 y ventaja > 15 %»: −42 % ± 17 % en 71, FC 27 incluido) → test aislado.

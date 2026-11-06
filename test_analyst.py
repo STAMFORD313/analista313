@@ -39,7 +39,9 @@ class KG:
     def bet(self, *a): pass
     def result(self, *a): pass
 bankroll.A.GEMINI = None  # sin IA en el test
+_ef0 = bankroll.estrategias.factor; bankroll.estrategias.factor = lambda s: 1.0  # sin los segmentos bloqueados reales (cambian cada día)
 bankroll.place(bk, st["signals"], pd.Timestamp("2026-11-01"), KG())
+bankroll.estrategias.factor = _ef0
 assert len(bk["bets"]) == 3 and all(b["stake"] <= 5 for b in bk["bets"]) and bk["balance"] < 100
 st["signals"][0]["result"], st["signals"][1]["result"] = True, False
 bankroll.settle(bk, st["signals"], KG())
