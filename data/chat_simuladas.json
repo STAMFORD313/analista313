@@ -825,5 +825,47 @@
   "estado": "pendiente",
   "avisada": false,
   "rev": 1
+ },
+ {
+  "id": "20261106093324596760",
+  "creada": "2026-11-06 09:33:24.596803+00:00",
+  "titulo": "Barrido · Combinada cuota 9.2",
+  "legs": [
+   {
+    "code": null,
+    "start": "2026-11-06 13:45:00+00:00",
+    "home": "Al-Talaba",
+    "away": "Gaz Al Shamal",
+    "txt": "Gana Al-Talaba",
+    "odds": 2.12,
+    "p": 0.4894
+   },
+   {
+    "code": null,
+    "start": "2026-11-06 18:30:00+00:00",
+    "home": "Chateauroux",
+    "away": "Nimes",
+    "txt": "Gana Nimes",
+    "odds": 2.45,
+    "p": 0.4239
+   },
+   {
+    "src": "esports:dota2",
+    "side": "A",
+    "code": null,
+    "start": "2026-11-07 19:00:00+00:00",
+    "home": "PlayTime",
+    "away": "LEGION",
+    "txt": "Gana LEGION",
+    "odds": 1.78,
+    "p": 0.5821318352059925
+   }
+  ],
+  "odds": 9.25,
+  "p": 0.12076712621150562,
+  "stake": 1.0,
+  "estado": "pendiente",
+  "avisada": false,
+  "rev": 1
  }
 ]
