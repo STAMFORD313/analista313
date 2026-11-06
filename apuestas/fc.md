@@ -1,6 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 06/11/2026 01:42 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 06/11/2026 02:12 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## believer vs kkikus — 06/11 · 02:15
 
@@ -19,6 +19,25 @@ Hándicap believer: −1.5 67% · −2.5 51%
 • Partidos: believer 896 | kkikus 909  
 • Liga: Champions League B  
 • Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
+
+## kkikus vs Simaponika — 06/11 · 02:27
+
+👀 candidata · 🎮⚽ FC 27 · Champions League B · **Empate** @ **5.50** (Unibet) · prob 20% vs casas 16% · ventaja +10%
+
+- ❌ Valor: ventaja +10% (mín. 11% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 57.680 partidos)  
+Goles esperados: kkikus 2.19 · Simaponika 3.25  
+Ganador: kkikus 21% · empate 20% · Simaponika 59%  
+Total: más de 5.5 goles 46% · menos 54%  
+Hándicap Simaponika: −1.5 42% · −2.5 26%  
+🔎 **Claves**  
+• Forma: kkikus ✅❌❌❌❌ | Simaponika ❌✅✅✅✅  
+• Partidos: kkikus 912 | Simaponika 1072  
+• Liga: Champions League B  
+• Unibet: 1 4.00 · X 5.50 · 2 1.38 (sin margen 22%/16%/63%) · ventaja +10%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 5.50 (+10%) · Paf España 5.50 (+10%)  
 
 ## believer vs ssstasonn — 06/11 · 02:39
 

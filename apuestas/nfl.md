@@ -1,50 +1,6 @@
 # 🏈 NFL·NCAA · apuestas de valor
 
-Actualizado 06/11/2026 01:42 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Southern Miss Golden Eagles vs James Madison Dukes — 06/11 · 02:00
-
-👀 candidata · 🏈 NCAA Football · **Menos de 58.5 puntos** @ **1.87** (DraftKings) · prob 52% vs casas 51% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 totales» sin pérdidas demostradas
-
-📊 **Escenarios**: total esperado **57.7** puntos · línea 58.5  
-Más 48% · Menos 52%  
-🔎 **Claves**  
-• Forma: Southern Miss Golden Eagles ❌❌❌✅✅ | James Madison Dukes ✅✅✅❌❌  
-• H2H: 1 desde 2024: 0-1  
-• Bajas: Southern Miss Golden Eagles: sin bajas; James Madison Dukes: sin bajas  
-
-## Southern Miss Golden Eagles vs James Madison Dukes — 06/11 · 02:00
-
-👀 candidata · 🏈 NCAA Football · **James Madison Dukes -14.5** @ **1.89** (DraftKings) · prob 52% vs casas 50% · ventaja -1%
-
-- ❌ Valor: ventaja -1% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 hándicap» sin pérdidas demostradas
-
-📊 **Escenarios**: James Madison Dukes cubre -14.5 con prob. 52% (casas 50%)  
-🔎 **Claves**  
-• Forma: Southern Miss Golden Eagles ❌❌❌✅✅ | James Madison Dukes ✅✅✅❌❌  
-• H2H: 1 desde 2024: 0-1  
-• Bajas: Southern Miss Golden Eagles: sin bajas; James Madison Dukes: sin bajas  
-
-## Southern Miss Golden Eagles vs James Madison Dukes — 06/11 · 02:00
-
-👀 candidata · 🏈 NCAA Football · **Gana James Madison Dukes** @ **1.15** (DraftKings) · prob 87% vs casas 83% · ventaja +0%
-
-- ❌ Valor: ventaja +0% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo con 9.455 partidos y bajas)  
-Gana Southern Miss Golden Eagles 9% · Gana James Madison Dukes 91%  
-Casas: Southern Miss Golden Eagles 17% · James Madison Dukes 83%  
-Hándicap JMU -14.5 · Total puntos 58.5  
-🔎 **Claves**  
-• Forma: Southern Miss Golden Eagles ❌❌❌✅✅ | James Madison Dukes ✅✅✅❌❌  
-• H2H: 1 desde 2024: 0-1  
-• Bajas: Southern Miss Golden Eagles: sin bajas; James Madison Dukes: sin bajas  
-• Favorito de las casas: James Madison Dukes @ 1.15  
+Actualizado 06/11/2026 02:12 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Baltimore Ravens vs Jacksonville Jaguars — 06/11 · 02:15
 
