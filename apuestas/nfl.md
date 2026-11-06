@@ -1,50 +1,6 @@
 # 🏈 NFL·NCAA · apuestas de valor
 
-Actualizado 06/11/2026 02:12 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Baltimore Ravens vs Jacksonville Jaguars — 06/11 · 02:15
-
-👀 candidata · 🏈 NFL · **Más de 42.5 puntos** @ **1.95** (DraftKings) · prob 51% vs casas 49% · ventaja -0%
-
-- ❌ Valor: ventaja -0% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 totales» sin pérdidas demostradas
-
-📊 **Escenarios**: total esperado **43.7** puntos · línea 42.5  
-Más 51% · Menos 49%  
-🔎 **Claves**  
-• Forma: Baltimore Ravens ✅✅❌❌❌ | Jacksonville Jaguars ✅✅✅❌✅  
-• H2H: 5 desde 2017: 3-2  
-• Bajas: Baltimore Ravens: 3 fuera, 22 duda (Jaylinn Hawkins, Olaivavega Ioane, Lamar Jackson); Jacksonville Jaguars: 3 fuera, 22 duda (Eric Murray, DaVon Hamilton, Antonio Johnson)  
-
-## Baltimore Ravens vs Jacksonville Jaguars — 06/11 · 02:15
-
-💵 **APOSTADA** · 🏈 NFL · **Baltimore Ravens +8.5** @ **2.00** (DraftKings) · prob 61% vs casas 48% · ventaja +21%
-
-- ✅ Valor: ventaja +21% (mín. 11% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 hándicap» sin pérdidas demostradas
-
-📊 **Escenarios**: Baltimore Ravens cubre +8.5 con prob. 61% (casas 48%)  
-🔎 **Claves**  
-• Forma: Baltimore Ravens ✅✅❌❌❌ | Jacksonville Jaguars ✅✅✅❌✅  
-• H2H: 5 desde 2017: 3-2  
-• Bajas: Baltimore Ravens: 3 fuera, 22 duda (Jaylinn Hawkins, Olaivavega Ioane, Lamar Jackson); Jacksonville Jaguars: 3 fuera, 22 duda (Eric Murray, DaVon Hamilton, Antonio Johnson)  
-
-## Baltimore Ravens vs Jacksonville Jaguars — 06/11 · 02:15
-
-👀 candidata · 🏈 NFL · **Gana Baltimore Ravens** @ **4.60** (DraftKings) · prob 35% vs casas 21% · ventaja +61%
-
-- ❌ Valor: ventaja +61% (mín. 21% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo con 3.259 partidos y bajas)  
-Gana Baltimore Ravens 49% · Gana Jacksonville Jaguars 51%  
-Casas: Baltimore Ravens 21% · Jacksonville Jaguars 79%  
-Hándicap JAX -8.5 · Total puntos 42.5  
-🔎 **Claves**  
-• Forma: Baltimore Ravens ✅✅❌❌❌ | Jacksonville Jaguars ✅✅✅❌✅  
-• H2H: 5 desde 2017: 3-2  
-• Bajas: Baltimore Ravens: 3 fuera, 22 duda (Jaylinn Hawkins, Olaivavega Ioane, Lamar Jackson); Jacksonville Jaguars: 3 fuera, 22 duda (Eric Murray, DaVon Hamilton, Antonio Johnson)  
-• Favorito de las casas: Jacksonville Jaguars @ 1.21  
+Actualizado 06/11/2026 02:19 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## SMU Mustangs vs Virginia Tech Hokies — 07/11 · 01:00
 
