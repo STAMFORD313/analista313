@@ -1155,7 +1155,9 @@
      "who": "a",
      "line": 1.5,
      "s": "O"
-    }
+    },
+    "ok": true,
+    "por": "Uncle marcó 3 (2-3)"
    },
    {
     "src": "fc",
@@ -1171,14 +1173,16 @@
      "who": null,
      "line": 1.5,
      "s": "h"
-    }
+    },
+    "ok": true,
+    "por": "acabó 4-3"
    }
   ],
   "odds": 1.78,
   "p": 0.5087854716241953,
   "stake": 1.0,
-  "estado": "pendiente",
-  "avisada": false,
-  "rev": 1
+  "estado": "ganada",
+  "avisada": true,
+  "rev": 2
  }
 ]
