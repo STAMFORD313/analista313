@@ -14,6 +14,20 @@ jobs:
         with: {python-version: "3.12"}
       - run: pip install -r requirements.txt
       - run: |
+          python - <<'PY'
+          import requests, collections, kambi as K, analyst as A
+          ev = K.esoccer_events("leoes"); print("eventos", len(ev))
+          C = collections.Counter()
+          for e in ev[:4]:
+              r = requests.get(f"https://eu-offering-api.kambicdn.com/offering/v2018/leoes/betoffer/event/{e['id']}.json", params=K.Q, headers=A.UA, timeout=30).json()
+              print("==", e["p1"], e["p2"], e["liga"][-30:])
+              for b in r.get("betOffers", []):
+                  lab = b["criterion"].get("englishLabel"); C[lab] += 1
+                  outs = [(o.get("englishLabel") or o.get("label"), o.get("participant"), o.get("line"), o.get("odds")) for o in b.get("outcomes", [])][:4]
+                  print("  ", lab, "|", b.get("betOfferType", {}).get("englishName"), "|", outs)
+          print(C.most_common(30))
+          PY
+      - run: |
           python -c "
           import simulaciones as S, pandas as pd
           now = pd.Timestamp.now(tz='UTC')
