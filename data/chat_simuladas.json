@@ -726,15 +726,17 @@
     "away": "Banger Gang",
     "txt": "Gana Banger Gang",
     "odds": 2.2,
-    "p": 0.472230303030303
+    "p": 0.472230303030303,
+    "ok": false,
+    "por": "ganó B8 Academy 1-0"
    }
   ],
   "odds": 8.27,
   "p": 0.13407842685684068,
   "stake": 1.0,
-  "estado": "pendiente",
-  "avisada": false,
-  "rev": 1
+  "estado": "perdida",
+  "avisada": true,
+  "rev": 2
  },
  {
   "id": "20261106052132355287",
@@ -763,7 +765,10 @@
     "away": "Thousand",
     "txt": "Gana Thousand",
     "odds": 2.0,
-    "p": 0.52591
+    "p": 0.52591,
+    "ok": false,
+    "por": "ganó SINNERS Legacy 2-1",
+    "clv": 0.009
    },
    {
     "code": null,
@@ -778,9 +783,9 @@
   "odds": 6.81,
   "p": 0.16554327304205183,
   "stake": 1.0,
-  "estado": "pendiente",
-  "avisada": false,
-  "rev": 1
+  "estado": "perdida",
+  "avisada": true,
+  "rev": 2
  },
  {
   "id": "20261106085847752400",
