@@ -117,13 +117,47 @@ def recent(df, nick, n=10):
 
 def coherent(mk, s, r1, r2):
     """¿La pierna cuadra con lo que hace cada jugador últimamente? (r1/r2 = recent() del local/visitante de Kambi).
-    Nada de «menos de 2.5 goles» de quien marca 4 de media ni «más de 6.5» en partidos de 4 goles."""
+    «Menos» solo con margen claro (≥ 1 gol por debajo de la línea) y nunca en goles de un jugador goleador (≥ 3 de media)
+    ni si él mismo marca cerca de la línea; «más» con al menos medio gol de margen."""
     if not (r1 and r2): return False
     e1, e2 = (r1["gf"] + r2["ga"]) / 2, (r2["gf"] + r1["ga"]) / 2  # goles que suele haber de cada uno en este cruce
-    if mk["k"] == "tot": t = e1 + e2; return t > mk["line"] + 0.3 if s == "O" else t < mk["line"] - 0.3
-    if mk["k"] == "ptot": v = e1 if mk["who"] == "h" else e2; return v > mk["line"] + 0.3 if s == "O" else v < mk["line"] - 0.3
+    if mk["k"] == "tot": t = e1 + e2; return t >= mk["line"] + 0.5 if s == "O" else t <= mk["line"] - 1.0
+    if mk["k"] == "ptot":
+        v, own = (e1, r1["gf"]) if mk["who"] == "h" else (e2, r2["gf"])
+        if s == "O": return v >= mk["line"] + 0.5 and own >= mk["line"]
+        return own < 3 and v <= mk["line"] - 1.0 and own <= mk["line"] - 1.0
     if mk["k"] == "btts": return min(e1, e2) > 1.2 if s == "Y" else min(e1, e2) < 0.8
     d = e1 - e2 + mk["line"]; return d > 0.5 if s == "h" else d < -0.5  # hándicap
+
+
+def lessons(min_n=15, gap=0.10):
+    """Aprender de los errores: tipos de pierna (mercado y lado) de las combinadas de FC 27 ya liquidadas que aciertan
+    claramente menos de lo que el bot esperaba → se dejan de usar. {(k, s): (n, aciertos, prob. media)} de los vetados."""
+    import json
+    f = A.DATA / "chat_simuladas.json"
+    try: bets = json.loads(f.read_text(encoding="utf-8"))
+    except (OSError, ValueError): return {}
+    st = {}
+    for b in bets:
+        for l in b.get("legs", []):
+            fc = l.get("fc")
+            if not fc or l.get("ok") not in (True, False) or l.get("p") is None: continue
+            x = st.setdefault((fc["k"], fc["s"]), [0, 0, 0.0]); x[0] += 1; x[1] += l["ok"] is True; x[2] += l["p"]
+    try:  # además, todas las cuotas vistas en LeoVegas (data/fc/odds_leo.csv) cuyo partido ya se ha jugado
+        o = pd.read_csv(LOG)
+        if "kh" in o:
+            h = pd.read_csv(E.HIST)[["id", "s1", "s2"]].dropna()
+            o = o.merge(h, on="id")
+            o["q"] = W * o.p_modelo + (1 - W) * o.p_casa
+            for r in o[o.q >= 0.5].itertuples():
+                same = str(r.kh) == str(r.p1).lower()
+                hs, as_ = (r.s1, r.s2) if same else (r.s2, r.s1)  # en el orden de Kambi, como el registro
+                line = None if pd.isna(r.line) else r.line
+                ok, _ = judge({"home": "", "away": "", "fc": {"k": r.k, "who": None if pd.isna(r.who) else r.who, "line": line, "s": r.s}}, hs, as_)
+                if ok is None: continue
+                x = st.setdefault((r.k, r.s), [0, 0, 0.0]); x[0] += 1; x[1] += bool(ok); x[2] += r.q
+    except (OSError, ValueError, KeyError) as e: print("lecciones FC", repr(e)[:80])
+    return {k: (n, h, q / n) for k, (n, h, q) in st.items() if n >= min_n and h / n < q / n - gap}
 
 
 def candidates(hours=3):
@@ -147,16 +181,18 @@ def candidates(hours=3):
         l1, l2 = (la, lh) if swap else (lh, la)  # en el orden de Kambi
         _, _, diff = E.markets(l1, l2)
         best = None
+        banned = lessons()
         r1, r2 = recent(df, g["p2"] if swap else g["p1"]), recent(df, g["p1"] if swap else g["p2"])  # orden de Kambi
         for mk in mks:
             inv = {s: 1 / o for s, o in mk["odds"].items()}; t = sum(inv.values())
             for s, o in mk["odds"].items():
                 pm, pc = model_p(mk, s, l1, l2, diff), inv[s] / t
                 q = W * pm + (1 - W) * pc
-                log.append({"seen": now.isoformat(), "id": g["id"], "start": g["date"], "p1": g["p1"], "p2": g["p2"], "liga": g["league"],
+                log.append({"seen": now.isoformat(), "id": g["id"], "start": g["date"], "p1": g["p1"], "p2": g["p2"], "liga": g["league"], "kh": hn,
                             "k": mk["k"], "who": mk["who"], "line": mk["line"], "s": s, "odds": o, "p_modelo": round(pm, 4), "p_casa": round(pc, 4)})
                 if not (P_MIN <= q <= P_MAX): continue
-                if not (pm >= 0.5 and pc >= 0.45 and coherent(mk, s, r1, r2)): continue  # con lógica: modelo, casa y medias de acuerdo
+                if not (pm >= 0.5 and pc >= 0.45 and coherent(mk, s, r1, r2)): continue
+                if (mk["k"], s) in banned: continue  # este tipo de pierna ya ha fallado más de lo esperado  # con lógica: modelo, casa y medias de acuerdo
                 c = (q * o - 1, q, o, mk, s, pm, pc)
                 if best is None or c[0] > best[0]: best = c
         if not best: continue

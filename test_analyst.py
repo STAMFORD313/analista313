@@ -1601,5 +1601,16 @@ _rA, _rB = {"gf": 4.0, "ga": 2.0, "n": 10}, {"gf": 2.0, "ga": 3.5, "n": 10}
 assert not _FCC.coherent({"k": "ptot", "who": "h", "line": 2.5}, "U", _rA, _rB)  # nada de «menos de 2.5» de quien marca 4
 assert _FCC.coherent({"k": "ptot", "who": "h", "line": 2.5}, "O", _rA, _rB)
 assert _FCC.coherent({"k": "tot", "line": 4.5}, "O", _rA, _rB) and not _FCC.coherent({"k": "tot", "line": 4.5}, "U", _rA, _rB)
+assert not _FCC.coherent({"k": "ptot", "who": "h", "line": 4.5}, "U", {"gf": 3.9, "ga": 3.4, "n": 10}, {"gf": 4.0, "ga": 4.0, "n": 10})  # goleador: nunca «menos»
+assert _FCC.coherent({"k": "ptot", "who": "h", "line": 3.5}, "U", {"gf": 1.2, "ga": 2.0, "n": 10}, {"gf": 2.0, "ga": 1.5, "n": 10})
 assert not _FCC.coherent({"k": "tot", "line": 5.5}, "O", None, _rB)
 print("ok combinada FC 27 con lógica")
+
+_fs0 = A.DATA / "chat_simuladas.json"; _bk = _fs0.read_text() if _fs0.exists() else None
+try:
+    _fs0.write_text(json.dumps([{"legs": [{"fc": {"k": "ptot", "s": "U"}, "ok": i < 3, "p": 0.6} for i in range(16)]}]))
+    assert ("ptot", "U") in _FCC.lessons()  # 3 de 16 con 60 % esperado: vetada
+finally:
+    if _bk is None: _fs0.unlink(missing_ok=True)
+    else: _fs0.write_text(_bk)
+print("ok FC 27 aprende de sus fallos")
