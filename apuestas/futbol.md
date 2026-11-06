@@ -1,6 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 06/11/2026 03:46 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 06/11/2026 04:14 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Vitoria vs Fluminense — 07/11 · 00:00
 
