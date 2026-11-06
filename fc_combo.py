@@ -107,6 +107,25 @@ def judge(leg, hs, as_):
     return None, "pierna no reconocida"
 
 
+def recent(df, nick, n=10):
+    """Media de goles a favor, en contra y totales del jugador en sus últimos `n` partidos (None si no hay)."""
+    d = df[(df.p1 == nick) | (df.p2 == nick)].tail(n)
+    if len(d) < 3: return None
+    gf = [r.s1 if r.p1 == nick else r.s2 for r in d.itertuples()]; ga = [r.s2 if r.p1 == nick else r.s1 for r in d.itertuples()]
+    return {"gf": sum(gf) / len(gf), "ga": sum(ga) / len(ga), "n": len(d)}
+
+
+def coherent(mk, s, r1, r2):
+    """¿La pierna cuadra con lo que hace cada jugador últimamente? (r1/r2 = recent() del local/visitante de Kambi).
+    Nada de «menos de 2.5 goles» de quien marca 4 de media ni «más de 6.5» en partidos de 4 goles."""
+    if not (r1 and r2): return False
+    e1, e2 = (r1["gf"] + r2["ga"]) / 2, (r2["gf"] + r1["ga"]) / 2  # goles que suele haber de cada uno en este cruce
+    if mk["k"] == "tot": t = e1 + e2; return t > mk["line"] + 0.3 if s == "O" else t < mk["line"] - 0.3
+    if mk["k"] == "ptot": v = e1 if mk["who"] == "h" else e2; return v > mk["line"] + 0.3 if s == "O" else v < mk["line"] - 0.3
+    if mk["k"] == "btts": return min(e1, e2) > 1.2 if s == "Y" else min(e1, e2) < 0.8
+    d = e1 - e2 + mk["line"]; return d > 0.5 if s == "h" else d < -0.5  # hándicap
+
+
 def candidates(hours=3):
     """(piernas candidatas, nº de partidos con cuotas). Cada candidata: dict con lo necesario para mostrar y simular."""
     t0 = time.time()
@@ -128,6 +147,7 @@ def candidates(hours=3):
         l1, l2 = (la, lh) if swap else (lh, la)  # en el orden de Kambi
         _, _, diff = E.markets(l1, l2)
         best = None
+        r1, r2 = recent(df, g["p2"] if swap else g["p1"]), recent(df, g["p1"] if swap else g["p2"])  # orden de Kambi
         for mk in mks:
             inv = {s: 1 / o for s, o in mk["odds"].items()}; t = sum(inv.values())
             for s, o in mk["odds"].items():
@@ -136,6 +156,7 @@ def candidates(hours=3):
                 log.append({"seen": now.isoformat(), "id": g["id"], "start": g["date"], "p1": g["p1"], "p2": g["p2"], "liga": g["league"],
                             "k": mk["k"], "who": mk["who"], "line": mk["line"], "s": s, "odds": o, "p_modelo": round(pm, 4), "p_casa": round(pc, 4)})
                 if not (P_MIN <= q <= P_MAX): continue
+                if not (pm >= 0.5 and pc >= 0.45 and coherent(mk, s, r1, r2)): continue  # con lógica: modelo, casa y medias de acuerdo
                 c = (q * o - 1, q, o, mk, s, pm, pc)
                 if best is None or c[0] > best[0]: best = c
         if not best: continue
@@ -147,7 +168,7 @@ def candidates(hours=3):
         lp1, lp2 = lh, la
         cands.append({"edge": edge, "q": q, "odds": o, "pm": pm, "pc": pc, "g": g, "l1": lp1, "l2": lp2,
                       "txt": leg_text(mk2, s2, g["p1"], g["p2"]), "fc": {"k": mk2["k"], "who": mk2["who"], "line": mk2["line"], "s": s2},
-                      "form": (E.form(df, g["p1"]), E.form(df, g["p2"]))})
+                      "form": (E.form(df, g["p1"]), E.form(df, g["p2"])), "rec": (r2, r1) if swap else (r1, r2)})
     if log:
         try:
             old = pd.read_csv(LOG) if LOG.exists() else pd.DataFrame()
@@ -179,6 +200,8 @@ def combo(target=10.0, hours=3, cands=None):
         g = c["g"]; t = pd.Timestamp(g["date"]).tz_convert(TZ)
         out.append(f"<b>{A.esc(g['p1'])} – {A.esc(g['p2'])}</b> · {t:%H:%M} · {A.esc(g['league'])}\n"
                    f"  📊 Goles esperados: {A.esc(g['p1'])} {c['l1']:.1f} · {A.esc(g['p2'])} {c['l2']:.1f} · forma {c['form'][0]} | {c['form'][1]}\n"
+                   + "".join(f"  ⚽ {A.esc(nm)}: marca {r['gf']:.1f} y recibe {r['ga']:.1f} de media (últimos {r['n']})\n"
+                             for nm, r in zip((g["p1"], g["p2"]), c.get("rec") or (None, None)) if r) +
                    f"  • {A.esc(c['txt'])} @ {c['odds']:.2f} (bot {c['q']:.0%}: modelo {c['pm']:.0%}, casa {c['pc']:.0%}; ventaja {c['edge']:+.0%})")
     out.append(f"{len(legs)} piernas · cuota <b>{odds:.1f}</b>: 1 € → {odds:.0f} € · acierta el <b>{p:.1%}</b> de las veces.")
     if odds < target: out.append(f"⚠️ Con estos partidos llego a cuota {odds:.1f}.")

@@ -1596,3 +1596,10 @@ try:
     esoccer.save_model(_mm); _m2 = esoccer.load_model(); assert _m2 and abs(_m2.lam("L", "a", "b") - _mm.lam("L", "a", "b")) < 1e-12
 finally: esoccer.MODEL_F.unlink(missing_ok=True); esoccer.MODEL_F = _mf0
 print("ok modelo FC 27 guardado para el chat")
+
+_rA, _rB = {"gf": 4.0, "ga": 2.0, "n": 10}, {"gf": 2.0, "ga": 3.5, "n": 10}
+assert not _FCC.coherent({"k": "ptot", "who": "h", "line": 2.5}, "U", _rA, _rB)  # nada de «menos de 2.5» de quien marca 4
+assert _FCC.coherent({"k": "ptot", "who": "h", "line": 2.5}, "O", _rA, _rB)
+assert _FCC.coherent({"k": "tot", "line": 4.5}, "O", _rA, _rB) and not _FCC.coherent({"k": "tot", "line": 4.5}, "U", _rA, _rB)
+assert not _FCC.coherent({"k": "tot", "line": 5.5}, "O", None, _rB)
+print("ok combinada FC 27 con lógica")
