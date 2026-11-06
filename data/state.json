@@ -2038,7 +2038,10 @@
   "fc|2366188",
   "fc|2365203",
   "fc|2366021",
-  "fc|2365465"
+  "fc|2365465",
+  "fc|2365204",
+  "fc|2366192",
+  "fc|2365205"
  ],
  "signals": [
   {
@@ -4442,29 +4445,6 @@
   },
   {
    "market": "H",
-   "pick": "Loka",
-   "odds": 1.37,
-   "book": "cuota justa (sin casa)",
-   "p": 0.732,
-   "implied": 0.732,
-   "edge": 0.0,
-   "key": "fc|2360043",
-   "match": "Loka vs saportj",
-   "start": "2026-11-03T09:12:00+00:00",
-   "league": "🎮⚽ FC 27 · EFL Championship",
-   "sport": "🎮⚽",
-   "context": "EA FC Esoccer Battle Loka vs saportj (EFL Championship): goles esperados 4.36-2.27, 1X2 73%/12%/15%. Sin cuotas de casa.",
-   "captured": "2026-11-03T08:13",
-   "version": "e14503f",
-   "bajas": "",
-   "considered": true,
-   "placed": false,
-   "score": "3-4",
-   "result": false,
-   "logged": true
-  },
-  {
-   "market": "H",
    "pick": "Kril",
    "odds": 1.31,
    "book": "cuota justa (sin casa)",
@@ -4553,29 +4533,6 @@
    "placed": false,
    "score": "4-2",
    "result": true,
-   "logged": true
-  },
-  {
-   "market": "H",
-   "pick": "Kril",
-   "odds": 1.4,
-   "book": "cuota justa (sin casa)",
-   "p": 0.714,
-   "implied": 0.714,
-   "edge": 0.0,
-   "key": "fc|2359961",
-   "match": "Kril vs Haiko",
-   "start": "2026-11-03T09:15:00+00:00",
-   "league": "🎮⚽ FC 27 · Volta World Cup B",
-   "sport": "🎮⚽",
-   "context": "EA FC Esoccer Battle Kril vs Haiko (Volta World Cup B): goles esperados 4.68-2.65, 1X2 71%/11%/17%. Sin cuotas de casa.",
-   "captured": "2026-11-03T08:46",
-   "version": "dc693b4",
-   "bajas": "",
-   "considered": true,
-   "placed": false,
-   "score": "3-3",
-   "result": false,
    "logged": true
   },
   {
@@ -26223,6 +26180,41 @@
    "version": "8d00661",
    "bajas": "",
    "considered": true
+  },
+  {
+   "market": "A",
+   "pick": "Artrom",
+   "odds": 7.0,
+   "book": "Unibet",
+   "implied": 0.124,
+   "edge": 0.066,
+   "sin_stake": true,
+   "p": 0.152,
+   "key": "fc|2365204",
+   "match": "DaVa vs Artrom",
+   "start": "2026-11-06T09:22:00+00:00",
+   "league": "🎮⚽ FC 27 · Champions League AFC",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 58.062 partidos)",
+    "Goles esperados: DaVa 2.48 · Artrom 1.40",
+    "Ganador: DaVa 63% · empate 22% · Artrom 15%",
+    "Total: más de 3.5 goles 54% · menos 46%",
+    "Hándicap DaVa: −1.5 40% · −2.5 22%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: DaVa ✅✅➖➖✅ | Artrom ➖❌➖✅✅",
+    "• Partidos: DaVa 1168 | Artrom 564",
+    "• Liga: Champions League AFC",
+    "• Unibet: 1 1.33 · X 3.85 · 2 7.00 (sin margen 65%/22%/12%) · ventaja +7%. Sin stake hasta demostrar ROI con estas cuotas.",
+    "• En España: LeoVegas España 7.00 (+7%) · Paf España 7.00 (+7%)"
+   ],
+   "context": "EA FC Esoccer Battle DaVa vs Artrom (Champions League AFC): goles esperados 2.48-1.40, 1X2 63%/22%/15%. Sin cuotas de casa.",
+   "captured": "2026-11-06T09:21",
+   "version": "2128acc",
+   "bajas": "",
+   "considered": true,
+   "placed": false
   }
  ],
  "bank": {
