@@ -58598,3 +58598,43 @@ id,tournament_id,club1,club2,ht1,ht2
 2365559,261133,Argentina,Brazil,,
 2365560,261133,Colombia,Argentina,,
 2365561,261133,Ecuador,Uruguay,,
+2365632,261126,Bayern Munchen,Frankfurt,0,4
+2365633,261126,B Dortmund,Leipzig,0,0
+2365634,261126,Leipzig,Bayern Munchen,2,0
+2365635,261126,Frankfurt,Stuttgart,0,2
+2365636,261126,Stuttgart,Leipzig,1,2
+2365637,261126,Bayern Munchen,B Dortmund,2,2
+2365638,261126,B Dortmund,Stuttgart,,
+2365639,261126,Leipzig,Frankfurt,,
+2365640,261126,Frankfurt,B Dortmund,,
+2365641,261126,Stuttgart,Bayern Munchen,,
+2365642,261126,Frankfurt,Bayern Munchen,,
+2365643,261126,Leipzig,B Dortmund,,
+2365644,261126,Bayern Munchen,Leipzig,,
+2365645,261126,Stuttgart,Frankfurt,,
+2365646,261126,Leipzig,Stuttgart,,
+2365647,261126,B Dortmund,Bayern Munchen,,
+2365648,261126,Stuttgart,B Dortmund,,
+2365649,261126,Frankfurt,Leipzig,,
+2365650,261126,B Dortmund,Frankfurt,,
+2365651,261126,Bayern Munchen,Stuttgart,,
+2366274,261156,Salzburg,Fenerbahce,2,1
+2366275,261156,Porto,Aston Villa,1,1
+2366276,261156,Aston Villa,Salzburg,0,2
+2366277,261156,Fenerbahce,Roma,0,2
+2366278,261156,Roma,Aston Villa,1,0
+2366279,261156,Salzburg,Porto,2,3
+2366280,261156,Porto,Roma,,
+2366281,261156,Aston Villa,Fenerbahce,,
+2366282,261156,Fenerbahce,Porto,,
+2366283,261156,Roma,Salzburg,,
+2366284,261156,Fenerbahce,Salzburg,,
+2366285,261156,Aston Villa,Porto,,
+2366286,261156,Salzburg,Aston Villa,,
+2366287,261156,Roma,Fenerbahce,,
+2366288,261156,Aston Villa,Roma,,
+2366289,261156,Porto,Salzburg,,
+2366290,261156,Roma,Porto,,
+2366291,261156,Fenerbahce,Aston Villa,,
+2366292,261156,Porto,Fenerbahce,,
+2366293,261156,Salzburg,Roma,,

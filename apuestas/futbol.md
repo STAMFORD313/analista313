@@ -1,6 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 06/11/2026 20:08 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 06/11/2026 20:27 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Wisla vs Cracovia — 06/11 · 20:30
 
@@ -10749,6 +10749,306 @@ Tiros a puerta 4.4 - 3.8: total +8.5 43% · Pau FC +4.5 44% · Nantes +3.5 51%
 
 - ❌ Valor: ventaja -2% (mín. 5% con la incertidumbre, máx. 30%)
 - ✅ Segmento «⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.04 - 0.80)  
+1 68% · X 21% · 2 11%  
+1X 89% · X2 32% · 12 79%  
++1.5 78% · +2.5 54% · +3.5 32% · Ambos marcan 48%  
+Marcadores: 2-0 12% · 1-0 11% · 1-1 10% · 2-1 10%  
+🔎 **Claves**  
+• Forma: St Etienne ➖✅✅✅❌ | Laval ➖❌➖❌✅  
+• H2H: 6 desde 2023: 3V-2E-1D · 2.3 goles/partido · +2.5 en 50%  
+• Bajas: St Etienne: sin bajas; Laval: sin bajas  
+• Favorito de las casas: St Etienne @ 1.37  
+📐 **Estadísticas esperadas**  
+Córners 6.5 - 3.7: total +9.5 55% · St Etienne +5.5 58% · Laval +4.5 31%  
+Tarjetas 1.6 - 2.4: total +4.5 37% · St Etienne +2.5 22% · Laval +2.5 42%  
+Faltas 14.7 - 15.8: total +28.5 61% · St Etienne +13.5 60% · Laval +15.5 51%  
+Tiros a puerta 6.1 - 2.8: total +8.5 53% · St Etienne +4.5 70% · Laval +3.5 32%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de St Etienne + Más de 4.5 tiros a puerta de St Etienne + Menos de 4.5 córners de Laval → prob. 40%, cuota justa 2.50 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de St Etienne + Más de 4.5 tiros a puerta de St Etienne + Menos de 4.5 córners de Laval + Más de 28.5 faltas → prob. 23%, cuota justa 4.36  
+
+## Pau FC vs Nantes — 07/11 · 20:00
+
+👀 candidata · 🇫🇷 Ligue 2 · **Más de 4.5 córners de Pau FC** @ **1.87** (Unibet) · prob 48% vs casas 48% · ventaja -10%
+
+- ❌ Valor: ventaja -10% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.42 - 1.35)  
+1 38% · X 29% · 2 33%  
+1X 67% · X2 62% · 12 71%  
++1.5 77% · +2.5 52% · +3.5 30% · Ambos marcan 57%  
+Marcadores: 1-1 13% · 2-1 9% · 1-0 8% · 1-2 8%  
+🔎 **Claves**  
+• Forma: Pau FC ✅✅✅✅✅ | Nantes ✅➖❌❌➖  
+• H2H: sin precedentes  
+• Bajas: Pau FC: sin bajas; Nantes: sin bajas  
+• Favorito de las casas: Nantes @ 2.45  
+📐 **Estadísticas esperadas**  
+Córners 4.7 - 4.5: total +9.5 43% · Pau FC +5.5 34% · Nantes +4.5 44%  
+Tarjetas 2.1 - 2.1: total +4.5 40% · Pau FC +2.5 35% · Nantes +2.5 34%  
+Faltas 14.7 - 16.8: total +28.5 67% · Pau FC +13.5 60% · Nantes +15.5 60%  
+Tiros a puerta 4.4 - 3.8: total +8.5 43% · Pau FC +4.5 44% · Nantes +3.5 51%  
+🧩 Crear apuesta: Más de 28.5 faltas + Menos de 5.5 córners de Pau FC + Menos de 2.5 tarjetas de Nantes → prob. 28%, cuota justa 3.63 (solo vale si la casa paga más)  
+🚀 Combinada larga: Más de 28.5 faltas + Menos de 5.5 córners de Pau FC + Menos de 2.5 tarjetas de Nantes + Menos de 8.5 tiros a puerta → prob. 17%, cuota justa 5.90  
+
+## Pau FC vs Nantes — 07/11 · 20:00
+
+👀 candidata · 🇫🇷 Ligue 2 · **Menos de 5.5 córners de Pau FC** @ **1.40** (Unibet) · prob 65% vs casas 64% · ventaja -9%
+
+- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.42 - 1.35)  
+1 38% · X 29% · 2 33%  
+1X 67% · X2 62% · 12 71%  
++1.5 77% · +2.5 52% · +3.5 30% · Ambos marcan 57%  
+Marcadores: 1-1 13% · 2-1 9% · 1-0 8% · 1-2 8%  
+🔎 **Claves**  
+• Forma: Pau FC ✅✅✅✅✅ | Nantes ✅➖❌❌➖  
+• H2H: sin precedentes  
+• Bajas: Pau FC: sin bajas; Nantes: sin bajas  
+• Favorito de las casas: Nantes @ 2.45  
+📐 **Estadísticas esperadas**  
+Córners 4.7 - 4.5: total +9.5 43% · Pau FC +5.5 34% · Nantes +4.5 44%  
+Tarjetas 2.1 - 2.1: total +4.5 40% · Pau FC +2.5 35% · Nantes +2.5 34%  
+Faltas 14.7 - 16.8: total +28.5 67% · Pau FC +13.5 60% · Nantes +15.5 60%  
+Tiros a puerta 4.4 - 3.8: total +8.5 43% · Pau FC +4.5 44% · Nantes +3.5 51%  
+🧩 Crear apuesta: Más de 28.5 faltas + Menos de 5.5 córners de Pau FC + Menos de 2.5 tarjetas de Nantes → prob. 28%, cuota justa 3.63 (solo vale si la casa paga más)  
+🚀 Combinada larga: Más de 28.5 faltas + Menos de 5.5 córners de Pau FC + Menos de 2.5 tarjetas de Nantes + Menos de 8.5 tiros a puerta → prob. 17%, cuota justa 5.90  
+
+## Pau FC vs Nantes — 07/11 · 20:00
+
+👀 candidata · 🇫🇷 Ligue 2 · **Más de 9.5 córners** @ **1.96** (Unibet) · prob 45% vs casas 46% · ventaja -13%
+
+- ❌ Valor: ventaja -13% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.42 - 1.35)  
+1 38% · X 29% · 2 33%  
+1X 67% · X2 62% · 12 71%  
++1.5 77% · +2.5 52% · +3.5 30% · Ambos marcan 57%  
+Marcadores: 1-1 13% · 2-1 9% · 1-0 8% · 1-2 8%  
+🔎 **Claves**  
+• Forma: Pau FC ✅✅✅✅✅ | Nantes ✅➖❌❌➖  
+• H2H: sin precedentes  
+• Bajas: Pau FC: sin bajas; Nantes: sin bajas  
+• Favorito de las casas: Nantes @ 2.45  
+📐 **Estadísticas esperadas**  
+Córners 4.7 - 4.5: total +9.5 43% · Pau FC +5.5 34% · Nantes +4.5 44%  
+Tarjetas 2.1 - 2.1: total +4.5 40% · Pau FC +2.5 35% · Nantes +2.5 34%  
+Faltas 14.7 - 16.8: total +28.5 67% · Pau FC +13.5 60% · Nantes +15.5 60%  
+Tiros a puerta 4.4 - 3.8: total +8.5 43% · Pau FC +4.5 44% · Nantes +3.5 51%  
+🧩 Crear apuesta: Más de 28.5 faltas + Menos de 5.5 córners de Pau FC + Menos de 2.5 tarjetas de Nantes → prob. 28%, cuota justa 3.63 (solo vale si la casa paga más)  
+🚀 Combinada larga: Más de 28.5 faltas + Menos de 5.5 córners de Pau FC + Menos de 2.5 tarjetas de Nantes + Menos de 8.5 tiros a puerta → prob. 17%, cuota justa 5.90  
+
+## Pau FC vs Nantes — 07/11 · 20:00
+
+👀 candidata · 🇫🇷 Ligue 2 · **Menos de 11.5 córners** @ **1.24** (Unibet) · prob 75% vs casas 72% · ventaja -7%
+
+- ❌ Valor: ventaja -7% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.42 - 1.35)  
+1 38% · X 29% · 2 33%  
+1X 67% · X2 62% · 12 71%  
++1.5 77% · +2.5 52% · +3.5 30% · Ambos marcan 57%  
+Marcadores: 1-1 13% · 2-1 9% · 1-0 8% · 1-2 8%  
+🔎 **Claves**  
+• Forma: Pau FC ✅✅✅✅✅ | Nantes ✅➖❌❌➖  
+• H2H: sin precedentes  
+• Bajas: Pau FC: sin bajas; Nantes: sin bajas  
+• Favorito de las casas: Nantes @ 2.45  
+📐 **Estadísticas esperadas**  
+Córners 4.7 - 4.5: total +9.5 43% · Pau FC +5.5 34% · Nantes +4.5 44%  
+Tarjetas 2.1 - 2.1: total +4.5 40% · Pau FC +2.5 35% · Nantes +2.5 34%  
+Faltas 14.7 - 16.8: total +28.5 67% · Pau FC +13.5 60% · Nantes +15.5 60%  
+Tiros a puerta 4.4 - 3.8: total +8.5 43% · Pau FC +4.5 44% · Nantes +3.5 51%  
+🧩 Crear apuesta: Más de 28.5 faltas + Menos de 5.5 córners de Pau FC + Menos de 2.5 tarjetas de Nantes → prob. 28%, cuota justa 3.63 (solo vale si la casa paga más)  
+🚀 Combinada larga: Más de 28.5 faltas + Menos de 5.5 córners de Pau FC + Menos de 2.5 tarjetas de Nantes + Menos de 8.5 tiros a puerta → prob. 17%, cuota justa 5.90  
+
+## Pau FC vs Nantes — 07/11 · 20:00
+
+👀 candidata · 🇫🇷 Ligue 2 · **Más de 4.5 córners de Nantes** @ **1.93** (Unibet) · prob 45% vs casas 46% · ventaja -12%
+
+- ❌ Valor: ventaja -12% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.42 - 1.35)  
+1 38% · X 29% · 2 33%  
+1X 67% · X2 62% · 12 71%  
++1.5 77% · +2.5 52% · +3.5 30% · Ambos marcan 57%  
+Marcadores: 1-1 13% · 2-1 9% · 1-0 8% · 1-2 8%  
+🔎 **Claves**  
+• Forma: Pau FC ✅✅✅✅✅ | Nantes ✅➖❌❌➖  
+• H2H: sin precedentes  
+• Bajas: Pau FC: sin bajas; Nantes: sin bajas  
+• Favorito de las casas: Nantes @ 2.45  
+📐 **Estadísticas esperadas**  
+Córners 4.7 - 4.5: total +9.5 43% · Pau FC +5.5 34% · Nantes +4.5 44%  
+Tarjetas 2.1 - 2.1: total +4.5 40% · Pau FC +2.5 35% · Nantes +2.5 34%  
+Faltas 14.7 - 16.8: total +28.5 67% · Pau FC +13.5 60% · Nantes +15.5 60%  
+Tiros a puerta 4.4 - 3.8: total +8.5 43% · Pau FC +4.5 44% · Nantes +3.5 51%  
+🧩 Crear apuesta: Más de 28.5 faltas + Menos de 5.5 córners de Pau FC + Menos de 2.5 tarjetas de Nantes → prob. 28%, cuota justa 3.63 (solo vale si la casa paga más)  
+🚀 Combinada larga: Más de 28.5 faltas + Menos de 5.5 córners de Pau FC + Menos de 2.5 tarjetas de Nantes + Menos de 8.5 tiros a puerta → prob. 17%, cuota justa 5.90  
+
+## Pau FC vs Nantes — 07/11 · 20:00
+
+👀 candidata · 🇫🇷 Ligue 2 · **Menos de 5.5 córners de Nantes** @ **1.37** (Unibet) · prob 68% vs casas 66% · ventaja -7%
+
+- ❌ Valor: ventaja -7% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.42 - 1.35)  
+1 38% · X 29% · 2 33%  
+1X 67% · X2 62% · 12 71%  
++1.5 77% · +2.5 52% · +3.5 30% · Ambos marcan 57%  
+Marcadores: 1-1 13% · 2-1 9% · 1-0 8% · 1-2 8%  
+🔎 **Claves**  
+• Forma: Pau FC ✅✅✅✅✅ | Nantes ✅➖❌❌➖  
+• H2H: sin precedentes  
+• Bajas: Pau FC: sin bajas; Nantes: sin bajas  
+• Favorito de las casas: Nantes @ 2.45  
+📐 **Estadísticas esperadas**  
+Córners 4.7 - 4.5: total +9.5 43% · Pau FC +5.5 34% · Nantes +4.5 44%  
+Tarjetas 2.1 - 2.1: total +4.5 40% · Pau FC +2.5 35% · Nantes +2.5 34%  
+Faltas 14.7 - 16.8: total +28.5 67% · Pau FC +13.5 60% · Nantes +15.5 60%  
+Tiros a puerta 4.4 - 3.8: total +8.5 43% · Pau FC +4.5 44% · Nantes +3.5 51%  
+🧩 Crear apuesta: Más de 28.5 faltas + Menos de 5.5 córners de Pau FC + Menos de 2.5 tarjetas de Nantes → prob. 28%, cuota justa 3.63 (solo vale si la casa paga más)  
+🚀 Combinada larga: Más de 28.5 faltas + Menos de 5.5 córners de Pau FC + Menos de 2.5 tarjetas de Nantes + Menos de 8.5 tiros a puerta → prob. 17%, cuota justa 5.90  
+
+## St Etienne vs Laval — 07/11 · 20:00
+
+👀 candidata · 🇫🇷 Ligue 2 · **Más de 3.5 córners de Laval** @ **2.08** (Unibet) · prob 45% vs casas 43% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.04 - 0.80)  
+1 68% · X 21% · 2 11%  
+1X 89% · X2 32% · 12 79%  
++1.5 78% · +2.5 54% · +3.5 32% · Ambos marcan 48%  
+Marcadores: 2-0 12% · 1-0 11% · 1-1 10% · 2-1 10%  
+🔎 **Claves**  
+• Forma: St Etienne ➖✅✅✅❌ | Laval ➖❌➖❌✅  
+• H2H: 6 desde 2023: 3V-2E-1D · 2.3 goles/partido · +2.5 en 50%  
+• Bajas: St Etienne: sin bajas; Laval: sin bajas  
+• Favorito de las casas: St Etienne @ 1.37  
+📐 **Estadísticas esperadas**  
+Córners 6.5 - 3.7: total +9.5 55% · St Etienne +5.5 58% · Laval +4.5 31%  
+Tarjetas 1.6 - 2.4: total +4.5 37% · St Etienne +2.5 22% · Laval +2.5 42%  
+Faltas 14.7 - 15.8: total +28.5 61% · St Etienne +13.5 60% · Laval +15.5 51%  
+Tiros a puerta 6.1 - 2.8: total +8.5 53% · St Etienne +4.5 70% · Laval +3.5 32%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de St Etienne + Más de 4.5 tiros a puerta de St Etienne + Menos de 4.5 córners de Laval → prob. 40%, cuota justa 2.50 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de St Etienne + Más de 4.5 tiros a puerta de St Etienne + Menos de 4.5 córners de Laval + Más de 28.5 faltas → prob. 23%, cuota justa 4.36  
+
+## St Etienne vs Laval — 07/11 · 20:00
+
+👀 candidata · 🇫🇷 Ligue 2 · **Menos de 3.5 córners de Laval** @ **1.58** (Unibet) · prob 55% vs casas 57% · ventaja -14%
+
+- ❌ Valor: ventaja -14% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.04 - 0.80)  
+1 68% · X 21% · 2 11%  
+1X 89% · X2 32% · 12 79%  
++1.5 78% · +2.5 54% · +3.5 32% · Ambos marcan 48%  
+Marcadores: 2-0 12% · 1-0 11% · 1-1 10% · 2-1 10%  
+🔎 **Claves**  
+• Forma: St Etienne ➖✅✅✅❌ | Laval ➖❌➖❌✅  
+• H2H: 6 desde 2023: 3V-2E-1D · 2.3 goles/partido · +2.5 en 50%  
+• Bajas: St Etienne: sin bajas; Laval: sin bajas  
+• Favorito de las casas: St Etienne @ 1.37  
+📐 **Estadísticas esperadas**  
+Córners 6.5 - 3.7: total +9.5 55% · St Etienne +5.5 58% · Laval +4.5 31%  
+Tarjetas 1.6 - 2.4: total +4.5 37% · St Etienne +2.5 22% · Laval +2.5 42%  
+Faltas 14.7 - 15.8: total +28.5 61% · St Etienne +13.5 60% · Laval +15.5 51%  
+Tiros a puerta 6.1 - 2.8: total +8.5 53% · St Etienne +4.5 70% · Laval +3.5 32%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de St Etienne + Más de 4.5 tiros a puerta de St Etienne + Menos de 4.5 córners de Laval → prob. 40%, cuota justa 2.50 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de St Etienne + Más de 4.5 tiros a puerta de St Etienne + Menos de 4.5 córners de Laval + Más de 28.5 faltas → prob. 23%, cuota justa 4.36  
+
+## St Etienne vs Laval — 07/11 · 20:00
+
+👀 candidata · 🇫🇷 Ligue 2 · **Más de 7.5 córners de St Etienne** @ **2.08** (Unibet) · prob 38% vs casas 43% · ventaja -20%
+
+- ❌ Valor: ventaja -20% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.04 - 0.80)  
+1 68% · X 21% · 2 11%  
+1X 89% · X2 32% · 12 79%  
++1.5 78% · +2.5 54% · +3.5 32% · Ambos marcan 48%  
+Marcadores: 2-0 12% · 1-0 11% · 1-1 10% · 2-1 10%  
+🔎 **Claves**  
+• Forma: St Etienne ➖✅✅✅❌ | Laval ➖❌➖❌✅  
+• H2H: 6 desde 2023: 3V-2E-1D · 2.3 goles/partido · +2.5 en 50%  
+• Bajas: St Etienne: sin bajas; Laval: sin bajas  
+• Favorito de las casas: St Etienne @ 1.37  
+📐 **Estadísticas esperadas**  
+Córners 6.5 - 3.7: total +9.5 55% · St Etienne +5.5 58% · Laval +4.5 31%  
+Tarjetas 1.6 - 2.4: total +4.5 37% · St Etienne +2.5 22% · Laval +2.5 42%  
+Faltas 14.7 - 15.8: total +28.5 61% · St Etienne +13.5 60% · Laval +15.5 51%  
+Tiros a puerta 6.1 - 2.8: total +8.5 53% · St Etienne +4.5 70% · Laval +3.5 32%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de St Etienne + Más de 4.5 tiros a puerta de St Etienne + Menos de 4.5 córners de Laval → prob. 40%, cuota justa 2.50 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de St Etienne + Más de 4.5 tiros a puerta de St Etienne + Menos de 4.5 córners de Laval + Más de 28.5 faltas → prob. 23%, cuota justa 4.36  
+
+## St Etienne vs Laval — 07/11 · 20:00
+
+👀 candidata · 🇫🇷 Ligue 2 · **Menos de 7.5 córners de St Etienne** @ **1.58** (Unibet) · prob 62% vs casas 57% · ventaja -3%
+
+- ❌ Valor: ventaja -3% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.04 - 0.80)  
+1 68% · X 21% · 2 11%  
+1X 89% · X2 32% · 12 79%  
++1.5 78% · +2.5 54% · +3.5 32% · Ambos marcan 48%  
+Marcadores: 2-0 12% · 1-0 11% · 1-1 10% · 2-1 10%  
+🔎 **Claves**  
+• Forma: St Etienne ➖✅✅✅❌ | Laval ➖❌➖❌✅  
+• H2H: 6 desde 2023: 3V-2E-1D · 2.3 goles/partido · +2.5 en 50%  
+• Bajas: St Etienne: sin bajas; Laval: sin bajas  
+• Favorito de las casas: St Etienne @ 1.37  
+📐 **Estadísticas esperadas**  
+Córners 6.5 - 3.7: total +9.5 55% · St Etienne +5.5 58% · Laval +4.5 31%  
+Tarjetas 1.6 - 2.4: total +4.5 37% · St Etienne +2.5 22% · Laval +2.5 42%  
+Faltas 14.7 - 15.8: total +28.5 61% · St Etienne +13.5 60% · Laval +15.5 51%  
+Tiros a puerta 6.1 - 2.8: total +8.5 53% · St Etienne +4.5 70% · Laval +3.5 32%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de St Etienne + Más de 4.5 tiros a puerta de St Etienne + Menos de 4.5 córners de Laval → prob. 40%, cuota justa 2.50 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de St Etienne + Más de 4.5 tiros a puerta de St Etienne + Menos de 4.5 córners de Laval + Más de 28.5 faltas → prob. 23%, cuota justa 4.36  
+
+## St Etienne vs Laval — 07/11 · 20:00
+
+👀 candidata · 🇫🇷 Ligue 2 · **Más de 10.5 córners** @ **1.85** (Unibet) · prob 46% vs casas 48% · ventaja -15%
+
+- ❌ Valor: ventaja -15% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.04 - 0.80)  
+1 68% · X 21% · 2 11%  
+1X 89% · X2 32% · 12 79%  
++1.5 78% · +2.5 54% · +3.5 32% · Ambos marcan 48%  
+Marcadores: 2-0 12% · 1-0 11% · 1-1 10% · 2-1 10%  
+🔎 **Claves**  
+• Forma: St Etienne ➖✅✅✅❌ | Laval ➖❌➖❌✅  
+• H2H: 6 desde 2023: 3V-2E-1D · 2.3 goles/partido · +2.5 en 50%  
+• Bajas: St Etienne: sin bajas; Laval: sin bajas  
+• Favorito de las casas: St Etienne @ 1.37  
+📐 **Estadísticas esperadas**  
+Córners 6.5 - 3.7: total +9.5 55% · St Etienne +5.5 58% · Laval +4.5 31%  
+Tarjetas 1.6 - 2.4: total +4.5 37% · St Etienne +2.5 22% · Laval +2.5 42%  
+Faltas 14.7 - 15.8: total +28.5 61% · St Etienne +13.5 60% · Laval +15.5 51%  
+Tiros a puerta 6.1 - 2.8: total +8.5 53% · St Etienne +4.5 70% · Laval +3.5 32%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de St Etienne + Más de 4.5 tiros a puerta de St Etienne + Menos de 4.5 córners de Laval → prob. 40%, cuota justa 2.50 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de St Etienne + Más de 4.5 tiros a puerta de St Etienne + Menos de 4.5 córners de Laval + Más de 28.5 faltas → prob. 23%, cuota justa 4.36  
+
+## St Etienne vs Laval — 07/11 · 20:00
+
+👀 candidata · 🇫🇷 Ligue 2 · **Menos de 11.5 córners** @ **1.48** (Unibet) · prob 64% vs casas 61% · ventaja -5%
+
+- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
 
 📊 **Escenarios** (goles esperados 2.04 - 0.80)  
 1 68% · X 21% · 2 11%  
