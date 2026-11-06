@@ -58100,12 +58100,12 @@ id,tournament_id,club1,club2,ht1,ht2
 2366031,261150,Atleti,Paris,,
 2366032,261150,Real Madrid,Atleti,,
 2366033,261150,Bayern Munchen,Liverpool,,
-2365372,261124,Netherlands,Norway,0,3
-2365373,261124,Morocco,Germany,4,2
-2365374,261124,Germany,Netherlands,4,0
-2365375,261124,Norway,Czechia,1,1
-2365376,261124,Czechia,Germany,3,4
-2365377,261124,Netherlands,Morocco,1,3
+2365372,261124,Netherlands,Norway,0.0,3.0
+2365373,261124,Morocco,Germany,4.0,2.0
+2365374,261124,Germany,Netherlands,4.0,0.0
+2365375,261124,Norway,Czechia,1.0,1.0
+2365376,261124,Czechia,Germany,3.0,4.0
+2365377,261124,Netherlands,Morocco,1.0,3.0
 2365378,261124,Morocco,Czechia,,
 2365379,261124,Germany,Norway,,
 2365380,261124,Norway,Morocco,,
