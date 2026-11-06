@@ -1,6 +1,6 @@
 {
- "fecha": "2026-11-06 02:28",
- "n": 765,
+ "fecha": "2026-11-06 02:46",
+ "n": 766,
  "rentables": [],
  "bloqueados": [
   {
@@ -21,11 +21,11 @@
   },
   {
    "segmento": "cuota=>2.5 · ventaja=>15%",
-   "n": 96,
-   "roi": -0.3466,
-   "se": 0.1448,
+   "n": 97,
+   "roi": -0.3533,
+   "se": 0.1434,
    "roi_antigua": -0.0912,
-   "roi_nueva": -0.5538
+   "roi_nueva": -0.562
   },
   {
    "segmento": "mercado=ganador · ventaja=<0",
@@ -40,11 +40,11 @@
   },
   {
    "segmento": "mercado=ganador",
-   "n": 224,
-   "roi": -0.0132,
+   "n": 225,
+   "roi": -0.0176,
    "se": 0.0587,
    "roi_antigua": 0.0013,
-   "roi_nueva": -0.0676,
+   "roi_nueva": -0.087,
    "clv": -0.0463,
    "clv_se": 0.0119,
    "clv_n": 34
