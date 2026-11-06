@@ -1025,7 +1025,8 @@ def fc_table(days=None):
     import json as _j
     try:
         prm = _j.loads((E.DIR / "params.json").read_text())
-        base, now_ = (prm.get("calib_test") or {}).get("ll"), min(v for v in ((prm.get("club_test") or {}).get("ll_club") if prm.get("club_w") else None,
+        base, now_ = (prm.get("calib_test") or {}).get("ll"), min(v for v in ((prm.get("fam_test") or {}).get("ll_fam") if prm.get("fam_w") else None,
+            (prm.get("club_test") or {}).get("ll_club") if prm.get("club_w") else None,
             (prm.get("h2h_test") or {}).get("ll_h2h") if prm.get("h2h") else None, (prm.get("draw_test") or {}).get("ll_draw"),
             (prm.get("calib_test") or {}).get("ll_cal"), 9) if v)
         if base and now_:

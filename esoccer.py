@@ -22,6 +22,7 @@ LR = _P.get("lr", 0.03)        # paso del ataque/defensa de cada jugador por par
 LR_LEAGUE = _P.get("lr_league", 0.01)
 DRAW_LIGA = _P.get("draw_liga") or {}  # factor del empate por liga (train_fc_calib.py: CSL/Volta menos, World Cup B más)
 CALIB = _P.get("calib")          # [a, b] de train_fc_calib.py: p_i ∝ p_i^a · e^(b·empate); None = sin recalibrar
+FAM_W, FAM = _P.get("fam_w", 0.0), _P.get("fam") or {}    # train_fc_calib.py: rendimiento de cada jugador por tipo de liga
 CLUB_W, CLUB = _P.get("club_w", 0.0), _P.get("club") or {}  # train_fc_calib.py: rendimiento del equipo que usa cada jugador
 H2H = _P.get("h2h", 0.0)         # train_fc_calib.py: peso del cara a cara (balance encogido) sobre local/visitante
 SHRINK = _P.get("shrink", 0.0)  # encogimiento de las fuerzas hacia 0 por partido (olvido)
@@ -109,6 +110,20 @@ def h2h_value(H, a, b):
     """Balance de A frente a B encogido: (victorias − derrotas) / (partidos + 5)."""
     k = tuple(sorted((a, b))); s = H.get(k, [0, 0])
     return (s[0] if k[0] == a else -s[0]) / (s[1] + 5)
+
+
+def family(league):
+    """Tipo de liga de Esoccer Battle: Volta, partidos de 2x6 min o normales (2x4)."""
+    return "volta" if "Volta" in str(league) else "2x6" if "2x6" in str(league) else "std"
+
+
+def fam_adjust(p, league, a, b, w=None, table=None):
+    """1X2 con lo que rinde cada jugador en este tipo de liga por encima de lo esperado; sin dato, igual."""
+    w, t, f = (FAM_W if w is None else w), (FAM if table is None else table), family(league)
+    x = t.get(f"{a}|{f}", 0.0) - t.get(f"{b}|{f}", 0.0)
+    if not w or not x: return p
+    z = {"1": p["1"] * math.exp(w * x), "X": p["X"], "2": p["2"] * math.exp(-w * x)}; s = sum(z.values())
+    return {k: v / s for k, v in z.items()}
 
 
 def club_adjust(p, c1, c2, w=None, table=None):
@@ -336,6 +351,7 @@ def run(state, today, kg):
                 l1, l2 = m.lam(g["league"], g["p1"], g["p2"]), m.lam(g["league"], g["p2"], g["p1"])
                 p, tot, diff = markets(l1, l2)
                 p = club_adjust(h2h_adjust(draw_league(calibrate(p), g["league"]), h2h_value(H, g["p1"], g["p2"])), g.get("c1"), g.get("c2"))
+                p = fam_adjust(p, g["league"], g["p1"], g["p2"])
                 cands.append((max(p.values()), g, start, key, l1, l2, p, tot, diff))
             time.sleep(0.3)
     except (requests.RequestException, ValueError) as e:

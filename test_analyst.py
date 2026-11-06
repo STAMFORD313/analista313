@@ -1556,3 +1556,8 @@ _pc0 = {"1": 0.4, "X": 0.2, "2": 0.4}
 _pc1 = esoccer.club_adjust(_pc0, "Spain", "Wales", w=1.0, table={"Spain": 0.1, "Wales": -0.1})
 assert _pc1["1"] > _pc1["2"] and abs(sum(_pc1.values()) - 1) < 1e-9 and esoccer.club_adjust(_pc0, None, "Wales", w=1.0) == _pc0
 print("ok club en FC 27")
+
+assert esoccer.family("Volta World Cup B") == "volta" and esoccer.family("Champions League A 2x6") == "2x6" and esoccer.family("Serie A") == "std"
+_pf = esoccer.fam_adjust({"1": 0.4, "X": 0.2, "2": 0.4}, "Serie A", "a", "b", w=1.0, table={"a|std": 0.1})
+assert _pf["1"] > _pf["2"]
+print("ok jugador por tipo de liga FC 27")

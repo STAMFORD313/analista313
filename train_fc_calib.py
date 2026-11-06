@@ -25,22 +25,28 @@ CLUB_K, CLUB_DAYS = 50, 60  # sorpresa por club encogida con 50 partidos; se acu
 def predictions(df, since):
     """Predicciones walk-forward + cara a cara + «club»: lo que rinde el equipo que usa cada jugador por encima de lo que
     esperaban los jugadores (resultado − prob. del modelo, acumulado solo con partidos anteriores, encogido)."""
-    m, rows, H, C = E.Model(), [], {}, {}
+    m, rows, H, C, F = E.Model(), [], {}, {}, {}
     cl = lambda c: c if isinstance(c, str) else None
     for r in df.itertuples():
         c1, c2 = cl(getattr(r, "club1", None)), cl(getattr(r, "club2", None))
-        p, _, _ = E.markets(m.lam(r.league, r.p1, r.p2), m.lam(r.league, r.p2, r.p1)) if (r.date >= since or (c1 and c2 and r.date >= since - pd.Timedelta(days=CLUB_DAYS))) else (None, 0, 0)
+        p, _, _ = E.markets(m.lam(r.league, r.p1, r.p2), m.lam(r.league, r.p2, r.p1)) if r.date >= since - pd.Timedelta(days=CLUB_DAYS) else (None, 0, 0)
         if r.date >= since:
             cv = (lambda a, b: a[0] / (a[1] + CLUB_K) - b[0] / (b[1] + CLUB_K))(C.get(c1, [0, 0]), C.get(c2, [0, 0])) if c1 and c2 else 0.0
-            rows.append((r.date, p["1"], p["X"], p["2"], 0 if r.s1 > r.s2 else 1 if r.s1 == r.s2 else 2, E.h2h_value(H, r.p1, r.p2), r.league, cv))
-        if p and c1 and c2:
+            fam = E.family(r.league)
+            fv = (lambda a, b: a[0] / (a[1] + CLUB_K) - b[0] / (b[1] + CLUB_K))(F.get((r.p1, fam), [0, 0]), F.get((r.p2, fam), [0, 0]))
+            rows.append((r.date, p["1"], p["X"], p["2"], 0 if r.s1 > r.s2 else 1 if r.s1 == r.s2 else 2, E.h2h_value(H, r.p1, r.p2), r.league, cv, fv))
+        if p:
             res = (1 if r.s1 > r.s2 else 0) - p["1"]
-            for c, v in ((c1, res), (c2, -res)): t = C.setdefault(c, [0, 0]); t[0] += v; t[1] += 1
+            if c1 and c2:
+                for c, v in ((c1, res), (c2, -res)): t = C.setdefault(c, [0, 0]); t[0] += v; t[1] += 1
+            fam = E.family(r.league)  # rendimiento del jugador en este tipo de liga (Volta / 2x6 / normal)
+            for c, v in (((r.p1, fam), res), ((r.p2, fam), -res)): t = F.setdefault(c, [0, 0]); t[0] += v; t[1] += 1
         m.update(r.league, r.p1, r.p2, r.s1, r.s2)
         k = tuple(sorted((r.p1, r.p2))); s = H.setdefault(k, [0, 0])  # cara a cara, solo con partidos anteriores
         s[0] += (1 if r.s1 > r.s2 else -1 if r.s2 > r.s1 else 0) * (1 if k[0] == r.p1 else -1); s[1] += 1
-    d = pd.DataFrame(rows, columns=["date", "p1", "pX", "p2", "y", "h2h", "league", "club"])
+    d = pd.DataFrame(rows, columns=["date", "p1", "pX", "p2", "y", "h2h", "league", "club", "fam"])
     d.attrs["club_table"] = {c: round(v[0] / (v[1] + CLUB_K), 4) for c, v in C.items() if v[1] >= 20}
+    d.attrs["fam_table"] = {f"{k[0]}|{k[1]}": round(v[0] / (v[1] + CLUB_K), 4) for k, v in F.items() if v[1] >= 10}
     return d
 
 
@@ -101,6 +107,15 @@ def main():
     P_["club_test"] = {"ll": round(float(lb2.mean()), 4), "ll_club": round(float(lc.mean()), 4), "se": round(sec, 4)}
     if lc.mean() < lb2.mean() - 2 * sec: P_["club_w"] = round(wc, 4); P_["club"] = d.attrs["club_table"]; print("  guardado club")
     else: P_.pop("club_w", None); P_.pop("club", None)
+    # jugador por tipo de liga (sobre lo anterior)
+    B3 = cshift(wc) if "club_w" in P_ else B2; xf = d.fam.to_numpy()
+    fshift = lambda w: (lambda Z: Z / Z.sum(1, keepdims=True))(B3 * np.exp(np.c_[w * xf, 0 * xf, -w * xf]))
+    wf = float(optimize.minimize_scalar(lambda w: nll(fshift(w), fi).sum(), bounds=(-3, 3), method="bounded").x)
+    lb3, lf = nll(B3, te), nll(fshift(wf), te); sef = float((lf - lb3).std() / math.sqrt(te.sum()))
+    print(f"  jugador por tipo de liga: w={wf:+.3f}, log-loss {lb3.mean():.4f} → {lf.mean():.4f} ({lf.mean() - lb3.mean():+.4f} ± {sef:.4f})")
+    P_["fam_test"] = {"ll": round(float(lb3.mean()), 4), "ll_fam": round(float(lf.mean()), 4), "se": round(sef, 4)}
+    if lf.mean() < lb3.mean() - 2 * sef: P_["fam_w"] = round(wf, 4); P_["fam"] = d.attrs["fam_table"]; print("  guardado fam")
+    else: P_.pop("fam_w", None); P_.pop("fam", None)
     f.write_text(json.dumps(P_))
 
 
