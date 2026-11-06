@@ -1,6 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 07/11/2026 00:39 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 07/11/2026 00:49 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Banfield vs Atl. Tucuman — 07/11 · 02:00
 
