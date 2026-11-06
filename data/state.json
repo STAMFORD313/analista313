@@ -1983,7 +1983,10 @@
   "dota2|133678",
   "fc|2364770",
   "fc|2363726",
-  "fc|2363724"
+  "fc|2363724",
+  "fc|2363729",
+  "fc|2363731",
+  "fc|2365086"
  ],
  "signals": [
   {
@@ -2760,29 +2763,6 @@
    "captured": "2026-11-03T06:59",
    "version": "7948daf",
    "bajas": "Louisiana Ragin' Cajuns: sin bajas; Akron Zips: sin bajas",
-   "logged": true
-  },
-  {
-   "market": "home",
-   "odds": 1.005,
-   "book": "DraftKings",
-   "p": 0.879,
-   "implied": 0.973,
-   "edge": -0.116,
-   "key": "cbb|2026-11-03|USC Trojans|Milwaukee Panthers",
-   "match": "USC Trojans vs Milwaukee Panthers",
-   "pick": "USC Trojans",
-   "start": "2026-11-03T03:30Z",
-   "league": "🏀 NCAA Basketball",
-   "sport": "🏀",
-   "context": "USC Trojans vs Milwaukee Panthers (🏀 NCAA Basketball, baloncesto). Modelo Elo con 10 años de historial ajustado por bajas: USC Trojans 79%, Milwaukee Panthers 21%. Cuotas DraftKings 1.005/36.0, hándicap USC -26.5, total 157.5. Forma USC Trojans ❌❌❌❌❌, Milwaukee Panthers ✅❌❌✅❌. H2H sin precedentes. Bajas USC Trojans: ninguna. Bajas Milwaukee Panthers: ninguna.",
-   "considered": true,
-   "placed": false,
-   "result": true,
-   "score": "95-63",
-   "captured": "2026-11-03T06:59",
-   "version": "7948daf",
-   "bajas": "USC Trojans: sin bajas; Milwaukee Panthers: sin bajas",
    "logged": true
   },
   {
@@ -14743,18 +14723,6 @@
    "start": "2026-11-06T03:30:00+00:00",
    "league": "🔫 R6 Siege · BLAST R6 Major Osaka 2026",
    "sport": "🔫",
-   "info": [
-    "📊 <b>Escenarios</b> (Elo por mapa, 3.339 partidos)",
-    "Mapa: Virtus.pro 69% · Serie BO1: Virtus.pro 69% - 31% KINGZERO eSports",
-    "Casas: Virtus.pro 85% · KINGZERO eSports 15%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Elo: Virtus.pro 1786 (114 series) | KINGZERO eSports 1650 (44 series)",
-    "• Forma: Virtus.pro ❌✅❌✅❌ | KINGZERO eSports ✅✅❌✅❌",
-    "• H2H: sin precedentes",
-    "• Torneo: BLAST R6 Major Osaka 2026 (nivel S)",
-    "• Cambios de plantilla: ninguno"
-   ],
    "context": "R6 Siege Virtus.pro vs KINGZERO eSports, BO1, torneo BLAST R6 Major Osaka 2026 nivel s. Elo por mapa 1786 vs 1650 (prob. mapa 69%, serie 69%). Forma ❌✅❌✅❌ / ✅✅❌✅❌ (✅ victoria ❌ derrota). H2H sin precedentes. Cambios de plantilla: ninguno. Cuotas Thunderpick 1.09/6.4.",
    "captured": "2026-11-04T15:34",
    "version": "67c2805",
