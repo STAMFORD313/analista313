@@ -1,6 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 06/11/2026 17:17 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 06/11/2026 17:35 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Motor Lublin vs Wisla Plock — 06/11 · 18:00
 
@@ -10192,6 +10192,156 @@ Tiros a puerta 5.6 - 3.5: total +9.5 44% · Goztep +5.5 49% · Buyuksehyr +4.5 2
 
 - ❌ Valor: ventaja -2% (mín. 5% con la incertidumbre, máx. 30%)
 - ✅ Segmento «⚽ hándicap» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.52 - 1.35)  
+1 39% · X 29% · 2 32%  
+1X 68% · X2 61% · 12 71%  
++1.5 79% · +2.5 55% · +3.5 32% · Ambos marcan 59%  
+Marcadores: 1-1 12% · 2-1 9% · 1-0 8% · 1-2 8%  
+🔎 **Claves**  
+• Forma: Mantova ✅❌✅❌➖ | Verona ❌➖➖✅✅  
+• H2H: 4 desde 2005: 1V-2E-1D · 2.2 goles/partido · +2.5 en 50%  
+• Bajas: Mantova: sin bajas; Verona: 1 fuera, 2 duda (Giacomo Toniolo)  
+• Favorito de las casas: Mantova @ 2.50  
+📐 **Estadísticas esperadas**  
+Córners 4.9 - 4.8: total +9.5 50% · Mantova +5.5 37% · Verona +4.5 49%  
+Tarjetas 2.2 - 2.8: total +4.5 55% · Mantova +2.5 39% · Verona +2.5 53%  
+Faltas 11.9 - 14.7: total +27.5 43% · Mantova +14.5 23% · Verona +13.5 60%  
+Tiros a puerta 5.1 - 4.2: total +8.5 57% · Mantova +5.5 39% · Verona +3.5 59%  
+🧩 Crear apuesta: Menos de 14.5 faltas de Mantova + Menos de 5.5 córners de Mantova + Menos de 2.5 tarjetas de Mantova → prob. 31%, cuota justa 3.24 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 14.5 faltas de Mantova + Menos de 5.5 córners de Mantova + Menos de 2.5 tarjetas de Mantova + Menos de 5.5 tiros a puerta de Mantova → prob. 20%, cuota justa 5.06  
+
+## Mantova vs Verona — 07/11 · 17:15
+
+👀 candidata · 🇮🇹 Serie B · **Más de 4.5 córners de Verona** @ **1.86** (Unibet) · prob 49% vs casas 48% · ventaja -10%
+
+- ❌ Valor: ventaja -10% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.52 - 1.35)  
+1 39% · X 29% · 2 32%  
+1X 68% · X2 61% · 12 71%  
++1.5 79% · +2.5 55% · +3.5 32% · Ambos marcan 59%  
+Marcadores: 1-1 12% · 2-1 9% · 1-0 8% · 1-2 8%  
+🔎 **Claves**  
+• Forma: Mantova ✅❌✅❌➖ | Verona ❌➖➖✅✅  
+• H2H: 4 desde 2005: 1V-2E-1D · 2.2 goles/partido · +2.5 en 50%  
+• Bajas: Mantova: sin bajas; Verona: 1 fuera, 2 duda (Giacomo Toniolo)  
+• Favorito de las casas: Mantova @ 2.50  
+📐 **Estadísticas esperadas**  
+Córners 4.9 - 4.8: total +9.5 50% · Mantova +5.5 37% · Verona +4.5 49%  
+Tarjetas 2.2 - 2.8: total +4.5 55% · Mantova +2.5 39% · Verona +2.5 53%  
+Faltas 11.9 - 14.7: total +27.5 43% · Mantova +14.5 23% · Verona +13.5 60%  
+Tiros a puerta 5.1 - 4.2: total +8.5 57% · Mantova +5.5 39% · Verona +3.5 59%  
+🧩 Crear apuesta: Menos de 14.5 faltas de Mantova + Menos de 5.5 córners de Mantova + Menos de 2.5 tarjetas de Mantova → prob. 31%, cuota justa 3.24 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 14.5 faltas de Mantova + Menos de 5.5 córners de Mantova + Menos de 2.5 tarjetas de Mantova + Menos de 5.5 tiros a puerta de Mantova → prob. 20%, cuota justa 5.06  
+
+## Mantova vs Verona — 07/11 · 17:15
+
+👀 candidata · 🇮🇹 Serie B · **Menos de 4.5 córners de Verona** @ **1.73** (Unibet) · prob 51% vs casas 52% · ventaja -11%
+
+- ❌ Valor: ventaja -11% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.52 - 1.35)  
+1 39% · X 29% · 2 32%  
+1X 68% · X2 61% · 12 71%  
++1.5 79% · +2.5 55% · +3.5 32% · Ambos marcan 59%  
+Marcadores: 1-1 12% · 2-1 9% · 1-0 8% · 1-2 8%  
+🔎 **Claves**  
+• Forma: Mantova ✅❌✅❌➖ | Verona ❌➖➖✅✅  
+• H2H: 4 desde 2005: 1V-2E-1D · 2.2 goles/partido · +2.5 en 50%  
+• Bajas: Mantova: sin bajas; Verona: 1 fuera, 2 duda (Giacomo Toniolo)  
+• Favorito de las casas: Mantova @ 2.50  
+📐 **Estadísticas esperadas**  
+Córners 4.9 - 4.8: total +9.5 50% · Mantova +5.5 37% · Verona +4.5 49%  
+Tarjetas 2.2 - 2.8: total +4.5 55% · Mantova +2.5 39% · Verona +2.5 53%  
+Faltas 11.9 - 14.7: total +27.5 43% · Mantova +14.5 23% · Verona +13.5 60%  
+Tiros a puerta 5.1 - 4.2: total +8.5 57% · Mantova +5.5 39% · Verona +3.5 59%  
+🧩 Crear apuesta: Menos de 14.5 faltas de Mantova + Menos de 5.5 córners de Mantova + Menos de 2.5 tarjetas de Mantova → prob. 31%, cuota justa 3.24 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 14.5 faltas de Mantova + Menos de 5.5 córners de Mantova + Menos de 2.5 tarjetas de Mantova + Menos de 5.5 tiros a puerta de Mantova → prob. 20%, cuota justa 5.06  
+
+## Mantova vs Verona — 07/11 · 17:15
+
+👀 candidata · 🇮🇹 Serie B · **Más de 8.5 córners** @ **1.45** (Unibet) · prob 62% vs casas 62% · ventaja -10%
+
+- ❌ Valor: ventaja -10% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.52 - 1.35)  
+1 39% · X 29% · 2 32%  
+1X 68% · X2 61% · 12 71%  
++1.5 79% · +2.5 55% · +3.5 32% · Ambos marcan 59%  
+Marcadores: 1-1 12% · 2-1 9% · 1-0 8% · 1-2 8%  
+🔎 **Claves**  
+• Forma: Mantova ✅❌✅❌➖ | Verona ❌➖➖✅✅  
+• H2H: 4 desde 2005: 1V-2E-1D · 2.2 goles/partido · +2.5 en 50%  
+• Bajas: Mantova: sin bajas; Verona: 1 fuera, 2 duda (Giacomo Toniolo)  
+• Favorito de las casas: Mantova @ 2.50  
+📐 **Estadísticas esperadas**  
+Córners 4.9 - 4.8: total +9.5 50% · Mantova +5.5 37% · Verona +4.5 49%  
+Tarjetas 2.2 - 2.8: total +4.5 55% · Mantova +2.5 39% · Verona +2.5 53%  
+Faltas 11.9 - 14.7: total +27.5 43% · Mantova +14.5 23% · Verona +13.5 60%  
+Tiros a puerta 5.1 - 4.2: total +8.5 57% · Mantova +5.5 39% · Verona +3.5 59%  
+🧩 Crear apuesta: Menos de 14.5 faltas de Mantova + Menos de 5.5 córners de Mantova + Menos de 2.5 tarjetas de Mantova → prob. 31%, cuota justa 3.24 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 14.5 faltas de Mantova + Menos de 5.5 córners de Mantova + Menos de 2.5 tarjetas de Mantova + Menos de 5.5 tiros a puerta de Mantova → prob. 20%, cuota justa 5.06  
+
+## Mantova vs Verona — 07/11 · 17:15
+
+👀 candidata · 🇮🇹 Serie B · **Menos de 10.5 córners** @ **1.53** (Unibet) · prob 60% vs casas 59% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.52 - 1.35)  
+1 39% · X 29% · 2 32%  
+1X 68% · X2 61% · 12 71%  
++1.5 79% · +2.5 55% · +3.5 32% · Ambos marcan 59%  
+Marcadores: 1-1 12% · 2-1 9% · 1-0 8% · 1-2 8%  
+🔎 **Claves**  
+• Forma: Mantova ✅❌✅❌➖ | Verona ❌➖➖✅✅  
+• H2H: 4 desde 2005: 1V-2E-1D · 2.2 goles/partido · +2.5 en 50%  
+• Bajas: Mantova: sin bajas; Verona: 1 fuera, 2 duda (Giacomo Toniolo)  
+• Favorito de las casas: Mantova @ 2.50  
+📐 **Estadísticas esperadas**  
+Córners 4.9 - 4.8: total +9.5 50% · Mantova +5.5 37% · Verona +4.5 49%  
+Tarjetas 2.2 - 2.8: total +4.5 55% · Mantova +2.5 39% · Verona +2.5 53%  
+Faltas 11.9 - 14.7: total +27.5 43% · Mantova +14.5 23% · Verona +13.5 60%  
+Tiros a puerta 5.1 - 4.2: total +8.5 57% · Mantova +5.5 39% · Verona +3.5 59%  
+🧩 Crear apuesta: Menos de 14.5 faltas de Mantova + Menos de 5.5 córners de Mantova + Menos de 2.5 tarjetas de Mantova → prob. 31%, cuota justa 3.24 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 14.5 faltas de Mantova + Menos de 5.5 córners de Mantova + Menos de 2.5 tarjetas de Mantova + Menos de 5.5 tiros a puerta de Mantova → prob. 20%, cuota justa 5.06  
+
+## Mantova vs Verona — 07/11 · 17:15
+
+👀 candidata · 🇮🇹 Serie B · **Más de 4.5 córners de Mantova** @ **1.67** (Unibet) · prob 53% vs casas 54% · ventaja -12%
+
+- ❌ Valor: ventaja -12% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.52 - 1.35)  
+1 39% · X 29% · 2 32%  
+1X 68% · X2 61% · 12 71%  
++1.5 79% · +2.5 55% · +3.5 32% · Ambos marcan 59%  
+Marcadores: 1-1 12% · 2-1 9% · 1-0 8% · 1-2 8%  
+🔎 **Claves**  
+• Forma: Mantova ✅❌✅❌➖ | Verona ❌➖➖✅✅  
+• H2H: 4 desde 2005: 1V-2E-1D · 2.2 goles/partido · +2.5 en 50%  
+• Bajas: Mantova: sin bajas; Verona: 1 fuera, 2 duda (Giacomo Toniolo)  
+• Favorito de las casas: Mantova @ 2.50  
+📐 **Estadísticas esperadas**  
+Córners 4.9 - 4.8: total +9.5 50% · Mantova +5.5 37% · Verona +4.5 49%  
+Tarjetas 2.2 - 2.8: total +4.5 55% · Mantova +2.5 39% · Verona +2.5 53%  
+Faltas 11.9 - 14.7: total +27.5 43% · Mantova +14.5 23% · Verona +13.5 60%  
+Tiros a puerta 5.1 - 4.2: total +8.5 57% · Mantova +5.5 39% · Verona +3.5 59%  
+🧩 Crear apuesta: Menos de 14.5 faltas de Mantova + Menos de 5.5 córners de Mantova + Menos de 2.5 tarjetas de Mantova → prob. 31%, cuota justa 3.24 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 14.5 faltas de Mantova + Menos de 5.5 córners de Mantova + Menos de 2.5 tarjetas de Mantova + Menos de 5.5 tiros a puerta de Mantova → prob. 20%, cuota justa 5.06  
+
+## Mantova vs Verona — 07/11 · 17:15
+
+👀 candidata · 🇮🇹 Serie B · **Menos de 5.5 córners de Mantova** @ **1.53** (Unibet) · prob 61% vs casas 59% · ventaja -7%
+
+- ❌ Valor: ventaja -7% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
 
 📊 **Escenarios** (goles esperados 1.52 - 1.35)  
 1 39% · X 29% · 2 32%  
