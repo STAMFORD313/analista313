@@ -1050,5 +1050,82 @@
   "estado": "perdida",
   "avisada": true,
   "rev": 2
+ },
+ {
+  "id": "20261106101942746484",
+  "creada": "2026-11-06 10:19:42.746546+00:00",
+  "titulo": "Combinada FC 27 cuota 6.4",
+  "legs": [
+   {
+    "src": "fc",
+    "side": null,
+    "home": "Ganger_29",
+    "away": "Pavlinho19",
+    "start": "2026-11-06 10:24:00+00:00",
+    "txt": "Menos de 3.5 goles de Pavlinho19",
+    "odds": 1.46,
+    "p": 0.6584,
+    "fc": {
+     "k": "ptot",
+     "who": "a",
+     "line": 3.5,
+     "s": "U"
+    }
+   },
+   {
+    "src": "fc",
+    "side": null,
+    "home": "mko1919",
+    "away": "Wboy",
+    "start": "2026-11-06 10:27:00+00:00",
+    "txt": "Menos de 4.5 goles de Wboy",
+    "odds": 1.55,
+    "p": 0.6264,
+    "fc": {
+     "k": "ptot",
+     "who": "a",
+     "line": 4.5,
+     "s": "U"
+    }
+   },
+   {
+    "src": "fc",
+    "side": null,
+    "home": "Wboy",
+    "away": "Bomb1to",
+    "start": "2026-11-06 10:39:00+00:00",
+    "txt": "Menos de 4.5 goles de Bomb1to",
+    "odds": 1.56,
+    "p": 0.6201,
+    "fc": {
+     "k": "ptot",
+     "who": "a",
+     "line": 4.5,
+     "s": "U"
+    }
+   },
+   {
+    "src": "fc",
+    "side": null,
+    "home": "Artrom",
+    "away": "DaVa",
+    "start": "2026-11-06 10:42:00+00:00",
+    "txt": "Más de 3.5 goles",
+    "odds": 1.8,
+    "p": 0.5362,
+    "fc": {
+     "k": "tot",
+     "who": null,
+     "line": 3.5,
+     "s": "O"
+    }
+   }
+  ],
+  "odds": 6.35,
+  "p": 0.13709802213913677,
+  "stake": 1.0,
+  "estado": "pendiente",
+  "avisada": false,
+  "rev": 1
  }
 ]
