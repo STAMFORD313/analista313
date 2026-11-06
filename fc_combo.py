@@ -209,6 +209,7 @@ def candidates(hours=3):
         try:
             old = pd.read_csv(LOG) if LOG.exists() else pd.DataFrame()
             pd.concat([old, pd.DataFrame(log)]).drop_duplicates(["id", "k", "who", "line", "s"], keep="last").to_csv(LOG, index=False)
+            import simulaciones; simulaciones.push("datos: cuotas FC 27 de LeoVegas", LOG)  # para que aprenda con ellas
         except OSError as ex: print("odds_leo", ex)
     print(f"combinada FC 27: {len(games)} partidos, {priced} con cuotas de {BOOK}, {len(cands)} piernas")
     return cands, priced

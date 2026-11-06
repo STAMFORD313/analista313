@@ -45,13 +45,14 @@ def save(bets, msg="chat: apuestas simuladas"):
     push(msg)
 
 
-def push(msg):
-    """Sube data/chat_simuladas.json (menu.yml da permiso de escritura). Sin token (pruebas, local) no hace nada."""
+def push(msg, path=None):
+    """Sube data/chat_simuladas.json (u otro archivo de datos; menu.yml da permiso de escritura). Sin token (pruebas, local) no hace nada."""
     import os
+    path = path or FILE
     if not os.getenv("GITHUB_ACTIONS"): return
     sh = lambda c: subprocess.run(c, shell=True, capture_output=True, text=True)
     sh('git config user.name "analista-bot" && git config user.email "bot@users.noreply.github.com"')
-    sh(f"git add {FILE} && git commit -q -m '{msg}'")
+    sh(f"git add {path} && git commit -q -m '{msg}'")
     for _ in range(4):
         if sh("git pull -q --rebase -X theirs origin main && git push -q origin HEAD:main").returncode == 0: return
         sh("git rebase --abort"); time.sleep(5)
