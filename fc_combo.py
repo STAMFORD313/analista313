@@ -20,6 +20,9 @@ import kambi as K
 OP, BOOK = "leoes", "LeoVegas España"
 W, P_MIN, P_MAX, EDGE = 0.30, 0.40, 0.92, 0.02
 LOG = E.DIR / "odds_leo.csv"
+# piernas vetadas por las cuotas reales de LeoVegas (167 partidos, 6/11): el hándicap a favor del visitante acierta menos
+# de lo que dice la propia casa en las dos mitades (76 % vs 78 % y 75 % vs 79 %; ROI −12 % y −15 %), el local no.
+VETO = {("hcp", "a")}
 _MODEL = {}
 
 
@@ -234,7 +237,7 @@ def candidates(hours=3, push=True):
                             "k": mk["k"], "who": mk["who"], "line": mk["line"], "s": s, "odds": o, "p_modelo": round(pm, 4), "p_casa": round(pc, 4)})
                 if not (P_MIN <= q <= P_MAX): continue
                 if not (pm >= 0.5 and pc >= 0.45 and coherent(mk, s, r1, r2, hh)): continue
-                if (mk["k"], s) in banned: continue  # este tipo de pierna ya ha fallado más de lo esperado  # con lógica: modelo, casa y medias de acuerdo
+                if (mk["k"], s) in banned or (mk["k"], s) in VETO: continue  # este tipo de pierna ya ha fallado más de lo esperado  # con lógica: modelo, casa y medias de acuerdo
                 c = (q * o - 1, q, o, mk, s, pm, pc)
                 if best is None or c[0] > best[0]: best = c
         if not best: continue

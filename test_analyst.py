@@ -1623,6 +1623,7 @@ finally:
     _FCC.LOG = _log0
     if _bk is None: _fs0.unlink(missing_ok=True)
     else: _fs0.write_text(_bk)
+assert ("hcp", "a") in _FCC.VETO and ("hcp", "h") not in _FCC.VETO
 print("ok FC 27 aprende de sus fallos")
 
 # peso modelo/casa aprendido de LeoVegas: con 250 partidos donde el modelo acierta y la casa no, sube el peso del modelo
