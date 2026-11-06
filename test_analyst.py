@@ -1609,6 +1609,8 @@ assert not _FCC.coherent({"k": "tot", "line": 4.5}, "O", _rA, _rB, [(1, 2), (2, 
 assert _FCC.coherent({"k": "tot", "line": 4.5}, "O", _rA, _rB, [(4, 2), (3, 3), (2, 4), (5, 1)])
 assert not _FCC.coherent({"k": "ptot", "who": "h", "line": 2.5}, "O", _rA, _rB, [(1, 4), (2, 3), (1, 1), (3, 2)])
 _hd = pd.DataFrame({"p1": ["a", "b", "a", "b", "c"], "p2": ["b", "a", "b", "a", "a"], "s1": [1, 2, 3, 4, 9], "s2": [5, 6, 7, 8, 9]})
+assert not _FCC.coherent({"k": "hcp", "line": -1.5}, "h", {"gf": 5, "ga": 1, "n": 10}, {"gf": 1, "ga": 5, "n": 10}, [(1, 2), (2, 2), (3, 1), (0, 1)])
+assert _FCC.coherent({"k": "hcp", "line": -1.5}, "h", {"gf": 5, "ga": 1, "n": 10}, {"gf": 1, "ga": 5, "n": 10}, [(4, 1), (5, 2), (3, 1), (2, 0)])
 assert _FCC.h2h(_hd, "a", "b") == [(1, 5), (6, 2), (3, 7), (8, 4)] and _FCC.h2h(_hd, "a", "c") is None
 print("ok combinada FC 27 con lógica")
 

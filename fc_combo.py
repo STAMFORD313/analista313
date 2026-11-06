@@ -132,6 +132,9 @@ def coherent(mk, s, r1, r2, h=None):
         g = [x + y for x, y in h] if mk["k"] == "tot" else [x if mk["who"] == "h" else y for x, y in h]
         m = sum(g) / len(g)
         if (s == "O" and m <= mk["line"]) or (s == "U" and m >= mk["line"]): return False
+    if h and mk["k"] == "hcp":  # hándicap: la diferencia media en sus duelos tampoco debe llevar la contraria (backtest: ~56 % vs ~70 %)
+        m = sum(x - y for x, y in h) / len(h) + mk["line"]
+        if (s == "h" and m <= 0) or (s != "h" and m >= 0): return False
     e1, e2 = (r1["gf"] + r2["ga"]) / 2, (r2["gf"] + r1["ga"]) / 2  # goles que suele haber de cada uno en este cruce
     if mk["k"] == "tot": t = e1 + e2; return t >= mk["line"] + 0.5 if s == "O" else t <= mk["line"] - 1.0
     if mk["k"] == "ptot":
