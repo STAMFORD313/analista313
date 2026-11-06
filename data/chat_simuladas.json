@@ -608,7 +608,10 @@
     "away": "Boston Bruins",
     "txt": "Gana Boston Bruins",
     "odds": 1.926,
-    "p": 0.54545
+    "p": 0.54545,
+    "ok": true,
+    "por": "acabó 2-6",
+    "clv": -0.077
    },
    {
     "src": "esports:dota2",
@@ -654,7 +657,10 @@
     "away": "Boston Bruins",
     "txt": "Gana Boston Bruins",
     "odds": 1.926,
-    "p": 0.54545
+    "p": 0.54545,
+    "ok": true,
+    "por": "acabó 2-6",
+    "clv": -0.077
    },
    {
     "src": "esports:dota2",
