@@ -2002,7 +2002,10 @@
   "fc|2364776",
   "fc|2365090",
   "fc|2364781",
-  "fc|2365994"
+  "fc|2365994",
+  "fc|2365173",
+  "fc|2365092",
+  "fc|2365091"
  ],
  "signals": [
   {
@@ -2779,29 +2782,6 @@
    "captured": "2026-11-03T06:59",
    "version": "7948daf",
    "bajas": "Louisiana Ragin' Cajuns: sin bajas; Akron Zips: sin bajas",
-   "logged": true
-  },
-  {
-   "market": "home",
-   "odds": 1.8,
-   "book": "DraftKings",
-   "p": 0.6,
-   "implied": 0.532,
-   "edge": 0.08,
-   "key": "cbb|2026-11-03|Hawai'i Rainbow Warriors|Seattle U Redhawks",
-   "match": "Hawai'i Rainbow Warriors vs Seattle U Redhawks",
-   "pick": "Hawai'i Rainbow Warriors",
-   "start": "2026-11-03T04:59Z",
-   "league": "🏀 NCAA Basketball",
-   "sport": "🏀",
-   "context": "Hawai'i Rainbow Warriors vs Seattle U Redhawks (🏀 NCAA Basketball, baloncesto). Modelo Elo con 10 años de historial ajustado por bajas: Hawai'i Rainbow Warriors 67%, Seattle U Redhawks 33%. Cuotas DraftKings 1.8/2.05, hándicap HAW -1.5, total 144.5. Forma Hawai'i Rainbow Warriors ✅❌✅✅❌, Seattle U Redhawks ✅✅❌✅❌. H2H sin precedentes. Bajas Hawai'i Rainbow Warriors: ninguna. Bajas Seattle U Redhawks: ninguna.",
-   "considered": true,
-   "placed": false,
-   "captured": "2026-11-03T06:59",
-   "version": "7948daf",
-   "bajas": "Hawai'i Rainbow Warriors: sin bajas; Seattle U Redhawks: sin bajas",
-   "result": true,
-   "score": "74-73",
    "logged": true
   },
   {
@@ -3701,7 +3681,11 @@
    "version": "7948daf",
    "bajas": "Southern Miss Golden Eagles: sin bajas; James Madison Dukes: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "23-54",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "spa",
@@ -3722,7 +3706,11 @@
    "version": "7948daf",
    "bajas": "Southern Miss Golden Eagles: sin bajas; James Madison Dukes: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "23-54",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "away",
@@ -3742,7 +3730,11 @@
    "version": "7948daf",
    "bajas": "Southern Miss Golden Eagles: sin bajas; James Madison Dukes: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "23-54",
+   "close_p": 0.8205,
+   "logged": true
   },
   {
    "market": "home",
