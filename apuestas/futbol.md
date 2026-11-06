@@ -1,6 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 06/11/2026 21:08 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 06/11/2026 21:25 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Famalicao vs Arouca — 06/11 · 21:45
 
@@ -10546,6 +10546,7 @@ Faltas 9.2 - 7.3: total +21.5 13% · Excelsior +10.5 32% · Go Ahead Eagles +11.
 Tiros a puerta 4.9 - 5.0: total +10.5 41% · Excelsior +5.5 37% · Go Ahead Eagles +4.5 55%  
 🧩 Crear apuesta: Menos de 11.5 faltas de Go Ahead Eagles + Menos de 3.5 tarjetas + Menos de 5.5 tiros a puerta de Excelsior → prob. 40%, cuota justa 2.51 (solo vale si la casa paga más)  
 🚀 Combinada larga: Menos de 11.5 faltas de Go Ahead Eagles + Menos de 3.5 tarjetas + Menos de 5.5 tiros a puerta de Excelsior + Menos de 5.5 córners de Excelsior + Más de 2.5 goles → prob. 14%, cuota justa 7.29  
+🎯 No simulada (con cuota: Menos de 3.5 tarjetas + Menos de 5.5 córners de Excelsior): cuota Unibet aprox. 2.00 (producto de piernas) · prob. 41% · ventaja -17%  
 
 ## St Mirren vs Rangers — 07/11 · 21:00
 
@@ -10596,6 +10597,469 @@ Faltas 14.2 - 9.9: total +25.5 39% · Valencia +12.5 65% · Real Madrid +12.5 21
 Tiros a puerta 3.1 - 5.8: total +9.5 40% · Valencia +4.5 21% · Real Madrid +4.5 66%  
 🧩 Crear apuesta: Menos de 12.5 faltas de Real Madrid + Menos de 4.5 tiros a puerta de Valencia + Menos de 5.5 córners de Valencia → prob. 49%, cuota justa 2.02 (solo vale si la casa paga más)  
 🚀 Combinada larga: Menos de 12.5 faltas de Real Madrid + Menos de 4.5 tiros a puerta de Valencia + Menos de 5.5 córners de Valencia + Menos de 2.5 tarjetas de Real Madrid → prob. 33%, cuota justa 3.00  
+🎯 No simulada (con cuota: Menos de 4.5 tiros a puerta de Valencia + Menos de 5.5 córners de Valencia): cuota Unibet aprox. 1.44 (producto de piernas) · prob. 63% · ventaja -9%  
+
+## Excelsior vs Go Ahead Eagles — 07/11 · 21:00
+
+👀 candidata · 🇳🇱 Eredivisie · **Menos de 11.5 córners** @ **1.38** (Unibet) · prob 68% vs casas 67% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.47 - 1.56)  
+1 30% · X 28% · 2 42%  
+1X 58% · X2 70% · 12 72%  
++1.5 81% · +2.5 58% · +3.5 36% · Ambos marcan 61%  
+Marcadores: 1-1 12% · 1-2 9% · 2-1 8% · 0-1 7%  
+🔎 **Claves**  
+• Forma: Excelsior ➖❌❌❌❌ | Go Ahead Eagles ➖➖❌✅❌  
+• H2H: 10 desde 2014: 2V-3E-5D · 2.5 goles/partido · +2.5 en 50%  
+• Bajas: Excelsior: sin bajas; Go Ahead Eagles: 1 fuera, 1 duda (Pim Saathof)  
+• Favorito de las casas: Go Ahead Eagles @ 2.35  
+📐 **Estadísticas esperadas**  
+Córners 5.1 - 4.9: total +10.5 41% · Excelsior +5.5 40% · Go Ahead Eagles +4.5 51%  
+Tarjetas 1.3 - 1.5: total +3.5 32% · Excelsior +1.5 38% · Go Ahead Eagles +1.5 45%  
+Faltas 9.2 - 7.3: total +21.5 13% · Excelsior +10.5 32% · Go Ahead Eagles +11.5 7%  
+Tiros a puerta 4.9 - 5.0: total +10.5 41% · Excelsior +5.5 37% · Go Ahead Eagles +4.5 55%  
+🧩 Crear apuesta: Menos de 11.5 faltas de Go Ahead Eagles + Menos de 3.5 tarjetas + Menos de 5.5 tiros a puerta de Excelsior → prob. 40%, cuota justa 2.51 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 11.5 faltas de Go Ahead Eagles + Menos de 3.5 tarjetas + Menos de 5.5 tiros a puerta de Excelsior + Menos de 5.5 córners de Excelsior + Más de 2.5 goles → prob. 14%, cuota justa 7.29  
+🎯 No simulada (con cuota: Menos de 3.5 tarjetas + Menos de 5.5 córners de Excelsior): cuota Unibet aprox. 2.00 (producto de piernas) · prob. 41% · ventaja -17%  
+
+## Excelsior vs Go Ahead Eagles — 07/11 · 21:00
+
+👀 candidata · 🇳🇱 Eredivisie · **Más de 7.5 córners** @ **1.24** (Unibet) · prob 75% vs casas 74% · ventaja -7%
+
+- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.47 - 1.56)  
+1 30% · X 28% · 2 42%  
+1X 58% · X2 70% · 12 72%  
++1.5 81% · +2.5 58% · +3.5 36% · Ambos marcan 61%  
+Marcadores: 1-1 12% · 1-2 9% · 2-1 8% · 0-1 7%  
+🔎 **Claves**  
+• Forma: Excelsior ➖❌❌❌❌ | Go Ahead Eagles ➖➖❌✅❌  
+• H2H: 10 desde 2014: 2V-3E-5D · 2.5 goles/partido · +2.5 en 50%  
+• Bajas: Excelsior: sin bajas; Go Ahead Eagles: 1 fuera, 1 duda (Pim Saathof)  
+• Favorito de las casas: Go Ahead Eagles @ 2.35  
+📐 **Estadísticas esperadas**  
+Córners 5.1 - 4.9: total +10.5 41% · Excelsior +5.5 40% · Go Ahead Eagles +4.5 51%  
+Tarjetas 1.3 - 1.5: total +3.5 32% · Excelsior +1.5 38% · Go Ahead Eagles +1.5 45%  
+Faltas 9.2 - 7.3: total +21.5 13% · Excelsior +10.5 32% · Go Ahead Eagles +11.5 7%  
+Tiros a puerta 4.9 - 5.0: total +10.5 41% · Excelsior +5.5 37% · Go Ahead Eagles +4.5 55%  
+🧩 Crear apuesta: Menos de 11.5 faltas de Go Ahead Eagles + Menos de 3.5 tarjetas + Menos de 5.5 tiros a puerta de Excelsior → prob. 40%, cuota justa 2.51 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 11.5 faltas de Go Ahead Eagles + Menos de 3.5 tarjetas + Menos de 5.5 tiros a puerta de Excelsior + Menos de 5.5 córners de Excelsior + Más de 2.5 goles → prob. 14%, cuota justa 7.29  
+🎯 No simulada (con cuota: Menos de 3.5 tarjetas + Menos de 5.5 córners de Excelsior): cuota Unibet aprox. 2.00 (producto de piernas) · prob. 41% · ventaja -17%  
+
+## Excelsior vs Go Ahead Eagles — 07/11 · 21:00
+
+👀 candidata · 🇳🇱 Eredivisie · **Más de 4.5 córners de Excelsior** @ **1.83** (Unibet) · prob 52% vs casas 50% · ventaja -5%
+
+- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.47 - 1.56)  
+1 30% · X 28% · 2 42%  
+1X 58% · X2 70% · 12 72%  
++1.5 81% · +2.5 58% · +3.5 36% · Ambos marcan 61%  
+Marcadores: 1-1 12% · 1-2 9% · 2-1 8% · 0-1 7%  
+🔎 **Claves**  
+• Forma: Excelsior ➖❌❌❌❌ | Go Ahead Eagles ➖➖❌✅❌  
+• H2H: 10 desde 2014: 2V-3E-5D · 2.5 goles/partido · +2.5 en 50%  
+• Bajas: Excelsior: sin bajas; Go Ahead Eagles: 1 fuera, 1 duda (Pim Saathof)  
+• Favorito de las casas: Go Ahead Eagles @ 2.35  
+📐 **Estadísticas esperadas**  
+Córners 5.1 - 4.9: total +10.5 41% · Excelsior +5.5 40% · Go Ahead Eagles +4.5 51%  
+Tarjetas 1.3 - 1.5: total +3.5 32% · Excelsior +1.5 38% · Go Ahead Eagles +1.5 45%  
+Faltas 9.2 - 7.3: total +21.5 13% · Excelsior +10.5 32% · Go Ahead Eagles +11.5 7%  
+Tiros a puerta 4.9 - 5.0: total +10.5 41% · Excelsior +5.5 37% · Go Ahead Eagles +4.5 55%  
+🧩 Crear apuesta: Menos de 11.5 faltas de Go Ahead Eagles + Menos de 3.5 tarjetas + Menos de 5.5 tiros a puerta de Excelsior → prob. 40%, cuota justa 2.51 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 11.5 faltas de Go Ahead Eagles + Menos de 3.5 tarjetas + Menos de 5.5 tiros a puerta de Excelsior + Menos de 5.5 córners de Excelsior + Más de 2.5 goles → prob. 14%, cuota justa 7.29  
+🎯 No simulada (con cuota: Menos de 3.5 tarjetas + Menos de 5.5 córners de Excelsior): cuota Unibet aprox. 2.00 (producto de piernas) · prob. 41% · ventaja -17%  
+
+## Excelsior vs Go Ahead Eagles — 07/11 · 21:00
+
+👀 candidata · 🇳🇱 Eredivisie · **Menos de 6.5 córners de Excelsior** @ **1.24** (Unibet) · prob 73% vs casas 74% · ventaja -9%
+
+- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.47 - 1.56)  
+1 30% · X 28% · 2 42%  
+1X 58% · X2 70% · 12 72%  
++1.5 81% · +2.5 58% · +3.5 36% · Ambos marcan 61%  
+Marcadores: 1-1 12% · 1-2 9% · 2-1 8% · 0-1 7%  
+🔎 **Claves**  
+• Forma: Excelsior ➖❌❌❌❌ | Go Ahead Eagles ➖➖❌✅❌  
+• H2H: 10 desde 2014: 2V-3E-5D · 2.5 goles/partido · +2.5 en 50%  
+• Bajas: Excelsior: sin bajas; Go Ahead Eagles: 1 fuera, 1 duda (Pim Saathof)  
+• Favorito de las casas: Go Ahead Eagles @ 2.35  
+📐 **Estadísticas esperadas**  
+Córners 5.1 - 4.9: total +10.5 41% · Excelsior +5.5 40% · Go Ahead Eagles +4.5 51%  
+Tarjetas 1.3 - 1.5: total +3.5 32% · Excelsior +1.5 38% · Go Ahead Eagles +1.5 45%  
+Faltas 9.2 - 7.3: total +21.5 13% · Excelsior +10.5 32% · Go Ahead Eagles +11.5 7%  
+Tiros a puerta 4.9 - 5.0: total +10.5 41% · Excelsior +5.5 37% · Go Ahead Eagles +4.5 55%  
+🧩 Crear apuesta: Menos de 11.5 faltas de Go Ahead Eagles + Menos de 3.5 tarjetas + Menos de 5.5 tiros a puerta de Excelsior → prob. 40%, cuota justa 2.51 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 11.5 faltas de Go Ahead Eagles + Menos de 3.5 tarjetas + Menos de 5.5 tiros a puerta de Excelsior + Menos de 5.5 córners de Excelsior + Más de 2.5 goles → prob. 14%, cuota justa 7.29  
+🎯 No simulada (con cuota: Menos de 3.5 tarjetas + Menos de 5.5 córners de Excelsior): cuota Unibet aprox. 2.00 (producto de piernas) · prob. 41% · ventaja -17%  
+
+## Excelsior vs Go Ahead Eagles — 07/11 · 21:00
+
+👀 candidata · 🇳🇱 Eredivisie · **Más de 3.5 córners de Go Ahead Eagles** @ **1.34** (Unibet) · prob 67% vs casas 68% · ventaja -10%
+
+- ❌ Valor: ventaja -10% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.47 - 1.56)  
+1 30% · X 28% · 2 42%  
+1X 58% · X2 70% · 12 72%  
++1.5 81% · +2.5 58% · +3.5 36% · Ambos marcan 61%  
+Marcadores: 1-1 12% · 1-2 9% · 2-1 8% · 0-1 7%  
+🔎 **Claves**  
+• Forma: Excelsior ➖❌❌❌❌ | Go Ahead Eagles ➖➖❌✅❌  
+• H2H: 10 desde 2014: 2V-3E-5D · 2.5 goles/partido · +2.5 en 50%  
+• Bajas: Excelsior: sin bajas; Go Ahead Eagles: 1 fuera, 1 duda (Pim Saathof)  
+• Favorito de las casas: Go Ahead Eagles @ 2.35  
+📐 **Estadísticas esperadas**  
+Córners 5.1 - 4.9: total +10.5 41% · Excelsior +5.5 40% · Go Ahead Eagles +4.5 51%  
+Tarjetas 1.3 - 1.5: total +3.5 32% · Excelsior +1.5 38% · Go Ahead Eagles +1.5 45%  
+Faltas 9.2 - 7.3: total +21.5 13% · Excelsior +10.5 32% · Go Ahead Eagles +11.5 7%  
+Tiros a puerta 4.9 - 5.0: total +10.5 41% · Excelsior +5.5 37% · Go Ahead Eagles +4.5 55%  
+🧩 Crear apuesta: Menos de 11.5 faltas de Go Ahead Eagles + Menos de 3.5 tarjetas + Menos de 5.5 tiros a puerta de Excelsior → prob. 40%, cuota justa 2.51 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 11.5 faltas de Go Ahead Eagles + Menos de 3.5 tarjetas + Menos de 5.5 tiros a puerta de Excelsior + Menos de 5.5 córners de Excelsior + Más de 2.5 goles → prob. 14%, cuota justa 7.29  
+🎯 No simulada (con cuota: Menos de 3.5 tarjetas + Menos de 5.5 córners de Excelsior): cuota Unibet aprox. 2.00 (producto de piernas) · prob. 41% · ventaja -17%  
+
+## Excelsior vs Go Ahead Eagles — 07/11 · 21:00
+
+👀 candidata · 🇳🇱 Eredivisie · **Menos de 5.5 córners de Go Ahead Eagles** @ **1.57** (Unibet) · prob 61% vs casas 59% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.47 - 1.56)  
+1 30% · X 28% · 2 42%  
+1X 58% · X2 70% · 12 72%  
++1.5 81% · +2.5 58% · +3.5 36% · Ambos marcan 61%  
+Marcadores: 1-1 12% · 1-2 9% · 2-1 8% · 0-1 7%  
+🔎 **Claves**  
+• Forma: Excelsior ➖❌❌❌❌ | Go Ahead Eagles ➖➖❌✅❌  
+• H2H: 10 desde 2014: 2V-3E-5D · 2.5 goles/partido · +2.5 en 50%  
+• Bajas: Excelsior: sin bajas; Go Ahead Eagles: 1 fuera, 1 duda (Pim Saathof)  
+• Favorito de las casas: Go Ahead Eagles @ 2.35  
+📐 **Estadísticas esperadas**  
+Córners 5.1 - 4.9: total +10.5 41% · Excelsior +5.5 40% · Go Ahead Eagles +4.5 51%  
+Tarjetas 1.3 - 1.5: total +3.5 32% · Excelsior +1.5 38% · Go Ahead Eagles +1.5 45%  
+Faltas 9.2 - 7.3: total +21.5 13% · Excelsior +10.5 32% · Go Ahead Eagles +11.5 7%  
+Tiros a puerta 4.9 - 5.0: total +10.5 41% · Excelsior +5.5 37% · Go Ahead Eagles +4.5 55%  
+🧩 Crear apuesta: Menos de 11.5 faltas de Go Ahead Eagles + Menos de 3.5 tarjetas + Menos de 5.5 tiros a puerta de Excelsior → prob. 40%, cuota justa 2.51 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 11.5 faltas de Go Ahead Eagles + Menos de 3.5 tarjetas + Menos de 5.5 tiros a puerta de Excelsior + Menos de 5.5 córners de Excelsior + Más de 2.5 goles → prob. 14%, cuota justa 7.29  
+🎯 No simulada (con cuota: Menos de 3.5 tarjetas + Menos de 5.5 córners de Excelsior): cuota Unibet aprox. 2.00 (producto de piernas) · prob. 41% · ventaja -17%  
+
+## St Mirren vs Rangers — 07/11 · 21:00
+
+👀 candidata · 🏴 Premiership escocesa · **Más de 9.5 córners** @ **1.54** (Unibet) · prob 62% vs casas 60% · ventaja -5%
+
+- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 0.85 - 1.87)  
+1 13% · X 22% · 2 66%  
+1X 34% · X2 87% · 12 78%  
++1.5 76% · +2.5 51% · +3.5 29% · Ambos marcan 49%  
+Marcadores: 0-1 12% · 0-2 12% · 1-1 11% · 1-2 10%  
+🔎 **Claves**  
+• Forma: St Mirren ❌❌✅➖❌ | Rangers ✅✅➖✅➖  
+• H2H: 45 desde 2006: 4V-5E-36D · 2.7 goles/partido · +2.5 en 56%  
+• Bajas: St Mirren: 0 fuera, 3 duda; Rangers: 1 fuera, 4 duda (Lawrence Shankland)  
+• Favorito de las casas: Rangers @ 1.42  
+📐 **Estadísticas esperadas**  
+Córners 4.1 - 6.9: total +11.5 42% · St Mirren +6.5 15% · Rangers +4.5 74%  
+Tarjetas 2.5 - 1.8: total +4.5 43% · St Mirren +2.5 45% · Rangers +2.5 28%  
+Faltas 13.4 - 11.6: total +23.5 59% · St Mirren +12.5 57% · Rangers +12.5 38%  
+Tiros a puerta 3.4 - 6.2: total +9.5 49% · St Mirren +5.5 14% · Rangers +4.5 71%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de St Mirren + Menos de 6.5 córners de St Mirren + Menos de 2.5 tarjetas de Rangers → prob. 55%, cuota justa 1.83 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de St Mirren + Menos de 6.5 córners de St Mirren + Menos de 2.5 tarjetas de Rangers + Menos de 12.5 faltas de Rangers → prob. 37%, cuota justa 2.74  
+
+## St Mirren vs Rangers — 07/11 · 21:00
+
+👀 candidata · 🏴 Premiership escocesa · **Menos de 13.5 córners** @ **1.20** (Unibet) · prob 77% vs casas 76% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 0.85 - 1.87)  
+1 13% · X 22% · 2 66%  
+1X 34% · X2 87% · 12 78%  
++1.5 76% · +2.5 51% · +3.5 29% · Ambos marcan 49%  
+Marcadores: 0-1 12% · 0-2 12% · 1-1 11% · 1-2 10%  
+🔎 **Claves**  
+• Forma: St Mirren ❌❌✅➖❌ | Rangers ✅✅➖✅➖  
+• H2H: 45 desde 2006: 4V-5E-36D · 2.7 goles/partido · +2.5 en 56%  
+• Bajas: St Mirren: 0 fuera, 3 duda; Rangers: 1 fuera, 4 duda (Lawrence Shankland)  
+• Favorito de las casas: Rangers @ 1.42  
+📐 **Estadísticas esperadas**  
+Córners 4.1 - 6.9: total +11.5 42% · St Mirren +6.5 15% · Rangers +4.5 74%  
+Tarjetas 2.5 - 1.8: total +4.5 43% · St Mirren +2.5 45% · Rangers +2.5 28%  
+Faltas 13.4 - 11.6: total +23.5 59% · St Mirren +12.5 57% · Rangers +12.5 38%  
+Tiros a puerta 3.4 - 6.2: total +9.5 49% · St Mirren +5.5 14% · Rangers +4.5 71%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de St Mirren + Menos de 6.5 córners de St Mirren + Menos de 2.5 tarjetas de Rangers → prob. 55%, cuota justa 1.83 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de St Mirren + Menos de 6.5 córners de St Mirren + Menos de 2.5 tarjetas de Rangers + Menos de 12.5 faltas de Rangers → prob. 37%, cuota justa 2.74  
+
+## St Mirren vs Rangers — 07/11 · 21:00
+
+👀 candidata · 🏴 Premiership escocesa · **Más de 4.5 córners de Rangers** @ **1.23** (Unibet) · prob 75% vs casas 75% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 0.85 - 1.87)  
+1 13% · X 22% · 2 66%  
+1X 34% · X2 87% · 12 78%  
++1.5 76% · +2.5 51% · +3.5 29% · Ambos marcan 49%  
+Marcadores: 0-1 12% · 0-2 12% · 1-1 11% · 1-2 10%  
+🔎 **Claves**  
+• Forma: St Mirren ❌❌✅➖❌ | Rangers ✅✅➖✅➖  
+• H2H: 45 desde 2006: 4V-5E-36D · 2.7 goles/partido · +2.5 en 56%  
+• Bajas: St Mirren: 0 fuera, 3 duda; Rangers: 1 fuera, 4 duda (Lawrence Shankland)  
+• Favorito de las casas: Rangers @ 1.42  
+📐 **Estadísticas esperadas**  
+Córners 4.1 - 6.9: total +11.5 42% · St Mirren +6.5 15% · Rangers +4.5 74%  
+Tarjetas 2.5 - 1.8: total +4.5 43% · St Mirren +2.5 45% · Rangers +2.5 28%  
+Faltas 13.4 - 11.6: total +23.5 59% · St Mirren +12.5 57% · Rangers +12.5 38%  
+Tiros a puerta 3.4 - 6.2: total +9.5 49% · St Mirren +5.5 14% · Rangers +4.5 71%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de St Mirren + Menos de 6.5 córners de St Mirren + Menos de 2.5 tarjetas de Rangers → prob. 55%, cuota justa 1.83 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de St Mirren + Menos de 6.5 córners de St Mirren + Menos de 2.5 tarjetas de Rangers + Menos de 12.5 faltas de Rangers → prob. 37%, cuota justa 2.74  
+
+## St Mirren vs Rangers — 07/11 · 21:00
+
+👀 candidata · 🏴 Premiership escocesa · **Menos de 7.5 córners de Rangers** @ **1.62** (Unibet) · prob 60% vs casas 57% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 0.85 - 1.87)  
+1 13% · X 22% · 2 66%  
+1X 34% · X2 87% · 12 78%  
++1.5 76% · +2.5 51% · +3.5 29% · Ambos marcan 49%  
+Marcadores: 0-1 12% · 0-2 12% · 1-1 11% · 1-2 10%  
+🔎 **Claves**  
+• Forma: St Mirren ❌❌✅➖❌ | Rangers ✅✅➖✅➖  
+• H2H: 45 desde 2006: 4V-5E-36D · 2.7 goles/partido · +2.5 en 56%  
+• Bajas: St Mirren: 0 fuera, 3 duda; Rangers: 1 fuera, 4 duda (Lawrence Shankland)  
+• Favorito de las casas: Rangers @ 1.42  
+📐 **Estadísticas esperadas**  
+Córners 4.1 - 6.9: total +11.5 42% · St Mirren +6.5 15% · Rangers +4.5 74%  
+Tarjetas 2.5 - 1.8: total +4.5 43% · St Mirren +2.5 45% · Rangers +2.5 28%  
+Faltas 13.4 - 11.6: total +23.5 59% · St Mirren +12.5 57% · Rangers +12.5 38%  
+Tiros a puerta 3.4 - 6.2: total +9.5 49% · St Mirren +5.5 14% · Rangers +4.5 71%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de St Mirren + Menos de 6.5 córners de St Mirren + Menos de 2.5 tarjetas de Rangers → prob. 55%, cuota justa 1.83 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de St Mirren + Menos de 6.5 córners de St Mirren + Menos de 2.5 tarjetas de Rangers + Menos de 12.5 faltas de Rangers → prob. 37%, cuota justa 2.74  
+
+## St Mirren vs Rangers — 07/11 · 21:00
+
+👀 candidata · 🏴 Premiership escocesa · **Más de 4.5 córners de St Mirren** @ **3.00** (Unibet) · prob 35% vs casas 31% · ventaja +4%
+
+- ❌ Valor: ventaja +4% (mín. 8% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 0.85 - 1.87)  
+1 13% · X 22% · 2 66%  
+1X 34% · X2 87% · 12 78%  
++1.5 76% · +2.5 51% · +3.5 29% · Ambos marcan 49%  
+Marcadores: 0-1 12% · 0-2 12% · 1-1 11% · 1-2 10%  
+🔎 **Claves**  
+• Forma: St Mirren ❌❌✅➖❌ | Rangers ✅✅➖✅➖  
+• H2H: 45 desde 2006: 4V-5E-36D · 2.7 goles/partido · +2.5 en 56%  
+• Bajas: St Mirren: 0 fuera, 3 duda; Rangers: 1 fuera, 4 duda (Lawrence Shankland)  
+• Favorito de las casas: Rangers @ 1.42  
+📐 **Estadísticas esperadas**  
+Córners 4.1 - 6.9: total +11.5 42% · St Mirren +6.5 15% · Rangers +4.5 74%  
+Tarjetas 2.5 - 1.8: total +4.5 43% · St Mirren +2.5 45% · Rangers +2.5 28%  
+Faltas 13.4 - 11.6: total +23.5 59% · St Mirren +12.5 57% · Rangers +12.5 38%  
+Tiros a puerta 3.4 - 6.2: total +9.5 49% · St Mirren +5.5 14% · Rangers +4.5 71%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de St Mirren + Menos de 6.5 córners de St Mirren + Menos de 2.5 tarjetas de Rangers → prob. 55%, cuota justa 1.83 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de St Mirren + Menos de 6.5 córners de St Mirren + Menos de 2.5 tarjetas de Rangers + Menos de 12.5 faltas de Rangers → prob. 37%, cuota justa 2.74  
+
+## St Mirren vs Rangers — 07/11 · 21:00
+
+👀 candidata · 🏴 Premiership escocesa · **Menos de 4.5 córners de St Mirren** @ **1.34** (Unibet) · prob 65% vs casas 69% · ventaja -12%
+
+- ❌ Valor: ventaja -12% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 0.85 - 1.87)  
+1 13% · X 22% · 2 66%  
+1X 34% · X2 87% · 12 78%  
++1.5 76% · +2.5 51% · +3.5 29% · Ambos marcan 49%  
+Marcadores: 0-1 12% · 0-2 12% · 1-1 11% · 1-2 10%  
+🔎 **Claves**  
+• Forma: St Mirren ❌❌✅➖❌ | Rangers ✅✅➖✅➖  
+• H2H: 45 desde 2006: 4V-5E-36D · 2.7 goles/partido · +2.5 en 56%  
+• Bajas: St Mirren: 0 fuera, 3 duda; Rangers: 1 fuera, 4 duda (Lawrence Shankland)  
+• Favorito de las casas: Rangers @ 1.42  
+📐 **Estadísticas esperadas**  
+Córners 4.1 - 6.9: total +11.5 42% · St Mirren +6.5 15% · Rangers +4.5 74%  
+Tarjetas 2.5 - 1.8: total +4.5 43% · St Mirren +2.5 45% · Rangers +2.5 28%  
+Faltas 13.4 - 11.6: total +23.5 59% · St Mirren +12.5 57% · Rangers +12.5 38%  
+Tiros a puerta 3.4 - 6.2: total +9.5 49% · St Mirren +5.5 14% · Rangers +4.5 71%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de St Mirren + Menos de 6.5 córners de St Mirren + Menos de 2.5 tarjetas de Rangers → prob. 55%, cuota justa 1.83 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de St Mirren + Menos de 6.5 córners de St Mirren + Menos de 2.5 tarjetas de Rangers + Menos de 12.5 faltas de Rangers → prob. 37%, cuota justa 2.74  
+
+## Valencia vs Real Madrid — 07/11 · 21:00
+
+👀 candidata · 🇪🇸 LaLiga · **Más de 2.5 córners de Valencia** @ **1.38** (Unibet) · prob 68% vs casas 67% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 0.88 - 1.69)  
+1 14% · X 24% · 2 62%  
+1X 38% · X2 86% · 12 76%  
++1.5 73% · +2.5 47% · +3.5 26% · Ambos marcan 48%  
+Marcadores: 0-1 12% · 1-1 12% · 0-2 11% · 1-2 10%  
+🔎 **Claves**  
+• Forma: Valencia ❌➖➖❌✅ | Real Madrid ❌✅✅✅✅  
+• H2H: 42 desde 2005: 9V-9E-24D · 3.4 goles/partido · +2.5 en 69%  
+• Bajas: Valencia: 3 fuera, 1 duda (Jose Copete, Diego Lopez, Sergi Canos); Real Madrid: 2 fuera, 2 duda (Vinicius Junior, Rodrygo)  
+• Favorito de las casas: Real Madrid @ 1.30  
+📐 **Estadísticas esperadas**  
+Córners 3.9 - 6.0: total +10.5 41% · Valencia +5.5 23% · Real Madrid +4.5 65%  
+Tarjetas 2.7 - 2.2: total +4.5 53% · Valencia +2.5 50% · Real Madrid +2.5 39%  
+Faltas 14.2 - 9.9: total +25.5 39% · Valencia +12.5 65% · Real Madrid +12.5 21%  
+Tiros a puerta 3.1 - 5.8: total +9.5 40% · Valencia +4.5 21% · Real Madrid +4.5 66%  
+🧩 Crear apuesta: Menos de 12.5 faltas de Real Madrid + Menos de 4.5 tiros a puerta de Valencia + Menos de 5.5 córners de Valencia → prob. 49%, cuota justa 2.02 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 12.5 faltas de Real Madrid + Menos de 4.5 tiros a puerta de Valencia + Menos de 5.5 córners de Valencia + Menos de 2.5 tarjetas de Real Madrid → prob. 33%, cuota justa 3.00  
+🎯 No simulada (con cuota: Menos de 4.5 tiros a puerta de Valencia + Menos de 5.5 córners de Valencia): cuota Unibet aprox. 1.44 (producto de piernas) · prob. 63% · ventaja -9%  
+
+## Valencia vs Real Madrid — 07/11 · 21:00
+
+👀 candidata · 🇪🇸 LaLiga · **Menos de 5.5 córners de Valencia** @ **1.20** (Unibet) · prob 77% vs casas 76% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 0.88 - 1.69)  
+1 14% · X 24% · 2 62%  
+1X 38% · X2 86% · 12 76%  
++1.5 73% · +2.5 47% · +3.5 26% · Ambos marcan 48%  
+Marcadores: 0-1 12% · 1-1 12% · 0-2 11% · 1-2 10%  
+🔎 **Claves**  
+• Forma: Valencia ❌➖➖❌✅ | Real Madrid ❌✅✅✅✅  
+• H2H: 42 desde 2005: 9V-9E-24D · 3.4 goles/partido · +2.5 en 69%  
+• Bajas: Valencia: 3 fuera, 1 duda (Jose Copete, Diego Lopez, Sergi Canos); Real Madrid: 2 fuera, 2 duda (Vinicius Junior, Rodrygo)  
+• Favorito de las casas: Real Madrid @ 1.30  
+📐 **Estadísticas esperadas**  
+Córners 3.9 - 6.0: total +10.5 41% · Valencia +5.5 23% · Real Madrid +4.5 65%  
+Tarjetas 2.7 - 2.2: total +4.5 53% · Valencia +2.5 50% · Real Madrid +2.5 39%  
+Faltas 14.2 - 9.9: total +25.5 39% · Valencia +12.5 65% · Real Madrid +12.5 21%  
+Tiros a puerta 3.1 - 5.8: total +9.5 40% · Valencia +4.5 21% · Real Madrid +4.5 66%  
+🧩 Crear apuesta: Menos de 12.5 faltas de Real Madrid + Menos de 4.5 tiros a puerta de Valencia + Menos de 5.5 córners de Valencia → prob. 49%, cuota justa 2.02 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 12.5 faltas de Real Madrid + Menos de 4.5 tiros a puerta de Valencia + Menos de 5.5 córners de Valencia + Menos de 2.5 tarjetas de Real Madrid → prob. 33%, cuota justa 3.00  
+🎯 No simulada (con cuota: Menos de 4.5 tiros a puerta de Valencia + Menos de 5.5 córners de Valencia): cuota Unibet aprox. 1.44 (producto de piernas) · prob. 63% · ventaja -9%  
+
+## Valencia vs Real Madrid — 07/11 · 21:00
+
+👀 candidata · 🇪🇸 LaLiga · **Más de 3.5 córners de Real Madrid** @ **1.16** (Unibet) · prob 79% vs casas 79% · ventaja -9%
+
+- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 0.88 - 1.69)  
+1 14% · X 24% · 2 62%  
+1X 38% · X2 86% · 12 76%  
++1.5 73% · +2.5 47% · +3.5 26% · Ambos marcan 48%  
+Marcadores: 0-1 12% · 1-1 12% · 0-2 11% · 1-2 10%  
+🔎 **Claves**  
+• Forma: Valencia ❌➖➖❌✅ | Real Madrid ❌✅✅✅✅  
+• H2H: 42 desde 2005: 9V-9E-24D · 3.4 goles/partido · +2.5 en 69%  
+• Bajas: Valencia: 3 fuera, 1 duda (Jose Copete, Diego Lopez, Sergi Canos); Real Madrid: 2 fuera, 2 duda (Vinicius Junior, Rodrygo)  
+• Favorito de las casas: Real Madrid @ 1.30  
+📐 **Estadísticas esperadas**  
+Córners 3.9 - 6.0: total +10.5 41% · Valencia +5.5 23% · Real Madrid +4.5 65%  
+Tarjetas 2.7 - 2.2: total +4.5 53% · Valencia +2.5 50% · Real Madrid +2.5 39%  
+Faltas 14.2 - 9.9: total +25.5 39% · Valencia +12.5 65% · Real Madrid +12.5 21%  
+Tiros a puerta 3.1 - 5.8: total +9.5 40% · Valencia +4.5 21% · Real Madrid +4.5 66%  
+🧩 Crear apuesta: Menos de 12.5 faltas de Real Madrid + Menos de 4.5 tiros a puerta de Valencia + Menos de 5.5 córners de Valencia → prob. 49%, cuota justa 2.02 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 12.5 faltas de Real Madrid + Menos de 4.5 tiros a puerta de Valencia + Menos de 5.5 córners de Valencia + Menos de 2.5 tarjetas de Real Madrid → prob. 33%, cuota justa 3.00  
+🎯 No simulada (con cuota: Menos de 4.5 tiros a puerta de Valencia + Menos de 5.5 córners de Valencia): cuota Unibet aprox. 1.44 (producto de piernas) · prob. 63% · ventaja -9%  
+
+## Valencia vs Real Madrid — 07/11 · 21:00
+
+👀 candidata · 🇪🇸 LaLiga · **Menos de 5.5 córners de Real Madrid** @ **2.08** (Unibet) · prob 46% vs casas 44% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 0.88 - 1.69)  
+1 14% · X 24% · 2 62%  
+1X 38% · X2 86% · 12 76%  
++1.5 73% · +2.5 47% · +3.5 26% · Ambos marcan 48%  
+Marcadores: 0-1 12% · 1-1 12% · 0-2 11% · 1-2 10%  
+🔎 **Claves**  
+• Forma: Valencia ❌➖➖❌✅ | Real Madrid ❌✅✅✅✅  
+• H2H: 42 desde 2005: 9V-9E-24D · 3.4 goles/partido · +2.5 en 69%  
+• Bajas: Valencia: 3 fuera, 1 duda (Jose Copete, Diego Lopez, Sergi Canos); Real Madrid: 2 fuera, 2 duda (Vinicius Junior, Rodrygo)  
+• Favorito de las casas: Real Madrid @ 1.30  
+📐 **Estadísticas esperadas**  
+Córners 3.9 - 6.0: total +10.5 41% · Valencia +5.5 23% · Real Madrid +4.5 65%  
+Tarjetas 2.7 - 2.2: total +4.5 53% · Valencia +2.5 50% · Real Madrid +2.5 39%  
+Faltas 14.2 - 9.9: total +25.5 39% · Valencia +12.5 65% · Real Madrid +12.5 21%  
+Tiros a puerta 3.1 - 5.8: total +9.5 40% · Valencia +4.5 21% · Real Madrid +4.5 66%  
+🧩 Crear apuesta: Menos de 12.5 faltas de Real Madrid + Menos de 4.5 tiros a puerta de Valencia + Menos de 5.5 córners de Valencia → prob. 49%, cuota justa 2.02 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 12.5 faltas de Real Madrid + Menos de 4.5 tiros a puerta de Valencia + Menos de 5.5 córners de Valencia + Menos de 2.5 tarjetas de Real Madrid → prob. 33%, cuota justa 3.00  
+🎯 No simulada (con cuota: Menos de 4.5 tiros a puerta de Valencia + Menos de 5.5 córners de Valencia): cuota Unibet aprox. 1.44 (producto de piernas) · prob. 63% · ventaja -9%  
+
+## Valencia vs Real Madrid — 07/11 · 21:00
+
+👀 candidata · 🇪🇸 LaLiga · **Menos de 11.5 córners** @ **1.40** (Unibet) · prob 68% vs casas 66% · ventaja -5%
+
+- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 0.88 - 1.69)  
+1 14% · X 24% · 2 62%  
+1X 38% · X2 86% · 12 76%  
++1.5 73% · +2.5 47% · +3.5 26% · Ambos marcan 48%  
+Marcadores: 0-1 12% · 1-1 12% · 0-2 11% · 1-2 10%  
+🔎 **Claves**  
+• Forma: Valencia ❌➖➖❌✅ | Real Madrid ❌✅✅✅✅  
+• H2H: 42 desde 2005: 9V-9E-24D · 3.4 goles/partido · +2.5 en 69%  
+• Bajas: Valencia: 3 fuera, 1 duda (Jose Copete, Diego Lopez, Sergi Canos); Real Madrid: 2 fuera, 2 duda (Vinicius Junior, Rodrygo)  
+• Favorito de las casas: Real Madrid @ 1.30  
+📐 **Estadísticas esperadas**  
+Córners 3.9 - 6.0: total +10.5 41% · Valencia +5.5 23% · Real Madrid +4.5 65%  
+Tarjetas 2.7 - 2.2: total +4.5 53% · Valencia +2.5 50% · Real Madrid +2.5 39%  
+Faltas 14.2 - 9.9: total +25.5 39% · Valencia +12.5 65% · Real Madrid +12.5 21%  
+Tiros a puerta 3.1 - 5.8: total +9.5 40% · Valencia +4.5 21% · Real Madrid +4.5 66%  
+🧩 Crear apuesta: Menos de 12.5 faltas de Real Madrid + Menos de 4.5 tiros a puerta de Valencia + Menos de 5.5 córners de Valencia → prob. 49%, cuota justa 2.02 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 12.5 faltas de Real Madrid + Menos de 4.5 tiros a puerta de Valencia + Menos de 5.5 córners de Valencia + Menos de 2.5 tarjetas de Real Madrid → prob. 33%, cuota justa 3.00  
+🎯 No simulada (con cuota: Menos de 4.5 tiros a puerta de Valencia + Menos de 5.5 córners de Valencia): cuota Unibet aprox. 1.44 (producto de piernas) · prob. 63% · ventaja -9%  
+
+## Valencia vs Real Madrid — 07/11 · 21:00
+
+👀 candidata · 🇪🇸 LaLiga · **Más de 6.5 córners** @ **1.11** (Unibet) · prob 84% vs casas 82% · ventaja -7%
+
+- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 0.88 - 1.69)  
+1 14% · X 24% · 2 62%  
+1X 38% · X2 86% · 12 76%  
++1.5 73% · +2.5 47% · +3.5 26% · Ambos marcan 48%  
+Marcadores: 0-1 12% · 1-1 12% · 0-2 11% · 1-2 10%  
+🔎 **Claves**  
+• Forma: Valencia ❌➖➖❌✅ | Real Madrid ❌✅✅✅✅  
+• H2H: 42 desde 2005: 9V-9E-24D · 3.4 goles/partido · +2.5 en 69%  
+• Bajas: Valencia: 3 fuera, 1 duda (Jose Copete, Diego Lopez, Sergi Canos); Real Madrid: 2 fuera, 2 duda (Vinicius Junior, Rodrygo)  
+• Favorito de las casas: Real Madrid @ 1.30  
+📐 **Estadísticas esperadas**  
+Córners 3.9 - 6.0: total +10.5 41% · Valencia +5.5 23% · Real Madrid +4.5 65%  
+Tarjetas 2.7 - 2.2: total +4.5 53% · Valencia +2.5 50% · Real Madrid +2.5 39%  
+Faltas 14.2 - 9.9: total +25.5 39% · Valencia +12.5 65% · Real Madrid +12.5 21%  
+Tiros a puerta 3.1 - 5.8: total +9.5 40% · Valencia +4.5 21% · Real Madrid +4.5 66%  
+🧩 Crear apuesta: Menos de 12.5 faltas de Real Madrid + Menos de 4.5 tiros a puerta de Valencia + Menos de 5.5 córners de Valencia → prob. 49%, cuota justa 2.02 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 12.5 faltas de Real Madrid + Menos de 4.5 tiros a puerta de Valencia + Menos de 5.5 córners de Valencia + Menos de 2.5 tarjetas de Real Madrid → prob. 33%, cuota justa 3.00  
+🎯 No simulada (con cuota: Menos de 4.5 tiros a puerta de Valencia + Menos de 5.5 córners de Valencia): cuota Unibet aprox. 1.44 (producto de piernas) · prob. 63% · ventaja -9%  
 
 ## Paris SG vs Troyes — 07/11 · 21:05
 
@@ -10621,6 +11085,163 @@ Faltas 9.2 - 11.8: total +24.5 23% · Paris SG +11.5 22% · Troyes +12.5 41%
 Tiros a puerta 8.2 - 2.5: total +9.5 62% · Paris SG +5.5 79% · Troyes +4.5 12%  
 🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Troyes + Menos de 2.5 tarjetas de Paris SG + Menos de 4.5 córners de Troyes → prob. 58%, cuota justa 1.72 (solo vale si la casa paga más)  
 🚀 Combinada larga: Menos de 4.5 tiros a puerta de Troyes + Menos de 2.5 tarjetas de Paris SG + Menos de 4.5 córners de Troyes + Menos de 11.5 faltas de Paris SG + Más de 2.5 goles → prob. 29%, cuota justa 3.42  
+🎯 No simulada (con cuota: Menos de 4.5 córners de Troyes + Más de 2.5 goles): cuota Unibet aprox. 1.57 (producto de piernas) · prob. 51% · ventaja -20%  
+
+## Paris SG vs Troyes — 07/11 · 21:05
+
+👀 candidata · 🇫🇷 Ligue 1 · **Más de 11.5 córners** @ **3.80** (Unibet) · prob 30% vs casas 24% · ventaja +14%
+
+- ✅ Valor: ventaja +14% (mín. 11% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.56 - 0.78)  
+1 82% · X 13% · 2 5%  
+1X 95% · X2 18% · 12 87%  
++1.5 85% · +2.5 65% · +3.5 43% · Ambos marcan 50%  
+Marcadores: 2-0 12% · 3-0 10% · 2-1 9% · 1-0 9%  
+🔎 **Claves**  
+• Forma: Paris SG ✅✅✅✅✅ | Troyes ❌❌❌➖✅  
+• H2H: 14 desde 2005: 11V-3E-0D · 3.6 goles/partido · +2.5 en 64%  
+• Bajas: Paris SG: 1 fuera, 4 duda (K. Kvaratskhelia); Troyes: sin bajas  
+• Favorito de las casas: Paris SG @ 1.12  
+📐 **Estadísticas esperadas**  
+Córners 7.3 - 3.1: total +10.5 47% · Paris SG +5.5 67% · Troyes +4.5 22%  
+Tarjetas 1.4 - 1.8: total +4.5 23% · Paris SG +2.5 17% · Troyes +2.5 27%  
+Faltas 9.2 - 11.8: total +24.5 23% · Paris SG +11.5 22% · Troyes +12.5 41%  
+Tiros a puerta 8.2 - 2.5: total +9.5 62% · Paris SG +5.5 79% · Troyes +4.5 12%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Troyes + Menos de 2.5 tarjetas de Paris SG + Menos de 4.5 córners de Troyes → prob. 58%, cuota justa 1.72 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Troyes + Menos de 2.5 tarjetas de Paris SG + Menos de 4.5 córners de Troyes + Menos de 11.5 faltas de Paris SG + Más de 2.5 goles → prob. 29%, cuota justa 3.42  
+🎯 No simulada (con cuota: Menos de 4.5 córners de Troyes + Más de 2.5 goles): cuota Unibet aprox. 1.57 (producto de piernas) · prob. 51% · ventaja -20%  
+
+## Paris SG vs Troyes — 07/11 · 21:05
+
+👀 candidata · 🇫🇷 Ligue 1 · **Menos de 12.5 córners** @ **1.11** (Unibet) · prob 78% vs casas 82% · ventaja -14%
+
+- ❌ Valor: ventaja -14% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.56 - 0.78)  
+1 82% · X 13% · 2 5%  
+1X 95% · X2 18% · 12 87%  
++1.5 85% · +2.5 65% · +3.5 43% · Ambos marcan 50%  
+Marcadores: 2-0 12% · 3-0 10% · 2-1 9% · 1-0 9%  
+🔎 **Claves**  
+• Forma: Paris SG ✅✅✅✅✅ | Troyes ❌❌❌➖✅  
+• H2H: 14 desde 2005: 11V-3E-0D · 3.6 goles/partido · +2.5 en 64%  
+• Bajas: Paris SG: 1 fuera, 4 duda (K. Kvaratskhelia); Troyes: sin bajas  
+• Favorito de las casas: Paris SG @ 1.12  
+📐 **Estadísticas esperadas**  
+Córners 7.3 - 3.1: total +10.5 47% · Paris SG +5.5 67% · Troyes +4.5 22%  
+Tarjetas 1.4 - 1.8: total +4.5 23% · Paris SG +2.5 17% · Troyes +2.5 27%  
+Faltas 9.2 - 11.8: total +24.5 23% · Paris SG +11.5 22% · Troyes +12.5 41%  
+Tiros a puerta 8.2 - 2.5: total +9.5 62% · Paris SG +5.5 79% · Troyes +4.5 12%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Troyes + Menos de 2.5 tarjetas de Paris SG + Menos de 4.5 córners de Troyes → prob. 58%, cuota justa 1.72 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Troyes + Menos de 2.5 tarjetas de Paris SG + Menos de 4.5 córners de Troyes + Menos de 11.5 faltas de Paris SG + Más de 2.5 goles → prob. 29%, cuota justa 3.42  
+🎯 No simulada (con cuota: Menos de 4.5 córners de Troyes + Más de 2.5 goles): cuota Unibet aprox. 1.57 (producto de piernas) · prob. 51% · ventaja -20%  
+
+## Paris SG vs Troyes — 07/11 · 21:05
+
+👀 candidata · 🇫🇷 Ligue 1 · **Más de 8.5 córners de Paris SG** @ **4.70** (Unibet) · prob 26% vs casas 20% · ventaja +24%
+
+- ✅ Valor: ventaja +24% (mín. 13% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.56 - 0.78)  
+1 82% · X 13% · 2 5%  
+1X 95% · X2 18% · 12 87%  
++1.5 85% · +2.5 65% · +3.5 43% · Ambos marcan 50%  
+Marcadores: 2-0 12% · 3-0 10% · 2-1 9% · 1-0 9%  
+🔎 **Claves**  
+• Forma: Paris SG ✅✅✅✅✅ | Troyes ❌❌❌➖✅  
+• H2H: 14 desde 2005: 11V-3E-0D · 3.6 goles/partido · +2.5 en 64%  
+• Bajas: Paris SG: 1 fuera, 4 duda (K. Kvaratskhelia); Troyes: sin bajas  
+• Favorito de las casas: Paris SG @ 1.12  
+📐 **Estadísticas esperadas**  
+Córners 7.3 - 3.1: total +10.5 47% · Paris SG +5.5 67% · Troyes +4.5 22%  
+Tarjetas 1.4 - 1.8: total +4.5 23% · Paris SG +2.5 17% · Troyes +2.5 27%  
+Faltas 9.2 - 11.8: total +24.5 23% · Paris SG +11.5 22% · Troyes +12.5 41%  
+Tiros a puerta 8.2 - 2.5: total +9.5 62% · Paris SG +5.5 79% · Troyes +4.5 12%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Troyes + Menos de 2.5 tarjetas de Paris SG + Menos de 4.5 córners de Troyes → prob. 58%, cuota justa 1.72 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Troyes + Menos de 2.5 tarjetas de Paris SG + Menos de 4.5 córners de Troyes + Menos de 11.5 faltas de Paris SG + Más de 2.5 goles → prob. 29%, cuota justa 3.42  
+🎯 No simulada (con cuota: Menos de 4.5 córners de Troyes + Más de 2.5 goles): cuota Unibet aprox. 1.57 (producto de piernas) · prob. 51% · ventaja -20%  
+
+## Paris SG vs Troyes — 07/11 · 21:05
+
+👀 candidata · 🇫🇷 Ligue 1 · **Menos de 8.5 córners de Paris SG** @ **1.14** (Unibet) · prob 74% vs casas 80% · ventaja -16%
+
+- ❌ Valor: ventaja -16% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.56 - 0.78)  
+1 82% · X 13% · 2 5%  
+1X 95% · X2 18% · 12 87%  
++1.5 85% · +2.5 65% · +3.5 43% · Ambos marcan 50%  
+Marcadores: 2-0 12% · 3-0 10% · 2-1 9% · 1-0 9%  
+🔎 **Claves**  
+• Forma: Paris SG ✅✅✅✅✅ | Troyes ❌❌❌➖✅  
+• H2H: 14 desde 2005: 11V-3E-0D · 3.6 goles/partido · +2.5 en 64%  
+• Bajas: Paris SG: 1 fuera, 4 duda (K. Kvaratskhelia); Troyes: sin bajas  
+• Favorito de las casas: Paris SG @ 1.12  
+📐 **Estadísticas esperadas**  
+Córners 7.3 - 3.1: total +10.5 47% · Paris SG +5.5 67% · Troyes +4.5 22%  
+Tarjetas 1.4 - 1.8: total +4.5 23% · Paris SG +2.5 17% · Troyes +2.5 27%  
+Faltas 9.2 - 11.8: total +24.5 23% · Paris SG +11.5 22% · Troyes +12.5 41%  
+Tiros a puerta 8.2 - 2.5: total +9.5 62% · Paris SG +5.5 79% · Troyes +4.5 12%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Troyes + Menos de 2.5 tarjetas de Paris SG + Menos de 4.5 córners de Troyes → prob. 58%, cuota justa 1.72 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Troyes + Menos de 2.5 tarjetas de Paris SG + Menos de 4.5 córners de Troyes + Menos de 11.5 faltas de Paris SG + Más de 2.5 goles → prob. 29%, cuota justa 3.42  
+🎯 No simulada (con cuota: Menos de 4.5 córners de Troyes + Más de 2.5 goles): cuota Unibet aprox. 1.57 (producto de piernas) · prob. 51% · ventaja -20%  
+
+## Paris SG vs Troyes — 07/11 · 21:05
+
+👀 candidata · 🇫🇷 Ligue 1 · **Menos de 4.5 córners de Troyes** @ **1.26** (Unibet) · prob 76% vs casas 73% · ventaja -5%
+
+- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.56 - 0.78)  
+1 82% · X 13% · 2 5%  
+1X 95% · X2 18% · 12 87%  
++1.5 85% · +2.5 65% · +3.5 43% · Ambos marcan 50%  
+Marcadores: 2-0 12% · 3-0 10% · 2-1 9% · 1-0 9%  
+🔎 **Claves**  
+• Forma: Paris SG ✅✅✅✅✅ | Troyes ❌❌❌➖✅  
+• H2H: 14 desde 2005: 11V-3E-0D · 3.6 goles/partido · +2.5 en 64%  
+• Bajas: Paris SG: 1 fuera, 4 duda (K. Kvaratskhelia); Troyes: sin bajas  
+• Favorito de las casas: Paris SG @ 1.12  
+📐 **Estadísticas esperadas**  
+Córners 7.3 - 3.1: total +10.5 47% · Paris SG +5.5 67% · Troyes +4.5 22%  
+Tarjetas 1.4 - 1.8: total +4.5 23% · Paris SG +2.5 17% · Troyes +2.5 27%  
+Faltas 9.2 - 11.8: total +24.5 23% · Paris SG +11.5 22% · Troyes +12.5 41%  
+Tiros a puerta 8.2 - 2.5: total +9.5 62% · Paris SG +5.5 79% · Troyes +4.5 12%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Troyes + Menos de 2.5 tarjetas de Paris SG + Menos de 4.5 córners de Troyes → prob. 58%, cuota justa 1.72 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Troyes + Menos de 2.5 tarjetas de Paris SG + Menos de 4.5 córners de Troyes + Menos de 11.5 faltas de Paris SG + Más de 2.5 goles → prob. 29%, cuota justa 3.42  
+🎯 No simulada (con cuota: Menos de 4.5 córners de Troyes + Más de 2.5 goles): cuota Unibet aprox. 1.57 (producto de piernas) · prob. 51% · ventaja -20%  
+
+## Paris SG vs Troyes — 07/11 · 21:05
+
+👀 candidata · 🇫🇷 Ligue 1 · **Más de 1.5 córners de Troyes** @ **1.20** (Unibet) · prob 77% vs casas 76% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.56 - 0.78)  
+1 82% · X 13% · 2 5%  
+1X 95% · X2 18% · 12 87%  
++1.5 85% · +2.5 65% · +3.5 43% · Ambos marcan 50%  
+Marcadores: 2-0 12% · 3-0 10% · 2-1 9% · 1-0 9%  
+🔎 **Claves**  
+• Forma: Paris SG ✅✅✅✅✅ | Troyes ❌❌❌➖✅  
+• H2H: 14 desde 2005: 11V-3E-0D · 3.6 goles/partido · +2.5 en 64%  
+• Bajas: Paris SG: 1 fuera, 4 duda (K. Kvaratskhelia); Troyes: sin bajas  
+• Favorito de las casas: Paris SG @ 1.12  
+📐 **Estadísticas esperadas**  
+Córners 7.3 - 3.1: total +10.5 47% · Paris SG +5.5 67% · Troyes +4.5 22%  
+Tarjetas 1.4 - 1.8: total +4.5 23% · Paris SG +2.5 17% · Troyes +2.5 27%  
+Faltas 9.2 - 11.8: total +24.5 23% · Paris SG +11.5 22% · Troyes +12.5 41%  
+Tiros a puerta 8.2 - 2.5: total +9.5 62% · Paris SG +5.5 79% · Troyes +4.5 12%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Troyes + Menos de 2.5 tarjetas de Paris SG + Menos de 4.5 córners de Troyes → prob. 58%, cuota justa 1.72 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Troyes + Menos de 2.5 tarjetas de Paris SG + Menos de 4.5 córners de Troyes + Menos de 11.5 faltas de Paris SG + Más de 2.5 goles → prob. 29%, cuota justa 3.42  
+🎯 No simulada (con cuota: Menos de 4.5 córners de Troyes + Más de 2.5 goles): cuota Unibet aprox. 1.57 (producto de piernas) · prob. 51% · ventaja -20%  
 
 ## Argentinos Jrs vs Huracan — 07/11 · 21:30
 
