@@ -887,7 +887,9 @@
      "who": "h",
      "line": 2.5,
      "s": "U"
-    }
+    },
+    "ok": false,
+    "por": "Revange marcó 3 (3-2)"
    },
    {
     "src": "fc",
@@ -903,7 +905,9 @@
      "who": "h",
      "line": 2.5,
      "s": "U"
-    }
+    },
+    "ok": false,
+    "por": "Pavlinho19 marcó 3 (3-3)"
    },
    {
     "src": "fc",
@@ -919,14 +923,16 @@
      "who": "a",
      "line": 2.5,
      "s": "U"
-    }
+    },
+    "ok": true,
+    "por": "Ganger_29 marcó 1 (6-1)"
    }
   ],
   "odds": 11.03,
   "p": 0.08760986089094343,
   "stake": 1.0,
-  "estado": "pendiente",
-  "avisada": false,
-  "rev": 1
+  "estado": "perdida",
+  "avisada": true,
+  "rev": 2
  }
 ]
