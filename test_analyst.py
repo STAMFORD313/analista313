@@ -1622,3 +1622,16 @@ finally:
     if _bk is None: _fs0.unlink(missing_ok=True)
     else: _fs0.write_text(_bk)
 print("ok FC 27 aprende de sus fallos")
+
+# peso modelo/casa aprendido de LeoVegas: con 250 partidos donde el modelo acierta y la casa no, sube el peso del modelo
+import tempfile as _tf
+_d = Path(_tf.mkdtemp()); _rng = np.random.default_rng(1); _rows, _hist = [], []
+for _i in range(250):
+    _g = int(_rng.integers(2, 9)); _hist.append({"id": _i, "s1": _g, "s2": 0, "p1": "x"})
+    _rows.append({"id": _i, "kh": "x", "k": "tot", "who": None, "line": 4.5, "s": "O", "p_modelo": 0.9 if _g > 4.5 else 0.1, "p_casa": 0.5})
+pd.DataFrame(_rows).to_csv(_d / "o.csv", index=False); pd.DataFrame(_hist).to_csv(_d / "h.csv", index=False)
+_log0, _h0 = _FCC.LOG, _FCC.E.HIST; _FCC.LOG, _FCC.E.HIST = _d / "o.csv", _d / "h.csv"
+try:
+    assert _FCC.blend_w() == 1.0 and _FCC.blend_w(min_ids=300) == _FCC.W
+finally: _FCC.LOG, _FCC.E.HIST = _log0, _h0
+print("ok peso modelo/casa FC 27")

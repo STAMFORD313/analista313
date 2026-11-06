@@ -9,6 +9,7 @@ probabilidad 40-92 %; primero las que tienen ventaja. Las cuotas que se ven se g
 medir más adelante si el modelo gana a la casa en estos mercados."""
 import math, re, time
 
+import numpy as np
 import pandas as pd
 import requests
 
@@ -171,6 +172,31 @@ def lessons(min_n=15, gap=0.10):
     return {k: (n, h, q / n) for k, (n, h, q) in st.items() if n >= min_n and h / n < q / n - gap}
 
 
+def blend_w(min_ids=200, grid=(0.0, 0.15, 0.3, 0.5, 0.7, 1.0)):
+    """Peso del modelo frente a la casa, aprendido de las cuotas de LeoVegas ya jugadas (odds_leo.csv). Se queda en W
+    salvo que otro peso tenga menos log-loss por más de 2 errores estándar (agrupando por partido) con ≥ `min_ids` partidos."""
+    try:
+        o = pd.read_csv(LOG).drop_duplicates(["id", "k", "who", "line", "s"], keep="last")
+        o = o.drop(columns=["s1", "s2", "p1_h"], errors="ignore").merge(pd.read_csv(E.HIST)[["id", "s1", "s2", "p1"]].dropna().rename(columns={"p1": "p1_h"}), on="id")
+    except (OSError, ValueError, KeyError): return W
+    if o.id.nunique() < min_ids: return W
+    ys = []
+    for r in o.itertuples():
+        same = str(r.kh) == str(r.p1_h).lower(); hs, as_ = (r.s1, r.s2) if same else (r.s2, r.s1)
+        ok, _ = judge({"home": "", "away": "", "fc": {"k": r.k, "who": None if pd.isna(r.who) else r.who, "line": None if pd.isna(r.line) else r.line, "s": r.s}}, hs, as_)
+        ys.append(np.nan if ok is None else float(bool(ok)))
+    o["y"] = ys; o = o.dropna(subset=["y"])
+    def ll(w):
+        q = np.clip(w * o.p_modelo + (1 - w) * o.p_casa, 1e-3, 1 - 1e-3)
+        return (-(o.y * np.log(q) + (1 - o.y) * np.log(1 - q))).groupby(o.id).mean()
+    base, best = ll(W), W
+    for w in grid:
+        d = base - ll(w)
+        if d.mean() > 2 * d.std() / np.sqrt(len(d)) and d.mean() > (base - ll(best)).mean(): best = w
+    print(f"FC 27 peso modelo/casa: {best} ({o.id.nunique()} partidos)")
+    return best
+
+
 def candidates(hours=3, push=True):
     """(piernas candidatas, nº de partidos con cuotas). Cada candidata: dict con lo necesario para mostrar y simular."""
     t0 = time.time()
@@ -179,6 +205,7 @@ def candidates(hours=3, push=True):
     evs = K.esoccer_events(OP); t3 = time.time()
     print(f"combinada FC 27: modelo {t1 - t0:.0f} s · calendario {t2 - t1:.0f} s ({len(games)}) · {BOOK} {t3 - t2:.0f} s ({len(evs)})", flush=True)
     cands, priced, log = [], 0, []
+    w = blend_w()
     now = pd.Timestamp.now(tz="UTC")
     for g in games:
         e = K.find_esoccer(g["p1"], g["p2"], pd.Timestamp(g["date"]), evs)
@@ -199,7 +226,7 @@ def candidates(hours=3, push=True):
             inv = {s: 1 / o for s, o in mk["odds"].items()}; t = sum(inv.values())
             for s, o in mk["odds"].items():
                 pm, pc = model_p(mk, s, l1, l2, diff), inv[s] / t
-                q = W * pm + (1 - W) * pc
+                q = w * pm + (1 - w) * pc
                 log.append({"seen": now.isoformat(), "id": g["id"], "start": g["date"], "p1": g["p1"], "p2": g["p2"], "liga": g["league"], "kh": hn,
                             "k": mk["k"], "who": mk["who"], "line": mk["line"], "s": s, "odds": o, "p_modelo": round(pm, 4), "p_casa": round(pc, 4)})
                 if not (P_MIN <= q <= P_MAX): continue
