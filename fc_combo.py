@@ -35,8 +35,10 @@ def model():
 def scheduled(hours=3):
     """Partidos de Esoccer Battle programados o en juego en las próximas `hours` h: [{id, date, league, p1, p2, c1, c2}]."""
     now, out = pd.Timestamp.now(tz="UTC"), []
-    for t in E.tournaments(now - pd.Timedelta(hours=3), now + pd.Timedelta(hours=hours)):
+    for t in E.tournaments(now, now + pd.Timedelta(hours=hours)):
         if t.get("status_id") not in (1, 2, 3): continue
+        st = pd.Timestamp(t.get("start_date") or now)
+        if not (now - pd.Timedelta(hours=3) < st < now + pd.Timedelta(hours=hours)): continue  # solo torneos de ahora (hay ~60 al día)
         try: out += [g for g in E.match_rows(t, finished=False) if now < pd.Timestamp(g["date"]) < now + pd.Timedelta(hours=hours)]
         except (requests.RequestException, ValueError) as e: print("esportsbattle", t.get("id"), e)
         time.sleep(0.2)
@@ -108,10 +110,11 @@ def judge(leg, hs, as_):
 
 def candidates(hours=3):
     """(piernas candidatas, nº de partidos con cuotas). Cada candidata: dict con lo necesario para mostrar y simular."""
-    m, df = model()
-    H = E.h2h_table(df)
-    games = scheduled(hours)
-    evs = K.esoccer_events(OP)
+    t0 = time.time()
+    m, df = model(); t1 = time.time()
+    games = scheduled(hours); t2 = time.time()
+    evs = K.esoccer_events(OP); t3 = time.time()
+    print(f"combinada FC 27: modelo {t1 - t0:.0f} s · calendario {t2 - t1:.0f} s ({len(games)}) · {BOOK} {t3 - t2:.0f} s ({len(evs)})", flush=True)
     cands, priced, log = [], 0, []
     now = pd.Timestamp.now(tz="UTC")
     for g in games:
