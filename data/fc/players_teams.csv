@@ -58810,10 +58810,10 @@ id,tournament_id,club1,club2,ht1,ht2
 2365689,261129,Morocco,Norway,,
 2365690,261129,Czechia,Morocco,,
 2365691,261129,Germany,Netherlands,,
-2366314,261159,Liverpool,Tottenham,1,2
-2366315,261159,Arsenal,Chelsea,1,2
-2366316,261159,Chelsea,Liverpool,1,1
-2366317,261159,Tottenham,Man City,0,3
+2366314,261159,Liverpool,Tottenham,1.0,2.0
+2366315,261159,Arsenal,Chelsea,1.0,2.0
+2366316,261159,Chelsea,Liverpool,1.0,1.0
+2366317,261159,Tottenham,Man City,0.0,3.0
 2366318,261159,Man City,Chelsea,,
 2366319,261159,Liverpool,Arsenal,,
 2366320,261159,Arsenal,Man City,,
@@ -58830,3 +58830,23 @@ id,tournament_id,club1,club2,ht1,ht2
 2366331,261159,Tottenham,Chelsea,,
 2366332,261159,Arsenal,Tottenham,,
 2366333,261159,Liverpool,Man City,,
+2365934,261105,Sassuolo,Napoli,1,0
+2365935,261105,Roma,Bologna,3,0
+2365936,261105,Bologna,Sassuolo,1,2
+2365937,261105,Napoli,Juventus,2,0
+2365938,261105,Juventus,Bologna,0,3
+2365939,261105,Sassuolo,Roma,2,1
+2365940,261105,Roma,Juventus,,
+2365941,261105,Bologna,Napoli,,
+2365942,261105,Napoli,Roma,,
+2365943,261105,Juventus,Sassuolo,,
+2365944,261105,Napoli,Sassuolo,,
+2365945,261105,Bologna,Roma,,
+2365946,261105,Sassuolo,Bologna,,
+2365947,261105,Juventus,Napoli,,
+2365948,261105,Bologna,Juventus,,
+2365949,261105,Roma,Sassuolo,,
+2365950,261105,Juventus,Roma,,
+2365951,261105,Napoli,Bologna,,
+2365952,261105,Roma,Napoli,,
+2365953,261105,Sassuolo,Juventus,,
