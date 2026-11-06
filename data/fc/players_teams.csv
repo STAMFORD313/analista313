@@ -58000,3 +58000,43 @@ id,tournament_id,club1,club2,ht1,ht2
 2365369,261122,Man Utd,Newcastle,,
 2365370,261122,Brighton,Man Utd,,
 2365371,261122,Aston Villa,Nottm Forest,,
+2365112,261098,Juventus,Bologna,1,3
+2365113,261098,Napoli,Roma,2,3
+2365114,261098,Roma,Juventus,1,1
+2365115,261098,Bologna,Sassuolo,3,2
+2365116,261098,Sassuolo,Roma,4,2
+2365117,261098,Juventus,Napoli,0,1
+2365118,261098,Napoli,Sassuolo,3,0
+2365119,261098,Roma,Bologna,4,0
+2365120,261098,Bologna,Napoli,,
+2365121,261098,Sassuolo,Juventus,,
+2365122,261098,Bologna,Juventus,,
+2365123,261098,Roma,Napoli,,
+2365124,261098,Juventus,Roma,,
+2365125,261098,Sassuolo,Bologna,,
+2365126,261098,Roma,Sassuolo,,
+2365127,261098,Napoli,Juventus,,
+2365128,261098,Sassuolo,Napoli,,
+2365129,261098,Bologna,Roma,,
+2365130,261098,Napoli,Bologna,,
+2365131,261098,Juventus,Sassuolo,,
+2366174,261160,Lyon,Paris,2,3
+2366175,261160,Nice,Marseille,1,2
+2366176,261160,Marseille,Lyon,1,0
+2366177,261160,Paris,Monaco,1,3
+2366178,261160,Monaco,Marseille,2,3
+2366179,261160,Lyon,Nice,1,1
+2366180,261160,Nice,Monaco,2,1
+2366181,261160,Marseille,Paris,0,1
+2366182,261160,Paris,Nice,0,3
+2366183,261160,Monaco,Lyon,1,1
+2366184,261160,Paris,Lyon,,
+2366185,261160,Marseille,Nice,,
+2366186,261160,Lyon,Marseille,,
+2366187,261160,Monaco,Paris,,
+2366188,261160,Marseille,Monaco,,
+2366189,261160,Nice,Lyon,,
+2366190,261160,Monaco,Nice,,
+2366191,261160,Paris,Marseille,,
+2366192,261160,Nice,Paris,,
+2366193,261160,Lyon,Monaco,,

@@ -2026,7 +2026,10 @@
   "fc|2365191",
   "fc|2365193",
   "fc|2365192",
-  "fc|2366015"
+  "fc|2366015",
+  "fc|2366185",
+  "fc|2365198",
+  "fc|2366184"
  ],
  "signals": [
   {
@@ -4496,29 +4499,6 @@
    "considered": true,
    "placed": false,
    "score": "4-7",
-   "result": true,
-   "logged": true
-  },
-  {
-   "market": "H",
-   "pick": "Kril",
-   "odds": 1.33,
-   "book": "cuota justa (sin casa)",
-   "p": 0.755,
-   "implied": 0.755,
-   "edge": 0.0,
-   "key": "fc|2359954",
-   "match": "Kril vs Dan_dragonio",
-   "start": "2026-11-03T08:39:00+00:00",
-   "league": "🎮⚽ FC 27 · Volta World Cup B",
-   "sport": "🎮⚽",
-   "context": "EA FC Esoccer Battle Kril vs Dan_dragonio (Volta World Cup B): goles esperados 5.72-3.17, 1X2 75%/10%/15%. Sin cuotas de casa.",
-   "captured": "2026-11-03T08:13",
-   "version": "e14503f",
-   "bajas": "",
-   "considered": true,
-   "placed": false,
-   "score": "5-2",
    "result": true,
    "logged": true
   },
@@ -26107,10 +26087,6 @@
    "start": "2026-11-06T08:30:00+00:00",
    "league": "💎 Valor vs Pinnacle · Indonesia - Super League",
    "sport": "⚽💎",
-   "info": [
-    "💎 <b>Valor contra Pinnacle</b>: Smarkets paga 1.76 y el precio justo de Pinnacle es 1.68 (ventaja +5.3%)",
-    "Backtest 2015-2026 (cuota ≤ 2.5, > 3 %): ROI +11 % ± 3 %, CLV +5 %."
-   ],
    "context": "PSIM Yogyakarta vs Dewa United (Indonesia - Super League). Estrategia de valor: Smarkets 1.76 frente a Pinnacle justo 1.68.",
    "captured": "2026-11-06T07:10",
    "version": "12dc75a",
