@@ -1,44 +1,42 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 06/11/2026 12:24 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 06/11/2026 12:36 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## Wboy vs mko1919 — 06/11 · 12:27
+## Kril vs Dan_dragonio — 06/11 · 13:09
 
-👀 candidata · 🎮⚽ FC 27 · World Cup B · **Gana mko1919** @ **4.35** (Unibet) · prob 28% vs casas 20% · ventaja +22%
+👀 candidata · 🎮⚽ FC 27 · Volta Seria A · **Gana Kril** @ **1.30** (cuota justa (sin casa)) · prob 77% vs casas 77% · ventaja +0%
 
-- ✅ Valor: ventaja +22% (mín. 14% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+- ❌ Valor: ventaja +0% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 58.152 partidos)  
-Goles esperados: Wboy 3.62 · mko1919 2.99  
-Ganador: Wboy 52% · empate 20% · mko1919 28%  
-Total: más de 6.5 goles 49% · menos 51%  
-Hándicap Wboy: −1.5 36% · −2.5 23%  
+📊 **Escenarios** (Poisson por jugador, 58.175 partidos)  
+Goles esperados: Kril 5.76 · Dan_dragonio 3.44  
+Ganador: Kril 77% · empate 10% · Dan_dragonio 13%  
+Total: más de 9.5 goles 44% · menos 56%  
+Hándicap Kril: −1.5 60% · −2.5 47%  
 🔎 **Claves**  
-• Forma: Wboy ➖❌➖✅❌ | mko1919 ✅➖❌➖✅  
-• Partidos: Wboy 1014 | mko1919 1103  
-• Liga: World Cup B  
-• Unibet: 1 1.47 · X 4.10 · 2 4.35 (sin margen 59%/21%/20%) · ventaja +22%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 4.35 (+22%) · Paf España 4.35 (+22%)  
+• Forma: Kril ✅❌❌✅✅ | Dan_dragonio ❌❌❌❌❌  
+• Partidos: Kril 347 | Dan_dragonio 1438  
+• Liga: Volta Seria A  
+• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
 
-## Uncle vs Bomb1to — 06/11 · 12:27
+## Dan_dragonio vs Radahn — 06/11 · 13:18
 
-👀 candidata · 🎮⚽ FC 27 · World Cup B · **Gana Uncle** @ **2.90** (Unibet) · prob 36% vs casas 30% · ventaja +5%
+👀 candidata · 🎮⚽ FC 27 · Volta Seria A · **Gana Radahn** @ **1.33** (cuota justa (sin casa)) · prob 75% vs casas 75% · ventaja +0%
 
-- ❌ Valor: ventaja +5% (mín. 10% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+- ❌ Valor: ventaja +0% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 58.152 partidos)  
-Goles esperados: Uncle 2.86 · Bomb1to 2.92  
-Ganador: Uncle 36% · empate 23% · Bomb1to 41%  
-Total: más de 5.5 goles 52% · menos 48%  
-Hándicap Bomb1to: −1.5 27% · −2.5 15%  
+📊 **Escenarios** (Poisson por jugador, 58.175 partidos)  
+Goles esperados: Dan_dragonio 3.22 · Radahn 5.43  
+Ganador: Dan_dragonio 14% · empate 11% · Radahn 75%  
+Total: más de 8.5 goles 50% · menos 50%  
+Hándicap Radahn: −1.5 59% · −2.5 45%  
 🔎 **Claves**  
-• Forma: Uncle ➖✅✅❌❌ | Bomb1to ❌✅✅❌❌  
-• Partidos: Uncle 693 | Bomb1to 1206  
-• Liga: World Cup B  
-• Unibet: 1 2.90 · X 2.85 · 2 2.20 (sin margen 30%/31%/40%) · ventaja +5%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.90 (+5%) · Paf España 2.90 (+5%)  
+• Forma: Dan_dragonio ❌❌❌❌❌ | Radahn ❌✅✅✅✅  
+• Partidos: Dan_dragonio 1438 | Radahn 835  
+• Liga: Volta Seria A  
+• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
 
 ## Dan_dragonio vs Kril — 06/11 · 13:54
 
@@ -56,5 +54,23 @@ Hándicap Kril: −1.5 60% · −2.5 46%
 • Forma: Dan_dragonio ❌❌❌❌❌ | Kril ✅✅❌❌✅  
 • Partidos: Dan_dragonio 1437 | Kril 346  
 • Liga: Volta Seria A  
+• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
+
+## Bosko vs ZORO — 06/11 · 14:30
+
+👀 candidata · 🎮⚽ FC 27 · International A 2x6 · **Gana ZORO** @ **1.15** (cuota justa (sin casa)) · prob 87% vs casas 87% · ventaja +0%
+
+- ❌ Valor: ventaja +0% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 58.175 partidos)  
+Goles esperados: Bosko 2.95 · ZORO 6.40  
+Ganador: Bosko 7% · empate 7% · ZORO 87%  
+Total: más de 9.5 goles 46% · menos 54%  
+Hándicap ZORO: −1.5 73% · −2.5 61%  
+🔎 **Claves**  
+• Forma: Bosko ❌❌❌❌➖ | ZORO ✅✅✅✅➖  
+• Partidos: Bosko 495 | ZORO 744  
+• Liga: International A 2x6  
 • Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
 
