@@ -1,20 +1,20 @@
 {
  "nba": {
   "ganador": {
-   "n": 1235,
-   "ll_modelo": 0.6125,
-   "ll_mercado": 0.5805,
+   "n": 1236,
+   "ll_modelo": 0.6127,
+   "ll_mercado": 0.5804,
    "w_opt": 0.1,
    "ll_2a_mitad_w_opt": 0.5322,
-   "ll_2a_mitad_mercado": 0.5297,
+   "ll_2a_mitad_mercado": 0.5296,
    "modelo_menos_mercado_2a": [
-    0.0474,
+    0.048,
     0.0087
    ],
    "roi_bot_w05": [
-    -0.0371,
-    0.0722,
-    355
+    -0.0398,
+    0.072,
+    356
    ],
    "roi_2a_mitad_w_opt": [
     0.3333,
@@ -23,20 +23,20 @@
    ]
   },
   "hándicap": {
-   "n": 1235,
-   "ll_modelo": 0.7264,
-   "ll_mercado": 0.693,
+   "n": 1236,
+   "ll_modelo": 0.726,
+   "ll_mercado": 0.6929,
    "w_opt": 0.0,
    "ll_2a_mitad_w_opt": 0.6933,
    "ll_2a_mitad_mercado": 0.6933,
    "modelo_menos_mercado_2a": [
-    0.038,
-    0.0105
+    0.0374,
+    0.0106
    ],
    "roi_bot_w05": [
-    -0.0723,
+    -0.0702,
     0.0457,
-    437
+    438
    ],
    "roi_2a_mitad_w_opt": [
     0.0,
@@ -45,20 +45,20 @@
    ]
   },
   "totales": {
-   "n": 1234,
-   "ll_modelo": 0.7211,
+   "n": 1235,
+   "ll_modelo": 0.721,
    "ll_mercado": 0.6926,
    "w_opt": 0.0,
    "ll_2a_mitad_w_opt": 0.6923,
    "ll_2a_mitad_mercado": 0.6923,
    "modelo_menos_mercado_2a": [
-    0.0219,
+    0.0215,
     0.01
    ],
    "roi_bot_w05": [
-    -0.0646,
+    -0.0626,
     0.0433,
-    486
+    487
    ],
    "roi_2a_mitad_w_opt": [
     0.0,
@@ -252,19 +252,19 @@
   },
   "hándicap": {
    "n": 620,
-   "ll_modelo": 0.7727,
+   "ll_modelo": 0.7719,
    "ll_mercado": 0.692,
    "w_opt": 0.0,
    "ll_2a_mitad_w_opt": 0.6905,
    "ll_2a_mitad_mercado": 0.6905,
    "modelo_menos_mercado_2a": [
-    0.0479,
-    0.0177
+    0.047,
+    0.0175
    ],
    "roi_bot_w05": [
-    -0.0945,
-    0.0533,
-    312
+    -0.0919,
+    0.0536,
+    309
    ],
    "roi_2a_mitad_w_opt": [
     0.0,
@@ -274,19 +274,19 @@
   },
   "totales": {
    "n": 620,
-   "ll_modelo": 0.7246,
+   "ll_modelo": 0.7245,
    "ll_mercado": 0.6947,
    "w_opt": 0.0,
    "ll_2a_mitad_w_opt": 0.6953,
    "ll_2a_mitad_mercado": 0.6953,
    "modelo_menos_mercado_2a": [
-    0.0342,
+    0.0341,
     0.0145
    ],
    "roi_bot_w05": [
-    -0.0363,
-    0.0655,
-    215
+    -0.0406,
+    0.0657,
+    214
    ],
    "roi_2a_mitad_w_opt": [
     0.0,
