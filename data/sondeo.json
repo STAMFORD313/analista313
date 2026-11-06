@@ -1,5 +1,5 @@
 {
- "fecha": "2026-11-06 02:23",
+ "fecha": "2026-11-06 14:42",
  "bo3": {
   "1": {
    "próximos": 20,
@@ -22,15 +22,15 @@
    "próximos": 20,
    "ejemplo": [
     [
-     "god-chosen-vs-hoc-vien-96-06-11-2026",
+     "original-gaming-vlr-vs-hoc-vien-96-07-11-2026",
      "Predator League Vietnam 2027"
     ],
     [
-     "lpd-vs-an-angel-anbandonned-06-11-2026",
+     "ferix-vs-an-angel-anbandonned-07-11-2026",
      "Predator League Vietnam 2027"
     ],
     [
-     "original-gaming-vlr-vs-0168e0f2ff-07-11-2026",
+     "saigon-phantom-vlr-vs-fancy-united-07-11-2026",
      "Predator League Vietnam 2027"
     ]
    ]
@@ -56,15 +56,15 @@
    "próximos": 20,
    "ejemplo": [
     [
-     "direborn-vs-royal-bear-06-11-2026",
-     "EPL World Series: Southeast Asia Season 19"
-    ],
-    [
      "team-synapse-vs-team-allied-14-11-2026",
      "Asgard Championship Season 2"
     ],
     [
      "cyberhero-vs-team-lynx-08-11-2026",
+     "Asgard Championship Season 2"
+    ],
+    [
+     "potn9ki-vs-cyberhero-15-11-2026",
      "Asgard Championship Season 2"
     ]
    ]
@@ -78,36 +78,36 @@
    "ejemplo": []
   },
   "7": {
-   "próximos": 8,
+   "próximos": 5,
    "ejemplo": [
     [
-     "virtuspro-1-vs-kingzero-esports-06-11-2026",
+     "dplus-1-vs-kingzero-esports-07-11-2026",
      "BLAST R6 Major Osaka 2026"
     ],
     [
-     "4a7dc969a6-vs-0aea1ef46b-06-11-2026",
+     "tyloo-r6-vs-all-gamers-r6-07-11-2026",
      "BLAST R6 Major Osaka 2026"
     ],
     [
-     "darkzero-esports-1-vs-los-1-06-11-2026",
+     "los-1-vs-afbf5f39ea-07-11-2026",
      "BLAST R6 Major Osaka 2026"
     ]
    ]
   },
   "8": {
-   "próximos": 12,
+   "próximos": 10,
    "ejemplo": [
     [
-     "alter-ego-2-vs-bigetron-by-vitality-06-11-2026",
+     "bigetron-by-vitality-vs-f18a60471f-07-11-2026",
      "MPL Indonesia Season 18"
     ],
     [
-     "natus-vincere-3-vs-team-liquid-id-06-11-2026",
+     "6284970248-vs-89d434510f-08-11-2026",
      "MPL Indonesia Season 18"
     ],
     [
-     "179bc51e97-vs-d64e87de76-07-11-2026",
-     "MPL Indonesia Season 18"
+     "pro-esports-vs-tnr-12-11-2026",
+     "MPL Cambodia Season 11"
     ]
    ]
   },
@@ -141,22 +141,22 @@
   }
  },
  "kambi_esports": {
-  "Esports / Dota 2 / DreamLeague Div. 2": 10,
+  "Esports / Call of Duty / Monster Launch Invitational": 8,
   "Esports / CS2 / PGL Major": 8,
-  "Esports / Call of Duty / Monster Launch Invitational": 7,
+  "Esports / Dota 2 / DreamLeague Div. 2": 6,
   "Esports / CS2 / BLAST Rivals Fall": 4,
+  "Esports / CS2 / Svenska Cupen": 3,
   "Esports / CS2 / STK Ranked": 3,
-  "Esports / Overwatch 2 / OWCS KR": 2,
-  "Esports / CS2 / IEM Beijing": 2,
-  "Esports / CS2 / United21": 2,
-  "Esports / CS2 / European Pro League": 2,
   "Esports / CS2 / CCT European Series 14": 2,
-  "Esports / Honor of Kings / KPL": 2,
   "Esports / CS2 / CCT South America Series": 2,
   "Esports / League of Legends / World Championship": 2,
+  "Esports / Rainbow 6 / BLAST Major": 2,
+  "Esports / CS2 / IEM Beijing": 2,
   "Esports / Overwatch 2 / OWCS CN": 2,
-  "Esports / Rainbow 6 / BLAST Major": 1,
-  "Esports / Dota 2 / EPL World Series SEA": 1,
-  "Esports / CS2 / NODWIN Clutch Series": 1
+  "Esports / CS2 / United21": 2,
+  "Esports / CS2 / NODWIN Clutch Series": 1,
+  "Esports / CS2 / CCT European Series 13": 1,
+  "Esports / Honor of Kings / KPL": 1,
+  "Esports / CS2 / European Pro League": 1
  }
 }
