@@ -58458,14 +58458,14 @@ id,tournament_id,club1,club2,ht1,ht2
 2365609,261121,Arsenal,Chelsea,,
 2365610,261121,Man City,Arsenal,,
 2365611,261121,Tottenham,Liverpool,,
-2365522,261139,Adelaide United,Melbourne City,1,0
-2365523,261139,Sydney FC,Melbourne Victory,0,3
-2365524,261139,Melbourne Victory,Adelaide United,1,0
-2365525,261139,Melbourne City,Western Sydney Wanderers,1,0
-2365526,261139,Western Sydney Wanderers,Melbourne Victory,0,2
-2365527,261139,Adelaide United,Sydney FC,1,0
-2365528,261139,Sydney FC,Western Sydney Wanderers,0,1
-2365529,261139,Melbourne Victory,Melbourne City,0,0
+2365522,261139,Adelaide United,Melbourne City,1.0,0.0
+2365523,261139,Sydney FC,Melbourne Victory,0.0,3.0
+2365524,261139,Melbourne Victory,Adelaide United,1.0,0.0
+2365525,261139,Melbourne City,Western Sydney Wanderers,1.0,0.0
+2365526,261139,Western Sydney Wanderers,Melbourne Victory,0.0,2.0
+2365527,261139,Adelaide United,Sydney FC,1.0,0.0
+2365528,261139,Sydney FC,Western Sydney Wanderers,0.0,1.0
+2365529,261139,Melbourne Victory,Melbourne City,0.0,0.0
 2365530,261139,Melbourne City,Sydney FC,,
 2365531,261139,Western Sydney Wanderers,Adelaide United,,
 2365532,261139,Melbourne City,Adelaide United,,
@@ -58478,3 +58478,23 @@ id,tournament_id,club1,club2,ht1,ht2
 2365539,261139,Melbourne City,Melbourne Victory,,
 2365540,261139,Sydney FC,Melbourne City,,
 2365541,261139,Adelaide United,Western Sydney Wanderers,,
+2366254,261155,Belgium,Morocco,1,3
+2366255,261155,Germany,Portugal,1,1
+2366256,261155,Portugal,Belgium,1,1
+2366257,261155,Morocco,Netherlands,1,1
+2366258,261155,Netherlands,Portugal,0,0
+2366259,261155,Belgium,Germany,0,2
+2366260,261155,Germany,Netherlands,0,1
+2366261,261155,Portugal,Morocco,0,1
+2366262,261155,Morocco,Germany,,
+2366263,261155,Netherlands,Belgium,,
+2366264,261155,Morocco,Belgium,,
+2366265,261155,Portugal,Germany,,
+2366266,261155,Belgium,Portugal,,
+2366267,261155,Netherlands,Morocco,,
+2366268,261155,Portugal,Netherlands,,
+2366269,261155,Germany,Belgium,,
+2366270,261155,Netherlands,Germany,,
+2366271,261155,Morocco,Portugal,,
+2366272,261155,Germany,Morocco,,
+2366273,261155,Belgium,Netherlands,,

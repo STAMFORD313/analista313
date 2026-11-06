@@ -1,26 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 06/11/2026 17:35 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## SINNERS Legacy vs Thousand — 06/11 · 18:00
-
-👀 candidata · 🎮 CS2 · MČR 2026 · **Gana Thousand** @ **1.92** (Thunderpick) · prob 54% vs casas 48% · ventaja +4%
-
-- ❌ Valor: ventaja +4% (mín. 8% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 76.485 partidos)  
-Mapa: SINNERS Legacy 43% · Serie BO3: SINNERS Legacy 40% - 60% Thousand  
-Casas: SINNERS Legacy 52% · Thousand 48%  
-🔎 **Claves**  
-• Elo: SINNERS Legacy 1358 (1 series) | Thousand 1431 (1 series)  
-• Forma: SINNERS Legacy ❌ | Thousand ❌  
-• H2H: sin precedentes  
-• Torneo: MČR 2026 (nivel C)  
-• Cambios de plantilla: SINNERS Legacy, Thousand  
-🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
-• SINNERS Legacy gana 2-1: 18% → cuota justa 5.41  
-• Thousand gana 2-1: 24% → cuota justa 4.11  
+Actualizado 06/11/2026 18:04 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## B8 Academy vs Banger Gang — 06/11 · 19:00
 

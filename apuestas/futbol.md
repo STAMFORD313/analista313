@@ -1,49 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 06/11/2026 17:35 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Motor Lublin vs Wisla Plock — 06/11 · 18:00
-
-👀 candidata · 🇵🇱 Ekstraklasa · **Gana Motor Lublin** @ **1.90** (Bet365) · prob 49% vs casas 49% · ventaja -8%
-
-- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.49 - 1.21)  
-1 45% · X 27% · 2 28%  
-1X 72% · X2 55% · 12 73%  
-+1.5 76% · +2.5 51% · +3.5 29% · Ambos marcan 55%  
-Marcadores: 1-1 13% · 1-0 9% · 2-1 9% · 0-1 8%  
-🔎 **Claves**  
-• Forma: Motor Lublin ➖✅✅➖✅ | Wisla Plock ✅❌✅❌➖  
-• H2H: 2 desde 2025: 1V-1E-0D · 3.0 goles/partido · +2.5 en 50%  
-• Bajas: Motor Lublin: sin bajas; Wisla Plock: sin bajas  
-• Favorito de las casas: Motor Lublin @ 1.90  
-
-## Gaziantep vs Kasimpasa — 06/11 · 18:00
-
-👀 candidata · 🇹🇷 Süper Lig · **Gaziantep +0 (hándicap asiático)** @ **1.87** (mejor del mercado) · prob 52% vs casas 52% · ventaja -3%
-
-- ❌ Valor: ventaja -3% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ hándicap» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.29 - 1.47)  
-1 33% · X 29% · 2 38%  
-1X 62% · X2 67% · 12 71%  
-+1.5 77% · +2.5 52% · +3.5 30% · Ambos marcan 56%  
-Marcadores: 1-1 13% · 1-2 9% · 0-1 9% · 2-1 8%  
-🔎 **Claves**  
-• Forma: Gaziantep ❌❌❌❌❌ | Kasimpasa ➖❌✅✅➖  
-• H2H: 14 desde 2019: 6V-4E-4D · 3.7 goles/partido · +2.5 en 79%  
-• Bajas: Gaziantep: 1 fuera, 1 duda (Kacper Tobiasz); Kasimpasa: 1 fuera, 2 duda (Claudio Winck)  
-• Favorito de las casas: Gaziantep @ 2.55  
-📐 **Estadísticas esperadas**  
-Córners 5.4 - 4.2: total +9.5 48% · Gaziantep +5.5 44% · Kasimpasa +4.5 40%  
-Tarjetas 2.4 - 2.9: total +4.5 61% · Gaziantep +2.5 44% · Kasimpasa +2.5 56%  
-Faltas 11.9 - 15.6: total +26.5 56% · Gaziantep +13.5 31% · Kasimpasa +13.5 68%  
-Tiros a puerta 4.7 - 3.8: total +9.5 35% · Gaziantep +5.5 33% · Kasimpasa +4.5 34%  
-🧩 Crear apuesta: Menos de 13.5 faltas de Gaziantep + Menos de 5.5 tiros a puerta de Gaziantep + Más de 4.5 tarjetas → prob. 26%, cuota justa 3.92 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 13.5 faltas de Gaziantep + Menos de 5.5 tiros a puerta de Gaziantep + Más de 4.5 tarjetas + Menos de 4.5 córners de Kasimpasa → prob. 15%, cuota justa 6.79  
+Actualizado 06/11/2026 18:04 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Braunschweig vs Cottbus — 06/11 · 18:30
 
