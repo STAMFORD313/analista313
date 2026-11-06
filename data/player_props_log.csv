@@ -1469,3 +1469,765 @@ fecha,partido,jugador,mercado,linea,cuota,p_casa,p_modelo,titular,valor,acierto
 2026-11-06,Willem II vs Zwolle,Uriël van Aalst,To Get a Card,0.5,5.2,0.1923,0.1134,1,0.0,0
 2026-11-06,Willem II vs Zwolle,Tobias Sommer,To Get a Card,0.5,3.9,0.2564,0.1437,1,0.0,0
 2026-11-06,Willem II vs Zwolle,Dylan Mbayo,To Get a Card,0.5,5.3,0.1887,0.0848,1,0.0,0
+2026-11-06,Standard vs Beveren,Adnane Abid,To score at least 2 goals,1.5,13.0,0.0769,0.0081,1,0.0,0
+2026-11-06,Standard vs Beveren,Sieben Dewaele,To Score,0.5,8.5,0.1176,0.0586,1,0.0,0
+2026-11-06,Standard vs Beveren,Ibe Hautekiet,To Score,0.5,8.0,0.125,0.0292,1,0.0,0
+2026-11-06,Standard vs Beveren,Lennart Mertens,To score at least 2 goals,1.5,20.0,0.05,0.0004,0,0.0,0
+2026-11-06,Standard vs Beveren,Daan Dierckx,To Score,0.5,8.5,0.1176,0.0225,0,0.0,0
+2026-11-06,Standard vs Beveren,Laurent Jans,To Score,0.5,13.0,0.0769,0.0219,1,0.0,0
+2026-11-06,Standard vs Beveren,Christian Brüls,To Score,0.5,4.7,0.2128,0.0237,0,0.0,0
+2026-11-06,Standard vs Beveren,Ibrahim Karamoko,To Score,0.5,6.5,0.1538,0.0235,1,0.0,0
+2026-11-06,Standard vs Beveren,Christian Brüls,To Get a Card,0.5,3.7,0.2703,0.0395,0,0.0,0
+2026-11-06,Standard vs Beveren,Henry Lawrence,Player's shots on target,0.5,3.9,0.2564,0.1011,1,0.0,0
+2026-11-06,Standard vs Beveren,Henry Lawrence,To Get a Card,0.5,4.2,0.2381,0.1363,1,0.0,0
+2026-11-06,Standard vs Beveren,Sieben Dewaele,To Get a Card,0.5,3.4,0.2941,0.1826,1,0.0,0
+2026-11-06,Standard vs Beveren,Bruny Nsimba,To Get a Card,0.5,3.8,0.2632,0.0278,0,0.0,0
+2026-11-06,Standard vs Beveren,Bruno Godeau,To Get a Card,0.5,3.1,0.3226,0.1466,1,1.0,1
+2026-11-06,Standard vs Beveren,Ferre Slegers,To Score,0.5,5.3,0.1887,0.0283,0,0.0,0
+2026-11-06,Standard vs Beveren,Ibrahim Karamoko,To give an assist,0.5,4.6,0.2174,0.0423,1,0.0,0
+2026-11-06,Standard vs Beveren,Daan Dierckx,To give an assist,0.5,6.25,0.16,0.0101,0,0.0,0
+2026-11-06,Standard vs Beveren,Daan Dierckx,Player's shots on target,0.5,4.0,0.25,0.0729,0,0.0,0
+2026-11-06,Standard vs Beveren,Ibe Hautekiet,To score at least 2 goals,1.5,81.0,0.0123,0.0004,1,0.0,0
+2026-11-06,Standard vs Beveren,Ibe Hautekiet,Player's shots on target,0.5,3.9,0.2564,0.1128,1,0.0,0
+2026-11-06,Standard vs Beveren,Dominic Thompson,To Get a Card,0.5,3.2,0.3125,0.0404,0,0.0,0
+2026-11-06,Standard vs Beveren,Christophe Janssens,To Get a Card,0.5,3.3,0.303,0.2355,1,1.0,1
+2026-11-06,Standard vs Beveren,Yoni Gomis,To Get a Card,0.5,3.3,0.303,0.0316,0,0.0,0
+2026-11-06,Standard vs Beveren,Ibe Hautekiet,To Get a Card,0.5,3.2,0.3125,0.1408,1,0.0,0
+2026-11-06,Standard vs Beveren,Laurent Jans,To Get a Card,0.5,3.4,0.2941,0.1007,1,0.0,0
+2026-11-06,Standard vs Beveren,Ibrahim Karamoko,To Get a Card,0.5,3.0,0.3333,0.1844,1,0.0,0
+2026-11-06,Standard vs Beveren,Viktor Boone,To Get a Card,0.5,3.5,0.2857,0.1861,1,0.0,0
+2026-11-06,Standard vs Beveren,Ryan Fosso,To Get a Card,0.5,5.3,0.1887,0.2085,1,0.0,0
+2026-11-06,Standard vs Beveren,Chris Lokesa,To give an assist,0.5,5.5,0.1818,0.0719,1,0.0,0
+2026-11-06,Standard vs Beveren,Lennart Mertens,To give an assist,0.5,5.75,0.1739,0.0123,0,0.0,0
+2026-11-06,Standard vs Beveren,Christian Brüls,To give an assist,0.5,5.2,0.1923,0.0403,0,0.0,0
+2026-11-06,Standard vs Beveren,Bruny Nsimba,Player's shots on target,0.5,1.45,0.6897,0.153,0,0.0,0
+2026-11-06,Standard vs Beveren,Christian Brüls,Player's shots on target,0.5,2.15,0.4651,0.1027,0,0.0,0
+2026-11-06,Standard vs Beveren,Adnane Abid,To give an assist,0.5,4.5,0.2222,0.1396,1,2.0,1
+2026-11-06,Standard vs Beveren,Lennart Mertens,To Get a Card,0.5,3.7,0.2703,0.0227,0,0.0,0
+2026-11-06,Standard vs Beveren,Alexis Trouillet,To give an assist,0.5,6.5,0.1538,0.0621,1,0.0,0
+2026-11-06,Standard vs Beveren,Bruny Nsimba,To give an assist,0.5,2.7,0.3704,0.0246,0,0.0,0
+2026-11-06,Standard vs Beveren,Adnane Abid,Player's shots on target,1.5,3.3,0.303,0.0822,1,0.0,0
+2026-11-06,Standard vs Beveren,Elohim Kaboré,Player's shots on target,1.5,2.8,0.3571,0.0937,1,0.0,0
+2026-11-06,Standard vs Beveren,Ferre Slegers,To give an assist,0.5,5.0,0.2,0.0228,0,0.0,0
+2026-11-06,Standard vs Beveren,Alexis Trouillet,To Get a Card,0.5,3.8,0.2632,0.1798,1,0.0,0
+2026-11-06,Standard vs Beveren,Bruny Nsimba,Player's shots on target,1.5,2.85,0.3509,0.0123,0,0.0,0
+2026-11-06,Standard vs Beveren,Elohim Kaboré,To give an assist,0.5,5.0,0.2,0.0499,1,0.0,0
+2026-11-06,Standard vs Beveren,Ferre Slegers,To Get a Card,0.5,3.9,0.2564,0.0358,0,0.0,0
+2026-11-06,Standard vs Beveren,Lennart Mertens,Player's shots on target,0.5,1.75,0.5714,0.0866,0,0.0,0
+2026-11-06,Standard vs Beveren,Viktor Boone,To Score,0.5,11.0,0.0909,0.0285,1,0.0,0
+2026-11-06,Standard vs Beveren,Adnane Abid,Player's shots on target,0.5,1.55,0.6452,0.377,1,0.0,0
+2026-11-06,Standard vs Beveren,Daan Dierckx,To Get a Card,0.5,4.6,0.2174,0.023,0,0.0,0
+2026-11-06,Standard vs Beveren,Victor Olatunji,To Get a Card,0.5,3.7,0.2703,0.1509,1,0.0,0
+2026-11-06,Standard vs Beveren,Elohim Kaboré,To Get a Card,0.5,3.5,0.2857,0.1135,1,0.0,0
+2026-11-06,Standard vs Beveren,Chris Lokesa,To score at least 2 goals,1.5,29.0,0.0345,0.0308,1,0.0,0
+2026-11-06,Standard vs Beveren,Christophe Janssens,To Score,0.5,11.0,0.0909,0.0212,1,0.0,0
+2026-11-06,Standard vs Beveren,Alexis Trouillet,To Score,0.5,5.5,0.1818,0.0423,1,0.0,0
+2026-11-06,Standard vs Beveren,Lennart Mertens,To Score,0.5,3.7,0.2703,0.0274,0,0.0,0
+2026-11-06,Standard vs Beveren,Elohim Kaboré,To Score,0.5,2.8,0.3571,0.1408,1,0.0,0
+2026-11-06,Standard vs Beveren,Elohim Kaboré,To score at least 3 goals,2.5,56.0,0.0179,0.0005,1,0.0,0
+2026-11-06,Standard vs Beveren,Ibrahim Karamoko,To score at least 2 goals,1.5,56.0,0.0179,0.0003,1,0.0,0
+2026-11-06,Standard vs Beveren,Arno Verschueren,To give an assist,0.5,7.0,0.1429,0.201,1,0.0,0
+2026-11-06,Standard vs Beveren,Chris Lokesa,To Get a Card,0.5,3.9,0.2564,0.1417,1,0.0,0
+2026-11-06,Standard vs Beveren,Ryan Fosso,To score at least 2 goals,1.5,71.0,0.0141,0.0021,1,0.0,0
+2026-11-06,Standard vs Beveren,Adnane Abid,To Get a Card,0.5,4.5,0.2222,0.1563,1,0.0,0
+2026-11-06,Standard vs Beveren,Bruno Godeau,To Score,0.5,13.0,0.0769,0.0136,1,0.0,0
+2026-11-06,Standard vs Beveren,Ferre Slegers,Player's shots on target,0.5,2.25,0.4444,0.0891,0,1.0,1
+2026-11-06,Standard vs Beveren,Bruny Nsimba,To Score,0.5,2.75,0.3636,0.0635,0,0.0,0
+2026-11-06,Standard vs Beveren,Bruny Nsimba,To score at least 2 goals,1.5,11.5,0.087,0.0021,0,0.0,0
+2026-11-06,Standard vs Beveren,Ibrahim Karamoko,Player's shots on target,0.5,3.0,0.3333,0.1544,1,0.0,0
+2026-11-06,Standard vs Beveren,Alexis Trouillet,Player's shots on target,0.5,2.6,0.3846,0.2232,1,1.0,1
+2026-11-06,Standard vs Beveren,Chris Lokesa,Player's shots on target,0.5,2.0,0.5,0.4043,1,1.0,1
+2026-11-06,Standard vs Beveren,Yoni Gomis,To Score,0.5,12.0,0.0833,0.0349,0,0.0,0
+2026-11-06,Standard vs Beveren,Victor Olatunji,Player's shots on target,0.5,1.95,0.5128,0.5291,1,1.0,1
+2026-11-06,Standard vs Beveren,Victor Olatunji,To give an assist,0.5,5.5,0.1818,0.0449,1,0.0,0
+2026-11-06,Standard vs Beveren,Ryan Fosso,Player's shots on target,0.5,3.2,0.3125,0.1955,1,0.0,0
+2026-11-06,Standard vs Beveren,Elohim Kaboré,Player's shots on target,0.5,1.45,0.6897,0.4003,1,0.0,0
+2026-11-06,Standard vs Beveren,Victor Olatunji,To Score,0.5,4.1,0.2439,0.235,1,0.0,0
+2026-11-06,Standard vs Beveren,Christian Brüls,To score at least 2 goals,1.5,35.0,0.0286,0.0003,0,0.0,0
+2026-11-06,Standard vs Beveren,Adnane Abid,To Score,0.5,3.1,0.3226,0.1249,1,0.0,0
+2026-11-06,Standard vs Beveren,Ryan Fosso,To Score,0.5,7.0,0.1429,0.0639,1,0.0,0
+2026-11-06,Standard vs Beveren,Adnane Abid,To score at least 3 goals,2.5,61.0,0.0164,0.0004,1,0.0,0
+2026-11-06,Standard vs Beveren,Elohim Kaboré,To score at least 2 goals,1.5,12.0,0.0833,0.0104,1,0.0,0
+2026-11-06,Standard vs Beveren,Dominic Thompson,To Score,0.5,12.0,0.0833,0.0201,0,0.0,0
+2026-11-06,Standard vs Beveren,Arno Verschueren,To Get a Card,0.5,3.7,0.2703,0.1125,1,0.0,0
+2026-11-06,Standard vs Beveren,Arno Verschueren,To Score,0.5,6.75,0.1481,0.1129,1,0.0,0
+2026-11-06,Standard vs Beveren,Victor Olatunji,To score at least 2 goals,1.5,26.0,0.0385,0.0301,1,0.0,0
+2026-11-06,Standard vs Beveren,Chris Lokesa,To Score,0.5,4.4,0.2273,0.2376,1,0.0,0
+2026-11-06,Standard vs Beveren,Henry Lawrence,To Score,0.5,9.0,0.1111,0.0483,1,0.0,0
+2026-11-06,Toulouse vs Strasbourg,Mark McKenzie,Player's shots on target,0.5,4.3,0.2326,0.0632,1,1.0,1
+2026-11-06,Toulouse vs Strasbourg,Pape Diop,Player's shots on target,0.5,2.1,0.4762,0.1094,0,0.0,0
+2026-11-06,Toulouse vs Strasbourg,Pape Diop,Player's shots on target,1.5,6.0,0.1667,0.0062,0,0.0,0
+2026-11-06,Toulouse vs Strasbourg,Conrad Harder,To score at least 2 goals,1.5,12.0,0.0833,0.0227,1,0.0,0
+2026-11-06,Toulouse vs Strasbourg,Martial Godo,Player's shots on target,1.5,3.6,0.2778,0.1073,1,0.0,0
+2026-11-06,Toulouse vs Strasbourg,Niko Sigur,Player's shots on target,0.5,4.0,0.25,0.2633,1,0.0,0
+2026-11-06,Toulouse vs Strasbourg,Casper Tengstedt,To Get a Card,0.5,5.0,0.2,0.0703,1,0.0,0
+2026-11-06,Toulouse vs Strasbourg,Martial Godo,Player's shots on target,0.5,1.62,0.6173,0.426,1,0.0,0
+2026-11-06,Toulouse vs Strasbourg,Dário Essugo,Player's shots on target,0.5,5.0,0.2,0.2386,1,0.0,0
+2026-11-06,Toulouse vs Strasbourg,Gessime Yassine,To Get a Card,0.5,4.7,0.2128,0.157,1,1.0,1
+2026-11-06,Toulouse vs Strasbourg,Ilyas Azizi,To give an assist,0.5,7.0,0.1429,0.0118,0,0.0,0
+2026-11-06,Toulouse vs Strasbourg,Niko Sigur,To Get a Card,0.5,3.9,0.2564,0.1972,1,1.0,1
+2026-11-06,Toulouse vs Strasbourg,Ilyas Azizi,To score at least 3 goals,2.5,76.0,0.0132,0.0,0,0.0,0
+2026-11-06,Toulouse vs Strasbourg,Alexis Vossah,To score at least 2 goals,1.5,51.0,0.0196,0.0003,0,0.0,0
+2026-11-06,Toulouse vs Strasbourg,Samir El Mourabet,To give an assist,0.5,8.5,0.1176,0.0774,1,0.0,0
+2026-11-06,Toulouse vs Strasbourg,Samir El Mourabet,Player's shots on target,0.5,4.3,0.2326,0.1696,1,0.0,0
+2026-11-06,Toulouse vs Strasbourg,Gessime Yassine,To Score,0.5,3.7,0.2703,0.175,1,0.0,0
+2026-11-06,Toulouse vs Strasbourg,Gessime Yassine,To score at least 2 goals,1.5,21.0,0.0476,0.0163,1,0.0,0
+2026-11-06,Toulouse vs Strasbourg,Casper Tengstedt,Player's shots on target,1.5,2.2,0.4545,0.1757,1,1.0,0
+2026-11-06,Toulouse vs Strasbourg,Pape Diop,To Get a Card,0.5,3.0,0.3333,0.0512,0,0.0,0
+2026-11-06,Toulouse vs Strasbourg,Casper Tengstedt,Player's shots on target,2.5,4.4,0.2273,0.0414,1,1.0,0
+2026-11-06,Toulouse vs Strasbourg,Rasmus Nicolaisen,Player's shots on target,0.5,4.3,0.2326,0.1125,1,0.0,0
+2026-11-06,Toulouse vs Strasbourg,Christ Tape,Player's shots on target,0.5,4.3,0.2326,0.1425,1,0.0,0
+2026-11-06,Toulouse vs Strasbourg,Ilyas Azizi,Player's shots on target,1.5,3.7,0.2703,0.0036,0,0.0,0
+2026-11-06,Toulouse vs Strasbourg,Giovanni Reyna,Player's shots on target,1.5,9.5,0.1053,0.0639,1,1.0,0
+2026-11-06,Toulouse vs Strasbourg,Samir El Mourabet,To Get a Card,0.5,3.5,0.2857,0.1422,1,0.0,0
+2026-11-06,Toulouse vs Strasbourg,Ismaël Doukouré,To Get a Card,0.5,3.4,0.2941,0.1558,1,0.0,0
+2026-11-06,Toulouse vs Strasbourg,Ilyas Azizi,Player's shots on target,0.5,1.63,0.6135,0.0839,0,0.0,0
+2026-11-06,Toulouse vs Strasbourg,Alexis Vossah,Player's shots on target,0.5,2.9,0.3448,0.0633,0,0.0,0
+2026-11-06,Toulouse vs Strasbourg,Karim Coulibaly,Player's shots on target,0.5,4.3,0.2326,0.099,1,0.0,0
+2026-11-06,Toulouse vs Strasbourg,Rasmus Nicolaisen,To Get a Card,0.5,4.2,0.2381,0.1347,1,0.0,0
+2026-11-06,Toulouse vs Strasbourg,Conrad Harder,To give an assist,0.5,5.8,0.1724,0.1233,1,0.0,0
+2026-11-06,Toulouse vs Strasbourg,Jacen Russell-Rowe,To score at least 2 goals,1.5,10.0,0.1,0.0013,0,0.0,0
+2026-11-06,Toulouse vs Strasbourg,Karim Coulibaly,To Score,0.5,10.5,0.0952,0.0234,1,0.0,0
+2026-11-06,Toulouse vs Strasbourg,Christ Tape,To give an assist,0.5,8.5,0.1176,0.0239,1,0.0,0
+2026-11-06,Toulouse vs Strasbourg,Martial Godo,To Score,0.5,3.3,0.303,0.2648,1,0.0,0
+2026-11-06,Toulouse vs Strasbourg,Genesis Antwi,To Get a Card,0.5,4.5,0.2222,0.0201,0,0.0,0
+2026-11-06,Toulouse vs Strasbourg,Casper Tengstedt,To score at least 2 goals,1.5,8.0,0.125,0.0474,1,0.0,0
+2026-11-06,Toulouse vs Strasbourg,Alexis Vossah,To give an assist,0.5,7.0,0.1429,0.0115,0,0.0,0
+2026-11-06,Toulouse vs Strasbourg,Martial Godo,To Get a Card,0.5,4.1,0.2439,0.0898,1,0.0,0
+2026-11-06,Toulouse vs Strasbourg,Casper Tengstedt,To give an assist,0.5,4.8,0.2083,0.0764,1,0.0,0
+2026-11-06,Toulouse vs Strasbourg,Karim Coulibaly,To Get a Card,0.5,3.9,0.2564,0.117,1,1.0,1
+2026-11-06,Toulouse vs Strasbourg,Niko Sigur,To Score,0.5,9.0,0.1111,0.0717,1,0.0,0
+2026-11-06,Toulouse vs Strasbourg,Jacen Russell-Rowe,Player's shots on target,0.5,1.38,0.7246,0.1823,0,0.0,0
+2026-11-06,Toulouse vs Strasbourg,Ismaël Doukouré,To Score,0.5,11.5,0.087,0.0188,1,0.0,0
+2026-11-06,Toulouse vs Strasbourg,Genesis Antwi,To Score,0.5,10.0,0.1,0.0242,0,0.0,0
+2026-11-06,Toulouse vs Strasbourg,Genesis Antwi,To give an assist,0.5,4.9,0.2041,0.0109,0,0.0,0
+2026-11-06,Toulouse vs Strasbourg,Mark McKenzie,To Score,0.5,9.5,0.1053,0.016,1,1.0,1
+2026-11-06,Toulouse vs Strasbourg,Pape Diop,To give an assist,0.5,5.3,0.1887,0.0158,0,0.0,0
+2026-11-06,Toulouse vs Strasbourg,Genesis Antwi,Player's shots on target,0.5,4.1,0.2439,0.068,0,0.0,0
+2026-11-06,Toulouse vs Strasbourg,Dário Essugo,To Get a Card,0.5,2.85,0.3509,0.2326,1,0.0,0
+2026-11-06,Toulouse vs Strasbourg,Conrad Harder,Player's shots on target,1.5,3.1,0.3226,0.1859,1,0.0,0
+2026-11-06,Toulouse vs Strasbourg,Conrad Harder,Player's shots on target,2.5,7.5,0.1333,0.0453,1,0.0,0
+2026-11-06,Toulouse vs Strasbourg,Conrad Harder,Player's shots on target,0.5,1.5,0.6667,0.5439,1,0.0,0
+2026-11-06,Toulouse vs Strasbourg,Dário Essugo,To Score,0.5,11.5,0.087,0.1234,1,0.0,0
+2026-11-06,Toulouse vs Strasbourg,Martial Godo,To give an assist,0.5,6.75,0.1481,0.063,1,0.0,0
+2026-11-06,Toulouse vs Strasbourg,Christ Tape,To Score,0.5,9.5,0.1053,0.0565,1,0.0,0
+2026-11-06,Toulouse vs Strasbourg,Casper Tengstedt,To Score,0.5,2.35,0.4255,0.2918,1,0.0,0
+2026-11-06,Toulouse vs Strasbourg,Gessime Yassine,Player's shots on target,0.5,1.78,0.5618,0.4179,1,1.0,1
+2026-11-06,Toulouse vs Strasbourg,Jacen Russell-Rowe,To score at least 3 goals,2.5,41.0,0.0244,0.0,0,0.0,0
+2026-11-06,Toulouse vs Strasbourg,Jacen Russell-Rowe,Player's shots on target,2.5,5.8,0.1724,0.0012,0,0.0,0
+2026-11-06,Toulouse vs Strasbourg,Mark McKenzie,To Get a Card,0.5,3.9,0.2564,0.1798,1,0.0,0
+2026-11-06,Toulouse vs Strasbourg,Pape Diop,To score at least 2 goals,1.5,30.0,0.0333,0.0002,0,0.0,0
+2026-11-06,Toulouse vs Strasbourg,Pape Diop,To Score,0.5,4.5,0.2222,0.0213,0,0.0,0
+2026-11-06,Toulouse vs Strasbourg,Niko Sigur,To give an assist,0.5,5.75,0.1739,0.064,1,0.0,0
+2026-11-06,Toulouse vs Strasbourg,Giovanni Reyna,Player's shots on target,0.5,2.5,0.4,0.3354,1,1.0,1
+2026-11-06,Toulouse vs Strasbourg,Ismaël Doukouré,Player's shots on target,0.5,5.0,0.2,0.093,1,0.0,0
+2026-11-06,Toulouse vs Strasbourg,Jacen Russell-Rowe,To give an assist,0.5,6.75,0.1481,0.0119,0,0.0,0
+2026-11-06,Toulouse vs Strasbourg,Jacen Russell-Rowe,To Get a Card,0.5,3.3,0.303,0.0262,0,0.0,0
+2026-11-06,Toulouse vs Strasbourg,Rasmus Nicolaisen,To Score,0.5,10.0,0.1,0.034,1,0.0,0
+2026-11-06,Toulouse vs Strasbourg,Ilyas Azizi,To Get a Card,0.5,5.0,0.2,0.0218,0,0.0,0
+2026-11-06,Toulouse vs Strasbourg,Samir El Mourabet,To Score,0.5,10.0,0.1,0.067,1,0.0,0
+2026-11-06,Toulouse vs Strasbourg,Martial Godo,To score at least 2 goals,1.5,16.0,0.0625,0.0386,1,0.0,0
+2026-11-06,Toulouse vs Strasbourg,Jacen Russell-Rowe,Player's shots on target,1.5,2.6,0.3846,0.0177,0,0.0,0
+2026-11-06,Toulouse vs Strasbourg,Gessime Yassine,Player's shots on target,1.5,4.5,0.2222,0.1029,1,1.0,0
+2026-11-06,Toulouse vs Strasbourg,Niko Sigur,To score at least 2 goals,1.5,101.0,0.0099,0.0026,1,0.0,0
+2026-11-06,Toulouse vs Strasbourg,Jacen Russell-Rowe,To Score,0.5,2.7,0.3704,0.051,0,0.0,0
+2026-11-06,Toulouse vs Strasbourg,Christ Tape,To Get a Card,0.5,2.65,0.3774,0.1377,1,1.0,1
+2026-11-06,Toulouse vs Strasbourg,Casper Tengstedt,Player's shots on target,0.5,1.27,0.7874,0.5307,1,1.0,1
+2026-11-06,Toulouse vs Strasbourg,Giovanni Reyna,To score at least 2 goals,1.5,51.0,0.0196,0.0112,1,1.0,0
+2026-11-06,Toulouse vs Strasbourg,Conrad Harder,To Get a Card,0.5,3.9,0.2564,0.133,1,0.0,0
+2026-11-06,Toulouse vs Strasbourg,Alexis Vossah,To Get a Card,0.5,2.85,0.3509,0.0566,0,0.0,0
+2026-11-06,Toulouse vs Strasbourg,Alexis Vossah,To Score,0.5,6.5,0.1538,0.0229,0,0.0,0
+2026-11-06,Toulouse vs Strasbourg,Ilyas Azizi,To Score,0.5,3.4,0.2941,0.0263,0,0.0,0
+2026-11-06,Toulouse vs Strasbourg,Ilyas Azizi,To score at least 2 goals,1.5,17.0,0.0588,0.0003,0,0.0,0
+2026-11-06,Toulouse vs Strasbourg,Giovanni Reyna,To Score,0.5,6.0,0.1667,0.1459,1,1.0,1
+2026-11-06,Toulouse vs Strasbourg,Giovanni Reyna,To give an assist,0.5,5.75,0.1739,0.0504,1,0.0,0
+2026-11-06,Toulouse vs Strasbourg,Conrad Harder,To Score,0.5,2.9,0.3448,0.2052,1,0.0,0
+2026-11-06,Toulouse vs Strasbourg,Giovanni Reyna,To Get a Card,0.5,4.0,0.25,0.1316,1,0.0,0
+2026-11-06,Toulouse vs Strasbourg,Gessime Yassine,To give an assist,0.5,4.3,0.2326,0.1804,1,0.0,0
+2026-11-06,Venezia vs Udinese,Mergim Vojvoda,Player's shots on target,0.5,3.4,0.2941,0.2435,1,0.0,0
+2026-11-06,Venezia vs Udinese,Hassane Kamara,To Score,0.5,11.5,0.087,0.0808,1,0.0,0
+2026-11-06,Venezia vs Udinese,James Abankwah,To Get a Card,0.5,3.6,0.2778,0.1539,1,0.0,0
+2026-11-06,Venezia vs Udinese,Alfred Duncan,To Score,0.5,6.4,0.1562,0.0252,0,0.0,0
+2026-11-06,Venezia vs Udinese,Richie Sagrado,To Get a Card,0.5,3.8,0.2632,0.0243,0,0.0,0
+2026-11-06,Venezia vs Udinese,Pasquale Mazzocchi,To Score,0.5,11.0,0.0909,0.0606,1,0.0,0
+2026-11-06,Venezia vs Udinese,Jakub Piotrowski,To Score,0.5,7.0,0.1429,0.0869,1,0.0,0
+2026-11-06,Venezia vs Udinese,John Yeboah,To score at least 2 goals,1.5,17.0,0.0588,0.0147,1,0.0,0
+2026-11-06,Venezia vs Udinese,Giorgi Chakvetadze,To Score,0.5,7.5,0.1333,0.0176,0,0.0,0
+2026-11-06,Venezia vs Udinese,Joel Schingtienne,To give an assist,0.5,6.5,0.1538,0.0107,0,0.0,0
+2026-11-06,Venezia vs Udinese,Nicolò Zaniolo,Player's shots on target,0.5,1.6,0.625,0.4234,1,0.0,0
+2026-11-06,Venezia vs Udinese,Thierry Correia,To Score,0.5,10.0,0.1,0.0179,0,0.0,0
+2026-11-06,Venezia vs Udinese,Matteo Palma,To Score,0.5,13.0,0.0769,0.0815,1,0.0,0
+2026-11-06,Venezia vs Udinese,Juan Jesus,To Get a Card,0.5,3.7,0.2703,0.2456,1,0.0,0
+2026-11-06,Venezia vs Udinese,Oumar Solet,To Get a Card,0.5,3.7,0.2703,0.0839,1,0.0,0
+2026-11-06,Venezia vs Udinese,Simon Sohm,To give an assist,0.5,6.0,0.1667,0.0755,1,0.0,0
+2026-11-06,Venezia vs Udinese,Nicolò Zaniolo,To give an assist,0.5,4.8,0.2083,0.129,1,0.0,0
+2026-11-06,Venezia vs Udinese,Keinan Davis,Player's shots on target,1.5,2.85,0.3509,0.1423,1,1.0,0
+2026-11-06,Venezia vs Udinese,Ridgeciano Haps,To give an assist,0.5,8.0,0.125,0.0273,0,0.0,0
+2026-11-06,Venezia vs Udinese,Jurgen Ekkelenkamp,To Score,0.5,4.8,0.2083,0.1783,1,0.0,0
+2026-11-06,Venezia vs Udinese,Lion Lauberbach,Player's shots on target,1.5,3.15,0.3175,0.0088,0,0.0,0
+2026-11-06,Venezia vs Udinese,Joel Schingtienne,To Score,0.5,10.0,0.1,0.0189,0,0.0,0
+2026-11-06,Venezia vs Udinese,Toma Basic,To Get a Card,0.5,4.3,0.2326,0.114,1,0.0,0
+2026-11-06,Venezia vs Udinese,Lennon Miller,To give an assist,0.5,7.5,0.1333,0.0205,0,0.0,0
+2026-11-06,Venezia vs Udinese,Albion Rrahmani,Player's shots on target,0.5,1.53,0.6536,0.103,0,0.0,0
+2026-11-06,Venezia vs Udinese,Albion Rrahmani,Player's shots on target,1.5,3.25,0.3077,0.0055,0,0.0,0
+2026-11-06,Venezia vs Udinese,Simon Sohm,Player's shots on target,0.5,3.1,0.3226,0.1933,1,0.0,0
+2026-11-06,Venezia vs Udinese,Lazar Jovanovic,To score at least 2 goals,1.5,21.0,0.0476,0.0004,0,0.0,0
+2026-11-06,Venezia vs Udinese,Kornel Lisman,To score at least 2 goals,1.5,30.0,0.0333,0.0005,0,0.0,0
+2026-11-06,Venezia vs Udinese,Oumar Solet,To Score,0.5,7.5,0.1333,0.0516,1,0.0,0
+2026-11-06,Venezia vs Udinese,Thierry Correia,To Get a Card,0.5,4.0,0.25,0.0427,0,0.0,0
+2026-11-06,Venezia vs Udinese,Jesper Karlström,To Score,0.5,12.5,0.08,0.0626,1,0.0,0
+2026-11-06,Venezia vs Udinese,Oier Zarraga,To Get a Card,0.5,4.0,0.25,0.0274,0,0.0,0
+2026-11-06,Venezia vs Udinese,Toma Basic,To give an assist,0.5,5.2,0.1923,0.0759,1,0.0,0
+2026-11-06,Venezia vs Udinese,Simon Sohm,To Score,0.5,7.5,0.1333,0.0491,1,0.0,0
+2026-11-06,Venezia vs Udinese,Mergim Vojvoda,To give an assist,0.5,6.75,0.1481,0.0609,1,0.0,0
+2026-11-06,Venezia vs Udinese,Keinan Davis,To Get a Card,0.5,4.0,0.25,0.1271,1,0.0,0
+2026-11-06,Venezia vs Udinese,Matteo Dagasso,To give an assist,0.5,6.5,0.1538,0.0186,0,0.0,0
+2026-11-06,Venezia vs Udinese,Armel Bella-Kotchap,To Score,0.5,11.5,0.087,0.0193,0,0.0,0
+2026-11-06,Venezia vs Udinese,Nicolò Bertola,To Get a Card,0.5,3.5,0.2857,0.0436,0,0.0,0
+2026-11-06,Venezia vs Udinese,Jakub Piotrowski,Player's shots on target,0.5,2.7,0.3704,0.2878,1,0.0,0
+2026-11-06,Venezia vs Udinese,Gianluca Busio,To Get a Card,0.5,6.0,0.1667,0.0444,0,0.0,0
+2026-11-06,Venezia vs Udinese,Unai Gomez,To Score,0.5,5.2,0.1923,0.0222,0,0.0,0
+2026-11-06,Venezia vs Udinese,John Yeboah,Player's shots on target,1.5,3.25,0.3077,0.2127,1,0.0,0
+2026-11-06,Venezia vs Udinese,Keinan Davis,Player's shots on target,2.5,6.25,0.16,0.0295,1,1.0,0
+2026-11-06,Venezia vs Udinese,Jakub Piotrowski,To score at least 2 goals,1.5,56.0,0.0179,0.0039,1,0.0,0
+2026-11-06,Venezia vs Udinese,Christian Kabasele,To give an assist,0.5,11.5,0.087,0.0074,0,0.0,0
+2026-11-06,Venezia vs Udinese,Lion Lauberbach,To score at least 3 goals,2.5,71.0,0.0141,0.0,0,0.0,0
+2026-11-06,Venezia vs Udinese,Alfred Duncan,Player's shots on target,0.5,2.75,0.3636,0.0751,0,0.0,0
+2026-11-06,Venezia vs Udinese,Lazar Jovanovic,Player's shots on target,1.5,4.0,0.25,0.0048,0,0.0,0
+2026-11-06,Venezia vs Udinese,John Yeboah,To score at least 3 goals,2.5,91.0,0.011,0.0009,1,0.0,0
+2026-11-06,Venezia vs Udinese,Armel Bella-Kotchap,Player's shots on target,0.5,4.7,0.2128,0.0543,0,0.0,0
+2026-11-06,Venezia vs Udinese,Matías Moreno,Player's shots on target,0.5,4.5,0.2222,0.053,1,0.0,0
+2026-11-06,Venezia vs Udinese,Hassane Kamara,Player's shots on target,0.5,3.7,0.2703,0.3012,1,0.0,0
+2026-11-06,Venezia vs Udinese,Hassane Kamara,To give an assist,0.5,9.0,0.1111,0.1177,1,0.0,0
+2026-11-06,Venezia vs Udinese,Oumar Solet,To give an assist,0.5,16.0,0.0625,0.0258,1,0.0,0
+2026-11-06,Venezia vs Udinese,Nicolò Zaniolo,Player's shots on target,1.5,3.4,0.2941,0.1059,1,0.0,0
+2026-11-06,Venezia vs Udinese,Matteo Dagasso,Player's shots on target,0.5,2.9,0.3448,0.101,0,0.0,0
+2026-11-06,Venezia vs Udinese,Matteo Palma,To give an assist,0.5,12.5,0.08,0.02,1,0.0,0
+2026-11-06,Venezia vs Udinese,John Yeboah,Player's shots on target,2.5,8.0,0.125,0.0563,1,0.0,0
+2026-11-06,Venezia vs Udinese,Matías Moreno,To give an assist,0.5,10.0,0.1,0.0161,1,0.0,0
+2026-11-06,Venezia vs Udinese,Richie Sagrado,To give an assist,0.5,10.0,0.1,0.0227,0,0.0,0
+2026-11-06,Venezia vs Udinese,Redouane Halhal,To give an assist,0.5,15.0,0.0667,0.0343,1,0.0,0
+2026-11-06,Venezia vs Udinese,Nicolò Bertola,To give an assist,0.5,15.0,0.0667,0.0122,0,0.0,0
+2026-11-06,Venezia vs Udinese,Lazar Jovanovic,To Get a Card,0.5,4.8,0.2083,0.034,0,0.0,0
+2026-11-06,Venezia vs Udinese,Jesper Karlström,Player's shots on target,0.5,4.2,0.2381,0.2118,1,0.0,0
+2026-11-06,Venezia vs Udinese,Ridgeciano Haps,Player's shots on target,0.5,4.5,0.2222,0.1084,0,0.0,0
+2026-11-06,Venezia vs Udinese,Lennon Miller,Player's shots on target,0.5,3.1,0.3226,0.0875,0,0.0,0
+2026-11-06,Venezia vs Udinese,Keinan Davis,To score at least 3 goals,2.5,81.0,0.0123,0.0009,1,0.0,0
+2026-11-06,Venezia vs Udinese,Richie Sagrado,Player's shots on target,0.5,3.8,0.2632,0.1043,0,0.0,0
+2026-11-06,Venezia vs Udinese,Nicolò Bertola,Player's shots on target,0.5,4.8,0.2083,0.082,0,0.0,0
+2026-11-06,Venezia vs Udinese,Christian Kabasele,Player's shots on target,0.5,5.0,0.2,0.0695,0,0.0,0
+2026-11-06,Venezia vs Udinese,Joel Schingtienne,Player's shots on target,0.5,4.0,0.25,0.049,0,0.0,0
+2026-11-06,Venezia vs Udinese,Oier Zarraga,Player's shots on target,0.5,3.9,0.2564,0.0725,0,0.0,0
+2026-11-06,Venezia vs Udinese,Juan Jesus,Player's shots on target,0.5,4.5,0.2222,0.0587,1,0.0,0
+2026-11-06,Venezia vs Udinese,Oier Zarraga,To give an assist,0.5,9.5,0.1053,0.0108,0,0.0,0
+2026-11-06,Venezia vs Udinese,James Abankwah,To give an assist,0.5,12.0,0.0833,0.0158,1,0.0,0
+2026-11-06,Venezia vs Udinese,Juan Jesus,To give an assist,0.5,12.0,0.0833,0.0199,1,0.0,0
+2026-11-06,Venezia vs Udinese,Jesper Karlström,To give an assist,0.5,8.0,0.125,0.038,1,0.0,0
+2026-11-06,Venezia vs Udinese,James Abankwah,To score at least 2 goals,1.5,131.0,0.0076,0.0017,1,0.0,0
+2026-11-06,Venezia vs Udinese,Giorgi Chakvetadze,To score at least 2 goals,1.5,71.0,0.0141,0.0002,0,0.0,0
+2026-11-06,Venezia vs Udinese,Thierry Correia,Player's shots on target,0.5,4.1,0.2439,0.0638,0,0.0,0
+2026-11-06,Venezia vs Udinese,Pasquale Mazzocchi,Player's shots on target,0.5,4.5,0.2222,0.2099,1,0.0,0
+2026-11-06,Venezia vs Udinese,Matteo Palma,Player's shots on target,0.5,5.0,0.2,0.2199,1,0.0,0
+2026-11-06,Venezia vs Udinese,Jurgen Ekkelenkamp,Player's shots on target,1.5,6.0,0.1667,0.0878,1,3.0,1
+2026-11-06,Venezia vs Udinese,Armel Bella-Kotchap,To give an assist,0.5,13.0,0.0769,0.0086,0,0.0,0
+2026-11-06,Venezia vs Udinese,Redouane Halhal,Player's shots on target,0.5,4.7,0.2128,0.1257,1,0.0,0
+2026-11-06,Venezia vs Udinese,Unai Gomez,To score at least 2 goals,1.5,41.0,0.0244,0.0002,0,0.0,0
+2026-11-06,Venezia vs Udinese,Jurgen Ekkelenkamp,To Get a Card,0.5,3.9,0.2564,0.0634,1,0.0,0
+2026-11-06,Venezia vs Udinese,Albion Rrahmani,To Get a Card,0.5,4.6,0.2174,0.0222,0,0.0,0
+2026-11-06,Venezia vs Udinese,John Yeboah,To Score,0.5,3.5,0.2857,0.1666,1,0.0,0
+2026-11-06,Venezia vs Udinese,Kornel Lisman,Player's shots on target,0.5,2.07,0.4831,0.0911,0,0.0,0
+2026-11-06,Venezia vs Udinese,Kornel Lisman,To give an assist,0.5,4.3,0.2326,0.0147,0,0.0,0
+2026-11-06,Venezia vs Udinese,Pasquale Mazzocchi,To give an assist,0.5,7.5,0.1333,0.0884,1,1.0,1
+2026-11-06,Venezia vs Udinese,Mergim Vojvoda,To score at least 2 goals,1.5,101.0,0.0099,0.0021,1,0.0,0
+2026-11-06,Venezia vs Udinese,Mergim Vojvoda,To Score,0.5,8.5,0.1176,0.0645,1,0.0,0
+2026-11-06,Venezia vs Udinese,Jurgen Ekkelenkamp,To give an assist,0.5,6.0,0.1667,0.0924,1,0.0,0
+2026-11-06,Venezia vs Udinese,Jesper Karlström,To Get a Card,0.5,4.0,0.25,0.208,1,0.0,0
+2026-11-06,Venezia vs Udinese,Mergim Vojvoda,To Get a Card,0.5,4.0,0.25,0.0833,1,0.0,0
+2026-11-06,Venezia vs Udinese,Lennon Miller,To Score,0.5,7.5,0.1333,0.0209,0,0.0,0
+2026-11-06,Venezia vs Udinese,Nicolò Bertola,To Score,0.5,12.5,0.08,0.0215,0,0.0,0
+2026-11-06,Venezia vs Udinese,Joel Schingtienne,To Get a Card,0.5,4.0,0.25,0.0437,0,0.0,0
+2026-11-06,Venezia vs Udinese,James Abankwah,To Score,0.5,11.0,0.0909,0.0571,1,0.0,0
+2026-11-06,Venezia vs Udinese,Giorgi Chakvetadze,To Get a Card,0.5,3.8,0.2632,0.0336,0,0.0,0
+2026-11-06,Venezia vs Udinese,Keinan Davis,Player's shots on target,0.5,1.43,0.6993,0.4835,1,1.0,1
+2026-11-06,Venezia vs Udinese,Jakub Piotrowski,To give an assist,0.5,6.0,0.1667,0.0533,1,0.0,0
+2026-11-06,Venezia vs Udinese,Lazar Jovanovic,To give an assist,0.5,5.8,0.1724,0.0129,0,0.0,0
+2026-11-06,Venezia vs Udinese,Nicolò Zaniolo,To score at least 2 goals,1.5,19.0,0.0526,0.0101,1,0.0,0
+2026-11-06,Venezia vs Udinese,Antoine Hainaut,Player's shots on target,0.5,2.65,0.3774,0.2681,1,1.0,1
+2026-11-06,Venezia vs Udinese,Kornel Lisman,To Get a Card,0.5,4.4,0.2273,0.0272,0,0.0,0
+2026-11-06,Venezia vs Udinese,Oumar Solet,To score at least 2 goals,1.5,71.0,0.0141,0.0014,1,0.0,0
+2026-11-06,Venezia vs Udinese,Matteo Palma,To Get a Card,0.5,3.9,0.2564,0.1617,1,1.0,1
+2026-11-06,Venezia vs Udinese,Alfred Duncan,To Get a Card,0.5,4.2,0.2381,0.0311,0,0.0,0
+2026-11-06,Venezia vs Udinese,James Abankwah,Player's shots on target,0.5,4.0,0.25,0.093,1,0.0,0
+2026-11-06,Venezia vs Udinese,Redouane Halhal,To Score,0.5,11.0,0.0909,0.027,1,0.0,0
+2026-11-06,Venezia vs Udinese,Lion Lauberbach,Player's shots on target,0.5,1.5,0.6667,0.1294,0,0.0,0
+2026-11-06,Venezia vs Udinese,Antoine Hainaut,To score at least 2 goals,1.5,51.0,0.0196,0.0084,1,0.0,0
+2026-11-06,Venezia vs Udinese,Hassane Kamara,To Get a Card,0.5,4.3,0.2326,0.1477,1,0.0,0
+2026-11-06,Venezia vs Udinese,Antoine Hainaut,To Score,0.5,6.0,0.1667,0.1265,1,0.0,0
+2026-11-06,Venezia vs Udinese,Ridgeciano Haps,To Get a Card,0.5,3.5,0.2857,0.0401,0,0.0,0
+2026-11-06,Venezia vs Udinese,Jurgen Ekkelenkamp,To score at least 2 goals,1.5,36.0,0.0278,0.0169,1,0.0,0
+2026-11-06,Venezia vs Udinese,Lion Lauberbach,To Get a Card,0.5,4.1,0.2439,0.0236,0,0.0,0
+2026-11-06,Venezia vs Udinese,Gianluca Busio,To give an assist,0.5,5.0,0.2,0.0357,0,0.0,0
+2026-11-06,Venezia vs Udinese,Simon Sohm,To Get a Card,0.5,5.2,0.1923,0.17,1,0.0,0
+2026-11-06,Venezia vs Udinese,Lion Lauberbach,To give an assist,0.5,3.5,0.2857,0.011,0,0.0,0
+2026-11-06,Venezia vs Udinese,Unai Gomez,To give an assist,0.5,6.5,0.1538,0.0198,0,0.0,0
+2026-11-06,Venezia vs Udinese,Giorgi Chakvetadze,Player's shots on target,0.5,2.95,0.339,0.0869,0,1.0,1
+2026-11-06,Venezia vs Udinese,Keinan Davis,To score at least 2 goals,1.5,14.0,0.0714,0.0145,1,0.0,0
+2026-11-06,Venezia vs Udinese,Keinan Davis,To Score,0.5,3.2,0.3125,0.1654,1,0.0,0
+2026-11-06,Venezia vs Udinese,Kornel Lisman,To Score,0.5,4.5,0.2222,0.0328,0,0.0,0
+2026-11-06,Venezia vs Udinese,Giorgi Chakvetadze,To give an assist,0.5,5.0,0.2,0.0202,0,0.0,0
+2026-11-06,Venezia vs Udinese,Antoine Hainaut,To Get a Card,0.5,4.2,0.2381,0.0939,1,0.0,0
+2026-11-06,Venezia vs Udinese,Matteo Dagasso,To Score,0.5,6.5,0.1538,0.0362,0,0.0,0
+2026-11-06,Venezia vs Udinese,Oumar Solet,Player's shots on target,0.5,2.95,0.339,0.1724,1,0.0,0
+2026-11-06,Venezia vs Udinese,Thierry Correia,To give an assist,0.5,7.5,0.1333,0.0184,0,0.0,0
+2026-11-06,Venezia vs Udinese,Unai Gomez,Player's shots on target,0.5,2.15,0.4651,0.1021,0,0.0,0
+2026-11-06,Venezia vs Udinese,Antoine Hainaut,To give an assist,0.5,6.0,0.1667,0.092,1,1.0,1
+2026-11-06,Venezia vs Udinese,Lazar Jovanovic,Player's shots on target,0.5,1.72,0.5814,0.0966,0,0.0,0
+2026-11-06,Venezia vs Udinese,Jurgen Ekkelenkamp,Player's shots on target,0.5,2.15,0.4651,0.3886,1,3.0,1
+2026-11-06,Venezia vs Udinese,Christian Kabasele,To Get a Card,0.5,3.4,0.2941,0.0343,0,0.0,0
+2026-11-06,Venezia vs Udinese,Albion Rrahmani,To give an assist,0.5,6.5,0.1538,0.012,0,0.0,0
+2026-11-06,Venezia vs Udinese,Richie Sagrado,To Score,0.5,9.5,0.1053,0.0372,0,0.0,0
+2026-11-06,Venezia vs Udinese,Pasquale Mazzocchi,To Get a Card,0.5,4.3,0.2326,0.1142,1,1.0,1
+2026-11-06,Venezia vs Udinese,Unai Gomez,To Get a Card,0.5,4.2,0.2381,0.0309,0,0.0,0
+2026-11-06,Venezia vs Udinese,Jakub Piotrowski,To Get a Card,0.5,3.7,0.2703,0.148,1,0.0,0
+2026-11-06,Venezia vs Udinese,Gianluca Busio,Player's shots on target,0.5,2.5,0.4,0.1075,0,0.0,0
+2026-11-06,Venezia vs Udinese,Matteo Dagasso,To Get a Card,0.5,4.0,0.25,0.0326,0,0.0,0
+2026-11-06,Venezia vs Udinese,Gianluca Busio,To Score,0.5,5.8,0.1724,0.0312,0,0.0,0
+2026-11-06,Venezia vs Udinese,Alfred Duncan,To give an assist,0.5,5.8,0.1724,0.0158,0,0.0,0
+2026-11-06,Venezia vs Udinese,Redouane Halhal,To Get a Card,0.5,4.6,0.2174,0.1964,1,0.0,0
+2026-11-06,Venezia vs Udinese,Lazar Jovanovic,To Score,0.5,3.9,0.2564,0.0288,0,0.0,0
+2026-11-06,Venezia vs Udinese,Lennon Miller,To Get a Card,0.5,4.0,0.25,0.0516,0,0.0,0
+2026-11-06,Venezia vs Udinese,Nicolò Zaniolo,To Score,0.5,3.6,0.2778,0.1385,1,0.0,0
+2026-11-06,Venezia vs Udinese,Matías Moreno,To Get a Card,0.5,4.2,0.2381,0.2245,1,0.0,0
+2026-11-06,Venezia vs Udinese,Armel Bella-Kotchap,To Get a Card,0.5,4.2,0.2381,0.0296,0,0.0,0
+2026-11-06,Venezia vs Udinese,John Yeboah,To Get a Card,0.5,5.0,0.2,0.0809,1,0.0,0
+2026-11-06,Venezia vs Udinese,Juan Jesus,To Score,0.5,11.0,0.0909,0.0168,1,0.0,0
+2026-11-06,Venezia vs Udinese,Christian Kabasele,To Score,0.5,12.5,0.08,0.0248,0,0.0,0
+2026-11-06,Venezia vs Udinese,Oier Zarraga,To Score,0.5,10.5,0.0952,0.0252,0,0.0,0
+2026-11-06,Venezia vs Udinese,John Yeboah,Player's shots on target,0.5,1.54,0.6494,0.5766,1,0.0,0
+2026-11-06,Venezia vs Udinese,Keinan Davis,To give an assist,0.5,4.0,0.25,0.1172,1,0.0,0
+2026-11-06,Venezia vs Udinese,Albion Rrahmani,To score at least 2 goals,1.5,15.0,0.0667,0.0006,0,0.0,0
+2026-11-06,Venezia vs Udinese,Toma Basic,To Score,0.5,5.3,0.1887,0.0699,1,1.0,1
+2026-11-06,Venezia vs Udinese,Ridgeciano Haps,To Score,0.5,11.0,0.0909,0.0444,0,0.0,0
+2026-11-06,Venezia vs Udinese,Toma Basic,To score at least 2 goals,1.5,34.0,0.0294,0.0025,1,1.0,0
+2026-11-06,Venezia vs Udinese,Albion Rrahmani,To Score,0.5,3.4,0.2941,0.0354,0,0.0,0
+2026-11-06,Venezia vs Udinese,Nicolò Zaniolo,To Get a Card,0.5,4.2,0.2381,0.218,1,0.0,0
+2026-11-06,Venezia vs Udinese,John Yeboah,To give an assist,0.5,4.0,0.25,0.1105,1,0.0,0
+2026-11-06,Venezia vs Udinese,Matías Moreno,To Score,0.5,11.0,0.0909,0.0148,1,0.0,0
+2026-11-06,Venezia vs Udinese,Toma Basic,Player's shots on target,0.5,2.32,0.431,0.3155,1,1.0,1
+2026-11-06,Venezia vs Udinese,Lion Lauberbach,To score at least 2 goals,1.5,14.0,0.0714,0.0005,0,0.0,0
+2026-11-06,Venezia vs Udinese,Lion Lauberbach,To Score,0.5,3.2,0.3125,0.0324,0,0.0,0
+2026-11-06,Everton vs Coventry,Taiwo Awoniyi,Player's shots on target,0.5,1.72,0.5814,0.4318,1,0.0,0
+2026-11-06,Everton vs Coventry,Vitaliy Mykolenko,To Get a Card,0.5,4.6,0.2174,0.1702,1,0.0,0
+2026-11-06,Everton vs Coventry,Jake O'Brien,To Score,0.5,10.0,0.1,0.023,0,0.0,0
+2026-11-06,Everton vs Coventry,Sidiki Chérif,To Score,0.5,4.3,0.2326,0.0448,0,0.0,0
+2026-11-06,Everton vs Coventry,Vitaliy Mykolenko,Player's shots on target,0.5,4.3,0.2326,0.0662,1,1.0,1
+2026-11-06,Everton vs Coventry,Caleb Yirenkyi,To Get a Card,0.5,3.0,0.3333,0.1864,1,1.0,1
+2026-11-06,Everton vs Coventry,Tatsuhiro Sakamoto,Player's shots on target,0.5,2.75,0.3636,0.3614,1,1.0,1
+2026-11-06,Everton vs Coventry,Jarrad Branthwaite,Player's shots on target,0.5,3.3,0.303,0.2006,1,0.0,0
+2026-11-06,Everton vs Coventry,Harrison Armstrong,To Get a Card,0.5,3.6,0.2778,0.1706,1,0.0,0
+2026-11-06,Everton vs Coventry,Brennan Johnson,To Score,0.5,3.3,0.303,0.025,0,0.0,0
+2026-11-06,Everton vs Coventry,Brennan Johnson,To score at least 3 goals,2.5,81.0,0.0123,0.0,0,0.0,0
+2026-11-06,Everton vs Coventry,Ethan Pinnock,Player's shots on target,0.5,5.8,0.1724,0.0895,1,0.0,0
+2026-11-06,Everton vs Coventry,Jarrad Branthwaite,To Get a Card,0.5,3.4,0.2941,0.1073,1,1.0,1
+2026-11-06,Everton vs Coventry,Jack Rudoni,To Score,0.5,4.4,0.2273,0.2239,1,0.0,0
+2026-11-06,Everton vs Coventry,Sidiki Chérif,To Get a Card,0.5,4.0,0.25,0.021,0,0.0,0
+2026-11-06,Everton vs Coventry,Milan Van Ewijk,To Get a Card,0.5,4.1,0.2439,0.1504,1,0.0,0
+2026-11-06,Everton vs Coventry,Tyrique George,Player's shots on target,0.5,1.58,0.6329,0.3461,1,1.0,1
+2026-11-06,Everton vs Coventry,Milan Van Ewijk,Player's shots on target,0.5,6.25,0.16,0.0557,1,0.0,0
+2026-11-06,Everton vs Coventry,Brandon Thomas-Asante,To Get a Card,0.5,3.7,0.2703,0.0161,0,0.0,0
+2026-11-06,Everton vs Coventry,Jack Rudoni,Player's shots on target,0.5,1.97,0.5076,0.4245,1,0.0,0
+2026-11-06,Everton vs Coventry,Jack Rudoni,To score at least 2 goals,1.5,29.0,0.0345,0.0272,1,0.0,0
+2026-11-06,Everton vs Coventry,Brandon Thomas-Asante,Player's shots on target,0.5,2.05,0.4878,0.1532,0,0.0,0
+2026-11-06,Everton vs Coventry,Tyrique George,To Get a Card,0.5,4.2,0.2381,0.1424,1,0.0,0
+2026-11-06,Everton vs Coventry,Merlin Röhl,To Get a Card,0.5,3.6,0.2778,0.1215,1,0.0,0
+2026-11-06,Everton vs Coventry,Thierno Barry,To score at least 3 goals,2.5,21.0,0.0476,0.0037,1,2.0,0
+2026-11-06,Everton vs Coventry,James Tarkowski,To Score,0.5,8.0,0.125,0.0658,1,0.0,0
+2026-11-06,Everton vs Coventry,Kiernan Dewsbury-Hall,To Score,0.5,3.15,0.3175,0.1637,1,1.0,1
+2026-11-06,Everton vs Coventry,Matt Grimes,To Score,0.5,15.0,0.0667,0.0222,0,0.0,0
+2026-11-06,Everton vs Coventry,Brennan Johnson,To Get a Card,0.5,4.1,0.2439,0.0505,0,0.0,0
+2026-11-06,Everton vs Coventry,Vitaliy Mykolenko,To score at least 2 goals,1.5,111.0,0.009,0.0001,1,0.0,0
+2026-11-06,Everton vs Coventry,Yann Gboho,To score at least 2 goals,1.5,36.0,0.0278,0.0106,1,1.0,0
+2026-11-06,Everton vs Coventry,Ethan Pinnock,To give an assist,0.5,16.0,0.0625,0.0202,1,0.0,0
+2026-11-06,Everton vs Coventry,Caleb Yirenkyi,To score at least 2 goals,1.5,91.0,0.011,0.0019,1,0.0,0
+2026-11-06,Everton vs Coventry,Victor Torp,Player's shots on target,0.5,2.55,0.3922,0.3379,1,1.0,1
+2026-11-06,Everton vs Coventry,Yann Gboho,To give an assist,0.5,5.5,0.1818,0.1158,1,0.0,0
+2026-11-06,Everton vs Coventry,Yann Gboho,To Score,0.5,5.0,0.2,0.1423,1,1.0,1
+2026-11-06,Everton vs Coventry,Victor Torp,To give an assist,0.5,6.25,0.16,0.1909,1,0.0,0
+2026-11-06,Everton vs Coventry,Stephen Mfuni,To score at least 2 goals,1.5,131.0,0.0076,0.0019,1,0.0,0
+2026-11-06,Everton vs Coventry,Milan Van Ewijk,To give an assist,0.5,11.0,0.0909,0.0665,1,0.0,0
+2026-11-06,Everton vs Coventry,Victor Torp,To score at least 2 goals,1.5,46.0,0.0217,0.0133,1,0.0,0
+2026-11-06,Everton vs Coventry,Kiernan Dewsbury-Hall,Player's shots on target,2.5,8.5,0.1176,0.0148,1,1.0,0
+2026-11-06,Everton vs Coventry,Yann Gboho,Player's shots on target,0.5,2.23,0.4484,0.364,1,2.0,1
+2026-11-06,Everton vs Coventry,Merlin Röhl,Player's shots on target,1.5,6.5,0.1538,0.0105,1,0.0,0
+2026-11-06,Everton vs Coventry,Thierno Barry,Player's shots on target,3.5,8.5,0.1176,0.0089,1,2.0,0
+2026-11-06,Everton vs Coventry,Tatsuhiro Sakamoto,Player's shots on target,1.5,10.0,0.1,0.075,1,1.0,0
+2026-11-06,Everton vs Coventry,Kiernan Dewsbury-Hall,Player's shots on target,0.5,1.48,0.6757,0.3964,1,1.0,1
+2026-11-06,Everton vs Coventry,Victor Torp,To Score,0.5,6.0,0.1667,0.1587,1,0.0,0
+2026-11-06,Everton vs Coventry,Taiwo Awoniyi,To give an assist,0.5,8.5,0.1176,0.0656,1,0.0,0
+2026-11-06,Everton vs Coventry,Jack Rudoni,Player's shots on target,1.5,5.5,0.1818,0.1065,1,0.0,0
+2026-11-06,Everton vs Coventry,Jake O'Brien,To give an assist,0.5,13.0,0.0769,0.0095,0,0.0,0
+2026-11-06,Everton vs Coventry,Matt Grimes,To give an assist,0.5,13.0,0.0769,0.0086,0,0.0,0
+2026-11-06,Everton vs Coventry,Vitaliy Mykolenko,To give an assist,0.5,12.0,0.0833,0.031,1,1.0,1
+2026-11-06,Everton vs Coventry,James Tarkowski,To give an assist,0.5,11.0,0.0909,0.0784,1,0.0,0
+2026-11-06,Everton vs Coventry,Kiernan Dewsbury-Hall,To score at least 3 goals,2.5,71.0,0.0141,0.0008,1,1.0,0
+2026-11-06,Everton vs Coventry,Matt Grimes,Player's shots on target,0.5,6.1,0.1639,0.0552,0,0.0,0
+2026-11-06,Everton vs Coventry,Brandon Thomas-Asante,Player's shots on target,1.5,6.0,0.1667,0.0124,0,0.0,0
+2026-11-06,Everton vs Coventry,Jarrad Branthwaite,To give an assist,0.5,12.0,0.0833,0.0219,1,0.0,0
+2026-11-06,Everton vs Coventry,Victor Torp,Player's shots on target,1.5,8.5,0.1176,0.0649,1,1.0,0
+2026-11-06,Everton vs Coventry,Yann Gboho,Player's shots on target,1.5,7.0,0.1429,0.0762,1,2.0,1
+2026-11-06,Everton vs Coventry,Victor Torp,To Get a Card,0.5,3.1,0.3226,0.1567,1,0.0,0
+2026-11-06,Everton vs Coventry,Tatsuhiro Sakamoto,To score at least 2 goals,1.5,71.0,0.0141,0.0133,1,0.0,0
+2026-11-06,Everton vs Coventry,Kiernan Dewsbury-Hall,Player's shots on target,1.5,3.4,0.2941,0.0917,1,1.0,0
+2026-11-06,Everton vs Coventry,Stephen Mfuni,To give an assist,0.5,15.0,0.0667,0.0226,1,0.0,0
+2026-11-06,Everton vs Coventry,Taiwo Awoniyi,To score at least 3 goals,2.5,111.0,0.009,0.002,1,0.0,0
+2026-11-06,Everton vs Coventry,Tyrique George,Player's shots on target,1.5,3.8,0.2632,0.0683,1,1.0,0
+2026-11-06,Everton vs Coventry,Yann Gboho,To Get a Card,0.5,4.5,0.2222,0.0979,1,0.0,0
+2026-11-06,Everton vs Coventry,James Garner,Player's shots on target,0.5,2.8,0.3571,0.2775,1,0.0,0
+2026-11-06,Everton vs Coventry,Tyrique George,To Score,0.5,3.3,0.303,0.1032,1,0.0,0
+2026-11-06,Everton vs Coventry,Tyrique George,To give an assist,0.5,4.1,0.2439,0.0535,1,0.0,0
+2026-11-06,Everton vs Coventry,Milan Van Ewijk,To Score,0.5,16.0,0.0625,0.0146,1,0.0,0
+2026-11-06,Everton vs Coventry,Brennan Johnson,To give an assist,0.5,3.8,0.2632,0.013,0,0.0,0
+2026-11-06,Everton vs Coventry,James Garner,To give an assist,0.5,3.6,0.2778,0.1048,1,0.0,0
+2026-11-06,Everton vs Coventry,Ainsley Maitland-Niles,To Score,0.5,9.0,0.1111,0.0272,0,0.0,0
+2026-11-06,Everton vs Coventry,Tyrique George,To score at least 3 goals,2.5,81.0,0.0123,0.0002,1,0.0,0
+2026-11-06,Everton vs Coventry,Brennan Johnson,To score at least 2 goals,1.5,15.0,0.0667,0.0003,0,0.0,0
+2026-11-06,Everton vs Coventry,Tatsuhiro Sakamoto,To Get a Card,0.5,3.7,0.2703,0.1362,1,0.0,0
+2026-11-06,Everton vs Coventry,Stephen Mfuni,To Score,0.5,13.0,0.0769,0.0609,1,0.0,0
+2026-11-06,Everton vs Coventry,Harrison Armstrong,Player's shots on target,0.5,3.25,0.3077,0.2403,1,1.0,1
+2026-11-06,Everton vs Coventry,Tatsuhiro Sakamoto,To give an assist,0.5,7.5,0.1333,0.0679,1,0.0,0
+2026-11-06,Everton vs Coventry,Harrison Armstrong,To Score,0.5,7.0,0.1429,0.0542,1,0.0,0
+2026-11-06,Everton vs Coventry,Jarrad Branthwaite,To score at least 2 goals,1.5,76.0,0.0132,0.0007,1,0.0,0
+2026-11-06,Everton vs Coventry,Thierno Barry,To Get a Card,0.5,4.7,0.2128,0.0838,1,0.0,0
+2026-11-06,Everton vs Coventry,James Tarkowski,To Get a Card,0.5,3.8,0.2632,0.1992,1,0.0,0
+2026-11-06,Everton vs Coventry,Jake O'Brien,To Get a Card,0.5,3.9,0.2564,0.045,0,0.0,0
+2026-11-06,Everton vs Coventry,James Garner,To Get a Card,0.5,3.4,0.2941,0.2445,1,0.0,0
+2026-11-06,Everton vs Coventry,Harrison Armstrong,To score at least 2 goals,1.5,71.0,0.0141,0.0015,1,0.0,0
+2026-11-06,Everton vs Coventry,Ainsley Maitland-Niles,Player's shots on target,0.5,4.0,0.25,0.0777,0,0.0,0
+2026-11-06,Everton vs Coventry,Ethan Pinnock,To Get a Card,0.5,4.5,0.2222,0.1222,1,0.0,0
+2026-11-06,Everton vs Coventry,Jarrad Branthwaite,To Score,0.5,7.5,0.1333,0.0364,1,0.0,0
+2026-11-06,Everton vs Coventry,Merlin Röhl,To Score,0.5,5.4,0.1852,0.047,1,0.0,0
+2026-11-06,Everton vs Coventry,Merlin Röhl,To score at least 2 goals,1.5,41.0,0.0244,0.0011,1,0.0,0
+2026-11-06,Everton vs Coventry,Brennan Johnson,Player's shots on target,1.5,3.7,0.2703,0.0023,0,0.0,0
+2026-11-06,Everton vs Coventry,Thierno Barry,To give an assist,0.5,3.9,0.2564,0.0354,1,1.0,1
+2026-11-06,Everton vs Coventry,Matt Grimes,To Get a Card,0.5,3.5,0.2857,0.0234,0,0.0,0
+2026-11-06,Everton vs Coventry,Vitaliy Mykolenko,To Score,0.5,10.0,0.1,0.0172,1,0.0,0
+2026-11-06,Everton vs Coventry,Brandon Thomas-Asante,To score at least 2 goals,1.5,35.0,0.0286,0.0015,0,0.0,0
+2026-11-06,Everton vs Coventry,Thierno Barry,Player's shots on target,1.5,1.98,0.5051,0.1896,1,2.0,1
+2026-11-06,Everton vs Coventry,Thierno Barry,To score at least 2 goals,1.5,6.0,0.1667,0.0379,1,2.0,1
+2026-11-06,Everton vs Coventry,Ainsley Maitland-Niles,To Get a Card,0.5,4.4,0.2273,0.0335,0,0.0,0
+2026-11-06,Everton vs Coventry,Caleb Yirenkyi,To Score,0.5,9.5,0.1053,0.0603,1,0.0,0
+2026-11-06,Everton vs Coventry,Brennan Johnson,Player's shots on target,0.5,1.56,0.641,0.0664,0,0.0,0
+2026-11-06,Everton vs Coventry,Taiwo Awoniyi,To score at least 2 goals,1.5,20.0,0.05,0.0252,1,0.0,0
+2026-11-06,Everton vs Coventry,James Garner,To score at least 2 goals,1.5,51.0,0.0196,0.0012,1,0.0,0
+2026-11-06,Everton vs Coventry,Taiwo Awoniyi,To Score,0.5,3.7,0.2703,0.2161,1,0.0,0
+2026-11-06,Everton vs Coventry,Brandon Thomas-Asante,To give an assist,0.5,6.0,0.1667,0.0348,0,0.0,0
+2026-11-06,Everton vs Coventry,Merlin Röhl,To give an assist,0.5,4.5,0.2222,0.0249,1,0.0,0
+2026-11-06,Everton vs Coventry,Caleb Yirenkyi,To give an assist,0.5,7.5,0.1333,0.0918,1,0.0,0
+2026-11-06,Everton vs Coventry,Jack Rudoni,To Get a Card,0.5,3.6,0.2778,0.0922,1,0.0,0
+2026-11-06,Everton vs Coventry,Sidiki Chérif,To score at least 2 goals,1.5,26.0,0.0385,0.001,0,0.0,0
+2026-11-06,Everton vs Coventry,Tatsuhiro Sakamoto,To Score,0.5,8.0,0.125,0.1586,1,0.0,0
+2026-11-06,Everton vs Coventry,Merlin Röhl,Player's shots on target,0.5,2.17,0.4608,0.1415,1,0.0,0
+2026-11-06,Everton vs Coventry,Jake O'Brien,Player's shots on target,0.5,4.3,0.2326,0.0778,0,0.0,0
+2026-11-06,Everton vs Coventry,Jack Rudoni,To give an assist,0.5,6.0,0.1667,0.125,1,0.0,0
+2026-11-06,Everton vs Coventry,Sidiki Chérif,To give an assist,0.5,5.6,0.1786,0.0126,0,0.0,0
+2026-11-06,Everton vs Coventry,Stephen Mfuni,To Get a Card,0.5,3.6,0.2778,0.1463,1,0.0,0
+2026-11-06,Everton vs Coventry,Kiernan Dewsbury-Hall,To Get a Card,0.5,3.7,0.2703,0.1174,1,0.0,0
+2026-11-06,Everton vs Coventry,James Tarkowski,Player's shots on target,0.5,3.4,0.2941,0.1782,1,0.0,0
+2026-11-06,Everton vs Coventry,Taiwo Awoniyi,To Get a Card,0.5,4.2,0.2381,0.1592,1,0.0,0
+2026-11-06,Everton vs Coventry,Taiwo Awoniyi,Player's shots on target,1.5,4.3,0.2326,0.1106,1,0.0,0
+2026-11-06,Everton vs Coventry,Stephen Mfuni,Player's shots on target,0.5,5.0,0.2,0.1861,1,0.0,0
+2026-11-06,Everton vs Coventry,Ainsley Maitland-Niles,To give an assist,0.5,4.7,0.2128,0.0266,0,0.0,0
+2026-11-06,Everton vs Coventry,Harrison Armstrong,To give an assist,0.5,6.5,0.1538,0.07,1,0.0,0
+2026-11-06,Everton vs Coventry,Ethan Pinnock,To Score,0.5,15.0,0.0667,0.0218,1,0.0,0
+2026-11-06,Everton vs Coventry,Thierno Barry,Player's shots on target,0.5,1.15,0.8696,0.5486,1,2.0,1
+2026-11-06,Everton vs Coventry,Thierno Barry,To Score,0.5,2.0,0.5,0.2624,1,2.0,1
+2026-11-06,Everton vs Coventry,Thierno Barry,Player's shots on target,2.5,3.8,0.2632,0.0468,1,2.0,0
+2026-11-06,Everton vs Coventry,Tyrique George,To score at least 2 goals,1.5,16.0,0.0625,0.0055,1,0.0,0
+2026-11-06,Everton vs Coventry,Kiernan Dewsbury-Hall,To score at least 2 goals,1.5,14.0,0.0714,0.0142,1,1.0,0
+2026-11-06,Everton vs Coventry,Brandon Thomas-Asante,To Score,0.5,4.8,0.2083,0.0536,0,0.0,0
+2026-11-06,Everton vs Coventry,James Garner,To Score,0.5,6.0,0.1667,0.0484,1,0.0,0
+2026-11-06,Everton vs Coventry,Kiernan Dewsbury-Hall,To give an assist,0.5,3.5,0.2857,0.1049,1,0.0,0
+2026-11-06,Everton vs Coventry,Sidiki Chérif,Player's shots on target,1.5,4.8,0.2083,0.0104,0,0.0,0
+2026-11-06,Everton vs Coventry,Caleb Yirenkyi,Player's shots on target,0.5,3.7,0.2703,0.1962,1,0.0,0
+2026-11-06,Everton vs Coventry,Sidiki Chérif,Player's shots on target,0.5,1.85,0.5405,0.1408,0,0.0,0
+2026-11-06,Everton vs Coventry,James Tarkowski,To score at least 2 goals,1.5,81.0,0.0123,0.0022,1,0.0,0
+2026-11-06,Derby vs Bolton,Filip Bilbija,Player's shots on target,0.5,1.43,0.6993,0.1673,0,0.0,0
+2026-11-06,Derby vs Bolton,Bobby Clark,To give an assist,0.5,5.5,0.1818,0.0989,1,0.0,0
+2026-11-06,Derby vs Bolton,Bobby Clark,Player's shots on target,0.5,2.2,0.4545,0.3478,1,0.0,0
+2026-11-06,Derby vs Bolton,Thierry Gale,Player's shots on target,0.5,2.05,0.4878,0.3826,1,1.0,1
+2026-11-06,Derby vs Bolton,Kyliane Dong,Player's shots on target,0.5,1.62,0.6173,0.1155,0,0.0,0
+2026-11-06,Derby vs Bolton,David Ozoh,To Get a Card,0.5,3.6,0.2778,0.1935,1,0.0,0
+2026-11-06,Derby vs Bolton,Kyliane Dong,Player's shots on target,1.5,3.6,0.2778,0.0069,0,0.0,0
+2026-11-06,Derby vs Bolton,Samuel Iling-Junior,To give an assist,0.5,6.25,0.16,0.0172,0,0.0,0
+2026-11-06,Derby vs Bolton,Thierry Gale,To Get a Card,0.5,3.8,0.2632,0.1342,1,0.0,0
+2026-11-06,Derby vs Bolton,Josh Sheehan,To Get a Card,0.5,3.7,0.2703,0.1941,1,0.0,0
+2026-11-06,Derby vs Bolton,Sam Dalby,To give an assist,0.5,4.4,0.2273,0.0515,1,0.0,0
+2026-11-06,Derby vs Bolton,Bobby Clark,To Score,0.5,5.0,0.2,0.1287,1,0.0,0
+2026-11-06,Derby vs Bolton,Mohammed Fuseini,Player's shots on target,0.5,1.92,0.5208,0.4268,1,1.0,1
+2026-11-06,Derby vs Bolton,Oscar Fraulo,To Score,0.5,8.0,0.125,0.0309,0,0.0,0
+2026-11-06,Derby vs Bolton,Max Johnston,To Score,0.5,11.0,0.0909,0.0207,0,0.0,0
+2026-11-06,Derby vs Bolton,Akin Famewo,To Get a Card,0.5,4.0,0.25,0.1573,1,0.0,0
+2026-11-06,Derby vs Bolton,Sam Dalby,To score at least 2 goals,1.5,13.0,0.0769,0.0404,1,0.0,0
+2026-11-06,Derby vs Bolton,Rhian Brewster,To score at least 2 goals,1.5,21.0,0.0476,0.011,1,1.0,0
+2026-11-06,Derby vs Bolton,Alex Mowatt,To Score,0.5,8.5,0.1176,0.0193,0,0.0,0
+2026-11-06,Derby vs Bolton,Luca Stephenson,To Score,0.5,7.0,0.1429,0.0757,1,0.0,0
+2026-11-06,Derby vs Bolton,Carlton Morris,To Score,0.5,2.6,0.3846,0.1775,1,0.0,0
+2026-11-06,Derby vs Bolton,Carlton Morris,To score at least 3 goals,2.5,46.0,0.0217,0.0011,1,0.0,0
+2026-11-06,Derby vs Bolton,Thierry Gale,To score at least 2 goals,1.5,31.0,0.0323,0.0101,1,0.0,0
+2026-11-06,Derby vs Bolton,David Ozoh,To Score,0.5,10.0,0.1,0.07,1,0.0,0
+2026-11-06,Derby vs Bolton,Ruben Rodrigues,Player's shots on target,0.5,2.0,0.5,0.4191,1,1.0,1
+2026-11-06,Derby vs Bolton,David Watson,Player's shots on target,0.5,2.3,0.4348,0.0884,0,0.0,0
+2026-11-06,Derby vs Bolton,Gaizka Larrazabal,To Get a Card,0.5,3.8,0.2632,0.1511,1,1.0,1
+2026-11-06,Derby vs Bolton,Rhian Brewster,Player's shots on target,1.5,4.2,0.2381,0.046,1,1.0,0
+2026-11-06,Derby vs Bolton,Luca Stephenson,To Get a Card,0.5,3.6,0.2778,0.1925,1,1.0,1
+2026-11-06,Derby vs Bolton,Filip Bilbija,Player's shots on target,2.5,6.5,0.1538,0.0009,0,0.0,0
+2026-11-06,Derby vs Bolton,Carlton Morris,Player's shots on target,2.5,5.0,0.2,0.0197,1,1.0,0
+2026-11-06,Derby vs Bolton,Bobby Clark,Player's shots on target,1.5,7.0,0.1429,0.0691,1,0.0,0
+2026-11-06,Derby vs Bolton,David Ozoh,To give an assist,0.5,8.0,0.125,0.0375,1,0.0,0
+2026-11-06,Derby vs Bolton,Dion Sanderson,Player's shots on target,0.5,4.5,0.2222,0.0616,1,0.0,0
+2026-11-06,Derby vs Bolton,Thierry Gale,Player's shots on target,1.5,5.8,0.1724,0.0849,1,1.0,0
+2026-11-06,Derby vs Bolton,Lewis Travis,Player's shots on target,0.5,4.4,0.2273,0.1745,1,0.0,0
+2026-11-06,Derby vs Bolton,Oscar Fraulo,Player's shots on target,0.5,3.2,0.3125,0.0984,0,0.0,0
+2026-11-06,Derby vs Bolton,Jack Robinson,Player's shots on target,0.5,4.7,0.2128,0.1374,1,1.0,1
+2026-11-06,Derby vs Bolton,Ryan Nyambe,Player's shots on target,0.5,4.7,0.2128,0.0781,1,1.0,1
+2026-11-06,Derby vs Bolton,Max Johnston,Player's shots on target,0.5,4.5,0.2222,0.0662,0,0.0,0
+2026-11-06,Derby vs Bolton,Sam Dalby,Player's shots on target,2.5,7.5,0.1333,0.0278,1,1.0,0
+2026-11-06,Derby vs Bolton,Mohammed Fuseini,Player's shots on target,1.5,5.2,0.1923,0.1078,1,1.0,0
+2026-11-06,Derby vs Bolton,Luca Stephenson,Player's shots on target,0.5,3.0,0.3333,0.1992,1,1.0,1
+2026-11-06,Derby vs Bolton,Filip Bilbija,To give an assist,0.5,5.5,0.1818,0.0221,0,0.0,0
+2026-11-06,Derby vs Bolton,Max Johnston,To Get a Card,0.5,3.8,0.2632,0.026,0,0.0,0
+2026-11-06,Derby vs Bolton,Jack Robinson,To Get a Card,0.5,3.8,0.2632,0.1728,1,0.0,0
+2026-11-06,Derby vs Bolton,Lewis Brunt,Player's shots on target,0.5,4.6,0.2174,0.0695,0,0.0,0
+2026-11-06,Derby vs Bolton,Akin Famewo,Player's shots on target,0.5,4.6,0.2174,0.1086,1,0.0,0
+2026-11-06,Derby vs Bolton,Gaizka Larrazabal,To give an assist,0.5,7.5,0.1333,0.138,1,1.0,1
+2026-11-06,Derby vs Bolton,Atsuki Ito,Player's shots on target,0.5,2.7,0.3704,0.0979,0,0.0,0
+2026-11-06,Derby vs Bolton,Lewis Travis,To give an assist,0.5,7.5,0.1333,0.0459,1,0.0,0
+2026-11-06,Derby vs Bolton,Xavier Simons,Player's shots on target,0.5,2.7,0.3704,0.2594,1,0.0,0
+2026-11-06,Derby vs Bolton,Ruben Rodrigues,Player's shots on target,1.5,5.5,0.1818,0.1036,1,1.0,0
+2026-11-06,Derby vs Bolton,Alex Mowatt,Player's shots on target,0.5,3.4,0.2941,0.0669,0,0.0,0
+2026-11-06,Derby vs Bolton,David Ozoh,Player's shots on target,0.5,4.1,0.2439,0.2365,1,0.0,0
+2026-11-06,Derby vs Bolton,Alex Mowatt,To give an assist,0.5,8.0,0.125,0.0143,0,0.0,0
+2026-11-06,Derby vs Bolton,Ryan Nyambe,To Score,0.5,11.0,0.0909,0.0195,1,1.0,1
+2026-11-06,Derby vs Bolton,Ryan Nyambe,To Get a Card,0.5,5.5,0.1818,0.1842,1,0.0,0
+2026-11-06,Derby vs Bolton,Carlton Morris,Player's shots on target,1.5,2.35,0.4255,0.11,1,1.0,0
+2026-11-06,Derby vs Bolton,Josh Sheehan,To give an assist,0.5,5.8,0.1724,0.0472,1,0.0,0
+2026-11-06,Derby vs Bolton,Carlton Morris,To give an assist,0.5,4.6,0.2174,0.0817,1,1.0,1
+2026-11-06,Derby vs Bolton,Atsuki Ito,To Get a Card,0.5,3.7,0.2703,0.0226,0,0.0,0
+2026-11-06,Derby vs Bolton,Sam Dalby,To Get a Card,0.5,3.9,0.2564,0.0579,1,0.0,0
+2026-11-06,Derby vs Bolton,Ruben Rodrigues,To Get a Card,0.5,4.1,0.2439,0.1366,1,0.0,0
+2026-11-06,Derby vs Bolton,Oscar Fraulo,To Get a Card,0.5,3.8,0.2632,0.0399,0,0.0,0
+2026-11-06,Derby vs Bolton,Sam Dalby,To Score,0.5,3.0,0.3333,0.2704,1,0.0,0
+2026-11-06,Derby vs Bolton,Ruben Rodrigues,To Score,0.5,4.3,0.2326,0.0957,1,1.0,1
+2026-11-06,Derby vs Bolton,Rhian Brewster,To Score,0.5,3.8,0.2632,0.1449,1,1.0,1
+2026-11-06,Derby vs Bolton,David Watson,To Score,0.5,5.0,0.2,0.0255,0,0.0,0
+2026-11-06,Derby vs Bolton,Luca Stephenson,To give an assist,0.5,5.1,0.1961,0.0925,1,0.0,0
+2026-11-06,Derby vs Bolton,Kyliane Dong,To give an assist,0.5,4.5,0.2222,0.0234,0,0.0,0
+2026-11-06,Derby vs Bolton,Samuel Iling-Junior,To Score,0.5,5.0,0.2,0.0209,0,0.0,0
+2026-11-06,Derby vs Bolton,Samuel Iling-Junior,To Get a Card,0.5,3.7,0.2703,0.0267,0,0.0,0
+2026-11-06,Derby vs Bolton,Ruben Rodrigues,To score at least 2 goals,1.5,25.0,0.04,0.0047,1,1.0,0
+2026-11-06,Derby vs Bolton,Jack Robinson,To Score,0.5,11.0,0.0909,0.034,1,1.0,1
+2026-11-06,Derby vs Bolton,Josh Sheehan,To Score,0.5,6.0,0.1667,0.1252,1,0.0,0
+2026-11-06,Derby vs Bolton,Mohammed Fuseini,To Score,0.5,4.1,0.2439,0.1146,1,0.0,0
+2026-11-06,Derby vs Bolton,Kyliane Dong,To score at least 2 goals,1.5,16.0,0.0625,0.0011,0,0.0,0
+2026-11-06,Derby vs Bolton,Josh Sheehan,Player's shots on target,0.5,2.6,0.3846,0.379,1,0.0,0
+2026-11-06,Derby vs Bolton,Akin Famewo,To Score,0.5,11.0,0.0909,0.0292,1,0.0,0
+2026-11-06,Derby vs Bolton,Gaizka Larrazabal,To Score,0.5,7.0,0.1429,0.1179,1,0.0,0
+2026-11-06,Derby vs Bolton,Rhian Brewster,Player's shots on target,0.5,1.74,0.5747,0.2874,1,1.0,1
+2026-11-06,Derby vs Bolton,Xavier Simons,To give an assist,0.5,5.1,0.1961,0.0471,1,0.0,0
+2026-11-06,Derby vs Bolton,Oscar Fraulo,To give an assist,0.5,5.75,0.1739,0.019,0,0.0,0
+2026-11-06,Derby vs Bolton,Filip Bilbija,To score at least 2 goals,1.5,13.0,0.0769,0.0034,0,0.0,0
+2026-11-06,Derby vs Bolton,Sam Dalby,Player's shots on target,0.5,1.5,0.6667,0.4756,1,1.0,1
+2026-11-06,Derby vs Bolton,David Watson,To give an assist,0.5,5.1,0.1961,0.0108,0,0.0,0
+2026-11-06,Derby vs Bolton,Dion Sanderson,To Score,0.5,10.5,0.0952,0.0192,1,0.0,0
+2026-11-06,Derby vs Bolton,Ruben Rodrigues,To give an assist,0.5,4.8,0.2083,0.0872,1,0.0,0
+2026-11-06,Derby vs Bolton,Lewis Brunt,To Score,0.5,11.0,0.0909,0.0221,0,0.0,0
+2026-11-06,Derby vs Bolton,David Watson,To Get a Card,0.5,3.5,0.2857,0.0466,0,0.0,0
+2026-11-06,Derby vs Bolton,Alex Mowatt,To Get a Card,0.5,3.5,0.2857,0.0478,0,0.0,0
+2026-11-06,Derby vs Bolton,Carlton Morris,To Get a Card,0.5,4.0,0.25,0.1293,1,0.0,0
+2026-11-06,Derby vs Bolton,Kyliane Dong,To Get a Card,0.5,4.2,0.2381,0.0383,0,0.0,0
+2026-11-06,Derby vs Bolton,Dion Sanderson,To Get a Card,0.5,4.5,0.2222,0.1747,1,0.0,0
+2026-11-06,Derby vs Bolton,Bobby Clark,To Get a Card,0.5,4.0,0.25,0.1517,1,0.0,0
+2026-11-06,Derby vs Bolton,Rhian Brewster,To Get a Card,0.5,4.4,0.2273,0.1426,1,0.0,0
+2026-11-06,Derby vs Bolton,Mohammed Fuseini,To Get a Card,0.5,4.8,0.2083,0.1358,1,0.0,0
+2026-11-06,Derby vs Bolton,Lewis Travis,To Get a Card,0.5,3.3,0.303,0.2399,1,0.0,0
+2026-11-06,Derby vs Bolton,Lewis Travis,To Score,0.5,10.5,0.0952,0.0439,1,0.0,0
+2026-11-06,Derby vs Bolton,Filip Bilbija,To Get a Card,0.5,3.8,0.2632,0.0352,0,0.0,0
+2026-11-06,Derby vs Bolton,Lewis Brunt,To Get a Card,0.5,4.2,0.2381,0.0309,0,0.0,0
+2026-11-06,Derby vs Bolton,Xavier Simons,To Get a Card,0.5,4.2,0.2381,0.118,1,0.0,0
+2026-11-06,Derby vs Bolton,Mohammed Fuseini,To give an assist,0.5,5.5,0.1818,0.1042,1,1.0,1
+2026-11-06,Derby vs Bolton,Carlton Morris,To score at least 2 goals,1.5,9.5,0.1053,0.0168,1,0.0,0
+2026-11-06,Derby vs Bolton,Thierry Gale,To Score,0.5,4.5,0.2222,0.1388,1,0.0,0
+2026-11-06,Derby vs Bolton,Carlton Morris,Player's shots on target,0.5,1.3,0.7692,0.4307,1,1.0,1
+2026-11-06,Derby vs Bolton,Xavier Simons,To Score,0.5,6.25,0.16,0.1023,1,0.0,0
+2026-11-06,Derby vs Bolton,Kyliane Dong,To Score,0.5,3.4,0.2941,0.0456,0,0.0,0
+2026-11-06,Derby vs Bolton,Gaizka Larrazabal,Player's shots on target,0.5,2.9,0.3448,0.3439,1,1.0,1
+2026-11-06,Derby vs Bolton,Filip Bilbija,To Score,0.5,2.9,0.3448,0.0819,0,0.0,0
+2026-11-06,Derby vs Bolton,Atsuki Ito,To Score,0.5,6.25,0.16,0.0415,0,0.0,0
+2026-11-06,Derby vs Bolton,Samuel Iling-Junior,Player's shots on target,0.5,2.25,0.4444,0.1001,0,0.0,0
+2026-11-06,Derby vs Bolton,Rhian Brewster,To give an assist,0.5,4.9,0.2041,0.1016,1,0.0,0
+2026-11-06,Derby vs Bolton,Thierry Gale,To give an assist,0.5,6.0,0.1667,0.1168,1,0.0,0
+2026-11-06,Derby vs Bolton,Sam Dalby,Player's shots on target,1.5,3.1,0.3226,0.1371,1,1.0,0
+2026-11-06,Derby vs Bolton,Filip Bilbija,Player's shots on target,1.5,2.8,0.3571,0.0149,0,0.0,0
+2026-11-06,Sevilla vs Alaves,Toni Martínez,To Get a Card,0.5,3.4,0.2941,0.112,1,1.0,1
+2026-11-06,Sevilla vs Alaves,Rubén Vargas,To give an assist,0.5,3.6,0.2778,0.1319,1,0.0,0
+2026-11-06,Sevilla vs Alaves,Lucien Agoumé,To Score,0.5,12.0,0.0833,0.0436,1,0.0,0
+2026-11-06,Sevilla vs Alaves,Nicolas Valentini,To Score,0.5,17.0,0.0588,0.017,1,0.0,0
+2026-11-06,Sevilla vs Alaves,José Ángel Carmona,To Score,0.5,11.5,0.087,0.0205,0,0.0,0
+2026-11-06,Sevilla vs Alaves,Ángel Pérez,To Score,0.5,8.5,0.1176,0.0609,1,0.0,0
+2026-11-06,Sevilla vs Alaves,Selu Diallo,To give an assist,0.5,8.0,0.125,0.0154,0,0.0,0
+2026-11-06,Sevilla vs Alaves,Selu Diallo,To Get a Card,0.5,3.0,0.3333,0.0313,0,0.0,0
+2026-11-06,Sevilla vs Alaves,Isaac Romero,To Get a Card,0.5,3.8,0.2632,0.2835,1,0.0,0
+2026-11-06,Sevilla vs Alaves,Mariano Diaz,Player's shots on target,1.5,5.6,0.1786,0.013,0,0.0,0
+2026-11-06,Sevilla vs Alaves,Youssouf Fofana,To score at least 2 goals,1.5,51.0,0.0196,0.0039,1,0.0,0
+2026-11-06,Sevilla vs Alaves,Jon Guridi,To give an assist,0.5,6.5,0.1538,0.0091,0,0.0,0
+2026-11-06,Sevilla vs Alaves,Lucas Boyé,Player's shots on target,2.5,8.5,0.1176,0.0377,1,1.0,0
+2026-11-06,Sevilla vs Alaves,Giorgi Kochorashvili,To score at least 2 goals,1.5,61.0,0.0164,0.0003,0,0.0,0
+2026-11-06,Sevilla vs Alaves,Chidera Ejuke,Player's shots on target,1.5,5.0,0.2,0.0058,0,0.0,0
+2026-11-06,Sevilla vs Alaves,Youssouf Fofana,Player's shots on target,1.5,6.0,0.1667,0.098,1,0.0,0
+2026-11-06,Sevilla vs Alaves,Lucas Boyé,Player's shots on target,0.5,1.5,0.6667,0.5174,1,1.0,1
+2026-11-06,Sevilla vs Alaves,Félix Correia,Player's shots on target,1.5,4.5,0.2222,0.0551,1,0.0,0
+2026-11-06,Sevilla vs Alaves,Isaac Romero,To score at least 2 goals,1.5,19.0,0.0526,0.0168,1,0.0,0
+2026-11-06,Sevilla vs Alaves,Julio Diaz,To Score,0.5,9.5,0.1053,0.0259,0,0.0,0
+2026-11-06,Sevilla vs Alaves,Alfonso González,To Get a Card,0.5,3.6,0.2778,0.0316,0,0.0,0
+2026-11-06,Sevilla vs Alaves,Lucien Agoumé,Player's shots on target,0.5,4.5,0.2222,0.1655,1,0.0,0
+2026-11-06,Sevilla vs Alaves,Lucas Boyé,To Get a Card,0.5,3.1,0.3226,0.1177,1,0.0,0
+2026-11-06,Sevilla vs Alaves,Giorgi Kochorashvili,Player's shots on target,0.5,2.9,0.3448,0.0769,0,0.0,0
+2026-11-06,Sevilla vs Alaves,Miguel Rodríguez,To Get a Card,0.5,3.5,0.2857,0.0351,0,0.0,0
+2026-11-06,Sevilla vs Alaves,Alfonso González,To give an assist,0.5,3.5,0.2857,0.0125,0,0.0,0
+2026-11-06,Sevilla vs Alaves,Alfonso González,To Score,0.5,3.8,0.2632,0.0375,0,0.0,0
+2026-11-06,Sevilla vs Alaves,Jon Guridi,Player's shots on target,0.5,2.3,0.4348,0.0878,0,0.0,0
+2026-11-06,Sevilla vs Alaves,Toni Martínez,To Score,0.5,3.8,0.2632,0.2279,1,0.0,0
+2026-11-06,Sevilla vs Alaves,Youssouf Fofana,Player's shots on target,0.5,2.1,0.4762,0.4086,1,0.0,0
+2026-11-06,Sevilla vs Alaves,Nahuel Tenaglia,Player's shots on target,0.5,6.0,0.1667,0.1986,1,0.0,0
+2026-11-06,Sevilla vs Alaves,Andres Castrin,To Score,0.5,11.5,0.087,0.0233,0,0.0,0
+2026-11-06,Sevilla vs Alaves,Carles Aleñá,To Get a Card,0.5,3.2,0.3125,0.0327,0,0.0,0
+2026-11-06,Sevilla vs Alaves,Antonio Blanco,To Get a Card,0.5,2.9,0.3448,0.1997,1,0.0,0
+2026-11-06,Sevilla vs Alaves,Gabriel Suazo,To give an assist,0.5,6.0,0.1667,0.0351,1,0.0,0
+2026-11-06,Sevilla vs Alaves,Abde Rebbach,Player's shots on target,0.5,3.05,0.3279,0.1024,0,0.0,0
+2026-11-06,Sevilla vs Alaves,Fabio Cardoso,To Get a Card,0.5,3.2,0.3125,0.0263,0,0.0,0
+2026-11-06,Sevilla vs Alaves,Pablo Ibáñez,Player's shots on target,0.5,2.43,0.4115,0.2712,1,0.0,0
+2026-11-06,Sevilla vs Alaves,Abde Rebbach,To Get a Card,0.5,3.5,0.2857,0.0554,0,0.0,0
+2026-11-06,Sevilla vs Alaves,Nicolas Valentini,To give an assist,0.5,17.0,0.0588,0.0186,1,0.0,0
+2026-11-06,Sevilla vs Alaves,Lucas Stassin,Player's shots on target,1.5,2.7,0.3704,0.195,1,0.0,0
+2026-11-06,Sevilla vs Alaves,Nahuel Tenaglia,To give an assist,0.5,14.0,0.0714,0.0153,1,0.0,0
+2026-11-06,Sevilla vs Alaves,Fabio Cardoso,Player's shots on target,0.5,4.6,0.2174,0.0722,0,0.0,0
+2026-11-06,Sevilla vs Alaves,Ángel Pérez,To give an assist,0.5,9.0,0.1111,0.1564,1,0.0,0
+2026-11-06,Sevilla vs Alaves,Isaac Romero,Player's shots on target,1.5,3.6,0.2778,0.0783,1,0.0,0
+2026-11-06,Sevilla vs Alaves,Robbie Ure,Player's shots on target,1.5,2.6,0.3846,0.0174,0,0.0,0
+2026-11-06,Sevilla vs Alaves,Juan Iglesias,Player's shots on target,0.5,4.5,0.2222,0.168,1,2.0,1
+2026-11-06,Sevilla vs Alaves,José Ángel Carmona,Player's shots on target,0.5,4.7,0.2128,0.0596,0,0.0,0
+2026-11-06,Sevilla vs Alaves,Selu Diallo,Player's shots on target,0.5,3.8,0.2632,0.0788,0,0.0,0
+2026-11-06,Sevilla vs Alaves,Denis Suárez,Player's shots on target,0.5,4.5,0.2222,0.0743,0,0.0,0
+2026-11-06,Sevilla vs Alaves,Ander Guevara,Player's shots on target,0.5,6.0,0.1667,0.2057,1,0.0,0
+2026-11-06,Sevilla vs Alaves,Arouna Sangante,To give an assist,0.5,13.0,0.0769,0.0303,1,0.0,0
+2026-11-06,Sevilla vs Alaves,Pablo Ibáñez,To give an assist,0.5,9.0,0.1111,0.0464,1,0.0,0
+2026-11-06,Sevilla vs Alaves,Juan Iglesias,To give an assist,0.5,10.0,0.1,0.0322,1,0.0,0
+2026-11-06,Sevilla vs Alaves,Lucas Stassin,To score at least 3 goals,2.5,61.0,0.0164,0.0031,1,0.0,0
+2026-11-06,Sevilla vs Alaves,Lucas Stassin,Player's shots on target,2.5,5.8,0.1724,0.0489,1,0.0,0
+2026-11-06,Sevilla vs Alaves,Mariano Diaz,To give an assist,0.5,4.5,0.2222,0.0451,0,0.0,0
+2026-11-06,Sevilla vs Alaves,Andres Castrin,Player's shots on target,0.5,4.7,0.2128,0.0698,0,0.0,0
+2026-11-06,Sevilla vs Alaves,Antonio Blanco,To give an assist,0.5,14.0,0.0714,0.0696,1,0.0,0
+2026-11-06,Sevilla vs Alaves,Julio Diaz,To give an assist,0.5,8.5,0.1176,0.0163,0,0.0,0
+2026-11-06,Sevilla vs Alaves,Ander Guevara,To give an assist,0.5,18.0,0.0556,0.0764,1,0.0,0
+2026-11-06,Sevilla vs Alaves,Antonio Blanco,Player's shots on target,0.5,3.8,0.2632,0.2202,1,0.0,0
+2026-11-06,Sevilla vs Alaves,Alfonso González,Player's shots on target,1.5,3.8,0.2632,0.009,0,0.0,0
+2026-11-06,Sevilla vs Alaves,Lucien Agoumé,To give an assist,0.5,8.0,0.125,0.0682,1,0.0,0
+2026-11-06,Sevilla vs Alaves,Hugo Novoa,To give an assist,0.5,9.0,0.1111,0.0242,0,0.0,0
+2026-11-06,Sevilla vs Alaves,Fabio Cardoso,To give an assist,0.5,16.0,0.0625,0.0124,0,0.0,0
+2026-11-06,Sevilla vs Alaves,Giorgi Kochorashvili,To give an assist,0.5,8.0,0.125,0.0251,0,0.0,0
+2026-11-06,Sevilla vs Alaves,Andres Castrin,To give an assist,0.5,16.0,0.0625,0.0082,0,0.0,0
+2026-11-06,Sevilla vs Alaves,Youssouf Fofana,To give an assist,0.5,9.0,0.1111,0.1575,1,0.0,0
+2026-11-06,Sevilla vs Alaves,Pablo Ibáñez,To score at least 2 goals,1.5,67.0,0.0149,0.0027,1,0.0,0
+2026-11-06,Sevilla vs Alaves,Lucas Boyé,To score at least 3 goals,2.5,91.0,0.011,0.0046,1,0.0,0
+2026-11-06,Sevilla vs Alaves,Miguel Rodríguez,Player's shots on target,1.5,7.0,0.1429,0.0093,0,0.0,0
+2026-11-06,Sevilla vs Alaves,Hugo Novoa,Player's shots on target,0.5,4.2,0.2381,0.088,0,0.0,0
+2026-11-06,Sevilla vs Alaves,Gabriel Suazo,Player's shots on target,0.5,4.3,0.2326,0.1024,1,0.0,0
+2026-11-06,Sevilla vs Alaves,Rubén Vargas,Player's shots on target,1.5,4.8,0.2083,0.0465,1,1.0,0
+2026-11-06,Sevilla vs Alaves,Julio Diaz,Player's shots on target,0.5,3.7,0.2703,0.0724,0,0.0,0
+2026-11-06,Sevilla vs Alaves,Denis Suárez,To give an assist,0.5,9.5,0.1053,0.0169,0,0.0,0
+2026-11-06,Sevilla vs Alaves,Arouna Sangante,Player's shots on target,0.5,4.6,0.2174,0.1182,1,0.0,0
+2026-11-06,Sevilla vs Alaves,Lucas Boyé,To score at least 2 goals,1.5,19.0,0.0526,0.0433,1,0.0,0
+2026-11-06,Sevilla vs Alaves,José Ángel Carmona,To give an assist,0.5,9.0,0.1111,0.0126,0,0.0,0
+2026-11-06,Sevilla vs Alaves,Ander Guevara,To Get a Card,0.5,3.6,0.2778,0.1332,1,0.0,0
+2026-11-06,Sevilla vs Alaves,Nahuel Tenaglia,To Get a Card,0.5,2.6,0.3846,0.1645,1,0.0,0
+2026-11-06,Sevilla vs Alaves,Abde Rebbach,To Score,0.5,8.5,0.1176,0.0216,0,0.0,0
+2026-11-06,Sevilla vs Alaves,Youssouf Fofana,To Score,0.5,6.25,0.16,0.087,1,0.0,0
+2026-11-06,Sevilla vs Alaves,Juan Iglesias,To Score,0.5,11.5,0.087,0.0397,1,0.0,0
+2026-11-06,Sevilla vs Alaves,Isaac Romero,Player's shots on target,0.5,1.53,0.6536,0.3686,1,0.0,0
+2026-11-06,Sevilla vs Alaves,Rubén Vargas,To Get a Card,0.5,3.6,0.2778,0.1131,1,0.0,0
+2026-11-06,Sevilla vs Alaves,Juan Iglesias,To Get a Card,0.5,4.0,0.25,0.1679,1,0.0,0
+2026-11-06,Sevilla vs Alaves,Isaac Romero,To Score,0.5,3.6,0.2778,0.1777,1,0.0,0
+2026-11-06,Sevilla vs Alaves,Félix Correia,To give an assist,0.5,4.4,0.2273,0.1226,1,0.0,0
+2026-11-06,Sevilla vs Alaves,Carles Aleñá,To Score,0.5,8.5,0.1176,0.0195,0,0.0,0
+2026-11-06,Sevilla vs Alaves,Lucas Boyé,Player's shots on target,1.5,3.4,0.2941,0.1658,1,1.0,0
+2026-11-06,Sevilla vs Alaves,Carles Aleñá,Player's shots on target,0.5,3.2,0.3125,0.0738,0,0.0,0
+2026-11-06,Sevilla vs Alaves,Nahuel Tenaglia,To Score,0.5,17.0,0.0588,0.0514,1,0.0,0
+2026-11-06,Sevilla vs Alaves,Gabriel Suazo,To Score,0.5,11.0,0.0909,0.0143,1,0.0,0
+2026-11-06,Sevilla vs Alaves,Denis Suárez,To Get a Card,0.5,3.4,0.2941,0.0386,0,0.0,0
+2026-11-06,Sevilla vs Alaves,Toni Martínez,To give an assist,0.5,5.5,0.1818,0.056,1,0.0,0
+2026-11-06,Sevilla vs Alaves,Chidera Ejuke,To score at least 2 goals,1.5,29.0,0.0345,0.0006,0,0.0,0
+2026-11-06,Sevilla vs Alaves,Chidera Ejuke,To Score,0.5,4.5,0.2222,0.0332,0,0.0,0
+2026-11-06,Sevilla vs Alaves,Abde Rebbach,To give an assist,0.5,6.75,0.1481,0.0245,0,0.0,0
+2026-11-06,Sevilla vs Alaves,Miguel Rodríguez,Player's shots on target,0.5,2.28,0.4386,0.1331,0,0.0,0
+2026-11-06,Sevilla vs Alaves,Félix Correia,To Get a Card,0.5,4.5,0.2222,0.1543,1,0.0,0
+2026-11-06,Sevilla vs Alaves,Ander Guevara,To Score,0.5,16.0,0.0625,0.0667,1,0.0,0
+2026-11-06,Sevilla vs Alaves,Julio Diaz,To Get a Card,0.5,3.0,0.3333,0.0313,0,0.0,0
+2026-11-06,Sevilla vs Alaves,Nicolas Valentini,To Get a Card,0.5,3.7,0.2703,0.2245,1,1.0,1
+2026-11-06,Sevilla vs Alaves,Fabio Cardoso,To Score,0.5,11.0,0.0909,0.0257,0,0.0,0
+2026-11-06,Sevilla vs Alaves,Lucas Stassin,To give an assist,0.5,5.3,0.1887,0.1771,1,0.0,0
+2026-11-06,Sevilla vs Alaves,Robbie Ure,Player's shots on target,0.5,1.3,0.7692,0.1805,0,0.0,0
+2026-11-06,Sevilla vs Alaves,Ángel Pérez,Player's shots on target,0.5,3.3,0.303,0.3358,1,0.0,0
+2026-11-06,Sevilla vs Alaves,Pablo Ibáñez,To Score,0.5,6.5,0.1538,0.0723,1,0.0,0
+2026-11-06,Sevilla vs Alaves,Toni Martínez,Player's shots on target,0.5,1.49,0.6711,0.5362,1,0.0,0
+2026-11-06,Sevilla vs Alaves,Jon Guridi,To score at least 2 goals,1.5,46.0,0.0217,0.0004,0,0.0,0
+2026-11-06,Sevilla vs Alaves,Toni Martínez,Player's shots on target,1.5,3.3,0.303,0.1799,1,0.0,0
+2026-11-06,Sevilla vs Alaves,Toni Martínez,To score at least 2 goals,1.5,21.0,0.0476,0.0282,1,0.0,0
+2026-11-06,Sevilla vs Alaves,Pablo Ibáñez,To Get a Card,0.5,3.1,0.3226,0.1781,1,1.0,1
+2026-11-06,Sevilla vs Alaves,Robbie Ure,To Score,0.5,3.0,0.3333,0.0908,0,0.0,0
+2026-11-06,Sevilla vs Alaves,Félix Correia,To Score,0.5,4.1,0.2439,0.1346,1,0.0,0
+2026-11-06,Sevilla vs Alaves,Jon Guridi,To Score,0.5,5.3,0.1887,0.0266,0,0.0,0
+2026-11-06,Sevilla vs Alaves,Arouna Sangante,To Get a Card,0.5,3.3,0.303,0.2087,1,1.0,1
+2026-11-06,Sevilla vs Alaves,Youssouf Fofana,To Get a Card,0.5,3.0,0.3333,0.0882,1,0.0,0
+2026-11-06,Sevilla vs Alaves,Hugo Novoa,To Get a Card,0.5,3.1,0.3226,0.0344,0,0.0,0
+2026-11-06,Sevilla vs Alaves,José Ángel Carmona,To Get a Card,0.5,2.65,0.3774,0.0561,0,0.0,0
+2026-11-06,Sevilla vs Alaves,Lucas Boyé,To give an assist,0.5,8.0,0.125,0.0469,1,0.0,0
+2026-11-06,Sevilla vs Alaves,Chidera Ejuke,To Get a Card,0.5,4.3,0.2326,0.0271,0,0.0,0
+2026-11-06,Sevilla vs Alaves,Mariano Diaz,Player's shots on target,0.5,2.04,0.4902,0.157,0,0.0,0
+2026-11-06,Sevilla vs Alaves,Robbie Ure,To Get a Card,0.5,3.4,0.2941,0.0214,0,0.0,0
+2026-11-06,Sevilla vs Alaves,Alfonso González,Player's shots on target,0.5,1.62,0.6173,0.1312,0,0.0,0
+2026-11-06,Sevilla vs Alaves,Antonio Blanco,To Score,0.5,11.0,0.0909,0.0613,1,0.0,0
+2026-11-06,Sevilla vs Alaves,Lucas Stassin,To Score,0.5,3.0,0.3333,0.2467,1,0.0,0
+2026-11-06,Sevilla vs Alaves,Chidera Ejuke,Player's shots on target,0.5,1.88,0.5319,0.1061,0,0.0,0
+2026-11-06,Sevilla vs Alaves,Giorgi Kochorashvili,To Score,0.5,7.0,0.1429,0.0244,0,0.0,0
+2026-11-06,Sevilla vs Alaves,Mariano Diaz,To Score,0.5,5.3,0.1887,0.059,0,0.0,0
+2026-11-06,Sevilla vs Alaves,Mariano Diaz,To score at least 2 goals,1.5,41.0,0.0244,0.0018,0,0.0,0
+2026-11-06,Sevilla vs Alaves,Giorgi Kochorashvili,To Get a Card,0.5,2.9,0.3448,0.0318,0,0.0,0
+2026-11-06,Sevilla vs Alaves,Carles Aleñá,To give an assist,0.5,7.0,0.1429,0.0236,0,0.0,0
+2026-11-06,Sevilla vs Alaves,Lucas Stassin,Player's shots on target,0.5,1.32,0.7576,0.5554,1,0.0,0
+2026-11-06,Sevilla vs Alaves,Hugo Novoa,To Score,0.5,13.0,0.0769,0.0313,0,0.0,0
+2026-11-06,Sevilla vs Alaves,Lucas Stassin,To score at least 2 goals,1.5,12.5,0.08,0.0333,1,0.0,0
+2026-11-06,Sevilla vs Alaves,Jon Guridi,To Get a Card,0.5,3.1,0.3226,0.0424,0,0.0,0
+2026-11-06,Sevilla vs Alaves,Robbie Ure,To give an assist,0.5,4.5,0.2222,0.031,0,0.0,0
+2026-11-06,Sevilla vs Alaves,Rubén Vargas,Player's shots on target,0.5,1.79,0.5587,0.289,1,1.0,1
+2026-11-06,Sevilla vs Alaves,Arouna Sangante,To Score,0.5,12.5,0.08,0.0335,1,0.0,0
+2026-11-06,Sevilla vs Alaves,Félix Correia,To score at least 2 goals,1.5,26.0,0.0385,0.0095,1,0.0,0
+2026-11-06,Sevilla vs Alaves,Selu Diallo,To Score,0.5,11.0,0.0909,0.0229,0,0.0,0
+2026-11-06,Sevilla vs Alaves,Andres Castrin,To Get a Card,0.5,3.0,0.3333,0.0432,0,0.0,0
+2026-11-06,Sevilla vs Alaves,Gabriel Suazo,To Get a Card,0.5,3.3,0.303,0.1862,1,0.0,0
+2026-11-06,Sevilla vs Alaves,Miguel Rodríguez,To Score,0.5,6.0,0.1667,0.0378,0,0.0,0
+2026-11-06,Sevilla vs Alaves,Lucien Agoumé,To Get a Card,0.5,3.2,0.3125,0.2123,1,0.0,0
+2026-11-06,Sevilla vs Alaves,Miguel Rodríguez,To score at least 2 goals,1.5,46.0,0.0217,0.0007,0,0.0,0
+2026-11-06,Sevilla vs Alaves,Isaac Romero,To give an assist,0.5,5.6,0.1786,0.0731,1,0.0,0
+2026-11-06,Sevilla vs Alaves,Rubén Vargas,To score at least 2 goals,1.5,30.0,0.0333,0.0052,1,0.0,0
+2026-11-06,Sevilla vs Alaves,Lucas Boyé,To Score,0.5,3.6,0.2778,0.2794,1,0.0,0
+2026-11-06,Sevilla vs Alaves,Miguel Rodríguez,To give an assist,0.5,6.5,0.1538,0.0113,0,0.0,0
+2026-11-06,Sevilla vs Alaves,Ángel Pérez,To Get a Card,0.5,3.5,0.2857,0.1938,1,0.0,0
+2026-11-06,Sevilla vs Alaves,Rubén Vargas,To Score,0.5,4.4,0.2273,0.1001,1,0.0,0
+2026-11-06,Sevilla vs Alaves,Alfonso González,To score at least 2 goals,1.5,20.0,0.05,0.0007,0,0.0,0
+2026-11-06,Sevilla vs Alaves,Félix Correia,Player's shots on target,0.5,1.78,0.5618,0.313,1,0.0,0
+2026-11-06,Sevilla vs Alaves,Nicolas Valentini,Player's shots on target,0.5,6.25,0.16,0.1872,1,1.0,1
+2026-11-06,Sevilla vs Alaves,Robbie Ure,To score at least 2 goals,1.5,13.0,0.0769,0.0043,0,0.0,0
+2026-11-06,Sevilla vs Alaves,Chidera Ejuke,To give an assist,0.5,4.7,0.2128,0.0122,0,0.0,0
+2026-11-06,Sevilla vs Alaves,Lucas Stassin,To Get a Card,0.5,4.2,0.2381,0.0761,1,0.0,0
+2026-11-06,Sevilla vs Alaves,Mariano Diaz,To Get a Card,0.5,4.2,0.2381,0.0392,0,0.0,0
+2026-11-06,Sevilla vs Alaves,Denis Suárez,To Score,0.5,13.0,0.0769,0.0219,0,0.0,0
