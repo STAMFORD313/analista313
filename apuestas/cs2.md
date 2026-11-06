@@ -1,32 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 06/11/2026 07:14 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## PARIVISION vs Natus Vincere — 06/11 · 07:30
-
-👀 candidata · 🎮 CS2 · Intel Extreme Masters Beijing 2026 · **Gana Natus Vincere** @ **1.29** (Thunderpick) · prob 72% vs casas 71% · ventaja -7%
-
-- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 76.483 partidos)  
-Mapa: PARIVISION 34% · Serie BO3: PARIVISION 27% - 73% Natus Vincere  
-Casas: PARIVISION 29% · Natus Vincere 71%  
-🔎 **Claves**  
-• Elo: PARIVISION 1969 (320 series) | Natus Vincere 2149 (279 series)  
-• Forma: PARIVISION ✅❌✅✅❌ | Natus Vincere ✅✅❌✅✅  
-• H2H: 4: 1-3  
-• Torneo: Intel Extreme Masters Beijing 2026 (nivel S)  
-• Cambios de plantilla: ninguno  
-• Jugadores en forma (rating últimos 10 mapas): PARIVISION: Jame 6.4, xiELO 6.0 | Natus Vincere: w0nderful 6.9, b1t 6.9  
-• Mapas (último año): PARIVISION: fuerte ancient 68%, débil cache 33% | Natus Vincere: fuerte train 80%, débil inferno 47%  
-• Química de la plantilla: PARIVISION: 111 mapas juntos de media | Natus Vincere: 370 mapas juntos de media  
-🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
-• PARIVISION gana 2-1: 13% → cuota justa 7.96 · casa 13%  
-• Natus Vincere gana 2-1: 25% → cuota justa 4.07 · casa 26%  
-🔫 **Kills esperados en la serie** (rango 80 %; mejor que la media de sus 10 últimas en 52.265 casos: log-loss 0.6821→0.6562; sin cuotas de props, solo referencia)  
-PARIVISION: xiELO 33 (19-48) · Jame 32 (18-48) · HObbit 32 (18-47) · zweih 31 (18-46) · FL1T 31 (17-45)  
-Natus Vincere: w0nderful 38 (22-56) · b1t 36 (21-54) · makazze 36 (21-53) · iM 35 (20-52) · Aleksib 27 (15-40)  
+Actualizado 06/11/2026 08:10 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## FURIA vs BetBoom — 06/11 · 10:45
 
