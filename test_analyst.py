@@ -1613,10 +1613,12 @@ assert _FCC.h2h(_hd, "a", "b") == [(1, 5), (6, 2), (3, 7), (8, 4)] and _FCC.h2h(
 print("ok combinada FC 27 con lógica")
 
 _fs0 = A.DATA / "chat_simuladas.json"; _bk = _fs0.read_text() if _fs0.exists() else None
+_log0 = _FCC.LOG; _FCC.LOG = A.DATA / "no_existe_odds_leo.csv"  # hermético: sin el registro real de LeoVegas
 try:
     _fs0.write_text(json.dumps([{"legs": [{"fc": {"k": "ptot", "s": "U"}, "ok": i < 3, "p": 0.6} for i in range(16)]}]))
     assert ("ptot", "U") in _FCC.lessons()  # 3 de 16 con 60 % esperado: vetada
 finally:
+    _FCC.LOG = _log0
     if _bk is None: _fs0.unlink(missing_ok=True)
     else: _fs0.write_text(_bk)
 print("ok FC 27 aprende de sus fallos")
