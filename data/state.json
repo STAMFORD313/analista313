@@ -1291,12 +1291,6 @@
   "atp|2026-11-07|Adrian Mannarino|Jan Simonsson",
   "atp|2026-11-07|Luca Van Assche|Ben Shelton",
   "wta|2026-11-07|Magda Linette|Anastasia Zakharova",
-  "mlbb|131356",
-  "fc|2359944",
-  "fc|2359949",
-  "fc|2359939",
-  "cs2|133048",
-  "cs2|133049",
   "cs2|133292",
   "cs2|133051",
   "cs2|133293",
@@ -2296,7 +2290,8 @@
   "dota2|133780",
   "fc|2366093",
   "fc|2366302",
-  "fc|2366092"
+  "fc|2366092",
+  "cs2|133454"
  ],
  "signals": [
   {
@@ -5015,30 +5010,6 @@
    "logged": true
   },
   {
-   "market": "A",
-   "pick": "OG",
-   "odds": 3.75,
-   "book": "Unibet",
-   "implied": 0.232,
-   "edge": 0.169,
-   "sin_stake": true,
-   "p": 0.312,
-   "key": "fc|2359835",
-   "match": "hotShot vs OG",
-   "start": "2026-11-03T21:34:00+00:00",
-   "league": "🎮⚽ FC 27 · Portugal Primera",
-   "sport": "🎮⚽",
-   "context": "EA FC Esoccer Battle hotShot vs OG (Portugal Primera): goles esperados 2.18-1.86, 1X2 45%/24%/31%. Sin cuotas de casa.",
-   "captured": "2026-11-03T20:42",
-   "version": "2474317",
-   "bajas": "",
-   "considered": true,
-   "placed": false,
-   "score": "2-2",
-   "result": false,
-   "logged": true
-  },
-  {
    "market": "D",
    "pick": "Empate",
    "odds": 5.8,
@@ -5108,30 +5079,6 @@
    "placed": false,
    "score": "3-1",
    "result": true,
-   "logged": true
-  },
-  {
-   "market": "D",
-   "pick": "Empate",
-   "odds": 5.0,
-   "book": "Unibet",
-   "implied": 0.173,
-   "edge": 0.013,
-   "sin_stake": true,
-   "p": 0.203,
-   "key": "fc|2359836",
-   "match": "RossFCDK vs Inquisitor",
-   "start": "2026-11-03T21:34:00+00:00",
-   "league": "🎮⚽ FC 27 · Portugal Primera",
-   "sport": "🎮⚽",
-   "context": "EA FC Esoccer Battle RossFCDK vs Inquisitor (Portugal Primera): goles esperados 1.75-2.73, 1X2 21%/20%/59%. Sin cuotas de casa.",
-   "captured": "2026-11-03T21:12",
-   "version": "4ab72d5",
-   "bajas": "",
-   "considered": true,
-   "placed": false,
-   "score": "1-4",
-   "result": false,
    "logged": true
   },
   {
@@ -5252,30 +5199,6 @@
    "placed": false,
    "score": "4-6",
    "result": true,
-   "logged": true
-  },
-  {
-   "market": "A",
-   "pick": "Inquisitor",
-   "odds": 1.61,
-   "book": "Unibet",
-   "implied": 0.546,
-   "edge": -0.096,
-   "sin_stake": true,
-   "p": 0.587,
-   "key": "fc|2360718",
-   "match": "Bosko vs cappo",
-   "start": "2026-11-03T21:32:00+00:00",
-   "league": "🎮⚽ FC 27 · Champions League B 2x6",
-   "sport": "🎮⚽",
-   "context": "EA FC Esoccer Battle Bosko vs cappo (Champions League B 2x6): goles esperados 4.99-3.91, 1X2 59%/14%/27%. Sin cuotas de casa.",
-   "captured": "2026-11-03T21:29",
-   "version": "f6c4830",
-   "bajas": "",
-   "considered": true,
-   "placed": false,
-   "score": "4-2",
-   "result": false,
    "logged": true
   },
   {
@@ -17574,7 +17497,11 @@
     "confianza": 4,
     "modelo": "gemini-flash-lite-latest"
    },
-   "placed": true
+   "placed": true,
+   "score": "2-0",
+   "result": false,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "H",
@@ -49650,7 +49577,11 @@
    "captured": "2026-11-06T21:09",
    "version": "f441326",
    "bajas": "",
-   "considered": true
+   "considered": true,
+   "score": "2-2",
+   "result": false,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "A",
@@ -49671,7 +49602,11 @@
    "version": "f441326",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "3-3",
+   "result": false,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "D",
@@ -49722,20 +49657,6 @@
    "start": "2026-11-06T21:32:00+00:00",
    "league": "🎮⚽ FC 27 · Champions League B 2x6",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 58.707 partidos)",
-    "Goles esperados: Lufy 4.79 · Bosko 4.28",
-    "Ganador: Lufy 52% · empate 13% · Bosko 34%",
-    "Total: más de 9.5 goles 42% · menos 58%",
-    "Hándicap Lufy: −1.5 37% · −2.5 25%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Lufy ➖❌❌❌✅ | Bosko ❌✅❌✅✅",
-    "• Partidos: Lufy 704 | Bosko 514",
-    "• Liga: Champions League B 2x6",
-    "• Unibet: 1 2.20 · X 4.60 · 2 2.10 (sin margen 40%/19%/41%) · ventaja +15%. Sin stake hasta demostrar ROI con estas cuotas.",
-    "• En España: LeoVegas España 2.20 (+15%) · Paf España 2.20 (+15%)"
-   ],
    "context": "EA FC Esoccer Battle Lufy vs Bosko (Champions League B 2x6): goles esperados 4.79-4.28, 1X2 52%/13%/34%. Sin cuotas de casa.",
    "captured": "2026-11-06T21:24",
    "version": "4b5edad",
@@ -50183,7 +50104,8 @@
     "stake": 1.07,
     "odds": 2.05,
     "desc": "Dynamo Eclot Phoenix vs B.LINE → Gana B.LINE",
-    "status": "abierta"
+    "status": "perdida",
+    "return": 0.0
    },
    {
     "date": "2026-11-05",
@@ -50202,7 +50124,7 @@
   ]
  },
  "scoreboard_id": 156,
- "scoreboard_text": "📊 <b>MARCADOR DEL BOT</b>\n━━━━━━━━━━━━━━━\n🟩 Ganadas: <b>11</b> (38 %)\n🟥 Perdidas: <b>18</b> (62 %)\n⏳ En juego: 1\n\nÚltimas 29:\n🟥🟥🟥🟩🟥🟩🟥🟥🟥🟥🟥🟥🟥🟥🟩🟥🟥🟩🟩🟩🟩🟩🟥🟥🟥🟥🟩🟩🟩\n━━━━━━━━━━━━━━━\n💵 Beneficio -16.10 $ · ROI -29.5 %\n📐 CLV medio +2.5 % (cuota cogida vs cierre)\n💰 Banca: <b>83.90 €</b> (-16.10 € desde 100 €) · libre 82.83 €{\"inline_keyboard\": [[{\"text\": \"\\ud83d\\udcc8 Ver historial completo y fallos\", \"url\": \"https://github.com/STAMFORD313/analista313/blob/main/ESTADISTICAS.md\"}], [{\"text\": \"\\u26bd F\\u00fatbol\", \"callback_data\": \"dep:futbol\"}, {\"text\": \"\\ud83c\\udfc0 NBA\\u00b7NCAA\", \"callback_data\": \"dep:nba\"}, {\"text\": \"\\ud83c\\udfc8 NFL\\u00b7NCAA\", \"callback_data\": \"dep:nfl\"}], [{\"text\": \"\\ud83c\\udfc6 Champions\\u00b7Europa\", \"callback_data\": \"dep:europa\"}, {\"text\": \"\\ud83c\\udfd2 NHL\", \"callback_data\": \"dep:nhl\"}, {\"text\": \"\\u26be MLB\", \"callback_data\": \"dep:mlb\"}], [{\"text\": \"\\ud83e\\udd4a UFC\", \"callback_data\": \"dep:ufc\"}, {\"text\": \"\\ud83c\\udfbe Tenis\", \"callback_data\": \"dep:tenis\"}, {\"text\": \"\\ud83c\\udfae CS2\", \"callback_data\": \"dep:cs2\"}], [{\"text\": \"\\ud83d\\udc09 Dota 2\", \"callback_data\": \"dep:dota2\"}, {\"text\": \"\\ud83e\\uddd9 LoL\", \"callback_data\": \"dep:lol\"}, {\"text\": \"\\ud83d\\udd2b R6 Siege\", \"callback_data\": \"dep:r6\"}], [{\"text\": \"\\ud83d\\udcf1 MLBB\", \"callback_data\": \"dep:mlbb\"}, {\"text\": \"\\ud83c\\udfae\\u26bd FC 27\", \"callback_data\": \"dep:fc\"}]]}",
+ "scoreboard_text": "📊 <b>MARCADOR DEL BOT</b>\n━━━━━━━━━━━━━━━\n🟩 Ganadas: <b>11</b> (37 %)\n🟥 Perdidas: <b>19</b> (63 %)\n⏳ En juego: 0\n\nÚltimas 30:\n🟥🟥🟥🟩🟥🟩🟥🟥🟥🟥🟥🟥🟥🟥🟩🟥🟥🟩🟩🟩🟩🟩🟥🟥🟥🟥🟩🟩🟥🟩\n━━━━━━━━━━━━━━━\n💵 Beneficio -17.17 $ · ROI -30.9 %\n📐 CLV medio +2.5 % (cuota cogida vs cierre)\n💰 Banca: <b>82.83 €</b> (-17.17 € desde 100 €) · libre 82.83 €{\"inline_keyboard\": [[{\"text\": \"\\ud83d\\udcc8 Ver historial completo y fallos\", \"url\": \"https://github.com/STAMFORD313/analista313/blob/main/ESTADISTICAS.md\"}], [{\"text\": \"\\u26bd F\\u00fatbol\", \"callback_data\": \"dep:futbol\"}, {\"text\": \"\\ud83c\\udfc0 NBA\\u00b7NCAA\", \"callback_data\": \"dep:nba\"}, {\"text\": \"\\ud83c\\udfc8 NFL\\u00b7NCAA\", \"callback_data\": \"dep:nfl\"}], [{\"text\": \"\\ud83c\\udfc6 Champions\\u00b7Europa\", \"callback_data\": \"dep:europa\"}, {\"text\": \"\\ud83c\\udfd2 NHL\", \"callback_data\": \"dep:nhl\"}, {\"text\": \"\\u26be MLB\", \"callback_data\": \"dep:mlb\"}], [{\"text\": \"\\ud83e\\udd4a UFC\", \"callback_data\": \"dep:ufc\"}, {\"text\": \"\\ud83c\\udfbe Tenis\", \"callback_data\": \"dep:tenis\"}, {\"text\": \"\\ud83c\\udfae CS2\", \"callback_data\": \"dep:cs2\"}], [{\"text\": \"\\ud83d\\udc09 Dota 2\", \"callback_data\": \"dep:dota2\"}, {\"text\": \"\\ud83e\\uddd9 LoL\", \"callback_data\": \"dep:lol\"}, {\"text\": \"\\ud83d\\udd2b R6 Siege\", \"callback_data\": \"dep:r6\"}], [{\"text\": \"\\ud83d\\udcf1 MLBB\", \"callback_data\": \"dep:mlbb\"}, {\"text\": \"\\ud83c\\udfae\\u26bd FC 27\", \"callback_data\": \"dep:fc\"}]]}",
  "fc_sent": "2026-11-06T18:22:44.960929+00:00",
  "sgp": {
   "nfl|2026-11-08|Atlanta Falcons|Cincinnati Bengals": {
