@@ -1009,19 +1009,21 @@ def fc_table(days=None):
         r = row(x)
         out.append(f"📅 <b>{dia}</b> · {r[0]} apuestas · ✅ {r[1]} ganadas · ❌ {r[2]} perdidas → {icon(r[3])} <b>{eur(r[3])}</b>")
     tot, rule = row(d), row(d[d.edge >= E.MIN_EDGE_SEND])
-    xs = d[(d.edge >= E.MIN_EDGE_SEND) & d.pick.astype(str).isin(E.SEND_PICKS)]
+    xs = d[(d.edge >= E.MIN_EDGE_SEND) & (d.pick.astype(str) == "X")]
     out += ["", f"💰 <b>En total: {eur(tot[3])}</b> {icon(tot[3])}",
             f"{tot[0]} apuestas: ✅ {tot[1]} ganadas y ❌ {tot[2]} perdidas. Es decir, {per10(tot)}.",
             "", f"🎯 Solo las que el bot ve claras (ventaja de 5 % o más): <b>{eur(rule[3])}</b> {icon(rule[3])} en {rule[0]} apuestas ({per10(rule)})."]
     if len(xs):
         r = row(xs)
-        out.append(f"🤝 Empates con ventaja (lo único que te manda ahora): <b>{eur(r[3])}</b> {icon(r[3])} en {r[0]} apuestas "
+        out.append(f"🤝 Empates con ventaja: <b>{eur(r[3])}</b> {icon(r[3])} en {r[0]} apuestas "
                    f"(✅ {r[1]} · ❌ {r[2]}; {per10(r)}).")
     new = xs[pd.to_datetime(xs.start, utc=True) >= pd.Timestamp(E.RULE_SINCE)]
     r = row(new) if len(new) else (0, 0, 0, 0.0)
-    out.append(f"🆕 <b>Desde que solo te manda empates</b> (5/11 13:30): {r[0]} apuestas · ✅ {r[1]} · ❌ {r[2]} → "
-               f"{icon(r[3])} <b>{eur(r[3])}</b>" + (" (aún sin partidos jugados)" if not r[0] else "") +
-               ". Esta es la cifra que cuenta: lo de antes sirvió para elegir la regla.")
+    out.append(f"🆕 <b>Empates desde la regla</b> (5/11 13:30, partidos nuevos): {r[0]} apuestas · ✅ {r[1]} · ❌ {r[2]} → "
+               f"{icon(r[3])} <b>{eur(r[3])}</b>" + (" (aún sin partidos jugados)" if not r[0] else "") + ".")
+    if not E.SEND_PICKS:
+        out.append("⛔ Ahora mismo el bot <b>no manda</b> FC 27: ninguna regla ha ganado con partidos nuevos. "
+                   "Sigue entrenando y midiendo; volverá cuando una gane de verdad.")
     out += [
             "", "⚠️ Es simulado, sin dinero real. Aún son pocos días: puede ser suerte, para bien o para mal."]
     return "\n".join(out)
