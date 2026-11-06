@@ -1,60 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 06/11/2026 23:08 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Independiente vs Dep. Riestra — 06/11 · 23:15
-
-👀 candidata · 🇦🇷 Liga Profesional · **Gana Independiente** @ **1.68** (Bet365) · prob 55% vs casas 55% · ventaja -7%
-
-- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.13 - 0.59)  
-1 53% · X 28% · 2 20%  
-1X 80% · X2 47% · 12 72%  
-+1.5 52% · +2.5 25% · +3.5 10% · Ambos marcan 31%  
-Marcadores: 1-0 20% · 0-0 19% · 1-1 13% · 2-0 11%  
-🔎 **Claves**  
-• Forma: Independiente ❌➖➖❌➖ | Dep. Riestra ➖❌➖❌❌  
-• H2H: 5 desde 2024: 2V-1E-2D · 1.6 goles/partido · +2.5 en 20%  
-• Bajas: Independiente: sin bajas; Dep. Riestra: sin bajas  
-• Favorito de las casas: Independiente @ 1.68  
-
-## San Lorenzo vs Platense — 06/11 · 23:15
-
-👀 candidata · 🇦🇷 Liga Profesional · **Gana San Lorenzo** @ **2.65** (Bet365) · prob 36% vs casas 36% · ventaja -5%
-
-- ❌ Valor: ventaja -5% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 0.96 - 0.81)  
-1 44% · X 29% · 2 27%  
-1X 73% · X2 56% · 12 71%  
-+1.5 53% · +2.5 26% · +3.5 10% · Ambos marcan 35%  
-Marcadores: 0-0 18% · 1-0 16% · 1-1 14% · 0-1 13%  
-🔎 **Claves**  
-• Forma: San Lorenzo ❌✅✅➖➖ | Platense ➖➖❌✅✅  
-• H2H: 12 desde 2021: 6V-4E-2D · 2.3 goles/partido · +2.5 en 42%  
-• Bajas: San Lorenzo: sin bajas; Platense: sin bajas  
-• Favorito de las casas: San Lorenzo @ 2.65  
-
-## Union de Santa Fe vs Velez Sarsfield — 06/11 · 23:15
-
-👀 candidata · 🇦🇷 Liga Profesional · **Gana Union de Santa Fe** @ **2.45** (Bet365) · prob 36% vs casas 36% · ventaja -11%
-
-- ❌ Valor: ventaja -11% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.18 - 1.09)  
-1 36% · X 29% · 2 35%  
-1X 65% · X2 64% · 12 71%  
-+1.5 67% · +2.5 39% · +3.5 19% · Ambos marcan 46%  
-Marcadores: 1-1 14% · 1-0 12% · 0-0 11% · 0-1 11%  
-🔎 **Claves**  
-• Forma: Union de Santa Fe ❌❌➖✅➖ | Velez Sarsfield ➖❌✅✅➖  
-• H2H: 13 desde 2012: 4V-3E-6D · 2.5 goles/partido · +2.5 en 46%  
-• Bajas: Union de Santa Fe: sin bajas; Velez Sarsfield: sin bajas  
-• Favorito de las casas: Union de Santa Fe @ 2.45  
+Actualizado 06/11/2026 23:17 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Vitoria vs Fluminense — 07/11 · 00:00
 

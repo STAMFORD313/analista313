@@ -1,6 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 06/11/2026 23:08 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 06/11/2026 23:17 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Skif vs hrk — 06/11 · 23:22
 
