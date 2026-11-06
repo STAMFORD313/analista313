@@ -1,43 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 06/11/2026 02:19 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## kkikus vs Simaponika — 06/11 · 02:27
-
-👀 candidata · 🎮⚽ FC 27 · Champions League B · **Empate** @ **5.50** (Unibet) · prob 20% vs casas 16% · ventaja +10%
-
-- ❌ Valor: ventaja +10% (mín. 11% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 57.680 partidos)  
-Goles esperados: kkikus 2.19 · Simaponika 3.25  
-Ganador: kkikus 21% · empate 20% · Simaponika 59%  
-Total: más de 5.5 goles 46% · menos 54%  
-Hándicap Simaponika: −1.5 42% · −2.5 26%  
-🔎 **Claves**  
-• Forma: kkikus ✅❌❌❌❌ | Simaponika ❌✅✅✅✅  
-• Partidos: kkikus 912 | Simaponika 1072  
-• Liga: Champions League B  
-• Unibet: 1 4.00 · X 5.50 · 2 1.38 (sin margen 22%/16%/63%) · ventaja +10%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 5.50 (+10%) · Paf España 5.50 (+10%)  
-
-## believer vs ssstasonn — 06/11 · 02:39
-
-👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana believer** @ **1.15** (cuota justa (sin casa)) · prob 87% vs casas 87% · ventaja +0%
-
-- ❌ Valor: ventaja +0% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 57.637 partidos)  
-Goles esperados: believer 5.07 · ssstasonn 1.88  
-Ganador: believer 87% · empate 8% · ssstasonn 5%  
-Total: más de 6.5 goles 54% · menos 46%  
-Hándicap believer: −1.5 74% · −2.5 59%  
-🔎 **Claves**  
-• Forma: believer ❌✅✅✅✅ | ssstasonn ✅❌❌❌❌  
-• Partidos: believer 895 | ssstasonn 882  
-• Liga: Champions League B  
-• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
+Actualizado 06/11/2026 02:42 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## zaha vs Kosta — 06/11 · 02:50
 
