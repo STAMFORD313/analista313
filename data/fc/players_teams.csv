@@ -58218,3 +58218,33 @@ id,tournament_id,club1,club2,ht1,ht2
 2365229,261114,B Dortmund,Leipzig,,
 2365230,261114,Bayern Munchen,B Dortmund,,
 2365231,261114,Frankfurt,Stuttgart,,
+2365412,261127,Bologna,Napoli,1,3
+2365413,261127,Sassuolo,Juventus,3,2
+2365414,261127,Juventus,Bologna,5,0
+2365415,261127,Napoli,Roma,1,2
+2365416,261127,Roma,Juventus,2,4
+2365417,261127,Bologna,Sassuolo,1,2
+2365418,261127,Sassuolo,Roma,1,0
+2365419,261127,Juventus,Napoli,2,1
+2365420,261127,Napoli,Sassuolo,3,2
+2365421,261127,Roma,Bologna,0,3
+2365422,261127,Napoli,Bologna,2,5
+2365423,261127,Juventus,Sassuolo,5,1
+2365424,261127,Bologna,Juventus,2,3
+2365425,261127,Roma,Napoli,2,0
+2365426,261127,Juventus,Roma,2,2
+2365427,261127,Sassuolo,Bologna,1,6
+2365428,261127,Roma,Sassuolo,2,3
+2365429,261127,Napoli,Juventus,0,1
+2365430,261127,Sassuolo,Napoli,,
+2365431,261127,Bologna,Roma,,
+2366035,261152,Real Madrid,Paris,2,3
+2366735,261152,Liverpool,Atleti,0,3
+2366736,261152,Liverpool,Real Madrid,2,1
+2366737,261152,Atleti,Paris,1,3
+2366738,261152,Paris,Liverpool,3,1
+2366739,261152,Atleti,Real Madrid,1,1
+2366740,261152,Real Madrid,Paris,3,5
+2366741,261152,Liverpool,Atleti,0,2
+2366742,261152,Liverpool,Real Madrid,0,2
+2366743,261152,Atleti,Paris,2,1
