@@ -1278,9 +1278,6 @@
   "P1|2026-11-08|Estrela|Benfica",
   "P1|2026-11-08|Rio Ave|Sp Braga",
   "wta|2026-11-07|Janice Tjen|Robin Montgomery",
-  "cs2|133153",
-  "cs2|133154",
-  "cs2|133155",
   "cs2|133163",
   "cs2|133157",
   "cs2|133156",
@@ -2280,7 +2277,10 @@
   "fc|2365245",
   "fc|2365511",
   "fc|2366236",
-  "fc|2365855"
+  "fc|2365855",
+  "fc|2365250",
+  "fc|2365857",
+  "fc|2366238"
  ],
  "signals": [
   {
@@ -6322,54 +6322,6 @@
    "combo_anunciada": true,
    "score": "2-1",
    "result": true,
-   "logged": true
-  },
-  {
-   "market": "H",
-   "pick": "Edwardson",
-   "odds": 2.8,
-   "book": "Unibet",
-   "implied": 0.311,
-   "edge": 0.065,
-   "sin_stake": true,
-   "p": 0.38,
-   "key": "fc|2361547",
-   "match": "Edwardson vs dm1trena",
-   "start": "2026-11-03T14:28:00+00:00",
-   "league": "🎮⚽ FC 27 · LaLiga",
-   "sport": "🎮⚽",
-   "context": "EA FC Esoccer Battle Edwardson vs dm1trena (LaLiga): goles esperados 2.30-2.34, 1X2 38%/22%/40%. Sin cuotas de casa.",
-   "captured": "2026-11-03T14:18",
-   "version": "ec6ab36",
-   "bajas": "",
-   "considered": true,
-   "placed": false,
-   "score": "1-1",
-   "result": false,
-   "logged": true
-  },
-  {
-   "market": "D",
-   "pick": "Empate",
-   "odds": 5.0,
-   "book": "Unibet",
-   "implied": 0.175,
-   "edge": -0.002,
-   "sin_stake": true,
-   "p": 0.2,
-   "key": "fc|2360089",
-   "match": "ramzes vs Gazi",
-   "start": "2026-11-03T14:28:00+00:00",
-   "league": "🎮⚽ FC 27 · Eredivisie",
-   "sport": "🎮⚽",
-   "context": "EA FC Esoccer Battle ramzes vs Gazi (Eredivisie): goles esperados 2.93-2.57, 1X2 47%/20%/33%. Sin cuotas de casa.",
-   "captured": "2026-11-03T14:18",
-   "version": "ec6ab36",
-   "bajas": "",
-   "considered": true,
-   "placed": false,
-   "score": "1-2",
-   "result": false,
    "logged": true
   },
   {
@@ -43640,20 +43592,6 @@
    "start": "2026-11-06T14:28:00+00:00",
    "league": "🎮⚽ FC 27 · Eredivisie",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 58.318 partidos)",
-    "Goles esperados: Shinobu 2.11 · saportj 2.36",
-    "Ganador: Shinobu 33% · empate 21% · saportj 46%",
-    "Total: más de 4.5 goles 46% · menos 54%",
-    "Hándicap saportj: −1.5 27% · −2.5 14%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Shinobu ❌❌❌❌❌ | saportj ➖✅➖✅➖",
-    "• Partidos: Shinobu 1249 | saportj 662",
-    "• Liga: Eredivisie",
-    "• Unibet: 1 3.70 · X 6.50 · 2 1.37 (sin margen 23%/13%/63%) · ventaja +34%. Sin stake hasta demostrar ROI con estas cuotas.",
-    "• En España: LeoVegas España 6.50 (+34%) · Paf España 6.50 (+34%)"
-   ],
    "context": "EA FC Esoccer Battle Shinobu vs saportj (Eredivisie): goles esperados 2.11-2.36, 1X2 33%/21%/46%. Sin cuotas de casa.",
    "captured": "2026-11-06T14:15",
    "version": "64c3617",
@@ -43675,20 +43613,6 @@
    "start": "2026-11-06T14:22:00+00:00",
    "league": "🎮⚽ FC 27 · Serie A",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 58.318 partidos)",
-    "Goles esperados: borees 2.88 · maggett0 3.00",
-    "Ganador: borees 38% · empate 20% · maggett0 42%",
-    "Total: más de 5.5 goles 53% · menos 47%",
-    "Hándicap maggett0: −1.5 28% · −2.5 16%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: borees ➖❌✅❌✅ | maggett0 ❌✅❌❌✅",
-    "• Partidos: borees 972 | maggett0 904",
-    "• Liga: Serie A",
-    "• Unibet: 1 1.73 · X 4.40 · 2 2.95 (sin margen 51%/20%/30%) · ventaja +23%. Sin stake hasta demostrar ROI con estas cuotas.",
-    "• En España: LeoVegas España 2.95 (+23%) · Paf España 2.95 (+23%)"
-   ],
    "context": "EA FC Esoccer Battle borees vs maggett0 (Serie A): goles esperados 2.88-3.00, 1X2 38%/20%/42%. Sin cuotas de casa.",
    "captured": "2026-11-06T14:15",
    "version": "64c3617",
@@ -43710,23 +43634,99 @@
    "start": "2026-11-06T14:25:00+00:00",
    "league": "🎮⚽ FC 27 · Europa League",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 58.318 partidos)",
-    "Goles esperados: pikalicaaa 2.52 · Firminho 3.16",
-    "Ganador: pikalicaaa 31% · empate 21% · Firminho 48%",
-    "Total: más de 5.5 goles 50% · menos 50%",
-    "Hándicap Firminho: −1.5 35% · −2.5 21%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: pikalicaaa ❌✅❌❌✅ | Firminho ✅✅✅❌❌",
-    "• Partidos: pikalicaaa 591 | Firminho 736",
-    "• Liga: Europa League",
-    "• Unibet: 1 3.10 · X 5.80 · 2 1.52 (sin margen 28%/15%/57%) · ventaja +21%. Sin stake hasta demostrar ROI con estas cuotas.",
-    "• En España: LeoVegas España 5.80 (+21%) · Paf España 5.80 (+21%)"
-   ],
    "context": "EA FC Esoccer Battle pikalicaaa vs Firminho (Europa League): goles esperados 2.52-3.16, 1X2 31%/21%/48%. Sin cuotas de casa.",
    "captured": "2026-11-06T14:15",
    "version": "64c3617",
+   "bajas": "",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "A",
+   "pick": "MeLToSik",
+   "odds": 3.9,
+   "book": "Unibet",
+   "implied": 0.224,
+   "edge": 0.18,
+   "sin_stake": true,
+   "p": 0.302,
+   "key": "fc|2365250",
+   "match": "Revange vs MeLToSik",
+   "start": "2026-11-06T14:28:00+00:00",
+   "league": "🎮⚽ FC 27 · LaLiga",
+   "sport": "🎮⚽",
+   "context": "EA FC Esoccer Battle Revange vs MeLToSik (LaLiga): goles esperados 2.47-2.04, 1X2 47%/22%/30%. Sin cuotas de casa.",
+   "captured": "2026-11-06T14:28",
+   "version": "61c3020",
+   "bajas": "",
+   "considered": true
+  },
+  {
+   "market": "D",
+   "pick": "Empate",
+   "odds": 5.6,
+   "book": "Unibet",
+   "implied": 0.158,
+   "edge": 0.178,
+   "sin_stake": true,
+   "p": 0.21,
+   "key": "fc|2365857",
+   "match": "Mani vs Jankulovski",
+   "start": "2026-11-06T14:37:00+00:00",
+   "league": "🎮⚽ FC 27 · Europa League",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 58.329 partidos)",
+    "Goles esperados: Mani 2.99 · Jankulovski 2.32",
+    "Ganador: Mani 53% · empate 21% · Jankulovski 26%",
+    "Total: más de 5.5 goles 44% · menos 56%",
+    "Hándicap Mani: −1.5 35% · −2.5 21%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Mani ➖❌❌➖❌ | Jankulovski ✅❌✅❌❌",
+    "• Partidos: Mani 768 | Jankulovski 792",
+    "• Liga: Europa League",
+    "• Unibet: 1 1.57 · X 5.60 · 2 3.15 (sin margen 56%/16%/28%) · ventaja +18%. Sin stake hasta demostrar ROI con estas cuotas.",
+    "• En España: LeoVegas España 5.60 (+18%) · Paf España 5.60 (+18%)"
+   ],
+   "context": "EA FC Esoccer Battle Mani vs Jankulovski (Europa League): goles esperados 2.99-2.32, 1X2 53%/21%/26%. Sin cuotas de casa.",
+   "captured": "2026-11-06T14:28",
+   "version": "61c3020",
+   "bajas": "",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "D",
+   "pick": "Empate",
+   "odds": 4.9,
+   "book": "Unibet",
+   "implied": 0.178,
+   "edge": 0.099,
+   "sin_stake": true,
+   "p": 0.224,
+   "key": "fc|2366238",
+   "match": "Duka vs borees",
+   "start": "2026-11-06T14:34:00+00:00",
+   "league": "🎮⚽ FC 27 · Serie A",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 58.329 partidos)",
+    "Goles esperados: Duka 2.53 · borees 2.21",
+    "Ganador: Duka 44% · empate 22% · borees 34%",
+    "Total: más de 4.5 goles 51% · menos 49%",
+    "Hándicap Duka: −1.5 29% · −2.5 15%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Duka ✅➖❌➖❌ | borees ➖❌✅❌✅",
+    "• Partidos: Duka 994 | borees 972",
+    "• Liga: Serie A",
+    "• Unibet: 1 2.10 · X 4.90 · 2 2.15 (sin margen 42%/18%/41%) · ventaja +10%. Sin stake hasta demostrar ROI con estas cuotas.",
+    "• En España: LeoVegas España 4.90 (+10%) · Paf España 4.90 (+10%)"
+   ],
+   "context": "EA FC Esoccer Battle Duka vs borees (Serie A): goles esperados 2.53-2.21, 1X2 44%/22%/34%. Sin cuotas de casa.",
+   "captured": "2026-11-06T14:28",
+   "version": "61c3020",
    "bajas": "",
    "considered": true,
    "placed": false
@@ -47892,7 +47892,8 @@
      "line": 2.5,
      "text": "Menos de 2.5 goles"
     }
-   ]
+   ],
+   "anunciada": true
   },
   "E1|2026-11-07|Wrexham|Wolves": {
    "match": "Wrexham vs Wolves",
@@ -48044,7 +48045,8 @@
      "line": 5.5,
      "text": "Menos de 5.5 córners de Wrexham"
     }
-   ]
+   ],
+   "anunciada": true
   },
   "F2|2026-11-07|Clermont|Rodez": {
    "match": "Clermont vs Rodez",
@@ -48680,7 +48682,8 @@
      "line": 2.5,
      "text": "Más de 2.5 goles"
     }
-   ]
+   ],
+   "anunciada": true
   },
   "I1|2026-11-07|Torino|Lecce": {
    "match": "Torino vs Lecce",
@@ -48844,7 +48847,8 @@
      "line": 11.5,
      "text": "Menos de 11.5 faltas de Torino"
     }
-   ]
+   ],
+   "anunciada": true
   },
   "I2|2026-11-07|Cesena|Catanzaro": {
    "match": "Cesena vs Catanzaro",
@@ -49409,7 +49413,8 @@
      "line": 2.5,
      "text": "Más de 2.5 goles"
     }
-   ]
+   ],
+   "anunciada": true
   },
   "D1|2026-11-07|Dortmund|Elversberg": {
    "match": "Dortmund vs Elversberg",
@@ -61701,7 +61706,7 @@
    ]
   }
  },
- "combo_sent": "2026-11-06T11:24:24.269797+00:00",
+ "combo_sent": "2026-11-06T14:28:43.300840+00:00",
  "fc_sim_sent": "2026-11-06T13:22:16.846104+00:00",
  "fc_sim_n": 652,
  "kambi_ok": [

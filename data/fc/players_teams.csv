@@ -58318,3 +58318,63 @@ id,tournament_id,club1,club2,ht1,ht2
 2366231,261164,Brighton,Aston Villa,,
 2366232,261164,Nottm Forest,Brighton,,
 2366233,261164,Man Utd,Newcastle,,
+2365572,261119,Real Madrid,Bayern Munchen,1,2
+2365573,261119,Liverpool,Paris,1,2
+2365574,261119,Paris,Real Madrid,0,1
+2365575,261119,Bayern Munchen,Atleti,3,1
+2365576,261119,Atleti,Paris,0,1
+2365577,261119,Real Madrid,Liverpool,0,2
+2365578,261119,Liverpool,Atleti,2,4
+2365579,261119,Paris,Bayern Munchen,3,1
+2365580,261119,Bayern Munchen,Liverpool,1,1
+2365581,261119,Atleti,Real Madrid,4,1
+2365582,261119,Bayern Munchen,Real Madrid,,
+2365583,261119,Paris,Liverpool,,
+2365584,261119,Real Madrid,Paris,,
+2365585,261119,Atleti,Bayern Munchen,,
+2365586,261119,Paris,Atleti,,
+2365587,261119,Liverpool,Real Madrid,,
+2365588,261119,Atleti,Liverpool,,
+2365589,261119,Bayern Munchen,Paris,,
+2365590,261119,Liverpool,Bayern Munchen,,
+2365591,261119,Real Madrid,Atleti,,
+2365502,261137,PSV,Ajax,2,0
+2365503,261137,Feyenoord,Twente,3,1
+2365504,261137,Twente,PSV,1,3
+2365505,261137,Ajax,AZ Alkmaar,1,0
+2365506,261137,AZ Alkmaar,Twente,0,1
+2365507,261137,PSV,Feyenoord,1,2
+2365508,261137,Feyenoord,AZ Alkmaar,0,1
+2365509,261137,Twente,Ajax,2,1
+2365510,261137,Ajax,Feyenoord,,
+2365511,261137,AZ Alkmaar,PSV,,
+2365512,261137,Ajax,PSV,,
+2365513,261137,Twente,Feyenoord,,
+2365514,261137,PSV,Twente,,
+2365515,261137,AZ Alkmaar,Ajax,,
+2365516,261137,Twente,AZ Alkmaar,,
+2365517,261137,Feyenoord,PSV,,
+2365518,261137,AZ Alkmaar,Feyenoord,,
+2365519,261137,Ajax,Twente,,
+2365520,261137,Feyenoord,Ajax,,
+2365521,261137,PSV,AZ Alkmaar,,
+2366044,261149,Argentina,France,3,2
+2366045,261149,Germany,England,3,3
+2366046,261149,England,Argentina,4,4
+2366047,261149,France,Spain,5,2
+2366048,261149,Spain,England,5,2
+2366049,261149,Argentina,Germany,1,4
+2366050,261149,Germany,Spain,,
+2366051,261149,England,France,,
+2366052,261149,France,Germany,,
+2366053,261149,Spain,Argentina,,
+2366054,261149,France,Argentina,,
+2366055,261149,England,Germany,,
+2366056,261149,Argentina,England,,
+2366057,261149,Spain,France,,
+2366058,261149,England,Spain,,
+2366059,261149,Germany,Argentina,,
+2366060,261149,Spain,Germany,,
+2366061,261149,France,England,,
+2366062,261149,Germany,France,,
+2366063,261149,Argentina,Spain,,

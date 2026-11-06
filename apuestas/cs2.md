@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 06/11/2026 15:15 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 06/11/2026 15:28 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## SINNERS Legacy vs Thousand — 06/11 · 18:00
 
