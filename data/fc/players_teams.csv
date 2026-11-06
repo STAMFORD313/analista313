@@ -58000,14 +58000,14 @@ id,tournament_id,club1,club2,ht1,ht2
 2365369,261122,Man Utd,Newcastle,,
 2365370,261122,Brighton,Man Utd,,
 2365371,261122,Aston Villa,Nottm Forest,,
-2365112,261098,Juventus,Bologna,1,3
-2365113,261098,Napoli,Roma,2,3
-2365114,261098,Roma,Juventus,1,1
-2365115,261098,Bologna,Sassuolo,3,2
-2365116,261098,Sassuolo,Roma,4,2
-2365117,261098,Juventus,Napoli,0,1
-2365118,261098,Napoli,Sassuolo,3,0
-2365119,261098,Roma,Bologna,4,0
+2365112,261098,Juventus,Bologna,1.0,3.0
+2365113,261098,Napoli,Roma,2.0,3.0
+2365114,261098,Roma,Juventus,1.0,1.0
+2365115,261098,Bologna,Sassuolo,3.0,2.0
+2365116,261098,Sassuolo,Roma,4.0,2.0
+2365117,261098,Juventus,Napoli,0.0,1.0
+2365118,261098,Napoli,Sassuolo,3.0,0.0
+2365119,261098,Roma,Bologna,4.0,0.0
 2365120,261098,Bologna,Napoli,,
 2365121,261098,Sassuolo,Juventus,,
 2365122,261098,Bologna,Juventus,,
@@ -58020,16 +58020,16 @@ id,tournament_id,club1,club2,ht1,ht2
 2365129,261098,Bologna,Roma,,
 2365130,261098,Napoli,Bologna,,
 2365131,261098,Juventus,Sassuolo,,
-2366174,261160,Lyon,Paris,2,3
-2366175,261160,Nice,Marseille,1,2
-2366176,261160,Marseille,Lyon,1,0
-2366177,261160,Paris,Monaco,1,3
-2366178,261160,Monaco,Marseille,2,3
-2366179,261160,Lyon,Nice,1,1
-2366180,261160,Nice,Monaco,2,1
-2366181,261160,Marseille,Paris,0,1
-2366182,261160,Paris,Nice,0,3
-2366183,261160,Monaco,Lyon,1,1
+2366174,261160,Lyon,Paris,2.0,3.0
+2366175,261160,Nice,Marseille,1.0,2.0
+2366176,261160,Marseille,Lyon,1.0,0.0
+2366177,261160,Paris,Monaco,1.0,3.0
+2366178,261160,Monaco,Marseille,2.0,3.0
+2366179,261160,Lyon,Nice,1.0,1.0
+2366180,261160,Nice,Monaco,2.0,1.0
+2366181,261160,Marseille,Paris,0.0,1.0
+2366182,261160,Paris,Nice,0.0,3.0
+2366183,261160,Monaco,Lyon,1.0,1.0
 2366184,261160,Paris,Lyon,,
 2366185,261160,Marseille,Nice,,
 2366186,261160,Lyon,Marseille,,
@@ -58040,3 +58040,63 @@ id,tournament_id,club1,club2,ht1,ht2
 2366191,261160,Paris,Marseille,,
 2366192,261160,Nice,Paris,,
 2366193,261160,Lyon,Monaco,,
+2365192,261110,Al Hilal,Gangwon FC,3,1
+2365193,261110,FC Seoul,Al Ittihad,2,0
+2365194,261110,Al Ittihad,Al Hilal,0,2
+2365195,261110,Gangwon FC,Al Ahli,0,2
+2365196,261110,Al Ahli,Al Ittihad,0,1
+2365197,261110,Al Hilal,FC Seoul,1,1
+2365198,261110,FC Seoul,Al Ahli,,
+2365199,261110,Al Ittihad,Gangwon FC,,
+2365200,261110,Gangwon FC,FC Seoul,,
+2365201,261110,Al Ahli,Al Hilal,,
+2365202,261110,Gangwon FC,Al Hilal,,
+2365203,261110,Al Ittihad,FC Seoul,,
+2365204,261110,Al Hilal,Al Ittihad,,
+2365205,261110,Al Ahli,Gangwon FC,,
+2365206,261110,Al Ittihad,Al Ahli,,
+2365207,261110,FC Seoul,Al Hilal,,
+2365208,261110,Al Ahli,FC Seoul,,
+2365209,261110,Gangwon FC,Al Ittihad,,
+2365210,261110,FC Seoul,Gangwon FC,,
+2365211,261110,Al Hilal,Al Ahli,,
+2365452,261135,Middlesbrough,Wolves,1,4
+2365453,261135,West Ham,Burnley,3,3
+2365454,261135,Burnley,Middlesbrough,3,2
+2365455,261135,Wolves,Southampton,4,1
+2365456,261135,Southampton,Burnley,0,3
+2365457,261135,Middlesbrough,West Ham,0,1
+2365458,261135,West Ham,Southampton,4,0
+2365459,261135,Burnley,Wolves,3,2
+2365460,261135,Wolves,West Ham,,
+2365461,261135,Southampton,Middlesbrough,,
+2365462,261135,Wolves,Middlesbrough,,
+2365463,261135,Burnley,West Ham,,
+2365464,261135,Middlesbrough,Burnley,,
+2365465,261135,Southampton,Wolves,,
+2365466,261135,Burnley,Southampton,,
+2365467,261135,West Ham,Middlesbrough,,
+2365468,261135,Southampton,West Ham,,
+2365469,261135,Wolves,Burnley,,
+2365470,261135,West Ham,Wolves,,
+2365471,261135,Middlesbrough,Southampton,,
+2366014,261150,Bayern Munchen,Atleti,0,4
+2366015,261150,Real Madrid,Paris,3,2
+2366016,261150,Paris,Bayern Munchen,0,2
+2366017,261150,Atleti,Liverpool,1,1
+2366018,261150,Liverpool,Paris,,
+2366019,261150,Bayern Munchen,Real Madrid,,
+2366020,261150,Real Madrid,Liverpool,,
+2366021,261150,Paris,Atleti,,
+2366022,261150,Atleti,Real Madrid,,
+2366023,261150,Liverpool,Bayern Munchen,,
+2366024,261150,Atleti,Bayern Munchen,,
+2366025,261150,Paris,Real Madrid,,
+2366026,261150,Bayern Munchen,Paris,,
+2366027,261150,Liverpool,Atleti,,
+2366028,261150,Paris,Liverpool,,
+2366029,261150,Real Madrid,Bayern Munchen,,
+2366030,261150,Liverpool,Real Madrid,,
+2366031,261150,Atleti,Paris,,
+2366032,261150,Real Madrid,Atleti,,
+2366033,261150,Bayern Munchen,Liverpool,,

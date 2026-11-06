@@ -2029,7 +2029,10 @@
   "fc|2366015",
   "fc|2366185",
   "fc|2365198",
-  "fc|2366184"
+  "fc|2366184",
+  "fc|2365122",
+  "fc|2366186",
+  "fc|2366187"
  ],
  "signals": [
   {
@@ -4523,29 +4526,6 @@
    "placed": false,
    "score": "3-4",
    "result": false,
-   "logged": true
-  },
-  {
-   "market": "A",
-   "pick": "Loka",
-   "odds": 1.39,
-   "book": "cuota justa (sin casa)",
-   "p": 0.722,
-   "implied": 0.722,
-   "edge": 0.0,
-   "key": "fc|2360040",
-   "match": "kamito vs Loka",
-   "start": "2026-11-03T08:48:00+00:00",
-   "league": "🎮⚽ FC 27 · EFL Championship",
-   "sport": "🎮⚽",
-   "context": "EA FC Esoccer Battle kamito vs Loka (EFL Championship): goles esperados 3.08-5.28, 1X2 17%/11%/72%. Sin cuotas de casa.",
-   "captured": "2026-11-03T08:13",
-   "version": "e14503f",
-   "bajas": "",
-   "considered": true,
-   "placed": false,
-   "score": "2-7",
-   "result": true,
    "logged": true
   },
   {
@@ -26147,6 +26127,77 @@
    "bajas": "",
    "considered": true,
    "placed": false
+  },
+  {
+   "market": "H",
+   "pick": "mko1919",
+   "odds": 6.1,
+   "book": "Unibet",
+   "implied": 0.142,
+   "edge": 0.523,
+   "sin_stake": true,
+   "p": 0.25,
+   "key": "fc|2365122",
+   "match": "mko1919 vs Uncle",
+   "start": "2026-11-06T08:55:00+00:00",
+   "league": "🎮⚽ FC 27 · Serie A",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 58.030 partidos)",
+    "Goles esperados: mko1919 2.21 · Uncle 3.03",
+    "Ganador: mko1919 25% · empate 20% · Uncle 55%",
+    "Total: más de 5.5 goles 43% · menos 57%",
+    "Hándicap Uncle: −1.5 37% · −2.5 22%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: mko1919 ❌✅✅❌❌ | Uncle ❌✅❌➖❌",
+    "• Partidos: mko1919 1095 | Uncle 685",
+    "• Liga: Serie A",
+    "• Unibet: 1 6.10 · X 3.35 · 2 1.44 (sin margen 14%/26%/60%) · ventaja +52%. Sin stake hasta demostrar ROI con estas cuotas.",
+    "• En España: LeoVegas España 6.10 (+52%) · Paf España 6.10 (+52%)"
+   ],
+   "context": "EA FC Esoccer Battle mko1919 vs Uncle (Serie A): goles esperados 2.21-3.03, 1X2 25%/20%/55%. Sin cuotas de casa.",
+   "captured": "2026-11-06T08:50",
+   "version": "bc81dae",
+   "bajas": "",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "A",
+   "pick": "Taz",
+   "odds": 1.81,
+   "book": "Unibet",
+   "implied": 0.484,
+   "edge": 0.059,
+   "sin_stake": true,
+   "p": 0.585,
+   "key": "fc|2366186",
+   "match": "Ganger_29 vs Taz",
+   "start": "2026-11-06T08:52:00+00:00",
+   "league": "🎮⚽ FC 27 · Ligue 1",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 58.030 partidos)",
+    "Goles esperados: Ganger_29 2.75 · Taz 3.74",
+    "Ganador: Ganger_29 25% · empate 16% · Taz 59%",
+    "Total: más de 6.5 goles 47% · menos 53%",
+    "Hándicap Taz: −1.5 41% · −2.5 27%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Ganger_29 ✅✅❌❌➖ | Taz ✅❌✅✅❌",
+    "• Partidos: Ganger_29 779 | Taz 905",
+    "• Liga: Ligue 1",
+    "• Unibet: 1 2.60 · X 4.90 · 2 1.81 (sin margen 34%/18%/48%) · ventaja +6%. Sin stake hasta demostrar ROI con estas cuotas.",
+    "• En España: LeoVegas España 1.81 (+6%) · Paf España 1.81 (+6%)"
+   ],
+   "context": "EA FC Esoccer Battle Ganger_29 vs Taz (Ligue 1): goles esperados 2.75-3.74, 1X2 25%/16%/59%. Sin cuotas de casa.",
+   "captured": "2026-11-06T08:50",
+   "version": "bc81dae",
+   "bajas": "",
+   "considered": true,
+   "placed": false,
+   "anunciada": true
   }
  ],
  "bank": {
@@ -26608,7 +26659,7 @@
  },
  "scoreboard_id": 156,
  "scoreboard_text": "📊 <b>MARCADOR DEL BOT</b>\n━━━━━━━━━━━━━━━\n🟩 Ganadas: <b>11</b> (38 %)\n🟥 Perdidas: <b>18</b> (62 %)\n⏳ En juego: 1\n\nÚltimas 29:\n🟥🟥🟥🟩🟥🟩🟥🟥🟥🟥🟥🟥🟥🟥🟩🟥🟥🟩🟩🟩🟩🟩🟥🟥🟥🟥🟩🟩🟩\n━━━━━━━━━━━━━━━\n💵 Beneficio -16.10 $ · ROI -29.5 %\n📐 CLV medio +2.5 % (cuota cogida vs cierre)\n💰 Banca: <b>83.90 €</b> (-16.10 € desde 100 €) · libre 82.83 €{\"inline_keyboard\": [[{\"text\": \"\\ud83d\\udcc8 Ver historial completo y fallos\", \"url\": \"https://github.com/STAMFORD313/analista313/blob/main/ESTADISTICAS.md\"}], [{\"text\": \"\\u26bd F\\u00fatbol\", \"callback_data\": \"dep:futbol\"}, {\"text\": \"\\ud83c\\udfc0 NBA\\u00b7NCAA\", \"callback_data\": \"dep:nba\"}, {\"text\": \"\\ud83c\\udfc8 NFL\\u00b7NCAA\", \"callback_data\": \"dep:nfl\"}], [{\"text\": \"\\ud83c\\udfc6 Champions\\u00b7Europa\", \"callback_data\": \"dep:europa\"}, {\"text\": \"\\ud83c\\udfd2 NHL\", \"callback_data\": \"dep:nhl\"}, {\"text\": \"\\u26be MLB\", \"callback_data\": \"dep:mlb\"}], [{\"text\": \"\\ud83e\\udd4a UFC\", \"callback_data\": \"dep:ufc\"}, {\"text\": \"\\ud83c\\udfbe Tenis\", \"callback_data\": \"dep:tenis\"}, {\"text\": \"\\ud83c\\udfae CS2\", \"callback_data\": \"dep:cs2\"}], [{\"text\": \"\\ud83d\\udc09 Dota 2\", \"callback_data\": \"dep:dota2\"}, {\"text\": \"\\ud83e\\uddd9 LoL\", \"callback_data\": \"dep:lol\"}, {\"text\": \"\\ud83d\\udd2b R6 Siege\", \"callback_data\": \"dep:r6\"}], [{\"text\": \"\\ud83d\\udcf1 MLBB\", \"callback_data\": \"dep:mlbb\"}, {\"text\": \"\\ud83c\\udfae\\u26bd FC 27\", \"callback_data\": \"dep:fc\"}]]}",
- "fc_sent": "2026-11-06T01:12:37.206839+00:00",
+ "fc_sent": "2026-11-06T08:50:32.627533+00:00",
  "sgp": {
   "nfl|2026-11-08|Atlanta Falcons|Cincinnati Bengals": {
    "match": "Atlanta Falcons vs Cincinnati Bengals",
