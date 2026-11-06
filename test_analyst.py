@@ -1092,7 +1092,7 @@ assert _CH.sports_in("combinada de esports y nba") >= {"nba", "cs2", "fc"} and _
 assert _CH._leg({"src": "esports:cs2", "side": "H", "start": "2026-11-04T20:00Z", "home": "NAVI", "away": "G2", "odds": 1.5}, "Gana NAVI", 0.9)["src"] == "esports:cs2"
 _jd = _MD._result
 _MD._result = lambda leg: (2.0, 1.0)
-try: assert _MD.judge({"src": "esports:cs2", "side": "H"}) == (True, "acabó 2-1") and _MD.judge({"src": "fc", "side": "X"})[0] is False
+try: assert _MD.judge({"src": "esports:cs2", "side": "H"}) == (True, "ganó el local 2-1") and _MD.judge({"src": "fc", "side": "X"})[0] is False
 finally: _MD._result = _jd
 _smf2, _smp2 = _SM.FILE, _SM.push
 _SM.FILE = A_.DATA / "_test_simuladas2.json"; _SM.FILE.unlink(missing_ok=True); _SM._MEM.clear(); _SM.push = lambda m: None

@@ -131,7 +131,8 @@ def judge(leg, g):
     if leg["txt"] == "Empate" or leg["txt"].startswith("Gana "):  # 1X2 de fútbol leído de un boleto
         w = leg["txt"][5:]
         ok = g["hs"] == g["as"] if leg["txt"] == "Empate" else (g["hs"] > g["as"]) if w == g["home"] else (g["as"] > g["hs"])
-        return ok, f"acabó {g['hs']:g}-{g['as']:g}"
+        who = "empate" if g["hs"] == g["as"] else f"ganó {g['home'] if g['hs'] > g['as'] else g['away']}"
+        return ok, f"{who}, acabó {g['hs']:g}-{g['as']:g}"
     if m := DC_RX.match(leg["txt"]):
         ok = g["hs"] >= g["as"] if m.group(2) == "1X" else g["as"] >= g["hs"]
         return ok, f"acabó {g['hs']:g}-{g['as']:g}"
@@ -213,15 +214,27 @@ def settle(now=None):
 
 
 def card(b):
-    legs = [(f"{l['home']} – {l['away']}", f"{l['txt']}" + (f" @ {l['odds']:.2f}" if l.get("odds") else "")
-             + (f" ({l['por']})" if l.get("por") else ""), l.get("ok")) for l in b["legs"]]
+    legs = [(f"{l['home']} – {l['away']}", (f"{l['jugador']}: " if l.get("jugador") else "") + f"{l['txt']}"
+             + (f" @ {l['odds']:.2f}" if l.get("odds") else "")
+             + (f" ({l['por']})" if l.get("por") else " ⏳ sin decidir" if b["estado"] != "pendiente" else ""), l.get("ok")) for l in b["legs"]]
     res = {"ganada": True, "perdida": False, "nula": "nula"}.get(b["estado"])
     head = {"ganada": "🎉 ¡Simulada GANADA!", "perdida": "Simulada perdida", "nula": "Simulada nula"}.get(b["estado"], "Simulada en juego")
     fail = [l for l in b["legs"] if l.get("ok") is False]
     why = (f"\nFalló{'ron' if len(fail) > 1 else ''}: " + "; ".join(f"{l['txt']} en {l['home']} – {l['away']} ({l['por']})" for l in fail)) if fail else ""
     left = sum(l.get("ok") is None for l in b["legs"])
     if fail and left: why += f"\n(Ya no hace falta esperar a las otras {left} piernas: con una fallada la combinada está perdida.)"
-    return "\n".join([f"🧾 <b>{head}</b> · {A.esc(b['titulo'])}", *B.boleto(None, legs, b.get("odds"), b.get("stake"), res)]) + A.esc(why)
+    return "\n".join([f"🧾 <b>{head}</b> · {A.esc(b['titulo'])}", *B.boleto(None, legs, b.get("odds"), b.get("stake"), res)]) + A.esc(why) + tally(b)
+
+
+def tally(b):
+    """Pie de la tarjeta de un barrido: cómo van todos los barridos (ganados, perdidos, € a 1 € cada uno)."""
+    if not b.get("titulo", "").startswith("Barrido"): return ""
+    done = [x for x in load().values() if x.get("titulo", "").startswith("Barrido") and x["estado"] in ("ganada", "perdida")]
+    if b["id"] not in {x["id"] for x in done}: done.append(b)
+    won = [x for x in done if x["estado"] == "ganada"]
+    bal = sum(x["stake"] * (x["odds"] or 0) for x in won) - sum(x["stake"] for x in done)
+    return (f"\n\n📊 Barridos hasta ahora: ✅ {len(won)} ganados · ❌ {len(done) - len(won)} perdidos → "
+            f"{'🟢' if bal > 0 else '🔴'} {bal:+.2f} € (1 € a cada uno)").replace(".", ",")
 
 
 # ── en directo ──────────────────────────────────────────────────────────────────────────────────────────────────

@@ -157,4 +157,5 @@ def judge(leg):
     if r is None: return None, "sin resultado todavía"
     hs, as_ = r
     ok = hs > as_ if leg["side"] == "H" else as_ > hs if leg["side"] == "A" else hs == as_
-    return bool(ok), f"acabó {hs:g}-{as_:g}"  # bool de Python: el de numpy no se puede guardar en JSON
+    who = "empate" if hs == as_ else f"ganó {leg.get('home', 'el local') if hs > as_ else leg.get('away', 'el visitante')}"
+    return bool(ok), f"{who} {max(hs, as_):g}-{min(hs, as_):g}"  # bool de Python: el de numpy no se puede guardar en JSON
