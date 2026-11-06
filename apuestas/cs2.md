@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 06/11/2026 19:49 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 06/11/2026 20:08 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Dynamo Eclot Phoenix vs B.LINE — 06/11 · 20:30
 
