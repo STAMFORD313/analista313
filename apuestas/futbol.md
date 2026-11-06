@@ -1,231 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 06/11/2026 20:27 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Wisla vs Cracovia — 06/11 · 20:30
-
-👀 candidata · 🇵🇱 Ekstraklasa · **Gana Wisla** @ **1.75** (Bet365) · prob 53% vs casas 53% · ventaja -7%
-
-- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.59 - 0.93)  
-1 48% · X 27% · 2 25%  
-1X 75% · X2 52% · 12 73%  
-+1.5 72% · +2.5 46% · +3.5 25% · Ambos marcan 49%  
-Marcadores: 1-1 12% · 1-0 12% · 2-0 10% · 2-1 9%  
-🔎 **Claves**  
-• Forma: Wisla ✅❌➖✅❌ | Cracovia ❌✅➖❌❌  
-• H2H: 18 desde 2013: 8V-6E-4D · 2.3 goles/partido · +2.5 en 39%  
-• Bajas: Wisla: sin bajas; Cracovia: sin bajas  
-• Favorito de las casas: Wisla @ 1.75  
-
-## Hamburg vs M'gladbach — 06/11 · 20:30
-
-👀 candidata · 🇩🇪 Bundesliga · **Más de 2.5 goles** @ **1.73** (Bet365) · prob 57% vs casas 57% · ventaja -2%
-
-- ❌ Valor: ventaja -2% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ goles» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.64 - 1.29)  
-1 42% · X 28% · 2 30%  
-1X 70% · X2 58% · 12 72%  
-+1.5 80% · +2.5 56% · +3.5 34% · Ambos marcan 59%  
-Marcadores: 1-1 12% · 2-1 9% · 1-0 8% · 1-2 7%  
-🔎 **Claves**  
-• Forma: Hamburg ✅✅✅❌❌ | M'gladbach ❌❌❌✅➖  
-• H2H: 26 desde 2005: 9V-9E-8D · 2.2 goles/partido · +2.5 en 38%  
-• Bajas: Hamburg: 0 fuera, 6 duda; M'gladbach: 1 fuera, 7 duda (Enzo Leopold)  
-• Favorito de las casas: Hamburg @ 2.40  
-📐 **Estadísticas esperadas**  
-Córners 5.2 - 4.7: total +10.5 41% · Hamburg +5.5 42% · M'gladbach +4.5 48%  
-Tarjetas 2.0 - 2.2: total +3.5 59% · Hamburg +2.5 31% · M'gladbach +2.5 38%  
-Faltas 11.4 - 13.3: total +20.5 77% · Hamburg +10.5 58% · M'gladbach +10.5 75%  
-Tiros a puerta 5.5 - 4.3: total +10.5 39% · Hamburg +5.5 47% · M'gladbach +4.5 42%  
-🧩 Crear apuesta: Más de 20.5 faltas + Menos de 2.5 tarjetas de Hamburg + Menos de 10.5 tiros a puerta → prob. 31%, cuota justa 3.21 (solo vale si la casa paga más)  
-🚀 Combinada larga: Más de 20.5 faltas + Menos de 2.5 tarjetas de Hamburg + Menos de 10.5 tiros a puerta + Menos de 10.5 córners + Más de 2.5 goles → prob. 9%, cuota justa 11.41  
-
-## Ascoli vs Palermo — 06/11 · 20:30
-
-👀 candidata · 🇮🇹 Serie B · **Gana Ascoli** @ **3.20** (Bet365) · prob 30% vs casas 30% · ventaja -3%
-
-- ❌ Valor: ventaja -3% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.22 - 1.17)  
-1 29% · X 31% · 2 40%  
-1X 60% · X2 71% · 12 69%  
-+1.5 70% · +2.5 43% · +3.5 22% · Ambos marcan 49%  
-Marcadores: 1-1 14% · 1-0 10% · 0-1 10% · 0-0 10%  
-🔎 **Claves**  
-• Forma: Ascoli ➖➖✅✅➖ | Palermo ✅✅✅➖✅  
-• H2H: 12 desde 2005: 2V-4E-6D · 3.1 goles/partido · +2.5 en 67%  
-• Bajas: Ascoli: sin bajas; Palermo: 1 fuera, 4 duda (D. Toerset Johnsen)  
-• Favorito de las casas: Palermo @ 2.15  
-📐 **Estadísticas esperadas**  
-Córners 5.4 - 4.6: total +9.5 53% · Ascoli +5.5 43% · Palermo +4.5 47%  
-Tarjetas 2.3 - 2.4: total +4.5 51% · Ascoli +2.5 41% · Palermo +2.5 44%  
-Faltas 10.7 - 13.1: total +27.5 24% · Ascoli +14.5 14% · Palermo +13.5 44%  
-Tiros a puerta 4.3 - 4.4: total +8.5 49% · Ascoli +5.5 27% · Palermo +3.5 62%  
-🧩 Crear apuesta: Menos de 14.5 faltas de Ascoli + Menos de 5.5 tiros a puerta de Ascoli → prob. 63%, cuota justa 1.60 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 14.5 faltas de Ascoli + Menos de 5.5 tiros a puerta de Ascoli + Menos de 2.5 tarjetas de Ascoli + Menos de 2.5 goles + Menos de 5.5 córners de Ascoli → prob. 14%, cuota justa 7.00  
-🎯 Simulada (con cuota: Menos de 2.5 goles + Menos de 5.5 córners de Ascoli): cuota Unibet aprox. 3.34 (producto de piernas) · prob. 32% · ventaja +8% → 1 u en la banca de simulación  
-
-## Ascoli vs Palermo — 06/11 · 20:30
-
-👀 candidata · 🇮🇹 Serie B · **Más de 4.5 córners de Palermo** @ **1.68** (Unibet) · prob 50% vs casas 53% · ventaja -16%
-
-- ❌ Valor: ventaja -16% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.22 - 1.17)  
-1 29% · X 31% · 2 40%  
-1X 60% · X2 71% · 12 69%  
-+1.5 70% · +2.5 43% · +3.5 22% · Ambos marcan 49%  
-Marcadores: 1-1 14% · 1-0 10% · 0-1 10% · 0-0 10%  
-🔎 **Claves**  
-• Forma: Ascoli ➖➖✅✅➖ | Palermo ✅✅✅➖✅  
-• H2H: 12 desde 2005: 2V-4E-6D · 3.1 goles/partido · +2.5 en 67%  
-• Bajas: Ascoli: sin bajas; Palermo: 1 fuera, 4 duda (D. Toerset Johnsen)  
-• Favorito de las casas: Palermo @ 2.15  
-📐 **Estadísticas esperadas**  
-Córners 5.4 - 4.6: total +9.5 53% · Ascoli +5.5 43% · Palermo +4.5 47%  
-Tarjetas 2.3 - 2.4: total +4.5 51% · Ascoli +2.5 41% · Palermo +2.5 44%  
-Faltas 10.7 - 13.1: total +27.5 24% · Ascoli +14.5 14% · Palermo +13.5 44%  
-Tiros a puerta 4.3 - 4.4: total +8.5 49% · Ascoli +5.5 27% · Palermo +3.5 62%  
-🧩 Crear apuesta: Menos de 14.5 faltas de Ascoli + Menos de 5.5 tiros a puerta de Ascoli → prob. 63%, cuota justa 1.60 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 14.5 faltas de Ascoli + Menos de 5.5 tiros a puerta de Ascoli + Menos de 2.5 tarjetas de Ascoli + Menos de 2.5 goles + Menos de 5.5 córners de Ascoli → prob. 14%, cuota justa 7.00  
-🎯 Simulada (con cuota: Menos de 2.5 goles + Menos de 5.5 córners de Ascoli): cuota Unibet aprox. 3.34 (producto de piernas) · prob. 32% · ventaja +8% → 1 u en la banca de simulación  
-
-## Ascoli vs Palermo — 06/11 · 20:30
-
-👀 candidata · 🇮🇹 Serie B · **Menos de 4.5 córners de Palermo** @ **1.91** (Unibet) · prob 50% vs casas 47% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 7% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.22 - 1.17)  
-1 29% · X 31% · 2 40%  
-1X 60% · X2 71% · 12 69%  
-+1.5 70% · +2.5 43% · +3.5 22% · Ambos marcan 49%  
-Marcadores: 1-1 14% · 1-0 10% · 0-1 10% · 0-0 10%  
-🔎 **Claves**  
-• Forma: Ascoli ➖➖✅✅➖ | Palermo ✅✅✅➖✅  
-• H2H: 12 desde 2005: 2V-4E-6D · 3.1 goles/partido · +2.5 en 67%  
-• Bajas: Ascoli: sin bajas; Palermo: 1 fuera, 4 duda (D. Toerset Johnsen)  
-• Favorito de las casas: Palermo @ 2.15  
-📐 **Estadísticas esperadas**  
-Córners 5.4 - 4.6: total +9.5 53% · Ascoli +5.5 43% · Palermo +4.5 47%  
-Tarjetas 2.3 - 2.4: total +4.5 51% · Ascoli +2.5 41% · Palermo +2.5 44%  
-Faltas 10.7 - 13.1: total +27.5 24% · Ascoli +14.5 14% · Palermo +13.5 44%  
-Tiros a puerta 4.3 - 4.4: total +8.5 49% · Ascoli +5.5 27% · Palermo +3.5 62%  
-🧩 Crear apuesta: Menos de 14.5 faltas de Ascoli + Menos de 5.5 tiros a puerta de Ascoli → prob. 63%, cuota justa 1.60 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 14.5 faltas de Ascoli + Menos de 5.5 tiros a puerta de Ascoli + Menos de 2.5 tarjetas de Ascoli + Menos de 2.5 goles + Menos de 5.5 córners de Ascoli → prob. 14%, cuota justa 7.00  
-🎯 Simulada (con cuota: Menos de 2.5 goles + Menos de 5.5 córners de Ascoli): cuota Unibet aprox. 3.34 (producto de piernas) · prob. 32% · ventaja +8% → 1 u en la banca de simulación  
-
-## Ascoli vs Palermo — 06/11 · 20:30
-
-👀 candidata · 🇮🇹 Serie B · **Más de 4.5 córners de Ascoli** @ **1.67** (Unibet) · prob 56% vs casas 54% · ventaja -7%
-
-- ❌ Valor: ventaja -7% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.22 - 1.17)  
-1 29% · X 31% · 2 40%  
-1X 60% · X2 71% · 12 69%  
-+1.5 70% · +2.5 43% · +3.5 22% · Ambos marcan 49%  
-Marcadores: 1-1 14% · 1-0 10% · 0-1 10% · 0-0 10%  
-🔎 **Claves**  
-• Forma: Ascoli ➖➖✅✅➖ | Palermo ✅✅✅➖✅  
-• H2H: 12 desde 2005: 2V-4E-6D · 3.1 goles/partido · +2.5 en 67%  
-• Bajas: Ascoli: sin bajas; Palermo: 1 fuera, 4 duda (D. Toerset Johnsen)  
-• Favorito de las casas: Palermo @ 2.15  
-📐 **Estadísticas esperadas**  
-Córners 5.4 - 4.6: total +9.5 53% · Ascoli +5.5 43% · Palermo +4.5 47%  
-Tarjetas 2.3 - 2.4: total +4.5 51% · Ascoli +2.5 41% · Palermo +2.5 44%  
-Faltas 10.7 - 13.1: total +27.5 24% · Ascoli +14.5 14% · Palermo +13.5 44%  
-Tiros a puerta 4.3 - 4.4: total +8.5 49% · Ascoli +5.5 27% · Palermo +3.5 62%  
-🧩 Crear apuesta: Menos de 14.5 faltas de Ascoli + Menos de 5.5 tiros a puerta de Ascoli → prob. 63%, cuota justa 1.60 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 14.5 faltas de Ascoli + Menos de 5.5 tiros a puerta de Ascoli + Menos de 2.5 tarjetas de Ascoli + Menos de 2.5 goles + Menos de 5.5 córners de Ascoli → prob. 14%, cuota justa 7.00  
-🎯 Simulada (con cuota: Menos de 2.5 goles + Menos de 5.5 córners de Ascoli): cuota Unibet aprox. 3.34 (producto de piernas) · prob. 32% · ventaja +8% → 1 u en la banca de simulación  
-
-## Ascoli vs Palermo — 06/11 · 20:30
-
-👀 candidata · 🇮🇹 Serie B · **Menos de 5.5 córners de Ascoli** @ **1.53** (Unibet) · prob 58% vs casas 59% · ventaja -12%
-
-- ❌ Valor: ventaja -12% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.22 - 1.17)  
-1 29% · X 31% · 2 40%  
-1X 60% · X2 71% · 12 69%  
-+1.5 70% · +2.5 43% · +3.5 22% · Ambos marcan 49%  
-Marcadores: 1-1 14% · 1-0 10% · 0-1 10% · 0-0 10%  
-🔎 **Claves**  
-• Forma: Ascoli ➖➖✅✅➖ | Palermo ✅✅✅➖✅  
-• H2H: 12 desde 2005: 2V-4E-6D · 3.1 goles/partido · +2.5 en 67%  
-• Bajas: Ascoli: sin bajas; Palermo: 1 fuera, 4 duda (D. Toerset Johnsen)  
-• Favorito de las casas: Palermo @ 2.15  
-📐 **Estadísticas esperadas**  
-Córners 5.4 - 4.6: total +9.5 53% · Ascoli +5.5 43% · Palermo +4.5 47%  
-Tarjetas 2.3 - 2.4: total +4.5 51% · Ascoli +2.5 41% · Palermo +2.5 44%  
-Faltas 10.7 - 13.1: total +27.5 24% · Ascoli +14.5 14% · Palermo +13.5 44%  
-Tiros a puerta 4.3 - 4.4: total +8.5 49% · Ascoli +5.5 27% · Palermo +3.5 62%  
-🧩 Crear apuesta: Menos de 14.5 faltas de Ascoli + Menos de 5.5 tiros a puerta de Ascoli → prob. 63%, cuota justa 1.60 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 14.5 faltas de Ascoli + Menos de 5.5 tiros a puerta de Ascoli + Menos de 2.5 tarjetas de Ascoli + Menos de 2.5 goles + Menos de 5.5 córners de Ascoli → prob. 14%, cuota justa 7.00  
-🎯 Simulada (con cuota: Menos de 2.5 goles + Menos de 5.5 córners de Ascoli): cuota Unibet aprox. 3.34 (producto de piernas) · prob. 32% · ventaja +8% → 1 u en la banca de simulación  
-
-## Ascoli vs Palermo — 06/11 · 20:30
-
-👀 candidata · 🇮🇹 Serie B · **Más de 9.5 córners** @ **1.63** (Unibet) · prob 54% vs casas 55% · ventaja -12%
-
-- ❌ Valor: ventaja -12% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.22 - 1.17)  
-1 29% · X 31% · 2 40%  
-1X 60% · X2 71% · 12 69%  
-+1.5 70% · +2.5 43% · +3.5 22% · Ambos marcan 49%  
-Marcadores: 1-1 14% · 1-0 10% · 0-1 10% · 0-0 10%  
-🔎 **Claves**  
-• Forma: Ascoli ➖➖✅✅➖ | Palermo ✅✅✅➖✅  
-• H2H: 12 desde 2005: 2V-4E-6D · 3.1 goles/partido · +2.5 en 67%  
-• Bajas: Ascoli: sin bajas; Palermo: 1 fuera, 4 duda (D. Toerset Johnsen)  
-• Favorito de las casas: Palermo @ 2.15  
-📐 **Estadísticas esperadas**  
-Córners 5.4 - 4.6: total +9.5 53% · Ascoli +5.5 43% · Palermo +4.5 47%  
-Tarjetas 2.3 - 2.4: total +4.5 51% · Ascoli +2.5 41% · Palermo +2.5 44%  
-Faltas 10.7 - 13.1: total +27.5 24% · Ascoli +14.5 14% · Palermo +13.5 44%  
-Tiros a puerta 4.3 - 4.4: total +8.5 49% · Ascoli +5.5 27% · Palermo +3.5 62%  
-🧩 Crear apuesta: Menos de 14.5 faltas de Ascoli + Menos de 5.5 tiros a puerta de Ascoli → prob. 63%, cuota justa 1.60 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 14.5 faltas de Ascoli + Menos de 5.5 tiros a puerta de Ascoli + Menos de 2.5 tarjetas de Ascoli + Menos de 2.5 goles + Menos de 5.5 córners de Ascoli → prob. 14%, cuota justa 7.00  
-🎯 Simulada (con cuota: Menos de 2.5 goles + Menos de 5.5 córners de Ascoli): cuota Unibet aprox. 3.34 (producto de piernas) · prob. 32% · ventaja +8% → 1 u en la banca de simulación  
-
-## Ascoli vs Palermo — 06/11 · 20:30
-
-👀 candidata · 🇮🇹 Serie B · **Menos de 11.5 córners** @ **1.40** (Unibet) · prob 67% vs casas 64% · ventaja -6%
-
-- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.22 - 1.17)  
-1 29% · X 31% · 2 40%  
-1X 60% · X2 71% · 12 69%  
-+1.5 70% · +2.5 43% · +3.5 22% · Ambos marcan 49%  
-Marcadores: 1-1 14% · 1-0 10% · 0-1 10% · 0-0 10%  
-🔎 **Claves**  
-• Forma: Ascoli ➖➖✅✅➖ | Palermo ✅✅✅➖✅  
-• H2H: 12 desde 2005: 2V-4E-6D · 3.1 goles/partido · +2.5 en 67%  
-• Bajas: Ascoli: sin bajas; Palermo: 1 fuera, 4 duda (D. Toerset Johnsen)  
-• Favorito de las casas: Palermo @ 2.15  
-📐 **Estadísticas esperadas**  
-Córners 5.4 - 4.6: total +9.5 53% · Ascoli +5.5 43% · Palermo +4.5 47%  
-Tarjetas 2.3 - 2.4: total +4.5 51% · Ascoli +2.5 41% · Palermo +2.5 44%  
-Faltas 10.7 - 13.1: total +27.5 24% · Ascoli +14.5 14% · Palermo +13.5 44%  
-Tiros a puerta 4.3 - 4.4: total +8.5 49% · Ascoli +5.5 27% · Palermo +3.5 62%  
-🧩 Crear apuesta: Menos de 14.5 faltas de Ascoli + Menos de 5.5 tiros a puerta de Ascoli → prob. 63%, cuota justa 1.60 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 14.5 faltas de Ascoli + Menos de 5.5 tiros a puerta de Ascoli + Menos de 2.5 tarjetas de Ascoli + Menos de 2.5 goles + Menos de 5.5 córners de Ascoli → prob. 14%, cuota justa 7.00  
-🎯 Simulada (con cuota: Menos de 2.5 goles + Menos de 5.5 córners de Ascoli): cuota Unibet aprox. 3.34 (producto de piernas) · prob. 32% · ventaja +8% → 1 u en la banca de simulación  
+Actualizado 06/11/2026 20:41 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Standard vs Beveren — 06/11 · 20:45
 
@@ -11128,6 +10903,163 @@ Faltas 11.9 - 11.7: total +23.5 49% · Hertha +11.5 53% · Wolfsburg +12.5 39%
 Tiros a puerta 5.8 - 4.8: total +10.5 49% · Hertha +5.5 51% · Wolfsburg +4.5 52%  
 🧩 Crear apuesta: Menos de 2.5 tarjetas de Hertha + Menos de 12.5 faltas de Wolfsburg → prob. 44%, cuota justa 2.29 (solo vale si la casa paga más)  
 🚀 Combinada larga: Menos de 2.5 tarjetas de Hertha + Menos de 12.5 faltas de Wolfsburg + Más de 2.5 goles + Menos de 5.5 córners de Wolfsburg → prob. 15%, cuota justa 6.67  
+🎯 No simulada (con cuota: Más de 2.5 goles + Menos de 5.5 córners de Wolfsburg): cuota Unibet aprox. 2.03 (producto de piernas) · prob. 34% · ventaja -31%  
+
+## Hertha vs Wolfsburg — 07/11 · 20:30
+
+👀 candidata · 🇩🇪 2. Bundesliga · **Más de 5.5 córners de Wolfsburg** @ **2.35** (Unibet) · prob 41% vs casas 39% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.48 - 1.59)  
+1 40% · X 28% · 2 32%  
+1X 68% · X2 60% · 12 72%  
++1.5 82% · +2.5 59% · +3.5 37% · Ambos marcan 62%  
+Marcadores: 1-1 11% · 1-2 9% · 2-1 8% · 0-1 7%  
+🔎 **Claves**  
+• Forma: Hertha ✅✅➖✅✅ | Wolfsburg ✅➖✅➖✅  
+• H2H: 32 desde 2005: 10V-11E-11D · 2.7 goles/partido · +2.5 en 56%  
+• Bajas: Hertha: 1 fuera, 1 duda (Linus Gechter); Wolfsburg: 1 fuera, 1 duda (Kamil Grabara)  
+• Favorito de las casas: Hertha @ 2.10  
+📐 **Estadísticas esperadas**  
+Córners 5.9 - 5.3: total +10.5 56% · Hertha +5.5 50% · Wolfsburg +5.5 43%  
+Tarjetas 1.9 - 2.1: total +4.5 39% · Hertha +2.5 31% · Wolfsburg +2.5 36%  
+Faltas 11.9 - 11.7: total +23.5 49% · Hertha +11.5 53% · Wolfsburg +12.5 39%  
+Tiros a puerta 5.8 - 4.8: total +10.5 49% · Hertha +5.5 51% · Wolfsburg +4.5 52%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Hertha + Menos de 12.5 faltas de Wolfsburg → prob. 44%, cuota justa 2.29 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Hertha + Menos de 12.5 faltas de Wolfsburg + Más de 2.5 goles + Menos de 5.5 córners de Wolfsburg → prob. 15%, cuota justa 6.67  
+🎯 No simulada (con cuota: Más de 2.5 goles + Menos de 5.5 córners de Wolfsburg): cuota Unibet aprox. 2.03 (producto de piernas) · prob. 34% · ventaja -31%  
+
+## Hertha vs Wolfsburg — 07/11 · 20:30
+
+👀 candidata · 🇩🇪 2. Bundesliga · **Menos de 5.5 córners de Wolfsburg** @ **1.50** (Unibet) · prob 59% vs casas 61% · ventaja -11%
+
+- ❌ Valor: ventaja -11% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.48 - 1.59)  
+1 40% · X 28% · 2 32%  
+1X 68% · X2 60% · 12 72%  
++1.5 82% · +2.5 59% · +3.5 37% · Ambos marcan 62%  
+Marcadores: 1-1 11% · 1-2 9% · 2-1 8% · 0-1 7%  
+🔎 **Claves**  
+• Forma: Hertha ✅✅➖✅✅ | Wolfsburg ✅➖✅➖✅  
+• H2H: 32 desde 2005: 10V-11E-11D · 2.7 goles/partido · +2.5 en 56%  
+• Bajas: Hertha: 1 fuera, 1 duda (Linus Gechter); Wolfsburg: 1 fuera, 1 duda (Kamil Grabara)  
+• Favorito de las casas: Hertha @ 2.10  
+📐 **Estadísticas esperadas**  
+Córners 5.9 - 5.3: total +10.5 56% · Hertha +5.5 50% · Wolfsburg +5.5 43%  
+Tarjetas 1.9 - 2.1: total +4.5 39% · Hertha +2.5 31% · Wolfsburg +2.5 36%  
+Faltas 11.9 - 11.7: total +23.5 49% · Hertha +11.5 53% · Wolfsburg +12.5 39%  
+Tiros a puerta 5.8 - 4.8: total +10.5 49% · Hertha +5.5 51% · Wolfsburg +4.5 52%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Hertha + Menos de 12.5 faltas de Wolfsburg → prob. 44%, cuota justa 2.29 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Hertha + Menos de 12.5 faltas de Wolfsburg + Más de 2.5 goles + Menos de 5.5 córners de Wolfsburg → prob. 15%, cuota justa 6.67  
+🎯 No simulada (con cuota: Más de 2.5 goles + Menos de 5.5 córners de Wolfsburg): cuota Unibet aprox. 2.03 (producto de piernas) · prob. 34% · ventaja -31%  
+
+## Hertha vs Wolfsburg — 07/11 · 20:30
+
+👀 candidata · 🇩🇪 2. Bundesliga · **Más de 9.5 córners** @ **1.46** (Unibet) · prob 65% vs casas 63% · ventaja -5%
+
+- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.48 - 1.59)  
+1 40% · X 28% · 2 32%  
+1X 68% · X2 60% · 12 72%  
++1.5 82% · +2.5 59% · +3.5 37% · Ambos marcan 62%  
+Marcadores: 1-1 11% · 1-2 9% · 2-1 8% · 0-1 7%  
+🔎 **Claves**  
+• Forma: Hertha ✅✅➖✅✅ | Wolfsburg ✅➖✅➖✅  
+• H2H: 32 desde 2005: 10V-11E-11D · 2.7 goles/partido · +2.5 en 56%  
+• Bajas: Hertha: 1 fuera, 1 duda (Linus Gechter); Wolfsburg: 1 fuera, 1 duda (Kamil Grabara)  
+• Favorito de las casas: Hertha @ 2.10  
+📐 **Estadísticas esperadas**  
+Córners 5.9 - 5.3: total +10.5 56% · Hertha +5.5 50% · Wolfsburg +5.5 43%  
+Tarjetas 1.9 - 2.1: total +4.5 39% · Hertha +2.5 31% · Wolfsburg +2.5 36%  
+Faltas 11.9 - 11.7: total +23.5 49% · Hertha +11.5 53% · Wolfsburg +12.5 39%  
+Tiros a puerta 5.8 - 4.8: total +10.5 49% · Hertha +5.5 51% · Wolfsburg +4.5 52%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Hertha + Menos de 12.5 faltas de Wolfsburg → prob. 44%, cuota justa 2.29 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Hertha + Menos de 12.5 faltas de Wolfsburg + Más de 2.5 goles + Menos de 5.5 córners de Wolfsburg → prob. 15%, cuota justa 6.67  
+🎯 No simulada (con cuota: Más de 2.5 goles + Menos de 5.5 córners de Wolfsburg): cuota Unibet aprox. 2.03 (producto de piernas) · prob. 34% · ventaja -31%  
+
+## Hertha vs Wolfsburg — 07/11 · 20:30
+
+👀 candidata · 🇩🇪 2. Bundesliga · **Menos de 13.5 córners** @ **1.25** (Unibet) · prob 74% vs casas 73% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.48 - 1.59)  
+1 40% · X 28% · 2 32%  
+1X 68% · X2 60% · 12 72%  
++1.5 82% · +2.5 59% · +3.5 37% · Ambos marcan 62%  
+Marcadores: 1-1 11% · 1-2 9% · 2-1 8% · 0-1 7%  
+🔎 **Claves**  
+• Forma: Hertha ✅✅➖✅✅ | Wolfsburg ✅➖✅➖✅  
+• H2H: 32 desde 2005: 10V-11E-11D · 2.7 goles/partido · +2.5 en 56%  
+• Bajas: Hertha: 1 fuera, 1 duda (Linus Gechter); Wolfsburg: 1 fuera, 1 duda (Kamil Grabara)  
+• Favorito de las casas: Hertha @ 2.10  
+📐 **Estadísticas esperadas**  
+Córners 5.9 - 5.3: total +10.5 56% · Hertha +5.5 50% · Wolfsburg +5.5 43%  
+Tarjetas 1.9 - 2.1: total +4.5 39% · Hertha +2.5 31% · Wolfsburg +2.5 36%  
+Faltas 11.9 - 11.7: total +23.5 49% · Hertha +11.5 53% · Wolfsburg +12.5 39%  
+Tiros a puerta 5.8 - 4.8: total +10.5 49% · Hertha +5.5 51% · Wolfsburg +4.5 52%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Hertha + Menos de 12.5 faltas de Wolfsburg → prob. 44%, cuota justa 2.29 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Hertha + Menos de 12.5 faltas de Wolfsburg + Más de 2.5 goles + Menos de 5.5 córners de Wolfsburg → prob. 15%, cuota justa 6.67  
+🎯 No simulada (con cuota: Más de 2.5 goles + Menos de 5.5 córners de Wolfsburg): cuota Unibet aprox. 2.03 (producto de piernas) · prob. 34% · ventaja -31%  
+
+## Hertha vs Wolfsburg — 07/11 · 20:30
+
+👀 candidata · 🇩🇪 2. Bundesliga · **Más de 5.5 córners de Hertha** @ **1.76** (Unibet) · prob 51% vs casas 52% · ventaja -10%
+
+- ❌ Valor: ventaja -10% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.48 - 1.59)  
+1 40% · X 28% · 2 32%  
+1X 68% · X2 60% · 12 72%  
++1.5 82% · +2.5 59% · +3.5 37% · Ambos marcan 62%  
+Marcadores: 1-1 11% · 1-2 9% · 2-1 8% · 0-1 7%  
+🔎 **Claves**  
+• Forma: Hertha ✅✅➖✅✅ | Wolfsburg ✅➖✅➖✅  
+• H2H: 32 desde 2005: 10V-11E-11D · 2.7 goles/partido · +2.5 en 56%  
+• Bajas: Hertha: 1 fuera, 1 duda (Linus Gechter); Wolfsburg: 1 fuera, 1 duda (Kamil Grabara)  
+• Favorito de las casas: Hertha @ 2.10  
+📐 **Estadísticas esperadas**  
+Córners 5.9 - 5.3: total +10.5 56% · Hertha +5.5 50% · Wolfsburg +5.5 43%  
+Tarjetas 1.9 - 2.1: total +4.5 39% · Hertha +2.5 31% · Wolfsburg +2.5 36%  
+Faltas 11.9 - 11.7: total +23.5 49% · Hertha +11.5 53% · Wolfsburg +12.5 39%  
+Tiros a puerta 5.8 - 4.8: total +10.5 49% · Hertha +5.5 51% · Wolfsburg +4.5 52%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Hertha + Menos de 12.5 faltas de Wolfsburg → prob. 44%, cuota justa 2.29 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Hertha + Menos de 12.5 faltas de Wolfsburg + Más de 2.5 goles + Menos de 5.5 córners de Wolfsburg → prob. 15%, cuota justa 6.67  
+🎯 No simulada (con cuota: Más de 2.5 goles + Menos de 5.5 córners de Wolfsburg): cuota Unibet aprox. 2.03 (producto de piernas) · prob. 34% · ventaja -31%  
+
+## Hertha vs Wolfsburg — 07/11 · 20:30
+
+👀 candidata · 🇩🇪 2. Bundesliga · **Menos de 7.5 córners de Hertha** @ **1.33** (Unibet) · prob 71% vs casas 69% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.48 - 1.59)  
+1 40% · X 28% · 2 32%  
+1X 68% · X2 60% · 12 72%  
++1.5 82% · +2.5 59% · +3.5 37% · Ambos marcan 62%  
+Marcadores: 1-1 11% · 1-2 9% · 2-1 8% · 0-1 7%  
+🔎 **Claves**  
+• Forma: Hertha ✅✅➖✅✅ | Wolfsburg ✅➖✅➖✅  
+• H2H: 32 desde 2005: 10V-11E-11D · 2.7 goles/partido · +2.5 en 56%  
+• Bajas: Hertha: 1 fuera, 1 duda (Linus Gechter); Wolfsburg: 1 fuera, 1 duda (Kamil Grabara)  
+• Favorito de las casas: Hertha @ 2.10  
+📐 **Estadísticas esperadas**  
+Córners 5.9 - 5.3: total +10.5 56% · Hertha +5.5 50% · Wolfsburg +5.5 43%  
+Tarjetas 1.9 - 2.1: total +4.5 39% · Hertha +2.5 31% · Wolfsburg +2.5 36%  
+Faltas 11.9 - 11.7: total +23.5 49% · Hertha +11.5 53% · Wolfsburg +12.5 39%  
+Tiros a puerta 5.8 - 4.8: total +10.5 49% · Hertha +5.5 51% · Wolfsburg +4.5 52%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Hertha + Menos de 12.5 faltas de Wolfsburg → prob. 44%, cuota justa 2.29 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Hertha + Menos de 12.5 faltas de Wolfsburg + Más de 2.5 goles + Menos de 5.5 córners de Wolfsburg → prob. 15%, cuota justa 6.67  
+🎯 No simulada (con cuota: Más de 2.5 goles + Menos de 5.5 córners de Wolfsburg): cuota Unibet aprox. 2.03 (producto de piernas) · prob. 34% · ventaja -31%  
 
 ## Antwerp vs Lommel SK — 07/11 · 20:45
 
