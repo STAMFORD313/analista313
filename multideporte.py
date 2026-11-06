@@ -157,4 +157,4 @@ def judge(leg):
     if r is None: return None, "sin resultado todavía"
     hs, as_ = r
     ok = hs > as_ if leg["side"] == "H" else as_ > hs if leg["side"] == "A" else hs == as_
-    return ok, f"acabó {hs:g}-{as_:g}"
+    return bool(ok), f"acabó {hs:g}-{as_:g}"  # bool de Python: el de numpy no se puede guardar en JSON

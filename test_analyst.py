@@ -1547,3 +1547,7 @@ try:
 finally:
     _CH.upcoming, _CH.other_legs, _KB.offers = _up9, _ol9, _off9; _MDx.pinnacle_fair = _pf9; _VP9.candidates = _vc9; _CH._CTX.clear(); _CH.LAST_FILE.unlink(missing_ok=True)
 print("ok barridos sin repetir piernas de esports")
+
+import numpy as _np
+assert json.dumps(_SL._py({"ok": _np.bool_(False), "c": _np.float64(0.1), "l": [_np.int64(2)]})) == '{"ok": false, "c": 0.1, "l": [2]}'
+print("ok simuladas guardan resultados de numpy")

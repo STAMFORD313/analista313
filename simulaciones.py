@@ -28,9 +28,20 @@ def load():
     return bets
 
 
+def _py(x):
+    """numpy → tipos de Python (json no sabe guardar np.bool_/np.float64: el guardado fallaba en silencio)."""
+    import numpy as np
+    if isinstance(x, dict): return {k: _py(v) for k, v in x.items()}
+    if isinstance(x, list): return [_py(v) for v in x]
+    if isinstance(x, np.bool_): return bool(x)
+    if isinstance(x, np.integer): return int(x)
+    if isinstance(x, np.floating): return float(x)
+    return x
+
+
 def save(bets, msg="chat: apuestas simuladas"):
     for k, b in bets.items(): _MEM[k] = b
-    FILE.write_text(json.dumps(sorted(bets.values(), key=lambda b: b["id"]), ensure_ascii=False, indent=1), encoding="utf-8")
+    FILE.write_text(json.dumps(_py(sorted(bets.values(), key=lambda b: b["id"])), ensure_ascii=False, indent=1), encoding="utf-8")
     push(msg)
 
 
