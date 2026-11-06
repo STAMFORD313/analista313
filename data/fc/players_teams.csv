@@ -58378,12 +58378,12 @@ id,tournament_id,club1,club2,ht1,ht2
 2366061,261149,France,England,,
 2366062,261149,Germany,France,,
 2366063,261149,Argentina,Spain,,
-2366234,261154,Napoli,Juventus,2,1
-2366235,261154,Roma,Bologna,0,1
-2366236,261154,Bologna,Napoli,2,1
-2366237,261154,Juventus,Sassuolo,4,2
-2366238,261154,Sassuolo,Bologna,0,0
-2366239,261154,Napoli,Roma,1,0
+2366234,261154,Napoli,Juventus,2.0,1.0
+2366235,261154,Roma,Bologna,0.0,1.0
+2366236,261154,Bologna,Napoli,2.0,1.0
+2366237,261154,Juventus,Sassuolo,4.0,2.0
+2366238,261154,Sassuolo,Bologna,0.0,0.0
+2366239,261154,Napoli,Roma,1.0,0.0
 2366240,261154,Roma,Sassuolo,,
 2366241,261154,Bologna,Juventus,,
 2366242,261154,Juventus,Roma,,
@@ -58398,3 +58398,23 @@ id,tournament_id,club1,club2,ht1,ht2
 2366251,261154,Juventus,Bologna,,
 2366252,261154,Roma,Juventus,,
 2366253,261154,Napoli,Sassuolo,,
+2365854,261101,Porto,Salzburg,1,2
+2365855,261101,Aston Villa,Fenerbahce,1,1
+2365856,261101,Fenerbahce,Porto,1,1
+2365857,261101,Salzburg,Roma,3,1
+2365858,261101,Roma,Fenerbahce,2,3
+2365859,261101,Porto,Aston Villa,2,2
+2365860,261101,Aston Villa,Roma,3,0
+2365861,261101,Fenerbahce,Salzburg,2,4
+2365862,261101,Salzburg,Aston Villa,,
+2365863,261101,Roma,Porto,,
+2365864,261101,Salzburg,Porto,,
+2365865,261101,Fenerbahce,Aston Villa,,
+2365866,261101,Porto,Fenerbahce,,
+2365867,261101,Roma,Salzburg,,
+2365868,261101,Fenerbahce,Roma,,
+2365869,261101,Aston Villa,Porto,,
+2365870,261101,Roma,Aston Villa,,
+2365871,261101,Salzburg,Fenerbahce,,
+2365872,261101,Aston Villa,Salzburg,,
+2365873,261101,Porto,Roma,,

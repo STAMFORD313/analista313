@@ -1,61 +1,61 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 06/11/2026 15:45 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 06/11/2026 16:15 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## Dicca vs pikalicaaa — 06/11 · 15:49
+## Firminho vs pikalicaaa — 06/11 · 16:25
 
-👀 candidata · 🎮⚽ FC 27 · Europa League · **Gana Dicca** @ **2.02** (Unibet) · prob 55% vs casas 43% · ventaja +11%
+👀 candidata · 🎮⚽ FC 27 · Europa League · **Empate** @ **5.10** (Unibet) · prob 21% vs casas 17% · ventaja +7%
 
-- ❌ Valor: ventaja +11% (mín. 11% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 58.348 partidos)  
-Goles esperados: Dicca 3.09 · pikalicaaa 2.25  
-Ganador: Dicca 55% · empate 21% · pikalicaaa 25%  
-Total: más de 5.5 goles 44% · menos 56%  
-Hándicap Dicca: −1.5 38% · −2.5 23%  
-🔎 **Claves**  
-• Forma: Dicca ❌✅✅➖➖ | pikalicaaa ✅❌❌✅✅  
-• Partidos: Dicca 650 | pikalicaaa 592  
-• Liga: Europa League  
-• Unibet: 1 2.02 · X 4.20 · 2 2.43 (sin margen 43%/21%/36%) · ventaja +11%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.02 (+11%) · Paf España 2.02 (+11%)  
-
-## saportj vs Loka — 06/11 · 15:52
-
-👀 candidata · 🎮⚽ FC 27 · Eredivisie · **Gana Loka** @ **1.65** (Unibet) · prob 75% vs casas 53% · ventaja +24%
-
-- ✅ Valor: ventaja +24% (mín. 14% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 58.348 partidos)  
-Goles esperados: saportj 1.94 · Loka 4.01  
-Ganador: saportj 13% · empate 12% · Loka 75%  
-Total: más de 5.5 goles 55% · menos 45%  
-Hándicap Loka: −1.5 58% · −2.5 42%  
-🔎 **Claves**  
-• Forma: saportj ➖✅➖❌✅ | Loka ✅❌➖✅✅  
-• Partidos: saportj 664 | Loka 1104  
-• Liga: Eredivisie  
-• Unibet: 1 3.10 · X 4.75 · 2 1.65 (sin margen 28%/18%/53%) · ventaja +24%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 1.65 (+24%) · Paf España 1.65 (+24%)  
-
-## pikalicaaa vs Jankulovski — 06/11 · 16:01
-
-👀 candidata · 🎮⚽ FC 27 · Europa League · **Empate** @ **4.70** (Unibet) · prob 24% vs casas 19% · ventaja +11%
-
-- ✅ Valor: ventaja +11% (mín. 11% con la incertidumbre, máx. 30%)
+- ❌ Valor: ventaja +7% (mín. 10% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 58.348 partidos)  
-Goles esperados: pikalicaaa 2.43 · Jankulovski 2.27  
-Ganador: pikalicaaa 44% · empate 24% · Jankulovski 32%  
-Total: más de 4.5 goles 50% · menos 50%  
-Hándicap pikalicaaa: −1.5 26% · −2.5 13%  
+📊 **Escenarios** (Poisson por jugador, 58.376 partidos)  
+Goles esperados: Firminho 3.13 · pikalicaaa 2.52  
+Ganador: Firminho 48% · empate 21% · pikalicaaa 31%  
+Total: más de 5.5 goles 50% · menos 50%  
+Hándicap Firminho: −1.5 35% · −2.5 21%  
 🔎 **Claves**  
-• Forma: pikalicaaa ✅❌❌✅✅ | Jankulovski ✅❌✅❌❌  
-• Partidos: pikalicaaa 592 | Jankulovski 792  
+• Forma: Firminho ❌❌❌✅➖ | pikalicaaa ❌❌✅✅➖  
+• Partidos: Firminho 739 | pikalicaaa 593  
 • Liga: Europa League  
-• Unibet: 1 2.38 · X 4.70 · 2 1.95 (sin margen 37%/19%/45%) · ventaja +11%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 4.70 (+11%) · Paf España 4.70 (+11%)  
+• Unibet: 1 1.76 · X 5.10 · 2 2.65 (sin margen 50%/17%/33%) · ventaja +7%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 5.10 (+7%) · Paf España 5.10 (+7%)  
+
+## saportj vs Shinobu — 06/11 · 16:28
+
+👀 candidata · 🎮⚽ FC 27 · Eredivisie · **Gana Shinobu** @ **3.55** (Unibet) · prob 34% vs casas 25% · ventaja +20%
+
+- ✅ Valor: ventaja +20% (mín. 13% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 58.376 partidos)  
+Goles esperados: saportj 2.30 · Shinobu 2.08  
+Ganador: saportj 45% · empate 21% · Shinobu 34%  
+Total: más de 4.5 goles 45% · menos 55%  
+Hándicap saportj: −1.5 26% · −2.5 13%  
+🔎 **Claves**  
+• Forma: saportj ➖❌✅✅➖ | Shinobu ❌❌➖❌✅  
+• Partidos: saportj 666 | Shinobu 1253  
+• Liga: Eredivisie  
+• Unibet: 1 1.50 · X 5.40 · 2 3.55 (sin margen 59%/16%/25%) · ventaja +20%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 3.55 (+20%) · Paf España 3.55 (+20%)  
+
+## Maslja vs maggett0 — 06/11 · 16:34
+
+👀 candidata · 🎮⚽ FC 27 · Serie A · **Gana maggett0** @ **2.40** (Unibet) · prob 45% vs casas 36% · ventaja +8%
+
+- ❌ Valor: ventaja +8% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 58.376 partidos)  
+Goles esperados: Maslja 2.96 · maggett0 3.16  
+Ganador: Maslja 36% · empate 19% · maggett0 45%  
+Total: más de 6.5 goles 41% · menos 59%  
+Hándicap maggett0: −1.5 29% · −2.5 17%  
+🔎 **Claves**  
+• Forma: Maslja ❌❌❌➖➖ | maggett0 ✅➖❌✅➖  
+• Partidos: Maslja 872 | maggett0 908  
+• Liga: Serie A  
+• Unibet: 1 1.97 · X 4.50 · 2 2.40 (sin margen 44%/19%/36%) · ventaja +8%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.40 (+8%) · Paf España 2.40 (+8%)  
 
