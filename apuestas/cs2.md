@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 06/11/2026 04:35 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 06/11/2026 04:46 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## PARIVISION vs Natus Vincere — 06/11 · 07:30
 

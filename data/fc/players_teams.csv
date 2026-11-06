@@ -57780,3 +57780,43 @@ id,tournament_id,club1,club2,ht1,ht2
 2364866,261070,Atleti,Barcelona,,
 2364867,261070,Real Madrid,Barcelona,,
 2364868,261070,Real Madrid,Atleti,,
+2364307,261007,B Dortmund,Stuttgart,1,2
+2364308,261007,Leipzig,Frankfurt,1,4
+2364309,261007,Frankfurt,B Dortmund,1,2
+2364310,261007,Stuttgart,Bayern Munchen,3,0
+2364311,261007,Bayern Munchen,Frankfurt,1,0
+2364312,261007,B Dortmund,Leipzig,1,0
+2364313,261007,Leipzig,Bayern Munchen,,
+2364314,261007,Frankfurt,Stuttgart,,
+2364315,261007,Stuttgart,Leipzig,,
+2364316,261007,Bayern Munchen,B Dortmund,,
+2364317,261007,Stuttgart,B Dortmund,,
+2364318,261007,Frankfurt,Leipzig,,
+2364319,261007,B Dortmund,Frankfurt,,
+2364320,261007,Bayern Munchen,Stuttgart,,
+2364321,261007,Frankfurt,Bayern Munchen,,
+2364322,261007,Leipzig,B Dortmund,,
+2364323,261007,Bayern Munchen,Leipzig,,
+2364324,261007,Stuttgart,Frankfurt,,
+2364325,261007,Leipzig,Stuttgart,,
+2364326,261007,B Dortmund,Bayern Munchen,,
+2366547,261067,Man City,Sporting CP,0,3
+2364628,261067,B Dortmund,Juventus,2,0
+2366548,261067,Juventus,Man City,1,1
+2364630,261067,Sporting CP,Arsenal,0,2
+2364631,261067,Arsenal,Juventus,,
+2366549,261067,Man City,B Dortmund,,
+2364633,261067,B Dortmund,Arsenal,,
+2364634,261067,Juventus,Sporting CP,,
+2364635,261067,Sporting CP,B Dortmund,,
+2366550,261067,Arsenal,Man City,,
+2366551,261067,Sporting CP,Man City,,
+2364638,261067,Juventus,B Dortmund,,
+2366552,261067,Man City,Juventus,,
+2364640,261067,Arsenal,Sporting CP,,
+2364641,261067,Juventus,Arsenal,,
+2366553,261067,B Dortmund,Man City,,
+2364643,261067,Arsenal,B Dortmund,,
+2364644,261067,Sporting CP,Juventus,,
+2364645,261067,B Dortmund,Sporting CP,,
+2366554,261067,Man City,Arsenal,,
