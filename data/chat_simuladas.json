@@ -735,5 +735,49 @@
   "estado": "pendiente",
   "avisada": false,
   "rev": 1
+ },
+ {
+  "id": "20261106052132355287",
+  "creada": "2026-11-06 05:21:32.355320+00:00",
+  "titulo": "Barrido · Combinada cuota 6.8",
+  "legs": [
+   {
+    "src": "esports:r6",
+    "side": "H",
+    "code": null,
+    "start": "2026-11-06 07:30:00+00:00",
+    "home": "DarkZero",
+    "away": "LOS",
+    "txt": "Gana DarkZero",
+    "odds": 1.98,
+    "p": 0.5293003367003366
+   },
+   {
+    "src": "esports:cs2",
+    "side": "A",
+    "code": null,
+    "start": "2026-11-06 17:00:00+00:00",
+    "home": "SINNERS Legacy",
+    "away": "Thousand",
+    "txt": "Gana Thousand",
+    "odds": 2.0,
+    "p": 0.52591
+   },
+   {
+    "code": null,
+    "start": "2026-11-07 01:30:00+00:00",
+    "home": "Plaza Amador",
+    "away": "Sporting San Miguelito",
+    "txt": "Gana Plaza Amador",
+    "odds": 1.72,
+    "p": 0.5947
+   }
+  ],
+  "odds": 6.81,
+  "p": 0.16554327304205183,
+  "stake": 1.0,
+  "estado": "pendiente",
+  "avisada": false,
+  "rev": 1
  }
 ]
