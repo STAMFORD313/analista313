@@ -58558,18 +58558,18 @@ id,tournament_id,club1,club2,ht1,ht2
 2366081,261151,Sporting CP,Juventus,,
 2366082,261151,Arsenal,Sporting CP,,
 2366083,261151,Man City,B Dortmund,,
-2365612,261123,Spain,France,2,2
-2365613,261123,Germany,England,2,0
-2365614,261123,England,Spain,2,0
-2365615,261123,France,Argentina,3,2
-2365616,261123,Argentina,England,2,3
-2365617,261123,Spain,Germany,3,2
-2365618,261123,Germany,Argentina,3,1
-2365619,261123,England,France,3,1
-2365620,261123,France,Germany,1,1
-2365621,261123,Argentina,Spain,0,1
-2365622,261123,France,Spain,1,0
-2365623,261123,England,Germany,1,3
+2365612,261123,Spain,France,2.0,2.0
+2365613,261123,Germany,England,2.0,0.0
+2365614,261123,England,Spain,2.0,0.0
+2365615,261123,France,Argentina,3.0,2.0
+2365616,261123,Argentina,England,2.0,3.0
+2365617,261123,Spain,Germany,3.0,2.0
+2365618,261123,Germany,Argentina,3.0,1.0
+2365619,261123,England,France,3.0,1.0
+2365620,261123,France,Germany,1.0,1.0
+2365621,261123,Argentina,Spain,0.0,1.0
+2365622,261123,France,Spain,1.0,0.0
+2365623,261123,England,Germany,1.0,3.0
 2365624,261123,Spain,England,,
 2365625,261123,Argentina,France,,
 2365626,261123,England,Argentina,,

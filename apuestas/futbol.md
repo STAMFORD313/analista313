@@ -1,6 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 06/11/2026 19:09 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 06/11/2026 19:22 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## SK Rapid vs Wolfsberger AC — 06/11 · 19:30
 
@@ -11442,6 +11442,7 @@ Faltas 12.4 - 11.5: total +24.5 44% · Auxerre +11.5 58% · Paris FC +12.5 37%
 Tiros a puerta 4.2 - 4.3: total +9.5 35% · Auxerre +5.5 26% · Paris FC +4.5 42%  
 🧩 Crear apuesta: Menos de 2.5 tarjetas de Auxerre + Menos de 5.5 tiros a puerta de Auxerre + Menos de 2.5 goles → prob. 41%, cuota justa 2.46 (solo vale si la casa paga más)  
 🚀 Combinada larga: Menos de 2.5 tarjetas de Auxerre + Menos de 5.5 tiros a puerta de Auxerre + Menos de 2.5 goles + Menos de 10.5 córners + Menos de 12.5 faltas de Paris FC → prob. 16%, cuota justa 6.22  
+🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Auxerre + Menos de 2.5 goles + Menos de 10.5 córners): cuota Unibet aprox. 4.82 (producto de piernas) · prob. 32% · ventaja +55% → 1 u en la banca de simulación  
 
 ## Alverca vs Casa Pia — 07/11 · 19:00
 
@@ -11467,6 +11468,319 @@ Faltas 12.5 - 13.3: total +26.5 43% · Alverca +13.5 37% · Casa Pia +13.5 46%
 Tiros a puerta 4.7 - 3.2: total +8.5 39% · Alverca +4.5 49% · Casa Pia +3.5 40%  
 🧩 Crear apuesta: Menos de 4.5 córners de Casa Pia + Menos de 5.5 tarjetas + Menos de 13.5 faltas de Alverca → prob. 32%, cuota justa 3.13 (solo vale si la casa paga más)  
 🚀 Combinada larga: Menos de 4.5 córners de Casa Pia + Menos de 5.5 tarjetas + Menos de 13.5 faltas de Alverca + Menos de 8.5 tiros a puerta + Menos de 2.5 goles → prob. 14%, cuota justa 7.29  
+🎯 Simulada (con cuota: Menos de 4.5 córners de Casa Pia + Menos de 2.5 goles): cuota Unibet aprox. 2.73 (producto de piernas) · prob. 43% · ventaja +16% → 1 u en la banca de simulación  
+
+## Auxerre vs Paris FC — 07/11 · 19:00
+
+👀 candidata · 🇫🇷 Ligue 1 · **Más de 7.5 córners** @ **1.23** (Unibet) · prob 73% vs casas 74% · ventaja -10%
+
+- ❌ Valor: ventaja -10% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.10 - 0.95)  
+1 30% · X 32% · 2 39%  
+1X 61% · X2 70% · 12 68%  
++1.5 61% · +2.5 34% · +3.5 15% · Ambos marcan 42%  
+Marcadores: 1-1 14% · 0-0 14% · 1-0 13% · 0-1 12%  
+🔎 **Claves**  
+• Forma: Auxerre ✅❌✅➖❌ | Paris FC ✅❌✅❌✅  
+• H2H: 15 desde 2015: 4V-6E-5D · 2.1 goles/partido · +2.5 en 33%  
+• Bajas: Auxerre: 2 fuera, 1 duda (Assane Diousse, Bryan Okoh); Paris FC: 2 fuera, 4 duda (Mamadou Mbow, Nhoa Sangui)  
+• Favorito de las casas: Paris FC @ 1.78  
+📐 **Estadísticas esperadas**  
+Córners 4.9 - 4.6: total +10.5 36% · Auxerre +5.5 37% · Paris FC +4.5 47%  
+Tarjetas 1.7 - 2.2: total +4.5 35% · Auxerre +2.5 24% · Paris FC +2.5 37%  
+Faltas 12.4 - 11.5: total +24.5 44% · Auxerre +11.5 58% · Paris FC +12.5 37%  
+Tiros a puerta 4.2 - 4.3: total +9.5 35% · Auxerre +5.5 26% · Paris FC +4.5 42%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Auxerre + Menos de 5.5 tiros a puerta de Auxerre + Menos de 2.5 goles → prob. 41%, cuota justa 2.46 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Auxerre + Menos de 5.5 tiros a puerta de Auxerre + Menos de 2.5 goles + Menos de 10.5 córners + Menos de 12.5 faltas de Paris FC → prob. 16%, cuota justa 6.22  
+🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Auxerre + Menos de 2.5 goles + Menos de 10.5 córners): cuota Unibet aprox. 4.82 (producto de piernas) · prob. 32% · ventaja +55% → 1 u en la banca de simulación  
+
+## Auxerre vs Paris FC — 07/11 · 19:00
+
+👀 candidata · 🇫🇷 Ligue 1 · **Menos de 8.5 córners** @ **2.60** (Unibet) · prob 38% vs casas 35% · ventaja -2%
+
+- ❌ Valor: ventaja -2% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.10 - 0.95)  
+1 30% · X 32% · 2 39%  
+1X 61% · X2 70% · 12 68%  
++1.5 61% · +2.5 34% · +3.5 15% · Ambos marcan 42%  
+Marcadores: 1-1 14% · 0-0 14% · 1-0 13% · 0-1 12%  
+🔎 **Claves**  
+• Forma: Auxerre ✅❌✅➖❌ | Paris FC ✅❌✅❌✅  
+• H2H: 15 desde 2015: 4V-6E-5D · 2.1 goles/partido · +2.5 en 33%  
+• Bajas: Auxerre: 2 fuera, 1 duda (Assane Diousse, Bryan Okoh); Paris FC: 2 fuera, 4 duda (Mamadou Mbow, Nhoa Sangui)  
+• Favorito de las casas: Paris FC @ 1.78  
+📐 **Estadísticas esperadas**  
+Córners 4.9 - 4.6: total +10.5 36% · Auxerre +5.5 37% · Paris FC +4.5 47%  
+Tarjetas 1.7 - 2.2: total +4.5 35% · Auxerre +2.5 24% · Paris FC +2.5 37%  
+Faltas 12.4 - 11.5: total +24.5 44% · Auxerre +11.5 58% · Paris FC +12.5 37%  
+Tiros a puerta 4.2 - 4.3: total +9.5 35% · Auxerre +5.5 26% · Paris FC +4.5 42%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Auxerre + Menos de 5.5 tiros a puerta de Auxerre + Menos de 2.5 goles → prob. 41%, cuota justa 2.46 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Auxerre + Menos de 5.5 tiros a puerta de Auxerre + Menos de 2.5 goles + Menos de 10.5 córners + Menos de 12.5 faltas de Paris FC → prob. 16%, cuota justa 6.22  
+🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Auxerre + Menos de 2.5 goles + Menos de 10.5 córners): cuota Unibet aprox. 4.82 (producto de piernas) · prob. 32% · ventaja +55% → 1 u en la banca de simulación  
+
+## Auxerre vs Paris FC — 07/11 · 19:00
+
+👀 candidata · 🇫🇷 Ligue 1 · **Más de 3.5 córners de Auxerre** @ **1.43** (Unibet) · prob 66% vs casas 64% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.10 - 0.95)  
+1 30% · X 32% · 2 39%  
+1X 61% · X2 70% · 12 68%  
++1.5 61% · +2.5 34% · +3.5 15% · Ambos marcan 42%  
+Marcadores: 1-1 14% · 0-0 14% · 1-0 13% · 0-1 12%  
+🔎 **Claves**  
+• Forma: Auxerre ✅❌✅➖❌ | Paris FC ✅❌✅❌✅  
+• H2H: 15 desde 2015: 4V-6E-5D · 2.1 goles/partido · +2.5 en 33%  
+• Bajas: Auxerre: 2 fuera, 1 duda (Assane Diousse, Bryan Okoh); Paris FC: 2 fuera, 4 duda (Mamadou Mbow, Nhoa Sangui)  
+• Favorito de las casas: Paris FC @ 1.78  
+📐 **Estadísticas esperadas**  
+Córners 4.9 - 4.6: total +10.5 36% · Auxerre +5.5 37% · Paris FC +4.5 47%  
+Tarjetas 1.7 - 2.2: total +4.5 35% · Auxerre +2.5 24% · Paris FC +2.5 37%  
+Faltas 12.4 - 11.5: total +24.5 44% · Auxerre +11.5 58% · Paris FC +12.5 37%  
+Tiros a puerta 4.2 - 4.3: total +9.5 35% · Auxerre +5.5 26% · Paris FC +4.5 42%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Auxerre + Menos de 5.5 tiros a puerta de Auxerre + Menos de 2.5 goles → prob. 41%, cuota justa 2.46 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Auxerre + Menos de 5.5 tiros a puerta de Auxerre + Menos de 2.5 goles + Menos de 10.5 córners + Menos de 12.5 faltas de Paris FC → prob. 16%, cuota justa 6.22  
+🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Auxerre + Menos de 2.5 goles + Menos de 10.5 córners): cuota Unibet aprox. 4.82 (producto de piernas) · prob. 32% · ventaja +55% → 1 u en la banca de simulación  
+
+## Auxerre vs Paris FC — 07/11 · 19:00
+
+👀 candidata · 🇫🇷 Ligue 1 · **Menos de 6.5 córners de Auxerre** @ **1.25** (Unibet) · prob 74% vs casas 73% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.10 - 0.95)  
+1 30% · X 32% · 2 39%  
+1X 61% · X2 70% · 12 68%  
++1.5 61% · +2.5 34% · +3.5 15% · Ambos marcan 42%  
+Marcadores: 1-1 14% · 0-0 14% · 1-0 13% · 0-1 12%  
+🔎 **Claves**  
+• Forma: Auxerre ✅❌✅➖❌ | Paris FC ✅❌✅❌✅  
+• H2H: 15 desde 2015: 4V-6E-5D · 2.1 goles/partido · +2.5 en 33%  
+• Bajas: Auxerre: 2 fuera, 1 duda (Assane Diousse, Bryan Okoh); Paris FC: 2 fuera, 4 duda (Mamadou Mbow, Nhoa Sangui)  
+• Favorito de las casas: Paris FC @ 1.78  
+📐 **Estadísticas esperadas**  
+Córners 4.9 - 4.6: total +10.5 36% · Auxerre +5.5 37% · Paris FC +4.5 47%  
+Tarjetas 1.7 - 2.2: total +4.5 35% · Auxerre +2.5 24% · Paris FC +2.5 37%  
+Faltas 12.4 - 11.5: total +24.5 44% · Auxerre +11.5 58% · Paris FC +12.5 37%  
+Tiros a puerta 4.2 - 4.3: total +9.5 35% · Auxerre +5.5 26% · Paris FC +4.5 42%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Auxerre + Menos de 5.5 tiros a puerta de Auxerre + Menos de 2.5 goles → prob. 41%, cuota justa 2.46 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Auxerre + Menos de 5.5 tiros a puerta de Auxerre + Menos de 2.5 goles + Menos de 10.5 córners + Menos de 12.5 faltas de Paris FC → prob. 16%, cuota justa 6.22  
+🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Auxerre + Menos de 2.5 goles + Menos de 10.5 córners): cuota Unibet aprox. 4.82 (producto de piernas) · prob. 32% · ventaja +55% → 1 u en la banca de simulación  
+
+## Auxerre vs Paris FC — 07/11 · 19:00
+
+👀 candidata · 🇫🇷 Ligue 1 · **Más de 3.5 córners de Paris FC** @ **1.33** (Unibet) · prob 66% vs casas 69% · ventaja -12%
+
+- ❌ Valor: ventaja -12% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.10 - 0.95)  
+1 30% · X 32% · 2 39%  
+1X 61% · X2 70% · 12 68%  
++1.5 61% · +2.5 34% · +3.5 15% · Ambos marcan 42%  
+Marcadores: 1-1 14% · 0-0 14% · 1-0 13% · 0-1 12%  
+🔎 **Claves**  
+• Forma: Auxerre ✅❌✅➖❌ | Paris FC ✅❌✅❌✅  
+• H2H: 15 desde 2015: 4V-6E-5D · 2.1 goles/partido · +2.5 en 33%  
+• Bajas: Auxerre: 2 fuera, 1 duda (Assane Diousse, Bryan Okoh); Paris FC: 2 fuera, 4 duda (Mamadou Mbow, Nhoa Sangui)  
+• Favorito de las casas: Paris FC @ 1.78  
+📐 **Estadísticas esperadas**  
+Córners 4.9 - 4.6: total +10.5 36% · Auxerre +5.5 37% · Paris FC +4.5 47%  
+Tarjetas 1.7 - 2.2: total +4.5 35% · Auxerre +2.5 24% · Paris FC +2.5 37%  
+Faltas 12.4 - 11.5: total +24.5 44% · Auxerre +11.5 58% · Paris FC +12.5 37%  
+Tiros a puerta 4.2 - 4.3: total +9.5 35% · Auxerre +5.5 26% · Paris FC +4.5 42%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Auxerre + Menos de 5.5 tiros a puerta de Auxerre + Menos de 2.5 goles → prob. 41%, cuota justa 2.46 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Auxerre + Menos de 5.5 tiros a puerta de Auxerre + Menos de 2.5 goles + Menos de 10.5 córners + Menos de 12.5 faltas de Paris FC → prob. 16%, cuota justa 6.22  
+🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Auxerre + Menos de 2.5 goles + Menos de 10.5 córners): cuota Unibet aprox. 4.82 (producto de piernas) · prob. 32% · ventaja +55% → 1 u en la banca de simulación  
+
+## Auxerre vs Paris FC — 07/11 · 19:00
+
+👀 candidata · 🇫🇷 Ligue 1 · **Menos de 4.5 córners de Paris FC** @ **2.06** (Unibet) · prob 49% vs casas 45% · ventaja +1%
+
+- ❌ Valor: ventaja +1% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.10 - 0.95)  
+1 30% · X 32% · 2 39%  
+1X 61% · X2 70% · 12 68%  
++1.5 61% · +2.5 34% · +3.5 15% · Ambos marcan 42%  
+Marcadores: 1-1 14% · 0-0 14% · 1-0 13% · 0-1 12%  
+🔎 **Claves**  
+• Forma: Auxerre ✅❌✅➖❌ | Paris FC ✅❌✅❌✅  
+• H2H: 15 desde 2015: 4V-6E-5D · 2.1 goles/partido · +2.5 en 33%  
+• Bajas: Auxerre: 2 fuera, 1 duda (Assane Diousse, Bryan Okoh); Paris FC: 2 fuera, 4 duda (Mamadou Mbow, Nhoa Sangui)  
+• Favorito de las casas: Paris FC @ 1.78  
+📐 **Estadísticas esperadas**  
+Córners 4.9 - 4.6: total +10.5 36% · Auxerre +5.5 37% · Paris FC +4.5 47%  
+Tarjetas 1.7 - 2.2: total +4.5 35% · Auxerre +2.5 24% · Paris FC +2.5 37%  
+Faltas 12.4 - 11.5: total +24.5 44% · Auxerre +11.5 58% · Paris FC +12.5 37%  
+Tiros a puerta 4.2 - 4.3: total +9.5 35% · Auxerre +5.5 26% · Paris FC +4.5 42%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Auxerre + Menos de 5.5 tiros a puerta de Auxerre + Menos de 2.5 goles → prob. 41%, cuota justa 2.46 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Auxerre + Menos de 5.5 tiros a puerta de Auxerre + Menos de 2.5 goles + Menos de 10.5 córners + Menos de 12.5 faltas de Paris FC → prob. 16%, cuota justa 6.22  
+🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Auxerre + Menos de 2.5 goles + Menos de 10.5 córners): cuota Unibet aprox. 4.82 (producto de piernas) · prob. 32% · ventaja +55% → 1 u en la banca de simulación  
+
+## Alverca vs Casa Pia — 07/11 · 19:00
+
+👀 candidata · 🇵🇹 Primeira Liga · **Más de 4.5 córners de Alverca** @ **1.43** (Unibet) · prob 66% vs casas 64% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.21 - 1.06)  
+1 53% · X 27% · 2 20%  
+1X 80% · X2 47% · 12 73%  
++1.5 67% · +2.5 40% · +3.5 19% · Ambos marcan 46%  
+Marcadores: 1-1 14% · 1-0 12% · 0-0 11% · 0-1 10%  
+🔎 **Claves**  
+• Forma: Alverca ✅✅✅❌❌ | Casa Pia ❌✅❌✅❌  
+• H2H: 2 desde 2025: 2V-0E-0D · 3.0 goles/partido · +2.5 en 50%  
+• Bajas: Alverca: 4 fuera, 0 duda (Steven Baseya, Andre Vidigal, Noah Raveyre); Casa Pia: 0 fuera, 2 duda  
+• Favorito de las casas: Alverca @ 1.75  
+📐 **Estadísticas esperadas**  
+Córners 6.2 - 3.5: total +9.5 50% · Alverca +5.5 55% · Casa Pia +4.5 29%  
+Tarjetas 2.1 - 2.6: total +5.5 32% · Alverca +2.5 34% · Casa Pia +2.5 47%  
+Faltas 12.5 - 13.3: total +26.5 43% · Alverca +13.5 37% · Casa Pia +13.5 46%  
+Tiros a puerta 4.7 - 3.2: total +8.5 39% · Alverca +4.5 49% · Casa Pia +3.5 40%  
+🧩 Crear apuesta: Menos de 4.5 córners de Casa Pia + Menos de 5.5 tarjetas + Menos de 13.5 faltas de Alverca → prob. 32%, cuota justa 3.13 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 córners de Casa Pia + Menos de 5.5 tarjetas + Menos de 13.5 faltas de Alverca + Menos de 8.5 tiros a puerta + Menos de 2.5 goles → prob. 14%, cuota justa 7.29  
+🎯 Simulada (con cuota: Menos de 4.5 córners de Casa Pia + Menos de 2.5 goles): cuota Unibet aprox. 2.73 (producto de piernas) · prob. 43% · ventaja +16% → 1 u en la banca de simulación  
+
+## Alverca vs Casa Pia — 07/11 · 19:00
+
+👀 candidata · 🇵🇹 Primeira Liga · **Menos de 7.5 córners de Alverca** @ **1.33** (Unibet) · prob 69% vs casas 69% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.21 - 1.06)  
+1 53% · X 27% · 2 20%  
+1X 80% · X2 47% · 12 73%  
++1.5 67% · +2.5 40% · +3.5 19% · Ambos marcan 46%  
+Marcadores: 1-1 14% · 1-0 12% · 0-0 11% · 0-1 10%  
+🔎 **Claves**  
+• Forma: Alverca ✅✅✅❌❌ | Casa Pia ❌✅❌✅❌  
+• H2H: 2 desde 2025: 2V-0E-0D · 3.0 goles/partido · +2.5 en 50%  
+• Bajas: Alverca: 4 fuera, 0 duda (Steven Baseya, Andre Vidigal, Noah Raveyre); Casa Pia: 0 fuera, 2 duda  
+• Favorito de las casas: Alverca @ 1.75  
+📐 **Estadísticas esperadas**  
+Córners 6.2 - 3.5: total +9.5 50% · Alverca +5.5 55% · Casa Pia +4.5 29%  
+Tarjetas 2.1 - 2.6: total +5.5 32% · Alverca +2.5 34% · Casa Pia +2.5 47%  
+Faltas 12.5 - 13.3: total +26.5 43% · Alverca +13.5 37% · Casa Pia +13.5 46%  
+Tiros a puerta 4.7 - 3.2: total +8.5 39% · Alverca +4.5 49% · Casa Pia +3.5 40%  
+🧩 Crear apuesta: Menos de 4.5 córners de Casa Pia + Menos de 5.5 tarjetas + Menos de 13.5 faltas de Alverca → prob. 32%, cuota justa 3.13 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 córners de Casa Pia + Menos de 5.5 tarjetas + Menos de 13.5 faltas de Alverca + Menos de 8.5 tiros a puerta + Menos de 2.5 goles → prob. 14%, cuota justa 7.29  
+🎯 Simulada (con cuota: Menos de 4.5 córners de Casa Pia + Menos de 2.5 goles): cuota Unibet aprox. 2.73 (producto de piernas) · prob. 43% · ventaja +16% → 1 u en la banca de simulación  
+
+## Alverca vs Casa Pia — 07/11 · 19:00
+
+👀 candidata · 🇵🇹 Primeira Liga · **Más de 8.5 córners** @ **1.43** (Unibet) · prob 63% vs casas 64% · ventaja -10%
+
+- ❌ Valor: ventaja -10% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.21 - 1.06)  
+1 53% · X 27% · 2 20%  
+1X 80% · X2 47% · 12 73%  
++1.5 67% · +2.5 40% · +3.5 19% · Ambos marcan 46%  
+Marcadores: 1-1 14% · 1-0 12% · 0-0 11% · 0-1 10%  
+🔎 **Claves**  
+• Forma: Alverca ✅✅✅❌❌ | Casa Pia ❌✅❌✅❌  
+• H2H: 2 desde 2025: 2V-0E-0D · 3.0 goles/partido · +2.5 en 50%  
+• Bajas: Alverca: 4 fuera, 0 duda (Steven Baseya, Andre Vidigal, Noah Raveyre); Casa Pia: 0 fuera, 2 duda  
+• Favorito de las casas: Alverca @ 1.75  
+📐 **Estadísticas esperadas**  
+Córners 6.2 - 3.5: total +9.5 50% · Alverca +5.5 55% · Casa Pia +4.5 29%  
+Tarjetas 2.1 - 2.6: total +5.5 32% · Alverca +2.5 34% · Casa Pia +2.5 47%  
+Faltas 12.5 - 13.3: total +26.5 43% · Alverca +13.5 37% · Casa Pia +13.5 46%  
+Tiros a puerta 4.7 - 3.2: total +8.5 39% · Alverca +4.5 49% · Casa Pia +3.5 40%  
+🧩 Crear apuesta: Menos de 4.5 córners de Casa Pia + Menos de 5.5 tarjetas + Menos de 13.5 faltas de Alverca → prob. 32%, cuota justa 3.13 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 córners de Casa Pia + Menos de 5.5 tarjetas + Menos de 13.5 faltas de Alverca + Menos de 8.5 tiros a puerta + Menos de 2.5 goles → prob. 14%, cuota justa 7.29  
+🎯 Simulada (con cuota: Menos de 4.5 córners de Casa Pia + Menos de 2.5 goles): cuota Unibet aprox. 2.73 (producto de piernas) · prob. 43% · ventaja +16% → 1 u en la banca de simulación  
+
+## Alverca vs Casa Pia — 07/11 · 19:00
+
+👀 candidata · 🇵🇹 Primeira Liga · **Menos de 10.5 córners** @ **1.62** (Unibet) · prob 59% vs casas 56% · ventaja -5%
+
+- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.21 - 1.06)  
+1 53% · X 27% · 2 20%  
+1X 80% · X2 47% · 12 73%  
++1.5 67% · +2.5 40% · +3.5 19% · Ambos marcan 46%  
+Marcadores: 1-1 14% · 1-0 12% · 0-0 11% · 0-1 10%  
+🔎 **Claves**  
+• Forma: Alverca ✅✅✅❌❌ | Casa Pia ❌✅❌✅❌  
+• H2H: 2 desde 2025: 2V-0E-0D · 3.0 goles/partido · +2.5 en 50%  
+• Bajas: Alverca: 4 fuera, 0 duda (Steven Baseya, Andre Vidigal, Noah Raveyre); Casa Pia: 0 fuera, 2 duda  
+• Favorito de las casas: Alverca @ 1.75  
+📐 **Estadísticas esperadas**  
+Córners 6.2 - 3.5: total +9.5 50% · Alverca +5.5 55% · Casa Pia +4.5 29%  
+Tarjetas 2.1 - 2.6: total +5.5 32% · Alverca +2.5 34% · Casa Pia +2.5 47%  
+Faltas 12.5 - 13.3: total +26.5 43% · Alverca +13.5 37% · Casa Pia +13.5 46%  
+Tiros a puerta 4.7 - 3.2: total +8.5 39% · Alverca +4.5 49% · Casa Pia +3.5 40%  
+🧩 Crear apuesta: Menos de 4.5 córners de Casa Pia + Menos de 5.5 tarjetas + Menos de 13.5 faltas de Alverca → prob. 32%, cuota justa 3.13 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 córners de Casa Pia + Menos de 5.5 tarjetas + Menos de 13.5 faltas de Alverca + Menos de 8.5 tiros a puerta + Menos de 2.5 goles → prob. 14%, cuota justa 7.29  
+🎯 Simulada (con cuota: Menos de 4.5 córners de Casa Pia + Menos de 2.5 goles): cuota Unibet aprox. 2.73 (producto de piernas) · prob. 43% · ventaja +16% → 1 u en la banca de simulación  
+
+## Alverca vs Casa Pia — 07/11 · 19:00
+
+👀 candidata · 🇵🇹 Primeira Liga · **Más de 3.5 córners de Casa Pia** @ **1.71** (Unibet) · prob 49% vs casas 54% · ventaja -16%
+
+- ❌ Valor: ventaja -16% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.21 - 1.06)  
+1 53% · X 27% · 2 20%  
+1X 80% · X2 47% · 12 73%  
++1.5 67% · +2.5 40% · +3.5 19% · Ambos marcan 46%  
+Marcadores: 1-1 14% · 1-0 12% · 0-0 11% · 0-1 10%  
+🔎 **Claves**  
+• Forma: Alverca ✅✅✅❌❌ | Casa Pia ❌✅❌✅❌  
+• H2H: 2 desde 2025: 2V-0E-0D · 3.0 goles/partido · +2.5 en 50%  
+• Bajas: Alverca: 4 fuera, 0 duda (Steven Baseya, Andre Vidigal, Noah Raveyre); Casa Pia: 0 fuera, 2 duda  
+• Favorito de las casas: Alverca @ 1.75  
+📐 **Estadísticas esperadas**  
+Córners 6.2 - 3.5: total +9.5 50% · Alverca +5.5 55% · Casa Pia +4.5 29%  
+Tarjetas 2.1 - 2.6: total +5.5 32% · Alverca +2.5 34% · Casa Pia +2.5 47%  
+Faltas 12.5 - 13.3: total +26.5 43% · Alverca +13.5 37% · Casa Pia +13.5 46%  
+Tiros a puerta 4.7 - 3.2: total +8.5 39% · Alverca +4.5 49% · Casa Pia +3.5 40%  
+🧩 Crear apuesta: Menos de 4.5 córners de Casa Pia + Menos de 5.5 tarjetas + Menos de 13.5 faltas de Alverca → prob. 32%, cuota justa 3.13 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 córners de Casa Pia + Menos de 5.5 tarjetas + Menos de 13.5 faltas de Alverca + Menos de 8.5 tiros a puerta + Menos de 2.5 goles → prob. 14%, cuota justa 7.29  
+🎯 Simulada (con cuota: Menos de 4.5 córners de Casa Pia + Menos de 2.5 goles): cuota Unibet aprox. 2.73 (producto de piernas) · prob. 43% · ventaja +16% → 1 u en la banca de simulación  
+
+## Alverca vs Casa Pia — 07/11 · 19:00
+
+👀 candidata · 🇵🇹 Primeira Liga · **Menos de 3.5 córners de Casa Pia** @ **1.98** (Unibet) · prob 51% vs casas 46% · ventaja +0%
+
+- ❌ Valor: ventaja +0% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.21 - 1.06)  
+1 53% · X 27% · 2 20%  
+1X 80% · X2 47% · 12 73%  
++1.5 67% · +2.5 40% · +3.5 19% · Ambos marcan 46%  
+Marcadores: 1-1 14% · 1-0 12% · 0-0 11% · 0-1 10%  
+🔎 **Claves**  
+• Forma: Alverca ✅✅✅❌❌ | Casa Pia ❌✅❌✅❌  
+• H2H: 2 desde 2025: 2V-0E-0D · 3.0 goles/partido · +2.5 en 50%  
+• Bajas: Alverca: 4 fuera, 0 duda (Steven Baseya, Andre Vidigal, Noah Raveyre); Casa Pia: 0 fuera, 2 duda  
+• Favorito de las casas: Alverca @ 1.75  
+📐 **Estadísticas esperadas**  
+Córners 6.2 - 3.5: total +9.5 50% · Alverca +5.5 55% · Casa Pia +4.5 29%  
+Tarjetas 2.1 - 2.6: total +5.5 32% · Alverca +2.5 34% · Casa Pia +2.5 47%  
+Faltas 12.5 - 13.3: total +26.5 43% · Alverca +13.5 37% · Casa Pia +13.5 46%  
+Tiros a puerta 4.7 - 3.2: total +8.5 39% · Alverca +4.5 49% · Casa Pia +3.5 40%  
+🧩 Crear apuesta: Menos de 4.5 córners de Casa Pia + Menos de 5.5 tarjetas + Menos de 13.5 faltas de Alverca → prob. 32%, cuota justa 3.13 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 córners de Casa Pia + Menos de 5.5 tarjetas + Menos de 13.5 faltas de Alverca + Menos de 8.5 tiros a puerta + Menos de 2.5 goles → prob. 14%, cuota justa 7.29  
+🎯 Simulada (con cuota: Menos de 4.5 córners de Casa Pia + Menos de 2.5 goles): cuota Unibet aprox. 2.73 (producto de piernas) · prob. 43% · ventaja +16% → 1 u en la banca de simulación  
 
 ## Ried vs LASK — 07/11 · 19:30
 
