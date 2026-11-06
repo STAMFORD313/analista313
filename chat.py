@@ -1017,10 +1017,19 @@ def fc_table(days=None):
         r = row(xs)
         out.append(f"🤝 Empates con ventaja: <b>{eur(r[3])}</b> {icon(r[3])} en {r[0]} apuestas "
                    f"(✅ {r[1]} · ❌ {r[2]}; {per10(r)}).")
-    new = xs[pd.to_datetime(xs.start, utc=True) >= pd.Timestamp(E.RULE_SINCE)]
+    new = d[(pd.to_datetime(d.start, utc=True) >= pd.Timestamp(E.RULE_SINCE)) & (d.edge >= E.MIN_EDGE_SEND)
+            & d.pick.astype(str).isin(E.SEND_PICKS or {"X"})]
     r = row(new) if len(new) else (0, 0, 0, 0.0)
-    out.append(f"🆕 <b>Empates desde la regla</b> (5/11 13:30, partidos nuevos): {r[0]} apuestas · ✅ {r[1]} · ❌ {r[2]} → "
+    out.append(f"🆕 <b>Desde la regla actual</b> ({E.RULE_LABEL}, partidos nuevos): {r[0]} apuestas · ✅ {r[1]} · ❌ {r[2]} → "
                f"{icon(r[3])} <b>{eur(r[3])}</b>" + (" (aún sin partidos jugados)" if not r[0] else "") + ".")
+    import json as _j
+    try:
+        prm = _j.loads((E.DIR / "params.json").read_text())
+        base, now_ = (prm.get("calib_test") or {}).get("ll"), (prm.get("h2h_test") or {}).get("ll_h2h") or (prm.get("draw_test") or {}).get("ll_draw")
+        if base and now_:
+            out.append(f"🧠 <b>Entrenamiento</b>: error del modelo en partidos que no ha visto {now_:.4f} (sin las mejoras {base:.4f}). "
+                       f"Más bajo = acierta más; cada 30 min intenta bajarlo y solo guarda si mejora.")
+    except (OSError, ValueError): pass
     if not E.SEND_PICKS:
         out.append("⛔ Ahora mismo el bot <b>no manda</b> FC 27: ninguna regla ha ganado con partidos nuevos. "
                    "Sigue entrenando y midiendo; volverá cuando una gane de verdad.")

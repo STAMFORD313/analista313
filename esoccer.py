@@ -254,8 +254,9 @@ def simulation():
     return d.sort_values("start")
 
 
-RULE_SINCE = "2026-11-05T12:30:00+00:00"  # desde aquí solo se mandan empates con ventaja ≥ 5 %: su resultado es el honesto
-SEND_PICKS = set()  # 6-nov: los empates tampoco aguantan fuera de muestra (35 desde la regla, 2 aciertos, −100/−12/−100 % por tramo) → no se manda nada; se sigue midiendo
+RULE_SINCE = "2026-11-06T08:30:00+00:00"  # regla actual (1/X/2 del modelo, ventaja ≥ 5 %): su resultado desde aquí es el honesto
+RULE_LABEL = "6/11 9:30, 1/X/2 según estadísticas"
+SEND_PICKS = {"1", "X", "2"}  # 6-nov: el pick sale de las estadísticas del modelo (1, X o 2), ventaja ≥ 5 %; sin stake. Antes: 6-nov: los empates tampoco aguantan fuera de muestra (35 desde la regla, 2 aciertos, −100/−12/−100 % por tramo) → no se manda nada; se sigue midiendo
 # antes: {"X"}  # 1.ª/2.ª mitad (ventaja ≥ 5 %): 1 −10 %/−17 %, 2 −20 %/−4 %, X +82 % (34)/+59 % (18) → solo empates
 MIN_EDGE_SEND = 0.05  # 999 partidos con cuota de Unibet: ventaja > 0 → ROI −8.4 % ± 6.1 % (535); > 5 % → +1.7 % ± 8.5 % (311)
 
