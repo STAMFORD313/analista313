@@ -1,6 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 06/11/2026 11:41 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 06/11/2026 11:51 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## DaVa vs Revange — 06/11 · 11:54
 
@@ -21,6 +21,44 @@ Hándicap DaVa: −1.5 34% · −2.5 19%
 • Unibet: 1 1.52 · X 3.45 · 2 5.40 (sin margen 58%/26%/16%) · ventaja +49%. Sin stake hasta demostrar ROI con estas cuotas.  
 • En España: LeoVegas España 5.40 (+49%) · Paf España 5.40 (+49%)  
 
+## riko vs flamez — 06/11 · 11:54
+
+👀 candidata · 🎮⚽ FC 27 · Champions League A 2x6 · **Gana riko** @ **1.75** (Unibet) · prob 65% vs casas 50% · ventaja +13%
+
+- ✅ Valor: ventaja +13% (mín. 11% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 58.133 partidos)  
+Goles esperados: riko 4.62 · flamez 3.32  
+Ganador: riko 65% · empate 14% · flamez 22%  
+Total: más de 7.5 goles 54% · menos 46%  
+Hándicap riko: −1.5 47% · −2.5 33%  
+🔎 **Claves**  
+• Forma: riko ❌➖✅✅➖ | flamez ➖❌➖❌✅  
+• Partidos: riko 616 | flamez 670  
+• Liga: Champions League A 2x6  
+• Unibet: 1 1.75 · X 4.70 · 2 2.80 (sin margen 50%/19%/31%) · ventaja +13%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 1.75 (+13%) · Paf España 1.75 (+13%)  
+
+## dirowe vs spirtes — 06/11 · 11:56
+
+👀 candidata · 🎮⚽ FC 27 · CSL · **Gana spirtes** @ **3.60** (Unibet) · prob 33% vs casas 24% · ventaja +19%
+
+- ✅ Valor: ventaja +19% (mín. 13% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 58.133 partidos)  
+Goles esperados: dirowe 4.12 · spirtes 3.38  
+Ganador: dirowe 53% · empate 14% · spirtes 33%  
+Total: más de 7.5 goles 48% · menos 52%  
+Hándicap dirowe: −1.5 39% · −2.5 26%  
+🔎 **Claves**  
+• Forma: dirowe ➖✅✅❌✅ | spirtes ✅❌❌➖❌  
+• Partidos: dirowe 762 | spirtes 958  
+• Liga: CSL  
+• Unibet: 1 1.40 · X 6.25 · 2 3.60 (sin margen 62%/14%/24%) · ventaja +19%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 3.60 (+19%) · Paf España 3.60 (+19%)  
+
 ## zoyir vs why — 06/11 · 12:12
 
 👀 candidata · 🎮⚽ FC 27 · Champions League A 2x6 · **Gana why** @ **5.00** (Unibet) · prob 26% vs casas 17% · ventaja +30%
@@ -39,6 +77,25 @@ Hándicap zoyir: −1.5 42% · −2.5 28%
 • Liga: Champions League A 2x6  
 • Unibet: 1 1.32 · X 5.00 · 2 5.00 (sin margen 65%/17%/17%) · ventaja +30%. Sin stake hasta demostrar ROI con estas cuotas.  
 • En España: LeoVegas España 5.00 (+31%) · Paf España 5.00 (+31%)  
+
+## Ganger_29 vs Taz — 06/11 · 12:12
+
+👀 candidata · 🎮⚽ FC 27 · World Cup A · **Gana Taz** @ **2.08** (Unibet) · prob 55% vs casas 42% · ventaja +15%
+
+- ✅ Valor: ventaja +15% (mín. 12% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 58.133 partidos)  
+Goles esperados: Ganger_29 2.66 · Taz 3.51  
+Ganador: Ganger_29 26% · empate 19% · Taz 55%  
+Total: más de 6.5 goles 42% · menos 58%  
+Hándicap Taz: −1.5 39% · −2.5 25%  
+🔎 **Claves**  
+• Forma: Ganger_29 ✅✅➖➖❌ | Taz ➖✅➖❌✅  
+• Partidos: Ganger_29 786 | Taz 913  
+• Liga: World Cup A  
+• Unibet: 1 2.30 · X 4.35 · 2 2.08 (sin margen 38%/20%/42%) · ventaja +15%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.08 (+15%) · Paf España 2.08 (+15%)  
 
 ## MeLToSik vs Revange — 06/11 · 12:18
 
