@@ -1970,7 +1970,12 @@
   "fc|2363709",
   "fc|2365082",
   "fc|2364761",
-  "fc|2364764"
+  "fc|2364764",
+  "r6|132883",
+  "r6|132885",
+  "fc|2363719",
+  "fc|2365083",
+  "fc|2363717"
  ],
  "signals": [
   {
@@ -14431,7 +14436,11 @@
    "version": "0fc72a7",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "1-0",
+   "result": false,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "A",
