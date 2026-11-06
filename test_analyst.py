@@ -1623,7 +1623,9 @@ finally:
     _FCC.LOG = _log0
     if _bk is None: _fs0.unlink(missing_ok=True)
     else: _fs0.write_text(_bk)
-assert ("hcp", "a") in _FCC.VETO and ("hcp", "h") not in _FCC.VETO
+_px = pd.DataFrame({"date": [f"d{i:03d}" for i in range(400)], "id": list(range(400)), "k": ["hcp", "tot"] * 200,
+                    "s": ["a", "O"] * 200, "ok": [(i // 2) % 10 < (7 if i % 2 == 0 else 8) for i in range(400)], "pc": [0.78] * 400, "odds": [1.2] * 400})
+assert _FCC.auto_veto(_px) == {("hcp", "a")}  # 70 % con 78 % esperado en ambas mitades: vetada; 80 % no
 print("ok FC 27 aprende de sus fallos")
 
 # peso modelo/casa aprendido de LeoVegas: con 250 partidos donde el modelo acierta y la casa no, sube el peso del modelo

@@ -20,9 +20,9 @@ import kambi as K
 OP, BOOK = "leoes", "LeoVegas España"
 W, P_MIN, P_MAX, EDGE = 0.30, 0.40, 0.92, 0.02
 LOG = E.DIR / "odds_leo.csv"
-# piernas vetadas por las cuotas reales de LeoVegas (167 partidos, 6/11): el hándicap a favor del visitante acierta menos
-# de lo que dice la propia casa en las dos mitades (76 % vs 78 % y 75 % vs 79 %; ROI −12 % y −15 %), el local no.
-VETO = {("hcp", "a")}
+# vetos fijos (vacío): los decide auto_veto() con las cuotas reales. El 6/11 a las 19 h se vetó a mano el hándicap del
+# visitante con 167 partidos; con 232 dejó de estar por debajo de la casa en la 2.ª mitad → era ruido.
+VETO = set()
 _MODEL = {}
 
 
@@ -216,13 +216,13 @@ def merge_log(old, new):
     return c.drop(columns=["seen0", "odds0", "p_casa0"]).drop_duplicates(KEY, keep="last").merge(first, on=KEY, how="left")
 
 
-def leo_report():
-    """Balance honesto con cuotas reales de LeoVegas: 1 € a cada pierna que habría pasado la lógica (medias, cara a cara,
-    vetos) en los partidos ya jugados de odds_leo.csv. Texto para el chat."""
+def played(veto=True):
+    """Piernas con lógica (medias, cara a cara, vetos) de los partidos ya jugados con cuota de LeoVegas.
+    DataFrame: date, id, k, s, ok, pc (prob. de la casa sin margen), odds. None si no hay registro."""
     try:
-        o = pd.read_csv(LOG).drop_duplicates(["id", "k", "who", "line", "s"], keep="last")
+        o = pd.read_csv(LOG).drop_duplicates(KEY, keep="last")
         h = pd.read_csv(E.HIST).dropna(subset=["s1", "s2"])
-    except (OSError, ValueError): return "🎮⚽ Aún no hay cuotas de LeoVegas guardadas."
+    except (OSError, ValueError): return None
     o = o.drop(columns=["p1", "p2"], errors="ignore").merge(h[["id", "s1", "s2", "p1", "p2", "date"]], on="id")
     rows = []
     for gid, g in o.groupby("id"):
@@ -231,16 +231,36 @@ def leo_report():
         r1, r2, hh = recent(past, a), recent(past, b), h2h(past, a, b)
         hs, as_ = (r0.s1, r0.s2) if same else (r0.s2, r0.s1)
         for r in g.itertuples():
-            if (r.k, r.s) in VETO: continue
+            if veto and (r.k, r.s) in VETO: continue
             mk = {"k": r.k, "who": None if pd.isna(r.who) else r.who, "line": None if pd.isna(r.line) else r.line}
             if not coherent(mk, r.s, r1, r2, hh): continue
             ok, _ = judge({"home": "", "away": "", "fc": {**mk, "s": r.s}}, hs, as_)
-            if ok is not None: rows.append((bool(ok), r.p_casa, r.odds))
-    if not rows: return "🎮⚽ Aún no hay partidos jugados con cuotas de LeoVegas."
-    ok = np.array([x[0] for x in rows]); pc = np.array([x[1] for x in rows]); od = np.array([x[2] for x in rows])
-    pnl = np.where(ok, od - 1, -1.0)
-    return (f"🎮⚽ <b>FC 27 con cuotas reales de LeoVegas</b>\n{o.id.nunique()} partidos jugados · {len(rows)} apuestas que pasan la lógica\n"
-            f"✅ Acierta {ok.mean():.0%} (la casa esperaba {pc.mean():.0%})\n"
+            if ok is not None: rows.append((r0.date, gid, r.k, r.s, bool(ok), r.p_casa, r.odds))
+    return pd.DataFrame(rows, columns=["date", "id", "k", "s", "ok", "pc", "odds"])
+
+
+def auto_veto(x=None, min_n=100):
+    """Tipos de pierna (mercado, lado) que, con la lógica puesta, aciertan MENOS que lo que espera la propia casa en las
+    dos mitades del registro (por fecha) con ≥ `min_n` piernas: no aportan nada y pierden el margen → se vetan solos."""
+    x = played(veto=False) if x is None else x
+    if x is None or not len(x): return set()
+    x = x.sort_values("date"); ids = x.id.drop_duplicates().tolist(); first = set(ids[:len(ids) // 2])
+    out = set()
+    for (k, s), g in x.groupby(["k", "s"]):
+        if len(g) < min_n: continue
+        halves = [g[g.id.isin(first)], g[~g.id.isin(first)]]
+        if all(len(m) and m.ok.mean() < m.pc.mean() for m in halves): out.add((k, s))
+    return out
+
+
+def leo_report():
+    """Balance honesto con cuotas reales de LeoVegas: 1 € a cada pierna que habría pasado la lógica. Texto para el chat."""
+    x = played()
+    if x is None: return "🎮⚽ Aún no hay cuotas de LeoVegas guardadas."
+    if not len(x): return "🎮⚽ Aún no hay partidos jugados con cuotas de LeoVegas."
+    pnl = np.where(x.ok, x.odds - 1, -1.0)
+    return (f"🎮⚽ <b>FC 27 con cuotas reales de LeoVegas</b>\n{x.id.nunique()} partidos jugados · {len(x)} apuestas que pasan la lógica\n"
+            f"✅ Acierta {x.ok.mean():.0%} (la casa esperaba {x.pc.mean():.0%})\n"
             f"{'🟢' if pnl.sum() > 0 else '🔴'} 1 € a cada una: {pnl.sum():+.2f} € ({pnl.mean():+.1%} por apuesta)\n"
             f"{'Va por delante de la casa.' if pnl.mean() > 2 * pnl.std() / np.sqrt(len(pnl)) else 'Sin ventaja demostrada: el margen de la casa se come el acierto. Sin dinero real.'}")
 
@@ -254,7 +274,7 @@ def candidates(hours=3, push=True):
     print(f"combinada FC 27: modelo {t1 - t0:.0f} s · calendario {t2 - t1:.0f} s ({len(games)}) · {BOOK} {t3 - t2:.0f} s ({len(evs)})", flush=True)
     cands, priced, log = [], 0, []
     w = blend_w()
-    banned = lessons()  # una vez por pasada, no por partido
+    banned = set(lessons()) | auto_veto()  # una vez por pasada, no por partido
     now = pd.Timestamp.now(tz="UTC")
     for g in games:
         e = K.find_esoccer(g["p1"], g["p2"], pd.Timestamp(g["date"]), evs)
