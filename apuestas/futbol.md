@@ -1,6 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 06/11/2026 19:38 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 06/11/2026 19:49 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Boulogne vs Annecy — 06/11 · 20:00
 
@@ -11788,6 +11788,156 @@ Marcadores: 1-1 12% · 1-2 9% · 0-1 8% · 0-2 7%
 
 - ❌ Valor: ventaja -3% (mín. 5% con la incertidumbre, máx. 30%)
 - ✅ Segmento «⚽ goles» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.58 - 0.97)  
+1 46% · X 29% · 2 25%  
+1X 75% · X2 54% · 12 71%  
++1.5 73% · +2.5 47% · +3.5 25% · Ambos marcan 50%  
+Marcadores: 1-1 13% · 1-0 12% · 2-0 10% · 2-1 9%  
+🔎 **Claves**  
+• Forma: Benevento ✅➖✅➖❌ | Avellino ✅➖❌➖✅  
+• H2H: 2 desde 2016: 1V-1E-0D · 2.5 goles/partido · +2.5 en 50%  
+• Bajas: Benevento: sin bajas; Avellino: sin bajas  
+• Favorito de las casas: Benevento @ 1.88  
+📐 **Estadísticas esperadas**  
+Córners 6.0 - 3.7: total +9.5 49% · Benevento +5.5 51% · Avellino +4.5 31%  
+Tarjetas 2.2 - 2.6: total +4.5 52% · Benevento +2.5 39% · Avellino +2.5 49%  
+Faltas 15.7 - 12.5: total +27.5 53% · Benevento +14.5 59% · Avellino +13.5 38%  
+Tiros a puerta 5.4 - 2.9: total +8.5 44% · Benevento +5.5 44% · Avellino +3.5 32%  
+🧩 Crear apuesta: Menos de 4.5 córners de Avellino + Menos de 3.5 tiros a puerta de Avellino + Menos de 13.5 faltas de Avellino → prob. 30%, cuota justa 3.35 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 córners de Avellino + Menos de 3.5 tiros a puerta de Avellino + Menos de 13.5 faltas de Avellino + Menos de 2.5 tarjetas de Benevento → prob. 19%, cuota justa 5.19  
+
+## Benevento vs Avellino — 07/11 · 19:30
+
+👀 candidata · 🇮🇹 Serie B · **Más de 3.5 córners de Avellino** @ **1.76** (Unibet) · prob 49% vs casas 51% · ventaja -13%
+
+- ❌ Valor: ventaja -13% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.58 - 0.97)  
+1 46% · X 29% · 2 25%  
+1X 75% · X2 54% · 12 71%  
++1.5 73% · +2.5 47% · +3.5 25% · Ambos marcan 50%  
+Marcadores: 1-1 13% · 1-0 12% · 2-0 10% · 2-1 9%  
+🔎 **Claves**  
+• Forma: Benevento ✅➖✅➖❌ | Avellino ✅➖❌➖✅  
+• H2H: 2 desde 2016: 1V-1E-0D · 2.5 goles/partido · +2.5 en 50%  
+• Bajas: Benevento: sin bajas; Avellino: sin bajas  
+• Favorito de las casas: Benevento @ 1.88  
+📐 **Estadísticas esperadas**  
+Córners 6.0 - 3.7: total +9.5 49% · Benevento +5.5 51% · Avellino +4.5 31%  
+Tarjetas 2.2 - 2.6: total +4.5 52% · Benevento +2.5 39% · Avellino +2.5 49%  
+Faltas 15.7 - 12.5: total +27.5 53% · Benevento +14.5 59% · Avellino +13.5 38%  
+Tiros a puerta 5.4 - 2.9: total +8.5 44% · Benevento +5.5 44% · Avellino +3.5 32%  
+🧩 Crear apuesta: Menos de 4.5 córners de Avellino + Menos de 3.5 tiros a puerta de Avellino + Menos de 13.5 faltas de Avellino → prob. 30%, cuota justa 3.35 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 córners de Avellino + Menos de 3.5 tiros a puerta de Avellino + Menos de 13.5 faltas de Avellino + Menos de 2.5 tarjetas de Benevento → prob. 19%, cuota justa 5.19  
+
+## Benevento vs Avellino — 07/11 · 19:30
+
+👀 candidata · 🇮🇹 Serie B · **Menos de 3.5 córners de Avellino** @ **1.83** (Unibet) · prob 51% vs casas 49% · ventaja -7%
+
+- ❌ Valor: ventaja -7% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.58 - 0.97)  
+1 46% · X 29% · 2 25%  
+1X 75% · X2 54% · 12 71%  
++1.5 73% · +2.5 47% · +3.5 25% · Ambos marcan 50%  
+Marcadores: 1-1 13% · 1-0 12% · 2-0 10% · 2-1 9%  
+🔎 **Claves**  
+• Forma: Benevento ✅➖✅➖❌ | Avellino ✅➖❌➖✅  
+• H2H: 2 desde 2016: 1V-1E-0D · 2.5 goles/partido · +2.5 en 50%  
+• Bajas: Benevento: sin bajas; Avellino: sin bajas  
+• Favorito de las casas: Benevento @ 1.88  
+📐 **Estadísticas esperadas**  
+Córners 6.0 - 3.7: total +9.5 49% · Benevento +5.5 51% · Avellino +4.5 31%  
+Tarjetas 2.2 - 2.6: total +4.5 52% · Benevento +2.5 39% · Avellino +2.5 49%  
+Faltas 15.7 - 12.5: total +27.5 53% · Benevento +14.5 59% · Avellino +13.5 38%  
+Tiros a puerta 5.4 - 2.9: total +8.5 44% · Benevento +5.5 44% · Avellino +3.5 32%  
+🧩 Crear apuesta: Menos de 4.5 córners de Avellino + Menos de 3.5 tiros a puerta de Avellino + Menos de 13.5 faltas de Avellino → prob. 30%, cuota justa 3.35 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 córners de Avellino + Menos de 3.5 tiros a puerta de Avellino + Menos de 13.5 faltas de Avellino + Menos de 2.5 tarjetas de Benevento → prob. 19%, cuota justa 5.19  
+
+## Benevento vs Avellino — 07/11 · 19:30
+
+👀 candidata · 🇮🇹 Serie B · **Más de 8.5 córners** @ **1.60** (Unibet) · prob 58% vs casas 56% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.58 - 0.97)  
+1 46% · X 29% · 2 25%  
+1X 75% · X2 54% · 12 71%  
++1.5 73% · +2.5 47% · +3.5 25% · Ambos marcan 50%  
+Marcadores: 1-1 13% · 1-0 12% · 2-0 10% · 2-1 9%  
+🔎 **Claves**  
+• Forma: Benevento ✅➖✅➖❌ | Avellino ✅➖❌➖✅  
+• H2H: 2 desde 2016: 1V-1E-0D · 2.5 goles/partido · +2.5 en 50%  
+• Bajas: Benevento: sin bajas; Avellino: sin bajas  
+• Favorito de las casas: Benevento @ 1.88  
+📐 **Estadísticas esperadas**  
+Córners 6.0 - 3.7: total +9.5 49% · Benevento +5.5 51% · Avellino +4.5 31%  
+Tarjetas 2.2 - 2.6: total +4.5 52% · Benevento +2.5 39% · Avellino +2.5 49%  
+Faltas 15.7 - 12.5: total +27.5 53% · Benevento +14.5 59% · Avellino +13.5 38%  
+Tiros a puerta 5.4 - 2.9: total +8.5 44% · Benevento +5.5 44% · Avellino +3.5 32%  
+🧩 Crear apuesta: Menos de 4.5 córners de Avellino + Menos de 3.5 tiros a puerta de Avellino + Menos de 13.5 faltas de Avellino → prob. 30%, cuota justa 3.35 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 córners de Avellino + Menos de 3.5 tiros a puerta de Avellino + Menos de 13.5 faltas de Avellino + Menos de 2.5 tarjetas de Benevento → prob. 19%, cuota justa 5.19  
+
+## Benevento vs Avellino — 07/11 · 19:30
+
+👀 candidata · 🇮🇹 Serie B · **Menos de 10.5 córners** @ **1.40** (Unibet) · prob 64% vs casas 64% · ventaja -11%
+
+- ❌ Valor: ventaja -11% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.58 - 0.97)  
+1 46% · X 29% · 2 25%  
+1X 75% · X2 54% · 12 71%  
++1.5 73% · +2.5 47% · +3.5 25% · Ambos marcan 50%  
+Marcadores: 1-1 13% · 1-0 12% · 2-0 10% · 2-1 9%  
+🔎 **Claves**  
+• Forma: Benevento ✅➖✅➖❌ | Avellino ✅➖❌➖✅  
+• H2H: 2 desde 2016: 1V-1E-0D · 2.5 goles/partido · +2.5 en 50%  
+• Bajas: Benevento: sin bajas; Avellino: sin bajas  
+• Favorito de las casas: Benevento @ 1.88  
+📐 **Estadísticas esperadas**  
+Córners 6.0 - 3.7: total +9.5 49% · Benevento +5.5 51% · Avellino +4.5 31%  
+Tarjetas 2.2 - 2.6: total +4.5 52% · Benevento +2.5 39% · Avellino +2.5 49%  
+Faltas 15.7 - 12.5: total +27.5 53% · Benevento +14.5 59% · Avellino +13.5 38%  
+Tiros a puerta 5.4 - 2.9: total +8.5 44% · Benevento +5.5 44% · Avellino +3.5 32%  
+🧩 Crear apuesta: Menos de 4.5 córners de Avellino + Menos de 3.5 tiros a puerta de Avellino + Menos de 13.5 faltas de Avellino → prob. 30%, cuota justa 3.35 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 córners de Avellino + Menos de 3.5 tiros a puerta de Avellino + Menos de 13.5 faltas de Avellino + Menos de 2.5 tarjetas de Benevento → prob. 19%, cuota justa 5.19  
+
+## Benevento vs Avellino — 07/11 · 19:30
+
+👀 candidata · 🇮🇹 Serie B · **Más de 5.5 córners de Benevento** @ **2.00** (Unibet) · prob 48% vs casas 45% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.58 - 0.97)  
+1 46% · X 29% · 2 25%  
+1X 75% · X2 54% · 12 71%  
++1.5 73% · +2.5 47% · +3.5 25% · Ambos marcan 50%  
+Marcadores: 1-1 13% · 1-0 12% · 2-0 10% · 2-1 9%  
+🔎 **Claves**  
+• Forma: Benevento ✅➖✅➖❌ | Avellino ✅➖❌➖✅  
+• H2H: 2 desde 2016: 1V-1E-0D · 2.5 goles/partido · +2.5 en 50%  
+• Bajas: Benevento: sin bajas; Avellino: sin bajas  
+• Favorito de las casas: Benevento @ 1.88  
+📐 **Estadísticas esperadas**  
+Córners 6.0 - 3.7: total +9.5 49% · Benevento +5.5 51% · Avellino +4.5 31%  
+Tarjetas 2.2 - 2.6: total +4.5 52% · Benevento +2.5 39% · Avellino +2.5 49%  
+Faltas 15.7 - 12.5: total +27.5 53% · Benevento +14.5 59% · Avellino +13.5 38%  
+Tiros a puerta 5.4 - 2.9: total +8.5 44% · Benevento +5.5 44% · Avellino +3.5 32%  
+🧩 Crear apuesta: Menos de 4.5 córners de Avellino + Menos de 3.5 tiros a puerta de Avellino + Menos de 13.5 faltas de Avellino → prob. 30%, cuota justa 3.35 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 córners de Avellino + Menos de 3.5 tiros a puerta de Avellino + Menos de 13.5 faltas de Avellino + Menos de 2.5 tarjetas de Benevento → prob. 19%, cuota justa 5.19  
+
+## Benevento vs Avellino — 07/11 · 19:30
+
+👀 candidata · 🇮🇹 Serie B · **Menos de 6.5 córners de Benevento** @ **1.36** (Unibet) · prob 64% vs casas 66% · ventaja -13%
+
+- ❌ Valor: ventaja -13% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
 
 📊 **Escenarios** (goles esperados 1.58 - 0.97)  
 1 46% · X 29% · 2 25%  
