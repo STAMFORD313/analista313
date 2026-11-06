@@ -1,60 +1,42 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 06/11/2026 16:44 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 06/11/2026 17:17 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## Firminho vs Jankulovski — 06/11 · 16:49
+## maggett0 vs Gaga — 06/11 · 17:20
 
-👀 candidata · 🎮⚽ FC 27 · Europa League · **Gana Jankulovski** @ **4.20** (Unibet) · prob 26% vs casas 21% · ventaja +11%
+👀 candidata · 🎮⚽ FC 27 · World Cup B · **Empate** @ **4.50** (Unibet) · prob 24% vs casas 19% · ventaja +10%
 
-- ✅ Valor: ventaja +11% (mín. 11% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+- ❌ Valor: ventaja +10% (mín. 11% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 58.408 partidos)  
-Goles esperados: Firminho 3.19 · Jankulovski 2.45  
-Ganador: Firminho 53% · empate 20% · Jankulovski 27%  
-Total: más de 5.5 goles 50% · menos 50%  
-Hándicap Firminho: −1.5 37% · −2.5 22%  
+📊 **Escenarios** (Poisson por jugador, 58.439 partidos)  
+Goles esperados: maggett0 2.55 · Gaga 2.53  
+Ganador: maggett0 37% · empate 25% · Gaga 39%  
+Total: más de 5.5 goles 40% · menos 60%  
+Hándicap maggett0: −1.5 25% · −2.5 13%  
 🔎 **Claves**  
-• Forma: Firminho ❌✅➖❌❌ | Jankulovski ❌❌➖❌➖  
-• Partidos: Firminho 741 | Jankulovski 796  
-• Liga: Europa League  
-• Unibet: 1 1.40 · X 4.90 · 2 4.20 (sin margen 62%/18%/21%) · ventaja +11%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 4.20 (+11%) · Paf España 4.20 (+11%)  
+• Forma: maggett0 ➖✅❌➖✅ | Gaga ➖❌✅❌✅  
+• Partidos: maggett0 912 | Gaga 1079  
+• Liga: World Cup B  
+• Unibet: 1 2.48 · X 4.50 · 2 1.93 (sin margen 35%/19%/45%) · ventaja +10%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 4.50 (+10%) · Paf España 4.50 (+10%)  
 
-## pikalicaaa vs Dicca — 06/11 · 16:49
+## Shinobu vs saportj — 06/11 · 17:38
 
-👀 candidata · 🎮⚽ FC 27 · Europa League · **Gana Dicca** @ **2.10** (Unibet) · prob 53% vs casas 41% · ventaja +11%
+👀 candidata · 🎮⚽ FC 27 · A-League · **Empate** @ **5.30** (Unibet) · prob 21% vs casas 16% · ventaja +12%
 
-- ❌ Valor: ventaja +11% (mín. 11% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+- ✅ Valor: ventaja +12% (mín. 11% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 58.408 partidos)  
-Goles esperados: pikalicaaa 2.27 · Dicca 3.00  
-Ganador: pikalicaaa 26% · empate 21% · Dicca 53%  
-Total: más de 5.5 goles 43% · menos 57%  
-Hándicap Dicca: −1.5 36% · −2.5 21%  
+📊 **Escenarios** (Poisson por jugador, 58.439 partidos)  
+Goles esperados: Shinobu 1.98 · saportj 2.24  
+Ganador: Shinobu 30% · empate 21% · saportj 49%  
+Total: más de 4.5 goles 41% · menos 59%  
+Hándicap saportj: −1.5 26% · −2.5 13%  
 🔎 **Claves**  
-• Forma: pikalicaaa ✅➖✅❌✅ | Dicca ➖❌➖➖❌  
-• Partidos: pikalicaaa 596 | Dicca 654  
-• Liga: Europa League  
-• Unibet: 1 2.32 · X 4.10 · 2 2.10 (sin margen 37%/21%/41%) · ventaja +11%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.10 (+11%) · Paf España 2.10 (+11%)  
-
-## ZORO vs Buu — 06/11 · 16:54
-
-👀 candidata · 🎮⚽ FC 27 · International A 2x6 · **Gana ZORO** @ **1.12** (cuota justa (sin casa)) · prob 90% vs casas 90% · ventaja +0%
-
-- ❌ Valor: ventaja +0% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 58.388 partidos)  
-Goles esperados: ZORO 7.49 · Buu 3.40  
-Ganador: ZORO 89% · empate 5% · Buu 6%  
-Total: más de 10.5 goles 52% · menos 48%  
-Hándicap ZORO: −1.5 77% · −2.5 67%  
-🔎 **Claves**  
-• Forma: ZORO ❌✅✅➖✅ | Buu ❌❌✅❌❌  
-• Partidos: ZORO 749 | Buu 688  
-• Liga: International A 2x6  
-• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
+• Forma: Shinobu ✅❌❌❌❌ | saportj ➖❌✅✅❌  
+• Partidos: Shinobu 1257 | saportj 670  
+• Liga: A-League  
+• Unibet: 1 3.50 · X 5.30 · 2 1.47 (sin margen 25%/16%/59%) · ventaja +12%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 5.30 (+12%) · Paf España 5.30 (+12%)  
 
