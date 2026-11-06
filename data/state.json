@@ -1975,7 +1975,10 @@
   "r6|132885",
   "fc|2363719",
   "fc|2365083",
-  "fc|2363717"
+  "fc|2363717",
+  "fc|2363721",
+  "fc|2363723",
+  "fc|2364625"
  ],
  "signals": [
   {
@@ -2752,75 +2755,6 @@
    "captured": "2026-11-03T06:59",
    "version": "7948daf",
    "bajas": "Louisiana Ragin' Cajuns: sin bajas; Akron Zips: sin bajas",
-   "logged": true
-  },
-  {
-   "market": "home",
-   "odds": 1.042,
-   "book": "DraftKings",
-   "p": 0.844,
-   "implied": 0.926,
-   "edge": -0.12,
-   "key": "cbb|2026-11-03|Oregon State Beavers|Weber State Wildcats",
-   "match": "Oregon State Beavers vs Weber State Wildcats",
-   "pick": "Oregon State Beavers",
-   "start": "2026-11-03T02:30Z",
-   "league": "🏀 NCAA Basketball",
-   "sport": "🏀",
-   "context": "Oregon State Beavers vs Weber State Wildcats (🏀 NCAA Basketball, baloncesto). Modelo Elo con 10 años de historial ajustado por bajas: Oregon State Beavers 76%, Weber State Wildcats 24%. Cuotas DraftKings 1.042/13.0, hándicap ORST -17.5, total 158.5. Forma Oregon State Beavers ✅✅❌✅❌, Weber State Wildcats ✅✅✅❌❌. H2H 1 desde 2024: 1-0. Bajas Oregon State Beavers: ninguna. Bajas Weber State Wildcats: ninguna.",
-   "considered": true,
-   "placed": false,
-   "result": true,
-   "score": "102-61",
-   "captured": "2026-11-03T06:59",
-   "version": "7948daf",
-   "bajas": "Oregon State Beavers: sin bajas; Weber State Wildcats: sin bajas",
-   "logged": true
-  },
-  {
-   "market": "home",
-   "odds": 1.01,
-   "book": "DraftKings",
-   "p": 0.974,
-   "implied": 0.968,
-   "edge": -0.016,
-   "key": "cbb|2026-11-03|Utah State Aggies|Idaho State Bengals",
-   "match": "Utah State Aggies vs Idaho State Bengals",
-   "pick": "Utah State Aggies",
-   "start": "2026-11-03T02:30Z",
-   "league": "🏀 NCAA Basketball",
-   "sport": "🏀",
-   "context": "Utah State Aggies vs Idaho State Bengals (🏀 NCAA Basketball, baloncesto). Modelo Elo con 10 años de historial ajustado por bajas: Utah State Aggies 98%, Idaho State Bengals 2%. Cuotas DraftKings 1.01/31.0, hándicap USU -25.5, total 148.5. Forma Utah State Aggies ✅✅✅✅❌, Idaho State Bengals ✅❌❌✅❌. H2H 1 desde 2016: 1-0. Bajas Utah State Aggies: ninguna. Bajas Idaho State Bengals: ninguna.",
-   "considered": true,
-   "placed": false,
-   "result": true,
-   "score": "94-58",
-   "captured": "2026-11-03T06:59",
-   "version": "7948daf",
-   "bajas": "Utah State Aggies: sin bajas; Idaho State Bengals: sin bajas",
-   "logged": true
-  },
-  {
-   "market": "home",
-   "odds": 1.001,
-   "book": "DraftKings",
-   "p": 0.95,
-   "implied": 0.981,
-   "edge": -0.049,
-   "key": "cbb|2026-11-03|Baylor Bears|Northwestern State Demons",
-   "match": "Baylor Bears vs Northwestern State Demons",
-   "pick": "Baylor Bears",
-   "start": "2026-11-03T02:30Z",
-   "league": "🏀 NCAA Basketball",
-   "sport": "🏀",
-   "context": "Baylor Bears vs Northwestern State Demons (🏀 NCAA Basketball, baloncesto). Modelo Elo con 10 años de historial ajustado por bajas: Baylor Bears 92%, Northwestern State Demons 8%. Cuotas DraftKings 1.001/51.0, hándicap BAY -29.5, total 148.5. Forma Baylor Bears ❌✅❌✅❌, Northwestern State Demons ✅✅❌❌❌. H2H 3 desde 2021: 3-0. Bajas Baylor Bears: ninguna. Bajas Northwestern State Demons: ninguna.",
-   "considered": true,
-   "placed": false,
-   "result": true,
-   "score": "87-65",
-   "captured": "2026-11-03T06:59",
-   "version": "7948daf",
-   "bajas": "Baylor Bears: sin bajas; Northwestern State Demons: sin bajas",
    "logged": true
   },
   {
@@ -14780,18 +14714,6 @@
    "start": "2026-11-06T02:30:00+00:00",
    "league": "🔫 R6 Siege · BLAST R6 Major Osaka 2026",
    "sport": "🔫",
-   "info": [
-    "📊 <b>Escenarios</b> (Elo por mapa, 3.339 partidos)",
-    "Mapa: Weibo Gaming 68% · Serie BO1: Weibo Gaming 68% - 32% Dplus",
-    "Casas: Weibo Gaming 60% · Dplus 40%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Elo: Weibo Gaming 1920 (79 series) | Dplus 1791 (92 series)",
-    "• Forma: Weibo Gaming ✅✅✅✅❌ | Dplus ❌✅✅✅✅",
-    "• H2H: 2: 2-0",
-    "• Torneo: BLAST R6 Major Osaka 2026 (nivel S)",
-    "• Cambios de plantilla: ninguno"
-   ],
    "context": "R6 Siege Weibo Gaming vs Dplus, BO1, torneo BLAST R6 Major Osaka 2026 nivel s. Elo por mapa 1920 vs 1791 (prob. mapa 68%, serie 68%). Forma ✅✅✅✅❌ / ❌✅✅✅✅ (✅ victoria ❌ derrota). H2H 2: 2-0. Cambios de plantilla: ninguno. Cuotas Thunderpick 1.55/2.33.",
    "captured": "2026-11-04T14:35",
    "version": "56c50fb",
@@ -23883,7 +23805,11 @@
    "version": "130ecb8",
    "bajas": "Incarnate Word Cardinals: sin bajas; Chicago State Cougars: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "54-66",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "sph",
@@ -23904,7 +23830,11 @@
    "version": "130ecb8",
    "bajas": "Incarnate Word Cardinals: sin bajas; Chicago State Cougars: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "54-66",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "home",
@@ -23924,7 +23854,11 @@
    "version": "130ecb8",
    "bajas": "Incarnate Word Cardinals: sin bajas; Chicago State Cougars: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "54-66",
+   "close_p": 0.7662,
+   "logged": true
   },
   {
    "market": "D",
@@ -26246,7 +26180,11 @@
    "version": "d8ca472",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "1-6",
+   "result": true,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "H",
@@ -26290,7 +26228,11 @@
    "version": "d8ca472",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "2-4",
+   "result": false,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "A",
@@ -26305,19 +26247,6 @@
    "start": "2026-11-06T02:39:00+00:00",
    "league": "🎮⚽ FC 27 · Champions League B",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 57.659 partidos)",
-    "Goles esperados: ssstasonn 1.86 · believer 5.08",
-    "Ganador: ssstasonn 5% · empate 8% · believer 87%",
-    "Total: más de 6.5 goles 54% · menos 46%",
-    "Hándicap believer: −1.5 74% · −2.5 60%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: ssstasonn ❌❌❌❌❌ | believer ✅✅✅✅✅",
-    "• Partidos: ssstasonn 884 | believer 898",
-    "• Liga: Champions League B",
-    "• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta)."
-   ],
    "context": "EA FC Esoccer Battle ssstasonn vs believer (Champions League B): goles esperados 1.86-5.08, 1X2 5%/8%/87%. Sin cuotas de casa.",
    "captured": "2026-11-06T00:42",
    "version": "a757347",
@@ -26343,7 +26272,11 @@
    "version": "a757347",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "5-5",
+   "result": false,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "D",
@@ -26384,19 +26317,6 @@
    "start": "2026-11-06T02:44:00+00:00",
    "league": "🎮⚽ FC 27 · LaLiga 2x6",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 57.683 partidos)",
-    "Goles esperados: Kosta 3.73 · zaha 7.27",
-    "Ganador: Kosta 8% · empate 7% · zaha 85%",
-    "Total: más de 10.5 goles 53% · menos 47%",
-    "Hándicap zaha: −1.5 72% · −2.5 61%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Kosta ➖❌❌❌❌ | zaha ➖✅✅✅✅",
-    "• Partidos: Kosta 242 | zaha 330",
-    "• Liga: LaLiga 2x6",
-    "• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta)."
-   ],
    "context": "EA FC Esoccer Battle Kosta vs zaha (LaLiga 2x6): goles esperados 3.73-7.27, 1X2 8%/7%/85%. Sin cuotas de casa.",
    "captured": "2026-11-06T01:19",
    "version": "c051158",

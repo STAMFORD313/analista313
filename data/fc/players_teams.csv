@@ -57730,16 +57730,16 @@ id,tournament_id,club1,club2,ht1,ht2
 2364764,261031,Man City,B Dortmund,,
 2365083,261031,Arsenal,Man City,,
 2364766,261031,Sporting CP,Juventus,,
-2364287,261006,Germany,Argentina,3,0
-2364288,261006,England,France,1,2
-2364289,261006,France,Germany,0,2
-2364290,261006,Argentina,Spain,3,1
-2364291,261006,Spain,France,1,1
-2364292,261006,Germany,England,1,0
-2364293,261006,England,Spain,2,1
-2364294,261006,France,Argentina,1,0
-2364295,261006,Argentina,England,1,0
-2364296,261006,Spain,Germany,0,0
+2364287,261006,Germany,Argentina,3.0,0.0
+2364288,261006,England,France,1.0,2.0
+2364289,261006,France,Germany,0.0,2.0
+2364290,261006,Argentina,Spain,3.0,1.0
+2364291,261006,Spain,France,1.0,1.0
+2364292,261006,Germany,England,1.0,0.0
+2364293,261006,England,Spain,2.0,1.0
+2364294,261006,France,Argentina,1.0,0.0
+2364295,261006,Argentina,England,1.0,0.0
+2364296,261006,Spain,Germany,0.0,0.0
 2364297,261006,Argentina,Germany,,
 2364298,261006,France,England,,
 2364299,261006,Germany,France,,
@@ -57750,14 +57750,14 @@ id,tournament_id,club1,club2,ht1,ht2
 2364304,261006,Argentina,France,,
 2364305,261006,England,Argentina,,
 2364306,261006,Germany,Spain,,
-2363707,261041,Bayern Munchen,Liverpool,4,0
-2363708,261041,Real Madrid,Paris,1,0
-2363709,261041,Paris,Bayern Munchen,1,1
-2363710,261041,Liverpool,Atleti,2,2
-2363711,261041,Atleti,Paris,1,1
-2363712,261041,Bayern Munchen,Real Madrid,3,2
-2363713,261041,Real Madrid,Atleti,1,0
-2363714,261041,Paris,Liverpool,1,1
+2363707,261041,Bayern Munchen,Liverpool,4.0,0.0
+2363708,261041,Real Madrid,Paris,1.0,0.0
+2363709,261041,Paris,Bayern Munchen,1.0,1.0
+2363710,261041,Liverpool,Atleti,2.0,2.0
+2363711,261041,Atleti,Paris,1.0,1.0
+2363712,261041,Bayern Munchen,Real Madrid,3.0,2.0
+2363713,261041,Real Madrid,Atleti,1.0,0.0
+2363714,261041,Paris,Liverpool,1.0,1.0
 2363715,261041,Liverpool,Real Madrid,,
 2363716,261041,Atleti,Bayern Munchen,,
 2363717,261041,Liverpool,Bayern Munchen,,
@@ -57770,8 +57770,8 @@ id,tournament_id,club1,club2,ht1,ht2
 2363724,261041,Liverpool,Paris,,
 2363725,261041,Real Madrid,Liverpool,,
 2363726,261041,Bayern Munchen,Atleti,,
-2364859,261070,Atleti,Real Madrid,3,2
-2364860,261070,Atleti,Barcelona,1,1
+2364859,261070,Atleti,Real Madrid,3.0,2.0
+2364860,261070,Atleti,Barcelona,1.0,1.0
 2364861,261070,Real Madrid,Barcelona,,
 2364862,261070,Real Madrid,Atleti,,
 2364863,261070,Barcelona,Atleti,,
