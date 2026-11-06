@@ -16,7 +16,10 @@ jobs:
       - run: |
           python - <<'PY'
           import requests, kambi as K, analyst as A
-          ev = sorted(K.esoccer_events("leoes"), key=lambda e: e["start"])[:12]
+          import pandas as pd
+          now = pd.Timestamp.now(tz="UTC") + pd.Timedelta(minutes=8)
+          print("ahora", pd.Timestamp.now(tz="UTC"))
+          ev = sorted((e for e in K.esoccer_events("leoes") if pd.Timestamp(e["start"]) > now), key=lambda e: e["start"])[:16]
           for e in ev:
               r = requests.get(f"https://eu-offering-api.kambicdn.com/offering/v2018/leoes/betoffer/event/{e['id']}.json", params=K.Q, headers=A.UA, timeout=30).json()
               h = (r.get("events") or [{}])[0]
