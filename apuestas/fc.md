@@ -1,42 +1,42 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 06/11/2026 19:22 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 06/11/2026 19:38 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## saportj vs Smetana — 06/11 · 19:34
+## Smetana vs Shinobu — 06/11 · 19:46
 
-👀 candidata · 🎮⚽ FC 27 · Copa America · **Gana Smetana** @ **1.79** (Unibet) · prob 69% vs casas 49% · ventaja +23%
+👀 candidata · 🎮⚽ FC 27 · Copa America · **Gana Smetana** @ **1.41** (Unibet) · prob 76% vs casas 61% · ventaja +7%
 
-- ✅ Valor: ventaja +23% (mín. 14% con la incertidumbre, máx. 30%)
+- ❌ Valor: ventaja +7% (mín. 10% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 58.544 partidos)  
-Goles esperados: saportj 2.25 · Smetana 3.57  
-Ganador: saportj 17% · empate 14% · Smetana 69%  
-Total: más de 5.5 goles 53% · menos 47%  
-Hándicap Smetana: −1.5 46% · −2.5 30%  
+📊 **Escenarios** (Poisson por jugador, 58.557 partidos)  
+Goles esperados: Smetana 4.23 · Shinobu 2.19  
+Ganador: Smetana 76% · empate 11% · Shinobu 13%  
+Total: más de 6.5 goles 46% · menos 54%  
+Hándicap Smetana: −1.5 58% · −2.5 42%  
 🔎 **Claves**  
-• Forma: saportj ➖✅❌➖✅ | Smetana ❌❌➖✅✅  
-• Partidos: saportj 676 | Smetana 1044  
+• Forma: Smetana ❌➖✅✅❌ | Shinobu ➖❌❌❌❌  
+• Partidos: Smetana 1045 | Shinobu 1264  
 • Liga: Copa America  
-• Unibet: 1 2.75 · X 4.50 · 2 1.79 (sin margen 32%/19%/49%) · ventaja +23%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 1.79 (+23%) · Paf España 1.79 (+23%)  
+• Unibet: 1 1.41 · X 5.10 · 2 3.95 (sin margen 61%/17%/22%) · ventaja +7%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 1.41 (+7%) · Paf España 1.41 (+7%)  
 
-## Shinobu vs Loka — 06/11 · 19:34
+## Dicca vs pikalicaaa — 06/11 · 20:19
 
-👀 candidata · 🎮⚽ FC 27 · Copa America · **Gana Loka** @ **1.38** (Unibet) · prob 87% vs casas 63% · ventaja +20%
+👀 candidata · 🎮⚽ FC 27 · Serie A · **Gana Dicca** @ **2.02** (Unibet) · prob 52% vs casas 43% · ventaja +6%
 
-- ✅ Valor: ventaja +20% (mín. 13% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+- ❌ Valor: ventaja +6% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 58.544 partidos)  
-Goles esperados: Shinobu 2.04 · Loka 5.27  
-Ganador: Shinobu 6% · empate 7% · Loka 87%  
-Total: más de 7.5 goles 45% · menos 55%  
-Hándicap Loka: −1.5 74% · −2.5 60%  
+📊 **Escenarios** (Poisson por jugador, 58.557 partidos)  
+Goles esperados: Dicca 3.00 · pikalicaaa 2.21  
+Ganador: Dicca 53% · empate 20% · pikalicaaa 27%  
+Total: más de 5.5 goles 42% · menos 58%  
+Hándicap Dicca: −1.5 37% · −2.5 22%  
 🔎 **Claves**  
-• Forma: Shinobu ➖❌❌❌❌ | Loka ✅✅✅✅✅  
-• Partidos: Shinobu 1264 | Loka 1116  
-• Liga: Copa America  
-• Unibet: 1 4.20 · X 5.20 · 2 1.38 (sin margen 21%/17%/63%) · ventaja +20%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 1.38 (+21%) · Paf España 1.38 (+21%)  
+• Forma: Dicca ✅➖✅❌✅ | pikalicaaa ❌➖❌❌✅  
+• Partidos: Dicca 664 | pikalicaaa 606  
+• Liga: Serie A  
+• Unibet: 1 2.02 · X 4.25 · 2 2.38 (sin margen 43%/20%/37%) · ventaja +6%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.02 (+6%) · Paf España 2.02 (+6%)  
 

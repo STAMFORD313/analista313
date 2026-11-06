@@ -1,24 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 06/11/2026 19:22 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## SK Rapid vs Wolfsberger AC — 06/11 · 19:30
-
-👀 candidata · 🇦🇹 Bundesliga · **Gana SK Rapid** @ **1.22** (Bet365) · prob 79% vs casas 79% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.82 - 1.11)  
-1 60% · X 23% · 2 18%  
-1X 82% · X2 40% · 12 77%  
-+1.5 80% · +2.5 56% · +3.5 34% · Ambos marcan 57%  
-Marcadores: 1-1 11% · 2-1 10% · 1-0 9% · 2-0 9%  
-🔎 **Claves**  
-• Forma: SK Rapid ✅✅✅✅✅ | Wolfsberger AC ❌❌❌❌➖  
-• H2H: 49 desde 2012: 20V-12E-17D · 3.2 goles/partido · +2.5 en 69%  
-• Bajas: SK Rapid: sin bajas; Wolfsberger AC: sin bajas  
-• Favorito de las casas: SK Rapid @ 1.22  
+Actualizado 06/11/2026 19:38 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Boulogne vs Annecy — 06/11 · 20:00
 
