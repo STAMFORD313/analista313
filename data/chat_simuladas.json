@@ -954,7 +954,9 @@
      "who": "a",
      "line": 2.5,
      "s": "U"
-    }
+    },
+    "ok": true,
+    "por": "Ganger_29 marcó 1 (6-1)"
    },
    {
     "src": "fc",
@@ -970,7 +972,9 @@
      "who": null,
      "line": 5.5,
      "s": "U"
-    }
+    },
+    "ok": false,
+    "por": "hubo 8 goles (7-1)"
    },
    {
     "src": "fc",
@@ -986,14 +990,16 @@
      "who": "a",
      "line": 1.5,
      "s": "O"
-    }
+    },
+    "ok": false,
+    "por": "mko1919 marcó 0 (1-0)"
    }
   ],
   "odds": 7.02,
   "p": 0.1286103556743369,
   "stake": 1.0,
-  "estado": "pendiente",
-  "avisada": false,
-  "rev": 1
+  "estado": "perdida",
+  "avisada": true,
+  "rev": 2
  }
 ]
