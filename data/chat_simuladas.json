@@ -1021,7 +1021,9 @@
      "who": "a",
      "line": 2.5,
      "s": "U"
-    }
+    },
+    "ok": true,
+    "por": "Ganger_29 marcó 1 (6-1)"
    },
    {
     "src": "fc",
@@ -1037,14 +1039,16 @@
      "who": null,
      "line": 5.5,
      "s": "U"
-    }
+    },
+    "ok": false,
+    "por": "hubo 8 goles (7-1)"
    }
   ],
   "odds": 4.5,
   "p": 0.21027650431840417,
   "stake": 1.0,
-  "estado": "pendiente",
-  "avisada": false,
-  "rev": 1
+  "estado": "perdida",
+  "avisada": true,
+  "rev": 2
  }
 ]
