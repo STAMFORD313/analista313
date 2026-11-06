@@ -115,11 +115,22 @@ def recent(df, nick, n=10):
     return {"gf": sum(gf) / len(gf), "ga": sum(ga) / len(ga), "n": len(d)}
 
 
-def coherent(mk, s, r1, r2):
+def h2h(df, a, b, n=8):
+    """Últimos `n` cara a cara entre `a` y `b` (goles de a, goles de b), o None si hay menos de 4."""
+    d = df[((df.p1 == a) & (df.p2 == b)) | ((df.p1 == b) & (df.p2 == a))].tail(n)
+    if len(d) < 4: return None
+    return [(r.s1, r.s2) if r.p1 == a else (r.s2, r.s1) for r in d.itertuples()]
+
+
+def coherent(mk, s, r1, r2, h=None):
     """¿La pierna cuadra con lo que hace cada jugador últimamente? (r1/r2 = recent() del local/visitante de Kambi).
     «Menos» solo con margen claro (≥ 1 gol por debajo de la línea) y nunca en goles de un jugador goleador (≥ 3 de media)
     ni si él mismo marca cerca de la línea; «más» con al menos medio gol de margen."""
     if not (r1 and r2): return False
+    if h and mk["k"] in ("tot", "ptot"):  # los cara a cara no deben llevar la contraria (backtest: si la contradicen, acierta ~55 % en vez de ~75 %)
+        g = [x + y for x, y in h] if mk["k"] == "tot" else [x if mk["who"] == "h" else y for x, y in h]
+        m = sum(g) / len(g)
+        if (s == "O" and m <= mk["line"]) or (s == "U" and m >= mk["line"]): return False
     e1, e2 = (r1["gf"] + r2["ga"]) / 2, (r2["gf"] + r1["ga"]) / 2  # goles que suele haber de cada uno en este cruce
     if mk["k"] == "tot": t = e1 + e2; return t >= mk["line"] + 0.5 if s == "O" else t <= mk["line"] - 1.0
     if mk["k"] == "ptot":
@@ -183,6 +194,7 @@ def candidates(hours=3, push=True):
         best = None
         banned = lessons()
         r1, r2 = recent(df, g["p2"] if swap else g["p1"]), recent(df, g["p1"] if swap else g["p2"])  # orden de Kambi
+        hh = h2h(df, g["p2"] if swap else g["p1"], g["p1"] if swap else g["p2"])
         for mk in mks:
             inv = {s: 1 / o for s, o in mk["odds"].items()}; t = sum(inv.values())
             for s, o in mk["odds"].items():
@@ -191,7 +203,7 @@ def candidates(hours=3, push=True):
                 log.append({"seen": now.isoformat(), "id": g["id"], "start": g["date"], "p1": g["p1"], "p2": g["p2"], "liga": g["league"], "kh": hn,
                             "k": mk["k"], "who": mk["who"], "line": mk["line"], "s": s, "odds": o, "p_modelo": round(pm, 4), "p_casa": round(pc, 4)})
                 if not (P_MIN <= q <= P_MAX): continue
-                if not (pm >= 0.5 and pc >= 0.45 and coherent(mk, s, r1, r2)): continue
+                if not (pm >= 0.5 and pc >= 0.45 and coherent(mk, s, r1, r2, hh)): continue
                 if (mk["k"], s) in banned: continue  # este tipo de pierna ya ha fallado más de lo esperado  # con lógica: modelo, casa y medias de acuerdo
                 c = (q * o - 1, q, o, mk, s, pm, pc)
                 if best is None or c[0] > best[0]: best = c

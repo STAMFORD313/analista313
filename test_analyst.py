@@ -1604,6 +1604,12 @@ assert _FCC.coherent({"k": "tot", "line": 4.5}, "O", _rA, _rB) and not _FCC.cohe
 assert not _FCC.coherent({"k": "ptot", "who": "h", "line": 4.5}, "U", {"gf": 3.9, "ga": 3.4, "n": 10}, {"gf": 4.0, "ga": 4.0, "n": 10})  # goleador: nunca «menos»
 assert _FCC.coherent({"k": "ptot", "who": "h", "line": 3.5}, "U", {"gf": 1.2, "ga": 2.0, "n": 10}, {"gf": 2.0, "ga": 1.5, "n": 10})
 assert not _FCC.coherent({"k": "tot", "line": 5.5}, "O", None, _rB)
+# cara a cara: si en sus últimos duelos salen pocos goles, nada de «más» aunque las medias digan que sí
+assert not _FCC.coherent({"k": "tot", "line": 4.5}, "O", _rA, _rB, [(1, 2), (2, 1), (0, 3), (2, 2)])
+assert _FCC.coherent({"k": "tot", "line": 4.5}, "O", _rA, _rB, [(4, 2), (3, 3), (2, 4), (5, 1)])
+assert not _FCC.coherent({"k": "ptot", "who": "h", "line": 2.5}, "O", _rA, _rB, [(1, 4), (2, 3), (1, 1), (3, 2)])
+_hd = pd.DataFrame({"p1": ["a", "b", "a", "b", "c"], "p2": ["b", "a", "b", "a", "a"], "s1": [1, 2, 3, 4, 9], "s2": [5, 6, 7, 8, 9]})
+assert _FCC.h2h(_hd, "a", "b") == [(1, 5), (6, 2), (3, 7), (8, 4)] and _FCC.h2h(_hd, "a", "c") is None
 print("ok combinada FC 27 con lógica")
 
 _fs0 = A.DATA / "chat_simuladas.json"; _bk = _fs0.read_text() if _fs0.exists() else None
