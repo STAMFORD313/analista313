@@ -466,7 +466,9 @@
     "away": "BRUTE SQ",
     "txt": "Gana BRUTE SQ",
     "odds": 2.1,
-    "p": 0.5250603174603174
+    "p": 0.5250603174603174,
+    "ok": false,
+    "por": "acabó 2-1"
    },
    {
     "src": "esports:dota2",
@@ -494,9 +496,9 @@
   "odds": 7.19,
   "p": 0.18198582351506165,
   "stake": 1.0,
-  "estado": "pendiente",
-  "avisada": false,
-  "rev": 1
+  "estado": "perdida",
+  "avisada": true,
+  "rev": 2
  },
  {
   "id": "20261105111952661776",
@@ -521,7 +523,9 @@
     "away": "BRUTE SQ",
     "txt": "Gana BRUTE SQ",
     "odds": 2.1,
-    "p": 0.5250603174603174
+    "p": 0.5250603174603174,
+    "ok": false,
+    "por": "acabó 2-1"
    },
    {
     "src": "esports:cs2",
@@ -538,9 +542,9 @@
   "odds": 10.98,
   "p": 0.1194893746416508,
   "stake": 1.0,
-  "estado": "pendiente",
-  "avisada": false,
-  "rev": 1
+  "estado": "perdida",
+  "avisada": true,
+  "rev": 2
  },
  {
   "id": "20261105165516575438",
