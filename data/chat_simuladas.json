@@ -1001,5 +1001,50 @@
   "estado": "perdida",
   "avisada": true,
   "rev": 2
+ },
+ {
+  "id": "20261106100804648822",
+  "creada": "2026-11-06 10:08:04.648908+00:00",
+  "titulo": "Combinada FC 27 cuota 4.5",
+  "legs": [
+   {
+    "src": "fc",
+    "side": null,
+    "home": "Taz",
+    "away": "Ganger_29",
+    "start": "2026-11-06 10:12:00+00:00",
+    "txt": "Menos de 2.5 goles de Ganger_29",
+    "odds": 2.25,
+    "p": 0.4376,
+    "fc": {
+     "k": "ptot",
+     "who": "a",
+     "line": 2.5,
+     "s": "U"
+    }
+   },
+   {
+    "src": "fc",
+    "side": null,
+    "home": "Lumix",
+    "away": "Maxa",
+    "start": "2026-11-06 10:12:00+00:00",
+    "txt": "Menos de 5.5 goles",
+    "odds": 2.0,
+    "p": 0.4806,
+    "fc": {
+     "k": "tot",
+     "who": null,
+     "line": 5.5,
+     "s": "U"
+    }
+   }
+  ],
+  "odds": 4.5,
+  "p": 0.21027650431840417,
+  "stake": 1.0,
+  "estado": "pendiente",
+  "avisada": false,
+  "rev": 1
  }
 ]
