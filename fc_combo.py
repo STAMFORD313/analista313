@@ -108,7 +108,7 @@ def judge(leg, hs, as_):
     return None, "pierna no reconocida"
 
 
-def recent(df, nick, n=10):
+def recent(df, nick, n=30):  # 30 > 10: backtest MSE goles −0.17 ±0.02
     """Media de goles a favor, en contra y totales del jugador en sus últimos `n` partidos (None si no hay)."""
     d = df[(df.p1 == nick) | (df.p2 == nick)].tail(n)
     if len(d) < 3: return None
