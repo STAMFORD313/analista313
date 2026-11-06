@@ -1,61 +1,58 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 05/11/2026 23:33 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 06/11/2026 01:16 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## ssstasonn vs kkikus — 05/11 · 23:43
+## believer vs ssstasonn — 06/11 · 02:39
 
-👀 candidata · 🎮⚽ FC 27 · World Cup A · **Empate** @ **5.40** (Unibet) · prob 22% vs casas 16% · ventaja +17%
+👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana believer** @ **1.15** (cuota justa (sin casa)) · prob 87% vs casas 87% · ventaja +0%
 
-- ✅ Valor: ventaja +17% (mín. 12% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
+- ❌ Valor: ventaja +0% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 57.565 partidos)  
-Goles esperados: ssstasonn 2.62 · kkikus 2.93  
-Ganador: ssstasonn 34% · empate 22% · kkikus 45%  
-Total: más de 5.5 goles 48% · menos 52%  
-Hándicap kkikus: −1.5 30% · −2.5 17%  
+📊 **Escenarios** (Poisson por jugador, 57.637 partidos)  
+Goles esperados: believer 5.07 · ssstasonn 1.88  
+Ganador: believer 87% · empate 8% · ssstasonn 5%  
+Total: más de 6.5 goles 54% · menos 46%  
+Hándicap believer: −1.5 74% · −2.5 59%  
 🔎 **Claves**  
-• Forma: ssstasonn ❌✅✅❌❌ | kkikus ❌❌❌❌✅  
-• Partidos: ssstasonn 876 | kkikus 902  
-• Liga: World Cup A  
-• Unibet: 1 2.35 · X 5.40 · 2 1.89 (sin margen 37%/16%/46%) · ventaja +17%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 5.40 (+17%) · Paf España 5.40 (+17%)  
+• Forma: believer ❌✅✅✅✅ | ssstasonn ✅❌❌❌❌  
+• Partidos: believer 895 | ssstasonn 882  
+• Liga: Champions League B  
+• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
 
-## Inquisitor vs Kray — 05/11 · 23:58
+## zaha vs Kosta — 06/11 · 02:50
 
-👀 candidata · 🎮⚽ FC 27 · Portugal Primera · **Empate** @ **5.40** (Unibet) · prob 21% vs casas 16% · ventaja +13%
+👀 candidata · 🎮⚽ FC 27 · LaLiga 2x6 · **Gana zaha** @ **1.21** (cuota justa (sin casa)) · prob 83% vs casas 83% · ventaja +0%
 
-- ✅ Valor: ventaja +13% (mín. 11% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
+- ❌ Valor: ventaja +0% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 57.565 partidos)  
-Goles esperados: Inquisitor 3.03 · Kray 2.92  
-Ganador: Inquisitor 42% · empate 21% · Kray 37%  
-Total: más de 5.5 goles 55% · menos 45%  
-Hándicap Inquisitor: −1.5 28% · −2.5 16%  
+📊 **Escenarios** (Poisson por jugador, 57.637 partidos)  
+Goles esperados: zaha 7.10 · Kosta 3.78  
+Ganador: zaha 83% · empate 7% · Kosta 10%  
+Total: más de 10.5 goles 52% · menos 48%  
+Hándicap zaha: −1.5 70% · −2.5 59%  
 🔎 **Claves**  
-• Forma: Inquisitor ✅✅✅✅❌ | Kray ✅➖❌✅❌  
-• Partidos: Inquisitor 557 | Kray 557  
-• Liga: Portugal Primera  
-• Unibet: 1 1.98 · X 5.40 · 2 2.23 (sin margen 44%/16%/39%) · ventaja +13%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 5.40 (+13%) · Paf España 5.40 (+13%)  
+• Forma: zaha ✅✅➖➖✅ | Kosta ❌✅➖❌❌  
+• Partidos: zaha 327 | Kosta 240  
+• Liga: LaLiga 2x6  
+• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
 
-## kkikus vs Simaponika — 06/11 · 00:17
+## fantazer vs Yerema — 06/11 · 02:58
 
-👀 candidata · 🎮⚽ FC 27 · Serie A · **Empate** @ **6.10** (Unibet) · prob 20% vs casas 14% · ventaja +22%
+👀 candidata · 🎮⚽ FC 27 · Volta International A · **Gana fantazer** @ **1.19** (cuota justa (sin casa)) · prob 84% vs casas 84% · ventaja +0%
 
-- ✅ Valor: ventaja +22% (mín. 14% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
+- ❌ Valor: ventaja +0% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 57.565 partidos)  
-Goles esperados: kkikus 2.11 · Simaponika 2.90  
-Ganador: kkikus 23% · empate 20% · Simaponika 57%  
-Total: más de 5.5 goles 39% · menos 61%  
-Hándicap Simaponika: −1.5 37% · −2.5 21%  
+📊 **Escenarios** (Poisson por jugador, 57.637 partidos)  
+Goles esperados: fantazer 4.67 · Yerema 2.00  
+Ganador: fantazer 84% · empate 8% · Yerema 8%  
+Total: más de 6.5 goles 50% · menos 50%  
+Hándicap fantazer: −1.5 67% · −2.5 52%  
 🔎 **Claves**  
-• Forma: kkikus ❌❌❌❌✅ | Simaponika ❌❌❌❌✅  
-• Partidos: kkikus 902 | Simaponika 1062  
-• Liga: Serie A  
-• Unibet: 1 3.20 · X 6.10 · 2 1.49 (sin margen 27%/14%/58%) · ventaja +22%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 6.10 (+22%) · Paf España 6.10 (+22%)  
+• Forma: fantazer ❌❌✅✅✅ | Yerema ➖✅❌✅✅  
+• Partidos: fantazer 1394 | Yerema 569  
+• Liga: Volta International A  
+• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
 
