@@ -1186,5 +1186,38 @@
   "estado": "ganada",
   "avisada": true,
   "rev": 2
+ },
+ {
+  "id": "20261106130220932166",
+  "creada": "2026-11-06 13:02:20.932196+00:00",
+  "titulo": "Barrido · Combinada cuota 5.4",
+  "legs": [
+   {
+    "code": null,
+    "start": "2026-11-06 19:00:00+00:00",
+    "home": "FC Eindhoven",
+    "away": "Jong Ajax",
+    "txt": "Gana FC Eindhoven",
+    "odds": 2.39,
+    "p": 0.441
+   },
+   {
+    "src": "espn:nba",
+    "side": "H",
+    "code": null,
+    "start": "2026-11-07 00:30:00+00:00",
+    "home": "Cleveland Cavaliers",
+    "away": "Philadelphia 76ers",
+    "txt": "Gana Cleveland Cavaliers",
+    "odds": 2.24,
+    "p": 0.46241
+   }
+  ],
+  "odds": 5.35,
+  "p": 0.20392280999999998,
+  "stake": 1.0,
+  "estado": "pendiente",
+  "avisada": false,
+  "rev": 1
  }
 ]
