@@ -58678,3 +58678,13 @@ id,tournament_id,club1,club2,ht1,ht2
 2366151,261113,Man City,Liverpool,,
 2366152,261113,Arsenal,Man City,,
 2366153,261113,Tottenham,Chelsea,,
+2365562,261138,Ecuador,Argentina,2,3
+2365563,261138,Colombia,Brazil,0,3
+2365564,261138,Brazil,Ecuador,3,0
+2365565,261138,Argentina,Uruguay,0,1
+2365566,261138,Uruguay,Brazil,1,3
+2365567,261138,Ecuador,Colombia,0,2
+2365568,261138,Colombia,Uruguay,1,0
+2365569,261138,Brazil,Argentina,0,0
+2365570,261138,Argentina,Colombia,,
+2365571,261138,Uruguay,Ecuador,,

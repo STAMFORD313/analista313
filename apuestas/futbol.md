@@ -1,188 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 06/11/2026 21:38 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Famalicao vs Arouca — 06/11 · 21:45
-
-👀 candidata · 🇵🇹 Primeira Liga · **Gana Arouca** @ **3.40** (Paddy Power) · prob 30% vs casas 30% · ventaja +1%
-
-- ❌ Valor: ventaja +1% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.44 - 0.98)  
-1 43% · X 30% · 2 27%  
-1X 73% · X2 57% · 12 70%  
-+1.5 70% · +2.5 44% · +3.5 23% · Ambos marcan 48%  
-Marcadores: 1-1 13% · 1-0 12% · 0-0 10% · 2-0 9%  
-🔎 **Claves**  
-• Forma: Famalicao ➖✅❌✅❌ | Arouca ❌➖✅✅✅  
-• H2H: 10 desde 2021: 3V-3E-4D · 2.1 goles/partido · +2.5 en 40%  
-• Bajas: Famalicao: 1 fuera, 0 duda (Rodrigo Pinheiro); Arouca: 1 fuera, 1 duda (Jose Fontan)  
-• Favorito de las casas: Famalicao @ 2.30  
-📐 **Estadísticas esperadas**  
-Córners 5.5 - 3.8: total +9.5 45% · Famalicao +5.5 45% · Arouca +4.5 34%  
-Tarjetas 2.5 - 2.9: total +5.5 45% · Famalicao +2.5 45% · Arouca +2.5 56%  
-Faltas 12.2 - 14.7: total +26.5 51% · Famalicao +13.5 35% · Arouca +13.5 60%  
-Tiros a puerta 4.3 - 3.3: total +8.5 35% · Famalicao +4.5 42% · Arouca +3.5 42%  
-🧩 Crear apuesta: Menos de 4.5 córners de Arouca + Menos de 13.5 faltas de Famalicao + Menos de 8.5 tiros a puerta → prob. 27%, cuota justa 3.64 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 córners de Arouca + Menos de 13.5 faltas de Famalicao + Menos de 8.5 tiros a puerta + Menos de 2.5 goles + Más de 2.5 tarjetas de Arouca → prob. 10%, cuota justa 9.82  
-🎯 No simulada (con cuota: Menos de 4.5 córners de Arouca + Menos de 2.5 goles): cuota Unibet aprox. 2.47 (producto de piernas) · prob. 37% · ventaja -9%  
-
-## Famalicao vs Arouca — 06/11 · 21:45
-
-👀 candidata · 🇵🇹 Primeira Liga · **Más de 4.5 córners de Famalicao** @ **1.60** (Unibet) · prob 58% vs casas 57% · ventaja -7%
-
-- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.44 - 0.98)  
-1 43% · X 30% · 2 27%  
-1X 73% · X2 57% · 12 70%  
-+1.5 70% · +2.5 44% · +3.5 23% · Ambos marcan 48%  
-Marcadores: 1-1 13% · 1-0 12% · 0-0 10% · 2-0 9%  
-🔎 **Claves**  
-• Forma: Famalicao ➖✅❌✅❌ | Arouca ❌➖✅✅✅  
-• H2H: 10 desde 2021: 3V-3E-4D · 2.1 goles/partido · +2.5 en 40%  
-• Bajas: Famalicao: 1 fuera, 0 duda (Rodrigo Pinheiro); Arouca: 1 fuera, 1 duda (Jose Fontan)  
-• Favorito de las casas: Famalicao @ 2.30  
-📐 **Estadísticas esperadas**  
-Córners 5.5 - 3.8: total +9.5 45% · Famalicao +5.5 45% · Arouca +4.5 34%  
-Tarjetas 2.5 - 2.9: total +5.5 45% · Famalicao +2.5 45% · Arouca +2.5 56%  
-Faltas 12.2 - 14.7: total +26.5 51% · Famalicao +13.5 35% · Arouca +13.5 60%  
-Tiros a puerta 4.3 - 3.3: total +8.5 35% · Famalicao +4.5 42% · Arouca +3.5 42%  
-🧩 Crear apuesta: Menos de 4.5 córners de Arouca + Menos de 13.5 faltas de Famalicao + Menos de 8.5 tiros a puerta → prob. 27%, cuota justa 3.64 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 córners de Arouca + Menos de 13.5 faltas de Famalicao + Menos de 8.5 tiros a puerta + Menos de 2.5 goles + Más de 2.5 tarjetas de Arouca → prob. 10%, cuota justa 9.82  
-🎯 No simulada (con cuota: Menos de 4.5 córners de Arouca + Menos de 2.5 goles): cuota Unibet aprox. 2.47 (producto de piernas) · prob. 37% · ventaja -9%  
-
-## Famalicao vs Arouca — 06/11 · 21:45
-
-👀 candidata · 🇵🇹 Primeira Liga · **Menos de 6.5 córners de Famalicao** @ **1.36** (Unibet) · prob 68% vs casas 67% · ventaja -8%
-
-- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.44 - 0.98)  
-1 43% · X 30% · 2 27%  
-1X 73% · X2 57% · 12 70%  
-+1.5 70% · +2.5 44% · +3.5 23% · Ambos marcan 48%  
-Marcadores: 1-1 13% · 1-0 12% · 0-0 10% · 2-0 9%  
-🔎 **Claves**  
-• Forma: Famalicao ➖✅❌✅❌ | Arouca ❌➖✅✅✅  
-• H2H: 10 desde 2021: 3V-3E-4D · 2.1 goles/partido · +2.5 en 40%  
-• Bajas: Famalicao: 1 fuera, 0 duda (Rodrigo Pinheiro); Arouca: 1 fuera, 1 duda (Jose Fontan)  
-• Favorito de las casas: Famalicao @ 2.30  
-📐 **Estadísticas esperadas**  
-Córners 5.5 - 3.8: total +9.5 45% · Famalicao +5.5 45% · Arouca +4.5 34%  
-Tarjetas 2.5 - 2.9: total +5.5 45% · Famalicao +2.5 45% · Arouca +2.5 56%  
-Faltas 12.2 - 14.7: total +26.5 51% · Famalicao +13.5 35% · Arouca +13.5 60%  
-Tiros a puerta 4.3 - 3.3: total +8.5 35% · Famalicao +4.5 42% · Arouca +3.5 42%  
-🧩 Crear apuesta: Menos de 4.5 córners de Arouca + Menos de 13.5 faltas de Famalicao + Menos de 8.5 tiros a puerta → prob. 27%, cuota justa 3.64 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 córners de Arouca + Menos de 13.5 faltas de Famalicao + Menos de 8.5 tiros a puerta + Menos de 2.5 goles + Más de 2.5 tarjetas de Arouca → prob. 10%, cuota justa 9.82  
-🎯 No simulada (con cuota: Menos de 4.5 córners de Arouca + Menos de 2.5 goles): cuota Unibet aprox. 2.47 (producto de piernas) · prob. 37% · ventaja -9%  
-
-## Famalicao vs Arouca — 06/11 · 21:45
-
-👀 candidata · 🇵🇹 Primeira Liga · **Más de 3.5 córners de Arouca** @ **1.68** (Unibet) · prob 52% vs casas 54% · ventaja -12%
-
-- ❌ Valor: ventaja -12% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.44 - 0.98)  
-1 43% · X 30% · 2 27%  
-1X 73% · X2 57% · 12 70%  
-+1.5 70% · +2.5 44% · +3.5 23% · Ambos marcan 48%  
-Marcadores: 1-1 13% · 1-0 12% · 0-0 10% · 2-0 9%  
-🔎 **Claves**  
-• Forma: Famalicao ➖✅❌✅❌ | Arouca ❌➖✅✅✅  
-• H2H: 10 desde 2021: 3V-3E-4D · 2.1 goles/partido · +2.5 en 40%  
-• Bajas: Famalicao: 1 fuera, 0 duda (Rodrigo Pinheiro); Arouca: 1 fuera, 1 duda (Jose Fontan)  
-• Favorito de las casas: Famalicao @ 2.30  
-📐 **Estadísticas esperadas**  
-Córners 5.5 - 3.8: total +9.5 45% · Famalicao +5.5 45% · Arouca +4.5 34%  
-Tarjetas 2.5 - 2.9: total +5.5 45% · Famalicao +2.5 45% · Arouca +2.5 56%  
-Faltas 12.2 - 14.7: total +26.5 51% · Famalicao +13.5 35% · Arouca +13.5 60%  
-Tiros a puerta 4.3 - 3.3: total +8.5 35% · Famalicao +4.5 42% · Arouca +3.5 42%  
-🧩 Crear apuesta: Menos de 4.5 córners de Arouca + Menos de 13.5 faltas de Famalicao + Menos de 8.5 tiros a puerta → prob. 27%, cuota justa 3.64 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 córners de Arouca + Menos de 13.5 faltas de Famalicao + Menos de 8.5 tiros a puerta + Menos de 2.5 goles + Más de 2.5 tarjetas de Arouca → prob. 10%, cuota justa 9.82  
-🎯 No simulada (con cuota: Menos de 4.5 córners de Arouca + Menos de 2.5 goles): cuota Unibet aprox. 2.47 (producto de piernas) · prob. 37% · ventaja -9%  
-
-## Famalicao vs Arouca — 06/11 · 21:45
-
-👀 candidata · 🇵🇹 Primeira Liga · **Menos de 3.5 córners de Arouca** @ **2.00** (Unibet) · prob 48% vs casas 46% · ventaja -5%
-
-- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.44 - 0.98)  
-1 43% · X 30% · 2 27%  
-1X 73% · X2 57% · 12 70%  
-+1.5 70% · +2.5 44% · +3.5 23% · Ambos marcan 48%  
-Marcadores: 1-1 13% · 1-0 12% · 0-0 10% · 2-0 9%  
-🔎 **Claves**  
-• Forma: Famalicao ➖✅❌✅❌ | Arouca ❌➖✅✅✅  
-• H2H: 10 desde 2021: 3V-3E-4D · 2.1 goles/partido · +2.5 en 40%  
-• Bajas: Famalicao: 1 fuera, 0 duda (Rodrigo Pinheiro); Arouca: 1 fuera, 1 duda (Jose Fontan)  
-• Favorito de las casas: Famalicao @ 2.30  
-📐 **Estadísticas esperadas**  
-Córners 5.5 - 3.8: total +9.5 45% · Famalicao +5.5 45% · Arouca +4.5 34%  
-Tarjetas 2.5 - 2.9: total +5.5 45% · Famalicao +2.5 45% · Arouca +2.5 56%  
-Faltas 12.2 - 14.7: total +26.5 51% · Famalicao +13.5 35% · Arouca +13.5 60%  
-Tiros a puerta 4.3 - 3.3: total +8.5 35% · Famalicao +4.5 42% · Arouca +3.5 42%  
-🧩 Crear apuesta: Menos de 4.5 córners de Arouca + Menos de 13.5 faltas de Famalicao + Menos de 8.5 tiros a puerta → prob. 27%, cuota justa 3.64 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 córners de Arouca + Menos de 13.5 faltas de Famalicao + Menos de 8.5 tiros a puerta + Menos de 2.5 goles + Más de 2.5 tarjetas de Arouca → prob. 10%, cuota justa 9.82  
-🎯 No simulada (con cuota: Menos de 4.5 córners de Arouca + Menos de 2.5 goles): cuota Unibet aprox. 2.47 (producto de piernas) · prob. 37% · ventaja -9%  
-
-## Famalicao vs Arouca — 06/11 · 21:45
-
-👀 candidata · 🇵🇹 Primeira Liga · **Más de 7.5 córners** @ **1.34** (Unibet) · prob 69% vs casas 68% · ventaja -8%
-
-- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.44 - 0.98)  
-1 43% · X 30% · 2 27%  
-1X 73% · X2 57% · 12 70%  
-+1.5 70% · +2.5 44% · +3.5 23% · Ambos marcan 48%  
-Marcadores: 1-1 13% · 1-0 12% · 0-0 10% · 2-0 9%  
-🔎 **Claves**  
-• Forma: Famalicao ➖✅❌✅❌ | Arouca ❌➖✅✅✅  
-• H2H: 10 desde 2021: 3V-3E-4D · 2.1 goles/partido · +2.5 en 40%  
-• Bajas: Famalicao: 1 fuera, 0 duda (Rodrigo Pinheiro); Arouca: 1 fuera, 1 duda (Jose Fontan)  
-• Favorito de las casas: Famalicao @ 2.30  
-📐 **Estadísticas esperadas**  
-Córners 5.5 - 3.8: total +9.5 45% · Famalicao +5.5 45% · Arouca +4.5 34%  
-Tarjetas 2.5 - 2.9: total +5.5 45% · Famalicao +2.5 45% · Arouca +2.5 56%  
-Faltas 12.2 - 14.7: total +26.5 51% · Famalicao +13.5 35% · Arouca +13.5 60%  
-Tiros a puerta 4.3 - 3.3: total +8.5 35% · Famalicao +4.5 42% · Arouca +3.5 42%  
-🧩 Crear apuesta: Menos de 4.5 córners de Arouca + Menos de 13.5 faltas de Famalicao + Menos de 8.5 tiros a puerta → prob. 27%, cuota justa 3.64 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 córners de Arouca + Menos de 13.5 faltas de Famalicao + Menos de 8.5 tiros a puerta + Menos de 2.5 goles + Más de 2.5 tarjetas de Arouca → prob. 10%, cuota justa 9.82  
-🎯 No simulada (con cuota: Menos de 4.5 córners de Arouca + Menos de 2.5 goles): cuota Unibet aprox. 2.47 (producto de piernas) · prob. 37% · ventaja -9%  
-
-## Famalicao vs Arouca — 06/11 · 21:45
-
-👀 candidata · 🇵🇹 Primeira Liga · **Menos de 10.5 córners** @ **1.47** (Unibet) · prob 64% vs casas 62% · ventaja -5%
-
-- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.44 - 0.98)  
-1 43% · X 30% · 2 27%  
-1X 73% · X2 57% · 12 70%  
-+1.5 70% · +2.5 44% · +3.5 23% · Ambos marcan 48%  
-Marcadores: 1-1 13% · 1-0 12% · 0-0 10% · 2-0 9%  
-🔎 **Claves**  
-• Forma: Famalicao ➖✅❌✅❌ | Arouca ❌➖✅✅✅  
-• H2H: 10 desde 2021: 3V-3E-4D · 2.1 goles/partido · +2.5 en 40%  
-• Bajas: Famalicao: 1 fuera, 0 duda (Rodrigo Pinheiro); Arouca: 1 fuera, 1 duda (Jose Fontan)  
-• Favorito de las casas: Famalicao @ 2.30  
-📐 **Estadísticas esperadas**  
-Córners 5.5 - 3.8: total +9.5 45% · Famalicao +5.5 45% · Arouca +4.5 34%  
-Tarjetas 2.5 - 2.9: total +5.5 45% · Famalicao +2.5 45% · Arouca +2.5 56%  
-Faltas 12.2 - 14.7: total +26.5 51% · Famalicao +13.5 35% · Arouca +13.5 60%  
-Tiros a puerta 4.3 - 3.3: total +8.5 35% · Famalicao +4.5 42% · Arouca +3.5 42%  
-🧩 Crear apuesta: Menos de 4.5 córners de Arouca + Menos de 13.5 faltas de Famalicao + Menos de 8.5 tiros a puerta → prob. 27%, cuota justa 3.64 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 córners de Arouca + Menos de 13.5 faltas de Famalicao + Menos de 8.5 tiros a puerta + Menos de 2.5 goles + Más de 2.5 tarjetas de Arouca → prob. 10%, cuota justa 9.82  
-🎯 No simulada (con cuota: Menos de 4.5 córners de Arouca + Menos de 2.5 goles): cuota Unibet aprox. 2.47 (producto de piernas) · prob. 37% · ventaja -9%  
+Actualizado 06/11/2026 22:09 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Independiente vs Dep. Riestra — 06/11 · 23:15
 
@@ -11303,6 +11121,156 @@ Marcadores: 1-0 17% · 2-0 17% · 3-0 10% · 0-0 10%
 
 - ❌ Valor: ventaja -2% (mín. 5% con la incertidumbre, máx. 30%)
 - ✅ Segmento «⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.65 - 0.71)  
+1 84% · X 12% · 2 5%  
+1X 95% · X2 16% · 12 88%  
++1.5 85% · +2.5 65% · +3.5 43% · Ambos marcan 48%  
+Marcadores: 2-0 12% · 3-0 11% · 1-0 9% · 2-1 9%  
+🔎 **Claves**  
+• Forma: Sp Lisbon ➖➖✅❌✅ | Moreirense ✅➖❌✅✅  
+• H2H: 24 desde 2012: 18V-5E-1D · 2.8 goles/partido · +2.5 en 58%  
+• Bajas: Sp Lisbon: sin bajas; Moreirense: 0 fuera, 4 duda  
+• Favorito de las casas: Sp Lisbon @ 1.18  
+📐 **Estadísticas esperadas**  
+Córners 7.1 - 2.5: total +9.5 49% · Sp Lisbon +5.5 65% · Moreirense +4.5 13%  
+Tarjetas 1.9 - 2.9: total +5.5 35% · Sp Lisbon +2.5 29% · Moreirense +2.5 55%  
+Faltas 12.5 - 13.2: total +26.5 42% · Sp Lisbon +13.5 38% · Moreirense +13.5 44%  
+Tiros a puerta 7.4 - 2.5: total +8.5 64% · Sp Lisbon +4.5 83% · Moreirense +3.5 24%  
+🧩 Crear apuesta: Menos de 4.5 córners de Moreirense + Más de 4.5 tiros a puerta de Sp Lisbon + Menos de 2.5 tarjetas de Sp Lisbon → prob. 52%, cuota justa 1.91 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 córners de Moreirense + Más de 4.5 tiros a puerta de Sp Lisbon + Menos de 2.5 tarjetas de Sp Lisbon + Más de 2.5 goles + Menos de 13.5 faltas de Sp Lisbon → prob. 24%, cuota justa 4.08  
+
+## Sp Lisbon vs Moreirense — 07/11 · 21:30
+
+👀 candidata · 🇵🇹 Primeira Liga · **Más de 8.5 córners** @ **1.42** (Unibet) · prob 63% vs casas 64% · ventaja -11%
+
+- ❌ Valor: ventaja -11% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.65 - 0.71)  
+1 84% · X 12% · 2 5%  
+1X 95% · X2 16% · 12 88%  
++1.5 85% · +2.5 65% · +3.5 43% · Ambos marcan 48%  
+Marcadores: 2-0 12% · 3-0 11% · 1-0 9% · 2-1 9%  
+🔎 **Claves**  
+• Forma: Sp Lisbon ➖➖✅❌✅ | Moreirense ✅➖❌✅✅  
+• H2H: 24 desde 2012: 18V-5E-1D · 2.8 goles/partido · +2.5 en 58%  
+• Bajas: Sp Lisbon: sin bajas; Moreirense: 0 fuera, 4 duda  
+• Favorito de las casas: Sp Lisbon @ 1.18  
+📐 **Estadísticas esperadas**  
+Córners 7.1 - 2.5: total +9.5 49% · Sp Lisbon +5.5 65% · Moreirense +4.5 13%  
+Tarjetas 1.9 - 2.9: total +5.5 35% · Sp Lisbon +2.5 29% · Moreirense +2.5 55%  
+Faltas 12.5 - 13.2: total +26.5 42% · Sp Lisbon +13.5 38% · Moreirense +13.5 44%  
+Tiros a puerta 7.4 - 2.5: total +8.5 64% · Sp Lisbon +4.5 83% · Moreirense +3.5 24%  
+🧩 Crear apuesta: Menos de 4.5 córners de Moreirense + Más de 4.5 tiros a puerta de Sp Lisbon + Menos de 2.5 tarjetas de Sp Lisbon → prob. 52%, cuota justa 1.91 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 córners de Moreirense + Más de 4.5 tiros a puerta de Sp Lisbon + Menos de 2.5 tarjetas de Sp Lisbon + Más de 2.5 goles + Menos de 13.5 faltas de Sp Lisbon → prob. 24%, cuota justa 4.08  
+
+## Sp Lisbon vs Moreirense — 07/11 · 21:30
+
+👀 candidata · 🇵🇹 Primeira Liga · **Menos de 11.5 córners** @ **1.41** (Unibet) · prob 69% vs casas 65% · ventaja -3%
+
+- ❌ Valor: ventaja -3% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.65 - 0.71)  
+1 84% · X 12% · 2 5%  
+1X 95% · X2 16% · 12 88%  
++1.5 85% · +2.5 65% · +3.5 43% · Ambos marcan 48%  
+Marcadores: 2-0 12% · 3-0 11% · 1-0 9% · 2-1 9%  
+🔎 **Claves**  
+• Forma: Sp Lisbon ➖➖✅❌✅ | Moreirense ✅➖❌✅✅  
+• H2H: 24 desde 2012: 18V-5E-1D · 2.8 goles/partido · +2.5 en 58%  
+• Bajas: Sp Lisbon: sin bajas; Moreirense: 0 fuera, 4 duda  
+• Favorito de las casas: Sp Lisbon @ 1.18  
+📐 **Estadísticas esperadas**  
+Córners 7.1 - 2.5: total +9.5 49% · Sp Lisbon +5.5 65% · Moreirense +4.5 13%  
+Tarjetas 1.9 - 2.9: total +5.5 35% · Sp Lisbon +2.5 29% · Moreirense +2.5 55%  
+Faltas 12.5 - 13.2: total +26.5 42% · Sp Lisbon +13.5 38% · Moreirense +13.5 44%  
+Tiros a puerta 7.4 - 2.5: total +8.5 64% · Sp Lisbon +4.5 83% · Moreirense +3.5 24%  
+🧩 Crear apuesta: Menos de 4.5 córners de Moreirense + Más de 4.5 tiros a puerta de Sp Lisbon + Menos de 2.5 tarjetas de Sp Lisbon → prob. 52%, cuota justa 1.91 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 córners de Moreirense + Más de 4.5 tiros a puerta de Sp Lisbon + Menos de 2.5 tarjetas de Sp Lisbon + Más de 2.5 goles + Menos de 13.5 faltas de Sp Lisbon → prob. 24%, cuota justa 4.08  
+
+## Sp Lisbon vs Moreirense — 07/11 · 21:30
+
+👀 candidata · 🇵🇹 Primeira Liga · **Más de 6.5 córners de Sp Lisbon** @ **1.53** (Unibet) · prob 56% vs casas 60% · ventaja -14%
+
+- ❌ Valor: ventaja -14% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.65 - 0.71)  
+1 84% · X 12% · 2 5%  
+1X 95% · X2 16% · 12 88%  
++1.5 85% · +2.5 65% · +3.5 43% · Ambos marcan 48%  
+Marcadores: 2-0 12% · 3-0 11% · 1-0 9% · 2-1 9%  
+🔎 **Claves**  
+• Forma: Sp Lisbon ➖➖✅❌✅ | Moreirense ✅➖❌✅✅  
+• H2H: 24 desde 2012: 18V-5E-1D · 2.8 goles/partido · +2.5 en 58%  
+• Bajas: Sp Lisbon: sin bajas; Moreirense: 0 fuera, 4 duda  
+• Favorito de las casas: Sp Lisbon @ 1.18  
+📐 **Estadísticas esperadas**  
+Córners 7.1 - 2.5: total +9.5 49% · Sp Lisbon +5.5 65% · Moreirense +4.5 13%  
+Tarjetas 1.9 - 2.9: total +5.5 35% · Sp Lisbon +2.5 29% · Moreirense +2.5 55%  
+Faltas 12.5 - 13.2: total +26.5 42% · Sp Lisbon +13.5 38% · Moreirense +13.5 44%  
+Tiros a puerta 7.4 - 2.5: total +8.5 64% · Sp Lisbon +4.5 83% · Moreirense +3.5 24%  
+🧩 Crear apuesta: Menos de 4.5 córners de Moreirense + Más de 4.5 tiros a puerta de Sp Lisbon + Menos de 2.5 tarjetas de Sp Lisbon → prob. 52%, cuota justa 1.91 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 córners de Moreirense + Más de 4.5 tiros a puerta de Sp Lisbon + Menos de 2.5 tarjetas de Sp Lisbon + Más de 2.5 goles + Menos de 13.5 faltas de Sp Lisbon → prob. 24%, cuota justa 4.08  
+
+## Sp Lisbon vs Moreirense — 07/11 · 21:30
+
+👀 candidata · 🇵🇹 Primeira Liga · **Menos de 6.5 córners de Sp Lisbon** @ **2.28** (Unibet) · prob 44% vs casas 40% · ventaja -1%
+
+- ❌ Valor: ventaja -1% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.65 - 0.71)  
+1 84% · X 12% · 2 5%  
+1X 95% · X2 16% · 12 88%  
++1.5 85% · +2.5 65% · +3.5 43% · Ambos marcan 48%  
+Marcadores: 2-0 12% · 3-0 11% · 1-0 9% · 2-1 9%  
+🔎 **Claves**  
+• Forma: Sp Lisbon ➖➖✅❌✅ | Moreirense ✅➖❌✅✅  
+• H2H: 24 desde 2012: 18V-5E-1D · 2.8 goles/partido · +2.5 en 58%  
+• Bajas: Sp Lisbon: sin bajas; Moreirense: 0 fuera, 4 duda  
+• Favorito de las casas: Sp Lisbon @ 1.18  
+📐 **Estadísticas esperadas**  
+Córners 7.1 - 2.5: total +9.5 49% · Sp Lisbon +5.5 65% · Moreirense +4.5 13%  
+Tarjetas 1.9 - 2.9: total +5.5 35% · Sp Lisbon +2.5 29% · Moreirense +2.5 55%  
+Faltas 12.5 - 13.2: total +26.5 42% · Sp Lisbon +13.5 38% · Moreirense +13.5 44%  
+Tiros a puerta 7.4 - 2.5: total +8.5 64% · Sp Lisbon +4.5 83% · Moreirense +3.5 24%  
+🧩 Crear apuesta: Menos de 4.5 córners de Moreirense + Más de 4.5 tiros a puerta de Sp Lisbon + Menos de 2.5 tarjetas de Sp Lisbon → prob. 52%, cuota justa 1.91 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 córners de Moreirense + Más de 4.5 tiros a puerta de Sp Lisbon + Menos de 2.5 tarjetas de Sp Lisbon + Más de 2.5 goles + Menos de 13.5 faltas de Sp Lisbon → prob. 24%, cuota justa 4.08  
+
+## Sp Lisbon vs Moreirense — 07/11 · 21:30
+
+👀 candidata · 🇵🇹 Primeira Liga · **Más de 1.5 córners de Moreirense** @ **1.47** (Unibet) · prob 65% vs casas 62% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.65 - 0.71)  
+1 84% · X 12% · 2 5%  
+1X 95% · X2 16% · 12 88%  
++1.5 85% · +2.5 65% · +3.5 43% · Ambos marcan 48%  
+Marcadores: 2-0 12% · 3-0 11% · 1-0 9% · 2-1 9%  
+🔎 **Claves**  
+• Forma: Sp Lisbon ➖➖✅❌✅ | Moreirense ✅➖❌✅✅  
+• H2H: 24 desde 2012: 18V-5E-1D · 2.8 goles/partido · +2.5 en 58%  
+• Bajas: Sp Lisbon: sin bajas; Moreirense: 0 fuera, 4 duda  
+• Favorito de las casas: Sp Lisbon @ 1.18  
+📐 **Estadísticas esperadas**  
+Córners 7.1 - 2.5: total +9.5 49% · Sp Lisbon +5.5 65% · Moreirense +4.5 13%  
+Tarjetas 1.9 - 2.9: total +5.5 35% · Sp Lisbon +2.5 29% · Moreirense +2.5 55%  
+Faltas 12.5 - 13.2: total +26.5 42% · Sp Lisbon +13.5 38% · Moreirense +13.5 44%  
+Tiros a puerta 7.4 - 2.5: total +8.5 64% · Sp Lisbon +4.5 83% · Moreirense +3.5 24%  
+🧩 Crear apuesta: Menos de 4.5 córners de Moreirense + Más de 4.5 tiros a puerta de Sp Lisbon + Menos de 2.5 tarjetas de Sp Lisbon → prob. 52%, cuota justa 1.91 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 córners de Moreirense + Más de 4.5 tiros a puerta de Sp Lisbon + Menos de 2.5 tarjetas de Sp Lisbon + Más de 2.5 goles + Menos de 13.5 faltas de Sp Lisbon → prob. 24%, cuota justa 4.08  
+
+## Sp Lisbon vs Moreirense — 07/11 · 21:30
+
+👀 candidata · 🇵🇹 Primeira Liga · **Menos de 2.5 córners de Moreirense** @ **1.55** (Unibet) · prob 57% vs casas 59% · ventaja -11%
+
+- ❌ Valor: ventaja -11% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
 
 📊 **Escenarios** (goles esperados 2.65 - 0.71)  
 1 84% · X 12% · 2 5%  
