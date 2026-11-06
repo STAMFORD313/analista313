@@ -1,6 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 06/11/2026 16:28 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 06/11/2026 16:44 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Motor Lublin vs Wisla Plock — 06/11 · 18:00
 
@@ -9784,6 +9784,7 @@ Tarjetas 1.7 - 1.5: total +3.5 41% · For Sittard +1.5 52% · Telstar +1.5 45%
 Faltas 10.9 - 12.2: total +21.5 60% · For Sittard +10.5 53% · Telstar +11.5 55%  
 Tiros a puerta 5.8 - 4.3: total +10.5 43% · For Sittard +5.5 51% · Telstar +4.5 42%  
 🚀 Combinada larga: Más de 21.5 faltas + Menos de 3.5 tarjetas + Menos de 4.5 tiros a puerta de Telstar + Menos de 2.5 goles → prob. 12%, cuota justa 8.21  
+🎯 Simulada (con cuota: Menos de 4.5 tiros a puerta de Telstar + Menos de 2.5 goles): cuota Unibet aprox. 3.23 (producto de piernas) · prob. 38% · ventaja +22% → 1 u en la banca de simulación  
 
 ## Nacional vs Academico Viseu — 07/11 · 16:30
 
@@ -9809,6 +9810,313 @@ Faltas 12.9 - 12.4: total +26.5 40% · Nacional +13.5 42% · Academico Viseu +13
 Tiros a puerta 4.1 - 4.2: total +8.5 45% · Nacional +4.5 39% · Academico Viseu +3.5 59%  
 🧩 Crear apuesta: Menos de 13.5 faltas de Academico Viseu + Menos de 5.5 córners de Nacional + Menos de 4.5 tiros a puerta de Nacional → prob. 26%, cuota justa 3.90 (solo vale si la casa paga más)  
 🚀 Combinada larga: Menos de 13.5 faltas de Academico Viseu + Menos de 5.5 córners de Nacional + Menos de 4.5 tiros a puerta de Nacional + Más de 2.5 tarjetas de Academico Viseu + Más de 2.5 goles → prob. 6%, cuota justa 16.38  
+🎯 No simulada (con cuota: Menos de 5.5 córners de Nacional + Más de 2.5 goles): cuota Unibet aprox. 2.87 (producto de piernas) · prob. 35% · ventaja +0%  
+
+## For Sittard vs Telstar — 07/11 · 16:30
+
+👀 candidata · 🇳🇱 Eredivisie · **Más de 7.5 córners** @ **1.16** (Unibet) · prob 80% vs casas 79% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.26 - 1.18)  
+1 44% · X 29% · 2 27%  
+1X 73% · X2 56% · 12 71%  
++1.5 71% · +2.5 44% · +3.5 23% · Ambos marcan 50%  
+Marcadores: 1-1 14% · 1-0 10% · 0-1 10% · 0-0 9%  
+🔎 **Claves**  
+• Forma: For Sittard ✅➖➖✅➖ | Telstar ❌➖❌❌✅  
+• H2H: 2 desde 2025: 1V-0E-1D · 4.5 goles/partido · +2.5 en 100%  
+• Bajas: For Sittard: sin bajas; Telstar: 0 fuera, 2 duda  
+• Favorito de las casas: For Sittard @ 2.05  
+📐 **Estadísticas esperadas**  
+Córners 5.8 - 4.7: total +10.5 48% · For Sittard +5.5 50% · Telstar +4.5 48%  
+Tarjetas 1.7 - 1.5: total +3.5 41% · For Sittard +1.5 52% · Telstar +1.5 45%  
+Faltas 10.9 - 12.2: total +21.5 60% · For Sittard +10.5 53% · Telstar +11.5 55%  
+Tiros a puerta 5.8 - 4.3: total +10.5 43% · For Sittard +5.5 51% · Telstar +4.5 42%  
+🚀 Combinada larga: Más de 21.5 faltas + Menos de 3.5 tarjetas + Menos de 4.5 tiros a puerta de Telstar + Menos de 2.5 goles → prob. 12%, cuota justa 8.21  
+🎯 Simulada (con cuota: Menos de 4.5 tiros a puerta de Telstar + Menos de 2.5 goles): cuota Unibet aprox. 3.23 (producto de piernas) · prob. 38% · ventaja +22% → 1 u en la banca de simulación  
+
+## For Sittard vs Telstar — 07/11 · 16:30
+
+👀 candidata · 🇳🇱 Eredivisie · **Menos de 11.5 córners** @ **1.55** (Unibet) · prob 61% vs casas 60% · ventaja -5%
+
+- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.26 - 1.18)  
+1 44% · X 29% · 2 27%  
+1X 73% · X2 56% · 12 71%  
++1.5 71% · +2.5 44% · +3.5 23% · Ambos marcan 50%  
+Marcadores: 1-1 14% · 1-0 10% · 0-1 10% · 0-0 9%  
+🔎 **Claves**  
+• Forma: For Sittard ✅➖➖✅➖ | Telstar ❌➖❌❌✅  
+• H2H: 2 desde 2025: 1V-0E-1D · 4.5 goles/partido · +2.5 en 100%  
+• Bajas: For Sittard: sin bajas; Telstar: 0 fuera, 2 duda  
+• Favorito de las casas: For Sittard @ 2.05  
+📐 **Estadísticas esperadas**  
+Córners 5.8 - 4.7: total +10.5 48% · For Sittard +5.5 50% · Telstar +4.5 48%  
+Tarjetas 1.7 - 1.5: total +3.5 41% · For Sittard +1.5 52% · Telstar +1.5 45%  
+Faltas 10.9 - 12.2: total +21.5 60% · For Sittard +10.5 53% · Telstar +11.5 55%  
+Tiros a puerta 5.8 - 4.3: total +10.5 43% · For Sittard +5.5 51% · Telstar +4.5 42%  
+🚀 Combinada larga: Más de 21.5 faltas + Menos de 3.5 tarjetas + Menos de 4.5 tiros a puerta de Telstar + Menos de 2.5 goles → prob. 12%, cuota justa 8.21  
+🎯 Simulada (con cuota: Menos de 4.5 tiros a puerta de Telstar + Menos de 2.5 goles): cuota Unibet aprox. 3.23 (producto de piernas) · prob. 38% · ventaja +22% → 1 u en la banca de simulación  
+
+## For Sittard vs Telstar — 07/11 · 16:30
+
+👀 candidata · 🇳🇱 Eredivisie · **Más de 3.5 córners de For Sittard** @ **1.21** (Unibet) · prob 76% vs casas 76% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.26 - 1.18)  
+1 44% · X 29% · 2 27%  
+1X 73% · X2 56% · 12 71%  
++1.5 71% · +2.5 44% · +3.5 23% · Ambos marcan 50%  
+Marcadores: 1-1 14% · 1-0 10% · 0-1 10% · 0-0 9%  
+🔎 **Claves**  
+• Forma: For Sittard ✅➖➖✅➖ | Telstar ❌➖❌❌✅  
+• H2H: 2 desde 2025: 1V-0E-1D · 4.5 goles/partido · +2.5 en 100%  
+• Bajas: For Sittard: sin bajas; Telstar: 0 fuera, 2 duda  
+• Favorito de las casas: For Sittard @ 2.05  
+📐 **Estadísticas esperadas**  
+Córners 5.8 - 4.7: total +10.5 48% · For Sittard +5.5 50% · Telstar +4.5 48%  
+Tarjetas 1.7 - 1.5: total +3.5 41% · For Sittard +1.5 52% · Telstar +1.5 45%  
+Faltas 10.9 - 12.2: total +21.5 60% · For Sittard +10.5 53% · Telstar +11.5 55%  
+Tiros a puerta 5.8 - 4.3: total +10.5 43% · For Sittard +5.5 51% · Telstar +4.5 42%  
+🚀 Combinada larga: Más de 21.5 faltas + Menos de 3.5 tarjetas + Menos de 4.5 tiros a puerta de Telstar + Menos de 2.5 goles → prob. 12%, cuota justa 8.21  
+🎯 Simulada (con cuota: Menos de 4.5 tiros a puerta de Telstar + Menos de 2.5 goles): cuota Unibet aprox. 3.23 (producto de piernas) · prob. 38% · ventaja +22% → 1 u en la banca de simulación  
+
+## For Sittard vs Telstar — 07/11 · 16:30
+
+👀 candidata · 🇳🇱 Eredivisie · **Menos de 7.5 córners de For Sittard** @ **1.30** (Unibet) · prob 72% vs casas 71% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.26 - 1.18)  
+1 44% · X 29% · 2 27%  
+1X 73% · X2 56% · 12 71%  
++1.5 71% · +2.5 44% · +3.5 23% · Ambos marcan 50%  
+Marcadores: 1-1 14% · 1-0 10% · 0-1 10% · 0-0 9%  
+🔎 **Claves**  
+• Forma: For Sittard ✅➖➖✅➖ | Telstar ❌➖❌❌✅  
+• H2H: 2 desde 2025: 1V-0E-1D · 4.5 goles/partido · +2.5 en 100%  
+• Bajas: For Sittard: sin bajas; Telstar: 0 fuera, 2 duda  
+• Favorito de las casas: For Sittard @ 2.05  
+📐 **Estadísticas esperadas**  
+Córners 5.8 - 4.7: total +10.5 48% · For Sittard +5.5 50% · Telstar +4.5 48%  
+Tarjetas 1.7 - 1.5: total +3.5 41% · For Sittard +1.5 52% · Telstar +1.5 45%  
+Faltas 10.9 - 12.2: total +21.5 60% · For Sittard +10.5 53% · Telstar +11.5 55%  
+Tiros a puerta 5.8 - 4.3: total +10.5 43% · For Sittard +5.5 51% · Telstar +4.5 42%  
+🚀 Combinada larga: Más de 21.5 faltas + Menos de 3.5 tarjetas + Menos de 4.5 tiros a puerta de Telstar + Menos de 2.5 goles → prob. 12%, cuota justa 8.21  
+🎯 Simulada (con cuota: Menos de 4.5 tiros a puerta de Telstar + Menos de 2.5 goles): cuota Unibet aprox. 3.23 (producto de piernas) · prob. 38% · ventaja +22% → 1 u en la banca de simulación  
+
+## For Sittard vs Telstar — 07/11 · 16:30
+
+👀 candidata · 🇳🇱 Eredivisie · **Más de 3.5 córners de Telstar** @ **1.42** (Unibet) · prob 64% vs casas 65% · ventaja -9%
+
+- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.26 - 1.18)  
+1 44% · X 29% · 2 27%  
+1X 73% · X2 56% · 12 71%  
++1.5 71% · +2.5 44% · +3.5 23% · Ambos marcan 50%  
+Marcadores: 1-1 14% · 1-0 10% · 0-1 10% · 0-0 9%  
+🔎 **Claves**  
+• Forma: For Sittard ✅➖➖✅➖ | Telstar ❌➖❌❌✅  
+• H2H: 2 desde 2025: 1V-0E-1D · 4.5 goles/partido · +2.5 en 100%  
+• Bajas: For Sittard: sin bajas; Telstar: 0 fuera, 2 duda  
+• Favorito de las casas: For Sittard @ 2.05  
+📐 **Estadísticas esperadas**  
+Córners 5.8 - 4.7: total +10.5 48% · For Sittard +5.5 50% · Telstar +4.5 48%  
+Tarjetas 1.7 - 1.5: total +3.5 41% · For Sittard +1.5 52% · Telstar +1.5 45%  
+Faltas 10.9 - 12.2: total +21.5 60% · For Sittard +10.5 53% · Telstar +11.5 55%  
+Tiros a puerta 5.8 - 4.3: total +10.5 43% · For Sittard +5.5 51% · Telstar +4.5 42%  
+🚀 Combinada larga: Más de 21.5 faltas + Menos de 3.5 tarjetas + Menos de 4.5 tiros a puerta de Telstar + Menos de 2.5 goles → prob. 12%, cuota justa 8.21  
+🎯 Simulada (con cuota: Menos de 4.5 tiros a puerta de Telstar + Menos de 2.5 goles): cuota Unibet aprox. 3.23 (producto de piernas) · prob. 38% · ventaja +22% → 1 u en la banca de simulación  
+
+## For Sittard vs Telstar — 07/11 · 16:30
+
+👀 candidata · 🇳🇱 Eredivisie · **Menos de 6.5 córners de Telstar** @ **1.26** (Unibet) · prob 76% vs casas 73% · ventaja -5%
+
+- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.26 - 1.18)  
+1 44% · X 29% · 2 27%  
+1X 73% · X2 56% · 12 71%  
++1.5 71% · +2.5 44% · +3.5 23% · Ambos marcan 50%  
+Marcadores: 1-1 14% · 1-0 10% · 0-1 10% · 0-0 9%  
+🔎 **Claves**  
+• Forma: For Sittard ✅➖➖✅➖ | Telstar ❌➖❌❌✅  
+• H2H: 2 desde 2025: 1V-0E-1D · 4.5 goles/partido · +2.5 en 100%  
+• Bajas: For Sittard: sin bajas; Telstar: 0 fuera, 2 duda  
+• Favorito de las casas: For Sittard @ 2.05  
+📐 **Estadísticas esperadas**  
+Córners 5.8 - 4.7: total +10.5 48% · For Sittard +5.5 50% · Telstar +4.5 48%  
+Tarjetas 1.7 - 1.5: total +3.5 41% · For Sittard +1.5 52% · Telstar +1.5 45%  
+Faltas 10.9 - 12.2: total +21.5 60% · For Sittard +10.5 53% · Telstar +11.5 55%  
+Tiros a puerta 5.8 - 4.3: total +10.5 43% · For Sittard +5.5 51% · Telstar +4.5 42%  
+🚀 Combinada larga: Más de 21.5 faltas + Menos de 3.5 tarjetas + Menos de 4.5 tiros a puerta de Telstar + Menos de 2.5 goles → prob. 12%, cuota justa 8.21  
+🎯 Simulada (con cuota: Menos de 4.5 tiros a puerta de Telstar + Menos de 2.5 goles): cuota Unibet aprox. 3.23 (producto de piernas) · prob. 38% · ventaja +22% → 1 u en la banca de simulación  
+
+## Nacional vs Academico Viseu — 07/11 · 16:30
+
+👀 candidata · 🇵🇹 Primeira Liga · **Más de 3.5 córners de Academico Viseu** @ **1.50** (Unibet) · prob 62% vs casas 61% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.11 - 1.83)  
+1 31% · X 27% · 2 42%  
+1X 58% · X2 69% · 12 73%  
++1.5 80% · +2.5 56% · +3.5 34% · Ambos marcan 57%  
+Marcadores: 1-1 11% · 1-2 10% · 0-1 9% · 0-2 9%  
+🔎 **Claves**  
+• Forma: Nacional ❌❌❌✅❌ | Academico Viseu ✅✅✅✅✅  
+• H2H: sin precedentes  
+• Bajas: Nacional: 2 fuera, 2 duda (Filipe Soares, Ulisses Rocha); Academico Viseu: 0 fuera, 1 duda  
+• Favorito de las casas: Academico Viseu @ 2.40  
+📐 **Estadísticas esperadas**  
+Córners 5.0 - 4.6: total +9.5 48% · Nacional +5.5 38% · Academico Viseu +4.5 46%  
+Tarjetas 2.5 - 3.0: total +5.5 47% · Nacional +2.5 45% · Academico Viseu +2.5 58%  
+Faltas 12.9 - 12.4: total +26.5 40% · Nacional +13.5 42% · Academico Viseu +13.5 36%  
+Tiros a puerta 4.1 - 4.2: total +8.5 45% · Nacional +4.5 39% · Academico Viseu +3.5 59%  
+🧩 Crear apuesta: Menos de 13.5 faltas de Academico Viseu + Menos de 5.5 córners de Nacional + Menos de 4.5 tiros a puerta de Nacional → prob. 26%, cuota justa 3.90 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 13.5 faltas de Academico Viseu + Menos de 5.5 córners de Nacional + Menos de 4.5 tiros a puerta de Nacional + Más de 2.5 tarjetas de Academico Viseu + Más de 2.5 goles → prob. 6%, cuota justa 16.38  
+🎯 No simulada (con cuota: Menos de 5.5 córners de Nacional + Más de 2.5 goles): cuota Unibet aprox. 2.87 (producto de piernas) · prob. 35% · ventaja +0%  
+
+## Nacional vs Academico Viseu — 07/11 · 16:30
+
+👀 candidata · 🇵🇹 Primeira Liga · **Menos de 5.5 córners de Academico Viseu** @ **1.40** (Unibet) · prob 67% vs casas 65% · ventaja -7%
+
+- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.11 - 1.83)  
+1 31% · X 27% · 2 42%  
+1X 58% · X2 69% · 12 73%  
++1.5 80% · +2.5 56% · +3.5 34% · Ambos marcan 57%  
+Marcadores: 1-1 11% · 1-2 10% · 0-1 9% · 0-2 9%  
+🔎 **Claves**  
+• Forma: Nacional ❌❌❌✅❌ | Academico Viseu ✅✅✅✅✅  
+• H2H: sin precedentes  
+• Bajas: Nacional: 2 fuera, 2 duda (Filipe Soares, Ulisses Rocha); Academico Viseu: 0 fuera, 1 duda  
+• Favorito de las casas: Academico Viseu @ 2.40  
+📐 **Estadísticas esperadas**  
+Córners 5.0 - 4.6: total +9.5 48% · Nacional +5.5 38% · Academico Viseu +4.5 46%  
+Tarjetas 2.5 - 3.0: total +5.5 47% · Nacional +2.5 45% · Academico Viseu +2.5 58%  
+Faltas 12.9 - 12.4: total +26.5 40% · Nacional +13.5 42% · Academico Viseu +13.5 36%  
+Tiros a puerta 4.1 - 4.2: total +8.5 45% · Nacional +4.5 39% · Academico Viseu +3.5 59%  
+🧩 Crear apuesta: Menos de 13.5 faltas de Academico Viseu + Menos de 5.5 córners de Nacional + Menos de 4.5 tiros a puerta de Nacional → prob. 26%, cuota justa 3.90 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 13.5 faltas de Academico Viseu + Menos de 5.5 córners de Nacional + Menos de 4.5 tiros a puerta de Nacional + Más de 2.5 tarjetas de Academico Viseu + Más de 2.5 goles → prob. 6%, cuota justa 16.38  
+🎯 No simulada (con cuota: Menos de 5.5 córners de Nacional + Más de 2.5 goles): cuota Unibet aprox. 2.87 (producto de piernas) · prob. 35% · ventaja +0%  
+
+## Nacional vs Academico Viseu — 07/11 · 16:30
+
+👀 candidata · 🇵🇹 Primeira Liga · **Más de 7.5 córners** @ **1.35** (Unibet) · prob 70% vs casas 68% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.11 - 1.83)  
+1 31% · X 27% · 2 42%  
+1X 58% · X2 69% · 12 73%  
++1.5 80% · +2.5 56% · +3.5 34% · Ambos marcan 57%  
+Marcadores: 1-1 11% · 1-2 10% · 0-1 9% · 0-2 9%  
+🔎 **Claves**  
+• Forma: Nacional ❌❌❌✅❌ | Academico Viseu ✅✅✅✅✅  
+• H2H: sin precedentes  
+• Bajas: Nacional: 2 fuera, 2 duda (Filipe Soares, Ulisses Rocha); Academico Viseu: 0 fuera, 1 duda  
+• Favorito de las casas: Academico Viseu @ 2.40  
+📐 **Estadísticas esperadas**  
+Córners 5.0 - 4.6: total +9.5 48% · Nacional +5.5 38% · Academico Viseu +4.5 46%  
+Tarjetas 2.5 - 3.0: total +5.5 47% · Nacional +2.5 45% · Academico Viseu +2.5 58%  
+Faltas 12.9 - 12.4: total +26.5 40% · Nacional +13.5 42% · Academico Viseu +13.5 36%  
+Tiros a puerta 4.1 - 4.2: total +8.5 45% · Nacional +4.5 39% · Academico Viseu +3.5 59%  
+🧩 Crear apuesta: Menos de 13.5 faltas de Academico Viseu + Menos de 5.5 córners de Nacional + Menos de 4.5 tiros a puerta de Nacional → prob. 26%, cuota justa 3.90 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 13.5 faltas de Academico Viseu + Menos de 5.5 córners de Nacional + Menos de 4.5 tiros a puerta de Nacional + Más de 2.5 tarjetas de Academico Viseu + Más de 2.5 goles → prob. 6%, cuota justa 16.38  
+🎯 No simulada (con cuota: Menos de 5.5 córners de Nacional + Más de 2.5 goles): cuota Unibet aprox. 2.87 (producto de piernas) · prob. 35% · ventaja +0%  
+
+## Nacional vs Academico Viseu — 07/11 · 16:30
+
+👀 candidata · 🇵🇹 Primeira Liga · **Menos de 10.5 córners** @ **1.44** (Unibet) · prob 64% vs casas 64% · ventaja -9%
+
+- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.11 - 1.83)  
+1 31% · X 27% · 2 42%  
+1X 58% · X2 69% · 12 73%  
++1.5 80% · +2.5 56% · +3.5 34% · Ambos marcan 57%  
+Marcadores: 1-1 11% · 1-2 10% · 0-1 9% · 0-2 9%  
+🔎 **Claves**  
+• Forma: Nacional ❌❌❌✅❌ | Academico Viseu ✅✅✅✅✅  
+• H2H: sin precedentes  
+• Bajas: Nacional: 2 fuera, 2 duda (Filipe Soares, Ulisses Rocha); Academico Viseu: 0 fuera, 1 duda  
+• Favorito de las casas: Academico Viseu @ 2.40  
+📐 **Estadísticas esperadas**  
+Córners 5.0 - 4.6: total +9.5 48% · Nacional +5.5 38% · Academico Viseu +4.5 46%  
+Tarjetas 2.5 - 3.0: total +5.5 47% · Nacional +2.5 45% · Academico Viseu +2.5 58%  
+Faltas 12.9 - 12.4: total +26.5 40% · Nacional +13.5 42% · Academico Viseu +13.5 36%  
+Tiros a puerta 4.1 - 4.2: total +8.5 45% · Nacional +4.5 39% · Academico Viseu +3.5 59%  
+🧩 Crear apuesta: Menos de 13.5 faltas de Academico Viseu + Menos de 5.5 córners de Nacional + Menos de 4.5 tiros a puerta de Nacional → prob. 26%, cuota justa 3.90 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 13.5 faltas de Academico Viseu + Menos de 5.5 córners de Nacional + Menos de 4.5 tiros a puerta de Nacional + Más de 2.5 tarjetas de Academico Viseu + Más de 2.5 goles → prob. 6%, cuota justa 16.38  
+🎯 No simulada (con cuota: Menos de 5.5 córners de Nacional + Más de 2.5 goles): cuota Unibet aprox. 2.87 (producto de piernas) · prob. 35% · ventaja +0%  
+
+## Nacional vs Academico Viseu — 07/11 · 16:30
+
+👀 candidata · 🇵🇹 Primeira Liga · **Más de 3.5 córners de Nacional** @ **1.47** (Unibet) · prob 65% vs casas 62% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.11 - 1.83)  
+1 31% · X 27% · 2 42%  
+1X 58% · X2 69% · 12 73%  
++1.5 80% · +2.5 56% · +3.5 34% · Ambos marcan 57%  
+Marcadores: 1-1 11% · 1-2 10% · 0-1 9% · 0-2 9%  
+🔎 **Claves**  
+• Forma: Nacional ❌❌❌✅❌ | Academico Viseu ✅✅✅✅✅  
+• H2H: sin precedentes  
+• Bajas: Nacional: 2 fuera, 2 duda (Filipe Soares, Ulisses Rocha); Academico Viseu: 0 fuera, 1 duda  
+• Favorito de las casas: Academico Viseu @ 2.40  
+📐 **Estadísticas esperadas**  
+Córners 5.0 - 4.6: total +9.5 48% · Nacional +5.5 38% · Academico Viseu +4.5 46%  
+Tarjetas 2.5 - 3.0: total +5.5 47% · Nacional +2.5 45% · Academico Viseu +2.5 58%  
+Faltas 12.9 - 12.4: total +26.5 40% · Nacional +13.5 42% · Academico Viseu +13.5 36%  
+Tiros a puerta 4.1 - 4.2: total +8.5 45% · Nacional +4.5 39% · Academico Viseu +3.5 59%  
+🧩 Crear apuesta: Menos de 13.5 faltas de Academico Viseu + Menos de 5.5 córners de Nacional + Menos de 4.5 tiros a puerta de Nacional → prob. 26%, cuota justa 3.90 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 13.5 faltas de Academico Viseu + Menos de 5.5 córners de Nacional + Menos de 4.5 tiros a puerta de Nacional + Más de 2.5 tarjetas de Academico Viseu + Más de 2.5 goles → prob. 6%, cuota justa 16.38  
+🎯 No simulada (con cuota: Menos de 5.5 córners de Nacional + Más de 2.5 goles): cuota Unibet aprox. 2.87 (producto de piernas) · prob. 35% · ventaja +0%  
+
+## Nacional vs Academico Viseu — 07/11 · 16:30
+
+👀 candidata · 🇵🇹 Primeira Liga · **Menos de 5.5 córners de Nacional** @ **1.44** (Unibet) · prob 63% vs casas 64% · ventaja -9%
+
+- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.11 - 1.83)  
+1 31% · X 27% · 2 42%  
+1X 58% · X2 69% · 12 73%  
++1.5 80% · +2.5 56% · +3.5 34% · Ambos marcan 57%  
+Marcadores: 1-1 11% · 1-2 10% · 0-1 9% · 0-2 9%  
+🔎 **Claves**  
+• Forma: Nacional ❌❌❌✅❌ | Academico Viseu ✅✅✅✅✅  
+• H2H: sin precedentes  
+• Bajas: Nacional: 2 fuera, 2 duda (Filipe Soares, Ulisses Rocha); Academico Viseu: 0 fuera, 1 duda  
+• Favorito de las casas: Academico Viseu @ 2.40  
+📐 **Estadísticas esperadas**  
+Córners 5.0 - 4.6: total +9.5 48% · Nacional +5.5 38% · Academico Viseu +4.5 46%  
+Tarjetas 2.5 - 3.0: total +5.5 47% · Nacional +2.5 45% · Academico Viseu +2.5 58%  
+Faltas 12.9 - 12.4: total +26.5 40% · Nacional +13.5 42% · Academico Viseu +13.5 36%  
+Tiros a puerta 4.1 - 4.2: total +8.5 45% · Nacional +4.5 39% · Academico Viseu +3.5 59%  
+🧩 Crear apuesta: Menos de 13.5 faltas de Academico Viseu + Menos de 5.5 córners de Nacional + Menos de 4.5 tiros a puerta de Nacional → prob. 26%, cuota justa 3.90 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 13.5 faltas de Academico Viseu + Menos de 5.5 córners de Nacional + Menos de 4.5 tiros a puerta de Nacional + Más de 2.5 tarjetas de Academico Viseu + Más de 2.5 goles → prob. 6%, cuota justa 16.38  
+🎯 No simulada (con cuota: Menos de 5.5 córners de Nacional + Más de 2.5 goles): cuota Unibet aprox. 2.87 (producto de piernas) · prob. 35% · ventaja +0%  
 
 ## A. Lustenau vs Grazer AK — 07/11 · 17:00
 
