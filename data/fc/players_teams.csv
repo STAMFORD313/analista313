@@ -58638,14 +58638,14 @@ id,tournament_id,club1,club2,ht1,ht2
 2366291,261156,Fenerbahce,Aston Villa,,
 2366292,261156,Porto,Fenerbahce,,
 2366293,261156,Salzburg,Roma,,
-2365894,261103,Roma,Napoli,1,1
-2365895,261103,Bologna,Juventus,0,2
-2365896,261103,Juventus,Roma,3,1
-2365897,261103,Napoli,Sassuolo,3,2
-2365898,261103,Sassuolo,Juventus,2,1
-2365899,261103,Roma,Bologna,3,2
-2365900,261103,Bologna,Sassuolo,0,0
-2365901,261103,Juventus,Napoli,0,0
+2365894,261103,Roma,Napoli,1.0,1.0
+2365895,261103,Bologna,Juventus,0.0,2.0
+2365896,261103,Juventus,Roma,3.0,1.0
+2365897,261103,Napoli,Sassuolo,3.0,2.0
+2365898,261103,Sassuolo,Juventus,2.0,1.0
+2365899,261103,Roma,Bologna,3.0,2.0
+2365900,261103,Bologna,Sassuolo,0.0,0.0
+2365901,261103,Juventus,Napoli,0.0,0.0
 2365902,261103,Napoli,Bologna,,
 2365903,261103,Sassuolo,Roma,,
 2365904,261103,Napoli,Roma,,
@@ -58658,3 +58658,23 @@ id,tournament_id,club1,club2,ht1,ht2
 2365911,261103,Napoli,Juventus,,
 2365912,261103,Bologna,Napoli,,
 2365913,261103,Roma,Sassuolo,,
+2366134,261113,Tottenham,Man City,2,1
+2366135,261113,Arsenal,Liverpool,0,2
+2366136,261113,Liverpool,Tottenham,1,0
+2366137,261113,Man City,Chelsea,1,0
+2366138,261113,Chelsea,Liverpool,1,1
+2366139,261113,Tottenham,Arsenal,1,2
+2366140,261113,Arsenal,Chelsea,2,0
+2366141,261113,Liverpool,Man City,1,3
+2366142,261113,Man City,Arsenal,0,0
+2366143,261113,Chelsea,Tottenham,0,0
+2366144,261113,Man City,Tottenham,,
+2366145,261113,Liverpool,Arsenal,,
+2366146,261113,Tottenham,Liverpool,,
+2366147,261113,Chelsea,Man City,,
+2366148,261113,Liverpool,Chelsea,,
+2366149,261113,Arsenal,Tottenham,,
+2366150,261113,Chelsea,Arsenal,,
+2366151,261113,Man City,Liverpool,,
+2366152,261113,Arsenal,Man City,,
+2366153,261113,Tottenham,Chelsea,,

@@ -1,1091 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 06/11/2026 20:41 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Standard vs Beveren — 06/11 · 20:45
-
-👀 candidata · 🇧🇪 Pro League · **Beveren +0.5 (hándicap asiático)** @ **1.95** (mejor del mercado) · prob 51% vs casas 51% · ventaja -1%
-
-- ❌ Valor: ventaja -1% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ hándicap» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.58 - 0.96)  
-1 59% · X 25% · 2 16%  
-1X 84% · X2 41% · 12 75%  
-+1.5 73% · +2.5 47% · +3.5 25% · Ambos marcan 50%  
-Marcadores: 1-1 13% · 1-0 12% · 2-0 10% · 2-1 9%  
-🔎 **Claves**  
-• Forma: Standard ❌❌❌❌➖ | Beveren ✅❌❌➖❌  
-• H2H: 4 desde 2005: 2V-1E-1D · 2.2 goles/partido · +2.5 en 50%  
-• Bajas: Standard: sin bajas; Beveren: sin bajas  
-• Favorito de las casas: Standard @ 2.00  
-📐 **Estadísticas esperadas**  
-Córners 6.0 - 4.6: total +10.5 48% · Standard +5.5 52% · Beveren +4.5 46%  
-Tarjetas 1.7 - 2.5: total +3.5 59% · Standard +1.5 51% · Beveren +2.5 46%  
-Faltas 9.8 - 11.3: total +22.5 37% · Standard +10.5 39% · Beveren +11.5 45%  
-Tiros a puerta 5.3 - 3.9: total +9.5 43% · Standard +5.5 43% · Beveren +4.5 35%  
-🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Beveren + Menos de 22.5 faltas → prob. 40%, cuota justa 2.51 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 tiros a puerta de Beveren + Menos de 22.5 faltas + Más de 3.5 tarjetas → prob. 21%, cuota justa 4.87  
-🎯 No simulada (con cuota: Menos de 4.5 tiros a puerta de Beveren + Más de 3.5 tarjetas): cuota Unibet aprox. 2.30 (producto de piernas) · prob. 39% · ventaja -10%  
-
-## Standard vs Beveren — 06/11 · 20:45
-
-👀 candidata · 🇧🇪 Pro League · **Más de 3.5 córners de Beveren** @ **1.45** (Unibet) · prob 63% vs casas 63% · ventaja -9%
-
-- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.58 - 0.96)  
-1 59% · X 25% · 2 16%  
-1X 84% · X2 41% · 12 75%  
-+1.5 73% · +2.5 47% · +3.5 25% · Ambos marcan 50%  
-Marcadores: 1-1 13% · 1-0 12% · 2-0 10% · 2-1 9%  
-🔎 **Claves**  
-• Forma: Standard ❌❌❌❌➖ | Beveren ✅❌❌➖❌  
-• H2H: 4 desde 2005: 2V-1E-1D · 2.2 goles/partido · +2.5 en 50%  
-• Bajas: Standard: sin bajas; Beveren: sin bajas  
-• Favorito de las casas: Standard @ 2.00  
-📐 **Estadísticas esperadas**  
-Córners 6.0 - 4.6: total +10.5 48% · Standard +5.5 52% · Beveren +4.5 46%  
-Tarjetas 1.7 - 2.5: total +3.5 59% · Standard +1.5 51% · Beveren +2.5 46%  
-Faltas 9.8 - 11.3: total +22.5 37% · Standard +10.5 39% · Beveren +11.5 45%  
-Tiros a puerta 5.3 - 3.9: total +9.5 43% · Standard +5.5 43% · Beveren +4.5 35%  
-🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Beveren + Menos de 22.5 faltas → prob. 40%, cuota justa 2.51 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 tiros a puerta de Beveren + Menos de 22.5 faltas + Más de 3.5 tarjetas → prob. 21%, cuota justa 4.87  
-🎯 No simulada (con cuota: Menos de 4.5 tiros a puerta de Beveren + Más de 3.5 tarjetas): cuota Unibet aprox. 2.30 (producto de piernas) · prob. 39% · ventaja -10%  
-
-## Standard vs Beveren — 06/11 · 20:45
-
-👀 candidata · 🇧🇪 Pro League · **Menos de 5.5 córners de Beveren** @ **1.44** (Unibet) · prob 66% vs casas 64% · ventaja -5%
-
-- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.58 - 0.96)  
-1 59% · X 25% · 2 16%  
-1X 84% · X2 41% · 12 75%  
-+1.5 73% · +2.5 47% · +3.5 25% · Ambos marcan 50%  
-Marcadores: 1-1 13% · 1-0 12% · 2-0 10% · 2-1 9%  
-🔎 **Claves**  
-• Forma: Standard ❌❌❌❌➖ | Beveren ✅❌❌➖❌  
-• H2H: 4 desde 2005: 2V-1E-1D · 2.2 goles/partido · +2.5 en 50%  
-• Bajas: Standard: sin bajas; Beveren: sin bajas  
-• Favorito de las casas: Standard @ 2.00  
-📐 **Estadísticas esperadas**  
-Córners 6.0 - 4.6: total +10.5 48% · Standard +5.5 52% · Beveren +4.5 46%  
-Tarjetas 1.7 - 2.5: total +3.5 59% · Standard +1.5 51% · Beveren +2.5 46%  
-Faltas 9.8 - 11.3: total +22.5 37% · Standard +10.5 39% · Beveren +11.5 45%  
-Tiros a puerta 5.3 - 3.9: total +9.5 43% · Standard +5.5 43% · Beveren +4.5 35%  
-🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Beveren + Menos de 22.5 faltas → prob. 40%, cuota justa 2.51 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 tiros a puerta de Beveren + Menos de 22.5 faltas + Más de 3.5 tarjetas → prob. 21%, cuota justa 4.87  
-🎯 No simulada (con cuota: Menos de 4.5 tiros a puerta de Beveren + Más de 3.5 tarjetas): cuota Unibet aprox. 2.30 (producto de piernas) · prob. 39% · ventaja -10%  
-
-## Standard vs Beveren — 06/11 · 20:45
-
-👀 candidata · 🇧🇪 Pro League · **Más de 10.5 córners** @ **2.15** (Unibet) · prob 46% vs casas 43% · ventaja -2%
-
-- ❌ Valor: ventaja -2% (mín. 7% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.58 - 0.96)  
-1 59% · X 25% · 2 16%  
-1X 84% · X2 41% · 12 75%  
-+1.5 73% · +2.5 47% · +3.5 25% · Ambos marcan 50%  
-Marcadores: 1-1 13% · 1-0 12% · 2-0 10% · 2-1 9%  
-🔎 **Claves**  
-• Forma: Standard ❌❌❌❌➖ | Beveren ✅❌❌➖❌  
-• H2H: 4 desde 2005: 2V-1E-1D · 2.2 goles/partido · +2.5 en 50%  
-• Bajas: Standard: sin bajas; Beveren: sin bajas  
-• Favorito de las casas: Standard @ 2.00  
-📐 **Estadísticas esperadas**  
-Córners 6.0 - 4.6: total +10.5 48% · Standard +5.5 52% · Beveren +4.5 46%  
-Tarjetas 1.7 - 2.5: total +3.5 59% · Standard +1.5 51% · Beveren +2.5 46%  
-Faltas 9.8 - 11.3: total +22.5 37% · Standard +10.5 39% · Beveren +11.5 45%  
-Tiros a puerta 5.3 - 3.9: total +9.5 43% · Standard +5.5 43% · Beveren +4.5 35%  
-🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Beveren + Menos de 22.5 faltas → prob. 40%, cuota justa 2.51 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 tiros a puerta de Beveren + Menos de 22.5 faltas + Más de 3.5 tarjetas → prob. 21%, cuota justa 4.87  
-🎯 No simulada (con cuota: Menos de 4.5 tiros a puerta de Beveren + Más de 3.5 tarjetas): cuota Unibet aprox. 2.30 (producto de piernas) · prob. 39% · ventaja -10%  
-
-## Standard vs Beveren — 06/11 · 20:45
-
-👀 candidata · 🇧🇪 Pro League · **Menos de 12.5 córners** @ **1.24** (Unibet) · prob 73% vs casas 74% · ventaja -9%
-
-- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.58 - 0.96)  
-1 59% · X 25% · 2 16%  
-1X 84% · X2 41% · 12 75%  
-+1.5 73% · +2.5 47% · +3.5 25% · Ambos marcan 50%  
-Marcadores: 1-1 13% · 1-0 12% · 2-0 10% · 2-1 9%  
-🔎 **Claves**  
-• Forma: Standard ❌❌❌❌➖ | Beveren ✅❌❌➖❌  
-• H2H: 4 desde 2005: 2V-1E-1D · 2.2 goles/partido · +2.5 en 50%  
-• Bajas: Standard: sin bajas; Beveren: sin bajas  
-• Favorito de las casas: Standard @ 2.00  
-📐 **Estadísticas esperadas**  
-Córners 6.0 - 4.6: total +10.5 48% · Standard +5.5 52% · Beveren +4.5 46%  
-Tarjetas 1.7 - 2.5: total +3.5 59% · Standard +1.5 51% · Beveren +2.5 46%  
-Faltas 9.8 - 11.3: total +22.5 37% · Standard +10.5 39% · Beveren +11.5 45%  
-Tiros a puerta 5.3 - 3.9: total +9.5 43% · Standard +5.5 43% · Beveren +4.5 35%  
-🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Beveren + Menos de 22.5 faltas → prob. 40%, cuota justa 2.51 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 tiros a puerta de Beveren + Menos de 22.5 faltas + Más de 3.5 tarjetas → prob. 21%, cuota justa 4.87  
-🎯 No simulada (con cuota: Menos de 4.5 tiros a puerta de Beveren + Más de 3.5 tarjetas): cuota Unibet aprox. 2.30 (producto de piernas) · prob. 39% · ventaja -10%  
-
-## Standard vs Beveren — 06/11 · 20:45
-
-👀 candidata · 🇧🇪 Pro League · **Más de 6.5 córners de Standard** @ **2.90** (Unibet) · prob 35% vs casas 32% · ventaja +2%
-
-- ❌ Valor: ventaja +2% (mín. 8% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.58 - 0.96)  
-1 59% · X 25% · 2 16%  
-1X 84% · X2 41% · 12 75%  
-+1.5 73% · +2.5 47% · +3.5 25% · Ambos marcan 50%  
-Marcadores: 1-1 13% · 1-0 12% · 2-0 10% · 2-1 9%  
-🔎 **Claves**  
-• Forma: Standard ❌❌❌❌➖ | Beveren ✅❌❌➖❌  
-• H2H: 4 desde 2005: 2V-1E-1D · 2.2 goles/partido · +2.5 en 50%  
-• Bajas: Standard: sin bajas; Beveren: sin bajas  
-• Favorito de las casas: Standard @ 2.00  
-📐 **Estadísticas esperadas**  
-Córners 6.0 - 4.6: total +10.5 48% · Standard +5.5 52% · Beveren +4.5 46%  
-Tarjetas 1.7 - 2.5: total +3.5 59% · Standard +1.5 51% · Beveren +2.5 46%  
-Faltas 9.8 - 11.3: total +22.5 37% · Standard +10.5 39% · Beveren +11.5 45%  
-Tiros a puerta 5.3 - 3.9: total +9.5 43% · Standard +5.5 43% · Beveren +4.5 35%  
-🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Beveren + Menos de 22.5 faltas → prob. 40%, cuota justa 2.51 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 tiros a puerta de Beveren + Menos de 22.5 faltas + Más de 3.5 tarjetas → prob. 21%, cuota justa 4.87  
-🎯 No simulada (con cuota: Menos de 4.5 tiros a puerta de Beveren + Más de 3.5 tarjetas): cuota Unibet aprox. 2.30 (producto de piernas) · prob. 39% · ventaja -10%  
-
-## Standard vs Beveren — 06/11 · 20:45
-
-👀 candidata · 🇧🇪 Pro League · **Menos de 6.5 córners de Standard** @ **1.34** (Unibet) · prob 65% vs casas 68% · ventaja -13%
-
-- ❌ Valor: ventaja -13% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.58 - 0.96)  
-1 59% · X 25% · 2 16%  
-1X 84% · X2 41% · 12 75%  
-+1.5 73% · +2.5 47% · +3.5 25% · Ambos marcan 50%  
-Marcadores: 1-1 13% · 1-0 12% · 2-0 10% · 2-1 9%  
-🔎 **Claves**  
-• Forma: Standard ❌❌❌❌➖ | Beveren ✅❌❌➖❌  
-• H2H: 4 desde 2005: 2V-1E-1D · 2.2 goles/partido · +2.5 en 50%  
-• Bajas: Standard: sin bajas; Beveren: sin bajas  
-• Favorito de las casas: Standard @ 2.00  
-📐 **Estadísticas esperadas**  
-Córners 6.0 - 4.6: total +10.5 48% · Standard +5.5 52% · Beveren +4.5 46%  
-Tarjetas 1.7 - 2.5: total +3.5 59% · Standard +1.5 51% · Beveren +2.5 46%  
-Faltas 9.8 - 11.3: total +22.5 37% · Standard +10.5 39% · Beveren +11.5 45%  
-Tiros a puerta 5.3 - 3.9: total +9.5 43% · Standard +5.5 43% · Beveren +4.5 35%  
-🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Beveren + Menos de 22.5 faltas → prob. 40%, cuota justa 2.51 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 tiros a puerta de Beveren + Menos de 22.5 faltas + Más de 3.5 tarjetas → prob. 21%, cuota justa 4.87  
-🎯 No simulada (con cuota: Menos de 4.5 tiros a puerta de Beveren + Más de 3.5 tarjetas): cuota Unibet aprox. 2.30 (producto de piernas) · prob. 39% · ventaja -10%  
-
-## Toulouse vs Strasbourg — 06/11 · 20:45
-
-👀 candidata · 🇫🇷 Ligue 1 · **Strasbourg +0.25 (hándicap asiático)** @ **1.93** (mejor del mercado) · prob 51% vs casas 50% · ventaja -2%
-
-- ❌ Valor: ventaja -2% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ hándicap» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.33 - 1.47)  
-1 40% · X 28% · 2 31%  
-1X 69% · X2 60% · 12 72%  
-+1.5 78% · +2.5 53% · +3.5 31% · Ambos marcan 57%  
-Marcadores: 1-1 12% · 1-2 9% · 0-1 8% · 2-1 8%  
-🔎 **Claves**  
-• Forma: Toulouse ✅➖✅➖❌ | Strasbourg ❌❌❌❌✅  
-• H2H: 18 desde 2005: 4V-4E-10D · 2.9 goles/partido · +2.5 en 67%  
-• Bajas: Toulouse: 2 fuera, 1 duda (Aron Doennum, Aron Doennum); Strasbourg: 1 fuera, 4 duda (Joaquin Panichelli)  
-• Favorito de las casas: Toulouse @ 2.25  
-📐 **Estadísticas esperadas**  
-Córners 5.1 - 3.6: total +10.5 27% · Toulouse +5.5 40% · Strasbourg +4.5 29%  
-Tarjetas 1.9 - 2.2: total +4.5 39% · Toulouse +2.5 30% · Strasbourg +2.5 37%  
-Faltas 13.2 - 12.7: total +24.5 59% · Toulouse +11.5 65% · Strasbourg +12.5 50%  
-Tiros a puerta 5.2 - 3.9: total +9.5 43% · Toulouse +5.5 41% · Strasbourg +4.5 36%  
-🧩 Crear apuesta: Menos de 10.5 córners + Menos de 2.5 tarjetas de Toulouse + Más de 11.5 faltas de Toulouse → prob. 32%, cuota justa 3.12 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 10.5 córners + Menos de 2.5 tarjetas de Toulouse + Más de 11.5 faltas de Toulouse + Menos de 4.5 tiros a puerta de Strasbourg → prob. 22%, cuota justa 4.65  
-🎯 Simulada (con cuota: Menos de 10.5 córners + Menos de 2.5 tarjetas de Toulouse): cuota Unibet aprox. 2.16 (producto de piernas) · prob. 51% · ventaja +10% → 1 u en la banca de simulación  
-
-## Toulouse vs Strasbourg — 06/11 · 20:45
-
-👀 candidata · 🇫🇷 Ligue 1 · **Menos de 10.5 córners** @ **1.35** (Unibet) · prob 71% vs casas 68% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.33 - 1.47)  
-1 40% · X 28% · 2 31%  
-1X 69% · X2 60% · 12 72%  
-+1.5 78% · +2.5 53% · +3.5 31% · Ambos marcan 57%  
-Marcadores: 1-1 12% · 1-2 9% · 0-1 8% · 2-1 8%  
-🔎 **Claves**  
-• Forma: Toulouse ✅➖✅➖❌ | Strasbourg ❌❌❌❌✅  
-• H2H: 18 desde 2005: 4V-4E-10D · 2.9 goles/partido · +2.5 en 67%  
-• Bajas: Toulouse: 2 fuera, 1 duda (Aron Doennum, Aron Doennum); Strasbourg: 1 fuera, 4 duda (Joaquin Panichelli)  
-• Favorito de las casas: Toulouse @ 2.25  
-📐 **Estadísticas esperadas**  
-Córners 5.1 - 3.6: total +10.5 27% · Toulouse +5.5 40% · Strasbourg +4.5 29%  
-Tarjetas 1.9 - 2.2: total +4.5 39% · Toulouse +2.5 30% · Strasbourg +2.5 37%  
-Faltas 13.2 - 12.7: total +24.5 59% · Toulouse +11.5 65% · Strasbourg +12.5 50%  
-Tiros a puerta 5.2 - 3.9: total +9.5 43% · Toulouse +5.5 41% · Strasbourg +4.5 36%  
-🧩 Crear apuesta: Menos de 10.5 córners + Menos de 2.5 tarjetas de Toulouse + Más de 11.5 faltas de Toulouse → prob. 32%, cuota justa 3.12 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 10.5 córners + Menos de 2.5 tarjetas de Toulouse + Más de 11.5 faltas de Toulouse + Menos de 4.5 tiros a puerta de Strasbourg → prob. 22%, cuota justa 4.65  
-🎯 Simulada (con cuota: Menos de 10.5 córners + Menos de 2.5 tarjetas de Toulouse): cuota Unibet aprox. 2.16 (producto de piernas) · prob. 51% · ventaja +10% → 1 u en la banca de simulación  
-
-## Toulouse vs Strasbourg — 06/11 · 20:45
-
-👀 candidata · 🇫🇷 Ligue 1 · **Más de 6.5 córners** @ **1.23** (Unibet) · prob 75% vs casas 74% · ventaja -8%
-
-- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.33 - 1.47)  
-1 40% · X 28% · 2 31%  
-1X 69% · X2 60% · 12 72%  
-+1.5 78% · +2.5 53% · +3.5 31% · Ambos marcan 57%  
-Marcadores: 1-1 12% · 1-2 9% · 0-1 8% · 2-1 8%  
-🔎 **Claves**  
-• Forma: Toulouse ✅➖✅➖❌ | Strasbourg ❌❌❌❌✅  
-• H2H: 18 desde 2005: 4V-4E-10D · 2.9 goles/partido · +2.5 en 67%  
-• Bajas: Toulouse: 2 fuera, 1 duda (Aron Doennum, Aron Doennum); Strasbourg: 1 fuera, 4 duda (Joaquin Panichelli)  
-• Favorito de las casas: Toulouse @ 2.25  
-📐 **Estadísticas esperadas**  
-Córners 5.1 - 3.6: total +10.5 27% · Toulouse +5.5 40% · Strasbourg +4.5 29%  
-Tarjetas 1.9 - 2.2: total +4.5 39% · Toulouse +2.5 30% · Strasbourg +2.5 37%  
-Faltas 13.2 - 12.7: total +24.5 59% · Toulouse +11.5 65% · Strasbourg +12.5 50%  
-Tiros a puerta 5.2 - 3.9: total +9.5 43% · Toulouse +5.5 41% · Strasbourg +4.5 36%  
-🧩 Crear apuesta: Menos de 10.5 córners + Menos de 2.5 tarjetas de Toulouse + Más de 11.5 faltas de Toulouse → prob. 32%, cuota justa 3.12 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 10.5 córners + Menos de 2.5 tarjetas de Toulouse + Más de 11.5 faltas de Toulouse + Menos de 4.5 tiros a puerta de Strasbourg → prob. 22%, cuota justa 4.65  
-🎯 Simulada (con cuota: Menos de 10.5 córners + Menos de 2.5 tarjetas de Toulouse): cuota Unibet aprox. 2.16 (producto de piernas) · prob. 51% · ventaja +10% → 1 u en la banca de simulación  
-
-## Toulouse vs Strasbourg — 06/11 · 20:45
-
-👀 candidata · 🇫🇷 Ligue 1 · **Más de 3.5 córners de Toulouse** @ **1.36** (Unibet) · prob 68% vs casas 67% · ventaja -7%
-
-- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.33 - 1.47)  
-1 40% · X 28% · 2 31%  
-1X 69% · X2 60% · 12 72%  
-+1.5 78% · +2.5 53% · +3.5 31% · Ambos marcan 57%  
-Marcadores: 1-1 12% · 1-2 9% · 0-1 8% · 2-1 8%  
-🔎 **Claves**  
-• Forma: Toulouse ✅➖✅➖❌ | Strasbourg ❌❌❌❌✅  
-• H2H: 18 desde 2005: 4V-4E-10D · 2.9 goles/partido · +2.5 en 67%  
-• Bajas: Toulouse: 2 fuera, 1 duda (Aron Doennum, Aron Doennum); Strasbourg: 1 fuera, 4 duda (Joaquin Panichelli)  
-• Favorito de las casas: Toulouse @ 2.25  
-📐 **Estadísticas esperadas**  
-Córners 5.1 - 3.6: total +10.5 27% · Toulouse +5.5 40% · Strasbourg +4.5 29%  
-Tarjetas 1.9 - 2.2: total +4.5 39% · Toulouse +2.5 30% · Strasbourg +2.5 37%  
-Faltas 13.2 - 12.7: total +24.5 59% · Toulouse +11.5 65% · Strasbourg +12.5 50%  
-Tiros a puerta 5.2 - 3.9: total +9.5 43% · Toulouse +5.5 41% · Strasbourg +4.5 36%  
-🧩 Crear apuesta: Menos de 10.5 córners + Menos de 2.5 tarjetas de Toulouse + Más de 11.5 faltas de Toulouse → prob. 32%, cuota justa 3.12 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 10.5 córners + Menos de 2.5 tarjetas de Toulouse + Más de 11.5 faltas de Toulouse + Menos de 4.5 tiros a puerta de Strasbourg → prob. 22%, cuota justa 4.65  
-🎯 Simulada (con cuota: Menos de 10.5 córners + Menos de 2.5 tarjetas de Toulouse): cuota Unibet aprox. 2.16 (producto de piernas) · prob. 51% · ventaja +10% → 1 u en la banca de simulación  
-
-## Toulouse vs Strasbourg — 06/11 · 20:45
-
-👀 candidata · 🇫🇷 Ligue 1 · **Menos de 6.5 córners de Toulouse** @ **1.32** (Unibet) · prob 71% vs casas 70% · ventaja -6%
-
-- ❌ Valor: ventaja -6% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.33 - 1.47)  
-1 40% · X 28% · 2 31%  
-1X 69% · X2 60% · 12 72%  
-+1.5 78% · +2.5 53% · +3.5 31% · Ambos marcan 57%  
-Marcadores: 1-1 12% · 1-2 9% · 0-1 8% · 2-1 8%  
-🔎 **Claves**  
-• Forma: Toulouse ✅➖✅➖❌ | Strasbourg ❌❌❌❌✅  
-• H2H: 18 desde 2005: 4V-4E-10D · 2.9 goles/partido · +2.5 en 67%  
-• Bajas: Toulouse: 2 fuera, 1 duda (Aron Doennum, Aron Doennum); Strasbourg: 1 fuera, 4 duda (Joaquin Panichelli)  
-• Favorito de las casas: Toulouse @ 2.25  
-📐 **Estadísticas esperadas**  
-Córners 5.1 - 3.6: total +10.5 27% · Toulouse +5.5 40% · Strasbourg +4.5 29%  
-Tarjetas 1.9 - 2.2: total +4.5 39% · Toulouse +2.5 30% · Strasbourg +2.5 37%  
-Faltas 13.2 - 12.7: total +24.5 59% · Toulouse +11.5 65% · Strasbourg +12.5 50%  
-Tiros a puerta 5.2 - 3.9: total +9.5 43% · Toulouse +5.5 41% · Strasbourg +4.5 36%  
-🧩 Crear apuesta: Menos de 10.5 córners + Menos de 2.5 tarjetas de Toulouse + Más de 11.5 faltas de Toulouse → prob. 32%, cuota justa 3.12 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 10.5 córners + Menos de 2.5 tarjetas de Toulouse + Más de 11.5 faltas de Toulouse + Menos de 4.5 tiros a puerta de Strasbourg → prob. 22%, cuota justa 4.65  
-🎯 Simulada (con cuota: Menos de 10.5 córners + Menos de 2.5 tarjetas de Toulouse): cuota Unibet aprox. 2.16 (producto de piernas) · prob. 51% · ventaja +10% → 1 u en la banca de simulación  
-
-## Toulouse vs Strasbourg — 06/11 · 20:45
-
-👀 candidata · 🇫🇷 Ligue 1 · **Más de 2.5 córners de Strasbourg** @ **1.38** (Unibet) · prob 66% vs casas 67% · ventaja -9%
-
-- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.33 - 1.47)  
-1 40% · X 28% · 2 31%  
-1X 69% · X2 60% · 12 72%  
-+1.5 78% · +2.5 53% · +3.5 31% · Ambos marcan 57%  
-Marcadores: 1-1 12% · 1-2 9% · 0-1 8% · 2-1 8%  
-🔎 **Claves**  
-• Forma: Toulouse ✅➖✅➖❌ | Strasbourg ❌❌❌❌✅  
-• H2H: 18 desde 2005: 4V-4E-10D · 2.9 goles/partido · +2.5 en 67%  
-• Bajas: Toulouse: 2 fuera, 1 duda (Aron Doennum, Aron Doennum); Strasbourg: 1 fuera, 4 duda (Joaquin Panichelli)  
-• Favorito de las casas: Toulouse @ 2.25  
-📐 **Estadísticas esperadas**  
-Córners 5.1 - 3.6: total +10.5 27% · Toulouse +5.5 40% · Strasbourg +4.5 29%  
-Tarjetas 1.9 - 2.2: total +4.5 39% · Toulouse +2.5 30% · Strasbourg +2.5 37%  
-Faltas 13.2 - 12.7: total +24.5 59% · Toulouse +11.5 65% · Strasbourg +12.5 50%  
-Tiros a puerta 5.2 - 3.9: total +9.5 43% · Toulouse +5.5 41% · Strasbourg +4.5 36%  
-🧩 Crear apuesta: Menos de 10.5 córners + Menos de 2.5 tarjetas de Toulouse + Más de 11.5 faltas de Toulouse → prob. 32%, cuota justa 3.12 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 10.5 córners + Menos de 2.5 tarjetas de Toulouse + Más de 11.5 faltas de Toulouse + Menos de 4.5 tiros a puerta de Strasbourg → prob. 22%, cuota justa 4.65  
-🎯 Simulada (con cuota: Menos de 10.5 córners + Menos de 2.5 tarjetas de Toulouse): cuota Unibet aprox. 2.16 (producto de piernas) · prob. 51% · ventaja +10% → 1 u en la banca de simulación  
-
-## Toulouse vs Strasbourg — 06/11 · 20:45
-
-👀 candidata · 🇫🇷 Ligue 1 · **Menos de 3.5 córners de Strasbourg** @ **1.84** (Unibet) · prob 52% vs casas 50% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.33 - 1.47)  
-1 40% · X 28% · 2 31%  
-1X 69% · X2 60% · 12 72%  
-+1.5 78% · +2.5 53% · +3.5 31% · Ambos marcan 57%  
-Marcadores: 1-1 12% · 1-2 9% · 0-1 8% · 2-1 8%  
-🔎 **Claves**  
-• Forma: Toulouse ✅➖✅➖❌ | Strasbourg ❌❌❌❌✅  
-• H2H: 18 desde 2005: 4V-4E-10D · 2.9 goles/partido · +2.5 en 67%  
-• Bajas: Toulouse: 2 fuera, 1 duda (Aron Doennum, Aron Doennum); Strasbourg: 1 fuera, 4 duda (Joaquin Panichelli)  
-• Favorito de las casas: Toulouse @ 2.25  
-📐 **Estadísticas esperadas**  
-Córners 5.1 - 3.6: total +10.5 27% · Toulouse +5.5 40% · Strasbourg +4.5 29%  
-Tarjetas 1.9 - 2.2: total +4.5 39% · Toulouse +2.5 30% · Strasbourg +2.5 37%  
-Faltas 13.2 - 12.7: total +24.5 59% · Toulouse +11.5 65% · Strasbourg +12.5 50%  
-Tiros a puerta 5.2 - 3.9: total +9.5 43% · Toulouse +5.5 41% · Strasbourg +4.5 36%  
-🧩 Crear apuesta: Menos de 10.5 córners + Menos de 2.5 tarjetas de Toulouse + Más de 11.5 faltas de Toulouse → prob. 32%, cuota justa 3.12 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 10.5 córners + Menos de 2.5 tarjetas de Toulouse + Más de 11.5 faltas de Toulouse + Menos de 4.5 tiros a puerta de Strasbourg → prob. 22%, cuota justa 4.65  
-🎯 Simulada (con cuota: Menos de 10.5 córners + Menos de 2.5 tarjetas de Toulouse): cuota Unibet aprox. 2.16 (producto de piernas) · prob. 51% · ventaja +10% → 1 u en la banca de simulación  
-
-## Venezia vs Udinese — 06/11 · 20:45
-
-👀 candidata · 🇮🇹 Serie A · **Udinese +0.25 (hándicap asiático)** @ **1.88** (mejor del mercado) · prob 52% vs casas 51% · ventaja -2%
-
-- ❌ Valor: ventaja -2% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ hándicap» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.07 - 1.39)  
-1 38% · X 29% · 2 34%  
-1X 66% · X2 62% · 12 71%  
-+1.5 71% · +2.5 45% · +3.5 23% · Ambos marcan 50%  
-Marcadores: 1-1 13% · 0-1 11% · 0-0 9% · 1-2 9%  
-🔎 **Claves**  
-• Forma: Venezia ❌✅❌❌❌ | Udinese ❌❌❌➖❌  
-• H2H: 4 desde 2021: 1V-0E-3D · 4.0 goles/partido · +2.5 en 100%  
-• Bajas: Venezia: 3 fuera, 4 duda (Bartol Franjic, Daniel Fila, Marin Sverko); Udinese: 5 fuera, 3 duda (Hassane Kamara, Thomas Kristensen, Vakoun Issouf Bayo)  
-• Favorito de las casas: Venezia @ 2.30  
-📐 **Estadísticas esperadas**  
-Córners 5.2 - 4.2: total +9.5 46% · Venezia +5.5 40% · Udinese +4.5 41%  
-Tarjetas 1.8 - 2.0: total +3.5 52% · Venezia +1.5 52% · Udinese +2.5 33%  
-Faltas 9.1 - 11.0: total +22.5 30% · Venezia +11.5 22% · Udinese +11.5 42%  
-Tiros a puerta 4.5 - 4.2: total +9.5 38% · Venezia +4.5 47% · Udinese +4.5 40%  
-🧩 Crear apuesta: Menos de 11.5 faltas de Venezia + Menos de 2.5 tarjetas de Udinese + Menos de 9.5 tiros a puerta → prob. 33%, cuota justa 3.07 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 11.5 faltas de Venezia + Menos de 2.5 tarjetas de Udinese + Menos de 9.5 tiros a puerta + Menos de 5.5 córners de Venezia + Menos de 2.5 goles → prob. 13%, cuota justa 7.52  
-🎯 Simulada (con cuota: Menos de 9.5 tiros a puerta + Menos de 2.5 goles): cuota Unibet aprox. 3.29 (producto de piernas) · prob. 42% · ventaja +38% → 1 u en la banca de simulación  
-
-## Venezia vs Udinese — 06/11 · 20:45
-
-👀 candidata · 🇮🇹 Serie A · **Más de 7.5 córners** @ **1.34** (Unibet) · prob 70% vs casas 69% · ventaja -7%
-
-- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.07 - 1.39)  
-1 38% · X 29% · 2 34%  
-1X 66% · X2 62% · 12 71%  
-+1.5 71% · +2.5 45% · +3.5 23% · Ambos marcan 50%  
-Marcadores: 1-1 13% · 0-1 11% · 0-0 9% · 1-2 9%  
-🔎 **Claves**  
-• Forma: Venezia ❌✅❌❌❌ | Udinese ❌❌❌➖❌  
-• H2H: 4 desde 2021: 1V-0E-3D · 4.0 goles/partido · +2.5 en 100%  
-• Bajas: Venezia: 3 fuera, 4 duda (Bartol Franjic, Daniel Fila, Marin Sverko); Udinese: 5 fuera, 3 duda (Hassane Kamara, Thomas Kristensen, Vakoun Issouf Bayo)  
-• Favorito de las casas: Venezia @ 2.30  
-📐 **Estadísticas esperadas**  
-Córners 5.2 - 4.2: total +9.5 46% · Venezia +5.5 40% · Udinese +4.5 41%  
-Tarjetas 1.8 - 2.0: total +3.5 52% · Venezia +1.5 52% · Udinese +2.5 33%  
-Faltas 9.1 - 11.0: total +22.5 30% · Venezia +11.5 22% · Udinese +11.5 42%  
-Tiros a puerta 4.5 - 4.2: total +9.5 38% · Venezia +4.5 47% · Udinese +4.5 40%  
-🧩 Crear apuesta: Menos de 11.5 faltas de Venezia + Menos de 2.5 tarjetas de Udinese + Menos de 9.5 tiros a puerta → prob. 33%, cuota justa 3.07 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 11.5 faltas de Venezia + Menos de 2.5 tarjetas de Udinese + Menos de 9.5 tiros a puerta + Menos de 5.5 córners de Venezia + Menos de 2.5 goles → prob. 13%, cuota justa 7.52  
-🎯 Simulada (con cuota: Menos de 9.5 tiros a puerta + Menos de 2.5 goles): cuota Unibet aprox. 3.29 (producto de piernas) · prob. 42% · ventaja +38% → 1 u en la banca de simulación  
-
-## Venezia vs Udinese — 06/11 · 20:45
-
-👀 candidata · 🇮🇹 Serie A · **Menos de 12.5 córners** @ **1.16** (Unibet) · prob 81% vs casas 80% · ventaja -6%
-
-- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.07 - 1.39)  
-1 38% · X 29% · 2 34%  
-1X 66% · X2 62% · 12 71%  
-+1.5 71% · +2.5 45% · +3.5 23% · Ambos marcan 50%  
-Marcadores: 1-1 13% · 0-1 11% · 0-0 9% · 1-2 9%  
-🔎 **Claves**  
-• Forma: Venezia ❌✅❌❌❌ | Udinese ❌❌❌➖❌  
-• H2H: 4 desde 2021: 1V-0E-3D · 4.0 goles/partido · +2.5 en 100%  
-• Bajas: Venezia: 3 fuera, 4 duda (Bartol Franjic, Daniel Fila, Marin Sverko); Udinese: 5 fuera, 3 duda (Hassane Kamara, Thomas Kristensen, Vakoun Issouf Bayo)  
-• Favorito de las casas: Venezia @ 2.30  
-📐 **Estadísticas esperadas**  
-Córners 5.2 - 4.2: total +9.5 46% · Venezia +5.5 40% · Udinese +4.5 41%  
-Tarjetas 1.8 - 2.0: total +3.5 52% · Venezia +1.5 52% · Udinese +2.5 33%  
-Faltas 9.1 - 11.0: total +22.5 30% · Venezia +11.5 22% · Udinese +11.5 42%  
-Tiros a puerta 4.5 - 4.2: total +9.5 38% · Venezia +4.5 47% · Udinese +4.5 40%  
-🧩 Crear apuesta: Menos de 11.5 faltas de Venezia + Menos de 2.5 tarjetas de Udinese + Menos de 9.5 tiros a puerta → prob. 33%, cuota justa 3.07 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 11.5 faltas de Venezia + Menos de 2.5 tarjetas de Udinese + Menos de 9.5 tiros a puerta + Menos de 5.5 córners de Venezia + Menos de 2.5 goles → prob. 13%, cuota justa 7.52  
-🎯 Simulada (con cuota: Menos de 9.5 tiros a puerta + Menos de 2.5 goles): cuota Unibet aprox. 3.29 (producto de piernas) · prob. 42% · ventaja +38% → 1 u en la banca de simulación  
-
-## Venezia vs Udinese — 06/11 · 20:45
-
-👀 candidata · 🇮🇹 Serie A · **Más de 3.5 córners de Venezia** @ **1.37** (Unibet) · prob 68% vs casas 67% · ventaja -6%
-
-- ❌ Valor: ventaja -6% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.07 - 1.39)  
-1 38% · X 29% · 2 34%  
-1X 66% · X2 62% · 12 71%  
-+1.5 71% · +2.5 45% · +3.5 23% · Ambos marcan 50%  
-Marcadores: 1-1 13% · 0-1 11% · 0-0 9% · 1-2 9%  
-🔎 **Claves**  
-• Forma: Venezia ❌✅❌❌❌ | Udinese ❌❌❌➖❌  
-• H2H: 4 desde 2021: 1V-0E-3D · 4.0 goles/partido · +2.5 en 100%  
-• Bajas: Venezia: 3 fuera, 4 duda (Bartol Franjic, Daniel Fila, Marin Sverko); Udinese: 5 fuera, 3 duda (Hassane Kamara, Thomas Kristensen, Vakoun Issouf Bayo)  
-• Favorito de las casas: Venezia @ 2.30  
-📐 **Estadísticas esperadas**  
-Córners 5.2 - 4.2: total +9.5 46% · Venezia +5.5 40% · Udinese +4.5 41%  
-Tarjetas 1.8 - 2.0: total +3.5 52% · Venezia +1.5 52% · Udinese +2.5 33%  
-Faltas 9.1 - 11.0: total +22.5 30% · Venezia +11.5 22% · Udinese +11.5 42%  
-Tiros a puerta 4.5 - 4.2: total +9.5 38% · Venezia +4.5 47% · Udinese +4.5 40%  
-🧩 Crear apuesta: Menos de 11.5 faltas de Venezia + Menos de 2.5 tarjetas de Udinese + Menos de 9.5 tiros a puerta → prob. 33%, cuota justa 3.07 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 11.5 faltas de Venezia + Menos de 2.5 tarjetas de Udinese + Menos de 9.5 tiros a puerta + Menos de 5.5 córners de Venezia + Menos de 2.5 goles → prob. 13%, cuota justa 7.52  
-🎯 Simulada (con cuota: Menos de 9.5 tiros a puerta + Menos de 2.5 goles): cuota Unibet aprox. 3.29 (producto de piernas) · prob. 42% · ventaja +38% → 1 u en la banca de simulación  
-
-## Venezia vs Udinese — 06/11 · 20:45
-
-👀 candidata · 🇮🇹 Serie A · **Menos de 6.5 córners de Venezia** @ **1.29** (Unibet) · prob 72% vs casas 71% · ventaja -8%
-
-- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.07 - 1.39)  
-1 38% · X 29% · 2 34%  
-1X 66% · X2 62% · 12 71%  
-+1.5 71% · +2.5 45% · +3.5 23% · Ambos marcan 50%  
-Marcadores: 1-1 13% · 0-1 11% · 0-0 9% · 1-2 9%  
-🔎 **Claves**  
-• Forma: Venezia ❌✅❌❌❌ | Udinese ❌❌❌➖❌  
-• H2H: 4 desde 2021: 1V-0E-3D · 4.0 goles/partido · +2.5 en 100%  
-• Bajas: Venezia: 3 fuera, 4 duda (Bartol Franjic, Daniel Fila, Marin Sverko); Udinese: 5 fuera, 3 duda (Hassane Kamara, Thomas Kristensen, Vakoun Issouf Bayo)  
-• Favorito de las casas: Venezia @ 2.30  
-📐 **Estadísticas esperadas**  
-Córners 5.2 - 4.2: total +9.5 46% · Venezia +5.5 40% · Udinese +4.5 41%  
-Tarjetas 1.8 - 2.0: total +3.5 52% · Venezia +1.5 52% · Udinese +2.5 33%  
-Faltas 9.1 - 11.0: total +22.5 30% · Venezia +11.5 22% · Udinese +11.5 42%  
-Tiros a puerta 4.5 - 4.2: total +9.5 38% · Venezia +4.5 47% · Udinese +4.5 40%  
-🧩 Crear apuesta: Menos de 11.5 faltas de Venezia + Menos de 2.5 tarjetas de Udinese + Menos de 9.5 tiros a puerta → prob. 33%, cuota justa 3.07 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 11.5 faltas de Venezia + Menos de 2.5 tarjetas de Udinese + Menos de 9.5 tiros a puerta + Menos de 5.5 córners de Venezia + Menos de 2.5 goles → prob. 13%, cuota justa 7.52  
-🎯 Simulada (con cuota: Menos de 9.5 tiros a puerta + Menos de 2.5 goles): cuota Unibet aprox. 3.29 (producto de piernas) · prob. 42% · ventaja +38% → 1 u en la banca de simulación  
-
-## Venezia vs Udinese — 06/11 · 20:45
-
-👀 candidata · 🇮🇹 Serie A · **Más de 2.5 córners de Udinese** @ **1.25** (Unibet) · prob 74% vs casas 73% · ventaja -8%
-
-- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.07 - 1.39)  
-1 38% · X 29% · 2 34%  
-1X 66% · X2 62% · 12 71%  
-+1.5 71% · +2.5 45% · +3.5 23% · Ambos marcan 50%  
-Marcadores: 1-1 13% · 0-1 11% · 0-0 9% · 1-2 9%  
-🔎 **Claves**  
-• Forma: Venezia ❌✅❌❌❌ | Udinese ❌❌❌➖❌  
-• H2H: 4 desde 2021: 1V-0E-3D · 4.0 goles/partido · +2.5 en 100%  
-• Bajas: Venezia: 3 fuera, 4 duda (Bartol Franjic, Daniel Fila, Marin Sverko); Udinese: 5 fuera, 3 duda (Hassane Kamara, Thomas Kristensen, Vakoun Issouf Bayo)  
-• Favorito de las casas: Venezia @ 2.30  
-📐 **Estadísticas esperadas**  
-Córners 5.2 - 4.2: total +9.5 46% · Venezia +5.5 40% · Udinese +4.5 41%  
-Tarjetas 1.8 - 2.0: total +3.5 52% · Venezia +1.5 52% · Udinese +2.5 33%  
-Faltas 9.1 - 11.0: total +22.5 30% · Venezia +11.5 22% · Udinese +11.5 42%  
-Tiros a puerta 4.5 - 4.2: total +9.5 38% · Venezia +4.5 47% · Udinese +4.5 40%  
-🧩 Crear apuesta: Menos de 11.5 faltas de Venezia + Menos de 2.5 tarjetas de Udinese + Menos de 9.5 tiros a puerta → prob. 33%, cuota justa 3.07 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 11.5 faltas de Venezia + Menos de 2.5 tarjetas de Udinese + Menos de 9.5 tiros a puerta + Menos de 5.5 córners de Venezia + Menos de 2.5 goles → prob. 13%, cuota justa 7.52  
-🎯 Simulada (con cuota: Menos de 9.5 tiros a puerta + Menos de 2.5 goles): cuota Unibet aprox. 3.29 (producto de piernas) · prob. 42% · ventaja +38% → 1 u en la banca de simulación  
-
-## Venezia vs Udinese — 06/11 · 20:45
-
-👀 candidata · 🇮🇹 Serie A · **Menos de 6.5 córners de Udinese** @ **1.15** (Unibet) · prob 81% vs casas 80% · ventaja -6%
-
-- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.07 - 1.39)  
-1 38% · X 29% · 2 34%  
-1X 66% · X2 62% · 12 71%  
-+1.5 71% · +2.5 45% · +3.5 23% · Ambos marcan 50%  
-Marcadores: 1-1 13% · 0-1 11% · 0-0 9% · 1-2 9%  
-🔎 **Claves**  
-• Forma: Venezia ❌✅❌❌❌ | Udinese ❌❌❌➖❌  
-• H2H: 4 desde 2021: 1V-0E-3D · 4.0 goles/partido · +2.5 en 100%  
-• Bajas: Venezia: 3 fuera, 4 duda (Bartol Franjic, Daniel Fila, Marin Sverko); Udinese: 5 fuera, 3 duda (Hassane Kamara, Thomas Kristensen, Vakoun Issouf Bayo)  
-• Favorito de las casas: Venezia @ 2.30  
-📐 **Estadísticas esperadas**  
-Córners 5.2 - 4.2: total +9.5 46% · Venezia +5.5 40% · Udinese +4.5 41%  
-Tarjetas 1.8 - 2.0: total +3.5 52% · Venezia +1.5 52% · Udinese +2.5 33%  
-Faltas 9.1 - 11.0: total +22.5 30% · Venezia +11.5 22% · Udinese +11.5 42%  
-Tiros a puerta 4.5 - 4.2: total +9.5 38% · Venezia +4.5 47% · Udinese +4.5 40%  
-🧩 Crear apuesta: Menos de 11.5 faltas de Venezia + Menos de 2.5 tarjetas de Udinese + Menos de 9.5 tiros a puerta → prob. 33%, cuota justa 3.07 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 11.5 faltas de Venezia + Menos de 2.5 tarjetas de Udinese + Menos de 9.5 tiros a puerta + Menos de 5.5 córners de Venezia + Menos de 2.5 goles → prob. 13%, cuota justa 7.52  
-🎯 Simulada (con cuota: Menos de 9.5 tiros a puerta + Menos de 2.5 goles): cuota Unibet aprox. 3.29 (producto de piernas) · prob. 42% · ventaja +38% → 1 u en la banca de simulación  
-
-## Everton vs Coventry — 06/11 · 21:00
-
-👀 candidata · 🏴 Premier League · **Gana Everton** @ **1.70** (Bet365) · prob 57% vs casas 57% · ventaja -2%
-
-- ❌ Valor: ventaja -2% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.39 - 0.94)  
-1 54% · X 27% · 2 20%  
-1X 80% · X2 46% · 12 73%  
-+1.5 68% · +2.5 41% · +3.5 21% · Ambos marcan 46%  
-Marcadores: 1-1 13% · 1-0 13% · 0-0 10% · 2-0 9%  
-🔎 **Claves**  
-• Forma: Everton ✅➖❌❌✅ | Coventry ✅✅❌❌✅  
-• H2H: sin precedentes  
-• Bajas: Everton: 0 fuera, 1 duda; Coventry: 4 fuera, 0 duda (Aurele Amenda, Luke Woolfenden, Josh Eccles)  
-• Favorito de las casas: Everton @ 1.70  
-📐 **Estadísticas esperadas**  
-Córners 5.9 - 3.9: total +10.5 40% · Everton +5.5 51% · Coventry +4.5 36%  
-Tarjetas 1.7 - 2.0: total +4.5 32% · Everton +2.5 25% · Coventry +2.5 32%  
-Faltas 9.6 - 12.4: total +22.5 44% · Everton +11.5 27% · Coventry +12.5 47%  
-Tiros a puerta 5.2 - 3.3: total +8.5 47% · Everton +4.5 57% · Coventry +4.5 24%  
-🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Coventry + Menos de 2.5 tarjetas de Everton + Menos de 11.5 faltas de Everton → prob. 44%, cuota justa 2.30 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 tiros a puerta de Coventry + Menos de 2.5 tarjetas de Everton + Menos de 11.5 faltas de Everton + Menos de 4.5 córners de Coventry + Menos de 2.5 goles → prob. 19%, cuota justa 5.37  
-🎯 Simulada (con cuota: Menos de 4.5 tiros a puerta de Coventry + Menos de 2.5 tarjetas de Everton + Menos de 2.5 goles): cuota Unibet aprox. 3.44 (producto de piernas) · prob. 37% · ventaja +28% → 1 u en la banca de simulación  
-
-## Everton vs Coventry — 06/11 · 21:00
-
-👀 candidata · 🏴 Premier League · **Menos de 8.5 córners de Everton** @ **1.12** (Unibet) · prob 81% vs casas 82% · ventaja -9%
-
-- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.39 - 0.94)  
-1 54% · X 27% · 2 20%  
-1X 80% · X2 46% · 12 73%  
-+1.5 68% · +2.5 41% · +3.5 21% · Ambos marcan 46%  
-Marcadores: 1-1 13% · 1-0 13% · 0-0 10% · 2-0 9%  
-🔎 **Claves**  
-• Forma: Everton ✅➖❌❌✅ | Coventry ✅✅❌❌✅  
-• H2H: sin precedentes  
-• Bajas: Everton: 0 fuera, 1 duda; Coventry: 4 fuera, 0 duda (Aurele Amenda, Luke Woolfenden, Josh Eccles)  
-• Favorito de las casas: Everton @ 1.70  
-📐 **Estadísticas esperadas**  
-Córners 5.9 - 3.9: total +10.5 40% · Everton +5.5 51% · Coventry +4.5 36%  
-Tarjetas 1.7 - 2.0: total +4.5 32% · Everton +2.5 25% · Coventry +2.5 32%  
-Faltas 9.6 - 12.4: total +22.5 44% · Everton +11.5 27% · Coventry +12.5 47%  
-Tiros a puerta 5.2 - 3.3: total +8.5 47% · Everton +4.5 57% · Coventry +4.5 24%  
-🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Coventry + Menos de 2.5 tarjetas de Everton + Menos de 11.5 faltas de Everton → prob. 44%, cuota justa 2.30 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 tiros a puerta de Coventry + Menos de 2.5 tarjetas de Everton + Menos de 11.5 faltas de Everton + Menos de 4.5 córners de Coventry + Menos de 2.5 goles → prob. 19%, cuota justa 5.37  
-🎯 Simulada (con cuota: Menos de 4.5 tiros a puerta de Coventry + Menos de 2.5 tarjetas de Everton + Menos de 2.5 goles): cuota Unibet aprox. 3.44 (producto de piernas) · prob. 37% · ventaja +28% → 1 u en la banca de simulación  
-
-## Everton vs Coventry — 06/11 · 21:00
-
-👀 candidata · 🏴 Premier League · **Más de 6.5 córners de Everton** @ **2.65** (Unibet) · prob 36% vs casas 35% · ventaja -3%
-
-- ❌ Valor: ventaja -3% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.39 - 0.94)  
-1 54% · X 27% · 2 20%  
-1X 80% · X2 46% · 12 73%  
-+1.5 68% · +2.5 41% · +3.5 21% · Ambos marcan 46%  
-Marcadores: 1-1 13% · 1-0 13% · 0-0 10% · 2-0 9%  
-🔎 **Claves**  
-• Forma: Everton ✅➖❌❌✅ | Coventry ✅✅❌❌✅  
-• H2H: sin precedentes  
-• Bajas: Everton: 0 fuera, 1 duda; Coventry: 4 fuera, 0 duda (Aurele Amenda, Luke Woolfenden, Josh Eccles)  
-• Favorito de las casas: Everton @ 1.70  
-📐 **Estadísticas esperadas**  
-Córners 5.9 - 3.9: total +10.5 40% · Everton +5.5 51% · Coventry +4.5 36%  
-Tarjetas 1.7 - 2.0: total +4.5 32% · Everton +2.5 25% · Coventry +2.5 32%  
-Faltas 9.6 - 12.4: total +22.5 44% · Everton +11.5 27% · Coventry +12.5 47%  
-Tiros a puerta 5.2 - 3.3: total +8.5 47% · Everton +4.5 57% · Coventry +4.5 24%  
-🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Coventry + Menos de 2.5 tarjetas de Everton + Menos de 11.5 faltas de Everton → prob. 44%, cuota justa 2.30 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 tiros a puerta de Coventry + Menos de 2.5 tarjetas de Everton + Menos de 11.5 faltas de Everton + Menos de 4.5 córners de Coventry + Menos de 2.5 goles → prob. 19%, cuota justa 5.37  
-🎯 Simulada (con cuota: Menos de 4.5 tiros a puerta de Coventry + Menos de 2.5 tarjetas de Everton + Menos de 2.5 goles): cuota Unibet aprox. 3.44 (producto de piernas) · prob. 37% · ventaja +28% → 1 u en la banca de simulación  
-
-## Everton vs Coventry — 06/11 · 21:00
-
-👀 candidata · 🏴 Premier League · **Más de 2.5 córners de Coventry** @ **1.33** (Unibet) · prob 70% vs casas 69% · ventaja -7%
-
-- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.39 - 0.94)  
-1 54% · X 27% · 2 20%  
-1X 80% · X2 46% · 12 73%  
-+1.5 68% · +2.5 41% · +3.5 21% · Ambos marcan 46%  
-Marcadores: 1-1 13% · 1-0 13% · 0-0 10% · 2-0 9%  
-🔎 **Claves**  
-• Forma: Everton ✅➖❌❌✅ | Coventry ✅✅❌❌✅  
-• H2H: sin precedentes  
-• Bajas: Everton: 0 fuera, 1 duda; Coventry: 4 fuera, 0 duda (Aurele Amenda, Luke Woolfenden, Josh Eccles)  
-• Favorito de las casas: Everton @ 1.70  
-📐 **Estadísticas esperadas**  
-Córners 5.9 - 3.9: total +10.5 40% · Everton +5.5 51% · Coventry +4.5 36%  
-Tarjetas 1.7 - 2.0: total +4.5 32% · Everton +2.5 25% · Coventry +2.5 32%  
-Faltas 9.6 - 12.4: total +22.5 44% · Everton +11.5 27% · Coventry +12.5 47%  
-Tiros a puerta 5.2 - 3.3: total +8.5 47% · Everton +4.5 57% · Coventry +4.5 24%  
-🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Coventry + Menos de 2.5 tarjetas de Everton + Menos de 11.5 faltas de Everton → prob. 44%, cuota justa 2.30 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 tiros a puerta de Coventry + Menos de 2.5 tarjetas de Everton + Menos de 11.5 faltas de Everton + Menos de 4.5 córners de Coventry + Menos de 2.5 goles → prob. 19%, cuota justa 5.37  
-🎯 Simulada (con cuota: Menos de 4.5 tiros a puerta de Coventry + Menos de 2.5 tarjetas de Everton + Menos de 2.5 goles): cuota Unibet aprox. 3.44 (producto de piernas) · prob. 37% · ventaja +28% → 1 u en la banca de simulación  
-
-## Everton vs Coventry — 06/11 · 21:00
-
-👀 candidata · 🏴 Premier League · **Menos de 5.5 córners de Coventry** @ **1.24** (Unibet) · prob 76% vs casas 74% · ventaja -6%
-
-- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.39 - 0.94)  
-1 54% · X 27% · 2 20%  
-1X 80% · X2 46% · 12 73%  
-+1.5 68% · +2.5 41% · +3.5 21% · Ambos marcan 46%  
-Marcadores: 1-1 13% · 1-0 13% · 0-0 10% · 2-0 9%  
-🔎 **Claves**  
-• Forma: Everton ✅➖❌❌✅ | Coventry ✅✅❌❌✅  
-• H2H: sin precedentes  
-• Bajas: Everton: 0 fuera, 1 duda; Coventry: 4 fuera, 0 duda (Aurele Amenda, Luke Woolfenden, Josh Eccles)  
-• Favorito de las casas: Everton @ 1.70  
-📐 **Estadísticas esperadas**  
-Córners 5.9 - 3.9: total +10.5 40% · Everton +5.5 51% · Coventry +4.5 36%  
-Tarjetas 1.7 - 2.0: total +4.5 32% · Everton +2.5 25% · Coventry +2.5 32%  
-Faltas 9.6 - 12.4: total +22.5 44% · Everton +11.5 27% · Coventry +12.5 47%  
-Tiros a puerta 5.2 - 3.3: total +8.5 47% · Everton +4.5 57% · Coventry +4.5 24%  
-🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Coventry + Menos de 2.5 tarjetas de Everton + Menos de 11.5 faltas de Everton → prob. 44%, cuota justa 2.30 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 tiros a puerta de Coventry + Menos de 2.5 tarjetas de Everton + Menos de 11.5 faltas de Everton + Menos de 4.5 córners de Coventry + Menos de 2.5 goles → prob. 19%, cuota justa 5.37  
-🎯 Simulada (con cuota: Menos de 4.5 tiros a puerta de Coventry + Menos de 2.5 tarjetas de Everton + Menos de 2.5 goles): cuota Unibet aprox. 3.44 (producto de piernas) · prob. 37% · ventaja +28% → 1 u en la banca de simulación  
-
-## Everton vs Coventry — 06/11 · 21:00
-
-👀 candidata · 🏴 Premier League · **Más de 9.5 córners** @ **1.91** (Unibet) · prob 50% vs casas 48% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.39 - 0.94)  
-1 54% · X 27% · 2 20%  
-1X 80% · X2 46% · 12 73%  
-+1.5 68% · +2.5 41% · +3.5 21% · Ambos marcan 46%  
-Marcadores: 1-1 13% · 1-0 13% · 0-0 10% · 2-0 9%  
-🔎 **Claves**  
-• Forma: Everton ✅➖❌❌✅ | Coventry ✅✅❌❌✅  
-• H2H: sin precedentes  
-• Bajas: Everton: 0 fuera, 1 duda; Coventry: 4 fuera, 0 duda (Aurele Amenda, Luke Woolfenden, Josh Eccles)  
-• Favorito de las casas: Everton @ 1.70  
-📐 **Estadísticas esperadas**  
-Córners 5.9 - 3.9: total +10.5 40% · Everton +5.5 51% · Coventry +4.5 36%  
-Tarjetas 1.7 - 2.0: total +4.5 32% · Everton +2.5 25% · Coventry +2.5 32%  
-Faltas 9.6 - 12.4: total +22.5 44% · Everton +11.5 27% · Coventry +12.5 47%  
-Tiros a puerta 5.2 - 3.3: total +8.5 47% · Everton +4.5 57% · Coventry +4.5 24%  
-🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Coventry + Menos de 2.5 tarjetas de Everton + Menos de 11.5 faltas de Everton → prob. 44%, cuota justa 2.30 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 tiros a puerta de Coventry + Menos de 2.5 tarjetas de Everton + Menos de 11.5 faltas de Everton + Menos de 4.5 córners de Coventry + Menos de 2.5 goles → prob. 19%, cuota justa 5.37  
-🎯 Simulada (con cuota: Menos de 4.5 tiros a puerta de Coventry + Menos de 2.5 tarjetas de Everton + Menos de 2.5 goles): cuota Unibet aprox. 3.44 (producto de piernas) · prob. 37% · ventaja +28% → 1 u en la banca de simulación  
-
-## Everton vs Coventry — 06/11 · 21:00
-
-👀 candidata · 🏴 Premier League · **Menos de 12.5 córners** @ **1.17** (Unibet) · prob 79% vs casas 78% · ventaja -8%
-
-- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.39 - 0.94)  
-1 54% · X 27% · 2 20%  
-1X 80% · X2 46% · 12 73%  
-+1.5 68% · +2.5 41% · +3.5 21% · Ambos marcan 46%  
-Marcadores: 1-1 13% · 1-0 13% · 0-0 10% · 2-0 9%  
-🔎 **Claves**  
-• Forma: Everton ✅➖❌❌✅ | Coventry ✅✅❌❌✅  
-• H2H: sin precedentes  
-• Bajas: Everton: 0 fuera, 1 duda; Coventry: 4 fuera, 0 duda (Aurele Amenda, Luke Woolfenden, Josh Eccles)  
-• Favorito de las casas: Everton @ 1.70  
-📐 **Estadísticas esperadas**  
-Córners 5.9 - 3.9: total +10.5 40% · Everton +5.5 51% · Coventry +4.5 36%  
-Tarjetas 1.7 - 2.0: total +4.5 32% · Everton +2.5 25% · Coventry +2.5 32%  
-Faltas 9.6 - 12.4: total +22.5 44% · Everton +11.5 27% · Coventry +12.5 47%  
-Tiros a puerta 5.2 - 3.3: total +8.5 47% · Everton +4.5 57% · Coventry +4.5 24%  
-🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Coventry + Menos de 2.5 tarjetas de Everton + Menos de 11.5 faltas de Everton → prob. 44%, cuota justa 2.30 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 tiros a puerta de Coventry + Menos de 2.5 tarjetas de Everton + Menos de 11.5 faltas de Everton + Menos de 4.5 córners de Coventry + Menos de 2.5 goles → prob. 19%, cuota justa 5.37  
-🎯 Simulada (con cuota: Menos de 4.5 tiros a puerta de Coventry + Menos de 2.5 tarjetas de Everton + Menos de 2.5 goles): cuota Unibet aprox. 3.44 (producto de piernas) · prob. 37% · ventaja +28% → 1 u en la banca de simulación  
-
-## Derby vs Bolton — 06/11 · 21:00
-
-👀 candidata · 🏴 Championship · **Derby +0 (hándicap asiático)** @ **2.00** (mejor del mercado) · prob 49% vs casas 49% · ventaja -3%
-
-- ❌ Valor: ventaja -3% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ hándicap» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.25 - 1.28)  
-1 42% · X 28% · 2 30%  
-1X 70% · X2 58% · 12 72%  
-+1.5 73% · +2.5 46% · +3.5 25% · Ambos marcan 52%  
-Marcadores: 1-1 13% · 0-1 10% · 1-0 9% · 0-0 9%  
-🔎 **Claves**  
-• Forma: Derby ❌❌➖❌❌ | Bolton ✅➖❌❌✅  
-• H2H: 14 desde 2007: 6V-5E-3D · 2.4 goles/partido · +2.5 en 43%  
-• Bajas: Derby: 0 fuera, 4 duda; Bolton: sin bajas  
-• Favorito de las casas: Bolton @ 2.55  
-📐 **Estadísticas esperadas**  
-Córners 5.9 - 4.6: total +10.5 47% · Derby +5.5 50% · Bolton +4.5 46%  
-Tarjetas 1.7 - 1.9: total +3.5 48% · Derby +2.5 25% · Bolton +2.5 29%  
-Faltas 10.6 - 10.2: total +22.5 35% · Derby +11.5 37% · Bolton +11.5 33%  
-Tiros a puerta 4.0 - 4.2: total +9.5 31% · Derby +5.5 22% · Bolton +3.5 58%  
-🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Derby + Menos de 2.5 tarjetas de Derby + Menos de 11.5 faltas de Bolton → prob. 39%, cuota justa 2.59 (solo vale si la casa paga más)  
-🎯 Simulada (con cuota: Menos de 5.5 tiros a puerta de Derby + Menos de 2.5 tarjetas de Derby): cuota Unibet aprox. 1.83 (producto de piernas) · prob. 57% · ventaja +5% → 1 u en la banca de simulación  
-
-## Derby vs Bolton — 06/11 · 21:00
-
-👀 candidata · 🏴 Championship · **Más de 7.5 córners** @ **1.19** (Unibet) · prob 78% vs casas 77% · ventaja -7%
-
-- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.25 - 1.28)  
-1 42% · X 28% · 2 30%  
-1X 70% · X2 58% · 12 72%  
-+1.5 73% · +2.5 46% · +3.5 25% · Ambos marcan 52%  
-Marcadores: 1-1 13% · 0-1 10% · 1-0 9% · 0-0 9%  
-🔎 **Claves**  
-• Forma: Derby ❌❌➖❌❌ | Bolton ✅➖❌❌✅  
-• H2H: 14 desde 2007: 6V-5E-3D · 2.4 goles/partido · +2.5 en 43%  
-• Bajas: Derby: 0 fuera, 4 duda; Bolton: sin bajas  
-• Favorito de las casas: Bolton @ 2.55  
-📐 **Estadísticas esperadas**  
-Córners 5.9 - 4.6: total +10.5 47% · Derby +5.5 50% · Bolton +4.5 46%  
-Tarjetas 1.7 - 1.9: total +3.5 48% · Derby +2.5 25% · Bolton +2.5 29%  
-Faltas 10.6 - 10.2: total +22.5 35% · Derby +11.5 37% · Bolton +11.5 33%  
-Tiros a puerta 4.0 - 4.2: total +9.5 31% · Derby +5.5 22% · Bolton +3.5 58%  
-🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Derby + Menos de 2.5 tarjetas de Derby + Menos de 11.5 faltas de Bolton → prob. 39%, cuota justa 2.59 (solo vale si la casa paga más)  
-🎯 Simulada (con cuota: Menos de 5.5 tiros a puerta de Derby + Menos de 2.5 tarjetas de Derby): cuota Unibet aprox. 1.83 (producto de piernas) · prob. 57% · ventaja +5% → 1 u en la banca de simulación  
-
-## Derby vs Bolton — 06/11 · 21:00
-
-👀 candidata · 🏴 Championship · **Menos de 13.5 córners** @ **1.19** (Unibet) · prob 80% vs casas 78% · ventaja -5%
-
-- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.25 - 1.28)  
-1 42% · X 28% · 2 30%  
-1X 70% · X2 58% · 12 72%  
-+1.5 73% · +2.5 46% · +3.5 25% · Ambos marcan 52%  
-Marcadores: 1-1 13% · 0-1 10% · 1-0 9% · 0-0 9%  
-🔎 **Claves**  
-• Forma: Derby ❌❌➖❌❌ | Bolton ✅➖❌❌✅  
-• H2H: 14 desde 2007: 6V-5E-3D · 2.4 goles/partido · +2.5 en 43%  
-• Bajas: Derby: 0 fuera, 4 duda; Bolton: sin bajas  
-• Favorito de las casas: Bolton @ 2.55  
-📐 **Estadísticas esperadas**  
-Córners 5.9 - 4.6: total +10.5 47% · Derby +5.5 50% · Bolton +4.5 46%  
-Tarjetas 1.7 - 1.9: total +3.5 48% · Derby +2.5 25% · Bolton +2.5 29%  
-Faltas 10.6 - 10.2: total +22.5 35% · Derby +11.5 37% · Bolton +11.5 33%  
-Tiros a puerta 4.0 - 4.2: total +9.5 31% · Derby +5.5 22% · Bolton +3.5 58%  
-🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Derby + Menos de 2.5 tarjetas de Derby + Menos de 11.5 faltas de Bolton → prob. 39%, cuota justa 2.59 (solo vale si la casa paga más)  
-🎯 Simulada (con cuota: Menos de 5.5 tiros a puerta de Derby + Menos de 2.5 tarjetas de Derby): cuota Unibet aprox. 1.83 (producto de piernas) · prob. 57% · ventaja +5% → 1 u en la banca de simulación  
-
-## Derby vs Bolton — 06/11 · 21:00
-
-👀 candidata · 🏴 Championship · **Más de 4.5 córners de Derby** @ **1.48** (Unibet) · prob 63% vs casas 62% · ventaja -7%
-
-- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.25 - 1.28)  
-1 42% · X 28% · 2 30%  
-1X 70% · X2 58% · 12 72%  
-+1.5 73% · +2.5 46% · +3.5 25% · Ambos marcan 52%  
-Marcadores: 1-1 13% · 0-1 10% · 1-0 9% · 0-0 9%  
-🔎 **Claves**  
-• Forma: Derby ❌❌➖❌❌ | Bolton ✅➖❌❌✅  
-• H2H: 14 desde 2007: 6V-5E-3D · 2.4 goles/partido · +2.5 en 43%  
-• Bajas: Derby: 0 fuera, 4 duda; Bolton: sin bajas  
-• Favorito de las casas: Bolton @ 2.55  
-📐 **Estadísticas esperadas**  
-Córners 5.9 - 4.6: total +10.5 47% · Derby +5.5 50% · Bolton +4.5 46%  
-Tarjetas 1.7 - 1.9: total +3.5 48% · Derby +2.5 25% · Bolton +2.5 29%  
-Faltas 10.6 - 10.2: total +22.5 35% · Derby +11.5 37% · Bolton +11.5 33%  
-Tiros a puerta 4.0 - 4.2: total +9.5 31% · Derby +5.5 22% · Bolton +3.5 58%  
-🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Derby + Menos de 2.5 tarjetas de Derby + Menos de 11.5 faltas de Bolton → prob. 39%, cuota justa 2.59 (solo vale si la casa paga más)  
-🎯 Simulada (con cuota: Menos de 5.5 tiros a puerta de Derby + Menos de 2.5 tarjetas de Derby): cuota Unibet aprox. 1.83 (producto de piernas) · prob. 57% · ventaja +5% → 1 u en la banca de simulación  
-
-## Derby vs Bolton — 06/11 · 21:00
-
-👀 candidata · 🏴 Championship · **Menos de 7.5 córners de Derby** @ **1.28** (Unibet) · prob 72% vs casas 72% · ventaja -7%
-
-- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.25 - 1.28)  
-1 42% · X 28% · 2 30%  
-1X 70% · X2 58% · 12 72%  
-+1.5 73% · +2.5 46% · +3.5 25% · Ambos marcan 52%  
-Marcadores: 1-1 13% · 0-1 10% · 1-0 9% · 0-0 9%  
-🔎 **Claves**  
-• Forma: Derby ❌❌➖❌❌ | Bolton ✅➖❌❌✅  
-• H2H: 14 desde 2007: 6V-5E-3D · 2.4 goles/partido · +2.5 en 43%  
-• Bajas: Derby: 0 fuera, 4 duda; Bolton: sin bajas  
-• Favorito de las casas: Bolton @ 2.55  
-📐 **Estadísticas esperadas**  
-Córners 5.9 - 4.6: total +10.5 47% · Derby +5.5 50% · Bolton +4.5 46%  
-Tarjetas 1.7 - 1.9: total +3.5 48% · Derby +2.5 25% · Bolton +2.5 29%  
-Faltas 10.6 - 10.2: total +22.5 35% · Derby +11.5 37% · Bolton +11.5 33%  
-Tiros a puerta 4.0 - 4.2: total +9.5 31% · Derby +5.5 22% · Bolton +3.5 58%  
-🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Derby + Menos de 2.5 tarjetas de Derby + Menos de 11.5 faltas de Bolton → prob. 39%, cuota justa 2.59 (solo vale si la casa paga más)  
-🎯 Simulada (con cuota: Menos de 5.5 tiros a puerta de Derby + Menos de 2.5 tarjetas de Derby): cuota Unibet aprox. 1.83 (producto de piernas) · prob. 57% · ventaja +5% → 1 u en la banca de simulación  
-
-## Derby vs Bolton — 06/11 · 21:00
-
-👀 candidata · 🏴 Championship · **Menos de 5.5 córners de Bolton** @ **1.41** (Unibet) · prob 66% vs casas 65% · ventaja -6%
-
-- ❌ Valor: ventaja -6% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.25 - 1.28)  
-1 42% · X 28% · 2 30%  
-1X 70% · X2 58% · 12 72%  
-+1.5 73% · +2.5 46% · +3.5 25% · Ambos marcan 52%  
-Marcadores: 1-1 13% · 0-1 10% · 1-0 9% · 0-0 9%  
-🔎 **Claves**  
-• Forma: Derby ❌❌➖❌❌ | Bolton ✅➖❌❌✅  
-• H2H: 14 desde 2007: 6V-5E-3D · 2.4 goles/partido · +2.5 en 43%  
-• Bajas: Derby: 0 fuera, 4 duda; Bolton: sin bajas  
-• Favorito de las casas: Bolton @ 2.55  
-📐 **Estadísticas esperadas**  
-Córners 5.9 - 4.6: total +10.5 47% · Derby +5.5 50% · Bolton +4.5 46%  
-Tarjetas 1.7 - 1.9: total +3.5 48% · Derby +2.5 25% · Bolton +2.5 29%  
-Faltas 10.6 - 10.2: total +22.5 35% · Derby +11.5 37% · Bolton +11.5 33%  
-Tiros a puerta 4.0 - 4.2: total +9.5 31% · Derby +5.5 22% · Bolton +3.5 58%  
-🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Derby + Menos de 2.5 tarjetas de Derby + Menos de 11.5 faltas de Bolton → prob. 39%, cuota justa 2.59 (solo vale si la casa paga más)  
-🎯 Simulada (con cuota: Menos de 5.5 tiros a puerta de Derby + Menos de 2.5 tarjetas de Derby): cuota Unibet aprox. 1.83 (producto de piernas) · prob. 57% · ventaja +5% → 1 u en la banca de simulación  
-
-## Derby vs Bolton — 06/11 · 21:00
-
-👀 candidata · 🏴 Championship · **Más de 3.5 córners de Bolton** @ **1.46** (Unibet) · prob 63% vs casas 63% · ventaja -8%
-
-- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.25 - 1.28)  
-1 42% · X 28% · 2 30%  
-1X 70% · X2 58% · 12 72%  
-+1.5 73% · +2.5 46% · +3.5 25% · Ambos marcan 52%  
-Marcadores: 1-1 13% · 0-1 10% · 1-0 9% · 0-0 9%  
-🔎 **Claves**  
-• Forma: Derby ❌❌➖❌❌ | Bolton ✅➖❌❌✅  
-• H2H: 14 desde 2007: 6V-5E-3D · 2.4 goles/partido · +2.5 en 43%  
-• Bajas: Derby: 0 fuera, 4 duda; Bolton: sin bajas  
-• Favorito de las casas: Bolton @ 2.55  
-📐 **Estadísticas esperadas**  
-Córners 5.9 - 4.6: total +10.5 47% · Derby +5.5 50% · Bolton +4.5 46%  
-Tarjetas 1.7 - 1.9: total +3.5 48% · Derby +2.5 25% · Bolton +2.5 29%  
-Faltas 10.6 - 10.2: total +22.5 35% · Derby +11.5 37% · Bolton +11.5 33%  
-Tiros a puerta 4.0 - 4.2: total +9.5 31% · Derby +5.5 22% · Bolton +3.5 58%  
-🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Derby + Menos de 2.5 tarjetas de Derby + Menos de 11.5 faltas de Bolton → prob. 39%, cuota justa 2.59 (solo vale si la casa paga más)  
-🎯 Simulada (con cuota: Menos de 5.5 tiros a puerta de Derby + Menos de 2.5 tarjetas de Derby): cuota Unibet aprox. 1.83 (producto de piernas) · prob. 57% · ventaja +5% → 1 u en la banca de simulación  
-
-## Sevilla vs Alaves — 06/11 · 21:00
-
-👀 candidata · 🇪🇸 LaLiga · **Alaves +0.5 (hándicap asiático)** @ **2.00** (mejor del mercado) · prob 49% vs casas 49% · ventaja -1%
-
-- ❌ Valor: ventaja -1% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ hándicap» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.36 - 1.06)  
-1 44% · X 29% · 2 27%  
-1X 73% · X2 56% · 12 71%  
-+1.5 70% · +2.5 44% · +3.5 23% · Ambos marcan 49%  
-Marcadores: 1-1 13% · 1-0 11% · 0-0 10% · 0-1 9%  
-🔎 **Claves**  
-• Forma: Sevilla ❌➖❌✅❌ | Alaves ➖❌❌➖❌  
-• H2H: 20 desde 2005: 8V-7E-5D · 2.5 goles/partido · +2.5 en 40%  
-• Bajas: Sevilla: 2 fuera, 3 duda (Isaac Romero, Manu Bueno); Alaves: 2 fuera, 1 duda (Mikel Rodriguez, Facundo Garces)  
-• Favorito de las casas: Sevilla @ 1.90  
-📐 **Estadísticas esperadas**  
-Córners 5.3 - 3.4: total +10.5 27% · Sevilla +5.5 42% · Alaves +4.5 27%  
-Tarjetas 2.6 - 2.7: total +4.5 59% · Sevilla +2.5 47% · Alaves +2.5 51%  
-Faltas 14.8 - 14.6: total +25.5 74% · Sevilla +12.5 70% · Alaves +12.5 68%  
-Tiros a puerta 4.7 - 3.3: total +9.5 30% · Sevilla +4.5 50% · Alaves +4.5 25%  
-🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Alaves + Más de 25.5 faltas + Menos de 10.5 córners → prob. 42%, cuota justa 2.37 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 tiros a puerta de Alaves + Más de 25.5 faltas + Menos de 10.5 córners + Más de 4.5 tarjetas + Menos de 2.5 goles → prob. 17%, cuota justa 5.85  
-🎯 No simulada (con cuota: Menos de 10.5 córners + Más de 4.5 tarjetas): cuota Unibet aprox. 2.27 (producto de piernas) · prob. 43% · ventaja -2%  
-
-## Sevilla vs Alaves — 06/11 · 21:00
-
-👀 candidata · 🇪🇸 LaLiga · **Más de 5.5 córners** @ **1.09** (Unibet) · prob 84% vs casas 84% · ventaja -8%
-
-- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.36 - 1.06)  
-1 44% · X 29% · 2 27%  
-1X 73% · X2 56% · 12 71%  
-+1.5 70% · +2.5 44% · +3.5 23% · Ambos marcan 49%  
-Marcadores: 1-1 13% · 1-0 11% · 0-0 10% · 0-1 9%  
-🔎 **Claves**  
-• Forma: Sevilla ❌➖❌✅❌ | Alaves ➖❌❌➖❌  
-• H2H: 20 desde 2005: 8V-7E-5D · 2.5 goles/partido · +2.5 en 40%  
-• Bajas: Sevilla: 2 fuera, 3 duda (Isaac Romero, Manu Bueno); Alaves: 2 fuera, 1 duda (Mikel Rodriguez, Facundo Garces)  
-• Favorito de las casas: Sevilla @ 1.90  
-📐 **Estadísticas esperadas**  
-Córners 5.3 - 3.4: total +10.5 27% · Sevilla +5.5 42% · Alaves +4.5 27%  
-Tarjetas 2.6 - 2.7: total +4.5 59% · Sevilla +2.5 47% · Alaves +2.5 51%  
-Faltas 14.8 - 14.6: total +25.5 74% · Sevilla +12.5 70% · Alaves +12.5 68%  
-Tiros a puerta 4.7 - 3.3: total +9.5 30% · Sevilla +4.5 50% · Alaves +4.5 25%  
-🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Alaves + Más de 25.5 faltas + Menos de 10.5 córners → prob. 42%, cuota justa 2.37 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 tiros a puerta de Alaves + Más de 25.5 faltas + Menos de 10.5 córners + Más de 4.5 tarjetas + Menos de 2.5 goles → prob. 17%, cuota justa 5.85  
-🎯 No simulada (con cuota: Menos de 10.5 córners + Más de 4.5 tarjetas): cuota Unibet aprox. 2.27 (producto de piernas) · prob. 43% · ventaja -2%  
-
-## Sevilla vs Alaves — 06/11 · 21:00
-
-👀 candidata · 🇪🇸 LaLiga · **Menos de 9.5 córners** @ **1.60** (Unibet) · prob 60% vs casas 58% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.36 - 1.06)  
-1 44% · X 29% · 2 27%  
-1X 73% · X2 56% · 12 71%  
-+1.5 70% · +2.5 44% · +3.5 23% · Ambos marcan 49%  
-Marcadores: 1-1 13% · 1-0 11% · 0-0 10% · 0-1 9%  
-🔎 **Claves**  
-• Forma: Sevilla ❌➖❌✅❌ | Alaves ➖❌❌➖❌  
-• H2H: 20 desde 2005: 8V-7E-5D · 2.5 goles/partido · +2.5 en 40%  
-• Bajas: Sevilla: 2 fuera, 3 duda (Isaac Romero, Manu Bueno); Alaves: 2 fuera, 1 duda (Mikel Rodriguez, Facundo Garces)  
-• Favorito de las casas: Sevilla @ 1.90  
-📐 **Estadísticas esperadas**  
-Córners 5.3 - 3.4: total +10.5 27% · Sevilla +5.5 42% · Alaves +4.5 27%  
-Tarjetas 2.6 - 2.7: total +4.5 59% · Sevilla +2.5 47% · Alaves +2.5 51%  
-Faltas 14.8 - 14.6: total +25.5 74% · Sevilla +12.5 70% · Alaves +12.5 68%  
-Tiros a puerta 4.7 - 3.3: total +9.5 30% · Sevilla +4.5 50% · Alaves +4.5 25%  
-🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Alaves + Más de 25.5 faltas + Menos de 10.5 córners → prob. 42%, cuota justa 2.37 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 tiros a puerta de Alaves + Más de 25.5 faltas + Menos de 10.5 córners + Más de 4.5 tarjetas + Menos de 2.5 goles → prob. 17%, cuota justa 5.85  
-🎯 No simulada (con cuota: Menos de 10.5 córners + Más de 4.5 tarjetas): cuota Unibet aprox. 2.27 (producto de piernas) · prob. 43% · ventaja -2%  
-
-## Sevilla vs Alaves — 06/11 · 21:00
-
-👀 candidata · 🇪🇸 LaLiga · **Menos de 3.5 córners de Alaves** @ **1.76** (Unibet) · prob 55% vs casas 52% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.36 - 1.06)  
-1 44% · X 29% · 2 27%  
-1X 73% · X2 56% · 12 71%  
-+1.5 70% · +2.5 44% · +3.5 23% · Ambos marcan 49%  
-Marcadores: 1-1 13% · 1-0 11% · 0-0 10% · 0-1 9%  
-🔎 **Claves**  
-• Forma: Sevilla ❌➖❌✅❌ | Alaves ➖❌❌➖❌  
-• H2H: 20 desde 2005: 8V-7E-5D · 2.5 goles/partido · +2.5 en 40%  
-• Bajas: Sevilla: 2 fuera, 3 duda (Isaac Romero, Manu Bueno); Alaves: 2 fuera, 1 duda (Mikel Rodriguez, Facundo Garces)  
-• Favorito de las casas: Sevilla @ 1.90  
-📐 **Estadísticas esperadas**  
-Córners 5.3 - 3.4: total +10.5 27% · Sevilla +5.5 42% · Alaves +4.5 27%  
-Tarjetas 2.6 - 2.7: total +4.5 59% · Sevilla +2.5 47% · Alaves +2.5 51%  
-Faltas 14.8 - 14.6: total +25.5 74% · Sevilla +12.5 70% · Alaves +12.5 68%  
-Tiros a puerta 4.7 - 3.3: total +9.5 30% · Sevilla +4.5 50% · Alaves +4.5 25%  
-🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Alaves + Más de 25.5 faltas + Menos de 10.5 córners → prob. 42%, cuota justa 2.37 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 tiros a puerta de Alaves + Más de 25.5 faltas + Menos de 10.5 córners + Más de 4.5 tarjetas + Menos de 2.5 goles → prob. 17%, cuota justa 5.85  
-🎯 No simulada (con cuota: Menos de 10.5 córners + Más de 4.5 tarjetas): cuota Unibet aprox. 2.27 (producto de piernas) · prob. 43% · ventaja -2%  
-
-## Sevilla vs Alaves — 06/11 · 21:00
-
-👀 candidata · 🇪🇸 LaLiga · **Más de 1.5 córners de Alaves** @ **1.13** (Unibet) · prob 81% vs casas 81% · ventaja -8%
-
-- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.36 - 1.06)  
-1 44% · X 29% · 2 27%  
-1X 73% · X2 56% · 12 71%  
-+1.5 70% · +2.5 44% · +3.5 23% · Ambos marcan 49%  
-Marcadores: 1-1 13% · 1-0 11% · 0-0 10% · 0-1 9%  
-🔎 **Claves**  
-• Forma: Sevilla ❌➖❌✅❌ | Alaves ➖❌❌➖❌  
-• H2H: 20 desde 2005: 8V-7E-5D · 2.5 goles/partido · +2.5 en 40%  
-• Bajas: Sevilla: 2 fuera, 3 duda (Isaac Romero, Manu Bueno); Alaves: 2 fuera, 1 duda (Mikel Rodriguez, Facundo Garces)  
-• Favorito de las casas: Sevilla @ 1.90  
-📐 **Estadísticas esperadas**  
-Córners 5.3 - 3.4: total +10.5 27% · Sevilla +5.5 42% · Alaves +4.5 27%  
-Tarjetas 2.6 - 2.7: total +4.5 59% · Sevilla +2.5 47% · Alaves +2.5 51%  
-Faltas 14.8 - 14.6: total +25.5 74% · Sevilla +12.5 70% · Alaves +12.5 68%  
-Tiros a puerta 4.7 - 3.3: total +9.5 30% · Sevilla +4.5 50% · Alaves +4.5 25%  
-🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Alaves + Más de 25.5 faltas + Menos de 10.5 córners → prob. 42%, cuota justa 2.37 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 tiros a puerta de Alaves + Más de 25.5 faltas + Menos de 10.5 córners + Más de 4.5 tarjetas + Menos de 2.5 goles → prob. 17%, cuota justa 5.85  
-🎯 No simulada (con cuota: Menos de 10.5 córners + Más de 4.5 tarjetas): cuota Unibet aprox. 2.27 (producto de piernas) · prob. 43% · ventaja -2%  
-
-## Sevilla vs Alaves — 06/11 · 21:00
-
-👀 candidata · 🇪🇸 LaLiga · **Más de 3.5 córners de Sevilla** @ **1.30** (Unibet) · prob 71% vs casas 70% · ventaja -8%
-
-- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.36 - 1.06)  
-1 44% · X 29% · 2 27%  
-1X 73% · X2 56% · 12 71%  
-+1.5 70% · +2.5 44% · +3.5 23% · Ambos marcan 49%  
-Marcadores: 1-1 13% · 1-0 11% · 0-0 10% · 0-1 9%  
-🔎 **Claves**  
-• Forma: Sevilla ❌➖❌✅❌ | Alaves ➖❌❌➖❌  
-• H2H: 20 desde 2005: 8V-7E-5D · 2.5 goles/partido · +2.5 en 40%  
-• Bajas: Sevilla: 2 fuera, 3 duda (Isaac Romero, Manu Bueno); Alaves: 2 fuera, 1 duda (Mikel Rodriguez, Facundo Garces)  
-• Favorito de las casas: Sevilla @ 1.90  
-📐 **Estadísticas esperadas**  
-Córners 5.3 - 3.4: total +10.5 27% · Sevilla +5.5 42% · Alaves +4.5 27%  
-Tarjetas 2.6 - 2.7: total +4.5 59% · Sevilla +2.5 47% · Alaves +2.5 51%  
-Faltas 14.8 - 14.6: total +25.5 74% · Sevilla +12.5 70% · Alaves +12.5 68%  
-Tiros a puerta 4.7 - 3.3: total +9.5 30% · Sevilla +4.5 50% · Alaves +4.5 25%  
-🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Alaves + Más de 25.5 faltas + Menos de 10.5 córners → prob. 42%, cuota justa 2.37 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 tiros a puerta de Alaves + Más de 25.5 faltas + Menos de 10.5 córners + Más de 4.5 tarjetas + Menos de 2.5 goles → prob. 17%, cuota justa 5.85  
-🎯 No simulada (con cuota: Menos de 10.5 córners + Más de 4.5 tarjetas): cuota Unibet aprox. 2.27 (producto de piernas) · prob. 43% · ventaja -2%  
-
-## Sevilla vs Alaves — 06/11 · 21:00
-
-👀 candidata · 🇪🇸 LaLiga · **Menos de 7.5 córners de Sevilla** @ **1.20** (Unibet) · prob 78% vs casas 76% · ventaja -6%
-
-- ❌ Valor: ventaja -6% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.36 - 1.06)  
-1 44% · X 29% · 2 27%  
-1X 73% · X2 56% · 12 71%  
-+1.5 70% · +2.5 44% · +3.5 23% · Ambos marcan 49%  
-Marcadores: 1-1 13% · 1-0 11% · 0-0 10% · 0-1 9%  
-🔎 **Claves**  
-• Forma: Sevilla ❌➖❌✅❌ | Alaves ➖❌❌➖❌  
-• H2H: 20 desde 2005: 8V-7E-5D · 2.5 goles/partido · +2.5 en 40%  
-• Bajas: Sevilla: 2 fuera, 3 duda (Isaac Romero, Manu Bueno); Alaves: 2 fuera, 1 duda (Mikel Rodriguez, Facundo Garces)  
-• Favorito de las casas: Sevilla @ 1.90  
-📐 **Estadísticas esperadas**  
-Córners 5.3 - 3.4: total +10.5 27% · Sevilla +5.5 42% · Alaves +4.5 27%  
-Tarjetas 2.6 - 2.7: total +4.5 59% · Sevilla +2.5 47% · Alaves +2.5 51%  
-Faltas 14.8 - 14.6: total +25.5 74% · Sevilla +12.5 70% · Alaves +12.5 68%  
-Tiros a puerta 4.7 - 3.3: total +9.5 30% · Sevilla +4.5 50% · Alaves +4.5 25%  
-🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Alaves + Más de 25.5 faltas + Menos de 10.5 córners → prob. 42%, cuota justa 2.37 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 tiros a puerta de Alaves + Más de 25.5 faltas + Menos de 10.5 córners + Más de 4.5 tarjetas + Menos de 2.5 goles → prob. 17%, cuota justa 5.85  
-🎯 No simulada (con cuota: Menos de 10.5 córners + Más de 4.5 tarjetas): cuota Unibet aprox. 2.27 (producto de piernas) · prob. 43% · ventaja -2%  
+Actualizado 06/11/2026 21:08 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Famalicao vs Arouca — 06/11 · 21:45
 
@@ -11085,6 +10000,7 @@ Faltas 12.8 - 9.3: total +22.5 45% · Antwerp +10.5 71% · Lommel SK +11.5 23%
 Tiros a puerta 5.6 - 4.4: total +9.5 54% · Antwerp +5.5 48% · Lommel SK +4.5 45%  
 🧩 Crear apuesta: Menos de 11.5 faltas de Lommel SK + Menos de 2.5 tarjetas de Lommel SK + Menos de 4.5 córners de Lommel SK → prob. 32%, cuota justa 3.13 (solo vale si la casa paga más)  
 🚀 Combinada larga: Menos de 11.5 faltas de Lommel SK + Menos de 2.5 tarjetas de Lommel SK + Menos de 4.5 córners de Lommel SK + Más de 2.5 goles → prob. 20%, cuota justa 4.93  
+🎯 No simulada (con cuota: Menos de 4.5 córners de Lommel SK + Más de 2.5 goles): cuota Unibet aprox. 2.25 (producto de piernas) · prob. 39% · ventaja -12%  
 
 ## RAAL La Louviere vs Cercle Brugge — 07/11 · 20:45
 
@@ -11110,6 +10026,7 @@ Faltas 11.7 - 12.1: total +22.5 58% · RAAL La Louviere +10.5 61% · Cercle Brug
 Tiros a puerta 5.0 - 4.3: total +9.5 44% · RAAL La Louviere +5.5 38% · Cercle Brugge +4.5 42%  
 🧩 Crear apuesta: Menos de 2.5 tarjetas de Cercle Brugge + Menos de 5.5 tiros a puerta de RAAL La Louviere + Más de 10.5 faltas de RAAL La Louviere → prob. 26%, cuota justa 3.91 (solo vale si la casa paga más)  
 🚀 Combinada larga: Menos de 2.5 tarjetas de Cercle Brugge + Menos de 5.5 tiros a puerta de RAAL La Louviere + Más de 10.5 faltas de RAAL La Louviere + Menos de 10.5 córners → prob. 16%, cuota justa 6.11  
+🎯 No simulada (con cuota: Menos de 5.5 tiros a puerta de RAAL La Louviere + Menos de 10.5 córners): cuota Unibet aprox. 2.10 (producto de piernas) · prob. 38% · ventaja -20%  
 
 ## Roma vs Sassuolo — 07/11 · 20:45
 
@@ -11135,6 +10052,475 @@ Faltas 11.2 - 10.5: total +22.5 42% · Roma +11.5 44% · Sassuolo +11.5 36%
 Tiros a puerta 7.2 - 3.3: total +9.5 60% · Roma +4.5 81% · Sassuolo +4.5 25%  
 🧩 Crear apuesta: Más de 4.5 tiros a puerta de Roma + Menos de 4.5 córners de Sassuolo + Menos de 11.5 faltas de Sassuolo → prob. 41%, cuota justa 2.44 (solo vale si la casa paga más)  
 🚀 Combinada larga: Más de 4.5 tiros a puerta de Roma + Menos de 4.5 córners de Sassuolo + Menos de 11.5 faltas de Sassuolo + Más de 2.5 goles + Más de 3.5 tarjetas → prob. 14%, cuota justa 7.22  
+🎯 Simulada (con cuota: Menos de 4.5 córners de Sassuolo + Más de 3.5 tarjetas): cuota Unibet aprox. 2.54 (producto de piernas) · prob. 45% · ventaja +14% → 1 u en la banca de simulación  
+
+## Antwerp vs Lommel SK — 07/11 · 20:45
+
+👀 candidata · 🇧🇪 Pro League · **Más de 4.5 córners de Antwerp** @ **1.36** (Unibet) · prob 67% vs casas 67% · ventaja -9%
+
+- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.76 - 1.43)  
+1 41% · X 28% · 2 31%  
+1X 69% · X2 59% · 12 72%  
++1.5 83% · +2.5 62% · +3.5 39% · Ambos marcan 63%  
+Marcadores: 1-1 11% · 2-1 9% · 1-2 7% · 1-0 7%  
+🔎 **Claves**  
+• Forma: Antwerp ❌❌❌✅❌ | Lommel SK ❌➖✅➖✅  
+• H2H: sin precedentes  
+• Bajas: Antwerp: sin bajas; Lommel SK: sin bajas  
+• Favorito de las casas: Antwerp @ 1.88  
+📐 **Estadísticas esperadas**  
+Córners 6.2 - 4.0: total +10.5 44% · Antwerp +5.5 54% · Lommel SK +4.5 37%  
+Tarjetas 1.9 - 2.2: total +3.5 56% · Antwerp +1.5 56% · Lommel SK +2.5 37%  
+Faltas 12.8 - 9.3: total +22.5 45% · Antwerp +10.5 71% · Lommel SK +11.5 23%  
+Tiros a puerta 5.6 - 4.4: total +9.5 54% · Antwerp +5.5 48% · Lommel SK +4.5 45%  
+🧩 Crear apuesta: Menos de 11.5 faltas de Lommel SK + Menos de 2.5 tarjetas de Lommel SK + Menos de 4.5 córners de Lommel SK → prob. 32%, cuota justa 3.13 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 11.5 faltas de Lommel SK + Menos de 2.5 tarjetas de Lommel SK + Menos de 4.5 córners de Lommel SK + Más de 2.5 goles → prob. 20%, cuota justa 4.93  
+🎯 No simulada (con cuota: Menos de 4.5 córners de Lommel SK + Más de 2.5 goles): cuota Unibet aprox. 2.25 (producto de piernas) · prob. 39% · ventaja -12%  
+
+## Antwerp vs Lommel SK — 07/11 · 20:45
+
+👀 candidata · 🇧🇪 Pro League · **Menos de 6.5 córners de Antwerp** @ **1.64** (Unibet) · prob 57% vs casas 56% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.76 - 1.43)  
+1 41% · X 28% · 2 31%  
+1X 69% · X2 59% · 12 72%  
++1.5 83% · +2.5 62% · +3.5 39% · Ambos marcan 63%  
+Marcadores: 1-1 11% · 2-1 9% · 1-2 7% · 1-0 7%  
+🔎 **Claves**  
+• Forma: Antwerp ❌❌❌✅❌ | Lommel SK ❌➖✅➖✅  
+• H2H: sin precedentes  
+• Bajas: Antwerp: sin bajas; Lommel SK: sin bajas  
+• Favorito de las casas: Antwerp @ 1.88  
+📐 **Estadísticas esperadas**  
+Córners 6.2 - 4.0: total +10.5 44% · Antwerp +5.5 54% · Lommel SK +4.5 37%  
+Tarjetas 1.9 - 2.2: total +3.5 56% · Antwerp +1.5 56% · Lommel SK +2.5 37%  
+Faltas 12.8 - 9.3: total +22.5 45% · Antwerp +10.5 71% · Lommel SK +11.5 23%  
+Tiros a puerta 5.6 - 4.4: total +9.5 54% · Antwerp +5.5 48% · Lommel SK +4.5 45%  
+🧩 Crear apuesta: Menos de 11.5 faltas de Lommel SK + Menos de 2.5 tarjetas de Lommel SK + Menos de 4.5 córners de Lommel SK → prob. 32%, cuota justa 3.13 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 11.5 faltas de Lommel SK + Menos de 2.5 tarjetas de Lommel SK + Menos de 4.5 córners de Lommel SK + Más de 2.5 goles → prob. 20%, cuota justa 4.93  
+🎯 No simulada (con cuota: Menos de 4.5 córners de Lommel SK + Más de 2.5 goles): cuota Unibet aprox. 2.25 (producto de piernas) · prob. 39% · ventaja -12%  
+
+## Antwerp vs Lommel SK — 07/11 · 20:45
+
+👀 candidata · 🇧🇪 Pro League · **Más de 8.5 córners** @ **1.38** (Unibet) · prob 67% vs casas 66% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.76 - 1.43)  
+1 41% · X 28% · 2 31%  
+1X 69% · X2 59% · 12 72%  
++1.5 83% · +2.5 62% · +3.5 39% · Ambos marcan 63%  
+Marcadores: 1-1 11% · 2-1 9% · 1-2 7% · 1-0 7%  
+🔎 **Claves**  
+• Forma: Antwerp ❌❌❌✅❌ | Lommel SK ❌➖✅➖✅  
+• H2H: sin precedentes  
+• Bajas: Antwerp: sin bajas; Lommel SK: sin bajas  
+• Favorito de las casas: Antwerp @ 1.88  
+📐 **Estadísticas esperadas**  
+Córners 6.2 - 4.0: total +10.5 44% · Antwerp +5.5 54% · Lommel SK +4.5 37%  
+Tarjetas 1.9 - 2.2: total +3.5 56% · Antwerp +1.5 56% · Lommel SK +2.5 37%  
+Faltas 12.8 - 9.3: total +22.5 45% · Antwerp +10.5 71% · Lommel SK +11.5 23%  
+Tiros a puerta 5.6 - 4.4: total +9.5 54% · Antwerp +5.5 48% · Lommel SK +4.5 45%  
+🧩 Crear apuesta: Menos de 11.5 faltas de Lommel SK + Menos de 2.5 tarjetas de Lommel SK + Menos de 4.5 córners de Lommel SK → prob. 32%, cuota justa 3.13 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 11.5 faltas de Lommel SK + Menos de 2.5 tarjetas de Lommel SK + Menos de 4.5 córners de Lommel SK + Más de 2.5 goles → prob. 20%, cuota justa 4.93  
+🎯 No simulada (con cuota: Menos de 4.5 córners de Lommel SK + Más de 2.5 goles): cuota Unibet aprox. 2.25 (producto de piernas) · prob. 39% · ventaja -12%  
+
+## Antwerp vs Lommel SK — 07/11 · 20:45
+
+👀 candidata · 🇧🇪 Pro League · **Menos de 12.5 córners** @ **1.28** (Unibet) · prob 74% vs casas 72% · ventaja -5%
+
+- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.76 - 1.43)  
+1 41% · X 28% · 2 31%  
+1X 69% · X2 59% · 12 72%  
++1.5 83% · +2.5 62% · +3.5 39% · Ambos marcan 63%  
+Marcadores: 1-1 11% · 2-1 9% · 1-2 7% · 1-0 7%  
+🔎 **Claves**  
+• Forma: Antwerp ❌❌❌✅❌ | Lommel SK ❌➖✅➖✅  
+• H2H: sin precedentes  
+• Bajas: Antwerp: sin bajas; Lommel SK: sin bajas  
+• Favorito de las casas: Antwerp @ 1.88  
+📐 **Estadísticas esperadas**  
+Córners 6.2 - 4.0: total +10.5 44% · Antwerp +5.5 54% · Lommel SK +4.5 37%  
+Tarjetas 1.9 - 2.2: total +3.5 56% · Antwerp +1.5 56% · Lommel SK +2.5 37%  
+Faltas 12.8 - 9.3: total +22.5 45% · Antwerp +10.5 71% · Lommel SK +11.5 23%  
+Tiros a puerta 5.6 - 4.4: total +9.5 54% · Antwerp +5.5 48% · Lommel SK +4.5 45%  
+🧩 Crear apuesta: Menos de 11.5 faltas de Lommel SK + Menos de 2.5 tarjetas de Lommel SK + Menos de 4.5 córners de Lommel SK → prob. 32%, cuota justa 3.13 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 11.5 faltas de Lommel SK + Menos de 2.5 tarjetas de Lommel SK + Menos de 4.5 córners de Lommel SK + Más de 2.5 goles → prob. 20%, cuota justa 4.93  
+🎯 No simulada (con cuota: Menos de 4.5 córners de Lommel SK + Más de 2.5 goles): cuota Unibet aprox. 2.25 (producto de piernas) · prob. 39% · ventaja -12%  
+
+## Antwerp vs Lommel SK — 07/11 · 20:45
+
+👀 candidata · 🇧🇪 Pro League · **Más de 2.5 córners de Lommel SK** @ **1.33** (Unibet) · prob 70% vs casas 69% · ventaja -7%
+
+- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.76 - 1.43)  
+1 41% · X 28% · 2 31%  
+1X 69% · X2 59% · 12 72%  
++1.5 83% · +2.5 62% · +3.5 39% · Ambos marcan 63%  
+Marcadores: 1-1 11% · 2-1 9% · 1-2 7% · 1-0 7%  
+🔎 **Claves**  
+• Forma: Antwerp ❌❌❌✅❌ | Lommel SK ❌➖✅➖✅  
+• H2H: sin precedentes  
+• Bajas: Antwerp: sin bajas; Lommel SK: sin bajas  
+• Favorito de las casas: Antwerp @ 1.88  
+📐 **Estadísticas esperadas**  
+Córners 6.2 - 4.0: total +10.5 44% · Antwerp +5.5 54% · Lommel SK +4.5 37%  
+Tarjetas 1.9 - 2.2: total +3.5 56% · Antwerp +1.5 56% · Lommel SK +2.5 37%  
+Faltas 12.8 - 9.3: total +22.5 45% · Antwerp +10.5 71% · Lommel SK +11.5 23%  
+Tiros a puerta 5.6 - 4.4: total +9.5 54% · Antwerp +5.5 48% · Lommel SK +4.5 45%  
+🧩 Crear apuesta: Menos de 11.5 faltas de Lommel SK + Menos de 2.5 tarjetas de Lommel SK + Menos de 4.5 córners de Lommel SK → prob. 32%, cuota justa 3.13 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 11.5 faltas de Lommel SK + Menos de 2.5 tarjetas de Lommel SK + Menos de 4.5 córners de Lommel SK + Más de 2.5 goles → prob. 20%, cuota justa 4.93  
+🎯 No simulada (con cuota: Menos de 4.5 córners de Lommel SK + Más de 2.5 goles): cuota Unibet aprox. 2.25 (producto de piernas) · prob. 39% · ventaja -12%  
+
+## Antwerp vs Lommel SK — 07/11 · 20:45
+
+👀 candidata · 🇧🇪 Pro League · **Menos de 5.5 córners de Lommel SK** @ **1.25** (Unibet) · prob 75% vs casas 73% · ventaja -7%
+
+- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.76 - 1.43)  
+1 41% · X 28% · 2 31%  
+1X 69% · X2 59% · 12 72%  
++1.5 83% · +2.5 62% · +3.5 39% · Ambos marcan 63%  
+Marcadores: 1-1 11% · 2-1 9% · 1-2 7% · 1-0 7%  
+🔎 **Claves**  
+• Forma: Antwerp ❌❌❌✅❌ | Lommel SK ❌➖✅➖✅  
+• H2H: sin precedentes  
+• Bajas: Antwerp: sin bajas; Lommel SK: sin bajas  
+• Favorito de las casas: Antwerp @ 1.88  
+📐 **Estadísticas esperadas**  
+Córners 6.2 - 4.0: total +10.5 44% · Antwerp +5.5 54% · Lommel SK +4.5 37%  
+Tarjetas 1.9 - 2.2: total +3.5 56% · Antwerp +1.5 56% · Lommel SK +2.5 37%  
+Faltas 12.8 - 9.3: total +22.5 45% · Antwerp +10.5 71% · Lommel SK +11.5 23%  
+Tiros a puerta 5.6 - 4.4: total +9.5 54% · Antwerp +5.5 48% · Lommel SK +4.5 45%  
+🧩 Crear apuesta: Menos de 11.5 faltas de Lommel SK + Menos de 2.5 tarjetas de Lommel SK + Menos de 4.5 córners de Lommel SK → prob. 32%, cuota justa 3.13 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 11.5 faltas de Lommel SK + Menos de 2.5 tarjetas de Lommel SK + Menos de 4.5 córners de Lommel SK + Más de 2.5 goles → prob. 20%, cuota justa 4.93  
+🎯 No simulada (con cuota: Menos de 4.5 córners de Lommel SK + Más de 2.5 goles): cuota Unibet aprox. 2.25 (producto de piernas) · prob. 39% · ventaja -12%  
+
+## RAAL La Louviere vs Cercle Brugge — 07/11 · 20:45
+
+👀 candidata · 🇧🇪 Pro League · **Más de 3.5 córners de Cercle Brugge** @ **1.55** (Unibet) · prob 61% vs casas 59% · ventaja -5%
+
+- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.37 - 1.30)  
+1 38% · X 29% · 2 33%  
+1X 67% · X2 62% · 12 71%  
++1.5 75% · +2.5 50% · +3.5 28% · Ambos marcan 55%  
+Marcadores: 1-1 13% · 1-0 9% · 2-1 8% · 0-1 8%  
+🔎 **Claves**  
+• Forma: RAAL La Louviere ✅❌❌✅❌ | Cercle Brugge ➖❌❌❌✅  
+• H2H: 4 desde 2025: 3V-0E-1D · 3.8 goles/partido · +2.5 en 100%  
+• Bajas: RAAL La Louviere: sin bajas; Cercle Brugge: sin bajas  
+• Favorito de las casas: Cercle Brugge @ 2.50  
+📐 **Estadísticas esperadas**  
+Córners 5.3 - 4.7: total +10.5 41% · RAAL La Louviere +5.5 43% · Cercle Brugge +4.5 48%  
+Tarjetas 1.8 - 2.0: total +3.5 54% · RAAL La Louviere +1.5 55% · Cercle Brugge +2.5 34%  
+Faltas 11.7 - 12.1: total +22.5 58% · RAAL La Louviere +10.5 61% · Cercle Brugge +11.5 54%  
+Tiros a puerta 5.0 - 4.3: total +9.5 44% · RAAL La Louviere +5.5 38% · Cercle Brugge +4.5 42%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Cercle Brugge + Menos de 5.5 tiros a puerta de RAAL La Louviere + Más de 10.5 faltas de RAAL La Louviere → prob. 26%, cuota justa 3.91 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Cercle Brugge + Menos de 5.5 tiros a puerta de RAAL La Louviere + Más de 10.5 faltas de RAAL La Louviere + Menos de 10.5 córners → prob. 16%, cuota justa 6.11  
+🎯 No simulada (con cuota: Menos de 5.5 tiros a puerta de RAAL La Louviere + Menos de 10.5 córners): cuota Unibet aprox. 2.10 (producto de piernas) · prob. 38% · ventaja -20%  
+
+## RAAL La Louviere vs Cercle Brugge — 07/11 · 20:45
+
+👀 candidata · 🇧🇪 Pro League · **Menos de 5.5 córners de Cercle Brugge** @ **1.36** (Unibet) · prob 67% vs casas 67% · ventaja -9%
+
+- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.37 - 1.30)  
+1 38% · X 29% · 2 33%  
+1X 67% · X2 62% · 12 71%  
++1.5 75% · +2.5 50% · +3.5 28% · Ambos marcan 55%  
+Marcadores: 1-1 13% · 1-0 9% · 2-1 8% · 0-1 8%  
+🔎 **Claves**  
+• Forma: RAAL La Louviere ✅❌❌✅❌ | Cercle Brugge ➖❌❌❌✅  
+• H2H: 4 desde 2025: 3V-0E-1D · 3.8 goles/partido · +2.5 en 100%  
+• Bajas: RAAL La Louviere: sin bajas; Cercle Brugge: sin bajas  
+• Favorito de las casas: Cercle Brugge @ 2.50  
+📐 **Estadísticas esperadas**  
+Córners 5.3 - 4.7: total +10.5 41% · RAAL La Louviere +5.5 43% · Cercle Brugge +4.5 48%  
+Tarjetas 1.8 - 2.0: total +3.5 54% · RAAL La Louviere +1.5 55% · Cercle Brugge +2.5 34%  
+Faltas 11.7 - 12.1: total +22.5 58% · RAAL La Louviere +10.5 61% · Cercle Brugge +11.5 54%  
+Tiros a puerta 5.0 - 4.3: total +9.5 44% · RAAL La Louviere +5.5 38% · Cercle Brugge +4.5 42%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Cercle Brugge + Menos de 5.5 tiros a puerta de RAAL La Louviere + Más de 10.5 faltas de RAAL La Louviere → prob. 26%, cuota justa 3.91 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Cercle Brugge + Menos de 5.5 tiros a puerta de RAAL La Louviere + Más de 10.5 faltas de RAAL La Louviere + Menos de 10.5 córners → prob. 16%, cuota justa 6.11  
+🎯 No simulada (con cuota: Menos de 5.5 tiros a puerta de RAAL La Louviere + Menos de 10.5 córners): cuota Unibet aprox. 2.10 (producto de piernas) · prob. 38% · ventaja -20%  
+
+## RAAL La Louviere vs Cercle Brugge — 07/11 · 20:45
+
+👀 candidata · 🇧🇪 Pro League · **Más de 3.5 córners de RAAL La Louviere** @ **1.34** (Unibet) · prob 70% vs casas 68% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.37 - 1.30)  
+1 38% · X 29% · 2 33%  
+1X 67% · X2 62% · 12 71%  
++1.5 75% · +2.5 50% · +3.5 28% · Ambos marcan 55%  
+Marcadores: 1-1 13% · 1-0 9% · 2-1 8% · 0-1 8%  
+🔎 **Claves**  
+• Forma: RAAL La Louviere ✅❌❌✅❌ | Cercle Brugge ➖❌❌❌✅  
+• H2H: 4 desde 2025: 3V-0E-1D · 3.8 goles/partido · +2.5 en 100%  
+• Bajas: RAAL La Louviere: sin bajas; Cercle Brugge: sin bajas  
+• Favorito de las casas: Cercle Brugge @ 2.50  
+📐 **Estadísticas esperadas**  
+Córners 5.3 - 4.7: total +10.5 41% · RAAL La Louviere +5.5 43% · Cercle Brugge +4.5 48%  
+Tarjetas 1.8 - 2.0: total +3.5 54% · RAAL La Louviere +1.5 55% · Cercle Brugge +2.5 34%  
+Faltas 11.7 - 12.1: total +22.5 58% · RAAL La Louviere +10.5 61% · Cercle Brugge +11.5 54%  
+Tiros a puerta 5.0 - 4.3: total +9.5 44% · RAAL La Louviere +5.5 38% · Cercle Brugge +4.5 42%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Cercle Brugge + Menos de 5.5 tiros a puerta de RAAL La Louviere + Más de 10.5 faltas de RAAL La Louviere → prob. 26%, cuota justa 3.91 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Cercle Brugge + Menos de 5.5 tiros a puerta de RAAL La Louviere + Más de 10.5 faltas de RAAL La Louviere + Menos de 10.5 córners → prob. 16%, cuota justa 6.11  
+🎯 No simulada (con cuota: Menos de 5.5 tiros a puerta de RAAL La Louviere + Menos de 10.5 córners): cuota Unibet aprox. 2.10 (producto de piernas) · prob. 38% · ventaja -20%  
+
+## RAAL La Louviere vs Cercle Brugge — 07/11 · 20:45
+
+👀 candidata · 🇧🇪 Pro League · **Menos de 6.5 córners de RAAL La Louviere** @ **1.33** (Unibet) · prob 69% vs casas 69% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.37 - 1.30)  
+1 38% · X 29% · 2 33%  
+1X 67% · X2 62% · 12 71%  
++1.5 75% · +2.5 50% · +3.5 28% · Ambos marcan 55%  
+Marcadores: 1-1 13% · 1-0 9% · 2-1 8% · 0-1 8%  
+🔎 **Claves**  
+• Forma: RAAL La Louviere ✅❌❌✅❌ | Cercle Brugge ➖❌❌❌✅  
+• H2H: 4 desde 2025: 3V-0E-1D · 3.8 goles/partido · +2.5 en 100%  
+• Bajas: RAAL La Louviere: sin bajas; Cercle Brugge: sin bajas  
+• Favorito de las casas: Cercle Brugge @ 2.50  
+📐 **Estadísticas esperadas**  
+Córners 5.3 - 4.7: total +10.5 41% · RAAL La Louviere +5.5 43% · Cercle Brugge +4.5 48%  
+Tarjetas 1.8 - 2.0: total +3.5 54% · RAAL La Louviere +1.5 55% · Cercle Brugge +2.5 34%  
+Faltas 11.7 - 12.1: total +22.5 58% · RAAL La Louviere +10.5 61% · Cercle Brugge +11.5 54%  
+Tiros a puerta 5.0 - 4.3: total +9.5 44% · RAAL La Louviere +5.5 38% · Cercle Brugge +4.5 42%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Cercle Brugge + Menos de 5.5 tiros a puerta de RAAL La Louviere + Más de 10.5 faltas de RAAL La Louviere → prob. 26%, cuota justa 3.91 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Cercle Brugge + Menos de 5.5 tiros a puerta de RAAL La Louviere + Más de 10.5 faltas de RAAL La Louviere + Menos de 10.5 córners → prob. 16%, cuota justa 6.11  
+🎯 No simulada (con cuota: Menos de 5.5 tiros a puerta de RAAL La Louviere + Menos de 10.5 córners): cuota Unibet aprox. 2.10 (producto de piernas) · prob. 38% · ventaja -20%  
+
+## RAAL La Louviere vs Cercle Brugge — 07/11 · 20:45
+
+👀 candidata · 🇧🇪 Pro League · **Más de 8.5 córners** @ **1.53** (Unibet) · prob 63% vs casas 60% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.37 - 1.30)  
+1 38% · X 29% · 2 33%  
+1X 67% · X2 62% · 12 71%  
++1.5 75% · +2.5 50% · +3.5 28% · Ambos marcan 55%  
+Marcadores: 1-1 13% · 1-0 9% · 2-1 8% · 0-1 8%  
+🔎 **Claves**  
+• Forma: RAAL La Louviere ✅❌❌✅❌ | Cercle Brugge ➖❌❌❌✅  
+• H2H: 4 desde 2025: 3V-0E-1D · 3.8 goles/partido · +2.5 en 100%  
+• Bajas: RAAL La Louviere: sin bajas; Cercle Brugge: sin bajas  
+• Favorito de las casas: Cercle Brugge @ 2.50  
+📐 **Estadísticas esperadas**  
+Córners 5.3 - 4.7: total +10.5 41% · RAAL La Louviere +5.5 43% · Cercle Brugge +4.5 48%  
+Tarjetas 1.8 - 2.0: total +3.5 54% · RAAL La Louviere +1.5 55% · Cercle Brugge +2.5 34%  
+Faltas 11.7 - 12.1: total +22.5 58% · RAAL La Louviere +10.5 61% · Cercle Brugge +11.5 54%  
+Tiros a puerta 5.0 - 4.3: total +9.5 44% · RAAL La Louviere +5.5 38% · Cercle Brugge +4.5 42%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Cercle Brugge + Menos de 5.5 tiros a puerta de RAAL La Louviere + Más de 10.5 faltas de RAAL La Louviere → prob. 26%, cuota justa 3.91 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Cercle Brugge + Menos de 5.5 tiros a puerta de RAAL La Louviere + Más de 10.5 faltas de RAAL La Louviere + Menos de 10.5 córners → prob. 16%, cuota justa 6.11  
+🎯 No simulada (con cuota: Menos de 5.5 tiros a puerta de RAAL La Louviere + Menos de 10.5 córners): cuota Unibet aprox. 2.10 (producto de piernas) · prob. 38% · ventaja -20%  
+
+## RAAL La Louviere vs Cercle Brugge — 07/11 · 20:45
+
+👀 candidata · 🇧🇪 Pro League · **Menos de 11.5 córners** @ **1.32** (Unibet) · prob 69% vs casas 69% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.37 - 1.30)  
+1 38% · X 29% · 2 33%  
+1X 67% · X2 62% · 12 71%  
++1.5 75% · +2.5 50% · +3.5 28% · Ambos marcan 55%  
+Marcadores: 1-1 13% · 1-0 9% · 2-1 8% · 0-1 8%  
+🔎 **Claves**  
+• Forma: RAAL La Louviere ✅❌❌✅❌ | Cercle Brugge ➖❌❌❌✅  
+• H2H: 4 desde 2025: 3V-0E-1D · 3.8 goles/partido · +2.5 en 100%  
+• Bajas: RAAL La Louviere: sin bajas; Cercle Brugge: sin bajas  
+• Favorito de las casas: Cercle Brugge @ 2.50  
+📐 **Estadísticas esperadas**  
+Córners 5.3 - 4.7: total +10.5 41% · RAAL La Louviere +5.5 43% · Cercle Brugge +4.5 48%  
+Tarjetas 1.8 - 2.0: total +3.5 54% · RAAL La Louviere +1.5 55% · Cercle Brugge +2.5 34%  
+Faltas 11.7 - 12.1: total +22.5 58% · RAAL La Louviere +10.5 61% · Cercle Brugge +11.5 54%  
+Tiros a puerta 5.0 - 4.3: total +9.5 44% · RAAL La Louviere +5.5 38% · Cercle Brugge +4.5 42%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Cercle Brugge + Menos de 5.5 tiros a puerta de RAAL La Louviere + Más de 10.5 faltas de RAAL La Louviere → prob. 26%, cuota justa 3.91 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Cercle Brugge + Menos de 5.5 tiros a puerta de RAAL La Louviere + Más de 10.5 faltas de RAAL La Louviere + Menos de 10.5 córners → prob. 16%, cuota justa 6.11  
+🎯 No simulada (con cuota: Menos de 5.5 tiros a puerta de RAAL La Louviere + Menos de 10.5 córners): cuota Unibet aprox. 2.10 (producto de piernas) · prob. 38% · ventaja -20%  
+
+## Roma vs Sassuolo — 07/11 · 20:45
+
+👀 candidata · 🇮🇹 Serie A · **Más de 8.5 córners** @ **1.47** (Unibet) · prob 64% vs casas 63% · ventaja -5%
+
+- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.23 - 0.81)  
+1 76% · X 17% · 2 8%  
+1X 92% · X2 24% · 12 83%  
++1.5 81% · +2.5 59% · +3.5 36% · Ambos marcan 50%  
+Marcadores: 2-0 12% · 1-0 10% · 2-1 10% · 1-1 9%  
+🔎 **Claves**  
+• Forma: Roma ➖✅➖✅✅ | Sassuolo ➖❌❌❌❌  
+• H2H: 24 desde 2013: 13V-9E-2D · 3.0 goles/partido · +2.5 en 54%  
+• Bajas: Roma: 4 fuera, 3 duda (Wesley, Mile Svilar, Lorenzo Pellegrini); Sassuolo: 4 fuera, 2 duda (Kristian Thorstvedt, Jay Idzes, Yeferson Paz)  
+• Favorito de las casas: Roma @ 1.32  
+📐 **Estadísticas esperadas**  
+Córners 6.9 - 3.1: total +9.5 54% · Roma +5.5 63% · Sassuolo +4.5 23%  
+Tarjetas 1.7 - 2.4: total +3.5 58% · Roma +1.5 50% · Sassuolo +2.5 43%  
+Faltas 11.2 - 10.5: total +22.5 42% · Roma +11.5 44% · Sassuolo +11.5 36%  
+Tiros a puerta 7.2 - 3.3: total +9.5 60% · Roma +4.5 81% · Sassuolo +4.5 25%  
+🧩 Crear apuesta: Más de 4.5 tiros a puerta de Roma + Menos de 4.5 córners de Sassuolo + Menos de 11.5 faltas de Sassuolo → prob. 41%, cuota justa 2.44 (solo vale si la casa paga más)  
+🚀 Combinada larga: Más de 4.5 tiros a puerta de Roma + Menos de 4.5 córners de Sassuolo + Menos de 11.5 faltas de Sassuolo + Más de 2.5 goles + Más de 3.5 tarjetas → prob. 14%, cuota justa 7.22  
+🎯 Simulada (con cuota: Menos de 4.5 córners de Sassuolo + Más de 3.5 tarjetas): cuota Unibet aprox. 2.54 (producto de piernas) · prob. 45% · ventaja +14% → 1 u en la banca de simulación  
+
+## Roma vs Sassuolo — 07/11 · 20:45
+
+👀 candidata · 🇮🇹 Serie A · **Menos de 13.5 córners** @ **1.12** (Unibet) · prob 83% vs casas 81% · ventaja -7%
+
+- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.23 - 0.81)  
+1 76% · X 17% · 2 8%  
+1X 92% · X2 24% · 12 83%  
++1.5 81% · +2.5 59% · +3.5 36% · Ambos marcan 50%  
+Marcadores: 2-0 12% · 1-0 10% · 2-1 10% · 1-1 9%  
+🔎 **Claves**  
+• Forma: Roma ➖✅➖✅✅ | Sassuolo ➖❌❌❌❌  
+• H2H: 24 desde 2013: 13V-9E-2D · 3.0 goles/partido · +2.5 en 54%  
+• Bajas: Roma: 4 fuera, 3 duda (Wesley, Mile Svilar, Lorenzo Pellegrini); Sassuolo: 4 fuera, 2 duda (Kristian Thorstvedt, Jay Idzes, Yeferson Paz)  
+• Favorito de las casas: Roma @ 1.32  
+📐 **Estadísticas esperadas**  
+Córners 6.9 - 3.1: total +9.5 54% · Roma +5.5 63% · Sassuolo +4.5 23%  
+Tarjetas 1.7 - 2.4: total +3.5 58% · Roma +1.5 50% · Sassuolo +2.5 43%  
+Faltas 11.2 - 10.5: total +22.5 42% · Roma +11.5 44% · Sassuolo +11.5 36%  
+Tiros a puerta 7.2 - 3.3: total +9.5 60% · Roma +4.5 81% · Sassuolo +4.5 25%  
+🧩 Crear apuesta: Más de 4.5 tiros a puerta de Roma + Menos de 4.5 córners de Sassuolo + Menos de 11.5 faltas de Sassuolo → prob. 41%, cuota justa 2.44 (solo vale si la casa paga más)  
+🚀 Combinada larga: Más de 4.5 tiros a puerta de Roma + Menos de 4.5 córners de Sassuolo + Menos de 11.5 faltas de Sassuolo + Más de 2.5 goles + Más de 3.5 tarjetas → prob. 14%, cuota justa 7.22  
+🎯 Simulada (con cuota: Menos de 4.5 córners de Sassuolo + Más de 3.5 tarjetas): cuota Unibet aprox. 2.54 (producto de piernas) · prob. 45% · ventaja +14% → 1 u en la banca de simulación  
+
+## Roma vs Sassuolo — 07/11 · 20:45
+
+👀 candidata · 🇮🇹 Serie A · **Más de 6.5 córners de Roma** @ **1.87** (Unibet) · prob 50% vs casas 49% · ventaja -7%
+
+- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.23 - 0.81)  
+1 76% · X 17% · 2 8%  
+1X 92% · X2 24% · 12 83%  
++1.5 81% · +2.5 59% · +3.5 36% · Ambos marcan 50%  
+Marcadores: 2-0 12% · 1-0 10% · 2-1 10% · 1-1 9%  
+🔎 **Claves**  
+• Forma: Roma ➖✅➖✅✅ | Sassuolo ➖❌❌❌❌  
+• H2H: 24 desde 2013: 13V-9E-2D · 3.0 goles/partido · +2.5 en 54%  
+• Bajas: Roma: 4 fuera, 3 duda (Wesley, Mile Svilar, Lorenzo Pellegrini); Sassuolo: 4 fuera, 2 duda (Kristian Thorstvedt, Jay Idzes, Yeferson Paz)  
+• Favorito de las casas: Roma @ 1.32  
+📐 **Estadísticas esperadas**  
+Córners 6.9 - 3.1: total +9.5 54% · Roma +5.5 63% · Sassuolo +4.5 23%  
+Tarjetas 1.7 - 2.4: total +3.5 58% · Roma +1.5 50% · Sassuolo +2.5 43%  
+Faltas 11.2 - 10.5: total +22.5 42% · Roma +11.5 44% · Sassuolo +11.5 36%  
+Tiros a puerta 7.2 - 3.3: total +9.5 60% · Roma +4.5 81% · Sassuolo +4.5 25%  
+🧩 Crear apuesta: Más de 4.5 tiros a puerta de Roma + Menos de 4.5 córners de Sassuolo + Menos de 11.5 faltas de Sassuolo → prob. 41%, cuota justa 2.44 (solo vale si la casa paga más)  
+🚀 Combinada larga: Más de 4.5 tiros a puerta de Roma + Menos de 4.5 córners de Sassuolo + Menos de 11.5 faltas de Sassuolo + Más de 2.5 goles + Más de 3.5 tarjetas → prob. 14%, cuota justa 7.22  
+🎯 Simulada (con cuota: Menos de 4.5 córners de Sassuolo + Más de 3.5 tarjetas): cuota Unibet aprox. 2.54 (producto de piernas) · prob. 45% · ventaja +14% → 1 u en la banca de simulación  
+
+## Roma vs Sassuolo — 07/11 · 20:45
+
+👀 candidata · 🇮🇹 Serie A · **Menos de 9.5 córners de Roma** @ **1.19** (Unibet) · prob 78% vs casas 78% · ventaja -7%
+
+- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.23 - 0.81)  
+1 76% · X 17% · 2 8%  
+1X 92% · X2 24% · 12 83%  
++1.5 81% · +2.5 59% · +3.5 36% · Ambos marcan 50%  
+Marcadores: 2-0 12% · 1-0 10% · 2-1 10% · 1-1 9%  
+🔎 **Claves**  
+• Forma: Roma ➖✅➖✅✅ | Sassuolo ➖❌❌❌❌  
+• H2H: 24 desde 2013: 13V-9E-2D · 3.0 goles/partido · +2.5 en 54%  
+• Bajas: Roma: 4 fuera, 3 duda (Wesley, Mile Svilar, Lorenzo Pellegrini); Sassuolo: 4 fuera, 2 duda (Kristian Thorstvedt, Jay Idzes, Yeferson Paz)  
+• Favorito de las casas: Roma @ 1.32  
+📐 **Estadísticas esperadas**  
+Córners 6.9 - 3.1: total +9.5 54% · Roma +5.5 63% · Sassuolo +4.5 23%  
+Tarjetas 1.7 - 2.4: total +3.5 58% · Roma +1.5 50% · Sassuolo +2.5 43%  
+Faltas 11.2 - 10.5: total +22.5 42% · Roma +11.5 44% · Sassuolo +11.5 36%  
+Tiros a puerta 7.2 - 3.3: total +9.5 60% · Roma +4.5 81% · Sassuolo +4.5 25%  
+🧩 Crear apuesta: Más de 4.5 tiros a puerta de Roma + Menos de 4.5 córners de Sassuolo + Menos de 11.5 faltas de Sassuolo → prob. 41%, cuota justa 2.44 (solo vale si la casa paga más)  
+🚀 Combinada larga: Más de 4.5 tiros a puerta de Roma + Menos de 4.5 córners de Sassuolo + Menos de 11.5 faltas de Sassuolo + Más de 2.5 goles + Más de 3.5 tarjetas → prob. 14%, cuota justa 7.22  
+🎯 Simulada (con cuota: Menos de 4.5 córners de Sassuolo + Más de 3.5 tarjetas): cuota Unibet aprox. 2.54 (producto de piernas) · prob. 45% · ventaja +14% → 1 u en la banca de simulación  
+
+## Roma vs Sassuolo — 07/11 · 20:45
+
+👀 candidata · 🇮🇹 Serie A · **Más de 1.5 córners de Sassuolo** @ **1.22** (Unibet) · prob 77% vs casas 75% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.23 - 0.81)  
+1 76% · X 17% · 2 8%  
+1X 92% · X2 24% · 12 83%  
++1.5 81% · +2.5 59% · +3.5 36% · Ambos marcan 50%  
+Marcadores: 2-0 12% · 1-0 10% · 2-1 10% · 1-1 9%  
+🔎 **Claves**  
+• Forma: Roma ➖✅➖✅✅ | Sassuolo ➖❌❌❌❌  
+• H2H: 24 desde 2013: 13V-9E-2D · 3.0 goles/partido · +2.5 en 54%  
+• Bajas: Roma: 4 fuera, 3 duda (Wesley, Mile Svilar, Lorenzo Pellegrini); Sassuolo: 4 fuera, 2 duda (Kristian Thorstvedt, Jay Idzes, Yeferson Paz)  
+• Favorito de las casas: Roma @ 1.32  
+📐 **Estadísticas esperadas**  
+Córners 6.9 - 3.1: total +9.5 54% · Roma +5.5 63% · Sassuolo +4.5 23%  
+Tarjetas 1.7 - 2.4: total +3.5 58% · Roma +1.5 50% · Sassuolo +2.5 43%  
+Faltas 11.2 - 10.5: total +22.5 42% · Roma +11.5 44% · Sassuolo +11.5 36%  
+Tiros a puerta 7.2 - 3.3: total +9.5 60% · Roma +4.5 81% · Sassuolo +4.5 25%  
+🧩 Crear apuesta: Más de 4.5 tiros a puerta de Roma + Menos de 4.5 córners de Sassuolo + Menos de 11.5 faltas de Sassuolo → prob. 41%, cuota justa 2.44 (solo vale si la casa paga más)  
+🚀 Combinada larga: Más de 4.5 tiros a puerta de Roma + Menos de 4.5 córners de Sassuolo + Menos de 11.5 faltas de Sassuolo + Más de 2.5 goles + Más de 3.5 tarjetas → prob. 14%, cuota justa 7.22  
+🎯 Simulada (con cuota: Menos de 4.5 córners de Sassuolo + Más de 3.5 tarjetas): cuota Unibet aprox. 2.54 (producto de piernas) · prob. 45% · ventaja +14% → 1 u en la banca de simulación  
+
+## Roma vs Sassuolo — 07/11 · 20:45
+
+👀 candidata · 🇮🇹 Serie A · **Menos de 5.5 córners de Sassuolo** @ **1.09** (Unibet) · prob 86% vs casas 84% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.23 - 0.81)  
+1 76% · X 17% · 2 8%  
+1X 92% · X2 24% · 12 83%  
++1.5 81% · +2.5 59% · +3.5 36% · Ambos marcan 50%  
+Marcadores: 2-0 12% · 1-0 10% · 2-1 10% · 1-1 9%  
+🔎 **Claves**  
+• Forma: Roma ➖✅➖✅✅ | Sassuolo ➖❌❌❌❌  
+• H2H: 24 desde 2013: 13V-9E-2D · 3.0 goles/partido · +2.5 en 54%  
+• Bajas: Roma: 4 fuera, 3 duda (Wesley, Mile Svilar, Lorenzo Pellegrini); Sassuolo: 4 fuera, 2 duda (Kristian Thorstvedt, Jay Idzes, Yeferson Paz)  
+• Favorito de las casas: Roma @ 1.32  
+📐 **Estadísticas esperadas**  
+Córners 6.9 - 3.1: total +9.5 54% · Roma +5.5 63% · Sassuolo +4.5 23%  
+Tarjetas 1.7 - 2.4: total +3.5 58% · Roma +1.5 50% · Sassuolo +2.5 43%  
+Faltas 11.2 - 10.5: total +22.5 42% · Roma +11.5 44% · Sassuolo +11.5 36%  
+Tiros a puerta 7.2 - 3.3: total +9.5 60% · Roma +4.5 81% · Sassuolo +4.5 25%  
+🧩 Crear apuesta: Más de 4.5 tiros a puerta de Roma + Menos de 4.5 córners de Sassuolo + Menos de 11.5 faltas de Sassuolo → prob. 41%, cuota justa 2.44 (solo vale si la casa paga más)  
+🚀 Combinada larga: Más de 4.5 tiros a puerta de Roma + Menos de 4.5 córners de Sassuolo + Menos de 11.5 faltas de Sassuolo + Más de 2.5 goles + Más de 3.5 tarjetas → prob. 14%, cuota justa 7.22  
+🎯 Simulada (con cuota: Menos de 4.5 córners de Sassuolo + Más de 3.5 tarjetas): cuota Unibet aprox. 2.54 (producto de piernas) · prob. 45% · ventaja +14% → 1 u en la banca de simulación  
 
 ## Excelsior vs Go Ahead Eagles — 07/11 · 21:00
 
