@@ -58738,12 +58738,12 @@ id,tournament_id,club1,club2,ht1,ht2
 2366311,261157,Villarreal,Atleti,,
 2366312,261157,Barcelona,Villarreal,,
 2366313,261157,Real Madrid,Athletic Club,,
-2365914,261104,Argentina,England,3,0
-2365915,261104,Spain,France,2,0
-2365916,261104,France,Argentina,0,2
-2365917,261104,England,Brazil,1,2
-2365918,261104,Brazil,France,1,1
-2365919,261104,Argentina,Spain,1,3
+2365914,261104,Argentina,England,3.0,0.0
+2365915,261104,Spain,France,2.0,0.0
+2365916,261104,France,Argentina,0.0,2.0
+2365917,261104,England,Brazil,1.0,2.0
+2365918,261104,Brazil,France,1.0,1.0
+2365919,261104,Argentina,Spain,1.0,3.0
 2365920,261104,Spain,Brazil,,
 2365921,261104,France,England,,
 2365922,261104,England,Spain,,
@@ -58758,3 +58758,23 @@ id,tournament_id,club1,club2,ht1,ht2
 2365931,261104,England,France,,
 2365932,261104,Spain,England,,
 2365933,261104,Argentina,Brazil,,
+2365252,261112,Benfica,Vitoria SC,2,0
+2365253,261112,Porto,Braga,1,0
+2365254,261112,Braga,Benfica,2,2
+2365255,261112,Vitoria SC,Sporting CP,1,0
+2365256,261112,Sporting CP,Braga,0,2
+2365257,261112,Benfica,Porto,2,2
+2365258,261112,Porto,Sporting CP,2,1
+2365259,261112,Braga,Vitoria SC,0,1
+2365260,261112,Vitoria SC,Porto,1,3
+2365261,261112,Sporting CP,Benfica,2,1
+2365262,261112,Vitoria SC,Benfica,,
+2365263,261112,Braga,Porto,,
+2365264,261112,Benfica,Braga,,
+2365265,261112,Sporting CP,Vitoria SC,,
+2365266,261112,Braga,Sporting CP,,
+2365267,261112,Porto,Benfica,,
+2365268,261112,Sporting CP,Porto,,
+2365269,261112,Vitoria SC,Braga,,
+2365270,261112,Porto,Vitoria SC,,
+2365271,261112,Benfica,Sporting CP,,
