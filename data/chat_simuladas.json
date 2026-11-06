@@ -1224,5 +1224,47 @@
   "estado": "pendiente",
   "avisada": false,
   "rev": 1
+ },
+ {
+  "id": "20261106202439203637",
+  "creada": "2026-11-06 20:24:39.203680+00:00",
+  "titulo": "Barrido · Combinada cuota 15.0",
+  "legs": [
+   {
+    "code": null,
+    "start": "2026-11-07 17:00:00+00:00",
+    "home": "CD Arcangel San Miguel",
+    "away": "Las Palmas III",
+    "txt": "Gana CD Arcangel San Miguel",
+    "odds": 2.5,
+    "p": 0.4293
+   },
+   {
+    "code": null,
+    "start": "2026-11-07 17:00:00+00:00",
+    "home": "CE Europa II",
+    "away": "Cornella",
+    "txt": "Gana Cornella",
+    "odds": 2.48,
+    "p": 0.4178
+   },
+   {
+    "src": "esports:dota2",
+    "side": "A",
+    "code": null,
+    "start": "2026-11-07 19:00:00+00:00",
+    "home": "Yakult Brothers",
+    "away": "CyberHero",
+    "txt": "Gana CyberHero",
+    "odds": 2.42,
+    "p": 0.5049820936639118
+   }
+  ],
+  "odds": 15.0,
+  "p": 0.09057436599198346,
+  "stake": 1.0,
+  "estado": "pendiente",
+  "avisada": false,
+  "rev": 1
  }
 ]
