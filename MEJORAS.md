@@ -222,3 +222,4 @@
 - 6/11 15:15 probar_interprete: la sonda vuelve a ser útil — en vez de volcar todas las cuotas de LeoVegas, muestra las piernas que elegiría fc_combo (con cara a cara), el peso modelo/casa aprendido y los vetos de lessons().
 - 6/11 16:15 FC 27 combinadas: el veto por cara a cara se extiende al hándicap. Backtest (30 % final): si la diferencia media de sus duelos contradice el hándicap, acierta 52–58 % vs 69–78 % (líneas −0.5/+0.5/+1.5).
 - 6/11 17:20 FC 27 combinadas: medias de cada jugador con sus últimos 30 partidos (antes 10). Backtest 30 % final: error cuadrático del total de goles −0.17 ±0.018 (5.57→5.40); «más de 5.5» con la regla de lógica acierta 73.4 % vs 71.7 %.
+- 6/11 18:15 FC 27: lessons() se calcula una vez por pasada y no por cada partido con cuotas (≈0.2 s × ~30 partidos ≈ 6 s menos por pasada). Revisado también el nº de cara a cara (4/8/15): diferencias ≤0.5 pp, se deja 8.

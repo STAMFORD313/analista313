@@ -209,6 +209,7 @@ def candidates(hours=3, push=True):
     print(f"combinada FC 27: modelo {t1 - t0:.0f} s · calendario {t2 - t1:.0f} s ({len(games)}) · {BOOK} {t3 - t2:.0f} s ({len(evs)})", flush=True)
     cands, priced, log = [], 0, []
     w = blend_w()
+    banned = lessons()  # una vez por pasada, no por partido
     now = pd.Timestamp.now(tz="UTC")
     for g in games:
         e = K.find_esoccer(g["p1"], g["p2"], pd.Timestamp(g["date"]), evs)
@@ -222,7 +223,6 @@ def candidates(hours=3, push=True):
         l1, l2 = (la, lh) if swap else (lh, la)  # en el orden de Kambi
         _, _, diff = E.markets(l1, l2)
         best = None
-        banned = lessons()
         r1, r2 = recent(df, g["p2"] if swap else g["p1"]), recent(df, g["p1"] if swap else g["p2"])  # orden de Kambi
         hh = h2h(df, g["p2"] if swap else g["p1"], g["p1"] if swap else g["p2"])
         for mk in mks:
