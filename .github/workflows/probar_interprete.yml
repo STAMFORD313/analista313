@@ -14,7 +14,18 @@ jobs:
         with: {python-version: "3.12"}
       - run: pip install -r requirements.txt
       - run: |
-          python -c "import fc_combo as F; print(F.combo(10)[0])"
+          python - <<'PY'
+          import requests, kambi as K, analyst as A
+          ev = sorted(K.esoccer_events("leoes"), key=lambda e: e["start"])[:12]
+          for e in ev:
+              r = requests.get(f"https://eu-offering-api.kambicdn.com/offering/v2018/leoes/betoffer/event/{e['id']}.json", params=K.Q, headers=A.UA, timeout=30).json()
+              h = (r.get("events") or [{}])[0]
+              print(f"## {e['start']} | {h.get('homeName')} vs {h.get('awayName')} | {e['liga'][-25:]}")
+              for b in r.get("betOffers", []):
+                  lab = b["criterion"].get("englishLabel")
+                  if "Half" in lab or "Odd" in lab: continue
+                  print("  ", lab, "|", " · ".join(f"{(o.get('englishLabel') or o.get('participant') or '')}{'' if o.get('line') is None else ' ' + str(o['line']/1000)} {o['odds']/1000:.2f}" for o in b.get("outcomes", []) if o.get("odds")))
+          PY
       - run: |
           python -c "
           import simulaciones as S, pandas as pd
