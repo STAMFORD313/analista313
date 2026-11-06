@@ -15,19 +15,11 @@ jobs:
       - run: pip install -r requirements.txt
       - run: |
           python - <<'PY'
-          import requests, kambi as K, analyst as A
-          import pandas as pd
-          now = pd.Timestamp.now(tz="UTC") + pd.Timedelta(minutes=8)
-          print("ahora", pd.Timestamp.now(tz="UTC"))
-          ev = sorted((e for e in K.esoccer_events("leoes") if pd.Timestamp(e["start"]) > now), key=lambda e: e["start"])[:16]
-          for e in ev:
-              r = requests.get(f"https://eu-offering-api.kambicdn.com/offering/v2018/leoes/betoffer/event/{e['id']}.json", params=K.Q, headers=A.UA, timeout=30).json()
-              h = (r.get("events") or [{}])[0]
-              print(f"## {e['start']} | {h.get('homeName')} vs {h.get('awayName')} | {e['liga'][-25:]}")
-              for b in r.get("betOffers", []):
-                  lab = b["criterion"].get("englishLabel")
-                  if "Half" in lab or "Odd" in lab: continue
-                  print("  ", lab, "|", " · ".join(f"{(o.get('englishLabel') or o.get('participant') or '')}{'' if o.get('line') is None else ' ' + str(o['line']/1000)} {o['odds']/1000:.2f}" for o in b.get("outcomes", []) if o.get("odds")))
+          import fc_combo as F
+          c, n = F.candidates(hours=2, push=False)
+          print("FC 27 LeoVegas:", n, "partidos con cuotas,", len(c), "piernas candidatas")
+          for x in c[:12]: print("  ", {k: x[k] for k in x if k in ("txt", "odds", "q", "edge", "start")} or x)
+          print("peso modelo/casa:", F.blend_w(), "| vetos:", F.lessons())
           PY
       - run: |
           python -c "

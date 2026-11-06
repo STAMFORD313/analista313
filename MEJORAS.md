@@ -219,3 +219,4 @@
 - 6/11 12:15 FC 27 combinadas: los cara a cara (últimos 8, ≥4) vetan piernas de goles que contradicen. Backtest 54.762 partidos (30 % final): si el H2H contradice «más de 5.5», acierta 54 % vs 75 %; MSE total 5.56→5.38.
 - 6/11 13:15 analista en rojo: el test «FC 27 aprende de sus fallos» leía el registro real de LeoVegas (odds_leo.csv, ya con datos) y la pierna vetada dejaba de estarlo. Test hermético (LOG apuntando a un fichero inexistente).
 - 6/11 14:20 FC 27 combinadas: peso modelo/casa (W) aprendido de odds_leo.csv (blend_w): solo cambia de 0.30 con ≥200 partidos jugados y mejora de log-loss >2 SE por partido. Hoy (35 partidos): 0.30 ya es el mejor (LL 0.4992 vs casa sola 0.4997 ±0.027) → sin cambio.
+- 6/11 15:15 probar_interprete: la sonda vuelve a ser útil — en vez de volcar todas las cuotas de LeoVegas, muestra las piernas que elegiría fc_combo (con cara a cara), el peso modelo/casa aprendido y los vetos de lessons().
