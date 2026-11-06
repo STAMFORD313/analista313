@@ -1070,7 +1070,9 @@
      "who": "a",
      "line": 3.5,
      "s": "U"
-    }
+    },
+    "ok": true,
+    "por": "Pavlinho19 marcó 2 (3-2)"
    },
    {
     "src": "fc",
@@ -1086,7 +1088,9 @@
      "who": "a",
      "line": 4.5,
      "s": "U"
-    }
+    },
+    "ok": false,
+    "por": "Wboy marcó 6 (1-6)"
    },
    {
     "src": "fc",
@@ -1102,7 +1106,9 @@
      "who": "a",
      "line": 4.5,
      "s": "U"
-    }
+    },
+    "ok": false,
+    "por": "Bomb1to marcó 6 (5-6)"
    },
    {
     "src": "fc",
@@ -1118,14 +1124,16 @@
      "who": null,
      "line": 3.5,
      "s": "O"
-    }
+    },
+    "ok": true,
+    "por": "hubo 4 goles (1-3)"
    }
   ],
   "odds": 6.35,
   "p": 0.13709802213913677,
   "stake": 1.0,
-  "estado": "pendiente",
-  "avisada": false,
-  "rev": 1
+  "estado": "perdida",
+  "avisada": true,
+  "rev": 2
  }
 ]
