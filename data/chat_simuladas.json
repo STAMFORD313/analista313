@@ -1135,5 +1135,50 @@
   "estado": "perdida",
   "avisada": true,
   "rev": 2
+ },
+ {
+  "id": "20261106111349232243",
+  "creada": "2026-11-06 11:13:49.232309+00:00",
+  "titulo": "Combinada FC 27 cuota 1.8",
+  "legs": [
+   {
+    "src": "fc",
+    "side": null,
+    "home": "mko1919",
+    "away": "Uncle",
+    "start": "2026-11-06 11:15:00+00:00",
+    "txt": "Más de 1.5 goles de Uncle",
+    "odds": 1.15,
+    "p": 0.8108,
+    "fc": {
+     "k": "ptot",
+     "who": "a",
+     "line": 1.5,
+     "s": "O"
+    }
+   },
+   {
+    "src": "fc",
+    "side": null,
+    "home": "MeLToSik",
+    "away": "Revange",
+    "start": "2026-11-06 11:18:00+00:00",
+    "txt": "MeLToSik +1.5",
+    "odds": 1.55,
+    "p": 0.6275,
+    "fc": {
+     "k": "hcp",
+     "who": null,
+     "line": 1.5,
+     "s": "h"
+    }
+   }
+  ],
+  "odds": 1.78,
+  "p": 0.5087854716241953,
+  "stake": 1.0,
+  "estado": "pendiente",
+  "avisada": false,
+  "rev": 1
  }
 ]
