@@ -831,3 +831,7 @@ fecha,deporte,mercado,p,implied,odds,edge,gano,retorno,clv,apostada,ia,ia_aposta
 2026-11-06,🔫,t1,0.639,0.601,1.55,-0.009,1,1.55,,0,,,2026-11-04T14:35,56c50fb,,Thunderpick
 2026-11-06,🎮⚽,A,0.87,0.87,1.15,0.0,0,0.0,,0,,,2026-11-06T00:42,a757347,,cuota justa (sin casa)
 2026-11-06,🎮⚽,A,0.853,0.853,1.17,0.0,1,1.17,,0,,,2026-11-06T01:19,c051158,,cuota justa (sin casa)
+2026-11-06,🏈,over,0.511,0.489,1.952,-0.002,1,1.952,,0,,,2026-11-03T06:59,7948daf,"Baltimore Ravens: 3 fuera, 22 duda (Jaylinn Hawkins, Olaivavega Ioane, Lamar Jackson); Jacksonville Jaguars: 3 fuera, 22 duda (Eric Murray, DaVon Hamilton, Antonio Johnson)",DraftKings
+2026-11-06,🏈,sph,0.606,0.478,2.0,0.212,0,0.0,,1,sin IA,True,2026-11-03T06:59,7948daf,"Baltimore Ravens: 3 fuera, 22 duda (Jaylinn Hawkins, Olaivavega Ioane, Lamar Jackson); Jacksonville Jaguars: 3 fuera, 22 duda (Eric Murray, DaVon Hamilton, Antonio Johnson)",DraftKings
+2026-11-06,🏈,home,0.349,0.209,4.6,0.607,0,0.0,0.076,0,,,2026-11-03T06:59,7948daf,"Baltimore Ravens: 3 fuera, 22 duda (Jaylinn Hawkins, Olaivavega Ioane, Lamar Jackson); Jacksonville Jaguars: 3 fuera, 22 duda (Eric Murray, DaVon Hamilton, Antonio Johnson)",DraftKings
+2026-11-06,🔫,t1,0.771,0.854,1.09,-0.16,1,1.09,,0,,,2026-11-04T15:34,67c2805,,Thunderpick

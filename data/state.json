@@ -1989,7 +1989,17 @@
   "fc|2365086",
   "fc|2363733",
   "fc|2365087",
-  "fc|2364774"
+  "fc|2364774",
+  "dota2|133501",
+  "dota2|133500",
+  "dota2|133499",
+  "dota2|133634",
+  "dota2|133144",
+  "r6|132882",
+  "r6|132884",
+  "fc|2364780",
+  "fc|2364777",
+  "fc|2364776"
  ],
  "signals": [
   {
@@ -3526,7 +3536,11 @@
    "version": "7948daf",
    "bajas": "Baltimore Ravens: 3 fuera, 22 duda (Jaylinn Hawkins, Olaivavega Ioane, Lamar Jackson); Jacksonville Jaguars: 3 fuera, 22 duda (Eric Murray, DaVon Hamilton, Antonio Johnson)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "10-33",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "sph",
@@ -3553,7 +3567,11 @@
     "confianza": null,
     "modelo": null
    },
-   "placed": true
+   "placed": true,
+   "result": false,
+   "score": "10-33",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "home",
@@ -3573,7 +3591,11 @@
    "version": "7948daf",
    "bajas": "Baltimore Ravens: 3 fuera, 22 duda (Jaylinn Hawkins, Olaivavega Ioane, Lamar Jackson); Jacksonville Jaguars: 3 fuera, 22 duda (Eric Murray, DaVon Hamilton, Antonio Johnson)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "10-33",
+   "close_p": 0.2339,
+   "logged": true
   },
   {
    "market": "under",
@@ -14731,7 +14753,11 @@
    "version": "67c2805",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "1-0",
+   "result": true,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "H",
@@ -26058,6 +26084,82 @@
    "result": true,
    "close_p": null,
    "logged": true
+  },
+  {
+   "market": "t1",
+   "team_id": 25665,
+   "pick": "Froglings",
+   "odds": 3.89,
+   "book": "Thunderpick",
+   "p": 0.263,
+   "implied": 0.237,
+   "edge": 0.022,
+   "key": "dota2|133634",
+   "match": "Froglings vs Astra Invicta",
+   "start": "2026-11-07T16:00:00+00:00",
+   "league": "🐉 Dota 2 · 1win Essence III: Play-In",
+   "sport": "🐉",
+   "info": [
+    "📊 <b>Escenarios</b> (Elo por mapa, 11.647 partidos)",
+    "Mapa: Froglings 33% · Serie BO3: Froglings 29% - 71% Astra Invicta",
+    "Casas: Froglings 24% · Astra Invicta 76%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Elo: Froglings 1600 (0 series) | Astra Invicta 1766 (8 series)",
+    "• Forma: Froglings — | Astra Invicta ❌❌✅❌❌",
+    "• H2H: sin precedentes",
+    "• Torneo: 1win Essence III: Play-In (nivel A)",
+    "• Cambios de plantilla: ninguno",
+    "• Jugadores en forma (KDA últimas 10 partidas): Froglings: sin datos | Astra Invicta: lorenof 3.4, Nightfall 2.7",
+    "• Química de la plantilla: Froglings: sin datos | Astra Invicta: 97 partidas juntos de media",
+    "",
+    "🧩 <b>Marcador exacto «gana + más de 2.5 mapas»</b> (son opciones alternativas: como mucho UNA; solo información, sin stake)",
+    "• Froglings gana 2-1: 12% → cuota justa 8.26 · casa 11%",
+    "• Astra Invicta gana 2-1: 25% → cuota justa 4.02 · casa 25%"
+   ],
+   "context": "Dota 2 Froglings vs Astra Invicta, BO3, torneo 1win Essence III: Play-In nivel a. Elo por mapa 1600 vs 1766 (prob. mapa 33%, serie 29%). Forma — / ❌❌✅❌❌ (✅ victoria ❌ derrota). H2H sin precedentes. Cambios de plantilla: ninguno. Cuotas Thunderpick 3.89/1.21.",
+   "captured": "2026-11-06T04:16",
+   "version": "457dc1b",
+   "bajas": "",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "t1",
+   "team_id": 19336,
+   "pick": "Dplus",
+   "odds": 1.02,
+   "book": "Thunderpick",
+   "p": 0.823,
+   "implied": 0.906,
+   "edge": -0.161,
+   "key": "r6|132884",
+   "match": "Dplus vs KINGZERO eSports",
+   "start": "2026-11-07T00:30:00+00:00",
+   "league": "🔫 R6 Siege · BLAST R6 Major Osaka 2026",
+   "sport": "🔫",
+   "info": [
+    "📊 <b>Escenarios</b> (Elo por mapa, 3.346 partidos)",
+    "Mapa: Dplus 67% · Serie BO3: Dplus 74% - 26% KINGZERO eSports",
+    "Casas: Dplus 91% · KINGZERO eSports 9%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Elo: Dplus 1775 (93 series) | KINGZERO eSports 1634 (45 series)",
+    "• Forma: Dplus ✅✅✅✅❌ | KINGZERO eSports ✅❌✅❌❌",
+    "• H2H: sin precedentes",
+    "• Torneo: BLAST R6 Major Osaka 2026 (nivel S)",
+    "• Cambios de plantilla: Dplus, KINGZERO eSports",
+    "",
+    "🧩 <b>Marcador exacto «gana + más de 2.5 mapas»</b> (son opciones alternativas: como mucho UNA; solo información, sin stake)",
+    "• Dplus gana 2-1: 23% → cuota justa 4.29",
+    "• KINGZERO eSports gana 2-1: 12% → cuota justa 8.55"
+   ],
+   "context": "R6 Siege Dplus vs KINGZERO eSports, BO3, torneo BLAST R6 Major Osaka 2026 nivel s. Elo por mapa 1775 vs 1634 (prob. mapa 67%, serie 74%). Forma ✅✅✅✅❌ / ✅❌✅❌❌ (✅ victoria ❌ derrota). H2H sin precedentes. Cambios de plantilla: Dplus, KINGZERO eSports. Cuotas Thunderpick 1.02/9.8.",
+   "captured": "2026-11-06T04:16",
+   "version": "457dc1b",
+   "bajas": "",
+   "considered": true,
+   "placed": false
   }
  ],
  "bank": {
@@ -26425,7 +26527,8 @@
     "stake": 1.26,
     "odds": 2.0,
     "desc": "Baltimore Ravens vs Jacksonville Jaguars → Baltimore Ravens +8.5",
-    "status": "abierta"
+    "status": "perdida",
+    "return": 0.0
    },
    {
     "date": "2026-11-03",
@@ -26455,7 +26558,8 @@
     "stake": 1.65,
     "odds": 3.82,
     "desc": "Combinada: Menos de 72.5 puntos + Baltimore Ravens +8.5",
-    "status": "abierta"
+    "status": "perdida",
+    "return": 0.0
    },
    {
     "date": "2026-11-03",
@@ -26515,7 +26619,7 @@
   ]
  },
  "scoreboard_id": 156,
- "scoreboard_text": "📊 <b>MARCADOR DEL BOT</b>\n━━━━━━━━━━━━━━━\n🟩 Ganadas: <b>11</b> (42 %)\n🟥 Perdidas: <b>15</b> (58 %)\n⏳ En juego: 4\n\nÚltimas 26:\n🟥🟥🟥🟩🟥🟩🟥🟥🟥🟥🟥🟥🟥🟥🟩🟥🟥🟩🟩🟩🟩🟩🟥🟩🟩🟩\n━━━━━━━━━━━━━━━\n💵 Beneficio -11.84 $ · ROI -23.6 %\n📐 CLV medio +2.5 % (cuota cogida vs cierre)\n💰 Banca: <b>88.16 €</b> (-11.84 € desde 100 €) · libre 82.83 €{\"inline_keyboard\": [[{\"text\": \"\\ud83d\\udcc8 Ver historial completo y fallos\", \"url\": \"https://github.com/STAMFORD313/analista313/blob/main/ESTADISTICAS.md\"}], [{\"text\": \"\\u26bd F\\u00fatbol\", \"callback_data\": \"dep:futbol\"}, {\"text\": \"\\ud83c\\udfc0 NBA\\u00b7NCAA\", \"callback_data\": \"dep:nba\"}, {\"text\": \"\\ud83c\\udfc8 NFL\\u00b7NCAA\", \"callback_data\": \"dep:nfl\"}], [{\"text\": \"\\ud83c\\udfc6 Champions\\u00b7Europa\", \"callback_data\": \"dep:europa\"}, {\"text\": \"\\ud83c\\udfd2 NHL\", \"callback_data\": \"dep:nhl\"}, {\"text\": \"\\u26be MLB\", \"callback_data\": \"dep:mlb\"}], [{\"text\": \"\\ud83e\\udd4a UFC\", \"callback_data\": \"dep:ufc\"}, {\"text\": \"\\ud83c\\udfbe Tenis\", \"callback_data\": \"dep:tenis\"}, {\"text\": \"\\ud83c\\udfae CS2\", \"callback_data\": \"dep:cs2\"}], [{\"text\": \"\\ud83d\\udc09 Dota 2\", \"callback_data\": \"dep:dota2\"}, {\"text\": \"\\ud83e\\uddd9 LoL\", \"callback_data\": \"dep:lol\"}, {\"text\": \"\\ud83d\\udd2b R6 Siege\", \"callback_data\": \"dep:r6\"}], [{\"text\": \"\\ud83d\\udcf1 MLBB\", \"callback_data\": \"dep:mlbb\"}, {\"text\": \"\\ud83c\\udfae\\u26bd FC 27\", \"callback_data\": \"dep:fc\"}]]}",
+ "scoreboard_text": "📊 <b>MARCADOR DEL BOT</b>\n━━━━━━━━━━━━━━━\n🟩 Ganadas: <b>11</b> (39 %)\n🟥 Perdidas: <b>17</b> (61 %)\n⏳ En juego: 2\n\nÚltimas 28:\n🟥🟥🟥🟩🟥🟩🟥🟥🟥🟥🟥🟥🟥🟥🟩🟥🟥🟩🟩🟩🟩🟩🟥🟥🟥🟩🟩🟩\n━━━━━━━━━━━━━━━\n💵 Beneficio -14.75 $ · ROI -27.7 %\n📐 CLV medio +2.5 % (cuota cogida vs cierre)\n💰 Banca: <b>85.25 €</b> (-14.75 € desde 100 €) · libre 82.83 €{\"inline_keyboard\": [[{\"text\": \"\\ud83d\\udcc8 Ver historial completo y fallos\", \"url\": \"https://github.com/STAMFORD313/analista313/blob/main/ESTADISTICAS.md\"}], [{\"text\": \"\\u26bd F\\u00fatbol\", \"callback_data\": \"dep:futbol\"}, {\"text\": \"\\ud83c\\udfc0 NBA\\u00b7NCAA\", \"callback_data\": \"dep:nba\"}, {\"text\": \"\\ud83c\\udfc8 NFL\\u00b7NCAA\", \"callback_data\": \"dep:nfl\"}], [{\"text\": \"\\ud83c\\udfc6 Champions\\u00b7Europa\", \"callback_data\": \"dep:europa\"}, {\"text\": \"\\ud83c\\udfd2 NHL\", \"callback_data\": \"dep:nhl\"}, {\"text\": \"\\u26be MLB\", \"callback_data\": \"dep:mlb\"}], [{\"text\": \"\\ud83e\\udd4a UFC\", \"callback_data\": \"dep:ufc\"}, {\"text\": \"\\ud83c\\udfbe Tenis\", \"callback_data\": \"dep:tenis\"}, {\"text\": \"\\ud83c\\udfae CS2\", \"callback_data\": \"dep:cs2\"}], [{\"text\": \"\\ud83d\\udc09 Dota 2\", \"callback_data\": \"dep:dota2\"}, {\"text\": \"\\ud83e\\uddd9 LoL\", \"callback_data\": \"dep:lol\"}, {\"text\": \"\\ud83d\\udd2b R6 Siege\", \"callback_data\": \"dep:r6\"}], [{\"text\": \"\\ud83d\\udcf1 MLBB\", \"callback_data\": \"dep:mlbb\"}, {\"text\": \"\\ud83c\\udfae\\u26bd FC 27\", \"callback_data\": \"dep:fc\"}]]}",
  "fc_sent": "2026-11-06T01:12:37.206839+00:00",
  "sgp": {
   "nfl|2026-11-08|Atlanta Falcons|Cincinnati Bengals": {
@@ -26921,6 +27025,7 @@
   "nba|2026-11-07|Sacramento Kings|San Antonio Spurs",
   "nba|2026-11-07|Los Angeles Lakers|Portland Trail Blazers",
   "nba|2026-11-07|Dallas Mavericks|Utah Jazz",
-  "nba|2026-11-07|Memphis Grizzlies|Oklahoma City Thunder"
+  "nba|2026-11-07|Memphis Grizzlies|Oklahoma City Thunder",
+  "nba|2026-11-07|Charlotte Hornets|Boston Celtics"
  ]
 }
