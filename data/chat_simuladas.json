@@ -682,15 +682,17 @@
     "away": "B.LINE",
     "txt": "Gana B.LINE",
     "odds": 2.05,
-    "p": 0.5430032520325203
+    "p": 0.5430032520325203,
+    "ok": false,
+    "por": "ganó Dynamo Eclot Phoenix 2-0"
    }
   ],
   "odds": 6.32,
   "p": 0.19422570829777505,
   "stake": 1.0,
-  "estado": "pendiente",
-  "avisada": false,
-  "rev": 1
+  "estado": "perdida",
+  "avisada": true,
+  "rev": 2
  },
  {
   "id": "20261105212139793655",
