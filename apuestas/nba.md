@@ -1,6 +1,6 @@
 # 🏀 NBA·NCAA · apuestas de valor
 
-Actualizado 06/11/2026 08:10 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 06/11/2026 08:39 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Michigan Wolverines vs UConn Huskies — 07/11 · 02:00
 

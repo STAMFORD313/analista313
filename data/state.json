@@ -2020,7 +2020,10 @@
   "dota2|133503",
   "fc|2365447",
   "fc|2365184",
-  "fc|2365446"
+  "fc|2365446",
+  "fc|2366013",
+  "fc|2366175",
+  "fc|2365191"
  ],
  "signals": [
   {
@@ -4427,30 +4430,6 @@
   {
    "market": "A",
    "pick": "Kril",
-   "odds": 1.31,
-   "book": "cuota justa (sin casa)",
-   "p": 0.765,
-   "implied": 0.765,
-   "edge": 0.0,
-   "key": "fc|2359944",
-   "match": "Dan_dragonio vs Kril",
-   "start": "2026-11-03T07:34:00+00:00",
-   "league": "🎮⚽ FC 27 · Volta FA Cup",
-   "sport": "🎮⚽",
-   "context": "EA FC Esoccer Battle Dan_dragonio vs Kril (Volta FA Cup): goles esperados 3.63-6.40, 1X2 15%/9%/77%. Sin cuotas de casa.",
-   "captured": "2026-11-03T06:59",
-   "version": "7948daf",
-   "bajas": "",
-   "considered": true,
-   "placed": false,
-   "anunciada": true,
-   "score": "1-5",
-   "result": true,
-   "logged": true
-  },
-  {
-   "market": "A",
-   "pick": "Kril",
    "odds": 1.33,
    "book": "cuota justa (sin casa)",
    "p": 0.752,
@@ -4469,30 +4448,6 @@
    "placed": false,
    "anunciada": true,
    "score": "1-7",
-   "result": true,
-   "logged": true
-  },
-  {
-   "market": "H",
-   "pick": "Kril",
-   "odds": 1.33,
-   "book": "cuota justa (sin casa)",
-   "p": 0.752,
-   "implied": 0.752,
-   "edge": 0.0,
-   "key": "fc|2359939",
-   "match": "Kril vs Fireline",
-   "start": "2026-11-03T07:16:00+00:00",
-   "league": "🎮⚽ FC 27 · Volta FA Cup",
-   "sport": "🎮⚽",
-   "context": "EA FC Esoccer Battle Kril vs Fireline (Volta FA Cup): goles esperados 5.22-2.80, 1X2 75%/10%/15%. Sin cuotas de casa.",
-   "captured": "2026-11-03T06:59",
-   "version": "7948daf",
-   "bajas": "",
-   "considered": true,
-   "placed": false,
-   "anunciada": true,
-   "score": "9-5",
    "result": true,
    "logged": true
   },
@@ -26188,6 +26143,30 @@
     "confianza": null,
     "modelo": null
    },
+   "placed": false
+  },
+  {
+   "key": "vp|2026-11-07|Nara Club|Kochi United",
+   "market": "H",
+   "pick": "Nara Club",
+   "odds": 1.87,
+   "book": "Unibet",
+   "p": 0.5542,
+   "implied": 0.5542,
+   "edge": 0.0363,
+   "match": "Nara Club vs Kochi United",
+   "start": "2026-11-07T05:00:00+00:00",
+   "league": "💎 Valor vs Pinnacle · Japan - J3 League",
+   "sport": "⚽💎",
+   "info": [
+    "💎 <b>Valor contra Pinnacle</b>: Unibet paga 1.87 y el precio justo de Pinnacle es 1.80 (ventaja +3.6%)",
+    "Backtest 2015-2026 (cuota ≤ 2.5, > 3 %): ROI +11 % ± 3 %, CLV +5 %."
+   ],
+   "context": "Nara Club vs Kochi United (Japan - J3 League). Estrategia de valor: Unibet 1.87 frente a Pinnacle justo 1.80.",
+   "captured": "2026-11-06T07:39",
+   "version": "fab7022",
+   "bajas": "",
+   "considered": true,
    "placed": false
   }
  ],
