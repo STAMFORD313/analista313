@@ -34,15 +34,14 @@ def model():
 
 def scheduled(hours=3):
     """Partidos de Esoccer Battle programados o en juego en las próximas `hours` h: [{id, date, league, p1, p2, c1, c2}]."""
-    now, out = pd.Timestamp.now(tz="UTC"), []
-    for t in E.tournaments(now, now + pd.Timedelta(hours=hours)):
-        if t.get("status_id") not in (1, 2, 3): continue
-        st = pd.Timestamp(t.get("start_date") or now)
-        if not (now - pd.Timedelta(hours=3) < st < now + pd.Timedelta(hours=hours)): continue  # solo torneos de ahora (hay ~60 al día)
-        try: out += [g for g in E.match_rows(t, finished=False) if now < pd.Timestamp(g["date"]) < now + pd.Timedelta(hours=hours)]
-        except (requests.RequestException, ValueError) as e: print("esportsbattle", t.get("id"), e)
-        time.sleep(0.2)
-    return out
+    from concurrent.futures import ThreadPoolExecutor
+    now = pd.Timestamp.now(tz="UTC")
+    ts = [t for t in E.tournaments(now, now + pd.Timedelta(hours=hours)) if t.get("status_id") in (1, 2, 3)
+          and now - pd.Timedelta(hours=3) < pd.Timestamp(t.get("start_date") or now) < now + pd.Timedelta(hours=hours)]  # solo los de ahora
+    def rows(t):
+        try: return [g for g in E.match_rows(t, finished=False) if now < pd.Timestamp(g["date"]) < now + pd.Timedelta(hours=hours)]
+        except (requests.RequestException, ValueError) as e: print("esportsbattle", t.get("id"), e); return []
+    with ThreadPoolExecutor(6) as ex: return [g for gs in ex.map(rows, ts) for g in gs]  # en paralelo: antes 66 s
 
 
 def offers(eid, op=OP):
