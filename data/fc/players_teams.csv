@@ -58790,18 +58790,18 @@ id,tournament_id,club1,club2,ht1,ht2
 2365761,261141,River Plate,Boca Juniors,,
 2365762,261141,Racing Club,Boca Juniors,,
 2365763,261141,Racing Club,River Plate,,
-2365672,261129,Germany,Morocco,3,1
-2365673,261129,Czechia,Norway,2,1
-2365674,261129,Norway,Germany,0,1
-2365675,261129,Morocco,Netherlands,5,0
-2365676,261129,Netherlands,Norway,4,1
-2365677,261129,Germany,Czechia,1,0
-2365678,261129,Czechia,Netherlands,3,3
-2365679,261129,Norway,Morocco,2,2
-2365680,261129,Morocco,Czechia,2,1
-2365681,261129,Netherlands,Germany,0,0
-2365682,261129,Morocco,Germany,1,3
-2365683,261129,Norway,Czechia,1,0
+2365672,261129,Germany,Morocco,3.0,1.0
+2365673,261129,Czechia,Norway,2.0,1.0
+2365674,261129,Norway,Germany,0.0,1.0
+2365675,261129,Morocco,Netherlands,5.0,0.0
+2365676,261129,Netherlands,Norway,4.0,1.0
+2365677,261129,Germany,Czechia,1.0,0.0
+2365678,261129,Czechia,Netherlands,3.0,3.0
+2365679,261129,Norway,Morocco,2.0,2.0
+2365680,261129,Morocco,Czechia,2.0,1.0
+2365681,261129,Netherlands,Germany,0.0,0.0
+2365682,261129,Morocco,Germany,1.0,3.0
+2365683,261129,Norway,Czechia,1.0,0.0
 2365684,261129,Germany,Norway,,
 2365685,261129,Netherlands,Morocco,,
 2365686,261129,Norway,Netherlands,,
@@ -58810,3 +58810,23 @@ id,tournament_id,club1,club2,ht1,ht2
 2365689,261129,Morocco,Norway,,
 2365690,261129,Czechia,Morocco,,
 2365691,261129,Germany,Netherlands,,
+2366314,261159,Liverpool,Tottenham,1,2
+2366315,261159,Arsenal,Chelsea,1,2
+2366316,261159,Chelsea,Liverpool,1,1
+2366317,261159,Tottenham,Man City,0,3
+2366318,261159,Man City,Chelsea,,
+2366319,261159,Liverpool,Arsenal,,
+2366320,261159,Arsenal,Man City,,
+2366321,261159,Chelsea,Tottenham,,
+2366322,261159,Tottenham,Arsenal,,
+2366323,261159,Man City,Liverpool,,
+2366324,261159,Tottenham,Liverpool,,
+2366325,261159,Chelsea,Arsenal,,
+2366326,261159,Liverpool,Chelsea,,
+2366327,261159,Man City,Tottenham,,
+2366328,261159,Chelsea,Man City,,
+2366329,261159,Arsenal,Liverpool,,
+2366330,261159,Man City,Arsenal,,
+2366331,261159,Tottenham,Chelsea,,
+2366332,261159,Arsenal,Tottenham,,
+2366333,261159,Liverpool,Man City,,
