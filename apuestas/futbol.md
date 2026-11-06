@@ -1,6 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 06/11/2026 21:25 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 06/11/2026 21:38 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Famalicao vs Arouca — 06/11 · 21:45
 

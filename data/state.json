@@ -1291,7 +1291,6 @@
   "atp|2026-11-07|Adrian Mannarino|Jan Simonsson",
   "atp|2026-11-07|Luca Van Assche|Ben Shelton",
   "wta|2026-11-07|Magda Linette|Anastasia Zakharova",
-  "dota2|132363",
   "dota2|132365",
   "dota2|133134",
   "dota2|133135",
@@ -5054,30 +5053,6 @@
    "considered": true,
    "placed": false,
    "score": "0-5",
-   "result": true,
-   "logged": true
-  },
-  {
-   "market": "A",
-   "pick": "mPm",
-   "odds": 1.92,
-   "book": "Unibet",
-   "implied": 0.459,
-   "edge": 0.189,
-   "sin_stake": true,
-   "p": 0.619,
-   "key": "fc|2360144",
-   "match": "ramzes vs mPm",
-   "start": "2026-11-03T20:32:00+00:00",
-   "league": "🎮⚽ FC 27 · Copa America",
-   "sport": "🎮⚽",
-   "context": "EA FC Esoccer Battle ramzes vs mPm (Copa America): goles esperados 3.21-4.47, 1X2 23%/15%/62%. Sin cuotas de casa.",
-   "captured": "2026-11-03T20:17",
-   "version": "a31452a",
-   "bajas": "",
-   "considered": true,
-   "placed": false,
-   "score": "0-1",
    "result": true,
    "logged": true
   },
@@ -57978,7 +57953,8 @@
      "line": 2.5,
      "text": "Menos de 2.5 tarjetas de Espanol"
     }
-   ]
+   ],
+   "anunciada": true
   },
   "SP2|2026-11-07|Cadiz|Oviedo": {
    "match": "Cadiz vs Oviedo",
@@ -58236,7 +58212,8 @@
      "line": 2.5,
      "text": "Menos de 2.5 goles"
     }
-   ]
+   ],
+   "anunciada": true
   },
   "P1|2026-11-07|Nacional|Academico Viseu": {
    "match": "Nacional vs Academico Viseu",
@@ -59153,7 +59130,8 @@
      "line": 2.5,
      "text": "Más de 2.5 goles"
     }
-   ]
+   ],
+   "anunciada": true
   },
   "E0|2026-11-07|Nott'm Forest|Man City": {
    "match": "Nott'm Forest vs Man City",
@@ -59792,7 +59770,8 @@
      "line": 4.5,
      "text": "Menos de 4.5 córners de Albacete"
     }
-   ]
+   ],
+   "anunciada": true
   },
   "N1|2026-11-07|Den Haag|Sparta Rotterdam": {
    "match": "Den Haag vs Sparta Rotterdam",
@@ -59944,7 +59923,8 @@
      "line": 4.5,
      "text": "Más de 4.5 tiros a puerta de Sparta Rotterdam"
     }
-   ]
+   ],
+   "anunciada": true
   },
   "SC0|2026-11-07|Aberdeen|Hibernian": {
    "match": "Aberdeen vs Hibernian",
@@ -60244,7 +60224,8 @@
      "line": 12.5,
      "text": "Menos de 12.5 faltas de Paris FC"
     }
-   ]
+   ],
+   "anunciada": true
   },
   "P1|2026-11-07|Alverca|Casa Pia": {
    "match": "Alverca vs Casa Pia",
@@ -68624,7 +68605,7 @@
    ]
   }
  },
- "combo_sent": "2026-11-06T17:37:09.112449+00:00",
+ "combo_sent": "2026-11-06T20:38:52.444247+00:00",
  "fc_sim_sent": "2026-11-06T19:27:57.445126+00:00",
  "fc_sim_n": 698,
  "kambi_ok": [
