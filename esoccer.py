@@ -22,6 +22,7 @@ LR = _P.get("lr", 0.03)        # paso del ataque/defensa de cada jugador por par
 LR_LEAGUE = _P.get("lr_league", 0.01)
 DRAW_LIGA = _P.get("draw_liga") or {}  # factor del empate por liga (train_fc_calib.py: CSL/Volta menos, World Cup B más)
 CALIB = _P.get("calib")          # [a, b] de train_fc_calib.py: p_i ∝ p_i^a · e^(b·empate); None = sin recalibrar
+CLUB_W, CLUB = _P.get("club_w", 0.0), _P.get("club") or {}  # train_fc_calib.py: rendimiento del equipo que usa cada jugador
 H2H = _P.get("h2h", 0.0)         # train_fc_calib.py: peso del cara a cara (balance encogido) sobre local/visitante
 SHRINK = _P.get("shrink", 0.0)  # encogimiento de las fuerzas hacia 0 por partido (olvido)
 MAX_GOALS = 15
@@ -48,7 +49,9 @@ def match_rows(t, finished=True):
     league = (t.get("league") or {}).get("token_international", "")
     return [{"id": m["id"], "date": m["date"], "tournament_id": t["id"], "league": league,
              "p1": m["participant1"]["nickname"], "p2": m["participant2"]["nickname"],
-             "s1": m["participant1"].get("score"), "s2": m["participant2"].get("score")}
+             "s1": m["participant1"].get("score"), "s2": m["participant2"].get("score"),
+             "c1": (m["participant1"].get("team") or {}).get("token_international"),  # club que usa (para club_adjust)
+             "c2": (m["participant2"].get("team") or {}).get("token_international")}
             for m in get(f"tournaments/{t['id']}/matches") if m.get("status_id") == (3 if finished else 1)]
 
 
@@ -106,6 +109,16 @@ def h2h_value(H, a, b):
     """Balance de A frente a B encogido: (victorias − derrotas) / (partidos + 5)."""
     k = tuple(sorted((a, b))); s = H.get(k, [0, 0])
     return (s[0] if k[0] == a else -s[0]) / (s[1] + 5)
+
+
+def club_adjust(p, c1, c2, w=None, table=None):
+    """1X2 con el club que usa cada jugador (sorpresa encogida del club 1 − la del club 2); sin dato, igual."""
+    w, t = (CLUB_W if w is None else w), (CLUB if table is None else table)
+    if not w or not c1 or not c2: return p
+    x = t.get(c1, 0.0) - t.get(c2, 0.0)
+    if not x: return p
+    z = {"1": p["1"] * math.exp(w * x), "X": p["X"], "2": p["2"] * math.exp(-w * x)}; s = sum(z.values())
+    return {k: v / s for k, v in z.items()}
 
 
 def h2h_adjust(p, x, w=None):
@@ -322,7 +335,7 @@ def run(state, today, kg):
                 if not (now < start < now + pd.Timedelta(hours=2)) or key in state["analyzed"]: continue
                 l1, l2 = m.lam(g["league"], g["p1"], g["p2"]), m.lam(g["league"], g["p2"], g["p1"])
                 p, tot, diff = markets(l1, l2)
-                p = h2h_adjust(draw_league(calibrate(p), g["league"]), h2h_value(H, g["p1"], g["p2"]))
+                p = club_adjust(h2h_adjust(draw_league(calibrate(p), g["league"]), h2h_value(H, g["p1"], g["p2"])), g.get("c1"), g.get("c2"))
                 cands.append((max(p.values()), g, start, key, l1, l2, p, tot, diff))
             time.sleep(0.3)
     except (requests.RequestException, ValueError) as e:

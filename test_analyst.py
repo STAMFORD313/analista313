@@ -1551,3 +1551,8 @@ print("ok barridos sin repetir piernas de esports")
 import numpy as _np
 assert json.dumps(_SL._py({"ok": _np.bool_(False), "c": _np.float64(0.1), "l": [_np.int64(2)]})) == '{"ok": false, "c": 0.1, "l": [2]}'
 print("ok simuladas guardan resultados de numpy")
+
+_pc0 = {"1": 0.4, "X": 0.2, "2": 0.4}
+_pc1 = esoccer.club_adjust(_pc0, "Spain", "Wales", w=1.0, table={"Spain": 0.1, "Wales": -0.1})
+assert _pc1["1"] > _pc1["2"] and abs(sum(_pc1.values()) - 1) < 1e-9 and esoccer.club_adjust(_pc0, None, "Wales", w=1.0) == _pc0
+print("ok club en FC 27")

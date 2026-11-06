@@ -19,21 +19,35 @@ def calibrate_arr(P, a, b):
     L = np.exp(L - L.max(1, keepdims=True)); return L / L.sum(1, keepdims=True)
 
 
+CLUB_K, CLUB_DAYS = 50, 60  # sorpresa por club encogida con 50 partidos; se acumula desde 60 días antes del tramo
+
+
 def predictions(df, since):
-    m, rows, H = E.Model(), [], {}
+    """Predicciones walk-forward + cara a cara + «club»: lo que rinde el equipo que usa cada jugador por encima de lo que
+    esperaban los jugadores (resultado − prob. del modelo, acumulado solo con partidos anteriores, encogido)."""
+    m, rows, H, C = E.Model(), [], {}, {}
+    cl = lambda c: c if isinstance(c, str) else None
     for r in df.itertuples():
+        c1, c2 = cl(getattr(r, "club1", None)), cl(getattr(r, "club2", None))
+        p, _, _ = E.markets(m.lam(r.league, r.p1, r.p2), m.lam(r.league, r.p2, r.p1)) if (r.date >= since or (c1 and c2 and r.date >= since - pd.Timedelta(days=CLUB_DAYS))) else (None, 0, 0)
         if r.date >= since:
-            p, _, _ = E.markets(m.lam(r.league, r.p1, r.p2), m.lam(r.league, r.p2, r.p1))
-            rows.append((r.date, p["1"], p["X"], p["2"], 0 if r.s1 > r.s2 else 1 if r.s1 == r.s2 else 2, E.h2h_value(H, r.p1, r.p2), r.league))
+            cv = (lambda a, b: a[0] / (a[1] + CLUB_K) - b[0] / (b[1] + CLUB_K))(C.get(c1, [0, 0]), C.get(c2, [0, 0])) if c1 and c2 else 0.0
+            rows.append((r.date, p["1"], p["X"], p["2"], 0 if r.s1 > r.s2 else 1 if r.s1 == r.s2 else 2, E.h2h_value(H, r.p1, r.p2), r.league, cv))
+        if p and c1 and c2:
+            res = (1 if r.s1 > r.s2 else 0) - p["1"]
+            for c, v in ((c1, res), (c2, -res)): t = C.setdefault(c, [0, 0]); t[0] += v; t[1] += 1
         m.update(r.league, r.p1, r.p2, r.s1, r.s2)
         k = tuple(sorted((r.p1, r.p2))); s = H.setdefault(k, [0, 0])  # cara a cara, solo con partidos anteriores
         s[0] += (1 if r.s1 > r.s2 else -1 if r.s2 > r.s1 else 0) * (1 if k[0] == r.p1 else -1); s[1] += 1
-    d = pd.DataFrame(rows, columns=["date", "p1", "pX", "p2", "y", "h2h", "league"])
+    d = pd.DataFrame(rows, columns=["date", "p1", "pX", "p2", "y", "h2h", "league", "club"])
+    d.attrs["club_table"] = {c: round(v[0] / (v[1] + CLUB_K), 4) for c, v in C.items() if v[1] >= 20}
     return d
 
 
 def main():
     df = pd.read_csv(E.HIST).dropna(subset=["s1", "s2"])
+    if (E.DIR / "players_teams.csv").exists():  # club que usa cada jugador (fc_players.py)
+        df = df.merge(pd.read_csv(E.DIR / "players_teams.csv")[["id", "club1", "club2"]], on="id", how="left")
     df["date"] = pd.to_datetime(df.date, utc=True); df = df.sort_values(["date", "id"], ignore_index=True)
     end = df.date.max()
     d = predictions(df, end - pd.Timedelta(days=30))
@@ -78,6 +92,15 @@ def main():
     P_["h2h_test"] = {"ll": round(float(lb.mean()), 4), "ll_h2h": round(float(lh.mean()), 4), "se": round(seh, 4)}
     if lh.mean() < lb.mean() - 2 * seh: P_["h2h"] = round(wh, 4); print("  guardado h2h")
     else: P_.pop("h2h", None)
+    # club que usa cada jugador (sobre lo anterior)
+    B2 = shift(wh) if "h2h" in P_ else B; xc = d.club.to_numpy()
+    cshift = lambda w: (lambda Z: Z / Z.sum(1, keepdims=True))(B2 * np.exp(np.c_[w * xc, 0 * xc, -w * xc]))
+    wc = float(optimize.minimize_scalar(lambda w: nll(cshift(w), fi).sum(), bounds=(-3, 3), method="bounded").x)
+    lb2, lc = nll(B2, te), nll(cshift(wc), te); sec = float((lc - lb2).std() / math.sqrt(te.sum()))
+    print(f"  club: w={wc:+.3f}, log-loss {lb2.mean():.4f} → {lc.mean():.4f} ({lc.mean() - lb2.mean():+.4f} ± {sec:.4f})")
+    P_["club_test"] = {"ll": round(float(lb2.mean()), 4), "ll_club": round(float(lc.mean()), 4), "se": round(sec, 4)}
+    if lc.mean() < lb2.mean() - 2 * sec: P_["club_w"] = round(wc, 4); P_["club"] = d.attrs["club_table"]; print("  guardado club")
+    else: P_.pop("club_w", None); P_.pop("club", None)
     f.write_text(json.dumps(P_))
 
 

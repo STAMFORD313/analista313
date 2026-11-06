@@ -1025,7 +1025,9 @@ def fc_table(days=None):
     import json as _j
     try:
         prm = _j.loads((E.DIR / "params.json").read_text())
-        base, now_ = (prm.get("calib_test") or {}).get("ll"), (prm.get("h2h_test") or {}).get("ll_h2h") or (prm.get("draw_test") or {}).get("ll_draw")
+        base, now_ = (prm.get("calib_test") or {}).get("ll"), min(v for v in ((prm.get("club_test") or {}).get("ll_club") if prm.get("club_w") else None,
+            (prm.get("h2h_test") or {}).get("ll_h2h") if prm.get("h2h") else None, (prm.get("draw_test") or {}).get("ll_draw"),
+            (prm.get("calib_test") or {}).get("ll_cal"), 9) if v)
         if base and now_:
             out.append(f"🧠 <b>Entrenamiento</b>: error del modelo en partidos que no ha visto {now_:.4f} (sin las mejoras {base:.4f}). "
                        f"Más bajo = acierta más; cada 30 min intenta bajarlo y solo guarda si mejora.")
