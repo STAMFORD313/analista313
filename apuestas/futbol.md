@@ -1,6 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 06/11/2026 12:46 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 06/11/2026 13:14 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Motor Lublin vs Wisla Plock — 06/11 · 18:00
 
@@ -3717,6 +3717,7 @@ Faltas 10.6 - 12.5: total +23.5 45% · Nurnberg +11.5 38% · Darmstadt +12.5 48%
 Tiros a puerta 6.5 - 3.5: total +10.5 42% · Nurnberg +5.5 61% · Darmstadt +4.5 27%  
 🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Darmstadt + Menos de 5.5 córners de Darmstadt + Menos de 2.5 tarjetas de Nurnberg → prob. 37%, cuota justa 2.69 (solo vale si la casa paga más)  
 🚀 Combinada larga: Menos de 4.5 tiros a puerta de Darmstadt + Menos de 5.5 córners de Darmstadt + Menos de 2.5 tarjetas de Nurnberg + Menos de 11.5 faltas de Nurnberg + Más de 2.5 goles → prob. 13%, cuota justa 7.54  
+🎯 No simulada (con cuota: Menos de 5.5 córners de Darmstadt + Más de 2.5 goles): cuota Unibet aprox. 2.06 (producto de piernas) · prob. 43% · ventaja -12%  
 
 ## Osnabruck vs Kaiserslautern — 07/11 · 13:00
 
@@ -3724,6 +3725,456 @@ Tiros a puerta 6.5 - 3.5: total +10.5 42% · Nurnberg +5.5 61% · Darmstadt +4.5
 
 - ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
 - ✅ Segmento «⚽ goles» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.38 - 1.29)  
+1 32% · X 30% · 2 38%  
+1X 62% · X2 68% · 12 70%  
++1.5 75% · +2.5 50% · +3.5 28% · Ambos marcan 55%  
+Marcadores: 1-1 13% · 1-0 9% · 2-1 8% · 0-1 8%  
+🔎 **Claves**  
+• Forma: Osnabruck ➖➖❌✅❌ | Kaiserslautern ✅➖✅✅❌  
+• H2H: 4 desde 2007: 0V-1E-3D · 3.5 goles/partido · +2.5 en 75%  
+• Bajas: Osnabruck: sin bajas; Kaiserslautern: 3 fuera, 1 duda (Maxwell Gyamfi, Kenny-Prince Redondo, Hendrick Zuck)  
+• Favorito de las casas: Kaiserslautern @ 2.45  
+📐 **Estadísticas esperadas**  
+Córners 5.3 - 4.9: total +10.5 44% · Osnabruck +5.5 43% · Kaiserslautern +5.5 37%  
+Tarjetas 2.0 - 2.4: total +4.5 45% · Osnabruck +2.5 33% · Kaiserslautern +2.5 43%  
+Faltas 10.5 - 11.2: total +23.5 34% · Osnabruck +11.5 36% · Kaiserslautern +12.5 34%  
+Tiros a puerta 6.0 - 4.6: total +10.5 48% · Osnabruck +5.5 54% · Kaiserslautern +4.5 47%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Osnabruck + Menos de 12.5 faltas de Kaiserslautern + Menos de 5.5 córners de Kaiserslautern → prob. 28%, cuota justa 3.51 (solo vale si la casa paga más)  
+
+## Holstein Kiel vs Bielefeld — 07/11 · 13:00
+
+👀 candidata · 🇩🇪 2. Bundesliga · **Más de 5.5 córners de Holstein Kiel** @ **2.05** (Unibet) · prob 47% vs casas 45% · ventaja -3%
+
+- ❌ Valor: ventaja -3% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.65 - 1.09)  
+1 43% · X 29% · 2 28%  
+1X 72% · X2 57% · 12 71%  
++1.5 76% · +2.5 52% · +3.5 30% · Ambos marcan 54%  
+Marcadores: 1-1 12% · 1-0 10% · 2-1 10% · 2-0 9%  
+🔎 **Claves**  
+• Forma: Holstein Kiel ➖❌➖✅❌ | Bielefeld ➖✅✅❌✅  
+• H2H: 10 desde 2017: 1V-2E-7D · 3.2 goles/partido · +2.5 en 70%  
+• Bajas: Holstein Kiel: 1 fuera, 2 duda (Patrick Erras); Bielefeld: sin bajas  
+• Favorito de las casas: Holstein Kiel @ 2.50  
+📐 **Estadísticas esperadas**  
+Córners 5.8 - 5.0: total +10.5 51% · Holstein Kiel +5.5 49% · Bielefeld +5.5 38%  
+Tarjetas 2.4 - 2.3: total +4.5 48% · Holstein Kiel +2.5 42% · Bielefeld +2.5 39%  
+Faltas 13.8 - 13.0: total +23.5 71% · Holstein Kiel +11.5 71% · Bielefeld +12.5 53%  
+Tiros a puerta 4.9 - 3.9: total +10.5 28% · Holstein Kiel +5.5 37% · Bielefeld +4.5 35%  
+🧩 Crear apuesta: Menos de 10.5 tiros a puerta + Más de 11.5 faltas de Holstein Kiel + Menos de 5.5 córners de Bielefeld → prob. 33%, cuota justa 3.07 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 10.5 tiros a puerta + Más de 11.5 faltas de Holstein Kiel + Menos de 5.5 córners de Bielefeld + Menos de 2.5 tarjetas de Bielefeld → prob. 19%, cuota justa 5.30  
+
+## Holstein Kiel vs Bielefeld — 07/11 · 13:00
+
+👀 candidata · 🇩🇪 2. Bundesliga · **Menos de 6.5 córners de Holstein Kiel** @ **1.38** (Unibet) · prob 65% vs casas 66% · ventaja -11%
+
+- ❌ Valor: ventaja -11% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.65 - 1.09)  
+1 43% · X 29% · 2 28%  
+1X 72% · X2 57% · 12 71%  
++1.5 76% · +2.5 52% · +3.5 30% · Ambos marcan 54%  
+Marcadores: 1-1 12% · 1-0 10% · 2-1 10% · 2-0 9%  
+🔎 **Claves**  
+• Forma: Holstein Kiel ➖❌➖✅❌ | Bielefeld ➖✅✅❌✅  
+• H2H: 10 desde 2017: 1V-2E-7D · 3.2 goles/partido · +2.5 en 70%  
+• Bajas: Holstein Kiel: 1 fuera, 2 duda (Patrick Erras); Bielefeld: sin bajas  
+• Favorito de las casas: Holstein Kiel @ 2.50  
+📐 **Estadísticas esperadas**  
+Córners 5.8 - 5.0: total +10.5 51% · Holstein Kiel +5.5 49% · Bielefeld +5.5 38%  
+Tarjetas 2.4 - 2.3: total +4.5 48% · Holstein Kiel +2.5 42% · Bielefeld +2.5 39%  
+Faltas 13.8 - 13.0: total +23.5 71% · Holstein Kiel +11.5 71% · Bielefeld +12.5 53%  
+Tiros a puerta 4.9 - 3.9: total +10.5 28% · Holstein Kiel +5.5 37% · Bielefeld +4.5 35%  
+🧩 Crear apuesta: Menos de 10.5 tiros a puerta + Más de 11.5 faltas de Holstein Kiel + Menos de 5.5 córners de Bielefeld → prob. 33%, cuota justa 3.07 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 10.5 tiros a puerta + Más de 11.5 faltas de Holstein Kiel + Menos de 5.5 córners de Bielefeld + Menos de 2.5 tarjetas de Bielefeld → prob. 19%, cuota justa 5.30  
+
+## Holstein Kiel vs Bielefeld — 07/11 · 13:00
+
+👀 candidata · 🇩🇪 2. Bundesliga · **Más de 4.5 córners de Bielefeld** @ **1.68** (Unibet) · prob 53% vs casas 54% · ventaja -10%
+
+- ❌ Valor: ventaja -10% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.65 - 1.09)  
+1 43% · X 29% · 2 28%  
+1X 72% · X2 57% · 12 71%  
++1.5 76% · +2.5 52% · +3.5 30% · Ambos marcan 54%  
+Marcadores: 1-1 12% · 1-0 10% · 2-1 10% · 2-0 9%  
+🔎 **Claves**  
+• Forma: Holstein Kiel ➖❌➖✅❌ | Bielefeld ➖✅✅❌✅  
+• H2H: 10 desde 2017: 1V-2E-7D · 3.2 goles/partido · +2.5 en 70%  
+• Bajas: Holstein Kiel: 1 fuera, 2 duda (Patrick Erras); Bielefeld: sin bajas  
+• Favorito de las casas: Holstein Kiel @ 2.50  
+📐 **Estadísticas esperadas**  
+Córners 5.8 - 5.0: total +10.5 51% · Holstein Kiel +5.5 49% · Bielefeld +5.5 38%  
+Tarjetas 2.4 - 2.3: total +4.5 48% · Holstein Kiel +2.5 42% · Bielefeld +2.5 39%  
+Faltas 13.8 - 13.0: total +23.5 71% · Holstein Kiel +11.5 71% · Bielefeld +12.5 53%  
+Tiros a puerta 4.9 - 3.9: total +10.5 28% · Holstein Kiel +5.5 37% · Bielefeld +4.5 35%  
+🧩 Crear apuesta: Menos de 10.5 tiros a puerta + Más de 11.5 faltas de Holstein Kiel + Menos de 5.5 córners de Bielefeld → prob. 33%, cuota justa 3.07 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 10.5 tiros a puerta + Más de 11.5 faltas de Holstein Kiel + Menos de 5.5 córners de Bielefeld + Menos de 2.5 tarjetas de Bielefeld → prob. 19%, cuota justa 5.30  
+
+## Holstein Kiel vs Bielefeld — 07/11 · 13:00
+
+👀 candidata · 🇩🇪 2. Bundesliga · **Menos de 6.5 córners de Bielefeld** @ **1.32** (Unibet) · prob 72% vs casas 69% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.65 - 1.09)  
+1 43% · X 29% · 2 28%  
+1X 72% · X2 57% · 12 71%  
++1.5 76% · +2.5 52% · +3.5 30% · Ambos marcan 54%  
+Marcadores: 1-1 12% · 1-0 10% · 2-1 10% · 2-0 9%  
+🔎 **Claves**  
+• Forma: Holstein Kiel ➖❌➖✅❌ | Bielefeld ➖✅✅❌✅  
+• H2H: 10 desde 2017: 1V-2E-7D · 3.2 goles/partido · +2.5 en 70%  
+• Bajas: Holstein Kiel: 1 fuera, 2 duda (Patrick Erras); Bielefeld: sin bajas  
+• Favorito de las casas: Holstein Kiel @ 2.50  
+📐 **Estadísticas esperadas**  
+Córners 5.8 - 5.0: total +10.5 51% · Holstein Kiel +5.5 49% · Bielefeld +5.5 38%  
+Tarjetas 2.4 - 2.3: total +4.5 48% · Holstein Kiel +2.5 42% · Bielefeld +2.5 39%  
+Faltas 13.8 - 13.0: total +23.5 71% · Holstein Kiel +11.5 71% · Bielefeld +12.5 53%  
+Tiros a puerta 4.9 - 3.9: total +10.5 28% · Holstein Kiel +5.5 37% · Bielefeld +4.5 35%  
+🧩 Crear apuesta: Menos de 10.5 tiros a puerta + Más de 11.5 faltas de Holstein Kiel + Menos de 5.5 córners de Bielefeld → prob. 33%, cuota justa 3.07 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 10.5 tiros a puerta + Más de 11.5 faltas de Holstein Kiel + Menos de 5.5 córners de Bielefeld + Menos de 2.5 tarjetas de Bielefeld → prob. 19%, cuota justa 5.30  
+
+## Holstein Kiel vs Bielefeld — 07/11 · 13:00
+
+👀 candidata · 🇩🇪 2. Bundesliga · **Más de 9.5 córners** @ **1.55** (Unibet) · prob 61% vs casas 59% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.65 - 1.09)  
+1 43% · X 29% · 2 28%  
+1X 72% · X2 57% · 12 71%  
++1.5 76% · +2.5 52% · +3.5 30% · Ambos marcan 54%  
+Marcadores: 1-1 12% · 1-0 10% · 2-1 10% · 2-0 9%  
+🔎 **Claves**  
+• Forma: Holstein Kiel ➖❌➖✅❌ | Bielefeld ➖✅✅❌✅  
+• H2H: 10 desde 2017: 1V-2E-7D · 3.2 goles/partido · +2.5 en 70%  
+• Bajas: Holstein Kiel: 1 fuera, 2 duda (Patrick Erras); Bielefeld: sin bajas  
+• Favorito de las casas: Holstein Kiel @ 2.50  
+📐 **Estadísticas esperadas**  
+Córners 5.8 - 5.0: total +10.5 51% · Holstein Kiel +5.5 49% · Bielefeld +5.5 38%  
+Tarjetas 2.4 - 2.3: total +4.5 48% · Holstein Kiel +2.5 42% · Bielefeld +2.5 39%  
+Faltas 13.8 - 13.0: total +23.5 71% · Holstein Kiel +11.5 71% · Bielefeld +12.5 53%  
+Tiros a puerta 4.9 - 3.9: total +10.5 28% · Holstein Kiel +5.5 37% · Bielefeld +4.5 35%  
+🧩 Crear apuesta: Menos de 10.5 tiros a puerta + Más de 11.5 faltas de Holstein Kiel + Menos de 5.5 córners de Bielefeld → prob. 33%, cuota justa 3.07 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 10.5 tiros a puerta + Más de 11.5 faltas de Holstein Kiel + Menos de 5.5 córners de Bielefeld + Menos de 2.5 tarjetas de Bielefeld → prob. 19%, cuota justa 5.30  
+
+## Holstein Kiel vs Bielefeld — 07/11 · 13:00
+
+👀 candidata · 🇩🇪 2. Bundesliga · **Menos de 12.5 córners** @ **1.32** (Unibet) · prob 70% vs casas 69% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.65 - 1.09)  
+1 43% · X 29% · 2 28%  
+1X 72% · X2 57% · 12 71%  
++1.5 76% · +2.5 52% · +3.5 30% · Ambos marcan 54%  
+Marcadores: 1-1 12% · 1-0 10% · 2-1 10% · 2-0 9%  
+🔎 **Claves**  
+• Forma: Holstein Kiel ➖❌➖✅❌ | Bielefeld ➖✅✅❌✅  
+• H2H: 10 desde 2017: 1V-2E-7D · 3.2 goles/partido · +2.5 en 70%  
+• Bajas: Holstein Kiel: 1 fuera, 2 duda (Patrick Erras); Bielefeld: sin bajas  
+• Favorito de las casas: Holstein Kiel @ 2.50  
+📐 **Estadísticas esperadas**  
+Córners 5.8 - 5.0: total +10.5 51% · Holstein Kiel +5.5 49% · Bielefeld +5.5 38%  
+Tarjetas 2.4 - 2.3: total +4.5 48% · Holstein Kiel +2.5 42% · Bielefeld +2.5 39%  
+Faltas 13.8 - 13.0: total +23.5 71% · Holstein Kiel +11.5 71% · Bielefeld +12.5 53%  
+Tiros a puerta 4.9 - 3.9: total +10.5 28% · Holstein Kiel +5.5 37% · Bielefeld +4.5 35%  
+🧩 Crear apuesta: Menos de 10.5 tiros a puerta + Más de 11.5 faltas de Holstein Kiel + Menos de 5.5 córners de Bielefeld → prob. 33%, cuota justa 3.07 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 10.5 tiros a puerta + Más de 11.5 faltas de Holstein Kiel + Menos de 5.5 córners de Bielefeld + Menos de 2.5 tarjetas de Bielefeld → prob. 19%, cuota justa 5.30  
+
+## Nurnberg vs Darmstadt — 07/11 · 13:00
+
+👀 candidata · 🇩🇪 2. Bundesliga · **Más de 9.5 córners** @ **1.47** (Unibet) · prob 61% vs casas 62% · ventaja -10%
+
+- ❌ Valor: ventaja -10% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.74 - 1.33)  
+1 57% · X 24% · 2 18%  
+1X 82% · X2 43% · 12 76%  
++1.5 82% · +2.5 59% · +3.5 37% · Ambos marcan 61%  
+Marcadores: 1-1 11% · 2-1 9% · 1-0 8% · 1-2 7%  
+🔎 **Claves**  
+• Forma: Nurnberg ✅➖➖❌✅ | Darmstadt ❌✅❌➖➖  
+• H2H: 16 desde 2014: 4V-4E-8D · 2.9 goles/partido · +2.5 en 44%  
+• Bajas: Nurnberg: 2 fuera, 2 duda (Rafael Lubach, Mohamed Ali Zoma); Darmstadt: 0 fuera, 1 duda  
+• Favorito de las casas: Nurnberg @ 1.77  
+📐 **Estadísticas esperadas**  
+Córners 6.3 - 4.3: total +10.5 49% · Nurnberg +5.5 56% · Darmstadt +5.5 28%  
+Tarjetas 2.0 - 2.5: total +4.5 46% · Nurnberg +2.5 33% · Darmstadt +2.5 45%  
+Faltas 10.6 - 12.5: total +23.5 45% · Nurnberg +11.5 38% · Darmstadt +12.5 48%  
+Tiros a puerta 6.5 - 3.5: total +10.5 42% · Nurnberg +5.5 61% · Darmstadt +4.5 27%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Darmstadt + Menos de 5.5 córners de Darmstadt + Menos de 2.5 tarjetas de Nurnberg → prob. 37%, cuota justa 2.69 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Darmstadt + Menos de 5.5 córners de Darmstadt + Menos de 2.5 tarjetas de Nurnberg + Menos de 11.5 faltas de Nurnberg + Más de 2.5 goles → prob. 13%, cuota justa 7.54  
+🎯 No simulada (con cuota: Menos de 5.5 córners de Darmstadt + Más de 2.5 goles): cuota Unibet aprox. 2.06 (producto de piernas) · prob. 43% · ventaja -12%  
+
+## Nurnberg vs Darmstadt — 07/11 · 13:00
+
+👀 candidata · 🇩🇪 2. Bundesliga · **Menos de 11.5 córners** @ **1.60** (Unibet) · prob 60% vs casas 57% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.74 - 1.33)  
+1 57% · X 24% · 2 18%  
+1X 82% · X2 43% · 12 76%  
++1.5 82% · +2.5 59% · +3.5 37% · Ambos marcan 61%  
+Marcadores: 1-1 11% · 2-1 9% · 1-0 8% · 1-2 7%  
+🔎 **Claves**  
+• Forma: Nurnberg ✅➖➖❌✅ | Darmstadt ❌✅❌➖➖  
+• H2H: 16 desde 2014: 4V-4E-8D · 2.9 goles/partido · +2.5 en 44%  
+• Bajas: Nurnberg: 2 fuera, 2 duda (Rafael Lubach, Mohamed Ali Zoma); Darmstadt: 0 fuera, 1 duda  
+• Favorito de las casas: Nurnberg @ 1.77  
+📐 **Estadísticas esperadas**  
+Córners 6.3 - 4.3: total +10.5 49% · Nurnberg +5.5 56% · Darmstadt +5.5 28%  
+Tarjetas 2.0 - 2.5: total +4.5 46% · Nurnberg +2.5 33% · Darmstadt +2.5 45%  
+Faltas 10.6 - 12.5: total +23.5 45% · Nurnberg +11.5 38% · Darmstadt +12.5 48%  
+Tiros a puerta 6.5 - 3.5: total +10.5 42% · Nurnberg +5.5 61% · Darmstadt +4.5 27%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Darmstadt + Menos de 5.5 córners de Darmstadt + Menos de 2.5 tarjetas de Nurnberg → prob. 37%, cuota justa 2.69 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Darmstadt + Menos de 5.5 córners de Darmstadt + Menos de 2.5 tarjetas de Nurnberg + Menos de 11.5 faltas de Nurnberg + Más de 2.5 goles → prob. 13%, cuota justa 7.54  
+🎯 No simulada (con cuota: Menos de 5.5 córners de Darmstadt + Más de 2.5 goles): cuota Unibet aprox. 2.06 (producto de piernas) · prob. 43% · ventaja -12%  
+
+## Nurnberg vs Darmstadt — 07/11 · 13:00
+
+👀 candidata · 🇩🇪 2. Bundesliga · **Más de 5.5 córners de Nurnberg** @ **1.66** (Unibet) · prob 55% vs casas 55% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.74 - 1.33)  
+1 57% · X 24% · 2 18%  
+1X 82% · X2 43% · 12 76%  
++1.5 82% · +2.5 59% · +3.5 37% · Ambos marcan 61%  
+Marcadores: 1-1 11% · 2-1 9% · 1-0 8% · 1-2 7%  
+🔎 **Claves**  
+• Forma: Nurnberg ✅➖➖❌✅ | Darmstadt ❌✅❌➖➖  
+• H2H: 16 desde 2014: 4V-4E-8D · 2.9 goles/partido · +2.5 en 44%  
+• Bajas: Nurnberg: 2 fuera, 2 duda (Rafael Lubach, Mohamed Ali Zoma); Darmstadt: 0 fuera, 1 duda  
+• Favorito de las casas: Nurnberg @ 1.77  
+📐 **Estadísticas esperadas**  
+Córners 6.3 - 4.3: total +10.5 49% · Nurnberg +5.5 56% · Darmstadt +5.5 28%  
+Tarjetas 2.0 - 2.5: total +4.5 46% · Nurnberg +2.5 33% · Darmstadt +2.5 45%  
+Faltas 10.6 - 12.5: total +23.5 45% · Nurnberg +11.5 38% · Darmstadt +12.5 48%  
+Tiros a puerta 6.5 - 3.5: total +10.5 42% · Nurnberg +5.5 61% · Darmstadt +4.5 27%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Darmstadt + Menos de 5.5 córners de Darmstadt + Menos de 2.5 tarjetas de Nurnberg → prob. 37%, cuota justa 2.69 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Darmstadt + Menos de 5.5 córners de Darmstadt + Menos de 2.5 tarjetas de Nurnberg + Menos de 11.5 faltas de Nurnberg + Más de 2.5 goles → prob. 13%, cuota justa 7.54  
+🎯 No simulada (con cuota: Menos de 5.5 córners de Darmstadt + Más de 2.5 goles): cuota Unibet aprox. 2.06 (producto de piernas) · prob. 43% · ventaja -12%  
+
+## Nurnberg vs Darmstadt — 07/11 · 13:00
+
+👀 candidata · 🇩🇪 2. Bundesliga · **Menos de 7.5 córners de Nurnberg** @ **1.38** (Unibet) · prob 67% vs casas 67% · ventaja -7%
+
+- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.74 - 1.33)  
+1 57% · X 24% · 2 18%  
+1X 82% · X2 43% · 12 76%  
++1.5 82% · +2.5 59% · +3.5 37% · Ambos marcan 61%  
+Marcadores: 1-1 11% · 2-1 9% · 1-0 8% · 1-2 7%  
+🔎 **Claves**  
+• Forma: Nurnberg ✅➖➖❌✅ | Darmstadt ❌✅❌➖➖  
+• H2H: 16 desde 2014: 4V-4E-8D · 2.9 goles/partido · +2.5 en 44%  
+• Bajas: Nurnberg: 2 fuera, 2 duda (Rafael Lubach, Mohamed Ali Zoma); Darmstadt: 0 fuera, 1 duda  
+• Favorito de las casas: Nurnberg @ 1.77  
+📐 **Estadísticas esperadas**  
+Córners 6.3 - 4.3: total +10.5 49% · Nurnberg +5.5 56% · Darmstadt +5.5 28%  
+Tarjetas 2.0 - 2.5: total +4.5 46% · Nurnberg +2.5 33% · Darmstadt +2.5 45%  
+Faltas 10.6 - 12.5: total +23.5 45% · Nurnberg +11.5 38% · Darmstadt +12.5 48%  
+Tiros a puerta 6.5 - 3.5: total +10.5 42% · Nurnberg +5.5 61% · Darmstadt +4.5 27%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Darmstadt + Menos de 5.5 córners de Darmstadt + Menos de 2.5 tarjetas de Nurnberg → prob. 37%, cuota justa 2.69 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Darmstadt + Menos de 5.5 córners de Darmstadt + Menos de 2.5 tarjetas de Nurnberg + Menos de 11.5 faltas de Nurnberg + Más de 2.5 goles → prob. 13%, cuota justa 7.54  
+🎯 No simulada (con cuota: Menos de 5.5 córners de Darmstadt + Más de 2.5 goles): cuota Unibet aprox. 2.06 (producto de piernas) · prob. 43% · ventaja -12%  
+
+## Nurnberg vs Darmstadt — 07/11 · 13:00
+
+👀 candidata · 🇩🇪 2. Bundesliga · **Más de 3.5 córners de Darmstadt** @ **1.48** (Unibet) · prob 60% vs casas 62% · ventaja -11%
+
+- ❌ Valor: ventaja -11% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.74 - 1.33)  
+1 57% · X 24% · 2 18%  
+1X 82% · X2 43% · 12 76%  
++1.5 82% · +2.5 59% · +3.5 37% · Ambos marcan 61%  
+Marcadores: 1-1 11% · 2-1 9% · 1-0 8% · 1-2 7%  
+🔎 **Claves**  
+• Forma: Nurnberg ✅➖➖❌✅ | Darmstadt ❌✅❌➖➖  
+• H2H: 16 desde 2014: 4V-4E-8D · 2.9 goles/partido · +2.5 en 44%  
+• Bajas: Nurnberg: 2 fuera, 2 duda (Rafael Lubach, Mohamed Ali Zoma); Darmstadt: 0 fuera, 1 duda  
+• Favorito de las casas: Nurnberg @ 1.77  
+📐 **Estadísticas esperadas**  
+Córners 6.3 - 4.3: total +10.5 49% · Nurnberg +5.5 56% · Darmstadt +5.5 28%  
+Tarjetas 2.0 - 2.5: total +4.5 46% · Nurnberg +2.5 33% · Darmstadt +2.5 45%  
+Faltas 10.6 - 12.5: total +23.5 45% · Nurnberg +11.5 38% · Darmstadt +12.5 48%  
+Tiros a puerta 6.5 - 3.5: total +10.5 42% · Nurnberg +5.5 61% · Darmstadt +4.5 27%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Darmstadt + Menos de 5.5 córners de Darmstadt + Menos de 2.5 tarjetas de Nurnberg → prob. 37%, cuota justa 2.69 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Darmstadt + Menos de 5.5 córners de Darmstadt + Menos de 2.5 tarjetas de Nurnberg + Menos de 11.5 faltas de Nurnberg + Más de 2.5 goles → prob. 13%, cuota justa 7.54  
+🎯 No simulada (con cuota: Menos de 5.5 córners de Darmstadt + Más de 2.5 goles): cuota Unibet aprox. 2.06 (producto de piernas) · prob. 43% · ventaja -12%  
+
+## Nurnberg vs Darmstadt — 07/11 · 13:00
+
+👀 candidata · 🇩🇪 2. Bundesliga · **Menos de 3.5 córners de Darmstadt** @ **2.43** (Unibet) · prob 40% vs casas 38% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.74 - 1.33)  
+1 57% · X 24% · 2 18%  
+1X 82% · X2 43% · 12 76%  
++1.5 82% · +2.5 59% · +3.5 37% · Ambos marcan 61%  
+Marcadores: 1-1 11% · 2-1 9% · 1-0 8% · 1-2 7%  
+🔎 **Claves**  
+• Forma: Nurnberg ✅➖➖❌✅ | Darmstadt ❌✅❌➖➖  
+• H2H: 16 desde 2014: 4V-4E-8D · 2.9 goles/partido · +2.5 en 44%  
+• Bajas: Nurnberg: 2 fuera, 2 duda (Rafael Lubach, Mohamed Ali Zoma); Darmstadt: 0 fuera, 1 duda  
+• Favorito de las casas: Nurnberg @ 1.77  
+📐 **Estadísticas esperadas**  
+Córners 6.3 - 4.3: total +10.5 49% · Nurnberg +5.5 56% · Darmstadt +5.5 28%  
+Tarjetas 2.0 - 2.5: total +4.5 46% · Nurnberg +2.5 33% · Darmstadt +2.5 45%  
+Faltas 10.6 - 12.5: total +23.5 45% · Nurnberg +11.5 38% · Darmstadt +12.5 48%  
+Tiros a puerta 6.5 - 3.5: total +10.5 42% · Nurnberg +5.5 61% · Darmstadt +4.5 27%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Darmstadt + Menos de 5.5 córners de Darmstadt + Menos de 2.5 tarjetas de Nurnberg → prob. 37%, cuota justa 2.69 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Darmstadt + Menos de 5.5 córners de Darmstadt + Menos de 2.5 tarjetas de Nurnberg + Menos de 11.5 faltas de Nurnberg + Más de 2.5 goles → prob. 13%, cuota justa 7.54  
+🎯 No simulada (con cuota: Menos de 5.5 córners de Darmstadt + Más de 2.5 goles): cuota Unibet aprox. 2.06 (producto de piernas) · prob. 43% · ventaja -12%  
+
+## Osnabruck vs Kaiserslautern — 07/11 · 13:00
+
+👀 candidata · 🇩🇪 2. Bundesliga · **Más de 8.5 córners** @ **1.47** (Unibet) · prob 65% vs casas 62% · ventaja -5%
+
+- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.38 - 1.29)  
+1 32% · X 30% · 2 38%  
+1X 62% · X2 68% · 12 70%  
++1.5 75% · +2.5 50% · +3.5 28% · Ambos marcan 55%  
+Marcadores: 1-1 13% · 1-0 9% · 2-1 8% · 0-1 8%  
+🔎 **Claves**  
+• Forma: Osnabruck ➖➖❌✅❌ | Kaiserslautern ✅➖✅✅❌  
+• H2H: 4 desde 2007: 0V-1E-3D · 3.5 goles/partido · +2.5 en 75%  
+• Bajas: Osnabruck: sin bajas; Kaiserslautern: 3 fuera, 1 duda (Maxwell Gyamfi, Kenny-Prince Redondo, Hendrick Zuck)  
+• Favorito de las casas: Kaiserslautern @ 2.45  
+📐 **Estadísticas esperadas**  
+Córners 5.3 - 4.9: total +10.5 44% · Osnabruck +5.5 43% · Kaiserslautern +5.5 37%  
+Tarjetas 2.0 - 2.4: total +4.5 45% · Osnabruck +2.5 33% · Kaiserslautern +2.5 43%  
+Faltas 10.5 - 11.2: total +23.5 34% · Osnabruck +11.5 36% · Kaiserslautern +12.5 34%  
+Tiros a puerta 6.0 - 4.6: total +10.5 48% · Osnabruck +5.5 54% · Kaiserslautern +4.5 47%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Osnabruck + Menos de 12.5 faltas de Kaiserslautern + Menos de 5.5 córners de Kaiserslautern → prob. 28%, cuota justa 3.51 (solo vale si la casa paga más)  
+
+## Osnabruck vs Kaiserslautern — 07/11 · 13:00
+
+👀 candidata · 🇩🇪 2. Bundesliga · **Menos de 11.5 córners** @ **1.35** (Unibet) · prob 67% vs casas 68% · ventaja -9%
+
+- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.38 - 1.29)  
+1 32% · X 30% · 2 38%  
+1X 62% · X2 68% · 12 70%  
++1.5 75% · +2.5 50% · +3.5 28% · Ambos marcan 55%  
+Marcadores: 1-1 13% · 1-0 9% · 2-1 8% · 0-1 8%  
+🔎 **Claves**  
+• Forma: Osnabruck ➖➖❌✅❌ | Kaiserslautern ✅➖✅✅❌  
+• H2H: 4 desde 2007: 0V-1E-3D · 3.5 goles/partido · +2.5 en 75%  
+• Bajas: Osnabruck: sin bajas; Kaiserslautern: 3 fuera, 1 duda (Maxwell Gyamfi, Kenny-Prince Redondo, Hendrick Zuck)  
+• Favorito de las casas: Kaiserslautern @ 2.45  
+📐 **Estadísticas esperadas**  
+Córners 5.3 - 4.9: total +10.5 44% · Osnabruck +5.5 43% · Kaiserslautern +5.5 37%  
+Tarjetas 2.0 - 2.4: total +4.5 45% · Osnabruck +2.5 33% · Kaiserslautern +2.5 43%  
+Faltas 10.5 - 11.2: total +23.5 34% · Osnabruck +11.5 36% · Kaiserslautern +12.5 34%  
+Tiros a puerta 6.0 - 4.6: total +10.5 48% · Osnabruck +5.5 54% · Kaiserslautern +4.5 47%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Osnabruck + Menos de 12.5 faltas de Kaiserslautern + Menos de 5.5 córners de Kaiserslautern → prob. 28%, cuota justa 3.51 (solo vale si la casa paga más)  
+
+## Osnabruck vs Kaiserslautern — 07/11 · 13:00
+
+👀 candidata · 🇩🇪 2. Bundesliga · **Más de 4.5 córners de Osnabruck** @ **1.81** (Unibet) · prob 54% vs casas 51% · ventaja -3%
+
+- ❌ Valor: ventaja -3% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.38 - 1.29)  
+1 32% · X 30% · 2 38%  
+1X 62% · X2 68% · 12 70%  
++1.5 75% · +2.5 50% · +3.5 28% · Ambos marcan 55%  
+Marcadores: 1-1 13% · 1-0 9% · 2-1 8% · 0-1 8%  
+🔎 **Claves**  
+• Forma: Osnabruck ➖➖❌✅❌ | Kaiserslautern ✅➖✅✅❌  
+• H2H: 4 desde 2007: 0V-1E-3D · 3.5 goles/partido · +2.5 en 75%  
+• Bajas: Osnabruck: sin bajas; Kaiserslautern: 3 fuera, 1 duda (Maxwell Gyamfi, Kenny-Prince Redondo, Hendrick Zuck)  
+• Favorito de las casas: Kaiserslautern @ 2.45  
+📐 **Estadísticas esperadas**  
+Córners 5.3 - 4.9: total +10.5 44% · Osnabruck +5.5 43% · Kaiserslautern +5.5 37%  
+Tarjetas 2.0 - 2.4: total +4.5 45% · Osnabruck +2.5 33% · Kaiserslautern +2.5 43%  
+Faltas 10.5 - 11.2: total +23.5 34% · Osnabruck +11.5 36% · Kaiserslautern +12.5 34%  
+Tiros a puerta 6.0 - 4.6: total +10.5 48% · Osnabruck +5.5 54% · Kaiserslautern +4.5 47%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Osnabruck + Menos de 12.5 faltas de Kaiserslautern + Menos de 5.5 córners de Kaiserslautern → prob. 28%, cuota justa 3.51 (solo vale si la casa paga más)  
+
+## Osnabruck vs Kaiserslautern — 07/11 · 13:00
+
+👀 candidata · 🇩🇪 2. Bundesliga · **Menos de 5.5 córners de Osnabruck** @ **1.50** (Unibet) · prob 59% vs casas 61% · ventaja -11%
+
+- ❌ Valor: ventaja -11% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.38 - 1.29)  
+1 32% · X 30% · 2 38%  
+1X 62% · X2 68% · 12 70%  
++1.5 75% · +2.5 50% · +3.5 28% · Ambos marcan 55%  
+Marcadores: 1-1 13% · 1-0 9% · 2-1 8% · 0-1 8%  
+🔎 **Claves**  
+• Forma: Osnabruck ➖➖❌✅❌ | Kaiserslautern ✅➖✅✅❌  
+• H2H: 4 desde 2007: 0V-1E-3D · 3.5 goles/partido · +2.5 en 75%  
+• Bajas: Osnabruck: sin bajas; Kaiserslautern: 3 fuera, 1 duda (Maxwell Gyamfi, Kenny-Prince Redondo, Hendrick Zuck)  
+• Favorito de las casas: Kaiserslautern @ 2.45  
+📐 **Estadísticas esperadas**  
+Córners 5.3 - 4.9: total +10.5 44% · Osnabruck +5.5 43% · Kaiserslautern +5.5 37%  
+Tarjetas 2.0 - 2.4: total +4.5 45% · Osnabruck +2.5 33% · Kaiserslautern +2.5 43%  
+Faltas 10.5 - 11.2: total +23.5 34% · Osnabruck +11.5 36% · Kaiserslautern +12.5 34%  
+Tiros a puerta 6.0 - 4.6: total +10.5 48% · Osnabruck +5.5 54% · Kaiserslautern +4.5 47%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Osnabruck + Menos de 12.5 faltas de Kaiserslautern + Menos de 5.5 córners de Kaiserslautern → prob. 28%, cuota justa 3.51 (solo vale si la casa paga más)  
+
+## Osnabruck vs Kaiserslautern — 07/11 · 13:00
+
+👀 candidata · 🇩🇪 2. Bundesliga · **Más de 3.5 córners de Kaiserslautern** @ **1.40** (Unibet) · prob 66% vs casas 65% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.38 - 1.29)  
+1 32% · X 30% · 2 38%  
+1X 62% · X2 68% · 12 70%  
++1.5 75% · +2.5 50% · +3.5 28% · Ambos marcan 55%  
+Marcadores: 1-1 13% · 1-0 9% · 2-1 8% · 0-1 8%  
+🔎 **Claves**  
+• Forma: Osnabruck ➖➖❌✅❌ | Kaiserslautern ✅➖✅✅❌  
+• H2H: 4 desde 2007: 0V-1E-3D · 3.5 goles/partido · +2.5 en 75%  
+• Bajas: Osnabruck: sin bajas; Kaiserslautern: 3 fuera, 1 duda (Maxwell Gyamfi, Kenny-Prince Redondo, Hendrick Zuck)  
+• Favorito de las casas: Kaiserslautern @ 2.45  
+📐 **Estadísticas esperadas**  
+Córners 5.3 - 4.9: total +10.5 44% · Osnabruck +5.5 43% · Kaiserslautern +5.5 37%  
+Tarjetas 2.0 - 2.4: total +4.5 45% · Osnabruck +2.5 33% · Kaiserslautern +2.5 43%  
+Faltas 10.5 - 11.2: total +23.5 34% · Osnabruck +11.5 36% · Kaiserslautern +12.5 34%  
+Tiros a puerta 6.0 - 4.6: total +10.5 48% · Osnabruck +5.5 54% · Kaiserslautern +4.5 47%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Osnabruck + Menos de 12.5 faltas de Kaiserslautern + Menos de 5.5 córners de Kaiserslautern → prob. 28%, cuota justa 3.51 (solo vale si la casa paga más)  
+
+## Osnabruck vs Kaiserslautern — 07/11 · 13:00
+
+👀 candidata · 🇩🇪 2. Bundesliga · **Menos de 5.5 córners de Kaiserslautern** @ **1.50** (Unibet) · prob 62% vs casas 61% · ventaja -7%
+
+- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
 
 📊 **Escenarios** (goles esperados 1.38 - 1.29)  
 1 32% · X 30% · 2 38%  
