@@ -58200,12 +58200,12 @@ id,tournament_id,club1,club2,ht1,ht2
 2365489,261134,Shanghai Shenhua,Shanghai Port,,
 2365490,261134,Shandong Taishan,Shanghai Shenhua,,
 2365491,261134,Chengdu Rongcheng,Beijing Guoan,,
-2365212,261114,Frankfurt,B Dortmund,2,0
-2365215,261114,B Dortmund,Stuttgart,0,2
-2365216,261114,Stuttgart,Leipzig,4,0
-2365217,261114,Frankfurt,Bayern Munchen,1,1
-2365218,261114,Bayern Munchen,Stuttgart,0,0
-2365219,261114,Leipzig,B Dortmund,0,0
+2365212,261114,Frankfurt,B Dortmund,2.0,0.0
+2365215,261114,B Dortmund,Stuttgart,0.0,2.0
+2365216,261114,Stuttgart,Leipzig,4.0,0.0
+2365217,261114,Frankfurt,Bayern Munchen,1.0,1.0
+2365218,261114,Bayern Munchen,Stuttgart,0.0,0.0
+2365219,261114,Leipzig,B Dortmund,0.0,0.0
 2365220,261114,B Dortmund,Bayern Munchen,,
 2365221,261114,Stuttgart,Frankfurt,,
 2365222,261114,B Dortmund,Frankfurt,,

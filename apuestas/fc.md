@@ -1,25 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 06/11/2026 12:12 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## MeLToSik vs Revange — 06/11 · 12:18
-
-👀 candidata · 🎮⚽ FC 27 · Bundesliga · **Gana MeLToSik** @ **4.25** (Unibet) · prob 29% vs casas 21% · ventaja +24%
-
-- ✅ Valor: ventaja +24% (mín. 14% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 58.126 partidos)  
-Goles esperados: MeLToSik 2.03 · Revange 2.39  
-Ganador: MeLToSik 29% · empate 23% · Revange 48%  
-Total: más de 4.5 goles 45% · menos 55%  
-Hándicap Revange: −1.5 28% · −2.5 15%  
-🔎 **Claves**  
-• Forma: MeLToSik ➖❌❌✅✅ | Revange ➖✅✅❌❌  
-• Partidos: MeLToSik 1109 | Revange 596  
-• Liga: Bundesliga  
-• Unibet: 1 4.25 · X 3.30 · 2 1.66 (sin margen 21%/27%/53%) · ventaja +24%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 4.25 (+24%) · Paf España 4.25 (+24%)  
+Actualizado 06/11/2026 12:24 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Wboy vs mko1919 — 06/11 · 12:27
 
@@ -58,4 +39,22 @@ Hándicap Bomb1to: −1.5 27% · −2.5 15%
 • Liga: World Cup B  
 • Unibet: 1 2.90 · X 2.85 · 2 2.20 (sin margen 30%/31%/40%) · ventaja +5%. Sin stake hasta demostrar ROI con estas cuotas.  
 • En España: LeoVegas España 2.90 (+5%) · Paf España 2.90 (+5%)  
+
+## Dan_dragonio vs Kril — 06/11 · 13:54
+
+👀 candidata · 🎮⚽ FC 27 · Volta Seria A · **Gana Kril** @ **1.29** (cuota justa (sin casa)) · prob 77% vs casas 77% · ventaja +0%
+
+- ❌ Valor: ventaja +0% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 58.164 partidos)  
+Goles esperados: Dan_dragonio 3.49 · Kril 5.77  
+Ganador: Dan_dragonio 13% · empate 10% · Kril 77%  
+Total: más de 9.5 goles 45% · menos 55%  
+Hándicap Kril: −1.5 60% · −2.5 46%  
+🔎 **Claves**  
+• Forma: Dan_dragonio ❌❌❌❌❌ | Kril ✅✅❌❌✅  
+• Partidos: Dan_dragonio 1437 | Kril 346  
+• Liga: Volta Seria A  
+• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
 
