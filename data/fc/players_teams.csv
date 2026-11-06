@@ -58478,14 +58478,14 @@ id,tournament_id,club1,club2,ht1,ht2
 2365539,261139,Melbourne City,Melbourne Victory,,
 2365540,261139,Sydney FC,Melbourne City,,
 2365541,261139,Adelaide United,Western Sydney Wanderers,,
-2366254,261155,Belgium,Morocco,1,3
-2366255,261155,Germany,Portugal,1,1
-2366256,261155,Portugal,Belgium,1,1
-2366257,261155,Morocco,Netherlands,1,1
-2366258,261155,Netherlands,Portugal,0,0
-2366259,261155,Belgium,Germany,0,2
-2366260,261155,Germany,Netherlands,0,1
-2366261,261155,Portugal,Morocco,0,1
+2366254,261155,Belgium,Morocco,1.0,3.0
+2366255,261155,Germany,Portugal,1.0,1.0
+2366256,261155,Portugal,Belgium,1.0,1.0
+2366257,261155,Morocco,Netherlands,1.0,1.0
+2366258,261155,Netherlands,Portugal,0.0,0.0
+2366259,261155,Belgium,Germany,0.0,2.0
+2366260,261155,Germany,Netherlands,0.0,1.0
+2366261,261155,Portugal,Morocco,0.0,1.0
 2366262,261155,Morocco,Germany,,
 2366263,261155,Netherlands,Belgium,,
 2366264,261155,Morocco,Belgium,,
@@ -58498,3 +58498,43 @@ id,tournament_id,club1,club2,ht1,ht2
 2366271,261155,Morocco,Portugal,,
 2366272,261155,Germany,Morocco,,
 2366273,261155,Belgium,Netherlands,,
+2365874,261102,Liverpool,Paris,1,0
+2365875,261102,Atleti,Real Madrid,0,4
+2365876,261102,Real Madrid,Liverpool,1,3
+2365877,261102,Paris,Bayern Munchen,3,1
+2365878,261102,Bayern Munchen,Real Madrid,1,1
+2365879,261102,Liverpool,Atleti,2,1
+2365880,261102,Atleti,Bayern Munchen,0,0
+2365881,261102,Real Madrid,Paris,0,0
+2365882,261102,Paris,Atleti,,
+2365883,261102,Bayern Munchen,Liverpool,,
+2365884,261102,Paris,Liverpool,,
+2365885,261102,Real Madrid,Atleti,,
+2365886,261102,Liverpool,Real Madrid,,
+2365887,261102,Bayern Munchen,Paris,,
+2365888,261102,Real Madrid,Bayern Munchen,,
+2365889,261102,Atleti,Liverpool,,
+2365890,261102,Bayern Munchen,Atleti,,
+2365891,261102,Paris,Real Madrid,,
+2365892,261102,Atleti,Paris,,
+2365893,261102,Liverpool,Bayern Munchen,,
+2366114,261111,Besiktas,Basaksehir,1,1
+2366115,261111,Fenerbahce,Galatasaray,0,2
+2366116,261111,Galatasaray,Besiktas,5,1
+2366117,261111,Basaksehir,Trabzonspor,1,0
+2366118,261111,Trabzonspor,Galatasaray,,
+2366119,261111,Besiktas,Fenerbahce,,
+2366120,261111,Fenerbahce,Trabzonspor,,
+2366121,261111,Galatasaray,Basaksehir,,
+2366122,261111,Basaksehir,Fenerbahce,,
+2366123,261111,Trabzonspor,Besiktas,,
+2366124,261111,Basaksehir,Besiktas,,
+2366125,261111,Galatasaray,Fenerbahce,,
+2366126,261111,Besiktas,Galatasaray,,
+2366127,261111,Trabzonspor,Basaksehir,,
+2366128,261111,Galatasaray,Trabzonspor,,
+2366129,261111,Fenerbahce,Besiktas,,
+2366130,261111,Trabzonspor,Fenerbahce,,
+2366131,261111,Basaksehir,Galatasaray,,
+2366132,261111,Fenerbahce,Basaksehir,,
+2366133,261111,Besiktas,Trabzonspor,,

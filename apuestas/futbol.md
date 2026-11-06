@@ -1,6 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 06/11/2026 18:04 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 06/11/2026 18:19 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Braunschweig vs Cottbus — 06/11 · 18:30
 
@@ -10468,6 +10468,163 @@ Faltas 13.9 - 14.3: total +22.5 84% · Parma +11.5 72% · Bologna +11.5 74%
 Tiros a puerta 3.3 - 4.5: total +9.5 26% · Parma +4.5 24% · Bologna +4.5 45%  
 🧩 Crear apuesta: Más de 22.5 faltas + Menos de 5.5 córners de Parma + Menos de 4.5 tiros a puerta de Parma → prob. 51%, cuota justa 1.94 (solo vale si la casa paga más)  
 🚀 Combinada larga: Más de 22.5 faltas + Menos de 5.5 córners de Parma + Menos de 4.5 tiros a puerta de Parma + Menos de 2.5 tarjetas de Bologna + Menos de 2.5 goles → prob. 20%, cuota justa 5.02  
+🎯 No simulada (con cuota: Menos de 4.5 tiros a puerta de Parma + Menos de 2.5 goles): cuota Unibet aprox. 1.99 (producto de piernas) · prob. 47% · ventaja -6%  
+
+## Parma vs Bologna — 07/11 · 18:00
+
+👀 candidata · 🇮🇹 Serie A · **Más de 5.5 córners** @ **1.11** (Unibet) · prob 82% vs casas 82% · ventaja -9%
+
+- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 0.99 - 1.46)  
+1 26% · X 28% · 2 46%  
+1X 54% · X2 74% · 12 72%  
++1.5 71% · +2.5 44% · +3.5 23% · Ambos marcan 49%  
+Marcadores: 1-1 13% · 0-1 12% · 0-0 9% · 0-2 9%  
+🔎 **Claves**  
+• Forma: Parma ❌❌❌➖✅ | Bologna ✅❌✅✅✅  
+• H2H: 20 desde 2009: 5V-9E-6D · 2.2 goles/partido · +2.5 en 45%  
+• Bajas: Parma: 0 fuera, 1 duda; Bologna: 2 fuera, 3 duda (Emil Holm, Thijs Dallinga)  
+• Favorito de las casas: Bologna @ 1.83  
+📐 **Estadísticas esperadas**  
+Córners 4.0 - 4.2: total +9.5 32% · Parma +5.5 24% · Bologna +4.5 41%  
+Tarjetas 2.1 - 2.1: total +3.5 60% · Parma +1.5 63% · Bologna +2.5 35%  
+Faltas 13.9 - 14.3: total +22.5 84% · Parma +11.5 72% · Bologna +11.5 74%  
+Tiros a puerta 3.3 - 4.5: total +9.5 26% · Parma +4.5 24% · Bologna +4.5 45%  
+🧩 Crear apuesta: Más de 22.5 faltas + Menos de 5.5 córners de Parma + Menos de 4.5 tiros a puerta de Parma → prob. 51%, cuota justa 1.94 (solo vale si la casa paga más)  
+🚀 Combinada larga: Más de 22.5 faltas + Menos de 5.5 córners de Parma + Menos de 4.5 tiros a puerta de Parma + Menos de 2.5 tarjetas de Bologna + Menos de 2.5 goles → prob. 20%, cuota justa 5.02  
+🎯 No simulada (con cuota: Menos de 4.5 tiros a puerta de Parma + Menos de 2.5 goles): cuota Unibet aprox. 1.99 (producto de piernas) · prob. 47% · ventaja -6%  
+
+## Parma vs Bologna — 07/11 · 18:00
+
+👀 candidata · 🇮🇹 Serie A · **Menos de 8.5 córners** @ **1.92** (Unibet) · prob 52% vs casas 48% · ventaja -0%
+
+- ❌ Valor: ventaja -0% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 0.99 - 1.46)  
+1 26% · X 28% · 2 46%  
+1X 54% · X2 74% · 12 72%  
++1.5 71% · +2.5 44% · +3.5 23% · Ambos marcan 49%  
+Marcadores: 1-1 13% · 0-1 12% · 0-0 9% · 0-2 9%  
+🔎 **Claves**  
+• Forma: Parma ❌❌❌➖✅ | Bologna ✅❌✅✅✅  
+• H2H: 20 desde 2009: 5V-9E-6D · 2.2 goles/partido · +2.5 en 45%  
+• Bajas: Parma: 0 fuera, 1 duda; Bologna: 2 fuera, 3 duda (Emil Holm, Thijs Dallinga)  
+• Favorito de las casas: Bologna @ 1.83  
+📐 **Estadísticas esperadas**  
+Córners 4.0 - 4.2: total +9.5 32% · Parma +5.5 24% · Bologna +4.5 41%  
+Tarjetas 2.1 - 2.1: total +3.5 60% · Parma +1.5 63% · Bologna +2.5 35%  
+Faltas 13.9 - 14.3: total +22.5 84% · Parma +11.5 72% · Bologna +11.5 74%  
+Tiros a puerta 3.3 - 4.5: total +9.5 26% · Parma +4.5 24% · Bologna +4.5 45%  
+🧩 Crear apuesta: Más de 22.5 faltas + Menos de 5.5 córners de Parma + Menos de 4.5 tiros a puerta de Parma → prob. 51%, cuota justa 1.94 (solo vale si la casa paga más)  
+🚀 Combinada larga: Más de 22.5 faltas + Menos de 5.5 córners de Parma + Menos de 4.5 tiros a puerta de Parma + Menos de 2.5 tarjetas de Bologna + Menos de 2.5 goles → prob. 20%, cuota justa 5.02  
+🎯 No simulada (con cuota: Menos de 4.5 tiros a puerta de Parma + Menos de 2.5 goles): cuota Unibet aprox. 1.99 (producto de piernas) · prob. 47% · ventaja -6%  
+
+## Parma vs Bologna — 07/11 · 18:00
+
+👀 candidata · 🇮🇹 Serie A · **Menos de 3.5 córners de Bologna** @ **2.70** (Unibet) · prob 38% vs casas 34% · ventaja +4%
+
+- ❌ Valor: ventaja +4% (mín. 8% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 0.99 - 1.46)  
+1 26% · X 28% · 2 46%  
+1X 54% · X2 74% · 12 72%  
++1.5 71% · +2.5 44% · +3.5 23% · Ambos marcan 49%  
+Marcadores: 1-1 13% · 0-1 12% · 0-0 9% · 0-2 9%  
+🔎 **Claves**  
+• Forma: Parma ❌❌❌➖✅ | Bologna ✅❌✅✅✅  
+• H2H: 20 desde 2009: 5V-9E-6D · 2.2 goles/partido · +2.5 en 45%  
+• Bajas: Parma: 0 fuera, 1 duda; Bologna: 2 fuera, 3 duda (Emil Holm, Thijs Dallinga)  
+• Favorito de las casas: Bologna @ 1.83  
+📐 **Estadísticas esperadas**  
+Córners 4.0 - 4.2: total +9.5 32% · Parma +5.5 24% · Bologna +4.5 41%  
+Tarjetas 2.1 - 2.1: total +3.5 60% · Parma +1.5 63% · Bologna +2.5 35%  
+Faltas 13.9 - 14.3: total +22.5 84% · Parma +11.5 72% · Bologna +11.5 74%  
+Tiros a puerta 3.3 - 4.5: total +9.5 26% · Parma +4.5 24% · Bologna +4.5 45%  
+🧩 Crear apuesta: Más de 22.5 faltas + Menos de 5.5 córners de Parma + Menos de 4.5 tiros a puerta de Parma → prob. 51%, cuota justa 1.94 (solo vale si la casa paga más)  
+🚀 Combinada larga: Más de 22.5 faltas + Menos de 5.5 córners de Parma + Menos de 4.5 tiros a puerta de Parma + Menos de 2.5 tarjetas de Bologna + Menos de 2.5 goles → prob. 20%, cuota justa 5.02  
+🎯 No simulada (con cuota: Menos de 4.5 tiros a puerta de Parma + Menos de 2.5 goles): cuota Unibet aprox. 1.99 (producto de piernas) · prob. 47% · ventaja -6%  
+
+## Parma vs Bologna — 07/11 · 18:00
+
+👀 candidata · 🇮🇹 Serie A · **Más de 2.5 córners de Bologna** @ **1.16** (Unibet) · prob 77% vs casas 79% · ventaja -11%
+
+- ❌ Valor: ventaja -11% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 0.99 - 1.46)  
+1 26% · X 28% · 2 46%  
+1X 54% · X2 74% · 12 72%  
++1.5 71% · +2.5 44% · +3.5 23% · Ambos marcan 49%  
+Marcadores: 1-1 13% · 0-1 12% · 0-0 9% · 0-2 9%  
+🔎 **Claves**  
+• Forma: Parma ❌❌❌➖✅ | Bologna ✅❌✅✅✅  
+• H2H: 20 desde 2009: 5V-9E-6D · 2.2 goles/partido · +2.5 en 45%  
+• Bajas: Parma: 0 fuera, 1 duda; Bologna: 2 fuera, 3 duda (Emil Holm, Thijs Dallinga)  
+• Favorito de las casas: Bologna @ 1.83  
+📐 **Estadísticas esperadas**  
+Córners 4.0 - 4.2: total +9.5 32% · Parma +5.5 24% · Bologna +4.5 41%  
+Tarjetas 2.1 - 2.1: total +3.5 60% · Parma +1.5 63% · Bologna +2.5 35%  
+Faltas 13.9 - 14.3: total +22.5 84% · Parma +11.5 72% · Bologna +11.5 74%  
+Tiros a puerta 3.3 - 4.5: total +9.5 26% · Parma +4.5 24% · Bologna +4.5 45%  
+🧩 Crear apuesta: Más de 22.5 faltas + Menos de 5.5 córners de Parma + Menos de 4.5 tiros a puerta de Parma → prob. 51%, cuota justa 1.94 (solo vale si la casa paga más)  
+🚀 Combinada larga: Más de 22.5 faltas + Menos de 5.5 córners de Parma + Menos de 4.5 tiros a puerta de Parma + Menos de 2.5 tarjetas de Bologna + Menos de 2.5 goles → prob. 20%, cuota justa 5.02  
+🎯 No simulada (con cuota: Menos de 4.5 tiros a puerta de Parma + Menos de 2.5 goles): cuota Unibet aprox. 1.99 (producto de piernas) · prob. 47% · ventaja -6%  
+
+## Parma vs Bologna — 07/11 · 18:00
+
+👀 candidata · 🇮🇹 Serie A · **Menos de 5.5 córners de Parma** @ **1.23** (Unibet) · prob 75% vs casas 74% · ventaja -7%
+
+- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 0.99 - 1.46)  
+1 26% · X 28% · 2 46%  
+1X 54% · X2 74% · 12 72%  
++1.5 71% · +2.5 44% · +3.5 23% · Ambos marcan 49%  
+Marcadores: 1-1 13% · 0-1 12% · 0-0 9% · 0-2 9%  
+🔎 **Claves**  
+• Forma: Parma ❌❌❌➖✅ | Bologna ✅❌✅✅✅  
+• H2H: 20 desde 2009: 5V-9E-6D · 2.2 goles/partido · +2.5 en 45%  
+• Bajas: Parma: 0 fuera, 1 duda; Bologna: 2 fuera, 3 duda (Emil Holm, Thijs Dallinga)  
+• Favorito de las casas: Bologna @ 1.83  
+📐 **Estadísticas esperadas**  
+Córners 4.0 - 4.2: total +9.5 32% · Parma +5.5 24% · Bologna +4.5 41%  
+Tarjetas 2.1 - 2.1: total +3.5 60% · Parma +1.5 63% · Bologna +2.5 35%  
+Faltas 13.9 - 14.3: total +22.5 84% · Parma +11.5 72% · Bologna +11.5 74%  
+Tiros a puerta 3.3 - 4.5: total +9.5 26% · Parma +4.5 24% · Bologna +4.5 45%  
+🧩 Crear apuesta: Más de 22.5 faltas + Menos de 5.5 córners de Parma + Menos de 4.5 tiros a puerta de Parma → prob. 51%, cuota justa 1.94 (solo vale si la casa paga más)  
+🚀 Combinada larga: Más de 22.5 faltas + Menos de 5.5 córners de Parma + Menos de 4.5 tiros a puerta de Parma + Menos de 2.5 tarjetas de Bologna + Menos de 2.5 goles → prob. 20%, cuota justa 5.02  
+🎯 No simulada (con cuota: Menos de 4.5 tiros a puerta de Parma + Menos de 2.5 goles): cuota Unibet aprox. 1.99 (producto de piernas) · prob. 47% · ventaja -6%  
+
+## Parma vs Bologna — 07/11 · 18:00
+
+👀 candidata · 🇮🇹 Serie A · **Más de 2.5 córners de Parma** @ **1.34** (Unibet) · prob 70% vs casas 68% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 0.99 - 1.46)  
+1 26% · X 28% · 2 46%  
+1X 54% · X2 74% · 12 72%  
++1.5 71% · +2.5 44% · +3.5 23% · Ambos marcan 49%  
+Marcadores: 1-1 13% · 0-1 12% · 0-0 9% · 0-2 9%  
+🔎 **Claves**  
+• Forma: Parma ❌❌❌➖✅ | Bologna ✅❌✅✅✅  
+• H2H: 20 desde 2009: 5V-9E-6D · 2.2 goles/partido · +2.5 en 45%  
+• Bajas: Parma: 0 fuera, 1 duda; Bologna: 2 fuera, 3 duda (Emil Holm, Thijs Dallinga)  
+• Favorito de las casas: Bologna @ 1.83  
+📐 **Estadísticas esperadas**  
+Córners 4.0 - 4.2: total +9.5 32% · Parma +5.5 24% · Bologna +4.5 41%  
+Tarjetas 2.1 - 2.1: total +3.5 60% · Parma +1.5 63% · Bologna +2.5 35%  
+Faltas 13.9 - 14.3: total +22.5 84% · Parma +11.5 72% · Bologna +11.5 74%  
+Tiros a puerta 3.3 - 4.5: total +9.5 26% · Parma +4.5 24% · Bologna +4.5 45%  
+🧩 Crear apuesta: Más de 22.5 faltas + Menos de 5.5 córners de Parma + Menos de 4.5 tiros a puerta de Parma → prob. 51%, cuota justa 1.94 (solo vale si la casa paga más)  
+🚀 Combinada larga: Más de 22.5 faltas + Menos de 5.5 córners de Parma + Menos de 4.5 tiros a puerta de Parma + Menos de 2.5 tarjetas de Bologna + Menos de 2.5 goles → prob. 20%, cuota justa 5.02  
+🎯 No simulada (con cuota: Menos de 4.5 tiros a puerta de Parma + Menos de 2.5 goles): cuota Unibet aprox. 1.99 (producto de piernas) · prob. 47% · ventaja -6%  
 
 ## Oud-Heverlee Leuven vs Mechelen — 07/11 · 18:15
 

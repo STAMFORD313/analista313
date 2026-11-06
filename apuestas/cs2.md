@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 06/11/2026 18:04 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 06/11/2026 18:19 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## B8 Academy vs Banger Gang — 06/11 · 19:00
 
