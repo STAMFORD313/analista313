@@ -1,25 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 06/11/2026 10:50 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## DaVa vs Jekunam — 06/11 · 10:58
-
-👀 candidata · 🎮⚽ FC 27 · Champions League AFC · **Gana Jekunam** @ **3.90** (Unibet) · prob 28% vs casas 22% · ventaja +9%
-
-- ❌ Valor: ventaja +9% (mín. 10% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 58.093 partidos)  
-Goles esperados: DaVa 2.59 · Jekunam 1.97  
-Ganador: DaVa 49% · empate 23% · Jekunam 28%  
-Total: más de 4.5 goles 48% · menos 52%  
-Hándicap DaVa: −1.5 33% · −2.5 18%  
-🔎 **Claves**  
-• Forma: DaVa ➖✅✅✅❌ | Jekunam ❌❌❌✅❌  
-• Partidos: DaVa 1171 | Jekunam 1000  
-• Liga: Champions League AFC  
-• Unibet: 1 1.58 · X 4.00 · 2 3.90 (sin margen 56%/22%/23%) · ventaja +9%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 3.90 (+9%) · Paf España 3.90 (+9%)  
+Actualizado 06/11/2026 10:58 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Pavlinho19 vs Taz — 06/11 · 11:00
 
@@ -58,4 +39,23 @@ Hándicap Taz: −1.5 39% · −2.5 25%
 • Liga: World Cup A  
 • Unibet: 1 2.06 · X 4.70 · 2 2.23 (sin margen 42%/19%/39%) · ventaja +15%. Sin stake hasta demostrar ROI con estas cuotas.  
 • En España: LeoVegas España 2.06 (+15%) · Paf España 2.06 (+15%)  
+
+## why vs riko — 06/11 · 11:18
+
+👀 candidata · 🎮⚽ FC 27 · Champions League A 2x6 · **Empate** @ **8.00** (Unibet) · prob 13% vs casas 11% · ventaja +5%
+
+- ❌ Valor: ventaja +5% (mín. 9% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 58.099 partidos)  
+Goles esperados: why 2.54 · riko 4.26  
+Ganador: why 16% · empate 13% · riko 71%  
+Total: más de 6.5 goles 52% · menos 48%  
+Hándicap riko: −1.5 53% · −2.5 37%  
+🔎 **Claves**  
+• Forma: why ✅✅✅❌✅ | riko ✅✅❌➖✅  
+• Partidos: why 577 | riko 614  
+• Liga: Champions League A 2x6  
+• Unibet: 1 5.80 · X 8.00 · 2 1.18 (sin margen 15%/11%/74%) · ventaja +5%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 8.00 (+5%) · Paf España 8.00 (+5%)  
 

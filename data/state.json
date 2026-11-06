@@ -1044,9 +1044,6 @@
   "cbb|2026-11-09|Wichita State Shockers|USC Trojans",
   "cbb|2026-11-09|Hawai'i Rainbow Warriors|UT Arlington Mavericks",
   "nhl|2026-11-08|Winnipeg Jets|Tampa Bay Lightning",
-  "cs2|132579",
-  "cs2|132576",
-  "cs2|133083",
   "cs2|132943",
   "cs2|132575",
   "cs2|132580",
@@ -2046,7 +2043,10 @@
   "fc|2365131",
   "fc|2366196",
   "fc|2365211",
-  "fc|2366195"
+  "fc|2366195",
+  "fc|2366027",
+  "fc|2366025",
+  "fc|2366194"
  ],
  "signals": [
   {
@@ -4379,29 +4379,6 @@
    "logged": true
   },
   {
-   "market": "A",
-   "pick": "Kril",
-   "odds": 1.3,
-   "book": "cuota justa (sin casa)",
-   "p": 0.768,
-   "implied": 0.768,
-   "edge": 0.0,
-   "key": "fc|2359969",
-   "match": "Fireline vs Kril",
-   "start": "2026-11-03T09:51:00+00:00",
-   "league": "🎮⚽ FC 27 · Volta World Cup B",
-   "sport": "🎮⚽",
-   "context": "EA FC Esoccer Battle Fireline vs Kril (Volta World Cup B): goles esperados 2.40-4.86, 1X2 13%/10%/77%. Sin cuotas de casa.",
-   "captured": "2026-11-03T08:10",
-   "version": "c48e356",
-   "bajas": "",
-   "considered": true,
-   "placed": false,
-   "score": "1-3",
-   "result": true,
-   "logged": true
-  },
-  {
    "market": "H",
    "pick": "Kril",
    "odds": 1.31,
@@ -4626,7 +4603,11 @@
    "version": "b9e51af",
    "bajas": "Chapecoense-SC: 0 fuera, 2 duda; Mirassol: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "1-2",
+   "clv": -0.027,
+   "logged": true
   },
   {
    "market": "H",
@@ -4646,7 +4627,11 @@
    "version": "b9e51af",
    "bajas": "Internacional: 0 fuera, 4 duda; Coritiba: 0 fuera, 1 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "1-0",
+   "clv": 0.026,
+   "logged": true
   },
   {
    "market": "A",
@@ -4666,7 +4651,11 @@
    "version": "b9e51af",
    "bajas": "Athletico-PR: sin bajas; Vasco: 0 fuera, 2 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "1-3",
+   "clv": 0.227,
+   "logged": true
   },
   {
    "market": "H",
@@ -4686,7 +4675,11 @@
    "version": "b9e51af",
    "bajas": "Flamengo RJ: 0 fuera, 3 duda; Gremio: 0 fuera, 5 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "3-1",
+   "clv": 0.0,
+   "logged": true
   },
   {
    "market": "A",
@@ -4706,7 +4699,11 @@
    "version": "b9e51af",
    "bajas": "Botafogo RJ: 0 fuera, 2 duda; Atletico-MG: 0 fuera, 5 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "1-0",
+   "clv": -0.237,
+   "logged": true
   },
   {
    "market": "A",
@@ -4726,7 +4723,11 @@
    "version": "b9e51af",
    "bajas": "Sao Paulo: 0 fuera, 4 duda; Corinthians: 0 fuera, 5 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "0-0",
+   "clv": 0.122,
+   "logged": true
   },
   {
    "market": "A",
@@ -4746,7 +4747,11 @@
    "version": "b9e51af",
    "bajas": "Aldosivi: sin bajas; River Plate: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "0-2",
+   "clv": 0.037,
+   "logged": true
   },
   {
    "market": "D",
@@ -4766,7 +4771,11 @@
    "version": "b9e51af",
    "bajas": "Gimnasia L.P.: sin bajas; Belgrano: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "2-1",
+   "clv": 0.073,
+   "logged": true
   },
   {
    "market": "H",
@@ -4786,7 +4795,11 @@
    "version": "b9e51af",
    "bajas": "Palmeiras: 1 fuera, 2 duda (Jefte); Remo: 0 fuera, 2 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "6-1",
+   "clv": -0.025,
+   "logged": true
   },
   {
    "market": "t1",
@@ -10076,7 +10089,11 @@
    "version": "e240f08",
    "bajas": "Cruzeiro: 1 fuera, 2 duda (Gabriel Pec); Bahia: 0 fuera, 1 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "3-2",
+   "clv": -0.051,
+   "logged": true
   },
   {
    "market": "A",
@@ -26201,7 +26218,11 @@
    "version": "212925e",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "3-1",
+   "result": false,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "D",
@@ -26273,20 +26294,6 @@
    "start": "2026-11-06T09:58:00+00:00",
    "league": "🎮⚽ FC 27 · Champions League AFC",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 58.093 partidos)",
-    "Goles esperados: DaVa 2.59 · Jekunam 1.97",
-    "Ganador: DaVa 49% · empate 23% · Jekunam 28%",
-    "Total: más de 4.5 goles 48% · menos 52%",
-    "Hándicap DaVa: −1.5 33% · −2.5 18%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: DaVa ➖✅✅✅❌ | Jekunam ❌❌❌✅❌",
-    "• Partidos: DaVa 1171 | Jekunam 1000",
-    "• Liga: Champions League AFC",
-    "• Unibet: 1 1.58 · X 4.00 · 2 3.90 (sin margen 56%/22%/23%) · ventaja +9%. Sin stake hasta demostrar ROI con estas cuotas.",
-    "• En España: LeoVegas España 3.90 (+9%) · Paf España 3.90 (+9%)"
-   ],
    "context": "EA FC Esoccer Battle DaVa vs Jekunam (Champions League AFC): goles esperados 2.59-1.97, 1X2 49%/23%/28%. Sin cuotas de casa.",
    "captured": "2026-11-06T09:50",
    "version": "eb24eb2",
@@ -26325,6 +26332,41 @@
    "context": "EA FC Esoccer Battle Pavlinho19 vs Taz (World Cup A): goles esperados 2.71-2.92, 1X2 36%/21%/43%. Sin cuotas de casa.",
    "captured": "2026-11-06T09:50",
    "version": "eb24eb2",
+   "bajas": "",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "D",
+   "pick": "Empate",
+   "odds": 8.0,
+   "book": "Unibet",
+   "implied": 0.109,
+   "edge": 0.05,
+   "sin_stake": true,
+   "p": 0.131,
+   "key": "fc|2366027",
+   "match": "why vs riko",
+   "start": "2026-11-06T10:18:00+00:00",
+   "league": "🎮⚽ FC 27 · Champions League A 2x6",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 58.099 partidos)",
+    "Goles esperados: why 2.54 · riko 4.26",
+    "Ganador: why 16% · empate 13% · riko 71%",
+    "Total: más de 6.5 goles 52% · menos 48%",
+    "Hándicap riko: −1.5 53% · −2.5 37%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: why ✅✅✅❌✅ | riko ✅✅❌➖✅",
+    "• Partidos: why 577 | riko 614",
+    "• Liga: Champions League A 2x6",
+    "• Unibet: 1 5.80 · X 8.00 · 2 1.18 (sin margen 15%/11%/74%) · ventaja +5%. Sin stake hasta demostrar ROI con estas cuotas.",
+    "• En España: LeoVegas España 8.00 (+5%) · Paf España 8.00 (+5%)"
+   ],
+   "context": "EA FC Esoccer Battle why vs riko (Champions League A 2x6): goles esperados 2.54-4.26, 1X2 16%/13%/71%. Sin cuotas de casa.",
+   "captured": "2026-11-06T09:58",
+   "version": "e27c1bb",
    "bajas": "",
    "considered": true,
    "placed": false
