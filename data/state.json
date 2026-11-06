@@ -2005,7 +2005,10 @@
   "fc|2365994",
   "fc|2365173",
   "fc|2365092",
-  "fc|2365091"
+  "fc|2365091",
+  "fc|2365439",
+  "fc|2365095",
+  "fc|2366160"
  ],
  "signals": [
   {
@@ -26164,6 +26167,30 @@
    "context": "R6 Siege Dplus vs KINGZERO eSports, BO3, torneo BLAST R6 Major Osaka 2026 nivel s. Elo por mapa 1775 vs 1634 (prob. mapa 67%, serie 74%). Forma ✅✅✅✅❌ / ✅❌✅❌❌ (✅ victoria ❌ derrota). H2H sin precedentes. Cambios de plantilla: Dplus, KINGZERO eSports. Cuotas Thunderpick 1.02/9.8.",
    "captured": "2026-11-06T04:16",
    "version": "457dc1b",
+   "bajas": "",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "key": "vp|2026-11-06|Standard Liege|Beveren",
+   "market": "H",
+   "pick": "Standard Liege",
+   "odds": 2.0,
+   "book": "Smarkets",
+   "p": 0.5216,
+   "implied": 0.5216,
+   "edge": 0.0433,
+   "match": "Standard Liege vs Beveren",
+   "start": "2026-11-06T19:45:00+00:00",
+   "league": "💎 Valor vs Pinnacle · Belgium - Pro League",
+   "sport": "⚽💎",
+   "info": [
+    "💎 <b>Valor contra Pinnacle</b>: Smarkets paga 2.00 y el precio justo de Pinnacle es 1.92 (ventaja +4.3%)",
+    "Backtest 2015-2026 (cuota ≤ 2.5, > 3 %): ROI +11 % ± 3 %, CLV +5 %."
+   ],
+   "context": "Standard Liege vs Beveren (Belgium - Pro League). Estrategia de valor: Smarkets 2.00 frente a Pinnacle justo 1.92.",
+   "captured": "2026-11-06T05:45",
+   "version": "08de3b8",
    "bajas": "",
    "considered": true,
    "placed": false
