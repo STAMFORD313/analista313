@@ -1,32 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 06/11/2026 10:40 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## FURIA vs BetBoom — 06/11 · 10:45
-
-👀 candidata · 🎮 CS2 · Intel Extreme Masters Beijing 2026 · **Gana FURIA** @ **1.51** (Thunderpick) · prob 64% vs casas 61% · ventaja -3%
-
-- ❌ Valor: ventaja -3% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 76.483 partidos)  
-Mapa: FURIA 59% · Serie BO3: FURIA 67% - 33% BetBoom  
-Casas: FURIA 61% · BetBoom 39%  
-🔎 **Claves**  
-• Elo: FURIA 2152 (326 series) | BetBoom 2058 (356 series)  
-• Forma: FURIA ✅✅✅✅❌ | BetBoom ❌✅❌✅✅  
-• H2H: 7: 6-1  
-• Torneo: Intel Extreme Masters Beijing 2026 (nivel S)  
-• Cambios de plantilla: ninguno  
-• Jugadores en forma (rating últimos 10 mapas): FURIA: molodoy 6.8, KSCERATO 6.2 | BetBoom: Magnojez 6.6, d1Ledez 6.1  
-• Mapas (último año): FURIA: fuerte inferno 68%, débil anubis 38% | BetBoom: fuerte nuke 62%, débil cache 43%  
-• Química de la plantilla: FURIA: 426 mapas juntos de media | BetBoom: 283 mapas juntos de media  
-🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
-• FURIA gana 2-1: 25% → cuota justa 4.05 · casa 25%  
-• BetBoom gana 2-1: 17% → cuota justa 5.76 · casa 18%  
-🔫 **Kills esperados en la serie** (rango 80 %; mejor que la media de sus 10 últimas en 52.265 casos: log-loss 0.6821→0.6562; sin cuotas de props, solo referencia)  
-FURIA: molodoy 38 (22-56) · KSCERATO 37 (21-55) · YEKINDAR 36 (20-52) · yuurih 32 (18-47) · FalleN 29 (17-43)  
-BetBoom: Magnojez 36 (21-53) · zorte 34 (19-50) · d1Ledez 32 (19-48) · s1ren 31 (18-47) · Boombl4 29 (16-43)  
+Actualizado 06/11/2026 10:50 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## SINNERS Legacy vs Thousand — 06/11 · 18:00
 
