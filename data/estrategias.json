@@ -1,6 +1,6 @@
 {
- "fecha": "2026-11-06 00:48",
- "n": 761,
+ "fecha": "2026-11-06 01:34",
+ "n": 762,
  "rentables": [],
  "bloqueados": [
   {
@@ -40,11 +40,11 @@
   },
   {
    "segmento": "mercado=ganador",
-   "n": 221,
-   "roi": -0.0181,
-   "se": 0.0589,
+   "n": 222,
+   "roi": -0.0113,
+   "se": 0.0591,
    "roi_antigua": 0.0013,
-   "roi_nueva": -0.0958,
+   "roi_nueva": -0.0606,
    "clv": -0.0447,
    "clv_se": 0.0125,
    "clv_n": 32
