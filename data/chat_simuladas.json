@@ -796,7 +796,9 @@
     "away": "Fire Flux",
     "txt": "Gana Fire Flux",
     "odds": 2.53,
-    "p": 0.4306046113306983
+    "p": 0.4306046113306983,
+    "ok": false,
+    "por": "ganó BAKS 2-1"
    },
    {
     "src": "espn:nba",
@@ -822,9 +824,9 @@
   "odds": 11.16,
   "p": 0.10615823544947113,
   "stake": 1.0,
-  "estado": "pendiente",
-  "avisada": false,
-  "rev": 1
+  "estado": "perdida",
+  "avisada": true,
+  "rev": 2
  },
  {
   "id": "20261106093324596760",
