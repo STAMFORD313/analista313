@@ -1,60 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 06/11/2026 18:37 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Barracas Central vs Racing Club — 06/11 · 19:00
-
-👀 candidata · 🇦🇷 Liga Profesional · **Gana Barracas Central** @ **2.50** (Bet365) · prob 39% vs casas 39% · ventaja -2%
-
-- ❌ Valor: ventaja -2% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 0.99 - 1.40)  
-1 39% · X 27% · 2 35%  
-1X 65% · X2 61% · 12 73%  
-+1.5 69% · +2.5 43% · +3.5 22% · Ambos marcan 48%  
-Marcadores: 1-1 13% · 0-1 12% · 0-0 10% · 0-2 9%  
-🔎 **Claves**  
-• Forma: Barracas Central ✅✅➖✅➖ | Racing Club ✅❌➖❌✅  
-• H2H: 6 desde 2022: 1V-3E-2D · 1.8 goles/partido · +2.5 en 17%  
-• Bajas: Barracas Central: sin bajas; Racing Club: sin bajas  
-• Favorito de las casas: Barracas Central @ 2.50  
-
-## Silkeborg vs Lyngby — 06/11 · 19:00
-
-👀 candidata · 🇩🇰 Superliga · **Gana Silkeborg** @ **2.35** (Bet365) · prob 40% vs casas 40% · ventaja -6%
-
-- ❌ Valor: ventaja -6% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.62 - 1.15)  
-1 50% · X 26% · 2 24%  
-1X 76% · X2 50% · 12 74%  
-+1.5 77% · +2.5 52% · +3.5 30% · Ambos marcan 55%  
-Marcadores: 1-1 12% · 1-0 10% · 2-1 9% · 2-0 8%  
-🔎 **Claves**  
-• Forma: Silkeborg ✅➖❌➖❌ | Lyngby ❌❌➖❌✅  
-• H2H: 21 desde 2016: 5V-7E-9D · 2.7 goles/partido · +2.5 en 48%  
-• Bajas: Silkeborg: sin bajas; Lyngby: sin bajas  
-• Favorito de las casas: Silkeborg @ 2.35  
-
-## Hammarby vs Elfsborg — 06/11 · 19:00
-
-👀 candidata · 🇸🇪 Allsvenskan · **Gana Hammarby** @ **1.33** (Bet365) · prob 71% vs casas 71% · ventaja -5%
-
-- ❌ Valor: ventaja -5% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 2.11 - 0.84)  
-1 62% · X 22% · 2 16%  
-1X 84% · X2 38% · 12 78%  
-+1.5 80% · +2.5 57% · +3.5 34% · Ambos marcan 51%  
-Marcadores: 2-0 12% · 1-0 11% · 2-1 10% · 1-1 10%  
-🔎 **Claves**  
-• Forma: Hammarby ❌✅✅✅✅ | Elfsborg ✅➖➖➖✅  
-• H2H: 23 desde 2015: 8V-8E-7D · 2.7 goles/partido · +2.5 en 57%  
-• Bajas: Hammarby: sin bajas; Elfsborg: sin bajas  
-• Favorito de las casas: Hammarby @ 1.33  
+Actualizado 06/11/2026 19:09 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## SK Rapid vs Wolfsberger AC — 06/11 · 19:30
 
@@ -10318,6 +10264,7 @@ Faltas 8.8 - 10.7: total +20.5 40% · Stuttgart +10.5 28% · Werder Bremen +10.5
 Tiros a puerta 7.2 - 4.0: total +10.5 55% · Stuttgart +5.5 69% · Werder Bremen +4.5 37%  
 🧩 Crear apuesta: Menos de 2.5 tarjetas de Stuttgart + Menos de 10.5 faltas de Stuttgart + Más de 5.5 tiros a puerta de Stuttgart → prob. 39%, cuota justa 2.54 (solo vale si la casa paga más)  
 🚀 Combinada larga: Menos de 2.5 tarjetas de Stuttgart + Menos de 10.5 faltas de Stuttgart + Más de 5.5 tiros a puerta de Stuttgart + Menos de 4.5 córners de Werder Bremen + Más de 2.5 goles → prob. 19%, cuota justa 5.33  
+🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Stuttgart + Más de 5.5 tiros a puerta de Stuttgart + Menos de 4.5 córners de Werder Bremen): cuota Unibet aprox. 3.29 (producto de piernas) · prob. 36% · ventaja +18% → 1 u en la banca de simulación  
 
 ## Nott'm Forest vs Man City — 07/11 · 18:30
 
@@ -10418,6 +10365,7 @@ Faltas 15.8 - 12.0: total +26.5 58% · Cordoba +13.5 70% · Ceuta +13.5 33%
 Tiros a puerta 6.5 - 3.1: total +9.5 48% · Cordoba +5.5 61% · Ceuta +4.5 21%  
 🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Ceuta + Menos de 4.5 córners de Ceuta + Más de 13.5 faltas de Cordoba → prob. 42%, cuota justa 2.40 (solo vale si la casa paga más)  
 🚀 Combinada larga: Menos de 4.5 tiros a puerta de Ceuta + Menos de 4.5 córners de Ceuta + Más de 13.5 faltas de Cordoba + Menos de 3.5 tarjetas de Ceuta + Más de 2.5 goles → prob. 17%, cuota justa 5.91  
+🎯 No simulada (con cuota: Menos de 4.5 córners de Ceuta + Más de 2.5 goles): cuota Unibet aprox. 1.87 (producto de piernas) · prob. 48% · ventaja -11%  
 
 ## Leganes vs Albacete — 07/11 · 18:30
 
@@ -10443,6 +10391,625 @@ Faltas 13.4 - 13.3: total +26.5 50% · Leganes +13.5 47% · Albacete +13.5 46%
 Tiros a puerta 4.9 - 3.5: total +9.5 34% · Leganes +5.5 37% · Albacete +4.5 28%  
 🧩 Crear apuesta: Menos de 3.5 tarjetas de Albacete + Menos de 4.5 tiros a puerta de Albacete + Menos de 2.5 goles → prob. 38%, cuota justa 2.60 (solo vale si la casa paga más)  
 🚀 Combinada larga: Menos de 3.5 tarjetas de Albacete + Menos de 4.5 tiros a puerta de Albacete + Menos de 2.5 goles + Menos de 4.5 córners de Albacete → prob. 24%, cuota justa 4.21  
+🎯 Simulada (con cuota: Menos de 2.5 goles + Menos de 4.5 córners de Albacete): cuota Unibet aprox. 2.97 (producto de piernas) · prob. 37% · ventaja +9% → 1 u en la banca de simulación  
+
+## Stuttgart vs Werder Bremen — 07/11 · 18:30
+
+👀 candidata · 🇩🇪 Bundesliga · **Más de 8.5 córners** @ **1.32** (Unibet) · prob 71% vs casas 70% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.90 - 1.25)  
+1 53% · X 25% · 2 21%  
+1X 79% · X2 47% · 12 75%  
++1.5 83% · +2.5 61% · +3.5 39% · Ambos marcan 61%  
+Marcadores: 1-1 11% · 2-1 10% · 2-0 8% · 1-0 8%  
+🔎 **Claves**  
+• Forma: Stuttgart ❌✅❌❌✅ | Werder Bremen ✅➖➖✅✅  
+• H2H: 36 desde 2005: 13V-12E-11D · 3.4 goles/partido · +2.5 en 56%  
+• Bajas: Stuttgart: 1 fuera, 6 duda (Jeremy Arevalo); Werder Bremen: 2 fuera, 5 duda (Keke Topp, Jens Stage)  
+• Favorito de las casas: Stuttgart @ 1.65  
+📐 **Estadísticas esperadas**  
+Córners 7.0 - 3.7: total +10.5 50% · Stuttgart +5.5 63% · Werder Bremen +4.5 32%  
+Tarjetas 1.8 - 2.3: total +3.5 58% · Stuttgart +2.5 27% · Werder Bremen +2.5 41%  
+Faltas 8.8 - 10.7: total +20.5 40% · Stuttgart +10.5 28% · Werder Bremen +10.5 50%  
+Tiros a puerta 7.2 - 4.0: total +10.5 55% · Stuttgart +5.5 69% · Werder Bremen +4.5 37%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Stuttgart + Menos de 10.5 faltas de Stuttgart + Más de 5.5 tiros a puerta de Stuttgart → prob. 39%, cuota justa 2.54 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Stuttgart + Menos de 10.5 faltas de Stuttgart + Más de 5.5 tiros a puerta de Stuttgart + Menos de 4.5 córners de Werder Bremen + Más de 2.5 goles → prob. 19%, cuota justa 5.33  
+🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Stuttgart + Más de 5.5 tiros a puerta de Stuttgart + Menos de 4.5 córners de Werder Bremen): cuota Unibet aprox. 3.29 (producto de piernas) · prob. 36% · ventaja +18% → 1 u en la banca de simulación  
+
+## Stuttgart vs Werder Bremen — 07/11 · 18:30
+
+👀 candidata · 🇩🇪 Bundesliga · **Menos de 13.5 córners** @ **1.20** (Unibet) · prob 78% vs casas 76% · ventaja -7%
+
+- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.90 - 1.25)  
+1 53% · X 25% · 2 21%  
+1X 79% · X2 47% · 12 75%  
++1.5 83% · +2.5 61% · +3.5 39% · Ambos marcan 61%  
+Marcadores: 1-1 11% · 2-1 10% · 2-0 8% · 1-0 8%  
+🔎 **Claves**  
+• Forma: Stuttgart ❌✅❌❌✅ | Werder Bremen ✅➖➖✅✅  
+• H2H: 36 desde 2005: 13V-12E-11D · 3.4 goles/partido · +2.5 en 56%  
+• Bajas: Stuttgart: 1 fuera, 6 duda (Jeremy Arevalo); Werder Bremen: 2 fuera, 5 duda (Keke Topp, Jens Stage)  
+• Favorito de las casas: Stuttgart @ 1.65  
+📐 **Estadísticas esperadas**  
+Córners 7.0 - 3.7: total +10.5 50% · Stuttgart +5.5 63% · Werder Bremen +4.5 32%  
+Tarjetas 1.8 - 2.3: total +3.5 58% · Stuttgart +2.5 27% · Werder Bremen +2.5 41%  
+Faltas 8.8 - 10.7: total +20.5 40% · Stuttgart +10.5 28% · Werder Bremen +10.5 50%  
+Tiros a puerta 7.2 - 4.0: total +10.5 55% · Stuttgart +5.5 69% · Werder Bremen +4.5 37%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Stuttgart + Menos de 10.5 faltas de Stuttgart + Más de 5.5 tiros a puerta de Stuttgart → prob. 39%, cuota justa 2.54 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Stuttgart + Menos de 10.5 faltas de Stuttgart + Más de 5.5 tiros a puerta de Stuttgart + Menos de 4.5 córners de Werder Bremen + Más de 2.5 goles → prob. 19%, cuota justa 5.33  
+🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Stuttgart + Más de 5.5 tiros a puerta de Stuttgart + Menos de 4.5 córners de Werder Bremen): cuota Unibet aprox. 3.29 (producto de piernas) · prob. 36% · ventaja +18% → 1 u en la banca de simulación  
+
+## Stuttgart vs Werder Bremen — 07/11 · 18:30
+
+👀 candidata · 🇩🇪 Bundesliga · **Más de 2.5 córners de Werder Bremen** @ **1.28** (Unibet) · prob 69% vs casas 71% · ventaja -11%
+
+- ❌ Valor: ventaja -11% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.90 - 1.25)  
+1 53% · X 25% · 2 21%  
+1X 79% · X2 47% · 12 75%  
++1.5 83% · +2.5 61% · +3.5 39% · Ambos marcan 61%  
+Marcadores: 1-1 11% · 2-1 10% · 2-0 8% · 1-0 8%  
+🔎 **Claves**  
+• Forma: Stuttgart ❌✅❌❌✅ | Werder Bremen ✅➖➖✅✅  
+• H2H: 36 desde 2005: 13V-12E-11D · 3.4 goles/partido · +2.5 en 56%  
+• Bajas: Stuttgart: 1 fuera, 6 duda (Jeremy Arevalo); Werder Bremen: 2 fuera, 5 duda (Keke Topp, Jens Stage)  
+• Favorito de las casas: Stuttgart @ 1.65  
+📐 **Estadísticas esperadas**  
+Córners 7.0 - 3.7: total +10.5 50% · Stuttgart +5.5 63% · Werder Bremen +4.5 32%  
+Tarjetas 1.8 - 2.3: total +3.5 58% · Stuttgart +2.5 27% · Werder Bremen +2.5 41%  
+Faltas 8.8 - 10.7: total +20.5 40% · Stuttgart +10.5 28% · Werder Bremen +10.5 50%  
+Tiros a puerta 7.2 - 4.0: total +10.5 55% · Stuttgart +5.5 69% · Werder Bremen +4.5 37%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Stuttgart + Menos de 10.5 faltas de Stuttgart + Más de 5.5 tiros a puerta de Stuttgart → prob. 39%, cuota justa 2.54 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Stuttgart + Menos de 10.5 faltas de Stuttgart + Más de 5.5 tiros a puerta de Stuttgart + Menos de 4.5 córners de Werder Bremen + Más de 2.5 goles → prob. 19%, cuota justa 5.33  
+🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Stuttgart + Más de 5.5 tiros a puerta de Stuttgart + Menos de 4.5 córners de Werder Bremen): cuota Unibet aprox. 3.29 (producto de piernas) · prob. 36% · ventaja +18% → 1 u en la banca de simulación  
+
+## Stuttgart vs Werder Bremen — 07/11 · 18:30
+
+👀 candidata · 🇩🇪 Bundesliga · **Menos de 3.5 córners de Werder Bremen** @ **2.05** (Unibet) · prob 48% vs casas 45% · ventaja -2%
+
+- ❌ Valor: ventaja -2% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.90 - 1.25)  
+1 53% · X 25% · 2 21%  
+1X 79% · X2 47% · 12 75%  
++1.5 83% · +2.5 61% · +3.5 39% · Ambos marcan 61%  
+Marcadores: 1-1 11% · 2-1 10% · 2-0 8% · 1-0 8%  
+🔎 **Claves**  
+• Forma: Stuttgart ❌✅❌❌✅ | Werder Bremen ✅➖➖✅✅  
+• H2H: 36 desde 2005: 13V-12E-11D · 3.4 goles/partido · +2.5 en 56%  
+• Bajas: Stuttgart: 1 fuera, 6 duda (Jeremy Arevalo); Werder Bremen: 2 fuera, 5 duda (Keke Topp, Jens Stage)  
+• Favorito de las casas: Stuttgart @ 1.65  
+📐 **Estadísticas esperadas**  
+Córners 7.0 - 3.7: total +10.5 50% · Stuttgart +5.5 63% · Werder Bremen +4.5 32%  
+Tarjetas 1.8 - 2.3: total +3.5 58% · Stuttgart +2.5 27% · Werder Bremen +2.5 41%  
+Faltas 8.8 - 10.7: total +20.5 40% · Stuttgart +10.5 28% · Werder Bremen +10.5 50%  
+Tiros a puerta 7.2 - 4.0: total +10.5 55% · Stuttgart +5.5 69% · Werder Bremen +4.5 37%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Stuttgart + Menos de 10.5 faltas de Stuttgart + Más de 5.5 tiros a puerta de Stuttgart → prob. 39%, cuota justa 2.54 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Stuttgart + Menos de 10.5 faltas de Stuttgart + Más de 5.5 tiros a puerta de Stuttgart + Menos de 4.5 córners de Werder Bremen + Más de 2.5 goles → prob. 19%, cuota justa 5.33  
+🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Stuttgart + Más de 5.5 tiros a puerta de Stuttgart + Menos de 4.5 córners de Werder Bremen): cuota Unibet aprox. 3.29 (producto de piernas) · prob. 36% · ventaja +18% → 1 u en la banca de simulación  
+
+## Stuttgart vs Werder Bremen — 07/11 · 18:30
+
+👀 candidata · 🇩🇪 Bundesliga · **Más de 7.5 córners de Stuttgart** @ **2.63** (Unibet) · prob 38% vs casas 35% · ventaja -2%
+
+- ❌ Valor: ventaja -2% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.90 - 1.25)  
+1 53% · X 25% · 2 21%  
+1X 79% · X2 47% · 12 75%  
++1.5 83% · +2.5 61% · +3.5 39% · Ambos marcan 61%  
+Marcadores: 1-1 11% · 2-1 10% · 2-0 8% · 1-0 8%  
+🔎 **Claves**  
+• Forma: Stuttgart ❌✅❌❌✅ | Werder Bremen ✅➖➖✅✅  
+• H2H: 36 desde 2005: 13V-12E-11D · 3.4 goles/partido · +2.5 en 56%  
+• Bajas: Stuttgart: 1 fuera, 6 duda (Jeremy Arevalo); Werder Bremen: 2 fuera, 5 duda (Keke Topp, Jens Stage)  
+• Favorito de las casas: Stuttgart @ 1.65  
+📐 **Estadísticas esperadas**  
+Córners 7.0 - 3.7: total +10.5 50% · Stuttgart +5.5 63% · Werder Bremen +4.5 32%  
+Tarjetas 1.8 - 2.3: total +3.5 58% · Stuttgart +2.5 27% · Werder Bremen +2.5 41%  
+Faltas 8.8 - 10.7: total +20.5 40% · Stuttgart +10.5 28% · Werder Bremen +10.5 50%  
+Tiros a puerta 7.2 - 4.0: total +10.5 55% · Stuttgart +5.5 69% · Werder Bremen +4.5 37%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Stuttgart + Menos de 10.5 faltas de Stuttgart + Más de 5.5 tiros a puerta de Stuttgart → prob. 39%, cuota justa 2.54 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Stuttgart + Menos de 10.5 faltas de Stuttgart + Más de 5.5 tiros a puerta de Stuttgart + Menos de 4.5 córners de Werder Bremen + Más de 2.5 goles → prob. 19%, cuota justa 5.33  
+🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Stuttgart + Más de 5.5 tiros a puerta de Stuttgart + Menos de 4.5 córners de Werder Bremen): cuota Unibet aprox. 3.29 (producto de piernas) · prob. 36% · ventaja +18% → 1 u en la banca de simulación  
+
+## Stuttgart vs Werder Bremen — 07/11 · 18:30
+
+👀 candidata · 🇩🇪 Bundesliga · **Menos de 8.5 córners de Stuttgart** @ **1.25** (Unibet) · prob 72% vs casas 73% · ventaja -10%
+
+- ❌ Valor: ventaja -10% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.90 - 1.25)  
+1 53% · X 25% · 2 21%  
+1X 79% · X2 47% · 12 75%  
++1.5 83% · +2.5 61% · +3.5 39% · Ambos marcan 61%  
+Marcadores: 1-1 11% · 2-1 10% · 2-0 8% · 1-0 8%  
+🔎 **Claves**  
+• Forma: Stuttgart ❌✅❌❌✅ | Werder Bremen ✅➖➖✅✅  
+• H2H: 36 desde 2005: 13V-12E-11D · 3.4 goles/partido · +2.5 en 56%  
+• Bajas: Stuttgart: 1 fuera, 6 duda (Jeremy Arevalo); Werder Bremen: 2 fuera, 5 duda (Keke Topp, Jens Stage)  
+• Favorito de las casas: Stuttgart @ 1.65  
+📐 **Estadísticas esperadas**  
+Córners 7.0 - 3.7: total +10.5 50% · Stuttgart +5.5 63% · Werder Bremen +4.5 32%  
+Tarjetas 1.8 - 2.3: total +3.5 58% · Stuttgart +2.5 27% · Werder Bremen +2.5 41%  
+Faltas 8.8 - 10.7: total +20.5 40% · Stuttgart +10.5 28% · Werder Bremen +10.5 50%  
+Tiros a puerta 7.2 - 4.0: total +10.5 55% · Stuttgart +5.5 69% · Werder Bremen +4.5 37%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Stuttgart + Menos de 10.5 faltas de Stuttgart + Más de 5.5 tiros a puerta de Stuttgart → prob. 39%, cuota justa 2.54 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Stuttgart + Menos de 10.5 faltas de Stuttgart + Más de 5.5 tiros a puerta de Stuttgart + Menos de 4.5 córners de Werder Bremen + Más de 2.5 goles → prob. 19%, cuota justa 5.33  
+🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Stuttgart + Más de 5.5 tiros a puerta de Stuttgart + Menos de 4.5 córners de Werder Bremen): cuota Unibet aprox. 3.29 (producto de piernas) · prob. 36% · ventaja +18% → 1 u en la banca de simulación  
+
+## Aris vs Panetolikos — 07/11 · 18:30
+
+👀 candidata · 🇬🇷 Super League · **Más de 2.5 córners de Panetolikos** @ **1.76** (Unibet) · prob 51% vs casas 51% · ventaja -10%
+
+- ❌ Valor: ventaja -10% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.42 - 0.73)  
+1 63% · X 24% · 2 13%  
+1X 87% · X2 37% · 12 76%  
++1.5 64% · +2.5 37% · +3.5 17% · Ambos marcan 40%  
+Marcadores: 1-0 16% · 1-1 13% · 0-0 12% · 2-0 12%  
+🔎 **Claves**  
+• Forma: Aris ➖✅✅✅❌ | Panetolikos ❌❌❌❌❌  
+• H2H: 20 desde 2011: 10V-4E-6D · 2.3 goles/partido · +2.5 en 45%  
+• Bajas: Aris: sin bajas; Panetolikos: sin bajas  
+• Favorito de las casas: Aris @ 1.39  
+📐 **Estadísticas esperadas**  
+Córners 6.8 - 2.8: total +9.5 49% · Aris +4.5 73% · Panetolikos +4.5 18%  
+Tarjetas 2.2 - 3.2: total +5.5 45% · Aris +2.5 38% · Panetolikos +3.5 39%  
+Faltas 14.6 - 15.2: total +30.5 44% · Aris +15.5 40% · Panetolikos +15.5 45%  
+Tiros a puerta 6.6 - 2.8: total +8.5 58% · Aris +4.5 75% · Panetolikos +3.5 30%  
+🧩 Crear apuesta: Menos de 4.5 córners de Panetolikos + Más de 4.5 tiros a puerta de Aris + Menos de 2.5 goles → prob. 37%, cuota justa 2.73 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 córners de Panetolikos + Más de 4.5 tiros a puerta de Aris + Menos de 2.5 goles + Menos de 2.5 tarjetas de Aris + Menos de 15.5 faltas de Aris → prob. 16%, cuota justa 6.39  
+
+## Aris vs Panetolikos — 07/11 · 18:30
+
+👀 candidata · 🇬🇷 Super League · **Menos de 2.5 córners de Panetolikos** @ **1.84** (Unibet) · prob 49% vs casas 49% · ventaja -10%
+
+- ❌ Valor: ventaja -10% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.42 - 0.73)  
+1 63% · X 24% · 2 13%  
+1X 87% · X2 37% · 12 76%  
++1.5 64% · +2.5 37% · +3.5 17% · Ambos marcan 40%  
+Marcadores: 1-0 16% · 1-1 13% · 0-0 12% · 2-0 12%  
+🔎 **Claves**  
+• Forma: Aris ➖✅✅✅❌ | Panetolikos ❌❌❌❌❌  
+• H2H: 20 desde 2011: 10V-4E-6D · 2.3 goles/partido · +2.5 en 45%  
+• Bajas: Aris: sin bajas; Panetolikos: sin bajas  
+• Favorito de las casas: Aris @ 1.39  
+📐 **Estadísticas esperadas**  
+Córners 6.8 - 2.8: total +9.5 49% · Aris +4.5 73% · Panetolikos +4.5 18%  
+Tarjetas 2.2 - 3.2: total +5.5 45% · Aris +2.5 38% · Panetolikos +3.5 39%  
+Faltas 14.6 - 15.2: total +30.5 44% · Aris +15.5 40% · Panetolikos +15.5 45%  
+Tiros a puerta 6.6 - 2.8: total +8.5 58% · Aris +4.5 75% · Panetolikos +3.5 30%  
+🧩 Crear apuesta: Menos de 4.5 córners de Panetolikos + Más de 4.5 tiros a puerta de Aris + Menos de 2.5 goles → prob. 37%, cuota justa 2.73 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 córners de Panetolikos + Más de 4.5 tiros a puerta de Aris + Menos de 2.5 goles + Menos de 2.5 tarjetas de Aris + Menos de 15.5 faltas de Aris → prob. 16%, cuota justa 6.39  
+
+## Aris vs Panetolikos — 07/11 · 18:30
+
+👀 candidata · 🇬🇷 Super League · **Más de 6.5 córners de Aris** @ **2.06** (Unibet) · prob 46% vs casas 43% · ventaja -5%
+
+- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.42 - 0.73)  
+1 63% · X 24% · 2 13%  
+1X 87% · X2 37% · 12 76%  
++1.5 64% · +2.5 37% · +3.5 17% · Ambos marcan 40%  
+Marcadores: 1-0 16% · 1-1 13% · 0-0 12% · 2-0 12%  
+🔎 **Claves**  
+• Forma: Aris ➖✅✅✅❌ | Panetolikos ❌❌❌❌❌  
+• H2H: 20 desde 2011: 10V-4E-6D · 2.3 goles/partido · +2.5 en 45%  
+• Bajas: Aris: sin bajas; Panetolikos: sin bajas  
+• Favorito de las casas: Aris @ 1.39  
+📐 **Estadísticas esperadas**  
+Córners 6.8 - 2.8: total +9.5 49% · Aris +4.5 73% · Panetolikos +4.5 18%  
+Tarjetas 2.2 - 3.2: total +5.5 45% · Aris +2.5 38% · Panetolikos +3.5 39%  
+Faltas 14.6 - 15.2: total +30.5 44% · Aris +15.5 40% · Panetolikos +15.5 45%  
+Tiros a puerta 6.6 - 2.8: total +8.5 58% · Aris +4.5 75% · Panetolikos +3.5 30%  
+🧩 Crear apuesta: Menos de 4.5 córners de Panetolikos + Más de 4.5 tiros a puerta de Aris + Menos de 2.5 goles → prob. 37%, cuota justa 2.73 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 córners de Panetolikos + Más de 4.5 tiros a puerta de Aris + Menos de 2.5 goles + Menos de 2.5 tarjetas de Aris + Menos de 15.5 faltas de Aris → prob. 16%, cuota justa 6.39  
+
+## Aris vs Panetolikos — 07/11 · 18:30
+
+👀 candidata · 🇬🇷 Super League · **Menos de 6.5 córners de Aris** @ **1.58** (Unibet) · prob 54% vs casas 57% · ventaja -15%
+
+- ❌ Valor: ventaja -15% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.42 - 0.73)  
+1 63% · X 24% · 2 13%  
+1X 87% · X2 37% · 12 76%  
++1.5 64% · +2.5 37% · +3.5 17% · Ambos marcan 40%  
+Marcadores: 1-0 16% · 1-1 13% · 0-0 12% · 2-0 12%  
+🔎 **Claves**  
+• Forma: Aris ➖✅✅✅❌ | Panetolikos ❌❌❌❌❌  
+• H2H: 20 desde 2011: 10V-4E-6D · 2.3 goles/partido · +2.5 en 45%  
+• Bajas: Aris: sin bajas; Panetolikos: sin bajas  
+• Favorito de las casas: Aris @ 1.39  
+📐 **Estadísticas esperadas**  
+Córners 6.8 - 2.8: total +9.5 49% · Aris +4.5 73% · Panetolikos +4.5 18%  
+Tarjetas 2.2 - 3.2: total +5.5 45% · Aris +2.5 38% · Panetolikos +3.5 39%  
+Faltas 14.6 - 15.2: total +30.5 44% · Aris +15.5 40% · Panetolikos +15.5 45%  
+Tiros a puerta 6.6 - 2.8: total +8.5 58% · Aris +4.5 75% · Panetolikos +3.5 30%  
+🧩 Crear apuesta: Menos de 4.5 córners de Panetolikos + Más de 4.5 tiros a puerta de Aris + Menos de 2.5 goles → prob. 37%, cuota justa 2.73 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 córners de Panetolikos + Más de 4.5 tiros a puerta de Aris + Menos de 2.5 goles + Menos de 2.5 tarjetas de Aris + Menos de 15.5 faltas de Aris → prob. 16%, cuota justa 6.39  
+
+## Aris vs Panetolikos — 07/11 · 18:30
+
+👀 candidata · 🇬🇷 Super League · **Más de 8.5 córners** @ **1.66** (Unibet) · prob 58% vs casas 54% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.42 - 0.73)  
+1 63% · X 24% · 2 13%  
+1X 87% · X2 37% · 12 76%  
++1.5 64% · +2.5 37% · +3.5 17% · Ambos marcan 40%  
+Marcadores: 1-0 16% · 1-1 13% · 0-0 12% · 2-0 12%  
+🔎 **Claves**  
+• Forma: Aris ➖✅✅✅❌ | Panetolikos ❌❌❌❌❌  
+• H2H: 20 desde 2011: 10V-4E-6D · 2.3 goles/partido · +2.5 en 45%  
+• Bajas: Aris: sin bajas; Panetolikos: sin bajas  
+• Favorito de las casas: Aris @ 1.39  
+📐 **Estadísticas esperadas**  
+Córners 6.8 - 2.8: total +9.5 49% · Aris +4.5 73% · Panetolikos +4.5 18%  
+Tarjetas 2.2 - 3.2: total +5.5 45% · Aris +2.5 38% · Panetolikos +3.5 39%  
+Faltas 14.6 - 15.2: total +30.5 44% · Aris +15.5 40% · Panetolikos +15.5 45%  
+Tiros a puerta 6.6 - 2.8: total +8.5 58% · Aris +4.5 75% · Panetolikos +3.5 30%  
+🧩 Crear apuesta: Menos de 4.5 córners de Panetolikos + Más de 4.5 tiros a puerta de Aris + Menos de 2.5 goles → prob. 37%, cuota justa 2.73 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 córners de Panetolikos + Más de 4.5 tiros a puerta de Aris + Menos de 2.5 goles + Menos de 2.5 tarjetas de Aris + Menos de 15.5 faltas de Aris → prob. 16%, cuota justa 6.39  
+
+## Aris vs Panetolikos — 07/11 · 18:30
+
+👀 candidata · 🇬🇷 Super League · **Menos de 10.5 córners** @ **1.37** (Unibet) · prob 64% vs casas 66% · ventaja -12%
+
+- ❌ Valor: ventaja -12% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.42 - 0.73)  
+1 63% · X 24% · 2 13%  
+1X 87% · X2 37% · 12 76%  
++1.5 64% · +2.5 37% · +3.5 17% · Ambos marcan 40%  
+Marcadores: 1-0 16% · 1-1 13% · 0-0 12% · 2-0 12%  
+🔎 **Claves**  
+• Forma: Aris ➖✅✅✅❌ | Panetolikos ❌❌❌❌❌  
+• H2H: 20 desde 2011: 10V-4E-6D · 2.3 goles/partido · +2.5 en 45%  
+• Bajas: Aris: sin bajas; Panetolikos: sin bajas  
+• Favorito de las casas: Aris @ 1.39  
+📐 **Estadísticas esperadas**  
+Córners 6.8 - 2.8: total +9.5 49% · Aris +4.5 73% · Panetolikos +4.5 18%  
+Tarjetas 2.2 - 3.2: total +5.5 45% · Aris +2.5 38% · Panetolikos +3.5 39%  
+Faltas 14.6 - 15.2: total +30.5 44% · Aris +15.5 40% · Panetolikos +15.5 45%  
+Tiros a puerta 6.6 - 2.8: total +8.5 58% · Aris +4.5 75% · Panetolikos +3.5 30%  
+🧩 Crear apuesta: Menos de 4.5 córners de Panetolikos + Más de 4.5 tiros a puerta de Aris + Menos de 2.5 goles → prob. 37%, cuota justa 2.73 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 córners de Panetolikos + Más de 4.5 tiros a puerta de Aris + Menos de 2.5 goles + Menos de 2.5 tarjetas de Aris + Menos de 15.5 faltas de Aris → prob. 16%, cuota justa 6.39  
+
+## Cordoba vs Ceuta — 07/11 · 18:30
+
+👀 candidata · 🇪🇸 LaLiga 2 · **Más de 5.5 córners de Cordoba** @ **1.52** (Unibet) · prob 60% vs casas 60% · ventaja -9%
+
+- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.13 - 1.29)  
+1 55% · X 25% · 2 20%  
+1X 80% · X2 45% · 12 75%  
++1.5 86% · +2.5 66% · +3.5 44% · Ambos marcan 64%  
+Marcadores: 2-1 10% · 1-1 9% · 2-0 7% · 3-1 7%  
+🔎 **Claves**  
+• Forma: Cordoba ✅❌✅✅➖ | Ceuta ➖❌❌❌❌  
+• H2H: 2 desde 2025: 1V-0E-1D · 3.5 goles/partido · +2.5 en 50%  
+• Bajas: Cordoba: sin bajas; Ceuta: sin bajas  
+• Favorito de las casas: Cordoba @ 1.50  
+📐 **Estadísticas esperadas**  
+Córners 6.7 - 3.5: total +9.5 56% · Cordoba +5.5 60% · Ceuta +4.5 29%  
+Tarjetas 2.5 - 2.9: total +5.5 45% · Cordoba +2.5 46% · Ceuta +3.5 32%  
+Faltas 15.8 - 12.0: total +26.5 58% · Cordoba +13.5 70% · Ceuta +13.5 33%  
+Tiros a puerta 6.5 - 3.1: total +9.5 48% · Cordoba +5.5 61% · Ceuta +4.5 21%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Ceuta + Menos de 4.5 córners de Ceuta + Más de 13.5 faltas de Cordoba → prob. 42%, cuota justa 2.40 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Ceuta + Menos de 4.5 córners de Ceuta + Más de 13.5 faltas de Cordoba + Menos de 3.5 tarjetas de Ceuta + Más de 2.5 goles → prob. 17%, cuota justa 5.91  
+🎯 No simulada (con cuota: Menos de 4.5 córners de Ceuta + Más de 2.5 goles): cuota Unibet aprox. 1.87 (producto de piernas) · prob. 48% · ventaja -11%  
+
+## Cordoba vs Ceuta — 07/11 · 18:30
+
+👀 candidata · 🇪🇸 LaLiga 2 · **Menos de 7.5 córners de Cordoba** @ **1.45** (Unibet) · prob 63% vs casas 63% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.13 - 1.29)  
+1 55% · X 25% · 2 20%  
+1X 80% · X2 45% · 12 75%  
++1.5 86% · +2.5 66% · +3.5 44% · Ambos marcan 64%  
+Marcadores: 2-1 10% · 1-1 9% · 2-0 7% · 3-1 7%  
+🔎 **Claves**  
+• Forma: Cordoba ✅❌✅✅➖ | Ceuta ➖❌❌❌❌  
+• H2H: 2 desde 2025: 1V-0E-1D · 3.5 goles/partido · +2.5 en 50%  
+• Bajas: Cordoba: sin bajas; Ceuta: sin bajas  
+• Favorito de las casas: Cordoba @ 1.50  
+📐 **Estadísticas esperadas**  
+Córners 6.7 - 3.5: total +9.5 56% · Cordoba +5.5 60% · Ceuta +4.5 29%  
+Tarjetas 2.5 - 2.9: total +5.5 45% · Cordoba +2.5 46% · Ceuta +3.5 32%  
+Faltas 15.8 - 12.0: total +26.5 58% · Cordoba +13.5 70% · Ceuta +13.5 33%  
+Tiros a puerta 6.5 - 3.1: total +9.5 48% · Cordoba +5.5 61% · Ceuta +4.5 21%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Ceuta + Menos de 4.5 córners de Ceuta + Más de 13.5 faltas de Cordoba → prob. 42%, cuota justa 2.40 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Ceuta + Menos de 4.5 córners de Ceuta + Más de 13.5 faltas de Cordoba + Menos de 3.5 tarjetas de Ceuta + Más de 2.5 goles → prob. 17%, cuota justa 5.91  
+🎯 No simulada (con cuota: Menos de 4.5 córners de Ceuta + Más de 2.5 goles): cuota Unibet aprox. 1.87 (producto de piernas) · prob. 48% · ventaja -11%  
+
+## Cordoba vs Ceuta — 07/11 · 18:30
+
+👀 candidata · 🇪🇸 LaLiga 2 · **Más de 8.5 córners** @ **1.40** (Unibet) · prob 66% vs casas 65% · ventaja -7%
+
+- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.13 - 1.29)  
+1 55% · X 25% · 2 20%  
+1X 80% · X2 45% · 12 75%  
++1.5 86% · +2.5 66% · +3.5 44% · Ambos marcan 64%  
+Marcadores: 2-1 10% · 1-1 9% · 2-0 7% · 3-1 7%  
+🔎 **Claves**  
+• Forma: Cordoba ✅❌✅✅➖ | Ceuta ➖❌❌❌❌  
+• H2H: 2 desde 2025: 1V-0E-1D · 3.5 goles/partido · +2.5 en 50%  
+• Bajas: Cordoba: sin bajas; Ceuta: sin bajas  
+• Favorito de las casas: Cordoba @ 1.50  
+📐 **Estadísticas esperadas**  
+Córners 6.7 - 3.5: total +9.5 56% · Cordoba +5.5 60% · Ceuta +4.5 29%  
+Tarjetas 2.5 - 2.9: total +5.5 45% · Cordoba +2.5 46% · Ceuta +3.5 32%  
+Faltas 15.8 - 12.0: total +26.5 58% · Cordoba +13.5 70% · Ceuta +13.5 33%  
+Tiros a puerta 6.5 - 3.1: total +9.5 48% · Cordoba +5.5 61% · Ceuta +4.5 21%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Ceuta + Menos de 4.5 córners de Ceuta + Más de 13.5 faltas de Cordoba → prob. 42%, cuota justa 2.40 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Ceuta + Menos de 4.5 córners de Ceuta + Más de 13.5 faltas de Cordoba + Menos de 3.5 tarjetas de Ceuta + Más de 2.5 goles → prob. 17%, cuota justa 5.91  
+🎯 No simulada (con cuota: Menos de 4.5 córners de Ceuta + Más de 2.5 goles): cuota Unibet aprox. 1.87 (producto de piernas) · prob. 48% · ventaja -11%  
+
+## Cordoba vs Ceuta — 07/11 · 18:30
+
+👀 candidata · 🇪🇸 LaLiga 2 · **Menos de 11.5 córners** @ **1.41** (Unibet) · prob 66% vs casas 65% · ventaja -7%
+
+- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.13 - 1.29)  
+1 55% · X 25% · 2 20%  
+1X 80% · X2 45% · 12 75%  
++1.5 86% · +2.5 66% · +3.5 44% · Ambos marcan 64%  
+Marcadores: 2-1 10% · 1-1 9% · 2-0 7% · 3-1 7%  
+🔎 **Claves**  
+• Forma: Cordoba ✅❌✅✅➖ | Ceuta ➖❌❌❌❌  
+• H2H: 2 desde 2025: 1V-0E-1D · 3.5 goles/partido · +2.5 en 50%  
+• Bajas: Cordoba: sin bajas; Ceuta: sin bajas  
+• Favorito de las casas: Cordoba @ 1.50  
+📐 **Estadísticas esperadas**  
+Córners 6.7 - 3.5: total +9.5 56% · Cordoba +5.5 60% · Ceuta +4.5 29%  
+Tarjetas 2.5 - 2.9: total +5.5 45% · Cordoba +2.5 46% · Ceuta +3.5 32%  
+Faltas 15.8 - 12.0: total +26.5 58% · Cordoba +13.5 70% · Ceuta +13.5 33%  
+Tiros a puerta 6.5 - 3.1: total +9.5 48% · Cordoba +5.5 61% · Ceuta +4.5 21%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Ceuta + Menos de 4.5 córners de Ceuta + Más de 13.5 faltas de Cordoba → prob. 42%, cuota justa 2.40 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Ceuta + Menos de 4.5 córners de Ceuta + Más de 13.5 faltas de Cordoba + Menos de 3.5 tarjetas de Ceuta + Más de 2.5 goles → prob. 17%, cuota justa 5.91  
+🎯 No simulada (con cuota: Menos de 4.5 córners de Ceuta + Más de 2.5 goles): cuota Unibet aprox. 1.87 (producto de piernas) · prob. 48% · ventaja -11%  
+
+## Cordoba vs Ceuta — 07/11 · 18:30
+
+👀 candidata · 🇪🇸 LaLiga 2 · **Más de 2.5 córners de Ceuta** @ **1.45** (Unibet) · prob 63% vs casas 63% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.13 - 1.29)  
+1 55% · X 25% · 2 20%  
+1X 80% · X2 45% · 12 75%  
++1.5 86% · +2.5 66% · +3.5 44% · Ambos marcan 64%  
+Marcadores: 2-1 10% · 1-1 9% · 2-0 7% · 3-1 7%  
+🔎 **Claves**  
+• Forma: Cordoba ✅❌✅✅➖ | Ceuta ➖❌❌❌❌  
+• H2H: 2 desde 2025: 1V-0E-1D · 3.5 goles/partido · +2.5 en 50%  
+• Bajas: Cordoba: sin bajas; Ceuta: sin bajas  
+• Favorito de las casas: Cordoba @ 1.50  
+📐 **Estadísticas esperadas**  
+Córners 6.7 - 3.5: total +9.5 56% · Cordoba +5.5 60% · Ceuta +4.5 29%  
+Tarjetas 2.5 - 2.9: total +5.5 45% · Cordoba +2.5 46% · Ceuta +3.5 32%  
+Faltas 15.8 - 12.0: total +26.5 58% · Cordoba +13.5 70% · Ceuta +13.5 33%  
+Tiros a puerta 6.5 - 3.1: total +9.5 48% · Cordoba +5.5 61% · Ceuta +4.5 21%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Ceuta + Menos de 4.5 córners de Ceuta + Más de 13.5 faltas de Cordoba → prob. 42%, cuota justa 2.40 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Ceuta + Menos de 4.5 córners de Ceuta + Más de 13.5 faltas de Cordoba + Menos de 3.5 tarjetas de Ceuta + Más de 2.5 goles → prob. 17%, cuota justa 5.91  
+🎯 No simulada (con cuota: Menos de 4.5 córners de Ceuta + Más de 2.5 goles): cuota Unibet aprox. 1.87 (producto de piernas) · prob. 48% · ventaja -11%  
+
+## Cordoba vs Ceuta — 07/11 · 18:30
+
+👀 candidata · 🇪🇸 LaLiga 2 · **Menos de 4.5 córners de Ceuta** @ **1.32** (Unibet) · prob 70% vs casas 69% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.13 - 1.29)  
+1 55% · X 25% · 2 20%  
+1X 80% · X2 45% · 12 75%  
++1.5 86% · +2.5 66% · +3.5 44% · Ambos marcan 64%  
+Marcadores: 2-1 10% · 1-1 9% · 2-0 7% · 3-1 7%  
+🔎 **Claves**  
+• Forma: Cordoba ✅❌✅✅➖ | Ceuta ➖❌❌❌❌  
+• H2H: 2 desde 2025: 1V-0E-1D · 3.5 goles/partido · +2.5 en 50%  
+• Bajas: Cordoba: sin bajas; Ceuta: sin bajas  
+• Favorito de las casas: Cordoba @ 1.50  
+📐 **Estadísticas esperadas**  
+Córners 6.7 - 3.5: total +9.5 56% · Cordoba +5.5 60% · Ceuta +4.5 29%  
+Tarjetas 2.5 - 2.9: total +5.5 45% · Cordoba +2.5 46% · Ceuta +3.5 32%  
+Faltas 15.8 - 12.0: total +26.5 58% · Cordoba +13.5 70% · Ceuta +13.5 33%  
+Tiros a puerta 6.5 - 3.1: total +9.5 48% · Cordoba +5.5 61% · Ceuta +4.5 21%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Ceuta + Menos de 4.5 córners de Ceuta + Más de 13.5 faltas de Cordoba → prob. 42%, cuota justa 2.40 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Ceuta + Menos de 4.5 córners de Ceuta + Más de 13.5 faltas de Cordoba + Menos de 3.5 tarjetas de Ceuta + Más de 2.5 goles → prob. 17%, cuota justa 5.91  
+🎯 No simulada (con cuota: Menos de 4.5 córners de Ceuta + Más de 2.5 goles): cuota Unibet aprox. 1.87 (producto de piernas) · prob. 48% · ventaja -11%  
+
+## Leganes vs Albacete — 07/11 · 18:30
+
+👀 candidata · 🇪🇸 LaLiga 2 · **Más de 8.5 córners** @ **1.46** (Unibet) · prob 63% vs casas 62% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.25 - 0.96)  
+1 41% · X 30% · 2 29%  
+1X 71% · X2 59% · 12 70%  
++1.5 66% · +2.5 38% · +3.5 18% · Ambos marcan 45%  
+Marcadores: 1-1 14% · 1-0 13% · 0-0 12% · 0-1 10%  
+🔎 **Claves**  
+• Forma: Leganes ❌❌❌➖❌ | Albacete ❌❌❌✅✅  
+• H2H: 12 desde 2014: 7V-1E-4D · 2.4 goles/partido · +2.5 en 50%  
+• Bajas: Leganes: 0 fuera, 1 duda; Albacete: 1 fuera, 0 duda (Antonio Puertas)  
+• Favorito de las casas: Leganes @ 2.00  
+📐 **Estadísticas esperadas**  
+Córners 5.7 - 4.2: total +9.5 52% · Leganes +5.5 48% · Albacete +4.5 40%  
+Tarjetas 2.7 - 2.4: total +5.5 39% · Leganes +2.5 50% · Albacete +3.5 22%  
+Faltas 13.4 - 13.3: total +26.5 50% · Leganes +13.5 47% · Albacete +13.5 46%  
+Tiros a puerta 4.9 - 3.5: total +9.5 34% · Leganes +5.5 37% · Albacete +4.5 28%  
+🧩 Crear apuesta: Menos de 3.5 tarjetas de Albacete + Menos de 4.5 tiros a puerta de Albacete + Menos de 2.5 goles → prob. 38%, cuota justa 2.60 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 3.5 tarjetas de Albacete + Menos de 4.5 tiros a puerta de Albacete + Menos de 2.5 goles + Menos de 4.5 córners de Albacete → prob. 24%, cuota justa 4.21  
+🎯 Simulada (con cuota: Menos de 2.5 goles + Menos de 4.5 córners de Albacete): cuota Unibet aprox. 2.97 (producto de piernas) · prob. 37% · ventaja +9% → 1 u en la banca de simulación  
+
+## Leganes vs Albacete — 07/11 · 18:30
+
+👀 candidata · 🇪🇸 LaLiga 2 · **Menos de 11.5 córners** @ **1.34** (Unibet) · prob 69% vs casas 68% · ventaja -7%
+
+- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.25 - 0.96)  
+1 41% · X 30% · 2 29%  
+1X 71% · X2 59% · 12 70%  
++1.5 66% · +2.5 38% · +3.5 18% · Ambos marcan 45%  
+Marcadores: 1-1 14% · 1-0 13% · 0-0 12% · 0-1 10%  
+🔎 **Claves**  
+• Forma: Leganes ❌❌❌➖❌ | Albacete ❌❌❌✅✅  
+• H2H: 12 desde 2014: 7V-1E-4D · 2.4 goles/partido · +2.5 en 50%  
+• Bajas: Leganes: 0 fuera, 1 duda; Albacete: 1 fuera, 0 duda (Antonio Puertas)  
+• Favorito de las casas: Leganes @ 2.00  
+📐 **Estadísticas esperadas**  
+Córners 5.7 - 4.2: total +9.5 52% · Leganes +5.5 48% · Albacete +4.5 40%  
+Tarjetas 2.7 - 2.4: total +5.5 39% · Leganes +2.5 50% · Albacete +3.5 22%  
+Faltas 13.4 - 13.3: total +26.5 50% · Leganes +13.5 47% · Albacete +13.5 46%  
+Tiros a puerta 4.9 - 3.5: total +9.5 34% · Leganes +5.5 37% · Albacete +4.5 28%  
+🧩 Crear apuesta: Menos de 3.5 tarjetas de Albacete + Menos de 4.5 tiros a puerta de Albacete + Menos de 2.5 goles → prob. 38%, cuota justa 2.60 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 3.5 tarjetas de Albacete + Menos de 4.5 tiros a puerta de Albacete + Menos de 2.5 goles + Menos de 4.5 córners de Albacete → prob. 24%, cuota justa 4.21  
+🎯 Simulada (con cuota: Menos de 2.5 goles + Menos de 4.5 córners de Albacete): cuota Unibet aprox. 2.97 (producto de piernas) · prob. 37% · ventaja +9% → 1 u en la banca de simulación  
+
+## Leganes vs Albacete — 07/11 · 18:30
+
+👀 candidata · 🇪🇸 LaLiga 2 · **Más de 3.5 córners de Albacete** @ **1.54** (Unibet) · prob 58% vs casas 59% · ventaja -11%
+
+- ❌ Valor: ventaja -11% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.25 - 0.96)  
+1 41% · X 30% · 2 29%  
+1X 71% · X2 59% · 12 70%  
++1.5 66% · +2.5 38% · +3.5 18% · Ambos marcan 45%  
+Marcadores: 1-1 14% · 1-0 13% · 0-0 12% · 0-1 10%  
+🔎 **Claves**  
+• Forma: Leganes ❌❌❌➖❌ | Albacete ❌❌❌✅✅  
+• H2H: 12 desde 2014: 7V-1E-4D · 2.4 goles/partido · +2.5 en 50%  
+• Bajas: Leganes: 0 fuera, 1 duda; Albacete: 1 fuera, 0 duda (Antonio Puertas)  
+• Favorito de las casas: Leganes @ 2.00  
+📐 **Estadísticas esperadas**  
+Córners 5.7 - 4.2: total +9.5 52% · Leganes +5.5 48% · Albacete +4.5 40%  
+Tarjetas 2.7 - 2.4: total +5.5 39% · Leganes +2.5 50% · Albacete +3.5 22%  
+Faltas 13.4 - 13.3: total +26.5 50% · Leganes +13.5 47% · Albacete +13.5 46%  
+Tiros a puerta 4.9 - 3.5: total +9.5 34% · Leganes +5.5 37% · Albacete +4.5 28%  
+🧩 Crear apuesta: Menos de 3.5 tarjetas de Albacete + Menos de 4.5 tiros a puerta de Albacete + Menos de 2.5 goles → prob. 38%, cuota justa 2.60 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 3.5 tarjetas de Albacete + Menos de 4.5 tiros a puerta de Albacete + Menos de 2.5 goles + Menos de 4.5 córners de Albacete → prob. 24%, cuota justa 4.21  
+🎯 Simulada (con cuota: Menos de 2.5 goles + Menos de 4.5 córners de Albacete): cuota Unibet aprox. 2.97 (producto de piernas) · prob. 37% · ventaja +9% → 1 u en la banca de simulación  
+
+## Leganes vs Albacete — 07/11 · 18:30
+
+👀 candidata · 🇪🇸 LaLiga 2 · **Menos de 4.5 córners de Albacete** @ **1.63** (Unibet) · prob 58% vs casas 56% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.25 - 0.96)  
+1 41% · X 30% · 2 29%  
+1X 71% · X2 59% · 12 70%  
++1.5 66% · +2.5 38% · +3.5 18% · Ambos marcan 45%  
+Marcadores: 1-1 14% · 1-0 13% · 0-0 12% · 0-1 10%  
+🔎 **Claves**  
+• Forma: Leganes ❌❌❌➖❌ | Albacete ❌❌❌✅✅  
+• H2H: 12 desde 2014: 7V-1E-4D · 2.4 goles/partido · +2.5 en 50%  
+• Bajas: Leganes: 0 fuera, 1 duda; Albacete: 1 fuera, 0 duda (Antonio Puertas)  
+• Favorito de las casas: Leganes @ 2.00  
+📐 **Estadísticas esperadas**  
+Córners 5.7 - 4.2: total +9.5 52% · Leganes +5.5 48% · Albacete +4.5 40%  
+Tarjetas 2.7 - 2.4: total +5.5 39% · Leganes +2.5 50% · Albacete +3.5 22%  
+Faltas 13.4 - 13.3: total +26.5 50% · Leganes +13.5 47% · Albacete +13.5 46%  
+Tiros a puerta 4.9 - 3.5: total +9.5 34% · Leganes +5.5 37% · Albacete +4.5 28%  
+🧩 Crear apuesta: Menos de 3.5 tarjetas de Albacete + Menos de 4.5 tiros a puerta de Albacete + Menos de 2.5 goles → prob. 38%, cuota justa 2.60 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 3.5 tarjetas de Albacete + Menos de 4.5 tiros a puerta de Albacete + Menos de 2.5 goles + Menos de 4.5 córners de Albacete → prob. 24%, cuota justa 4.21  
+🎯 Simulada (con cuota: Menos de 2.5 goles + Menos de 4.5 córners de Albacete): cuota Unibet aprox. 2.97 (producto de piernas) · prob. 37% · ventaja +9% → 1 u en la banca de simulación  
+
+## Leganes vs Albacete — 07/11 · 18:30
+
+👀 candidata · 🇪🇸 LaLiga 2 · **Más de 5.5 córners de Leganes** @ **2.04** (Unibet) · prob 46% vs casas 45% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.25 - 0.96)  
+1 41% · X 30% · 2 29%  
+1X 71% · X2 59% · 12 70%  
++1.5 66% · +2.5 38% · +3.5 18% · Ambos marcan 45%  
+Marcadores: 1-1 14% · 1-0 13% · 0-0 12% · 0-1 10%  
+🔎 **Claves**  
+• Forma: Leganes ❌❌❌➖❌ | Albacete ❌❌❌✅✅  
+• H2H: 12 desde 2014: 7V-1E-4D · 2.4 goles/partido · +2.5 en 50%  
+• Bajas: Leganes: 0 fuera, 1 duda; Albacete: 1 fuera, 0 duda (Antonio Puertas)  
+• Favorito de las casas: Leganes @ 2.00  
+📐 **Estadísticas esperadas**  
+Córners 5.7 - 4.2: total +9.5 52% · Leganes +5.5 48% · Albacete +4.5 40%  
+Tarjetas 2.7 - 2.4: total +5.5 39% · Leganes +2.5 50% · Albacete +3.5 22%  
+Faltas 13.4 - 13.3: total +26.5 50% · Leganes +13.5 47% · Albacete +13.5 46%  
+Tiros a puerta 4.9 - 3.5: total +9.5 34% · Leganes +5.5 37% · Albacete +4.5 28%  
+🧩 Crear apuesta: Menos de 3.5 tarjetas de Albacete + Menos de 4.5 tiros a puerta de Albacete + Menos de 2.5 goles → prob. 38%, cuota justa 2.60 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 3.5 tarjetas de Albacete + Menos de 4.5 tiros a puerta de Albacete + Menos de 2.5 goles + Menos de 4.5 córners de Albacete → prob. 24%, cuota justa 4.21  
+🎯 Simulada (con cuota: Menos de 2.5 goles + Menos de 4.5 córners de Albacete): cuota Unibet aprox. 2.97 (producto de piernas) · prob. 37% · ventaja +9% → 1 u en la banca de simulación  
+
+## Leganes vs Albacete — 07/11 · 18:30
+
+👀 candidata · 🇪🇸 LaLiga 2 · **Menos de 6.5 córners de Leganes** @ **1.36** (Unibet) · prob 66% vs casas 66% · ventaja -11%
+
+- ❌ Valor: ventaja -11% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.25 - 0.96)  
+1 41% · X 30% · 2 29%  
+1X 71% · X2 59% · 12 70%  
++1.5 66% · +2.5 38% · +3.5 18% · Ambos marcan 45%  
+Marcadores: 1-1 14% · 1-0 13% · 0-0 12% · 0-1 10%  
+🔎 **Claves**  
+• Forma: Leganes ❌❌❌➖❌ | Albacete ❌❌❌✅✅  
+• H2H: 12 desde 2014: 7V-1E-4D · 2.4 goles/partido · +2.5 en 50%  
+• Bajas: Leganes: 0 fuera, 1 duda; Albacete: 1 fuera, 0 duda (Antonio Puertas)  
+• Favorito de las casas: Leganes @ 2.00  
+📐 **Estadísticas esperadas**  
+Córners 5.7 - 4.2: total +9.5 52% · Leganes +5.5 48% · Albacete +4.5 40%  
+Tarjetas 2.7 - 2.4: total +5.5 39% · Leganes +2.5 50% · Albacete +3.5 22%  
+Faltas 13.4 - 13.3: total +26.5 50% · Leganes +13.5 47% · Albacete +13.5 46%  
+Tiros a puerta 4.9 - 3.5: total +9.5 34% · Leganes +5.5 37% · Albacete +4.5 28%  
+🧩 Crear apuesta: Menos de 3.5 tarjetas de Albacete + Menos de 4.5 tiros a puerta de Albacete + Menos de 2.5 goles → prob. 38%, cuota justa 2.60 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 3.5 tarjetas de Albacete + Menos de 4.5 tiros a puerta de Albacete + Menos de 2.5 goles + Menos de 4.5 córners de Albacete → prob. 24%, cuota justa 4.21  
+🎯 Simulada (con cuota: Menos de 2.5 goles + Menos de 4.5 córners de Albacete): cuota Unibet aprox. 2.97 (producto de piernas) · prob. 37% · ventaja +9% → 1 u en la banca de simulación  
 
 ## Den Haag vs Sparta Rotterdam — 07/11 · 18:45
 
@@ -10468,6 +11035,7 @@ Faltas 13.1 - 10.5: total +21.5 64% · Den Haag +10.5 74% · Sparta Rotterdam +1
 Tiros a puerta 5.9 - 5.1: total +10.5 52% · Den Haag +5.5 52% · Sparta Rotterdam +4.5 55%  
 🧩 Crear apuesta: Más de 10.5 faltas de Den Haag + Más de 2.5 goles + Menos de 1.5 tarjetas de Den Haag → prob. 26%, cuota justa 3.77 (solo vale si la casa paga más)  
 🚀 Combinada larga: Más de 10.5 faltas de Den Haag + Más de 2.5 goles + Menos de 1.5 tarjetas de Den Haag + Menos de 4.5 córners de Sparta Rotterdam + Más de 4.5 tiros a puerta de Sparta Rotterdam → prob. 8%, cuota justa 11.81  
+🎯 Simulada (con cuota: Menos de 1.5 tarjetas de Den Haag + Menos de 4.5 córners de Sparta Rotterdam): cuota Unibet aprox. 3.67 (producto de piernas) · prob. 34% · ventaja +25% → 1 u en la banca de simulación  
 
 ## Aberdeen vs Hibernian — 07/11 · 18:45
 
@@ -10493,6 +11061,326 @@ Faltas 12.7 - 12.6: total +23.5 62% · Aberdeen +12.5 50% · Hibernian +12.5 49%
 Tiros a puerta 4.4 - 3.7: total +9.5 29% · Aberdeen +5.5 28% · Hibernian +4.5 31%  
 🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Aberdeen + Menos de 6.5 córners de Aberdeen + Menos de 2.5 tarjetas de Aberdeen → prob. 31%, cuota justa 3.25 (solo vale si la casa paga más)  
 🚀 Combinada larga: Menos de 5.5 tiros a puerta de Aberdeen + Menos de 6.5 córners de Aberdeen + Menos de 2.5 tarjetas de Aberdeen + Más de 23.5 faltas → prob. 18%, cuota justa 5.57  
+🎯 No simulada (crear apuesta): cuota Unibet aprox. 2.85 (producto de piernas) · prob. 31% · ventaja -12%  
+🎯 No simulada (con cuota: Menos de 5.5 tiros a puerta de Aberdeen + Menos de 6.5 córners de Aberdeen): cuota Unibet aprox. 1.90 (producto de piernas) · prob. 49% · ventaja -6%  
+
+## Den Haag vs Sparta Rotterdam — 07/11 · 18:45
+
+👀 candidata · 🇳🇱 Eredivisie · **Más de 3.5 córners de Sparta Rotterdam** @ **1.40** (Unibet) · prob 63% vs casas 66% · ventaja -12%
+
+- ❌ Valor: ventaja -12% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.54 - 1.77)  
+1 30% · X 28% · 2 43%  
+1X 57% · X2 70% · 12 72%  
++1.5 85% · +2.5 64% · +3.5 42% · Ambos marcan 66%  
+Marcadores: 1-1 10% · 1-2 9% · 2-1 8% · 2-2 7%  
+🔎 **Claves**  
+• Forma: Den Haag ➖➖✅❌❌ | Sparta Rotterdam ❌➖✅❌✅  
+• H2H: 8 desde 2016: 3V-1E-4D · 2.9 goles/partido · +2.5 en 50%  
+• Bajas: Den Haag: 0 fuera, 2 duda; Sparta Rotterdam: 1 fuera, 1 duda (Bruno Martins Indi)  
+• Favorito de las casas: Den Haag @ 2.55  
+📐 **Estadísticas esperadas**  
+Córners 5.9 - 4.4: total +10.5 46% · Den Haag +5.5 51% · Sparta Rotterdam +4.5 44%  
+Tarjetas 1.4 - 1.9: total +3.5 40% · Den Haag +1.5 39% · Sparta Rotterdam +1.5 55%  
+Faltas 13.1 - 10.5: total +21.5 64% · Den Haag +10.5 74% · Sparta Rotterdam +11.5 36%  
+Tiros a puerta 5.9 - 5.1: total +10.5 52% · Den Haag +5.5 52% · Sparta Rotterdam +4.5 55%  
+🧩 Crear apuesta: Más de 10.5 faltas de Den Haag + Más de 2.5 goles + Menos de 1.5 tarjetas de Den Haag → prob. 26%, cuota justa 3.77 (solo vale si la casa paga más)  
+🚀 Combinada larga: Más de 10.5 faltas de Den Haag + Más de 2.5 goles + Menos de 1.5 tarjetas de Den Haag + Menos de 4.5 córners de Sparta Rotterdam + Más de 4.5 tiros a puerta de Sparta Rotterdam → prob. 8%, cuota justa 11.81  
+🎯 Simulada (con cuota: Menos de 1.5 tarjetas de Den Haag + Menos de 4.5 córners de Sparta Rotterdam): cuota Unibet aprox. 3.67 (producto de piernas) · prob. 34% · ventaja +25% → 1 u en la banca de simulación  
+
+## Den Haag vs Sparta Rotterdam — 07/11 · 18:45
+
+👀 candidata · 🇳🇱 Eredivisie · **Menos de 3.5 córners de Sparta Rotterdam** @ **2.70** (Unibet) · prob 37% vs casas 34% · ventaja +0%
+
+- ❌ Valor: ventaja +0% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.54 - 1.77)  
+1 30% · X 28% · 2 43%  
+1X 57% · X2 70% · 12 72%  
++1.5 85% · +2.5 64% · +3.5 42% · Ambos marcan 66%  
+Marcadores: 1-1 10% · 1-2 9% · 2-1 8% · 2-2 7%  
+🔎 **Claves**  
+• Forma: Den Haag ➖➖✅❌❌ | Sparta Rotterdam ❌➖✅❌✅  
+• H2H: 8 desde 2016: 3V-1E-4D · 2.9 goles/partido · +2.5 en 50%  
+• Bajas: Den Haag: 0 fuera, 2 duda; Sparta Rotterdam: 1 fuera, 1 duda (Bruno Martins Indi)  
+• Favorito de las casas: Den Haag @ 2.55  
+📐 **Estadísticas esperadas**  
+Córners 5.9 - 4.4: total +10.5 46% · Den Haag +5.5 51% · Sparta Rotterdam +4.5 44%  
+Tarjetas 1.4 - 1.9: total +3.5 40% · Den Haag +1.5 39% · Sparta Rotterdam +1.5 55%  
+Faltas 13.1 - 10.5: total +21.5 64% · Den Haag +10.5 74% · Sparta Rotterdam +11.5 36%  
+Tiros a puerta 5.9 - 5.1: total +10.5 52% · Den Haag +5.5 52% · Sparta Rotterdam +4.5 55%  
+🧩 Crear apuesta: Más de 10.5 faltas de Den Haag + Más de 2.5 goles + Menos de 1.5 tarjetas de Den Haag → prob. 26%, cuota justa 3.77 (solo vale si la casa paga más)  
+🚀 Combinada larga: Más de 10.5 faltas de Den Haag + Más de 2.5 goles + Menos de 1.5 tarjetas de Den Haag + Menos de 4.5 córners de Sparta Rotterdam + Más de 4.5 tiros a puerta de Sparta Rotterdam → prob. 8%, cuota justa 11.81  
+🎯 Simulada (con cuota: Menos de 1.5 tarjetas de Den Haag + Menos de 4.5 córners de Sparta Rotterdam): cuota Unibet aprox. 3.67 (producto de piernas) · prob. 34% · ventaja +25% → 1 u en la banca de simulación  
+
+## Den Haag vs Sparta Rotterdam — 07/11 · 18:45
+
+👀 candidata · 🇳🇱 Eredivisie · **Más de 4.5 córners de Den Haag** @ **1.50** (Unibet) · prob 63% vs casas 62% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.54 - 1.77)  
+1 30% · X 28% · 2 43%  
+1X 57% · X2 70% · 12 72%  
++1.5 85% · +2.5 64% · +3.5 42% · Ambos marcan 66%  
+Marcadores: 1-1 10% · 1-2 9% · 2-1 8% · 2-2 7%  
+🔎 **Claves**  
+• Forma: Den Haag ➖➖✅❌❌ | Sparta Rotterdam ❌➖✅❌✅  
+• H2H: 8 desde 2016: 3V-1E-4D · 2.9 goles/partido · +2.5 en 50%  
+• Bajas: Den Haag: 0 fuera, 2 duda; Sparta Rotterdam: 1 fuera, 1 duda (Bruno Martins Indi)  
+• Favorito de las casas: Den Haag @ 2.55  
+📐 **Estadísticas esperadas**  
+Córners 5.9 - 4.4: total +10.5 46% · Den Haag +5.5 51% · Sparta Rotterdam +4.5 44%  
+Tarjetas 1.4 - 1.9: total +3.5 40% · Den Haag +1.5 39% · Sparta Rotterdam +1.5 55%  
+Faltas 13.1 - 10.5: total +21.5 64% · Den Haag +10.5 74% · Sparta Rotterdam +11.5 36%  
+Tiros a puerta 5.9 - 5.1: total +10.5 52% · Den Haag +5.5 52% · Sparta Rotterdam +4.5 55%  
+🧩 Crear apuesta: Más de 10.5 faltas de Den Haag + Más de 2.5 goles + Menos de 1.5 tarjetas de Den Haag → prob. 26%, cuota justa 3.77 (solo vale si la casa paga más)  
+🚀 Combinada larga: Más de 10.5 faltas de Den Haag + Más de 2.5 goles + Menos de 1.5 tarjetas de Den Haag + Menos de 4.5 córners de Sparta Rotterdam + Más de 4.5 tiros a puerta de Sparta Rotterdam → prob. 8%, cuota justa 11.81  
+🎯 Simulada (con cuota: Menos de 1.5 tarjetas de Den Haag + Menos de 4.5 córners de Sparta Rotterdam): cuota Unibet aprox. 3.67 (producto de piernas) · prob. 34% · ventaja +25% → 1 u en la banca de simulación  
+
+## Den Haag vs Sparta Rotterdam — 07/11 · 18:45
+
+👀 candidata · 🇳🇱 Eredivisie · **Menos de 7.5 córners de Den Haag** @ **1.26** (Unibet) · prob 73% vs casas 73% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.54 - 1.77)  
+1 30% · X 28% · 2 43%  
+1X 57% · X2 70% · 12 72%  
++1.5 85% · +2.5 64% · +3.5 42% · Ambos marcan 66%  
+Marcadores: 1-1 10% · 1-2 9% · 2-1 8% · 2-2 7%  
+🔎 **Claves**  
+• Forma: Den Haag ➖➖✅❌❌ | Sparta Rotterdam ❌➖✅❌✅  
+• H2H: 8 desde 2016: 3V-1E-4D · 2.9 goles/partido · +2.5 en 50%  
+• Bajas: Den Haag: 0 fuera, 2 duda; Sparta Rotterdam: 1 fuera, 1 duda (Bruno Martins Indi)  
+• Favorito de las casas: Den Haag @ 2.55  
+📐 **Estadísticas esperadas**  
+Córners 5.9 - 4.4: total +10.5 46% · Den Haag +5.5 51% · Sparta Rotterdam +4.5 44%  
+Tarjetas 1.4 - 1.9: total +3.5 40% · Den Haag +1.5 39% · Sparta Rotterdam +1.5 55%  
+Faltas 13.1 - 10.5: total +21.5 64% · Den Haag +10.5 74% · Sparta Rotterdam +11.5 36%  
+Tiros a puerta 5.9 - 5.1: total +10.5 52% · Den Haag +5.5 52% · Sparta Rotterdam +4.5 55%  
+🧩 Crear apuesta: Más de 10.5 faltas de Den Haag + Más de 2.5 goles + Menos de 1.5 tarjetas de Den Haag → prob. 26%, cuota justa 3.77 (solo vale si la casa paga más)  
+🚀 Combinada larga: Más de 10.5 faltas de Den Haag + Más de 2.5 goles + Menos de 1.5 tarjetas de Den Haag + Menos de 4.5 córners de Sparta Rotterdam + Más de 4.5 tiros a puerta de Sparta Rotterdam → prob. 8%, cuota justa 11.81  
+🎯 Simulada (con cuota: Menos de 1.5 tarjetas de Den Haag + Menos de 4.5 córners de Sparta Rotterdam): cuota Unibet aprox. 3.67 (producto de piernas) · prob. 34% · ventaja +25% → 1 u en la banca de simulación  
+
+## Den Haag vs Sparta Rotterdam — 07/11 · 18:45
+
+👀 candidata · 🇳🇱 Eredivisie · **Más de 7.5 córners** @ **1.16** (Unibet) · prob 79% vs casas 79% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.54 - 1.77)  
+1 30% · X 28% · 2 43%  
+1X 57% · X2 70% · 12 72%  
++1.5 85% · +2.5 64% · +3.5 42% · Ambos marcan 66%  
+Marcadores: 1-1 10% · 1-2 9% · 2-1 8% · 2-2 7%  
+🔎 **Claves**  
+• Forma: Den Haag ➖➖✅❌❌ | Sparta Rotterdam ❌➖✅❌✅  
+• H2H: 8 desde 2016: 3V-1E-4D · 2.9 goles/partido · +2.5 en 50%  
+• Bajas: Den Haag: 0 fuera, 2 duda; Sparta Rotterdam: 1 fuera, 1 duda (Bruno Martins Indi)  
+• Favorito de las casas: Den Haag @ 2.55  
+📐 **Estadísticas esperadas**  
+Córners 5.9 - 4.4: total +10.5 46% · Den Haag +5.5 51% · Sparta Rotterdam +4.5 44%  
+Tarjetas 1.4 - 1.9: total +3.5 40% · Den Haag +1.5 39% · Sparta Rotterdam +1.5 55%  
+Faltas 13.1 - 10.5: total +21.5 64% · Den Haag +10.5 74% · Sparta Rotterdam +11.5 36%  
+Tiros a puerta 5.9 - 5.1: total +10.5 52% · Den Haag +5.5 52% · Sparta Rotterdam +4.5 55%  
+🧩 Crear apuesta: Más de 10.5 faltas de Den Haag + Más de 2.5 goles + Menos de 1.5 tarjetas de Den Haag → prob. 26%, cuota justa 3.77 (solo vale si la casa paga más)  
+🚀 Combinada larga: Más de 10.5 faltas de Den Haag + Más de 2.5 goles + Menos de 1.5 tarjetas de Den Haag + Menos de 4.5 córners de Sparta Rotterdam + Más de 4.5 tiros a puerta de Sparta Rotterdam → prob. 8%, cuota justa 11.81  
+🎯 Simulada (con cuota: Menos de 1.5 tarjetas de Den Haag + Menos de 4.5 córners de Sparta Rotterdam): cuota Unibet aprox. 3.67 (producto de piernas) · prob. 34% · ventaja +25% → 1 u en la banca de simulación  
+
+## Den Haag vs Sparta Rotterdam — 07/11 · 18:45
+
+👀 candidata · 🇳🇱 Eredivisie · **Menos de 9.5 córners** @ **2.35** (Unibet) · prob 41% vs casas 39% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.54 - 1.77)  
+1 30% · X 28% · 2 43%  
+1X 57% · X2 70% · 12 72%  
++1.5 85% · +2.5 64% · +3.5 42% · Ambos marcan 66%  
+Marcadores: 1-1 10% · 1-2 9% · 2-1 8% · 2-2 7%  
+🔎 **Claves**  
+• Forma: Den Haag ➖➖✅❌❌ | Sparta Rotterdam ❌➖✅❌✅  
+• H2H: 8 desde 2016: 3V-1E-4D · 2.9 goles/partido · +2.5 en 50%  
+• Bajas: Den Haag: 0 fuera, 2 duda; Sparta Rotterdam: 1 fuera, 1 duda (Bruno Martins Indi)  
+• Favorito de las casas: Den Haag @ 2.55  
+📐 **Estadísticas esperadas**  
+Córners 5.9 - 4.4: total +10.5 46% · Den Haag +5.5 51% · Sparta Rotterdam +4.5 44%  
+Tarjetas 1.4 - 1.9: total +3.5 40% · Den Haag +1.5 39% · Sparta Rotterdam +1.5 55%  
+Faltas 13.1 - 10.5: total +21.5 64% · Den Haag +10.5 74% · Sparta Rotterdam +11.5 36%  
+Tiros a puerta 5.9 - 5.1: total +10.5 52% · Den Haag +5.5 52% · Sparta Rotterdam +4.5 55%  
+🧩 Crear apuesta: Más de 10.5 faltas de Den Haag + Más de 2.5 goles + Menos de 1.5 tarjetas de Den Haag → prob. 26%, cuota justa 3.77 (solo vale si la casa paga más)  
+🚀 Combinada larga: Más de 10.5 faltas de Den Haag + Más de 2.5 goles + Menos de 1.5 tarjetas de Den Haag + Menos de 4.5 córners de Sparta Rotterdam + Más de 4.5 tiros a puerta de Sparta Rotterdam → prob. 8%, cuota justa 11.81  
+🎯 Simulada (con cuota: Menos de 1.5 tarjetas de Den Haag + Menos de 4.5 córners de Sparta Rotterdam): cuota Unibet aprox. 3.67 (producto de piernas) · prob. 34% · ventaja +25% → 1 u en la banca de simulación  
+
+## Aberdeen vs Hibernian — 07/11 · 18:45
+
+👀 candidata · 🏴 Premiership escocesa · **Más de 3.5 córners de Hibernian** @ **1.36** (Unibet) · prob 66% vs casas 67% · ventaja -10%
+
+- ❌ Valor: ventaja -10% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.30 - 1.18)  
+1 37% · X 30% · 2 33%  
+1X 67% · X2 63% · 12 70%  
++1.5 71% · +2.5 45% · +3.5 24% · Ambos marcan 51%  
+Marcadores: 1-1 13% · 1-0 10% · 0-1 9% · 0-0 9%  
+🔎 **Claves**  
+• Forma: Aberdeen ➖❌✅❌❌ | Hibernian ➖❌❌❌➖  
+• H2H: 69 desde 2005: 30V-19E-20D · 2.4 goles/partido · +2.5 en 45%  
+• Bajas: Aberdeen: sin bajas; Hibernian: 0 fuera, 1 duda  
+• Favorito de las casas: Aberdeen @ 2.45  
+📐 **Estadísticas esperadas**  
+Córners 5.7 - 4.8: total +11.5 37% · Aberdeen +6.5 36% · Hibernian +4.5 50%  
+Tarjetas 2.1 - 2.3: total +4.5 45% · Aberdeen +2.5 36% · Hibernian +2.5 40%  
+Faltas 12.7 - 12.6: total +23.5 62% · Aberdeen +12.5 50% · Hibernian +12.5 49%  
+Tiros a puerta 4.4 - 3.7: total +9.5 29% · Aberdeen +5.5 28% · Hibernian +4.5 31%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Aberdeen + Menos de 6.5 córners de Aberdeen + Menos de 2.5 tarjetas de Aberdeen → prob. 31%, cuota justa 3.25 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Aberdeen + Menos de 6.5 córners de Aberdeen + Menos de 2.5 tarjetas de Aberdeen + Más de 23.5 faltas → prob. 18%, cuota justa 5.57  
+🎯 No simulada (crear apuesta): cuota Unibet aprox. 2.85 (producto de piernas) · prob. 31% · ventaja -12%  
+🎯 No simulada (con cuota: Menos de 5.5 tiros a puerta de Aberdeen + Menos de 6.5 córners de Aberdeen): cuota Unibet aprox. 1.90 (producto de piernas) · prob. 49% · ventaja -6%  
+
+## Aberdeen vs Hibernian — 07/11 · 18:45
+
+👀 candidata · 🏴 Premiership escocesa · **Menos de 5.5 córners de Hibernian** @ **1.55** (Unibet) · prob 62% vs casas 59% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.30 - 1.18)  
+1 37% · X 30% · 2 33%  
+1X 67% · X2 63% · 12 70%  
++1.5 71% · +2.5 45% · +3.5 24% · Ambos marcan 51%  
+Marcadores: 1-1 13% · 1-0 10% · 0-1 9% · 0-0 9%  
+🔎 **Claves**  
+• Forma: Aberdeen ➖❌✅❌❌ | Hibernian ➖❌❌❌➖  
+• H2H: 69 desde 2005: 30V-19E-20D · 2.4 goles/partido · +2.5 en 45%  
+• Bajas: Aberdeen: sin bajas; Hibernian: 0 fuera, 1 duda  
+• Favorito de las casas: Aberdeen @ 2.45  
+📐 **Estadísticas esperadas**  
+Córners 5.7 - 4.8: total +11.5 37% · Aberdeen +6.5 36% · Hibernian +4.5 50%  
+Tarjetas 2.1 - 2.3: total +4.5 45% · Aberdeen +2.5 36% · Hibernian +2.5 40%  
+Faltas 12.7 - 12.6: total +23.5 62% · Aberdeen +12.5 50% · Hibernian +12.5 49%  
+Tiros a puerta 4.4 - 3.7: total +9.5 29% · Aberdeen +5.5 28% · Hibernian +4.5 31%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Aberdeen + Menos de 6.5 córners de Aberdeen + Menos de 2.5 tarjetas de Aberdeen → prob. 31%, cuota justa 3.25 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Aberdeen + Menos de 6.5 córners de Aberdeen + Menos de 2.5 tarjetas de Aberdeen + Más de 23.5 faltas → prob. 18%, cuota justa 5.57  
+🎯 No simulada (crear apuesta): cuota Unibet aprox. 2.85 (producto de piernas) · prob. 31% · ventaja -12%  
+🎯 No simulada (con cuota: Menos de 5.5 tiros a puerta de Aberdeen + Menos de 6.5 córners de Aberdeen): cuota Unibet aprox. 1.90 (producto de piernas) · prob. 49% · ventaja -6%  
+
+## Aberdeen vs Hibernian — 07/11 · 18:45
+
+👀 candidata · 🏴 Premiership escocesa · **Más de 4.5 córners de Aberdeen** @ **1.50** (Unibet) · prob 62% vs casas 61% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.30 - 1.18)  
+1 37% · X 30% · 2 33%  
+1X 67% · X2 63% · 12 70%  
++1.5 71% · +2.5 45% · +3.5 24% · Ambos marcan 51%  
+Marcadores: 1-1 13% · 1-0 10% · 0-1 9% · 0-0 9%  
+🔎 **Claves**  
+• Forma: Aberdeen ➖❌✅❌❌ | Hibernian ➖❌❌❌➖  
+• H2H: 69 desde 2005: 30V-19E-20D · 2.4 goles/partido · +2.5 en 45%  
+• Bajas: Aberdeen: sin bajas; Hibernian: 0 fuera, 1 duda  
+• Favorito de las casas: Aberdeen @ 2.45  
+📐 **Estadísticas esperadas**  
+Córners 5.7 - 4.8: total +11.5 37% · Aberdeen +6.5 36% · Hibernian +4.5 50%  
+Tarjetas 2.1 - 2.3: total +4.5 45% · Aberdeen +2.5 36% · Hibernian +2.5 40%  
+Faltas 12.7 - 12.6: total +23.5 62% · Aberdeen +12.5 50% · Hibernian +12.5 49%  
+Tiros a puerta 4.4 - 3.7: total +9.5 29% · Aberdeen +5.5 28% · Hibernian +4.5 31%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Aberdeen + Menos de 6.5 córners de Aberdeen + Menos de 2.5 tarjetas de Aberdeen → prob. 31%, cuota justa 3.25 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Aberdeen + Menos de 6.5 córners de Aberdeen + Menos de 2.5 tarjetas de Aberdeen + Más de 23.5 faltas → prob. 18%, cuota justa 5.57  
+🎯 No simulada (crear apuesta): cuota Unibet aprox. 2.85 (producto de piernas) · prob. 31% · ventaja -12%  
+🎯 No simulada (con cuota: Menos de 5.5 tiros a puerta de Aberdeen + Menos de 6.5 córners de Aberdeen): cuota Unibet aprox. 1.90 (producto de piernas) · prob. 49% · ventaja -6%  
+
+## Aberdeen vs Hibernian — 07/11 · 18:45
+
+👀 candidata · 🏴 Premiership escocesa · **Menos de 7.5 córners de Aberdeen** @ **1.27** (Unibet) · prob 74% vs casas 72% · ventaja -7%
+
+- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.30 - 1.18)  
+1 37% · X 30% · 2 33%  
+1X 67% · X2 63% · 12 70%  
++1.5 71% · +2.5 45% · +3.5 24% · Ambos marcan 51%  
+Marcadores: 1-1 13% · 1-0 10% · 0-1 9% · 0-0 9%  
+🔎 **Claves**  
+• Forma: Aberdeen ➖❌✅❌❌ | Hibernian ➖❌❌❌➖  
+• H2H: 69 desde 2005: 30V-19E-20D · 2.4 goles/partido · +2.5 en 45%  
+• Bajas: Aberdeen: sin bajas; Hibernian: 0 fuera, 1 duda  
+• Favorito de las casas: Aberdeen @ 2.45  
+📐 **Estadísticas esperadas**  
+Córners 5.7 - 4.8: total +11.5 37% · Aberdeen +6.5 36% · Hibernian +4.5 50%  
+Tarjetas 2.1 - 2.3: total +4.5 45% · Aberdeen +2.5 36% · Hibernian +2.5 40%  
+Faltas 12.7 - 12.6: total +23.5 62% · Aberdeen +12.5 50% · Hibernian +12.5 49%  
+Tiros a puerta 4.4 - 3.7: total +9.5 29% · Aberdeen +5.5 28% · Hibernian +4.5 31%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Aberdeen + Menos de 6.5 córners de Aberdeen + Menos de 2.5 tarjetas de Aberdeen → prob. 31%, cuota justa 3.25 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Aberdeen + Menos de 6.5 córners de Aberdeen + Menos de 2.5 tarjetas de Aberdeen + Más de 23.5 faltas → prob. 18%, cuota justa 5.57  
+🎯 No simulada (crear apuesta): cuota Unibet aprox. 2.85 (producto de piernas) · prob. 31% · ventaja -12%  
+🎯 No simulada (con cuota: Menos de 5.5 tiros a puerta de Aberdeen + Menos de 6.5 córners de Aberdeen): cuota Unibet aprox. 1.90 (producto de piernas) · prob. 49% · ventaja -6%  
+
+## Aberdeen vs Hibernian — 07/11 · 18:45
+
+👀 candidata · 🏴 Premiership escocesa · **Más de 8.5 córners** @ **1.29** (Unibet) · prob 71% vs casas 71% · ventaja -9%
+
+- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.30 - 1.18)  
+1 37% · X 30% · 2 33%  
+1X 67% · X2 63% · 12 70%  
++1.5 71% · +2.5 45% · +3.5 24% · Ambos marcan 51%  
+Marcadores: 1-1 13% · 1-0 10% · 0-1 9% · 0-0 9%  
+🔎 **Claves**  
+• Forma: Aberdeen ➖❌✅❌❌ | Hibernian ➖❌❌❌➖  
+• H2H: 69 desde 2005: 30V-19E-20D · 2.4 goles/partido · +2.5 en 45%  
+• Bajas: Aberdeen: sin bajas; Hibernian: 0 fuera, 1 duda  
+• Favorito de las casas: Aberdeen @ 2.45  
+📐 **Estadísticas esperadas**  
+Córners 5.7 - 4.8: total +11.5 37% · Aberdeen +6.5 36% · Hibernian +4.5 50%  
+Tarjetas 2.1 - 2.3: total +4.5 45% · Aberdeen +2.5 36% · Hibernian +2.5 40%  
+Faltas 12.7 - 12.6: total +23.5 62% · Aberdeen +12.5 50% · Hibernian +12.5 49%  
+Tiros a puerta 4.4 - 3.7: total +9.5 29% · Aberdeen +5.5 28% · Hibernian +4.5 31%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Aberdeen + Menos de 6.5 córners de Aberdeen + Menos de 2.5 tarjetas de Aberdeen → prob. 31%, cuota justa 3.25 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Aberdeen + Menos de 6.5 córners de Aberdeen + Menos de 2.5 tarjetas de Aberdeen + Más de 23.5 faltas → prob. 18%, cuota justa 5.57  
+🎯 No simulada (crear apuesta): cuota Unibet aprox. 2.85 (producto de piernas) · prob. 31% · ventaja -12%  
+🎯 No simulada (con cuota: Menos de 5.5 tiros a puerta de Aberdeen + Menos de 6.5 córners de Aberdeen): cuota Unibet aprox. 1.90 (producto de piernas) · prob. 49% · ventaja -6%  
+
+## Aberdeen vs Hibernian — 07/11 · 18:45
+
+👀 candidata · 🏴 Premiership escocesa · **Menos de 12.5 córners** @ **1.37** (Unibet) · prob 70% vs casas 67% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.30 - 1.18)  
+1 37% · X 30% · 2 33%  
+1X 67% · X2 63% · 12 70%  
++1.5 71% · +2.5 45% · +3.5 24% · Ambos marcan 51%  
+Marcadores: 1-1 13% · 1-0 10% · 0-1 9% · 0-0 9%  
+🔎 **Claves**  
+• Forma: Aberdeen ➖❌✅❌❌ | Hibernian ➖❌❌❌➖  
+• H2H: 69 desde 2005: 30V-19E-20D · 2.4 goles/partido · +2.5 en 45%  
+• Bajas: Aberdeen: sin bajas; Hibernian: 0 fuera, 1 duda  
+• Favorito de las casas: Aberdeen @ 2.45  
+📐 **Estadísticas esperadas**  
+Córners 5.7 - 4.8: total +11.5 37% · Aberdeen +6.5 36% · Hibernian +4.5 50%  
+Tarjetas 2.1 - 2.3: total +4.5 45% · Aberdeen +2.5 36% · Hibernian +2.5 40%  
+Faltas 12.7 - 12.6: total +23.5 62% · Aberdeen +12.5 50% · Hibernian +12.5 49%  
+Tiros a puerta 4.4 - 3.7: total +9.5 29% · Aberdeen +5.5 28% · Hibernian +4.5 31%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Aberdeen + Menos de 6.5 córners de Aberdeen + Menos de 2.5 tarjetas de Aberdeen → prob. 31%, cuota justa 3.25 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Aberdeen + Menos de 6.5 córners de Aberdeen + Menos de 2.5 tarjetas de Aberdeen + Más de 23.5 faltas → prob. 18%, cuota justa 5.57  
+🎯 No simulada (crear apuesta): cuota Unibet aprox. 2.85 (producto de piernas) · prob. 31% · ventaja -12%  
+🎯 No simulada (con cuota: Menos de 5.5 tiros a puerta de Aberdeen + Menos de 6.5 córners de Aberdeen): cuota Unibet aprox. 1.90 (producto de piernas) · prob. 49% · ventaja -6%  
 
 ## Gimnasia Mendoza vs Ind. Rivadavia — 07/11 · 19:00
 

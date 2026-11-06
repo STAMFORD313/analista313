@@ -58538,12 +58538,12 @@ id,tournament_id,club1,club2,ht1,ht2
 2366131,261111,Basaksehir,Galatasaray,,
 2366132,261111,Fenerbahce,Basaksehir,,
 2366133,261111,Besiktas,Trabzonspor,,
-2366064,261151,Man City,Sporting CP,2,3
-2366065,261151,Arsenal,Juventus,4,0
-2366066,261151,Juventus,Man City,3,0
-2366067,261151,Sporting CP,B Dortmund,3,1
-2366068,261151,B Dortmund,Juventus,0,0
-2366069,261151,Man City,Arsenal,1,0
+2366064,261151,Man City,Sporting CP,2.0,3.0
+2366065,261151,Arsenal,Juventus,4.0,0.0
+2366066,261151,Juventus,Man City,3.0,0.0
+2366067,261151,Sporting CP,B Dortmund,3.0,1.0
+2366068,261151,B Dortmund,Juventus,0.0,0.0
+2366069,261151,Man City,Arsenal,1.0,0.0
 2366070,261151,Arsenal,B Dortmund,,
 2366071,261151,Juventus,Sporting CP,,
 2366072,261151,Sporting CP,Arsenal,,
@@ -58558,3 +58558,23 @@ id,tournament_id,club1,club2,ht1,ht2
 2366081,261151,Sporting CP,Juventus,,
 2366082,261151,Arsenal,Sporting CP,,
 2366083,261151,Man City,B Dortmund,,
+2365612,261123,Spain,France,2,2
+2365613,261123,Germany,England,2,0
+2365614,261123,England,Spain,2,0
+2365615,261123,France,Argentina,3,2
+2365616,261123,Argentina,England,2,3
+2365617,261123,Spain,Germany,3,2
+2365618,261123,Germany,Argentina,3,1
+2365619,261123,England,France,3,1
+2365620,261123,France,Germany,1,1
+2365621,261123,Argentina,Spain,0,1
+2365622,261123,France,Spain,1,0
+2365623,261123,England,Germany,1,3
+2365624,261123,Spain,England,,
+2365625,261123,Argentina,France,,
+2365626,261123,England,Argentina,,
+2365627,261123,Germany,Spain,,
+2365628,261123,Argentina,Germany,,
+2365629,261123,France,England,,
+2365630,261123,Germany,France,,
+2365631,261123,Spain,Argentina,,
