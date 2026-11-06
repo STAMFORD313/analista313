@@ -57860,16 +57860,16 @@ id,tournament_id,club1,club2,ht1,ht2
 2363744,261042,Roma,Napoli,,
 2363745,261042,Juventus,Roma,,
 2363746,261042,Sassuolo,Bologna,,
-2365332,261120,Mexico,Denmark,1,2
-2365333,261120,USA,Ghana,0,2
-2365334,261120,Ghana,Mexico,1,2
-2365335,261120,Denmark,Sweden,2,1
-2365336,261120,Sweden,Ghana,0,2
-2365337,261120,Mexico,USA,2,1
-2365338,261120,USA,Sweden,3,2
-2365339,261120,Ghana,Denmark,4,1
-2365340,261120,Denmark,USA,6,3
-2365341,261120,Sweden,Mexico,1,2
+2365332,261120,Mexico,Denmark,1.0,2.0
+2365333,261120,USA,Ghana,0.0,2.0
+2365334,261120,Ghana,Mexico,1.0,2.0
+2365335,261120,Denmark,Sweden,2.0,1.0
+2365336,261120,Sweden,Ghana,0.0,2.0
+2365337,261120,Mexico,USA,2.0,1.0
+2365338,261120,USA,Sweden,3.0,2.0
+2365339,261120,Ghana,Denmark,4.0,1.0
+2365340,261120,Denmark,USA,6.0,3.0
+2365341,261120,Sweden,Mexico,1.0,2.0
 2365342,261120,Denmark,Mexico,,
 2365343,261120,Ghana,USA,,
 2365344,261120,Mexico,Ghana,,
@@ -57880,3 +57880,43 @@ id,tournament_id,club1,club2,ht1,ht2
 2365349,261120,Denmark,Ghana,,
 2365350,261120,USA,Denmark,,
 2365351,261120,Mexico,Sweden,,
+2365994,261148,Arsenal,Liverpool,0,1
+2365995,261148,Tottenham,Chelsea,1,3
+2365996,261148,Chelsea,Arsenal,1,4
+2365997,261148,Liverpool,Man City,2,1
+2365998,261148,Man City,Chelsea,1,3
+2365999,261148,Arsenal,Tottenham,2,1
+2366000,261148,Tottenham,Man City,2,1
+2366001,261148,Chelsea,Liverpool,1,2
+2366002,261148,Liverpool,Tottenham,,
+2366003,261148,Man City,Arsenal,,
+2366004,261148,Liverpool,Arsenal,,
+2366005,261148,Chelsea,Tottenham,,
+2366006,261148,Arsenal,Chelsea,,
+2366007,261148,Man City,Liverpool,,
+2366008,261148,Chelsea,Man City,,
+2366009,261148,Tottenham,Arsenal,,
+2366010,261148,Man City,Tottenham,,
+2366011,261148,Liverpool,Chelsea,,
+2366012,261148,Tottenham,Liverpool,,
+2366013,261148,Arsenal,Man City,,
+2366154,261158,Leipzig,Stuttgart,2,1
+2366155,261158,B Dortmund,Bayern Munchen,1,2
+2366156,261158,Bayern Munchen,Leipzig,3,1
+2366157,261158,Stuttgart,Frankfurt,1,1
+2366158,261158,Frankfurt,Bayern Munchen,1,1
+2366159,261158,Leipzig,B Dortmund,3,1
+2366160,261158,B Dortmund,Frankfurt,1,4
+2366161,261158,Bayern Munchen,Stuttgart,0,2
+2366162,261158,Stuttgart,B Dortmund,,
+2366163,261158,Frankfurt,Leipzig,,
+2366164,261158,Stuttgart,Leipzig,,
+2366165,261158,Bayern Munchen,B Dortmund,,
+2366166,261158,Leipzig,Bayern Munchen,,
+2366167,261158,Frankfurt,Stuttgart,,
+2366168,261158,Bayern Munchen,Frankfurt,,
+2366169,261158,B Dortmund,Leipzig,,
+2366170,261158,Frankfurt,B Dortmund,,
+2366171,261158,Stuttgart,Bayern Munchen,,
+2366172,261158,B Dortmund,Stuttgart,,
+2366173,261158,Leipzig,Frankfurt,,

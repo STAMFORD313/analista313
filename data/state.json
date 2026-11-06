@@ -2008,7 +2008,12 @@
   "fc|2365091",
   "fc|2365439",
   "fc|2365095",
-  "fc|2366160"
+  "fc|2366160",
+  "cs2|133227",
+  "dota2|133679",
+  "fc|2365098",
+  "fc|2366163",
+  "fc|2366164"
  ],
  "signals": [
   {
@@ -27061,6 +27066,7 @@
   "nba|2026-11-07|Los Angeles Lakers|Portland Trail Blazers",
   "nba|2026-11-07|Dallas Mavericks|Utah Jazz",
   "nba|2026-11-07|Memphis Grizzlies|Oklahoma City Thunder",
-  "nba|2026-11-07|Charlotte Hornets|Boston Celtics"
+  "nba|2026-11-07|Charlotte Hornets|Boston Celtics",
+  "nba|2026-11-07|Atlanta Hawks|Washington Wizards"
  ]
 }
