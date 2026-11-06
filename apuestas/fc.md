@@ -1,6 +1,25 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 06/11/2026 12:36 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 06/11/2026 12:46 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+
+## Revange vs DaVa — 06/11 · 12:54
+
+👀 candidata · 🎮⚽ FC 27 · Bundesliga · **Gana Revange** @ **4.40** (Unibet) · prob 27% vs casas 20% · ventaja +20%
+
+- ✅ Valor: ventaja +20% (mín. 13% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 58.186 partidos)  
+Goles esperados: Revange 2.06 · DaVa 2.68  
+Ganador: Revange 27% · empate 21% · DaVa 51%  
+Total: más de 4.5 goles 51% · menos 49%  
+Hándicap DaVa: −1.5 33% · −2.5 19%  
+🔎 **Claves**  
+• Forma: Revange ❌❌✅✅✅ | DaVa ➖✅✅✅➖  
+• Partidos: Revange 600 | DaVa 1176  
+• Liga: Bundesliga  
+• Unibet: 1 4.40 · X 3.55 · 2 1.58 (sin margen 20%/25%/55%) · ventaja +20%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 4.40 (+20%) · Paf España 4.40 (+20%)  
 
 ## Kril vs Dan_dragonio — 06/11 · 13:09
 

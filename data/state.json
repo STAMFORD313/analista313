@@ -1277,9 +1277,6 @@
   "SP1|2026-11-08|Ath Madrid|Barcelona",
   "P1|2026-11-08|Estrela|Benfica",
   "P1|2026-11-08|Rio Ave|Sp Braga",
-  "cs2|133030",
-  "dota2|132427",
-  "dota2|132439",
   "dota2|132823",
   "dota2|132358",
   "dota2|132824",
@@ -2279,7 +2276,10 @@
   "fc|2365425",
   "fc|2366044",
   "fc|2365415",
-  "fc|2365416"
+  "fc|2365416",
+  "fc|2365227",
+  "fc|2366735",
+  "fc|2365489"
  ],
  "signals": [
   {
@@ -4826,30 +4826,6 @@
    "score": "3-0",
    "result": true,
    "close_p": 0.9111,
-   "logged": true
-  },
-  {
-   "market": "A",
-   "pick": "Kril",
-   "odds": 1.25,
-   "book": "cuota justa (sin casa)",
-   "p": 0.797,
-   "implied": 0.797,
-   "edge": 0.0,
-   "key": "fc|2359989",
-   "match": "Fireline vs Kril",
-   "start": "2026-11-03T11:41:00+00:00",
-   "league": "🎮⚽ FC 27 · Volta Europa League",
-   "sport": "🎮⚽",
-   "context": "EA FC Esoccer Battle Fireline vs Kril (Volta Europa League): goles esperados 2.49-5.29, 1X2 11%/9%/80%. Sin cuotas de casa.",
-   "captured": "2026-11-03T10:11",
-   "version": "b9e51af",
-   "bajas": "",
-   "considered": true,
-   "placed": false,
-   "anunciada": true,
-   "score": "1-10",
-   "result": true,
    "logged": true
   },
   {
@@ -29569,7 +29545,11 @@
    "version": "8dd590d",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "6-2",
+   "result": false,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "H",
@@ -29590,7 +29570,11 @@
    "version": "8dd590d",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "4-3",
+   "result": true,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "AHH",
@@ -40284,6 +40268,65 @@
    "context": "EA FC Esoccer Battle Dan_dragonio vs Radahn (Volta Seria A): goles esperados 3.22-5.43, 1X2 14%/11%/75%. Sin cuotas de casa.",
    "captured": "2026-11-06T11:36",
    "version": "4123844",
+   "bajas": "",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "key": "vp|2026-11-06|Septemvri Sofia|Lokomotiv Sofia",
+   "market": "A",
+   "pick": "Lokomotiv Sofia",
+   "odds": 2.29,
+   "book": "Smarkets",
+   "p": 0.4533,
+   "implied": 0.4533,
+   "edge": 0.04,
+   "match": "Septemvri Sofia vs Lokomotiv Sofia",
+   "start": "2026-11-06T15:00:00+00:00",
+   "league": "💎 Valor vs Pinnacle · Bulgaria - First League",
+   "sport": "⚽💎",
+   "info": [
+    "💎 <b>Valor contra Pinnacle</b>: Smarkets paga 2.29 y el precio justo de Pinnacle es 2.21 (ventaja +4.0%)",
+    "Backtest 2015-2026 (cuota ≤ 2.5, > 3 %): ROI +11 % ± 3 %, CLV +5 %."
+   ],
+   "context": "Septemvri Sofia vs Lokomotiv Sofia (Bulgaria - First League). Estrategia de valor: Smarkets 2.29 frente a Pinnacle justo 2.21.",
+   "captured": "2026-11-06T11:46",
+   "version": "720b44c",
+   "bajas": "",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "H",
+   "pick": "Revange",
+   "odds": 4.4,
+   "book": "Unibet",
+   "implied": 0.199,
+   "edge": 0.205,
+   "sin_stake": true,
+   "p": 0.274,
+   "key": "fc|2365227",
+   "match": "Revange vs DaVa",
+   "start": "2026-11-06T11:54:00+00:00",
+   "league": "🎮⚽ FC 27 · Bundesliga",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 58.186 partidos)",
+    "Goles esperados: Revange 2.06 · DaVa 2.68",
+    "Ganador: Revange 27% · empate 21% · DaVa 51%",
+    "Total: más de 4.5 goles 51% · menos 49%",
+    "Hándicap DaVa: −1.5 33% · −2.5 19%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Revange ❌❌✅✅✅ | DaVa ➖✅✅✅➖",
+    "• Partidos: Revange 600 | DaVa 1176",
+    "• Liga: Bundesliga",
+    "• Unibet: 1 4.40 · X 3.55 · 2 1.58 (sin margen 20%/25%/55%) · ventaja +20%. Sin stake hasta demostrar ROI con estas cuotas.",
+    "• En España: LeoVegas España 4.40 (+20%) · Paf España 4.40 (+20%)"
+   ],
+   "context": "EA FC Esoccer Battle Revange vs DaVa (Bundesliga): goles esperados 2.06-2.68, 1X2 27%/21%/51%. Sin cuotas de casa.",
+   "captured": "2026-11-06T11:46",
+   "version": "720b44c",
    "bajas": "",
    "considered": true,
    "placed": false
