@@ -1,25 +1,25 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 06/11/2026 22:09 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 06/11/2026 22:24 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## hrk vs Skif — 06/11 · 22:22
+## Lufy vs Bosko — 06/11 · 22:32
 
-👀 candidata · 🎮⚽ FC 27 · Portugal Primera · **Gana Skif** @ **4.90** (Unibet) · prob 26% vs casas 18% · ventaja +25%
+👀 candidata · 🎮⚽ FC 27 · Champions League B 2x6 · **Gana Lufy** @ **2.20** (Unibet) · prob 52% vs casas 40% · ventaja +15%
 
-- ✅ Valor: ventaja +25% (mín. 15% con la incertidumbre, máx. 30%)
+- ✅ Valor: ventaja +15% (mín. 12% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 58.688 partidos)  
-Goles esperados: hrk 2.92 · Skif 2.17  
-Ganador: hrk 53% · empate 22% · Skif 26%  
-Total: más de 5.5 goles 40% · menos 60%  
-Hándicap hrk: −1.5 36% · −2.5 21%  
+📊 **Escenarios** (Poisson por jugador, 58.707 partidos)  
+Goles esperados: Lufy 4.79 · Bosko 4.28  
+Ganador: Lufy 52% · empate 13% · Bosko 34%  
+Total: más de 9.5 goles 42% · menos 58%  
+Hándicap Lufy: −1.5 37% · −2.5 25%  
 🔎 **Claves**  
-• Forma: hrk ➖✅❌➖❌ | Skif ❌➖❌❌✅  
-• Partidos: hrk 729 | Skif 547  
-• Liga: Portugal Primera  
-• Unibet: 1 1.43 · X 4.00 · 2 4.90 (sin margen 61%/22%/18%) · ventaja +25%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 4.90 (+25%) · Paf España 4.90 (+25%)  
+• Forma: Lufy ➖❌❌❌✅ | Bosko ❌✅❌✅✅  
+• Partidos: Lufy 704 | Bosko 514  
+• Liga: Champions League B 2x6  
+• Unibet: 1 2.20 · X 4.60 · 2 2.10 (sin margen 40%/19%/41%) · ventaja +15%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.20 (+15%) · Paf España 2.20 (+15%)  
 
 ## curuza vs Skif — 06/11 · 22:58
 
