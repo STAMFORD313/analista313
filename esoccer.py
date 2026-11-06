@@ -436,3 +436,6 @@ def run(state, today, kg):
                                  "context": f"EA FC Esoccer Battle {g['p1']} vs {g['p2']} ({g['league']}): goles esperados {l1:.2f}-{l2:.2f}, "
                                             f"1X2 {p['1']:.0%}/{p['X']:.0%}/{p['2']:.0%}. Sin cuotas de casa."})
     save_predictions(preds)
+    try:  # cuotas de LeoVegas de goles/jugador/hándicap de los próximos partidos: datos para que la combinada aprenda
+        import fc_combo; fc_combo.candidates(hours=2, push=False)  # el workflow de analista sube data/ al final
+    except Exception as e: print("cuotas LeoVegas FC", repr(e)[:120])

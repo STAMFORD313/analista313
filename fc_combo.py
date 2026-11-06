@@ -160,7 +160,7 @@ def lessons(min_n=15, gap=0.10):
     return {k: (n, h, q / n) for k, (n, h, q) in st.items() if n >= min_n and h / n < q / n - gap}
 
 
-def candidates(hours=3):
+def candidates(hours=3, push=True):
     """(piernas candidatas, nº de partidos con cuotas). Cada candidata: dict con lo necesario para mostrar y simular."""
     t0 = time.time()
     m, df = model(); t1 = time.time()
@@ -209,7 +209,7 @@ def candidates(hours=3):
         try:
             old = pd.read_csv(LOG) if LOG.exists() else pd.DataFrame()
             pd.concat([old, pd.DataFrame(log)]).drop_duplicates(["id", "k", "who", "line", "s"], keep="last").to_csv(LOG, index=False)
-            import simulaciones; simulaciones.push("datos: cuotas FC 27 de LeoVegas", LOG)  # para que aprenda con ellas
+            if push: import simulaciones; simulaciones.push("datos: cuotas FC 27 de LeoVegas", LOG)  # para que aprenda con ellas
         except OSError as ex: print("odds_leo", ex)
     print(f"combinada FC 27: {len(games)} partidos, {priced} con cuotas de {BOOK}, {len(cands)} piernas")
     return cands, priced
