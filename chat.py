@@ -1230,6 +1230,9 @@ def _answer(t, short=True):
         import simulaciones
         ks = find(t, D, n=1, kind="equipo")
         return simulaciones.compare(D[ks[0]]["name"] if ks else None)
+    if re.search(r"fc ?2[67]|esoccer|e-?soccer|fifa", q) and re.search(r"leo ?vegas|cuotas reales", q) and not re.search(r"combinad|combi\b|parlay", q):
+        import fc_combo
+        return fc_combo.leo_report()
     if re.search(r"fc ?2[67]|esoccer|e-?soccer|fifa", q) and re.search(r"tabla|ganad|perdid|balance|cuanto|resultado|como va|historial|lleva", q):
         return fc_table()
     if re.search(r"fc ?2[67]|esoccer|e-?soccer|fifa", q) and re.search(r"combinad|combi\b|parlay|cuota|apuesta", q):

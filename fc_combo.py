@@ -203,6 +203,35 @@ def blend_w(min_ids=200, grid=(0.0, 0.15, 0.3, 0.5, 0.7, 1.0)):
     return best
 
 
+def leo_report():
+    """Balance honesto con cuotas reales de LeoVegas: 1 € a cada pierna que habría pasado la lógica (medias, cara a cara,
+    vetos) en los partidos ya jugados de odds_leo.csv. Texto para el chat."""
+    try:
+        o = pd.read_csv(LOG).drop_duplicates(["id", "k", "who", "line", "s"], keep="last")
+        h = pd.read_csv(E.HIST).dropna(subset=["s1", "s2"])
+    except (OSError, ValueError): return "🎮⚽ Aún no hay cuotas de LeoVegas guardadas."
+    o = o.drop(columns=["p1", "p2"], errors="ignore").merge(h[["id", "s1", "s2", "p1", "p2", "date"]], on="id")
+    rows = []
+    for gid, g in o.groupby("id"):
+        r0 = g.iloc[0]; past = h[h.date < r0.date]; same = str(r0.kh) == str(r0.p1).lower()
+        a, b = (r0.p1, r0.p2) if same else (r0.p2, r0.p1)
+        r1, r2, hh = recent(past, a), recent(past, b), h2h(past, a, b)
+        hs, as_ = (r0.s1, r0.s2) if same else (r0.s2, r0.s1)
+        for r in g.itertuples():
+            if (r.k, r.s) in VETO: continue
+            mk = {"k": r.k, "who": None if pd.isna(r.who) else r.who, "line": None if pd.isna(r.line) else r.line}
+            if not coherent(mk, r.s, r1, r2, hh): continue
+            ok, _ = judge({"home": "", "away": "", "fc": {**mk, "s": r.s}}, hs, as_)
+            if ok is not None: rows.append((bool(ok), r.p_casa, r.odds))
+    if not rows: return "🎮⚽ Aún no hay partidos jugados con cuotas de LeoVegas."
+    ok = np.array([x[0] for x in rows]); pc = np.array([x[1] for x in rows]); od = np.array([x[2] for x in rows])
+    pnl = np.where(ok, od - 1, -1.0)
+    return (f"🎮⚽ <b>FC 27 con cuotas reales de LeoVegas</b>\n{o.id.nunique()} partidos jugados · {len(rows)} apuestas que pasan la lógica\n"
+            f"✅ Acierta {ok.mean():.0%} (la casa esperaba {pc.mean():.0%})\n"
+            f"{'🟢' if pnl.sum() > 0 else '🔴'} 1 € a cada una: {pnl.sum():+.2f} € ({pnl.mean():+.1%} por apuesta)\n"
+            f"{'Va por delante de la casa.' if pnl.mean() > 2 * pnl.std() / np.sqrt(len(pnl)) else 'Sin ventaja demostrada: el margen de la casa se come el acierto. Sin dinero real.'}")
+
+
 def candidates(hours=3, push=True):
     """(piernas candidatas, nº de partidos con cuotas). Cada candidata: dict con lo necesario para mostrar y simular."""
     t0 = time.time()

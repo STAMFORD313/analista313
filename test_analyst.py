@@ -1638,3 +1638,16 @@ try:
     assert _FCC.blend_w() == 1.0 and _FCC.blend_w(min_ids=300) == _FCC.W
 finally: _FCC.LOG, _FCC.E.HIST = _log0, _h0
 print("ok peso modelo/casa FC 27")
+
+# balance con cuotas reales de LeoVegas: piernas con lógica ya jugadas
+_d2 = Path(_tf.mkdtemp()); _hist, _rows = [], []
+for _i in range(40):
+    _p1, _p2 = ("a", "b") if _i % 2 else ("b", "a")
+    _hist.append({"id": _i, "date": f"2026-11-0{1 + _i // 10}T{10 + _i % 10:02d}:00:00Z", "p1": _p1, "p2": _p2, "s1": 4, "s2": 3})
+_rows.append({"id": 39, "kh": "a", "k": "tot", "who": None, "line": 4.5, "s": "O", "odds": 1.30, "p_modelo": 0.8, "p_casa": 0.75})
+pd.DataFrame(_rows).to_csv(_d2 / "o.csv", index=False); pd.DataFrame(_hist).to_csv(_d2 / "h.csv", index=False)
+_log0, _h0 = _FCC.LOG, _FCC.E.HIST; _FCC.LOG, _FCC.E.HIST = _d2 / "o.csv", _d2 / "h.csv"
+try:
+    _rep = _FCC.leo_report(); assert "1 partidos jugados · 1 apuestas" in _rep and "+0.30 €" in _rep, _rep
+finally: _FCC.LOG, _FCC.E.HIST = _log0, _h0
+print("ok balance FC 27 con cuotas de LeoVegas")
