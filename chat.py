@@ -1232,6 +1232,14 @@ def _answer(t, short=True):
         return simulaciones.compare(D[ks[0]]["name"] if ks else None)
     if re.search(r"fc ?2[67]|esoccer|e-?soccer|fifa", q) and re.search(r"tabla|ganad|perdid|balance|cuanto|resultado|como va|historial|lleva", q):
         return fc_table()
+    if re.search(r"fc ?2[67]|esoccer|e-?soccer|fifa", q) and re.search(r"combinad|combi\b|parlay|cuota|apuesta", q):
+        import fc_combo
+        m_t = re.search(r"cuota (?:de )?(\d+(?:[.,]\d+)?)", q)
+        target = _f(m_t.group(1)) if m_t and 1.5 <= _f(m_t.group(1)) <= 1000 else 10.0
+        try: text, sim, odds, p = fc_combo.combo(target)
+        except Exception as ex: print("combinada FC", repr(ex)); return f"No he podido mirar las cuotas de FC 27 ahora ({A.esc(type(ex).__name__)})."
+        if sim: remember(f"Combinada FC 27 cuota {odds:.1f}", sim, odds, p)
+        return text + ("\n🧾 ¿La simulo con 1 €? Dime «simúlala»." if sim else "")
     if re.search(r"(ha|han|ya) (finalizado|terminado|acabado)|(finalizo|termino|acabo) (el|los) partido|ya (acabo|termino|finalizo)", q):
         import simulaciones
         done = simulaciones.settle()

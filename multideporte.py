@@ -156,6 +156,10 @@ def judge(leg):
     r = _result(leg)
     if r is None: return None, "sin resultado todavía"
     hs, as_ = r
+    if leg.get("fc"):  # FC 27: goles, goles de un jugador, hándicap o ambos marcan (fc_combo.py)
+        import fc_combo
+        ok, why = fc_combo.judge(leg, hs, as_)
+        return (None if ok is None else bool(ok)), why
     ok = hs > as_ if leg["side"] == "H" else as_ > hs if leg["side"] == "A" else hs == as_
     who = "empate" if hs == as_ else f"ganó {leg.get('home', 'el local') if hs > as_ else leg.get('away', 'el visitante')}"
     return bool(ok), f"{who} {max(hs, as_):g}-{min(hs, as_):g}"  # bool de Python: el de numpy no se puede guardar en JSON

@@ -1561,3 +1561,31 @@ assert esoccer.family("Volta World Cup B") == "volta" and esoccer.family("Champi
 _pf = esoccer.fam_adjust({"1": 0.4, "X": 0.2, "2": 0.4}, "Serie A", "a", "b", w=1.0, table={"a|std": 0.1})
 assert _pf["1"] > _pf["2"]
 print("ok jugador por tipo de liga FC 27")
+
+import fc_combo as _FCC
+_r0 = _FCC.requests.get
+class _Rsp:
+    def __init__(s, d): s.d = d
+    def json(s): return s.d
+_FCC.requests.get = lambda *a, **k: _Rsp({"events": [{"homeName": "Gangwon FC (MeLToSik)", "awayName": "Al Hilal (DaVa)"}], "betOffers": [
+    {"criterion": {"englishLabel": "Total Goals"}, "outcomes": [{"englishLabel": "Over", "line": 4500, "odds": 2150}, {"englishLabel": "Under", "line": 4500, "odds": 1550}]},
+    {"criterion": {"englishLabel": "Total Goals by Al Hilal (DaVa)"}, "outcomes": [{"englishLabel": "Over", "line": 2500, "odds": 1200}, {"englishLabel": "Under", "line": 2500, "odds": 3450}]},
+    {"criterion": {"englishLabel": "Handicap"}, "outcomes": [{"participant": "Gangwon FC (MeLToSik)", "line": 1500, "odds": 3100}, {"participant": "Al Hilal (DaVa)", "line": -1500, "odds": 1260}]},
+    {"criterion": {"englishLabel": "Both Teams To Score"}, "outcomes": [{"englishLabel": "Yes", "odds": 1460}, {"englishLabel": "No", "odds": 2380}]},
+    {"criterion": {"englishLabel": "Total Goals - 1st Half"}, "outcomes": [{"englishLabel": "Over", "line": 1500, "odds": 1500}, {"englishLabel": "Under", "line": 1500, "odds": 2300}]}]})
+try:
+    _mk, _hn, _an = _FCC.offers(1)
+    assert _hn == "meltosik" and _an == "dava" and [m["k"] for m in _mk] == ["tot", "ptot", "hcp", "btts"] and _mk[1]["who"] == "a" and _mk[2]["line"] == 1.5, _mk
+finally: _FCC.requests.get = _r0
+_d = esoccer.markets(2.0, 4.0)[2]
+assert abs(_FCC.model_p({"k": "tot", "line": 4.5}, "O", 2.0, 4.0, _d) + _FCC.model_p({"k": "tot", "line": 4.5}, "U", 2.0, 4.0, _d) - 1) < 1e-9
+assert _FCC.model_p({"k": "hcp", "line": 1.5}, "h", 2.0, 4.0, _d) < 0.5 < _FCC.model_p({"k": "hcp", "line": 1.5}, "a", 2.0, 4.0, _d) + 0.3
+_lg = {"home": "a", "away": "b", "fc": {"k": "ptot", "who": "a", "line": 2.5, "s": "O"}}
+assert _FCC.judge(_lg, 1, 3)[0] is True and "b marcó 3" in _FCC.judge(_lg, 1, 3)[1]
+assert _FCC.judge({"home": "a", "away": "b", "fc": {"k": "hcp", "line": -1.5, "s": "h"}}, 3, 1)[0] is True
+assert _FCC.leg_text({"k": "hcp", "line": -1.5}, "h", "a", "b") == "a −1.5" and _FCC.leg_text({"k": "tot", "line": 4.5}, "O", "a", "b") == "Más de 4.5 goles"
+_cc = [{"edge": 0.05, "q": 0.6, "odds": 1.9, "pm": 0.7, "pc": 0.55, "g": {"p1": f"x{i}", "p2": f"y{i}", "date": "2026-11-06T12:00:00+00:00", "league": "Serie A"},
+        "l1": 3.0, "l2": 2.5, "txt": "Más de 4.5 goles", "fc": {"k": "tot", "who": None, "line": 4.5, "s": "O"}, "form": ("✅", "❌")} for i in range(4)]
+_t, _sim, _o, _p = _FCC.combo(6, cands=_cc)
+assert _sim and len(_sim) == 3 and abs(_o - 1.9 ** 3) < 1e-9 and "Goles esperados" in _t and _sim[0]["src"] == "fc" and _sim[0]["fc"]["k"] == "tot", _t
+print("ok combinada FC 27 con LeoVegas")
