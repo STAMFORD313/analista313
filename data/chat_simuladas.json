@@ -1362,5 +1362,47 @@
   "estado": "pendiente",
   "avisada": false,
   "rev": 1
+ },
+ {
+  "id": "20261107085240397306",
+  "creada": "2026-11-07 08:52:40.397342+00:00",
+  "titulo": "Barrido · Combinada cuota 17.6",
+  "legs": [
+   {
+    "code": null,
+    "start": "2026-11-07 13:00:00+00:00",
+    "home": "Proleter 023",
+    "away": "Vrsac",
+    "txt": "Gana Proleter 023",
+    "odds": 2.6,
+    "p": 0.4444
+   },
+   {
+    "src": "esports:cs2",
+    "side": "H",
+    "code": null,
+    "start": "2026-11-07 17:00:00+00:00",
+    "home": "Monkeys",
+    "away": "SINNERS Legacy",
+    "txt": "Gana Monkeys",
+    "odds": 2.65,
+    "p": 0.47387232704402515
+   },
+   {
+    "code": null,
+    "start": "2026-11-07 17:00:00+00:00",
+    "home": "Cala Pozuelo",
+    "away": "Mexico FC",
+    "txt": "Gana Cala Pozuelo",
+    "odds": 2.55,
+    "p": 0.4374
+   }
+  ],
+  "odds": 17.57,
+  "p": 0.09211156829932075,
+  "stake": 1.0,
+  "estado": "pendiente",
+  "avisada": false,
+  "rev": 1
  }
 ]
