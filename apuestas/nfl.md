@@ -1,50 +1,6 @@
 # 🏈 NFL·NCAA · apuestas de valor
 
-Actualizado 07/11/2026 01:26 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## East Carolina Pirates vs South Florida Bulls — 07/11 · 01:30
-
-👀 candidata · 🏈 NCAA Football · **Más de 39.5 puntos** @ **1.93** (DraftKings) · prob 50% vs casas 50% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 totales» sin pérdidas demostradas
-
-📊 **Escenarios**: total esperado **53.9** puntos · línea 39.5  
-Más 50% · Menos 50%  
-🔎 **Claves**  
-• Forma: East Carolina Pirates ✅✅❌❌✅ | South Florida Bulls ✅❌❌✅✅  
-• H2H: 6 desde 2017: 3-3  
-• Bajas: East Carolina Pirates: sin bajas; South Florida Bulls: sin bajas  
-
-## East Carolina Pirates vs South Florida Bulls — 07/11 · 01:30
-
-👀 candidata · 🏈 NCAA Football · **East Carolina Pirates -1.5** @ **1.89** (DraftKings) · prob 50% vs casas 50% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 hándicap» sin pérdidas demostradas
-
-📊 **Escenarios**: East Carolina Pirates cubre -1.5 con prob. 50% (casas 50%)  
-🔎 **Claves**  
-• Forma: East Carolina Pirates ✅✅❌❌✅ | South Florida Bulls ✅❌❌✅✅  
-• H2H: 6 desde 2017: 3-3  
-• Bajas: East Carolina Pirates: sin bajas; South Florida Bulls: sin bajas  
-
-## East Carolina Pirates vs South Florida Bulls — 07/11 · 01:30
-
-👀 candidata · 🏈 NCAA Football · **Gana East Carolina Pirates** @ **1.80** (DraftKings) · prob 53% vs casas 53% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo con 9.455 partidos y bajas)  
-Gana East Carolina Pirates 45% · Gana South Florida Bulls 55%  
-Casas: East Carolina Pirates 53% · South Florida Bulls 47%  
-Hándicap ECU -1.5 · Total puntos 39.5  
-🔎 **Claves**  
-• Forma: East Carolina Pirates ✅✅❌❌✅ | South Florida Bulls ✅❌❌✅✅  
-• H2H: 6 desde 2017: 3-3  
-• Bajas: East Carolina Pirates: sin bajas; South Florida Bulls: sin bajas  
-• Favorito de las casas: East Carolina Pirates @ 1.80  
+Actualizado 07/11/2026 01:39 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Illinois Fighting Illini vs Nebraska Cornhuskers — 07/11 · 02:00
 

@@ -1,6 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 07/11/2026 01:26 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 07/11/2026 01:39 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Kavviro vs ssstasonn — 07/11 · 02:27
 
@@ -53,6 +53,60 @@ Hándicap believer: −1.5 70% · −2.5 55%
 🔎 **Claves**  
 • Forma: believer ✅❌✅✅✅ | ssstasonn ❌❌❌❌❌  
 • Partidos: believer 928 | ssstasonn 914  
+• Liga: Champions League B  
+• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
+
+## fantazer vs Uruchi — 07/11 · 02:58
+
+👀 candidata · 🎮⚽ FC 27 · Volta International A · **Gana fantazer** @ **1.26** (cuota justa (sin casa)) · prob 80% vs casas 80% · ventaja +0%
+
+- ❌ Valor: ventaja +0% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 58.854 partidos)  
+Goles esperados: fantazer 3.54 · Uruchi 1.49  
+Ganador: fantazer 79% · empate 11% · Uruchi 9%  
+Total: más de 5.5 goles 39% · menos 61%  
+Hándicap fantazer: −1.5 59% · −2.5 41%  
+🔎 **Claves**  
+• Forma: fantazer ✅➖✅➖✅ | Uruchi ❌❌➖✅❌  
+• Partidos: fantazer 1436 | Uruchi 1196  
+• Liga: Volta International A  
+• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
+
+## Koss vs fantazer — 07/11 · 03:16
+
+👀 candidata · 🎮⚽ FC 27 · Volta International A · **Gana fantazer** @ **1.24** (cuota justa (sin casa)) · prob 80% vs casas 80% · ventaja +0%
+
+- ❌ Valor: ventaja +0% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 58.854 partidos)  
+Goles esperados: Koss 1.69 · fantazer 3.88  
+Ganador: Koss 9% · empate 10% · fantazer 80%  
+Total: más de 5.5 goles 48% · menos 52%  
+Hándicap fantazer: −1.5 61% · −2.5 44%  
+🔎 **Claves**  
+• Forma: Koss ❌❌❌❌❌ | fantazer ✅➖✅➖✅  
+• Partidos: Koss 1108 | fantazer 1436  
+• Liga: Volta International A  
+• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
+
+## ssstasonn vs Kavviro — 07/11 · 03:27
+
+👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana Kavviro** @ **1.24** (cuota justa (sin casa)) · prob 81% vs casas 81% · ventaja +0%
+
+- ❌ Valor: ventaja +0% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 58.854 partidos)  
+Goles esperados: ssstasonn 1.69 · Kavviro 4.21  
+Ganador: ssstasonn 8% · empate 12% · Kavviro 81%  
+Total: más de 5.5 goles 54% · menos 46%  
+Hándicap Kavviro: −1.5 66% · −2.5 49%  
+🔎 **Claves**  
+• Forma: ssstasonn ❌❌❌❌❌ | Kavviro ✅➖❌✅✅  
+• Partidos: ssstasonn 915 | Kavviro 775  
 • Liga: Champions League B  
 • Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
 
