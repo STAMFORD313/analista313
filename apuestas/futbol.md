@@ -1,60 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 07/11/2026 17:25 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Gornik Zabrze vs Wieczysta Krakow — 07/11 · 17:30
-
-👀 candidata · 🇵🇱 Ekstraklasa · **Gana Gornik Zabrze** @ **1.60** (Bet365) · prob 60% vs casas 60% · ventaja -3%
-
-- ❌ Valor: ventaja -3% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 2.09 - 1.02)  
-1 63% · X 21% · 2 16%  
-1X 84% · X2 37% · 12 79%  
-+1.5 82% · +2.5 60% · +3.5 38% · Ambos marcan 56%  
-Marcadores: 1-1 10% · 2-1 10% · 2-0 10% · 1-0 9%  
-🔎 **Claves**  
-• Forma: Gornik Zabrze ➖✅➖➖➖ | Wieczysta Krakow ✅❌❌❌❌  
-• H2H: sin precedentes  
-• Bajas: Gornik Zabrze: sin bajas; Wieczysta Krakow: sin bajas  
-• Favorito de las casas: Gornik Zabrze @ 1.60  
-
-## Degerfors vs GAIS — 07/11 · 17:30
-
-👀 candidata · 🇸🇪 Allsvenskan · **Gana Degerfors** @ **3.10** (Bet365) · prob 32% vs casas 32% · ventaja -1%
-
-- ❌ Valor: ventaja -1% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 0.89 - 1.40)  
-1 26% · X 27% · 2 47%  
-1X 53% · X2 74% · 12 73%  
-+1.5 67% · +2.5 40% · +3.5 20% · Ambos marcan 45%  
-Marcadores: 0-1 14% · 1-1 13% · 0-0 11% · 0-2 10%  
-🔎 **Claves**  
-• Forma: Degerfors ➖❌❌❌❌ | GAIS ❌❌➖✅✅  
-• H2H: 3 desde 2025: 0V-1E-2D · 2.3 goles/partido · +2.5 en 33%  
-• Bajas: Degerfors: sin bajas; GAIS: sin bajas  
-• Favorito de las casas: GAIS @ 2.25  
-
-## Orgryte vs Vasteras SK — 07/11 · 17:30
-
-👀 candidata · 🇸🇪 Allsvenskan · **Gana Orgryte** @ **3.00** (Bet365) · prob 32% vs casas 32% · ventaja -3%
-
-- ❌ Valor: ventaja -3% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.77 - 1.69)  
-1 35% · X 26% · 2 38%  
-1X 62% · X2 65% · 12 74%  
-+1.5 86% · +2.5 67% · +3.5 45% · Ambos marcan 68%  
-Marcadores: 1-1 10% · 2-1 8% · 1-2 8% · 2-2 7%  
-🔎 **Claves**  
-• Forma: Orgryte ❌✅➖❌❌ | Vasteras SK ❌✅❌✅✅  
-• H2H: 1 desde 2026: 0V-0E-1D · 2.0 goles/partido · +2.5 en 0%  
-• Bajas: Orgryte: sin bajas; Vasteras SK: sin bajas  
-• Favorito de las casas: Vasteras SK @ 2.20  
+Actualizado 07/11/2026 17:37 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Odense vs Viborg — 07/11 · 18:00
 
