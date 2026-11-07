@@ -1,55 +1,55 @@
 {
- "fecha": "2026-11-07 17:35",
- "n": 1100,
+ "fecha": "2026-11-07 18:04",
+ "n": 1108,
  "rentables": [],
  "bloqueados": [
   {
    "segmento": "mercado=1X2 · cuota=>2.5 · ventaja=>15%",
-   "n": 128,
-   "roi": -0.3438,
-   "se": 0.1286,
+   "n": 129,
+   "roi": -0.3221,
+   "se": 0.1294,
    "roi_antigua": -0.3369,
-   "roi_nueva": -0.3471
+   "roi_nueva": -0.3149
   },
   {
    "segmento": "cuota=>2.5 · ventaja=>15%",
-   "n": 152,
-   "roi": -0.3047,
-   "se": 0.118,
+   "n": 153,
+   "roi": -0.2867,
+   "se": 0.1186,
    "roi_antigua": -0.2138,
-   "roi_nueva": -0.3691
+   "roi_nueva": -0.3378
   },
   {
    "segmento": "deporte=🎮⚽ · cuota=>2.5 · ventaja=>15%",
-   "n": 125,
-   "roi": -0.328,
-   "se": 0.1313,
+   "n": 126,
+   "roi": -0.306,
+   "se": 0.1322,
    "roi_antigua": -0.2859,
-   "roi_nueva": -0.3471
+   "roi_nueva": -0.3149
   },
   {
    "segmento": "mercado=1X2 · ventaja=>15%",
-   "n": 201,
-   "roi": -0.2113,
-   "se": 0.0917,
-   "roi_antigua": -0.0733,
-   "roi_nueva": -0.2851
+   "n": 203,
+   "roi": -0.2021,
+   "se": 0.0918,
+   "roi_antigua": -0.0518,
+   "roi_nueva": -0.283
   },
   {
    "segmento": "deporte=🎮⚽ · mercado=1X2 · ventaja=>15%",
-   "n": 198,
-   "roi": -0.1994,
-   "se": 0.0928,
-   "roi_antigua": -0.0318,
-   "roi_nueva": -0.2851
+   "n": 200,
+   "roi": -0.1902,
+   "se": 0.0929,
+   "roi_antigua": -0.01,
+   "roi_nueva": -0.283
   },
   {
    "segmento": "deporte=🎮⚽ · ventaja=>15%",
-   "n": 198,
-   "roi": -0.1994,
-   "se": 0.0928,
-   "roi_antigua": -0.0318,
-   "roi_nueva": -0.2851
+   "n": 200,
+   "roi": -0.1902,
+   "se": 0.0929,
+   "roi_antigua": -0.01,
+   "roi_nueva": -0.283
   },
   {
    "segmento": "mercado=ganador · ventaja=<0",
@@ -75,11 +75,11 @@
   },
   {
    "segmento": "cuota=1.5-2",
-   "n": 304,
-   "roi": 0.021,
-   "se": 0.0501,
-   "roi_antigua": 0.0894,
-   "roi_nueva": -0.0456,
+   "n": 305,
+   "roi": 0.0177,
+   "se": 0.05,
+   "roi_antigua": 0.0949,
+   "roi_nueva": -0.058,
    "clv": -0.0353,
    "clv_se": 0.0098,
    "clv_n": 30
