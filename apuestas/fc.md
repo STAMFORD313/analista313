@@ -1,6 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 07/11/2026 21:32 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 07/11/2026 21:44 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## tizzy vs ssstasonn — 07/11 · 21:55
 
@@ -19,6 +19,25 @@ Hándicap tizzy: −1.5 72% · −2.5 58%
 • Partidos: tizzy 353 | ssstasonn 934  
 • Liga: World Cup A  
 • Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
+
+## Glumac vs Maki — 07/11 · 21:58
+
+👀 candidata · 🎮⚽ FC 27 · Premier League · **Gana Glumac** @ **2.70** (Unibet) · prob 43% vs casas 32% · ventaja +16%
+
+- ✅ Valor: ventaja +16% (mín. 12% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 59.858 partidos)  
+Goles esperados: Glumac 4.56 · Maki 4.66  
+Ganador: Glumac 43% · empate 16% · Maki 41%  
+Total: más de 9.5 goles 44% · menos 56%  
+Hándicap Maki: −1.5 32% · −2.5 21%  
+🔎 **Claves**  
+• Forma: Glumac ✅❌➖✅❌ | Maki ❌✅❌✅❌  
+• Partidos: Glumac 765 | Maki 929  
+• Liga: Premier League  
+• Unibet: 1 2.70 · X 4.60 · 2 1.80 (sin margen 32%/19%/49%) · ventaja +16%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.70 (+16%) · Paf España 2.70 (+16%)  
 
 ## ssstasonn vs believer — 07/11 · 22:07
 

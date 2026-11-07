@@ -1,6 +1,6 @@
 # 🏈 NFL·NCAA · apuestas de valor
 
-Actualizado 07/11/2026 21:32 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 07/11/2026 21:44 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Kansas Jayhawks vs UCF Knights — 07/11 · 21:45
 
