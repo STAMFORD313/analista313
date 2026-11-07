@@ -1,5 +1,5 @@
 {
- "fecha": "2026-11-06 14:42",
+ "fecha": "2026-11-07 03:15",
  "bo3": {
   "1": {
    "próximos": 20,
@@ -36,18 +36,18 @@
    ]
   },
   "3": {
-   "próximos": 9,
+   "próximos": 8,
    "ejemplo": [
     [
-     "karmine-corp-lol-vs-t1-lol-06-11-2026",
-     "Worlds 2026"
-    ],
-    [
-     "bilibili-gaming-lol-vs-bc81ffe345-08-11-2026",
+     "bilibili-gaming-lol-vs-t1-lol-08-11-2026",
      "Worlds 2026"
     ],
     [
      "invictus-gaming-lol-vs-gen-g-07-11-2026",
+     "Worlds 2026"
+    ],
+    [
+     "25a94bddc5-vs-c9391b4139-14-11-2026",
      "Worlds 2026"
     ]
    ]
@@ -78,18 +78,18 @@
    "ejemplo": []
   },
   "7": {
-   "próximos": 5,
+   "próximos": 4,
    "ejemplo": [
-    [
-     "dplus-1-vs-kingzero-esports-07-11-2026",
-     "BLAST R6 Major Osaka 2026"
-    ],
     [
      "tyloo-r6-vs-all-gamers-r6-07-11-2026",
      "BLAST R6 Major Osaka 2026"
     ],
     [
-     "los-1-vs-afbf5f39ea-07-11-2026",
+     "los-1-vs-ad6a12494f-07-11-2026",
+     "BLAST R6 Major Osaka 2026"
+    ],
+    [
+     "weibo-gaming-r6-vs-d9ccbea869-07-11-2026",
      "BLAST R6 Major Osaka 2026"
     ]
    ]
@@ -98,11 +98,11 @@
    "próximos": 10,
    "ejemplo": [
     [
-     "bigetron-by-vitality-vs-f18a60471f-07-11-2026",
+     "team-liquid-id-vs-bigetron-by-vitality-07-11-2026",
      "MPL Indonesia Season 18"
     ],
     [
-     "6284970248-vs-89d434510f-08-11-2026",
+     "natus-vincere-3-vs-a6b5c66add-08-11-2026",
      "MPL Indonesia Season 18"
     ],
     [
@@ -141,22 +141,19 @@
   }
  },
  "kambi_esports": {
-  "Esports / Call of Duty / Monster Launch Invitational": 8,
+  "Esports / Dota 2 / DreamLeague Div. 2": 8,
   "Esports / CS2 / PGL Major": 8,
-  "Esports / Dota 2 / DreamLeague Div. 2": 6,
   "Esports / CS2 / BLAST Rivals Fall": 4,
-  "Esports / CS2 / Svenska Cupen": 3,
   "Esports / CS2 / STK Ranked": 3,
-  "Esports / CS2 / CCT European Series 14": 2,
-  "Esports / CS2 / CCT South America Series": 2,
-  "Esports / League of Legends / World Championship": 2,
-  "Esports / Rainbow 6 / BLAST Major": 2,
+  "Esports / Overwatch 2 / OWCS KR": 2,
   "Esports / CS2 / IEM Beijing": 2,
-  "Esports / Overwatch 2 / OWCS CN": 2,
   "Esports / CS2 / United21": 2,
-  "Esports / CS2 / NODWIN Clutch Series": 1,
-  "Esports / CS2 / CCT European Series 13": 1,
+  "Esports / Overwatch 2 / OWCS CN": 2,
+  "Esports / CS2 / European Pro League": 2,
+  "Esports / League of Legends / World Championship": 2,
+  "Esports / Rainbow 6 / BLAST Major": 1,
+  "Esports / CS2 / CCT European Series 14": 1,
   "Esports / Honor of Kings / KPL": 1,
-  "Esports / CS2 / European Pro League": 1
+  "Esports / CS2 / Svenska Cupen": 1
  }
 }

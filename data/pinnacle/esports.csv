@@ -144,49 +144,52 @@ matchup,start,league,home,away,market,line,o_home,o_away,o_draw,o_over,o_under,s
 1640142357,2026-11-06 22:30:00+00:00,Call of Duty - Monster Launch Invitational,FC Stallions,Carolina Royal Ravens,moneyline,,1.9091,1.8333,,,,2026-11-06 22:04:39.169149+00:00
 1640066574,2026-11-07 00:30:00+00:00,Rainbow Six - Blast R6 Major Osaka,KINGZERO,Dplus,moneyline,,9.12,1.06,,,,2026-11-07 00:06:40.946255+00:00
 1640066575,2026-11-07 03:30:00+00:00,Rainbow Six - Blast R6 Major Osaka,All Gamers,TYLOO,moneyline,,1.2625,3.59,,,,2026-11-07 01:06:51.261259+00:00
-1640085482,2026-11-07 05:00:00+00:00,League of Legends - LCK AS Academy League,T1 Academy Rookies,Dplus KIA Youth,moneyline,,1.3279,3.12,,,,2026-11-07 02:32:02.224159+00:00
-1640085482,2026-11-07 05:00:00+00:00,League of Legends - LCK AS Academy League,T1 Academy Rookies,Dplus KIA Youth,spread,-1.5,1.7874,1.9901,,,,2026-11-07 02:32:02.224159+00:00
-1640085482,2026-11-07 05:00:00+00:00,League of Legends - LCK AS Academy League,T1 Academy Rookies,Dplus KIA Youth,total,3.5,,,,1.3817,2.7,2026-11-07 02:32:02.224159+00:00
-1640045207,2026-11-09 19:00:00+00:00,CS2 - DACH CS Masters,Huskies,Pandaric,moneyline,,1.7092,2.09,,,,2026-11-07 02:32:02.224159+00:00
-1640045207,2026-11-09 19:00:00+00:00,CS2 - DACH CS Masters,Huskies,Pandaric,spread,-1.5,2.9,1.3774,,,,2026-11-07 02:32:02.224159+00:00
-1640045207,2026-11-09 19:00:00+00:00,CS2 - DACH CS Masters,Huskies,Pandaric,total,2.5,,,,2.02,1.7692,2026-11-07 02:32:02.224159+00:00
-1640162263,2026-11-07 02:45:00+00:00,Rainbow Six - Blast R6 Major Osaka,All Gamers,TYLOO,moneyline,,1.1845,4.47,,,,2026-11-07 02:32:02.224159+00:00
-1640162263,2026-11-07 02:45:00+00:00,Rainbow Six - Blast R6 Major Osaka,All Gamers,TYLOO,spread,-1.5,1.7143,2.05,,,,2026-11-07 02:32:02.224159+00:00
-1640162263,2026-11-07 02:45:00+00:00,Rainbow Six - Blast R6 Major Osaka,All Gamers,TYLOO,total,2.5,,,,2.44,1.5102,2026-11-07 02:32:02.224159+00:00
-1640060240,2026-11-07 13:00:00+00:00,Dota 2 - DreamLeague Division 2,Froglings,Nemiga,moneyline,,1.4292,2.75,,,,2026-11-07 02:32:02.224159+00:00
-1640060240,2026-11-07 13:00:00+00:00,Dota 2 - DreamLeague Division 2,Froglings,Nemiga,spread,-1.5,2.39,1.5587,,,,2026-11-07 02:32:02.224159+00:00
-1640060240,2026-11-07 13:00:00+00:00,Dota 2 - DreamLeague Division 2,Froglings,Nemiga,total,2.5,,,,2.01,1.7752,2026-11-07 02:32:02.224159+00:00
-1640060296,2026-11-07 06:30:00+00:00,CS2 - IEM Beijing,The MongolZ,Natus Vincere,moneyline,,3.04,1.4098,,,,2026-11-07 02:32:02.224159+00:00
-1640060296,2026-11-07 06:30:00+00:00,CS2 - IEM Beijing,The MongolZ,Natus Vincere,spread,1.5,1.6536,2.3,,,,2026-11-07 02:32:02.224159+00:00
-1640060296,2026-11-07 06:30:00+00:00,CS2 - IEM Beijing,The MongolZ,Natus Vincere,total,2.5,,,,2.19,1.7194,2026-11-07 02:32:02.224159+00:00
-1639848527,2026-11-09 19:00:00+00:00,CS2 - Dust2.dk Ligaen,MASONIC,EAC Extra,moneyline,,1.6897,2.08,,,,2026-11-07 02:32:02.224159+00:00
-1639854972,2026-11-09 20:00:00+00:00,CS2 - Dust2.dk Ligaen,ECSTATIC,struggletony,moneyline,,1.4717,2.52,,,,2026-11-07 02:32:02.224159+00:00
-1640085490,2026-11-07 16:00:00+00:00,Dota 2 - Asgard Championship,Xipto,angry birds,moneyline,,1.5587,2.39,,,,2026-11-07 02:32:02.224159+00:00
-1640085490,2026-11-07 16:00:00+00:00,Dota 2 - Asgard Championship,Xipto,angry birds,spread,-1.5,2.69,1.4464,,,,2026-11-07 02:32:02.224159+00:00
-1640085490,2026-11-07 16:00:00+00:00,Dota 2 - Asgard Championship,Xipto,angry birds,total,2.5,,,,1.9434,1.8264,2026-11-07 02:32:02.224159+00:00
-1640045846,2026-11-07 10:00:00+00:00,Dota 2 - DreamLeague Division 2,Xipto,Froglings,moneyline,,2.33,1.5848,,,,2026-11-07 02:32:02.224159+00:00
-1640045846,2026-11-07 10:00:00+00:00,Dota 2 - DreamLeague Division 2,Xipto,Froglings,spread,1.5,1.4255,2.76,,,,2026-11-07 02:32:02.224159+00:00
-1640045846,2026-11-07 10:00:00+00:00,Dota 2 - DreamLeague Division 2,Xipto,Froglings,total,2.5,,,,1.9346,1.8403,2026-11-07 02:32:02.224159+00:00
-1639848528,2026-11-09 20:00:00+00:00,CS2 - Dust2.dk Ligaen,MASONIC,XI Esport,moneyline,,1.5051,2.44,,,,2026-11-07 02:32:02.224159+00:00
-1640095055,2026-11-07 13:00:00+00:00,Dota 2 - Asgard Championship,Nemiga,Puckchamp,moneyline,,1.1597,4.67,,,,2026-11-07 02:32:02.224159+00:00
-1640095055,2026-11-07 13:00:00+00:00,Dota 2 - Asgard Championship,Nemiga,Puckchamp,spread,-1.5,1.7042,2.12,,,,2026-11-07 02:32:02.224159+00:00
-1640095055,2026-11-07 13:00:00+00:00,Dota 2 - Asgard Championship,Nemiga,Puckchamp,total,2.5,,,,2.44,1.5263,2026-11-07 02:32:02.224159+00:00
-1639986860,2026-11-07 22:00:00+00:00,League of Legends - World Championship,Gen.G,Invictus,moneyline,,1.2024,4.58,,,,2026-11-07 02:32:02.224159+00:00
-1639986860,2026-11-07 22:00:00+00:00,League of Legends - World Championship,Gen.G,Invictus,spread,-2.5,2.57,1.5348,,,,2026-11-07 02:32:02.224159+00:00
-1639986860,2026-11-07 22:00:00+00:00,League of Legends - World Championship,Gen.G,Invictus,total,3.5,,,,1.578,2.32,2026-11-07 02:32:02.224159+00:00
-1639979766,2026-11-07 09:00:00+00:00,CS2 - United21,gothboiclique,9INE Academy,moneyline,,1.3268,3.13,,,,2026-11-07 02:32:02.224159+00:00
-1639979766,2026-11-07 09:00:00+00:00,CS2 - United21,gothboiclique,9INE Academy,spread,-1.5,2.08,1.7246,,,,2026-11-07 02:32:02.224159+00:00
-1639979766,2026-11-07 09:00:00+00:00,CS2 - United21,gothboiclique,9INE Academy,total,2.5,,,,2.21,1.6369,2026-11-07 02:32:02.224159+00:00
-1639904618,2026-11-07 11:30:00+00:00,CS2 - European Pro League,Lunacy,MAYBE,moneyline,,1.3731,3.06,,,,2026-11-07 02:32:02.224159+00:00
-1639904618,2026-11-07 11:30:00+00:00,CS2 - European Pro League,Lunacy,MAYBE,spread,-1.5,2.18,1.6944,,,,2026-11-07 02:32:02.224159+00:00
-1639904618,2026-11-07 11:30:00+00:00,CS2 - European Pro League,Lunacy,MAYBE,total,2.5,,,,2.21,1.6803,2026-11-07 02:32:02.224159+00:00
-1640085483,2026-11-07 09:00:00+00:00,League of Legends - LCK AS Academy League,HANJIN BRION Academy,Hanwha Life Academy,moneyline,,2.45,1.5236,,,,2026-11-07 02:32:02.224159+00:00
-1640085483,2026-11-07 09:00:00+00:00,League of Legends - LCK AS Academy League,HANJIN BRION Academy,Hanwha Life Academy,spread,1.5,1.6803,2.14,,,,2026-11-07 02:32:02.224159+00:00
-1640085483,2026-11-07 09:00:00+00:00,League of Legends - LCK AS Academy League,HANJIN BRION Academy,Hanwha Life Academy,total,4.5,,,,2.57,1.4237,2026-11-07 02:32:02.224159+00:00
-1640162133,2026-11-08 22:00:00+00:00,League of Legends - World Championship,Bilibili,T1,moneyline,,1.6667,2.27,,,,2026-11-07 02:32:02.224159+00:00
-1640162133,2026-11-08 22:00:00+00:00,League of Legends - World Championship,Bilibili,T1,spread,-1.5,2.44,1.5882,,,,2026-11-07 02:32:02.224159+00:00
-1640162133,2026-11-08 22:00:00+00:00,League of Legends - World Championship,Bilibili,T1,total,4.5,,,,2.6,1.4673,2026-11-07 02:32:02.224159+00:00
-1639848629,2026-11-09 18:00:00+00:00,CS2 - Dust2.dk Ligaen,EAC Extra,MASQ,moneyline,,1.4545,2.57,,,,2026-11-07 02:32:02.224159+00:00
-1640085493,2026-11-07 09:45:00+00:00,CS2 - IEM Beijing,MOUZ,BB Team,moneyline,,1.3472,3.38,,,,2026-11-07 02:32:02.224159+00:00
-1640085493,2026-11-07 09:45:00+00:00,CS2 - IEM Beijing,MOUZ,BB Team,spread,-1.5,2.18,1.7246,,,,2026-11-07 02:32:02.224159+00:00
-1640085493,2026-11-07 09:45:00+00:00,CS2 - IEM Beijing,MOUZ,BB Team,total,2.5,,,,2.24,1.6897,2026-11-07 02:32:02.224159+00:00
+1639848527,2026-11-09 19:00:00+00:00,CS2 - Dust2.dk Ligaen,MASONIC,EAC Extra,moneyline,,1.6897,2.08,,,,2026-11-07 03:15:56.935298+00:00
+1640085482,2026-11-07 05:00:00+00:00,League of Legends - LCK AS Academy League,T1 Academy Rookies,Dplus KIA Youth,moneyline,,1.3279,3.12,,,,2026-11-07 03:15:56.935298+00:00
+1640085482,2026-11-07 05:00:00+00:00,League of Legends - LCK AS Academy League,T1 Academy Rookies,Dplus KIA Youth,spread,-1.5,1.7874,1.9901,,,,2026-11-07 03:15:56.935298+00:00
+1640085482,2026-11-07 05:00:00+00:00,League of Legends - LCK AS Academy League,T1 Academy Rookies,Dplus KIA Youth,total,3.5,,,,1.3817,2.7,2026-11-07 03:15:56.935298+00:00
+1640085490,2026-11-07 16:00:00+00:00,Dota 2 - Asgard Championship,Xipto,angry birds,moneyline,,1.5587,2.39,,,,2026-11-07 03:15:56.935298+00:00
+1640085490,2026-11-07 16:00:00+00:00,Dota 2 - Asgard Championship,Xipto,angry birds,spread,-1.5,2.69,1.4464,,,,2026-11-07 03:15:56.935298+00:00
+1640085490,2026-11-07 16:00:00+00:00,Dota 2 - Asgard Championship,Xipto,angry birds,total,2.5,,,,1.9434,1.8264,2026-11-07 03:15:56.935298+00:00
+1640142331,2026-11-07 09:00:00+00:00,CS2 - CCT European Series 14 Qualifier,Four Magic,MASONIC,moneyline,,2.76,1.4149,,,,2026-11-07 03:15:56.935298+00:00
+1640142331,2026-11-07 09:00:00+00:00,CS2 - CCT European Series 14 Qualifier,Four Magic,MASONIC,spread,1.5,1.6135,2.25,,,,2026-11-07 03:15:56.935298+00:00
+1640142331,2026-11-07 09:00:00+00:00,CS2 - CCT European Series 14 Qualifier,Four Magic,MASONIC,total,2.5,,,,2.13,1.6849,2026-11-07 03:15:56.935298+00:00
+1639986860,2026-11-07 22:00:00+00:00,League of Legends - World Championship,Gen.G,Invictus,moneyline,,1.2062,4.53,,,,2026-11-07 03:15:56.935298+00:00
+1639986860,2026-11-07 22:00:00+00:00,League of Legends - World Championship,Gen.G,Invictus,spread,-2.5,2.59,1.5263,,,,2026-11-07 03:15:56.935298+00:00
+1639986860,2026-11-07 22:00:00+00:00,League of Legends - World Championship,Gen.G,Invictus,total,3.5,,,,1.5714,2.34,2026-11-07 03:15:56.935298+00:00
+1639848629,2026-11-09 18:00:00+00:00,CS2 - Dust2.dk Ligaen,EAC Extra,MASQ,moneyline,,1.4545,2.57,,,,2026-11-07 03:15:56.935298+00:00
+1640060296,2026-11-07 06:30:00+00:00,CS2 - IEM Beijing,The MongolZ,Natus Vincere,moneyline,,3.03,1.4115,,,,2026-11-07 03:15:56.935298+00:00
+1640060296,2026-11-07 06:30:00+00:00,CS2 - IEM Beijing,The MongolZ,Natus Vincere,spread,1.5,1.6494,2.32,,,,2026-11-07 03:15:56.935298+00:00
+1640060296,2026-11-07 06:30:00+00:00,CS2 - IEM Beijing,The MongolZ,Natus Vincere,total,2.5,,,,2.18,1.7246,2026-11-07 03:15:56.935298+00:00
+1639854972,2026-11-09 20:00:00+00:00,CS2 - Dust2.dk Ligaen,ECSTATIC,struggletony,moneyline,,1.4717,2.52,,,,2026-11-07 03:15:56.935298+00:00
+1640085493,2026-11-07 09:45:00+00:00,CS2 - IEM Beijing,MOUZ,BB Team,moneyline,,1.3472,3.38,,,,2026-11-07 03:15:56.935298+00:00
+1640085493,2026-11-07 09:45:00+00:00,CS2 - IEM Beijing,MOUZ,BB Team,spread,-1.5,2.18,1.7246,,,,2026-11-07 03:15:56.935298+00:00
+1640085493,2026-11-07 09:45:00+00:00,CS2 - IEM Beijing,MOUZ,BB Team,total,2.5,,,,2.24,1.6897,2026-11-07 03:15:56.935298+00:00
+1640045846,2026-11-07 10:00:00+00:00,Dota 2 - DreamLeague Division 2,Xipto,Froglings,moneyline,,2.33,1.5848,,,,2026-11-07 03:15:56.935298+00:00
+1640045846,2026-11-07 10:00:00+00:00,Dota 2 - DreamLeague Division 2,Xipto,Froglings,spread,1.5,1.4255,2.76,,,,2026-11-07 03:15:56.935298+00:00
+1640045846,2026-11-07 10:00:00+00:00,Dota 2 - DreamLeague Division 2,Xipto,Froglings,total,2.5,,,,1.9346,1.8403,2026-11-07 03:15:56.935298+00:00
+1640085483,2026-11-07 09:00:00+00:00,League of Legends - LCK AS Academy League,HANJIN BRION Academy,Hanwha Life Academy,moneyline,,2.45,1.5236,,,,2026-11-07 03:15:56.935298+00:00
+1640085483,2026-11-07 09:00:00+00:00,League of Legends - LCK AS Academy League,HANJIN BRION Academy,Hanwha Life Academy,spread,1.5,1.6803,2.14,,,,2026-11-07 03:15:56.935298+00:00
+1640085483,2026-11-07 09:00:00+00:00,League of Legends - LCK AS Academy League,HANJIN BRION Academy,Hanwha Life Academy,total,4.5,,,,2.57,1.4237,2026-11-07 03:15:56.935298+00:00
+1640095055,2026-11-07 13:00:00+00:00,Dota 2 - Asgard Championship,Nemiga,Puckchamp,moneyline,,1.1597,4.67,,,,2026-11-07 03:15:56.935298+00:00
+1640095055,2026-11-07 13:00:00+00:00,Dota 2 - Asgard Championship,Nemiga,Puckchamp,spread,-1.5,1.7042,2.12,,,,2026-11-07 03:15:56.935298+00:00
+1640095055,2026-11-07 13:00:00+00:00,Dota 2 - Asgard Championship,Nemiga,Puckchamp,total,2.5,,,,2.44,1.5263,2026-11-07 03:15:56.935298+00:00
+1639904618,2026-11-07 11:30:00+00:00,CS2 - European Pro League,Lunacy,MAYBE,moneyline,,1.361,3.11,,,,2026-11-07 03:15:56.935298+00:00
+1639904618,2026-11-07 11:30:00+00:00,CS2 - European Pro League,Lunacy,MAYBE,spread,-1.5,2.15,1.7143,,,,2026-11-07 03:15:56.935298+00:00
+1639904618,2026-11-07 11:30:00+00:00,CS2 - European Pro League,Lunacy,MAYBE,total,2.5,,,,2.23,1.6667,2026-11-07 03:15:56.935298+00:00
+1640162263,2026-11-07 03:30:00+00:00,Rainbow Six - Blast R6 Major Osaka,All Gamers,TYLOO,moneyline,,1.1845,4.47,,,,2026-11-07 03:15:56.935298+00:00
+1640162263,2026-11-07 03:30:00+00:00,Rainbow Six - Blast R6 Major Osaka,All Gamers,TYLOO,spread,-1.5,1.7143,2.05,,,,2026-11-07 03:15:56.935298+00:00
+1640162263,2026-11-07 03:30:00+00:00,Rainbow Six - Blast R6 Major Osaka,All Gamers,TYLOO,total,2.5,,,,2.44,1.5102,2026-11-07 03:15:56.935298+00:00
+1639979766,2026-11-07 09:00:00+00:00,CS2 - United21,gothboiclique,9INE Academy,moneyline,,1.3268,3.13,,,,2026-11-07 03:15:56.935298+00:00
+1639979766,2026-11-07 09:00:00+00:00,CS2 - United21,gothboiclique,9INE Academy,spread,-1.5,2.08,1.7246,,,,2026-11-07 03:15:56.935298+00:00
+1639979766,2026-11-07 09:00:00+00:00,CS2 - United21,gothboiclique,9INE Academy,total,2.5,,,,2.21,1.6369,2026-11-07 03:15:56.935298+00:00
+1640045207,2026-11-09 19:00:00+00:00,CS2 - DACH CS Masters,Huskies,Pandaric,moneyline,,1.7092,2.09,,,,2026-11-07 03:15:56.935298+00:00
+1640045207,2026-11-09 19:00:00+00:00,CS2 - DACH CS Masters,Huskies,Pandaric,spread,-1.5,2.9,1.3774,,,,2026-11-07 03:15:56.935298+00:00
+1640045207,2026-11-09 19:00:00+00:00,CS2 - DACH CS Masters,Huskies,Pandaric,total,2.5,,,,2.02,1.7692,2026-11-07 03:15:56.935298+00:00
+1639848528,2026-11-09 20:00:00+00:00,CS2 - Dust2.dk Ligaen,MASONIC,XI Esport,moneyline,,1.5051,2.44,,,,2026-11-07 03:15:56.935298+00:00
+1640162133,2026-11-08 22:00:00+00:00,League of Legends - World Championship,Bilibili,T1,moneyline,,1.6711,2.26,,,,2026-11-07 03:15:56.935298+00:00
+1640162133,2026-11-08 22:00:00+00:00,League of Legends - World Championship,Bilibili,T1,spread,-1.5,2.44,1.5848,,,,2026-11-07 03:15:56.935298+00:00
+1640162133,2026-11-08 22:00:00+00:00,League of Legends - World Championship,Bilibili,T1,total,4.5,,,,2.6,1.4673,2026-11-07 03:15:56.935298+00:00
+1640060240,2026-11-07 13:00:00+00:00,Dota 2 - DreamLeague Division 2,Froglings,Nemiga,moneyline,,1.4292,2.75,,,,2026-11-07 03:15:56.935298+00:00
+1640060240,2026-11-07 13:00:00+00:00,Dota 2 - DreamLeague Division 2,Froglings,Nemiga,spread,-1.5,2.39,1.5587,,,,2026-11-07 03:15:56.935298+00:00
+1640060240,2026-11-07 13:00:00+00:00,Dota 2 - DreamLeague Division 2,Froglings,Nemiga,total,2.5,,,,2.01,1.7752,2026-11-07 03:15:56.935298+00:00
