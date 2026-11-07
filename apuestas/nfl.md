@@ -1,6 +1,6 @@
 # 🏈 NFL·NCAA · apuestas de valor
 
-Actualizado 07/11/2026 23:22 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 07/11/2026 23:53 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Colorado State Rams vs Boise State Broncos — 08/11 · 00:00
 
