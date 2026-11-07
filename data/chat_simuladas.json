@@ -1331,7 +1331,10 @@
     "away": "GAIS",
     "txt": "Gana GAIS",
     "odds": 2.4,
-    "p": 0.4309
+    "p": 0.4309,
+    "ok": true,
+    "por": "ganó GAIS, acabó 1-2",
+    "clv": 0.008
    },
    {
     "src": "esports:cs2",
