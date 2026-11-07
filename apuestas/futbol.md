@@ -1,224 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 07/11/2026 20:04 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Widzew Lodz vs Pogon Szczecin — 07/11 · 20:15
-
-👀 candidata · 🇵🇱 Ekstraklasa · **Gana Widzew Lodz** @ **2.15** (Bet365) · prob 44% vs casas 44% · ventaja -6%
-
-- ❌ Valor: ventaja -6% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.08 - 1.21)  
-1 33% · X 29% · 2 38%  
-1X 62% · X2 67% · 12 71%  
-+1.5 67% · +2.5 40% · +3.5 20% · Ambos marcan 47%  
-Marcadores: 1-1 14% · 0-1 12% · 0-0 11% · 1-0 10%  
-🔎 **Claves**  
-• Forma: Widzew Lodz ➖❌➖➖❌ | Pogon Szczecin ✅✅✅✅❌  
-• H2H: 12 desde 2012: 1V-2E-9D · 2.9 goles/partido · +2.5 en 67%  
-• Bajas: Widzew Lodz: sin bajas; Pogon Szczecin: sin bajas  
-• Favorito de las casas: Widzew Lodz @ 2.15  
-
-## Grasshoppers vs Lausanne — 07/11 · 20:30
-
-👀 candidata · 🇨🇭 Super League · **Gana Grasshoppers** @ **2.45** (Bet365) · prob 39% vs casas 39% · ventaja -5%
-
-- ❌ Valor: ventaja -5% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.42 - 1.21)  
-1 43% · X 27% · 2 30%  
-1X 70% · X2 57% · 12 73%  
-+1.5 74% · +2.5 49% · +3.5 27% · Ambos marcan 54%  
-Marcadores: 1-1 13% · 1-0 10% · 2-1 9% · 0-1 8%  
-🔎 **Claves**  
-• Forma: Grasshoppers ❌❌❌➖➖ | Lausanne ❌❌❌❌❌  
-• H2H: 32 desde 2012: 15V-13E-4D · 2.4 goles/partido · +2.5 en 41%  
-• Bajas: Grasshoppers: sin bajas; Lausanne: sin bajas  
-• Favorito de las casas: Grasshoppers @ 2.45  
-
-## Hertha vs Wolfsburg — 07/11 · 20:30
-
-👀 candidata · 🇩🇪 2. Bundesliga · **Wolfsburg +0.25 (hándicap asiático)** @ **1.95** (mejor del mercado) · prob 50% vs casas 49% · ventaja -3%
-
-- ❌ Valor: ventaja -3% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ hándicap» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.48 - 1.59)  
-1 40% · X 28% · 2 32%  
-1X 68% · X2 60% · 12 72%  
-+1.5 82% · +2.5 59% · +3.5 37% · Ambos marcan 62%  
-Marcadores: 1-1 11% · 1-2 9% · 2-1 8% · 0-1 7%  
-🔎 **Claves**  
-• Forma: Hertha ✅✅➖✅✅ | Wolfsburg ✅➖✅➖✅  
-• H2H: 32 desde 2005: 10V-11E-11D · 2.7 goles/partido · +2.5 en 56%  
-• Bajas: Hertha: 1 fuera, 1 duda (Linus Gechter); Wolfsburg: 1 fuera, 1 duda (Kamil Grabara)  
-• Favorito de las casas: Hertha @ 2.10  
-📐 **Estadísticas esperadas**  
-Córners 5.9 - 5.3: total +10.5 56% · Hertha +5.5 50% · Wolfsburg +5.5 43%  
-Tarjetas 1.9 - 2.1: total +4.5 39% · Hertha +2.5 31% · Wolfsburg +2.5 36%  
-Faltas 11.9 - 11.7: total +23.5 49% · Hertha +11.5 53% · Wolfsburg +12.5 39%  
-Tiros a puerta 5.8 - 4.8: total +10.5 49% · Hertha +5.5 51% · Wolfsburg +4.5 52%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Hertha + Menos de 12.5 faltas de Wolfsburg → prob. 44%, cuota justa 2.29 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Hertha + Menos de 12.5 faltas de Wolfsburg + Más de 2.5 goles + Menos de 5.5 córners de Wolfsburg → prob. 15%, cuota justa 6.67  
-🎯 No simulada (con cuota: Más de 2.5 goles + Menos de 5.5 córners de Wolfsburg): cuota Unibet aprox. 2.03 (producto de piernas) · prob. 34% · ventaja -31%  
-
-## Hertha vs Wolfsburg — 07/11 · 20:30
-
-👀 candidata · 🇩🇪 2. Bundesliga · **Más de 5.5 córners de Wolfsburg** @ **2.35** (Unibet) · prob 41% vs casas 39% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.48 - 1.59)  
-1 40% · X 28% · 2 32%  
-1X 68% · X2 60% · 12 72%  
-+1.5 82% · +2.5 59% · +3.5 37% · Ambos marcan 62%  
-Marcadores: 1-1 11% · 1-2 9% · 2-1 8% · 0-1 7%  
-🔎 **Claves**  
-• Forma: Hertha ✅✅➖✅✅ | Wolfsburg ✅➖✅➖✅  
-• H2H: 32 desde 2005: 10V-11E-11D · 2.7 goles/partido · +2.5 en 56%  
-• Bajas: Hertha: 1 fuera, 1 duda (Linus Gechter); Wolfsburg: 1 fuera, 1 duda (Kamil Grabara)  
-• Favorito de las casas: Hertha @ 2.10  
-📐 **Estadísticas esperadas**  
-Córners 5.9 - 5.3: total +10.5 56% · Hertha +5.5 50% · Wolfsburg +5.5 43%  
-Tarjetas 1.9 - 2.1: total +4.5 39% · Hertha +2.5 31% · Wolfsburg +2.5 36%  
-Faltas 11.9 - 11.7: total +23.5 49% · Hertha +11.5 53% · Wolfsburg +12.5 39%  
-Tiros a puerta 5.8 - 4.8: total +10.5 49% · Hertha +5.5 51% · Wolfsburg +4.5 52%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Hertha + Menos de 12.5 faltas de Wolfsburg → prob. 44%, cuota justa 2.29 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Hertha + Menos de 12.5 faltas de Wolfsburg + Más de 2.5 goles + Menos de 5.5 córners de Wolfsburg → prob. 15%, cuota justa 6.67  
-🎯 No simulada (con cuota: Más de 2.5 goles + Menos de 5.5 córners de Wolfsburg): cuota Unibet aprox. 2.03 (producto de piernas) · prob. 34% · ventaja -31%  
-
-## Hertha vs Wolfsburg — 07/11 · 20:30
-
-👀 candidata · 🇩🇪 2. Bundesliga · **Menos de 5.5 córners de Wolfsburg** @ **1.50** (Unibet) · prob 59% vs casas 61% · ventaja -11%
-
-- ❌ Valor: ventaja -11% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.48 - 1.59)  
-1 40% · X 28% · 2 32%  
-1X 68% · X2 60% · 12 72%  
-+1.5 82% · +2.5 59% · +3.5 37% · Ambos marcan 62%  
-Marcadores: 1-1 11% · 1-2 9% · 2-1 8% · 0-1 7%  
-🔎 **Claves**  
-• Forma: Hertha ✅✅➖✅✅ | Wolfsburg ✅➖✅➖✅  
-• H2H: 32 desde 2005: 10V-11E-11D · 2.7 goles/partido · +2.5 en 56%  
-• Bajas: Hertha: 1 fuera, 1 duda (Linus Gechter); Wolfsburg: 1 fuera, 1 duda (Kamil Grabara)  
-• Favorito de las casas: Hertha @ 2.10  
-📐 **Estadísticas esperadas**  
-Córners 5.9 - 5.3: total +10.5 56% · Hertha +5.5 50% · Wolfsburg +5.5 43%  
-Tarjetas 1.9 - 2.1: total +4.5 39% · Hertha +2.5 31% · Wolfsburg +2.5 36%  
-Faltas 11.9 - 11.7: total +23.5 49% · Hertha +11.5 53% · Wolfsburg +12.5 39%  
-Tiros a puerta 5.8 - 4.8: total +10.5 49% · Hertha +5.5 51% · Wolfsburg +4.5 52%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Hertha + Menos de 12.5 faltas de Wolfsburg → prob. 44%, cuota justa 2.29 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Hertha + Menos de 12.5 faltas de Wolfsburg + Más de 2.5 goles + Menos de 5.5 córners de Wolfsburg → prob. 15%, cuota justa 6.67  
-🎯 No simulada (con cuota: Más de 2.5 goles + Menos de 5.5 córners de Wolfsburg): cuota Unibet aprox. 2.03 (producto de piernas) · prob. 34% · ventaja -31%  
-
-## Hertha vs Wolfsburg — 07/11 · 20:30
-
-👀 candidata · 🇩🇪 2. Bundesliga · **Más de 9.5 córners** @ **1.46** (Unibet) · prob 65% vs casas 63% · ventaja -5%
-
-- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.48 - 1.59)  
-1 40% · X 28% · 2 32%  
-1X 68% · X2 60% · 12 72%  
-+1.5 82% · +2.5 59% · +3.5 37% · Ambos marcan 62%  
-Marcadores: 1-1 11% · 1-2 9% · 2-1 8% · 0-1 7%  
-🔎 **Claves**  
-• Forma: Hertha ✅✅➖✅✅ | Wolfsburg ✅➖✅➖✅  
-• H2H: 32 desde 2005: 10V-11E-11D · 2.7 goles/partido · +2.5 en 56%  
-• Bajas: Hertha: 1 fuera, 1 duda (Linus Gechter); Wolfsburg: 1 fuera, 1 duda (Kamil Grabara)  
-• Favorito de las casas: Hertha @ 2.10  
-📐 **Estadísticas esperadas**  
-Córners 5.9 - 5.3: total +10.5 56% · Hertha +5.5 50% · Wolfsburg +5.5 43%  
-Tarjetas 1.9 - 2.1: total +4.5 39% · Hertha +2.5 31% · Wolfsburg +2.5 36%  
-Faltas 11.9 - 11.7: total +23.5 49% · Hertha +11.5 53% · Wolfsburg +12.5 39%  
-Tiros a puerta 5.8 - 4.8: total +10.5 49% · Hertha +5.5 51% · Wolfsburg +4.5 52%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Hertha + Menos de 12.5 faltas de Wolfsburg → prob. 44%, cuota justa 2.29 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Hertha + Menos de 12.5 faltas de Wolfsburg + Más de 2.5 goles + Menos de 5.5 córners de Wolfsburg → prob. 15%, cuota justa 6.67  
-🎯 No simulada (con cuota: Más de 2.5 goles + Menos de 5.5 córners de Wolfsburg): cuota Unibet aprox. 2.03 (producto de piernas) · prob. 34% · ventaja -31%  
-
-## Hertha vs Wolfsburg — 07/11 · 20:30
-
-👀 candidata · 🇩🇪 2. Bundesliga · **Menos de 13.5 córners** @ **1.25** (Unibet) · prob 74% vs casas 73% · ventaja -8%
-
-- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.48 - 1.59)  
-1 40% · X 28% · 2 32%  
-1X 68% · X2 60% · 12 72%  
-+1.5 82% · +2.5 59% · +3.5 37% · Ambos marcan 62%  
-Marcadores: 1-1 11% · 1-2 9% · 2-1 8% · 0-1 7%  
-🔎 **Claves**  
-• Forma: Hertha ✅✅➖✅✅ | Wolfsburg ✅➖✅➖✅  
-• H2H: 32 desde 2005: 10V-11E-11D · 2.7 goles/partido · +2.5 en 56%  
-• Bajas: Hertha: 1 fuera, 1 duda (Linus Gechter); Wolfsburg: 1 fuera, 1 duda (Kamil Grabara)  
-• Favorito de las casas: Hertha @ 2.10  
-📐 **Estadísticas esperadas**  
-Córners 5.9 - 5.3: total +10.5 56% · Hertha +5.5 50% · Wolfsburg +5.5 43%  
-Tarjetas 1.9 - 2.1: total +4.5 39% · Hertha +2.5 31% · Wolfsburg +2.5 36%  
-Faltas 11.9 - 11.7: total +23.5 49% · Hertha +11.5 53% · Wolfsburg +12.5 39%  
-Tiros a puerta 5.8 - 4.8: total +10.5 49% · Hertha +5.5 51% · Wolfsburg +4.5 52%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Hertha + Menos de 12.5 faltas de Wolfsburg → prob. 44%, cuota justa 2.29 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Hertha + Menos de 12.5 faltas de Wolfsburg + Más de 2.5 goles + Menos de 5.5 córners de Wolfsburg → prob. 15%, cuota justa 6.67  
-🎯 No simulada (con cuota: Más de 2.5 goles + Menos de 5.5 córners de Wolfsburg): cuota Unibet aprox. 2.03 (producto de piernas) · prob. 34% · ventaja -31%  
-
-## Hertha vs Wolfsburg — 07/11 · 20:30
-
-👀 candidata · 🇩🇪 2. Bundesliga · **Más de 5.5 córners de Hertha** @ **1.76** (Unibet) · prob 51% vs casas 52% · ventaja -10%
-
-- ❌ Valor: ventaja -10% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.48 - 1.59)  
-1 40% · X 28% · 2 32%  
-1X 68% · X2 60% · 12 72%  
-+1.5 82% · +2.5 59% · +3.5 37% · Ambos marcan 62%  
-Marcadores: 1-1 11% · 1-2 9% · 2-1 8% · 0-1 7%  
-🔎 **Claves**  
-• Forma: Hertha ✅✅➖✅✅ | Wolfsburg ✅➖✅➖✅  
-• H2H: 32 desde 2005: 10V-11E-11D · 2.7 goles/partido · +2.5 en 56%  
-• Bajas: Hertha: 1 fuera, 1 duda (Linus Gechter); Wolfsburg: 1 fuera, 1 duda (Kamil Grabara)  
-• Favorito de las casas: Hertha @ 2.10  
-📐 **Estadísticas esperadas**  
-Córners 5.9 - 5.3: total +10.5 56% · Hertha +5.5 50% · Wolfsburg +5.5 43%  
-Tarjetas 1.9 - 2.1: total +4.5 39% · Hertha +2.5 31% · Wolfsburg +2.5 36%  
-Faltas 11.9 - 11.7: total +23.5 49% · Hertha +11.5 53% · Wolfsburg +12.5 39%  
-Tiros a puerta 5.8 - 4.8: total +10.5 49% · Hertha +5.5 51% · Wolfsburg +4.5 52%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Hertha + Menos de 12.5 faltas de Wolfsburg → prob. 44%, cuota justa 2.29 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Hertha + Menos de 12.5 faltas de Wolfsburg + Más de 2.5 goles + Menos de 5.5 córners de Wolfsburg → prob. 15%, cuota justa 6.67  
-🎯 No simulada (con cuota: Más de 2.5 goles + Menos de 5.5 córners de Wolfsburg): cuota Unibet aprox. 2.03 (producto de piernas) · prob. 34% · ventaja -31%  
-
-## Hertha vs Wolfsburg — 07/11 · 20:30
-
-👀 candidata · 🇩🇪 2. Bundesliga · **Menos de 7.5 córners de Hertha** @ **1.33** (Unibet) · prob 71% vs casas 69% · ventaja -6%
-
-- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.48 - 1.59)  
-1 40% · X 28% · 2 32%  
-1X 68% · X2 60% · 12 72%  
-+1.5 82% · +2.5 59% · +3.5 37% · Ambos marcan 62%  
-Marcadores: 1-1 11% · 1-2 9% · 2-1 8% · 0-1 7%  
-🔎 **Claves**  
-• Forma: Hertha ✅✅➖✅✅ | Wolfsburg ✅➖✅➖✅  
-• H2H: 32 desde 2005: 10V-11E-11D · 2.7 goles/partido · +2.5 en 56%  
-• Bajas: Hertha: 1 fuera, 1 duda (Linus Gechter); Wolfsburg: 1 fuera, 1 duda (Kamil Grabara)  
-• Favorito de las casas: Hertha @ 2.10  
-📐 **Estadísticas esperadas**  
-Córners 5.9 - 5.3: total +10.5 56% · Hertha +5.5 50% · Wolfsburg +5.5 43%  
-Tarjetas 1.9 - 2.1: total +4.5 39% · Hertha +2.5 31% · Wolfsburg +2.5 36%  
-Faltas 11.9 - 11.7: total +23.5 49% · Hertha +11.5 53% · Wolfsburg +12.5 39%  
-Tiros a puerta 5.8 - 4.8: total +10.5 49% · Hertha +5.5 51% · Wolfsburg +4.5 52%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Hertha + Menos de 12.5 faltas de Wolfsburg → prob. 44%, cuota justa 2.29 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Hertha + Menos de 12.5 faltas de Wolfsburg + Más de 2.5 goles + Menos de 5.5 córners de Wolfsburg → prob. 15%, cuota justa 6.67  
-🎯 No simulada (con cuota: Más de 2.5 goles + Menos de 5.5 córners de Wolfsburg): cuota Unibet aprox. 2.03 (producto de piernas) · prob. 34% · ventaja -31%  
+Actualizado 07/11/2026 20:34 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Antwerp vs Lommel SK — 07/11 · 20:45
 
@@ -11387,6 +11169,313 @@ Faltas 12.6 - 11.8: total +21.5 69% · Utrecht +10.5 70% · Nijmegen +11.5 51%
 Tiros a puerta 5.0 - 4.9: total +10.5 41% · Utrecht +5.5 39% · Nijmegen +4.5 53%  
 🧩 Crear apuesta: Más de 10.5 faltas de Utrecht + Menos de 5.5 tiros a puerta de Utrecht → prob. 43%, cuota justa 2.30 (solo vale si la casa paga más)  
 🚀 Combinada larga: Más de 10.5 faltas de Utrecht + Menos de 5.5 tiros a puerta de Utrecht + Más de 1.5 tarjetas de Nijmegen + Menos de 5.5 córners de Utrecht → prob. 16%, cuota justa 6.32  
+🎯 No simulada (con cuota: Menos de 5.5 tiros a puerta de Utrecht + Más de 1.5 tarjetas de Nijmegen): cuota Unibet aprox. 2.30 (producto de piernas) · prob. 35% · ventaja -20%  
+
+## Olympiakos vs PAOK — 08/11 · 20:00
+
+👀 candidata · 🇬🇷 Super League · **Más de 7.5 córners** @ **1.32** (Unibet) · prob 70% vs casas 68% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.70 - 1.02)  
+1 55% · X 26% · 2 19%  
+1X 81% · X2 45% · 12 74%  
++1.5 76% · +2.5 51% · +3.5 29% · Ambos marcan 53%  
+Marcadores: 1-1 12% · 1-0 11% · 2-1 10% · 2-0 10%  
+🔎 **Claves**  
+• Forma: Olympiakos ✅✅✅✅✅ | PAOK ✅❌✅❌✅  
+• H2H: 56 desde 2005: 28V-12E-16D · 2.4 goles/partido · +2.5 en 50%  
+• Bajas: Olympiakos: sin bajas; PAOK: sin bajas  
+• Favorito de las casas: Olympiakos @ 1.58  
+📐 **Estadísticas esperadas**  
+Córners 6.4 - 3.1: total +9.5 47% · Olympiakos +4.5 69% · PAOK +4.5 22%  
+Tarjetas 1.9 - 2.7: total +5.5 32% · Olympiakos +2.5 30% · PAOK +3.5 28%  
+Faltas 13.7 - 13.1: total +30.5 25% · Olympiakos +15.5 31% · PAOK +15.5 25%  
+Tiros a puerta 5.7 - 2.8: total +8.5 47% · Olympiakos +4.5 65% · PAOK +3.5 31%  
+🧩 Crear apuesta: Menos de 4.5 córners de PAOK + Menos de 30.5 faltas + Menos de 3.5 tarjetas de PAOK → prob. 44%, cuota justa 2.27 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 córners de PAOK + Menos de 30.5 faltas + Menos de 3.5 tarjetas de PAOK + Menos de 3.5 tiros a puerta de PAOK → prob. 31%, cuota justa 3.25  
+
+## Olympiakos vs PAOK — 08/11 · 20:00
+
+👀 candidata · 🇬🇷 Super League · **Menos de 9.5 córners** @ **1.72** (Unibet) · prob 53% vs casas 52% · ventaja -9%
+
+- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.70 - 1.02)  
+1 55% · X 26% · 2 19%  
+1X 81% · X2 45% · 12 74%  
++1.5 76% · +2.5 51% · +3.5 29% · Ambos marcan 53%  
+Marcadores: 1-1 12% · 1-0 11% · 2-1 10% · 2-0 10%  
+🔎 **Claves**  
+• Forma: Olympiakos ✅✅✅✅✅ | PAOK ✅❌✅❌✅  
+• H2H: 56 desde 2005: 28V-12E-16D · 2.4 goles/partido · +2.5 en 50%  
+• Bajas: Olympiakos: sin bajas; PAOK: sin bajas  
+• Favorito de las casas: Olympiakos @ 1.58  
+📐 **Estadísticas esperadas**  
+Córners 6.4 - 3.1: total +9.5 47% · Olympiakos +4.5 69% · PAOK +4.5 22%  
+Tarjetas 1.9 - 2.7: total +5.5 32% · Olympiakos +2.5 30% · PAOK +3.5 28%  
+Faltas 13.7 - 13.1: total +30.5 25% · Olympiakos +15.5 31% · PAOK +15.5 25%  
+Tiros a puerta 5.7 - 2.8: total +8.5 47% · Olympiakos +4.5 65% · PAOK +3.5 31%  
+🧩 Crear apuesta: Menos de 4.5 córners de PAOK + Menos de 30.5 faltas + Menos de 3.5 tarjetas de PAOK → prob. 44%, cuota justa 2.27 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 córners de PAOK + Menos de 30.5 faltas + Menos de 3.5 tarjetas de PAOK + Menos de 3.5 tiros a puerta de PAOK → prob. 31%, cuota justa 3.25  
+
+## Olympiakos vs PAOK — 08/11 · 20:00
+
+👀 candidata · 🇬🇷 Super League · **Más de 5.5 córners de Olympiakos** @ **1.76** (Unibet) · prob 54% vs casas 51% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.70 - 1.02)  
+1 55% · X 26% · 2 19%  
+1X 81% · X2 45% · 12 74%  
++1.5 76% · +2.5 51% · +3.5 29% · Ambos marcan 53%  
+Marcadores: 1-1 12% · 1-0 11% · 2-1 10% · 2-0 10%  
+🔎 **Claves**  
+• Forma: Olympiakos ✅✅✅✅✅ | PAOK ✅❌✅❌✅  
+• H2H: 56 desde 2005: 28V-12E-16D · 2.4 goles/partido · +2.5 en 50%  
+• Bajas: Olympiakos: sin bajas; PAOK: sin bajas  
+• Favorito de las casas: Olympiakos @ 1.58  
+📐 **Estadísticas esperadas**  
+Córners 6.4 - 3.1: total +9.5 47% · Olympiakos +4.5 69% · PAOK +4.5 22%  
+Tarjetas 1.9 - 2.7: total +5.5 32% · Olympiakos +2.5 30% · PAOK +3.5 28%  
+Faltas 13.7 - 13.1: total +30.5 25% · Olympiakos +15.5 31% · PAOK +15.5 25%  
+Tiros a puerta 5.7 - 2.8: total +8.5 47% · Olympiakos +4.5 65% · PAOK +3.5 31%  
+🧩 Crear apuesta: Menos de 4.5 córners de PAOK + Menos de 30.5 faltas + Menos de 3.5 tarjetas de PAOK → prob. 44%, cuota justa 2.27 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 córners de PAOK + Menos de 30.5 faltas + Menos de 3.5 tarjetas de PAOK + Menos de 3.5 tiros a puerta de PAOK → prob. 31%, cuota justa 3.25  
+
+## Olympiakos vs PAOK — 08/11 · 20:00
+
+👀 candidata · 🇬🇷 Super League · **Menos de 5.5 córners de Olympiakos** @ **1.83** (Unibet) · prob 46% vs casas 49% · ventaja -15%
+
+- ❌ Valor: ventaja -15% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.70 - 1.02)  
+1 55% · X 26% · 2 19%  
+1X 81% · X2 45% · 12 74%  
++1.5 76% · +2.5 51% · +3.5 29% · Ambos marcan 53%  
+Marcadores: 1-1 12% · 1-0 11% · 2-1 10% · 2-0 10%  
+🔎 **Claves**  
+• Forma: Olympiakos ✅✅✅✅✅ | PAOK ✅❌✅❌✅  
+• H2H: 56 desde 2005: 28V-12E-16D · 2.4 goles/partido · +2.5 en 50%  
+• Bajas: Olympiakos: sin bajas; PAOK: sin bajas  
+• Favorito de las casas: Olympiakos @ 1.58  
+📐 **Estadísticas esperadas**  
+Córners 6.4 - 3.1: total +9.5 47% · Olympiakos +4.5 69% · PAOK +4.5 22%  
+Tarjetas 1.9 - 2.7: total +5.5 32% · Olympiakos +2.5 30% · PAOK +3.5 28%  
+Faltas 13.7 - 13.1: total +30.5 25% · Olympiakos +15.5 31% · PAOK +15.5 25%  
+Tiros a puerta 5.7 - 2.8: total +8.5 47% · Olympiakos +4.5 65% · PAOK +3.5 31%  
+🧩 Crear apuesta: Menos de 4.5 córners de PAOK + Menos de 30.5 faltas + Menos de 3.5 tarjetas de PAOK → prob. 44%, cuota justa 2.27 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 córners de PAOK + Menos de 30.5 faltas + Menos de 3.5 tarjetas de PAOK + Menos de 3.5 tiros a puerta de PAOK → prob. 31%, cuota justa 3.25  
+
+## Olympiakos vs PAOK — 08/11 · 20:00
+
+👀 candidata · 🇬🇷 Super League · **Más de 2.5 córners de PAOK** @ **1.45** (Unibet) · prob 60% vs casas 62% · ventaja -14%
+
+- ❌ Valor: ventaja -14% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.70 - 1.02)  
+1 55% · X 26% · 2 19%  
+1X 81% · X2 45% · 12 74%  
++1.5 76% · +2.5 51% · +3.5 29% · Ambos marcan 53%  
+Marcadores: 1-1 12% · 1-0 11% · 2-1 10% · 2-0 10%  
+🔎 **Claves**  
+• Forma: Olympiakos ✅✅✅✅✅ | PAOK ✅❌✅❌✅  
+• H2H: 56 desde 2005: 28V-12E-16D · 2.4 goles/partido · +2.5 en 50%  
+• Bajas: Olympiakos: sin bajas; PAOK: sin bajas  
+• Favorito de las casas: Olympiakos @ 1.58  
+📐 **Estadísticas esperadas**  
+Córners 6.4 - 3.1: total +9.5 47% · Olympiakos +4.5 69% · PAOK +4.5 22%  
+Tarjetas 1.9 - 2.7: total +5.5 32% · Olympiakos +2.5 30% · PAOK +3.5 28%  
+Faltas 13.7 - 13.1: total +30.5 25% · Olympiakos +15.5 31% · PAOK +15.5 25%  
+Tiros a puerta 5.7 - 2.8: total +8.5 47% · Olympiakos +4.5 65% · PAOK +3.5 31%  
+🧩 Crear apuesta: Menos de 4.5 córners de PAOK + Menos de 30.5 faltas + Menos de 3.5 tarjetas de PAOK → prob. 44%, cuota justa 2.27 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 córners de PAOK + Menos de 30.5 faltas + Menos de 3.5 tarjetas de PAOK + Menos de 3.5 tiros a puerta de PAOK → prob. 31%, cuota justa 3.25  
+
+## Olympiakos vs PAOK — 08/11 · 20:00
+
+👀 candidata · 🇬🇷 Super League · **Menos de 3.5 córners de PAOK** @ **1.66** (Unibet) · prob 58% vs casas 54% · ventaja -3%
+
+- ❌ Valor: ventaja -3% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.70 - 1.02)  
+1 55% · X 26% · 2 19%  
+1X 81% · X2 45% · 12 74%  
++1.5 76% · +2.5 51% · +3.5 29% · Ambos marcan 53%  
+Marcadores: 1-1 12% · 1-0 11% · 2-1 10% · 2-0 10%  
+🔎 **Claves**  
+• Forma: Olympiakos ✅✅✅✅✅ | PAOK ✅❌✅❌✅  
+• H2H: 56 desde 2005: 28V-12E-16D · 2.4 goles/partido · +2.5 en 50%  
+• Bajas: Olympiakos: sin bajas; PAOK: sin bajas  
+• Favorito de las casas: Olympiakos @ 1.58  
+📐 **Estadísticas esperadas**  
+Córners 6.4 - 3.1: total +9.5 47% · Olympiakos +4.5 69% · PAOK +4.5 22%  
+Tarjetas 1.9 - 2.7: total +5.5 32% · Olympiakos +2.5 30% · PAOK +3.5 28%  
+Faltas 13.7 - 13.1: total +30.5 25% · Olympiakos +15.5 31% · PAOK +15.5 25%  
+Tiros a puerta 5.7 - 2.8: total +8.5 47% · Olympiakos +4.5 65% · PAOK +3.5 31%  
+🧩 Crear apuesta: Menos de 4.5 córners de PAOK + Menos de 30.5 faltas + Menos de 3.5 tarjetas de PAOK → prob. 44%, cuota justa 2.27 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 córners de PAOK + Menos de 30.5 faltas + Menos de 3.5 tarjetas de PAOK + Menos de 3.5 tiros a puerta de PAOK → prob. 31%, cuota justa 3.25  
+
+## Utrecht vs Nijmegen — 08/11 · 20:00
+
+👀 candidata · 🇳🇱 Eredivisie · **Más de 3.5 córners de Nijmegen** @ **1.30** (Unibet) · prob 68% vs casas 70% · ventaja -12%
+
+- ❌ Valor: ventaja -12% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.46 - 1.41)  
+1 37% · X 28% · 2 35%  
+1X 65% · X2 63% · 12 72%  
++1.5 79% · +2.5 55% · +3.5 33% · Ambos marcan 59%  
+Marcadores: 1-1 12% · 2-1 9% · 1-2 8% · 1-0 8%  
+🔎 **Claves**  
+• Forma: Utrecht ❌✅✅➖❌ | Nijmegen ➖➖➖➖❌  
+• H2H: 32 desde 2005: 14V-9E-9D · 2.3 goles/partido · +2.5 en 44%  
+• Bajas: Utrecht: 3 fuera, 2 duda (Victor Jensen, Noah Ohio, Miliano Jonathans); Nijmegen: 0 fuera, 3 duda  
+• Favorito de las casas: Utrecht @ 2.45  
+📐 **Estadísticas esperadas**  
+Córners 5.5 - 4.8: total +10.5 45% · Utrecht +5.5 45% · Nijmegen +4.5 50%  
+Tarjetas 1.5 - 2.0: total +3.5 44% · Utrecht +1.5 43% · Nijmegen +1.5 59%  
+Faltas 12.6 - 11.8: total +21.5 69% · Utrecht +10.5 70% · Nijmegen +11.5 51%  
+Tiros a puerta 5.0 - 4.9: total +10.5 41% · Utrecht +5.5 39% · Nijmegen +4.5 53%  
+🧩 Crear apuesta: Más de 10.5 faltas de Utrecht + Menos de 5.5 tiros a puerta de Utrecht → prob. 43%, cuota justa 2.30 (solo vale si la casa paga más)  
+🚀 Combinada larga: Más de 10.5 faltas de Utrecht + Menos de 5.5 tiros a puerta de Utrecht + Más de 1.5 tarjetas de Nijmegen + Menos de 5.5 córners de Utrecht → prob. 16%, cuota justa 6.32  
+🎯 No simulada (con cuota: Menos de 5.5 tiros a puerta de Utrecht + Más de 1.5 tarjetas de Nijmegen): cuota Unibet aprox. 2.30 (producto de piernas) · prob. 35% · ventaja -20%  
+
+## Utrecht vs Nijmegen — 08/11 · 20:00
+
+👀 candidata · 🇳🇱 Eredivisie · **Menos de 4.5 córners de Nijmegen** @ **2.17** (Unibet) · prob 46% vs casas 42% · ventaja +1%
+
+- ❌ Valor: ventaja +1% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.46 - 1.41)  
+1 37% · X 28% · 2 35%  
+1X 65% · X2 63% · 12 72%  
++1.5 79% · +2.5 55% · +3.5 33% · Ambos marcan 59%  
+Marcadores: 1-1 12% · 2-1 9% · 1-2 8% · 1-0 8%  
+🔎 **Claves**  
+• Forma: Utrecht ❌✅✅➖❌ | Nijmegen ➖➖➖➖❌  
+• H2H: 32 desde 2005: 14V-9E-9D · 2.3 goles/partido · +2.5 en 44%  
+• Bajas: Utrecht: 3 fuera, 2 duda (Victor Jensen, Noah Ohio, Miliano Jonathans); Nijmegen: 0 fuera, 3 duda  
+• Favorito de las casas: Utrecht @ 2.45  
+📐 **Estadísticas esperadas**  
+Córners 5.5 - 4.8: total +10.5 45% · Utrecht +5.5 45% · Nijmegen +4.5 50%  
+Tarjetas 1.5 - 2.0: total +3.5 44% · Utrecht +1.5 43% · Nijmegen +1.5 59%  
+Faltas 12.6 - 11.8: total +21.5 69% · Utrecht +10.5 70% · Nijmegen +11.5 51%  
+Tiros a puerta 5.0 - 4.9: total +10.5 41% · Utrecht +5.5 39% · Nijmegen +4.5 53%  
+🧩 Crear apuesta: Más de 10.5 faltas de Utrecht + Menos de 5.5 tiros a puerta de Utrecht → prob. 43%, cuota justa 2.30 (solo vale si la casa paga más)  
+🚀 Combinada larga: Más de 10.5 faltas de Utrecht + Menos de 5.5 tiros a puerta de Utrecht + Más de 1.5 tarjetas de Nijmegen + Menos de 5.5 córners de Utrecht → prob. 16%, cuota justa 6.32  
+🎯 No simulada (con cuota: Menos de 5.5 tiros a puerta de Utrecht + Más de 1.5 tarjetas de Nijmegen): cuota Unibet aprox. 2.30 (producto de piernas) · prob. 35% · ventaja -20%  
+
+## Utrecht vs Nijmegen — 08/11 · 20:00
+
+👀 candidata · 🇳🇱 Eredivisie · **Más de 8.5 córners** @ **1.40** (Unibet) · prob 67% vs casas 66% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.46 - 1.41)  
+1 37% · X 28% · 2 35%  
+1X 65% · X2 63% · 12 72%  
++1.5 79% · +2.5 55% · +3.5 33% · Ambos marcan 59%  
+Marcadores: 1-1 12% · 2-1 9% · 1-2 8% · 1-0 8%  
+🔎 **Claves**  
+• Forma: Utrecht ❌✅✅➖❌ | Nijmegen ➖➖➖➖❌  
+• H2H: 32 desde 2005: 14V-9E-9D · 2.3 goles/partido · +2.5 en 44%  
+• Bajas: Utrecht: 3 fuera, 2 duda (Victor Jensen, Noah Ohio, Miliano Jonathans); Nijmegen: 0 fuera, 3 duda  
+• Favorito de las casas: Utrecht @ 2.45  
+📐 **Estadísticas esperadas**  
+Córners 5.5 - 4.8: total +10.5 45% · Utrecht +5.5 45% · Nijmegen +4.5 50%  
+Tarjetas 1.5 - 2.0: total +3.5 44% · Utrecht +1.5 43% · Nijmegen +1.5 59%  
+Faltas 12.6 - 11.8: total +21.5 69% · Utrecht +10.5 70% · Nijmegen +11.5 51%  
+Tiros a puerta 5.0 - 4.9: total +10.5 41% · Utrecht +5.5 39% · Nijmegen +4.5 53%  
+🧩 Crear apuesta: Más de 10.5 faltas de Utrecht + Menos de 5.5 tiros a puerta de Utrecht → prob. 43%, cuota justa 2.30 (solo vale si la casa paga más)  
+🚀 Combinada larga: Más de 10.5 faltas de Utrecht + Menos de 5.5 tiros a puerta de Utrecht + Más de 1.5 tarjetas de Nijmegen + Menos de 5.5 córners de Utrecht → prob. 16%, cuota justa 6.32  
+🎯 No simulada (con cuota: Menos de 5.5 tiros a puerta de Utrecht + Más de 1.5 tarjetas de Nijmegen): cuota Unibet aprox. 2.30 (producto de piernas) · prob. 35% · ventaja -20%  
+
+## Utrecht vs Nijmegen — 08/11 · 20:00
+
+👀 candidata · 🇳🇱 Eredivisie · **Menos de 13.5 córners** @ **1.16** (Unibet) · prob 81% vs casas 80% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.46 - 1.41)  
+1 37% · X 28% · 2 35%  
+1X 65% · X2 63% · 12 72%  
++1.5 79% · +2.5 55% · +3.5 33% · Ambos marcan 59%  
+Marcadores: 1-1 12% · 2-1 9% · 1-2 8% · 1-0 8%  
+🔎 **Claves**  
+• Forma: Utrecht ❌✅✅➖❌ | Nijmegen ➖➖➖➖❌  
+• H2H: 32 desde 2005: 14V-9E-9D · 2.3 goles/partido · +2.5 en 44%  
+• Bajas: Utrecht: 3 fuera, 2 duda (Victor Jensen, Noah Ohio, Miliano Jonathans); Nijmegen: 0 fuera, 3 duda  
+• Favorito de las casas: Utrecht @ 2.45  
+📐 **Estadísticas esperadas**  
+Córners 5.5 - 4.8: total +10.5 45% · Utrecht +5.5 45% · Nijmegen +4.5 50%  
+Tarjetas 1.5 - 2.0: total +3.5 44% · Utrecht +1.5 43% · Nijmegen +1.5 59%  
+Faltas 12.6 - 11.8: total +21.5 69% · Utrecht +10.5 70% · Nijmegen +11.5 51%  
+Tiros a puerta 5.0 - 4.9: total +10.5 41% · Utrecht +5.5 39% · Nijmegen +4.5 53%  
+🧩 Crear apuesta: Más de 10.5 faltas de Utrecht + Menos de 5.5 tiros a puerta de Utrecht → prob. 43%, cuota justa 2.30 (solo vale si la casa paga más)  
+🚀 Combinada larga: Más de 10.5 faltas de Utrecht + Menos de 5.5 tiros a puerta de Utrecht + Más de 1.5 tarjetas de Nijmegen + Menos de 5.5 córners de Utrecht → prob. 16%, cuota justa 6.32  
+🎯 No simulada (con cuota: Menos de 5.5 tiros a puerta de Utrecht + Más de 1.5 tarjetas de Nijmegen): cuota Unibet aprox. 2.30 (producto de piernas) · prob. 35% · ventaja -20%  
+
+## Utrecht vs Nijmegen — 08/11 · 20:00
+
+👀 candidata · 🇳🇱 Eredivisie · **Más de 5.5 córners de Utrecht** @ **2.50** (Unibet) · prob 41% vs casas 37% · ventaja +2%
+
+- ❌ Valor: ventaja +2% (mín. 8% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.46 - 1.41)  
+1 37% · X 28% · 2 35%  
+1X 65% · X2 63% · 12 72%  
++1.5 79% · +2.5 55% · +3.5 33% · Ambos marcan 59%  
+Marcadores: 1-1 12% · 2-1 9% · 1-2 8% · 1-0 8%  
+🔎 **Claves**  
+• Forma: Utrecht ❌✅✅➖❌ | Nijmegen ➖➖➖➖❌  
+• H2H: 32 desde 2005: 14V-9E-9D · 2.3 goles/partido · +2.5 en 44%  
+• Bajas: Utrecht: 3 fuera, 2 duda (Victor Jensen, Noah Ohio, Miliano Jonathans); Nijmegen: 0 fuera, 3 duda  
+• Favorito de las casas: Utrecht @ 2.45  
+📐 **Estadísticas esperadas**  
+Córners 5.5 - 4.8: total +10.5 45% · Utrecht +5.5 45% · Nijmegen +4.5 50%  
+Tarjetas 1.5 - 2.0: total +3.5 44% · Utrecht +1.5 43% · Nijmegen +1.5 59%  
+Faltas 12.6 - 11.8: total +21.5 69% · Utrecht +10.5 70% · Nijmegen +11.5 51%  
+Tiros a puerta 5.0 - 4.9: total +10.5 41% · Utrecht +5.5 39% · Nijmegen +4.5 53%  
+🧩 Crear apuesta: Más de 10.5 faltas de Utrecht + Menos de 5.5 tiros a puerta de Utrecht → prob. 43%, cuota justa 2.30 (solo vale si la casa paga más)  
+🚀 Combinada larga: Más de 10.5 faltas de Utrecht + Menos de 5.5 tiros a puerta de Utrecht + Más de 1.5 tarjetas de Nijmegen + Menos de 5.5 córners de Utrecht → prob. 16%, cuota justa 6.32  
+🎯 No simulada (con cuota: Menos de 5.5 tiros a puerta de Utrecht + Más de 1.5 tarjetas de Nijmegen): cuota Unibet aprox. 2.30 (producto de piernas) · prob. 35% · ventaja -20%  
+
+## Utrecht vs Nijmegen — 08/11 · 20:00
+
+👀 candidata · 🇳🇱 Eredivisie · **Menos de 6.5 córners de Utrecht** @ **1.25** (Unibet) · prob 70% vs casas 73% · ventaja -12%
+
+- ❌ Valor: ventaja -12% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.46 - 1.41)  
+1 37% · X 28% · 2 35%  
+1X 65% · X2 63% · 12 72%  
++1.5 79% · +2.5 55% · +3.5 33% · Ambos marcan 59%  
+Marcadores: 1-1 12% · 2-1 9% · 1-2 8% · 1-0 8%  
+🔎 **Claves**  
+• Forma: Utrecht ❌✅✅➖❌ | Nijmegen ➖➖➖➖❌  
+• H2H: 32 desde 2005: 14V-9E-9D · 2.3 goles/partido · +2.5 en 44%  
+• Bajas: Utrecht: 3 fuera, 2 duda (Victor Jensen, Noah Ohio, Miliano Jonathans); Nijmegen: 0 fuera, 3 duda  
+• Favorito de las casas: Utrecht @ 2.45  
+📐 **Estadísticas esperadas**  
+Córners 5.5 - 4.8: total +10.5 45% · Utrecht +5.5 45% · Nijmegen +4.5 50%  
+Tarjetas 1.5 - 2.0: total +3.5 44% · Utrecht +1.5 43% · Nijmegen +1.5 59%  
+Faltas 12.6 - 11.8: total +21.5 69% · Utrecht +10.5 70% · Nijmegen +11.5 51%  
+Tiros a puerta 5.0 - 4.9: total +10.5 41% · Utrecht +5.5 39% · Nijmegen +4.5 53%  
+🧩 Crear apuesta: Más de 10.5 faltas de Utrecht + Menos de 5.5 tiros a puerta de Utrecht → prob. 43%, cuota justa 2.30 (solo vale si la casa paga más)  
+🚀 Combinada larga: Más de 10.5 faltas de Utrecht + Menos de 5.5 tiros a puerta de Utrecht + Más de 1.5 tarjetas de Nijmegen + Menos de 5.5 córners de Utrecht → prob. 16%, cuota justa 6.32  
+🎯 No simulada (con cuota: Menos de 5.5 tiros a puerta de Utrecht + Más de 1.5 tarjetas de Nijmegen): cuota Unibet aprox. 2.30 (producto de piernas) · prob. 35% · ventaja -20%  
 
 ## Lech Poznan vs Zaglebie — 08/11 · 20:15
 

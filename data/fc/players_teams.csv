@@ -59767,14 +59767,14 @@ id,tournament_id,club1,club2,ht1,ht2
 2368050,261254,Fenerbahce,Basaksehir,,
 2368051,261254,Galatasaray,Fenerbahce,,
 2368052,261254,Besiktas,Trabzonspor,,
-2367254,261252,Ecuador,Argentina,2,1
-2367255,261252,Colombia,Brazil,2,1
-2367256,261252,Brazil,Ecuador,2,2
-2367257,261252,Argentina,Uruguay,2,0
-2367258,261252,Uruguay,Brazil,3,1
-2367259,261252,Ecuador,Colombia,0,4
-2367260,261252,Colombia,Uruguay,2,1
-2367261,261252,Brazil,Argentina,3,3
+2367254,261252,Ecuador,Argentina,2.0,1.0
+2367255,261252,Colombia,Brazil,2.0,1.0
+2367256,261252,Brazil,Ecuador,2.0,2.0
+2367257,261252,Argentina,Uruguay,2.0,0.0
+2367258,261252,Uruguay,Brazil,3.0,1.0
+2367259,261252,Ecuador,Colombia,0.0,4.0
+2367260,261252,Colombia,Uruguay,2.0,1.0
+2367261,261252,Brazil,Argentina,3.0,3.0
 2367262,261252,Argentina,Colombia,,
 2367263,261252,Uruguay,Ecuador,,
 2367264,261252,Argentina,Ecuador,,
@@ -59787,3 +59787,43 @@ id,tournament_id,club1,club2,ht1,ht2
 2367271,261252,Argentina,Brazil,,
 2367272,261252,Colombia,Argentina,,
 2367273,261252,Ecuador,Uruguay,,
+2368113,261219,Porto,Roma,3,1
+2368114,261219,Aston Villa,Salzburg,1,2
+2368115,261219,Salzburg,Porto,2,2
+2368116,261219,Roma,Fenerbahce,2,1
+2368117,261219,Fenerbahce,Salzburg,0,1
+2368118,261219,Porto,Aston Villa,2,1
+2368119,261219,Aston Villa,Fenerbahce,0,1
+2368120,261219,Salzburg,Roma,1,0
+2368121,261219,Roma,Aston Villa,,
+2368122,261219,Fenerbahce,Porto,,
+2368123,261219,Roma,Porto,,
+2368124,261219,Salzburg,Aston Villa,,
+2368125,261219,Porto,Salzburg,,
+2368126,261219,Fenerbahce,Roma,,
+2368127,261219,Salzburg,Fenerbahce,,
+2368128,261219,Aston Villa,Porto,,
+2368129,261219,Fenerbahce,Aston Villa,,
+2368130,261219,Roma,Salzburg,,
+2368131,261219,Aston Villa,Roma,,
+2368132,261219,Porto,Fenerbahce,,
+2366934,261245,Stuttgart,Leipzig,0,0
+2366935,261245,Bayern Munchen,B Dortmund,0,3
+2366936,261245,B Dortmund,Stuttgart,2,1
+2366937,261245,Leipzig,Frankfurt,1,1
+2366938,261245,Frankfurt,B Dortmund,0,2
+2366939,261245,Stuttgart,Bayern Munchen,1,2
+2366940,261245,Bayern Munchen,Frankfurt,0,4
+2366941,261245,B Dortmund,Leipzig,3,3
+2366942,261245,Leipzig,Bayern Munchen,1,0
+2366943,261245,Frankfurt,Stuttgart,0,0
+2366944,261245,Leipzig,Stuttgart,,
+2366945,261245,B Dortmund,Bayern Munchen,,
+2366946,261245,Stuttgart,B Dortmund,,
+2366947,261245,Frankfurt,Leipzig,,
+2366948,261245,B Dortmund,Frankfurt,,
+2366949,261245,Bayern Munchen,Stuttgart,,
+2366950,261245,Frankfurt,Bayern Munchen,,
+2366951,261245,Leipzig,B Dortmund,,
+2366952,261245,Bayern Munchen,Leipzig,,
+2366953,261245,Stuttgart,Frankfurt,,

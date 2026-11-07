@@ -1,50 +1,6 @@
 # 🏈 NFL·NCAA · apuestas de valor
 
-Actualizado 07/11/2026 20:04 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## App State Mountaineers vs Georgia State Panthers — 07/11 · 20:30
-
-👀 candidata · 🏈 NCAA Football · **Más de 55.5 puntos** @ **1.95** (DraftKings) · prob 49% vs casas 49% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 totales» sin pérdidas demostradas
-
-📊 **Escenarios**: total esperado **56.8** puntos · línea 55.5  
-Más 49% · Menos 51%  
-🔎 **Claves**  
-• Forma: App State Mountaineers ❌❌✅✅❌ | Georgia State Panthers ✅✅❌❌❌  
-• H2H: 2 desde 2024: 2-0  
-• Bajas: App State Mountaineers: sin bajas; Georgia State Panthers: sin bajas  
-
-## App State Mountaineers vs Georgia State Panthers — 07/11 · 20:30
-
-👀 candidata · 🏈 NCAA Football · **App State Mountaineers -5.5** @ **1.93** (DraftKings) · prob 50% vs casas 50% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 hándicap» sin pérdidas demostradas
-
-📊 **Escenarios**: App State Mountaineers cubre -5.5 con prob. 50% (casas 50%)  
-🔎 **Claves**  
-• Forma: App State Mountaineers ❌❌✅✅❌ | Georgia State Panthers ✅✅❌❌❌  
-• H2H: 2 desde 2024: 2-0  
-• Bajas: App State Mountaineers: sin bajas; Georgia State Panthers: sin bajas  
-
-## App State Mountaineers vs Georgia State Panthers — 07/11 · 20:30
-
-👀 candidata · 🏈 NCAA Football · **Gana App State Mountaineers** @ **1.46** (DraftKings) · prob 66% vs casas 66% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo con 9.457 partidos y bajas)  
-Gana App State Mountaineers 67% · Gana Georgia State Panthers 33%  
-Casas: App State Mountaineers 66% · Georgia State Panthers 34%  
-Hándicap APP -5.5 · Total puntos 55.5  
-🔎 **Claves**  
-• Forma: App State Mountaineers ❌❌✅✅❌ | Georgia State Panthers ✅✅❌❌❌  
-• H2H: 2 desde 2024: 2-0  
-• Bajas: App State Mountaineers: sin bajas; Georgia State Panthers: sin bajas  
-• Favorito de las casas: App State Mountaineers @ 1.46  
+Actualizado 07/11/2026 20:34 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## South Carolina Gamecocks vs Texas A&M Aggies — 07/11 · 21:00
 
