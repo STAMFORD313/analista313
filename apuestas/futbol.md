@@ -1,42 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 07/11/2026 05:32 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Nagoya Grampus vs Kyoto — 07/11 · 06:00
-
-👀 candidata · 🇯🇵 J1 League · **Gana Nagoya Grampus** @ **1.76** (Bet365) · prob 52% vs casas 52% · ventaja -9%
-
-- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.29 - 1.26)  
-1 37% · X 28% · 2 35%  
-1X 65% · X2 63% · 12 72%  
-+1.5 73% · +2.5 47% · +3.5 25% · Ambos marcan 52%  
-Marcadores: 1-1 13% · 1-0 9% · 0-1 9% · 0-0 8%  
-🔎 **Claves**  
-• Forma: Nagoya Grampus ✅✅➖➖❌ | Kyoto ❌❌➖➖✅  
-• H2H: 8 desde 2022: 1V-4E-3D · 2.5 goles/partido · +2.5 en 38%  
-• Bajas: Nagoya Grampus: sin bajas; Kyoto: sin bajas  
-• Favorito de las casas: Nagoya Grampus @ 1.76  
-
-## Yokohama F. Marinos vs Okayama — 07/11 · 06:00
-
-👀 candidata · 🇯🇵 J1 League · **Gana Okayama** @ **2.65** (Bet365) · prob 35% vs casas 35% · ventaja -7%
-
-- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.82 - 1.05)  
-1 57% · X 24% · 2 19%  
-1X 81% · X2 43% · 12 76%  
-+1.5 79% · +2.5 55% · +3.5 32% · Ambos marcan 55%  
-Marcadores: 1-1 11% · 2-1 10% · 1-0 10% · 2-0 9%  
-🔎 **Claves**  
-• Forma: Yokohama F. Marinos ➖➖➖➖✅ | Okayama ❌❌✅❌❌  
-• H2H: 2 desde 2025: 0V-0E-2D · 1.0 goles/partido · +2.5 en 0%  
-• Bajas: Yokohama F. Marinos: sin bajas; Okayama: sin bajas  
-• Favorito de las casas: Yokohama F. Marinos @ 2.45  
+Actualizado 07/11/2026 06:02 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Avispa Fukuoka vs V-Varen Nagasaki — 07/11 · 07:00
 
