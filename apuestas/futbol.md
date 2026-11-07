@@ -1,24 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 07/11/2026 23:53 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Atlas vs Pachuca — 08/11 · 00:00
-
-👀 candidata · 🇲🇽 Liga MX · **Gana Pachuca** @ **3.20** (Bet365) · prob 32% vs casas 32% · ventaja +2%
-
-- ❌ Valor: ventaja +2% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.15 - 1.59)  
-1 34% · X 26% · 2 40%  
-1X 60% · X2 66% · 12 74%  
-+1.5 76% · +2.5 51% · +3.5 29% · Ambos marcan 55%  
-Marcadores: 1-1 12% · 0-1 10% · 1-2 9% · 0-2 8%  
-🔎 **Claves**  
-• Forma: Atlas ➖✅❌✅✅ | Pachuca ➖❌❌✅✅  
-• H2H: 30 desde 2012: 10V-6E-14D · 2.3 goles/partido · +2.5 en 37%  
-• Bajas: Atlas: sin bajas; Pachuca: sin bajas  
-• Favorito de las casas: Atlas @ 2.20  
+Actualizado 08/11/2026 00:23 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Austin FC vs Portland Timbers — 08/11 · 01:00
 
