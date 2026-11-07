@@ -1061,81 +1061,84 @@ matchup,start,league,home,away,market,line,o_home,o_away,o_draw,o_over,o_under,s
 1640125271,2026-11-07 14:00:00+00:00,ITF Men Pembroke - SF,Kacper Szymkowiak,Keshav Chopra,moneyline,,1.4464,2.81,,,,2026-11-07 13:50:39.591509+00:00
 1640125271,2026-11-07 14:00:00+00:00,ITF Men Pembroke - SF,Kacper Szymkowiak,Keshav Chopra,spread,-1.5,2.01,1.8197,,,,2026-11-07 13:50:39.591509+00:00
 1640125271,2026-11-07 14:00:00+00:00,ITF Men Pembroke - SF,Kacper Szymkowiak,Keshav Chopra,total,2.5,,,,2.96,1.4082,2026-11-07 13:50:39.591509+00:00
-1640137708,2026-11-07 17:00:00+00:00,ITF Men Hilton Head Island - SF,Gavin Goode,William Mirarchi,moneyline,,1.3937,3.03,,,,2026-11-07 14:20:44.450297+00:00
-1640137708,2026-11-07 17:00:00+00:00,ITF Men Hilton Head Island - SF,Gavin Goode,William Mirarchi,spread,-1.5,1.9091,1.9091,,,,2026-11-07 14:20:44.450297+00:00
-1640137708,2026-11-07 17:00:00+00:00,ITF Men Hilton Head Island - SF,Gavin Goode,William Mirarchi,total,2.5,,,,3.02,1.3953,2026-11-07 14:20:44.450297+00:00
-1640148916,2026-11-07 20:00:00+00:00,ATP Challenger Charlottesville - SF,Clement Chidekh,Stefan Kozlov,moneyline,,1.25,4.19,,,,2026-11-07 14:20:44.450297+00:00
-1640148916,2026-11-07 20:00:00+00:00,ATP Challenger Charlottesville - SF,Clement Chidekh,Stefan Kozlov,spread,-1.5,1.7519,2.14,,,,2026-11-07 14:20:44.450297+00:00
-1640148916,2026-11-07 20:00:00+00:00,ATP Challenger Charlottesville - SF,Clement Chidekh,Stefan Kozlov,total,2.5,,,,2.83,1.4587,2026-11-07 14:20:44.450297+00:00
-1640181743,2026-11-07 16:35:00+00:00,WTA 125k Luanda - Doubles,Sada Nahimana / Angella Okutoyi,Martyna Kubka / Justina Mikulskyte,moneyline,,1.9346,1.7937,,,,2026-11-07 14:20:44.450297+00:00
-1640045167,2026-11-09 02:00:00+00:00,WTA Finals Indian Wells - Doubles,Cristina Bucsa / Nicole Melichar,Ellen Perez / Demi Schuurs,moneyline,,1.7092,2.14,,,,2026-11-07 14:20:44.450297+00:00
-1640137722,2026-11-07 20:00:00+00:00,ATP Challenger Costa do Sauipe - SF,Facundo Diaz Acosta,Thiago Seyboth Wild,moneyline,,2.28,1.6803,,,,2026-11-07 14:20:44.450297+00:00
-1640137722,2026-11-07 20:00:00+00:00,ATP Challenger Costa do Sauipe - SF,Facundo Diaz Acosta,Thiago Seyboth Wild,spread,1.5,1.5263,2.61,,,,2026-11-07 14:20:44.450297+00:00
-1640137722,2026-11-07 20:00:00+00:00,ATP Challenger Costa do Sauipe - SF,Facundo Diaz Acosta,Thiago Seyboth Wild,total,2.5,,,,2.38,1.6173,2026-11-07 14:20:44.450297+00:00
-1640045182,2026-11-10 00:30:00+00:00,WTA Finals Indian Wells - Doubles,Hanyu Guo / Kristina Mladenovic,Hsieh Su-wei / Jelena Ostapenko,moneyline,,2.24,1.625,,,,2026-11-07 14:20:44.450297+00:00
-1640045776,2026-11-08 20:00:00+00:00,WTA Finals Indian Wells - Groups,Elena Rybakina,Linda Noskova,moneyline,,1.5076,2.77,,,,2026-11-07 14:20:44.450297+00:00
-1640045776,2026-11-08 20:00:00+00:00,WTA Finals Indian Wells - Groups,Elena Rybakina,Linda Noskova,spread,-1.5,2.28,1.6944,,,,2026-11-07 14:20:44.450297+00:00
-1640045776,2026-11-08 20:00:00+00:00,WTA Finals Indian Wells - Groups,Elena Rybakina,Linda Noskova,total,2.5,,,,2.52,1.5814,2026-11-07 14:20:44.450297+00:00
-1640142383,2026-11-07 18:00:00+00:00,ITF Men Harlingen - SF,Bor Artnak,Kaylan Bigun,moneyline,,2.43,1.5714,,,,2026-11-07 14:20:44.450297+00:00
-1640142383,2026-11-07 18:00:00+00:00,ITF Men Harlingen - SF,Bor Artnak,Kaylan Bigun,spread,1.5,1.6369,2.29,,,,2026-11-07 14:20:44.450297+00:00
-1640142383,2026-11-07 18:00:00+00:00,ITF Men Harlingen - SF,Bor Artnak,Kaylan Bigun,total,2.5,,,,2.6,1.5102,2026-11-07 14:20:44.450297+00:00
-1640137699,2026-11-07 15:40:00+00:00,ATP Stockholm - Qualifiers,Jacob Fearnley,Arthur Nagel,moneyline,,1.0861,7.93,,,,2026-11-07 14:20:44.450297+00:00
-1640137699,2026-11-07 15:40:00+00:00,ATP Stockholm - Qualifiers,Jacob Fearnley,Arthur Nagel,spread,-1.5,1.4049,3.02,,,,2026-11-07 14:20:44.450297+00:00
-1640137699,2026-11-07 15:40:00+00:00,ATP Stockholm - Qualifiers,Jacob Fearnley,Arthur Nagel,total,2.5,,,,3.62,1.303,2026-11-07 14:20:44.450297+00:00
-1640045778,2026-11-09 20:00:00+00:00,WTA Finals Indian Wells - Groups,Aryna Sabalenka,Karolina Muchova,moneyline,,1.5102,2.76,,,,2026-11-07 14:20:44.450297+00:00
-1640045778,2026-11-09 20:00:00+00:00,WTA Finals Indian Wells - Groups,Aryna Sabalenka,Karolina Muchova,spread,-1.5,2.31,1.6803,,,,2026-11-07 14:20:44.450297+00:00
-1640045778,2026-11-09 20:00:00+00:00,WTA Finals Indian Wells - Groups,Aryna Sabalenka,Karolina Muchova,total,2.5,,,,2.47,1.6024,2026-11-07 14:20:44.450297+00:00
-1640137706,2026-11-07 17:00:00+00:00,ITF Men Hilton Head Island - SF,Dragos Nicolae Cazacu,Max Sheldon,moneyline,,1.7353,2.12,,,,2026-11-07 14:20:44.450297+00:00
-1640137706,2026-11-07 17:00:00+00:00,ITF Men Hilton Head Island - SF,Dragos Nicolae Cazacu,Max Sheldon,spread,-1.5,2.62,1.5,,,,2026-11-07 14:20:44.450297+00:00
-1640137706,2026-11-07 17:00:00+00:00,ITF Men Hilton Head Island - SF,Dragos Nicolae Cazacu,Max Sheldon,total,2.5,,,,2.56,1.5208,2026-11-07 14:20:44.450297+00:00
-1640045183,2026-11-09 21:30:00+00:00,WTA Finals Indian Wells - Groups,Mirra Andreeva,Elina Svitolina,moneyline,,1.5464,2.65,,,,2026-11-07 14:20:44.450297+00:00
-1640045183,2026-11-09 21:30:00+00:00,WTA Finals Indian Wells - Groups,Mirra Andreeva,Elina Svitolina,spread,-1.5,2.37,1.6494,,,,2026-11-07 14:20:44.450297+00:00
-1640045183,2026-11-09 21:30:00+00:00,WTA Finals Indian Wells - Groups,Mirra Andreeva,Elina Svitolina,total,2.5,,,,2.5,1.5917,2026-11-07 14:20:44.450297+00:00
-1640142347,2026-11-07 14:45:00+00:00,ATP Stockholm - Qualifiers,Adrian Mannarino,Jan Simonsson,moneyline,,1.0318,15.01,,,,2026-11-07 14:20:44.450297+00:00
-1640142347,2026-11-07 14:45:00+00:00,ATP Stockholm - Qualifiers,Adrian Mannarino,Jan Simonsson,spread,-1.5,1.1287,6.45,,,,2026-11-07 14:20:44.450297+00:00
-1640142347,2026-11-07 14:45:00+00:00,ATP Stockholm - Qualifiers,Adrian Mannarino,Jan Simonsson,total,2.5,,,,8.02,1.094,2026-11-07 14:20:44.450297+00:00
-1640142359,2026-11-07 18:30:00+00:00,ATP Challenger Charlottesville - SF,Aidan Mayo,Andres Andrade,moneyline,,1.4717,2.79,,,,2026-11-07 14:20:44.450297+00:00
-1640142359,2026-11-07 18:30:00+00:00,ATP Challenger Charlottesville - SF,Aidan Mayo,Andres Andrade,spread,-1.5,2.27,1.6757,,,,2026-11-07 14:20:44.450297+00:00
-1640142359,2026-11-07 18:30:00+00:00,ATP Challenger Charlottesville - SF,Aidan Mayo,Andres Andrade,total,2.5,,,,2.42,1.5988,2026-11-07 14:20:44.450297+00:00
-1640148937,2026-11-07 17:30:00+00:00,ITF Men Guadalajara - Final,Lorenzo Claverie,Luis Carlos Alvarez,moneyline,,2.61,1.5051,,,,2026-11-07 14:20:44.450297+00:00
-1640148937,2026-11-07 17:30:00+00:00,ITF Men Guadalajara - Final,Lorenzo Claverie,Luis Carlos Alvarez,spread,1.5,1.6993,2.18,,,,2026-11-07 14:20:44.450297+00:00
-1640148937,2026-11-07 17:30:00+00:00,ITF Men Guadalajara - Final,Lorenzo Claverie,Luis Carlos Alvarez,total,2.5,,,,2.61,1.5051,2026-11-07 14:20:44.450297+00:00
-1640180519,2026-11-07 14:30:00+00:00,WTA 125k Luanda - SF,Anna Blinkova,Gina Feistel,moneyline,,1.1908,5.04,,,,2026-11-07 14:20:44.450297+00:00
-1640180519,2026-11-07 14:30:00+00:00,WTA 125k Luanda - SF,Anna Blinkova,Gina Feistel,spread,-1.5,1.6135,2.39,,,,2026-11-07 14:20:44.450297+00:00
-1640180519,2026-11-07 14:30:00+00:00,WTA 125k Luanda - SF,Anna Blinkova,Gina Feistel,total,2.5,,,,3.04,1.4082,2026-11-07 14:20:44.450297+00:00
 1640142344,2026-11-07 14:37:00+00:00,ATP Challenger Bratislava - SF,Dalibor Svrcina,Jurij Rodionov,moneyline,,1.7407,2.2,,,,2026-11-07 14:20:44.450297+00:00
 1640142344,2026-11-07 14:37:00+00:00,ATP Challenger Bratislava - SF,Dalibor Svrcina,Jurij Rodionov,spread,-1.5,2.75,1.4926,,,,2026-11-07 14:20:44.450297+00:00
 1640142344,2026-11-07 14:37:00+00:00,ATP Challenger Bratislava - SF,Dalibor Svrcina,Jurij Rodionov,total,2.5,,,,2.34,1.6494,2026-11-07 14:20:44.450297+00:00
-1640137742,2026-11-08 06:00:00+00:00,ITF Men Harlingen - SF,Keaton Hance,Connor Henry Van Schalkwyk,moneyline,,1.813,1.9524,,,,2026-11-07 14:20:44.450297+00:00
-1640137742,2026-11-08 06:00:00+00:00,ITF Men Harlingen - SF,Keaton Hance,Connor Henry Van Schalkwyk,spread,-1.5,2.61,1.4651,,,,2026-11-07 14:20:44.450297+00:00
-1640137742,2026-11-08 06:00:00+00:00,ITF Men Harlingen - SF,Keaton Hance,Connor Henry Van Schalkwyk,total,2.5,,,,2.72,1.4329,2026-11-07 14:20:44.450297+00:00
-1640045177,2026-11-08 22:00:00+00:00,WTA Finals Indian Wells - Groups,Coco Gauff,Jessica Pegula,moneyline,,1.6623,2.37,,,,2026-11-07 14:20:44.450297+00:00
-1640045177,2026-11-08 22:00:00+00:00,WTA Finals Indian Wells - Groups,Coco Gauff,Jessica Pegula,spread,-1.5,2.65,1.5348,,,,2026-11-07 14:20:44.450297+00:00
-1640045177,2026-11-08 22:00:00+00:00,WTA Finals Indian Wells - Groups,Coco Gauff,Jessica Pegula,total,2.5,,,,2.38,1.641,2026-11-07 14:20:44.450297+00:00
-1640045166,2026-11-09 00:00:00+00:00,WTA Finals Indian Wells - Doubles,Katerina Siniakova / Taylor Townsend,Sara Errani / Jasmine Paolini,moneyline,,1.3268,3.35,,,,2026-11-07 14:20:44.450297+00:00
-1640180488,2026-11-08 01:00:00+00:00,WTA Hong Kong - Final,Claire Liu,Alexandra Eala,moneyline,,3.17,1.4016,,,,2026-11-07 14:20:44.450297+00:00
-1640180488,2026-11-08 01:00:00+00:00,WTA Hong Kong - Final,Claire Liu,Alexandra Eala,spread,1.5,1.7576,2.15,,,,2026-11-07 14:20:44.450297+00:00
-1640180488,2026-11-08 01:00:00+00:00,WTA Hong Kong - Final,Claire Liu,Alexandra Eala,total,2.5,,,,2.42,1.6135,2026-11-07 14:20:44.450297+00:00
-1640137695,2026-11-07 17:00:00+00:00,ITF Men Trois-Rivieres - SF,Nikola Slavic,Mikael Arseneault,moneyline,,2.17,1.7042,,,,2026-11-07 14:20:44.450297+00:00
-1640137695,2026-11-07 17:00:00+00:00,ITF Men Trois-Rivieres - SF,Nikola Slavic,Mikael Arseneault,spread,1.5,1.5,2.63,,,,2026-11-07 14:20:44.450297+00:00
-1640137695,2026-11-07 17:00:00+00:00,ITF Men Trois-Rivieres - SF,Nikola Slavic,Mikael Arseneault,total,2.5,,,,2.41,1.578,2026-11-07 14:20:44.450297+00:00
-1640137721,2026-11-07 16:00:00+00:00,ATP Paris - SF,Casper Ruud,Carlos Alcaraz,moneyline,,4.78,1.2273,,,,2026-11-07 14:20:44.450297+00:00
-1640137721,2026-11-07 16:00:00+00:00,ATP Paris - SF,Casper Ruud,Carlos Alcaraz,spread,1.5,2.35,1.6579,,,,2026-11-07 14:20:44.450297+00:00
-1640137721,2026-11-07 16:00:00+00:00,ATP Paris - SF,Casper Ruud,Carlos Alcaraz,total,2.5,,,,2.96,1.4464,2026-11-07 14:20:44.450297+00:00
-1640044281,2026-11-09 23:00:00+00:00,WTA Finals Indian Wells - Doubles,Gabriela Dabrowski / Luisa Stefani,Elise Mertens / Shuai Zhang,moneyline,,1.4525,2.68,,,,2026-11-07 14:20:44.450297+00:00
-1640142340,2026-11-07 17:00:00+00:00,ITF Men Trois-Rivieres - SF,Eric David Verdes,Johan Oscar Lien,moneyline,,2.31,1.625,,,,2026-11-07 14:20:44.450297+00:00
-1640142340,2026-11-07 17:00:00+00:00,ITF Men Trois-Rivieres - SF,Eric David Verdes,Johan Oscar Lien,spread,1.5,1.5714,2.43,,,,2026-11-07 14:20:44.450297+00:00
-1640142340,2026-11-07 17:00:00+00:00,ITF Men Trois-Rivieres - SF,Eric David Verdes,Johan Oscar Lien,total,2.5,,,,2.57,1.5181,2026-11-07 14:20:44.450297+00:00
-1640137711,2026-11-07 15:30:00+00:00,ATP Challenger Villa Maria - SF,Federico Coria,Genaro Alberto Olivieri,moneyline,,2.01,1.8696,,,,2026-11-07 14:20:44.450297+00:00
-1640137711,2026-11-07 15:30:00+00:00,ATP Challenger Villa Maria - SF,Federico Coria,Genaro Alberto Olivieri,spread,1.5,1.4132,3.07,,,,2026-11-07 14:20:44.450297+00:00
-1640137711,2026-11-07 15:30:00+00:00,ATP Challenger Villa Maria - SF,Federico Coria,Genaro Alberto Olivieri,total,2.5,,,,2.3,1.6711,2026-11-07 14:20:44.450297+00:00
-1640162453,2026-11-08 05:00:00+00:00,ITF Men Fergana - Final,Digvijay Pratap Singh,Dmitry Bessonov,moneyline,,1.3086,3.31,,,,2026-11-07 14:20:44.450297+00:00
-1640162453,2026-11-08 05:00:00+00:00,ITF Men Fergana - Final,Digvijay Pratap Singh,Dmitry Bessonov,spread,-1.5,1.8403,1.9174,,,,2026-11-07 14:20:44.450297+00:00
-1640162453,2026-11-08 05:00:00+00:00,ITF Men Fergana - Final,Digvijay Pratap Singh,Dmitry Bessonov,total,2.5,,,,2.71,1.4348,2026-11-07 14:20:44.450297+00:00
-1640148872,2026-11-07 17:30:00+00:00,ATP Paris - Doubles,Harri Heliovaara / Henry Patten,Quentin Halys / Pierre-Hugues Herbert,moneyline,,1.4878,2.66,,,,2026-11-07 14:20:44.450297+00:00
-1640162422,2026-11-08 02:00:00+00:00,ATP Challenger Taipei - Final,Yosuke Watanuki,Jan Kumstat,moneyline,,1.5464,2.58,,,,2026-11-07 14:20:44.450297+00:00
-1640162422,2026-11-08 02:00:00+00:00,ATP Challenger Taipei - Final,Yosuke Watanuki,Jan Kumstat,spread,-1.5,2.33,1.641,,,,2026-11-07 14:20:44.450297+00:00
-1640162422,2026-11-08 02:00:00+00:00,ATP Challenger Taipei - Final,Yosuke Watanuki,Jan Kumstat,total,2.5,,,,2.54,1.5525,2026-11-07 14:20:44.450297+00:00
-1640137702,2026-11-07 18:00:00+00:00,ATP Challenger Costa do Sauipe - SF,Gonzalo Bueno,Camilo Ugo Carabelli,moneyline,,3.83,1.2933,,,,2026-11-07 14:20:44.450297+00:00
-1640137702,2026-11-07 18:00:00+00:00,ATP Challenger Costa do Sauipe - SF,Gonzalo Bueno,Camilo Ugo Carabelli,spread,1.5,2.0,1.8621,,,,2026-11-07 14:20:44.450297+00:00
-1640137702,2026-11-07 18:00:00+00:00,ATP Challenger Costa do Sauipe - SF,Gonzalo Bueno,Camilo Ugo Carabelli,total,2.5,,,,2.7,1.4975,2026-11-07 14:20:44.450297+00:00
+1640044281,2026-11-09 23:00:00+00:00,WTA Finals Indian Wells - Doubles,Gabriela Dabrowski / Luisa Stefani,Elise Mertens / Shuai Zhang,moneyline,,1.4525,2.68,,,,2026-11-07 14:50:52.112898+00:00
+1640137702,2026-11-07 18:00:00+00:00,ATP Challenger Costa do Sauipe - SF,Gonzalo Bueno,Camilo Ugo Carabelli,moneyline,,3.87,1.2976,,,,2026-11-07 14:50:52.112898+00:00
+1640137702,2026-11-07 18:00:00+00:00,ATP Challenger Costa do Sauipe - SF,Gonzalo Bueno,Camilo Ugo Carabelli,spread,1.5,2.01,1.8696,,,,2026-11-07 14:50:52.112898+00:00
+1640137702,2026-11-07 18:00:00+00:00,ATP Challenger Costa do Sauipe - SF,Gonzalo Bueno,Camilo Ugo Carabelli,total,2.5,,,,2.72,1.5025,2026-11-07 14:50:52.112898+00:00
+1640045182,2026-11-10 00:30:00+00:00,WTA Finals Indian Wells - Doubles,Hanyu Guo / Kristina Mladenovic,Hsieh Su-wei / Jelena Ostapenko,moneyline,,2.24,1.625,,,,2026-11-07 14:50:52.112898+00:00
+1640137695,2026-11-07 17:00:00+00:00,ITF Men Trois-Rivieres - SF,Nikola Slavic,Mikael Arseneault,moneyline,,2.17,1.7042,,,,2026-11-07 14:50:52.112898+00:00
+1640137695,2026-11-07 17:00:00+00:00,ITF Men Trois-Rivieres - SF,Nikola Slavic,Mikael Arseneault,spread,1.5,1.5,2.63,,,,2026-11-07 14:50:52.112898+00:00
+1640137695,2026-11-07 17:00:00+00:00,ITF Men Trois-Rivieres - SF,Nikola Slavic,Mikael Arseneault,total,2.5,,,,2.41,1.578,2026-11-07 14:50:52.112898+00:00
+1640137699,2026-11-07 16:30:00+00:00,ATP Stockholm - Qualifiers,Jacob Fearnley,Arthur Nagel,moneyline,,1.0861,7.93,,,,2026-11-07 14:50:52.112898+00:00
+1640137699,2026-11-07 16:30:00+00:00,ATP Stockholm - Qualifiers,Jacob Fearnley,Arthur Nagel,spread,-1.5,1.4049,3.02,,,,2026-11-07 14:50:52.112898+00:00
+1640137699,2026-11-07 16:30:00+00:00,ATP Stockholm - Qualifiers,Jacob Fearnley,Arthur Nagel,total,2.5,,,,3.62,1.303,2026-11-07 14:50:52.112898+00:00
+1640162422,2026-11-08 02:00:00+00:00,ATP Challenger Taipei - Final,Yosuke Watanuki,Jan Kumstat,moneyline,,1.5464,2.58,,,,2026-11-07 14:50:52.112898+00:00
+1640162422,2026-11-08 02:00:00+00:00,ATP Challenger Taipei - Final,Yosuke Watanuki,Jan Kumstat,spread,-1.5,2.33,1.641,,,,2026-11-07 14:50:52.112898+00:00
+1640162422,2026-11-08 02:00:00+00:00,ATP Challenger Taipei - Final,Yosuke Watanuki,Jan Kumstat,total,2.5,,,,2.54,1.5525,2026-11-07 14:50:52.112898+00:00
+1640137721,2026-11-07 16:30:00+00:00,ATP Paris - SF,Casper Ruud,Carlos Alcaraz,moneyline,,4.83,1.2242,,,,2026-11-07 14:50:52.112898+00:00
+1640137721,2026-11-07 16:30:00+00:00,ATP Paris - SF,Casper Ruud,Carlos Alcaraz,spread,1.5,2.36,1.6494,,,,2026-11-07 14:50:52.112898+00:00
+1640137721,2026-11-07 16:30:00+00:00,ATP Paris - SF,Casper Ruud,Carlos Alcaraz,total,2.5,,,,2.97,1.4444,2026-11-07 14:50:52.112898+00:00
+1640045778,2026-11-09 20:00:00+00:00,WTA Finals Indian Wells - Groups,Aryna Sabalenka,Karolina Muchova,moneyline,,1.5102,2.76,,,,2026-11-07 14:50:52.112898+00:00
+1640045778,2026-11-09 20:00:00+00:00,WTA Finals Indian Wells - Groups,Aryna Sabalenka,Karolina Muchova,spread,-1.5,2.31,1.6803,,,,2026-11-07 14:50:52.112898+00:00
+1640045778,2026-11-09 20:00:00+00:00,WTA Finals Indian Wells - Groups,Aryna Sabalenka,Karolina Muchova,total,2.5,,,,2.47,1.6024,2026-11-07 14:50:52.112898+00:00
+1640180488,2026-11-08 08:00:00+00:00,WTA Hong Kong - Final,Claire Liu,Alexandra Eala,moneyline,,3.17,1.4016,,,,2026-11-07 14:50:52.112898+00:00
+1640180488,2026-11-08 08:00:00+00:00,WTA Hong Kong - Final,Claire Liu,Alexandra Eala,spread,1.5,1.7576,2.15,,,,2026-11-07 14:50:52.112898+00:00
+1640180488,2026-11-08 08:00:00+00:00,WTA Hong Kong - Final,Claire Liu,Alexandra Eala,total,2.5,,,,2.42,1.6135,2026-11-07 14:50:52.112898+00:00
+1640137742,2026-11-08 06:00:00+00:00,ITF Men Harlingen - SF,Keaton Hance,Connor Henry Van Schalkwyk,moneyline,,1.813,1.9524,,,,2026-11-07 14:50:52.112898+00:00
+1640137742,2026-11-08 06:00:00+00:00,ITF Men Harlingen - SF,Keaton Hance,Connor Henry Van Schalkwyk,spread,-1.5,2.61,1.4651,,,,2026-11-07 14:50:52.112898+00:00
+1640137742,2026-11-08 06:00:00+00:00,ITF Men Harlingen - SF,Keaton Hance,Connor Henry Van Schalkwyk,total,2.5,,,,2.72,1.4329,2026-11-07 14:50:52.112898+00:00
+1640045183,2026-11-09 21:30:00+00:00,WTA Finals Indian Wells - Groups,Mirra Andreeva,Elina Svitolina,moneyline,,1.5464,2.65,,,,2026-11-07 14:50:52.112898+00:00
+1640045183,2026-11-09 21:30:00+00:00,WTA Finals Indian Wells - Groups,Mirra Andreeva,Elina Svitolina,spread,-1.5,2.37,1.6494,,,,2026-11-07 14:50:52.112898+00:00
+1640045183,2026-11-09 21:30:00+00:00,WTA Finals Indian Wells - Groups,Mirra Andreeva,Elina Svitolina,total,2.5,,,,2.5,1.5917,2026-11-07 14:50:52.112898+00:00
+1640045776,2026-11-08 20:00:00+00:00,WTA Finals Indian Wells - Groups,Elena Rybakina,Linda Noskova,moneyline,,1.5076,2.77,,,,2026-11-07 14:50:52.112898+00:00
+1640045776,2026-11-08 20:00:00+00:00,WTA Finals Indian Wells - Groups,Elena Rybakina,Linda Noskova,spread,-1.5,2.28,1.6944,,,,2026-11-07 14:50:52.112898+00:00
+1640045776,2026-11-08 20:00:00+00:00,WTA Finals Indian Wells - Groups,Elena Rybakina,Linda Noskova,total,2.5,,,,2.52,1.5814,2026-11-07 14:50:52.112898+00:00
+1640142359,2026-11-07 18:30:00+00:00,ATP Challenger Charlottesville - SF,Aidan Mayo,Andres Andrade,moneyline,,1.4717,2.79,,,,2026-11-07 14:50:52.112898+00:00
+1640142359,2026-11-07 18:30:00+00:00,ATP Challenger Charlottesville - SF,Aidan Mayo,Andres Andrade,spread,-1.5,2.27,1.6757,,,,2026-11-07 14:50:52.112898+00:00
+1640142359,2026-11-07 18:30:00+00:00,ATP Challenger Charlottesville - SF,Aidan Mayo,Andres Andrade,total,2.5,,,,2.42,1.5988,2026-11-07 14:50:52.112898+00:00
+1640045167,2026-11-09 02:00:00+00:00,WTA Finals Indian Wells - Doubles,Cristina Bucsa / Nicole Melichar,Ellen Perez / Demi Schuurs,moneyline,,1.7092,2.14,,,,2026-11-07 14:50:52.112898+00:00
+1640148937,2026-11-07 17:30:00+00:00,ITF Men Guadalajara - Final,Lorenzo Claverie,Luis Carlos Alvarez,moneyline,,2.54,1.5319,,,,2026-11-07 14:50:52.112898+00:00
+1640148937,2026-11-07 17:30:00+00:00,ITF Men Guadalajara - Final,Lorenzo Claverie,Luis Carlos Alvarez,spread,1.5,1.6711,2.23,,,,2026-11-07 14:50:52.112898+00:00
+1640148937,2026-11-07 17:30:00+00:00,ITF Men Guadalajara - Final,Lorenzo Claverie,Luis Carlos Alvarez,total,2.5,,,,2.58,1.5128,2026-11-07 14:50:52.112898+00:00
+1640181681,2026-11-08 03:30:00+00:00,ITF Men Maanshan - Final,Rigele Te,Kristjan Tamm,moneyline,,1.4386,2.64,,,,2026-11-07 14:50:52.112898+00:00
+1640181681,2026-11-08 03:30:00+00:00,ITF Men Maanshan - Final,Rigele Te,Kristjan Tamm,spread,-1.5,2.15,1.6452,,,,2026-11-07 14:50:52.112898+00:00
+1640181681,2026-11-08 03:30:00+00:00,ITF Men Maanshan - Final,Rigele Te,Kristjan Tamm,total,2.5,,,,2.4,1.5208,2026-11-07 14:50:52.112898+00:00
+1640162453,2026-11-08 05:00:00+00:00,ITF Men Fergana - Final,Digvijay Pratap Singh,Dmitry Bessonov,moneyline,,1.3086,3.31,,,,2026-11-07 14:50:52.112898+00:00
+1640162453,2026-11-08 05:00:00+00:00,ITF Men Fergana - Final,Digvijay Pratap Singh,Dmitry Bessonov,spread,-1.5,1.8403,1.9174,,,,2026-11-07 14:50:52.112898+00:00
+1640162453,2026-11-08 05:00:00+00:00,ITF Men Fergana - Final,Digvijay Pratap Singh,Dmitry Bessonov,total,2.5,,,,2.71,1.4348,2026-11-07 14:50:52.112898+00:00
+1640137722,2026-11-07 20:00:00+00:00,ATP Challenger Costa do Sauipe - SF,Facundo Diaz Acosta,Thiago Seyboth Wild,moneyline,,2.28,1.6803,,,,2026-11-07 14:50:52.112898+00:00
+1640137722,2026-11-07 20:00:00+00:00,ATP Challenger Costa do Sauipe - SF,Facundo Diaz Acosta,Thiago Seyboth Wild,spread,1.5,1.5263,2.61,,,,2026-11-07 14:50:52.112898+00:00
+1640137722,2026-11-07 20:00:00+00:00,ATP Challenger Costa do Sauipe - SF,Facundo Diaz Acosta,Thiago Seyboth Wild,total,2.5,,,,2.38,1.6173,2026-11-07 14:50:52.112898+00:00
+1640045166,2026-11-09 00:00:00+00:00,WTA Finals Indian Wells - Doubles,Katerina Siniakova / Taylor Townsend,Sara Errani / Jasmine Paolini,moneyline,,1.3268,3.35,,,,2026-11-07 14:50:52.112898+00:00
+1640148916,2026-11-07 20:00:00+00:00,ATP Challenger Charlottesville - SF,Clement Chidekh,Stefan Kozlov,moneyline,,1.25,4.19,,,,2026-11-07 14:50:52.112898+00:00
+1640148916,2026-11-07 20:00:00+00:00,ATP Challenger Charlottesville - SF,Clement Chidekh,Stefan Kozlov,spread,-1.5,1.7519,2.14,,,,2026-11-07 14:50:52.112898+00:00
+1640148916,2026-11-07 20:00:00+00:00,ATP Challenger Charlottesville - SF,Clement Chidekh,Stefan Kozlov,total,2.5,,,,2.83,1.4587,2026-11-07 14:50:52.112898+00:00
+1640137711,2026-11-07 15:30:00+00:00,ATP Challenger Villa Maria - SF,Federico Coria,Genaro Alberto Olivieri,moneyline,,2.01,1.8696,,,,2026-11-07 14:50:52.112898+00:00
+1640137711,2026-11-07 15:30:00+00:00,ATP Challenger Villa Maria - SF,Federico Coria,Genaro Alberto Olivieri,spread,1.5,1.4132,3.07,,,,2026-11-07 14:50:52.112898+00:00
+1640137711,2026-11-07 15:30:00+00:00,ATP Challenger Villa Maria - SF,Federico Coria,Genaro Alberto Olivieri,total,2.5,,,,2.3,1.6711,2026-11-07 14:50:52.112898+00:00
+1640142383,2026-11-07 18:00:00+00:00,ITF Men Harlingen - SF,Bor Artnak,Kaylan Bigun,moneyline,,2.43,1.5714,,,,2026-11-07 14:50:52.112898+00:00
+1640142383,2026-11-07 18:00:00+00:00,ITF Men Harlingen - SF,Bor Artnak,Kaylan Bigun,spread,1.5,1.6369,2.29,,,,2026-11-07 14:50:52.112898+00:00
+1640142383,2026-11-07 18:00:00+00:00,ITF Men Harlingen - SF,Bor Artnak,Kaylan Bigun,total,2.5,,,,2.6,1.5102,2026-11-07 14:50:52.112898+00:00
+1640181743,2026-11-07 16:35:00+00:00,WTA 125k Luanda - Doubles,Sada Nahimana / Angella Okutoyi,Martyna Kubka / Justina Mikulskyte,moneyline,,2.09,1.6803,,,,2026-11-07 14:50:52.112898+00:00
+1640045177,2026-11-08 22:00:00+00:00,WTA Finals Indian Wells - Groups,Coco Gauff,Jessica Pegula,moneyline,,1.6623,2.37,,,,2026-11-07 14:50:52.112898+00:00
+1640045177,2026-11-08 22:00:00+00:00,WTA Finals Indian Wells - Groups,Coco Gauff,Jessica Pegula,spread,-1.5,2.65,1.5348,,,,2026-11-07 14:50:52.112898+00:00
+1640045177,2026-11-08 22:00:00+00:00,WTA Finals Indian Wells - Groups,Coco Gauff,Jessica Pegula,total,2.5,,,,2.38,1.641,2026-11-07 14:50:52.112898+00:00
+1640137706,2026-11-07 17:00:00+00:00,ITF Men Hilton Head Island - SF,Dragos Nicolae Cazacu,Max Sheldon,moneyline,,1.7353,2.12,,,,2026-11-07 14:50:52.112898+00:00
+1640137706,2026-11-07 17:00:00+00:00,ITF Men Hilton Head Island - SF,Dragos Nicolae Cazacu,Max Sheldon,spread,-1.5,2.62,1.5,,,,2026-11-07 14:50:52.112898+00:00
+1640137706,2026-11-07 17:00:00+00:00,ITF Men Hilton Head Island - SF,Dragos Nicolae Cazacu,Max Sheldon,total,2.5,,,,2.56,1.5208,2026-11-07 14:50:52.112898+00:00
+1640142347,2026-11-07 15:45:00+00:00,ATP Stockholm - Qualifiers,Adrian Mannarino,Jan Simonsson,moneyline,,1.0318,15.01,,,,2026-11-07 14:50:52.112898+00:00
+1640142347,2026-11-07 15:45:00+00:00,ATP Stockholm - Qualifiers,Adrian Mannarino,Jan Simonsson,spread,-1.5,1.1287,6.45,,,,2026-11-07 14:50:52.112898+00:00
+1640142347,2026-11-07 15:45:00+00:00,ATP Stockholm - Qualifiers,Adrian Mannarino,Jan Simonsson,total,2.5,,,,8.02,1.094,2026-11-07 14:50:52.112898+00:00
+1640142340,2026-11-07 17:00:00+00:00,ITF Men Trois-Rivieres - SF,Eric David Verdes,Johan Oscar Lien,moneyline,,2.31,1.625,,,,2026-11-07 14:50:52.112898+00:00
+1640142340,2026-11-07 17:00:00+00:00,ITF Men Trois-Rivieres - SF,Eric David Verdes,Johan Oscar Lien,spread,1.5,1.5714,2.43,,,,2026-11-07 14:50:52.112898+00:00
+1640142340,2026-11-07 17:00:00+00:00,ITF Men Trois-Rivieres - SF,Eric David Verdes,Johan Oscar Lien,total,2.5,,,,2.57,1.5181,2026-11-07 14:50:52.112898+00:00
+1640180519,2026-11-07 15:30:00+00:00,WTA 125k Luanda - SF,Anna Blinkova,Gina Feistel,moneyline,,1.1916,5.03,,,,2026-11-07 14:50:52.112898+00:00
+1640180519,2026-11-07 15:30:00+00:00,WTA 125k Luanda - SF,Anna Blinkova,Gina Feistel,spread,-1.5,1.5952,2.43,,,,2026-11-07 14:50:52.112898+00:00
+1640180519,2026-11-07 15:30:00+00:00,WTA 125k Luanda - SF,Anna Blinkova,Gina Feistel,total,2.5,,,,3.14,1.3891,2026-11-07 14:50:52.112898+00:00
+1640148872,2026-11-07 17:30:00+00:00,ATP Paris - Doubles,Harri Heliovaara / Henry Patten,Quentin Halys / Pierre-Hugues Herbert,moneyline,,1.4878,2.66,,,,2026-11-07 14:50:52.112898+00:00
+1640137708,2026-11-07 17:00:00+00:00,ITF Men Hilton Head Island - SF,Gavin Goode,William Mirarchi,moneyline,,1.3937,3.03,,,,2026-11-07 14:50:52.112898+00:00
+1640137708,2026-11-07 17:00:00+00:00,ITF Men Hilton Head Island - SF,Gavin Goode,William Mirarchi,spread,-1.5,1.9091,1.9091,,,,2026-11-07 14:50:52.112898+00:00
+1640137708,2026-11-07 17:00:00+00:00,ITF Men Hilton Head Island - SF,Gavin Goode,William Mirarchi,total,2.5,,,,3.02,1.3953,2026-11-07 14:50:52.112898+00:00
