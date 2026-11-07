@@ -633,15 +633,18 @@
     "away": "Columbus Blue Jackets",
     "txt": "Gana Columbus Blue Jackets",
     "odds": 2.45,
-    "p": 0.4276588435374149
+    "p": 0.4276588435374149,
+    "ok": false,
+    "por": "ganó Buffalo Sabres 5-2",
+    "clv": -0.028
    }
   ],
   "odds": 7.55,
   "p": 0.15296840577832707,
   "stake": 1.0,
-  "estado": "pendiente",
-  "avisada": false,
-  "rev": 1
+  "estado": "perdida",
+  "avisada": true,
+  "rev": 2
  },
  {
   "id": "20261105202128542323",
@@ -1217,7 +1220,10 @@
     "away": "Philadelphia 76ers",
     "txt": "Gana Cleveland Cavaliers",
     "odds": 2.24,
-    "p": 0.46241
+    "p": 0.46241,
+    "ok": true,
+    "por": "ganó Cleveland Cavaliers 119-95",
+    "clv": -0.037
    }
   ],
   "odds": 5.35,
