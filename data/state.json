@@ -1291,9 +1291,6 @@
   "atp|2026-11-07|Adrian Mannarino|Jan Simonsson",
   "atp|2026-11-07|Luca Van Assche|Ben Shelton",
   "wta|2026-11-07|Magda Linette|Anastasia Zakharova",
-  "cs2|133316",
-  "cs2|133318",
-  "cs2|133321",
   "cs2|133319",
   "cs2|133320",
   "cs2|133322",
@@ -2293,7 +2290,74 @@
   "fc|2365277",
   "fc|2366325",
   "fc|2366324",
-  "fc|2365942"
+  "fc|2365942",
+  "MEX|2026-11-09|Queretaro|Puebla",
+  "MEX|2026-11-09|Club Leon|Guadalajara Chivas",
+  "SP2|2026-11-09|Sabadell|Sociedad B",
+  "nba|2026-11-10|Atlanta Hawks|Los Angeles Lakers",
+  "nba|2026-11-10|Charlotte Hornets|Cleveland Cavaliers",
+  "nba|2026-11-10|Detroit Pistons|Washington Wizards",
+  "nba|2026-11-10|Toronto Raptors|Memphis Grizzlies",
+  "nba|2026-11-10|Dallas Mavericks|Indiana Pacers",
+  "nba|2026-11-10|Houston Rockets|Denver Nuggets",
+  "nba|2026-11-10|Phoenix Suns|San Antonio Spurs",
+  "nba|2026-11-10|Golden State Warriors|New Orleans Pelicans",
+  "nfl|2026-11-10|Minnesota Vikings|Buffalo Bills",
+  "nhl|2026-11-10|Edmonton Oilers|New York Rangers",
+  "nhl|2026-11-10|Vancouver Canucks|Philadelphia Flyers",
+  "nhl|2026-11-10|San Jose Sharks|New York Islanders",
+  "atp|2026-11-07|Casper Ruud|Carlos Alcaraz",
+  "cbb|2026-11-09|Chicago State Cougars|South Carolina State Bulldogs",
+  "cbb|2026-11-09|Coppin State Eagles|Cheyney (PA) Wolves",
+  "cbb|2026-11-09|Alabama State Hornets|Georgia Gwinnett Grizzlies",
+  "cbb|2026-11-09|West Florida Argonauts|Baptist (Fl) Eagles",
+  "cbb|2026-11-09|UMBC Retrievers|McDaniel Green Terror",
+  "cbb|2026-11-09|Canisius Golden Griffins|Hiram Terriers",
+  "cbb|2026-11-09|Ohio State Buckeyes|Marshall Thundering Herd",
+  "cbb|2026-11-09|Pennsylvania Quakers|Howard Bison",
+  "cbb|2026-11-09|Buffalo Bulls|Penn State Schuylkill Nittany Lions",
+  "cbb|2026-11-09|Indiana Hoosiers|Syracuse Orange",
+  "cbb|2026-11-10|UConn Huskies|Wagner Seahawks",
+  "cbb|2026-11-10|Texas Longhorns|Grambling Tigers",
+  "cbb|2026-11-10|Tennessee Volunteers|Radford Highlanders",
+  "cbb|2026-11-10|Miami Hurricanes|North Florida Ospreys",
+  "cbb|2026-11-10|Western Illinois Leathernecks|Simpson (IA) Storm",
+  "cbb|2026-11-10|Akron Zips|Muskingum Fighting Muskies",
+  "cbb|2026-11-10|UIC Flames|UNC Greensboro Spartans",
+  "cbb|2026-11-10|Notre Dame Fighting Irish|Eastern Illinois Panthers",
+  "cbb|2026-11-10|Coastal Carolina Chanticleers|South Carolina Upstate Spartans",
+  "cbb|2026-11-10|Loyola Maryland Greyhounds|Washington Maryland Shoremen",
+  "cbb|2026-11-10|Chattanooga Mocs|Covenant Fighting Scots",
+  "cbb|2026-11-10|Jacksonville Dolphins|Kansas City Roos",
+  "cbb|2026-11-10|Columbia Lions|Stonehill Skyhawks",
+  "cbb|2026-11-10|Towson Tigers|Long Island University Sharks",
+  "cbb|2026-11-10|Le Moyne Dolphins|Elmira Soaring Eagles",
+  "cbb|2026-11-10|Clemson Tigers|North Dakota Fighting Hawks",
+  "cbb|2026-11-10|Cincinnati Bearcats|Minnesota Golden Gophers",
+  "cbb|2026-11-10|Bowling Green Falcons|Cleveland State Vikings",
+  "cbb|2026-11-10|Ball State Cardinals|Brescia Bearcats",
+  "cbb|2026-11-10|Georgia Bulldogs|Florida Gulf Coast Eagles",
+  "cbb|2026-11-10|Alabama Crimson Tide|Oakland Golden Grizzlies",
+  "cbb|2026-11-10|McNeese Cowboys|College of Biblical Studies Ambassadors",
+  "cbb|2026-11-10|UAB Blazers|Florida A&M Rattlers",
+  "cbb|2026-11-10|Mississippi State Bulldogs|Jackson State Tigers",
+  "cbb|2026-11-10|Louisiana Ragin' Cajuns|Southern New Orleans Knights",
+  "cbb|2026-11-10|Missouri Tigers|SIU Edwardsville Cougars",
+  "cbb|2026-11-10|LSU Tigers|Louisiana Tech Bulldogs",
+  "cbb|2026-11-10|Tennessee State Tigers|Fisk Bulldogs",
+  "cbb|2026-11-10|Northwestern Wildcats|Boston University Terriers",
+  "cbb|2026-11-10|Texas A&M Aggies|UL Monroe Warhawks",
+  "cbb|2026-11-10|Oklahoma Sooners|North Alabama Lions",
+  "cbb|2026-11-10|Purdue Boilermakers|Illinois State Redbirds",
+  "cbb|2026-11-10|Auburn Tigers|App State Mountaineers",
+  "cbb|2026-11-10|DePaul Blue Demons|Alabama A&M Bulldogs",
+  "cbb|2026-11-10|Charlotte 49ers|Seton Hall Pirates",
+  "cbb|2026-11-10|Oregon State Beavers|Eastern Washington Eagles",
+  "cbb|2026-11-10|Washington Huskies|Mississippi Valley State Delta Devils",
+  "cbb|2026-11-10|Stanford Cardinal|Rice Owls",
+  "cbb|2026-11-10|Bethesda Flames|UT Arlington Mavericks",
+  "cbb|2026-11-10|Hawai'i Rainbow Warriors|Portland Pilots",
+  "cs2|133301"
  ],
  "signals": [
   {
@@ -2639,29 +2703,6 @@
    "captured": "2026-11-03T06:59",
    "version": "7948daf",
    "bajas": ""
-  },
-  {
-   "market": "away",
-   "odds": 1.206,
-   "book": "DraftKings",
-   "p": 0.855,
-   "implied": 0.796,
-   "edge": 0.032,
-   "key": "cfb|2026-11-04|Akron Zips|Ohio Bobcats",
-   "match": "Akron Zips vs Ohio Bobcats",
-   "pick": "Ohio Bobcats",
-   "start": "2026-11-04T00:00Z",
-   "league": "🏈 NCAA Football",
-   "sport": "🏈",
-   "context": "Akron Zips vs Ohio Bobcats (🏈 NCAA Football, fútbol americano). Modelo Elo con 10 años de historial ajustado por bajas: Akron Zips 8%, Ohio Bobcats 92%. Cuotas DraftKings 4.7/1.206, hándicap OHIO -12.5, total 50.5. Forma Akron Zips ❌❌❌❌❌, Ohio Bobcats ✅✅✅✅✅. H2H 9 desde 2016: 1-8. Bajas Akron Zips: ninguna. Bajas Ohio Bobcats: ninguna.",
-   "considered": true,
-   "placed": false,
-   "captured": "2026-11-03T06:59",
-   "version": "7948daf",
-   "bajas": "Akron Zips: sin bajas; Ohio Bobcats: sin bajas",
-   "result": true,
-   "score": "20-28",
-   "logged": true
   },
   {
    "market": "away",
@@ -4964,104 +5005,6 @@
    "logged": true
   },
   {
-   "market": "H",
-   "pick": "Inquisitor",
-   "odds": 2.55,
-   "book": "Unibet",
-   "implied": 0.339,
-   "edge": 0.213,
-   "sin_stake": true,
-   "p": 0.476,
-   "key": "fc|2359857",
-   "match": "Inquisitor vs hotShot",
-   "start": "2026-11-03T23:56:00+00:00",
-   "league": "🎮⚽ FC 27 · World Cup A",
-   "sport": "🎮⚽",
-   "context": "EA FC Esoccer Battle Inquisitor vs hotShot (World Cup A): goles esperados 2.24-1.79, 1X2 48%/24%/29%. Sin cuotas de casa.",
-   "captured": "2026-11-03T23:10",
-   "version": "4b37b58",
-   "bajas": "",
-   "considered": true,
-   "placed": false,
-   "anunciada": true,
-   "score": "1-2",
-   "result": false,
-   "logged": true
-  },
-  {
-   "market": "H",
-   "pick": "hotShot",
-   "odds": 2.3,
-   "book": "Unibet",
-   "implied": 0.377,
-   "edge": 0.128,
-   "sin_stake": true,
-   "p": 0.49,
-   "key": "fc|2359860",
-   "match": "hotShot vs RossFCDK",
-   "start": "2026-11-04T00:08:00+00:00",
-   "league": "🎮⚽ FC 27 · World Cup A",
-   "sport": "🎮⚽",
-   "context": "EA FC Esoccer Battle hotShot vs RossFCDK (World Cup A): goles esperados 2.21-1.70, 1X2 49%/24%/27%. Sin cuotas de casa.",
-   "captured": "2026-11-03T23:29",
-   "version": "a572043",
-   "bajas": "",
-   "considered": true,
-   "placed": false,
-   "anunciada": true,
-   "score": "0-2",
-   "result": false,
-   "logged": true
-  },
-  {
-   "market": "D",
-   "pick": "Empate",
-   "odds": 6.25,
-   "book": "Unibet",
-   "implied": 0.139,
-   "edge": 0.082,
-   "sin_stake": true,
-   "p": 0.173,
-   "key": "fc|2360810",
-   "match": "tizzy vs Simaponika",
-   "start": "2026-11-04T00:05:00+00:00",
-   "league": "🎮⚽ FC 27 · Serie A",
-   "sport": "🎮⚽",
-   "context": "EA FC Esoccer Battle tizzy vs Simaponika (Serie A): goles esperados 3.39-2.19, 1X2 62%/17%/20%. Sin cuotas de casa.",
-   "captured": "2026-11-03T23:29",
-   "version": "a572043",
-   "bajas": "",
-   "considered": true,
-   "placed": false,
-   "score": "4-4",
-   "result": true,
-   "logged": true
-  },
-  {
-   "market": "A",
-   "pick": "zaha",
-   "odds": 1.38,
-   "book": "Unibet",
-   "implied": 0.628,
-   "edge": 0.133,
-   "sin_stake": true,
-   "p": 0.821,
-   "key": "fc|2361107",
-   "match": "Stenido vs zaha",
-   "start": "2026-11-04T00:06:00+00:00",
-   "league": "🎮⚽ FC 27 · Argentina Super League 2x6",
-   "sport": "🎮⚽",
-   "context": "EA FC Esoccer Battle Stenido vs zaha (Argentina Super League 2x6): goles esperados 3.95-7.13, 1X2 10%/8%/82%. Sin cuotas de casa.",
-   "captured": "2026-11-03T23:59",
-   "version": "7cd4189",
-   "bajas": "",
-   "considered": true,
-   "placed": false,
-   "score": "1-9",
-   "result": true,
-   "logged": true
-  },
-  {
    "market": "D",
    "pick": "Empate",
    "odds": 5.3,
@@ -5082,30 +5025,6 @@
    "considered": true,
    "placed": false,
    "score": "0-4",
-   "result": false,
-   "logged": true
-  },
-  {
-   "market": "D",
-   "pick": "Empate",
-   "odds": 8.0,
-   "book": "Unibet",
-   "implied": 0.109,
-   "edge": -0.013,
-   "sin_stake": true,
-   "p": 0.123,
-   "key": "fc|2360809",
-   "match": "Kavviro vs kkikus",
-   "start": "2026-11-04T00:05:00+00:00",
-   "league": "🎮⚽ FC 27 · Serie A",
-   "sport": "🎮⚽",
-   "context": "EA FC Esoccer Battle Kavviro vs kkikus (Serie A): goles esperados 3.66-1.48, 1X2 79%/12%/8%. Sin cuotas de casa.",
-   "captured": "2026-11-03T23:59",
-   "version": "7cd4189",
-   "bajas": "",
-   "considered": true,
-   "placed": false,
-   "score": "3-1",
    "result": false,
    "logged": true
   },
@@ -5168,15 +5087,6 @@
    "pick": "Más de 56.5 puntos",
    "league": "🏈 NCAA Football",
    "sport": "🏈",
-   "info": [
-    "📊 <b>Escenarios</b>: total esperado <b>52.0</b> puntos · línea 56.5",
-    "Más 50% · Menos 50%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: SMU Mustangs ✅✅✅✅❌ | Virginia Tech Hokies ✅❌❌✅✅",
-    "• H2H: sin precedentes",
-    "• Bajas: SMU Mustangs: sin bajas; Virginia Tech Hokies: sin bajas"
-   ],
    "context": "SMU Mustangs vs Virginia Tech Hokies (🏈 NCAA Football). Modelo de puntos (ataque/defensa con 10 años, decaimiento 1 año): total esperado 52.0 frente a línea 56.5. Forma SMU Mustangs ✅✅✅✅❌, Virginia Tech Hokies ✅❌❌✅✅. H2H sin precedentes. Bajas: SMU Mustangs: sin bajas; Virginia Tech Hokies: sin bajas.",
    "captured": "2026-11-04T00:10",
    "version": "e240f08",
@@ -5198,14 +5108,6 @@
    "pick": "SMU Mustangs -6",
    "league": "🏈 NCAA Football",
    "sport": "🏈",
-   "info": [
-    "📊 <b>Escenarios</b>: SMU Mustangs cubre -6 con prob. 50% (casas 50%)",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: SMU Mustangs ✅✅✅✅❌ | Virginia Tech Hokies ✅❌❌✅✅",
-    "• H2H: sin precedentes",
-    "• Bajas: SMU Mustangs: sin bajas; Virginia Tech Hokies: sin bajas"
-   ],
    "context": "SMU Mustangs vs Virginia Tech Hokies (🏈 NCAA Football). Hándicap SMU Mustangs -6: margen esperado desde el Elo (gana SMU Mustangs 78%). Forma SMU Mustangs ✅✅✅✅❌, Virginia Tech Hokies ✅❌❌✅✅. H2H sin precedentes. Bajas: SMU Mustangs: sin bajas; Virginia Tech Hokies: sin bajas.",
    "captured": "2026-11-04T00:10",
    "version": "e240f08",
@@ -5226,18 +5128,6 @@
    "start": "2026-11-07T00:00Z",
    "league": "🏈 NCAA Football",
    "sport": "🏈",
-   "info": [
-    "📊 <b>Escenarios</b> (Elo con 9.455 partidos y bajas)",
-    "Gana SMU Mustangs 78% · Gana Virginia Tech Hokies 22%",
-    "Casas: SMU Mustangs 66% · Virginia Tech Hokies 34%",
-    "Hándicap SMU -6 · Total puntos 56.5",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: SMU Mustangs ✅✅✅✅❌ | Virginia Tech Hokies ✅❌❌✅✅",
-    "• H2H: sin precedentes",
-    "• Bajas: SMU Mustangs: sin bajas; Virginia Tech Hokies: sin bajas",
-    "• Favorito de las casas: SMU Mustangs @ 1.44"
-   ],
    "context": "SMU Mustangs vs Virginia Tech Hokies (🏈 NCAA Football, fútbol americano). Modelo Elo con 10 años de historial ajustado por bajas: SMU Mustangs 78%, Virginia Tech Hokies 22%. Cuotas DraftKings 1.444/2.85, hándicap SMU -6, total 56.5. Forma SMU Mustangs ✅✅✅✅❌, Virginia Tech Hokies ✅❌❌✅✅. H2H sin precedentes. Bajas SMU Mustangs: ninguna. Bajas Virginia Tech Hokies: ninguna.",
    "captured": "2026-11-04T00:10",
    "version": "e240f08",
@@ -24529,7 +24419,12 @@
    "version": "28a5461",
    "bajas": "Braunschweig: 0 fuera, 4 duda; Cottbus: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "0-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_a_u",
@@ -24550,7 +24445,12 @@
    "version": "28a5461",
    "bajas": "Braunschweig: 0 fuera, 4 duda; Cottbus: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "0-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_t_o",
@@ -24571,7 +24471,12 @@
    "version": "28a5461",
    "bajas": "Braunschweig: 0 fuera, 4 duda; Cottbus: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "0-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_t_u",
@@ -24592,7 +24497,12 @@
    "version": "28a5461",
    "bajas": "Braunschweig: 0 fuera, 4 duda; Cottbus: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "0-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_h_o",
@@ -24613,7 +24523,12 @@
    "version": "28a5461",
    "bajas": "Braunschweig: 0 fuera, 4 duda; Cottbus: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "0-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_h_u",
@@ -24634,7 +24549,12 @@
    "version": "28a5461",
    "bajas": "Braunschweig: 0 fuera, 4 duda; Cottbus: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "0-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "O25",
@@ -24675,7 +24595,12 @@
    "version": "28a5461",
    "bajas": "Dresden: 0 fuera, 3 duda; Greuther Furth: 0 fuera, 3 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "3-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_t_u",
@@ -24696,7 +24621,12 @@
    "version": "28a5461",
    "bajas": "Dresden: 0 fuera, 3 duda; Greuther Furth: 0 fuera, 3 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "3-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_h_o",
@@ -24717,7 +24647,12 @@
    "version": "28a5461",
    "bajas": "Dresden: 0 fuera, 3 duda; Greuther Furth: 0 fuera, 3 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "3-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_h_u",
@@ -24738,7 +24673,12 @@
    "version": "28a5461",
    "bajas": "Dresden: 0 fuera, 3 duda; Greuther Furth: 0 fuera, 3 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "3-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_a_o",
@@ -24759,7 +24699,12 @@
    "version": "28a5461",
    "bajas": "Dresden: 0 fuera, 3 duda; Greuther Furth: 0 fuera, 3 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "3-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_a_u",
@@ -24780,7 +24725,12 @@
    "version": "28a5461",
    "bajas": "Dresden: 0 fuera, 3 duda; Greuther Furth: 0 fuera, 3 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "3-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "H",
@@ -24821,7 +24771,12 @@
    "version": "28a5461",
    "bajas": "Boulogne: sin bajas; Annecy: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "3-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_a_u",
@@ -24842,7 +24797,12 @@
    "version": "28a5461",
    "bajas": "Boulogne: sin bajas; Annecy: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "3-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_t_o",
@@ -24863,7 +24823,12 @@
    "version": "28a5461",
    "bajas": "Boulogne: sin bajas; Annecy: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "3-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_t_u",
@@ -24884,7 +24849,12 @@
    "version": "28a5461",
    "bajas": "Boulogne: sin bajas; Annecy: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "3-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_h_o",
@@ -24905,7 +24875,12 @@
    "version": "28a5461",
    "bajas": "Boulogne: sin bajas; Annecy: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "3-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_h_u",
@@ -24926,7 +24901,12 @@
    "version": "28a5461",
    "bajas": "Boulogne: sin bajas; Annecy: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "3-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "O25",
@@ -24967,7 +24947,12 @@
    "version": "28a5461",
    "bajas": "Dijon: sin bajas; Red Star: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "1-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_t_u",
@@ -24988,7 +24973,12 @@
    "version": "28a5461",
    "bajas": "Dijon: sin bajas; Red Star: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "1-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_h_o",
@@ -25009,7 +24999,12 @@
    "version": "28a5461",
    "bajas": "Dijon: sin bajas; Red Star: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "1-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_h_u",
@@ -25030,7 +25025,12 @@
    "version": "28a5461",
    "bajas": "Dijon: sin bajas; Red Star: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "1-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_a_o",
@@ -25051,7 +25051,12 @@
    "version": "28a5461",
    "bajas": "Dijon: sin bajas; Red Star: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "1-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_a_u",
@@ -25072,7 +25077,12 @@
    "version": "28a5461",
    "bajas": "Dijon: sin bajas; Red Star: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "1-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "AHH",
@@ -25114,7 +25124,12 @@
    "version": "28a5461",
    "bajas": "Dunkerque: sin bajas; Guingamp: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "3-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_t_u",
@@ -25135,7 +25150,12 @@
    "version": "28a5461",
    "bajas": "Dunkerque: sin bajas; Guingamp: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "3-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_h_o",
@@ -25156,7 +25176,12 @@
    "version": "28a5461",
    "bajas": "Dunkerque: sin bajas; Guingamp: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "3-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_h_u",
@@ -25177,7 +25202,12 @@
    "version": "28a5461",
    "bajas": "Dunkerque: sin bajas; Guingamp: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "3-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_a_o",
@@ -25198,7 +25228,12 @@
    "version": "28a5461",
    "bajas": "Dunkerque: sin bajas; Guingamp: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "3-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_a_u",
@@ -25219,7 +25254,12 @@
    "version": "28a5461",
    "bajas": "Dunkerque: sin bajas; Guingamp: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "3-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "O25",
@@ -25260,7 +25300,12 @@
    "version": "28a5461",
    "bajas": "Grenoble: sin bajas; Reims: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "3-2",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_a_u",
@@ -25281,7 +25326,12 @@
    "version": "28a5461",
    "bajas": "Grenoble: sin bajas; Reims: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "3-2",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_h_o",
@@ -25302,7 +25352,12 @@
    "version": "28a5461",
    "bajas": "Grenoble: sin bajas; Reims: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "3-2",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_h_u",
@@ -25323,7 +25378,12 @@
    "version": "28a5461",
    "bajas": "Grenoble: sin bajas; Reims: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "3-2",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_t_o",
@@ -25344,7 +25404,12 @@
    "version": "28a5461",
    "bajas": "Grenoble: sin bajas; Reims: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "3-2",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_t_u",
@@ -25365,7 +25430,12 @@
    "version": "28a5461",
    "bajas": "Grenoble: sin bajas; Reims: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "3-2",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "AHA",
@@ -25407,7 +25477,12 @@
    "version": "28a5461",
    "bajas": "Montpellier: sin bajas; Metz: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "2-3",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_t_u",
@@ -25428,7 +25503,12 @@
    "version": "28a5461",
    "bajas": "Montpellier: sin bajas; Metz: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "2-3",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_h_o",
@@ -25449,7 +25529,12 @@
    "version": "28a5461",
    "bajas": "Montpellier: sin bajas; Metz: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "2-3",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_h_u",
@@ -25470,7 +25555,12 @@
    "version": "28a5461",
    "bajas": "Montpellier: sin bajas; Metz: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "2-3",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_a_o",
@@ -25491,7 +25581,12 @@
    "version": "28a5461",
    "bajas": "Montpellier: sin bajas; Metz: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "2-3",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_a_u",
@@ -25512,7 +25607,12 @@
    "version": "28a5461",
    "bajas": "Montpellier: sin bajas; Metz: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "2-3",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "AHA",
@@ -25554,7 +25654,12 @@
    "version": "28a5461",
    "bajas": "Nancy: sin bajas; Sochaux: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "1-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_a_u",
@@ -25575,7 +25680,12 @@
    "version": "28a5461",
    "bajas": "Nancy: sin bajas; Sochaux: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "1-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_t_o",
@@ -25596,7 +25706,12 @@
    "version": "28a5461",
    "bajas": "Nancy: sin bajas; Sochaux: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "1-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_t_u",
@@ -25617,7 +25732,12 @@
    "version": "28a5461",
    "bajas": "Nancy: sin bajas; Sochaux: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "1-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_h_o",
@@ -25638,7 +25758,12 @@
    "version": "28a5461",
    "bajas": "Nancy: sin bajas; Sochaux: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "1-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_h_u",
@@ -25659,7 +25784,12 @@
    "version": "28a5461",
    "bajas": "Nancy: sin bajas; Sochaux: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "1-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "H",
@@ -25700,7 +25830,12 @@
    "version": "28a5461",
    "bajas": "Willem II: 1 fuera, 2 duda (Amine Lachkar); Zwolle: 0 fuera, 1 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "1-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_a_u",
@@ -25721,7 +25856,12 @@
    "version": "28a5461",
    "bajas": "Willem II: 1 fuera, 2 duda (Amine Lachkar); Zwolle: 0 fuera, 1 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "1-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_t_u",
@@ -25742,7 +25882,12 @@
    "version": "28a5461",
    "bajas": "Willem II: 1 fuera, 2 duda (Amine Lachkar); Zwolle: 0 fuera, 1 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "1-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_t_o",
@@ -25763,7 +25908,12 @@
    "version": "28a5461",
    "bajas": "Willem II: 1 fuera, 2 duda (Amine Lachkar); Zwolle: 0 fuera, 1 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "1-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_h_o",
@@ -25784,7 +25934,12 @@
    "version": "28a5461",
    "bajas": "Willem II: 1 fuera, 2 duda (Amine Lachkar); Zwolle: 0 fuera, 1 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "1-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_h_u",
@@ -25805,7 +25960,12 @@
    "version": "28a5461",
    "bajas": "Willem II: 1 fuera, 2 duda (Amine Lachkar); Zwolle: 0 fuera, 1 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "1-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "O25",
@@ -25866,7 +26026,12 @@
    "version": "28a5461",
    "bajas": "Ascoli: sin bajas; Palermo: 1 fuera, 4 duda (D. Toerset Johnsen)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "1-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_a_u",
@@ -25887,7 +26052,12 @@
    "version": "28a5461",
    "bajas": "Ascoli: sin bajas; Palermo: 1 fuera, 4 duda (D. Toerset Johnsen)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "1-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_h_o",
@@ -25908,7 +26078,12 @@
    "version": "28a5461",
    "bajas": "Ascoli: sin bajas; Palermo: 1 fuera, 4 duda (D. Toerset Johnsen)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "1-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_h_u",
@@ -25929,7 +26104,12 @@
    "version": "28a5461",
    "bajas": "Ascoli: sin bajas; Palermo: 1 fuera, 4 duda (D. Toerset Johnsen)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "1-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_t_o",
@@ -25950,7 +26130,12 @@
    "version": "28a5461",
    "bajas": "Ascoli: sin bajas; Palermo: 1 fuera, 4 duda (D. Toerset Johnsen)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "1-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_t_u",
@@ -25971,7 +26156,12 @@
    "version": "28a5461",
    "bajas": "Ascoli: sin bajas; Palermo: 1 fuera, 4 duda (D. Toerset Johnsen)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "1-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "AHA",
@@ -26013,7 +26203,12 @@
    "version": "28a5461",
    "bajas": "Standard: sin bajas; Beveren: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "3-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_a_u",
@@ -26034,7 +26229,12 @@
    "version": "28a5461",
    "bajas": "Standard: sin bajas; Beveren: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "3-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_t_o",
@@ -26055,7 +26255,12 @@
    "version": "28a5461",
    "bajas": "Standard: sin bajas; Beveren: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "3-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_t_u",
@@ -26076,7 +26281,12 @@
    "version": "28a5461",
    "bajas": "Standard: sin bajas; Beveren: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "3-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_h_o",
@@ -26097,7 +26307,12 @@
    "version": "28a5461",
    "bajas": "Standard: sin bajas; Beveren: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "3-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_h_u",
@@ -26118,7 +26333,12 @@
    "version": "28a5461",
    "bajas": "Standard: sin bajas; Beveren: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "3-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "AHA",
@@ -26160,7 +26380,12 @@
    "version": "28a5461",
    "bajas": "Toulouse: 2 fuera, 1 duda (Aron Doennum, Aron Doennum); Strasbourg: 1 fuera, 4 duda (Joaquin Panichelli)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "3-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_t_o",
@@ -26181,7 +26406,12 @@
    "version": "28a5461",
    "bajas": "Toulouse: 2 fuera, 1 duda (Aron Doennum, Aron Doennum); Strasbourg: 1 fuera, 4 duda (Joaquin Panichelli)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "3-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_h_o",
@@ -26202,7 +26432,12 @@
    "version": "28a5461",
    "bajas": "Toulouse: 2 fuera, 1 duda (Aron Doennum, Aron Doennum); Strasbourg: 1 fuera, 4 duda (Joaquin Panichelli)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "3-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_h_u",
@@ -26223,7 +26458,12 @@
    "version": "28a5461",
    "bajas": "Toulouse: 2 fuera, 1 duda (Aron Doennum, Aron Doennum); Strasbourg: 1 fuera, 4 duda (Joaquin Panichelli)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "3-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_a_o",
@@ -26244,7 +26484,12 @@
    "version": "28a5461",
    "bajas": "Toulouse: 2 fuera, 1 duda (Aron Doennum, Aron Doennum); Strasbourg: 1 fuera, 4 duda (Joaquin Panichelli)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "3-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_a_u",
@@ -26265,7 +26510,12 @@
    "version": "28a5461",
    "bajas": "Toulouse: 2 fuera, 1 duda (Aron Doennum, Aron Doennum); Strasbourg: 1 fuera, 4 duda (Joaquin Panichelli)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "3-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "AHA",
@@ -26307,7 +26557,12 @@
    "version": "28a5461",
    "bajas": "Venezia: 3 fuera, 4 duda (Bartol Franjic, Daniel Fila, Marin Sverko); Udinese: 5 fuera, 3 duda (Hassane Kamara, Thomas Kristensen, Vakoun Issouf Bayo)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "2-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_t_u",
@@ -26328,7 +26583,12 @@
    "version": "28a5461",
    "bajas": "Venezia: 3 fuera, 4 duda (Bartol Franjic, Daniel Fila, Marin Sverko); Udinese: 5 fuera, 3 duda (Hassane Kamara, Thomas Kristensen, Vakoun Issouf Bayo)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "2-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_h_o",
@@ -26349,7 +26609,12 @@
    "version": "28a5461",
    "bajas": "Venezia: 3 fuera, 4 duda (Bartol Franjic, Daniel Fila, Marin Sverko); Udinese: 5 fuera, 3 duda (Hassane Kamara, Thomas Kristensen, Vakoun Issouf Bayo)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "2-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_h_u",
@@ -26370,7 +26635,12 @@
    "version": "28a5461",
    "bajas": "Venezia: 3 fuera, 4 duda (Bartol Franjic, Daniel Fila, Marin Sverko); Udinese: 5 fuera, 3 duda (Hassane Kamara, Thomas Kristensen, Vakoun Issouf Bayo)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "2-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_a_o",
@@ -26391,7 +26661,12 @@
    "version": "28a5461",
    "bajas": "Venezia: 3 fuera, 4 duda (Bartol Franjic, Daniel Fila, Marin Sverko); Udinese: 5 fuera, 3 duda (Hassane Kamara, Thomas Kristensen, Vakoun Issouf Bayo)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "2-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_a_u",
@@ -26412,7 +26687,12 @@
    "version": "28a5461",
    "bajas": "Venezia: 3 fuera, 4 duda (Bartol Franjic, Daniel Fila, Marin Sverko); Udinese: 5 fuera, 3 duda (Hassane Kamara, Thomas Kristensen, Vakoun Issouf Bayo)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "2-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "H",
@@ -26453,7 +26733,12 @@
    "version": "28a5461",
    "bajas": "Everton: 0 fuera, 1 duda; Coventry: 4 fuera, 0 duda (Aurele Amenda, Luke Woolfenden, Josh Eccles)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "3-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_h_o",
@@ -26474,7 +26759,12 @@
    "version": "28a5461",
    "bajas": "Everton: 0 fuera, 1 duda; Coventry: 4 fuera, 0 duda (Aurele Amenda, Luke Woolfenden, Josh Eccles)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "3-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_a_o",
@@ -26495,7 +26785,12 @@
    "version": "28a5461",
    "bajas": "Everton: 0 fuera, 1 duda; Coventry: 4 fuera, 0 duda (Aurele Amenda, Luke Woolfenden, Josh Eccles)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "3-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_a_u",
@@ -26516,7 +26811,12 @@
    "version": "28a5461",
    "bajas": "Everton: 0 fuera, 1 duda; Coventry: 4 fuera, 0 duda (Aurele Amenda, Luke Woolfenden, Josh Eccles)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "3-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_t_o",
@@ -26537,7 +26837,12 @@
    "version": "28a5461",
    "bajas": "Everton: 0 fuera, 1 duda; Coventry: 4 fuera, 0 duda (Aurele Amenda, Luke Woolfenden, Josh Eccles)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "3-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_t_u",
@@ -26558,7 +26863,12 @@
    "version": "28a5461",
    "bajas": "Everton: 0 fuera, 1 duda; Coventry: 4 fuera, 0 duda (Aurele Amenda, Luke Woolfenden, Josh Eccles)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "3-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "AHH",
@@ -26600,7 +26910,12 @@
    "version": "28a5461",
    "bajas": "Derby: 0 fuera, 4 duda; Bolton: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "3-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_t_u",
@@ -26621,7 +26936,12 @@
    "version": "28a5461",
    "bajas": "Derby: 0 fuera, 4 duda; Bolton: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "3-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_h_o",
@@ -26642,7 +26962,12 @@
    "version": "28a5461",
    "bajas": "Derby: 0 fuera, 4 duda; Bolton: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "3-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_h_u",
@@ -26663,7 +26988,12 @@
    "version": "28a5461",
    "bajas": "Derby: 0 fuera, 4 duda; Bolton: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "3-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_a_u",
@@ -26684,7 +27014,12 @@
    "version": "28a5461",
    "bajas": "Derby: 0 fuera, 4 duda; Bolton: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "3-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_a_o",
@@ -26705,7 +27040,12 @@
    "version": "28a5461",
    "bajas": "Derby: 0 fuera, 4 duda; Bolton: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "3-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "AHA",
@@ -26747,7 +27087,12 @@
    "version": "28a5461",
    "bajas": "Sevilla: 2 fuera, 3 duda (Isaac Romero, Manu Bueno); Alaves: 2 fuera, 1 duda (Mikel Rodriguez, Facundo Garces)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "0-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_t_u",
@@ -26768,7 +27113,12 @@
    "version": "28a5461",
    "bajas": "Sevilla: 2 fuera, 3 duda (Isaac Romero, Manu Bueno); Alaves: 2 fuera, 1 duda (Mikel Rodriguez, Facundo Garces)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "0-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_a_u",
@@ -26789,7 +27139,12 @@
    "version": "28a5461",
    "bajas": "Sevilla: 2 fuera, 3 duda (Isaac Romero, Manu Bueno); Alaves: 2 fuera, 1 duda (Mikel Rodriguez, Facundo Garces)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "0-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_a_o",
@@ -26810,7 +27165,12 @@
    "version": "28a5461",
    "bajas": "Sevilla: 2 fuera, 3 duda (Isaac Romero, Manu Bueno); Alaves: 2 fuera, 1 duda (Mikel Rodriguez, Facundo Garces)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "0-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_h_o",
@@ -26831,7 +27191,12 @@
    "version": "28a5461",
    "bajas": "Sevilla: 2 fuera, 3 duda (Isaac Romero, Manu Bueno); Alaves: 2 fuera, 1 duda (Mikel Rodriguez, Facundo Garces)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "0-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_h_u",
@@ -26852,7 +27217,12 @@
    "version": "28a5461",
    "bajas": "Sevilla: 2 fuera, 3 duda (Isaac Romero, Manu Bueno); Alaves: 2 fuera, 1 duda (Mikel Rodriguez, Facundo Garces)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "0-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "A",
@@ -26893,7 +27263,12 @@
    "version": "28a5461",
    "bajas": "Famalicao: 1 fuera, 0 duda (Rodrigo Pinheiro); Arouca: 1 fuera, 1 duda (Jose Fontan)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "1-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_h_u",
@@ -26914,7 +27289,12 @@
    "version": "28a5461",
    "bajas": "Famalicao: 1 fuera, 0 duda (Rodrigo Pinheiro); Arouca: 1 fuera, 1 duda (Jose Fontan)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "1-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_a_o",
@@ -26935,7 +27315,12 @@
    "version": "28a5461",
    "bajas": "Famalicao: 1 fuera, 0 duda (Rodrigo Pinheiro); Arouca: 1 fuera, 1 duda (Jose Fontan)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "1-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_a_u",
@@ -26956,7 +27341,12 @@
    "version": "28a5461",
    "bajas": "Famalicao: 1 fuera, 0 duda (Rodrigo Pinheiro); Arouca: 1 fuera, 1 duda (Jose Fontan)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "1-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_t_o",
@@ -26977,7 +27367,12 @@
    "version": "28a5461",
    "bajas": "Famalicao: 1 fuera, 0 duda (Rodrigo Pinheiro); Arouca: 1 fuera, 1 duda (Jose Fontan)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "1-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_t_u",
@@ -26998,7 +27393,12 @@
    "version": "28a5461",
    "bajas": "Famalicao: 1 fuera, 0 duda (Rodrigo Pinheiro); Arouca: 1 fuera, 1 duda (Jose Fontan)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "1-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "AHH",
@@ -49155,7 +49555,11 @@
    "captured": "2026-11-06T23:39",
    "version": "eb0b9ee",
    "bajas": "",
-   "considered": true
+   "considered": true,
+   "score": "2-5",
+   "result": false,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "H",
@@ -49176,7 +49580,11 @@
    "version": "eb0b9ee",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "4-1",
+   "result": true,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "A",
@@ -49197,7 +49605,11 @@
    "version": "eb0b9ee",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "4-6",
+   "result": true,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "H",
@@ -49213,24 +49625,221 @@
    "start": "2026-11-06T23:50:00+00:00",
    "league": "🎮⚽ FC 27 · Premier League",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 58.818 partidos)",
-    "Goles esperados: Dov1n 3.42 · Jokadinho 2.99",
-    "Ganador: Dov1n 50% · empate 19% · Jokadinho 31%",
-    "Total: más de 6.5 goles 46% · menos 54%",
-    "Hándicap Dov1n: −1.5 33% · −2.5 20%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Dov1n ❌✅✅✅➖ | Jokadinho ❌✅❌❌✅",
-    "• Partidos: Dov1n 964 | Jokadinho 823",
-    "• Liga: Premier League",
-    "• Unibet: 1 2.25 · X 5.75 · 2 1.93 (sin margen 39%/15%/46%) · ventaja +12%. Sin stake hasta demostrar ROI con estas cuotas.",
-    "• En España: LeoVegas España 2.25 (+12%) · Paf España 2.25 (+12%)"
-   ],
    "context": "EA FC Esoccer Battle Dov1n vs Jokadinho (Premier League): goles esperados 3.42-2.99, 1X2 50%/19%/31%. Sin cuotas de casa.",
    "captured": "2026-11-06T23:49",
    "version": "eb0b9ee",
    "bajas": "",
+   "considered": true,
+   "placed": false,
+   "score": "4-3",
+   "result": true,
+   "close_p": null,
+   "logged": true
+  },
+  {
+   "market": "H",
+   "odds": 1.76,
+   "book": "Bet365",
+   "p": 0.526,
+   "implied": 0.526,
+   "edge": -0.074,
+   "key": "MEX|2026-11-09|Queretaro|Puebla",
+   "match": "Queretaro vs Puebla",
+   "pick": "Queretaro",
+   "start": "2026-11-09T00:00:00+00:00",
+   "league": "🇲🇽 Liga MX",
+   "sport": "⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (goles esperados 1.38 - 1.00)",
+    "1 52% · X 26% · 2 22%",
+    "1X 78% · X2 48% · 12 74%",
+    "+1.5 69% · +2.5 43% · +3.5 22% · Ambos marcan 48%",
+    "Marcadores: 1-1 13% · 1-0 12% · 0-0 10% · 2-0 9%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Queretaro ✅❌❌❌❌ | Puebla ➖➖❌❌❌",
+    "• H2H: 28 desde 2012: 9V-9E-10D · 2.3 goles/partido · +2.5 en 36%",
+    "• Bajas: Queretaro: 0 fuera, 1 duda; Puebla: sin bajas",
+    "• Favorito de las casas: Queretaro @ 1.76"
+   ],
+   "context": "Queretaro vs Puebla (🇲🇽 Liga MX). Modelo Poisson con historial desde 2005 y bajas: 1 52% X 26% 2 22%, +2.5 43%, ambos marcan 48%. Forma Queretaro ✅❌❌❌❌, Puebla ➖➖❌❌❌ (✅ victoria ➖ empate ❌ derrota). H2H 28 desde 2012: 9V-9E-10D · 2.3 goles/partido · +2.5 en 36%. Bajas Queretaro: Santiago Homenchenko M duda 11 PJ. Bajas Puebla: ninguna.",
+   "captured": "2026-11-07T00:15",
+   "version": "7743b0e",
+   "bajas": "Queretaro: 0 fuera, 1 duda; Puebla: sin bajas",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "H",
+   "odds": 3.4,
+   "book": "Bet365",
+   "p": 0.299,
+   "implied": 0.299,
+   "edge": 0.017,
+   "key": "MEX|2026-11-09|Club Leon|Guadalajara Chivas",
+   "match": "Club Leon vs Guadalajara Chivas",
+   "pick": "Club Leon",
+   "start": "2026-11-09T02:10:00+00:00",
+   "league": "🇲🇽 Liga MX",
+   "sport": "⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (goles esperados 1.26 - 1.30)",
+    "1 32% · X 28% · 2 39%",
+    "1X 61% · X2 68% · 12 72%",
+    "+1.5 73% · +2.5 47% · +3.5 25% · Ambos marcan 53%",
+    "Marcadores: 1-1 13% · 0-1 9% · 1-0 9% · 0-0 8%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Club Leon ➖❌✅➖❌ | Guadalajara Chivas ➖➖✅✅✅",
+    "• H2H: 30 desde 2012: 12V-5E-13D · 2.3 goles/partido · +2.5 en 43%",
+    "• Bajas: Club Leon: 0 fuera, 1 duda; Guadalajara Chivas: sin bajas",
+    "• Favorito de las casas: Guadalajara Chivas @ 2.05"
+   ],
+   "context": "Club Leon vs Guadalajara Chivas (🇲🇽 Liga MX). Modelo Poisson con historial desde 2005 y bajas: 1 32% X 28% 2 39%, +2.5 47%, ambos marcan 53%. Forma Club Leon ➖❌✅➖❌, Guadalajara Chivas ➖➖✅✅✅ (✅ victoria ➖ empate ❌ derrota). H2H 30 desde 2012: 12V-5E-13D · 2.3 goles/partido · +2.5 en 43%. Bajas Club Leon: Valentin Gauthier D duda 0 PJ. Bajas Guadalajara Chivas: ninguna.",
+   "captured": "2026-11-07T00:15",
+   "version": "7743b0e",
+   "bajas": "Club Leon: 0 fuera, 1 duda; Guadalajara Chivas: sin bajas",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "O25",
+   "odds": 2.05,
+   "book": "Bet365",
+   "p": 0.466,
+   "implied": 0.466,
+   "edge": -0.044,
+   "key": "SP2|2026-11-09|Sabadell|Sociedad B",
+   "match": "Sabadell vs Sociedad B",
+   "pick": "Más de 2.5 goles",
+   "start": "2026-11-09T19:30:00+00:00",
+   "league": "🇪🇸 LaLiga 2",
+   "sport": "⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (goles esperados 1.65 - 1.04)",
+    "1 50% · X 28% · 2 22%",
+    "1X 78% · X2 50% · 12 72%",
+    "+1.5 75% · +2.5 50% · +3.5 28% · Ambos marcan 53%",
+    "Marcadores: 1-1 12% · 1-0 11% · 2-1 10% · 2-0 9%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Sabadell ➖✅❌➖❌ | Sociedad B ❌❌❌❌✅",
+    "• H2H: sin precedentes",
+    "• Bajas: Sabadell: sin bajas; Sociedad B: sin bajas",
+    "• Favorito de las casas: Sabadell @ 1.68",
+    "",
+    "📐 <b>Estadísticas esperadas</b>",
+    "Córners 6.4 - 3.6: total +9.5 53% · Sabadell +5.5 56% · Sociedad B +4.5 30%",
+    "Tarjetas 2.5 - 3.1: total +5.5 49% · Sabadell +2.5 46% · Sociedad B +3.5 38%",
+    "Faltas 13.4 - 13.7: total +26.5 53% · Sabadell +13.5 47% · Sociedad B +13.5 50%",
+    "Tiros a puerta 6.0 - 3.4: total +9.5 46% · Sabadell +5.5 54% · Sociedad B +4.5 26%",
+    "🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Sociedad B + Menos de 4.5 córners de Sociedad B + Menos de 3.5 tarjetas de Sociedad B → prob. 33%, cuota justa 3.07 (solo vale si la casa paga más)"
+   ],
+   "context": "Sabadell vs Sociedad B (🇪🇸 LaLiga 2). Modelo Poisson con historial desde 2005 y bajas: 1 50% X 28% 2 22%, +2.5 50%, ambos marcan 53%. Forma Sabadell ➖✅❌➖❌, Sociedad B ❌❌❌❌✅ (✅ victoria ➖ empate ❌ derrota). H2H sin precedentes. Bajas Sabadell: ninguna. Bajas Sociedad B: ninguna. Estadísticas del modelo: Córners 6.4 - 3.6: total +9.5 53% · Sabadell +5.5 56% · Sociedad B +4.5 30% | Tarjetas 2.5 - 3.1: total +5.5 49% · Sabadell +2.5 46% · Sociedad B +3.5 38% | Faltas 13.4 - 13.7: total +26.5 53% · Sabadell +13.5 47% · Sociedad B +13.5 50% | Tiros a puerta 6.0 - 3.4: total +9.5 46% · Sabadell +5.5 54% · Sociedad B +4.5 26% | 🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Sociedad B + Menos de 4.5 córners de Sociedad B + Menos de 3.5 tarjetas de Sociedad B → prob. 33%, cuota justa 3.07 (solo vale si la casa paga más).",
+   "captured": "2026-11-07T00:15",
+   "version": "7743b0e",
+   "bajas": "Sabadell: sin bajas; Sociedad B: sin bajas",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "over",
+   "line": 43.5,
+   "odds": 1.847,
+   "book": "DraftKings",
+   "p": 0.517,
+   "implied": 0.517,
+   "edge": -0.044,
+   "expected": 43.8,
+   "key": "nfl|2026-11-10|Minnesota Vikings|Buffalo Bills",
+   "match": "Minnesota Vikings vs Buffalo Bills",
+   "start": "2026-11-10T01:15Z",
+   "pick": "Más de 43.5 puntos",
+   "league": "🏈 NFL",
+   "sport": "🏈",
+   "info": [
+    "📊 <b>Escenarios</b>: total esperado <b>43.8</b> puntos · línea 43.5",
+    "Más 52% · Menos 48%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Minnesota Vikings ✅✅✅✅❌ | Buffalo Bills ✅❌✅✅✅",
+    "• H2H: 4 desde 2017: 2-2",
+    "• Bajas: Minnesota Vikings: 0 fuera, 25 duda; Buffalo Bills: 1 fuera, 24 duda (Jordan Hancock)",
+    "",
+    "🧩 Combinada: Gana Minnesota Vikings + Más de 43.5 puntos → prob. 22%, cuota justa 4.60",
+    "🎯 No simulada (NFL): cuota DraftKings aprox. 4.47 (producto de piernas) · prob. 22% · ventaja -3%"
+   ],
+   "context": "Minnesota Vikings vs Buffalo Bills (🏈 NFL). Modelo de puntos (ataque/defensa con 10 años, decaimiento 1 año): total esperado 43.8 frente a línea 43.5. Forma Minnesota Vikings ✅✅✅✅❌, Buffalo Bills ✅❌✅✅✅. H2H 4 desde 2017: 2-2. Bajas: Minnesota Vikings: 0 fuera, 25 duda; Buffalo Bills: 1 fuera, 24 duda (Jordan Hancock).",
+   "captured": "2026-11-07T00:15",
+   "version": "7743b0e",
+   "bajas": "Minnesota Vikings: 0 fuera, 25 duda; Buffalo Bills: 1 fuera, 24 duda (Jordan Hancock)",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "sph",
+   "odds": 1.952,
+   "book": "DraftKings",
+   "p": 0.489,
+   "implied": 0.489,
+   "edge": -0.045,
+   "line": 3.0,
+   "key": "nfl|2026-11-10|Minnesota Vikings|Buffalo Bills",
+   "match": "Minnesota Vikings vs Buffalo Bills",
+   "start": "2026-11-10T01:15Z",
+   "pick": "Minnesota Vikings +3",
+   "league": "🏈 NFL",
+   "sport": "🏈",
+   "info": [
+    "📊 <b>Escenarios</b>: Minnesota Vikings cubre +3 con prob. 49% (casas 49%)",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Minnesota Vikings ✅✅✅✅❌ | Buffalo Bills ✅❌✅✅✅",
+    "• H2H: 4 desde 2017: 2-2",
+    "• Bajas: Minnesota Vikings: 0 fuera, 25 duda; Buffalo Bills: 1 fuera, 24 duda (Jordan Hancock)",
+    "",
+    "🧩 Combinada: Gana Minnesota Vikings + Más de 43.5 puntos → prob. 22%, cuota justa 4.60",
+    "🎯 No simulada (NFL): cuota DraftKings aprox. 4.47 (producto de piernas) · prob. 22% · ventaja -3%"
+   ],
+   "context": "Minnesota Vikings vs Buffalo Bills (🏈 NFL). Hándicap Minnesota Vikings +3: margen esperado desde el Elo (gana Minnesota Vikings 44%). Forma Minnesota Vikings ✅✅✅✅❌, Buffalo Bills ✅❌✅✅✅. H2H 4 desde 2017: 2-2. Bajas: Minnesota Vikings: 0 fuera, 25 duda; Buffalo Bills: 1 fuera, 24 duda (Jordan Hancock).",
+   "captured": "2026-11-07T00:15",
+   "version": "7743b0e",
+   "bajas": "Minnesota Vikings: 0 fuera, 25 duda; Buffalo Bills: 1 fuera, 24 duda (Jordan Hancock)",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "home",
+   "odds": 2.42,
+   "book": "DraftKings",
+   "p": 0.396,
+   "implied": 0.396,
+   "edge": -0.041,
+   "key": "nfl|2026-11-10|Minnesota Vikings|Buffalo Bills",
+   "match": "Minnesota Vikings vs Buffalo Bills",
+   "pick": "Minnesota Vikings",
+   "start": "2026-11-10T01:15Z",
+   "league": "🏈 NFL",
+   "sport": "🏈",
+   "info": [
+    "📊 <b>Escenarios</b> (Elo con 3.260 partidos y bajas)",
+    "Gana Minnesota Vikings 44% · Gana Buffalo Bills 56%",
+    "Casas: Minnesota Vikings 40% · Buffalo Bills 60%",
+    "Hándicap BUF -3 · Total puntos 43.5",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Minnesota Vikings ✅✅✅✅❌ | Buffalo Bills ✅❌✅✅✅",
+    "• H2H: 4 desde 2017: 2-2",
+    "• Bajas: Minnesota Vikings: 0 fuera, 25 duda; Buffalo Bills: 1 fuera, 24 duda (Jordan Hancock)",
+    "• Favorito de las casas: Buffalo Bills @ 1.59",
+    "",
+    "🧩 Combinada: Gana Minnesota Vikings + Más de 43.5 puntos → prob. 22%, cuota justa 4.60",
+    "🎯 No simulada (NFL): cuota DraftKings aprox. 4.47 (producto de piernas) · prob. 22% · ventaja -3%"
+   ],
+   "context": "Minnesota Vikings vs Buffalo Bills (🏈 NFL, fútbol americano). Modelo Elo con 10 años de historial ajustado por bajas: Minnesota Vikings 44%, Buffalo Bills 56%. Cuotas DraftKings 2.42/1.588, hándicap BUF -3, total 43.5. Forma Minnesota Vikings ✅✅✅✅❌, Buffalo Bills ✅❌✅✅✅. H2H 4 desde 2017: 2-2. Bajas Minnesota Vikings: Isaiah Rodgers duda; Jake Golday duda; Christian Darrisaw duda; Andrew Van Ginkel duda; Jauan Jennings duda; Jay Ward duda; Demond Claiborne duda; Max Brosmer duda; Kyler Murray duda; Carson Wentz duda; DeeJay Dallas duda; Eric Wilson duda; Joshua Metellus duda; Byron Murphy Jr. duda; Blake Cashman duda; Will Reichard duda; Elijah Williams duda; Caleb Tiernan duda; Charles Demmings duda; Jakobe Thomas duda; T.J. Hockenson duda; Jordan Addison duda; Aaron Jones Sr. duda; Jordan Mason duda; Justin Jefferson duda. Bajas Buffalo Bills: Keon Coleman duda; Ty Johnson duda; Sam Franklin Jr. duda; Dalton Kincaid duda; DJ Moore duda; Dee Alford duda; Dion Dawkins duda; Alec Anderson duda; Joshua Palmer duda; Jordan Hancock lesionado; Greg Gaines duda; Spencer Brown duda; Dawson Knox duda; Ray Davis duda; Tyler Bass duda; Mike Danna duda; Skyler Bell duda; Jalon Kilgore duda; Ar'maj Reed-Adams duda; Greg Dortch duda; Khalil Shakir duda; James Cook III duda; Josh Allen duda; TJ Parker duda; Te'Cory Couch duda.",
+   "captured": "2026-11-07T00:15",
+   "version": "7743b0e",
+   "bajas": "Minnesota Vikings: 0 fuera, 25 duda; Buffalo Bills: 1 fuera, 24 duda (Jordan Hancock)",
    "considered": true,
    "placed": false
   }
@@ -50057,1258 +50666,6 @@
     "🎯 No simulada (NFL): cuota DraftKings aprox. 6.36 (producto de piernas) · prob. 16% · ventaja -1%"
    ]
   },
-  "T1|2026-11-06|Gaziantep|Kasimpasa": {
-   "match": "Gaziantep vs Kasimpasa",
-   "start": "2026-11-06T17:00:00+00:00",
-   "combos": [
-    {
-     "kind": "corta",
-     "p": 0.2554,
-     "legs": [
-      {
-       "var": "fouls_h",
-       "sign": -1,
-       "line": 13.5,
-       "p": 0.6875,
-       "text": "Menos de 13.5 faltas de Gaziantep",
-       "odds": null
-      },
-      {
-       "var": "sot_h",
-       "sign": -1,
-       "line": 5.5,
-       "p": 0.6714,
-       "text": "Menos de 5.5 tiros a puerta de Gaziantep",
-       "odds": null
-      },
-      {
-       "var": "cards_t",
-       "sign": 1,
-       "line": 4.5,
-       "p": 0.607,
-       "text": "Más de 4.5 tarjetas",
-       "odds": null
-      }
-     ]
-    },
-    {
-     "kind": "larga",
-     "p": 0.1473,
-     "legs": [
-      {
-       "var": "fouls_h",
-       "sign": -1,
-       "line": 13.5,
-       "p": 0.6875,
-       "text": "Menos de 13.5 faltas de Gaziantep",
-       "odds": null
-      },
-      {
-       "var": "sot_h",
-       "sign": -1,
-       "line": 5.5,
-       "p": 0.6714,
-       "text": "Menos de 5.5 tiros a puerta de Gaziantep",
-       "odds": null
-      },
-      {
-       "var": "cards_t",
-       "sign": 1,
-       "line": 4.5,
-       "p": 0.607,
-       "text": "Más de 4.5 tarjetas",
-       "odds": null
-      },
-      {
-       "var": "corners_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.6034,
-       "text": "Menos de 4.5 córners de Kasimpasa",
-       "odds": null
-      }
-     ]
-    }
-   ],
-   "priced": false,
-   "pool": [
-    {
-     "stat": "fouls",
-     "var": "fouls_h",
-     "sign": -1,
-     "p": 0.6874843727401743,
-     "line": 13.5,
-     "text": "Menos de 13.5 faltas de Gaziantep"
-    },
-    {
-     "stat": "sot",
-     "var": "sot_h",
-     "sign": -1,
-     "p": 0.671373288044367,
-     "line": 5.5,
-     "text": "Menos de 5.5 tiros a puerta de Gaziantep"
-    },
-    {
-     "stat": "cards",
-     "var": "cards_t",
-     "sign": 1,
-     "p": 0.6070279021558309,
-     "line": 4.5,
-     "text": "Más de 4.5 tarjetas"
-    },
-    {
-     "stat": "corners",
-     "var": "corners_a",
-     "sign": -1,
-     "p": 0.6033927054380234,
-     "line": 4.5,
-     "text": "Menos de 4.5 córners de Kasimpasa"
-    }
-   ]
-  },
-  "D2|2026-11-06|Braunschweig|Cottbus": {
-   "match": "Braunschweig vs Cottbus",
-   "start": "2026-11-06T17:30:00+00:00",
-   "combos": [
-    {
-     "kind": "corta",
-     "p": 0.2475,
-     "legs": [
-      {
-       "var": "goals_t",
-       "sign": 1,
-       "line": 2.5,
-       "p": 0.6187,
-       "text": "Más de 2.5 goles",
-       "odds": 1.45
-      },
-      {
-       "var": "cards_h",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.6023,
-       "text": "Menos de 2.5 tarjetas de Braunschweig",
-       "odds": null
-      },
-      {
-       "var": "fouls_h",
-       "sign": -1,
-       "line": 11.5,
-       "p": 0.6012,
-       "text": "Menos de 11.5 faltas de Braunschweig",
-       "odds": null
-      }
-     ]
-    },
-    {
-     "kind": "larga",
-     "p": 0.1436,
-     "legs": [
-      {
-       "var": "goals_t",
-       "sign": 1,
-       "line": 2.5,
-       "p": 0.6187,
-       "text": "Más de 2.5 goles",
-       "odds": 1.45
-      },
-      {
-       "var": "cards_h",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.6023,
-       "text": "Menos de 2.5 tarjetas de Braunschweig",
-       "odds": null
-      },
-      {
-       "var": "fouls_h",
-       "sign": -1,
-       "line": 11.5,
-       "p": 0.6012,
-       "text": "Menos de 11.5 faltas de Braunschweig",
-       "odds": null
-      },
-      {
-       "var": "corners_a",
-       "sign": -1,
-       "line": 5.5,
-       "p": 0.5782,
-       "text": "Menos de 5.5 córners de Cottbus",
-       "odds": 1.5
-      }
-     ]
-    },
-    {
-     "kind": "valor",
-     "p": 0.3621,
-     "legs": [
-      {
-       "stat": "goals",
-       "var": "goals_t",
-       "sign": 1,
-       "p": 0.6186733998597027,
-       "line": 2.5,
-       "text": "Más de 2.5 goles",
-       "odds": 1.45
-      },
-      {
-       "stat": "corners",
-       "var": "corners_a",
-       "sign": -1,
-       "p": 0.578213492145871,
-       "line": 5.5,
-       "text": "Menos de 5.5 córners de Cottbus",
-       "odds": 1.5
-      }
-     ],
-     "odds": 2.17,
-     "edge": -0.212,
-     "sim": false
-    }
-   ],
-   "priced": true,
-   "pool": [
-    {
-     "stat": "goals",
-     "var": "goals_t",
-     "sign": 1,
-     "p": 0.6186733998597027,
-     "line": 2.5,
-     "text": "Más de 2.5 goles"
-    },
-    {
-     "stat": "cards",
-     "var": "cards_h",
-     "sign": -1,
-     "p": 0.6023072966958914,
-     "line": 2.5,
-     "text": "Menos de 2.5 tarjetas de Braunschweig"
-    },
-    {
-     "stat": "fouls",
-     "var": "fouls_h",
-     "sign": -1,
-     "p": 0.6012110020696873,
-     "line": 11.5,
-     "text": "Menos de 11.5 faltas de Braunschweig"
-    },
-    {
-     "stat": "corners",
-     "var": "corners_a",
-     "sign": -1,
-     "p": 0.578213492145871,
-     "line": 5.5,
-     "text": "Menos de 5.5 córners de Cottbus"
-    }
-   ]
-  },
-  "D2|2026-11-06|Dresden|Greuther Furth": {
-   "match": "Dresden vs Greuther Furth",
-   "start": "2026-11-06T17:30:00+00:00",
-   "combos": [
-    {
-     "kind": "corta",
-     "p": 0.2964,
-     "legs": [
-      {
-       "var": "fouls_a",
-       "sign": -1,
-       "line": 12.5,
-       "p": 0.7047,
-       "text": "Menos de 12.5 faltas de Greuther Furth",
-       "odds": null
-      },
-      {
-       "var": "cards_h",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.6501,
-       "text": "Menos de 2.5 tarjetas de Dresden",
-       "odds": null
-      },
-      {
-       "var": "corners_a",
-       "sign": -1,
-       "line": 5.5,
-       "p": 0.6389,
-       "text": "Menos de 5.5 córners de Greuther Furth",
-       "odds": 1.41
-      }
-     ]
-    },
-    {
-     "kind": "larga",
-     "p": 0.1773,
-     "legs": [
-      {
-       "var": "fouls_a",
-       "sign": -1,
-       "line": 12.5,
-       "p": 0.7047,
-       "text": "Menos de 12.5 faltas de Greuther Furth",
-       "odds": null
-      },
-      {
-       "var": "cards_h",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.6501,
-       "text": "Menos de 2.5 tarjetas de Dresden",
-       "odds": null
-      },
-      {
-       "var": "corners_a",
-       "sign": -1,
-       "line": 5.5,
-       "p": 0.6389,
-       "text": "Menos de 5.5 córners de Greuther Furth",
-       "odds": 1.41
-      },
-      {
-       "var": "sot_t",
-       "sign": -1,
-       "line": 10.5,
-       "p": 0.6195,
-       "text": "Menos de 10.5 tiros a puerta",
-       "odds": null
-      }
-     ]
-    }
-   ],
-   "priced": true,
-   "pool": [
-    {
-     "stat": "fouls",
-     "var": "fouls_a",
-     "sign": -1,
-     "p": 0.7047362336628986,
-     "line": 12.5,
-     "text": "Menos de 12.5 faltas de Greuther Furth"
-    },
-    {
-     "stat": "cards",
-     "var": "cards_h",
-     "sign": -1,
-     "p": 0.6500689710747893,
-     "line": 2.5,
-     "text": "Menos de 2.5 tarjetas de Dresden"
-    },
-    {
-     "stat": "corners",
-     "var": "corners_a",
-     "sign": -1,
-     "p": 0.6388592352682023,
-     "line": 5.5,
-     "text": "Menos de 5.5 córners de Greuther Furth"
-    },
-    {
-     "stat": "sot",
-     "var": "sot_t",
-     "sign": -1,
-     "p": 0.6195312101552157,
-     "line": 10.5,
-     "text": "Menos de 10.5 tiros a puerta"
-    }
-   ]
-  },
-  "F2|2026-11-06|Boulogne|Annecy": {
-   "match": "Boulogne vs Annecy",
-   "start": "2026-11-06T19:00:00+00:00",
-   "combos": [
-    {
-     "kind": "corta",
-     "p": 0.2894,
-     "legs": [
-      {
-       "var": "cards_h",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.7048,
-       "text": "Menos de 2.5 tarjetas de Boulogne",
-       "odds": null
-      },
-      {
-       "var": "sot_h",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.6641,
-       "text": "Menos de 4.5 tiros a puerta de Boulogne",
-       "odds": null
-      },
-      {
-       "var": "fouls_a",
-       "sign": -1,
-       "line": 15.5,
-       "p": 0.6313,
-       "text": "Menos de 15.5 faltas de Annecy",
-       "odds": null
-      }
-     ]
-    },
-    {
-     "kind": "larga",
-     "p": 0.0979,
-     "legs": [
-      {
-       "var": "cards_h",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.7048,
-       "text": "Menos de 2.5 tarjetas de Boulogne",
-       "odds": null
-      },
-      {
-       "var": "sot_h",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.6641,
-       "text": "Menos de 4.5 tiros a puerta de Boulogne",
-       "odds": null
-      },
-      {
-       "var": "fouls_a",
-       "sign": -1,
-       "line": 15.5,
-       "p": 0.6313,
-       "text": "Menos de 15.5 faltas de Annecy",
-       "odds": null
-      },
-      {
-       "var": "corners_h",
-       "sign": -1,
-       "line": 5.5,
-       "p": 0.6208,
-       "text": "Menos de 5.5 córners de Boulogne",
-       "odds": null
-      },
-      {
-       "var": "goals_t",
-       "sign": 1,
-       "line": 2.5,
-       "p": 0.5567,
-       "text": "Más de 2.5 goles",
-       "odds": 2.26
-      }
-     ]
-    }
-   ],
-   "priced": true,
-   "pool": [
-    {
-     "stat": "cards",
-     "var": "cards_h",
-     "sign": -1,
-     "p": 0.7048311507508926,
-     "line": 2.5,
-     "text": "Menos de 2.5 tarjetas de Boulogne"
-    },
-    {
-     "stat": "sot",
-     "var": "sot_h",
-     "sign": -1,
-     "p": 0.6641431604114238,
-     "line": 4.5,
-     "text": "Menos de 4.5 tiros a puerta de Boulogne"
-    },
-    {
-     "stat": "fouls",
-     "var": "fouls_a",
-     "sign": -1,
-     "p": 0.6313139760204914,
-     "line": 15.5,
-     "text": "Menos de 15.5 faltas de Annecy"
-    },
-    {
-     "stat": "corners",
-     "var": "corners_h",
-     "sign": -1,
-     "p": 0.6207563836761923,
-     "line": 5.5,
-     "text": "Menos de 5.5 córners de Boulogne"
-    },
-    {
-     "stat": "goals",
-     "var": "goals_t",
-     "sign": 1,
-     "p": 0.5567192804547639,
-     "line": 2.5,
-     "text": "Más de 2.5 goles"
-    }
-   ]
-  },
-  "F2|2026-11-06|Dijon|Red Star": {
-   "match": "Dijon vs Red Star",
-   "start": "2026-11-06T19:00:00+00:00",
-   "combos": [
-    {
-     "kind": "corta",
-     "p": 0.2967,
-     "legs": [
-      {
-       "var": "cards_h",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.7384,
-       "text": "Menos de 2.5 tarjetas de Dijon",
-       "odds": null
-      },
-      {
-       "var": "sot_a",
-       "sign": 1,
-       "line": 3.5,
-       "p": 0.6716,
-       "text": "Más de 3.5 tiros a puerta de Red Star",
-       "odds": null
-      },
-      {
-       "var": "fouls_t",
-       "sign": 1,
-       "line": 28.5,
-       "p": 0.6609,
-       "text": "Más de 28.5 faltas",
-       "odds": null
-      }
-     ]
-    },
-    {
-     "kind": "larga",
-     "p": 0.1301,
-     "legs": [
-      {
-       "var": "cards_h",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.7384,
-       "text": "Menos de 2.5 tarjetas de Dijon",
-       "odds": null
-      },
-      {
-       "var": "sot_a",
-       "sign": 1,
-       "line": 3.5,
-       "p": 0.6716,
-       "text": "Más de 3.5 tiros a puerta de Red Star",
-       "odds": null
-      },
-      {
-       "var": "fouls_t",
-       "sign": 1,
-       "line": 28.5,
-       "p": 0.6609,
-       "text": "Más de 28.5 faltas",
-       "odds": null
-      },
-      {
-       "var": "corners_h",
-       "sign": -1,
-       "line": 5.5,
-       "p": 0.65,
-       "text": "Menos de 5.5 córners de Dijon",
-       "odds": null
-      },
-      {
-       "var": "goals_t",
-       "sign": 1,
-       "line": 2.5,
-       "p": 0.5832,
-       "text": "Más de 2.5 goles",
-       "odds": 1.64
-      }
-     ]
-    }
-   ],
-   "priced": true,
-   "pool": [
-    {
-     "stat": "cards",
-     "var": "cards_h",
-     "sign": -1,
-     "p": 0.7383523361026592,
-     "line": 2.5,
-     "text": "Menos de 2.5 tarjetas de Dijon"
-    },
-    {
-     "stat": "sot",
-     "var": "sot_a",
-     "sign": 1,
-     "p": 0.6715900387077833,
-     "line": 3.5,
-     "text": "Más de 3.5 tiros a puerta de Red Star"
-    },
-    {
-     "stat": "fouls",
-     "var": "fouls_t",
-     "sign": 1,
-     "p": 0.6609148832388534,
-     "line": 28.5,
-     "text": "Más de 28.5 faltas"
-    },
-    {
-     "stat": "corners",
-     "var": "corners_h",
-     "sign": -1,
-     "p": 0.6500241935717535,
-     "line": 5.5,
-     "text": "Menos de 5.5 córners de Dijon"
-    },
-    {
-     "stat": "goals",
-     "var": "goals_t",
-     "sign": 1,
-     "p": 0.5831689420856826,
-     "line": 2.5,
-     "text": "Más de 2.5 goles"
-    }
-   ]
-  },
-  "F2|2026-11-06|Dunkerque|Guingamp": {
-   "match": "Dunkerque vs Guingamp",
-   "start": "2026-11-06T19:00:00+00:00",
-   "combos": [
-    {
-     "kind": "corta",
-     "p": 0.3527,
-     "legs": [
-      {
-       "var": "fouls_a",
-       "sign": -1,
-       "line": 15.5,
-       "p": 0.7319,
-       "text": "Menos de 15.5 faltas de Guingamp",
-       "odds": null
-      },
-      {
-       "var": "corners_h",
-       "sign": -1,
-       "line": 5.5,
-       "p": 0.6989,
-       "text": "Menos de 5.5 córners de Dunkerque",
-       "odds": 1.44
-      },
-      {
-       "var": "cards_h",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.677,
-       "text": "Menos de 2.5 tarjetas de Dunkerque",
-       "odds": null
-      }
-     ]
-    },
-    {
-     "kind": "larga",
-     "p": 0.2341,
-     "legs": [
-      {
-       "var": "fouls_a",
-       "sign": -1,
-       "line": 15.5,
-       "p": 0.7319,
-       "text": "Menos de 15.5 faltas de Guingamp",
-       "odds": null
-      },
-      {
-       "var": "corners_h",
-       "sign": -1,
-       "line": 5.5,
-       "p": 0.6989,
-       "text": "Menos de 5.5 córners de Dunkerque",
-       "odds": 1.44
-      },
-      {
-       "var": "cards_h",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.677,
-       "text": "Menos de 2.5 tarjetas de Dunkerque",
-       "odds": null
-      },
-      {
-       "var": "sot_h",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.6436,
-       "text": "Menos de 4.5 tiros a puerta de Dunkerque",
-       "odds": null
-      }
-     ]
-    }
-   ],
-   "priced": true,
-   "pool": [
-    {
-     "stat": "fouls",
-     "var": "fouls_a",
-     "sign": -1,
-     "p": 0.7318762896508152,
-     "line": 15.5,
-     "text": "Menos de 15.5 faltas de Guingamp"
-    },
-    {
-     "stat": "corners",
-     "var": "corners_h",
-     "sign": -1,
-     "p": 0.6988773070920382,
-     "line": 5.5,
-     "text": "Menos de 5.5 córners de Dunkerque"
-    },
-    {
-     "stat": "cards",
-     "var": "cards_h",
-     "sign": -1,
-     "p": 0.6770091917472826,
-     "line": 2.5,
-     "text": "Menos de 2.5 tarjetas de Dunkerque"
-    },
-    {
-     "stat": "sot",
-     "var": "sot_h",
-     "sign": -1,
-     "p": 0.6436133178697172,
-     "line": 4.5,
-     "text": "Menos de 4.5 tiros a puerta de Dunkerque"
-    }
-   ]
-  },
-  "F2|2026-11-06|Grenoble|Reims": {
-   "match": "Grenoble vs Reims",
-   "start": "2026-11-06T19:00:00+00:00",
-   "combos": [
-    {
-     "kind": "corta",
-     "p": 0.4245,
-     "legs": [
-      {
-       "var": "sot_h",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.7749,
-       "text": "Menos de 4.5 tiros a puerta de Grenoble",
-       "odds": null
-      },
-      {
-       "var": "corners_h",
-       "sign": -1,
-       "line": 5.5,
-       "p": 0.7332,
-       "text": "Menos de 5.5 córners de Grenoble",
-       "odds": null
-      },
-      {
-       "var": "cards_h",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.726,
-       "text": "Menos de 2.5 tarjetas de Grenoble",
-       "odds": null
-      }
-     ]
-    },
-    {
-     "kind": "larga",
-     "p": 0.2174,
-     "legs": [
-      {
-       "var": "sot_h",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.7749,
-       "text": "Menos de 4.5 tiros a puerta de Grenoble",
-       "odds": null
-      },
-      {
-       "var": "corners_h",
-       "sign": -1,
-       "line": 5.5,
-       "p": 0.7332,
-       "text": "Menos de 5.5 córners de Grenoble",
-       "odds": null
-      },
-      {
-       "var": "cards_h",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.726,
-       "text": "Menos de 2.5 tarjetas de Grenoble",
-       "odds": null
-      },
-      {
-       "var": "fouls_a",
-       "sign": -1,
-       "line": 15.5,
-       "p": 0.7224,
-       "text": "Menos de 15.5 faltas de Reims",
-       "odds": null
-      },
-      {
-       "var": "goals_t",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.662,
-       "text": "Menos de 2.5 goles",
-       "odds": 1.83
-      }
-     ]
-    }
-   ],
-   "priced": true,
-   "pool": [
-    {
-     "stat": "sot",
-     "var": "sot_h",
-     "sign": -1,
-     "p": 0.7749204673930831,
-     "line": 4.5,
-     "text": "Menos de 4.5 tiros a puerta de Grenoble"
-    },
-    {
-     "stat": "corners",
-     "var": "corners_h",
-     "sign": -1,
-     "p": 0.7332038092854788,
-     "line": 5.5,
-     "text": "Menos de 5.5 córners de Grenoble"
-    },
-    {
-     "stat": "cards",
-     "var": "cards_h",
-     "sign": -1,
-     "p": 0.7260320776148184,
-     "line": 2.5,
-     "text": "Menos de 2.5 tarjetas de Grenoble"
-    },
-    {
-     "stat": "fouls",
-     "var": "fouls_a",
-     "sign": -1,
-     "p": 0.7224149509129882,
-     "line": 15.5,
-     "text": "Menos de 15.5 faltas de Reims"
-    },
-    {
-     "stat": "goals",
-     "var": "goals_t",
-     "sign": -1,
-     "p": 0.661963057615605,
-     "line": 2.5,
-     "text": "Menos de 2.5 goles"
-    }
-   ]
-  },
-  "F2|2026-11-06|Montpellier|Metz": {
-   "match": "Montpellier vs Metz",
-   "start": "2026-11-06T19:00:00+00:00",
-   "combos": [
-    {
-     "kind": "corta",
-     "p": 0.3296,
-     "legs": [
-      {
-       "var": "fouls_h",
-       "sign": 1,
-       "line": 13.5,
-       "p": 0.7452,
-       "text": "Más de 13.5 faltas de Montpellier",
-       "odds": null
-      },
-      {
-       "var": "cards_h",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.6998,
-       "text": "Menos de 2.5 tarjetas de Montpellier",
-       "odds": null
-      },
-      {
-       "var": "corners_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.6604,
-       "text": "Menos de 4.5 córners de Metz",
-       "odds": null
-      }
-     ]
-    },
-    {
-     "kind": "larga",
-     "p": 0.0988,
-     "legs": [
-      {
-       "var": "fouls_h",
-       "sign": 1,
-       "line": 13.5,
-       "p": 0.7452,
-       "text": "Más de 13.5 faltas de Montpellier",
-       "odds": null
-      },
-      {
-       "var": "cards_h",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.6998,
-       "text": "Menos de 2.5 tarjetas de Montpellier",
-       "odds": null
-      },
-      {
-       "var": "corners_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.6604,
-       "text": "Menos de 4.5 córners de Metz",
-       "odds": null
-      },
-      {
-       "var": "sot_h",
-       "sign": 1,
-       "line": 4.5,
-       "p": 0.5982,
-       "text": "Más de 4.5 tiros a puerta de Montpellier",
-       "odds": null
-      },
-      {
-       "var": "goals_t",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.553,
-       "text": "Menos de 2.5 goles",
-       "odds": 2.11
-      }
-     ]
-    }
-   ],
-   "priced": true,
-   "pool": [
-    {
-     "stat": "fouls",
-     "var": "fouls_h",
-     "sign": 1,
-     "p": 0.7451823298670397,
-     "line": 13.5,
-     "text": "Más de 13.5 faltas de Montpellier"
-    },
-    {
-     "stat": "cards",
-     "var": "cards_h",
-     "sign": -1,
-     "p": 0.6998040047481366,
-     "line": 2.5,
-     "text": "Menos de 2.5 tarjetas de Montpellier"
-    },
-    {
-     "stat": "corners",
-     "var": "corners_a",
-     "sign": -1,
-     "p": 0.660414800357972,
-     "line": 4.5,
-     "text": "Menos de 4.5 córners de Metz"
-    },
-    {
-     "stat": "sot",
-     "var": "sot_h",
-     "sign": 1,
-     "p": 0.59821073485791,
-     "line": 4.5,
-     "text": "Más de 4.5 tiros a puerta de Montpellier"
-    },
-    {
-     "stat": "goals",
-     "var": "goals_t",
-     "sign": -1,
-     "p": 0.5529784128926087,
-     "line": 2.5,
-     "text": "Menos de 2.5 goles"
-    }
-   ]
-  },
-  "F2|2026-11-06|Nancy|Sochaux": {
-   "match": "Nancy vs Sochaux",
-   "start": "2026-11-06T19:00:00+00:00",
-   "combos": [
-    {
-     "kind": "corta",
-     "p": 0.3454,
-     "legs": [
-      {
-       "var": "cards_h",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.7644,
-       "text": "Menos de 2.5 tarjetas de Nancy",
-       "odds": null
-      },
-      {
-       "var": "corners_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.7133,
-       "text": "Menos de 4.5 córners de Sochaux",
-       "odds": 1.45
-      },
-      {
-       "var": "goals_t",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.6358,
-       "text": "Menos de 2.5 goles",
-       "odds": 1.83
-      }
-     ]
-    },
-    {
-     "kind": "larga",
-     "p": 0.1599,
-     "legs": [
-      {
-       "var": "cards_h",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.7644,
-       "text": "Menos de 2.5 tarjetas de Nancy",
-       "odds": null
-      },
-      {
-       "var": "corners_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.7133,
-       "text": "Menos de 4.5 córners de Sochaux",
-       "odds": 1.45
-      },
-      {
-       "var": "goals_t",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.6358,
-       "text": "Menos de 2.5 goles",
-       "odds": 1.83
-      },
-      {
-       "var": "sot_a",
-       "sign": -1,
-       "line": 3.5,
-       "p": 0.6339,
-       "text": "Menos de 3.5 tiros a puerta de Sochaux",
-       "odds": null
-      },
-      {
-       "var": "fouls_t",
-       "sign": 1,
-       "line": 28.5,
-       "p": 0.613,
-       "text": "Más de 28.5 faltas",
-       "odds": null
-      }
-     ]
-    },
-    {
-     "kind": "valor",
-     "p": 0.4498,
-     "legs": [
-      {
-       "stat": "corners",
-       "var": "corners_a",
-       "sign": -1,
-       "p": 0.7133492284980818,
-       "line": 4.5,
-       "text": "Menos de 4.5 córners de Sochaux",
-       "odds": 1.45
-      },
-      {
-       "stat": "goals",
-       "var": "goals_t",
-       "sign": -1,
-       "p": 0.6357601745858452,
-       "line": 2.5,
-       "text": "Menos de 2.5 goles",
-       "odds": 1.83
-      }
-     ],
-     "odds": 2.65,
-     "edge": 0.193,
-     "sim": true
-    }
-   ],
-   "priced": true,
-   "pool": [
-    {
-     "stat": "cards",
-     "var": "cards_h",
-     "sign": -1,
-     "p": 0.7644349714072876,
-     "line": 2.5,
-     "text": "Menos de 2.5 tarjetas de Nancy"
-    },
-    {
-     "stat": "corners",
-     "var": "corners_a",
-     "sign": -1,
-     "p": 0.7133492284980818,
-     "line": 4.5,
-     "text": "Menos de 4.5 córners de Sochaux"
-    },
-    {
-     "stat": "goals",
-     "var": "goals_t",
-     "sign": -1,
-     "p": 0.6357601745858452,
-     "line": 2.5,
-     "text": "Menos de 2.5 goles"
-    },
-    {
-     "stat": "sot",
-     "var": "sot_a",
-     "sign": -1,
-     "p": 0.6339313936295986,
-     "line": 3.5,
-     "text": "Menos de 3.5 tiros a puerta de Sochaux"
-    },
-    {
-     "stat": "fouls",
-     "var": "fouls_t",
-     "sign": 1,
-     "p": 0.6129811015746105,
-     "line": 28.5,
-     "text": "Más de 28.5 faltas"
-    }
-   ],
-   "anunciada": true
-  },
-  "N1|2026-11-06|Willem II|Zwolle": {
-   "match": "Willem II vs Zwolle",
-   "start": "2026-11-06T19:00:00+00:00",
-   "combos": [
-    {
-     "kind": "corta",
-     "p": 0.343,
-     "legs": [
-      {
-       "var": "fouls_a",
-       "sign": -1,
-       "line": 11.5,
-       "p": 0.7083,
-       "text": "Menos de 11.5 faltas de Zwolle",
-       "odds": null
-      },
-      {
-       "var": "cards_t",
-       "sign": -1,
-       "line": 3.5,
-       "p": 0.702,
-       "text": "Menos de 3.5 tarjetas",
-       "odds": 1.45
-      },
-      {
-       "var": "goals_t",
-       "sign": 1,
-       "line": 2.5,
-       "p": 0.6328,
-       "text": "Más de 2.5 goles",
-       "odds": 1.62
-      }
-     ]
-    },
-    {
-     "kind": "larga",
-     "p": 0.1807,
-     "legs": [
-      {
-       "var": "fouls_a",
-       "sign": -1,
-       "line": 11.5,
-       "p": 0.7083,
-       "text": "Menos de 11.5 faltas de Zwolle",
-       "odds": null
-      },
-      {
-       "var": "cards_t",
-       "sign": -1,
-       "line": 3.5,
-       "p": 0.702,
-       "text": "Menos de 3.5 tarjetas",
-       "odds": 1.45
-      },
-      {
-       "var": "goals_t",
-       "sign": 1,
-       "line": 2.5,
-       "p": 0.6328,
-       "text": "Más de 2.5 goles",
-       "odds": 1.62
-      },
-      {
-       "var": "sot_h",
-       "sign": -1,
-       "line": 5.5,
-       "p": 0.6201,
-       "text": "Menos de 5.5 tiros a puerta de Willem II",
-       "odds": 1.28
-      }
-     ]
-    },
-    {
-     "kind": "valor",
-     "p": 0.4435,
-     "legs": [
-      {
-       "stat": "cards",
-       "var": "cards_t",
-       "sign": -1,
-       "p": 0.7019717782014157,
-       "line": 3.5,
-       "text": "Menos de 3.5 tarjetas",
-       "odds": 1.45
-      },
-      {
-       "stat": "goals",
-       "var": "goals_t",
-       "sign": 1,
-       "p": 0.6327792616858366,
-       "line": 2.5,
-       "text": "Más de 2.5 goles",
-       "odds": 1.62
-      }
-     ],
-     "odds": 2.35,
-     "edge": 0.042,
-     "sim": false
-    }
-   ],
-   "priced": true,
-   "pool": [
-    {
-     "stat": "fouls",
-     "var": "fouls_a",
-     "sign": -1,
-     "p": 0.7083321567789119,
-     "line": 11.5,
-     "text": "Menos de 11.5 faltas de Zwolle"
-    },
-    {
-     "stat": "cards",
-     "var": "cards_t",
-     "sign": -1,
-     "p": 0.7019717782014157,
-     "line": 3.5,
-     "text": "Menos de 3.5 tarjetas"
-    },
-    {
-     "stat": "goals",
-     "var": "goals_t",
-     "sign": 1,
-     "p": 0.6327792616858366,
-     "line": 2.5,
-     "text": "Más de 2.5 goles"
-    },
-    {
-     "stat": "sot",
-     "var": "sot_h",
-     "sign": -1,
-     "p": 0.6201123546754574,
-     "line": 5.5,
-     "text": "Menos de 5.5 tiros a puerta de Willem II"
-    }
-   ]
-  },
   "D1|2026-11-06|Hamburg|M'gladbach": {
    "match": "Hamburg vs M'gladbach",
    "start": "2026-11-06T19:30:00+00:00",
@@ -51431,1110 +50788,6 @@
      "p": 0.562242136749735,
      "line": 2.5,
      "text": "Más de 2.5 goles"
-    }
-   ]
-  },
-  "I2|2026-11-06|Ascoli|Palermo": {
-   "match": "Ascoli vs Palermo",
-   "start": "2026-11-06T19:30:00+00:00",
-   "combos": [
-    {
-     "kind": "corta",
-     "p": 0.6269,
-     "legs": [
-      {
-       "var": "fouls_h",
-       "sign": -1,
-       "line": 14.5,
-       "p": 0.8646,
-       "text": "Menos de 14.5 faltas de Ascoli",
-       "odds": null
-      },
-      {
-       "var": "sot_h",
-       "sign": -1,
-       "line": 5.5,
-       "p": 0.7307,
-       "text": "Menos de 5.5 tiros a puerta de Ascoli",
-       "odds": null
-      }
-     ]
-    },
-    {
-     "kind": "larga",
-     "p": 0.1429,
-     "legs": [
-      {
-       "var": "fouls_h",
-       "sign": -1,
-       "line": 14.5,
-       "p": 0.8646,
-       "text": "Menos de 14.5 faltas de Ascoli",
-       "odds": null
-      },
-      {
-       "var": "sot_h",
-       "sign": -1,
-       "line": 5.5,
-       "p": 0.7307,
-       "text": "Menos de 5.5 tiros a puerta de Ascoli",
-       "odds": null
-      },
-      {
-       "var": "cards_h",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.5874,
-       "text": "Menos de 2.5 tarjetas de Ascoli",
-       "odds": null
-      },
-      {
-       "var": "goals_t",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.5709,
-       "text": "Menos de 2.5 goles",
-       "odds": 2.18
-      },
-      {
-       "var": "corners_h",
-       "sign": -1,
-       "line": 5.5,
-       "p": 0.5677,
-       "text": "Menos de 5.5 córners de Ascoli",
-       "odds": 1.53
-      }
-     ]
-    },
-    {
-     "kind": "valor",
-     "p": 0.3231,
-     "legs": [
-      {
-       "stat": "goals",
-       "var": "goals_t",
-       "sign": -1,
-       "p": 0.5708928268680844,
-       "line": 2.5,
-       "text": "Menos de 2.5 goles",
-       "odds": 2.18
-      },
-      {
-       "stat": "corners",
-       "var": "corners_h",
-       "sign": -1,
-       "p": 0.5676885923999478,
-       "line": 5.5,
-       "text": "Menos de 5.5 córners de Ascoli",
-       "odds": 1.53
-      }
-     ],
-     "odds": 3.34,
-     "edge": 0.078,
-     "sim": true
-    }
-   ],
-   "priced": true,
-   "pool": [
-    {
-     "stat": "fouls",
-     "var": "fouls_h",
-     "sign": -1,
-     "p": 0.8646021460802982,
-     "line": 14.5,
-     "text": "Menos de 14.5 faltas de Ascoli"
-    },
-    {
-     "stat": "sot",
-     "var": "sot_h",
-     "sign": -1,
-     "p": 0.7307211343556594,
-     "line": 5.5,
-     "text": "Menos de 5.5 tiros a puerta de Ascoli"
-    },
-    {
-     "stat": "cards",
-     "var": "cards_h",
-     "sign": -1,
-     "p": 0.5873914484878235,
-     "line": 2.5,
-     "text": "Menos de 2.5 tarjetas de Ascoli"
-    },
-    {
-     "stat": "goals",
-     "var": "goals_t",
-     "sign": -1,
-     "p": 0.5708928268680844,
-     "line": 2.5,
-     "text": "Menos de 2.5 goles"
-    },
-    {
-     "stat": "corners",
-     "var": "corners_h",
-     "sign": -1,
-     "p": 0.5676885923999478,
-     "line": 5.5,
-     "text": "Menos de 5.5 córners de Ascoli"
-    }
-   ],
-   "anunciada": true
-  },
-  "B1|2026-11-06|Standard|Beveren": {
-   "match": "Standard vs Beveren",
-   "start": "2026-11-06T19:45:00+00:00",
-   "combos": [
-    {
-     "kind": "corta",
-     "p": 0.399,
-     "legs": [
-      {
-       "var": "sot_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.6542,
-       "text": "Menos de 4.5 tiros a puerta de Beveren",
-       "odds": 1.41
-      },
-      {
-       "var": "fouls_t",
-       "sign": -1,
-       "line": 22.5,
-       "p": 0.6269,
-       "text": "Menos de 22.5 faltas",
-       "odds": null
-      }
-     ]
-    },
-    {
-     "kind": "larga",
-     "p": 0.2052,
-     "legs": [
-      {
-       "var": "sot_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.6542,
-       "text": "Menos de 4.5 tiros a puerta de Beveren",
-       "odds": 1.41
-      },
-      {
-       "var": "fouls_t",
-       "sign": -1,
-       "line": 22.5,
-       "p": 0.6269,
-       "text": "Menos de 22.5 faltas",
-       "odds": null
-      },
-      {
-       "var": "cards_t",
-       "sign": 1,
-       "line": 3.5,
-       "p": 0.59,
-       "text": "Más de 3.5 tarjetas",
-       "odds": 1.63
-      }
-     ]
-    },
-    {
-     "kind": "valor",
-     "p": 0.3898,
-     "legs": [
-      {
-       "stat": "sot",
-       "var": "sot_a",
-       "sign": -1,
-       "p": 0.6541860665786163,
-       "line": 4.5,
-       "text": "Menos de 4.5 tiros a puerta de Beveren",
-       "odds": 1.41
-      },
-      {
-       "stat": "cards",
-       "var": "cards_t",
-       "sign": 1,
-       "p": 0.5899898563229315,
-       "line": 3.5,
-       "text": "Más de 3.5 tarjetas",
-       "odds": 1.63
-      }
-     ],
-     "odds": 2.3,
-     "edge": -0.104,
-     "sim": false
-    }
-   ],
-   "priced": true,
-   "pool": [
-    {
-     "stat": "sot",
-     "var": "sot_a",
-     "sign": -1,
-     "p": 0.6541860665786163,
-     "line": 4.5,
-     "text": "Menos de 4.5 tiros a puerta de Beveren"
-    },
-    {
-     "stat": "fouls",
-     "var": "fouls_t",
-     "sign": -1,
-     "p": 0.6269301869044107,
-     "line": 22.5,
-     "text": "Menos de 22.5 faltas"
-    },
-    {
-     "stat": "cards",
-     "var": "cards_t",
-     "sign": 1,
-     "p": 0.5899898563229315,
-     "line": 3.5,
-     "text": "Más de 3.5 tarjetas"
-    }
-   ]
-  },
-  "F1|2026-11-06|Toulouse|Strasbourg": {
-   "match": "Toulouse vs Strasbourg",
-   "start": "2026-11-06T19:45:00+00:00",
-   "combos": [
-    {
-     "kind": "corta",
-     "p": 0.3207,
-     "legs": [
-      {
-       "var": "corners_t",
-       "sign": -1,
-       "line": 10.5,
-       "p": 0.7348,
-       "text": "Menos de 10.5 córners",
-       "odds": 1.35
-      },
-      {
-       "var": "cards_h",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.6972,
-       "text": "Menos de 2.5 tarjetas de Toulouse",
-       "odds": 1.6
-      },
-      {
-       "var": "fouls_h",
-       "sign": 1,
-       "line": 11.5,
-       "p": 0.6525,
-       "text": "Más de 11.5 faltas de Toulouse",
-       "odds": null
-      }
-     ]
-    },
-    {
-     "kind": "larga",
-     "p": 0.215,
-     "legs": [
-      {
-       "var": "corners_t",
-       "sign": -1,
-       "line": 10.5,
-       "p": 0.7348,
-       "text": "Menos de 10.5 córners",
-       "odds": 1.35
-      },
-      {
-       "var": "cards_h",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.6972,
-       "text": "Menos de 2.5 tarjetas de Toulouse",
-       "odds": 1.6
-      },
-      {
-       "var": "fouls_h",
-       "sign": 1,
-       "line": 11.5,
-       "p": 0.6525,
-       "text": "Más de 11.5 faltas de Toulouse",
-       "odds": null
-      },
-      {
-       "var": "sot_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.6383,
-       "text": "Menos de 4.5 tiros a puerta de Strasbourg",
-       "odds": 1.49
-      }
-     ]
-    },
-    {
-     "kind": "valor",
-     "p": 0.5114,
-     "legs": [
-      {
-       "stat": "corners",
-       "var": "corners_t",
-       "sign": -1,
-       "p": 0.7347702605641887,
-       "line": 10.5,
-       "text": "Menos de 10.5 córners",
-       "odds": 1.35
-      },
-      {
-       "stat": "cards",
-       "var": "cards_h",
-       "sign": -1,
-       "p": 0.6971692594249672,
-       "line": 2.5,
-       "text": "Menos de 2.5 tarjetas de Toulouse",
-       "odds": 1.6
-      }
-     ],
-     "odds": 2.16,
-     "edge": 0.105,
-     "sim": true
-    }
-   ],
-   "priced": true,
-   "pool": [
-    {
-     "stat": "corners",
-     "var": "corners_t",
-     "sign": -1,
-     "p": 0.7347702605641887,
-     "line": 10.5,
-     "text": "Menos de 10.5 córners"
-    },
-    {
-     "stat": "cards",
-     "var": "cards_h",
-     "sign": -1,
-     "p": 0.6971692594249672,
-     "line": 2.5,
-     "text": "Menos de 2.5 tarjetas de Toulouse"
-    },
-    {
-     "stat": "fouls",
-     "var": "fouls_h",
-     "sign": 1,
-     "p": 0.6524946170946775,
-     "line": 11.5,
-     "text": "Más de 11.5 faltas de Toulouse"
-    },
-    {
-     "stat": "sot",
-     "var": "sot_a",
-     "sign": -1,
-     "p": 0.6382876654870697,
-     "line": 4.5,
-     "text": "Menos de 4.5 tiros a puerta de Strasbourg"
-    }
-   ],
-   "anunciada": true
-  },
-  "I1|2026-11-06|Venezia|Udinese": {
-   "match": "Venezia vs Udinese",
-   "start": "2026-11-06T19:45:00+00:00",
-   "combos": [
-    {
-     "kind": "corta",
-     "p": 0.3253,
-     "legs": [
-      {
-       "var": "fouls_h",
-       "sign": -1,
-       "line": 11.5,
-       "p": 0.7844,
-       "text": "Menos de 11.5 faltas de Venezia",
-       "odds": null
-      },
-      {
-       "var": "cards_a",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.6673,
-       "text": "Menos de 2.5 tarjetas de Udinese",
-       "odds": 1.36
-      },
-      {
-       "var": "sot_t",
-       "sign": -1,
-       "line": 9.5,
-       "p": 0.6208,
-       "text": "Menos de 9.5 tiros a puerta",
-       "odds": 1.67
-      }
-     ]
-    },
-    {
-     "kind": "larga",
-     "p": 0.133,
-     "legs": [
-      {
-       "var": "fouls_h",
-       "sign": -1,
-       "line": 11.5,
-       "p": 0.7844,
-       "text": "Menos de 11.5 faltas de Venezia",
-       "odds": null
-      },
-      {
-       "var": "cards_a",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.6673,
-       "text": "Menos de 2.5 tarjetas de Udinese",
-       "odds": 1.36
-      },
-      {
-       "var": "sot_t",
-       "sign": -1,
-       "line": 9.5,
-       "p": 0.6208,
-       "text": "Menos de 9.5 tiros a puerta",
-       "odds": 1.67
-      },
-      {
-       "var": "corners_h",
-       "sign": -1,
-       "line": 5.5,
-       "p": 0.5962,
-       "text": "Menos de 5.5 córners de Venezia",
-       "odds": 1.54
-      },
-      {
-       "var": "goals_t",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.5548,
-       "text": "Menos de 2.5 goles",
-       "odds": 1.97
-      }
-     ]
-    },
-    {
-     "kind": "valor",
-     "p": 0.4185,
-     "legs": [
-      {
-       "stat": "sot",
-       "var": "sot_t",
-       "sign": -1,
-       "p": 0.6207938126739962,
-       "line": 9.5,
-       "text": "Menos de 9.5 tiros a puerta",
-       "odds": 1.67
-      },
-      {
-       "stat": "goals",
-       "var": "goals_t",
-       "sign": -1,
-       "p": 0.5548191071455529,
-       "line": 2.5,
-       "text": "Menos de 2.5 goles",
-       "odds": 1.97
-      }
-     ],
-     "odds": 3.29,
-     "edge": 0.377,
-     "sim": true
-    }
-   ],
-   "priced": true,
-   "pool": [
-    {
-     "stat": "fouls",
-     "var": "fouls_h",
-     "sign": -1,
-     "p": 0.7843905433286271,
-     "line": 11.5,
-     "text": "Menos de 11.5 faltas de Venezia"
-    },
-    {
-     "stat": "cards",
-     "var": "cards_a",
-     "sign": -1,
-     "p": 0.6673455822459884,
-     "line": 2.5,
-     "text": "Menos de 2.5 tarjetas de Udinese"
-    },
-    {
-     "stat": "sot",
-     "var": "sot_t",
-     "sign": -1,
-     "p": 0.6207938126739962,
-     "line": 9.5,
-     "text": "Menos de 9.5 tiros a puerta"
-    },
-    {
-     "stat": "corners",
-     "var": "corners_h",
-     "sign": -1,
-     "p": 0.5962172131501835,
-     "line": 5.5,
-     "text": "Menos de 5.5 córners de Venezia"
-    },
-    {
-     "stat": "goals",
-     "var": "goals_t",
-     "sign": -1,
-     "p": 0.5548191071455529,
-     "line": 2.5,
-     "text": "Menos de 2.5 goles"
-    }
-   ],
-   "anunciada": true
-  },
-  "E0|2026-11-06|Everton|Coventry": {
-   "match": "Everton vs Coventry",
-   "start": "2026-11-06T20:00:00+00:00",
-   "combos": [
-    {
-     "kind": "corta",
-     "p": 0.4356,
-     "legs": [
-      {
-       "var": "sot_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.7619,
-       "text": "Menos de 4.5 tiros a puerta de Coventry",
-       "odds": 1.22
-      },
-      {
-       "var": "cards_h",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.7454,
-       "text": "Menos de 2.5 tarjetas de Everton",
-       "odds": 1.35
-      },
-      {
-       "var": "fouls_h",
-       "sign": -1,
-       "line": 11.5,
-       "p": 0.7337,
-       "text": "Menos de 11.5 faltas de Everton",
-       "odds": null
-      }
-     ]
-    },
-    {
-     "kind": "larga",
-     "p": 0.1862,
-     "legs": [
-      {
-       "var": "sot_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.7619,
-       "text": "Menos de 4.5 tiros a puerta de Coventry",
-       "odds": 1.22
-      },
-      {
-       "var": "cards_h",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.7454,
-       "text": "Menos de 2.5 tarjetas de Everton",
-       "odds": 1.35
-      },
-      {
-       "var": "fouls_h",
-       "sign": -1,
-       "line": 11.5,
-       "p": 0.7337,
-       "text": "Menos de 11.5 faltas de Everton",
-       "odds": null
-      },
-      {
-       "var": "corners_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.642,
-       "text": "Menos de 4.5 córners de Coventry",
-       "odds": 1.48
-      },
-      {
-       "var": "goals_t",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.5892,
-       "text": "Menos de 2.5 goles",
-       "odds": 2.09
-      }
-     ]
-    },
-    {
-     "kind": "valor",
-     "p": 0.3706,
-     "legs": [
-      {
-       "stat": "sot",
-       "var": "sot_a",
-       "sign": -1,
-       "p": 0.7619049977750371,
-       "line": 4.5,
-       "text": "Menos de 4.5 tiros a puerta de Coventry",
-       "odds": 1.22
-      },
-      {
-       "stat": "cards",
-       "var": "cards_h",
-       "sign": -1,
-       "p": 0.7454216889120797,
-       "line": 2.5,
-       "text": "Menos de 2.5 tarjetas de Everton",
-       "odds": 1.35
-      },
-      {
-       "stat": "goals",
-       "var": "goals_t",
-       "sign": -1,
-       "p": 0.5892440686889842,
-       "line": 2.5,
-       "text": "Menos de 2.5 goles",
-       "odds": 2.09
-      }
-     ],
-     "odds": 3.44,
-     "edge": 0.276,
-     "sim": true
-    }
-   ],
-   "priced": true,
-   "pool": [
-    {
-     "stat": "sot",
-     "var": "sot_a",
-     "sign": -1,
-     "p": 0.7619049977750371,
-     "line": 4.5,
-     "text": "Menos de 4.5 tiros a puerta de Coventry"
-    },
-    {
-     "stat": "cards",
-     "var": "cards_h",
-     "sign": -1,
-     "p": 0.7454216889120797,
-     "line": 2.5,
-     "text": "Menos de 2.5 tarjetas de Everton"
-    },
-    {
-     "stat": "fouls",
-     "var": "fouls_h",
-     "sign": -1,
-     "p": 0.7337029189481082,
-     "line": 11.5,
-     "text": "Menos de 11.5 faltas de Everton"
-    },
-    {
-     "stat": "corners",
-     "var": "corners_a",
-     "sign": -1,
-     "p": 0.6420224482253656,
-     "line": 4.5,
-     "text": "Menos de 4.5 córners de Coventry"
-    },
-    {
-     "stat": "goals",
-     "var": "goals_t",
-     "sign": -1,
-     "p": 0.5892440686889842,
-     "line": 2.5,
-     "text": "Menos de 2.5 goles"
-    }
-   ],
-   "anunciada": true
-  },
-  "E1|2026-11-06|Derby|Bolton": {
-   "match": "Derby vs Bolton",
-   "start": "2026-11-06T20:00:00+00:00",
-   "combos": [
-    {
-     "kind": "corta",
-     "p": 0.3866,
-     "legs": [
-      {
-       "var": "sot_h",
-       "sign": -1,
-       "line": 5.5,
-       "p": 0.7753,
-       "text": "Menos de 5.5 tiros a puerta de Derby",
-       "odds": 1.41
-      },
-      {
-       "var": "cards_h",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.75,
-       "text": "Menos de 2.5 tarjetas de Derby",
-       "odds": 1.3
-      },
-      {
-       "var": "fouls_a",
-       "sign": -1,
-       "line": 11.5,
-       "p": 0.67,
-       "text": "Menos de 11.5 faltas de Bolton",
-       "odds": null
-      }
-     ]
-    },
-    {
-     "kind": "valor",
-     "p": 0.5728,
-     "legs": [
-      {
-       "stat": "sot",
-       "var": "sot_h",
-       "sign": -1,
-       "p": 0.7752708714067129,
-       "line": 5.5,
-       "text": "Menos de 5.5 tiros a puerta de Derby",
-       "odds": 1.41
-      },
-      {
-       "stat": "cards",
-       "var": "cards_h",
-       "sign": -1,
-       "p": 0.7499894966699304,
-       "line": 2.5,
-       "text": "Menos de 2.5 tarjetas de Derby",
-       "odds": 1.3
-      }
-     ],
-     "odds": 1.83,
-     "edge": 0.05,
-     "sim": true
-    }
-   ],
-   "priced": true,
-   "pool": [
-    {
-     "stat": "sot",
-     "var": "sot_h",
-     "sign": -1,
-     "p": 0.7752708714067129,
-     "line": 5.5,
-     "text": "Menos de 5.5 tiros a puerta de Derby"
-    },
-    {
-     "stat": "cards",
-     "var": "cards_h",
-     "sign": -1,
-     "p": 0.7499894966699304,
-     "line": 2.5,
-     "text": "Menos de 2.5 tarjetas de Derby"
-    },
-    {
-     "stat": "fouls",
-     "var": "fouls_a",
-     "sign": -1,
-     "p": 0.6700440720722088,
-     "line": 11.5,
-     "text": "Menos de 11.5 faltas de Bolton"
-    }
-   ],
-   "anunciada": true
-  },
-  "SP1|2026-11-06|Sevilla|Alaves": {
-   "match": "Sevilla vs Alaves",
-   "start": "2026-11-06T20:00:00+00:00",
-   "combos": [
-    {
-     "kind": "corta",
-     "p": 0.4222,
-     "legs": [
-      {
-       "var": "sot_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.7466,
-       "text": "Menos de 4.5 tiros a puerta de Alaves",
-       "odds": 1.25
-      },
-      {
-       "var": "fouls_t",
-       "sign": 1,
-       "line": 25.5,
-       "p": 0.7356,
-       "text": "Más de 25.5 faltas",
-       "odds": null
-      },
-      {
-       "var": "corners_t",
-       "sign": -1,
-       "line": 10.5,
-       "p": 0.7322,
-       "text": "Menos de 10.5 córners",
-       "odds": 1.36
-      }
-     ]
-    },
-    {
-     "kind": "larga",
-     "p": 0.1709,
-     "legs": [
-      {
-       "var": "sot_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.7466,
-       "text": "Menos de 4.5 tiros a puerta de Alaves",
-       "odds": 1.25
-      },
-      {
-       "var": "fouls_t",
-       "sign": 1,
-       "line": 25.5,
-       "p": 0.7356,
-       "text": "Más de 25.5 faltas",
-       "odds": null
-      },
-      {
-       "var": "corners_t",
-       "sign": -1,
-       "line": 10.5,
-       "p": 0.7322,
-       "text": "Menos de 10.5 córners",
-       "odds": 1.36
-      },
-      {
-       "var": "cards_t",
-       "sign": 1,
-       "line": 4.5,
-       "p": 0.5906,
-       "text": "Más de 4.5 tarjetas",
-       "odds": 1.67
-      },
-      {
-       "var": "goals_t",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.5648,
-       "text": "Menos de 2.5 goles",
-       "odds": 1.63
-      }
-     ]
-    },
-    {
-     "kind": "valor",
-     "p": 0.4325,
-     "legs": [
-      {
-       "stat": "corners",
-       "var": "corners_t",
-       "sign": -1,
-       "p": 0.7322053412005862,
-       "line": 10.5,
-       "text": "Menos de 10.5 córners",
-       "odds": 1.36
-      },
-      {
-       "stat": "cards",
-       "var": "cards_t",
-       "sign": 1,
-       "p": 0.5905851856035803,
-       "line": 4.5,
-       "text": "Más de 4.5 tarjetas",
-       "odds": 1.67
-      }
-     ],
-     "odds": 2.27,
-     "edge": -0.018,
-     "sim": false
-    }
-   ],
-   "priced": true,
-   "pool": [
-    {
-     "stat": "sot",
-     "var": "sot_a",
-     "sign": -1,
-     "p": 0.7466463629340969,
-     "line": 4.5,
-     "text": "Menos de 4.5 tiros a puerta de Alaves"
-    },
-    {
-     "stat": "fouls",
-     "var": "fouls_t",
-     "sign": 1,
-     "p": 0.7355849829406514,
-     "line": 25.5,
-     "text": "Más de 25.5 faltas"
-    },
-    {
-     "stat": "corners",
-     "var": "corners_t",
-     "sign": -1,
-     "p": 0.7322053412005862,
-     "line": 10.5,
-     "text": "Menos de 10.5 córners"
-    },
-    {
-     "stat": "cards",
-     "var": "cards_t",
-     "sign": 1,
-     "p": 0.5905851856035803,
-     "line": 4.5,
-     "text": "Más de 4.5 tarjetas"
-    },
-    {
-     "stat": "goals",
-     "var": "goals_t",
-     "sign": -1,
-     "p": 0.5647936986062467,
-     "line": 2.5,
-     "text": "Menos de 2.5 goles"
-    }
-   ]
-  },
-  "P1|2026-11-06|Famalicao|Arouca": {
-   "match": "Famalicao vs Arouca",
-   "start": "2026-11-06T20:45:00+00:00",
-   "combos": [
-    {
-     "kind": "corta",
-     "p": 0.2749,
-     "legs": [
-      {
-       "var": "corners_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.6584,
-       "text": "Menos de 4.5 córners de Arouca",
-       "odds": 1.5
-      },
-      {
-       "var": "fouls_h",
-       "sign": -1,
-       "line": 13.5,
-       "p": 0.6548,
-       "text": "Menos de 13.5 faltas de Famalicao",
-       "odds": null
-      },
-      {
-       "var": "sot_t",
-       "sign": -1,
-       "line": 8.5,
-       "p": 0.6484,
-       "text": "Menos de 8.5 tiros a puerta",
-       "odds": null
-      }
-     ]
-    },
-    {
-     "kind": "larga",
-     "p": 0.1019,
-     "legs": [
-      {
-       "var": "corners_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.6584,
-       "text": "Menos de 4.5 córners de Arouca",
-       "odds": 1.5
-      },
-      {
-       "var": "fouls_h",
-       "sign": -1,
-       "line": 13.5,
-       "p": 0.6548,
-       "text": "Menos de 13.5 faltas de Famalicao",
-       "odds": null
-      },
-      {
-       "var": "sot_t",
-       "sign": -1,
-       "line": 8.5,
-       "p": 0.6484,
-       "text": "Menos de 8.5 tiros a puerta",
-       "odds": null
-      },
-      {
-       "var": "goals_t",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.5645,
-       "text": "Menos de 2.5 goles",
-       "odds": 1.65
-      },
-      {
-       "var": "cards_a",
-       "sign": 1,
-       "line": 2.5,
-       "p": 0.5586,
-       "text": "Más de 2.5 tarjetas de Arouca",
-       "odds": null
-      }
-     ]
-    },
-    {
-     "kind": "valor",
-     "p": 0.3674,
-     "legs": [
-      {
-       "stat": "corners",
-       "var": "corners_a",
-       "sign": -1,
-       "p": 0.6583831341293107,
-       "line": 4.5,
-       "text": "Menos de 4.5 córners de Arouca",
-       "odds": 1.5
-      },
-      {
-       "stat": "goals",
-       "var": "goals_t",
-       "sign": -1,
-       "p": 0.5645023502679181,
-       "line": 2.5,
-       "text": "Menos de 2.5 goles",
-       "odds": 1.65
-      }
-     ],
-     "odds": 2.47,
-     "edge": -0.091,
-     "sim": false
-    }
-   ],
-   "priced": true,
-   "pool": [
-    {
-     "stat": "corners",
-     "var": "corners_a",
-     "sign": -1,
-     "p": 0.6583831341293107,
-     "line": 4.5,
-     "text": "Menos de 4.5 córners de Arouca"
-    },
-    {
-     "stat": "fouls",
-     "var": "fouls_h",
-     "sign": -1,
-     "p": 0.6547571473707028,
-     "line": 13.5,
-     "text": "Menos de 13.5 faltas de Famalicao"
-    },
-    {
-     "stat": "sot",
-     "var": "sot_t",
-     "sign": -1,
-     "p": 0.6484002399796684,
-     "line": 8.5,
-     "text": "Menos de 8.5 tiros a puerta"
-    },
-    {
-     "stat": "goals",
-     "var": "goals_t",
-     "sign": -1,
-     "p": 0.5645023502679181,
-     "line": 2.5,
-     "text": "Menos de 2.5 goles"
-    },
-    {
-     "stat": "cards",
-     "var": "cards_a",
-     "sign": 1,
-     "p": 0.5585645635015024,
-     "line": 2.5,
-     "text": "Más de 2.5 tarjetas de Arouca"
     }
    ]
   },
@@ -68128,20 +66381,111 @@
      "text": "Más de 2.5 goles"
     }
    ]
+  },
+  "SP2|2026-11-09|Sabadell|Sociedad B": {
+   "match": "Sabadell vs Sociedad B",
+   "start": "2026-11-09T19:30:00+00:00",
+   "combos": [
+    {
+     "kind": "corta",
+     "p": 0.3256,
+     "legs": [
+      {
+       "var": "sot_a",
+       "sign": -1,
+       "line": 4.5,
+       "p": 0.7421,
+       "text": "Menos de 4.5 tiros a puerta de Sociedad B",
+       "odds": null
+      },
+      {
+       "var": "corners_a",
+       "sign": -1,
+       "line": 4.5,
+       "p": 0.6996,
+       "text": "Menos de 4.5 córners de Sociedad B",
+       "odds": null
+      },
+      {
+       "var": "cards_a",
+       "sign": -1,
+       "line": 3.5,
+       "p": 0.6164,
+       "text": "Menos de 3.5 tarjetas de Sociedad B",
+       "odds": null
+      }
+     ]
+    }
+   ],
+   "priced": false,
+   "pool": [
+    {
+     "stat": "sot",
+     "var": "sot_a",
+     "sign": -1,
+     "p": 0.7421155929219605,
+     "line": 4.5,
+     "text": "Menos de 4.5 tiros a puerta de Sociedad B"
+    },
+    {
+     "stat": "corners",
+     "var": "corners_a",
+     "sign": -1,
+     "p": 0.6995942632699635,
+     "line": 4.5,
+     "text": "Menos de 4.5 córners de Sociedad B"
+    },
+    {
+     "stat": "cards",
+     "var": "cards_a",
+     "sign": -1,
+     "p": 0.6164241117630391,
+     "line": 3.5,
+     "text": "Menos de 3.5 tarjetas de Sociedad B"
+    }
+   ]
+  },
+  "nfl|2026-11-10|Minnesota Vikings|Buffalo Bills": {
+   "match": "Minnesota Vikings vs Buffalo Bills",
+   "start": "2026-11-10T01:15Z",
+   "combos": [
+    {
+     "kind": "nfl",
+     "p": 0.2175,
+     "odds": 4.47,
+     "edge": -0.028,
+     "legs": [
+      {
+       "var": "win_home",
+       "sign": 1,
+       "line": 0.0,
+       "p": 0.396,
+       "odds": 2.42,
+       "text": "Gana Minnesota Vikings"
+      },
+      {
+       "var": "total_t",
+       "sign": 1,
+       "line": 43.5,
+       "p": 0.517,
+       "odds": 1.847,
+       "text": "Más de 43.5 puntos"
+      }
+     ],
+     "sim": false
+    }
+   ],
+   "priced": true,
+   "lines": [
+    "🧩 Combinada: Gana Minnesota Vikings + Más de 43.5 puntos → prob. 22%, cuota justa 4.60",
+    "🎯 No simulada (NFL): cuota DraftKings aprox. 4.47 (producto de piernas) · prob. 22% · ventaja -3%"
+   ]
   }
  },
  "combo_sent": "2026-11-06T23:39:44.858811+00:00",
  "fc_sim_sent": "2026-11-06T19:27:57.445126+00:00",
  "fc_sim_n": 698,
  "kambi_ok": [
-  "E1|2026-11-03|Blackburn|Stoke",
-  "E1|2026-11-03|Charlton|Bolton",
-  "E1|2026-11-03|Derby|Norwich",
-  "E1|2026-11-03|Portsmouth|Swansea",
-  "E1|2026-11-03|Preston|Sheffield Utd",
-  "E1|2026-11-03|Watford|Lincoln",
-  "E1|2026-11-03|Birmingham|Millwall",
-  "E1|2026-11-03|West Brom|Southampton",
   "B1|2026-11-04|Kortrijk|KV Mechelen",
   "E1|2026-11-04|Cardiff|West Ham",
   "E1|2026-11-04|Wrexham|Middlesbrough",
@@ -68223,7 +66567,7 @@
   "P1|2026-11-07|Sp Lisbon|Moreirense"
  ],
  "paper_sent": "2026-11-06T16:17:52.697877+00:00",
- "sgp_res_n": 23,
+ "sgp_res_n": 69,
  "nba_props_ok": [
   "nba|2026-11-05|Detroit Pistons|Philadelphia 76ers",
   "nba|2026-11-05|Washington Wizards|Atlanta Hawks",
@@ -68251,5 +66595,6 @@
   "nba|2026-11-07|Charlotte Hornets|Boston Celtics",
   "nba|2026-11-07|Atlanta Hawks|Washington Wizards"
  ],
- "radar_date": "2026-11-06"
+ "radar_date": "2026-11-06",
+ "sgp_res_sent": "2026-11-07T00:15:02.504113+00:00"
 }

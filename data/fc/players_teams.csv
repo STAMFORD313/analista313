@@ -58850,10 +58850,10 @@ id,tournament_id,club1,club2,ht1,ht2
 2365951,261105,Napoli,Bologna,,
 2365952,261105,Roma,Napoli,,
 2365953,261105,Sassuolo,Juventus,,
-2365272,261115,Argentina,Spain,1,1
-2365273,261115,Brazil,England,3,0
-2365274,261115,England,Argentina,3,1
-2365275,261115,Spain,France,3,2
+2365272,261115,Argentina,Spain,1.0,1.0
+2365273,261115,Brazil,England,3.0,0.0
+2365274,261115,England,Argentina,3.0,1.0
+2365275,261115,Spain,France,3.0,2.0
 2365276,261115,France,England,,
 2365277,261115,Argentina,Brazil,,
 2365278,261115,Brazil,France,,

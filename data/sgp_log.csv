@@ -22,3 +22,49 @@ fecha,partido,tipo,piernas,p,acierto,piernas_acertadas,p_piernas,cuota,ventaja,s
 2026-11-04,Wrexham vs Middlesbrough,larga,5,0.1937,0,4,0.7209,,,0,,Menos de 2.5 tarjetas de Wrexham + Menos de 5.5 tiros a puerta de Wrexham + Menos de 11.5 faltas de Middlesbrough + Más de 2.5 goles + Menos de 5.5 córners de Wrexham,11101
 2026-11-04,Bristol City vs Wolves,corta,2,0.5266,1,2,0.7329,,,0,,Menos de 2.5 tarjetas de Bristol City + Menos de 5.5 tiros a puerta de Bristol City,11
 2026-11-04,Bristol City vs Wolves,larga,4,0.1974,1,4,0.6544,,,0,,Menos de 2.5 tarjetas de Bristol City + Menos de 5.5 tiros a puerta de Bristol City + Menos de 11.5 faltas de Bristol City + Más de 4.5 córners de Wolves,1111
+2026-11-06,Gaziantep vs Kasimpasa,corta,3,0.2554,0,2,0.6553,,,0,,Menos de 13.5 faltas de Gaziantep + Menos de 5.5 tiros a puerta de Gaziantep + Más de 4.5 tarjetas,110
+2026-11-06,Gaziantep vs Kasimpasa,larga,4,0.1473,0,3,0.6423,,,0,,Menos de 13.5 faltas de Gaziantep + Menos de 5.5 tiros a puerta de Gaziantep + Más de 4.5 tarjetas + Menos de 4.5 córners de Kasimpasa,1101
+2026-11-06,Braunschweig vs Cottbus,corta,3,0.2475,0,1,0.6074,,,0,,Más de 2.5 goles + Menos de 2.5 tarjetas de Braunschweig + Menos de 11.5 faltas de Braunschweig,010
+2026-11-06,Braunschweig vs Cottbus,larga,4,0.1436,0,2,0.6001,,,0,,Más de 2.5 goles + Menos de 2.5 tarjetas de Braunschweig + Menos de 11.5 faltas de Braunschweig + Menos de 5.5 córners de Cottbus,0101
+2026-11-06,Braunschweig vs Cottbus,valor,2,0.3621,0,1,0.5984,2.17,-0.212,0,,Más de 2.5 goles + Menos de 5.5 córners de Cottbus,01
+2026-11-06,Dresden vs Greuther Furth,corta,3,0.2964,0,2,0.6646,,,0,,Menos de 12.5 faltas de Greuther Furth + Menos de 2.5 tarjetas de Dresden + Menos de 5.5 córners de Greuther Furth,110
+2026-11-06,Dresden vs Greuther Furth,larga,4,0.1773,0,3,0.6533,,,0,,Menos de 12.5 faltas de Greuther Furth + Menos de 2.5 tarjetas de Dresden + Menos de 5.5 córners de Greuther Furth + Menos de 10.5 tiros a puerta,1101
+2026-11-06,Boulogne vs Annecy,corta,3,0.2894,0,2,0.6667,,,0,,Menos de 2.5 tarjetas de Boulogne + Menos de 4.5 tiros a puerta de Boulogne + Menos de 15.5 faltas de Annecy,101
+2026-11-06,Boulogne vs Annecy,larga,5,0.0979,0,4,0.6355,,,0,,Menos de 2.5 tarjetas de Boulogne + Menos de 4.5 tiros a puerta de Boulogne + Menos de 15.5 faltas de Annecy + Menos de 5.5 córners de Boulogne + Más de 2.5 goles,10111
+2026-11-06,Dijon vs Red Star,corta,3,0.2967,0,1,0.6903,,,0,,Menos de 2.5 tarjetas de Dijon + Más de 3.5 tiros a puerta de Red Star + Más de 28.5 faltas,100
+2026-11-06,Dijon vs Red Star,larga,5,0.1301,0,2,0.6608,,,0,,Menos de 2.5 tarjetas de Dijon + Más de 3.5 tiros a puerta de Red Star + Más de 28.5 faltas + Menos de 5.5 córners de Dijon + Más de 2.5 goles,10010
+2026-11-06,Dunkerque vs Guingamp,corta,3,0.3527,0,2,0.7026,,,0,,Menos de 15.5 faltas de Guingamp + Menos de 5.5 córners de Dunkerque + Menos de 2.5 tarjetas de Dunkerque,101
+2026-11-06,Dunkerque vs Guingamp,larga,4,0.2341,0,2,0.6879,,,0,,Menos de 15.5 faltas de Guingamp + Menos de 5.5 córners de Dunkerque + Menos de 2.5 tarjetas de Dunkerque + Menos de 4.5 tiros a puerta de Dunkerque,1010
+2026-11-06,Grenoble vs Reims,corta,3,0.4245,0,2,0.7447,,,0,,Menos de 4.5 tiros a puerta de Grenoble + Menos de 5.5 córners de Grenoble + Menos de 2.5 tarjetas de Grenoble,011
+2026-11-06,Grenoble vs Reims,larga,5,0.2174,0,3,0.7237,,,0,,Menos de 4.5 tiros a puerta de Grenoble + Menos de 5.5 córners de Grenoble + Menos de 2.5 tarjetas de Grenoble + Menos de 15.5 faltas de Reims + Menos de 2.5 goles,01110
+2026-11-06,Montpellier vs Metz,corta,3,0.3296,1,3,0.7018,,,0,,Más de 13.5 faltas de Montpellier + Menos de 2.5 tarjetas de Montpellier + Menos de 4.5 córners de Metz,111
+2026-11-06,Montpellier vs Metz,larga,5,0.0988,0,4,0.6513,,,0,,Más de 13.5 faltas de Montpellier + Menos de 2.5 tarjetas de Montpellier + Menos de 4.5 córners de Metz + Más de 4.5 tiros a puerta de Montpellier + Menos de 2.5 goles,11110
+2026-11-06,Nancy vs Sochaux,corta,3,0.3454,0,2,0.7045,,,0,,Menos de 2.5 tarjetas de Nancy + Menos de 4.5 córners de Sochaux + Menos de 2.5 goles,011
+2026-11-06,Nancy vs Sochaux,larga,5,0.1599,0,4,0.6721,,,0,,Menos de 2.5 tarjetas de Nancy + Menos de 4.5 córners de Sochaux + Menos de 2.5 goles + Menos de 3.5 tiros a puerta de Sochaux + Más de 28.5 faltas,01111
+2026-11-06,Nancy vs Sochaux,valor,2,0.4498,1,2,0.6746,2.65,0.193,1,1.65,Menos de 4.5 córners de Sochaux + Menos de 2.5 goles,11
+2026-11-06,Willem II vs Zwolle,corta,3,0.343,0,2,0.681,,,0,,Menos de 11.5 faltas de Zwolle + Menos de 3.5 tarjetas + Más de 2.5 goles,110
+2026-11-06,Willem II vs Zwolle,larga,4,0.1807,0,3,0.6658,,,0,,Menos de 11.5 faltas de Zwolle + Menos de 3.5 tarjetas + Más de 2.5 goles + Menos de 5.5 tiros a puerta de Willem II,1101
+2026-11-06,Willem II vs Zwolle,valor,2,0.4435,0,1,0.6674,2.35,0.042,0,,Menos de 3.5 tarjetas + Más de 2.5 goles,10
+2026-11-06,Ascoli vs Palermo,corta,2,0.6269,1,2,0.7976,,,0,,Menos de 14.5 faltas de Ascoli + Menos de 5.5 tiros a puerta de Ascoli,11
+2026-11-06,Ascoli vs Palermo,larga,5,0.1429,1,5,0.6643,,,0,,Menos de 14.5 faltas de Ascoli + Menos de 5.5 tiros a puerta de Ascoli + Menos de 2.5 tarjetas de Ascoli + Menos de 2.5 goles + Menos de 5.5 córners de Ascoli,11111
+2026-11-06,Ascoli vs Palermo,valor,2,0.3231,1,2,0.5693,3.34,0.078,1,2.34,Menos de 2.5 goles + Menos de 5.5 córners de Ascoli,11
+2026-11-06,Standard vs Beveren,corta,2,0.399,1,2,0.6405,,,0,,Menos de 4.5 tiros a puerta de Beveren + Menos de 22.5 faltas,11
+2026-11-06,Standard vs Beveren,larga,3,0.2052,0,2,0.6237,,,0,,Menos de 4.5 tiros a puerta de Beveren + Menos de 22.5 faltas + Más de 3.5 tarjetas,110
+2026-11-06,Standard vs Beveren,valor,2,0.3898,0,1,0.6221,2.3,-0.104,0,,Menos de 4.5 tiros a puerta de Beveren + Más de 3.5 tarjetas,10
+2026-11-06,Toulouse vs Strasbourg,corta,3,0.3207,0,2,0.6948,,,0,,Menos de 10.5 córners + Menos de 2.5 tarjetas de Toulouse + Más de 11.5 faltas de Toulouse,101
+2026-11-06,Toulouse vs Strasbourg,larga,4,0.215,0,3,0.6807,,,0,,Menos de 10.5 córners + Menos de 2.5 tarjetas de Toulouse + Más de 11.5 faltas de Toulouse + Menos de 4.5 tiros a puerta de Strasbourg,1011
+2026-11-06,Toulouse vs Strasbourg,valor,2,0.5114,0,1,0.716,2.16,0.105,1,-1.0,Menos de 10.5 córners + Menos de 2.5 tarjetas de Toulouse,10
+2026-11-06,Venezia vs Udinese,corta,3,0.3253,1,3,0.6908,,,0,,Menos de 11.5 faltas de Venezia + Menos de 2.5 tarjetas de Udinese + Menos de 9.5 tiros a puerta,111
+2026-11-06,Venezia vs Udinese,larga,5,0.133,0,4,0.6447,,,0,,Menos de 11.5 faltas de Venezia + Menos de 2.5 tarjetas de Udinese + Menos de 9.5 tiros a puerta + Menos de 5.5 córners de Venezia + Menos de 2.5 goles,11110
+2026-11-06,Venezia vs Udinese,valor,2,0.4185,0,1,0.5878,3.29,0.377,1,-1.0,Menos de 9.5 tiros a puerta + Menos de 2.5 goles,10
+2026-11-06,Everton vs Coventry,corta,3,0.4356,1,3,0.747,,,0,,Menos de 4.5 tiros a puerta de Coventry + Menos de 2.5 tarjetas de Everton + Menos de 11.5 faltas de Everton,111
+2026-11-06,Everton vs Coventry,larga,5,0.1862,0,4,0.6944,,,0,,Menos de 4.5 tiros a puerta de Coventry + Menos de 2.5 tarjetas de Everton + Menos de 11.5 faltas de Everton + Menos de 4.5 córners de Coventry + Menos de 2.5 goles,11110
+2026-11-06,Everton vs Coventry,valor,3,0.3706,0,2,0.6989,3.44,0.276,1,-1.0,Menos de 4.5 tiros a puerta de Coventry + Menos de 2.5 tarjetas de Everton + Menos de 2.5 goles,110
+2026-11-06,Derby vs Bolton,corta,3,0.3866,1,3,0.7318,,,0,,Menos de 5.5 tiros a puerta de Derby + Menos de 2.5 tarjetas de Derby + Menos de 11.5 faltas de Bolton,111
+2026-11-06,Derby vs Bolton,valor,2,0.5728,1,2,0.7626,1.83,0.05,1,0.8300000000000001,Menos de 5.5 tiros a puerta de Derby + Menos de 2.5 tarjetas de Derby,11
+2026-11-06,Sevilla vs Alaves,corta,3,0.4222,1,3,0.7381,,,0,,Menos de 4.5 tiros a puerta de Alaves + Más de 25.5 faltas + Menos de 10.5 córners,111
+2026-11-06,Sevilla vs Alaves,larga,5,0.1709,0,4,0.674,,,0,,Menos de 4.5 tiros a puerta de Alaves + Más de 25.5 faltas + Menos de 10.5 córners + Más de 4.5 tarjetas + Menos de 2.5 goles,11101
+2026-11-06,Sevilla vs Alaves,valor,2,0.4325,0,1,0.6614,2.27,-0.018,0,,Menos de 10.5 córners + Más de 4.5 tarjetas,10
+2026-11-06,Famalicao vs Arouca,corta,3,0.2749,1,3,0.6539,,,0,,Menos de 4.5 córners de Arouca + Menos de 13.5 faltas de Famalicao + Menos de 8.5 tiros a puerta,111
+2026-11-06,Famalicao vs Arouca,larga,5,0.1019,1,5,0.6169,,,0,,Menos de 4.5 córners de Arouca + Menos de 13.5 faltas de Famalicao + Menos de 8.5 tiros a puerta + Menos de 2.5 goles + Más de 2.5 tarjetas de Arouca,11111
+2026-11-06,Famalicao vs Arouca,valor,2,0.3674,1,2,0.6114,2.47,-0.091,0,,Menos de 4.5 córners de Arouca + Menos de 2.5 goles,11

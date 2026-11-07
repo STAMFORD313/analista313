@@ -1,6 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 07/11/2026 00:49 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 07/11/2026 01:15 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Banfield vs Atl. Tucuman — 07/11 · 02:00
 
@@ -13546,4 +13546,64 @@ Marcadores: 1-1 14% · 0-1 12% · 0-0 10% · 1-0 9%
 • H2H: 9 desde 2019: 1V-6E-2D · 2.1 goles/partido · +2.5 en 33%  
 • Bajas: Central Cordoba: sin bajas; Lanus: sin bajas  
 • Favorito de las casas: Lanus @ 1.62  
+
+## Queretaro vs Puebla — 09/11 · 01:00
+
+👀 candidata · 🇲🇽 Liga MX · **Gana Queretaro** @ **1.76** (Bet365) · prob 53% vs casas 53% · ventaja -7%
+
+- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.38 - 1.00)  
+1 52% · X 26% · 2 22%  
+1X 78% · X2 48% · 12 74%  
++1.5 69% · +2.5 43% · +3.5 22% · Ambos marcan 48%  
+Marcadores: 1-1 13% · 1-0 12% · 0-0 10% · 2-0 9%  
+🔎 **Claves**  
+• Forma: Queretaro ✅❌❌❌❌ | Puebla ➖➖❌❌❌  
+• H2H: 28 desde 2012: 9V-9E-10D · 2.3 goles/partido · +2.5 en 36%  
+• Bajas: Queretaro: 0 fuera, 1 duda; Puebla: sin bajas  
+• Favorito de las casas: Queretaro @ 1.76  
+
+## Club Leon vs Guadalajara Chivas — 09/11 · 03:10
+
+👀 candidata · 🇲🇽 Liga MX · **Gana Club Leon** @ **3.40** (Bet365) · prob 30% vs casas 30% · ventaja +2%
+
+- ❌ Valor: ventaja +2% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.26 - 1.30)  
+1 32% · X 28% · 2 39%  
+1X 61% · X2 68% · 12 72%  
++1.5 73% · +2.5 47% · +3.5 25% · Ambos marcan 53%  
+Marcadores: 1-1 13% · 0-1 9% · 1-0 9% · 0-0 8%  
+🔎 **Claves**  
+• Forma: Club Leon ➖❌✅➖❌ | Guadalajara Chivas ➖➖✅✅✅  
+• H2H: 30 desde 2012: 12V-5E-13D · 2.3 goles/partido · +2.5 en 43%  
+• Bajas: Club Leon: 0 fuera, 1 duda; Guadalajara Chivas: sin bajas  
+• Favorito de las casas: Guadalajara Chivas @ 2.05  
+
+## Sabadell vs Sociedad B — 09/11 · 20:30
+
+👀 candidata · 🇪🇸 LaLiga 2 · **Más de 2.5 goles** @ **2.05** (Bet365) · prob 47% vs casas 47% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ goles» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.65 - 1.04)  
+1 50% · X 28% · 2 22%  
+1X 78% · X2 50% · 12 72%  
++1.5 75% · +2.5 50% · +3.5 28% · Ambos marcan 53%  
+Marcadores: 1-1 12% · 1-0 11% · 2-1 10% · 2-0 9%  
+🔎 **Claves**  
+• Forma: Sabadell ➖✅❌➖❌ | Sociedad B ❌❌❌❌✅  
+• H2H: sin precedentes  
+• Bajas: Sabadell: sin bajas; Sociedad B: sin bajas  
+• Favorito de las casas: Sabadell @ 1.68  
+📐 **Estadísticas esperadas**  
+Córners 6.4 - 3.6: total +9.5 53% · Sabadell +5.5 56% · Sociedad B +4.5 30%  
+Tarjetas 2.5 - 3.1: total +5.5 49% · Sabadell +2.5 46% · Sociedad B +3.5 38%  
+Faltas 13.4 - 13.7: total +26.5 53% · Sabadell +13.5 47% · Sociedad B +13.5 50%  
+Tiros a puerta 6.0 - 3.4: total +9.5 46% · Sabadell +5.5 54% · Sociedad B +4.5 26%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Sociedad B + Menos de 4.5 córners de Sociedad B + Menos de 3.5 tarjetas de Sociedad B → prob. 33%, cuota justa 3.07 (solo vale si la casa paga más)  
 

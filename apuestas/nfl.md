@@ -1,50 +1,6 @@
 # 🏈 NFL·NCAA · apuestas de valor
 
-Actualizado 07/11/2026 00:49 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## SMU Mustangs vs Virginia Tech Hokies — 07/11 · 01:00
-
-👀 candidata · 🏈 NCAA Football · **Más de 56.5 puntos** @ **1.93** (DraftKings) · prob 50% vs casas 50% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 totales» sin pérdidas demostradas
-
-📊 **Escenarios**: total esperado **52.0** puntos · línea 56.5  
-Más 50% · Menos 50%  
-🔎 **Claves**  
-• Forma: SMU Mustangs ✅✅✅✅❌ | Virginia Tech Hokies ✅❌❌✅✅  
-• H2H: sin precedentes  
-• Bajas: SMU Mustangs: sin bajas; Virginia Tech Hokies: sin bajas  
-
-## SMU Mustangs vs Virginia Tech Hokies — 07/11 · 01:00
-
-👀 candidata · 🏈 NCAA Football · **SMU Mustangs -6** @ **1.91** (DraftKings) · prob 50% vs casas 50% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 hándicap» sin pérdidas demostradas
-
-📊 **Escenarios**: SMU Mustangs cubre -6 con prob. 50% (casas 50%)  
-🔎 **Claves**  
-• Forma: SMU Mustangs ✅✅✅✅❌ | Virginia Tech Hokies ✅❌❌✅✅  
-• H2H: sin precedentes  
-• Bajas: SMU Mustangs: sin bajas; Virginia Tech Hokies: sin bajas  
-
-## SMU Mustangs vs Virginia Tech Hokies — 07/11 · 01:00
-
-👀 candidata · 🏈 NCAA Football · **Gana SMU Mustangs** @ **1.44** (DraftKings) · prob 66% vs casas 66% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo con 9.455 partidos y bajas)  
-Gana SMU Mustangs 78% · Gana Virginia Tech Hokies 22%  
-Casas: SMU Mustangs 66% · Virginia Tech Hokies 34%  
-Hándicap SMU -6 · Total puntos 56.5  
-🔎 **Claves**  
-• Forma: SMU Mustangs ✅✅✅✅❌ | Virginia Tech Hokies ✅❌❌✅✅  
-• H2H: sin precedentes  
-• Bajas: SMU Mustangs: sin bajas; Virginia Tech Hokies: sin bajas  
-• Favorito de las casas: SMU Mustangs @ 1.44  
+Actualizado 07/11/2026 01:15 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## East Carolina Pirates vs South Florida Bulls — 07/11 · 01:30
 
@@ -3080,4 +3036,54 @@ Hándicap CHI -6 · Total puntos 47.5
 • Favorito de las casas: Chicago Bears @ 1.34  
 🧩 Combinada: Gana Tampa Bay Buccaneers + Menos de 47.5 puntos → prob. 16%, cuota justa 6.44  
 🎯 No simulada (NFL): cuota DraftKings aprox. 6.36 (producto de piernas) · prob. 16% · ventaja -1%  
+
+## Minnesota Vikings vs Buffalo Bills — 10/11 · 02:15
+
+👀 candidata · 🏈 NFL · **Más de 43.5 puntos** @ **1.85** (DraftKings) · prob 52% vs casas 52% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🏈 totales» sin pérdidas demostradas
+
+📊 **Escenarios**: total esperado **43.8** puntos · línea 43.5  
+Más 52% · Menos 48%  
+🔎 **Claves**  
+• Forma: Minnesota Vikings ✅✅✅✅❌ | Buffalo Bills ✅❌✅✅✅  
+• H2H: 4 desde 2017: 2-2  
+• Bajas: Minnesota Vikings: 0 fuera, 25 duda; Buffalo Bills: 1 fuera, 24 duda (Jordan Hancock)  
+🧩 Combinada: Gana Minnesota Vikings + Más de 43.5 puntos → prob. 22%, cuota justa 4.60  
+🎯 No simulada (NFL): cuota DraftKings aprox. 4.47 (producto de piernas) · prob. 22% · ventaja -3%  
+
+## Minnesota Vikings vs Buffalo Bills — 10/11 · 02:15
+
+👀 candidata · 🏈 NFL · **Minnesota Vikings +3** @ **1.95** (DraftKings) · prob 49% vs casas 49% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🏈 hándicap» sin pérdidas demostradas
+
+📊 **Escenarios**: Minnesota Vikings cubre +3 con prob. 49% (casas 49%)  
+🔎 **Claves**  
+• Forma: Minnesota Vikings ✅✅✅✅❌ | Buffalo Bills ✅❌✅✅✅  
+• H2H: 4 desde 2017: 2-2  
+• Bajas: Minnesota Vikings: 0 fuera, 25 duda; Buffalo Bills: 1 fuera, 24 duda (Jordan Hancock)  
+🧩 Combinada: Gana Minnesota Vikings + Más de 43.5 puntos → prob. 22%, cuota justa 4.60  
+🎯 No simulada (NFL): cuota DraftKings aprox. 4.47 (producto de piernas) · prob. 22% · ventaja -3%  
+
+## Minnesota Vikings vs Buffalo Bills — 10/11 · 02:15
+
+👀 candidata · 🏈 NFL · **Gana Minnesota Vikings** @ **2.42** (DraftKings) · prob 40% vs casas 40% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🏈 no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo con 3.260 partidos y bajas)  
+Gana Minnesota Vikings 44% · Gana Buffalo Bills 56%  
+Casas: Minnesota Vikings 40% · Buffalo Bills 60%  
+Hándicap BUF -3 · Total puntos 43.5  
+🔎 **Claves**  
+• Forma: Minnesota Vikings ✅✅✅✅❌ | Buffalo Bills ✅❌✅✅✅  
+• H2H: 4 desde 2017: 2-2  
+• Bajas: Minnesota Vikings: 0 fuera, 25 duda; Buffalo Bills: 1 fuera, 24 duda (Jordan Hancock)  
+• Favorito de las casas: Buffalo Bills @ 1.59  
+🧩 Combinada: Gana Minnesota Vikings + Más de 43.5 puntos → prob. 22%, cuota justa 4.60  
+🎯 No simulada (NFL): cuota DraftKings aprox. 4.47 (producto de piernas) · prob. 22% · ventaja -3%  
 
