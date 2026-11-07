@@ -1,42 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 07/11/2026 06:59 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Avispa Fukuoka vs V-Varen Nagasaki — 07/11 · 07:00
-
-👀 candidata · 🇯🇵 J1 League · **Gana Avispa Fukuoka** @ **2.10** (Bet365) · prob 44% vs casas 44% · ventaja -7%
-
-- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.35 - 0.86)  
-1 45% · X 28% · 2 26%  
-1X 74% · X2 55% · 12 72%  
-+1.5 65% · +2.5 38% · +3.5 18% · Ambos marcan 43%  
-Marcadores: 1-0 14% · 1-1 13% · 0-0 12% · 2-0 10%  
-🔎 **Claves**  
-• Forma: Avispa Fukuoka ✅❌❌❌❌ | V-Varen Nagasaki ➖❌✅❌❌  
-• H2H: sin precedentes  
-• Bajas: Avispa Fukuoka: sin bajas; V-Varen Nagasaki: sin bajas  
-• Favorito de las casas: Avispa Fukuoka @ 2.10  
-
-## FC Tokyo vs Kashima Antlers — 07/11 · 07:00
-
-👀 candidata · 🇯🇵 J1 League · **Gana Kashima Antlers** @ **3.60** (Bet365) · prob 28% vs casas 28% · ventaja -0%
-
-- ❌ Valor: ventaja -0% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.41 - 1.45)  
-1 39% · X 27% · 2 34%  
-1X 66% · X2 61% · 12 73%  
-+1.5 78% · +2.5 54% · +3.5 32% · Ambos marcan 58%  
-Marcadores: 1-1 12% · 1-2 8% · 2-1 8% · 0-1 8%  
-🔎 **Claves**  
-• Forma: FC Tokyo ✅✅➖✅✅ | Kashima Antlers ✅✅➖❌✅  
-• H2H: 28 desde 2012: 8V-5E-15D · 3.0 goles/partido · +2.5 en 64%  
-• Bajas: FC Tokyo: sin bajas; Kashima Antlers: sin bajas  
-• Favorito de las casas: FC Tokyo @ 1.96  
+Actualizado 07/11/2026 07:29 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Kashiwa Reysol vs Kawasaki Frontale — 07/11 · 08:00
 
