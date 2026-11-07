@@ -59273,16 +59273,16 @@ id,tournament_id,club1,club2,ht1,ht2
 2367560,261255,Gangwon FC,Al Ittihad,,
 2367561,261255,FC Seoul,Gangwon FC,,
 2367562,261255,Al Hilal,Al Ahli,,
-2367793,261238,Bayern Munchen,Real Madrid,2,1
-2367794,261238,Paris,Liverpool,3,3
-2367795,261238,Liverpool,Bayern Munchen,1,5
-2367796,261238,Real Madrid,Atleti,3,4
-2367797,261238,Atleti,Liverpool,3,2
-2367798,261238,Bayern Munchen,Paris,0,1
-2367799,261238,Paris,Atleti,4,3
-2367800,261238,Liverpool,Real Madrid,0,1
-2367801,261238,Real Madrid,Paris,0,2
-2367802,261238,Atleti,Bayern Munchen,4,2
+2367793,261238,Bayern Munchen,Real Madrid,2.0,1.0
+2367794,261238,Paris,Liverpool,3.0,3.0
+2367795,261238,Liverpool,Bayern Munchen,1.0,5.0
+2367796,261238,Real Madrid,Atleti,3.0,4.0
+2367797,261238,Atleti,Liverpool,3.0,2.0
+2367798,261238,Bayern Munchen,Paris,0.0,1.0
+2367799,261238,Paris,Atleti,4.0,3.0
+2367800,261238,Liverpool,Real Madrid,0.0,1.0
+2367801,261238,Real Madrid,Paris,0.0,2.0
+2367802,261238,Atleti,Bayern Munchen,4.0,2.0
 2367803,261238,Real Madrid,Bayern Munchen,,
 2367804,261238,Liverpool,Paris,,
 2367805,261238,Bayern Munchen,Liverpool,,
@@ -59293,21 +59293,21 @@ id,tournament_id,club1,club2,ht1,ht2
 2367810,261238,Real Madrid,Liverpool,,
 2367811,261238,Paris,Real Madrid,,
 2367812,261238,Bayern Munchen,Atleti,,
-2367090,261240,Czechia,Netherlands,2,0
-2367091,261240,Norway,Germany,1,4
-2367092,261240,Norway,Czechia,3,1
-2367093,261240,Germany,Netherlands,1,1
-2367094,261240,Netherlands,Norway,5,3
-2367095,261240,Germany,Czechia,3,0
-2367096,261240,Czechia,Netherlands,3,3
-2367097,261240,Norway,Germany,0,0
-2367098,261240,Norway,Czechia,3,3
-2367099,261240,Germany,Netherlands,2,1
-2367100,261240,Netherlands,Norway,2,3
-2367101,261240,Germany,Czechia,2,4
-2367102,261240,Czechia,Netherlands,3,0
-2367103,261240,Norway,Germany,1,0
-2367104,261240,Norway,Czechia,5,2
-2367105,261240,Germany,Netherlands,1,2
+2367090,261240,Czechia,Netherlands,2.0,0.0
+2367091,261240,Norway,Germany,1.0,4.0
+2367092,261240,Norway,Czechia,3.0,1.0
+2367093,261240,Germany,Netherlands,1.0,1.0
+2367094,261240,Netherlands,Norway,5.0,3.0
+2367095,261240,Germany,Czechia,3.0,0.0
+2367096,261240,Czechia,Netherlands,3.0,3.0
+2367097,261240,Norway,Germany,0.0,0.0
+2367098,261240,Norway,Czechia,3.0,3.0
+2367099,261240,Germany,Netherlands,2.0,1.0
+2367100,261240,Netherlands,Norway,2.0,3.0
+2367101,261240,Germany,Czechia,2.0,4.0
+2367102,261240,Czechia,Netherlands,3.0,0.0
+2367103,261240,Norway,Germany,1.0,0.0
+2367104,261240,Norway,Czechia,5.0,2.0
+2367105,261240,Germany,Netherlands,1.0,2.0
 2367106,261240,Netherlands,Norway,,
 2367107,261240,Germany,Czechia,,

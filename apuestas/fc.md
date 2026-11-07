@@ -1,63 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 07/11/2026 10:50 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Lumix vs Taz — 07/11 · 11:00
-
-👀 candidata · 🎮⚽ FC 27 · World Cup A · **Gana Taz** @ **2.55** (Unibet) · prob 43% vs casas 34% · ventaja +11%
-
-- ❌ Valor: ventaja +11% (mín. 11% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 59.253 partidos)  
-Goles esperados: Lumix 2.99 · Taz 3.19  
-Ganador: Lumix 36% · empate 20% · Taz 43%  
-Total: más de 6.5 goles 42% · menos 58%  
-Hándicap Taz: −1.5 29% · −2.5 17%  
-🔎 **Claves**  
-• Forma: Lumix ➖❌✅✅✅ | Taz ✅➖✅❌➖  
-• Partidos: Lumix 936 | Taz 939  
-• Liga: World Cup A  
-• Unibet: 1 1.97 · X 4.00 · 2 2.55 (sin margen 44%/22%/34%) · ventaja +11%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.55 (+11%) · Paf España 2.55 (+11%)  
-
-## Totti vs Maxa — 07/11 · 11:00
-
-👀 candidata · 🎮⚽ FC 27 · World Cup A · **Empate** @ **5.40** (Unibet) · prob 20% vs casas 16% · ventaja +9%
-
-- ❌ Valor: ventaja +9% (mín. 10% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 59.284 partidos)  
-Goles esperados: Totti 2.67 · Maxa 3.28  
-Ganador: Totti 29% · empate 20% · Maxa 51%  
-Total: más de 5.5 goles 55% · menos 45%  
-Hándicap Maxa: −1.5 35% · −2.5 21%  
-🔎 **Claves**  
-• Forma: Totti ❌✅❌✅❌ | Maxa ➖❌❌❌✅  
-• Partidos: Totti 930 | Maxa 908  
-• Liga: World Cup A  
-• Unibet: 1 3.30 · X 5.40 · 2 1.54 (sin margen 27%/16%/57%) · ventaja +9%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 5.40 (+9%) · Paf España 5.40 (+9%)  
-
-## Wboy vs Bomb1to — 07/11 · 11:15
-
-👀 candidata · 🎮⚽ FC 27 · World Cup B · **Gana Wboy** @ **3.60** (Unibet) · prob 34% vs casas 24% · ventaja +22%
-
-- ✅ Valor: ventaja +22% (mín. 14% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 59.284 partidos)  
-Goles esperados: Wboy 3.42 · Bomb1to 3.71  
-Ganador: Wboy 34% · empate 20% · Bomb1to 46%  
-Total: más de 7.5 goles 42% · menos 58%  
-Hándicap Bomb1to: −1.5 32% · −2.5 20%  
-🔎 **Claves**  
-• Forma: Wboy ➖❌➖✅❌ | Bomb1to ❌➖✅✅❌  
-• Partidos: Wboy 1042 | Bomb1to 1234  
-• Liga: World Cup B  
-• Unibet: 1 3.60 · X 4.20 · 2 1.61 (sin margen 24%/21%/55%) · ventaja +22%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 3.60 (+22%) · Paf España 3.60 (+22%)  
+Actualizado 07/11/2026 11:17 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Bomb1to vs mko1919 — 07/11 · 11:27
 
@@ -77,4 +20,61 @@ Hándicap Bomb1to: −1.5 43% · −2.5 28%
 • Liga: World Cup B  
 • Unibet: 1 1.81 · X 3.50 · 2 3.25 (sin margen 48%/25%/27%) · ventaja +8%. Sin stake hasta demostrar ROI con estas cuotas.  
 • En España: LeoVegas España 1.81 (+8%) · Paf España 1.81 (+8%)  
+
+## mko1919 vs Wboy — 07/11 · 11:39
+
+👀 candidata · 🎮⚽ FC 27 · World Cup B · **Gana mko1919** @ **4.50** (Unibet) · prob 26% vs casas 20% · ventaja +19%
+
+- ✅ Valor: ventaja +19% (mín. 13% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 59.299 partidos)  
+Goles esperados: mko1919 2.91 · Wboy 3.78  
+Ganador: mko1919 26% · empate 19% · Wboy 54%  
+Total: más de 6.5 goles 50% · menos 50%  
+Hándicap Wboy: −1.5 40% · −2.5 26%  
+🔎 **Claves**  
+• Forma: mko1919 ❌➖❌❌✅ | Wboy ❌➖✅❌❌  
+• Partidos: mko1919 1132 | Wboy 1043  
+• Liga: World Cup B  
+• Unibet: 1 4.50 · X 4.10 · 2 1.49 (sin margen 20%/21%/59%) · ventaja +19%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 4.50 (+19%) · Paf España 4.50 (+19%)  
+
+## ramzes vs mPm — 07/11 · 11:44
+
+👀 candidata · 🎮⚽ FC 27 · CSL · **Gana mPm** @ **1.65** (Unibet) · prob 68% vs casas 53% · ventaja +12%
+
+- ✅ Valor: ventaja +12% (mín. 11% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 59.299 partidos)  
+Goles esperados: ramzes 3.09 · mPm 4.31  
+Ganador: ramzes 20% · empate 12% · mPm 68%  
+Total: más de 7.5 goles 46% · menos 54%  
+Hándicap mPm: −1.5 45% · −2.5 31%  
+🔎 **Claves**  
+• Forma: ramzes ❌✅➖❌❌ | mPm ✅❌✅❌✅  
+• Partidos: ramzes 1044 | mPm 695  
+• Liga: CSL  
+• Unibet: 1 2.90 · X 5.30 · 2 1.65 (sin margen 30%/17%/53%) · ventaja +12%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 1.65 (+12%) · Paf España 1.65 (+12%)  
+
+## Bomb1to vs KraftVK — 07/11 · 11:51
+
+👀 candidata · 🎮⚽ FC 27 · World Cup B · **Gana KraftVK** @ **2.85** (Unibet) · prob 46% vs casas 31% · ventaja +32%
+
+- ❌ Valor: ventaja +32% (mín. 16% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 59.299 partidos)  
+Goles esperados: Bomb1to 3.14 · KraftVK 3.54  
+Ganador: Bomb1to 33% · empate 20% · KraftVK 46%  
+Total: más de 6.5 goles 50% · menos 50%  
+Hándicap KraftVK: −1.5 33% · −2.5 20%  
+🔎 **Claves**  
+• Forma: Bomb1to ❌➖✅✅❌ | KraftVK ✅➖➖✅✅  
+• Partidos: Bomb1to 1234 | KraftVK 956  
+• Liga: World Cup B  
+• Unibet: 1 1.93 · X 3.60 · 2 2.85 (sin margen 45%/24%/31%) · ventaja +32%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.85 (+32%) · Paf España 2.85 (+32%)  
 
