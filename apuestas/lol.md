@@ -1,6 +1,6 @@
 # 🧙 LoL · apuestas de valor
 
-Actualizado 07/11/2026 20:34 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 07/11/2026 21:04 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Gen.G Esports vs Invictus Gaming — 07/11 · 23:00
 

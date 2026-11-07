@@ -1,1091 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 07/11/2026 20:34 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Antwerp vs Lommel SK — 07/11 · 20:45
-
-👀 candidata · 🇧🇪 Pro League · **Lommel SK +0.5 (hándicap asiático)** @ **1.95** (mejor del mercado) · prob 50% vs casas 49% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ hándicap» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.76 - 1.43)  
-1 41% · X 28% · 2 31%  
-1X 69% · X2 59% · 12 72%  
-+1.5 83% · +2.5 62% · +3.5 39% · Ambos marcan 63%  
-Marcadores: 1-1 11% · 2-1 9% · 1-2 7% · 1-0 7%  
-🔎 **Claves**  
-• Forma: Antwerp ❌❌❌✅❌ | Lommel SK ❌➖✅➖✅  
-• H2H: sin precedentes  
-• Bajas: Antwerp: sin bajas; Lommel SK: sin bajas  
-• Favorito de las casas: Antwerp @ 1.88  
-📐 **Estadísticas esperadas**  
-Córners 6.2 - 4.0: total +10.5 44% · Antwerp +5.5 54% · Lommel SK +4.5 37%  
-Tarjetas 1.9 - 2.2: total +3.5 56% · Antwerp +1.5 56% · Lommel SK +2.5 37%  
-Faltas 12.8 - 9.3: total +22.5 45% · Antwerp +10.5 71% · Lommel SK +11.5 23%  
-Tiros a puerta 5.6 - 4.4: total +9.5 54% · Antwerp +5.5 48% · Lommel SK +4.5 45%  
-🧩 Crear apuesta: Menos de 11.5 faltas de Lommel SK + Menos de 2.5 tarjetas de Lommel SK + Menos de 4.5 córners de Lommel SK → prob. 32%, cuota justa 3.13 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 11.5 faltas de Lommel SK + Menos de 2.5 tarjetas de Lommel SK + Menos de 4.5 córners de Lommel SK + Más de 2.5 goles → prob. 20%, cuota justa 4.93  
-🎯 No simulada (con cuota: Menos de 4.5 córners de Lommel SK + Más de 2.5 goles): cuota Unibet aprox. 2.25 (producto de piernas) · prob. 39% · ventaja -12%  
-
-## RAAL La Louviere vs Cercle Brugge — 07/11 · 20:45
-
-👀 candidata · 🇧🇪 Pro League · **Menos de 2.5 goles** @ **1.95** (Bet365) · prob 49% vs casas 49% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ goles» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.37 - 1.30)  
-1 38% · X 29% · 2 33%  
-1X 67% · X2 62% · 12 71%  
-+1.5 75% · +2.5 50% · +3.5 28% · Ambos marcan 55%  
-Marcadores: 1-1 13% · 1-0 9% · 2-1 8% · 0-1 8%  
-🔎 **Claves**  
-• Forma: RAAL La Louviere ✅❌❌✅❌ | Cercle Brugge ➖❌❌❌✅  
-• H2H: 4 desde 2025: 3V-0E-1D · 3.8 goles/partido · +2.5 en 100%  
-• Bajas: RAAL La Louviere: sin bajas; Cercle Brugge: sin bajas  
-• Favorito de las casas: Cercle Brugge @ 2.50  
-📐 **Estadísticas esperadas**  
-Córners 5.3 - 4.7: total +10.5 41% · RAAL La Louviere +5.5 43% · Cercle Brugge +4.5 48%  
-Tarjetas 1.8 - 2.0: total +3.5 54% · RAAL La Louviere +1.5 55% · Cercle Brugge +2.5 34%  
-Faltas 11.7 - 12.1: total +22.5 58% · RAAL La Louviere +10.5 61% · Cercle Brugge +11.5 54%  
-Tiros a puerta 5.0 - 4.3: total +9.5 44% · RAAL La Louviere +5.5 38% · Cercle Brugge +4.5 42%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Cercle Brugge + Menos de 5.5 tiros a puerta de RAAL La Louviere + Más de 10.5 faltas de RAAL La Louviere → prob. 26%, cuota justa 3.91 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Cercle Brugge + Menos de 5.5 tiros a puerta de RAAL La Louviere + Más de 10.5 faltas de RAAL La Louviere + Menos de 10.5 córners → prob. 16%, cuota justa 6.11  
-🎯 No simulada (con cuota: Menos de 5.5 tiros a puerta de RAAL La Louviere + Menos de 10.5 córners): cuota Unibet aprox. 2.10 (producto de piernas) · prob. 38% · ventaja -20%  
-
-## Roma vs Sassuolo — 07/11 · 20:45
-
-👀 candidata · 🇮🇹 Serie A · **Gana Roma** @ **1.32** (Bwin) · prob 75% vs casas 75% · ventaja -1%
-
-- ❌ Valor: ventaja -1% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 2.23 - 0.81)  
-1 76% · X 17% · 2 8%  
-1X 92% · X2 24% · 12 83%  
-+1.5 81% · +2.5 59% · +3.5 36% · Ambos marcan 50%  
-Marcadores: 2-0 12% · 1-0 10% · 2-1 10% · 1-1 9%  
-🔎 **Claves**  
-• Forma: Roma ➖✅➖✅✅ | Sassuolo ➖❌❌❌❌  
-• H2H: 24 desde 2013: 13V-9E-2D · 3.0 goles/partido · +2.5 en 54%  
-• Bajas: Roma: 4 fuera, 3 duda (Wesley, Mile Svilar, Lorenzo Pellegrini); Sassuolo: 4 fuera, 2 duda (Kristian Thorstvedt, Jay Idzes, Yeferson Paz)  
-• Favorito de las casas: Roma @ 1.32  
-📐 **Estadísticas esperadas**  
-Córners 6.9 - 3.1: total +9.5 54% · Roma +5.5 63% · Sassuolo +4.5 23%  
-Tarjetas 1.7 - 2.4: total +3.5 58% · Roma +1.5 50% · Sassuolo +2.5 43%  
-Faltas 11.2 - 10.5: total +22.5 42% · Roma +11.5 44% · Sassuolo +11.5 36%  
-Tiros a puerta 7.2 - 3.3: total +9.5 60% · Roma +4.5 81% · Sassuolo +4.5 25%  
-🧩 Crear apuesta: Más de 4.5 tiros a puerta de Roma + Menos de 4.5 córners de Sassuolo + Menos de 11.5 faltas de Sassuolo → prob. 41%, cuota justa 2.44 (solo vale si la casa paga más)  
-🚀 Combinada larga: Más de 4.5 tiros a puerta de Roma + Menos de 4.5 córners de Sassuolo + Menos de 11.5 faltas de Sassuolo + Más de 2.5 goles + Más de 3.5 tarjetas → prob. 14%, cuota justa 7.22  
-🎯 Simulada (con cuota: Menos de 4.5 córners de Sassuolo + Más de 3.5 tarjetas): cuota Unibet aprox. 2.54 (producto de piernas) · prob. 45% · ventaja +14% → 1 u en la banca de simulación  
-
-## Antwerp vs Lommel SK — 07/11 · 20:45
-
-👀 candidata · 🇧🇪 Pro League · **Más de 4.5 córners de Antwerp** @ **1.36** (Unibet) · prob 67% vs casas 67% · ventaja -9%
-
-- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.76 - 1.43)  
-1 41% · X 28% · 2 31%  
-1X 69% · X2 59% · 12 72%  
-+1.5 83% · +2.5 62% · +3.5 39% · Ambos marcan 63%  
-Marcadores: 1-1 11% · 2-1 9% · 1-2 7% · 1-0 7%  
-🔎 **Claves**  
-• Forma: Antwerp ❌❌❌✅❌ | Lommel SK ❌➖✅➖✅  
-• H2H: sin precedentes  
-• Bajas: Antwerp: sin bajas; Lommel SK: sin bajas  
-• Favorito de las casas: Antwerp @ 1.88  
-📐 **Estadísticas esperadas**  
-Córners 6.2 - 4.0: total +10.5 44% · Antwerp +5.5 54% · Lommel SK +4.5 37%  
-Tarjetas 1.9 - 2.2: total +3.5 56% · Antwerp +1.5 56% · Lommel SK +2.5 37%  
-Faltas 12.8 - 9.3: total +22.5 45% · Antwerp +10.5 71% · Lommel SK +11.5 23%  
-Tiros a puerta 5.6 - 4.4: total +9.5 54% · Antwerp +5.5 48% · Lommel SK +4.5 45%  
-🧩 Crear apuesta: Menos de 11.5 faltas de Lommel SK + Menos de 2.5 tarjetas de Lommel SK + Menos de 4.5 córners de Lommel SK → prob. 32%, cuota justa 3.13 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 11.5 faltas de Lommel SK + Menos de 2.5 tarjetas de Lommel SK + Menos de 4.5 córners de Lommel SK + Más de 2.5 goles → prob. 20%, cuota justa 4.93  
-🎯 No simulada (con cuota: Menos de 4.5 córners de Lommel SK + Más de 2.5 goles): cuota Unibet aprox. 2.25 (producto de piernas) · prob. 39% · ventaja -12%  
-
-## Antwerp vs Lommel SK — 07/11 · 20:45
-
-👀 candidata · 🇧🇪 Pro League · **Menos de 6.5 córners de Antwerp** @ **1.64** (Unibet) · prob 57% vs casas 56% · ventaja -6%
-
-- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.76 - 1.43)  
-1 41% · X 28% · 2 31%  
-1X 69% · X2 59% · 12 72%  
-+1.5 83% · +2.5 62% · +3.5 39% · Ambos marcan 63%  
-Marcadores: 1-1 11% · 2-1 9% · 1-2 7% · 1-0 7%  
-🔎 **Claves**  
-• Forma: Antwerp ❌❌❌✅❌ | Lommel SK ❌➖✅➖✅  
-• H2H: sin precedentes  
-• Bajas: Antwerp: sin bajas; Lommel SK: sin bajas  
-• Favorito de las casas: Antwerp @ 1.88  
-📐 **Estadísticas esperadas**  
-Córners 6.2 - 4.0: total +10.5 44% · Antwerp +5.5 54% · Lommel SK +4.5 37%  
-Tarjetas 1.9 - 2.2: total +3.5 56% · Antwerp +1.5 56% · Lommel SK +2.5 37%  
-Faltas 12.8 - 9.3: total +22.5 45% · Antwerp +10.5 71% · Lommel SK +11.5 23%  
-Tiros a puerta 5.6 - 4.4: total +9.5 54% · Antwerp +5.5 48% · Lommel SK +4.5 45%  
-🧩 Crear apuesta: Menos de 11.5 faltas de Lommel SK + Menos de 2.5 tarjetas de Lommel SK + Menos de 4.5 córners de Lommel SK → prob. 32%, cuota justa 3.13 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 11.5 faltas de Lommel SK + Menos de 2.5 tarjetas de Lommel SK + Menos de 4.5 córners de Lommel SK + Más de 2.5 goles → prob. 20%, cuota justa 4.93  
-🎯 No simulada (con cuota: Menos de 4.5 córners de Lommel SK + Más de 2.5 goles): cuota Unibet aprox. 2.25 (producto de piernas) · prob. 39% · ventaja -12%  
-
-## Antwerp vs Lommel SK — 07/11 · 20:45
-
-👀 candidata · 🇧🇪 Pro League · **Más de 8.5 córners** @ **1.38** (Unibet) · prob 67% vs casas 66% · ventaja -8%
-
-- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.76 - 1.43)  
-1 41% · X 28% · 2 31%  
-1X 69% · X2 59% · 12 72%  
-+1.5 83% · +2.5 62% · +3.5 39% · Ambos marcan 63%  
-Marcadores: 1-1 11% · 2-1 9% · 1-2 7% · 1-0 7%  
-🔎 **Claves**  
-• Forma: Antwerp ❌❌❌✅❌ | Lommel SK ❌➖✅➖✅  
-• H2H: sin precedentes  
-• Bajas: Antwerp: sin bajas; Lommel SK: sin bajas  
-• Favorito de las casas: Antwerp @ 1.88  
-📐 **Estadísticas esperadas**  
-Córners 6.2 - 4.0: total +10.5 44% · Antwerp +5.5 54% · Lommel SK +4.5 37%  
-Tarjetas 1.9 - 2.2: total +3.5 56% · Antwerp +1.5 56% · Lommel SK +2.5 37%  
-Faltas 12.8 - 9.3: total +22.5 45% · Antwerp +10.5 71% · Lommel SK +11.5 23%  
-Tiros a puerta 5.6 - 4.4: total +9.5 54% · Antwerp +5.5 48% · Lommel SK +4.5 45%  
-🧩 Crear apuesta: Menos de 11.5 faltas de Lommel SK + Menos de 2.5 tarjetas de Lommel SK + Menos de 4.5 córners de Lommel SK → prob. 32%, cuota justa 3.13 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 11.5 faltas de Lommel SK + Menos de 2.5 tarjetas de Lommel SK + Menos de 4.5 córners de Lommel SK + Más de 2.5 goles → prob. 20%, cuota justa 4.93  
-🎯 No simulada (con cuota: Menos de 4.5 córners de Lommel SK + Más de 2.5 goles): cuota Unibet aprox. 2.25 (producto de piernas) · prob. 39% · ventaja -12%  
-
-## Antwerp vs Lommel SK — 07/11 · 20:45
-
-👀 candidata · 🇧🇪 Pro League · **Menos de 12.5 córners** @ **1.28** (Unibet) · prob 74% vs casas 72% · ventaja -5%
-
-- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.76 - 1.43)  
-1 41% · X 28% · 2 31%  
-1X 69% · X2 59% · 12 72%  
-+1.5 83% · +2.5 62% · +3.5 39% · Ambos marcan 63%  
-Marcadores: 1-1 11% · 2-1 9% · 1-2 7% · 1-0 7%  
-🔎 **Claves**  
-• Forma: Antwerp ❌❌❌✅❌ | Lommel SK ❌➖✅➖✅  
-• H2H: sin precedentes  
-• Bajas: Antwerp: sin bajas; Lommel SK: sin bajas  
-• Favorito de las casas: Antwerp @ 1.88  
-📐 **Estadísticas esperadas**  
-Córners 6.2 - 4.0: total +10.5 44% · Antwerp +5.5 54% · Lommel SK +4.5 37%  
-Tarjetas 1.9 - 2.2: total +3.5 56% · Antwerp +1.5 56% · Lommel SK +2.5 37%  
-Faltas 12.8 - 9.3: total +22.5 45% · Antwerp +10.5 71% · Lommel SK +11.5 23%  
-Tiros a puerta 5.6 - 4.4: total +9.5 54% · Antwerp +5.5 48% · Lommel SK +4.5 45%  
-🧩 Crear apuesta: Menos de 11.5 faltas de Lommel SK + Menos de 2.5 tarjetas de Lommel SK + Menos de 4.5 córners de Lommel SK → prob. 32%, cuota justa 3.13 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 11.5 faltas de Lommel SK + Menos de 2.5 tarjetas de Lommel SK + Menos de 4.5 córners de Lommel SK + Más de 2.5 goles → prob. 20%, cuota justa 4.93  
-🎯 No simulada (con cuota: Menos de 4.5 córners de Lommel SK + Más de 2.5 goles): cuota Unibet aprox. 2.25 (producto de piernas) · prob. 39% · ventaja -12%  
-
-## Antwerp vs Lommel SK — 07/11 · 20:45
-
-👀 candidata · 🇧🇪 Pro League · **Más de 2.5 córners de Lommel SK** @ **1.33** (Unibet) · prob 70% vs casas 69% · ventaja -7%
-
-- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.76 - 1.43)  
-1 41% · X 28% · 2 31%  
-1X 69% · X2 59% · 12 72%  
-+1.5 83% · +2.5 62% · +3.5 39% · Ambos marcan 63%  
-Marcadores: 1-1 11% · 2-1 9% · 1-2 7% · 1-0 7%  
-🔎 **Claves**  
-• Forma: Antwerp ❌❌❌✅❌ | Lommel SK ❌➖✅➖✅  
-• H2H: sin precedentes  
-• Bajas: Antwerp: sin bajas; Lommel SK: sin bajas  
-• Favorito de las casas: Antwerp @ 1.88  
-📐 **Estadísticas esperadas**  
-Córners 6.2 - 4.0: total +10.5 44% · Antwerp +5.5 54% · Lommel SK +4.5 37%  
-Tarjetas 1.9 - 2.2: total +3.5 56% · Antwerp +1.5 56% · Lommel SK +2.5 37%  
-Faltas 12.8 - 9.3: total +22.5 45% · Antwerp +10.5 71% · Lommel SK +11.5 23%  
-Tiros a puerta 5.6 - 4.4: total +9.5 54% · Antwerp +5.5 48% · Lommel SK +4.5 45%  
-🧩 Crear apuesta: Menos de 11.5 faltas de Lommel SK + Menos de 2.5 tarjetas de Lommel SK + Menos de 4.5 córners de Lommel SK → prob. 32%, cuota justa 3.13 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 11.5 faltas de Lommel SK + Menos de 2.5 tarjetas de Lommel SK + Menos de 4.5 córners de Lommel SK + Más de 2.5 goles → prob. 20%, cuota justa 4.93  
-🎯 No simulada (con cuota: Menos de 4.5 córners de Lommel SK + Más de 2.5 goles): cuota Unibet aprox. 2.25 (producto de piernas) · prob. 39% · ventaja -12%  
-
-## Antwerp vs Lommel SK — 07/11 · 20:45
-
-👀 candidata · 🇧🇪 Pro League · **Menos de 5.5 córners de Lommel SK** @ **1.25** (Unibet) · prob 75% vs casas 73% · ventaja -7%
-
-- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.76 - 1.43)  
-1 41% · X 28% · 2 31%  
-1X 69% · X2 59% · 12 72%  
-+1.5 83% · +2.5 62% · +3.5 39% · Ambos marcan 63%  
-Marcadores: 1-1 11% · 2-1 9% · 1-2 7% · 1-0 7%  
-🔎 **Claves**  
-• Forma: Antwerp ❌❌❌✅❌ | Lommel SK ❌➖✅➖✅  
-• H2H: sin precedentes  
-• Bajas: Antwerp: sin bajas; Lommel SK: sin bajas  
-• Favorito de las casas: Antwerp @ 1.88  
-📐 **Estadísticas esperadas**  
-Córners 6.2 - 4.0: total +10.5 44% · Antwerp +5.5 54% · Lommel SK +4.5 37%  
-Tarjetas 1.9 - 2.2: total +3.5 56% · Antwerp +1.5 56% · Lommel SK +2.5 37%  
-Faltas 12.8 - 9.3: total +22.5 45% · Antwerp +10.5 71% · Lommel SK +11.5 23%  
-Tiros a puerta 5.6 - 4.4: total +9.5 54% · Antwerp +5.5 48% · Lommel SK +4.5 45%  
-🧩 Crear apuesta: Menos de 11.5 faltas de Lommel SK + Menos de 2.5 tarjetas de Lommel SK + Menos de 4.5 córners de Lommel SK → prob. 32%, cuota justa 3.13 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 11.5 faltas de Lommel SK + Menos de 2.5 tarjetas de Lommel SK + Menos de 4.5 córners de Lommel SK + Más de 2.5 goles → prob. 20%, cuota justa 4.93  
-🎯 No simulada (con cuota: Menos de 4.5 córners de Lommel SK + Más de 2.5 goles): cuota Unibet aprox. 2.25 (producto de piernas) · prob. 39% · ventaja -12%  
-
-## RAAL La Louviere vs Cercle Brugge — 07/11 · 20:45
-
-👀 candidata · 🇧🇪 Pro League · **Más de 3.5 córners de Cercle Brugge** @ **1.55** (Unibet) · prob 61% vs casas 59% · ventaja -5%
-
-- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.37 - 1.30)  
-1 38% · X 29% · 2 33%  
-1X 67% · X2 62% · 12 71%  
-+1.5 75% · +2.5 50% · +3.5 28% · Ambos marcan 55%  
-Marcadores: 1-1 13% · 1-0 9% · 2-1 8% · 0-1 8%  
-🔎 **Claves**  
-• Forma: RAAL La Louviere ✅❌❌✅❌ | Cercle Brugge ➖❌❌❌✅  
-• H2H: 4 desde 2025: 3V-0E-1D · 3.8 goles/partido · +2.5 en 100%  
-• Bajas: RAAL La Louviere: sin bajas; Cercle Brugge: sin bajas  
-• Favorito de las casas: Cercle Brugge @ 2.50  
-📐 **Estadísticas esperadas**  
-Córners 5.3 - 4.7: total +10.5 41% · RAAL La Louviere +5.5 43% · Cercle Brugge +4.5 48%  
-Tarjetas 1.8 - 2.0: total +3.5 54% · RAAL La Louviere +1.5 55% · Cercle Brugge +2.5 34%  
-Faltas 11.7 - 12.1: total +22.5 58% · RAAL La Louviere +10.5 61% · Cercle Brugge +11.5 54%  
-Tiros a puerta 5.0 - 4.3: total +9.5 44% · RAAL La Louviere +5.5 38% · Cercle Brugge +4.5 42%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Cercle Brugge + Menos de 5.5 tiros a puerta de RAAL La Louviere + Más de 10.5 faltas de RAAL La Louviere → prob. 26%, cuota justa 3.91 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Cercle Brugge + Menos de 5.5 tiros a puerta de RAAL La Louviere + Más de 10.5 faltas de RAAL La Louviere + Menos de 10.5 córners → prob. 16%, cuota justa 6.11  
-🎯 No simulada (con cuota: Menos de 5.5 tiros a puerta de RAAL La Louviere + Menos de 10.5 córners): cuota Unibet aprox. 2.10 (producto de piernas) · prob. 38% · ventaja -20%  
-
-## RAAL La Louviere vs Cercle Brugge — 07/11 · 20:45
-
-👀 candidata · 🇧🇪 Pro League · **Menos de 5.5 córners de Cercle Brugge** @ **1.36** (Unibet) · prob 67% vs casas 67% · ventaja -9%
-
-- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.37 - 1.30)  
-1 38% · X 29% · 2 33%  
-1X 67% · X2 62% · 12 71%  
-+1.5 75% · +2.5 50% · +3.5 28% · Ambos marcan 55%  
-Marcadores: 1-1 13% · 1-0 9% · 2-1 8% · 0-1 8%  
-🔎 **Claves**  
-• Forma: RAAL La Louviere ✅❌❌✅❌ | Cercle Brugge ➖❌❌❌✅  
-• H2H: 4 desde 2025: 3V-0E-1D · 3.8 goles/partido · +2.5 en 100%  
-• Bajas: RAAL La Louviere: sin bajas; Cercle Brugge: sin bajas  
-• Favorito de las casas: Cercle Brugge @ 2.50  
-📐 **Estadísticas esperadas**  
-Córners 5.3 - 4.7: total +10.5 41% · RAAL La Louviere +5.5 43% · Cercle Brugge +4.5 48%  
-Tarjetas 1.8 - 2.0: total +3.5 54% · RAAL La Louviere +1.5 55% · Cercle Brugge +2.5 34%  
-Faltas 11.7 - 12.1: total +22.5 58% · RAAL La Louviere +10.5 61% · Cercle Brugge +11.5 54%  
-Tiros a puerta 5.0 - 4.3: total +9.5 44% · RAAL La Louviere +5.5 38% · Cercle Brugge +4.5 42%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Cercle Brugge + Menos de 5.5 tiros a puerta de RAAL La Louviere + Más de 10.5 faltas de RAAL La Louviere → prob. 26%, cuota justa 3.91 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Cercle Brugge + Menos de 5.5 tiros a puerta de RAAL La Louviere + Más de 10.5 faltas de RAAL La Louviere + Menos de 10.5 córners → prob. 16%, cuota justa 6.11  
-🎯 No simulada (con cuota: Menos de 5.5 tiros a puerta de RAAL La Louviere + Menos de 10.5 córners): cuota Unibet aprox. 2.10 (producto de piernas) · prob. 38% · ventaja -20%  
-
-## RAAL La Louviere vs Cercle Brugge — 07/11 · 20:45
-
-👀 candidata · 🇧🇪 Pro League · **Más de 3.5 córners de RAAL La Louviere** @ **1.34** (Unibet) · prob 70% vs casas 68% · ventaja -6%
-
-- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.37 - 1.30)  
-1 38% · X 29% · 2 33%  
-1X 67% · X2 62% · 12 71%  
-+1.5 75% · +2.5 50% · +3.5 28% · Ambos marcan 55%  
-Marcadores: 1-1 13% · 1-0 9% · 2-1 8% · 0-1 8%  
-🔎 **Claves**  
-• Forma: RAAL La Louviere ✅❌❌✅❌ | Cercle Brugge ➖❌❌❌✅  
-• H2H: 4 desde 2025: 3V-0E-1D · 3.8 goles/partido · +2.5 en 100%  
-• Bajas: RAAL La Louviere: sin bajas; Cercle Brugge: sin bajas  
-• Favorito de las casas: Cercle Brugge @ 2.50  
-📐 **Estadísticas esperadas**  
-Córners 5.3 - 4.7: total +10.5 41% · RAAL La Louviere +5.5 43% · Cercle Brugge +4.5 48%  
-Tarjetas 1.8 - 2.0: total +3.5 54% · RAAL La Louviere +1.5 55% · Cercle Brugge +2.5 34%  
-Faltas 11.7 - 12.1: total +22.5 58% · RAAL La Louviere +10.5 61% · Cercle Brugge +11.5 54%  
-Tiros a puerta 5.0 - 4.3: total +9.5 44% · RAAL La Louviere +5.5 38% · Cercle Brugge +4.5 42%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Cercle Brugge + Menos de 5.5 tiros a puerta de RAAL La Louviere + Más de 10.5 faltas de RAAL La Louviere → prob. 26%, cuota justa 3.91 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Cercle Brugge + Menos de 5.5 tiros a puerta de RAAL La Louviere + Más de 10.5 faltas de RAAL La Louviere + Menos de 10.5 córners → prob. 16%, cuota justa 6.11  
-🎯 No simulada (con cuota: Menos de 5.5 tiros a puerta de RAAL La Louviere + Menos de 10.5 córners): cuota Unibet aprox. 2.10 (producto de piernas) · prob. 38% · ventaja -20%  
-
-## RAAL La Louviere vs Cercle Brugge — 07/11 · 20:45
-
-👀 candidata · 🇧🇪 Pro League · **Menos de 6.5 córners de RAAL La Louviere** @ **1.33** (Unibet) · prob 69% vs casas 69% · ventaja -8%
-
-- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.37 - 1.30)  
-1 38% · X 29% · 2 33%  
-1X 67% · X2 62% · 12 71%  
-+1.5 75% · +2.5 50% · +3.5 28% · Ambos marcan 55%  
-Marcadores: 1-1 13% · 1-0 9% · 2-1 8% · 0-1 8%  
-🔎 **Claves**  
-• Forma: RAAL La Louviere ✅❌❌✅❌ | Cercle Brugge ➖❌❌❌✅  
-• H2H: 4 desde 2025: 3V-0E-1D · 3.8 goles/partido · +2.5 en 100%  
-• Bajas: RAAL La Louviere: sin bajas; Cercle Brugge: sin bajas  
-• Favorito de las casas: Cercle Brugge @ 2.50  
-📐 **Estadísticas esperadas**  
-Córners 5.3 - 4.7: total +10.5 41% · RAAL La Louviere +5.5 43% · Cercle Brugge +4.5 48%  
-Tarjetas 1.8 - 2.0: total +3.5 54% · RAAL La Louviere +1.5 55% · Cercle Brugge +2.5 34%  
-Faltas 11.7 - 12.1: total +22.5 58% · RAAL La Louviere +10.5 61% · Cercle Brugge +11.5 54%  
-Tiros a puerta 5.0 - 4.3: total +9.5 44% · RAAL La Louviere +5.5 38% · Cercle Brugge +4.5 42%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Cercle Brugge + Menos de 5.5 tiros a puerta de RAAL La Louviere + Más de 10.5 faltas de RAAL La Louviere → prob. 26%, cuota justa 3.91 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Cercle Brugge + Menos de 5.5 tiros a puerta de RAAL La Louviere + Más de 10.5 faltas de RAAL La Louviere + Menos de 10.5 córners → prob. 16%, cuota justa 6.11  
-🎯 No simulada (con cuota: Menos de 5.5 tiros a puerta de RAAL La Louviere + Menos de 10.5 córners): cuota Unibet aprox. 2.10 (producto de piernas) · prob. 38% · ventaja -20%  
-
-## RAAL La Louviere vs Cercle Brugge — 07/11 · 20:45
-
-👀 candidata · 🇧🇪 Pro League · **Más de 8.5 córners** @ **1.53** (Unibet) · prob 63% vs casas 60% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.37 - 1.30)  
-1 38% · X 29% · 2 33%  
-1X 67% · X2 62% · 12 71%  
-+1.5 75% · +2.5 50% · +3.5 28% · Ambos marcan 55%  
-Marcadores: 1-1 13% · 1-0 9% · 2-1 8% · 0-1 8%  
-🔎 **Claves**  
-• Forma: RAAL La Louviere ✅❌❌✅❌ | Cercle Brugge ➖❌❌❌✅  
-• H2H: 4 desde 2025: 3V-0E-1D · 3.8 goles/partido · +2.5 en 100%  
-• Bajas: RAAL La Louviere: sin bajas; Cercle Brugge: sin bajas  
-• Favorito de las casas: Cercle Brugge @ 2.50  
-📐 **Estadísticas esperadas**  
-Córners 5.3 - 4.7: total +10.5 41% · RAAL La Louviere +5.5 43% · Cercle Brugge +4.5 48%  
-Tarjetas 1.8 - 2.0: total +3.5 54% · RAAL La Louviere +1.5 55% · Cercle Brugge +2.5 34%  
-Faltas 11.7 - 12.1: total +22.5 58% · RAAL La Louviere +10.5 61% · Cercle Brugge +11.5 54%  
-Tiros a puerta 5.0 - 4.3: total +9.5 44% · RAAL La Louviere +5.5 38% · Cercle Brugge +4.5 42%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Cercle Brugge + Menos de 5.5 tiros a puerta de RAAL La Louviere + Más de 10.5 faltas de RAAL La Louviere → prob. 26%, cuota justa 3.91 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Cercle Brugge + Menos de 5.5 tiros a puerta de RAAL La Louviere + Más de 10.5 faltas de RAAL La Louviere + Menos de 10.5 córners → prob. 16%, cuota justa 6.11  
-🎯 No simulada (con cuota: Menos de 5.5 tiros a puerta de RAAL La Louviere + Menos de 10.5 córners): cuota Unibet aprox. 2.10 (producto de piernas) · prob. 38% · ventaja -20%  
-
-## RAAL La Louviere vs Cercle Brugge — 07/11 · 20:45
-
-👀 candidata · 🇧🇪 Pro League · **Menos de 11.5 córners** @ **1.32** (Unibet) · prob 69% vs casas 69% · ventaja -8%
-
-- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.37 - 1.30)  
-1 38% · X 29% · 2 33%  
-1X 67% · X2 62% · 12 71%  
-+1.5 75% · +2.5 50% · +3.5 28% · Ambos marcan 55%  
-Marcadores: 1-1 13% · 1-0 9% · 2-1 8% · 0-1 8%  
-🔎 **Claves**  
-• Forma: RAAL La Louviere ✅❌❌✅❌ | Cercle Brugge ➖❌❌❌✅  
-• H2H: 4 desde 2025: 3V-0E-1D · 3.8 goles/partido · +2.5 en 100%  
-• Bajas: RAAL La Louviere: sin bajas; Cercle Brugge: sin bajas  
-• Favorito de las casas: Cercle Brugge @ 2.50  
-📐 **Estadísticas esperadas**  
-Córners 5.3 - 4.7: total +10.5 41% · RAAL La Louviere +5.5 43% · Cercle Brugge +4.5 48%  
-Tarjetas 1.8 - 2.0: total +3.5 54% · RAAL La Louviere +1.5 55% · Cercle Brugge +2.5 34%  
-Faltas 11.7 - 12.1: total +22.5 58% · RAAL La Louviere +10.5 61% · Cercle Brugge +11.5 54%  
-Tiros a puerta 5.0 - 4.3: total +9.5 44% · RAAL La Louviere +5.5 38% · Cercle Brugge +4.5 42%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Cercle Brugge + Menos de 5.5 tiros a puerta de RAAL La Louviere + Más de 10.5 faltas de RAAL La Louviere → prob. 26%, cuota justa 3.91 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Cercle Brugge + Menos de 5.5 tiros a puerta de RAAL La Louviere + Más de 10.5 faltas de RAAL La Louviere + Menos de 10.5 córners → prob. 16%, cuota justa 6.11  
-🎯 No simulada (con cuota: Menos de 5.5 tiros a puerta de RAAL La Louviere + Menos de 10.5 córners): cuota Unibet aprox. 2.10 (producto de piernas) · prob. 38% · ventaja -20%  
-
-## Roma vs Sassuolo — 07/11 · 20:45
-
-👀 candidata · 🇮🇹 Serie A · **Más de 8.5 córners** @ **1.47** (Unibet) · prob 64% vs casas 63% · ventaja -5%
-
-- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 2.23 - 0.81)  
-1 76% · X 17% · 2 8%  
-1X 92% · X2 24% · 12 83%  
-+1.5 81% · +2.5 59% · +3.5 36% · Ambos marcan 50%  
-Marcadores: 2-0 12% · 1-0 10% · 2-1 10% · 1-1 9%  
-🔎 **Claves**  
-• Forma: Roma ➖✅➖✅✅ | Sassuolo ➖❌❌❌❌  
-• H2H: 24 desde 2013: 13V-9E-2D · 3.0 goles/partido · +2.5 en 54%  
-• Bajas: Roma: 4 fuera, 3 duda (Wesley, Mile Svilar, Lorenzo Pellegrini); Sassuolo: 4 fuera, 2 duda (Kristian Thorstvedt, Jay Idzes, Yeferson Paz)  
-• Favorito de las casas: Roma @ 1.32  
-📐 **Estadísticas esperadas**  
-Córners 6.9 - 3.1: total +9.5 54% · Roma +5.5 63% · Sassuolo +4.5 23%  
-Tarjetas 1.7 - 2.4: total +3.5 58% · Roma +1.5 50% · Sassuolo +2.5 43%  
-Faltas 11.2 - 10.5: total +22.5 42% · Roma +11.5 44% · Sassuolo +11.5 36%  
-Tiros a puerta 7.2 - 3.3: total +9.5 60% · Roma +4.5 81% · Sassuolo +4.5 25%  
-🧩 Crear apuesta: Más de 4.5 tiros a puerta de Roma + Menos de 4.5 córners de Sassuolo + Menos de 11.5 faltas de Sassuolo → prob. 41%, cuota justa 2.44 (solo vale si la casa paga más)  
-🚀 Combinada larga: Más de 4.5 tiros a puerta de Roma + Menos de 4.5 córners de Sassuolo + Menos de 11.5 faltas de Sassuolo + Más de 2.5 goles + Más de 3.5 tarjetas → prob. 14%, cuota justa 7.22  
-🎯 Simulada (con cuota: Menos de 4.5 córners de Sassuolo + Más de 3.5 tarjetas): cuota Unibet aprox. 2.54 (producto de piernas) · prob. 45% · ventaja +14% → 1 u en la banca de simulación  
-
-## Roma vs Sassuolo — 07/11 · 20:45
-
-👀 candidata · 🇮🇹 Serie A · **Menos de 13.5 córners** @ **1.12** (Unibet) · prob 83% vs casas 81% · ventaja -7%
-
-- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 2.23 - 0.81)  
-1 76% · X 17% · 2 8%  
-1X 92% · X2 24% · 12 83%  
-+1.5 81% · +2.5 59% · +3.5 36% · Ambos marcan 50%  
-Marcadores: 2-0 12% · 1-0 10% · 2-1 10% · 1-1 9%  
-🔎 **Claves**  
-• Forma: Roma ➖✅➖✅✅ | Sassuolo ➖❌❌❌❌  
-• H2H: 24 desde 2013: 13V-9E-2D · 3.0 goles/partido · +2.5 en 54%  
-• Bajas: Roma: 4 fuera, 3 duda (Wesley, Mile Svilar, Lorenzo Pellegrini); Sassuolo: 4 fuera, 2 duda (Kristian Thorstvedt, Jay Idzes, Yeferson Paz)  
-• Favorito de las casas: Roma @ 1.32  
-📐 **Estadísticas esperadas**  
-Córners 6.9 - 3.1: total +9.5 54% · Roma +5.5 63% · Sassuolo +4.5 23%  
-Tarjetas 1.7 - 2.4: total +3.5 58% · Roma +1.5 50% · Sassuolo +2.5 43%  
-Faltas 11.2 - 10.5: total +22.5 42% · Roma +11.5 44% · Sassuolo +11.5 36%  
-Tiros a puerta 7.2 - 3.3: total +9.5 60% · Roma +4.5 81% · Sassuolo +4.5 25%  
-🧩 Crear apuesta: Más de 4.5 tiros a puerta de Roma + Menos de 4.5 córners de Sassuolo + Menos de 11.5 faltas de Sassuolo → prob. 41%, cuota justa 2.44 (solo vale si la casa paga más)  
-🚀 Combinada larga: Más de 4.5 tiros a puerta de Roma + Menos de 4.5 córners de Sassuolo + Menos de 11.5 faltas de Sassuolo + Más de 2.5 goles + Más de 3.5 tarjetas → prob. 14%, cuota justa 7.22  
-🎯 Simulada (con cuota: Menos de 4.5 córners de Sassuolo + Más de 3.5 tarjetas): cuota Unibet aprox. 2.54 (producto de piernas) · prob. 45% · ventaja +14% → 1 u en la banca de simulación  
-
-## Roma vs Sassuolo — 07/11 · 20:45
-
-👀 candidata · 🇮🇹 Serie A · **Más de 6.5 córners de Roma** @ **1.87** (Unibet) · prob 50% vs casas 49% · ventaja -7%
-
-- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 2.23 - 0.81)  
-1 76% · X 17% · 2 8%  
-1X 92% · X2 24% · 12 83%  
-+1.5 81% · +2.5 59% · +3.5 36% · Ambos marcan 50%  
-Marcadores: 2-0 12% · 1-0 10% · 2-1 10% · 1-1 9%  
-🔎 **Claves**  
-• Forma: Roma ➖✅➖✅✅ | Sassuolo ➖❌❌❌❌  
-• H2H: 24 desde 2013: 13V-9E-2D · 3.0 goles/partido · +2.5 en 54%  
-• Bajas: Roma: 4 fuera, 3 duda (Wesley, Mile Svilar, Lorenzo Pellegrini); Sassuolo: 4 fuera, 2 duda (Kristian Thorstvedt, Jay Idzes, Yeferson Paz)  
-• Favorito de las casas: Roma @ 1.32  
-📐 **Estadísticas esperadas**  
-Córners 6.9 - 3.1: total +9.5 54% · Roma +5.5 63% · Sassuolo +4.5 23%  
-Tarjetas 1.7 - 2.4: total +3.5 58% · Roma +1.5 50% · Sassuolo +2.5 43%  
-Faltas 11.2 - 10.5: total +22.5 42% · Roma +11.5 44% · Sassuolo +11.5 36%  
-Tiros a puerta 7.2 - 3.3: total +9.5 60% · Roma +4.5 81% · Sassuolo +4.5 25%  
-🧩 Crear apuesta: Más de 4.5 tiros a puerta de Roma + Menos de 4.5 córners de Sassuolo + Menos de 11.5 faltas de Sassuolo → prob. 41%, cuota justa 2.44 (solo vale si la casa paga más)  
-🚀 Combinada larga: Más de 4.5 tiros a puerta de Roma + Menos de 4.5 córners de Sassuolo + Menos de 11.5 faltas de Sassuolo + Más de 2.5 goles + Más de 3.5 tarjetas → prob. 14%, cuota justa 7.22  
-🎯 Simulada (con cuota: Menos de 4.5 córners de Sassuolo + Más de 3.5 tarjetas): cuota Unibet aprox. 2.54 (producto de piernas) · prob. 45% · ventaja +14% → 1 u en la banca de simulación  
-
-## Roma vs Sassuolo — 07/11 · 20:45
-
-👀 candidata · 🇮🇹 Serie A · **Menos de 9.5 córners de Roma** @ **1.19** (Unibet) · prob 78% vs casas 78% · ventaja -7%
-
-- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 2.23 - 0.81)  
-1 76% · X 17% · 2 8%  
-1X 92% · X2 24% · 12 83%  
-+1.5 81% · +2.5 59% · +3.5 36% · Ambos marcan 50%  
-Marcadores: 2-0 12% · 1-0 10% · 2-1 10% · 1-1 9%  
-🔎 **Claves**  
-• Forma: Roma ➖✅➖✅✅ | Sassuolo ➖❌❌❌❌  
-• H2H: 24 desde 2013: 13V-9E-2D · 3.0 goles/partido · +2.5 en 54%  
-• Bajas: Roma: 4 fuera, 3 duda (Wesley, Mile Svilar, Lorenzo Pellegrini); Sassuolo: 4 fuera, 2 duda (Kristian Thorstvedt, Jay Idzes, Yeferson Paz)  
-• Favorito de las casas: Roma @ 1.32  
-📐 **Estadísticas esperadas**  
-Córners 6.9 - 3.1: total +9.5 54% · Roma +5.5 63% · Sassuolo +4.5 23%  
-Tarjetas 1.7 - 2.4: total +3.5 58% · Roma +1.5 50% · Sassuolo +2.5 43%  
-Faltas 11.2 - 10.5: total +22.5 42% · Roma +11.5 44% · Sassuolo +11.5 36%  
-Tiros a puerta 7.2 - 3.3: total +9.5 60% · Roma +4.5 81% · Sassuolo +4.5 25%  
-🧩 Crear apuesta: Más de 4.5 tiros a puerta de Roma + Menos de 4.5 córners de Sassuolo + Menos de 11.5 faltas de Sassuolo → prob. 41%, cuota justa 2.44 (solo vale si la casa paga más)  
-🚀 Combinada larga: Más de 4.5 tiros a puerta de Roma + Menos de 4.5 córners de Sassuolo + Menos de 11.5 faltas de Sassuolo + Más de 2.5 goles + Más de 3.5 tarjetas → prob. 14%, cuota justa 7.22  
-🎯 Simulada (con cuota: Menos de 4.5 córners de Sassuolo + Más de 3.5 tarjetas): cuota Unibet aprox. 2.54 (producto de piernas) · prob. 45% · ventaja +14% → 1 u en la banca de simulación  
-
-## Roma vs Sassuolo — 07/11 · 20:45
-
-👀 candidata · 🇮🇹 Serie A · **Más de 1.5 córners de Sassuolo** @ **1.22** (Unibet) · prob 77% vs casas 75% · ventaja -6%
-
-- ❌ Valor: ventaja -6% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 2.23 - 0.81)  
-1 76% · X 17% · 2 8%  
-1X 92% · X2 24% · 12 83%  
-+1.5 81% · +2.5 59% · +3.5 36% · Ambos marcan 50%  
-Marcadores: 2-0 12% · 1-0 10% · 2-1 10% · 1-1 9%  
-🔎 **Claves**  
-• Forma: Roma ➖✅➖✅✅ | Sassuolo ➖❌❌❌❌  
-• H2H: 24 desde 2013: 13V-9E-2D · 3.0 goles/partido · +2.5 en 54%  
-• Bajas: Roma: 4 fuera, 3 duda (Wesley, Mile Svilar, Lorenzo Pellegrini); Sassuolo: 4 fuera, 2 duda (Kristian Thorstvedt, Jay Idzes, Yeferson Paz)  
-• Favorito de las casas: Roma @ 1.32  
-📐 **Estadísticas esperadas**  
-Córners 6.9 - 3.1: total +9.5 54% · Roma +5.5 63% · Sassuolo +4.5 23%  
-Tarjetas 1.7 - 2.4: total +3.5 58% · Roma +1.5 50% · Sassuolo +2.5 43%  
-Faltas 11.2 - 10.5: total +22.5 42% · Roma +11.5 44% · Sassuolo +11.5 36%  
-Tiros a puerta 7.2 - 3.3: total +9.5 60% · Roma +4.5 81% · Sassuolo +4.5 25%  
-🧩 Crear apuesta: Más de 4.5 tiros a puerta de Roma + Menos de 4.5 córners de Sassuolo + Menos de 11.5 faltas de Sassuolo → prob. 41%, cuota justa 2.44 (solo vale si la casa paga más)  
-🚀 Combinada larga: Más de 4.5 tiros a puerta de Roma + Menos de 4.5 córners de Sassuolo + Menos de 11.5 faltas de Sassuolo + Más de 2.5 goles + Más de 3.5 tarjetas → prob. 14%, cuota justa 7.22  
-🎯 Simulada (con cuota: Menos de 4.5 córners de Sassuolo + Más de 3.5 tarjetas): cuota Unibet aprox. 2.54 (producto de piernas) · prob. 45% · ventaja +14% → 1 u en la banca de simulación  
-
-## Roma vs Sassuolo — 07/11 · 20:45
-
-👀 candidata · 🇮🇹 Serie A · **Menos de 5.5 córners de Sassuolo** @ **1.09** (Unibet) · prob 86% vs casas 84% · ventaja -6%
-
-- ❌ Valor: ventaja -6% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 2.23 - 0.81)  
-1 76% · X 17% · 2 8%  
-1X 92% · X2 24% · 12 83%  
-+1.5 81% · +2.5 59% · +3.5 36% · Ambos marcan 50%  
-Marcadores: 2-0 12% · 1-0 10% · 2-1 10% · 1-1 9%  
-🔎 **Claves**  
-• Forma: Roma ➖✅➖✅✅ | Sassuolo ➖❌❌❌❌  
-• H2H: 24 desde 2013: 13V-9E-2D · 3.0 goles/partido · +2.5 en 54%  
-• Bajas: Roma: 4 fuera, 3 duda (Wesley, Mile Svilar, Lorenzo Pellegrini); Sassuolo: 4 fuera, 2 duda (Kristian Thorstvedt, Jay Idzes, Yeferson Paz)  
-• Favorito de las casas: Roma @ 1.32  
-📐 **Estadísticas esperadas**  
-Córners 6.9 - 3.1: total +9.5 54% · Roma +5.5 63% · Sassuolo +4.5 23%  
-Tarjetas 1.7 - 2.4: total +3.5 58% · Roma +1.5 50% · Sassuolo +2.5 43%  
-Faltas 11.2 - 10.5: total +22.5 42% · Roma +11.5 44% · Sassuolo +11.5 36%  
-Tiros a puerta 7.2 - 3.3: total +9.5 60% · Roma +4.5 81% · Sassuolo +4.5 25%  
-🧩 Crear apuesta: Más de 4.5 tiros a puerta de Roma + Menos de 4.5 córners de Sassuolo + Menos de 11.5 faltas de Sassuolo → prob. 41%, cuota justa 2.44 (solo vale si la casa paga más)  
-🚀 Combinada larga: Más de 4.5 tiros a puerta de Roma + Menos de 4.5 córners de Sassuolo + Menos de 11.5 faltas de Sassuolo + Más de 2.5 goles + Más de 3.5 tarjetas → prob. 14%, cuota justa 7.22  
-🎯 Simulada (con cuota: Menos de 4.5 córners de Sassuolo + Más de 3.5 tarjetas): cuota Unibet aprox. 2.54 (producto de piernas) · prob. 45% · ventaja +14% → 1 u en la banca de simulación  
-
-## Excelsior vs Go Ahead Eagles — 07/11 · 21:00
-
-👀 candidata · 🇳🇱 Eredivisie · **Gana Excelsior** @ **2.80** (Bet365) · prob 35% vs casas 35% · ventaja -3%
-
-- ❌ Valor: ventaja -3% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.47 - 1.56)  
-1 30% · X 28% · 2 42%  
-1X 58% · X2 70% · 12 72%  
-+1.5 81% · +2.5 58% · +3.5 36% · Ambos marcan 61%  
-Marcadores: 1-1 12% · 1-2 9% · 2-1 8% · 0-1 7%  
-🔎 **Claves**  
-• Forma: Excelsior ➖❌❌❌❌ | Go Ahead Eagles ➖➖❌✅❌  
-• H2H: 10 desde 2014: 2V-3E-5D · 2.5 goles/partido · +2.5 en 50%  
-• Bajas: Excelsior: sin bajas; Go Ahead Eagles: 1 fuera, 1 duda (Pim Saathof)  
-• Favorito de las casas: Go Ahead Eagles @ 2.35  
-📐 **Estadísticas esperadas**  
-Córners 5.1 - 4.9: total +10.5 41% · Excelsior +5.5 40% · Go Ahead Eagles +4.5 51%  
-Tarjetas 1.3 - 1.5: total +3.5 32% · Excelsior +1.5 38% · Go Ahead Eagles +1.5 45%  
-Faltas 9.2 - 7.3: total +21.5 13% · Excelsior +10.5 32% · Go Ahead Eagles +11.5 7%  
-Tiros a puerta 4.9 - 5.0: total +10.5 41% · Excelsior +5.5 37% · Go Ahead Eagles +4.5 55%  
-🧩 Crear apuesta: Menos de 11.5 faltas de Go Ahead Eagles + Menos de 3.5 tarjetas + Menos de 5.5 tiros a puerta de Excelsior → prob. 40%, cuota justa 2.51 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 11.5 faltas de Go Ahead Eagles + Menos de 3.5 tarjetas + Menos de 5.5 tiros a puerta de Excelsior + Menos de 5.5 córners de Excelsior + Más de 2.5 goles → prob. 14%, cuota justa 7.29  
-🎯 No simulada (con cuota: Menos de 3.5 tarjetas + Menos de 5.5 córners de Excelsior): cuota Unibet aprox. 2.00 (producto de piernas) · prob. 41% · ventaja -17%  
-
-## St Mirren vs Rangers — 07/11 · 21:00
-
-👀 candidata · 🏴 Premiership escocesa · **St Mirren +1.25 (hándicap asiático)** @ **1.93** (mejor del mercado) · prob 50% vs casas 50% · ventaja -3%
-
-- ❌ Valor: ventaja -3% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ hándicap» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 0.85 - 1.87)  
-1 13% · X 22% · 2 66%  
-1X 34% · X2 87% · 12 78%  
-+1.5 76% · +2.5 51% · +3.5 29% · Ambos marcan 49%  
-Marcadores: 0-1 12% · 0-2 12% · 1-1 11% · 1-2 10%  
-🔎 **Claves**  
-• Forma: St Mirren ❌❌✅➖❌ | Rangers ✅✅➖✅➖  
-• H2H: 45 desde 2006: 4V-5E-36D · 2.7 goles/partido · +2.5 en 56%  
-• Bajas: St Mirren: 0 fuera, 3 duda; Rangers: 1 fuera, 4 duda (Lawrence Shankland)  
-• Favorito de las casas: Rangers @ 1.42  
-📐 **Estadísticas esperadas**  
-Córners 4.1 - 6.9: total +11.5 42% · St Mirren +6.5 15% · Rangers +4.5 74%  
-Tarjetas 2.5 - 1.8: total +4.5 43% · St Mirren +2.5 45% · Rangers +2.5 28%  
-Faltas 13.4 - 11.6: total +23.5 59% · St Mirren +12.5 57% · Rangers +12.5 38%  
-Tiros a puerta 3.4 - 6.2: total +9.5 49% · St Mirren +5.5 14% · Rangers +4.5 71%  
-🧩 Crear apuesta: Menos de 5.5 tiros a puerta de St Mirren + Menos de 6.5 córners de St Mirren + Menos de 2.5 tarjetas de Rangers → prob. 55%, cuota justa 1.83 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 tiros a puerta de St Mirren + Menos de 6.5 córners de St Mirren + Menos de 2.5 tarjetas de Rangers + Menos de 12.5 faltas de Rangers → prob. 37%, cuota justa 2.74  
-
-## Valencia vs Real Madrid — 07/11 · 21:00
-
-👀 candidata · 🇪🇸 LaLiga · **Gana Real Madrid** @ **1.30** (Bwin) · prob 76% vs casas 76% · ventaja -1%
-
-- ❌ Valor: ventaja -1% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 0.88 - 1.69)  
-1 14% · X 24% · 2 62%  
-1X 38% · X2 86% · 12 76%  
-+1.5 73% · +2.5 47% · +3.5 26% · Ambos marcan 48%  
-Marcadores: 0-1 12% · 1-1 12% · 0-2 11% · 1-2 10%  
-🔎 **Claves**  
-• Forma: Valencia ❌➖➖❌✅ | Real Madrid ❌✅✅✅✅  
-• H2H: 42 desde 2005: 9V-9E-24D · 3.4 goles/partido · +2.5 en 69%  
-• Bajas: Valencia: 3 fuera, 1 duda (Jose Copete, Diego Lopez, Sergi Canos); Real Madrid: 2 fuera, 2 duda (Vinicius Junior, Rodrygo)  
-• Favorito de las casas: Real Madrid @ 1.30  
-📐 **Estadísticas esperadas**  
-Córners 3.9 - 6.0: total +10.5 41% · Valencia +5.5 23% · Real Madrid +4.5 65%  
-Tarjetas 2.7 - 2.2: total +4.5 53% · Valencia +2.5 50% · Real Madrid +2.5 39%  
-Faltas 14.2 - 9.9: total +25.5 39% · Valencia +12.5 65% · Real Madrid +12.5 21%  
-Tiros a puerta 3.1 - 5.8: total +9.5 40% · Valencia +4.5 21% · Real Madrid +4.5 66%  
-🧩 Crear apuesta: Menos de 12.5 faltas de Real Madrid + Menos de 4.5 tiros a puerta de Valencia + Menos de 5.5 córners de Valencia → prob. 49%, cuota justa 2.02 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 12.5 faltas de Real Madrid + Menos de 4.5 tiros a puerta de Valencia + Menos de 5.5 córners de Valencia + Menos de 2.5 tarjetas de Real Madrid → prob. 33%, cuota justa 3.00  
-🎯 No simulada (con cuota: Menos de 4.5 tiros a puerta de Valencia + Menos de 5.5 córners de Valencia): cuota Unibet aprox. 1.44 (producto de piernas) · prob. 63% · ventaja -9%  
-
-## Excelsior vs Go Ahead Eagles — 07/11 · 21:00
-
-👀 candidata · 🇳🇱 Eredivisie · **Menos de 11.5 córners** @ **1.38** (Unibet) · prob 68% vs casas 67% · ventaja -6%
-
-- ❌ Valor: ventaja -6% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.47 - 1.56)  
-1 30% · X 28% · 2 42%  
-1X 58% · X2 70% · 12 72%  
-+1.5 81% · +2.5 58% · +3.5 36% · Ambos marcan 61%  
-Marcadores: 1-1 12% · 1-2 9% · 2-1 8% · 0-1 7%  
-🔎 **Claves**  
-• Forma: Excelsior ➖❌❌❌❌ | Go Ahead Eagles ➖➖❌✅❌  
-• H2H: 10 desde 2014: 2V-3E-5D · 2.5 goles/partido · +2.5 en 50%  
-• Bajas: Excelsior: sin bajas; Go Ahead Eagles: 1 fuera, 1 duda (Pim Saathof)  
-• Favorito de las casas: Go Ahead Eagles @ 2.35  
-📐 **Estadísticas esperadas**  
-Córners 5.1 - 4.9: total +10.5 41% · Excelsior +5.5 40% · Go Ahead Eagles +4.5 51%  
-Tarjetas 1.3 - 1.5: total +3.5 32% · Excelsior +1.5 38% · Go Ahead Eagles +1.5 45%  
-Faltas 9.2 - 7.3: total +21.5 13% · Excelsior +10.5 32% · Go Ahead Eagles +11.5 7%  
-Tiros a puerta 4.9 - 5.0: total +10.5 41% · Excelsior +5.5 37% · Go Ahead Eagles +4.5 55%  
-🧩 Crear apuesta: Menos de 11.5 faltas de Go Ahead Eagles + Menos de 3.5 tarjetas + Menos de 5.5 tiros a puerta de Excelsior → prob. 40%, cuota justa 2.51 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 11.5 faltas de Go Ahead Eagles + Menos de 3.5 tarjetas + Menos de 5.5 tiros a puerta de Excelsior + Menos de 5.5 córners de Excelsior + Más de 2.5 goles → prob. 14%, cuota justa 7.29  
-🎯 No simulada (con cuota: Menos de 3.5 tarjetas + Menos de 5.5 córners de Excelsior): cuota Unibet aprox. 2.00 (producto de piernas) · prob. 41% · ventaja -17%  
-
-## Excelsior vs Go Ahead Eagles — 07/11 · 21:00
-
-👀 candidata · 🇳🇱 Eredivisie · **Más de 7.5 córners** @ **1.24** (Unibet) · prob 75% vs casas 74% · ventaja -7%
-
-- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.47 - 1.56)  
-1 30% · X 28% · 2 42%  
-1X 58% · X2 70% · 12 72%  
-+1.5 81% · +2.5 58% · +3.5 36% · Ambos marcan 61%  
-Marcadores: 1-1 12% · 1-2 9% · 2-1 8% · 0-1 7%  
-🔎 **Claves**  
-• Forma: Excelsior ➖❌❌❌❌ | Go Ahead Eagles ➖➖❌✅❌  
-• H2H: 10 desde 2014: 2V-3E-5D · 2.5 goles/partido · +2.5 en 50%  
-• Bajas: Excelsior: sin bajas; Go Ahead Eagles: 1 fuera, 1 duda (Pim Saathof)  
-• Favorito de las casas: Go Ahead Eagles @ 2.35  
-📐 **Estadísticas esperadas**  
-Córners 5.1 - 4.9: total +10.5 41% · Excelsior +5.5 40% · Go Ahead Eagles +4.5 51%  
-Tarjetas 1.3 - 1.5: total +3.5 32% · Excelsior +1.5 38% · Go Ahead Eagles +1.5 45%  
-Faltas 9.2 - 7.3: total +21.5 13% · Excelsior +10.5 32% · Go Ahead Eagles +11.5 7%  
-Tiros a puerta 4.9 - 5.0: total +10.5 41% · Excelsior +5.5 37% · Go Ahead Eagles +4.5 55%  
-🧩 Crear apuesta: Menos de 11.5 faltas de Go Ahead Eagles + Menos de 3.5 tarjetas + Menos de 5.5 tiros a puerta de Excelsior → prob. 40%, cuota justa 2.51 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 11.5 faltas de Go Ahead Eagles + Menos de 3.5 tarjetas + Menos de 5.5 tiros a puerta de Excelsior + Menos de 5.5 córners de Excelsior + Más de 2.5 goles → prob. 14%, cuota justa 7.29  
-🎯 No simulada (con cuota: Menos de 3.5 tarjetas + Menos de 5.5 córners de Excelsior): cuota Unibet aprox. 2.00 (producto de piernas) · prob. 41% · ventaja -17%  
-
-## Excelsior vs Go Ahead Eagles — 07/11 · 21:00
-
-👀 candidata · 🇳🇱 Eredivisie · **Más de 4.5 córners de Excelsior** @ **1.83** (Unibet) · prob 52% vs casas 50% · ventaja -5%
-
-- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.47 - 1.56)  
-1 30% · X 28% · 2 42%  
-1X 58% · X2 70% · 12 72%  
-+1.5 81% · +2.5 58% · +3.5 36% · Ambos marcan 61%  
-Marcadores: 1-1 12% · 1-2 9% · 2-1 8% · 0-1 7%  
-🔎 **Claves**  
-• Forma: Excelsior ➖❌❌❌❌ | Go Ahead Eagles ➖➖❌✅❌  
-• H2H: 10 desde 2014: 2V-3E-5D · 2.5 goles/partido · +2.5 en 50%  
-• Bajas: Excelsior: sin bajas; Go Ahead Eagles: 1 fuera, 1 duda (Pim Saathof)  
-• Favorito de las casas: Go Ahead Eagles @ 2.35  
-📐 **Estadísticas esperadas**  
-Córners 5.1 - 4.9: total +10.5 41% · Excelsior +5.5 40% · Go Ahead Eagles +4.5 51%  
-Tarjetas 1.3 - 1.5: total +3.5 32% · Excelsior +1.5 38% · Go Ahead Eagles +1.5 45%  
-Faltas 9.2 - 7.3: total +21.5 13% · Excelsior +10.5 32% · Go Ahead Eagles +11.5 7%  
-Tiros a puerta 4.9 - 5.0: total +10.5 41% · Excelsior +5.5 37% · Go Ahead Eagles +4.5 55%  
-🧩 Crear apuesta: Menos de 11.5 faltas de Go Ahead Eagles + Menos de 3.5 tarjetas + Menos de 5.5 tiros a puerta de Excelsior → prob. 40%, cuota justa 2.51 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 11.5 faltas de Go Ahead Eagles + Menos de 3.5 tarjetas + Menos de 5.5 tiros a puerta de Excelsior + Menos de 5.5 córners de Excelsior + Más de 2.5 goles → prob. 14%, cuota justa 7.29  
-🎯 No simulada (con cuota: Menos de 3.5 tarjetas + Menos de 5.5 córners de Excelsior): cuota Unibet aprox. 2.00 (producto de piernas) · prob. 41% · ventaja -17%  
-
-## Excelsior vs Go Ahead Eagles — 07/11 · 21:00
-
-👀 candidata · 🇳🇱 Eredivisie · **Menos de 6.5 córners de Excelsior** @ **1.24** (Unibet) · prob 73% vs casas 74% · ventaja -9%
-
-- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.47 - 1.56)  
-1 30% · X 28% · 2 42%  
-1X 58% · X2 70% · 12 72%  
-+1.5 81% · +2.5 58% · +3.5 36% · Ambos marcan 61%  
-Marcadores: 1-1 12% · 1-2 9% · 2-1 8% · 0-1 7%  
-🔎 **Claves**  
-• Forma: Excelsior ➖❌❌❌❌ | Go Ahead Eagles ➖➖❌✅❌  
-• H2H: 10 desde 2014: 2V-3E-5D · 2.5 goles/partido · +2.5 en 50%  
-• Bajas: Excelsior: sin bajas; Go Ahead Eagles: 1 fuera, 1 duda (Pim Saathof)  
-• Favorito de las casas: Go Ahead Eagles @ 2.35  
-📐 **Estadísticas esperadas**  
-Córners 5.1 - 4.9: total +10.5 41% · Excelsior +5.5 40% · Go Ahead Eagles +4.5 51%  
-Tarjetas 1.3 - 1.5: total +3.5 32% · Excelsior +1.5 38% · Go Ahead Eagles +1.5 45%  
-Faltas 9.2 - 7.3: total +21.5 13% · Excelsior +10.5 32% · Go Ahead Eagles +11.5 7%  
-Tiros a puerta 4.9 - 5.0: total +10.5 41% · Excelsior +5.5 37% · Go Ahead Eagles +4.5 55%  
-🧩 Crear apuesta: Menos de 11.5 faltas de Go Ahead Eagles + Menos de 3.5 tarjetas + Menos de 5.5 tiros a puerta de Excelsior → prob. 40%, cuota justa 2.51 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 11.5 faltas de Go Ahead Eagles + Menos de 3.5 tarjetas + Menos de 5.5 tiros a puerta de Excelsior + Menos de 5.5 córners de Excelsior + Más de 2.5 goles → prob. 14%, cuota justa 7.29  
-🎯 No simulada (con cuota: Menos de 3.5 tarjetas + Menos de 5.5 córners de Excelsior): cuota Unibet aprox. 2.00 (producto de piernas) · prob. 41% · ventaja -17%  
-
-## Excelsior vs Go Ahead Eagles — 07/11 · 21:00
-
-👀 candidata · 🇳🇱 Eredivisie · **Más de 3.5 córners de Go Ahead Eagles** @ **1.34** (Unibet) · prob 67% vs casas 68% · ventaja -10%
-
-- ❌ Valor: ventaja -10% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.47 - 1.56)  
-1 30% · X 28% · 2 42%  
-1X 58% · X2 70% · 12 72%  
-+1.5 81% · +2.5 58% · +3.5 36% · Ambos marcan 61%  
-Marcadores: 1-1 12% · 1-2 9% · 2-1 8% · 0-1 7%  
-🔎 **Claves**  
-• Forma: Excelsior ➖❌❌❌❌ | Go Ahead Eagles ➖➖❌✅❌  
-• H2H: 10 desde 2014: 2V-3E-5D · 2.5 goles/partido · +2.5 en 50%  
-• Bajas: Excelsior: sin bajas; Go Ahead Eagles: 1 fuera, 1 duda (Pim Saathof)  
-• Favorito de las casas: Go Ahead Eagles @ 2.35  
-📐 **Estadísticas esperadas**  
-Córners 5.1 - 4.9: total +10.5 41% · Excelsior +5.5 40% · Go Ahead Eagles +4.5 51%  
-Tarjetas 1.3 - 1.5: total +3.5 32% · Excelsior +1.5 38% · Go Ahead Eagles +1.5 45%  
-Faltas 9.2 - 7.3: total +21.5 13% · Excelsior +10.5 32% · Go Ahead Eagles +11.5 7%  
-Tiros a puerta 4.9 - 5.0: total +10.5 41% · Excelsior +5.5 37% · Go Ahead Eagles +4.5 55%  
-🧩 Crear apuesta: Menos de 11.5 faltas de Go Ahead Eagles + Menos de 3.5 tarjetas + Menos de 5.5 tiros a puerta de Excelsior → prob. 40%, cuota justa 2.51 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 11.5 faltas de Go Ahead Eagles + Menos de 3.5 tarjetas + Menos de 5.5 tiros a puerta de Excelsior + Menos de 5.5 córners de Excelsior + Más de 2.5 goles → prob. 14%, cuota justa 7.29  
-🎯 No simulada (con cuota: Menos de 3.5 tarjetas + Menos de 5.5 córners de Excelsior): cuota Unibet aprox. 2.00 (producto de piernas) · prob. 41% · ventaja -17%  
-
-## Excelsior vs Go Ahead Eagles — 07/11 · 21:00
-
-👀 candidata · 🇳🇱 Eredivisie · **Menos de 5.5 córners de Go Ahead Eagles** @ **1.57** (Unibet) · prob 61% vs casas 59% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.47 - 1.56)  
-1 30% · X 28% · 2 42%  
-1X 58% · X2 70% · 12 72%  
-+1.5 81% · +2.5 58% · +3.5 36% · Ambos marcan 61%  
-Marcadores: 1-1 12% · 1-2 9% · 2-1 8% · 0-1 7%  
-🔎 **Claves**  
-• Forma: Excelsior ➖❌❌❌❌ | Go Ahead Eagles ➖➖❌✅❌  
-• H2H: 10 desde 2014: 2V-3E-5D · 2.5 goles/partido · +2.5 en 50%  
-• Bajas: Excelsior: sin bajas; Go Ahead Eagles: 1 fuera, 1 duda (Pim Saathof)  
-• Favorito de las casas: Go Ahead Eagles @ 2.35  
-📐 **Estadísticas esperadas**  
-Córners 5.1 - 4.9: total +10.5 41% · Excelsior +5.5 40% · Go Ahead Eagles +4.5 51%  
-Tarjetas 1.3 - 1.5: total +3.5 32% · Excelsior +1.5 38% · Go Ahead Eagles +1.5 45%  
-Faltas 9.2 - 7.3: total +21.5 13% · Excelsior +10.5 32% · Go Ahead Eagles +11.5 7%  
-Tiros a puerta 4.9 - 5.0: total +10.5 41% · Excelsior +5.5 37% · Go Ahead Eagles +4.5 55%  
-🧩 Crear apuesta: Menos de 11.5 faltas de Go Ahead Eagles + Menos de 3.5 tarjetas + Menos de 5.5 tiros a puerta de Excelsior → prob. 40%, cuota justa 2.51 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 11.5 faltas de Go Ahead Eagles + Menos de 3.5 tarjetas + Menos de 5.5 tiros a puerta de Excelsior + Menos de 5.5 córners de Excelsior + Más de 2.5 goles → prob. 14%, cuota justa 7.29  
-🎯 No simulada (con cuota: Menos de 3.5 tarjetas + Menos de 5.5 córners de Excelsior): cuota Unibet aprox. 2.00 (producto de piernas) · prob. 41% · ventaja -17%  
-
-## St Mirren vs Rangers — 07/11 · 21:00
-
-👀 candidata · 🏴 Premiership escocesa · **Más de 9.5 córners** @ **1.54** (Unibet) · prob 62% vs casas 60% · ventaja -5%
-
-- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 0.85 - 1.87)  
-1 13% · X 22% · 2 66%  
-1X 34% · X2 87% · 12 78%  
-+1.5 76% · +2.5 51% · +3.5 29% · Ambos marcan 49%  
-Marcadores: 0-1 12% · 0-2 12% · 1-1 11% · 1-2 10%  
-🔎 **Claves**  
-• Forma: St Mirren ❌❌✅➖❌ | Rangers ✅✅➖✅➖  
-• H2H: 45 desde 2006: 4V-5E-36D · 2.7 goles/partido · +2.5 en 56%  
-• Bajas: St Mirren: 0 fuera, 3 duda; Rangers: 1 fuera, 4 duda (Lawrence Shankland)  
-• Favorito de las casas: Rangers @ 1.42  
-📐 **Estadísticas esperadas**  
-Córners 4.1 - 6.9: total +11.5 42% · St Mirren +6.5 15% · Rangers +4.5 74%  
-Tarjetas 2.5 - 1.8: total +4.5 43% · St Mirren +2.5 45% · Rangers +2.5 28%  
-Faltas 13.4 - 11.6: total +23.5 59% · St Mirren +12.5 57% · Rangers +12.5 38%  
-Tiros a puerta 3.4 - 6.2: total +9.5 49% · St Mirren +5.5 14% · Rangers +4.5 71%  
-🧩 Crear apuesta: Menos de 5.5 tiros a puerta de St Mirren + Menos de 6.5 córners de St Mirren + Menos de 2.5 tarjetas de Rangers → prob. 55%, cuota justa 1.83 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 tiros a puerta de St Mirren + Menos de 6.5 córners de St Mirren + Menos de 2.5 tarjetas de Rangers + Menos de 12.5 faltas de Rangers → prob. 37%, cuota justa 2.74  
-
-## St Mirren vs Rangers — 07/11 · 21:00
-
-👀 candidata · 🏴 Premiership escocesa · **Menos de 13.5 córners** @ **1.20** (Unibet) · prob 77% vs casas 76% · ventaja -8%
-
-- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 0.85 - 1.87)  
-1 13% · X 22% · 2 66%  
-1X 34% · X2 87% · 12 78%  
-+1.5 76% · +2.5 51% · +3.5 29% · Ambos marcan 49%  
-Marcadores: 0-1 12% · 0-2 12% · 1-1 11% · 1-2 10%  
-🔎 **Claves**  
-• Forma: St Mirren ❌❌✅➖❌ | Rangers ✅✅➖✅➖  
-• H2H: 45 desde 2006: 4V-5E-36D · 2.7 goles/partido · +2.5 en 56%  
-• Bajas: St Mirren: 0 fuera, 3 duda; Rangers: 1 fuera, 4 duda (Lawrence Shankland)  
-• Favorito de las casas: Rangers @ 1.42  
-📐 **Estadísticas esperadas**  
-Córners 4.1 - 6.9: total +11.5 42% · St Mirren +6.5 15% · Rangers +4.5 74%  
-Tarjetas 2.5 - 1.8: total +4.5 43% · St Mirren +2.5 45% · Rangers +2.5 28%  
-Faltas 13.4 - 11.6: total +23.5 59% · St Mirren +12.5 57% · Rangers +12.5 38%  
-Tiros a puerta 3.4 - 6.2: total +9.5 49% · St Mirren +5.5 14% · Rangers +4.5 71%  
-🧩 Crear apuesta: Menos de 5.5 tiros a puerta de St Mirren + Menos de 6.5 córners de St Mirren + Menos de 2.5 tarjetas de Rangers → prob. 55%, cuota justa 1.83 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 tiros a puerta de St Mirren + Menos de 6.5 córners de St Mirren + Menos de 2.5 tarjetas de Rangers + Menos de 12.5 faltas de Rangers → prob. 37%, cuota justa 2.74  
-
-## St Mirren vs Rangers — 07/11 · 21:00
-
-👀 candidata · 🏴 Premiership escocesa · **Más de 4.5 córners de Rangers** @ **1.23** (Unibet) · prob 75% vs casas 75% · ventaja -8%
-
-- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 0.85 - 1.87)  
-1 13% · X 22% · 2 66%  
-1X 34% · X2 87% · 12 78%  
-+1.5 76% · +2.5 51% · +3.5 29% · Ambos marcan 49%  
-Marcadores: 0-1 12% · 0-2 12% · 1-1 11% · 1-2 10%  
-🔎 **Claves**  
-• Forma: St Mirren ❌❌✅➖❌ | Rangers ✅✅➖✅➖  
-• H2H: 45 desde 2006: 4V-5E-36D · 2.7 goles/partido · +2.5 en 56%  
-• Bajas: St Mirren: 0 fuera, 3 duda; Rangers: 1 fuera, 4 duda (Lawrence Shankland)  
-• Favorito de las casas: Rangers @ 1.42  
-📐 **Estadísticas esperadas**  
-Córners 4.1 - 6.9: total +11.5 42% · St Mirren +6.5 15% · Rangers +4.5 74%  
-Tarjetas 2.5 - 1.8: total +4.5 43% · St Mirren +2.5 45% · Rangers +2.5 28%  
-Faltas 13.4 - 11.6: total +23.5 59% · St Mirren +12.5 57% · Rangers +12.5 38%  
-Tiros a puerta 3.4 - 6.2: total +9.5 49% · St Mirren +5.5 14% · Rangers +4.5 71%  
-🧩 Crear apuesta: Menos de 5.5 tiros a puerta de St Mirren + Menos de 6.5 córners de St Mirren + Menos de 2.5 tarjetas de Rangers → prob. 55%, cuota justa 1.83 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 tiros a puerta de St Mirren + Menos de 6.5 córners de St Mirren + Menos de 2.5 tarjetas de Rangers + Menos de 12.5 faltas de Rangers → prob. 37%, cuota justa 2.74  
-
-## St Mirren vs Rangers — 07/11 · 21:00
-
-👀 candidata · 🏴 Premiership escocesa · **Menos de 7.5 córners de Rangers** @ **1.62** (Unibet) · prob 60% vs casas 57% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 0.85 - 1.87)  
-1 13% · X 22% · 2 66%  
-1X 34% · X2 87% · 12 78%  
-+1.5 76% · +2.5 51% · +3.5 29% · Ambos marcan 49%  
-Marcadores: 0-1 12% · 0-2 12% · 1-1 11% · 1-2 10%  
-🔎 **Claves**  
-• Forma: St Mirren ❌❌✅➖❌ | Rangers ✅✅➖✅➖  
-• H2H: 45 desde 2006: 4V-5E-36D · 2.7 goles/partido · +2.5 en 56%  
-• Bajas: St Mirren: 0 fuera, 3 duda; Rangers: 1 fuera, 4 duda (Lawrence Shankland)  
-• Favorito de las casas: Rangers @ 1.42  
-📐 **Estadísticas esperadas**  
-Córners 4.1 - 6.9: total +11.5 42% · St Mirren +6.5 15% · Rangers +4.5 74%  
-Tarjetas 2.5 - 1.8: total +4.5 43% · St Mirren +2.5 45% · Rangers +2.5 28%  
-Faltas 13.4 - 11.6: total +23.5 59% · St Mirren +12.5 57% · Rangers +12.5 38%  
-Tiros a puerta 3.4 - 6.2: total +9.5 49% · St Mirren +5.5 14% · Rangers +4.5 71%  
-🧩 Crear apuesta: Menos de 5.5 tiros a puerta de St Mirren + Menos de 6.5 córners de St Mirren + Menos de 2.5 tarjetas de Rangers → prob. 55%, cuota justa 1.83 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 tiros a puerta de St Mirren + Menos de 6.5 córners de St Mirren + Menos de 2.5 tarjetas de Rangers + Menos de 12.5 faltas de Rangers → prob. 37%, cuota justa 2.74  
-
-## St Mirren vs Rangers — 07/11 · 21:00
-
-👀 candidata · 🏴 Premiership escocesa · **Más de 4.5 córners de St Mirren** @ **3.00** (Unibet) · prob 35% vs casas 31% · ventaja +4%
-
-- ❌ Valor: ventaja +4% (mín. 8% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 0.85 - 1.87)  
-1 13% · X 22% · 2 66%  
-1X 34% · X2 87% · 12 78%  
-+1.5 76% · +2.5 51% · +3.5 29% · Ambos marcan 49%  
-Marcadores: 0-1 12% · 0-2 12% · 1-1 11% · 1-2 10%  
-🔎 **Claves**  
-• Forma: St Mirren ❌❌✅➖❌ | Rangers ✅✅➖✅➖  
-• H2H: 45 desde 2006: 4V-5E-36D · 2.7 goles/partido · +2.5 en 56%  
-• Bajas: St Mirren: 0 fuera, 3 duda; Rangers: 1 fuera, 4 duda (Lawrence Shankland)  
-• Favorito de las casas: Rangers @ 1.42  
-📐 **Estadísticas esperadas**  
-Córners 4.1 - 6.9: total +11.5 42% · St Mirren +6.5 15% · Rangers +4.5 74%  
-Tarjetas 2.5 - 1.8: total +4.5 43% · St Mirren +2.5 45% · Rangers +2.5 28%  
-Faltas 13.4 - 11.6: total +23.5 59% · St Mirren +12.5 57% · Rangers +12.5 38%  
-Tiros a puerta 3.4 - 6.2: total +9.5 49% · St Mirren +5.5 14% · Rangers +4.5 71%  
-🧩 Crear apuesta: Menos de 5.5 tiros a puerta de St Mirren + Menos de 6.5 córners de St Mirren + Menos de 2.5 tarjetas de Rangers → prob. 55%, cuota justa 1.83 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 tiros a puerta de St Mirren + Menos de 6.5 córners de St Mirren + Menos de 2.5 tarjetas de Rangers + Menos de 12.5 faltas de Rangers → prob. 37%, cuota justa 2.74  
-
-## St Mirren vs Rangers — 07/11 · 21:00
-
-👀 candidata · 🏴 Premiership escocesa · **Menos de 4.5 córners de St Mirren** @ **1.34** (Unibet) · prob 65% vs casas 69% · ventaja -12%
-
-- ❌ Valor: ventaja -12% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 0.85 - 1.87)  
-1 13% · X 22% · 2 66%  
-1X 34% · X2 87% · 12 78%  
-+1.5 76% · +2.5 51% · +3.5 29% · Ambos marcan 49%  
-Marcadores: 0-1 12% · 0-2 12% · 1-1 11% · 1-2 10%  
-🔎 **Claves**  
-• Forma: St Mirren ❌❌✅➖❌ | Rangers ✅✅➖✅➖  
-• H2H: 45 desde 2006: 4V-5E-36D · 2.7 goles/partido · +2.5 en 56%  
-• Bajas: St Mirren: 0 fuera, 3 duda; Rangers: 1 fuera, 4 duda (Lawrence Shankland)  
-• Favorito de las casas: Rangers @ 1.42  
-📐 **Estadísticas esperadas**  
-Córners 4.1 - 6.9: total +11.5 42% · St Mirren +6.5 15% · Rangers +4.5 74%  
-Tarjetas 2.5 - 1.8: total +4.5 43% · St Mirren +2.5 45% · Rangers +2.5 28%  
-Faltas 13.4 - 11.6: total +23.5 59% · St Mirren +12.5 57% · Rangers +12.5 38%  
-Tiros a puerta 3.4 - 6.2: total +9.5 49% · St Mirren +5.5 14% · Rangers +4.5 71%  
-🧩 Crear apuesta: Menos de 5.5 tiros a puerta de St Mirren + Menos de 6.5 córners de St Mirren + Menos de 2.5 tarjetas de Rangers → prob. 55%, cuota justa 1.83 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 tiros a puerta de St Mirren + Menos de 6.5 córners de St Mirren + Menos de 2.5 tarjetas de Rangers + Menos de 12.5 faltas de Rangers → prob. 37%, cuota justa 2.74  
-
-## Valencia vs Real Madrid — 07/11 · 21:00
-
-👀 candidata · 🇪🇸 LaLiga · **Más de 2.5 córners de Valencia** @ **1.38** (Unibet) · prob 68% vs casas 67% · ventaja -6%
-
-- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 0.88 - 1.69)  
-1 14% · X 24% · 2 62%  
-1X 38% · X2 86% · 12 76%  
-+1.5 73% · +2.5 47% · +3.5 26% · Ambos marcan 48%  
-Marcadores: 0-1 12% · 1-1 12% · 0-2 11% · 1-2 10%  
-🔎 **Claves**  
-• Forma: Valencia ❌➖➖❌✅ | Real Madrid ❌✅✅✅✅  
-• H2H: 42 desde 2005: 9V-9E-24D · 3.4 goles/partido · +2.5 en 69%  
-• Bajas: Valencia: 3 fuera, 1 duda (Jose Copete, Diego Lopez, Sergi Canos); Real Madrid: 2 fuera, 2 duda (Vinicius Junior, Rodrygo)  
-• Favorito de las casas: Real Madrid @ 1.30  
-📐 **Estadísticas esperadas**  
-Córners 3.9 - 6.0: total +10.5 41% · Valencia +5.5 23% · Real Madrid +4.5 65%  
-Tarjetas 2.7 - 2.2: total +4.5 53% · Valencia +2.5 50% · Real Madrid +2.5 39%  
-Faltas 14.2 - 9.9: total +25.5 39% · Valencia +12.5 65% · Real Madrid +12.5 21%  
-Tiros a puerta 3.1 - 5.8: total +9.5 40% · Valencia +4.5 21% · Real Madrid +4.5 66%  
-🧩 Crear apuesta: Menos de 12.5 faltas de Real Madrid + Menos de 4.5 tiros a puerta de Valencia + Menos de 5.5 córners de Valencia → prob. 49%, cuota justa 2.02 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 12.5 faltas de Real Madrid + Menos de 4.5 tiros a puerta de Valencia + Menos de 5.5 córners de Valencia + Menos de 2.5 tarjetas de Real Madrid → prob. 33%, cuota justa 3.00  
-🎯 No simulada (con cuota: Menos de 4.5 tiros a puerta de Valencia + Menos de 5.5 córners de Valencia): cuota Unibet aprox. 1.44 (producto de piernas) · prob. 63% · ventaja -9%  
-
-## Valencia vs Real Madrid — 07/11 · 21:00
-
-👀 candidata · 🇪🇸 LaLiga · **Menos de 5.5 córners de Valencia** @ **1.20** (Unibet) · prob 77% vs casas 76% · ventaja -8%
-
-- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 0.88 - 1.69)  
-1 14% · X 24% · 2 62%  
-1X 38% · X2 86% · 12 76%  
-+1.5 73% · +2.5 47% · +3.5 26% · Ambos marcan 48%  
-Marcadores: 0-1 12% · 1-1 12% · 0-2 11% · 1-2 10%  
-🔎 **Claves**  
-• Forma: Valencia ❌➖➖❌✅ | Real Madrid ❌✅✅✅✅  
-• H2H: 42 desde 2005: 9V-9E-24D · 3.4 goles/partido · +2.5 en 69%  
-• Bajas: Valencia: 3 fuera, 1 duda (Jose Copete, Diego Lopez, Sergi Canos); Real Madrid: 2 fuera, 2 duda (Vinicius Junior, Rodrygo)  
-• Favorito de las casas: Real Madrid @ 1.30  
-📐 **Estadísticas esperadas**  
-Córners 3.9 - 6.0: total +10.5 41% · Valencia +5.5 23% · Real Madrid +4.5 65%  
-Tarjetas 2.7 - 2.2: total +4.5 53% · Valencia +2.5 50% · Real Madrid +2.5 39%  
-Faltas 14.2 - 9.9: total +25.5 39% · Valencia +12.5 65% · Real Madrid +12.5 21%  
-Tiros a puerta 3.1 - 5.8: total +9.5 40% · Valencia +4.5 21% · Real Madrid +4.5 66%  
-🧩 Crear apuesta: Menos de 12.5 faltas de Real Madrid + Menos de 4.5 tiros a puerta de Valencia + Menos de 5.5 córners de Valencia → prob. 49%, cuota justa 2.02 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 12.5 faltas de Real Madrid + Menos de 4.5 tiros a puerta de Valencia + Menos de 5.5 córners de Valencia + Menos de 2.5 tarjetas de Real Madrid → prob. 33%, cuota justa 3.00  
-🎯 No simulada (con cuota: Menos de 4.5 tiros a puerta de Valencia + Menos de 5.5 córners de Valencia): cuota Unibet aprox. 1.44 (producto de piernas) · prob. 63% · ventaja -9%  
-
-## Valencia vs Real Madrid — 07/11 · 21:00
-
-👀 candidata · 🇪🇸 LaLiga · **Más de 3.5 córners de Real Madrid** @ **1.16** (Unibet) · prob 79% vs casas 79% · ventaja -9%
-
-- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 0.88 - 1.69)  
-1 14% · X 24% · 2 62%  
-1X 38% · X2 86% · 12 76%  
-+1.5 73% · +2.5 47% · +3.5 26% · Ambos marcan 48%  
-Marcadores: 0-1 12% · 1-1 12% · 0-2 11% · 1-2 10%  
-🔎 **Claves**  
-• Forma: Valencia ❌➖➖❌✅ | Real Madrid ❌✅✅✅✅  
-• H2H: 42 desde 2005: 9V-9E-24D · 3.4 goles/partido · +2.5 en 69%  
-• Bajas: Valencia: 3 fuera, 1 duda (Jose Copete, Diego Lopez, Sergi Canos); Real Madrid: 2 fuera, 2 duda (Vinicius Junior, Rodrygo)  
-• Favorito de las casas: Real Madrid @ 1.30  
-📐 **Estadísticas esperadas**  
-Córners 3.9 - 6.0: total +10.5 41% · Valencia +5.5 23% · Real Madrid +4.5 65%  
-Tarjetas 2.7 - 2.2: total +4.5 53% · Valencia +2.5 50% · Real Madrid +2.5 39%  
-Faltas 14.2 - 9.9: total +25.5 39% · Valencia +12.5 65% · Real Madrid +12.5 21%  
-Tiros a puerta 3.1 - 5.8: total +9.5 40% · Valencia +4.5 21% · Real Madrid +4.5 66%  
-🧩 Crear apuesta: Menos de 12.5 faltas de Real Madrid + Menos de 4.5 tiros a puerta de Valencia + Menos de 5.5 córners de Valencia → prob. 49%, cuota justa 2.02 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 12.5 faltas de Real Madrid + Menos de 4.5 tiros a puerta de Valencia + Menos de 5.5 córners de Valencia + Menos de 2.5 tarjetas de Real Madrid → prob. 33%, cuota justa 3.00  
-🎯 No simulada (con cuota: Menos de 4.5 tiros a puerta de Valencia + Menos de 5.5 córners de Valencia): cuota Unibet aprox. 1.44 (producto de piernas) · prob. 63% · ventaja -9%  
-
-## Valencia vs Real Madrid — 07/11 · 21:00
-
-👀 candidata · 🇪🇸 LaLiga · **Menos de 5.5 córners de Real Madrid** @ **2.08** (Unibet) · prob 46% vs casas 44% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 0.88 - 1.69)  
-1 14% · X 24% · 2 62%  
-1X 38% · X2 86% · 12 76%  
-+1.5 73% · +2.5 47% · +3.5 26% · Ambos marcan 48%  
-Marcadores: 0-1 12% · 1-1 12% · 0-2 11% · 1-2 10%  
-🔎 **Claves**  
-• Forma: Valencia ❌➖➖❌✅ | Real Madrid ❌✅✅✅✅  
-• H2H: 42 desde 2005: 9V-9E-24D · 3.4 goles/partido · +2.5 en 69%  
-• Bajas: Valencia: 3 fuera, 1 duda (Jose Copete, Diego Lopez, Sergi Canos); Real Madrid: 2 fuera, 2 duda (Vinicius Junior, Rodrygo)  
-• Favorito de las casas: Real Madrid @ 1.30  
-📐 **Estadísticas esperadas**  
-Córners 3.9 - 6.0: total +10.5 41% · Valencia +5.5 23% · Real Madrid +4.5 65%  
-Tarjetas 2.7 - 2.2: total +4.5 53% · Valencia +2.5 50% · Real Madrid +2.5 39%  
-Faltas 14.2 - 9.9: total +25.5 39% · Valencia +12.5 65% · Real Madrid +12.5 21%  
-Tiros a puerta 3.1 - 5.8: total +9.5 40% · Valencia +4.5 21% · Real Madrid +4.5 66%  
-🧩 Crear apuesta: Menos de 12.5 faltas de Real Madrid + Menos de 4.5 tiros a puerta de Valencia + Menos de 5.5 córners de Valencia → prob. 49%, cuota justa 2.02 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 12.5 faltas de Real Madrid + Menos de 4.5 tiros a puerta de Valencia + Menos de 5.5 córners de Valencia + Menos de 2.5 tarjetas de Real Madrid → prob. 33%, cuota justa 3.00  
-🎯 No simulada (con cuota: Menos de 4.5 tiros a puerta de Valencia + Menos de 5.5 córners de Valencia): cuota Unibet aprox. 1.44 (producto de piernas) · prob. 63% · ventaja -9%  
-
-## Valencia vs Real Madrid — 07/11 · 21:00
-
-👀 candidata · 🇪🇸 LaLiga · **Menos de 11.5 córners** @ **1.40** (Unibet) · prob 68% vs casas 66% · ventaja -5%
-
-- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 0.88 - 1.69)  
-1 14% · X 24% · 2 62%  
-1X 38% · X2 86% · 12 76%  
-+1.5 73% · +2.5 47% · +3.5 26% · Ambos marcan 48%  
-Marcadores: 0-1 12% · 1-1 12% · 0-2 11% · 1-2 10%  
-🔎 **Claves**  
-• Forma: Valencia ❌➖➖❌✅ | Real Madrid ❌✅✅✅✅  
-• H2H: 42 desde 2005: 9V-9E-24D · 3.4 goles/partido · +2.5 en 69%  
-• Bajas: Valencia: 3 fuera, 1 duda (Jose Copete, Diego Lopez, Sergi Canos); Real Madrid: 2 fuera, 2 duda (Vinicius Junior, Rodrygo)  
-• Favorito de las casas: Real Madrid @ 1.30  
-📐 **Estadísticas esperadas**  
-Córners 3.9 - 6.0: total +10.5 41% · Valencia +5.5 23% · Real Madrid +4.5 65%  
-Tarjetas 2.7 - 2.2: total +4.5 53% · Valencia +2.5 50% · Real Madrid +2.5 39%  
-Faltas 14.2 - 9.9: total +25.5 39% · Valencia +12.5 65% · Real Madrid +12.5 21%  
-Tiros a puerta 3.1 - 5.8: total +9.5 40% · Valencia +4.5 21% · Real Madrid +4.5 66%  
-🧩 Crear apuesta: Menos de 12.5 faltas de Real Madrid + Menos de 4.5 tiros a puerta de Valencia + Menos de 5.5 córners de Valencia → prob. 49%, cuota justa 2.02 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 12.5 faltas de Real Madrid + Menos de 4.5 tiros a puerta de Valencia + Menos de 5.5 córners de Valencia + Menos de 2.5 tarjetas de Real Madrid → prob. 33%, cuota justa 3.00  
-🎯 No simulada (con cuota: Menos de 4.5 tiros a puerta de Valencia + Menos de 5.5 córners de Valencia): cuota Unibet aprox. 1.44 (producto de piernas) · prob. 63% · ventaja -9%  
-
-## Valencia vs Real Madrid — 07/11 · 21:00
-
-👀 candidata · 🇪🇸 LaLiga · **Más de 6.5 córners** @ **1.11** (Unibet) · prob 84% vs casas 82% · ventaja -7%
-
-- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 0.88 - 1.69)  
-1 14% · X 24% · 2 62%  
-1X 38% · X2 86% · 12 76%  
-+1.5 73% · +2.5 47% · +3.5 26% · Ambos marcan 48%  
-Marcadores: 0-1 12% · 1-1 12% · 0-2 11% · 1-2 10%  
-🔎 **Claves**  
-• Forma: Valencia ❌➖➖❌✅ | Real Madrid ❌✅✅✅✅  
-• H2H: 42 desde 2005: 9V-9E-24D · 3.4 goles/partido · +2.5 en 69%  
-• Bajas: Valencia: 3 fuera, 1 duda (Jose Copete, Diego Lopez, Sergi Canos); Real Madrid: 2 fuera, 2 duda (Vinicius Junior, Rodrygo)  
-• Favorito de las casas: Real Madrid @ 1.30  
-📐 **Estadísticas esperadas**  
-Córners 3.9 - 6.0: total +10.5 41% · Valencia +5.5 23% · Real Madrid +4.5 65%  
-Tarjetas 2.7 - 2.2: total +4.5 53% · Valencia +2.5 50% · Real Madrid +2.5 39%  
-Faltas 14.2 - 9.9: total +25.5 39% · Valencia +12.5 65% · Real Madrid +12.5 21%  
-Tiros a puerta 3.1 - 5.8: total +9.5 40% · Valencia +4.5 21% · Real Madrid +4.5 66%  
-🧩 Crear apuesta: Menos de 12.5 faltas de Real Madrid + Menos de 4.5 tiros a puerta de Valencia + Menos de 5.5 córners de Valencia → prob. 49%, cuota justa 2.02 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 12.5 faltas de Real Madrid + Menos de 4.5 tiros a puerta de Valencia + Menos de 5.5 córners de Valencia + Menos de 2.5 tarjetas de Real Madrid → prob. 33%, cuota justa 3.00  
-🎯 No simulada (con cuota: Menos de 4.5 tiros a puerta de Valencia + Menos de 5.5 córners de Valencia): cuota Unibet aprox. 1.44 (producto de piernas) · prob. 63% · ventaja -9%  
+Actualizado 07/11/2026 21:04 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Paris SG vs Troyes — 07/11 · 21:05
 
@@ -11518,6 +10433,8 @@ Tarjetas 1.9 - 2.1: total +4.5 37% · Lens +2.5 31% · Marseille +2.5 34%
 Faltas 12.1 - 12.3: total +24.5 47% · Lens +11.5 54% · Marseille +12.5 45%  
 Tiros a puerta 5.3 - 3.9: total +9.5 44% · Lens +5.5 44% · Marseille +4.5 35%  
 🧩 Crear apuesta: Menos de 2.5 tarjetas de Lens + Menos de 10.5 córners + Menos de 4.5 tiros a puerta de Marseille → prob. 30%, cuota justa 3.30 (solo vale si la casa paga más)  
+🎯 Simulada (crear apuesta): cuota Unibet aprox. 3.65 (producto de piernas) · prob. 30% · ventaja +11% → 1 u en la banca de simulación  
+🎯 Simulada (con cuota: Menos de 10.5 córners + Menos de 4.5 tiros a puerta de Marseille): cuota Unibet aprox. 2.69 (producto de piernas) · prob. 43% · ventaja +16% → 1 u en la banca de simulación  
 
 ## Fiorentina vs Juventus — 08/11 · 20:45
 
@@ -11543,6 +10460,319 @@ Faltas 10.5 - 13.9: total +22.5 62% · Fiorentina +11.5 36% · Juventus +11.5 72
 Tiros a puerta 4.0 - 4.7: total +9.5 37% · Fiorentina +4.5 37% · Juventus +4.5 49%  
 🧩 Crear apuesta: Más de 11.5 faltas de Juventus + Menos de 2.5 tarjetas de Juventus + Menos de 5.5 córners de Fiorentina → prob. 29%, cuota justa 3.49 (solo vale si la casa paga más)  
 🚀 Combinada larga: Más de 11.5 faltas de Juventus + Menos de 2.5 tarjetas de Juventus + Menos de 5.5 córners de Fiorentina + Menos de 4.5 tiros a puerta de Fiorentina + Menos de 2.5 goles → prob. 14%, cuota justa 7.33  
+🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Juventus + Menos de 4.5 tiros a puerta de Fiorentina + Menos de 2.5 goles): cuota Unibet aprox. 4.64 (producto de piernas) · prob. 28% · ventaja +32% → 1 u en la banca de simulación  
+
+## Lens vs Marseille — 08/11 · 20:45
+
+👀 candidata · 🇫🇷 Ligue 1 · **Más de 6.5 córners** @ **1.15** (Unibet) · prob 80% vs casas 79% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.55 - 1.22)  
+1 46% · X 28% · 2 26%  
+1X 74% · X2 54% · 12 72%  
++1.5 77% · +2.5 52% · +3.5 30% · Ambos marcan 56%  
+Marcadores: 1-1 12% · 2-1 9% · 1-0 9% · 2-0 7%  
+🔎 **Claves**  
+• Forma: Lens ❌✅✅✅❌ | Marseille ❌✅✅✅✅  
+• H2H: 24 desde 2005: 10V-5E-9D · 2.4 goles/partido · +2.5 en 42%  
+• Bajas: Lens: 2 fuera, 4 duda (Maik Nawrocki, Jhoanner Chavez); Marseille: 0 fuera, 2 duda  
+• Favorito de las casas: Lens @ 2.30  
+📐 **Estadísticas esperadas**  
+Córners 5.4 - 4.0: total +10.5 35% · Lens +5.5 44% · Marseille +4.5 37%  
+Tarjetas 1.9 - 2.1: total +4.5 37% · Lens +2.5 31% · Marseille +2.5 34%  
+Faltas 12.1 - 12.3: total +24.5 47% · Lens +11.5 54% · Marseille +12.5 45%  
+Tiros a puerta 5.3 - 3.9: total +9.5 44% · Lens +5.5 44% · Marseille +4.5 35%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Lens + Menos de 10.5 córners + Menos de 4.5 tiros a puerta de Marseille → prob. 30%, cuota justa 3.30 (solo vale si la casa paga más)  
+🎯 Simulada (crear apuesta): cuota Unibet aprox. 3.65 (producto de piernas) · prob. 30% · ventaja +11% → 1 u en la banca de simulación  
+🎯 Simulada (con cuota: Menos de 10.5 córners + Menos de 4.5 tiros a puerta de Marseille): cuota Unibet aprox. 2.69 (producto de piernas) · prob. 43% · ventaja +16% → 1 u en la banca de simulación  
+
+## Lens vs Marseille — 08/11 · 20:45
+
+👀 candidata · 🇫🇷 Ligue 1 · **Menos de 12.5 córners** @ **1.19** (Unibet) · prob 80% vs casas 78% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.55 - 1.22)  
+1 46% · X 28% · 2 26%  
+1X 74% · X2 54% · 12 72%  
++1.5 77% · +2.5 52% · +3.5 30% · Ambos marcan 56%  
+Marcadores: 1-1 12% · 2-1 9% · 1-0 9% · 2-0 7%  
+🔎 **Claves**  
+• Forma: Lens ❌✅✅✅❌ | Marseille ❌✅✅✅✅  
+• H2H: 24 desde 2005: 10V-5E-9D · 2.4 goles/partido · +2.5 en 42%  
+• Bajas: Lens: 2 fuera, 4 duda (Maik Nawrocki, Jhoanner Chavez); Marseille: 0 fuera, 2 duda  
+• Favorito de las casas: Lens @ 2.30  
+📐 **Estadísticas esperadas**  
+Córners 5.4 - 4.0: total +10.5 35% · Lens +5.5 44% · Marseille +4.5 37%  
+Tarjetas 1.9 - 2.1: total +4.5 37% · Lens +2.5 31% · Marseille +2.5 34%  
+Faltas 12.1 - 12.3: total +24.5 47% · Lens +11.5 54% · Marseille +12.5 45%  
+Tiros a puerta 5.3 - 3.9: total +9.5 44% · Lens +5.5 44% · Marseille +4.5 35%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Lens + Menos de 10.5 córners + Menos de 4.5 tiros a puerta de Marseille → prob. 30%, cuota justa 3.30 (solo vale si la casa paga más)  
+🎯 Simulada (crear apuesta): cuota Unibet aprox. 3.65 (producto de piernas) · prob. 30% · ventaja +11% → 1 u en la banca de simulación  
+🎯 Simulada (con cuota: Menos de 10.5 córners + Menos de 4.5 tiros a puerta de Marseille): cuota Unibet aprox. 2.69 (producto de piernas) · prob. 43% · ventaja +16% → 1 u en la banca de simulación  
+
+## Lens vs Marseille — 08/11 · 20:45
+
+👀 candidata · 🇫🇷 Ligue 1 · **Más de 5.5 córners de Lens** @ **2.25** (Unibet) · prob 42% vs casas 41% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.55 - 1.22)  
+1 46% · X 28% · 2 26%  
+1X 74% · X2 54% · 12 72%  
++1.5 77% · +2.5 52% · +3.5 30% · Ambos marcan 56%  
+Marcadores: 1-1 12% · 2-1 9% · 1-0 9% · 2-0 7%  
+🔎 **Claves**  
+• Forma: Lens ❌✅✅✅❌ | Marseille ❌✅✅✅✅  
+• H2H: 24 desde 2005: 10V-5E-9D · 2.4 goles/partido · +2.5 en 42%  
+• Bajas: Lens: 2 fuera, 4 duda (Maik Nawrocki, Jhoanner Chavez); Marseille: 0 fuera, 2 duda  
+• Favorito de las casas: Lens @ 2.30  
+📐 **Estadísticas esperadas**  
+Córners 5.4 - 4.0: total +10.5 35% · Lens +5.5 44% · Marseille +4.5 37%  
+Tarjetas 1.9 - 2.1: total +4.5 37% · Lens +2.5 31% · Marseille +2.5 34%  
+Faltas 12.1 - 12.3: total +24.5 47% · Lens +11.5 54% · Marseille +12.5 45%  
+Tiros a puerta 5.3 - 3.9: total +9.5 44% · Lens +5.5 44% · Marseille +4.5 35%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Lens + Menos de 10.5 córners + Menos de 4.5 tiros a puerta de Marseille → prob. 30%, cuota justa 3.30 (solo vale si la casa paga más)  
+🎯 Simulada (crear apuesta): cuota Unibet aprox. 3.65 (producto de piernas) · prob. 30% · ventaja +11% → 1 u en la banca de simulación  
+🎯 Simulada (con cuota: Menos de 10.5 córners + Menos de 4.5 tiros a puerta de Marseille): cuota Unibet aprox. 2.69 (producto de piernas) · prob. 43% · ventaja +16% → 1 u en la banca de simulación  
+
+## Lens vs Marseille — 08/11 · 20:45
+
+👀 candidata · 🇫🇷 Ligue 1 · **Menos de 7.5 córners de Lens** @ **1.16** (Unibet) · prob 79% vs casas 79% · ventaja -9%
+
+- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.55 - 1.22)  
+1 46% · X 28% · 2 26%  
+1X 74% · X2 54% · 12 72%  
++1.5 77% · +2.5 52% · +3.5 30% · Ambos marcan 56%  
+Marcadores: 1-1 12% · 2-1 9% · 1-0 9% · 2-0 7%  
+🔎 **Claves**  
+• Forma: Lens ❌✅✅✅❌ | Marseille ❌✅✅✅✅  
+• H2H: 24 desde 2005: 10V-5E-9D · 2.4 goles/partido · +2.5 en 42%  
+• Bajas: Lens: 2 fuera, 4 duda (Maik Nawrocki, Jhoanner Chavez); Marseille: 0 fuera, 2 duda  
+• Favorito de las casas: Lens @ 2.30  
+📐 **Estadísticas esperadas**  
+Córners 5.4 - 4.0: total +10.5 35% · Lens +5.5 44% · Marseille +4.5 37%  
+Tarjetas 1.9 - 2.1: total +4.5 37% · Lens +2.5 31% · Marseille +2.5 34%  
+Faltas 12.1 - 12.3: total +24.5 47% · Lens +11.5 54% · Marseille +12.5 45%  
+Tiros a puerta 5.3 - 3.9: total +9.5 44% · Lens +5.5 44% · Marseille +4.5 35%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Lens + Menos de 10.5 córners + Menos de 4.5 tiros a puerta de Marseille → prob. 30%, cuota justa 3.30 (solo vale si la casa paga más)  
+🎯 Simulada (crear apuesta): cuota Unibet aprox. 3.65 (producto de piernas) · prob. 30% · ventaja +11% → 1 u en la banca de simulación  
+🎯 Simulada (con cuota: Menos de 10.5 córners + Menos de 4.5 tiros a puerta de Marseille): cuota Unibet aprox. 2.69 (producto de piernas) · prob. 43% · ventaja +16% → 1 u en la banca de simulación  
+
+## Lens vs Marseille — 08/11 · 20:45
+
+👀 candidata · 🇫🇷 Ligue 1 · **Más de 2.5 córners de Marseille** @ **1.22** (Unibet) · prob 73% vs casas 75% · ventaja -11%
+
+- ❌ Valor: ventaja -11% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.55 - 1.22)  
+1 46% · X 28% · 2 26%  
+1X 74% · X2 54% · 12 72%  
++1.5 77% · +2.5 52% · +3.5 30% · Ambos marcan 56%  
+Marcadores: 1-1 12% · 2-1 9% · 1-0 9% · 2-0 7%  
+🔎 **Claves**  
+• Forma: Lens ❌✅✅✅❌ | Marseille ❌✅✅✅✅  
+• H2H: 24 desde 2005: 10V-5E-9D · 2.4 goles/partido · +2.5 en 42%  
+• Bajas: Lens: 2 fuera, 4 duda (Maik Nawrocki, Jhoanner Chavez); Marseille: 0 fuera, 2 duda  
+• Favorito de las casas: Lens @ 2.30  
+📐 **Estadísticas esperadas**  
+Córners 5.4 - 4.0: total +10.5 35% · Lens +5.5 44% · Marseille +4.5 37%  
+Tarjetas 1.9 - 2.1: total +4.5 37% · Lens +2.5 31% · Marseille +2.5 34%  
+Faltas 12.1 - 12.3: total +24.5 47% · Lens +11.5 54% · Marseille +12.5 45%  
+Tiros a puerta 5.3 - 3.9: total +9.5 44% · Lens +5.5 44% · Marseille +4.5 35%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Lens + Menos de 10.5 córners + Menos de 4.5 tiros a puerta de Marseille → prob. 30%, cuota justa 3.30 (solo vale si la casa paga más)  
+🎯 Simulada (crear apuesta): cuota Unibet aprox. 3.65 (producto de piernas) · prob. 30% · ventaja +11% → 1 u en la banca de simulación  
+🎯 Simulada (con cuota: Menos de 10.5 córners + Menos de 4.5 tiros a puerta de Marseille): cuota Unibet aprox. 2.69 (producto de piernas) · prob. 43% · ventaja +16% → 1 u en la banca de simulación  
+
+## Lens vs Marseille — 08/11 · 20:45
+
+👀 candidata · 🇫🇷 Ligue 1 · **Menos de 3.5 córners de Marseille** @ **2.30** (Unibet) · prob 43% vs casas 40% · ventaja -0%
+
+- ❌ Valor: ventaja -0% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.55 - 1.22)  
+1 46% · X 28% · 2 26%  
+1X 74% · X2 54% · 12 72%  
++1.5 77% · +2.5 52% · +3.5 30% · Ambos marcan 56%  
+Marcadores: 1-1 12% · 2-1 9% · 1-0 9% · 2-0 7%  
+🔎 **Claves**  
+• Forma: Lens ❌✅✅✅❌ | Marseille ❌✅✅✅✅  
+• H2H: 24 desde 2005: 10V-5E-9D · 2.4 goles/partido · +2.5 en 42%  
+• Bajas: Lens: 2 fuera, 4 duda (Maik Nawrocki, Jhoanner Chavez); Marseille: 0 fuera, 2 duda  
+• Favorito de las casas: Lens @ 2.30  
+📐 **Estadísticas esperadas**  
+Córners 5.4 - 4.0: total +10.5 35% · Lens +5.5 44% · Marseille +4.5 37%  
+Tarjetas 1.9 - 2.1: total +4.5 37% · Lens +2.5 31% · Marseille +2.5 34%  
+Faltas 12.1 - 12.3: total +24.5 47% · Lens +11.5 54% · Marseille +12.5 45%  
+Tiros a puerta 5.3 - 3.9: total +9.5 44% · Lens +5.5 44% · Marseille +4.5 35%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Lens + Menos de 10.5 córners + Menos de 4.5 tiros a puerta de Marseille → prob. 30%, cuota justa 3.30 (solo vale si la casa paga más)  
+🎯 Simulada (crear apuesta): cuota Unibet aprox. 3.65 (producto de piernas) · prob. 30% · ventaja +11% → 1 u en la banca de simulación  
+🎯 Simulada (con cuota: Menos de 10.5 córners + Menos de 4.5 tiros a puerta de Marseille): cuota Unibet aprox. 2.69 (producto de piernas) · prob. 43% · ventaja +16% → 1 u en la banca de simulación  
+
+## Fiorentina vs Juventus — 08/11 · 20:45
+
+👀 candidata · 🇮🇹 Serie A · **Más de 8.5 córners** @ **1.55** (Unibet) · prob 62% vs casas 60% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.09 - 1.27)  
+1 25% · X 29% · 2 46%  
+1X 54% · X2 75% · 12 71%  
++1.5 69% · +2.5 42% · +3.5 21% · Ambos marcan 48%  
+Marcadores: 1-1 14% · 0-1 11% · 0-0 10% · 1-0 10%  
+🔎 **Claves**  
+• Forma: Fiorentina ❌❌❌➖✅ | Juventus ➖❌✅❌✅  
+• H2H: 40 desde 2005: 7V-13E-20D · 2.3 goles/partido · +2.5 en 42%  
+• Bajas: Fiorentina: 5 fuera, 5 duda (Roberto Piccoli, Marin Pongracic, Luca Ranieri); Juventus: 8 fuera, 2 duda (Gleison Bremer, Mehmet Zeki Celik, Chico Conceicao)  
+• Favorito de las casas: Juventus @ 2.10  
+📐 **Estadísticas esperadas**  
+Córners 4.9 - 5.0: total +9.5 52% · Fiorentina +5.5 36% · Juventus +4.5 53%  
+Tarjetas 2.0 - 2.0: total +3.5 55% · Fiorentina +1.5 58% · Juventus +2.5 33%  
+Faltas 10.5 - 13.9: total +22.5 62% · Fiorentina +11.5 36% · Juventus +11.5 72%  
+Tiros a puerta 4.0 - 4.7: total +9.5 37% · Fiorentina +4.5 37% · Juventus +4.5 49%  
+🧩 Crear apuesta: Más de 11.5 faltas de Juventus + Menos de 2.5 tarjetas de Juventus + Menos de 5.5 córners de Fiorentina → prob. 29%, cuota justa 3.49 (solo vale si la casa paga más)  
+🚀 Combinada larga: Más de 11.5 faltas de Juventus + Menos de 2.5 tarjetas de Juventus + Menos de 5.5 córners de Fiorentina + Menos de 4.5 tiros a puerta de Fiorentina + Menos de 2.5 goles → prob. 14%, cuota justa 7.33  
+🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Juventus + Menos de 4.5 tiros a puerta de Fiorentina + Menos de 2.5 goles): cuota Unibet aprox. 4.64 (producto de piernas) · prob. 28% · ventaja +32% → 1 u en la banca de simulación  
+
+## Fiorentina vs Juventus — 08/11 · 20:45
+
+👀 candidata · 🇮🇹 Serie A · **Menos de 13.5 córners** @ **1.08** (Unibet) · prob 85% vs casas 84% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.09 - 1.27)  
+1 25% · X 29% · 2 46%  
+1X 54% · X2 75% · 12 71%  
++1.5 69% · +2.5 42% · +3.5 21% · Ambos marcan 48%  
+Marcadores: 1-1 14% · 0-1 11% · 0-0 10% · 1-0 10%  
+🔎 **Claves**  
+• Forma: Fiorentina ❌❌❌➖✅ | Juventus ➖❌✅❌✅  
+• H2H: 40 desde 2005: 7V-13E-20D · 2.3 goles/partido · +2.5 en 42%  
+• Bajas: Fiorentina: 5 fuera, 5 duda (Roberto Piccoli, Marin Pongracic, Luca Ranieri); Juventus: 8 fuera, 2 duda (Gleison Bremer, Mehmet Zeki Celik, Chico Conceicao)  
+• Favorito de las casas: Juventus @ 2.10  
+📐 **Estadísticas esperadas**  
+Córners 4.9 - 5.0: total +9.5 52% · Fiorentina +5.5 36% · Juventus +4.5 53%  
+Tarjetas 2.0 - 2.0: total +3.5 55% · Fiorentina +1.5 58% · Juventus +2.5 33%  
+Faltas 10.5 - 13.9: total +22.5 62% · Fiorentina +11.5 36% · Juventus +11.5 72%  
+Tiros a puerta 4.0 - 4.7: total +9.5 37% · Fiorentina +4.5 37% · Juventus +4.5 49%  
+🧩 Crear apuesta: Más de 11.5 faltas de Juventus + Menos de 2.5 tarjetas de Juventus + Menos de 5.5 córners de Fiorentina → prob. 29%, cuota justa 3.49 (solo vale si la casa paga más)  
+🚀 Combinada larga: Más de 11.5 faltas de Juventus + Menos de 2.5 tarjetas de Juventus + Menos de 5.5 córners de Fiorentina + Menos de 4.5 tiros a puerta de Fiorentina + Menos de 2.5 goles → prob. 14%, cuota justa 7.33  
+🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Juventus + Menos de 4.5 tiros a puerta de Fiorentina + Menos de 2.5 goles): cuota Unibet aprox. 4.64 (producto de piernas) · prob. 28% · ventaja +32% → 1 u en la banca de simulación  
+
+## Fiorentina vs Juventus — 08/11 · 20:45
+
+👀 candidata · 🇮🇹 Serie A · **Menos de 6.5 córners de Juventus** @ **1.28** (Unibet) · prob 73% vs casas 72% · ventaja -7%
+
+- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.09 - 1.27)  
+1 25% · X 29% · 2 46%  
+1X 54% · X2 75% · 12 71%  
++1.5 69% · +2.5 42% · +3.5 21% · Ambos marcan 48%  
+Marcadores: 1-1 14% · 0-1 11% · 0-0 10% · 1-0 10%  
+🔎 **Claves**  
+• Forma: Fiorentina ❌❌❌➖✅ | Juventus ➖❌✅❌✅  
+• H2H: 40 desde 2005: 7V-13E-20D · 2.3 goles/partido · +2.5 en 42%  
+• Bajas: Fiorentina: 5 fuera, 5 duda (Roberto Piccoli, Marin Pongracic, Luca Ranieri); Juventus: 8 fuera, 2 duda (Gleison Bremer, Mehmet Zeki Celik, Chico Conceicao)  
+• Favorito de las casas: Juventus @ 2.10  
+📐 **Estadísticas esperadas**  
+Córners 4.9 - 5.0: total +9.5 52% · Fiorentina +5.5 36% · Juventus +4.5 53%  
+Tarjetas 2.0 - 2.0: total +3.5 55% · Fiorentina +1.5 58% · Juventus +2.5 33%  
+Faltas 10.5 - 13.9: total +22.5 62% · Fiorentina +11.5 36% · Juventus +11.5 72%  
+Tiros a puerta 4.0 - 4.7: total +9.5 37% · Fiorentina +4.5 37% · Juventus +4.5 49%  
+🧩 Crear apuesta: Más de 11.5 faltas de Juventus + Menos de 2.5 tarjetas de Juventus + Menos de 5.5 córners de Fiorentina → prob. 29%, cuota justa 3.49 (solo vale si la casa paga más)  
+🚀 Combinada larga: Más de 11.5 faltas de Juventus + Menos de 2.5 tarjetas de Juventus + Menos de 5.5 córners de Fiorentina + Menos de 4.5 tiros a puerta de Fiorentina + Menos de 2.5 goles → prob. 14%, cuota justa 7.33  
+🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Juventus + Menos de 4.5 tiros a puerta de Fiorentina + Menos de 2.5 goles): cuota Unibet aprox. 4.64 (producto de piernas) · prob. 28% · ventaja +32% → 1 u en la banca de simulación  
+
+## Fiorentina vs Juventus — 08/11 · 20:45
+
+👀 candidata · 🇮🇹 Serie A · **Más de 2.5 córners de Juventus** @ **1.15** (Unibet) · prob 81% vs casas 80% · ventaja -7%
+
+- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.09 - 1.27)  
+1 25% · X 29% · 2 46%  
+1X 54% · X2 75% · 12 71%  
++1.5 69% · +2.5 42% · +3.5 21% · Ambos marcan 48%  
+Marcadores: 1-1 14% · 0-1 11% · 0-0 10% · 1-0 10%  
+🔎 **Claves**  
+• Forma: Fiorentina ❌❌❌➖✅ | Juventus ➖❌✅❌✅  
+• H2H: 40 desde 2005: 7V-13E-20D · 2.3 goles/partido · +2.5 en 42%  
+• Bajas: Fiorentina: 5 fuera, 5 duda (Roberto Piccoli, Marin Pongracic, Luca Ranieri); Juventus: 8 fuera, 2 duda (Gleison Bremer, Mehmet Zeki Celik, Chico Conceicao)  
+• Favorito de las casas: Juventus @ 2.10  
+📐 **Estadísticas esperadas**  
+Córners 4.9 - 5.0: total +9.5 52% · Fiorentina +5.5 36% · Juventus +4.5 53%  
+Tarjetas 2.0 - 2.0: total +3.5 55% · Fiorentina +1.5 58% · Juventus +2.5 33%  
+Faltas 10.5 - 13.9: total +22.5 62% · Fiorentina +11.5 36% · Juventus +11.5 72%  
+Tiros a puerta 4.0 - 4.7: total +9.5 37% · Fiorentina +4.5 37% · Juventus +4.5 49%  
+🧩 Crear apuesta: Más de 11.5 faltas de Juventus + Menos de 2.5 tarjetas de Juventus + Menos de 5.5 córners de Fiorentina → prob. 29%, cuota justa 3.49 (solo vale si la casa paga más)  
+🚀 Combinada larga: Más de 11.5 faltas de Juventus + Menos de 2.5 tarjetas de Juventus + Menos de 5.5 córners de Fiorentina + Menos de 4.5 tiros a puerta de Fiorentina + Menos de 2.5 goles → prob. 14%, cuota justa 7.33  
+🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Juventus + Menos de 4.5 tiros a puerta de Fiorentina + Menos de 2.5 goles): cuota Unibet aprox. 4.64 (producto de piernas) · prob. 28% · ventaja +32% → 1 u en la banca de simulación  
+
+## Fiorentina vs Juventus — 08/11 · 20:45
+
+👀 candidata · 🇮🇹 Serie A · **Más de 4.5 córners de Fiorentina** @ **2.00** (Unibet) · prob 48% vs casas 46% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.09 - 1.27)  
+1 25% · X 29% · 2 46%  
+1X 54% · X2 75% · 12 71%  
++1.5 69% · +2.5 42% · +3.5 21% · Ambos marcan 48%  
+Marcadores: 1-1 14% · 0-1 11% · 0-0 10% · 1-0 10%  
+🔎 **Claves**  
+• Forma: Fiorentina ❌❌❌➖✅ | Juventus ➖❌✅❌✅  
+• H2H: 40 desde 2005: 7V-13E-20D · 2.3 goles/partido · +2.5 en 42%  
+• Bajas: Fiorentina: 5 fuera, 5 duda (Roberto Piccoli, Marin Pongracic, Luca Ranieri); Juventus: 8 fuera, 2 duda (Gleison Bremer, Mehmet Zeki Celik, Chico Conceicao)  
+• Favorito de las casas: Juventus @ 2.10  
+📐 **Estadísticas esperadas**  
+Córners 4.9 - 5.0: total +9.5 52% · Fiorentina +5.5 36% · Juventus +4.5 53%  
+Tarjetas 2.0 - 2.0: total +3.5 55% · Fiorentina +1.5 58% · Juventus +2.5 33%  
+Faltas 10.5 - 13.9: total +22.5 62% · Fiorentina +11.5 36% · Juventus +11.5 72%  
+Tiros a puerta 4.0 - 4.7: total +9.5 37% · Fiorentina +4.5 37% · Juventus +4.5 49%  
+🧩 Crear apuesta: Más de 11.5 faltas de Juventus + Menos de 2.5 tarjetas de Juventus + Menos de 5.5 córners de Fiorentina → prob. 29%, cuota justa 3.49 (solo vale si la casa paga más)  
+🚀 Combinada larga: Más de 11.5 faltas de Juventus + Menos de 2.5 tarjetas de Juventus + Menos de 5.5 córners de Fiorentina + Menos de 4.5 tiros a puerta de Fiorentina + Menos de 2.5 goles → prob. 14%, cuota justa 7.33  
+🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Juventus + Menos de 4.5 tiros a puerta de Fiorentina + Menos de 2.5 goles): cuota Unibet aprox. 4.64 (producto de piernas) · prob. 28% · ventaja +32% → 1 u en la banca de simulación  
+
+## Fiorentina vs Juventus — 08/11 · 20:45
+
+👀 candidata · 🇮🇹 Serie A · **Menos de 6.5 córners de Fiorentina** @ **1.20** (Unibet) · prob 76% vs casas 76% · ventaja -9%
+
+- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.09 - 1.27)  
+1 25% · X 29% · 2 46%  
+1X 54% · X2 75% · 12 71%  
++1.5 69% · +2.5 42% · +3.5 21% · Ambos marcan 48%  
+Marcadores: 1-1 14% · 0-1 11% · 0-0 10% · 1-0 10%  
+🔎 **Claves**  
+• Forma: Fiorentina ❌❌❌➖✅ | Juventus ➖❌✅❌✅  
+• H2H: 40 desde 2005: 7V-13E-20D · 2.3 goles/partido · +2.5 en 42%  
+• Bajas: Fiorentina: 5 fuera, 5 duda (Roberto Piccoli, Marin Pongracic, Luca Ranieri); Juventus: 8 fuera, 2 duda (Gleison Bremer, Mehmet Zeki Celik, Chico Conceicao)  
+• Favorito de las casas: Juventus @ 2.10  
+📐 **Estadísticas esperadas**  
+Córners 4.9 - 5.0: total +9.5 52% · Fiorentina +5.5 36% · Juventus +4.5 53%  
+Tarjetas 2.0 - 2.0: total +3.5 55% · Fiorentina +1.5 58% · Juventus +2.5 33%  
+Faltas 10.5 - 13.9: total +22.5 62% · Fiorentina +11.5 36% · Juventus +11.5 72%  
+Tiros a puerta 4.0 - 4.7: total +9.5 37% · Fiorentina +4.5 37% · Juventus +4.5 49%  
+🧩 Crear apuesta: Más de 11.5 faltas de Juventus + Menos de 2.5 tarjetas de Juventus + Menos de 5.5 córners de Fiorentina → prob. 29%, cuota justa 3.49 (solo vale si la casa paga más)  
+🚀 Combinada larga: Más de 11.5 faltas de Juventus + Menos de 2.5 tarjetas de Juventus + Menos de 5.5 córners de Fiorentina + Menos de 4.5 tiros a puerta de Fiorentina + Menos de 2.5 goles → prob. 14%, cuota justa 7.33  
+🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Juventus + Menos de 4.5 tiros a puerta de Fiorentina + Menos de 2.5 goles): cuota Unibet aprox. 4.64 (producto de piernas) · prob. 28% · ventaja +32% → 1 u en la banca de simulación  
 
 ## Ath Madrid vs Barcelona — 08/11 · 21:00
 
