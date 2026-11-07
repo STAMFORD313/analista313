@@ -1404,5 +1404,58 @@
   "estado": "pendiente",
   "avisada": false,
   "rev": 1
+ },
+ {
+  "id": "20261107162733746906",
+  "creada": "2026-11-07 16:27:33.746950+00:00",
+  "titulo": "Barrido · Combinada cuota 13.1",
+  "legs": [
+   {
+    "src": "esports:dota2",
+    "side": "A",
+    "code": null,
+    "start": "2026-11-07 19:00:00+00:00",
+    "home": "Amaru Gaming",
+    "away": "Zero Tenacity",
+    "txt": "Gana Zero Tenacity",
+    "odds": 1.51,
+    "p": 0.7085011037527593
+   },
+   {
+    "code": "I1",
+    "start": "2026-11-07 19:45:00+00:00",
+    "home": "AS Roma",
+    "away": "Sassuolo",
+    "txt": "Más de 3.5 tarjetas",
+    "odds": 2.35,
+    "p": 0.44608750455713586
+   },
+   {
+    "code": null,
+    "start": "2026-11-07 23:00:00+00:00",
+    "home": "FBC Melgar",
+    "away": "Juan Pablo II College",
+    "txt": "Gana FBC Melgar",
+    "odds": 1.42,
+    "p": 0.7703
+   },
+   {
+    "src": "espn:nba",
+    "side": "H",
+    "code": null,
+    "start": "2026-11-08 01:00:00+00:00",
+    "home": "Cleveland Cavaliers",
+    "away": "New York Knicks",
+    "txt": "Gana Cleveland Cavaliers",
+    "odds": 2.6,
+    "p": 0.4012
+   }
+  ],
+  "odds": 13.1,
+  "p": 0.09767454834164238,
+  "stake": 1.0,
+  "estado": "pendiente",
+  "avisada": false,
+  "rev": 1
  }
 ]
