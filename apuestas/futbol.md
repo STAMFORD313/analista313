@@ -1,741 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 07/11/2026 13:21 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Leeds vs Tottenham — 07/11 · 13:30
-
-👀 candidata · 🏴 Premier League · **Leeds +0 (hándicap asiático)** @ **2.00** (mejor del mercado) · prob 49% vs casas 49% · ventaja -2%
-
-- ❌ Valor: ventaja -2% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ hándicap» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.41 - 1.35)  
-1 38% · X 28% · 2 34%  
-1X 66% · X2 62% · 12 72%  
-+1.5 77% · +2.5 52% · +3.5 30% · Ambos marcan 57%  
-Marcadores: 1-1 13% · 2-1 8% · 1-0 8% · 1-2 8%  
-🔎 **Claves**  
-• Forma: Leeds ➖❌➖➖❌ | Tottenham ❌➖✅✅✅  
-• H2H: 8 desde 2021: 1V-1E-6D · 3.9 goles/partido · +2.5 en 88%  
-• Bajas: Leeds: 2 fuera, 1 duda (Joe Rodon, Mateo Joseph); Tottenham: 4 fuera, 2 duda (Rodrigo Bentancur, Savio, Wilson Odobert)  
-• Favorito de las casas: Tottenham @ 2.60  
-📐 **Estadísticas esperadas**  
-Córners 4.9 - 4.9: total +10.5 40% · Leeds +5.5 37% · Tottenham +4.5 52%  
-Tarjetas 1.9 - 2.2: total +4.5 40% · Leeds +2.5 30% · Tottenham +2.5 39%  
-Faltas 11.8 - 12.5: total +22.5 62% · Leeds +11.5 51% · Tottenham +12.5 48%  
-Tiros a puerta 4.1 - 4.0: total +8.5 42% · Leeds +4.5 38% · Tottenham +4.5 38%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Leeds + Menos de 5.5 córners de Leeds + Menos de 4.5 tiros a puerta de Tottenham → prob. 26%, cuota justa 3.78 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Leeds + Menos de 5.5 córners de Leeds + Menos de 4.5 tiros a puerta de Tottenham + Más de 22.5 faltas → prob. 16%, cuota justa 6.33  
-🎯 No simulada (crear apuesta): cuota Unibet aprox. 3.17 (producto de piernas) · prob. 26% · ventaja -16%  
-🎯 No simulada (con cuota: Menos de 2.5 tarjetas de Leeds + Menos de 5.5 córners de Leeds): cuota Unibet aprox. 2.22 (producto de piernas) · prob. 43% · ventaja -4%  
-
-## Bristol City vs Norwich — 07/11 · 13:30
-
-👀 candidata · 🏴 Championship · **Gana Bristol City** @ **2.75** (Sky Bet) · prob 35% vs casas 35% · ventaja -3%
-
-- ❌ Valor: ventaja -3% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.29 - 1.38)  
-1 34% · X 29% · 2 36%  
-1X 64% · X2 66% · 12 71%  
-+1.5 75% · +2.5 50% · +3.5 28% · Ambos marcan 55%  
-Marcadores: 1-1 13% · 0-1 9% · 1-2 9% · 1-0 8%  
-🔎 **Claves**  
-• Forma: Bristol City ❌❌➖✅❌ | Norwich ❌❌✅✅✅  
-• H2H: 22 desde 2007: 8V-4E-10D · 2.7 goles/partido · +2.5 en 55%  
-• Bajas: Bristol City: sin bajas; Norwich: 1 fuera, 2 duda (Gabriel Forsyth)  
-• Favorito de las casas: Norwich @ 2.50  
-📐 **Estadísticas esperadas**  
-Córners 5.4 - 4.8: total +10.5 44% · Bristol City +5.5 44% · Norwich +4.5 50%  
-Tarjetas 1.7 - 2.0: total +3.5 50% · Bristol City +2.5 24% · Norwich +2.5 33%  
-Faltas 10.6 - 10.2: total +22.5 36% · Bristol City +11.5 38% · Norwich +11.5 33%  
-Tiros a puerta 4.2 - 4.3: total +9.5 35% · Bristol City +5.5 25% · Norwich +3.5 61%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Bristol City + Menos de 5.5 tiros a puerta de Bristol City + Menos de 11.5 faltas de Norwich → prob. 38%, cuota justa 2.64 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Bristol City + Menos de 5.5 tiros a puerta de Bristol City + Menos de 11.5 faltas de Norwich + Menos de 5.5 córners de Bristol City → prob. 23%, cuota justa 4.41  
-🎯 No simulada (con cuota: Menos de 5.5 tiros a puerta de Bristol City + Menos de 5.5 córners de Bristol City): cuota Unibet aprox. 1.95 (producto de piernas) · prob. 45% · ventaja -12%  
-
-## Portsmouth vs Stoke — 07/11 · 13:30
-
-👀 candidata · 🏴 Championship · **Gana Stoke** @ **3.20** (Paddy Power) · prob 30% vs casas 30% · ventaja -3%
-
-- ❌ Valor: ventaja -3% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.34 - 0.91)  
-1 46% · X 29% · 2 25%  
-1X 75% · X2 54% · 12 71%  
-+1.5 66% · +2.5 39% · +3.5 19% · Ambos marcan 45%  
-Marcadores: 1-1 14% · 1-0 13% · 0-0 11% · 2-0 9%  
-🔎 **Claves**  
-• Forma: Portsmouth ✅➖✅➖✅ | Stoke ❌✅➖✅✅  
-• H2H: 8 desde 2008: 3V-1E-4D · 3.4 goles/partido · +2.5 en 75%  
-• Bajas: Portsmouth: 1 fuera, 1 duda (Mark Kosznovszky); Stoke: sin bajas  
-• Favorito de las casas: Portsmouth @ 2.35  
-📐 **Estadísticas esperadas**  
-Córners 6.2 - 4.5: total +10.5 50% · Portsmouth +5.5 54% · Stoke +4.5 46%  
-Tarjetas 1.8 - 2.4: total +3.5 59% · Portsmouth +2.5 26% · Stoke +2.5 43%  
-Faltas 10.5 - 12.5: total +22.5 52% · Portsmouth +11.5 37% · Stoke +11.5 58%  
-Tiros a puerta 4.6 - 3.3: total +9.5 28% · Portsmouth +5.5 32% · Stoke +3.5 41%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Portsmouth + Menos de 9.5 tiros a puerta + Menos de 11.5 faltas de Portsmouth → prob. 35%, cuota justa 2.83 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Portsmouth + Menos de 9.5 tiros a puerta + Menos de 11.5 faltas de Portsmouth + Menos de 2.5 goles → prob. 25%, cuota justa 4.03  
-🎯 Simulada (con cuota: Menos de 9.5 tiros a puerta + Menos de 2.5 goles): cuota Unibet aprox. 2.21 (producto de piernas) · prob. 50% · ventaja +11% → 1 u en la banca de simulación  
-
-## Wrexham vs Wolves — 07/11 · 13:30
-
-👀 candidata · 🏴 Championship · **Más de 2.5 goles** @ **1.98** (Bet365) · prob 50% vs casas 50% · ventaja -2%
-
-- ❌ Valor: ventaja -2% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ goles» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.67 - 1.78)  
-1 32% · X 28% · 2 40%  
-1X 60% · X2 68% · 12 72%  
-+1.5 86% · +2.5 67% · +3.5 45% · Ambos marcan 68%  
-Marcadores: 1-1 10% · 1-2 8% · 2-1 8% · 2-2 7%  
-🔎 **Claves**  
-• Forma: Wrexham ❌✅❌❌✅ | Wolves ✅➖✅✅✅  
-• H2H: sin precedentes  
-• Bajas: Wrexham: sin bajas; Wolves: sin bajas  
-• Favorito de las casas: Wolves @ 2.20  
-📐 **Estadísticas esperadas**  
-Córners 5.0 - 5.3: total +10.5 45% · Wrexham +5.5 38% · Wolves +4.5 56%  
-Tarjetas 1.7 - 1.9: total +3.5 47% · Wrexham +2.5 24% · Wolves +2.5 29%  
-Faltas 10.5 - 10.3: total +22.5 35% · Wrexham +11.5 37% · Wolves +11.5 34%  
-Tiros a puerta 4.1 - 4.3: total +9.5 34% · Wrexham +5.5 24% · Wolves +3.5 61%  
-🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Wrexham + Menos de 2.5 tarjetas de Wrexham + Más de 2.5 goles → prob. 35%, cuota justa 2.87 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 tiros a puerta de Wrexham + Menos de 2.5 tarjetas de Wrexham + Más de 2.5 goles + Menos de 11.5 faltas de Wolves + Menos de 5.5 córners de Wrexham → prob. 16%, cuota justa 6.28  
-🎯 Simulada (con cuota: Más de 2.5 goles + Menos de 5.5 córners de Wrexham): cuota Unibet aprox. 2.65 (producto de piernas) · prob. 42% · ventaja +10% → 1 u en la banca de simulación  
-
-## Leeds vs Tottenham — 07/11 · 13:30
-
-👀 candidata · 🏴 Premier League · **Menos de 10.5 córners** @ **1.66** (Unibet) · prob 57% vs casas 55% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.41 - 1.35)  
-1 38% · X 28% · 2 34%  
-1X 66% · X2 62% · 12 72%  
-+1.5 77% · +2.5 52% · +3.5 30% · Ambos marcan 57%  
-Marcadores: 1-1 13% · 2-1 8% · 1-0 8% · 1-2 8%  
-🔎 **Claves**  
-• Forma: Leeds ➖❌➖➖❌ | Tottenham ❌➖✅✅✅  
-• H2H: 8 desde 2021: 1V-1E-6D · 3.9 goles/partido · +2.5 en 88%  
-• Bajas: Leeds: 2 fuera, 1 duda (Joe Rodon, Mateo Joseph); Tottenham: 4 fuera, 2 duda (Rodrigo Bentancur, Savio, Wilson Odobert)  
-• Favorito de las casas: Tottenham @ 2.60  
-📐 **Estadísticas esperadas**  
-Córners 4.9 - 4.9: total +10.5 40% · Leeds +5.5 37% · Tottenham +4.5 52%  
-Tarjetas 1.9 - 2.2: total +4.5 40% · Leeds +2.5 30% · Tottenham +2.5 39%  
-Faltas 11.8 - 12.5: total +22.5 62% · Leeds +11.5 51% · Tottenham +12.5 48%  
-Tiros a puerta 4.1 - 4.0: total +8.5 42% · Leeds +4.5 38% · Tottenham +4.5 38%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Leeds + Menos de 5.5 córners de Leeds + Menos de 4.5 tiros a puerta de Tottenham → prob. 26%, cuota justa 3.78 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Leeds + Menos de 5.5 córners de Leeds + Menos de 4.5 tiros a puerta de Tottenham + Más de 22.5 faltas → prob. 16%, cuota justa 6.33  
-🎯 No simulada (crear apuesta): cuota Unibet aprox. 3.17 (producto de piernas) · prob. 26% · ventaja -16%  
-🎯 No simulada (con cuota: Menos de 2.5 tarjetas de Leeds + Menos de 5.5 córners de Leeds): cuota Unibet aprox. 2.22 (producto de piernas) · prob. 43% · ventaja -4%  
-
-## Leeds vs Tottenham — 07/11 · 13:30
-
-👀 candidata · 🏴 Premier League · **Más de 6.5 córners** @ **1.10** (Unibet) · prob 84% vs casas 83% · ventaja -8%
-
-- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.41 - 1.35)  
-1 38% · X 28% · 2 34%  
-1X 66% · X2 62% · 12 72%  
-+1.5 77% · +2.5 52% · +3.5 30% · Ambos marcan 57%  
-Marcadores: 1-1 13% · 2-1 8% · 1-0 8% · 1-2 8%  
-🔎 **Claves**  
-• Forma: Leeds ➖❌➖➖❌ | Tottenham ❌➖✅✅✅  
-• H2H: 8 desde 2021: 1V-1E-6D · 3.9 goles/partido · +2.5 en 88%  
-• Bajas: Leeds: 2 fuera, 1 duda (Joe Rodon, Mateo Joseph); Tottenham: 4 fuera, 2 duda (Rodrigo Bentancur, Savio, Wilson Odobert)  
-• Favorito de las casas: Tottenham @ 2.60  
-📐 **Estadísticas esperadas**  
-Córners 4.9 - 4.9: total +10.5 40% · Leeds +5.5 37% · Tottenham +4.5 52%  
-Tarjetas 1.9 - 2.2: total +4.5 40% · Leeds +2.5 30% · Tottenham +2.5 39%  
-Faltas 11.8 - 12.5: total +22.5 62% · Leeds +11.5 51% · Tottenham +12.5 48%  
-Tiros a puerta 4.1 - 4.0: total +8.5 42% · Leeds +4.5 38% · Tottenham +4.5 38%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Leeds + Menos de 5.5 córners de Leeds + Menos de 4.5 tiros a puerta de Tottenham → prob. 26%, cuota justa 3.78 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Leeds + Menos de 5.5 córners de Leeds + Menos de 4.5 tiros a puerta de Tottenham + Más de 22.5 faltas → prob. 16%, cuota justa 6.33  
-🎯 No simulada (crear apuesta): cuota Unibet aprox. 3.17 (producto de piernas) · prob. 26% · ventaja -16%  
-🎯 No simulada (con cuota: Menos de 2.5 tarjetas de Leeds + Menos de 5.5 córners de Leeds): cuota Unibet aprox. 2.22 (producto de piernas) · prob. 43% · ventaja -4%  
-
-## Leeds vs Tottenham — 07/11 · 13:30
-
-👀 candidata · 🏴 Premier League · **Más de 2.5 córners de Leeds** @ **1.16** (Unibet) · prob 80% vs casas 80% · ventaja -7%
-
-- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.41 - 1.35)  
-1 38% · X 28% · 2 34%  
-1X 66% · X2 62% · 12 72%  
-+1.5 77% · +2.5 52% · +3.5 30% · Ambos marcan 57%  
-Marcadores: 1-1 13% · 2-1 8% · 1-0 8% · 1-2 8%  
-🔎 **Claves**  
-• Forma: Leeds ➖❌➖➖❌ | Tottenham ❌➖✅✅✅  
-• H2H: 8 desde 2021: 1V-1E-6D · 3.9 goles/partido · +2.5 en 88%  
-• Bajas: Leeds: 2 fuera, 1 duda (Joe Rodon, Mateo Joseph); Tottenham: 4 fuera, 2 duda (Rodrigo Bentancur, Savio, Wilson Odobert)  
-• Favorito de las casas: Tottenham @ 2.60  
-📐 **Estadísticas esperadas**  
-Córners 4.9 - 4.9: total +10.5 40% · Leeds +5.5 37% · Tottenham +4.5 52%  
-Tarjetas 1.9 - 2.2: total +4.5 40% · Leeds +2.5 30% · Tottenham +2.5 39%  
-Faltas 11.8 - 12.5: total +22.5 62% · Leeds +11.5 51% · Tottenham +12.5 48%  
-Tiros a puerta 4.1 - 4.0: total +8.5 42% · Leeds +4.5 38% · Tottenham +4.5 38%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Leeds + Menos de 5.5 córners de Leeds + Menos de 4.5 tiros a puerta de Tottenham → prob. 26%, cuota justa 3.78 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Leeds + Menos de 5.5 córners de Leeds + Menos de 4.5 tiros a puerta de Tottenham + Más de 22.5 faltas → prob. 16%, cuota justa 6.33  
-🎯 No simulada (crear apuesta): cuota Unibet aprox. 3.17 (producto de piernas) · prob. 26% · ventaja -16%  
-🎯 No simulada (con cuota: Menos de 2.5 tarjetas de Leeds + Menos de 5.5 córners de Leeds): cuota Unibet aprox. 2.22 (producto de piernas) · prob. 43% · ventaja -4%  
-
-## Leeds vs Tottenham — 07/11 · 13:30
-
-👀 candidata · 🏴 Premier League · **Menos de 6.5 córners de Leeds** @ **1.30** (Unibet) · prob 73% vs casas 71% · ventaja -6%
-
-- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.41 - 1.35)  
-1 38% · X 28% · 2 34%  
-1X 66% · X2 62% · 12 72%  
-+1.5 77% · +2.5 52% · +3.5 30% · Ambos marcan 57%  
-Marcadores: 1-1 13% · 2-1 8% · 1-0 8% · 1-2 8%  
-🔎 **Claves**  
-• Forma: Leeds ➖❌➖➖❌ | Tottenham ❌➖✅✅✅  
-• H2H: 8 desde 2021: 1V-1E-6D · 3.9 goles/partido · +2.5 en 88%  
-• Bajas: Leeds: 2 fuera, 1 duda (Joe Rodon, Mateo Joseph); Tottenham: 4 fuera, 2 duda (Rodrigo Bentancur, Savio, Wilson Odobert)  
-• Favorito de las casas: Tottenham @ 2.60  
-📐 **Estadísticas esperadas**  
-Córners 4.9 - 4.9: total +10.5 40% · Leeds +5.5 37% · Tottenham +4.5 52%  
-Tarjetas 1.9 - 2.2: total +4.5 40% · Leeds +2.5 30% · Tottenham +2.5 39%  
-Faltas 11.8 - 12.5: total +22.5 62% · Leeds +11.5 51% · Tottenham +12.5 48%  
-Tiros a puerta 4.1 - 4.0: total +8.5 42% · Leeds +4.5 38% · Tottenham +4.5 38%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Leeds + Menos de 5.5 córners de Leeds + Menos de 4.5 tiros a puerta de Tottenham → prob. 26%, cuota justa 3.78 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Leeds + Menos de 5.5 córners de Leeds + Menos de 4.5 tiros a puerta de Tottenham + Más de 22.5 faltas → prob. 16%, cuota justa 6.33  
-🎯 No simulada (crear apuesta): cuota Unibet aprox. 3.17 (producto de piernas) · prob. 26% · ventaja -16%  
-🎯 No simulada (con cuota: Menos de 2.5 tarjetas de Leeds + Menos de 5.5 córners de Leeds): cuota Unibet aprox. 2.22 (producto de piernas) · prob. 43% · ventaja -4%  
-
-## Leeds vs Tottenham — 07/11 · 13:30
-
-👀 candidata · 🏴 Premier League · **Más de 2.5 córners de Tottenham** @ **1.14** (Unibet) · prob 81% vs casas 80% · ventaja -8%
-
-- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.41 - 1.35)  
-1 38% · X 28% · 2 34%  
-1X 66% · X2 62% · 12 72%  
-+1.5 77% · +2.5 52% · +3.5 30% · Ambos marcan 57%  
-Marcadores: 1-1 13% · 2-1 8% · 1-0 8% · 1-2 8%  
-🔎 **Claves**  
-• Forma: Leeds ➖❌➖➖❌ | Tottenham ❌➖✅✅✅  
-• H2H: 8 desde 2021: 1V-1E-6D · 3.9 goles/partido · +2.5 en 88%  
-• Bajas: Leeds: 2 fuera, 1 duda (Joe Rodon, Mateo Joseph); Tottenham: 4 fuera, 2 duda (Rodrigo Bentancur, Savio, Wilson Odobert)  
-• Favorito de las casas: Tottenham @ 2.60  
-📐 **Estadísticas esperadas**  
-Córners 4.9 - 4.9: total +10.5 40% · Leeds +5.5 37% · Tottenham +4.5 52%  
-Tarjetas 1.9 - 2.2: total +4.5 40% · Leeds +2.5 30% · Tottenham +2.5 39%  
-Faltas 11.8 - 12.5: total +22.5 62% · Leeds +11.5 51% · Tottenham +12.5 48%  
-Tiros a puerta 4.1 - 4.0: total +8.5 42% · Leeds +4.5 38% · Tottenham +4.5 38%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Leeds + Menos de 5.5 córners de Leeds + Menos de 4.5 tiros a puerta de Tottenham → prob. 26%, cuota justa 3.78 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Leeds + Menos de 5.5 córners de Leeds + Menos de 4.5 tiros a puerta de Tottenham + Más de 22.5 faltas → prob. 16%, cuota justa 6.33  
-🎯 No simulada (crear apuesta): cuota Unibet aprox. 3.17 (producto de piernas) · prob. 26% · ventaja -16%  
-🎯 No simulada (con cuota: Menos de 2.5 tarjetas de Leeds + Menos de 5.5 córners de Leeds): cuota Unibet aprox. 2.22 (producto de piernas) · prob. 43% · ventaja -4%  
-
-## Leeds vs Tottenham — 07/11 · 13:30
-
-👀 candidata · 🏴 Premier League · **Menos de 5.5 córners de Tottenham** @ **1.55** (Unibet) · prob 61% vs casas 59% · ventaja -6%
-
-- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.41 - 1.35)  
-1 38% · X 28% · 2 34%  
-1X 66% · X2 62% · 12 72%  
-+1.5 77% · +2.5 52% · +3.5 30% · Ambos marcan 57%  
-Marcadores: 1-1 13% · 2-1 8% · 1-0 8% · 1-2 8%  
-🔎 **Claves**  
-• Forma: Leeds ➖❌➖➖❌ | Tottenham ❌➖✅✅✅  
-• H2H: 8 desde 2021: 1V-1E-6D · 3.9 goles/partido · +2.5 en 88%  
-• Bajas: Leeds: 2 fuera, 1 duda (Joe Rodon, Mateo Joseph); Tottenham: 4 fuera, 2 duda (Rodrigo Bentancur, Savio, Wilson Odobert)  
-• Favorito de las casas: Tottenham @ 2.60  
-📐 **Estadísticas esperadas**  
-Córners 4.9 - 4.9: total +10.5 40% · Leeds +5.5 37% · Tottenham +4.5 52%  
-Tarjetas 1.9 - 2.2: total +4.5 40% · Leeds +2.5 30% · Tottenham +2.5 39%  
-Faltas 11.8 - 12.5: total +22.5 62% · Leeds +11.5 51% · Tottenham +12.5 48%  
-Tiros a puerta 4.1 - 4.0: total +8.5 42% · Leeds +4.5 38% · Tottenham +4.5 38%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Leeds + Menos de 5.5 córners de Leeds + Menos de 4.5 tiros a puerta de Tottenham → prob. 26%, cuota justa 3.78 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Leeds + Menos de 5.5 córners de Leeds + Menos de 4.5 tiros a puerta de Tottenham + Más de 22.5 faltas → prob. 16%, cuota justa 6.33  
-🎯 No simulada (crear apuesta): cuota Unibet aprox. 3.17 (producto de piernas) · prob. 26% · ventaja -16%  
-🎯 No simulada (con cuota: Menos de 2.5 tarjetas de Leeds + Menos de 5.5 córners de Leeds): cuota Unibet aprox. 2.22 (producto de piernas) · prob. 43% · ventaja -4%  
-
-## Bristol City vs Norwich — 07/11 · 13:30
-
-👀 candidata · 🏴 Championship · **Más de 5.5 córners de Bristol City** @ **2.63** (Unibet) · prob 40% vs casas 35% · ventaja +4%
-
-- ❌ Valor: ventaja +4% (mín. 8% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.29 - 1.38)  
-1 34% · X 29% · 2 36%  
-1X 64% · X2 66% · 12 71%  
-+1.5 75% · +2.5 50% · +3.5 28% · Ambos marcan 55%  
-Marcadores: 1-1 13% · 0-1 9% · 1-2 9% · 1-0 8%  
-🔎 **Claves**  
-• Forma: Bristol City ❌❌➖✅❌ | Norwich ❌❌✅✅✅  
-• H2H: 22 desde 2007: 8V-4E-10D · 2.7 goles/partido · +2.5 en 55%  
-• Bajas: Bristol City: sin bajas; Norwich: 1 fuera, 2 duda (Gabriel Forsyth)  
-• Favorito de las casas: Norwich @ 2.50  
-📐 **Estadísticas esperadas**  
-Córners 5.4 - 4.8: total +10.5 44% · Bristol City +5.5 44% · Norwich +4.5 50%  
-Tarjetas 1.7 - 2.0: total +3.5 50% · Bristol City +2.5 24% · Norwich +2.5 33%  
-Faltas 10.6 - 10.2: total +22.5 36% · Bristol City +11.5 38% · Norwich +11.5 33%  
-Tiros a puerta 4.2 - 4.3: total +9.5 35% · Bristol City +5.5 25% · Norwich +3.5 61%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Bristol City + Menos de 5.5 tiros a puerta de Bristol City + Menos de 11.5 faltas de Norwich → prob. 38%, cuota justa 2.64 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Bristol City + Menos de 5.5 tiros a puerta de Bristol City + Menos de 11.5 faltas de Norwich + Menos de 5.5 córners de Bristol City → prob. 23%, cuota justa 4.41  
-🎯 No simulada (con cuota: Menos de 5.5 tiros a puerta de Bristol City + Menos de 5.5 córners de Bristol City): cuota Unibet aprox. 1.95 (producto de piernas) · prob. 45% · ventaja -12%  
-
-## Bristol City vs Norwich — 07/11 · 13:30
-
-👀 candidata · 🏴 Championship · **Menos de 5.5 córners de Bristol City** @ **1.41** (Unibet) · prob 60% vs casas 65% · ventaja -15%
-
-- ❌ Valor: ventaja -15% (mín. 7% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.29 - 1.38)  
-1 34% · X 29% · 2 36%  
-1X 64% · X2 66% · 12 71%  
-+1.5 75% · +2.5 50% · +3.5 28% · Ambos marcan 55%  
-Marcadores: 1-1 13% · 0-1 9% · 1-2 9% · 1-0 8%  
-🔎 **Claves**  
-• Forma: Bristol City ❌❌➖✅❌ | Norwich ❌❌✅✅✅  
-• H2H: 22 desde 2007: 8V-4E-10D · 2.7 goles/partido · +2.5 en 55%  
-• Bajas: Bristol City: sin bajas; Norwich: 1 fuera, 2 duda (Gabriel Forsyth)  
-• Favorito de las casas: Norwich @ 2.50  
-📐 **Estadísticas esperadas**  
-Córners 5.4 - 4.8: total +10.5 44% · Bristol City +5.5 44% · Norwich +4.5 50%  
-Tarjetas 1.7 - 2.0: total +3.5 50% · Bristol City +2.5 24% · Norwich +2.5 33%  
-Faltas 10.6 - 10.2: total +22.5 36% · Bristol City +11.5 38% · Norwich +11.5 33%  
-Tiros a puerta 4.2 - 4.3: total +9.5 35% · Bristol City +5.5 25% · Norwich +3.5 61%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Bristol City + Menos de 5.5 tiros a puerta de Bristol City + Menos de 11.5 faltas de Norwich → prob. 38%, cuota justa 2.64 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Bristol City + Menos de 5.5 tiros a puerta de Bristol City + Menos de 11.5 faltas de Norwich + Menos de 5.5 córners de Bristol City → prob. 23%, cuota justa 4.41  
-🎯 No simulada (con cuota: Menos de 5.5 tiros a puerta de Bristol City + Menos de 5.5 córners de Bristol City): cuota Unibet aprox. 1.95 (producto de piernas) · prob. 45% · ventaja -12%  
-
-## Bristol City vs Norwich — 07/11 · 13:30
-
-👀 candidata · 🏴 Championship · **Más de 7.5 córners** @ **1.23** (Unibet) · prob 76% vs casas 74% · ventaja -6%
-
-- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.29 - 1.38)  
-1 34% · X 29% · 2 36%  
-1X 64% · X2 66% · 12 71%  
-+1.5 75% · +2.5 50% · +3.5 28% · Ambos marcan 55%  
-Marcadores: 1-1 13% · 0-1 9% · 1-2 9% · 1-0 8%  
-🔎 **Claves**  
-• Forma: Bristol City ❌❌➖✅❌ | Norwich ❌❌✅✅✅  
-• H2H: 22 desde 2007: 8V-4E-10D · 2.7 goles/partido · +2.5 en 55%  
-• Bajas: Bristol City: sin bajas; Norwich: 1 fuera, 2 duda (Gabriel Forsyth)  
-• Favorito de las casas: Norwich @ 2.50  
-📐 **Estadísticas esperadas**  
-Córners 5.4 - 4.8: total +10.5 44% · Bristol City +5.5 44% · Norwich +4.5 50%  
-Tarjetas 1.7 - 2.0: total +3.5 50% · Bristol City +2.5 24% · Norwich +2.5 33%  
-Faltas 10.6 - 10.2: total +22.5 36% · Bristol City +11.5 38% · Norwich +11.5 33%  
-Tiros a puerta 4.2 - 4.3: total +9.5 35% · Bristol City +5.5 25% · Norwich +3.5 61%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Bristol City + Menos de 5.5 tiros a puerta de Bristol City + Menos de 11.5 faltas de Norwich → prob. 38%, cuota justa 2.64 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Bristol City + Menos de 5.5 tiros a puerta de Bristol City + Menos de 11.5 faltas de Norwich + Menos de 5.5 córners de Bristol City → prob. 23%, cuota justa 4.41  
-🎯 No simulada (con cuota: Menos de 5.5 tiros a puerta de Bristol City + Menos de 5.5 córners de Bristol City): cuota Unibet aprox. 1.95 (producto de piernas) · prob. 45% · ventaja -12%  
-
-## Bristol City vs Norwich — 07/11 · 13:30
-
-👀 candidata · 🏴 Championship · **Menos de 12.5 córners** @ **1.25** (Unibet) · prob 75% vs casas 73% · ventaja -7%
-
-- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.29 - 1.38)  
-1 34% · X 29% · 2 36%  
-1X 64% · X2 66% · 12 71%  
-+1.5 75% · +2.5 50% · +3.5 28% · Ambos marcan 55%  
-Marcadores: 1-1 13% · 0-1 9% · 1-2 9% · 1-0 8%  
-🔎 **Claves**  
-• Forma: Bristol City ❌❌➖✅❌ | Norwich ❌❌✅✅✅  
-• H2H: 22 desde 2007: 8V-4E-10D · 2.7 goles/partido · +2.5 en 55%  
-• Bajas: Bristol City: sin bajas; Norwich: 1 fuera, 2 duda (Gabriel Forsyth)  
-• Favorito de las casas: Norwich @ 2.50  
-📐 **Estadísticas esperadas**  
-Córners 5.4 - 4.8: total +10.5 44% · Bristol City +5.5 44% · Norwich +4.5 50%  
-Tarjetas 1.7 - 2.0: total +3.5 50% · Bristol City +2.5 24% · Norwich +2.5 33%  
-Faltas 10.6 - 10.2: total +22.5 36% · Bristol City +11.5 38% · Norwich +11.5 33%  
-Tiros a puerta 4.2 - 4.3: total +9.5 35% · Bristol City +5.5 25% · Norwich +3.5 61%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Bristol City + Menos de 5.5 tiros a puerta de Bristol City + Menos de 11.5 faltas de Norwich → prob. 38%, cuota justa 2.64 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Bristol City + Menos de 5.5 tiros a puerta de Bristol City + Menos de 11.5 faltas de Norwich + Menos de 5.5 córners de Bristol City → prob. 23%, cuota justa 4.41  
-🎯 No simulada (con cuota: Menos de 5.5 tiros a puerta de Bristol City + Menos de 5.5 córners de Bristol City): cuota Unibet aprox. 1.95 (producto de piernas) · prob. 45% · ventaja -12%  
-
-## Bristol City vs Norwich — 07/11 · 13:30
-
-👀 candidata · 🏴 Championship · **Más de 3.5 córners de Norwich** @ **1.29** (Unibet) · prob 68% vs casas 71% · ventaja -12%
-
-- ❌ Valor: ventaja -12% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.29 - 1.38)  
-1 34% · X 29% · 2 36%  
-1X 64% · X2 66% · 12 71%  
-+1.5 75% · +2.5 50% · +3.5 28% · Ambos marcan 55%  
-Marcadores: 1-1 13% · 0-1 9% · 1-2 9% · 1-0 8%  
-🔎 **Claves**  
-• Forma: Bristol City ❌❌➖✅❌ | Norwich ❌❌✅✅✅  
-• H2H: 22 desde 2007: 8V-4E-10D · 2.7 goles/partido · +2.5 en 55%  
-• Bajas: Bristol City: sin bajas; Norwich: 1 fuera, 2 duda (Gabriel Forsyth)  
-• Favorito de las casas: Norwich @ 2.50  
-📐 **Estadísticas esperadas**  
-Córners 5.4 - 4.8: total +10.5 44% · Bristol City +5.5 44% · Norwich +4.5 50%  
-Tarjetas 1.7 - 2.0: total +3.5 50% · Bristol City +2.5 24% · Norwich +2.5 33%  
-Faltas 10.6 - 10.2: total +22.5 36% · Bristol City +11.5 38% · Norwich +11.5 33%  
-Tiros a puerta 4.2 - 4.3: total +9.5 35% · Bristol City +5.5 25% · Norwich +3.5 61%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Bristol City + Menos de 5.5 tiros a puerta de Bristol City + Menos de 11.5 faltas de Norwich → prob. 38%, cuota justa 2.64 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Bristol City + Menos de 5.5 tiros a puerta de Bristol City + Menos de 11.5 faltas de Norwich + Menos de 5.5 córners de Bristol City → prob. 23%, cuota justa 4.41  
-🎯 No simulada (con cuota: Menos de 5.5 tiros a puerta de Bristol City + Menos de 5.5 córners de Bristol City): cuota Unibet aprox. 1.95 (producto de piernas) · prob. 45% · ventaja -12%  
-
-## Bristol City vs Norwich — 07/11 · 13:30
-
-👀 candidata · 🏴 Championship · **Menos de 4.5 córners de Norwich** @ **2.20** (Unibet) · prob 46% vs casas 42% · ventaja +1%
-
-- ❌ Valor: ventaja +1% (mín. 7% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.29 - 1.38)  
-1 34% · X 29% · 2 36%  
-1X 64% · X2 66% · 12 71%  
-+1.5 75% · +2.5 50% · +3.5 28% · Ambos marcan 55%  
-Marcadores: 1-1 13% · 0-1 9% · 1-2 9% · 1-0 8%  
-🔎 **Claves**  
-• Forma: Bristol City ❌❌➖✅❌ | Norwich ❌❌✅✅✅  
-• H2H: 22 desde 2007: 8V-4E-10D · 2.7 goles/partido · +2.5 en 55%  
-• Bajas: Bristol City: sin bajas; Norwich: 1 fuera, 2 duda (Gabriel Forsyth)  
-• Favorito de las casas: Norwich @ 2.50  
-📐 **Estadísticas esperadas**  
-Córners 5.4 - 4.8: total +10.5 44% · Bristol City +5.5 44% · Norwich +4.5 50%  
-Tarjetas 1.7 - 2.0: total +3.5 50% · Bristol City +2.5 24% · Norwich +2.5 33%  
-Faltas 10.6 - 10.2: total +22.5 36% · Bristol City +11.5 38% · Norwich +11.5 33%  
-Tiros a puerta 4.2 - 4.3: total +9.5 35% · Bristol City +5.5 25% · Norwich +3.5 61%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Bristol City + Menos de 5.5 tiros a puerta de Bristol City + Menos de 11.5 faltas de Norwich → prob. 38%, cuota justa 2.64 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Bristol City + Menos de 5.5 tiros a puerta de Bristol City + Menos de 11.5 faltas de Norwich + Menos de 5.5 córners de Bristol City → prob. 23%, cuota justa 4.41  
-🎯 No simulada (con cuota: Menos de 5.5 tiros a puerta de Bristol City + Menos de 5.5 córners de Bristol City): cuota Unibet aprox. 1.95 (producto de piernas) · prob. 45% · ventaja -12%  
-
-## Portsmouth vs Stoke — 07/11 · 13:30
-
-👀 candidata · 🏴 Championship · **Más de 3.5 córners de Stoke** @ **1.45** (Unibet) · prob 62% vs casas 63% · ventaja -9%
-
-- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.34 - 0.91)  
-1 46% · X 29% · 2 25%  
-1X 75% · X2 54% · 12 71%  
-+1.5 66% · +2.5 39% · +3.5 19% · Ambos marcan 45%  
-Marcadores: 1-1 14% · 1-0 13% · 0-0 11% · 2-0 9%  
-🔎 **Claves**  
-• Forma: Portsmouth ✅➖✅➖✅ | Stoke ❌✅➖✅✅  
-• H2H: 8 desde 2008: 3V-1E-4D · 3.4 goles/partido · +2.5 en 75%  
-• Bajas: Portsmouth: 1 fuera, 1 duda (Mark Kosznovszky); Stoke: sin bajas  
-• Favorito de las casas: Portsmouth @ 2.35  
-📐 **Estadísticas esperadas**  
-Córners 6.2 - 4.5: total +10.5 50% · Portsmouth +5.5 54% · Stoke +4.5 46%  
-Tarjetas 1.8 - 2.4: total +3.5 59% · Portsmouth +2.5 26% · Stoke +2.5 43%  
-Faltas 10.5 - 12.5: total +22.5 52% · Portsmouth +11.5 37% · Stoke +11.5 58%  
-Tiros a puerta 4.6 - 3.3: total +9.5 28% · Portsmouth +5.5 32% · Stoke +3.5 41%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Portsmouth + Menos de 9.5 tiros a puerta + Menos de 11.5 faltas de Portsmouth → prob. 35%, cuota justa 2.83 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Portsmouth + Menos de 9.5 tiros a puerta + Menos de 11.5 faltas de Portsmouth + Menos de 2.5 goles → prob. 25%, cuota justa 4.03  
-🎯 Simulada (con cuota: Menos de 9.5 tiros a puerta + Menos de 2.5 goles): cuota Unibet aprox. 2.21 (producto de piernas) · prob. 50% · ventaja +11% → 1 u en la banca de simulación  
-
-## Portsmouth vs Stoke — 07/11 · 13:30
-
-👀 candidata · 🏴 Championship · **Menos de 6.5 córners de Stoke** @ **1.24** (Unibet) · prob 77% vs casas 74% · ventaja -5%
-
-- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.34 - 0.91)  
-1 46% · X 29% · 2 25%  
-1X 75% · X2 54% · 12 71%  
-+1.5 66% · +2.5 39% · +3.5 19% · Ambos marcan 45%  
-Marcadores: 1-1 14% · 1-0 13% · 0-0 11% · 2-0 9%  
-🔎 **Claves**  
-• Forma: Portsmouth ✅➖✅➖✅ | Stoke ❌✅➖✅✅  
-• H2H: 8 desde 2008: 3V-1E-4D · 3.4 goles/partido · +2.5 en 75%  
-• Bajas: Portsmouth: 1 fuera, 1 duda (Mark Kosznovszky); Stoke: sin bajas  
-• Favorito de las casas: Portsmouth @ 2.35  
-📐 **Estadísticas esperadas**  
-Córners 6.2 - 4.5: total +10.5 50% · Portsmouth +5.5 54% · Stoke +4.5 46%  
-Tarjetas 1.8 - 2.4: total +3.5 59% · Portsmouth +2.5 26% · Stoke +2.5 43%  
-Faltas 10.5 - 12.5: total +22.5 52% · Portsmouth +11.5 37% · Stoke +11.5 58%  
-Tiros a puerta 4.6 - 3.3: total +9.5 28% · Portsmouth +5.5 32% · Stoke +3.5 41%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Portsmouth + Menos de 9.5 tiros a puerta + Menos de 11.5 faltas de Portsmouth → prob. 35%, cuota justa 2.83 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Portsmouth + Menos de 9.5 tiros a puerta + Menos de 11.5 faltas de Portsmouth + Menos de 2.5 goles → prob. 25%, cuota justa 4.03  
-🎯 Simulada (con cuota: Menos de 9.5 tiros a puerta + Menos de 2.5 goles): cuota Unibet aprox. 2.21 (producto de piernas) · prob. 50% · ventaja +11% → 1 u en la banca de simulación  
-
-## Portsmouth vs Stoke — 07/11 · 13:30
-
-👀 candidata · 🏴 Championship · **Más de 6.5 córners de Portsmouth** @ **2.70** (Unibet) · prob 38% vs casas 34% · ventaja +2%
-
-- ❌ Valor: ventaja +2% (mín. 8% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.34 - 0.91)  
-1 46% · X 29% · 2 25%  
-1X 75% · X2 54% · 12 71%  
-+1.5 66% · +2.5 39% · +3.5 19% · Ambos marcan 45%  
-Marcadores: 1-1 14% · 1-0 13% · 0-0 11% · 2-0 9%  
-🔎 **Claves**  
-• Forma: Portsmouth ✅➖✅➖✅ | Stoke ❌✅➖✅✅  
-• H2H: 8 desde 2008: 3V-1E-4D · 3.4 goles/partido · +2.5 en 75%  
-• Bajas: Portsmouth: 1 fuera, 1 duda (Mark Kosznovszky); Stoke: sin bajas  
-• Favorito de las casas: Portsmouth @ 2.35  
-📐 **Estadísticas esperadas**  
-Córners 6.2 - 4.5: total +10.5 50% · Portsmouth +5.5 54% · Stoke +4.5 46%  
-Tarjetas 1.8 - 2.4: total +3.5 59% · Portsmouth +2.5 26% · Stoke +2.5 43%  
-Faltas 10.5 - 12.5: total +22.5 52% · Portsmouth +11.5 37% · Stoke +11.5 58%  
-Tiros a puerta 4.6 - 3.3: total +9.5 28% · Portsmouth +5.5 32% · Stoke +3.5 41%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Portsmouth + Menos de 9.5 tiros a puerta + Menos de 11.5 faltas de Portsmouth → prob. 35%, cuota justa 2.83 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Portsmouth + Menos de 9.5 tiros a puerta + Menos de 11.5 faltas de Portsmouth + Menos de 2.5 goles → prob. 25%, cuota justa 4.03  
-🎯 Simulada (con cuota: Menos de 9.5 tiros a puerta + Menos de 2.5 goles): cuota Unibet aprox. 2.21 (producto de piernas) · prob. 50% · ventaja +11% → 1 u en la banca de simulación  
-
-## Portsmouth vs Stoke — 07/11 · 13:30
-
-👀 candidata · 🏴 Championship · **Menos de 6.5 córners de Portsmouth** @ **1.38** (Unibet) · prob 62% vs casas 66% · ventaja -14%
-
-- ❌ Valor: ventaja -14% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.34 - 0.91)  
-1 46% · X 29% · 2 25%  
-1X 75% · X2 54% · 12 71%  
-+1.5 66% · +2.5 39% · +3.5 19% · Ambos marcan 45%  
-Marcadores: 1-1 14% · 1-0 13% · 0-0 11% · 2-0 9%  
-🔎 **Claves**  
-• Forma: Portsmouth ✅➖✅➖✅ | Stoke ❌✅➖✅✅  
-• H2H: 8 desde 2008: 3V-1E-4D · 3.4 goles/partido · +2.5 en 75%  
-• Bajas: Portsmouth: 1 fuera, 1 duda (Mark Kosznovszky); Stoke: sin bajas  
-• Favorito de las casas: Portsmouth @ 2.35  
-📐 **Estadísticas esperadas**  
-Córners 6.2 - 4.5: total +10.5 50% · Portsmouth +5.5 54% · Stoke +4.5 46%  
-Tarjetas 1.8 - 2.4: total +3.5 59% · Portsmouth +2.5 26% · Stoke +2.5 43%  
-Faltas 10.5 - 12.5: total +22.5 52% · Portsmouth +11.5 37% · Stoke +11.5 58%  
-Tiros a puerta 4.6 - 3.3: total +9.5 28% · Portsmouth +5.5 32% · Stoke +3.5 41%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Portsmouth + Menos de 9.5 tiros a puerta + Menos de 11.5 faltas de Portsmouth → prob. 35%, cuota justa 2.83 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Portsmouth + Menos de 9.5 tiros a puerta + Menos de 11.5 faltas de Portsmouth + Menos de 2.5 goles → prob. 25%, cuota justa 4.03  
-🎯 Simulada (con cuota: Menos de 9.5 tiros a puerta + Menos de 2.5 goles): cuota Unibet aprox. 2.21 (producto de piernas) · prob. 50% · ventaja +11% → 1 u en la banca de simulación  
-
-## Portsmouth vs Stoke — 07/11 · 13:30
-
-👀 candidata · 🏴 Championship · **Más de 9.5 córners** @ **1.65** (Unibet) · prob 59% vs casas 56% · ventaja -3%
-
-- ❌ Valor: ventaja -3% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.34 - 0.91)  
-1 46% · X 29% · 2 25%  
-1X 75% · X2 54% · 12 71%  
-+1.5 66% · +2.5 39% · +3.5 19% · Ambos marcan 45%  
-Marcadores: 1-1 14% · 1-0 13% · 0-0 11% · 2-0 9%  
-🔎 **Claves**  
-• Forma: Portsmouth ✅➖✅➖✅ | Stoke ❌✅➖✅✅  
-• H2H: 8 desde 2008: 3V-1E-4D · 3.4 goles/partido · +2.5 en 75%  
-• Bajas: Portsmouth: 1 fuera, 1 duda (Mark Kosznovszky); Stoke: sin bajas  
-• Favorito de las casas: Portsmouth @ 2.35  
-📐 **Estadísticas esperadas**  
-Córners 6.2 - 4.5: total +10.5 50% · Portsmouth +5.5 54% · Stoke +4.5 46%  
-Tarjetas 1.8 - 2.4: total +3.5 59% · Portsmouth +2.5 26% · Stoke +2.5 43%  
-Faltas 10.5 - 12.5: total +22.5 52% · Portsmouth +11.5 37% · Stoke +11.5 58%  
-Tiros a puerta 4.6 - 3.3: total +9.5 28% · Portsmouth +5.5 32% · Stoke +3.5 41%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Portsmouth + Menos de 9.5 tiros a puerta + Menos de 11.5 faltas de Portsmouth → prob. 35%, cuota justa 2.83 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Portsmouth + Menos de 9.5 tiros a puerta + Menos de 11.5 faltas de Portsmouth + Menos de 2.5 goles → prob. 25%, cuota justa 4.03  
-🎯 Simulada (con cuota: Menos de 9.5 tiros a puerta + Menos de 2.5 goles): cuota Unibet aprox. 2.21 (producto de piernas) · prob. 50% · ventaja +11% → 1 u en la banca de simulación  
-
-## Portsmouth vs Stoke — 07/11 · 13:30
-
-👀 candidata · 🏴 Championship · **Menos de 12.5 córners** @ **1.27** (Unibet) · prob 72% vs casas 72% · ventaja -9%
-
-- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.34 - 0.91)  
-1 46% · X 29% · 2 25%  
-1X 75% · X2 54% · 12 71%  
-+1.5 66% · +2.5 39% · +3.5 19% · Ambos marcan 45%  
-Marcadores: 1-1 14% · 1-0 13% · 0-0 11% · 2-0 9%  
-🔎 **Claves**  
-• Forma: Portsmouth ✅➖✅➖✅ | Stoke ❌✅➖✅✅  
-• H2H: 8 desde 2008: 3V-1E-4D · 3.4 goles/partido · +2.5 en 75%  
-• Bajas: Portsmouth: 1 fuera, 1 duda (Mark Kosznovszky); Stoke: sin bajas  
-• Favorito de las casas: Portsmouth @ 2.35  
-📐 **Estadísticas esperadas**  
-Córners 6.2 - 4.5: total +10.5 50% · Portsmouth +5.5 54% · Stoke +4.5 46%  
-Tarjetas 1.8 - 2.4: total +3.5 59% · Portsmouth +2.5 26% · Stoke +2.5 43%  
-Faltas 10.5 - 12.5: total +22.5 52% · Portsmouth +11.5 37% · Stoke +11.5 58%  
-Tiros a puerta 4.6 - 3.3: total +9.5 28% · Portsmouth +5.5 32% · Stoke +3.5 41%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Portsmouth + Menos de 9.5 tiros a puerta + Menos de 11.5 faltas de Portsmouth → prob. 35%, cuota justa 2.83 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Portsmouth + Menos de 9.5 tiros a puerta + Menos de 11.5 faltas de Portsmouth + Menos de 2.5 goles → prob. 25%, cuota justa 4.03  
-🎯 Simulada (con cuota: Menos de 9.5 tiros a puerta + Menos de 2.5 goles): cuota Unibet aprox. 2.21 (producto de piernas) · prob. 50% · ventaja +11% → 1 u en la banca de simulación  
-
-## Wrexham vs Wolves — 07/11 · 13:30
-
-👀 candidata · 🏴 Championship · **Más de 7.5 córners** @ **1.25** (Unibet) · prob 76% vs casas 73% · ventaja -5%
-
-- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.67 - 1.78)  
-1 32% · X 28% · 2 40%  
-1X 60% · X2 68% · 12 72%  
-+1.5 86% · +2.5 67% · +3.5 45% · Ambos marcan 68%  
-Marcadores: 1-1 10% · 1-2 8% · 2-1 8% · 2-2 7%  
-🔎 **Claves**  
-• Forma: Wrexham ❌✅❌❌✅ | Wolves ✅➖✅✅✅  
-• H2H: sin precedentes  
-• Bajas: Wrexham: sin bajas; Wolves: sin bajas  
-• Favorito de las casas: Wolves @ 2.20  
-📐 **Estadísticas esperadas**  
-Córners 5.0 - 5.3: total +10.5 45% · Wrexham +5.5 38% · Wolves +4.5 56%  
-Tarjetas 1.7 - 1.9: total +3.5 47% · Wrexham +2.5 24% · Wolves +2.5 29%  
-Faltas 10.5 - 10.3: total +22.5 35% · Wrexham +11.5 37% · Wolves +11.5 34%  
-Tiros a puerta 4.1 - 4.3: total +9.5 34% · Wrexham +5.5 24% · Wolves +3.5 61%  
-🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Wrexham + Menos de 2.5 tarjetas de Wrexham + Más de 2.5 goles → prob. 35%, cuota justa 2.87 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 tiros a puerta de Wrexham + Menos de 2.5 tarjetas de Wrexham + Más de 2.5 goles + Menos de 11.5 faltas de Wolves + Menos de 5.5 córners de Wrexham → prob. 16%, cuota justa 6.28  
-🎯 Simulada (con cuota: Más de 2.5 goles + Menos de 5.5 córners de Wrexham): cuota Unibet aprox. 2.65 (producto de piernas) · prob. 42% · ventaja +10% → 1 u en la banca de simulación  
-
-## Wrexham vs Wolves — 07/11 · 13:30
-
-👀 candidata · 🏴 Championship · **Menos de 12.5 córners** @ **1.23** (Unibet) · prob 75% vs casas 74% · ventaja -8%
-
-- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.67 - 1.78)  
-1 32% · X 28% · 2 40%  
-1X 60% · X2 68% · 12 72%  
-+1.5 86% · +2.5 67% · +3.5 45% · Ambos marcan 68%  
-Marcadores: 1-1 10% · 1-2 8% · 2-1 8% · 2-2 7%  
-🔎 **Claves**  
-• Forma: Wrexham ❌✅❌❌✅ | Wolves ✅➖✅✅✅  
-• H2H: sin precedentes  
-• Bajas: Wrexham: sin bajas; Wolves: sin bajas  
-• Favorito de las casas: Wolves @ 2.20  
-📐 **Estadísticas esperadas**  
-Córners 5.0 - 5.3: total +10.5 45% · Wrexham +5.5 38% · Wolves +4.5 56%  
-Tarjetas 1.7 - 1.9: total +3.5 47% · Wrexham +2.5 24% · Wolves +2.5 29%  
-Faltas 10.5 - 10.3: total +22.5 35% · Wrexham +11.5 37% · Wolves +11.5 34%  
-Tiros a puerta 4.1 - 4.3: total +9.5 34% · Wrexham +5.5 24% · Wolves +3.5 61%  
-🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Wrexham + Menos de 2.5 tarjetas de Wrexham + Más de 2.5 goles → prob. 35%, cuota justa 2.87 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 tiros a puerta de Wrexham + Menos de 2.5 tarjetas de Wrexham + Más de 2.5 goles + Menos de 11.5 faltas de Wolves + Menos de 5.5 córners de Wrexham → prob. 16%, cuota justa 6.28  
-🎯 Simulada (con cuota: Más de 2.5 goles + Menos de 5.5 córners de Wrexham): cuota Unibet aprox. 2.65 (producto de piernas) · prob. 42% · ventaja +10% → 1 u en la banca de simulación  
-
-## Wrexham vs Wolves — 07/11 · 13:30
-
-👀 candidata · 🏴 Championship · **Más de 4.5 córners de Wrexham** @ **1.93** (Unibet) · prob 50% vs casas 48% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.67 - 1.78)  
-1 32% · X 28% · 2 40%  
-1X 60% · X2 68% · 12 72%  
-+1.5 86% · +2.5 67% · +3.5 45% · Ambos marcan 68%  
-Marcadores: 1-1 10% · 1-2 8% · 2-1 8% · 2-2 7%  
-🔎 **Claves**  
-• Forma: Wrexham ❌✅❌❌✅ | Wolves ✅➖✅✅✅  
-• H2H: sin precedentes  
-• Bajas: Wrexham: sin bajas; Wolves: sin bajas  
-• Favorito de las casas: Wolves @ 2.20  
-📐 **Estadísticas esperadas**  
-Córners 5.0 - 5.3: total +10.5 45% · Wrexham +5.5 38% · Wolves +4.5 56%  
-Tarjetas 1.7 - 1.9: total +3.5 47% · Wrexham +2.5 24% · Wolves +2.5 29%  
-Faltas 10.5 - 10.3: total +22.5 35% · Wrexham +11.5 37% · Wolves +11.5 34%  
-Tiros a puerta 4.1 - 4.3: total +9.5 34% · Wrexham +5.5 24% · Wolves +3.5 61%  
-🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Wrexham + Menos de 2.5 tarjetas de Wrexham + Más de 2.5 goles → prob. 35%, cuota justa 2.87 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 tiros a puerta de Wrexham + Menos de 2.5 tarjetas de Wrexham + Más de 2.5 goles + Menos de 11.5 faltas de Wolves + Menos de 5.5 córners de Wrexham → prob. 16%, cuota justa 6.28  
-🎯 Simulada (con cuota: Más de 2.5 goles + Menos de 5.5 córners de Wrexham): cuota Unibet aprox. 2.65 (producto de piernas) · prob. 42% · ventaja +10% → 1 u en la banca de simulación  
-
-## Wrexham vs Wolves — 07/11 · 13:30
-
-👀 candidata · 🏴 Championship · **Menos de 5.5 córners de Wrexham** @ **1.41** (Unibet) · prob 64% vs casas 65% · ventaja -10%
-
-- ❌ Valor: ventaja -10% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.67 - 1.78)  
-1 32% · X 28% · 2 40%  
-1X 60% · X2 68% · 12 72%  
-+1.5 86% · +2.5 67% · +3.5 45% · Ambos marcan 68%  
-Marcadores: 1-1 10% · 1-2 8% · 2-1 8% · 2-2 7%  
-🔎 **Claves**  
-• Forma: Wrexham ❌✅❌❌✅ | Wolves ✅➖✅✅✅  
-• H2H: sin precedentes  
-• Bajas: Wrexham: sin bajas; Wolves: sin bajas  
-• Favorito de las casas: Wolves @ 2.20  
-📐 **Estadísticas esperadas**  
-Córners 5.0 - 5.3: total +10.5 45% · Wrexham +5.5 38% · Wolves +4.5 56%  
-Tarjetas 1.7 - 1.9: total +3.5 47% · Wrexham +2.5 24% · Wolves +2.5 29%  
-Faltas 10.5 - 10.3: total +22.5 35% · Wrexham +11.5 37% · Wolves +11.5 34%  
-Tiros a puerta 4.1 - 4.3: total +9.5 34% · Wrexham +5.5 24% · Wolves +3.5 61%  
-🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Wrexham + Menos de 2.5 tarjetas de Wrexham + Más de 2.5 goles → prob. 35%, cuota justa 2.87 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 tiros a puerta de Wrexham + Menos de 2.5 tarjetas de Wrexham + Más de 2.5 goles + Menos de 11.5 faltas de Wolves + Menos de 5.5 córners de Wrexham → prob. 16%, cuota justa 6.28  
-🎯 Simulada (con cuota: Más de 2.5 goles + Menos de 5.5 córners de Wrexham): cuota Unibet aprox. 2.65 (producto de piernas) · prob. 42% · ventaja +10% → 1 u en la banca de simulación  
-
-## Wrexham vs Wolves — 07/11 · 13:30
-
-👀 candidata · 🏴 Championship · **Más de 3.5 córners de Wolves** @ **1.32** (Unibet) · prob 70% vs casas 69% · ventaja -7%
-
-- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.67 - 1.78)  
-1 32% · X 28% · 2 40%  
-1X 60% · X2 68% · 12 72%  
-+1.5 86% · +2.5 67% · +3.5 45% · Ambos marcan 68%  
-Marcadores: 1-1 10% · 1-2 8% · 2-1 8% · 2-2 7%  
-🔎 **Claves**  
-• Forma: Wrexham ❌✅❌❌✅ | Wolves ✅➖✅✅✅  
-• H2H: sin precedentes  
-• Bajas: Wrexham: sin bajas; Wolves: sin bajas  
-• Favorito de las casas: Wolves @ 2.20  
-📐 **Estadísticas esperadas**  
-Córners 5.0 - 5.3: total +10.5 45% · Wrexham +5.5 38% · Wolves +4.5 56%  
-Tarjetas 1.7 - 1.9: total +3.5 47% · Wrexham +2.5 24% · Wolves +2.5 29%  
-Faltas 10.5 - 10.3: total +22.5 35% · Wrexham +11.5 37% · Wolves +11.5 34%  
-Tiros a puerta 4.1 - 4.3: total +9.5 34% · Wrexham +5.5 24% · Wolves +3.5 61%  
-🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Wrexham + Menos de 2.5 tarjetas de Wrexham + Más de 2.5 goles → prob. 35%, cuota justa 2.87 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 tiros a puerta de Wrexham + Menos de 2.5 tarjetas de Wrexham + Más de 2.5 goles + Menos de 11.5 faltas de Wolves + Menos de 5.5 córners de Wrexham → prob. 16%, cuota justa 6.28  
-🎯 Simulada (con cuota: Más de 2.5 goles + Menos de 5.5 córners de Wrexham): cuota Unibet aprox. 2.65 (producto de piernas) · prob. 42% · ventaja +10% → 1 u en la banca de simulación  
-
-## Wrexham vs Wolves — 07/11 · 13:30
-
-👀 candidata · 🏴 Championship · **Menos de 6.5 córners de Wolves** @ **1.36** (Unibet) · prob 69% vs casas 67% · ventaja -6%
-
-- ❌ Valor: ventaja -6% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.67 - 1.78)  
-1 32% · X 28% · 2 40%  
-1X 60% · X2 68% · 12 72%  
-+1.5 86% · +2.5 67% · +3.5 45% · Ambos marcan 68%  
-Marcadores: 1-1 10% · 1-2 8% · 2-1 8% · 2-2 7%  
-🔎 **Claves**  
-• Forma: Wrexham ❌✅❌❌✅ | Wolves ✅➖✅✅✅  
-• H2H: sin precedentes  
-• Bajas: Wrexham: sin bajas; Wolves: sin bajas  
-• Favorito de las casas: Wolves @ 2.20  
-📐 **Estadísticas esperadas**  
-Córners 5.0 - 5.3: total +10.5 45% · Wrexham +5.5 38% · Wolves +4.5 56%  
-Tarjetas 1.7 - 1.9: total +3.5 47% · Wrexham +2.5 24% · Wolves +2.5 29%  
-Faltas 10.5 - 10.3: total +22.5 35% · Wrexham +11.5 37% · Wolves +11.5 34%  
-Tiros a puerta 4.1 - 4.3: total +9.5 34% · Wrexham +5.5 24% · Wolves +3.5 61%  
-🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Wrexham + Menos de 2.5 tarjetas de Wrexham + Más de 2.5 goles → prob. 35%, cuota justa 2.87 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 tiros a puerta de Wrexham + Menos de 2.5 tarjetas de Wrexham + Más de 2.5 goles + Menos de 11.5 faltas de Wolves + Menos de 5.5 córners de Wrexham → prob. 16%, cuota justa 6.28  
-🎯 Simulada (con cuota: Más de 2.5 goles + Menos de 5.5 córners de Wrexham): cuota Unibet aprox. 2.65 (producto de piernas) · prob. 42% · ventaja +10% → 1 u en la banca de simulación  
+Actualizado 07/11/2026 13:53 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Clermont vs Rodez — 07/11 · 14:00
 
@@ -11322,6 +10587,7 @@ Faltas 7.8 - 13.2: total +22.5 37% · Club Brugge +10.5 18% · Anderlecht +11.5 
 Tiros a puerta 7.8 - 3.4: total +9.5 67% · Club Brugge +5.5 76% · Anderlecht +4.5 27%  
 🧩 Crear apuesta: Menos de 10.5 faltas de Club Brugge + Más de 5.5 tiros a puerta de Club Brugge + Menos de 4.5 córners de Anderlecht → prob. 44%, cuota justa 2.29 (solo vale si la casa paga más)  
 🚀 Combinada larga: Menos de 10.5 faltas de Club Brugge + Más de 5.5 tiros a puerta de Club Brugge + Menos de 4.5 córners de Anderlecht + Más de 2.5 goles + Menos de 1.5 tarjetas de Club Brugge → prob. 20%, cuota justa 4.88  
+🎯 Simulada (con cuota: Más de 5.5 tiros a puerta de Club Brugge + Menos de 1.5 tarjetas de Club Brugge): cuota Unibet aprox. 2.98 (producto de piernas) · prob. 49% · ventaja +45% → 1 u en la banca de simulación  
 
 ## Bochum vs Karlsruhe — 08/11 · 13:30
 
@@ -11347,6 +10613,7 @@ Faltas 11.3 - 11.0: total +23.5 39% · Bochum +11.5 45% · Karlsruhe +12.5 32%
 Tiros a puerta 6.0 - 3.8: total +10.5 40% · Bochum +5.5 54% · Karlsruhe +4.5 34%  
 🧩 Crear apuesta: Menos de 5.5 córners de Karlsruhe + Menos de 12.5 faltas de Karlsruhe + Menos de 2.5 tarjetas de Bochum → prob. 32%, cuota justa 3.17 (solo vale si la casa paga más)  
 🚀 Combinada larga: Menos de 5.5 córners de Karlsruhe + Menos de 12.5 faltas de Karlsruhe + Menos de 2.5 tarjetas de Bochum + Menos de 4.5 tiros a puerta de Karlsruhe + Más de 2.5 goles → prob. 11%, cuota justa 8.96  
+🎯 No simulada (con cuota: Menos de 5.5 córners de Karlsruhe + Más de 2.5 goles): cuota Unibet aprox. 2.16 (producto de piernas) · prob. 39% · ventaja -16%  
 
 ## Heidenheim vs Hannover — 08/11 · 13:30
 
@@ -11372,6 +10639,7 @@ Faltas 10.2 - 10.5: total +23.5 27% · Heidenheim +11.5 33% · Hannover +12.5 27
 Tiros a puerta 6.0 - 4.4: total +10.5 46% · Heidenheim +5.5 54% · Hannover +4.5 44%  
 🧩 Crear apuesta: Menos de 12.5 faltas de Hannover + Menos de 2.5 tarjetas de Heidenheim + Menos de 5.5 córners de Hannover → prob. 36%, cuota justa 2.81 (solo vale si la casa paga más)  
 🚀 Combinada larga: Menos de 12.5 faltas de Hannover + Menos de 2.5 tarjetas de Heidenheim + Menos de 5.5 córners de Hannover + Más de 2.5 goles + Menos de 4.5 tiros a puerta de Hannover → prob. 10%, cuota justa 9.58  
+🎯 No simulada (con cuota: Menos de 5.5 córners de Hannover + Más de 2.5 goles): cuota Unibet aprox. 2.24 (producto de piernas) · prob. 38% · ventaja -14%  
 
 ## Magdeburg vs St Pauli — 08/11 · 13:30
 
@@ -11397,6 +10665,631 @@ Faltas 10.4 - 12.3: total +23.5 42% · Magdeburg +11.5 36% · St Pauli +12.5 45%
 Tiros a puerta 5.0 - 4.9: total +10.5 40% · Magdeburg +5.5 39% · St Pauli +4.5 52%  
 🧩 Crear apuesta: Menos de 5.5 córners de St Pauli + Menos de 11.5 faltas de Magdeburg + Menos de 2.5 tarjetas de Magdeburg → prob. 29%, cuota justa 3.39 (solo vale si la casa paga más)  
 🚀 Combinada larga: Menos de 5.5 córners de St Pauli + Menos de 11.5 faltas de Magdeburg + Menos de 2.5 tarjetas de Magdeburg + Menos de 5.5 tiros a puerta de Magdeburg + Más de 2.5 goles → prob. 8%, cuota justa 12.28  
+🎯 No simulada (con cuota: Menos de 5.5 córners de St Pauli + Más de 2.5 goles): cuota Unibet aprox. 2.27 (producto de piernas) · prob. 41% · ventaja -7%  
+
+## Club Brugge vs Anderlecht — 08/11 · 13:30
+
+👀 candidata · 🇧🇪 Pro League · **Más de 7.5 córners de Club Brugge** @ **2.30** (Unibet) · prob 42% vs casas 40% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.35 - 0.96)  
+1 72% · X 18% · 2 10%  
+1X 90% · X2 28% · 12 82%  
++1.5 85% · +2.5 64% · +3.5 42% · Ambos marcan 56%  
+Marcadores: 2-0 10% · 2-1 10% · 1-1 9% · 1-0 8%  
+🔎 **Claves**  
+• Forma: Club Brugge ✅✅✅✅✅ | Anderlecht ✅✅✅❌✅  
+• H2H: 48 desde 2005: 18V-16E-14D · 3.0 goles/partido · +2.5 en 62%  
+• Bajas: Club Brugge: sin bajas; Anderlecht: sin bajas  
+• Favorito de las casas: Club Brugge @ 1.53  
+📐 **Estadísticas esperadas**  
+Córners 7.3 - 3.7: total +10.5 54% · Club Brugge +5.5 67% · Anderlecht +4.5 32%  
+Tarjetas 1.3 - 2.6: total +3.5 53% · Club Brugge +1.5 37% · Anderlecht +2.5 48%  
+Faltas 7.8 - 13.2: total +22.5 37% · Club Brugge +10.5 18% · Anderlecht +11.5 65%  
+Tiros a puerta 7.8 - 3.4: total +9.5 67% · Club Brugge +5.5 76% · Anderlecht +4.5 27%  
+🧩 Crear apuesta: Menos de 10.5 faltas de Club Brugge + Más de 5.5 tiros a puerta de Club Brugge + Menos de 4.5 córners de Anderlecht → prob. 44%, cuota justa 2.29 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 10.5 faltas de Club Brugge + Más de 5.5 tiros a puerta de Club Brugge + Menos de 4.5 córners de Anderlecht + Más de 2.5 goles + Menos de 1.5 tarjetas de Club Brugge → prob. 20%, cuota justa 4.88  
+🎯 Simulada (con cuota: Más de 5.5 tiros a puerta de Club Brugge + Menos de 1.5 tarjetas de Club Brugge): cuota Unibet aprox. 2.98 (producto de piernas) · prob. 49% · ventaja +45% → 1 u en la banca de simulación  
+
+## Club Brugge vs Anderlecht — 08/11 · 13:30
+
+👀 candidata · 🇧🇪 Pro League · **Menos de 8.5 córners de Club Brugge** @ **1.33** (Unibet) · prob 68% vs casas 69% · ventaja -10%
+
+- ❌ Valor: ventaja -10% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.35 - 0.96)  
+1 72% · X 18% · 2 10%  
+1X 90% · X2 28% · 12 82%  
++1.5 85% · +2.5 64% · +3.5 42% · Ambos marcan 56%  
+Marcadores: 2-0 10% · 2-1 10% · 1-1 9% · 1-0 8%  
+🔎 **Claves**  
+• Forma: Club Brugge ✅✅✅✅✅ | Anderlecht ✅✅✅❌✅  
+• H2H: 48 desde 2005: 18V-16E-14D · 3.0 goles/partido · +2.5 en 62%  
+• Bajas: Club Brugge: sin bajas; Anderlecht: sin bajas  
+• Favorito de las casas: Club Brugge @ 1.53  
+📐 **Estadísticas esperadas**  
+Córners 7.3 - 3.7: total +10.5 54% · Club Brugge +5.5 67% · Anderlecht +4.5 32%  
+Tarjetas 1.3 - 2.6: total +3.5 53% · Club Brugge +1.5 37% · Anderlecht +2.5 48%  
+Faltas 7.8 - 13.2: total +22.5 37% · Club Brugge +10.5 18% · Anderlecht +11.5 65%  
+Tiros a puerta 7.8 - 3.4: total +9.5 67% · Club Brugge +5.5 76% · Anderlecht +4.5 27%  
+🧩 Crear apuesta: Menos de 10.5 faltas de Club Brugge + Más de 5.5 tiros a puerta de Club Brugge + Menos de 4.5 córners de Anderlecht → prob. 44%, cuota justa 2.29 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 10.5 faltas de Club Brugge + Más de 5.5 tiros a puerta de Club Brugge + Menos de 4.5 córners de Anderlecht + Más de 2.5 goles + Menos de 1.5 tarjetas de Club Brugge → prob. 20%, cuota justa 4.88  
+🎯 Simulada (con cuota: Más de 5.5 tiros a puerta de Club Brugge + Menos de 1.5 tarjetas de Club Brugge): cuota Unibet aprox. 2.98 (producto de piernas) · prob. 49% · ventaja +45% → 1 u en la banca de simulación  
+
+## Club Brugge vs Anderlecht — 08/11 · 13:30
+
+👀 candidata · 🇧🇪 Pro League · **Más de 2.5 córners de Anderlecht** @ **1.38** (Unibet) · prob 67% vs casas 67% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.35 - 0.96)  
+1 72% · X 18% · 2 10%  
+1X 90% · X2 28% · 12 82%  
++1.5 85% · +2.5 64% · +3.5 42% · Ambos marcan 56%  
+Marcadores: 2-0 10% · 2-1 10% · 1-1 9% · 1-0 8%  
+🔎 **Claves**  
+• Forma: Club Brugge ✅✅✅✅✅ | Anderlecht ✅✅✅❌✅  
+• H2H: 48 desde 2005: 18V-16E-14D · 3.0 goles/partido · +2.5 en 62%  
+• Bajas: Club Brugge: sin bajas; Anderlecht: sin bajas  
+• Favorito de las casas: Club Brugge @ 1.53  
+📐 **Estadísticas esperadas**  
+Córners 7.3 - 3.7: total +10.5 54% · Club Brugge +5.5 67% · Anderlecht +4.5 32%  
+Tarjetas 1.3 - 2.6: total +3.5 53% · Club Brugge +1.5 37% · Anderlecht +2.5 48%  
+Faltas 7.8 - 13.2: total +22.5 37% · Club Brugge +10.5 18% · Anderlecht +11.5 65%  
+Tiros a puerta 7.8 - 3.4: total +9.5 67% · Club Brugge +5.5 76% · Anderlecht +4.5 27%  
+🧩 Crear apuesta: Menos de 10.5 faltas de Club Brugge + Más de 5.5 tiros a puerta de Club Brugge + Menos de 4.5 córners de Anderlecht → prob. 44%, cuota justa 2.29 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 10.5 faltas de Club Brugge + Más de 5.5 tiros a puerta de Club Brugge + Menos de 4.5 córners de Anderlecht + Más de 2.5 goles + Menos de 1.5 tarjetas de Club Brugge → prob. 20%, cuota justa 4.88  
+🎯 Simulada (con cuota: Más de 5.5 tiros a puerta de Club Brugge + Menos de 1.5 tarjetas de Club Brugge): cuota Unibet aprox. 2.98 (producto de piernas) · prob. 49% · ventaja +45% → 1 u en la banca de simulación  
+
+## Club Brugge vs Anderlecht — 08/11 · 13:30
+
+👀 candidata · 🇧🇪 Pro League · **Menos de 4.5 córners de Anderlecht** @ **1.42** (Unibet) · prob 66% vs casas 65% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.35 - 0.96)  
+1 72% · X 18% · 2 10%  
+1X 90% · X2 28% · 12 82%  
++1.5 85% · +2.5 64% · +3.5 42% · Ambos marcan 56%  
+Marcadores: 2-0 10% · 2-1 10% · 1-1 9% · 1-0 8%  
+🔎 **Claves**  
+• Forma: Club Brugge ✅✅✅✅✅ | Anderlecht ✅✅✅❌✅  
+• H2H: 48 desde 2005: 18V-16E-14D · 3.0 goles/partido · +2.5 en 62%  
+• Bajas: Club Brugge: sin bajas; Anderlecht: sin bajas  
+• Favorito de las casas: Club Brugge @ 1.53  
+📐 **Estadísticas esperadas**  
+Córners 7.3 - 3.7: total +10.5 54% · Club Brugge +5.5 67% · Anderlecht +4.5 32%  
+Tarjetas 1.3 - 2.6: total +3.5 53% · Club Brugge +1.5 37% · Anderlecht +2.5 48%  
+Faltas 7.8 - 13.2: total +22.5 37% · Club Brugge +10.5 18% · Anderlecht +11.5 65%  
+Tiros a puerta 7.8 - 3.4: total +9.5 67% · Club Brugge +5.5 76% · Anderlecht +4.5 27%  
+🧩 Crear apuesta: Menos de 10.5 faltas de Club Brugge + Más de 5.5 tiros a puerta de Club Brugge + Menos de 4.5 córners de Anderlecht → prob. 44%, cuota justa 2.29 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 10.5 faltas de Club Brugge + Más de 5.5 tiros a puerta de Club Brugge + Menos de 4.5 córners de Anderlecht + Más de 2.5 goles + Menos de 1.5 tarjetas de Club Brugge → prob. 20%, cuota justa 4.88  
+🎯 Simulada (con cuota: Más de 5.5 tiros a puerta de Club Brugge + Menos de 1.5 tarjetas de Club Brugge): cuota Unibet aprox. 2.98 (producto de piernas) · prob. 49% · ventaja +45% → 1 u en la banca de simulación  
+
+## Club Brugge vs Anderlecht — 08/11 · 13:30
+
+👀 candidata · 🇧🇪 Pro League · **Más de 8.5 córners** @ **1.32** (Unibet) · prob 72% vs casas 69% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.35 - 0.96)  
+1 72% · X 18% · 2 10%  
+1X 90% · X2 28% · 12 82%  
++1.5 85% · +2.5 64% · +3.5 42% · Ambos marcan 56%  
+Marcadores: 2-0 10% · 2-1 10% · 1-1 9% · 1-0 8%  
+🔎 **Claves**  
+• Forma: Club Brugge ✅✅✅✅✅ | Anderlecht ✅✅✅❌✅  
+• H2H: 48 desde 2005: 18V-16E-14D · 3.0 goles/partido · +2.5 en 62%  
+• Bajas: Club Brugge: sin bajas; Anderlecht: sin bajas  
+• Favorito de las casas: Club Brugge @ 1.53  
+📐 **Estadísticas esperadas**  
+Córners 7.3 - 3.7: total +10.5 54% · Club Brugge +5.5 67% · Anderlecht +4.5 32%  
+Tarjetas 1.3 - 2.6: total +3.5 53% · Club Brugge +1.5 37% · Anderlecht +2.5 48%  
+Faltas 7.8 - 13.2: total +22.5 37% · Club Brugge +10.5 18% · Anderlecht +11.5 65%  
+Tiros a puerta 7.8 - 3.4: total +9.5 67% · Club Brugge +5.5 76% · Anderlecht +4.5 27%  
+🧩 Crear apuesta: Menos de 10.5 faltas de Club Brugge + Más de 5.5 tiros a puerta de Club Brugge + Menos de 4.5 córners de Anderlecht → prob. 44%, cuota justa 2.29 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 10.5 faltas de Club Brugge + Más de 5.5 tiros a puerta de Club Brugge + Menos de 4.5 córners de Anderlecht + Más de 2.5 goles + Menos de 1.5 tarjetas de Club Brugge → prob. 20%, cuota justa 4.88  
+🎯 Simulada (con cuota: Más de 5.5 tiros a puerta de Club Brugge + Menos de 1.5 tarjetas de Club Brugge): cuota Unibet aprox. 2.98 (producto de piernas) · prob. 49% · ventaja +45% → 1 u en la banca de simulación  
+
+## Club Brugge vs Anderlecht — 08/11 · 13:30
+
+👀 candidata · 🇧🇪 Pro League · **Menos de 12.5 córners** @ **1.35** (Unibet) · prob 68% vs casas 68% · ventaja -9%
+
+- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.35 - 0.96)  
+1 72% · X 18% · 2 10%  
+1X 90% · X2 28% · 12 82%  
++1.5 85% · +2.5 64% · +3.5 42% · Ambos marcan 56%  
+Marcadores: 2-0 10% · 2-1 10% · 1-1 9% · 1-0 8%  
+🔎 **Claves**  
+• Forma: Club Brugge ✅✅✅✅✅ | Anderlecht ✅✅✅❌✅  
+• H2H: 48 desde 2005: 18V-16E-14D · 3.0 goles/partido · +2.5 en 62%  
+• Bajas: Club Brugge: sin bajas; Anderlecht: sin bajas  
+• Favorito de las casas: Club Brugge @ 1.53  
+📐 **Estadísticas esperadas**  
+Córners 7.3 - 3.7: total +10.5 54% · Club Brugge +5.5 67% · Anderlecht +4.5 32%  
+Tarjetas 1.3 - 2.6: total +3.5 53% · Club Brugge +1.5 37% · Anderlecht +2.5 48%  
+Faltas 7.8 - 13.2: total +22.5 37% · Club Brugge +10.5 18% · Anderlecht +11.5 65%  
+Tiros a puerta 7.8 - 3.4: total +9.5 67% · Club Brugge +5.5 76% · Anderlecht +4.5 27%  
+🧩 Crear apuesta: Menos de 10.5 faltas de Club Brugge + Más de 5.5 tiros a puerta de Club Brugge + Menos de 4.5 córners de Anderlecht → prob. 44%, cuota justa 2.29 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 10.5 faltas de Club Brugge + Más de 5.5 tiros a puerta de Club Brugge + Menos de 4.5 córners de Anderlecht + Más de 2.5 goles + Menos de 1.5 tarjetas de Club Brugge → prob. 20%, cuota justa 4.88  
+🎯 Simulada (con cuota: Más de 5.5 tiros a puerta de Club Brugge + Menos de 1.5 tarjetas de Club Brugge): cuota Unibet aprox. 2.98 (producto de piernas) · prob. 49% · ventaja +45% → 1 u en la banca de simulación  
+
+## Bochum vs Karlsruhe — 08/11 · 13:30
+
+👀 candidata · 🇩🇪 2. Bundesliga · **Más de 9.5 córners** @ **1.48** (Unibet) · prob 59% vs casas 62% · ventaja -13%
+
+- ❌ Valor: ventaja -13% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.72 - 1.19)  
+1 48% · X 28% · 2 25%  
+1X 75% · X2 52% · 12 72%  
++1.5 79% · +2.5 56% · +3.5 33% · Ambos marcan 58%  
+Marcadores: 1-1 12% · 2-1 10% · 1-0 9% · 2-0 8%  
+🔎 **Claves**  
+• Forma: Bochum ❌❌❌➖✅ | Karlsruhe ❌❌✅❌✅  
+• H2H: 24 desde 2005: 6V-13E-5D · 2.3 goles/partido · +2.5 en 38%  
+• Bajas: Bochum: 1 fuera, 4 duda (Philipp Strompf); Karlsruhe: 0 fuera, 1 duda  
+• Favorito de las casas: Bochum @ 1.85  
+📐 **Estadísticas esperadas**  
+Córners 5.7 - 4.5: total +10.5 44% · Bochum +5.5 48% · Karlsruhe +5.5 31%  
+Tarjetas 2.1 - 2.4: total +4.5 46% · Bochum +2.5 34% · Karlsruhe +2.5 44%  
+Faltas 11.3 - 11.0: total +23.5 39% · Bochum +11.5 45% · Karlsruhe +12.5 32%  
+Tiros a puerta 6.0 - 3.8: total +10.5 40% · Bochum +5.5 54% · Karlsruhe +4.5 34%  
+🧩 Crear apuesta: Menos de 5.5 córners de Karlsruhe + Menos de 12.5 faltas de Karlsruhe + Menos de 2.5 tarjetas de Bochum → prob. 32%, cuota justa 3.17 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 córners de Karlsruhe + Menos de 12.5 faltas de Karlsruhe + Menos de 2.5 tarjetas de Bochum + Menos de 4.5 tiros a puerta de Karlsruhe + Más de 2.5 goles → prob. 11%, cuota justa 8.96  
+🎯 No simulada (con cuota: Menos de 5.5 córners de Karlsruhe + Más de 2.5 goles): cuota Unibet aprox. 2.16 (producto de piernas) · prob. 39% · ventaja -16%  
+
+## Bochum vs Karlsruhe — 08/11 · 13:30
+
+👀 candidata · 🇩🇪 2. Bundesliga · **Menos de 10.5 córners** @ **1.92** (Unibet) · prob 52% vs casas 48% · ventaja -0%
+
+- ❌ Valor: ventaja -0% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.72 - 1.19)  
+1 48% · X 28% · 2 25%  
+1X 75% · X2 52% · 12 72%  
++1.5 79% · +2.5 56% · +3.5 33% · Ambos marcan 58%  
+Marcadores: 1-1 12% · 2-1 10% · 1-0 9% · 2-0 8%  
+🔎 **Claves**  
+• Forma: Bochum ❌❌❌➖✅ | Karlsruhe ❌❌✅❌✅  
+• H2H: 24 desde 2005: 6V-13E-5D · 2.3 goles/partido · +2.5 en 38%  
+• Bajas: Bochum: 1 fuera, 4 duda (Philipp Strompf); Karlsruhe: 0 fuera, 1 duda  
+• Favorito de las casas: Bochum @ 1.85  
+📐 **Estadísticas esperadas**  
+Córners 5.7 - 4.5: total +10.5 44% · Bochum +5.5 48% · Karlsruhe +5.5 31%  
+Tarjetas 2.1 - 2.4: total +4.5 46% · Bochum +2.5 34% · Karlsruhe +2.5 44%  
+Faltas 11.3 - 11.0: total +23.5 39% · Bochum +11.5 45% · Karlsruhe +12.5 32%  
+Tiros a puerta 6.0 - 3.8: total +10.5 40% · Bochum +5.5 54% · Karlsruhe +4.5 34%  
+🧩 Crear apuesta: Menos de 5.5 córners de Karlsruhe + Menos de 12.5 faltas de Karlsruhe + Menos de 2.5 tarjetas de Bochum → prob. 32%, cuota justa 3.17 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 córners de Karlsruhe + Menos de 12.5 faltas de Karlsruhe + Menos de 2.5 tarjetas de Bochum + Menos de 4.5 tiros a puerta de Karlsruhe + Más de 2.5 goles → prob. 11%, cuota justa 8.96  
+🎯 No simulada (con cuota: Menos de 5.5 córners de Karlsruhe + Más de 2.5 goles): cuota Unibet aprox. 2.16 (producto de piernas) · prob. 39% · ventaja -16%  
+
+## Bochum vs Karlsruhe — 08/11 · 13:30
+
+👀 candidata · 🇩🇪 2. Bundesliga · **Más de 4.5 córners de Bochum** @ **1.38** (Unibet) · prob 64% vs casas 66% · ventaja -12%
+
+- ❌ Valor: ventaja -12% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.72 - 1.19)  
+1 48% · X 28% · 2 25%  
+1X 75% · X2 52% · 12 72%  
++1.5 79% · +2.5 56% · +3.5 33% · Ambos marcan 58%  
+Marcadores: 1-1 12% · 2-1 10% · 1-0 9% · 2-0 8%  
+🔎 **Claves**  
+• Forma: Bochum ❌❌❌➖✅ | Karlsruhe ❌❌✅❌✅  
+• H2H: 24 desde 2005: 6V-13E-5D · 2.3 goles/partido · +2.5 en 38%  
+• Bajas: Bochum: 1 fuera, 4 duda (Philipp Strompf); Karlsruhe: 0 fuera, 1 duda  
+• Favorito de las casas: Bochum @ 1.85  
+📐 **Estadísticas esperadas**  
+Córners 5.7 - 4.5: total +10.5 44% · Bochum +5.5 48% · Karlsruhe +5.5 31%  
+Tarjetas 2.1 - 2.4: total +4.5 46% · Bochum +2.5 34% · Karlsruhe +2.5 44%  
+Faltas 11.3 - 11.0: total +23.5 39% · Bochum +11.5 45% · Karlsruhe +12.5 32%  
+Tiros a puerta 6.0 - 3.8: total +10.5 40% · Bochum +5.5 54% · Karlsruhe +4.5 34%  
+🧩 Crear apuesta: Menos de 5.5 córners de Karlsruhe + Menos de 12.5 faltas de Karlsruhe + Menos de 2.5 tarjetas de Bochum → prob. 32%, cuota justa 3.17 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 córners de Karlsruhe + Menos de 12.5 faltas de Karlsruhe + Menos de 2.5 tarjetas de Bochum + Menos de 4.5 tiros a puerta de Karlsruhe + Más de 2.5 goles → prob. 11%, cuota justa 8.96  
+🎯 No simulada (con cuota: Menos de 5.5 córners de Karlsruhe + Más de 2.5 goles): cuota Unibet aprox. 2.16 (producto de piernas) · prob. 39% · ventaja -16%  
+
+## Bochum vs Karlsruhe — 08/11 · 13:30
+
+👀 candidata · 🇩🇪 2. Bundesliga · **Menos de 5.5 córners de Bochum** @ **2.00** (Unibet) · prob 49% vs casas 46% · ventaja -2%
+
+- ❌ Valor: ventaja -2% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.72 - 1.19)  
+1 48% · X 28% · 2 25%  
+1X 75% · X2 52% · 12 72%  
++1.5 79% · +2.5 56% · +3.5 33% · Ambos marcan 58%  
+Marcadores: 1-1 12% · 2-1 10% · 1-0 9% · 2-0 8%  
+🔎 **Claves**  
+• Forma: Bochum ❌❌❌➖✅ | Karlsruhe ❌❌✅❌✅  
+• H2H: 24 desde 2005: 6V-13E-5D · 2.3 goles/partido · +2.5 en 38%  
+• Bajas: Bochum: 1 fuera, 4 duda (Philipp Strompf); Karlsruhe: 0 fuera, 1 duda  
+• Favorito de las casas: Bochum @ 1.85  
+📐 **Estadísticas esperadas**  
+Córners 5.7 - 4.5: total +10.5 44% · Bochum +5.5 48% · Karlsruhe +5.5 31%  
+Tarjetas 2.1 - 2.4: total +4.5 46% · Bochum +2.5 34% · Karlsruhe +2.5 44%  
+Faltas 11.3 - 11.0: total +23.5 39% · Bochum +11.5 45% · Karlsruhe +12.5 32%  
+Tiros a puerta 6.0 - 3.8: total +10.5 40% · Bochum +5.5 54% · Karlsruhe +4.5 34%  
+🧩 Crear apuesta: Menos de 5.5 córners de Karlsruhe + Menos de 12.5 faltas de Karlsruhe + Menos de 2.5 tarjetas de Bochum → prob. 32%, cuota justa 3.17 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 córners de Karlsruhe + Menos de 12.5 faltas de Karlsruhe + Menos de 2.5 tarjetas de Bochum + Menos de 4.5 tiros a puerta de Karlsruhe + Más de 2.5 goles → prob. 11%, cuota justa 8.96  
+🎯 No simulada (con cuota: Menos de 5.5 córners de Karlsruhe + Más de 2.5 goles): cuota Unibet aprox. 2.16 (producto de piernas) · prob. 39% · ventaja -16%  
+
+## Bochum vs Karlsruhe — 08/11 · 13:30
+
+👀 candidata · 🇩🇪 2. Bundesliga · **Más de 3.5 córners de Karlsruhe** @ **1.48** (Unibet) · prob 62% vs casas 62% · ventaja -9%
+
+- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.72 - 1.19)  
+1 48% · X 28% · 2 25%  
+1X 75% · X2 52% · 12 72%  
++1.5 79% · +2.5 56% · +3.5 33% · Ambos marcan 58%  
+Marcadores: 1-1 12% · 2-1 10% · 1-0 9% · 2-0 8%  
+🔎 **Claves**  
+• Forma: Bochum ❌❌❌➖✅ | Karlsruhe ❌❌✅❌✅  
+• H2H: 24 desde 2005: 6V-13E-5D · 2.3 goles/partido · +2.5 en 38%  
+• Bajas: Bochum: 1 fuera, 4 duda (Philipp Strompf); Karlsruhe: 0 fuera, 1 duda  
+• Favorito de las casas: Bochum @ 1.85  
+📐 **Estadísticas esperadas**  
+Córners 5.7 - 4.5: total +10.5 44% · Bochum +5.5 48% · Karlsruhe +5.5 31%  
+Tarjetas 2.1 - 2.4: total +4.5 46% · Bochum +2.5 34% · Karlsruhe +2.5 44%  
+Faltas 11.3 - 11.0: total +23.5 39% · Bochum +11.5 45% · Karlsruhe +12.5 32%  
+Tiros a puerta 6.0 - 3.8: total +10.5 40% · Bochum +5.5 54% · Karlsruhe +4.5 34%  
+🧩 Crear apuesta: Menos de 5.5 córners de Karlsruhe + Menos de 12.5 faltas de Karlsruhe + Menos de 2.5 tarjetas de Bochum → prob. 32%, cuota justa 3.17 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 córners de Karlsruhe + Menos de 12.5 faltas de Karlsruhe + Menos de 2.5 tarjetas de Bochum + Menos de 4.5 tiros a puerta de Karlsruhe + Más de 2.5 goles → prob. 11%, cuota justa 8.96  
+🎯 No simulada (con cuota: Menos de 5.5 córners de Karlsruhe + Más de 2.5 goles): cuota Unibet aprox. 2.16 (producto de piernas) · prob. 39% · ventaja -16%  
+
+## Bochum vs Karlsruhe — 08/11 · 13:30
+
+👀 candidata · 🇩🇪 2. Bundesliga · **Menos de 5.5 córners de Karlsruhe** @ **1.42** (Unibet) · prob 67% vs casas 65% · ventaja -5%
+
+- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.72 - 1.19)  
+1 48% · X 28% · 2 25%  
+1X 75% · X2 52% · 12 72%  
++1.5 79% · +2.5 56% · +3.5 33% · Ambos marcan 58%  
+Marcadores: 1-1 12% · 2-1 10% · 1-0 9% · 2-0 8%  
+🔎 **Claves**  
+• Forma: Bochum ❌❌❌➖✅ | Karlsruhe ❌❌✅❌✅  
+• H2H: 24 desde 2005: 6V-13E-5D · 2.3 goles/partido · +2.5 en 38%  
+• Bajas: Bochum: 1 fuera, 4 duda (Philipp Strompf); Karlsruhe: 0 fuera, 1 duda  
+• Favorito de las casas: Bochum @ 1.85  
+📐 **Estadísticas esperadas**  
+Córners 5.7 - 4.5: total +10.5 44% · Bochum +5.5 48% · Karlsruhe +5.5 31%  
+Tarjetas 2.1 - 2.4: total +4.5 46% · Bochum +2.5 34% · Karlsruhe +2.5 44%  
+Faltas 11.3 - 11.0: total +23.5 39% · Bochum +11.5 45% · Karlsruhe +12.5 32%  
+Tiros a puerta 6.0 - 3.8: total +10.5 40% · Bochum +5.5 54% · Karlsruhe +4.5 34%  
+🧩 Crear apuesta: Menos de 5.5 córners de Karlsruhe + Menos de 12.5 faltas de Karlsruhe + Menos de 2.5 tarjetas de Bochum → prob. 32%, cuota justa 3.17 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 córners de Karlsruhe + Menos de 12.5 faltas de Karlsruhe + Menos de 2.5 tarjetas de Bochum + Menos de 4.5 tiros a puerta de Karlsruhe + Más de 2.5 goles → prob. 11%, cuota justa 8.96  
+🎯 No simulada (con cuota: Menos de 5.5 córners de Karlsruhe + Más de 2.5 goles): cuota Unibet aprox. 2.16 (producto de piernas) · prob. 39% · ventaja -16%  
+
+## Heidenheim vs Hannover — 08/11 · 13:30
+
+👀 candidata · 🇩🇪 2. Bundesliga · **Más de 4.5 córners de Hannover** @ **1.67** (Unibet) · prob 51% vs casas 55% · ventaja -15%
+
+- ❌ Valor: ventaja -15% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.70 - 1.24)  
+1 47% · X 28% · 2 26%  
+1X 74% · X2 53% · 12 72%  
++1.5 80% · +2.5 56% · +3.5 34% · Ambos marcan 59%  
+Marcadores: 1-1 12% · 2-1 9% · 1-0 8% · 2-0 8%  
+🔎 **Claves**  
+• Forma: Heidenheim ➖➖❌➖❌ | Hannover ✅❌➖❌✅  
+• H2H: 10 desde 2016: 6V-0E-4D · 3.0 goles/partido · +2.5 en 70%  
+• Bajas: Heidenheim: 0 fuera, 1 duda; Hannover: 0 fuera, 1 duda  
+• Favorito de las casas: Heidenheim @ 2.05  
+📐 **Estadísticas esperadas**  
+Córners 6.4 - 4.6: total +10.5 54% · Heidenheim +5.5 57% · Hannover +5.5 33%  
+Tarjetas 1.9 - 2.2: total +4.5 39% · Heidenheim +2.5 29% · Hannover +2.5 39%  
+Faltas 10.2 - 10.5: total +23.5 27% · Heidenheim +11.5 33% · Hannover +12.5 27%  
+Tiros a puerta 6.0 - 4.4: total +10.5 46% · Heidenheim +5.5 54% · Hannover +4.5 44%  
+🧩 Crear apuesta: Menos de 12.5 faltas de Hannover + Menos de 2.5 tarjetas de Heidenheim + Menos de 5.5 córners de Hannover → prob. 36%, cuota justa 2.81 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 12.5 faltas de Hannover + Menos de 2.5 tarjetas de Heidenheim + Menos de 5.5 córners de Hannover + Más de 2.5 goles + Menos de 4.5 tiros a puerta de Hannover → prob. 10%, cuota justa 9.58  
+🎯 No simulada (con cuota: Menos de 5.5 córners de Hannover + Más de 2.5 goles): cuota Unibet aprox. 2.24 (producto de piernas) · prob. 38% · ventaja -14%  
+
+## Heidenheim vs Hannover — 08/11 · 13:30
+
+👀 candidata · 🇩🇪 2. Bundesliga · **Menos de 4.5 córners de Hannover** @ **2.02** (Unibet) · prob 49% vs casas 45% · ventaja -1%
+
+- ❌ Valor: ventaja -1% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.70 - 1.24)  
+1 47% · X 28% · 2 26%  
+1X 74% · X2 53% · 12 72%  
++1.5 80% · +2.5 56% · +3.5 34% · Ambos marcan 59%  
+Marcadores: 1-1 12% · 2-1 9% · 1-0 8% · 2-0 8%  
+🔎 **Claves**  
+• Forma: Heidenheim ➖➖❌➖❌ | Hannover ✅❌➖❌✅  
+• H2H: 10 desde 2016: 6V-0E-4D · 3.0 goles/partido · +2.5 en 70%  
+• Bajas: Heidenheim: 0 fuera, 1 duda; Hannover: 0 fuera, 1 duda  
+• Favorito de las casas: Heidenheim @ 2.05  
+📐 **Estadísticas esperadas**  
+Córners 6.4 - 4.6: total +10.5 54% · Heidenheim +5.5 57% · Hannover +5.5 33%  
+Tarjetas 1.9 - 2.2: total +4.5 39% · Heidenheim +2.5 29% · Hannover +2.5 39%  
+Faltas 10.2 - 10.5: total +23.5 27% · Heidenheim +11.5 33% · Hannover +12.5 27%  
+Tiros a puerta 6.0 - 4.4: total +10.5 46% · Heidenheim +5.5 54% · Hannover +4.5 44%  
+🧩 Crear apuesta: Menos de 12.5 faltas de Hannover + Menos de 2.5 tarjetas de Heidenheim + Menos de 5.5 córners de Hannover → prob. 36%, cuota justa 2.81 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 12.5 faltas de Hannover + Menos de 2.5 tarjetas de Heidenheim + Menos de 5.5 córners de Hannover + Más de 2.5 goles + Menos de 4.5 tiros a puerta de Hannover → prob. 10%, cuota justa 9.58  
+🎯 No simulada (con cuota: Menos de 5.5 córners de Hannover + Más de 2.5 goles): cuota Unibet aprox. 2.24 (producto de piernas) · prob. 38% · ventaja -14%  
+
+## Heidenheim vs Hannover — 08/11 · 13:30
+
+👀 candidata · 🇩🇪 2. Bundesliga · **Más de 6.5 córners de Heidenheim** @ **2.43** (Unibet) · prob 41% vs casas 38% · ventaja -0%
+
+- ❌ Valor: ventaja -0% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.70 - 1.24)  
+1 47% · X 28% · 2 26%  
+1X 74% · X2 53% · 12 72%  
++1.5 80% · +2.5 56% · +3.5 34% · Ambos marcan 59%  
+Marcadores: 1-1 12% · 2-1 9% · 1-0 8% · 2-0 8%  
+🔎 **Claves**  
+• Forma: Heidenheim ➖➖❌➖❌ | Hannover ✅❌➖❌✅  
+• H2H: 10 desde 2016: 6V-0E-4D · 3.0 goles/partido · +2.5 en 70%  
+• Bajas: Heidenheim: 0 fuera, 1 duda; Hannover: 0 fuera, 1 duda  
+• Favorito de las casas: Heidenheim @ 2.05  
+📐 **Estadísticas esperadas**  
+Córners 6.4 - 4.6: total +10.5 54% · Heidenheim +5.5 57% · Hannover +5.5 33%  
+Tarjetas 1.9 - 2.2: total +4.5 39% · Heidenheim +2.5 29% · Hannover +2.5 39%  
+Faltas 10.2 - 10.5: total +23.5 27% · Heidenheim +11.5 33% · Hannover +12.5 27%  
+Tiros a puerta 6.0 - 4.4: total +10.5 46% · Heidenheim +5.5 54% · Hannover +4.5 44%  
+🧩 Crear apuesta: Menos de 12.5 faltas de Hannover + Menos de 2.5 tarjetas de Heidenheim + Menos de 5.5 córners de Hannover → prob. 36%, cuota justa 2.81 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 12.5 faltas de Hannover + Menos de 2.5 tarjetas de Heidenheim + Menos de 5.5 córners de Hannover + Más de 2.5 goles + Menos de 4.5 tiros a puerta de Hannover → prob. 10%, cuota justa 9.58  
+🎯 No simulada (con cuota: Menos de 5.5 córners de Hannover + Más de 2.5 goles): cuota Unibet aprox. 2.24 (producto de piernas) · prob. 38% · ventaja -14%  
+
+## Heidenheim vs Hannover — 08/11 · 13:30
+
+👀 candidata · 🇩🇪 2. Bundesliga · **Menos de 6.5 córners de Heidenheim** @ **1.47** (Unibet) · prob 59% vs casas 62% · ventaja -13%
+
+- ❌ Valor: ventaja -13% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.70 - 1.24)  
+1 47% · X 28% · 2 26%  
+1X 74% · X2 53% · 12 72%  
++1.5 80% · +2.5 56% · +3.5 34% · Ambos marcan 59%  
+Marcadores: 1-1 12% · 2-1 9% · 1-0 8% · 2-0 8%  
+🔎 **Claves**  
+• Forma: Heidenheim ➖➖❌➖❌ | Hannover ✅❌➖❌✅  
+• H2H: 10 desde 2016: 6V-0E-4D · 3.0 goles/partido · +2.5 en 70%  
+• Bajas: Heidenheim: 0 fuera, 1 duda; Hannover: 0 fuera, 1 duda  
+• Favorito de las casas: Heidenheim @ 2.05  
+📐 **Estadísticas esperadas**  
+Córners 6.4 - 4.6: total +10.5 54% · Heidenheim +5.5 57% · Hannover +5.5 33%  
+Tarjetas 1.9 - 2.2: total +4.5 39% · Heidenheim +2.5 29% · Hannover +2.5 39%  
+Faltas 10.2 - 10.5: total +23.5 27% · Heidenheim +11.5 33% · Hannover +12.5 27%  
+Tiros a puerta 6.0 - 4.4: total +10.5 46% · Heidenheim +5.5 54% · Hannover +4.5 44%  
+🧩 Crear apuesta: Menos de 12.5 faltas de Hannover + Menos de 2.5 tarjetas de Heidenheim + Menos de 5.5 córners de Hannover → prob. 36%, cuota justa 2.81 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 12.5 faltas de Hannover + Menos de 2.5 tarjetas de Heidenheim + Menos de 5.5 córners de Hannover + Más de 2.5 goles + Menos de 4.5 tiros a puerta de Hannover → prob. 10%, cuota justa 9.58  
+🎯 No simulada (con cuota: Menos de 5.5 córners de Hannover + Más de 2.5 goles): cuota Unibet aprox. 2.24 (producto de piernas) · prob. 38% · ventaja -14%  
+
+## Heidenheim vs Hannover — 08/11 · 13:30
+
+👀 candidata · 🇩🇪 2. Bundesliga · **Más de 9.5 córners** @ **1.48** (Unibet) · prob 63% vs casas 62% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.70 - 1.24)  
+1 47% · X 28% · 2 26%  
+1X 74% · X2 53% · 12 72%  
++1.5 80% · +2.5 56% · +3.5 34% · Ambos marcan 59%  
+Marcadores: 1-1 12% · 2-1 9% · 1-0 8% · 2-0 8%  
+🔎 **Claves**  
+• Forma: Heidenheim ➖➖❌➖❌ | Hannover ✅❌➖❌✅  
+• H2H: 10 desde 2016: 6V-0E-4D · 3.0 goles/partido · +2.5 en 70%  
+• Bajas: Heidenheim: 0 fuera, 1 duda; Hannover: 0 fuera, 1 duda  
+• Favorito de las casas: Heidenheim @ 2.05  
+📐 **Estadísticas esperadas**  
+Córners 6.4 - 4.6: total +10.5 54% · Heidenheim +5.5 57% · Hannover +5.5 33%  
+Tarjetas 1.9 - 2.2: total +4.5 39% · Heidenheim +2.5 29% · Hannover +2.5 39%  
+Faltas 10.2 - 10.5: total +23.5 27% · Heidenheim +11.5 33% · Hannover +12.5 27%  
+Tiros a puerta 6.0 - 4.4: total +10.5 46% · Heidenheim +5.5 54% · Hannover +4.5 44%  
+🧩 Crear apuesta: Menos de 12.5 faltas de Hannover + Menos de 2.5 tarjetas de Heidenheim + Menos de 5.5 córners de Hannover → prob. 36%, cuota justa 2.81 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 12.5 faltas de Hannover + Menos de 2.5 tarjetas de Heidenheim + Menos de 5.5 córners de Hannover + Más de 2.5 goles + Menos de 4.5 tiros a puerta de Hannover → prob. 10%, cuota justa 9.58  
+🎯 No simulada (con cuota: Menos de 5.5 córners de Hannover + Más de 2.5 goles): cuota Unibet aprox. 2.24 (producto de piernas) · prob. 38% · ventaja -14%  
+
+## Heidenheim vs Hannover — 08/11 · 13:30
+
+👀 candidata · 🇩🇪 2. Bundesliga · **Menos de 12.5 córners** @ **1.38** (Unibet) · prob 67% vs casas 67% · ventaja -7%
+
+- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.70 - 1.24)  
+1 47% · X 28% · 2 26%  
+1X 74% · X2 53% · 12 72%  
++1.5 80% · +2.5 56% · +3.5 34% · Ambos marcan 59%  
+Marcadores: 1-1 12% · 2-1 9% · 1-0 8% · 2-0 8%  
+🔎 **Claves**  
+• Forma: Heidenheim ➖➖❌➖❌ | Hannover ✅❌➖❌✅  
+• H2H: 10 desde 2016: 6V-0E-4D · 3.0 goles/partido · +2.5 en 70%  
+• Bajas: Heidenheim: 0 fuera, 1 duda; Hannover: 0 fuera, 1 duda  
+• Favorito de las casas: Heidenheim @ 2.05  
+📐 **Estadísticas esperadas**  
+Córners 6.4 - 4.6: total +10.5 54% · Heidenheim +5.5 57% · Hannover +5.5 33%  
+Tarjetas 1.9 - 2.2: total +4.5 39% · Heidenheim +2.5 29% · Hannover +2.5 39%  
+Faltas 10.2 - 10.5: total +23.5 27% · Heidenheim +11.5 33% · Hannover +12.5 27%  
+Tiros a puerta 6.0 - 4.4: total +10.5 46% · Heidenheim +5.5 54% · Hannover +4.5 44%  
+🧩 Crear apuesta: Menos de 12.5 faltas de Hannover + Menos de 2.5 tarjetas de Heidenheim + Menos de 5.5 córners de Hannover → prob. 36%, cuota justa 2.81 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 12.5 faltas de Hannover + Menos de 2.5 tarjetas de Heidenheim + Menos de 5.5 córners de Hannover + Más de 2.5 goles + Menos de 4.5 tiros a puerta de Hannover → prob. 10%, cuota justa 9.58  
+🎯 No simulada (con cuota: Menos de 5.5 córners de Hannover + Más de 2.5 goles): cuota Unibet aprox. 2.24 (producto de piernas) · prob. 38% · ventaja -14%  
+
+## Magdeburg vs St Pauli — 08/11 · 13:30
+
+👀 candidata · 🇩🇪 2. Bundesliga · **Más de 8.5 córners** @ **1.47** (Unibet) · prob 64% vs casas 62% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.51 - 1.58)  
+1 40% · X 28% · 2 32%  
+1X 68% · X2 60% · 12 72%  
++1.5 82% · +2.5 60% · +3.5 37% · Ambos marcan 62%  
+Marcadores: 1-1 11% · 1-2 9% · 2-1 8% · 0-1 7%  
+🔎 **Claves**  
+• Forma: Magdeburg ➖✅❌✅➖ | St Pauli ➖✅➖➖❌  
+• H2H: 6 desde 2018: 1V-1E-4D · 2.5 goles/partido · +2.5 en 67%  
+• Bajas: Magdeburg: 0 fuera, 4 duda; St Pauli: sin bajas  
+• Favorito de las casas: Magdeburg @ 2.35  
+📐 **Estadísticas esperadas**  
+Córners 5.4 - 4.6: total +10.5 42% · Magdeburg +5.5 44% · St Pauli +5.5 32%  
+Tarjetas 2.2 - 2.4: total +4.5 48% · Magdeburg +2.5 38% · St Pauli +2.5 44%  
+Faltas 10.4 - 12.3: total +23.5 42% · Magdeburg +11.5 36% · St Pauli +12.5 45%  
+Tiros a puerta 5.0 - 4.9: total +10.5 40% · Magdeburg +5.5 39% · St Pauli +4.5 52%  
+🧩 Crear apuesta: Menos de 5.5 córners de St Pauli + Menos de 11.5 faltas de Magdeburg + Menos de 2.5 tarjetas de Magdeburg → prob. 29%, cuota justa 3.39 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 córners de St Pauli + Menos de 11.5 faltas de Magdeburg + Menos de 2.5 tarjetas de Magdeburg + Menos de 5.5 tiros a puerta de Magdeburg + Más de 2.5 goles → prob. 8%, cuota justa 12.28  
+🎯 No simulada (con cuota: Menos de 5.5 córners de St Pauli + Más de 2.5 goles): cuota Unibet aprox. 2.27 (producto de piernas) · prob. 41% · ventaja -7%  
+
+## Magdeburg vs St Pauli — 08/11 · 13:30
+
+👀 candidata · 🇩🇪 2. Bundesliga · **Menos de 12.5 córners** @ **1.22** (Unibet) · prob 77% vs casas 75% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.51 - 1.58)  
+1 40% · X 28% · 2 32%  
+1X 68% · X2 60% · 12 72%  
++1.5 82% · +2.5 60% · +3.5 37% · Ambos marcan 62%  
+Marcadores: 1-1 11% · 1-2 9% · 2-1 8% · 0-1 7%  
+🔎 **Claves**  
+• Forma: Magdeburg ➖✅❌✅➖ | St Pauli ➖✅➖➖❌  
+• H2H: 6 desde 2018: 1V-1E-4D · 2.5 goles/partido · +2.5 en 67%  
+• Bajas: Magdeburg: 0 fuera, 4 duda; St Pauli: sin bajas  
+• Favorito de las casas: Magdeburg @ 2.35  
+📐 **Estadísticas esperadas**  
+Córners 5.4 - 4.6: total +10.5 42% · Magdeburg +5.5 44% · St Pauli +5.5 32%  
+Tarjetas 2.2 - 2.4: total +4.5 48% · Magdeburg +2.5 38% · St Pauli +2.5 44%  
+Faltas 10.4 - 12.3: total +23.5 42% · Magdeburg +11.5 36% · St Pauli +12.5 45%  
+Tiros a puerta 5.0 - 4.9: total +10.5 40% · Magdeburg +5.5 39% · St Pauli +4.5 52%  
+🧩 Crear apuesta: Menos de 5.5 córners de St Pauli + Menos de 11.5 faltas de Magdeburg + Menos de 2.5 tarjetas de Magdeburg → prob. 29%, cuota justa 3.39 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 córners de St Pauli + Menos de 11.5 faltas de Magdeburg + Menos de 2.5 tarjetas de Magdeburg + Menos de 5.5 tiros a puerta de Magdeburg + Más de 2.5 goles → prob. 8%, cuota justa 12.28  
+🎯 No simulada (con cuota: Menos de 5.5 córners de St Pauli + Más de 2.5 goles): cuota Unibet aprox. 2.27 (producto de piernas) · prob. 41% · ventaja -7%  
+
+## Magdeburg vs St Pauli — 08/11 · 13:30
+
+👀 candidata · 🇩🇪 2. Bundesliga · **Más de 3.5 córners de St Pauli** @ **1.47** (Unibet) · prob 62% vs casas 62% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.51 - 1.58)  
+1 40% · X 28% · 2 32%  
+1X 68% · X2 60% · 12 72%  
++1.5 82% · +2.5 60% · +3.5 37% · Ambos marcan 62%  
+Marcadores: 1-1 11% · 1-2 9% · 2-1 8% · 0-1 7%  
+🔎 **Claves**  
+• Forma: Magdeburg ➖✅❌✅➖ | St Pauli ➖✅➖➖❌  
+• H2H: 6 desde 2018: 1V-1E-4D · 2.5 goles/partido · +2.5 en 67%  
+• Bajas: Magdeburg: 0 fuera, 4 duda; St Pauli: sin bajas  
+• Favorito de las casas: Magdeburg @ 2.35  
+📐 **Estadísticas esperadas**  
+Córners 5.4 - 4.6: total +10.5 42% · Magdeburg +5.5 44% · St Pauli +5.5 32%  
+Tarjetas 2.2 - 2.4: total +4.5 48% · Magdeburg +2.5 38% · St Pauli +2.5 44%  
+Faltas 10.4 - 12.3: total +23.5 42% · Magdeburg +11.5 36% · St Pauli +12.5 45%  
+Tiros a puerta 5.0 - 4.9: total +10.5 40% · Magdeburg +5.5 39% · St Pauli +4.5 52%  
+🧩 Crear apuesta: Menos de 5.5 córners de St Pauli + Menos de 11.5 faltas de Magdeburg + Menos de 2.5 tarjetas de Magdeburg → prob. 29%, cuota justa 3.39 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 córners de St Pauli + Menos de 11.5 faltas de Magdeburg + Menos de 2.5 tarjetas de Magdeburg + Menos de 5.5 tiros a puerta de Magdeburg + Más de 2.5 goles → prob. 8%, cuota justa 12.28  
+🎯 No simulada (con cuota: Menos de 5.5 córners de St Pauli + Más de 2.5 goles): cuota Unibet aprox. 2.27 (producto de piernas) · prob. 41% · ventaja -7%  
+
+## Magdeburg vs St Pauli — 08/11 · 13:30
+
+👀 candidata · 🇩🇪 2. Bundesliga · **Menos de 5.5 córners de St Pauli** @ **1.42** (Unibet) · prob 66% vs casas 65% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.51 - 1.58)  
+1 40% · X 28% · 2 32%  
+1X 68% · X2 60% · 12 72%  
++1.5 82% · +2.5 60% · +3.5 37% · Ambos marcan 62%  
+Marcadores: 1-1 11% · 1-2 9% · 2-1 8% · 0-1 7%  
+🔎 **Claves**  
+• Forma: Magdeburg ➖✅❌✅➖ | St Pauli ➖✅➖➖❌  
+• H2H: 6 desde 2018: 1V-1E-4D · 2.5 goles/partido · +2.5 en 67%  
+• Bajas: Magdeburg: 0 fuera, 4 duda; St Pauli: sin bajas  
+• Favorito de las casas: Magdeburg @ 2.35  
+📐 **Estadísticas esperadas**  
+Córners 5.4 - 4.6: total +10.5 42% · Magdeburg +5.5 44% · St Pauli +5.5 32%  
+Tarjetas 2.2 - 2.4: total +4.5 48% · Magdeburg +2.5 38% · St Pauli +2.5 44%  
+Faltas 10.4 - 12.3: total +23.5 42% · Magdeburg +11.5 36% · St Pauli +12.5 45%  
+Tiros a puerta 5.0 - 4.9: total +10.5 40% · Magdeburg +5.5 39% · St Pauli +4.5 52%  
+🧩 Crear apuesta: Menos de 5.5 córners de St Pauli + Menos de 11.5 faltas de Magdeburg + Menos de 2.5 tarjetas de Magdeburg → prob. 29%, cuota justa 3.39 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 córners de St Pauli + Menos de 11.5 faltas de Magdeburg + Menos de 2.5 tarjetas de Magdeburg + Menos de 5.5 tiros a puerta de Magdeburg + Más de 2.5 goles → prob. 8%, cuota justa 12.28  
+🎯 No simulada (con cuota: Menos de 5.5 córners de St Pauli + Más de 2.5 goles): cuota Unibet aprox. 2.27 (producto de piernas) · prob. 41% · ventaja -7%  
+
+## Magdeburg vs St Pauli — 08/11 · 13:30
+
+👀 candidata · 🇩🇪 2. Bundesliga · **Más de 4.5 córners de Magdeburg** @ **1.68** (Unibet) · prob 56% vs casas 55% · ventaja -5%
+
+- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.51 - 1.58)  
+1 40% · X 28% · 2 32%  
+1X 68% · X2 60% · 12 72%  
++1.5 82% · +2.5 60% · +3.5 37% · Ambos marcan 62%  
+Marcadores: 1-1 11% · 1-2 9% · 2-1 8% · 0-1 7%  
+🔎 **Claves**  
+• Forma: Magdeburg ➖✅❌✅➖ | St Pauli ➖✅➖➖❌  
+• H2H: 6 desde 2018: 1V-1E-4D · 2.5 goles/partido · +2.5 en 67%  
+• Bajas: Magdeburg: 0 fuera, 4 duda; St Pauli: sin bajas  
+• Favorito de las casas: Magdeburg @ 2.35  
+📐 **Estadísticas esperadas**  
+Córners 5.4 - 4.6: total +10.5 42% · Magdeburg +5.5 44% · St Pauli +5.5 32%  
+Tarjetas 2.2 - 2.4: total +4.5 48% · Magdeburg +2.5 38% · St Pauli +2.5 44%  
+Faltas 10.4 - 12.3: total +23.5 42% · Magdeburg +11.5 36% · St Pauli +12.5 45%  
+Tiros a puerta 5.0 - 4.9: total +10.5 40% · Magdeburg +5.5 39% · St Pauli +4.5 52%  
+🧩 Crear apuesta: Menos de 5.5 córners de St Pauli + Menos de 11.5 faltas de Magdeburg + Menos de 2.5 tarjetas de Magdeburg → prob. 29%, cuota justa 3.39 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 córners de St Pauli + Menos de 11.5 faltas de Magdeburg + Menos de 2.5 tarjetas de Magdeburg + Menos de 5.5 tiros a puerta de Magdeburg + Más de 2.5 goles → prob. 8%, cuota justa 12.28  
+🎯 No simulada (con cuota: Menos de 5.5 córners de St Pauli + Más de 2.5 goles): cuota Unibet aprox. 2.27 (producto de piernas) · prob. 41% · ventaja -7%  
+
+## Magdeburg vs St Pauli — 08/11 · 13:30
+
+👀 candidata · 🇩🇪 2. Bundesliga · **Menos de 6.5 córners de Magdeburg** @ **1.33** (Unibet) · prob 69% vs casas 69% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.51 - 1.58)  
+1 40% · X 28% · 2 32%  
+1X 68% · X2 60% · 12 72%  
++1.5 82% · +2.5 60% · +3.5 37% · Ambos marcan 62%  
+Marcadores: 1-1 11% · 1-2 9% · 2-1 8% · 0-1 7%  
+🔎 **Claves**  
+• Forma: Magdeburg ➖✅❌✅➖ | St Pauli ➖✅➖➖❌  
+• H2H: 6 desde 2018: 1V-1E-4D · 2.5 goles/partido · +2.5 en 67%  
+• Bajas: Magdeburg: 0 fuera, 4 duda; St Pauli: sin bajas  
+• Favorito de las casas: Magdeburg @ 2.35  
+📐 **Estadísticas esperadas**  
+Córners 5.4 - 4.6: total +10.5 42% · Magdeburg +5.5 44% · St Pauli +5.5 32%  
+Tarjetas 2.2 - 2.4: total +4.5 48% · Magdeburg +2.5 38% · St Pauli +2.5 44%  
+Faltas 10.4 - 12.3: total +23.5 42% · Magdeburg +11.5 36% · St Pauli +12.5 45%  
+Tiros a puerta 5.0 - 4.9: total +10.5 40% · Magdeburg +5.5 39% · St Pauli +4.5 52%  
+🧩 Crear apuesta: Menos de 5.5 córners de St Pauli + Menos de 11.5 faltas de Magdeburg + Menos de 2.5 tarjetas de Magdeburg → prob. 29%, cuota justa 3.39 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 córners de St Pauli + Menos de 11.5 faltas de Magdeburg + Menos de 2.5 tarjetas de Magdeburg + Menos de 5.5 tiros a puerta de Magdeburg + Más de 2.5 goles → prob. 8%, cuota justa 12.28  
+🎯 No simulada (con cuota: Menos de 5.5 córners de St Pauli + Más de 2.5 goles): cuota Unibet aprox. 2.27 (producto de piernas) · prob. 41% · ventaja -7%  
 
 ## Aarhus vs Horsens — 08/11 · 14:00
 
