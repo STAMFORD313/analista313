@@ -1,406 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 07/11/2026 13:53 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Clermont vs Rodez — 07/11 · 14:00
-
-👀 candidata · 🇫🇷 Ligue 2 · **Rodez -0.25 (hándicap asiático)** @ **1.95** (mejor del mercado) · prob 49% vs casas 49% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ hándicap» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.15 - 1.24)  
-1 28% · X 30% · 2 42%  
-1X 58% · X2 72% · 12 70%  
-+1.5 70% · +2.5 43% · +3.5 22% · Ambos marcan 49%  
-Marcadores: 1-1 14% · 0-1 11% · 1-0 10% · 0-0 10%  
-🔎 **Claves**  
-• Forma: Clermont ➖❌➖❌➖ | Rodez ❌❌❌✅✅  
-• H2H: 7 desde 2019: 2V-2E-3D · 2.0 goles/partido · +2.5 en 29%  
-• Bajas: Clermont: sin bajas; Rodez: sin bajas  
-• Favorito de las casas: Rodez @ 2.20  
-📐 **Estadísticas esperadas**  
-Córners 4.7 - 5.0: total +9.5 50% · Clermont +5.5 34% · Rodez +4.5 52%  
-Tarjetas 1.6 - 2.0: total +4.5 30% · Clermont +2.5 22% · Rodez +2.5 32%  
-Faltas 12.5 - 15.3: total +28.5 43% · Clermont +13.5 37% · Rodez +15.5 46%  
-Tiros a puerta 4.0 - 4.1: total +8.5 41% · Clermont +4.5 36% · Rodez +3.5 57%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Clermont + Menos de 5.5 córners de Clermont + Menos de 4.5 tiros a puerta de Clermont → prob. 34%, cuota justa 2.90 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Clermont + Menos de 5.5 córners de Clermont + Menos de 4.5 tiros a puerta de Clermont + Menos de 13.5 faltas de Clermont + Menos de 2.5 goles → prob. 14%, cuota justa 7.05  
-
-## Malaga vs Santander — 07/11 · 14:00
-
-👀 candidata · 🇪🇸 LaLiga · **Gana Santander** @ **2.88** (Bet365) · prob 34% vs casas 34% · ventaja -2%
-
-- ❌ Valor: ventaja -2% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 2.11 - 1.33)  
-1 42% · X 28% · 2 30%  
-1X 70% · X2 58% · 12 72%  
-+1.5 86% · +2.5 67% · +3.5 45% · Ambos marcan 65%  
-Marcadores: 2-1 9% · 1-1 9% · 2-0 7% · 3-1 7%  
-🔎 **Claves**  
-• Forma: Malaga ❌➖❌➖❌ | Santander ❌➖❌✅❌  
-• H2H: 18 desde 2005: 8V-5E-5D · 2.4 goles/partido · +2.5 en 50%  
-• Bajas: Malaga: 2 fuera, 4 duda (Julen Lobete, Diego Murillo); Santander: 1 fuera, 2 duda (Jorge Salinas)  
-• Favorito de las casas: Malaga @ 2.40  
-📐 **Estadísticas esperadas**  
-Córners 6.1 - 4.1: total +10.5 43% · Malaga +5.5 53% · Santander +4.5 38%  
-Tarjetas 2.2 - 2.6: total +4.5 52% · Malaga +2.5 39% · Santander +2.5 48%  
-Faltas 12.8 - 11.7: total +25.5 41% · Malaga +12.5 51% · Santander +12.5 40%  
-Tiros a puerta 5.0 - 3.8: total +9.5 39% · Malaga +4.5 54% · Santander +4.5 34%  
-🧩 Crear apuesta: Más de 2.5 goles + Menos de 4.5 tiros a puerta de Santander + Menos de 4.5 córners de Santander → prob. 27%, cuota justa 3.69 (solo vale si la casa paga más)  
-🚀 Combinada larga: Más de 2.5 goles + Menos de 4.5 tiros a puerta de Santander + Menos de 4.5 córners de Santander + Menos de 2.5 tarjetas de Malaga + Menos de 12.5 faltas de Santander → prob. 10%, cuota justa 9.65  
-
-## Burgos vs Celta B — 07/11 · 14:00
-
-👀 candidata · 🇪🇸 LaLiga 2 · **Burgos -0.75 (hándicap asiático)** @ **1.91** (mejor del mercado) · prob 51% vs casas 51% · ventaja -2%
-
-- ❌ Valor: ventaja -2% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ hándicap» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.57 - 0.81)  
-1 53% · X 27% · 2 20%  
-1X 80% · X2 47% · 12 73%  
-+1.5 69% · +2.5 43% · +3.5 22% · Ambos marcan 44%  
-Marcadores: 1-0 14% · 1-1 12% · 2-0 11% · 0-0 10%  
-🔎 **Claves**  
-• Forma: Burgos ❌❌✅✅➖ | Celta B ❌✅➖❌➖  
-• H2H: sin precedentes  
-• Bajas: Burgos: 0 fuera, 1 duda; Celta B: sin bajas  
-• Favorito de las casas: Burgos @ 1.65  
-📐 **Estadísticas esperadas**  
-Córners 5.7 - 3.7: total +9.5 45% · Burgos +5.5 48% · Celta B +4.5 31%  
-Tarjetas 2.5 - 2.9: total +5.5 45% · Burgos +2.5 45% · Celta B +3.5 33%  
-Faltas 13.8 - 13.7: total +26.5 55% · Burgos +13.5 51% · Celta B +13.5 50%  
-Tiros a puerta 5.3 - 3.1: total +9.5 34% · Burgos +5.5 42% · Celta B +4.5 21%  
-🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Celta B + Menos de 4.5 córners de Celta B + Menos de 3.5 tarjetas de Celta B → prob. 37%, cuota justa 2.73 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 tiros a puerta de Celta B + Menos de 4.5 córners de Celta B + Menos de 3.5 tarjetas de Celta B + Menos de 2.5 goles + Más de 26.5 faltas → prob. 12%, cuota justa 8.51  
-
-## Samsunspor vs Konyaspor — 07/11 · 14:00
-
-👀 candidata · 🇹🇷 Süper Lig · **Samsunspor -0.25 (hándicap asiático)** @ **2.00** (mejor del mercado) · prob 48% vs casas 48% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ hándicap» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.50 - 1.20)  
-1 40% · X 29% · 2 31%  
-1X 69% · X2 60% · 12 71%  
-+1.5 76% · +2.5 51% · +3.5 29% · Ambos marcan 55%  
-Marcadores: 1-1 13% · 1-0 9% · 2-1 9% · 2-0 8%  
-🔎 **Claves**  
-• Forma: Samsunspor ❌❌❌❌❌ | Konyaspor ➖➖❌✅❌  
-• H2H: 8 desde 2005: 2V-3E-3D · 2.9 goles/partido · +2.5 en 50%  
-• Bajas: Samsunspor: 0 fuera, 1 duda; Konyaspor: 2 fuera, 0 duda (Deniz Turuc, Adil Demirbag)  
-• Favorito de las casas: Samsunspor @ 2.25  
-📐 **Estadísticas esperadas**  
-Córners 5.4 - 3.7: total +9.5 43% · Samsunspor +5.5 44% · Konyaspor +4.5 33%  
-Tarjetas 2.1 - 2.5: total +4.5 48% · Samsunspor +2.5 35% · Konyaspor +2.5 46%  
-Faltas 14.4 - 12.9: total +26.5 54% · Samsunspor +13.5 57% · Konyaspor +13.5 41%  
-Tiros a puerta 4.7 - 3.6: total +9.5 34% · Samsunspor +5.5 34% · Konyaspor +4.5 30%  
-🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Konyaspor + Menos de 4.5 córners de Konyaspor + Menos de 2.5 tarjetas de Samsunspor → prob. 33%, cuota justa 3.05 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 tiros a puerta de Konyaspor + Menos de 4.5 córners de Konyaspor + Menos de 2.5 tarjetas de Samsunspor + Menos de 13.5 faltas de Konyaspor → prob. 19%, cuota justa 5.22  
-
-## Clermont vs Rodez — 07/11 · 14:00
-
-👀 candidata · 🇫🇷 Ligue 2 · **Más de 9.5 córners** @ **1.68** (Unibet) · prob 52% vs casas 53% · ventaja -13%
-
-- ❌ Valor: ventaja -13% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.15 - 1.24)  
-1 28% · X 30% · 2 42%  
-1X 58% · X2 72% · 12 70%  
-+1.5 70% · +2.5 43% · +3.5 22% · Ambos marcan 49%  
-Marcadores: 1-1 14% · 0-1 11% · 1-0 10% · 0-0 10%  
-🔎 **Claves**  
-• Forma: Clermont ➖❌➖❌➖ | Rodez ❌❌❌✅✅  
-• H2H: 7 desde 2019: 2V-2E-3D · 2.0 goles/partido · +2.5 en 29%  
-• Bajas: Clermont: sin bajas; Rodez: sin bajas  
-• Favorito de las casas: Rodez @ 2.20  
-📐 **Estadísticas esperadas**  
-Córners 4.7 - 5.0: total +9.5 50% · Clermont +5.5 34% · Rodez +4.5 52%  
-Tarjetas 1.6 - 2.0: total +4.5 30% · Clermont +2.5 22% · Rodez +2.5 32%  
-Faltas 12.5 - 15.3: total +28.5 43% · Clermont +13.5 37% · Rodez +15.5 46%  
-Tiros a puerta 4.0 - 4.1: total +8.5 41% · Clermont +4.5 36% · Rodez +3.5 57%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Clermont + Menos de 5.5 córners de Clermont + Menos de 4.5 tiros a puerta de Clermont → prob. 34%, cuota justa 2.90 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Clermont + Menos de 5.5 córners de Clermont + Menos de 4.5 tiros a puerta de Clermont + Menos de 13.5 faltas de Clermont + Menos de 2.5 goles → prob. 14%, cuota justa 7.05  
-
-## Clermont vs Rodez — 07/11 · 14:00
-
-👀 candidata · 🇫🇷 Ligue 2 · **Menos de 11.5 córners** @ **1.36** (Unibet) · prob 69% vs casas 66% · ventaja -6%
-
-- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.15 - 1.24)  
-1 28% · X 30% · 2 42%  
-1X 58% · X2 72% · 12 70%  
-+1.5 70% · +2.5 43% · +3.5 22% · Ambos marcan 49%  
-Marcadores: 1-1 14% · 0-1 11% · 1-0 10% · 0-0 10%  
-🔎 **Claves**  
-• Forma: Clermont ➖❌➖❌➖ | Rodez ❌❌❌✅✅  
-• H2H: 7 desde 2019: 2V-2E-3D · 2.0 goles/partido · +2.5 en 29%  
-• Bajas: Clermont: sin bajas; Rodez: sin bajas  
-• Favorito de las casas: Rodez @ 2.20  
-📐 **Estadísticas esperadas**  
-Córners 4.7 - 5.0: total +9.5 50% · Clermont +5.5 34% · Rodez +4.5 52%  
-Tarjetas 1.6 - 2.0: total +4.5 30% · Clermont +2.5 22% · Rodez +2.5 32%  
-Faltas 12.5 - 15.3: total +28.5 43% · Clermont +13.5 37% · Rodez +15.5 46%  
-Tiros a puerta 4.0 - 4.1: total +8.5 41% · Clermont +4.5 36% · Rodez +3.5 57%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Clermont + Menos de 5.5 córners de Clermont + Menos de 4.5 tiros a puerta de Clermont → prob. 34%, cuota justa 2.90 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Clermont + Menos de 5.5 córners de Clermont + Menos de 4.5 tiros a puerta de Clermont + Menos de 13.5 faltas de Clermont + Menos de 2.5 goles → prob. 14%, cuota justa 7.05  
-
-## Clermont vs Rodez — 07/11 · 14:00
-
-👀 candidata · 🇫🇷 Ligue 2 · **Más de 4.5 córners de Clermont** @ **1.90** (Unibet) · prob 48% vs casas 47% · ventaja -9%
-
-- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.15 - 1.24)  
-1 28% · X 30% · 2 42%  
-1X 58% · X2 72% · 12 70%  
-+1.5 70% · +2.5 43% · +3.5 22% · Ambos marcan 49%  
-Marcadores: 1-1 14% · 0-1 11% · 1-0 10% · 0-0 10%  
-🔎 **Claves**  
-• Forma: Clermont ➖❌➖❌➖ | Rodez ❌❌❌✅✅  
-• H2H: 7 desde 2019: 2V-2E-3D · 2.0 goles/partido · +2.5 en 29%  
-• Bajas: Clermont: sin bajas; Rodez: sin bajas  
-• Favorito de las casas: Rodez @ 2.20  
-📐 **Estadísticas esperadas**  
-Córners 4.7 - 5.0: total +9.5 50% · Clermont +5.5 34% · Rodez +4.5 52%  
-Tarjetas 1.6 - 2.0: total +4.5 30% · Clermont +2.5 22% · Rodez +2.5 32%  
-Faltas 12.5 - 15.3: total +28.5 43% · Clermont +13.5 37% · Rodez +15.5 46%  
-Tiros a puerta 4.0 - 4.1: total +8.5 41% · Clermont +4.5 36% · Rodez +3.5 57%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Clermont + Menos de 5.5 córners de Clermont + Menos de 4.5 tiros a puerta de Clermont → prob. 34%, cuota justa 2.90 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Clermont + Menos de 5.5 córners de Clermont + Menos de 4.5 tiros a puerta de Clermont + Menos de 13.5 faltas de Clermont + Menos de 2.5 goles → prob. 14%, cuota justa 7.05  
-
-## Clermont vs Rodez — 07/11 · 14:00
-
-👀 candidata · 🇫🇷 Ligue 2 · **Menos de 4.5 córners de Clermont** @ **1.70** (Unibet) · prob 52% vs casas 53% · ventaja -12%
-
-- ❌ Valor: ventaja -12% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.15 - 1.24)  
-1 28% · X 30% · 2 42%  
-1X 58% · X2 72% · 12 70%  
-+1.5 70% · +2.5 43% · +3.5 22% · Ambos marcan 49%  
-Marcadores: 1-1 14% · 0-1 11% · 1-0 10% · 0-0 10%  
-🔎 **Claves**  
-• Forma: Clermont ➖❌➖❌➖ | Rodez ❌❌❌✅✅  
-• H2H: 7 desde 2019: 2V-2E-3D · 2.0 goles/partido · +2.5 en 29%  
-• Bajas: Clermont: sin bajas; Rodez: sin bajas  
-• Favorito de las casas: Rodez @ 2.20  
-📐 **Estadísticas esperadas**  
-Córners 4.7 - 5.0: total +9.5 50% · Clermont +5.5 34% · Rodez +4.5 52%  
-Tarjetas 1.6 - 2.0: total +4.5 30% · Clermont +2.5 22% · Rodez +2.5 32%  
-Faltas 12.5 - 15.3: total +28.5 43% · Clermont +13.5 37% · Rodez +15.5 46%  
-Tiros a puerta 4.0 - 4.1: total +8.5 41% · Clermont +4.5 36% · Rodez +3.5 57%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Clermont + Menos de 5.5 córners de Clermont + Menos de 4.5 tiros a puerta de Clermont → prob. 34%, cuota justa 2.90 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Clermont + Menos de 5.5 córners de Clermont + Menos de 4.5 tiros a puerta de Clermont + Menos de 13.5 faltas de Clermont + Menos de 2.5 goles → prob. 14%, cuota justa 7.05  
-
-## Clermont vs Rodez — 07/11 · 14:00
-
-👀 candidata · 🇫🇷 Ligue 2 · **Más de 5.5 córners de Rodez** @ **2.00** (Unibet) · prob 41% vs casas 45% · ventaja -17%
-
-- ❌ Valor: ventaja -17% (mín. 7% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.15 - 1.24)  
-1 28% · X 30% · 2 42%  
-1X 58% · X2 72% · 12 70%  
-+1.5 70% · +2.5 43% · +3.5 22% · Ambos marcan 49%  
-Marcadores: 1-1 14% · 0-1 11% · 1-0 10% · 0-0 10%  
-🔎 **Claves**  
-• Forma: Clermont ➖❌➖❌➖ | Rodez ❌❌❌✅✅  
-• H2H: 7 desde 2019: 2V-2E-3D · 2.0 goles/partido · +2.5 en 29%  
-• Bajas: Clermont: sin bajas; Rodez: sin bajas  
-• Favorito de las casas: Rodez @ 2.20  
-📐 **Estadísticas esperadas**  
-Córners 4.7 - 5.0: total +9.5 50% · Clermont +5.5 34% · Rodez +4.5 52%  
-Tarjetas 1.6 - 2.0: total +4.5 30% · Clermont +2.5 22% · Rodez +2.5 32%  
-Faltas 12.5 - 15.3: total +28.5 43% · Clermont +13.5 37% · Rodez +15.5 46%  
-Tiros a puerta 4.0 - 4.1: total +8.5 41% · Clermont +4.5 36% · Rodez +3.5 57%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Clermont + Menos de 5.5 córners de Clermont + Menos de 4.5 tiros a puerta de Clermont → prob. 34%, cuota justa 2.90 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Clermont + Menos de 5.5 córners de Clermont + Menos de 4.5 tiros a puerta de Clermont + Menos de 13.5 faltas de Clermont + Menos de 2.5 goles → prob. 14%, cuota justa 7.05  
-
-## Clermont vs Rodez — 07/11 · 14:00
-
-👀 candidata · 🇫🇷 Ligue 2 · **Menos de 5.5 córners de Rodez** @ **1.62** (Unibet) · prob 59% vs casas 55% · ventaja -5%
-
-- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.15 - 1.24)  
-1 28% · X 30% · 2 42%  
-1X 58% · X2 72% · 12 70%  
-+1.5 70% · +2.5 43% · +3.5 22% · Ambos marcan 49%  
-Marcadores: 1-1 14% · 0-1 11% · 1-0 10% · 0-0 10%  
-🔎 **Claves**  
-• Forma: Clermont ➖❌➖❌➖ | Rodez ❌❌❌✅✅  
-• H2H: 7 desde 2019: 2V-2E-3D · 2.0 goles/partido · +2.5 en 29%  
-• Bajas: Clermont: sin bajas; Rodez: sin bajas  
-• Favorito de las casas: Rodez @ 2.20  
-📐 **Estadísticas esperadas**  
-Córners 4.7 - 5.0: total +9.5 50% · Clermont +5.5 34% · Rodez +4.5 52%  
-Tarjetas 1.6 - 2.0: total +4.5 30% · Clermont +2.5 22% · Rodez +2.5 32%  
-Faltas 12.5 - 15.3: total +28.5 43% · Clermont +13.5 37% · Rodez +15.5 46%  
-Tiros a puerta 4.0 - 4.1: total +8.5 41% · Clermont +4.5 36% · Rodez +3.5 57%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Clermont + Menos de 5.5 córners de Clermont + Menos de 4.5 tiros a puerta de Clermont → prob. 34%, cuota justa 2.90 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Clermont + Menos de 5.5 córners de Clermont + Menos de 4.5 tiros a puerta de Clermont + Menos de 13.5 faltas de Clermont + Menos de 2.5 goles → prob. 14%, cuota justa 7.05  
-
-## Samsunspor vs Konyaspor — 07/11 · 14:00
-
-👀 candidata · 🇹🇷 Süper Lig · **Más de 3.5 córners de Konyaspor** @ **1.65** (Unibet) · prob 52% vs casas 56% · ventaja -14%
-
-- ❌ Valor: ventaja -14% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.50 - 1.20)  
-1 40% · X 29% · 2 31%  
-1X 69% · X2 60% · 12 71%  
-+1.5 76% · +2.5 51% · +3.5 29% · Ambos marcan 55%  
-Marcadores: 1-1 13% · 1-0 9% · 2-1 9% · 2-0 8%  
-🔎 **Claves**  
-• Forma: Samsunspor ❌❌❌❌❌ | Konyaspor ➖➖❌✅❌  
-• H2H: 8 desde 2005: 2V-3E-3D · 2.9 goles/partido · +2.5 en 50%  
-• Bajas: Samsunspor: 0 fuera, 1 duda; Konyaspor: 2 fuera, 0 duda (Deniz Turuc, Adil Demirbag)  
-• Favorito de las casas: Samsunspor @ 2.25  
-📐 **Estadísticas esperadas**  
-Córners 5.4 - 3.7: total +9.5 43% · Samsunspor +5.5 44% · Konyaspor +4.5 33%  
-Tarjetas 2.1 - 2.5: total +4.5 48% · Samsunspor +2.5 35% · Konyaspor +2.5 46%  
-Faltas 14.4 - 12.9: total +26.5 54% · Samsunspor +13.5 57% · Konyaspor +13.5 41%  
-Tiros a puerta 4.7 - 3.6: total +9.5 34% · Samsunspor +5.5 34% · Konyaspor +4.5 30%  
-🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Konyaspor + Menos de 4.5 córners de Konyaspor + Menos de 2.5 tarjetas de Samsunspor → prob. 33%, cuota justa 3.05 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 tiros a puerta de Konyaspor + Menos de 4.5 córners de Konyaspor + Menos de 2.5 tarjetas de Samsunspor + Menos de 13.5 faltas de Konyaspor → prob. 19%, cuota justa 5.22  
-
-## Samsunspor vs Konyaspor — 07/11 · 14:00
-
-👀 candidata · 🇹🇷 Süper Lig · **Menos de 3.5 córners de Konyaspor** @ **2.06** (Unibet) · prob 48% vs casas 44% · ventaja -2%
-
-- ❌ Valor: ventaja -2% (mín. 7% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.50 - 1.20)  
-1 40% · X 29% · 2 31%  
-1X 69% · X2 60% · 12 71%  
-+1.5 76% · +2.5 51% · +3.5 29% · Ambos marcan 55%  
-Marcadores: 1-1 13% · 1-0 9% · 2-1 9% · 2-0 8%  
-🔎 **Claves**  
-• Forma: Samsunspor ❌❌❌❌❌ | Konyaspor ➖➖❌✅❌  
-• H2H: 8 desde 2005: 2V-3E-3D · 2.9 goles/partido · +2.5 en 50%  
-• Bajas: Samsunspor: 0 fuera, 1 duda; Konyaspor: 2 fuera, 0 duda (Deniz Turuc, Adil Demirbag)  
-• Favorito de las casas: Samsunspor @ 2.25  
-📐 **Estadísticas esperadas**  
-Córners 5.4 - 3.7: total +9.5 43% · Samsunspor +5.5 44% · Konyaspor +4.5 33%  
-Tarjetas 2.1 - 2.5: total +4.5 48% · Samsunspor +2.5 35% · Konyaspor +2.5 46%  
-Faltas 14.4 - 12.9: total +26.5 54% · Samsunspor +13.5 57% · Konyaspor +13.5 41%  
-Tiros a puerta 4.7 - 3.6: total +9.5 34% · Samsunspor +5.5 34% · Konyaspor +4.5 30%  
-🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Konyaspor + Menos de 4.5 córners de Konyaspor + Menos de 2.5 tarjetas de Samsunspor → prob. 33%, cuota justa 3.05 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 tiros a puerta de Konyaspor + Menos de 4.5 córners de Konyaspor + Menos de 2.5 tarjetas de Samsunspor + Menos de 13.5 faltas de Konyaspor → prob. 19%, cuota justa 5.22  
-
-## Samsunspor vs Konyaspor — 07/11 · 14:00
-
-👀 candidata · 🇹🇷 Süper Lig · **Más de 7.5 córners** @ **1.30** (Unibet) · prob 69% vs casas 70% · ventaja -10%
-
-- ❌ Valor: ventaja -10% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.50 - 1.20)  
-1 40% · X 29% · 2 31%  
-1X 69% · X2 60% · 12 71%  
-+1.5 76% · +2.5 51% · +3.5 29% · Ambos marcan 55%  
-Marcadores: 1-1 13% · 1-0 9% · 2-1 9% · 2-0 8%  
-🔎 **Claves**  
-• Forma: Samsunspor ❌❌❌❌❌ | Konyaspor ➖➖❌✅❌  
-• H2H: 8 desde 2005: 2V-3E-3D · 2.9 goles/partido · +2.5 en 50%  
-• Bajas: Samsunspor: 0 fuera, 1 duda; Konyaspor: 2 fuera, 0 duda (Deniz Turuc, Adil Demirbag)  
-• Favorito de las casas: Samsunspor @ 2.25  
-📐 **Estadísticas esperadas**  
-Córners 5.4 - 3.7: total +9.5 43% · Samsunspor +5.5 44% · Konyaspor +4.5 33%  
-Tarjetas 2.1 - 2.5: total +4.5 48% · Samsunspor +2.5 35% · Konyaspor +2.5 46%  
-Faltas 14.4 - 12.9: total +26.5 54% · Samsunspor +13.5 57% · Konyaspor +13.5 41%  
-Tiros a puerta 4.7 - 3.6: total +9.5 34% · Samsunspor +5.5 34% · Konyaspor +4.5 30%  
-🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Konyaspor + Menos de 4.5 córners de Konyaspor + Menos de 2.5 tarjetas de Samsunspor → prob. 33%, cuota justa 3.05 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 tiros a puerta de Konyaspor + Menos de 4.5 córners de Konyaspor + Menos de 2.5 tarjetas de Samsunspor + Menos de 13.5 faltas de Konyaspor → prob. 19%, cuota justa 5.22  
-
-## Samsunspor vs Konyaspor — 07/11 · 14:00
-
-👀 candidata · 🇹🇷 Süper Lig · **Menos de 9.5 córners** @ **1.81** (Unibet) · prob 54% vs casas 51% · ventaja -2%
-
-- ❌ Valor: ventaja -2% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.50 - 1.20)  
-1 40% · X 29% · 2 31%  
-1X 69% · X2 60% · 12 71%  
-+1.5 76% · +2.5 51% · +3.5 29% · Ambos marcan 55%  
-Marcadores: 1-1 13% · 1-0 9% · 2-1 9% · 2-0 8%  
-🔎 **Claves**  
-• Forma: Samsunspor ❌❌❌❌❌ | Konyaspor ➖➖❌✅❌  
-• H2H: 8 desde 2005: 2V-3E-3D · 2.9 goles/partido · +2.5 en 50%  
-• Bajas: Samsunspor: 0 fuera, 1 duda; Konyaspor: 2 fuera, 0 duda (Deniz Turuc, Adil Demirbag)  
-• Favorito de las casas: Samsunspor @ 2.25  
-📐 **Estadísticas esperadas**  
-Córners 5.4 - 3.7: total +9.5 43% · Samsunspor +5.5 44% · Konyaspor +4.5 33%  
-Tarjetas 2.1 - 2.5: total +4.5 48% · Samsunspor +2.5 35% · Konyaspor +2.5 46%  
-Faltas 14.4 - 12.9: total +26.5 54% · Samsunspor +13.5 57% · Konyaspor +13.5 41%  
-Tiros a puerta 4.7 - 3.6: total +9.5 34% · Samsunspor +5.5 34% · Konyaspor +4.5 30%  
-🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Konyaspor + Menos de 4.5 córners de Konyaspor + Menos de 2.5 tarjetas de Samsunspor → prob. 33%, cuota justa 3.05 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 tiros a puerta de Konyaspor + Menos de 4.5 córners de Konyaspor + Menos de 2.5 tarjetas de Samsunspor + Menos de 13.5 faltas de Konyaspor → prob. 19%, cuota justa 5.22  
-
-## Samsunspor vs Konyaspor — 07/11 · 14:00
-
-👀 candidata · 🇹🇷 Süper Lig · **Más de 3.5 córners de Samsunspor** @ **1.29** (Unibet) · prob 72% vs casas 71% · ventaja -8%
-
-- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.50 - 1.20)  
-1 40% · X 29% · 2 31%  
-1X 69% · X2 60% · 12 71%  
-+1.5 76% · +2.5 51% · +3.5 29% · Ambos marcan 55%  
-Marcadores: 1-1 13% · 1-0 9% · 2-1 9% · 2-0 8%  
-🔎 **Claves**  
-• Forma: Samsunspor ❌❌❌❌❌ | Konyaspor ➖➖❌✅❌  
-• H2H: 8 desde 2005: 2V-3E-3D · 2.9 goles/partido · +2.5 en 50%  
-• Bajas: Samsunspor: 0 fuera, 1 duda; Konyaspor: 2 fuera, 0 duda (Deniz Turuc, Adil Demirbag)  
-• Favorito de las casas: Samsunspor @ 2.25  
-📐 **Estadísticas esperadas**  
-Córners 5.4 - 3.7: total +9.5 43% · Samsunspor +5.5 44% · Konyaspor +4.5 33%  
-Tarjetas 2.1 - 2.5: total +4.5 48% · Samsunspor +2.5 35% · Konyaspor +2.5 46%  
-Faltas 14.4 - 12.9: total +26.5 54% · Samsunspor +13.5 57% · Konyaspor +13.5 41%  
-Tiros a puerta 4.7 - 3.6: total +9.5 34% · Samsunspor +5.5 34% · Konyaspor +4.5 30%  
-🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Konyaspor + Menos de 4.5 córners de Konyaspor + Menos de 2.5 tarjetas de Samsunspor → prob. 33%, cuota justa 3.05 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 tiros a puerta de Konyaspor + Menos de 4.5 córners de Konyaspor + Menos de 2.5 tarjetas de Samsunspor + Menos de 13.5 faltas de Konyaspor → prob. 19%, cuota justa 5.22  
-
-## Samsunspor vs Konyaspor — 07/11 · 14:00
-
-👀 candidata · 🇹🇷 Süper Lig · **Menos de 5.5 córners de Samsunspor** @ **1.68** (Unibet) · prob 56% vs casas 55% · ventaja -7%
-
-- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.50 - 1.20)  
-1 40% · X 29% · 2 31%  
-1X 69% · X2 60% · 12 71%  
-+1.5 76% · +2.5 51% · +3.5 29% · Ambos marcan 55%  
-Marcadores: 1-1 13% · 1-0 9% · 2-1 9% · 2-0 8%  
-🔎 **Claves**  
-• Forma: Samsunspor ❌❌❌❌❌ | Konyaspor ➖➖❌✅❌  
-• H2H: 8 desde 2005: 2V-3E-3D · 2.9 goles/partido · +2.5 en 50%  
-• Bajas: Samsunspor: 0 fuera, 1 duda; Konyaspor: 2 fuera, 0 duda (Deniz Turuc, Adil Demirbag)  
-• Favorito de las casas: Samsunspor @ 2.25  
-📐 **Estadísticas esperadas**  
-Córners 5.4 - 3.7: total +9.5 43% · Samsunspor +5.5 44% · Konyaspor +4.5 33%  
-Tarjetas 2.1 - 2.5: total +4.5 48% · Samsunspor +2.5 35% · Konyaspor +2.5 46%  
-Faltas 14.4 - 12.9: total +26.5 54% · Samsunspor +13.5 57% · Konyaspor +13.5 41%  
-Tiros a puerta 4.7 - 3.6: total +9.5 34% · Samsunspor +5.5 34% · Konyaspor +4.5 30%  
-🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Konyaspor + Menos de 4.5 córners de Konyaspor + Menos de 2.5 tarjetas de Samsunspor → prob. 33%, cuota justa 3.05 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 tiros a puerta de Konyaspor + Menos de 4.5 córners de Konyaspor + Menos de 2.5 tarjetas de Samsunspor + Menos de 13.5 faltas de Konyaspor → prob. 19%, cuota justa 5.22  
+Actualizado 07/11/2026 14:24 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Slask Wroclaw vs Piast Gliwice — 07/11 · 14:45
 
@@ -11386,6 +10986,7 @@ Tarjetas 2.2 - 2.1: total +4.5 43% · Elche +2.5 38% · Betis +2.5 35%
 Faltas 12.6 - 11.3: total +25.5 37% · Elche +12.5 49% · Betis +12.5 35%  
 Tiros a puerta 4.7 - 4.8: total +9.5 47% · Elche +4.5 49% · Betis +4.5 51%  
 🧩 Crear apuesta: Menos de 12.5 faltas de Betis + Menos de 2.5 tarjetas de Betis + Menos de 10.5 córners → prob. 29%, cuota justa 3.44 (solo vale si la casa paga más)  
+🎯 No simulada (con cuota: Menos de 2.5 tarjetas de Betis + Menos de 10.5 córners): cuota Unibet aprox. 2.13 (producto de piernas) · prob. 41% · ventaja -13%  
 
 ## Corum vs Fenerbahce — 08/11 · 14:00
 
@@ -11411,6 +11012,313 @@ Faltas 14.0 - 11.1: total +26.5 38% · Corum +13.5 53% · Fenerbahce +13.5 23%
 Tiros a puerta 4.0 - 5.5: total +9.5 47% · Corum +5.5 22% · Fenerbahce +4.5 62%  
 🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Corum + Menos de 13.5 faltas de Fenerbahce + Menos de 5.5 córners de Corum → prob. 44%, cuota justa 2.27 (solo vale si la casa paga más)  
 🚀 Combinada larga: Menos de 5.5 tiros a puerta de Corum + Menos de 13.5 faltas de Fenerbahce + Menos de 5.5 córners de Corum + Menos de 2.5 tarjetas de Fenerbahce + Más de 2.5 goles → prob. 16%, cuota justa 6.14  
+🎯 No simulada (con cuota: Menos de 5.5 córners de Corum + Más de 2.5 goles): cuota Unibet aprox. 2.04 (producto de piernas) · prob. 42% · ventaja -15%  
+
+## Elche vs Betis — 08/11 · 14:00
+
+👀 candidata · 🇪🇸 LaLiga · **Menos de 12.5 córners** @ **1.12** (Unibet) · prob 81% vs casas 81% · ventaja -9%
+
+- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.26 - 1.38)  
+1 32% · X 30% · 2 39%  
+1X 61% · X2 68% · 12 70%  
++1.5 75% · +2.5 49% · +3.5 27% · Ambos marcan 54%  
+Marcadores: 1-1 13% · 0-1 9% · 1-2 9% · 1-0 8%  
+🔎 **Claves**  
+• Forma: Elche ✅➖➖✅❌ | Betis ➖✅❌➖✅  
+• H2H: 14 desde 2009: 5V-3E-6D · 2.8 goles/partido · +2.5 en 64%  
+• Bajas: Elche: 1 fuera, 2 duda (Adam Boayar); Betis: 1 fuera, 2 duda (Facundo Bernal)  
+• Favorito de las casas: Betis @ 2.10  
+📐 **Estadísticas esperadas**  
+Córners 5.1 - 4.5: total +10.5 37% · Elche +5.5 40% · Betis +4.5 45%  
+Tarjetas 2.2 - 2.1: total +4.5 43% · Elche +2.5 38% · Betis +2.5 35%  
+Faltas 12.6 - 11.3: total +25.5 37% · Elche +12.5 49% · Betis +12.5 35%  
+Tiros a puerta 4.7 - 4.8: total +9.5 47% · Elche +4.5 49% · Betis +4.5 51%  
+🧩 Crear apuesta: Menos de 12.5 faltas de Betis + Menos de 2.5 tarjetas de Betis + Menos de 10.5 córners → prob. 29%, cuota justa 3.44 (solo vale si la casa paga más)  
+🎯 No simulada (con cuota: Menos de 2.5 tarjetas de Betis + Menos de 10.5 córners): cuota Unibet aprox. 2.13 (producto de piernas) · prob. 41% · ventaja -13%  
+
+## Elche vs Betis — 08/11 · 14:00
+
+👀 candidata · 🇪🇸 LaLiga · **Más de 9.5 córners** @ **2.10** (Unibet) · prob 46% vs casas 44% · ventaja -3%
+
+- ❌ Valor: ventaja -3% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.26 - 1.38)  
+1 32% · X 30% · 2 39%  
+1X 61% · X2 68% · 12 70%  
++1.5 75% · +2.5 49% · +3.5 27% · Ambos marcan 54%  
+Marcadores: 1-1 13% · 0-1 9% · 1-2 9% · 1-0 8%  
+🔎 **Claves**  
+• Forma: Elche ✅➖➖✅❌ | Betis ➖✅❌➖✅  
+• H2H: 14 desde 2009: 5V-3E-6D · 2.8 goles/partido · +2.5 en 64%  
+• Bajas: Elche: 1 fuera, 2 duda (Adam Boayar); Betis: 1 fuera, 2 duda (Facundo Bernal)  
+• Favorito de las casas: Betis @ 2.10  
+📐 **Estadísticas esperadas**  
+Córners 5.1 - 4.5: total +10.5 37% · Elche +5.5 40% · Betis +4.5 45%  
+Tarjetas 2.2 - 2.1: total +4.5 43% · Elche +2.5 38% · Betis +2.5 35%  
+Faltas 12.6 - 11.3: total +25.5 37% · Elche +12.5 49% · Betis +12.5 35%  
+Tiros a puerta 4.7 - 4.8: total +9.5 47% · Elche +4.5 49% · Betis +4.5 51%  
+🧩 Crear apuesta: Menos de 12.5 faltas de Betis + Menos de 2.5 tarjetas de Betis + Menos de 10.5 córners → prob. 29%, cuota justa 3.44 (solo vale si la casa paga más)  
+🎯 No simulada (con cuota: Menos de 2.5 tarjetas de Betis + Menos de 10.5 córners): cuota Unibet aprox. 2.13 (producto de piernas) · prob. 41% · ventaja -13%  
+
+## Elche vs Betis — 08/11 · 14:00
+
+👀 candidata · 🇪🇸 LaLiga · **Más de 5.5 córners de Elche** @ **2.75** (Unibet) · prob 37% vs casas 33% · ventaja +1%
+
+- ❌ Valor: ventaja +1% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.26 - 1.38)  
+1 32% · X 30% · 2 39%  
+1X 61% · X2 68% · 12 70%  
++1.5 75% · +2.5 49% · +3.5 27% · Ambos marcan 54%  
+Marcadores: 1-1 13% · 0-1 9% · 1-2 9% · 1-0 8%  
+🔎 **Claves**  
+• Forma: Elche ✅➖➖✅❌ | Betis ➖✅❌➖✅  
+• H2H: 14 desde 2009: 5V-3E-6D · 2.8 goles/partido · +2.5 en 64%  
+• Bajas: Elche: 1 fuera, 2 duda (Adam Boayar); Betis: 1 fuera, 2 duda (Facundo Bernal)  
+• Favorito de las casas: Betis @ 2.10  
+📐 **Estadísticas esperadas**  
+Córners 5.1 - 4.5: total +10.5 37% · Elche +5.5 40% · Betis +4.5 45%  
+Tarjetas 2.2 - 2.1: total +4.5 43% · Elche +2.5 38% · Betis +2.5 35%  
+Faltas 12.6 - 11.3: total +25.5 37% · Elche +12.5 49% · Betis +12.5 35%  
+Tiros a puerta 4.7 - 4.8: total +9.5 47% · Elche +4.5 49% · Betis +4.5 51%  
+🧩 Crear apuesta: Menos de 12.5 faltas de Betis + Menos de 2.5 tarjetas de Betis + Menos de 10.5 córners → prob. 29%, cuota justa 3.44 (solo vale si la casa paga más)  
+🎯 No simulada (con cuota: Menos de 2.5 tarjetas de Betis + Menos de 10.5 córners): cuota Unibet aprox. 2.13 (producto de piernas) · prob. 41% · ventaja -13%  
+
+## Elche vs Betis — 08/11 · 14:00
+
+👀 candidata · 🇪🇸 LaLiga · **Menos de 6.5 córners de Elche** @ **1.19** (Unibet) · prob 74% vs casas 77% · ventaja -11%
+
+- ❌ Valor: ventaja -11% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.26 - 1.38)  
+1 32% · X 30% · 2 39%  
+1X 61% · X2 68% · 12 70%  
++1.5 75% · +2.5 49% · +3.5 27% · Ambos marcan 54%  
+Marcadores: 1-1 13% · 0-1 9% · 1-2 9% · 1-0 8%  
+🔎 **Claves**  
+• Forma: Elche ✅➖➖✅❌ | Betis ➖✅❌➖✅  
+• H2H: 14 desde 2009: 5V-3E-6D · 2.8 goles/partido · +2.5 en 64%  
+• Bajas: Elche: 1 fuera, 2 duda (Adam Boayar); Betis: 1 fuera, 2 duda (Facundo Bernal)  
+• Favorito de las casas: Betis @ 2.10  
+📐 **Estadísticas esperadas**  
+Córners 5.1 - 4.5: total +10.5 37% · Elche +5.5 40% · Betis +4.5 45%  
+Tarjetas 2.2 - 2.1: total +4.5 43% · Elche +2.5 38% · Betis +2.5 35%  
+Faltas 12.6 - 11.3: total +25.5 37% · Elche +12.5 49% · Betis +12.5 35%  
+Tiros a puerta 4.7 - 4.8: total +9.5 47% · Elche +4.5 49% · Betis +4.5 51%  
+🧩 Crear apuesta: Menos de 12.5 faltas de Betis + Menos de 2.5 tarjetas de Betis + Menos de 10.5 córners → prob. 29%, cuota justa 3.44 (solo vale si la casa paga más)  
+🎯 No simulada (con cuota: Menos de 2.5 tarjetas de Betis + Menos de 10.5 córners): cuota Unibet aprox. 2.13 (producto de piernas) · prob. 41% · ventaja -13%  
+
+## Elche vs Betis — 08/11 · 14:00
+
+👀 candidata · 🇪🇸 LaLiga · **Menos de 5.5 córners de Betis** @ **1.40** (Unibet) · prob 67% vs casas 66% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.26 - 1.38)  
+1 32% · X 30% · 2 39%  
+1X 61% · X2 68% · 12 70%  
++1.5 75% · +2.5 49% · +3.5 27% · Ambos marcan 54%  
+Marcadores: 1-1 13% · 0-1 9% · 1-2 9% · 1-0 8%  
+🔎 **Claves**  
+• Forma: Elche ✅➖➖✅❌ | Betis ➖✅❌➖✅  
+• H2H: 14 desde 2009: 5V-3E-6D · 2.8 goles/partido · +2.5 en 64%  
+• Bajas: Elche: 1 fuera, 2 duda (Adam Boayar); Betis: 1 fuera, 2 duda (Facundo Bernal)  
+• Favorito de las casas: Betis @ 2.10  
+📐 **Estadísticas esperadas**  
+Córners 5.1 - 4.5: total +10.5 37% · Elche +5.5 40% · Betis +4.5 45%  
+Tarjetas 2.2 - 2.1: total +4.5 43% · Elche +2.5 38% · Betis +2.5 35%  
+Faltas 12.6 - 11.3: total +25.5 37% · Elche +12.5 49% · Betis +12.5 35%  
+Tiros a puerta 4.7 - 4.8: total +9.5 47% · Elche +4.5 49% · Betis +4.5 51%  
+🧩 Crear apuesta: Menos de 12.5 faltas de Betis + Menos de 2.5 tarjetas de Betis + Menos de 10.5 córners → prob. 29%, cuota justa 3.44 (solo vale si la casa paga más)  
+🎯 No simulada (con cuota: Menos de 2.5 tarjetas de Betis + Menos de 10.5 córners): cuota Unibet aprox. 2.13 (producto de piernas) · prob. 41% · ventaja -13%  
+
+## Elche vs Betis — 08/11 · 14:00
+
+👀 candidata · 🇪🇸 LaLiga · **Más de 2.5 córners de Betis** @ **1.20** (Unibet) · prob 77% vs casas 76% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.26 - 1.38)  
+1 32% · X 30% · 2 39%  
+1X 61% · X2 68% · 12 70%  
++1.5 75% · +2.5 49% · +3.5 27% · Ambos marcan 54%  
+Marcadores: 1-1 13% · 0-1 9% · 1-2 9% · 1-0 8%  
+🔎 **Claves**  
+• Forma: Elche ✅➖➖✅❌ | Betis ➖✅❌➖✅  
+• H2H: 14 desde 2009: 5V-3E-6D · 2.8 goles/partido · +2.5 en 64%  
+• Bajas: Elche: 1 fuera, 2 duda (Adam Boayar); Betis: 1 fuera, 2 duda (Facundo Bernal)  
+• Favorito de las casas: Betis @ 2.10  
+📐 **Estadísticas esperadas**  
+Córners 5.1 - 4.5: total +10.5 37% · Elche +5.5 40% · Betis +4.5 45%  
+Tarjetas 2.2 - 2.1: total +4.5 43% · Elche +2.5 38% · Betis +2.5 35%  
+Faltas 12.6 - 11.3: total +25.5 37% · Elche +12.5 49% · Betis +12.5 35%  
+Tiros a puerta 4.7 - 4.8: total +9.5 47% · Elche +4.5 49% · Betis +4.5 51%  
+🧩 Crear apuesta: Menos de 12.5 faltas de Betis + Menos de 2.5 tarjetas de Betis + Menos de 10.5 córners → prob. 29%, cuota justa 3.44 (solo vale si la casa paga más)  
+🎯 No simulada (con cuota: Menos de 2.5 tarjetas de Betis + Menos de 10.5 córners): cuota Unibet aprox. 2.13 (producto de piernas) · prob. 41% · ventaja -13%  
+
+## Corum vs Fenerbahce — 08/11 · 14:00
+
+👀 candidata · 🇹🇷 Süper Lig · **Más de 8.5 córners** @ **1.45** (Unibet) · prob 63% vs casas 63% · ventaja -9%
+
+- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.07 - 1.95)  
+1 16% · X 24% · 2 60%  
+1X 40% · X2 84% · 12 76%  
++1.5 81% · +2.5 58% · +3.5 36% · Ambos marcan 57%  
+Marcadores: 1-1 11% · 1-2 10% · 0-2 9% · 0-1 9%  
+🔎 **Claves**  
+• Forma: Corum ❌✅✅❌✅ | Fenerbahce ✅✅✅❌❌  
+• H2H: sin precedentes  
+• Bajas: Corum: 1 fuera, 0 duda (Gokhan Sazdagi); Fenerbahce: 1 fuera, 1 duda (Archie Brown)  
+• Favorito de las casas: Fenerbahce @ 1.75  
+📐 **Estadísticas esperadas**  
+Córners 4.3 - 5.4: total +9.5 50% · Corum +5.5 29% · Fenerbahce +4.5 58%  
+Tarjetas 2.5 - 2.3: total +4.5 52% · Corum +2.5 47% · Fenerbahce +2.5 40%  
+Faltas 14.0 - 11.1: total +26.5 38% · Corum +13.5 53% · Fenerbahce +13.5 23%  
+Tiros a puerta 4.0 - 5.5: total +9.5 47% · Corum +5.5 22% · Fenerbahce +4.5 62%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Corum + Menos de 13.5 faltas de Fenerbahce + Menos de 5.5 córners de Corum → prob. 44%, cuota justa 2.27 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Corum + Menos de 13.5 faltas de Fenerbahce + Menos de 5.5 córners de Corum + Menos de 2.5 tarjetas de Fenerbahce + Más de 2.5 goles → prob. 16%, cuota justa 6.14  
+🎯 No simulada (con cuota: Menos de 5.5 córners de Corum + Más de 2.5 goles): cuota Unibet aprox. 2.04 (producto de piernas) · prob. 42% · ventaja -15%  
+
+## Corum vs Fenerbahce — 08/11 · 14:00
+
+👀 candidata · 🇹🇷 Süper Lig · **Menos de 11.5 córners** @ **1.38** (Unibet) · prob 69% vs casas 67% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.07 - 1.95)  
+1 16% · X 24% · 2 60%  
+1X 40% · X2 84% · 12 76%  
++1.5 81% · +2.5 58% · +3.5 36% · Ambos marcan 57%  
+Marcadores: 1-1 11% · 1-2 10% · 0-2 9% · 0-1 9%  
+🔎 **Claves**  
+• Forma: Corum ❌✅✅❌✅ | Fenerbahce ✅✅✅❌❌  
+• H2H: sin precedentes  
+• Bajas: Corum: 1 fuera, 0 duda (Gokhan Sazdagi); Fenerbahce: 1 fuera, 1 duda (Archie Brown)  
+• Favorito de las casas: Fenerbahce @ 1.75  
+📐 **Estadísticas esperadas**  
+Córners 4.3 - 5.4: total +9.5 50% · Corum +5.5 29% · Fenerbahce +4.5 58%  
+Tarjetas 2.5 - 2.3: total +4.5 52% · Corum +2.5 47% · Fenerbahce +2.5 40%  
+Faltas 14.0 - 11.1: total +26.5 38% · Corum +13.5 53% · Fenerbahce +13.5 23%  
+Tiros a puerta 4.0 - 5.5: total +9.5 47% · Corum +5.5 22% · Fenerbahce +4.5 62%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Corum + Menos de 13.5 faltas de Fenerbahce + Menos de 5.5 córners de Corum → prob. 44%, cuota justa 2.27 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Corum + Menos de 13.5 faltas de Fenerbahce + Menos de 5.5 córners de Corum + Menos de 2.5 tarjetas de Fenerbahce + Más de 2.5 goles → prob. 16%, cuota justa 6.14  
+🎯 No simulada (con cuota: Menos de 5.5 córners de Corum + Más de 2.5 goles): cuota Unibet aprox. 2.04 (producto de piernas) · prob. 42% · ventaja -15%  
+
+## Corum vs Fenerbahce — 08/11 · 14:00
+
+👀 candidata · 🇹🇷 Süper Lig · **Más de 4.5 córners de Fenerbahce** @ **1.47** (Unibet) · prob 60% vs casas 62% · ventaja -12%
+
+- ❌ Valor: ventaja -12% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.07 - 1.95)  
+1 16% · X 24% · 2 60%  
+1X 40% · X2 84% · 12 76%  
++1.5 81% · +2.5 58% · +3.5 36% · Ambos marcan 57%  
+Marcadores: 1-1 11% · 1-2 10% · 0-2 9% · 0-1 9%  
+🔎 **Claves**  
+• Forma: Corum ❌✅✅❌✅ | Fenerbahce ✅✅✅❌❌  
+• H2H: sin precedentes  
+• Bajas: Corum: 1 fuera, 0 duda (Gokhan Sazdagi); Fenerbahce: 1 fuera, 1 duda (Archie Brown)  
+• Favorito de las casas: Fenerbahce @ 1.75  
+📐 **Estadísticas esperadas**  
+Córners 4.3 - 5.4: total +9.5 50% · Corum +5.5 29% · Fenerbahce +4.5 58%  
+Tarjetas 2.5 - 2.3: total +4.5 52% · Corum +2.5 47% · Fenerbahce +2.5 40%  
+Faltas 14.0 - 11.1: total +26.5 38% · Corum +13.5 53% · Fenerbahce +13.5 23%  
+Tiros a puerta 4.0 - 5.5: total +9.5 47% · Corum +5.5 22% · Fenerbahce +4.5 62%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Corum + Menos de 13.5 faltas de Fenerbahce + Menos de 5.5 córners de Corum → prob. 44%, cuota justa 2.27 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Corum + Menos de 13.5 faltas de Fenerbahce + Menos de 5.5 córners de Corum + Menos de 2.5 tarjetas de Fenerbahce + Más de 2.5 goles → prob. 16%, cuota justa 6.14  
+🎯 No simulada (con cuota: Menos de 5.5 córners de Corum + Más de 2.5 goles): cuota Unibet aprox. 2.04 (producto de piernas) · prob. 42% · ventaja -15%  
+
+## Corum vs Fenerbahce — 08/11 · 14:00
+
+👀 candidata · 🇹🇷 Süper Lig · **Menos de 5.5 córners de Fenerbahce** @ **1.82** (Unibet) · prob 53% vs casas 50% · ventaja -3%
+
+- ❌ Valor: ventaja -3% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.07 - 1.95)  
+1 16% · X 24% · 2 60%  
+1X 40% · X2 84% · 12 76%  
++1.5 81% · +2.5 58% · +3.5 36% · Ambos marcan 57%  
+Marcadores: 1-1 11% · 1-2 10% · 0-2 9% · 0-1 9%  
+🔎 **Claves**  
+• Forma: Corum ❌✅✅❌✅ | Fenerbahce ✅✅✅❌❌  
+• H2H: sin precedentes  
+• Bajas: Corum: 1 fuera, 0 duda (Gokhan Sazdagi); Fenerbahce: 1 fuera, 1 duda (Archie Brown)  
+• Favorito de las casas: Fenerbahce @ 1.75  
+📐 **Estadísticas esperadas**  
+Córners 4.3 - 5.4: total +9.5 50% · Corum +5.5 29% · Fenerbahce +4.5 58%  
+Tarjetas 2.5 - 2.3: total +4.5 52% · Corum +2.5 47% · Fenerbahce +2.5 40%  
+Faltas 14.0 - 11.1: total +26.5 38% · Corum +13.5 53% · Fenerbahce +13.5 23%  
+Tiros a puerta 4.0 - 5.5: total +9.5 47% · Corum +5.5 22% · Fenerbahce +4.5 62%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Corum + Menos de 13.5 faltas de Fenerbahce + Menos de 5.5 córners de Corum → prob. 44%, cuota justa 2.27 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Corum + Menos de 13.5 faltas de Fenerbahce + Menos de 5.5 córners de Corum + Menos de 2.5 tarjetas de Fenerbahce + Más de 2.5 goles → prob. 16%, cuota justa 6.14  
+🎯 No simulada (con cuota: Menos de 5.5 córners de Corum + Más de 2.5 goles): cuota Unibet aprox. 2.04 (producto de piernas) · prob. 42% · ventaja -15%  
+
+## Corum vs Fenerbahce — 08/11 · 14:00
+
+👀 candidata · 🇹🇷 Süper Lig · **Más de 3.5 córners de Corum** @ **1.67** (Unibet) · prob 57% vs casas 55% · ventaja -5%
+
+- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.07 - 1.95)  
+1 16% · X 24% · 2 60%  
+1X 40% · X2 84% · 12 76%  
++1.5 81% · +2.5 58% · +3.5 36% · Ambos marcan 57%  
+Marcadores: 1-1 11% · 1-2 10% · 0-2 9% · 0-1 9%  
+🔎 **Claves**  
+• Forma: Corum ❌✅✅❌✅ | Fenerbahce ✅✅✅❌❌  
+• H2H: sin precedentes  
+• Bajas: Corum: 1 fuera, 0 duda (Gokhan Sazdagi); Fenerbahce: 1 fuera, 1 duda (Archie Brown)  
+• Favorito de las casas: Fenerbahce @ 1.75  
+📐 **Estadísticas esperadas**  
+Córners 4.3 - 5.4: total +9.5 50% · Corum +5.5 29% · Fenerbahce +4.5 58%  
+Tarjetas 2.5 - 2.3: total +4.5 52% · Corum +2.5 47% · Fenerbahce +2.5 40%  
+Faltas 14.0 - 11.1: total +26.5 38% · Corum +13.5 53% · Fenerbahce +13.5 23%  
+Tiros a puerta 4.0 - 5.5: total +9.5 47% · Corum +5.5 22% · Fenerbahce +4.5 62%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Corum + Menos de 13.5 faltas de Fenerbahce + Menos de 5.5 córners de Corum → prob. 44%, cuota justa 2.27 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Corum + Menos de 13.5 faltas de Fenerbahce + Menos de 5.5 córners de Corum + Menos de 2.5 tarjetas de Fenerbahce + Más de 2.5 goles → prob. 16%, cuota justa 6.14  
+🎯 No simulada (con cuota: Menos de 5.5 córners de Corum + Más de 2.5 goles): cuota Unibet aprox. 2.04 (producto de piernas) · prob. 42% · ventaja -15%  
+
+## Corum vs Fenerbahce — 08/11 · 14:00
+
+👀 candidata · 🇹🇷 Süper Lig · **Menos de 5.5 córners de Corum** @ **1.29** (Unibet) · prob 71% vs casas 71% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.07 - 1.95)  
+1 16% · X 24% · 2 60%  
+1X 40% · X2 84% · 12 76%  
++1.5 81% · +2.5 58% · +3.5 36% · Ambos marcan 57%  
+Marcadores: 1-1 11% · 1-2 10% · 0-2 9% · 0-1 9%  
+🔎 **Claves**  
+• Forma: Corum ❌✅✅❌✅ | Fenerbahce ✅✅✅❌❌  
+• H2H: sin precedentes  
+• Bajas: Corum: 1 fuera, 0 duda (Gokhan Sazdagi); Fenerbahce: 1 fuera, 1 duda (Archie Brown)  
+• Favorito de las casas: Fenerbahce @ 1.75  
+📐 **Estadísticas esperadas**  
+Córners 4.3 - 5.4: total +9.5 50% · Corum +5.5 29% · Fenerbahce +4.5 58%  
+Tarjetas 2.5 - 2.3: total +4.5 52% · Corum +2.5 47% · Fenerbahce +2.5 40%  
+Faltas 14.0 - 11.1: total +26.5 38% · Corum +13.5 53% · Fenerbahce +13.5 23%  
+Tiros a puerta 4.0 - 5.5: total +9.5 47% · Corum +5.5 22% · Fenerbahce +4.5 62%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Corum + Menos de 13.5 faltas de Fenerbahce + Menos de 5.5 córners de Corum → prob. 44%, cuota justa 2.27 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Corum + Menos de 13.5 faltas de Fenerbahce + Menos de 5.5 córners de Corum + Menos de 2.5 tarjetas de Fenerbahce + Más de 2.5 goles → prob. 16%, cuota justa 6.14  
+🎯 No simulada (con cuota: Menos de 5.5 córners de Corum + Más de 2.5 goles): cuota Unibet aprox. 2.04 (producto de piernas) · prob. 42% · ventaja -15%  
 
 ## Hartberg vs Altach — 08/11 · 14:30
 
