@@ -1,24 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 07/11/2026 03:32 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Atlante vs Santos Laguna — 07/11 · 04:00
-
-👀 candidata · 🇲🇽 Liga MX · **Gana Santos Laguna** @ **3.00** (Bet365) · prob 32% vs casas 32% · ventaja -5%
-
-- ❌ Valor: ventaja -5% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.71 - 1.23)  
-1 42% · X 27% · 2 31%  
-1X 69% · X2 58% · 12 73%  
-+1.5 80% · +2.5 56% · +3.5 34% · Ambos marcan 58%  
-Marcadores: 1-1 12% · 2-1 10% · 1-0 9% · 2-0 8%  
-🔎 **Claves**  
-• Forma: Atlante ❌❌✅❌❌ | Santos Laguna ✅✅✅❌✅  
-• H2H: 4 desde 2012: 0V-0E-4D · 4.5 goles/partido · +2.5 en 100%  
-• Bajas: Atlante: sin bajas; Santos Laguna: 2 fuera, 0 duda (Lucas Di Yorio, Bruno Amione)  
-• Favorito de las casas: Atlante @ 2.20  
+Actualizado 07/11/2026 04:02 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Shimizu S-Pulse vs Verdy — 07/11 · 05:00
 

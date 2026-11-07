@@ -1,6 +1,6 @@
 # 🏈 NFL·NCAA · apuestas de valor
 
-Actualizado 07/11/2026 03:32 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 07/11/2026 04:02 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Arizona Wildcats vs TCU Horned Frogs — 07/11 · 04:15
 

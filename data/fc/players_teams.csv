@@ -58910,18 +58910,18 @@ id,tournament_id,club1,club2,ht1,ht2
 2366351,261161,Morocco,Belgium,,
 2366352,261161,Netherlands,Morocco,,
 2366353,261161,Portugal,Germany,,
-2365954,261106,Sporting CP,Juventus,3,1
-2365955,261106,Arsenal,Man City,0,3
-2365956,261106,Man City,Sporting CP,1,0
-2365957,261106,Juventus,B Dortmund,5,0
-2365958,261106,B Dortmund,Man City,0,6
-2365959,261106,Sporting CP,Arsenal,2,3
-2365960,261106,Arsenal,B Dortmund,1,1
-2365961,261106,Man City,Juventus,1,0
-2365962,261106,Juventus,Arsenal,1,0
-2365963,261106,B Dortmund,Sporting CP,4,3
-2365964,261106,Juventus,Sporting CP,1,1
-2365965,261106,Man City,Arsenal,1,5
+2365954,261106,Sporting CP,Juventus,3.0,1.0
+2365955,261106,Arsenal,Man City,0.0,3.0
+2365956,261106,Man City,Sporting CP,1.0,0.0
+2365957,261106,Juventus,B Dortmund,5.0,0.0
+2365958,261106,B Dortmund,Man City,0.0,6.0
+2365959,261106,Sporting CP,Arsenal,2.0,3.0
+2365960,261106,Arsenal,B Dortmund,1.0,1.0
+2365961,261106,Man City,Juventus,1.0,0.0
+2365962,261106,Juventus,Arsenal,1.0,0.0
+2365963,261106,B Dortmund,Sporting CP,4.0,3.0
+2365964,261106,Juventus,Sporting CP,1.0,1.0
+2365965,261106,Man City,Arsenal,1.0,5.0
 2365966,261106,Sporting CP,Man City,,
 2365967,261106,B Dortmund,Juventus,,
 2365968,261106,Man City,B Dortmund,,
@@ -58930,3 +58930,53 @@ id,tournament_id,club1,club2,ht1,ht2
 2365971,261106,Juventus,Man City,,
 2365972,261106,Arsenal,Juventus,,
 2365973,261106,Sporting CP,B Dortmund,,
+2365292,261116,Bayern Munchen,Liverpool,1,2
+2365293,261116,Real Madrid,Paris,2,1
+2365294,261116,Paris,Bayern Munchen,1,1
+2365295,261116,Liverpool,Atleti,0,0
+2365296,261116,Atleti,Paris,0,2
+2365297,261116,Bayern Munchen,Real Madrid,1,3
+2365298,261116,Real Madrid,Atleti,2,1
+2365299,261116,Paris,Liverpool,1,1
+2365300,261116,Liverpool,Real Madrid,1,2
+2365301,261116,Atleti,Bayern Munchen,3,0
+2365302,261116,Liverpool,Bayern Munchen,1,1
+2365303,261116,Paris,Real Madrid,1,3
+2365304,261116,Bayern Munchen,Paris,0,2
+2365305,261116,Atleti,Liverpool,0,3
+2365306,261116,Paris,Atleti,,
+2365307,261116,Real Madrid,Bayern Munchen,,
+2365308,261116,Atleti,Real Madrid,,
+2365309,261116,Liverpool,Paris,,
+2365310,261116,Real Madrid,Liverpool,,
+2365311,261116,Bayern Munchen,Atleti,,
+2365712,261131,Spain,France,2,0
+2365713,261131,Germany,England,1,3
+2365714,261131,England,Spain,2,2
+2365715,261131,France,Argentina,2,0
+2365716,261131,Argentina,England,1,1
+2365717,261131,Spain,Germany,1,0
+2365718,261131,Germany,Argentina,2,1
+2365719,261131,England,France,1,2
+2365720,261131,France,Germany,0,1
+2365721,261131,Argentina,Spain,0,1
+2365722,261131,France,Spain,3,2
+2365723,261131,England,Germany,5,1
+2365724,261131,Spain,England,1,1
+2365725,261131,Argentina,France,2,3
+2365726,261131,England,Argentina,2,2
+2365727,261131,Germany,Spain,0,1
+2365728,261131,Argentina,Germany,2,1
+2365729,261131,France,England,0,2
+2365730,261131,Germany,France,,
+2365731,261131,Spain,Argentina,,
+2365764,261142,Atleti,Real Madrid,4,1
+2365765,261142,Atleti,Barcelona,2,1
+2365766,261142,Real Madrid,Barcelona,1,1
+2365767,261142,Real Madrid,Atleti,0,2
+2365768,261142,Barcelona,Atleti,,
+2365769,261142,Barcelona,Real Madrid,,
+2365770,261142,Atleti,Real Madrid,,
+2365771,261142,Atleti,Barcelona,,
+2365772,261142,Real Madrid,Barcelona,,
+2365773,261142,Real Madrid,Atleti,,
