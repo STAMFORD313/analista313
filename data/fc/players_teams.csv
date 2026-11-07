@@ -58980,14 +58980,14 @@ id,tournament_id,club1,club2,ht1,ht2
 2365771,261142,Atleti,Barcelona,,
 2365772,261142,Real Madrid,Barcelona,,
 2365773,261142,Real Madrid,Atleti,,
-2365732,261132,Bayern Munchen,Frankfurt,2,3
-2365733,261132,B Dortmund,Leipzig,4,2
-2365734,261132,Leipzig,Bayern Munchen,3,4
-2365735,261132,Frankfurt,Stuttgart,4,0
-2365736,261132,Stuttgart,Leipzig,1,4
-2365737,261132,Bayern Munchen,B Dortmund,1,1
-2365738,261132,B Dortmund,Stuttgart,0,0
-2365739,261132,Leipzig,Frankfurt,1,1
+2365732,261132,Bayern Munchen,Frankfurt,2.0,3.0
+2365733,261132,B Dortmund,Leipzig,4.0,2.0
+2365734,261132,Leipzig,Bayern Munchen,3.0,4.0
+2365735,261132,Frankfurt,Stuttgart,4.0,0.0
+2365736,261132,Stuttgart,Leipzig,1.0,4.0
+2365737,261132,Bayern Munchen,B Dortmund,1.0,1.0
+2365738,261132,B Dortmund,Stuttgart,0.0,0.0
+2365739,261132,Leipzig,Frankfurt,1.0,1.0
 2365740,261132,Frankfurt,B Dortmund,,
 2365741,261132,Stuttgart,Bayern Munchen,,
 2365742,261132,Frankfurt,Bayern Munchen,,
@@ -59000,3 +59000,43 @@ id,tournament_id,club1,club2,ht1,ht2
 2365749,261132,Frankfurt,Leipzig,,
 2365750,261132,B Dortmund,Frankfurt,,
 2365751,261132,Bayern Munchen,Stuttgart,,
+2365974,261107,Paris,River Plate,1,3
+2365975,261107,Man City,Real Madrid,3,1
+2365976,261107,Real Madrid,Paris,4,2
+2365977,261107,River Plate,Boca Juniors,3,2
+2365978,261107,Boca Juniors,Real Madrid,3,2
+2365979,261107,Paris,Man City,2,3
+2365980,261107,Man City,Boca Juniors,2,1
+2365981,261107,Real Madrid,River Plate,0,2
+2365982,261107,River Plate,Man City,0,1
+2365983,261107,Boca Juniors,Paris,0,2
+2365984,261107,River Plate,Paris,,
+2365985,261107,Real Madrid,Man City,,
+2365986,261107,Paris,Real Madrid,,
+2365987,261107,Boca Juniors,River Plate,,
+2365988,261107,Real Madrid,Boca Juniors,,
+2365989,261107,Man City,Paris,,
+2365990,261107,Boca Juniors,Man City,,
+2365991,261107,River Plate,Real Madrid,,
+2365992,261107,Man City,River Plate,,
+2365993,261107,Paris,Boca Juniors,,
+2366354,261163,Man City,B Dortmund,4,3
+2366355,261163,Sporting CP,Juventus,2,2
+2366356,261163,Juventus,Man City,3,1
+2366357,261163,B Dortmund,Arsenal,2,1
+2366358,261163,Arsenal,Juventus,0,1
+2366359,261163,Man City,Sporting CP,1,0
+2366360,261163,Sporting CP,Arsenal,1,3
+2366361,261163,Juventus,B Dortmund,2,2
+2366362,261163,B Dortmund,Sporting CP,2,1
+2366363,261163,Arsenal,Man City,3,0
+2366364,261163,B Dortmund,Man City,3,2
+2366365,261163,Juventus,Sporting CP,2,0
+2366366,261163,Man City,Juventus,,
+2366367,261163,Arsenal,B Dortmund,,
+2366368,261163,Juventus,Arsenal,,
+2366369,261163,Sporting CP,Man City,,
+2366370,261163,Arsenal,Sporting CP,,
+2366371,261163,B Dortmund,Juventus,,
+2366372,261163,Sporting CP,B Dortmund,,
+2366373,261163,Man City,Arsenal,,

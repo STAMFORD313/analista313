@@ -1,6 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 07/11/2026 05:01 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 07/11/2026 05:32 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Nagoya Grampus vs Kyoto — 07/11 · 06:00
 
