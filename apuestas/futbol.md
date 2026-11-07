@@ -1,260 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 07/11/2026 17:37 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Odense vs Viborg — 07/11 · 18:00
-
-👀 candidata · 🇩🇰 Superliga · **Gana Odense** @ **2.70** (Bet365) · prob 34% vs casas 34% · ventaja -7%
-
-- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.41 - 1.58)  
-1 35% · X 27% · 2 38%  
-1X 62% · X2 65% · 12 73%  
-+1.5 81% · +2.5 58% · +3.5 35% · Ambos marcan 61%  
-Marcadores: 1-1 12% · 1-2 9% · 2-1 8% · 0-1 7%  
-🔎 **Claves**  
-• Forma: Odense ➖➖✅➖✅ | Viborg ✅✅❌❌✅  
-• H2H: 21 desde 2013: 7V-8E-6D · 2.8 goles/partido · +2.5 en 52%  
-• Bajas: Odense: sin bajas; Viborg: sin bajas  
-• Favorito de las casas: Viborg @ 2.25  
-
-## Rosenborg vs Start — 07/11 · 18:00
-
-👀 candidata · 🇳🇴 Eliteserien · **Gana Rosenborg** @ **1.20** (Bet365) · prob 79% vs casas 79% · ventaja -5%
-
-- ❌ Valor: ventaja -5% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 2.91 - 0.83)  
-1 75% · X 15% · 2 10%  
-1X 90% · X2 25% · 12 85%  
-+1.5 89% · +2.5 72% · +3.5 51% · Ambos marcan 53%  
-Marcadores: 2-0 10% · 3-0 10% · 2-1 8% · 3-1 8%  
-🔎 **Claves**  
-• Forma: Rosenborg ✅➖✅✅✅ | Start ❌❌❌✅❌  
-• H2H: 13 desde 2013: 11V-2E-0D · 2.6 goles/partido · +2.5 en 38%  
-• Bajas: Rosenborg: sin bajas; Start: sin bajas  
-• Favorito de las casas: Rosenborg @ 1.20  
-
-## Luzern vs Young Boys — 07/11 · 18:00
-
-👀 candidata · 🇨🇭 Super League · **Gana Luzern** @ **3.75** (Bet365) · prob 26% vs casas 26% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.75 - 1.87)  
-1 34% · X 26% · 2 40%  
-1X 60% · X2 66% · 12 74%  
-+1.5 88% · +2.5 70% · +3.5 49% · Ambos marcan 70%  
-Marcadores: 1-1 9% · 1-2 8% · 2-1 8% · 2-2 7%  
-🔎 **Claves**  
-• Forma: Luzern ❌✅❌❌➖ | Young Boys ➖✅✅✅❌  
-• H2H: 55 desde 2012: 8V-13E-34D · 3.7 goles/partido · +2.5 en 75%  
-• Bajas: Luzern: sin bajas; Young Boys: sin bajas  
-• Favorito de las casas: Young Boys @ 1.68  
-
-## Vaduz vs Sion — 07/11 · 18:00
-
-👀 candidata · 🇨🇭 Super League · **Gana Vaduz** @ **3.40** (Bet365) · prob 29% vs casas 29% · ventaja -1%
-
-- ❌ Valor: ventaja -1% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 2.02 - 1.60)  
-1 32% · X 27% · 2 41%  
-1X 59% · X2 68% · 12 73%  
-+1.5 88% · +2.5 70% · +3.5 49% · Ambos marcan 70%  
-Marcadores: 1-1 9% · 2-1 9% · 2-2 7% · 1-2 7%  
-🔎 **Claves**  
-• Forma: Vaduz ❌❌✅❌➖ | Sion ✅➖❌✅➖  
-• H2H: 17 desde 2014: 6V-1E-10D · 3.0 goles/partido · +2.5 en 47%  
-• Bajas: Vaduz: sin bajas; Sion: sin bajas  
-• Favorito de las casas: Sion @ 1.91  
-
-## Parma vs Bologna — 07/11 · 18:00
-
-👀 candidata · 🇮🇹 Serie A · **Parma +0.5 (hándicap asiático)** @ **2.03** (mejor del mercado) · prob 48% vs casas 48% · ventaja -2%
-
-- ❌ Valor: ventaja -2% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ hándicap» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 0.99 - 1.46)  
-1 26% · X 28% · 2 46%  
-1X 54% · X2 74% · 12 72%  
-+1.5 71% · +2.5 44% · +3.5 23% · Ambos marcan 49%  
-Marcadores: 1-1 13% · 0-1 12% · 0-0 9% · 0-2 9%  
-🔎 **Claves**  
-• Forma: Parma ❌❌❌➖✅ | Bologna ✅❌✅✅✅  
-• H2H: 20 desde 2009: 5V-9E-6D · 2.2 goles/partido · +2.5 en 45%  
-• Bajas: Parma: 0 fuera, 1 duda; Bologna: 2 fuera, 3 duda (Emil Holm, Thijs Dallinga)  
-• Favorito de las casas: Bologna @ 1.83  
-📐 **Estadísticas esperadas**  
-Córners 4.0 - 4.2: total +9.5 32% · Parma +5.5 24% · Bologna +4.5 41%  
-Tarjetas 2.1 - 2.1: total +3.5 60% · Parma +1.5 63% · Bologna +2.5 35%  
-Faltas 13.9 - 14.3: total +22.5 84% · Parma +11.5 72% · Bologna +11.5 74%  
-Tiros a puerta 3.3 - 4.5: total +9.5 26% · Parma +4.5 24% · Bologna +4.5 45%  
-🧩 Crear apuesta: Más de 22.5 faltas + Menos de 5.5 córners de Parma + Menos de 4.5 tiros a puerta de Parma → prob. 51%, cuota justa 1.94 (solo vale si la casa paga más)  
-🚀 Combinada larga: Más de 22.5 faltas + Menos de 5.5 córners de Parma + Menos de 4.5 tiros a puerta de Parma + Menos de 2.5 tarjetas de Bologna + Menos de 2.5 goles → prob. 20%, cuota justa 5.02  
-🎯 No simulada (con cuota: Menos de 4.5 tiros a puerta de Parma + Menos de 2.5 goles): cuota Unibet aprox. 1.99 (producto de piernas) · prob. 47% · ventaja -6%  
-
-## Parma vs Bologna — 07/11 · 18:00
-
-👀 candidata · 🇮🇹 Serie A · **Más de 5.5 córners** @ **1.11** (Unibet) · prob 82% vs casas 82% · ventaja -9%
-
-- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 0.99 - 1.46)  
-1 26% · X 28% · 2 46%  
-1X 54% · X2 74% · 12 72%  
-+1.5 71% · +2.5 44% · +3.5 23% · Ambos marcan 49%  
-Marcadores: 1-1 13% · 0-1 12% · 0-0 9% · 0-2 9%  
-🔎 **Claves**  
-• Forma: Parma ❌❌❌➖✅ | Bologna ✅❌✅✅✅  
-• H2H: 20 desde 2009: 5V-9E-6D · 2.2 goles/partido · +2.5 en 45%  
-• Bajas: Parma: 0 fuera, 1 duda; Bologna: 2 fuera, 3 duda (Emil Holm, Thijs Dallinga)  
-• Favorito de las casas: Bologna @ 1.83  
-📐 **Estadísticas esperadas**  
-Córners 4.0 - 4.2: total +9.5 32% · Parma +5.5 24% · Bologna +4.5 41%  
-Tarjetas 2.1 - 2.1: total +3.5 60% · Parma +1.5 63% · Bologna +2.5 35%  
-Faltas 13.9 - 14.3: total +22.5 84% · Parma +11.5 72% · Bologna +11.5 74%  
-Tiros a puerta 3.3 - 4.5: total +9.5 26% · Parma +4.5 24% · Bologna +4.5 45%  
-🧩 Crear apuesta: Más de 22.5 faltas + Menos de 5.5 córners de Parma + Menos de 4.5 tiros a puerta de Parma → prob. 51%, cuota justa 1.94 (solo vale si la casa paga más)  
-🚀 Combinada larga: Más de 22.5 faltas + Menos de 5.5 córners de Parma + Menos de 4.5 tiros a puerta de Parma + Menos de 2.5 tarjetas de Bologna + Menos de 2.5 goles → prob. 20%, cuota justa 5.02  
-🎯 No simulada (con cuota: Menos de 4.5 tiros a puerta de Parma + Menos de 2.5 goles): cuota Unibet aprox. 1.99 (producto de piernas) · prob. 47% · ventaja -6%  
-
-## Parma vs Bologna — 07/11 · 18:00
-
-👀 candidata · 🇮🇹 Serie A · **Menos de 8.5 córners** @ **1.92** (Unibet) · prob 52% vs casas 48% · ventaja -0%
-
-- ❌ Valor: ventaja -0% (mín. 7% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 0.99 - 1.46)  
-1 26% · X 28% · 2 46%  
-1X 54% · X2 74% · 12 72%  
-+1.5 71% · +2.5 44% · +3.5 23% · Ambos marcan 49%  
-Marcadores: 1-1 13% · 0-1 12% · 0-0 9% · 0-2 9%  
-🔎 **Claves**  
-• Forma: Parma ❌❌❌➖✅ | Bologna ✅❌✅✅✅  
-• H2H: 20 desde 2009: 5V-9E-6D · 2.2 goles/partido · +2.5 en 45%  
-• Bajas: Parma: 0 fuera, 1 duda; Bologna: 2 fuera, 3 duda (Emil Holm, Thijs Dallinga)  
-• Favorito de las casas: Bologna @ 1.83  
-📐 **Estadísticas esperadas**  
-Córners 4.0 - 4.2: total +9.5 32% · Parma +5.5 24% · Bologna +4.5 41%  
-Tarjetas 2.1 - 2.1: total +3.5 60% · Parma +1.5 63% · Bologna +2.5 35%  
-Faltas 13.9 - 14.3: total +22.5 84% · Parma +11.5 72% · Bologna +11.5 74%  
-Tiros a puerta 3.3 - 4.5: total +9.5 26% · Parma +4.5 24% · Bologna +4.5 45%  
-🧩 Crear apuesta: Más de 22.5 faltas + Menos de 5.5 córners de Parma + Menos de 4.5 tiros a puerta de Parma → prob. 51%, cuota justa 1.94 (solo vale si la casa paga más)  
-🚀 Combinada larga: Más de 22.5 faltas + Menos de 5.5 córners de Parma + Menos de 4.5 tiros a puerta de Parma + Menos de 2.5 tarjetas de Bologna + Menos de 2.5 goles → prob. 20%, cuota justa 5.02  
-🎯 No simulada (con cuota: Menos de 4.5 tiros a puerta de Parma + Menos de 2.5 goles): cuota Unibet aprox. 1.99 (producto de piernas) · prob. 47% · ventaja -6%  
-
-## Parma vs Bologna — 07/11 · 18:00
-
-👀 candidata · 🇮🇹 Serie A · **Menos de 3.5 córners de Bologna** @ **2.70** (Unibet) · prob 38% vs casas 34% · ventaja +4%
-
-- ❌ Valor: ventaja +4% (mín. 8% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 0.99 - 1.46)  
-1 26% · X 28% · 2 46%  
-1X 54% · X2 74% · 12 72%  
-+1.5 71% · +2.5 44% · +3.5 23% · Ambos marcan 49%  
-Marcadores: 1-1 13% · 0-1 12% · 0-0 9% · 0-2 9%  
-🔎 **Claves**  
-• Forma: Parma ❌❌❌➖✅ | Bologna ✅❌✅✅✅  
-• H2H: 20 desde 2009: 5V-9E-6D · 2.2 goles/partido · +2.5 en 45%  
-• Bajas: Parma: 0 fuera, 1 duda; Bologna: 2 fuera, 3 duda (Emil Holm, Thijs Dallinga)  
-• Favorito de las casas: Bologna @ 1.83  
-📐 **Estadísticas esperadas**  
-Córners 4.0 - 4.2: total +9.5 32% · Parma +5.5 24% · Bologna +4.5 41%  
-Tarjetas 2.1 - 2.1: total +3.5 60% · Parma +1.5 63% · Bologna +2.5 35%  
-Faltas 13.9 - 14.3: total +22.5 84% · Parma +11.5 72% · Bologna +11.5 74%  
-Tiros a puerta 3.3 - 4.5: total +9.5 26% · Parma +4.5 24% · Bologna +4.5 45%  
-🧩 Crear apuesta: Más de 22.5 faltas + Menos de 5.5 córners de Parma + Menos de 4.5 tiros a puerta de Parma → prob. 51%, cuota justa 1.94 (solo vale si la casa paga más)  
-🚀 Combinada larga: Más de 22.5 faltas + Menos de 5.5 córners de Parma + Menos de 4.5 tiros a puerta de Parma + Menos de 2.5 tarjetas de Bologna + Menos de 2.5 goles → prob. 20%, cuota justa 5.02  
-🎯 No simulada (con cuota: Menos de 4.5 tiros a puerta de Parma + Menos de 2.5 goles): cuota Unibet aprox. 1.99 (producto de piernas) · prob. 47% · ventaja -6%  
-
-## Parma vs Bologna — 07/11 · 18:00
-
-👀 candidata · 🇮🇹 Serie A · **Más de 2.5 córners de Bologna** @ **1.16** (Unibet) · prob 77% vs casas 79% · ventaja -11%
-
-- ❌ Valor: ventaja -11% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 0.99 - 1.46)  
-1 26% · X 28% · 2 46%  
-1X 54% · X2 74% · 12 72%  
-+1.5 71% · +2.5 44% · +3.5 23% · Ambos marcan 49%  
-Marcadores: 1-1 13% · 0-1 12% · 0-0 9% · 0-2 9%  
-🔎 **Claves**  
-• Forma: Parma ❌❌❌➖✅ | Bologna ✅❌✅✅✅  
-• H2H: 20 desde 2009: 5V-9E-6D · 2.2 goles/partido · +2.5 en 45%  
-• Bajas: Parma: 0 fuera, 1 duda; Bologna: 2 fuera, 3 duda (Emil Holm, Thijs Dallinga)  
-• Favorito de las casas: Bologna @ 1.83  
-📐 **Estadísticas esperadas**  
-Córners 4.0 - 4.2: total +9.5 32% · Parma +5.5 24% · Bologna +4.5 41%  
-Tarjetas 2.1 - 2.1: total +3.5 60% · Parma +1.5 63% · Bologna +2.5 35%  
-Faltas 13.9 - 14.3: total +22.5 84% · Parma +11.5 72% · Bologna +11.5 74%  
-Tiros a puerta 3.3 - 4.5: total +9.5 26% · Parma +4.5 24% · Bologna +4.5 45%  
-🧩 Crear apuesta: Más de 22.5 faltas + Menos de 5.5 córners de Parma + Menos de 4.5 tiros a puerta de Parma → prob. 51%, cuota justa 1.94 (solo vale si la casa paga más)  
-🚀 Combinada larga: Más de 22.5 faltas + Menos de 5.5 córners de Parma + Menos de 4.5 tiros a puerta de Parma + Menos de 2.5 tarjetas de Bologna + Menos de 2.5 goles → prob. 20%, cuota justa 5.02  
-🎯 No simulada (con cuota: Menos de 4.5 tiros a puerta de Parma + Menos de 2.5 goles): cuota Unibet aprox. 1.99 (producto de piernas) · prob. 47% · ventaja -6%  
-
-## Parma vs Bologna — 07/11 · 18:00
-
-👀 candidata · 🇮🇹 Serie A · **Menos de 5.5 córners de Parma** @ **1.23** (Unibet) · prob 75% vs casas 74% · ventaja -7%
-
-- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 0.99 - 1.46)  
-1 26% · X 28% · 2 46%  
-1X 54% · X2 74% · 12 72%  
-+1.5 71% · +2.5 44% · +3.5 23% · Ambos marcan 49%  
-Marcadores: 1-1 13% · 0-1 12% · 0-0 9% · 0-2 9%  
-🔎 **Claves**  
-• Forma: Parma ❌❌❌➖✅ | Bologna ✅❌✅✅✅  
-• H2H: 20 desde 2009: 5V-9E-6D · 2.2 goles/partido · +2.5 en 45%  
-• Bajas: Parma: 0 fuera, 1 duda; Bologna: 2 fuera, 3 duda (Emil Holm, Thijs Dallinga)  
-• Favorito de las casas: Bologna @ 1.83  
-📐 **Estadísticas esperadas**  
-Córners 4.0 - 4.2: total +9.5 32% · Parma +5.5 24% · Bologna +4.5 41%  
-Tarjetas 2.1 - 2.1: total +3.5 60% · Parma +1.5 63% · Bologna +2.5 35%  
-Faltas 13.9 - 14.3: total +22.5 84% · Parma +11.5 72% · Bologna +11.5 74%  
-Tiros a puerta 3.3 - 4.5: total +9.5 26% · Parma +4.5 24% · Bologna +4.5 45%  
-🧩 Crear apuesta: Más de 22.5 faltas + Menos de 5.5 córners de Parma + Menos de 4.5 tiros a puerta de Parma → prob. 51%, cuota justa 1.94 (solo vale si la casa paga más)  
-🚀 Combinada larga: Más de 22.5 faltas + Menos de 5.5 córners de Parma + Menos de 4.5 tiros a puerta de Parma + Menos de 2.5 tarjetas de Bologna + Menos de 2.5 goles → prob. 20%, cuota justa 5.02  
-🎯 No simulada (con cuota: Menos de 4.5 tiros a puerta de Parma + Menos de 2.5 goles): cuota Unibet aprox. 1.99 (producto de piernas) · prob. 47% · ventaja -6%  
-
-## Parma vs Bologna — 07/11 · 18:00
-
-👀 candidata · 🇮🇹 Serie A · **Más de 2.5 córners de Parma** @ **1.34** (Unibet) · prob 70% vs casas 68% · ventaja -6%
-
-- ❌ Valor: ventaja -6% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 0.99 - 1.46)  
-1 26% · X 28% · 2 46%  
-1X 54% · X2 74% · 12 72%  
-+1.5 71% · +2.5 44% · +3.5 23% · Ambos marcan 49%  
-Marcadores: 1-1 13% · 0-1 12% · 0-0 9% · 0-2 9%  
-🔎 **Claves**  
-• Forma: Parma ❌❌❌➖✅ | Bologna ✅❌✅✅✅  
-• H2H: 20 desde 2009: 5V-9E-6D · 2.2 goles/partido · +2.5 en 45%  
-• Bajas: Parma: 0 fuera, 1 duda; Bologna: 2 fuera, 3 duda (Emil Holm, Thijs Dallinga)  
-• Favorito de las casas: Bologna @ 1.83  
-📐 **Estadísticas esperadas**  
-Córners 4.0 - 4.2: total +9.5 32% · Parma +5.5 24% · Bologna +4.5 41%  
-Tarjetas 2.1 - 2.1: total +3.5 60% · Parma +1.5 63% · Bologna +2.5 35%  
-Faltas 13.9 - 14.3: total +22.5 84% · Parma +11.5 72% · Bologna +11.5 74%  
-Tiros a puerta 3.3 - 4.5: total +9.5 26% · Parma +4.5 24% · Bologna +4.5 45%  
-🧩 Crear apuesta: Más de 22.5 faltas + Menos de 5.5 córners de Parma + Menos de 4.5 tiros a puerta de Parma → prob. 51%, cuota justa 1.94 (solo vale si la casa paga más)  
-🚀 Combinada larga: Más de 22.5 faltas + Menos de 5.5 córners de Parma + Menos de 4.5 tiros a puerta de Parma + Menos de 2.5 tarjetas de Bologna + Menos de 2.5 goles → prob. 20%, cuota justa 5.02  
-🎯 No simulada (con cuota: Menos de 4.5 tiros a puerta de Parma + Menos de 2.5 goles): cuota Unibet aprox. 1.99 (producto de piernas) · prob. 47% · ventaja -6%  
+Actualizado 07/11/2026 18:04 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Oud-Heverlee Leuven vs Mechelen — 07/11 · 18:15
 
@@ -11627,6 +11373,7 @@ Faltas 8.8 - 12.1: total +20.5 51% · Freiburg +10.5 28% · Union Berlin +10.5 6
 Tiros a puerta 6.2 - 3.4: total +10.5 37% · Freiburg +5.5 56% · Union Berlin +4.5 26%  
 🧩 Crear apuesta: Menos de 2.5 tarjetas de Freiburg + Menos de 4.5 tiros a puerta de Union Berlin + Menos de 10.5 faltas de Freiburg → prob. 43%, cuota justa 2.31 (solo vale si la casa paga más)  
 🚀 Combinada larga: Menos de 2.5 tarjetas de Freiburg + Menos de 4.5 tiros a puerta de Union Berlin + Menos de 10.5 faltas de Freiburg + Menos de 4.5 córners de Union Berlin + Más de 2.5 goles → prob. 18%, cuota justa 5.56  
+🎯 No simulada (con cuota: Menos de 4.5 tiros a puerta de Union Berlin + Menos de 4.5 córners de Union Berlin): cuota Unibet aprox. 1.72 (producto de piernas) · prob. 56% · ventaja -4%  
 
 ## Man United vs Aston Villa — 08/11 · 17:30
 
@@ -11659,6 +11406,312 @@ Tiros a puerta 5.9 - 3.5: total +8.5 58% · Man United +4.5 68% · Aston Villa +
 
 - ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
 - ✅ Segmento «⚽ hándicap» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.37 - 1.29)  
+1 39% · X 29% · 2 32%  
+1X 68% · X2 61% · 12 71%  
++1.5 75% · +2.5 50% · +3.5 28% · Ambos marcan 55%  
+Marcadores: 1-1 13% · 1-0 9% · 2-1 8% · 0-1 8%  
+🔎 **Claves**  
+• Forma: OFI Crete ➖❌❌✅✅ | Atromitos ➖❌❌❌✅  
+• H2H: 22 desde 2019: 5V-12E-5D · 2.2 goles/partido · +2.5 en 36%  
+• Bajas: OFI Crete: sin bajas; Atromitos: sin bajas  
+• Favorito de las casas: OFI Crete @ 2.05  
+📐 **Estadísticas esperadas**  
+Córners 4.9 - 3.9: total +9.5 38% · OFI Crete +4.5 50% · Atromitos +4.5 35%  
+Tarjetas 2.4 - 3.2: total +5.5 47% · OFI Crete +2.5 42% · Atromitos +3.5 39%  
+Faltas 14.4 - 16.9: total +30.5 53% · OFI Crete +15.5 37% · Atromitos +15.5 60%  
+Tiros a puerta 4.5 - 3.8: total +8.5 44% · OFI Crete +4.5 45% · Atromitos +3.5 52%  
+🧩 Crear apuesta: Menos de 4.5 córners de Atromitos + Menos de 15.5 faltas de OFI Crete + Menos de 3.5 tarjetas de Atromitos → prob. 25%, cuota justa 4.00 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 córners de Atromitos + Menos de 15.5 faltas de OFI Crete + Menos de 3.5 tarjetas de Atromitos + Menos de 8.5 tiros a puerta → prob. 14%, cuota justa 7.24  
+
+## Freiburg vs Union Berlin — 08/11 · 17:30
+
+👀 candidata · 🇩🇪 Bundesliga · **Menos de 4.5 córners de Union Berlin** @ **1.34** (Unibet) · prob 70% vs casas 68% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.11 - 0.99)  
+1 60% · X 23% · 2 16%  
+1X 84% · X2 40% · 12 77%  
++1.5 82% · +2.5 60% · +3.5 38% · Ambos marcan 56%  
+Marcadores: 2-0 10% · 2-1 10% · 1-1 10% · 1-0 9%  
+🔎 **Claves**  
+• Forma: Freiburg ➖✅❌❌✅ | Union Berlin ❌✅➖➖➖  
+• H2H: 16 desde 2015: 3V-5E-8D · 2.4 goles/partido · +2.5 en 50%  
+• Bajas: Freiburg: 1 fuera, 1 duda (Florent Muslija); Union Berlin: 3 fuera, 4 duda (Felix Uduokhai, Derrick Koehn, Andrik Markgraf)  
+• Favorito de las casas: Freiburg @ 1.50  
+📐 **Estadísticas esperadas**  
+Córners 6.2 - 3.4: total +10.5 38% · Freiburg +5.5 54% · Union Berlin +4.5 28%  
+Tarjetas 1.6 - 2.2: total +3.5 52% · Freiburg +2.5 22% · Union Berlin +2.5 38%  
+Faltas 8.8 - 12.1: total +20.5 51% · Freiburg +10.5 28% · Union Berlin +10.5 65%  
+Tiros a puerta 6.2 - 3.4: total +10.5 37% · Freiburg +5.5 56% · Union Berlin +4.5 26%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Freiburg + Menos de 4.5 tiros a puerta de Union Berlin + Menos de 10.5 faltas de Freiburg → prob. 43%, cuota justa 2.31 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Freiburg + Menos de 4.5 tiros a puerta de Union Berlin + Menos de 10.5 faltas de Freiburg + Menos de 4.5 córners de Union Berlin + Más de 2.5 goles → prob. 18%, cuota justa 5.56  
+🎯 No simulada (con cuota: Menos de 4.5 tiros a puerta de Union Berlin + Menos de 4.5 córners de Union Berlin): cuota Unibet aprox. 1.72 (producto de piernas) · prob. 56% · ventaja -4%  
+
+## Freiburg vs Union Berlin — 08/11 · 17:30
+
+👀 candidata · 🇩🇪 Bundesliga · **Más de 2.5 córners de Union Berlin** @ **1.43** (Unibet) · prob 64% vs casas 64% · ventaja -9%
+
+- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.11 - 0.99)  
+1 60% · X 23% · 2 16%  
+1X 84% · X2 40% · 12 77%  
++1.5 82% · +2.5 60% · +3.5 38% · Ambos marcan 56%  
+Marcadores: 2-0 10% · 2-1 10% · 1-1 10% · 1-0 9%  
+🔎 **Claves**  
+• Forma: Freiburg ➖✅❌❌✅ | Union Berlin ❌✅➖➖➖  
+• H2H: 16 desde 2015: 3V-5E-8D · 2.4 goles/partido · +2.5 en 50%  
+• Bajas: Freiburg: 1 fuera, 1 duda (Florent Muslija); Union Berlin: 3 fuera, 4 duda (Felix Uduokhai, Derrick Koehn, Andrik Markgraf)  
+• Favorito de las casas: Freiburg @ 1.50  
+📐 **Estadísticas esperadas**  
+Córners 6.2 - 3.4: total +10.5 38% · Freiburg +5.5 54% · Union Berlin +4.5 28%  
+Tarjetas 1.6 - 2.2: total +3.5 52% · Freiburg +2.5 22% · Union Berlin +2.5 38%  
+Faltas 8.8 - 12.1: total +20.5 51% · Freiburg +10.5 28% · Union Berlin +10.5 65%  
+Tiros a puerta 6.2 - 3.4: total +10.5 37% · Freiburg +5.5 56% · Union Berlin +4.5 26%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Freiburg + Menos de 4.5 tiros a puerta de Union Berlin + Menos de 10.5 faltas de Freiburg → prob. 43%, cuota justa 2.31 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Freiburg + Menos de 4.5 tiros a puerta de Union Berlin + Menos de 10.5 faltas de Freiburg + Menos de 4.5 córners de Union Berlin + Más de 2.5 goles → prob. 18%, cuota justa 5.56  
+🎯 No simulada (con cuota: Menos de 4.5 tiros a puerta de Union Berlin + Menos de 4.5 córners de Union Berlin): cuota Unibet aprox. 1.72 (producto de piernas) · prob. 56% · ventaja -4%  
+
+## Freiburg vs Union Berlin — 08/11 · 17:30
+
+👀 candidata · 🇩🇪 Bundesliga · **Más de 6.5 córners de Freiburg** @ **2.50** (Unibet) · prob 39% vs casas 37% · ventaja -2%
+
+- ❌ Valor: ventaja -2% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.11 - 0.99)  
+1 60% · X 23% · 2 16%  
+1X 84% · X2 40% · 12 77%  
++1.5 82% · +2.5 60% · +3.5 38% · Ambos marcan 56%  
+Marcadores: 2-0 10% · 2-1 10% · 1-1 10% · 1-0 9%  
+🔎 **Claves**  
+• Forma: Freiburg ➖✅❌❌✅ | Union Berlin ❌✅➖➖➖  
+• H2H: 16 desde 2015: 3V-5E-8D · 2.4 goles/partido · +2.5 en 50%  
+• Bajas: Freiburg: 1 fuera, 1 duda (Florent Muslija); Union Berlin: 3 fuera, 4 duda (Felix Uduokhai, Derrick Koehn, Andrik Markgraf)  
+• Favorito de las casas: Freiburg @ 1.50  
+📐 **Estadísticas esperadas**  
+Córners 6.2 - 3.4: total +10.5 38% · Freiburg +5.5 54% · Union Berlin +4.5 28%  
+Tarjetas 1.6 - 2.2: total +3.5 52% · Freiburg +2.5 22% · Union Berlin +2.5 38%  
+Faltas 8.8 - 12.1: total +20.5 51% · Freiburg +10.5 28% · Union Berlin +10.5 65%  
+Tiros a puerta 6.2 - 3.4: total +10.5 37% · Freiburg +5.5 56% · Union Berlin +4.5 26%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Freiburg + Menos de 4.5 tiros a puerta de Union Berlin + Menos de 10.5 faltas de Freiburg → prob. 43%, cuota justa 2.31 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Freiburg + Menos de 4.5 tiros a puerta de Union Berlin + Menos de 10.5 faltas de Freiburg + Menos de 4.5 córners de Union Berlin + Más de 2.5 goles → prob. 18%, cuota justa 5.56  
+🎯 No simulada (con cuota: Menos de 4.5 tiros a puerta de Union Berlin + Menos de 4.5 córners de Union Berlin): cuota Unibet aprox. 1.72 (producto de piernas) · prob. 56% · ventaja -4%  
+
+## Freiburg vs Union Berlin — 08/11 · 17:30
+
+👀 candidata · 🇩🇪 Bundesliga · **Menos de 7.5 córners de Freiburg** @ **1.26** (Unibet) · prob 71% vs casas 73% · ventaja -10%
+
+- ❌ Valor: ventaja -10% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.11 - 0.99)  
+1 60% · X 23% · 2 16%  
+1X 84% · X2 40% · 12 77%  
++1.5 82% · +2.5 60% · +3.5 38% · Ambos marcan 56%  
+Marcadores: 2-0 10% · 2-1 10% · 1-1 10% · 1-0 9%  
+🔎 **Claves**  
+• Forma: Freiburg ➖✅❌❌✅ | Union Berlin ❌✅➖➖➖  
+• H2H: 16 desde 2015: 3V-5E-8D · 2.4 goles/partido · +2.5 en 50%  
+• Bajas: Freiburg: 1 fuera, 1 duda (Florent Muslija); Union Berlin: 3 fuera, 4 duda (Felix Uduokhai, Derrick Koehn, Andrik Markgraf)  
+• Favorito de las casas: Freiburg @ 1.50  
+📐 **Estadísticas esperadas**  
+Córners 6.2 - 3.4: total +10.5 38% · Freiburg +5.5 54% · Union Berlin +4.5 28%  
+Tarjetas 1.6 - 2.2: total +3.5 52% · Freiburg +2.5 22% · Union Berlin +2.5 38%  
+Faltas 8.8 - 12.1: total +20.5 51% · Freiburg +10.5 28% · Union Berlin +10.5 65%  
+Tiros a puerta 6.2 - 3.4: total +10.5 37% · Freiburg +5.5 56% · Union Berlin +4.5 26%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Freiburg + Menos de 4.5 tiros a puerta de Union Berlin + Menos de 10.5 faltas de Freiburg → prob. 43%, cuota justa 2.31 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Freiburg + Menos de 4.5 tiros a puerta de Union Berlin + Menos de 10.5 faltas de Freiburg + Menos de 4.5 córners de Union Berlin + Más de 2.5 goles → prob. 18%, cuota justa 5.56  
+🎯 No simulada (con cuota: Menos de 4.5 tiros a puerta de Union Berlin + Menos de 4.5 córners de Union Berlin): cuota Unibet aprox. 1.72 (producto de piernas) · prob. 56% · ventaja -4%  
+
+## Freiburg vs Union Berlin — 08/11 · 17:30
+
+👀 candidata · 🇩🇪 Bundesliga · **Más de 9.5 córners** @ **2.02** (Unibet) · prob 48% vs casas 46% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.11 - 0.99)  
+1 60% · X 23% · 2 16%  
+1X 84% · X2 40% · 12 77%  
++1.5 82% · +2.5 60% · +3.5 38% · Ambos marcan 56%  
+Marcadores: 2-0 10% · 2-1 10% · 1-1 10% · 1-0 9%  
+🔎 **Claves**  
+• Forma: Freiburg ➖✅❌❌✅ | Union Berlin ❌✅➖➖➖  
+• H2H: 16 desde 2015: 3V-5E-8D · 2.4 goles/partido · +2.5 en 50%  
+• Bajas: Freiburg: 1 fuera, 1 duda (Florent Muslija); Union Berlin: 3 fuera, 4 duda (Felix Uduokhai, Derrick Koehn, Andrik Markgraf)  
+• Favorito de las casas: Freiburg @ 1.50  
+📐 **Estadísticas esperadas**  
+Córners 6.2 - 3.4: total +10.5 38% · Freiburg +5.5 54% · Union Berlin +4.5 28%  
+Tarjetas 1.6 - 2.2: total +3.5 52% · Freiburg +2.5 22% · Union Berlin +2.5 38%  
+Faltas 8.8 - 12.1: total +20.5 51% · Freiburg +10.5 28% · Union Berlin +10.5 65%  
+Tiros a puerta 6.2 - 3.4: total +10.5 37% · Freiburg +5.5 56% · Union Berlin +4.5 26%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Freiburg + Menos de 4.5 tiros a puerta de Union Berlin + Menos de 10.5 faltas de Freiburg → prob. 43%, cuota justa 2.31 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Freiburg + Menos de 4.5 tiros a puerta de Union Berlin + Menos de 10.5 faltas de Freiburg + Menos de 4.5 córners de Union Berlin + Más de 2.5 goles → prob. 18%, cuota justa 5.56  
+🎯 No simulada (con cuota: Menos de 4.5 tiros a puerta de Union Berlin + Menos de 4.5 córners de Union Berlin): cuota Unibet aprox. 1.72 (producto de piernas) · prob. 56% · ventaja -4%  
+
+## Freiburg vs Union Berlin — 08/11 · 17:30
+
+👀 candidata · 🇩🇪 Bundesliga · **Menos de 12.5 córners** @ **1.14** (Unibet) · prob 81% vs casas 80% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.11 - 0.99)  
+1 60% · X 23% · 2 16%  
+1X 84% · X2 40% · 12 77%  
++1.5 82% · +2.5 60% · +3.5 38% · Ambos marcan 56%  
+Marcadores: 2-0 10% · 2-1 10% · 1-1 10% · 1-0 9%  
+🔎 **Claves**  
+• Forma: Freiburg ➖✅❌❌✅ | Union Berlin ❌✅➖➖➖  
+• H2H: 16 desde 2015: 3V-5E-8D · 2.4 goles/partido · +2.5 en 50%  
+• Bajas: Freiburg: 1 fuera, 1 duda (Florent Muslija); Union Berlin: 3 fuera, 4 duda (Felix Uduokhai, Derrick Koehn, Andrik Markgraf)  
+• Favorito de las casas: Freiburg @ 1.50  
+📐 **Estadísticas esperadas**  
+Córners 6.2 - 3.4: total +10.5 38% · Freiburg +5.5 54% · Union Berlin +4.5 28%  
+Tarjetas 1.6 - 2.2: total +3.5 52% · Freiburg +2.5 22% · Union Berlin +2.5 38%  
+Faltas 8.8 - 12.1: total +20.5 51% · Freiburg +10.5 28% · Union Berlin +10.5 65%  
+Tiros a puerta 6.2 - 3.4: total +10.5 37% · Freiburg +5.5 56% · Union Berlin +4.5 26%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Freiburg + Menos de 4.5 tiros a puerta de Union Berlin + Menos de 10.5 faltas de Freiburg → prob. 43%, cuota justa 2.31 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Freiburg + Menos de 4.5 tiros a puerta de Union Berlin + Menos de 10.5 faltas de Freiburg + Menos de 4.5 córners de Union Berlin + Más de 2.5 goles → prob. 18%, cuota justa 5.56  
+🎯 No simulada (con cuota: Menos de 4.5 tiros a puerta de Union Berlin + Menos de 4.5 córners de Union Berlin): cuota Unibet aprox. 1.72 (producto de piernas) · prob. 56% · ventaja -4%  
+
+## OFI Crete vs Atromitos — 08/11 · 17:30
+
+👀 candidata · 🇬🇷 Super League · **Más de 7.5 córners** @ **1.41** (Unibet) · prob 63% vs casas 64% · ventaja -11%
+
+- ❌ Valor: ventaja -11% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.37 - 1.29)  
+1 39% · X 29% · 2 32%  
+1X 68% · X2 61% · 12 71%  
++1.5 75% · +2.5 50% · +3.5 28% · Ambos marcan 55%  
+Marcadores: 1-1 13% · 1-0 9% · 2-1 8% · 0-1 8%  
+🔎 **Claves**  
+• Forma: OFI Crete ➖❌❌✅✅ | Atromitos ➖❌❌❌✅  
+• H2H: 22 desde 2019: 5V-12E-5D · 2.2 goles/partido · +2.5 en 36%  
+• Bajas: OFI Crete: sin bajas; Atromitos: sin bajas  
+• Favorito de las casas: OFI Crete @ 2.05  
+📐 **Estadísticas esperadas**  
+Córners 4.9 - 3.9: total +9.5 38% · OFI Crete +4.5 50% · Atromitos +4.5 35%  
+Tarjetas 2.4 - 3.2: total +5.5 47% · OFI Crete +2.5 42% · Atromitos +3.5 39%  
+Faltas 14.4 - 16.9: total +30.5 53% · OFI Crete +15.5 37% · Atromitos +15.5 60%  
+Tiros a puerta 4.5 - 3.8: total +8.5 44% · OFI Crete +4.5 45% · Atromitos +3.5 52%  
+🧩 Crear apuesta: Menos de 4.5 córners de Atromitos + Menos de 15.5 faltas de OFI Crete + Menos de 3.5 tarjetas de Atromitos → prob. 25%, cuota justa 4.00 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 córners de Atromitos + Menos de 15.5 faltas de OFI Crete + Menos de 3.5 tarjetas de Atromitos + Menos de 8.5 tiros a puerta → prob. 14%, cuota justa 7.24  
+
+## OFI Crete vs Atromitos — 08/11 · 17:30
+
+👀 candidata · 🇬🇷 Super League · **Menos de 9.5 córners** @ **1.55** (Unibet) · prob 60% vs casas 58% · ventaja -7%
+
+- ❌ Valor: ventaja -7% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.37 - 1.29)  
+1 39% · X 29% · 2 32%  
+1X 68% · X2 61% · 12 71%  
++1.5 75% · +2.5 50% · +3.5 28% · Ambos marcan 55%  
+Marcadores: 1-1 13% · 1-0 9% · 2-1 8% · 0-1 8%  
+🔎 **Claves**  
+• Forma: OFI Crete ➖❌❌✅✅ | Atromitos ➖❌❌❌✅  
+• H2H: 22 desde 2019: 5V-12E-5D · 2.2 goles/partido · +2.5 en 36%  
+• Bajas: OFI Crete: sin bajas; Atromitos: sin bajas  
+• Favorito de las casas: OFI Crete @ 2.05  
+📐 **Estadísticas esperadas**  
+Córners 4.9 - 3.9: total +9.5 38% · OFI Crete +4.5 50% · Atromitos +4.5 35%  
+Tarjetas 2.4 - 3.2: total +5.5 47% · OFI Crete +2.5 42% · Atromitos +3.5 39%  
+Faltas 14.4 - 16.9: total +30.5 53% · OFI Crete +15.5 37% · Atromitos +15.5 60%  
+Tiros a puerta 4.5 - 3.8: total +8.5 44% · OFI Crete +4.5 45% · Atromitos +3.5 52%  
+🧩 Crear apuesta: Menos de 4.5 córners de Atromitos + Menos de 15.5 faltas de OFI Crete + Menos de 3.5 tarjetas de Atromitos → prob. 25%, cuota justa 4.00 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 córners de Atromitos + Menos de 15.5 faltas de OFI Crete + Menos de 3.5 tarjetas de Atromitos + Menos de 8.5 tiros a puerta → prob. 14%, cuota justa 7.24  
+
+## OFI Crete vs Atromitos — 08/11 · 17:30
+
+👀 candidata · 🇬🇷 Super League · **Más de 3.5 córners de Atromitos** @ **1.61** (Unibet) · prob 53% vs casas 56% · ventaja -14%
+
+- ❌ Valor: ventaja -14% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.37 - 1.29)  
+1 39% · X 29% · 2 32%  
+1X 68% · X2 61% · 12 71%  
++1.5 75% · +2.5 50% · +3.5 28% · Ambos marcan 55%  
+Marcadores: 1-1 13% · 1-0 9% · 2-1 8% · 0-1 8%  
+🔎 **Claves**  
+• Forma: OFI Crete ➖❌❌✅✅ | Atromitos ➖❌❌❌✅  
+• H2H: 22 desde 2019: 5V-12E-5D · 2.2 goles/partido · +2.5 en 36%  
+• Bajas: OFI Crete: sin bajas; Atromitos: sin bajas  
+• Favorito de las casas: OFI Crete @ 2.05  
+📐 **Estadísticas esperadas**  
+Córners 4.9 - 3.9: total +9.5 38% · OFI Crete +4.5 50% · Atromitos +4.5 35%  
+Tarjetas 2.4 - 3.2: total +5.5 47% · OFI Crete +2.5 42% · Atromitos +3.5 39%  
+Faltas 14.4 - 16.9: total +30.5 53% · OFI Crete +15.5 37% · Atromitos +15.5 60%  
+Tiros a puerta 4.5 - 3.8: total +8.5 44% · OFI Crete +4.5 45% · Atromitos +3.5 52%  
+🧩 Crear apuesta: Menos de 4.5 córners de Atromitos + Menos de 15.5 faltas de OFI Crete + Menos de 3.5 tarjetas de Atromitos → prob. 25%, cuota justa 4.00 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 córners de Atromitos + Menos de 15.5 faltas de OFI Crete + Menos de 3.5 tarjetas de Atromitos + Menos de 8.5 tiros a puerta → prob. 14%, cuota justa 7.24  
+
+## OFI Crete vs Atromitos — 08/11 · 17:30
+
+👀 candidata · 🇬🇷 Super League · **Menos de 4.5 córners de Atromitos** @ **1.54** (Unibet) · prob 62% vs casas 58% · ventaja -5%
+
+- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.37 - 1.29)  
+1 39% · X 29% · 2 32%  
+1X 68% · X2 61% · 12 71%  
++1.5 75% · +2.5 50% · +3.5 28% · Ambos marcan 55%  
+Marcadores: 1-1 13% · 1-0 9% · 2-1 8% · 0-1 8%  
+🔎 **Claves**  
+• Forma: OFI Crete ➖❌❌✅✅ | Atromitos ➖❌❌❌✅  
+• H2H: 22 desde 2019: 5V-12E-5D · 2.2 goles/partido · +2.5 en 36%  
+• Bajas: OFI Crete: sin bajas; Atromitos: sin bajas  
+• Favorito de las casas: OFI Crete @ 2.05  
+📐 **Estadísticas esperadas**  
+Córners 4.9 - 3.9: total +9.5 38% · OFI Crete +4.5 50% · Atromitos +4.5 35%  
+Tarjetas 2.4 - 3.2: total +5.5 47% · OFI Crete +2.5 42% · Atromitos +3.5 39%  
+Faltas 14.4 - 16.9: total +30.5 53% · OFI Crete +15.5 37% · Atromitos +15.5 60%  
+Tiros a puerta 4.5 - 3.8: total +8.5 44% · OFI Crete +4.5 45% · Atromitos +3.5 52%  
+🧩 Crear apuesta: Menos de 4.5 córners de Atromitos + Menos de 15.5 faltas de OFI Crete + Menos de 3.5 tarjetas de Atromitos → prob. 25%, cuota justa 4.00 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 córners de Atromitos + Menos de 15.5 faltas de OFI Crete + Menos de 3.5 tarjetas de Atromitos + Menos de 8.5 tiros a puerta → prob. 14%, cuota justa 7.24  
+
+## OFI Crete vs Atromitos — 08/11 · 17:30
+
+👀 candidata · 🇬🇷 Super League · **Más de 4.5 córners de OFI Crete** @ **1.85** (Unibet) · prob 50% vs casas 49% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.37 - 1.29)  
+1 39% · X 29% · 2 32%  
+1X 68% · X2 61% · 12 71%  
++1.5 75% · +2.5 50% · +3.5 28% · Ambos marcan 55%  
+Marcadores: 1-1 13% · 1-0 9% · 2-1 8% · 0-1 8%  
+🔎 **Claves**  
+• Forma: OFI Crete ➖❌❌✅✅ | Atromitos ➖❌❌❌✅  
+• H2H: 22 desde 2019: 5V-12E-5D · 2.2 goles/partido · +2.5 en 36%  
+• Bajas: OFI Crete: sin bajas; Atromitos: sin bajas  
+• Favorito de las casas: OFI Crete @ 2.05  
+📐 **Estadísticas esperadas**  
+Córners 4.9 - 3.9: total +9.5 38% · OFI Crete +4.5 50% · Atromitos +4.5 35%  
+Tarjetas 2.4 - 3.2: total +5.5 47% · OFI Crete +2.5 42% · Atromitos +3.5 39%  
+Faltas 14.4 - 16.9: total +30.5 53% · OFI Crete +15.5 37% · Atromitos +15.5 60%  
+Tiros a puerta 4.5 - 3.8: total +8.5 44% · OFI Crete +4.5 45% · Atromitos +3.5 52%  
+🧩 Crear apuesta: Menos de 4.5 córners de Atromitos + Menos de 15.5 faltas de OFI Crete + Menos de 3.5 tarjetas de Atromitos → prob. 25%, cuota justa 4.00 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 córners de Atromitos + Menos de 15.5 faltas de OFI Crete + Menos de 3.5 tarjetas de Atromitos + Menos de 8.5 tiros a puerta → prob. 14%, cuota justa 7.24  
+
+## OFI Crete vs Atromitos — 08/11 · 17:30
+
+👀 candidata · 🇬🇷 Super League · **Menos de 4.5 córners de OFI Crete** @ **1.75** (Unibet) · prob 50% vs casas 51% · ventaja -12%
+
+- ❌ Valor: ventaja -12% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
 
 📊 **Escenarios** (goles esperados 1.37 - 1.29)  
 1 39% · X 29% · 2 32%  

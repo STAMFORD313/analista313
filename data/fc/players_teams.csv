@@ -59647,14 +59647,14 @@ id,tournament_id,club1,club2,ht1,ht2
 2366911,261236,Chelsea,Man City,,
 2366912,261236,Tottenham,Chelsea,,
 2366913,261236,Liverpool,Arsenal,,
-2367234,261278,Adelaide United,Melbourne City,1,2
-2367235,261278,Sydney FC,Melbourne Victory,0,0
-2367236,261278,Melbourne Victory,Adelaide United,2,1
-2367237,261278,Melbourne City,Western Sydney Wanderers,0,1
-2367238,261278,Western Sydney Wanderers,Melbourne Victory,1,2
-2367239,261278,Adelaide United,Sydney FC,2,0
-2367240,261278,Sydney FC,Western Sydney Wanderers,2,0
-2367241,261278,Melbourne Victory,Melbourne City,1,1
+2367234,261278,Adelaide United,Melbourne City,1.0,2.0
+2367235,261278,Sydney FC,Melbourne Victory,0.0,0.0
+2367236,261278,Melbourne Victory,Adelaide United,2.0,1.0
+2367237,261278,Melbourne City,Western Sydney Wanderers,0.0,1.0
+2367238,261278,Western Sydney Wanderers,Melbourne Victory,1.0,2.0
+2367239,261278,Adelaide United,Sydney FC,2.0,0.0
+2367240,261278,Sydney FC,Western Sydney Wanderers,2.0,0.0
+2367241,261278,Melbourne Victory,Melbourne City,1.0,1.0
 2367242,261278,Melbourne City,Sydney FC,,
 2367243,261278,Western Sydney Wanderers,Adelaide United,,
 2367244,261278,Melbourne City,Adelaide United,,
@@ -59667,3 +59667,23 @@ id,tournament_id,club1,club2,ht1,ht2
 2367251,261278,Melbourne City,Melbourne Victory,,
 2367252,261278,Sydney FC,Melbourne City,,
 2367253,261278,Adelaide United,Western Sydney Wanderers,,
+2368093,261218,Germany,Netherlands,4,0
+2368094,261218,Portugal,Belgium,1,1
+2368095,261218,Belgium,Germany,1,0
+2368096,261218,Netherlands,Morocco,3,1
+2368097,261218,Morocco,Belgium,1,2
+2368098,261218,Germany,Portugal,1,0
+2368099,261218,Portugal,Morocco,0,0
+2368100,261218,Belgium,Netherlands,0,0
+2368101,261218,Netherlands,Portugal,,
+2368102,261218,Morocco,Germany,,
+2368103,261218,Netherlands,Germany,,
+2368104,261218,Belgium,Portugal,,
+2368105,261218,Germany,Belgium,,
+2368106,261218,Morocco,Netherlands,,
+2368107,261218,Belgium,Morocco,,
+2368108,261218,Portugal,Germany,,
+2368109,261218,Morocco,Portugal,,
+2368110,261218,Netherlands,Belgium,,
+2368111,261218,Portugal,Netherlands,,
+2368112,261218,Germany,Morocco,,
