@@ -6126,3 +6126,915 @@ fecha,partido,jugador,mercado,linea,cuota,p_casa,p_modelo,titular,valor,acierto
 2026-11-07,Alverca vs Casa Pia,Jeremy Livolant,To Score,0.5,4.5,0.2222,0.0758,1,0.0,0
 2026-11-07,Alverca vs Casa Pia,Zé Rafael,To Score,0.5,8.5,0.1176,0.0297,0,0.0,0
 2026-11-07,Alverca vs Casa Pia,Sergi Gómez,To Score,0.5,8.0,0.125,0.0154,1,0.0,0
+2026-11-07,Hertha vs Wolfsburg,Oluwaseun Adewumi,To Score,0.5,3.1,0.3226,0.2131,1,1.0,1
+2026-11-07,Hertha vs Wolfsburg,Hauke Wahl,To Score,0.5,10.0,0.1,0.0769,1,0.0,0
+2026-11-07,Hertha vs Wolfsburg,Fraser Hornby,To score at least 2 goals,1.5,12.5,0.08,0.0035,0,0.0,0
+2026-11-07,Hertha vs Wolfsburg,Mads Pedersen,To Score,0.5,7.5,0.1333,0.0568,1,0.0,0
+2026-11-07,Hertha vs Wolfsburg,Elvis Rexhbeçaj,To Score,0.5,4.75,0.2105,0.0292,0,0.0,0
+2026-11-07,Hertha vs Wolfsburg,Kilian Fischer,To Score,0.5,10.0,0.1,0.0198,0,0.0,0
+2026-11-07,Hertha vs Wolfsburg,Kento Shiogai,To score at least 2 goals,1.5,9.5,0.1053,0.0013,0,1.0,0
+2026-11-07,Hertha vs Wolfsburg,Robert Glatzel,To Score,0.5,2.55,0.3922,0.3058,1,0.0,0
+2026-11-07,Hertha vs Wolfsburg,Gustaf Nilsson,To score at least 2 goals,1.5,13.0,0.0769,0.0005,0,0.0,0
+2026-11-07,Hertha vs Wolfsburg,Fabian Reese,To Score,0.5,2.9,0.3448,0.2633,1,0.0,0
+2026-11-07,Hertha vs Wolfsburg,Pascal Klemens,To Score,0.5,8.5,0.1176,0.0261,0,0.0,0
+2026-11-07,Hertha vs Wolfsburg,Kevin Sessa,To Score,0.5,3.85,0.2597,0.0764,1,0.0,0
+2026-11-07,Hertha vs Wolfsburg,Fraser Hornby,To Score,0.5,2.9,0.3448,0.0824,0,0.0,0
+2026-11-07,Hertha vs Wolfsburg,Josip Brekalo,To score at least 2 goals,1.5,11.5,0.087,0.0237,1,0.0,0
+2026-11-07,Hertha vs Wolfsburg,Gustaf Nilsson,To Score,0.5,3.0,0.3333,0.0323,0,0.0,0
+2026-11-07,Hertha vs Wolfsburg,Paul Seguin,To Score,0.5,4.1,0.2439,0.0798,1,0.0,0
+2026-11-07,Hertha vs Wolfsburg,Maximilian Arnold,To Score,0.5,7.0,0.1429,0.0667,1,0.0,0
+2026-11-07,Hertha vs Wolfsburg,Jón Dagur Thorsteinsson,To Score,0.5,3.15,0.3175,0.1471,1,0.0,0
+2026-11-07,Hertha vs Wolfsburg,Kento Shiogai,To Score,0.5,2.63,0.3802,0.05,0,1.0,1
+2026-11-07,Hertha vs Wolfsburg,Fabian Reese,To score at least 2 goals,1.5,12.0,0.0833,0.0382,1,0.0,0
+2026-11-07,Hertha vs Wolfsburg,Muhammed Damar,To Score,0.5,3.3,0.303,0.2003,1,0.0,0
+2026-11-07,Hertha vs Wolfsburg,Yannick Gerhardt,To Score,0.5,5.75,0.1739,0.0237,0,0.0,0
+2026-11-07,Hertha vs Wolfsburg,Niklas Kolbe,To Score,0.5,7.5,0.1333,0.0153,1,0.0,0
+2026-11-07,Hertha vs Wolfsburg,Alexander Bernhardsson,To Score,0.5,3.8,0.2632,0.1948,1,0.0,0
+2026-11-07,Hertha vs Wolfsburg,Jón Dagur Thorsteinsson,To score at least 2 goals,1.5,15.0,0.0667,0.0114,1,0.0,0
+2026-11-07,Hertha vs Wolfsburg,Oluwaseun Adewumi,To score at least 2 goals,1.5,15.0,0.0667,0.0245,1,1.0,0
+2026-11-07,Hertha vs Wolfsburg,Saël Kumbedi,To Score,0.5,9.5,0.1053,0.0153,1,0.0,0
+2026-11-07,Hertha vs Wolfsburg,Linus Gechter,To Score,0.5,8.0,0.125,0.036,1,0.0,0
+2026-11-07,Hertha vs Wolfsburg,Josip Brekalo,To Score,0.5,2.75,0.3636,0.2095,1,0.0,0
+2026-11-07,Hertha vs Wolfsburg,Robert Glatzel,To score at least 2 goals,1.5,9.5,0.1053,0.0524,1,0.0,0
+2026-11-07,Hertha vs Wolfsburg,Kevin Sessa,To score at least 2 goals,1.5,21.0,0.0476,0.003,1,0.0,0
+2026-11-07,Antwerp vs Lommel SK,Jason van Duiven,Player's shots on target,0.5,1.68,0.5952,0.1872,1,0.0,0
+2026-11-07,Antwerp vs Lommel SK,Modibo Fofana,To Score,0.5,3.4,0.2941,0.1517,1,1.0,1
+2026-11-07,Antwerp vs Lommel SK,Timothy Eyoma,To Score,0.5,12.5,0.08,0.0218,1,0.0,0
+2026-11-07,Antwerp vs Lommel SK,Isaiah Dada-Mascoll,To Score,0.5,7.5,0.1333,0.0299,0,0.0,0
+2026-11-07,Antwerp vs Lommel SK,Tom Reyners,Player's shots on target,0.5,1.9,0.5263,0.1282,0,0.0,0
+2026-11-07,Antwerp vs Lommel SK,Farouck Adekami,To score at least 2 goals,1.5,20.0,0.05,0.0004,0,0.0,0
+2026-11-07,Antwerp vs Lommel SK,Bahmed Deuff,To Score,0.5,8.0,0.125,0.061,1,0.0,0
+2026-11-07,Antwerp vs Lommel SK,Christopher Scott,To Score,0.5,4.2,0.2381,0.0387,0,0.0,0
+2026-11-07,Antwerp vs Lommel SK,Yuto Tsunashima,To Score,0.5,9.0,0.1111,0.0301,1,0.0,0
+2026-11-07,Antwerp vs Lommel SK,Don-Angelo Konadu,To give an assist,0.5,5.0,0.2,0.0957,1,0.0,0
+2026-11-07,Antwerp vs Lommel SK,Juho Talvitie,To Score,0.5,7.0,0.1429,0.1284,1,0.0,0
+2026-11-07,Antwerp vs Lommel SK,Juho Talvitie,Player's shots on target,0.5,2.9,0.3448,0.4013,1,0.0,0
+2026-11-07,Antwerp vs Lommel SK,Daam Foulon,To Get a Card,0.5,3.6,0.2778,0.1801,1,0.0,0
+2026-11-07,Antwerp vs Lommel SK,Daam Foulon,To give an assist,0.5,5.1,0.1961,0.0804,1,0.0,0
+2026-11-07,Antwerp vs Lommel SK,Elijah Odede,To Get a Card,0.5,4.4,0.2273,0.0237,0,0.0,0
+2026-11-07,Antwerp vs Lommel SK,Juho Talvitie,To Get a Card,0.5,3.7,0.2703,0.105,1,0.0,0
+2026-11-07,Antwerp vs Lommel SK,Timothy Eyoma,To Get a Card,0.5,3.7,0.2703,0.134,1,0.0,0
+2026-11-07,Antwerp vs Lommel SK,Michael Frey,To score at least 3 goals,2.5,21.0,0.0476,0.0,0,0.0,0
+2026-11-07,Antwerp vs Lommel SK,Mauricio Benítez,To Get a Card,0.5,4.0,0.25,0.1729,1,0.0,0
+2026-11-07,Antwerp vs Lommel SK,Tristan Gooijer,To Score,0.5,8.5,0.1176,0.072,1,0.0,0
+2026-11-07,Antwerp vs Lommel SK,Michael Frey,To Score,0.5,2.08,0.4808,0.0568,0,0.0,0
+2026-11-07,Antwerp vs Lommel SK,Daam Foulon,To Score,0.5,9.0,0.1111,0.024,1,0.0,0
+2026-11-07,Antwerp vs Lommel SK,Michael Frey,To score at least 2 goals,1.5,6.0,0.1667,0.0016,0,0.0,0
+2026-11-07,Antwerp vs Lommel SK,Isaiah Dada-Mascoll,To give an assist,0.5,7.5,0.1333,0.0134,0,0.0,0
+2026-11-07,Antwerp vs Lommel SK,Farouck Adekami,To Get a Card,0.5,3.5,0.2857,0.0616,0,0.0,0
+2026-11-07,Antwerp vs Lommel SK,Tom Reyners,To Get a Card,0.5,4.0,0.25,0.0311,0,0.0,0
+2026-11-07,Antwerp vs Lommel SK,Ralf Seuntjens,To Get a Card,0.5,3.5,0.2857,0.0267,0,0.0,0
+2026-11-07,Antwerp vs Lommel SK,Xander Dierckx,To give an assist,0.5,6.0,0.1667,0.0149,0,0.0,0
+2026-11-07,Antwerp vs Lommel SK,Shawn Adewoye,To Get a Card,0.5,3.8,0.2632,0.2131,1,0.0,0
+2026-11-07,Antwerp vs Lommel SK,Bahmed Deuff,To Get a Card,0.5,3.9,0.2564,0.1852,1,0.0,0
+2026-11-07,Antwerp vs Lommel SK,Ibrahim Salah,To Get a Card,0.5,3.5,0.2857,0.1049,1,0.0,0
+2026-11-07,Antwerp vs Lommel SK,Xander Dierckx,To Get a Card,0.5,3.8,0.2632,0.0258,0,0.0,0
+2026-11-07,Antwerp vs Lommel SK,Ibrahim Salah,To give an assist,0.5,3.6,0.2778,0.0944,1,0.0,0
+2026-11-07,Antwerp vs Lommel SK,Tom Reyners,To give an assist,0.5,4.9,0.2041,0.0085,0,0.0,0
+2026-11-07,Antwerp vs Lommel SK,Semm Renders,To Get a Card,0.5,4.6,0.2174,0.1218,1,1.0,1
+2026-11-07,Antwerp vs Lommel SK,Michael Frey,Player's shots on target,0.5,1.19,0.8403,0.14,0,0.0,0
+2026-11-07,Antwerp vs Lommel SK,Semm Renders,To give an assist,0.5,6.5,0.1538,0.0612,1,0.0,0
+2026-11-07,Antwerp vs Lommel SK,Don-Angelo Konadu,To score at least 2 goals,1.5,14.0,0.0714,0.0167,1,2.0,1
+2026-11-07,Antwerp vs Lommel SK,Don-Angelo Konadu,Player's shots on target,1.5,3.2,0.3125,0.1063,1,3.0,1
+2026-11-07,Antwerp vs Lommel SK,Tristan Gooijer,To Get a Card,0.5,3.05,0.3279,0.1317,1,0.0,0
+2026-11-07,Antwerp vs Lommel SK,Lucas Schoofs,Player's shots on target,0.5,2.5,0.4,0.3178,1,1.0,1
+2026-11-07,Antwerp vs Lommel SK,Stredair Appuah,Player's shots on target,0.5,2.25,0.4444,0.2368,1,0.0,0
+2026-11-07,Antwerp vs Lommel SK,Michael Frey,To give an assist,0.5,3.1,0.3226,0.0094,0,0.0,0
+2026-11-07,Antwerp vs Lommel SK,Jason van Duiven,To give an assist,0.5,4.8,0.2083,0.1094,1,0.0,0
+2026-11-07,Antwerp vs Lommel SK,Nicolas Rommens,To Score,0.5,6.0,0.1667,0.031,0,0.0,0
+2026-11-07,Antwerp vs Lommel SK,Elijah Odede,Player's shots on target,0.5,2.3,0.4348,0.0895,0,0.0,0
+2026-11-07,Antwerp vs Lommel SK,Rein Van Helden,Player's shots on target,0.5,3.3,0.303,0.0722,0,0.0,0
+2026-11-07,Antwerp vs Lommel SK,Ralf Seuntjens,To Score,0.5,3.0,0.3333,0.0476,0,0.0,0
+2026-11-07,Antwerp vs Lommel SK,Shawn Adewoye,Player's shots on target,0.5,5.2,0.1923,0.1029,1,0.0,0
+2026-11-07,Antwerp vs Lommel SK,Nicolas Rommens,To Get a Card,0.5,3.3,0.303,0.0257,0,0.0,0
+2026-11-07,Antwerp vs Lommel SK,Modibo Fofana,To Get a Card,0.5,4.0,0.25,0.1003,1,0.0,0
+2026-11-07,Antwerp vs Lommel SK,Modibo Fofana,To give an assist,0.5,4.1,0.2439,0.0611,1,0.0,0
+2026-11-07,Antwerp vs Lommel SK,Nicolas Rommens,To give an assist,0.5,6.0,0.1667,0.0438,0,0.0,0
+2026-11-07,Antwerp vs Lommel SK,Xander Dierckx,Player's shots on target,0.5,2.6,0.3846,0.0606,0,0.0,0
+2026-11-07,Antwerp vs Lommel SK,Stredair Appuah,To Get a Card,0.5,3.6,0.2778,0.1166,1,0.0,0
+2026-11-07,Antwerp vs Lommel SK,Ralf Seuntjens,To give an assist,0.5,4.7,0.2128,0.0144,0,0.0,0
+2026-11-07,Antwerp vs Lommel SK,Farouck Adekami,To give an assist,0.5,3.2,0.3125,0.0202,0,0.0,0
+2026-11-07,Antwerp vs Lommel SK,Juho Talvitie,To give an assist,0.5,6.75,0.1481,0.1288,1,1.0,1
+2026-11-07,Antwerp vs Lommel SK,Yuto Tsunashima,To give an assist,0.5,7.0,0.1429,0.0195,1,0.0,0
+2026-11-07,Antwerp vs Lommel SK,Modibo Fofana,Player's shots on target,0.5,1.7,0.5882,0.3562,1,1.0,1
+2026-11-07,Antwerp vs Lommel SK,Don-Angelo Konadu,To Score,0.5,3.1,0.3226,0.1772,1,2.0,1
+2026-11-07,Antwerp vs Lommel SK,Stredair Appuah,To give an assist,0.5,6.0,0.1667,0.0767,1,0.0,0
+2026-11-07,Antwerp vs Lommel SK,Tom Reyners,To Score,0.5,4.0,0.25,0.0428,0,0.0,0
+2026-11-07,Antwerp vs Lommel SK,Farouck Adekami,Player's shots on target,0.5,1.72,0.5814,0.1555,0,0.0,0
+2026-11-07,Antwerp vs Lommel SK,Ibrahim Salah,Player's shots on target,0.5,1.52,0.6579,0.3542,1,0.0,0
+2026-11-07,Antwerp vs Lommel SK,Lucas Schoofs,To Score,0.5,5.6,0.1786,0.131,1,0.0,0
+2026-11-07,Antwerp vs Lommel SK,Christopher Scott,Player's shots on target,0.5,2.0,0.5,0.1292,0,0.0,0
+2026-11-07,Antwerp vs Lommel SK,Farouck Adekami,To Score,0.5,3.6,0.2778,0.0281,0,0.0,0
+2026-11-07,Antwerp vs Lommel SK,Modibo Fofana,To score at least 2 goals,1.5,18.0,0.0556,0.0121,1,1.0,0
+2026-11-07,Antwerp vs Lommel SK,Semm Renders,To Score,0.5,9.0,0.1111,0.0185,1,0.0,0
+2026-11-07,Antwerp vs Lommel SK,Mauricio Benítez,To give an assist,0.5,5.2,0.1923,0.0449,1,0.0,0
+2026-11-07,Antwerp vs Lommel SK,Michael Frey,To Get a Card,0.5,3.8,0.2632,0.0359,0,0.0,0
+2026-11-07,Antwerp vs Lommel SK,Don-Angelo Konadu,To Get a Card,0.5,4.9,0.2041,0.0661,1,0.0,0
+2026-11-07,Antwerp vs Lommel SK,Jason van Duiven,To Score,0.5,3.4,0.2941,0.0604,1,0.0,0
+2026-11-07,Antwerp vs Lommel SK,Lucas Schoofs,To give an assist,0.5,7.5,0.1333,0.0985,1,0.0,0
+2026-11-07,Antwerp vs Lommel SK,Christopher Scott,To Get a Card,0.5,3.3,0.303,0.041,0,0.0,0
+2026-11-07,Antwerp vs Lommel SK,Elijah Odede,To give an assist,0.5,5.0,0.2,0.0184,0,0.0,0
+2026-11-07,Antwerp vs Lommel SK,Lucas Schoofs,To Get a Card,0.5,3.4,0.2941,0.116,1,0.0,0
+2026-11-07,Antwerp vs Lommel SK,Yuto Tsunashima,To Get a Card,0.5,4.0,0.25,0.1961,1,0.0,0
+2026-11-07,Antwerp vs Lommel SK,Christopher Scott,To give an assist,0.5,4.2,0.2381,0.0208,0,0.0,0
+2026-11-07,Antwerp vs Lommel SK,Michael Frey,Player's shots on target,1.5,1.87,0.5348,0.0103,0,0.0,0
+2026-11-07,Antwerp vs Lommel SK,Isaiah Dada-Mascoll,To Get a Card,0.5,3.4,0.2941,0.0248,0,0.0,0
+2026-11-07,Antwerp vs Lommel SK,Semm Renders,Player's shots on target,0.5,3.8,0.2632,0.105,1,0.0,0
+2026-11-07,Antwerp vs Lommel SK,Don-Angelo Konadu,Player's shots on target,0.5,1.53,0.6536,0.4241,1,3.0,1
+2026-11-07,Antwerp vs Lommel SK,Xander Dierckx,To Score,0.5,5.6,0.1786,0.0229,0,0.0,0
+2026-11-07,Antwerp vs Lommel SK,Elijah Odede,To Score,0.5,5.3,0.1887,0.0286,0,0.0,0
+2026-11-07,Antwerp vs Lommel SK,Yuto Tsunashima,Player's shots on target,0.5,3.9,0.2564,0.0872,1,0.0,0
+2026-11-07,Antwerp vs Lommel SK,Michael Frey,Player's shots on target,2.5,3.4,0.2941,0.0005,0,0.0,0
+2026-11-07,Antwerp vs Lommel SK,Ibrahim Salah,To Score,0.5,3.0,0.3333,0.1193,1,0.0,0
+2026-11-07,Antwerp vs Lommel SK,Rein Van Helden,To Score,0.5,8.0,0.125,0.0381,0,0.0,0
+2026-11-07,Antwerp vs Lommel SK,Rein Van Helden,To Get a Card,0.5,3.6,0.2778,0.0206,0,0.0,0
+2026-11-07,Antwerp vs Lommel SK,Christopher Scott,To score at least 2 goals,1.5,25.0,0.04,0.0008,0,0.0,0
+2026-11-07,Antwerp vs Lommel SK,Ralf Seuntjens,To score at least 2 goals,1.5,13.0,0.0769,0.0011,0,0.0,0
+2026-11-07,Antwerp vs Lommel SK,Jason van Duiven,To Get a Card,0.5,3.7,0.2703,0.1375,1,1.0,1
+2026-11-07,Antwerp vs Lommel SK,Shawn Adewoye,To Score,0.5,12.0,0.0833,0.0186,1,0.0,0
+2026-11-07,Antwerp vs Lommel SK,Stredair Appuah,To Score,0.5,5.0,0.2,0.0926,1,0.0,0
+2026-11-07,Antwerp vs Lommel SK,Mauricio Benítez,To Score,0.5,6.5,0.1538,0.0942,1,0.0,0
+2026-11-07,Antwerp vs Lommel SK,Ralf Seuntjens,Player's shots on target,0.5,1.5,0.6667,0.104,0,0.0,0
+2026-11-07,Antwerp vs Lommel SK,Tristan Gooijer,Player's shots on target,0.5,3.7,0.2703,0.1726,1,0.0,0
+2026-11-07,Antwerp vs Lommel SK,Ibrahim Salah,To score at least 2 goals,1.5,14.0,0.0714,0.0074,1,0.0,0
+2026-11-07,Antwerp vs Lommel SK,Jason van Duiven,To score at least 2 goals,1.5,16.0,0.0625,0.0019,1,0.0,0
+2026-11-07,RAAL La Louviere vs Cercle Brugge,Thierry Lutonda,To Get a Card,0.5,3.3,0.303,0.0824,1,0.0,0
+2026-11-07,RAAL La Louviere vs Cercle Brugge,Zsombor Gruber,Player's shots on target,1.5,3.4,0.2941,0.0043,0,0.0,0
+2026-11-07,RAAL La Louviere vs Cercle Brugge,Ismaila Coulibaly,To score at least 2 goals,1.5,26.0,0.0385,0.0002,0,0.0,0
+2026-11-07,RAAL La Louviere vs Cercle Brugge,Ismaila Coulibaly,To Score,0.5,4.1,0.2439,0.0199,0,0.0,0
+2026-11-07,RAAL La Louviere vs Cercle Brugge,Zsombor Gruber,Player's shots on target,0.5,1.58,0.6329,0.0916,0,0.0,0
+2026-11-07,RAAL La Louviere vs Cercle Brugge,Anas Tajaouart,Player's shots on target,0.5,2.3,0.4348,0.2352,1,0.0,0
+2026-11-07,RAAL La Louviere vs Cercle Brugge,Gary Magnée,Player's shots on target,0.5,2.9,0.3448,0.2561,1,1.0,1
+2026-11-07,RAAL La Louviere vs Cercle Brugge,Shaquil Delos,To Get a Card,0.5,4.0,0.25,0.0355,0,0.0,0
+2026-11-07,RAAL La Louviere vs Cercle Brugge,Zsombor Gruber,To give an assist,0.5,4.8,0.2083,0.0347,0,0.0,0
+2026-11-07,RAAL La Louviere vs Cercle Brugge,Royer Caicedo,To Get a Card,0.5,4.2,0.2381,0.106,1,0.0,0
+2026-11-07,RAAL La Louviere vs Cercle Brugge,Zsombor Gruber,To Get a Card,0.5,5.2,0.1923,0.0229,0,0.0,0
+2026-11-07,RAAL La Louviere vs Cercle Brugge,Anas Tajaouart,To Get a Card,0.5,3.9,0.2564,0.0928,1,0.0,0
+2026-11-07,RAAL La Louviere vs Cercle Brugge,Lukas Mondele,To Get a Card,0.5,4.2,0.2381,0.0312,0,0.0,0
+2026-11-07,RAAL La Louviere vs Cercle Brugge,Krys Kouassi,To Get a Card,0.5,4.2,0.2381,0.0397,0,0.0,0
+2026-11-07,RAAL La Louviere vs Cercle Brugge,Elias Filet,Player's shots on target,1.5,3.0,0.3333,0.0095,0,0.0,0
+2026-11-07,RAAL La Louviere vs Cercle Brugge,Elias Filet,To Get a Card,0.5,4.2,0.2381,0.0218,0,0.0,0
+2026-11-07,RAAL La Louviere vs Cercle Brugge,Steve Ngoura,To give an assist,0.5,4.0,0.25,0.127,1,0.0,0
+2026-11-07,RAAL La Louviere vs Cercle Brugge,Mustapha Ubandoma,To Get a Card,0.5,4.0,0.25,0.157,1,0.0,0
+2026-11-07,RAAL La Louviere vs Cercle Brugge,Valy Konaté,Player's shots on target,0.5,4.5,0.2222,0.2269,1,1.0,1
+2026-11-07,RAAL La Louviere vs Cercle Brugge,Ibrahim Diakite,Player's shots on target,0.5,4.7,0.2128,0.0864,1,0.0,0
+2026-11-07,RAAL La Louviere vs Cercle Brugge,Anas Tajaouart,To give an assist,0.5,5.8,0.1724,0.097,1,0.0,0
+2026-11-07,RAAL La Louviere vs Cercle Brugge,Lukas Mondele,To Score,0.5,6.5,0.1538,0.033,0,0.0,0
+2026-11-07,RAAL La Louviere vs Cercle Brugge,Nolan Gillot,To Get a Card,0.5,4.0,0.25,0.0849,1,0.0,0
+2026-11-07,RAAL La Louviere vs Cercle Brugge,Mame Ndiaga Wade,Player's shots on target,0.5,2.35,0.4255,0.238,1,0.0,0
+2026-11-07,RAAL La Louviere vs Cercle Brugge,Elias Filet,To score at least 2 goals,1.5,15.0,0.0667,0.0012,0,0.0,0
+2026-11-07,RAAL La Louviere vs Cercle Brugge,Elias Filet,To score at least 3 goals,2.5,76.0,0.0132,0.0,0,0.0,0
+2026-11-07,RAAL La Louviere vs Cercle Brugge,Marius Courcoul,Player's shots on target,0.5,4.2,0.2381,0.2243,1,0.0,0
+2026-11-07,RAAL La Louviere vs Cercle Brugge,Ismaila Coulibaly,To Get a Card,0.5,4.4,0.2273,0.0492,0,0.0,0
+2026-11-07,RAAL La Louviere vs Cercle Brugge,Hannes Van der Bruggen,To Get a Card,0.5,3.0,0.3333,0.1624,1,1.0,1
+2026-11-07,RAAL La Louviere vs Cercle Brugge,Steve Ngoura,To Get a Card,0.5,6.75,0.1481,0.1329,1,0.0,0
+2026-11-07,RAAL La Louviere vs Cercle Brugge,Elias Filet,To give an assist,0.5,5.0,0.2,0.0118,0,0.0,0
+2026-11-07,RAAL La Louviere vs Cercle Brugge,Gary Magnée,To Get a Card,0.5,5.0,0.2,0.0908,1,0.0,0
+2026-11-07,RAAL La Louviere vs Cercle Brugge,Elias Filet,Player's shots on target,0.5,1.5,0.6667,0.1346,0,0.0,0
+2026-11-07,RAAL La Louviere vs Cercle Brugge,Mustapha Ubandoma,To give an assist,0.5,4.2,0.2381,0.0532,1,0.0,0
+2026-11-07,RAAL La Louviere vs Cercle Brugge,Mame Ndiaga Wade,To Score,0.5,5.5,0.1818,0.0641,1,0.0,0
+2026-11-07,RAAL La Louviere vs Cercle Brugge,Emmanuel Kakou,Player's shots on target,0.5,4.3,0.2326,0.069,0,0.0,0
+2026-11-07,RAAL La Louviere vs Cercle Brugge,Dante Vanzeir,To Score,0.5,3.6,0.2778,0.0393,0,0.0,0
+2026-11-07,RAAL La Louviere vs Cercle Brugge,Viggo Martens,To give an assist,0.5,5.5,0.1818,0.0481,1,0.0,0
+2026-11-07,RAAL La Louviere vs Cercle Brugge,Djibril Lamego,Player's shots on target,0.5,3.9,0.2564,0.0587,1,0.0,0
+2026-11-07,RAAL La Louviere vs Cercle Brugge,Elias Filet,To Score,0.5,3.2,0.3125,0.0479,0,0.0,0
+2026-11-07,RAAL La Louviere vs Cercle Brugge,Ismaila Coulibaly,Player's shots on target,0.5,1.8,0.5556,0.072,0,0.0,0
+2026-11-07,RAAL La Louviere vs Cercle Brugge,Nolan Gillot,Player's shots on target,0.5,3.9,0.2564,0.3477,1,0.0,0
+2026-11-07,RAAL La Louviere vs Cercle Brugge,Steve Ngoura,To Score,0.5,3.2,0.3125,0.2071,1,1.0,1
+2026-11-07,RAAL La Louviere vs Cercle Brugge,Dante Vanzeir,To give an assist,0.5,4.5,0.2222,0.0279,0,0.0,0
+2026-11-07,RAAL La Louviere vs Cercle Brugge,Wagane Faye,Player's shots on target,0.5,4.5,0.2222,0.1262,1,0.0,0
+2026-11-07,RAAL La Louviere vs Cercle Brugge,Mustapha Ubandoma,To Score,0.5,2.85,0.3509,0.2431,1,0.0,0
+2026-11-07,RAAL La Louviere vs Cercle Brugge,Krys Kouassi,To give an assist,0.5,6.25,0.16,0.012,0,0.0,0
+2026-11-07,RAAL La Louviere vs Cercle Brugge,Krys Kouassi,Player's shots on target,0.5,1.43,0.6993,0.115,0,0.0,0
+2026-11-07,RAAL La Louviere vs Cercle Brugge,Ibrahim Diakite,To Get a Card,0.5,4.0,0.25,0.1429,1,0.0,0
+2026-11-07,RAAL La Louviere vs Cercle Brugge,Mustapha Ubandoma,Player's shots on target,1.5,2.45,0.4082,0.1575,1,0.0,0
+2026-11-07,RAAL La Louviere vs Cercle Brugge,Mustapha Ubandoma,Player's shots on target,0.5,1.35,0.7407,0.5058,1,0.0,0
+2026-11-07,RAAL La Louviere vs Cercle Brugge,Ismaila Coulibaly,To give an assist,0.5,4.8,0.2083,0.0079,0,0.0,0
+2026-11-07,RAAL La Louviere vs Cercle Brugge,Steve Ngoura,Player's shots on target,0.5,1.5,0.6667,0.5409,1,1.0,1
+2026-11-07,RAAL La Louviere vs Cercle Brugge,Shaquil Delos,Player's shots on target,0.5,3.4,0.2941,0.0681,0,0.0,0
+2026-11-07,RAAL La Louviere vs Cercle Brugge,Steve Ngoura,To score at least 2 goals,1.5,15.0,0.0667,0.0231,1,1.0,0
+2026-11-07,RAAL La Louviere vs Cercle Brugge,Gary Magnée,To give an assist,0.5,4.6,0.2174,0.0943,1,1.0,1
+2026-11-07,RAAL La Louviere vs Cercle Brugge,Mustapha Ubandoma,To score at least 3 goals,2.5,51.0,0.0196,0.0029,1,0.0,0
+2026-11-07,RAAL La Louviere vs Cercle Brugge,Mustapha Ubandoma,To score at least 2 goals,1.5,12.0,0.0833,0.0323,1,0.0,0
+2026-11-07,RAAL La Louviere vs Cercle Brugge,Viggo Martens,Player's shots on target,0.5,2.1,0.4762,0.3897,1,0.0,0
+2026-11-07,RAAL La Louviere vs Cercle Brugge,Hannes Van der Bruggen,Player's shots on target,0.5,2.65,0.3774,0.1781,1,1.0,1
+2026-11-07,RAAL La Louviere vs Cercle Brugge,Dante Vanzeir,To score at least 2 goals,1.5,19.0,0.0526,0.0008,0,0.0,0
+2026-11-07,RAAL La Louviere vs Cercle Brugge,Djibril Lamego,To Score,0.5,10.0,0.1,0.0166,1,0.0,0
+2026-11-07,RAAL La Louviere vs Cercle Brugge,Lukas Mondele,Player's shots on target,0.5,2.8,0.3571,0.0859,0,0.0,0
+2026-11-07,RAAL La Louviere vs Cercle Brugge,Anas Tajaouart,To score at least 2 goals,1.5,41.0,0.0244,0.002,1,0.0,0
+2026-11-07,RAAL La Louviere vs Cercle Brugge,Viggo Martens,To score at least 2 goals,1.5,35.0,0.0286,0.0057,1,0.0,0
+2026-11-07,RAAL La Louviere vs Cercle Brugge,Zsombor Gruber,To score at least 2 goals,1.5,18.0,0.0556,0.0003,0,0.0,0
+2026-11-07,RAAL La Louviere vs Cercle Brugge,Krys Kouassi,To Score,0.5,2.95,0.339,0.0384,0,0.0,0
+2026-11-07,RAAL La Louviere vs Cercle Brugge,Luke Le Roux,To Score,0.5,9.5,0.1053,0.0545,1,0.0,0
+2026-11-07,RAAL La Louviere vs Cercle Brugge,Valy Konaté,To Score,0.5,11.0,0.0909,0.0475,1,0.0,0
+2026-11-07,RAAL La Louviere vs Cercle Brugge,Thierry Lutonda,To Score,0.5,11.0,0.0909,0.0242,1,0.0,0
+2026-11-07,RAAL La Louviere vs Cercle Brugge,Ibrahim Diakite,To Score,0.5,11.5,0.087,0.0241,1,0.0,0
+2026-11-07,RAAL La Louviere vs Cercle Brugge,Emmanuel Kakou,To Score,0.5,11.0,0.0909,0.0241,0,0.0,0
+2026-11-07,RAAL La Louviere vs Cercle Brugge,Emmanuel Kakou,To Get a Card,0.5,3.0,0.3333,0.0288,0,0.0,0
+2026-11-07,RAAL La Louviere vs Cercle Brugge,Nolan Gillot,To Score,0.5,10.0,0.1,0.1547,1,0.0,0
+2026-11-07,RAAL La Louviere vs Cercle Brugge,Dante Vanzeir,Player's shots on target,0.5,1.63,0.6135,0.1253,0,0.0,0
+2026-11-07,RAAL La Louviere vs Cercle Brugge,Wagane Faye,To Score,0.5,11.5,0.087,0.0595,1,0.0,0
+2026-11-07,RAAL La Louviere vs Cercle Brugge,Hannes Van der Bruggen,To give an assist,0.5,6.5,0.1538,0.0505,1,0.0,0
+2026-11-07,RAAL La Louviere vs Cercle Brugge,Shaquil Delos,To score at least 2 goals,1.5,76.0,0.0132,0.0002,0,0.0,0
+2026-11-07,RAAL La Louviere vs Cercle Brugge,Hannes Van der Bruggen,To Score,0.5,6.5,0.1538,0.0418,1,0.0,0
+2026-11-07,RAAL La Louviere vs Cercle Brugge,Shaquil Delos,To Score,0.5,8.5,0.1176,0.018,0,0.0,0
+2026-11-07,RAAL La Louviere vs Cercle Brugge,Gary Magnée,To Score,0.5,7.0,0.1429,0.1003,1,0.0,0
+2026-11-07,RAAL La Louviere vs Cercle Brugge,Anas Tajaouart,To Score,0.5,5.5,0.1818,0.0632,1,0.0,0
+2026-11-07,RAAL La Louviere vs Cercle Brugge,Viggo Martens,To Score,0.5,4.8,0.2083,0.1051,1,0.0,0
+2026-11-07,RAAL La Louviere vs Cercle Brugge,Zsombor Gruber,To Score,0.5,3.5,0.2857,0.0232,0,0.0,0
+2026-11-07,RAAL La Louviere vs Cercle Brugge,Krys Kouassi,To score at least 2 goals,1.5,12.5,0.08,0.0007,0,0.0,0
+2026-11-07,RAAL La Louviere vs Cercle Brugge,Mame Ndiaga Wade,To score at least 2 goals,1.5,46.0,0.0217,0.0021,1,0.0,0
+2026-11-07,RAAL La Louviere vs Cercle Brugge,Royer Caicedo,To Score,0.5,11.0,0.0909,0.0231,1,0.0,0
+2026-11-07,RAAL La Louviere vs Cercle Brugge,Luke Le Roux,To Get a Card,0.5,3.6,0.2778,0.1437,1,1.0,1
+2026-11-07,RAAL La Louviere vs Cercle Brugge,Marius Courcoul,To Score,0.5,10.5,0.0952,0.0528,1,0.0,0
+2026-11-07,RAAL La Louviere vs Cercle Brugge,Mame Ndiaga Wade,To Get a Card,0.5,4.0,0.25,0.2428,1,0.0,0
+2026-11-07,RAAL La Louviere vs Cercle Brugge,Djibril Lamego,To Get a Card,0.5,3.9,0.2564,0.1157,1,0.0,0
+2026-11-07,RAAL La Louviere vs Cercle Brugge,Valy Konaté,To Get a Card,0.5,2.85,0.3509,0.1905,1,0.0,0
+2026-11-07,RAAL La Louviere vs Cercle Brugge,Dante Vanzeir,To Get a Card,0.5,5.5,0.1818,0.0238,0,0.0,0
+2026-11-07,RAAL La Louviere vs Cercle Brugge,Wagane Faye,To Get a Card,0.5,3.8,0.2632,0.1687,1,0.0,0
+2026-11-07,RAAL La Louviere vs Cercle Brugge,Mame Ndiaga Wade,To give an assist,0.5,5.8,0.1724,0.0907,1,0.0,0
+2026-11-07,RAAL La Louviere vs Cercle Brugge,Marius Courcoul,To Get a Card,0.5,3.3,0.303,0.1787,1,0.0,0
+2026-11-07,RAAL La Louviere vs Cercle Brugge,Viggo Martens,To Get a Card,0.5,4.1,0.2439,0.0876,1,0.0,0
+2026-11-07,Roma vs Sassuolo,Fali Cande,To Score,0.5,12.0,0.0833,0.0217,0,0.0,0
+2026-11-07,Roma vs Sassuolo,Evan Ndicka,To Score,0.5,7.5,0.1333,0.0902,1,0.0,0
+2026-11-07,Roma vs Sassuolo,Armand Laurienté,To Get a Card,0.5,3.7,0.2703,0.1247,1,0.0,0
+2026-11-07,Roma vs Sassuolo,Bryan Cristante,To Get a Card,0.5,4.8,0.2083,0.1829,1,0.0,0
+2026-11-07,Roma vs Sassuolo,Mario Hermoso,To give an assist,0.5,4.1,0.2439,0.041,1,0.0,0
+2026-11-07,Roma vs Sassuolo,Marten de Roon,To give an assist,0.5,5.2,0.1923,0.0163,0,0.0,0
+2026-11-07,Roma vs Sassuolo,Donyell Malen,To score at least 3 goals,2.5,10.5,0.0952,0.0173,1,0.0,0
+2026-11-07,Roma vs Sassuolo,Donyell Malen,To score at least 2 goals,1.5,3.8,0.2632,0.1015,1,0.0,0
+2026-11-07,Roma vs Sassuolo,Darryl Bakola,Player's shots on target,0.5,3.4,0.2941,0.0898,0,0.0,0
+2026-11-07,Roma vs Sassuolo,Nahuel Molina,To score at least 2 goals,1.5,81.0,0.0123,0.0058,1,0.0,0
+2026-11-07,Roma vs Sassuolo,Evan Ndicka,To score at least 2 goals,1.5,81.0,0.0123,0.0042,1,0.0,0
+2026-11-07,Roma vs Sassuolo,Benjamín Domínguez,Player's shots on target,0.5,2.85,0.3509,0.0924,0,0.0,0
+2026-11-07,Roma vs Sassuolo,Simone Cinquegrano,Player's shots on target,0.5,2.7,0.3704,0.2808,1,0.0,0
+2026-11-07,Roma vs Sassuolo,Konstantinos Koulierakis,Player's shots on target,0.5,3.7,0.2703,0.0868,0,0.0,0
+2026-11-07,Roma vs Sassuolo,Sebastiano Esposito,To Get a Card,0.5,4.2,0.2381,0.1012,1,0.0,0
+2026-11-07,Roma vs Sassuolo,Evan Ndicka,To give an assist,0.5,7.0,0.1429,0.0166,1,0.0,0
+2026-11-07,Roma vs Sassuolo,Niccolò Pisilli,To Score,0.5,3.9,0.2564,0.0516,0,0.0,0
+2026-11-07,Roma vs Sassuolo,Niccolò Pisilli,To Get a Card,0.5,5.0,0.2,0.0454,0,0.0,0
+2026-11-07,Roma vs Sassuolo,Bryan Cristante,Player's shots on target,0.5,2.5,0.4,0.2598,1,0.0,0
+2026-11-07,Roma vs Sassuolo,Santiago Castro,To give an assist,0.5,2.55,0.3922,0.033,0,0.0,0
+2026-11-07,Roma vs Sassuolo,Andrea Ghion,Player's shots on target,0.5,4.3,0.2326,0.071,0,0.0,0
+2026-11-07,Roma vs Sassuolo,Armand Laurienté,Player's shots on target,0.5,2.08,0.4808,0.5167,1,0.0,0
+2026-11-07,Roma vs Sassuolo,Simone Cinquegrano,To Score,0.5,6.75,0.1481,0.068,1,0.0,0
+2026-11-07,Roma vs Sassuolo,Kristian Thorstvedt,To give an assist,0.5,7.0,0.1429,0.1032,1,0.0,0
+2026-11-07,Roma vs Sassuolo,Cas Odenthal,To Score,0.5,16.0,0.0625,0.0367,0,0.0,0
+2026-11-07,Roma vs Sassuolo,Kieron Bowie,Player's shots on target,0.5,1.92,0.5208,0.1554,0,0.0,0
+2026-11-07,Roma vs Sassuolo,Simone Cinquegrano,To Get a Card,0.5,4.1,0.2439,0.0997,1,0.0,0
+2026-11-07,Roma vs Sassuolo,Kieron Bowie,To Score,0.5,4.5,0.2222,0.0587,0,0.0,0
+2026-11-07,Roma vs Sassuolo,Armand Laurienté,To score at least 2 goals,1.5,36.0,0.0278,0.0229,1,0.0,0
+2026-11-07,Roma vs Sassuolo,Bryan Cristante,To score at least 2 goals,1.5,41.0,0.0244,0.0058,1,0.0,0
+2026-11-07,Roma vs Sassuolo,Mario Hermoso,To Get a Card,0.5,3.7,0.2703,0.1859,1,0.0,0
+2026-11-07,Roma vs Sassuolo,Niccolò Pisilli,To score at least 2 goals,1.5,23.0,0.0435,0.0014,0,0.0,0
+2026-11-07,Roma vs Sassuolo,Duje Caleta-Car,To give an assist,0.5,15.0,0.0667,0.0175,1,0.0,0
+2026-11-07,Roma vs Sassuolo,Cas Odenthal,To give an assist,0.5,14.0,0.0714,0.0086,0,0.0,0
+2026-11-07,Roma vs Sassuolo,Konstantinos Koulierakis,To score at least 2 goals,1.5,76.0,0.0132,0.0006,0,0.0,0
+2026-11-07,Roma vs Sassuolo,Leonardo Balerdi,Player's shots on target,0.5,3.6,0.2778,0.2217,1,2.0,1
+2026-11-07,Roma vs Sassuolo,Marten de Roon,To score at least 2 goals,1.5,71.0,0.0141,0.0003,0,0.0,0
+2026-11-07,Roma vs Sassuolo,Emanuele Lulli,To give an assist,0.5,5.4,0.1852,0.0117,0,0.0,0
+2026-11-07,Roma vs Sassuolo,Jay Idzes,Player's shots on target,0.5,6.0,0.1667,0.0536,1,0.0,0
+2026-11-07,Roma vs Sassuolo,Santiago Castro,Player's shots on target,2.5,4.8,0.2083,0.0002,0,0.0,0
+2026-11-07,Roma vs Sassuolo,Fali Cande,Player's shots on target,0.5,4.5,0.2222,0.0591,0,0.0,0
+2026-11-07,Roma vs Sassuolo,Josh Doig,Player's shots on target,0.5,6.1,0.1639,0.2087,1,0.0,0
+2026-11-07,Roma vs Sassuolo,Cas Odenthal,Player's shots on target,0.5,6.0,0.1667,0.0733,0,0.0,0
+2026-11-07,Roma vs Sassuolo,Nemanja Matić,Player's shots on target,0.5,6.0,0.1667,0.1517,1,1.0,1
+2026-11-07,Roma vs Sassuolo,Donyell Malen,Player's shots on target,3.5,3.7,0.2703,0.0363,1,3.0,0
+2026-11-07,Roma vs Sassuolo,Nemanja Matić,To give an assist,0.5,16.0,0.0625,0.1014,1,0.0,0
+2026-11-07,Roma vs Sassuolo,Evan Ndicka,Player's shots on target,0.5,3.6,0.2778,0.1689,1,0.0,0
+2026-11-07,Roma vs Sassuolo,Daniele Ghilardi,To give an assist,0.5,9.5,0.1053,0.0192,0,0.0,0
+2026-11-07,Roma vs Sassuolo,Duje Caleta-Car,Player's shots on target,0.5,6.0,0.1667,0.1238,1,0.0,0
+2026-11-07,Roma vs Sassuolo,Kieron Bowie,To score at least 3 goals,2.5,151.0,0.0066,0.0,0,0.0,0
+2026-11-07,Roma vs Sassuolo,Daniele Ghilardi,To score at least 2 goals,1.5,71.0,0.0141,0.0005,0,0.0,0
+2026-11-07,Roma vs Sassuolo,Bryan Cristante,Player's shots on target,1.5,9.0,0.1111,0.0371,1,0.0,0
+2026-11-07,Roma vs Sassuolo,Leonardo Balerdi,To score at least 2 goals,1.5,71.0,0.0141,0.0033,1,0.0,0
+2026-11-07,Roma vs Sassuolo,Darryl Bakola,To give an assist,0.5,10.0,0.1,0.0394,0,0.0,0
+2026-11-07,Roma vs Sassuolo,Emanuele Lulli,To score at least 2 goals,1.5,81.0,0.0123,0.0007,0,0.0,0
+2026-11-07,Roma vs Sassuolo,Leonardo Balerdi,To give an assist,0.5,9.0,0.1111,0.0245,1,0.0,0
+2026-11-07,Roma vs Sassuolo,Josh Doig,To give an assist,0.5,17.0,0.0588,0.0426,1,0.0,0
+2026-11-07,Roma vs Sassuolo,Sebastiano Esposito,To score at least 2 goals,1.5,35.0,0.0286,0.0153,1,0.0,0
+2026-11-07,Roma vs Sassuolo,Matías Soulé,Player's shots on target,2.5,4.8,0.2083,0.0297,1,1.0,0
+2026-11-07,Roma vs Sassuolo,Mario Hermoso,To score at least 2 goals,1.5,61.0,0.0164,0.0044,1,1.0,0
+2026-11-07,Roma vs Sassuolo,Daniele Ghilardi,Player's shots on target,0.5,3.6,0.2778,0.0813,0,0.0,0
+2026-11-07,Roma vs Sassuolo,Ignace Van Der Brempt,Player's shots on target,0.5,5.8,0.1724,0.0596,0,0.0,0
+2026-11-07,Roma vs Sassuolo,Kristian Thorstvedt,Player's shots on target,0.5,2.8,0.3571,0.4166,1,0.0,0
+2026-11-07,Roma vs Sassuolo,Sebastian Walukiewicz,Player's shots on target,0.5,5.8,0.1724,0.0559,1,0.0,0
+2026-11-07,Roma vs Sassuolo,Emanuele Lulli,Player's shots on target,0.5,3.6,0.2778,0.084,0,0.0,0
+2026-11-07,Roma vs Sassuolo,Donyell Malen,Player's shots on target,4.5,6.75,0.1481,0.0085,1,3.0,0
+2026-11-07,Roma vs Sassuolo,Andrea Ghion,To give an assist,0.5,11.5,0.087,0.0135,0,0.0,0
+2026-11-07,Roma vs Sassuolo,Mario Hermoso,Player's shots on target,0.5,3.6,0.2778,0.1706,1,1.0,1
+2026-11-07,Roma vs Sassuolo,Luca Lipani,Player's shots on target,0.5,3.4,0.2941,0.0771,0,0.0,0
+2026-11-07,Roma vs Sassuolo,Luca Lipani,To give an assist,0.5,10.5,0.0952,0.0173,0,0.0,0
+2026-11-07,Roma vs Sassuolo,Sebastian Walukiewicz,To give an assist,0.5,14.0,0.0714,0.0279,1,0.0,0
+2026-11-07,Roma vs Sassuolo,Niccolò Pisilli,Player's shots on target,1.5,5.5,0.1818,0.0062,0,1.0,0
+2026-11-07,Roma vs Sassuolo,Sebastiano Esposito,Player's shots on target,0.5,2.05,0.4878,0.3689,1,0.0,0
+2026-11-07,Roma vs Sassuolo,Ignace Van Der Brempt,To give an assist,0.5,13.0,0.0769,0.0142,0,0.0,0
+2026-11-07,Roma vs Sassuolo,Vasilije Adzic,To Score,0.5,5.75,0.1739,0.0498,0,0.0,0
+2026-11-07,Roma vs Sassuolo,Matías Soulé,To give an assist,0.5,2.6,0.3846,0.2047,1,0.0,0
+2026-11-07,Roma vs Sassuolo,Jay Idzes,To Get a Card,0.5,4.5,0.2222,0.1387,1,0.0,0
+2026-11-07,Roma vs Sassuolo,Ignace Van Der Brempt,To Score,0.5,16.0,0.0625,0.0204,0,0.0,0
+2026-11-07,Roma vs Sassuolo,Kieron Bowie,To Get a Card,0.5,3.4,0.2941,0.0291,0,0.0,0
+2026-11-07,Roma vs Sassuolo,Nahuel Molina,To Score,0.5,8.0,0.125,0.1057,1,0.0,0
+2026-11-07,Roma vs Sassuolo,Kristian Thorstvedt,To Score,0.5,7.0,0.1429,0.1386,1,0.0,0
+2026-11-07,Roma vs Sassuolo,Niccolò Pisilli,To give an assist,0.5,4.3,0.2326,0.0228,0,0.0,0
+2026-11-07,Roma vs Sassuolo,Sebastian Walukiewicz,To Get a Card,0.5,3.7,0.2703,0.1676,1,0.0,0
+2026-11-07,Roma vs Sassuolo,Marten de Roon,To Get a Card,0.5,4.4,0.2273,0.0376,0,0.0,0
+2026-11-07,Roma vs Sassuolo,Darryl Bakola,To Score,0.5,8.5,0.1176,0.0218,0,0.0,0
+2026-11-07,Roma vs Sassuolo,Emanuele Lulli,To Get a Card,0.5,5.2,0.1923,0.0356,0,0.0,0
+2026-11-07,Roma vs Sassuolo,Matías Soulé,To score at least 3 goals,2.5,30.0,0.0333,0.0014,1,0.0,0
+2026-11-07,Roma vs Sassuolo,Luca Lipani,To Score,0.5,9.5,0.1053,0.0222,0,0.0,0
+2026-11-07,Roma vs Sassuolo,Nahuel Molina,To Get a Card,0.5,5.5,0.1818,0.1139,1,0.0,0
+2026-11-07,Roma vs Sassuolo,Duje Caleta-Car,To Get a Card,0.5,3.7,0.2703,0.1599,1,0.0,0
+2026-11-07,Roma vs Sassuolo,Leonardo Balerdi,To Score,0.5,7.5,0.1333,0.0807,1,0.0,0
+2026-11-07,Roma vs Sassuolo,Luca Lipani,To Get a Card,0.5,3.7,0.2703,0.0523,0,0.0,0
+2026-11-07,Roma vs Sassuolo,Marten de Roon,To Score,0.5,7.0,0.1429,0.0248,0,0.0,0
+2026-11-07,Roma vs Sassuolo,Vasilije Adzic,To Get a Card,0.5,4.1,0.2439,0.0216,0,0.0,0
+2026-11-07,Roma vs Sassuolo,Santiago Castro,Player's shots on target,0.5,1.32,0.7576,0.1108,0,0.0,0
+2026-11-07,Roma vs Sassuolo,Sebastiano Esposito,To Score,0.5,4.9,0.2041,0.1699,1,0.0,0
+2026-11-07,Roma vs Sassuolo,Matías Soulé,To Score,0.5,2.4,0.4167,0.1913,1,0.0,0
+2026-11-07,Roma vs Sassuolo,Simone Cinquegrano,To give an assist,0.5,7.5,0.1333,0.0606,1,0.0,0
+2026-11-07,Roma vs Sassuolo,Konstantinos Koulierakis,To Get a Card,0.5,4.6,0.2174,0.0381,0,0.0,0
+2026-11-07,Roma vs Sassuolo,Matías Soulé,Player's shots on target,0.5,1.3,0.7692,0.4841,1,1.0,1
+2026-11-07,Roma vs Sassuolo,Mario Hermoso,To Score,0.5,7.5,0.1333,0.0922,1,1.0,1
+2026-11-07,Roma vs Sassuolo,Nemanja Matić,To Get a Card,0.5,3.9,0.2564,0.1562,1,0.0,0
+2026-11-07,Roma vs Sassuolo,Benjamín Domínguez,To give an assist,0.5,7.5,0.1333,0.0195,0,0.0,0
+2026-11-07,Roma vs Sassuolo,Cas Odenthal,To Get a Card,0.5,4.0,0.25,0.0344,0,0.0,0
+2026-11-07,Roma vs Sassuolo,Santiago Castro,To Score,0.5,2.45,0.4082,0.0411,0,0.0,0
+2026-11-07,Roma vs Sassuolo,Daniele Ghilardi,To Score,0.5,7.5,0.1333,0.0317,0,0.0,0
+2026-11-07,Roma vs Sassuolo,Santiago Castro,To score at least 3 goals,2.5,30.0,0.0333,0.0,0,0.0,0
+2026-11-07,Roma vs Sassuolo,Armand Laurienté,To give an assist,0.5,4.8,0.2083,0.1454,1,0.0,0
+2026-11-07,Roma vs Sassuolo,Santiago Castro,To score at least 2 goals,1.5,8.0,0.125,0.0009,0,0.0,0
+2026-11-07,Roma vs Sassuolo,Armand Laurienté,To Score,0.5,5.0,0.2,0.2062,1,0.0,0
+2026-11-07,Roma vs Sassuolo,Donyell Malen,To Get a Card,0.5,5.6,0.1786,0.1319,1,0.0,0
+2026-11-07,Roma vs Sassuolo,Josh Doig,To Score,0.5,17.0,0.0588,0.072,1,0.0,0
+2026-11-07,Roma vs Sassuolo,Evan Ndicka,To Get a Card,0.5,4.4,0.2273,0.1283,1,0.0,0
+2026-11-07,Roma vs Sassuolo,Konstantinos Koulierakis,To give an assist,0.5,5.5,0.1818,0.0132,0,0.0,0
+2026-11-07,Roma vs Sassuolo,Matías Soulé,Player's shots on target,1.5,2.35,0.4255,0.1426,1,1.0,0
+2026-11-07,Roma vs Sassuolo,Benjamín Domínguez,To Get a Card,0.5,3.8,0.2632,0.0221,0,0.0,0
+2026-11-07,Roma vs Sassuolo,Vasilije Adzic,To give an assist,0.5,7.0,0.1429,0.0181,0,0.0,0
+2026-11-07,Roma vs Sassuolo,Andrea Ghion,To Score,0.5,11.5,0.087,0.0195,0,0.0,0
+2026-11-07,Roma vs Sassuolo,Bryan Cristante,To give an assist,0.5,5.0,0.2,0.0788,1,0.0,0
+2026-11-07,Roma vs Sassuolo,Kieron Bowie,To give an assist,0.5,6.75,0.1481,0.013,0,0.0,0
+2026-11-07,Roma vs Sassuolo,Leonardo Balerdi,To Get a Card,0.5,4.3,0.2326,0.1718,1,0.0,0
+2026-11-07,Roma vs Sassuolo,Donyell Malen,To Score,0.5,1.61,0.6211,0.4154,1,0.0,0
+2026-11-07,Roma vs Sassuolo,Matías Soulé,To Get a Card,0.5,5.5,0.1818,0.1482,1,0.0,0
+2026-11-07,Roma vs Sassuolo,Nahuel Molina,Player's shots on target,0.5,3.6,0.2778,0.271,1,0.0,0
+2026-11-07,Roma vs Sassuolo,Santiago Castro,Player's shots on target,1.5,2.4,0.4167,0.0064,0,0.0,0
+2026-11-07,Roma vs Sassuolo,Jay Idzes,To Score,0.5,16.0,0.0625,0.015,1,0.0,0
+2026-11-07,Roma vs Sassuolo,Matías Soulé,To score at least 2 goals,1.5,7.5,0.1333,0.0196,1,0.0,0
+2026-11-07,Roma vs Sassuolo,Konstantinos Koulierakis,To Score,0.5,7.5,0.1333,0.0355,0,0.0,0
+2026-11-07,Roma vs Sassuolo,Daniele Ghilardi,To Get a Card,0.5,5.0,0.2,0.0332,0,0.0,0
+2026-11-07,Roma vs Sassuolo,Benjamín Domínguez,To Score,0.5,7.0,0.1429,0.0247,0,0.0,0
+2026-11-07,Roma vs Sassuolo,Nahuel Molina,To give an assist,0.5,5.8,0.1724,0.0944,1,0.0,0
+2026-11-07,Roma vs Sassuolo,Duje Caleta-Car,To Score,0.5,16.0,0.0625,0.0306,1,0.0,0
+2026-11-07,Roma vs Sassuolo,Nemanja Matić,To Score,0.5,17.0,0.0588,0.0452,1,0.0,0
+2026-11-07,Roma vs Sassuolo,Kristian Thorstvedt,To Get a Card,0.5,3.6,0.2778,0.2067,1,0.0,0
+2026-11-07,Roma vs Sassuolo,Andrea Ghion,To Get a Card,0.5,3.9,0.2564,0.0199,0,0.0,0
+2026-11-07,Roma vs Sassuolo,Josh Doig,To Get a Card,0.5,4.3,0.2326,0.1087,1,0.0,0
+2026-11-07,Roma vs Sassuolo,Santiago Castro,To Get a Card,0.5,5.5,0.1818,0.0263,0,0.0,0
+2026-11-07,Roma vs Sassuolo,Sebastian Walukiewicz,To Score,0.5,15.0,0.0667,0.0149,1,0.0,0
+2026-11-07,Roma vs Sassuolo,Sebastiano Esposito,To give an assist,0.5,5.2,0.1923,0.106,1,0.0,0
+2026-11-07,Roma vs Sassuolo,Donyell Malen,Player's shots on target,0.5,1.03,0.9709,0.7074,1,3.0,1
+2026-11-07,Roma vs Sassuolo,Donyell Malen,Player's shots on target,2.5,2.23,0.4484,0.1269,1,3.0,1
+2026-11-07,Roma vs Sassuolo,Armand Laurienté,Player's shots on target,1.5,5.8,0.1724,0.1653,1,0.0,0
+2026-11-07,Roma vs Sassuolo,Donyell Malen,Player's shots on target,1.5,1.43,0.6993,0.3478,1,3.0,1
+2026-11-07,Roma vs Sassuolo,Darryl Bakola,To Get a Card,0.5,5.0,0.2,0.0227,0,0.0,0
+2026-11-07,Roma vs Sassuolo,Fali Cande,To Get a Card,0.5,3.9,0.2564,0.0396,0,0.0,0
+2026-11-07,Roma vs Sassuolo,Marten de Roon,Player's shots on target,0.5,3.3,0.303,0.058,0,0.0,0
+2026-11-07,Roma vs Sassuolo,Emanuele Lulli,To Score,0.5,8.0,0.125,0.0375,0,0.0,0
+2026-11-07,Roma vs Sassuolo,Niccolò Pisilli,Player's shots on target,0.5,2.02,0.495,0.109,0,1.0,1
+2026-11-07,Roma vs Sassuolo,Bryan Cristante,To Score,0.5,5.1,0.1961,0.1061,1,0.0,0
+2026-11-07,Roma vs Sassuolo,Ignace Van Der Brempt,To Get a Card,0.5,4.0,0.25,0.033,0,0.0,0
+2026-11-07,Roma vs Sassuolo,Kieron Bowie,To score at least 2 goals,1.5,30.0,0.0333,0.0018,0,0.0,0
+2026-11-07,Roma vs Sassuolo,Kieron Bowie,Player's shots on target,1.5,4.9,0.2041,0.0127,0,0.0,0
+2026-11-07,Roma vs Sassuolo,Vasilije Adzic,Player's shots on target,0.5,2.4,0.4167,0.1073,0,0.0,0
+2026-11-07,Roma vs Sassuolo,Donyell Malen,To give an assist,0.5,3.0,0.3333,0.1329,1,1.0,1
+2026-11-07,Excelsior vs Go Ahead Eagles,Daniel van Vianen,To Score,0.5,6.25,0.16,0.0267,0,0.0,0
+2026-11-07,Excelsior vs Go Ahead Eagles,Rick Meissen,To Get a Card,0.5,3.9,0.2564,0.1186,1,0.0,0
+2026-11-07,Excelsior vs Go Ahead Eagles,Irakli Yegoian,To Score,0.5,3.0,0.3333,0.1507,1,0.0,0
+2026-11-07,Excelsior vs Go Ahead Eagles,Casper Widell,To Score,0.5,10.0,0.1,0.0502,1,0.0,0
+2026-11-07,Excelsior vs Go Ahead Eagles,Noah Naujoks,To Score,0.5,2.9,0.3448,0.224,1,0.0,0
+2026-11-07,Excelsior vs Go Ahead Eagles,Dean James,To Score,0.5,9.5,0.1053,0.0188,0,0.0,0
+2026-11-07,Excelsior vs Go Ahead Eagles,Alfons Sampsted,To Score,0.5,9.5,0.1053,0.0153,1,0.0,0
+2026-11-07,Excelsior vs Go Ahead Eagles,Simon Janssen,To Score,0.5,8.0,0.125,0.021,0,0.0,0
+2026-11-07,Excelsior vs Go Ahead Eagles,Eric da Silva Moreira,To Score,0.5,7.0,0.1429,0.0234,0,0.0,0
+2026-11-07,Excelsior vs Go Ahead Eagles,Joris Kramer,To Score,0.5,9.5,0.1053,0.0261,1,0.0,0
+2026-11-07,Excelsior vs Go Ahead Eagles,David Garden,To Score,0.5,2.45,0.4082,0.0493,0,0.0,0
+2026-11-07,Excelsior vs Go Ahead Eagles,Melle Meulensteen,To Score,0.5,4.5,0.2222,0.0912,1,0.0,0
+2026-11-07,Excelsior vs Go Ahead Eagles,Jan Plug,Player's shots on target,0.5,4.7,0.2128,0.1125,1,1.0,1
+2026-11-07,Excelsior vs Go Ahead Eagles,Julius Dirksen,Player's shots on target,0.5,4.0,0.25,0.1366,1,0.0,0
+2026-11-07,Excelsior vs Go Ahead Eagles,Lennard Hartjes,To Score,0.5,5.5,0.1818,0.0855,1,0.0,0
+2026-11-07,Excelsior vs Go Ahead Eagles,Victor Edvardsen,To Get a Card,0.5,4.3,0.2326,0.0277,0,0.0,0
+2026-11-07,Excelsior vs Go Ahead Eagles,Richonell Margaret,Player's shots on target,0.5,2.05,0.4878,0.0886,0,0.0,0
+2026-11-07,Excelsior vs Go Ahead Eagles,Melle Meulensteen,To give an assist,0.5,5.5,0.1818,0.0943,1,0.0,0
+2026-11-07,Excelsior vs Go Ahead Eagles,Aymen Sliti,Player's shots on target,0.5,1.85,0.5405,0.3587,1,0.0,0
+2026-11-07,Excelsior vs Go Ahead Eagles,Stefán Ingi Sigurdarson,To score at least 2 goals,1.5,9.0,0.1111,0.0404,1,0.0,0
+2026-11-07,Excelsior vs Go Ahead Eagles,Evert Linthorst,To give an assist,0.5,7.5,0.1333,0.0205,0,0.0,0
+2026-11-07,Excelsior vs Go Ahead Eagles,Joris Kramer,To Get a Card,0.5,6.5,0.1538,0.1137,1,0.0,0
+2026-11-07,Excelsior vs Go Ahead Eagles,Julius Dirksen,To give an assist,0.5,9.0,0.1111,0.0174,1,0.0,0
+2026-11-07,Excelsior vs Go Ahead Eagles,Irakli Yegoian,Player's shots on target,0.5,1.57,0.6369,0.387,1,0.0,0
+2026-11-07,Excelsior vs Go Ahead Eagles,Irakli Yegoian,Player's shots on target,1.5,3.4,0.2941,0.087,1,0.0,0
+2026-11-07,Excelsior vs Go Ahead Eagles,Giovanni van Zwam,To Get a Card,0.5,5.5,0.1818,0.0207,0,0.0,0
+2026-11-07,Excelsior vs Go Ahead Eagles,Evert Linthorst,To Get a Card,0.5,5.6,0.1786,0.0203,0,0.0,0
+2026-11-07,Excelsior vs Go Ahead Eagles,Daniel van Vianen,To give an assist,0.5,8.0,0.125,0.012,0,0.0,0
+2026-11-07,Excelsior vs Go Ahead Eagles,Mathis Suray,To Get a Card,0.5,4.2,0.2381,0.0887,1,0.0,0
+2026-11-07,Excelsior vs Go Ahead Eagles,Richonell Margaret,To give an assist,0.5,5.0,0.2,0.0232,0,0.0,0
+2026-11-07,Excelsior vs Go Ahead Eagles,Jan Plug,To Get a Card,0.5,4.5,0.2222,0.1383,1,0.0,0
+2026-11-07,Excelsior vs Go Ahead Eagles,Thibo Baeten,To Get a Card,0.5,5.2,0.1923,0.2357,1,0.0,0
+2026-11-07,Excelsior vs Go Ahead Eagles,Stefán Ingi Sigurdarson,To Score,0.5,2.5,0.4,0.2705,1,0.0,0
+2026-11-07,Excelsior vs Go Ahead Eagles,Casper Widell,To Get a Card,0.5,5.8,0.1724,0.0796,1,0.0,0
+2026-11-07,Excelsior vs Go Ahead Eagles,Joris Kramer,Player's shots on target,0.5,4.1,0.2439,0.1048,1,0.0,0
+2026-11-07,Excelsior vs Go Ahead Eagles,Stefán Ingi Sigurdarson,To give an assist,0.5,4.5,0.2222,0.0615,1,0.0,0
+2026-11-07,Excelsior vs Go Ahead Eagles,Alfons Sampsted,To Get a Card,0.5,5.0,0.2,0.0843,1,0.0,0
+2026-11-07,Excelsior vs Go Ahead Eagles,Aymen Sliti,To Get a Card,0.5,6.0,0.1667,0.0749,1,0.0,0
+2026-11-07,Excelsior vs Go Ahead Eagles,Tomas Galvez,To Get a Card,0.5,4.8,0.2083,0.1303,1,1.0,1
+2026-11-07,Excelsior vs Go Ahead Eagles,Stefán Ingi Sigurdarson,To Get a Card,0.5,5.75,0.1739,0.0755,1,0.0,0
+2026-11-07,Excelsior vs Go Ahead Eagles,Irakli Yegoian,To give an assist,0.5,3.6,0.2778,0.1541,1,0.0,0
+2026-11-07,Excelsior vs Go Ahead Eagles,Mathis Suray,Player's shots on target,2.5,5.6,0.1786,0.0217,1,0.0,0
+2026-11-07,Excelsior vs Go Ahead Eagles,Eric da Silva Moreira,To Get a Card,0.5,4.2,0.2381,0.0194,0,0.0,0
+2026-11-07,Excelsior vs Go Ahead Eagles,Victor Edvardsen,Player's shots on target,1.5,3.6,0.2778,0.0105,0,0.0,0
+2026-11-07,Excelsior vs Go Ahead Eagles,Victor Edvardsen,Player's shots on target,0.5,1.62,0.6173,0.1415,0,0.0,0
+2026-11-07,Excelsior vs Go Ahead Eagles,David Garden,To Get a Card,0.5,4.2,0.2381,0.0197,0,0.0,0
+2026-11-07,Excelsior vs Go Ahead Eagles,Simon Janssen,To Get a Card,0.5,3.8,0.2632,0.0249,0,0.0,0
+2026-11-07,Excelsior vs Go Ahead Eagles,Alfons Sampsted,Player's shots on target,0.5,4.1,0.2439,0.064,1,0.0,0
+2026-11-07,Excelsior vs Go Ahead Eagles,Giovanni van Zwam,To give an assist,0.5,9.5,0.1053,0.01,0,0.0,0
+2026-11-07,Excelsior vs Go Ahead Eagles,Stefán Ingi Sigurdarson,Player's shots on target,1.5,2.35,0.4255,0.1966,1,0.0,0
+2026-11-07,Excelsior vs Go Ahead Eagles,Noah Naujoks,To Get a Card,0.5,4.2,0.2381,0.0986,1,0.0,0
+2026-11-07,Excelsior vs Go Ahead Eagles,Richonell Margaret,Player's shots on target,1.5,6.0,0.1667,0.004,0,0.0,0
+2026-11-07,Excelsior vs Go Ahead Eagles,Gerrit Nauber,Player's shots on target,0.5,3.8,0.2632,0.0733,0,0.0,0
+2026-11-07,Excelsior vs Go Ahead Eagles,Tomas Galvez,To give an assist,0.5,6.0,0.1667,0.0917,1,0.0,0
+2026-11-07,Excelsior vs Go Ahead Eagles,David Garden,Player's shots on target,1.5,2.4,0.4167,0.005,0,1.0,0
+2026-11-07,Excelsior vs Go Ahead Eagles,Gerrit Nauber,To Get a Card,0.5,5.0,0.2,0.0368,0,0.0,0
+2026-11-07,Excelsior vs Go Ahead Eagles,Casper Widell,Player's shots on target,0.5,4.6,0.2174,0.1108,1,0.0,0
+2026-11-07,Excelsior vs Go Ahead Eagles,Noah Naujoks,To give an assist,0.5,4.2,0.2381,0.0592,1,0.0,0
+2026-11-07,Excelsior vs Go Ahead Eagles,Noah Naujoks,Player's shots on target,0.5,1.52,0.6579,0.449,1,0.0,0
+2026-11-07,Excelsior vs Go Ahead Eagles,Jan Plug,To give an assist,0.5,8.5,0.1176,0.0197,1,0.0,0
+2026-11-07,Excelsior vs Go Ahead Eagles,Victor Edvardsen,To give an assist,0.5,3.5,0.2857,0.0401,0,0.0,0
+2026-11-07,Excelsior vs Go Ahead Eagles,Thibo Baeten,Player's shots on target,0.5,1.6,0.625,0.4152,1,0.0,0
+2026-11-07,Excelsior vs Go Ahead Eagles,Alireza Jahanbakhsh,To give an assist,0.5,5.2,0.1923,0.02,0,0.0,0
+2026-11-07,Excelsior vs Go Ahead Eagles,Alfons Sampsted,To give an assist,0.5,8.5,0.1176,0.0697,1,0.0,0
+2026-11-07,Excelsior vs Go Ahead Eagles,Aymen Sliti,To give an assist,0.5,3.7,0.2703,0.0853,1,0.0,0
+2026-11-07,Excelsior vs Go Ahead Eagles,Dean James,To give an assist,0.5,5.5,0.1818,0.025,0,0.0,0
+2026-11-07,Excelsior vs Go Ahead Eagles,Stefán Ingi Sigurdarson,Player's shots on target,2.5,5.1,0.1961,0.0496,1,0.0,0
+2026-11-07,Excelsior vs Go Ahead Eagles,Noah Naujoks,Player's shots on target,1.5,3.3,0.303,0.1206,1,0.0,0
+2026-11-07,Excelsior vs Go Ahead Eagles,Eric da Silva Moreira,To score at least 2 goals,1.5,71.0,0.0141,0.0003,0,0.0,0
+2026-11-07,Excelsior vs Go Ahead Eagles,David Garden,Player's shots on target,0.5,1.33,0.7519,0.0982,0,1.0,1
+2026-11-07,Excelsior vs Go Ahead Eagles,Evert Linthorst,Player's shots on target,0.5,3.1,0.3226,0.0794,0,0.0,0
+2026-11-07,Excelsior vs Go Ahead Eagles,Ilano Silva Timas,Player's shots on target,0.5,1.95,0.5128,0.0835,0,0.0,0
+2026-11-07,Excelsior vs Go Ahead Eagles,Stefán Ingi Sigurdarson,Player's shots on target,0.5,1.3,0.7692,0.5574,1,0.0,0
+2026-11-07,Excelsior vs Go Ahead Eagles,Mathis Suray,To give an assist,0.5,4.9,0.2041,0.1134,1,1.0,1
+2026-11-07,Excelsior vs Go Ahead Eagles,Thibo Baeten,Player's shots on target,1.5,3.4,0.2941,0.1014,1,0.0,0
+2026-11-07,Excelsior vs Go Ahead Eagles,Thibo Baeten,To give an assist,0.5,4.0,0.25,0.0883,1,0.0,0
+2026-11-07,Excelsior vs Go Ahead Eagles,Lennard Hartjes,To Get a Card,0.5,5.0,0.2,0.1261,1,0.0,0
+2026-11-07,Excelsior vs Go Ahead Eagles,Ilano Silva Timas,To give an assist,0.5,3.7,0.2703,0.0241,0,0.0,0
+2026-11-07,Excelsior vs Go Ahead Eagles,Daniel van Vianen,To Get a Card,0.5,5.2,0.1923,0.0221,0,0.0,0
+2026-11-07,Excelsior vs Go Ahead Eagles,Joris Kramer,To give an assist,0.5,7.5,0.1333,0.0325,1,0.0,0
+2026-11-07,Excelsior vs Go Ahead Eagles,Irakli Yegoian,To Get a Card,0.5,5.0,0.2,0.1347,1,0.0,0
+2026-11-07,Excelsior vs Go Ahead Eagles,Julius Dirksen,To Get a Card,0.5,4.3,0.2326,0.2093,1,0.0,0
+2026-11-07,Excelsior vs Go Ahead Eagles,Simon Janssen,To give an assist,0.5,5.0,0.2,0.0334,0,0.0,0
+2026-11-07,Excelsior vs Go Ahead Eagles,Lennard Hartjes,Player's shots on target,0.5,2.6,0.3846,0.223,1,0.0,0
+2026-11-07,Excelsior vs Go Ahead Eagles,Tomas Galvez,Player's shots on target,0.5,3.4,0.2941,0.0997,1,1.0,1
+2026-11-07,Excelsior vs Go Ahead Eagles,Mathis Suray,To Score,0.5,2.7,0.3704,0.1987,1,0.0,0
+2026-11-07,Excelsior vs Go Ahead Eagles,Rick Meissen,To Score,0.5,10.0,0.1,0.0373,1,0.0,0
+2026-11-07,Excelsior vs Go Ahead Eagles,Aymen Sliti,Player's shots on target,1.5,4.8,0.2083,0.0738,1,0.0,0
+2026-11-07,Excelsior vs Go Ahead Eagles,Aymen Sliti,To score at least 2 goals,1.5,20.0,0.05,0.0109,1,0.0,0
+2026-11-07,Excelsior vs Go Ahead Eagles,Ilano Silva Timas,To score at least 2 goals,1.5,20.0,0.05,0.0005,0,0.0,0
+2026-11-07,Excelsior vs Go Ahead Eagles,Thibo Baeten,To Score,0.5,3.3,0.303,0.0781,1,0.0,0
+2026-11-07,Excelsior vs Go Ahead Eagles,Victor Edvardsen,To score at least 2 goals,1.5,18.0,0.0556,0.0011,0,0.0,0
+2026-11-07,Excelsior vs Go Ahead Eagles,Jan Plug,To Score,0.5,10.0,0.1,0.018,1,0.0,0
+2026-11-07,Excelsior vs Go Ahead Eagles,Alireza Jahanbakhsh,To Score,0.5,4.8,0.2083,0.0319,0,0.0,0
+2026-11-07,Excelsior vs Go Ahead Eagles,Thibo Baeten,To score at least 2 goals,1.5,15.0,0.0667,0.0031,1,0.0,0
+2026-11-07,Excelsior vs Go Ahead Eagles,David Garden,To score at least 2 goals,1.5,8.0,0.125,0.0012,0,0.0,0
+2026-11-07,Excelsior vs Go Ahead Eagles,Melle Meulensteen,To score at least 2 goals,1.5,30.0,0.0333,0.0043,1,0.0,0
+2026-11-07,Excelsior vs Go Ahead Eagles,Stefán Ingi Sigurdarson,To score at least 3 goals,2.5,41.0,0.0244,0.0041,1,0.0,0
+2026-11-07,Excelsior vs Go Ahead Eagles,Simon Janssen,Player's shots on target,0.5,3.8,0.2632,0.0742,0,0.0,0
+2026-11-07,Excelsior vs Go Ahead Eagles,Lennard Hartjes,To give an assist,0.5,6.5,0.1538,0.0375,1,0.0,0
+2026-11-07,Excelsior vs Go Ahead Eagles,Aymen Sliti,To Score,0.5,3.6,0.2778,0.1438,1,0.0,0
+2026-11-07,Excelsior vs Go Ahead Eagles,David Garden,To give an assist,0.5,3.7,0.2703,0.0106,0,0.0,0
+2026-11-07,Excelsior vs Go Ahead Eagles,Gerrit Nauber,To Score,0.5,9.0,0.1111,0.0297,0,0.0,0
+2026-11-07,Excelsior vs Go Ahead Eagles,Noah Naujoks,To score at least 2 goals,1.5,13.0,0.0769,0.0272,1,0.0,0
+2026-11-07,Excelsior vs Go Ahead Eagles,Ilano Silva Timas,To Score,0.5,3.8,0.2632,0.0299,0,0.0,0
+2026-11-07,Excelsior vs Go Ahead Eagles,Giovanni van Zwam,To Score,0.5,10.0,0.1,0.0223,0,0.0,0
+2026-11-07,Excelsior vs Go Ahead Eagles,Julius Dirksen,To Score,0.5,9.0,0.1111,0.0721,1,0.0,0
+2026-11-07,Excelsior vs Go Ahead Eagles,Victor Edvardsen,To Score,0.5,3.6,0.2778,0.046,0,0.0,0
+2026-11-07,Excelsior vs Go Ahead Eagles,Evert Linthorst,To score at least 2 goals,1.5,71.0,0.0141,0.0004,0,0.0,0
+2026-11-07,Excelsior vs Go Ahead Eagles,Daniel van Vianen,Player's shots on target,0.5,3.0,0.3333,0.0863,0,0.0,0
+2026-11-07,Excelsior vs Go Ahead Eagles,Evert Linthorst,To Score,0.5,7.0,0.1429,0.0277,0,0.0,0
+2026-11-07,Excelsior vs Go Ahead Eagles,Alireza Jahanbakhsh,Player's shots on target,0.5,2.35,0.4255,0.1233,0,0.0,0
+2026-11-07,Excelsior vs Go Ahead Eagles,Dean James,Player's shots on target,0.5,4.2,0.2381,0.0592,0,0.0,0
+2026-11-07,Excelsior vs Go Ahead Eagles,Eric da Silva Moreira,To give an assist,0.5,7.5,0.1333,0.0105,0,0.0,0
+2026-11-07,Excelsior vs Go Ahead Eagles,Irakli Yegoian,To score at least 2 goals,1.5,13.0,0.0769,0.012,1,0.0,0
+2026-11-07,Excelsior vs Go Ahead Eagles,Richonell Margaret,To score at least 2 goals,1.5,29.0,0.0345,0.0004,0,0.0,0
+2026-11-07,Excelsior vs Go Ahead Eagles,Richonell Margaret,To Score,0.5,4.5,0.2222,0.0276,0,0.0,0
+2026-11-07,Excelsior vs Go Ahead Eagles,Melle Meulensteen,Player's shots on target,1.5,6.25,0.16,0.0645,1,0.0,0
+2026-11-07,Excelsior vs Go Ahead Eagles,Melle Meulensteen,Player's shots on target,0.5,2.1,0.4762,0.3369,1,0.0,0
+2026-11-07,Excelsior vs Go Ahead Eagles,Richonell Margaret,To Get a Card,0.5,6.75,0.1481,0.0355,0,0.0,0
+2026-11-07,Excelsior vs Go Ahead Eagles,Mathis Suray,Player's shots on target,0.5,1.37,0.7299,0.4428,1,0.0,0
+2026-11-07,Excelsior vs Go Ahead Eagles,Mathis Suray,Player's shots on target,1.5,2.6,0.3846,0.117,1,0.0,0
+2026-11-07,Excelsior vs Go Ahead Eagles,Giovanni van Zwam,Player's shots on target,0.5,4.1,0.2439,0.0756,0,0.0,0
+2026-11-07,Excelsior vs Go Ahead Eagles,Dean James,To Get a Card,0.5,4.6,0.2174,0.0344,0,0.0,0
+2026-11-07,Excelsior vs Go Ahead Eagles,Melle Meulensteen,To Get a Card,0.5,4.9,0.2041,0.0837,1,0.0,0
+2026-11-07,Excelsior vs Go Ahead Eagles,Alireza Jahanbakhsh,To Get a Card,0.5,4.3,0.2326,0.0452,0,1.0,1
+2026-11-07,Excelsior vs Go Ahead Eagles,Ilano Silva Timas,To Get a Card,0.5,4.5,0.2222,0.0248,0,0.0,0
+2026-11-07,Excelsior vs Go Ahead Eagles,Eric da Silva Moreira,Player's shots on target,0.5,3.3,0.303,0.0705,0,0.0,0
+2026-11-07,Excelsior vs Go Ahead Eagles,Tomas Galvez,To Score,0.5,8.0,0.125,0.0287,1,0.0,0
+2026-11-07,Excelsior vs Go Ahead Eagles,Mathis Suray,To score at least 2 goals,1.5,10.5,0.0952,0.0212,1,0.0,0
+2026-11-07,Excelsior vs Go Ahead Eagles,Rick Meissen,Player's shots on target,0.5,4.5,0.2222,0.1371,1,0.0,0
+2026-11-07,Excelsior vs Go Ahead Eagles,Mathis Suray,To score at least 3 goals,2.5,51.0,0.0196,0.0015,1,0.0,0
+2026-11-07,St Mirren vs Rangers,Dujon Sterling,To score at least 2 goals,1.5,41.0,0.0244,0.0014,1,0.0,0
+2026-11-07,St Mirren vs Rangers,Killian Phillips,To Score,0.5,6.0,0.1667,0.1469,1,0.0,0
+2026-11-07,St Mirren vs Rangers,Dujon Sterling,Player's shots on target,0.5,2.65,0.3774,0.1429,1,0.0,0
+2026-11-07,St Mirren vs Rangers,Djeidi Gassama,To score at least 2 goals,1.5,16.0,0.0625,0.0004,0,0.0,0
+2026-11-07,St Mirren vs Rangers,Jake Young,To give an assist,0.5,6.5,0.1538,0.0469,1,0.0,0
+2026-11-07,St Mirren vs Rangers,Tuur Rommens,To score at least 2 goals,1.5,56.0,0.0179,0.0002,0,0.0,0
+2026-11-07,St Mirren vs Rangers,Ryan Naderi,Player's shots on target,1.5,2.35,0.4255,0.2131,1,2.0,1
+2026-11-07,St Mirren vs Rangers,Declan John,To Get a Card,0.5,5.2,0.1923,0.0663,1,0.0,0
+2026-11-07,St Mirren vs Rangers,Marcus Fraser,To Score,0.5,13.0,0.0769,0.0226,1,0.0,0
+2026-11-07,St Mirren vs Rangers,Djeidi Gassama,Player's shots on target,0.5,1.77,0.565,0.123,0,0.0,0
+2026-11-07,St Mirren vs Rangers,Liam Donnelly,Player's shots on target,0.5,2.8,0.3571,0.0791,0,0.0,0
+2026-11-07,St Mirren vs Rangers,Ben Godfrey,To give an assist,0.5,6.25,0.16,0.0089,0,0.0,0
+2026-11-07,St Mirren vs Rangers,Findlay Curtis,To give an assist,0.5,5.5,0.1818,0.0156,0,0.0,0
+2026-11-07,St Mirren vs Rangers,Nicolas Raskin,To Get a Card,0.5,3.9,0.2564,0.1901,1,1.0,1
+2026-11-07,St Mirren vs Rangers,James Penrice,To score at least 2 goals,1.5,81.0,0.0123,0.0002,1,0.0,0
+2026-11-07,St Mirren vs Rangers,Badredine Bouanani,To give an assist,0.5,3.1,0.3226,0.1027,1,0.0,0
+2026-11-07,St Mirren vs Rangers,Dujon Sterling,To Get a Card,0.5,3.8,0.2632,0.2186,1,0.0,0
+2026-11-07,St Mirren vs Rangers,Killian Phillips,To Get a Card,0.5,2.8,0.3571,0.2241,1,0.0,0
+2026-11-07,St Mirren vs Rangers,Tuur Rommens,To Get a Card,0.5,4.0,0.25,0.0293,0,0.0,0
+2026-11-07,St Mirren vs Rangers,Ryan Naderi,To give an assist,0.5,3.3,0.303,0.1724,1,0.0,0
+2026-11-07,St Mirren vs Rangers,Badredine Bouanani,To Get a Card,0.5,4.7,0.2128,0.2082,1,0.0,0
+2026-11-07,St Mirren vs Rangers,Emmanuel Fernandez,To Score,0.5,4.2,0.2381,0.05,1,0.0,0
+2026-11-07,St Mirren vs Rangers,Badredine Bouanani,Player's shots on target,0.5,2.12,0.4717,0.4611,1,2.0,1
+2026-11-07,St Mirren vs Rangers,James Penrice,To Get a Card,0.5,4.2,0.2381,0.1262,1,0.0,0
+2026-11-07,St Mirren vs Rangers,Ryan Naderi,Player's shots on target,2.5,4.9,0.2041,0.0565,1,2.0,0
+2026-11-07,St Mirren vs Rangers,Liam Donnelly,To give an assist,0.5,7.5,0.1333,0.011,0,0.0,0
+2026-11-07,St Mirren vs Rangers,Kevin Kelsy,Player's shots on target,2.5,3.7,0.2703,0.0528,1,1.0,0
+2026-11-07,St Mirren vs Rangers,Kosta Nedeljkovic,Player's shots on target,0.5,3.7,0.2703,0.0649,0,0.0,0
+2026-11-07,St Mirren vs Rangers,Emmanuel Fernandez,Player's shots on target,1.5,6.25,0.16,0.017,1,0.0,0
+2026-11-07,St Mirren vs Rangers,Killian Phillips,Player's shots on target,1.5,9.0,0.1111,0.08,1,0.0,0
+2026-11-07,St Mirren vs Rangers,Bojan Miovski,Player's shots on target,1.5,3.5,0.2857,0.0103,0,0.0,0
+2026-11-07,St Mirren vs Rangers,Killian Phillips,To give an assist,0.5,7.5,0.1333,0.0874,1,0.0,0
+2026-11-07,St Mirren vs Rangers,Findlay Curtis,Player's shots on target,1.5,3.9,0.2564,0.0093,0,0.0,0
+2026-11-07,St Mirren vs Rangers,Ben Godfrey,To score at least 2 goals,1.5,71.0,0.0141,0.0003,0,0.0,0
+2026-11-07,St Mirren vs Rangers,Liam Donnelly,To score at least 2 goals,1.5,67.0,0.0149,0.0004,0,0.0,0
+2026-11-07,St Mirren vs Rangers,Ben Godfrey,To Get a Card,0.5,4.4,0.2273,0.0337,0,0.0,0
+2026-11-07,St Mirren vs Rangers,Djeidi Gassama,To Get a Card,0.5,5.4,0.1852,0.0227,0,0.0,0
+2026-11-07,St Mirren vs Rangers,Findlay Curtis,To score at least 2 goals,1.5,15.0,0.0667,0.0011,0,0.0,0
+2026-11-07,St Mirren vs Rangers,Kosta Nedeljkovic,To Score,0.5,8.0,0.125,0.0229,0,0.0,0
+2026-11-07,St Mirren vs Rangers,Tuur Rommens,Player's shots on target,0.5,3.1,0.3226,0.0791,0,0.0,0
+2026-11-07,St Mirren vs Rangers,Declan John,Player's shots on target,0.5,5.5,0.1818,0.2078,1,0.0,0
+2026-11-07,St Mirren vs Rangers,Findlay Curtis,To Score,0.5,3.1,0.3226,0.0459,0,0.0,0
+2026-11-07,St Mirren vs Rangers,Marcus Fraser,To Get a Card,0.5,3.1,0.3226,0.1962,1,0.0,0
+2026-11-07,St Mirren vs Rangers,Olwethu Makhanya,Player's shots on target,0.5,3.7,0.2703,0.1182,1,0.0,0
+2026-11-07,St Mirren vs Rangers,James Penrice,To Score,0.5,7.5,0.1333,0.0208,1,0.0,0
+2026-11-07,St Mirren vs Rangers,Emmanuel Fernandez,To Get a Card,0.5,5.1,0.1961,0.1508,1,0.0,0
+2026-11-07,St Mirren vs Rangers,Ryan Naderi,To Get a Card,0.5,5.75,0.1739,0.0687,1,0.0,0
+2026-11-07,St Mirren vs Rangers,Bojan Miovski,To Get a Card,0.5,5.2,0.1923,0.0294,0,0.0,0
+2026-11-07,St Mirren vs Rangers,Nicolas Raskin,Player's shots on target,0.5,2.4,0.4167,0.3422,1,1.0,1
+2026-11-07,St Mirren vs Rangers,Kosta Nedeljkovic,To give an assist,0.5,4.5,0.2222,0.0102,0,0.0,0
+2026-11-07,St Mirren vs Rangers,Bojan Miovski,Player's shots on target,0.5,1.54,0.6494,0.1398,0,0.0,0
+2026-11-07,St Mirren vs Rangers,Tuur Rommens,To give an assist,0.5,5.5,0.1818,0.0221,0,0.0,0
+2026-11-07,St Mirren vs Rangers,James Penrice,Player's shots on target,0.5,3.8,0.2632,0.1497,1,0.0,0
+2026-11-07,St Mirren vs Rangers,Kevin Kelsy,Player's shots on target,1.5,1.98,0.5051,0.2044,1,1.0,0
+2026-11-07,St Mirren vs Rangers,Kevin Kelsy,Player's shots on target,0.5,1.16,0.8621,0.5668,1,1.0,1
+2026-11-07,St Mirren vs Rangers,Liam Donnelly,To Score,0.5,7.0,0.1429,0.0275,0,0.0,0
+2026-11-07,St Mirren vs Rangers,Jake Young,To Get a Card,0.5,4.7,0.2128,0.1711,1,0.0,0
+2026-11-07,St Mirren vs Rangers,Ben Godfrey,Player's shots on target,0.5,3.7,0.2703,0.0674,0,0.0,0
+2026-11-07,St Mirren vs Rangers,Kevin Kelsy,To Get a Card,0.5,4.5,0.2222,0.1313,1,0.0,0
+2026-11-07,St Mirren vs Rangers,Declan John,To give an assist,0.5,6.25,0.16,0.0735,1,0.0,0
+2026-11-07,St Mirren vs Rangers,Killian Phillips,Player's shots on target,0.5,2.5,0.4,0.3723,1,0.0,0
+2026-11-07,St Mirren vs Rangers,Kevin Kelsy,To score at least 2 goals,1.5,5.8,0.1724,0.06,1,0.0,0
+2026-11-07,St Mirren vs Rangers,Marcus Fraser,Player's shots on target,0.5,5.2,0.1923,0.0701,1,0.0,0
+2026-11-07,St Mirren vs Rangers,Nicolas Raskin,To score at least 2 goals,1.5,31.0,0.0323,0.01,1,0.0,0
+2026-11-07,St Mirren vs Rangers,Bojan Miovski,To score at least 2 goals,1.5,12.0,0.0833,0.0022,0,0.0,0
+2026-11-07,St Mirren vs Rangers,Dujon Sterling,To Score,0.5,5.3,0.1887,0.0527,1,0.0,0
+2026-11-07,St Mirren vs Rangers,Killian Phillips,To score at least 2 goals,1.5,51.0,0.0196,0.0114,1,0.0,0
+2026-11-07,St Mirren vs Rangers,Jayden Richardson,Player's shots on target,0.5,4.8,0.2083,0.0862,0,0.0,0
+2026-11-07,St Mirren vs Rangers,James Penrice,To give an assist,0.5,6.75,0.1481,0.0574,1,0.0,0
+2026-11-07,St Mirren vs Rangers,Dujon Sterling,To give an assist,0.5,4.5,0.2222,0.0305,1,0.0,0
+2026-11-07,St Mirren vs Rangers,Djeidi Gassama,To Score,0.5,3.3,0.303,0.0293,0,0.0,0
+2026-11-07,St Mirren vs Rangers,Olwethu Makhanya,To score at least 2 goals,1.5,81.0,0.0123,0.0013,1,0.0,0
+2026-11-07,St Mirren vs Rangers,Badredine Bouanani,To score at least 2 goals,1.5,25.0,0.04,0.0071,1,0.0,0
+2026-11-07,St Mirren vs Rangers,Badredine Bouanani,To Score,0.5,4.0,0.25,0.1164,1,0.0,0
+2026-11-07,St Mirren vs Rangers,Kevin Kelsy,To score at least 3 goals,2.5,21.0,0.0476,0.0076,1,0.0,0
+2026-11-07,St Mirren vs Rangers,Jake Young,Player's shots on target,1.5,4.1,0.2439,0.1354,1,0.0,0
+2026-11-07,St Mirren vs Rangers,Jayden Richardson,To Get a Card,0.5,3.7,0.2703,0.0289,0,0.0,0
+2026-11-07,St Mirren vs Rangers,Ben Godfrey,To Score,0.5,7.5,0.1333,0.0253,0,0.0,0
+2026-11-07,St Mirren vs Rangers,Declan John,To Score,0.5,14.0,0.0714,0.0706,1,0.0,0
+2026-11-07,St Mirren vs Rangers,Olwethu Makhanya,To Score,0.5,8.0,0.125,0.0513,1,0.0,0
+2026-11-07,St Mirren vs Rangers,Jake Young,Player's shots on target,0.5,1.71,0.5848,0.473,1,0.0,0
+2026-11-07,St Mirren vs Rangers,Ryan Naderi,To score at least 2 goals,1.5,7.0,0.1429,0.0387,1,1.0,0
+2026-11-07,St Mirren vs Rangers,Ryan Naderi,To score at least 3 goals,2.5,25.0,0.04,0.0039,1,1.0,0
+2026-11-07,St Mirren vs Rangers,Nicolas Raskin,To Score,0.5,4.8,0.2083,0.1382,1,0.0,0
+2026-11-07,St Mirren vs Rangers,Ryan Naderi,To Score,0.5,2.25,0.4444,0.2649,1,1.0,1
+2026-11-07,St Mirren vs Rangers,Findlay Curtis,Player's shots on target,0.5,1.66,0.6024,0.1335,0,0.0,0
+2026-11-07,St Mirren vs Rangers,Kevin Kelsy,To Score,0.5,2.05,0.4878,0.3257,1,0.0,0
+2026-11-07,St Mirren vs Rangers,Jayden Richardson,To Score,0.5,12.0,0.0833,0.0214,0,0.0,0
+2026-11-07,St Mirren vs Rangers,Ryan Naderi,Player's shots on target,0.5,1.26,0.7937,0.5771,1,2.0,1
+2026-11-07,St Mirren vs Rangers,Emmanuel Fernandez,Player's shots on target,0.5,2.15,0.4651,0.1788,1,0.0,0
+2026-11-07,St Mirren vs Rangers,Jake Young,To Score,0.5,3.8,0.2632,0.1475,1,0.0,0
+2026-11-07,St Mirren vs Rangers,Jake Young,To score at least 2 goals,1.5,21.0,0.0476,0.0114,1,0.0,0
+2026-11-07,St Mirren vs Rangers,Bojan Miovski,To give an assist,0.5,2.9,0.3448,0.0128,0,0.0,0
+2026-11-07,St Mirren vs Rangers,Kevin Kelsy,To give an assist,0.5,3.0,0.3333,0.0606,1,0.0,0
+2026-11-07,St Mirren vs Rangers,Nicolas Raskin,To give an assist,0.5,4.5,0.2222,0.1033,1,0.0,0
+2026-11-07,St Mirren vs Rangers,Djeidi Gassama,To give an assist,0.5,3.1,0.3226,0.0425,0,0.0,0
+2026-11-07,St Mirren vs Rangers,Olwethu Makhanya,To Get a Card,0.5,3.3,0.303,0.1826,1,0.0,0
+2026-11-07,St Mirren vs Rangers,Findlay Curtis,To Get a Card,0.5,4.6,0.2174,0.03,0,0.0,0
+2026-11-07,St Mirren vs Rangers,Kosta Nedeljkovic,To Get a Card,0.5,4.0,0.25,0.0334,0,0.0,0
+2026-11-07,St Mirren vs Rangers,Liam Donnelly,To Get a Card,0.5,3.6,0.2778,0.0375,0,1.0,1
+2026-11-07,St Mirren vs Rangers,Tuur Rommens,To Score,0.5,6.5,0.1538,0.0217,0,0.0,0
+2026-11-07,St Mirren vs Rangers,Bojan Miovski,To Score,0.5,2.9,0.3448,0.0658,0,0.0,0
+2026-11-07,Valencia vs Real Madrid,Justin de Haas,To Score,0.5,14.0,0.0714,0.0751,1,0.0,0
+2026-11-07,Valencia vs Real Madrid,César Tárrega,To Score,0.5,18.0,0.0556,0.0168,1,0.0,0
+2026-11-07,Valencia vs Real Madrid,Éder Militão,To Score,0.5,7.5,0.1333,0.0283,0,0.0,0
+2026-11-07,Valencia vs Real Madrid,Javi Guerra,Player's shots on target,0.5,3.1,0.3226,0.3262,1,0.0,0
+2026-11-07,Valencia vs Real Madrid,Denzel Dumfries,To Get a Card,0.5,3.8,0.2632,0.0287,0,0.0,0
+2026-11-07,Valencia vs Real Madrid,Hugo Duro,To Get a Card,0.5,3.7,0.2703,0.0269,0,0.0,0
+2026-11-07,Valencia vs Real Madrid,Arnaut Danjuma,To give an assist,0.5,6.25,0.16,0.0856,1,0.0,0
+2026-11-07,Valencia vs Real Madrid,Kylian Mbappé,To Score,0.5,1.41,0.7092,0.4786,1,1.0,1
+2026-11-07,Valencia vs Real Madrid,Yan Diomande,To score at least 3 goals,2.5,41.0,0.0244,0.0028,1,0.0,0
+2026-11-07,Valencia vs Real Madrid,Hugo Duro,To give an assist,0.5,5.5,0.1818,0.0167,0,0.0,0
+2026-11-07,Valencia vs Real Madrid,Federico Valverde,Player's shots on target,0.5,2.8,0.3571,0.3433,1,1.0,1
+2026-11-07,Valencia vs Real Madrid,Luis Rioja,To give an assist,0.5,8.0,0.125,0.0249,0,0.0,0
+2026-11-07,Valencia vs Real Madrid,Guido Rodríguez,Player's shots on target,0.5,4.4,0.2273,0.2391,1,0.0,0
+2026-11-07,Valencia vs Real Madrid,Filip Ugrinic,Player's shots on target,0.5,3.9,0.2564,0.0796,0,0.0,0
+2026-11-07,Valencia vs Real Madrid,Javi Guerra,To score at least 2 goals,1.5,81.0,0.0123,0.006,1,0.0,0
+2026-11-07,Valencia vs Real Madrid,Arnaut Danjuma,Player's shots on target,1.5,4.7,0.2128,0.0914,1,1.0,0
+2026-11-07,Valencia vs Real Madrid,Marc Cucurella,To give an assist,0.5,5.6,0.1786,0.0765,1,0.0,0
+2026-11-07,Valencia vs Real Madrid,Kylian Mbappé,To score at least 3 goals,2.5,8.0,0.125,0.0285,1,1.0,0
+2026-11-07,Valencia vs Real Madrid,Arda Guler,To Score,0.5,4.5,0.2222,0.1664,1,1.0,1
+2026-11-07,Valencia vs Real Madrid,Thiago Pitarch,Player's shots on target,0.5,3.2,0.3125,0.0768,0,0.0,0
+2026-11-07,Valencia vs Real Madrid,Umar Sadiq,Player's shots on target,0.5,1.79,0.5587,0.5467,1,0.0,0
+2026-11-07,Valencia vs Real Madrid,Arnaut Danjuma,To Get a Card,0.5,3.6,0.2778,0.0617,1,0.0,0
+2026-11-07,Valencia vs Real Madrid,Yan Diomande,Player's shots on target,0.5,1.43,0.6993,0.4208,1,0.0,0
+2026-11-07,Valencia vs Real Madrid,Arda Guler,Player's shots on target,0.5,1.49,0.6711,0.5155,1,2.0,1
+2026-11-07,Valencia vs Real Madrid,Trent Alexander-Arnold,To give an assist,0.5,3.7,0.2703,0.0287,0,0.0,0
+2026-11-07,Valencia vs Real Madrid,Brahim Díaz,To Score,0.5,4.3,0.2326,0.0288,0,0.0,0
+2026-11-07,Valencia vs Real Madrid,Aliou Dieng,To Score,0.5,9.5,0.1053,0.0298,0,0.0,0
+2026-11-07,Valencia vs Real Madrid,Bernardo Silva,To Score,0.5,3.9,0.2564,0.0969,1,0.0,0
+2026-11-07,Valencia vs Real Madrid,Justin de Haas,To Get a Card,0.5,3.0,0.3333,0.1951,1,0.0,0
+2026-11-07,Valencia vs Real Madrid,Javi Guerra,To Get a Card,0.5,3.2,0.3125,0.1379,1,0.0,0
+2026-11-07,Valencia vs Real Madrid,Carlos Espí,Player's shots on target,0.5,1.19,0.8403,0.1758,0,0.0,0
+2026-11-07,Valencia vs Real Madrid,Thiago Pitarch,To give an assist,0.5,5.5,0.1818,0.0252,0,0.0,0
+2026-11-07,Valencia vs Real Madrid,Jude Bellingham,To Get a Card,0.5,3.4,0.2941,0.1509,1,0.0,0
+2026-11-07,Valencia vs Real Madrid,Thiago Pitarch,To Score,0.5,6.25,0.16,0.0238,0,0.0,0
+2026-11-07,Valencia vs Real Madrid,Antonio Rüdiger,To Get a Card,0.5,4.7,0.2128,0.029,0,0.0,0
+2026-11-07,Valencia vs Real Madrid,Aliou Dieng,To Get a Card,0.5,3.7,0.2703,0.0247,0,0.0,0
+2026-11-07,Valencia vs Real Madrid,Éder Militão,To Get a Card,0.5,4.3,0.2326,0.0379,0,0.0,0
+2026-11-07,Valencia vs Real Madrid,Trent Alexander-Arnold,To Get a Card,0.5,4.2,0.2381,0.0312,0,0.0,0
+2026-11-07,Valencia vs Real Madrid,Carlos Espí,To give an assist,0.5,3.2,0.3125,0.0116,0,0.0,0
+2026-11-07,Valencia vs Real Madrid,Hugo Duro,Player's shots on target,0.5,1.64,0.6098,0.0896,0,0.0,0
+2026-11-07,Valencia vs Real Madrid,Ibrahima Konaté,To score at least 2 goals,1.5,67.0,0.0149,0.0003,1,0.0,0
+2026-11-07,Valencia vs Real Madrid,César Tárrega,Player's shots on target,0.5,6.0,0.1667,0.0965,1,0.0,0
+2026-11-07,Valencia vs Real Madrid,Trent Alexander-Arnold,To score at least 2 goals,1.5,71.0,0.0141,0.0002,0,0.0,0
+2026-11-07,Valencia vs Real Madrid,Guido Rodríguez,To give an assist,0.5,13.0,0.0769,0.0413,1,0.0,0
+2026-11-07,Valencia vs Real Madrid,Kylian Mbappé,Player's shots on target,3.5,3.7,0.2703,0.092,1,4.0,1
+2026-11-07,Valencia vs Real Madrid,Antonio Rüdiger,To give an assist,0.5,10.5,0.0952,0.0081,0,0.0,0
+2026-11-07,Valencia vs Real Madrid,Arnau Martínez,To give an assist,0.5,16.0,0.0625,0.0224,0,0.0,0
+2026-11-07,Valencia vs Real Madrid,Dean Huijsen,To give an assist,0.5,10.0,0.1,0.0314,1,0.0,0
+2026-11-07,Valencia vs Real Madrid,Dean Huijsen,To score at least 2 goals,1.5,71.0,0.0141,0.0006,1,0.0,0
+2026-11-07,Valencia vs Real Madrid,Hugo Duro,To score at least 2 goals,1.5,26.0,0.0385,0.0011,0,0.0,0
+2026-11-07,Valencia vs Real Madrid,Dean Huijsen,Player's shots on target,0.5,4.0,0.25,0.1345,1,0.0,0
+2026-11-07,Valencia vs Real Madrid,Jude Bellingham,Player's shots on target,1.5,3.7,0.2703,0.1435,1,2.0,1
+2026-11-07,Valencia vs Real Madrid,Pepelu,To give an assist,0.5,9.5,0.1053,0.0176,1,0.0,0
+2026-11-07,Valencia vs Real Madrid,Aliou Dieng,To give an assist,0.5,11.0,0.0909,0.0134,0,0.0,0
+2026-11-07,Valencia vs Real Madrid,Pablo Maffeo,To give an assist,0.5,13.0,0.0769,0.0533,1,0.0,0
+2026-11-07,Valencia vs Real Madrid,Aurélien Tchouaméni,To give an assist,0.5,9.0,0.1111,0.0637,1,0.0,0
+2026-11-07,Valencia vs Real Madrid,Umar Sadiq,To give an assist,0.5,9.5,0.1053,0.0802,1,0.0,0
+2026-11-07,Valencia vs Real Madrid,Jesús Vázquez,To give an assist,0.5,18.0,0.0556,0.0099,0,0.0,0
+2026-11-07,Valencia vs Real Madrid,Éder Militão,To give an assist,0.5,10.5,0.0952,0.0133,0,0.0,0
+2026-11-07,Valencia vs Real Madrid,Éder Militão,To score at least 2 goals,1.5,67.0,0.0149,0.0004,0,0.0,0
+2026-11-07,Valencia vs Real Madrid,Justin de Haas,Player's shots on target,0.5,5.5,0.1818,0.1683,1,0.0,0
+2026-11-07,Valencia vs Real Madrid,Marc Cucurella,To score at least 2 goals,1.5,76.0,0.0132,0.0004,1,0.0,0
+2026-11-07,Valencia vs Real Madrid,Umar Sadiq,Player's shots on target,1.5,4.7,0.2128,0.188,1,0.0,0
+2026-11-07,Valencia vs Real Madrid,Trent Alexander-Arnold,Player's shots on target,0.5,3.7,0.2703,0.0682,0,0.0,0
+2026-11-07,Valencia vs Real Madrid,Eduardo Camavinga,Player's shots on target,0.5,3.8,0.2632,0.0726,0,0.0,0
+2026-11-07,Valencia vs Real Madrid,Pablo Maffeo,Player's shots on target,0.5,6.0,0.1667,0.0815,1,0.0,0
+2026-11-07,Valencia vs Real Madrid,Arnau Martínez,Player's shots on target,0.5,6.25,0.16,0.0625,0,0.0,0
+2026-11-07,Valencia vs Real Madrid,Mouctar Diakhaby,Player's shots on target,0.5,6.0,0.1667,0.0791,0,0.0,0
+2026-11-07,Valencia vs Real Madrid,Yan Diomande,Player's shots on target,2.5,7.5,0.1333,0.0181,1,0.0,0
+2026-11-07,Valencia vs Real Madrid,Marc Cucurella,Player's shots on target,0.5,3.9,0.2564,0.1375,1,0.0,0
+2026-11-07,Valencia vs Real Madrid,Jesús Vázquez,Player's shots on target,0.5,5.8,0.1724,0.0649,0,0.0,0
+2026-11-07,Valencia vs Real Madrid,Carlos Espí,Player's shots on target,2.5,4.4,0.2273,0.001,0,0.0,0
+2026-11-07,Valencia vs Real Madrid,César Tárrega,To give an assist,0.5,17.0,0.0588,0.016,1,0.0,0
+2026-11-07,Valencia vs Real Madrid,Mouctar Diakhaby,To give an assist,0.5,15.0,0.0667,0.0086,0,0.0,0
+2026-11-07,Valencia vs Real Madrid,Filip Ugrinic,To give an assist,0.5,12.5,0.08,0.0135,0,0.0,0
+2026-11-07,Valencia vs Real Madrid,Ibrahima Konaté,To give an assist,0.5,10.0,0.1,0.0163,1,0.0,0
+2026-11-07,Valencia vs Real Madrid,José Gayà,To give an assist,0.5,16.0,0.0625,0.0398,1,0.0,0
+2026-11-07,Valencia vs Real Madrid,Thiago Pitarch,To score at least 2 goals,1.5,56.0,0.0179,0.0003,0,0.0,0
+2026-11-07,Valencia vs Real Madrid,Arda Guler,Player's shots on target,1.5,3.35,0.2985,0.1644,1,2.0,1
+2026-11-07,Valencia vs Real Madrid,José Gayà,Player's shots on target,0.5,6.0,0.1667,0.1487,1,0.0,0
+2026-11-07,Valencia vs Real Madrid,Antonio Rüdiger,Player's shots on target,0.5,3.9,0.2564,0.0738,0,0.0,0
+2026-11-07,Valencia vs Real Madrid,Éder Militão,Player's shots on target,0.5,3.7,0.2703,0.1039,0,0.0,0
+2026-11-07,Valencia vs Real Madrid,Jude Bellingham,To Score,0.5,3.1,0.3226,0.2061,1,0.0,0
+2026-11-07,Valencia vs Real Madrid,Denzel Dumfries,To score at least 2 goals,1.5,56.0,0.0179,0.0006,0,0.0,0
+2026-11-07,Valencia vs Real Madrid,Ibrahima Konaté,To Get a Card,0.5,3.9,0.2564,0.1886,1,0.0,0
+2026-11-07,Valencia vs Real Madrid,Guido Rodríguez,To Score,0.5,15.0,0.0667,0.1147,1,0.0,0
+2026-11-07,Valencia vs Real Madrid,Bernardo Silva,Player's shots on target,0.5,2.12,0.4717,0.2375,1,0.0,0
+2026-11-07,Valencia vs Real Madrid,Javi Guerra,To Score,0.5,8.5,0.1176,0.1072,1,0.0,0
+2026-11-07,Valencia vs Real Madrid,Yan Diomande,To give an assist,0.5,2.65,0.3774,0.2097,1,0.0,0
+2026-11-07,Valencia vs Real Madrid,Bernardo Silva,To give an assist,0.5,3.3,0.303,0.0836,1,0.0,0
+2026-11-07,Valencia vs Real Madrid,Carlos Espí,Player's shots on target,1.5,2.18,0.4587,0.0164,0,0.0,0
+2026-11-07,Valencia vs Real Madrid,Kylian Mbappé,To score at least 2 goals,1.5,3.2,0.3125,0.139,1,1.0,0
+2026-11-07,Valencia vs Real Madrid,Arnau Martínez,To Score,0.5,17.0,0.0588,0.0228,0,0.0,0
+2026-11-07,Valencia vs Real Madrid,Brahim Díaz,To Get a Card,0.5,4.5,0.2222,0.0244,0,0.0,0
+2026-11-07,Valencia vs Real Madrid,Eduardo Camavinga,To give an assist,0.5,5.0,0.2,0.0205,0,0.0,0
+2026-11-07,Valencia vs Real Madrid,Aurélien Tchouaméni,To score at least 2 goals,1.5,61.0,0.0164,0.0019,1,0.0,0
+2026-11-07,Valencia vs Real Madrid,Yan Diomande,To Get a Card,0.5,4.0,0.25,0.0971,1,1.0,1
+2026-11-07,Valencia vs Real Madrid,Federico Valverde,To give an assist,0.5,3.1,0.3226,0.1238,1,0.0,0
+2026-11-07,Valencia vs Real Madrid,Carlos Espí,To Score,0.5,2.07,0.4831,0.0862,0,0.0,0
+2026-11-07,Valencia vs Real Madrid,Carlos Espí,To score at least 2 goals,1.5,6.25,0.16,0.0038,0,0.0,0
+2026-11-07,Valencia vs Real Madrid,Ibrahima Konaté,To Score,0.5,7.5,0.1333,0.0231,1,0.0,0
+2026-11-07,Valencia vs Real Madrid,Pablo Maffeo,To Get a Card,0.5,2.6,0.3846,0.2473,1,1.0,1
+2026-11-07,Valencia vs Real Madrid,Jesús Vázquez,To Score,0.5,15.0,0.0667,0.0222,0,0.0,0
+2026-11-07,Valencia vs Real Madrid,José Gayà,To Get a Card,0.5,3.1,0.3226,0.1445,1,1.0,1
+2026-11-07,Valencia vs Real Madrid,Brahim Díaz,Player's shots on target,0.5,2.35,0.4255,0.1016,0,0.0,0
+2026-11-07,Valencia vs Real Madrid,Arnaut Danjuma,To score at least 2 goals,1.5,35.0,0.0286,0.0041,1,0.0,0
+2026-11-07,Valencia vs Real Madrid,Arnaut Danjuma,To Score,0.5,4.7,0.2128,0.0891,1,0.0,0
+2026-11-07,Valencia vs Real Madrid,Jude Bellingham,To score at least 2 goals,1.5,12.5,0.08,0.0229,1,0.0,0
+2026-11-07,Valencia vs Real Madrid,Federico Valverde,To Score,0.5,5.0,0.2,0.1386,1,1.0,1
+2026-11-07,Valencia vs Real Madrid,Marc Cucurella,To Score,0.5,7.5,0.1333,0.0282,1,0.0,0
+2026-11-07,Valencia vs Real Madrid,Aurélien Tchouaméni,To Score,0.5,6.5,0.1538,0.0604,1,0.0,0
+2026-11-07,Valencia vs Real Madrid,Hugo Duro,To Score,0.5,4.2,0.2381,0.0459,0,0.0,0
+2026-11-07,Valencia vs Real Madrid,Denzel Dumfries,To give an assist,0.5,3.0,0.3333,0.025,0,0.0,0
+2026-11-07,Valencia vs Real Madrid,Kylian Mbappé,Player's shots on target,1.5,1.32,0.7576,0.5043,1,4.0,1
+2026-11-07,Valencia vs Real Madrid,Jesús Vázquez,To Get a Card,0.5,2.9,0.3448,0.0252,0,0.0,0
+2026-11-07,Valencia vs Real Madrid,Trent Alexander-Arnold,To Score,0.5,7.5,0.1333,0.0203,0,0.0,0
+2026-11-07,Valencia vs Real Madrid,Pepelu,To Score,0.5,10.5,0.0952,0.065,1,0.0,0
+2026-11-07,Valencia vs Real Madrid,Brahim Díaz,To score at least 2 goals,1.5,29.0,0.0345,0.0004,0,0.0,0
+2026-11-07,Valencia vs Real Madrid,Federico Valverde,To Get a Card,0.5,4.4,0.2273,0.0948,1,0.0,0
+2026-11-07,Valencia vs Real Madrid,Dean Huijsen,To Get a Card,0.5,3.9,0.2564,0.2283,1,0.0,0
+2026-11-07,Valencia vs Real Madrid,Eduardo Camavinga,To Get a Card,0.5,3.7,0.2703,0.0435,0,0.0,0
+2026-11-07,Valencia vs Real Madrid,Yan Diomande,To score at least 2 goals,1.5,10.0,0.1,0.0311,1,0.0,0
+2026-11-07,Valencia vs Real Madrid,Brahim Díaz,To give an assist,0.5,3.1,0.3226,0.0541,0,0.0,0
+2026-11-07,Valencia vs Real Madrid,Thiago Pitarch,To Get a Card,0.5,3.3,0.303,0.031,0,0.0,0
+2026-11-07,Valencia vs Real Madrid,Filip Ugrinic,To Score,0.5,12.0,0.0833,0.0176,0,0.0,0
+2026-11-07,Valencia vs Real Madrid,Marc Cucurella,To Get a Card,0.5,3.6,0.2778,0.1945,1,0.0,0
+2026-11-07,Valencia vs Real Madrid,Luis Rioja,To Score,0.5,9.5,0.1053,0.0358,0,0.0,0
+2026-11-07,Valencia vs Real Madrid,Antonio Rüdiger,To Score,0.5,8.0,0.125,0.0346,0,0.0,0
+2026-11-07,Valencia vs Real Madrid,Umar Sadiq,To Get a Card,0.5,3.5,0.2857,0.1517,1,0.0,0
+2026-11-07,Valencia vs Real Madrid,Javi Guerra,To give an assist,0.5,7.5,0.1333,0.146,1,0.0,0
+2026-11-07,Valencia vs Real Madrid,Dean Huijsen,To Score,0.5,7.5,0.1333,0.0339,1,0.0,0
+2026-11-07,Valencia vs Real Madrid,Luis Rioja,To Get a Card,0.5,3.6,0.2778,0.0179,0,1.0,1
+2026-11-07,Valencia vs Real Madrid,José Gayà,To Score,0.5,16.0,0.0625,0.0231,1,0.0,0
+2026-11-07,Valencia vs Real Madrid,Aurélien Tchouaméni,Player's shots on target,0.5,3.3,0.303,0.2219,1,1.0,1
+2026-11-07,Valencia vs Real Madrid,Pepelu,Player's shots on target,0.5,3.8,0.2632,0.1118,1,0.0,0
+2026-11-07,Valencia vs Real Madrid,Yan Diomande,Player's shots on target,1.5,3.2,0.3125,0.1045,1,0.0,0
+2026-11-07,Valencia vs Real Madrid,Arda Guler,To score at least 2 goals,1.5,30.0,0.0333,0.0147,1,1.0,0
+2026-11-07,Valencia vs Real Madrid,Ibrahima Konaté,Player's shots on target,0.5,3.8,0.2632,0.1049,1,0.0,0
+2026-11-07,Valencia vs Real Madrid,Bernardo Silva,To Get a Card,0.5,4.0,0.25,0.1445,1,0.0,0
+2026-11-07,Valencia vs Real Madrid,Aurélien Tchouaméni,To Get a Card,0.5,4.1,0.2439,0.1848,1,0.0,0
+2026-11-07,Valencia vs Real Madrid,Arda Guler,To Get a Card,0.5,4.5,0.2222,0.1039,1,0.0,0
+2026-11-07,Valencia vs Real Madrid,Guido Rodríguez,To Get a Card,0.5,3.5,0.2857,0.2151,1,1.0,1
+2026-11-07,Valencia vs Real Madrid,Eduardo Camavinga,To Score,0.5,7.5,0.1333,0.0226,0,0.0,0
+2026-11-07,Valencia vs Real Madrid,Umar Sadiq,To Score,0.5,4.7,0.2128,0.2586,1,0.0,0
+2026-11-07,Valencia vs Real Madrid,Pepelu,To Get a Card,0.5,3.3,0.303,0.161,1,1.0,1
+2026-11-07,Valencia vs Real Madrid,Jude Bellingham,To give an assist,0.5,2.7,0.3704,0.1305,1,0.0,0
+2026-11-07,Valencia vs Real Madrid,Carlos Espí,To score at least 3 goals,2.5,23.0,0.0435,0.0001,0,0.0,0
+2026-11-07,Valencia vs Real Madrid,Pablo Maffeo,To Score,0.5,17.0,0.0588,0.02,1,0.0,0
+2026-11-07,Valencia vs Real Madrid,Hugo Duro,Player's shots on target,1.5,3.9,0.2564,0.0041,0,0.0,0
+2026-11-07,Valencia vs Real Madrid,Mouctar Diakhaby,To Score,0.5,17.0,0.0588,0.0286,0,0.0,0
+2026-11-07,Valencia vs Real Madrid,Kylian Mbappé,To give an assist,0.5,3.5,0.2857,0.125,1,0.0,0
+2026-11-07,Valencia vs Real Madrid,Arnaut Danjuma,Player's shots on target,0.5,1.79,0.5587,0.3959,1,1.0,1
+2026-11-07,Valencia vs Real Madrid,Umar Sadiq,To score at least 2 goals,1.5,29.0,0.0345,0.0368,1,0.0,0
+2026-11-07,Valencia vs Real Madrid,Jude Bellingham,Player's shots on target,0.5,1.55,0.6452,0.4854,1,2.0,1
+2026-11-07,Valencia vs Real Madrid,Filip Ugrinic,To Get a Card,0.5,3.2,0.3125,0.0237,0,0.0,0
+2026-11-07,Valencia vs Real Madrid,Federico Valverde,To score at least 2 goals,1.5,36.0,0.0278,0.0101,1,1.0,0
+2026-11-07,Valencia vs Real Madrid,Kylian Mbappé,Player's shots on target,2.5,2.15,0.4651,0.2407,1,4.0,1
+2026-11-07,Valencia vs Real Madrid,Carlos Espí,To Get a Card,0.5,4.3,0.2326,0.0289,0,0.0,0
+2026-11-07,Valencia vs Real Madrid,Luis Rioja,Player's shots on target,0.5,3.4,0.2941,0.0723,0,0.0,0
+2026-11-07,Valencia vs Real Madrid,Denzel Dumfries,Player's shots on target,0.5,3.0,0.3333,0.0938,0,0.0,0
+2026-11-07,Valencia vs Real Madrid,Kylian Mbappé,To Get a Card,0.5,3.8,0.2632,0.1244,1,1.0,1
+2026-11-07,Valencia vs Real Madrid,Aliou Dieng,Player's shots on target,0.5,3.45,0.2899,0.0832,0,0.0,0
+2026-11-07,Valencia vs Real Madrid,Arda Guler,To give an assist,0.5,2.7,0.3704,0.2183,1,1.0,1
+2026-11-07,Valencia vs Real Madrid,Denzel Dumfries,To Score,0.5,5.6,0.1786,0.0341,0,0.0,0
+2026-11-07,Valencia vs Real Madrid,César Tárrega,To Get a Card,0.5,2.75,0.3636,0.1773,1,0.0,0
+2026-11-07,Valencia vs Real Madrid,Bernardo Silva,To score at least 2 goals,1.5,21.0,0.0476,0.0049,1,0.0,0
+2026-11-07,Valencia vs Real Madrid,Yan Diomande,To Score,0.5,2.7,0.3704,0.2388,1,0.0,0
+2026-11-07,Valencia vs Real Madrid,Mouctar Diakhaby,To Get a Card,0.5,3.2,0.3125,0.0494,0,0.0,0
+2026-11-07,Paris SG vs Troyes,Dermane Karim,To Score,0.5,8.5,0.1176,0.061,1,0.0,0
+2026-11-07,Paris SG vs Troyes,Joao Neves,To give an assist,0.5,3.5,0.2857,0.0332,0,0.0,0
+2026-11-07,Paris SG vs Troyes,Timothe Nkada,To give an assist,0.5,6.0,0.1667,0.0231,0,0.0,0
+2026-11-07,Paris SG vs Troyes,Dermane Karim,To score at least 2 goals,1.5,81.0,0.0123,0.0019,1,0.0,0
+2026-11-07,Paris SG vs Troyes,Ferran Torres,Player's shots on target,1.5,1.46,0.6849,0.2988,1,4.0,1
+2026-11-07,Paris SG vs Troyes,Yvann Titi,Player's shots on target,0.5,7.5,0.1333,0.056,0,0.0,0
+2026-11-07,Paris SG vs Troyes,Renaud Ripart,To Get a Card,0.5,3.6,0.2778,0.128,1,0.0,0
+2026-11-07,Paris SG vs Troyes,Désiré Doué,To score at least 2 goals,1.5,6.0,0.1667,0.0339,1,0.0,0
+2026-11-07,Paris SG vs Troyes,Ferran Torres,Player's shots on target,3.5,4.2,0.2381,0.0253,1,4.0,1
+2026-11-07,Paris SG vs Troyes,Mika Godts,Player's shots on target,2.5,4.9,0.2041,0.0346,1,0.0,0
+2026-11-07,Paris SG vs Troyes,Merwan Ifnaoui,Player's shots on target,0.5,3.5,0.2857,0.2626,1,0.0,0
+2026-11-07,Paris SG vs Troyes,Renaud Ripart,Player's shots on target,0.5,1.98,0.5051,0.5113,1,1.0,1
+2026-11-07,Paris SG vs Troyes,Timothe Nkada,To Score,0.5,5.75,0.1739,0.0541,0,0.0,0
+2026-11-07,Paris SG vs Troyes,Désiré Doué,To give an assist,0.5,2.35,0.4255,0.2012,1,0.0,0
+2026-11-07,Paris SG vs Troyes,Vitinha,To Score,0.5,5.0,0.2,0.1404,1,0.0,0
+2026-11-07,Paris SG vs Troyes,Lucas Digne,To give an assist,0.5,3.4,0.2941,0.0252,0,0.0,0
+2026-11-07,Paris SG vs Troyes,Ferran Torres,To score at least 2 goals,1.5,3.3,0.303,0.0621,1,0.0,0
+2026-11-07,Paris SG vs Troyes,Lucas Beraldo,To Score,0.5,6.5,0.1538,0.0338,0,0.0,0
+2026-11-07,Paris SG vs Troyes,Merwan Ifnaoui,To give an assist,0.5,10.0,0.1,0.0769,1,0.0,0
+2026-11-07,Paris SG vs Troyes,Warren Zaïre-Emery,Player's shots on target,0.5,3.3,0.303,0.1492,1,0.0,0
+2026-11-07,Paris SG vs Troyes,Mouhamed Diop,To Get a Card,0.5,8.0,0.125,0.1119,1,0.0,0
+2026-11-07,Paris SG vs Troyes,Yvann Titi,To Get a Card,0.5,7.0,0.1429,0.0278,0,0.0,0
+2026-11-07,Paris SG vs Troyes,Lucas Hernández,To give an assist,0.5,8.5,0.1176,0.0517,1,0.0,0
+2026-11-07,Paris SG vs Troyes,Joao Neves,To score at least 2 goals,1.5,29.0,0.0345,0.0007,0,0.0,0
+2026-11-07,Paris SG vs Troyes,Senny Mayulu,To give an assist,0.5,2.8,0.3571,0.123,1,1.0,1
+2026-11-07,Paris SG vs Troyes,Antoine Mille,Player's shots on target,0.5,4.6,0.2174,0.3239,1,0.0,0
+2026-11-07,Paris SG vs Troyes,Désiré Doué,To Get a Card,0.5,6.75,0.1481,0.0692,1,0.0,0
+2026-11-07,Paris SG vs Troyes,Warren Zaïre-Emery,To Get a Card,0.5,6.5,0.1538,0.1256,1,0.0,0
+2026-11-07,Paris SG vs Troyes,Senny Mayulu,To score at least 2 goals,1.5,9.0,0.1111,0.023,1,0.0,0
+2026-11-07,Paris SG vs Troyes,Adrien Monfray,Player's shots on target,0.5,7.5,0.1333,0.162,1,0.0,0
+2026-11-07,Paris SG vs Troyes,Fabián Ruiz,To give an assist,0.5,3.8,0.2632,0.1635,1,0.0,0
+2026-11-07,Paris SG vs Troyes,Quentin Ndjantou,To Score,0.5,3.15,0.3175,0.0365,0,0.0,0
+2026-11-07,Paris SG vs Troyes,Lucas Maronnier,To Get a Card,0.5,4.0,0.25,0.1588,1,0.0,0
+2026-11-07,Paris SG vs Troyes,Mika Godts,To give an assist,0.5,2.4,0.4167,0.2204,1,0.0,0
+2026-11-07,Paris SG vs Troyes,Quentin Ndjantou,Player's shots on target,0.5,1.62,0.6173,0.1028,0,0.0,0
+2026-11-07,Paris SG vs Troyes,Quentin Ndjantou,To Get a Card,0.5,6.0,0.1667,0.0439,0,0.0,0
+2026-11-07,Paris SG vs Troyes,Quentin Ndjantou,Player's shots on target,1.5,3.8,0.2632,0.0055,0,0.0,0
+2026-11-07,Paris SG vs Troyes,Quentin Ndjantou,To give an assist,0.5,4.0,0.25,0.0418,0,0.0,0
+2026-11-07,Paris SG vs Troyes,Quentin Ndjantou,To score at least 2 goals,1.5,13.0,0.0769,0.0007,0,0.0,0
+2026-11-07,Paris SG vs Troyes,Renaud Ripart,To give an assist,0.5,18.0,0.0556,0.04,1,0.0,0
+2026-11-07,Paris SG vs Troyes,Ismael Boura,To give an assist,0.5,16.0,0.0625,0.0525,1,0.0,0
+2026-11-07,Paris SG vs Troyes,Lucas Maronnier,To give an assist,0.5,18.0,0.0556,0.0305,1,0.0,0
+2026-11-07,Paris SG vs Troyes,Lucas Hernández,To score at least 2 goals,1.5,51.0,0.0196,0.0014,1,0.0,0
+2026-11-07,Paris SG vs Troyes,Mouhamed Diop,To give an assist,0.5,16.0,0.0625,0.0461,1,0.0,0
+2026-11-07,Paris SG vs Troyes,Antoine Mille,To score at least 2 goals,1.5,151.0,0.0066,0.0052,1,0.0,0
+2026-11-07,Paris SG vs Troyes,Lucas Hernández,To Score,0.5,6.5,0.1538,0.0522,1,0.0,0
+2026-11-07,Paris SG vs Troyes,Illia Zabarnyi,To Get a Card,0.5,6.5,0.1538,0.1425,1,1.0,1
+2026-11-07,Paris SG vs Troyes,Joao Neves,To Get a Card,0.5,6.25,0.16,0.0201,0,0.0,0
+2026-11-07,Paris SG vs Troyes,Lucas Hernández,Player's shots on target,0.5,3.3,0.303,0.1579,1,0.0,0
+2026-11-07,Paris SG vs Troyes,Willian Pacho,To score at least 2 goals,1.5,56.0,0.0179,0.0002,1,0.0,0
+2026-11-07,Paris SG vs Troyes,Timothe Nkada,Player's shots on target,0.5,2.3,0.4348,0.1358,0,0.0,0
+2026-11-07,Paris SG vs Troyes,Ismael Boura,To Get a Card,0.5,5.75,0.1739,0.1881,1,0.0,0
+2026-11-07,Paris SG vs Troyes,Lucas Beraldo,To score at least 2 goals,1.5,61.0,0.0164,0.0006,0,0.0,0
+2026-11-07,Paris SG vs Troyes,Warren Zaïre-Emery,To score at least 2 goals,1.5,61.0,0.0164,0.001,1,0.0,0
+2026-11-07,Paris SG vs Troyes,Désiré Doué,Player's shots on target,3.5,8.0,0.125,0.0141,1,0.0,0
+2026-11-07,Paris SG vs Troyes,Désiré Doué,Player's shots on target,0.5,1.15,0.8696,0.5987,1,0.0,0
+2026-11-07,Paris SG vs Troyes,Ferran Torres,To Get a Card,0.5,7.0,0.1429,0.068,1,0.0,0
+2026-11-07,Paris SG vs Troyes,Willian Pacho,To Get a Card,0.5,5.8,0.1724,0.0695,1,0.0,0
+2026-11-07,Paris SG vs Troyes,Dermane Karim,To Get a Card,0.5,4.7,0.2128,0.1171,1,0.0,0
+2026-11-07,Paris SG vs Troyes,Lucas Digne,Player's shots on target,0.5,3.25,0.3077,0.0631,0,0.0,0
+2026-11-07,Paris SG vs Troyes,Illia Zabarnyi,Player's shots on target,0.5,3.4,0.2941,0.1129,1,2.0,1
+2026-11-07,Paris SG vs Troyes,Mika Godts,To score at least 2 goals,1.5,7.5,0.1333,0.0304,1,0.0,0
+2026-11-07,Paris SG vs Troyes,Ismael Boura,Player's shots on target,0.5,6.75,0.1481,0.135,1,1.0,1
+2026-11-07,Paris SG vs Troyes,Willian Pacho,Player's shots on target,0.5,3.4,0.2941,0.0699,1,0.0,0
+2026-11-07,Paris SG vs Troyes,Lucas Maronnier,Player's shots on target,0.5,7.5,0.1333,0.1302,1,0.0,0
+2026-11-07,Paris SG vs Troyes,Adrien Monfray,To Get a Card,0.5,4.4,0.2273,0.148,1,0.0,0
+2026-11-07,Paris SG vs Troyes,Willian Pacho,To give an assist,0.5,9.0,0.1111,0.0263,1,0.0,0
+2026-11-07,Paris SG vs Troyes,Désiré Doué,Player's shots on target,2.5,3.7,0.2703,0.065,1,0.0,0
+2026-11-07,Paris SG vs Troyes,Fabián Ruiz,To score at least 2 goals,1.5,29.0,0.0345,0.0169,1,0.0,0
+2026-11-07,Paris SG vs Troyes,Fabián Ruiz,To Get a Card,0.5,6.0,0.1667,0.1185,1,0.0,0
+2026-11-07,Paris SG vs Troyes,Willian Pacho,To Score,0.5,6.5,0.1538,0.0217,1,0.0,0
+2026-11-07,Paris SG vs Troyes,Mika Godts,To Score,0.5,2.25,0.4444,0.2363,1,0.0,0
+2026-11-07,Paris SG vs Troyes,Antoine Mille,To Score,0.5,13.0,0.0769,0.1002,1,0.0,0
+2026-11-07,Paris SG vs Troyes,Yvann Titi,To Score,0.5,21.0,0.0476,0.0199,0,0.0,0
+2026-11-07,Paris SG vs Troyes,Lucas Maronnier,To Score,0.5,21.0,0.0476,0.0411,1,0.0,0
+2026-11-07,Paris SG vs Troyes,Mika Godts,To Get a Card,0.5,5.75,0.1739,0.0972,1,0.0,0
+2026-11-07,Paris SG vs Troyes,Lucas Hernández,To Get a Card,0.5,5.75,0.1739,0.1455,1,0.0,0
+2026-11-07,Paris SG vs Troyes,Vitinha,Player's shots on target,0.5,2.45,0.4082,0.3684,1,0.0,0
+2026-11-07,Paris SG vs Troyes,Mika Godts,Player's shots on target,1.5,2.38,0.4202,0.157,1,0.0,0
+2026-11-07,Paris SG vs Troyes,Fabián Ruiz,Player's shots on target,0.5,2.3,0.4348,0.4615,1,0.0,0
+2026-11-07,Paris SG vs Troyes,Ferran Torres,To Score,0.5,1.46,0.6849,0.331,1,0.0,0
+2026-11-07,Paris SG vs Troyes,Lucas Beraldo,To Get a Card,0.5,6.25,0.16,0.0237,0,0.0,0
+2026-11-07,Paris SG vs Troyes,Merwan Ifnaoui,To score at least 2 goals,1.5,101.0,0.0099,0.0049,1,0.0,0
+2026-11-07,Paris SG vs Troyes,Ismael Boura,To Score,0.5,15.0,0.0667,0.0574,1,0.0,0
+2026-11-07,Paris SG vs Troyes,Mouhamed Diop,To Score,0.5,14.0,0.0714,0.0956,1,0.0,0
+2026-11-07,Paris SG vs Troyes,Vitinha,To Get a Card,0.5,8.5,0.1176,0.1218,1,0.0,0
+2026-11-07,Paris SG vs Troyes,Illia Zabarnyi,To score at least 2 goals,1.5,56.0,0.0179,0.0013,1,1.0,0
+2026-11-07,Paris SG vs Troyes,Warren Zaïre-Emery,To give an assist,0.5,4.3,0.2326,0.0987,1,0.0,0
+2026-11-07,Paris SG vs Troyes,Renaud Ripart,Player's shots on target,1.5,5.2,0.1923,0.1614,1,1.0,0
+2026-11-07,Paris SG vs Troyes,Joao Neves,Player's shots on target,0.5,2.25,0.4444,0.1195,0,0.0,0
+2026-11-07,Paris SG vs Troyes,Merwan Ifnaoui,To Get a Card,0.5,9.5,0.1053,0.0838,1,0.0,0
+2026-11-07,Paris SG vs Troyes,Désiré Doué,To score at least 3 goals,2.5,20.0,0.05,0.0032,1,0.0,0
+2026-11-07,Paris SG vs Troyes,Antoine Mille,To Get a Card,0.5,4.2,0.2381,0.1662,1,1.0,1
+2026-11-07,Paris SG vs Troyes,Lucas Beraldo,Player's shots on target,0.5,3.3,0.303,0.0787,0,0.0,0
+2026-11-07,Paris SG vs Troyes,Mouhamed Diop,Player's shots on target,0.5,4.7,0.2128,0.3009,1,0.0,0
+2026-11-07,Paris SG vs Troyes,Lucas Digne,To Score,0.5,6.5,0.1538,0.0194,0,0.0,0
+2026-11-07,Paris SG vs Troyes,Lucas Digne,To Get a Card,0.5,5.75,0.1739,0.0238,0,0.0,0
+2026-11-07,Paris SG vs Troyes,Antoine Mille,To give an assist,0.5,8.5,0.1176,0.1211,1,0.0,0
+2026-11-07,Paris SG vs Troyes,Yvann Titi,To give an assist,0.5,8.0,0.125,0.0288,0,0.0,0
+2026-11-07,Paris SG vs Troyes,Lucas Digne,To score at least 2 goals,1.5,56.0,0.0179,0.0002,0,0.0,0
+2026-11-07,Paris SG vs Troyes,Timothe Nkada,To Get a Card,0.5,6.5,0.1538,0.03,0,0.0,0
+2026-11-07,Paris SG vs Troyes,Timothe Nkada,Player's shots on target,1.5,7.0,0.1429,0.0097,0,0.0,0
+2026-11-07,Paris SG vs Troyes,Lucas Beraldo,To give an assist,0.5,8.5,0.1176,0.0133,0,0.0,0
+2026-11-07,Paris SG vs Troyes,Dermane Karim,To give an assist,0.5,9.0,0.1111,0.0624,1,0.0,0
+2026-11-07,Paris SG vs Troyes,Illia Zabarnyi,To give an assist,0.5,8.5,0.1176,0.0199,1,0.0,0
+2026-11-07,Paris SG vs Troyes,Dermane Karim,Player's shots on target,0.5,3.2,0.3125,0.2098,1,1.0,1
+2026-11-07,Paris SG vs Troyes,Vitinha,To give an assist,0.5,2.85,0.3509,0.1147,1,0.0,0
+2026-11-07,Paris SG vs Troyes,Senny Mayulu,To Get a Card,0.5,7.0,0.1429,0.12,1,0.0,0
+2026-11-07,Paris SG vs Troyes,Désiré Doué,Player's shots on target,1.5,1.98,0.5051,0.2323,1,0.0,0
+2026-11-07,Paris SG vs Troyes,Fabián Ruiz,To Score,0.5,4.5,0.2222,0.1783,1,0.0,0
+2026-11-07,Paris SG vs Troyes,Senny Mayulu,Player's shots on target,1.5,2.95,0.339,0.1095,1,1.0,0
+2026-11-07,Paris SG vs Troyes,Warren Zaïre-Emery,To Score,0.5,6.5,0.1538,0.045,1,0.0,0
+2026-11-07,Paris SG vs Troyes,Senny Mayulu,Player's shots on target,0.5,1.41,0.7092,0.4298,1,1.0,1
+2026-11-07,Paris SG vs Troyes,Ferran Torres,To score at least 3 goals,2.5,8.0,0.125,0.008,1,0.0,0
+2026-11-07,Paris SG vs Troyes,Merwan Ifnaoui,To Score,0.5,9.5,0.1053,0.097,1,0.0,0
+2026-11-07,Paris SG vs Troyes,Senny Mayulu,To Score,0.5,2.65,0.3774,0.2066,1,0.0,0
+2026-11-07,Paris SG vs Troyes,Ferran Torres,To give an assist,0.5,3.0,0.3333,0.1068,1,0.0,0
+2026-11-07,Paris SG vs Troyes,Illia Zabarnyi,To Score,0.5,6.5,0.1538,0.05,1,1.0,1
+2026-11-07,Paris SG vs Troyes,Ferran Torres,Player's shots on target,2.5,2.45,0.4082,0.0984,1,4.0,1
+2026-11-07,Paris SG vs Troyes,Joao Neves,To Score,0.5,4.3,0.2326,0.0362,0,0.0,0
+2026-11-07,Paris SG vs Troyes,Ferran Torres,Player's shots on target,0.5,1.03,0.9709,0.6651,1,4.0,1
+2026-11-07,Paris SG vs Troyes,Désiré Doué,To Score,0.5,2.04,0.4902,0.2488,1,0.0,0
+2026-11-07,Paris SG vs Troyes,Mika Godts,Player's shots on target,0.5,1.25,0.8,0.5052,1,0.0,0
+2026-11-07,Paris SG vs Troyes,Adrien Monfray,To Score,0.5,21.0,0.0476,0.0134,1,0.0,0
+2026-11-07,Paris SG vs Troyes,Renaud Ripart,To Score,0.5,4.8,0.2083,0.183,1,0.0,0
+2026-11-07,Paris SG vs Troyes,Senny Mayulu,Player's shots on target,2.5,7.0,0.1429,0.0195,1,1.0,0
+2026-11-07,Paris SG vs Troyes,Ferran Torres,Player's shots on target,4.5,8.0,0.125,0.0053,1,4.0,0
