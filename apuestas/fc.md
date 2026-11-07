@@ -1,61 +1,61 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 07/11/2026 16:26 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 07/11/2026 16:56 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## Gaga vs Rodja — 07/11 · 16:34
+## pikalicaaa vs Dicca — 07/11 · 17:01
 
-👀 candidata · 🎮⚽ FC 27 · Serie A · **Gana Gaga** @ **3.00** (Unibet) · prob 36% vs casas 29% · ventaja +9%
+👀 candidata · 🎮⚽ FC 27 · Europa League · **Gana Dicca** @ **1.95** (Unibet) · prob 56% vs casas 45% · ventaja +10%
 
-- ❌ Valor: ventaja +9% (mín. 11% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+- ❌ Valor: ventaja +10% (mín. 11% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 59.575 partidos)  
-Goles esperados: Gaga 2.19 · Rodja 2.31  
-Ganador: Gaga 36% · empate 24% · Rodja 40%  
-Total: más de 4.5 goles 47% · menos 53%  
-Hándicap Rodja: −1.5 25% · −2.5 13%  
+📊 **Escenarios** (Poisson por jugador, 59.603 partidos)  
+Goles esperados: pikalicaaa 2.19 · Dicca 3.12  
+Ganador: pikalicaaa 23% · empate 20% · Dicca 56%  
+Total: más de 5.5 goles 44% · menos 56%  
+Hándicap Dicca: −1.5 39% · −2.5 24%  
 🔎 **Claves**  
-• Forma: Gaga ✅❌➖➖❌ | Rodja ❌❌➖➖❌  
-• Partidos: Gaga 1099 | Rodja 955  
-• Liga: Serie A  
-• Unibet: 1 3.00 · X 2.48 · 2 2.40 (sin margen 29%/35%/36%) · ventaja +9%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 3.00 (+9%) · Paf España 3.00 (+9%)  
-
-## llulle vs Glumac — 07/11 · 16:40
-
-👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana Glumac** @ **2.25** (Unibet) · prob 51% vs casas 39% · ventaja +15%
-
-- ✅ Valor: ventaja +15% (mín. 12% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 59.575 partidos)  
-Goles esperados: llulle 2.74 · Glumac 3.39  
-Ganador: llulle 28% · empate 20% · Glumac 51%  
-Total: más de 6.5 goles 42% · menos 58%  
-Hándicap Glumac: −1.5 36% · −2.5 22%  
-🔎 **Claves**  
-• Forma: llulle ✅❌❌➖❌ | Glumac ❌✅✅✅➖  
-• Partidos: llulle 892 | Glumac 746  
-• Liga: Champions League B  
-• Unibet: 1 2.17 · X 4.10 · 2 2.25 (sin margen 40%/21%/39%) · ventaja +15%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.25 (+15%) · Paf España 2.25 (+15%)  
-
-## Dicca vs DEKSON — 07/11 · 16:49
-
-👀 candidata · 🎮⚽ FC 27 · Europa League · **Empate** @ **4.80** (Unibet) · prob 23% vs casas 18% · ventaja +9%
-
-- ❌ Valor: ventaja +9% (mín. 10% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 59.575 partidos)  
-Goles esperados: Dicca 2.69 · DEKSON 2.08  
-Ganador: Dicca 51% · empate 23% · DEKSON 26%  
-Total: más de 4.5 goles 52% · menos 48%  
-Hándicap Dicca: −1.5 33% · −2.5 19%  
-🔎 **Claves**  
-• Forma: Dicca ➖❌✅✅✅ | DEKSON ✅✅➖✅❌  
-• Partidos: Dicca 676 | DEKSON 460  
+• Forma: pikalicaaa ❌❌❌✅➖ | Dicca ✅✅✅❌✅  
+• Partidos: pikalicaaa 620 | Dicca 678  
 • Liga: Europa League  
-• Unibet: 1 1.75 · X 4.80 · 2 2.75 (sin margen 50%/18%/32%) · ventaja +9%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 4.80 (+9%) · Paf España 4.80 (+9%)  
+• Unibet: 1 2.55 · X 4.10 · 2 1.95 (sin margen 34%/21%/45%) · ventaja +10%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 1.95 (+10%) · Paf España 1.95 (+10%)  
+
+## spirtes vs saportj — 07/11 · 17:02
+
+👀 candidata · 🎮⚽ FC 27 · A-League · **Gana spirtes** @ **2.30** (Unibet) · prob 47% vs casas 38% · ventaja +8%
+
+- ❌ Valor: ventaja +8% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 59.603 partidos)  
+Goles esperados: spirtes 2.54 · saportj 2.38  
+Ganador: spirtes 47% · empate 20% · saportj 33%  
+Total: más de 4.5 goles 55% · menos 45%  
+Hándicap spirtes: −1.5 26% · −2.5 14%  
+🔎 **Claves**  
+• Forma: spirtes ❌➖✅❌❌ | saportj ✅❌✅❌❌  
+• Partidos: spirtes 976 | saportj 696  
+• Liga: A-League  
+• Unibet: 1 2.30 · X 3.70 · 2 2.25 (sin margen 38%/24%/39%) · ventaja +8%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.30 (+8%) · Paf España 2.30 (+8%)  
+
+## saportj vs Shinobu — 07/11 · 17:14
+
+👀 candidata · 🎮⚽ FC 27 · A-League · **Gana Shinobu** @ **3.75** (Unibet) · prob 35% vs casas 23% · ventaja +32%
+
+- ❌ Valor: ventaja +32% (mín. 16% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 59.603 partidos)  
+Goles esperados: saportj 2.30 · Shinobu 1.93  
+Ganador: saportj 43% · empate 22% · Shinobu 35%  
+Total: más de 4.5 goles 42% · menos 58%  
+Hándicap saportj: −1.5 28% · −2.5 14%  
+🔎 **Claves**  
+• Forma: saportj ✅❌✅❌❌ | Shinobu ❌❌❌❌✅  
+• Partidos: saportj 696 | Shinobu 1284  
+• Liga: A-League  
+• Unibet: 1 1.46 · X 4.90 · 2 3.75 (sin margen 59%/18%/23%) · ventaja +32%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 3.75 (+32%) · Paf España 3.75 (+32%)  
 

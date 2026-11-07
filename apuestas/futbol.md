@@ -1,363 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 07/11/2026 16:26 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## For Sittard vs Telstar — 07/11 · 16:30
-
-👀 candidata · 🇳🇱 Eredivisie · **Gana Telstar** @ **3.50** (Bet365) · prob 29% vs casas 29% · ventaja -0%
-
-- ❌ Valor: ventaja -0% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.26 - 1.18)  
-1 44% · X 29% · 2 27%  
-1X 73% · X2 56% · 12 71%  
-+1.5 71% · +2.5 44% · +3.5 23% · Ambos marcan 50%  
-Marcadores: 1-1 14% · 1-0 10% · 0-1 10% · 0-0 9%  
-🔎 **Claves**  
-• Forma: For Sittard ✅➖➖✅➖ | Telstar ❌➖❌❌✅  
-• H2H: 2 desde 2025: 1V-0E-1D · 4.5 goles/partido · +2.5 en 100%  
-• Bajas: For Sittard: sin bajas; Telstar: 0 fuera, 2 duda  
-• Favorito de las casas: For Sittard @ 2.05  
-📐 **Estadísticas esperadas**  
-Córners 5.8 - 4.7: total +10.5 48% · For Sittard +5.5 50% · Telstar +4.5 48%  
-Tarjetas 1.7 - 1.5: total +3.5 41% · For Sittard +1.5 52% · Telstar +1.5 45%  
-Faltas 10.9 - 12.2: total +21.5 60% · For Sittard +10.5 53% · Telstar +11.5 55%  
-Tiros a puerta 5.8 - 4.3: total +10.5 43% · For Sittard +5.5 51% · Telstar +4.5 42%  
-🚀 Combinada larga: Más de 21.5 faltas + Menos de 3.5 tarjetas + Menos de 4.5 tiros a puerta de Telstar + Menos de 2.5 goles → prob. 12%, cuota justa 8.21  
-🎯 Simulada (con cuota: Menos de 4.5 tiros a puerta de Telstar + Menos de 2.5 goles): cuota Unibet aprox. 3.23 (producto de piernas) · prob. 38% · ventaja +22% → 1 u en la banca de simulación  
-
-## Nacional vs Academico Viseu — 07/11 · 16:30
-
-👀 candidata · 🇵🇹 Primeira Liga · **Academico Viseu -0.25 (hándicap asiático)** @ **2.05** (mejor del mercado) · prob 48% vs casas 47% · ventaja -2%
-
-- ❌ Valor: ventaja -2% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ hándicap» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.11 - 1.83)  
-1 31% · X 27% · 2 42%  
-1X 58% · X2 69% · 12 73%  
-+1.5 80% · +2.5 56% · +3.5 34% · Ambos marcan 57%  
-Marcadores: 1-1 11% · 1-2 10% · 0-1 9% · 0-2 9%  
-🔎 **Claves**  
-• Forma: Nacional ❌❌❌✅❌ | Academico Viseu ✅✅✅✅✅  
-• H2H: sin precedentes  
-• Bajas: Nacional: 2 fuera, 2 duda (Filipe Soares, Ulisses Rocha); Academico Viseu: 0 fuera, 1 duda  
-• Favorito de las casas: Academico Viseu @ 2.40  
-📐 **Estadísticas esperadas**  
-Córners 5.0 - 4.6: total +9.5 48% · Nacional +5.5 38% · Academico Viseu +4.5 46%  
-Tarjetas 2.5 - 3.0: total +5.5 47% · Nacional +2.5 45% · Academico Viseu +2.5 58%  
-Faltas 12.9 - 12.4: total +26.5 40% · Nacional +13.5 42% · Academico Viseu +13.5 36%  
-Tiros a puerta 4.1 - 4.2: total +8.5 45% · Nacional +4.5 39% · Academico Viseu +3.5 59%  
-🧩 Crear apuesta: Menos de 13.5 faltas de Academico Viseu + Menos de 5.5 córners de Nacional + Menos de 4.5 tiros a puerta de Nacional → prob. 26%, cuota justa 3.90 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 13.5 faltas de Academico Viseu + Menos de 5.5 córners de Nacional + Menos de 4.5 tiros a puerta de Nacional + Más de 2.5 tarjetas de Academico Viseu + Más de 2.5 goles → prob. 6%, cuota justa 16.38  
-🎯 No simulada (con cuota: Menos de 5.5 córners de Nacional + Más de 2.5 goles): cuota Unibet aprox. 2.87 (producto de piernas) · prob. 35% · ventaja +0%  
-
-## For Sittard vs Telstar — 07/11 · 16:30
-
-👀 candidata · 🇳🇱 Eredivisie · **Más de 7.5 córners** @ **1.16** (Unibet) · prob 80% vs casas 79% · ventaja -8%
-
-- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.26 - 1.18)  
-1 44% · X 29% · 2 27%  
-1X 73% · X2 56% · 12 71%  
-+1.5 71% · +2.5 44% · +3.5 23% · Ambos marcan 50%  
-Marcadores: 1-1 14% · 1-0 10% · 0-1 10% · 0-0 9%  
-🔎 **Claves**  
-• Forma: For Sittard ✅➖➖✅➖ | Telstar ❌➖❌❌✅  
-• H2H: 2 desde 2025: 1V-0E-1D · 4.5 goles/partido · +2.5 en 100%  
-• Bajas: For Sittard: sin bajas; Telstar: 0 fuera, 2 duda  
-• Favorito de las casas: For Sittard @ 2.05  
-📐 **Estadísticas esperadas**  
-Córners 5.8 - 4.7: total +10.5 48% · For Sittard +5.5 50% · Telstar +4.5 48%  
-Tarjetas 1.7 - 1.5: total +3.5 41% · For Sittard +1.5 52% · Telstar +1.5 45%  
-Faltas 10.9 - 12.2: total +21.5 60% · For Sittard +10.5 53% · Telstar +11.5 55%  
-Tiros a puerta 5.8 - 4.3: total +10.5 43% · For Sittard +5.5 51% · Telstar +4.5 42%  
-🚀 Combinada larga: Más de 21.5 faltas + Menos de 3.5 tarjetas + Menos de 4.5 tiros a puerta de Telstar + Menos de 2.5 goles → prob. 12%, cuota justa 8.21  
-🎯 Simulada (con cuota: Menos de 4.5 tiros a puerta de Telstar + Menos de 2.5 goles): cuota Unibet aprox. 3.23 (producto de piernas) · prob. 38% · ventaja +22% → 1 u en la banca de simulación  
-
-## For Sittard vs Telstar — 07/11 · 16:30
-
-👀 candidata · 🇳🇱 Eredivisie · **Menos de 11.5 córners** @ **1.55** (Unibet) · prob 61% vs casas 60% · ventaja -5%
-
-- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.26 - 1.18)  
-1 44% · X 29% · 2 27%  
-1X 73% · X2 56% · 12 71%  
-+1.5 71% · +2.5 44% · +3.5 23% · Ambos marcan 50%  
-Marcadores: 1-1 14% · 1-0 10% · 0-1 10% · 0-0 9%  
-🔎 **Claves**  
-• Forma: For Sittard ✅➖➖✅➖ | Telstar ❌➖❌❌✅  
-• H2H: 2 desde 2025: 1V-0E-1D · 4.5 goles/partido · +2.5 en 100%  
-• Bajas: For Sittard: sin bajas; Telstar: 0 fuera, 2 duda  
-• Favorito de las casas: For Sittard @ 2.05  
-📐 **Estadísticas esperadas**  
-Córners 5.8 - 4.7: total +10.5 48% · For Sittard +5.5 50% · Telstar +4.5 48%  
-Tarjetas 1.7 - 1.5: total +3.5 41% · For Sittard +1.5 52% · Telstar +1.5 45%  
-Faltas 10.9 - 12.2: total +21.5 60% · For Sittard +10.5 53% · Telstar +11.5 55%  
-Tiros a puerta 5.8 - 4.3: total +10.5 43% · For Sittard +5.5 51% · Telstar +4.5 42%  
-🚀 Combinada larga: Más de 21.5 faltas + Menos de 3.5 tarjetas + Menos de 4.5 tiros a puerta de Telstar + Menos de 2.5 goles → prob. 12%, cuota justa 8.21  
-🎯 Simulada (con cuota: Menos de 4.5 tiros a puerta de Telstar + Menos de 2.5 goles): cuota Unibet aprox. 3.23 (producto de piernas) · prob. 38% · ventaja +22% → 1 u en la banca de simulación  
-
-## For Sittard vs Telstar — 07/11 · 16:30
-
-👀 candidata · 🇳🇱 Eredivisie · **Más de 3.5 córners de For Sittard** @ **1.21** (Unibet) · prob 76% vs casas 76% · ventaja -8%
-
-- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.26 - 1.18)  
-1 44% · X 29% · 2 27%  
-1X 73% · X2 56% · 12 71%  
-+1.5 71% · +2.5 44% · +3.5 23% · Ambos marcan 50%  
-Marcadores: 1-1 14% · 1-0 10% · 0-1 10% · 0-0 9%  
-🔎 **Claves**  
-• Forma: For Sittard ✅➖➖✅➖ | Telstar ❌➖❌❌✅  
-• H2H: 2 desde 2025: 1V-0E-1D · 4.5 goles/partido · +2.5 en 100%  
-• Bajas: For Sittard: sin bajas; Telstar: 0 fuera, 2 duda  
-• Favorito de las casas: For Sittard @ 2.05  
-📐 **Estadísticas esperadas**  
-Córners 5.8 - 4.7: total +10.5 48% · For Sittard +5.5 50% · Telstar +4.5 48%  
-Tarjetas 1.7 - 1.5: total +3.5 41% · For Sittard +1.5 52% · Telstar +1.5 45%  
-Faltas 10.9 - 12.2: total +21.5 60% · For Sittard +10.5 53% · Telstar +11.5 55%  
-Tiros a puerta 5.8 - 4.3: total +10.5 43% · For Sittard +5.5 51% · Telstar +4.5 42%  
-🚀 Combinada larga: Más de 21.5 faltas + Menos de 3.5 tarjetas + Menos de 4.5 tiros a puerta de Telstar + Menos de 2.5 goles → prob. 12%, cuota justa 8.21  
-🎯 Simulada (con cuota: Menos de 4.5 tiros a puerta de Telstar + Menos de 2.5 goles): cuota Unibet aprox. 3.23 (producto de piernas) · prob. 38% · ventaja +22% → 1 u en la banca de simulación  
-
-## For Sittard vs Telstar — 07/11 · 16:30
-
-👀 candidata · 🇳🇱 Eredivisie · **Menos de 7.5 córners de For Sittard** @ **1.30** (Unibet) · prob 72% vs casas 71% · ventaja -6%
-
-- ❌ Valor: ventaja -6% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.26 - 1.18)  
-1 44% · X 29% · 2 27%  
-1X 73% · X2 56% · 12 71%  
-+1.5 71% · +2.5 44% · +3.5 23% · Ambos marcan 50%  
-Marcadores: 1-1 14% · 1-0 10% · 0-1 10% · 0-0 9%  
-🔎 **Claves**  
-• Forma: For Sittard ✅➖➖✅➖ | Telstar ❌➖❌❌✅  
-• H2H: 2 desde 2025: 1V-0E-1D · 4.5 goles/partido · +2.5 en 100%  
-• Bajas: For Sittard: sin bajas; Telstar: 0 fuera, 2 duda  
-• Favorito de las casas: For Sittard @ 2.05  
-📐 **Estadísticas esperadas**  
-Córners 5.8 - 4.7: total +10.5 48% · For Sittard +5.5 50% · Telstar +4.5 48%  
-Tarjetas 1.7 - 1.5: total +3.5 41% · For Sittard +1.5 52% · Telstar +1.5 45%  
-Faltas 10.9 - 12.2: total +21.5 60% · For Sittard +10.5 53% · Telstar +11.5 55%  
-Tiros a puerta 5.8 - 4.3: total +10.5 43% · For Sittard +5.5 51% · Telstar +4.5 42%  
-🚀 Combinada larga: Más de 21.5 faltas + Menos de 3.5 tarjetas + Menos de 4.5 tiros a puerta de Telstar + Menos de 2.5 goles → prob. 12%, cuota justa 8.21  
-🎯 Simulada (con cuota: Menos de 4.5 tiros a puerta de Telstar + Menos de 2.5 goles): cuota Unibet aprox. 3.23 (producto de piernas) · prob. 38% · ventaja +22% → 1 u en la banca de simulación  
-
-## For Sittard vs Telstar — 07/11 · 16:30
-
-👀 candidata · 🇳🇱 Eredivisie · **Más de 3.5 córners de Telstar** @ **1.42** (Unibet) · prob 64% vs casas 65% · ventaja -9%
-
-- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.26 - 1.18)  
-1 44% · X 29% · 2 27%  
-1X 73% · X2 56% · 12 71%  
-+1.5 71% · +2.5 44% · +3.5 23% · Ambos marcan 50%  
-Marcadores: 1-1 14% · 1-0 10% · 0-1 10% · 0-0 9%  
-🔎 **Claves**  
-• Forma: For Sittard ✅➖➖✅➖ | Telstar ❌➖❌❌✅  
-• H2H: 2 desde 2025: 1V-0E-1D · 4.5 goles/partido · +2.5 en 100%  
-• Bajas: For Sittard: sin bajas; Telstar: 0 fuera, 2 duda  
-• Favorito de las casas: For Sittard @ 2.05  
-📐 **Estadísticas esperadas**  
-Córners 5.8 - 4.7: total +10.5 48% · For Sittard +5.5 50% · Telstar +4.5 48%  
-Tarjetas 1.7 - 1.5: total +3.5 41% · For Sittard +1.5 52% · Telstar +1.5 45%  
-Faltas 10.9 - 12.2: total +21.5 60% · For Sittard +10.5 53% · Telstar +11.5 55%  
-Tiros a puerta 5.8 - 4.3: total +10.5 43% · For Sittard +5.5 51% · Telstar +4.5 42%  
-🚀 Combinada larga: Más de 21.5 faltas + Menos de 3.5 tarjetas + Menos de 4.5 tiros a puerta de Telstar + Menos de 2.5 goles → prob. 12%, cuota justa 8.21  
-🎯 Simulada (con cuota: Menos de 4.5 tiros a puerta de Telstar + Menos de 2.5 goles): cuota Unibet aprox. 3.23 (producto de piernas) · prob. 38% · ventaja +22% → 1 u en la banca de simulación  
-
-## For Sittard vs Telstar — 07/11 · 16:30
-
-👀 candidata · 🇳🇱 Eredivisie · **Menos de 6.5 córners de Telstar** @ **1.26** (Unibet) · prob 76% vs casas 73% · ventaja -5%
-
-- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.26 - 1.18)  
-1 44% · X 29% · 2 27%  
-1X 73% · X2 56% · 12 71%  
-+1.5 71% · +2.5 44% · +3.5 23% · Ambos marcan 50%  
-Marcadores: 1-1 14% · 1-0 10% · 0-1 10% · 0-0 9%  
-🔎 **Claves**  
-• Forma: For Sittard ✅➖➖✅➖ | Telstar ❌➖❌❌✅  
-• H2H: 2 desde 2025: 1V-0E-1D · 4.5 goles/partido · +2.5 en 100%  
-• Bajas: For Sittard: sin bajas; Telstar: 0 fuera, 2 duda  
-• Favorito de las casas: For Sittard @ 2.05  
-📐 **Estadísticas esperadas**  
-Córners 5.8 - 4.7: total +10.5 48% · For Sittard +5.5 50% · Telstar +4.5 48%  
-Tarjetas 1.7 - 1.5: total +3.5 41% · For Sittard +1.5 52% · Telstar +1.5 45%  
-Faltas 10.9 - 12.2: total +21.5 60% · For Sittard +10.5 53% · Telstar +11.5 55%  
-Tiros a puerta 5.8 - 4.3: total +10.5 43% · For Sittard +5.5 51% · Telstar +4.5 42%  
-🚀 Combinada larga: Más de 21.5 faltas + Menos de 3.5 tarjetas + Menos de 4.5 tiros a puerta de Telstar + Menos de 2.5 goles → prob. 12%, cuota justa 8.21  
-🎯 Simulada (con cuota: Menos de 4.5 tiros a puerta de Telstar + Menos de 2.5 goles): cuota Unibet aprox. 3.23 (producto de piernas) · prob. 38% · ventaja +22% → 1 u en la banca de simulación  
-
-## Nacional vs Academico Viseu — 07/11 · 16:30
-
-👀 candidata · 🇵🇹 Primeira Liga · **Más de 3.5 córners de Academico Viseu** @ **1.50** (Unibet) · prob 62% vs casas 61% · ventaja -8%
-
-- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.11 - 1.83)  
-1 31% · X 27% · 2 42%  
-1X 58% · X2 69% · 12 73%  
-+1.5 80% · +2.5 56% · +3.5 34% · Ambos marcan 57%  
-Marcadores: 1-1 11% · 1-2 10% · 0-1 9% · 0-2 9%  
-🔎 **Claves**  
-• Forma: Nacional ❌❌❌✅❌ | Academico Viseu ✅✅✅✅✅  
-• H2H: sin precedentes  
-• Bajas: Nacional: 2 fuera, 2 duda (Filipe Soares, Ulisses Rocha); Academico Viseu: 0 fuera, 1 duda  
-• Favorito de las casas: Academico Viseu @ 2.40  
-📐 **Estadísticas esperadas**  
-Córners 5.0 - 4.6: total +9.5 48% · Nacional +5.5 38% · Academico Viseu +4.5 46%  
-Tarjetas 2.5 - 3.0: total +5.5 47% · Nacional +2.5 45% · Academico Viseu +2.5 58%  
-Faltas 12.9 - 12.4: total +26.5 40% · Nacional +13.5 42% · Academico Viseu +13.5 36%  
-Tiros a puerta 4.1 - 4.2: total +8.5 45% · Nacional +4.5 39% · Academico Viseu +3.5 59%  
-🧩 Crear apuesta: Menos de 13.5 faltas de Academico Viseu + Menos de 5.5 córners de Nacional + Menos de 4.5 tiros a puerta de Nacional → prob. 26%, cuota justa 3.90 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 13.5 faltas de Academico Viseu + Menos de 5.5 córners de Nacional + Menos de 4.5 tiros a puerta de Nacional + Más de 2.5 tarjetas de Academico Viseu + Más de 2.5 goles → prob. 6%, cuota justa 16.38  
-🎯 No simulada (con cuota: Menos de 5.5 córners de Nacional + Más de 2.5 goles): cuota Unibet aprox. 2.87 (producto de piernas) · prob. 35% · ventaja +0%  
-
-## Nacional vs Academico Viseu — 07/11 · 16:30
-
-👀 candidata · 🇵🇹 Primeira Liga · **Menos de 5.5 córners de Academico Viseu** @ **1.40** (Unibet) · prob 67% vs casas 65% · ventaja -7%
-
-- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.11 - 1.83)  
-1 31% · X 27% · 2 42%  
-1X 58% · X2 69% · 12 73%  
-+1.5 80% · +2.5 56% · +3.5 34% · Ambos marcan 57%  
-Marcadores: 1-1 11% · 1-2 10% · 0-1 9% · 0-2 9%  
-🔎 **Claves**  
-• Forma: Nacional ❌❌❌✅❌ | Academico Viseu ✅✅✅✅✅  
-• H2H: sin precedentes  
-• Bajas: Nacional: 2 fuera, 2 duda (Filipe Soares, Ulisses Rocha); Academico Viseu: 0 fuera, 1 duda  
-• Favorito de las casas: Academico Viseu @ 2.40  
-📐 **Estadísticas esperadas**  
-Córners 5.0 - 4.6: total +9.5 48% · Nacional +5.5 38% · Academico Viseu +4.5 46%  
-Tarjetas 2.5 - 3.0: total +5.5 47% · Nacional +2.5 45% · Academico Viseu +2.5 58%  
-Faltas 12.9 - 12.4: total +26.5 40% · Nacional +13.5 42% · Academico Viseu +13.5 36%  
-Tiros a puerta 4.1 - 4.2: total +8.5 45% · Nacional +4.5 39% · Academico Viseu +3.5 59%  
-🧩 Crear apuesta: Menos de 13.5 faltas de Academico Viseu + Menos de 5.5 córners de Nacional + Menos de 4.5 tiros a puerta de Nacional → prob. 26%, cuota justa 3.90 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 13.5 faltas de Academico Viseu + Menos de 5.5 córners de Nacional + Menos de 4.5 tiros a puerta de Nacional + Más de 2.5 tarjetas de Academico Viseu + Más de 2.5 goles → prob. 6%, cuota justa 16.38  
-🎯 No simulada (con cuota: Menos de 5.5 córners de Nacional + Más de 2.5 goles): cuota Unibet aprox. 2.87 (producto de piernas) · prob. 35% · ventaja +0%  
-
-## Nacional vs Academico Viseu — 07/11 · 16:30
-
-👀 candidata · 🇵🇹 Primeira Liga · **Más de 7.5 córners** @ **1.35** (Unibet) · prob 70% vs casas 68% · ventaja -6%
-
-- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.11 - 1.83)  
-1 31% · X 27% · 2 42%  
-1X 58% · X2 69% · 12 73%  
-+1.5 80% · +2.5 56% · +3.5 34% · Ambos marcan 57%  
-Marcadores: 1-1 11% · 1-2 10% · 0-1 9% · 0-2 9%  
-🔎 **Claves**  
-• Forma: Nacional ❌❌❌✅❌ | Academico Viseu ✅✅✅✅✅  
-• H2H: sin precedentes  
-• Bajas: Nacional: 2 fuera, 2 duda (Filipe Soares, Ulisses Rocha); Academico Viseu: 0 fuera, 1 duda  
-• Favorito de las casas: Academico Viseu @ 2.40  
-📐 **Estadísticas esperadas**  
-Córners 5.0 - 4.6: total +9.5 48% · Nacional +5.5 38% · Academico Viseu +4.5 46%  
-Tarjetas 2.5 - 3.0: total +5.5 47% · Nacional +2.5 45% · Academico Viseu +2.5 58%  
-Faltas 12.9 - 12.4: total +26.5 40% · Nacional +13.5 42% · Academico Viseu +13.5 36%  
-Tiros a puerta 4.1 - 4.2: total +8.5 45% · Nacional +4.5 39% · Academico Viseu +3.5 59%  
-🧩 Crear apuesta: Menos de 13.5 faltas de Academico Viseu + Menos de 5.5 córners de Nacional + Menos de 4.5 tiros a puerta de Nacional → prob. 26%, cuota justa 3.90 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 13.5 faltas de Academico Viseu + Menos de 5.5 córners de Nacional + Menos de 4.5 tiros a puerta de Nacional + Más de 2.5 tarjetas de Academico Viseu + Más de 2.5 goles → prob. 6%, cuota justa 16.38  
-🎯 No simulada (con cuota: Menos de 5.5 córners de Nacional + Más de 2.5 goles): cuota Unibet aprox. 2.87 (producto de piernas) · prob. 35% · ventaja +0%  
-
-## Nacional vs Academico Viseu — 07/11 · 16:30
-
-👀 candidata · 🇵🇹 Primeira Liga · **Menos de 10.5 córners** @ **1.44** (Unibet) · prob 64% vs casas 64% · ventaja -9%
-
-- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.11 - 1.83)  
-1 31% · X 27% · 2 42%  
-1X 58% · X2 69% · 12 73%  
-+1.5 80% · +2.5 56% · +3.5 34% · Ambos marcan 57%  
-Marcadores: 1-1 11% · 1-2 10% · 0-1 9% · 0-2 9%  
-🔎 **Claves**  
-• Forma: Nacional ❌❌❌✅❌ | Academico Viseu ✅✅✅✅✅  
-• H2H: sin precedentes  
-• Bajas: Nacional: 2 fuera, 2 duda (Filipe Soares, Ulisses Rocha); Academico Viseu: 0 fuera, 1 duda  
-• Favorito de las casas: Academico Viseu @ 2.40  
-📐 **Estadísticas esperadas**  
-Córners 5.0 - 4.6: total +9.5 48% · Nacional +5.5 38% · Academico Viseu +4.5 46%  
-Tarjetas 2.5 - 3.0: total +5.5 47% · Nacional +2.5 45% · Academico Viseu +2.5 58%  
-Faltas 12.9 - 12.4: total +26.5 40% · Nacional +13.5 42% · Academico Viseu +13.5 36%  
-Tiros a puerta 4.1 - 4.2: total +8.5 45% · Nacional +4.5 39% · Academico Viseu +3.5 59%  
-🧩 Crear apuesta: Menos de 13.5 faltas de Academico Viseu + Menos de 5.5 córners de Nacional + Menos de 4.5 tiros a puerta de Nacional → prob. 26%, cuota justa 3.90 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 13.5 faltas de Academico Viseu + Menos de 5.5 córners de Nacional + Menos de 4.5 tiros a puerta de Nacional + Más de 2.5 tarjetas de Academico Viseu + Más de 2.5 goles → prob. 6%, cuota justa 16.38  
-🎯 No simulada (con cuota: Menos de 5.5 córners de Nacional + Más de 2.5 goles): cuota Unibet aprox. 2.87 (producto de piernas) · prob. 35% · ventaja +0%  
-
-## Nacional vs Academico Viseu — 07/11 · 16:30
-
-👀 candidata · 🇵🇹 Primeira Liga · **Más de 3.5 córners de Nacional** @ **1.47** (Unibet) · prob 65% vs casas 62% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.11 - 1.83)  
-1 31% · X 27% · 2 42%  
-1X 58% · X2 69% · 12 73%  
-+1.5 80% · +2.5 56% · +3.5 34% · Ambos marcan 57%  
-Marcadores: 1-1 11% · 1-2 10% · 0-1 9% · 0-2 9%  
-🔎 **Claves**  
-• Forma: Nacional ❌❌❌✅❌ | Academico Viseu ✅✅✅✅✅  
-• H2H: sin precedentes  
-• Bajas: Nacional: 2 fuera, 2 duda (Filipe Soares, Ulisses Rocha); Academico Viseu: 0 fuera, 1 duda  
-• Favorito de las casas: Academico Viseu @ 2.40  
-📐 **Estadísticas esperadas**  
-Córners 5.0 - 4.6: total +9.5 48% · Nacional +5.5 38% · Academico Viseu +4.5 46%  
-Tarjetas 2.5 - 3.0: total +5.5 47% · Nacional +2.5 45% · Academico Viseu +2.5 58%  
-Faltas 12.9 - 12.4: total +26.5 40% · Nacional +13.5 42% · Academico Viseu +13.5 36%  
-Tiros a puerta 4.1 - 4.2: total +8.5 45% · Nacional +4.5 39% · Academico Viseu +3.5 59%  
-🧩 Crear apuesta: Menos de 13.5 faltas de Academico Viseu + Menos de 5.5 córners de Nacional + Menos de 4.5 tiros a puerta de Nacional → prob. 26%, cuota justa 3.90 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 13.5 faltas de Academico Viseu + Menos de 5.5 córners de Nacional + Menos de 4.5 tiros a puerta de Nacional + Más de 2.5 tarjetas de Academico Viseu + Más de 2.5 goles → prob. 6%, cuota justa 16.38  
-🎯 No simulada (con cuota: Menos de 5.5 córners de Nacional + Más de 2.5 goles): cuota Unibet aprox. 2.87 (producto de piernas) · prob. 35% · ventaja +0%  
-
-## Nacional vs Academico Viseu — 07/11 · 16:30
-
-👀 candidata · 🇵🇹 Primeira Liga · **Menos de 5.5 córners de Nacional** @ **1.44** (Unibet) · prob 63% vs casas 64% · ventaja -9%
-
-- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.11 - 1.83)  
-1 31% · X 27% · 2 42%  
-1X 58% · X2 69% · 12 73%  
-+1.5 80% · +2.5 56% · +3.5 34% · Ambos marcan 57%  
-Marcadores: 1-1 11% · 1-2 10% · 0-1 9% · 0-2 9%  
-🔎 **Claves**  
-• Forma: Nacional ❌❌❌✅❌ | Academico Viseu ✅✅✅✅✅  
-• H2H: sin precedentes  
-• Bajas: Nacional: 2 fuera, 2 duda (Filipe Soares, Ulisses Rocha); Academico Viseu: 0 fuera, 1 duda  
-• Favorito de las casas: Academico Viseu @ 2.40  
-📐 **Estadísticas esperadas**  
-Córners 5.0 - 4.6: total +9.5 48% · Nacional +5.5 38% · Academico Viseu +4.5 46%  
-Tarjetas 2.5 - 3.0: total +5.5 47% · Nacional +2.5 45% · Academico Viseu +2.5 58%  
-Faltas 12.9 - 12.4: total +26.5 40% · Nacional +13.5 42% · Academico Viseu +13.5 36%  
-Tiros a puerta 4.1 - 4.2: total +8.5 45% · Nacional +4.5 39% · Academico Viseu +3.5 59%  
-🧩 Crear apuesta: Menos de 13.5 faltas de Academico Viseu + Menos de 5.5 córners de Nacional + Menos de 4.5 tiros a puerta de Nacional → prob. 26%, cuota justa 3.90 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 13.5 faltas de Academico Viseu + Menos de 5.5 córners de Nacional + Menos de 4.5 tiros a puerta de Nacional + Más de 2.5 tarjetas de Academico Viseu + Más de 2.5 goles → prob. 6%, cuota justa 16.38  
-🎯 No simulada (con cuota: Menos de 5.5 córners de Nacional + Más de 2.5 goles): cuota Unibet aprox. 2.87 (producto de piernas) · prob. 35% · ventaja +0%  
+Actualizado 07/11/2026 16:56 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## A. Lustenau vs Grazer AK — 07/11 · 17:00
 
@@ -10053,6 +9696,7 @@ Faltas 15.4 - 14.5: total +26.5 70% · Santa Clara +13.5 66% · Gil Vicente +13.
 Tiros a puerta 4.1 - 3.0: total +8.5 29% · Santa Clara +4.5 38% · Gil Vicente +3.5 35%  
 🧩 Crear apuesta: Menos de 8.5 tiros a puerta + Más de 26.5 faltas + Menos de 2.5 goles → prob. 39%, cuota justa 2.59 (solo vale si la casa paga más)  
 🚀 Combinada larga: Menos de 8.5 tiros a puerta + Más de 26.5 faltas + Menos de 2.5 goles + Menos de 4.5 córners de Gil Vicente + Más de 2.5 tarjetas de Gil Vicente → prob. 17%, cuota justa 6.04  
+🎯 No simulada (con cuota: Menos de 2.5 goles + Menos de 4.5 córners de Gil Vicente): cuota Unibet aprox. 2.35 (producto de piernas) · prob. 43% · ventaja +2%  
 
 ## Alanyaspor vs Trabzonspor — 08/11 · 16:30
 
@@ -10060,6 +9704,612 @@ Tiros a puerta 4.1 - 3.0: total +8.5 29% · Santa Clara +4.5 38% · Gil Vicente 
 
 - ❌ Valor: ventaja -3% (mín. 5% con la incertidumbre, máx. 30%)
 - ✅ Segmento «⚽ hándicap» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.30 - 1.48)  
+1 22% · X 28% · 2 50%  
+1X 50% · X2 78% · 12 72%  
++1.5 77% · +2.5 53% · +3.5 30% · Ambos marcan 57%  
+Marcadores: 1-1 13% · 1-2 9% · 0-1 9% · 2-1 8%  
+🔎 **Claves**  
+• Forma: Alanyaspor ✅➖❌❌❌ | Trabzonspor ✅✅✅✅✅  
+• H2H: 20 desde 2016: 8V-6E-6D · 3.1 goles/partido · +2.5 en 55%  
+• Bajas: Alanyaspor: 2 fuera, 1 duda (Nuno Lima, Fatih Aksoy); Trabzonspor: 3 fuera, 4 duda (Franculino, Muhammed Cham, Batista Mendy)  
+• Favorito de las casas: Trabzonspor @ 1.67  
+📐 **Estadísticas esperadas**  
+Córners 4.6 - 4.9: total +9.5 47% · Alanyaspor +5.5 33% · Trabzonspor +4.5 51%  
+Tarjetas 2.5 - 1.9: total +4.5 45% · Alanyaspor +2.5 46% · Trabzonspor +2.5 31%  
+Faltas 13.4 - 11.3: total +26.5 36% · Alanyaspor +13.5 47% · Trabzonspor +13.5 26%  
+Tiros a puerta 4.1 - 5.2: total +9.5 45% · Alanyaspor +5.5 25% · Trabzonspor +4.5 57%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Alanyaspor + Menos de 13.5 faltas de Trabzonspor + Menos de 2.5 tarjetas de Trabzonspor → prob. 42%, cuota justa 2.38 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Alanyaspor + Menos de 13.5 faltas de Trabzonspor + Menos de 2.5 tarjetas de Trabzonspor + Menos de 5.5 córners de Alanyaspor → prob. 30%, cuota justa 3.31  
+
+## Iraklis vs Panathinaikos — 08/11 · 16:30
+
+👀 candidata · 🇬🇷 Super League · **Más de 8.5 córners** @ **2.07** (Unibet) · prob 46% vs casas 43% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.13 - 1.34)  
+1 12% · X 25% · 2 62%  
+1X 38% · X2 88% · 12 75%  
++1.5 71% · +2.5 45% · +3.5 24% · Ambos marcan 51%  
+Marcadores: 1-1 13% · 0-1 11% · 0-0 9% · 1-0 9%  
+🔎 **Claves**  
+• Forma: Iraklis ➖✅❌❌➖ | Panathinaikos ✅❌✅✅✅  
+• H2H: 16 desde 2005: 2V-5E-9D · 2.4 goles/partido · +2.5 en 38%  
+• Bajas: Iraklis: sin bajas; Panathinaikos: sin bajas  
+• Favorito de las casas: Panathinaikos @ 1.37  
+📐 **Estadísticas esperadas**  
+Córners 3.4 - 5.1: total +9.5 36% · Iraklis +4.5 28% · Panathinaikos +4.5 54%  
+Tarjetas 2.8 - 2.5: total +5.5 42% · Iraklis +2.5 52% · Panathinaikos +3.5 24%  
+Faltas 15.0 - 15.0: total +30.5 45% · Iraklis +15.5 43% · Panathinaikos +15.5 43%  
+Tiros a puerta 3.4 - 5.2: total +8.5 48% · Iraklis +4.5 26% · Panathinaikos +3.5 73%  
+🧩 Crear apuesta: Menos de 3.5 tarjetas de Panathinaikos + Menos de 4.5 tiros a puerta de Iraklis + Menos de 4.5 córners de Iraklis → prob. 44%, cuota justa 2.28 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 3.5 tarjetas de Panathinaikos + Menos de 4.5 tiros a puerta de Iraklis + Menos de 4.5 córners de Iraklis + Menos de 15.5 faltas de Iraklis + Menos de 2.5 goles → prob. 15%, cuota justa 6.80  
+
+## Iraklis vs Panathinaikos — 08/11 · 16:30
+
+👀 candidata · 🇬🇷 Super League · **Menos de 10.5 córners** @ **1.20** (Unibet) · prob 75% vs casas 75% · ventaja -10%
+
+- ❌ Valor: ventaja -10% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.13 - 1.34)  
+1 12% · X 25% · 2 62%  
+1X 38% · X2 88% · 12 75%  
++1.5 71% · +2.5 45% · +3.5 24% · Ambos marcan 51%  
+Marcadores: 1-1 13% · 0-1 11% · 0-0 9% · 1-0 9%  
+🔎 **Claves**  
+• Forma: Iraklis ➖✅❌❌➖ | Panathinaikos ✅❌✅✅✅  
+• H2H: 16 desde 2005: 2V-5E-9D · 2.4 goles/partido · +2.5 en 38%  
+• Bajas: Iraklis: sin bajas; Panathinaikos: sin bajas  
+• Favorito de las casas: Panathinaikos @ 1.37  
+📐 **Estadísticas esperadas**  
+Córners 3.4 - 5.1: total +9.5 36% · Iraklis +4.5 28% · Panathinaikos +4.5 54%  
+Tarjetas 2.8 - 2.5: total +5.5 42% · Iraklis +2.5 52% · Panathinaikos +3.5 24%  
+Faltas 15.0 - 15.0: total +30.5 45% · Iraklis +15.5 43% · Panathinaikos +15.5 43%  
+Tiros a puerta 3.4 - 5.2: total +8.5 48% · Iraklis +4.5 26% · Panathinaikos +3.5 73%  
+🧩 Crear apuesta: Menos de 3.5 tarjetas de Panathinaikos + Menos de 4.5 tiros a puerta de Iraklis + Menos de 4.5 córners de Iraklis → prob. 44%, cuota justa 2.28 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 3.5 tarjetas de Panathinaikos + Menos de 4.5 tiros a puerta de Iraklis + Menos de 4.5 córners de Iraklis + Menos de 15.5 faltas de Iraklis + Menos de 2.5 goles → prob. 15%, cuota justa 6.80  
+
+## Iraklis vs Panathinaikos — 08/11 · 16:30
+
+👀 candidata · 🇬🇷 Super League · **Más de 3.5 córners de Iraklis** @ **2.06** (Unibet) · prob 44% vs casas 43% · ventaja -10%
+
+- ❌ Valor: ventaja -10% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.13 - 1.34)  
+1 12% · X 25% · 2 62%  
+1X 38% · X2 88% · 12 75%  
++1.5 71% · +2.5 45% · +3.5 24% · Ambos marcan 51%  
+Marcadores: 1-1 13% · 0-1 11% · 0-0 9% · 1-0 9%  
+🔎 **Claves**  
+• Forma: Iraklis ➖✅❌❌➖ | Panathinaikos ✅❌✅✅✅  
+• H2H: 16 desde 2005: 2V-5E-9D · 2.4 goles/partido · +2.5 en 38%  
+• Bajas: Iraklis: sin bajas; Panathinaikos: sin bajas  
+• Favorito de las casas: Panathinaikos @ 1.37  
+📐 **Estadísticas esperadas**  
+Córners 3.4 - 5.1: total +9.5 36% · Iraklis +4.5 28% · Panathinaikos +4.5 54%  
+Tarjetas 2.8 - 2.5: total +5.5 42% · Iraklis +2.5 52% · Panathinaikos +3.5 24%  
+Faltas 15.0 - 15.0: total +30.5 45% · Iraklis +15.5 43% · Panathinaikos +15.5 43%  
+Tiros a puerta 3.4 - 5.2: total +8.5 48% · Iraklis +4.5 26% · Panathinaikos +3.5 73%  
+🧩 Crear apuesta: Menos de 3.5 tarjetas de Panathinaikos + Menos de 4.5 tiros a puerta de Iraklis + Menos de 4.5 córners de Iraklis → prob. 44%, cuota justa 2.28 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 3.5 tarjetas de Panathinaikos + Menos de 4.5 tiros a puerta de Iraklis + Menos de 4.5 córners de Iraklis + Menos de 15.5 faltas de Iraklis + Menos de 2.5 goles → prob. 15%, cuota justa 6.80  
+
+## Iraklis vs Panathinaikos — 08/11 · 16:30
+
+👀 candidata · 🇬🇷 Super League · **Menos de 3.5 córners de Iraklis** @ **1.58** (Unibet) · prob 56% vs casas 57% · ventaja -11%
+
+- ❌ Valor: ventaja -11% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.13 - 1.34)  
+1 12% · X 25% · 2 62%  
+1X 38% · X2 88% · 12 75%  
++1.5 71% · +2.5 45% · +3.5 24% · Ambos marcan 51%  
+Marcadores: 1-1 13% · 0-1 11% · 0-0 9% · 1-0 9%  
+🔎 **Claves**  
+• Forma: Iraklis ➖✅❌❌➖ | Panathinaikos ✅❌✅✅✅  
+• H2H: 16 desde 2005: 2V-5E-9D · 2.4 goles/partido · +2.5 en 38%  
+• Bajas: Iraklis: sin bajas; Panathinaikos: sin bajas  
+• Favorito de las casas: Panathinaikos @ 1.37  
+📐 **Estadísticas esperadas**  
+Córners 3.4 - 5.1: total +9.5 36% · Iraklis +4.5 28% · Panathinaikos +4.5 54%  
+Tarjetas 2.8 - 2.5: total +5.5 42% · Iraklis +2.5 52% · Panathinaikos +3.5 24%  
+Faltas 15.0 - 15.0: total +30.5 45% · Iraklis +15.5 43% · Panathinaikos +15.5 43%  
+Tiros a puerta 3.4 - 5.2: total +8.5 48% · Iraklis +4.5 26% · Panathinaikos +3.5 73%  
+🧩 Crear apuesta: Menos de 3.5 tarjetas de Panathinaikos + Menos de 4.5 tiros a puerta de Iraklis + Menos de 4.5 córners de Iraklis → prob. 44%, cuota justa 2.28 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 3.5 tarjetas de Panathinaikos + Menos de 4.5 tiros a puerta de Iraklis + Menos de 4.5 córners de Iraklis + Menos de 15.5 faltas de Iraklis + Menos de 2.5 goles → prob. 15%, cuota justa 6.80  
+
+## Iraklis vs Panathinaikos — 08/11 · 16:30
+
+👀 candidata · 🇬🇷 Super League · **Más de 4.5 córners de Panathinaikos** @ **1.85** (Unibet) · prob 51% vs casas 48% · ventaja -5%
+
+- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.13 - 1.34)  
+1 12% · X 25% · 2 62%  
+1X 38% · X2 88% · 12 75%  
++1.5 71% · +2.5 45% · +3.5 24% · Ambos marcan 51%  
+Marcadores: 1-1 13% · 0-1 11% · 0-0 9% · 1-0 9%  
+🔎 **Claves**  
+• Forma: Iraklis ➖✅❌❌➖ | Panathinaikos ✅❌✅✅✅  
+• H2H: 16 desde 2005: 2V-5E-9D · 2.4 goles/partido · +2.5 en 38%  
+• Bajas: Iraklis: sin bajas; Panathinaikos: sin bajas  
+• Favorito de las casas: Panathinaikos @ 1.37  
+📐 **Estadísticas esperadas**  
+Córners 3.4 - 5.1: total +9.5 36% · Iraklis +4.5 28% · Panathinaikos +4.5 54%  
+Tarjetas 2.8 - 2.5: total +5.5 42% · Iraklis +2.5 52% · Panathinaikos +3.5 24%  
+Faltas 15.0 - 15.0: total +30.5 45% · Iraklis +15.5 43% · Panathinaikos +15.5 43%  
+Tiros a puerta 3.4 - 5.2: total +8.5 48% · Iraklis +4.5 26% · Panathinaikos +3.5 73%  
+🧩 Crear apuesta: Menos de 3.5 tarjetas de Panathinaikos + Menos de 4.5 tiros a puerta de Iraklis + Menos de 4.5 córners de Iraklis → prob. 44%, cuota justa 2.28 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 3.5 tarjetas de Panathinaikos + Menos de 4.5 tiros a puerta de Iraklis + Menos de 4.5 córners de Iraklis + Menos de 15.5 faltas de Iraklis + Menos de 2.5 goles → prob. 15%, cuota justa 6.80  
+
+## Iraklis vs Panathinaikos — 08/11 · 16:30
+
+👀 candidata · 🇬🇷 Super League · **Menos de 5.5 córners de Panathinaikos** @ **1.40** (Unibet) · prob 62% vs casas 64% · ventaja -13%
+
+- ❌ Valor: ventaja -13% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.13 - 1.34)  
+1 12% · X 25% · 2 62%  
+1X 38% · X2 88% · 12 75%  
++1.5 71% · +2.5 45% · +3.5 24% · Ambos marcan 51%  
+Marcadores: 1-1 13% · 0-1 11% · 0-0 9% · 1-0 9%  
+🔎 **Claves**  
+• Forma: Iraklis ➖✅❌❌➖ | Panathinaikos ✅❌✅✅✅  
+• H2H: 16 desde 2005: 2V-5E-9D · 2.4 goles/partido · +2.5 en 38%  
+• Bajas: Iraklis: sin bajas; Panathinaikos: sin bajas  
+• Favorito de las casas: Panathinaikos @ 1.37  
+📐 **Estadísticas esperadas**  
+Córners 3.4 - 5.1: total +9.5 36% · Iraklis +4.5 28% · Panathinaikos +4.5 54%  
+Tarjetas 2.8 - 2.5: total +5.5 42% · Iraklis +2.5 52% · Panathinaikos +3.5 24%  
+Faltas 15.0 - 15.0: total +30.5 45% · Iraklis +15.5 43% · Panathinaikos +15.5 43%  
+Tiros a puerta 3.4 - 5.2: total +8.5 48% · Iraklis +4.5 26% · Panathinaikos +3.5 73%  
+🧩 Crear apuesta: Menos de 3.5 tarjetas de Panathinaikos + Menos de 4.5 tiros a puerta de Iraklis + Menos de 4.5 córners de Iraklis → prob. 44%, cuota justa 2.28 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 3.5 tarjetas de Panathinaikos + Menos de 4.5 tiros a puerta de Iraklis + Menos de 4.5 córners de Iraklis + Menos de 15.5 faltas de Iraklis + Menos de 2.5 goles → prob. 15%, cuota justa 6.80  
+
+## Estoril vs Maritimo — 08/11 · 16:30
+
+👀 candidata · 🇵🇹 Primeira Liga · **Más de 8.5 córners** @ **1.70** (Unibet) · prob 56% vs casas 54% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.64 - 1.11)  
+1 49% · X 28% · 2 23%  
+1X 77% · X2 51% · 12 72%  
++1.5 77% · +2.5 52% · +3.5 30% · Ambos marcan 55%  
+Marcadores: 1-1 12% · 1-0 10% · 2-1 10% · 2-0 9%  
+🔎 **Claves**  
+• Forma: Estoril ❌❌❌❌❌ | Maritimo ❌➖❌❌❌  
+• H2H: 16 desde 2012: 6V-7E-3D · 2.0 goles/partido · +2.5 en 38%  
+• Bajas: Estoril: 4 fuera, 4 duda (Pedro Carvalho, Antef Tsoungui, Fabricio Garcia); Maritimo: 1 fuera, 0 duda (Maxime Dominguez)  
+• Favorito de las casas: Estoril @ 2.05  
+📐 **Estadísticas esperadas**  
+Córners 5.3 - 4.0: total +9.5 45% · Estoril +5.5 43% · Maritimo +4.5 37%  
+Tarjetas 2.4 - 2.3: total +5.5 32% · Estoril +2.5 42% · Maritimo +2.5 40%  
+Faltas 11.9 - 12.6: total +26.5 34% · Estoril +13.5 31% · Maritimo +13.5 38%  
+Tiros a puerta 5.1 - 3.6: total +8.5 50% · Estoril +4.5 56% · Maritimo +3.5 48%  
+🧩 Crear apuesta: Menos de 13.5 faltas de Estoril + Menos de 5.5 tarjetas + Menos de 4.5 córners de Maritimo → prob. 31%, cuota justa 3.27 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 13.5 faltas de Estoril + Menos de 5.5 tarjetas + Menos de 4.5 córners de Maritimo + Más de 4.5 tiros a puerta de Estoril → prob. 19%, cuota justa 5.33  
+
+## Estoril vs Maritimo — 08/11 · 16:30
+
+👀 candidata · 🇵🇹 Primeira Liga · **Menos de 10.5 córners** @ **1.35** (Unibet) · prob 67% vs casas 68% · ventaja -10%
+
+- ❌ Valor: ventaja -10% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.64 - 1.11)  
+1 49% · X 28% · 2 23%  
+1X 77% · X2 51% · 12 72%  
++1.5 77% · +2.5 52% · +3.5 30% · Ambos marcan 55%  
+Marcadores: 1-1 12% · 1-0 10% · 2-1 10% · 2-0 9%  
+🔎 **Claves**  
+• Forma: Estoril ❌❌❌❌❌ | Maritimo ❌➖❌❌❌  
+• H2H: 16 desde 2012: 6V-7E-3D · 2.0 goles/partido · +2.5 en 38%  
+• Bajas: Estoril: 4 fuera, 4 duda (Pedro Carvalho, Antef Tsoungui, Fabricio Garcia); Maritimo: 1 fuera, 0 duda (Maxime Dominguez)  
+• Favorito de las casas: Estoril @ 2.05  
+📐 **Estadísticas esperadas**  
+Córners 5.3 - 4.0: total +9.5 45% · Estoril +5.5 43% · Maritimo +4.5 37%  
+Tarjetas 2.4 - 2.3: total +5.5 32% · Estoril +2.5 42% · Maritimo +2.5 40%  
+Faltas 11.9 - 12.6: total +26.5 34% · Estoril +13.5 31% · Maritimo +13.5 38%  
+Tiros a puerta 5.1 - 3.6: total +8.5 50% · Estoril +4.5 56% · Maritimo +3.5 48%  
+🧩 Crear apuesta: Menos de 13.5 faltas de Estoril + Menos de 5.5 tarjetas + Menos de 4.5 córners de Maritimo → prob. 31%, cuota justa 3.27 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 13.5 faltas de Estoril + Menos de 5.5 tarjetas + Menos de 4.5 córners de Maritimo + Más de 4.5 tiros a puerta de Estoril → prob. 19%, cuota justa 5.33  
+
+## Estoril vs Maritimo — 08/11 · 16:30
+
+👀 candidata · 🇵🇹 Primeira Liga · **Más de 4.5 córners de Estoril** @ **1.80** (Unibet) · prob 54% vs casas 51% · ventaja -3%
+
+- ❌ Valor: ventaja -3% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.64 - 1.11)  
+1 49% · X 28% · 2 23%  
+1X 77% · X2 51% · 12 72%  
++1.5 77% · +2.5 52% · +3.5 30% · Ambos marcan 55%  
+Marcadores: 1-1 12% · 1-0 10% · 2-1 10% · 2-0 9%  
+🔎 **Claves**  
+• Forma: Estoril ❌❌❌❌❌ | Maritimo ❌➖❌❌❌  
+• H2H: 16 desde 2012: 6V-7E-3D · 2.0 goles/partido · +2.5 en 38%  
+• Bajas: Estoril: 4 fuera, 4 duda (Pedro Carvalho, Antef Tsoungui, Fabricio Garcia); Maritimo: 1 fuera, 0 duda (Maxime Dominguez)  
+• Favorito de las casas: Estoril @ 2.05  
+📐 **Estadísticas esperadas**  
+Córners 5.3 - 4.0: total +9.5 45% · Estoril +5.5 43% · Maritimo +4.5 37%  
+Tarjetas 2.4 - 2.3: total +5.5 32% · Estoril +2.5 42% · Maritimo +2.5 40%  
+Faltas 11.9 - 12.6: total +26.5 34% · Estoril +13.5 31% · Maritimo +13.5 38%  
+Tiros a puerta 5.1 - 3.6: total +8.5 50% · Estoril +4.5 56% · Maritimo +3.5 48%  
+🧩 Crear apuesta: Menos de 13.5 faltas de Estoril + Menos de 5.5 tarjetas + Menos de 4.5 córners de Maritimo → prob. 31%, cuota justa 3.27 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 13.5 faltas de Estoril + Menos de 5.5 tarjetas + Menos de 4.5 córners de Maritimo + Más de 4.5 tiros a puerta de Estoril → prob. 19%, cuota justa 5.33  
+
+## Estoril vs Maritimo — 08/11 · 16:30
+
+👀 candidata · 🇵🇹 Primeira Liga · **Menos de 5.5 córners de Estoril** @ **1.48** (Unibet) · prob 60% vs casas 62% · ventaja -12%
+
+- ❌ Valor: ventaja -12% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.64 - 1.11)  
+1 49% · X 28% · 2 23%  
+1X 77% · X2 51% · 12 72%  
++1.5 77% · +2.5 52% · +3.5 30% · Ambos marcan 55%  
+Marcadores: 1-1 12% · 1-0 10% · 2-1 10% · 2-0 9%  
+🔎 **Claves**  
+• Forma: Estoril ❌❌❌❌❌ | Maritimo ❌➖❌❌❌  
+• H2H: 16 desde 2012: 6V-7E-3D · 2.0 goles/partido · +2.5 en 38%  
+• Bajas: Estoril: 4 fuera, 4 duda (Pedro Carvalho, Antef Tsoungui, Fabricio Garcia); Maritimo: 1 fuera, 0 duda (Maxime Dominguez)  
+• Favorito de las casas: Estoril @ 2.05  
+📐 **Estadísticas esperadas**  
+Córners 5.3 - 4.0: total +9.5 45% · Estoril +5.5 43% · Maritimo +4.5 37%  
+Tarjetas 2.4 - 2.3: total +5.5 32% · Estoril +2.5 42% · Maritimo +2.5 40%  
+Faltas 11.9 - 12.6: total +26.5 34% · Estoril +13.5 31% · Maritimo +13.5 38%  
+Tiros a puerta 5.1 - 3.6: total +8.5 50% · Estoril +4.5 56% · Maritimo +3.5 48%  
+🧩 Crear apuesta: Menos de 13.5 faltas de Estoril + Menos de 5.5 tarjetas + Menos de 4.5 córners de Maritimo → prob. 31%, cuota justa 3.27 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 13.5 faltas de Estoril + Menos de 5.5 tarjetas + Menos de 4.5 córners de Maritimo + Más de 4.5 tiros a puerta de Estoril → prob. 19%, cuota justa 5.33  
+
+## Estoril vs Maritimo — 08/11 · 16:30
+
+👀 candidata · 🇵🇹 Primeira Liga · **Más de 3.5 córners de Maritimo** @ **1.65** (Unibet) · prob 54% vs casas 56% · ventaja -10%
+
+- ❌ Valor: ventaja -10% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.64 - 1.11)  
+1 49% · X 28% · 2 23%  
+1X 77% · X2 51% · 12 72%  
++1.5 77% · +2.5 52% · +3.5 30% · Ambos marcan 55%  
+Marcadores: 1-1 12% · 1-0 10% · 2-1 10% · 2-0 9%  
+🔎 **Claves**  
+• Forma: Estoril ❌❌❌❌❌ | Maritimo ❌➖❌❌❌  
+• H2H: 16 desde 2012: 6V-7E-3D · 2.0 goles/partido · +2.5 en 38%  
+• Bajas: Estoril: 4 fuera, 4 duda (Pedro Carvalho, Antef Tsoungui, Fabricio Garcia); Maritimo: 1 fuera, 0 duda (Maxime Dominguez)  
+• Favorito de las casas: Estoril @ 2.05  
+📐 **Estadísticas esperadas**  
+Córners 5.3 - 4.0: total +9.5 45% · Estoril +5.5 43% · Maritimo +4.5 37%  
+Tarjetas 2.4 - 2.3: total +5.5 32% · Estoril +2.5 42% · Maritimo +2.5 40%  
+Faltas 11.9 - 12.6: total +26.5 34% · Estoril +13.5 31% · Maritimo +13.5 38%  
+Tiros a puerta 5.1 - 3.6: total +8.5 50% · Estoril +4.5 56% · Maritimo +3.5 48%  
+🧩 Crear apuesta: Menos de 13.5 faltas de Estoril + Menos de 5.5 tarjetas + Menos de 4.5 córners de Maritimo → prob. 31%, cuota justa 3.27 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 13.5 faltas de Estoril + Menos de 5.5 tarjetas + Menos de 4.5 córners de Maritimo + Más de 4.5 tiros a puerta de Estoril → prob. 19%, cuota justa 5.33  
+
+## Estoril vs Maritimo — 08/11 · 16:30
+
+👀 candidata · 🇵🇹 Primeira Liga · **Menos de 5.5 córners de Maritimo** @ **1.29** (Unibet) · prob 74% vs casas 71% · ventaja -5%
+
+- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.64 - 1.11)  
+1 49% · X 28% · 2 23%  
+1X 77% · X2 51% · 12 72%  
++1.5 77% · +2.5 52% · +3.5 30% · Ambos marcan 55%  
+Marcadores: 1-1 12% · 1-0 10% · 2-1 10% · 2-0 9%  
+🔎 **Claves**  
+• Forma: Estoril ❌❌❌❌❌ | Maritimo ❌➖❌❌❌  
+• H2H: 16 desde 2012: 6V-7E-3D · 2.0 goles/partido · +2.5 en 38%  
+• Bajas: Estoril: 4 fuera, 4 duda (Pedro Carvalho, Antef Tsoungui, Fabricio Garcia); Maritimo: 1 fuera, 0 duda (Maxime Dominguez)  
+• Favorito de las casas: Estoril @ 2.05  
+📐 **Estadísticas esperadas**  
+Córners 5.3 - 4.0: total +9.5 45% · Estoril +5.5 43% · Maritimo +4.5 37%  
+Tarjetas 2.4 - 2.3: total +5.5 32% · Estoril +2.5 42% · Maritimo +2.5 40%  
+Faltas 11.9 - 12.6: total +26.5 34% · Estoril +13.5 31% · Maritimo +13.5 38%  
+Tiros a puerta 5.1 - 3.6: total +8.5 50% · Estoril +4.5 56% · Maritimo +3.5 48%  
+🧩 Crear apuesta: Menos de 13.5 faltas de Estoril + Menos de 5.5 tarjetas + Menos de 4.5 córners de Maritimo → prob. 31%, cuota justa 3.27 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 13.5 faltas de Estoril + Menos de 5.5 tarjetas + Menos de 4.5 córners de Maritimo + Más de 4.5 tiros a puerta de Estoril → prob. 19%, cuota justa 5.33  
+
+## Santa Clara vs Gil Vicente — 08/11 · 16:30
+
+👀 candidata · 🇵🇹 Primeira Liga · **Más de 3.5 córners de Gil Vicente** @ **1.62** (Unibet) · prob 54% vs casas 57% · ventaja -13%
+
+- ❌ Valor: ventaja -13% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.14 - 0.92)  
+1 44% · X 30% · 2 26%  
+1X 74% · X2 56% · 12 70%  
++1.5 62% · +2.5 34% · +3.5 15% · Ambos marcan 42%  
+Marcadores: 1-1 14% · 1-0 14% · 0-0 13% · 0-1 11%  
+🔎 **Claves**  
+• Forma: Santa Clara ✅➖✅❌✅ | Gil Vicente ➖✅✅❌➖  
+• H2H: 12 desde 2019: 6V-3E-3D · 1.8 goles/partido · +2.5 en 25%  
+• Bajas: Santa Clara: 5 fuera, 1 duda (Luis Fernando, Lucas Franca, Goncalo Paciencia); Gil Vicente: 2 fuera, 3 duda (Ricardo Esgaio, Mohamed Bamba)  
+• Favorito de las casas: Santa Clara @ 2.25  
+📐 **Estadísticas esperadas**  
+Córners 5.1 - 3.8: total +9.5 40% · Santa Clara +5.5 39% · Gil Vicente +4.5 34%  
+Tarjetas 2.7 - 3.0: total +5.5 50% · Santa Clara +2.5 51% · Gil Vicente +2.5 57%  
+Faltas 15.4 - 14.5: total +26.5 70% · Santa Clara +13.5 66% · Gil Vicente +13.5 58%  
+Tiros a puerta 4.1 - 3.0: total +8.5 29% · Santa Clara +4.5 38% · Gil Vicente +3.5 35%  
+🧩 Crear apuesta: Menos de 8.5 tiros a puerta + Más de 26.5 faltas + Menos de 2.5 goles → prob. 39%, cuota justa 2.59 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 8.5 tiros a puerta + Más de 26.5 faltas + Menos de 2.5 goles + Menos de 4.5 córners de Gil Vicente + Más de 2.5 tarjetas de Gil Vicente → prob. 17%, cuota justa 6.04  
+🎯 No simulada (con cuota: Menos de 2.5 goles + Menos de 4.5 córners de Gil Vicente): cuota Unibet aprox. 2.35 (producto de piernas) · prob. 43% · ventaja +2%  
+
+## Santa Clara vs Gil Vicente — 08/11 · 16:30
+
+👀 candidata · 🇵🇹 Primeira Liga · **Menos de 3.5 córners de Gil Vicente** @ **2.12** (Unibet) · prob 46% vs casas 43% · ventaja -2%
+
+- ❌ Valor: ventaja -2% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.14 - 0.92)  
+1 44% · X 30% · 2 26%  
+1X 74% · X2 56% · 12 70%  
++1.5 62% · +2.5 34% · +3.5 15% · Ambos marcan 42%  
+Marcadores: 1-1 14% · 1-0 14% · 0-0 13% · 0-1 11%  
+🔎 **Claves**  
+• Forma: Santa Clara ✅➖✅❌✅ | Gil Vicente ➖✅✅❌➖  
+• H2H: 12 desde 2019: 6V-3E-3D · 1.8 goles/partido · +2.5 en 25%  
+• Bajas: Santa Clara: 5 fuera, 1 duda (Luis Fernando, Lucas Franca, Goncalo Paciencia); Gil Vicente: 2 fuera, 3 duda (Ricardo Esgaio, Mohamed Bamba)  
+• Favorito de las casas: Santa Clara @ 2.25  
+📐 **Estadísticas esperadas**  
+Córners 5.1 - 3.8: total +9.5 40% · Santa Clara +5.5 39% · Gil Vicente +4.5 34%  
+Tarjetas 2.7 - 3.0: total +5.5 50% · Santa Clara +2.5 51% · Gil Vicente +2.5 57%  
+Faltas 15.4 - 14.5: total +26.5 70% · Santa Clara +13.5 66% · Gil Vicente +13.5 58%  
+Tiros a puerta 4.1 - 3.0: total +8.5 29% · Santa Clara +4.5 38% · Gil Vicente +3.5 35%  
+🧩 Crear apuesta: Menos de 8.5 tiros a puerta + Más de 26.5 faltas + Menos de 2.5 goles → prob. 39%, cuota justa 2.59 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 8.5 tiros a puerta + Más de 26.5 faltas + Menos de 2.5 goles + Menos de 4.5 córners de Gil Vicente + Más de 2.5 tarjetas de Gil Vicente → prob. 17%, cuota justa 6.04  
+🎯 No simulada (con cuota: Menos de 2.5 goles + Menos de 4.5 córners de Gil Vicente): cuota Unibet aprox. 2.35 (producto de piernas) · prob. 43% · ventaja +2%  
+
+## Santa Clara vs Gil Vicente — 08/11 · 16:30
+
+👀 candidata · 🇵🇹 Primeira Liga · **Más de 7.5 córners** @ **1.40** (Unibet) · prob 65% vs casas 65% · ventaja -9%
+
+- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.14 - 0.92)  
+1 44% · X 30% · 2 26%  
+1X 74% · X2 56% · 12 70%  
++1.5 62% · +2.5 34% · +3.5 15% · Ambos marcan 42%  
+Marcadores: 1-1 14% · 1-0 14% · 0-0 13% · 0-1 11%  
+🔎 **Claves**  
+• Forma: Santa Clara ✅➖✅❌✅ | Gil Vicente ➖✅✅❌➖  
+• H2H: 12 desde 2019: 6V-3E-3D · 1.8 goles/partido · +2.5 en 25%  
+• Bajas: Santa Clara: 5 fuera, 1 duda (Luis Fernando, Lucas Franca, Goncalo Paciencia); Gil Vicente: 2 fuera, 3 duda (Ricardo Esgaio, Mohamed Bamba)  
+• Favorito de las casas: Santa Clara @ 2.25  
+📐 **Estadísticas esperadas**  
+Córners 5.1 - 3.8: total +9.5 40% · Santa Clara +5.5 39% · Gil Vicente +4.5 34%  
+Tarjetas 2.7 - 3.0: total +5.5 50% · Santa Clara +2.5 51% · Gil Vicente +2.5 57%  
+Faltas 15.4 - 14.5: total +26.5 70% · Santa Clara +13.5 66% · Gil Vicente +13.5 58%  
+Tiros a puerta 4.1 - 3.0: total +8.5 29% · Santa Clara +4.5 38% · Gil Vicente +3.5 35%  
+🧩 Crear apuesta: Menos de 8.5 tiros a puerta + Más de 26.5 faltas + Menos de 2.5 goles → prob. 39%, cuota justa 2.59 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 8.5 tiros a puerta + Más de 26.5 faltas + Menos de 2.5 goles + Menos de 4.5 córners de Gil Vicente + Más de 2.5 tarjetas de Gil Vicente → prob. 17%, cuota justa 6.04  
+🎯 No simulada (con cuota: Menos de 2.5 goles + Menos de 4.5 córners de Gil Vicente): cuota Unibet aprox. 2.35 (producto de piernas) · prob. 43% · ventaja +2%  
+
+## Santa Clara vs Gil Vicente — 08/11 · 16:30
+
+👀 candidata · 🇵🇹 Primeira Liga · **Menos de 9.5 córners** @ **1.64** (Unibet) · prob 58% vs casas 56% · ventaja -5%
+
+- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.14 - 0.92)  
+1 44% · X 30% · 2 26%  
+1X 74% · X2 56% · 12 70%  
++1.5 62% · +2.5 34% · +3.5 15% · Ambos marcan 42%  
+Marcadores: 1-1 14% · 1-0 14% · 0-0 13% · 0-1 11%  
+🔎 **Claves**  
+• Forma: Santa Clara ✅➖✅❌✅ | Gil Vicente ➖✅✅❌➖  
+• H2H: 12 desde 2019: 6V-3E-3D · 1.8 goles/partido · +2.5 en 25%  
+• Bajas: Santa Clara: 5 fuera, 1 duda (Luis Fernando, Lucas Franca, Goncalo Paciencia); Gil Vicente: 2 fuera, 3 duda (Ricardo Esgaio, Mohamed Bamba)  
+• Favorito de las casas: Santa Clara @ 2.25  
+📐 **Estadísticas esperadas**  
+Córners 5.1 - 3.8: total +9.5 40% · Santa Clara +5.5 39% · Gil Vicente +4.5 34%  
+Tarjetas 2.7 - 3.0: total +5.5 50% · Santa Clara +2.5 51% · Gil Vicente +2.5 57%  
+Faltas 15.4 - 14.5: total +26.5 70% · Santa Clara +13.5 66% · Gil Vicente +13.5 58%  
+Tiros a puerta 4.1 - 3.0: total +8.5 29% · Santa Clara +4.5 38% · Gil Vicente +3.5 35%  
+🧩 Crear apuesta: Menos de 8.5 tiros a puerta + Más de 26.5 faltas + Menos de 2.5 goles → prob. 39%, cuota justa 2.59 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 8.5 tiros a puerta + Más de 26.5 faltas + Menos de 2.5 goles + Menos de 4.5 córners de Gil Vicente + Más de 2.5 tarjetas de Gil Vicente → prob. 17%, cuota justa 6.04  
+🎯 No simulada (con cuota: Menos de 2.5 goles + Menos de 4.5 córners de Gil Vicente): cuota Unibet aprox. 2.35 (producto de piernas) · prob. 43% · ventaja +2%  
+
+## Santa Clara vs Gil Vicente — 08/11 · 16:30
+
+👀 candidata · 🇵🇹 Primeira Liga · **Más de 3.5 córners de Santa Clara** @ **1.42** (Unibet) · prob 67% vs casas 65% · ventaja -5%
+
+- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.14 - 0.92)  
+1 44% · X 30% · 2 26%  
+1X 74% · X2 56% · 12 70%  
++1.5 62% · +2.5 34% · +3.5 15% · Ambos marcan 42%  
+Marcadores: 1-1 14% · 1-0 14% · 0-0 13% · 0-1 11%  
+🔎 **Claves**  
+• Forma: Santa Clara ✅➖✅❌✅ | Gil Vicente ➖✅✅❌➖  
+• H2H: 12 desde 2019: 6V-3E-3D · 1.8 goles/partido · +2.5 en 25%  
+• Bajas: Santa Clara: 5 fuera, 1 duda (Luis Fernando, Lucas Franca, Goncalo Paciencia); Gil Vicente: 2 fuera, 3 duda (Ricardo Esgaio, Mohamed Bamba)  
+• Favorito de las casas: Santa Clara @ 2.25  
+📐 **Estadísticas esperadas**  
+Córners 5.1 - 3.8: total +9.5 40% · Santa Clara +5.5 39% · Gil Vicente +4.5 34%  
+Tarjetas 2.7 - 3.0: total +5.5 50% · Santa Clara +2.5 51% · Gil Vicente +2.5 57%  
+Faltas 15.4 - 14.5: total +26.5 70% · Santa Clara +13.5 66% · Gil Vicente +13.5 58%  
+Tiros a puerta 4.1 - 3.0: total +8.5 29% · Santa Clara +4.5 38% · Gil Vicente +3.5 35%  
+🧩 Crear apuesta: Menos de 8.5 tiros a puerta + Más de 26.5 faltas + Menos de 2.5 goles → prob. 39%, cuota justa 2.59 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 8.5 tiros a puerta + Más de 26.5 faltas + Menos de 2.5 goles + Menos de 4.5 córners de Gil Vicente + Más de 2.5 tarjetas de Gil Vicente → prob. 17%, cuota justa 6.04  
+🎯 No simulada (con cuota: Menos de 2.5 goles + Menos de 4.5 córners de Gil Vicente): cuota Unibet aprox. 2.35 (producto de piernas) · prob. 43% · ventaja +2%  
+
+## Santa Clara vs Gil Vicente — 08/11 · 16:30
+
+👀 candidata · 🇵🇹 Primeira Liga · **Menos de 5.5 córners de Santa Clara** @ **1.48** (Unibet) · prob 62% vs casas 62% · ventaja -9%
+
+- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.14 - 0.92)  
+1 44% · X 30% · 2 26%  
+1X 74% · X2 56% · 12 70%  
++1.5 62% · +2.5 34% · +3.5 15% · Ambos marcan 42%  
+Marcadores: 1-1 14% · 1-0 14% · 0-0 13% · 0-1 11%  
+🔎 **Claves**  
+• Forma: Santa Clara ✅➖✅❌✅ | Gil Vicente ➖✅✅❌➖  
+• H2H: 12 desde 2019: 6V-3E-3D · 1.8 goles/partido · +2.5 en 25%  
+• Bajas: Santa Clara: 5 fuera, 1 duda (Luis Fernando, Lucas Franca, Goncalo Paciencia); Gil Vicente: 2 fuera, 3 duda (Ricardo Esgaio, Mohamed Bamba)  
+• Favorito de las casas: Santa Clara @ 2.25  
+📐 **Estadísticas esperadas**  
+Córners 5.1 - 3.8: total +9.5 40% · Santa Clara +5.5 39% · Gil Vicente +4.5 34%  
+Tarjetas 2.7 - 3.0: total +5.5 50% · Santa Clara +2.5 51% · Gil Vicente +2.5 57%  
+Faltas 15.4 - 14.5: total +26.5 70% · Santa Clara +13.5 66% · Gil Vicente +13.5 58%  
+Tiros a puerta 4.1 - 3.0: total +8.5 29% · Santa Clara +4.5 38% · Gil Vicente +3.5 35%  
+🧩 Crear apuesta: Menos de 8.5 tiros a puerta + Más de 26.5 faltas + Menos de 2.5 goles → prob. 39%, cuota justa 2.59 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 8.5 tiros a puerta + Más de 26.5 faltas + Menos de 2.5 goles + Menos de 4.5 córners de Gil Vicente + Más de 2.5 tarjetas de Gil Vicente → prob. 17%, cuota justa 6.04  
+🎯 No simulada (con cuota: Menos de 2.5 goles + Menos de 4.5 córners de Gil Vicente): cuota Unibet aprox. 2.35 (producto de piernas) · prob. 43% · ventaja +2%  
+
+## Alanyaspor vs Trabzonspor — 08/11 · 16:30
+
+👀 candidata · 🇹🇷 Süper Lig · **Más de 3.5 córners de Alanyaspor** @ **1.57** (Unibet) · prob 61% vs casas 58% · ventaja -5%
+
+- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.30 - 1.48)  
+1 22% · X 28% · 2 50%  
+1X 50% · X2 78% · 12 72%  
++1.5 77% · +2.5 53% · +3.5 30% · Ambos marcan 57%  
+Marcadores: 1-1 13% · 1-2 9% · 0-1 9% · 2-1 8%  
+🔎 **Claves**  
+• Forma: Alanyaspor ✅➖❌❌❌ | Trabzonspor ✅✅✅✅✅  
+• H2H: 20 desde 2016: 8V-6E-6D · 3.1 goles/partido · +2.5 en 55%  
+• Bajas: Alanyaspor: 2 fuera, 1 duda (Nuno Lima, Fatih Aksoy); Trabzonspor: 3 fuera, 4 duda (Franculino, Muhammed Cham, Batista Mendy)  
+• Favorito de las casas: Trabzonspor @ 1.67  
+📐 **Estadísticas esperadas**  
+Córners 4.6 - 4.9: total +9.5 47% · Alanyaspor +5.5 33% · Trabzonspor +4.5 51%  
+Tarjetas 2.5 - 1.9: total +4.5 45% · Alanyaspor +2.5 46% · Trabzonspor +2.5 31%  
+Faltas 13.4 - 11.3: total +26.5 36% · Alanyaspor +13.5 47% · Trabzonspor +13.5 26%  
+Tiros a puerta 4.1 - 5.2: total +9.5 45% · Alanyaspor +5.5 25% · Trabzonspor +4.5 57%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Alanyaspor + Menos de 13.5 faltas de Trabzonspor + Menos de 2.5 tarjetas de Trabzonspor → prob. 42%, cuota justa 2.38 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Alanyaspor + Menos de 13.5 faltas de Trabzonspor + Menos de 2.5 tarjetas de Trabzonspor + Menos de 5.5 córners de Alanyaspor → prob. 30%, cuota justa 3.31  
+
+## Alanyaspor vs Trabzonspor — 08/11 · 16:30
+
+👀 candidata · 🇹🇷 Süper Lig · **Menos de 5.5 córners de Alanyaspor** @ **1.35** (Unibet) · prob 68% vs casas 68% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.30 - 1.48)  
+1 22% · X 28% · 2 50%  
+1X 50% · X2 78% · 12 72%  
++1.5 77% · +2.5 53% · +3.5 30% · Ambos marcan 57%  
+Marcadores: 1-1 13% · 1-2 9% · 0-1 9% · 2-1 8%  
+🔎 **Claves**  
+• Forma: Alanyaspor ✅➖❌❌❌ | Trabzonspor ✅✅✅✅✅  
+• H2H: 20 desde 2016: 8V-6E-6D · 3.1 goles/partido · +2.5 en 55%  
+• Bajas: Alanyaspor: 2 fuera, 1 duda (Nuno Lima, Fatih Aksoy); Trabzonspor: 3 fuera, 4 duda (Franculino, Muhammed Cham, Batista Mendy)  
+• Favorito de las casas: Trabzonspor @ 1.67  
+📐 **Estadísticas esperadas**  
+Córners 4.6 - 4.9: total +9.5 47% · Alanyaspor +5.5 33% · Trabzonspor +4.5 51%  
+Tarjetas 2.5 - 1.9: total +4.5 45% · Alanyaspor +2.5 46% · Trabzonspor +2.5 31%  
+Faltas 13.4 - 11.3: total +26.5 36% · Alanyaspor +13.5 47% · Trabzonspor +13.5 26%  
+Tiros a puerta 4.1 - 5.2: total +9.5 45% · Alanyaspor +5.5 25% · Trabzonspor +4.5 57%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Alanyaspor + Menos de 13.5 faltas de Trabzonspor + Menos de 2.5 tarjetas de Trabzonspor → prob. 42%, cuota justa 2.38 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Alanyaspor + Menos de 13.5 faltas de Trabzonspor + Menos de 2.5 tarjetas de Trabzonspor + Menos de 5.5 córners de Alanyaspor → prob. 30%, cuota justa 3.31  
+
+## Alanyaspor vs Trabzonspor — 08/11 · 16:30
+
+👀 candidata · 🇹🇷 Süper Lig · **Más de 3.5 córners de Trabzonspor** @ **1.37** (Unibet) · prob 67% vs casas 67% · ventaja -9%
+
+- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.30 - 1.48)  
+1 22% · X 28% · 2 50%  
+1X 50% · X2 78% · 12 72%  
++1.5 77% · +2.5 53% · +3.5 30% · Ambos marcan 57%  
+Marcadores: 1-1 13% · 1-2 9% · 0-1 9% · 2-1 8%  
+🔎 **Claves**  
+• Forma: Alanyaspor ✅➖❌❌❌ | Trabzonspor ✅✅✅✅✅  
+• H2H: 20 desde 2016: 8V-6E-6D · 3.1 goles/partido · +2.5 en 55%  
+• Bajas: Alanyaspor: 2 fuera, 1 duda (Nuno Lima, Fatih Aksoy); Trabzonspor: 3 fuera, 4 duda (Franculino, Muhammed Cham, Batista Mendy)  
+• Favorito de las casas: Trabzonspor @ 1.67  
+📐 **Estadísticas esperadas**  
+Córners 4.6 - 4.9: total +9.5 47% · Alanyaspor +5.5 33% · Trabzonspor +4.5 51%  
+Tarjetas 2.5 - 1.9: total +4.5 45% · Alanyaspor +2.5 46% · Trabzonspor +2.5 31%  
+Faltas 13.4 - 11.3: total +26.5 36% · Alanyaspor +13.5 47% · Trabzonspor +13.5 26%  
+Tiros a puerta 4.1 - 5.2: total +9.5 45% · Alanyaspor +5.5 25% · Trabzonspor +4.5 57%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Alanyaspor + Menos de 13.5 faltas de Trabzonspor + Menos de 2.5 tarjetas de Trabzonspor → prob. 42%, cuota justa 2.38 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Alanyaspor + Menos de 13.5 faltas de Trabzonspor + Menos de 2.5 tarjetas de Trabzonspor + Menos de 5.5 córners de Alanyaspor → prob. 30%, cuota justa 3.31  
+
+## Alanyaspor vs Trabzonspor — 08/11 · 16:30
+
+👀 candidata · 🇹🇷 Süper Lig · **Menos de 5.5 córners de Trabzonspor** @ **1.54** (Unibet) · prob 62% vs casas 60% · ventaja -5%
+
+- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.30 - 1.48)  
+1 22% · X 28% · 2 50%  
+1X 50% · X2 78% · 12 72%  
++1.5 77% · +2.5 53% · +3.5 30% · Ambos marcan 57%  
+Marcadores: 1-1 13% · 1-2 9% · 0-1 9% · 2-1 8%  
+🔎 **Claves**  
+• Forma: Alanyaspor ✅➖❌❌❌ | Trabzonspor ✅✅✅✅✅  
+• H2H: 20 desde 2016: 8V-6E-6D · 3.1 goles/partido · +2.5 en 55%  
+• Bajas: Alanyaspor: 2 fuera, 1 duda (Nuno Lima, Fatih Aksoy); Trabzonspor: 3 fuera, 4 duda (Franculino, Muhammed Cham, Batista Mendy)  
+• Favorito de las casas: Trabzonspor @ 1.67  
+📐 **Estadísticas esperadas**  
+Córners 4.6 - 4.9: total +9.5 47% · Alanyaspor +5.5 33% · Trabzonspor +4.5 51%  
+Tarjetas 2.5 - 1.9: total +4.5 45% · Alanyaspor +2.5 46% · Trabzonspor +2.5 31%  
+Faltas 13.4 - 11.3: total +26.5 36% · Alanyaspor +13.5 47% · Trabzonspor +13.5 26%  
+Tiros a puerta 4.1 - 5.2: total +9.5 45% · Alanyaspor +5.5 25% · Trabzonspor +4.5 57%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Alanyaspor + Menos de 13.5 faltas de Trabzonspor + Menos de 2.5 tarjetas de Trabzonspor → prob. 42%, cuota justa 2.38 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Alanyaspor + Menos de 13.5 faltas de Trabzonspor + Menos de 2.5 tarjetas de Trabzonspor + Menos de 5.5 córners de Alanyaspor → prob. 30%, cuota justa 3.31  
+
+## Alanyaspor vs Trabzonspor — 08/11 · 16:30
+
+👀 candidata · 🇹🇷 Süper Lig · **Más de 7.5 córners** @ **1.33** (Unibet) · prob 70% vs casas 69% · ventaja -7%
+
+- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.30 - 1.48)  
+1 22% · X 28% · 2 50%  
+1X 50% · X2 78% · 12 72%  
++1.5 77% · +2.5 53% · +3.5 30% · Ambos marcan 57%  
+Marcadores: 1-1 13% · 1-2 9% · 0-1 9% · 2-1 8%  
+🔎 **Claves**  
+• Forma: Alanyaspor ✅➖❌❌❌ | Trabzonspor ✅✅✅✅✅  
+• H2H: 20 desde 2016: 8V-6E-6D · 3.1 goles/partido · +2.5 en 55%  
+• Bajas: Alanyaspor: 2 fuera, 1 duda (Nuno Lima, Fatih Aksoy); Trabzonspor: 3 fuera, 4 duda (Franculino, Muhammed Cham, Batista Mendy)  
+• Favorito de las casas: Trabzonspor @ 1.67  
+📐 **Estadísticas esperadas**  
+Córners 4.6 - 4.9: total +9.5 47% · Alanyaspor +5.5 33% · Trabzonspor +4.5 51%  
+Tarjetas 2.5 - 1.9: total +4.5 45% · Alanyaspor +2.5 46% · Trabzonspor +2.5 31%  
+Faltas 13.4 - 11.3: total +26.5 36% · Alanyaspor +13.5 47% · Trabzonspor +13.5 26%  
+Tiros a puerta 4.1 - 5.2: total +9.5 45% · Alanyaspor +5.5 25% · Trabzonspor +4.5 57%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Alanyaspor + Menos de 13.5 faltas de Trabzonspor + Menos de 2.5 tarjetas de Trabzonspor → prob. 42%, cuota justa 2.38 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Alanyaspor + Menos de 13.5 faltas de Trabzonspor + Menos de 2.5 tarjetas de Trabzonspor + Menos de 5.5 córners de Alanyaspor → prob. 30%, cuota justa 3.31  
+
+## Alanyaspor vs Trabzonspor — 08/11 · 16:30
+
+👀 candidata · 🇹🇷 Süper Lig · **Menos de 10.5 córners** @ **1.47** (Unibet) · prob 63% vs casas 62% · ventaja -7%
+
+- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
 
 📊 **Escenarios** (goles esperados 1.30 - 1.48)  
 1 22% · X 28% · 2 50%  
@@ -10103,6 +10353,8 @@ Faltas 9.8 - 10.5: total +21.5 39% · AZ Alkmaar +10.5 39% · Groningen +11.5 37
 Tiros a puerta 6.8 - 4.0: total +10.5 51% · AZ Alkmaar +5.5 65% · Groningen +4.5 37%  
 🧩 Crear apuesta: Menos de 1.5 tarjetas de AZ Alkmaar + Menos de 4.5 córners de Groningen + Más de 5.5 tiros a puerta de AZ Alkmaar → prob. 35%, cuota justa 2.85 (solo vale si la casa paga más)  
 🚀 Combinada larga: Menos de 1.5 tarjetas de AZ Alkmaar + Menos de 4.5 córners de Groningen + Más de 5.5 tiros a puerta de AZ Alkmaar + Menos de 11.5 faltas de Groningen + Más de 2.5 goles → prob. 16%, cuota justa 6.07  
+🎯 Simulada (crear apuesta): cuota Unibet aprox. 3.41 (producto de piernas) · prob. 35% · ventaja +20% → 1 u en la banca de simulación  
+🎯 Simulada (con cuota: Menos de 1.5 tarjetas de AZ Alkmaar + Menos de 4.5 córners de Groningen + Más de 5.5 tiros a puerta de AZ Alkmaar): cuota Unibet aprox. 3.41 (producto de piernas) · prob. 35% · ventaja +20% → 1 u en la banca de simulación  
 
 ## Cambuur vs PSV Eindhoven — 08/11 · 16:45
 
@@ -10128,6 +10380,325 @@ Faltas 10.2 - 10.5: total +21.5 42% · Cambuur +10.5 44% · PSV Eindhoven +11.5 
 Tiros a puerta 4.1 - 7.5: total +10.5 59% · Cambuur +5.5 25% · PSV Eindhoven +4.5 83%  
 🧩 Crear apuesta: Más de 2.5 goles + Más de 4.5 tiros a puerta de PSV Eindhoven + Menos de 5.5 córners de Cambuur → prob. 56%, cuota justa 1.79 (solo vale si la casa paga más)  
 🚀 Combinada larga: Más de 2.5 goles + Más de 4.5 tiros a puerta de PSV Eindhoven + Menos de 5.5 córners de Cambuur + Menos de 11.5 faltas de PSV Eindhoven + Menos de 3.5 tarjetas → prob. 25%, cuota justa 3.97  
+🎯 No simulada (con cuota: Más de 2.5 goles + Menos de 5.5 córners de Cambuur): cuota Unibet aprox. 1.57 (producto de piernas) · prob. 64% · ventaja +1%  
+
+## AZ Alkmaar vs Groningen — 08/11 · 16:45
+
+👀 candidata · 🇳🇱 Eredivisie · **Más de 7.5 córners de AZ Alkmaar** @ **2.40** (Unibet) · prob 40% vs casas 38% · ventaja -5%
+
+- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.13 - 1.12)  
+1 58% · X 24% · 2 18%  
+1X 82% · X2 42% · 12 76%  
++1.5 84% · +2.5 63% · +3.5 41% · Ambos marcan 60%  
+Marcadores: 2-1 10% · 1-1 10% · 2-0 9% · 1-0 8%  
+🔎 **Claves**  
+• Forma: AZ Alkmaar ✅❌➖❌❌ | Groningen ✅✅❌➖❌  
+• H2H: 39 desde 2005: 17V-12E-10D · 2.3 goles/partido · +2.5 en 38%  
+• Bajas: AZ Alkmaar: 2 fuera, 5 duda (Ayoub Oufkir, Stije Resink); Groningen: 2 fuera, 1 duda (Etienne Vaessen, Rijk Janse)  
+• Favorito de las casas: AZ Alkmaar @ 1.55  
+📐 **Estadísticas esperadas**  
+Córners 7.1 - 3.6: total +10.5 50% · AZ Alkmaar +5.5 65% · Groningen +4.5 30%  
+Tarjetas 1.0 - 1.8: total +3.5 32% · AZ Alkmaar +1.5 27% · Groningen +1.5 55%  
+Faltas 9.8 - 10.5: total +21.5 39% · AZ Alkmaar +10.5 39% · Groningen +11.5 37%  
+Tiros a puerta 6.8 - 4.0: total +10.5 51% · AZ Alkmaar +5.5 65% · Groningen +4.5 37%  
+🧩 Crear apuesta: Menos de 1.5 tarjetas de AZ Alkmaar + Menos de 4.5 córners de Groningen + Más de 5.5 tiros a puerta de AZ Alkmaar → prob. 35%, cuota justa 2.85 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 1.5 tarjetas de AZ Alkmaar + Menos de 4.5 córners de Groningen + Más de 5.5 tiros a puerta de AZ Alkmaar + Menos de 11.5 faltas de Groningen + Más de 2.5 goles → prob. 16%, cuota justa 6.07  
+🎯 Simulada (crear apuesta): cuota Unibet aprox. 3.41 (producto de piernas) · prob. 35% · ventaja +20% → 1 u en la banca de simulación  
+🎯 Simulada (con cuota: Menos de 1.5 tarjetas de AZ Alkmaar + Menos de 4.5 córners de Groningen + Más de 5.5 tiros a puerta de AZ Alkmaar): cuota Unibet aprox. 3.41 (producto de piernas) · prob. 35% · ventaja +20% → 1 u en la banca de simulación  
+
+## AZ Alkmaar vs Groningen — 08/11 · 16:45
+
+👀 candidata · 🇳🇱 Eredivisie · **Menos de 9.5 córners de AZ Alkmaar** @ **1.19** (Unibet) · prob 78% vs casas 78% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.13 - 1.12)  
+1 58% · X 24% · 2 18%  
+1X 82% · X2 42% · 12 76%  
++1.5 84% · +2.5 63% · +3.5 41% · Ambos marcan 60%  
+Marcadores: 2-1 10% · 1-1 10% · 2-0 9% · 1-0 8%  
+🔎 **Claves**  
+• Forma: AZ Alkmaar ✅❌➖❌❌ | Groningen ✅✅❌➖❌  
+• H2H: 39 desde 2005: 17V-12E-10D · 2.3 goles/partido · +2.5 en 38%  
+• Bajas: AZ Alkmaar: 2 fuera, 5 duda (Ayoub Oufkir, Stije Resink); Groningen: 2 fuera, 1 duda (Etienne Vaessen, Rijk Janse)  
+• Favorito de las casas: AZ Alkmaar @ 1.55  
+📐 **Estadísticas esperadas**  
+Córners 7.1 - 3.6: total +10.5 50% · AZ Alkmaar +5.5 65% · Groningen +4.5 30%  
+Tarjetas 1.0 - 1.8: total +3.5 32% · AZ Alkmaar +1.5 27% · Groningen +1.5 55%  
+Faltas 9.8 - 10.5: total +21.5 39% · AZ Alkmaar +10.5 39% · Groningen +11.5 37%  
+Tiros a puerta 6.8 - 4.0: total +10.5 51% · AZ Alkmaar +5.5 65% · Groningen +4.5 37%  
+🧩 Crear apuesta: Menos de 1.5 tarjetas de AZ Alkmaar + Menos de 4.5 córners de Groningen + Más de 5.5 tiros a puerta de AZ Alkmaar → prob. 35%, cuota justa 2.85 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 1.5 tarjetas de AZ Alkmaar + Menos de 4.5 córners de Groningen + Más de 5.5 tiros a puerta de AZ Alkmaar + Menos de 11.5 faltas de Groningen + Más de 2.5 goles → prob. 16%, cuota justa 6.07  
+🎯 Simulada (crear apuesta): cuota Unibet aprox. 3.41 (producto de piernas) · prob. 35% · ventaja +20% → 1 u en la banca de simulación  
+🎯 Simulada (con cuota: Menos de 1.5 tarjetas de AZ Alkmaar + Menos de 4.5 córners de Groningen + Más de 5.5 tiros a puerta de AZ Alkmaar): cuota Unibet aprox. 3.41 (producto de piernas) · prob. 35% · ventaja +20% → 1 u en la banca de simulación  
+
+## AZ Alkmaar vs Groningen — 08/11 · 16:45
+
+👀 candidata · 🇳🇱 Eredivisie · **Más de 2.5 córners de Groningen** @ **1.40** (Unibet) · prob 65% vs casas 65% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.13 - 1.12)  
+1 58% · X 24% · 2 18%  
+1X 82% · X2 42% · 12 76%  
++1.5 84% · +2.5 63% · +3.5 41% · Ambos marcan 60%  
+Marcadores: 2-1 10% · 1-1 10% · 2-0 9% · 1-0 8%  
+🔎 **Claves**  
+• Forma: AZ Alkmaar ✅❌➖❌❌ | Groningen ✅✅❌➖❌  
+• H2H: 39 desde 2005: 17V-12E-10D · 2.3 goles/partido · +2.5 en 38%  
+• Bajas: AZ Alkmaar: 2 fuera, 5 duda (Ayoub Oufkir, Stije Resink); Groningen: 2 fuera, 1 duda (Etienne Vaessen, Rijk Janse)  
+• Favorito de las casas: AZ Alkmaar @ 1.55  
+📐 **Estadísticas esperadas**  
+Córners 7.1 - 3.6: total +10.5 50% · AZ Alkmaar +5.5 65% · Groningen +4.5 30%  
+Tarjetas 1.0 - 1.8: total +3.5 32% · AZ Alkmaar +1.5 27% · Groningen +1.5 55%  
+Faltas 9.8 - 10.5: total +21.5 39% · AZ Alkmaar +10.5 39% · Groningen +11.5 37%  
+Tiros a puerta 6.8 - 4.0: total +10.5 51% · AZ Alkmaar +5.5 65% · Groningen +4.5 37%  
+🧩 Crear apuesta: Menos de 1.5 tarjetas de AZ Alkmaar + Menos de 4.5 córners de Groningen + Más de 5.5 tiros a puerta de AZ Alkmaar → prob. 35%, cuota justa 2.85 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 1.5 tarjetas de AZ Alkmaar + Menos de 4.5 córners de Groningen + Más de 5.5 tiros a puerta de AZ Alkmaar + Menos de 11.5 faltas de Groningen + Más de 2.5 goles → prob. 16%, cuota justa 6.07  
+🎯 Simulada (crear apuesta): cuota Unibet aprox. 3.41 (producto de piernas) · prob. 35% · ventaja +20% → 1 u en la banca de simulación  
+🎯 Simulada (con cuota: Menos de 1.5 tarjetas de AZ Alkmaar + Menos de 4.5 córners de Groningen + Más de 5.5 tiros a puerta de AZ Alkmaar): cuota Unibet aprox. 3.41 (producto de piernas) · prob. 35% · ventaja +20% → 1 u en la banca de simulación  
+
+## AZ Alkmaar vs Groningen — 08/11 · 16:45
+
+👀 candidata · 🇳🇱 Eredivisie · **Menos de 4.5 córners de Groningen** @ **1.38** (Unibet) · prob 68% vs casas 67% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.13 - 1.12)  
+1 58% · X 24% · 2 18%  
+1X 82% · X2 42% · 12 76%  
++1.5 84% · +2.5 63% · +3.5 41% · Ambos marcan 60%  
+Marcadores: 2-1 10% · 1-1 10% · 2-0 9% · 1-0 8%  
+🔎 **Claves**  
+• Forma: AZ Alkmaar ✅❌➖❌❌ | Groningen ✅✅❌➖❌  
+• H2H: 39 desde 2005: 17V-12E-10D · 2.3 goles/partido · +2.5 en 38%  
+• Bajas: AZ Alkmaar: 2 fuera, 5 duda (Ayoub Oufkir, Stije Resink); Groningen: 2 fuera, 1 duda (Etienne Vaessen, Rijk Janse)  
+• Favorito de las casas: AZ Alkmaar @ 1.55  
+📐 **Estadísticas esperadas**  
+Córners 7.1 - 3.6: total +10.5 50% · AZ Alkmaar +5.5 65% · Groningen +4.5 30%  
+Tarjetas 1.0 - 1.8: total +3.5 32% · AZ Alkmaar +1.5 27% · Groningen +1.5 55%  
+Faltas 9.8 - 10.5: total +21.5 39% · AZ Alkmaar +10.5 39% · Groningen +11.5 37%  
+Tiros a puerta 6.8 - 4.0: total +10.5 51% · AZ Alkmaar +5.5 65% · Groningen +4.5 37%  
+🧩 Crear apuesta: Menos de 1.5 tarjetas de AZ Alkmaar + Menos de 4.5 córners de Groningen + Más de 5.5 tiros a puerta de AZ Alkmaar → prob. 35%, cuota justa 2.85 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 1.5 tarjetas de AZ Alkmaar + Menos de 4.5 córners de Groningen + Más de 5.5 tiros a puerta de AZ Alkmaar + Menos de 11.5 faltas de Groningen + Más de 2.5 goles → prob. 16%, cuota justa 6.07  
+🎯 Simulada (crear apuesta): cuota Unibet aprox. 3.41 (producto de piernas) · prob. 35% · ventaja +20% → 1 u en la banca de simulación  
+🎯 Simulada (con cuota: Menos de 1.5 tarjetas de AZ Alkmaar + Menos de 4.5 córners de Groningen + Más de 5.5 tiros a puerta de AZ Alkmaar): cuota Unibet aprox. 3.41 (producto de piernas) · prob. 35% · ventaja +20% → 1 u en la banca de simulación  
+
+## AZ Alkmaar vs Groningen — 08/11 · 16:45
+
+👀 candidata · 🇳🇱 Eredivisie · **Más de 9.5 córners** @ **1.58** (Unibet) · prob 60% vs casas 58% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.13 - 1.12)  
+1 58% · X 24% · 2 18%  
+1X 82% · X2 42% · 12 76%  
++1.5 84% · +2.5 63% · +3.5 41% · Ambos marcan 60%  
+Marcadores: 2-1 10% · 1-1 10% · 2-0 9% · 1-0 8%  
+🔎 **Claves**  
+• Forma: AZ Alkmaar ✅❌➖❌❌ | Groningen ✅✅❌➖❌  
+• H2H: 39 desde 2005: 17V-12E-10D · 2.3 goles/partido · +2.5 en 38%  
+• Bajas: AZ Alkmaar: 2 fuera, 5 duda (Ayoub Oufkir, Stije Resink); Groningen: 2 fuera, 1 duda (Etienne Vaessen, Rijk Janse)  
+• Favorito de las casas: AZ Alkmaar @ 1.55  
+📐 **Estadísticas esperadas**  
+Córners 7.1 - 3.6: total +10.5 50% · AZ Alkmaar +5.5 65% · Groningen +4.5 30%  
+Tarjetas 1.0 - 1.8: total +3.5 32% · AZ Alkmaar +1.5 27% · Groningen +1.5 55%  
+Faltas 9.8 - 10.5: total +21.5 39% · AZ Alkmaar +10.5 39% · Groningen +11.5 37%  
+Tiros a puerta 6.8 - 4.0: total +10.5 51% · AZ Alkmaar +5.5 65% · Groningen +4.5 37%  
+🧩 Crear apuesta: Menos de 1.5 tarjetas de AZ Alkmaar + Menos de 4.5 córners de Groningen + Más de 5.5 tiros a puerta de AZ Alkmaar → prob. 35%, cuota justa 2.85 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 1.5 tarjetas de AZ Alkmaar + Menos de 4.5 córners de Groningen + Más de 5.5 tiros a puerta de AZ Alkmaar + Menos de 11.5 faltas de Groningen + Más de 2.5 goles → prob. 16%, cuota justa 6.07  
+🎯 Simulada (crear apuesta): cuota Unibet aprox. 3.41 (producto de piernas) · prob. 35% · ventaja +20% → 1 u en la banca de simulación  
+🎯 Simulada (con cuota: Menos de 1.5 tarjetas de AZ Alkmaar + Menos de 4.5 córners de Groningen + Más de 5.5 tiros a puerta de AZ Alkmaar): cuota Unibet aprox. 3.41 (producto de piernas) · prob. 35% · ventaja +20% → 1 u en la banca de simulación  
+
+## AZ Alkmaar vs Groningen — 08/11 · 16:45
+
+👀 candidata · 🇳🇱 Eredivisie · **Menos de 13.5 córners** @ **1.18** (Unibet) · prob 78% vs casas 77% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.13 - 1.12)  
+1 58% · X 24% · 2 18%  
+1X 82% · X2 42% · 12 76%  
++1.5 84% · +2.5 63% · +3.5 41% · Ambos marcan 60%  
+Marcadores: 2-1 10% · 1-1 10% · 2-0 9% · 1-0 8%  
+🔎 **Claves**  
+• Forma: AZ Alkmaar ✅❌➖❌❌ | Groningen ✅✅❌➖❌  
+• H2H: 39 desde 2005: 17V-12E-10D · 2.3 goles/partido · +2.5 en 38%  
+• Bajas: AZ Alkmaar: 2 fuera, 5 duda (Ayoub Oufkir, Stije Resink); Groningen: 2 fuera, 1 duda (Etienne Vaessen, Rijk Janse)  
+• Favorito de las casas: AZ Alkmaar @ 1.55  
+📐 **Estadísticas esperadas**  
+Córners 7.1 - 3.6: total +10.5 50% · AZ Alkmaar +5.5 65% · Groningen +4.5 30%  
+Tarjetas 1.0 - 1.8: total +3.5 32% · AZ Alkmaar +1.5 27% · Groningen +1.5 55%  
+Faltas 9.8 - 10.5: total +21.5 39% · AZ Alkmaar +10.5 39% · Groningen +11.5 37%  
+Tiros a puerta 6.8 - 4.0: total +10.5 51% · AZ Alkmaar +5.5 65% · Groningen +4.5 37%  
+🧩 Crear apuesta: Menos de 1.5 tarjetas de AZ Alkmaar + Menos de 4.5 córners de Groningen + Más de 5.5 tiros a puerta de AZ Alkmaar → prob. 35%, cuota justa 2.85 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 1.5 tarjetas de AZ Alkmaar + Menos de 4.5 córners de Groningen + Más de 5.5 tiros a puerta de AZ Alkmaar + Menos de 11.5 faltas de Groningen + Más de 2.5 goles → prob. 16%, cuota justa 6.07  
+🎯 Simulada (crear apuesta): cuota Unibet aprox. 3.41 (producto de piernas) · prob. 35% · ventaja +20% → 1 u en la banca de simulación  
+🎯 Simulada (con cuota: Menos de 1.5 tarjetas de AZ Alkmaar + Menos de 4.5 córners de Groningen + Más de 5.5 tiros a puerta de AZ Alkmaar): cuota Unibet aprox. 3.41 (producto de piernas) · prob. 35% · ventaja +20% → 1 u en la banca de simulación  
+
+## Cambuur vs PSV Eindhoven — 08/11 · 16:45
+
+👀 candidata · 🇳🇱 Eredivisie · **Más de 2.5 córners de Cambuur** @ **1.30** (Unibet) · prob 71% vs casas 70% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.24 - 3.40)  
+1 11% · X 15% · 2 74%  
+1X 26% · X2 89% · 12 85%  
++1.5 95% · +2.5 84% · +3.5 68% · Ambos marcan 69%  
+Marcadores: 1-3 8% · 1-2 7% · 1-4 7% · 0-3 6%  
+🔎 **Claves**  
+• Forma: Cambuur ➖✅➖✅✅ | PSV Eindhoven ❌✅❌➖✅  
+• H2H: 10 desde 2013: 1V-1E-8D · 4.2 goles/partido · +2.5 en 90%  
+• Bajas: Cambuur: 0 fuera, 1 duda; PSV Eindhoven: 1 fuera, 5 duda (Jerdy Schouten)  
+• Favorito de las casas: PSV Eindhoven @ 1.40  
+📐 **Estadísticas esperadas**  
+Córners 4.0 - 6.5: total +10.5 48% · Cambuur +5.5 24% · PSV Eindhoven +4.5 71%  
+Tarjetas 1.5 - 1.6: total +3.5 37% · Cambuur +1.5 45% · PSV Eindhoven +1.5 46%  
+Faltas 10.2 - 10.5: total +21.5 42% · Cambuur +10.5 44% · PSV Eindhoven +11.5 37%  
+Tiros a puerta 4.1 - 7.5: total +10.5 59% · Cambuur +5.5 25% · PSV Eindhoven +4.5 83%  
+🧩 Crear apuesta: Más de 2.5 goles + Más de 4.5 tiros a puerta de PSV Eindhoven + Menos de 5.5 córners de Cambuur → prob. 56%, cuota justa 1.79 (solo vale si la casa paga más)  
+🚀 Combinada larga: Más de 2.5 goles + Más de 4.5 tiros a puerta de PSV Eindhoven + Menos de 5.5 córners de Cambuur + Menos de 11.5 faltas de PSV Eindhoven + Menos de 3.5 tarjetas → prob. 25%, cuota justa 3.97  
+🎯 No simulada (con cuota: Más de 2.5 goles + Menos de 5.5 córners de Cambuur): cuota Unibet aprox. 1.57 (producto de piernas) · prob. 64% · ventaja +1%  
+
+## Cambuur vs PSV Eindhoven — 08/11 · 16:45
+
+👀 candidata · 🇳🇱 Eredivisie · **Menos de 4.5 córners de Cambuur** @ **1.52** (Unibet) · prob 62% vs casas 60% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.24 - 3.40)  
+1 11% · X 15% · 2 74%  
+1X 26% · X2 89% · 12 85%  
++1.5 95% · +2.5 84% · +3.5 68% · Ambos marcan 69%  
+Marcadores: 1-3 8% · 1-2 7% · 1-4 7% · 0-3 6%  
+🔎 **Claves**  
+• Forma: Cambuur ➖✅➖✅✅ | PSV Eindhoven ❌✅❌➖✅  
+• H2H: 10 desde 2013: 1V-1E-8D · 4.2 goles/partido · +2.5 en 90%  
+• Bajas: Cambuur: 0 fuera, 1 duda; PSV Eindhoven: 1 fuera, 5 duda (Jerdy Schouten)  
+• Favorito de las casas: PSV Eindhoven @ 1.40  
+📐 **Estadísticas esperadas**  
+Córners 4.0 - 6.5: total +10.5 48% · Cambuur +5.5 24% · PSV Eindhoven +4.5 71%  
+Tarjetas 1.5 - 1.6: total +3.5 37% · Cambuur +1.5 45% · PSV Eindhoven +1.5 46%  
+Faltas 10.2 - 10.5: total +21.5 42% · Cambuur +10.5 44% · PSV Eindhoven +11.5 37%  
+Tiros a puerta 4.1 - 7.5: total +10.5 59% · Cambuur +5.5 25% · PSV Eindhoven +4.5 83%  
+🧩 Crear apuesta: Más de 2.5 goles + Más de 4.5 tiros a puerta de PSV Eindhoven + Menos de 5.5 córners de Cambuur → prob. 56%, cuota justa 1.79 (solo vale si la casa paga más)  
+🚀 Combinada larga: Más de 2.5 goles + Más de 4.5 tiros a puerta de PSV Eindhoven + Menos de 5.5 córners de Cambuur + Menos de 11.5 faltas de PSV Eindhoven + Menos de 3.5 tarjetas → prob. 25%, cuota justa 3.97  
+🎯 No simulada (con cuota: Más de 2.5 goles + Menos de 5.5 córners de Cambuur): cuota Unibet aprox. 1.57 (producto de piernas) · prob. 64% · ventaja +1%  
+
+## Cambuur vs PSV Eindhoven — 08/11 · 16:45
+
+👀 candidata · 🇳🇱 Eredivisie · **Menos de 12.5 córners** @ **1.40** (Unibet) · prob 69% vs casas 66% · ventaja -3%
+
+- ❌ Valor: ventaja -3% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.24 - 3.40)  
+1 11% · X 15% · 2 74%  
+1X 26% · X2 89% · 12 85%  
++1.5 95% · +2.5 84% · +3.5 68% · Ambos marcan 69%  
+Marcadores: 1-3 8% · 1-2 7% · 1-4 7% · 0-3 6%  
+🔎 **Claves**  
+• Forma: Cambuur ➖✅➖✅✅ | PSV Eindhoven ❌✅❌➖✅  
+• H2H: 10 desde 2013: 1V-1E-8D · 4.2 goles/partido · +2.5 en 90%  
+• Bajas: Cambuur: 0 fuera, 1 duda; PSV Eindhoven: 1 fuera, 5 duda (Jerdy Schouten)  
+• Favorito de las casas: PSV Eindhoven @ 1.40  
+📐 **Estadísticas esperadas**  
+Córners 4.0 - 6.5: total +10.5 48% · Cambuur +5.5 24% · PSV Eindhoven +4.5 71%  
+Tarjetas 1.5 - 1.6: total +3.5 37% · Cambuur +1.5 45% · PSV Eindhoven +1.5 46%  
+Faltas 10.2 - 10.5: total +21.5 42% · Cambuur +10.5 44% · PSV Eindhoven +11.5 37%  
+Tiros a puerta 4.1 - 7.5: total +10.5 59% · Cambuur +5.5 25% · PSV Eindhoven +4.5 83%  
+🧩 Crear apuesta: Más de 2.5 goles + Más de 4.5 tiros a puerta de PSV Eindhoven + Menos de 5.5 córners de Cambuur → prob. 56%, cuota justa 1.79 (solo vale si la casa paga más)  
+🚀 Combinada larga: Más de 2.5 goles + Más de 4.5 tiros a puerta de PSV Eindhoven + Menos de 5.5 córners de Cambuur + Menos de 11.5 faltas de PSV Eindhoven + Menos de 3.5 tarjetas → prob. 25%, cuota justa 3.97  
+🎯 No simulada (con cuota: Más de 2.5 goles + Menos de 5.5 córners de Cambuur): cuota Unibet aprox. 1.57 (producto de piernas) · prob. 64% · ventaja +1%  
+
+## Cambuur vs PSV Eindhoven — 08/11 · 16:45
+
+👀 candidata · 🇳🇱 Eredivisie · **Más de 8.5 córners** @ **1.27** (Unibet) · prob 71% vs casas 72% · ventaja -9%
+
+- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.24 - 3.40)  
+1 11% · X 15% · 2 74%  
+1X 26% · X2 89% · 12 85%  
++1.5 95% · +2.5 84% · +3.5 68% · Ambos marcan 69%  
+Marcadores: 1-3 8% · 1-2 7% · 1-4 7% · 0-3 6%  
+🔎 **Claves**  
+• Forma: Cambuur ➖✅➖✅✅ | PSV Eindhoven ❌✅❌➖✅  
+• H2H: 10 desde 2013: 1V-1E-8D · 4.2 goles/partido · +2.5 en 90%  
+• Bajas: Cambuur: 0 fuera, 1 duda; PSV Eindhoven: 1 fuera, 5 duda (Jerdy Schouten)  
+• Favorito de las casas: PSV Eindhoven @ 1.40  
+📐 **Estadísticas esperadas**  
+Córners 4.0 - 6.5: total +10.5 48% · Cambuur +5.5 24% · PSV Eindhoven +4.5 71%  
+Tarjetas 1.5 - 1.6: total +3.5 37% · Cambuur +1.5 45% · PSV Eindhoven +1.5 46%  
+Faltas 10.2 - 10.5: total +21.5 42% · Cambuur +10.5 44% · PSV Eindhoven +11.5 37%  
+Tiros a puerta 4.1 - 7.5: total +10.5 59% · Cambuur +5.5 25% · PSV Eindhoven +4.5 83%  
+🧩 Crear apuesta: Más de 2.5 goles + Más de 4.5 tiros a puerta de PSV Eindhoven + Menos de 5.5 córners de Cambuur → prob. 56%, cuota justa 1.79 (solo vale si la casa paga más)  
+🚀 Combinada larga: Más de 2.5 goles + Más de 4.5 tiros a puerta de PSV Eindhoven + Menos de 5.5 córners de Cambuur + Menos de 11.5 faltas de PSV Eindhoven + Menos de 3.5 tarjetas → prob. 25%, cuota justa 3.97  
+🎯 No simulada (con cuota: Más de 2.5 goles + Menos de 5.5 córners de Cambuur): cuota Unibet aprox. 1.57 (producto de piernas) · prob. 64% · ventaja +1%  
+
+## Cambuur vs PSV Eindhoven — 08/11 · 16:45
+
+👀 candidata · 🇳🇱 Eredivisie · **Más de 4.5 córners de PSV Eindhoven** @ **1.26** (Unibet) · prob 72% vs casas 73% · ventaja -9%
+
+- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.24 - 3.40)  
+1 11% · X 15% · 2 74%  
+1X 26% · X2 89% · 12 85%  
++1.5 95% · +2.5 84% · +3.5 68% · Ambos marcan 69%  
+Marcadores: 1-3 8% · 1-2 7% · 1-4 7% · 0-3 6%  
+🔎 **Claves**  
+• Forma: Cambuur ➖✅➖✅✅ | PSV Eindhoven ❌✅❌➖✅  
+• H2H: 10 desde 2013: 1V-1E-8D · 4.2 goles/partido · +2.5 en 90%  
+• Bajas: Cambuur: 0 fuera, 1 duda; PSV Eindhoven: 1 fuera, 5 duda (Jerdy Schouten)  
+• Favorito de las casas: PSV Eindhoven @ 1.40  
+📐 **Estadísticas esperadas**  
+Córners 4.0 - 6.5: total +10.5 48% · Cambuur +5.5 24% · PSV Eindhoven +4.5 71%  
+Tarjetas 1.5 - 1.6: total +3.5 37% · Cambuur +1.5 45% · PSV Eindhoven +1.5 46%  
+Faltas 10.2 - 10.5: total +21.5 42% · Cambuur +10.5 44% · PSV Eindhoven +11.5 37%  
+Tiros a puerta 4.1 - 7.5: total +10.5 59% · Cambuur +5.5 25% · PSV Eindhoven +4.5 83%  
+🧩 Crear apuesta: Más de 2.5 goles + Más de 4.5 tiros a puerta de PSV Eindhoven + Menos de 5.5 córners de Cambuur → prob. 56%, cuota justa 1.79 (solo vale si la casa paga más)  
+🚀 Combinada larga: Más de 2.5 goles + Más de 4.5 tiros a puerta de PSV Eindhoven + Menos de 5.5 córners de Cambuur + Menos de 11.5 faltas de PSV Eindhoven + Menos de 3.5 tarjetas → prob. 25%, cuota justa 3.97  
+🎯 No simulada (con cuota: Más de 2.5 goles + Menos de 5.5 córners de Cambuur): cuota Unibet aprox. 1.57 (producto de piernas) · prob. 64% · ventaja +1%  
+
+## Cambuur vs PSV Eindhoven — 08/11 · 16:45
+
+👀 candidata · 🇳🇱 Eredivisie · **Menos de 5.5 córners de PSV Eindhoven** @ **2.43** (Unibet) · prob 40% vs casas 38% · ventaja -3%
+
+- ❌ Valor: ventaja -3% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.24 - 3.40)  
+1 11% · X 15% · 2 74%  
+1X 26% · X2 89% · 12 85%  
++1.5 95% · +2.5 84% · +3.5 68% · Ambos marcan 69%  
+Marcadores: 1-3 8% · 1-2 7% · 1-4 7% · 0-3 6%  
+🔎 **Claves**  
+• Forma: Cambuur ➖✅➖✅✅ | PSV Eindhoven ❌✅❌➖✅  
+• H2H: 10 desde 2013: 1V-1E-8D · 4.2 goles/partido · +2.5 en 90%  
+• Bajas: Cambuur: 0 fuera, 1 duda; PSV Eindhoven: 1 fuera, 5 duda (Jerdy Schouten)  
+• Favorito de las casas: PSV Eindhoven @ 1.40  
+📐 **Estadísticas esperadas**  
+Córners 4.0 - 6.5: total +10.5 48% · Cambuur +5.5 24% · PSV Eindhoven +4.5 71%  
+Tarjetas 1.5 - 1.6: total +3.5 37% · Cambuur +1.5 45% · PSV Eindhoven +1.5 46%  
+Faltas 10.2 - 10.5: total +21.5 42% · Cambuur +10.5 44% · PSV Eindhoven +11.5 37%  
+Tiros a puerta 4.1 - 7.5: total +10.5 59% · Cambuur +5.5 25% · PSV Eindhoven +4.5 83%  
+🧩 Crear apuesta: Más de 2.5 goles + Más de 4.5 tiros a puerta de PSV Eindhoven + Menos de 5.5 córners de Cambuur → prob. 56%, cuota justa 1.79 (solo vale si la casa paga más)  
+🚀 Combinada larga: Más de 2.5 goles + Más de 4.5 tiros a puerta de PSV Eindhoven + Menos de 5.5 córners de Cambuur + Menos de 11.5 faltas de PSV Eindhoven + Menos de 3.5 tarjetas → prob. 25%, cuota justa 3.97  
+🎯 No simulada (con cuota: Más de 2.5 goles + Menos de 5.5 córners de Cambuur): cuota Unibet aprox. 1.57 (producto de piernas) · prob. 64% · ventaja +1%  
 
 ## Sturm Graz vs Salzburg — 08/11 · 17:00
 
