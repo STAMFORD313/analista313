@@ -231,3 +231,4 @@
 - 7/11 00:15 FC 27: las combinadas avisan con lo medido de verdad: cada pierna pierde un 5.4 % con LeoVegas (285 partidos) → una de 10 piernas devuelve ~57 % de lo apostado a la larga (leo_roi.json, se actualiza en cada pasada).
 - 7/11 01:15 FC 27: comparado el margen en los mismos partidos entre operadores Kambi (sonda): LeoVegas ES 9.9 %, Paf ES 10.0 %, Unibet 9.6 %, LeoVegas 10.0 %, Paf 9.6 % (≈190 mercados cada uno) → cambiar de casa Kambi no salva el margen.
 - 7/11 02:15 FC 27 por liga y formato (cuotas reales, 298 partidos): 2x4 −3.8 %/−7.2 %, 2x6 −6.0 %/−3.2 % por mitades; solo Bundesliga sale + (+2.9 % en 114 piernas ≈ 10 partidos: ruido). Sin cambios: no hay liga con ventaja demostrada.
+- 7/11 08:15 analista en rojo desde 07:22: el test de revisión experta (bankroll.place) usaba los segmentos bloqueados reales de estrategias.factor, que hoy bloquearon ⚽ → 0 apuestas. Test hermético (factor=1 en ese bloque).

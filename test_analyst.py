@@ -172,7 +172,9 @@ assert bankroll.bad_segments(seg) == {"a"}  # b: pérdida dentro del ruido; c: p
 ev = [{"key": "e1", "market": m, "odds": 2.0, "p": 0.62, "implied": 0.6, "edge": 0.24, "match": "X vs Y", "pick": "X", "start": "2099-01-01T00:00Z"}
       for m in ("H", "O25", "AHH")]
 bk3 = {"balance": 100.0, "bets": []}
-bankroll.place(bk3, ev, pd.Timestamp("2026-11-03"), KG())
+_ef1 = bankroll.estrategias.factor; bankroll.estrategias.factor = lambda s: 1.0  # hermético: sin segmentos bloqueados reales
+try: bankroll.place(bk3, ev, pd.Timestamp("2026-11-03"), KG())
+finally: bankroll.estrategias.factor = _ef1
 assert len(bk3["bets"]) == 2 and sum(b["stake"] for b in bk3["bets"]) <= 5.0 + 1e-9 and all(len(b["legs"]) == 1 for b in bk3["bets"]), bk3
 fz = [{"key": "z", "market": "H", "info": ["x", "• Bajas: <b>A</b>: sin bajas"]}]
 bankroll.freeze(fz); bankroll.freeze([{**fz[0], "captured": "otra"}])
