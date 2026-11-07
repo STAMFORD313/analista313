@@ -1,74 +1,63 @@
 {
- "fecha": "2026-11-07 10:55",
- "n": 1054,
+ "fecha": "2026-11-07 11:24",
+ "n": 1056,
  "rentables": [],
  "bloqueados": [
   {
    "segmento": "mercado=1X2 · cuota=>2.5 · ventaja=>15%",
-   "n": 115,
-   "roi": -0.4404,
-   "se": 0.1299,
+   "n": 116,
+   "roi": -0.4142,
+   "se": 0.1314,
    "roi_antigua": -0.389,
-   "roi_nueva": -0.4689
+   "roi_nueva": -0.428
   },
   {
    "segmento": "deporte=🎮⚽ · cuota=>2.5 · ventaja=>15%",
-   "n": 112,
-   "roi": -0.4254,
-   "se": 0.1331,
+   "n": 113,
+   "roi": -0.3987,
+   "se": 0.1346,
    "roi_antigua": -0.3408,
-   "roi_nueva": -0.4689
+   "roi_nueva": -0.428
   },
   {
    "segmento": "cuota=>2.5 · ventaja=>15%",
-   "n": 139,
-   "roi": -0.3811,
-   "se": 0.1194,
+   "n": 140,
+   "roi": -0.3598,
+   "se": 0.1204,
    "roi_antigua": -0.2463,
-   "roi_nueva": -0.4896
+   "roi_nueva": -0.45
   },
   {
    "segmento": "mercado=1X2 · ventaja=>15%",
-   "n": 179,
-   "roi": -0.2727,
-   "se": 0.0948,
+   "n": 180,
+   "roi": -0.2567,
+   "se": 0.0956,
    "roi_antigua": -0.1004,
-   "roi_nueva": -0.3807
+   "roi_nueva": -0.3539
   },
   {
    "segmento": "deporte=🎮⚽ · mercado=1X2 · ventaja=>15%",
-   "n": 176,
-   "roi": -0.2603,
-   "se": 0.0961,
+   "n": 177,
+   "roi": -0.2441,
+   "se": 0.097,
    "roi_antigua": -0.0595,
-   "roi_nueva": -0.3807
+   "roi_nueva": -0.3539
   },
   {
    "segmento": "deporte=🎮⚽ · ventaja=>15%",
-   "n": 176,
-   "roi": -0.2603,
-   "se": 0.0961,
+   "n": 177,
+   "roi": -0.2441,
+   "se": 0.097,
    "roi_antigua": -0.0595,
-   "roi_nueva": -0.3807
+   "roi_nueva": -0.3539
   },
   {
    "segmento": "ventaja=>15%",
-   "n": 219,
-   "roi": -0.2072,
-   "se": 0.0864,
+   "n": 220,
+   "roi": -0.1945,
+   "se": 0.0869,
    "roi_antigua": 0.0113,
-   "roi_nueva": -0.3978
-  },
-  {
-   "segmento": "cuota=>2.5",
-   "n": 365,
-   "roi": -0.1893,
-   "se": 0.0916,
-   "roi_antigua": -0.1605,
-   "roi_nueva": -0.2141,
-   "clv": 0.0366,
-   "clv_se": 0.0222,
-   "clv_n": 28
+   "roi_nueva": -0.3724
   },
   {
    "segmento": "mercado=ganador · ventaja=<0",
