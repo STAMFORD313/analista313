@@ -34586,3 +34586,5 @@ game_id,match_id,slug,date,tier,bo,tournament_id,tournament,t1_id,t2_id,team1,te
 192287,133177,quintessencia-vs-tao-toma-06-11-2026,2026-11-06T16:15:00.000+00:00,b,3,5624,CCT South America 2026 Series 8,23217,25640,QUINTESSÊNCIA,tao toma,1,de_inferno,23217,16.0,13.0
 192292,133179,meia-noite-vs-rush-gaming-06-11-2026,2026-11-06T22:10:00.000+00:00,b,3,5624,CCT South America 2026 Series 8,25011,24574,MEIA NOITE,RUSH,2,de_dust2,24574,13.0,11.0
 192293,133179,meia-noite-vs-rush-gaming-06-11-2026,2026-11-06T22:10:00.000+00:00,b,3,5624,CCT South America 2026 Series 8,25011,24574,MEIA NOITE,RUSH,1,de_inferno,24574,13.0,9.0
+192087,133054,the-mongolz-vs-natus-vincere-07-11-2026,2026-11-07T06:30:00.000+00:00,s,3,5113,Intel Extreme Masters Beijing 2026,736,787,The MongolZ,Natus Vincere,2,de_inferno,736,13.0,11.0
+192088,133054,the-mongolz-vs-natus-vincere-07-11-2026,2026-11-07T06:30:00.000+00:00,s,3,5113,Intel Extreme Masters Beijing 2026,736,787,The MongolZ,Natus Vincere,1,de_cache,736,13.0,10.0

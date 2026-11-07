@@ -1,6 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 07/11/2026 09:30 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 07/11/2026 10:20 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Eyupspor vs Kocaelispor — 07/11 · 11:30
 
