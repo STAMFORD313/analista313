@@ -1359,9 +1359,6 @@
   "cbb|2026-11-10|Hawai'i Rainbow Warriors|Portland Pilots",
   "wta|2026-11-07|Alice Tubello|Bianca Andreescu",
   "cbb|2026-11-10|West Florida Argonauts|Baptist (Fl) Eagles",
-  "dota2|132452",
-  "dota2|132453",
-  "lol|130829",
   "fc|2359989",
   "fc|2359994",
   "fc|2359984",
@@ -2361,7 +2358,11 @@
   "fc|2366352",
   "fc|2365768",
   "fc|2365309",
-  "fc|2365311"
+  "fc|2365311",
+  "dota2|133680",
+  "fc|2366357",
+  "fc|2365770",
+  "fc|2366359"
  ],
  "signals": [
   {
@@ -5272,15 +5273,6 @@
    "pick": "Más de 43.5 puntos",
    "league": "🏈 NCAA Football",
    "sport": "🏈",
-   "info": [
-    "📊 <b>Escenarios</b>: total esperado <b>48.0</b> puntos · línea 43.5",
-    "Más 51% · Menos 49%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Arizona Wildcats ✅✅✅✅❌ | TCU Horned Frogs ❌❌✅❌✅",
-    "• H2H: 1 desde 2024: 0-1",
-    "• Bajas: Arizona Wildcats: sin bajas; TCU Horned Frogs: sin bajas"
-   ],
    "context": "Arizona Wildcats vs TCU Horned Frogs (🏈 NCAA Football). Modelo de puntos (ataque/defensa con 10 años, decaimiento 1 año): total esperado 48.0 frente a línea 43.5. Forma Arizona Wildcats ✅✅✅✅❌, TCU Horned Frogs ❌❌✅❌✅. H2H 1 desde 2024: 0-1. Bajas: Arizona Wildcats: sin bajas; TCU Horned Frogs: sin bajas.",
    "captured": "2026-11-04T00:10",
    "version": "e240f08",
@@ -5302,14 +5294,6 @@
    "pick": "Arizona Wildcats -9.5",
    "league": "🏈 NCAA Football",
    "sport": "🏈",
-   "info": [
-    "📊 <b>Escenarios</b>: Arizona Wildcats cubre -9.5 con prob. 49% (casas 49%)",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Arizona Wildcats ✅✅✅✅❌ | TCU Horned Frogs ❌❌✅❌✅",
-    "• H2H: 1 desde 2024: 0-1",
-    "• Bajas: Arizona Wildcats: sin bajas; TCU Horned Frogs: sin bajas"
-   ],
    "context": "Arizona Wildcats vs TCU Horned Frogs (🏈 NCAA Football). Hándicap Arizona Wildcats -9.5: margen esperado desde el Elo (gana Arizona Wildcats 75%). Forma Arizona Wildcats ✅✅✅✅❌, TCU Horned Frogs ❌❌✅❌✅. H2H 1 desde 2024: 0-1. Bajas: Arizona Wildcats: sin bajas; TCU Horned Frogs: sin bajas.",
    "captured": "2026-11-04T00:10",
    "version": "e240f08",
@@ -5330,18 +5314,6 @@
    "start": "2026-11-07T03:15Z",
    "league": "🏈 NCAA Football",
    "sport": "🏈",
-   "info": [
-    "📊 <b>Escenarios</b> (Elo con 9.455 partidos y bajas)",
-    "Gana Arizona Wildcats 75% · Gana TCU Horned Frogs 25%",
-    "Casas: Arizona Wildcats 74% · TCU Horned Frogs 26%",
-    "Hándicap ARIZ -9.5 · Total puntos 43.5",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Arizona Wildcats ✅✅✅✅❌ | TCU Horned Frogs ❌❌✅❌✅",
-    "• H2H: 1 desde 2024: 0-1",
-    "• Bajas: Arizona Wildcats: sin bajas; TCU Horned Frogs: sin bajas",
-    "• Favorito de las casas: Arizona Wildcats @ 1.29"
-   ],
    "context": "Arizona Wildcats vs TCU Horned Frogs (🏈 NCAA Football, fútbol americano). Modelo Elo con 10 años de historial ajustado por bajas: Arizona Wildcats 75%, TCU Horned Frogs 25%. Cuotas DraftKings 1.29/3.75, hándicap ARIZ -9.5, total 43.5. Forma Arizona Wildcats ✅✅✅✅❌, TCU Horned Frogs ❌❌✅❌✅. H2H 1 desde 2024: 0-1. Bajas Arizona Wildcats: ninguna. Bajas TCU Horned Frogs: ninguna.",
    "captured": "2026-11-04T00:10",
    "version": "e240f08",
@@ -5411,54 +5383,6 @@
    "bajas": "Michigan Wolverines: sin bajas; UConn Huskies: sin bajas",
    "considered": true,
    "placed": false
-  },
-  {
-   "market": "H",
-   "pick": "OG",
-   "odds": 4.25,
-   "book": "Unibet",
-   "implied": 0.205,
-   "edge": 0.392,
-   "sin_stake": true,
-   "p": 0.327,
-   "key": "fc|2359885",
-   "match": "OG vs hotShot",
-   "start": "2026-11-04T03:04:00+00:00",
-   "league": "🎮⚽ FC 27 · Champions League A",
-   "sport": "🎮⚽",
-   "context": "EA FC Esoccer Battle OG vs hotShot (Champions League A): goles esperados 2.06-2.34, 1X2 33%/23%/44%. Sin cuotas de casa.",
-   "captured": "2026-11-04T02:40",
-   "version": "5ddd416",
-   "bajas": "",
-   "considered": true,
-   "placed": false,
-   "score": "2-3",
-   "result": false,
-   "logged": true
-  },
-  {
-   "market": "H",
-   "pick": "Inquisitor",
-   "odds": 1.65,
-   "book": "Unibet",
-   "implied": 0.532,
-   "edge": 0.043,
-   "sin_stake": true,
-   "p": 0.632,
-   "key": "fc|2359886",
-   "match": "Inquisitor vs RossFCDK",
-   "start": "2026-11-04T03:04:00+00:00",
-   "league": "🎮⚽ FC 27 · Champions League A",
-   "sport": "🎮⚽",
-   "context": "EA FC Esoccer Battle Inquisitor vs RossFCDK (Champions League A): goles esperados 3.05-1.85, 1X2 63%/18%/18%. Sin cuotas de casa.",
-   "captured": "2026-11-04T02:40",
-   "version": "5ddd416",
-   "bajas": "",
-   "considered": true,
-   "placed": false,
-   "score": "2-1",
-   "result": true,
-   "logged": true
   },
   {
    "market": "A",
@@ -49398,7 +49322,11 @@
    "version": "e9211d9",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "3-2",
+   "result": false,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "D",
@@ -49444,7 +49372,11 @@
    "version": "e9211d9",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "1-2",
+   "result": true,
+   "close_p": null,
+   "logged": true
   },
   {
    "key": "vp|2026-11-07|Gornik Polkowice|Sparta Katowice",
@@ -49494,7 +49426,11 @@
    "captured": "2026-11-07T03:02",
    "version": "6fceccd",
    "bajas": "",
-   "considered": true
+   "considered": true,
+   "score": "1-4",
+   "result": true,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "H",
@@ -49510,20 +49446,6 @@
    "start": "2026-11-07T03:16:00+00:00",
    "league": "🎮⚽ FC 27 · Champions League A",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 58.951 partidos)",
-    "Goles esperados: KravaRK 2.60 · hrk 2.84",
-    "Ganador: KravaRK 38% · empate 22% · hrk 40%",
-    "Total: más de 5.5 goles 46% · menos 54%",
-    "Hándicap hrk: −1.5 29% · −2.5 16%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: KravaRK ➖➖➖❌❌ | hrk ➖❌✅➖❌",
-    "• Partidos: KravaRK 313 | hrk 750",
-    "• Liga: Champions League A",
-    "• Unibet: 1 3.00 · X 3.15 · 2 2.00 (sin margen 29%/28%/43%) · ventaja +13%. Sin stake hasta demostrar ROI con estas cuotas.",
-    "• En España: LeoVegas España 3.00 (+13%) · Paf España 3.00 (+13%)"
-   ],
    "context": "EA FC Esoccer Battle KravaRK vs hrk (Champions League A): goles esperados 2.60-2.84, 1X2 38%/22%/40%. Sin cuotas de casa.",
    "captured": "2026-11-07T03:02",
    "version": "6fceccd",
@@ -66321,7 +66243,9 @@
   "nba|2026-11-07|Atlanta Hawks|Washington Wizards",
   "nba|2026-11-07|Indiana Pacers|Denver Nuggets",
   "nba|2026-11-08|Golden State Warriors|Orlando Magic",
-  "nba|2026-11-08|Phoenix Suns|Houston Rockets"
+  "nba|2026-11-08|Phoenix Suns|Houston Rockets",
+  "nba|2026-11-08|Atlanta Hawks|Brooklyn Nets",
+  "nba|2026-11-08|Oklahoma City Thunder|Washington Wizards"
  ],
  "radar_date": "2026-11-06",
  "sgp_res_sent": "2026-11-07T00:15:02.504113+00:00"

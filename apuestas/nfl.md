@@ -1,50 +1,6 @@
 # 🏈 NFL·NCAA · apuestas de valor
 
-Actualizado 07/11/2026 04:02 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Arizona Wildcats vs TCU Horned Frogs — 07/11 · 04:15
-
-👀 candidata · 🏈 NCAA Football · **Más de 43.5 puntos** @ **1.87** (DraftKings) · prob 51% vs casas 51% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 totales» sin pérdidas demostradas
-
-📊 **Escenarios**: total esperado **48.0** puntos · línea 43.5  
-Más 51% · Menos 49%  
-🔎 **Claves**  
-• Forma: Arizona Wildcats ✅✅✅✅❌ | TCU Horned Frogs ❌❌✅❌✅  
-• H2H: 1 desde 2024: 0-1  
-• Bajas: Arizona Wildcats: sin bajas; TCU Horned Frogs: sin bajas  
-
-## Arizona Wildcats vs TCU Horned Frogs — 07/11 · 04:15
-
-👀 candidata · 🏈 NCAA Football · **Arizona Wildcats -9.5** @ **1.95** (DraftKings) · prob 49% vs casas 49% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 hándicap» sin pérdidas demostradas
-
-📊 **Escenarios**: Arizona Wildcats cubre -9.5 con prob. 49% (casas 49%)  
-🔎 **Claves**  
-• Forma: Arizona Wildcats ✅✅✅✅❌ | TCU Horned Frogs ❌❌✅❌✅  
-• H2H: 1 desde 2024: 0-1  
-• Bajas: Arizona Wildcats: sin bajas; TCU Horned Frogs: sin bajas  
-
-## Arizona Wildcats vs TCU Horned Frogs — 07/11 · 04:15
-
-👀 candidata · 🏈 NCAA Football · **Gana Arizona Wildcats** @ **1.29** (DraftKings) · prob 74% vs casas 74% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo con 9.455 partidos y bajas)  
-Gana Arizona Wildcats 75% · Gana TCU Horned Frogs 25%  
-Casas: Arizona Wildcats 74% · TCU Horned Frogs 26%  
-Hándicap ARIZ -9.5 · Total puntos 43.5  
-🔎 **Claves**  
-• Forma: Arizona Wildcats ✅✅✅✅❌ | TCU Horned Frogs ❌❌✅❌✅  
-• H2H: 1 desde 2024: 0-1  
-• Bajas: Arizona Wildcats: sin bajas; TCU Horned Frogs: sin bajas  
-• Favorito de las casas: Arizona Wildcats @ 1.29  
+Actualizado 07/11/2026 04:24 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Utah Utes vs BYU Cougars — 07/11 · 18:00
 
