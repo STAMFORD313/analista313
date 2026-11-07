@@ -59507,16 +59507,16 @@ id,tournament_id,club1,club2,ht1,ht2
 2367600,261265,Athletic Club,Atleti,,
 2367601,261265,Villarreal,Athletic Club,,
 2367602,261265,Barcelona,Real Madrid,,
-2366874,261230,Atleti,Paris,2,2
-2366875,261230,Real Madrid,Liverpool,2,0
-2366876,261230,Liverpool,Atleti,2,0
-2366877,261230,Paris,Bayern Munchen,0,2
-2366878,261230,Bayern Munchen,Liverpool,2,1
-2366879,261230,Atleti,Real Madrid,0,6
-2366880,261230,Real Madrid,Bayern Munchen,0,2
-2366881,261230,Liverpool,Paris,2,0
-2366882,261230,Paris,Real Madrid,0,0
-2366883,261230,Bayern Munchen,Atleti,0,0
+2366874,261230,Atleti,Paris,2.0,2.0
+2366875,261230,Real Madrid,Liverpool,2.0,0.0
+2366876,261230,Liverpool,Atleti,2.0,0.0
+2366877,261230,Paris,Bayern Munchen,0.0,2.0
+2366878,261230,Bayern Munchen,Liverpool,2.0,1.0
+2366879,261230,Atleti,Real Madrid,0.0,6.0
+2366880,261230,Real Madrid,Bayern Munchen,0.0,2.0
+2366881,261230,Liverpool,Paris,2.0,0.0
+2366882,261230,Paris,Real Madrid,0.0,0.0
+2366883,261230,Bayern Munchen,Atleti,0.0,0.0
 2366884,261230,Paris,Atleti,,
 2366885,261230,Liverpool,Real Madrid,,
 2366886,261230,Atleti,Liverpool,,
@@ -59527,12 +59527,12 @@ id,tournament_id,club1,club2,ht1,ht2
 2366891,261230,Paris,Liverpool,,
 2366892,261230,Real Madrid,Paris,,
 2366893,261230,Atleti,Bayern Munchen,,
-2367823,261233,England,France,4,0
-2367824,261233,Spain,Argentina,4,3
-2367825,261233,Argentina,England,1,2
-2367826,261233,France,Germany,3,5
-2367827,261233,Germany,Argentina,4,2
-2367828,261233,England,Spain,3,3
+2367823,261233,England,France,4.0,0.0
+2367824,261233,Spain,Argentina,4.0,3.0
+2367825,261233,Argentina,England,1.0,2.0
+2367826,261233,France,Germany,3.0,5.0
+2367827,261233,Germany,Argentina,4.0,2.0
+2367828,261233,England,Spain,3.0,3.0
 2367829,261233,Spain,Germany,,
 2367830,261233,Argentina,France,,
 2367831,261233,France,Spain,,
@@ -59547,14 +59547,14 @@ id,tournament_id,club1,club2,ht1,ht2
 2367840,261233,France,Argentina,,
 2367841,261233,Spain,France,,
 2367842,261233,England,Germany,,
-2367214,261273,PSV,Ajax,1,2
-2367215,261273,Feyenoord,Twente,3,0
-2367216,261273,Twente,PSV,0,4
-2367217,261273,Ajax,AZ Alkmaar,1,1
-2367218,261273,AZ Alkmaar,Twente,0,1
-2367219,261273,PSV,Feyenoord,1,3
-2367220,261273,Feyenoord,AZ Alkmaar,0,0
-2367221,261273,Twente,Ajax,0,0
+2367214,261273,PSV,Ajax,1.0,2.0
+2367215,261273,Feyenoord,Twente,3.0,0.0
+2367216,261273,Twente,PSV,0.0,4.0
+2367217,261273,Ajax,AZ Alkmaar,1.0,1.0
+2367218,261273,AZ Alkmaar,Twente,0.0,1.0
+2367219,261273,PSV,Feyenoord,1.0,3.0
+2367220,261273,Feyenoord,AZ Alkmaar,0.0,0.0
+2367221,261273,Twente,Ajax,0.0,0.0
 2367222,261273,Ajax,Feyenoord,,
 2367223,261273,AZ Alkmaar,PSV,,
 2367224,261273,Ajax,PSV,,

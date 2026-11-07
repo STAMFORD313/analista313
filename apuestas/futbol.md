@@ -1,741 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 07/11/2026 15:26 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Dortmund vs Elversberg — 07/11 · 15:30
-
-👀 candidata · 🇩🇪 Bundesliga · **Gana Dortmund** @ **1.32** (Bwin) · prob 74% vs casas 74% · ventaja -2%
-
-- ❌ Valor: ventaja -2% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 2.54 - 0.94)  
-1 75% · X 16% · 2 9%  
-1X 91% · X2 25% · 12 84%  
-+1.5 87% · +2.5 68% · +3.5 46% · Ambos marcan 56%  
-Marcadores: 2-0 10% · 2-1 9% · 3-0 8% · 3-1 8%  
-🔎 **Claves**  
-• Forma: Dortmund ✅➖➖✅➖ | Elversberg ➖❌✅❌✅  
-• H2H: sin precedentes  
-• Bajas: Dortmund: 2 fuera, 2 duda (G. Konstantelias, Emre Can); Elversberg: 0 fuera, 3 duda  
-• Favorito de las casas: Dortmund @ 1.32  
-📐 **Estadísticas esperadas**  
-Córners 7.7 - 3.0: total +10.5 51% · Dortmund +5.5 70% · Elversberg +4.5 21%  
-Tarjetas 1.6 - 1.7: total +3.5 42% · Dortmund +2.5 21% · Elversberg +2.5 25%  
-Faltas 10.9 - 10.3: total +20.5 54% · Dortmund +10.5 53% · Elversberg +10.5 45%  
-Tiros a puerta 7.1 - 3.1: total +10.5 45% · Dortmund +5.5 68% · Elversberg +4.5 21%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Dortmund + Menos de 4.5 tiros a puerta de Elversberg + Menos de 4.5 córners de Elversberg → prob. 51%, cuota justa 1.96 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Dortmund + Menos de 4.5 tiros a puerta de Elversberg + Menos de 4.5 córners de Elversberg + Más de 2.5 goles → prob. 33%, cuota justa 3.07  
-🎯 No simulada (con cuota: Menos de 2.5 tarjetas de Dortmund + Menos de 4.5 córners de Elversberg): cuota Unibet aprox. 1.61 (producto de piernas) · prob. 62% · ventaja +0%  
-
-## Mainz vs Bayern Munich — 07/11 · 15:30
-
-👀 candidata · 🇩🇪 Bundesliga · **Gana Bayern Munich** @ **1.34** (Bwin) · prob 73% vs casas 73% · ventaja -2%
-
-- ❌ Valor: ventaja -2% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.03 - 2.46)  
-1 9% · X 18% · 2 73%  
-1X 27% · X2 91% · 12 82%  
-+1.5 87% · +2.5 68% · +3.5 46% · Ambos marcan 59%  
-Marcadores: 1-2 10% · 0-2 9% · 1-1 8% · 1-3 8%  
-🔎 **Claves**  
-• Forma: Mainz ✅❌✅❌❌ | Bayern Munich ✅➖✅✅➖  
-• H2H: 38 desde 2005: 8V-4E-26D · 4.1 goles/partido · +2.5 en 89%  
-• Bajas: Mainz: 3 fuera, 3 duda (Phillipp Mwene, Stefan Posch, Silas Katompa Mvumpa); Bayern Munich: 0 fuera, 6 duda  
-• Favorito de las casas: Bayern Munich @ 1.34  
-📐 **Estadísticas esperadas**  
-Córners 4.2 - 6.1: total +10.5 45% · Mainz +5.5 26% · Bayern Munich +4.5 66%  
-Tarjetas 2.1 - 1.7: total +3.5 51% · Mainz +2.5 34% · Bayern Munich +2.5 24%  
-Faltas 9.9 - 8.4: total +20.5 30% · Mainz +10.5 40% · Bayern Munich +10.5 23%  
-Tiros a puerta 3.8 - 7.5: total +10.5 56% · Mainz +5.5 20% · Bayern Munich +4.5 83%  
-🧩 Crear apuesta: Más de 4.5 tiros a puerta de Bayern Munich + Menos de 10.5 faltas de Bayern Munich + Menos de 2.5 tarjetas de Bayern Munich → prob. 52%, cuota justa 1.91 (solo vale si la casa paga más)  
-🚀 Combinada larga: Más de 4.5 tiros a puerta de Bayern Munich + Menos de 10.5 faltas de Bayern Munich + Menos de 2.5 tarjetas de Bayern Munich + Menos de 5.5 córners de Mainz + Más de 2.5 goles → prob. 29%, cuota justa 3.51  
-🎯 No simulada (con cuota: Menos de 2.5 tarjetas de Bayern Munich + Menos de 5.5 córners de Mainz): cuota Unibet aprox. 1.50 (producto de piernas) · prob. 57% · ventaja -15%  
-
-## Paderborn vs Ein Frankfurt — 07/11 · 15:30
-
-👀 candidata · 🇩🇪 Bundesliga · **Paderborn +0.25 (hándicap asiático)** @ **1.98** (mejor del mercado) · prob 50% vs casas 50% · ventaja -1%
-
-- ❌ Valor: ventaja -1% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ hándicap» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.51 - 1.48)  
-1 31% · X 29% · 2 40%  
-1X 60% · X2 69% · 12 71%  
-+1.5 80% · +2.5 57% · +3.5 35% · Ambos marcan 61%  
-Marcadores: 1-1 12% · 2-1 8% · 1-2 8% · 1-0 7%  
-🔎 **Claves**  
-• Forma: Paderborn ✅❌➖✅➖ | Ein Frankfurt ➖❌✅❌✅  
-• H2H: 6 desde 2011: 3V-1E-2D · 3.7 goles/partido · +2.5 en 83%  
-• Bajas: Paderborn: 0 fuera, 7 duda; Ein Frankfurt: 0 fuera, 1 duda  
-• Favorito de las casas: Ein Frankfurt @ 2.15  
-📐 **Estadísticas esperadas**  
-Córners 5.2 - 4.4: total +10.5 38% · Paderborn +5.5 41% · Ein Frankfurt +4.5 44%  
-Tarjetas 1.6 - 1.9: total +3.5 47% · Paderborn +2.5 22% · Ein Frankfurt +2.5 31%  
-Faltas 10.1 - 11.1: total +20.5 53% · Paderborn +10.5 42% · Ein Frankfurt +10.5 54%  
-Tiros a puerta 5.3 - 4.6: total +10.5 41% · Paderborn +5.5 43% · Ein Frankfurt +4.5 48%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Paderborn + Menos de 10.5 córners → prob. 48%, cuota justa 2.07 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Paderborn + Menos de 10.5 córners + Menos de 10.5 tiros a puerta + Menos de 10.5 faltas de Paderborn + Más de 2.5 goles → prob. 8%, cuota justa 12.80  
-🎯 Simulada (crear apuesta): cuota Unibet aprox. 2.21 (producto de piernas) · prob. 48% · ventaja +7% → 1 u en la banca de simulación  
-🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Paderborn + Menos de 10.5 córners): cuota Unibet aprox. 2.21 (producto de piernas) · prob. 48% · ventaja +7% → 1 u en la banca de simulación  
-
-## RB Leipzig vs Augsburg — 07/11 · 15:30
-
-👀 candidata · 🇩🇪 Bundesliga · **Gana RB Leipzig** @ **1.47** (Bwin) · prob 66% vs casas 66% · ventaja -3%
-
-- ❌ Valor: ventaja -3% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 2.63 - 0.99)  
-1 66% · X 20% · 2 13%  
-1X 87% · X2 34% · 12 80%  
-+1.5 88% · +2.5 70% · +3.5 49% · Ambos marcan 59%  
-Marcadores: 2-0 9% · 2-1 9% · 3-0 8% · 3-1 8%  
-🔎 **Claves**  
-• Forma: RB Leipzig ❌✅❌✅✅ | Augsburg ❌➖❌➖❌  
-• H2H: 20 desde 2016: 12V-7E-1D · 3.0 goles/partido · +2.5 en 65%  
-• Bajas: RB Leipzig: 3 fuera, 0 duda (Lukas Klostermann, F. Assan Ouedraogo, Marc Guiu); Augsburg: 1 fuera, 5 duda (Kristijan Jakic)  
-• Favorito de las casas: RB Leipzig @ 1.47  
-📐 **Estadísticas esperadas**  
-Córners 6.8 - 3.9: total +10.5 50% · RB Leipzig +5.5 61% · Augsburg +4.5 36%  
-Tarjetas 1.4 - 2.1: total +3.5 46% · RB Leipzig +2.5 16% · Augsburg +2.5 36%  
-Faltas 9.4 - 11.0: total +20.5 48% · RB Leipzig +10.5 35% · Augsburg +10.5 53%  
-Tiros a puerta 8.3 - 3.9: total +10.5 66% · RB Leipzig +5.5 80% · Augsburg +4.5 35%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de RB Leipzig + Más de 5.5 tiros a puerta de RB Leipzig + Más de 2.5 goles → prob. 50%, cuota justa 1.98 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de RB Leipzig + Más de 5.5 tiros a puerta de RB Leipzig + Más de 2.5 goles + Menos de 10.5 faltas de RB Leipzig + Menos de 4.5 córners de Augsburg → prob. 23%, cuota justa 4.38  
-🎯 No simulada (con cuota: Más de 5.5 tiros a puerta de RB Leipzig + Menos de 4.5 córners de Augsburg): cuota Unibet aprox. 1.91 (producto de piernas) · prob. 53% · ventaja +1%  
-
-## Dortmund vs Elversberg — 07/11 · 15:30
-
-👀 candidata · 🇩🇪 Bundesliga · **Más de 8.5 córners de Dortmund** @ **2.75** (Unibet) · prob 36% vs casas 33% · ventaja -2%
-
-- ❌ Valor: ventaja -2% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 2.54 - 0.94)  
-1 75% · X 16% · 2 9%  
-1X 91% · X2 25% · 12 84%  
-+1.5 87% · +2.5 68% · +3.5 46% · Ambos marcan 56%  
-Marcadores: 2-0 10% · 2-1 9% · 3-0 8% · 3-1 8%  
-🔎 **Claves**  
-• Forma: Dortmund ✅➖➖✅➖ | Elversberg ➖❌✅❌✅  
-• H2H: sin precedentes  
-• Bajas: Dortmund: 2 fuera, 2 duda (G. Konstantelias, Emre Can); Elversberg: 0 fuera, 3 duda  
-• Favorito de las casas: Dortmund @ 1.32  
-📐 **Estadísticas esperadas**  
-Córners 7.7 - 3.0: total +10.5 51% · Dortmund +5.5 70% · Elversberg +4.5 21%  
-Tarjetas 1.6 - 1.7: total +3.5 42% · Dortmund +2.5 21% · Elversberg +2.5 25%  
-Faltas 10.9 - 10.3: total +20.5 54% · Dortmund +10.5 53% · Elversberg +10.5 45%  
-Tiros a puerta 7.1 - 3.1: total +10.5 45% · Dortmund +5.5 68% · Elversberg +4.5 21%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Dortmund + Menos de 4.5 tiros a puerta de Elversberg + Menos de 4.5 córners de Elversberg → prob. 51%, cuota justa 1.96 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Dortmund + Menos de 4.5 tiros a puerta de Elversberg + Menos de 4.5 córners de Elversberg + Más de 2.5 goles → prob. 33%, cuota justa 3.07  
-🎯 No simulada (con cuota: Menos de 2.5 tarjetas de Dortmund + Menos de 4.5 córners de Elversberg): cuota Unibet aprox. 1.61 (producto de piernas) · prob. 62% · ventaja +0%  
-
-## Dortmund vs Elversberg — 07/11 · 15:30
-
-👀 candidata · 🇩🇪 Bundesliga · **Menos de 9.5 córners de Dortmund** @ **1.23** (Unibet) · prob 73% vs casas 74% · ventaja -10%
-
-- ❌ Valor: ventaja -10% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 2.54 - 0.94)  
-1 75% · X 16% · 2 9%  
-1X 91% · X2 25% · 12 84%  
-+1.5 87% · +2.5 68% · +3.5 46% · Ambos marcan 56%  
-Marcadores: 2-0 10% · 2-1 9% · 3-0 8% · 3-1 8%  
-🔎 **Claves**  
-• Forma: Dortmund ✅➖➖✅➖ | Elversberg ➖❌✅❌✅  
-• H2H: sin precedentes  
-• Bajas: Dortmund: 2 fuera, 2 duda (G. Konstantelias, Emre Can); Elversberg: 0 fuera, 3 duda  
-• Favorito de las casas: Dortmund @ 1.32  
-📐 **Estadísticas esperadas**  
-Córners 7.7 - 3.0: total +10.5 51% · Dortmund +5.5 70% · Elversberg +4.5 21%  
-Tarjetas 1.6 - 1.7: total +3.5 42% · Dortmund +2.5 21% · Elversberg +2.5 25%  
-Faltas 10.9 - 10.3: total +20.5 54% · Dortmund +10.5 53% · Elversberg +10.5 45%  
-Tiros a puerta 7.1 - 3.1: total +10.5 45% · Dortmund +5.5 68% · Elversberg +4.5 21%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Dortmund + Menos de 4.5 tiros a puerta de Elversberg + Menos de 4.5 córners de Elversberg → prob. 51%, cuota justa 1.96 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Dortmund + Menos de 4.5 tiros a puerta de Elversberg + Menos de 4.5 córners de Elversberg + Más de 2.5 goles → prob. 33%, cuota justa 3.07  
-🎯 No simulada (con cuota: Menos de 2.5 tarjetas de Dortmund + Menos de 4.5 córners de Elversberg): cuota Unibet aprox. 1.61 (producto de piernas) · prob. 62% · ventaja +0%  
-
-## Dortmund vs Elversberg — 07/11 · 15:30
-
-👀 candidata · 🇩🇪 Bundesliga · **Más de 1.5 córners de Elversberg** @ **1.19** (Unibet) · prob 77% vs casas 77% · ventaja -9%
-
-- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 2.54 - 0.94)  
-1 75% · X 16% · 2 9%  
-1X 91% · X2 25% · 12 84%  
-+1.5 87% · +2.5 68% · +3.5 46% · Ambos marcan 56%  
-Marcadores: 2-0 10% · 2-1 9% · 3-0 8% · 3-1 8%  
-🔎 **Claves**  
-• Forma: Dortmund ✅➖➖✅➖ | Elversberg ➖❌✅❌✅  
-• H2H: sin precedentes  
-• Bajas: Dortmund: 2 fuera, 2 duda (G. Konstantelias, Emre Can); Elversberg: 0 fuera, 3 duda  
-• Favorito de las casas: Dortmund @ 1.32  
-📐 **Estadísticas esperadas**  
-Córners 7.7 - 3.0: total +10.5 51% · Dortmund +5.5 70% · Elversberg +4.5 21%  
-Tarjetas 1.6 - 1.7: total +3.5 42% · Dortmund +2.5 21% · Elversberg +2.5 25%  
-Faltas 10.9 - 10.3: total +20.5 54% · Dortmund +10.5 53% · Elversberg +10.5 45%  
-Tiros a puerta 7.1 - 3.1: total +10.5 45% · Dortmund +5.5 68% · Elversberg +4.5 21%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Dortmund + Menos de 4.5 tiros a puerta de Elversberg + Menos de 4.5 córners de Elversberg → prob. 51%, cuota justa 1.96 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Dortmund + Menos de 4.5 tiros a puerta de Elversberg + Menos de 4.5 córners de Elversberg + Más de 2.5 goles → prob. 33%, cuota justa 3.07  
-🎯 No simulada (con cuota: Menos de 2.5 tarjetas de Dortmund + Menos de 4.5 córners de Elversberg): cuota Unibet aprox. 1.61 (producto de piernas) · prob. 62% · ventaja +0%  
-
-## Dortmund vs Elversberg — 07/11 · 15:30
-
-👀 candidata · 🇩🇪 Bundesliga · **Menos de 3.5 córners de Elversberg** @ **1.54** (Unibet) · prob 62% vs casas 59% · ventaja -5%
-
-- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 2.54 - 0.94)  
-1 75% · X 16% · 2 9%  
-1X 91% · X2 25% · 12 84%  
-+1.5 87% · +2.5 68% · +3.5 46% · Ambos marcan 56%  
-Marcadores: 2-0 10% · 2-1 9% · 3-0 8% · 3-1 8%  
-🔎 **Claves**  
-• Forma: Dortmund ✅➖➖✅➖ | Elversberg ➖❌✅❌✅  
-• H2H: sin precedentes  
-• Bajas: Dortmund: 2 fuera, 2 duda (G. Konstantelias, Emre Can); Elversberg: 0 fuera, 3 duda  
-• Favorito de las casas: Dortmund @ 1.32  
-📐 **Estadísticas esperadas**  
-Córners 7.7 - 3.0: total +10.5 51% · Dortmund +5.5 70% · Elversberg +4.5 21%  
-Tarjetas 1.6 - 1.7: total +3.5 42% · Dortmund +2.5 21% · Elversberg +2.5 25%  
-Faltas 10.9 - 10.3: total +20.5 54% · Dortmund +10.5 53% · Elversberg +10.5 45%  
-Tiros a puerta 7.1 - 3.1: total +10.5 45% · Dortmund +5.5 68% · Elversberg +4.5 21%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Dortmund + Menos de 4.5 tiros a puerta de Elversberg + Menos de 4.5 córners de Elversberg → prob. 51%, cuota justa 1.96 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Dortmund + Menos de 4.5 tiros a puerta de Elversberg + Menos de 4.5 córners de Elversberg + Más de 2.5 goles → prob. 33%, cuota justa 3.07  
-🎯 No simulada (con cuota: Menos de 2.5 tarjetas de Dortmund + Menos de 4.5 córners de Elversberg): cuota Unibet aprox. 1.61 (producto de piernas) · prob. 62% · ventaja +0%  
-
-## Dortmund vs Elversberg — 07/11 · 15:30
-
-👀 candidata · 🇩🇪 Bundesliga · **Más de 9.5 córners** @ **1.60** (Unibet) · prob 60% vs casas 58% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 2.54 - 0.94)  
-1 75% · X 16% · 2 9%  
-1X 91% · X2 25% · 12 84%  
-+1.5 87% · +2.5 68% · +3.5 46% · Ambos marcan 56%  
-Marcadores: 2-0 10% · 2-1 9% · 3-0 8% · 3-1 8%  
-🔎 **Claves**  
-• Forma: Dortmund ✅➖➖✅➖ | Elversberg ➖❌✅❌✅  
-• H2H: sin precedentes  
-• Bajas: Dortmund: 2 fuera, 2 duda (G. Konstantelias, Emre Can); Elversberg: 0 fuera, 3 duda  
-• Favorito de las casas: Dortmund @ 1.32  
-📐 **Estadísticas esperadas**  
-Córners 7.7 - 3.0: total +10.5 51% · Dortmund +5.5 70% · Elversberg +4.5 21%  
-Tarjetas 1.6 - 1.7: total +3.5 42% · Dortmund +2.5 21% · Elversberg +2.5 25%  
-Faltas 10.9 - 10.3: total +20.5 54% · Dortmund +10.5 53% · Elversberg +10.5 45%  
-Tiros a puerta 7.1 - 3.1: total +10.5 45% · Dortmund +5.5 68% · Elversberg +4.5 21%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Dortmund + Menos de 4.5 tiros a puerta de Elversberg + Menos de 4.5 córners de Elversberg → prob. 51%, cuota justa 1.96 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Dortmund + Menos de 4.5 tiros a puerta de Elversberg + Menos de 4.5 córners de Elversberg + Más de 2.5 goles → prob. 33%, cuota justa 3.07  
-🎯 No simulada (con cuota: Menos de 2.5 tarjetas de Dortmund + Menos de 4.5 córners de Elversberg): cuota Unibet aprox. 1.61 (producto de piernas) · prob. 62% · ventaja +0%  
-
-## Dortmund vs Elversberg — 07/11 · 15:30
-
-👀 candidata · 🇩🇪 Bundesliga · **Menos de 13.5 córners** @ **1.19** (Unibet) · prob 78% vs casas 78% · ventaja -7%
-
-- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 2.54 - 0.94)  
-1 75% · X 16% · 2 9%  
-1X 91% · X2 25% · 12 84%  
-+1.5 87% · +2.5 68% · +3.5 46% · Ambos marcan 56%  
-Marcadores: 2-0 10% · 2-1 9% · 3-0 8% · 3-1 8%  
-🔎 **Claves**  
-• Forma: Dortmund ✅➖➖✅➖ | Elversberg ➖❌✅❌✅  
-• H2H: sin precedentes  
-• Bajas: Dortmund: 2 fuera, 2 duda (G. Konstantelias, Emre Can); Elversberg: 0 fuera, 3 duda  
-• Favorito de las casas: Dortmund @ 1.32  
-📐 **Estadísticas esperadas**  
-Córners 7.7 - 3.0: total +10.5 51% · Dortmund +5.5 70% · Elversberg +4.5 21%  
-Tarjetas 1.6 - 1.7: total +3.5 42% · Dortmund +2.5 21% · Elversberg +2.5 25%  
-Faltas 10.9 - 10.3: total +20.5 54% · Dortmund +10.5 53% · Elversberg +10.5 45%  
-Tiros a puerta 7.1 - 3.1: total +10.5 45% · Dortmund +5.5 68% · Elversberg +4.5 21%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Dortmund + Menos de 4.5 tiros a puerta de Elversberg + Menos de 4.5 córners de Elversberg → prob. 51%, cuota justa 1.96 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Dortmund + Menos de 4.5 tiros a puerta de Elversberg + Menos de 4.5 córners de Elversberg + Más de 2.5 goles → prob. 33%, cuota justa 3.07  
-🎯 No simulada (con cuota: Menos de 2.5 tarjetas de Dortmund + Menos de 4.5 córners de Elversberg): cuota Unibet aprox. 1.61 (producto de piernas) · prob. 62% · ventaja +0%  
-
-## Mainz vs Bayern Munich — 07/11 · 15:30
-
-👀 candidata · 🇩🇪 Bundesliga · **Menos de 4.5 córners de Bayern Munich** @ **3.20** (Unibet) · prob 31% vs casas 29% · ventaja -0%
-
-- ❌ Valor: ventaja -0% (mín. 7% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.03 - 2.46)  
-1 9% · X 18% · 2 73%  
-1X 27% · X2 91% · 12 82%  
-+1.5 87% · +2.5 68% · +3.5 46% · Ambos marcan 59%  
-Marcadores: 1-2 10% · 0-2 9% · 1-1 8% · 1-3 8%  
-🔎 **Claves**  
-• Forma: Mainz ✅❌✅❌❌ | Bayern Munich ✅➖✅✅➖  
-• H2H: 38 desde 2005: 8V-4E-26D · 4.1 goles/partido · +2.5 en 89%  
-• Bajas: Mainz: 3 fuera, 3 duda (Phillipp Mwene, Stefan Posch, Silas Katompa Mvumpa); Bayern Munich: 0 fuera, 6 duda  
-• Favorito de las casas: Bayern Munich @ 1.34  
-📐 **Estadísticas esperadas**  
-Córners 4.2 - 6.1: total +10.5 45% · Mainz +5.5 26% · Bayern Munich +4.5 66%  
-Tarjetas 2.1 - 1.7: total +3.5 51% · Mainz +2.5 34% · Bayern Munich +2.5 24%  
-Faltas 9.9 - 8.4: total +20.5 30% · Mainz +10.5 40% · Bayern Munich +10.5 23%  
-Tiros a puerta 3.8 - 7.5: total +10.5 56% · Mainz +5.5 20% · Bayern Munich +4.5 83%  
-🧩 Crear apuesta: Más de 4.5 tiros a puerta de Bayern Munich + Menos de 10.5 faltas de Bayern Munich + Menos de 2.5 tarjetas de Bayern Munich → prob. 52%, cuota justa 1.91 (solo vale si la casa paga más)  
-🚀 Combinada larga: Más de 4.5 tiros a puerta de Bayern Munich + Menos de 10.5 faltas de Bayern Munich + Menos de 2.5 tarjetas de Bayern Munich + Menos de 5.5 córners de Mainz + Más de 2.5 goles → prob. 29%, cuota justa 3.51  
-🎯 No simulada (con cuota: Menos de 2.5 tarjetas de Bayern Munich + Menos de 5.5 córners de Mainz): cuota Unibet aprox. 1.50 (producto de piernas) · prob. 57% · ventaja -15%  
-
-## Mainz vs Bayern Munich — 07/11 · 15:30
-
-👀 candidata · 🇩🇪 Bundesliga · **Más de 4.5 córners de Bayern Munich** @ **1.28** (Unibet) · prob 69% vs casas 71% · ventaja -12%
-
-- ❌ Valor: ventaja -12% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.03 - 2.46)  
-1 9% · X 18% · 2 73%  
-1X 27% · X2 91% · 12 82%  
-+1.5 87% · +2.5 68% · +3.5 46% · Ambos marcan 59%  
-Marcadores: 1-2 10% · 0-2 9% · 1-1 8% · 1-3 8%  
-🔎 **Claves**  
-• Forma: Mainz ✅❌✅❌❌ | Bayern Munich ✅➖✅✅➖  
-• H2H: 38 desde 2005: 8V-4E-26D · 4.1 goles/partido · +2.5 en 89%  
-• Bajas: Mainz: 3 fuera, 3 duda (Phillipp Mwene, Stefan Posch, Silas Katompa Mvumpa); Bayern Munich: 0 fuera, 6 duda  
-• Favorito de las casas: Bayern Munich @ 1.34  
-📐 **Estadísticas esperadas**  
-Córners 4.2 - 6.1: total +10.5 45% · Mainz +5.5 26% · Bayern Munich +4.5 66%  
-Tarjetas 2.1 - 1.7: total +3.5 51% · Mainz +2.5 34% · Bayern Munich +2.5 24%  
-Faltas 9.9 - 8.4: total +20.5 30% · Mainz +10.5 40% · Bayern Munich +10.5 23%  
-Tiros a puerta 3.8 - 7.5: total +10.5 56% · Mainz +5.5 20% · Bayern Munich +4.5 83%  
-🧩 Crear apuesta: Más de 4.5 tiros a puerta de Bayern Munich + Menos de 10.5 faltas de Bayern Munich + Menos de 2.5 tarjetas de Bayern Munich → prob. 52%, cuota justa 1.91 (solo vale si la casa paga más)  
-🚀 Combinada larga: Más de 4.5 tiros a puerta de Bayern Munich + Menos de 10.5 faltas de Bayern Munich + Menos de 2.5 tarjetas de Bayern Munich + Menos de 5.5 córners de Mainz + Más de 2.5 goles → prob. 29%, cuota justa 3.51  
-🎯 No simulada (con cuota: Menos de 2.5 tarjetas de Bayern Munich + Menos de 5.5 córners de Mainz): cuota Unibet aprox. 1.50 (producto de piernas) · prob. 57% · ventaja -15%  
-
-## Mainz vs Bayern Munich — 07/11 · 15:30
-
-👀 candidata · 🇩🇪 Bundesliga · **Más de 2.5 córners de Mainz** @ **1.33** (Unibet) · prob 71% vs casas 69% · ventaja -5%
-
-- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.03 - 2.46)  
-1 9% · X 18% · 2 73%  
-1X 27% · X2 91% · 12 82%  
-+1.5 87% · +2.5 68% · +3.5 46% · Ambos marcan 59%  
-Marcadores: 1-2 10% · 0-2 9% · 1-1 8% · 1-3 8%  
-🔎 **Claves**  
-• Forma: Mainz ✅❌✅❌❌ | Bayern Munich ✅➖✅✅➖  
-• H2H: 38 desde 2005: 8V-4E-26D · 4.1 goles/partido · +2.5 en 89%  
-• Bajas: Mainz: 3 fuera, 3 duda (Phillipp Mwene, Stefan Posch, Silas Katompa Mvumpa); Bayern Munich: 0 fuera, 6 duda  
-• Favorito de las casas: Bayern Munich @ 1.34  
-📐 **Estadísticas esperadas**  
-Córners 4.2 - 6.1: total +10.5 45% · Mainz +5.5 26% · Bayern Munich +4.5 66%  
-Tarjetas 2.1 - 1.7: total +3.5 51% · Mainz +2.5 34% · Bayern Munich +2.5 24%  
-Faltas 9.9 - 8.4: total +20.5 30% · Mainz +10.5 40% · Bayern Munich +10.5 23%  
-Tiros a puerta 3.8 - 7.5: total +10.5 56% · Mainz +5.5 20% · Bayern Munich +4.5 83%  
-🧩 Crear apuesta: Más de 4.5 tiros a puerta de Bayern Munich + Menos de 10.5 faltas de Bayern Munich + Menos de 2.5 tarjetas de Bayern Munich → prob. 52%, cuota justa 1.91 (solo vale si la casa paga más)  
-🚀 Combinada larga: Más de 4.5 tiros a puerta de Bayern Munich + Menos de 10.5 faltas de Bayern Munich + Menos de 2.5 tarjetas de Bayern Munich + Menos de 5.5 córners de Mainz + Más de 2.5 goles → prob. 29%, cuota justa 3.51  
-🎯 No simulada (con cuota: Menos de 2.5 tarjetas de Bayern Munich + Menos de 5.5 córners de Mainz): cuota Unibet aprox. 1.50 (producto de piernas) · prob. 57% · ventaja -15%  
-
-## Mainz vs Bayern Munich — 07/11 · 15:30
-
-👀 candidata · 🇩🇪 Bundesliga · **Menos de 6.5 córners de Mainz** @ **1.13** (Unibet) · prob 83% vs casas 82% · ventaja -7%
-
-- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.03 - 2.46)  
-1 9% · X 18% · 2 73%  
-1X 27% · X2 91% · 12 82%  
-+1.5 87% · +2.5 68% · +3.5 46% · Ambos marcan 59%  
-Marcadores: 1-2 10% · 0-2 9% · 1-1 8% · 1-3 8%  
-🔎 **Claves**  
-• Forma: Mainz ✅❌✅❌❌ | Bayern Munich ✅➖✅✅➖  
-• H2H: 38 desde 2005: 8V-4E-26D · 4.1 goles/partido · +2.5 en 89%  
-• Bajas: Mainz: 3 fuera, 3 duda (Phillipp Mwene, Stefan Posch, Silas Katompa Mvumpa); Bayern Munich: 0 fuera, 6 duda  
-• Favorito de las casas: Bayern Munich @ 1.34  
-📐 **Estadísticas esperadas**  
-Córners 4.2 - 6.1: total +10.5 45% · Mainz +5.5 26% · Bayern Munich +4.5 66%  
-Tarjetas 2.1 - 1.7: total +3.5 51% · Mainz +2.5 34% · Bayern Munich +2.5 24%  
-Faltas 9.9 - 8.4: total +20.5 30% · Mainz +10.5 40% · Bayern Munich +10.5 23%  
-Tiros a puerta 3.8 - 7.5: total +10.5 56% · Mainz +5.5 20% · Bayern Munich +4.5 83%  
-🧩 Crear apuesta: Más de 4.5 tiros a puerta de Bayern Munich + Menos de 10.5 faltas de Bayern Munich + Menos de 2.5 tarjetas de Bayern Munich → prob. 52%, cuota justa 1.91 (solo vale si la casa paga más)  
-🚀 Combinada larga: Más de 4.5 tiros a puerta de Bayern Munich + Menos de 10.5 faltas de Bayern Munich + Menos de 2.5 tarjetas de Bayern Munich + Menos de 5.5 córners de Mainz + Más de 2.5 goles → prob. 29%, cuota justa 3.51  
-🎯 No simulada (con cuota: Menos de 2.5 tarjetas de Bayern Munich + Menos de 5.5 córners de Mainz): cuota Unibet aprox. 1.50 (producto de piernas) · prob. 57% · ventaja -15%  
-
-## Mainz vs Bayern Munich — 07/11 · 15:30
-
-👀 candidata · 🇩🇪 Bundesliga · **Más de 7.5 córners** @ **1.16** (Unibet) · prob 78% vs casas 79% · ventaja -9%
-
-- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.03 - 2.46)  
-1 9% · X 18% · 2 73%  
-1X 27% · X2 91% · 12 82%  
-+1.5 87% · +2.5 68% · +3.5 46% · Ambos marcan 59%  
-Marcadores: 1-2 10% · 0-2 9% · 1-1 8% · 1-3 8%  
-🔎 **Claves**  
-• Forma: Mainz ✅❌✅❌❌ | Bayern Munich ✅➖✅✅➖  
-• H2H: 38 desde 2005: 8V-4E-26D · 4.1 goles/partido · +2.5 en 89%  
-• Bajas: Mainz: 3 fuera, 3 duda (Phillipp Mwene, Stefan Posch, Silas Katompa Mvumpa); Bayern Munich: 0 fuera, 6 duda  
-• Favorito de las casas: Bayern Munich @ 1.34  
-📐 **Estadísticas esperadas**  
-Córners 4.2 - 6.1: total +10.5 45% · Mainz +5.5 26% · Bayern Munich +4.5 66%  
-Tarjetas 2.1 - 1.7: total +3.5 51% · Mainz +2.5 34% · Bayern Munich +2.5 24%  
-Faltas 9.9 - 8.4: total +20.5 30% · Mainz +10.5 40% · Bayern Munich +10.5 23%  
-Tiros a puerta 3.8 - 7.5: total +10.5 56% · Mainz +5.5 20% · Bayern Munich +4.5 83%  
-🧩 Crear apuesta: Más de 4.5 tiros a puerta de Bayern Munich + Menos de 10.5 faltas de Bayern Munich + Menos de 2.5 tarjetas de Bayern Munich → prob. 52%, cuota justa 1.91 (solo vale si la casa paga más)  
-🚀 Combinada larga: Más de 4.5 tiros a puerta de Bayern Munich + Menos de 10.5 faltas de Bayern Munich + Menos de 2.5 tarjetas de Bayern Munich + Menos de 5.5 córners de Mainz + Más de 2.5 goles → prob. 29%, cuota justa 3.51  
-🎯 No simulada (con cuota: Menos de 2.5 tarjetas de Bayern Munich + Menos de 5.5 córners de Mainz): cuota Unibet aprox. 1.50 (producto de piernas) · prob. 57% · ventaja -15%  
-
-## Mainz vs Bayern Munich — 07/11 · 15:30
-
-👀 candidata · 🇩🇪 Bundesliga · **Menos de 10.5 córners** @ **1.85** (Unibet) · prob 52% vs casas 50% · ventaja -3%
-
-- ❌ Valor: ventaja -3% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.03 - 2.46)  
-1 9% · X 18% · 2 73%  
-1X 27% · X2 91% · 12 82%  
-+1.5 87% · +2.5 68% · +3.5 46% · Ambos marcan 59%  
-Marcadores: 1-2 10% · 0-2 9% · 1-1 8% · 1-3 8%  
-🔎 **Claves**  
-• Forma: Mainz ✅❌✅❌❌ | Bayern Munich ✅➖✅✅➖  
-• H2H: 38 desde 2005: 8V-4E-26D · 4.1 goles/partido · +2.5 en 89%  
-• Bajas: Mainz: 3 fuera, 3 duda (Phillipp Mwene, Stefan Posch, Silas Katompa Mvumpa); Bayern Munich: 0 fuera, 6 duda  
-• Favorito de las casas: Bayern Munich @ 1.34  
-📐 **Estadísticas esperadas**  
-Córners 4.2 - 6.1: total +10.5 45% · Mainz +5.5 26% · Bayern Munich +4.5 66%  
-Tarjetas 2.1 - 1.7: total +3.5 51% · Mainz +2.5 34% · Bayern Munich +2.5 24%  
-Faltas 9.9 - 8.4: total +20.5 30% · Mainz +10.5 40% · Bayern Munich +10.5 23%  
-Tiros a puerta 3.8 - 7.5: total +10.5 56% · Mainz +5.5 20% · Bayern Munich +4.5 83%  
-🧩 Crear apuesta: Más de 4.5 tiros a puerta de Bayern Munich + Menos de 10.5 faltas de Bayern Munich + Menos de 2.5 tarjetas de Bayern Munich → prob. 52%, cuota justa 1.91 (solo vale si la casa paga más)  
-🚀 Combinada larga: Más de 4.5 tiros a puerta de Bayern Munich + Menos de 10.5 faltas de Bayern Munich + Menos de 2.5 tarjetas de Bayern Munich + Menos de 5.5 córners de Mainz + Más de 2.5 goles → prob. 29%, cuota justa 3.51  
-🎯 No simulada (con cuota: Menos de 2.5 tarjetas de Bayern Munich + Menos de 5.5 córners de Mainz): cuota Unibet aprox. 1.50 (producto de piernas) · prob. 57% · ventaja -15%  
-
-## Paderborn vs Ein Frankfurt — 07/11 · 15:30
-
-👀 candidata · 🇩🇪 Bundesliga · **Más de 4.5 córners de Paderborn** @ **1.72** (Unibet) · prob 55% vs casas 53% · ventaja -6%
-
-- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.51 - 1.48)  
-1 31% · X 29% · 2 40%  
-1X 60% · X2 69% · 12 71%  
-+1.5 80% · +2.5 57% · +3.5 35% · Ambos marcan 61%  
-Marcadores: 1-1 12% · 2-1 8% · 1-2 8% · 1-0 7%  
-🔎 **Claves**  
-• Forma: Paderborn ✅❌➖✅➖ | Ein Frankfurt ➖❌✅❌✅  
-• H2H: 6 desde 2011: 3V-1E-2D · 3.7 goles/partido · +2.5 en 83%  
-• Bajas: Paderborn: 0 fuera, 7 duda; Ein Frankfurt: 0 fuera, 1 duda  
-• Favorito de las casas: Ein Frankfurt @ 2.15  
-📐 **Estadísticas esperadas**  
-Córners 5.2 - 4.4: total +10.5 38% · Paderborn +5.5 41% · Ein Frankfurt +4.5 44%  
-Tarjetas 1.6 - 1.9: total +3.5 47% · Paderborn +2.5 22% · Ein Frankfurt +2.5 31%  
-Faltas 10.1 - 11.1: total +20.5 53% · Paderborn +10.5 42% · Ein Frankfurt +10.5 54%  
-Tiros a puerta 5.3 - 4.6: total +10.5 41% · Paderborn +5.5 43% · Ein Frankfurt +4.5 48%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Paderborn + Menos de 10.5 córners → prob. 48%, cuota justa 2.07 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Paderborn + Menos de 10.5 córners + Menos de 10.5 tiros a puerta + Menos de 10.5 faltas de Paderborn + Más de 2.5 goles → prob. 8%, cuota justa 12.80  
-🎯 Simulada (crear apuesta): cuota Unibet aprox. 2.21 (producto de piernas) · prob. 48% · ventaja +7% → 1 u en la banca de simulación  
-🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Paderborn + Menos de 10.5 córners): cuota Unibet aprox. 2.21 (producto de piernas) · prob. 48% · ventaja +7% → 1 u en la banca de simulación  
-
-## Paderborn vs Ein Frankfurt — 07/11 · 15:30
-
-👀 candidata · 🇩🇪 Bundesliga · **Menos de 6.5 córners de Paderborn** @ **1.30** (Unibet) · prob 71% vs casas 71% · ventaja -8%
-
-- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.51 - 1.48)  
-1 31% · X 29% · 2 40%  
-1X 60% · X2 69% · 12 71%  
-+1.5 80% · +2.5 57% · +3.5 35% · Ambos marcan 61%  
-Marcadores: 1-1 12% · 2-1 8% · 1-2 8% · 1-0 7%  
-🔎 **Claves**  
-• Forma: Paderborn ✅❌➖✅➖ | Ein Frankfurt ➖❌✅❌✅  
-• H2H: 6 desde 2011: 3V-1E-2D · 3.7 goles/partido · +2.5 en 83%  
-• Bajas: Paderborn: 0 fuera, 7 duda; Ein Frankfurt: 0 fuera, 1 duda  
-• Favorito de las casas: Ein Frankfurt @ 2.15  
-📐 **Estadísticas esperadas**  
-Córners 5.2 - 4.4: total +10.5 38% · Paderborn +5.5 41% · Ein Frankfurt +4.5 44%  
-Tarjetas 1.6 - 1.9: total +3.5 47% · Paderborn +2.5 22% · Ein Frankfurt +2.5 31%  
-Faltas 10.1 - 11.1: total +20.5 53% · Paderborn +10.5 42% · Ein Frankfurt +10.5 54%  
-Tiros a puerta 5.3 - 4.6: total +10.5 41% · Paderborn +5.5 43% · Ein Frankfurt +4.5 48%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Paderborn + Menos de 10.5 córners → prob. 48%, cuota justa 2.07 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Paderborn + Menos de 10.5 córners + Menos de 10.5 tiros a puerta + Menos de 10.5 faltas de Paderborn + Más de 2.5 goles → prob. 8%, cuota justa 12.80  
-🎯 Simulada (crear apuesta): cuota Unibet aprox. 2.21 (producto de piernas) · prob. 48% · ventaja +7% → 1 u en la banca de simulación  
-🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Paderborn + Menos de 10.5 córners): cuota Unibet aprox. 2.21 (producto de piernas) · prob. 48% · ventaja +7% → 1 u en la banca de simulación  
-
-## Paderborn vs Ein Frankfurt — 07/11 · 15:30
-
-👀 candidata · 🇩🇪 Bundesliga · **Más de 7.5 córners** @ **1.22** (Unibet) · prob 74% vs casas 75% · ventaja -10%
-
-- ❌ Valor: ventaja -10% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.51 - 1.48)  
-1 31% · X 29% · 2 40%  
-1X 60% · X2 69% · 12 71%  
-+1.5 80% · +2.5 57% · +3.5 35% · Ambos marcan 61%  
-Marcadores: 1-1 12% · 2-1 8% · 1-2 8% · 1-0 7%  
-🔎 **Claves**  
-• Forma: Paderborn ✅❌➖✅➖ | Ein Frankfurt ➖❌✅❌✅  
-• H2H: 6 desde 2011: 3V-1E-2D · 3.7 goles/partido · +2.5 en 83%  
-• Bajas: Paderborn: 0 fuera, 7 duda; Ein Frankfurt: 0 fuera, 1 duda  
-• Favorito de las casas: Ein Frankfurt @ 2.15  
-📐 **Estadísticas esperadas**  
-Córners 5.2 - 4.4: total +10.5 38% · Paderborn +5.5 41% · Ein Frankfurt +4.5 44%  
-Tarjetas 1.6 - 1.9: total +3.5 47% · Paderborn +2.5 22% · Ein Frankfurt +2.5 31%  
-Faltas 10.1 - 11.1: total +20.5 53% · Paderborn +10.5 42% · Ein Frankfurt +10.5 54%  
-Tiros a puerta 5.3 - 4.6: total +10.5 41% · Paderborn +5.5 43% · Ein Frankfurt +4.5 48%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Paderborn + Menos de 10.5 córners → prob. 48%, cuota justa 2.07 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Paderborn + Menos de 10.5 córners + Menos de 10.5 tiros a puerta + Menos de 10.5 faltas de Paderborn + Más de 2.5 goles → prob. 8%, cuota justa 12.80  
-🎯 Simulada (crear apuesta): cuota Unibet aprox. 2.21 (producto de piernas) · prob. 48% · ventaja +7% → 1 u en la banca de simulación  
-🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Paderborn + Menos de 10.5 córners): cuota Unibet aprox. 2.21 (producto de piernas) · prob. 48% · ventaja +7% → 1 u en la banca de simulación  
-
-## Paderborn vs Ein Frankfurt — 07/11 · 15:30
-
-👀 candidata · 🇩🇪 Bundesliga · **Menos de 9.5 córners** @ **2.04** (Unibet) · prob 48% vs casas 45% · ventaja -2%
-
-- ❌ Valor: ventaja -2% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.51 - 1.48)  
-1 31% · X 29% · 2 40%  
-1X 60% · X2 69% · 12 71%  
-+1.5 80% · +2.5 57% · +3.5 35% · Ambos marcan 61%  
-Marcadores: 1-1 12% · 2-1 8% · 1-2 8% · 1-0 7%  
-🔎 **Claves**  
-• Forma: Paderborn ✅❌➖✅➖ | Ein Frankfurt ➖❌✅❌✅  
-• H2H: 6 desde 2011: 3V-1E-2D · 3.7 goles/partido · +2.5 en 83%  
-• Bajas: Paderborn: 0 fuera, 7 duda; Ein Frankfurt: 0 fuera, 1 duda  
-• Favorito de las casas: Ein Frankfurt @ 2.15  
-📐 **Estadísticas esperadas**  
-Córners 5.2 - 4.4: total +10.5 38% · Paderborn +5.5 41% · Ein Frankfurt +4.5 44%  
-Tarjetas 1.6 - 1.9: total +3.5 47% · Paderborn +2.5 22% · Ein Frankfurt +2.5 31%  
-Faltas 10.1 - 11.1: total +20.5 53% · Paderborn +10.5 42% · Ein Frankfurt +10.5 54%  
-Tiros a puerta 5.3 - 4.6: total +10.5 41% · Paderborn +5.5 43% · Ein Frankfurt +4.5 48%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Paderborn + Menos de 10.5 córners → prob. 48%, cuota justa 2.07 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Paderborn + Menos de 10.5 córners + Menos de 10.5 tiros a puerta + Menos de 10.5 faltas de Paderborn + Más de 2.5 goles → prob. 8%, cuota justa 12.80  
-🎯 Simulada (crear apuesta): cuota Unibet aprox. 2.21 (producto de piernas) · prob. 48% · ventaja +7% → 1 u en la banca de simulación  
-🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Paderborn + Menos de 10.5 córners): cuota Unibet aprox. 2.21 (producto de piernas) · prob. 48% · ventaja +7% → 1 u en la banca de simulación  
-
-## Paderborn vs Ein Frankfurt — 07/11 · 15:30
-
-👀 candidata · 🇩🇪 Bundesliga · **Más de 3.5 córners de Ein Frankfurt** @ **1.35** (Unibet) · prob 64% vs casas 68% · ventaja -13%
-
-- ❌ Valor: ventaja -13% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.51 - 1.48)  
-1 31% · X 29% · 2 40%  
-1X 60% · X2 69% · 12 71%  
-+1.5 80% · +2.5 57% · +3.5 35% · Ambos marcan 61%  
-Marcadores: 1-1 12% · 2-1 8% · 1-2 8% · 1-0 7%  
-🔎 **Claves**  
-• Forma: Paderborn ✅❌➖✅➖ | Ein Frankfurt ➖❌✅❌✅  
-• H2H: 6 desde 2011: 3V-1E-2D · 3.7 goles/partido · +2.5 en 83%  
-• Bajas: Paderborn: 0 fuera, 7 duda; Ein Frankfurt: 0 fuera, 1 duda  
-• Favorito de las casas: Ein Frankfurt @ 2.15  
-📐 **Estadísticas esperadas**  
-Córners 5.2 - 4.4: total +10.5 38% · Paderborn +5.5 41% · Ein Frankfurt +4.5 44%  
-Tarjetas 1.6 - 1.9: total +3.5 47% · Paderborn +2.5 22% · Ein Frankfurt +2.5 31%  
-Faltas 10.1 - 11.1: total +20.5 53% · Paderborn +10.5 42% · Ein Frankfurt +10.5 54%  
-Tiros a puerta 5.3 - 4.6: total +10.5 41% · Paderborn +5.5 43% · Ein Frankfurt +4.5 48%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Paderborn + Menos de 10.5 córners → prob. 48%, cuota justa 2.07 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Paderborn + Menos de 10.5 córners + Menos de 10.5 tiros a puerta + Menos de 10.5 faltas de Paderborn + Más de 2.5 goles → prob. 8%, cuota justa 12.80  
-🎯 Simulada (crear apuesta): cuota Unibet aprox. 2.21 (producto de piernas) · prob. 48% · ventaja +7% → 1 u en la banca de simulación  
-🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Paderborn + Menos de 10.5 córners): cuota Unibet aprox. 2.21 (producto de piernas) · prob. 48% · ventaja +7% → 1 u en la banca de simulación  
-
-## Paderborn vs Ein Frankfurt — 07/11 · 15:30
-
-👀 candidata · 🇩🇪 Bundesliga · **Menos de 3.5 córners de Ein Frankfurt** @ **2.85** (Unibet) · prob 36% vs casas 32% · ventaja +2%
-
-- ❌ Valor: ventaja +2% (mín. 8% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.51 - 1.48)  
-1 31% · X 29% · 2 40%  
-1X 60% · X2 69% · 12 71%  
-+1.5 80% · +2.5 57% · +3.5 35% · Ambos marcan 61%  
-Marcadores: 1-1 12% · 2-1 8% · 1-2 8% · 1-0 7%  
-🔎 **Claves**  
-• Forma: Paderborn ✅❌➖✅➖ | Ein Frankfurt ➖❌✅❌✅  
-• H2H: 6 desde 2011: 3V-1E-2D · 3.7 goles/partido · +2.5 en 83%  
-• Bajas: Paderborn: 0 fuera, 7 duda; Ein Frankfurt: 0 fuera, 1 duda  
-• Favorito de las casas: Ein Frankfurt @ 2.15  
-📐 **Estadísticas esperadas**  
-Córners 5.2 - 4.4: total +10.5 38% · Paderborn +5.5 41% · Ein Frankfurt +4.5 44%  
-Tarjetas 1.6 - 1.9: total +3.5 47% · Paderborn +2.5 22% · Ein Frankfurt +2.5 31%  
-Faltas 10.1 - 11.1: total +20.5 53% · Paderborn +10.5 42% · Ein Frankfurt +10.5 54%  
-Tiros a puerta 5.3 - 4.6: total +10.5 41% · Paderborn +5.5 43% · Ein Frankfurt +4.5 48%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Paderborn + Menos de 10.5 córners → prob. 48%, cuota justa 2.07 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Paderborn + Menos de 10.5 córners + Menos de 10.5 tiros a puerta + Menos de 10.5 faltas de Paderborn + Más de 2.5 goles → prob. 8%, cuota justa 12.80  
-🎯 Simulada (crear apuesta): cuota Unibet aprox. 2.21 (producto de piernas) · prob. 48% · ventaja +7% → 1 u en la banca de simulación  
-🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Paderborn + Menos de 10.5 córners): cuota Unibet aprox. 2.21 (producto de piernas) · prob. 48% · ventaja +7% → 1 u en la banca de simulación  
-
-## RB Leipzig vs Augsburg — 07/11 · 15:30
-
-👀 candidata · 🇩🇪 Bundesliga · **Más de 2.5 córners de Augsburg** @ **1.30** (Unibet) · prob 70% vs casas 70% · ventaja -9%
-
-- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 2.63 - 0.99)  
-1 66% · X 20% · 2 13%  
-1X 87% · X2 34% · 12 80%  
-+1.5 88% · +2.5 70% · +3.5 49% · Ambos marcan 59%  
-Marcadores: 2-0 9% · 2-1 9% · 3-0 8% · 3-1 8%  
-🔎 **Claves**  
-• Forma: RB Leipzig ❌✅❌✅✅ | Augsburg ❌➖❌➖❌  
-• H2H: 20 desde 2016: 12V-7E-1D · 3.0 goles/partido · +2.5 en 65%  
-• Bajas: RB Leipzig: 3 fuera, 0 duda (Lukas Klostermann, F. Assan Ouedraogo, Marc Guiu); Augsburg: 1 fuera, 5 duda (Kristijan Jakic)  
-• Favorito de las casas: RB Leipzig @ 1.47  
-📐 **Estadísticas esperadas**  
-Córners 6.8 - 3.9: total +10.5 50% · RB Leipzig +5.5 61% · Augsburg +4.5 36%  
-Tarjetas 1.4 - 2.1: total +3.5 46% · RB Leipzig +2.5 16% · Augsburg +2.5 36%  
-Faltas 9.4 - 11.0: total +20.5 48% · RB Leipzig +10.5 35% · Augsburg +10.5 53%  
-Tiros a puerta 8.3 - 3.9: total +10.5 66% · RB Leipzig +5.5 80% · Augsburg +4.5 35%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de RB Leipzig + Más de 5.5 tiros a puerta de RB Leipzig + Más de 2.5 goles → prob. 50%, cuota justa 1.98 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de RB Leipzig + Más de 5.5 tiros a puerta de RB Leipzig + Más de 2.5 goles + Menos de 10.5 faltas de RB Leipzig + Menos de 4.5 córners de Augsburg → prob. 23%, cuota justa 4.38  
-🎯 No simulada (con cuota: Más de 5.5 tiros a puerta de RB Leipzig + Menos de 4.5 córners de Augsburg): cuota Unibet aprox. 1.91 (producto de piernas) · prob. 53% · ventaja +1%  
-
-## RB Leipzig vs Augsburg — 07/11 · 15:30
-
-👀 candidata · 🇩🇪 Bundesliga · **Menos de 4.5 córners de Augsburg** @ **1.50** (Unibet) · prob 63% vs casas 61% · ventaja -6%
-
-- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 2.63 - 0.99)  
-1 66% · X 20% · 2 13%  
-1X 87% · X2 34% · 12 80%  
-+1.5 88% · +2.5 70% · +3.5 49% · Ambos marcan 59%  
-Marcadores: 2-0 9% · 2-1 9% · 3-0 8% · 3-1 8%  
-🔎 **Claves**  
-• Forma: RB Leipzig ❌✅❌✅✅ | Augsburg ❌➖❌➖❌  
-• H2H: 20 desde 2016: 12V-7E-1D · 3.0 goles/partido · +2.5 en 65%  
-• Bajas: RB Leipzig: 3 fuera, 0 duda (Lukas Klostermann, F. Assan Ouedraogo, Marc Guiu); Augsburg: 1 fuera, 5 duda (Kristijan Jakic)  
-• Favorito de las casas: RB Leipzig @ 1.47  
-📐 **Estadísticas esperadas**  
-Córners 6.8 - 3.9: total +10.5 50% · RB Leipzig +5.5 61% · Augsburg +4.5 36%  
-Tarjetas 1.4 - 2.1: total +3.5 46% · RB Leipzig +2.5 16% · Augsburg +2.5 36%  
-Faltas 9.4 - 11.0: total +20.5 48% · RB Leipzig +10.5 35% · Augsburg +10.5 53%  
-Tiros a puerta 8.3 - 3.9: total +10.5 66% · RB Leipzig +5.5 80% · Augsburg +4.5 35%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de RB Leipzig + Más de 5.5 tiros a puerta de RB Leipzig + Más de 2.5 goles → prob. 50%, cuota justa 1.98 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de RB Leipzig + Más de 5.5 tiros a puerta de RB Leipzig + Más de 2.5 goles + Menos de 10.5 faltas de RB Leipzig + Menos de 4.5 córners de Augsburg → prob. 23%, cuota justa 4.38  
-🎯 No simulada (con cuota: Más de 5.5 tiros a puerta de RB Leipzig + Menos de 4.5 córners de Augsburg): cuota Unibet aprox. 1.91 (producto de piernas) · prob. 53% · ventaja +1%  
-
-## RB Leipzig vs Augsburg — 07/11 · 15:30
-
-👀 candidata · 🇩🇪 Bundesliga · **Más de 8.5 córners** @ **1.30** (Unibet) · prob 72% vs casas 71% · ventaja -7%
-
-- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 2.63 - 0.99)  
-1 66% · X 20% · 2 13%  
-1X 87% · X2 34% · 12 80%  
-+1.5 88% · +2.5 70% · +3.5 49% · Ambos marcan 59%  
-Marcadores: 2-0 9% · 2-1 9% · 3-0 8% · 3-1 8%  
-🔎 **Claves**  
-• Forma: RB Leipzig ❌✅❌✅✅ | Augsburg ❌➖❌➖❌  
-• H2H: 20 desde 2016: 12V-7E-1D · 3.0 goles/partido · +2.5 en 65%  
-• Bajas: RB Leipzig: 3 fuera, 0 duda (Lukas Klostermann, F. Assan Ouedraogo, Marc Guiu); Augsburg: 1 fuera, 5 duda (Kristijan Jakic)  
-• Favorito de las casas: RB Leipzig @ 1.47  
-📐 **Estadísticas esperadas**  
-Córners 6.8 - 3.9: total +10.5 50% · RB Leipzig +5.5 61% · Augsburg +4.5 36%  
-Tarjetas 1.4 - 2.1: total +3.5 46% · RB Leipzig +2.5 16% · Augsburg +2.5 36%  
-Faltas 9.4 - 11.0: total +20.5 48% · RB Leipzig +10.5 35% · Augsburg +10.5 53%  
-Tiros a puerta 8.3 - 3.9: total +10.5 66% · RB Leipzig +5.5 80% · Augsburg +4.5 35%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de RB Leipzig + Más de 5.5 tiros a puerta de RB Leipzig + Más de 2.5 goles → prob. 50%, cuota justa 1.98 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de RB Leipzig + Más de 5.5 tiros a puerta de RB Leipzig + Más de 2.5 goles + Menos de 10.5 faltas de RB Leipzig + Menos de 4.5 córners de Augsburg → prob. 23%, cuota justa 4.38  
-🎯 No simulada (con cuota: Más de 5.5 tiros a puerta de RB Leipzig + Menos de 4.5 córners de Augsburg): cuota Unibet aprox. 1.91 (producto de piernas) · prob. 53% · ventaja +1%  
-
-## RB Leipzig vs Augsburg — 07/11 · 15:30
-
-👀 candidata · 🇩🇪 Bundesliga · **Menos de 12.5 córners** @ **1.36** (Unibet) · prob 69% vs casas 68% · ventaja -6%
-
-- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 2.63 - 0.99)  
-1 66% · X 20% · 2 13%  
-1X 87% · X2 34% · 12 80%  
-+1.5 88% · +2.5 70% · +3.5 49% · Ambos marcan 59%  
-Marcadores: 2-0 9% · 2-1 9% · 3-0 8% · 3-1 8%  
-🔎 **Claves**  
-• Forma: RB Leipzig ❌✅❌✅✅ | Augsburg ❌➖❌➖❌  
-• H2H: 20 desde 2016: 12V-7E-1D · 3.0 goles/partido · +2.5 en 65%  
-• Bajas: RB Leipzig: 3 fuera, 0 duda (Lukas Klostermann, F. Assan Ouedraogo, Marc Guiu); Augsburg: 1 fuera, 5 duda (Kristijan Jakic)  
-• Favorito de las casas: RB Leipzig @ 1.47  
-📐 **Estadísticas esperadas**  
-Córners 6.8 - 3.9: total +10.5 50% · RB Leipzig +5.5 61% · Augsburg +4.5 36%  
-Tarjetas 1.4 - 2.1: total +3.5 46% · RB Leipzig +2.5 16% · Augsburg +2.5 36%  
-Faltas 9.4 - 11.0: total +20.5 48% · RB Leipzig +10.5 35% · Augsburg +10.5 53%  
-Tiros a puerta 8.3 - 3.9: total +10.5 66% · RB Leipzig +5.5 80% · Augsburg +4.5 35%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de RB Leipzig + Más de 5.5 tiros a puerta de RB Leipzig + Más de 2.5 goles → prob. 50%, cuota justa 1.98 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de RB Leipzig + Más de 5.5 tiros a puerta de RB Leipzig + Más de 2.5 goles + Menos de 10.5 faltas de RB Leipzig + Menos de 4.5 córners de Augsburg → prob. 23%, cuota justa 4.38  
-🎯 No simulada (con cuota: Más de 5.5 tiros a puerta de RB Leipzig + Menos de 4.5 córners de Augsburg): cuota Unibet aprox. 1.91 (producto de piernas) · prob. 53% · ventaja +1%  
-
-## RB Leipzig vs Augsburg — 07/11 · 15:30
-
-👀 candidata · 🇩🇪 Bundesliga · **Más de 5.5 córners de RB Leipzig** @ **1.53** (Unibet) · prob 61% vs casas 60% · ventaja -7%
-
-- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 2.63 - 0.99)  
-1 66% · X 20% · 2 13%  
-1X 87% · X2 34% · 12 80%  
-+1.5 88% · +2.5 70% · +3.5 49% · Ambos marcan 59%  
-Marcadores: 2-0 9% · 2-1 9% · 3-0 8% · 3-1 8%  
-🔎 **Claves**  
-• Forma: RB Leipzig ❌✅❌✅✅ | Augsburg ❌➖❌➖❌  
-• H2H: 20 desde 2016: 12V-7E-1D · 3.0 goles/partido · +2.5 en 65%  
-• Bajas: RB Leipzig: 3 fuera, 0 duda (Lukas Klostermann, F. Assan Ouedraogo, Marc Guiu); Augsburg: 1 fuera, 5 duda (Kristijan Jakic)  
-• Favorito de las casas: RB Leipzig @ 1.47  
-📐 **Estadísticas esperadas**  
-Córners 6.8 - 3.9: total +10.5 50% · RB Leipzig +5.5 61% · Augsburg +4.5 36%  
-Tarjetas 1.4 - 2.1: total +3.5 46% · RB Leipzig +2.5 16% · Augsburg +2.5 36%  
-Faltas 9.4 - 11.0: total +20.5 48% · RB Leipzig +10.5 35% · Augsburg +10.5 53%  
-Tiros a puerta 8.3 - 3.9: total +10.5 66% · RB Leipzig +5.5 80% · Augsburg +4.5 35%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de RB Leipzig + Más de 5.5 tiros a puerta de RB Leipzig + Más de 2.5 goles → prob. 50%, cuota justa 1.98 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de RB Leipzig + Más de 5.5 tiros a puerta de RB Leipzig + Más de 2.5 goles + Menos de 10.5 faltas de RB Leipzig + Menos de 4.5 córners de Augsburg → prob. 23%, cuota justa 4.38  
-🎯 No simulada (con cuota: Más de 5.5 tiros a puerta de RB Leipzig + Menos de 4.5 córners de Augsburg): cuota Unibet aprox. 1.91 (producto de piernas) · prob. 53% · ventaja +1%  
-
-## RB Leipzig vs Augsburg — 07/11 · 15:30
-
-👀 candidata · 🇩🇪 Bundesliga · **Menos de 8.5 córners de RB Leipzig** @ **1.29** (Unibet) · prob 72% vs casas 71% · ventaja -7%
-
-- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 2.63 - 0.99)  
-1 66% · X 20% · 2 13%  
-1X 87% · X2 34% · 12 80%  
-+1.5 88% · +2.5 70% · +3.5 49% · Ambos marcan 59%  
-Marcadores: 2-0 9% · 2-1 9% · 3-0 8% · 3-1 8%  
-🔎 **Claves**  
-• Forma: RB Leipzig ❌✅❌✅✅ | Augsburg ❌➖❌➖❌  
-• H2H: 20 desde 2016: 12V-7E-1D · 3.0 goles/partido · +2.5 en 65%  
-• Bajas: RB Leipzig: 3 fuera, 0 duda (Lukas Klostermann, F. Assan Ouedraogo, Marc Guiu); Augsburg: 1 fuera, 5 duda (Kristijan Jakic)  
-• Favorito de las casas: RB Leipzig @ 1.47  
-📐 **Estadísticas esperadas**  
-Córners 6.8 - 3.9: total +10.5 50% · RB Leipzig +5.5 61% · Augsburg +4.5 36%  
-Tarjetas 1.4 - 2.1: total +3.5 46% · RB Leipzig +2.5 16% · Augsburg +2.5 36%  
-Faltas 9.4 - 11.0: total +20.5 48% · RB Leipzig +10.5 35% · Augsburg +10.5 53%  
-Tiros a puerta 8.3 - 3.9: total +10.5 66% · RB Leipzig +5.5 80% · Augsburg +4.5 35%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de RB Leipzig + Más de 5.5 tiros a puerta de RB Leipzig + Más de 2.5 goles → prob. 50%, cuota justa 1.98 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de RB Leipzig + Más de 5.5 tiros a puerta de RB Leipzig + Más de 2.5 goles + Menos de 10.5 faltas de RB Leipzig + Menos de 4.5 córners de Augsburg → prob. 23%, cuota justa 4.38  
-🎯 No simulada (con cuota: Más de 5.5 tiros a puerta de RB Leipzig + Menos de 4.5 córners de Augsburg): cuota Unibet aprox. 1.91 (producto de piernas) · prob. 53% · ventaja +1%  
+Actualizado 07/11/2026 15:59 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Kristiansund vs Valerenga — 07/11 · 16:00
 
@@ -11958,6 +11223,170 @@ Faltas 9.9 - 10.1: total +20.5 44% · FC Koln +10.5 40% · Leverkusen +10.5 43%
 Tiros a puerta 5.1 - 4.9: total +10.5 41% · FC Koln +5.5 39% · Leverkusen +4.5 53%  
 🧩 Crear apuesta: Menos de 5.5 córners de FC Koln + Menos de 2.5 tarjetas de Leverkusen + Más de 2.5 goles → prob. 27%, cuota justa 3.67 (solo vale si la casa paga más)  
 🚀 Combinada larga: Menos de 5.5 córners de FC Koln + Menos de 2.5 tarjetas de Leverkusen + Más de 2.5 goles + Menos de 5.5 tiros a puerta de FC Koln + Menos de 10.5 faltas de FC Koln → prob. 9%, cuota justa 10.63  
+🎯 No simulada (crear apuesta): cuota Unibet aprox. 2.82 (producto de piernas) · prob. 27% · ventaja -23%  
+🎯 No simulada (con cuota: Menos de 5.5 córners de FC Koln + Menos de 5.5 tiros a puerta de FC Koln): cuota Unibet aprox. 2.03 (producto de piernas) · prob. 44% · ventaja -12%  
+
+## FC Koln vs Leverkusen — 08/11 · 15:30
+
+👀 candidata · 🇩🇪 Bundesliga · **Más de 7.5 córners** @ **1.19** (Unibet) · prob 78% vs casas 78% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.31 - 1.93)  
+1 23% · X 26% · 2 51%  
+1X 49% · X2 77% · 12 74%  
++1.5 84% · +2.5 63% · +3.5 41% · Ambos marcan 63%  
+Marcadores: 1-1 10% · 1-2 10% · 0-2 7% · 0-1 7%  
+🔎 **Claves**  
+• Forma: FC Koln ❌✅❌➖➖ | Leverkusen ✅✅✅❌❌  
+• H2H: 30 desde 2005: 7V-5E-18D · 2.8 goles/partido · +2.5 en 53%  
+• Bajas: FC Koln: 1 fuera, 4 duda (Timo Huebers); Leverkusen: 0 fuera, 7 duda  
+• Favorito de las casas: Leverkusen @ 1.83  
+📐 **Estadísticas esperadas**  
+Córners 4.7 - 5.5: total +10.5 44% · FC Koln +5.5 34% · Leverkusen +4.5 59%  
+Tarjetas 2.2 - 2.1: total +3.5 60% · FC Koln +2.5 36% · Leverkusen +2.5 35%  
+Faltas 9.9 - 10.1: total +20.5 44% · FC Koln +10.5 40% · Leverkusen +10.5 43%  
+Tiros a puerta 5.1 - 4.9: total +10.5 41% · FC Koln +5.5 39% · Leverkusen +4.5 53%  
+🧩 Crear apuesta: Menos de 5.5 córners de FC Koln + Menos de 2.5 tarjetas de Leverkusen + Más de 2.5 goles → prob. 27%, cuota justa 3.67 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 córners de FC Koln + Menos de 2.5 tarjetas de Leverkusen + Más de 2.5 goles + Menos de 5.5 tiros a puerta de FC Koln + Menos de 10.5 faltas de FC Koln → prob. 9%, cuota justa 10.63  
+🎯 No simulada (crear apuesta): cuota Unibet aprox. 2.82 (producto de piernas) · prob. 27% · ventaja -23%  
+🎯 No simulada (con cuota: Menos de 5.5 córners de FC Koln + Menos de 5.5 tiros a puerta de FC Koln): cuota Unibet aprox. 2.03 (producto de piernas) · prob. 44% · ventaja -12%  
+
+## FC Koln vs Leverkusen — 08/11 · 15:30
+
+👀 candidata · 🇩🇪 Bundesliga · **Menos de 9.5 córners** @ **2.25** (Unibet) · prob 43% vs casas 41% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.31 - 1.93)  
+1 23% · X 26% · 2 51%  
+1X 49% · X2 77% · 12 74%  
++1.5 84% · +2.5 63% · +3.5 41% · Ambos marcan 63%  
+Marcadores: 1-1 10% · 1-2 10% · 0-2 7% · 0-1 7%  
+🔎 **Claves**  
+• Forma: FC Koln ❌✅❌➖➖ | Leverkusen ✅✅✅❌❌  
+• H2H: 30 desde 2005: 7V-5E-18D · 2.8 goles/partido · +2.5 en 53%  
+• Bajas: FC Koln: 1 fuera, 4 duda (Timo Huebers); Leverkusen: 0 fuera, 7 duda  
+• Favorito de las casas: Leverkusen @ 1.83  
+📐 **Estadísticas esperadas**  
+Córners 4.7 - 5.5: total +10.5 44% · FC Koln +5.5 34% · Leverkusen +4.5 59%  
+Tarjetas 2.2 - 2.1: total +3.5 60% · FC Koln +2.5 36% · Leverkusen +2.5 35%  
+Faltas 9.9 - 10.1: total +20.5 44% · FC Koln +10.5 40% · Leverkusen +10.5 43%  
+Tiros a puerta 5.1 - 4.9: total +10.5 41% · FC Koln +5.5 39% · Leverkusen +4.5 53%  
+🧩 Crear apuesta: Menos de 5.5 córners de FC Koln + Menos de 2.5 tarjetas de Leverkusen + Más de 2.5 goles → prob. 27%, cuota justa 3.67 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 córners de FC Koln + Menos de 2.5 tarjetas de Leverkusen + Más de 2.5 goles + Menos de 5.5 tiros a puerta de FC Koln + Menos de 10.5 faltas de FC Koln → prob. 9%, cuota justa 10.63  
+🎯 No simulada (crear apuesta): cuota Unibet aprox. 2.82 (producto de piernas) · prob. 27% · ventaja -23%  
+🎯 No simulada (con cuota: Menos de 5.5 córners de FC Koln + Menos de 5.5 tiros a puerta de FC Koln): cuota Unibet aprox. 2.03 (producto de piernas) · prob. 44% · ventaja -12%  
+
+## FC Koln vs Leverkusen — 08/11 · 15:30
+
+👀 candidata · 🇩🇪 Bundesliga · **Más de 3.5 córners de FC Koln** @ **1.46** (Unibet) · prob 64% vs casas 63% · ventaja -7%
+
+- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.31 - 1.93)  
+1 23% · X 26% · 2 51%  
+1X 49% · X2 77% · 12 74%  
++1.5 84% · +2.5 63% · +3.5 41% · Ambos marcan 63%  
+Marcadores: 1-1 10% · 1-2 10% · 0-2 7% · 0-1 7%  
+🔎 **Claves**  
+• Forma: FC Koln ❌✅❌➖➖ | Leverkusen ✅✅✅❌❌  
+• H2H: 30 desde 2005: 7V-5E-18D · 2.8 goles/partido · +2.5 en 53%  
+• Bajas: FC Koln: 1 fuera, 4 duda (Timo Huebers); Leverkusen: 0 fuera, 7 duda  
+• Favorito de las casas: Leverkusen @ 1.83  
+📐 **Estadísticas esperadas**  
+Córners 4.7 - 5.5: total +10.5 44% · FC Koln +5.5 34% · Leverkusen +4.5 59%  
+Tarjetas 2.2 - 2.1: total +3.5 60% · FC Koln +2.5 36% · Leverkusen +2.5 35%  
+Faltas 9.9 - 10.1: total +20.5 44% · FC Koln +10.5 40% · Leverkusen +10.5 43%  
+Tiros a puerta 5.1 - 4.9: total +10.5 41% · FC Koln +5.5 39% · Leverkusen +4.5 53%  
+🧩 Crear apuesta: Menos de 5.5 córners de FC Koln + Menos de 2.5 tarjetas de Leverkusen + Más de 2.5 goles → prob. 27%, cuota justa 3.67 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 córners de FC Koln + Menos de 2.5 tarjetas de Leverkusen + Más de 2.5 goles + Menos de 5.5 tiros a puerta de FC Koln + Menos de 10.5 faltas de FC Koln → prob. 9%, cuota justa 10.63  
+🎯 No simulada (crear apuesta): cuota Unibet aprox. 2.82 (producto de piernas) · prob. 27% · ventaja -23%  
+🎯 No simulada (con cuota: Menos de 5.5 córners de FC Koln + Menos de 5.5 tiros a puerta de FC Koln): cuota Unibet aprox. 2.03 (producto de piernas) · prob. 44% · ventaja -12%  
+
+## FC Koln vs Leverkusen — 08/11 · 15:30
+
+👀 candidata · 🇩🇪 Bundesliga · **Menos de 6.5 córners de FC Koln** @ **1.22** (Unibet) · prob 76% vs casas 75% · ventaja -7%
+
+- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.31 - 1.93)  
+1 23% · X 26% · 2 51%  
+1X 49% · X2 77% · 12 74%  
++1.5 84% · +2.5 63% · +3.5 41% · Ambos marcan 63%  
+Marcadores: 1-1 10% · 1-2 10% · 0-2 7% · 0-1 7%  
+🔎 **Claves**  
+• Forma: FC Koln ❌✅❌➖➖ | Leverkusen ✅✅✅❌❌  
+• H2H: 30 desde 2005: 7V-5E-18D · 2.8 goles/partido · +2.5 en 53%  
+• Bajas: FC Koln: 1 fuera, 4 duda (Timo Huebers); Leverkusen: 0 fuera, 7 duda  
+• Favorito de las casas: Leverkusen @ 1.83  
+📐 **Estadísticas esperadas**  
+Córners 4.7 - 5.5: total +10.5 44% · FC Koln +5.5 34% · Leverkusen +4.5 59%  
+Tarjetas 2.2 - 2.1: total +3.5 60% · FC Koln +2.5 36% · Leverkusen +2.5 35%  
+Faltas 9.9 - 10.1: total +20.5 44% · FC Koln +10.5 40% · Leverkusen +10.5 43%  
+Tiros a puerta 5.1 - 4.9: total +10.5 41% · FC Koln +5.5 39% · Leverkusen +4.5 53%  
+🧩 Crear apuesta: Menos de 5.5 córners de FC Koln + Menos de 2.5 tarjetas de Leverkusen + Más de 2.5 goles → prob. 27%, cuota justa 3.67 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 córners de FC Koln + Menos de 2.5 tarjetas de Leverkusen + Más de 2.5 goles + Menos de 5.5 tiros a puerta de FC Koln + Menos de 10.5 faltas de FC Koln → prob. 9%, cuota justa 10.63  
+🎯 No simulada (crear apuesta): cuota Unibet aprox. 2.82 (producto de piernas) · prob. 27% · ventaja -23%  
+🎯 No simulada (con cuota: Menos de 5.5 córners de FC Koln + Menos de 5.5 tiros a puerta de FC Koln): cuota Unibet aprox. 2.03 (producto de piernas) · prob. 44% · ventaja -12%  
+
+## FC Koln vs Leverkusen — 08/11 · 15:30
+
+👀 candidata · 🇩🇪 Bundesliga · **Más de 3.5 córners de Leverkusen** @ **1.21** (Unibet) · prob 74% vs casas 75% · ventaja -10%
+
+- ❌ Valor: ventaja -10% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.31 - 1.93)  
+1 23% · X 26% · 2 51%  
+1X 49% · X2 77% · 12 74%  
++1.5 84% · +2.5 63% · +3.5 41% · Ambos marcan 63%  
+Marcadores: 1-1 10% · 1-2 10% · 0-2 7% · 0-1 7%  
+🔎 **Claves**  
+• Forma: FC Koln ❌✅❌➖➖ | Leverkusen ✅✅✅❌❌  
+• H2H: 30 desde 2005: 7V-5E-18D · 2.8 goles/partido · +2.5 en 53%  
+• Bajas: FC Koln: 1 fuera, 4 duda (Timo Huebers); Leverkusen: 0 fuera, 7 duda  
+• Favorito de las casas: Leverkusen @ 1.83  
+📐 **Estadísticas esperadas**  
+Córners 4.7 - 5.5: total +10.5 44% · FC Koln +5.5 34% · Leverkusen +4.5 59%  
+Tarjetas 2.2 - 2.1: total +3.5 60% · FC Koln +2.5 36% · Leverkusen +2.5 35%  
+Faltas 9.9 - 10.1: total +20.5 44% · FC Koln +10.5 40% · Leverkusen +10.5 43%  
+Tiros a puerta 5.1 - 4.9: total +10.5 41% · FC Koln +5.5 39% · Leverkusen +4.5 53%  
+🧩 Crear apuesta: Menos de 5.5 córners de FC Koln + Menos de 2.5 tarjetas de Leverkusen + Más de 2.5 goles → prob. 27%, cuota justa 3.67 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 córners de FC Koln + Menos de 2.5 tarjetas de Leverkusen + Más de 2.5 goles + Menos de 5.5 tiros a puerta de FC Koln + Menos de 10.5 faltas de FC Koln → prob. 9%, cuota justa 10.63  
+🎯 No simulada (crear apuesta): cuota Unibet aprox. 2.82 (producto de piernas) · prob. 27% · ventaja -23%  
+🎯 No simulada (con cuota: Menos de 5.5 córners de FC Koln + Menos de 5.5 tiros a puerta de FC Koln): cuota Unibet aprox. 2.03 (producto de piernas) · prob. 44% · ventaja -12%  
+
+## FC Koln vs Leverkusen — 08/11 · 15:30
+
+👀 candidata · 🇩🇪 Bundesliga · **Menos de 4.5 córners de Leverkusen** @ **2.45** (Unibet) · prob 39% vs casas 37% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.31 - 1.93)  
+1 23% · X 26% · 2 51%  
+1X 49% · X2 77% · 12 74%  
++1.5 84% · +2.5 63% · +3.5 41% · Ambos marcan 63%  
+Marcadores: 1-1 10% · 1-2 10% · 0-2 7% · 0-1 7%  
+🔎 **Claves**  
+• Forma: FC Koln ❌✅❌➖➖ | Leverkusen ✅✅✅❌❌  
+• H2H: 30 desde 2005: 7V-5E-18D · 2.8 goles/partido · +2.5 en 53%  
+• Bajas: FC Koln: 1 fuera, 4 duda (Timo Huebers); Leverkusen: 0 fuera, 7 duda  
+• Favorito de las casas: Leverkusen @ 1.83  
+📐 **Estadísticas esperadas**  
+Córners 4.7 - 5.5: total +10.5 44% · FC Koln +5.5 34% · Leverkusen +4.5 59%  
+Tarjetas 2.2 - 2.1: total +3.5 60% · FC Koln +2.5 36% · Leverkusen +2.5 35%  
+Faltas 9.9 - 10.1: total +20.5 44% · FC Koln +10.5 40% · Leverkusen +10.5 43%  
+Tiros a puerta 5.1 - 4.9: total +10.5 41% · FC Koln +5.5 39% · Leverkusen +4.5 53%  
+🧩 Crear apuesta: Menos de 5.5 córners de FC Koln + Menos de 2.5 tarjetas de Leverkusen + Más de 2.5 goles → prob. 27%, cuota justa 3.67 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 córners de FC Koln + Menos de 2.5 tarjetas de Leverkusen + Más de 2.5 goles + Menos de 5.5 tiros a puerta de FC Koln + Menos de 10.5 faltas de FC Koln → prob. 9%, cuota justa 10.63  
+🎯 No simulada (crear apuesta): cuota Unibet aprox. 2.82 (producto de piernas) · prob. 27% · ventaja -23%  
+🎯 No simulada (con cuota: Menos de 5.5 córners de FC Koln + Menos de 5.5 tiros a puerta de FC Koln): cuota Unibet aprox. 2.03 (producto de piernas) · prob. 44% · ventaja -12%  
 
 ## Randers FC vs Nordsjaelland — 08/11 · 16:00
 
