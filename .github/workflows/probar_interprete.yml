@@ -20,6 +20,18 @@ jobs:
           print("FC 27 LeoVegas:", n, "partidos con cuotas,", len(c), "piernas candidatas")
           for x in c[:12]: print("  ", {k: x[k] for k in x if k in ("txt", "odds", "q", "edge", "start")} or x)
           print("peso modelo/casa:", F.blend_w(), "| vetos:", F.lessons())
+          import requests, kambi as K, analyst as A, collections
+          marg = collections.defaultdict(list)  # margen de cada operador Kambi en FC 27, mismos partidos
+          for op in ("leoes", "pafes", "ub", "leo", "paf"):
+              try: ev = K.esoccer_events(op)[:8]
+              except Exception as ex: print(op, repr(ex)[:80]); continue
+              for e in ev:
+                  try: r = requests.get(f"https://eu-offering-api.kambicdn.com/offering/v2018/{op}/betoffer/event/{e['id']}.json", params=K.Q, headers=A.UA, timeout=30).json()
+                  except Exception: continue
+                  for b in r.get("betOffers", []):
+                      od = [o["odds"] / 1000 for o in b.get("outcomes", []) if o.get("odds")]
+                      if len(od) >= 2: marg[op].append(sum(1 / x for x in od) - 1)
+          for op, m in marg.items(): print(f"margen {op}: {sum(m) / len(m):.1%} en {len(m)} mercados")
           PY
       - run: |
           python -c "
