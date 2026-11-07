@@ -1,24 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 07/11/2026 14:24 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Slask Wroclaw vs Piast Gliwice — 07/11 · 14:45
-
-👀 candidata · 🇵🇱 Ekstraklasa · **Gana Slask Wroclaw** @ **2.70** (Bet365) · prob 36% vs casas 36% · ventaja -3%
-
-- ❌ Valor: ventaja -3% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.20 - 1.25)  
-1 36% · X 28% · 2 36%  
-1X 64% · X2 64% · 12 72%  
-+1.5 71% · +2.5 44% · +3.5 23% · Ambos marcan 51%  
-Marcadores: 1-1 14% · 0-1 10% · 1-0 10% · 0-0 9%  
-🔎 **Claves**  
-• Forma: Slask Wroclaw ❌❌❌✅❌ | Piast Gliwice ❌✅➖✅➖  
-• H2H: 30 desde 2012: 7V-9E-14D · 2.6 goles/partido · +2.5 en 43%  
-• Bajas: Slask Wroclaw: sin bajas; Piast Gliwice: sin bajas  
-• Favorito de las casas: Piast Gliwice @ 2.25  
+Actualizado 07/11/2026 14:57 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Cagliari vs Frosinone — 07/11 · 15:00
 
@@ -11398,6 +11380,163 @@ Faltas 9.9 - 9.6: total +21.5 32% · Twente +10.5 40% · Ajax +11.5 26%
 Tiros a puerta 6.2 - 4.7: total +10.5 52% · Twente +5.5 56% · Ajax +4.5 50%  
 🧩 Crear apuesta: Menos de 11.5 faltas de Ajax + Menos de 1.5 tarjetas de Twente → prob. 50%, cuota justa 2.00 (solo vale si la casa paga más)  
 🚀 Combinada larga: Menos de 11.5 faltas de Ajax + Menos de 1.5 tarjetas de Twente + Menos de 4.5 córners de Ajax + Más de 2.5 goles + Más de 5.5 tiros a puerta de Twente → prob. 12%, cuota justa 8.24  
+🎯 Simulada (con cuota: Menos de 1.5 tarjetas de Twente + Menos de 4.5 córners de Ajax + Más de 5.5 tiros a puerta de Twente): cuota Unibet aprox. 4.73 (producto de piernas) · prob. 24% · ventaja +12% → 1 u en la banca de simulación  
+
+## Twente vs Ajax — 08/11 · 14:30
+
+👀 candidata · 🇳🇱 Eredivisie · **Más de 6.5 córners de Twente** @ **2.65** (Unibet) · prob 37% vs casas 35% · ventaja -1%
+
+- ❌ Valor: ventaja -1% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.48 - 1.50)  
+1 45% · X 27% · 2 28%  
+1X 72% · X2 55% · 12 73%  
++1.5 80% · +2.5 57% · +3.5 35% · Ambos marcan 61%  
+Marcadores: 1-1 12% · 1-2 8% · 2-1 8% · 0-1 7%  
+🔎 **Claves**  
+• Forma: Twente ✅➖❌✅✅ | Ajax ➖➖✅✅✅  
+• H2H: 39 desde 2005: 7V-11E-21D · 3.2 goles/partido · +2.5 en 64%  
+• Bajas: Twente: 1 fuera, 4 duda (Daouda Weidmann); Ajax: 1 fuera, 5 duda (Anton Gaaei)  
+• Favorito de las casas: Twente @ 2.30  
+📐 **Estadísticas esperadas**  
+Córners 6.0 - 4.3: total +10.5 46% · Twente +5.5 52% · Ajax +4.5 42%  
+Tarjetas 1.2 - 2.0: total +3.5 39% · Twente +1.5 34% · Ajax +1.5 59%  
+Faltas 9.9 - 9.6: total +21.5 32% · Twente +10.5 40% · Ajax +11.5 26%  
+Tiros a puerta 6.2 - 4.7: total +10.5 52% · Twente +5.5 56% · Ajax +4.5 50%  
+🧩 Crear apuesta: Menos de 11.5 faltas de Ajax + Menos de 1.5 tarjetas de Twente → prob. 50%, cuota justa 2.00 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 11.5 faltas de Ajax + Menos de 1.5 tarjetas de Twente + Menos de 4.5 córners de Ajax + Más de 2.5 goles + Más de 5.5 tiros a puerta de Twente → prob. 12%, cuota justa 8.24  
+🎯 Simulada (con cuota: Menos de 1.5 tarjetas de Twente + Menos de 4.5 córners de Ajax + Más de 5.5 tiros a puerta de Twente): cuota Unibet aprox. 4.73 (producto de piernas) · prob. 24% · ventaja +12% → 1 u en la banca de simulación  
+
+## Twente vs Ajax — 08/11 · 14:30
+
+👀 candidata · 🇳🇱 Eredivisie · **Menos de 7.5 córners de Twente** @ **1.23** (Unibet) · prob 73% vs casas 74% · ventaja -10%
+
+- ❌ Valor: ventaja -10% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.48 - 1.50)  
+1 45% · X 27% · 2 28%  
+1X 72% · X2 55% · 12 73%  
++1.5 80% · +2.5 57% · +3.5 35% · Ambos marcan 61%  
+Marcadores: 1-1 12% · 1-2 8% · 2-1 8% · 0-1 7%  
+🔎 **Claves**  
+• Forma: Twente ✅➖❌✅✅ | Ajax ➖➖✅✅✅  
+• H2H: 39 desde 2005: 7V-11E-21D · 3.2 goles/partido · +2.5 en 64%  
+• Bajas: Twente: 1 fuera, 4 duda (Daouda Weidmann); Ajax: 1 fuera, 5 duda (Anton Gaaei)  
+• Favorito de las casas: Twente @ 2.30  
+📐 **Estadísticas esperadas**  
+Córners 6.0 - 4.3: total +10.5 46% · Twente +5.5 52% · Ajax +4.5 42%  
+Tarjetas 1.2 - 2.0: total +3.5 39% · Twente +1.5 34% · Ajax +1.5 59%  
+Faltas 9.9 - 9.6: total +21.5 32% · Twente +10.5 40% · Ajax +11.5 26%  
+Tiros a puerta 6.2 - 4.7: total +10.5 52% · Twente +5.5 56% · Ajax +4.5 50%  
+🧩 Crear apuesta: Menos de 11.5 faltas de Ajax + Menos de 1.5 tarjetas de Twente → prob. 50%, cuota justa 2.00 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 11.5 faltas de Ajax + Menos de 1.5 tarjetas de Twente + Menos de 4.5 córners de Ajax + Más de 2.5 goles + Más de 5.5 tiros a puerta de Twente → prob. 12%, cuota justa 8.24  
+🎯 Simulada (con cuota: Menos de 1.5 tarjetas de Twente + Menos de 4.5 córners de Ajax + Más de 5.5 tiros a puerta de Twente): cuota Unibet aprox. 4.73 (producto de piernas) · prob. 24% · ventaja +12% → 1 u en la banca de simulación  
+
+## Twente vs Ajax — 08/11 · 14:30
+
+👀 candidata · 🇳🇱 Eredivisie · **Más de 10.5 córners** @ **2.20** (Unibet) · prob 44% vs casas 42% · ventaja -3%
+
+- ❌ Valor: ventaja -3% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.48 - 1.50)  
+1 45% · X 27% · 2 28%  
+1X 72% · X2 55% · 12 73%  
++1.5 80% · +2.5 57% · +3.5 35% · Ambos marcan 61%  
+Marcadores: 1-1 12% · 1-2 8% · 2-1 8% · 0-1 7%  
+🔎 **Claves**  
+• Forma: Twente ✅➖❌✅✅ | Ajax ➖➖✅✅✅  
+• H2H: 39 desde 2005: 7V-11E-21D · 3.2 goles/partido · +2.5 en 64%  
+• Bajas: Twente: 1 fuera, 4 duda (Daouda Weidmann); Ajax: 1 fuera, 5 duda (Anton Gaaei)  
+• Favorito de las casas: Twente @ 2.30  
+📐 **Estadísticas esperadas**  
+Córners 6.0 - 4.3: total +10.5 46% · Twente +5.5 52% · Ajax +4.5 42%  
+Tarjetas 1.2 - 2.0: total +3.5 39% · Twente +1.5 34% · Ajax +1.5 59%  
+Faltas 9.9 - 9.6: total +21.5 32% · Twente +10.5 40% · Ajax +11.5 26%  
+Tiros a puerta 6.2 - 4.7: total +10.5 52% · Twente +5.5 56% · Ajax +4.5 50%  
+🧩 Crear apuesta: Menos de 11.5 faltas de Ajax + Menos de 1.5 tarjetas de Twente → prob. 50%, cuota justa 2.00 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 11.5 faltas de Ajax + Menos de 1.5 tarjetas de Twente + Menos de 4.5 córners de Ajax + Más de 2.5 goles + Más de 5.5 tiros a puerta de Twente → prob. 12%, cuota justa 8.24  
+🎯 Simulada (con cuota: Menos de 1.5 tarjetas de Twente + Menos de 4.5 córners de Ajax + Más de 5.5 tiros a puerta de Twente): cuota Unibet aprox. 4.73 (producto de piernas) · prob. 24% · ventaja +12% → 1 u en la banca de simulación  
+
+## Twente vs Ajax — 08/11 · 14:30
+
+👀 candidata · 🇳🇱 Eredivisie · **Menos de 12.5 córners** @ **1.21** (Unibet) · prob 75% vs casas 76% · ventaja -9%
+
+- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.48 - 1.50)  
+1 45% · X 27% · 2 28%  
+1X 72% · X2 55% · 12 73%  
++1.5 80% · +2.5 57% · +3.5 35% · Ambos marcan 61%  
+Marcadores: 1-1 12% · 1-2 8% · 2-1 8% · 0-1 7%  
+🔎 **Claves**  
+• Forma: Twente ✅➖❌✅✅ | Ajax ➖➖✅✅✅  
+• H2H: 39 desde 2005: 7V-11E-21D · 3.2 goles/partido · +2.5 en 64%  
+• Bajas: Twente: 1 fuera, 4 duda (Daouda Weidmann); Ajax: 1 fuera, 5 duda (Anton Gaaei)  
+• Favorito de las casas: Twente @ 2.30  
+📐 **Estadísticas esperadas**  
+Córners 6.0 - 4.3: total +10.5 46% · Twente +5.5 52% · Ajax +4.5 42%  
+Tarjetas 1.2 - 2.0: total +3.5 39% · Twente +1.5 34% · Ajax +1.5 59%  
+Faltas 9.9 - 9.6: total +21.5 32% · Twente +10.5 40% · Ajax +11.5 26%  
+Tiros a puerta 6.2 - 4.7: total +10.5 52% · Twente +5.5 56% · Ajax +4.5 50%  
+🧩 Crear apuesta: Menos de 11.5 faltas de Ajax + Menos de 1.5 tarjetas de Twente → prob. 50%, cuota justa 2.00 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 11.5 faltas de Ajax + Menos de 1.5 tarjetas de Twente + Menos de 4.5 córners de Ajax + Más de 2.5 goles + Más de 5.5 tiros a puerta de Twente → prob. 12%, cuota justa 8.24  
+🎯 Simulada (con cuota: Menos de 1.5 tarjetas de Twente + Menos de 4.5 córners de Ajax + Más de 5.5 tiros a puerta de Twente): cuota Unibet aprox. 4.73 (producto de piernas) · prob. 24% · ventaja +12% → 1 u en la banca de simulación  
+
+## Twente vs Ajax — 08/11 · 14:30
+
+👀 candidata · 🇳🇱 Eredivisie · **Más de 2.5 córners de Ajax** @ **1.25** (Unibet) · prob 74% vs casas 73% · ventaja -7%
+
+- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.48 - 1.50)  
+1 45% · X 27% · 2 28%  
+1X 72% · X2 55% · 12 73%  
++1.5 80% · +2.5 57% · +3.5 35% · Ambos marcan 61%  
+Marcadores: 1-1 12% · 1-2 8% · 2-1 8% · 0-1 7%  
+🔎 **Claves**  
+• Forma: Twente ✅➖❌✅✅ | Ajax ➖➖✅✅✅  
+• H2H: 39 desde 2005: 7V-11E-21D · 3.2 goles/partido · +2.5 en 64%  
+• Bajas: Twente: 1 fuera, 4 duda (Daouda Weidmann); Ajax: 1 fuera, 5 duda (Anton Gaaei)  
+• Favorito de las casas: Twente @ 2.30  
+📐 **Estadísticas esperadas**  
+Córners 6.0 - 4.3: total +10.5 46% · Twente +5.5 52% · Ajax +4.5 42%  
+Tarjetas 1.2 - 2.0: total +3.5 39% · Twente +1.5 34% · Ajax +1.5 59%  
+Faltas 9.9 - 9.6: total +21.5 32% · Twente +10.5 40% · Ajax +11.5 26%  
+Tiros a puerta 6.2 - 4.7: total +10.5 52% · Twente +5.5 56% · Ajax +4.5 50%  
+🧩 Crear apuesta: Menos de 11.5 faltas de Ajax + Menos de 1.5 tarjetas de Twente → prob. 50%, cuota justa 2.00 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 11.5 faltas de Ajax + Menos de 1.5 tarjetas de Twente + Menos de 4.5 córners de Ajax + Más de 2.5 goles + Más de 5.5 tiros a puerta de Twente → prob. 12%, cuota justa 8.24  
+🎯 Simulada (con cuota: Menos de 1.5 tarjetas de Twente + Menos de 4.5 córners de Ajax + Más de 5.5 tiros a puerta de Twente): cuota Unibet aprox. 4.73 (producto de piernas) · prob. 24% · ventaja +12% → 1 u en la banca de simulación  
+
+## Twente vs Ajax — 08/11 · 14:30
+
+👀 candidata · 🇳🇱 Eredivisie · **Menos de 5.5 córners de Ajax** @ **1.33** (Unibet) · prob 70% vs casas 69% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.48 - 1.50)  
+1 45% · X 27% · 2 28%  
+1X 72% · X2 55% · 12 73%  
++1.5 80% · +2.5 57% · +3.5 35% · Ambos marcan 61%  
+Marcadores: 1-1 12% · 1-2 8% · 2-1 8% · 0-1 7%  
+🔎 **Claves**  
+• Forma: Twente ✅➖❌✅✅ | Ajax ➖➖✅✅✅  
+• H2H: 39 desde 2005: 7V-11E-21D · 3.2 goles/partido · +2.5 en 64%  
+• Bajas: Twente: 1 fuera, 4 duda (Daouda Weidmann); Ajax: 1 fuera, 5 duda (Anton Gaaei)  
+• Favorito de las casas: Twente @ 2.30  
+📐 **Estadísticas esperadas**  
+Córners 6.0 - 4.3: total +10.5 46% · Twente +5.5 52% · Ajax +4.5 42%  
+Tarjetas 1.2 - 2.0: total +3.5 39% · Twente +1.5 34% · Ajax +1.5 59%  
+Faltas 9.9 - 9.6: total +21.5 32% · Twente +10.5 40% · Ajax +11.5 26%  
+Tiros a puerta 6.2 - 4.7: total +10.5 52% · Twente +5.5 56% · Ajax +4.5 50%  
+🧩 Crear apuesta: Menos de 11.5 faltas de Ajax + Menos de 1.5 tarjetas de Twente → prob. 50%, cuota justa 2.00 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 11.5 faltas de Ajax + Menos de 1.5 tarjetas de Twente + Menos de 4.5 córners de Ajax + Más de 2.5 goles + Más de 5.5 tiros a puerta de Twente → prob. 12%, cuota justa 8.24  
+🎯 Simulada (con cuota: Menos de 1.5 tarjetas de Twente + Menos de 4.5 córners de Ajax + Más de 5.5 tiros a puerta de Twente): cuota Unibet aprox. 4.73 (producto de piernas) · prob. 24% · ventaja +12% → 1 u en la banca de simulación  
 
 ## Jagiellonia vs GKS Katowice — 08/11 · 14:45
 
