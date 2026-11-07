@@ -1,6 +1,25 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 07/11/2026 01:39 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 07/11/2026 02:09 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+
+## vivienne vs Jokadinho — 07/11 · 02:24
+
+👀 candidata · 🎮⚽ FC 27 · World Cup B · **Empate** @ **5.20** (Unibet) · prob 21% vs casas 17% · ventaja +10%
+
+- ❌ Valor: ventaja +10% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 58.876 partidos)  
+Goles esperados: vivienne 3.38 · Jokadinho 2.90  
+Ganador: vivienne 46% · empate 21% · Jokadinho 33%  
+Total: más de 6.5 goles 44% · menos 56%  
+Hándicap vivienne: −1.5 34% · −2.5 20%  
+🔎 **Claves**  
+• Forma: vivienne ❌✅✅✅➖ | Jokadinho ✅❌❌❌✅  
+• Partidos: vivienne 765 | Jokadinho 828  
+• Liga: World Cup B  
+• Unibet: 1 2.00 · X 5.20 · 2 2.23 (sin margen 44%/17%/39%) · ventaja +10%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 5.20 (+10%) · Paf España 5.20 (+10%)  
 
 ## Kavviro vs ssstasonn — 07/11 · 02:27
 

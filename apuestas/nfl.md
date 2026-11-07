@@ -1,50 +1,6 @@
 # 🏈 NFL·NCAA · apuestas de valor
 
-Actualizado 07/11/2026 01:39 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Illinois Fighting Illini vs Nebraska Cornhuskers — 07/11 · 02:00
-
-👀 candidata · 🏈 NCAA Football · **Más de 50.5 puntos** @ **1.95** (DraftKings) · prob 49% vs casas 49% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 totales» sin pérdidas demostradas
-
-📊 **Escenarios**: total esperado **44.8** puntos · línea 50.5  
-Más 49% · Menos 51%  
-🔎 **Claves**  
-• Forma: Illinois Fighting Illini ❌❌✅✅✅ | Nebraska Cornhuskers ✅✅❌❌❌  
-• H2H: 8 desde 2017: 4-4  
-• Bajas: Illinois Fighting Illini: sin bajas; Nebraska Cornhuskers: sin bajas  
-
-## Illinois Fighting Illini vs Nebraska Cornhuskers — 07/11 · 02:00
-
-👀 candidata · 🏈 NCAA Football · **Illinois Fighting Illini +4.5** @ **1.89** (DraftKings) · prob 50% vs casas 50% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 hándicap» sin pérdidas demostradas
-
-📊 **Escenarios**: Illinois Fighting Illini cubre +4.5 con prob. 50% (casas 50%)  
-🔎 **Claves**  
-• Forma: Illinois Fighting Illini ❌❌✅✅✅ | Nebraska Cornhuskers ✅✅❌❌❌  
-• H2H: 8 desde 2017: 4-4  
-• Bajas: Illinois Fighting Illini: sin bajas; Nebraska Cornhuskers: sin bajas  
-
-## Illinois Fighting Illini vs Nebraska Cornhuskers — 07/11 · 02:00
-
-👀 candidata · 🏈 NCAA Football · **Gana Illinois Fighting Illini** @ **2.64** (DraftKings) · prob 36% vs casas 36% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo con 9.455 partidos y bajas)  
-Gana Illinois Fighting Illini 65% · Gana Nebraska Cornhuskers 35%  
-Casas: Illinois Fighting Illini 36% · Nebraska Cornhuskers 64%  
-Hándicap NEB -4.5 · Total puntos 50.5  
-🔎 **Claves**  
-• Forma: Illinois Fighting Illini ❌❌✅✅✅ | Nebraska Cornhuskers ✅✅❌❌❌  
-• H2H: 8 desde 2017: 4-4  
-• Bajas: Illinois Fighting Illini: sin bajas; Nebraska Cornhuskers: sin bajas  
-• Favorito de las casas: Nebraska Cornhuskers @ 1.50  
+Actualizado 07/11/2026 02:09 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Nevada Wolf Pack vs New Mexico Lobos — 07/11 · 03:00
 
