@@ -59907,14 +59907,14 @@ id,tournament_id,club1,club2,ht1,ht2
 2367281,261275,Brazil,Argentina,0.0,0.0
 2367282,261275,Argentina,Colombia,,
 2367283,261275,Uruguay,Ecuador,,
-2368133,261220,Villarreal,Athletic Club,1,2
-2368452,261220,Real Madrid,Barcelona,3,1
-2368135,261220,Barcelona,Villarreal,3,2
-2368136,261220,Athletic Club,Atleti,0,2
-2368137,261220,Atleti,Barcelona,0,1
-2368453,261220,Villarreal,Real Madrid,0,1
-2368454,261220,Real Madrid,Atleti,2,2
-2368140,261220,Barcelona,Athletic Club,4,1
+2368133,261220,Villarreal,Athletic Club,1.0,2.0
+2368452,261220,Real Madrid,Barcelona,3.0,1.0
+2368135,261220,Barcelona,Villarreal,3.0,2.0
+2368136,261220,Athletic Club,Atleti,0.0,2.0
+2368137,261220,Atleti,Barcelona,0.0,1.0
+2368453,261220,Villarreal,Real Madrid,0.0,1.0
+2368454,261220,Real Madrid,Atleti,2.0,2.0
+2368140,261220,Barcelona,Athletic Club,4.0,1.0
 2368455,261220,Athletic Club,Real Madrid,,
 2368142,261220,Atleti,Villarreal,,
 2368143,261220,Athletic Club,Villarreal,,
@@ -59927,3 +59927,43 @@ id,tournament_id,club1,club2,ht1,ht2
 2368150,261220,Athletic Club,Barcelona,,
 2368459,261220,Real Madrid,Athletic Club,,
 2368152,261220,Villarreal,Atleti,,
+2367603,261256,Sporting CP,Braga,0,0
+2367604,261256,Benfica,Porto,0,2
+2367605,261256,Porto,Sporting CP,3,0
+2367606,261256,Braga,Vitoria SC,0,1
+2367607,261256,Vitoria SC,Porto,3,2
+2367608,261256,Sporting CP,Benfica,0,2
+2367609,261256,Benfica,Vitoria SC,3,0
+2367610,261256,Porto,Braga,1,0
+2367611,261256,Braga,Benfica,1,0
+2367612,261256,Vitoria SC,Sporting CP,0,3
+2367613,261256,Braga,Sporting CP,0,1
+2367614,261256,Porto,Benfica,1,0
+2367615,261256,Sporting CP,Porto,,
+2367616,261256,Vitoria SC,Braga,,
+2367617,261256,Porto,Vitoria SC,,
+2367618,261256,Benfica,Sporting CP,,
+2367619,261256,Vitoria SC,Benfica,,
+2367620,261256,Braga,Porto,,
+2367621,261256,Benfica,Braga,,
+2367622,261256,Sporting CP,Vitoria SC,,
+2367933,261272,Brazil,England,1,1
+2367934,261272,Spain,Argentina,2,0
+2367935,261272,Argentina,Brazil,2,3
+2367936,261272,England,France,2,2
+2367937,261272,France,Argentina,2,3
+2367938,261272,Brazil,Spain,1,1
+2367939,261272,Spain,France,2,2
+2367940,261272,Argentina,England,0,4
+2367941,261272,England,Spain,0,3
+2367942,261272,France,Brazil,1,1
+2367943,261272,England,Brazil,0,2
+2367944,261272,Argentina,Spain,0,4
+2367945,261272,Brazil,Argentina,3,3
+2367946,261272,France,England,2,1
+2367947,261272,Argentina,France,,
+2367948,261272,Spain,Brazil,,
+2367949,261272,France,Spain,,
+2367950,261272,England,Argentina,,
+2367951,261272,Spain,England,,
+2367952,261272,Brazil,France,,

@@ -1,50 +1,6 @@
 # 🏈 NFL·NCAA · apuestas de valor
 
-Actualizado 07/11/2026 22:34 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Louisiana Ragin' Cajuns vs South Alabama Jaguars — 07/11 · 23:00
-
-👀 candidata · 🏈 NCAA Football · **Más de 57.5 puntos** @ **1.91** (DraftKings) · prob 50% vs casas 50% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 totales» sin pérdidas demostradas
-
-📊 **Escenarios**: total esperado **55.1** puntos · línea 57.5  
-Más 50% · Menos 50%  
-🔎 **Claves**  
-• Forma: Louisiana Ragin' Cajuns ✅✅❌✅❌ | South Alabama Jaguars ❌✅✅❌❌  
-• H2H: 9 desde 2017: 7-2  
-• Bajas: Louisiana Ragin' Cajuns: sin bajas; South Alabama Jaguars: sin bajas  
-
-## Louisiana Ragin' Cajuns vs South Alabama Jaguars — 07/11 · 23:00
-
-👀 candidata · 🏈 NCAA Football · **Louisiana Ragin' Cajuns -7.5** @ **1.91** (DraftKings) · prob 50% vs casas 50% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 hándicap» sin pérdidas demostradas
-
-📊 **Escenarios**: Louisiana Ragin' Cajuns cubre -7.5 con prob. 50% (casas 50%)  
-🔎 **Claves**  
-• Forma: Louisiana Ragin' Cajuns ✅✅❌✅❌ | South Alabama Jaguars ❌✅✅❌❌  
-• H2H: 9 desde 2017: 7-2  
-• Bajas: Louisiana Ragin' Cajuns: sin bajas; South Alabama Jaguars: sin bajas  
-
-## Louisiana Ragin' Cajuns vs South Alabama Jaguars — 07/11 · 23:00
-
-👀 candidata · 🏈 NCAA Football · **Gana Louisiana Ragin' Cajuns** @ **1.32** (DraftKings) · prob 73% vs casas 73% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo con 9.457 partidos y bajas)  
-Gana Louisiana Ragin' Cajuns 67% · Gana South Alabama Jaguars 33%  
-Casas: Louisiana Ragin' Cajuns 73% · South Alabama Jaguars 27%  
-Hándicap UL -7.5 · Total puntos 57.5  
-🔎 **Claves**  
-• Forma: Louisiana Ragin' Cajuns ✅✅❌✅❌ | South Alabama Jaguars ❌✅✅❌❌  
-• H2H: 9 desde 2017: 7-2  
-• Bajas: Louisiana Ragin' Cajuns: sin bajas; South Alabama Jaguars: sin bajas  
-• Favorito de las casas: Louisiana Ragin' Cajuns @ 1.32  
+Actualizado 07/11/2026 23:22 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Colorado State Rams vs Boise State Broncos — 08/11 · 00:00
 
