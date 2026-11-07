@@ -1460,5 +1460,45 @@
   "estado": "pendiente",
   "avisada": false,
   "rev": 1
+ },
+ {
+  "id": "20261107192818666824",
+  "creada": "2026-11-07 19:28:18.666864+00:00",
+  "titulo": "Barrido · Combinada cuota 12.1",
+  "legs": [
+   {
+    "code": null,
+    "start": "2026-11-07 20:00:00+00:00",
+    "home": "Real Zaragoza",
+    "away": "Huesca",
+    "txt": "Gana Real Zaragoza",
+    "odds": 1.76,
+    "p": 0.6137
+   },
+   {
+    "code": null,
+    "start": "2026-11-08 10:30:00+00:00",
+    "home": "Casalarreina",
+    "away": "Yague",
+    "txt": "Gana Yague",
+    "odds": 2.75,
+    "p": 0.4117
+   },
+   {
+    "code": null,
+    "start": "2026-11-08 15:30:00+00:00",
+    "home": "Torrijos",
+    "away": "Manchego Ciudad Real",
+    "txt": "Gana Manchego Ciudad Real",
+    "odds": 2.5,
+    "p": 0.4483
+   }
+  ],
+  "odds": 12.1,
+  "p": 0.113267608007,
+  "stake": 1.0,
+  "estado": "pendiente",
+  "avisada": false,
+  "rev": 1
  }
 ]
