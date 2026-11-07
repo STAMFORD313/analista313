@@ -1,6 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 07/11/2026 02:09 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 07/11/2026 02:18 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Atlante vs Santos Laguna — 07/11 · 04:00
 

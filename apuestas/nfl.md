@@ -1,6 +1,6 @@
 # 🏈 NFL·NCAA · apuestas de valor
 
-Actualizado 07/11/2026 02:09 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 07/11/2026 02:18 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Nevada Wolf Pack vs New Mexico Lobos — 07/11 · 03:00
 

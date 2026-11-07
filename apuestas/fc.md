@@ -1,6 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 07/11/2026 02:09 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 07/11/2026 02:18 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## vivienne vs Jokadinho — 07/11 · 02:24
 
@@ -38,6 +38,25 @@ Hándicap Kavviro: −1.5 66% · −2.5 49%
 • Partidos: Kavviro 774 | ssstasonn 914  
 • Liga: Champions League B  
 • Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
+
+## Dov1n vs Paka — 07/11 · 02:36
+
+👀 candidata · 🎮⚽ FC 27 · World Cup B · **Empate** @ **5.20** (Unibet) · prob 22% vs casas 17% · ventaja +12%
+
+- ✅ Valor: ventaja +12% (mín. 11% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 58.882 partidos)  
+Goles esperados: Dov1n 2.95 · Paka 3.23  
+Ganador: Dov1n 34% · empate 21% · Paka 45%  
+Total: más de 6.5 goles 42% · menos 58%  
+Hándicap Paka: −1.5 31% · −2.5 18%  
+🔎 **Claves**  
+• Forma: Dov1n ✅❌❌❌➖ | Paka ❌➖✅❌❌  
+• Partidos: Dov1n 969 | Paka 801  
+• Liga: World Cup B  
+• Unibet: 1 2.00 · X 5.20 · 2 2.23 (sin margen 44%/17%/39%) · ventaja +12%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 5.20 (+12%) · Paf España 5.20 (+12%)  
 
 ## ssstasonn vs Grellz — 07/11 · 02:39
 
