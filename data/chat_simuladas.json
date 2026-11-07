@@ -1268,5 +1268,49 @@
   "estado": "pendiente",
   "avisada": false,
   "rev": 1
+ },
+ {
+  "id": "20261107000103361557",
+  "creada": "2026-11-07 00:01:03.361606+00:00",
+  "titulo": "Barrido · Combinada cuota 8.1",
+  "legs": [
+   {
+    "code": null,
+    "start": "2026-11-07 11:00:00+00:00",
+    "home": "Lipno Steszew",
+    "away": "Unia Swarzedz",
+    "txt": "Gana Unia Swarzedz",
+    "odds": 2.2,
+    "p": 0.5385
+   },
+   {
+    "src": "esports:dota2",
+    "side": "A",
+    "code": null,
+    "start": "2026-11-07 19:00:00+00:00",
+    "home": "PlayTime",
+    "away": "HULIGANI",
+    "txt": "Gana HULIGANI",
+    "odds": 1.53,
+    "p": 0.6790298474945533
+   },
+   {
+    "src": "espn:nfl",
+    "side": "A",
+    "code": null,
+    "start": "2026-11-08 18:00:00+00:00",
+    "home": "New Orleans Saints",
+    "away": "Cleveland Browns",
+    "txt": "Gana Cleveland Browns",
+    "odds": 2.42,
+    "p": 0.43196
+   }
+  ],
+  "odds": 8.15,
+  "p": 0.15794944517943788,
+  "stake": 1.0,
+  "estado": "pendiente",
+  "avisada": false,
+  "rev": 1
  }
 ]
