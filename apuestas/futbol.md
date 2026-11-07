@@ -1,6 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 07/11/2026 22:02 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 07/11/2026 22:34 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Atlas vs Pachuca — 08/11 · 00:00
 

@@ -1386,10 +1386,6 @@
   "wta|2026-11-08|Marta Kostyuk|Linda Noskova",
   "wta|2026-11-10|Marta Kostyuk|Jessica Pegula",
   "wta|2026-11-10|Marta Kostyuk|Coco Gauff",
-  "fc|2359853",
-  "fc|2359860",
-  "fc|2360810",
-  "fc|2363109",
   "cs2|133349",
   "dota2|132366",
   "dota2|132367",
@@ -2389,7 +2385,15 @@
   "cs2|133753",
   "fc|2367938",
   "fc|2368140",
-  "fc|2368142"
+  "fc|2368142",
+  "cs2|133758",
+  "cs2|133748",
+  "cs2|133311",
+  "cs2|133437",
+  "cs2|133350",
+  "fc|2367941",
+  "fc|2367943",
+  "fc|2367942"
  ],
  "signals": [
   {
@@ -5764,7 +5768,11 @@
    "version": "5d2adff",
    "bajas": "NC State Wolfpack: sin bajas; Duke Blue Devils: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "3-41",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "sph",
@@ -5785,7 +5793,11 @@
    "version": "5d2adff",
    "bajas": "NC State Wolfpack: sin bajas; Duke Blue Devils: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "3-41",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "home",
@@ -5805,7 +5817,11 @@
    "version": "5d2adff",
    "bajas": "NC State Wolfpack: sin bajas; Duke Blue Devils: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "3-41",
+   "close_p": 0.362,
+   "logged": true
   },
   {
    "market": "over",
@@ -5902,7 +5918,11 @@
    "version": "5d2adff",
    "bajas": "Auburn Tigers: sin bajas; Arkansas Razorbacks: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "26-23",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "sph",
@@ -5923,7 +5943,11 @@
    "version": "5d2adff",
    "bajas": "Auburn Tigers: sin bajas; Arkansas Razorbacks: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "26-23",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "home",
@@ -5943,7 +5967,11 @@
    "version": "5d2adff",
    "bajas": "Auburn Tigers: sin bajas; Arkansas Razorbacks: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "26-23",
+   "close_p": 0.7678,
+   "logged": true
   },
   {
    "market": "over",
@@ -7200,15 +7228,6 @@
    "pick": "Más de 48.5 puntos",
    "league": "🏈 NCAA Football",
    "sport": "🏈",
-   "info": [
-    "📊 <b>Escenarios</b>: total esperado <b>57.2</b> puntos · línea 48.5",
-    "Más 50% · Menos 50%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Mississippi State Bulldogs ✅❌❌❌❌ | Vanderbilt Commodores ❌❌❌❌❌",
-    "• H2H: 2 desde 2020: 2-0",
-    "• Bajas: Mississippi State Bulldogs: sin bajas; Vanderbilt Commodores: sin bajas"
-   ],
    "context": "Mississippi State Bulldogs vs Vanderbilt Commodores (🏈 NCAA Football). Modelo de puntos (ataque/defensa con 10 años, decaimiento 1 año): total esperado 57.2 frente a línea 48.5. Forma Mississippi State Bulldogs ✅❌❌❌❌, Vanderbilt Commodores ❌❌❌❌❌. H2H 2 desde 2020: 2-0. Bajas: Mississippi State Bulldogs: sin bajas; Vanderbilt Commodores: sin bajas.",
    "captured": "2026-11-05T00:12",
    "version": "5d2adff",
@@ -7230,14 +7249,6 @@
    "pick": "Mississippi State Bulldogs -3",
    "league": "🏈 NCAA Football",
    "sport": "🏈",
-   "info": [
-    "📊 <b>Escenarios</b>: Mississippi State Bulldogs cubre -3 con prob. 50% (casas 50%)",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Mississippi State Bulldogs ✅❌❌❌❌ | Vanderbilt Commodores ❌❌❌❌❌",
-    "• H2H: 2 desde 2020: 2-0",
-    "• Bajas: Mississippi State Bulldogs: sin bajas; Vanderbilt Commodores: sin bajas"
-   ],
    "context": "Mississippi State Bulldogs vs Vanderbilt Commodores (🏈 NCAA Football). Hándicap Mississippi State Bulldogs -3: margen esperado desde el Elo (gana Mississippi State Bulldogs 49%). Forma Mississippi State Bulldogs ✅❌❌❌❌, Vanderbilt Commodores ❌❌❌❌❌. H2H 2 desde 2020: 2-0. Bajas: Mississippi State Bulldogs: sin bajas; Vanderbilt Commodores: sin bajas.",
    "captured": "2026-11-05T00:12",
    "version": "5d2adff",
@@ -7258,18 +7269,6 @@
    "start": "2026-11-07T21:15Z",
    "league": "🏈 NCAA Football",
    "sport": "🏈",
-   "info": [
-    "📊 <b>Escenarios</b> (Elo con 9.457 partidos y bajas)",
-    "Gana Mississippi State Bulldogs 49% · Gana Vanderbilt Commodores 51%",
-    "Casas: Mississippi State Bulldogs 58% · Vanderbilt Commodores 42%",
-    "Hándicap MSST -3 · Total puntos 48.5",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Mississippi State Bulldogs ✅❌❌❌❌ | Vanderbilt Commodores ❌❌❌❌❌",
-    "• H2H: 2 desde 2020: 2-0",
-    "• Bajas: Mississippi State Bulldogs: sin bajas; Vanderbilt Commodores: sin bajas",
-    "• Favorito de las casas: Mississippi State Bulldogs @ 1.65"
-   ],
    "context": "Mississippi State Bulldogs vs Vanderbilt Commodores (🏈 NCAA Football, fútbol americano). Modelo Elo con 10 años de historial ajustado por bajas: Mississippi State Bulldogs 49%, Vanderbilt Commodores 51%. Cuotas DraftKings 1.645/2.3, hándicap MSST -3, total 48.5. Forma Mississippi State Bulldogs ✅❌❌❌❌, Vanderbilt Commodores ❌❌❌❌❌. H2H 2 desde 2020: 2-0. Bajas Mississippi State Bulldogs: ninguna. Bajas Vanderbilt Commodores: ninguna.",
    "captured": "2026-11-05T00:12",
    "version": "5d2adff",
@@ -7292,15 +7291,6 @@
    "pick": "Más de 45.5 puntos",
    "league": "🏈 NCAA Football",
    "sport": "🏈",
-   "info": [
-    "📊 <b>Escenarios</b>: total esperado <b>43.7</b> puntos · línea 45.5",
-    "Más 50% · Menos 50%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Wisconsin Badgers ✅✅❌✅❌ | Rutgers Scarlet Knights ✅❌✅❌❌",
-    "• H2H: 4 desde 2018: 4-0",
-    "• Bajas: Wisconsin Badgers: sin bajas; Rutgers Scarlet Knights: sin bajas"
-   ],
    "context": "Wisconsin Badgers vs Rutgers Scarlet Knights (🏈 NCAA Football). Modelo de puntos (ataque/defensa con 10 años, decaimiento 1 año): total esperado 43.7 frente a línea 45.5. Forma Wisconsin Badgers ✅✅❌✅❌, Rutgers Scarlet Knights ✅❌✅❌❌. H2H 4 desde 2018: 4-0. Bajas: Wisconsin Badgers: sin bajas; Rutgers Scarlet Knights: sin bajas.",
    "captured": "2026-11-05T00:12",
    "version": "5d2adff",
@@ -7322,14 +7312,6 @@
    "pick": "Wisconsin Badgers -17.5",
    "league": "🏈 NCAA Football",
    "sport": "🏈",
-   "info": [
-    "📊 <b>Escenarios</b>: Wisconsin Badgers cubre -17.5 con prob. 48% (casas 48%)",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Wisconsin Badgers ✅✅❌✅❌ | Rutgers Scarlet Knights ✅❌✅❌❌",
-    "• H2H: 4 desde 2018: 4-0",
-    "• Bajas: Wisconsin Badgers: sin bajas; Rutgers Scarlet Knights: sin bajas"
-   ],
    "context": "Wisconsin Badgers vs Rutgers Scarlet Knights (🏈 NCAA Football). Hándicap Wisconsin Badgers -17.5: margen esperado desde el Elo (gana Wisconsin Badgers 84%). Forma Wisconsin Badgers ✅✅❌✅❌, Rutgers Scarlet Knights ✅❌✅❌❌. H2H 4 desde 2018: 4-0. Bajas: Wisconsin Badgers: sin bajas; Rutgers Scarlet Knights: sin bajas.",
    "captured": "2026-11-05T00:12",
    "version": "5d2adff",
@@ -7350,18 +7332,6 @@
    "start": "2026-11-07T21:15Z",
    "league": "🏈 NCAA Football",
    "sport": "🏈",
-   "info": [
-    "📊 <b>Escenarios</b> (Elo con 9.457 partidos y bajas)",
-    "Gana Wisconsin Badgers 84% · Gana Rutgers Scarlet Knights 16%",
-    "Casas: Wisconsin Badgers 86% · Rutgers Scarlet Knights 14%",
-    "Hándicap WIS -17.5 · Total puntos 45.5",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Wisconsin Badgers ✅✅❌✅❌ | Rutgers Scarlet Knights ✅❌✅❌❌",
-    "• H2H: 4 desde 2018: 4-0",
-    "• Bajas: Wisconsin Badgers: sin bajas; Rutgers Scarlet Knights: sin bajas",
-    "• Favorito de las casas: Wisconsin Badgers @ 1.11"
-   ],
    "context": "Wisconsin Badgers vs Rutgers Scarlet Knights (🏈 NCAA Football, fútbol americano). Modelo Elo con 10 años de historial ajustado por bajas: Wisconsin Badgers 84%, Rutgers Scarlet Knights 16%. Cuotas DraftKings 1.111/7.0, hándicap WIS -17.5, total 45.5. Forma Wisconsin Badgers ✅✅❌✅❌, Rutgers Scarlet Knights ✅❌✅❌❌. H2H 4 desde 2018: 4-0. Bajas Wisconsin Badgers: ninguna. Bajas Rutgers Scarlet Knights: ninguna.",
    "captured": "2026-11-05T00:12",
    "version": "5d2adff",
@@ -46977,7 +46947,11 @@
    "version": "42e2e54",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "1-2",
+   "result": false,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "AHA",
@@ -46998,7 +46972,11 @@
    "version": "42e2e54",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "1-2",
+   "result": false,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "H",
@@ -48990,10 +48968,6 @@
    "league": "💎 Valor vs Pinnacle · Venezuela - Primera Division",
    "sport": "⚽💎⚽",
    "sin_stake": true,
-   "info": [
-    "💎 <b>Valor contra Pinnacle (goles)</b>: Smarkets paga 2.18 y el justo de Pinnacle es 2.03 (+7.0%)",
-    "Candidata sin dinero hasta demostrar su CLV."
-   ],
    "context": "Monagas vs Deportivo Tachira: menos de 2.5 goles, valor contra Pinnacle.",
    "captured": "2026-11-07T18:04",
    "version": "1c2f782",
@@ -51730,7 +51704,11 @@
    "version": "b97085e",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "3-0",
+   "result": true,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "A",
@@ -51745,25 +51723,16 @@
    "start": "2026-11-07T21:07:00+00:00",
    "league": "🎮⚽ FC 27 · World Cup A",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 59.848 partidos)",
-    "Goles esperados: ssstasonn 1.80 · believer 4.73",
-    "Ganador: ssstasonn 6% · empate 9% · believer 85%",
-    "Total: más de 6.5 goles 48% · menos 52%",
-    "Hándicap believer: −1.5 71% · −2.5 56%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: ssstasonn ❌❌❌❌❌ | believer ❌❌✅✅✅",
-    "• Partidos: ssstasonn 934 | believer 947",
-    "• Liga: World Cup A",
-    "• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta)."
-   ],
    "context": "EA FC Esoccer Battle ssstasonn vs believer (World Cup A): goles esperados 1.80-4.73, 1X2 6%/9%/85%. Sin cuotas de casa.",
    "captured": "2026-11-07T20:32",
    "version": "b97085e",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "2-5",
+   "result": true,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_a_u",
@@ -52619,7 +52588,11 @@
    "bajas": "",
    "considered": true,
    "placed": false,
-   "anunciada": true
+   "anunciada": true,
+   "score": "4-4",
+   "result": false,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "A",
@@ -52635,26 +52608,16 @@
    "start": "2026-11-07T21:19:00+00:00",
    "league": "🎮⚽ FC 27 · World Cup A",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 59.878 partidos)",
-    "Goles esperados: believer 2.84 · tizzy 2.82",
-    "Ganador: believer 39% · empate 22% · tizzy 39%",
-    "Total: más de 5.5 goles 50% · menos 50%",
-    "Hándicap believer: −1.5 26% · −2.5 14%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: believer ❌❌✅✅✅ | tizzy ✅➖✅➖✅",
-    "• Partidos: believer 947 | tizzy 353",
-    "• Liga: World Cup A",
-    "• Unibet: 1 1.42 · X 6.25 · 2 3.45 (sin margen 61%/14%/25%) · ventaja +36%. Sin stake hasta demostrar ROI con estas cuotas.",
-    "• En España: LeoVegas España 3.45 (+36%) · Paf España 3.45 (+36%)"
-   ],
    "context": "EA FC Esoccer Battle believer vs tizzy (World Cup A): goles esperados 2.84-2.82, 1X2 39%/22%/39%. Sin cuotas de casa.",
    "captured": "2026-11-07T21:02",
    "version": "8b1c6da",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "2-2",
+   "result": false,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "A",
@@ -52670,26 +52633,16 @@
    "start": "2026-11-07T21:16:00+00:00",
    "league": "🎮⚽ FC 27 · LaLiga",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 59.878 partidos)",
-    "Goles esperados: Lx7ss 3.61 · vivienne 3.23",
-    "Ganador: Lx7ss 47% · empate 18% · vivienne 35%",
-    "Total: más de 6.5 goles 53% · menos 47%",
-    "Hándicap Lx7ss: −1.5 33% · −2.5 20%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Lx7ss ➖✅✅❌❌ | vivienne ❌❌❌❌➖",
-    "• Partidos: Lx7ss 993 | vivienne 782",
-    "• Liga: LaLiga",
-    "• Unibet: 1 1.57 · X 5.75 · 2 3.10 (sin margen 56%/15%/28%) · ventaja +10%. Sin stake hasta demostrar ROI con estas cuotas.",
-    "• En España: LeoVegas España 3.10 (+10%) · Paf España 3.10 (+10%)"
-   ],
    "context": "EA FC Esoccer Battle Lx7ss vs vivienne (LaLiga): goles esperados 3.61-3.23, 1X2 47%/18%/35%. Sin cuotas de casa.",
    "captured": "2026-11-07T21:02",
    "version": "8b1c6da",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "4-2",
+   "result": false,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "H",
@@ -52705,23 +52658,144 @@
    "start": "2026-11-07T21:28:00+00:00",
    "league": "🎮⚽ FC 27 · LaLiga",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 59.878 partidos)",
-    "Goles esperados: Paka 3.16 · Dov1n 3.01",
-    "Ganador: Paka 46% · empate 19% · Dov1n 35%",
-    "Total: más de 6.5 goles 42% · menos 58%",
-    "Hándicap Paka: −1.5 29% · −2.5 17%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Paka ➖✅✅➖✅ | Dov1n ✅✅✅➖➖",
-    "• Partidos: Paka 816 | Dov1n 985",
-    "• Liga: LaLiga",
-    "• Unibet: 1 2.38 · X 4.40 · 2 2.02 (sin margen 37%/20%/43%) · ventaja +10%. Sin stake hasta demostrar ROI con estas cuotas.",
-    "• En España: LeoVegas España 2.38 (+10%) · Paf España 2.38 (+10%)"
-   ],
    "context": "EA FC Esoccer Battle Paka vs Dov1n (LaLiga): goles esperados 3.16-3.01, 1X2 46%/19%/35%. Sin cuotas de casa.",
    "captured": "2026-11-07T21:02",
    "version": "8b1c6da",
+   "bajas": "",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "key": "vp|2026-11-08|Nacional Potosi|Real Potosi",
+   "market": "H",
+   "pick": "Nacional Potosi",
+   "odds": 2.49,
+   "book": "Smarkets",
+   "p": 0.4277,
+   "implied": 0.4277,
+   "edge": 0.0649,
+   "match": "Nacional Potosi vs Real Potosi",
+   "start": "2026-11-08T19:00:00+00:00",
+   "league": "💎 Valor vs Pinnacle · Bolivia - Primera Division",
+   "sport": "⚽💎",
+   "info": [
+    "💎 <b>Valor contra Pinnacle</b>: Smarkets paga 2.49 y el precio justo de Pinnacle es 2.34 (ventaja +6.5%)",
+    "Backtest 2015-2026 (cuota ≤ 2.5, > 3 %): ROI +11 % ± 3 %, CLV +5 %."
+   ],
+   "context": "Nacional Potosi vs Real Potosi (Bolivia - Primera Division). Estrategia de valor: Smarkets 2.49 frente a Pinnacle justo 2.34.",
+   "captured": "2026-11-07T21:33",
+   "version": "2da7c39",
+   "bajas": "",
+   "considered": true,
+   "ai": {
+    "apostar": true,
+    "motivo": null,
+    "confianza": null,
+    "modelo": null
+   },
+   "placed": false
+  },
+  {
+   "market": "D",
+   "pick": "Empate",
+   "odds": 5.6,
+   "book": "Unibet",
+   "implied": 0.157,
+   "edge": 0.166,
+   "sin_stake": true,
+   "p": 0.208,
+   "key": "fc|2367941",
+   "match": "Grellz vs tizzy",
+   "start": "2026-11-07T21:43:00+00:00",
+   "league": "🎮⚽ FC 27 · World Cup A",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 59.908 partidos)",
+    "Goles esperados: Grellz 2.85 · tizzy 3.12",
+    "Ganador: Grellz 34% · empate 21% · tizzy 46%",
+    "Total: más de 5.5 goles 55% · menos 45%",
+    "Hándicap tizzy: −1.5 30% · −2.5 17%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Grellz ✅✅❌✅❌ | tizzy ✅➖✅✅➖",
+    "• Partidos: Grellz 1049 | tizzy 355",
+    "• Liga: World Cup A",
+    "• Unibet: 1 2.14 · X 5.60 · 2 2.02 (sin margen 41%/16%/43%) · ventaja +17%. Sin stake hasta demostrar ROI con estas cuotas.",
+    "• En España: LeoVegas España 5.60 (+17%) · Paf España 5.60 (+17%)"
+   ],
+   "context": "EA FC Esoccer Battle Grellz vs tizzy (World Cup A): goles esperados 2.85-3.12, 1X2 34%/21%/46%. Sin cuotas de casa.",
+   "captured": "2026-11-07T21:33",
+   "version": "2da7c39",
+   "bajas": "",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "D",
+   "pick": "Empate",
+   "odds": 5.2,
+   "book": "Unibet",
+   "implied": 0.168,
+   "edge": 0.116,
+   "sin_stake": true,
+   "p": 0.215,
+   "key": "fc|2367943",
+   "match": "Grellz vs believer",
+   "start": "2026-11-07T21:55:00+00:00",
+   "league": "🎮⚽ FC 27 · World Cup A",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 59.908 partidos)",
+    "Goles esperados: Grellz 2.71 · believer 2.96",
+    "Ganador: Grellz 34% · empate 21% · believer 45%",
+    "Total: más de 5.5 goles 50% · menos 50%",
+    "Hándicap believer: −1.5 29% · −2.5 17%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Grellz ✅✅❌✅❌ | believer ✅✅❌✅➖",
+    "• Partidos: Grellz 1049 | believer 950",
+    "• Liga: World Cup A",
+    "• Unibet: 1 1.97 · X 5.20 · 2 2.25 (sin margen 44%/17%/39%) · ventaja +12%. Sin stake hasta demostrar ROI con estas cuotas.",
+    "• En España: LeoVegas España 5.20 (+12%) · Paf España 5.20 (+12%)"
+   ],
+   "context": "EA FC Esoccer Battle Grellz vs believer (World Cup A): goles esperados 2.71-2.96, 1X2 34%/21%/45%. Sin cuotas de casa.",
+   "captured": "2026-11-07T21:33",
+   "version": "2da7c39",
+   "bajas": "",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "D",
+   "pick": "Empate",
+   "odds": 5.75,
+   "book": "Unibet",
+   "implied": 0.151,
+   "edge": 0.059,
+   "sin_stake": true,
+   "p": 0.184,
+   "key": "fc|2367942",
+   "match": "Nightxx vs believer",
+   "start": "2026-11-07T21:43:00+00:00",
+   "league": "🎮⚽ FC 27 · World Cup A",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 59.908 partidos)",
+    "Goles esperados: Nightxx 2.60 · believer 3.67",
+    "Ganador: Nightxx 23% · empate 18% · believer 59%",
+    "Total: más de 6.5 goles 44% · menos 56%",
+    "Hándicap believer: −1.5 42% · −2.5 28%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Nightxx ❌❌✅✅✅ | believer ✅✅❌✅➖",
+    "• Partidos: Nightxx 828 | believer 950",
+    "• Liga: World Cup A",
+    "• Unibet: 1 3.30 · X 5.75 · 2 1.48 (sin margen 26%/15%/59%) · ventaja +6%. Sin stake hasta demostrar ROI con estas cuotas.",
+    "• En España: LeoVegas España 5.75 (+6%) · Paf España 5.75 (+6%)"
+   ],
+   "context": "EA FC Esoccer Battle Nightxx vs believer (World Cup A): goles esperados 2.60-3.67, 1X2 23%/18%/59%. Sin cuotas de casa.",
+   "captured": "2026-11-07T21:33",
+   "version": "2da7c39",
    "bajas": "",
    "considered": true,
    "placed": false
@@ -68574,7 +68648,8 @@
      "line": 25.5,
      "text": "Menos de 25.5 faltas"
     }
-   ]
+   ],
+   "anunciada": true
   },
   "SP1|2026-11-08|Villarreal|Getafe": {
    "match": "Villarreal vs Getafe",
@@ -68862,7 +68937,8 @@
      "line": 2.5,
      "text": "Menos de 2.5 goles"
     }
-   ]
+   ],
+   "anunciada": true
   },
   "SP2|2026-11-08|Sp Gijon|Valladolid": {
    "match": "Sp Gijon vs Valladolid",
@@ -69488,7 +69564,8 @@
      "line": 2.5,
      "text": "Más de 2.5 goles"
     }
-   ]
+   ],
+   "anunciada": true
   },
   "I2|2026-11-08|Vicenza|Cremonese": {
    "match": "Vicenza vs Cremonese",
@@ -69927,7 +70004,8 @@
      "line": 4.5,
      "text": "Menos de 4.5 tiros a puerta de Marseille"
     }
-   ]
+   ],
+   "anunciada": true
   },
   "I1|2026-11-08|Fiorentina|Juventus": {
    "match": "Fiorentina vs Juventus",
@@ -70088,7 +70166,8 @@
      "line": 2.5,
      "text": "Menos de 2.5 goles"
     }
-   ]
+   ],
+   "anunciada": true
   },
   "SP1|2026-11-08|Ath Madrid|Barcelona": {
    "match": "Ath Madrid vs Barcelona",
@@ -70592,7 +70671,7 @@
    ]
   }
  },
- "combo_sent": "2026-11-07T18:04:06.946077+00:00",
+ "combo_sent": "2026-11-07T21:34:10.214214+00:00",
  "fc_sim_sent": "2026-11-07T20:32:08.492762+00:00",
  "fc_sim_n": 862,
  "kambi_ok": [
