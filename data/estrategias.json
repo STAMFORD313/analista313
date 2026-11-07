@@ -1,6 +1,6 @@
 {
- "fecha": "2026-11-07 00:11",
- "n": 889,
+ "fecha": "2026-11-07 00:41",
+ "n": 995,
  "rentables": [],
  "bloqueados": [
   {
@@ -8,56 +8,67 @@
    "n": 104,
    "roi": -0.4072,
    "se": 0.1412,
-   "roi_antigua": -0.3042,
-   "roi_nueva": -0.4618
+   "roi_antigua": -0.389,
+   "roi_nueva": -0.419
   },
   {
    "segmento": "deporte=🎮⚽ · cuota=>2.5 · ventaja=>15%",
    "n": 101,
    "roi": -0.3896,
    "se": 0.145,
-   "roi_antigua": -0.2409,
-   "roi_nueva": -0.4618
+   "roi_antigua": -0.3408,
+   "roi_nueva": -0.419
   },
   {
    "segmento": "cuota=>2.5 · ventaja=>15%",
    "n": 128,
    "roi": -0.349,
    "se": 0.1277,
-   "roi_antigua": -0.1802,
-   "roi_nueva": -0.4845
+   "roi_antigua": -0.2463,
+   "roi_nueva": -0.4455
   },
   {
    "segmento": "mercado=1X2 · ventaja=>15%",
-   "n": 165,
-   "roi": -0.2389,
-   "se": 0.1007,
-   "roi_antigua": -0.08,
-   "roi_nueva": -0.308
+   "n": 166,
+   "roi": -0.2435,
+   "se": 0.1002,
+   "roi_antigua": -0.0872,
+   "roi_nueva": -0.3519
   },
   {
    "segmento": "deporte=🎮⚽ · mercado=1X2 · ventaja=>15%",
-   "n": 162,
-   "roi": -0.2248,
-   "se": 0.1023,
-   "roi_antigua": -0.0213,
-   "roi_nueva": -0.308
+   "n": 163,
+   "roi": -0.2296,
+   "se": 0.1017,
+   "roi_antigua": -0.0451,
+   "roi_nueva": -0.3519
   },
   {
    "segmento": "deporte=🎮⚽ · ventaja=>15%",
-   "n": 162,
-   "roi": -0.2248,
-   "se": 0.1023,
-   "roi_antigua": -0.0213,
-   "roi_nueva": -0.308
+   "n": 163,
+   "roi": -0.2296,
+   "se": 0.1017,
+   "roi_antigua": -0.0451,
+   "roi_nueva": -0.3519
+  },
+  {
+   "segmento": "cuota=>2.5 · ventaja=<0",
+   "n": 34,
+   "roi": -0.4726,
+   "se": 0.2236,
+   "roi_antigua": -0.4557,
+   "roi_nueva": -0.5,
+   "clv": 0.0277,
+   "clv_se": 0.0381,
+   "clv_n": 12
   },
   {
    "segmento": "mercado=ganador · ventaja=<0",
    "n": 154,
    "roi": -0.1068,
    "se": 0.0557,
-   "roi_antigua": -0.0841,
-   "roi_nueva": -0.1654,
+   "roi_antigua": -0.0718,
+   "roi_nueva": -0.2034,
    "clv": -0.0449,
    "clv_se": 0.0119,
    "clv_n": 34
@@ -67,8 +78,8 @@
    "n": 237,
    "roi": -0.0459,
    "se": 0.0569,
-   "roi_antigua": 0.015,
-   "roi_nueva": -0.2382,
+   "roi_antigua": 0.0216,
+   "roi_nueva": -0.2692,
    "clv": -0.0424,
    "clv_se": 0.0107,
    "clv_n": 40
