@@ -1386,9 +1386,6 @@
   "wta|2026-11-08|Marta Kostyuk|Linda Noskova",
   "wta|2026-11-10|Marta Kostyuk|Jessica Pegula",
   "wta|2026-11-10|Marta Kostyuk|Coco Gauff",
-  "fc|2361105",
-  "fc|2359855",
-  "fc|2359857",
   "fc|2359853",
   "fc|2359860",
   "fc|2360810",
@@ -2388,7 +2385,11 @@
   "fc|2367935",
   "fc|2367279",
   "fc|2367932",
-  "fc|2368071"
+  "fc|2368071",
+  "cs2|133753",
+  "fc|2367938",
+  "fc|2368140",
+  "fc|2368142"
  ],
  "signals": [
   {
@@ -5238,7 +5239,11 @@
    "version": "5d2adff",
    "bajas": "Missouri Tigers: sin bajas; Texas Longhorns: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "20-34",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "sph",
@@ -5259,7 +5264,11 @@
    "version": "5d2adff",
    "bajas": "Missouri Tigers: sin bajas; Texas Longhorns: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "20-34",
+   "close_p": 0.5,
+   "logged": true
   },
   {
    "market": "home",
@@ -5279,7 +5288,11 @@
    "version": "5d2adff",
    "bajas": "Missouri Tigers: sin bajas; Texas Longhorns: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "20-34",
+   "close_p": 0.448,
+   "logged": true
   },
   {
    "market": "over",
@@ -5301,7 +5314,11 @@
    "version": "5d2adff",
    "bajas": "Minnesota Golden Gophers: sin bajas; UCLA Bruins: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "20-34",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "sph",
@@ -5322,7 +5339,11 @@
    "version": "5d2adff",
    "bajas": "Minnesota Golden Gophers: sin bajas; UCLA Bruins: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "20-34",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "home",
@@ -5342,7 +5363,11 @@
    "version": "5d2adff",
    "bajas": "Minnesota Golden Gophers: sin bajas; UCLA Bruins: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "20-34",
+   "close_p": 0.3886,
+   "logged": true
   },
   {
    "market": "over",
@@ -5364,7 +5389,11 @@
    "version": "5d2adff",
    "bajas": "Baylor Bears: sin bajas; Iowa State Cyclones: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "42-31",
+   "close_p": 0.5179,
+   "logged": true
   },
   {
    "market": "sph",
@@ -5385,7 +5414,11 @@
    "version": "5d2adff",
    "bajas": "Baylor Bears: sin bajas; Iowa State Cyclones: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "42-31",
+   "close_p": 0.4908,
+   "logged": true
   },
   {
    "market": "home",
@@ -5405,7 +5438,11 @@
    "version": "5d2adff",
    "bajas": "Baylor Bears: sin bajas; Iowa State Cyclones: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "42-31",
+   "close_p": 0.7616,
+   "logged": true
   },
   {
    "market": "over",
@@ -5790,7 +5827,11 @@
    "version": "5d2adff",
    "bajas": "Purdue Boilermakers: sin bajas; Maryland Terrapins: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "29-34",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "sph",
@@ -5811,7 +5852,11 @@
    "version": "5d2adff",
    "bajas": "Purdue Boilermakers: sin bajas; Maryland Terrapins: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "29-34",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "home",
@@ -5831,7 +5876,11 @@
    "version": "5d2adff",
    "bajas": "Purdue Boilermakers: sin bajas; Maryland Terrapins: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "29-34",
+   "close_p": 0.6483,
+   "logged": true
   },
   {
    "market": "over",
@@ -6836,15 +6885,6 @@
    "pick": "Más de 48.5 puntos",
    "league": "🏈 NCAA Football",
    "sport": "🏈",
-   "info": [
-    "📊 <b>Escenarios</b>: total esperado <b>52.8</b> puntos · línea 48.5",
-    "Más 49% · Menos 51%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Kansas Jayhawks ✅❌❌✅❌ | UCF Knights ✅❌❌✅❌",
-    "• H2H: 2 desde 2023: 2-0",
-    "• Bajas: Kansas Jayhawks: sin bajas; UCF Knights: sin bajas"
-   ],
    "context": "Kansas Jayhawks vs UCF Knights (🏈 NCAA Football). Modelo de puntos (ataque/defensa con 10 años, decaimiento 1 año): total esperado 52.8 frente a línea 48.5. Forma Kansas Jayhawks ✅❌❌✅❌, UCF Knights ✅❌❌✅❌. H2H 2 desde 2023: 2-0. Bajas: Kansas Jayhawks: sin bajas; UCF Knights: sin bajas.",
    "captured": "2026-11-05T00:12",
    "version": "5d2adff",
@@ -6866,14 +6906,6 @@
    "pick": "Kansas Jayhawks -3",
    "league": "🏈 NCAA Football",
    "sport": "🏈",
-   "info": [
-    "📊 <b>Escenarios</b>: Kansas Jayhawks cubre -3 con prob. 50% (casas 50%)",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Kansas Jayhawks ✅❌❌✅❌ | UCF Knights ✅❌❌✅❌",
-    "• H2H: 2 desde 2023: 2-0",
-    "• Bajas: Kansas Jayhawks: sin bajas; UCF Knights: sin bajas"
-   ],
    "context": "Kansas Jayhawks vs UCF Knights (🏈 NCAA Football). Hándicap Kansas Jayhawks -3: margen esperado desde el Elo (gana Kansas Jayhawks 56%). Forma Kansas Jayhawks ✅❌❌✅❌, UCF Knights ✅❌❌✅❌. H2H 2 desde 2023: 2-0. Bajas: Kansas Jayhawks: sin bajas; UCF Knights: sin bajas.",
    "captured": "2026-11-05T00:12",
    "version": "5d2adff",
@@ -6894,18 +6926,6 @@
    "start": "2026-11-07T20:45Z",
    "league": "🏈 NCAA Football",
    "sport": "🏈",
-   "info": [
-    "📊 <b>Escenarios</b> (Elo con 9.457 partidos y bajas)",
-    "Gana Kansas Jayhawks 56% · Gana UCF Knights 44%",
-    "Casas: Kansas Jayhawks 57% · UCF Knights 43%",
-    "Hándicap KU -3 · Total puntos 48.5",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Kansas Jayhawks ✅❌❌✅❌ | UCF Knights ✅❌❌✅❌",
-    "• H2H: 2 desde 2023: 2-0",
-    "• Bajas: Kansas Jayhawks: sin bajas; UCF Knights: sin bajas",
-    "• Favorito de las casas: Kansas Jayhawks @ 1.68"
-   ],
    "context": "Kansas Jayhawks vs UCF Knights (🏈 NCAA Football, fútbol americano). Modelo Elo con 10 años de historial ajustado por bajas: Kansas Jayhawks 56%, UCF Knights 44%. Cuotas DraftKings 1.676/2.24, hándicap KU -3, total 48.5. Forma Kansas Jayhawks ✅❌❌✅❌, UCF Knights ✅❌❌✅❌. H2H 2 desde 2023: 2-0. Bajas Kansas Jayhawks: ninguna. Bajas UCF Knights: ninguna.",
    "captured": "2026-11-05T00:12",
    "version": "5d2adff",
@@ -6928,15 +6948,6 @@
    "pick": "Más de 64.5 puntos",
    "league": "🏈 NCAA Football",
    "sport": "🏈",
-   "info": [
-    "📊 <b>Escenarios</b>: total esperado <b>63.9</b> puntos · línea 64.5",
-    "Más 50% · Menos 50%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: North Texas Mean Green ✅✅✅✅✅ | Rice Owls ❌❌❌❌❌",
-    "• H2H: 7 desde 2017: 6-1",
-    "• Bajas: North Texas Mean Green: sin bajas; Rice Owls: 0 fuera, 1 duda"
-   ],
    "context": "North Texas Mean Green vs Rice Owls (🏈 NCAA Football). Modelo de puntos (ataque/defensa con 10 años, decaimiento 1 año): total esperado 63.9 frente a línea 64.5. Forma North Texas Mean Green ✅✅✅✅✅, Rice Owls ❌❌❌❌❌. H2H 7 desde 2017: 6-1. Bajas: North Texas Mean Green: sin bajas; Rice Owls: 0 fuera, 1 duda.",
    "captured": "2026-11-05T00:12",
    "version": "5d2adff",
@@ -6958,14 +6969,6 @@
    "pick": "North Texas Mean Green -17.5",
    "league": "🏈 NCAA Football",
    "sport": "🏈",
-   "info": [
-    "📊 <b>Escenarios</b>: North Texas Mean Green cubre -17.5 con prob. 48% (casas 48%)",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: North Texas Mean Green ✅✅✅✅✅ | Rice Owls ❌❌❌❌❌",
-    "• H2H: 7 desde 2017: 6-1",
-    "• Bajas: North Texas Mean Green: sin bajas; Rice Owls: 0 fuera, 1 duda"
-   ],
    "context": "North Texas Mean Green vs Rice Owls (🏈 NCAA Football). Hándicap North Texas Mean Green -17.5: margen esperado desde el Elo (gana North Texas Mean Green 95%). Forma North Texas Mean Green ✅✅✅✅✅, Rice Owls ❌❌❌❌❌. H2H 7 desde 2017: 6-1. Bajas: North Texas Mean Green: sin bajas; Rice Owls: 0 fuera, 1 duda.",
    "captured": "2026-11-05T00:12",
    "version": "5d2adff",
@@ -6986,18 +6989,6 @@
    "start": "2026-11-07T21:00Z",
    "league": "🏈 NCAA Football",
    "sport": "🏈",
-   "info": [
-    "📊 <b>Escenarios</b> (Elo con 9.457 partidos y bajas)",
-    "Gana North Texas Mean Green 95% · Gana Rice Owls 5%",
-    "Casas: North Texas Mean Green 86% · Rice Owls 14%",
-    "Hándicap UNT -17.5 · Total puntos 64.5",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: North Texas Mean Green ✅✅✅✅✅ | Rice Owls ❌❌❌❌❌",
-    "• H2H: 7 desde 2017: 6-1",
-    "• Bajas: North Texas Mean Green: sin bajas; Rice Owls: 0 fuera, 1 duda",
-    "• Favorito de las casas: North Texas Mean Green @ 1.11"
-   ],
    "context": "North Texas Mean Green vs Rice Owls (🏈 NCAA Football, fútbol americano). Modelo Elo con 10 años de historial ajustado por bajas: North Texas Mean Green 95%, Rice Owls 5%. Cuotas DraftKings 1.111/7.0, hándicap UNT -17.5, total 64.5. Forma North Texas Mean Green ✅✅✅✅✅, Rice Owls ❌❌❌❌❌. H2H 7 desde 2017: 6-1. Bajas North Texas Mean Green: ninguna. Bajas Rice Owls: Braylen Walker duda.",
    "captured": "2026-11-05T00:12",
    "version": "5d2adff",
@@ -7020,15 +7011,6 @@
    "pick": "Más de 51.5 puntos",
    "league": "🏈 NCAA Football",
    "sport": "🏈",
-   "info": [
-    "📊 <b>Escenarios</b>: total esperado <b>48.1</b> puntos · línea 51.5",
-    "Más 52% · Menos 48%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: San José State Spartans ✅❌✅❌❌ | Northern Illinois Huskies ❌❌❌❌❌",
-    "• H2H: sin precedentes",
-    "• Bajas: San José State Spartans: sin bajas; Northern Illinois Huskies: sin bajas"
-   ],
    "context": "San José State Spartans vs Northern Illinois Huskies (🏈 NCAA Football). Modelo de puntos (ataque/defensa con 10 años, decaimiento 1 año): total esperado 48.1 frente a línea 51.5. Forma San José State Spartans ✅❌✅❌❌, Northern Illinois Huskies ❌❌❌❌❌. H2H sin precedentes. Bajas: San José State Spartans: sin bajas; Northern Illinois Huskies: sin bajas.",
    "captured": "2026-11-05T00:12",
    "version": "5d2adff",
@@ -7050,14 +7032,6 @@
    "pick": "San José State Spartans -10",
    "league": "🏈 NCAA Football",
    "sport": "🏈",
-   "info": [
-    "📊 <b>Escenarios</b>: San José State Spartans cubre -10 con prob. 50% (casas 50%)",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: San José State Spartans ✅❌✅❌❌ | Northern Illinois Huskies ❌❌❌❌❌",
-    "• H2H: sin precedentes",
-    "• Bajas: San José State Spartans: sin bajas; Northern Illinois Huskies: sin bajas"
-   ],
    "context": "San José State Spartans vs Northern Illinois Huskies (🏈 NCAA Football). Hándicap San José State Spartans -10: margen esperado desde el Elo (gana San José State Spartans 78%). Forma San José State Spartans ✅❌✅❌❌, Northern Illinois Huskies ❌❌❌❌❌. H2H sin precedentes. Bajas: San José State Spartans: sin bajas; Northern Illinois Huskies: sin bajas.",
    "captured": "2026-11-05T00:12",
    "version": "5d2adff",
@@ -7078,18 +7052,6 @@
    "start": "2026-11-07T21:00Z",
    "league": "🏈 NCAA Football",
    "sport": "🏈",
-   "info": [
-    "📊 <b>Escenarios</b> (Elo con 9.457 partidos y bajas)",
-    "Gana San José State Spartans 78% · Gana Northern Illinois Huskies 22%",
-    "Casas: San José State Spartans 77% · Northern Illinois Huskies 23%",
-    "Hándicap SJSU -10 · Total puntos 51.5",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: San José State Spartans ✅❌✅❌❌ | Northern Illinois Huskies ❌❌❌❌❌",
-    "• H2H: sin precedentes",
-    "• Bajas: San José State Spartans: sin bajas; Northern Illinois Huskies: sin bajas",
-    "• Favorito de las casas: San José State Spartans @ 1.25"
-   ],
    "context": "San José State Spartans vs Northern Illinois Huskies (🏈 NCAA Football, fútbol americano). Modelo Elo con 10 años de historial ajustado por bajas: San José State Spartans 78%, Northern Illinois Huskies 22%. Cuotas DraftKings 1.253/4.1, hándicap SJSU -10, total 51.5. Forma San José State Spartans ✅❌✅❌❌, Northern Illinois Huskies ❌❌❌❌❌. H2H sin precedentes. Bajas San José State Spartans: ninguna. Bajas Northern Illinois Huskies: ninguna.",
    "captured": "2026-11-05T00:12",
    "version": "5d2adff",
@@ -7112,15 +7074,6 @@
    "pick": "Más de 49.5 puntos",
    "league": "🏈 NCAA Football",
    "sport": "🏈",
-   "info": [
-    "📊 <b>Escenarios</b>: total esperado <b>54.9</b> puntos · línea 49.5",
-    "Más 51% · Menos 49%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Florida International Panthers ✅✅❌❌❌ | Missouri State Bears ❌❌✅❌✅",
-    "• H2H: 1 desde 2025: 0-1",
-    "• Bajas: Florida International Panthers: sin bajas; Missouri State Bears: sin bajas"
-   ],
    "context": "Florida International Panthers vs Missouri State Bears (🏈 NCAA Football). Modelo de puntos (ataque/defensa con 10 años, decaimiento 1 año): total esperado 54.9 frente a línea 49.5. Forma Florida International Panthers ✅✅❌❌❌, Missouri State Bears ❌❌✅❌✅. H2H 1 desde 2025: 0-1. Bajas: Florida International Panthers: sin bajas; Missouri State Bears: sin bajas.",
    "captured": "2026-11-05T00:12",
    "version": "5d2adff",
@@ -7142,14 +7095,6 @@
    "pick": "Florida International Panthers -4.5",
    "league": "🏈 NCAA Football",
    "sport": "🏈",
-   "info": [
-    "📊 <b>Escenarios</b>: Florida International Panthers cubre -4.5 con prob. 50% (casas 50%)",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Florida International Panthers ✅✅❌❌❌ | Missouri State Bears ❌❌✅❌✅",
-    "• H2H: 1 desde 2025: 0-1",
-    "• Bajas: Florida International Panthers: sin bajas; Missouri State Bears: sin bajas"
-   ],
    "context": "Florida International Panthers vs Missouri State Bears (🏈 NCAA Football). Hándicap Florida International Panthers -4.5: margen esperado desde el Elo (gana Florida International Panthers 60%). Forma Florida International Panthers ✅✅❌❌❌, Missouri State Bears ❌❌✅❌✅. H2H 1 desde 2025: 0-1. Bajas: Florida International Panthers: sin bajas; Missouri State Bears: sin bajas.",
    "captured": "2026-11-05T00:12",
    "version": "5d2adff",
@@ -7170,18 +7115,6 @@
    "start": "2026-11-07T21:00Z",
    "league": "🏈 NCAA Football",
    "sport": "🏈",
-   "info": [
-    "📊 <b>Escenarios</b> (Elo con 9.457 partidos y bajas)",
-    "Gana Florida International Panthers 60% · Gana Missouri State Bears 40%",
-    "Casas: Florida International Panthers 64% · Missouri State Bears 36%",
-    "Hándicap FIU -4.5 · Total puntos 49.5",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Florida International Panthers ✅✅❌❌❌ | Missouri State Bears ❌❌✅❌✅",
-    "• H2H: 1 desde 2025: 0-1",
-    "• Bajas: Florida International Panthers: sin bajas; Missouri State Bears: sin bajas",
-    "• Favorito de las casas: Florida International Panthers @ 1.49"
-   ],
    "context": "Florida International Panthers vs Missouri State Bears (🏈 NCAA Football, fútbol americano). Modelo Elo con 10 años de historial ajustado por bajas: Florida International Panthers 60%, Missouri State Bears 40%. Cuotas DraftKings 1.488/2.7, hándicap FIU -4.5, total 49.5. Forma Florida International Panthers ✅✅❌❌❌, Missouri State Bears ❌❌✅❌✅. H2H 1 desde 2025: 0-1. Bajas Florida International Panthers: ninguna. Bajas Missouri State Bears: ninguna.",
    "captured": "2026-11-05T00:12",
    "version": "5d2adff",
@@ -7204,15 +7137,6 @@
    "pick": "Más de 47.5 puntos",
    "league": "🏈 NCAA Football",
    "sport": "🏈",
-   "info": [
-    "📊 <b>Escenarios</b>: total esperado <b>47.6</b> puntos · línea 47.5",
-    "Más 50% · Menos 50%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Troy Trojans ❌✅❌❌✅ | Louisiana Tech Bulldogs ✅✅✅✅✅",
-    "• H2H: sin precedentes",
-    "• Bajas: Troy Trojans: sin bajas; Louisiana Tech Bulldogs: sin bajas"
-   ],
    "context": "Troy Trojans vs Louisiana Tech Bulldogs (🏈 NCAA Football). Modelo de puntos (ataque/defensa con 10 años, decaimiento 1 año): total esperado 47.6 frente a línea 47.5. Forma Troy Trojans ❌✅❌❌✅, Louisiana Tech Bulldogs ✅✅✅✅✅. H2H sin precedentes. Bajas: Troy Trojans: sin bajas; Louisiana Tech Bulldogs: sin bajas.",
    "captured": "2026-11-05T00:12",
    "version": "5d2adff",
@@ -7234,14 +7158,6 @@
    "pick": "Troy Trojans +4.5",
    "league": "🏈 NCAA Football",
    "sport": "🏈",
-   "info": [
-    "📊 <b>Escenarios</b>: Troy Trojans cubre +4.5 con prob. 50% (casas 50%)",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Troy Trojans ❌✅❌❌✅ | Louisiana Tech Bulldogs ✅✅✅✅✅",
-    "• H2H: sin precedentes",
-    "• Bajas: Troy Trojans: sin bajas; Louisiana Tech Bulldogs: sin bajas"
-   ],
    "context": "Troy Trojans vs Louisiana Tech Bulldogs (🏈 NCAA Football). Hándicap Troy Trojans +4.5: margen esperado desde el Elo (gana Troy Trojans 36%). Forma Troy Trojans ❌✅❌❌✅, Louisiana Tech Bulldogs ✅✅✅✅✅. H2H sin precedentes. Bajas: Troy Trojans: sin bajas; Louisiana Tech Bulldogs: sin bajas.",
    "captured": "2026-11-05T00:12",
    "version": "5d2adff",
@@ -7262,18 +7178,6 @@
    "start": "2026-11-07T21:00Z",
    "league": "🏈 NCAA Football",
    "sport": "🏈",
-   "info": [
-    "📊 <b>Escenarios</b> (Elo con 9.457 partidos y bajas)",
-    "Gana Troy Trojans 36% · Gana Louisiana Tech Bulldogs 64%",
-    "Casas: Troy Trojans 36% · Louisiana Tech Bulldogs 64%",
-    "Hándicap LT -4.5 · Total puntos 47.5",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Troy Trojans ❌✅❌❌✅ | Louisiana Tech Bulldogs ✅✅✅✅✅",
-    "• H2H: sin precedentes",
-    "• Bajas: Troy Trojans: sin bajas; Louisiana Tech Bulldogs: sin bajas",
-    "• Favorito de las casas: Louisiana Tech Bulldogs @ 1.50"
-   ],
    "context": "Troy Trojans vs Louisiana Tech Bulldogs (🏈 NCAA Football, fútbol americano). Modelo Elo con 10 años de historial ajustado por bajas: Troy Trojans 36%, Louisiana Tech Bulldogs 64%. Cuotas DraftKings 2.64/1.505, hándicap LT -4.5, total 47.5. Forma Troy Trojans ❌✅❌❌✅, Louisiana Tech Bulldogs ✅✅✅✅✅. H2H sin precedentes. Bajas Troy Trojans: ninguna. Bajas Louisiana Tech Bulldogs: ninguna.",
    "captured": "2026-11-05T00:12",
    "version": "5d2adff",
@@ -16172,19 +16076,6 @@
    "start": "2026-11-07T21:00:00+00:00",
    "league": "🇺🇸 MLS",
    "sport": "⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (goles esperados 1.03 - 1.55)",
-    "1 22% · X 26% · 2 51%",
-    "1X 49% · X2 78% · 12 74%",
-    "+1.5 73% · +2.5 48% · +3.5 26% · Ambos marcan 51%",
-    "Marcadores: 1-1 13% · 0-1 11% · 1-2 9% · 0-2 9%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: CF Montreal ❌➖❌❌➖ | Vancouver Whitecaps ➖✅❌✅✅",
-    "• H2H: 16 desde 2012: 6V-2E-8D · 3.0 goles/partido · +2.5 en 62%",
-    "• Bajas: CF Montreal: 1 fuera, 4 duda (Brayan Ceballos); Vancouver Whitecaps: 0 fuera, 5 duda",
-    "• Favorito de las casas: Vancouver Whitecaps @ 1.61"
-   ],
    "context": "CF Montreal vs Vancouver Whitecaps (🇺🇸 MLS). Modelo Poisson con historial desde 2005 y bajas: 1 22% X 26% 2 51%, +2.5 48%, ambos marcan 51%. Forma CF Montreal ❌➖❌❌➖, Vancouver Whitecaps ➖✅❌✅✅ (✅ victoria ➖ empate ❌ derrota). H2H 16 desde 2012: 6V-2E-8D · 3.0 goles/partido · +2.5 en 62%. Bajas CF Montreal: Brayan Ceballos D sancionado 16 PJ; Prince Osei Owusu F duda 26 PJ; Jalen Neal D duda 19 PJ; Brayan Ceballos D duda 16 PJ; Bode Hidalgo D duda 4 PJ. Bajas Vancouver Whitecaps: Rui Modesto F duda 3 PJ; Emmanuel Sabbi F duda 26 PJ; Andres Cubas M duda 25 PJ; Sam Adekugbe D duda 7 PJ; Belal Halbouni D duda 0 PJ.",
    "captured": "2026-11-06T10:09",
    "version": "bbe38c6",
@@ -16205,19 +16096,6 @@
    "start": "2026-11-07T21:00:00+00:00",
    "league": "🇺🇸 MLS",
    "sport": "⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (goles esperados 1.53 - 1.53)",
-    "1 42% · X 26% · 2 32%",
-    "1X 68% · X2 58% · 12 74%",
-    "+1.5 82% · +2.5 59% · +3.5 37% · Ambos marcan 62%",
-    "Marcadores: 1-1 12% · 2-1 8% · 1-2 8% · 1-0 7%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Chicago Fire ❌❌✅➖✅ | Columbus Crew ✅✅✅✅✅",
-    "• H2H: 36 desde 2012: 8V-11E-17D · 2.6 goles/partido · +2.5 en 56%",
-    "• Bajas: Chicago Fire: 0 fuera, 3 duda; Columbus Crew: 1 fuera, 3 duda (S. Tidiany Bangoura)",
-    "• Favorito de las casas: Chicago Fire @ 1.96"
-   ],
    "context": "Chicago Fire vs Columbus Crew (🇺🇸 MLS). Modelo Poisson con historial desde 2005 y bajas: 1 42% X 26% 2 32%, +2.5 59%, ambos marcan 62%. Forma Chicago Fire ❌❌✅➖✅, Columbus Crew ✅✅✅✅✅ (✅ victoria ➖ empate ❌ derrota). H2H 36 desde 2012: 8V-11E-17D · 2.6 goles/partido · +2.5 en 56%. Bajas Chicago Fire: Sam Rogers D duda 8 PJ; Robin Lod M duda 24 PJ; Claudio Cassano F duda 0 PJ. Bajas Columbus Crew: S. Tidiany Bangoura M sancionado 22 PJ; Brais Mendez M duda 13 PJ; Rudy Camacho D duda 19 PJ; Wessam Abou Ali F duda 7 PJ.",
    "captured": "2026-11-06T10:09",
    "version": "bbe38c6",
@@ -16238,19 +16116,6 @@
    "start": "2026-11-07T21:00:00+00:00",
    "league": "🇺🇸 MLS",
    "sport": "⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (goles esperados 0.96 - 1.51)",
-    "1 28% · X 27% · 2 45%",
-    "1X 55% · X2 72% · 12 73%",
-    "+1.5 71% · +2.5 45% · +3.5 24% · Ambos marcan 49%",
-    "Marcadores: 1-1 13% · 0-1 12% · 0-2 10% · 1-2 9%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: DC United ❌❌❌❌❌ | New York City ❌➖➖✅➖",
-    "• H2H: 25 desde 2015: 9V-5E-11D · 2.8 goles/partido · +2.5 en 56%",
-    "• Bajas: DC United: 0 fuera, 4 duda; New York City: sin bajas",
-    "• Favorito de las casas: New York City @ 2.20"
-   ],
    "context": "DC United vs New York City (🇺🇸 MLS). Modelo Poisson con historial desde 2005 y bajas: 1 28% X 27% 2 45%, +2.5 45%, ambos marcan 49%. Forma DC United ❌❌❌❌❌, New York City ❌➖➖✅➖ (✅ victoria ➖ empate ❌ derrota). H2H 25 desde 2015: 9V-5E-11D · 2.8 goles/partido · +2.5 en 56%. Bajas DC United: Tai Baribo F duda 25 PJ; Louis Munteanu F duda 21 PJ; Hosei Kijima M duda 12 PJ; Gabriel Segal F duda 0 PJ. Bajas New York City: ninguna.",
    "captured": "2026-11-06T10:09",
    "version": "bbe38c6",
@@ -16271,19 +16136,6 @@
    "start": "2026-11-07T21:00:00+00:00",
    "league": "🇺🇸 MLS",
    "sport": "⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (goles esperados 1.23 - 1.27)",
-    "1 32% · X 29% · 2 39%",
-    "1X 61% · X2 68% · 12 71%",
-    "+1.5 72% · +2.5 46% · +3.5 24% · Ambos marcan 52%",
-    "Marcadores: 1-1 13% · 0-1 10% · 1-0 9% · 0-0 9%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: FC Cincinnati ❌✅✅➖✅ | Nashville SC ✅➖✅➖✅",
-    "• H2H: 11 desde 2021: 4V-3E-4D · 3.5 goles/partido · +2.5 en 73%",
-    "• Bajas: FC Cincinnati: 1 fuera, 2 duda (Kevin Denkey); Nashville SC: 0 fuera, 1 duda",
-    "• Favorito de las casas: Nashville SC @ 2.45"
-   ],
    "context": "FC Cincinnati vs Nashville SC (🇺🇸 MLS). Modelo Poisson con historial desde 2005 y bajas: 1 32% X 29% 2 39%, +2.5 46%, ambos marcan 52%. Forma FC Cincinnati ❌✅✅➖✅, Nashville SC ✅➖✅➖✅ (✅ victoria ➖ empate ❌ derrota). H2H 11 desde 2021: 4V-3E-4D · 3.5 goles/partido · +2.5 en 73%. Bajas FC Cincinnati: Kevin Denkey F sancionado 31 PJ; Miles Robinson D duda 20 PJ; Tyrell Malacia D duda 4 PJ. Bajas Nashville SC: C. Applewhite D duda 0 PJ.",
    "captured": "2026-11-06T10:09",
    "version": "bbe38c6",
@@ -16304,19 +16156,6 @@
    "start": "2026-11-07T21:00:00+00:00",
    "league": "🇺🇸 MLS",
    "sport": "⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (goles esperados 2.50 - 1.49)",
-    "1 56% · X 22% · 2 22%",
-    "1X 78% · X2 44% · 12 78%",
-    "+1.5 91% · +2.5 76% · +3.5 56% · Ambos marcan 71%",
-    "Marcadores: 2-1 9% · 1-1 7% · 3-1 7% · 2-2 6%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Inter Miami ✅✅❌➖✅ | Charlotte ❌➖❌✅✅",
-    "• H2H: 9 desde 2022: 3V-3E-3D · 2.2 goles/partido · +2.5 en 44%",
-    "• Bajas: Inter Miami: 0 fuera, 2 duda; Charlotte: 0 fuera, 5 duda",
-    "• Favorito de las casas: Inter Miami @ 1.37"
-   ],
    "context": "Inter Miami vs Charlotte (🇺🇸 MLS). Modelo Poisson con historial desde 2005 y bajas: 1 56% X 22% 2 22%, +2.5 76%, ambos marcan 71%. Forma Inter Miami ✅✅❌➖✅, Charlotte ❌➖❌✅✅ (✅ victoria ➖ empate ❌ derrota). H2H 9 desde 2022: 3V-3E-3D · 2.2 goles/partido · +2.5 en 44%. Bajas Inter Miami: Mateo Silvetti F duda 14 PJ; Fricio Caicedo D duda 6 PJ. Bajas Charlotte: Tim Ream D duda 21 PJ; Archie Goodwin F duda 24 PJ; Will Cleary D duda 13 PJ; Nimfasha Berchimas F duda 0 PJ; Nikola Petkovic M duda 4 PJ.",
    "captured": "2026-11-06T10:09",
    "version": "bbe38c6",
@@ -16337,19 +16176,6 @@
    "start": "2026-11-07T21:00:00+00:00",
    "league": "🇺🇸 MLS",
    "sport": "⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (goles esperados 1.62 - 1.13)",
-    "1 47% · X 26% · 2 26%",
-    "1X 74% · X2 53% · 12 74%",
-    "+1.5 77% · +2.5 52% · +3.5 30% · Ambos marcan 55%",
-    "Marcadores: 1-1 12% · 1-0 10% · 2-1 9% · 2-0 8%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: New York Red Bulls ❌❌✅❌❌ | Atlanta Utd ✅❌❌❌✅",
-    "• H2H: 21 desde 2017: 11V-6E-4D · 2.1 goles/partido · +2.5 en 48%",
-    "• Bajas: New York Red Bulls: 0 fuera, 2 duda; Atlanta Utd: 0 fuera, 2 duda",
-    "• Favorito de las casas: New York Red Bulls @ 1.81"
-   ],
    "context": "New York Red Bulls vs Atlanta Utd (🇺🇸 MLS). Modelo Poisson con historial desde 2005 y bajas: 1 47% X 26% 2 26%, +2.5 52%, ambos marcan 55%. Forma New York Red Bulls ❌❌✅❌❌, Atlanta Utd ✅❌❌❌✅ (✅ victoria ➖ empate ❌ derrota). H2H 21 desde 2017: 11V-6E-4D · 2.1 goles/partido · +2.5 en 48%. Bajas New York Red Bulls: Justin Che D duda 20 PJ; Roald Mitchell F duda 3 PJ. Bajas Atlanta Utd: Will Reilly - duda 11 PJ; Enea Mihaj D duda 23 PJ.",
    "captured": "2026-11-06T10:09",
    "version": "bbe38c6",
@@ -16370,19 +16196,6 @@
    "start": "2026-11-07T21:00:00+00:00",
    "league": "🇺🇸 MLS",
    "sport": "⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (goles esperados 1.77 - 1.37)",
-    "1 44% · X 26% · 2 30%",
-    "1X 70% · X2 56% · 12 74%",
-    "+1.5 83% · +2.5 61% · +3.5 39% · Ambos marcan 63%",
-    "Marcadores: 1-1 11% · 2-1 9% · 1-2 7% · 1-0 7%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Orlando City ➖✅➖➖❌ | New England Revolution ✅✅✅✅❌",
-    "• H2H: 23 desde 2015: 6V-8E-9D · 4.2 goles/partido · +2.5 en 91%",
-    "• Bajas: Orlando City: 0 fuera, 3 duda; New England Revolution: sin bajas",
-    "• Favorito de las casas: Orlando City @ 1.91"
-   ],
    "context": "Orlando City vs New England Revolution (🇺🇸 MLS). Modelo Poisson con historial desde 2005 y bajas: 1 44% X 26% 2 30%, +2.5 61%, ambos marcan 63%. Forma Orlando City ➖✅➖➖❌, New England Revolution ✅✅✅✅❌ (✅ victoria ➖ empate ❌ derrota). H2H 23 desde 2015: 6V-8E-9D · 4.2 goles/partido · +2.5 en 91%. Bajas Orlando City: Tyrese Spicer F duda 22 PJ; Robin Jansson D duda 21 PJ; Griffin Dorsey F duda 21 PJ. Bajas New England Revolution: ninguna.",
    "captured": "2026-11-06T10:09",
    "version": "bbe38c6",
@@ -16403,19 +16216,6 @@
    "start": "2026-11-07T21:00:00+00:00",
    "league": "🇺🇸 MLS",
    "sport": "⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (goles esperados 1.92 - 0.78)",
-    "1 61% · X 23% · 2 16%",
-    "1X 84% · X2 39% · 12 77%",
-    "+1.5 76% · +2.5 51% · +3.5 29% · Ambos marcan 47%",
-    "Marcadores: 1-0 12% · 2-0 12% · 1-1 11% · 2-1 10%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Philadelphia Union ✅➖❌➖❌ | Toronto FC ➖✅❌✅❌",
-    "• H2H: 33 desde 2012: 10V-9E-14D · 2.9 goles/partido · +2.5 en 64%",
-    "• Bajas: Philadelphia Union: 0 fuera, 1 duda; Toronto FC: 0 fuera, 3 duda",
-    "• Favorito de las casas: Philadelphia Union @ 1.42"
-   ],
    "context": "Philadelphia Union vs Toronto FC (🇺🇸 MLS). Modelo Poisson con historial desde 2005 y bajas: 1 61% X 23% 2 16%, +2.5 51%, ambos marcan 47%. Forma Philadelphia Union ✅➖❌➖❌, Toronto FC ➖✅❌✅❌ (✅ victoria ➖ empate ❌ derrota). H2H 33 desde 2012: 10V-9E-14D · 2.9 goles/partido · +2.5 en 64%. Bajas Philadelphia Union: Milan Iloski F duda 31 PJ. Bajas Toronto FC: Walker Zimmerman D duda 22 PJ; Kobe Franklin D duda 20 PJ; Henry Wingo D duda 1 PJ.",
    "captured": "2026-11-06T10:09",
    "version": "bbe38c6",
@@ -35753,10 +35553,6 @@
    "league": "💎 Valor vs Pinnacle · USA - Major League Soccer",
    "sport": "⚽💎⚽",
    "sin_stake": true,
-   "info": [
-    "💎 <b>Valor contra Pinnacle (goles)</b>: Smarkets paga 2.12 y el justo de Pinnacle es 1.98 (+6.8%)",
-    "Candidata sin dinero hasta demostrar su CLV."
-   ],
    "context": "D.C. United vs New York City: menos de 2.5 goles, valor contra Pinnacle.",
    "captured": "2026-11-07T08:30",
    "version": "01afbd3",
@@ -51929,19 +51725,6 @@
    "start": "2026-11-07T20:55:00+00:00",
    "league": "🎮⚽ FC 27 · World Cup A",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 59.848 partidos)",
-    "Goles esperados: tizzy 4.98 · ssstasonn 1.90",
-    "Ganador: tizzy 86% · empate 8% · ssstasonn 5%",
-    "Total: más de 6.5 goles 53% · menos 47%",
-    "Hándicap tizzy: −1.5 72% · −2.5 58%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: tizzy ✅➖✅➖✅ | ssstasonn ❌❌❌❌❌",
-    "• Partidos: tizzy 353 | ssstasonn 934",
-    "• Liga: World Cup A",
-    "• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta)."
-   ],
    "context": "EA FC Esoccer Battle tizzy vs ssstasonn (World Cup A): goles esperados 4.98-1.90, 1X2 86%/8%/5%. Sin cuotas de casa.",
    "captured": "2026-11-07T20:32",
    "version": "b97085e",
@@ -52786,7 +52569,11 @@
    "captured": "2026-11-07T20:44",
    "version": "b97085e",
    "bajas": "",
-   "considered": true
+   "considered": true,
+   "score": "0-3",
+   "result": true,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "D",
@@ -52806,7 +52593,11 @@
    "captured": "2026-11-07T20:44",
    "version": "b97085e",
    "bajas": "",
-   "considered": true
+   "considered": true,
+   "score": "3-1",
+   "result": false,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "H",
@@ -52822,20 +52613,6 @@
    "start": "2026-11-07T20:58:00+00:00",
    "league": "🎮⚽ FC 27 · Premier League",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 59.858 partidos)",
-    "Goles esperados: Glumac 4.56 · Maki 4.66",
-    "Ganador: Glumac 43% · empate 16% · Maki 41%",
-    "Total: más de 9.5 goles 44% · menos 56%",
-    "Hándicap Maki: −1.5 32% · −2.5 21%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Glumac ✅❌➖✅❌ | Maki ❌✅❌✅❌",
-    "• Partidos: Glumac 765 | Maki 929",
-    "• Liga: Premier League",
-    "• Unibet: 1 2.70 · X 4.60 · 2 1.80 (sin margen 32%/19%/49%) · ventaja +16%. Sin stake hasta demostrar ROI con estas cuotas.",
-    "• En España: LeoVegas España 2.70 (+16%) · Paf España 2.70 (+16%)"
-   ],
    "context": "EA FC Esoccer Battle Glumac vs Maki (Premier League): goles esperados 4.56-4.66, 1X2 43%/16%/41%. Sin cuotas de casa.",
    "captured": "2026-11-07T20:44",
    "version": "b97085e",
@@ -52843,6 +52620,111 @@
    "considered": true,
    "placed": false,
    "anunciada": true
+  },
+  {
+   "market": "A",
+   "pick": "tizzy",
+   "odds": 3.45,
+   "book": "Unibet",
+   "implied": 0.251,
+   "edge": 0.356,
+   "sin_stake": true,
+   "p": 0.393,
+   "key": "fc|2367938",
+   "match": "believer vs tizzy",
+   "start": "2026-11-07T21:19:00+00:00",
+   "league": "🎮⚽ FC 27 · World Cup A",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 59.878 partidos)",
+    "Goles esperados: believer 2.84 · tizzy 2.82",
+    "Ganador: believer 39% · empate 22% · tizzy 39%",
+    "Total: más de 5.5 goles 50% · menos 50%",
+    "Hándicap believer: −1.5 26% · −2.5 14%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: believer ❌❌✅✅✅ | tizzy ✅➖✅➖✅",
+    "• Partidos: believer 947 | tizzy 353",
+    "• Liga: World Cup A",
+    "• Unibet: 1 1.42 · X 6.25 · 2 3.45 (sin margen 61%/14%/25%) · ventaja +36%. Sin stake hasta demostrar ROI con estas cuotas.",
+    "• En España: LeoVegas España 3.45 (+36%) · Paf España 3.45 (+36%)"
+   ],
+   "context": "EA FC Esoccer Battle believer vs tizzy (World Cup A): goles esperados 2.84-2.82, 1X2 39%/22%/39%. Sin cuotas de casa.",
+   "captured": "2026-11-07T21:02",
+   "version": "8b1c6da",
+   "bajas": "",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "A",
+   "pick": "vivienne",
+   "odds": 3.1,
+   "book": "Unibet",
+   "implied": 0.285,
+   "edge": 0.099,
+   "sin_stake": true,
+   "p": 0.354,
+   "key": "fc|2368140",
+   "match": "Lx7ss vs vivienne",
+   "start": "2026-11-07T21:16:00+00:00",
+   "league": "🎮⚽ FC 27 · LaLiga",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 59.878 partidos)",
+    "Goles esperados: Lx7ss 3.61 · vivienne 3.23",
+    "Ganador: Lx7ss 47% · empate 18% · vivienne 35%",
+    "Total: más de 6.5 goles 53% · menos 47%",
+    "Hándicap Lx7ss: −1.5 33% · −2.5 20%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Lx7ss ➖✅✅❌❌ | vivienne ❌❌❌❌➖",
+    "• Partidos: Lx7ss 993 | vivienne 782",
+    "• Liga: LaLiga",
+    "• Unibet: 1 1.57 · X 5.75 · 2 3.10 (sin margen 56%/15%/28%) · ventaja +10%. Sin stake hasta demostrar ROI con estas cuotas.",
+    "• En España: LeoVegas España 3.10 (+10%) · Paf España 3.10 (+10%)"
+   ],
+   "context": "EA FC Esoccer Battle Lx7ss vs vivienne (LaLiga): goles esperados 3.61-3.23, 1X2 47%/18%/35%. Sin cuotas de casa.",
+   "captured": "2026-11-07T21:02",
+   "version": "8b1c6da",
+   "bajas": "",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "H",
+   "pick": "Paka",
+   "odds": 2.38,
+   "book": "Unibet",
+   "implied": 0.368,
+   "edge": 0.095,
+   "sin_stake": true,
+   "p": 0.46,
+   "key": "fc|2368142",
+   "match": "Paka vs Dov1n",
+   "start": "2026-11-07T21:28:00+00:00",
+   "league": "🎮⚽ FC 27 · LaLiga",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 59.878 partidos)",
+    "Goles esperados: Paka 3.16 · Dov1n 3.01",
+    "Ganador: Paka 46% · empate 19% · Dov1n 35%",
+    "Total: más de 6.5 goles 42% · menos 58%",
+    "Hándicap Paka: −1.5 29% · −2.5 17%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Paka ➖✅✅➖✅ | Dov1n ✅✅✅➖➖",
+    "• Partidos: Paka 816 | Dov1n 985",
+    "• Liga: LaLiga",
+    "• Unibet: 1 2.38 · X 4.40 · 2 2.02 (sin margen 37%/20%/43%) · ventaja +10%. Sin stake hasta demostrar ROI con estas cuotas.",
+    "• En España: LeoVegas España 2.38 (+10%) · Paf España 2.38 (+10%)"
+   ],
+   "context": "EA FC Esoccer Battle Paka vs Dov1n (LaLiga): goles esperados 3.16-3.01, 1X2 46%/19%/35%. Sin cuotas de casa.",
+   "captured": "2026-11-07T21:02",
+   "version": "8b1c6da",
+   "bajas": "",
+   "considered": true,
+   "placed": false
   }
  ],
  "bank": {

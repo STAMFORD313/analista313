@@ -59867,3 +59867,43 @@ id,tournament_id,club1,club2,ht1,ht2
 2367930,261270,Roma,Napoli,,
 2367931,261270,Bologna,Roma,,
 2367932,261270,Sassuolo,Juventus,,
+2367863,261244,Juventus,Sporting CP,2,3
+2367864,261244,B Dortmund,Man City,2,3
+2367865,261244,Man City,Juventus,1,2
+2367866,261244,Sporting CP,Arsenal,4,1
+2367867,261244,Arsenal,Man City,0,0
+2367868,261244,Juventus,B Dortmund,0,0
+2367869,261244,B Dortmund,Arsenal,,
+2367870,261244,Man City,Sporting CP,,
+2367871,261244,Sporting CP,B Dortmund,,
+2367872,261244,Arsenal,Juventus,,
+2366954,261248,Atleti,Paris,0,3
+2366955,261248,Real Madrid,Liverpool,2,0
+2366956,261248,Liverpool,Atleti,1,1
+2366957,261248,Paris,Bayern Munchen,1,1
+2366958,261248,Bayern Munchen,Liverpool,1,0
+2366959,261248,Atleti,Real Madrid,0,0
+2366960,261248,Real Madrid,Bayern Munchen,,
+2366961,261248,Liverpool,Paris,,
+2366962,261248,Paris,Real Madrid,,
+2366963,261248,Bayern Munchen,Atleti,,
+2366964,261248,Paris,Atleti,,
+2366965,261248,Liverpool,Real Madrid,,
+2366966,261248,Atleti,Liverpool,,
+2366967,261248,Bayern Munchen,Paris,,
+2366968,261248,Liverpool,Bayern Munchen,,
+2366969,261248,Real Madrid,Atleti,,
+2366970,261248,Bayern Munchen,Real Madrid,,
+2366971,261248,Paris,Liverpool,,
+2366972,261248,Real Madrid,Paris,,
+2366973,261248,Atleti,Bayern Munchen,,
+2367274,261275,Ecuador,Argentina,1,0
+2367275,261275,Colombia,Brazil,2,0
+2367276,261275,Brazil,Ecuador,2,2
+2367277,261275,Argentina,Uruguay,2,2
+2367278,261275,Uruguay,Brazil,2,0
+2367279,261275,Ecuador,Colombia,0,2
+2367280,261275,Colombia,Uruguay,1,0
+2367281,261275,Brazil,Argentina,0,0
+2367282,261275,Argentina,Colombia,,
+2367283,261275,Uruguay,Ecuador,,
