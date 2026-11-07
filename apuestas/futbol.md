@@ -1,199 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 07/11/2026 19:04 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Ried vs LASK — 07/11 · 19:30
-
-👀 candidata · 🇦🇹 Bundesliga · **Gana LASK** @ **1.46** (Bet365) · prob 65% vs casas 65% · ventaja -5%
-
-- ❌ Valor: ventaja -5% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.26 - 1.63)  
-1 27% · X 27% · 2 46%  
-1X 54% · X2 73% · 12 73%  
-+1.5 79% · +2.5 55% · +3.5 33% · Ambos marcan 58%  
-Marcadores: 1-1 12% · 1-2 9% · 0-1 8% · 0-2 7%  
-🔎 **Claves**  
-• Forma: Ried ✅✅✅➖➖ | LASK ➖❌✅❌✅  
-• H2H: 11 desde 2020: 3V-4E-4D · 2.5 goles/partido · +2.5 en 36%  
-• Bajas: Ried: sin bajas; LASK: sin bajas  
-• Favorito de las casas: LASK @ 1.46  
-
-## Benevento vs Avellino — 07/11 · 19:30
-
-👀 candidata · 🇮🇹 Serie B · **Más de 2.5 goles** @ **1.95** (Bet365) · prob 50% vs casas 50% · ventaja -3%
-
-- ❌ Valor: ventaja -3% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ goles» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.58 - 0.97)  
-1 46% · X 29% · 2 25%  
-1X 75% · X2 54% · 12 71%  
-+1.5 73% · +2.5 47% · +3.5 25% · Ambos marcan 50%  
-Marcadores: 1-1 13% · 1-0 12% · 2-0 10% · 2-1 9%  
-🔎 **Claves**  
-• Forma: Benevento ✅➖✅➖❌ | Avellino ✅➖❌➖✅  
-• H2H: 2 desde 2016: 1V-1E-0D · 2.5 goles/partido · +2.5 en 50%  
-• Bajas: Benevento: sin bajas; Avellino: sin bajas  
-• Favorito de las casas: Benevento @ 1.88  
-📐 **Estadísticas esperadas**  
-Córners 6.0 - 3.7: total +9.5 49% · Benevento +5.5 51% · Avellino +4.5 31%  
-Tarjetas 2.2 - 2.6: total +4.5 52% · Benevento +2.5 39% · Avellino +2.5 49%  
-Faltas 15.7 - 12.5: total +27.5 53% · Benevento +14.5 59% · Avellino +13.5 38%  
-Tiros a puerta 5.4 - 2.9: total +8.5 44% · Benevento +5.5 44% · Avellino +3.5 32%  
-🧩 Crear apuesta: Menos de 4.5 córners de Avellino + Menos de 3.5 tiros a puerta de Avellino + Menos de 13.5 faltas de Avellino → prob. 30%, cuota justa 3.35 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 córners de Avellino + Menos de 3.5 tiros a puerta de Avellino + Menos de 13.5 faltas de Avellino + Menos de 2.5 tarjetas de Benevento → prob. 19%, cuota justa 5.19  
-
-## Benevento vs Avellino — 07/11 · 19:30
-
-👀 candidata · 🇮🇹 Serie B · **Más de 3.5 córners de Avellino** @ **1.76** (Unibet) · prob 49% vs casas 51% · ventaja -13%
-
-- ❌ Valor: ventaja -13% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.58 - 0.97)  
-1 46% · X 29% · 2 25%  
-1X 75% · X2 54% · 12 71%  
-+1.5 73% · +2.5 47% · +3.5 25% · Ambos marcan 50%  
-Marcadores: 1-1 13% · 1-0 12% · 2-0 10% · 2-1 9%  
-🔎 **Claves**  
-• Forma: Benevento ✅➖✅➖❌ | Avellino ✅➖❌➖✅  
-• H2H: 2 desde 2016: 1V-1E-0D · 2.5 goles/partido · +2.5 en 50%  
-• Bajas: Benevento: sin bajas; Avellino: sin bajas  
-• Favorito de las casas: Benevento @ 1.88  
-📐 **Estadísticas esperadas**  
-Córners 6.0 - 3.7: total +9.5 49% · Benevento +5.5 51% · Avellino +4.5 31%  
-Tarjetas 2.2 - 2.6: total +4.5 52% · Benevento +2.5 39% · Avellino +2.5 49%  
-Faltas 15.7 - 12.5: total +27.5 53% · Benevento +14.5 59% · Avellino +13.5 38%  
-Tiros a puerta 5.4 - 2.9: total +8.5 44% · Benevento +5.5 44% · Avellino +3.5 32%  
-🧩 Crear apuesta: Menos de 4.5 córners de Avellino + Menos de 3.5 tiros a puerta de Avellino + Menos de 13.5 faltas de Avellino → prob. 30%, cuota justa 3.35 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 córners de Avellino + Menos de 3.5 tiros a puerta de Avellino + Menos de 13.5 faltas de Avellino + Menos de 2.5 tarjetas de Benevento → prob. 19%, cuota justa 5.19  
-
-## Benevento vs Avellino — 07/11 · 19:30
-
-👀 candidata · 🇮🇹 Serie B · **Menos de 3.5 córners de Avellino** @ **1.83** (Unibet) · prob 51% vs casas 49% · ventaja -7%
-
-- ❌ Valor: ventaja -7% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.58 - 0.97)  
-1 46% · X 29% · 2 25%  
-1X 75% · X2 54% · 12 71%  
-+1.5 73% · +2.5 47% · +3.5 25% · Ambos marcan 50%  
-Marcadores: 1-1 13% · 1-0 12% · 2-0 10% · 2-1 9%  
-🔎 **Claves**  
-• Forma: Benevento ✅➖✅➖❌ | Avellino ✅➖❌➖✅  
-• H2H: 2 desde 2016: 1V-1E-0D · 2.5 goles/partido · +2.5 en 50%  
-• Bajas: Benevento: sin bajas; Avellino: sin bajas  
-• Favorito de las casas: Benevento @ 1.88  
-📐 **Estadísticas esperadas**  
-Córners 6.0 - 3.7: total +9.5 49% · Benevento +5.5 51% · Avellino +4.5 31%  
-Tarjetas 2.2 - 2.6: total +4.5 52% · Benevento +2.5 39% · Avellino +2.5 49%  
-Faltas 15.7 - 12.5: total +27.5 53% · Benevento +14.5 59% · Avellino +13.5 38%  
-Tiros a puerta 5.4 - 2.9: total +8.5 44% · Benevento +5.5 44% · Avellino +3.5 32%  
-🧩 Crear apuesta: Menos de 4.5 córners de Avellino + Menos de 3.5 tiros a puerta de Avellino + Menos de 13.5 faltas de Avellino → prob. 30%, cuota justa 3.35 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 córners de Avellino + Menos de 3.5 tiros a puerta de Avellino + Menos de 13.5 faltas de Avellino + Menos de 2.5 tarjetas de Benevento → prob. 19%, cuota justa 5.19  
-
-## Benevento vs Avellino — 07/11 · 19:30
-
-👀 candidata · 🇮🇹 Serie B · **Más de 8.5 córners** @ **1.60** (Unibet) · prob 58% vs casas 56% · ventaja -6%
-
-- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.58 - 0.97)  
-1 46% · X 29% · 2 25%  
-1X 75% · X2 54% · 12 71%  
-+1.5 73% · +2.5 47% · +3.5 25% · Ambos marcan 50%  
-Marcadores: 1-1 13% · 1-0 12% · 2-0 10% · 2-1 9%  
-🔎 **Claves**  
-• Forma: Benevento ✅➖✅➖❌ | Avellino ✅➖❌➖✅  
-• H2H: 2 desde 2016: 1V-1E-0D · 2.5 goles/partido · +2.5 en 50%  
-• Bajas: Benevento: sin bajas; Avellino: sin bajas  
-• Favorito de las casas: Benevento @ 1.88  
-📐 **Estadísticas esperadas**  
-Córners 6.0 - 3.7: total +9.5 49% · Benevento +5.5 51% · Avellino +4.5 31%  
-Tarjetas 2.2 - 2.6: total +4.5 52% · Benevento +2.5 39% · Avellino +2.5 49%  
-Faltas 15.7 - 12.5: total +27.5 53% · Benevento +14.5 59% · Avellino +13.5 38%  
-Tiros a puerta 5.4 - 2.9: total +8.5 44% · Benevento +5.5 44% · Avellino +3.5 32%  
-🧩 Crear apuesta: Menos de 4.5 córners de Avellino + Menos de 3.5 tiros a puerta de Avellino + Menos de 13.5 faltas de Avellino → prob. 30%, cuota justa 3.35 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 córners de Avellino + Menos de 3.5 tiros a puerta de Avellino + Menos de 13.5 faltas de Avellino + Menos de 2.5 tarjetas de Benevento → prob. 19%, cuota justa 5.19  
-
-## Benevento vs Avellino — 07/11 · 19:30
-
-👀 candidata · 🇮🇹 Serie B · **Menos de 10.5 córners** @ **1.40** (Unibet) · prob 64% vs casas 64% · ventaja -11%
-
-- ❌ Valor: ventaja -11% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.58 - 0.97)  
-1 46% · X 29% · 2 25%  
-1X 75% · X2 54% · 12 71%  
-+1.5 73% · +2.5 47% · +3.5 25% · Ambos marcan 50%  
-Marcadores: 1-1 13% · 1-0 12% · 2-0 10% · 2-1 9%  
-🔎 **Claves**  
-• Forma: Benevento ✅➖✅➖❌ | Avellino ✅➖❌➖✅  
-• H2H: 2 desde 2016: 1V-1E-0D · 2.5 goles/partido · +2.5 en 50%  
-• Bajas: Benevento: sin bajas; Avellino: sin bajas  
-• Favorito de las casas: Benevento @ 1.88  
-📐 **Estadísticas esperadas**  
-Córners 6.0 - 3.7: total +9.5 49% · Benevento +5.5 51% · Avellino +4.5 31%  
-Tarjetas 2.2 - 2.6: total +4.5 52% · Benevento +2.5 39% · Avellino +2.5 49%  
-Faltas 15.7 - 12.5: total +27.5 53% · Benevento +14.5 59% · Avellino +13.5 38%  
-Tiros a puerta 5.4 - 2.9: total +8.5 44% · Benevento +5.5 44% · Avellino +3.5 32%  
-🧩 Crear apuesta: Menos de 4.5 córners de Avellino + Menos de 3.5 tiros a puerta de Avellino + Menos de 13.5 faltas de Avellino → prob. 30%, cuota justa 3.35 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 córners de Avellino + Menos de 3.5 tiros a puerta de Avellino + Menos de 13.5 faltas de Avellino + Menos de 2.5 tarjetas de Benevento → prob. 19%, cuota justa 5.19  
-
-## Benevento vs Avellino — 07/11 · 19:30
-
-👀 candidata · 🇮🇹 Serie B · **Más de 5.5 córners de Benevento** @ **2.00** (Unibet) · prob 48% vs casas 45% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 7% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.58 - 0.97)  
-1 46% · X 29% · 2 25%  
-1X 75% · X2 54% · 12 71%  
-+1.5 73% · +2.5 47% · +3.5 25% · Ambos marcan 50%  
-Marcadores: 1-1 13% · 1-0 12% · 2-0 10% · 2-1 9%  
-🔎 **Claves**  
-• Forma: Benevento ✅➖✅➖❌ | Avellino ✅➖❌➖✅  
-• H2H: 2 desde 2016: 1V-1E-0D · 2.5 goles/partido · +2.5 en 50%  
-• Bajas: Benevento: sin bajas; Avellino: sin bajas  
-• Favorito de las casas: Benevento @ 1.88  
-📐 **Estadísticas esperadas**  
-Córners 6.0 - 3.7: total +9.5 49% · Benevento +5.5 51% · Avellino +4.5 31%  
-Tarjetas 2.2 - 2.6: total +4.5 52% · Benevento +2.5 39% · Avellino +2.5 49%  
-Faltas 15.7 - 12.5: total +27.5 53% · Benevento +14.5 59% · Avellino +13.5 38%  
-Tiros a puerta 5.4 - 2.9: total +8.5 44% · Benevento +5.5 44% · Avellino +3.5 32%  
-🧩 Crear apuesta: Menos de 4.5 córners de Avellino + Menos de 3.5 tiros a puerta de Avellino + Menos de 13.5 faltas de Avellino → prob. 30%, cuota justa 3.35 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 córners de Avellino + Menos de 3.5 tiros a puerta de Avellino + Menos de 13.5 faltas de Avellino + Menos de 2.5 tarjetas de Benevento → prob. 19%, cuota justa 5.19  
-
-## Benevento vs Avellino — 07/11 · 19:30
-
-👀 candidata · 🇮🇹 Serie B · **Menos de 6.5 córners de Benevento** @ **1.36** (Unibet) · prob 64% vs casas 66% · ventaja -13%
-
-- ❌ Valor: ventaja -13% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.58 - 0.97)  
-1 46% · X 29% · 2 25%  
-1X 75% · X2 54% · 12 71%  
-+1.5 73% · +2.5 47% · +3.5 25% · Ambos marcan 50%  
-Marcadores: 1-1 13% · 1-0 12% · 2-0 10% · 2-1 9%  
-🔎 **Claves**  
-• Forma: Benevento ✅➖✅➖❌ | Avellino ✅➖❌➖✅  
-• H2H: 2 desde 2016: 1V-1E-0D · 2.5 goles/partido · +2.5 en 50%  
-• Bajas: Benevento: sin bajas; Avellino: sin bajas  
-• Favorito de las casas: Benevento @ 1.88  
-📐 **Estadísticas esperadas**  
-Córners 6.0 - 3.7: total +9.5 49% · Benevento +5.5 51% · Avellino +4.5 31%  
-Tarjetas 2.2 - 2.6: total +4.5 52% · Benevento +2.5 39% · Avellino +2.5 49%  
-Faltas 15.7 - 12.5: total +27.5 53% · Benevento +14.5 59% · Avellino +13.5 38%  
-Tiros a puerta 5.4 - 2.9: total +8.5 44% · Benevento +5.5 44% · Avellino +3.5 32%  
-🧩 Crear apuesta: Menos de 4.5 córners de Avellino + Menos de 3.5 tiros a puerta de Avellino + Menos de 13.5 faltas de Avellino → prob. 30%, cuota justa 3.35 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 córners de Avellino + Menos de 3.5 tiros a puerta de Avellino + Menos de 13.5 faltas de Avellino + Menos de 2.5 tarjetas de Benevento → prob. 19%, cuota justa 5.19  
+Actualizado 07/11/2026 19:34 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Pau FC vs Nantes — 07/11 · 20:00
 
@@ -11017,6 +10824,306 @@ Tiros a puerta 8.0 - 2.7: total +9.5 62% · Besiktas +5.5 78% · Genclerbirligi 
 🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Genclerbirligi + Menos de 4.5 córners de Genclerbirligi + Menos de 2.5 tarjetas de Besiktas → prob. 48%, cuota justa 2.09 (solo vale si la casa paga más)  
 🚀 Combinada larga: Menos de 4.5 tiros a puerta de Genclerbirligi + Menos de 4.5 córners de Genclerbirligi + Menos de 2.5 tarjetas de Besiktas + Menos de 13.5 faltas de Besiktas → prob. 32%, cuota justa 3.09  
 
+## Guimaraes vs Porto — 08/11 · 19:00
+
+👀 candidata · 🇵🇹 Primeira Liga · **Más de 9.5 córners** @ **2.12** (Unibet) · prob 46% vs casas 43% · ventaja -3%
+
+- ❌ Valor: ventaja -3% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 0.94 - 1.45)  
+1 13% · X 26% · 2 61%  
+1X 39% · X2 87% · 12 74%  
++1.5 70% · +2.5 43% · +3.5 22% · Ambos marcan 47%  
+Marcadores: 1-1 13% · 0-1 13% · 0-0 10% · 0-2 10%  
+🔎 **Claves**  
+• Forma: Guimaraes ❌➖❌✅➖ | Porto ✅✅✅✅✅  
+• H2H: 40 desde 2005: 3V-5E-32D · 2.7 goles/partido · +2.5 en 55%  
+• Bajas: Guimaraes: sin bajas; Porto: 2 fuera, 4 duda (Nehuen Perez, Dominik Prpic)  
+• Favorito de las casas: Porto @ 1.67  
+📐 **Estadísticas esperadas**  
+Córners 4.1 - 5.5: total +9.5 48% · Guimaraes +5.5 25% · Porto +4.5 59%  
+Tarjetas 2.8 - 2.6: total +5.5 45% · Guimaraes +2.5 54% · Porto +2.5 48%  
+Faltas 14.0 - 13.0: total +26.5 52% · Guimaraes +13.5 53% · Porto +13.5 43%  
+Tiros a puerta 3.2 - 4.8: total +8.5 41% · Guimaraes +4.5 23% · Porto +3.5 69%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Guimaraes + Menos de 5.5 córners de Guimaraes → prob. 60%, cuota justa 1.67 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Guimaraes + Menos de 5.5 córners de Guimaraes + Menos de 2.5 goles + Menos de 13.5 faltas de Porto → prob. 20%, cuota justa 4.94  
+
+## Guimaraes vs Porto — 08/11 · 19:00
+
+👀 candidata · 🇵🇹 Primeira Liga · **Menos de 10.5 córners** @ **1.36** (Unibet) · prob 65% vs casas 67% · ventaja -12%
+
+- ❌ Valor: ventaja -12% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 0.94 - 1.45)  
+1 13% · X 26% · 2 61%  
+1X 39% · X2 87% · 12 74%  
++1.5 70% · +2.5 43% · +3.5 22% · Ambos marcan 47%  
+Marcadores: 1-1 13% · 0-1 13% · 0-0 10% · 0-2 10%  
+🔎 **Claves**  
+• Forma: Guimaraes ❌➖❌✅➖ | Porto ✅✅✅✅✅  
+• H2H: 40 desde 2005: 3V-5E-32D · 2.7 goles/partido · +2.5 en 55%  
+• Bajas: Guimaraes: sin bajas; Porto: 2 fuera, 4 duda (Nehuen Perez, Dominik Prpic)  
+• Favorito de las casas: Porto @ 1.67  
+📐 **Estadísticas esperadas**  
+Córners 4.1 - 5.5: total +9.5 48% · Guimaraes +5.5 25% · Porto +4.5 59%  
+Tarjetas 2.8 - 2.6: total +5.5 45% · Guimaraes +2.5 54% · Porto +2.5 48%  
+Faltas 14.0 - 13.0: total +26.5 52% · Guimaraes +13.5 53% · Porto +13.5 43%  
+Tiros a puerta 3.2 - 4.8: total +8.5 41% · Guimaraes +4.5 23% · Porto +3.5 69%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Guimaraes + Menos de 5.5 córners de Guimaraes → prob. 60%, cuota justa 1.67 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Guimaraes + Menos de 5.5 córners de Guimaraes + Menos de 2.5 goles + Menos de 13.5 faltas de Porto → prob. 20%, cuota justa 4.94  
+
+## Guimaraes vs Porto — 08/11 · 19:00
+
+👀 candidata · 🇵🇹 Primeira Liga · **Más de 4.5 córners de Guimaraes** @ **2.88** (Unibet) · prob 35% vs casas 32% · ventaja +2%
+
+- ❌ Valor: ventaja +2% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 0.94 - 1.45)  
+1 13% · X 26% · 2 61%  
+1X 39% · X2 87% · 12 74%  
++1.5 70% · +2.5 43% · +3.5 22% · Ambos marcan 47%  
+Marcadores: 1-1 13% · 0-1 13% · 0-0 10% · 0-2 10%  
+🔎 **Claves**  
+• Forma: Guimaraes ❌➖❌✅➖ | Porto ✅✅✅✅✅  
+• H2H: 40 desde 2005: 3V-5E-32D · 2.7 goles/partido · +2.5 en 55%  
+• Bajas: Guimaraes: sin bajas; Porto: 2 fuera, 4 duda (Nehuen Perez, Dominik Prpic)  
+• Favorito de las casas: Porto @ 1.67  
+📐 **Estadísticas esperadas**  
+Córners 4.1 - 5.5: total +9.5 48% · Guimaraes +5.5 25% · Porto +4.5 59%  
+Tarjetas 2.8 - 2.6: total +5.5 45% · Guimaraes +2.5 54% · Porto +2.5 48%  
+Faltas 14.0 - 13.0: total +26.5 52% · Guimaraes +13.5 53% · Porto +13.5 43%  
+Tiros a puerta 3.2 - 4.8: total +8.5 41% · Guimaraes +4.5 23% · Porto +3.5 69%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Guimaraes + Menos de 5.5 córners de Guimaraes → prob. 60%, cuota justa 1.67 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Guimaraes + Menos de 5.5 córners de Guimaraes + Menos de 2.5 goles + Menos de 13.5 faltas de Porto → prob. 20%, cuota justa 4.94  
+
+## Guimaraes vs Porto — 08/11 · 19:00
+
+👀 candidata · 🇵🇹 Primeira Liga · **Menos de 4.5 córners de Guimaraes** @ **1.34** (Unibet) · prob 65% vs casas 68% · ventaja -13%
+
+- ❌ Valor: ventaja -13% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 0.94 - 1.45)  
+1 13% · X 26% · 2 61%  
+1X 39% · X2 87% · 12 74%  
++1.5 70% · +2.5 43% · +3.5 22% · Ambos marcan 47%  
+Marcadores: 1-1 13% · 0-1 13% · 0-0 10% · 0-2 10%  
+🔎 **Claves**  
+• Forma: Guimaraes ❌➖❌✅➖ | Porto ✅✅✅✅✅  
+• H2H: 40 desde 2005: 3V-5E-32D · 2.7 goles/partido · +2.5 en 55%  
+• Bajas: Guimaraes: sin bajas; Porto: 2 fuera, 4 duda (Nehuen Perez, Dominik Prpic)  
+• Favorito de las casas: Porto @ 1.67  
+📐 **Estadísticas esperadas**  
+Córners 4.1 - 5.5: total +9.5 48% · Guimaraes +5.5 25% · Porto +4.5 59%  
+Tarjetas 2.8 - 2.6: total +5.5 45% · Guimaraes +2.5 54% · Porto +2.5 48%  
+Faltas 14.0 - 13.0: total +26.5 52% · Guimaraes +13.5 53% · Porto +13.5 43%  
+Tiros a puerta 3.2 - 4.8: total +8.5 41% · Guimaraes +4.5 23% · Porto +3.5 69%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Guimaraes + Menos de 5.5 córners de Guimaraes → prob. 60%, cuota justa 1.67 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Guimaraes + Menos de 5.5 córners de Guimaraes + Menos de 2.5 goles + Menos de 13.5 faltas de Porto → prob. 20%, cuota justa 4.94  
+
+## Guimaraes vs Porto — 08/11 · 19:00
+
+👀 candidata · 🇵🇹 Primeira Liga · **Más de 4.5 córners de Porto** @ **1.53** (Unibet) · prob 59% vs casas 60% · ventaja -9%
+
+- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 0.94 - 1.45)  
+1 13% · X 26% · 2 61%  
+1X 39% · X2 87% · 12 74%  
++1.5 70% · +2.5 43% · +3.5 22% · Ambos marcan 47%  
+Marcadores: 1-1 13% · 0-1 13% · 0-0 10% · 0-2 10%  
+🔎 **Claves**  
+• Forma: Guimaraes ❌➖❌✅➖ | Porto ✅✅✅✅✅  
+• H2H: 40 desde 2005: 3V-5E-32D · 2.7 goles/partido · +2.5 en 55%  
+• Bajas: Guimaraes: sin bajas; Porto: 2 fuera, 4 duda (Nehuen Perez, Dominik Prpic)  
+• Favorito de las casas: Porto @ 1.67  
+📐 **Estadísticas esperadas**  
+Córners 4.1 - 5.5: total +9.5 48% · Guimaraes +5.5 25% · Porto +4.5 59%  
+Tarjetas 2.8 - 2.6: total +5.5 45% · Guimaraes +2.5 54% · Porto +2.5 48%  
+Faltas 14.0 - 13.0: total +26.5 52% · Guimaraes +13.5 53% · Porto +13.5 43%  
+Tiros a puerta 3.2 - 4.8: total +8.5 41% · Guimaraes +4.5 23% · Porto +3.5 69%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Guimaraes + Menos de 5.5 córners de Guimaraes → prob. 60%, cuota justa 1.67 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Guimaraes + Menos de 5.5 córners de Guimaraes + Menos de 2.5 goles + Menos de 13.5 faltas de Porto → prob. 20%, cuota justa 4.94  
+
+## Guimaraes vs Porto — 08/11 · 19:00
+
+👀 candidata · 🇵🇹 Primeira Liga · **Menos de 6.5 córners de Porto** @ **1.43** (Unibet) · prob 66% vs casas 64% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 0.94 - 1.45)  
+1 13% · X 26% · 2 61%  
+1X 39% · X2 87% · 12 74%  
++1.5 70% · +2.5 43% · +3.5 22% · Ambos marcan 47%  
+Marcadores: 1-1 13% · 0-1 13% · 0-0 10% · 0-2 10%  
+🔎 **Claves**  
+• Forma: Guimaraes ❌➖❌✅➖ | Porto ✅✅✅✅✅  
+• H2H: 40 desde 2005: 3V-5E-32D · 2.7 goles/partido · +2.5 en 55%  
+• Bajas: Guimaraes: sin bajas; Porto: 2 fuera, 4 duda (Nehuen Perez, Dominik Prpic)  
+• Favorito de las casas: Porto @ 1.67  
+📐 **Estadísticas esperadas**  
+Córners 4.1 - 5.5: total +9.5 48% · Guimaraes +5.5 25% · Porto +4.5 59%  
+Tarjetas 2.8 - 2.6: total +5.5 45% · Guimaraes +2.5 54% · Porto +2.5 48%  
+Faltas 14.0 - 13.0: total +26.5 52% · Guimaraes +13.5 53% · Porto +13.5 43%  
+Tiros a puerta 3.2 - 4.8: total +8.5 41% · Guimaraes +4.5 23% · Porto +3.5 69%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Guimaraes + Menos de 5.5 córners de Guimaraes → prob. 60%, cuota justa 1.67 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Guimaraes + Menos de 5.5 córners de Guimaraes + Menos de 2.5 goles + Menos de 13.5 faltas de Porto → prob. 20%, cuota justa 4.94  
+
+## Besiktas vs Genclerbirligi — 08/11 · 19:00
+
+👀 candidata · 🇹🇷 Süper Lig · **Más de 2.5 córners de Genclerbirligi** @ **1.58** (Unibet) · prob 59% vs casas 58% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.10 - 0.65)  
+1 72% · X 19% · 2 9%  
+1X 91% · X2 28% · 12 81%  
++1.5 77% · +2.5 52% · +3.5 30% · Ambos marcan 42%  
+Marcadores: 2-0 14% · 1-0 13% · 3-0 10% · 2-1 9%  
+🔎 **Claves**  
+• Forma: Besiktas ❌✅❌✅➖ | Genclerbirligi ❌➖❌❌✅  
+• H2H: 32 desde 2005: 21V-6E-5D · 2.6 goles/partido · +2.5 en 50%  
+• Bajas: Besiktas: sin bajas; Genclerbirligi: 3 fuera, 1 duda (Ousmane Diabate, Dimitrios Goutas, Kevin Rodrigues)  
+• Favorito de las casas: Besiktas @ 1.24  
+📐 **Estadísticas esperadas**  
+Córners 7.5 - 3.3: total +9.5 62% · Besiktas +5.5 68% · Genclerbirligi +4.5 25%  
+Tarjetas 1.8 - 2.8: total +4.5 48% · Besiktas +2.5 27% · Genclerbirligi +2.5 53%  
+Faltas 12.4 - 13.5: total +26.5 44% · Besiktas +13.5 36% · Genclerbirligi +13.5 48%  
+Tiros a puerta 8.0 - 2.7: total +9.5 62% · Besiktas +5.5 78% · Genclerbirligi +4.5 14%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Genclerbirligi + Menos de 4.5 córners de Genclerbirligi + Menos de 2.5 tarjetas de Besiktas → prob. 48%, cuota justa 2.09 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Genclerbirligi + Menos de 4.5 córners de Genclerbirligi + Menos de 2.5 tarjetas de Besiktas + Menos de 13.5 faltas de Besiktas → prob. 32%, cuota justa 3.09  
+
+## Besiktas vs Genclerbirligi — 08/11 · 19:00
+
+👀 candidata · 🇹🇷 Süper Lig · **Menos de 3.5 córners de Genclerbirligi** @ **1.55** (Unibet) · prob 59% vs casas 59% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.10 - 0.65)  
+1 72% · X 19% · 2 9%  
+1X 91% · X2 28% · 12 81%  
++1.5 77% · +2.5 52% · +3.5 30% · Ambos marcan 42%  
+Marcadores: 2-0 14% · 1-0 13% · 3-0 10% · 2-1 9%  
+🔎 **Claves**  
+• Forma: Besiktas ❌✅❌✅➖ | Genclerbirligi ❌➖❌❌✅  
+• H2H: 32 desde 2005: 21V-6E-5D · 2.6 goles/partido · +2.5 en 50%  
+• Bajas: Besiktas: sin bajas; Genclerbirligi: 3 fuera, 1 duda (Ousmane Diabate, Dimitrios Goutas, Kevin Rodrigues)  
+• Favorito de las casas: Besiktas @ 1.24  
+📐 **Estadísticas esperadas**  
+Córners 7.5 - 3.3: total +9.5 62% · Besiktas +5.5 68% · Genclerbirligi +4.5 25%  
+Tarjetas 1.8 - 2.8: total +4.5 48% · Besiktas +2.5 27% · Genclerbirligi +2.5 53%  
+Faltas 12.4 - 13.5: total +26.5 44% · Besiktas +13.5 36% · Genclerbirligi +13.5 48%  
+Tiros a puerta 8.0 - 2.7: total +9.5 62% · Besiktas +5.5 78% · Genclerbirligi +4.5 14%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Genclerbirligi + Menos de 4.5 córners de Genclerbirligi + Menos de 2.5 tarjetas de Besiktas → prob. 48%, cuota justa 2.09 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Genclerbirligi + Menos de 4.5 córners de Genclerbirligi + Menos de 2.5 tarjetas de Besiktas + Menos de 13.5 faltas de Besiktas → prob. 32%, cuota justa 3.09  
+
+## Besiktas vs Genclerbirligi — 08/11 · 19:00
+
+👀 candidata · 🇹🇷 Süper Lig · **Más de 7.5 córners de Besiktas** @ **2.07** (Unibet) · prob 45% vs casas 44% · ventaja -7%
+
+- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.10 - 0.65)  
+1 72% · X 19% · 2 9%  
+1X 91% · X2 28% · 12 81%  
++1.5 77% · +2.5 52% · +3.5 30% · Ambos marcan 42%  
+Marcadores: 2-0 14% · 1-0 13% · 3-0 10% · 2-1 9%  
+🔎 **Claves**  
+• Forma: Besiktas ❌✅❌✅➖ | Genclerbirligi ❌➖❌❌✅  
+• H2H: 32 desde 2005: 21V-6E-5D · 2.6 goles/partido · +2.5 en 50%  
+• Bajas: Besiktas: sin bajas; Genclerbirligi: 3 fuera, 1 duda (Ousmane Diabate, Dimitrios Goutas, Kevin Rodrigues)  
+• Favorito de las casas: Besiktas @ 1.24  
+📐 **Estadísticas esperadas**  
+Córners 7.5 - 3.3: total +9.5 62% · Besiktas +5.5 68% · Genclerbirligi +4.5 25%  
+Tarjetas 1.8 - 2.8: total +4.5 48% · Besiktas +2.5 27% · Genclerbirligi +2.5 53%  
+Faltas 12.4 - 13.5: total +26.5 44% · Besiktas +13.5 36% · Genclerbirligi +13.5 48%  
+Tiros a puerta 8.0 - 2.7: total +9.5 62% · Besiktas +5.5 78% · Genclerbirligi +4.5 14%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Genclerbirligi + Menos de 4.5 córners de Genclerbirligi + Menos de 2.5 tarjetas de Besiktas → prob. 48%, cuota justa 2.09 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Genclerbirligi + Menos de 4.5 córners de Genclerbirligi + Menos de 2.5 tarjetas de Besiktas + Menos de 13.5 faltas de Besiktas → prob. 32%, cuota justa 3.09  
+
+## Besiktas vs Genclerbirligi — 08/11 · 19:00
+
+👀 candidata · 🇹🇷 Süper Lig · **Menos de 8.5 córners de Besiktas** @ **1.41** (Unibet) · prob 65% vs casas 65% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.10 - 0.65)  
+1 72% · X 19% · 2 9%  
+1X 91% · X2 28% · 12 81%  
++1.5 77% · +2.5 52% · +3.5 30% · Ambos marcan 42%  
+Marcadores: 2-0 14% · 1-0 13% · 3-0 10% · 2-1 9%  
+🔎 **Claves**  
+• Forma: Besiktas ❌✅❌✅➖ | Genclerbirligi ❌➖❌❌✅  
+• H2H: 32 desde 2005: 21V-6E-5D · 2.6 goles/partido · +2.5 en 50%  
+• Bajas: Besiktas: sin bajas; Genclerbirligi: 3 fuera, 1 duda (Ousmane Diabate, Dimitrios Goutas, Kevin Rodrigues)  
+• Favorito de las casas: Besiktas @ 1.24  
+📐 **Estadísticas esperadas**  
+Córners 7.5 - 3.3: total +9.5 62% · Besiktas +5.5 68% · Genclerbirligi +4.5 25%  
+Tarjetas 1.8 - 2.8: total +4.5 48% · Besiktas +2.5 27% · Genclerbirligi +2.5 53%  
+Faltas 12.4 - 13.5: total +26.5 44% · Besiktas +13.5 36% · Genclerbirligi +13.5 48%  
+Tiros a puerta 8.0 - 2.7: total +9.5 62% · Besiktas +5.5 78% · Genclerbirligi +4.5 14%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Genclerbirligi + Menos de 4.5 córners de Genclerbirligi + Menos de 2.5 tarjetas de Besiktas → prob. 48%, cuota justa 2.09 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Genclerbirligi + Menos de 4.5 córners de Genclerbirligi + Menos de 2.5 tarjetas de Besiktas + Menos de 13.5 faltas de Besiktas → prob. 32%, cuota justa 3.09  
+
+## Besiktas vs Genclerbirligi — 08/11 · 19:00
+
+👀 candidata · 🇹🇷 Süper Lig · **Más de 8.5 córners** @ **1.35** (Unibet) · prob 71% vs casas 68% · ventaja -5%
+
+- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.10 - 0.65)  
+1 72% · X 19% · 2 9%  
+1X 91% · X2 28% · 12 81%  
++1.5 77% · +2.5 52% · +3.5 30% · Ambos marcan 42%  
+Marcadores: 2-0 14% · 1-0 13% · 3-0 10% · 2-1 9%  
+🔎 **Claves**  
+• Forma: Besiktas ❌✅❌✅➖ | Genclerbirligi ❌➖❌❌✅  
+• H2H: 32 desde 2005: 21V-6E-5D · 2.6 goles/partido · +2.5 en 50%  
+• Bajas: Besiktas: sin bajas; Genclerbirligi: 3 fuera, 1 duda (Ousmane Diabate, Dimitrios Goutas, Kevin Rodrigues)  
+• Favorito de las casas: Besiktas @ 1.24  
+📐 **Estadísticas esperadas**  
+Córners 7.5 - 3.3: total +9.5 62% · Besiktas +5.5 68% · Genclerbirligi +4.5 25%  
+Tarjetas 1.8 - 2.8: total +4.5 48% · Besiktas +2.5 27% · Genclerbirligi +2.5 53%  
+Faltas 12.4 - 13.5: total +26.5 44% · Besiktas +13.5 36% · Genclerbirligi +13.5 48%  
+Tiros a puerta 8.0 - 2.7: total +9.5 62% · Besiktas +5.5 78% · Genclerbirligi +4.5 14%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Genclerbirligi + Menos de 4.5 córners de Genclerbirligi + Menos de 2.5 tarjetas de Besiktas → prob. 48%, cuota justa 2.09 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Genclerbirligi + Menos de 4.5 córners de Genclerbirligi + Menos de 2.5 tarjetas de Besiktas + Menos de 13.5 faltas de Besiktas → prob. 32%, cuota justa 3.09  
+
+## Besiktas vs Genclerbirligi — 08/11 · 19:00
+
+👀 candidata · 🇹🇷 Süper Lig · **Menos de 12.5 córners** @ **1.33** (Unibet) · prob 70% vs casas 69% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.10 - 0.65)  
+1 72% · X 19% · 2 9%  
+1X 91% · X2 28% · 12 81%  
++1.5 77% · +2.5 52% · +3.5 30% · Ambos marcan 42%  
+Marcadores: 2-0 14% · 1-0 13% · 3-0 10% · 2-1 9%  
+🔎 **Claves**  
+• Forma: Besiktas ❌✅❌✅➖ | Genclerbirligi ❌➖❌❌✅  
+• H2H: 32 desde 2005: 21V-6E-5D · 2.6 goles/partido · +2.5 en 50%  
+• Bajas: Besiktas: sin bajas; Genclerbirligi: 3 fuera, 1 duda (Ousmane Diabate, Dimitrios Goutas, Kevin Rodrigues)  
+• Favorito de las casas: Besiktas @ 1.24  
+📐 **Estadísticas esperadas**  
+Córners 7.5 - 3.3: total +9.5 62% · Besiktas +5.5 68% · Genclerbirligi +4.5 25%  
+Tarjetas 1.8 - 2.8: total +4.5 48% · Besiktas +2.5 27% · Genclerbirligi +2.5 53%  
+Faltas 12.4 - 13.5: total +26.5 44% · Besiktas +13.5 36% · Genclerbirligi +13.5 48%  
+Tiros a puerta 8.0 - 2.7: total +9.5 62% · Besiktas +5.5 78% · Genclerbirligi +4.5 14%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Genclerbirligi + Menos de 4.5 córners de Genclerbirligi + Menos de 2.5 tarjetas de Besiktas → prob. 48%, cuota justa 2.09 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Genclerbirligi + Menos de 4.5 córners de Genclerbirligi + Menos de 2.5 tarjetas de Besiktas + Menos de 13.5 faltas de Besiktas → prob. 32%, cuota justa 3.09  
+
 ## Fredrikstad vs Brann — 08/11 · 19:15
 
 👀 candidata · 🇳🇴 Eliteserien · **Gana Brann** @ **2.40** (Bet365) · prob 39% vs casas 39% · ventaja -6%
@@ -11059,6 +11166,163 @@ Faltas 11.6 - 10.8: total +22.5 47% · St Truiden +10.5 60% · Waregem +11.5 40%
 Tiros a puerta 5.6 - 3.9: total +9.5 47% · St Truiden +5.5 48% · Waregem +4.5 35%  
 🧩 Crear apuesta: Menos de 2.5 tarjetas de Waregem + Menos de 4.5 tiros a puerta de Waregem + Menos de 4.5 córners de Waregem → prob. 30%, cuota justa 3.35 (solo vale si la casa paga más)  
 🚀 Combinada larga: Menos de 2.5 tarjetas de Waregem + Menos de 4.5 tiros a puerta de Waregem + Menos de 4.5 córners de Waregem + Menos de 11.5 faltas de Waregem + Más de 2.5 goles → prob. 10%, cuota justa 10.12  
+🎯 No simulada (con cuota: Menos de 4.5 tiros a puerta de Waregem + Menos de 4.5 córners de Waregem): cuota Unibet aprox. 2.35 (producto de piernas) · prob. 44% · ventaja +4%  
+
+## St Truiden vs Waregem — 08/11 · 19:15
+
+👀 candidata · 🇧🇪 Pro League · **Más de 8.5 córners** @ **1.36** (Unibet) · prob 68% vs casas 67% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.64 - 1.28)  
+1 53% · X 26% · 2 21%  
+1X 79% · X2 47% · 12 74%  
++1.5 80% · +2.5 56% · +3.5 34% · Ambos marcan 59%  
+Marcadores: 1-1 12% · 2-1 9% · 1-0 8% · 1-2 7%  
+🔎 **Claves**  
+• Forma: St Truiden ❌❌❌❌❌ | Waregem ❌❌❌❌❌  
+• H2H: 30 desde 2005: 12V-5E-13D · 2.9 goles/partido · +2.5 en 57%  
+• Bajas: St Truiden: sin bajas; Waregem: sin bajas  
+• Favorito de las casas: St Truiden @ 1.80  
+📐 **Estadísticas esperadas**  
+Córners 6.4 - 4.0: total +10.5 46% · St Truiden +5.5 56% · Waregem +4.5 37%  
+Tarjetas 1.7 - 1.9: total +3.5 48% · St Truiden +1.5 50% · Waregem +2.5 30%  
+Faltas 11.6 - 10.8: total +22.5 47% · St Truiden +10.5 60% · Waregem +11.5 40%  
+Tiros a puerta 5.6 - 3.9: total +9.5 47% · St Truiden +5.5 48% · Waregem +4.5 35%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Waregem + Menos de 4.5 tiros a puerta de Waregem + Menos de 4.5 córners de Waregem → prob. 30%, cuota justa 3.35 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Waregem + Menos de 4.5 tiros a puerta de Waregem + Menos de 4.5 córners de Waregem + Menos de 11.5 faltas de Waregem + Más de 2.5 goles → prob. 10%, cuota justa 10.12  
+🎯 No simulada (con cuota: Menos de 4.5 tiros a puerta de Waregem + Menos de 4.5 córners de Waregem): cuota Unibet aprox. 2.35 (producto de piernas) · prob. 44% · ventaja +4%  
+
+## St Truiden vs Waregem — 08/11 · 19:15
+
+👀 candidata · 🇧🇪 Pro League · **Menos de 12.5 córners** @ **1.30** (Unibet) · prob 73% vs casas 70% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.64 - 1.28)  
+1 53% · X 26% · 2 21%  
+1X 79% · X2 47% · 12 74%  
++1.5 80% · +2.5 56% · +3.5 34% · Ambos marcan 59%  
+Marcadores: 1-1 12% · 2-1 9% · 1-0 8% · 1-2 7%  
+🔎 **Claves**  
+• Forma: St Truiden ❌❌❌❌❌ | Waregem ❌❌❌❌❌  
+• H2H: 30 desde 2005: 12V-5E-13D · 2.9 goles/partido · +2.5 en 57%  
+• Bajas: St Truiden: sin bajas; Waregem: sin bajas  
+• Favorito de las casas: St Truiden @ 1.80  
+📐 **Estadísticas esperadas**  
+Córners 6.4 - 4.0: total +10.5 46% · St Truiden +5.5 56% · Waregem +4.5 37%  
+Tarjetas 1.7 - 1.9: total +3.5 48% · St Truiden +1.5 50% · Waregem +2.5 30%  
+Faltas 11.6 - 10.8: total +22.5 47% · St Truiden +10.5 60% · Waregem +11.5 40%  
+Tiros a puerta 5.6 - 3.9: total +9.5 47% · St Truiden +5.5 48% · Waregem +4.5 35%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Waregem + Menos de 4.5 tiros a puerta de Waregem + Menos de 4.5 córners de Waregem → prob. 30%, cuota justa 3.35 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Waregem + Menos de 4.5 tiros a puerta de Waregem + Menos de 4.5 córners de Waregem + Menos de 11.5 faltas de Waregem + Más de 2.5 goles → prob. 10%, cuota justa 10.12  
+🎯 No simulada (con cuota: Menos de 4.5 tiros a puerta de Waregem + Menos de 4.5 córners de Waregem): cuota Unibet aprox. 2.35 (producto de piernas) · prob. 44% · ventaja +4%  
+
+## St Truiden vs Waregem — 08/11 · 19:15
+
+👀 candidata · 🇧🇪 Pro League · **Más de 3.5 córners de Waregem** @ **1.62** (Unibet) · prob 55% vs casas 56% · ventaja -11%
+
+- ❌ Valor: ventaja -11% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.64 - 1.28)  
+1 53% · X 26% · 2 21%  
+1X 79% · X2 47% · 12 74%  
++1.5 80% · +2.5 56% · +3.5 34% · Ambos marcan 59%  
+Marcadores: 1-1 12% · 2-1 9% · 1-0 8% · 1-2 7%  
+🔎 **Claves**  
+• Forma: St Truiden ❌❌❌❌❌ | Waregem ❌❌❌❌❌  
+• H2H: 30 desde 2005: 12V-5E-13D · 2.9 goles/partido · +2.5 en 57%  
+• Bajas: St Truiden: sin bajas; Waregem: sin bajas  
+• Favorito de las casas: St Truiden @ 1.80  
+📐 **Estadísticas esperadas**  
+Córners 6.4 - 4.0: total +10.5 46% · St Truiden +5.5 56% · Waregem +4.5 37%  
+Tarjetas 1.7 - 1.9: total +3.5 48% · St Truiden +1.5 50% · Waregem +2.5 30%  
+Faltas 11.6 - 10.8: total +22.5 47% · St Truiden +10.5 60% · Waregem +11.5 40%  
+Tiros a puerta 5.6 - 3.9: total +9.5 47% · St Truiden +5.5 48% · Waregem +4.5 35%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Waregem + Menos de 4.5 tiros a puerta de Waregem + Menos de 4.5 córners de Waregem → prob. 30%, cuota justa 3.35 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Waregem + Menos de 4.5 tiros a puerta de Waregem + Menos de 4.5 córners de Waregem + Menos de 11.5 faltas de Waregem + Más de 2.5 goles → prob. 10%, cuota justa 10.12  
+🎯 No simulada (con cuota: Menos de 4.5 tiros a puerta de Waregem + Menos de 4.5 córners de Waregem): cuota Unibet aprox. 2.35 (producto de piernas) · prob. 44% · ventaja +4%  
+
+## St Truiden vs Waregem — 08/11 · 19:15
+
+👀 candidata · 🇧🇪 Pro League · **Menos de 4.5 córners de Waregem** @ **1.58** (Unibet) · prob 61% vs casas 58% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.64 - 1.28)  
+1 53% · X 26% · 2 21%  
+1X 79% · X2 47% · 12 74%  
++1.5 80% · +2.5 56% · +3.5 34% · Ambos marcan 59%  
+Marcadores: 1-1 12% · 2-1 9% · 1-0 8% · 1-2 7%  
+🔎 **Claves**  
+• Forma: St Truiden ❌❌❌❌❌ | Waregem ❌❌❌❌❌  
+• H2H: 30 desde 2005: 12V-5E-13D · 2.9 goles/partido · +2.5 en 57%  
+• Bajas: St Truiden: sin bajas; Waregem: sin bajas  
+• Favorito de las casas: St Truiden @ 1.80  
+📐 **Estadísticas esperadas**  
+Córners 6.4 - 4.0: total +10.5 46% · St Truiden +5.5 56% · Waregem +4.5 37%  
+Tarjetas 1.7 - 1.9: total +3.5 48% · St Truiden +1.5 50% · Waregem +2.5 30%  
+Faltas 11.6 - 10.8: total +22.5 47% · St Truiden +10.5 60% · Waregem +11.5 40%  
+Tiros a puerta 5.6 - 3.9: total +9.5 47% · St Truiden +5.5 48% · Waregem +4.5 35%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Waregem + Menos de 4.5 tiros a puerta de Waregem + Menos de 4.5 córners de Waregem → prob. 30%, cuota justa 3.35 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Waregem + Menos de 4.5 tiros a puerta de Waregem + Menos de 4.5 córners de Waregem + Menos de 11.5 faltas de Waregem + Más de 2.5 goles → prob. 10%, cuota justa 10.12  
+🎯 No simulada (con cuota: Menos de 4.5 tiros a puerta de Waregem + Menos de 4.5 córners de Waregem): cuota Unibet aprox. 2.35 (producto de piernas) · prob. 44% · ventaja +4%  
+
+## St Truiden vs Waregem — 08/11 · 19:15
+
+👀 candidata · 🇧🇪 Pro League · **Más de 5.5 córners de St Truiden** @ **1.70** (Unibet) · prob 55% vs casas 54% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.64 - 1.28)  
+1 53% · X 26% · 2 21%  
+1X 79% · X2 47% · 12 74%  
++1.5 80% · +2.5 56% · +3.5 34% · Ambos marcan 59%  
+Marcadores: 1-1 12% · 2-1 9% · 1-0 8% · 1-2 7%  
+🔎 **Claves**  
+• Forma: St Truiden ❌❌❌❌❌ | Waregem ❌❌❌❌❌  
+• H2H: 30 desde 2005: 12V-5E-13D · 2.9 goles/partido · +2.5 en 57%  
+• Bajas: St Truiden: sin bajas; Waregem: sin bajas  
+• Favorito de las casas: St Truiden @ 1.80  
+📐 **Estadísticas esperadas**  
+Córners 6.4 - 4.0: total +10.5 46% · St Truiden +5.5 56% · Waregem +4.5 37%  
+Tarjetas 1.7 - 1.9: total +3.5 48% · St Truiden +1.5 50% · Waregem +2.5 30%  
+Faltas 11.6 - 10.8: total +22.5 47% · St Truiden +10.5 60% · Waregem +11.5 40%  
+Tiros a puerta 5.6 - 3.9: total +9.5 47% · St Truiden +5.5 48% · Waregem +4.5 35%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Waregem + Menos de 4.5 tiros a puerta de Waregem + Menos de 4.5 córners de Waregem → prob. 30%, cuota justa 3.35 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Waregem + Menos de 4.5 tiros a puerta de Waregem + Menos de 4.5 córners de Waregem + Menos de 11.5 faltas de Waregem + Más de 2.5 goles → prob. 10%, cuota justa 10.12  
+🎯 No simulada (con cuota: Menos de 4.5 tiros a puerta de Waregem + Menos de 4.5 córners de Waregem): cuota Unibet aprox. 2.35 (producto de piernas) · prob. 44% · ventaja +4%  
+
+## St Truiden vs Waregem — 08/11 · 19:15
+
+👀 candidata · 🇧🇪 Pro League · **Menos de 7.5 córners de St Truiden** @ **1.36** (Unibet) · prob 68% vs casas 68% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.64 - 1.28)  
+1 53% · X 26% · 2 21%  
+1X 79% · X2 47% · 12 74%  
++1.5 80% · +2.5 56% · +3.5 34% · Ambos marcan 59%  
+Marcadores: 1-1 12% · 2-1 9% · 1-0 8% · 1-2 7%  
+🔎 **Claves**  
+• Forma: St Truiden ❌❌❌❌❌ | Waregem ❌❌❌❌❌  
+• H2H: 30 desde 2005: 12V-5E-13D · 2.9 goles/partido · +2.5 en 57%  
+• Bajas: St Truiden: sin bajas; Waregem: sin bajas  
+• Favorito de las casas: St Truiden @ 1.80  
+📐 **Estadísticas esperadas**  
+Córners 6.4 - 4.0: total +10.5 46% · St Truiden +5.5 56% · Waregem +4.5 37%  
+Tarjetas 1.7 - 1.9: total +3.5 48% · St Truiden +1.5 50% · Waregem +2.5 30%  
+Faltas 11.6 - 10.8: total +22.5 47% · St Truiden +10.5 60% · Waregem +11.5 40%  
+Tiros a puerta 5.6 - 3.9: total +9.5 47% · St Truiden +5.5 48% · Waregem +4.5 35%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Waregem + Menos de 4.5 tiros a puerta de Waregem + Menos de 4.5 córners de Waregem → prob. 30%, cuota justa 3.35 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Waregem + Menos de 4.5 tiros a puerta de Waregem + Menos de 4.5 córners de Waregem + Menos de 11.5 faltas de Waregem + Más de 2.5 goles → prob. 10%, cuota justa 10.12  
+🎯 No simulada (con cuota: Menos de 4.5 tiros a puerta de Waregem + Menos de 4.5 córners de Waregem): cuota Unibet aprox. 2.35 (producto de piernas) · prob. 44% · ventaja +4%  
 
 ## Hoffenheim vs Schalke 04 — 08/11 · 19:30
 

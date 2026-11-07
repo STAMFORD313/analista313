@@ -1,6 +1,6 @@
 # 🏈 NFL·NCAA · apuestas de valor
 
-Actualizado 07/11/2026 19:04 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 07/11/2026 19:34 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## App State Mountaineers vs Georgia State Panthers — 07/11 · 20:30
 
