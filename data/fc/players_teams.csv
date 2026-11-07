@@ -58890,12 +58890,12 @@ id,tournament_id,club1,club2,ht1,ht2
 2365709,261130,Paris,River Plate,,
 2365710,261130,Man City,Paris,,
 2365711,261130,Boca Juniors,Real Madrid,,
-2366334,261161,Portugal,Morocco,3,2
-2366335,261161,Netherlands,Belgium,2,1
-2366336,261161,Belgium,Portugal,4,0
-2366337,261161,Morocco,Germany,4,2
-2366338,261161,Germany,Belgium,1,1
-2366339,261161,Portugal,Netherlands,5,1
+2366334,261161,Portugal,Morocco,3.0,2.0
+2366335,261161,Netherlands,Belgium,2.0,1.0
+2366336,261161,Belgium,Portugal,4.0,0.0
+2366337,261161,Morocco,Germany,4.0,2.0
+2366338,261161,Germany,Belgium,1.0,1.0
+2366339,261161,Portugal,Netherlands,5.0,1.0
 2366340,261161,Netherlands,Germany,,
 2366341,261161,Belgium,Morocco,,
 2366342,261161,Morocco,Netherlands,,
@@ -58910,3 +58910,23 @@ id,tournament_id,club1,club2,ht1,ht2
 2366351,261161,Morocco,Belgium,,
 2366352,261161,Netherlands,Morocco,,
 2366353,261161,Portugal,Germany,,
+2365954,261106,Sporting CP,Juventus,3,1
+2365955,261106,Arsenal,Man City,0,3
+2365956,261106,Man City,Sporting CP,1,0
+2365957,261106,Juventus,B Dortmund,5,0
+2365958,261106,B Dortmund,Man City,0,6
+2365959,261106,Sporting CP,Arsenal,2,3
+2365960,261106,Arsenal,B Dortmund,1,1
+2365961,261106,Man City,Juventus,1,0
+2365962,261106,Juventus,Arsenal,1,0
+2365963,261106,B Dortmund,Sporting CP,4,3
+2365964,261106,Juventus,Sporting CP,1,1
+2365965,261106,Man City,Arsenal,1,5
+2365966,261106,Sporting CP,Man City,,
+2365967,261106,B Dortmund,Juventus,,
+2365968,261106,Man City,B Dortmund,,
+2365969,261106,Arsenal,Sporting CP,,
+2365970,261106,B Dortmund,Arsenal,,
+2365971,261106,Juventus,Man City,,
+2365972,261106,Arsenal,Juventus,,
+2365973,261106,Sporting CP,B Dortmund,,

@@ -1,6 +1,6 @@
 # Estadísticas del bot
 
-Actualizado: 07/11/2026 02:43
+Actualizado: 07/11/2026 03:32
 
 **Ganadas 11 / perdidas 19** (37 % acierto) · beneficio -17.17 $ · ROI -30.9 % · banca 82.83 $
 
@@ -29,11 +29,11 @@ Si el bot está bien calibrado, el acierto real se parece a la prob. media. Brie
 
 | Prob. bot | Señales | Prob. media | Acierto real | Brier bot | Brier casas | ROI a 1 u. |
 |---|---|---|---|---|---|---|
-| 0%-40% | 294 | 26% | 18% | 0.159 | 0.150 | -19.7 % |
-| 40%-55% | 247 | 48% | 44% | 0.242 | 0.237 | -5.0 % |
+| 0%-40% | 296 | 26% | 18% | 0.160 | 0.152 | -18.4 % |
+| 40%-55% | 248 | 48% | 44% | 0.242 | 0.237 | -5.4 % |
 | 55%-70% | 259 | 62% | 57% | 0.245 | 0.244 | -5.3 % |
-| 70%-100% | 196 | 81% | 84% | 0.133 | 0.134 | +1.6 % |
-| Total | 996 | 52% | 48% | 0.197 | 0.193 | -8.1 % |
+| 70%-100% | 197 | 81% | 84% | 0.133 | 0.134 | +1.7 % |
+| Total | 1000 | 52% | 48% | 0.197 | 0.193 | -7.8 % |
 
 ### Por deporte y mercado (cada modelo se evalúa por separado)
 
@@ -50,7 +50,7 @@ Si el bot está bien calibrado, el acierto real se parece a la prob. media. Brie
 | ⚽💎⚽ | goles/totales | 1 | 52% | 100% | 0.235 | 0.235 | +100.0 % |
 | 🎮 | ganador | 51 | 59% | 55% | 0.204 | 0.200 | -12.5 % |
 | 🎮 | hándicap | 5 | 48% | 60% | 0.249 | 0.278 | +51.8 % |
-| 🎮⚽ | ganador | 506 | 43% | 35% | 0.201 | 0.193 | -10.9 % |
+| 🎮⚽ | ganador | 509 | 43% | 35% | 0.201 | 0.194 | -10.4 % |
 | 🏀 | ganador | 107 | 76% | 75% | 0.133 | 0.135 | -1.2 % |
 | 🏀 | goles/totales | 4 | 52% | 75% | 0.237 | 0.251 | +43.2 % |
 | 🏀 | hándicap | 1 | 51% | 0% | 0.261 | 0.261 | -100.0 % |
@@ -64,7 +64,7 @@ Si el bot está bien calibrado, el acierto real se parece a la prob. media. Brie
 | 🐉 | hándicap | 2 | 51% | 50% | 0.079 | 0.142 | -12.0 % |
 | 📱 | ganador | 3 | 52% | 33% | 0.180 | 0.171 | -51.3 % |
 | 🔫 | ganador | 6 | 50% | 50% | 0.159 | 0.131 | -17.7 % |
-| 🧙 | ganador | 3 | 69% | 67% | 0.117 | 0.129 | -14.0 % |
+| 🧙 | ganador | 4 | 71% | 75% | 0.098 | 0.108 | -6.2 % |
 
 **CLV de lo apostado** (cuota cogida vs cierre; positivo = se gana al mercado): ⚽ +2.5 % (8) · ⚽💎 -6.7 % (1)
 

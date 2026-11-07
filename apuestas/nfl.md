@@ -1,50 +1,6 @@
 # 🏈 NFL·NCAA · apuestas de valor
 
-Actualizado 07/11/2026 02:43 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Nevada Wolf Pack vs New Mexico Lobos — 07/11 · 03:00
-
-👀 candidata · 🏈 NCAA Football · **Más de 37.5 puntos** @ **1.98** (DraftKings) · prob 48% vs casas 48% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 totales» sin pérdidas demostradas
-
-📊 **Escenarios**: total esperado **48.3** puntos · línea 37.5  
-Más 48% · Menos 52%  
-🔎 **Claves**  
-• Forma: Nevada Wolf Pack ❌✅❌✅❌ | New Mexico Lobos ✅✅✅✅✅  
-• H2H: 5 desde 2016: 3-2  
-• Bajas: Nevada Wolf Pack: sin bajas; New Mexico Lobos: sin bajas  
-
-## Nevada Wolf Pack vs New Mexico Lobos — 07/11 · 03:00
-
-👀 candidata · 🏈 NCAA Football · **Nevada Wolf Pack +9.5** @ **1.93** (DraftKings) · prob 50% vs casas 50% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 hándicap» sin pérdidas demostradas
-
-📊 **Escenarios**: Nevada Wolf Pack cubre +9.5 con prob. 50% (casas 50%)  
-🔎 **Claves**  
-• Forma: Nevada Wolf Pack ❌✅❌✅❌ | New Mexico Lobos ✅✅✅✅✅  
-• H2H: 5 desde 2016: 3-2  
-• Bajas: Nevada Wolf Pack: sin bajas; New Mexico Lobos: sin bajas  
-
-## Nevada Wolf Pack vs New Mexico Lobos — 07/11 · 03:00
-
-👀 candidata · 🏈 NCAA Football · **Gana New Mexico Lobos** @ **1.27** (DraftKings) · prob 76% vs casas 76% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo con 9.455 partidos y bajas)  
-Gana Nevada Wolf Pack 16% · Gana New Mexico Lobos 84%  
-Casas: Nevada Wolf Pack 24% · New Mexico Lobos 76%  
-Hándicap UNM -9.5 · Total puntos 37.5  
-🔎 **Claves**  
-• Forma: Nevada Wolf Pack ❌✅❌✅❌ | New Mexico Lobos ✅✅✅✅✅  
-• H2H: 5 desde 2016: 3-2  
-• Bajas: Nevada Wolf Pack: sin bajas; New Mexico Lobos: sin bajas  
-• Favorito de las casas: New Mexico Lobos @ 1.27  
+Actualizado 07/11/2026 03:32 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Arizona Wildcats vs TCU Horned Frogs — 07/11 · 04:15
 
