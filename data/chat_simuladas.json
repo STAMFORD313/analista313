@@ -1345,7 +1345,9 @@
     "away": "Dynamo Eclot Phoenix",
     "txt": "Gana BRUTE SQ",
     "odds": 1.5,
-    "p": 0.6982444444444443
+    "p": 0.6982444444444443,
+    "ok": true,
+    "por": "ganó BRUTE SQ 2-1"
    },
    {
     "src": "espn:nfl",
