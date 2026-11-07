@@ -1433,7 +1433,9 @@
     "away": "Sassuolo",
     "txt": "Más de 3.5 tarjetas",
     "odds": 2.35,
-    "p": 0.44608750455713586
+    "p": 0.44608750455713586,
+    "ok": false,
+    "por": "hubo 0 tarjetas"
    },
    {
     "code": null,
@@ -1459,9 +1461,9 @@
   "odds": 13.1,
   "p": 0.09767454834164238,
   "stake": 1.0,
-  "estado": "pendiente",
-  "avisada": false,
-  "rev": 1
+  "estado": "perdida",
+  "avisada": true,
+  "rev": 2
  },
  {
   "id": "20261107192818666824",
