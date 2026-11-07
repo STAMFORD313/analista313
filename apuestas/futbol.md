@@ -1,24 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 07/11/2026 11:51 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Korona Kielce vs Radomiak Radom — 07/11 · 12:15
-
-👀 candidata · 🇵🇱 Ekstraklasa · **Gana Korona Kielce** @ **1.65** (Bet365) · prob 56% vs casas 56% · ventaja -7%
-
-- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.68 - 1.04)  
-1 50% · X 26% · 2 24%  
-1X 76% · X2 50% · 12 74%  
-+1.5 76% · +2.5 51% · +3.5 29% · Ambos marcan 53%  
-Marcadores: 1-1 12% · 1-0 10% · 2-1 10% · 2-0 9%  
-🔎 **Claves**  
-• Forma: Korona Kielce ✅❌❌✅❌ | Radomiak Radom ❌❌❌❌✅  
-• H2H: 8 desde 2022: 5V-1E-2D · 3.0 goles/partido · +2.5 en 62%  
-• Bajas: Korona Kielce: sin bajas; Radomiak Radom: sin bajas  
-• Favorito de las casas: Korona Kielce @ 1.65  
+Actualizado 07/11/2026 12:22 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Holstein Kiel vs Bielefeld — 07/11 · 13:00
 
