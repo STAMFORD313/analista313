@@ -1,6 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 07/11/2026 06:29 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 07/11/2026 06:59 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Avispa Fukuoka vs V-Varen Nagasaki — 07/11 · 07:00
 

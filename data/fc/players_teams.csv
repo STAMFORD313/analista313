@@ -59060,3 +59060,38 @@ id,tournament_id,club1,club2,ht1,ht2
 2365329,261117,Roma,Napoli,,
 2365330,261117,Juventus,Roma,,
 2365331,261117,Sassuolo,Bologna,,
+2367055,261229,Denmark,Ghana,1,2
+2367057,261229,Ghana,Mexico,3,2
+2367058,261229,Mexico,Denmark,3,1
+2367060,261229,Sweden,Mexico,2,0
+2367061,261229,Denmark,Ghana,0,2
+2367062,261229,Denmark,Sweden,2,1
+2367063,261229,Ghana,Mexico,2,2
+2367064,261229,Mexico,Denmark,1,1
+2367065,261229,Ghana,Sweden,0,2
+2367066,261229,Sweden,Mexico,,
+2367067,261229,Denmark,Ghana,,
+2367068,261229,Denmark,Sweden,,
+2367069,261229,Ghana,Mexico,,
+2367070,261229,Mexico,Denmark,,
+2367071,261229,Ghana,Sweden,,
+2367773,261231,Arsenal,Tottenham,2,2
+2367774,261231,Chelsea,Man City,1,2
+2367775,261231,Man City,Arsenal,0,2
+2367776,261231,Tottenham,Liverpool,0,2
+2367777,261231,Liverpool,Man City,3,2
+2367778,261231,Arsenal,Chelsea,1,4
+2367779,261231,Chelsea,Liverpool,2,1
+2367780,261231,Man City,Tottenham,0,0
+2367781,261231,Tottenham,Chelsea,,
+2367782,261231,Liverpool,Arsenal,,
+2367783,261231,Tottenham,Arsenal,,
+2367784,261231,Man City,Chelsea,,
+2367785,261231,Arsenal,Man City,,
+2367786,261231,Liverpool,Tottenham,,
+2367787,261231,Man City,Liverpool,,
+2367788,261231,Chelsea,Arsenal,,
+2367789,261231,Liverpool,Chelsea,,
+2367790,261231,Tottenham,Man City,,
+2367791,261231,Chelsea,Tottenham,,
+2367792,261231,Arsenal,Liverpool,,
