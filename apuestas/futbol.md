@@ -1,6 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 07/11/2026 04:24 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 07/11/2026 04:35 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Shimizu S-Pulse vs Verdy — 07/11 · 05:00
 
