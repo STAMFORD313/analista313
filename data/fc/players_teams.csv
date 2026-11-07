@@ -59827,14 +59827,14 @@ id,tournament_id,club1,club2,ht1,ht2
 2366951,261245,Leipzig,B Dortmund,,
 2366952,261245,Bayern Munchen,Leipzig,,
 2366953,261245,Stuttgart,Frankfurt,,
-2368053,261259,Tottenham,Arsenal,2,2
-2368054,261259,Liverpool,Man City,3,1
-2368055,261259,Man City,Tottenham,0,2
-2368056,261259,Arsenal,Chelsea,1,4
-2368057,261259,Chelsea,Man City,3,1
-2368058,261259,Tottenham,Liverpool,5,1
-2368059,261259,Liverpool,Chelsea,3,3
-2368060,261259,Man City,Arsenal,0,2
+2368053,261259,Tottenham,Arsenal,2.0,2.0
+2368054,261259,Liverpool,Man City,3.0,1.0
+2368055,261259,Man City,Tottenham,0.0,2.0
+2368056,261259,Arsenal,Chelsea,1.0,4.0
+2368057,261259,Chelsea,Man City,3.0,1.0
+2368058,261259,Tottenham,Liverpool,5.0,1.0
+2368059,261259,Liverpool,Chelsea,3.0,3.0
+2368060,261259,Man City,Arsenal,0.0,2.0
 2368061,261259,Arsenal,Liverpool,,
 2368062,261259,Chelsea,Tottenham,,
 2368063,261259,Arsenal,Tottenham,,
@@ -59847,18 +59847,18 @@ id,tournament_id,club1,club2,ht1,ht2
 2368070,261259,Arsenal,Man City,,
 2368071,261259,Liverpool,Arsenal,,
 2368072,261259,Tottenham,Chelsea,,
-2367913,261270,Sassuolo,Roma,0,3
-2367914,261270,Bologna,Napoli,3,1
-2367915,261270,Napoli,Sassuolo,1,3
-2367916,261270,Roma,Juventus,0,0
-2367917,261270,Juventus,Napoli,1,4
-2367918,261270,Sassuolo,Bologna,0,2
-2367919,261270,Bologna,Juventus,1,1
-2367920,261270,Napoli,Roma,1,4
-2367921,261270,Roma,Bologna,1,3
-2367922,261270,Juventus,Sassuolo,0,2
-2367923,261270,Roma,Sassuolo,0,0
-2367924,261270,Napoli,Bologna,1,0
+2367913,261270,Sassuolo,Roma,0.0,3.0
+2367914,261270,Bologna,Napoli,3.0,1.0
+2367915,261270,Napoli,Sassuolo,1.0,3.0
+2367916,261270,Roma,Juventus,0.0,0.0
+2367917,261270,Juventus,Napoli,1.0,4.0
+2367918,261270,Sassuolo,Bologna,0.0,2.0
+2367919,261270,Bologna,Juventus,1.0,1.0
+2367920,261270,Napoli,Roma,1.0,4.0
+2367921,261270,Roma,Bologna,1.0,3.0
+2367922,261270,Juventus,Sassuolo,0.0,2.0
+2367923,261270,Roma,Sassuolo,0.0,0.0
+2367924,261270,Napoli,Bologna,1.0,0.0
 2367925,261270,Sassuolo,Napoli,,
 2367926,261270,Juventus,Roma,,
 2367927,261270,Napoli,Juventus,,
