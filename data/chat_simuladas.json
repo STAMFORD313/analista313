@@ -1504,5 +1504,54 @@
   "estado": "pendiente",
   "avisada": false,
   "rev": 1
+ },
+ {
+  "id": "20261107234615490979",
+  "creada": "2026-11-07 23:46:15.491025+00:00",
+  "titulo": "Barrido · Combinada cuota 29.7",
+  "legs": [
+   {
+    "code": null,
+    "start": "2026-11-08 15:45:00+00:00",
+    "home": "Mosconia",
+    "away": "Sporting Gijon II",
+    "txt": "Gana Sporting Gijon II",
+    "odds": 2.3,
+    "p": 0.4484
+   },
+   {
+    "code": null,
+    "start": "2026-11-08 16:00:00+00:00",
+    "home": "Andratx",
+    "away": "Cardassar",
+    "txt": "Gana Andratx",
+    "odds": 2.63,
+    "p": 0.4068
+   },
+   {
+    "code": null,
+    "start": "2026-11-08 16:00:00+00:00",
+    "home": "Palencia",
+    "away": "Club Atletico Bembibre",
+    "txt": "Gana Palencia",
+    "odds": 1.89,
+    "p": 0.5457
+   },
+   {
+    "code": "I1",
+    "start": "2026-11-08 19:45:00+00:00",
+    "home": "Fiorentina",
+    "away": "Juventus",
+    "txt": "Menos de 3.5 tarjetas",
+    "odds": 2.6,
+    "p": 0.4013041945790104
+   }
+  ],
+  "odds": 29.72,
+  "p": 0.03994608309856883,
+  "stake": 1.0,
+  "estado": "pendiente",
+  "avisada": false,
+  "rev": 1
  }
 ]
