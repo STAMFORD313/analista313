@@ -1,61 +1,61 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 07/11/2026 15:59 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 07/11/2026 16:26 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## Lufy vs Piljar — 07/11 · 16:00
+## Gaga vs Rodja — 07/11 · 16:34
 
-👀 candidata · 🎮⚽ FC 27 · International A 2x6 · **Gana Piljar** @ **1.81** (Unibet) · prob 59% vs casas 48% · ventaja +7%
+👀 candidata · 🎮⚽ FC 27 · Serie A · **Gana Gaga** @ **3.00** (Unibet) · prob 36% vs casas 29% · ventaja +9%
 
-- ❌ Valor: ventaja +7% (mín. 10% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 59.545 partidos)  
-Goles esperados: Lufy 4.26 · Piljar 5.38  
-Ganador: Lufy 27% · empate 13% · Piljar 59%  
-Total: más de 9.5 goles 50% · menos 50%  
-Hándicap Piljar: −1.5 45% · −2.5 32%  
-🔎 **Claves**  
-• Forma: Lufy ❌❌❌❌✅ | Piljar ✅❌✅✅➖  
-• Partidos: Lufy 709 | Piljar 392  
-• Liga: International A 2x6  
-• Unibet: 1 2.60 · X 4.80 · 2 1.81 (sin margen 34%/18%/48%) · ventaja +7%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 1.81 (+7%) · Paf España 1.81 (+7%)  
-
-## Dicca vs pikalicaaa — 07/11 · 16:01
-
-👀 candidata · 🎮⚽ FC 27 · Europa League · **Gana Dicca** @ **2.15** (Unibet) · prob 55% vs casas 40% · ventaja +18%
-
-- ✅ Valor: ventaja +18% (mín. 13% con la incertidumbre, máx. 30%)
+- ❌ Valor: ventaja +9% (mín. 11% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 59.545 partidos)  
-Goles esperados: Dicca 3.10 · pikalicaaa 2.24  
-Ganador: Dicca 55% · empate 21% · pikalicaaa 24%  
-Total: más de 5.5 goles 44% · menos 56%  
-Hándicap Dicca: −1.5 38% · −2.5 23%  
+📊 **Escenarios** (Poisson por jugador, 59.575 partidos)  
+Goles esperados: Gaga 2.19 · Rodja 2.31  
+Ganador: Gaga 36% · empate 24% · Rodja 40%  
+Total: más de 4.5 goles 47% · menos 53%  
+Hándicap Rodja: −1.5 25% · −2.5 13%  
 🔎 **Claves**  
-• Forma: Dicca ✅✅➖❌✅ | pikalicaaa ✅➖✅➖❌  
-• Partidos: Dicca 674 | pikalicaaa 616  
-• Liga: Europa League  
-• Unibet: 1 2.15 · X 4.10 · 2 2.25 (sin margen 40%/21%/39%) · ventaja +18%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.15 (+18%) · Paf España 2.15 (+18%)  
-
-## borees vs maggett0 — 07/11 · 16:10
-
-👀 candidata · 🎮⚽ FC 27 · Serie A · **Gana maggett0** @ **2.90** (Unibet) · prob 41% vs casas 30% · ventaja +19%
-
-- ✅ Valor: ventaja +19% (mín. 13% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 59.545 partidos)  
-Goles esperados: borees 2.78 · maggett0 2.85  
-Ganador: borees 38% · empate 21% · maggett0 41%  
-Total: más de 5.5 goles 49% · menos 51%  
-Hándicap maggett0: −1.5 27% · −2.5 15%  
-🔎 **Claves**  
-• Forma: borees ➖❌✅✅✅ | maggett0 ➖✅❌➖❌  
-• Partidos: borees 998 | maggett0 931  
+• Forma: Gaga ✅❌➖➖❌ | Rodja ❌❌➖➖❌  
+• Partidos: Gaga 1099 | Rodja 955  
 • Liga: Serie A  
-• Unibet: 1 1.73 · X 4.50 · 2 2.90 (sin margen 50%/19%/30%) · ventaja +19%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.90 (+19%) · Paf España 2.90 (+19%)  
+• Unibet: 1 3.00 · X 2.48 · 2 2.40 (sin margen 29%/35%/36%) · ventaja +9%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 3.00 (+9%) · Paf España 3.00 (+9%)  
+
+## llulle vs Glumac — 07/11 · 16:40
+
+👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana Glumac** @ **2.25** (Unibet) · prob 51% vs casas 39% · ventaja +15%
+
+- ✅ Valor: ventaja +15% (mín. 12% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 59.575 partidos)  
+Goles esperados: llulle 2.74 · Glumac 3.39  
+Ganador: llulle 28% · empate 20% · Glumac 51%  
+Total: más de 6.5 goles 42% · menos 58%  
+Hándicap Glumac: −1.5 36% · −2.5 22%  
+🔎 **Claves**  
+• Forma: llulle ✅❌❌➖❌ | Glumac ❌✅✅✅➖  
+• Partidos: llulle 892 | Glumac 746  
+• Liga: Champions League B  
+• Unibet: 1 2.17 · X 4.10 · 2 2.25 (sin margen 40%/21%/39%) · ventaja +15%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.25 (+15%) · Paf España 2.25 (+15%)  
+
+## Dicca vs DEKSON — 07/11 · 16:49
+
+👀 candidata · 🎮⚽ FC 27 · Europa League · **Empate** @ **4.80** (Unibet) · prob 23% vs casas 18% · ventaja +9%
+
+- ❌ Valor: ventaja +9% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 59.575 partidos)  
+Goles esperados: Dicca 2.69 · DEKSON 2.08  
+Ganador: Dicca 51% · empate 23% · DEKSON 26%  
+Total: más de 4.5 goles 52% · menos 48%  
+Hándicap Dicca: −1.5 33% · −2.5 19%  
+🔎 **Claves**  
+• Forma: Dicca ➖❌✅✅✅ | DEKSON ✅✅➖✅❌  
+• Partidos: Dicca 676 | DEKSON 460  
+• Liga: Europa League  
+• Unibet: 1 1.75 · X 4.80 · 2 2.75 (sin margen 50%/18%/32%) · ventaja +9%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 4.80 (+9%) · Paf España 4.80 (+9%)  
 

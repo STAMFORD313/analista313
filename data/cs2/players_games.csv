@@ -34592,3 +34592,6 @@ game_id,match_id,slug,date,tier,bo,tournament_id,tournament,t1_id,t2_id,team1,te
 192428,133224,butterfly-vs-maybe-ukr-07-11-2026,2026-11-07T09:00:00.000+00:00,b,3,5628,CCT Europe 2026 Series 13,24855,24681,Butterfly,MAYBE,1,de_nuke,24855,13.0,7.0
 192090,133055,mouz-cs2-vs-betboom-team-07-11-2026,2026-11-07T09:45:00.000+00:00,s,3,5113,Intel Extreme Masters Beijing 2026,765,7498,MOUZ,BetBoom,2,de_mirage,765,13.0,8.0
 192091,133055,mouz-cs2-vs-betboom-team-07-11-2026,2026-11-07T09:45:00.000+00:00,s,3,5113,Intel Extreme Masters Beijing 2026,765,7498,MOUZ,BetBoom,1,de_ancient,765,13.0,7.0
+192429,133225,baks-esports-vs-team-aces-07-11-2026,2026-11-07T12:00:00.000+00:00,b,3,5628,CCT Europe 2026 Series 13,2924,25564,BAKS,Aces,3,de_mirage,25564,13.0,10.0
+192430,133225,baks-esports-vs-team-aces-07-11-2026,2026-11-07T12:00:00.000+00:00,b,3,5628,CCT Europe 2026 Series 13,2924,25564,BAKS,Aces,2,de_dust2,25564,13.0,5.0
+192431,133225,baks-esports-vs-team-aces-07-11-2026,2026-11-07T12:00:00.000+00:00,b,3,5628,CCT Europe 2026 Series 13,2924,25564,BAKS,Aces,1,de_cache,2924,13.0,7.0
