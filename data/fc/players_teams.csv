@@ -58980,3 +58980,23 @@ id,tournament_id,club1,club2,ht1,ht2
 2365771,261142,Atleti,Barcelona,,
 2365772,261142,Real Madrid,Barcelona,,
 2365773,261142,Real Madrid,Atleti,,
+2365732,261132,Bayern Munchen,Frankfurt,2,3
+2365733,261132,B Dortmund,Leipzig,4,2
+2365734,261132,Leipzig,Bayern Munchen,3,4
+2365735,261132,Frankfurt,Stuttgart,4,0
+2365736,261132,Stuttgart,Leipzig,1,4
+2365737,261132,Bayern Munchen,B Dortmund,1,1
+2365738,261132,B Dortmund,Stuttgart,0,0
+2365739,261132,Leipzig,Frankfurt,1,1
+2365740,261132,Frankfurt,B Dortmund,,
+2365741,261132,Stuttgart,Bayern Munchen,,
+2365742,261132,Frankfurt,Bayern Munchen,,
+2365743,261132,Leipzig,B Dortmund,,
+2365744,261132,Bayern Munchen,Leipzig,,
+2365745,261132,Stuttgart,Frankfurt,,
+2365746,261132,Leipzig,Stuttgart,,
+2365747,261132,B Dortmund,Bayern Munchen,,
+2365748,261132,Stuttgart,B Dortmund,,
+2365749,261132,Frankfurt,Leipzig,,
+2365750,261132,B Dortmund,Frankfurt,,
+2365751,261132,Bayern Munchen,Stuttgart,,

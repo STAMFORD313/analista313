@@ -1,24 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 07/11/2026 04:35 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Shimizu S-Pulse vs Verdy — 07/11 · 05:00
-
-👀 candidata · 🇯🇵 J1 League · **Gana Shimizu S-Pulse** @ **2.35** (Bet365) · prob 40% vs casas 40% · ventaja -6%
-
-- ❌ Valor: ventaja -6% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.05 - 1.04)  
-1 39% · X 29% · 2 32%  
-1X 68% · X2 61% · 12 71%  
-+1.5 63% · +2.5 35% · +3.5 16% · Ambos marcan 43%  
-Marcadores: 1-1 14% · 0-0 13% · 1-0 12% · 0-1 12%  
-🔎 **Claves**  
-• Forma: Shimizu S-Pulse ✅➖❌❌❌ | Verdy ❌❌➖✅✅  
-• H2H: 2 desde 2025: 2V-0E-0D · 1.0 goles/partido · +2.5 en 0%  
-• Bajas: Shimizu S-Pulse: sin bajas; Verdy: sin bajas  
-• Favorito de las casas: Shimizu S-Pulse @ 2.35  
+Actualizado 07/11/2026 05:01 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Nagoya Grampus vs Kyoto — 07/11 · 06:00
 
