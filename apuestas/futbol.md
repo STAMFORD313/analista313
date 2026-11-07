@@ -1,777 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 07/11/2026 18:33 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Den Haag vs Sparta Rotterdam — 07/11 · 18:45
-
-👀 candidata · 🇳🇱 Eredivisie · **Gana Den Haag** @ **2.55** (Bet365) · prob 39% vs casas 39% · ventaja -1%
-
-- ❌ Valor: ventaja -1% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.54 - 1.77)  
-1 30% · X 28% · 2 43%  
-1X 57% · X2 70% · 12 72%  
-+1.5 85% · +2.5 64% · +3.5 42% · Ambos marcan 66%  
-Marcadores: 1-1 10% · 1-2 9% · 2-1 8% · 2-2 7%  
-🔎 **Claves**  
-• Forma: Den Haag ➖➖✅❌❌ | Sparta Rotterdam ❌➖✅❌✅  
-• H2H: 8 desde 2016: 3V-1E-4D · 2.9 goles/partido · +2.5 en 50%  
-• Bajas: Den Haag: 0 fuera, 2 duda; Sparta Rotterdam: 1 fuera, 1 duda (Bruno Martins Indi)  
-• Favorito de las casas: Den Haag @ 2.55  
-📐 **Estadísticas esperadas**  
-Córners 5.9 - 4.4: total +10.5 46% · Den Haag +5.5 51% · Sparta Rotterdam +4.5 44%  
-Tarjetas 1.4 - 1.9: total +3.5 40% · Den Haag +1.5 39% · Sparta Rotterdam +1.5 55%  
-Faltas 13.1 - 10.5: total +21.5 64% · Den Haag +10.5 74% · Sparta Rotterdam +11.5 36%  
-Tiros a puerta 5.9 - 5.1: total +10.5 52% · Den Haag +5.5 52% · Sparta Rotterdam +4.5 55%  
-🧩 Crear apuesta: Más de 10.5 faltas de Den Haag + Más de 2.5 goles + Menos de 1.5 tarjetas de Den Haag → prob. 26%, cuota justa 3.77 (solo vale si la casa paga más)  
-🚀 Combinada larga: Más de 10.5 faltas de Den Haag + Más de 2.5 goles + Menos de 1.5 tarjetas de Den Haag + Menos de 4.5 córners de Sparta Rotterdam + Más de 4.5 tiros a puerta de Sparta Rotterdam → prob. 8%, cuota justa 11.81  
-🎯 Simulada (con cuota: Menos de 1.5 tarjetas de Den Haag + Menos de 4.5 córners de Sparta Rotterdam): cuota Unibet aprox. 3.67 (producto de piernas) · prob. 34% · ventaja +25% → 1 u en la banca de simulación  
-
-## Aberdeen vs Hibernian — 07/11 · 18:45
-
-👀 candidata · 🏴 Premiership escocesa · **Hibernian -0 (hándicap asiático)** @ **2.03** (mejor del mercado) · prob 48% vs casas 48% · ventaja -3%
-
-- ❌ Valor: ventaja -3% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ hándicap» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.30 - 1.18)  
-1 37% · X 30% · 2 33%  
-1X 67% · X2 63% · 12 70%  
-+1.5 71% · +2.5 45% · +3.5 24% · Ambos marcan 51%  
-Marcadores: 1-1 13% · 1-0 10% · 0-1 9% · 0-0 9%  
-🔎 **Claves**  
-• Forma: Aberdeen ➖❌✅❌❌ | Hibernian ➖❌❌❌➖  
-• H2H: 69 desde 2005: 30V-19E-20D · 2.4 goles/partido · +2.5 en 45%  
-• Bajas: Aberdeen: sin bajas; Hibernian: 0 fuera, 1 duda  
-• Favorito de las casas: Aberdeen @ 2.45  
-📐 **Estadísticas esperadas**  
-Córners 5.7 - 4.8: total +11.5 37% · Aberdeen +6.5 36% · Hibernian +4.5 50%  
-Tarjetas 2.1 - 2.3: total +4.5 45% · Aberdeen +2.5 36% · Hibernian +2.5 40%  
-Faltas 12.7 - 12.6: total +23.5 62% · Aberdeen +12.5 50% · Hibernian +12.5 49%  
-Tiros a puerta 4.4 - 3.7: total +9.5 29% · Aberdeen +5.5 28% · Hibernian +4.5 31%  
-🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Aberdeen + Menos de 6.5 córners de Aberdeen + Menos de 2.5 tarjetas de Aberdeen → prob. 31%, cuota justa 3.25 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 tiros a puerta de Aberdeen + Menos de 6.5 córners de Aberdeen + Menos de 2.5 tarjetas de Aberdeen + Más de 23.5 faltas → prob. 18%, cuota justa 5.57  
-🎯 No simulada (crear apuesta): cuota Unibet aprox. 2.85 (producto de piernas) · prob. 31% · ventaja -12%  
-🎯 No simulada (con cuota: Menos de 5.5 tiros a puerta de Aberdeen + Menos de 6.5 córners de Aberdeen): cuota Unibet aprox. 1.90 (producto de piernas) · prob. 49% · ventaja -6%  
-
-## Den Haag vs Sparta Rotterdam — 07/11 · 18:45
-
-👀 candidata · 🇳🇱 Eredivisie · **Más de 3.5 córners de Sparta Rotterdam** @ **1.40** (Unibet) · prob 63% vs casas 66% · ventaja -12%
-
-- ❌ Valor: ventaja -12% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.54 - 1.77)  
-1 30% · X 28% · 2 43%  
-1X 57% · X2 70% · 12 72%  
-+1.5 85% · +2.5 64% · +3.5 42% · Ambos marcan 66%  
-Marcadores: 1-1 10% · 1-2 9% · 2-1 8% · 2-2 7%  
-🔎 **Claves**  
-• Forma: Den Haag ➖➖✅❌❌ | Sparta Rotterdam ❌➖✅❌✅  
-• H2H: 8 desde 2016: 3V-1E-4D · 2.9 goles/partido · +2.5 en 50%  
-• Bajas: Den Haag: 0 fuera, 2 duda; Sparta Rotterdam: 1 fuera, 1 duda (Bruno Martins Indi)  
-• Favorito de las casas: Den Haag @ 2.55  
-📐 **Estadísticas esperadas**  
-Córners 5.9 - 4.4: total +10.5 46% · Den Haag +5.5 51% · Sparta Rotterdam +4.5 44%  
-Tarjetas 1.4 - 1.9: total +3.5 40% · Den Haag +1.5 39% · Sparta Rotterdam +1.5 55%  
-Faltas 13.1 - 10.5: total +21.5 64% · Den Haag +10.5 74% · Sparta Rotterdam +11.5 36%  
-Tiros a puerta 5.9 - 5.1: total +10.5 52% · Den Haag +5.5 52% · Sparta Rotterdam +4.5 55%  
-🧩 Crear apuesta: Más de 10.5 faltas de Den Haag + Más de 2.5 goles + Menos de 1.5 tarjetas de Den Haag → prob. 26%, cuota justa 3.77 (solo vale si la casa paga más)  
-🚀 Combinada larga: Más de 10.5 faltas de Den Haag + Más de 2.5 goles + Menos de 1.5 tarjetas de Den Haag + Menos de 4.5 córners de Sparta Rotterdam + Más de 4.5 tiros a puerta de Sparta Rotterdam → prob. 8%, cuota justa 11.81  
-🎯 Simulada (con cuota: Menos de 1.5 tarjetas de Den Haag + Menos de 4.5 córners de Sparta Rotterdam): cuota Unibet aprox. 3.67 (producto de piernas) · prob. 34% · ventaja +25% → 1 u en la banca de simulación  
-
-## Den Haag vs Sparta Rotterdam — 07/11 · 18:45
-
-👀 candidata · 🇳🇱 Eredivisie · **Menos de 3.5 córners de Sparta Rotterdam** @ **2.70** (Unibet) · prob 37% vs casas 34% · ventaja +0%
-
-- ❌ Valor: ventaja +0% (mín. 7% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.54 - 1.77)  
-1 30% · X 28% · 2 43%  
-1X 57% · X2 70% · 12 72%  
-+1.5 85% · +2.5 64% · +3.5 42% · Ambos marcan 66%  
-Marcadores: 1-1 10% · 1-2 9% · 2-1 8% · 2-2 7%  
-🔎 **Claves**  
-• Forma: Den Haag ➖➖✅❌❌ | Sparta Rotterdam ❌➖✅❌✅  
-• H2H: 8 desde 2016: 3V-1E-4D · 2.9 goles/partido · +2.5 en 50%  
-• Bajas: Den Haag: 0 fuera, 2 duda; Sparta Rotterdam: 1 fuera, 1 duda (Bruno Martins Indi)  
-• Favorito de las casas: Den Haag @ 2.55  
-📐 **Estadísticas esperadas**  
-Córners 5.9 - 4.4: total +10.5 46% · Den Haag +5.5 51% · Sparta Rotterdam +4.5 44%  
-Tarjetas 1.4 - 1.9: total +3.5 40% · Den Haag +1.5 39% · Sparta Rotterdam +1.5 55%  
-Faltas 13.1 - 10.5: total +21.5 64% · Den Haag +10.5 74% · Sparta Rotterdam +11.5 36%  
-Tiros a puerta 5.9 - 5.1: total +10.5 52% · Den Haag +5.5 52% · Sparta Rotterdam +4.5 55%  
-🧩 Crear apuesta: Más de 10.5 faltas de Den Haag + Más de 2.5 goles + Menos de 1.5 tarjetas de Den Haag → prob. 26%, cuota justa 3.77 (solo vale si la casa paga más)  
-🚀 Combinada larga: Más de 10.5 faltas de Den Haag + Más de 2.5 goles + Menos de 1.5 tarjetas de Den Haag + Menos de 4.5 córners de Sparta Rotterdam + Más de 4.5 tiros a puerta de Sparta Rotterdam → prob. 8%, cuota justa 11.81  
-🎯 Simulada (con cuota: Menos de 1.5 tarjetas de Den Haag + Menos de 4.5 córners de Sparta Rotterdam): cuota Unibet aprox. 3.67 (producto de piernas) · prob. 34% · ventaja +25% → 1 u en la banca de simulación  
-
-## Den Haag vs Sparta Rotterdam — 07/11 · 18:45
-
-👀 candidata · 🇳🇱 Eredivisie · **Más de 4.5 córners de Den Haag** @ **1.50** (Unibet) · prob 63% vs casas 62% · ventaja -6%
-
-- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.54 - 1.77)  
-1 30% · X 28% · 2 43%  
-1X 57% · X2 70% · 12 72%  
-+1.5 85% · +2.5 64% · +3.5 42% · Ambos marcan 66%  
-Marcadores: 1-1 10% · 1-2 9% · 2-1 8% · 2-2 7%  
-🔎 **Claves**  
-• Forma: Den Haag ➖➖✅❌❌ | Sparta Rotterdam ❌➖✅❌✅  
-• H2H: 8 desde 2016: 3V-1E-4D · 2.9 goles/partido · +2.5 en 50%  
-• Bajas: Den Haag: 0 fuera, 2 duda; Sparta Rotterdam: 1 fuera, 1 duda (Bruno Martins Indi)  
-• Favorito de las casas: Den Haag @ 2.55  
-📐 **Estadísticas esperadas**  
-Córners 5.9 - 4.4: total +10.5 46% · Den Haag +5.5 51% · Sparta Rotterdam +4.5 44%  
-Tarjetas 1.4 - 1.9: total +3.5 40% · Den Haag +1.5 39% · Sparta Rotterdam +1.5 55%  
-Faltas 13.1 - 10.5: total +21.5 64% · Den Haag +10.5 74% · Sparta Rotterdam +11.5 36%  
-Tiros a puerta 5.9 - 5.1: total +10.5 52% · Den Haag +5.5 52% · Sparta Rotterdam +4.5 55%  
-🧩 Crear apuesta: Más de 10.5 faltas de Den Haag + Más de 2.5 goles + Menos de 1.5 tarjetas de Den Haag → prob. 26%, cuota justa 3.77 (solo vale si la casa paga más)  
-🚀 Combinada larga: Más de 10.5 faltas de Den Haag + Más de 2.5 goles + Menos de 1.5 tarjetas de Den Haag + Menos de 4.5 córners de Sparta Rotterdam + Más de 4.5 tiros a puerta de Sparta Rotterdam → prob. 8%, cuota justa 11.81  
-🎯 Simulada (con cuota: Menos de 1.5 tarjetas de Den Haag + Menos de 4.5 córners de Sparta Rotterdam): cuota Unibet aprox. 3.67 (producto de piernas) · prob. 34% · ventaja +25% → 1 u en la banca de simulación  
-
-## Den Haag vs Sparta Rotterdam — 07/11 · 18:45
-
-👀 candidata · 🇳🇱 Eredivisie · **Menos de 7.5 córners de Den Haag** @ **1.26** (Unibet) · prob 73% vs casas 73% · ventaja -8%
-
-- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.54 - 1.77)  
-1 30% · X 28% · 2 43%  
-1X 57% · X2 70% · 12 72%  
-+1.5 85% · +2.5 64% · +3.5 42% · Ambos marcan 66%  
-Marcadores: 1-1 10% · 1-2 9% · 2-1 8% · 2-2 7%  
-🔎 **Claves**  
-• Forma: Den Haag ➖➖✅❌❌ | Sparta Rotterdam ❌➖✅❌✅  
-• H2H: 8 desde 2016: 3V-1E-4D · 2.9 goles/partido · +2.5 en 50%  
-• Bajas: Den Haag: 0 fuera, 2 duda; Sparta Rotterdam: 1 fuera, 1 duda (Bruno Martins Indi)  
-• Favorito de las casas: Den Haag @ 2.55  
-📐 **Estadísticas esperadas**  
-Córners 5.9 - 4.4: total +10.5 46% · Den Haag +5.5 51% · Sparta Rotterdam +4.5 44%  
-Tarjetas 1.4 - 1.9: total +3.5 40% · Den Haag +1.5 39% · Sparta Rotterdam +1.5 55%  
-Faltas 13.1 - 10.5: total +21.5 64% · Den Haag +10.5 74% · Sparta Rotterdam +11.5 36%  
-Tiros a puerta 5.9 - 5.1: total +10.5 52% · Den Haag +5.5 52% · Sparta Rotterdam +4.5 55%  
-🧩 Crear apuesta: Más de 10.5 faltas de Den Haag + Más de 2.5 goles + Menos de 1.5 tarjetas de Den Haag → prob. 26%, cuota justa 3.77 (solo vale si la casa paga más)  
-🚀 Combinada larga: Más de 10.5 faltas de Den Haag + Más de 2.5 goles + Menos de 1.5 tarjetas de Den Haag + Menos de 4.5 córners de Sparta Rotterdam + Más de 4.5 tiros a puerta de Sparta Rotterdam → prob. 8%, cuota justa 11.81  
-🎯 Simulada (con cuota: Menos de 1.5 tarjetas de Den Haag + Menos de 4.5 córners de Sparta Rotterdam): cuota Unibet aprox. 3.67 (producto de piernas) · prob. 34% · ventaja +25% → 1 u en la banca de simulación  
-
-## Den Haag vs Sparta Rotterdam — 07/11 · 18:45
-
-👀 candidata · 🇳🇱 Eredivisie · **Más de 7.5 córners** @ **1.16** (Unibet) · prob 79% vs casas 79% · ventaja -8%
-
-- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.54 - 1.77)  
-1 30% · X 28% · 2 43%  
-1X 57% · X2 70% · 12 72%  
-+1.5 85% · +2.5 64% · +3.5 42% · Ambos marcan 66%  
-Marcadores: 1-1 10% · 1-2 9% · 2-1 8% · 2-2 7%  
-🔎 **Claves**  
-• Forma: Den Haag ➖➖✅❌❌ | Sparta Rotterdam ❌➖✅❌✅  
-• H2H: 8 desde 2016: 3V-1E-4D · 2.9 goles/partido · +2.5 en 50%  
-• Bajas: Den Haag: 0 fuera, 2 duda; Sparta Rotterdam: 1 fuera, 1 duda (Bruno Martins Indi)  
-• Favorito de las casas: Den Haag @ 2.55  
-📐 **Estadísticas esperadas**  
-Córners 5.9 - 4.4: total +10.5 46% · Den Haag +5.5 51% · Sparta Rotterdam +4.5 44%  
-Tarjetas 1.4 - 1.9: total +3.5 40% · Den Haag +1.5 39% · Sparta Rotterdam +1.5 55%  
-Faltas 13.1 - 10.5: total +21.5 64% · Den Haag +10.5 74% · Sparta Rotterdam +11.5 36%  
-Tiros a puerta 5.9 - 5.1: total +10.5 52% · Den Haag +5.5 52% · Sparta Rotterdam +4.5 55%  
-🧩 Crear apuesta: Más de 10.5 faltas de Den Haag + Más de 2.5 goles + Menos de 1.5 tarjetas de Den Haag → prob. 26%, cuota justa 3.77 (solo vale si la casa paga más)  
-🚀 Combinada larga: Más de 10.5 faltas de Den Haag + Más de 2.5 goles + Menos de 1.5 tarjetas de Den Haag + Menos de 4.5 córners de Sparta Rotterdam + Más de 4.5 tiros a puerta de Sparta Rotterdam → prob. 8%, cuota justa 11.81  
-🎯 Simulada (con cuota: Menos de 1.5 tarjetas de Den Haag + Menos de 4.5 córners de Sparta Rotterdam): cuota Unibet aprox. 3.67 (producto de piernas) · prob. 34% · ventaja +25% → 1 u en la banca de simulación  
-
-## Den Haag vs Sparta Rotterdam — 07/11 · 18:45
-
-👀 candidata · 🇳🇱 Eredivisie · **Menos de 9.5 córners** @ **2.35** (Unibet) · prob 41% vs casas 39% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.54 - 1.77)  
-1 30% · X 28% · 2 43%  
-1X 57% · X2 70% · 12 72%  
-+1.5 85% · +2.5 64% · +3.5 42% · Ambos marcan 66%  
-Marcadores: 1-1 10% · 1-2 9% · 2-1 8% · 2-2 7%  
-🔎 **Claves**  
-• Forma: Den Haag ➖➖✅❌❌ | Sparta Rotterdam ❌➖✅❌✅  
-• H2H: 8 desde 2016: 3V-1E-4D · 2.9 goles/partido · +2.5 en 50%  
-• Bajas: Den Haag: 0 fuera, 2 duda; Sparta Rotterdam: 1 fuera, 1 duda (Bruno Martins Indi)  
-• Favorito de las casas: Den Haag @ 2.55  
-📐 **Estadísticas esperadas**  
-Córners 5.9 - 4.4: total +10.5 46% · Den Haag +5.5 51% · Sparta Rotterdam +4.5 44%  
-Tarjetas 1.4 - 1.9: total +3.5 40% · Den Haag +1.5 39% · Sparta Rotterdam +1.5 55%  
-Faltas 13.1 - 10.5: total +21.5 64% · Den Haag +10.5 74% · Sparta Rotterdam +11.5 36%  
-Tiros a puerta 5.9 - 5.1: total +10.5 52% · Den Haag +5.5 52% · Sparta Rotterdam +4.5 55%  
-🧩 Crear apuesta: Más de 10.5 faltas de Den Haag + Más de 2.5 goles + Menos de 1.5 tarjetas de Den Haag → prob. 26%, cuota justa 3.77 (solo vale si la casa paga más)  
-🚀 Combinada larga: Más de 10.5 faltas de Den Haag + Más de 2.5 goles + Menos de 1.5 tarjetas de Den Haag + Menos de 4.5 córners de Sparta Rotterdam + Más de 4.5 tiros a puerta de Sparta Rotterdam → prob. 8%, cuota justa 11.81  
-🎯 Simulada (con cuota: Menos de 1.5 tarjetas de Den Haag + Menos de 4.5 córners de Sparta Rotterdam): cuota Unibet aprox. 3.67 (producto de piernas) · prob. 34% · ventaja +25% → 1 u en la banca de simulación  
-
-## Aberdeen vs Hibernian — 07/11 · 18:45
-
-👀 candidata · 🏴 Premiership escocesa · **Más de 3.5 córners de Hibernian** @ **1.36** (Unibet) · prob 66% vs casas 67% · ventaja -10%
-
-- ❌ Valor: ventaja -10% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.30 - 1.18)  
-1 37% · X 30% · 2 33%  
-1X 67% · X2 63% · 12 70%  
-+1.5 71% · +2.5 45% · +3.5 24% · Ambos marcan 51%  
-Marcadores: 1-1 13% · 1-0 10% · 0-1 9% · 0-0 9%  
-🔎 **Claves**  
-• Forma: Aberdeen ➖❌✅❌❌ | Hibernian ➖❌❌❌➖  
-• H2H: 69 desde 2005: 30V-19E-20D · 2.4 goles/partido · +2.5 en 45%  
-• Bajas: Aberdeen: sin bajas; Hibernian: 0 fuera, 1 duda  
-• Favorito de las casas: Aberdeen @ 2.45  
-📐 **Estadísticas esperadas**  
-Córners 5.7 - 4.8: total +11.5 37% · Aberdeen +6.5 36% · Hibernian +4.5 50%  
-Tarjetas 2.1 - 2.3: total +4.5 45% · Aberdeen +2.5 36% · Hibernian +2.5 40%  
-Faltas 12.7 - 12.6: total +23.5 62% · Aberdeen +12.5 50% · Hibernian +12.5 49%  
-Tiros a puerta 4.4 - 3.7: total +9.5 29% · Aberdeen +5.5 28% · Hibernian +4.5 31%  
-🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Aberdeen + Menos de 6.5 córners de Aberdeen + Menos de 2.5 tarjetas de Aberdeen → prob. 31%, cuota justa 3.25 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 tiros a puerta de Aberdeen + Menos de 6.5 córners de Aberdeen + Menos de 2.5 tarjetas de Aberdeen + Más de 23.5 faltas → prob. 18%, cuota justa 5.57  
-🎯 No simulada (crear apuesta): cuota Unibet aprox. 2.85 (producto de piernas) · prob. 31% · ventaja -12%  
-🎯 No simulada (con cuota: Menos de 5.5 tiros a puerta de Aberdeen + Menos de 6.5 córners de Aberdeen): cuota Unibet aprox. 1.90 (producto de piernas) · prob. 49% · ventaja -6%  
-
-## Aberdeen vs Hibernian — 07/11 · 18:45
-
-👀 candidata · 🏴 Premiership escocesa · **Menos de 5.5 córners de Hibernian** @ **1.55** (Unibet) · prob 62% vs casas 59% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.30 - 1.18)  
-1 37% · X 30% · 2 33%  
-1X 67% · X2 63% · 12 70%  
-+1.5 71% · +2.5 45% · +3.5 24% · Ambos marcan 51%  
-Marcadores: 1-1 13% · 1-0 10% · 0-1 9% · 0-0 9%  
-🔎 **Claves**  
-• Forma: Aberdeen ➖❌✅❌❌ | Hibernian ➖❌❌❌➖  
-• H2H: 69 desde 2005: 30V-19E-20D · 2.4 goles/partido · +2.5 en 45%  
-• Bajas: Aberdeen: sin bajas; Hibernian: 0 fuera, 1 duda  
-• Favorito de las casas: Aberdeen @ 2.45  
-📐 **Estadísticas esperadas**  
-Córners 5.7 - 4.8: total +11.5 37% · Aberdeen +6.5 36% · Hibernian +4.5 50%  
-Tarjetas 2.1 - 2.3: total +4.5 45% · Aberdeen +2.5 36% · Hibernian +2.5 40%  
-Faltas 12.7 - 12.6: total +23.5 62% · Aberdeen +12.5 50% · Hibernian +12.5 49%  
-Tiros a puerta 4.4 - 3.7: total +9.5 29% · Aberdeen +5.5 28% · Hibernian +4.5 31%  
-🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Aberdeen + Menos de 6.5 córners de Aberdeen + Menos de 2.5 tarjetas de Aberdeen → prob. 31%, cuota justa 3.25 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 tiros a puerta de Aberdeen + Menos de 6.5 córners de Aberdeen + Menos de 2.5 tarjetas de Aberdeen + Más de 23.5 faltas → prob. 18%, cuota justa 5.57  
-🎯 No simulada (crear apuesta): cuota Unibet aprox. 2.85 (producto de piernas) · prob. 31% · ventaja -12%  
-🎯 No simulada (con cuota: Menos de 5.5 tiros a puerta de Aberdeen + Menos de 6.5 córners de Aberdeen): cuota Unibet aprox. 1.90 (producto de piernas) · prob. 49% · ventaja -6%  
-
-## Aberdeen vs Hibernian — 07/11 · 18:45
-
-👀 candidata · 🏴 Premiership escocesa · **Más de 4.5 córners de Aberdeen** @ **1.50** (Unibet) · prob 62% vs casas 61% · ventaja -8%
-
-- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.30 - 1.18)  
-1 37% · X 30% · 2 33%  
-1X 67% · X2 63% · 12 70%  
-+1.5 71% · +2.5 45% · +3.5 24% · Ambos marcan 51%  
-Marcadores: 1-1 13% · 1-0 10% · 0-1 9% · 0-0 9%  
-🔎 **Claves**  
-• Forma: Aberdeen ➖❌✅❌❌ | Hibernian ➖❌❌❌➖  
-• H2H: 69 desde 2005: 30V-19E-20D · 2.4 goles/partido · +2.5 en 45%  
-• Bajas: Aberdeen: sin bajas; Hibernian: 0 fuera, 1 duda  
-• Favorito de las casas: Aberdeen @ 2.45  
-📐 **Estadísticas esperadas**  
-Córners 5.7 - 4.8: total +11.5 37% · Aberdeen +6.5 36% · Hibernian +4.5 50%  
-Tarjetas 2.1 - 2.3: total +4.5 45% · Aberdeen +2.5 36% · Hibernian +2.5 40%  
-Faltas 12.7 - 12.6: total +23.5 62% · Aberdeen +12.5 50% · Hibernian +12.5 49%  
-Tiros a puerta 4.4 - 3.7: total +9.5 29% · Aberdeen +5.5 28% · Hibernian +4.5 31%  
-🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Aberdeen + Menos de 6.5 córners de Aberdeen + Menos de 2.5 tarjetas de Aberdeen → prob. 31%, cuota justa 3.25 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 tiros a puerta de Aberdeen + Menos de 6.5 córners de Aberdeen + Menos de 2.5 tarjetas de Aberdeen + Más de 23.5 faltas → prob. 18%, cuota justa 5.57  
-🎯 No simulada (crear apuesta): cuota Unibet aprox. 2.85 (producto de piernas) · prob. 31% · ventaja -12%  
-🎯 No simulada (con cuota: Menos de 5.5 tiros a puerta de Aberdeen + Menos de 6.5 córners de Aberdeen): cuota Unibet aprox. 1.90 (producto de piernas) · prob. 49% · ventaja -6%  
-
-## Aberdeen vs Hibernian — 07/11 · 18:45
-
-👀 candidata · 🏴 Premiership escocesa · **Menos de 7.5 córners de Aberdeen** @ **1.27** (Unibet) · prob 74% vs casas 72% · ventaja -7%
-
-- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.30 - 1.18)  
-1 37% · X 30% · 2 33%  
-1X 67% · X2 63% · 12 70%  
-+1.5 71% · +2.5 45% · +3.5 24% · Ambos marcan 51%  
-Marcadores: 1-1 13% · 1-0 10% · 0-1 9% · 0-0 9%  
-🔎 **Claves**  
-• Forma: Aberdeen ➖❌✅❌❌ | Hibernian ➖❌❌❌➖  
-• H2H: 69 desde 2005: 30V-19E-20D · 2.4 goles/partido · +2.5 en 45%  
-• Bajas: Aberdeen: sin bajas; Hibernian: 0 fuera, 1 duda  
-• Favorito de las casas: Aberdeen @ 2.45  
-📐 **Estadísticas esperadas**  
-Córners 5.7 - 4.8: total +11.5 37% · Aberdeen +6.5 36% · Hibernian +4.5 50%  
-Tarjetas 2.1 - 2.3: total +4.5 45% · Aberdeen +2.5 36% · Hibernian +2.5 40%  
-Faltas 12.7 - 12.6: total +23.5 62% · Aberdeen +12.5 50% · Hibernian +12.5 49%  
-Tiros a puerta 4.4 - 3.7: total +9.5 29% · Aberdeen +5.5 28% · Hibernian +4.5 31%  
-🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Aberdeen + Menos de 6.5 córners de Aberdeen + Menos de 2.5 tarjetas de Aberdeen → prob. 31%, cuota justa 3.25 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 tiros a puerta de Aberdeen + Menos de 6.5 córners de Aberdeen + Menos de 2.5 tarjetas de Aberdeen + Más de 23.5 faltas → prob. 18%, cuota justa 5.57  
-🎯 No simulada (crear apuesta): cuota Unibet aprox. 2.85 (producto de piernas) · prob. 31% · ventaja -12%  
-🎯 No simulada (con cuota: Menos de 5.5 tiros a puerta de Aberdeen + Menos de 6.5 córners de Aberdeen): cuota Unibet aprox. 1.90 (producto de piernas) · prob. 49% · ventaja -6%  
-
-## Aberdeen vs Hibernian — 07/11 · 18:45
-
-👀 candidata · 🏴 Premiership escocesa · **Más de 8.5 córners** @ **1.29** (Unibet) · prob 71% vs casas 71% · ventaja -9%
-
-- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.30 - 1.18)  
-1 37% · X 30% · 2 33%  
-1X 67% · X2 63% · 12 70%  
-+1.5 71% · +2.5 45% · +3.5 24% · Ambos marcan 51%  
-Marcadores: 1-1 13% · 1-0 10% · 0-1 9% · 0-0 9%  
-🔎 **Claves**  
-• Forma: Aberdeen ➖❌✅❌❌ | Hibernian ➖❌❌❌➖  
-• H2H: 69 desde 2005: 30V-19E-20D · 2.4 goles/partido · +2.5 en 45%  
-• Bajas: Aberdeen: sin bajas; Hibernian: 0 fuera, 1 duda  
-• Favorito de las casas: Aberdeen @ 2.45  
-📐 **Estadísticas esperadas**  
-Córners 5.7 - 4.8: total +11.5 37% · Aberdeen +6.5 36% · Hibernian +4.5 50%  
-Tarjetas 2.1 - 2.3: total +4.5 45% · Aberdeen +2.5 36% · Hibernian +2.5 40%  
-Faltas 12.7 - 12.6: total +23.5 62% · Aberdeen +12.5 50% · Hibernian +12.5 49%  
-Tiros a puerta 4.4 - 3.7: total +9.5 29% · Aberdeen +5.5 28% · Hibernian +4.5 31%  
-🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Aberdeen + Menos de 6.5 córners de Aberdeen + Menos de 2.5 tarjetas de Aberdeen → prob. 31%, cuota justa 3.25 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 tiros a puerta de Aberdeen + Menos de 6.5 córners de Aberdeen + Menos de 2.5 tarjetas de Aberdeen + Más de 23.5 faltas → prob. 18%, cuota justa 5.57  
-🎯 No simulada (crear apuesta): cuota Unibet aprox. 2.85 (producto de piernas) · prob. 31% · ventaja -12%  
-🎯 No simulada (con cuota: Menos de 5.5 tiros a puerta de Aberdeen + Menos de 6.5 córners de Aberdeen): cuota Unibet aprox. 1.90 (producto de piernas) · prob. 49% · ventaja -6%  
-
-## Aberdeen vs Hibernian — 07/11 · 18:45
-
-👀 candidata · 🏴 Premiership escocesa · **Menos de 12.5 córners** @ **1.37** (Unibet) · prob 70% vs casas 67% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.30 - 1.18)  
-1 37% · X 30% · 2 33%  
-1X 67% · X2 63% · 12 70%  
-+1.5 71% · +2.5 45% · +3.5 24% · Ambos marcan 51%  
-Marcadores: 1-1 13% · 1-0 10% · 0-1 9% · 0-0 9%  
-🔎 **Claves**  
-• Forma: Aberdeen ➖❌✅❌❌ | Hibernian ➖❌❌❌➖  
-• H2H: 69 desde 2005: 30V-19E-20D · 2.4 goles/partido · +2.5 en 45%  
-• Bajas: Aberdeen: sin bajas; Hibernian: 0 fuera, 1 duda  
-• Favorito de las casas: Aberdeen @ 2.45  
-📐 **Estadísticas esperadas**  
-Córners 5.7 - 4.8: total +11.5 37% · Aberdeen +6.5 36% · Hibernian +4.5 50%  
-Tarjetas 2.1 - 2.3: total +4.5 45% · Aberdeen +2.5 36% · Hibernian +2.5 40%  
-Faltas 12.7 - 12.6: total +23.5 62% · Aberdeen +12.5 50% · Hibernian +12.5 49%  
-Tiros a puerta 4.4 - 3.7: total +9.5 29% · Aberdeen +5.5 28% · Hibernian +4.5 31%  
-🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Aberdeen + Menos de 6.5 córners de Aberdeen + Menos de 2.5 tarjetas de Aberdeen → prob. 31%, cuota justa 3.25 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 tiros a puerta de Aberdeen + Menos de 6.5 córners de Aberdeen + Menos de 2.5 tarjetas de Aberdeen + Más de 23.5 faltas → prob. 18%, cuota justa 5.57  
-🎯 No simulada (crear apuesta): cuota Unibet aprox. 2.85 (producto de piernas) · prob. 31% · ventaja -12%  
-🎯 No simulada (con cuota: Menos de 5.5 tiros a puerta de Aberdeen + Menos de 6.5 córners de Aberdeen): cuota Unibet aprox. 1.90 (producto de piernas) · prob. 49% · ventaja -6%  
-
-## Gimnasia Mendoza vs Ind. Rivadavia — 07/11 · 19:00
-
-👀 candidata · 🇦🇷 Liga Profesional · **Gana Gimnasia Mendoza** @ **3.30** (Bet365) · prob 29% vs casas 29% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.29 - 0.87)  
-1 40% · X 30% · 2 30%  
-1X 70% · X2 60% · 12 70%  
-+1.5 64% · +2.5 37% · +3.5 17% · Ambos marcan 43%  
-Marcadores: 1-0 14% · 1-1 14% · 0-0 12% · 2-0 10%  
-🔎 **Claves**  
-• Forma: Gimnasia Mendoza ❌✅❌❌➖ | Ind. Rivadavia ➖❌➖❌✅  
-• H2H: 1 desde 2026: 0V-0E-1D · 6.0 goles/partido · +2.5 en 100%  
-• Bajas: Gimnasia Mendoza: sin bajas; Ind. Rivadavia: sin bajas  
-• Favorito de las casas: Ind. Rivadavia @ 2.30  
-
-## Talleres Cordoba vs Estudiantes L.P. — 07/11 · 19:00
-
-👀 candidata · 🇦🇷 Liga Profesional · **Empate** @ **3.20** (Bet365) · prob 30% vs casas 30% · ventaja -5%
-
-- ❌ Valor: ventaja -5% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ empate» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.11 - 0.97)  
-1 39% · X 30% · 2 32%  
-1X 68% · X2 61% · 12 70%  
-+1.5 62% · +2.5 35% · +3.5 16% · Ambos marcan 42%  
-Marcadores: 1-1 14% · 1-0 13% · 0-0 13% · 0-1 11%  
-🔎 **Claves**  
-• Forma: Talleres Cordoba ❌➖❌❌✅ | Estudiantes L.P. ✅➖❌❌➖  
-• H2H: 9 desde 2016: 3V-2E-4D · 0.9 goles/partido · +2.5 en 0%  
-• Bajas: Talleres Cordoba: sin bajas; Estudiantes L.P.: sin bajas  
-• Favorito de las casas: Talleres Cordoba @ 2.65  
-
-## Auxerre vs Paris FC — 07/11 · 19:00
-
-👀 candidata · 🇫🇷 Ligue 1 · **Auxerre +0.75 (hándicap asiático)** @ **1.85** (mejor del mercado) · prob 53% vs casas 52% · ventaja -2%
-
-- ❌ Valor: ventaja -2% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ hándicap» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.10 - 0.95)  
-1 30% · X 32% · 2 39%  
-1X 61% · X2 70% · 12 68%  
-+1.5 61% · +2.5 34% · +3.5 15% · Ambos marcan 42%  
-Marcadores: 1-1 14% · 0-0 14% · 1-0 13% · 0-1 12%  
-🔎 **Claves**  
-• Forma: Auxerre ✅❌✅➖❌ | Paris FC ✅❌✅❌✅  
-• H2H: 15 desde 2015: 4V-6E-5D · 2.1 goles/partido · +2.5 en 33%  
-• Bajas: Auxerre: 2 fuera, 1 duda (Assane Diousse, Bryan Okoh); Paris FC: 2 fuera, 4 duda (Mamadou Mbow, Nhoa Sangui)  
-• Favorito de las casas: Paris FC @ 1.78  
-📐 **Estadísticas esperadas**  
-Córners 4.9 - 4.6: total +10.5 36% · Auxerre +5.5 37% · Paris FC +4.5 47%  
-Tarjetas 1.7 - 2.2: total +4.5 35% · Auxerre +2.5 24% · Paris FC +2.5 37%  
-Faltas 12.4 - 11.5: total +24.5 44% · Auxerre +11.5 58% · Paris FC +12.5 37%  
-Tiros a puerta 4.2 - 4.3: total +9.5 35% · Auxerre +5.5 26% · Paris FC +4.5 42%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Auxerre + Menos de 5.5 tiros a puerta de Auxerre + Menos de 2.5 goles → prob. 41%, cuota justa 2.46 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Auxerre + Menos de 5.5 tiros a puerta de Auxerre + Menos de 2.5 goles + Menos de 10.5 córners + Menos de 12.5 faltas de Paris FC → prob. 16%, cuota justa 6.22  
-🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Auxerre + Menos de 2.5 goles + Menos de 10.5 córners): cuota Unibet aprox. 4.82 (producto de piernas) · prob. 32% · ventaja +55% → 1 u en la banca de simulación  
-
-## Alverca vs Casa Pia — 07/11 · 19:00
-
-👀 candidata · 🇵🇹 Primeira Liga · **Casa Pia +0.75 (hándicap asiático)** @ **1.83** (mejor del mercado) · prob 53% vs casas 52% · ventaja -3%
-
-- ❌ Valor: ventaja -3% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ hándicap» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.21 - 1.06)  
-1 53% · X 27% · 2 20%  
-1X 80% · X2 47% · 12 73%  
-+1.5 67% · +2.5 40% · +3.5 19% · Ambos marcan 46%  
-Marcadores: 1-1 14% · 1-0 12% · 0-0 11% · 0-1 10%  
-🔎 **Claves**  
-• Forma: Alverca ✅✅✅❌❌ | Casa Pia ❌✅❌✅❌  
-• H2H: 2 desde 2025: 2V-0E-0D · 3.0 goles/partido · +2.5 en 50%  
-• Bajas: Alverca: 4 fuera, 0 duda (Steven Baseya, Andre Vidigal, Noah Raveyre); Casa Pia: 0 fuera, 2 duda  
-• Favorito de las casas: Alverca @ 1.75  
-📐 **Estadísticas esperadas**  
-Córners 6.2 - 3.5: total +9.5 50% · Alverca +5.5 55% · Casa Pia +4.5 29%  
-Tarjetas 2.1 - 2.6: total +5.5 32% · Alverca +2.5 34% · Casa Pia +2.5 47%  
-Faltas 12.5 - 13.3: total +26.5 43% · Alverca +13.5 37% · Casa Pia +13.5 46%  
-Tiros a puerta 4.7 - 3.2: total +8.5 39% · Alverca +4.5 49% · Casa Pia +3.5 40%  
-🧩 Crear apuesta: Menos de 4.5 córners de Casa Pia + Menos de 5.5 tarjetas + Menos de 13.5 faltas de Alverca → prob. 32%, cuota justa 3.13 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 córners de Casa Pia + Menos de 5.5 tarjetas + Menos de 13.5 faltas de Alverca + Menos de 8.5 tiros a puerta + Menos de 2.5 goles → prob. 14%, cuota justa 7.29  
-🎯 Simulada (con cuota: Menos de 4.5 córners de Casa Pia + Menos de 2.5 goles): cuota Unibet aprox. 2.73 (producto de piernas) · prob. 43% · ventaja +16% → 1 u en la banca de simulación  
-
-## Auxerre vs Paris FC — 07/11 · 19:00
-
-👀 candidata · 🇫🇷 Ligue 1 · **Más de 7.5 córners** @ **1.23** (Unibet) · prob 73% vs casas 74% · ventaja -10%
-
-- ❌ Valor: ventaja -10% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.10 - 0.95)  
-1 30% · X 32% · 2 39%  
-1X 61% · X2 70% · 12 68%  
-+1.5 61% · +2.5 34% · +3.5 15% · Ambos marcan 42%  
-Marcadores: 1-1 14% · 0-0 14% · 1-0 13% · 0-1 12%  
-🔎 **Claves**  
-• Forma: Auxerre ✅❌✅➖❌ | Paris FC ✅❌✅❌✅  
-• H2H: 15 desde 2015: 4V-6E-5D · 2.1 goles/partido · +2.5 en 33%  
-• Bajas: Auxerre: 2 fuera, 1 duda (Assane Diousse, Bryan Okoh); Paris FC: 2 fuera, 4 duda (Mamadou Mbow, Nhoa Sangui)  
-• Favorito de las casas: Paris FC @ 1.78  
-📐 **Estadísticas esperadas**  
-Córners 4.9 - 4.6: total +10.5 36% · Auxerre +5.5 37% · Paris FC +4.5 47%  
-Tarjetas 1.7 - 2.2: total +4.5 35% · Auxerre +2.5 24% · Paris FC +2.5 37%  
-Faltas 12.4 - 11.5: total +24.5 44% · Auxerre +11.5 58% · Paris FC +12.5 37%  
-Tiros a puerta 4.2 - 4.3: total +9.5 35% · Auxerre +5.5 26% · Paris FC +4.5 42%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Auxerre + Menos de 5.5 tiros a puerta de Auxerre + Menos de 2.5 goles → prob. 41%, cuota justa 2.46 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Auxerre + Menos de 5.5 tiros a puerta de Auxerre + Menos de 2.5 goles + Menos de 10.5 córners + Menos de 12.5 faltas de Paris FC → prob. 16%, cuota justa 6.22  
-🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Auxerre + Menos de 2.5 goles + Menos de 10.5 córners): cuota Unibet aprox. 4.82 (producto de piernas) · prob. 32% · ventaja +55% → 1 u en la banca de simulación  
-
-## Auxerre vs Paris FC — 07/11 · 19:00
-
-👀 candidata · 🇫🇷 Ligue 1 · **Menos de 8.5 córners** @ **2.60** (Unibet) · prob 38% vs casas 35% · ventaja -2%
-
-- ❌ Valor: ventaja -2% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.10 - 0.95)  
-1 30% · X 32% · 2 39%  
-1X 61% · X2 70% · 12 68%  
-+1.5 61% · +2.5 34% · +3.5 15% · Ambos marcan 42%  
-Marcadores: 1-1 14% · 0-0 14% · 1-0 13% · 0-1 12%  
-🔎 **Claves**  
-• Forma: Auxerre ✅❌✅➖❌ | Paris FC ✅❌✅❌✅  
-• H2H: 15 desde 2015: 4V-6E-5D · 2.1 goles/partido · +2.5 en 33%  
-• Bajas: Auxerre: 2 fuera, 1 duda (Assane Diousse, Bryan Okoh); Paris FC: 2 fuera, 4 duda (Mamadou Mbow, Nhoa Sangui)  
-• Favorito de las casas: Paris FC @ 1.78  
-📐 **Estadísticas esperadas**  
-Córners 4.9 - 4.6: total +10.5 36% · Auxerre +5.5 37% · Paris FC +4.5 47%  
-Tarjetas 1.7 - 2.2: total +4.5 35% · Auxerre +2.5 24% · Paris FC +2.5 37%  
-Faltas 12.4 - 11.5: total +24.5 44% · Auxerre +11.5 58% · Paris FC +12.5 37%  
-Tiros a puerta 4.2 - 4.3: total +9.5 35% · Auxerre +5.5 26% · Paris FC +4.5 42%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Auxerre + Menos de 5.5 tiros a puerta de Auxerre + Menos de 2.5 goles → prob. 41%, cuota justa 2.46 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Auxerre + Menos de 5.5 tiros a puerta de Auxerre + Menos de 2.5 goles + Menos de 10.5 córners + Menos de 12.5 faltas de Paris FC → prob. 16%, cuota justa 6.22  
-🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Auxerre + Menos de 2.5 goles + Menos de 10.5 córners): cuota Unibet aprox. 4.82 (producto de piernas) · prob. 32% · ventaja +55% → 1 u en la banca de simulación  
-
-## Auxerre vs Paris FC — 07/11 · 19:00
-
-👀 candidata · 🇫🇷 Ligue 1 · **Más de 3.5 córners de Auxerre** @ **1.43** (Unibet) · prob 66% vs casas 64% · ventaja -6%
-
-- ❌ Valor: ventaja -6% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.10 - 0.95)  
-1 30% · X 32% · 2 39%  
-1X 61% · X2 70% · 12 68%  
-+1.5 61% · +2.5 34% · +3.5 15% · Ambos marcan 42%  
-Marcadores: 1-1 14% · 0-0 14% · 1-0 13% · 0-1 12%  
-🔎 **Claves**  
-• Forma: Auxerre ✅❌✅➖❌ | Paris FC ✅❌✅❌✅  
-• H2H: 15 desde 2015: 4V-6E-5D · 2.1 goles/partido · +2.5 en 33%  
-• Bajas: Auxerre: 2 fuera, 1 duda (Assane Diousse, Bryan Okoh); Paris FC: 2 fuera, 4 duda (Mamadou Mbow, Nhoa Sangui)  
-• Favorito de las casas: Paris FC @ 1.78  
-📐 **Estadísticas esperadas**  
-Córners 4.9 - 4.6: total +10.5 36% · Auxerre +5.5 37% · Paris FC +4.5 47%  
-Tarjetas 1.7 - 2.2: total +4.5 35% · Auxerre +2.5 24% · Paris FC +2.5 37%  
-Faltas 12.4 - 11.5: total +24.5 44% · Auxerre +11.5 58% · Paris FC +12.5 37%  
-Tiros a puerta 4.2 - 4.3: total +9.5 35% · Auxerre +5.5 26% · Paris FC +4.5 42%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Auxerre + Menos de 5.5 tiros a puerta de Auxerre + Menos de 2.5 goles → prob. 41%, cuota justa 2.46 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Auxerre + Menos de 5.5 tiros a puerta de Auxerre + Menos de 2.5 goles + Menos de 10.5 córners + Menos de 12.5 faltas de Paris FC → prob. 16%, cuota justa 6.22  
-🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Auxerre + Menos de 2.5 goles + Menos de 10.5 córners): cuota Unibet aprox. 4.82 (producto de piernas) · prob. 32% · ventaja +55% → 1 u en la banca de simulación  
-
-## Auxerre vs Paris FC — 07/11 · 19:00
-
-👀 candidata · 🇫🇷 Ligue 1 · **Menos de 6.5 córners de Auxerre** @ **1.25** (Unibet) · prob 74% vs casas 73% · ventaja -8%
-
-- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.10 - 0.95)  
-1 30% · X 32% · 2 39%  
-1X 61% · X2 70% · 12 68%  
-+1.5 61% · +2.5 34% · +3.5 15% · Ambos marcan 42%  
-Marcadores: 1-1 14% · 0-0 14% · 1-0 13% · 0-1 12%  
-🔎 **Claves**  
-• Forma: Auxerre ✅❌✅➖❌ | Paris FC ✅❌✅❌✅  
-• H2H: 15 desde 2015: 4V-6E-5D · 2.1 goles/partido · +2.5 en 33%  
-• Bajas: Auxerre: 2 fuera, 1 duda (Assane Diousse, Bryan Okoh); Paris FC: 2 fuera, 4 duda (Mamadou Mbow, Nhoa Sangui)  
-• Favorito de las casas: Paris FC @ 1.78  
-📐 **Estadísticas esperadas**  
-Córners 4.9 - 4.6: total +10.5 36% · Auxerre +5.5 37% · Paris FC +4.5 47%  
-Tarjetas 1.7 - 2.2: total +4.5 35% · Auxerre +2.5 24% · Paris FC +2.5 37%  
-Faltas 12.4 - 11.5: total +24.5 44% · Auxerre +11.5 58% · Paris FC +12.5 37%  
-Tiros a puerta 4.2 - 4.3: total +9.5 35% · Auxerre +5.5 26% · Paris FC +4.5 42%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Auxerre + Menos de 5.5 tiros a puerta de Auxerre + Menos de 2.5 goles → prob. 41%, cuota justa 2.46 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Auxerre + Menos de 5.5 tiros a puerta de Auxerre + Menos de 2.5 goles + Menos de 10.5 córners + Menos de 12.5 faltas de Paris FC → prob. 16%, cuota justa 6.22  
-🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Auxerre + Menos de 2.5 goles + Menos de 10.5 córners): cuota Unibet aprox. 4.82 (producto de piernas) · prob. 32% · ventaja +55% → 1 u en la banca de simulación  
-
-## Auxerre vs Paris FC — 07/11 · 19:00
-
-👀 candidata · 🇫🇷 Ligue 1 · **Más de 3.5 córners de Paris FC** @ **1.33** (Unibet) · prob 66% vs casas 69% · ventaja -12%
-
-- ❌ Valor: ventaja -12% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.10 - 0.95)  
-1 30% · X 32% · 2 39%  
-1X 61% · X2 70% · 12 68%  
-+1.5 61% · +2.5 34% · +3.5 15% · Ambos marcan 42%  
-Marcadores: 1-1 14% · 0-0 14% · 1-0 13% · 0-1 12%  
-🔎 **Claves**  
-• Forma: Auxerre ✅❌✅➖❌ | Paris FC ✅❌✅❌✅  
-• H2H: 15 desde 2015: 4V-6E-5D · 2.1 goles/partido · +2.5 en 33%  
-• Bajas: Auxerre: 2 fuera, 1 duda (Assane Diousse, Bryan Okoh); Paris FC: 2 fuera, 4 duda (Mamadou Mbow, Nhoa Sangui)  
-• Favorito de las casas: Paris FC @ 1.78  
-📐 **Estadísticas esperadas**  
-Córners 4.9 - 4.6: total +10.5 36% · Auxerre +5.5 37% · Paris FC +4.5 47%  
-Tarjetas 1.7 - 2.2: total +4.5 35% · Auxerre +2.5 24% · Paris FC +2.5 37%  
-Faltas 12.4 - 11.5: total +24.5 44% · Auxerre +11.5 58% · Paris FC +12.5 37%  
-Tiros a puerta 4.2 - 4.3: total +9.5 35% · Auxerre +5.5 26% · Paris FC +4.5 42%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Auxerre + Menos de 5.5 tiros a puerta de Auxerre + Menos de 2.5 goles → prob. 41%, cuota justa 2.46 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Auxerre + Menos de 5.5 tiros a puerta de Auxerre + Menos de 2.5 goles + Menos de 10.5 córners + Menos de 12.5 faltas de Paris FC → prob. 16%, cuota justa 6.22  
-🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Auxerre + Menos de 2.5 goles + Menos de 10.5 córners): cuota Unibet aprox. 4.82 (producto de piernas) · prob. 32% · ventaja +55% → 1 u en la banca de simulación  
-
-## Auxerre vs Paris FC — 07/11 · 19:00
-
-👀 candidata · 🇫🇷 Ligue 1 · **Menos de 4.5 córners de Paris FC** @ **2.06** (Unibet) · prob 49% vs casas 45% · ventaja +1%
-
-- ❌ Valor: ventaja +1% (mín. 7% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.10 - 0.95)  
-1 30% · X 32% · 2 39%  
-1X 61% · X2 70% · 12 68%  
-+1.5 61% · +2.5 34% · +3.5 15% · Ambos marcan 42%  
-Marcadores: 1-1 14% · 0-0 14% · 1-0 13% · 0-1 12%  
-🔎 **Claves**  
-• Forma: Auxerre ✅❌✅➖❌ | Paris FC ✅❌✅❌✅  
-• H2H: 15 desde 2015: 4V-6E-5D · 2.1 goles/partido · +2.5 en 33%  
-• Bajas: Auxerre: 2 fuera, 1 duda (Assane Diousse, Bryan Okoh); Paris FC: 2 fuera, 4 duda (Mamadou Mbow, Nhoa Sangui)  
-• Favorito de las casas: Paris FC @ 1.78  
-📐 **Estadísticas esperadas**  
-Córners 4.9 - 4.6: total +10.5 36% · Auxerre +5.5 37% · Paris FC +4.5 47%  
-Tarjetas 1.7 - 2.2: total +4.5 35% · Auxerre +2.5 24% · Paris FC +2.5 37%  
-Faltas 12.4 - 11.5: total +24.5 44% · Auxerre +11.5 58% · Paris FC +12.5 37%  
-Tiros a puerta 4.2 - 4.3: total +9.5 35% · Auxerre +5.5 26% · Paris FC +4.5 42%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Auxerre + Menos de 5.5 tiros a puerta de Auxerre + Menos de 2.5 goles → prob. 41%, cuota justa 2.46 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de Auxerre + Menos de 5.5 tiros a puerta de Auxerre + Menos de 2.5 goles + Menos de 10.5 córners + Menos de 12.5 faltas de Paris FC → prob. 16%, cuota justa 6.22  
-🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Auxerre + Menos de 2.5 goles + Menos de 10.5 córners): cuota Unibet aprox. 4.82 (producto de piernas) · prob. 32% · ventaja +55% → 1 u en la banca de simulación  
-
-## Alverca vs Casa Pia — 07/11 · 19:00
-
-👀 candidata · 🇵🇹 Primeira Liga · **Más de 4.5 córners de Alverca** @ **1.43** (Unibet) · prob 66% vs casas 64% · ventaja -6%
-
-- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.21 - 1.06)  
-1 53% · X 27% · 2 20%  
-1X 80% · X2 47% · 12 73%  
-+1.5 67% · +2.5 40% · +3.5 19% · Ambos marcan 46%  
-Marcadores: 1-1 14% · 1-0 12% · 0-0 11% · 0-1 10%  
-🔎 **Claves**  
-• Forma: Alverca ✅✅✅❌❌ | Casa Pia ❌✅❌✅❌  
-• H2H: 2 desde 2025: 2V-0E-0D · 3.0 goles/partido · +2.5 en 50%  
-• Bajas: Alverca: 4 fuera, 0 duda (Steven Baseya, Andre Vidigal, Noah Raveyre); Casa Pia: 0 fuera, 2 duda  
-• Favorito de las casas: Alverca @ 1.75  
-📐 **Estadísticas esperadas**  
-Córners 6.2 - 3.5: total +9.5 50% · Alverca +5.5 55% · Casa Pia +4.5 29%  
-Tarjetas 2.1 - 2.6: total +5.5 32% · Alverca +2.5 34% · Casa Pia +2.5 47%  
-Faltas 12.5 - 13.3: total +26.5 43% · Alverca +13.5 37% · Casa Pia +13.5 46%  
-Tiros a puerta 4.7 - 3.2: total +8.5 39% · Alverca +4.5 49% · Casa Pia +3.5 40%  
-🧩 Crear apuesta: Menos de 4.5 córners de Casa Pia + Menos de 5.5 tarjetas + Menos de 13.5 faltas de Alverca → prob. 32%, cuota justa 3.13 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 córners de Casa Pia + Menos de 5.5 tarjetas + Menos de 13.5 faltas de Alverca + Menos de 8.5 tiros a puerta + Menos de 2.5 goles → prob. 14%, cuota justa 7.29  
-🎯 Simulada (con cuota: Menos de 4.5 córners de Casa Pia + Menos de 2.5 goles): cuota Unibet aprox. 2.73 (producto de piernas) · prob. 43% · ventaja +16% → 1 u en la banca de simulación  
-
-## Alverca vs Casa Pia — 07/11 · 19:00
-
-👀 candidata · 🇵🇹 Primeira Liga · **Menos de 7.5 córners de Alverca** @ **1.33** (Unibet) · prob 69% vs casas 69% · ventaja -8%
-
-- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.21 - 1.06)  
-1 53% · X 27% · 2 20%  
-1X 80% · X2 47% · 12 73%  
-+1.5 67% · +2.5 40% · +3.5 19% · Ambos marcan 46%  
-Marcadores: 1-1 14% · 1-0 12% · 0-0 11% · 0-1 10%  
-🔎 **Claves**  
-• Forma: Alverca ✅✅✅❌❌ | Casa Pia ❌✅❌✅❌  
-• H2H: 2 desde 2025: 2V-0E-0D · 3.0 goles/partido · +2.5 en 50%  
-• Bajas: Alverca: 4 fuera, 0 duda (Steven Baseya, Andre Vidigal, Noah Raveyre); Casa Pia: 0 fuera, 2 duda  
-• Favorito de las casas: Alverca @ 1.75  
-📐 **Estadísticas esperadas**  
-Córners 6.2 - 3.5: total +9.5 50% · Alverca +5.5 55% · Casa Pia +4.5 29%  
-Tarjetas 2.1 - 2.6: total +5.5 32% · Alverca +2.5 34% · Casa Pia +2.5 47%  
-Faltas 12.5 - 13.3: total +26.5 43% · Alverca +13.5 37% · Casa Pia +13.5 46%  
-Tiros a puerta 4.7 - 3.2: total +8.5 39% · Alverca +4.5 49% · Casa Pia +3.5 40%  
-🧩 Crear apuesta: Menos de 4.5 córners de Casa Pia + Menos de 5.5 tarjetas + Menos de 13.5 faltas de Alverca → prob. 32%, cuota justa 3.13 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 córners de Casa Pia + Menos de 5.5 tarjetas + Menos de 13.5 faltas de Alverca + Menos de 8.5 tiros a puerta + Menos de 2.5 goles → prob. 14%, cuota justa 7.29  
-🎯 Simulada (con cuota: Menos de 4.5 córners de Casa Pia + Menos de 2.5 goles): cuota Unibet aprox. 2.73 (producto de piernas) · prob. 43% · ventaja +16% → 1 u en la banca de simulación  
-
-## Alverca vs Casa Pia — 07/11 · 19:00
-
-👀 candidata · 🇵🇹 Primeira Liga · **Más de 8.5 córners** @ **1.43** (Unibet) · prob 63% vs casas 64% · ventaja -10%
-
-- ❌ Valor: ventaja -10% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.21 - 1.06)  
-1 53% · X 27% · 2 20%  
-1X 80% · X2 47% · 12 73%  
-+1.5 67% · +2.5 40% · +3.5 19% · Ambos marcan 46%  
-Marcadores: 1-1 14% · 1-0 12% · 0-0 11% · 0-1 10%  
-🔎 **Claves**  
-• Forma: Alverca ✅✅✅❌❌ | Casa Pia ❌✅❌✅❌  
-• H2H: 2 desde 2025: 2V-0E-0D · 3.0 goles/partido · +2.5 en 50%  
-• Bajas: Alverca: 4 fuera, 0 duda (Steven Baseya, Andre Vidigal, Noah Raveyre); Casa Pia: 0 fuera, 2 duda  
-• Favorito de las casas: Alverca @ 1.75  
-📐 **Estadísticas esperadas**  
-Córners 6.2 - 3.5: total +9.5 50% · Alverca +5.5 55% · Casa Pia +4.5 29%  
-Tarjetas 2.1 - 2.6: total +5.5 32% · Alverca +2.5 34% · Casa Pia +2.5 47%  
-Faltas 12.5 - 13.3: total +26.5 43% · Alverca +13.5 37% · Casa Pia +13.5 46%  
-Tiros a puerta 4.7 - 3.2: total +8.5 39% · Alverca +4.5 49% · Casa Pia +3.5 40%  
-🧩 Crear apuesta: Menos de 4.5 córners de Casa Pia + Menos de 5.5 tarjetas + Menos de 13.5 faltas de Alverca → prob. 32%, cuota justa 3.13 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 córners de Casa Pia + Menos de 5.5 tarjetas + Menos de 13.5 faltas de Alverca + Menos de 8.5 tiros a puerta + Menos de 2.5 goles → prob. 14%, cuota justa 7.29  
-🎯 Simulada (con cuota: Menos de 4.5 córners de Casa Pia + Menos de 2.5 goles): cuota Unibet aprox. 2.73 (producto de piernas) · prob. 43% · ventaja +16% → 1 u en la banca de simulación  
-
-## Alverca vs Casa Pia — 07/11 · 19:00
-
-👀 candidata · 🇵🇹 Primeira Liga · **Menos de 10.5 córners** @ **1.62** (Unibet) · prob 59% vs casas 56% · ventaja -5%
-
-- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.21 - 1.06)  
-1 53% · X 27% · 2 20%  
-1X 80% · X2 47% · 12 73%  
-+1.5 67% · +2.5 40% · +3.5 19% · Ambos marcan 46%  
-Marcadores: 1-1 14% · 1-0 12% · 0-0 11% · 0-1 10%  
-🔎 **Claves**  
-• Forma: Alverca ✅✅✅❌❌ | Casa Pia ❌✅❌✅❌  
-• H2H: 2 desde 2025: 2V-0E-0D · 3.0 goles/partido · +2.5 en 50%  
-• Bajas: Alverca: 4 fuera, 0 duda (Steven Baseya, Andre Vidigal, Noah Raveyre); Casa Pia: 0 fuera, 2 duda  
-• Favorito de las casas: Alverca @ 1.75  
-📐 **Estadísticas esperadas**  
-Córners 6.2 - 3.5: total +9.5 50% · Alverca +5.5 55% · Casa Pia +4.5 29%  
-Tarjetas 2.1 - 2.6: total +5.5 32% · Alverca +2.5 34% · Casa Pia +2.5 47%  
-Faltas 12.5 - 13.3: total +26.5 43% · Alverca +13.5 37% · Casa Pia +13.5 46%  
-Tiros a puerta 4.7 - 3.2: total +8.5 39% · Alverca +4.5 49% · Casa Pia +3.5 40%  
-🧩 Crear apuesta: Menos de 4.5 córners de Casa Pia + Menos de 5.5 tarjetas + Menos de 13.5 faltas de Alverca → prob. 32%, cuota justa 3.13 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 córners de Casa Pia + Menos de 5.5 tarjetas + Menos de 13.5 faltas de Alverca + Menos de 8.5 tiros a puerta + Menos de 2.5 goles → prob. 14%, cuota justa 7.29  
-🎯 Simulada (con cuota: Menos de 4.5 córners de Casa Pia + Menos de 2.5 goles): cuota Unibet aprox. 2.73 (producto de piernas) · prob. 43% · ventaja +16% → 1 u en la banca de simulación  
-
-## Alverca vs Casa Pia — 07/11 · 19:00
-
-👀 candidata · 🇵🇹 Primeira Liga · **Más de 3.5 córners de Casa Pia** @ **1.71** (Unibet) · prob 49% vs casas 54% · ventaja -16%
-
-- ❌ Valor: ventaja -16% (mín. 7% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.21 - 1.06)  
-1 53% · X 27% · 2 20%  
-1X 80% · X2 47% · 12 73%  
-+1.5 67% · +2.5 40% · +3.5 19% · Ambos marcan 46%  
-Marcadores: 1-1 14% · 1-0 12% · 0-0 11% · 0-1 10%  
-🔎 **Claves**  
-• Forma: Alverca ✅✅✅❌❌ | Casa Pia ❌✅❌✅❌  
-• H2H: 2 desde 2025: 2V-0E-0D · 3.0 goles/partido · +2.5 en 50%  
-• Bajas: Alverca: 4 fuera, 0 duda (Steven Baseya, Andre Vidigal, Noah Raveyre); Casa Pia: 0 fuera, 2 duda  
-• Favorito de las casas: Alverca @ 1.75  
-📐 **Estadísticas esperadas**  
-Córners 6.2 - 3.5: total +9.5 50% · Alverca +5.5 55% · Casa Pia +4.5 29%  
-Tarjetas 2.1 - 2.6: total +5.5 32% · Alverca +2.5 34% · Casa Pia +2.5 47%  
-Faltas 12.5 - 13.3: total +26.5 43% · Alverca +13.5 37% · Casa Pia +13.5 46%  
-Tiros a puerta 4.7 - 3.2: total +8.5 39% · Alverca +4.5 49% · Casa Pia +3.5 40%  
-🧩 Crear apuesta: Menos de 4.5 córners de Casa Pia + Menos de 5.5 tarjetas + Menos de 13.5 faltas de Alverca → prob. 32%, cuota justa 3.13 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 córners de Casa Pia + Menos de 5.5 tarjetas + Menos de 13.5 faltas de Alverca + Menos de 8.5 tiros a puerta + Menos de 2.5 goles → prob. 14%, cuota justa 7.29  
-🎯 Simulada (con cuota: Menos de 4.5 córners de Casa Pia + Menos de 2.5 goles): cuota Unibet aprox. 2.73 (producto de piernas) · prob. 43% · ventaja +16% → 1 u en la banca de simulación  
-
-## Alverca vs Casa Pia — 07/11 · 19:00
-
-👀 candidata · 🇵🇹 Primeira Liga · **Menos de 3.5 córners de Casa Pia** @ **1.98** (Unibet) · prob 51% vs casas 46% · ventaja +0%
-
-- ❌ Valor: ventaja +0% (mín. 7% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.21 - 1.06)  
-1 53% · X 27% · 2 20%  
-1X 80% · X2 47% · 12 73%  
-+1.5 67% · +2.5 40% · +3.5 19% · Ambos marcan 46%  
-Marcadores: 1-1 14% · 1-0 12% · 0-0 11% · 0-1 10%  
-🔎 **Claves**  
-• Forma: Alverca ✅✅✅❌❌ | Casa Pia ❌✅❌✅❌  
-• H2H: 2 desde 2025: 2V-0E-0D · 3.0 goles/partido · +2.5 en 50%  
-• Bajas: Alverca: 4 fuera, 0 duda (Steven Baseya, Andre Vidigal, Noah Raveyre); Casa Pia: 0 fuera, 2 duda  
-• Favorito de las casas: Alverca @ 1.75  
-📐 **Estadísticas esperadas**  
-Córners 6.2 - 3.5: total +9.5 50% · Alverca +5.5 55% · Casa Pia +4.5 29%  
-Tarjetas 2.1 - 2.6: total +5.5 32% · Alverca +2.5 34% · Casa Pia +2.5 47%  
-Faltas 12.5 - 13.3: total +26.5 43% · Alverca +13.5 37% · Casa Pia +13.5 46%  
-Tiros a puerta 4.7 - 3.2: total +8.5 39% · Alverca +4.5 49% · Casa Pia +3.5 40%  
-🧩 Crear apuesta: Menos de 4.5 córners de Casa Pia + Menos de 5.5 tarjetas + Menos de 13.5 faltas de Alverca → prob. 32%, cuota justa 3.13 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 4.5 córners de Casa Pia + Menos de 5.5 tarjetas + Menos de 13.5 faltas de Alverca + Menos de 8.5 tiros a puerta + Menos de 2.5 goles → prob. 14%, cuota justa 7.29  
-🎯 Simulada (con cuota: Menos de 4.5 córners de Casa Pia + Menos de 2.5 goles): cuota Unibet aprox. 2.73 (producto de piernas) · prob. 43% · ventaja +16% → 1 u en la banca de simulación  
+Actualizado 07/11/2026 19:04 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Ried vs LASK — 07/11 · 19:30
 
@@ -10977,6 +10206,163 @@ Faltas 11.4 - 9.6: total +22.5 37% · Inter +11.5 46% · Como +11.5 27%
 Tiros a puerta 6.0 - 3.9: total +9.5 53% · Inter +4.5 69% · Como +4.5 36%  
 🧩 Crear apuesta: Menos de 11.5 faltas de Como + Menos de 2.5 tarjetas de Como + Más de 4.5 tiros a puerta de Inter → prob. 39%, cuota justa 2.59 (solo vale si la casa paga más)  
 🚀 Combinada larga: Menos de 11.5 faltas de Como + Menos de 2.5 tarjetas de Como + Más de 4.5 tiros a puerta de Inter + Menos de 4.5 córners de Como → prob. 26%, cuota justa 3.78  
+🎯 No simulada (con cuota: Más de 4.5 tiros a puerta de Inter + Menos de 4.5 córners de Como): cuota Unibet aprox. 2.02 (producto de piernas) · prob. 49% · ventaja -2%  
+
+## Inter vs Como — 08/11 · 18:00
+
+👀 candidata · 🇮🇹 Serie A · **Más de 2.5 córners de Como** @ **1.29** (Unibet) · prob 69% vs casas 71% · ventaja -10%
+
+- ❌ Valor: ventaja -10% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.72 - 1.13)  
+1 54% · X 26% · 2 20%  
+1X 80% · X2 46% · 12 74%  
++1.5 78% · +2.5 54% · +3.5 32% · Ambos marcan 56%  
+Marcadores: 1-1 12% · 2-1 10% · 1-0 9% · 2-0 9%  
+🔎 **Claves**  
+• Forma: Inter ✅✅✅✅❌ | Como ➖✅✅✅✅  
+• H2H: 4 desde 2024: 4V-0E-0D · 3.8 goles/partido · +2.5 en 50%  
+• Bajas: Inter: 3 fuera, 2 duda (Luis Henrique, Lautaro Martinez, Valentin Carboni); Como: 3 fuera, 4 duda (Assane Diao, Jesus Rodriguez, Edoardo Goldaniga)  
+• Favorito de las casas: Inter @ 1.91  
+📐 **Estadísticas esperadas**  
+Córners 6.2 - 3.7: total +9.5 52% · Inter +5.5 54% · Como +4.5 33%  
+Tarjetas 1.6 - 1.9: total +3.5 45% · Inter +1.5 46% · Como +2.5 30%  
+Faltas 11.4 - 9.6: total +22.5 37% · Inter +11.5 46% · Como +11.5 27%  
+Tiros a puerta 6.0 - 3.9: total +9.5 53% · Inter +4.5 69% · Como +4.5 36%  
+🧩 Crear apuesta: Menos de 11.5 faltas de Como + Menos de 2.5 tarjetas de Como + Más de 4.5 tiros a puerta de Inter → prob. 39%, cuota justa 2.59 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 11.5 faltas de Como + Menos de 2.5 tarjetas de Como + Más de 4.5 tiros a puerta de Inter + Menos de 4.5 córners de Como → prob. 26%, cuota justa 3.78  
+🎯 No simulada (con cuota: Más de 4.5 tiros a puerta de Inter + Menos de 4.5 córners de Como): cuota Unibet aprox. 2.02 (producto de piernas) · prob. 49% · ventaja -2%  
+
+## Inter vs Como — 08/11 · 18:00
+
+👀 candidata · 🇮🇹 Serie A · **Menos de 3.5 córners de Como** @ **2.05** (Unibet) · prob 48% vs casas 45% · ventaja -2%
+
+- ❌ Valor: ventaja -2% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.72 - 1.13)  
+1 54% · X 26% · 2 20%  
+1X 80% · X2 46% · 12 74%  
++1.5 78% · +2.5 54% · +3.5 32% · Ambos marcan 56%  
+Marcadores: 1-1 12% · 2-1 10% · 1-0 9% · 2-0 9%  
+🔎 **Claves**  
+• Forma: Inter ✅✅✅✅❌ | Como ➖✅✅✅✅  
+• H2H: 4 desde 2024: 4V-0E-0D · 3.8 goles/partido · +2.5 en 50%  
+• Bajas: Inter: 3 fuera, 2 duda (Luis Henrique, Lautaro Martinez, Valentin Carboni); Como: 3 fuera, 4 duda (Assane Diao, Jesus Rodriguez, Edoardo Goldaniga)  
+• Favorito de las casas: Inter @ 1.91  
+📐 **Estadísticas esperadas**  
+Córners 6.2 - 3.7: total +9.5 52% · Inter +5.5 54% · Como +4.5 33%  
+Tarjetas 1.6 - 1.9: total +3.5 45% · Inter +1.5 46% · Como +2.5 30%  
+Faltas 11.4 - 9.6: total +22.5 37% · Inter +11.5 46% · Como +11.5 27%  
+Tiros a puerta 6.0 - 3.9: total +9.5 53% · Inter +4.5 69% · Como +4.5 36%  
+🧩 Crear apuesta: Menos de 11.5 faltas de Como + Menos de 2.5 tarjetas de Como + Más de 4.5 tiros a puerta de Inter → prob. 39%, cuota justa 2.59 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 11.5 faltas de Como + Menos de 2.5 tarjetas de Como + Más de 4.5 tiros a puerta de Inter + Menos de 4.5 córners de Como → prob. 26%, cuota justa 3.78  
+🎯 No simulada (con cuota: Más de 4.5 tiros a puerta de Inter + Menos de 4.5 córners de Como): cuota Unibet aprox. 2.02 (producto de piernas) · prob. 49% · ventaja -2%  
+
+## Inter vs Como — 08/11 · 18:00
+
+👀 candidata · 🇮🇹 Serie A · **Más de 6.5 córners** @ **1.13** (Unibet) · prob 83% vs casas 81% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.72 - 1.13)  
+1 54% · X 26% · 2 20%  
+1X 80% · X2 46% · 12 74%  
++1.5 78% · +2.5 54% · +3.5 32% · Ambos marcan 56%  
+Marcadores: 1-1 12% · 2-1 10% · 1-0 9% · 2-0 9%  
+🔎 **Claves**  
+• Forma: Inter ✅✅✅✅❌ | Como ➖✅✅✅✅  
+• H2H: 4 desde 2024: 4V-0E-0D · 3.8 goles/partido · +2.5 en 50%  
+• Bajas: Inter: 3 fuera, 2 duda (Luis Henrique, Lautaro Martinez, Valentin Carboni); Como: 3 fuera, 4 duda (Assane Diao, Jesus Rodriguez, Edoardo Goldaniga)  
+• Favorito de las casas: Inter @ 1.91  
+📐 **Estadísticas esperadas**  
+Córners 6.2 - 3.7: total +9.5 52% · Inter +5.5 54% · Como +4.5 33%  
+Tarjetas 1.6 - 1.9: total +3.5 45% · Inter +1.5 46% · Como +2.5 30%  
+Faltas 11.4 - 9.6: total +22.5 37% · Inter +11.5 46% · Como +11.5 27%  
+Tiros a puerta 6.0 - 3.9: total +9.5 53% · Inter +4.5 69% · Como +4.5 36%  
+🧩 Crear apuesta: Menos de 11.5 faltas de Como + Menos de 2.5 tarjetas de Como + Más de 4.5 tiros a puerta de Inter → prob. 39%, cuota justa 2.59 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 11.5 faltas de Como + Menos de 2.5 tarjetas de Como + Más de 4.5 tiros a puerta de Inter + Menos de 4.5 córners de Como → prob. 26%, cuota justa 3.78  
+🎯 No simulada (con cuota: Más de 4.5 tiros a puerta de Inter + Menos de 4.5 córners de Como): cuota Unibet aprox. 2.02 (producto de piernas) · prob. 49% · ventaja -2%  
+
+## Inter vs Como — 08/11 · 18:00
+
+👀 candidata · 🇮🇹 Serie A · **Menos de 13.5 córners** @ **1.12** (Unibet) · prob 84% vs casas 82% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.72 - 1.13)  
+1 54% · X 26% · 2 20%  
+1X 80% · X2 46% · 12 74%  
++1.5 78% · +2.5 54% · +3.5 32% · Ambos marcan 56%  
+Marcadores: 1-1 12% · 2-1 10% · 1-0 9% · 2-0 9%  
+🔎 **Claves**  
+• Forma: Inter ✅✅✅✅❌ | Como ➖✅✅✅✅  
+• H2H: 4 desde 2024: 4V-0E-0D · 3.8 goles/partido · +2.5 en 50%  
+• Bajas: Inter: 3 fuera, 2 duda (Luis Henrique, Lautaro Martinez, Valentin Carboni); Como: 3 fuera, 4 duda (Assane Diao, Jesus Rodriguez, Edoardo Goldaniga)  
+• Favorito de las casas: Inter @ 1.91  
+📐 **Estadísticas esperadas**  
+Córners 6.2 - 3.7: total +9.5 52% · Inter +5.5 54% · Como +4.5 33%  
+Tarjetas 1.6 - 1.9: total +3.5 45% · Inter +1.5 46% · Como +2.5 30%  
+Faltas 11.4 - 9.6: total +22.5 37% · Inter +11.5 46% · Como +11.5 27%  
+Tiros a puerta 6.0 - 3.9: total +9.5 53% · Inter +4.5 69% · Como +4.5 36%  
+🧩 Crear apuesta: Menos de 11.5 faltas de Como + Menos de 2.5 tarjetas de Como + Más de 4.5 tiros a puerta de Inter → prob. 39%, cuota justa 2.59 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 11.5 faltas de Como + Menos de 2.5 tarjetas de Como + Más de 4.5 tiros a puerta de Inter + Menos de 4.5 córners de Como → prob. 26%, cuota justa 3.78  
+🎯 No simulada (con cuota: Más de 4.5 tiros a puerta de Inter + Menos de 4.5 córners de Como): cuota Unibet aprox. 2.02 (producto de piernas) · prob. 49% · ventaja -2%  
+
+## Inter vs Como — 08/11 · 18:00
+
+👀 candidata · 🇮🇹 Serie A · **Más de 6.5 córners de Inter** @ **2.50** (Unibet) · prob 39% vs casas 37% · ventaja -3%
+
+- ❌ Valor: ventaja -3% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.72 - 1.13)  
+1 54% · X 26% · 2 20%  
+1X 80% · X2 46% · 12 74%  
++1.5 78% · +2.5 54% · +3.5 32% · Ambos marcan 56%  
+Marcadores: 1-1 12% · 2-1 10% · 1-0 9% · 2-0 9%  
+🔎 **Claves**  
+• Forma: Inter ✅✅✅✅❌ | Como ➖✅✅✅✅  
+• H2H: 4 desde 2024: 4V-0E-0D · 3.8 goles/partido · +2.5 en 50%  
+• Bajas: Inter: 3 fuera, 2 duda (Luis Henrique, Lautaro Martinez, Valentin Carboni); Como: 3 fuera, 4 duda (Assane Diao, Jesus Rodriguez, Edoardo Goldaniga)  
+• Favorito de las casas: Inter @ 1.91  
+📐 **Estadísticas esperadas**  
+Córners 6.2 - 3.7: total +9.5 52% · Inter +5.5 54% · Como +4.5 33%  
+Tarjetas 1.6 - 1.9: total +3.5 45% · Inter +1.5 46% · Como +2.5 30%  
+Faltas 11.4 - 9.6: total +22.5 37% · Inter +11.5 46% · Como +11.5 27%  
+Tiros a puerta 6.0 - 3.9: total +9.5 53% · Inter +4.5 69% · Como +4.5 36%  
+🧩 Crear apuesta: Menos de 11.5 faltas de Como + Menos de 2.5 tarjetas de Como + Más de 4.5 tiros a puerta de Inter → prob. 39%, cuota justa 2.59 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 11.5 faltas de Como + Menos de 2.5 tarjetas de Como + Más de 4.5 tiros a puerta de Inter + Menos de 4.5 córners de Como → prob. 26%, cuota justa 3.78  
+🎯 No simulada (con cuota: Más de 4.5 tiros a puerta de Inter + Menos de 4.5 córners de Como): cuota Unibet aprox. 2.02 (producto de piernas) · prob. 49% · ventaja -2%  
+
+## Inter vs Como — 08/11 · 18:00
+
+👀 candidata · 🇮🇹 Serie A · **Menos de 8.5 córners de Inter** @ **1.14** (Unibet) · prob 80% vs casas 80% · ventaja -9%
+
+- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.72 - 1.13)  
+1 54% · X 26% · 2 20%  
+1X 80% · X2 46% · 12 74%  
++1.5 78% · +2.5 54% · +3.5 32% · Ambos marcan 56%  
+Marcadores: 1-1 12% · 2-1 10% · 1-0 9% · 2-0 9%  
+🔎 **Claves**  
+• Forma: Inter ✅✅✅✅❌ | Como ➖✅✅✅✅  
+• H2H: 4 desde 2024: 4V-0E-0D · 3.8 goles/partido · +2.5 en 50%  
+• Bajas: Inter: 3 fuera, 2 duda (Luis Henrique, Lautaro Martinez, Valentin Carboni); Como: 3 fuera, 4 duda (Assane Diao, Jesus Rodriguez, Edoardo Goldaniga)  
+• Favorito de las casas: Inter @ 1.91  
+📐 **Estadísticas esperadas**  
+Córners 6.2 - 3.7: total +9.5 52% · Inter +5.5 54% · Como +4.5 33%  
+Tarjetas 1.6 - 1.9: total +3.5 45% · Inter +1.5 46% · Como +2.5 30%  
+Faltas 11.4 - 9.6: total +22.5 37% · Inter +11.5 46% · Como +11.5 27%  
+Tiros a puerta 6.0 - 3.9: total +9.5 53% · Inter +4.5 69% · Como +4.5 36%  
+🧩 Crear apuesta: Menos de 11.5 faltas de Como + Menos de 2.5 tarjetas de Como + Más de 4.5 tiros a puerta de Inter → prob. 39%, cuota justa 2.59 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 11.5 faltas de Como + Menos de 2.5 tarjetas de Como + Más de 4.5 tiros a puerta de Inter + Menos de 4.5 córners de Como → prob. 26%, cuota justa 3.78  
+🎯 No simulada (con cuota: Más de 4.5 tiros a puerta de Inter + Menos de 4.5 córners de Como): cuota Unibet aprox. 2.02 (producto de piernas) · prob. 49% · ventaja -2%  
 
 ## St. Gilloise vs Genk — 08/11 · 18:30
 
@@ -11027,6 +10413,8 @@ Faltas 11.2 - 12.1: total +25.5 32% · Celta +12.5 34% · Levante +12.5 44%
 Tiros a puerta 5.1 - 3.4: total +9.5 35% · Celta +4.5 56% · Levante +4.5 26%  
 🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Levante + Menos de 4.5 córners de Levante + Menos de 2.5 tarjetas de Celta → prob. 39%, cuota justa 2.54 (solo vale si la casa paga más)  
 🚀 Combinada larga: Menos de 4.5 tiros a puerta de Levante + Menos de 4.5 córners de Levante + Menos de 2.5 tarjetas de Celta + Menos de 25.5 faltas → prob. 28%, cuota justa 3.59  
+🎯 Simulada (crear apuesta): cuota Unibet aprox. 2.80 (producto de piernas) · prob. 39% · ventaja +10% → 1 u en la banca de simulación  
+🎯 Simulada (con cuota: Menos de 4.5 tiros a puerta de Levante + Menos de 4.5 córners de Levante + Menos de 2.5 tarjetas de Celta): cuota Unibet aprox. 2.80 (producto de piernas) · prob. 39% · ventaja +10% → 1 u en la banca de simulación  
 
 ## Villarreal vs Getafe — 08/11 · 18:30
 
@@ -11052,6 +10440,7 @@ Faltas 12.1 - 13.9: total +25.5 52% · Villarreal +12.5 44% · Getafe +12.5 62%
 Tiros a puerta 6.4 - 2.8: total +9.5 43% · Villarreal +4.5 73% · Getafe +4.5 16%  
 🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Getafe + Menos de 4.5 córners de Getafe + Menos de 2.5 tarjetas de Villarreal → prob. 41%, cuota justa 2.46 (solo vale si la casa paga más)  
 🚀 Combinada larga: Menos de 4.5 tiros a puerta de Getafe + Menos de 4.5 córners de Getafe + Menos de 2.5 tarjetas de Villarreal + Más de 12.5 faltas de Getafe → prob. 25%, cuota justa 4.00  
+🎯 No simulada (con cuota: Menos de 4.5 córners de Getafe + Menos de 2.5 tarjetas de Villarreal): cuota Unibet aprox. 1.80 (producto de piernas) · prob. 47% · ventaja -16%  
 
 ## Las Palmas vs Eldense — 08/11 · 18:30
 
@@ -11077,6 +10466,7 @@ Faltas 11.4 - 14.3: total +26.5 43% · Las Palmas +13.5 27% · Eldense +13.5 56%
 Tiros a puerta 4.7 - 3.2: total +9.5 28% · Las Palmas +5.5 33% · Eldense +4.5 24%  
 🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Eldense + Menos de 13.5 faltas de Las Palmas + Menos de 3.5 tarjetas de Eldense → prob. 39%, cuota justa 2.57 (solo vale si la casa paga más)  
 🚀 Combinada larga: Menos de 4.5 tiros a puerta de Eldense + Menos de 13.5 faltas de Las Palmas + Menos de 3.5 tarjetas de Eldense + Menos de 4.5 córners de Eldense + Menos de 2.5 goles → prob. 16%, cuota justa 6.15  
+🎯 Simulada (con cuota: Menos de 4.5 córners de Eldense + Menos de 2.5 goles): cuota Unibet aprox. 3.10 (producto de piernas) · prob. 37% · ventaja +15% → 1 u en la banca de simulación  
 
 ## Sp Gijon vs Valladolid — 08/11 · 18:30
 
@@ -11102,6 +10492,480 @@ Faltas 12.3 - 13.8: total +26.5 45% · Sp Gijon +13.5 35% · Valladolid +13.5 50
 Tiros a puerta 4.8 - 3.9: total +9.5 37% · Sp Gijon +5.5 35% · Valladolid +4.5 35%  
 🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Valladolid + Menos de 5.5 córners de Sp Gijon + Menos de 13.5 faltas de Sp Gijon → prob. 25%, cuota justa 3.97 (solo vale si la casa paga más)  
 🚀 Combinada larga: Menos de 4.5 tiros a puerta de Valladolid + Menos de 5.5 córners de Sp Gijon + Menos de 13.5 faltas de Sp Gijon + Menos de 3.5 tarjetas de Valladolid → prob. 16%, cuota justa 6.17  
+
+## Celta vs Levante — 08/11 · 18:30
+
+👀 candidata · 🇪🇸 LaLiga · **Más de 1.5 córners de Levante** @ **1.13** (Unibet) · prob 81% vs casas 81% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.66 - 1.08)  
+1 44% · X 28% · 2 27%  
+1X 73% · X2 56% · 12 72%  
++1.5 77% · +2.5 52% · +3.5 30% · Ambos marcan 54%  
+Marcadores: 1-1 12% · 1-0 10% · 2-1 10% · 2-0 9%  
+🔎 **Claves**  
+• Forma: Celta ✅➖✅➖❌ | Levante ➖➖✅❌❌  
+• H2H: 26 desde 2006: 13V-6E-7D · 2.9 goles/partido · +2.5 en 50%  
+• Bajas: Celta: 0 fuera, 6 duda; Levante: 0 fuera, 1 duda  
+• Favorito de las casas: Celta @ 1.95  
+📐 **Estadísticas esperadas**  
+Córners 5.4 - 3.4: total +10.5 28% · Celta +5.5 44% · Levante +4.5 27%  
+Tarjetas 1.9 - 2.3: total +4.5 42% · Celta +2.5 31% · Levante +2.5 41%  
+Faltas 11.2 - 12.1: total +25.5 32% · Celta +12.5 34% · Levante +12.5 44%  
+Tiros a puerta 5.1 - 3.4: total +9.5 35% · Celta +4.5 56% · Levante +4.5 26%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Levante + Menos de 4.5 córners de Levante + Menos de 2.5 tarjetas de Celta → prob. 39%, cuota justa 2.54 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Levante + Menos de 4.5 córners de Levante + Menos de 2.5 tarjetas de Celta + Menos de 25.5 faltas → prob. 28%, cuota justa 3.59  
+🎯 Simulada (crear apuesta): cuota Unibet aprox. 2.80 (producto de piernas) · prob. 39% · ventaja +10% → 1 u en la banca de simulación  
+🎯 Simulada (con cuota: Menos de 4.5 tiros a puerta de Levante + Menos de 4.5 córners de Levante + Menos de 2.5 tarjetas de Celta): cuota Unibet aprox. 2.80 (producto de piernas) · prob. 39% · ventaja +10% → 1 u en la banca de simulación  
+
+## Celta vs Levante — 08/11 · 18:30
+
+👀 candidata · 🇪🇸 LaLiga · **Menos de 3.5 córners de Levante** @ **1.76** (Unibet) · prob 55% vs casas 52% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.66 - 1.08)  
+1 44% · X 28% · 2 27%  
+1X 73% · X2 56% · 12 72%  
++1.5 77% · +2.5 52% · +3.5 30% · Ambos marcan 54%  
+Marcadores: 1-1 12% · 1-0 10% · 2-1 10% · 2-0 9%  
+🔎 **Claves**  
+• Forma: Celta ✅➖✅➖❌ | Levante ➖➖✅❌❌  
+• H2H: 26 desde 2006: 13V-6E-7D · 2.9 goles/partido · +2.5 en 50%  
+• Bajas: Celta: 0 fuera, 6 duda; Levante: 0 fuera, 1 duda  
+• Favorito de las casas: Celta @ 1.95  
+📐 **Estadísticas esperadas**  
+Córners 5.4 - 3.4: total +10.5 28% · Celta +5.5 44% · Levante +4.5 27%  
+Tarjetas 1.9 - 2.3: total +4.5 42% · Celta +2.5 31% · Levante +2.5 41%  
+Faltas 11.2 - 12.1: total +25.5 32% · Celta +12.5 34% · Levante +12.5 44%  
+Tiros a puerta 5.1 - 3.4: total +9.5 35% · Celta +4.5 56% · Levante +4.5 26%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Levante + Menos de 4.5 córners de Levante + Menos de 2.5 tarjetas de Celta → prob. 39%, cuota justa 2.54 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Levante + Menos de 4.5 córners de Levante + Menos de 2.5 tarjetas de Celta + Menos de 25.5 faltas → prob. 28%, cuota justa 3.59  
+🎯 Simulada (crear apuesta): cuota Unibet aprox. 2.80 (producto de piernas) · prob. 39% · ventaja +10% → 1 u en la banca de simulación  
+🎯 Simulada (con cuota: Menos de 4.5 tiros a puerta de Levante + Menos de 4.5 córners de Levante + Menos de 2.5 tarjetas de Celta): cuota Unibet aprox. 2.80 (producto de piernas) · prob. 39% · ventaja +10% → 1 u en la banca de simulación  
+
+## Celta vs Levante — 08/11 · 18:30
+
+👀 candidata · 🇪🇸 LaLiga · **Más de 7.5 córners** @ **1.52** (Unibet) · prob 62% vs casas 61% · ventaja -5%
+
+- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.66 - 1.08)  
+1 44% · X 28% · 2 27%  
+1X 73% · X2 56% · 12 72%  
++1.5 77% · +2.5 52% · +3.5 30% · Ambos marcan 54%  
+Marcadores: 1-1 12% · 1-0 10% · 2-1 10% · 2-0 9%  
+🔎 **Claves**  
+• Forma: Celta ✅➖✅➖❌ | Levante ➖➖✅❌❌  
+• H2H: 26 desde 2006: 13V-6E-7D · 2.9 goles/partido · +2.5 en 50%  
+• Bajas: Celta: 0 fuera, 6 duda; Levante: 0 fuera, 1 duda  
+• Favorito de las casas: Celta @ 1.95  
+📐 **Estadísticas esperadas**  
+Córners 5.4 - 3.4: total +10.5 28% · Celta +5.5 44% · Levante +4.5 27%  
+Tarjetas 1.9 - 2.3: total +4.5 42% · Celta +2.5 31% · Levante +2.5 41%  
+Faltas 11.2 - 12.1: total +25.5 32% · Celta +12.5 34% · Levante +12.5 44%  
+Tiros a puerta 5.1 - 3.4: total +9.5 35% · Celta +4.5 56% · Levante +4.5 26%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Levante + Menos de 4.5 córners de Levante + Menos de 2.5 tarjetas de Celta → prob. 39%, cuota justa 2.54 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Levante + Menos de 4.5 córners de Levante + Menos de 2.5 tarjetas de Celta + Menos de 25.5 faltas → prob. 28%, cuota justa 3.59  
+🎯 Simulada (crear apuesta): cuota Unibet aprox. 2.80 (producto de piernas) · prob. 39% · ventaja +10% → 1 u en la banca de simulación  
+🎯 Simulada (con cuota: Menos de 4.5 tiros a puerta de Levante + Menos de 4.5 córners de Levante + Menos de 2.5 tarjetas de Celta): cuota Unibet aprox. 2.80 (producto de piernas) · prob. 39% · ventaja +10% → 1 u en la banca de simulación  
+
+## Celta vs Levante — 08/11 · 18:30
+
+👀 candidata · 🇪🇸 LaLiga · **Menos de 11.5 córners** @ **1.15** (Unibet) · prob 80% vs casas 80% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.66 - 1.08)  
+1 44% · X 28% · 2 27%  
+1X 73% · X2 56% · 12 72%  
++1.5 77% · +2.5 52% · +3.5 30% · Ambos marcan 54%  
+Marcadores: 1-1 12% · 1-0 10% · 2-1 10% · 2-0 9%  
+🔎 **Claves**  
+• Forma: Celta ✅➖✅➖❌ | Levante ➖➖✅❌❌  
+• H2H: 26 desde 2006: 13V-6E-7D · 2.9 goles/partido · +2.5 en 50%  
+• Bajas: Celta: 0 fuera, 6 duda; Levante: 0 fuera, 1 duda  
+• Favorito de las casas: Celta @ 1.95  
+📐 **Estadísticas esperadas**  
+Córners 5.4 - 3.4: total +10.5 28% · Celta +5.5 44% · Levante +4.5 27%  
+Tarjetas 1.9 - 2.3: total +4.5 42% · Celta +2.5 31% · Levante +2.5 41%  
+Faltas 11.2 - 12.1: total +25.5 32% · Celta +12.5 34% · Levante +12.5 44%  
+Tiros a puerta 5.1 - 3.4: total +9.5 35% · Celta +4.5 56% · Levante +4.5 26%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Levante + Menos de 4.5 córners de Levante + Menos de 2.5 tarjetas de Celta → prob. 39%, cuota justa 2.54 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Levante + Menos de 4.5 córners de Levante + Menos de 2.5 tarjetas de Celta + Menos de 25.5 faltas → prob. 28%, cuota justa 3.59  
+🎯 Simulada (crear apuesta): cuota Unibet aprox. 2.80 (producto de piernas) · prob. 39% · ventaja +10% → 1 u en la banca de simulación  
+🎯 Simulada (con cuota: Menos de 4.5 tiros a puerta de Levante + Menos de 4.5 córners de Levante + Menos de 2.5 tarjetas de Celta): cuota Unibet aprox. 2.80 (producto de piernas) · prob. 39% · ventaja +10% → 1 u en la banca de simulación  
+
+## Celta vs Levante — 08/11 · 18:30
+
+👀 candidata · 🇪🇸 LaLiga · **Menos de 7.5 córners de Celta** @ **1.13** (Unibet) · prob 80% vs casas 81% · ventaja -10%
+
+- ❌ Valor: ventaja -10% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.66 - 1.08)  
+1 44% · X 28% · 2 27%  
+1X 73% · X2 56% · 12 72%  
++1.5 77% · +2.5 52% · +3.5 30% · Ambos marcan 54%  
+Marcadores: 1-1 12% · 1-0 10% · 2-1 10% · 2-0 9%  
+🔎 **Claves**  
+• Forma: Celta ✅➖✅➖❌ | Levante ➖➖✅❌❌  
+• H2H: 26 desde 2006: 13V-6E-7D · 2.9 goles/partido · +2.5 en 50%  
+• Bajas: Celta: 0 fuera, 6 duda; Levante: 0 fuera, 1 duda  
+• Favorito de las casas: Celta @ 1.95  
+📐 **Estadísticas esperadas**  
+Córners 5.4 - 3.4: total +10.5 28% · Celta +5.5 44% · Levante +4.5 27%  
+Tarjetas 1.9 - 2.3: total +4.5 42% · Celta +2.5 31% · Levante +2.5 41%  
+Faltas 11.2 - 12.1: total +25.5 32% · Celta +12.5 34% · Levante +12.5 44%  
+Tiros a puerta 5.1 - 3.4: total +9.5 35% · Celta +4.5 56% · Levante +4.5 26%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Levante + Menos de 4.5 córners de Levante + Menos de 2.5 tarjetas de Celta → prob. 39%, cuota justa 2.54 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Levante + Menos de 4.5 córners de Levante + Menos de 2.5 tarjetas de Celta + Menos de 25.5 faltas → prob. 28%, cuota justa 3.59  
+🎯 Simulada (crear apuesta): cuota Unibet aprox. 2.80 (producto de piernas) · prob. 39% · ventaja +10% → 1 u en la banca de simulación  
+🎯 Simulada (con cuota: Menos de 4.5 tiros a puerta de Levante + Menos de 4.5 córners de Levante + Menos de 2.5 tarjetas de Celta): cuota Unibet aprox. 2.80 (producto de piernas) · prob. 39% · ventaja +10% → 1 u en la banca de simulación  
+
+## Celta vs Levante — 08/11 · 18:30
+
+👀 candidata · 🇪🇸 LaLiga · **Más de 5.5 córners de Celta** @ **2.43** (Unibet) · prob 41% vs casas 38% · ventaja -1%
+
+- ❌ Valor: ventaja -1% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.66 - 1.08)  
+1 44% · X 28% · 2 27%  
+1X 73% · X2 56% · 12 72%  
++1.5 77% · +2.5 52% · +3.5 30% · Ambos marcan 54%  
+Marcadores: 1-1 12% · 1-0 10% · 2-1 10% · 2-0 9%  
+🔎 **Claves**  
+• Forma: Celta ✅➖✅➖❌ | Levante ➖➖✅❌❌  
+• H2H: 26 desde 2006: 13V-6E-7D · 2.9 goles/partido · +2.5 en 50%  
+• Bajas: Celta: 0 fuera, 6 duda; Levante: 0 fuera, 1 duda  
+• Favorito de las casas: Celta @ 1.95  
+📐 **Estadísticas esperadas**  
+Córners 5.4 - 3.4: total +10.5 28% · Celta +5.5 44% · Levante +4.5 27%  
+Tarjetas 1.9 - 2.3: total +4.5 42% · Celta +2.5 31% · Levante +2.5 41%  
+Faltas 11.2 - 12.1: total +25.5 32% · Celta +12.5 34% · Levante +12.5 44%  
+Tiros a puerta 5.1 - 3.4: total +9.5 35% · Celta +4.5 56% · Levante +4.5 26%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Levante + Menos de 4.5 córners de Levante + Menos de 2.5 tarjetas de Celta → prob. 39%, cuota justa 2.54 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Levante + Menos de 4.5 córners de Levante + Menos de 2.5 tarjetas de Celta + Menos de 25.5 faltas → prob. 28%, cuota justa 3.59  
+🎯 Simulada (crear apuesta): cuota Unibet aprox. 2.80 (producto de piernas) · prob. 39% · ventaja +10% → 1 u en la banca de simulación  
+🎯 Simulada (con cuota: Menos de 4.5 tiros a puerta de Levante + Menos de 4.5 córners de Levante + Menos de 2.5 tarjetas de Celta): cuota Unibet aprox. 2.80 (producto de piernas) · prob. 39% · ventaja +10% → 1 u en la banca de simulación  
+
+## Villarreal vs Getafe — 08/11 · 18:30
+
+👀 candidata · 🇪🇸 LaLiga · **Más de 9.5 córners** @ **1.71** (Unibet) · prob 55% vs casas 54% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.84 - 0.81)  
+1 63% · X 23% · 2 13%  
+1X 87% · X2 37% · 12 77%  
++1.5 75% · +2.5 49% · +3.5 27% · Ambos marcan 47%  
+Marcadores: 1-0 13% · 2-0 12% · 1-1 11% · 2-1 10%  
+🔎 **Claves**  
+• Forma: Villarreal ✅❌➖✅❌ | Getafe ✅❌➖❌✅  
+• H2H: 38 desde 2005: 20V-9E-9D · 2.4 goles/partido · +2.5 en 50%  
+• Bajas: Villarreal: 1 fuera, 3 duda (Pape Gueye); Getafe: 6 fuera, 1 duda (Martin Satriano, Djene, Johan Mojica)  
+• Favorito de las casas: Villarreal @ 1.46  
+📐 **Estadísticas esperadas**  
+Córners 6.9 - 3.4: total +10.5 45% · Villarreal +5.5 62% · Getafe +4.5 27%  
+Tarjetas 2.1 - 3.2: total +4.5 60% · Villarreal +2.5 36% · Getafe +2.5 61%  
+Faltas 12.1 - 13.9: total +25.5 52% · Villarreal +12.5 44% · Getafe +12.5 62%  
+Tiros a puerta 6.4 - 2.8: total +9.5 43% · Villarreal +4.5 73% · Getafe +4.5 16%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Getafe + Menos de 4.5 córners de Getafe + Menos de 2.5 tarjetas de Villarreal → prob. 41%, cuota justa 2.46 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Getafe + Menos de 4.5 córners de Getafe + Menos de 2.5 tarjetas de Villarreal + Más de 12.5 faltas de Getafe → prob. 25%, cuota justa 4.00  
+🎯 No simulada (con cuota: Menos de 4.5 córners de Getafe + Menos de 2.5 tarjetas de Villarreal): cuota Unibet aprox. 1.80 (producto de piernas) · prob. 47% · ventaja -16%  
+
+## Villarreal vs Getafe — 08/11 · 18:30
+
+👀 candidata · 🇪🇸 LaLiga · **Menos de 13.5 córners** @ **1.14** (Unibet) · prob 82% vs casas 80% · ventaja -7%
+
+- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.84 - 0.81)  
+1 63% · X 23% · 2 13%  
+1X 87% · X2 37% · 12 77%  
++1.5 75% · +2.5 49% · +3.5 27% · Ambos marcan 47%  
+Marcadores: 1-0 13% · 2-0 12% · 1-1 11% · 2-1 10%  
+🔎 **Claves**  
+• Forma: Villarreal ✅❌➖✅❌ | Getafe ✅❌➖❌✅  
+• H2H: 38 desde 2005: 20V-9E-9D · 2.4 goles/partido · +2.5 en 50%  
+• Bajas: Villarreal: 1 fuera, 3 duda (Pape Gueye); Getafe: 6 fuera, 1 duda (Martin Satriano, Djene, Johan Mojica)  
+• Favorito de las casas: Villarreal @ 1.46  
+📐 **Estadísticas esperadas**  
+Córners 6.9 - 3.4: total +10.5 45% · Villarreal +5.5 62% · Getafe +4.5 27%  
+Tarjetas 2.1 - 3.2: total +4.5 60% · Villarreal +2.5 36% · Getafe +2.5 61%  
+Faltas 12.1 - 13.9: total +25.5 52% · Villarreal +12.5 44% · Getafe +12.5 62%  
+Tiros a puerta 6.4 - 2.8: total +9.5 43% · Villarreal +4.5 73% · Getafe +4.5 16%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Getafe + Menos de 4.5 córners de Getafe + Menos de 2.5 tarjetas de Villarreal → prob. 41%, cuota justa 2.46 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Getafe + Menos de 4.5 córners de Getafe + Menos de 2.5 tarjetas de Villarreal + Más de 12.5 faltas de Getafe → prob. 25%, cuota justa 4.00  
+🎯 No simulada (con cuota: Menos de 4.5 córners de Getafe + Menos de 2.5 tarjetas de Villarreal): cuota Unibet aprox. 1.80 (producto de piernas) · prob. 47% · ventaja -16%  
+
+## Villarreal vs Getafe — 08/11 · 18:30
+
+👀 candidata · 🇪🇸 LaLiga · **Más de 5.5 córners de Villarreal** @ **1.58** (Unibet) · prob 60% vs casas 58% · ventaja -5%
+
+- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.84 - 0.81)  
+1 63% · X 23% · 2 13%  
+1X 87% · X2 37% · 12 77%  
++1.5 75% · +2.5 49% · +3.5 27% · Ambos marcan 47%  
+Marcadores: 1-0 13% · 2-0 12% · 1-1 11% · 2-1 10%  
+🔎 **Claves**  
+• Forma: Villarreal ✅❌➖✅❌ | Getafe ✅❌➖❌✅  
+• H2H: 38 desde 2005: 20V-9E-9D · 2.4 goles/partido · +2.5 en 50%  
+• Bajas: Villarreal: 1 fuera, 3 duda (Pape Gueye); Getafe: 6 fuera, 1 duda (Martin Satriano, Djene, Johan Mojica)  
+• Favorito de las casas: Villarreal @ 1.46  
+📐 **Estadísticas esperadas**  
+Córners 6.9 - 3.4: total +10.5 45% · Villarreal +5.5 62% · Getafe +4.5 27%  
+Tarjetas 2.1 - 3.2: total +4.5 60% · Villarreal +2.5 36% · Getafe +2.5 61%  
+Faltas 12.1 - 13.9: total +25.5 52% · Villarreal +12.5 44% · Getafe +12.5 62%  
+Tiros a puerta 6.4 - 2.8: total +9.5 43% · Villarreal +4.5 73% · Getafe +4.5 16%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Getafe + Menos de 4.5 córners de Getafe + Menos de 2.5 tarjetas de Villarreal → prob. 41%, cuota justa 2.46 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Getafe + Menos de 4.5 córners de Getafe + Menos de 2.5 tarjetas de Villarreal + Más de 12.5 faltas de Getafe → prob. 25%, cuota justa 4.00  
+🎯 No simulada (con cuota: Menos de 4.5 córners de Getafe + Menos de 2.5 tarjetas de Villarreal): cuota Unibet aprox. 1.80 (producto de piernas) · prob. 47% · ventaja -16%  
+
+## Villarreal vs Getafe — 08/11 · 18:30
+
+👀 candidata · 🇪🇸 LaLiga · **Menos de 9.5 córners de Villarreal** @ **1.15** (Unibet) · prob 80% vs casas 80% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.84 - 0.81)  
+1 63% · X 23% · 2 13%  
+1X 87% · X2 37% · 12 77%  
++1.5 75% · +2.5 49% · +3.5 27% · Ambos marcan 47%  
+Marcadores: 1-0 13% · 2-0 12% · 1-1 11% · 2-1 10%  
+🔎 **Claves**  
+• Forma: Villarreal ✅❌➖✅❌ | Getafe ✅❌➖❌✅  
+• H2H: 38 desde 2005: 20V-9E-9D · 2.4 goles/partido · +2.5 en 50%  
+• Bajas: Villarreal: 1 fuera, 3 duda (Pape Gueye); Getafe: 6 fuera, 1 duda (Martin Satriano, Djene, Johan Mojica)  
+• Favorito de las casas: Villarreal @ 1.46  
+📐 **Estadísticas esperadas**  
+Córners 6.9 - 3.4: total +10.5 45% · Villarreal +5.5 62% · Getafe +4.5 27%  
+Tarjetas 2.1 - 3.2: total +4.5 60% · Villarreal +2.5 36% · Getafe +2.5 61%  
+Faltas 12.1 - 13.9: total +25.5 52% · Villarreal +12.5 44% · Getafe +12.5 62%  
+Tiros a puerta 6.4 - 2.8: total +9.5 43% · Villarreal +4.5 73% · Getafe +4.5 16%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Getafe + Menos de 4.5 córners de Getafe + Menos de 2.5 tarjetas de Villarreal → prob. 41%, cuota justa 2.46 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Getafe + Menos de 4.5 córners de Getafe + Menos de 2.5 tarjetas de Villarreal + Más de 12.5 faltas de Getafe → prob. 25%, cuota justa 4.00  
+🎯 No simulada (con cuota: Menos de 4.5 córners de Getafe + Menos de 2.5 tarjetas de Villarreal): cuota Unibet aprox. 1.80 (producto de piernas) · prob. 47% · ventaja -16%  
+
+## Villarreal vs Getafe — 08/11 · 18:30
+
+👀 candidata · 🇪🇸 LaLiga · **Más de 1.5 córners de Getafe** @ **1.15** (Unibet) · prob 80% vs casas 79% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.84 - 0.81)  
+1 63% · X 23% · 2 13%  
+1X 87% · X2 37% · 12 77%  
++1.5 75% · +2.5 49% · +3.5 27% · Ambos marcan 47%  
+Marcadores: 1-0 13% · 2-0 12% · 1-1 11% · 2-1 10%  
+🔎 **Claves**  
+• Forma: Villarreal ✅❌➖✅❌ | Getafe ✅❌➖❌✅  
+• H2H: 38 desde 2005: 20V-9E-9D · 2.4 goles/partido · +2.5 en 50%  
+• Bajas: Villarreal: 1 fuera, 3 duda (Pape Gueye); Getafe: 6 fuera, 1 duda (Martin Satriano, Djene, Johan Mojica)  
+• Favorito de las casas: Villarreal @ 1.46  
+📐 **Estadísticas esperadas**  
+Córners 6.9 - 3.4: total +10.5 45% · Villarreal +5.5 62% · Getafe +4.5 27%  
+Tarjetas 2.1 - 3.2: total +4.5 60% · Villarreal +2.5 36% · Getafe +2.5 61%  
+Faltas 12.1 - 13.9: total +25.5 52% · Villarreal +12.5 44% · Getafe +12.5 62%  
+Tiros a puerta 6.4 - 2.8: total +9.5 43% · Villarreal +4.5 73% · Getafe +4.5 16%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Getafe + Menos de 4.5 córners de Getafe + Menos de 2.5 tarjetas de Villarreal → prob. 41%, cuota justa 2.46 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Getafe + Menos de 4.5 córners de Getafe + Menos de 2.5 tarjetas de Villarreal + Más de 12.5 faltas de Getafe → prob. 25%, cuota justa 4.00  
+🎯 No simulada (con cuota: Menos de 4.5 córners de Getafe + Menos de 2.5 tarjetas de Villarreal): cuota Unibet aprox. 1.80 (producto de piernas) · prob. 47% · ventaja -16%  
+
+## Villarreal vs Getafe — 08/11 · 18:30
+
+👀 candidata · 🇪🇸 LaLiga · **Menos de 4.5 córners de Getafe** @ **1.33** (Unibet) · prob 71% vs casas 69% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.84 - 0.81)  
+1 63% · X 23% · 2 13%  
+1X 87% · X2 37% · 12 77%  
++1.5 75% · +2.5 49% · +3.5 27% · Ambos marcan 47%  
+Marcadores: 1-0 13% · 2-0 12% · 1-1 11% · 2-1 10%  
+🔎 **Claves**  
+• Forma: Villarreal ✅❌➖✅❌ | Getafe ✅❌➖❌✅  
+• H2H: 38 desde 2005: 20V-9E-9D · 2.4 goles/partido · +2.5 en 50%  
+• Bajas: Villarreal: 1 fuera, 3 duda (Pape Gueye); Getafe: 6 fuera, 1 duda (Martin Satriano, Djene, Johan Mojica)  
+• Favorito de las casas: Villarreal @ 1.46  
+📐 **Estadísticas esperadas**  
+Córners 6.9 - 3.4: total +10.5 45% · Villarreal +5.5 62% · Getafe +4.5 27%  
+Tarjetas 2.1 - 3.2: total +4.5 60% · Villarreal +2.5 36% · Getafe +2.5 61%  
+Faltas 12.1 - 13.9: total +25.5 52% · Villarreal +12.5 44% · Getafe +12.5 62%  
+Tiros a puerta 6.4 - 2.8: total +9.5 43% · Villarreal +4.5 73% · Getafe +4.5 16%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Getafe + Menos de 4.5 córners de Getafe + Menos de 2.5 tarjetas de Villarreal → prob. 41%, cuota justa 2.46 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Getafe + Menos de 4.5 córners de Getafe + Menos de 2.5 tarjetas de Villarreal + Más de 12.5 faltas de Getafe → prob. 25%, cuota justa 4.00  
+🎯 No simulada (con cuota: Menos de 4.5 córners de Getafe + Menos de 2.5 tarjetas de Villarreal): cuota Unibet aprox. 1.80 (producto de piernas) · prob. 47% · ventaja -16%  
+
+## Las Palmas vs Eldense — 08/11 · 18:30
+
+👀 candidata · 🇪🇸 LaLiga 2 · **Más de 7.5 córners** @ **1.30** (Unibet) · prob 71% vs casas 70% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.49 - 0.75)  
+1 52% · X 27% · 2 20%  
+1X 80% · X2 48% · 12 73%  
++1.5 66% · +2.5 39% · +3.5 19% · Ambos marcan 42%  
+Marcadores: 1-0 15% · 1-1 12% · 2-0 12% · 0-0 11%  
+🔎 **Claves**  
+• Forma: Las Palmas ➖❌❌✅✅ | Eldense ✅✅✅❌❌  
+• H2H: sin precedentes  
+• Bajas: Las Palmas: sin bajas; Eldense: sin bajas  
+• Favorito de las casas: Las Palmas @ 2.20  
+📐 **Estadísticas esperadas**  
+Córners 5.4 - 4.1: total +9.5 47% · Las Palmas +5.5 44% · Eldense +4.5 38%  
+Tarjetas 2.2 - 2.8: total +5.5 39% · Las Palmas +2.5 39% · Eldense +3.5 30%  
+Faltas 11.4 - 14.3: total +26.5 43% · Las Palmas +13.5 27% · Eldense +13.5 56%  
+Tiros a puerta 4.7 - 3.2: total +9.5 28% · Las Palmas +5.5 33% · Eldense +4.5 24%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Eldense + Menos de 13.5 faltas de Las Palmas + Menos de 3.5 tarjetas de Eldense → prob. 39%, cuota justa 2.57 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Eldense + Menos de 13.5 faltas de Las Palmas + Menos de 3.5 tarjetas de Eldense + Menos de 4.5 córners de Eldense + Menos de 2.5 goles → prob. 16%, cuota justa 6.15  
+🎯 Simulada (con cuota: Menos de 4.5 córners de Eldense + Menos de 2.5 goles): cuota Unibet aprox. 3.10 (producto de piernas) · prob. 37% · ventaja +15% → 1 u en la banca de simulación  
+
+## Las Palmas vs Eldense — 08/11 · 18:30
+
+👀 candidata · 🇪🇸 LaLiga 2 · **Menos de 11.5 córners** @ **1.30** (Unibet) · prob 72% vs casas 70% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.49 - 0.75)  
+1 52% · X 27% · 2 20%  
+1X 80% · X2 48% · 12 73%  
++1.5 66% · +2.5 39% · +3.5 19% · Ambos marcan 42%  
+Marcadores: 1-0 15% · 1-1 12% · 2-0 12% · 0-0 11%  
+🔎 **Claves**  
+• Forma: Las Palmas ➖❌❌✅✅ | Eldense ✅✅✅❌❌  
+• H2H: sin precedentes  
+• Bajas: Las Palmas: sin bajas; Eldense: sin bajas  
+• Favorito de las casas: Las Palmas @ 2.20  
+📐 **Estadísticas esperadas**  
+Córners 5.4 - 4.1: total +9.5 47% · Las Palmas +5.5 44% · Eldense +4.5 38%  
+Tarjetas 2.2 - 2.8: total +5.5 39% · Las Palmas +2.5 39% · Eldense +3.5 30%  
+Faltas 11.4 - 14.3: total +26.5 43% · Las Palmas +13.5 27% · Eldense +13.5 56%  
+Tiros a puerta 4.7 - 3.2: total +9.5 28% · Las Palmas +5.5 33% · Eldense +4.5 24%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Eldense + Menos de 13.5 faltas de Las Palmas + Menos de 3.5 tarjetas de Eldense → prob. 39%, cuota justa 2.57 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Eldense + Menos de 13.5 faltas de Las Palmas + Menos de 3.5 tarjetas de Eldense + Menos de 4.5 córners de Eldense + Menos de 2.5 goles → prob. 16%, cuota justa 6.15  
+🎯 Simulada (con cuota: Menos de 4.5 córners de Eldense + Menos de 2.5 goles): cuota Unibet aprox. 3.10 (producto de piernas) · prob. 37% · ventaja +15% → 1 u en la banca de simulación  
+
+## Las Palmas vs Eldense — 08/11 · 18:30
+
+👀 candidata · 🇪🇸 LaLiga 2 · **Más de 4.5 córners de Las Palmas** @ **1.62** (Unibet) · prob 57% vs casas 56% · ventaja -7%
+
+- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.49 - 0.75)  
+1 52% · X 27% · 2 20%  
+1X 80% · X2 48% · 12 73%  
++1.5 66% · +2.5 39% · +3.5 19% · Ambos marcan 42%  
+Marcadores: 1-0 15% · 1-1 12% · 2-0 12% · 0-0 11%  
+🔎 **Claves**  
+• Forma: Las Palmas ➖❌❌✅✅ | Eldense ✅✅✅❌❌  
+• H2H: sin precedentes  
+• Bajas: Las Palmas: sin bajas; Eldense: sin bajas  
+• Favorito de las casas: Las Palmas @ 2.20  
+📐 **Estadísticas esperadas**  
+Córners 5.4 - 4.1: total +9.5 47% · Las Palmas +5.5 44% · Eldense +4.5 38%  
+Tarjetas 2.2 - 2.8: total +5.5 39% · Las Palmas +2.5 39% · Eldense +3.5 30%  
+Faltas 11.4 - 14.3: total +26.5 43% · Las Palmas +13.5 27% · Eldense +13.5 56%  
+Tiros a puerta 4.7 - 3.2: total +9.5 28% · Las Palmas +5.5 33% · Eldense +4.5 24%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Eldense + Menos de 13.5 faltas de Las Palmas + Menos de 3.5 tarjetas de Eldense → prob. 39%, cuota justa 2.57 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Eldense + Menos de 13.5 faltas de Las Palmas + Menos de 3.5 tarjetas de Eldense + Menos de 4.5 córners de Eldense + Menos de 2.5 goles → prob. 16%, cuota justa 6.15  
+🎯 Simulada (con cuota: Menos de 4.5 córners de Eldense + Menos de 2.5 goles): cuota Unibet aprox. 3.10 (producto de piernas) · prob. 37% · ventaja +15% → 1 u en la banca de simulación  
+
+## Las Palmas vs Eldense — 08/11 · 18:30
+
+👀 candidata · 🇪🇸 LaLiga 2 · **Menos de 6.5 córners de Las Palmas** @ **1.33** (Unibet) · prob 68% vs casas 68% · ventaja -9%
+
+- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.49 - 0.75)  
+1 52% · X 27% · 2 20%  
+1X 80% · X2 48% · 12 73%  
++1.5 66% · +2.5 39% · +3.5 19% · Ambos marcan 42%  
+Marcadores: 1-0 15% · 1-1 12% · 2-0 12% · 0-0 11%  
+🔎 **Claves**  
+• Forma: Las Palmas ➖❌❌✅✅ | Eldense ✅✅✅❌❌  
+• H2H: sin precedentes  
+• Bajas: Las Palmas: sin bajas; Eldense: sin bajas  
+• Favorito de las casas: Las Palmas @ 2.20  
+📐 **Estadísticas esperadas**  
+Córners 5.4 - 4.1: total +9.5 47% · Las Palmas +5.5 44% · Eldense +4.5 38%  
+Tarjetas 2.2 - 2.8: total +5.5 39% · Las Palmas +2.5 39% · Eldense +3.5 30%  
+Faltas 11.4 - 14.3: total +26.5 43% · Las Palmas +13.5 27% · Eldense +13.5 56%  
+Tiros a puerta 4.7 - 3.2: total +9.5 28% · Las Palmas +5.5 33% · Eldense +4.5 24%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Eldense + Menos de 13.5 faltas de Las Palmas + Menos de 3.5 tarjetas de Eldense → prob. 39%, cuota justa 2.57 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Eldense + Menos de 13.5 faltas de Las Palmas + Menos de 3.5 tarjetas de Eldense + Menos de 4.5 córners de Eldense + Menos de 2.5 goles → prob. 16%, cuota justa 6.15  
+🎯 Simulada (con cuota: Menos de 4.5 córners de Eldense + Menos de 2.5 goles): cuota Unibet aprox. 3.10 (producto de piernas) · prob. 37% · ventaja +15% → 1 u en la banca de simulación  
+
+## Las Palmas vs Eldense — 08/11 · 18:30
+
+👀 candidata · 🇪🇸 LaLiga 2 · **Más de 3.5 córners de Eldense** @ **1.60** (Unibet) · prob 56% vs casas 57% · ventaja -10%
+
+- ❌ Valor: ventaja -10% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.49 - 0.75)  
+1 52% · X 27% · 2 20%  
+1X 80% · X2 48% · 12 73%  
++1.5 66% · +2.5 39% · +3.5 19% · Ambos marcan 42%  
+Marcadores: 1-0 15% · 1-1 12% · 2-0 12% · 0-0 11%  
+🔎 **Claves**  
+• Forma: Las Palmas ➖❌❌✅✅ | Eldense ✅✅✅❌❌  
+• H2H: sin precedentes  
+• Bajas: Las Palmas: sin bajas; Eldense: sin bajas  
+• Favorito de las casas: Las Palmas @ 2.20  
+📐 **Estadísticas esperadas**  
+Córners 5.4 - 4.1: total +9.5 47% · Las Palmas +5.5 44% · Eldense +4.5 38%  
+Tarjetas 2.2 - 2.8: total +5.5 39% · Las Palmas +2.5 39% · Eldense +3.5 30%  
+Faltas 11.4 - 14.3: total +26.5 43% · Las Palmas +13.5 27% · Eldense +13.5 56%  
+Tiros a puerta 4.7 - 3.2: total +9.5 28% · Las Palmas +5.5 33% · Eldense +4.5 24%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Eldense + Menos de 13.5 faltas de Las Palmas + Menos de 3.5 tarjetas de Eldense → prob. 39%, cuota justa 2.57 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Eldense + Menos de 13.5 faltas de Las Palmas + Menos de 3.5 tarjetas de Eldense + Menos de 4.5 córners de Eldense + Menos de 2.5 goles → prob. 16%, cuota justa 6.15  
+🎯 Simulada (con cuota: Menos de 4.5 córners de Eldense + Menos de 2.5 goles): cuota Unibet aprox. 3.10 (producto de piernas) · prob. 37% · ventaja +15% → 1 u en la banca de simulación  
+
+## Las Palmas vs Eldense — 08/11 · 18:30
+
+👀 candidata · 🇪🇸 LaLiga 2 · **Menos de 4.5 córners de Eldense** @ **1.58** (Unibet) · prob 60% vs casas 58% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.49 - 0.75)  
+1 52% · X 27% · 2 20%  
+1X 80% · X2 48% · 12 73%  
++1.5 66% · +2.5 39% · +3.5 19% · Ambos marcan 42%  
+Marcadores: 1-0 15% · 1-1 12% · 2-0 12% · 0-0 11%  
+🔎 **Claves**  
+• Forma: Las Palmas ➖❌❌✅✅ | Eldense ✅✅✅❌❌  
+• H2H: sin precedentes  
+• Bajas: Las Palmas: sin bajas; Eldense: sin bajas  
+• Favorito de las casas: Las Palmas @ 2.20  
+📐 **Estadísticas esperadas**  
+Córners 5.4 - 4.1: total +9.5 47% · Las Palmas +5.5 44% · Eldense +4.5 38%  
+Tarjetas 2.2 - 2.8: total +5.5 39% · Las Palmas +2.5 39% · Eldense +3.5 30%  
+Faltas 11.4 - 14.3: total +26.5 43% · Las Palmas +13.5 27% · Eldense +13.5 56%  
+Tiros a puerta 4.7 - 3.2: total +9.5 28% · Las Palmas +5.5 33% · Eldense +4.5 24%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Eldense + Menos de 13.5 faltas de Las Palmas + Menos de 3.5 tarjetas de Eldense → prob. 39%, cuota justa 2.57 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Eldense + Menos de 13.5 faltas de Las Palmas + Menos de 3.5 tarjetas de Eldense + Menos de 4.5 córners de Eldense + Menos de 2.5 goles → prob. 16%, cuota justa 6.15  
+🎯 Simulada (con cuota: Menos de 4.5 córners de Eldense + Menos de 2.5 goles): cuota Unibet aprox. 3.10 (producto de piernas) · prob. 37% · ventaja +15% → 1 u en la banca de simulación  
 
 ## Guimaraes vs Porto — 08/11 · 19:00
 
