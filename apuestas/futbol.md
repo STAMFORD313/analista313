@@ -1,181 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 07/11/2026 11:26 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Eyupspor vs Kocaelispor — 07/11 · 11:30
-
-👀 candidata · 🇹🇷 Süper Lig · **Eyupspor +0.5 (hándicap asiático)** @ **1.88** (mejor del mercado) · prob 52% vs casas 51% · ventaja -2%
-
-- ❌ Valor: ventaja -2% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ hándicap» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.18 - 0.94)  
-1 33% · X 31% · 2 35%  
-1X 65% · X2 67% · 12 69%  
-+1.5 63% · +2.5 36% · +3.5 17% · Ambos marcan 43%  
-Marcadores: 1-1 14% · 1-0 13% · 0-0 13% · 0-1 11%  
-🔎 **Claves**  
-• Forma: Eyupspor ❌❌❌❌❌ | Kocaelispor ✅❌❌✅➖  
-• H2H: 2 desde 2025: 0V-0E-2D · 1.0 goles/partido · +2.5 en 0%  
-• Bajas: Eyupspor: 0 fuera, 2 duda; Kocaelispor: 0 fuera, 1 duda  
-• Favorito de las casas: Kocaelispor @ 1.95  
-📐 **Estadísticas esperadas**  
-Córners 4.4 - 4.7: total +9.5 42% · Eyupspor +5.5 29% · Kocaelispor +4.5 48%  
-Tarjetas 2.2 - 2.2: total +4.5 46% · Eyupspor +2.5 38% · Kocaelispor +2.5 39%  
-Faltas 13.2 - 15.3: total +26.5 62% · Eyupspor +13.5 44% · Kocaelispor +13.5 65%  
-Tiros a puerta 3.9 - 4.1: total +9.5 29% · Eyupspor +5.5 21% · Kocaelispor +4.5 38%  
-🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Eyupspor + Menos de 5.5 córners de Eyupspor + Más de 13.5 faltas de Kocaelispor → prob. 39%, cuota justa 2.57 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 tiros a puerta de Eyupspor + Menos de 5.5 córners de Eyupspor + Más de 13.5 faltas de Kocaelispor + Menos de 2.5 goles + Menos de 2.5 tarjetas de Eyupspor → prob. 16%, cuota justa 6.23  
-
-## Eyupspor vs Kocaelispor — 07/11 · 11:30
-
-👀 candidata · 🇹🇷 Süper Lig · **Más de 3.5 córners de Kocaelispor** @ **1.44** (Unibet) · prob 64% vs casas 64% · ventaja -8%
-
-- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.18 - 0.94)  
-1 33% · X 31% · 2 35%  
-1X 65% · X2 67% · 12 69%  
-+1.5 63% · +2.5 36% · +3.5 17% · Ambos marcan 43%  
-Marcadores: 1-1 14% · 1-0 13% · 0-0 13% · 0-1 11%  
-🔎 **Claves**  
-• Forma: Eyupspor ❌❌❌❌❌ | Kocaelispor ✅❌❌✅➖  
-• H2H: 2 desde 2025: 0V-0E-2D · 1.0 goles/partido · +2.5 en 0%  
-• Bajas: Eyupspor: 0 fuera, 2 duda; Kocaelispor: 0 fuera, 1 duda  
-• Favorito de las casas: Kocaelispor @ 1.95  
-📐 **Estadísticas esperadas**  
-Córners 4.4 - 4.7: total +9.5 42% · Eyupspor +5.5 29% · Kocaelispor +4.5 48%  
-Tarjetas 2.2 - 2.2: total +4.5 46% · Eyupspor +2.5 38% · Kocaelispor +2.5 39%  
-Faltas 13.2 - 15.3: total +26.5 62% · Eyupspor +13.5 44% · Kocaelispor +13.5 65%  
-Tiros a puerta 3.9 - 4.1: total +9.5 29% · Eyupspor +5.5 21% · Kocaelispor +4.5 38%  
-🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Eyupspor + Menos de 5.5 córners de Eyupspor + Más de 13.5 faltas de Kocaelispor → prob. 39%, cuota justa 2.57 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 tiros a puerta de Eyupspor + Menos de 5.5 córners de Eyupspor + Más de 13.5 faltas de Kocaelispor + Menos de 2.5 goles + Menos de 2.5 tarjetas de Eyupspor → prob. 16%, cuota justa 6.23  
-
-## Eyupspor vs Kocaelispor — 07/11 · 11:30
-
-👀 candidata · 🇹🇷 Süper Lig · **Menos de 5.5 córners de Kocaelispor** @ **1.44** (Unibet) · prob 65% vs casas 64% · ventaja -6%
-
-- ❌ Valor: ventaja -6% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.18 - 0.94)  
-1 33% · X 31% · 2 35%  
-1X 65% · X2 67% · 12 69%  
-+1.5 63% · +2.5 36% · +3.5 17% · Ambos marcan 43%  
-Marcadores: 1-1 14% · 1-0 13% · 0-0 13% · 0-1 11%  
-🔎 **Claves**  
-• Forma: Eyupspor ❌❌❌❌❌ | Kocaelispor ✅❌❌✅➖  
-• H2H: 2 desde 2025: 0V-0E-2D · 1.0 goles/partido · +2.5 en 0%  
-• Bajas: Eyupspor: 0 fuera, 2 duda; Kocaelispor: 0 fuera, 1 duda  
-• Favorito de las casas: Kocaelispor @ 1.95  
-📐 **Estadísticas esperadas**  
-Córners 4.4 - 4.7: total +9.5 42% · Eyupspor +5.5 29% · Kocaelispor +4.5 48%  
-Tarjetas 2.2 - 2.2: total +4.5 46% · Eyupspor +2.5 38% · Kocaelispor +2.5 39%  
-Faltas 13.2 - 15.3: total +26.5 62% · Eyupspor +13.5 44% · Kocaelispor +13.5 65%  
-Tiros a puerta 3.9 - 4.1: total +9.5 29% · Eyupspor +5.5 21% · Kocaelispor +4.5 38%  
-🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Eyupspor + Menos de 5.5 córners de Eyupspor + Más de 13.5 faltas de Kocaelispor → prob. 39%, cuota justa 2.57 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 tiros a puerta de Eyupspor + Menos de 5.5 córners de Eyupspor + Más de 13.5 faltas de Kocaelispor + Menos de 2.5 goles + Menos de 2.5 tarjetas de Eyupspor → prob. 16%, cuota justa 6.23  
-
-## Eyupspor vs Kocaelispor — 07/11 · 11:30
-
-👀 candidata · 🇹🇷 Süper Lig · **Más de 7.5 córners** @ **1.44** (Unibet) · prob 66% vs casas 64% · ventaja -6%
-
-- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.18 - 0.94)  
-1 33% · X 31% · 2 35%  
-1X 65% · X2 67% · 12 69%  
-+1.5 63% · +2.5 36% · +3.5 17% · Ambos marcan 43%  
-Marcadores: 1-1 14% · 1-0 13% · 0-0 13% · 0-1 11%  
-🔎 **Claves**  
-• Forma: Eyupspor ❌❌❌❌❌ | Kocaelispor ✅❌❌✅➖  
-• H2H: 2 desde 2025: 0V-0E-2D · 1.0 goles/partido · +2.5 en 0%  
-• Bajas: Eyupspor: 0 fuera, 2 duda; Kocaelispor: 0 fuera, 1 duda  
-• Favorito de las casas: Kocaelispor @ 1.95  
-📐 **Estadísticas esperadas**  
-Córners 4.4 - 4.7: total +9.5 42% · Eyupspor +5.5 29% · Kocaelispor +4.5 48%  
-Tarjetas 2.2 - 2.2: total +4.5 46% · Eyupspor +2.5 38% · Kocaelispor +2.5 39%  
-Faltas 13.2 - 15.3: total +26.5 62% · Eyupspor +13.5 44% · Kocaelispor +13.5 65%  
-Tiros a puerta 3.9 - 4.1: total +9.5 29% · Eyupspor +5.5 21% · Kocaelispor +4.5 38%  
-🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Eyupspor + Menos de 5.5 córners de Eyupspor + Más de 13.5 faltas de Kocaelispor → prob. 39%, cuota justa 2.57 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 tiros a puerta de Eyupspor + Menos de 5.5 córners de Eyupspor + Más de 13.5 faltas de Kocaelispor + Menos de 2.5 goles + Menos de 2.5 tarjetas de Eyupspor → prob. 16%, cuota justa 6.23  
-
-## Eyupspor vs Kocaelispor — 07/11 · 11:30
-
-👀 candidata · 🇹🇷 Süper Lig · **Menos de 10.5 córners** @ **1.35** (Unibet) · prob 68% vs casas 68% · ventaja -8%
-
-- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.18 - 0.94)  
-1 33% · X 31% · 2 35%  
-1X 65% · X2 67% · 12 69%  
-+1.5 63% · +2.5 36% · +3.5 17% · Ambos marcan 43%  
-Marcadores: 1-1 14% · 1-0 13% · 0-0 13% · 0-1 11%  
-🔎 **Claves**  
-• Forma: Eyupspor ❌❌❌❌❌ | Kocaelispor ✅❌❌✅➖  
-• H2H: 2 desde 2025: 0V-0E-2D · 1.0 goles/partido · +2.5 en 0%  
-• Bajas: Eyupspor: 0 fuera, 2 duda; Kocaelispor: 0 fuera, 1 duda  
-• Favorito de las casas: Kocaelispor @ 1.95  
-📐 **Estadísticas esperadas**  
-Córners 4.4 - 4.7: total +9.5 42% · Eyupspor +5.5 29% · Kocaelispor +4.5 48%  
-Tarjetas 2.2 - 2.2: total +4.5 46% · Eyupspor +2.5 38% · Kocaelispor +2.5 39%  
-Faltas 13.2 - 15.3: total +26.5 62% · Eyupspor +13.5 44% · Kocaelispor +13.5 65%  
-Tiros a puerta 3.9 - 4.1: total +9.5 29% · Eyupspor +5.5 21% · Kocaelispor +4.5 38%  
-🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Eyupspor + Menos de 5.5 córners de Eyupspor + Más de 13.5 faltas de Kocaelispor → prob. 39%, cuota justa 2.57 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 tiros a puerta de Eyupspor + Menos de 5.5 córners de Eyupspor + Más de 13.5 faltas de Kocaelispor + Menos de 2.5 goles + Menos de 2.5 tarjetas de Eyupspor → prob. 16%, cuota justa 6.23  
-
-## Eyupspor vs Kocaelispor — 07/11 · 11:30
-
-👀 candidata · 🇹🇷 Süper Lig · **Más de 3.5 córners de Eyupspor** @ **1.66** (Unibet) · prob 57% vs casas 55% · ventaja -5%
-
-- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.18 - 0.94)  
-1 33% · X 31% · 2 35%  
-1X 65% · X2 67% · 12 69%  
-+1.5 63% · +2.5 36% · +3.5 17% · Ambos marcan 43%  
-Marcadores: 1-1 14% · 1-0 13% · 0-0 13% · 0-1 11%  
-🔎 **Claves**  
-• Forma: Eyupspor ❌❌❌❌❌ | Kocaelispor ✅❌❌✅➖  
-• H2H: 2 desde 2025: 0V-0E-2D · 1.0 goles/partido · +2.5 en 0%  
-• Bajas: Eyupspor: 0 fuera, 2 duda; Kocaelispor: 0 fuera, 1 duda  
-• Favorito de las casas: Kocaelispor @ 1.95  
-📐 **Estadísticas esperadas**  
-Córners 4.4 - 4.7: total +9.5 42% · Eyupspor +5.5 29% · Kocaelispor +4.5 48%  
-Tarjetas 2.2 - 2.2: total +4.5 46% · Eyupspor +2.5 38% · Kocaelispor +2.5 39%  
-Faltas 13.2 - 15.3: total +26.5 62% · Eyupspor +13.5 44% · Kocaelispor +13.5 65%  
-Tiros a puerta 3.9 - 4.1: total +9.5 29% · Eyupspor +5.5 21% · Kocaelispor +4.5 38%  
-🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Eyupspor + Menos de 5.5 córners de Eyupspor + Más de 13.5 faltas de Kocaelispor → prob. 39%, cuota justa 2.57 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 tiros a puerta de Eyupspor + Menos de 5.5 córners de Eyupspor + Más de 13.5 faltas de Kocaelispor + Menos de 2.5 goles + Menos de 2.5 tarjetas de Eyupspor → prob. 16%, cuota justa 6.23  
-
-## Eyupspor vs Kocaelispor — 07/11 · 11:30
-
-👀 candidata · 🇹🇷 Süper Lig · **Menos de 4.5 córners de Eyupspor** @ **1.55** (Unibet) · prob 58% vs casas 59% · ventaja -10%
-
-- ❌ Valor: ventaja -10% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.18 - 0.94)  
-1 33% · X 31% · 2 35%  
-1X 65% · X2 67% · 12 69%  
-+1.5 63% · +2.5 36% · +3.5 17% · Ambos marcan 43%  
-Marcadores: 1-1 14% · 1-0 13% · 0-0 13% · 0-1 11%  
-🔎 **Claves**  
-• Forma: Eyupspor ❌❌❌❌❌ | Kocaelispor ✅❌❌✅➖  
-• H2H: 2 desde 2025: 0V-0E-2D · 1.0 goles/partido · +2.5 en 0%  
-• Bajas: Eyupspor: 0 fuera, 2 duda; Kocaelispor: 0 fuera, 1 duda  
-• Favorito de las casas: Kocaelispor @ 1.95  
-📐 **Estadísticas esperadas**  
-Córners 4.4 - 4.7: total +9.5 42% · Eyupspor +5.5 29% · Kocaelispor +4.5 48%  
-Tarjetas 2.2 - 2.2: total +4.5 46% · Eyupspor +2.5 38% · Kocaelispor +2.5 39%  
-Faltas 13.2 - 15.3: total +26.5 62% · Eyupspor +13.5 44% · Kocaelispor +13.5 65%  
-Tiros a puerta 3.9 - 4.1: total +9.5 29% · Eyupspor +5.5 21% · Kocaelispor +4.5 38%  
-🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Eyupspor + Menos de 5.5 córners de Eyupspor + Más de 13.5 faltas de Kocaelispor → prob. 39%, cuota justa 2.57 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 tiros a puerta de Eyupspor + Menos de 5.5 córners de Eyupspor + Más de 13.5 faltas de Kocaelispor + Menos de 2.5 goles + Menos de 2.5 tarjetas de Eyupspor → prob. 16%, cuota justa 6.23  
+Actualizado 07/11/2026 11:51 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Korona Kielce vs Radomiak Radom — 07/11 · 12:15
 
@@ -11458,6 +11283,156 @@ Marcadores: 1-1 12% · 1-0 11% · 2-0 10% · 2-1 10%
 
 - ❌ Valor: ventaja -2% (mín. 5% con la incertidumbre, máx. 30%)
 - ✅ Segmento «⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.53 - 1.18)  
+1 50% · X 27% · 2 23%  
+1X 77% · X2 50% · 12 73%  
++1.5 76% · +2.5 51% · +3.5 29% · Ambos marcan 55%  
+Marcadores: 1-1 13% · 1-0 10% · 2-1 9% · 2-0 8%  
+🔎 **Claves**  
+• Forma: Rizespor ➖❌❌❌➖ | Erzurumspor ✅➖✅✅❌  
+• H2H: sin precedentes  
+• Bajas: Rizespor: 0 fuera, 1 duda; Erzurumspor: 0 fuera, 1 duda  
+• Favorito de las casas: Rizespor @ 1.95  
+📐 **Estadísticas esperadas**  
+Córners 5.6 - 3.9: total +9.5 48% · Rizespor +5.5 47% · Erzurumspor +4.5 36%  
+Tarjetas 2.1 - 2.0: total +4.5 40% · Rizespor +2.5 36% · Erzurumspor +2.5 33%  
+Faltas 11.5 - 11.6: total +26.5 25% · Rizespor +13.5 27% · Erzurumspor +13.5 29%  
+Tiros a puerta 5.6 - 3.6: total +9.5 45% · Rizespor +5.5 48% · Erzurumspor +4.5 31%  
+🧩 Crear apuesta: Menos de 26.5 faltas + Menos de 4.5 tiros a puerta de Erzurumspor + Menos de 2.5 tarjetas de Erzurumspor → prob. 36%, cuota justa 2.75 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 26.5 faltas + Menos de 4.5 tiros a puerta de Erzurumspor + Menos de 2.5 tarjetas de Erzurumspor + Menos de 4.5 córners de Erzurumspor → prob. 24%, cuota justa 4.11  
+
+## Rizespor vs Erzurumspor — 08/11 · 11:30
+
+👀 candidata · 🇹🇷 Süper Lig · **Más de 10.5 córners** @ **3.25** (Unibet) · prob 32% vs casas 28% · ventaja +5%
+
+- ❌ Valor: ventaja +5% (mín. 8% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.53 - 1.18)  
+1 50% · X 27% · 2 23%  
+1X 77% · X2 50% · 12 73%  
++1.5 76% · +2.5 51% · +3.5 29% · Ambos marcan 55%  
+Marcadores: 1-1 13% · 1-0 10% · 2-1 9% · 2-0 8%  
+🔎 **Claves**  
+• Forma: Rizespor ➖❌❌❌➖ | Erzurumspor ✅➖✅✅❌  
+• H2H: sin precedentes  
+• Bajas: Rizespor: 0 fuera, 1 duda; Erzurumspor: 0 fuera, 1 duda  
+• Favorito de las casas: Rizespor @ 1.95  
+📐 **Estadísticas esperadas**  
+Córners 5.6 - 3.9: total +9.5 48% · Rizespor +5.5 47% · Erzurumspor +4.5 36%  
+Tarjetas 2.1 - 2.0: total +4.5 40% · Rizespor +2.5 36% · Erzurumspor +2.5 33%  
+Faltas 11.5 - 11.6: total +26.5 25% · Rizespor +13.5 27% · Erzurumspor +13.5 29%  
+Tiros a puerta 5.6 - 3.6: total +9.5 45% · Rizespor +5.5 48% · Erzurumspor +4.5 31%  
+🧩 Crear apuesta: Menos de 26.5 faltas + Menos de 4.5 tiros a puerta de Erzurumspor + Menos de 2.5 tarjetas de Erzurumspor → prob. 36%, cuota justa 2.75 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 26.5 faltas + Menos de 4.5 tiros a puerta de Erzurumspor + Menos de 2.5 tarjetas de Erzurumspor + Menos de 4.5 córners de Erzurumspor → prob. 24%, cuota justa 4.11  
+
+## Rizespor vs Erzurumspor — 08/11 · 11:30
+
+👀 candidata · 🇹🇷 Süper Lig · **Menos de 10.5 córners** @ **1.28** (Unibet) · prob 68% vs casas 72% · ventaja -13%
+
+- ❌ Valor: ventaja -13% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.53 - 1.18)  
+1 50% · X 27% · 2 23%  
+1X 77% · X2 50% · 12 73%  
++1.5 76% · +2.5 51% · +3.5 29% · Ambos marcan 55%  
+Marcadores: 1-1 13% · 1-0 10% · 2-1 9% · 2-0 8%  
+🔎 **Claves**  
+• Forma: Rizespor ➖❌❌❌➖ | Erzurumspor ✅➖✅✅❌  
+• H2H: sin precedentes  
+• Bajas: Rizespor: 0 fuera, 1 duda; Erzurumspor: 0 fuera, 1 duda  
+• Favorito de las casas: Rizespor @ 1.95  
+📐 **Estadísticas esperadas**  
+Córners 5.6 - 3.9: total +9.5 48% · Rizespor +5.5 47% · Erzurumspor +4.5 36%  
+Tarjetas 2.1 - 2.0: total +4.5 40% · Rizespor +2.5 36% · Erzurumspor +2.5 33%  
+Faltas 11.5 - 11.6: total +26.5 25% · Rizespor +13.5 27% · Erzurumspor +13.5 29%  
+Tiros a puerta 5.6 - 3.6: total +9.5 45% · Rizespor +5.5 48% · Erzurumspor +4.5 31%  
+🧩 Crear apuesta: Menos de 26.5 faltas + Menos de 4.5 tiros a puerta de Erzurumspor + Menos de 2.5 tarjetas de Erzurumspor → prob. 36%, cuota justa 2.75 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 26.5 faltas + Menos de 4.5 tiros a puerta de Erzurumspor + Menos de 2.5 tarjetas de Erzurumspor + Menos de 4.5 córners de Erzurumspor → prob. 24%, cuota justa 4.11  
+
+## Rizespor vs Erzurumspor — 08/11 · 11:30
+
+👀 candidata · 🇹🇷 Süper Lig · **Más de 3.5 córners de Erzurumspor** @ **1.92** (Unibet) · prob 50% vs casas 48% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.53 - 1.18)  
+1 50% · X 27% · 2 23%  
+1X 77% · X2 50% · 12 73%  
++1.5 76% · +2.5 51% · +3.5 29% · Ambos marcan 55%  
+Marcadores: 1-1 13% · 1-0 10% · 2-1 9% · 2-0 8%  
+🔎 **Claves**  
+• Forma: Rizespor ➖❌❌❌➖ | Erzurumspor ✅➖✅✅❌  
+• H2H: sin precedentes  
+• Bajas: Rizespor: 0 fuera, 1 duda; Erzurumspor: 0 fuera, 1 duda  
+• Favorito de las casas: Rizespor @ 1.95  
+📐 **Estadísticas esperadas**  
+Córners 5.6 - 3.9: total +9.5 48% · Rizespor +5.5 47% · Erzurumspor +4.5 36%  
+Tarjetas 2.1 - 2.0: total +4.5 40% · Rizespor +2.5 36% · Erzurumspor +2.5 33%  
+Faltas 11.5 - 11.6: total +26.5 25% · Rizespor +13.5 27% · Erzurumspor +13.5 29%  
+Tiros a puerta 5.6 - 3.6: total +9.5 45% · Rizespor +5.5 48% · Erzurumspor +4.5 31%  
+🧩 Crear apuesta: Menos de 26.5 faltas + Menos de 4.5 tiros a puerta de Erzurumspor + Menos de 2.5 tarjetas de Erzurumspor → prob. 36%, cuota justa 2.75 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 26.5 faltas + Menos de 4.5 tiros a puerta de Erzurumspor + Menos de 2.5 tarjetas de Erzurumspor + Menos de 4.5 córners de Erzurumspor → prob. 24%, cuota justa 4.11  
+
+## Rizespor vs Erzurumspor — 08/11 · 11:30
+
+👀 candidata · 🇹🇷 Süper Lig · **Menos de 4.5 córners de Erzurumspor** @ **1.38** (Unibet) · prob 65% vs casas 66% · ventaja -10%
+
+- ❌ Valor: ventaja -10% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.53 - 1.18)  
+1 50% · X 27% · 2 23%  
+1X 77% · X2 50% · 12 73%  
++1.5 76% · +2.5 51% · +3.5 29% · Ambos marcan 55%  
+Marcadores: 1-1 13% · 1-0 10% · 2-1 9% · 2-0 8%  
+🔎 **Claves**  
+• Forma: Rizespor ➖❌❌❌➖ | Erzurumspor ✅➖✅✅❌  
+• H2H: sin precedentes  
+• Bajas: Rizespor: 0 fuera, 1 duda; Erzurumspor: 0 fuera, 1 duda  
+• Favorito de las casas: Rizespor @ 1.95  
+📐 **Estadísticas esperadas**  
+Córners 5.6 - 3.9: total +9.5 48% · Rizespor +5.5 47% · Erzurumspor +4.5 36%  
+Tarjetas 2.1 - 2.0: total +4.5 40% · Rizespor +2.5 36% · Erzurumspor +2.5 33%  
+Faltas 11.5 - 11.6: total +26.5 25% · Rizespor +13.5 27% · Erzurumspor +13.5 29%  
+Tiros a puerta 5.6 - 3.6: total +9.5 45% · Rizespor +5.5 48% · Erzurumspor +4.5 31%  
+🧩 Crear apuesta: Menos de 26.5 faltas + Menos de 4.5 tiros a puerta de Erzurumspor + Menos de 2.5 tarjetas de Erzurumspor → prob. 36%, cuota justa 2.75 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 26.5 faltas + Menos de 4.5 tiros a puerta de Erzurumspor + Menos de 2.5 tarjetas de Erzurumspor + Menos de 4.5 córners de Erzurumspor → prob. 24%, cuota justa 4.11  
+
+## Rizespor vs Erzurumspor — 08/11 · 11:30
+
+👀 candidata · 🇹🇷 Süper Lig · **Más de 5.5 córners de Rizespor** @ **2.43** (Unibet) · prob 42% vs casas 38% · ventaja +3%
+
+- ❌ Valor: ventaja +3% (mín. 8% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.53 - 1.18)  
+1 50% · X 27% · 2 23%  
+1X 77% · X2 50% · 12 73%  
++1.5 76% · +2.5 51% · +3.5 29% · Ambos marcan 55%  
+Marcadores: 1-1 13% · 1-0 10% · 2-1 9% · 2-0 8%  
+🔎 **Claves**  
+• Forma: Rizespor ➖❌❌❌➖ | Erzurumspor ✅➖✅✅❌  
+• H2H: sin precedentes  
+• Bajas: Rizespor: 0 fuera, 1 duda; Erzurumspor: 0 fuera, 1 duda  
+• Favorito de las casas: Rizespor @ 1.95  
+📐 **Estadísticas esperadas**  
+Córners 5.6 - 3.9: total +9.5 48% · Rizespor +5.5 47% · Erzurumspor +4.5 36%  
+Tarjetas 2.1 - 2.0: total +4.5 40% · Rizespor +2.5 36% · Erzurumspor +2.5 33%  
+Faltas 11.5 - 11.6: total +26.5 25% · Rizespor +13.5 27% · Erzurumspor +13.5 29%  
+Tiros a puerta 5.6 - 3.6: total +9.5 45% · Rizespor +5.5 48% · Erzurumspor +4.5 31%  
+🧩 Crear apuesta: Menos de 26.5 faltas + Menos de 4.5 tiros a puerta de Erzurumspor + Menos de 2.5 tarjetas de Erzurumspor → prob. 36%, cuota justa 2.75 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 26.5 faltas + Menos de 4.5 tiros a puerta de Erzurumspor + Menos de 2.5 tarjetas de Erzurumspor + Menos de 4.5 córners de Erzurumspor → prob. 24%, cuota justa 4.11  
+
+## Rizespor vs Erzurumspor — 08/11 · 11:30
+
+👀 candidata · 🇹🇷 Süper Lig · **Menos de 6.5 córners de Rizespor** @ **1.27** (Unibet) · prob 69% vs casas 72% · ventaja -12%
+
+- ❌ Valor: ventaja -12% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
 
 📊 **Escenarios** (goles esperados 1.53 - 1.18)  
 1 50% · X 27% · 2 23%  
