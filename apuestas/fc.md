@@ -1,80 +1,44 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 07/11/2026 02:18 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 07/11/2026 02:43 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## vivienne vs Jokadinho — 07/11 · 02:24
+## Bjela vs vivienne — 07/11 · 02:48
 
-👀 candidata · 🎮⚽ FC 27 · World Cup B · **Empate** @ **5.20** (Unibet) · prob 21% vs casas 17% · ventaja +10%
-
-- ❌ Valor: ventaja +10% (mín. 10% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 58.876 partidos)  
-Goles esperados: vivienne 3.38 · Jokadinho 2.90  
-Ganador: vivienne 46% · empate 21% · Jokadinho 33%  
-Total: más de 6.5 goles 44% · menos 56%  
-Hándicap vivienne: −1.5 34% · −2.5 20%  
-🔎 **Claves**  
-• Forma: vivienne ❌✅✅✅➖ | Jokadinho ✅❌❌❌✅  
-• Partidos: vivienne 765 | Jokadinho 828  
-• Liga: World Cup B  
-• Unibet: 1 2.00 · X 5.20 · 2 2.23 (sin margen 44%/17%/39%) · ventaja +10%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 5.20 (+10%) · Paf España 5.20 (+10%)  
-
-## Kavviro vs ssstasonn — 07/11 · 02:27
-
-👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana Kavviro** @ **1.23** (cuota justa (sin casa)) · prob 81% vs casas 81% · ventaja +0%
-
-- ❌ Valor: ventaja +0% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 58.843 partidos)  
-Goles esperados: Kavviro 4.24 · ssstasonn 1.70  
-Ganador: Kavviro 81% · empate 12% · ssstasonn 7%  
-Total: más de 5.5 goles 55% · menos 45%  
-Hándicap Kavviro: −1.5 66% · −2.5 49%  
-🔎 **Claves**  
-• Forma: Kavviro ❌✅➖❌✅ | ssstasonn ❌❌❌❌❌  
-• Partidos: Kavviro 774 | ssstasonn 914  
-• Liga: Champions League B  
-• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
-
-## Dov1n vs Paka — 07/11 · 02:36
-
-👀 candidata · 🎮⚽ FC 27 · World Cup B · **Empate** @ **5.20** (Unibet) · prob 22% vs casas 17% · ventaja +12%
+👀 candidata · 🎮⚽ FC 27 · World Cup B · **Empate** @ **5.25** (Unibet) · prob 21% vs casas 17% · ventaja +12%
 
 - ✅ Valor: ventaja +12% (mín. 11% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 58.882 partidos)  
-Goles esperados: Dov1n 2.95 · Paka 3.23  
-Ganador: Dov1n 34% · empate 21% · Paka 45%  
-Total: más de 6.5 goles 42% · menos 58%  
-Hándicap Paka: −1.5 31% · −2.5 18%  
+📊 **Escenarios** (Poisson por jugador, 58.894 partidos)  
+Goles esperados: Bjela 3.23 · vivienne 2.61  
+Ganador: Bjela 52% · empate 21% · vivienne 27%  
+Total: más de 5.5 goles 53% · menos 47%  
+Hándicap Bjela: −1.5 35% · −2.5 21%  
 🔎 **Claves**  
-• Forma: Dov1n ✅❌❌❌➖ | Paka ❌➖✅❌❌  
-• Partidos: Dov1n 969 | Paka 801  
+• Forma: Bjela ✅✅➖❌✅ | vivienne ✅➖✅❌✅  
+• Partidos: Bjela 746 | vivienne 768  
 • Liga: World Cup B  
-• Unibet: 1 2.00 · X 5.20 · 2 2.23 (sin margen 44%/17%/39%) · ventaja +12%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 5.20 (+12%) · Paf España 5.20 (+12%)  
+• Unibet: 1 1.55 · X 5.25 · 2 3.35 (sin margen 57%/17%/26%) · ventaja +12%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 5.25 (+12%) · Paf España 5.25 (+12%)  
 
-## ssstasonn vs Grellz — 07/11 · 02:39
+## Paka vs Jokadinho — 07/11 · 02:48
 
-👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana Grellz** @ **1.22** (cuota justa (sin casa)) · prob 82% vs casas 82% · ventaja +0%
+👀 candidata · 🎮⚽ FC 27 · World Cup B · **Gana Paka** @ **2.20** (Unibet) · prob 50% vs casas 40% · ventaja +10%
 
-- ❌ Valor: ventaja +0% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+- ❌ Valor: ventaja +10% (mín. 11% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 58.843 partidos)  
-Goles esperados: ssstasonn 2.14 · Grellz 4.95  
-Ganador: ssstasonn 8% · empate 10% · Grellz 82%  
-Total: más de 7.5 goles 41% · menos 59%  
-Hándicap Grellz: −1.5 68% · −2.5 54%  
+📊 **Escenarios** (Poisson por jugador, 58.894 partidos)  
+Goles esperados: Paka 3.51 · Jokadinho 2.87  
+Ganador: Paka 50% · empate 21% · Jokadinho 30%  
+Total: más de 6.5 goles 45% · menos 55%  
+Hándicap Paka: −1.5 36% · −2.5 23%  
 🔎 **Claves**  
-• Forma: ssstasonn ❌❌❌❌❌ | Grellz ❌❌✅➖❌  
-• Partidos: ssstasonn 914 | Grellz 1028  
-• Liga: Champions League B  
-• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
+• Forma: Paka ➖✅❌❌✅ | Jokadinho ❌❌✅➖❌  
+• Partidos: Paka 802 | Jokadinho 830  
+• Liga: World Cup B  
+• Unibet: 1 2.20 · X 4.80 · 2 2.07 (sin margen 40%/18%/42%) · ventaja +10%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.20 (+10%) · Paf España 2.20 (+10%)  
 
 ## believer vs ssstasonn — 07/11 · 02:51
 

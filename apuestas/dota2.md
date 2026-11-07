@@ -1,6 +1,6 @@
 # 🐉 Dota 2 · apuestas de valor
 
-Actualizado 07/11/2026 02:18 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 07/11/2026 02:43 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Froglings vs Astra Invicta — 07/11 · 17:00
 
