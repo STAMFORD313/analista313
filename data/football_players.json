@@ -5,7 +5,7 @@
  "n_test": 174619,
  "stats": {
   "goles": {
-   "ll": 0.2702,
+   "ll": 0.2703,
    "ll_media": 0.3082,
    "ll_propia": 0.2821,
    "se_propia": 0.0004
@@ -17,8 +17,8 @@
    "se_propia": 0.0008
   },
   "cards": {
-   "ll": 0.4144,
-   "ll_media": 0.4242,
+   "ll": 0.4143,
+   "ll_media": 0.4241,
    "ll_propia": 0.4357,
    "se_propia": 0.0006
   },

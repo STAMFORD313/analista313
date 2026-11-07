@@ -1,39 +1,55 @@
 {
- "fecha": "2026-11-07 20:10",
- "n": 1119,
+ "fecha": "2026-11-07 20:35",
+ "n": 1125,
  "rentables": [],
  "bloqueados": [
   {
    "segmento": "mercado=1X2 · cuota=>2.5 · ventaja=>15%",
-   "n": 130,
-   "roi": -0.3273,
-   "se": 0.1285,
+   "n": 132,
+   "roi": -0.3375,
+   "se": 0.1268,
    "roi_antigua": -0.3369,
-   "roi_nueva": -0.3227
+   "roi_nueva": -0.3378
   },
   {
    "segmento": "cuota=>2.5 · ventaja=>15%",
-   "n": 154,
-   "roi": -0.2914,
-   "se": 0.118,
+   "n": 157,
+   "roi": -0.3049,
+   "se": 0.116,
    "roi_antigua": -0.2138,
-   "roi_nueva": -0.3451
+   "roi_nueva": -0.366
   },
   {
    "segmento": "deporte=🎮⚽ · cuota=>2.5 · ventaja=>15%",
-   "n": 127,
-   "roi": -0.3114,
-   "se": 0.1312,
+   "n": 129,
+   "roi": -0.3221,
+   "se": 0.1294,
    "roi_antigua": -0.2859,
-   "roi_nueva": -0.3227
+   "roi_nueva": -0.3378
   },
   {
    "segmento": "mercado=1X2 · ventaja=>15%",
-   "n": 206,
-   "roi": -0.1936,
-   "se": 0.091,
+   "n": 209,
+   "roi": -0.1958,
+   "se": 0.09,
    "roi_antigua": -0.0518,
-   "roi_nueva": -0.2681
+   "roi_nueva": -0.2699
+  },
+  {
+   "segmento": "deporte=🎮⚽ · mercado=1X2 · ventaja=>15%",
+   "n": 206,
+   "roi": -0.1841,
+   "se": 0.0911,
+   "roi_antigua": -0.01,
+   "roi_nueva": -0.2699
+  },
+  {
+   "segmento": "deporte=🎮⚽ · ventaja=>15%",
+   "n": 206,
+   "roi": -0.1841,
+   "se": 0.0911,
+   "roi_antigua": -0.01,
+   "roi_nueva": -0.2699
   },
   {
    "segmento": "mercado=ganador · ventaja=<0",
@@ -48,25 +64,25 @@
   },
   {
    "segmento": "mercado=ganador",
-   "n": 245,
-   "roi": -0.0378,
-   "se": 0.056,
+   "n": 246,
+   "roi": -0.0417,
+   "se": 0.0559,
    "roi_antigua": 0.0203,
-   "roi_nueva": -0.2586,
+   "roi_nueva": -0.2729,
    "clv": -0.0446,
    "clv_se": 0.0095,
    "clv_n": 46
   },
   {
    "segmento": "cuota=1.5-2",
-   "n": 308,
-   "roi": 0.0248,
-   "se": 0.0497,
+   "n": 310,
+   "roi": 0.0304,
+   "se": 0.0495,
    "roi_antigua": 0.1033,
-   "roi_nueva": -0.0548,
-   "clv": -0.036,
-   "clv_se": 0.0095,
-   "clv_n": 31
+   "roi_nueva": -0.0425,
+   "clv": -0.0358,
+   "clv_se": 0.0092,
+   "clv_n": 32
   }
  ]
 }
