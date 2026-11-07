@@ -59040,18 +59040,18 @@ id,tournament_id,club1,club2,ht1,ht2
 2366371,261163,B Dortmund,Juventus,,
 2366372,261163,Sporting CP,B Dortmund,,
 2366373,261163,Man City,Arsenal,,
-2365312,261117,Sassuolo,Roma,1,2
-2365313,261117,Juventus,Napoli,2,3
-2365314,261117,Napoli,Sassuolo,3,2
-2365315,261117,Roma,Bologna,0,2
-2365316,261117,Bologna,Napoli,0,2
-2365317,261117,Sassuolo,Juventus,0,0
-2365318,261117,Juventus,Bologna,3,0
-2365319,261117,Napoli,Roma,3,0
-2365320,261117,Roma,Juventus,0,0
-2365321,261117,Bologna,Sassuolo,1,2
-2365322,261117,Roma,Sassuolo,1,1
-2365323,261117,Napoli,Juventus,1,0
+2365312,261117,Sassuolo,Roma,1.0,2.0
+2365313,261117,Juventus,Napoli,2.0,3.0
+2365314,261117,Napoli,Sassuolo,3.0,2.0
+2365315,261117,Roma,Bologna,0.0,2.0
+2365316,261117,Bologna,Napoli,0.0,2.0
+2365317,261117,Sassuolo,Juventus,0.0,0.0
+2365318,261117,Juventus,Bologna,3.0,0.0
+2365319,261117,Napoli,Roma,3.0,0.0
+2365320,261117,Roma,Juventus,0.0,0.0
+2365321,261117,Bologna,Sassuolo,1.0,2.0
+2365322,261117,Roma,Sassuolo,1.0,1.0
+2365323,261117,Napoli,Juventus,1.0,0.0
 2365324,261117,Sassuolo,Napoli,,
 2365325,261117,Bologna,Roma,,
 2365326,261117,Napoli,Bologna,,
