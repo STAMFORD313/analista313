@@ -59095,15 +59095,15 @@ id,tournament_id,club1,club2,ht1,ht2
 2367790,261231,Tottenham,Man City,,
 2367791,261231,Chelsea,Tottenham,,
 2367792,261231,Arsenal,Liverpool,,
-2367694,261221,B Dortmund,Stuttgart,3,3
-2367695,261221,Stuttgart,Leipzig,3,1
-2367696,261221,Frankfurt,Bayern Munchen,1,1
-2367697,261221,Bayern Munchen,Stuttgart,2,0
-2367698,261221,Leipzig,B Dortmund,1,3
-2367699,261221,B Dortmund,Bayern Munchen,3,3
-2367700,261221,Stuttgart,Frankfurt,0,2
-2367701,261221,Frankfurt,B Dortmund,2,4
-2367702,261221,Bayern Munchen,Leipzig,0,1
+2367694,261221,B Dortmund,Stuttgart,3.0,3.0
+2367695,261221,Stuttgart,Leipzig,3.0,1.0
+2367696,261221,Frankfurt,Bayern Munchen,1.0,1.0
+2367697,261221,Bayern Munchen,Stuttgart,2.0,0.0
+2367698,261221,Leipzig,B Dortmund,1.0,3.0
+2367699,261221,B Dortmund,Bayern Munchen,3.0,3.0
+2367700,261221,Stuttgart,Frankfurt,0.0,2.0
+2367701,261221,Frankfurt,B Dortmund,2.0,4.0
+2367702,261221,Bayern Munchen,Leipzig,0.0,1.0
 2367703,261221,Frankfurt,Leipzig,,
 2367704,261221,Stuttgart,B Dortmund,,
 2367705,261221,Leipzig,Stuttgart,,
@@ -59115,14 +59115,14 @@ id,tournament_id,club1,club2,ht1,ht2
 2367711,261221,B Dortmund,Frankfurt,,
 2367712,261221,Leipzig,Bayern Munchen,,
 2367693,261221,Leipzig,Frankfurt,,
-2367432,261232,Argentina,Spain,1,1
-2367433,261232,Brazil,England,0,4
-2367434,261232,England,Argentina,1,2
-2367435,261232,Spain,France,3,2
-2367436,261232,France,England,1,0
-2367437,261232,Argentina,Brazil,1,2
-2367438,261232,Brazil,France,0,1
-2367439,261232,England,Spain,1,5
+2367432,261232,Argentina,Spain,1.0,1.0
+2367433,261232,Brazil,England,0.0,4.0
+2367434,261232,England,Argentina,1.0,2.0
+2367435,261232,Spain,France,3.0,2.0
+2367436,261232,France,England,1.0,0.0
+2367437,261232,Argentina,Brazil,1.0,2.0
+2367438,261232,Brazil,France,0.0,1.0
+2367439,261232,England,Spain,1.0,5.0
 2367440,261232,Spain,Brazil,,
 2367441,261232,France,Argentina,,
 2367442,261232,Spain,Argentina,,
@@ -59135,3 +59135,43 @@ id,tournament_id,club1,club2,ht1,ht2
 2367449,261232,Spain,England,,
 2367450,261232,Brazil,Spain,,
 2367451,261232,Argentina,France,,
+2367523,261250,Roma,Porto,2,0
+2367524,261250,Fenerbahce,Salzburg,1,3
+2367525,261250,Salzburg,Roma,2,5
+2367526,261250,Porto,Aston Villa,0,2
+2367527,261250,Aston Villa,Salzburg,2,3
+2367528,261250,Roma,Fenerbahce,2,2
+2367529,261250,Fenerbahce,Aston Villa,4,3
+2367530,261250,Salzburg,Porto,0,2
+2367531,261250,Porto,Fenerbahce,2,2
+2367532,261250,Aston Villa,Roma,1,0
+2367533,261250,Porto,Roma,,
+2367534,261250,Salzburg,Fenerbahce,,
+2367535,261250,Roma,Salzburg,,
+2367536,261250,Aston Villa,Porto,,
+2367537,261250,Salzburg,Aston Villa,,
+2367538,261250,Fenerbahce,Roma,,
+2367539,261250,Aston Villa,Fenerbahce,,
+2367540,261250,Porto,Salzburg,,
+2367541,261250,Fenerbahce,Porto,,
+2367542,261250,Roma,Aston Villa,,
+2367144,261279,Inter Miami CF,Atlanta United,3,0
+2368234,261279,LA Galaxy,Los Angeles FC,2,2
+2368235,261279,Los Angeles FC,Inter Miami CF,1,4
+2367147,261279,Atlanta United,Seattle Sounders FC,0,1
+2368236,261279,Seattle Sounders FC,Los Angeles FC,1,1
+2367149,261279,Inter Miami CF,LA Galaxy,2,1
+2367150,261279,LA Galaxy,Seattle Sounders FC,0,2
+2368237,261279,Los Angeles FC,Atlanta United,1,2
+2367152,261279,Atlanta United,LA Galaxy,0,3
+2367153,261279,Seattle Sounders FC,Inter Miami CF,0,3
+2367154,261279,Atlanta United,Inter Miami CF,0,2
+2368238,261279,Los Angeles FC,LA Galaxy,3,0
+2368239,261279,Inter Miami CF,Los Angeles FC,,
+2367157,261279,Seattle Sounders FC,Atlanta United,,
+2368240,261279,Los Angeles FC,Seattle Sounders FC,,
+2367159,261279,LA Galaxy,Inter Miami CF,,
+2367160,261279,Seattle Sounders FC,LA Galaxy,,
+2368241,261279,Atlanta United,Los Angeles FC,,
+2367162,261279,LA Galaxy,Atlanta United,,
+2367163,261279,Inter Miami CF,Seattle Sounders FC,,

@@ -1,6 +1,6 @@
 # 🏈 NFL·NCAA · apuestas de valor
 
-Actualizado 07/11/2026 07:29 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 07/11/2026 08:02 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Utah Utes vs BYU Cougars — 07/11 · 18:00
 

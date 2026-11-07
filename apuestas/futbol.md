@@ -1,24 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 07/11/2026 07:29 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Kashiwa Reysol vs Kawasaki Frontale — 07/11 · 08:00
-
-👀 candidata · 🇯🇵 J1 League · **Gana Kawasaki Frontale** @ **3.00** (Bet365) · prob 32% vs casas 32% · ventaja -3%
-
-- ❌ Valor: ventaja -3% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.51 - 1.57)  
-1 46% · X 25% · 2 29%  
-1X 71% · X2 54% · 12 75%  
-+1.5 82% · +2.5 59% · +3.5 37% · Ambos marcan 62%  
-Marcadores: 1-1 11% · 1-2 9% · 2-1 8% · 0-1 7%  
-🔎 **Claves**  
-• Forma: Kashiwa Reysol ✅❌➖✅✅ | Kawasaki Frontale ❌✅✅✅❌  
-• H2H: 26 desde 2012: 7V-8E-11D · 3.2 goles/partido · +2.5 en 54%  
-• Bajas: Kashiwa Reysol: sin bajas; Kawasaki Frontale: sin bajas  
-• Favorito de las casas: Kashiwa Reysol @ 2.10  
+Actualizado 07/11/2026 08:02 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Eyupspor vs Kocaelispor — 07/11 · 11:30
 
