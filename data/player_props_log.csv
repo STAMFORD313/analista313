@@ -1644,6 +1644,7 @@ fecha,partido,jugador,mercado,linea,cuota,p_casa,p_modelo,titular,valor,acierto
 2026-11-06,Toulouse vs Strasbourg,Conrad Harder,To Score,0.5,2.9,0.3448,0.2052,1,0.0,0
 2026-11-06,Toulouse vs Strasbourg,Giovanni Reyna,To Get a Card,0.5,4.0,0.25,0.1316,1,0.0,0
 2026-11-06,Toulouse vs Strasbourg,Gessime Yassine,To give an assist,0.5,4.3,0.2326,0.1804,1,0.0,0
+2026-11-06,Venezia vs Udinese,Jurgen Ekkelenkamp,To Score,0.5,4.8,0.2083,0.1783,1,0.0,0
 2026-11-06,Venezia vs Udinese,Mergim Vojvoda,Player's shots on target,0.5,3.4,0.2941,0.2435,1,0.0,0
 2026-11-06,Venezia vs Udinese,Hassane Kamara,To Score,0.5,11.5,0.087,0.0808,1,0.0,0
 2026-11-06,Venezia vs Udinese,James Abankwah,To Get a Card,0.5,3.6,0.2778,0.1539,1,0.0,0
@@ -1653,21 +1654,20 @@ fecha,partido,jugador,mercado,linea,cuota,p_casa,p_modelo,titular,valor,acierto
 2026-11-06,Venezia vs Udinese,Jakub Piotrowski,To Score,0.5,7.0,0.1429,0.0869,1,0.0,0
 2026-11-06,Venezia vs Udinese,John Yeboah,To score at least 2 goals,1.5,17.0,0.0588,0.0147,1,0.0,0
 2026-11-06,Venezia vs Udinese,Giorgi Chakvetadze,To Score,0.5,7.5,0.1333,0.0176,0,0.0,0
-2026-11-06,Venezia vs Udinese,Joel Schingtienne,To give an assist,0.5,6.5,0.1538,0.0107,0,0.0,0
-2026-11-06,Venezia vs Udinese,Nicolò Zaniolo,Player's shots on target,0.5,1.6,0.625,0.4234,1,0.0,0
 2026-11-06,Venezia vs Udinese,Thierry Correia,To Score,0.5,10.0,0.1,0.0179,0,0.0,0
+2026-11-06,Venezia vs Udinese,Nicolò Zaniolo,Player's shots on target,0.5,1.6,0.625,0.4234,1,0.0,0
 2026-11-06,Venezia vs Udinese,Matteo Palma,To Score,0.5,13.0,0.0769,0.0815,1,0.0,0
-2026-11-06,Venezia vs Udinese,Juan Jesus,To Get a Card,0.5,3.7,0.2703,0.2456,1,0.0,0
+2026-11-06,Venezia vs Udinese,Joel Schingtienne,To Score,0.5,10.0,0.1,0.0189,0,0.0,0
 2026-11-06,Venezia vs Udinese,Oumar Solet,To Get a Card,0.5,3.7,0.2703,0.0839,1,0.0,0
 2026-11-06,Venezia vs Udinese,Simon Sohm,To give an assist,0.5,6.0,0.1667,0.0755,1,0.0,0
 2026-11-06,Venezia vs Udinese,Nicolò Zaniolo,To give an assist,0.5,4.8,0.2083,0.129,1,0.0,0
 2026-11-06,Venezia vs Udinese,Keinan Davis,Player's shots on target,1.5,2.85,0.3509,0.1423,1,1.0,0
+2026-11-06,Venezia vs Udinese,Unai Gomez,To Score,0.5,5.2,0.1923,0.0222,0,0.0,0
 2026-11-06,Venezia vs Udinese,Ridgeciano Haps,To give an assist,0.5,8.0,0.125,0.0273,0,0.0,0
-2026-11-06,Venezia vs Udinese,Jurgen Ekkelenkamp,To Score,0.5,4.8,0.2083,0.1783,1,0.0,0
+2026-11-06,Venezia vs Udinese,Joel Schingtienne,To give an assist,0.5,6.5,0.1538,0.0107,0,0.0,0
+2026-11-06,Venezia vs Udinese,Juan Jesus,To Get a Card,0.5,3.7,0.2703,0.2456,1,0.0,0
+2026-11-06,Venezia vs Udinese,Gianluca Busio,To Get a Card,0.5,6.0,0.1667,0.0444,0,0.0,0
 2026-11-06,Venezia vs Udinese,Lion Lauberbach,Player's shots on target,1.5,3.15,0.3175,0.0088,0,0.0,0
-2026-11-06,Venezia vs Udinese,Joel Schingtienne,To Score,0.5,10.0,0.1,0.0189,0,0.0,0
-2026-11-06,Venezia vs Udinese,Toma Basic,To Get a Card,0.5,4.3,0.2326,0.114,1,0.0,0
-2026-11-06,Venezia vs Udinese,Lennon Miller,To give an assist,0.5,7.5,0.1333,0.0205,0,0.0,0
 2026-11-06,Venezia vs Udinese,Albion Rrahmani,Player's shots on target,0.5,1.53,0.6536,0.103,0,0.0,0
 2026-11-06,Venezia vs Udinese,Albion Rrahmani,Player's shots on target,1.5,3.25,0.3077,0.0055,0,0.0,0
 2026-11-06,Venezia vs Udinese,Simon Sohm,Player's shots on target,0.5,3.1,0.3226,0.1933,1,0.0,0
@@ -1678,6 +1678,7 @@ fecha,partido,jugador,mercado,linea,cuota,p_casa,p_modelo,titular,valor,acierto
 2026-11-06,Venezia vs Udinese,Jesper Karlström,To Score,0.5,12.5,0.08,0.0626,1,0.0,0
 2026-11-06,Venezia vs Udinese,Oier Zarraga,To Get a Card,0.5,4.0,0.25,0.0274,0,0.0,0
 2026-11-06,Venezia vs Udinese,Toma Basic,To give an assist,0.5,5.2,0.1923,0.0759,1,0.0,0
+2026-11-06,Venezia vs Udinese,Toma Basic,To Get a Card,0.5,4.3,0.2326,0.114,1,0.0,0
 2026-11-06,Venezia vs Udinese,Simon Sohm,To Score,0.5,7.5,0.1333,0.0491,1,0.0,0
 2026-11-06,Venezia vs Udinese,Mergim Vojvoda,To give an assist,0.5,6.75,0.1481,0.0609,1,0.0,0
 2026-11-06,Venezia vs Udinese,Keinan Davis,To Get a Card,0.5,4.0,0.25,0.1271,1,0.0,0
@@ -1685,11 +1686,8 @@ fecha,partido,jugador,mercado,linea,cuota,p_casa,p_modelo,titular,valor,acierto
 2026-11-06,Venezia vs Udinese,Armel Bella-Kotchap,To Score,0.5,11.5,0.087,0.0193,0,0.0,0
 2026-11-06,Venezia vs Udinese,Nicolò Bertola,To Get a Card,0.5,3.5,0.2857,0.0436,0,0.0,0
 2026-11-06,Venezia vs Udinese,Jakub Piotrowski,Player's shots on target,0.5,2.7,0.3704,0.2878,1,0.0,0
-2026-11-06,Venezia vs Udinese,Gianluca Busio,To Get a Card,0.5,6.0,0.1667,0.0444,0,0.0,0
-2026-11-06,Venezia vs Udinese,Unai Gomez,To Score,0.5,5.2,0.1923,0.0222,0,0.0,0
-2026-11-06,Venezia vs Udinese,John Yeboah,Player's shots on target,1.5,3.25,0.3077,0.2127,1,0.0,0
-2026-11-06,Venezia vs Udinese,Keinan Davis,Player's shots on target,2.5,6.25,0.16,0.0295,1,1.0,0
-2026-11-06,Venezia vs Udinese,Jakub Piotrowski,To score at least 2 goals,1.5,56.0,0.0179,0.0039,1,0.0,0
+2026-11-06,Venezia vs Udinese,Lennon Miller,To give an assist,0.5,7.5,0.1333,0.0205,0,0.0,0
+2026-11-06,Venezia vs Udinese,Unai Gomez,To score at least 2 goals,1.5,41.0,0.0244,0.0002,0,0.0,0
 2026-11-06,Venezia vs Udinese,Christian Kabasele,To give an assist,0.5,11.5,0.087,0.0074,0,0.0,0
 2026-11-06,Venezia vs Udinese,Lion Lauberbach,To score at least 3 goals,2.5,71.0,0.0141,0.0,0,0.0,0
 2026-11-06,Venezia vs Udinese,Alfred Duncan,Player's shots on target,0.5,2.75,0.3636,0.0751,0,0.0,0
@@ -1699,7 +1697,6 @@ fecha,partido,jugador,mercado,linea,cuota,p_casa,p_modelo,titular,valor,acierto
 2026-11-06,Venezia vs Udinese,Matías Moreno,Player's shots on target,0.5,4.5,0.2222,0.053,1,0.0,0
 2026-11-06,Venezia vs Udinese,Hassane Kamara,Player's shots on target,0.5,3.7,0.2703,0.3012,1,0.0,0
 2026-11-06,Venezia vs Udinese,Hassane Kamara,To give an assist,0.5,9.0,0.1111,0.1177,1,0.0,0
-2026-11-06,Venezia vs Udinese,Oumar Solet,To give an assist,0.5,16.0,0.0625,0.0258,1,0.0,0
 2026-11-06,Venezia vs Udinese,Nicolò Zaniolo,Player's shots on target,1.5,3.4,0.2941,0.1059,1,0.0,0
 2026-11-06,Venezia vs Udinese,Matteo Dagasso,Player's shots on target,0.5,2.9,0.3448,0.101,0,0.0,0
 2026-11-06,Venezia vs Udinese,Matteo Palma,To give an assist,0.5,12.5,0.08,0.02,1,0.0,0
@@ -1710,7 +1707,10 @@ fecha,partido,jugador,mercado,linea,cuota,p_casa,p_modelo,titular,valor,acierto
 2026-11-06,Venezia vs Udinese,Nicolò Bertola,To give an assist,0.5,15.0,0.0667,0.0122,0,0.0,0
 2026-11-06,Venezia vs Udinese,Lazar Jovanovic,To Get a Card,0.5,4.8,0.2083,0.034,0,0.0,0
 2026-11-06,Venezia vs Udinese,Jesper Karlström,Player's shots on target,0.5,4.2,0.2381,0.2118,1,0.0,0
+2026-11-06,Venezia vs Udinese,Keinan Davis,Player's shots on target,2.5,6.25,0.16,0.0295,1,1.0,0
 2026-11-06,Venezia vs Udinese,Ridgeciano Haps,Player's shots on target,0.5,4.5,0.2222,0.1084,0,0.0,0
+2026-11-06,Venezia vs Udinese,Redouane Halhal,Player's shots on target,0.5,4.7,0.2128,0.1257,1,0.0,0
+2026-11-06,Venezia vs Udinese,Jakub Piotrowski,To score at least 2 goals,1.5,56.0,0.0179,0.0039,1,0.0,0
 2026-11-06,Venezia vs Udinese,Lennon Miller,Player's shots on target,0.5,3.1,0.3226,0.0875,0,0.0,0
 2026-11-06,Venezia vs Udinese,Keinan Davis,To score at least 3 goals,2.5,81.0,0.0123,0.0009,1,0.0,0
 2026-11-06,Venezia vs Udinese,Richie Sagrado,Player's shots on target,0.5,3.8,0.2632,0.1043,0,0.0,0
@@ -1730,15 +1730,15 @@ fecha,partido,jugador,mercado,linea,cuota,p_casa,p_modelo,titular,valor,acierto
 2026-11-06,Venezia vs Udinese,Matteo Palma,Player's shots on target,0.5,5.0,0.2,0.2199,1,0.0,0
 2026-11-06,Venezia vs Udinese,Jurgen Ekkelenkamp,Player's shots on target,1.5,6.0,0.1667,0.0878,1,3.0,1
 2026-11-06,Venezia vs Udinese,Armel Bella-Kotchap,To give an assist,0.5,13.0,0.0769,0.0086,0,0.0,0
-2026-11-06,Venezia vs Udinese,Redouane Halhal,Player's shots on target,0.5,4.7,0.2128,0.1257,1,0.0,0
-2026-11-06,Venezia vs Udinese,Unai Gomez,To score at least 2 goals,1.5,41.0,0.0244,0.0002,0,0.0,0
+2026-11-06,Venezia vs Udinese,John Yeboah,Player's shots on target,1.5,3.25,0.3077,0.2127,1,0.0,0
+2026-11-06,Venezia vs Udinese,Oumar Solet,To give an assist,0.5,16.0,0.0625,0.0258,1,0.0,0
+2026-11-06,Venezia vs Udinese,Pasquale Mazzocchi,To give an assist,0.5,7.5,0.1333,0.0884,1,1.0,1
 2026-11-06,Venezia vs Udinese,Jurgen Ekkelenkamp,To Get a Card,0.5,3.9,0.2564,0.0634,1,0.0,0
 2026-11-06,Venezia vs Udinese,Albion Rrahmani,To Get a Card,0.5,4.6,0.2174,0.0222,0,0.0,0
 2026-11-06,Venezia vs Udinese,John Yeboah,To Score,0.5,3.5,0.2857,0.1666,1,0.0,0
 2026-11-06,Venezia vs Udinese,Kornel Lisman,Player's shots on target,0.5,2.07,0.4831,0.0911,0,0.0,0
+2026-11-06,Venezia vs Udinese,Jakub Piotrowski,To give an assist,0.5,6.0,0.1667,0.0533,1,0.0,0
 2026-11-06,Venezia vs Udinese,Kornel Lisman,To give an assist,0.5,4.3,0.2326,0.0147,0,0.0,0
-2026-11-06,Venezia vs Udinese,Pasquale Mazzocchi,To give an assist,0.5,7.5,0.1333,0.0884,1,1.0,1
-2026-11-06,Venezia vs Udinese,Mergim Vojvoda,To score at least 2 goals,1.5,101.0,0.0099,0.0021,1,0.0,0
 2026-11-06,Venezia vs Udinese,Mergim Vojvoda,To Score,0.5,8.5,0.1176,0.0645,1,0.0,0
 2026-11-06,Venezia vs Udinese,Jurgen Ekkelenkamp,To give an assist,0.5,6.0,0.1667,0.0924,1,0.0,0
 2026-11-06,Venezia vs Udinese,Jesper Karlström,To Get a Card,0.5,4.0,0.25,0.208,1,0.0,0
@@ -1748,10 +1748,10 @@ fecha,partido,jugador,mercado,linea,cuota,p_casa,p_modelo,titular,valor,acierto
 2026-11-06,Venezia vs Udinese,Joel Schingtienne,To Get a Card,0.5,4.0,0.25,0.0437,0,0.0,0
 2026-11-06,Venezia vs Udinese,James Abankwah,To Score,0.5,11.0,0.0909,0.0571,1,0.0,0
 2026-11-06,Venezia vs Udinese,Giorgi Chakvetadze,To Get a Card,0.5,3.8,0.2632,0.0336,0,0.0,0
-2026-11-06,Venezia vs Udinese,Keinan Davis,Player's shots on target,0.5,1.43,0.6993,0.4835,1,1.0,1
-2026-11-06,Venezia vs Udinese,Jakub Piotrowski,To give an assist,0.5,6.0,0.1667,0.0533,1,0.0,0
+2026-11-06,Venezia vs Udinese,Mergim Vojvoda,To score at least 2 goals,1.5,101.0,0.0099,0.0021,1,0.0,0
 2026-11-06,Venezia vs Udinese,Lazar Jovanovic,To give an assist,0.5,5.8,0.1724,0.0129,0,0.0,0
 2026-11-06,Venezia vs Udinese,Nicolò Zaniolo,To score at least 2 goals,1.5,19.0,0.0526,0.0101,1,0.0,0
+2026-11-06,Venezia vs Udinese,Giorgi Chakvetadze,Player's shots on target,0.5,2.95,0.339,0.0869,0,1.0,1
 2026-11-06,Venezia vs Udinese,Antoine Hainaut,Player's shots on target,0.5,2.65,0.3774,0.2681,1,1.0,1
 2026-11-06,Venezia vs Udinese,Kornel Lisman,To Get a Card,0.5,4.4,0.2273,0.0272,0,0.0,0
 2026-11-06,Venezia vs Udinese,Oumar Solet,To score at least 2 goals,1.5,71.0,0.0141,0.0014,1,0.0,0
@@ -1762,18 +1762,19 @@ fecha,partido,jugador,mercado,linea,cuota,p_casa,p_modelo,titular,valor,acierto
 2026-11-06,Venezia vs Udinese,Lion Lauberbach,Player's shots on target,0.5,1.5,0.6667,0.1294,0,0.0,0
 2026-11-06,Venezia vs Udinese,Antoine Hainaut,To score at least 2 goals,1.5,51.0,0.0196,0.0084,1,0.0,0
 2026-11-06,Venezia vs Udinese,Hassane Kamara,To Get a Card,0.5,4.3,0.2326,0.1477,1,0.0,0
+2026-11-06,Venezia vs Udinese,Unai Gomez,To Get a Card,0.5,4.2,0.2381,0.0309,0,0.0,0
 2026-11-06,Venezia vs Udinese,Antoine Hainaut,To Score,0.5,6.0,0.1667,0.1265,1,0.0,0
 2026-11-06,Venezia vs Udinese,Ridgeciano Haps,To Get a Card,0.5,3.5,0.2857,0.0401,0,0.0,0
 2026-11-06,Venezia vs Udinese,Jurgen Ekkelenkamp,To score at least 2 goals,1.5,36.0,0.0278,0.0169,1,0.0,0
-2026-11-06,Venezia vs Udinese,Lion Lauberbach,To Get a Card,0.5,4.1,0.2439,0.0236,0,0.0,0
 2026-11-06,Venezia vs Udinese,Gianluca Busio,To give an assist,0.5,5.0,0.2,0.0357,0,0.0,0
 2026-11-06,Venezia vs Udinese,Simon Sohm,To Get a Card,0.5,5.2,0.1923,0.17,1,0.0,0
 2026-11-06,Venezia vs Udinese,Lion Lauberbach,To give an assist,0.5,3.5,0.2857,0.011,0,0.0,0
 2026-11-06,Venezia vs Udinese,Unai Gomez,To give an assist,0.5,6.5,0.1538,0.0198,0,0.0,0
-2026-11-06,Venezia vs Udinese,Giorgi Chakvetadze,Player's shots on target,0.5,2.95,0.339,0.0869,0,1.0,1
+2026-11-06,Venezia vs Udinese,Keinan Davis,Player's shots on target,0.5,1.43,0.6993,0.4835,1,1.0,1
 2026-11-06,Venezia vs Udinese,Keinan Davis,To score at least 2 goals,1.5,14.0,0.0714,0.0145,1,0.0,0
-2026-11-06,Venezia vs Udinese,Keinan Davis,To Score,0.5,3.2,0.3125,0.1654,1,0.0,0
-2026-11-06,Venezia vs Udinese,Kornel Lisman,To Score,0.5,4.5,0.2222,0.0328,0,0.0,0
+2026-11-06,Venezia vs Udinese,Lion Lauberbach,To Get a Card,0.5,4.1,0.2439,0.0236,0,0.0,0
+2026-11-06,Venezia vs Udinese,Lazar Jovanovic,To Score,0.5,3.9,0.2564,0.0288,0,0.0,0
+2026-11-06,Venezia vs Udinese,Lennon Miller,To Get a Card,0.5,4.0,0.25,0.0516,0,0.0,0
 2026-11-06,Venezia vs Udinese,Giorgi Chakvetadze,To give an assist,0.5,5.0,0.2,0.0202,0,0.0,0
 2026-11-06,Venezia vs Udinese,Antoine Hainaut,To Get a Card,0.5,4.2,0.2381,0.0939,1,0.0,0
 2026-11-06,Venezia vs Udinese,Matteo Dagasso,To Score,0.5,6.5,0.1538,0.0362,0,0.0,0
@@ -1785,37 +1786,36 @@ fecha,partido,jugador,mercado,linea,cuota,p_casa,p_modelo,titular,valor,acierto
 2026-11-06,Venezia vs Udinese,Jurgen Ekkelenkamp,Player's shots on target,0.5,2.15,0.4651,0.3886,1,3.0,1
 2026-11-06,Venezia vs Udinese,Christian Kabasele,To Get a Card,0.5,3.4,0.2941,0.0343,0,0.0,0
 2026-11-06,Venezia vs Udinese,Albion Rrahmani,To give an assist,0.5,6.5,0.1538,0.012,0,0.0,0
+2026-11-06,Venezia vs Udinese,Matías Moreno,To Get a Card,0.5,4.2,0.2381,0.2245,1,0.0,0
 2026-11-06,Venezia vs Udinese,Richie Sagrado,To Score,0.5,9.5,0.1053,0.0372,0,0.0,0
 2026-11-06,Venezia vs Udinese,Pasquale Mazzocchi,To Get a Card,0.5,4.3,0.2326,0.1142,1,1.0,1
-2026-11-06,Venezia vs Udinese,Unai Gomez,To Get a Card,0.5,4.2,0.2381,0.0309,0,0.0,0
 2026-11-06,Venezia vs Udinese,Jakub Piotrowski,To Get a Card,0.5,3.7,0.2703,0.148,1,0.0,0
 2026-11-06,Venezia vs Udinese,Gianluca Busio,Player's shots on target,0.5,2.5,0.4,0.1075,0,0.0,0
 2026-11-06,Venezia vs Udinese,Matteo Dagasso,To Get a Card,0.5,4.0,0.25,0.0326,0,0.0,0
 2026-11-06,Venezia vs Udinese,Gianluca Busio,To Score,0.5,5.8,0.1724,0.0312,0,0.0,0
 2026-11-06,Venezia vs Udinese,Alfred Duncan,To give an assist,0.5,5.8,0.1724,0.0158,0,0.0,0
 2026-11-06,Venezia vs Udinese,Redouane Halhal,To Get a Card,0.5,4.6,0.2174,0.1964,1,0.0,0
-2026-11-06,Venezia vs Udinese,Lazar Jovanovic,To Score,0.5,3.9,0.2564,0.0288,0,0.0,0
-2026-11-06,Venezia vs Udinese,Lennon Miller,To Get a Card,0.5,4.0,0.25,0.0516,0,0.0,0
+2026-11-06,Venezia vs Udinese,Keinan Davis,To Score,0.5,3.2,0.3125,0.1654,1,0.0,0
 2026-11-06,Venezia vs Udinese,Nicolò Zaniolo,To Score,0.5,3.6,0.2778,0.1385,1,0.0,0
-2026-11-06,Venezia vs Udinese,Matías Moreno,To Get a Card,0.5,4.2,0.2381,0.2245,1,0.0,0
-2026-11-06,Venezia vs Udinese,Armel Bella-Kotchap,To Get a Card,0.5,4.2,0.2381,0.0296,0,0.0,0
 2026-11-06,Venezia vs Udinese,John Yeboah,To Get a Card,0.5,5.0,0.2,0.0809,1,0.0,0
+2026-11-06,Venezia vs Udinese,Kornel Lisman,To Score,0.5,4.5,0.2222,0.0328,0,0.0,0
+2026-11-06,Venezia vs Udinese,Armel Bella-Kotchap,To Get a Card,0.5,4.2,0.2381,0.0296,0,0.0,0
 2026-11-06,Venezia vs Udinese,Juan Jesus,To Score,0.5,11.0,0.0909,0.0168,1,0.0,0
 2026-11-06,Venezia vs Udinese,Christian Kabasele,To Score,0.5,12.5,0.08,0.0248,0,0.0,0
-2026-11-06,Venezia vs Udinese,Oier Zarraga,To Score,0.5,10.5,0.0952,0.0252,0,0.0,0
+2026-11-06,Venezia vs Udinese,Ridgeciano Haps,To Score,0.5,11.0,0.0909,0.0444,0,0.0,0
 2026-11-06,Venezia vs Udinese,John Yeboah,Player's shots on target,0.5,1.54,0.6494,0.5766,1,0.0,0
 2026-11-06,Venezia vs Udinese,Keinan Davis,To give an assist,0.5,4.0,0.25,0.1172,1,0.0,0
 2026-11-06,Venezia vs Udinese,Albion Rrahmani,To score at least 2 goals,1.5,15.0,0.0667,0.0006,0,0.0,0
-2026-11-06,Venezia vs Udinese,Toma Basic,To Score,0.5,5.3,0.1887,0.0699,1,1.0,1
-2026-11-06,Venezia vs Udinese,Ridgeciano Haps,To Score,0.5,11.0,0.0909,0.0444,0,0.0,0
-2026-11-06,Venezia vs Udinese,Toma Basic,To score at least 2 goals,1.5,34.0,0.0294,0.0025,1,1.0,0
+2026-11-06,Venezia vs Udinese,Oier Zarraga,To Score,0.5,10.5,0.0952,0.0252,0,0.0,0
 2026-11-06,Venezia vs Udinese,Albion Rrahmani,To Score,0.5,3.4,0.2941,0.0354,0,0.0,0
-2026-11-06,Venezia vs Udinese,Nicolò Zaniolo,To Get a Card,0.5,4.2,0.2381,0.218,1,0.0,0
+2026-11-06,Venezia vs Udinese,Toma Basic,To Score,0.5,5.3,0.1887,0.0699,1,1.0,1
 2026-11-06,Venezia vs Udinese,John Yeboah,To give an assist,0.5,4.0,0.25,0.1105,1,0.0,0
-2026-11-06,Venezia vs Udinese,Matías Moreno,To Score,0.5,11.0,0.0909,0.0148,1,0.0,0
 2026-11-06,Venezia vs Udinese,Toma Basic,Player's shots on target,0.5,2.32,0.431,0.3155,1,1.0,1
+2026-11-06,Venezia vs Udinese,Nicolò Zaniolo,To Get a Card,0.5,4.2,0.2381,0.218,1,0.0,0
 2026-11-06,Venezia vs Udinese,Lion Lauberbach,To score at least 2 goals,1.5,14.0,0.0714,0.0005,0,0.0,0
+2026-11-06,Venezia vs Udinese,Matías Moreno,To Score,0.5,11.0,0.0909,0.0148,1,0.0,0
 2026-11-06,Venezia vs Udinese,Lion Lauberbach,To Score,0.5,3.2,0.3125,0.0324,0,0.0,0
+2026-11-06,Venezia vs Udinese,Toma Basic,To score at least 2 goals,1.5,34.0,0.0294,0.0025,1,1.0,0
 2026-11-06,Everton vs Coventry,Taiwo Awoniyi,Player's shots on target,0.5,1.72,0.5814,0.4318,1,0.0,0
 2026-11-06,Everton vs Coventry,Vitaliy Mykolenko,To Get a Card,0.5,4.6,0.2174,0.1702,1,0.0,0
 2026-11-06,Everton vs Coventry,Jake O'Brien,To Score,0.5,10.0,0.1,0.023,0,0.0,0
