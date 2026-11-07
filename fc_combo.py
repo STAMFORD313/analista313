@@ -7,7 +7,7 @@ medido en 17.831 partidos de los últimos 15 días: total > 4.5 previsto 70 % / 
 cobra ~12-15 % de margen y el modelo aún no le gana en el 1X2). Una pierna por partido, la de más ventaja, con
 probabilidad 40-92 %; primero las que tienen ventaja. Las cuotas que se ven se guardan en data/fc/odds_leo.csv para
 medir más adelante si el modelo gana a la casa en estos mercados."""
-import math, re, time
+import json, math, re, time
 
 import numpy as np
 import pandas as pd
@@ -23,6 +23,13 @@ LOG = E.DIR / "odds_leo.csv"
 # vetos fijos (vacío): los decide auto_veto() con las cuotas reales. El 6/11 a las 19 h se vetó a mano el hándicap del
 # visitante con 167 partidos; con 232 dejó de estar por debajo de la casa en la 2.ª mitad → era ruido.
 VETO = set()
+ROI_F = E.DIR / "leo_roi.json"
+
+
+def real_roi():
+    """(rentabilidad media real por pierna con LeoVegas, nº de partidos) o None."""
+    try: d = json.loads(ROI_F.read_text()); return d["roi"], d["n"]
+    except (OSError, ValueError, KeyError): return None
 _MODEL = {}
 
 
@@ -242,8 +249,12 @@ def played(veto=True):
 def auto_veto(x=None, min_n=100):
     """Tipos de pierna (mercado, lado) que, con la lógica puesta, aciertan MENOS que lo que espera la propia casa en las
     dos mitades del registro (por fecha) con ≥ `min_n` piernas: no aportan nada y pierden el margen → se vetan solos."""
+    save = x is None
     x = played(veto=False) if x is None else x
     if x is None or not len(x): return set()
+    if save:  # rentabilidad real por pierna (1 € a cada una), para avisar en las combinadas
+        try: ROI_F.write_text(json.dumps({"roi": float(np.where(x.ok, x.odds - 1, -1.0).mean()), "n": int(x.id.nunique())}))
+        except OSError: pass
     x = x.sort_values("date"); ids = x.id.drop_duplicates().tolist(); first = set(ids[:len(ids) // 2])
     out = set()
     for (k, s), g in x.groupby(["k", "s"]):
@@ -352,6 +363,10 @@ def combo(target=10.0, hours=3, cands=None):
     if odds < target: out.append(f"⚠️ Con estos partidos llego a cuota {odds:.1f}.")
     out.append(f"{'🟢' if ev > 0 else '🔴'} Según el bot, a la larga {'ganas' if ev > 0 else 'pierdes'} {abs(ev):.0%}. "
                "La casa cobra mucho margen en FC 27: es lotería, simúlala antes de poner dinero.")
+    rr = real_roi()
+    if rr and legs:  # lo medido con cuotas reales, no lo que cree el bot
+        out.append(f"📉 Con las cuotas reales de LeoVegas ({rr[1]} partidos) cada pierna pierde {-rr[0]:.1%}: "
+                   f"una combinada de {len(legs)} devuelve ~{(1 + rr[0]) ** len(legs):.0%} de lo apostado a la larga.")
     sim = [dict(src="fc", side=None, home=c["g"]["p1"], away=c["g"]["p2"], start=str(pd.Timestamp(c["g"]["date"])),
                 txt=c["txt"], odds=c["odds"], p=round(c["q"], 4), fc=c["fc"]) for c in legs]
     return "\n".join(out), sim, odds, p

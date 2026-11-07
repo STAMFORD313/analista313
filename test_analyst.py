@@ -1659,3 +1659,9 @@ _o2 = pd.DataFrame([{"seen": "t2", "id": 1, "k": "tot", "who": None, "line": 4.5
 _m = _FCC.merge_log(_FCC.merge_log(pd.DataFrame(), _o1), _o2).set_index("id")
 assert len(_m) == 2 and _m.loc[1, "odds"] == 1.40 and _m.loc[1, "odds0"] == 1.50 and _m.loc[1, "seen0"] == "t1" and _m.loc[2, "odds0"] == 2.0
 print("ok registro LeoVegas guarda primera y última cuota")
+_rf0 = _FCC.ROI_F; _FCC.ROI_F = Path(_tf.mkdtemp()) / "roi.json"
+try:
+    assert _FCC.real_roi() is None
+    _FCC.ROI_F.write_text(json.dumps({"roi": -0.05, "n": 250})); assert _FCC.real_roi() == (-0.05, 250)
+finally: _FCC.ROI_F = _rf0
+print("ok rentabilidad real FC 27 para avisar en combinadas")
