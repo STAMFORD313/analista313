@@ -1,61 +1,61 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 07/11/2026 14:57 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 07/11/2026 15:26 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## Totti vs Taz — 07/11 · 14:58
+## Rodja vs Gaga — 07/11 · 15:34
 
-👀 candidata · 🎮⚽ FC 27 · FA Cup · **Gana Taz** @ **1.93** (Unibet) · prob 60% vs casas 45% · ventaja +15%
+👀 candidata · 🎮⚽ FC 27 · Serie A · **Gana Gaga** @ **3.10** (Unibet) · prob 36% vs casas 28% · ventaja +13%
 
-- ✅ Valor: ventaja +15% (mín. 12% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 59.489 partidos)  
-Goles esperados: Totti 2.74 · Taz 3.89  
-Ganador: Totti 24% · empate 17% · Taz 60%  
-Total: más de 6.5 goles 49% · menos 51%  
-Hándicap Taz: −1.5 44% · −2.5 29%  
-🔎 **Claves**  
-• Forma: Totti ➖❌❌➖✅ | Taz ➖➖✅✅❌  
-• Partidos: Totti 944 | Taz 955  
-• Liga: FA Cup  
-• Unibet: 1 2.75 · X 3.75 · 2 1.93 (sin margen 32%/23%/45%) · ventaja +15%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 1.93 (+15%) · Paf España 1.93 (+15%)  
-
-## A1ose vs cl1vlind — 07/11 · 15:04
-
-👀 candidata · 🎮⚽ FC 27 · LaLiga · **Gana cl1vlind** @ **3.05** (Unibet) · prob 42% vs casas 28% · ventaja +29%
-
-- ✅ Valor: ventaja +29% (mín. 16% con la incertidumbre, máx. 30%)
+- ✅ Valor: ventaja +13% (mín. 12% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 59.489 partidos)  
-Goles esperados: A1ose 2.78 · cl1vlind 2.84  
-Ganador: A1ose 38% · empate 20% · cl1vlind 42%  
-Total: más de 5.5 goles 49% · menos 51%  
-Hándicap cl1vlind: −1.5 27% · −2.5 15%  
+📊 **Escenarios** (Poisson por jugador, 59.515 partidos)  
+Goles esperados: Rodja 2.36 · Gaga 2.24  
+Ganador: Rodja 40% · empate 23% · Gaga 36%  
+Total: más de 4.5 goles 49% · menos 51%  
+Hándicap Rodja: −1.5 25% · −2.5 13%  
 🔎 **Claves**  
-• Forma: A1ose ✅❌❌➖❌ | cl1vlind ❌✅❌✅➖  
-• Partidos: A1ose 818 | cl1vlind 476  
-• Liga: LaLiga  
-• Unibet: 1 2.28 · X 2.55 · 2 3.05 (sin margen 38%/34%/28%) · ventaja +29%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 3.05 (+29%) · Paf España 3.05 (+29%)  
+• Forma: Rodja ❌❌✅✅❌ | Gaga ➖➖✅❌✅  
+• Partidos: Rodja 951 | Gaga 1095  
+• Liga: Serie A  
+• Unibet: 1 2.40 · X 2.40 · 2 3.10 (sin margen 36%/36%/28%) · ventaja +13%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 3.10 (+13%) · Paf España 3.10 (+13%)  
 
-## saportj vs Shinobu — 07/11 · 15:04
+## Gaga vs borees — 07/11 · 15:46
 
-👀 candidata · 🎮⚽ FC 27 · Eredivisie · **Gana Shinobu** @ **4.20** (Unibet) · prob 30% vs casas 21% · ventaja +26%
+👀 candidata · 🎮⚽ FC 27 · Serie A · **Gana Gaga** @ **2.70** (Unibet) · prob 43% vs casas 32% · ventaja +16%
 
-- ✅ Valor: ventaja +26% (mín. 15% con la incertidumbre, máx. 30%)
+- ✅ Valor: ventaja +16% (mín. 12% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 59.489 partidos)  
-Goles esperados: saportj 2.45 · Shinobu 2.03  
-Ganador: saportj 50% · empate 20% · Shinobu 30%  
-Total: más de 4.5 goles 46% · menos 54%  
-Hándicap saportj: −1.5 30% · −2.5 16%  
+📊 **Escenarios** (Poisson por jugador, 59.515 partidos)  
+Goles esperados: Gaga 2.46 · borees 2.32  
+Ganador: Gaga 43% · empate 23% · borees 34%  
+Total: más de 4.5 goles 52% · menos 48%  
+Hándicap Gaga: −1.5 26% · −2.5 13%  
 🔎 **Claves**  
-• Forma: saportj ❌✅❌➖➖ | Shinobu ✅❌❌➖❌  
-• Partidos: saportj 688 | Shinobu 1277  
-• Liga: Eredivisie  
-• Unibet: 1 1.38 · X 5.20 · 2 4.20 (sin margen 63%/17%/21%) · ventaja +26%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 4.20 (+26%) · Paf España 4.20 (+26%)  
+• Forma: Gaga ➖➖✅❌✅ | borees ✅❌➖❌✅  
+• Partidos: Gaga 1095 | borees 996  
+• Liga: Serie A  
+• Unibet: 1 2.70 · X 3.35 · 2 2.06 (sin margen 32%/26%/42%) · ventaja +16%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.70 (+16%) · Paf España 2.70 (+16%)  
+
+## DEKSON vs Dicca — 07/11 · 15:49
+
+👀 candidata · 🎮⚽ FC 27 · Europa League · **Empate** @ **4.90** (Unibet) · prob 23% vs casas 18% · ventaja +12%
+
+- ✅ Valor: ventaja +12% (mín. 11% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 59.515 partidos)  
+Goles esperados: DEKSON 2.13 · Dicca 2.67  
+Ganador: DEKSON 27% · empate 23% · Dicca 50%  
+Total: más de 4.5 goles 52% · menos 48%  
+Hándicap Dicca: −1.5 32% · −2.5 18%  
+🔎 **Claves**  
+• Forma: DEKSON ❌✅❌✅✅ | Dicca ✅✅✅➖❌  
+• Partidos: DEKSON 457 | Dicca 673  
+• Liga: Europa League  
+• Unibet: 1 2.38 · X 4.90 · 2 1.94 (sin margen 37%/18%/45%) · ventaja +12%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 4.90 (+12%) · Paf España 4.90 (+12%)  
 
