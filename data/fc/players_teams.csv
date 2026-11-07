@@ -59607,18 +59607,18 @@ id,tournament_id,club1,club2,ht1,ht2
 2367890,261266,Porto,Salzburg,,
 2367891,261266,Aston Villa,Porto,,
 2367892,261266,Roma,Fenerbahce,,
-2368013,261251,B Dortmund,Sporting CP,3,0
-2368014,261251,Man City,Arsenal,2,1
-2368015,261251,Arsenal,B Dortmund,0,1
-2368016,261251,Sporting CP,Juventus,1,1
-2368017,261251,Juventus,Arsenal,5,0
-2368018,261251,B Dortmund,Man City,2,2
-2368019,261251,Man City,Juventus,1,1
-2368020,261251,Arsenal,Sporting CP,0,3
-2368021,261251,Sporting CP,Man City,1,1
-2368022,261251,Juventus,B Dortmund,2,2
-2368023,261251,Sporting CP,B Dortmund,3,2
-2368024,261251,Arsenal,Man City,3,1
+2368013,261251,B Dortmund,Sporting CP,3.0,0.0
+2368014,261251,Man City,Arsenal,2.0,1.0
+2368015,261251,Arsenal,B Dortmund,0.0,1.0
+2368016,261251,Sporting CP,Juventus,1.0,1.0
+2368017,261251,Juventus,Arsenal,5.0,0.0
+2368018,261251,B Dortmund,Man City,2.0,2.0
+2368019,261251,Man City,Juventus,1.0,1.0
+2368020,261251,Arsenal,Sporting CP,0.0,3.0
+2368021,261251,Sporting CP,Man City,1.0,1.0
+2368022,261251,Juventus,B Dortmund,2.0,2.0
+2368023,261251,Sporting CP,B Dortmund,3.0,2.0
+2368024,261251,Arsenal,Man City,3.0,1.0
 2368025,261251,B Dortmund,Arsenal,,
 2368026,261251,Juventus,Sporting CP,,
 2368027,261251,Arsenal,Juventus,,
@@ -59627,3 +59627,23 @@ id,tournament_id,club1,club2,ht1,ht2
 2368030,261251,Sporting CP,Arsenal,,
 2368031,261251,Man City,Sporting CP,,
 2368032,261251,B Dortmund,Juventus,,
+2366894,261236,Liverpool,Chelsea,2,3
+2366895,261236,Tottenham,Man City,0,2
+2366896,261236,Man City,Liverpool,1,0
+2366897,261236,Chelsea,Arsenal,1,1
+2366898,261236,Arsenal,Man City,1,0
+2366899,261236,Liverpool,Tottenham,2,1
+2366900,261236,Tottenham,Arsenal,0,3
+2366901,261236,Man City,Chelsea,2,2
+2366902,261236,Chelsea,Tottenham,2,0
+2366903,261236,Arsenal,Liverpool,3,1
+2366904,261236,Chelsea,Liverpool,0,0
+2366905,261236,Man City,Tottenham,1,0
+2366906,261236,Liverpool,Man City,1,1
+2366907,261236,Arsenal,Chelsea,1,1
+2366908,261236,Man City,Arsenal,,
+2366909,261236,Tottenham,Liverpool,,
+2366910,261236,Arsenal,Tottenham,,
+2366911,261236,Chelsea,Man City,,
+2366912,261236,Tottenham,Chelsea,,
+2366913,261236,Liverpool,Arsenal,,
