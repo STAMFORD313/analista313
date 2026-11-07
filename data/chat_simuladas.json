@@ -1318,5 +1318,49 @@
   "estado": "pendiente",
   "avisada": false,
   "rev": 1
+ },
+ {
+  "id": "20261107055231423979",
+  "creada": "2026-11-07 05:52:31.424018+00:00",
+  "titulo": "Barrido · Combinada cuota 5.9",
+  "legs": [
+   {
+    "code": null,
+    "start": "2026-11-07 16:30:00+00:00",
+    "home": "Degerfors",
+    "away": "GAIS",
+    "txt": "Gana GAIS",
+    "odds": 2.4,
+    "p": 0.4309
+   },
+   {
+    "src": "esports:cs2",
+    "side": "H",
+    "code": null,
+    "start": "2026-11-07 19:30:00+00:00",
+    "home": "BRUTE SQ",
+    "away": "Dynamo Eclot Phoenix",
+    "txt": "Gana BRUTE SQ",
+    "odds": 1.5,
+    "p": 0.6982444444444443
+   },
+   {
+    "src": "espn:nfl",
+    "side": "A",
+    "code": null,
+    "start": "2026-11-08 18:00:00+00:00",
+    "home": "Philadelphia Eagles",
+    "away": "New York Giants",
+    "txt": "Gana New York Giants",
+    "odds": 1.645,
+    "p": 0.6262099999999999
+   }
+  ],
+  "odds": 5.92,
+  "p": 0.18841001391708886,
+  "stake": 1.0,
+  "estado": "pendiente",
+  "avisada": false,
+  "rev": 1
  }
 ]
