@@ -1,63 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 07/11/2026 19:34 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## maggett0 vs borees — 07/11 · 19:40
-
-👀 candidata · 🎮⚽ FC 27 · Europa League · **Gana maggett0** @ **2.48** (Unibet) · prob 43% vs casas 35% · ventaja +7%
-
-- ❌ Valor: ventaja +7% (mín. 10% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 59.745 partidos)  
-Goles esperados: maggett0 2.95 · borees 2.81  
-Ganador: maggett0 43% · empate 21% · borees 36%  
-Total: más de 5.5 goles 52% · menos 48%  
-Hándicap maggett0: −1.5 28% · −2.5 16%  
-🔎 **Claves**  
-• Forma: maggett0 ❌❌✅✅❌ | borees ❌✅❌✅❌  
-• Partidos: maggett0 944 | borees 1012  
-• Liga: Europa League  
-• Unibet: 1 2.48 · X 4.90 · 2 1.87 (sin margen 35%/18%/47%) · ventaja +7%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.48 (+7%) · Paf España 2.48 (+7%)  
-
-## cappo vs Lufy — 07/11 · 19:48
-
-👀 candidata · 🎮⚽ FC 27 · Champions League B 2x6 · **Gana Lufy** @ **1.82** (Unibet) · prob 64% vs casas 48% · ventaja +17%
-
-- ✅ Valor: ventaja +17% (mín. 12% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 59.745 partidos)  
-Goles esperados: cappo 3.91 · Lufy 5.24  
-Ganador: cappo 24% · empate 12% · Lufy 64%  
-Total: más de 9.5 goles 43% · menos 57%  
-Hándicap Lufy: −1.5 47% · −2.5 34%  
-🔎 **Claves**  
-• Forma: cappo ✅✅✅✅✅ | Lufy ✅✅❌❌➖  
-• Partidos: cappo 300 | Lufy 718  
-• Liga: Champions League B 2x6  
-• Unibet: 1 2.45 · X 5.50 · 2 1.82 (sin margen 36%/16%/48%) · ventaja +17%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 1.82 (+17%) · Paf España 1.82 (+17%)  
-
-## borees vs Rodja — 07/11 · 19:52
-
-👀 candidata · 🎮⚽ FC 27 · Europa League · **Gana Rodja** @ **2.50** (Unibet) · prob 44% vs casas 35% · ventaja +10%
-
-- ❌ Valor: ventaja +10% (mín. 11% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 59.745 partidos)  
-Goles esperados: borees 2.48 · Rodja 2.75  
-Ganador: borees 33% · empate 22% · Rodja 44%  
-Total: más de 5.5 goles 43% · menos 57%  
-Hándicap Rodja: −1.5 29% · −2.5 16%  
-🔎 **Claves**  
-• Forma: borees ❌✅❌✅❌ | Rodja ✅✅➖❌✅  
-• Partidos: borees 1012 | Rodja 967  
-• Liga: Europa League  
-• Unibet: 1 1.94 · X 4.25 · 2 2.50 (sin margen 45%/20%/35%) · ventaja +10%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.50 (+11%) · Paf España 2.50 (+11%)  
+Actualizado 07/11/2026 20:04 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Shinobu vs Loka — 07/11 · 20:10
 
@@ -76,4 +19,61 @@ Hándicap Loka: −1.5 71% · −2.5 57%
 • Partidos: Shinobu 1291 | Loka 1142  
 • Liga: Copa America  
 • Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
+
+## Glumac vs llulle — 07/11 · 20:10
+
+👀 candidata · 🎮⚽ FC 27 · Premier League · **Gana Glumac** @ **2.33** (Unibet) · prob 53% vs casas 37% · ventaja +24%
+
+- ✅ Valor: ventaja +24% (mín. 14% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 59.767 partidos)  
+Goles esperados: Glumac 3.34 · llulle 2.71  
+Ganador: Glumac 53% · empate 20% · llulle 27%  
+Total: más de 6.5 goles 40% · menos 60%  
+Hándicap Glumac: −1.5 36% · −2.5 22%  
+🔎 **Claves**  
+• Forma: Glumac ❌✅➖✅❌ | llulle ➖❌❌❌✅  
+• Partidos: Glumac 760 | llulle 905  
+• Liga: Premier League  
+• Unibet: 1 2.33 · X 4.10 · 2 2.10 (sin margen 37%/21%/41%) · ventaja +24%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.33 (+24%) · Paf España 2.33 (+24%)  
+
+## pikalicaaa vs Jankulovski — 07/11 · 20:19
+
+👀 candidata · 🎮⚽ FC 27 · Serie A · **Empate** @ **5.40** (Unibet) · prob 22% vs casas 16% · ventaja +21%
+
+- ✅ Valor: ventaja +21% (mín. 14% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 59.767 partidos)  
+Goles esperados: pikalicaaa 2.51 · Jankulovski 2.37  
+Ganador: pikalicaaa 41% · empate 22% · Jankulovski 37%  
+Total: más de 4.5 goles 54% · menos 46%  
+Hándicap pikalicaaa: −1.5 26% · −2.5 14%  
+🔎 **Claves**  
+• Forma: pikalicaaa ❌➖❌❌❌ | Jankulovski ➖❌✅✅❌  
+• Partidos: pikalicaaa 631 | Jankulovski 832  
+• Liga: Serie A  
+• Unibet: 1 2.25 · X 5.40 · 2 1.96 (sin margen 39%/16%/45%) · ventaja +21%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 5.40 (+21%) · Paf España 5.40 (+21%)  
+
+## llulle vs Krkula — 07/11 · 20:22
+
+👀 candidata · 🎮⚽ FC 27 · Premier League · **Gana Krkula** @ **1.95** (Unibet) · prob 60% vs casas 45% · ventaja +16%
+
+- ✅ Valor: ventaja +16% (mín. 12% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 59.767 partidos)  
+Goles esperados: llulle 2.08 · Krkula 3.16  
+Ganador: llulle 21% · empate 20% · Krkula 60%  
+Total: más de 5.5 goles 43% · menos 57%  
+Hándicap Krkula: −1.5 42% · −2.5 26%  
+🔎 **Claves**  
+• Forma: llulle ➖❌❌❌✅ | Krkula ✅✅✅➖➖  
+• Partidos: llulle 905 | Krkula 617  
+• Liga: Premier League  
+• Unibet: 1 2.45 · X 4.40 · 2 1.95 (sin margen 36%/20%/45%) · ventaja +16%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 1.95 (+16%) · Paf España 1.95 (+16%)  
 

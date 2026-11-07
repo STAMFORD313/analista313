@@ -1,356 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 07/11/2026 19:34 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Pau FC vs Nantes — 07/11 · 20:00
-
-👀 candidata · 🇫🇷 Ligue 2 · **Nantes -0.25 (hándicap asiático)** @ **2.15** (mejor del mercado) · prob 46% vs casas 47% · ventaja -0%
-
-- ❌ Valor: ventaja -0% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ hándicap» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.42 - 1.35)  
-1 38% · X 29% · 2 33%  
-1X 67% · X2 62% · 12 71%  
-+1.5 77% · +2.5 52% · +3.5 30% · Ambos marcan 57%  
-Marcadores: 1-1 13% · 2-1 9% · 1-0 8% · 1-2 8%  
-🔎 **Claves**  
-• Forma: Pau FC ✅✅✅✅✅ | Nantes ✅➖❌❌➖  
-• H2H: sin precedentes  
-• Bajas: Pau FC: sin bajas; Nantes: sin bajas  
-• Favorito de las casas: Nantes @ 2.45  
-📐 **Estadísticas esperadas**  
-Córners 4.7 - 4.5: total +9.5 43% · Pau FC +5.5 34% · Nantes +4.5 44%  
-Tarjetas 2.1 - 2.1: total +4.5 40% · Pau FC +2.5 35% · Nantes +2.5 34%  
-Faltas 14.7 - 16.8: total +28.5 67% · Pau FC +13.5 60% · Nantes +15.5 60%  
-Tiros a puerta 4.4 - 3.8: total +8.5 43% · Pau FC +4.5 44% · Nantes +3.5 51%  
-🧩 Crear apuesta: Más de 28.5 faltas + Menos de 5.5 córners de Pau FC + Menos de 2.5 tarjetas de Nantes → prob. 28%, cuota justa 3.63 (solo vale si la casa paga más)  
-🚀 Combinada larga: Más de 28.5 faltas + Menos de 5.5 córners de Pau FC + Menos de 2.5 tarjetas de Nantes + Menos de 8.5 tiros a puerta → prob. 17%, cuota justa 5.90  
-
-## St Etienne vs Laval — 07/11 · 20:00
-
-👀 candidata · 🇫🇷 Ligue 2 · **Gana St Etienne** @ **1.37** (Bwin) · prob 71% vs casas 71% · ventaja -2%
-
-- ❌ Valor: ventaja -2% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 2.04 - 0.80)  
-1 68% · X 21% · 2 11%  
-1X 89% · X2 32% · 12 79%  
-+1.5 78% · +2.5 54% · +3.5 32% · Ambos marcan 48%  
-Marcadores: 2-0 12% · 1-0 11% · 1-1 10% · 2-1 10%  
-🔎 **Claves**  
-• Forma: St Etienne ➖✅✅✅❌ | Laval ➖❌➖❌✅  
-• H2H: 6 desde 2023: 3V-2E-1D · 2.3 goles/partido · +2.5 en 50%  
-• Bajas: St Etienne: sin bajas; Laval: sin bajas  
-• Favorito de las casas: St Etienne @ 1.37  
-📐 **Estadísticas esperadas**  
-Córners 6.5 - 3.7: total +9.5 55% · St Etienne +5.5 58% · Laval +4.5 31%  
-Tarjetas 1.6 - 2.4: total +4.5 37% · St Etienne +2.5 22% · Laval +2.5 42%  
-Faltas 14.7 - 15.8: total +28.5 61% · St Etienne +13.5 60% · Laval +15.5 51%  
-Tiros a puerta 6.1 - 2.8: total +8.5 53% · St Etienne +4.5 70% · Laval +3.5 32%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de St Etienne + Más de 4.5 tiros a puerta de St Etienne + Menos de 4.5 córners de Laval → prob. 40%, cuota justa 2.50 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de St Etienne + Más de 4.5 tiros a puerta de St Etienne + Menos de 4.5 córners de Laval + Más de 28.5 faltas → prob. 23%, cuota justa 4.36  
-
-## Pau FC vs Nantes — 07/11 · 20:00
-
-👀 candidata · 🇫🇷 Ligue 2 · **Más de 4.5 córners de Pau FC** @ **1.87** (Unibet) · prob 48% vs casas 48% · ventaja -10%
-
-- ❌ Valor: ventaja -10% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.42 - 1.35)  
-1 38% · X 29% · 2 33%  
-1X 67% · X2 62% · 12 71%  
-+1.5 77% · +2.5 52% · +3.5 30% · Ambos marcan 57%  
-Marcadores: 1-1 13% · 2-1 9% · 1-0 8% · 1-2 8%  
-🔎 **Claves**  
-• Forma: Pau FC ✅✅✅✅✅ | Nantes ✅➖❌❌➖  
-• H2H: sin precedentes  
-• Bajas: Pau FC: sin bajas; Nantes: sin bajas  
-• Favorito de las casas: Nantes @ 2.45  
-📐 **Estadísticas esperadas**  
-Córners 4.7 - 4.5: total +9.5 43% · Pau FC +5.5 34% · Nantes +4.5 44%  
-Tarjetas 2.1 - 2.1: total +4.5 40% · Pau FC +2.5 35% · Nantes +2.5 34%  
-Faltas 14.7 - 16.8: total +28.5 67% · Pau FC +13.5 60% · Nantes +15.5 60%  
-Tiros a puerta 4.4 - 3.8: total +8.5 43% · Pau FC +4.5 44% · Nantes +3.5 51%  
-🧩 Crear apuesta: Más de 28.5 faltas + Menos de 5.5 córners de Pau FC + Menos de 2.5 tarjetas de Nantes → prob. 28%, cuota justa 3.63 (solo vale si la casa paga más)  
-🚀 Combinada larga: Más de 28.5 faltas + Menos de 5.5 córners de Pau FC + Menos de 2.5 tarjetas de Nantes + Menos de 8.5 tiros a puerta → prob. 17%, cuota justa 5.90  
-
-## Pau FC vs Nantes — 07/11 · 20:00
-
-👀 candidata · 🇫🇷 Ligue 2 · **Menos de 5.5 córners de Pau FC** @ **1.40** (Unibet) · prob 65% vs casas 64% · ventaja -9%
-
-- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.42 - 1.35)  
-1 38% · X 29% · 2 33%  
-1X 67% · X2 62% · 12 71%  
-+1.5 77% · +2.5 52% · +3.5 30% · Ambos marcan 57%  
-Marcadores: 1-1 13% · 2-1 9% · 1-0 8% · 1-2 8%  
-🔎 **Claves**  
-• Forma: Pau FC ✅✅✅✅✅ | Nantes ✅➖❌❌➖  
-• H2H: sin precedentes  
-• Bajas: Pau FC: sin bajas; Nantes: sin bajas  
-• Favorito de las casas: Nantes @ 2.45  
-📐 **Estadísticas esperadas**  
-Córners 4.7 - 4.5: total +9.5 43% · Pau FC +5.5 34% · Nantes +4.5 44%  
-Tarjetas 2.1 - 2.1: total +4.5 40% · Pau FC +2.5 35% · Nantes +2.5 34%  
-Faltas 14.7 - 16.8: total +28.5 67% · Pau FC +13.5 60% · Nantes +15.5 60%  
-Tiros a puerta 4.4 - 3.8: total +8.5 43% · Pau FC +4.5 44% · Nantes +3.5 51%  
-🧩 Crear apuesta: Más de 28.5 faltas + Menos de 5.5 córners de Pau FC + Menos de 2.5 tarjetas de Nantes → prob. 28%, cuota justa 3.63 (solo vale si la casa paga más)  
-🚀 Combinada larga: Más de 28.5 faltas + Menos de 5.5 córners de Pau FC + Menos de 2.5 tarjetas de Nantes + Menos de 8.5 tiros a puerta → prob. 17%, cuota justa 5.90  
-
-## Pau FC vs Nantes — 07/11 · 20:00
-
-👀 candidata · 🇫🇷 Ligue 2 · **Más de 9.5 córners** @ **1.96** (Unibet) · prob 45% vs casas 46% · ventaja -13%
-
-- ❌ Valor: ventaja -13% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.42 - 1.35)  
-1 38% · X 29% · 2 33%  
-1X 67% · X2 62% · 12 71%  
-+1.5 77% · +2.5 52% · +3.5 30% · Ambos marcan 57%  
-Marcadores: 1-1 13% · 2-1 9% · 1-0 8% · 1-2 8%  
-🔎 **Claves**  
-• Forma: Pau FC ✅✅✅✅✅ | Nantes ✅➖❌❌➖  
-• H2H: sin precedentes  
-• Bajas: Pau FC: sin bajas; Nantes: sin bajas  
-• Favorito de las casas: Nantes @ 2.45  
-📐 **Estadísticas esperadas**  
-Córners 4.7 - 4.5: total +9.5 43% · Pau FC +5.5 34% · Nantes +4.5 44%  
-Tarjetas 2.1 - 2.1: total +4.5 40% · Pau FC +2.5 35% · Nantes +2.5 34%  
-Faltas 14.7 - 16.8: total +28.5 67% · Pau FC +13.5 60% · Nantes +15.5 60%  
-Tiros a puerta 4.4 - 3.8: total +8.5 43% · Pau FC +4.5 44% · Nantes +3.5 51%  
-🧩 Crear apuesta: Más de 28.5 faltas + Menos de 5.5 córners de Pau FC + Menos de 2.5 tarjetas de Nantes → prob. 28%, cuota justa 3.63 (solo vale si la casa paga más)  
-🚀 Combinada larga: Más de 28.5 faltas + Menos de 5.5 córners de Pau FC + Menos de 2.5 tarjetas de Nantes + Menos de 8.5 tiros a puerta → prob. 17%, cuota justa 5.90  
-
-## Pau FC vs Nantes — 07/11 · 20:00
-
-👀 candidata · 🇫🇷 Ligue 2 · **Menos de 11.5 córners** @ **1.24** (Unibet) · prob 75% vs casas 72% · ventaja -7%
-
-- ❌ Valor: ventaja -7% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.42 - 1.35)  
-1 38% · X 29% · 2 33%  
-1X 67% · X2 62% · 12 71%  
-+1.5 77% · +2.5 52% · +3.5 30% · Ambos marcan 57%  
-Marcadores: 1-1 13% · 2-1 9% · 1-0 8% · 1-2 8%  
-🔎 **Claves**  
-• Forma: Pau FC ✅✅✅✅✅ | Nantes ✅➖❌❌➖  
-• H2H: sin precedentes  
-• Bajas: Pau FC: sin bajas; Nantes: sin bajas  
-• Favorito de las casas: Nantes @ 2.45  
-📐 **Estadísticas esperadas**  
-Córners 4.7 - 4.5: total +9.5 43% · Pau FC +5.5 34% · Nantes +4.5 44%  
-Tarjetas 2.1 - 2.1: total +4.5 40% · Pau FC +2.5 35% · Nantes +2.5 34%  
-Faltas 14.7 - 16.8: total +28.5 67% · Pau FC +13.5 60% · Nantes +15.5 60%  
-Tiros a puerta 4.4 - 3.8: total +8.5 43% · Pau FC +4.5 44% · Nantes +3.5 51%  
-🧩 Crear apuesta: Más de 28.5 faltas + Menos de 5.5 córners de Pau FC + Menos de 2.5 tarjetas de Nantes → prob. 28%, cuota justa 3.63 (solo vale si la casa paga más)  
-🚀 Combinada larga: Más de 28.5 faltas + Menos de 5.5 córners de Pau FC + Menos de 2.5 tarjetas de Nantes + Menos de 8.5 tiros a puerta → prob. 17%, cuota justa 5.90  
-
-## Pau FC vs Nantes — 07/11 · 20:00
-
-👀 candidata · 🇫🇷 Ligue 2 · **Más de 4.5 córners de Nantes** @ **1.93** (Unibet) · prob 45% vs casas 46% · ventaja -12%
-
-- ❌ Valor: ventaja -12% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.42 - 1.35)  
-1 38% · X 29% · 2 33%  
-1X 67% · X2 62% · 12 71%  
-+1.5 77% · +2.5 52% · +3.5 30% · Ambos marcan 57%  
-Marcadores: 1-1 13% · 2-1 9% · 1-0 8% · 1-2 8%  
-🔎 **Claves**  
-• Forma: Pau FC ✅✅✅✅✅ | Nantes ✅➖❌❌➖  
-• H2H: sin precedentes  
-• Bajas: Pau FC: sin bajas; Nantes: sin bajas  
-• Favorito de las casas: Nantes @ 2.45  
-📐 **Estadísticas esperadas**  
-Córners 4.7 - 4.5: total +9.5 43% · Pau FC +5.5 34% · Nantes +4.5 44%  
-Tarjetas 2.1 - 2.1: total +4.5 40% · Pau FC +2.5 35% · Nantes +2.5 34%  
-Faltas 14.7 - 16.8: total +28.5 67% · Pau FC +13.5 60% · Nantes +15.5 60%  
-Tiros a puerta 4.4 - 3.8: total +8.5 43% · Pau FC +4.5 44% · Nantes +3.5 51%  
-🧩 Crear apuesta: Más de 28.5 faltas + Menos de 5.5 córners de Pau FC + Menos de 2.5 tarjetas de Nantes → prob. 28%, cuota justa 3.63 (solo vale si la casa paga más)  
-🚀 Combinada larga: Más de 28.5 faltas + Menos de 5.5 córners de Pau FC + Menos de 2.5 tarjetas de Nantes + Menos de 8.5 tiros a puerta → prob. 17%, cuota justa 5.90  
-
-## Pau FC vs Nantes — 07/11 · 20:00
-
-👀 candidata · 🇫🇷 Ligue 2 · **Menos de 5.5 córners de Nantes** @ **1.37** (Unibet) · prob 68% vs casas 66% · ventaja -7%
-
-- ❌ Valor: ventaja -7% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.42 - 1.35)  
-1 38% · X 29% · 2 33%  
-1X 67% · X2 62% · 12 71%  
-+1.5 77% · +2.5 52% · +3.5 30% · Ambos marcan 57%  
-Marcadores: 1-1 13% · 2-1 9% · 1-0 8% · 1-2 8%  
-🔎 **Claves**  
-• Forma: Pau FC ✅✅✅✅✅ | Nantes ✅➖❌❌➖  
-• H2H: sin precedentes  
-• Bajas: Pau FC: sin bajas; Nantes: sin bajas  
-• Favorito de las casas: Nantes @ 2.45  
-📐 **Estadísticas esperadas**  
-Córners 4.7 - 4.5: total +9.5 43% · Pau FC +5.5 34% · Nantes +4.5 44%  
-Tarjetas 2.1 - 2.1: total +4.5 40% · Pau FC +2.5 35% · Nantes +2.5 34%  
-Faltas 14.7 - 16.8: total +28.5 67% · Pau FC +13.5 60% · Nantes +15.5 60%  
-Tiros a puerta 4.4 - 3.8: total +8.5 43% · Pau FC +4.5 44% · Nantes +3.5 51%  
-🧩 Crear apuesta: Más de 28.5 faltas + Menos de 5.5 córners de Pau FC + Menos de 2.5 tarjetas de Nantes → prob. 28%, cuota justa 3.63 (solo vale si la casa paga más)  
-🚀 Combinada larga: Más de 28.5 faltas + Menos de 5.5 córners de Pau FC + Menos de 2.5 tarjetas de Nantes + Menos de 8.5 tiros a puerta → prob. 17%, cuota justa 5.90  
-
-## St Etienne vs Laval — 07/11 · 20:00
-
-👀 candidata · 🇫🇷 Ligue 2 · **Más de 3.5 córners de Laval** @ **2.08** (Unibet) · prob 45% vs casas 43% · ventaja -6%
-
-- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 2.04 - 0.80)  
-1 68% · X 21% · 2 11%  
-1X 89% · X2 32% · 12 79%  
-+1.5 78% · +2.5 54% · +3.5 32% · Ambos marcan 48%  
-Marcadores: 2-0 12% · 1-0 11% · 1-1 10% · 2-1 10%  
-🔎 **Claves**  
-• Forma: St Etienne ➖✅✅✅❌ | Laval ➖❌➖❌✅  
-• H2H: 6 desde 2023: 3V-2E-1D · 2.3 goles/partido · +2.5 en 50%  
-• Bajas: St Etienne: sin bajas; Laval: sin bajas  
-• Favorito de las casas: St Etienne @ 1.37  
-📐 **Estadísticas esperadas**  
-Córners 6.5 - 3.7: total +9.5 55% · St Etienne +5.5 58% · Laval +4.5 31%  
-Tarjetas 1.6 - 2.4: total +4.5 37% · St Etienne +2.5 22% · Laval +2.5 42%  
-Faltas 14.7 - 15.8: total +28.5 61% · St Etienne +13.5 60% · Laval +15.5 51%  
-Tiros a puerta 6.1 - 2.8: total +8.5 53% · St Etienne +4.5 70% · Laval +3.5 32%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de St Etienne + Más de 4.5 tiros a puerta de St Etienne + Menos de 4.5 córners de Laval → prob. 40%, cuota justa 2.50 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de St Etienne + Más de 4.5 tiros a puerta de St Etienne + Menos de 4.5 córners de Laval + Más de 28.5 faltas → prob. 23%, cuota justa 4.36  
-
-## St Etienne vs Laval — 07/11 · 20:00
-
-👀 candidata · 🇫🇷 Ligue 2 · **Menos de 3.5 córners de Laval** @ **1.58** (Unibet) · prob 55% vs casas 57% · ventaja -14%
-
-- ❌ Valor: ventaja -14% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 2.04 - 0.80)  
-1 68% · X 21% · 2 11%  
-1X 89% · X2 32% · 12 79%  
-+1.5 78% · +2.5 54% · +3.5 32% · Ambos marcan 48%  
-Marcadores: 2-0 12% · 1-0 11% · 1-1 10% · 2-1 10%  
-🔎 **Claves**  
-• Forma: St Etienne ➖✅✅✅❌ | Laval ➖❌➖❌✅  
-• H2H: 6 desde 2023: 3V-2E-1D · 2.3 goles/partido · +2.5 en 50%  
-• Bajas: St Etienne: sin bajas; Laval: sin bajas  
-• Favorito de las casas: St Etienne @ 1.37  
-📐 **Estadísticas esperadas**  
-Córners 6.5 - 3.7: total +9.5 55% · St Etienne +5.5 58% · Laval +4.5 31%  
-Tarjetas 1.6 - 2.4: total +4.5 37% · St Etienne +2.5 22% · Laval +2.5 42%  
-Faltas 14.7 - 15.8: total +28.5 61% · St Etienne +13.5 60% · Laval +15.5 51%  
-Tiros a puerta 6.1 - 2.8: total +8.5 53% · St Etienne +4.5 70% · Laval +3.5 32%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de St Etienne + Más de 4.5 tiros a puerta de St Etienne + Menos de 4.5 córners de Laval → prob. 40%, cuota justa 2.50 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de St Etienne + Más de 4.5 tiros a puerta de St Etienne + Menos de 4.5 córners de Laval + Más de 28.5 faltas → prob. 23%, cuota justa 4.36  
-
-## St Etienne vs Laval — 07/11 · 20:00
-
-👀 candidata · 🇫🇷 Ligue 2 · **Más de 7.5 córners de St Etienne** @ **2.08** (Unibet) · prob 38% vs casas 43% · ventaja -20%
-
-- ❌ Valor: ventaja -20% (mín. 7% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 2.04 - 0.80)  
-1 68% · X 21% · 2 11%  
-1X 89% · X2 32% · 12 79%  
-+1.5 78% · +2.5 54% · +3.5 32% · Ambos marcan 48%  
-Marcadores: 2-0 12% · 1-0 11% · 1-1 10% · 2-1 10%  
-🔎 **Claves**  
-• Forma: St Etienne ➖✅✅✅❌ | Laval ➖❌➖❌✅  
-• H2H: 6 desde 2023: 3V-2E-1D · 2.3 goles/partido · +2.5 en 50%  
-• Bajas: St Etienne: sin bajas; Laval: sin bajas  
-• Favorito de las casas: St Etienne @ 1.37  
-📐 **Estadísticas esperadas**  
-Córners 6.5 - 3.7: total +9.5 55% · St Etienne +5.5 58% · Laval +4.5 31%  
-Tarjetas 1.6 - 2.4: total +4.5 37% · St Etienne +2.5 22% · Laval +2.5 42%  
-Faltas 14.7 - 15.8: total +28.5 61% · St Etienne +13.5 60% · Laval +15.5 51%  
-Tiros a puerta 6.1 - 2.8: total +8.5 53% · St Etienne +4.5 70% · Laval +3.5 32%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de St Etienne + Más de 4.5 tiros a puerta de St Etienne + Menos de 4.5 córners de Laval → prob. 40%, cuota justa 2.50 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de St Etienne + Más de 4.5 tiros a puerta de St Etienne + Menos de 4.5 córners de Laval + Más de 28.5 faltas → prob. 23%, cuota justa 4.36  
-
-## St Etienne vs Laval — 07/11 · 20:00
-
-👀 candidata · 🇫🇷 Ligue 2 · **Menos de 7.5 córners de St Etienne** @ **1.58** (Unibet) · prob 62% vs casas 57% · ventaja -3%
-
-- ❌ Valor: ventaja -3% (mín. 7% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 2.04 - 0.80)  
-1 68% · X 21% · 2 11%  
-1X 89% · X2 32% · 12 79%  
-+1.5 78% · +2.5 54% · +3.5 32% · Ambos marcan 48%  
-Marcadores: 2-0 12% · 1-0 11% · 1-1 10% · 2-1 10%  
-🔎 **Claves**  
-• Forma: St Etienne ➖✅✅✅❌ | Laval ➖❌➖❌✅  
-• H2H: 6 desde 2023: 3V-2E-1D · 2.3 goles/partido · +2.5 en 50%  
-• Bajas: St Etienne: sin bajas; Laval: sin bajas  
-• Favorito de las casas: St Etienne @ 1.37  
-📐 **Estadísticas esperadas**  
-Córners 6.5 - 3.7: total +9.5 55% · St Etienne +5.5 58% · Laval +4.5 31%  
-Tarjetas 1.6 - 2.4: total +4.5 37% · St Etienne +2.5 22% · Laval +2.5 42%  
-Faltas 14.7 - 15.8: total +28.5 61% · St Etienne +13.5 60% · Laval +15.5 51%  
-Tiros a puerta 6.1 - 2.8: total +8.5 53% · St Etienne +4.5 70% · Laval +3.5 32%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de St Etienne + Más de 4.5 tiros a puerta de St Etienne + Menos de 4.5 córners de Laval → prob. 40%, cuota justa 2.50 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de St Etienne + Más de 4.5 tiros a puerta de St Etienne + Menos de 4.5 córners de Laval + Más de 28.5 faltas → prob. 23%, cuota justa 4.36  
-
-## St Etienne vs Laval — 07/11 · 20:00
-
-👀 candidata · 🇫🇷 Ligue 2 · **Más de 10.5 córners** @ **1.85** (Unibet) · prob 46% vs casas 48% · ventaja -15%
-
-- ❌ Valor: ventaja -15% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 2.04 - 0.80)  
-1 68% · X 21% · 2 11%  
-1X 89% · X2 32% · 12 79%  
-+1.5 78% · +2.5 54% · +3.5 32% · Ambos marcan 48%  
-Marcadores: 2-0 12% · 1-0 11% · 1-1 10% · 2-1 10%  
-🔎 **Claves**  
-• Forma: St Etienne ➖✅✅✅❌ | Laval ➖❌➖❌✅  
-• H2H: 6 desde 2023: 3V-2E-1D · 2.3 goles/partido · +2.5 en 50%  
-• Bajas: St Etienne: sin bajas; Laval: sin bajas  
-• Favorito de las casas: St Etienne @ 1.37  
-📐 **Estadísticas esperadas**  
-Córners 6.5 - 3.7: total +9.5 55% · St Etienne +5.5 58% · Laval +4.5 31%  
-Tarjetas 1.6 - 2.4: total +4.5 37% · St Etienne +2.5 22% · Laval +2.5 42%  
-Faltas 14.7 - 15.8: total +28.5 61% · St Etienne +13.5 60% · Laval +15.5 51%  
-Tiros a puerta 6.1 - 2.8: total +8.5 53% · St Etienne +4.5 70% · Laval +3.5 32%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de St Etienne + Más de 4.5 tiros a puerta de St Etienne + Menos de 4.5 córners de Laval → prob. 40%, cuota justa 2.50 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de St Etienne + Más de 4.5 tiros a puerta de St Etienne + Menos de 4.5 córners de Laval + Más de 28.5 faltas → prob. 23%, cuota justa 4.36  
-
-## St Etienne vs Laval — 07/11 · 20:00
-
-👀 candidata · 🇫🇷 Ligue 2 · **Menos de 11.5 córners** @ **1.48** (Unibet) · prob 64% vs casas 61% · ventaja -5%
-
-- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 2.04 - 0.80)  
-1 68% · X 21% · 2 11%  
-1X 89% · X2 32% · 12 79%  
-+1.5 78% · +2.5 54% · +3.5 32% · Ambos marcan 48%  
-Marcadores: 2-0 12% · 1-0 11% · 1-1 10% · 2-1 10%  
-🔎 **Claves**  
-• Forma: St Etienne ➖✅✅✅❌ | Laval ➖❌➖❌✅  
-• H2H: 6 desde 2023: 3V-2E-1D · 2.3 goles/partido · +2.5 en 50%  
-• Bajas: St Etienne: sin bajas; Laval: sin bajas  
-• Favorito de las casas: St Etienne @ 1.37  
-📐 **Estadísticas esperadas**  
-Córners 6.5 - 3.7: total +9.5 55% · St Etienne +5.5 58% · Laval +4.5 31%  
-Tarjetas 1.6 - 2.4: total +4.5 37% · St Etienne +2.5 22% · Laval +2.5 42%  
-Faltas 14.7 - 15.8: total +28.5 61% · St Etienne +13.5 60% · Laval +15.5 51%  
-Tiros a puerta 6.1 - 2.8: total +8.5 53% · St Etienne +4.5 70% · Laval +3.5 32%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de St Etienne + Más de 4.5 tiros a puerta de St Etienne + Menos de 4.5 córners de Laval → prob. 40%, cuota justa 2.50 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 2.5 tarjetas de St Etienne + Más de 4.5 tiros a puerta de St Etienne + Menos de 4.5 córners de Laval + Más de 28.5 faltas → prob. 23%, cuota justa 4.36  
+Actualizado 07/11/2026 20:04 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Widzew Lodz vs Pogon Szczecin — 07/11 · 20:15
 
@@ -11348,6 +10998,8 @@ Faltas 10.9 - 9.2: total +20.5 45% · Hoffenheim +10.5 52% · Schalke 04 +10.5 3
 Tiros a puerta 6.7 - 3.6: total +10.5 46% · Hoffenheim +5.5 64% · Schalke 04 +4.5 30%  
 🧩 Crear apuesta: Menos de 2.5 tarjetas de Schalke 04 + Menos de 4.5 tiros a puerta de Schalke 04 + Menos de 4.5 córners de Schalke 04 → prob. 36%, cuota justa 2.80 (solo vale si la casa paga más)  
 🚀 Combinada larga: Menos de 2.5 tarjetas de Schalke 04 + Menos de 4.5 tiros a puerta de Schalke 04 + Menos de 4.5 córners de Schalke 04 + Menos de 10.5 faltas de Schalke 04 + Más de 2.5 goles → prob. 14%, cuota justa 6.97  
+🎯 No simulada (crear apuesta): cuota Unibet aprox. 2.80 (producto de piernas) · prob. 36% · ventaja +0%  
+🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Schalke 04 + Menos de 4.5 córners de Schalke 04): cuota Unibet aprox. 2.20 (producto de piernas) · prob. 49% · ventaja +7% → 1 u en la banca de simulación  
 
 ## Vicenza vs Cremonese — 08/11 · 19:30
 
@@ -11355,6 +11007,318 @@ Tiros a puerta 6.7 - 3.6: total +10.5 46% · Hoffenheim +5.5 64% · Schalke 04 +
 
 - ❌ Valor: ventaja -3% (mín. 5% con la incertidumbre, máx. 30%)
 - ✅ Segmento «⚽ hándicap» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.06 - 1.59)  
+1 23% · X 27% · 2 50%  
+1X 50% · X2 77% · 12 73%  
++1.5 75% · +2.5 49% · +3.5 27% · Ambos marcan 53%  
+Marcadores: 1-1 12% · 0-1 11% · 1-2 9% · 0-2 9%  
+🔎 **Claves**  
+• Forma: Vicenza ❌➖✅❌❌ | Cremonese ➖❌❌✅✅  
+• H2H: 6 desde 2005: 4V-1E-1D · 2.0 goles/partido · +2.5 en 33%  
+• Bajas: Vicenza: 0 fuera, 1 duda; Cremonese: 2 fuera, 0 duda (Marco Nasti, Matteo Bianchetti)  
+• Favorito de las casas: Cremonese @ 2.40  
+📐 **Estadísticas esperadas**  
+Córners 5.1 - 4.6: total +9.5 49% · Vicenza +5.5 39% · Cremonese +4.5 46%  
+Tarjetas 2.5 - 2.5: total +4.5 54% · Vicenza +2.5 45% · Cremonese +2.5 46%  
+Faltas 14.7 - 12.2: total +27.5 44% · Vicenza +14.5 50% · Cremonese +13.5 34%  
+Tiros a puerta 3.8 - 4.3: total +8.5 43% · Vicenza +5.5 20% · Cremonese +3.5 61%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Vicenza + Menos de 13.5 faltas de Cremonese + Menos de 5.5 córners de Vicenza → prob. 33%, cuota justa 2.99 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Vicenza + Menos de 13.5 faltas de Cremonese + Menos de 5.5 córners de Vicenza + Menos de 2.5 tarjetas de Vicenza → prob. 19%, cuota justa 5.33  
+
+## Hoffenheim vs Schalke 04 — 08/11 · 19:30
+
+👀 candidata · 🇩🇪 Bundesliga · **Más de 10.5 córners** @ **2.14** (Unibet) · prob 46% vs casas 43% · ventaja -2%
+
+- ❌ Valor: ventaja -2% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.89 - 1.20)  
+1 63% · X 22% · 2 14%  
+1X 86% · X2 37% · 12 78%  
++1.5 82% · +2.5 60% · +3.5 37% · Ambos marcan 60%  
+Marcadores: 1-1 11% · 2-1 10% · 2-0 8% · 1-0 8%  
+🔎 **Claves**  
+• Forma: Hoffenheim ❌❌✅✅❌ | Schalke 04 ➖❌❌➖❌  
+• H2H: 28 desde 2008: 12V-7E-9D · 3.1 goles/partido · +2.5 en 54%  
+• Bajas: Hoffenheim: 2 fuera, 8 duda (Alexander Prass, Valentin Gendrey); Schalke 04: 0 fuera, 7 duda  
+• Favorito de las casas: Hoffenheim @ 1.61  
+📐 **Estadísticas esperadas**  
+Córners 7.0 - 3.6: total +10.5 49% · Hoffenheim +5.5 63% · Schalke 04 +4.5 30%  
+Tarjetas 1.9 - 1.9: total +3.5 52% · Hoffenheim +2.5 30% · Schalke 04 +2.5 29%  
+Faltas 10.9 - 9.2: total +20.5 45% · Hoffenheim +10.5 52% · Schalke 04 +10.5 32%  
+Tiros a puerta 6.7 - 3.6: total +10.5 46% · Hoffenheim +5.5 64% · Schalke 04 +4.5 30%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Schalke 04 + Menos de 4.5 tiros a puerta de Schalke 04 + Menos de 4.5 córners de Schalke 04 → prob. 36%, cuota justa 2.80 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Schalke 04 + Menos de 4.5 tiros a puerta de Schalke 04 + Menos de 4.5 córners de Schalke 04 + Menos de 10.5 faltas de Schalke 04 + Más de 2.5 goles → prob. 14%, cuota justa 6.97  
+🎯 No simulada (crear apuesta): cuota Unibet aprox. 2.80 (producto de piernas) · prob. 36% · ventaja +0%  
+🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Schalke 04 + Menos de 4.5 córners de Schalke 04): cuota Unibet aprox. 2.20 (producto de piernas) · prob. 49% · ventaja +7% → 1 u en la banca de simulación  
+
+## Hoffenheim vs Schalke 04 — 08/11 · 19:30
+
+👀 candidata · 🇩🇪 Bundesliga · **Menos de 12.5 córners** @ **1.23** (Unibet) · prob 73% vs casas 74% · ventaja -10%
+
+- ❌ Valor: ventaja -10% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.89 - 1.20)  
+1 63% · X 22% · 2 14%  
+1X 86% · X2 37% · 12 78%  
++1.5 82% · +2.5 60% · +3.5 37% · Ambos marcan 60%  
+Marcadores: 1-1 11% · 2-1 10% · 2-0 8% · 1-0 8%  
+🔎 **Claves**  
+• Forma: Hoffenheim ❌❌✅✅❌ | Schalke 04 ➖❌❌➖❌  
+• H2H: 28 desde 2008: 12V-7E-9D · 3.1 goles/partido · +2.5 en 54%  
+• Bajas: Hoffenheim: 2 fuera, 8 duda (Alexander Prass, Valentin Gendrey); Schalke 04: 0 fuera, 7 duda  
+• Favorito de las casas: Hoffenheim @ 1.61  
+📐 **Estadísticas esperadas**  
+Córners 7.0 - 3.6: total +10.5 49% · Hoffenheim +5.5 63% · Schalke 04 +4.5 30%  
+Tarjetas 1.9 - 1.9: total +3.5 52% · Hoffenheim +2.5 30% · Schalke 04 +2.5 29%  
+Faltas 10.9 - 9.2: total +20.5 45% · Hoffenheim +10.5 52% · Schalke 04 +10.5 32%  
+Tiros a puerta 6.7 - 3.6: total +10.5 46% · Hoffenheim +5.5 64% · Schalke 04 +4.5 30%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Schalke 04 + Menos de 4.5 tiros a puerta de Schalke 04 + Menos de 4.5 córners de Schalke 04 → prob. 36%, cuota justa 2.80 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Schalke 04 + Menos de 4.5 tiros a puerta de Schalke 04 + Menos de 4.5 córners de Schalke 04 + Menos de 10.5 faltas de Schalke 04 + Más de 2.5 goles → prob. 14%, cuota justa 6.97  
+🎯 No simulada (crear apuesta): cuota Unibet aprox. 2.80 (producto de piernas) · prob. 36% · ventaja +0%  
+🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Schalke 04 + Menos de 4.5 córners de Schalke 04): cuota Unibet aprox. 2.20 (producto de piernas) · prob. 49% · ventaja +7% → 1 u en la banca de simulación  
+
+## Hoffenheim vs Schalke 04 — 08/11 · 19:30
+
+👀 candidata · 🇩🇪 Bundesliga · **Más de 7.5 córners de Hoffenheim** @ **2.95** (Unibet) · prob 36% vs casas 31% · ventaja +5%
+
+- ❌ Valor: ventaja +5% (mín. 8% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.89 - 1.20)  
+1 63% · X 22% · 2 14%  
+1X 86% · X2 37% · 12 78%  
++1.5 82% · +2.5 60% · +3.5 37% · Ambos marcan 60%  
+Marcadores: 1-1 11% · 2-1 10% · 2-0 8% · 1-0 8%  
+🔎 **Claves**  
+• Forma: Hoffenheim ❌❌✅✅❌ | Schalke 04 ➖❌❌➖❌  
+• H2H: 28 desde 2008: 12V-7E-9D · 3.1 goles/partido · +2.5 en 54%  
+• Bajas: Hoffenheim: 2 fuera, 8 duda (Alexander Prass, Valentin Gendrey); Schalke 04: 0 fuera, 7 duda  
+• Favorito de las casas: Hoffenheim @ 1.61  
+📐 **Estadísticas esperadas**  
+Córners 7.0 - 3.6: total +10.5 49% · Hoffenheim +5.5 63% · Schalke 04 +4.5 30%  
+Tarjetas 1.9 - 1.9: total +3.5 52% · Hoffenheim +2.5 30% · Schalke 04 +2.5 29%  
+Faltas 10.9 - 9.2: total +20.5 45% · Hoffenheim +10.5 52% · Schalke 04 +10.5 32%  
+Tiros a puerta 6.7 - 3.6: total +10.5 46% · Hoffenheim +5.5 64% · Schalke 04 +4.5 30%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Schalke 04 + Menos de 4.5 tiros a puerta de Schalke 04 + Menos de 4.5 córners de Schalke 04 → prob. 36%, cuota justa 2.80 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Schalke 04 + Menos de 4.5 tiros a puerta de Schalke 04 + Menos de 4.5 córners de Schalke 04 + Menos de 10.5 faltas de Schalke 04 + Más de 2.5 goles → prob. 14%, cuota justa 6.97  
+🎯 No simulada (crear apuesta): cuota Unibet aprox. 2.80 (producto de piernas) · prob. 36% · ventaja +0%  
+🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Schalke 04 + Menos de 4.5 córners de Schalke 04): cuota Unibet aprox. 2.20 (producto de piernas) · prob. 49% · ventaja +7% → 1 u en la banca de simulación  
+
+## Hoffenheim vs Schalke 04 — 08/11 · 19:30
+
+👀 candidata · 🇩🇪 Bundesliga · **Menos de 8.5 córners de Hoffenheim** @ **1.19** (Unibet) · prob 74% vs casas 77% · ventaja -12%
+
+- ❌ Valor: ventaja -12% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.89 - 1.20)  
+1 63% · X 22% · 2 14%  
+1X 86% · X2 37% · 12 78%  
++1.5 82% · +2.5 60% · +3.5 37% · Ambos marcan 60%  
+Marcadores: 1-1 11% · 2-1 10% · 2-0 8% · 1-0 8%  
+🔎 **Claves**  
+• Forma: Hoffenheim ❌❌✅✅❌ | Schalke 04 ➖❌❌➖❌  
+• H2H: 28 desde 2008: 12V-7E-9D · 3.1 goles/partido · +2.5 en 54%  
+• Bajas: Hoffenheim: 2 fuera, 8 duda (Alexander Prass, Valentin Gendrey); Schalke 04: 0 fuera, 7 duda  
+• Favorito de las casas: Hoffenheim @ 1.61  
+📐 **Estadísticas esperadas**  
+Córners 7.0 - 3.6: total +10.5 49% · Hoffenheim +5.5 63% · Schalke 04 +4.5 30%  
+Tarjetas 1.9 - 1.9: total +3.5 52% · Hoffenheim +2.5 30% · Schalke 04 +2.5 29%  
+Faltas 10.9 - 9.2: total +20.5 45% · Hoffenheim +10.5 52% · Schalke 04 +10.5 32%  
+Tiros a puerta 6.7 - 3.6: total +10.5 46% · Hoffenheim +5.5 64% · Schalke 04 +4.5 30%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Schalke 04 + Menos de 4.5 tiros a puerta de Schalke 04 + Menos de 4.5 córners de Schalke 04 → prob. 36%, cuota justa 2.80 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Schalke 04 + Menos de 4.5 tiros a puerta de Schalke 04 + Menos de 4.5 córners de Schalke 04 + Menos de 10.5 faltas de Schalke 04 + Más de 2.5 goles → prob. 14%, cuota justa 6.97  
+🎯 No simulada (crear apuesta): cuota Unibet aprox. 2.80 (producto de piernas) · prob. 36% · ventaja +0%  
+🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Schalke 04 + Menos de 4.5 córners de Schalke 04): cuota Unibet aprox. 2.20 (producto de piernas) · prob. 49% · ventaja +7% → 1 u en la banca de simulación  
+
+## Hoffenheim vs Schalke 04 — 08/11 · 19:30
+
+👀 candidata · 🇩🇪 Bundesliga · **Más de 2.5 córners de Schalke 04** @ **1.33** (Unibet) · prob 67% vs casas 69% · ventaja -11%
+
+- ❌ Valor: ventaja -11% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.89 - 1.20)  
+1 63% · X 22% · 2 14%  
+1X 86% · X2 37% · 12 78%  
++1.5 82% · +2.5 60% · +3.5 37% · Ambos marcan 60%  
+Marcadores: 1-1 11% · 2-1 10% · 2-0 8% · 1-0 8%  
+🔎 **Claves**  
+• Forma: Hoffenheim ❌❌✅✅❌ | Schalke 04 ➖❌❌➖❌  
+• H2H: 28 desde 2008: 12V-7E-9D · 3.1 goles/partido · +2.5 en 54%  
+• Bajas: Hoffenheim: 2 fuera, 8 duda (Alexander Prass, Valentin Gendrey); Schalke 04: 0 fuera, 7 duda  
+• Favorito de las casas: Hoffenheim @ 1.61  
+📐 **Estadísticas esperadas**  
+Córners 7.0 - 3.6: total +10.5 49% · Hoffenheim +5.5 63% · Schalke 04 +4.5 30%  
+Tarjetas 1.9 - 1.9: total +3.5 52% · Hoffenheim +2.5 30% · Schalke 04 +2.5 29%  
+Faltas 10.9 - 9.2: total +20.5 45% · Hoffenheim +10.5 52% · Schalke 04 +10.5 32%  
+Tiros a puerta 6.7 - 3.6: total +10.5 46% · Hoffenheim +5.5 64% · Schalke 04 +4.5 30%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Schalke 04 + Menos de 4.5 tiros a puerta de Schalke 04 + Menos de 4.5 córners de Schalke 04 → prob. 36%, cuota justa 2.80 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Schalke 04 + Menos de 4.5 tiros a puerta de Schalke 04 + Menos de 4.5 córners de Schalke 04 + Menos de 10.5 faltas de Schalke 04 + Más de 2.5 goles → prob. 14%, cuota justa 6.97  
+🎯 No simulada (crear apuesta): cuota Unibet aprox. 2.80 (producto de piernas) · prob. 36% · ventaja +0%  
+🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Schalke 04 + Menos de 4.5 córners de Schalke 04): cuota Unibet aprox. 2.20 (producto de piernas) · prob. 49% · ventaja +7% → 1 u en la banca de simulación  
+
+## Hoffenheim vs Schalke 04 — 08/11 · 19:30
+
+👀 candidata · 🇩🇪 Bundesliga · **Menos de 3.5 córners de Schalke 04** @ **1.90** (Unibet) · prob 51% vs casas 48% · ventaja -3%
+
+- ❌ Valor: ventaja -3% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.89 - 1.20)  
+1 63% · X 22% · 2 14%  
+1X 86% · X2 37% · 12 78%  
++1.5 82% · +2.5 60% · +3.5 37% · Ambos marcan 60%  
+Marcadores: 1-1 11% · 2-1 10% · 2-0 8% · 1-0 8%  
+🔎 **Claves**  
+• Forma: Hoffenheim ❌❌✅✅❌ | Schalke 04 ➖❌❌➖❌  
+• H2H: 28 desde 2008: 12V-7E-9D · 3.1 goles/partido · +2.5 en 54%  
+• Bajas: Hoffenheim: 2 fuera, 8 duda (Alexander Prass, Valentin Gendrey); Schalke 04: 0 fuera, 7 duda  
+• Favorito de las casas: Hoffenheim @ 1.61  
+📐 **Estadísticas esperadas**  
+Córners 7.0 - 3.6: total +10.5 49% · Hoffenheim +5.5 63% · Schalke 04 +4.5 30%  
+Tarjetas 1.9 - 1.9: total +3.5 52% · Hoffenheim +2.5 30% · Schalke 04 +2.5 29%  
+Faltas 10.9 - 9.2: total +20.5 45% · Hoffenheim +10.5 52% · Schalke 04 +10.5 32%  
+Tiros a puerta 6.7 - 3.6: total +10.5 46% · Hoffenheim +5.5 64% · Schalke 04 +4.5 30%  
+🧩 Crear apuesta: Menos de 2.5 tarjetas de Schalke 04 + Menos de 4.5 tiros a puerta de Schalke 04 + Menos de 4.5 córners de Schalke 04 → prob. 36%, cuota justa 2.80 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 2.5 tarjetas de Schalke 04 + Menos de 4.5 tiros a puerta de Schalke 04 + Menos de 4.5 córners de Schalke 04 + Menos de 10.5 faltas de Schalke 04 + Más de 2.5 goles → prob. 14%, cuota justa 6.97  
+🎯 No simulada (crear apuesta): cuota Unibet aprox. 2.80 (producto de piernas) · prob. 36% · ventaja +0%  
+🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Schalke 04 + Menos de 4.5 córners de Schalke 04): cuota Unibet aprox. 2.20 (producto de piernas) · prob. 49% · ventaja +7% → 1 u en la banca de simulación  
+
+## Vicenza vs Cremonese — 08/11 · 19:30
+
+👀 candidata · 🇮🇹 Serie B · **Más de 4.5 córners de Vicenza** @ **1.71** (Unibet) · prob 53% vs casas 52% · ventaja -10%
+
+- ❌ Valor: ventaja -10% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.06 - 1.59)  
+1 23% · X 27% · 2 50%  
+1X 50% · X2 77% · 12 73%  
++1.5 75% · +2.5 49% · +3.5 27% · Ambos marcan 53%  
+Marcadores: 1-1 12% · 0-1 11% · 1-2 9% · 0-2 9%  
+🔎 **Claves**  
+• Forma: Vicenza ❌➖✅❌❌ | Cremonese ➖❌❌✅✅  
+• H2H: 6 desde 2005: 4V-1E-1D · 2.0 goles/partido · +2.5 en 33%  
+• Bajas: Vicenza: 0 fuera, 1 duda; Cremonese: 2 fuera, 0 duda (Marco Nasti, Matteo Bianchetti)  
+• Favorito de las casas: Cremonese @ 2.40  
+📐 **Estadísticas esperadas**  
+Córners 5.1 - 4.6: total +9.5 49% · Vicenza +5.5 39% · Cremonese +4.5 46%  
+Tarjetas 2.5 - 2.5: total +4.5 54% · Vicenza +2.5 45% · Cremonese +2.5 46%  
+Faltas 14.7 - 12.2: total +27.5 44% · Vicenza +14.5 50% · Cremonese +13.5 34%  
+Tiros a puerta 3.8 - 4.3: total +8.5 43% · Vicenza +5.5 20% · Cremonese +3.5 61%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Vicenza + Menos de 13.5 faltas de Cremonese + Menos de 5.5 córners de Vicenza → prob. 33%, cuota justa 2.99 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Vicenza + Menos de 13.5 faltas de Cremonese + Menos de 5.5 córners de Vicenza + Menos de 2.5 tarjetas de Vicenza → prob. 19%, cuota justa 5.33  
+
+## Vicenza vs Cremonese — 08/11 · 19:30
+
+👀 candidata · 🇮🇹 Serie B · **Menos de 5.5 córners de Vicenza** @ **1.49** (Unibet) · prob 61% vs casas 60% · ventaja -10%
+
+- ❌ Valor: ventaja -10% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.06 - 1.59)  
+1 23% · X 27% · 2 50%  
+1X 50% · X2 77% · 12 73%  
++1.5 75% · +2.5 49% · +3.5 27% · Ambos marcan 53%  
+Marcadores: 1-1 12% · 0-1 11% · 1-2 9% · 0-2 9%  
+🔎 **Claves**  
+• Forma: Vicenza ❌➖✅❌❌ | Cremonese ➖❌❌✅✅  
+• H2H: 6 desde 2005: 4V-1E-1D · 2.0 goles/partido · +2.5 en 33%  
+• Bajas: Vicenza: 0 fuera, 1 duda; Cremonese: 2 fuera, 0 duda (Marco Nasti, Matteo Bianchetti)  
+• Favorito de las casas: Cremonese @ 2.40  
+📐 **Estadísticas esperadas**  
+Córners 5.1 - 4.6: total +9.5 49% · Vicenza +5.5 39% · Cremonese +4.5 46%  
+Tarjetas 2.5 - 2.5: total +4.5 54% · Vicenza +2.5 45% · Cremonese +2.5 46%  
+Faltas 14.7 - 12.2: total +27.5 44% · Vicenza +14.5 50% · Cremonese +13.5 34%  
+Tiros a puerta 3.8 - 4.3: total +8.5 43% · Vicenza +5.5 20% · Cremonese +3.5 61%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Vicenza + Menos de 13.5 faltas de Cremonese + Menos de 5.5 córners de Vicenza → prob. 33%, cuota justa 2.99 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Vicenza + Menos de 13.5 faltas de Cremonese + Menos de 5.5 córners de Vicenza + Menos de 2.5 tarjetas de Vicenza → prob. 19%, cuota justa 5.33  
+
+## Vicenza vs Cremonese — 08/11 · 19:30
+
+👀 candidata · 🇮🇹 Serie B · **Más de 4.5 córners de Cremonese** @ **2.12** (Unibet) · prob 44% vs casas 42% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.06 - 1.59)  
+1 23% · X 27% · 2 50%  
+1X 50% · X2 77% · 12 73%  
++1.5 75% · +2.5 49% · +3.5 27% · Ambos marcan 53%  
+Marcadores: 1-1 12% · 0-1 11% · 1-2 9% · 0-2 9%  
+🔎 **Claves**  
+• Forma: Vicenza ❌➖✅❌❌ | Cremonese ➖❌❌✅✅  
+• H2H: 6 desde 2005: 4V-1E-1D · 2.0 goles/partido · +2.5 en 33%  
+• Bajas: Vicenza: 0 fuera, 1 duda; Cremonese: 2 fuera, 0 duda (Marco Nasti, Matteo Bianchetti)  
+• Favorito de las casas: Cremonese @ 2.40  
+📐 **Estadísticas esperadas**  
+Córners 5.1 - 4.6: total +9.5 49% · Vicenza +5.5 39% · Cremonese +4.5 46%  
+Tarjetas 2.5 - 2.5: total +4.5 54% · Vicenza +2.5 45% · Cremonese +2.5 46%  
+Faltas 14.7 - 12.2: total +27.5 44% · Vicenza +14.5 50% · Cremonese +13.5 34%  
+Tiros a puerta 3.8 - 4.3: total +8.5 43% · Vicenza +5.5 20% · Cremonese +3.5 61%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Vicenza + Menos de 13.5 faltas de Cremonese + Menos de 5.5 córners de Vicenza → prob. 33%, cuota justa 2.99 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Vicenza + Menos de 13.5 faltas de Cremonese + Menos de 5.5 córners de Vicenza + Menos de 2.5 tarjetas de Vicenza → prob. 19%, cuota justa 5.33  
+
+## Vicenza vs Cremonese — 08/11 · 19:30
+
+👀 candidata · 🇮🇹 Serie B · **Menos de 5.5 córners de Cremonese** @ **1.29** (Unibet) · prob 69% vs casas 70% · ventaja -11%
+
+- ❌ Valor: ventaja -11% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.06 - 1.59)  
+1 23% · X 27% · 2 50%  
+1X 50% · X2 77% · 12 73%  
++1.5 75% · +2.5 49% · +3.5 27% · Ambos marcan 53%  
+Marcadores: 1-1 12% · 0-1 11% · 1-2 9% · 0-2 9%  
+🔎 **Claves**  
+• Forma: Vicenza ❌➖✅❌❌ | Cremonese ➖❌❌✅✅  
+• H2H: 6 desde 2005: 4V-1E-1D · 2.0 goles/partido · +2.5 en 33%  
+• Bajas: Vicenza: 0 fuera, 1 duda; Cremonese: 2 fuera, 0 duda (Marco Nasti, Matteo Bianchetti)  
+• Favorito de las casas: Cremonese @ 2.40  
+📐 **Estadísticas esperadas**  
+Córners 5.1 - 4.6: total +9.5 49% · Vicenza +5.5 39% · Cremonese +4.5 46%  
+Tarjetas 2.5 - 2.5: total +4.5 54% · Vicenza +2.5 45% · Cremonese +2.5 46%  
+Faltas 14.7 - 12.2: total +27.5 44% · Vicenza +14.5 50% · Cremonese +13.5 34%  
+Tiros a puerta 3.8 - 4.3: total +8.5 43% · Vicenza +5.5 20% · Cremonese +3.5 61%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Vicenza + Menos de 13.5 faltas de Cremonese + Menos de 5.5 córners de Vicenza → prob. 33%, cuota justa 2.99 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Vicenza + Menos de 13.5 faltas de Cremonese + Menos de 5.5 córners de Vicenza + Menos de 2.5 tarjetas de Vicenza → prob. 19%, cuota justa 5.33  
+
+## Vicenza vs Cremonese — 08/11 · 19:30
+
+👀 candidata · 🇮🇹 Serie B · **Más de 8.5 córners** @ **1.61** (Unibet) · prob 58% vs casas 56% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.06 - 1.59)  
+1 23% · X 27% · 2 50%  
+1X 50% · X2 77% · 12 73%  
++1.5 75% · +2.5 49% · +3.5 27% · Ambos marcan 53%  
+Marcadores: 1-1 12% · 0-1 11% · 1-2 9% · 0-2 9%  
+🔎 **Claves**  
+• Forma: Vicenza ❌➖✅❌❌ | Cremonese ➖❌❌✅✅  
+• H2H: 6 desde 2005: 4V-1E-1D · 2.0 goles/partido · +2.5 en 33%  
+• Bajas: Vicenza: 0 fuera, 1 duda; Cremonese: 2 fuera, 0 duda (Marco Nasti, Matteo Bianchetti)  
+• Favorito de las casas: Cremonese @ 2.40  
+📐 **Estadísticas esperadas**  
+Córners 5.1 - 4.6: total +9.5 49% · Vicenza +5.5 39% · Cremonese +4.5 46%  
+Tarjetas 2.5 - 2.5: total +4.5 54% · Vicenza +2.5 45% · Cremonese +2.5 46%  
+Faltas 14.7 - 12.2: total +27.5 44% · Vicenza +14.5 50% · Cremonese +13.5 34%  
+Tiros a puerta 3.8 - 4.3: total +8.5 43% · Vicenza +5.5 20% · Cremonese +3.5 61%  
+🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Vicenza + Menos de 13.5 faltas de Cremonese + Menos de 5.5 córners de Vicenza → prob. 33%, cuota justa 2.99 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 5.5 tiros a puerta de Vicenza + Menos de 13.5 faltas de Cremonese + Menos de 5.5 córners de Vicenza + Menos de 2.5 tarjetas de Vicenza → prob. 19%, cuota justa 5.33  
+
+## Vicenza vs Cremonese — 08/11 · 19:30
+
+👀 candidata · 🇮🇹 Serie B · **Menos de 10.5 córners** @ **1.40** (Unibet) · prob 63% vs casas 64% · ventaja -11%
+
+- ❌ Valor: ventaja -11% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
 
 📊 **Escenarios** (goles esperados 1.06 - 1.59)  
 1 23% · X 27% · 2 50%  
