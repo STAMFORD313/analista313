@@ -34590,3 +34590,5 @@ game_id,match_id,slug,date,tier,bo,tournament_id,tournament,t1_id,t2_id,team1,te
 192088,133054,the-mongolz-vs-natus-vincere-07-11-2026,2026-11-07T06:30:00.000+00:00,s,3,5113,Intel Extreme Masters Beijing 2026,736,787,The MongolZ,Natus Vincere,1,de_cache,736,13.0,10.0
 192427,133224,butterfly-vs-maybe-ukr-07-11-2026,2026-11-07T09:00:00.000+00:00,b,3,5628,CCT Europe 2026 Series 13,24855,24681,Butterfly,MAYBE,2,de_mirage,24855,16.0,13.0
 192428,133224,butterfly-vs-maybe-ukr-07-11-2026,2026-11-07T09:00:00.000+00:00,b,3,5628,CCT Europe 2026 Series 13,24855,24681,Butterfly,MAYBE,1,de_nuke,24855,13.0,7.0
+192090,133055,mouz-cs2-vs-betboom-team-07-11-2026,2026-11-07T09:45:00.000+00:00,s,3,5113,Intel Extreme Masters Beijing 2026,765,7498,MOUZ,BetBoom,2,de_mirage,765,13.0,8.0
+192091,133055,mouz-cs2-vs-betboom-team-07-11-2026,2026-11-07T09:45:00.000+00:00,s,3,5113,Intel Extreme Masters Beijing 2026,765,7498,MOUZ,BetBoom,1,de_ancient,765,13.0,7.0
