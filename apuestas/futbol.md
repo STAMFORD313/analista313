@@ -1,6 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 09/11/2026 00:09 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 09/11/2026 00:36 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Queretaro vs Puebla — 09/11 · 01:00
 

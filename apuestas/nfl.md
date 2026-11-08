@@ -1,6 +1,6 @@
 # 🏈 NFL·NCAA · apuestas de valor
 
-Actualizado 09/11/2026 00:09 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 09/11/2026 00:36 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Chicago Bears vs Tampa Bay Buccaneers — 09/11 · 02:20
 
