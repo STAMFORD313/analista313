@@ -1,6 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 08/11/2026 02:23 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 08/11/2026 03:01 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## UNAM Pumas vs Club America — 08/11 · 04:10
 
