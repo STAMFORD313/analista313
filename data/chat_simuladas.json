@@ -1300,7 +1300,9 @@
     "away": "HULIGANI",
     "txt": "Gana HULIGANI",
     "odds": 1.53,
-    "p": 0.6790298474945533
+    "p": 0.6790298474945533,
+    "ok": false,
+    "por": "ganó PlayTime 2-1"
    },
    {
     "src": "espn:nfl",
@@ -1317,9 +1319,9 @@
   "odds": 8.15,
   "p": 0.15794944517943788,
   "stake": 1.0,
-  "estado": "pendiente",
-  "avisada": false,
-  "rev": 1
+  "estado": "perdida",
+  "avisada": true,
+  "rev": 2
  },
  {
   "id": "20261107055231423979",
