@@ -1,6 +1,6 @@
 # 🏈 NFL·NCAA · apuestas de valor
 
-Actualizado 08/11/2026 03:33 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 08/11/2026 04:02 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Oregon State Beavers vs Texas State Bobcats — 08/11 · 04:30
 
