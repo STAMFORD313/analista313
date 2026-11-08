@@ -221,6 +221,8 @@ fecha,partido,tipo,piernas,p,acierto,piernas_acertadas,p_piernas,cuota,ventaja,s
 2026-11-07,Nacional vs Academico Viseu,larga,5,0.0611,0,2,0.6015,,,0,,Menos de 13.5 faltas de Academico Viseu + Menos de 5.5 córners de Nacional + Menos de 4.5 tiros a puerta de Nacional + Más de 2.5 tarjetas de Academico Viseu + Más de 2.5 goles,10010
 2026-11-07,Nacional vs Academico Viseu,valor,2,0.3502,0,0,0.5917,2.87,0.004,0,,Menos de 5.5 córners de Nacional + Más de 2.5 goles,0
 2026-11-08,Miami Dolphins vs Detroit Lions,nfl,2,0.1394,0,0,0.3815,7.11,-0.01,0,,Gana Miami Dolphins + Más de 50.5 puntos,0
-2026-11-08,Philadelphia Eagles vs New York Giants,nfl,2,0.218,0,0,0.4555,4.47,-0.026,0,,Gana Philadelphia Eagles + Más de 38.5 puntos,00
-2026-11-08,Washington Commanders vs Los Angeles Rams,nfl,2,0.1764,0,0,0.4125,5.56,-0.019,0,,Gana Washington Commanders + Más de 48.5 puntos,00
-2026-11-08,Carolina Panthers vs Denver Broncos,nfl,2,0.2144,0,1,0.45,4.55,-0.024,0,,Gana Carolina Panthers + Más de 44.5 puntos,01
+2026-11-08,Philadelphia Eagles vs New York Giants,nfl,2,0.218,0,0,0.4555,4.47,-0.026,0,,Gana Philadelphia Eagles + Más de 38.5 puntos,0
+2026-11-08,Washington Commanders vs Los Angeles Rams,nfl,2,0.1764,0,0,0.4125,5.56,-0.019,0,,Gana Washington Commanders + Más de 48.5 puntos,0
+2026-11-08,Carolina Panthers vs Denver Broncos,nfl,2,0.2144,0,1,0.45,4.55,-0.024,0,,Gana Carolina Panthers + Más de 44.5 puntos,1
+2026-11-08,Indianapolis Colts vs Dallas Cowboys,nfl,2,0.1775,0,0,0.4155,5.54,-0.017,0,,Gana Indianapolis Colts + Más de 51.5 puntos,00
+2026-11-08,New Orleans Saints vs Cleveland Browns,nfl,2,0.2164,0,0,0.4535,4.51,-0.025,0,,Gana Cleveland Browns + Menos de 42.5 puntos,00
