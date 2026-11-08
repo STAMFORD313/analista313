@@ -1,42 +1,42 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 08/11/2026 18:48 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 08/11/2026 19:18 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## chevare vs Glumac — 08/11 · 19:02
+## Shinobu vs dirowe — 08/11 · 19:22
 
-👀 candidata · 🎮⚽ FC 27 · Super Lig · **Gana Glumac** @ **2.40** (Unibet) · prob 46% vs casas 36% · ventaja +10%
+👀 candidata · 🎮⚽ FC 27 · Copa America · **Gana dirowe** @ **1.66** (Unibet) · prob 64% vs casas 53% · ventaja +7%
 
-- ❌ Valor: ventaja +10% (mín. 11% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+- ❌ Valor: ventaja +7% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 60.887 partidos)  
-Goles esperados: chevare 3.69 · Glumac 4.11  
-Ganador: chevare 35% · empate 20% · Glumac 46%  
-Total: más de 7.5 goles 52% · menos 48%  
-Hándicap Glumac: −1.5 35% · −2.5 22%  
+📊 **Escenarios** (Poisson por jugador, 60.913 partidos)  
+Goles esperados: Shinobu 2.51 · dirowe 3.69  
+Ganador: Shinobu 21% · empate 14% · dirowe 64%  
+Total: más de 6.5 goles 42% · menos 58%  
+Hándicap dirowe: −1.5 44% · −2.5 29%  
 🔎 **Claves**  
-• Forma: chevare ❌❌❌❌✅ | Glumac ❌✅✅✅❌  
-• Partidos: chevare 610 | Glumac 780  
-• Liga: Super Lig  
-• Unibet: 1 2.20 · X 3.50 · 2 2.40 (sin margen 39%/25%/36%) · ventaja +10%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.40 (+9%) · Paf España 2.40 (+9%)  
+• Forma: Shinobu ✅❌❌❌❌ | dirowe ❌✅➖✅❌  
+• Partidos: Shinobu 1320 | dirowe 788  
+• Liga: Copa America  
+• Unibet: 1 2.90 · X 5.10 · 2 1.66 (sin margen 30%/17%/53%) · ventaja +7%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 1.66 (+7%) · Paf España 1.66 (+7%)  
 
-## DEKSON vs Linox — 08/11 · 19:11
+## Smetana vs ramzes — 08/11 · 19:34
 
-👀 candidata · 🎮⚽ FC 27 · Champions League A · **Empate** @ **4.10** (Unibet) · prob 27% vs casas 21% · ventaja +10%
+👀 candidata · 🎮⚽ FC 27 · Copa America · **Gana Smetana** @ **1.48** (Unibet) · prob 72% vs casas 59% · ventaja +7%
 
-- ❌ Valor: ventaja +10% (mín. 11% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
+- ❌ Valor: ventaja +7% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 60.887 partidos)  
-Goles esperados: DEKSON 1.89 · Linox 2.01  
-Ganador: DEKSON 35% · empate 27% · Linox 38%  
-Total: más de 3.5 goles 55% · menos 45%  
-Hándicap Linox: −1.5 23% · −2.5 11%  
+📊 **Escenarios** (Poisson por jugador, 60.913 partidos)  
+Goles esperados: Smetana 4.88 · ramzes 2.81  
+Ganador: Smetana 72% · empate 11% · ramzes 17%  
+Total: más de 7.5 goles 50% · menos 50%  
+Hándicap Smetana: −1.5 58% · −2.5 43%  
 🔎 **Claves**  
-• Forma: DEKSON ✅✅✅❌✅ | Linox ✅❌❌✅❌  
-• Partidos: DEKSON 493 | Linox 803  
-• Liga: Champions League A  
-• Unibet: 1 2.45 · X 4.10 · 2 2.00 (sin margen 35%/21%/43%) · ventaja +10%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 4.10 (+10%) · Paf España 4.10 (+10%)  
+• Forma: Smetana ✅✅➖✅✅ | ramzes ❌❌❌❌✅  
+• Partidos: Smetana 1100 | ramzes 1072  
+• Liga: Copa America  
+• Unibet: 1 1.48 · X 6.50 · 2 3.10 (sin margen 59%/13%/28%) · ventaja +7%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 1.48 (+7%) · Paf España 1.48 (+7%)  
 

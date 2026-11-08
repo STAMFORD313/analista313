@@ -1,46 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 08/11/2026 18:48 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Alliance vs PRIVATE — 08/11 · 19:00
-
-👀 candidata · 🎮 CS2 · ESL Challenger League Season 52: Europe - Cup 11 · **Gana PRIVATE** @ **1.98** (Thunderpick) · prob 52% vs casas 46% · ventaja +2%
-
-- ❌ Valor: ventaja +2% (mín. 8% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 76.615 partidos)  
-Mapa: Alliance 46% · Serie BO3: Alliance 43% - 57% PRIVATE  
-Casas: Alliance 54% · PRIVATE 46%  
-🔎 **Claves**  
-• Elo: Alliance 1805 (398 series) | PRIVATE 1853 (18 series)  
-• Forma: Alliance ❌❌❌✅✅ | PRIVATE ✅❌✅❌✅  
-• H2H: 1: 0-1  
-• Torneo: ESL Challenger League Season 52: Europe - Cup 11 (nivel C)  
-• Cambios de plantilla: ninguno  
-🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
-• Alliance gana 2-1: 20% → cuota justa 5.04 · casa 22%  
-• PRIVATE gana 2-1: 24% → cuota justa 4.22 · casa 20% ✔ el bot lo ve más probable que la casa  
-
-## FOKUS vs Acend — 08/11 · 19:00
-
-👀 candidata · 🎮 CS2 · ESL Challenger League Season 52: Europe - Cup 11 · **Gana FOKUS** @ **1.32** (Thunderpick) · prob 70% vs casas 69% · ventaja -8%
-
-- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 76.615 partidos)  
-Mapa: FOKUS 64% · Serie BO3: FOKUS 70% - 30% Acend  
-Casas: FOKUS 69% · Acend 31%  
-🔎 **Claves**  
-• Elo: FOKUS 1883 (105 series) | Acend 1731 (135 series)  
-• Forma: FOKUS ✅❌✅✅✅ | Acend ✅❌✅❌✅  
-• H2H: 2: 1-1  
-• Torneo: ESL Challenger League Season 52: Europe - Cup 11 (nivel C)  
-• Cambios de plantilla: ninguno  
-🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
-• FOKUS gana 2-1: 25% → cuota justa 4.02  
-• Acend gana 2-1: 14% → cuota justa 7.07  
+Actualizado 08/11/2026 19:18 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## RED Canids Academy vs Grêmio — 08/11 · 20:00
 

@@ -60877,12 +60877,12 @@ id,tournament_id,club1,club2,ht1,ht2
 2369657,261374,Portugal,Morocco,,
 2369658,261374,Germany,Portugal,,
 2369659,261374,Netherlands,Belgium,,
-2369450,261335,Juventus,Sporting CP,3,2
-2369451,261335,B Dortmund,Man City,3,1
-2369452,261335,Man City,Juventus,0,4
-2369453,261335,Sporting CP,Arsenal,3,3
-2369454,261335,Arsenal,Man City,3,1
-2369455,261335,Juventus,B Dortmund,3,4
+2369450,261335,Juventus,Sporting CP,3.0,2.0
+2369451,261335,B Dortmund,Man City,3.0,1.0
+2369452,261335,Man City,Juventus,0.0,4.0
+2369453,261335,Sporting CP,Arsenal,3.0,3.0
+2369454,261335,Arsenal,Man City,3.0,1.0
+2369455,261335,Juventus,B Dortmund,3.0,4.0
 2369456,261335,B Dortmund,Arsenal,,
 2369457,261335,Man City,Sporting CP,,
 2369458,261335,Sporting CP,B Dortmund,,
@@ -60897,18 +60897,18 @@ id,tournament_id,club1,club2,ht1,ht2
 2369467,261335,Sporting CP,Man City,,
 2369468,261335,B Dortmund,Sporting CP,,
 2369469,261335,Juventus,Arsenal,,
-2369260,261343,Liverpool,Real Madrid,0,1
-2369261,261343,Bayern Munchen,Paris,0,3
-2369262,261343,Paris,Liverpool,3,2
-2369263,261343,Real Madrid,Atleti,1,4
-2369264,261343,Atleti,Paris,1,0
-2369265,261343,Liverpool,Bayern Munchen,1,0
-2369266,261343,Bayern Munchen,Atleti,1,0
-2369267,261343,Paris,Real Madrid,2,2
-2369268,261343,Real Madrid,Bayern Munchen,3,1
-2369269,261343,Atleti,Liverpool,3,0
-2369270,261343,Real Madrid,Liverpool,2,2
-2369271,261343,Paris,Bayern Munchen,0,3
+2369260,261343,Liverpool,Real Madrid,0.0,1.0
+2369261,261343,Bayern Munchen,Paris,0.0,3.0
+2369262,261343,Paris,Liverpool,3.0,2.0
+2369263,261343,Real Madrid,Atleti,1.0,4.0
+2369264,261343,Atleti,Paris,1.0,0.0
+2369265,261343,Liverpool,Bayern Munchen,1.0,0.0
+2369266,261343,Bayern Munchen,Atleti,1.0,0.0
+2369267,261343,Paris,Real Madrid,2.0,2.0
+2369268,261343,Real Madrid,Bayern Munchen,3.0,1.0
+2369269,261343,Atleti,Liverpool,3.0,0.0
+2369270,261343,Real Madrid,Liverpool,2.0,2.0
+2369271,261343,Paris,Bayern Munchen,0.0,3.0
 2369272,261343,Liverpool,Paris,,
 2369273,261343,Atleti,Real Madrid,,
 2369274,261343,Paris,Atleti,,
@@ -60917,16 +60917,16 @@ id,tournament_id,club1,club2,ht1,ht2
 2369277,261343,Real Madrid,Paris,,
 2369278,261343,Bayern Munchen,Real Madrid,,
 2369279,261343,Liverpool,Atleti,,
-2369500,261351,Basaksehir,Besiktas,2,2
-2369501,261351,Trabzonspor,Fenerbahce,2,1
-2369502,261351,Fenerbahce,Basaksehir,2,2
-2369503,261351,Besiktas,Galatasaray,1,2
-2369504,261351,Galatasaray,Fenerbahce,1,1
-2369505,261351,Basaksehir,Trabzonspor,2,2
-2369506,261351,Trabzonspor,Galatasaray,2,2
-2369507,261351,Fenerbahce,Besiktas,3,3
-2369508,261351,Besiktas,Trabzonspor,1,2
-2369509,261351,Galatasaray,Basaksehir,1,2
+2369500,261351,Basaksehir,Besiktas,2.0,2.0
+2369501,261351,Trabzonspor,Fenerbahce,2.0,1.0
+2369502,261351,Fenerbahce,Basaksehir,2.0,2.0
+2369503,261351,Besiktas,Galatasaray,1.0,2.0
+2369504,261351,Galatasaray,Fenerbahce,1.0,1.0
+2369505,261351,Basaksehir,Trabzonspor,2.0,2.0
+2369506,261351,Trabzonspor,Galatasaray,2.0,2.0
+2369507,261351,Fenerbahce,Besiktas,3.0,3.0
+2369508,261351,Besiktas,Trabzonspor,1.0,2.0
+2369509,261351,Galatasaray,Basaksehir,1.0,2.0
 2369510,261351,Besiktas,Basaksehir,,
 2369511,261351,Fenerbahce,Trabzonspor,,
 2369512,261351,Basaksehir,Fenerbahce,,
@@ -60937,3 +60937,23 @@ id,tournament_id,club1,club2,ht1,ht2
 2369517,261351,Besiktas,Fenerbahce,,
 2369518,261351,Trabzonspor,Besiktas,,
 2369519,261351,Basaksehir,Galatasaray,,
+2368624,261310,France,Germany,1,0
+2368625,261310,Argentina,Spain,0,1
+2368626,261310,Spain,France,1,1
+2368627,261310,Germany,England,1,1
+2368628,261310,England,Spain,0,0
+2368629,261310,France,Argentina,2,0
+2368630,261310,Argentina,England,2,3
+2368631,261310,Spain,Germany,1,2
+2368632,261310,Germany,Argentina,3,1
+2368633,261310,England,France,1,0
+2368634,261310,Germany,France,1,0
+2368635,261310,Spain,Argentina,2,0
+2368636,261310,France,Spain,2,0
+2368637,261310,England,Germany,4,1
+2368638,261310,Spain,England,,
+2368639,261310,Argentina,France,,
+2368640,261310,England,Argentina,,
+2368641,261310,Germany,Spain,,
+2368642,261310,Argentina,Germany,,
+2368643,261310,France,England,,

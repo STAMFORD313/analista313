@@ -216,4 +216,7 @@ fecha,partido,tipo,piernas,p,acierto,piernas_acertadas,p_piernas,cuota,ventaja,s
 2026-11-07,Valencia vs Real Madrid,corta,3,0.4947,1,3,0.7835,,,0,,Menos de 12.5 faltas de Real Madrid + Menos de 4.5 tiros a puerta de Valencia + Menos de 5.5 córners de Valencia,111
 2026-11-07,Valencia vs Real Madrid,larga,4,0.3337,0,3,0.74,,,0,,Menos de 12.5 faltas de Real Madrid + Menos de 4.5 tiros a puerta de Valencia + Menos de 5.5 córners de Valencia + Menos de 2.5 tarjetas de Real Madrid,1110
 2026-11-07,Valencia vs Real Madrid,valor,2,0.6327,1,2,0.7802,1.44,-0.089,0,,Menos de 4.5 tiros a puerta de Valencia + Menos de 5.5 córners de Valencia,11
-2026-11-08,Atlanta Falcons vs Cincinnati Bengals,nfl,2,0.2064,0,0,0.4425,4.72,-0.025,0,,Gana Atlanta Falcons + Más de 52.5 puntos,00
+2026-11-08,Atlanta Falcons vs Cincinnati Bengals,nfl,2,0.2064,0,0,0.4425,4.72,-0.025,0,,Gana Atlanta Falcons + Más de 52.5 puntos,0
+2026-11-07,Nacional vs Academico Viseu,corta,3,0.2564,0,1,0.6214,,,0,,Menos de 13.5 faltas de Academico Viseu + Menos de 5.5 córners de Nacional + Menos de 4.5 tiros a puerta de Nacional,100
+2026-11-07,Nacional vs Academico Viseu,larga,5,0.0611,0,2,0.6015,,,0,,Menos de 13.5 faltas de Academico Viseu + Menos de 5.5 córners de Nacional + Menos de 4.5 tiros a puerta de Nacional + Más de 2.5 tarjetas de Academico Viseu + Más de 2.5 goles,10010
+2026-11-07,Nacional vs Academico Viseu,valor,2,0.3502,0,0,0.5917,2.87,0.004,0,,Menos de 5.5 córners de Nacional + Más de 2.5 goles,00
