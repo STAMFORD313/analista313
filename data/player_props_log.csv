@@ -11428,5 +11428,341 @@ fecha,partido,jugador,mercado,linea,cuota,p_casa,p_modelo,titular,valor,acierto
 2026-11-08,Lens vs Marseille,Ulisses Garcia,To Score,0.5,11.0,0.0909,0.0381,1,0.0,0
 2026-11-08,Lens vs Marseille,Timothy Weah,To give an assist,0.5,5.8,0.1724,0.0889,1,0.0,0
 2026-11-08,Lens vs Marseille,Ruben Aguilar,To Get a Card,0.5,4.2,0.2381,0.0372,0,0.0,0
+2026-11-08,Fiorentina vs Juventus,Randal Kolo Muani,Player's shots on target,0.5,1.35,0.7407,0.3577,1,0.0,0
+2026-11-08,Fiorentina vs Juventus,Zeki Çelik,To Get a Card,0.5,3.2,0.3125,0.0305,0,0.0,0
+2026-11-08,Fiorentina vs Juventus,Pierre Kalulu,To Get a Card,0.5,3.6,0.2778,0.0916,1,0.0,0
+2026-11-08,Fiorentina vs Juventus,Jeremie Boga,Player's shots on target,0.5,1.7,0.5882,0.4571,1,0.0,0
+2026-11-08,Fiorentina vs Juventus,Zeki Çelik,Player's shots on target,0.5,4.8,0.2083,0.0678,0,0.0,0
+2026-11-08,Fiorentina vs Juventus,Nick Woltemade,To score at least 2 goals,1.5,12.0,0.0833,0.021,1,1.0,0
+2026-11-08,Fiorentina vs Juventus,Lloyd Kelly,To Score,0.5,11.5,0.087,0.0186,0,0.0,0
+2026-11-08,Fiorentina vs Juventus,Randal Kolo Muani,To Get a Card,0.5,3.3,0.303,0.0807,1,1.0,1
+2026-11-08,Fiorentina vs Juventus,Alieu Njie,To give an assist,0.5,5.4,0.1852,0.1381,1,0.0,0
+2026-11-08,Fiorentina vs Juventus,Teun Koopmeiners,To Score,0.5,7.0,0.1429,0.1283,1,0.0,0
+2026-11-08,Fiorentina vs Juventus,Nick Woltemade,To score at least 3 goals,2.5,56.0,0.0179,0.0015,1,1.0,0
+2026-11-08,Fiorentina vs Juventus,Alieu Njie,Player's shots on target,0.5,2.4,0.4167,0.3778,1,1.0,1
+2026-11-08,Fiorentina vs Juventus,Weston McKennie,Player's shots on target,0.5,2.3,0.4348,0.2956,1,0.0,0
+2026-11-08,Fiorentina vs Juventus,Douglas Luiz,To score at least 2 goals,1.5,56.0,0.0179,0.0038,1,0.0,0
+2026-11-08,Fiorentina vs Juventus,Nick Woltemade,Player's shots on target,1.5,2.95,0.339,0.0958,1,2.0,1
+2026-11-08,Fiorentina vs Juventus,Nicolò Fagioli,To give an assist,0.5,6.1,0.1639,0.0269,0,0.0,0
+2026-11-08,Fiorentina vs Juventus,Cher Ndour,To score at least 2 goals,1.5,56.0,0.0179,0.0036,1,0.0,0
+2026-11-08,Fiorentina vs Juventus,Teun Koopmeiners,To score at least 2 goals,1.5,71.0,0.0141,0.0086,1,0.0,0
+2026-11-08,Fiorentina vs Juventus,Mateo Pellegrino,To Get a Card,0.5,3.6,0.2778,0.1418,1,0.0,0
+2026-11-08,Fiorentina vs Juventus,Alieu Njie,To Get a Card,0.5,3.6,0.2778,0.1751,1,0.0,0
+2026-11-08,Fiorentina vs Juventus,Jhon Lucumí,To Get a Card,0.5,3.8,0.2632,0.2092,1,0.0,0
+2026-11-08,Fiorentina vs Juventus,Jeff Ekhator,To give an assist,0.5,4.5,0.2222,0.0104,0,0.0,0
+2026-11-08,Fiorentina vs Juventus,Jeff Ekhator,To Get a Card,0.5,3.3,0.303,0.0379,0,0.0,0
+2026-11-08,Fiorentina vs Juventus,Jeff Ekhator,To score at least 2 goals,1.5,17.0,0.0588,0.0007,0,0.0,0
+2026-11-08,Fiorentina vs Juventus,Franco Mastantuono,Player's shots on target,0.5,1.75,0.5714,0.4689,1,2.0,1
+2026-11-08,Fiorentina vs Juventus,Jeff Ekhator,To Score,0.5,3.5,0.2857,0.0365,0,0.0,0
+2026-11-08,Fiorentina vs Juventus,Mateo Pellegrino,Player's shots on target,0.5,1.58,0.6329,0.4148,1,2.0,1
+2026-11-08,Fiorentina vs Juventus,Nick Woltemade,To Get a Card,0.5,3.3,0.303,0.0649,1,0.0,0
+2026-11-08,Fiorentina vs Juventus,Beto,Player's shots on target,0.5,1.7,0.5882,0.1331,0,0.0,0
+2026-11-08,Fiorentina vs Juventus,João Mário,To Get a Card,0.5,3.6,0.2778,0.1195,1,0.0,0
+2026-11-08,Fiorentina vs Juventus,Radu Dragusin,To Get a Card,0.5,3.5,0.2857,0.1454,1,0.0,0
+2026-11-08,Fiorentina vs Juventus,Edon Zhegrova,To Get a Card,0.5,3.2,0.3125,0.0453,0,0.0,0
+2026-11-08,Fiorentina vs Juventus,Daniele Rugani,To Get a Card,0.5,3.5,0.2857,0.0304,0,0.0,0
+2026-11-08,Fiorentina vs Juventus,Franco Mastantuono,To score at least 2 goals,1.5,25.0,0.04,0.0166,1,0.0,0
+2026-11-08,Fiorentina vs Juventus,Lloyd Kelly,To Get a Card,0.5,4.0,0.25,0.035,0,0.0,0
+2026-11-08,Fiorentina vs Juventus,Edon Zhegrova,Player's shots on target,0.5,2.2,0.4545,0.1988,0,0.0,0
+2026-11-08,Fiorentina vs Juventus,Kerim Alajbegovic,To score at least 2 goals,1.5,21.0,0.0476,0.0015,0,0.0,0
+2026-11-08,Fiorentina vs Juventus,Kerim Alajbegovic,To Score,0.5,3.8,0.2632,0.0539,0,0.0,0
+2026-11-08,Fiorentina vs Juventus,Wilfried Gnonto,Player's shots on target,0.5,2.5,0.4,0.1054,0,0.0,0
+2026-11-08,Fiorentina vs Juventus,Marco Brescianini,To score at least 2 goals,1.5,81.0,0.0123,0.0003,0,0.0,0
+2026-11-08,Fiorentina vs Juventus,Kerim Alajbegovic,Player's shots on target,1.5,4.3,0.2326,0.016,0,1.0,0
+2026-11-08,Fiorentina vs Juventus,Juan Cabal,To give an assist,0.5,8.0,0.125,0.0268,1,0.0,0
+2026-11-08,Fiorentina vs Juventus,Christ Inao Oulaï,To give an assist,0.5,7.5,0.1333,0.076,1,0.0,0
+2026-11-08,Fiorentina vs Juventus,Marco Brescianini,To give an assist,0.5,9.0,0.1111,0.0261,0,0.0,0
+2026-11-08,Fiorentina vs Juventus,Mateo Pellegrino,To score at least 3 goals,2.5,111.0,0.009,0.0019,1,1.0,0
+2026-11-08,Fiorentina vs Juventus,Jhon Lucumí,Player's shots on target,0.5,4.7,0.2128,0.1095,1,0.0,0
+2026-11-08,Fiorentina vs Juventus,Jeremie Boga,Player's shots on target,1.5,3.8,0.2632,0.1255,1,0.0,0
+2026-11-08,Fiorentina vs Juventus,Nick Woltemade,Player's shots on target,2.5,6.75,0.1481,0.0158,1,2.0,0
+2026-11-08,Fiorentina vs Juventus,João Mário,Player's shots on target,0.5,5.3,0.1887,0.1853,1,0.0,0
+2026-11-08,Fiorentina vs Juventus,Bremer,To give an assist,0.5,12.0,0.0833,0.0324,1,0.0,0
+2026-11-08,Fiorentina vs Juventus,Daniele Rugani,To give an assist,0.5,10.0,0.1,0.0104,0,0.0,0
+2026-11-08,Fiorentina vs Juventus,Jhon Lucumí,To give an assist,0.5,12.0,0.0833,0.0485,1,0.0,0
+2026-11-08,Fiorentina vs Juventus,Cher Ndour,To give an assist,0.5,10.5,0.0952,0.0989,1,0.0,0
+2026-11-08,Fiorentina vs Juventus,Weston McKennie,Player's shots on target,1.5,7.0,0.1429,0.0488,1,0.0,0
+2026-11-08,Fiorentina vs Juventus,Federico Gatti,To give an assist,0.5,11.0,0.0909,0.0182,0,0.0,0
+2026-11-08,Fiorentina vs Juventus,Luca Ranieri,To give an assist,0.5,12.0,0.0833,0.0086,0,0.0,0
+2026-11-08,Fiorentina vs Juventus,Kerim Alajbegovic,To give an assist,0.5,5.0,0.2,0.023,0,0.0,0
+2026-11-08,Fiorentina vs Juventus,João Mário,To give an assist,0.5,13.0,0.0769,0.0239,1,0.0,0
+2026-11-08,Fiorentina vs Juventus,Mateo Pellegrino,Player's shots on target,2.5,8.5,0.1176,0.0173,1,2.0,0
+2026-11-08,Fiorentina vs Juventus,Lloyd Kelly,To give an assist,0.5,13.0,0.0769,0.012,0,0.0,0
+2026-11-08,Fiorentina vs Juventus,Franco Mastantuono,Player's shots on target,1.5,4.1,0.2439,0.1328,1,2.0,1
+2026-11-08,Fiorentina vs Juventus,Lloyd Kelly,Player's shots on target,0.5,4.6,0.2174,0.0558,0,0.0,0
+2026-11-08,Fiorentina vs Juventus,Luca Ranieri,Player's shots on target,0.5,5.4,0.1852,0.0523,0,0.0,0
+2026-11-08,Fiorentina vs Juventus,Pierre Kalulu,Player's shots on target,0.5,4.5,0.2222,0.0967,1,0.0,0
+2026-11-08,Fiorentina vs Juventus,Edon Zhegrova,Player's shots on target,1.5,6.25,0.16,0.0212,0,0.0,0
+2026-11-08,Fiorentina vs Juventus,Daniele Rugani,Player's shots on target,0.5,4.5,0.2222,0.0655,0,0.0,0
+2026-11-08,Fiorentina vs Juventus,Pierre Kalulu,To give an assist,0.5,11.0,0.0909,0.0436,1,0.0,0
+2026-11-08,Fiorentina vs Juventus,Radu Dragusin,To give an assist,0.5,13.0,0.0769,0.0434,1,0.0,0
+2026-11-08,Fiorentina vs Juventus,Alieu Njie,Player's shots on target,1.5,8.0,0.125,0.0826,1,1.0,0
+2026-11-08,Fiorentina vs Juventus,Victor Valdepenas,Player's shots on target,0.5,4.8,0.2083,0.0977,0,0.0,0
+2026-11-08,Fiorentina vs Juventus,Wilfried Gnonto,To score at least 2 goals,1.5,51.0,0.0196,0.0005,0,0.0,0
+2026-11-08,Fiorentina vs Juventus,Pedro Goncalves,To score at least 2 goals,1.5,41.0,0.0244,0.017,1,0.0,0
+2026-11-08,Fiorentina vs Juventus,Randal Kolo Muani,Player's shots on target,2.5,5.1,0.1961,0.0104,1,0.0,0
+2026-11-08,Fiorentina vs Juventus,Nicolò Fagioli,Player's shots on target,0.5,3.9,0.2564,0.0881,0,0.0,0
+2026-11-08,Fiorentina vs Juventus,Christ Inao Oulaï,Player's shots on target,0.5,3.7,0.2703,0.2307,1,0.0,0
+2026-11-08,Fiorentina vs Juventus,Beto,To score at least 3 goals,2.5,101.0,0.0099,0.0,0,0.0,0
+2026-11-08,Fiorentina vs Juventus,Juan Cabal,Player's shots on target,0.5,4.6,0.2174,0.0988,1,2.0,1
+2026-11-08,Fiorentina vs Juventus,Radu Dragusin,Player's shots on target,0.5,4.3,0.2326,0.0756,1,0.0,0
+2026-11-08,Fiorentina vs Juventus,Victor Valdepenas,To give an assist,0.5,9.0,0.1111,0.0119,0,0.0,0
+2026-11-08,Fiorentina vs Juventus,Douglas Luiz,To give an assist,0.5,4.5,0.2222,0.0757,1,1.0,1
+2026-11-08,Fiorentina vs Juventus,Nick Woltemade,Player's shots on target,0.5,1.46,0.6849,0.4045,1,2.0,1
+2026-11-08,Fiorentina vs Juventus,Nick Woltemade,To give an assist,0.5,4.6,0.2174,0.1413,1,0.0,0
+2026-11-08,Fiorentina vs Juventus,Kerim Alajbegovic,To Get a Card,0.5,5.0,0.2,0.0306,0,0.0,0
+2026-11-08,Fiorentina vs Juventus,Luca Ranieri,To Get a Card,0.5,3.3,0.303,0.0606,0,0.0,0
+2026-11-08,Fiorentina vs Juventus,Franco Mastantuono,To give an assist,0.5,6.5,0.1538,0.0512,1,0.0,0
+2026-11-08,Fiorentina vs Juventus,João Mário,To Score,0.5,13.0,0.0769,0.0814,1,0.0,0
+2026-11-08,Fiorentina vs Juventus,Jhon Lucumí,To Score,0.5,11.0,0.0909,0.0186,1,0.0,0
+2026-11-08,Fiorentina vs Juventus,Nicolò Fagioli,To Score,0.5,9.5,0.1053,0.0225,0,0.0,0
+2026-11-08,Fiorentina vs Juventus,Randal Kolo Muani,To Score,0.5,2.7,0.3704,0.1911,1,0.0,0
+2026-11-08,Fiorentina vs Juventus,Cher Ndour,To Score,0.5,6.0,0.1667,0.0835,1,0.0,0
+2026-11-08,Fiorentina vs Juventus,Teun Koopmeiners,Player's shots on target,0.5,3.1,0.3226,0.3394,1,0.0,0
+2026-11-08,Fiorentina vs Juventus,Randal Kolo Muani,To give an assist,0.5,4.3,0.2326,0.1195,1,1.0,1
+2026-11-08,Fiorentina vs Juventus,Victor Valdepenas,To Get a Card,0.5,3.3,0.303,0.0347,0,0.0,0
+2026-11-08,Fiorentina vs Juventus,Alieu Njie,To score at least 2 goals,1.5,46.0,0.0217,0.0111,1,1.0,0
+2026-11-08,Fiorentina vs Juventus,Radu Dragusin,To Score,0.5,11.0,0.0909,0.0172,1,0.0,0
+2026-11-08,Fiorentina vs Juventus,Juan Cabal,To Score,0.5,11.0,0.0909,0.0409,1,0.0,0
+2026-11-08,Fiorentina vs Juventus,Daniele Rugani,To Score,0.5,10.5,0.0952,0.0234,0,0.0,0
+2026-11-08,Fiorentina vs Juventus,Marco Brescianini,Player's shots on target,0.5,3.05,0.3279,0.0823,0,1.0,1
+2026-11-08,Fiorentina vs Juventus,Christ Inao Oulaï,To Get a Card,0.5,3.1,0.3226,0.2113,1,1.0,1
+2026-11-08,Fiorentina vs Juventus,Beto,To give an assist,0.5,5.0,0.2,0.0217,0,0.0,0
+2026-11-08,Fiorentina vs Juventus,Juan Cabal,To Get a Card,0.5,3.1,0.3226,0.2045,1,1.0,1
+2026-11-08,Fiorentina vs Juventus,Edon Zhegrova,To Score,0.5,4.7,0.2128,0.0493,0,0.0,0
+2026-11-08,Fiorentina vs Juventus,Randal Kolo Muani,To score at least 2 goals,1.5,9.5,0.1053,0.0196,1,0.0,0
+2026-11-08,Fiorentina vs Juventus,Pedro Goncalves,To Get a Card,0.5,3.5,0.2857,0.134,1,0.0,0
+2026-11-08,Fiorentina vs Juventus,Edon Zhegrova,To give an assist,0.5,4.8,0.2083,0.0376,0,0.0,0
+2026-11-08,Fiorentina vs Juventus,Douglas Luiz,Player's shots on target,0.5,2.8,0.3571,0.2859,1,0.0,0
+2026-11-08,Fiorentina vs Juventus,Wilfried Gnonto,To Get a Card,0.5,3.3,0.303,0.0561,0,0.0,0
+2026-11-08,Fiorentina vs Juventus,Weston McKennie,To score at least 2 goals,1.5,35.0,0.0286,0.0088,1,0.0,0
+2026-11-08,Fiorentina vs Juventus,Alieu Njie,To Score,0.5,5.75,0.1739,0.1453,1,1.0,1
+2026-11-08,Fiorentina vs Juventus,Mateo Pellegrino,To Score,0.5,3.5,0.2857,0.2114,1,1.0,1
+2026-11-08,Fiorentina vs Juventus,Pedro Goncalves,Player's shots on target,0.5,2.35,0.4255,0.4897,1,0.0,0
+2026-11-08,Fiorentina vs Juventus,Edon Zhegrova,To score at least 2 goals,1.5,30.0,0.0333,0.0012,0,0.0,0
+2026-11-08,Fiorentina vs Juventus,Jeremie Boga,To Get a Card,0.5,3.8,0.2632,0.1023,1,0.0,0
+2026-11-08,Fiorentina vs Juventus,Jeremie Boga,To give an assist,0.5,4.5,0.2222,0.071,1,0.0,0
+2026-11-08,Fiorentina vs Juventus,Christ Inao Oulaï,To Score,0.5,9.5,0.1053,0.0686,1,0.0,0
+2026-11-08,Fiorentina vs Juventus,Federico Gatti,To Score,0.5,11.0,0.0909,0.0341,0,0.0,0
+2026-11-08,Fiorentina vs Juventus,Mateo Pellegrino,Player's shots on target,1.5,3.4,0.2941,0.1013,1,2.0,1
+2026-11-08,Fiorentina vs Juventus,Bremer,To Score,0.5,11.5,0.087,0.0873,1,1.0,1
+2026-11-08,Fiorentina vs Juventus,Jeremie Boga,To score at least 2 goals,1.5,18.0,0.0556,0.0168,1,0.0,0
+2026-11-08,Fiorentina vs Juventus,Zeki Çelik,To Score,0.5,10.5,0.0952,0.0301,0,0.0,0
+2026-11-08,Fiorentina vs Juventus,Douglas Luiz,To Score,0.5,6.25,0.16,0.0854,1,0.0,0
+2026-11-08,Fiorentina vs Juventus,Luca Ranieri,To Score,0.5,13.0,0.0769,0.0176,0,0.0,0
+2026-11-08,Fiorentina vs Juventus,Franco Mastantuono,To Get a Card,0.5,3.7,0.2703,0.1751,1,0.0,0
+2026-11-08,Fiorentina vs Juventus,Pedro Goncalves,To give an assist,0.5,5.8,0.1724,0.1825,1,1.0,1
+2026-11-08,Fiorentina vs Juventus,Marco Brescianini,To Get a Card,0.5,3.6,0.2778,0.0223,0,0.0,0
+2026-11-08,Fiorentina vs Juventus,Federico Gatti,To Get a Card,0.5,3.2,0.3125,0.0343,0,0.0,0
+2026-11-08,Fiorentina vs Juventus,Beto,To Score,0.5,3.8,0.2632,0.0604,0,0.0,0
+2026-11-08,Fiorentina vs Juventus,Beto,To score at least 2 goals,1.5,20.0,0.05,0.0019,0,0.0,0
+2026-11-08,Fiorentina vs Juventus,Pedro Goncalves,To Score,0.5,5.6,0.1786,0.1785,1,0.0,0
+2026-11-08,Fiorentina vs Juventus,Bremer,Player's shots on target,0.5,4.8,0.2083,0.1968,1,1.0,1
+2026-11-08,Fiorentina vs Juventus,Randal Kolo Muani,To score at least 3 goals,2.5,46.0,0.0217,0.0014,1,0.0,0
+2026-11-08,Fiorentina vs Juventus,Jeff Ekhator,Player's shots on target,1.5,3.7,0.2703,0.0041,0,0.0,0
+2026-11-08,Fiorentina vs Juventus,Federico Gatti,Player's shots on target,0.5,4.8,0.2083,0.0886,0,0.0,0
+2026-11-08,Fiorentina vs Juventus,Marco Brescianini,To Score,0.5,7.5,0.1333,0.025,0,0.0,0
+2026-11-08,Fiorentina vs Juventus,Cher Ndour,To Get a Card,0.5,3.4,0.2941,0.1146,1,0.0,0
+2026-11-08,Fiorentina vs Juventus,Weston McKennie,To Score,0.5,4.9,0.2041,0.13,1,0.0,0
+2026-11-08,Fiorentina vs Juventus,Pierre Kalulu,To Score,0.5,10.5,0.0952,0.0259,1,0.0,0
+2026-11-08,Fiorentina vs Juventus,Victor Valdepenas,To Score,0.5,12.0,0.0833,0.0406,0,0.0,0
+2026-11-08,Fiorentina vs Juventus,Mateo Pellegrino,To score at least 2 goals,1.5,18.0,0.0556,0.0241,1,1.0,0
+2026-11-08,Fiorentina vs Juventus,Nick Woltemade,To Score,0.5,2.95,0.339,0.198,1,1.0,1
+2026-11-08,Fiorentina vs Juventus,Wilfried Gnonto,To give an assist,0.5,5.0,0.2,0.0166,0,0.0,0
+2026-11-08,Fiorentina vs Juventus,Beto,Player's shots on target,1.5,3.8,0.2632,0.0093,0,0.0,0
+2026-11-08,Fiorentina vs Juventus,Weston McKennie,To Get a Card,0.5,3.4,0.2941,0.1145,1,0.0,0
+2026-11-08,Fiorentina vs Juventus,Franco Mastantuono,To Score,0.5,4.0,0.25,0.1765,1,0.0,0
+2026-11-08,Fiorentina vs Juventus,Teun Koopmeiners,To Get a Card,0.5,3.5,0.2857,0.0891,1,0.0,0
+2026-11-08,Fiorentina vs Juventus,Kerim Alajbegovic,Player's shots on target,0.5,1.8,0.5556,0.1737,0,1.0,1
+2026-11-08,Fiorentina vs Juventus,Wilfried Gnonto,To Score,0.5,6.0,0.1667,0.0323,0,0.0,0
+2026-11-08,Fiorentina vs Juventus,Douglas Luiz,To Get a Card,0.5,3.2,0.3125,0.173,1,0.0,0
+2026-11-08,Fiorentina vs Juventus,Jeremie Boga,To Score,0.5,3.6,0.2778,0.1779,1,0.0,0
+2026-11-08,Fiorentina vs Juventus,Weston McKennie,To give an assist,0.5,5.5,0.1818,0.1052,1,0.0,0
+2026-11-08,Fiorentina vs Juventus,Beto,To Get a Card,0.5,4.1,0.2439,0.0279,0,0.0,0
+2026-11-08,Fiorentina vs Juventus,Zeki Çelik,To give an assist,0.5,6.0,0.1667,0.019,0,0.0,0
+2026-11-08,Fiorentina vs Juventus,Mateo Pellegrino,To give an assist,0.5,5.75,0.1739,0.037,1,0.0,0
+2026-11-08,Fiorentina vs Juventus,Jeff Ekhator,Player's shots on target,0.5,1.65,0.6061,0.0887,0,0.0,0
+2026-11-08,Fiorentina vs Juventus,Nicolò Fagioli,To Get a Card,0.5,3.7,0.2703,0.0288,0,0.0,0
+2026-11-08,Fiorentina vs Juventus,Cher Ndour,Player's shots on target,0.5,2.6,0.3846,0.2896,1,0.0,0
+2026-11-08,Fiorentina vs Juventus,Teun Koopmeiners,To give an assist,0.5,5.8,0.1724,0.0775,1,0.0,0
+2026-11-08,Fiorentina vs Juventus,Bremer,To Get a Card,0.5,3.4,0.2941,0.1308,1,1.0,1
+2026-11-08,Fiorentina vs Juventus,Randal Kolo Muani,Player's shots on target,1.5,2.5,0.4,0.0733,1,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,Lamine Yamal,Player's shots on target,1.5,1.54,0.6494,0.2955,1,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,Giuliano Simeone,Player's shots on target,0.5,2.6,0.3846,0.319,1,1.0,1
+2026-11-08,Ath Madrid vs Barcelona,Ademola Lookman,To Get a Card,0.5,3.7,0.2703,0.0318,0,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,Alejandro Balde,To Score,0.5,8.5,0.1176,0.0216,0,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,Lamine Yamal,Player's shots on target,0.5,1.04,0.9615,0.6621,1,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,Julián Álvarez,Player's shots on target,0.5,1.35,0.7407,0.601,1,1.0,1
+2026-11-08,Ath Madrid vs Barcelona,Raphinha,To Get a Card,0.5,3.4,0.2941,0.1333,1,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,Gabriel Jesus,To score at least 2 goals,1.5,9.5,0.1053,0.003,0,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,João Cancelo,To Score,0.5,8.5,0.1176,0.0955,1,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,Giuliano Simeone,To Get a Card,0.5,2.9,0.3448,0.156,1,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,Alexander Sørloth,To Get a Card,0.5,3.1,0.3226,0.0405,0,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,Pedri,To score at least 2 goals,1.5,51.0,0.0196,0.0022,1,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,Anthony Gordon,To Score,0.5,2.95,0.339,0.2217,1,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,Gavi,To Get a Card,0.5,2.8,0.3571,0.0426,0,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,Marc Bernal,To score at least 2 goals,1.5,76.0,0.0132,0.0016,1,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,Marcos Llorente,To Score,0.5,10.5,0.0952,0.0519,1,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,Johnny Cardoso,To Score,0.5,11.0,0.0909,0.0241,0,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,Alexander Sørloth,Player's shots on target,1.5,3.1,0.3226,0.0185,0,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,Fermín López,Player's shots on target,0.5,1.54,0.6494,0.5546,1,3.0,1
+2026-11-08,Ath Madrid vs Barcelona,Gavi,To score at least 2 goals,1.5,41.0,0.0244,0.0003,0,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,Fermín López,To Get a Card,0.5,3.8,0.2632,0.1611,1,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,Anthony Gordon,Player's shots on target,0.5,1.38,0.7246,0.5818,1,1.0,1
+2026-11-08,Ath Madrid vs Barcelona,Karim Adeyemi,Player's shots on target,0.5,1.47,0.6803,0.1616,0,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,Marc Bernal,To Get a Card,0.5,3.3,0.303,0.152,1,1.0,1
+2026-11-08,Ath Madrid vs Barcelona,Álex Baena,To Get a Card,0.5,3.0,0.3333,0.1906,1,1.0,1
+2026-11-08,Ath Madrid vs Barcelona,Marcos Llorente,To Get a Card,0.5,3.0,0.3333,0.1274,1,1.0,1
+2026-11-08,Ath Madrid vs Barcelona,Gabriel Jesus,To give an assist,0.5,3.6,0.2778,0.0248,0,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,Alexander Sørloth,To Score,0.5,3.1,0.3226,0.0815,0,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,Anthony Gordon,To Get a Card,0.5,3.5,0.2857,0.1214,1,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,Alexander Sørloth,To score at least 2 goals,1.5,13.0,0.0769,0.0034,0,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,Pablo Barrios,To give an assist,0.5,7.5,0.1333,0.0846,1,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,Anthony Gordon,To give an assist,0.5,3.2,0.3125,0.1336,1,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,Ademola Lookman,Player's shots on target,1.5,3.6,0.2778,0.007,0,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,Raphinha,Player's shots on target,0.5,1.05,0.9524,0.6996,1,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,Morten Hjulmand,To Get a Card,0.5,2.6,0.3846,0.0642,0,1.0,1
+2026-11-08,Ath Madrid vs Barcelona,Ademola Lookman,To score at least 3 goals,2.5,71.0,0.0141,0.0,0,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,Koke,To Score,0.5,11.0,0.0909,0.0556,1,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,Frenkie de Jong,Player's shots on target,0.5,3.7,0.2703,0.064,0,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,Pau Cubarsí,To give an assist,0.5,12.0,0.0833,0.0709,1,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,Pau Cubarsí,Player's shots on target,0.5,3.8,0.2632,0.0644,1,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,Johnny Cardoso,To give an assist,0.5,8.5,0.1176,0.0174,0,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,Marc Pubill,To give an assist,0.5,10.5,0.0952,0.0258,1,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,Andreas Christensen,To give an assist,0.5,12.0,0.0833,0.0212,0,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,Robin Le Normand,To give an assist,0.5,14.0,0.0714,0.0122,0,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,Andreas Christensen,To score at least 2 goals,1.5,76.0,0.0132,0.0003,0,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,Anthony Gordon,To score at least 3 goals,2.5,61.0,0.0164,0.0022,1,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,Pau Cubarsí,To score at least 2 goals,1.5,91.0,0.011,0.0002,1,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,Robin Le Normand,Player's shots on target,0.5,5.0,0.2,0.0695,0,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,Julián Álvarez,Player's shots on target,2.5,6.5,0.1538,0.066,1,1.0,0
+2026-11-08,Ath Madrid vs Barcelona,Álex Baena,Player's shots on target,1.5,4.2,0.2381,0.0871,1,1.0,0
+2026-11-08,Ath Madrid vs Barcelona,Anthony Gordon,Player's shots on target,1.5,3.0,0.3333,0.2172,1,1.0,0
+2026-11-08,Ath Madrid vs Barcelona,David Hancko,To give an assist,0.5,13.0,0.0769,0.0568,1,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,Alejandro Balde,To give an assist,0.5,7.5,0.1333,0.0155,0,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,Eric García,To give an assist,0.5,9.5,0.1053,0.0111,0,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,Koke,Player's shots on target,0.5,4.8,0.2083,0.1994,1,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,Julián Álvarez,To Score,0.5,2.85,0.3509,0.2533,1,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,David Hancko,To score at least 2 goals,1.5,111.0,0.009,0.0005,1,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,Fermín López,Player's shots on target,2.5,9.5,0.1053,0.0487,1,3.0,1
+2026-11-08,Ath Madrid vs Barcelona,Robin Le Normand,To score at least 2 goals,1.5,121.0,0.0083,0.0005,0,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,Lamine Yamal,Player's shots on target,3.5,4.8,0.2083,0.0247,1,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,Lamine Yamal,Player's shots on target,2.5,2.7,0.3704,0.0966,1,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,Gerard Martín,To give an assist,0.5,9.0,0.1111,0.0299,1,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,Raphinha,Player's shots on target,2.5,2.85,0.3509,0.1211,1,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,Fermín López,Player's shots on target,1.5,3.6,0.2778,0.1943,1,3.0,1
+2026-11-08,Ath Madrid vs Barcelona,Fermín López,To score at least 3 goals,2.5,76.0,0.0132,0.0024,1,2.0,0
+2026-11-08,Ath Madrid vs Barcelona,Marcos Llorente,To score at least 2 goals,1.5,121.0,0.0083,0.0014,1,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,Eric García,To score at least 2 goals,1.5,91.0,0.011,0.0003,0,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,Alejandro Balde,To score at least 2 goals,1.5,81.0,0.0123,0.0002,0,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,Karim Adeyemi,Player's shots on target,1.5,3.3,0.303,0.0138,0,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,Gerard Martín,To score at least 2 goals,1.5,81.0,0.0123,0.0001,1,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,Gabriel Jesus,Player's shots on target,1.5,2.55,0.3922,0.0134,0,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,Morten Hjulmand,Player's shots on target,0.5,4.2,0.2381,0.0719,0,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,Gerard Martín,Player's shots on target,0.5,3.8,0.2632,0.1295,1,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,Johnny Cardoso,Player's shots on target,0.5,4.8,0.2083,0.0609,0,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,Eric García,Player's shots on target,0.5,3.8,0.2632,0.0735,0,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,Alejandro Balde,Player's shots on target,0.5,3.8,0.2632,0.065,0,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,Marc Pubill,To score at least 2 goals,1.5,131.0,0.0076,0.0013,1,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,João Cancelo,To score at least 2 goals,1.5,81.0,0.0123,0.0047,1,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,Gabriel Jesus,To score at least 3 goals,2.5,41.0,0.0244,0.0001,0,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,Pablo Barrios,Player's shots on target,0.5,3.9,0.2564,0.2649,1,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,Rodrigo Mendoza,To score at least 2 goals,1.5,56.0,0.0179,0.0003,0,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,Jonathan David,To score at least 3 goals,2.5,76.0,0.0132,0.0,0,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,Frenkie de Jong,To score at least 2 goals,1.5,76.0,0.0132,0.0003,0,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,Alexander Sørloth,Player's shots on target,2.5,7.5,0.1333,0.0012,0,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,Karim Adeyemi,To score at least 2 goals,1.5,13.0,0.0769,0.0026,0,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,Koke,To Get a Card,0.5,2.8,0.3571,0.1388,1,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,Jonathan David,To Get a Card,0.5,3.9,0.2564,0.0164,0,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,Alexander Sørloth,To give an assist,0.5,6.5,0.1538,0.0112,0,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,Lamine Yamal,To Score,0.5,1.66,0.6024,0.394,1,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,João Cancelo,Player's shots on target,0.5,3.5,0.2857,0.2236,1,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,Ademola Lookman,To give an assist,0.5,4.3,0.2326,0.0214,0,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,Lamine Yamal,To score at least 3 goals,2.5,13.0,0.0769,0.0145,1,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,Lamine Yamal,To score at least 2 goals,1.5,4.1,0.2439,0.0905,1,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,Jonathan David,To give an assist,0.5,3.8,0.2632,0.0318,0,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,Karim Adeyemi,To give an assist,0.5,2.8,0.3571,0.0375,0,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,Gabriel Jesus,To Score,0.5,2.6,0.3846,0.0761,0,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,Pedri,Player's shots on target,0.5,2.75,0.3636,0.1979,1,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,Jonathan David,Player's shots on target,0.5,1.5,0.6667,0.1532,0,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,João Cancelo,To give an assist,0.5,5.0,0.2,0.1324,1,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,João Cancelo,To Get a Card,0.5,3.5,0.2857,0.2006,1,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,Gerard Martín,To Score,0.5,8.5,0.1176,0.0156,1,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,Álex Baena,To Score,0.5,3.6,0.2778,0.1563,1,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,Rodrigo Mendoza,To Score,0.5,6.5,0.1538,0.0236,0,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,Andreas Christensen,Player's shots on target,0.5,3.9,0.2564,0.0764,0,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,Eric García,To Score,0.5,8.5,0.1176,0.026,0,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,Eric García,To Get a Card,0.5,3.3,0.303,0.0346,0,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,Raphinha,To score at least 2 goals,1.5,4.7,0.2128,0.168,1,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,Julián Álvarez,To Get a Card,0.5,3.5,0.2857,0.0654,1,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,Robin Le Normand,To Get a Card,0.5,2.75,0.3636,0.0536,0,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,Lamine Yamal,To give an assist,0.5,2.65,0.3774,0.3164,1,1.0,1
+2026-11-08,Ath Madrid vs Barcelona,Fermín López,To give an assist,0.5,3.0,0.3333,0.2885,1,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,Rodrigo Mendoza,Player's shots on target,0.5,2.9,0.3448,0.094,0,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,Koke,To give an assist,0.5,8.0,0.125,0.047,1,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,Karim Adeyemi,To Score,0.5,3.1,0.3226,0.0716,0,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,Julián Álvarez,To score at least 3 goals,2.5,51.0,0.0196,0.0033,1,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,Marc Bernal,Player's shots on target,0.5,3.4,0.2941,0.1292,1,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,Pedri,To give an assist,0.5,4.0,0.25,0.1679,1,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,Fermín López,To score at least 2 goals,1.5,15.0,0.0667,0.0283,1,2.0,1
+2026-11-08,Ath Madrid vs Barcelona,Alejandro Balde,To Get a Card,0.5,3.6,0.2778,0.0323,0,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,Frenkie de Jong,To give an assist,0.5,6.75,0.1481,0.0328,0,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,Pau Cubarsí,To Score,0.5,8.5,0.1176,0.0211,1,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,Alexander Sørloth,To score at least 3 goals,2.5,67.0,0.0149,0.0001,0,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,Giuliano Simeone,To Score,0.5,5.6,0.1786,0.1335,1,1.0,1
+2026-11-08,Ath Madrid vs Barcelona,Lamine Yamal,To Get a Card,0.5,3.8,0.2632,0.1215,1,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,Álex Baena,To give an assist,0.5,4.4,0.2273,0.1656,1,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,Raphinha,Player's shots on target,1.5,1.6,0.625,0.3383,1,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,Jonathan David,To score at least 2 goals,1.5,15.0,0.0667,0.0016,0,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,Jonathan David,To Score,0.5,3.3,0.303,0.0561,0,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,Ademola Lookman,To score at least 2 goals,1.5,15.0,0.0667,0.0014,0,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,Ademola Lookman,To Score,0.5,3.3,0.303,0.0532,0,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,Pablo Barrios,To Get a Card,0.5,3.5,0.2857,0.0901,1,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,Pau Cubarsí,To Get a Card,0.5,3.2,0.3125,0.1241,1,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,Marc Pubill,To Get a Card,0.5,2.8,0.3571,0.208,1,1.0,1
+2026-11-08,Ath Madrid vs Barcelona,Rodrigo Mendoza,To Get a Card,0.5,3.0,0.3333,0.0428,0,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,Giuliano Simeone,To give an assist,0.5,4.5,0.2222,0.1034,1,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,Karim Adeyemi,To Get a Card,0.5,3.2,0.3125,0.0522,0,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,Rodrigo Mendoza,To give an assist,0.5,6.5,0.1538,0.0148,0,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,Raphinha,To give an assist,0.5,2.9,0.3448,0.1467,1,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,Gavi,To Score,0.5,5.5,0.1818,0.0226,0,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,Gabriel Jesus,Player's shots on target,0.5,1.27,0.7874,0.1594,0,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,Pedri,To Score,0.5,5.8,0.1724,0.0654,1,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,Marcos Llorente,To give an assist,0.5,7.5,0.1333,0.0636,1,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,Jonathan David,Player's shots on target,1.5,3.5,0.2857,0.0124,0,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,Julián Álvarez,Player's shots on target,1.5,2.9,0.3448,0.2344,1,1.0,0
+2026-11-08,Ath Madrid vs Barcelona,Andreas Christensen,To Score,0.5,8.5,0.1176,0.0232,0,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,Anthony Gordon,To score at least 2 goals,1.5,11.5,0.087,0.0266,1,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,Frenkie de Jong,To Score,0.5,8.0,0.125,0.026,0,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,Álex Baena,To score at least 2 goals,1.5,18.0,0.0556,0.0129,1,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,Pedri,To Get a Card,0.5,4.0,0.25,0.0949,1,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,Frenkie de Jong,To Get a Card,0.5,3.2,0.3125,0.0439,0,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,Robin Le Normand,To Score,0.5,11.5,0.087,0.0307,0,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,Marc Pubill,To Score,0.5,11.0,0.0909,0.0507,1,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,Gavi,To give an assist,0.5,5.2,0.1923,0.0126,0,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,Marc Bernal,To give an assist,0.5,5.2,0.1923,0.0766,1,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,Andreas Christensen,To Get a Card,0.5,3.4,0.2941,0.0362,0,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,Morten Hjulmand,To give an assist,0.5,7.0,0.1429,0.0165,0,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,Raphinha,To Score,0.5,1.77,0.565,0.5204,1,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,Gerard Martín,To Get a Card,0.5,3.4,0.2941,0.126,1,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,Gabriel Jesus,To Get a Card,0.5,3.4,0.2941,0.0342,0,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,Marcos Llorente,Player's shots on target,0.5,4.3,0.2326,0.279,1,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,Julián Álvarez,To give an assist,0.5,4.5,0.2222,0.1411,1,1.0,1
+2026-11-08,Ath Madrid vs Barcelona,Pablo Barrios,To Score,0.5,10.0,0.1,0.0703,1,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,Julián Álvarez,To score at least 2 goals,1.5,11.0,0.0909,0.0352,1,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,David Hancko,To Score,0.5,11.0,0.0909,0.0299,1,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,David Hancko,Player's shots on target,0.5,5.0,0.2,0.1693,1,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,Fermín López,To Score,0.5,3.3,0.303,0.2283,1,2.0,1
+2026-11-08,Ath Madrid vs Barcelona,Marc Bernal,To Score,0.5,7.5,0.1333,0.0561,1,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,Álex Baena,Player's shots on target,0.5,1.68,0.5952,0.3871,1,1.0,1
+2026-11-08,Ath Madrid vs Barcelona,Raphinha,To score at least 3 goals,2.5,15.0,0.0667,0.0385,1,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,Gavi,Player's shots on target,0.5,2.7,0.3704,0.0789,0,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,Ademola Lookman,Player's shots on target,0.5,1.53,0.6536,0.1163,0,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,Marc Pubill,Player's shots on target,0.5,4.9,0.2041,0.1222,1,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,Alexander Sørloth,Player's shots on target,0.5,1.42,0.7042,0.1859,0,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,David Hancko,To Get a Card,0.5,3.4,0.2941,0.1122,1,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,Giuliano Simeone,To score at least 2 goals,1.5,41.0,0.0244,0.0093,1,1.0,0
+2026-11-08,Ath Madrid vs Barcelona,Morten Hjulmand,To Score,0.5,9.5,0.1053,0.0229,0,0.0,0
+2026-11-08,Ath Madrid vs Barcelona,Johnny Cardoso,To Get a Card,0.5,3.1,0.3226,0.0462,0,0.0,0
 2026-11-08,Estrela vs Benfica,Robinho,To Score,0.5,8.0,0.125,0.0212,1,0.0,0
 2026-11-08,Rio Ave vs Sp Braga,Zé Carlos,To Score,0.5,14.0,0.0714,0.021,0,0.0,0
