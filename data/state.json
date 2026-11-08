@@ -1475,10 +1475,6 @@
   "cbb|2026-11-11|Kansas State Wildcats|Creighton Bluejays",
   "cbb|2026-11-11|Kentucky Wildcats|Kansas Jayhawks",
   "cbb|2026-11-11|San Francisco Dons|Montana Grizzlies",
-  "fc|2362709",
-  "fc|2361655",
-  "fc|2361980",
-  "cs2|133042",
   "cs2|132528",
   "fc|2361663",
   "fc|2362712",
@@ -2478,7 +2474,15 @@
   "cs2|132971",
   "fc|2367666",
   "fc|2367667",
-  "fc|2368000"
+  "fc|2368000",
+  "dota2|133119",
+  "dota2|133511",
+  "dota2|133512",
+  "dota2|133638",
+  "dota2|133513",
+  "fc|2367672",
+  "fc|2368004",
+  "fc|2366873"
  ],
  "signals": [
   {
@@ -7433,7 +7437,11 @@
    "version": "5d2adff",
    "bajas": "Notre Dame Fighting Irish: sin bajas; Miami Hurricanes: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "31-24",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "sph",
@@ -7454,7 +7462,9 @@
    "version": "5d2adff",
    "bajas": "Notre Dame Fighting Irish: sin bajas; Miami Hurricanes: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": "nula",
+   "score": "31-24"
   },
   {
    "market": "home",
@@ -7474,7 +7484,11 @@
    "version": "5d2adff",
    "bajas": "Notre Dame Fighting Irish: sin bajas; Miami Hurricanes: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "31-24",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "over",
@@ -7496,7 +7510,11 @@
    "version": "5d2adff",
    "bajas": "Ole Miss Rebels: sin bajas; Georgia Bulldogs: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "7-42",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "sph",
@@ -7517,7 +7535,11 @@
    "version": "5d2adff",
    "bajas": "Ole Miss Rebels: sin bajas; Georgia Bulldogs: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "7-42",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "home",
@@ -7537,7 +7559,11 @@
    "version": "5d2adff",
    "bajas": "Ole Miss Rebels: sin bajas; Georgia Bulldogs: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "7-42",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "over",
@@ -7784,7 +7810,11 @@
    "version": "5d2adff",
    "bajas": "Michigan Wolverines: sin bajas; Michigan State Spartans: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "6-15",
+   "close_p": 0.5022,
+   "logged": true
   },
   {
    "market": "sph",
@@ -7805,7 +7835,11 @@
    "version": "5d2adff",
    "bajas": "Michigan Wolverines: sin bajas; Michigan State Spartans: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "6-15",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "home",
@@ -7825,7 +7859,11 @@
    "version": "5d2adff",
    "bajas": "Michigan Wolverines: sin bajas; Michigan State Spartans: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "6-15",
+   "close_p": 0.8276,
+   "logged": true
   },
   {
    "market": "over",
@@ -7922,7 +7960,11 @@
    "version": "5d2adff",
    "bajas": "Florida Gators: 1 fuera, 0 duda (Kahleil Jackson); Oklahoma Sooners: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "7-23",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "sph",
@@ -7943,7 +7985,11 @@
    "version": "5d2adff",
    "bajas": "Florida Gators: 1 fuera, 0 duda (Kahleil Jackson); Oklahoma Sooners: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "7-23",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "home",
@@ -7963,7 +8009,11 @@
    "version": "5d2adff",
    "bajas": "Florida Gators: 1 fuera, 0 duda (Kahleil Jackson); Oklahoma Sooners: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "7-23",
+   "close_p": 0.6324,
+   "logged": true
   },
   {
    "market": "over",
@@ -8364,56 +8414,6 @@
    "placed": false
   },
   {
-   "market": "A",
-   "pick": "OG",
-   "odds": 3.85,
-   "book": "Unibet",
-   "implied": 0.226,
-   "edge": 0.258,
-   "sin_stake": true,
-   "p": 0.327,
-   "key": "fc|2361952",
-   "match": "hotShot vs OG",
-   "start": "2026-11-05T04:14:00+00:00",
-   "league": "🎮⚽ FC 27 · Serie A",
-   "sport": "🎮⚽",
-   "context": "EA FC Esoccer Battle hotShot vs OG (Serie A): goles esperados 2.28-2.06, 1X2 44%/23%/33%. Sin cuotas de casa.",
-   "captured": "2026-11-05T03:43",
-   "version": "42a429d",
-   "bajas": "",
-   "considered": true,
-   "placed": false,
-   "score": "2-2",
-   "result": false,
-   "close_p": null,
-   "logged": true
-  },
-  {
-   "market": "A",
-   "pick": "Solya",
-   "odds": 1.46,
-   "book": "Unibet",
-   "implied": 0.595,
-   "edge": 0.165,
-   "sin_stake": true,
-   "p": 0.798,
-   "key": "fc|2362700",
-   "match": "k0mych vs Solya",
-   "start": "2026-11-05T04:14:00+00:00",
-   "league": "🎮⚽ FC 27 · LaLiga 2x6",
-   "sport": "🎮⚽",
-   "context": "EA FC Esoccer Battle k0mych vs Solya (LaLiga 2x6): goles esperados 3.37-5.93, 1X2 11%/9%/80%. Sin cuotas de casa.",
-   "captured": "2026-11-05T03:43",
-   "version": "42a429d",
-   "bajas": "",
-   "considered": true,
-   "placed": false,
-   "score": "1-7",
-   "result": true,
-   "close_p": null,
-   "logged": true
-  },
-  {
    "market": "H",
    "pick": "hotShot",
    "odds": 2.55,
@@ -8434,31 +8434,6 @@
    "considered": true,
    "placed": false,
    "score": "1-1",
-   "result": false,
-   "close_p": null,
-   "logged": true
-  },
-  {
-   "market": "H",
-   "pick": "Inquisitor",
-   "odds": 2.4,
-   "book": "Unibet",
-   "implied": 0.362,
-   "edge": 0.176,
-   "sin_stake": true,
-   "p": 0.49,
-   "key": "fc|2361954",
-   "match": "Inquisitor vs hotShot",
-   "start": "2026-11-05T04:26:00+00:00",
-   "league": "🎮⚽ FC 27 · Serie A",
-   "sport": "🎮⚽",
-   "context": "EA FC Esoccer Battle Inquisitor vs hotShot (Serie A): goles esperados 2.26-1.76, 1X2 49%/24%/27%. Sin cuotas de casa.",
-   "captured": "2026-11-05T04:14",
-   "version": "d5de047",
-   "bajas": "",
-   "considered": true,
-   "placed": false,
-   "score": "3-4",
    "result": false,
    "close_p": null,
    "logged": true
@@ -53835,7 +53810,81 @@
    "captured": "2026-11-08T04:03",
    "version": "da9d94c",
    "bajas": "",
-   "considered": true
+   "considered": true,
+   "score": "2-0",
+   "result": false,
+   "close_p": null,
+   "logged": true
+  },
+  {
+   "market": "A",
+   "pick": "Skif",
+   "odds": 3.35,
+   "book": "Unibet",
+   "implied": 0.263,
+   "edge": 0.09,
+   "sin_stake": true,
+   "p": 0.325,
+   "key": "fc|2367672",
+   "match": "curuza vs Skif",
+   "start": "2026-11-08T04:38:00+00:00",
+   "league": "🎮⚽ FC 27 · Serie A",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 60.190 partidos)",
+    "Goles esperados: curuza 3.49 · Skif 2.95",
+    "Ganador: curuza 49% · empate 19% · Skif 33%",
+    "Total: más de 6.5 goles 46% · menos 54%",
+    "Hándicap curuza: −1.5 35% · −2.5 21%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: curuza ❌✅✅❌✅ | Skif ❌❌❌❌✅",
+    "• Partidos: curuza 787 | Skif 606",
+    "• Liga: Serie A",
+    "• Unibet: 1 1.56 · X 5.10 · 2 3.35 (sin margen 56%/17%/26%) · ventaja +9%. Sin stake hasta demostrar ROI con estas cuotas.",
+    "• En España: LeoVegas España 3.35 (+9%) · Paf España 3.35 (+9%)"
+   ],
+   "context": "EA FC Esoccer Battle curuza vs Skif (Serie A): goles esperados 3.49-2.95, 1X2 49%/19%/33%. Sin cuotas de casa.",
+   "captured": "2026-11-08T04:33",
+   "version": "54f3e2f",
+   "bajas": "",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "A",
+   "pick": "tizzy",
+   "odds": 1.17,
+   "book": "Unibet",
+   "implied": 0.741,
+   "edge": 0.061,
+   "sin_stake": true,
+   "p": 0.907,
+   "key": "fc|2368004",
+   "match": "ssstasonn vs tizzy",
+   "start": "2026-11-08T04:35:00+00:00",
+   "league": "🎮⚽ FC 27 · Club World Cup",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 60.190 partidos)",
+    "Goles esperados: ssstasonn 2.04 · tizzy 5.79",
+    "Ganador: ssstasonn 4% · empate 6% · tizzy 91%",
+    "Total: más de 7.5 goles 52% · menos 48%",
+    "Hándicap tizzy: −1.5 79% · −2.5 67%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: ssstasonn ❌❌❌❌❌ | tizzy ❌✅✅➖❌",
+    "• Partidos: ssstasonn 962 | tizzy 380",
+    "• Liga: Club World Cup",
+    "• Unibet: 1 6.40 · X 7.00 · 2 1.17 (sin margen 14%/12%/74%) · ventaja +6%. Sin stake hasta demostrar ROI con estas cuotas.",
+    "• En España: LeoVegas España 1.17 (+6%) · Paf España 1.17 (+6%)"
+   ],
+   "context": "EA FC Esoccer Battle ssstasonn vs tizzy (Club World Cup): goles esperados 2.04-5.79, 1X2 4%/6%/91%. Sin cuotas de casa.",
+   "captured": "2026-11-08T04:33",
+   "version": "54f3e2f",
+   "bajas": "",
+   "considered": true,
+   "placed": false
   }
  ],
  "bank": {
@@ -64373,7 +64422,8 @@
   "nba|2026-11-09|Minnesota Timberwolves|Utah Jazz",
   "nba|2026-11-09|Milwaukee Bucks|Boston Celtics",
   "nba|2026-11-09|LA Clippers|New Orleans Pelicans",
-  "nba|2026-11-09|Sacramento Kings|Miami Heat"
+  "nba|2026-11-09|Sacramento Kings|Miami Heat",
+  "nba|2026-11-09|Dallas Mavericks|Brooklyn Nets"
  ],
  "radar_date": "2026-11-07",
  "sgp_res_sent": "2026-11-08T00:23:56.339583+00:00"

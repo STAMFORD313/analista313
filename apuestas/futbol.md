@@ -1,6 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 08/11/2026 05:03 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 08/11/2026 05:33 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Machida vs Sanfrecce Hiroshima — 08/11 · 06:00
 

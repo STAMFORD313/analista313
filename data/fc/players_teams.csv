@@ -60169,16 +60169,16 @@ id,tournament_id,club1,club2,ht1,ht2
 2366871,261234,Atleti,Barcelona,,
 2366872,261234,Real Madrid,Barcelona,,
 2366873,261234,Real Madrid,Atleti,,
-2367034,261264,Stuttgart,Leipzig,0,2
-2367035,261264,Bayern Munchen,B Dortmund,0,0
-2367036,261264,B Dortmund,Stuttgart,0,3
-2367037,261264,Leipzig,Frankfurt,2,0
-2367038,261264,Frankfurt,B Dortmund,2,0
-2367039,261264,Stuttgart,Bayern Munchen,2,1
-2367040,261264,Bayern Munchen,Frankfurt,2,0
-2367041,261264,B Dortmund,Leipzig,1,2
-2367042,261264,Leipzig,Bayern Munchen,0,0
-2367043,261264,Frankfurt,Stuttgart,0,0
+2367034,261264,Stuttgart,Leipzig,0.0,2.0
+2367035,261264,Bayern Munchen,B Dortmund,0.0,0.0
+2367036,261264,B Dortmund,Stuttgart,0.0,3.0
+2367037,261264,Leipzig,Frankfurt,2.0,0.0
+2367038,261264,Frankfurt,B Dortmund,2.0,0.0
+2367039,261264,Stuttgart,Bayern Munchen,2.0,1.0
+2367040,261264,Bayern Munchen,Frankfurt,2.0,0.0
+2367041,261264,B Dortmund,Leipzig,1.0,2.0
+2367042,261264,Leipzig,Bayern Munchen,0.0,0.0
+2367043,261264,Frankfurt,Stuttgart,0.0,0.0
 2367044,261264,Leipzig,Stuttgart,,
 2367045,261264,B Dortmund,Bayern Munchen,,
 2367046,261264,Stuttgart,B Dortmund,,
@@ -60189,3 +60189,41 @@ id,tournament_id,club1,club2,ht1,ht2
 2367051,261264,Leipzig,B Dortmund,,
 2367052,261264,Bayern Munchen,Leipzig,,
 2367053,261264,Stuttgart,Frankfurt,,
+2369956,261226,B Dortmund,Man City,1,2
+2369957,261226,Juventus,Sporting CP,4,1
+2369958,261226,Juventus,B Dortmund,1,2
+2369959,261226,Sporting CP,Man City,2,2
+2369960,261226,Man City,Juventus,1,1
+2369961,261226,Sporting CP,B Dortmund,0,0
+2369962,261226,B Dortmund,Man City,2,0
+2369963,261226,Juventus,Sporting CP,2,0
+2369964,261226,Juventus,B Dortmund,1,3
+2368480,261226,Sporting CP,Man City,1,1
+2369965,261226,Man City,Juventus,,
+2369966,261226,Sporting CP,B Dortmund,,
+2369967,261226,B Dortmund,Man City,,
+2369968,261226,Juventus,Sporting CP,,
+2369969,261226,Juventus,B Dortmund,,
+2369970,261226,Sporting CP,Man City,,
+2369971,261226,Man City,Juventus,,
+2369972,261226,Sporting CP,B Dortmund,,
+2367993,261277,Boca Juniors,River Plate,2,2
+2367994,261277,Man City,Paris,3,4
+2367995,261277,Paris,Boca Juniors,0,6
+2367996,261277,River Plate,Real Madrid,1,4
+2367997,261277,Real Madrid,Paris,3,3
+2367998,261277,Boca Juniors,Man City,1,2
+2367999,261277,Man City,Real Madrid,0,3
+2368000,261277,Paris,River Plate,2,2
+2368001,261277,River Plate,Man City,2,0
+2368002,261277,Real Madrid,Boca Juniors,1,2
+2368003,261277,River Plate,Boca Juniors,,
+2368004,261277,Paris,Man City,,
+2368005,261277,Boca Juniors,Paris,,
+2368006,261277,Real Madrid,River Plate,,
+2368007,261277,Paris,Real Madrid,,
+2368008,261277,Man City,Boca Juniors,,
+2368009,261277,Real Madrid,Man City,,
+2368010,261277,River Plate,Paris,,
+2368011,261277,Man City,River Plate,,
+2368012,261277,Boca Juniors,Real Madrid,,
