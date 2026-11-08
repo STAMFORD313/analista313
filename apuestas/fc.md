@@ -1,44 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 08/11/2026 22:49 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## hrk vs kirman — 08/11 · 23:10
-
-👀 candidata · 🎮⚽ FC 27 · Portugal Primera · **Gana kirman** @ **2.55** (Unibet) · prob 47% vs casas 34% · ventaja +21%
-
-- ✅ Valor: ventaja +21% (mín. 13% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 61.094 partidos)  
-Goles esperados: hrk 2.81 · kirman 3.17  
-Ganador: hrk 33% · empate 19% · kirman 47%  
-Total: más de 5.5 goles 55% · menos 45%  
-Hándicap kirman: −1.5 31% · −2.5 18%  
-🔎 **Claves**  
-• Forma: hrk ➖✅❌✅➖ | kirman ✅❌✅✅✅  
-• Partidos: hrk 796 | kirman 640  
-• Liga: Portugal Primera  
-• Unibet: 1 1.82 · X 4.90 · 2 2.55 (sin margen 48%/18%/34%) · ventaja +21%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.55 (+21%) · Paf España 2.55 (+21%)  
-
-## SpeciAL vs Lx7ss — 08/11 · 23:16
-
-👀 candidata · 🎮⚽ FC 27 · LaLiga · **Gana Lx7ss** @ **2.17** (Unibet) · prob 52% vs casas 40% · ventaja +13%
-
-- ✅ Valor: ventaja +13% (mín. 12% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 61.094 partidos)  
-Goles esperados: SpeciAL 3.32 · Lx7ss 3.81  
-Ganador: SpeciAL 31% · empate 17% · Lx7ss 52%  
-Total: más de 7.5 goles 42% · menos 58%  
-Hándicap Lx7ss: −1.5 35% · −2.5 22%  
-🔎 **Claves**  
-• Forma: SpeciAL ➖❌❌❌✅ | Lx7ss ❌❌✅✅✅  
-• Partidos: SpeciAL 832 | Lx7ss 1025  
-• Liga: LaLiga  
-• Unibet: 1 2.14 · X 4.60 · 2 2.17 (sin margen 41%/19%/40%) · ventaja +13%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.17 (+13%) · Paf España 2.17 (+13%)  
+Actualizado 08/11/2026 23:18 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Nightxx vs tizzy — 08/11 · 23:19
 
@@ -58,4 +20,42 @@ Hándicap tizzy: −1.5 41% · −2.5 27%
 • Liga: World Cup A  
 • Unibet: 1 1.96 · X 4.60 · 2 2.38 (sin margen 44%/19%/37%) · ventaja +34%. Sin stake hasta demostrar ROI con estas cuotas.  
 • En España: LeoVegas España 2.38 (+34%) · Paf España 2.38 (+34%)  
+
+## curuza vs KravaRK — 08/11 · 23:22
+
+👀 candidata · 🎮⚽ FC 27 · Portugal Primera · **Gana curuza** @ **2.55** (Unibet) · prob 42% vs casas 34% · ventaja +8%
+
+- ❌ Valor: ventaja +8% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 61.115 partidos)  
+Goles esperados: curuza 3.05 · KravaRK 2.82  
+Ganador: curuza 42% · empate 21% · KravaRK 37%  
+Total: más de 5.5 goles 53% · menos 47%  
+Hándicap curuza: −1.5 29% · −2.5 17%  
+🔎 **Claves**  
+• Forma: curuza ✅✅➖❌✅ | KravaRK ❌✅❌❌❌  
+• Partidos: curuza 797 | KravaRK 360  
+• Liga: Portugal Primera  
+• Unibet: 1 2.55 · X 4.70 · 2 1.85 (sin margen 34%/19%/47%) · ventaja +8%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.55 (+8%) · Paf España 2.55 (+8%)  
+
+## ssstasonn vs noeN — 08/11 · 23:31
+
+👀 candidata · 🎮⚽ FC 27 · World Cup A · **Empate** @ **7.50** (Unibet) · prob 18% vs casas 12% · ventaja +31%
+
+- ❌ Valor: ventaja +31% (mín. 16% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 61.115 partidos)  
+Goles esperados: ssstasonn 2.20 · noeN 3.52  
+Ganador: ssstasonn 17% · empate 18% · noeN 65%  
+Total: más de 5.5 goles 51% · menos 49%  
+Hándicap noeN: −1.5 46% · −2.5 30%  
+🔎 **Claves**  
+• Forma: ssstasonn ✅❌❌❌❌ | noeN ❌✅✅✅❌  
+• Partidos: ssstasonn 971 | noeN 855  
+• Liga: World Cup A  
+• Unibet: 1 5.60 · X 7.50 · 2 1.19 (sin margen 15%/12%/73%) · ventaja +31%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 7.50 (+31%) · Paf España 7.50 (+31%)  
 

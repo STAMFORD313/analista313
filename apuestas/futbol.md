@@ -1,6 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 08/11/2026 22:49 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 08/11/2026 23:18 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Central Cordoba vs Lanus — 08/11 · 23:30
 

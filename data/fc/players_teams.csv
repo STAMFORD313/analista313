@@ -61129,12 +61129,12 @@ id,tournament_id,club1,club2,ht1,ht2
 2369697,261376,Barcelona,Athletic Club,,
 2369698,261376,Real Madrid,Barcelona,,
 2369699,261376,Atleti,Villarreal,,
-2369160,261353,Vitoria SC,Porto,0,2
-2369161,261353,Sporting CP,Benfica,3,1
-2369162,261353,Benfica,Vitoria SC,2,1
-2369163,261353,Porto,Braga,1,2
-2369164,261353,Braga,Benfica,2,3
-2369165,261353,Vitoria SC,Sporting CP,1,3
+2369160,261353,Vitoria SC,Porto,0.0,2.0
+2369161,261353,Sporting CP,Benfica,3.0,1.0
+2369162,261353,Benfica,Vitoria SC,2.0,1.0
+2369163,261353,Porto,Braga,1.0,2.0
+2369164,261353,Braga,Benfica,2.0,3.0
+2369165,261353,Vitoria SC,Sporting CP,1.0,3.0
 2369166,261353,Sporting CP,Braga,,
 2369167,261353,Benfica,Porto,,
 2369168,261353,Porto,Sporting CP,,
