@@ -34609,3 +34609,6 @@ game_id,match_id,slug,date,tier,bo,tournament_id,tournament,t1_id,t2_id,team1,te
 192097,133057,the-mongolz-vs-mouz-cs2-08-11-2026,2026-11-08T07:30:00.000+00:00,s,5,5113,Intel Extreme Masters Beijing 2026,736,765,The MongolZ,MOUZ,3,de_inferno,765,13.0,4.0
 192098,133057,the-mongolz-vs-mouz-cs2-08-11-2026,2026-11-08T07:30:00.000+00:00,s,5,5113,Intel Extreme Masters Beijing 2026,736,765,The MongolZ,MOUZ,2,de_dust2,765,13.0,6.0
 192099,133057,the-mongolz-vs-mouz-cs2-08-11-2026,2026-11-08T07:30:00.000+00:00,s,5,5113,Intel Extreme Masters Beijing 2026,736,765,The MongolZ,MOUZ,1,de_mirage,765,13.0,5.0
+192438,133228,g2-ares-vs-inner-circle-academy-08-11-2026,2026-11-08T09:00:00.000+00:00,b,3,5628,CCT Europe 2026 Series 13,10994,22737,G2 Ares,Inner Circle Academy,3,de_ancient,22737,13.0,1.0
+192439,133228,g2-ares-vs-inner-circle-academy-08-11-2026,2026-11-08T09:00:00.000+00:00,b,3,5628,CCT Europe 2026 Series 13,10994,22737,G2 Ares,Inner Circle Academy,2,de_dust2,22737,16.0,12.0
+192440,133228,g2-ares-vs-inner-circle-academy-08-11-2026,2026-11-08T09:00:00.000+00:00,b,3,5628,CCT Europe 2026 Series 13,10994,22737,G2 Ares,Inner Circle Academy,1,de_cache,10994,16.0,12.0
