@@ -1,5 +1,5 @@
 {
- "fecha": "2026-11-08 04:05",
+ "fecha": "2026-11-08 16:29",
  "bo3": {
   "1": {
    "próximos": 20,
@@ -22,16 +22,16 @@
    "próximos": 20,
    "ejemplo": [
     [
-     "original-gaming-vlr-vs-ferix-08-11-2026",
+     "fancy-united-vs-original-gaming-vlr-15-11-2026",
      "Predator League Vietnam 2027"
     ],
     [
-     "saigon-phantom-vlr-vs-a76cf4e656-08-11-2026",
-     "Predator League Vietnam 2027"
+     "sge-vision-vs-backed-by-nobody-08-11-2026",
+     "Spike Series 2026: Convergence EMEA - DACH"
     ],
     [
-     "fancy-united-vs-58e768489d-15-11-2026",
-     "Predator League Vietnam 2027"
+     "enisorail-vs-gesichtenhausen-26-11-2026",
+     "Spike Series 2026: Convergence EMEA - DACH"
     ]
    ]
   },
@@ -78,27 +78,35 @@
    "ejemplo": []
   },
   "7": {
-   "próximos": 1,
+   "próximos": 9,
    "ejemplo": [
     [
      "honved-r6-vs-pannuhuone-27-11-2026",
      "EML Challenger Circuit 2026: Playoffs"
+    ],
+    [
+     "100-thieves-r6-vs-enterprise-09-11-2026",
+     "BLAST R6 Major Osaka 2026"
+    ],
+    [
+     "faze-clan-1-vs-falcons-esport-1-09-11-2026",
+     "BLAST R6 Major Osaka 2026"
     ]
    ]
   },
   "8": {
-   "próximos": 9,
+   "próximos": 8,
    "ejemplo": [
-    [
-     "natus-vincere-3-vs-bigetron-by-vitality-08-11-2026",
-     "MPL Indonesia Season 18"
-    ],
     [
      "pro-esports-vs-tnr-12-11-2026",
      "MPL Cambodia Season 11"
     ],
     [
      "team-flash-kh-vs-valhalla-1-12-11-2026",
+     "MPL Cambodia Season 11"
+    ],
+    [
+     "vigor-apex-vs-2142633e5b-13-11-2026",
      "MPL Cambodia Season 11"
     ]
    ]
@@ -133,22 +141,20 @@
   }
  },
  "kambi_esports": {
-  "Esports / Dota 2 / DreamLeague Div. 2": 11,
+  "Esports / Dota 2 / DreamLeague Div. 2": 8,
+  "Esports / Rainbow 6 / BLAST Major": 8,
   "Esports / CS2 / PGL Major": 8,
-  "Esports / CS2 / CCT European Series 14": 4,
-  "Esports / CS2 / NODWIN Clutch Series": 4,
   "Esports / CS2 / BLAST Rivals Fall": 4,
-  "Esports / CS2 / United21": 3,
+  "Esports / CS2 / ESL Challenger League EU Cup": 3,
+  "Esports / CS2 / CCT South America Series": 3,
+  "Esports / CS2 / European Pro League": 3,
   "Esports / CS2 / STK Ranked": 3,
-  "Esports / CS2 / IEM Beijing": 2,
-  "Esports / Overwatch 2 / OWCS KR": 2,
-  "Esports / CS2 / CCT South America Series": 2,
-  "Esports / Rainbow 6 / BLAST Major": 1,
-  "Esports / Overwatch 2 / OWCS CN": 1,
-  "Esports / Honor of Kings / KPL": 1,
-  "Esports / Dota 2 / 1w Essence": 1,
+  "Esports / CS2 / CCT European Series 14": 2,
+  "Esports / Call of Duty / Monster Launch Invitational": 2,
+  "Esports / CS2 / United21": 2,
+  "Esports / CS2 / CCT European Series 13": 1,
+  "Esports / CS2 / NODWIN Clutch Series": 1,
   "Esports / League of Legends / World Championship": 1,
-  "Esports / CS2 / European Pro League": 1,
   "Esports / CS2 / Svenska Cupen": 1
  }
 }
