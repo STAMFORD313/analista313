@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 08/11/2026 07:03 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 08/11/2026 07:12 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## RED Canids Academy vs Grêmio — 08/11 · 20:00
 
@@ -78,4 +78,41 @@ Casas: Team LEISURE 67% · Huskies eSport 33%
 🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
 • Team LEISURE gana 2-1: 25% → cuota justa 4.01  
 • Huskies eSport gana 2-1: 15% → cuota justa 6.63  
+
+## SINQU vs Nordic Valor — 09/11 · 19:00
+
+👀 candidata · 🎮 CS2 · Elisa Open Suomi Season 14 · **Gana Nordic Valor** @ **2.06** (Thunderpick) · prob 49% vs casas 45% · ventaja +1%
+
+- ❌ Valor: ventaja +1% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮 no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 76.602 partidos)  
+Mapa: SINQU 48% · Serie BO3: SINQU 46% - 54% Nordic Valor  
+Casas: SINQU 55% · Nordic Valor 45%  
+🔎 **Claves**  
+• Elo: SINQU 1321 (68 series) | Nordic Valor 1347 (13 series)  
+• Forma: SINQU ❌❌❌❌❌ | Nordic Valor ✅❌❌❌❌  
+• H2H: sin precedentes  
+• Torneo: Elisa Open Suomi Season 14 (nivel C)  
+• Cambios de plantilla: ninguno  
+🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
+• SINQU gana 2-1: 21% → cuota justa 4.79  
+• Nordic Valor gana 2-1: 23% → cuota justa 4.34  
+
+## XI vs STATE — 09/11 · 19:00
+
+👀 candidata · 🎮 CS2 · Dust2.dk Ligaen Season 33: Regular Season · **Gana STATE** @ **1.25** (Thunderpick) · prob 76% vs casas 73% · ventaja -5%
+
+- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 76.602 partidos)  
+Mapa: XI 21% · Serie BO1: XI 21% - 79% STATE  
+Casas: XI 27% · STATE 73%  
+🔎 **Claves**  
+• Elo: XI 1552 (411 series) | STATE 1781 (536 series)  
+• Forma: XI ✅❌✅❌❌ | STATE ✅❌✅✅✅  
+• H2H: 16: 4-12  
+• Torneo: Dust2.dk Ligaen Season 33: Regular Season (nivel C)  
+• Cambios de plantilla: ninguno  
 

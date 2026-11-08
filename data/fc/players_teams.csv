@@ -60247,32 +60247,32 @@ id,tournament_id,club1,club2,ht1,ht2
 2367680,261263,Napoli,Juventus,,
 2367681,261263,Sassuolo,Napoli,,
 2367682,261263,Bologna,Roma,,
-2368485,261307,Sweden,Mexico,1,1
-2369973,261307,Ghana,USA,2,1
-2369974,261307,Ghana,Sweden,0,3
-2369975,261307,USA,Mexico,0,1
-2369976,261307,Mexico,Ghana,1,1
-2369977,261307,USA,Sweden,4,0
-2369978,261307,Sweden,Mexico,4,2
-2369979,261307,Ghana,USA,2,1
-2369980,261307,Ghana,Sweden,1,2
-2369981,261307,USA,Mexico,2,1
-2369982,261307,Mexico,Ghana,3,0
-2369983,261307,USA,Sweden,0,2
+2368485,261307,Sweden,Mexico,1.0,1.0
+2369973,261307,Ghana,USA,2.0,1.0
+2369974,261307,Ghana,Sweden,0.0,3.0
+2369975,261307,USA,Mexico,0.0,1.0
+2369976,261307,Mexico,Ghana,1.0,1.0
+2369977,261307,USA,Sweden,4.0,0.0
+2369978,261307,Sweden,Mexico,4.0,2.0
+2369979,261307,Ghana,USA,2.0,1.0
+2369980,261307,Ghana,Sweden,1.0,2.0
+2369981,261307,USA,Mexico,2.0,1.0
+2369982,261307,Mexico,Ghana,3.0,0.0
+2369983,261307,USA,Sweden,0.0,2.0
 2369984,261307,Sweden,Mexico,,
 2369985,261307,Ghana,USA,,
 2368500,261307,Ghana,Sweden,,
 2368501,261307,USA,Mexico,,
 2369986,261307,Mexico,Ghana,,
 2369987,261307,USA,Sweden,,
-2369380,261332,Arsenal,Chelsea,3,3
-2369381,261332,Man City,Liverpool,1,0
-2369382,261332,Liverpool,Arsenal,0,3
-2369383,261332,Chelsea,Tottenham,3,1
-2369384,261332,Tottenham,Liverpool,5,4
-2369385,261332,Arsenal,Man City,1,1
-2369386,261332,Man City,Tottenham,3,0
-2369387,261332,Liverpool,Chelsea,2,0
+2369380,261332,Arsenal,Chelsea,3.0,3.0
+2369381,261332,Man City,Liverpool,1.0,0.0
+2369382,261332,Liverpool,Arsenal,0.0,3.0
+2369383,261332,Chelsea,Tottenham,3.0,1.0
+2369384,261332,Tottenham,Liverpool,5.0,4.0
+2369385,261332,Arsenal,Man City,1.0,1.0
+2369386,261332,Man City,Tottenham,3.0,0.0
+2369387,261332,Liverpool,Chelsea,2.0,0.0
 2369388,261332,Chelsea,Man City,,
 2369389,261332,Tottenham,Arsenal,,
 2369390,261332,Chelsea,Arsenal,,
@@ -60285,3 +60285,43 @@ id,tournament_id,club1,club2,ht1,ht2
 2369397,261332,Chelsea,Liverpool,,
 2369398,261332,Man City,Chelsea,,
 2369399,261332,Arsenal,Tottenham,,
+2369000,261338,Argentina,Spain,0,0
+2369001,261338,Brazil,England,2,3
+2369002,261338,England,Argentina,2,3
+2369003,261338,Spain,France,1,4
+2369004,261338,France,England,,
+2369005,261338,Argentina,Brazil,,
+2369006,261338,Brazil,France,,
+2369007,261338,England,Spain,,
+2369008,261338,Spain,Brazil,,
+2369009,261338,France,Argentina,,
+2369010,261338,Spain,Argentina,,
+2369011,261338,England,Brazil,,
+2369012,261338,Argentina,England,,
+2369013,261338,France,Spain,,
+2369014,261338,England,France,,
+2369015,261338,Brazil,Argentina,,
+2369016,261338,France,Brazil,,
+2369017,261338,Spain,England,,
+2369018,261338,Brazil,Spain,,
+2369019,261338,Argentina,France,,
+2369540,261377,B Dortmund,Bayern Munchen,1,3
+2369541,261377,Frankfurt,Leipzig,2,0
+2369542,261377,Leipzig,B Dortmund,1,1
+2369543,261377,Bayern Munchen,Stuttgart,2,2
+2369544,261377,Stuttgart,Leipzig,5,2
+2369545,261377,B Dortmund,Frankfurt,0,1
+2369546,261377,Frankfurt,Stuttgart,1,1
+2369547,261377,Leipzig,Bayern Munchen,0,1
+2369548,261377,Bayern Munchen,Frankfurt,,
+2369549,261377,Stuttgart,B Dortmund,,
+2369550,261377,Bayern Munchen,B Dortmund,,
+2369551,261377,Leipzig,Frankfurt,,
+2369552,261377,B Dortmund,Leipzig,,
+2369553,261377,Stuttgart,Bayern Munchen,,
+2369554,261377,Leipzig,Stuttgart,,
+2369555,261377,Frankfurt,B Dortmund,,
+2369556,261377,Stuttgart,Frankfurt,,
+2369557,261377,Bayern Munchen,Leipzig,,
+2369558,261377,Frankfurt,Bayern Munchen,,
+2369559,261377,B Dortmund,Stuttgart,,

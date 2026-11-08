@@ -34604,3 +34604,5 @@ game_id,match_id,slug,date,tier,bo,tournament_id,tournament,t1_id,t2_id,team1,te
 192302,133182,quintessencia-vs-your-end-07-11-2026,2026-11-07T19:00:00.000+00:00,b,3,5624,CCT South America 2026 Series 8,23217,25268,QUINTESSÊNCIA,your end,1,de_inferno,25268,16.0,13.0
 192304,133183,gremio-vs-borracheiros-07-11-2026,2026-11-07T22:20:00.000+00:00,b,3,5624,CCT South America 2026 Series 8,24856,24668,Grêmio,BORRACHEIROS,2,de_nuke,24668,13.0,7.0
 192305,133183,gremio-vs-borracheiros-07-11-2026,2026-11-07T22:20:00.000+00:00,b,3,5624,CCT South America 2026 Series 8,24856,24668,Grêmio,BORRACHEIROS,1,de_ancient,24668,13.0,10.0
+192093,133056,natus-vincere-vs-betboom-team-08-11-2026,2026-11-08T04:00:00.000+00:00,s,3,5113,Intel Extreme Masters Beijing 2026,787,7498,Natus Vincere,BetBoom,2,de_ancient,787,13.0,9.0
+192094,133056,natus-vincere-vs-betboom-team-08-11-2026,2026-11-08T04:00:00.000+00:00,s,3,5113,Intel Extreme Masters Beijing 2026,787,7498,Natus Vincere,BetBoom,1,de_mirage,787,13.0,6.0
