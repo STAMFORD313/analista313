@@ -1639,15 +1639,18 @@
     "away": "Cleveland Browns",
     "txt": "Gana Cleveland Browns",
     "odds": 2.42,
-    "p": 0.43187
+    "p": 0.43187,
+    "ok": false,
+    "por": "ganó New Orleans Saints 23-22",
+    "clv": -0.243
    }
   ],
   "odds": 11.87,
   "p": 0.0983221672444,
   "stake": 1.0,
-  "estado": "pendiente",
-  "avisada": false,
-  "rev": 1
+  "estado": "perdida",
+  "avisada": true,
+  "rev": 2
  },
  {
   "id": "20261108085551544661",
