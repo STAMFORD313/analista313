@@ -1,24 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 08/11/2026 11:37 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## FC Copenhagen vs Brondby — 08/11 · 12:00
-
-👀 candidata · 🇩🇰 Superliga · **Gana FC Copenhagen** @ **1.66** (Bet365) · prob 55% vs casas 55% · ventaja -8%
-
-- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.69 - 1.12)  
-1 53% · X 25% · 2 22%  
-1X 78% · X2 47% · 12 75%  
-+1.5 78% · +2.5 53% · +3.5 31% · Ambos marcan 56%  
-Marcadores: 1-1 12% · 2-1 10% · 1-0 10% · 2-0 9%  
-🔎 **Claves**  
-• Forma: FC Copenhagen ✅❌➖➖✅ | Brondby ❌✅❌✅✅  
-• H2H: 51 desde 2012: 24V-14E-13D · 2.4 goles/partido · +2.5 en 47%  
-• Bajas: FC Copenhagen: sin bajas; Brondby: sin bajas  
-• Favorito de las casas: FC Copenhagen @ 1.66  
+Actualizado 08/11/2026 12:08 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Heerenveen vs Feyenoord — 08/11 · 12:15
 
