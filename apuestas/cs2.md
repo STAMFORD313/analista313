@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 08/11/2026 04:02 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 08/11/2026 04:31 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## RED Canids Academy vs Grêmio — 08/11 · 20:00
 

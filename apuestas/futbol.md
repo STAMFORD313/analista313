@@ -1,24 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 08/11/2026 04:02 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## UNAM Pumas vs Club America — 08/11 · 04:10
-
-👀 candidata · 🇲🇽 Liga MX · **Gana UNAM Pumas** @ **3.20** (Bet365) · prob 31% vs casas 31% · ventaja -2%
-
-- ❌ Valor: ventaja -2% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.29 - 1.67)  
-1 33% · X 26% · 2 40%  
-1X 60% · X2 67% · 12 74%  
-+1.5 80% · +2.5 57% · +3.5 34% · Ambos marcan 59%  
-Marcadores: 1-1 12% · 1-2 9% · 0-1 8% · 0-2 7%  
-🔎 **Claves**  
-• Forma: UNAM Pumas ➖✅❌➖✅ | Club America ✅✅❌➖➖  
-• H2H: 42 desde 2012: 9V-13E-20D · 2.7 goles/partido · +2.5 en 48%  
-• Bajas: UNAM Pumas: sin bajas; Club America: 0 fuera, 1 duda  
-• Favorito de las casas: Club America @ 2.15  
+Actualizado 08/11/2026 04:31 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Machida vs Sanfrecce Hiroshima — 08/11 · 06:00
 
