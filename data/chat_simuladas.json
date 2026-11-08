@@ -1265,7 +1265,9 @@
     "away": "CyberHero",
     "txt": "Gana CyberHero",
     "odds": 2.42,
-    "p": 0.5049820936639118
+    "p": 0.5049820936639118,
+    "ok": true,
+    "por": "ganó CyberHero 2-0"
    }
   ],
   "odds": 15.0,
