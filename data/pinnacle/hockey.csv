@@ -501,140 +501,146 @@ matchup,start,league,home,away,market,line,o_home,o_away,o_draw,o_over,o_under,s
 1639760613,2026-11-08 03:07:00+00:00,NHL,Edmonton Oilers,Vancouver Canucks,moneyline,,1.2732,4.11,,,,2026-11-08 02:30:18.293539+00:00
 1639760613,2026-11-08 03:07:00+00:00,NHL,Edmonton Oilers,Vancouver Canucks,spread,-2.5,2.18,1.7576,,,,2026-11-08 02:30:18.293539+00:00
 1639760613,2026-11-08 03:07:00+00:00,NHL,Edmonton Oilers,Vancouver Canucks,total,7.0,,,,2.12,1.7937,2026-11-08 02:30:18.293539+00:00
-1639796562,2026-11-08 16:00:00+00:00,Czech Republic - 1. Liga,HC Zubr Prerov,SC Kolin,moneyline,,2.24,1.6623,,,,2026-11-08 04:05:47.357386+00:00
-1639787894,2026-11-08 14:30:00+00:00,Czech Republic - 1. Liga,Pirati Chomutov,Horacka Trebic,moneyline,,2.68,1.4739,,,,2026-11-08 04:05:47.357386+00:00
-1639791244,2026-11-08 16:30:00+00:00,Czech Republic - 1. Liga,HC Dukla Jihlava,AZ Havirov,moneyline,,1.289,3.53,,,,2026-11-08 04:05:47.357386+00:00
-1639903131,2026-11-10 19:15:00+00:00,Switzerland - Swiss League,GDT Bellinzona,HC Sierre,moneyline,,6.72,1.0556,,,,2026-11-08 04:05:47.357386+00:00
-1639904651,2026-11-11 01:00:00+00:00,Canada - Western Hockey League,Saskatoon Blades,Regina Pats,moneyline,,1.5495,2.47,,,,2026-11-08 04:05:47.357386+00:00
-1639904651,2026-11-11 01:00:00+00:00,Canada - Western Hockey League,Saskatoon Blades,Regina Pats,spread,-1.5,2.25,1.5917,,,,2026-11-08 04:05:47.357386+00:00
-1639904651,2026-11-11 01:00:00+00:00,Canada - Western Hockey League,Saskatoon Blades,Regina Pats,total,5.5,,,,1.4739,2.52,2026-11-08 04:05:47.357386+00:00
-1639768539,2026-11-08 10:00:00+00:00,Belarus - Extraleague,HK Neman Grodno,HC Shakhtyor Soligorsk,moneyline,,2.1,1.7519,,,,2026-11-08 04:05:47.357386+00:00
-1640162192,2026-11-09 15:30:00+00:00,Russia - Junior Hockey League (MHL),Reaktor Nizhnekamsk,Akademiya SKA Krasnogorsk,moneyline,,1.5128,2.56,,,,2026-11-08 04:05:47.357386+00:00
-1639799141,2026-11-08 23:00:00+00:00,Canada - Western Hockey League,Edmonton Oil Kings,Prince Albert Raiders,moneyline,,1.9615,1.8547,,,,2026-11-08 04:05:47.357386+00:00
-1639799141,2026-11-08 23:00:00+00:00,Canada - Western Hockey League,Edmonton Oil Kings,Prince Albert Raiders,spread,1.5,1.3717,2.84,,,,2026-11-08 04:05:47.357386+00:00
-1639799141,2026-11-08 23:00:00+00:00,Canada - Western Hockey League,Edmonton Oil Kings,Prince Albert Raiders,total,5.5,,,,1.5848,2.26,2026-11-08 04:05:47.357386+00:00
-1639797985,2026-11-08 19:05:00+00:00,Canada - Ontario Hockey League,Peterborough Petes,Niagara Icedogs,moneyline,,1.3788,3.03,,,,2026-11-08 04:05:47.357386+00:00
-1639797985,2026-11-08 19:05:00+00:00,Canada - Ontario Hockey League,Peterborough Petes,Niagara Icedogs,spread,-1.5,1.9259,1.8197,,,,2026-11-08 04:05:47.357386+00:00
-1639797985,2026-11-08 19:05:00+00:00,Canada - Ontario Hockey League,Peterborough Petes,Niagara Icedogs,total,5.5,,,,1.5102,2.42,2026-11-08 04:05:47.357386+00:00
-1639768418,2026-11-08 10:00:00+00:00,Europe - European Cup of Nations,Latvia,Austria,moneyline,,1.3774,2.99,,,,2026-11-08 04:05:47.357386+00:00
-1639791164,2026-11-08 15:00:00+00:00,Sweden - HockeyEttan,Borlange HF,Jarfalla HC,moneyline,,1.3759,2.83,,,,2026-11-08 04:05:47.357386+00:00
-1639824843,2026-11-09 16:30:00+00:00,Russia - Kontinental Hockey League,CSKA Moscow,Sibir Novosibirsk,moneyline,,1.2309,4.02,,,,2026-11-08 04:05:47.357386+00:00
-1639776961,2026-11-08 14:00:00+00:00,Belarus - Extraleague,Metallurg Zhlobin,HK Lida,moneyline,,1.4329,2.81,,,,2026-11-08 04:05:47.357386+00:00
-1639800821,2026-11-08 19:05:00+00:00,Canada - Ontario Hockey League,Sarnia Sting,London Knights,moneyline,,2.43,1.5682,,,,2026-11-08 04:05:47.357386+00:00
-1639800821,2026-11-08 19:05:00+00:00,Canada - Ontario Hockey League,Sarnia Sting,London Knights,spread,1.5,1.6211,2.2,,,,2026-11-08 04:05:47.357386+00:00
-1639800821,2026-11-08 19:05:00+00:00,Canada - Ontario Hockey League,Sarnia Sting,London Knights,total,7.5,,,,2.22,1.6061,2026-11-08 04:05:47.357386+00:00
-1639797940,2026-11-08 17:00:00+00:00,British - Elite League,Fife Flyers,Cardiff Devils,moneyline,,3.76,1.2119,,,,2026-11-08 04:05:47.357386+00:00
-1639894916,2026-11-10 18:30:00+00:00,Switzerland - Swiss League,Arosa,EHC Visp,moneyline,,5.96,1.0755,,,,2026-11-08 04:05:47.357386+00:00
-1640180515,2026-11-08 05:00:00+00:00,Asia Challenge Cup,China,Japan,moneyline,,4.55,1.1439,,,,2026-11-08 04:05:47.357386+00:00
-1639800831,2026-11-08 20:37:00+00:00,NHL,Buffalo Sabres,Vegas Golden Knights,moneyline,,1.9174,1.9709,,,,2026-11-08 04:05:47.357386+00:00
-1639800831,2026-11-08 20:37:00+00:00,NHL,Buffalo Sabres,Vegas Golden Knights,spread,1.5,1.365,3.28,,,,2026-11-08 04:05:47.357386+00:00
-1639800831,2026-11-08 20:37:00+00:00,NHL,Buffalo Sabres,Vegas Golden Knights,total,6.5,,,,1.9901,1.885,2026-11-08 04:05:47.357386+00:00
-1640060265,2026-11-08 12:00:00+00:00,Russia - Vysshaya hokkeinaya Liga,Rubin Tyumen,Chelmet Chelyabinsk,moneyline,,1.4808,2.37,,,,2026-11-08 04:05:47.357386+00:00
-1639768411,2026-11-08 10:00:00+00:00,Russia - Vysshaya hokkeinaya Liga,Sokol Krasnoyarsk,SKA-VMF,moneyline,,2.45,1.4484,,,,2026-11-08 04:05:47.357386+00:00
-1639894871,2026-11-10 18:00:00+00:00,Denmark - Metal Ligaen,Frederikshavn White Hawks,Herning Blue Fox,moneyline,,4.45,1.1484,,,,2026-11-08 04:05:47.357386+00:00
-1640253481,2026-11-08 19:05:00+00:00,Canada - Ontario Hockey League,Sudbury Wolves,Barrie Colts,moneyline,,1.4292,2.83,,,,2026-11-08 04:05:47.357386+00:00
-1640253481,2026-11-08 19:05:00+00:00,Canada - Ontario Hockey League,Sudbury Wolves,Barrie Colts,spread,-1.5,2.04,1.7246,,,,2026-11-08 04:05:47.357386+00:00
-1640253481,2026-11-08 19:05:00+00:00,Canada - Ontario Hockey League,Sudbury Wolves,Barrie Colts,total,5.5,,,,1.5747,2.28,2026-11-08 04:05:47.357386+00:00
-1639798016,2026-11-08 23:05:00+00:00,Canada - Ontario Hockey League,Oshawa Generals,Brantford Bulldogs,moneyline,,2.02,1.8065,,,,2026-11-08 04:05:47.357386+00:00
-1639798016,2026-11-08 23:05:00+00:00,Canada - Ontario Hockey League,Oshawa Generals,Brantford Bulldogs,spread,1.5,1.3906,2.77,,,,2026-11-08 04:05:47.357386+00:00
-1639798016,2026-11-08 23:05:00+00:00,Canada - Ontario Hockey League,Oshawa Generals,Brantford Bulldogs,total,5.5,,,,1.5848,2.27,2026-11-08 04:05:47.357386+00:00
-1639796000,2026-11-08 18:07:00+00:00,NHL,Boston Bruins,Florida Panthers,moneyline,,1.7812,2.14,,,,2026-11-08 04:05:47.357386+00:00
-1639796000,2026-11-08 18:07:00+00:00,NHL,Boston Bruins,Florida Panthers,spread,-1.5,2.88,1.4505,,,,2026-11-08 04:05:47.357386+00:00
-1639796000,2026-11-08 18:07:00+00:00,NHL,Boston Bruins,Florida Panthers,total,6.0,,,,1.8475,2.03,2026-11-08 04:05:47.357386+00:00
-1639776928,2026-11-08 13:00:00+00:00,Sweden - HockeyEttan,Stromsbro IF,Kalix HC,moneyline,,2.06,1.7042,,,,2026-11-08 04:05:47.357386+00:00
-1639768436,2026-11-08 11:00:00+00:00,Russia - Kontinental Hockey League,Neftekhimik Nizhnekamsk,Lokomotiv Yaroslavl,moneyline,,2.59,1.5025,,,,2026-11-08 04:05:47.357386+00:00
-1640162193,2026-11-09 15:30:00+00:00,Russia - Junior Hockey League (MHL),Sputnik Almetievsk,Kuznetskie Medvedi,moneyline,,2.35,1.6024,,,,2026-11-08 04:05:47.357386+00:00
-1640061948,2026-11-08 10:00:00+00:00,Russia - Junior Hockey League (MHL),Irbis Kazan,Loko-76 Yaroslavl,moneyline,,1.2747,3.64,,,,2026-11-08 04:05:47.357386+00:00
-1639788048,2026-11-08 15:00:00+00:00,Sweden - HockeyEttan,Enkopings SK HK,IF Vallentuna,moneyline,,1.8621,1.8772,,,,2026-11-08 04:05:47.357386+00:00
-1639800828,2026-11-08 20:00:00+00:00,Canada - Quebec Major Junior Hockey League,Rimouski Oceanic,Quebec Remparts,moneyline,,2.49,1.5405,,,,2026-11-08 04:05:47.357386+00:00
-1639800828,2026-11-08 20:00:00+00:00,Canada - Quebec Major Junior Hockey League,Rimouski Oceanic,Quebec Remparts,spread,1.5,1.6173,2.21,,,,2026-11-08 04:05:47.357386+00:00
-1639800828,2026-11-08 20:00:00+00:00,Canada - Quebec Major Junior Hockey League,Rimouski Oceanic,Quebec Remparts,total,7.5,,,,2.56,1.4587,2026-11-08 04:05:47.357386+00:00
-1639821527,2026-11-09 16:00:00+00:00,Russia - Kontinental Hockey League,Severstal Cherepovets,HC Lada Togliatti,moneyline,,1.2967,3.48,,,,2026-11-08 04:05:47.357386+00:00
-1639772882,2026-11-08 13:00:00+00:00,Sweden - HockeyEttan,Pitea HC,Wings Arlanda HC,moneyline,,1.1403,4.57,,,,2026-11-08 04:05:47.357386+00:00
-1639787943,2026-11-08 15:00:00+00:00,Czech Republic - 1. Liga,PSG Berani Zlin,HC Pardubice B,moneyline,,1.9346,1.885,,,,2026-11-08 04:05:47.357386+00:00
-1639791219,2026-11-08 16:00:00+00:00,British - Elite League,Nottingham Panthers,Coventry Blaze,moneyline,,1.5319,2.37,,,,2026-11-08 04:05:47.357386+00:00
-1639760693,2026-11-08 07:00:00+00:00,Russia - Kontinental Hockey League,Amur Khabarovsk,HC Barys,moneyline,,1.8197,2.01,,,,2026-11-08 04:05:47.357386+00:00
-1639904732,2026-11-11 00:00:00+00:00,USA - American Hockey League,Charlotte Checkers,Providence Bruins,moneyline,,1.8696,1.9524,,,,2026-11-08 04:05:47.357386+00:00
-1639904732,2026-11-11 00:00:00+00:00,USA - American Hockey League,Charlotte Checkers,Providence Bruins,spread,-1.5,2.97,1.3401,,,,2026-11-08 04:05:47.357386+00:00
-1639904732,2026-11-11 00:00:00+00:00,USA - American Hockey League,Charlotte Checkers,Providence Bruins,total,5.5,,,,1.9259,1.813,2026-11-08 04:05:47.357386+00:00
-1639904619,2026-11-10 23:35:00+00:00,USA - American Hockey League,Wilkes-Barre/Scranton Penguins,Utica Comets,moneyline,,1.9174,1.9009,,,,2026-11-08 04:05:47.357386+00:00
-1639904619,2026-11-10 23:35:00+00:00,USA - American Hockey League,Wilkes-Barre/Scranton Penguins,Utica Comets,spread,1.5,1.3311,3.01,,,,2026-11-08 04:05:47.357386+00:00
-1639904619,2026-11-10 23:35:00+00:00,USA - American Hockey League,Wilkes-Barre/Scranton Penguins,Utica Comets,total,5.5,,,,1.8929,1.8475,2026-11-08 04:05:47.357386+00:00
-1640162191,2026-11-09 16:00:00+00:00,Russia - Vysshaya hokkeinaya Liga,Kaluga,CSK VVS Samara,moneyline,,1.3623,2.7,,,,2026-11-08 04:05:47.357386+00:00
-1639892909,2026-11-10 18:00:00+00:00,Sweden - Hockey Allsvenskan,Ostersunds IK,Vimmerby HC,moneyline,,1.495,2.46,,,,2026-11-08 04:05:47.357386+00:00
-1639894934,2026-11-10 19:05:00+00:00,France - Ligue Magnus,Chamonix,Grenoble,moneyline,,2.94,1.3472,,,,2026-11-08 04:05:47.357386+00:00
-1639894870,2026-11-10 18:30:00+00:00,Denmark - Metal Ligaen,Rungsted Hockey,Esbjerg Energy,moneyline,,2.02,1.7407,,,,2026-11-08 04:05:47.357386+00:00
-1639892880,2026-11-10 17:00:00+00:00,Latvia - Latvian Hockey League,HK Prizma,HK Liepaja,moneyline,,3.26,1.2833,,,,2026-11-08 04:05:47.357386+00:00
-1639776942,2026-11-08 13:45:00+00:00,Europe - European Cup of Nations,Germany,Slovakia,moneyline,,1.7874,2.03,,,,2026-11-08 04:05:47.357386+00:00
-1639773962,2026-11-08 13:00:00+00:00,Sweden - HockeyEttan,IF Sundsvall,Bodens HF,moneyline,,1.7812,1.9615,,,,2026-11-08 04:05:47.357386+00:00
-1640162406,2026-11-09 15:30:00+00:00,Russia - Junior Hockey League (MHL),MHC Spartak Max,MHK Krylia Sovetov,moneyline,,1.6944,2.18,,,,2026-11-08 04:05:47.357386+00:00
-1639788045,2026-11-08 15:00:00+00:00,Europe - Alps Hockey League,HC Gherdeina,KHL Sisak,moneyline,,2.26,1.5848,,,,2026-11-08 04:05:47.357386+00:00
-1640061949,2026-11-08 07:00:00+00:00,Russia - Junior Hockey League (MHL),HC Taifun,JHC Dynamo Moscow,moneyline,,2.2,1.6849,,,,2026-11-08 04:05:47.357386+00:00
-1639800829,2026-11-08 20:00:00+00:00,Canada - Quebec Major Junior Hockey League,Moncton Wildcats,Cape Breton Eagles,moneyline,,2.3,1.625,,,,2026-11-08 04:05:47.357386+00:00
-1639800829,2026-11-08 20:00:00+00:00,Canada - Quebec Major Junior Hockey League,Moncton Wildcats,Cape Breton Eagles,spread,1.5,1.4975,2.46,,,,2026-11-08 04:05:47.357386+00:00
-1639800829,2026-11-08 20:00:00+00:00,Canada - Quebec Major Junior Hockey League,Moncton Wildcats,Cape Breton Eagles,total,5.5,,,,1.6623,2.13,2026-11-08 04:05:47.357386+00:00
-1639800840,2026-11-08 21:00:00+00:00,Canada - Quebec Major Junior Hockey League,Baie-Comeau Drakkar,Drummondville Voltigeurs,moneyline,,2.69,1.4695,,,,2026-11-08 04:05:47.357386+00:00
-1639800840,2026-11-08 21:00:00+00:00,Canada - Quebec Major Junior Hockey League,Baie-Comeau Drakkar,Drummondville Voltigeurs,spread,1.5,1.6667,2.12,,,,2026-11-08 04:05:47.357386+00:00
-1639800840,2026-11-08 21:00:00+00:00,Canada - Quebec Major Junior Hockey League,Baie-Comeau Drakkar,Drummondville Voltigeurs,total,5.5,,,,1.5495,2.33,2026-11-08 04:05:47.357386+00:00
-1639799149,2026-11-09 00:07:00+00:00,NHL,Calgary Flames,Philadelphia Flyers,moneyline,,1.9615,1.9259,,,,2026-11-08 04:05:47.357386+00:00
-1639799149,2026-11-09 00:07:00+00:00,NHL,Calgary Flames,Philadelphia Flyers,spread,1.5,1.3546,3.33,,,,2026-11-08 04:05:47.357386+00:00
-1639799149,2026-11-09 00:07:00+00:00,NHL,Calgary Flames,Philadelphia Flyers,total,5.5,,,,1.8547,2.02,2026-11-08 04:05:47.357386+00:00
-1640066593,2026-11-08 10:00:00+00:00,Russia - Junior Hockey League (MHL),Almaz Cherepovets,Krasnaya Armiya,moneyline,,1.5587,2.45,,,,2026-11-08 04:05:47.357386+00:00
-1639800872,2026-11-09 00:07:00+00:00,NHL,Toronto Maple Leafs,New Jersey Devils,moneyline,,2.25,1.7042,,,,2026-11-08 04:05:47.357386+00:00
-1639800872,2026-11-09 00:07:00+00:00,NHL,Toronto Maple Leafs,New Jersey Devils,spread,1.5,1.4902,2.74,,,,2026-11-08 04:05:47.357386+00:00
-1639800872,2026-11-09 00:07:00+00:00,NHL,Toronto Maple Leafs,New Jersey Devils,total,6.0,,,,1.8621,2.02,2026-11-08 04:05:47.357386+00:00
-1640061944,2026-11-08 12:00:00+00:00,Russia - Vysshaya hokkeinaya Liga,HC Yugra,Magnitka Magnitogorsk,moneyline,,1.3704,2.67,,,,2026-11-08 04:05:47.357386+00:00
-1639768531,2026-11-08 10:00:00+00:00,Russia - Vysshaya hokkeinaya Liga,HC Tambov,JHC Molot,moneyline,,2.33,1.4975,,,,2026-11-08 04:05:47.357386+00:00
-1639797939,2026-11-08 17:00:00+00:00,British - Elite League,Belfast Giants,Guildford Flames,moneyline,,1.3058,3.13,,,,2026-11-08 04:05:47.357386+00:00
-1640162195,2026-11-09 14:00:00+00:00,Russia - Junior Hockey League (MHL),JHC Molot,Sibirskie Snaipery,moneyline,,3.13,1.3571,,,,2026-11-08 04:05:47.357386+00:00
-1639821529,2026-11-09 16:00:00+00:00,Belarus - Extraleague,Baranavichy,HK Brest,moneyline,,3.77,1.2584,,,,2026-11-08 04:05:47.357386+00:00
-1639863346,2026-11-10 15:35:00+00:00,USA - American Hockey League,Springfield Thunderbirds,Hartford Wolf Pack,moneyline,,1.9434,1.8772,,,,2026-11-08 04:05:47.357386+00:00
-1639863346,2026-11-10 15:35:00+00:00,USA - American Hockey League,Springfield Thunderbirds,Hartford Wolf Pack,spread,1.5,1.3367,2.99,,,,2026-11-08 04:05:47.357386+00:00
-1639863346,2026-11-10 15:35:00+00:00,USA - American Hockey League,Springfield Thunderbirds,Hartford Wolf Pack,total,5.5,,,,1.9259,1.8197,2026-11-08 04:05:47.357386+00:00
-1639799137,2026-11-08 22:30:00+00:00,Canada - Ontario Hockey League,Saginaw Spirit,Brampton Steelheads,moneyline,,1.3356,3.25,,,,2026-11-08 04:05:47.357386+00:00
-1639799137,2026-11-08 22:30:00+00:00,Canada - Ontario Hockey League,Saginaw Spirit,Brampton Steelheads,spread,-1.5,1.7937,1.9524,,,,2026-11-08 04:05:47.357386+00:00
-1639799137,2026-11-08 22:30:00+00:00,Canada - Ontario Hockey League,Saginaw Spirit,Brampton Steelheads,total,7.5,,,,2.24,1.5988,2026-11-08 04:05:47.357386+00:00
-1639768412,2026-11-08 10:00:00+00:00,Russia - Vysshaya hokkeinaya Liga,Dinamo-Altai Barnaul,Zvezda Moscow,moneyline,,1.6803,2.01,,,,2026-11-08 04:05:47.357386+00:00
-1639800839,2026-11-08 21:00:00+00:00,Canada - Quebec Major Junior Hockey League,Rouyn Noranda Huskies,Victoriaville Tigres,moneyline,,1.5181,2.55,,,,2026-11-08 04:05:47.357386+00:00
-1639800839,2026-11-08 21:00:00+00:00,Canada - Quebec Major Junior Hockey League,Rouyn Noranda Huskies,Victoriaville Tigres,spread,-1.5,2.22,1.6098,,,,2026-11-08 04:05:47.357386+00:00
-1639800839,2026-11-08 21:00:00+00:00,Canada - Quebec Major Junior Hockey League,Rouyn Noranda Huskies,Victoriaville Tigres,total,5.5,,,,1.4695,2.53,2026-11-08 04:05:47.357386+00:00
-1639796561,2026-11-08 16:00:00+00:00,Czech Republic - 1. Liga,HC Frydek Mistek,HC Banik Sokolov,moneyline,,1.4098,2.9,,,,2026-11-08 04:05:47.357386+00:00
-1639821519,2026-11-09 15:30:00+00:00,Belarus - Extraleague,Khimik Novopolotsk,Slavutych,moneyline,,4.31,1.2041,,,,2026-11-08 04:05:47.357386+00:00
-1639854212,2026-11-08 14:00:00+00:00,Russia - Kontinental Hockey League,HC Sochi,HC Dinamo Minsk,moneyline,,2.94,1.4,,,,2026-11-08 04:05:47.357386+00:00
-1639787924,2026-11-08 15:00:00+00:00,Switzerland - Swiss League,Hockey Thurgau,EHC Olten,moneyline,,1.7692,1.9804,,,,2026-11-08 04:05:47.357386+00:00
-1639799104,2026-11-08 19:05:00+00:00,Canada - Ontario Hockey League,Kingston Frontenacs,Windsor Spitfires,moneyline,,1.7092,2.16,,,,2026-11-08 04:05:47.357386+00:00
-1639799104,2026-11-08 19:05:00+00:00,Canada - Ontario Hockey League,Kingston Frontenacs,Windsor Spitfires,spread,-1.5,2.54,1.4651,,,,2026-11-08 04:05:47.357386+00:00
-1639799104,2026-11-08 19:05:00+00:00,Canada - Ontario Hockey League,Kingston Frontenacs,Windsor Spitfires,total,5.5,,,,1.5051,2.44,2026-11-08 04:05:47.357386+00:00
-1640061950,2026-11-08 10:00:00+00:00,Russia - Junior Hockey League (MHL),Loko Yaroslavl,JHC Spartak Moscow,moneyline,,1.3774,3.04,,,,2026-11-08 04:05:47.357386+00:00
-1639894875,2026-11-10 17:00:00+00:00,Slovakia - 1. Liga,HK Levice,95 Povazska Bystrica,moneyline,,1.4237,2.66,,,,2026-11-08 04:05:47.357386+00:00
-1639768435,2026-11-08 11:00:00+00:00,Russia - Kontinental Hockey League,HC Traktor Chelyabinsk,Avtomobilist Yekaterinburg,moneyline,,1.8475,1.9804,,,,2026-11-08 04:05:47.357386+00:00
-1640060266,2026-11-08 06:00:00+00:00,Russia - Vysshaya hokkeinaya Liga,Metallurg Novokuznetsk,HK Dinamo St. Petersburg,moneyline,,1.3115,2.88,,,,2026-11-08 04:05:47.357386+00:00
-1639828738,2026-11-09 16:30:00+00:00,Finland - SM Liiga,TPS,Kalpa,moneyline,,1.5376,2.44,,,,2026-11-08 04:05:47.357386+00:00
-1639787980,2026-11-08 14:00:00+00:00,Russia - Vysshaya hokkeinaya Liga,Dizel Penza,Toros Neftekamsk,moneyline,,1.7353,1.9434,,,,2026-11-08 04:05:47.357386+00:00
-1639837682,2026-11-09 16:30:00+00:00,Russia - Kontinental Hockey League,SKA Saint Petersburg,HC Spartak Moscow,moneyline,,1.8929,1.9259,,,,2026-11-08 04:05:47.357386+00:00
-1640061952,2026-11-08 12:30:00+00:00,Europe - Hockey Tour,Czech Republic,Switzerland,moneyline,,1.5988,2.33,,,,2026-11-08 04:05:47.357386+00:00
-1639918779,2026-11-08 12:00:00+00:00,Russia - Vysshaya hokkeinaya Liga,Zauralye Kurgan,Gornyak-UGMK Verkhnyaya Pyshma,moneyline,,2.23,1.5435,,,,2026-11-08 04:05:47.357386+00:00
-1639904754,2026-11-11 02:00:00+00:00,Canada - Western Hockey League,Calgary Hitmen,Lethbridge Hurricanes,moneyline,,1.3571,3.14,,,,2026-11-08 04:05:47.357386+00:00
-1639904754,2026-11-11 02:00:00+00:00,Canada - Western Hockey League,Calgary Hitmen,Lethbridge Hurricanes,spread,-1.5,1.8403,1.9009,,,,2026-11-08 04:05:47.357386+00:00
-1639904754,2026-11-11 02:00:00+00:00,Canada - Western Hockey League,Calgary Hitmen,Lethbridge Hurricanes,total,7.5,,,,2.25,1.5952,2026-11-08 04:05:47.357386+00:00
-1639799103,2026-11-08 19:00:00+00:00,Canada - Quebec Major Junior Hockey League,Charlottetown Islanders,Saint John Sea Dogs,moneyline,,2.26,1.6494,,,,2026-11-08 04:05:47.357386+00:00
-1639799103,2026-11-08 19:00:00+00:00,Canada - Quebec Major Junior Hockey League,Charlottetown Islanders,Saint John Sea Dogs,spread,1.5,1.5263,2.38,,,,2026-11-08 04:05:47.357386+00:00
-1639799103,2026-11-08 19:00:00+00:00,Canada - Quebec Major Junior Hockey League,Charlottetown Islanders,Saint John Sea Dogs,total,7.5,,,,2.31,1.5618,2026-11-08 04:05:47.357386+00:00
-1639773959,2026-11-08 13:00:00+00:00,Sweden - HockeyEttan,Hudiksvalls HC,Asploven HC,moneyline,,1.0596,6.54,,,,2026-11-08 04:05:47.357386+00:00
-1639799118,2026-11-08 21:00:00+00:00,Canada - Quebec Major Junior Hockey League,Shawinigan Cataractes,Sherbrooke Phoenix,moneyline,,2.65,1.4831,,,,2026-11-08 04:05:47.357386+00:00
-1639799118,2026-11-08 21:00:00+00:00,Canada - Quebec Major Junior Hockey League,Shawinigan Cataractes,Sherbrooke Phoenix,spread,1.5,1.6667,2.13,,,,2026-11-08 04:05:47.357386+00:00
-1639799118,2026-11-08 21:00:00+00:00,Canada - Quebec Major Junior Hockey League,Shawinigan Cataractes,Sherbrooke Phoenix,total,5.5,,,,1.5025,2.44,2026-11-08 04:05:47.357386+00:00
-1639824839,2026-11-09 16:00:00+00:00,Russia - Kontinental Hockey League,AK Bars Kazan,Torpedo N. Novgorod,moneyline,,1.8621,1.9615,,,,2026-11-08 04:05:47.357386+00:00
-1639891322,2026-11-10 18:00:00+00:00,Denmark - Metal Ligaen,Odense Bulldogs,Roedovre Mighty Bulls,moneyline,,1.365,2.87,,,,2026-11-08 04:05:47.357386+00:00
-1640066594,2026-11-08 08:00:00+00:00,Russia - Junior Hockey League (MHL),Mamonty Yugry K. M.,Akm-Junior,moneyline,,1.4274,2.83,,,,2026-11-08 04:05:47.357386+00:00
-1639768420,2026-11-08 10:00:00+00:00,Belarus - Extraleague,HC Dinamo Molodechno,Yunost Minsk,moneyline,,1.2825,3.58,,,,2026-11-08 04:05:47.357386+00:00
-1639828732,2026-11-09 15:55:00+00:00,Belarus - Extraleague,HC Lokomotiv Orsha,HK Mogilev,moneyline,,1.7576,2.09,,,,2026-11-08 04:05:47.357386+00:00
-1639791245,2026-11-08 16:30:00+00:00,Czech Republic - 1. Liga,HC Slavia Prague,HC Stadion Litomerice,moneyline,,1.641,2.28,,,,2026-11-08 04:05:47.357386+00:00
-1639768538,2026-11-08 10:00:00+00:00,Belarus - Extraleague,HK Gomel,HK Vitebsk,moneyline,,1.4545,2.74,,,,2026-11-08 04:05:47.357386+00:00
-1639891385,2026-11-10 19:30:00+00:00,France - Ligue Magnus,Angers,Rouen Dragons,moneyline,,2.1,1.6803,,,,2026-11-08 04:05:47.357386+00:00
-1640066577,2026-11-08 16:30:00+00:00,Europe - Hockey Tour,Finland,Sweden,moneyline,,1.9174,1.8696,,,,2026-11-08 04:05:47.357386+00:00
-1639799114,2026-11-08 20:00:00+00:00,Canada - Quebec Major Junior Hockey League,Val-D'Or Foreurs,Gatineau Olympiques,moneyline,,1.3663,3.09,,,,2026-11-08 04:05:47.357386+00:00
-1639799114,2026-11-08 20:00:00+00:00,Canada - Quebec Major Junior Hockey League,Val-D'Or Foreurs,Gatineau Olympiques,spread,-1.5,1.9091,1.8264,,,,2026-11-08 04:05:47.357386+00:00
-1639799114,2026-11-08 20:00:00+00:00,Canada - Quebec Major Junior Hockey League,Val-D'Or Foreurs,Gatineau Olympiques,total,5.5,,,,1.625,2.19,2026-11-08 04:05:47.357386+00:00
-1639776926,2026-11-08 13:00:00+00:00,Sweden - HockeyEttan,Norrtalje,Kiruna IF,moneyline,,1.8333,1.9009,,,,2026-11-08 04:05:47.357386+00:00
-1639892926,2026-11-10 18:45:00+00:00,Switzerland - Swiss League,Basel,Chur,moneyline,,1.9709,1.7752,,,,2026-11-08 04:05:47.357386+00:00
+1639824839,2026-11-09 16:00:00+00:00,Russia - Kontinental Hockey League,AK Bars Kazan,Torpedo N. Novgorod,moneyline,,1.8621,1.9615,,,,2026-11-08 04:26:21.000907+00:00
+1639776942,2026-11-08 13:45:00+00:00,Europe - European Cup of Nations,Germany,Slovakia,moneyline,,1.7874,2.03,,,,2026-11-08 04:26:21.000907+00:00
+1639800840,2026-11-08 21:00:00+00:00,Canada - Quebec Major Junior Hockey League,Baie-Comeau Drakkar,Drummondville Voltigeurs,moneyline,,2.69,1.4695,,,,2026-11-08 04:26:21.000907+00:00
+1639800840,2026-11-08 21:00:00+00:00,Canada - Quebec Major Junior Hockey League,Baie-Comeau Drakkar,Drummondville Voltigeurs,spread,1.5,1.6667,2.12,,,,2026-11-08 04:26:21.000907+00:00
+1639800840,2026-11-08 21:00:00+00:00,Canada - Quebec Major Junior Hockey League,Baie-Comeau Drakkar,Drummondville Voltigeurs,total,5.5,,,,1.5495,2.33,2026-11-08 04:26:21.000907+00:00
+1639796000,2026-11-08 18:07:00+00:00,NHL,Boston Bruins,Florida Panthers,moneyline,,1.7812,2.14,,,,2026-11-08 04:26:21.000907+00:00
+1639796000,2026-11-08 18:07:00+00:00,NHL,Boston Bruins,Florida Panthers,spread,-1.5,2.88,1.4505,,,,2026-11-08 04:26:21.000907+00:00
+1639796000,2026-11-08 18:07:00+00:00,NHL,Boston Bruins,Florida Panthers,total,6.0,,,,1.8475,2.03,2026-11-08 04:26:21.000907+00:00
+1640162191,2026-11-09 16:00:00+00:00,Russia - Vysshaya hokkeinaya Liga,Kaluga,CSK VVS Samara,moneyline,,1.3623,2.7,,,,2026-11-08 04:26:21.000907+00:00
+1639799118,2026-11-08 21:00:00+00:00,Canada - Quebec Major Junior Hockey League,Shawinigan Cataractes,Sherbrooke Phoenix,moneyline,,2.65,1.4831,,,,2026-11-08 04:26:21.000907+00:00
+1639799118,2026-11-08 21:00:00+00:00,Canada - Quebec Major Junior Hockey League,Shawinigan Cataractes,Sherbrooke Phoenix,spread,1.5,1.6667,2.13,,,,2026-11-08 04:26:21.000907+00:00
+1639799118,2026-11-08 21:00:00+00:00,Canada - Quebec Major Junior Hockey League,Shawinigan Cataractes,Sherbrooke Phoenix,total,5.5,,,,1.5025,2.44,2026-11-08 04:26:21.000907+00:00
+1639787943,2026-11-08 15:00:00+00:00,Czech Republic - 1. Liga,PSG Berani Zlin,HC Pardubice B,moneyline,,1.9346,1.885,,,,2026-11-08 04:26:21.000907+00:00
+1639894870,2026-11-10 18:30:00+00:00,Denmark - Metal Ligaen,Rungsted Hockey,Esbjerg Energy,moneyline,,2.02,1.7407,,,,2026-11-08 04:26:21.000907+00:00
+1639828732,2026-11-09 15:55:00+00:00,Belarus - Extraleague,HC Lokomotiv Orsha,HK Mogilev,moneyline,,1.7576,2.09,,,,2026-11-08 04:26:21.000907+00:00
+1639788048,2026-11-08 15:00:00+00:00,Sweden - HockeyEttan,Enkopings SK HK,IF Vallentuna,moneyline,,1.8621,1.8772,,,,2026-11-08 04:26:21.000907+00:00
+1640061948,2026-11-08 10:00:00+00:00,Russia - Junior Hockey League (MHL),Irbis Kazan,Loko-76 Yaroslavl,moneyline,,1.2747,3.64,,,,2026-11-08 04:26:21.000907+00:00
+1640162193,2026-11-09 15:30:00+00:00,Russia - Junior Hockey League (MHL),Sputnik Almetievsk,Kuznetskie Medvedi,moneyline,,2.35,1.6024,,,,2026-11-08 04:26:21.000907+00:00
+1639772882,2026-11-08 13:00:00+00:00,Sweden - HockeyEttan,Pitea HC,Wings Arlanda HC,moneyline,,1.1403,4.57,,,,2026-11-08 04:26:21.000907+00:00
+1639904754,2026-11-11 02:00:00+00:00,Canada - Western Hockey League,Calgary Hitmen,Lethbridge Hurricanes,moneyline,,1.3571,3.14,,,,2026-11-08 04:26:21.000907+00:00
+1639904754,2026-11-11 02:00:00+00:00,Canada - Western Hockey League,Calgary Hitmen,Lethbridge Hurricanes,spread,-1.5,1.8403,1.9009,,,,2026-11-08 04:26:21.000907+00:00
+1639904754,2026-11-11 02:00:00+00:00,Canada - Western Hockey League,Calgary Hitmen,Lethbridge Hurricanes,total,7.5,,,,2.25,1.5952,2026-11-08 04:26:21.000907+00:00
+1639903205,2026-11-11 01:00:00+00:00,USA - American Hockey League,Texas Stars,Manitoba Moose,moneyline,,2.19,1.6897,,,,2026-11-08 04:26:21.000907+00:00
+1639903205,2026-11-11 01:00:00+00:00,USA - American Hockey League,Texas Stars,Manitoba Moose,spread,1.5,1.3937,2.76,,,,2026-11-08 04:26:21.000907+00:00
+1639903205,2026-11-11 01:00:00+00:00,USA - American Hockey League,Texas Stars,Manitoba Moose,total,5.5,,,,1.8403,1.9009,2026-11-08 04:26:21.000907+00:00
+1639776961,2026-11-08 14:00:00+00:00,Belarus - Extraleague,Metallurg Zhlobin,HK Lida,moneyline,,1.4329,2.81,,,,2026-11-08 04:26:21.000907+00:00
+1639776928,2026-11-08 13:00:00+00:00,Sweden - HockeyEttan,Stromsbro IF,Kalix HC,moneyline,,2.06,1.7042,,,,2026-11-08 04:26:21.000907+00:00
+1640060266,2026-11-08 06:00:00+00:00,Russia - Vysshaya hokkeinaya Liga,Metallurg Novokuznetsk,HK Dinamo St. Petersburg,moneyline,,1.3115,2.88,,,,2026-11-08 04:26:21.000907+00:00
+1639918779,2026-11-08 12:00:00+00:00,Russia - Vysshaya hokkeinaya Liga,Zauralye Kurgan,Gornyak-UGMK Verkhnyaya Pyshma,moneyline,,2.23,1.5435,,,,2026-11-08 04:26:21.000907+00:00
+1639791244,2026-11-08 16:30:00+00:00,Czech Republic - 1. Liga,HC Dukla Jihlava,AZ Havirov,moneyline,,1.289,3.53,,,,2026-11-08 04:26:21.000907+00:00
+1639904651,2026-11-11 01:00:00+00:00,Canada - Western Hockey League,Saskatoon Blades,Regina Pats,moneyline,,1.5495,2.47,,,,2026-11-08 04:26:21.000907+00:00
+1639904651,2026-11-11 01:00:00+00:00,Canada - Western Hockey League,Saskatoon Blades,Regina Pats,spread,-1.5,2.25,1.5917,,,,2026-11-08 04:26:21.000907+00:00
+1639904651,2026-11-11 01:00:00+00:00,Canada - Western Hockey League,Saskatoon Blades,Regina Pats,total,5.5,,,,1.4739,2.52,2026-11-08 04:26:21.000907+00:00
+1639800839,2026-11-08 21:00:00+00:00,Canada - Quebec Major Junior Hockey League,Rouyn Noranda Huskies,Victoriaville Tigres,moneyline,,1.5181,2.55,,,,2026-11-08 04:26:21.000907+00:00
+1639800839,2026-11-08 21:00:00+00:00,Canada - Quebec Major Junior Hockey League,Rouyn Noranda Huskies,Victoriaville Tigres,spread,-1.5,2.22,1.6098,,,,2026-11-08 04:26:21.000907+00:00
+1639800839,2026-11-08 21:00:00+00:00,Canada - Quebec Major Junior Hockey League,Rouyn Noranda Huskies,Victoriaville Tigres,total,5.5,,,,1.4695,2.53,2026-11-08 04:26:21.000907+00:00
+1639791245,2026-11-08 16:30:00+00:00,Czech Republic - 1. Liga,HC Slavia Prague,HC Stadion Litomerice,moneyline,,1.641,2.28,,,,2026-11-08 04:26:21.000907+00:00
+1639787894,2026-11-08 14:30:00+00:00,Czech Republic - 1. Liga,Pirati Chomutov,Horacka Trebic,moneyline,,2.68,1.4739,,,,2026-11-08 04:26:21.000907+00:00
+1640066594,2026-11-08 08:00:00+00:00,Russia - Junior Hockey League (MHL),Mamonty Yugry K. M.,Akm-Junior,moneyline,,1.4274,2.83,,,,2026-11-08 04:26:21.000907+00:00
+1639828738,2026-11-09 16:30:00+00:00,Finland - SM Liiga,TPS,Kalpa,moneyline,,1.5376,2.44,,,,2026-11-08 04:26:21.000907+00:00
+1639799149,2026-11-09 00:07:00+00:00,NHL,Calgary Flames,Philadelphia Flyers,moneyline,,1.9615,1.9259,,,,2026-11-08 04:26:21.000907+00:00
+1639799149,2026-11-09 00:07:00+00:00,NHL,Calgary Flames,Philadelphia Flyers,spread,1.5,1.3546,3.33,,,,2026-11-08 04:26:21.000907+00:00
+1639799149,2026-11-09 00:07:00+00:00,NHL,Calgary Flames,Philadelphia Flyers,total,5.5,,,,1.8547,2.02,2026-11-08 04:26:21.000907+00:00
+1639768412,2026-11-08 10:00:00+00:00,Russia - Vysshaya hokkeinaya Liga,Dinamo-Altai Barnaul,Zvezda Moscow,moneyline,,1.6803,2.01,,,,2026-11-08 04:26:21.000907+00:00
+1639788045,2026-11-08 15:00:00+00:00,Europe - Alps Hockey League,HC Gherdeina,KHL Sisak,moneyline,,2.26,1.5848,,,,2026-11-08 04:26:21.000907+00:00
+1640180515,2026-11-08 05:00:00+00:00,Asia Challenge Cup,China,Japan,moneyline,,4.55,1.1439,,,,2026-11-08 04:26:21.000907+00:00
+1639799141,2026-11-08 23:00:00+00:00,Canada - Western Hockey League,Edmonton Oil Kings,Prince Albert Raiders,moneyline,,1.9615,1.8547,,,,2026-11-08 04:26:21.000907+00:00
+1639799141,2026-11-08 23:00:00+00:00,Canada - Western Hockey League,Edmonton Oil Kings,Prince Albert Raiders,spread,1.5,1.3717,2.84,,,,2026-11-08 04:26:21.000907+00:00
+1639799141,2026-11-08 23:00:00+00:00,Canada - Western Hockey League,Edmonton Oil Kings,Prince Albert Raiders,total,5.5,,,,1.5848,2.26,2026-11-08 04:26:21.000907+00:00
+1639824843,2026-11-09 16:30:00+00:00,Russia - Kontinental Hockey League,CSKA Moscow,Sibir Novosibirsk,moneyline,,1.2309,4.02,,,,2026-11-08 04:26:21.000907+00:00
+1639797940,2026-11-08 17:00:00+00:00,British - Elite League,Fife Flyers,Cardiff Devils,moneyline,,3.76,1.2119,,,,2026-11-08 04:26:21.000907+00:00
+1639787924,2026-11-08 15:00:00+00:00,Switzerland - Swiss League,Hockey Thurgau,EHC Olten,moneyline,,1.7692,1.9804,,,,2026-11-08 04:26:21.000907+00:00
+1640061944,2026-11-08 12:00:00+00:00,Russia - Vysshaya hokkeinaya Liga,HC Yugra,Magnitka Magnitogorsk,moneyline,,1.3704,2.67,,,,2026-11-08 04:26:21.000907+00:00
+1639800821,2026-11-08 19:05:00+00:00,Canada - Ontario Hockey League,Sarnia Sting,London Knights,moneyline,,2.43,1.5682,,,,2026-11-08 04:26:21.000907+00:00
+1639800821,2026-11-08 19:05:00+00:00,Canada - Ontario Hockey League,Sarnia Sting,London Knights,spread,1.5,1.6211,2.2,,,,2026-11-08 04:26:21.000907+00:00
+1639800821,2026-11-08 19:05:00+00:00,Canada - Ontario Hockey League,Sarnia Sting,London Knights,total,7.5,,,,2.22,1.6061,2026-11-08 04:26:21.000907+00:00
+1639773962,2026-11-08 13:00:00+00:00,Sweden - HockeyEttan,IF Sundsvall,Bodens HF,moneyline,,1.7812,1.9615,,,,2026-11-08 04:26:21.000907+00:00
+1639892909,2026-11-10 18:00:00+00:00,Sweden - Hockey Allsvenskan,Ostersunds IK,Vimmerby HC,moneyline,,1.495,2.46,,,,2026-11-08 04:26:21.000907+00:00
+1639768538,2026-11-08 10:00:00+00:00,Belarus - Extraleague,HK Gomel,HK Vitebsk,moneyline,,1.4545,2.74,,,,2026-11-08 04:26:21.000907+00:00
+1640061949,2026-11-08 07:00:00+00:00,Russia - Junior Hockey League (MHL),HC Taifun,JHC Dynamo Moscow,moneyline,,2.2,1.6849,,,,2026-11-08 04:26:21.000907+00:00
+1639800872,2026-11-09 00:07:00+00:00,NHL,Toronto Maple Leafs,New Jersey Devils,moneyline,,2.26,1.7042,,,,2026-11-08 04:26:21.000907+00:00
+1639800872,2026-11-09 00:07:00+00:00,NHL,Toronto Maple Leafs,New Jersey Devils,spread,1.5,1.4902,2.74,,,,2026-11-08 04:26:21.000907+00:00
+1639800872,2026-11-09 00:07:00+00:00,NHL,Toronto Maple Leafs,New Jersey Devils,total,6.0,,,,1.8621,2.02,2026-11-08 04:26:21.000907+00:00
+1639799137,2026-11-08 22:30:00+00:00,Canada - Ontario Hockey League,Saginaw Spirit,Brampton Steelheads,moneyline,,1.3356,3.25,,,,2026-11-08 04:26:21.000907+00:00
+1639799137,2026-11-08 22:30:00+00:00,Canada - Ontario Hockey League,Saginaw Spirit,Brampton Steelheads,spread,-1.5,1.7937,1.9524,,,,2026-11-08 04:26:21.000907+00:00
+1639799137,2026-11-08 22:30:00+00:00,Canada - Ontario Hockey League,Saginaw Spirit,Brampton Steelheads,total,7.5,,,,2.24,1.5988,2026-11-08 04:26:21.000907+00:00
+1639787980,2026-11-08 14:00:00+00:00,Russia - Vysshaya hokkeinaya Liga,Dizel Penza,Toros Neftekamsk,moneyline,,1.7353,1.9434,,,,2026-11-08 04:26:21.000907+00:00
+1639768420,2026-11-08 10:00:00+00:00,Belarus - Extraleague,HC Dinamo Molodechno,Yunost Minsk,moneyline,,1.2825,3.58,,,,2026-11-08 04:26:21.000907+00:00
+1639800828,2026-11-08 20:00:00+00:00,Canada - Quebec Major Junior Hockey League,Rimouski Oceanic,Quebec Remparts,moneyline,,2.49,1.5405,,,,2026-11-08 04:26:21.000907+00:00
+1639800828,2026-11-08 20:00:00+00:00,Canada - Quebec Major Junior Hockey League,Rimouski Oceanic,Quebec Remparts,spread,1.5,1.6173,2.21,,,,2026-11-08 04:26:21.000907+00:00
+1639800828,2026-11-08 20:00:00+00:00,Canada - Quebec Major Junior Hockey League,Rimouski Oceanic,Quebec Remparts,total,7.5,,,,2.56,1.4587,2026-11-08 04:26:21.000907+00:00
+1639821527,2026-11-09 16:00:00+00:00,Russia - Kontinental Hockey League,Severstal Cherepovets,HC Lada Togliatti,moneyline,,1.2967,3.48,,,,2026-11-08 04:26:21.000907+00:00
+1640162195,2026-11-09 14:00:00+00:00,Russia - Junior Hockey League (MHL),JHC Molot,Sibirskie Snaipery,moneyline,,3.13,1.3571,,,,2026-11-08 04:26:21.000907+00:00
+1639904732,2026-11-11 00:00:00+00:00,USA - American Hockey League,Charlotte Checkers,Providence Bruins,moneyline,,1.8696,1.9524,,,,2026-11-08 04:26:21.000907+00:00
+1639904732,2026-11-11 00:00:00+00:00,USA - American Hockey League,Charlotte Checkers,Providence Bruins,spread,-1.5,2.97,1.3401,,,,2026-11-08 04:26:21.000907+00:00
+1639904732,2026-11-11 00:00:00+00:00,USA - American Hockey League,Charlotte Checkers,Providence Bruins,total,5.5,,,,1.9259,1.813,2026-11-08 04:26:21.000907+00:00
+1639773959,2026-11-08 13:00:00+00:00,Sweden - HockeyEttan,Hudiksvalls HC,Asploven HC,moneyline,,1.0596,6.54,,,,2026-11-08 04:26:21.000907+00:00
+1639894875,2026-11-10 17:00:00+00:00,Slovakia - 1. Liga,HK Levice,95 Povazska Bystrica,moneyline,,1.4237,2.66,,,,2026-11-08 04:26:21.000907+00:00
+1639903131,2026-11-10 19:15:00+00:00,Switzerland - Swiss League,GDT Bellinzona,HC Sierre,moneyline,,6.72,1.0556,,,,2026-11-08 04:26:21.000907+00:00
+1639891385,2026-11-10 19:30:00+00:00,France - Ligue Magnus,Angers,Rouen Dragons,moneyline,,2.1,1.6803,,,,2026-11-08 04:26:21.000907+00:00
+1639791219,2026-11-08 16:00:00+00:00,British - Elite League,Nottingham Panthers,Coventry Blaze,moneyline,,1.5319,2.37,,,,2026-11-08 04:26:21.000907+00:00
+1639768435,2026-11-08 11:00:00+00:00,Russia - Kontinental Hockey League,HC Traktor Chelyabinsk,Avtomobilist Yekaterinburg,moneyline,,1.8264,2.0,,,,2026-11-08 04:26:21.000907+00:00
+1639797939,2026-11-08 17:00:00+00:00,British - Elite League,Belfast Giants,Guildford Flames,moneyline,,1.3058,3.13,,,,2026-11-08 04:26:21.000907+00:00
+1639800829,2026-11-08 20:00:00+00:00,Canada - Quebec Major Junior Hockey League,Moncton Wildcats,Cape Breton Eagles,moneyline,,2.3,1.625,,,,2026-11-08 04:26:21.000907+00:00
+1639800829,2026-11-08 20:00:00+00:00,Canada - Quebec Major Junior Hockey League,Moncton Wildcats,Cape Breton Eagles,spread,1.5,1.4975,2.46,,,,2026-11-08 04:26:21.000907+00:00
+1639800829,2026-11-08 20:00:00+00:00,Canada - Quebec Major Junior Hockey League,Moncton Wildcats,Cape Breton Eagles,total,5.5,,,,1.6623,2.13,2026-11-08 04:26:21.000907+00:00
+1639799104,2026-11-08 19:05:00+00:00,Canada - Ontario Hockey League,Kingston Frontenacs,Windsor Spitfires,moneyline,,1.7092,2.16,,,,2026-11-08 04:26:21.000907+00:00
+1639799104,2026-11-08 19:05:00+00:00,Canada - Ontario Hockey League,Kingston Frontenacs,Windsor Spitfires,spread,-1.5,2.54,1.4651,,,,2026-11-08 04:26:21.000907+00:00
+1639799104,2026-11-08 19:05:00+00:00,Canada - Ontario Hockey League,Kingston Frontenacs,Windsor Spitfires,total,5.5,,,,1.5051,2.44,2026-11-08 04:26:21.000907+00:00
+1639854212,2026-11-08 14:00:00+00:00,Russia - Kontinental Hockey League,HC Sochi,HC Dinamo Minsk,moneyline,,2.94,1.4,,,,2026-11-08 04:26:21.000907+00:00
+1639768531,2026-11-08 10:00:00+00:00,Russia - Vysshaya hokkeinaya Liga,HC Tambov,JHC Molot,moneyline,,2.33,1.4975,,,,2026-11-08 04:26:21.000907+00:00
+1639797985,2026-11-08 19:05:00+00:00,Canada - Ontario Hockey League,Peterborough Petes,Niagara Icedogs,moneyline,,1.3788,3.03,,,,2026-11-08 04:26:21.000907+00:00
+1639797985,2026-11-08 19:05:00+00:00,Canada - Ontario Hockey League,Peterborough Petes,Niagara Icedogs,spread,-1.5,1.9259,1.8197,,,,2026-11-08 04:26:21.000907+00:00
+1639797985,2026-11-08 19:05:00+00:00,Canada - Ontario Hockey League,Peterborough Petes,Niagara Icedogs,total,5.5,,,,1.5102,2.42,2026-11-08 04:26:21.000907+00:00
+1639821519,2026-11-09 15:30:00+00:00,Belarus - Extraleague,Khimik Novopolotsk,Slavutych,moneyline,,4.31,1.2041,,,,2026-11-08 04:26:21.000907+00:00
+1639776926,2026-11-08 13:00:00+00:00,Sweden - HockeyEttan,Norrtalje,Kiruna IF,moneyline,,1.8333,1.9009,,,,2026-11-08 04:26:21.000907+00:00
+1639904619,2026-11-10 23:35:00+00:00,USA - American Hockey League,Wilkes-Barre/Scranton Penguins,Utica Comets,moneyline,,1.9174,1.9009,,,,2026-11-08 04:26:21.000907+00:00
+1639904619,2026-11-10 23:35:00+00:00,USA - American Hockey League,Wilkes-Barre/Scranton Penguins,Utica Comets,spread,1.5,1.3311,3.01,,,,2026-11-08 04:26:21.000907+00:00
+1639904619,2026-11-10 23:35:00+00:00,USA - American Hockey League,Wilkes-Barre/Scranton Penguins,Utica Comets,total,5.5,,,,1.8929,1.8475,2026-11-08 04:26:21.000907+00:00
+1639821529,2026-11-09 16:00:00+00:00,Belarus - Extraleague,Baranavichy,HK Brest,moneyline,,3.77,1.2584,,,,2026-11-08 04:26:21.000907+00:00
+1639760693,2026-11-08 07:00:00+00:00,Russia - Kontinental Hockey League,Amur Khabarovsk,HC Barys,moneyline,,1.8197,2.01,,,,2026-11-08 04:26:21.000907+00:00
+1639903211,2026-11-11 02:00:00+00:00,USA - American Hockey League,Abbotsford Canucks,Colorado Eagles,moneyline,,1.8065,2.02,,,,2026-11-08 04:26:21.000907+00:00
+1639903211,2026-11-11 02:00:00+00:00,USA - American Hockey League,Abbotsford Canucks,Colorado Eagles,spread,-1.5,2.93,1.3509,,,,2026-11-08 04:26:21.000907+00:00
+1639903211,2026-11-11 02:00:00+00:00,USA - American Hockey League,Abbotsford Canucks,Colorado Eagles,total,5.5,,,,2.07,1.7042,2026-11-08 04:26:21.000907+00:00
+1639863346,2026-11-10 15:35:00+00:00,USA - American Hockey League,Springfield Thunderbirds,Hartford Wolf Pack,moneyline,,1.9434,1.8772,,,,2026-11-08 04:26:21.000907+00:00
+1639863346,2026-11-10 15:35:00+00:00,USA - American Hockey League,Springfield Thunderbirds,Hartford Wolf Pack,spread,1.5,1.3367,2.99,,,,2026-11-08 04:26:21.000907+00:00
+1639863346,2026-11-10 15:35:00+00:00,USA - American Hockey League,Springfield Thunderbirds,Hartford Wolf Pack,total,5.5,,,,1.9259,1.8197,2026-11-08 04:26:21.000907+00:00
+1639796561,2026-11-08 16:00:00+00:00,Czech Republic - 1. Liga,HC Frydek Mistek,HC Banik Sokolov,moneyline,,1.4673,2.69,,,,2026-11-08 04:26:21.000907+00:00
+1640060265,2026-11-08 12:00:00+00:00,Russia - Vysshaya hokkeinaya Liga,Rubin Tyumen,Chelmet Chelyabinsk,moneyline,,1.4808,2.37,,,,2026-11-08 04:26:21.000907+00:00
+1639796562,2026-11-08 16:00:00+00:00,Czech Republic - 1. Liga,HC Zubr Prerov,SC Kolin,moneyline,,2.27,1.6452,,,,2026-11-08 04:26:21.000907+00:00
+1640066593,2026-11-08 10:00:00+00:00,Russia - Junior Hockey League (MHL),Almaz Cherepovets,Krasnaya Armiya,moneyline,,1.5587,2.45,,,,2026-11-08 04:26:21.000907+00:00
+1639891322,2026-11-10 18:00:00+00:00,Denmark - Metal Ligaen,Odense Bulldogs,Roedovre Mighty Bulls,moneyline,,1.365,2.87,,,,2026-11-08 04:26:21.000907+00:00
+1639892880,2026-11-10 17:00:00+00:00,Latvia - Latvian Hockey League,HK Prizma,HK Liepaja,moneyline,,3.26,1.2833,,,,2026-11-08 04:26:21.000907+00:00
+1639894934,2026-11-10 19:05:00+00:00,France - Ligue Magnus,Chamonix,Grenoble,moneyline,,2.94,1.3472,,,,2026-11-08 04:26:21.000907+00:00
+1639800831,2026-11-08 20:37:00+00:00,NHL,Buffalo Sabres,Vegas Golden Knights,moneyline,,1.9174,1.9709,,,,2026-11-08 04:26:21.000907+00:00
+1639800831,2026-11-08 20:37:00+00:00,NHL,Buffalo Sabres,Vegas Golden Knights,spread,1.5,1.365,3.28,,,,2026-11-08 04:26:21.000907+00:00
+1639800831,2026-11-08 20:37:00+00:00,NHL,Buffalo Sabres,Vegas Golden Knights,total,6.5,,,,1.9901,1.885,2026-11-08 04:26:21.000907+00:00
+1640066577,2026-11-08 16:30:00+00:00,Europe - Hockey Tour,Finland,Sweden,moneyline,,1.9174,1.8696,,,,2026-11-08 04:26:21.000907+00:00
+1639768436,2026-11-08 11:00:00+00:00,Russia - Kontinental Hockey League,Neftekhimik Nizhnekamsk,Lokomotiv Yaroslavl,moneyline,,2.59,1.5025,,,,2026-11-08 04:26:21.000907+00:00
+1639799114,2026-11-08 20:00:00+00:00,Canada - Quebec Major Junior Hockey League,Val-D'Or Foreurs,Gatineau Olympiques,moneyline,,1.3663,3.09,,,,2026-11-08 04:26:21.000907+00:00
+1639799114,2026-11-08 20:00:00+00:00,Canada - Quebec Major Junior Hockey League,Val-D'Or Foreurs,Gatineau Olympiques,spread,-1.5,1.9091,1.8264,,,,2026-11-08 04:26:21.000907+00:00
+1639799114,2026-11-08 20:00:00+00:00,Canada - Quebec Major Junior Hockey League,Val-D'Or Foreurs,Gatineau Olympiques,total,5.5,,,,1.625,2.19,2026-11-08 04:26:21.000907+00:00
+1640162192,2026-11-09 15:30:00+00:00,Russia - Junior Hockey League (MHL),Reaktor Nizhnekamsk,Akademiya SKA Krasnogorsk,moneyline,,1.5128,2.56,,,,2026-11-08 04:26:21.000907+00:00
+1639894916,2026-11-10 18:30:00+00:00,Switzerland - Swiss League,Arosa,EHC Visp,moneyline,,5.96,1.0755,,,,2026-11-08 04:26:21.000907+00:00
+1640061950,2026-11-08 10:00:00+00:00,Russia - Junior Hockey League (MHL),Loko Yaroslavl,JHC Spartak Moscow,moneyline,,1.3774,3.04,,,,2026-11-08 04:26:21.000907+00:00
+1639768418,2026-11-08 10:00:00+00:00,Europe - European Cup of Nations,Latvia,Austria,moneyline,,1.3817,3.02,,,,2026-11-08 04:26:21.000907+00:00
+1640061952,2026-11-08 12:30:00+00:00,Europe - Hockey Tour,Czech Republic,Switzerland,moneyline,,1.5988,2.33,,,,2026-11-08 04:26:21.000907+00:00
+1640253481,2026-11-08 19:05:00+00:00,Canada - Ontario Hockey League,Sudbury Wolves,Barrie Colts,moneyline,,1.4292,2.83,,,,2026-11-08 04:26:21.000907+00:00
+1640253481,2026-11-08 19:05:00+00:00,Canada - Ontario Hockey League,Sudbury Wolves,Barrie Colts,spread,-1.5,2.04,1.7246,,,,2026-11-08 04:26:21.000907+00:00
+1640253481,2026-11-08 19:05:00+00:00,Canada - Ontario Hockey League,Sudbury Wolves,Barrie Colts,total,5.5,,,,1.5747,2.28,2026-11-08 04:26:21.000907+00:00
+1639798016,2026-11-08 23:05:00+00:00,Canada - Ontario Hockey League,Oshawa Generals,Brantford Bulldogs,moneyline,,2.02,1.8065,,,,2026-11-08 04:26:21.000907+00:00
+1639798016,2026-11-08 23:05:00+00:00,Canada - Ontario Hockey League,Oshawa Generals,Brantford Bulldogs,spread,1.5,1.3906,2.77,,,,2026-11-08 04:26:21.000907+00:00
+1639798016,2026-11-08 23:05:00+00:00,Canada - Ontario Hockey League,Oshawa Generals,Brantford Bulldogs,total,5.5,,,,1.5848,2.27,2026-11-08 04:26:21.000907+00:00
+1639791164,2026-11-08 15:00:00+00:00,Sweden - HockeyEttan,Borlange HF,Jarfalla HC,moneyline,,1.3759,2.83,,,,2026-11-08 04:26:21.000907+00:00
+1639892926,2026-11-10 18:45:00+00:00,Switzerland - Swiss League,Basel,Chur,moneyline,,1.9709,1.7752,,,,2026-11-08 04:26:21.000907+00:00
+1639768411,2026-11-08 10:00:00+00:00,Russia - Vysshaya hokkeinaya Liga,Sokol Krasnoyarsk,SKA-VMF,moneyline,,2.45,1.4484,,,,2026-11-08 04:26:21.000907+00:00
+1639894871,2026-11-10 18:00:00+00:00,Denmark - Metal Ligaen,Frederikshavn White Hawks,Herning Blue Fox,moneyline,,4.45,1.1484,,,,2026-11-08 04:26:21.000907+00:00
+1640162406,2026-11-09 15:30:00+00:00,Russia - Junior Hockey League (MHL),MHC Spartak Max,MHK Krylia Sovetov,moneyline,,1.6944,2.18,,,,2026-11-08 04:26:21.000907+00:00
+1639837682,2026-11-09 16:30:00+00:00,Russia - Kontinental Hockey League,SKA Saint Petersburg,HC Spartak Moscow,moneyline,,1.8929,1.9259,,,,2026-11-08 04:26:21.000907+00:00
+1639799103,2026-11-08 19:00:00+00:00,Canada - Quebec Major Junior Hockey League,Charlottetown Islanders,Saint John Sea Dogs,moneyline,,2.26,1.6494,,,,2026-11-08 04:26:21.000907+00:00
+1639799103,2026-11-08 19:00:00+00:00,Canada - Quebec Major Junior Hockey League,Charlottetown Islanders,Saint John Sea Dogs,spread,1.5,1.5263,2.38,,,,2026-11-08 04:26:21.000907+00:00
+1639799103,2026-11-08 19:00:00+00:00,Canada - Quebec Major Junior Hockey League,Charlottetown Islanders,Saint John Sea Dogs,total,7.5,,,,2.31,1.5618,2026-11-08 04:26:21.000907+00:00
+1639768539,2026-11-08 10:00:00+00:00,Belarus - Extraleague,HK Neman Grodno,HC Shakhtyor Soligorsk,moneyline,,2.1,1.7519,,,,2026-11-08 04:26:21.000907+00:00
