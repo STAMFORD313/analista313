@@ -1,24 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 08/11/2026 23:18 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Central Cordoba vs Lanus — 08/11 · 23:30
-
-👀 candidata · 🇦🇷 Liga Profesional · **Gana Lanus** @ **1.62** (Bet365) · prob 57% vs casas 57% · ventaja -8%
-
-- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.05 - 1.30)  
-1 30% · X 28% · 2 42%  
-1X 58% · X2 70% · 12 72%  
-+1.5 69% · +2.5 42% · +3.5 21% · Ambos marcan 48%  
-Marcadores: 1-1 14% · 0-1 12% · 0-0 10% · 1-0 9%  
-🔎 **Claves**  
-• Forma: Central Cordoba ➖➖❌❌❌ | Lanus ➖✅✅➖➖  
-• H2H: 9 desde 2019: 1V-6E-2D · 2.1 goles/partido · +2.5 en 33%  
-• Bajas: Central Cordoba: sin bajas; Lanus: sin bajas  
-• Favorito de las casas: Lanus @ 1.62  
+Actualizado 08/11/2026 23:37 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Queretaro vs Puebla — 09/11 · 01:00
 

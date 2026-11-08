@@ -1,61 +1,61 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 08/11/2026 23:18 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 08/11/2026 23:37 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## Nightxx vs tizzy — 08/11 · 23:19
+## tizzy vs believer — 08/11 · 23:43
 
-👀 candidata · 🎮⚽ FC 27 · World Cup A · **Gana tizzy** @ **2.38** (Unibet) · prob 56% vs casas 37% · ventaja +34%
+👀 candidata · 🎮⚽ FC 27 · World Cup A · **Empate** @ **5.40** (Unibet) · prob 21% vs casas 16% · ventaja +12%
 
-- ❌ Valor: ventaja +34% (mín. 17% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 61.094 partidos)  
-Goles esperados: Nightxx 3.03 · tizzy 3.98  
-Ganador: Nightxx 27% · empate 17% · tizzy 56%  
-Total: más de 7.5 goles 40% · menos 60%  
-Hándicap tizzy: −1.5 41% · −2.5 27%  
-🔎 **Claves**  
-• Forma: Nightxx ❌✅✅✅❌ | tizzy ✅✅❌❌❌  
-• Partidos: Nightxx 861 | tizzy 388  
-• Liga: World Cup A  
-• Unibet: 1 1.96 · X 4.60 · 2 2.38 (sin margen 44%/19%/37%) · ventaja +34%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.38 (+34%) · Paf España 2.38 (+34%)  
-
-## curuza vs KravaRK — 08/11 · 23:22
-
-👀 candidata · 🎮⚽ FC 27 · Portugal Primera · **Gana curuza** @ **2.55** (Unibet) · prob 42% vs casas 34% · ventaja +8%
-
-- ❌ Valor: ventaja +8% (mín. 10% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 61.115 partidos)  
-Goles esperados: curuza 3.05 · KravaRK 2.82  
-Ganador: curuza 42% · empate 21% · KravaRK 37%  
-Total: más de 5.5 goles 53% · menos 47%  
-Hándicap curuza: −1.5 29% · −2.5 17%  
-🔎 **Claves**  
-• Forma: curuza ✅✅➖❌✅ | KravaRK ❌✅❌❌❌  
-• Partidos: curuza 797 | KravaRK 360  
-• Liga: Portugal Primera  
-• Unibet: 1 2.55 · X 4.70 · 2 1.85 (sin margen 34%/19%/47%) · ventaja +8%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.55 (+8%) · Paf España 2.55 (+8%)  
-
-## ssstasonn vs noeN — 08/11 · 23:31
-
-👀 candidata · 🎮⚽ FC 27 · World Cup A · **Empate** @ **7.50** (Unibet) · prob 18% vs casas 12% · ventaja +31%
-
-- ❌ Valor: ventaja +31% (mín. 16% con la incertidumbre, máx. 30%)
+- ✅ Valor: ventaja +12% (mín. 11% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 61.115 partidos)  
-Goles esperados: ssstasonn 2.20 · noeN 3.52  
-Ganador: ssstasonn 17% · empate 18% · noeN 65%  
-Total: más de 5.5 goles 51% · menos 49%  
-Hándicap noeN: −1.5 46% · −2.5 30%  
+📊 **Escenarios** (Poisson por jugador, 61.130 partidos)  
+Goles esperados: tizzy 2.93 · believer 3.01  
+Ganador: tizzy 38% · empate 21% · believer 42%  
+Total: más de 5.5 goles 55% · menos 45%  
+Hándicap believer: −1.5 27% · −2.5 16%  
 🔎 **Claves**  
-• Forma: ssstasonn ✅❌❌❌❌ | noeN ❌✅✅✅❌  
-• Partidos: ssstasonn 971 | noeN 855  
+• Forma: tizzy ❌❌✅✅✅ | believer ❌✅✅✅➖  
+• Partidos: tizzy 392 | believer 985  
 • Liga: World Cup A  
-• Unibet: 1 5.60 · X 7.50 · 2 1.19 (sin margen 15%/12%/73%) · ventaja +31%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 7.50 (+31%) · Paf España 7.50 (+31%)  
+• Unibet: 1 2.80 · X 5.40 · 2 1.68 (sin margen 31%/16%/52%) · ventaja +12%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 5.40 (+12%) · Paf España 5.40 (+12%)  
+
+## KravaRK vs hrk — 08/11 · 23:46
+
+👀 candidata · 🎮⚽ FC 27 · Portugal Primera · **Gana hrk** @ **2.12** (Unibet) · prob 50% vs casas 41% · ventaja +7%
+
+- ❌ Valor: ventaja +7% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 61.130 partidos)  
+Goles esperados: KravaRK 2.36 · hrk 2.94  
+Ganador: KravaRK 28% · empate 22% · hrk 50%  
+Total: más de 5.5 goles 44% · menos 56%  
+Hándicap hrk: −1.5 34% · −2.5 20%  
+🔎 **Claves**  
+• Forma: KravaRK ❌❌❌❌❌ | hrk ✅➖✅✅✅  
+• Partidos: KravaRK 362 | hrk 799  
+• Liga: Portugal Primera  
+• Unibet: 1 2.90 · X 2.95 · 2 2.12 (sin margen 30%/29%/41%) · ventaja +7%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.12 (+7%) · Paf España 2.12 (+7%)  
+
+## vivienne vs Dov1n — 08/11 · 23:50
+
+👀 candidata · 🎮⚽ FC 27 · Premier League · **Empate** @ **5.50** (Unibet) · prob 21% vs casas 16% · ventaja +13%
+
+- ✅ Valor: ventaja +13% (mín. 11% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 61.130 partidos)  
+Goles esperados: vivienne 3.14 · Dov1n 3.08  
+Ganador: vivienne 42% · empate 21% · Dov1n 37%  
+Total: más de 6.5 goles 43% · menos 57%  
+Hándicap vivienne: −1.5 28% · −2.5 16%  
+🔎 **Claves**  
+• Forma: vivienne ❌❌❌➖✅ | Dov1n ✅❌✅❌❌  
+• Partidos: vivienne 807 | Dov1n 1022  
+• Liga: Premier League  
+• Unibet: 1 2.14 · X 5.50 · 2 2.04 (sin margen 41%/16%/43%) · ventaja +13%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 5.50 (+13%) · Paf España 5.50 (+13%)  
 
