@@ -60383,3 +60383,23 @@ id,tournament_id,club1,club2,ht1,ht2
 2368521,261309,Brighton,Aston Villa,,
 2370001,261309,Aston Villa,Newcastle,,
 2370002,261309,Brighton,Nottm Forest,,
+2369560,261379,Nice,Marseille,3,1
+2369561,261379,Monaco,Lyon,1,1
+2369562,261379,Lyon,Nice,1,3
+2369563,261379,Marseille,Paris,2,1
+2369564,261379,Paris,Lyon,2,0
+2369565,261379,Nice,Monaco,0,2
+2369566,261379,Monaco,Paris,0,0
+2369567,261379,Lyon,Marseille,2,1
+2369568,261379,Marseille,Monaco,,
+2369569,261379,Paris,Nice,,
+2369570,261379,Marseille,Nice,,
+2369571,261379,Lyon,Monaco,,
+2369572,261379,Nice,Lyon,,
+2369573,261379,Paris,Marseille,,
+2369574,261379,Lyon,Paris,,
+2369575,261379,Monaco,Nice,,
+2369576,261379,Paris,Monaco,,
+2369577,261379,Marseille,Lyon,,
+2369578,261379,Monaco,Marseille,,
+2369579,261379,Nice,Paris,,
