@@ -1,61 +1,42 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 08/11/2026 18:17 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 08/11/2026 18:48 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## DEKSON vs Jankulovski — 08/11 · 18:23
+## chevare vs Glumac — 08/11 · 19:02
 
-👀 candidata · 🎮⚽ FC 27 · Champions League A · **Empate** @ **4.50** (Unibet) · prob 24% vs casas 19% · ventaja +7%
+👀 candidata · 🎮⚽ FC 27 · Super Lig · **Gana Glumac** @ **2.40** (Unibet) · prob 46% vs casas 36% · ventaja +10%
 
-- ❌ Valor: ventaja +7% (mín. 10% con la incertidumbre, máx. 30%)
+- ❌ Valor: ventaja +10% (mín. 11% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 60.887 partidos)  
+Goles esperados: chevare 3.69 · Glumac 4.11  
+Ganador: chevare 35% · empate 20% · Glumac 46%  
+Total: más de 7.5 goles 52% · menos 48%  
+Hándicap Glumac: −1.5 35% · −2.5 22%  
+🔎 **Claves**  
+• Forma: chevare ❌❌❌❌✅ | Glumac ❌✅✅✅❌  
+• Partidos: chevare 610 | Glumac 780  
+• Liga: Super Lig  
+• Unibet: 1 2.20 · X 3.50 · 2 2.40 (sin margen 39%/25%/36%) · ventaja +10%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.40 (+9%) · Paf España 2.40 (+9%)  
+
+## DEKSON vs Linox — 08/11 · 19:11
+
+👀 candidata · 🎮⚽ FC 27 · Champions League A · **Empate** @ **4.10** (Unibet) · prob 27% vs casas 21% · ventaja +10%
+
+- ❌ Valor: ventaja +10% (mín. 11% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 60.858 partidos)  
-Goles esperados: DEKSON 2.52 · Jankulovski 2.03  
-Ganador: DEKSON 49% · empate 24% · Jankulovski 28%  
-Total: más de 4.5 goles 48% · menos 52%  
-Hándicap DEKSON: −1.5 31% · −2.5 17%  
+📊 **Escenarios** (Poisson por jugador, 60.887 partidos)  
+Goles esperados: DEKSON 1.89 · Linox 2.01  
+Ganador: DEKSON 35% · empate 27% · Linox 38%  
+Total: más de 3.5 goles 55% · menos 45%  
+Hándicap Linox: −1.5 23% · −2.5 11%  
 🔎 **Claves**  
-• Forma: DEKSON ✅✅✅✅✅ | Jankulovski ❌❌➖❌✅  
-• Partidos: DEKSON 491 | Jankulovski 851  
+• Forma: DEKSON ✅✅✅❌✅ | Linox ✅❌❌✅❌  
+• Partidos: DEKSON 493 | Linox 803  
 • Liga: Champions League A  
-• Unibet: 1 1.79 · X 4.50 · 2 2.75 (sin margen 49%/19%/32%) · ventaja +7%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 4.50 (+7%) · Paf España 4.50 (+7%)  
-
-## w1nkos vs Rodja — 08/11 · 18:32
-
-👀 candidata · 🎮⚽ FC 27 · World Cup B · **Empate** @ **5.75** (Unibet) · prob 21% vs casas 15% · ventaja +23%
-
-- ✅ Valor: ventaja +23% (mín. 14% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 60.858 partidos)  
-Goles esperados: w1nkos 3.24 · Rodja 2.90  
-Ganador: w1nkos 45% · empate 21% · Rodja 33%  
-Total: más de 6.5 goles 42% · menos 58%  
-Hándicap w1nkos: −1.5 31% · −2.5 19%  
-🔎 **Claves**  
-• Forma: w1nkos ➖❌❌✅❌ | Rodja ✅❌❌✅✅  
-• Partidos: w1nkos 1154 | Rodja 986  
-• Liga: World Cup B  
-• Unibet: 1 1.79 · X 5.75 · 2 2.48 (sin margen 49%/15%/36%) · ventaja +23%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 5.75 (+23%) · Paf España 5.75 (+23%)  
-
-## Gaga vs maggett0 — 08/11 · 18:32
-
-👀 candidata · 🎮⚽ FC 27 · World Cup B · **Empate** @ **4.40** (Unibet) · prob 24% vs casas 20% · ventaja +7%
-
-- ❌ Valor: ventaja +7% (mín. 10% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 60.858 partidos)  
-Goles esperados: Gaga 2.49 · maggett0 2.52  
-Ganador: Gaga 38% · empate 24% · maggett0 37%  
-Total: más de 5.5 goles 39% · menos 61%  
-Hándicap maggett0: −1.5 25% · −2.5 13%  
-🔎 **Claves**  
-• Forma: Gaga ➖✅✅❌✅ | maggett0 ❌❌✅❌❌  
-• Partidos: Gaga 1130 | maggett0 964  
-• Liga: World Cup B  
-• Unibet: 1 2.00 · X 4.40 · 2 2.38 (sin margen 44%/20%/37%) · ventaja +7%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 4.40 (+7%) · Paf España 4.40 (+7%)  
+• Unibet: 1 2.45 · X 4.10 · 2 2.00 (sin margen 35%/21%/43%) · ventaja +10%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 4.10 (+10%) · Paf España 4.10 (+10%)  
 
