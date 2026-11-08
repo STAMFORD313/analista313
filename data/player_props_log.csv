@@ -10558,11 +10558,310 @@ fecha,partido,jugador,mercado,linea,cuota,p_casa,p_modelo,titular,valor,acierto
 2026-11-08,Inter vs Como,Lucas Da Cunha,To Score,0.5,6.75,0.1481,0.1645,1,0.0,0
 2026-11-08,Inter vs Como,Ange-Yoan Bonny,Player's shots on target,1.5,2.8,0.3571,0.0151,0,0.0,0
 2026-11-08,Inter vs Como,Henrikh Mkhitaryan,To Get a Card,0.5,4.3,0.2326,0.044,0,0.0,0
-2026-11-08,Celta vs Levante,Hugo González,To Score,0.5,3.7,0.2703,0.0002,1,0.0,0
-2026-11-08,Celta vs Levante,Hugo González,Player's shots on target,1.5,4.3,0.2326,0.0,1,0.0,0
-2026-11-08,Celta vs Levante,Hugo González,To Get a Card,0.5,3.5,0.2857,0.0492,1,0.0,0
-2026-11-08,Celta vs Levante,Hugo González,Player's shots on target,0.5,1.74,0.5747,0.0008,1,0.0,0
-2026-11-08,Celta vs Levante,Hugo González,To score at least 2 goals,1.5,19.0,0.0526,0.0,1,0.0,0
-2026-11-08,Celta vs Levante,Hugo González,To give an assist,0.5,4.7,0.2128,0.0017,1,0.0,0
+2026-11-08,Celta vs Levante,Roger Brugué,Player's shots on target,0.5,2.14,0.4673,0.4904,1,0.0,0
+2026-11-08,Celta vs Levante,Pablo Durán,To Get a Card,0.5,4.8,0.2083,0.1182,1,0.0,0
+2026-11-08,Celta vs Levante,Williot Swedberg,To Score,0.5,3.9,0.2564,0.0402,0,0.0,0
+2026-11-08,Celta vs Levante,Jeremy Toljan,To Get a Card,0.5,2.9,0.3448,0.185,1,0.0,0
+2026-11-08,Celta vs Levante,Jorge Cabello,To Score,0.5,15.0,0.0667,0.0196,0,0.0,0
+2026-11-08,Celta vs Levante,Williot Swedberg,To score at least 2 goals,1.5,23.0,0.0435,0.0008,0,0.0,0
+2026-11-08,Celta vs Levante,Hugo Álvarez,To give an assist,0.5,5.0,0.2,0.0382,0,0.0,0
+2026-11-08,Celta vs Levante,Hugo Burcio,To Score,0.5,7.5,0.1333,0.0239,0,0.0,0
+2026-11-08,Celta vs Levante,Pablo Durán,Player's shots on target,1.5,4.0,0.25,0.1619,1,5.0,1
+2026-11-08,Celta vs Levante,Aleix Febas,To score at least 2 goals,1.5,71.0,0.0141,0.0002,0,0.0,0
+2026-11-08,Celta vs Levante,Javi Rodríguez,To score at least 2 goals,1.5,76.0,0.0132,0.0052,1,0.0,0
+2026-11-08,Celta vs Levante,Hugo Burcio,To score at least 2 goals,1.5,71.0,0.0141,0.0003,0,0.0,0
+2026-11-08,Celta vs Levante,Iván Romero,To score at least 2 goals,1.5,25.0,0.04,0.0015,0,0.0,0
+2026-11-08,Celta vs Levante,Iago Aspas,To Get a Card,0.5,4.3,0.2326,0.123,1,0.0,0
+2026-11-08,Celta vs Levante,Pablo Durán,To score at least 3 goals,2.5,91.0,0.011,0.0013,1,0.0,0
+2026-11-08,Celta vs Levante,Ferran Jutgla,Player's shots on target,0.5,1.45,0.6897,0.1271,0,0.0,0
+2026-11-08,Celta vs Levante,Iván Romero,Player's shots on target,0.5,1.68,0.5952,0.1625,0,0.0,0
+2026-11-08,Celta vs Levante,Pablo Durán,To Score,0.5,3.4,0.2941,0.1896,1,0.0,0
+2026-11-08,Celta vs Levante,Pablo Durán,To score at least 2 goals,1.5,18.0,0.0556,0.0192,1,0.0,0
+2026-11-08,Celta vs Levante,Iván Romero,To give an assist,0.5,4.7,0.2128,0.0104,0,0.0,0
+2026-11-08,Celta vs Levante,Couhaib Driouech,To score at least 2 goals,1.5,31.0,0.0323,0.0179,1,0.0,0
+2026-11-08,Celta vs Levante,Ilaix Moriba,To Score,0.5,6.75,0.1481,0.0909,1,0.0,0
+2026-11-08,Celta vs Levante,Couhaib Driouech,To Score,0.5,4.7,0.2128,0.183,1,0.0,0
+2026-11-08,Celta vs Levante,Williot Swedberg,Player's shots on target,0.5,1.86,0.5376,0.1179,0,0.0,0
+2026-11-08,Celta vs Levante,Hugo González,To Score,0.5,3.7,0.2703,0.0297,0,0.0,0
+2026-11-08,Celta vs Levante,Thiago Fernandez,To give an assist,0.5,6.75,0.1481,0.1424,1,0.0,0
+2026-11-08,Celta vs Levante,Petar Ratkov,To give an assist,0.5,5.4,0.1852,0.0228,0,0.0,0
+2026-11-08,Celta vs Levante,Sergio Carreira,To Score,0.5,10.5,0.0952,0.051,1,0.0,0
+2026-11-08,Celta vs Levante,Petar Ratkov,Player's shots on target,0.5,2.1,0.4762,0.0958,0,0.0,0
+2026-11-08,Celta vs Levante,Sergio Carreira,To Get a Card,0.5,3.2,0.3125,0.1208,1,0.0,0
+2026-11-08,Celta vs Levante,Roger Brugué,To score at least 2 goals,1.5,36.0,0.0278,0.0266,1,0.0,0
+2026-11-08,Celta vs Levante,Hugo Álvarez,To Score,0.5,4.8,0.2083,0.0336,0,0.0,0
+2026-11-08,Celta vs Levante,Thiago Fernandez,Player's shots on target,1.5,5.8,0.1724,0.0508,1,0.0,0
+2026-11-08,Celta vs Levante,Javi Rodríguez,To give an assist,0.5,10.5,0.0952,0.0626,1,0.0,0
+2026-11-08,Celta vs Levante,Iván Romero,Player's shots on target,1.5,4.2,0.2381,0.014,0,0.0,0
+2026-11-08,Celta vs Levante,Enzo Bardeli,To score at least 2 goals,1.5,51.0,0.0196,0.0009,0,0.0,0
+2026-11-08,Celta vs Levante,Iago Aspas,To score at least 3 goals,2.5,81.0,0.0123,0.0009,1,0.0,0
+2026-11-08,Celta vs Levante,Williot Swedberg,Player's shots on target,1.5,5.0,0.2,0.0072,0,0.0,0
+2026-11-08,Celta vs Levante,Ferran Jutgla,To score at least 3 goals,2.5,61.0,0.0164,0.0,0,0.0,0
+2026-11-08,Celta vs Levante,Jeremy Toljan,Player's shots on target,0.5,5.1,0.1961,0.0608,1,0.0,0
+2026-11-08,Celta vs Levante,Abdoulaye Faye,Player's shots on target,0.5,4.5,0.2222,0.0669,0,0.0,0
+2026-11-08,Celta vs Levante,Hugo Sotelo,Player's shots on target,0.5,4.1,0.2439,0.18,1,0.0,0
+2026-11-08,Celta vs Levante,Ifeanyi Ndukwe,To give an assist,0.5,14.0,0.0714,0.0245,1,0.0,0
+2026-11-08,Celta vs Levante,Aïssa Mandi,Player's shots on target,0.5,5.75,0.1739,0.1085,1,0.0,0
+2026-11-08,Celta vs Levante,Roger Brugué,Player's shots on target,1.5,6.5,0.1538,0.1469,1,0.0,0
+2026-11-08,Celta vs Levante,Aïssa Mandi,To give an assist,0.5,16.0,0.0625,0.0158,1,0.0,0
+2026-11-08,Celta vs Levante,Sebastián Cáceres,Player's shots on target,0.5,4.8,0.2083,0.0613,1,0.0,0
+2026-11-08,Celta vs Levante,Yoel Lago,To give an assist,0.5,11.5,0.087,0.0082,0,0.0,0
+2026-11-08,Celta vs Levante,Hugo Sotelo,To give an assist,0.5,9.0,0.1111,0.0703,1,0.0,0
+2026-11-08,Celta vs Levante,Ifeanyi Ndukwe,Player's shots on target,0.5,5.75,0.1739,0.1179,1,0.0,0
+2026-11-08,Celta vs Levante,Marcos Alonso,To give an assist,0.5,8.0,0.125,0.0156,1,0.0,0
+2026-11-08,Celta vs Levante,Sergio Carreira,Player's shots on target,0.5,4.5,0.2222,0.237,1,0.0,0
+2026-11-08,Celta vs Levante,Petar Ratkov,Player's shots on target,1.5,6.25,0.16,0.0047,0,0.0,0
+2026-11-08,Celta vs Levante,Sergio Carreira,To give an assist,0.5,8.5,0.1176,0.0795,1,0.0,0
+2026-11-08,Celta vs Levante,Jorge Cabello,Player's shots on target,0.5,5.75,0.1739,0.0608,0,0.0,0
+2026-11-08,Celta vs Levante,Yoel Lago,Player's shots on target,0.5,4.3,0.2326,0.0488,0,0.0,0
+2026-11-08,Celta vs Levante,Jeremy Toljan,To give an assist,0.5,10.5,0.0952,0.083,1,0.0,0
+2026-11-08,Celta vs Levante,Enzo Bardeli,To give an assist,0.5,8.5,0.1176,0.0294,0,0.0,0
+2026-11-08,Celta vs Levante,Adrián De La Fuente,To give an assist,0.5,16.0,0.0625,0.0097,0,0.0,0
+2026-11-08,Celta vs Levante,Nacho Pérez,To give an assist,0.5,14.0,0.0714,0.0226,1,0.0,0
+2026-11-08,Celta vs Levante,Hugo Burcio,To give an assist,0.5,9.0,0.1111,0.0107,0,0.0,0
+2026-11-08,Celta vs Levante,Sebastián Cáceres,To give an assist,0.5,12.0,0.0833,0.0182,1,0.0,0
+2026-11-08,Celta vs Levante,Adrián De La Fuente,To score at least 2 goals,1.5,91.0,0.011,0.0008,0,0.0,0
+2026-11-08,Celta vs Levante,Hugo González,Player's shots on target,1.5,4.3,0.2326,0.0082,0,0.0,0
+2026-11-08,Celta vs Levante,Couhaib Driouech,Player's shots on target,1.5,6.25,0.16,0.1143,1,0.0,0
+2026-11-08,Celta vs Levante,Jon Ander Olasagasti,Player's shots on target,0.5,3.5,0.2857,0.2938,1,0.0,0
+2026-11-08,Celta vs Levante,Hugo Álvarez,Player's shots on target,1.5,7.0,0.1429,0.0033,0,0.0,0
+2026-11-08,Celta vs Levante,Abdoulaye Faye,To give an assist,0.5,15.0,0.0667,0.0094,0,0.0,0
+2026-11-08,Celta vs Levante,Iago Aspas,Player's shots on target,1.5,4.0,0.25,0.0935,1,1.0,0
+2026-11-08,Celta vs Levante,Nacho Pérez,Player's shots on target,0.5,4.7,0.2128,0.1781,1,0.0,0
+2026-11-08,Celta vs Levante,Thiago Fernandez,Player's shots on target,0.5,2.04,0.4902,0.3014,1,0.0,0
+2026-11-08,Celta vs Levante,Hugo Burcio,Player's shots on target,0.5,3.6,0.2778,0.0751,0,0.0,0
+2026-11-08,Celta vs Levante,Marcos Alonso,To Score,0.5,7.5,0.1333,0.0223,1,0.0,0
+2026-11-08,Celta vs Levante,Roger Brugué,To Score,0.5,5.2,0.1923,0.2218,1,0.0,0
+2026-11-08,Celta vs Levante,Hugo González,To Get a Card,0.5,3.5,0.2857,0.0179,0,0.0,0
+2026-11-08,Celta vs Levante,Adrián De La Fuente,To Get a Card,0.5,2.8,0.3571,0.0474,0,1.0,1
+2026-11-08,Celta vs Levante,Iago Aspas,Player's shots on target,0.5,1.64,0.6098,0.3999,1,1.0,1
+2026-11-08,Celta vs Levante,Aleix Febas,To Get a Card,0.5,3.2,0.3125,0.0458,0,0.0,0
+2026-11-08,Celta vs Levante,Couhaib Driouech,To give an assist,0.5,4.8,0.2083,0.1475,1,0.0,0
+2026-11-08,Celta vs Levante,Thiago Fernandez,To Score,0.5,5.0,0.2,0.0654,1,0.0,0
+2026-11-08,Celta vs Levante,Thiago Fernandez,To score at least 2 goals,1.5,35.0,0.0286,0.0022,1,0.0,0
+2026-11-08,Celta vs Levante,Ifeanyi Ndukwe,To Score,0.5,15.0,0.0667,0.0638,1,0.0,0
+2026-11-08,Celta vs Levante,Jorge Cabello,To Get a Card,0.5,3.4,0.2941,0.0249,0,0.0,0
+2026-11-08,Celta vs Levante,Javi Rodríguez,Player's shots on target,0.5,3.4,0.2941,0.1861,1,0.0,0
+2026-11-08,Celta vs Levante,Javi Rodríguez,To Score,0.5,7.5,0.1333,0.1001,1,0.0,0
+2026-11-08,Celta vs Levante,Pablo Durán,Player's shots on target,0.5,1.66,0.6024,0.512,1,5.0,1
+2026-11-08,Celta vs Levante,Aïssa Mandi,To Score,0.5,15.0,0.0667,0.0194,1,0.0,0
+2026-11-08,Celta vs Levante,Pablo Durán,To give an assist,0.5,3.8,0.2632,0.0525,1,0.0,0
+2026-11-08,Celta vs Levante,Enzo Bardeli,Player's shots on target,0.5,2.45,0.4082,0.1054,0,0.0,0
+2026-11-08,Celta vs Levante,Hugo Álvarez,To score at least 2 goals,1.5,35.0,0.0286,0.0006,0,0.0,0
+2026-11-08,Celta vs Levante,Aleix Febas,To Score,0.5,6.75,0.1481,0.0192,0,0.0,0
+2026-11-08,Celta vs Levante,Sebastián Cáceres,To Get a Card,0.5,3.1,0.3226,0.1532,1,0.0,0
+2026-11-08,Celta vs Levante,Abdoulaye Faye,To Score,0.5,10.5,0.0952,0.0211,0,0.0,0
+2026-11-08,Celta vs Levante,Hugo González,Player's shots on target,0.5,1.74,0.5747,0.1255,0,0.0,0
+2026-11-08,Celta vs Levante,Marcos Alonso,To score at least 2 goals,1.5,71.0,0.0141,0.0003,1,0.0,0
+2026-11-08,Celta vs Levante,Roger Brugué,To give an assist,0.5,6.5,0.1538,0.0869,1,0.0,0
+2026-11-08,Celta vs Levante,Ferran Jutgla,To give an assist,0.5,3.5,0.2857,0.015,0,0.0,0
+2026-11-08,Celta vs Levante,Hugo Sotelo,To Score,0.5,11.5,0.087,0.055,1,0.0,0
+2026-11-08,Celta vs Levante,Enzo Bardeli,To Score,0.5,6.0,0.1667,0.0418,0,0.0,0
+2026-11-08,Celta vs Levante,Hugo Burcio,To Get a Card,0.5,3.4,0.2941,0.0198,0,0.0,0
+2026-11-08,Celta vs Levante,Adrián De La Fuente,Player's shots on target,0.5,3.4,0.2941,0.1133,0,0.0,0
+2026-11-08,Celta vs Levante,Enzo Bardeli,To Get a Card,0.5,3.4,0.2941,0.0177,0,0.0,0
+2026-11-08,Celta vs Levante,Jon Ander Olasagasti,To Score,0.5,9.5,0.1053,0.0751,1,0.0,0
+2026-11-08,Celta vs Levante,Marcos Alonso,Player's shots on target,0.5,3.3,0.303,0.0774,1,0.0,0
+2026-11-08,Celta vs Levante,Roger Brugué,To Get a Card,0.5,4.0,0.25,0.1107,1,0.0,0
+2026-11-08,Celta vs Levante,Ferran Jutgla,To Score,0.5,3.05,0.3279,0.0535,0,0.0,0
+2026-11-08,Celta vs Levante,Ferran Jutgla,To score at least 2 goals,1.5,13.0,0.0769,0.0015,0,0.0,0
+2026-11-08,Celta vs Levante,Iván Romero,To Score,0.5,4.0,0.25,0.0535,0,0.0,0
+2026-11-08,Celta vs Levante,Couhaib Driouech,Player's shots on target,0.5,2.08,0.4808,0.4383,1,0.0,0
+2026-11-08,Celta vs Levante,Aïssa Mandi,To Get a Card,0.5,3.7,0.2703,0.1814,1,0.0,0
+2026-11-08,Celta vs Levante,Thiago Fernandez,To Get a Card,0.5,3.4,0.2941,0.1253,1,0.0,0
+2026-11-08,Celta vs Levante,Ilaix Moriba,To Get a Card,0.5,3.2,0.3125,0.2033,1,0.0,0
+2026-11-08,Celta vs Levante,Hugo González,To score at least 2 goals,1.5,19.0,0.0526,0.0004,0,0.0,0
+2026-11-08,Celta vs Levante,Petar Ratkov,To Get a Card,0.5,4.0,0.25,0.024,0,0.0,0
+2026-11-08,Celta vs Levante,Marcos Alonso,To Get a Card,0.5,3.2,0.3125,0.1713,1,0.0,0
+2026-11-08,Celta vs Levante,Yoel Lago,To Score,0.5,9.5,0.1053,0.0173,0,0.0,0
+2026-11-08,Celta vs Levante,Javi Rodríguez,To Get a Card,0.5,3.6,0.2778,0.1067,1,0.0,0
+2026-11-08,Celta vs Levante,Jon Ander Olasagasti,To give an assist,0.5,6.5,0.1538,0.1229,1,0.0,0
+2026-11-08,Celta vs Levante,Ilaix Moriba,To give an assist,0.5,6.0,0.1667,0.0663,1,0.0,0
+2026-11-08,Celta vs Levante,Jeremy Toljan,To Score,0.5,14.0,0.0714,0.0181,1,0.0,0
+2026-11-08,Celta vs Levante,Hugo González,To give an assist,0.5,4.7,0.2128,0.0247,0,0.0,0
+2026-11-08,Celta vs Levante,Hugo Sotelo,To Get a Card,0.5,3.7,0.2703,0.1625,1,0.0,0
+2026-11-08,Celta vs Levante,Williot Swedberg,To Get a Card,0.5,4.2,0.2381,0.0481,0,0.0,0
+2026-11-08,Celta vs Levante,Ferran Jutgla,To Get a Card,0.5,4.3,0.2326,0.0189,0,0.0,0
+2026-11-08,Celta vs Levante,Ifeanyi Ndukwe,To Get a Card,0.5,3.1,0.3226,0.1035,1,0.0,0
+2026-11-08,Celta vs Levante,Nacho Pérez,To Get a Card,0.5,3.1,0.3226,0.1193,1,0.0,0
+2026-11-08,Celta vs Levante,Ferran Jutgla,Player's shots on target,1.5,3.3,0.303,0.0084,0,0.0,0
+2026-11-08,Celta vs Levante,Ilaix Moriba,To score at least 2 goals,1.5,61.0,0.0164,0.0043,1,0.0,0
+2026-11-08,Celta vs Levante,Hugo Álvarez,Player's shots on target,0.5,2.3,0.4348,0.0802,0,0.0,0
+2026-11-08,Celta vs Levante,Aleix Febas,Player's shots on target,0.5,3.2,0.3125,0.0615,0,0.0,0
+2026-11-08,Celta vs Levante,Petar Ratkov,To score at least 2 goals,1.5,41.0,0.0244,0.0006,0,0.0,0
+2026-11-08,Celta vs Levante,Petar Ratkov,To Score,0.5,5.2,0.1923,0.0344,0,0.0,0
+2026-11-08,Celta vs Levante,Aleix Febas,To give an assist,0.5,6.25,0.16,0.012,0,0.0,0
+2026-11-08,Celta vs Levante,Couhaib Driouech,To Get a Card,0.5,3.6,0.2778,0.1608,1,0.0,0
+2026-11-08,Celta vs Levante,Iago Aspas,To give an assist,0.5,3.7,0.2703,0.111,1,0.0,0
+2026-11-08,Celta vs Levante,Sebastián Cáceres,To Score,0.5,10.5,0.0952,0.0164,1,0.0,0
+2026-11-08,Celta vs Levante,Yoel Lago,To Get a Card,0.5,3.0,0.3333,0.0487,0,0.0,0
+2026-11-08,Celta vs Levante,Ilaix Moriba,Player's shots on target,0.5,3.2,0.3125,0.2069,1,0.0,0
+2026-11-08,Celta vs Levante,Williot Swedberg,To give an assist,0.5,4.4,0.2273,0.0362,0,0.0,0
+2026-11-08,Celta vs Levante,Iago Aspas,To score at least 2 goals,1.5,16.0,0.0625,0.0152,1,0.0,0
+2026-11-08,Celta vs Levante,Nacho Pérez,To Score,0.5,13.0,0.0769,0.0652,1,0.0,0
+2026-11-08,Celta vs Levante,Abdoulaye Faye,To Get a Card,0.5,3.2,0.3125,0.0461,0,0.0,0
+2026-11-08,Celta vs Levante,Jon Ander Olasagasti,To Get a Card,0.5,3.2,0.3125,0.098,1,0.0,0
+2026-11-08,Celta vs Levante,Iván Romero,To Get a Card,0.5,4.3,0.2326,0.0381,0,0.0,0
+2026-11-08,Celta vs Levante,Iago Aspas,To Score,0.5,3.4,0.2941,0.1693,1,0.0,0
+2026-11-08,Celta vs Levante,Adrián De La Fuente,To Score,0.5,8.5,0.1176,0.0385,0,0.0,0
+2026-11-08,Celta vs Levante,Hugo Álvarez,To Get a Card,0.5,4.1,0.2439,0.0231,0,0.0,0
+2026-11-08,Villarreal vs Getafe,Alberto Moleiro,Player's shots on target,1.5,3.8,0.2632,0.0852,1,0.0,0
+2026-11-08,Villarreal vs Getafe,Ayoze Pérez,To score at least 3 goals,2.5,51.0,0.0196,0.0,0,0.0,0
+2026-11-08,Villarreal vs Getafe,Carlos Romero,To score at least 2 goals,1.5,71.0,0.0141,0.0024,1,1.0,0
+2026-11-08,Villarreal vs Getafe,Nicolas Pepe,To score at least 3 goals,2.5,67.0,0.0149,0.0,0,0.0,0
+2026-11-08,Villarreal vs Getafe,Renato Veiga,Player's shots on target,0.5,4.0,0.25,0.077,1,0.0,0
+2026-11-08,Villarreal vs Getafe,Santi Comesaña,Player's shots on target,1.5,9.0,0.1111,0.0026,0,0.0,0
+2026-11-08,Villarreal vs Getafe,Renato Veiga,To Score,0.5,9.0,0.1111,0.0169,1,0.0,0
+2026-11-08,Villarreal vs Getafe,Enes Ünal,Player's shots on target,1.5,6.25,0.16,0.0894,1,0.0,0
+2026-11-08,Villarreal vs Getafe,Nemanja Gudelj,Player's shots on target,0.5,5.5,0.1818,0.1491,1,0.0,0
+2026-11-08,Villarreal vs Getafe,Ayoze Pérez,Player's shots on target,1.5,2.8,0.3571,0.012,0,0.0,0
+2026-11-08,Villarreal vs Getafe,Abdel Abqar,Player's shots on target,0.5,7.5,0.1333,0.0536,0,0.0,0
+2026-11-08,Villarreal vs Getafe,Davinchi,Player's shots on target,0.5,5.3,0.1887,0.0781,0,0.0,0
+2026-11-08,Villarreal vs Getafe,Dani Carvajal,To give an assist,0.5,17.0,0.0588,0.0644,1,0.0,0
+2026-11-08,Villarreal vs Getafe,Francho Serrano,To give an assist,0.5,8.0,0.125,0.0331,0,0.0,0
+2026-11-08,Villarreal vs Getafe,Pape Gueye,Player's shots on target,1.5,5.3,0.1887,0.0852,1,1.0,0
+2026-11-08,Villarreal vs Getafe,Andrés García,To give an assist,0.5,9.5,0.1053,0.0932,1,0.0,0
+2026-11-08,Villarreal vs Getafe,Pape Gueye,To Score,0.5,4.0,0.25,0.1416,1,0.0,0
+2026-11-08,Villarreal vs Getafe,Santiago Mouriño,Player's shots on target,0.5,4.0,0.25,0.1693,1,1.0,1
+2026-11-08,Villarreal vs Getafe,Santi Comesaña,To give an assist,0.5,5.8,0.1724,0.0206,0,0.0,0
+2026-11-08,Villarreal vs Getafe,Georges Mikautadze,Player's shots on target,1.5,2.12,0.4717,0.2486,1,0.0,0
+2026-11-08,Villarreal vs Getafe,Mario Martín,To give an assist,0.5,7.5,0.1333,0.0545,1,0.0,0
+2026-11-08,Villarreal vs Getafe,Saba Sazonov,To Get a Card,0.5,3.1,0.3226,0.0378,0,0.0,0
+2026-11-08,Villarreal vs Getafe,Carlos Romero,To Score,0.5,7.5,0.1333,0.0683,1,1.0,1
+2026-11-08,Villarreal vs Getafe,Kiko Femenía,To Get a Card,0.5,2.65,0.3774,0.0599,0,0.0,0
+2026-11-08,Villarreal vs Getafe,Francho Serrano,Player's shots on target,0.5,3.9,0.2564,0.087,0,0.0,0
+2026-11-08,Villarreal vs Getafe,Mario Martín,To Get a Card,0.5,2.5,0.4,0.2772,1,1.0,1
+2026-11-08,Villarreal vs Getafe,Tani Oluwaseyi,Player's shots on target,0.5,1.52,0.6579,0.392,1,1.0,1
+2026-11-08,Villarreal vs Getafe,Renato Veiga,To Get a Card,0.5,3.8,0.2632,0.1993,1,1.0,1
+2026-11-08,Villarreal vs Getafe,Iván Azón,To Score,0.5,4.5,0.2222,0.0418,0,0.0,0
+2026-11-08,Villarreal vs Getafe,Logan Costa,To Score,0.5,9.0,0.1111,0.0295,1,0.0,0
+2026-11-08,Villarreal vs Getafe,Ayoze Pérez,Player's shots on target,0.5,1.33,0.7519,0.1511,0,0.0,0
+2026-11-08,Villarreal vs Getafe,Santi Comesaña,To Score,0.5,5.5,0.1818,0.0221,0,0.0,0
+2026-11-08,Villarreal vs Getafe,Enes Ünal,To score at least 2 goals,1.5,36.0,0.0278,0.0155,1,0.0,0
+2026-11-08,Villarreal vs Getafe,Kiko Femenía,To Score,0.5,18.0,0.0556,0.0198,0,0.0,0
+2026-11-08,Villarreal vs Getafe,Sergi Cardona,To Get a Card,0.5,3.7,0.2703,0.049,0,0.0,0
+2026-11-08,Villarreal vs Getafe,Martín Satriano,To Get a Card,0.5,3.2,0.3125,0.1201,1,0.0,0
+2026-11-08,Villarreal vs Getafe,Nicolas Pepe,To Score,0.5,3.2,0.3125,0.0532,0,0.0,0
+2026-11-08,Villarreal vs Getafe,Abdel Abqar,To Score,0.5,20.0,0.05,0.0175,0,0.0,0
+2026-11-08,Villarreal vs Getafe,Pau Navarro,To Score,0.5,9.0,0.1111,0.0178,0,0.0,0
+2026-11-08,Villarreal vs Getafe,Andrés García,Player's shots on target,0.5,7.5,0.1333,0.2412,1,0.0,0
+2026-11-08,Villarreal vs Getafe,Nathan Saliba,Player's shots on target,1.5,6.25,0.16,0.0037,0,0.0,0
+2026-11-08,Villarreal vs Getafe,Mario Martín,Player's shots on target,0.5,3.6,0.2778,0.2569,1,0.0,0
+2026-11-08,Villarreal vs Getafe,Tani Oluwaseyi,Player's shots on target,1.5,3.5,0.2857,0.0894,1,1.0,0
+2026-11-08,Villarreal vs Getafe,Kiko Femenía,Player's shots on target,0.5,7.5,0.1333,0.0534,0,0.0,0
+2026-11-08,Villarreal vs Getafe,Iván Azón,To give an assist,0.5,8.0,0.125,0.0327,0,0.0,0
+2026-11-08,Villarreal vs Getafe,Davinchi,To give an assist,0.5,10.5,0.0952,0.0109,0,0.0,0
+2026-11-08,Villarreal vs Getafe,Johan Mojica,Player's shots on target,0.5,7.0,0.1429,0.0624,1,0.0,0
+2026-11-08,Villarreal vs Getafe,Logan Costa,To give an assist,0.5,9.0,0.1111,0.036,1,0.0,0
+2026-11-08,Villarreal vs Getafe,Carlos Romero,To give an assist,0.5,8.5,0.1176,0.044,1,0.0,0
+2026-11-08,Villarreal vs Getafe,Santiago Mouriño,To score at least 2 goals,1.5,91.0,0.011,0.0026,1,0.0,0
+2026-11-08,Villarreal vs Getafe,Pau Navarro,To score at least 2 goals,1.5,101.0,0.0099,0.0002,0,0.0,0
+2026-11-08,Villarreal vs Getafe,Sergi Cardona,To score at least 2 goals,1.5,101.0,0.0099,0.0004,0,0.0,0
+2026-11-08,Villarreal vs Getafe,Tani Oluwaseyi,To score at least 3 goals,2.5,76.0,0.0132,0.0008,1,0.0,0
+2026-11-08,Villarreal vs Getafe,Ayoze Pérez,Player's shots on target,2.5,6.25,0.16,0.0006,0,0.0,0
+2026-11-08,Villarreal vs Getafe,Nicolas Pepe,Player's shots on target,2.5,8.0,0.125,0.0009,0,0.0,0
+2026-11-08,Villarreal vs Getafe,Logan Costa,To score at least 2 goals,1.5,101.0,0.0099,0.0004,1,0.0,0
+2026-11-08,Villarreal vs Getafe,Santiago Mouriño,To give an assist,0.5,9.5,0.1053,0.0296,1,0.0,0
+2026-11-08,Villarreal vs Getafe,Saba Sazonov,Player's shots on target,0.5,7.5,0.1333,0.0746,0,0.0,0
+2026-11-08,Villarreal vs Getafe,Georges Mikautadze,Player's shots on target,2.5,4.2,0.2381,0.0726,1,0.0,0
+2026-11-08,Villarreal vs Getafe,Orel Mangala,Player's shots on target,0.5,7.0,0.1429,0.2492,1,0.0,0
+2026-11-08,Villarreal vs Getafe,Dani Carvajal,Player's shots on target,0.5,7.5,0.1333,0.1001,1,0.0,0
+2026-11-08,Villarreal vs Getafe,Pau Navarro,Player's shots on target,0.5,4.0,0.25,0.0547,0,0.0,0
+2026-11-08,Villarreal vs Getafe,Sebastián Boselli,Player's shots on target,0.5,7.5,0.1333,0.1323,1,0.0,0
+2026-11-08,Villarreal vs Getafe,Martín Satriano,Player's shots on target,1.5,6.25,0.16,0.1106,1,0.0,0
+2026-11-08,Villarreal vs Getafe,Logan Costa,Player's shots on target,0.5,4.0,0.25,0.0963,1,1.0,1
+2026-11-08,Villarreal vs Getafe,Pau Navarro,To give an assist,0.5,12.0,0.0833,0.0079,0,0.0,0
+2026-11-08,Villarreal vs Getafe,Johan Mojica,To give an assist,0.5,11.5,0.087,0.0519,1,0.0,0
+2026-11-08,Villarreal vs Getafe,Renato Veiga,To give an assist,0.5,10.0,0.1,0.0375,1,0.0,0
+2026-11-08,Villarreal vs Getafe,Ramon Terrats,To give an assist,0.5,10.0,0.1,0.0164,0,0.0,0
+2026-11-08,Villarreal vs Getafe,Nemanja Gudelj,To give an assist,0.5,17.0,0.0588,0.0178,1,0.0,0
+2026-11-08,Villarreal vs Getafe,Orel Mangala,To give an assist,0.5,17.0,0.0588,0.0411,1,0.0,0
+2026-11-08,Villarreal vs Getafe,Alberto Moleiro,To score at least 3 goals,2.5,76.0,0.0132,0.0005,1,0.0,0
+2026-11-08,Villarreal vs Getafe,Renato Veiga,To score at least 2 goals,1.5,101.0,0.0099,0.0001,1,0.0,0
+2026-11-08,Villarreal vs Getafe,Nicolas Pepe,Player's shots on target,1.5,3.3,0.303,0.0153,0,0.0,0
+2026-11-08,Villarreal vs Getafe,Tajon Buchanan,Player's shots on target,1.5,6.25,0.16,0.078,1,2.0,1
+2026-11-08,Villarreal vs Getafe,Sergi Cardona,Player's shots on target,0.5,4.0,0.25,0.0827,0,0.0,0
+2026-11-08,Villarreal vs Getafe,Iván Azón,Player's shots on target,1.5,5.2,0.1923,0.0131,0,1.0,0
+2026-11-08,Villarreal vs Getafe,Sergi Cardona,To give an assist,0.5,8.5,0.1176,0.0249,0,0.0,0
+2026-11-08,Villarreal vs Getafe,Alberto Moleiro,To give an assist,0.5,3.8,0.2632,0.1615,1,0.0,0
+2026-11-08,Villarreal vs Getafe,Sebastián Boselli,To Get a Card,0.5,2.75,0.3636,0.2258,1,0.0,0
+2026-11-08,Villarreal vs Getafe,Nathan Saliba,To score at least 2 goals,1.5,29.0,0.0345,0.0003,0,0.0,0
+2026-11-08,Villarreal vs Getafe,Nathan Saliba,To Score,0.5,4.3,0.2326,0.0236,0,0.0,0
+2026-11-08,Villarreal vs Getafe,Pape Gueye,Player's shots on target,0.5,1.93,0.5181,0.3834,1,1.0,1
+2026-11-08,Villarreal vs Getafe,Martín Satriano,To Score,0.5,5.0,0.2,0.2049,1,0.0,0
+2026-11-08,Villarreal vs Getafe,Martín Satriano,To score at least 2 goals,1.5,36.0,0.0278,0.0226,1,0.0,0
+2026-11-08,Villarreal vs Getafe,Alberto Moleiro,To score at least 2 goals,1.5,15.0,0.0667,0.0103,1,0.0,0
+2026-11-08,Villarreal vs Getafe,Francho Serrano,To Score,0.5,10.5,0.0952,0.0182,0,0.0,0
+2026-11-08,Villarreal vs Getafe,Santi Comesaña,To score at least 2 goals,1.5,41.0,0.0244,0.0002,0,0.0,0
+2026-11-08,Villarreal vs Getafe,Tani Oluwaseyi,To Get a Card,0.5,4.2,0.2381,0.1019,1,0.0,0
+2026-11-08,Villarreal vs Getafe,Iván Azón,To Get a Card,0.5,2.8,0.3571,0.0377,0,0.0,0
+2026-11-08,Villarreal vs Getafe,Nicolas Pepe,To score at least 2 goals,1.5,13.0,0.0769,0.0014,0,0.0,0
+2026-11-08,Villarreal vs Getafe,Pau Navarro,To Get a Card,0.5,3.5,0.2857,0.0343,0,0.0,0
+2026-11-08,Villarreal vs Getafe,Alberto Moleiro,To Get a Card,0.5,4.2,0.2381,0.1556,1,0.0,0
+2026-11-08,Villarreal vs Getafe,Nemanja Gudelj,To Score,0.5,15.0,0.0667,0.0381,1,0.0,0
+2026-11-08,Villarreal vs Getafe,Andrés García,To Score,0.5,18.0,0.0556,0.0605,1,0.0,0
+2026-11-08,Villarreal vs Getafe,Martín Satriano,To give an assist,0.5,6.0,0.1667,0.1113,1,0.0,0
+2026-11-08,Villarreal vs Getafe,Georges Mikautadze,To score at least 3 goals,2.5,34.0,0.0294,0.006,1,0.0,0
+2026-11-08,Villarreal vs Getafe,Andrés García,To Get a Card,0.5,2.7,0.3704,0.0826,1,0.0,0
+2026-11-08,Villarreal vs Getafe,Georges Mikautadze,Player's shots on target,0.5,1.17,0.8547,0.6161,1,0.0,0
+2026-11-08,Villarreal vs Getafe,Georges Mikautadze,To Score,0.5,2.35,0.4255,0.3038,1,0.0,0
+2026-11-08,Villarreal vs Getafe,Santiago Mouriño,To Get a Card,0.5,3.3,0.303,0.2536,1,0.0,0
+2026-11-08,Villarreal vs Getafe,Carlos Romero,To Get a Card,0.5,3.5,0.2857,0.1337,1,0.0,0
+2026-11-08,Villarreal vs Getafe,Tani Oluwaseyi,To give an assist,0.5,3.1,0.3226,0.081,1,0.0,0
+2026-11-08,Villarreal vs Getafe,Johan Mojica,To Score,0.5,20.0,0.05,0.0155,1,0.0,0
+2026-11-08,Villarreal vs Getafe,Nicolas Pepe,To Get a Card,0.5,4.5,0.2222,0.0309,0,0.0,0
+2026-11-08,Villarreal vs Getafe,Ayoze Pérez,To Get a Card,0.5,4.7,0.2128,0.035,0,0.0,0
+2026-11-08,Villarreal vs Getafe,Orel Mangala,To Score,0.5,19.0,0.0526,0.0977,1,0.0,0
+2026-11-08,Villarreal vs Getafe,Abdel Abqar,To Get a Card,0.5,2.3,0.4348,0.0729,0,0.0,0
+2026-11-08,Villarreal vs Getafe,Mario Martín,To Score,0.5,10.0,0.1,0.0534,1,0.0,0
+2026-11-08,Villarreal vs Getafe,Nathan Saliba,To give an assist,0.5,4.7,0.2128,0.0173,0,0.0,0
+2026-11-08,Villarreal vs Getafe,Santi Comesaña,To Get a Card,0.5,3.8,0.2632,0.0462,0,1.0,1
+2026-11-08,Villarreal vs Getafe,Dani Carvajal,To Score,0.5,18.0,0.0556,0.0309,1,0.0,0
+2026-11-08,Villarreal vs Getafe,Tajon Buchanan,Player's shots on target,0.5,2.08,0.4808,0.3681,1,2.0,1
+2026-11-08,Villarreal vs Getafe,Nicolas Pepe,To give an assist,0.5,3.1,0.3226,0.0378,0,1.0,1
+2026-11-08,Villarreal vs Getafe,Enes Ünal,To give an assist,0.5,7.0,0.1429,0.0909,1,0.0,0
+2026-11-08,Villarreal vs Getafe,Davinchi,To Get a Card,0.5,2.5,0.4,0.0612,0,0.0,0
+2026-11-08,Villarreal vs Getafe,Georges Mikautadze,To give an assist,0.5,3.0,0.3333,0.1241,1,0.0,0
+2026-11-08,Villarreal vs Getafe,Ayoze Pérez,To Score,0.5,2.8,0.3571,0.0492,0,0.0,0
+2026-11-08,Villarreal vs Getafe,Davinchi,To Score,0.5,14.0,0.0714,0.0243,0,0.0,0
+2026-11-08,Villarreal vs Getafe,Ayoze Pérez,To give an assist,0.5,3.1,0.3226,0.0453,0,1.0,1
+2026-11-08,Villarreal vs Getafe,Logan Costa,To Get a Card,0.5,3.8,0.2632,0.112,1,0.0,0
+2026-11-08,Villarreal vs Getafe,Tajon Buchanan,To score at least 2 goals,1.5,29.0,0.0345,0.0042,1,1.0,0
+2026-11-08,Villarreal vs Getafe,Sergi Cardona,To Score,0.5,9.0,0.1111,0.0298,0,0.0,0
+2026-11-08,Villarreal vs Getafe,Pape Gueye,To Get a Card,0.5,3.8,0.2632,0.1662,1,0.0,0
+2026-11-08,Villarreal vs Getafe,Tajon Buchanan,To give an assist,0.5,4.7,0.2128,0.0521,1,0.0,0
+2026-11-08,Villarreal vs Getafe,Martín Satriano,Player's shots on target,0.5,2.1,0.4762,0.4317,1,0.0,0
+2026-11-08,Villarreal vs Getafe,Pape Gueye,To score at least 2 goals,1.5,23.0,0.0435,0.0105,1,0.0,0
+2026-11-08,Villarreal vs Getafe,Johan Mojica,To Get a Card,0.5,3.0,0.3333,0.2609,1,0.0,0
+2026-11-08,Villarreal vs Getafe,Georges Mikautadze,To score at least 2 goals,1.5,8.0,0.125,0.0517,1,0.0,0
+2026-11-08,Villarreal vs Getafe,Santi Comesaña,Player's shots on target,0.5,2.55,0.3922,0.071,0,0.0,0
+2026-11-08,Villarreal vs Getafe,Iván Azón,Player's shots on target,0.5,1.92,0.5208,0.1576,0,1.0,1
+2026-11-08,Villarreal vs Getafe,Dani Carvajal,To Get a Card,0.5,2.7,0.3704,0.1763,1,0.0,0
+2026-11-08,Villarreal vs Getafe,Santiago Mouriño,To Score,0.5,9.0,0.1111,0.0715,1,0.0,0
+2026-11-08,Villarreal vs Getafe,Tani Oluwaseyi,To Score,0.5,3.3,0.303,0.1646,1,0.0,0
+2026-11-08,Villarreal vs Getafe,Tajon Buchanan,To Get a Card,0.5,4.1,0.2439,0.1959,1,0.0,0
+2026-11-08,Villarreal vs Getafe,Ramon Terrats,Player's shots on target,0.5,3.3,0.303,0.1073,0,0.0,0
+2026-11-08,Villarreal vs Getafe,Ramon Terrats,To Get a Card,0.5,2.6,0.3846,0.0452,0,0.0,0
+2026-11-08,Villarreal vs Getafe,Tajon Buchanan,To Score,0.5,4.5,0.2222,0.0899,1,1.0,1
+2026-11-08,Villarreal vs Getafe,Ramon Terrats,To Score,0.5,9.0,0.1111,0.0288,0,0.0,0
+2026-11-08,Villarreal vs Getafe,Pape Gueye,To give an assist,0.5,5.75,0.1739,0.0486,1,0.0,0
+2026-11-08,Villarreal vs Getafe,Sebastián Boselli,To Score,0.5,20.0,0.05,0.0228,1,0.0,0
+2026-11-08,Villarreal vs Getafe,Enes Ünal,To Score,0.5,5.2,0.1923,0.1708,1,0.0,0
+2026-11-08,Villarreal vs Getafe,Alberto Moleiro,To Score,0.5,3.3,0.303,0.1402,1,0.0,0
+2026-11-08,Villarreal vs Getafe,Tani Oluwaseyi,To score at least 2 goals,1.5,15.0,0.0667,0.0144,1,0.0,0
+2026-11-08,Villarreal vs Getafe,Enes Ünal,Player's shots on target,0.5,2.1,0.4762,0.3919,1,0.0,0
+2026-11-08,Villarreal vs Getafe,Carlos Romero,Player's shots on target,0.5,3.3,0.303,0.2026,1,1.0,1
+2026-11-08,Villarreal vs Getafe,Orel Mangala,To Get a Card,0.5,2.7,0.3704,0.116,1,0.0,0
+2026-11-08,Villarreal vs Getafe,Nathan Saliba,Player's shots on target,0.5,2.07,0.4831,0.0851,0,0.0,0
+2026-11-08,Villarreal vs Getafe,Alberto Moleiro,Player's shots on target,0.5,1.58,0.6329,0.3834,1,0.0,0
+2026-11-08,Villarreal vs Getafe,Ayoze Pérez,To score at least 2 goals,1.5,10.5,0.0952,0.0012,0,0.0,0
+2026-11-08,Villarreal vs Getafe,Nathan Saliba,To Get a Card,0.5,3.5,0.2857,0.0523,0,0.0,0
+2026-11-08,Villarreal vs Getafe,Enes Ünal,To Get a Card,0.5,3.0,0.3333,0.1846,1,0.0,0
+2026-11-08,Villarreal vs Getafe,Iván Azón,To score at least 2 goals,1.5,26.0,0.0385,0.0009,0,0.0,0
+2026-11-08,Villarreal vs Getafe,Nemanja Gudelj,To Get a Card,0.5,2.9,0.3448,0.2571,1,1.0,1
+2026-11-08,Villarreal vs Getafe,Georges Mikautadze,To Get a Card,0.5,5.5,0.1818,0.0966,1,0.0,0
+2026-11-08,Villarreal vs Getafe,Nicolas Pepe,Player's shots on target,0.5,1.46,0.6849,0.1696,0,0.0,0
+2026-11-08,Villarreal vs Getafe,Francho Serrano,To Get a Card,0.5,2.8,0.3571,0.0275,0,0.0,0
+2026-11-08,Villarreal vs Getafe,Saba Sazonov,To Score,0.5,18.0,0.0556,0.0267,0,0.0,0
 2026-11-08,Estrela vs Benfica,Robinho,To Score,0.5,8.0,0.125,0.0212,1,0.0,0
 2026-11-08,Rio Ave vs Sp Braga,Zé Carlos,To Score,0.5,14.0,0.0714,0.021,0,0.0,0
