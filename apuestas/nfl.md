@@ -1,6 +1,6 @@
 # 🏈 NFL·NCAA · apuestas de valor
 
-Actualizado 08/11/2026 15:38 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 08/11/2026 16:06 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Indianapolis Colts vs Dallas Cowboys — 08/11 · 19:00
 
