@@ -60463,34 +60463,34 @@ id,tournament_id,club1,club2,ht1,ht2
 2369117,261352,Al Ittihad,FC Seoul,,
 2369118,261352,Al Hilal,Al Ittihad,,
 2369119,261352,Al Ahli,Gangwon FC,,
-2368525,261311,Czechia,Netherlands,2,1
-2370003,261311,Germany,Morocco,2,1
-2370004,261311,Germany,Czechia,2,2
-2370005,261311,Morocco,Netherlands,2,0
-2370006,261311,Netherlands,Germany,1,1
-2370007,261311,Morocco,Czechia,1,3
-2370008,261311,Czechia,Netherlands,5,1
-2370009,261311,Germany,Morocco,1,1
-2370010,261311,Germany,Czechia,1,3
-2370011,261311,Morocco,Netherlands,1,4
-2370012,261311,Netherlands,Germany,2,3
-2370013,261311,Morocco,Czechia,1,0
-2370014,261311,Czechia,Netherlands,6,2
-2370015,261311,Germany,Morocco,0,3
-2368540,261311,Germany,Czechia,3,0
-2368541,261311,Morocco,Netherlands,1,1
-2370016,261311,Netherlands,Germany,2,2
-2370017,261311,Morocco,Czechia,0,2
-2369400,261334,Bayern Munchen,Paris,1,0
-2369401,261334,Liverpool,Atleti,1,0
-2369402,261334,Atleti,Bayern Munchen,2,1
-2369403,261334,Paris,Real Madrid,3,2
-2369404,261334,Real Madrid,Atleti,0,2
-2369405,261334,Bayern Munchen,Liverpool,3,5
-2369406,261334,Liverpool,Real Madrid,1,2
-2369407,261334,Atleti,Paris,1,2
-2369408,261334,Paris,Liverpool,1,2
-2369409,261334,Real Madrid,Bayern Munchen,1,3
+2368525,261311,Czechia,Netherlands,2.0,1.0
+2370003,261311,Germany,Morocco,2.0,1.0
+2370004,261311,Germany,Czechia,2.0,2.0
+2370005,261311,Morocco,Netherlands,2.0,0.0
+2370006,261311,Netherlands,Germany,1.0,1.0
+2370007,261311,Morocco,Czechia,1.0,3.0
+2370008,261311,Czechia,Netherlands,5.0,1.0
+2370009,261311,Germany,Morocco,1.0,1.0
+2370010,261311,Germany,Czechia,1.0,3.0
+2370011,261311,Morocco,Netherlands,1.0,4.0
+2370012,261311,Netherlands,Germany,2.0,3.0
+2370013,261311,Morocco,Czechia,1.0,0.0
+2370014,261311,Czechia,Netherlands,6.0,2.0
+2370015,261311,Germany,Morocco,0.0,3.0
+2368540,261311,Germany,Czechia,3.0,0.0
+2368541,261311,Morocco,Netherlands,1.0,1.0
+2370016,261311,Netherlands,Germany,2.0,2.0
+2370017,261311,Morocco,Czechia,0.0,2.0
+2369400,261334,Bayern Munchen,Paris,1.0,0.0
+2369401,261334,Liverpool,Atleti,1.0,0.0
+2369402,261334,Atleti,Bayern Munchen,2.0,1.0
+2369403,261334,Paris,Real Madrid,3.0,2.0
+2369404,261334,Real Madrid,Atleti,0.0,2.0
+2369405,261334,Bayern Munchen,Liverpool,3.0,5.0
+2369406,261334,Liverpool,Real Madrid,1.0,2.0
+2369407,261334,Atleti,Paris,1.0,2.0
+2369408,261334,Paris,Liverpool,1.0,2.0
+2369409,261334,Real Madrid,Bayern Munchen,1.0,3.0
 2369410,261334,Paris,Bayern Munchen,,
 2369411,261334,Atleti,Liverpool,,
 2369412,261334,Bayern Munchen,Atleti,,
