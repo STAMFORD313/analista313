@@ -1729,5 +1729,47 @@
   "estado": "pendiente",
   "avisada": false,
   "rev": 1
+ },
+ {
+  "id": "20261108194804282922",
+  "creada": "2026-11-08 19:48:04.282959+00:00",
+  "titulo": "Barrido · Combinada cuota 7.2",
+  "legs": [
+   {
+    "code": null,
+    "start": "2026-11-08 20:00:00+00:00",
+    "home": "Cerro Porteno",
+    "away": "Deportivo Recoleta",
+    "txt": "Gana Cerro Porteno",
+    "odds": 1.56,
+    "p": 0.7193
+   },
+   {
+    "code": null,
+    "start": "2026-11-08 20:00:00+00:00",
+    "home": "Vasco da Gama",
+    "away": "Palmeiras",
+    "txt": "Gana Vasco da Gama",
+    "odds": 2.55,
+    "p": 0.4105
+   },
+   {
+    "src": "espn:nhl",
+    "side": "A",
+    "code": null,
+    "start": "2026-11-10 02:30:00+00:00",
+    "home": "Vancouver Canucks",
+    "away": "Philadelphia Flyers",
+    "txt": "Gana Philadelphia Flyers",
+    "odds": 1.82,
+    "p": 0.5653803663003663
+   }
+  ],
+  "odds": 7.24,
+  "p": 0.16694135901547985,
+  "stake": 1.0,
+  "estado": "pendiente",
+  "avisada": false,
+  "rev": 1
  }
 ]
