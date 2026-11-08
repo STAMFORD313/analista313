@@ -1599,5 +1599,47 @@
   "estado": "pendiente",
   "avisada": false,
   "rev": 1
+ },
+ {
+  "id": "20261108055501238414",
+  "creada": "2026-11-08 05:55:01.238466+00:00",
+  "titulo": "Barrido · Combinada cuota 11.9",
+  "legs": [
+   {
+    "code": null,
+    "start": "2026-11-08 10:30:00+00:00",
+    "home": "Parnu Vaprus II",
+    "away": "Narva Trans II",
+    "txt": "Gana Parnu Vaprus II",
+    "odds": 2.25,
+    "p": 0.4747
+   },
+   {
+    "code": null,
+    "start": "2026-11-08 12:00:00+00:00",
+    "home": "Stabaek",
+    "away": "Stromsgodset",
+    "txt": "Gana Stabaek",
+    "odds": 2.18,
+    "p": 0.4796
+   },
+   {
+    "src": "espn:nfl",
+    "side": "A",
+    "code": null,
+    "start": "2026-11-08 18:00:00+00:00",
+    "home": "New Orleans Saints",
+    "away": "Cleveland Browns",
+    "txt": "Gana Cleveland Browns",
+    "odds": 2.42,
+    "p": 0.43187
+   }
+  ],
+  "odds": 11.87,
+  "p": 0.0983221672444,
+  "stake": 1.0,
+  "estado": "pendiente",
+  "avisada": false,
+  "rev": 1
  }
 ]
