@@ -1683,5 +1683,49 @@
   "estado": "pendiente",
   "avisada": false,
   "rev": 1
+ },
+ {
+  "id": "20261108164747891515",
+  "creada": "2026-11-08 16:47:47.891553+00:00",
+  "titulo": "Barrido · Combinada cuota 7.1",
+  "legs": [
+   {
+    "src": "espn:nfl",
+    "side": "A",
+    "code": null,
+    "start": "2026-11-08 18:00:00+00:00",
+    "home": "Carolina Panthers",
+    "away": "Denver Broncos",
+    "txt": "Gana Denver Broncos",
+    "odds": 1.704,
+    "p": 0.6011
+   },
+   {
+    "code": null,
+    "start": "2026-11-08 18:30:00+00:00",
+    "home": "Hapoel Beer Sheva",
+    "away": "Hapoel Tel Aviv",
+    "txt": "Gana Hapoel Beer Sheva",
+    "odds": 2.47,
+    "p": 0.4199
+   },
+   {
+    "src": "espn:nhl",
+    "side": "A",
+    "code": null,
+    "start": "2026-11-08 23:00:00+00:00",
+    "home": "Winnipeg Jets",
+    "away": "Tampa Bay Lightning",
+    "txt": "Gana Tampa Bay Lightning",
+    "odds": 1.676,
+    "p": 0.60942
+   }
+  ],
+  "odds": 7.05,
+  "p": 0.15381875980379997,
+  "stake": 1.0,
+  "estado": "pendiente",
+  "avisada": false,
+  "rev": 1
  }
 ]
