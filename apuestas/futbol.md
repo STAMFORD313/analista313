@@ -1,6 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 08/11/2026 06:03 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 08/11/2026 06:30 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Gamba Osaka vs Cerezo Osaka — 08/11 · 07:00
 
