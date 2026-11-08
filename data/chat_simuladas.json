@@ -1364,15 +1364,18 @@
     "away": "New York Giants",
     "txt": "Gana New York Giants",
     "odds": 1.645,
-    "p": 0.6262099999999999
+    "p": 0.6262099999999999,
+    "ok": true,
+    "por": "ganó New York Giants 19-11",
+    "clv": -0.057
    }
   ],
   "odds": 5.92,
   "p": 0.18841001391708886,
   "stake": 1.0,
-  "estado": "pendiente",
-  "avisada": false,
-  "rev": 1
+  "estado": "ganada",
+  "avisada": true,
+  "rev": 2
  },
  {
   "id": "20261107085240397306",
@@ -1700,7 +1703,10 @@
     "away": "Denver Broncos",
     "txt": "Gana Denver Broncos",
     "odds": 1.704,
-    "p": 0.6011
+    "p": 0.6011,
+    "ok": true,
+    "por": "ganó Denver Broncos 26-21",
+    "clv": 0.025
    },
    {
     "code": null,
