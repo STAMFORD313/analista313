@@ -1,56 +1,6 @@
 # 🏈 NFL·NCAA · apuestas de valor
 
-Actualizado 08/11/2026 15:08 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Atlanta Falcons vs Cincinnati Bengals — 08/11 · 15:30
-
-👀 candidata · 🏈 NFL · **Más de 52.5 puntos** @ **1.95** (DraftKings) · prob 49% vs casas 49% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 totales» sin pérdidas demostradas
-
-📊 **Escenarios**: total esperado **47.5** puntos · línea 52.5  
-Más 49% · Menos 51%  
-🔎 **Claves**  
-• Forma: Atlanta Falcons ✅❌❌✅❌ | Cincinnati Bengals ❌❌✅✅✅  
-• H2H: 3 desde 2018: 0-2  
-• Bajas: Atlanta Falcons: 6 fuera, 19 duda (Beaux Collins, Yasir Abdullah, Samson Ebukam); Cincinnati Bengals: 3 fuera, 22 duda (Cashius Howell, Andrei Iosivas, Erick All Jr.)  
-🧩 Combinada: Gana Atlanta Falcons + Más de 52.5 puntos → prob. 21%, cuota justa 4.84  
-🎯 No simulada (NFL): cuota DraftKings aprox. 4.72 (producto de piernas) · prob. 21% · ventaja -2%  
-
-## Atlanta Falcons vs Cincinnati Bengals — 08/11 · 15:30
-
-👀 candidata · 🏈 NFL · **Atlanta Falcons +3** @ **1.93** (DraftKings) · prob 50% vs casas 50% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 hándicap» sin pérdidas demostradas
-
-📊 **Escenarios**: Atlanta Falcons cubre +3 con prob. 50% (casas 50%)  
-🔎 **Claves**  
-• Forma: Atlanta Falcons ✅❌❌✅❌ | Cincinnati Bengals ❌❌✅✅✅  
-• H2H: 3 desde 2018: 0-2  
-• Bajas: Atlanta Falcons: 6 fuera, 19 duda (Beaux Collins, Yasir Abdullah, Samson Ebukam); Cincinnati Bengals: 3 fuera, 22 duda (Cashius Howell, Andrei Iosivas, Erick All Jr.)  
-🧩 Combinada: Gana Atlanta Falcons + Más de 52.5 puntos → prob. 21%, cuota justa 4.84  
-🎯 No simulada (NFL): cuota DraftKings aprox. 4.72 (producto de piernas) · prob. 21% · ventaja -2%  
-
-## Atlanta Falcons vs Cincinnati Bengals — 08/11 · 15:30
-
-👀 candidata · 🏈 NFL · **Gana Atlanta Falcons** @ **2.42** (DraftKings) · prob 40% vs casas 40% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo con 3.259 partidos y bajas)  
-Gana Atlanta Falcons 40% · Gana Cincinnati Bengals 60%  
-Casas: Atlanta Falcons 40% · Cincinnati Bengals 60%  
-Hándicap CIN -3 · Total puntos 52.5  
-🔎 **Claves**  
-• Forma: Atlanta Falcons ✅❌❌✅❌ | Cincinnati Bengals ❌❌✅✅✅  
-• H2H: 3 desde 2018: 0-2  
-• Bajas: Atlanta Falcons: 6 fuera, 19 duda (Beaux Collins, Yasir Abdullah, Samson Ebukam); Cincinnati Bengals: 3 fuera, 22 duda (Cashius Howell, Andrei Iosivas, Erick All Jr.)  
-• Favorito de las casas: Cincinnati Bengals @ 1.59  
-🧩 Combinada: Gana Atlanta Falcons + Más de 52.5 puntos → prob. 21%, cuota justa 4.84  
-🎯 No simulada (NFL): cuota DraftKings aprox. 4.72 (producto de piernas) · prob. 21% · ventaja -2%  
+Actualizado 08/11/2026 15:38 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Indianapolis Colts vs Dallas Cowboys — 08/11 · 19:00
 

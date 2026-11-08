@@ -1,61 +1,61 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 08/11/2026 15:08 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 08/11/2026 15:38 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## Edwardson vs Artrom — 08/11 · 15:16
+## DEKSON vs pikalicaaa — 08/11 · 15:49
 
-👀 candidata · 🎮⚽ FC 27 · LaLiga · **Gana Artrom** @ **4.20** (Unibet) · prob 30% vs casas 21% · ventaja +25%
+👀 candidata · 🎮⚽ FC 27 · Europa League · **Empate** @ **4.40** (Unibet) · prob 25% vs casas 20% · ventaja +10%
 
-- ✅ Valor: ventaja +25% (mín. 15% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 60.684 partidos)  
-Goles esperados: Edwardson 1.87 · Artrom 1.66  
-Ganador: Edwardson 44% · empate 26% · Artrom 30%  
-Total: más de 3.5 goles 47% · menos 53%  
-Hándicap Edwardson: −1.5 24% · −2.5 11%  
-🔎 **Claves**  
-• Forma: Edwardson ➖➖✅✅✅ | Artrom ➖✅➖➖❌  
-• Partidos: Edwardson 1191 | Artrom 612  
-• Liga: LaLiga  
-• Unibet: 1 1.44 · X 4.50 · 2 4.20 (sin margen 60%/19%/21%) · ventaja +25%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 4.20 (+25%) · Paf España 4.20 (+25%)  
-
-## Rodja vs w1nkos — 08/11 · 15:22
-
-👀 candidata · 🎮⚽ FC 27 · Serie A · **Empate** @ **6.25** (Unibet) · prob 19% vs casas 14% · ventaja +19%
-
-- ✅ Valor: ventaja +19% (mín. 13% con la incertidumbre, máx. 30%)
+- ❌ Valor: ventaja +10% (mín. 10% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 60.684 partidos)  
-Goles esperados: Rodja 2.82 · w1nkos 3.36  
-Ganador: Rodja 31% · empate 19% · w1nkos 50%  
-Total: más de 6.5 goles 42% · menos 58%  
-Hándicap w1nkos: −1.5 34% · −2.5 21%  
+📊 **Escenarios** (Poisson por jugador, 60.712 partidos)  
+Goles esperados: DEKSON 2.31 · pikalicaaa 2.09  
+Ganador: DEKSON 42% · empate 25% · pikalicaaa 33%  
+Total: más de 4.5 goles 45% · menos 55%  
+Hándicap DEKSON: −1.5 26% · −2.5 13%  
 🔎 **Claves**  
-• Forma: Rodja ✅✅✅❌✅ | w1nkos ✅✅✅❌✅  
-• Partidos: Rodja 975 | w1nkos 1143  
-• Liga: Serie A  
-• Unibet: 1 3.05 · X 6.25 · 2 1.55 (sin margen 29%/14%/57%) · ventaja +19%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 6.25 (+19%) · Paf España 6.25 (+19%)  
+• Forma: DEKSON ✅✅✅✅✅ | pikalicaaa ❌✅✅➖❌  
+• Partidos: DEKSON 481 | pikalicaaa 639  
+• Liga: Europa League  
+• Unibet: 1 1.65 · X 4.40 · 2 3.25 (sin margen 53%/20%/27%) · ventaja +10%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 4.40 (+10%) · Paf España 4.40 (+10%)  
 
-## w1nkos vs maggett0 — 08/11 · 15:34
+## Smetana vs saige — 08/11 · 15:52
 
-👀 candidata · 🎮⚽ FC 27 · Serie A · **Gana maggett0** @ **4.40** (Unibet) · prob 26% vs casas 20% · ventaja +17%
+👀 candidata · 🎮⚽ FC 27 · Eredivisie · **Gana Smetana** @ **1.74** (Unibet) · prob 72% vs casas 50% · ventaja +24%
 
-- ✅ Valor: ventaja +17% (mín. 13% con la incertidumbre, máx. 30%)
+- ✅ Valor: ventaja +24% (mín. 14% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 60.712 partidos)  
+Goles esperados: Smetana 4.06 · saige 2.48  
+Ganador: Smetana 72% · empate 12% · saige 16%  
+Total: más de 6.5 goles 48% · menos 52%  
+Hándicap Smetana: −1.5 51% · −2.5 35%  
+🔎 **Claves**  
+• Forma: Smetana ✅✅✅✅✅ | saige ❌✅❌✅❌  
+• Partidos: Smetana 1087 | saige 464  
+• Liga: Eredivisie  
+• Unibet: 1 1.74 · X 5.80 · 2 2.55 (sin margen 50%/15%/34%) · ventaja +24%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 1.74 (+24%) · Paf España 1.74 (+24%)  
+
+## Glumac vs chevare — 08/11 · 15:52
+
+👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana Glumac** @ **2.33** (Unibet) · prob 46% vs casas 37% · ventaja +6%
+
+- ❌ Valor: ventaja +6% (mín. 10% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 60.684 partidos)  
-Goles esperados: w1nkos 3.89 · maggett0 3.01  
-Ganador: w1nkos 56% · empate 17% · maggett0 27%  
-Total: más de 6.5 goles 53% · menos 47%  
-Hándicap w1nkos: −1.5 40% · −2.5 26%  
+📊 **Escenarios** (Poisson por jugador, 60.712 partidos)  
+Goles esperados: Glumac 4.09 · chevare 3.84  
+Ganador: Glumac 46% · empate 18% · chevare 36%  
+Total: más de 7.5 goles 54% · menos 46%  
+Hándicap Glumac: −1.5 32% · −2.5 21%  
 🔎 **Claves**  
-• Forma: w1nkos ✅✅✅❌✅ | maggett0 ❌✅➖❌❌  
-• Partidos: w1nkos 1143 | maggett0 952  
-• Liga: Serie A  
-• Unibet: 1 1.30 · X 6.10 · 2 4.40 (sin margen 66%/14%/20%) · ventaja +17%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 4.40 (+17%) · Paf España 4.40 (+17%)  
+• Forma: Glumac ✅❌✅➖➖ | chevare ➖✅❌➖❌  
+• Partidos: Glumac 768 | chevare 599  
+• Liga: Champions League B  
+• Unibet: 1 2.33 · X 3.60 · 2 2.25 (sin margen 37%/24%/39%) · ventaja +6%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.33 (+6%) · Paf España 2.33 (+6%)  
 

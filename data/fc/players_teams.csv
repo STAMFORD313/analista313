@@ -60697,3 +60697,63 @@ id,tournament_id,club1,club2,ht1,ht2
 2369157,261359,Atleti,Villarreal,,
 2369158,261359,Barcelona,Atleti,,
 2369159,261359,Real Madrid,Athletic Club,,
+2368584,261306,Bayern Munchen,Liverpool,0,0
+2368585,261306,Atleti,Real Madrid,1,1
+2368586,261306,Real Madrid,Bayern Munchen,1,2
+2368587,261306,Liverpool,Paris,1,2
+2368588,261306,Paris,Real Madrid,0,0
+2368589,261306,Bayern Munchen,Atleti,3,0
+2368590,261306,Atleti,Paris,0,0
+2368591,261306,Real Madrid,Liverpool,1,2
+2368592,261306,Liverpool,Atleti,3,0
+2368593,261306,Paris,Bayern Munchen,2,1
+2368594,261306,Liverpool,Bayern Munchen,2,0
+2368595,261306,Real Madrid,Atleti,1,0
+2368596,261306,Bayern Munchen,Real Madrid,,
+2368597,261306,Paris,Liverpool,,
+2368598,261306,Real Madrid,Paris,,
+2368599,261306,Atleti,Bayern Munchen,,
+2368600,261306,Paris,Atleti,,
+2368601,261306,Liverpool,Real Madrid,,
+2368602,261306,Atleti,Liverpool,,
+2368603,261306,Bayern Munchen,Paris,,
+2369846,261324,PSV,Ajax,1,0
+2369847,261324,Feyenoord,Twente,1,1
+2369848,261324,Twente,PSV,0,3
+2369849,261324,Ajax,AZ Alkmaar,1,1
+2369850,261324,AZ Alkmaar,Twente,0,3
+2369851,261324,PSV,Feyenoord,3,1
+2369852,261324,Feyenoord,AZ Alkmaar,4,1
+2369853,261324,Twente,Ajax,0,0
+2369854,261324,Ajax,Feyenoord,2,1
+2369855,261324,AZ Alkmaar,PSV,0,3
+2369856,261324,Ajax,PSV,,
+2369857,261324,Twente,Feyenoord,,
+2369858,261324,PSV,Twente,,
+2369859,261324,AZ Alkmaar,Ajax,,
+2369860,261324,Twente,AZ Alkmaar,,
+2369861,261324,Feyenoord,PSV,,
+2369862,261324,AZ Alkmaar,Feyenoord,,
+2369863,261324,Ajax,Twente,,
+2369864,261324,Feyenoord,Ajax,,
+2369865,261324,PSV,AZ Alkmaar,,
+2369430,261333,England,France,2,3
+2369431,261333,Spain,Argentina,3,2
+2369432,261333,Argentina,England,4,2
+2369433,261333,France,Germany,2,2
+2369434,261333,Germany,Argentina,4,2
+2369435,261333,England,Spain,0,0
+2369436,261333,Spain,Germany,0,0
+2369437,261333,Argentina,France,6,3
+2369438,261333,France,Spain,,
+2369439,261333,Germany,England,,
+2369440,261333,France,England,,
+2369441,261333,Argentina,Spain,,
+2369442,261333,England,Argentina,,
+2369443,261333,Germany,France,,
+2369444,261333,Argentina,Germany,,
+2369445,261333,Spain,England,,
+2369446,261333,Germany,Spain,,
+2369447,261333,France,Argentina,,
+2369448,261333,Spain,France,,
+2369449,261333,England,Germany,,
