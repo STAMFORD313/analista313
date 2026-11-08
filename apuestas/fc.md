@@ -1,25 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 08/11/2026 14:33 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Pavlinho19 vs Tesla — 08/11 · 14:34
-
-👀 candidata · 🎮⚽ FC 27 · FA Cup · **Gana Tesla** @ **2.35** (Unibet) · prob 55% vs casas 37% · ventaja +28%
-
-- ✅ Valor: ventaja +28% (mín. 15% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 60.630 partidos)  
-Goles esperados: Pavlinho19 2.42 · Tesla 3.17  
-Ganador: Pavlinho19 26% · empate 19% · Tesla 55%  
-Total: más de 5.5 goles 49% · menos 51%  
-Hándicap Tesla: −1.5 37% · −2.5 22%  
-🔎 **Claves**  
-• Forma: Pavlinho19 ✅❌❌❌✅ | Tesla ❌✅❌✅❌  
-• Partidos: Pavlinho19 909 | Tesla 934  
-• Liga: FA Cup  
-• Unibet: 1 2.28 · X 3.45 · 2 2.35 (sin margen 38%/25%/37%) · ventaja +28%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.35 (+28%) · Paf España 2.35 (+28%)  
+Actualizado 08/11/2026 14:43 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Lufy vs steeffant — 08/11 · 14:48
 
@@ -59,6 +40,25 @@ Hándicap Smetana: −1.5 51% · −2.5 35%
 • Unibet: 1 2.65 · X 6.75 · 2 1.64 (sin margen 33%/13%/54%) · ventaja +17%. Sin stake hasta demostrar ROI con estas cuotas.  
 • En España: LeoVegas España 1.64 (+17%) · Paf España 1.64 (+17%)  
 
+## MeLToSik vs Artrom — 08/11 · 14:52
+
+👀 candidata · 🎮⚽ FC 27 · LaLiga · **Gana MeLToSik** @ **2.48** (Unibet) · prob 47% vs casas 35% · ventaja +16%
+
+- ✅ Valor: ventaja +16% (mín. 12% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 60.658 partidos)  
+Goles esperados: MeLToSik 2.03 · Artrom 1.70  
+Ganador: MeLToSik 47% · empate 25% · Artrom 28%  
+Total: más de 3.5 goles 51% · menos 49%  
+Hándicap MeLToSik: −1.5 26% · −2.5 12%  
+🔎 **Claves**  
+• Forma: MeLToSik ✅❌❌➖❌ | Artrom ➖❌➖✅➖  
+• Partidos: MeLToSik 1152 | Artrom 610  
+• Liga: LaLiga  
+• Unibet: 1 2.48 · X 3.30 · 2 2.25 (sin margen 35%/26%/39%) · ventaja +16%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.48 (+16%) · Paf España 2.48 (+16%)  
+
 ## dm1trena vs MeLToSik — 08/11 · 15:04
 
 👀 candidata · 🎮⚽ FC 27 · LaLiga · **Gana MeLToSik** @ **2.90** (Unibet) · prob 40% vs casas 30% · ventaja +18%
@@ -77,4 +77,23 @@ Hándicap MeLToSik: −1.5 24% · −2.5 12%
 • Liga: LaLiga  
 • Unibet: 1 2.08 · X 3.00 · 2 2.90 (sin margen 41%/29%/30%) · ventaja +18%. Sin stake hasta demostrar ROI con estas cuotas.  
 • En España: LeoVegas España 2.90 (+18%) · Paf España 2.90 (+18%)  
+
+## dirowe vs saige — 08/11 · 15:04
+
+👀 candidata · 🎮⚽ FC 27 · Eredivisie · **Gana dirowe** @ **1.95** (Unibet) · prob 54% vs casas 45% · ventaja +5%
+
+- ❌ Valor: ventaja +5% (mín. 9% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 60.658 partidos)  
+Goles esperados: dirowe 3.38 · saige 2.77  
+Ganador: dirowe 54% · empate 16% · saige 30%  
+Total: más de 6.5 goles 42% · menos 58%  
+Hándicap dirowe: −1.5 35% · −2.5 22%  
+🔎 **Claves**  
+• Forma: dirowe ➖❌➖✅❌ | saige ❌✅✅❌❌  
+• Partidos: dirowe 772 | saige 460  
+• Liga: Eredivisie  
+• Unibet: 1 1.95 · X 5.60 · 2 2.23 (sin margen 45%/16%/39%) · ventaja +5%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 1.95 (+5%) · Paf España 1.95 (+5%)  
 

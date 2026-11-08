@@ -1475,9 +1475,6 @@
   "cbb|2026-11-11|Kansas State Wildcats|Creighton Bluejays",
   "cbb|2026-11-11|Kentucky Wildcats|Kansas Jayhawks",
   "cbb|2026-11-11|San Francisco Dons|Montana Grizzlies",
-  "dota2|132454",
-  "fc|2362050",
-  "fc|2362188",
   "fc|2363382",
   "fc|2362053",
   "fc|2361807",
@@ -2477,7 +2474,10 @@
   "fc|2369431",
   "fc|2369432",
   "fc|2369155",
-  "fc|2369848"
+  "fc|2369848",
+  "fc|2369152",
+  "fc|2369850",
+  "fc|2369154"
  ],
  "signals": [
   {
@@ -52228,20 +52228,6 @@
    "start": "2026-11-08T13:34:00+00:00",
    "league": "🎮⚽ FC 27 · FA Cup",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 60.630 partidos)",
-    "Goles esperados: Pavlinho19 2.42 · Tesla 3.17",
-    "Ganador: Pavlinho19 26% · empate 19% · Tesla 55%",
-    "Total: más de 5.5 goles 49% · menos 51%",
-    "Hándicap Tesla: −1.5 37% · −2.5 22%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Pavlinho19 ✅❌❌❌✅ | Tesla ❌✅❌✅❌",
-    "• Partidos: Pavlinho19 909 | Tesla 934",
-    "• Liga: FA Cup",
-    "• Unibet: 1 2.28 · X 3.45 · 2 2.35 (sin margen 38%/25%/37%) · ventaja +28%. Sin stake hasta demostrar ROI con estas cuotas.",
-    "• En España: LeoVegas España 2.35 (+28%) · Paf España 2.35 (+28%)"
-   ],
    "context": "EA FC Esoccer Battle Pavlinho19 vs Tesla (FA Cup): goles esperados 2.42-3.17, 1X2 26%/19%/55%. Sin cuotas de casa.",
    "captured": "2026-11-08T13:08",
    "version": "178be87",
@@ -52328,7 +52314,8 @@
    "version": "58d14c8",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "anunciada": true
   },
   {
    "market": "A",
@@ -52363,7 +52350,8 @@
    "version": "58d14c8",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "anunciada": true
   },
   {
    "market": "A",
@@ -52398,7 +52386,104 @@
    "version": "58d14c8",
    "bajas": "",
    "considered": true,
+   "placed": false,
+   "anunciada": true
+  },
+  {
+   "key": "vp|2026-11-08|Sepsi|Voluntari",
+   "market": "H",
+   "pick": "Sepsi",
+   "odds": 2.06,
+   "book": "Smarkets",
+   "p": 0.5019,
+   "implied": 0.5019,
+   "edge": 0.0329,
+   "match": "Sepsi vs Voluntari",
+   "start": "2026-11-08T14:00:00+00:00",
+   "league": "💎 Valor vs Pinnacle · Romania - Liga 1",
+   "sport": "⚽💎",
+   "info": [
+    "💎 <b>Valor contra Pinnacle</b>: Smarkets paga 2.06 y el precio justo de Pinnacle es 1.99 (ventaja +3.3%)",
+    "Backtest 2015-2026 (cuota ≤ 2.5, > 3 %): ROI +11 % ± 3 %, CLV +5 %."
+   ],
+   "context": "Sepsi vs Voluntari (Romania - Liga 1). Estrategia de valor: Smarkets 2.06 frente a Pinnacle justo 1.99.",
+   "captured": "2026-11-08T13:43",
+   "version": "58d14c8",
+   "bajas": "",
+   "considered": true,
    "placed": false
+  },
+  {
+   "market": "H",
+   "pick": "MeLToSik",
+   "odds": 2.48,
+   "book": "Unibet",
+   "implied": 0.35,
+   "edge": 0.157,
+   "sin_stake": true,
+   "p": 0.467,
+   "key": "fc|2369152",
+   "match": "MeLToSik vs Artrom",
+   "start": "2026-11-08T13:52:00+00:00",
+   "league": "🎮⚽ FC 27 · LaLiga",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 60.658 partidos)",
+    "Goles esperados: MeLToSik 2.03 · Artrom 1.70",
+    "Ganador: MeLToSik 47% · empate 25% · Artrom 28%",
+    "Total: más de 3.5 goles 51% · menos 49%",
+    "Hándicap MeLToSik: −1.5 26% · −2.5 12%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: MeLToSik ✅❌❌➖❌ | Artrom ➖❌➖✅➖",
+    "• Partidos: MeLToSik 1152 | Artrom 610",
+    "• Liga: LaLiga",
+    "• Unibet: 1 2.48 · X 3.30 · 2 2.25 (sin margen 35%/26%/39%) · ventaja +16%. Sin stake hasta demostrar ROI con estas cuotas.",
+    "• En España: LeoVegas España 2.48 (+16%) · Paf España 2.48 (+16%)"
+   ],
+   "context": "EA FC Esoccer Battle MeLToSik vs Artrom (LaLiga): goles esperados 2.03-1.70, 1X2 47%/25%/28%. Sin cuotas de casa.",
+   "captured": "2026-11-08T13:43",
+   "version": "58d14c8",
+   "bajas": "",
+   "considered": true,
+   "placed": false,
+   "anunciada": true
+  },
+  {
+   "market": "H",
+   "pick": "dirowe",
+   "odds": 1.95,
+   "book": "Unibet",
+   "implied": 0.45,
+   "edge": 0.052,
+   "sin_stake": true,
+   "p": 0.539,
+   "key": "fc|2369850",
+   "match": "dirowe vs saige",
+   "start": "2026-11-08T14:04:00+00:00",
+   "league": "🎮⚽ FC 27 · Eredivisie",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 60.658 partidos)",
+    "Goles esperados: dirowe 3.38 · saige 2.77",
+    "Ganador: dirowe 54% · empate 16% · saige 30%",
+    "Total: más de 6.5 goles 42% · menos 58%",
+    "Hándicap dirowe: −1.5 35% · −2.5 22%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: dirowe ➖❌➖✅❌ | saige ❌✅✅❌❌",
+    "• Partidos: dirowe 772 | saige 460",
+    "• Liga: Eredivisie",
+    "• Unibet: 1 1.95 · X 5.60 · 2 2.23 (sin margen 45%/16%/39%) · ventaja +5%. Sin stake hasta demostrar ROI con estas cuotas.",
+    "• En España: LeoVegas España 1.95 (+5%) · Paf España 1.95 (+5%)"
+   ],
+   "context": "EA FC Esoccer Battle dirowe vs saige (Eredivisie): goles esperados 3.38-2.77, 1X2 54%/16%/30%. Sin cuotas de casa.",
+   "captured": "2026-11-08T13:43",
+   "version": "58d14c8",
+   "bajas": "",
+   "considered": true,
+   "placed": false,
+   "anunciada": true
   }
  ],
  "bank": {
@@ -52861,7 +52946,7 @@
  },
  "scoreboard_id": 156,
  "scoreboard_text": "📊 <b>MARCADOR DEL BOT</b>\n━━━━━━━━━━━━━━━\n🟩 Ganadas: <b>11</b> (37 %)\n🟥 Perdidas: <b>19</b> (63 %)\n⏳ En juego: 0\n\nÚltimas 30:\n🟥🟥🟥🟩🟥🟩🟥🟥🟥🟥🟥🟥🟥🟥🟩🟥🟥🟩🟩🟩🟩🟩🟥🟥🟥🟥🟩🟩🟥🟩\n━━━━━━━━━━━━━━━\n💵 Beneficio -17.17 $ · ROI -30.9 %\n📐 CLV medio +2.5 % (cuota cogida vs cierre)\n💰 Banca: <b>82.83 €</b> (-17.17 € desde 100 €) · libre 82.83 €{\"inline_keyboard\": [[{\"text\": \"\\ud83d\\udcc8 Ver historial completo y fallos\", \"url\": \"https://github.com/STAMFORD313/analista313/blob/main/ESTADISTICAS.md\"}], [{\"text\": \"\\u26bd F\\u00fatbol\", \"callback_data\": \"dep:futbol\"}, {\"text\": \"\\ud83c\\udfc0 NBA\\u00b7NCAA\", \"callback_data\": \"dep:nba\"}, {\"text\": \"\\ud83c\\udfc8 NFL\\u00b7NCAA\", \"callback_data\": \"dep:nfl\"}], [{\"text\": \"\\ud83c\\udfc6 Champions\\u00b7Europa\", \"callback_data\": \"dep:europa\"}, {\"text\": \"\\ud83c\\udfd2 NHL\", \"callback_data\": \"dep:nhl\"}, {\"text\": \"\\u26be MLB\", \"callback_data\": \"dep:mlb\"}], [{\"text\": \"\\ud83e\\udd4a UFC\", \"callback_data\": \"dep:ufc\"}, {\"text\": \"\\ud83c\\udfbe Tenis\", \"callback_data\": \"dep:tenis\"}, {\"text\": \"\\ud83c\\udfae CS2\", \"callback_data\": \"dep:cs2\"}], [{\"text\": \"\\ud83d\\udc09 Dota 2\", \"callback_data\": \"dep:dota2\"}, {\"text\": \"\\ud83e\\uddd9 LoL\", \"callback_data\": \"dep:lol\"}, {\"text\": \"\\ud83d\\udd2b R6 Siege\", \"callback_data\": \"dep:r6\"}], [{\"text\": \"\\ud83d\\udcf1 MLBB\", \"callback_data\": \"dep:mlbb\"}, {\"text\": \"\\ud83c\\udfae\\u26bd FC 27\", \"callback_data\": \"dep:fc\"}]]}",
- "fc_sent": "2026-11-08T09:34:22.667877+00:00",
+ "fc_sent": "2026-11-08T13:43:31.055598+00:00",
  "sgp": {
   "nfl|2026-11-08|Atlanta Falcons|Cincinnati Bengals": {
    "match": "Atlanta Falcons vs Cincinnati Bengals",
