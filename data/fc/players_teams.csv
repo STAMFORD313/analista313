@@ -60325,14 +60325,14 @@ id,tournament_id,club1,club2,ht1,ht2
 2369557,261377,Bayern Munchen,Leipzig,,
 2369558,261377,Frankfurt,Bayern Munchen,,
 2369559,261377,B Dortmund,Stuttgart,,
-2369776,261327,Inter Miami CF,Atlanta United,0,0
-2369777,261327,LA Galaxy,Los Angeles FC,2,2
-2369778,261327,Los Angeles FC,Inter Miami CF,0,4
-2369779,261327,Atlanta United,Seattle Sounders FC,2,2
-2369780,261327,Seattle Sounders FC,Los Angeles FC,2,0
-2369781,261327,Inter Miami CF,LA Galaxy,0,0
-2369782,261327,LA Galaxy,Seattle Sounders FC,0,0
-2369783,261327,Los Angeles FC,Atlanta United,0,0
+2369776,261327,Inter Miami CF,Atlanta United,0.0,0.0
+2369777,261327,LA Galaxy,Los Angeles FC,2.0,2.0
+2369778,261327,Los Angeles FC,Inter Miami CF,0.0,4.0
+2369779,261327,Atlanta United,Seattle Sounders FC,2.0,2.0
+2369780,261327,Seattle Sounders FC,Los Angeles FC,2.0,0.0
+2369781,261327,Inter Miami CF,LA Galaxy,0.0,0.0
+2369782,261327,LA Galaxy,Seattle Sounders FC,0.0,0.0
+2369783,261327,Los Angeles FC,Atlanta United,0.0,0.0
 2369784,261327,Atlanta United,LA Galaxy,,
 2369785,261327,Seattle Sounders FC,Inter Miami CF,,
 2369786,261327,Atlanta United,Inter Miami CF,,
@@ -60345,3 +60345,23 @@ id,tournament_id,club1,club2,ht1,ht2
 2369793,261327,Atlanta United,Los Angeles FC,,
 2369794,261327,LA Galaxy,Atlanta United,,
 2369795,261327,Inter Miami CF,Seattle Sounders FC,,
+2369080,261349,Aston Villa,Salzburg,1,1
+2369081,261349,Roma,Fenerbahce,2,0
+2369082,261349,Fenerbahce,Aston Villa,1,3
+2369083,261349,Salzburg,Porto,0,0
+2369084,261349,Porto,Fenerbahce,2,2
+2369085,261349,Aston Villa,Roma,1,0
+2369086,261349,Roma,Porto,2,1
+2369087,261349,Fenerbahce,Salzburg,1,1
+2369088,261349,Salzburg,Roma,1,0
+2369089,261349,Porto,Aston Villa,1,0
+2369090,261349,Salzburg,Aston Villa,,
+2369091,261349,Fenerbahce,Roma,,
+2369092,261349,Aston Villa,Fenerbahce,,
+2369093,261349,Porto,Salzburg,,
+2369094,261349,Fenerbahce,Porto,,
+2369095,261349,Roma,Aston Villa,,
+2369096,261349,Porto,Roma,,
+2369097,261349,Salzburg,Fenerbahce,,
+2369098,261349,Roma,Salzburg,,
+2369099,261349,Aston Villa,Porto,,
