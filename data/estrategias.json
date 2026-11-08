@@ -1,6 +1,6 @@
 {
- "fecha": "2026-11-08 15:03",
- "n": 1686,
+ "fecha": "2026-11-08 15:32",
+ "n": 1691,
  "rentables": [],
  "bloqueados": [
   {
@@ -82,11 +82,19 @@
   },
   {
    "segmento": "mercado=1X2 · cuota=>2.5 · ventaja=>15%",
-   "n": 165,
-   "roi": -0.2871,
-   "se": 0.1149,
+   "n": 166,
+   "roi": -0.2914,
+   "se": 0.1143,
    "roi_antigua": -0.4082,
-   "roi_nueva": -0.11
+   "roi_nueva": -0.1231
+  },
+  {
+   "segmento": "cuota=>2.5 · ventaja=>15%",
+   "n": 191,
+   "roi": -0.2706,
+   "se": 0.1062,
+   "roi_antigua": -0.3469,
+   "roi_nueva": -0.1358
   },
   {
    "segmento": "ventaja=<0",
@@ -109,14 +117,6 @@
    "clv": -0.0428,
    "clv_se": 0.0106,
    "clv_n": 55
-  },
-  {
-   "segmento": "cuota=>2.5 · ventaja=>15%",
-   "n": 190,
-   "roi": -0.2668,
-   "se": 0.1067,
-   "roi_antigua": -0.3469,
-   "roi_nueva": -0.1231
   },
   {
    "segmento": "deporte=🏈 · cuota=1.5-2 · ventaja=<0",
@@ -142,11 +142,11 @@
   },
   {
    "segmento": "deporte=🎮⚽ · cuota=>2.5 · ventaja=>15%",
-   "n": 162,
-   "roi": -0.2739,
-   "se": 0.1168,
+   "n": 163,
+   "roi": -0.2783,
+   "se": 0.1162,
    "roi_antigua": -0.3895,
-   "roi_nueva": -0.11
+   "roi_nueva": -0.1231
   },
   {
    "segmento": "deporte=🏈 · mercado=hándicap · ventaja=<0",
@@ -195,6 +195,17 @@
    "clv_n": 46
   },
   {
+   "segmento": "cuota=>2.5",
+   "n": 472,
+   "roi": -0.1724,
+   "se": 0.0784,
+   "roi_antigua": -0.1756,
+   "roi_nueva": -0.1657,
+   "clv": 0.0249,
+   "clv_se": 0.0203,
+   "clv_n": 34
+  },
+  {
    "segmento": "cuota=≤1.5",
    "n": 469,
    "roi": -0.0676,
@@ -228,17 +239,6 @@
    "se": 0.0359,
    "roi_antigua": -0.0176,
    "roi_nueva": -0.0984
-  },
-  {
-   "segmento": "cuota=>2.5",
-   "n": 470,
-   "roi": -0.1689,
-   "se": 0.0787,
-   "roi_antigua": -0.1872,
-   "roi_nueva": -0.131,
-   "clv": 0.0249,
-   "clv_se": 0.0203,
-   "clv_n": 34
   },
   {
    "segmento": "deporte=⚽ · cuota=≤1.5",
@@ -345,14 +345,14 @@
   },
   {
    "segmento": "cuota=1.5-2",
-   "n": 525,
-   "roi": -0.0446,
-   "se": 0.0386,
+   "n": 527,
+   "roi": -0.045,
+   "se": 0.0385,
    "roi_antigua": 0.0036,
-   "roi_nueva": -0.0789,
+   "roi_nueva": -0.0792,
    "clv": -0.0383,
-   "clv_se": 0.0094,
-   "clv_n": 55
+   "clv_se": 0.0092,
+   "clv_n": 56
   },
   {
    "segmento": "deporte=🏈 · cuota=≤1.5",
