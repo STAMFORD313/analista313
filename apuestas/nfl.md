@@ -1,6 +1,6 @@
 # 🏈 NFL·NCAA · apuestas de valor
 
-Actualizado 08/11/2026 19:48 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 08/11/2026 20:22 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Los Angeles Chargers vs Houston Texans — 08/11 · 22:05
 
