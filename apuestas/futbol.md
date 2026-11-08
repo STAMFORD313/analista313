@@ -1,370 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 08/11/2026 20:22 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Lens vs Marseille — 08/11 · 20:45
-
-👀 candidata · 🇫🇷 Ligue 1 · **Lens -0.25 (hándicap asiático)** @ **2.03** (mejor del mercado) · prob 50% vs casas 50% · ventaja +0%
-
-- ❌ Valor: ventaja +0% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ hándicap» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.55 - 1.22)  
-1 46% · X 28% · 2 26%  
-1X 74% · X2 54% · 12 72%  
-+1.5 77% · +2.5 52% · +3.5 30% · Ambos marcan 56%  
-Marcadores: 1-1 12% · 2-1 9% · 1-0 9% · 2-0 7%  
-🔎 **Claves**  
-• Forma: Lens ❌✅✅✅❌ | Marseille ❌✅✅✅✅  
-• H2H: 24 desde 2005: 10V-5E-9D · 2.4 goles/partido · +2.5 en 42%  
-• Bajas: Lens: 2 fuera, 4 duda (Maik Nawrocki, Jhoanner Chavez); Marseille: 0 fuera, 2 duda  
-• Favorito de las casas: Lens @ 2.30  
-📐 **Estadísticas esperadas**  
-Córners 5.4 - 4.0: total +10.5 35% · Lens +5.5 44% · Marseille +4.5 37%  
-Tarjetas 1.9 - 2.1: total +4.5 37% · Lens +2.5 31% · Marseille +2.5 34%  
-Faltas 12.1 - 12.3: total +24.5 47% · Lens +11.5 54% · Marseille +12.5 45%  
-Tiros a puerta 5.3 - 3.9: total +9.5 44% · Lens +5.5 44% · Marseille +4.5 35%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Lens + Menos de 10.5 córners + Menos de 4.5 tiros a puerta de Marseille → prob. 30%, cuota justa 3.30 (solo vale si la casa paga más)  
-🎯 Simulada (crear apuesta): cuota Unibet aprox. 3.65 (producto de piernas) · prob. 30% · ventaja +11% → 1 u en la banca de simulación  
-🎯 Simulada (con cuota: Menos de 10.5 córners + Menos de 4.5 tiros a puerta de Marseille): cuota Unibet aprox. 2.69 (producto de piernas) · prob. 43% · ventaja +16% → 1 u en la banca de simulación  
-
-## Fiorentina vs Juventus — 08/11 · 20:45
-
-👀 candidata · 🇮🇹 Serie A · **Gana Juventus** @ **2.10** (Betfred) · prob 46% vs casas 46% · ventaja -3%
-
-- ❌ Valor: ventaja -3% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.09 - 1.27)  
-1 25% · X 29% · 2 46%  
-1X 54% · X2 75% · 12 71%  
-+1.5 69% · +2.5 42% · +3.5 21% · Ambos marcan 48%  
-Marcadores: 1-1 14% · 0-1 11% · 0-0 10% · 1-0 10%  
-🔎 **Claves**  
-• Forma: Fiorentina ❌❌❌➖✅ | Juventus ➖❌✅❌✅  
-• H2H: 40 desde 2005: 7V-13E-20D · 2.3 goles/partido · +2.5 en 42%  
-• Bajas: Fiorentina: 5 fuera, 5 duda (Roberto Piccoli, Marin Pongracic, Luca Ranieri); Juventus: 8 fuera, 2 duda (Gleison Bremer, Mehmet Zeki Celik, Chico Conceicao)  
-• Favorito de las casas: Juventus @ 2.10  
-📐 **Estadísticas esperadas**  
-Córners 4.9 - 5.0: total +9.5 52% · Fiorentina +5.5 36% · Juventus +4.5 53%  
-Tarjetas 2.0 - 2.0: total +3.5 55% · Fiorentina +1.5 58% · Juventus +2.5 33%  
-Faltas 10.5 - 13.9: total +22.5 62% · Fiorentina +11.5 36% · Juventus +11.5 72%  
-Tiros a puerta 4.0 - 4.7: total +9.5 37% · Fiorentina +4.5 37% · Juventus +4.5 49%  
-🧩 Crear apuesta: Más de 11.5 faltas de Juventus + Menos de 2.5 tarjetas de Juventus + Menos de 5.5 córners de Fiorentina → prob. 29%, cuota justa 3.49 (solo vale si la casa paga más)  
-🚀 Combinada larga: Más de 11.5 faltas de Juventus + Menos de 2.5 tarjetas de Juventus + Menos de 5.5 córners de Fiorentina + Menos de 4.5 tiros a puerta de Fiorentina + Menos de 2.5 goles → prob. 14%, cuota justa 7.33  
-🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Juventus + Menos de 4.5 tiros a puerta de Fiorentina + Menos de 2.5 goles): cuota Unibet aprox. 4.64 (producto de piernas) · prob. 28% · ventaja +32% → 1 u en la banca de simulación  
-
-## Lens vs Marseille — 08/11 · 20:45
-
-👀 candidata · 🇫🇷 Ligue 1 · **Más de 6.5 córners** @ **1.15** (Unibet) · prob 80% vs casas 79% · ventaja -8%
-
-- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.55 - 1.22)  
-1 46% · X 28% · 2 26%  
-1X 74% · X2 54% · 12 72%  
-+1.5 77% · +2.5 52% · +3.5 30% · Ambos marcan 56%  
-Marcadores: 1-1 12% · 2-1 9% · 1-0 9% · 2-0 7%  
-🔎 **Claves**  
-• Forma: Lens ❌✅✅✅❌ | Marseille ❌✅✅✅✅  
-• H2H: 24 desde 2005: 10V-5E-9D · 2.4 goles/partido · +2.5 en 42%  
-• Bajas: Lens: 2 fuera, 4 duda (Maik Nawrocki, Jhoanner Chavez); Marseille: 0 fuera, 2 duda  
-• Favorito de las casas: Lens @ 2.30  
-📐 **Estadísticas esperadas**  
-Córners 5.4 - 4.0: total +10.5 35% · Lens +5.5 44% · Marseille +4.5 37%  
-Tarjetas 1.9 - 2.1: total +4.5 37% · Lens +2.5 31% · Marseille +2.5 34%  
-Faltas 12.1 - 12.3: total +24.5 47% · Lens +11.5 54% · Marseille +12.5 45%  
-Tiros a puerta 5.3 - 3.9: total +9.5 44% · Lens +5.5 44% · Marseille +4.5 35%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Lens + Menos de 10.5 córners + Menos de 4.5 tiros a puerta de Marseille → prob. 30%, cuota justa 3.30 (solo vale si la casa paga más)  
-🎯 Simulada (crear apuesta): cuota Unibet aprox. 3.65 (producto de piernas) · prob. 30% · ventaja +11% → 1 u en la banca de simulación  
-🎯 Simulada (con cuota: Menos de 10.5 córners + Menos de 4.5 tiros a puerta de Marseille): cuota Unibet aprox. 2.69 (producto de piernas) · prob. 43% · ventaja +16% → 1 u en la banca de simulación  
-
-## Lens vs Marseille — 08/11 · 20:45
-
-👀 candidata · 🇫🇷 Ligue 1 · **Menos de 12.5 córners** @ **1.19** (Unibet) · prob 80% vs casas 78% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.55 - 1.22)  
-1 46% · X 28% · 2 26%  
-1X 74% · X2 54% · 12 72%  
-+1.5 77% · +2.5 52% · +3.5 30% · Ambos marcan 56%  
-Marcadores: 1-1 12% · 2-1 9% · 1-0 9% · 2-0 7%  
-🔎 **Claves**  
-• Forma: Lens ❌✅✅✅❌ | Marseille ❌✅✅✅✅  
-• H2H: 24 desde 2005: 10V-5E-9D · 2.4 goles/partido · +2.5 en 42%  
-• Bajas: Lens: 2 fuera, 4 duda (Maik Nawrocki, Jhoanner Chavez); Marseille: 0 fuera, 2 duda  
-• Favorito de las casas: Lens @ 2.30  
-📐 **Estadísticas esperadas**  
-Córners 5.4 - 4.0: total +10.5 35% · Lens +5.5 44% · Marseille +4.5 37%  
-Tarjetas 1.9 - 2.1: total +4.5 37% · Lens +2.5 31% · Marseille +2.5 34%  
-Faltas 12.1 - 12.3: total +24.5 47% · Lens +11.5 54% · Marseille +12.5 45%  
-Tiros a puerta 5.3 - 3.9: total +9.5 44% · Lens +5.5 44% · Marseille +4.5 35%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Lens + Menos de 10.5 córners + Menos de 4.5 tiros a puerta de Marseille → prob. 30%, cuota justa 3.30 (solo vale si la casa paga más)  
-🎯 Simulada (crear apuesta): cuota Unibet aprox. 3.65 (producto de piernas) · prob. 30% · ventaja +11% → 1 u en la banca de simulación  
-🎯 Simulada (con cuota: Menos de 10.5 córners + Menos de 4.5 tiros a puerta de Marseille): cuota Unibet aprox. 2.69 (producto de piernas) · prob. 43% · ventaja +16% → 1 u en la banca de simulación  
-
-## Lens vs Marseille — 08/11 · 20:45
-
-👀 candidata · 🇫🇷 Ligue 1 · **Más de 5.5 córners de Lens** @ **2.25** (Unibet) · prob 42% vs casas 41% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.55 - 1.22)  
-1 46% · X 28% · 2 26%  
-1X 74% · X2 54% · 12 72%  
-+1.5 77% · +2.5 52% · +3.5 30% · Ambos marcan 56%  
-Marcadores: 1-1 12% · 2-1 9% · 1-0 9% · 2-0 7%  
-🔎 **Claves**  
-• Forma: Lens ❌✅✅✅❌ | Marseille ❌✅✅✅✅  
-• H2H: 24 desde 2005: 10V-5E-9D · 2.4 goles/partido · +2.5 en 42%  
-• Bajas: Lens: 2 fuera, 4 duda (Maik Nawrocki, Jhoanner Chavez); Marseille: 0 fuera, 2 duda  
-• Favorito de las casas: Lens @ 2.30  
-📐 **Estadísticas esperadas**  
-Córners 5.4 - 4.0: total +10.5 35% · Lens +5.5 44% · Marseille +4.5 37%  
-Tarjetas 1.9 - 2.1: total +4.5 37% · Lens +2.5 31% · Marseille +2.5 34%  
-Faltas 12.1 - 12.3: total +24.5 47% · Lens +11.5 54% · Marseille +12.5 45%  
-Tiros a puerta 5.3 - 3.9: total +9.5 44% · Lens +5.5 44% · Marseille +4.5 35%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Lens + Menos de 10.5 córners + Menos de 4.5 tiros a puerta de Marseille → prob. 30%, cuota justa 3.30 (solo vale si la casa paga más)  
-🎯 Simulada (crear apuesta): cuota Unibet aprox. 3.65 (producto de piernas) · prob. 30% · ventaja +11% → 1 u en la banca de simulación  
-🎯 Simulada (con cuota: Menos de 10.5 córners + Menos de 4.5 tiros a puerta de Marseille): cuota Unibet aprox. 2.69 (producto de piernas) · prob. 43% · ventaja +16% → 1 u en la banca de simulación  
-
-## Lens vs Marseille — 08/11 · 20:45
-
-👀 candidata · 🇫🇷 Ligue 1 · **Menos de 7.5 córners de Lens** @ **1.16** (Unibet) · prob 79% vs casas 79% · ventaja -9%
-
-- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.55 - 1.22)  
-1 46% · X 28% · 2 26%  
-1X 74% · X2 54% · 12 72%  
-+1.5 77% · +2.5 52% · +3.5 30% · Ambos marcan 56%  
-Marcadores: 1-1 12% · 2-1 9% · 1-0 9% · 2-0 7%  
-🔎 **Claves**  
-• Forma: Lens ❌✅✅✅❌ | Marseille ❌✅✅✅✅  
-• H2H: 24 desde 2005: 10V-5E-9D · 2.4 goles/partido · +2.5 en 42%  
-• Bajas: Lens: 2 fuera, 4 duda (Maik Nawrocki, Jhoanner Chavez); Marseille: 0 fuera, 2 duda  
-• Favorito de las casas: Lens @ 2.30  
-📐 **Estadísticas esperadas**  
-Córners 5.4 - 4.0: total +10.5 35% · Lens +5.5 44% · Marseille +4.5 37%  
-Tarjetas 1.9 - 2.1: total +4.5 37% · Lens +2.5 31% · Marseille +2.5 34%  
-Faltas 12.1 - 12.3: total +24.5 47% · Lens +11.5 54% · Marseille +12.5 45%  
-Tiros a puerta 5.3 - 3.9: total +9.5 44% · Lens +5.5 44% · Marseille +4.5 35%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Lens + Menos de 10.5 córners + Menos de 4.5 tiros a puerta de Marseille → prob. 30%, cuota justa 3.30 (solo vale si la casa paga más)  
-🎯 Simulada (crear apuesta): cuota Unibet aprox. 3.65 (producto de piernas) · prob. 30% · ventaja +11% → 1 u en la banca de simulación  
-🎯 Simulada (con cuota: Menos de 10.5 córners + Menos de 4.5 tiros a puerta de Marseille): cuota Unibet aprox. 2.69 (producto de piernas) · prob. 43% · ventaja +16% → 1 u en la banca de simulación  
-
-## Lens vs Marseille — 08/11 · 20:45
-
-👀 candidata · 🇫🇷 Ligue 1 · **Más de 2.5 córners de Marseille** @ **1.22** (Unibet) · prob 73% vs casas 75% · ventaja -11%
-
-- ❌ Valor: ventaja -11% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.55 - 1.22)  
-1 46% · X 28% · 2 26%  
-1X 74% · X2 54% · 12 72%  
-+1.5 77% · +2.5 52% · +3.5 30% · Ambos marcan 56%  
-Marcadores: 1-1 12% · 2-1 9% · 1-0 9% · 2-0 7%  
-🔎 **Claves**  
-• Forma: Lens ❌✅✅✅❌ | Marseille ❌✅✅✅✅  
-• H2H: 24 desde 2005: 10V-5E-9D · 2.4 goles/partido · +2.5 en 42%  
-• Bajas: Lens: 2 fuera, 4 duda (Maik Nawrocki, Jhoanner Chavez); Marseille: 0 fuera, 2 duda  
-• Favorito de las casas: Lens @ 2.30  
-📐 **Estadísticas esperadas**  
-Córners 5.4 - 4.0: total +10.5 35% · Lens +5.5 44% · Marseille +4.5 37%  
-Tarjetas 1.9 - 2.1: total +4.5 37% · Lens +2.5 31% · Marseille +2.5 34%  
-Faltas 12.1 - 12.3: total +24.5 47% · Lens +11.5 54% · Marseille +12.5 45%  
-Tiros a puerta 5.3 - 3.9: total +9.5 44% · Lens +5.5 44% · Marseille +4.5 35%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Lens + Menos de 10.5 córners + Menos de 4.5 tiros a puerta de Marseille → prob. 30%, cuota justa 3.30 (solo vale si la casa paga más)  
-🎯 Simulada (crear apuesta): cuota Unibet aprox. 3.65 (producto de piernas) · prob. 30% · ventaja +11% → 1 u en la banca de simulación  
-🎯 Simulada (con cuota: Menos de 10.5 córners + Menos de 4.5 tiros a puerta de Marseille): cuota Unibet aprox. 2.69 (producto de piernas) · prob. 43% · ventaja +16% → 1 u en la banca de simulación  
-
-## Lens vs Marseille — 08/11 · 20:45
-
-👀 candidata · 🇫🇷 Ligue 1 · **Menos de 3.5 córners de Marseille** @ **2.30** (Unibet) · prob 43% vs casas 40% · ventaja -0%
-
-- ❌ Valor: ventaja -0% (mín. 7% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.55 - 1.22)  
-1 46% · X 28% · 2 26%  
-1X 74% · X2 54% · 12 72%  
-+1.5 77% · +2.5 52% · +3.5 30% · Ambos marcan 56%  
-Marcadores: 1-1 12% · 2-1 9% · 1-0 9% · 2-0 7%  
-🔎 **Claves**  
-• Forma: Lens ❌✅✅✅❌ | Marseille ❌✅✅✅✅  
-• H2H: 24 desde 2005: 10V-5E-9D · 2.4 goles/partido · +2.5 en 42%  
-• Bajas: Lens: 2 fuera, 4 duda (Maik Nawrocki, Jhoanner Chavez); Marseille: 0 fuera, 2 duda  
-• Favorito de las casas: Lens @ 2.30  
-📐 **Estadísticas esperadas**  
-Córners 5.4 - 4.0: total +10.5 35% · Lens +5.5 44% · Marseille +4.5 37%  
-Tarjetas 1.9 - 2.1: total +4.5 37% · Lens +2.5 31% · Marseille +2.5 34%  
-Faltas 12.1 - 12.3: total +24.5 47% · Lens +11.5 54% · Marseille +12.5 45%  
-Tiros a puerta 5.3 - 3.9: total +9.5 44% · Lens +5.5 44% · Marseille +4.5 35%  
-🧩 Crear apuesta: Menos de 2.5 tarjetas de Lens + Menos de 10.5 córners + Menos de 4.5 tiros a puerta de Marseille → prob. 30%, cuota justa 3.30 (solo vale si la casa paga más)  
-🎯 Simulada (crear apuesta): cuota Unibet aprox. 3.65 (producto de piernas) · prob. 30% · ventaja +11% → 1 u en la banca de simulación  
-🎯 Simulada (con cuota: Menos de 10.5 córners + Menos de 4.5 tiros a puerta de Marseille): cuota Unibet aprox. 2.69 (producto de piernas) · prob. 43% · ventaja +16% → 1 u en la banca de simulación  
-
-## Fiorentina vs Juventus — 08/11 · 20:45
-
-👀 candidata · 🇮🇹 Serie A · **Más de 8.5 córners** @ **1.55** (Unibet) · prob 62% vs casas 60% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.09 - 1.27)  
-1 25% · X 29% · 2 46%  
-1X 54% · X2 75% · 12 71%  
-+1.5 69% · +2.5 42% · +3.5 21% · Ambos marcan 48%  
-Marcadores: 1-1 14% · 0-1 11% · 0-0 10% · 1-0 10%  
-🔎 **Claves**  
-• Forma: Fiorentina ❌❌❌➖✅ | Juventus ➖❌✅❌✅  
-• H2H: 40 desde 2005: 7V-13E-20D · 2.3 goles/partido · +2.5 en 42%  
-• Bajas: Fiorentina: 5 fuera, 5 duda (Roberto Piccoli, Marin Pongracic, Luca Ranieri); Juventus: 8 fuera, 2 duda (Gleison Bremer, Mehmet Zeki Celik, Chico Conceicao)  
-• Favorito de las casas: Juventus @ 2.10  
-📐 **Estadísticas esperadas**  
-Córners 4.9 - 5.0: total +9.5 52% · Fiorentina +5.5 36% · Juventus +4.5 53%  
-Tarjetas 2.0 - 2.0: total +3.5 55% · Fiorentina +1.5 58% · Juventus +2.5 33%  
-Faltas 10.5 - 13.9: total +22.5 62% · Fiorentina +11.5 36% · Juventus +11.5 72%  
-Tiros a puerta 4.0 - 4.7: total +9.5 37% · Fiorentina +4.5 37% · Juventus +4.5 49%  
-🧩 Crear apuesta: Más de 11.5 faltas de Juventus + Menos de 2.5 tarjetas de Juventus + Menos de 5.5 córners de Fiorentina → prob. 29%, cuota justa 3.49 (solo vale si la casa paga más)  
-🚀 Combinada larga: Más de 11.5 faltas de Juventus + Menos de 2.5 tarjetas de Juventus + Menos de 5.5 córners de Fiorentina + Menos de 4.5 tiros a puerta de Fiorentina + Menos de 2.5 goles → prob. 14%, cuota justa 7.33  
-🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Juventus + Menos de 4.5 tiros a puerta de Fiorentina + Menos de 2.5 goles): cuota Unibet aprox. 4.64 (producto de piernas) · prob. 28% · ventaja +32% → 1 u en la banca de simulación  
-
-## Fiorentina vs Juventus — 08/11 · 20:45
-
-👀 candidata · 🇮🇹 Serie A · **Menos de 13.5 córners** @ **1.08** (Unibet) · prob 85% vs casas 84% · ventaja -8%
-
-- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.09 - 1.27)  
-1 25% · X 29% · 2 46%  
-1X 54% · X2 75% · 12 71%  
-+1.5 69% · +2.5 42% · +3.5 21% · Ambos marcan 48%  
-Marcadores: 1-1 14% · 0-1 11% · 0-0 10% · 1-0 10%  
-🔎 **Claves**  
-• Forma: Fiorentina ❌❌❌➖✅ | Juventus ➖❌✅❌✅  
-• H2H: 40 desde 2005: 7V-13E-20D · 2.3 goles/partido · +2.5 en 42%  
-• Bajas: Fiorentina: 5 fuera, 5 duda (Roberto Piccoli, Marin Pongracic, Luca Ranieri); Juventus: 8 fuera, 2 duda (Gleison Bremer, Mehmet Zeki Celik, Chico Conceicao)  
-• Favorito de las casas: Juventus @ 2.10  
-📐 **Estadísticas esperadas**  
-Córners 4.9 - 5.0: total +9.5 52% · Fiorentina +5.5 36% · Juventus +4.5 53%  
-Tarjetas 2.0 - 2.0: total +3.5 55% · Fiorentina +1.5 58% · Juventus +2.5 33%  
-Faltas 10.5 - 13.9: total +22.5 62% · Fiorentina +11.5 36% · Juventus +11.5 72%  
-Tiros a puerta 4.0 - 4.7: total +9.5 37% · Fiorentina +4.5 37% · Juventus +4.5 49%  
-🧩 Crear apuesta: Más de 11.5 faltas de Juventus + Menos de 2.5 tarjetas de Juventus + Menos de 5.5 córners de Fiorentina → prob. 29%, cuota justa 3.49 (solo vale si la casa paga más)  
-🚀 Combinada larga: Más de 11.5 faltas de Juventus + Menos de 2.5 tarjetas de Juventus + Menos de 5.5 córners de Fiorentina + Menos de 4.5 tiros a puerta de Fiorentina + Menos de 2.5 goles → prob. 14%, cuota justa 7.33  
-🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Juventus + Menos de 4.5 tiros a puerta de Fiorentina + Menos de 2.5 goles): cuota Unibet aprox. 4.64 (producto de piernas) · prob. 28% · ventaja +32% → 1 u en la banca de simulación  
-
-## Fiorentina vs Juventus — 08/11 · 20:45
-
-👀 candidata · 🇮🇹 Serie A · **Menos de 6.5 córners de Juventus** @ **1.28** (Unibet) · prob 73% vs casas 72% · ventaja -7%
-
-- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.09 - 1.27)  
-1 25% · X 29% · 2 46%  
-1X 54% · X2 75% · 12 71%  
-+1.5 69% · +2.5 42% · +3.5 21% · Ambos marcan 48%  
-Marcadores: 1-1 14% · 0-1 11% · 0-0 10% · 1-0 10%  
-🔎 **Claves**  
-• Forma: Fiorentina ❌❌❌➖✅ | Juventus ➖❌✅❌✅  
-• H2H: 40 desde 2005: 7V-13E-20D · 2.3 goles/partido · +2.5 en 42%  
-• Bajas: Fiorentina: 5 fuera, 5 duda (Roberto Piccoli, Marin Pongracic, Luca Ranieri); Juventus: 8 fuera, 2 duda (Gleison Bremer, Mehmet Zeki Celik, Chico Conceicao)  
-• Favorito de las casas: Juventus @ 2.10  
-📐 **Estadísticas esperadas**  
-Córners 4.9 - 5.0: total +9.5 52% · Fiorentina +5.5 36% · Juventus +4.5 53%  
-Tarjetas 2.0 - 2.0: total +3.5 55% · Fiorentina +1.5 58% · Juventus +2.5 33%  
-Faltas 10.5 - 13.9: total +22.5 62% · Fiorentina +11.5 36% · Juventus +11.5 72%  
-Tiros a puerta 4.0 - 4.7: total +9.5 37% · Fiorentina +4.5 37% · Juventus +4.5 49%  
-🧩 Crear apuesta: Más de 11.5 faltas de Juventus + Menos de 2.5 tarjetas de Juventus + Menos de 5.5 córners de Fiorentina → prob. 29%, cuota justa 3.49 (solo vale si la casa paga más)  
-🚀 Combinada larga: Más de 11.5 faltas de Juventus + Menos de 2.5 tarjetas de Juventus + Menos de 5.5 córners de Fiorentina + Menos de 4.5 tiros a puerta de Fiorentina + Menos de 2.5 goles → prob. 14%, cuota justa 7.33  
-🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Juventus + Menos de 4.5 tiros a puerta de Fiorentina + Menos de 2.5 goles): cuota Unibet aprox. 4.64 (producto de piernas) · prob. 28% · ventaja +32% → 1 u en la banca de simulación  
-
-## Fiorentina vs Juventus — 08/11 · 20:45
-
-👀 candidata · 🇮🇹 Serie A · **Más de 2.5 córners de Juventus** @ **1.15** (Unibet) · prob 81% vs casas 80% · ventaja -7%
-
-- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.09 - 1.27)  
-1 25% · X 29% · 2 46%  
-1X 54% · X2 75% · 12 71%  
-+1.5 69% · +2.5 42% · +3.5 21% · Ambos marcan 48%  
-Marcadores: 1-1 14% · 0-1 11% · 0-0 10% · 1-0 10%  
-🔎 **Claves**  
-• Forma: Fiorentina ❌❌❌➖✅ | Juventus ➖❌✅❌✅  
-• H2H: 40 desde 2005: 7V-13E-20D · 2.3 goles/partido · +2.5 en 42%  
-• Bajas: Fiorentina: 5 fuera, 5 duda (Roberto Piccoli, Marin Pongracic, Luca Ranieri); Juventus: 8 fuera, 2 duda (Gleison Bremer, Mehmet Zeki Celik, Chico Conceicao)  
-• Favorito de las casas: Juventus @ 2.10  
-📐 **Estadísticas esperadas**  
-Córners 4.9 - 5.0: total +9.5 52% · Fiorentina +5.5 36% · Juventus +4.5 53%  
-Tarjetas 2.0 - 2.0: total +3.5 55% · Fiorentina +1.5 58% · Juventus +2.5 33%  
-Faltas 10.5 - 13.9: total +22.5 62% · Fiorentina +11.5 36% · Juventus +11.5 72%  
-Tiros a puerta 4.0 - 4.7: total +9.5 37% · Fiorentina +4.5 37% · Juventus +4.5 49%  
-🧩 Crear apuesta: Más de 11.5 faltas de Juventus + Menos de 2.5 tarjetas de Juventus + Menos de 5.5 córners de Fiorentina → prob. 29%, cuota justa 3.49 (solo vale si la casa paga más)  
-🚀 Combinada larga: Más de 11.5 faltas de Juventus + Menos de 2.5 tarjetas de Juventus + Menos de 5.5 córners de Fiorentina + Menos de 4.5 tiros a puerta de Fiorentina + Menos de 2.5 goles → prob. 14%, cuota justa 7.33  
-🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Juventus + Menos de 4.5 tiros a puerta de Fiorentina + Menos de 2.5 goles): cuota Unibet aprox. 4.64 (producto de piernas) · prob. 28% · ventaja +32% → 1 u en la banca de simulación  
-
-## Fiorentina vs Juventus — 08/11 · 20:45
-
-👀 candidata · 🇮🇹 Serie A · **Más de 4.5 córners de Fiorentina** @ **2.00** (Unibet) · prob 48% vs casas 46% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.09 - 1.27)  
-1 25% · X 29% · 2 46%  
-1X 54% · X2 75% · 12 71%  
-+1.5 69% · +2.5 42% · +3.5 21% · Ambos marcan 48%  
-Marcadores: 1-1 14% · 0-1 11% · 0-0 10% · 1-0 10%  
-🔎 **Claves**  
-• Forma: Fiorentina ❌❌❌➖✅ | Juventus ➖❌✅❌✅  
-• H2H: 40 desde 2005: 7V-13E-20D · 2.3 goles/partido · +2.5 en 42%  
-• Bajas: Fiorentina: 5 fuera, 5 duda (Roberto Piccoli, Marin Pongracic, Luca Ranieri); Juventus: 8 fuera, 2 duda (Gleison Bremer, Mehmet Zeki Celik, Chico Conceicao)  
-• Favorito de las casas: Juventus @ 2.10  
-📐 **Estadísticas esperadas**  
-Córners 4.9 - 5.0: total +9.5 52% · Fiorentina +5.5 36% · Juventus +4.5 53%  
-Tarjetas 2.0 - 2.0: total +3.5 55% · Fiorentina +1.5 58% · Juventus +2.5 33%  
-Faltas 10.5 - 13.9: total +22.5 62% · Fiorentina +11.5 36% · Juventus +11.5 72%  
-Tiros a puerta 4.0 - 4.7: total +9.5 37% · Fiorentina +4.5 37% · Juventus +4.5 49%  
-🧩 Crear apuesta: Más de 11.5 faltas de Juventus + Menos de 2.5 tarjetas de Juventus + Menos de 5.5 córners de Fiorentina → prob. 29%, cuota justa 3.49 (solo vale si la casa paga más)  
-🚀 Combinada larga: Más de 11.5 faltas de Juventus + Menos de 2.5 tarjetas de Juventus + Menos de 5.5 córners de Fiorentina + Menos de 4.5 tiros a puerta de Fiorentina + Menos de 2.5 goles → prob. 14%, cuota justa 7.33  
-🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Juventus + Menos de 4.5 tiros a puerta de Fiorentina + Menos de 2.5 goles): cuota Unibet aprox. 4.64 (producto de piernas) · prob. 28% · ventaja +32% → 1 u en la banca de simulación  
-
-## Fiorentina vs Juventus — 08/11 · 20:45
-
-👀 candidata · 🇮🇹 Serie A · **Menos de 6.5 córners de Fiorentina** @ **1.20** (Unibet) · prob 76% vs casas 76% · ventaja -9%
-
-- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.09 - 1.27)  
-1 25% · X 29% · 2 46%  
-1X 54% · X2 75% · 12 71%  
-+1.5 69% · +2.5 42% · +3.5 21% · Ambos marcan 48%  
-Marcadores: 1-1 14% · 0-1 11% · 0-0 10% · 1-0 10%  
-🔎 **Claves**  
-• Forma: Fiorentina ❌❌❌➖✅ | Juventus ➖❌✅❌✅  
-• H2H: 40 desde 2005: 7V-13E-20D · 2.3 goles/partido · +2.5 en 42%  
-• Bajas: Fiorentina: 5 fuera, 5 duda (Roberto Piccoli, Marin Pongracic, Luca Ranieri); Juventus: 8 fuera, 2 duda (Gleison Bremer, Mehmet Zeki Celik, Chico Conceicao)  
-• Favorito de las casas: Juventus @ 2.10  
-📐 **Estadísticas esperadas**  
-Córners 4.9 - 5.0: total +9.5 52% · Fiorentina +5.5 36% · Juventus +4.5 53%  
-Tarjetas 2.0 - 2.0: total +3.5 55% · Fiorentina +1.5 58% · Juventus +2.5 33%  
-Faltas 10.5 - 13.9: total +22.5 62% · Fiorentina +11.5 36% · Juventus +11.5 72%  
-Tiros a puerta 4.0 - 4.7: total +9.5 37% · Fiorentina +4.5 37% · Juventus +4.5 49%  
-🧩 Crear apuesta: Más de 11.5 faltas de Juventus + Menos de 2.5 tarjetas de Juventus + Menos de 5.5 córners de Fiorentina → prob. 29%, cuota justa 3.49 (solo vale si la casa paga más)  
-🚀 Combinada larga: Más de 11.5 faltas de Juventus + Menos de 2.5 tarjetas de Juventus + Menos de 5.5 córners de Fiorentina + Menos de 4.5 tiros a puerta de Fiorentina + Menos de 2.5 goles → prob. 14%, cuota justa 7.33  
-🎯 Simulada (con cuota: Menos de 2.5 tarjetas de Juventus + Menos de 4.5 tiros a puerta de Fiorentina + Menos de 2.5 goles): cuota Unibet aprox. 4.64 (producto de piernas) · prob. 28% · ventaja +32% → 1 u en la banca de simulación  
+Actualizado 08/11/2026 20:50 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Ath Madrid vs Barcelona — 08/11 · 21:00
 
@@ -958,6 +594,150 @@ Marcadores: 1-1 13% · 0-1 9% · 1-0 9% · 0-0 8%
 
 - ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
 - ✅ Segmento «⚽ goles» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.65 - 1.04)  
+1 50% · X 28% · 2 22%  
+1X 78% · X2 50% · 12 72%  
++1.5 75% · +2.5 50% · +3.5 28% · Ambos marcan 53%  
+Marcadores: 1-1 12% · 1-0 11% · 2-1 10% · 2-0 9%  
+🔎 **Claves**  
+• Forma: Sabadell ➖✅❌➖❌ | Sociedad B ❌❌❌❌✅  
+• H2H: sin precedentes  
+• Bajas: Sabadell: sin bajas; Sociedad B: sin bajas  
+• Favorito de las casas: Sabadell @ 1.68  
+📐 **Estadísticas esperadas**  
+Córners 6.4 - 3.6: total +9.5 53% · Sabadell +5.5 56% · Sociedad B +4.5 30%  
+Tarjetas 2.5 - 3.1: total +5.5 49% · Sabadell +2.5 46% · Sociedad B +3.5 38%  
+Faltas 13.4 - 13.7: total +26.5 53% · Sabadell +13.5 47% · Sociedad B +13.5 50%  
+Tiros a puerta 6.0 - 3.4: total +9.5 46% · Sabadell +5.5 54% · Sociedad B +4.5 26%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Sociedad B + Menos de 4.5 córners de Sociedad B + Menos de 3.5 tarjetas de Sociedad B → prob. 33%, cuota justa 3.07 (solo vale si la casa paga más)  
+
+## Sabadell vs Sociedad B — 09/11 · 20:30
+
+👀 candidata · 🇪🇸 LaLiga 2 · **Más de 6.5 córners de Sabadell** @ **2.28** (Unibet) · prob 42% vs casas 40% · ventaja -5%
+
+- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.65 - 1.04)  
+1 50% · X 28% · 2 22%  
+1X 78% · X2 50% · 12 72%  
++1.5 75% · +2.5 50% · +3.5 28% · Ambos marcan 53%  
+Marcadores: 1-1 12% · 1-0 11% · 2-1 10% · 2-0 9%  
+🔎 **Claves**  
+• Forma: Sabadell ➖✅❌➖❌ | Sociedad B ❌❌❌❌✅  
+• H2H: sin precedentes  
+• Bajas: Sabadell: sin bajas; Sociedad B: sin bajas  
+• Favorito de las casas: Sabadell @ 1.68  
+📐 **Estadísticas esperadas**  
+Córners 6.4 - 3.6: total +9.5 53% · Sabadell +5.5 56% · Sociedad B +4.5 30%  
+Tarjetas 2.5 - 3.1: total +5.5 49% · Sabadell +2.5 46% · Sociedad B +3.5 38%  
+Faltas 13.4 - 13.7: total +26.5 53% · Sabadell +13.5 47% · Sociedad B +13.5 50%  
+Tiros a puerta 6.0 - 3.4: total +9.5 46% · Sabadell +5.5 54% · Sociedad B +4.5 26%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Sociedad B + Menos de 4.5 córners de Sociedad B + Menos de 3.5 tarjetas de Sociedad B → prob. 33%, cuota justa 3.07 (solo vale si la casa paga más)  
+
+## Sabadell vs Sociedad B — 09/11 · 20:30
+
+👀 candidata · 🇪🇸 LaLiga 2 · **Menos de 7.5 córners de Sabadell** @ **1.30** (Unibet) · prob 69% vs casas 70% · ventaja -11%
+
+- ❌ Valor: ventaja -11% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.65 - 1.04)  
+1 50% · X 28% · 2 22%  
+1X 78% · X2 50% · 12 72%  
++1.5 75% · +2.5 50% · +3.5 28% · Ambos marcan 53%  
+Marcadores: 1-1 12% · 1-0 11% · 2-1 10% · 2-0 9%  
+🔎 **Claves**  
+• Forma: Sabadell ➖✅❌➖❌ | Sociedad B ❌❌❌❌✅  
+• H2H: sin precedentes  
+• Bajas: Sabadell: sin bajas; Sociedad B: sin bajas  
+• Favorito de las casas: Sabadell @ 1.68  
+📐 **Estadísticas esperadas**  
+Córners 6.4 - 3.6: total +9.5 53% · Sabadell +5.5 56% · Sociedad B +4.5 30%  
+Tarjetas 2.5 - 3.1: total +5.5 49% · Sabadell +2.5 46% · Sociedad B +3.5 38%  
+Faltas 13.4 - 13.7: total +26.5 53% · Sabadell +13.5 47% · Sociedad B +13.5 50%  
+Tiros a puerta 6.0 - 3.4: total +9.5 46% · Sabadell +5.5 54% · Sociedad B +4.5 26%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Sociedad B + Menos de 4.5 córners de Sociedad B + Menos de 3.5 tarjetas de Sociedad B → prob. 33%, cuota justa 3.07 (solo vale si la casa paga más)  
+
+## Sabadell vs Sociedad B — 09/11 · 20:30
+
+👀 candidata · 🇪🇸 LaLiga 2 · **Más de 3.5 córners de Sociedad B** @ **2.18** (Unibet) · prob 44% vs casas 42% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.65 - 1.04)  
+1 50% · X 28% · 2 22%  
+1X 78% · X2 50% · 12 72%  
++1.5 75% · +2.5 50% · +3.5 28% · Ambos marcan 53%  
+Marcadores: 1-1 12% · 1-0 11% · 2-1 10% · 2-0 9%  
+🔎 **Claves**  
+• Forma: Sabadell ➖✅❌➖❌ | Sociedad B ❌❌❌❌✅  
+• H2H: sin precedentes  
+• Bajas: Sabadell: sin bajas; Sociedad B: sin bajas  
+• Favorito de las casas: Sabadell @ 1.68  
+📐 **Estadísticas esperadas**  
+Córners 6.4 - 3.6: total +9.5 53% · Sabadell +5.5 56% · Sociedad B +4.5 30%  
+Tarjetas 2.5 - 3.1: total +5.5 49% · Sabadell +2.5 46% · Sociedad B +3.5 38%  
+Faltas 13.4 - 13.7: total +26.5 53% · Sabadell +13.5 47% · Sociedad B +13.5 50%  
+Tiros a puerta 6.0 - 3.4: total +9.5 46% · Sabadell +5.5 54% · Sociedad B +4.5 26%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Sociedad B + Menos de 4.5 córners de Sociedad B + Menos de 3.5 tarjetas de Sociedad B → prob. 33%, cuota justa 3.07 (solo vale si la casa paga más)  
+
+## Sabadell vs Sociedad B — 09/11 · 20:30
+
+👀 candidata · 🇪🇸 LaLiga 2 · **Menos de 3.5 córners de Sociedad B** @ **1.56** (Unibet) · prob 56% vs casas 58% · ventaja -13%
+
+- ❌ Valor: ventaja -13% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.65 - 1.04)  
+1 50% · X 28% · 2 22%  
+1X 78% · X2 50% · 12 72%  
++1.5 75% · +2.5 50% · +3.5 28% · Ambos marcan 53%  
+Marcadores: 1-1 12% · 1-0 11% · 2-1 10% · 2-0 9%  
+🔎 **Claves**  
+• Forma: Sabadell ➖✅❌➖❌ | Sociedad B ❌❌❌❌✅  
+• H2H: sin precedentes  
+• Bajas: Sabadell: sin bajas; Sociedad B: sin bajas  
+• Favorito de las casas: Sabadell @ 1.68  
+📐 **Estadísticas esperadas**  
+Córners 6.4 - 3.6: total +9.5 53% · Sabadell +5.5 56% · Sociedad B +4.5 30%  
+Tarjetas 2.5 - 3.1: total +5.5 49% · Sabadell +2.5 46% · Sociedad B +3.5 38%  
+Faltas 13.4 - 13.7: total +26.5 53% · Sabadell +13.5 47% · Sociedad B +13.5 50%  
+Tiros a puerta 6.0 - 3.4: total +9.5 46% · Sabadell +5.5 54% · Sociedad B +4.5 26%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Sociedad B + Menos de 4.5 córners de Sociedad B + Menos de 3.5 tarjetas de Sociedad B → prob. 33%, cuota justa 3.07 (solo vale si la casa paga más)  
+
+## Sabadell vs Sociedad B — 09/11 · 20:30
+
+👀 candidata · 🇪🇸 LaLiga 2 · **Más de 8.5 córners** @ **1.63** (Unibet) · prob 60% vs casas 56% · ventaja -1%
+
+- ❌ Valor: ventaja -1% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.65 - 1.04)  
+1 50% · X 28% · 2 22%  
+1X 78% · X2 50% · 12 72%  
++1.5 75% · +2.5 50% · +3.5 28% · Ambos marcan 53%  
+Marcadores: 1-1 12% · 1-0 11% · 2-1 10% · 2-0 9%  
+🔎 **Claves**  
+• Forma: Sabadell ➖✅❌➖❌ | Sociedad B ❌❌❌❌✅  
+• H2H: sin precedentes  
+• Bajas: Sabadell: sin bajas; Sociedad B: sin bajas  
+• Favorito de las casas: Sabadell @ 1.68  
+📐 **Estadísticas esperadas**  
+Córners 6.4 - 3.6: total +9.5 53% · Sabadell +5.5 56% · Sociedad B +4.5 30%  
+Tarjetas 2.5 - 3.1: total +5.5 49% · Sabadell +2.5 46% · Sociedad B +3.5 38%  
+Faltas 13.4 - 13.7: total +26.5 53% · Sabadell +13.5 47% · Sociedad B +13.5 50%  
+Tiros a puerta 6.0 - 3.4: total +9.5 46% · Sabadell +5.5 54% · Sociedad B +4.5 26%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Sociedad B + Menos de 4.5 córners de Sociedad B + Menos de 3.5 tarjetas de Sociedad B → prob. 33%, cuota justa 3.07 (solo vale si la casa paga más)  
+
+## Sabadell vs Sociedad B — 09/11 · 20:30
+
+👀 candidata · 🇪🇸 LaLiga 2 · **Menos de 10.5 córners** @ **1.43** (Unibet) · prob 62% vs casas 64% · ventaja -12%
+
+- ❌ Valor: ventaja -12% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
 
 📊 **Escenarios** (goles esperados 1.65 - 1.04)  
 1 50% · X 28% · 2 22%  
