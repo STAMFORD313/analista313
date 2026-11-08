@@ -1555,15 +1555,17 @@
     "away": "Juventus",
     "txt": "Menos de 3.5 tarjetas",
     "odds": 2.6,
-    "p": 0.4013041945790104
+    "p": 0.4013041945790104,
+    "ok": false,
+    "por": "hubo 4 tarjetas"
    }
   ],
   "odds": 29.72,
   "p": 0.03994608309856883,
   "stake": 1.0,
-  "estado": "pendiente",
-  "avisada": false,
-  "rev": 1
+  "estado": "perdida",
+  "avisada": true,
+  "rev": 2
  },
  {
   "id": "20261108024643782032",
