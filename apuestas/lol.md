@@ -1,6 +1,6 @@
 # 🧙 LoL · apuestas de valor
 
-Actualizado 08/11/2026 14:43 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 08/11/2026 15:08 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Bilibili Gaming vs T1 — 08/11 · 23:00
 
