@@ -1,42 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 08/11/2026 05:33 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Machida vs Sanfrecce Hiroshima — 08/11 · 06:00
-
-👀 candidata · 🇯🇵 J1 League · **Gana Machida** @ **3.00** (Bet365) · prob 32% vs casas 32% · ventaja -2%
-
-- ❌ Valor: ventaja -2% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.17 - 1.17)  
-1 40% · X 28% · 2 32%  
-1X 68% · X2 60% · 12 72%  
-+1.5 68% · +2.5 41% · +3.5 21% · Ambos marcan 48%  
-Marcadores: 1-1 14% · 0-1 11% · 1-0 11% · 0-0 10%  
-🔎 **Claves**  
-• Forma: Machida ✅✅✅➖➖ | Sanfrecce Hiroshima ✅✅❌✅✅  
-• H2H: 4 desde 2024: 0V-0E-4D · 2.8 goles/partido · +2.5 en 75%  
-• Bajas: Machida: sin bajas; Sanfrecce Hiroshima: sin bajas  
-• Favorito de las casas: Sanfrecce Hiroshima @ 2.25  
-
-## Vissel Kobe vs Urawa Reds — 08/11 · 06:00
-
-👀 candidata · 🇯🇵 J1 League · **Gana Urawa Reds** @ **3.30** (Bet365) · prob 29% vs casas 29% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.57 - 0.77)  
-1 55% · X 26% · 2 20%  
-1X 80% · X2 45% · 12 74%  
-+1.5 68% · +2.5 41% · +3.5 21% · Ambos marcan 43%  
-Marcadores: 1-0 15% · 1-1 12% · 2-0 12% · 0-0 10%  
-🔎 **Claves**  
-• Forma: Vissel Kobe ❌✅❌➖✅ | Urawa Reds ❌✅✅✅❌  
-• H2H: 26 desde 2012: 8V-6E-12D · 2.7 goles/partido · +2.5 en 50%  
-• Bajas: Vissel Kobe: sin bajas; Urawa Reds: sin bajas  
-• Favorito de las casas: Vissel Kobe @ 2.05  
+Actualizado 08/11/2026 06:03 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Gamba Osaka vs Cerezo Osaka — 08/11 · 07:00
 
