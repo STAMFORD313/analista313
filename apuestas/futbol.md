@@ -1,24 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 08/11/2026 06:30 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Gamba Osaka vs Cerezo Osaka — 08/11 · 07:00
-
-👀 candidata · 🇯🇵 J1 League · **Gana Cerezo Osaka** @ **3.10** (Bet365) · prob 31% vs casas 31% · ventaja -3%
-
-- ❌ Valor: ventaja -3% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.69 - 1.31)  
-1 46% · X 26% · 2 28%  
-1X 72% · X2 54% · 12 74%  
-+1.5 81% · +2.5 58% · +3.5 35% · Ambos marcan 60%  
-Marcadores: 1-1 12% · 2-1 9% · 1-0 8% · 1-2 7%  
-🔎 **Claves**  
-• Forma: Gamba Osaka ❌➖✅➖➖ | Cerezo Osaka ➖❌➖➖❌  
-• H2H: 22 desde 2012: 7V-5E-10D · 2.6 goles/partido · +2.5 en 50%  
-• Bajas: Gamba Osaka: sin bajas; Cerezo Osaka: sin bajas  
-• Favorito de las casas: Gamba Osaka @ 2.20  
+Actualizado 08/11/2026 07:03 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Chiba vs Mito — 08/11 · 09:00
 
