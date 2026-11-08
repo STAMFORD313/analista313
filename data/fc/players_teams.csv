@@ -60837,14 +60837,14 @@ id,tournament_id,club1,club2,ht1,ht2
 2368621,261308,Man City,Tottenham,,
 2368622,261308,Liverpool,Man City,,
 2368623,261308,Arsenal,Chelsea,,
-2369866,261326,Adelaide United,Melbourne City,2,1
-2369867,261326,Sydney FC,Melbourne Victory,3,0
-2369868,261326,Melbourne Victory,Adelaide United,1,2
-2369869,261326,Melbourne City,Western Sydney Wanderers,2,3
-2369870,261326,Western Sydney Wanderers,Melbourne Victory,3,1
-2369871,261326,Adelaide United,Sydney FC,1,3
-2369872,261326,Sydney FC,Western Sydney Wanderers,2,4
-2369873,261326,Melbourne Victory,Melbourne City,1,3
+2369866,261326,Adelaide United,Melbourne City,2.0,1.0
+2369867,261326,Sydney FC,Melbourne Victory,3.0,0.0
+2369868,261326,Melbourne Victory,Adelaide United,1.0,2.0
+2369869,261326,Melbourne City,Western Sydney Wanderers,2.0,3.0
+2369870,261326,Western Sydney Wanderers,Melbourne Victory,3.0,1.0
+2369871,261326,Adelaide United,Sydney FC,1.0,3.0
+2369872,261326,Sydney FC,Western Sydney Wanderers,2.0,4.0
+2369873,261326,Melbourne Victory,Melbourne City,1.0,3.0
 2369874,261326,Melbourne City,Sydney FC,,
 2369875,261326,Western Sydney Wanderers,Adelaide United,,
 2369876,261326,Melbourne City,Adelaide United,,
@@ -60857,3 +60857,23 @@ id,tournament_id,club1,club2,ht1,ht2
 2369883,261326,Melbourne City,Melbourne Victory,,
 2369884,261326,Sydney FC,Melbourne City,,
 2369885,261326,Adelaide United,Western Sydney Wanderers,,
+2369640,261374,Netherlands,Portugal,2,2
+2369641,261374,Germany,Morocco,3,0
+2369642,261374,Morocco,Netherlands,4,1
+2369643,261374,Portugal,Belgium,2,0
+2369644,261374,Belgium,Morocco,3,1
+2369645,261374,Netherlands,Germany,1,0
+2369646,261374,Germany,Belgium,1,0
+2369647,261374,Morocco,Portugal,1,1
+2369648,261374,Portugal,Germany,2,1
+2369649,261374,Belgium,Netherlands,1,0
+2369650,261374,Portugal,Netherlands,,
+2369651,261374,Morocco,Germany,,
+2369652,261374,Netherlands,Morocco,,
+2369653,261374,Belgium,Portugal,,
+2369654,261374,Morocco,Belgium,,
+2369655,261374,Germany,Netherlands,,
+2369656,261374,Belgium,Germany,,
+2369657,261374,Portugal,Morocco,,
+2369658,261374,Germany,Portugal,,
+2369659,261374,Netherlands,Belgium,,

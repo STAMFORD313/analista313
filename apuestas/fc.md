@@ -1,61 +1,61 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 08/11/2026 17:38 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 08/11/2026 18:17 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## Shinobu vs Smetana — 08/11 · 17:50
+## DEKSON vs Jankulovski — 08/11 · 18:23
 
-👀 candidata · 🎮⚽ FC 27 · A-League · **Gana Smetana** @ **1.50** (Unibet) · prob 77% vs casas 59% · ventaja +15%
+👀 candidata · 🎮⚽ FC 27 · Champions League A · **Empate** @ **4.50** (Unibet) · prob 24% vs casas 19% · ventaja +7%
 
-- ✅ Valor: ventaja +15% (mín. 12% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 60.826 partidos)  
-Goles esperados: Shinobu 2.03 · Smetana 4.08  
-Ganador: Shinobu 11% · empate 12% · Smetana 77%  
-Total: más de 6.5 goles 41% · menos 59%  
-Hándicap Smetana: −1.5 58% · −2.5 42%  
-🔎 **Claves**  
-• Forma: Shinobu ❌❌❌❌❌ | Smetana ❌✅✅✅❌  
-• Partidos: Shinobu 1314 | Smetana 1095  
-• Liga: A-League  
-• Unibet: 1 3.65 · X 5.10 · 2 1.50 (sin margen 24%/17%/59%) · ventaja +15%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 1.50 (+15%) · Paf España 1.50 (+15%)  
-
-## Smetana vs saige — 08/11 · 18:02
-
-👀 candidata · 🎮⚽ FC 27 · A-League · **Gana Smetana** @ **1.68** (Unibet) · prob 70% vs casas 52% · ventaja +17%
-
-- ✅ Valor: ventaja +17% (mín. 12% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 60.826 partidos)  
-Goles esperados: Smetana 4.10 · saige 2.50  
-Ganador: Smetana 69% · empate 13% · saige 17%  
-Total: más de 6.5 goles 49% · menos 51%  
-Hándicap Smetana: −1.5 51% · −2.5 36%  
-🔎 **Claves**  
-• Forma: Smetana ❌✅✅✅❌ | saige ❌✅❌❌❌  
-• Partidos: Smetana 1095 | saige 471  
-• Liga: A-League  
-• Unibet: 1 1.68 · X 6.10 · 2 2.65 (sin margen 52%/14%/33%) · ventaja +17%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 1.68 (+17%) · Paf España 1.68 (+17%)  
-
-## Linox vs DEKSON — 08/11 · 18:11
-
-👀 candidata · 🎮⚽ FC 27 · Champions League A · **Empate** @ **4.30** (Unibet) · prob 27% vs casas 20% · ventaja +15%
-
-- ✅ Valor: ventaja +15% (mín. 12% con la incertidumbre, máx. 30%)
+- ❌ Valor: ventaja +7% (mín. 10% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 60.826 partidos)  
-Goles esperados: Linox 2.06 · DEKSON 1.86  
-Ganador: Linox 41% · empate 27% · DEKSON 32%  
-Total: más de 3.5 goles 55% · menos 45%  
-Hándicap Linox: −1.5 25% · −2.5 12%  
+📊 **Escenarios** (Poisson por jugador, 60.858 partidos)  
+Goles esperados: DEKSON 2.52 · Jankulovski 2.03  
+Ganador: DEKSON 49% · empate 24% · Jankulovski 28%  
+Total: más de 4.5 goles 48% · menos 52%  
+Hándicap DEKSON: −1.5 31% · −2.5 17%  
 🔎 **Claves**  
-• Forma: Linox ➖➖✅❌✅ | DEKSON ❌✅✅✅✅  
-• Partidos: Linox 799 | DEKSON 489  
+• Forma: DEKSON ✅✅✅✅✅ | Jankulovski ❌❌➖❌✅  
+• Partidos: DEKSON 491 | Jankulovski 851  
 • Liga: Champions League A  
-• Unibet: 1 1.90 · X 4.30 · 2 2.60 (sin margen 46%/20%/34%) · ventaja +15%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 4.30 (+15%) · Paf España 4.30 (+15%)  
+• Unibet: 1 1.79 · X 4.50 · 2 2.75 (sin margen 49%/19%/32%) · ventaja +7%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 4.50 (+7%) · Paf España 4.50 (+7%)  
+
+## w1nkos vs Rodja — 08/11 · 18:32
+
+👀 candidata · 🎮⚽ FC 27 · World Cup B · **Empate** @ **5.75** (Unibet) · prob 21% vs casas 15% · ventaja +23%
+
+- ✅ Valor: ventaja +23% (mín. 14% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 60.858 partidos)  
+Goles esperados: w1nkos 3.24 · Rodja 2.90  
+Ganador: w1nkos 45% · empate 21% · Rodja 33%  
+Total: más de 6.5 goles 42% · menos 58%  
+Hándicap w1nkos: −1.5 31% · −2.5 19%  
+🔎 **Claves**  
+• Forma: w1nkos ➖❌❌✅❌ | Rodja ✅❌❌✅✅  
+• Partidos: w1nkos 1154 | Rodja 986  
+• Liga: World Cup B  
+• Unibet: 1 1.79 · X 5.75 · 2 2.48 (sin margen 49%/15%/36%) · ventaja +23%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 5.75 (+23%) · Paf España 5.75 (+23%)  
+
+## Gaga vs maggett0 — 08/11 · 18:32
+
+👀 candidata · 🎮⚽ FC 27 · World Cup B · **Empate** @ **4.40** (Unibet) · prob 24% vs casas 20% · ventaja +7%
+
+- ❌ Valor: ventaja +7% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 60.858 partidos)  
+Goles esperados: Gaga 2.49 · maggett0 2.52  
+Ganador: Gaga 38% · empate 24% · maggett0 37%  
+Total: más de 5.5 goles 39% · menos 61%  
+Hándicap maggett0: −1.5 25% · −2.5 13%  
+🔎 **Claves**  
+• Forma: Gaga ➖✅✅❌✅ | maggett0 ❌❌✅❌❌  
+• Partidos: Gaga 1130 | maggett0 964  
+• Liga: World Cup B  
+• Unibet: 1 2.00 · X 4.40 · 2 2.38 (sin margen 44%/20%/37%) · ventaja +7%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 4.40 (+7%) · Paf España 4.40 (+7%)  
 

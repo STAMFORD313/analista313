@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 08/11/2026 17:38 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 08/11/2026 18:17 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Alliance vs PRIVATE — 08/11 · 19:00
 
