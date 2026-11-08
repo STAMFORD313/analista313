@@ -233,3 +233,4 @@
 - 7/11 02:15 FC 27 por liga y formato (cuotas reales, 298 partidos): 2x4 −3.8 %/−7.2 %, 2x6 −6.0 %/−3.2 % por mitades; solo Bundesliga sale + (+2.9 % en 114 piernas ≈ 10 partidos: ruido). Sin cambios: no hay liga con ventaja demostrada.
 - 7/11 08:15 analista en rojo desde 07:22: el test de revisión experta (bankroll.place) usaba los segmentos bloqueados reales de estrategias.factor, que hoy bloquearon ⚽ → 0 apuestas. Test hermético (factor=1 en ese bloque).
 - 8/11 21:15 analista en rojo desde 20:09: el test de simuladas usa partidos del 4/11 y al pasar 4 días (GIVE_UP) settle() los daba por nulos. Test hermético frente al reloj (GIVE_UP enorme en ese bloque).
+- 8/11 22:20 tests a prueba de calendario: ejecutados con el reloj adelantado 30 y 120 días (sitecustomize que desplaza pd.Timestamp.now/datetime.now). Fallaba otro bloque de simuladas por GIVE_UP → GIVE_UP enorme para todo el archivo de tests. Pasan hoy, +30 d y +120 d.
