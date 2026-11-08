@@ -1332,7 +1332,6 @@ matchup,start,league,home,away,market,line,o_home,o_away,o_draw,o_over,o_under,s
 1640267613,2026-11-08 18:00:00+00:00,ATP Challenger Knoxville - Qualifiers,Andres Martin,Jordan Lee,moneyline,,1.6098,2.3,,,,2026-11-08 17:42:10.928985+00:00
 1640267613,2026-11-08 18:00:00+00:00,ATP Challenger Knoxville - Qualifiers,Andres Martin,Jordan Lee,spread,-1.5,2.46,1.5405,,,,2026-11-08 17:42:10.928985+00:00
 1640267613,2026-11-08 18:00:00+00:00,ATP Challenger Knoxville - Qualifiers,Andres Martin,Jordan Lee,total,2.5,,,,2.44,1.5464,2026-11-08 17:42:10.928985+00:00
-1640045167,2026-11-09 02:00:00+00:00,WTA Finals Indian Wells - Doubles,Cristina Bucsa / Nicole Melichar,Ellen Perez / Demi Schuurs,moneyline,,1.7092,2.14,,,,2026-11-08 17:42:10.928985+00:00
 1640265598,2026-11-08 17:50:00+00:00,ATP Challenger Lima - Qualifiers,Boris Arias,Johan Nikles,moneyline,,7.57,1.0745,,,,2026-11-08 17:42:10.928985+00:00
 1640253507,2026-11-08 19:00:00+00:00,ATP Challenger Lima - Qualifiers,Ryan Nijboer,Filip Misolic,moneyline,,3.55,1.289,,,,2026-11-08 18:15:46.772633+00:00
 1640253507,2026-11-08 19:00:00+00:00,ATP Challenger Lima - Qualifiers,Ryan Nijboer,Filip Misolic,spread,1.5,1.9434,1.8403,,,,2026-11-08 18:15:46.772633+00:00
@@ -1343,201 +1342,202 @@ matchup,start,league,home,away,market,line,o_home,o_away,o_draw,o_over,o_under,s
 1640243577,2026-11-08 19:00:00+00:00,ATP Challenger Orleans - Qualifiers,Pierre Delage,Lucas Poullain,moneyline,,6.27,1.1287,,,,2026-11-08 18:15:46.772633+00:00
 1640243577,2026-11-08 19:00:00+00:00,ATP Challenger Orleans - Qualifiers,Pierre Delage,Lucas Poullain,spread,1.5,2.75,1.4608,,,,2026-11-08 18:15:46.772633+00:00
 1640243577,2026-11-08 19:00:00+00:00,ATP Challenger Orleans - Qualifiers,Pierre Delage,Lucas Poullain,total,2.5,,,,3.44,1.3205,2026-11-08 18:15:46.772633+00:00
-1640205753,2026-11-09 03:00:00+00:00,ATP Challenger Brisbane - R1,Alafia Ayeni,Edward Winter,moneyline,,2.77,1.4545,,,,2026-11-08 18:42:33.422457+00:00
-1640205753,2026-11-09 03:00:00+00:00,ATP Challenger Brisbane - R1,Alafia Ayeni,Edward Winter,spread,1.5,1.7143,2.16,,,,2026-11-08 18:42:33.422457+00:00
-1640205753,2026-11-09 03:00:00+00:00,ATP Challenger Brisbane - R1,Alafia Ayeni,Edward Winter,total,2.5,,,,2.56,1.5208,2026-11-08 18:42:33.422457+00:00
-1640258911,2026-11-09 04:00:00+00:00,ITF Men Kuala Lumpur - R16,Hien Pham,Lleyton Richards,moneyline,,1.2591,3.67,,,,2026-11-08 18:42:33.422457+00:00
-1640258911,2026-11-09 04:00:00+00:00,ITF Men Kuala Lumpur - R16,Hien Pham,Lleyton Richards,spread,-1.5,1.5464,2.39,,,,2026-11-08 18:42:33.422457+00:00
-1640258911,2026-11-09 04:00:00+00:00,ITF Men Kuala Lumpur - R16,Hien Pham,Lleyton Richards,total,2.5,,,,3.7,1.2558,2026-11-08 18:42:33.422457+00:00
-1640231004,2026-11-09 16:00:00+00:00,ATP Stockholm - R1,Tomas Martin Etcheverry,Max Dahlin,moneyline,,1.2907,3.85,,,,2026-11-08 18:42:33.422457+00:00
-1640231004,2026-11-09 16:00:00+00:00,ATP Stockholm - R1,Tomas Martin Etcheverry,Max Dahlin,spread,-1.5,1.8621,2.0,,,,2026-11-08 18:42:33.422457+00:00
-1640231004,2026-11-09 16:00:00+00:00,ATP Stockholm - R1,Tomas Martin Etcheverry,Max Dahlin,total,2.5,,,,2.69,1.5,2026-11-08 18:42:33.422457+00:00
-1640267616,2026-11-08 21:45:00+00:00,ATP Challenger Knoxville - Qualifiers,Shunsuke Mitsui,Geoffrey Blancaneaux,moneyline,,1.7874,2.01,,,,2026-11-08 18:42:33.422457+00:00
-1640267616,2026-11-08 21:45:00+00:00,ATP Challenger Knoxville - Qualifiers,Shunsuke Mitsui,Geoffrey Blancaneaux,spread,-1.5,2.76,1.4386,,,,2026-11-08 18:42:33.422457+00:00
-1640267616,2026-11-08 21:45:00+00:00,ATP Challenger Knoxville - Qualifiers,Shunsuke Mitsui,Geoffrey Blancaneaux,total,2.5,,,,2.41,1.5587,2026-11-08 18:42:33.422457+00:00
 1640267615,2026-11-08 19:30:00+00:00,ATP Challenger Knoxville - Qualifiers,Ozan Baris,Quinn Vandecasteele,moneyline,,1.6452,2.23,,,,2026-11-08 18:42:33.422457+00:00
 1640267615,2026-11-08 19:30:00+00:00,ATP Challenger Knoxville - Qualifiers,Ozan Baris,Quinn Vandecasteele,spread,-1.5,2.58,1.495,,,,2026-11-08 18:42:33.422457+00:00
 1640267615,2026-11-08 19:30:00+00:00,ATP Challenger Knoxville - Qualifiers,Ozan Baris,Quinn Vandecasteele,total,2.5,,,,2.28,1.6173,2026-11-08 18:42:33.422457+00:00
-1640258857,2026-11-09 09:00:00+00:00,ATP Challenger Orleans - R1,Otto Virtanen,Dino Prizmic,moneyline,,2.07,1.8,,,,2026-11-08 18:42:33.422457+00:00
-1640258857,2026-11-09 09:00:00+00:00,ATP Challenger Orleans - R1,Otto Virtanen,Dino Prizmic,spread,1.5,1.4098,3.0,,,,2026-11-08 18:42:33.422457+00:00
-1640258857,2026-11-09 09:00:00+00:00,ATP Challenger Orleans - R1,Otto Virtanen,Dino Prizmic,total,2.5,,,,2.22,1.6897,2026-11-08 18:42:33.422457+00:00
-1640254887,2026-11-09 09:00:00+00:00,ATP Challenger Orleans - R1,Dalibor Svrcina,Vitaliy Sachko,moneyline,,1.5556,2.53,,,,2026-11-08 18:42:33.422457+00:00
-1640254887,2026-11-09 09:00:00+00:00,ATP Challenger Orleans - R1,Dalibor Svrcina,Vitaliy Sachko,spread,-1.5,2.46,1.5747,,,,2026-11-08 18:42:33.422457+00:00
-1640254887,2026-11-09 09:00:00+00:00,ATP Challenger Orleans - R1,Dalibor Svrcina,Vitaliy Sachko,total,2.5,,,,2.27,1.6623,2026-11-08 18:42:33.422457+00:00
-1640260071,2026-11-09 09:00:00+00:00,ATP Challenger Orleans - R1,Jurij Rodionov,Pedro Martinez,moneyline,,1.2825,3.86,,,,2026-11-08 18:42:33.422457+00:00
-1640260071,2026-11-09 09:00:00+00:00,ATP Challenger Orleans - R1,Jurij Rodionov,Pedro Martinez,spread,-1.5,1.7463,2.13,,,,2026-11-08 18:42:33.422457+00:00
-1640260071,2026-11-09 09:00:00+00:00,ATP Challenger Orleans - R1,Jurij Rodionov,Pedro Martinez,total,2.5,,,,2.96,1.4167,2026-11-08 18:42:33.422457+00:00
-1640045183,2026-11-09 21:30:00+00:00,WTA Finals Indian Wells - Groups,Mirra Andreeva,Elina Svitolina,moneyline,,1.5495,2.64,,,,2026-11-08 18:42:33.422457+00:00
-1640045183,2026-11-09 21:30:00+00:00,WTA Finals Indian Wells - Groups,Mirra Andreeva,Elina Svitolina,spread,-1.5,2.45,1.6135,,,,2026-11-08 18:42:33.422457+00:00
-1640045183,2026-11-09 21:30:00+00:00,WTA Finals Indian Wells - Groups,Mirra Andreeva,Elina Svitolina,total,2.5,,,,2.37,1.6452,2026-11-08 18:42:33.422457+00:00
-1640231405,2026-11-09 16:00:00+00:00,ATP Stockholm - R1,Alex Michelsen,Yannick Hanfmann,moneyline,,1.3236,3.59,,,,2026-11-08 18:42:33.422457+00:00
-1640231405,2026-11-09 16:00:00+00:00,ATP Stockholm - R1,Alex Michelsen,Yannick Hanfmann,spread,-1.5,1.9174,1.9346,,,,2026-11-08 18:42:33.422457+00:00
-1640231405,2026-11-09 16:00:00+00:00,ATP Stockholm - R1,Alex Michelsen,Yannick Hanfmann,total,2.5,,,,2.65,1.5128,2026-11-08 18:42:33.422457+00:00
-1640260070,2026-11-09 09:00:00+00:00,ATP Challenger Orleans - R1,Sebastian Baez,Daniil Glinka,moneyline,,1.7519,2.14,,,,2026-11-08 18:42:33.422457+00:00
-1640260070,2026-11-09 09:00:00+00:00,ATP Challenger Orleans - R1,Sebastian Baez,Daniil Glinka,spread,-1.5,2.85,1.4444,,,,2026-11-08 18:42:33.422457+00:00
-1640260070,2026-11-09 09:00:00+00:00,ATP Challenger Orleans - R1,Sebastian Baez,Daniil Glinka,total,2.5,,,,2.34,1.625,2026-11-08 18:42:33.422457+00:00
-1640248659,2026-11-09 10:00:00+00:00,ATP Challenger Matsuyama - R1,Keegan Smith,Yu Hsiou Hsu,moneyline,,1.8475,1.9804,,,,2026-11-08 18:42:33.422457+00:00
-1640248659,2026-11-09 10:00:00+00:00,ATP Challenger Matsuyama - R1,Keegan Smith,Yu Hsiou Hsu,spread,-1.5,2.94,1.4132,,,,2026-11-08 18:42:33.422457+00:00
-1640248659,2026-11-09 10:00:00+00:00,ATP Challenger Matsuyama - R1,Keegan Smith,Yu Hsiou Hsu,total,2.5,,,,2.33,1.6173,2026-11-08 18:42:33.422457+00:00
-1640254878,2026-11-09 02:30:00+00:00,ATP Challenger Matsuyama - Qualifiers,Keisuke Saitoh,Renta Tokuda,moneyline,,1.813,1.9804,,,,2026-11-08 18:42:33.422457+00:00
-1640254878,2026-11-09 02:30:00+00:00,ATP Challenger Matsuyama - Qualifiers,Keisuke Saitoh,Renta Tokuda,spread,-1.5,2.59,1.4902,,,,2026-11-08 18:42:33.422457+00:00
-1640254878,2026-11-09 02:30:00+00:00,ATP Challenger Matsuyama - Qualifiers,Keisuke Saitoh,Renta Tokuda,total,2.5,,,,2.83,1.4219,2026-11-08 18:42:33.422457+00:00
-1640229583,2026-11-09 16:00:00+00:00,ATP Stockholm - R1,Holger Rune,Zizou Bergs,moneyline,,1.6579,2.32,,,,2026-11-08 18:42:33.422457+00:00
-1640229583,2026-11-09 16:00:00+00:00,ATP Stockholm - R1,Holger Rune,Zizou Bergs,spread,-1.5,2.8,1.4695,,,,2026-11-08 18:42:33.422457+00:00
-1640229583,2026-11-09 16:00:00+00:00,ATP Stockholm - R1,Holger Rune,Zizou Bergs,total,2.5,,,,2.2,1.7143,2026-11-08 18:42:33.422457+00:00
-1640229584,2026-11-09 16:00:00+00:00,ATP Stockholm - R1,Adolfo Daniel Vallejo,Ugo Humbert,moneyline,,3.0,1.4274,,,,2026-11-08 18:42:33.422457+00:00
-1640229584,2026-11-09 16:00:00+00:00,ATP Stockholm - R1,Adolfo Daniel Vallejo,Ugo Humbert,spread,1.5,1.8,2.07,,,,2026-11-08 18:42:33.422457+00:00
-1640229584,2026-11-09 16:00:00+00:00,ATP Stockholm - R1,Adolfo Daniel Vallejo,Ugo Humbert,total,2.5,,,,2.66,1.5102,2026-11-08 18:42:33.422457+00:00
-1640248662,2026-11-09 10:00:00+00:00,ATP Challenger Matsuyama - R1,Yosuke Watanuki,Taro Daniel,moneyline,,1.5917,2.38,,,,2026-11-08 18:42:33.422457+00:00
-1640248662,2026-11-09 10:00:00+00:00,ATP Challenger Matsuyama - R1,Yosuke Watanuki,Taro Daniel,spread,-1.5,2.48,1.5525,,,,2026-11-08 18:42:33.422457+00:00
-1640248662,2026-11-09 10:00:00+00:00,ATP Challenger Matsuyama - R1,Yosuke Watanuki,Taro Daniel,total,2.5,,,,2.39,1.5882,2026-11-08 18:42:33.422457+00:00
-1640260080,2026-11-09 02:00:00+00:00,ATP Challenger Brisbane - Qualifiers,Sam Ryan Ziegann,Chase Ferguson,moneyline,,2.61,1.4854,,,,2026-11-08 18:42:33.422457+00:00
-1640260080,2026-11-09 02:00:00+00:00,ATP Challenger Brisbane - Qualifiers,Sam Ryan Ziegann,Chase Ferguson,spread,1.5,1.6098,2.3,,,,2026-11-08 18:42:33.422457+00:00
-1640260080,2026-11-09 02:00:00+00:00,ATP Challenger Brisbane - Qualifiers,Sam Ryan Ziegann,Chase Ferguson,total,2.5,,,,2.4,1.5618,2026-11-08 18:42:33.422457+00:00
-1640248661,2026-11-09 10:00:00+00:00,ATP Challenger Matsuyama - R1,Billy Harris,Liam Broady,moneyline,,1.7299,2.13,,,,2026-11-08 18:42:33.422457+00:00
-1640248661,2026-11-09 10:00:00+00:00,ATP Challenger Matsuyama - R1,Billy Harris,Liam Broady,spread,-1.5,2.81,1.4444,,,,2026-11-08 18:42:33.422457+00:00
-1640248661,2026-11-09 10:00:00+00:00,ATP Challenger Matsuyama - R1,Billy Harris,Liam Broady,total,2.5,,,,2.29,1.6369,2026-11-08 18:42:33.422457+00:00
-1640206889,2026-11-09 03:00:00+00:00,ATP Challenger Brisbane - R1,Bernard Tomic,Blake Ellis,moneyline,,1.5181,2.58,,,,2026-11-08 18:42:33.422457+00:00
-1640206889,2026-11-09 03:00:00+00:00,ATP Challenger Brisbane - R1,Bernard Tomic,Blake Ellis,spread,-1.5,2.34,1.6135,,,,2026-11-08 18:42:33.422457+00:00
-1640206889,2026-11-09 03:00:00+00:00,ATP Challenger Brisbane - R1,Bernard Tomic,Blake Ellis,total,2.5,,,,2.39,1.5917,2026-11-08 18:42:33.422457+00:00
-1640254840,2026-11-09 09:00:00+00:00,ATP Challenger Brisbane - Qualifiers,Moerani Bouzige,Isaac Becroft,moneyline,,2.36,1.5814,,,,2026-11-08 18:42:33.422457+00:00
-1640254840,2026-11-09 09:00:00+00:00,ATP Challenger Brisbane - Qualifiers,Moerani Bouzige,Isaac Becroft,spread,1.5,1.5747,2.37,,,,2026-11-08 18:42:33.422457+00:00
-1640254840,2026-11-09 09:00:00+00:00,ATP Challenger Brisbane - Qualifiers,Moerani Bouzige,Isaac Becroft,total,2.5,,,,2.49,1.5291,2026-11-08 18:42:33.422457+00:00
-1640206888,2026-11-09 09:00:00+00:00,ATP Challenger Brisbane - R1,August Holmgren,Philip Sekulic,moneyline,,1.5155,2.58,,,,2026-11-08 18:42:33.422457+00:00
-1640206888,2026-11-09 09:00:00+00:00,ATP Challenger Brisbane - R1,August Holmgren,Philip Sekulic,spread,-1.5,2.2,1.6897,,,,2026-11-08 18:42:33.422457+00:00
-1640206888,2026-11-09 09:00:00+00:00,ATP Challenger Brisbane - R1,August Holmgren,Philip Sekulic,total,2.5,,,,2.65,1.4926,2026-11-08 18:42:33.422457+00:00
 1640248721,2026-11-08 19:00:00+00:00,ATP Challenger Lima - Qualifiers,Nicolas Barrientos,Alan Magadan,moneyline,,2.25,1.6329,,,,2026-11-08 18:42:33.422457+00:00
 1640248721,2026-11-08 19:00:00+00:00,ATP Challenger Lima - Qualifiers,Nicolas Barrientos,Alan Magadan,spread,1.5,1.5556,2.42,,,,2026-11-08 18:42:33.422457+00:00
 1640248721,2026-11-08 19:00:00+00:00,ATP Challenger Lima - Qualifiers,Nicolas Barrientos,Alan Magadan,total,2.5,,,,2.63,1.4785,2026-11-08 18:42:33.422457+00:00
-1640260073,2026-11-09 09:00:00+00:00,ATP Challenger Orleans - R1,Clement Tabur,Lukas Neumayer,moneyline,,1.4808,2.75,,,,2026-11-08 18:42:33.422457+00:00
-1640260073,2026-11-09 09:00:00+00:00,ATP Challenger Orleans - R1,Clement Tabur,Lukas Neumayer,spread,-1.5,2.26,1.6667,,,,2026-11-08 18:42:33.422457+00:00
-1640260073,2026-11-09 09:00:00+00:00,ATP Challenger Orleans - R1,Clement Tabur,Lukas Neumayer,total,2.5,,,,2.47,1.565,2026-11-08 18:42:33.422457+00:00
-1640267618,2026-11-08 23:30:00+00:00,ATP Challenger Knoxville - Qualifiers,Daniel Milavsky,Luca Wiedenmann,moneyline,,1.2092,4.35,,,,2026-11-08 18:42:33.422457+00:00
-1640267618,2026-11-08 23:30:00+00:00,ATP Challenger Knoxville - Qualifiers,Daniel Milavsky,Luca Wiedenmann,spread,-1.5,1.6536,2.21,,,,2026-11-08 18:42:33.422457+00:00
-1640267618,2026-11-08 23:30:00+00:00,ATP Challenger Knoxville - Qualifiers,Daniel Milavsky,Luca Wiedenmann,total,2.5,,,,2.94,1.3953,2026-11-08 18:42:33.422457+00:00
-1640267614,2026-11-08 19:45:00+00:00,ATP Challenger Knoxville - Qualifiers,Mitchell Krueger,Samir Banerjee,moneyline,,1.7246,2.1,,,,2026-11-08 18:42:33.422457+00:00
-1640267614,2026-11-08 19:45:00+00:00,ATP Challenger Knoxville - Qualifiers,Mitchell Krueger,Samir Banerjee,spread,-1.5,2.66,1.4673,,,,2026-11-08 18:42:33.422457+00:00
-1640267614,2026-11-08 19:45:00+00:00,ATP Challenger Knoxville - Qualifiers,Mitchell Krueger,Samir Banerjee,total,2.5,,,,2.49,1.5291,2026-11-08 18:42:33.422457+00:00
-1640243567,2026-11-09 10:00:00+00:00,ATP Challenger Matsuyama - R1,Rio Noguchi,Daniel Michalski,moneyline,,1.8696,1.9434,,,,2026-11-08 18:42:33.422457+00:00
-1640243567,2026-11-09 10:00:00+00:00,ATP Challenger Matsuyama - R1,Rio Noguchi,Daniel Michalski,spread,-1.5,2.94,1.4115,,,,2026-11-08 18:42:33.422457+00:00
-1640243567,2026-11-09 10:00:00+00:00,ATP Challenger Matsuyama - R1,Rio Noguchi,Daniel Michalski,total,2.5,,,,2.47,1.5556,2026-11-08 18:42:33.422457+00:00
-1640044281,2026-11-09 23:00:00+00:00,WTA Finals Indian Wells - Doubles,Gabriela Dabrowski / Luisa Stefani,Elise Mertens / Shuai Zhang,moneyline,,1.4444,2.78,,,,2026-11-08 18:42:33.422457+00:00
-1640192024,2026-11-09 09:00:00+00:00,ATP Challenger Brisbane - R1,Carl Emil Overbeck,Florian Broska,moneyline,,1.6369,2.3,,,,2026-11-08 18:42:33.422457+00:00
-1640192024,2026-11-09 09:00:00+00:00,ATP Challenger Brisbane - R1,Carl Emil Overbeck,Florian Broska,spread,-1.5,2.43,1.5714,,,,2026-11-08 18:42:33.422457+00:00
-1640192024,2026-11-09 09:00:00+00:00,ATP Challenger Brisbane - R1,Carl Emil Overbeck,Florian Broska,total,2.5,,,,2.6,1.5076,2026-11-08 18:42:33.422457+00:00
-1640237381,2026-11-09 10:00:00+00:00,ATP Stockholm - Doubles,Miomir Kecmanovic / Marcelo Melo,Hendrik Jebens / Ryan Seggerman,moneyline,,2.79,1.4405,,,,2026-11-08 18:42:33.422457+00:00
-1640206890,2026-11-09 09:00:00+00:00,ATP Challenger Brisbane - R1,Omar Jasika,Dhakshineswar Suresh,moneyline,,2.09,1.7576,,,,2026-11-08 18:42:33.422457+00:00
-1640206890,2026-11-09 09:00:00+00:00,ATP Challenger Brisbane - R1,Omar Jasika,Dhakshineswar Suresh,spread,1.5,1.5076,2.6,,,,2026-11-08 18:42:33.422457+00:00
-1640206890,2026-11-09 09:00:00+00:00,ATP Challenger Brisbane - R1,Omar Jasika,Dhakshineswar Suresh,total,2.5,,,,2.63,1.4975,2026-11-08 18:42:33.422457+00:00
-1640237379,2026-11-09 16:00:00+00:00,ATP Stockholm - Doubles,Erik Grevelius / Adam Heinonen,Sadio Doumbia / David Pel,moneyline,,2.4,1.5747,,,,2026-11-08 18:42:33.422457+00:00
-1640205754,2026-11-09 09:00:00+00:00,ATP Challenger Brisbane - R1,Enzo Aguiard,Akira Santillan,moneyline,,2.31,1.625,,,,2026-11-08 18:42:33.422457+00:00
-1640205754,2026-11-09 09:00:00+00:00,ATP Challenger Brisbane - R1,Enzo Aguiard,Akira Santillan,spread,1.5,1.5714,2.43,,,,2026-11-08 18:42:33.422457+00:00
-1640205754,2026-11-09 09:00:00+00:00,ATP Challenger Brisbane - R1,Enzo Aguiard,Akira Santillan,total,2.5,,,,2.57,1.5181,2026-11-08 18:42:33.422457+00:00
-1640260113,2026-11-09 04:00:00+00:00,ITF Men Kuala Lumpur - R16,Tin Chen,David Qariaqus,moneyline,,1.2088,4.19,,,,2026-11-08 18:42:33.422457+00:00
-1640260113,2026-11-09 04:00:00+00:00,ITF Men Kuala Lumpur - R16,Tin Chen,David Qariaqus,spread,-1.5,1.5025,2.5,,,,2026-11-08 18:42:33.422457+00:00
-1640260113,2026-11-09 04:00:00+00:00,ITF Men Kuala Lumpur - R16,Tin Chen,David Qariaqus,total,2.5,,,,3.71,1.2551,2026-11-08 18:42:33.422457+00:00
-1640243413,2026-11-08 19:30:00+00:00,ATP Challenger Costa do Sauipe - Final,Thiago Seyboth Wild,Camilo Ugo Carabelli,moneyline,,1.8264,2.08,,,,2026-11-08 18:42:33.422457+00:00
-1640243413,2026-11-08 19:30:00+00:00,ATP Challenger Costa do Sauipe - Final,Thiago Seyboth Wild,Camilo Ugo Carabelli,spread,-1.5,2.86,1.463,,,,2026-11-08 18:42:33.422457+00:00
-1640243413,2026-11-08 19:30:00+00:00,ATP Challenger Costa do Sauipe - Final,Thiago Seyboth Wild,Camilo Ugo Carabelli,total,2.5,,,,2.35,1.6452,2026-11-08 18:42:33.422457+00:00
-1640045182,2026-11-10 00:30:00+00:00,WTA Finals Indian Wells - Doubles,Hanyu Guo / Kristina Mladenovic,Hsieh Su-wei / Jelena Ostapenko,moneyline,,2.26,1.641,,,,2026-11-08 18:42:33.422457+00:00
-1640045166,2026-11-09 00:00:00+00:00,WTA Finals Indian Wells - Doubles,Katerina Siniakova / Taylor Townsend,Sara Errani / Jasmine Paolini,moneyline,,1.3236,3.43,,,,2026-11-08 18:42:33.422457+00:00
-1640254871,2026-11-09 02:00:00+00:00,ATP Challenger Matsuyama - Qualifiers,Luca Staeheli,Takuya Kumasaka,moneyline,,1.885,1.9009,,,,2026-11-08 18:42:33.422457+00:00
-1640254871,2026-11-09 02:00:00+00:00,ATP Challenger Matsuyama - Qualifiers,Luca Staeheli,Takuya Kumasaka,spread,-1.5,2.85,1.4167,,,,2026-11-08 18:42:33.422457+00:00
-1640254871,2026-11-09 02:00:00+00:00,ATP Challenger Matsuyama - Qualifiers,Luca Staeheli,Takuya Kumasaka,total,2.5,,,,2.52,1.5181,2026-11-08 18:42:33.422457+00:00
-1640260050,2026-11-09 09:00:00+00:00,ATP Challenger Brisbane - Qualifiers,Thomas Fancutt,Tai Leonard Sach,moneyline,,1.7463,2.07,,,,2026-11-08 18:42:33.422457+00:00
-1640260050,2026-11-09 09:00:00+00:00,ATP Challenger Brisbane - Qualifiers,Thomas Fancutt,Tai Leonard Sach,spread,-1.5,2.72,1.4525,,,,2026-11-08 18:42:33.422457+00:00
-1640260050,2026-11-09 09:00:00+00:00,ATP Challenger Brisbane - Qualifiers,Thomas Fancutt,Tai Leonard Sach,total,2.5,,,,2.4,1.565,2026-11-08 18:42:33.422457+00:00
-1640045177,2026-11-08 22:00:00+00:00,WTA Finals Indian Wells - Groups,Coco Gauff,Jessica Pegula,moneyline,,1.7299,2.24,,,,2026-11-08 18:42:33.422457+00:00
-1640045177,2026-11-08 22:00:00+00:00,WTA Finals Indian Wells - Groups,Coco Gauff,Jessica Pegula,spread,-1.5,2.85,1.4739,,,,2026-11-08 18:42:33.422457+00:00
-1640045177,2026-11-08 22:00:00+00:00,WTA Finals Indian Wells - Groups,Coco Gauff,Jessica Pegula,total,2.5,,,,2.25,1.7092,2026-11-08 18:42:33.422457+00:00
-1640205756,2026-11-09 09:00:00+00:00,ATP Challenger Brisbane - R1,Sebastian Gorzny,Charles Broom,moneyline,,1.9009,1.9174,,,,2026-11-08 18:42:33.422457+00:00
-1640205756,2026-11-09 09:00:00+00:00,ATP Challenger Brisbane - R1,Sebastian Gorzny,Charles Broom,spread,1.5,1.3759,3.11,,,,2026-11-08 18:42:33.422457+00:00
-1640205756,2026-11-09 09:00:00+00:00,ATP Challenger Brisbane - R1,Sebastian Gorzny,Charles Broom,total,2.5,,,,2.29,1.6369,2026-11-08 18:42:33.422457+00:00
-1640205755,2026-11-09 09:00:00+00:00,ATP Challenger Brisbane - R1,James McCabe,Jan Kumstat,moneyline,,2.72,1.4695,,,,2026-11-08 18:42:33.422457+00:00
-1640205755,2026-11-09 09:00:00+00:00,ATP Challenger Brisbane - R1,James McCabe,Jan Kumstat,spread,1.5,1.7246,2.14,,,,2026-11-08 18:42:33.422457+00:00
-1640205755,2026-11-09 09:00:00+00:00,ATP Challenger Brisbane - R1,James McCabe,Jan Kumstat,total,2.5,,,,2.62,1.5,2026-11-08 18:42:33.422457+00:00
-1640243565,2026-11-09 10:00:00+00:00,ATP Challenger Matsuyama - R1,Mili Poljicak,Chun Hsin Tseng,moneyline,,2.34,1.6098,,,,2026-11-08 18:42:33.422457+00:00
-1640243565,2026-11-09 10:00:00+00:00,ATP Challenger Matsuyama - R1,Mili Poljicak,Chun Hsin Tseng,spread,1.5,1.5618,2.46,,,,2026-11-08 18:42:33.422457+00:00
-1640243565,2026-11-09 10:00:00+00:00,ATP Challenger Matsuyama - R1,Mili Poljicak,Chun Hsin Tseng,total,2.5,,,,2.42,1.578,2026-11-08 18:42:33.422457+00:00
-1640192026,2026-11-09 09:00:00+00:00,ATP Challenger Brisbane - R1,Tristan Schoolkate,Cruz Hewitt,moneyline,,1.2882,3.68,,,,2026-11-08 18:42:33.422457+00:00
-1640192026,2026-11-09 09:00:00+00:00,ATP Challenger Brisbane - R1,Tristan Schoolkate,Cruz Hewitt,spread,-1.5,1.8197,2.01,,,,2026-11-08 18:42:33.422457+00:00
-1640192026,2026-11-09 09:00:00+00:00,ATP Challenger Brisbane - R1,Tristan Schoolkate,Cruz Hewitt,total,2.5,,,,2.74,1.4651,2026-11-08 18:42:33.422457+00:00
-1640243566,2026-11-09 10:00:00+00:00,ATP Challenger Matsuyama - R1,Shunsuke Nakagawa,David Jorda Sanchis,moneyline,,4.47,1.2137,,,,2026-11-08 18:42:33.422457+00:00
-1640243566,2026-11-09 10:00:00+00:00,ATP Challenger Matsuyama - R1,Shunsuke Nakagawa,David Jorda Sanchis,spread,1.5,2.26,1.6536,,,,2026-11-08 18:42:33.422457+00:00
-1640243566,2026-11-09 10:00:00+00:00,ATP Challenger Matsuyama - R1,Shunsuke Nakagawa,David Jorda Sanchis,total,2.5,,,,3.03,1.3937,2026-11-08 18:42:33.422457+00:00
-1640265619,2026-11-08 22:30:00+00:00,ATP Challenger Knoxville - Qualifiers,Giles Hussey,Kaylan Bigun,moneyline,,2.4,1.5618,,,,2026-11-08 18:42:33.422457+00:00
-1640265619,2026-11-08 22:30:00+00:00,ATP Challenger Knoxville - Qualifiers,Giles Hussey,Kaylan Bigun,spread,1.5,1.5882,2.35,,,,2026-11-08 18:42:33.422457+00:00
-1640265619,2026-11-08 22:30:00+00:00,ATP Challenger Knoxville - Qualifiers,Giles Hussey,Kaylan Bigun,total,2.5,,,,2.53,1.5102,2026-11-08 18:42:33.422457+00:00
-1640260069,2026-11-09 09:00:00+00:00,ATP Challenger Orleans - R1,Nishesh Basavareddy,Pierre-Hugues Herbert,moneyline,,1.4926,2.72,,,,2026-11-08 18:42:33.422457+00:00
-1640260069,2026-11-09 09:00:00+00:00,ATP Challenger Orleans - R1,Nishesh Basavareddy,Pierre-Hugues Herbert,spread,-1.5,2.23,1.6849,,,,2026-11-08 18:42:33.422457+00:00
-1640260069,2026-11-09 09:00:00+00:00,ATP Challenger Orleans - R1,Nishesh Basavareddy,Pierre-Hugues Herbert,total,2.5,,,,2.49,1.5618,2026-11-08 18:42:33.422457+00:00
-1640231404,2026-11-09 16:00:00+00:00,ATP Stockholm - R1,Arthur Rinderknech,Miomir Kecmanovic,moneyline,,1.4878,2.77,,,,2026-11-08 18:42:33.422457+00:00
-1640231404,2026-11-09 16:00:00+00:00,ATP Stockholm - R1,Arthur Rinderknech,Miomir Kecmanovic,spread,-1.5,2.33,1.641,,,,2026-11-08 18:42:33.422457+00:00
-1640231404,2026-11-09 16:00:00+00:00,ATP Stockholm - R1,Arthur Rinderknech,Miomir Kecmanovic,total,2.5,,,,2.36,1.6289,2026-11-08 18:42:33.422457+00:00
-1640243432,2026-11-09 10:00:00+00:00,ATP Challenger Matsuyama - R1,Jay Dylan Hara Friend,Yusuke Kusuhara,moneyline,,1.0438,11.18,,,,2026-11-08 18:42:33.422457+00:00
-1640243432,2026-11-09 10:00:00+00:00,ATP Challenger Matsuyama - R1,Jay Dylan Hara Friend,Yusuke Kusuhara,spread,-1.5,1.2577,3.95,,,,2026-11-08 18:42:33.422457+00:00
-1640243432,2026-11-09 10:00:00+00:00,ATP Challenger Matsuyama - R1,Jay Dylan Hara Friend,Yusuke Kusuhara,total,2.5,,,,4.53,1.2092,2026-11-08 18:42:33.422457+00:00
-1640248658,2026-11-09 10:00:00+00:00,ATP Challenger Matsuyama - R1,Naoya Honda,Stefanos Sakellaridis,moneyline,,4.48,1.2128,,,,2026-11-08 18:42:33.422457+00:00
-1640248658,2026-11-09 10:00:00+00:00,ATP Challenger Matsuyama - R1,Naoya Honda,Stefanos Sakellaridis,spread,1.5,2.2,1.6897,,,,2026-11-08 18:42:33.422457+00:00
-1640248658,2026-11-09 10:00:00+00:00,ATP Challenger Matsuyama - R1,Naoya Honda,Stefanos Sakellaridis,total,2.5,,,,2.89,1.4255,2026-11-08 18:42:33.422457+00:00
-1640248714,2026-11-09 01:00:00+00:00,ATP Challenger Matsuyama - Qualifiers,Koki Matsuda,S D Prajwal Dev,moneyline,,1.4717,2.65,,,,2026-11-08 18:42:33.422457+00:00
-1640248714,2026-11-09 01:00:00+00:00,ATP Challenger Matsuyama - Qualifiers,Koki Matsuda,S D Prajwal Dev,spread,-1.5,2.1,1.7246,,,,2026-11-08 18:42:33.422457+00:00
-1640248714,2026-11-09 01:00:00+00:00,ATP Challenger Matsuyama - Qualifiers,Koki Matsuda,S D Prajwal Dev,total,2.5,,,,2.61,1.4854,2026-11-08 18:42:33.422457+00:00
-1640260054,2026-11-09 02:30:00+00:00,ATP Challenger Matsuyama - Qualifiers,Sho Katayama,Shintaro Imai,moneyline,,3.05,1.3704,,,,2026-11-08 18:42:33.422457+00:00
-1640260054,2026-11-09 02:30:00+00:00,ATP Challenger Matsuyama - Qualifiers,Sho Katayama,Shintaro Imai,spread,1.5,1.9434,1.8475,,,,2026-11-08 18:42:33.422457+00:00
-1640260054,2026-11-09 02:30:00+00:00,ATP Challenger Matsuyama - Qualifiers,Sho Katayama,Shintaro Imai,total,2.5,,,,3.03,1.3759,2026-11-08 18:42:33.422457+00:00
-1640253479,2026-11-09 09:00:00+00:00,ATP Challenger Brisbane - Qualifiers,Hiroki Moriya,Pavle Marinkov,moneyline,,1.4329,2.79,,,,2026-11-08 18:42:33.422457+00:00
-1640253479,2026-11-09 09:00:00+00:00,ATP Challenger Brisbane - Qualifiers,Hiroki Moriya,Pavle Marinkov,spread,-1.5,2.07,1.7463,,,,2026-11-08 18:42:33.422457+00:00
-1640253479,2026-11-09 09:00:00+00:00,ATP Challenger Brisbane - Qualifiers,Hiroki Moriya,Pavle Marinkov,total,2.5,,,,2.67,1.4673,2026-11-08 18:42:33.422457+00:00
-1640253480,2026-11-09 01:00:00+00:00,ATP Challenger Matsuyama - Qualifiers,Kosuke Ogura,Hikaru Shiraishi,moneyline,,3.46,1.3021,,,,2026-11-08 18:42:33.422457+00:00
-1640253480,2026-11-09 01:00:00+00:00,ATP Challenger Matsuyama - Qualifiers,Kosuke Ogura,Hikaru Shiraishi,spread,1.5,1.8929,1.8929,,,,2026-11-08 18:42:33.422457+00:00
-1640253480,2026-11-09 01:00:00+00:00,ATP Challenger Matsuyama - Qualifiers,Kosuke Ogura,Hikaru Shiraishi,total,2.5,,,,2.63,1.4762,2026-11-08 18:42:33.422457+00:00
-1640254899,2026-11-09 01:00:00+00:00,ATP Challenger Brisbane - Qualifiers,Anton Shepp,Dominik Palan,moneyline,,1.4,2.92,,,,2026-11-08 18:42:33.422457+00:00
-1640254899,2026-11-09 01:00:00+00:00,ATP Challenger Brisbane - Qualifiers,Anton Shepp,Dominik Palan,spread,-1.5,2.09,1.7299,,,,2026-11-08 18:42:33.422457+00:00
-1640254899,2026-11-09 01:00:00+00:00,ATP Challenger Brisbane - Qualifiers,Anton Shepp,Dominik Palan,total,2.5,,,,2.48,1.5319,2026-11-08 18:42:33.422457+00:00
-1640248660,2026-11-09 10:00:00+00:00,ATP Challenger Matsuyama - R1,Joel Josef Schwaerzler,Mitsuki Wei Kang Leong,moneyline,,1.3279,3.39,,,,2026-11-08 18:42:33.422457+00:00
-1640248660,2026-11-09 10:00:00+00:00,ATP Challenger Matsuyama - R1,Joel Josef Schwaerzler,Mitsuki Wei Kang Leong,spread,-1.5,1.9346,1.885,,,,2026-11-08 18:42:33.422457+00:00
-1640248660,2026-11-09 10:00:00+00:00,ATP Challenger Matsuyama - R1,Joel Josef Schwaerzler,Mitsuki Wei Kang Leong,total,2.5,,,,2.61,1.5051,2026-11-08 18:42:33.422457+00:00
-1640254849,2026-11-09 01:00:00+00:00,ATP Challenger Matsuyama - Qualifiers,Masamichi Imamura,Ryuki Matsuda,moneyline,,1.4115,2.87,,,,2026-11-08 18:42:33.422457+00:00
-1640254849,2026-11-09 01:00:00+00:00,ATP Challenger Matsuyama - Qualifiers,Masamichi Imamura,Ryuki Matsuda,spread,-1.5,2.06,1.7519,,,,2026-11-08 18:42:33.422457+00:00
-1640254849,2026-11-09 01:00:00+00:00,ATP Challenger Matsuyama - Qualifiers,Masamichi Imamura,Ryuki Matsuda,total,2.5,,,,2.61,1.4831,2026-11-08 18:42:33.422457+00:00
-1640258892,2026-11-09 05:00:00+00:00,ATP Challenger Brisbane - Qualifiers,Christian Langmo,Kokoro Isomura,moneyline,,1.4082,2.88,,,,2026-11-08 18:42:33.422457+00:00
-1640258892,2026-11-09 05:00:00+00:00,ATP Challenger Brisbane - Qualifiers,Christian Langmo,Kokoro Isomura,spread,-1.5,2.05,1.7576,,,,2026-11-08 18:42:33.422457+00:00
-1640258892,2026-11-09 05:00:00+00:00,ATP Challenger Brisbane - Qualifiers,Christian Langmo,Kokoro Isomura,total,2.5,,,,2.59,1.4926,2026-11-08 18:42:33.422457+00:00
-1640267708,2026-11-08 20:57:00+00:00,ATP Challenger Knoxville - Qualifiers,Jamie Mackenzie,Lui Maxted,moneyline,,2.56,1.5025,,,,2026-11-08 18:42:33.422457+00:00
-1640267708,2026-11-08 20:57:00+00:00,ATP Challenger Knoxville - Qualifiers,Jamie Mackenzie,Lui Maxted,spread,1.5,1.6173,2.28,,,,2026-11-08 18:42:33.422457+00:00
-1640267708,2026-11-08 20:57:00+00:00,ATP Challenger Knoxville - Qualifiers,Jamie Mackenzie,Lui Maxted,total,2.5,,,,2.51,1.5208,2026-11-08 18:42:33.422457+00:00
-1640265618,2026-11-08 22:57:00+00:00,ATP Challenger Knoxville - Qualifiers,Andrew Fenty,Kenta Miyoshi,moneyline,,2.26,1.6329,,,,2026-11-08 18:42:33.422457+00:00
-1640265618,2026-11-08 22:57:00+00:00,ATP Challenger Knoxville - Qualifiers,Andrew Fenty,Kenta Miyoshi,spread,1.5,1.5348,2.47,,,,2026-11-08 18:42:33.422457+00:00
-1640265618,2026-11-08 22:57:00+00:00,ATP Challenger Knoxville - Qualifiers,Andrew Fenty,Kenta Miyoshi,total,2.5,,,,2.47,1.5348,2026-11-08 18:42:33.422457+00:00
-1640248657,2026-11-08 20:00:00+00:00,WTA Finals Indian Wells - Groups,Marta Kostyuk,Linda Noskova,moneyline,,2.31,1.6944,,,,2026-11-08 18:42:33.422457+00:00
-1640248657,2026-11-08 20:00:00+00:00,WTA Finals Indian Wells - Groups,Marta Kostyuk,Linda Noskova,spread,1.5,1.4831,2.82,,,,2026-11-08 18:42:33.422457+00:00
-1640248657,2026-11-08 20:00:00+00:00,WTA Finals Indian Wells - Groups,Marta Kostyuk,Linda Noskova,total,2.5,,,,2.26,1.7092,2026-11-08 18:42:33.422457+00:00
-1640258858,2026-11-09 09:00:00+00:00,ATP Challenger Orleans - R1,Matteo Martineau,Hugo Gaston,moneyline,,2.35,1.6329,,,,2026-11-08 18:42:33.422457+00:00
-1640258858,2026-11-09 09:00:00+00:00,ATP Challenger Orleans - R1,Matteo Martineau,Hugo Gaston,spread,1.5,1.4975,2.66,,,,2026-11-08 18:42:33.422457+00:00
-1640258858,2026-11-09 09:00:00+00:00,ATP Challenger Orleans - R1,Matteo Martineau,Hugo Gaston,total,2.5,,,,2.26,1.6667,2026-11-08 18:42:33.422457+00:00
-1640231006,2026-11-09 10:00:00+00:00,ATP Stockholm - Doubles,Constantin Frantzen / Bart Stevens,Petr Nouza / Michael Venus,moneyline,,2.1,1.7353,,,,2026-11-08 18:42:33.422457+00:00
-1640192025,2026-11-09 09:00:00+00:00,ATP Challenger Brisbane - R1,Jake Delaney,Juncheng Shang,moneyline,,5.5,1.1506,,,,2026-11-08 18:42:33.422457+00:00
-1640192025,2026-11-09 09:00:00+00:00,ATP Challenger Brisbane - R1,Jake Delaney,Juncheng Shang,spread,1.5,2.51,1.5405,,,,2026-11-08 18:42:33.422457+00:00
-1640192025,2026-11-09 09:00:00+00:00,ATP Challenger Brisbane - R1,Jake Delaney,Juncheng Shang,total,2.5,,,,3.17,1.3663,2026-11-08 18:42:33.422457+00:00
-1640243431,2026-11-09 10:00:00+00:00,ATP Challenger Matsuyama - R1,Kasidit Samrej,Yuta Shimizu,moneyline,,2.82,1.4425,,,,2026-11-08 18:42:33.422457+00:00
-1640243431,2026-11-09 10:00:00+00:00,ATP Challenger Matsuyama - R1,Kasidit Samrej,Yuta Shimizu,spread,1.5,1.7246,2.14,,,,2026-11-08 18:42:33.422457+00:00
-1640243431,2026-11-09 10:00:00+00:00,ATP Challenger Matsuyama - R1,Kasidit Samrej,Yuta Shimizu,total,2.5,,,,2.5,1.5435,2026-11-08 18:42:33.422457+00:00
-1640217340,2026-11-09 13:00:00+00:00,WTA Chennai - Final,Janice Tjen,Magda Linette,moneyline,,1.5181,2.74,,,,2026-11-08 18:42:33.422457+00:00
-1640217340,2026-11-09 13:00:00+00:00,WTA Chennai - Final,Janice Tjen,Magda Linette,spread,-1.5,2.21,1.7353,,,,2026-11-08 18:42:33.422457+00:00
-1640217340,2026-11-09 13:00:00+00:00,WTA Chennai - Final,Janice Tjen,Magda Linette,total,2.5,,,,2.63,1.5405,2026-11-08 18:42:33.422457+00:00
-1640045778,2026-11-09 20:00:00+00:00,WTA Finals Indian Wells - Groups,Aryna Sabalenka,Karolina Muchova,moneyline,,1.5155,2.75,,,,2026-11-08 18:42:33.422457+00:00
-1640045778,2026-11-09 20:00:00+00:00,WTA Finals Indian Wells - Groups,Aryna Sabalenka,Karolina Muchova,spread,-1.5,2.46,1.6061,,,,2026-11-08 18:42:33.422457+00:00
-1640045778,2026-11-09 20:00:00+00:00,WTA Finals Indian Wells - Groups,Aryna Sabalenka,Karolina Muchova,total,2.5,,,,2.24,1.7194,2026-11-08 18:42:33.422457+00:00
-1640267617,2026-11-08 23:45:00+00:00,ATP Challenger Knoxville - Qualifiers,Patrick Zahraj,Sebastian Dominko,moneyline,,2.85,1.4167,,,,2026-11-08 18:42:33.422457+00:00
-1640267617,2026-11-08 23:45:00+00:00,ATP Challenger Knoxville - Qualifiers,Patrick Zahraj,Sebastian Dominko,spread,1.5,1.7143,2.11,,,,2026-11-08 18:42:33.422457+00:00
-1640267617,2026-11-08 23:45:00+00:00,ATP Challenger Knoxville - Qualifiers,Patrick Zahraj,Sebastian Dominko,total,2.5,,,,2.48,1.5319,2026-11-08 18:42:33.422457+00:00
-1640260074,2026-11-09 09:00:00+00:00,ATP Challenger Orleans - R1,Benjamin Bonzi,Andrea Pellegrino,moneyline,,1.0848,8.01,,,,2026-11-08 18:42:33.422457+00:00
-1640260074,2026-11-09 09:00:00+00:00,ATP Challenger Orleans - R1,Benjamin Bonzi,Andrea Pellegrino,spread,-1.5,1.4032,3.03,,,,2026-11-08 18:42:33.422457+00:00
-1640260074,2026-11-09 09:00:00+00:00,ATP Challenger Orleans - R1,Benjamin Bonzi,Andrea Pellegrino,total,2.5,,,,3.52,1.3175,2026-11-08 18:42:33.422457+00:00
-1640229582,2026-11-09 16:00:00+00:00,ATP Stockholm - R1,James Duckworth,Cameron Norrie,moneyline,,3.09,1.4082,,,,2026-11-08 18:42:33.422457+00:00
-1640229582,2026-11-09 16:00:00+00:00,ATP Stockholm - R1,James Duckworth,Cameron Norrie,spread,1.5,1.7246,2.18,,,,2026-11-08 18:42:33.422457+00:00
-1640229582,2026-11-09 16:00:00+00:00,ATP Stockholm - R1,James Duckworth,Cameron Norrie,total,2.5,,,,2.38,1.6173,2026-11-08 18:42:33.422457+00:00
-1640254886,2026-11-09 09:00:00+00:00,ATP Challenger Orleans - R1,Nicolai Budkov Kjaer,Sascha Gueymard Wayenburg,moneyline,,1.8197,2.05,,,,2026-11-08 18:42:33.422457+00:00
-1640254886,2026-11-09 09:00:00+00:00,ATP Challenger Orleans - R1,Nicolai Budkov Kjaer,Sascha Gueymard Wayenburg,spread,-1.5,2.94,1.4219,,,,2026-11-08 18:42:33.422457+00:00
-1640254886,2026-11-09 09:00:00+00:00,ATP Challenger Orleans - R1,Nicolai Budkov Kjaer,Sascha Gueymard Wayenburg,total,2.5,,,,2.36,1.6135,2026-11-08 18:42:33.422457+00:00
+1640267616,2026-11-08 21:45:00+00:00,ATP Challenger Knoxville - Qualifiers,Shunsuke Mitsui,Geoffrey Blancaneaux,moneyline,,1.7874,2.01,,,,2026-11-08 19:12:28.957586+00:00
+1640267616,2026-11-08 21:45:00+00:00,ATP Challenger Knoxville - Qualifiers,Shunsuke Mitsui,Geoffrey Blancaneaux,spread,-1.5,2.76,1.4386,,,,2026-11-08 19:12:28.957586+00:00
+1640267616,2026-11-08 21:45:00+00:00,ATP Challenger Knoxville - Qualifiers,Shunsuke Mitsui,Geoffrey Blancaneaux,total,2.5,,,,2.41,1.5587,2026-11-08 19:12:28.957586+00:00
+1640254887,2026-11-09 09:00:00+00:00,ATP Challenger Orleans - R1,Dalibor Svrcina,Vitaliy Sachko,moneyline,,1.5556,2.53,,,,2026-11-08 19:12:28.957586+00:00
+1640254887,2026-11-09 09:00:00+00:00,ATP Challenger Orleans - R1,Dalibor Svrcina,Vitaliy Sachko,spread,-1.5,2.46,1.5747,,,,2026-11-08 19:12:28.957586+00:00
+1640254887,2026-11-09 09:00:00+00:00,ATP Challenger Orleans - R1,Dalibor Svrcina,Vitaliy Sachko,total,2.5,,,,2.27,1.6623,2026-11-08 19:12:28.957586+00:00
+1640045166,2026-11-09 00:00:00+00:00,WTA Finals Indian Wells - Doubles,Katerina Siniakova / Taylor Townsend,Sara Errani / Jasmine Paolini,moneyline,,1.3236,3.43,,,,2026-11-08 19:12:28.957586+00:00
+1640192026,2026-11-09 09:00:00+00:00,ATP Challenger Brisbane - R1,Tristan Schoolkate,Cruz Hewitt,moneyline,,1.2882,3.68,,,,2026-11-08 19:12:28.957586+00:00
+1640192026,2026-11-09 09:00:00+00:00,ATP Challenger Brisbane - R1,Tristan Schoolkate,Cruz Hewitt,spread,-1.5,1.8197,2.01,,,,2026-11-08 19:12:28.957586+00:00
+1640192026,2026-11-09 09:00:00+00:00,ATP Challenger Brisbane - R1,Tristan Schoolkate,Cruz Hewitt,total,2.5,,,,2.74,1.4651,2026-11-08 19:12:28.957586+00:00
+1640045177,2026-11-08 22:00:00+00:00,WTA Finals Indian Wells - Groups,Coco Gauff,Jessica Pegula,moneyline,,1.7299,2.24,,,,2026-11-08 19:12:28.957586+00:00
+1640045177,2026-11-08 22:00:00+00:00,WTA Finals Indian Wells - Groups,Coco Gauff,Jessica Pegula,spread,-1.5,2.85,1.4739,,,,2026-11-08 19:12:28.957586+00:00
+1640045177,2026-11-08 22:00:00+00:00,WTA Finals Indian Wells - Groups,Coco Gauff,Jessica Pegula,total,2.5,,,,2.25,1.7092,2026-11-08 19:12:28.957586+00:00
+1640231404,2026-11-09 16:00:00+00:00,ATP Stockholm - R1,Arthur Rinderknech,Miomir Kecmanovic,moneyline,,1.4878,2.77,,,,2026-11-08 19:12:28.957586+00:00
+1640231404,2026-11-09 16:00:00+00:00,ATP Stockholm - R1,Arthur Rinderknech,Miomir Kecmanovic,spread,-1.5,2.33,1.641,,,,2026-11-08 19:12:28.957586+00:00
+1640231404,2026-11-09 16:00:00+00:00,ATP Stockholm - R1,Arthur Rinderknech,Miomir Kecmanovic,total,2.5,,,,2.36,1.6289,2026-11-08 19:12:28.957586+00:00
+1640265619,2026-11-08 22:30:00+00:00,ATP Challenger Knoxville - Qualifiers,Giles Hussey,Kaylan Bigun,moneyline,,2.42,1.5556,,,,2026-11-08 19:12:28.957586+00:00
+1640265619,2026-11-08 22:30:00+00:00,ATP Challenger Knoxville - Qualifiers,Giles Hussey,Kaylan Bigun,spread,1.5,1.5917,2.34,,,,2026-11-08 19:12:28.957586+00:00
+1640265619,2026-11-08 22:30:00+00:00,ATP Challenger Knoxville - Qualifiers,Giles Hussey,Kaylan Bigun,total,2.5,,,,2.53,1.5102,2026-11-08 19:12:28.957586+00:00
+1640243565,2026-11-09 10:00:00+00:00,ATP Challenger Matsuyama - R1,Mili Poljicak,Chun Hsin Tseng,moneyline,,2.29,1.6369,,,,2026-11-08 19:12:28.957586+00:00
+1640243565,2026-11-09 10:00:00+00:00,ATP Challenger Matsuyama - R1,Mili Poljicak,Chun Hsin Tseng,spread,1.5,1.5464,2.49,,,,2026-11-08 19:12:28.957586+00:00
+1640243565,2026-11-09 10:00:00+00:00,ATP Challenger Matsuyama - R1,Mili Poljicak,Chun Hsin Tseng,total,2.5,,,,2.42,1.578,2026-11-08 19:12:28.957586+00:00
+1640258911,2026-11-09 04:00:00+00:00,ITF Men Kuala Lumpur - R16,Hien Pham,Lleyton Richards,moneyline,,1.2591,3.67,,,,2026-11-08 19:12:28.957586+00:00
+1640258911,2026-11-09 04:00:00+00:00,ITF Men Kuala Lumpur - R16,Hien Pham,Lleyton Richards,spread,-1.5,1.5464,2.39,,,,2026-11-08 19:12:28.957586+00:00
+1640258911,2026-11-09 04:00:00+00:00,ITF Men Kuala Lumpur - R16,Hien Pham,Lleyton Richards,total,2.5,,,,3.7,1.2558,2026-11-08 19:12:28.957586+00:00
+1640206890,2026-11-09 09:00:00+00:00,ATP Challenger Brisbane - R1,Omar Jasika,Dhakshineswar Suresh,moneyline,,1.9709,1.8475,,,,2026-11-08 19:12:28.957586+00:00
+1640206890,2026-11-09 09:00:00+00:00,ATP Challenger Brisbane - R1,Omar Jasika,Dhakshineswar Suresh,spread,1.5,1.463,2.75,,,,2026-11-08 19:12:28.957586+00:00
+1640206890,2026-11-09 09:00:00+00:00,ATP Challenger Brisbane - R1,Omar Jasika,Dhakshineswar Suresh,total,2.5,,,,2.63,1.5,2026-11-08 19:12:28.957586+00:00
+1640265618,2026-11-08 22:24:00+00:00,ATP Challenger Knoxville - Qualifiers,Andrew Fenty,Kenta Miyoshi,moneyline,,2.26,1.6329,,,,2026-11-08 19:12:28.957586+00:00
+1640265618,2026-11-08 22:24:00+00:00,ATP Challenger Knoxville - Qualifiers,Andrew Fenty,Kenta Miyoshi,spread,1.5,1.5348,2.47,,,,2026-11-08 19:12:28.957586+00:00
+1640265618,2026-11-08 22:24:00+00:00,ATP Challenger Knoxville - Qualifiers,Andrew Fenty,Kenta Miyoshi,total,2.5,,,,2.47,1.5348,2026-11-08 19:12:28.957586+00:00
+1640254840,2026-11-09 09:00:00+00:00,ATP Challenger Brisbane - Qualifiers,Moerani Bouzige,Isaac Becroft,moneyline,,2.36,1.5814,,,,2026-11-08 19:12:28.957586+00:00
+1640254840,2026-11-09 09:00:00+00:00,ATP Challenger Brisbane - Qualifiers,Moerani Bouzige,Isaac Becroft,spread,1.5,1.5747,2.37,,,,2026-11-08 19:12:28.957586+00:00
+1640254840,2026-11-09 09:00:00+00:00,ATP Challenger Brisbane - Qualifiers,Moerani Bouzige,Isaac Becroft,total,2.5,,,,2.49,1.5291,2026-11-08 19:12:28.957586+00:00
+1640045183,2026-11-09 21:30:00+00:00,WTA Finals Indian Wells - Groups,Mirra Andreeva,Elina Svitolina,moneyline,,1.5495,2.64,,,,2026-11-08 19:12:28.957586+00:00
+1640045183,2026-11-09 21:30:00+00:00,WTA Finals Indian Wells - Groups,Mirra Andreeva,Elina Svitolina,spread,-1.5,2.45,1.6135,,,,2026-11-08 19:12:28.957586+00:00
+1640045183,2026-11-09 21:30:00+00:00,WTA Finals Indian Wells - Groups,Mirra Andreeva,Elina Svitolina,total,2.5,,,,2.37,1.6452,2026-11-08 19:12:28.957586+00:00
+1640248658,2026-11-09 10:00:00+00:00,ATP Challenger Matsuyama - R1,Naoya Honda,Stefanos Sakellaridis,moneyline,,4.48,1.2128,,,,2026-11-08 19:12:28.957586+00:00
+1640248658,2026-11-09 10:00:00+00:00,ATP Challenger Matsuyama - R1,Naoya Honda,Stefanos Sakellaridis,spread,1.5,2.2,1.6897,,,,2026-11-08 19:12:28.957586+00:00
+1640248658,2026-11-09 10:00:00+00:00,ATP Challenger Matsuyama - R1,Naoya Honda,Stefanos Sakellaridis,total,2.5,,,,2.89,1.4255,2026-11-08 19:12:28.957586+00:00
+1640248660,2026-11-09 10:00:00+00:00,ATP Challenger Matsuyama - R1,Joel Josef Schwaerzler,Mitsuki Wei Kang Leong,moneyline,,1.3106,3.51,,,,2026-11-08 19:12:28.957586+00:00
+1640248660,2026-11-09 10:00:00+00:00,ATP Challenger Matsuyama - R1,Joel Josef Schwaerzler,Mitsuki Wei Kang Leong,spread,-1.5,1.9091,1.9091,,,,2026-11-08 19:12:28.957586+00:00
+1640248660,2026-11-09 10:00:00+00:00,ATP Challenger Matsuyama - R1,Joel Josef Schwaerzler,Mitsuki Wei Kang Leong,total,2.5,,,,2.62,1.5025,2026-11-08 19:12:28.957586+00:00
+1640044281,2026-11-09 23:00:00+00:00,WTA Finals Indian Wells - Doubles,Gabriela Dabrowski / Luisa Stefani,Elise Mertens / Shuai Zhang,moneyline,,1.4444,2.78,,,,2026-11-08 19:12:28.957586+00:00
+1640260050,2026-11-09 09:00:00+00:00,ATP Challenger Brisbane - Qualifiers,Thomas Fancutt,Tai Leonard Sach,moneyline,,1.7463,2.07,,,,2026-11-08 19:12:28.957586+00:00
+1640260050,2026-11-09 09:00:00+00:00,ATP Challenger Brisbane - Qualifiers,Thomas Fancutt,Tai Leonard Sach,spread,-1.5,2.72,1.4525,,,,2026-11-08 19:12:28.957586+00:00
+1640260050,2026-11-09 09:00:00+00:00,ATP Challenger Brisbane - Qualifiers,Thomas Fancutt,Tai Leonard Sach,total,2.5,,,,2.4,1.565,2026-11-08 19:12:28.957586+00:00
+1640248662,2026-11-09 10:00:00+00:00,ATP Challenger Matsuyama - R1,Yosuke Watanuki,Taro Daniel,moneyline,,1.625,2.31,,,,2026-11-08 19:12:28.957586+00:00
+1640248662,2026-11-09 10:00:00+00:00,ATP Challenger Matsuyama - R1,Yosuke Watanuki,Taro Daniel,spread,-1.5,2.56,1.5208,,,,2026-11-08 19:12:28.957586+00:00
+1640248662,2026-11-09 10:00:00+00:00,ATP Challenger Matsuyama - R1,Yosuke Watanuki,Taro Daniel,total,2.5,,,,2.36,1.6061,2026-11-08 19:12:28.957586+00:00
+1640260070,2026-11-09 09:00:00+00:00,ATP Challenger Orleans - R1,Sebastian Baez,Daniil Glinka,moneyline,,1.7519,2.14,,,,2026-11-08 19:12:28.957586+00:00
+1640260070,2026-11-09 09:00:00+00:00,ATP Challenger Orleans - R1,Sebastian Baez,Daniil Glinka,spread,-1.5,2.85,1.4444,,,,2026-11-08 19:12:28.957586+00:00
+1640260070,2026-11-09 09:00:00+00:00,ATP Challenger Orleans - R1,Sebastian Baez,Daniil Glinka,total,2.5,,,,2.34,1.625,2026-11-08 19:12:28.957586+00:00
+1640260113,2026-11-09 04:00:00+00:00,ITF Men Kuala Lumpur - R16,Tin Chen,David Qariaqus,moneyline,,1.2088,4.19,,,,2026-11-08 19:12:28.957586+00:00
+1640260113,2026-11-09 04:00:00+00:00,ITF Men Kuala Lumpur - R16,Tin Chen,David Qariaqus,spread,-1.5,1.5025,2.5,,,,2026-11-08 19:12:28.957586+00:00
+1640260113,2026-11-09 04:00:00+00:00,ITF Men Kuala Lumpur - R16,Tin Chen,David Qariaqus,total,2.5,,,,3.71,1.2551,2026-11-08 19:12:28.957586+00:00
+1640205755,2026-11-09 09:00:00+00:00,ATP Challenger Brisbane - R1,James McCabe,Jan Kumstat,moneyline,,2.72,1.4695,,,,2026-11-08 19:12:28.957586+00:00
+1640205755,2026-11-09 09:00:00+00:00,ATP Challenger Brisbane - R1,James McCabe,Jan Kumstat,spread,1.5,1.7246,2.14,,,,2026-11-08 19:12:28.957586+00:00
+1640205755,2026-11-09 09:00:00+00:00,ATP Challenger Brisbane - R1,James McCabe,Jan Kumstat,total,2.5,,,,2.62,1.5,2026-11-08 19:12:28.957586+00:00
+1640267617,2026-11-08 23:45:00+00:00,ATP Challenger Knoxville - Qualifiers,Patrick Zahraj,Sebastian Dominko,moneyline,,2.89,1.4065,,,,2026-11-08 19:12:28.957586+00:00
+1640267617,2026-11-08 23:45:00+00:00,ATP Challenger Knoxville - Qualifiers,Patrick Zahraj,Sebastian Dominko,spread,1.5,1.7246,2.1,,,,2026-11-08 19:12:28.957586+00:00
+1640267617,2026-11-08 23:45:00+00:00,ATP Challenger Knoxville - Qualifiers,Patrick Zahraj,Sebastian Dominko,total,2.5,,,,2.48,1.5291,2026-11-08 19:12:28.957586+00:00
+1640237381,2026-11-09 10:00:00+00:00,ATP Stockholm - Doubles,Miomir Kecmanovic / Marcelo Melo,Hendrik Jebens / Ryan Seggerman,moneyline,,2.79,1.4405,,,,2026-11-08 19:12:28.957586+00:00
+1640229584,2026-11-09 16:00:00+00:00,ATP Stockholm - R1,Adolfo Daniel Vallejo,Ugo Humbert,moneyline,,3.0,1.4274,,,,2026-11-08 19:12:28.957586+00:00
+1640229584,2026-11-09 16:00:00+00:00,ATP Stockholm - R1,Adolfo Daniel Vallejo,Ugo Humbert,spread,1.5,1.8,2.07,,,,2026-11-08 19:12:28.957586+00:00
+1640229584,2026-11-09 16:00:00+00:00,ATP Stockholm - R1,Adolfo Daniel Vallejo,Ugo Humbert,total,2.5,,,,2.66,1.5102,2026-11-08 19:12:28.957586+00:00
+1640205754,2026-11-09 09:00:00+00:00,ATP Challenger Brisbane - R1,Enzo Aguiard,Akira Santillan,moneyline,,2.31,1.625,,,,2026-11-08 19:12:28.957586+00:00
+1640205754,2026-11-09 09:00:00+00:00,ATP Challenger Brisbane - R1,Enzo Aguiard,Akira Santillan,spread,1.5,1.5714,2.43,,,,2026-11-08 19:12:28.957586+00:00
+1640205754,2026-11-09 09:00:00+00:00,ATP Challenger Brisbane - R1,Enzo Aguiard,Akira Santillan,total,2.5,,,,2.57,1.5181,2026-11-08 19:12:28.957586+00:00
+1640267618,2026-11-08 23:30:00+00:00,ATP Challenger Knoxville - Qualifiers,Daniel Milavsky,Luca Wiedenmann,moneyline,,1.2092,4.35,,,,2026-11-08 19:12:28.957586+00:00
+1640267618,2026-11-08 23:30:00+00:00,ATP Challenger Knoxville - Qualifiers,Daniel Milavsky,Luca Wiedenmann,spread,-1.5,1.6536,2.21,,,,2026-11-08 19:12:28.957586+00:00
+1640267618,2026-11-08 23:30:00+00:00,ATP Challenger Knoxville - Qualifiers,Daniel Milavsky,Luca Wiedenmann,total,2.5,,,,2.94,1.3953,2026-11-08 19:12:28.957586+00:00
+1640229583,2026-11-09 16:00:00+00:00,ATP Stockholm - R1,Holger Rune,Zizou Bergs,moneyline,,1.6579,2.32,,,,2026-11-08 19:12:28.957586+00:00
+1640229583,2026-11-09 16:00:00+00:00,ATP Stockholm - R1,Holger Rune,Zizou Bergs,spread,-1.5,2.8,1.4695,,,,2026-11-08 19:12:28.957586+00:00
+1640229583,2026-11-09 16:00:00+00:00,ATP Stockholm - R1,Holger Rune,Zizou Bergs,total,2.5,,,,2.2,1.7143,2026-11-08 19:12:28.957586+00:00
+1640260080,2026-11-09 02:00:00+00:00,ATP Challenger Brisbane - Qualifiers,Sam Ryan Ziegann,Chase Ferguson,moneyline,,2.53,1.5102,,,,2026-11-08 19:12:28.957586+00:00
+1640260080,2026-11-09 02:00:00+00:00,ATP Challenger Brisbane - Qualifiers,Sam Ryan Ziegann,Chase Ferguson,spread,1.5,1.565,2.4,,,,2026-11-08 19:12:28.957586+00:00
+1640260080,2026-11-09 02:00:00+00:00,ATP Challenger Brisbane - Qualifiers,Sam Ryan Ziegann,Chase Ferguson,total,2.5,,,,2.34,1.5917,2026-11-08 19:12:28.957586+00:00
+1640258892,2026-11-09 05:00:00+00:00,ATP Challenger Brisbane - Qualifiers,Christian Langmo,Kokoro Isomura,moneyline,,1.4082,2.88,,,,2026-11-08 19:12:28.957586+00:00
+1640258892,2026-11-09 05:00:00+00:00,ATP Challenger Brisbane - Qualifiers,Christian Langmo,Kokoro Isomura,spread,-1.5,2.05,1.7576,,,,2026-11-08 19:12:28.957586+00:00
+1640258892,2026-11-09 05:00:00+00:00,ATP Challenger Brisbane - Qualifiers,Christian Langmo,Kokoro Isomura,total,2.5,,,,2.59,1.4926,2026-11-08 19:12:28.957586+00:00
+1640254878,2026-11-09 02:30:00+00:00,ATP Challenger Matsuyama - Qualifiers,Keisuke Saitoh,Renta Tokuda,moneyline,,1.7463,2.07,,,,2026-11-08 19:12:28.957586+00:00
+1640254878,2026-11-09 02:30:00+00:00,ATP Challenger Matsuyama - Qualifiers,Keisuke Saitoh,Renta Tokuda,spread,-1.5,2.49,1.5263,,,,2026-11-08 19:12:28.957586+00:00
+1640254878,2026-11-09 02:30:00+00:00,ATP Challenger Matsuyama - Qualifiers,Keisuke Saitoh,Renta Tokuda,total,2.5,,,,2.83,1.4219,2026-11-08 19:12:28.957586+00:00
+1640206888,2026-11-09 09:00:00+00:00,ATP Challenger Brisbane - R1,August Holmgren,Philip Sekulic,moneyline,,1.5155,2.58,,,,2026-11-08 19:12:28.957586+00:00
+1640206888,2026-11-09 09:00:00+00:00,ATP Challenger Brisbane - R1,August Holmgren,Philip Sekulic,spread,-1.5,2.2,1.6897,,,,2026-11-08 19:12:28.957586+00:00
+1640206888,2026-11-09 09:00:00+00:00,ATP Challenger Brisbane - R1,August Holmgren,Philip Sekulic,total,2.5,,,,2.65,1.4926,2026-11-08 19:12:28.957586+00:00
+1640045167,2026-11-09 02:00:00+00:00,WTA Finals Indian Wells - Doubles,Cristina Bucsa / Nicole Melichar,Ellen Perez / Demi Schuurs,moneyline,,1.5587,2.46,,,,2026-11-08 19:12:28.957586+00:00
+1640231405,2026-11-09 16:00:00+00:00,ATP Stockholm - R1,Alex Michelsen,Yannick Hanfmann,moneyline,,1.3236,3.59,,,,2026-11-08 19:12:28.957586+00:00
+1640231405,2026-11-09 16:00:00+00:00,ATP Stockholm - R1,Alex Michelsen,Yannick Hanfmann,spread,-1.5,1.9174,1.9346,,,,2026-11-08 19:12:28.957586+00:00
+1640231405,2026-11-09 16:00:00+00:00,ATP Stockholm - R1,Alex Michelsen,Yannick Hanfmann,total,2.5,,,,2.65,1.5128,2026-11-08 19:12:28.957586+00:00
+1640254899,2026-11-09 01:00:00+00:00,ATP Challenger Brisbane - Qualifiers,Anton Shepp,Dominik Palan,moneyline,,1.4,2.92,,,,2026-11-08 19:12:28.957586+00:00
+1640254899,2026-11-09 01:00:00+00:00,ATP Challenger Brisbane - Qualifiers,Anton Shepp,Dominik Palan,spread,-1.5,2.09,1.7299,,,,2026-11-08 19:12:28.957586+00:00
+1640254899,2026-11-09 01:00:00+00:00,ATP Challenger Brisbane - Qualifiers,Anton Shepp,Dominik Palan,total,2.5,,,,2.48,1.5319,2026-11-08 19:12:28.957586+00:00
+1640248657,2026-11-08 20:00:00+00:00,WTA Finals Indian Wells - Groups,Marta Kostyuk,Linda Noskova,moneyline,,2.31,1.6944,,,,2026-11-08 19:12:28.957586+00:00
+1640248657,2026-11-08 20:00:00+00:00,WTA Finals Indian Wells - Groups,Marta Kostyuk,Linda Noskova,spread,1.5,1.4831,2.82,,,,2026-11-08 19:12:28.957586+00:00
+1640248657,2026-11-08 20:00:00+00:00,WTA Finals Indian Wells - Groups,Marta Kostyuk,Linda Noskova,total,2.5,,,,2.26,1.7092,2026-11-08 19:12:28.957586+00:00
+1640267614,2026-11-08 19:45:00+00:00,ATP Challenger Knoxville - Qualifiers,Mitchell Krueger,Samir Banerjee,moneyline,,1.7143,2.11,,,,2026-11-08 19:12:28.957586+00:00
+1640267614,2026-11-08 19:45:00+00:00,ATP Challenger Knoxville - Qualifiers,Mitchell Krueger,Samir Banerjee,spread,-1.5,2.64,1.4739,,,,2026-11-08 19:12:28.957586+00:00
+1640267614,2026-11-08 19:45:00+00:00,ATP Challenger Knoxville - Qualifiers,Mitchell Krueger,Samir Banerjee,total,2.5,,,,2.49,1.5291,2026-11-08 19:12:28.957586+00:00
+1640045778,2026-11-09 20:00:00+00:00,WTA Finals Indian Wells - Groups,Aryna Sabalenka,Karolina Muchova,moneyline,,1.5155,2.75,,,,2026-11-08 19:12:28.957586+00:00
+1640045778,2026-11-09 20:00:00+00:00,WTA Finals Indian Wells - Groups,Aryna Sabalenka,Karolina Muchova,spread,-1.5,2.46,1.6061,,,,2026-11-08 19:12:28.957586+00:00
+1640045778,2026-11-09 20:00:00+00:00,WTA Finals Indian Wells - Groups,Aryna Sabalenka,Karolina Muchova,total,2.5,,,,2.24,1.7194,2026-11-08 19:12:28.957586+00:00
+1640254871,2026-11-09 02:00:00+00:00,ATP Challenger Matsuyama - Qualifiers,Luca Staeheli,Takuya Kumasaka,moneyline,,1.885,1.9009,,,,2026-11-08 19:12:28.957586+00:00
+1640254871,2026-11-09 02:00:00+00:00,ATP Challenger Matsuyama - Qualifiers,Luca Staeheli,Takuya Kumasaka,spread,-1.5,2.85,1.4167,,,,2026-11-08 19:12:28.957586+00:00
+1640254871,2026-11-09 02:00:00+00:00,ATP Challenger Matsuyama - Qualifiers,Luca Staeheli,Takuya Kumasaka,total,2.5,,,,2.52,1.5181,2026-11-08 19:12:28.957586+00:00
+1640237379,2026-11-09 16:00:00+00:00,ATP Stockholm - Doubles,Erik Grevelius / Adam Heinonen,Sadio Doumbia / David Pel,moneyline,,2.44,1.5556,,,,2026-11-08 19:12:28.957586+00:00
+1640258857,2026-11-09 09:00:00+00:00,ATP Challenger Orleans - R1,Otto Virtanen,Dino Prizmic,moneyline,,2.07,1.8,,,,2026-11-08 19:12:28.957586+00:00
+1640258857,2026-11-09 09:00:00+00:00,ATP Challenger Orleans - R1,Otto Virtanen,Dino Prizmic,spread,1.5,1.4098,3.0,,,,2026-11-08 19:12:28.957586+00:00
+1640258857,2026-11-09 09:00:00+00:00,ATP Challenger Orleans - R1,Otto Virtanen,Dino Prizmic,total,2.5,,,,2.22,1.6897,2026-11-08 19:12:28.957586+00:00
+1640260073,2026-11-09 09:00:00+00:00,ATP Challenger Orleans - R1,Clement Tabur,Lukas Neumayer,moneyline,,1.4587,2.83,,,,2026-11-08 19:12:28.957586+00:00
+1640260073,2026-11-09 09:00:00+00:00,ATP Challenger Orleans - R1,Clement Tabur,Lukas Neumayer,spread,-1.5,2.22,1.6849,,,,2026-11-08 19:12:28.957586+00:00
+1640260073,2026-11-09 09:00:00+00:00,ATP Challenger Orleans - R1,Clement Tabur,Lukas Neumayer,total,2.5,,,,2.48,1.565,2026-11-08 19:12:28.957586+00:00
+1640205753,2026-11-09 03:00:00+00:00,ATP Challenger Brisbane - R1,Alafia Ayeni,Edward Winter,moneyline,,2.77,1.4545,,,,2026-11-08 19:12:28.957586+00:00
+1640205753,2026-11-09 03:00:00+00:00,ATP Challenger Brisbane - R1,Alafia Ayeni,Edward Winter,spread,1.5,1.7143,2.16,,,,2026-11-08 19:12:28.957586+00:00
+1640205753,2026-11-09 03:00:00+00:00,ATP Challenger Brisbane - R1,Alafia Ayeni,Edward Winter,total,2.5,,,,2.56,1.5208,2026-11-08 19:12:28.957586+00:00
+1640206889,2026-11-09 03:00:00+00:00,ATP Challenger Brisbane - R1,Bernard Tomic,Blake Ellis,moneyline,,1.5181,2.58,,,,2026-11-08 19:12:28.957586+00:00
+1640206889,2026-11-09 03:00:00+00:00,ATP Challenger Brisbane - R1,Bernard Tomic,Blake Ellis,spread,-1.5,2.34,1.6135,,,,2026-11-08 19:12:28.957586+00:00
+1640206889,2026-11-09 03:00:00+00:00,ATP Challenger Brisbane - R1,Bernard Tomic,Blake Ellis,total,2.5,,,,2.39,1.5917,2026-11-08 19:12:28.957586+00:00
+1640248659,2026-11-09 10:00:00+00:00,ATP Challenger Matsuyama - R1,Keegan Smith,Yu Hsiou Hsu,moneyline,,1.8475,1.9804,,,,2026-11-08 19:12:28.957586+00:00
+1640248659,2026-11-09 10:00:00+00:00,ATP Challenger Matsuyama - R1,Keegan Smith,Yu Hsiou Hsu,spread,-1.5,2.94,1.4132,,,,2026-11-08 19:12:28.957586+00:00
+1640248659,2026-11-09 10:00:00+00:00,ATP Challenger Matsuyama - R1,Keegan Smith,Yu Hsiou Hsu,total,2.5,,,,2.33,1.6173,2026-11-08 19:12:28.957586+00:00
+1640217340,2026-11-09 13:00:00+00:00,WTA Chennai - Final,Janice Tjen,Magda Linette,moneyline,,1.5181,2.74,,,,2026-11-08 19:12:28.957586+00:00
+1640217340,2026-11-09 13:00:00+00:00,WTA Chennai - Final,Janice Tjen,Magda Linette,spread,-1.5,2.21,1.7353,,,,2026-11-08 19:12:28.957586+00:00
+1640217340,2026-11-09 13:00:00+00:00,WTA Chennai - Final,Janice Tjen,Magda Linette,total,2.5,,,,2.63,1.5405,2026-11-08 19:12:28.957586+00:00
+1640243431,2026-11-09 10:00:00+00:00,ATP Challenger Matsuyama - R1,Kasidit Samrej,Yuta Shimizu,moneyline,,2.82,1.4425,,,,2026-11-08 19:12:28.957586+00:00
+1640243431,2026-11-09 10:00:00+00:00,ATP Challenger Matsuyama - R1,Kasidit Samrej,Yuta Shimizu,spread,1.5,1.7246,2.14,,,,2026-11-08 19:12:28.957586+00:00
+1640243431,2026-11-09 10:00:00+00:00,ATP Challenger Matsuyama - R1,Kasidit Samrej,Yuta Shimizu,total,2.5,,,,2.5,1.5435,2026-11-08 19:12:28.957586+00:00
+1640254886,2026-11-09 09:00:00+00:00,ATP Challenger Orleans - R1,Nicolai Budkov Kjaer,Sascha Gueymard Wayenburg,moneyline,,1.8547,2.0,,,,2026-11-08 19:12:28.957586+00:00
+1640254886,2026-11-09 09:00:00+00:00,ATP Challenger Orleans - R1,Nicolai Budkov Kjaer,Sascha Gueymard Wayenburg,spread,-1.5,3.0,1.4082,,,,2026-11-08 19:12:28.957586+00:00
+1640254886,2026-11-09 09:00:00+00:00,ATP Challenger Orleans - R1,Nicolai Budkov Kjaer,Sascha Gueymard Wayenburg,total,2.5,,,,2.36,1.6135,2026-11-08 19:12:28.957586+00:00
+1640267708,2026-11-08 20:24:00+00:00,ATP Challenger Knoxville - Qualifiers,Jamie Mackenzie,Lui Maxted,moneyline,,2.41,1.5587,,,,2026-11-08 19:12:28.957586+00:00
+1640267708,2026-11-08 20:24:00+00:00,ATP Challenger Knoxville - Qualifiers,Jamie Mackenzie,Lui Maxted,spread,1.5,1.578,2.37,,,,2026-11-08 19:12:28.957586+00:00
+1640267708,2026-11-08 20:24:00+00:00,ATP Challenger Knoxville - Qualifiers,Jamie Mackenzie,Lui Maxted,total,2.5,,,,2.5,1.5236,2026-11-08 19:12:28.957586+00:00
+1640260074,2026-11-09 09:00:00+00:00,ATP Challenger Orleans - R1,Benjamin Bonzi,Andrea Pellegrino,moneyline,,1.0848,8.01,,,,2026-11-08 19:12:28.957586+00:00
+1640260074,2026-11-09 09:00:00+00:00,ATP Challenger Orleans - R1,Benjamin Bonzi,Andrea Pellegrino,spread,-1.5,1.4032,3.03,,,,2026-11-08 19:12:28.957586+00:00
+1640260074,2026-11-09 09:00:00+00:00,ATP Challenger Orleans - R1,Benjamin Bonzi,Andrea Pellegrino,total,2.5,,,,3.52,1.3175,2026-11-08 19:12:28.957586+00:00
+1640253479,2026-11-09 09:00:00+00:00,ATP Challenger Brisbane - Qualifiers,Hiroki Moriya,Pavle Marinkov,moneyline,,1.4329,2.79,,,,2026-11-08 19:12:28.957586+00:00
+1640253479,2026-11-09 09:00:00+00:00,ATP Challenger Brisbane - Qualifiers,Hiroki Moriya,Pavle Marinkov,spread,-1.5,2.07,1.7463,,,,2026-11-08 19:12:28.957586+00:00
+1640253479,2026-11-09 09:00:00+00:00,ATP Challenger Brisbane - Qualifiers,Hiroki Moriya,Pavle Marinkov,total,2.5,,,,2.67,1.4673,2026-11-08 19:12:28.957586+00:00
+1640231006,2026-11-09 10:00:00+00:00,ATP Stockholm - Doubles,Constantin Frantzen / Bart Stevens,Petr Nouza / Michael Venus,moneyline,,2.1,1.7353,,,,2026-11-08 19:12:28.957586+00:00
+1640192024,2026-11-09 09:00:00+00:00,ATP Challenger Brisbane - R1,Carl Emil Overbeck,Florian Broska,moneyline,,1.6289,2.31,,,,2026-11-08 19:12:28.957586+00:00
+1640192024,2026-11-09 09:00:00+00:00,ATP Challenger Brisbane - R1,Carl Emil Overbeck,Florian Broska,spread,-1.5,2.42,1.5747,,,,2026-11-08 19:12:28.957586+00:00
+1640192024,2026-11-09 09:00:00+00:00,ATP Challenger Brisbane - R1,Carl Emil Overbeck,Florian Broska,total,2.5,,,,2.6,1.5076,2026-11-08 19:12:28.957586+00:00
+1640248661,2026-11-09 10:00:00+00:00,ATP Challenger Matsuyama - R1,Billy Harris,Liam Broady,moneyline,,1.7299,2.13,,,,2026-11-08 19:12:28.957586+00:00
+1640248661,2026-11-09 10:00:00+00:00,ATP Challenger Matsuyama - R1,Billy Harris,Liam Broady,spread,-1.5,2.81,1.4444,,,,2026-11-08 19:12:28.957586+00:00
+1640248661,2026-11-09 10:00:00+00:00,ATP Challenger Matsuyama - R1,Billy Harris,Liam Broady,total,2.5,,,,2.29,1.6369,2026-11-08 19:12:28.957586+00:00
+1640243413,2026-11-08 19:30:00+00:00,ATP Challenger Costa do Sauipe - Final,Thiago Seyboth Wild,Camilo Ugo Carabelli,moneyline,,1.8264,2.08,,,,2026-11-08 19:12:28.957586+00:00
+1640243413,2026-11-08 19:30:00+00:00,ATP Challenger Costa do Sauipe - Final,Thiago Seyboth Wild,Camilo Ugo Carabelli,spread,-1.5,2.86,1.463,,,,2026-11-08 19:12:28.957586+00:00
+1640243413,2026-11-08 19:30:00+00:00,ATP Challenger Costa do Sauipe - Final,Thiago Seyboth Wild,Camilo Ugo Carabelli,total,2.5,,,,2.35,1.6452,2026-11-08 19:12:28.957586+00:00
+1640253480,2026-11-09 01:00:00+00:00,ATP Challenger Matsuyama - Qualifiers,Kosuke Ogura,Hikaru Shiraishi,moneyline,,3.46,1.3021,,,,2026-11-08 19:12:28.957586+00:00
+1640253480,2026-11-09 01:00:00+00:00,ATP Challenger Matsuyama - Qualifiers,Kosuke Ogura,Hikaru Shiraishi,spread,1.5,1.8929,1.8929,,,,2026-11-08 19:12:28.957586+00:00
+1640253480,2026-11-09 01:00:00+00:00,ATP Challenger Matsuyama - Qualifiers,Kosuke Ogura,Hikaru Shiraishi,total,2.5,,,,2.63,1.4762,2026-11-08 19:12:28.957586+00:00
+1640229582,2026-11-09 16:00:00+00:00,ATP Stockholm - R1,James Duckworth,Cameron Norrie,moneyline,,3.09,1.4082,,,,2026-11-08 19:12:28.957586+00:00
+1640229582,2026-11-09 16:00:00+00:00,ATP Stockholm - R1,James Duckworth,Cameron Norrie,spread,1.5,1.7246,2.18,,,,2026-11-08 19:12:28.957586+00:00
+1640229582,2026-11-09 16:00:00+00:00,ATP Stockholm - R1,James Duckworth,Cameron Norrie,total,2.5,,,,2.38,1.6173,2026-11-08 19:12:28.957586+00:00
+1640243432,2026-11-09 10:00:00+00:00,ATP Challenger Matsuyama - R1,Jay Dylan Hara Friend,Yusuke Kusuhara,moneyline,,1.0438,11.18,,,,2026-11-08 19:12:28.957586+00:00
+1640243432,2026-11-09 10:00:00+00:00,ATP Challenger Matsuyama - R1,Jay Dylan Hara Friend,Yusuke Kusuhara,spread,-1.5,1.2577,3.95,,,,2026-11-08 19:12:28.957586+00:00
+1640243432,2026-11-09 10:00:00+00:00,ATP Challenger Matsuyama - R1,Jay Dylan Hara Friend,Yusuke Kusuhara,total,2.5,,,,4.53,1.2092,2026-11-08 19:12:28.957586+00:00
+1640258858,2026-11-09 09:00:00+00:00,ATP Challenger Orleans - R1,Matteo Martineau,Hugo Gaston,moneyline,,2.35,1.6329,,,,2026-11-08 19:12:28.957586+00:00
+1640258858,2026-11-09 09:00:00+00:00,ATP Challenger Orleans - R1,Matteo Martineau,Hugo Gaston,spread,1.5,1.4975,2.66,,,,2026-11-08 19:12:28.957586+00:00
+1640258858,2026-11-09 09:00:00+00:00,ATP Challenger Orleans - R1,Matteo Martineau,Hugo Gaston,total,2.5,,,,2.26,1.6667,2026-11-08 19:12:28.957586+00:00
+1640260069,2026-11-09 09:00:00+00:00,ATP Challenger Orleans - R1,Nishesh Basavareddy,Pierre-Hugues Herbert,moneyline,,1.4926,2.72,,,,2026-11-08 19:12:28.957586+00:00
+1640260069,2026-11-09 09:00:00+00:00,ATP Challenger Orleans - R1,Nishesh Basavareddy,Pierre-Hugues Herbert,spread,-1.5,2.23,1.6849,,,,2026-11-08 19:12:28.957586+00:00
+1640260069,2026-11-09 09:00:00+00:00,ATP Challenger Orleans - R1,Nishesh Basavareddy,Pierre-Hugues Herbert,total,2.5,,,,2.49,1.5618,2026-11-08 19:12:28.957586+00:00
+1640260054,2026-11-09 02:30:00+00:00,ATP Challenger Matsuyama - Qualifiers,Sho Katayama,Shintaro Imai,moneyline,,2.9,1.4032,,,,2026-11-08 19:12:28.957586+00:00
+1640260054,2026-11-09 02:30:00+00:00,ATP Challenger Matsuyama - Qualifiers,Sho Katayama,Shintaro Imai,spread,1.5,1.8403,1.9434,,,,2026-11-08 19:12:28.957586+00:00
+1640260054,2026-11-09 02:30:00+00:00,ATP Challenger Matsuyama - Qualifiers,Sho Katayama,Shintaro Imai,total,2.5,,,,2.89,1.4065,2026-11-08 19:12:28.957586+00:00
+1640254849,2026-11-09 01:00:00+00:00,ATP Challenger Matsuyama - Qualifiers,Masamichi Imamura,Ryuki Matsuda,moneyline,,1.4115,2.87,,,,2026-11-08 19:12:28.957586+00:00
+1640254849,2026-11-09 01:00:00+00:00,ATP Challenger Matsuyama - Qualifiers,Masamichi Imamura,Ryuki Matsuda,spread,-1.5,2.06,1.7519,,,,2026-11-08 19:12:28.957586+00:00
+1640254849,2026-11-09 01:00:00+00:00,ATP Challenger Matsuyama - Qualifiers,Masamichi Imamura,Ryuki Matsuda,total,2.5,,,,2.61,1.4831,2026-11-08 19:12:28.957586+00:00
+1640260071,2026-11-09 09:00:00+00:00,ATP Challenger Orleans - R1,Jurij Rodionov,Pedro Martinez,moneyline,,1.2825,3.86,,,,2026-11-08 19:12:28.957586+00:00
+1640260071,2026-11-09 09:00:00+00:00,ATP Challenger Orleans - R1,Jurij Rodionov,Pedro Martinez,spread,-1.5,1.7463,2.13,,,,2026-11-08 19:12:28.957586+00:00
+1640260071,2026-11-09 09:00:00+00:00,ATP Challenger Orleans - R1,Jurij Rodionov,Pedro Martinez,total,2.5,,,,2.96,1.4167,2026-11-08 19:12:28.957586+00:00
+1640243566,2026-11-09 10:00:00+00:00,ATP Challenger Matsuyama - R1,Shunsuke Nakagawa,David Jorda Sanchis,moneyline,,4.47,1.2137,,,,2026-11-08 19:12:28.957586+00:00
+1640243566,2026-11-09 10:00:00+00:00,ATP Challenger Matsuyama - R1,Shunsuke Nakagawa,David Jorda Sanchis,spread,1.5,2.26,1.6536,,,,2026-11-08 19:12:28.957586+00:00
+1640243566,2026-11-09 10:00:00+00:00,ATP Challenger Matsuyama - R1,Shunsuke Nakagawa,David Jorda Sanchis,total,2.5,,,,3.03,1.3937,2026-11-08 19:12:28.957586+00:00
+1640192025,2026-11-09 09:00:00+00:00,ATP Challenger Brisbane - R1,Jake Delaney,Juncheng Shang,moneyline,,5.5,1.1506,,,,2026-11-08 19:12:28.957586+00:00
+1640192025,2026-11-09 09:00:00+00:00,ATP Challenger Brisbane - R1,Jake Delaney,Juncheng Shang,spread,1.5,2.51,1.5405,,,,2026-11-08 19:12:28.957586+00:00
+1640192025,2026-11-09 09:00:00+00:00,ATP Challenger Brisbane - R1,Jake Delaney,Juncheng Shang,total,2.5,,,,3.17,1.3663,2026-11-08 19:12:28.957586+00:00
+1640231004,2026-11-09 16:00:00+00:00,ATP Stockholm - R1,Tomas Martin Etcheverry,Max Dahlin,moneyline,,1.2915,3.85,,,,2026-11-08 19:12:28.957586+00:00
+1640231004,2026-11-09 16:00:00+00:00,ATP Stockholm - R1,Tomas Martin Etcheverry,Max Dahlin,spread,-1.5,1.8696,1.9901,,,,2026-11-08 19:12:28.957586+00:00
+1640231004,2026-11-09 16:00:00+00:00,ATP Stockholm - R1,Tomas Martin Etcheverry,Max Dahlin,total,2.5,,,,2.67,1.5051,2026-11-08 19:12:28.957586+00:00
+1640248714,2026-11-09 01:00:00+00:00,ATP Challenger Matsuyama - Qualifiers,Koki Matsuda,S D Prajwal Dev,moneyline,,1.4673,2.67,,,,2026-11-08 19:12:28.957586+00:00
+1640248714,2026-11-09 01:00:00+00:00,ATP Challenger Matsuyama - Qualifiers,Koki Matsuda,S D Prajwal Dev,spread,-1.5,2.09,1.7299,,,,2026-11-08 19:12:28.957586+00:00
+1640248714,2026-11-09 01:00:00+00:00,ATP Challenger Matsuyama - Qualifiers,Koki Matsuda,S D Prajwal Dev,total,2.5,,,,2.61,1.4854,2026-11-08 19:12:28.957586+00:00
+1640243567,2026-11-09 10:00:00+00:00,ATP Challenger Matsuyama - R1,Rio Noguchi,Daniel Michalski,moneyline,,1.8403,1.9804,,,,2026-11-08 19:12:28.957586+00:00
+1640243567,2026-11-09 10:00:00+00:00,ATP Challenger Matsuyama - R1,Rio Noguchi,Daniel Michalski,spread,-1.5,2.89,1.4237,,,,2026-11-08 19:12:28.957586+00:00
+1640243567,2026-11-09 10:00:00+00:00,ATP Challenger Matsuyama - R1,Rio Noguchi,Daniel Michalski,total,2.5,,,,2.47,1.5556,2026-11-08 19:12:28.957586+00:00
+1640205756,2026-11-09 09:00:00+00:00,ATP Challenger Brisbane - R1,Sebastian Gorzny,Charles Broom,moneyline,,1.9009,1.9174,,,,2026-11-08 19:12:28.957586+00:00
+1640205756,2026-11-09 09:00:00+00:00,ATP Challenger Brisbane - R1,Sebastian Gorzny,Charles Broom,spread,1.5,1.3759,3.11,,,,2026-11-08 19:12:28.957586+00:00
+1640205756,2026-11-09 09:00:00+00:00,ATP Challenger Brisbane - R1,Sebastian Gorzny,Charles Broom,total,2.5,,,,2.29,1.6369,2026-11-08 19:12:28.957586+00:00
+1640045182,2026-11-10 00:30:00+00:00,WTA Finals Indian Wells - Doubles,Hanyu Guo / Kristina Mladenovic,Hsieh Su-wei / Jelena Ostapenko,moneyline,,2.26,1.641,,,,2026-11-08 19:12:28.957586+00:00
