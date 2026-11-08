@@ -60039,14 +60039,14 @@ id,tournament_id,club1,club2,ht1,ht2
 2367970,261274,Napoli,Sassuolo,,
 2367971,261274,Roma,Napoli,,
 2367972,261274,Juventus,Bologna,,
-2367623,261260,France,England,0,2
-2367624,261260,Argentina,Brazil,1,1
-2367625,261260,Brazil,France,1,3
-2367626,261260,England,Spain,1,1
-2367627,261260,Spain,Brazil,0,3
-2367628,261260,France,Argentina,0,0
-2367629,261260,Argentina,Spain,2,2
-2367630,261260,Brazil,England,1,3
+2367623,261260,France,England,0.0,2.0
+2367624,261260,Argentina,Brazil,1.0,1.0
+2367625,261260,Brazil,France,1.0,3.0
+2367626,261260,England,Spain,1.0,1.0
+2367627,261260,Spain,Brazil,0.0,3.0
+2367628,261260,France,Argentina,0.0,0.0
+2367629,261260,Argentina,Spain,2.0,2.0
+2367630,261260,Brazil,England,1.0,3.0
 2367631,261260,England,Argentina,,
 2367632,261260,Spain,France,,
 2367633,261260,England,France,,
@@ -60059,3 +60059,23 @@ id,tournament_id,club1,club2,ht1,ht2
 2367640,261260,England,Brazil,,
 2367641,261260,Argentina,England,,
 2367642,261260,France,Spain,,
+2366994,261257,Real Madrid,River Plate,3,2
+2366995,261257,Boca Juniors,Man City,2,0
+2366996,261257,Man City,Real Madrid,0,3
+2366997,261257,River Plate,Paris,3,1
+2366998,261257,Paris,Man City,2,0
+2366999,261257,Real Madrid,Boca Juniors,0,1
+2367000,261257,Boca Juniors,Paris,0,0
+2367001,261257,Man City,River Plate,1,1
+2367002,261257,River Plate,Boca Juniors,,
+2367003,261257,Paris,Real Madrid,,
+2367004,261257,River Plate,Real Madrid,,
+2367005,261257,Man City,Boca Juniors,,
+2367006,261257,Real Madrid,Man City,,
+2367007,261257,Paris,River Plate,,
+2367008,261257,Man City,Paris,,
+2367009,261257,Boca Juniors,Real Madrid,,
+2367010,261257,Paris,Boca Juniors,,
+2367011,261257,River Plate,Man City,,
+2367012,261257,Boca Juniors,River Plate,,
+2367013,261257,Real Madrid,Paris,,

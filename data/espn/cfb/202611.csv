@@ -11,14 +11,11 @@ id,date,event,home,away,hs,as,res
 401862818,2026-11-07T00:30Z,South Florida Bulls at East Carolina Pirates,East Carolina Pirates,South Florida Bulls,20,17,1.0
 401858510,2026-11-07T01:00Z,Nebraska Cornhuskers at Illinois Fighting Illini,Illinois Fighting Illini,Nebraska Cornhuskers,24,13,1.0
 401864533,2026-11-07T02:00Z,New Mexico Lobos at Nevada Wolf Pack,Nevada Wolf Pack,New Mexico Lobos,3,31,0.0
-401871073,2026-11-07T20:00Z,Delaware Blue Hens at Kennesaw State Owls,Kennesaw State Owls,Delaware Blue Hens,42,40,1.0
-401858516,2026-11-07T20:30Z,Penn State Nittany Lions at Washington Huskies,Washington Huskies,Penn State Nittany Lions,25,28,0.0
-401862819,2026-11-07T20:30Z,Charlotte 49ers at UAB Blazers,UAB Blazers,Charlotte 49ers,23,12,1.0
-401862820,2026-11-07T20:30Z,Temple Owls at Navy Midshipmen,Navy Midshipmen,Temple Owls,42,35,1.0
-401869951,2026-11-07T20:30Z,Marshall Thundering Herd at Georgia Southern Eagles,Georgia Southern Eagles,Marshall Thundering Herd,49,13,1.0
 401856849,2026-11-07T17:00Z,BYU Cougars at Utah Utes,Utah Utes,BYU Cougars,28,20,1.0
+401856740,2026-11-07T20:30Z,Alabama Crimson Tide at LSU Tigers,LSU Tigers,Alabama Crimson Tide,13,31,0.0
 401856743,2026-11-07T17:00Z,Texas Longhorns at Missouri Tigers,Missouri Tigers,Texas Longhorns,20,34,0.0
 401858512,2026-11-07T17:00Z,UCLA Bruins at Minnesota Golden Gophers,Minnesota Golden Gophers,UCLA Bruins,20,34,0.0
+401858290,2026-11-07T20:30Z,Merrimack Warriors at Wake Forest Demon Deacons,Wake Forest Demon Deacons,Merrimack Warriors,77,0,1.0
 401856744,2026-11-07T20:00Z,Texas A&M Aggies at South Carolina Gamecocks,South Carolina Gamecocks,Texas A&M Aggies,17,9,1.0
 401856853,2026-11-07T17:00Z,Iowa State Cyclones at Baylor Bears,Baylor Bears,Iowa State Cyclones,42,31,1.0
 401858285,2026-11-07T17:00Z,Clemson Tigers at Syracuse Orange,Syracuse Orange,Clemson Tigers,13,18,0.0
@@ -32,3 +29,8 @@ id,date,event,home,away,hs,as,res
 401869945,2026-11-07T18:00Z,Old Dominion Monarchs at Coastal Carolina Chanticleers,Coastal Carolina Chanticleers,Old Dominion Monarchs,8,21,0.0
 401869927,2026-11-07T19:30Z,Georgia State Panthers at App State Mountaineers,App State Mountaineers,Georgia State Panthers,23,39,0.0
 401869936,2026-11-07T20:00Z,UL Monroe Warhawks at Arkansas State Red Wolves,Arkansas State Red Wolves,UL Monroe Warhawks,17,19,0.0
+401871073,2026-11-07T20:00Z,Delaware Blue Hens at Kennesaw State Owls,Kennesaw State Owls,Delaware Blue Hens,42,40,1.0
+401858516,2026-11-07T20:30Z,Penn State Nittany Lions at Washington Huskies,Washington Huskies,Penn State Nittany Lions,25,28,0.0
+401862819,2026-11-07T20:30Z,Charlotte 49ers at UAB Blazers,UAB Blazers,Charlotte 49ers,23,12,1.0
+401862820,2026-11-07T20:30Z,Temple Owls at Navy Midshipmen,Navy Midshipmen,Temple Owls,42,35,1.0
+401869951,2026-11-07T20:30Z,Marshall Thundering Herd at Georgia Southern Eagles,Georgia Southern Eagles,Marshall Thundering Herd,49,13,1.0

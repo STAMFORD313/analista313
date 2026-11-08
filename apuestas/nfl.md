@@ -1,6 +1,6 @@
 # 🏈 NFL·NCAA · apuestas de valor
 
-Actualizado 08/11/2026 01:07 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 08/11/2026 01:23 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Notre Dame Fighting Irish vs Miami Hurricanes — 08/11 · 01:30
 
@@ -1299,4 +1299,136 @@ Hándicap BUF -3 · Total puntos 43.5
 • Favorito de las casas: Buffalo Bills @ 1.59  
 🧩 Combinada: Gana Minnesota Vikings + Más de 43.5 puntos → prob. 22%, cuota justa 4.60  
 🎯 No simulada (NFL): cuota DraftKings aprox. 4.47 (producto de piernas) · prob. 22% · ventaja -3%  
+
+## Akron Zips vs Western Michigan Broncos — 11/11 · 01:00
+
+👀 candidata · 🏈 NCAA Football · **Más de 47.5 puntos** @ **1.91** (DraftKings) · prob 50% vs casas 50% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🏈 totales» sin pérdidas demostradas
+
+📊 **Escenarios**: total esperado **46.6** puntos · línea 47.5  
+Más 50% · Menos 50%  
+🔎 **Claves**  
+• Forma: Akron Zips ❌❌❌❌❌ | Western Michigan Broncos ✅✅✅❌✅  
+• H2H: 4 desde 2017: 1-3  
+• Bajas: Akron Zips: sin bajas; Western Michigan Broncos: sin bajas  
+
+## Akron Zips vs Western Michigan Broncos — 11/11 · 01:00
+
+👀 candidata · 🏈 NCAA Football · **Akron Zips +13.5** @ **1.91** (DraftKings) · prob 50% vs casas 50% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🏈 hándicap» sin pérdidas demostradas
+
+📊 **Escenarios**: Akron Zips cubre +13.5 con prob. 50% (casas 50%)  
+🔎 **Claves**  
+• Forma: Akron Zips ❌❌❌❌❌ | Western Michigan Broncos ✅✅✅❌✅  
+• H2H: 4 desde 2017: 1-3  
+• Bajas: Akron Zips: sin bajas; Western Michigan Broncos: sin bajas  
+
+## Akron Zips vs Western Michigan Broncos — 11/11 · 01:00
+
+👀 candidata · 🏈 NCAA Football · **Gana Western Michigan Broncos** @ **1.17** (DraftKings) · prob 82% vs casas 82% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🏈 favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo con 9.490 partidos y bajas)  
+Gana Akron Zips 11% · Gana Western Michigan Broncos 89%  
+Casas: Akron Zips 18% · Western Michigan Broncos 82%  
+Hándicap WMU -13.5 · Total puntos 47.5  
+🔎 **Claves**  
+• Forma: Akron Zips ❌❌❌❌❌ | Western Michigan Broncos ✅✅✅❌✅  
+• H2H: 4 desde 2017: 1-3  
+• Bajas: Akron Zips: sin bajas; Western Michigan Broncos: sin bajas  
+• Favorito de las casas: Western Michigan Broncos @ 1.17  
+
+## Bowling Green Falcons vs Kent State Golden Flashes — 11/11 · 01:00
+
+👀 candidata · 🏈 NCAA Football · **Más de 44.5 puntos** @ **1.91** (DraftKings) · prob 50% vs casas 50% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🏈 totales» sin pérdidas demostradas
+
+📊 **Escenarios**: total esperado **45.0** puntos · línea 44.5  
+Más 50% · Menos 50%  
+🔎 **Claves**  
+• Forma: Bowling Green Falcons ✅✅❌❌❌ | Kent State Golden Flashes ❌❌❌✅❌  
+• H2H: 10 desde 2016: 4-6  
+• Bajas: Bowling Green Falcons: sin bajas; Kent State Golden Flashes: sin bajas  
+
+## Bowling Green Falcons vs Kent State Golden Flashes — 11/11 · 01:00
+
+👀 candidata · 🏈 NCAA Football · **Bowling Green Falcons -5.5** @ **1.91** (DraftKings) · prob 50% vs casas 50% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🏈 hándicap» sin pérdidas demostradas
+
+📊 **Escenarios**: Bowling Green Falcons cubre -5.5 con prob. 50% (casas 50%)  
+🔎 **Claves**  
+• Forma: Bowling Green Falcons ✅✅❌❌❌ | Kent State Golden Flashes ❌❌❌✅❌  
+• H2H: 10 desde 2016: 4-6  
+• Bajas: Bowling Green Falcons: sin bajas; Kent State Golden Flashes: sin bajas  
+
+## Bowling Green Falcons vs Kent State Golden Flashes — 11/11 · 01:00
+
+👀 candidata · 🏈 NCAA Football · **Gana Bowling Green Falcons** @ **1.49** (DraftKings) · prob 64% vs casas 64% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🏈 favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo con 9.490 partidos y bajas)  
+Gana Bowling Green Falcons 65% · Gana Kent State Golden Flashes 35%  
+Casas: Bowling Green Falcons 64% · Kent State Golden Flashes 36%  
+Hándicap BGSU -5.5 · Total puntos 44.5  
+🔎 **Claves**  
+• Forma: Bowling Green Falcons ✅✅❌❌❌ | Kent State Golden Flashes ❌❌❌✅❌  
+• H2H: 10 desde 2016: 4-6  
+• Bajas: Bowling Green Falcons: sin bajas; Kent State Golden Flashes: sin bajas  
+• Favorito de las casas: Bowling Green Falcons @ 1.49  
+
+## Miami (OH) RedHawks vs Ohio Bobcats — 11/11 · 02:00
+
+👀 candidata · 🏈 NCAA Football · **Más de 47.5 puntos** @ **1.91** (DraftKings) · prob 50% vs casas 50% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🏈 totales» sin pérdidas demostradas
+
+📊 **Escenarios**: total esperado **48.4** puntos · línea 47.5  
+Más 50% · Menos 50%  
+🔎 **Claves**  
+• Forma: Miami (OH) RedHawks ❌✅✅✅❌ | Ohio Bobcats ✅✅✅✅✅  
+• H2H: 9 desde 2017: 4-5  
+• Bajas: Miami (OH) RedHawks: sin bajas; Ohio Bobcats: sin bajas  
+
+## Miami (OH) RedHawks vs Ohio Bobcats — 11/11 · 02:00
+
+👀 candidata · 🏈 NCAA Football · **Miami (OH) RedHawks -1.5** @ **1.91** (DraftKings) · prob 50% vs casas 50% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🏈 hándicap» sin pérdidas demostradas
+
+📊 **Escenarios**: Miami (OH) RedHawks cubre -1.5 con prob. 50% (casas 50%)  
+🔎 **Claves**  
+• Forma: Miami (OH) RedHawks ❌✅✅✅❌ | Ohio Bobcats ✅✅✅✅✅  
+• H2H: 9 desde 2017: 4-5  
+• Bajas: Miami (OH) RedHawks: sin bajas; Ohio Bobcats: sin bajas  
+
+## Miami (OH) RedHawks vs Ohio Bobcats — 11/11 · 02:00
+
+👀 candidata · 🏈 NCAA Football · **Gana Miami (OH) RedHawks** @ **1.85** (DraftKings) · prob 52% vs casas 52% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🏈 favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo con 9.490 partidos y bajas)  
+Gana Miami (OH) RedHawks 30% · Gana Ohio Bobcats 70%  
+Casas: Miami (OH) RedHawks 52% · Ohio Bobcats 48%  
+Hándicap M-OH -1.5 · Total puntos 47.5  
+🔎 **Claves**  
+• Forma: Miami (OH) RedHawks ❌✅✅✅❌ | Ohio Bobcats ✅✅✅✅✅  
+• H2H: 9 desde 2017: 4-5  
+• Bajas: Miami (OH) RedHawks: sin bajas; Ohio Bobcats: sin bajas  
+• Favorito de las casas: Miami (OH) RedHawks @ 1.85  
 

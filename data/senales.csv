@@ -1286,3 +1286,332 @@ fecha,deporte,mercado,p,implied,odds,edge,gano,retorno,clv,apostada,ia,ia_aposta
 2026-11-07,🏈,over,0.511,0.511,1.87,-0.045,1,1.87,-0.082,0,,,2026-11-05T00:12,5d2adff,Georgia Southern Eagles: sin bajas; Marshall Thundering Herd: sin bajas,DraftKings
 2026-11-07,🏈,sph,0.496,0.496,1.926,-0.045,1,1.926,,0,,,2026-11-05T00:12,5d2adff,Georgia Southern Eagles: sin bajas; Marshall Thundering Herd: sin bajas,DraftKings
 2026-11-07,🏈,home,0.766,0.766,1.253,-0.04,1,1.253,-0.093,0,,,2026-11-05T00:12,5d2adff,Georgia Southern Eagles: sin bajas; Marshall Thundering Herd: sin bajas,DraftKings
+2026-11-07,🏈,over,0.5,0.5,1.909,-0.045,0,0.0,,0,,,2026-11-05T00:12,5d2adff,LSU Tigers: sin bajas; Alabama Crimson Tide: sin bajas,DraftKings
+2026-11-07,🏈,sph,0.5,0.5,1.909,-0.045,0,0.0,,0,,,2026-11-05T00:12,5d2adff,LSU Tigers: sin bajas; Alabama Crimson Tide: sin bajas,DraftKings
+2026-11-07,🏈,home,0.664,0.664,1.444,-0.042,0,0.0,-0.039,0,,,2026-11-05T00:12,5d2adff,LSU Tigers: sin bajas; Alabama Crimson Tide: sin bajas,DraftKings
+2026-11-07,🏈,over,0.5,0.5,1.909,-0.045,1,1.909,,0,,,2026-11-05T00:12,5d2adff,Wake Forest Demon Deacons: sin bajas; Merrimack Warriors: sin bajas,DraftKings
+2026-11-07,🏈,sph,0.5,0.5,1.909,-0.045,1,1.909,,0,,,2026-11-05T00:12,5d2adff,Wake Forest Demon Deacons: sin bajas; Merrimack Warriors: sin bajas,DraftKings
+2026-11-07,⚽,corners_a_o,0.638,0.635,1.44,-0.081,0,0.0,,0,,,2026-11-06T11:24,28a5461,"Eyupspor: 0 fuera, 2 duda; Kocaelispor: 0 fuera, 1 duda",Unibet
+2026-11-07,⚽,corners_a_u,0.649,0.639,1.44,-0.065,1,1.44,,0,,,2026-11-06T11:24,28a5461,"Eyupspor: 0 fuera, 2 duda; Kocaelispor: 0 fuera, 1 duda",Unibet
+2026-11-07,⚽,corners_t_o,0.655,0.639,1.44,-0.057,0,0.0,,0,,,2026-11-06T11:24,28a5461,"Eyupspor: 0 fuera, 2 duda; Kocaelispor: 0 fuera, 1 duda",Unibet
+2026-11-07,⚽,corners_t_u,0.684,0.679,1.35,-0.076,1,1.35,,0,,,2026-11-06T11:24,28a5461,"Eyupspor: 0 fuera, 2 duda; Kocaelispor: 0 fuera, 1 duda",Unibet
+2026-11-07,⚽,corners_h_o,0.572,0.553,1.66,-0.05,1,1.66,,0,,,2026-11-06T11:24,28a5461,"Eyupspor: 0 fuera, 2 duda; Kocaelispor: 0 fuera, 1 duda",Unibet
+2026-11-07,⚽,corners_h_u,0.582,0.592,1.55,-0.098,1,1.55,,0,,,2026-11-06T11:24,28a5461,"Eyupspor: 0 fuera, 2 duda; Kocaelispor: 0 fuera, 1 duda",Unibet
+2026-11-07,⚽,corners_h_o,0.471,0.447,2.05,-0.034,1,2.05,,0,,,2026-11-06T12:14,26a8481,"Holstein Kiel: 1 fuera, 2 duda (Patrick Erras); Bielefeld: sin bajas",Unibet
+2026-11-07,⚽,corners_h_u,0.647,0.662,1.38,-0.107,1,1.38,,0,,,2026-11-06T12:14,26a8481,"Holstein Kiel: 1 fuera, 2 duda (Patrick Erras); Bielefeld: sin bajas",Unibet
+2026-11-07,⚽,corners_a_o,0.534,0.543,1.68,-0.102,1,1.68,,0,,,2026-11-06T12:14,26a8481,"Holstein Kiel: 1 fuera, 2 duda (Patrick Erras); Bielefeld: sin bajas",Unibet
+2026-11-07,⚽,corners_a_u,0.716,0.694,1.32,-0.055,1,1.32,,0,,,2026-11-06T12:14,26a8481,"Holstein Kiel: 1 fuera, 2 duda (Patrick Erras); Bielefeld: sin bajas",Unibet
+2026-11-07,⚽,corners_t_o,0.609,0.592,1.55,-0.056,1,1.55,,0,,,2026-11-06T12:14,26a8481,"Holstein Kiel: 1 fuera, 2 duda (Patrick Erras); Bielefeld: sin bajas",Unibet
+2026-11-07,⚽,corners_t_u,0.697,0.694,1.32,-0.08,1,1.32,,0,,,2026-11-06T12:14,26a8481,"Holstein Kiel: 1 fuera, 2 duda (Patrick Erras); Bielefeld: sin bajas",Unibet
+2026-11-07,⚽,corners_t_o,0.614,0.623,1.47,-0.098,1,1.47,,0,,,2026-11-06T12:14,26a8481,"Nurnberg: 2 fuera, 2 duda (Rafael Lubach, Mohamed Ali Zoma); Darmstadt: 0 fuera, 1 duda",Unibet
+2026-11-07,⚽,corners_t_u,0.597,0.572,1.6,-0.045,0,0.0,,0,,,2026-11-06T12:14,26a8481,"Nurnberg: 2 fuera, 2 duda (Rafael Lubach, Mohamed Ali Zoma); Darmstadt: 0 fuera, 1 duda",Unibet
+2026-11-07,⚽,corners_h_o,0.554,0.553,1.66,-0.08,1,1.66,,0,,,2026-11-06T12:14,26a8481,"Nurnberg: 2 fuera, 2 duda (Rafael Lubach, Mohamed Ali Zoma); Darmstadt: 0 fuera, 1 duda",Unibet
+2026-11-07,⚽,corners_h_u,0.674,0.666,1.38,-0.069,0,0.0,,0,,,2026-11-06T12:14,26a8481,"Nurnberg: 2 fuera, 2 duda (Rafael Lubach, Mohamed Ali Zoma); Darmstadt: 0 fuera, 1 duda",Unibet
+2026-11-07,⚽,corners_a_o,0.604,0.621,1.48,-0.106,0,0.0,,0,,,2026-11-06T12:14,26a8481,"Nurnberg: 2 fuera, 2 duda (Rafael Lubach, Mohamed Ali Zoma); Darmstadt: 0 fuera, 1 duda",Unibet
+2026-11-07,⚽,corners_a_u,0.396,0.379,2.43,-0.037,1,2.43,,0,,,2026-11-06T12:14,26a8481,"Nurnberg: 2 fuera, 2 duda (Rafael Lubach, Mohamed Ali Zoma); Darmstadt: 0 fuera, 1 duda",Unibet
+2026-11-07,⚽,corners_t_o,0.649,0.623,1.47,-0.046,0,0.0,,0,,,2026-11-06T12:14,26a8481,"Osnabruck: sin bajas; Kaiserslautern: 3 fuera, 1 duda (Maxwell Gyamfi, Kenny-Prince Redondo, Hendrick Zuck)",Unibet
+2026-11-07,⚽,corners_t_u,0.672,0.679,1.35,-0.092,1,1.35,,0,,,2026-11-06T12:14,26a8481,"Osnabruck: sin bajas; Kaiserslautern: 3 fuera, 1 duda (Maxwell Gyamfi, Kenny-Prince Redondo, Hendrick Zuck)",Unibet
+2026-11-07,⚽,corners_h_o,0.538,0.507,1.81,-0.027,1,1.81,,0,,,2026-11-06T12:14,26a8481,"Osnabruck: sin bajas; Kaiserslautern: 3 fuera, 1 duda (Maxwell Gyamfi, Kenny-Prince Redondo, Hendrick Zuck)",Unibet
+2026-11-07,⚽,corners_h_u,0.594,0.613,1.5,-0.109,1,1.5,,0,,,2026-11-06T12:14,26a8481,"Osnabruck: sin bajas; Kaiserslautern: 3 fuera, 1 duda (Maxwell Gyamfi, Kenny-Prince Redondo, Hendrick Zuck)",Unibet
+2026-11-07,⚽,corners_a_o,0.661,0.654,1.4,-0.075,0,0.0,,0,,,2026-11-06T12:14,26a8481,"Osnabruck: sin bajas; Kaiserslautern: 3 fuera, 1 duda (Maxwell Gyamfi, Kenny-Prince Redondo, Hendrick Zuck)",Unibet
+2026-11-07,⚽,corners_a_u,0.62,0.608,1.5,-0.07,1,1.5,,0,,,2026-11-06T12:14,26a8481,"Osnabruck: sin bajas; Kaiserslautern: 3 fuera, 1 duda (Maxwell Gyamfi, Kenny-Prince Redondo, Hendrick Zuck)",Unibet
+2026-11-07,⚽,corners_t_u,0.575,0.554,1.66,-0.045,1,1.66,,0,,,2026-11-06T13:21,1cff44b,"Leeds: 2 fuera, 1 duda (Joe Rodon, Mateo Joseph); Tottenham: 4 fuera, 2 duda (Rodrigo Bentancur, Savio, Wilson Odobert)",Unibet
+2026-11-07,⚽,corners_t_o,0.838,0.831,1.1,-0.078,1,1.1,,0,,,2026-11-06T13:21,1cff44b,"Leeds: 2 fuera, 1 duda (Joe Rodon, Mateo Joseph); Tottenham: 4 fuera, 2 duda (Rodrigo Bentancur, Savio, Wilson Odobert)",Unibet
+2026-11-07,⚽,corners_h_o,0.805,0.795,1.16,-0.066,1,1.16,,0,,,2026-11-06T13:21,1cff44b,"Leeds: 2 fuera, 1 duda (Joe Rodon, Mateo Joseph); Tottenham: 4 fuera, 2 duda (Rodrigo Bentancur, Savio, Wilson Odobert)",Unibet
+2026-11-07,⚽,corners_h_u,0.727,0.708,1.3,-0.055,1,1.3,,0,,,2026-11-06T13:21,1cff44b,"Leeds: 2 fuera, 1 duda (Joe Rodon, Mateo Joseph); Tottenham: 4 fuera, 2 duda (Rodrigo Bentancur, Savio, Wilson Odobert)",Unibet
+2026-11-07,⚽,corners_a_o,0.808,0.801,1.14,-0.078,1,1.14,,0,,,2026-11-06T13:21,1cff44b,"Leeds: 2 fuera, 1 duda (Joe Rodon, Mateo Joseph); Tottenham: 4 fuera, 2 duda (Rodrigo Bentancur, Savio, Wilson Odobert)",Unibet
+2026-11-07,⚽,corners_a_u,0.609,0.592,1.55,-0.056,1,1.55,,0,,,2026-11-06T13:21,1cff44b,"Leeds: 2 fuera, 1 duda (Joe Rodon, Mateo Joseph); Tottenham: 4 fuera, 2 duda (Rodrigo Bentancur, Savio, Wilson Odobert)",Unibet
+2026-11-07,⚽,corners_h_o,0.396,0.349,2.63,0.042,1,2.63,,0,,,2026-11-06T13:21,1cff44b,"Bristol City: sin bajas; Norwich: 1 fuera, 2 duda (Gabriel Forsyth)",Unibet
+2026-11-07,⚽,corners_h_u,0.604,0.651,1.41,-0.148,0,0.0,,0,,,2026-11-06T13:21,1cff44b,"Bristol City: sin bajas; Norwich: 1 fuera, 2 duda (Gabriel Forsyth)",Unibet
+2026-11-07,⚽,corners_t_o,0.763,0.745,1.23,-0.061,1,1.23,,0,,,2026-11-06T13:21,1cff44b,"Bristol City: sin bajas; Norwich: 1 fuera, 2 duda (Gabriel Forsyth)",Unibet
+2026-11-07,⚽,corners_t_u,0.746,0.734,1.25,-0.068,1,1.25,,0,,,2026-11-06T13:21,1cff44b,"Bristol City: sin bajas; Norwich: 1 fuera, 2 duda (Gabriel Forsyth)",Unibet
+2026-11-07,⚽,corners_a_o,0.681,0.709,1.29,-0.122,0,0.0,,0,,,2026-11-06T13:21,1cff44b,"Bristol City: sin bajas; Norwich: 1 fuera, 2 duda (Gabriel Forsyth)",Unibet
+2026-11-07,⚽,corners_a_u,0.461,0.416,2.2,0.014,1,2.2,,0,,,2026-11-06T13:21,1cff44b,"Bristol City: sin bajas; Norwich: 1 fuera, 2 duda (Gabriel Forsyth)",Unibet
+2026-11-07,⚽,corners_a_o,0.625,0.633,1.45,-0.094,0,0.0,,0,,,2026-11-06T13:21,1cff44b,"Portsmouth: 1 fuera, 1 duda (Mark Kosznovszky); Stoke: sin bajas",Unibet
+2026-11-07,⚽,corners_a_u,0.767,0.738,1.24,-0.049,1,1.24,,0,,,2026-11-06T13:21,1cff44b,"Portsmouth: 1 fuera, 1 duda (Mark Kosznovszky); Stoke: sin bajas",Unibet
+2026-11-07,⚽,corners_h_o,0.377,0.338,2.7,0.017,1,2.7,,0,,,2026-11-06T13:21,1cff44b,"Portsmouth: 1 fuera, 1 duda (Mark Kosznovszky); Stoke: sin bajas",Unibet
+2026-11-07,⚽,corners_h_u,0.623,0.662,1.38,-0.14,0,0.0,,0,,,2026-11-06T13:21,1cff44b,"Portsmouth: 1 fuera, 1 duda (Mark Kosznovszky); Stoke: sin bajas",Unibet
+2026-11-07,⚽,corners_t_o,0.586,0.556,1.65,-0.034,0,0.0,,0,,,2026-11-06T13:21,1cff44b,"Portsmouth: 1 fuera, 1 duda (Mark Kosznovszky); Stoke: sin bajas",Unibet
+2026-11-07,⚽,corners_t_u,0.716,0.722,1.27,-0.091,1,1.27,,0,,,2026-11-06T13:21,1cff44b,"Portsmouth: 1 fuera, 1 duda (Mark Kosznovszky); Stoke: sin bajas",Unibet
+2026-11-07,⚽,corners_t_o,0.517,0.532,1.68,-0.132,1,1.68,,0,,,2026-11-06T13:21,1cff44b,Clermont: sin bajas; Rodez: sin bajas,Unibet
+2026-11-07,⚽,corners_t_u,0.69,0.661,1.36,-0.062,1,1.36,,0,,,2026-11-06T13:21,1cff44b,Clermont: sin bajas; Rodez: sin bajas,Unibet
+2026-11-07,⚽,corners_h_o,0.479,0.472,1.9,-0.089,0,0.0,,0,,,2026-11-06T13:21,1cff44b,Clermont: sin bajas; Rodez: sin bajas,Unibet
+2026-11-07,⚽,corners_h_u,0.521,0.528,1.7,-0.115,1,1.7,,0,,,2026-11-06T13:21,1cff44b,Clermont: sin bajas; Rodez: sin bajas,Unibet
+2026-11-07,⚽,corners_a_o,0.414,0.448,2.0,-0.173,1,2.0,,0,,,2026-11-06T13:21,1cff44b,Clermont: sin bajas; Rodez: sin bajas,Unibet
+2026-11-07,⚽,corners_a_u,0.586,0.552,1.62,-0.05,0,0.0,,0,,,2026-11-06T13:21,1cff44b,Clermont: sin bajas; Rodez: sin bajas,Unibet
+2026-11-07,⚽,corners_a_o,0.523,0.555,1.65,-0.137,0,0.0,,0,,,2026-11-06T13:21,1cff44b,"Samsunspor: 0 fuera, 1 duda; Konyaspor: 2 fuera, 0 duda (Deniz Turuc, Adil Demirbag)",Unibet
+2026-11-07,⚽,corners_a_u,0.477,0.445,2.06,-0.018,1,2.06,,0,,,2026-11-06T13:21,1cff44b,"Samsunspor: 0 fuera, 1 duda; Konyaspor: 2 fuera, 0 duda (Deniz Turuc, Adil Demirbag)",Unibet
+2026-11-07,⚽,corners_t_o,0.689,0.701,1.3,-0.105,0,0.0,,0,,,2026-11-06T13:21,1cff44b,"Samsunspor: 0 fuera, 1 duda; Konyaspor: 2 fuera, 0 duda (Deniz Turuc, Adil Demirbag)",Unibet
+2026-11-07,⚽,corners_t_u,0.539,0.507,1.81,-0.024,1,1.81,,0,,,2026-11-06T13:21,1cff44b,"Samsunspor: 0 fuera, 1 duda; Konyaspor: 2 fuera, 0 duda (Deniz Turuc, Adil Demirbag)",Unibet
+2026-11-07,⚽,corners_h_o,0.716,0.709,1.29,-0.076,0,0.0,,0,,,2026-11-06T13:21,1cff44b,"Samsunspor: 0 fuera, 1 duda; Konyaspor: 2 fuera, 0 duda (Deniz Turuc, Adil Demirbag)",Unibet
+2026-11-07,⚽,corners_h_u,0.555,0.546,1.68,-0.068,1,1.68,,0,,,2026-11-06T13:21,1cff44b,"Samsunspor: 0 fuera, 1 duda; Konyaspor: 2 fuera, 0 duda (Deniz Turuc, Adil Demirbag)",Unibet
+2026-11-07,⚽,corners_h_o,0.811,0.796,1.15,-0.068,1,1.15,,0,,,2026-11-06T14:15,64c3617,"Cagliari: 5 fuera, 1 duda (Adam Obert, Roberto Gagliardini, Mattia Felici); Frosinone: 0 fuera, 1 duda",Unibet
+2026-11-07,⚽,corners_h_u,0.604,0.599,1.54,-0.069,1,1.54,,0,,,2026-11-06T14:15,64c3617,"Cagliari: 5 fuera, 1 duda (Adam Obert, Roberto Gagliardini, Mattia Felici); Frosinone: 0 fuera, 1 duda",Unibet
+2026-11-07,⚽,corners_a_o,0.705,0.727,1.26,-0.111,1,1.26,,0,,,2026-11-06T14:15,64c3617,"Cagliari: 5 fuera, 1 duda (Adam Obert, Roberto Gagliardini, Mattia Felici); Frosinone: 0 fuera, 1 duda",Unibet
+2026-11-07,⚽,corners_a_u,0.436,0.403,2.28,-0.006,0,0.0,,0,,,2026-11-06T14:15,64c3617,"Cagliari: 5 fuera, 1 duda (Adam Obert, Roberto Gagliardini, Mattia Felici); Frosinone: 0 fuera, 1 duda",Unibet
+2026-11-07,⚽,corners_t_o,0.777,0.782,1.17,-0.091,1,1.17,,0,,,2026-11-06T14:15,64c3617,"Cagliari: 5 fuera, 1 duda (Adam Obert, Roberto Gagliardini, Mattia Felici); Frosinone: 0 fuera, 1 duda",Unibet
+2026-11-07,⚽,corners_t_u,0.427,0.401,2.3,-0.017,0,0.0,,0,,,2026-11-06T14:15,64c3617,"Cagliari: 5 fuera, 1 duda (Adam Obert, Roberto Gagliardini, Mattia Felici); Frosinone: 0 fuera, 1 duda",Unibet
+2026-11-07,⚽,corners_a_u,0.488,0.47,1.96,-0.043,0,0.0,,0,,,2026-11-06T14:15,64c3617,"Torino: 1 fuera, 4 duda (Franco Israel); Lecce: 4 fuera, 3 duda (Lassana Coulibaly, Santiago Pierotti, Kialonda Gaspar)",Unibet
+2026-11-07,⚽,corners_a_o,0.684,0.689,1.33,-0.091,1,1.33,,0,,,2026-11-06T14:15,64c3617,"Torino: 1 fuera, 4 duda (Franco Israel); Lecce: 4 fuera, 3 duda (Lassana Coulibaly, Santiago Pierotti, Kialonda Gaspar)",Unibet
+2026-11-07,⚽,corners_t_o,0.57,0.548,1.68,-0.042,1,1.68,,0,,,2026-11-06T14:15,64c3617,"Torino: 1 fuera, 4 duda (Franco Israel); Lecce: 4 fuera, 3 duda (Lassana Coulibaly, Santiago Pierotti, Kialonda Gaspar)",Unibet
+2026-11-07,⚽,corners_t_u,0.82,0.814,1.12,-0.081,1,1.12,,0,,,2026-11-06T14:15,64c3617,"Torino: 1 fuera, 4 duda (Franco Israel); Lecce: 4 fuera, 3 duda (Lassana Coulibaly, Santiago Pierotti, Kialonda Gaspar)",Unibet
+2026-11-07,⚽,corners_h_o,0.327,0.302,3.05,-0.002,0,0.0,,0,,,2026-11-06T14:15,64c3617,"Torino: 1 fuera, 4 duda (Franco Israel); Lecce: 4 fuera, 3 duda (Lassana Coulibaly, Santiago Pierotti, Kialonda Gaspar)",Unibet
+2026-11-07,⚽,corners_h_u,0.767,0.781,1.18,-0.095,1,1.18,,0,,,2026-11-06T14:15,64c3617,"Torino: 1 fuera, 4 duda (Franco Israel); Lecce: 4 fuera, 3 duda (Lassana Coulibaly, Santiago Pierotti, Kialonda Gaspar)",Unibet
+2026-11-07,⚽,corners_t_o,0.513,0.533,1.68,-0.138,1,1.68,,0,,,2026-11-06T14:15,64c3617,"Cesena: 1 fuera, 0 duda (Jonathan Klinsmann); Catanzaro: 1 fuera, 0 duda (Costantino Favasuli)",Unibet
+2026-11-07,⚽,corners_t_u,0.693,0.659,1.36,-0.058,0,0.0,,0,,,2026-11-06T14:15,64c3617,"Cesena: 1 fuera, 0 duda (Jonathan Klinsmann); Catanzaro: 1 fuera, 0 duda (Costantino Favasuli)",Unibet
+2026-11-07,⚽,corners_a_o,0.556,0.58,1.55,-0.138,1,1.55,,0,,,2026-11-06T14:15,64c3617,"Cesena: 1 fuera, 0 duda (Jonathan Klinsmann); Catanzaro: 1 fuera, 0 duda (Costantino Favasuli)",Unibet
+2026-11-07,⚽,corners_a_u,0.597,0.562,1.6,-0.044,0,0.0,,0,,,2026-11-06T14:15,64c3617,"Cesena: 1 fuera, 0 duda (Jonathan Klinsmann); Catanzaro: 1 fuera, 0 duda (Costantino Favasuli)",Unibet
+2026-11-07,⚽,corners_h_o,0.476,0.478,1.88,-0.105,0,0.0,,0,,,2026-11-06T14:15,64c3617,"Cesena: 1 fuera, 0 duda (Jonathan Klinsmann); Catanzaro: 1 fuera, 0 duda (Costantino Favasuli)",Unibet
+2026-11-07,⚽,corners_h_u,0.524,0.522,1.72,-0.099,1,1.72,,0,,,2026-11-06T14:15,64c3617,"Cesena: 1 fuera, 0 duda (Jonathan Klinsmann); Catanzaro: 1 fuera, 0 duda (Costantino Favasuli)",Unibet
+2026-11-07,⚽,corners_h_o,0.464,0.415,2.16,0.002,1,2.16,,0,,,2026-11-06T14:15,64c3617,"Juve Stabia: 0 fuera, 4 duda; Arezzo: sin bajas",Unibet
+2026-11-07,⚽,corners_h_u,0.536,0.585,1.53,-0.18,0,0.0,,0,,,2026-11-06T14:15,64c3617,"Juve Stabia: 0 fuera, 4 duda; Arezzo: sin bajas",Unibet
+2026-11-07,⚽,corners_t_o,0.443,0.402,2.23,-0.013,1,2.23,,0,,,2026-11-06T14:15,64c3617,"Juve Stabia: 0 fuera, 4 duda; Arezzo: sin bajas",Unibet
+2026-11-07,⚽,corners_t_u,0.557,0.598,1.5,-0.164,0,0.0,,0,,,2026-11-06T14:15,64c3617,"Juve Stabia: 0 fuera, 4 duda; Arezzo: sin bajas",Unibet
+2026-11-07,⚽,corners_a_o,0.473,0.478,1.88,-0.111,1,1.88,,0,,,2026-11-06T14:15,64c3617,"Juve Stabia: 0 fuera, 4 duda; Arezzo: sin bajas",Unibet
+2026-11-07,⚽,corners_a_u,0.527,0.522,1.72,-0.093,0,0.0,,0,,,2026-11-06T14:15,64c3617,"Juve Stabia: 0 fuera, 4 duda; Arezzo: sin bajas",Unibet
+2026-11-07,⚽,corners_t_o,0.605,0.608,1.47,-0.11,1,1.47,,0,,,2026-11-06T14:15,64c3617,"Padova: 2 fuera, 2 duda (Giovanni Giunti, Luca Zanimacchia); Empoli: sin bajas",Unibet
+2026-11-07,⚽,corners_t_u,0.617,0.598,1.5,-0.075,0,0.0,,0,,,2026-11-06T14:15,64c3617,"Padova: 2 fuera, 2 duda (Giovanni Giunti, Luca Zanimacchia); Empoli: sin bajas",Unibet
+2026-11-07,⚽,corners_h_o,0.543,0.528,1.7,-0.078,1,1.7,,0,,,2026-11-06T14:15,64c3617,"Padova: 2 fuera, 2 duda (Giovanni Giunti, Luca Zanimacchia); Empoli: sin bajas",Unibet
+2026-11-07,⚽,corners_h_u,0.592,0.598,1.5,-0.112,0,0.0,,0,,,2026-11-06T14:15,64c3617,"Padova: 2 fuera, 2 duda (Giovanni Giunti, Luca Zanimacchia); Empoli: sin bajas",Unibet
+2026-11-07,⚽,corners_a_o,0.454,0.485,1.85,-0.161,1,1.85,,0,,,2026-11-06T14:15,64c3617,"Padova: 2 fuera, 2 duda (Giovanni Giunti, Luca Zanimacchia); Empoli: sin bajas",Unibet
+2026-11-07,⚽,corners_a_u,0.546,0.515,1.74,-0.049,0,0.0,,0,,,2026-11-06T14:15,64c3617,"Padova: 2 fuera, 2 duda (Giovanni Giunti, Luca Zanimacchia); Empoli: sin bajas",Unibet
+2026-11-07,⚽,corners_a_o,0.471,0.528,1.7,-0.199,1,1.7,,0,,,2026-11-06T14:15,64c3617,"Pisa: 1 fuera, 1 duda (Henrik Meister); Sudtirol: 0 fuera, 2 duda",Unibet
+2026-11-07,⚽,corners_a_u,0.529,0.472,1.9,0.005,0,0.0,,0,,,2026-11-06T14:15,64c3617,"Pisa: 1 fuera, 1 duda (Henrik Meister); Sudtirol: 0 fuera, 2 duda",Unibet
+2026-11-07,⚽,corners_t_o,0.598,0.598,1.5,-0.103,1,1.5,,0,,,2026-11-06T14:15,64c3617,"Pisa: 1 fuera, 1 duda (Henrik Meister); Sudtirol: 0 fuera, 2 duda",Unibet
+2026-11-07,⚽,corners_t_u,0.621,0.602,1.49,-0.075,0,0.0,,0,,,2026-11-06T14:15,64c3617,"Pisa: 1 fuera, 1 duda (Henrik Meister); Sudtirol: 0 fuera, 2 duda",Unibet
+2026-11-07,⚽,corners_h_o,0.51,0.479,1.87,-0.046,1,1.87,,0,,,2026-11-06T14:15,64c3617,"Pisa: 1 fuera, 1 duda (Henrik Meister); Sudtirol: 0 fuera, 2 duda",Unibet
+2026-11-07,⚽,corners_h_u,0.49,0.521,1.72,-0.158,0,0.0,,0,,,2026-11-06T14:15,64c3617,"Pisa: 1 fuera, 1 duda (Henrik Meister); Sudtirol: 0 fuera, 2 duda",Unibet
+2026-11-07,⚽,corners_h_o,0.355,0.334,2.75,-0.024,0,0.0,,0,,,2026-11-06T14:45,57f73f5,"Dortmund: 2 fuera, 2 duda (G. Konstantelias, Emre Can); Elversberg: 0 fuera, 3 duda",Unibet
+2026-11-07,⚽,corners_h_u,0.73,0.745,1.23,-0.102,1,1.23,,0,,,2026-11-06T14:45,57f73f5,"Dortmund: 2 fuera, 2 duda (G. Konstantelias, Emre Can); Elversberg: 0 fuera, 3 duda",Unibet
+2026-11-07,⚽,corners_a_o,0.767,0.766,1.19,-0.087,1,1.19,,0,,,2026-11-06T14:45,57f73f5,"Dortmund: 2 fuera, 2 duda (G. Konstantelias, Emre Can); Elversberg: 0 fuera, 3 duda",Unibet
+2026-11-07,⚽,corners_a_u,0.616,0.594,1.54,-0.051,0,0.0,,0,,,2026-11-06T14:45,57f73f5,"Dortmund: 2 fuera, 2 duda (G. Konstantelias, Emre Can); Elversberg: 0 fuera, 3 duda",Unibet
+2026-11-07,⚽,corners_t_o,0.599,0.576,1.6,-0.042,1,1.6,,0,,,2026-11-06T14:45,57f73f5,"Dortmund: 2 fuera, 2 duda (G. Konstantelias, Emre Can); Elversberg: 0 fuera, 3 duda",Unibet
+2026-11-07,⚽,corners_t_u,0.781,0.775,1.19,-0.07,1,1.19,,0,,,2026-11-06T14:45,57f73f5,"Dortmund: 2 fuera, 2 duda (G. Konstantelias, Emre Can); Elversberg: 0 fuera, 3 duda",Unibet
+2026-11-07,⚽,corners_a_u,0.312,0.286,3.2,-0.003,0,0.0,,0,,,2026-11-06T14:45,57f73f5,"Mainz: 3 fuera, 3 duda (Phillipp Mwene, Stefan Posch, Silas Katompa Mvumpa); Bayern Munich: 0 fuera, 6 duda",Unibet
+2026-11-07,⚽,corners_a_o,0.688,0.714,1.28,-0.119,1,1.28,,0,,,2026-11-06T14:45,57f73f5,"Mainz: 3 fuera, 3 duda (Phillipp Mwene, Stefan Posch, Silas Katompa Mvumpa); Bayern Munich: 0 fuera, 6 duda",Unibet
+2026-11-07,⚽,corners_h_o,0.714,0.693,1.33,-0.05,1,1.33,,0,,,2026-11-06T14:45,57f73f5,"Mainz: 3 fuera, 3 duda (Phillipp Mwene, Stefan Posch, Silas Katompa Mvumpa); Bayern Munich: 0 fuera, 6 duda",Unibet
+2026-11-07,⚽,corners_h_u,0.827,0.816,1.13,-0.066,0,0.0,,0,,,2026-11-06T14:45,57f73f5,"Mainz: 3 fuera, 3 duda (Phillipp Mwene, Stefan Posch, Silas Katompa Mvumpa); Bayern Munich: 0 fuera, 6 duda",Unibet
+2026-11-07,⚽,corners_t_o,0.785,0.786,1.16,-0.09,1,1.16,,0,,,2026-11-06T14:45,57f73f5,"Mainz: 3 fuera, 3 duda (Phillipp Mwene, Stefan Posch, Silas Katompa Mvumpa); Bayern Munich: 0 fuera, 6 duda",Unibet
+2026-11-07,⚽,corners_t_u,0.525,0.497,1.85,-0.028,0,0.0,,0,,,2026-11-06T14:45,57f73f5,"Mainz: 3 fuera, 3 duda (Phillipp Mwene, Stefan Posch, Silas Katompa Mvumpa); Bayern Munich: 0 fuera, 6 duda",Unibet
+2026-11-07,⚽,corners_h_o,0.546,0.534,1.72,-0.061,0,0.0,,0,,,2026-11-06T14:45,57f73f5,"Paderborn: 0 fuera, 7 duda; Ein Frankfurt: 0 fuera, 1 duda",Unibet
+2026-11-07,⚽,corners_h_u,0.708,0.708,1.3,-0.08,1,1.3,,0,,,2026-11-06T14:45,57f73f5,"Paderborn: 0 fuera, 7 duda; Ein Frankfurt: 0 fuera, 1 duda",Unibet
+2026-11-07,⚽,corners_t_o,0.741,0.749,1.22,-0.096,1,1.22,,0,,,2026-11-06T14:45,57f73f5,"Paderborn: 0 fuera, 7 duda; Ein Frankfurt: 0 fuera, 1 duda",Unibet
+2026-11-07,⚽,corners_t_u,0.478,0.452,2.04,-0.025,1,2.04,,0,,,2026-11-06T14:45,57f73f5,"Paderborn: 0 fuera, 7 duda; Ein Frankfurt: 0 fuera, 1 duda",Unibet
+2026-11-07,⚽,corners_a_o,0.641,0.679,1.35,-0.134,1,1.35,,0,,,2026-11-06T14:45,57f73f5,"Paderborn: 0 fuera, 7 duda; Ein Frankfurt: 0 fuera, 1 duda",Unibet
+2026-11-07,⚽,corners_a_u,0.359,0.321,2.85,0.022,0,0.0,,0,,,2026-11-06T14:45,57f73f5,"Paderborn: 0 fuera, 7 duda; Ein Frankfurt: 0 fuera, 1 duda",Unibet
+2026-11-07,⚽,corners_a_o,0.703,0.705,1.3,-0.086,0,0.0,,0,,,2026-11-06T14:45,57f73f5,"RB Leipzig: 3 fuera, 0 duda (Lukas Klostermann, F. Assan Ouedraogo, Marc Guiu); Augsburg: 1 fuera, 5 duda (Kristijan Jakic)",Unibet
+2026-11-07,⚽,corners_a_u,0.626,0.608,1.5,-0.061,1,1.5,,0,,,2026-11-06T14:45,57f73f5,"RB Leipzig: 3 fuera, 0 duda (Lukas Klostermann, F. Assan Ouedraogo, Marc Guiu); Augsburg: 1 fuera, 5 duda (Kristijan Jakic)",Unibet
+2026-11-07,⚽,corners_t_o,0.716,0.708,1.3,-0.069,0,0.0,,0,,,2026-11-06T14:45,57f73f5,"RB Leipzig: 3 fuera, 0 duda (Lukas Klostermann, F. Assan Ouedraogo, Marc Guiu); Augsburg: 1 fuera, 5 duda (Kristijan Jakic)",Unibet
+2026-11-07,⚽,corners_t_u,0.693,0.677,1.36,-0.057,1,1.36,,0,,,2026-11-06T14:45,57f73f5,"RB Leipzig: 3 fuera, 0 duda (Lukas Klostermann, F. Assan Ouedraogo, Marc Guiu); Augsburg: 1 fuera, 5 duda (Kristijan Jakic)",Unibet
+2026-11-07,⚽,corners_h_o,0.608,0.603,1.53,-0.07,0,0.0,,0,,,2026-11-06T14:45,57f73f5,"RB Leipzig: 3 fuera, 0 duda (Lukas Klostermann, F. Assan Ouedraogo, Marc Guiu); Augsburg: 1 fuera, 5 duda (Kristijan Jakic)",Unibet
+2026-11-07,⚽,corners_h_u,0.718,0.713,1.29,-0.074,1,1.29,,0,,,2026-11-06T14:45,57f73f5,"RB Leipzig: 3 fuera, 0 duda (Lukas Klostermann, F. Assan Ouedraogo, Marc Guiu); Augsburg: 1 fuera, 5 duda (Kristijan Jakic)",Unibet
+2026-11-07,⚽,corners_t_o,0.676,0.689,1.33,-0.101,0,0.0,,0,,,2026-11-06T15:15,d9dc172,Westerlo: sin bajas; Charleroi: sin bajas,Unibet
+2026-11-07,⚽,corners_t_u,0.642,0.604,1.52,-0.025,1,1.52,,0,,,2026-11-06T15:15,d9dc172,Westerlo: sin bajas; Charleroi: sin bajas,Unibet
+2026-11-07,⚽,corners_a_o,0.708,0.705,1.3,-0.079,1,1.3,,0,,,2026-11-06T15:15,d9dc172,Westerlo: sin bajas; Charleroi: sin bajas,Unibet
+2026-11-07,⚽,corners_a_u,0.683,0.666,1.38,-0.057,1,1.38,,0,,,2026-11-06T15:15,d9dc172,Westerlo: sin bajas; Charleroi: sin bajas,Unibet
+2026-11-07,⚽,corners_h_o,0.667,0.679,1.35,-0.1,0,0.0,,0,,,2026-11-06T15:15,d9dc172,Westerlo: sin bajas; Charleroi: sin bajas,Unibet
+2026-11-07,⚽,corners_h_u,0.478,0.454,2.02,-0.034,1,2.02,,0,,,2026-11-06T15:15,d9dc172,Westerlo: sin bajas; Charleroi: sin bajas,Unibet
+2026-11-07,⚽,corners_t_o,0.58,0.546,1.68,-0.026,1,1.68,,0,,,2026-11-06T15:15,d9dc172,"Arsenal: 2 fuera, 0 duda (Bukayo Saka, Max Dowman); Hull: 7 fuera, 1 duda (Matt Crooks, Matt Targett, Jack Butland)",Unibet
+2026-11-07,⚽,corners_t_u,0.795,0.795,1.16,-0.078,1,1.16,,0,,,2026-11-06T15:15,d9dc172,"Arsenal: 2 fuera, 0 duda (Bukayo Saka, Max Dowman); Hull: 7 fuera, 1 duda (Matt Crooks, Matt Targett, Jack Butland)",Unibet
+2026-11-07,⚽,corners_h_u,0.803,0.817,1.12,-0.1,1,1.12,,0,,,2026-11-06T15:15,d9dc172,"Arsenal: 2 fuera, 0 duda (Bukayo Saka, Max Dowman); Hull: 7 fuera, 1 duda (Matt Crooks, Matt Targett, Jack Butland)",Unibet
+2026-11-07,⚽,corners_h_o,0.349,0.321,2.85,-0.006,0,0.0,,0,,,2026-11-06T15:15,d9dc172,"Arsenal: 2 fuera, 0 duda (Bukayo Saka, Max Dowman); Hull: 7 fuera, 1 duda (Matt Crooks, Matt Targett, Jack Butland)",Unibet
+2026-11-07,⚽,corners_a_o,0.751,0.745,1.23,-0.077,1,1.23,,0,,,2026-11-06T15:15,d9dc172,"Arsenal: 2 fuera, 0 duda (Bukayo Saka, Max Dowman); Hull: 7 fuera, 1 duda (Matt Crooks, Matt Targett, Jack Butland)",Unibet
+2026-11-07,⚽,corners_a_u,0.78,0.758,1.21,-0.056,1,1.21,,0,,,2026-11-06T15:15,d9dc172,"Arsenal: 2 fuera, 0 duda (Bukayo Saka, Max Dowman); Hull: 7 fuera, 1 duda (Matt Crooks, Matt Targett, Jack Butland)",Unibet
+2026-11-07,⚽,corners_a_o,0.623,0.617,1.49,-0.072,0,0.0,,0,,,2026-11-06T15:15,d9dc172,"Fulham: 1 fuera, 1 duda (Ryan Sessegnon); Newcastle: 3 fuera, 2 duda (Jacob Ramsey, Valentino Livramento, Ewen Jaouen)",Unibet
+2026-11-07,⚽,corners_a_u,0.666,0.659,1.4,-0.067,1,1.4,,0,,,2026-11-06T15:15,d9dc172,"Fulham: 1 fuera, 1 duda (Ryan Sessegnon); Newcastle: 3 fuera, 2 duda (Jacob Ramsey, Valentino Livramento, Ewen Jaouen)",Unibet
+2026-11-07,⚽,corners_t_u,0.845,0.823,1.12,-0.054,1,1.12,,0,,,2026-11-06T15:15,d9dc172,"Fulham: 1 fuera, 1 duda (Ryan Sessegnon); Newcastle: 3 fuera, 2 duda (Jacob Ramsey, Valentino Livramento, Ewen Jaouen)",Unibet
+2026-11-07,⚽,corners_t_o,0.799,0.788,1.16,-0.074,0,0.0,,0,,,2026-11-06T15:15,d9dc172,"Fulham: 1 fuera, 1 duda (Ryan Sessegnon); Newcastle: 3 fuera, 2 duda (Jacob Ramsey, Valentino Livramento, Ewen Jaouen)",Unibet
+2026-11-07,⚽,corners_h_o,0.773,0.765,1.2,-0.073,0,0.0,,0,,,2026-11-06T15:15,d9dc172,"Fulham: 1 fuera, 1 duda (Ryan Sessegnon); Newcastle: 3 fuera, 2 duda (Jacob Ramsey, Valentino Livramento, Ewen Jaouen)",Unibet
+2026-11-07,⚽,corners_h_u,0.604,0.595,1.55,-0.064,1,1.55,,0,,,2026-11-06T15:15,d9dc172,"Fulham: 1 fuera, 1 duda (Ryan Sessegnon); Newcastle: 3 fuera, 2 duda (Jacob Ramsey, Valentino Livramento, Ewen Jaouen)",Unibet
+2026-11-07,⚽,corners_t_u,0.765,0.749,1.22,-0.066,0,0.0,,0,,,2026-11-06T15:15,d9dc172,"Birmingham: 0 fuera, 1 duda; Swansea: 0 fuera, 1 duda",Unibet
+2026-11-07,⚽,corners_t_o,0.741,0.722,1.27,-0.059,1,1.27,,0,,,2026-11-06T15:15,d9dc172,"Birmingham: 0 fuera, 1 duda; Swansea: 0 fuera, 1 duda",Unibet
+2026-11-07,⚽,corners_a_u,0.643,0.615,1.49,-0.042,0,0.0,,0,,,2026-11-06T15:15,d9dc172,"Birmingham: 0 fuera, 1 duda; Swansea: 0 fuera, 1 duda",Unibet
+2026-11-07,⚽,corners_a_o,0.684,0.689,1.33,-0.09,1,1.33,,0,,,2026-11-06T15:15,d9dc172,"Birmingham: 0 fuera, 1 duda; Swansea: 0 fuera, 1 duda",Unibet
+2026-11-07,⚽,corners_h_o,0.655,0.633,1.45,-0.05,1,1.45,,0,,,2026-11-06T15:15,d9dc172,"Birmingham: 0 fuera, 1 duda; Swansea: 0 fuera, 1 duda",Unibet
+2026-11-07,⚽,corners_h_u,0.699,0.705,1.3,-0.092,0,0.0,,0,,,2026-11-06T15:15,d9dc172,"Birmingham: 0 fuera, 1 duda; Swansea: 0 fuera, 1 duda",Unibet
+2026-11-07,⚽,corners_a_o,0.666,0.662,1.38,-0.081,1,1.38,,0,,,2026-11-06T15:15,d9dc172,"Blackburn: 1 fuera, 0 duda (Lewis Miller); West Ham: sin bajas",Unibet
+2026-11-07,⚽,corners_a_u,0.689,0.677,1.36,-0.063,0,0.0,,0,,,2026-11-06T15:15,d9dc172,"Blackburn: 1 fuera, 0 duda (Lewis Miller); West Ham: sin bajas",Unibet
+2026-11-07,⚽,corners_h_o,0.658,0.629,1.46,-0.04,1,1.46,,0,,,2026-11-06T15:15,d9dc172,"Blackburn: 1 fuera, 0 duda (Lewis Miller); West Ham: sin bajas",Unibet
+2026-11-07,⚽,corners_h_u,0.734,0.738,1.24,-0.09,1,1.24,,0,,,2026-11-06T15:15,d9dc172,"Blackburn: 1 fuera, 0 duda (Lewis Miller); West Ham: sin bajas",Unibet
+2026-11-07,⚽,corners_t_o,0.742,0.717,1.28,-0.051,1,1.28,,0,,,2026-11-06T15:15,d9dc172,"Blackburn: 1 fuera, 0 duda (Lewis Miller); West Ham: sin bajas",Unibet
+2026-11-07,⚽,corners_t_u,0.742,0.734,1.25,-0.073,1,1.25,,0,,,2026-11-06T15:15,d9dc172,"Blackburn: 1 fuera, 0 duda (Lewis Miller); West Ham: sin bajas",Unibet
+2026-11-07,⚽,corners_a_o,0.577,0.602,1.52,-0.123,1,1.52,,0,,,2026-11-06T15:15,d9dc172,"Cardiff: sin bajas; Burnley: 0 fuera, 2 duda",Unibet
+2026-11-07,⚽,corners_a_u,0.577,0.541,1.7,-0.019,0,0.0,,0,,,2026-11-06T15:15,d9dc172,"Cardiff: sin bajas; Burnley: 0 fuera, 2 duda",Unibet
+2026-11-07,⚽,corners_t_o,0.758,0.758,1.21,-0.082,1,1.21,,0,,,2026-11-06T15:15,d9dc172,"Cardiff: sin bajas; Burnley: 0 fuera, 2 duda",Unibet
+2026-11-07,⚽,corners_t_u,0.662,0.629,1.46,-0.034,1,1.46,,0,,,2026-11-06T15:15,d9dc172,"Cardiff: sin bajas; Burnley: 0 fuera, 2 duda",Unibet
+2026-11-07,⚽,corners_h_o,0.631,0.625,1.47,-0.073,1,1.47,,0,,,2026-11-06T15:15,d9dc172,"Cardiff: sin bajas; Burnley: 0 fuera, 2 duda",Unibet
+2026-11-07,⚽,corners_h_u,0.623,0.617,1.49,-0.072,1,1.49,,0,,,2026-11-06T15:15,d9dc172,"Cardiff: sin bajas; Burnley: 0 fuera, 2 duda",Unibet
+2026-11-07,⚽,corners_h_o,0.522,0.484,1.9,-0.008,0,0.0,,0,,,2026-11-06T15:15,d9dc172,"Charlton: 1 fuera, 0 duda (Zach Mitchell); Sheffield United: sin bajas",Unibet
+2026-11-07,⚽,corners_h_u,0.722,0.738,1.24,-0.105,1,1.24,,0,,,2026-11-06T15:15,d9dc172,"Charlton: 1 fuera, 0 duda (Zach Mitchell); Sheffield United: sin bajas",Unibet
+2026-11-07,⚽,corners_t_o,0.672,0.689,1.33,-0.107,0,0.0,,0,,,2026-11-06T15:15,d9dc172,"Charlton: 1 fuera, 0 duda (Zach Mitchell); Sheffield United: sin bajas",Unibet
+2026-11-07,⚽,corners_t_u,0.544,0.507,1.81,-0.015,1,1.81,,0,,,2026-11-06T15:15,d9dc172,"Charlton: 1 fuera, 0 duda (Zach Mitchell); Sheffield United: sin bajas",Unibet
+2026-11-07,⚽,corners_a_o,0.56,0.629,1.46,-0.183,1,1.46,,0,,,2026-11-06T15:15,d9dc172,"Charlton: 1 fuera, 0 duda (Zach Mitchell); Sheffield United: sin bajas",Unibet
+2026-11-07,⚽,corners_a_u,0.44,0.371,2.48,0.092,0,0.0,,0,,,2026-11-06T15:15,d9dc172,"Charlton: 1 fuera, 0 duda (Zach Mitchell); Sheffield United: sin bajas",Unibet
+2026-11-07,⚽,corners_t_o,0.737,0.738,1.24,-0.086,1,1.24,,0,,,2026-11-06T15:15,d9dc172,"Preston: 0 fuera, 2 duda; Southampton: sin bajas",Unibet
+2026-11-07,⚽,corners_t_u,0.75,0.717,1.28,-0.041,1,1.28,,0,,,2026-11-06T15:15,d9dc172,"Preston: 0 fuera, 2 duda; Southampton: sin bajas",Unibet
+2026-11-07,⚽,corners_a_o,0.566,0.601,1.53,-0.134,1,1.53,,0,,,2026-11-06T15:15,d9dc172,"Preston: 0 fuera, 2 duda; Southampton: sin bajas",Unibet
+2026-11-07,⚽,corners_a_u,0.434,0.399,2.3,-0.002,0,0.0,,0,,,2026-11-06T15:15,d9dc172,"Preston: 0 fuera, 2 duda; Southampton: sin bajas",Unibet
+2026-11-07,⚽,corners_h_o,0.619,0.592,1.55,-0.041,0,0.0,,0,,,2026-11-06T15:15,d9dc172,"Preston: 0 fuera, 2 duda; Southampton: sin bajas",Unibet
+2026-11-07,⚽,corners_h_u,0.664,0.673,1.36,-0.097,1,1.36,,0,,,2026-11-06T15:15,d9dc172,"Preston: 0 fuera, 2 duda; Southampton: sin bajas",Unibet
+2026-11-07,⚽,corners_h_o,0.561,0.537,1.71,-0.04,1,1.71,,0,,,2026-11-06T15:15,d9dc172,"Watford: sin bajas; Middlesbrough: 0 fuera, 2 duda",Unibet
+2026-11-07,⚽,corners_h_u,0.722,0.727,1.26,-0.091,1,1.26,,0,,,2026-11-06T15:15,d9dc172,"Watford: sin bajas; Middlesbrough: 0 fuera, 2 duda",Unibet
+2026-11-07,⚽,corners_a_o,0.547,0.602,1.52,-0.169,1,1.52,,0,,,2026-11-06T15:15,d9dc172,"Watford: sin bajas; Middlesbrough: 0 fuera, 2 duda",Unibet
+2026-11-07,⚽,corners_a_u,0.453,0.398,2.3,0.042,0,0.0,,0,,,2026-11-06T15:15,d9dc172,"Watford: sin bajas; Middlesbrough: 0 fuera, 2 duda",Unibet
+2026-11-07,⚽,corners_t_o,0.685,0.705,1.3,-0.11,1,1.3,,0,,,2026-11-06T15:15,d9dc172,"Watford: sin bajas; Middlesbrough: 0 fuera, 2 duda",Unibet
+2026-11-07,⚽,corners_t_u,0.529,0.489,1.88,-0.005,0,0.0,,0,,,2026-11-06T15:15,d9dc172,"Watford: sin bajas; Middlesbrough: 0 fuera, 2 duda",Unibet
+2026-11-07,⚽,corners_h_o,0.581,0.556,1.65,-0.042,1,1.65,,0,,,2026-11-06T15:15,d9dc172,"West Brom: sin bajas; Millwall: 0 fuera, 1 duda",Unibet
+2026-11-07,⚽,corners_h_u,0.644,0.654,1.4,-0.099,1,1.4,,0,,,2026-11-06T15:15,d9dc172,"West Brom: sin bajas; Millwall: 0 fuera, 1 duda",Unibet
+2026-11-07,⚽,corners_a_u,0.42,0.367,2.5,0.05,0,0.0,,0,,,2026-11-06T15:15,d9dc172,"West Brom: sin bajas; Millwall: 0 fuera, 1 duda",Unibet
+2026-11-07,⚽,corners_a_o,0.58,0.633,1.45,-0.159,1,1.45,,0,,,2026-11-06T15:15,d9dc172,"West Brom: sin bajas; Millwall: 0 fuera, 1 duda",Unibet
+2026-11-07,⚽,corners_t_u,0.677,0.641,1.43,-0.032,1,1.43,,0,,,2026-11-06T15:15,d9dc172,"West Brom: sin bajas; Millwall: 0 fuera, 1 duda",Unibet
+2026-11-07,⚽,corners_t_o,0.726,0.731,1.25,-0.092,1,1.25,,0,,,2026-11-06T15:15,d9dc172,"West Brom: sin bajas; Millwall: 0 fuera, 1 duda",Unibet
+2026-11-07,⚽,corners_a_o,0.689,0.684,1.34,-0.076,1,1.34,,0,,,2026-11-06T15:15,d9dc172,Dundee United: sin bajas; Motherwell: sin bajas,Unibet
+2026-11-07,⚽,corners_a_u,0.705,0.689,1.33,-0.062,0,0.0,,0,,,2026-11-06T15:15,d9dc172,Dundee United: sin bajas; Motherwell: sin bajas,Unibet
+2026-11-07,⚽,corners_h_o,0.293,0.259,3.55,0.041,1,3.55,,0,,,2026-11-06T15:15,d9dc172,Dundee United: sin bajas; Motherwell: sin bajas,Unibet
+2026-11-07,⚽,corners_h_u,0.707,0.741,1.24,-0.123,0,0.0,,0,,,2026-11-06T15:15,d9dc172,Dundee United: sin bajas; Motherwell: sin bajas,Unibet
+2026-11-07,⚽,corners_t_o,0.443,0.408,2.25,-0.003,1,2.25,,0,,,2026-11-06T15:15,d9dc172,Dundee United: sin bajas; Motherwell: sin bajas,Unibet
+2026-11-07,⚽,corners_t_u,0.737,0.754,1.21,-0.109,0,0.0,,0,,,2026-11-06T15:15,d9dc172,Dundee United: sin bajas; Motherwell: sin bajas,Unibet
+2026-11-07,⚽,corners_t_o,0.677,0.684,1.34,-0.093,1,1.34,,0,,,2026-11-06T15:15,d9dc172,St Johnstone: sin bajas; Dundee: sin bajas,Unibet
+2026-11-07,⚽,corners_t_u,0.646,0.621,1.48,-0.044,1,1.48,,0,,,2026-11-06T15:15,d9dc172,St Johnstone: sin bajas; Dundee: sin bajas,Unibet
+2026-11-07,⚽,corners_h_o,0.552,0.573,1.6,-0.117,0,0.0,,0,,,2026-11-06T15:15,d9dc172,St Johnstone: sin bajas; Dundee: sin bajas,Unibet
+2026-11-07,⚽,corners_h_u,0.7,0.666,1.38,-0.035,1,1.38,,0,,,2026-11-06T15:15,d9dc172,St Johnstone: sin bajas; Dundee: sin bajas,Unibet
+2026-11-07,⚽,corners_a_o,0.684,0.673,1.36,-0.07,1,1.36,,0,,,2026-11-06T15:15,d9dc172,St Johnstone: sin bajas; Dundee: sin bajas,Unibet
+2026-11-07,⚽,corners_a_u,0.594,0.588,1.56,-0.074,1,1.56,,0,,,2026-11-06T15:15,d9dc172,St Johnstone: sin bajas; Dundee: sin bajas,Unibet
+2026-11-07,⚽,corners_a_o,0.778,0.775,1.19,-0.074,1,1.19,,0,,,2026-11-06T15:28,1f4e2ce,"Espanol: 4 fuera, 2 duda (Roger Hinojo, Pol Lozano, Jofre Carreras); La Coruna: 0 fuera, 2 duda",Unibet
+2026-11-07,⚽,corners_a_u,0.654,0.629,1.46,-0.045,1,1.46,,0,,,2026-11-06T15:28,1f4e2ce,"Espanol: 4 fuera, 2 duda (Roger Hinojo, Pol Lozano, Jofre Carreras); La Coruna: 0 fuera, 2 duda",Unibet
+2026-11-07,⚽,corners_h_u,0.61,0.582,1.58,-0.036,0,0.0,,0,,,2026-11-06T15:28,1f4e2ce,"Espanol: 4 fuera, 2 duda (Roger Hinojo, Pol Lozano, Jofre Carreras); La Coruna: 0 fuera, 2 duda",Unibet
+2026-11-07,⚽,corners_h_o,0.806,0.805,1.14,-0.081,1,1.14,,0,,,2026-11-06T15:28,1f4e2ce,"Espanol: 4 fuera, 2 duda (Roger Hinojo, Pol Lozano, Jofre Carreras); La Coruna: 0 fuera, 2 duda",Unibet
+2026-11-07,⚽,corners_t_o,0.818,0.821,1.11,-0.092,1,1.11,,0,,,2026-11-06T15:28,1f4e2ce,"Espanol: 4 fuera, 2 duda (Roger Hinojo, Pol Lozano, Jofre Carreras); La Coruna: 0 fuera, 2 duda",Unibet
+2026-11-07,⚽,corners_t_u,0.382,0.355,2.6,-0.007,0,0.0,,0,,,2026-11-06T15:28,1f4e2ce,"Espanol: 4 fuera, 2 duda (Roger Hinojo, Pol Lozano, Jofre Carreras); La Coruna: 0 fuera, 2 duda",Unibet
+2026-11-07,⚽,corners_h_o,0.506,0.474,1.92,-0.028,1,1.92,,0,,,2026-11-06T15:28,1f4e2ce,"Cadiz: 0 fuera, 2 duda; Oviedo: sin bajas",Unibet
+2026-11-07,⚽,corners_h_u,0.627,0.65,1.4,-0.122,0,0.0,,0,,,2026-11-06T15:28,1f4e2ce,"Cadiz: 0 fuera, 2 duda; Oviedo: sin bajas",Unibet
+2026-11-07,⚽,corners_a_o,0.65,0.658,1.38,-0.103,1,1.38,,0,,,2026-11-06T15:28,1f4e2ce,"Cadiz: 0 fuera, 2 duda; Oviedo: sin bajas",Unibet
+2026-11-07,⚽,corners_a_u,0.636,0.614,1.48,-0.058,1,1.48,,0,,,2026-11-06T15:28,1f4e2ce,"Cadiz: 0 fuera, 2 duda; Oviedo: sin bajas",Unibet
+2026-11-07,⚽,corners_t_o,0.615,0.598,1.53,-0.059,1,1.53,,0,,,2026-11-06T15:28,1f4e2ce,"Cadiz: 0 fuera, 2 duda; Oviedo: sin bajas",Unibet
+2026-11-07,⚽,corners_t_u,0.705,0.701,1.3,-0.083,0,0.0,,0,,,2026-11-06T15:28,1f4e2ce,"Cadiz: 0 fuera, 2 duda; Oviedo: sin bajas",Unibet
+2026-11-07,⚽,corners_t_o,0.798,0.791,1.16,-0.075,1,1.16,,0,,,2026-11-06T15:44,0ebdbab,"For Sittard: sin bajas; Telstar: 0 fuera, 2 duda",Unibet
+2026-11-07,⚽,corners_t_u,0.614,0.595,1.55,-0.048,1,1.55,,0,,,2026-11-06T15:44,0ebdbab,"For Sittard: sin bajas; Telstar: 0 fuera, 2 duda",Unibet
+2026-11-07,⚽,corners_h_o,0.762,0.756,1.21,-0.078,1,1.21,,0,,,2026-11-06T15:44,0ebdbab,"For Sittard: sin bajas; Telstar: 0 fuera, 2 duda",Unibet
+2026-11-07,⚽,corners_h_u,0.722,0.708,1.3,-0.061,1,1.3,,0,,,2026-11-06T15:44,0ebdbab,"For Sittard: sin bajas; Telstar: 0 fuera, 2 duda",Unibet
+2026-11-07,⚽,corners_a_o,0.642,0.647,1.42,-0.089,1,1.42,,0,,,2026-11-06T15:44,0ebdbab,"For Sittard: sin bajas; Telstar: 0 fuera, 2 duda",Unibet
+2026-11-07,⚽,corners_a_u,0.755,0.732,1.26,-0.048,1,1.26,,0,,,2026-11-06T15:44,0ebdbab,"For Sittard: sin bajas; Telstar: 0 fuera, 2 duda",Unibet
+2026-11-07,⚽,corners_a_o,0.486,0.482,1.86,-0.097,0,0.0,,0,,,2026-11-06T16:35,ff7094c,"Mantova: sin bajas; Verona: 1 fuera, 2 duda (Giacomo Toniolo)",Unibet
+2026-11-07,⚽,corners_a_u,0.514,0.518,1.73,-0.11,1,1.73,,0,,,2026-11-06T16:35,ff7094c,"Mantova: sin bajas; Verona: 1 fuera, 2 duda (Giacomo Toniolo)",Unibet
+2026-11-07,⚽,corners_t_o,0.617,0.616,1.45,-0.105,0,0.0,,0,,,2026-11-06T16:35,ff7094c,"Mantova: sin bajas; Verona: 1 fuera, 2 duda (Giacomo Toniolo)",Unibet
+2026-11-07,⚽,corners_t_u,0.604,0.588,1.53,-0.076,1,1.53,,0,,,2026-11-06T16:35,ff7094c,"Mantova: sin bajas; Verona: 1 fuera, 2 duda (Giacomo Toniolo)",Unibet
+2026-11-07,⚽,corners_h_o,0.526,0.537,1.67,-0.121,0,0.0,,0,,,2026-11-06T16:35,ff7094c,"Mantova: sin bajas; Verona: 1 fuera, 2 duda (Giacomo Toniolo)",Unibet
+2026-11-07,⚽,corners_h_u,0.608,0.586,1.53,-0.07,1,1.53,,0,,,2026-11-06T16:35,ff7094c,"Mantova: sin bajas; Verona: 1 fuera, 2 duda (Giacomo Toniolo)",Unibet
+2026-11-07,⚽,corners_t_o,0.82,0.824,1.11,-0.09,1,1.11,,0,,,2026-11-06T17:19,f1e9a5d,"Parma: 0 fuera, 1 duda; Bologna: 2 fuera, 3 duda (Emil Holm, Thijs Dallinga)",Unibet
+2026-11-07,⚽,corners_t_u,0.52,0.48,1.92,-0.002,0,0.0,,0,,,2026-11-06T17:19,f1e9a5d,"Parma: 0 fuera, 1 duda; Bologna: 2 fuera, 3 duda (Emil Holm, Thijs Dallinga)",Unibet
+2026-11-07,⚽,corners_a_u,0.383,0.341,2.7,0.035,0,0.0,,0,,,2026-11-06T17:19,f1e9a5d,"Parma: 0 fuera, 1 duda; Bologna: 2 fuera, 3 duda (Emil Holm, Thijs Dallinga)",Unibet
+2026-11-07,⚽,corners_a_o,0.766,0.788,1.16,-0.112,1,1.16,,0,,,2026-11-06T17:19,f1e9a5d,"Parma: 0 fuera, 1 duda; Bologna: 2 fuera, 3 duda (Emil Holm, Thijs Dallinga)",Unibet
+2026-11-07,⚽,corners_h_u,0.754,0.745,1.23,-0.073,1,1.23,,0,,,2026-11-06T17:19,f1e9a5d,"Parma: 0 fuera, 1 duda; Bologna: 2 fuera, 3 duda (Emil Holm, Thijs Dallinga)",Unibet
+2026-11-07,⚽,corners_h_o,0.698,0.684,1.34,-0.064,0,0.0,,0,,,2026-11-06T17:19,f1e9a5d,"Parma: 0 fuera, 1 duda; Bologna: 2 fuera, 3 duda (Emil Holm, Thijs Dallinga)",Unibet
+2026-11-07,⚽,corners_t_o,0.711,0.698,1.32,-0.061,0,0.0,,0,,,2026-11-06T18:09,9b62a17,"Stuttgart: 1 fuera, 6 duda (Jeremy Arevalo); Werder Bremen: 2 fuera, 5 duda (Keke Topp, Jens Stage)",Unibet
+2026-11-07,⚽,corners_t_u,0.779,0.765,1.2,-0.066,1,1.2,,0,,,2026-11-06T18:09,9b62a17,"Stuttgart: 1 fuera, 6 duda (Jeremy Arevalo); Werder Bremen: 2 fuera, 5 duda (Keke Topp, Jens Stage)",Unibet
+2026-11-07,⚽,corners_a_o,0.693,0.714,1.28,-0.113,1,1.28,,0,,,2026-11-06T18:09,9b62a17,"Stuttgart: 1 fuera, 6 duda (Jeremy Arevalo); Werder Bremen: 2 fuera, 5 duda (Keke Topp, Jens Stage)",Unibet
+2026-11-07,⚽,corners_a_u,0.48,0.446,2.05,-0.016,0,0.0,,0,,,2026-11-06T18:09,9b62a17,"Stuttgart: 1 fuera, 6 duda (Jeremy Arevalo); Werder Bremen: 2 fuera, 5 duda (Keke Topp, Jens Stage)",Unibet
+2026-11-07,⚽,corners_h_o,0.375,0.351,2.63,-0.015,0,0.0,,0,,,2026-11-06T18:09,9b62a17,"Stuttgart: 1 fuera, 6 duda (Jeremy Arevalo); Werder Bremen: 2 fuera, 5 duda (Keke Topp, Jens Stage)",Unibet
+2026-11-07,⚽,corners_h_u,0.718,0.734,1.25,-0.103,1,1.25,,0,,,2026-11-06T18:09,9b62a17,"Stuttgart: 1 fuera, 6 duda (Jeremy Arevalo); Werder Bremen: 2 fuera, 5 duda (Keke Topp, Jens Stage)",Unibet
+2026-11-07,⚽,corners_a_o,0.512,0.511,1.76,-0.099,1,1.76,,0,,,2026-11-06T18:09,9b62a17,Aris: sin bajas; Panetolikos: sin bajas,Unibet
+2026-11-07,⚽,corners_a_u,0.488,0.489,1.84,-0.102,0,0.0,,0,,,2026-11-06T18:09,9b62a17,Aris: sin bajas; Panetolikos: sin bajas,Unibet
+2026-11-07,⚽,corners_h_o,0.462,0.434,2.06,-0.049,0,0.0,,0,,,2026-11-06T18:09,9b62a17,Aris: sin bajas; Panetolikos: sin bajas,Unibet
+2026-11-07,⚽,corners_h_u,0.538,0.566,1.58,-0.15,1,1.58,,0,,,2026-11-06T18:09,9b62a17,Aris: sin bajas; Panetolikos: sin bajas,Unibet
+2026-11-07,⚽,corners_t_o,0.576,0.54,1.66,-0.044,0,0.0,,0,,,2026-11-06T18:09,9b62a17,Aris: sin bajas; Panetolikos: sin bajas,Unibet
+2026-11-07,⚽,corners_t_u,0.642,0.657,1.37,-0.12,1,1.37,,0,,,2026-11-06T18:09,9b62a17,Aris: sin bajas; Panetolikos: sin bajas,Unibet
+2026-11-07,⚽,corners_h_o,0.601,0.6,1.52,-0.087,1,1.52,,0,,,2026-11-06T18:09,9b62a17,Cordoba: sin bajas; Ceuta: sin bajas,Unibet
+2026-11-07,⚽,corners_h_u,0.632,0.626,1.45,-0.084,0,0.0,,0,,,2026-11-06T18:09,9b62a17,Cordoba: sin bajas; Ceuta: sin bajas,Unibet
+2026-11-07,⚽,corners_t_o,0.663,0.653,1.4,-0.071,1,1.4,,0,,,2026-11-06T18:09,9b62a17,Cordoba: sin bajas; Ceuta: sin bajas,Unibet
+2026-11-07,⚽,corners_t_u,0.658,0.648,1.41,-0.073,0,0.0,,0,,,2026-11-06T18:09,9b62a17,Cordoba: sin bajas; Ceuta: sin bajas,Unibet
+2026-11-07,⚽,corners_a_o,0.633,0.626,1.45,-0.082,1,1.45,,0,,,2026-11-06T18:09,9b62a17,Cordoba: sin bajas; Ceuta: sin bajas,Unibet
+2026-11-07,⚽,corners_a_u,0.7,0.687,1.32,-0.076,0,0.0,,0,,,2026-11-06T18:09,9b62a17,Cordoba: sin bajas; Ceuta: sin bajas,Unibet
+2026-11-07,⚽,corners_t_o,0.632,0.625,1.46,-0.078,1,1.46,,0,,,2026-11-06T18:09,9b62a17,"Leganes: 0 fuera, 1 duda; Albacete: 1 fuera, 0 duda (Antonio Puertas)",Unibet
+2026-11-07,⚽,corners_t_u,0.693,0.682,1.34,-0.071,0,0.0,,0,,,2026-11-06T18:09,9b62a17,"Leganes: 0 fuera, 1 duda; Albacete: 1 fuera, 0 duda (Antonio Puertas)",Unibet
+2026-11-07,⚽,corners_a_o,0.578,0.592,1.54,-0.109,1,1.54,,0,,,2026-11-06T18:09,9b62a17,"Leganes: 0 fuera, 1 duda; Albacete: 1 fuera, 0 duda (Antonio Puertas)",Unibet
+2026-11-07,⚽,corners_a_u,0.579,0.558,1.63,-0.057,0,0.0,,0,,,2026-11-06T18:09,9b62a17,"Leganes: 0 fuera, 1 duda; Albacete: 1 fuera, 0 duda (Antonio Puertas)",Unibet
+2026-11-07,⚽,corners_h_o,0.462,0.447,2.04,-0.058,1,2.04,,0,,,2026-11-06T18:09,9b62a17,"Leganes: 0 fuera, 1 duda; Albacete: 1 fuera, 0 duda (Antonio Puertas)",Unibet
+2026-11-07,⚽,corners_h_u,0.658,0.665,1.36,-0.106,0,0.0,,0,,,2026-11-06T18:09,9b62a17,"Leganes: 0 fuera, 1 duda; Albacete: 1 fuera, 0 duda (Antonio Puertas)",Unibet
+2026-11-07,⚽,corners_a_o,0.63,0.659,1.4,-0.119,1,1.4,,0,,,2026-11-06T18:09,9b62a17,"Den Haag: 0 fuera, 2 duda; Sparta Rotterdam: 1 fuera, 1 duda (Bruno Martins Indi)",Unibet
+2026-11-07,⚽,corners_a_u,0.37,0.341,2.7,0.0,0,0.0,,0,,,2026-11-06T18:09,9b62a17,"Den Haag: 0 fuera, 2 duda; Sparta Rotterdam: 1 fuera, 1 duda (Bruno Martins Indi)",Unibet
+2026-11-07,⚽,corners_h_o,0.629,0.615,1.5,-0.056,1,1.5,,0,,,2026-11-06T18:09,9b62a17,"Den Haag: 0 fuera, 2 duda; Sparta Rotterdam: 1 fuera, 1 duda (Bruno Martins Indi)",Unibet
+2026-11-07,⚽,corners_h_u,0.728,0.727,1.26,-0.083,1,1.26,,0,,,2026-11-06T18:09,9b62a17,"Den Haag: 0 fuera, 2 duda; Sparta Rotterdam: 1 fuera, 1 duda (Bruno Martins Indi)",Unibet
+2026-11-07,⚽,corners_t_o,0.788,0.788,1.16,-0.085,1,1.16,,0,,,2026-11-06T18:09,9b62a17,"Den Haag: 0 fuera, 2 duda; Sparta Rotterdam: 1 fuera, 1 duda (Bruno Martins Indi)",Unibet
+2026-11-07,⚽,corners_t_u,0.411,0.393,2.35,-0.035,0,0.0,,0,,,2026-11-06T18:09,9b62a17,"Den Haag: 0 fuera, 2 duda; Sparta Rotterdam: 1 fuera, 1 duda (Bruno Martins Indi)",Unibet
+2026-11-07,⚽,corners_a_o,0.663,0.673,1.36,-0.098,1,1.36,,0,,,2026-11-06T18:09,9b62a17,"Aberdeen: sin bajas; Hibernian: 0 fuera, 1 duda",Unibet
+2026-11-07,⚽,corners_a_u,0.62,0.592,1.55,-0.04,0,0.0,,0,,,2026-11-06T18:09,9b62a17,"Aberdeen: sin bajas; Hibernian: 0 fuera, 1 duda",Unibet
+2026-11-07,⚽,corners_h_o,0.616,0.61,1.5,-0.076,1,1.5,,0,,,2026-11-06T18:09,9b62a17,"Aberdeen: sin bajas; Hibernian: 0 fuera, 1 duda",Unibet
+2026-11-07,⚽,corners_h_u,0.736,0.722,1.27,-0.066,0,0.0,,0,,,2026-11-06T18:09,9b62a17,"Aberdeen: sin bajas; Hibernian: 0 fuera, 1 duda",Unibet
+2026-11-07,⚽,corners_t_o,0.708,0.709,1.29,-0.087,1,1.29,,0,,,2026-11-06T18:09,9b62a17,"Aberdeen: sin bajas; Hibernian: 0 fuera, 1 duda",Unibet
+2026-11-07,⚽,corners_t_u,0.7,0.671,1.37,-0.041,0,0.0,,0,,,2026-11-06T18:09,9b62a17,"Aberdeen: sin bajas; Hibernian: 0 fuera, 1 duda",Unibet
+2026-11-07,⚽,corners_t_o,0.731,0.743,1.23,-0.101,0,0.0,,0,,,2026-11-06T18:22,a4f34a7,"Auxerre: 2 fuera, 1 duda (Assane Diousse, Bryan Okoh); Paris FC: 2 fuera, 4 duda (Mamadou Mbow, Nhoa Sangui)",Unibet
+2026-11-07,⚽,corners_t_u,0.376,0.353,2.6,-0.023,1,2.6,,0,,,2026-11-06T18:22,a4f34a7,"Auxerre: 2 fuera, 1 duda (Assane Diousse, Bryan Okoh); Paris FC: 2 fuera, 4 duda (Mamadou Mbow, Nhoa Sangui)",Unibet
+2026-11-07,⚽,corners_h_o,0.658,0.645,1.43,-0.059,0,0.0,,0,,,2026-11-06T18:22,a4f34a7,"Auxerre: 2 fuera, 1 duda (Assane Diousse, Bryan Okoh); Paris FC: 2 fuera, 4 duda (Mamadou Mbow, Nhoa Sangui)",Unibet
+2026-11-07,⚽,corners_h_u,0.74,0.734,1.25,-0.075,1,1.25,,0,,,2026-11-06T18:22,a4f34a7,"Auxerre: 2 fuera, 1 duda (Assane Diousse, Bryan Okoh); Paris FC: 2 fuera, 4 duda (Mamadou Mbow, Nhoa Sangui)",Unibet
+2026-11-07,⚽,corners_a_o,0.658,0.689,1.33,-0.125,1,1.33,,0,,,2026-11-06T18:22,a4f34a7,"Auxerre: 2 fuera, 1 duda (Assane Diousse, Bryan Okoh); Paris FC: 2 fuera, 4 duda (Mamadou Mbow, Nhoa Sangui)",Unibet
+2026-11-07,⚽,corners_a_u,0.491,0.448,2.06,0.011,0,0.0,,0,,,2026-11-06T18:22,a4f34a7,"Auxerre: 2 fuera, 1 duda (Assane Diousse, Bryan Okoh); Paris FC: 2 fuera, 4 duda (Mamadou Mbow, Nhoa Sangui)",Unibet
+2026-11-07,⚽,corners_h_o,0.659,0.641,1.43,-0.057,1,1.43,,0,,,2026-11-06T18:22,a4f34a7,"Alverca: 4 fuera, 0 duda (Steven Baseya, Andre Vidigal, Noah Raveyre); Casa Pia: 0 fuera, 2 duda",Unibet
+2026-11-07,⚽,corners_h_u,0.691,0.689,1.33,-0.081,0,0.0,,0,,,2026-11-06T18:22,a4f34a7,"Alverca: 4 fuera, 0 duda (Steven Baseya, Andre Vidigal, Noah Raveyre); Casa Pia: 0 fuera, 2 duda",Unibet
+2026-11-07,⚽,corners_t_o,0.633,0.641,1.43,-0.095,1,1.43,,0,,,2026-11-06T18:22,a4f34a7,"Alverca: 4 fuera, 0 duda (Steven Baseya, Andre Vidigal, Noah Raveyre); Casa Pia: 0 fuera, 2 duda",Unibet
+2026-11-07,⚽,corners_t_u,0.589,0.565,1.62,-0.046,0,0.0,,0,,,2026-11-06T18:22,a4f34a7,"Alverca: 4 fuera, 0 duda (Steven Baseya, Andre Vidigal, Noah Raveyre); Casa Pia: 0 fuera, 2 duda",Unibet
+2026-11-07,⚽,corners_a_o,0.494,0.537,1.71,-0.156,0,0.0,,0,,,2026-11-06T18:22,a4f34a7,"Alverca: 4 fuera, 0 duda (Steven Baseya, Andre Vidigal, Noah Raveyre); Casa Pia: 0 fuera, 2 duda",Unibet
+2026-11-07,⚽,corners_a_u,0.506,0.463,1.98,0.003,1,1.98,,0,,,2026-11-06T18:22,a4f34a7,"Alverca: 4 fuera, 0 duda (Steven Baseya, Andre Vidigal, Noah Raveyre); Casa Pia: 0 fuera, 2 duda",Unibet
+2026-11-07,⚽,corners_a_o,0.492,0.51,1.76,-0.133,0,0.0,,0,,,2026-11-06T18:49,a3517c8,Benevento: sin bajas; Avellino: sin bajas,Unibet
+2026-11-07,⚽,corners_a_u,0.508,0.49,1.83,-0.071,1,1.83,,0,,,2026-11-06T18:49,a3517c8,Benevento: sin bajas; Avellino: sin bajas,Unibet
+2026-11-07,⚽,corners_t_o,0.585,0.56,1.6,-0.064,1,1.6,,0,,,2026-11-06T18:49,a3517c8,Benevento: sin bajas; Avellino: sin bajas,Unibet
+2026-11-07,⚽,corners_t_u,0.635,0.641,1.4,-0.111,0,0.0,,0,,,2026-11-06T18:49,a3517c8,Benevento: sin bajas; Avellino: sin bajas,Unibet
+2026-11-07,⚽,corners_h_o,0.48,0.448,2.0,-0.04,1,2.0,,0,,,2026-11-06T18:49,a3517c8,Benevento: sin bajas; Avellino: sin bajas,Unibet
+2026-11-07,⚽,corners_h_u,0.638,0.661,1.36,-0.133,0,0.0,,0,,,2026-11-06T18:49,a3517c8,Benevento: sin bajas; Avellino: sin bajas,Unibet
+2026-11-07,⚽,corners_h_o,0.482,0.481,1.87,-0.098,0,0.0,,0,,,2026-11-06T19:27,14907aa,Pau FC: sin bajas; Nantes: sin bajas,Unibet
+2026-11-07,⚽,corners_h_u,0.649,0.639,1.4,-0.091,1,1.4,,0,,,2026-11-06T19:27,14907aa,Pau FC: sin bajas; Nantes: sin bajas,Unibet
+2026-11-07,⚽,corners_t_o,0.446,0.457,1.96,-0.127,0,0.0,,0,,,2026-11-06T19:27,14907aa,Pau FC: sin bajas; Nantes: sin bajas,Unibet
+2026-11-07,⚽,corners_t_u,0.749,0.724,1.24,-0.071,1,1.24,,0,,,2026-11-06T19:27,14907aa,Pau FC: sin bajas; Nantes: sin bajas,Unibet
+2026-11-07,⚽,corners_a_o,0.454,0.465,1.93,-0.123,0,0.0,,0,,,2026-11-06T19:27,14907aa,Pau FC: sin bajas; Nantes: sin bajas,Unibet
+2026-11-07,⚽,corners_a_u,0.676,0.655,1.37,-0.074,1,1.37,,0,,,2026-11-06T19:27,14907aa,Pau FC: sin bajas; Nantes: sin bajas,Unibet
+2026-11-07,⚽,corners_a_o,0.453,0.432,2.08,-0.058,0,0.0,,0,,,2026-11-06T19:27,14907aa,St Etienne: sin bajas; Laval: sin bajas,Unibet
+2026-11-07,⚽,corners_a_u,0.547,0.568,1.58,-0.136,1,1.58,,0,,,2026-11-06T19:27,14907aa,St Etienne: sin bajas; Laval: sin bajas,Unibet
+2026-11-07,⚽,corners_h_o,0.384,0.432,2.08,-0.201,0,0.0,,0,,,2026-11-06T19:27,14907aa,St Etienne: sin bajas; Laval: sin bajas,Unibet
+2026-11-07,⚽,corners_h_u,0.616,0.568,1.58,-0.027,1,1.58,,0,,,2026-11-06T19:27,14907aa,St Etienne: sin bajas; Laval: sin bajas,Unibet
+2026-11-07,⚽,corners_t_o,0.458,0.485,1.85,-0.153,0,0.0,,0,,,2026-11-06T19:27,14907aa,St Etienne: sin bajas; Laval: sin bajas,Unibet
+2026-11-07,⚽,corners_t_u,0.641,0.606,1.48,-0.051,1,1.48,,0,,,2026-11-06T19:27,14907aa,St Etienne: sin bajas; Laval: sin bajas,Unibet
+2026-11-07,⚽,corners_a_o,0.409,0.39,2.35,-0.039,0,0.0,,0,,,2026-11-06T19:41,14907aa,"Hertha: 1 fuera, 1 duda (Linus Gechter); Wolfsburg: 1 fuera, 1 duda (Kamil Grabara)",Unibet
+2026-11-07,⚽,corners_a_u,0.591,0.61,1.5,-0.114,1,1.5,,0,,,2026-11-06T19:41,14907aa,"Hertha: 1 fuera, 1 duda (Linus Gechter); Wolfsburg: 1 fuera, 1 duda (Kamil Grabara)",Unibet
+2026-11-07,⚽,corners_t_o,0.648,0.629,1.46,-0.054,1,1.46,,0,,,2026-11-06T19:41,14907aa,"Hertha: 1 fuera, 1 duda (Linus Gechter); Wolfsburg: 1 fuera, 1 duda (Kamil Grabara)",Unibet
+2026-11-07,⚽,corners_t_u,0.74,0.731,1.25,-0.075,1,1.25,,0,,,2026-11-06T19:41,14907aa,"Hertha: 1 fuera, 1 duda (Linus Gechter); Wolfsburg: 1 fuera, 1 duda (Kamil Grabara)",Unibet
+2026-11-07,⚽,corners_h_o,0.512,0.52,1.76,-0.099,1,1.76,,0,,,2026-11-06T19:41,14907aa,"Hertha: 1 fuera, 1 duda (Linus Gechter); Wolfsburg: 1 fuera, 1 duda (Kamil Grabara)",Unibet
+2026-11-07,⚽,corners_h_u,0.71,0.689,1.33,-0.056,0,0.0,,0,,,2026-11-06T19:41,14907aa,"Hertha: 1 fuera, 1 duda (Linus Gechter); Wolfsburg: 1 fuera, 1 duda (Kamil Grabara)",Unibet
+2026-11-07,⚽,corners_h_o,0.672,0.673,1.36,-0.086,1,1.36,,0,,,2026-11-06T20:08,7ad58cb,Antwerp: sin bajas; Lommel SK: sin bajas,Unibet
+2026-11-07,⚽,corners_h_u,0.574,0.559,1.64,-0.059,0,0.0,,0,,,2026-11-06T20:08,7ad58cb,Antwerp: sin bajas; Lommel SK: sin bajas,Unibet
+2026-11-07,⚽,corners_t_o,0.667,0.662,1.38,-0.08,1,1.38,,0,,,2026-11-06T20:08,7ad58cb,Antwerp: sin bajas; Lommel SK: sin bajas,Unibet
+2026-11-07,⚽,corners_t_u,0.74,0.717,1.28,-0.053,0,0.0,,0,,,2026-11-06T20:08,7ad58cb,Antwerp: sin bajas; Lommel SK: sin bajas,Unibet
+2026-11-07,⚽,corners_a_o,0.702,0.689,1.33,-0.066,1,1.33,,0,,,2026-11-06T20:08,7ad58cb,Antwerp: sin bajas; Lommel SK: sin bajas,Unibet
+2026-11-07,⚽,corners_a_u,0.746,0.731,1.25,-0.068,0,0.0,,0,,,2026-11-06T20:08,7ad58cb,Antwerp: sin bajas; Lommel SK: sin bajas,Unibet
+2026-11-07,⚽,corners_a_o,0.614,0.592,1.55,-0.048,0,0.0,,0,,,2026-11-06T20:08,7ad58cb,RAAL La Louviere: sin bajas; Cercle Brugge: sin bajas,Unibet
+2026-11-07,⚽,corners_a_u,0.67,0.673,1.36,-0.089,1,1.36,,0,,,2026-11-06T20:08,7ad58cb,RAAL La Louviere: sin bajas; Cercle Brugge: sin bajas,Unibet
+2026-11-07,⚽,corners_h_o,0.7,0.684,1.34,-0.063,1,1.34,,0,,,2026-11-06T20:08,7ad58cb,RAAL La Louviere: sin bajas; Cercle Brugge: sin bajas,Unibet
+2026-11-07,⚽,corners_h_u,0.693,0.689,1.33,-0.078,1,1.33,,0,,,2026-11-06T20:08,7ad58cb,RAAL La Louviere: sin bajas; Cercle Brugge: sin bajas,Unibet
+2026-11-07,⚽,corners_t_o,0.626,0.601,1.53,-0.043,0,0.0,,0,,,2026-11-06T20:08,7ad58cb,RAAL La Louviere: sin bajas; Cercle Brugge: sin bajas,Unibet
+2026-11-07,⚽,corners_t_u,0.693,0.694,1.32,-0.085,1,1.32,,0,,,2026-11-06T20:08,7ad58cb,RAAL La Louviere: sin bajas; Cercle Brugge: sin bajas,Unibet
+2026-11-07,⚽,corners_t_o,0.645,0.628,1.47,-0.052,1,1.47,,0,,,2026-11-06T20:08,7ad58cb,"Roma: 4 fuera, 3 duda (Wesley, Mile Svilar, Lorenzo Pellegrini); Sassuolo: 4 fuera, 2 duda (Kristian Thorstvedt, Jay Idzes, Yeferson Paz)",Unibet
+2026-11-07,⚽,corners_t_u,0.829,0.814,1.12,-0.072,1,1.12,,0,,,2026-11-06T20:08,7ad58cb,"Roma: 4 fuera, 3 duda (Wesley, Mile Svilar, Lorenzo Pellegrini); Sassuolo: 4 fuera, 2 duda (Kristian Thorstvedt, Jay Idzes, Yeferson Paz)",Unibet
+2026-11-07,⚽,corners_h_o,0.499,0.492,1.87,-0.067,1,1.87,,0,,,2026-11-06T20:08,7ad58cb,"Roma: 4 fuera, 3 duda (Wesley, Mile Svilar, Lorenzo Pellegrini); Sassuolo: 4 fuera, 2 duda (Kristian Thorstvedt, Jay Idzes, Yeferson Paz)",Unibet
+2026-11-07,⚽,corners_h_u,0.783,0.775,1.19,-0.069,0,0.0,,0,,,2026-11-06T20:08,7ad58cb,"Roma: 4 fuera, 3 duda (Wesley, Mile Svilar, Lorenzo Pellegrini); Sassuolo: 4 fuera, 2 duda (Kristian Thorstvedt, Jay Idzes, Yeferson Paz)",Unibet
+2026-11-07,⚽,corners_a_o,0.766,0.752,1.22,-0.065,0,0.0,,0,,,2026-11-06T20:08,7ad58cb,"Roma: 4 fuera, 3 duda (Wesley, Mile Svilar, Lorenzo Pellegrini); Sassuolo: 4 fuera, 2 duda (Kristian Thorstvedt, Jay Idzes, Yeferson Paz)",Unibet
+2026-11-07,⚽,corners_a_u,0.858,0.841,1.09,-0.065,1,1.09,,0,,,2026-11-06T20:08,7ad58cb,"Roma: 4 fuera, 3 duda (Wesley, Mile Svilar, Lorenzo Pellegrini); Sassuolo: 4 fuera, 2 duda (Kristian Thorstvedt, Jay Idzes, Yeferson Paz)",Unibet
+2026-11-07,⚽,corners_t_u,0.679,0.666,1.38,-0.063,1,1.38,,0,,,2026-11-06T20:25,dc22cba,"Excelsior: sin bajas; Go Ahead Eagles: 1 fuera, 1 duda (Pim Saathof)",Unibet
+2026-11-07,⚽,corners_t_o,0.749,0.738,1.24,-0.071,0,0.0,,0,,,2026-11-06T20:25,dc22cba,"Excelsior: sin bajas; Go Ahead Eagles: 1 fuera, 1 duda (Pim Saathof)",Unibet
+2026-11-07,⚽,corners_h_o,0.521,0.503,1.83,-0.046,1,1.83,,0,,,2026-11-06T20:25,dc22cba,"Excelsior: sin bajas; Go Ahead Eagles: 1 fuera, 1 duda (Pim Saathof)",Unibet
+2026-11-07,⚽,corners_h_u,0.732,0.738,1.24,-0.093,0,0.0,,0,,,2026-11-06T20:25,dc22cba,"Excelsior: sin bajas; Go Ahead Eagles: 1 fuera, 1 duda (Pim Saathof)",Unibet
+2026-11-07,⚽,corners_a_o,0.673,0.684,1.34,-0.098,0,0.0,,0,,,2026-11-06T20:25,dc22cba,"Excelsior: sin bajas; Go Ahead Eagles: 1 fuera, 1 duda (Pim Saathof)",Unibet
+2026-11-07,⚽,corners_a_u,0.612,0.587,1.57,-0.039,1,1.57,,0,,,2026-11-06T20:25,dc22cba,"Excelsior: sin bajas; Go Ahead Eagles: 1 fuera, 1 duda (Pim Saathof)",Unibet
+2026-11-07,⚽,corners_t_o,0.618,0.597,1.54,-0.048,1,1.54,,0,,,2026-11-06T20:25,dc22cba,"St Mirren: 0 fuera, 3 duda; Rangers: 1 fuera, 4 duda (Lawrence Shankland)",Unibet
+2026-11-07,⚽,corners_t_u,0.767,0.762,1.2,-0.079,1,1.2,,0,,,2026-11-06T20:25,dc22cba,"St Mirren: 0 fuera, 3 duda; Rangers: 1 fuera, 4 duda (Lawrence Shankland)",Unibet
+2026-11-07,⚽,corners_a_o,0.746,0.751,1.23,-0.083,0,0.0,,0,,,2026-11-06T20:25,dc22cba,"St Mirren: 0 fuera, 3 duda; Rangers: 1 fuera, 4 duda (Lawrence Shankland)",Unibet
+2026-11-07,⚽,corners_a_u,0.595,0.573,1.62,-0.037,1,1.62,,0,,,2026-11-06T20:25,dc22cba,"St Mirren: 0 fuera, 3 duda; Rangers: 1 fuera, 4 duda (Lawrence Shankland)",Unibet
+2026-11-07,⚽,corners_h_o,0.346,0.309,3.0,0.037,1,3.0,,0,,,2026-11-06T20:25,dc22cba,"St Mirren: 0 fuera, 3 duda; Rangers: 1 fuera, 4 duda (Lawrence Shankland)",Unibet
+2026-11-07,⚽,corners_h_u,0.654,0.691,1.34,-0.123,0,0.0,,0,,,2026-11-06T20:25,dc22cba,"St Mirren: 0 fuera, 3 duda; Rangers: 1 fuera, 4 duda (Lawrence Shankland)",Unibet
+2026-11-07,⚽,corners_h_o,0.683,0.666,1.38,-0.057,0,0.0,,0,,,2026-11-06T20:25,dc22cba,"Valencia: 3 fuera, 1 duda (Jose Copete, Diego Lopez, Sergi Canos); Real Madrid: 2 fuera, 2 duda (Vinicius Junior, Rodrygo)",Unibet
+2026-11-07,⚽,corners_h_u,0.769,0.762,1.2,-0.078,1,1.2,,0,,,2026-11-06T20:25,dc22cba,"Valencia: 3 fuera, 1 duda (Jose Copete, Diego Lopez, Sergi Canos); Real Madrid: 2 fuera, 2 duda (Vinicius Junior, Rodrygo)",Unibet
+2026-11-07,⚽,corners_a_o,0.786,0.789,1.16,-0.088,1,1.16,,0,,,2026-11-06T20:25,dc22cba,"Valencia: 3 fuera, 1 duda (Jose Copete, Diego Lopez, Sergi Canos); Real Madrid: 2 fuera, 2 duda (Vinicius Junior, Rodrygo)",Unibet
+2026-11-07,⚽,corners_a_u,0.461,0.442,2.08,-0.04,1,2.08,,0,,,2026-11-06T20:25,dc22cba,"Valencia: 3 fuera, 1 duda (Jose Copete, Diego Lopez, Sergi Canos); Real Madrid: 2 fuera, 2 duda (Vinicius Junior, Rodrygo)",Unibet
+2026-11-07,⚽,corners_t_u,0.678,0.659,1.4,-0.051,1,1.4,,0,,,2026-11-06T20:25,dc22cba,"Valencia: 3 fuera, 1 duda (Jose Copete, Diego Lopez, Sergi Canos); Real Madrid: 2 fuera, 2 duda (Vinicius Junior, Rodrygo)",Unibet
+2026-11-07,⚽,corners_t_o,0.836,0.824,1.11,-0.072,1,1.11,,0,,,2026-11-06T20:25,dc22cba,"Valencia: 3 fuera, 1 duda (Jose Copete, Diego Lopez, Sergi Canos); Real Madrid: 2 fuera, 2 duda (Vinicius Junior, Rodrygo)",Unibet
