@@ -9104,7 +9104,7 @@ fecha,partido,jugador,mercado,linea,cuota,p_casa,p_modelo,titular,valor,acierto
 2026-11-08,Hearts vs Falkirk,Ross MacIver,To give an assist,0.5,6.5,0.1538,0.0155,0,0.0,0
 2026-11-08,Hearts vs Falkirk,Pierre Landry Kabore,To score at least 2 goals,1.5,14.0,0.0714,0.0129,1,0.0,0
 2026-11-08,Hearts vs Falkirk,Ben Parkinson,Player's shots on target,0.5,2.0,0.5,0.0806,0,0.0,0
-2026-11-08,Hearts vs Falkirk,Liam Henderson,To Score,0.5,8.5,0.1176,0.0532,1,1.0,1
+2026-11-08,Hearts vs Falkirk,Liam Henderson,To Score,0.5,8.5,0.1176,0.1034,1,0.0,0
 2026-11-08,Hearts vs Falkirk,Jamie McCart,To score at least 2 goals,1.5,71.0,0.0141,0.0002,1,0.0,0
 2026-11-08,Hearts vs Falkirk,Jamie McCart,Player's shots on target,0.5,3.7,0.2703,0.071,1,0.0,0
 2026-11-08,Hearts vs Falkirk,Craig Sibbald,To Score,0.5,5.8,0.1724,0.0324,0,0.0,0
@@ -9118,7 +9118,7 @@ fecha,partido,jugador,mercado,linea,cuota,p_casa,p_modelo,titular,valor,acierto
 2026-11-08,Hearts vs Falkirk,Scott Tanser,To Score,0.5,14.0,0.0714,0.078,1,0.0,0
 2026-11-08,Hearts vs Falkirk,Brad Spencer,To Score,0.5,6.25,0.16,0.0395,1,0.0,0
 2026-11-08,Hearts vs Falkirk,Sabah Kerjota,To Score,0.5,2.6,0.3846,0.0956,1,0.0,0
-2026-11-08,Hearts vs Falkirk,Liam Henderson,To Get a Card,0.5,2.9,0.3448,0.1869,1,0.0,0
+2026-11-08,Hearts vs Falkirk,Liam Henderson,To Get a Card,0.5,2.9,0.3448,0.1744,1,0.0,0
 2026-11-08,Sociedad vs Vallecano,Unai López,To Get a Card,0.5,2.6,0.3846,0.2049,1,0.0,0
 2026-11-08,Sociedad vs Vallecano,Unai López,To Score,0.5,9.0,0.1111,0.0795,1,0.0,0
 2026-11-08,Sociedad vs Vallecano,Pablo Marín,Player's shots on target,0.5,1.49,0.6711,0.0739,0,0.0,0
@@ -9716,7 +9716,7 @@ fecha,partido,jugador,mercado,linea,cuota,p_casa,p_modelo,titular,valor,acierto
 2026-11-08,Celtic vs Kilmarnock,Jamie Brandon,Player's shots on target,0.5,6.75,0.1481,0.0633,1,0.0,0
 2026-11-08,Celtic vs Kilmarnock,Rory McKenzie,To give an assist,0.5,9.5,0.1053,0.0117,0,0.0,0
 2026-11-08,Celtic vs Kilmarnock,Camilo Durán,Player's shots on target,2.5,2.9,0.3448,0.0853,1,1.0,0
-2026-11-08,Celtic vs Kilmarnock,Cameron Carter-Vickers,To give an assist,0.5,8.0,0.125,0.0156,1,0.0,0
+2026-11-08,Celtic vs Kilmarnock,Cameron Carter-Vickers,To give an assist,0.5,8.0,0.125,0.0157,1,0.0,0
 2026-11-08,Celtic vs Kilmarnock,Dane Murray,To give an assist,0.5,4.6,0.2174,0.0183,0,0.0,0
 2026-11-08,Celtic vs Kilmarnock,Luke McCowan,Player's shots on target,1.5,3.4,0.2941,0.0055,0,0.0,0
 2026-11-08,Celtic vs Kilmarnock,Nicky Clescenco,To score at least 2 goals,1.5,56.0,0.0179,0.001,0,0.0,0
@@ -9761,7 +9761,7 @@ fecha,partido,jugador,mercado,linea,cuota,p_casa,p_modelo,titular,valor,acierto
 2026-11-08,Celtic vs Kilmarnock,Kieran Tierney,To Score,0.5,5.8,0.1724,0.082,1,0.0,0
 2026-11-08,Celtic vs Kilmarnock,Liam Scales,To Score,0.5,6.0,0.1667,0.0633,1,1.0,1
 2026-11-08,Celtic vs Kilmarnock,Dane Murray,Player's shots on target,0.5,3.0,0.3333,0.0691,0,0.0,0
-2026-11-08,Celtic vs Kilmarnock,George Stanger,To Score,0.5,13.0,0.0769,0.0509,1,0.0,0
+2026-11-08,Celtic vs Kilmarnock,George Stanger,To Score,0.5,13.0,0.0769,0.051,1,0.0,0
 2026-11-08,Celtic vs Kilmarnock,Dane Murray,To Score,0.5,5.8,0.1724,0.0211,0,0.0,0
 2026-11-08,Celtic vs Kilmarnock,Cameron Carter-Vickers,To Score,0.5,6.0,0.1667,0.0235,1,0.0,0
 2026-11-08,Celtic vs Kilmarnock,Luke McCowan,To give an assist,0.5,2.6,0.3846,0.013,0,0.0,0
@@ -9799,6 +9799,454 @@ fecha,partido,jugador,mercado,linea,cuota,p_casa,p_modelo,titular,valor,acierto
 2026-11-08,Celtic vs Kilmarnock,Alex Oxlade-Chamberlain,To score at least 2 goals,1.5,13.0,0.0769,0.0004,0,0.0,0
 2026-11-08,Celtic vs Kilmarnock,Mika Baur,To Score,0.5,3.0,0.3333,0.1246,1,0.0,0
 2026-11-08,Celtic vs Kilmarnock,Tyreece John-Jules,To Score,0.5,4.1,0.2439,0.2178,1,0.0,0
+2026-11-08,Angers vs Nice,Axel Witsel,Player's shots on target,0.5,4.5,0.2222,0.0703,0,0.0,0
+2026-11-08,Angers vs Nice,Jonathan Clauss,To Get a Card,0.5,4.2,0.2381,0.0831,1,0.0,0
+2026-11-08,Angers vs Nice,Amine Sbaï,To give an assist,0.5,5.3,0.1887,0.0716,1,0.0,0
+2026-11-08,Angers vs Nice,Jonathan Clauss,To Score,0.5,8.5,0.1176,0.1046,1,1.0,1
+2026-11-08,Angers vs Nice,Mohamed Amoura,Player's shots on target,1.5,2.5,0.4,0.1154,1,2.0,1
+2026-11-08,Angers vs Nice,Mohamed Amoura,Player's shots on target,2.5,5.3,0.1887,0.0212,1,2.0,0
+2026-11-08,Angers vs Nice,Prosper Peter,Player's shots on target,0.5,1.5,0.6667,0.4728,1,0.0,0
+2026-11-08,Angers vs Nice,Prosper Peter,To Score,0.5,3.2,0.3125,0.2043,1,0.0,0
+2026-11-08,Angers vs Nice,Prosper Peter,To score at least 2 goals,1.5,15.0,0.0667,0.0225,1,0.0,0
+2026-11-08,Angers vs Nice,Haris Belkebla,Player's shots on target,0.5,4.7,0.2128,0.1309,1,0.0,0
+2026-11-08,Angers vs Nice,Elye Wahi,To Score,0.5,2.2,0.4545,0.3125,1,0.0,0
+2026-11-08,Angers vs Nice,Amine Sbaï,To Get a Card,0.5,4.3,0.2326,0.0834,1,0.0,0
+2026-11-08,Angers vs Nice,Gauthier Hein,Player's shots on target,1.5,3.9,0.2564,0.007,0,0.0,0
+2026-11-08,Angers vs Nice,Elye Wahi,Player's shots on target,1.5,2.15,0.4651,0.2185,1,2.0,1
+2026-11-08,Angers vs Nice,Gauthier Hein,Player's shots on target,0.5,1.68,0.5952,0.1161,0,0.0,0
+2026-11-08,Angers vs Nice,Hicham Boudaoui,To Score,0.5,5.5,0.1818,0.058,1,0.0,0
+2026-11-08,Angers vs Nice,Alidu Seidu,To Score,0.5,10.5,0.0952,0.0186,1,0.0,0
+2026-11-08,Angers vs Nice,Branco van den Boomen,To score at least 2 goals,1.5,46.0,0.0217,0.0023,1,0.0,0
+2026-11-08,Angers vs Nice,Lilian Rao-Lisoa,To give an assist,0.5,6.25,0.16,0.0257,0,0.0,0
+2026-11-08,Angers vs Nice,Branco van den Boomen,To Get a Card,0.5,3.4,0.2941,0.1585,1,1.0,1
+2026-11-08,Angers vs Nice,Elye Wahi,To give an assist,0.5,5.75,0.1739,0.1289,1,0.0,0
+2026-11-08,Angers vs Nice,Jordan Lefort,To give an assist,0.5,9.0,0.1111,0.032,1,0.0,0
+2026-11-08,Angers vs Nice,Mohamed Amoura,To score at least 2 goals,1.5,9.0,0.1111,0.0208,1,0.0,0
+2026-11-08,Angers vs Nice,Alidu Seidu,To Get a Card,0.5,3.1,0.3226,0.1216,1,0.0,0
+2026-11-08,Angers vs Nice,Gauthier Hein,To score at least 2 goals,1.5,17.0,0.0588,0.001,0,0.0,0
+2026-11-08,Angers vs Nice,Djibril Coulibaly,To give an assist,0.5,8.5,0.1176,0.0527,1,0.0,0
+2026-11-08,Angers vs Nice,Niels Nkounkou,To Get a Card,0.5,3.8,0.2632,0.2025,1,0.0,0
+2026-11-08,Angers vs Nice,Djibril Coulibaly,To Get a Card,0.5,4.0,0.25,0.1217,1,0.0,0
+2026-11-08,Angers vs Nice,Djibril Coulibaly,Player's shots on target,1.5,9.0,0.1111,0.0345,1,0.0,0
+2026-11-08,Angers vs Nice,Djibril Coulibaly,To Score,0.5,5.5,0.1818,0.0591,1,0.0,0
+2026-11-08,Angers vs Nice,Djibril Coulibaly,Player's shots on target,0.5,2.5,0.4,0.2509,1,0.0,0
+2026-11-08,Angers vs Nice,Elye Wahi,Player's shots on target,2.5,4.2,0.2381,0.0589,1,2.0,0
+2026-11-08,Angers vs Nice,Axel Witsel,To Score,0.5,10.5,0.0952,0.0169,0,0.0,0
+2026-11-08,Angers vs Nice,Elye Wahi,Player's shots on target,0.5,1.25,0.8,0.5833,1,2.0,1
+2026-11-08,Angers vs Nice,Youssouf Ndayishimiye,To Score,0.5,9.0,0.1111,0.052,1,0.0,0
+2026-11-08,Angers vs Nice,Ousmane Camara,To Score,0.5,13.0,0.0769,0.0212,1,0.0,0
+2026-11-08,Angers vs Nice,Axel Witsel,To Get a Card,0.5,4.3,0.2326,0.0175,0,0.0,0
+2026-11-08,Angers vs Nice,Hicham Boudaoui,To score at least 2 goals,1.5,41.0,0.0244,0.0017,1,0.0,0
+2026-11-08,Angers vs Nice,Lilian Rao-Lisoa,To Get a Card,0.5,3.7,0.2703,0.0262,0,0.0,0
+2026-11-08,Angers vs Nice,Jonathan Clauss,Player's shots on target,0.5,3.4,0.2941,0.3352,1,1.0,1
+2026-11-08,Angers vs Nice,Amine Sbaï,To Score,0.5,4.2,0.2381,0.1059,1,0.0,0
+2026-11-08,Angers vs Nice,Jim Allevinah,To score at least 2 goals,1.5,46.0,0.0217,0.0041,1,0.0,0
+2026-11-08,Angers vs Nice,Youssouf Ndayishimiye,To Get a Card,0.5,3.2,0.3125,0.2154,1,0.0,0
+2026-11-08,Angers vs Nice,Niels Nkounkou,Player's shots on target,0.5,4.4,0.2273,0.2569,1,1.0,1
+2026-11-08,Angers vs Nice,Gauthier Hein,To score at least 3 goals,2.5,101.0,0.0099,0.0,0,0.0,0
+2026-11-08,Angers vs Nice,Lilian Rao-Lisoa,Player's shots on target,0.5,2.75,0.3636,0.0754,0,0.0,0
+2026-11-08,Angers vs Nice,Yassin Belkhdim,To Get a Card,0.5,3.7,0.2703,0.1782,1,0.0,0
+2026-11-08,Angers vs Nice,Prosper Peter,To give an assist,0.5,3.8,0.2632,0.0356,1,0.0,0
+2026-11-08,Angers vs Nice,Amine Sbaï,Player's shots on target,0.5,1.9,0.5263,0.3797,1,0.0,0
+2026-11-08,Angers vs Nice,Niels Nkounkou,To give an assist,0.5,6.0,0.1667,0.0577,1,0.0,0
+2026-11-08,Angers vs Nice,Branco van den Boomen,To give an assist,0.5,4.5,0.2222,0.0746,1,0.0,0
+2026-11-08,Angers vs Nice,Gauthier Hein,To give an assist,0.5,3.5,0.2857,0.046,0,1.0,1
+2026-11-08,Angers vs Nice,Branco van den Boomen,To Score,0.5,5.8,0.1724,0.0677,1,0.0,0
+2026-11-08,Angers vs Nice,Hicham Boudaoui,To Get a Card,0.5,3.5,0.2857,0.1567,1,0.0,0
+2026-11-08,Angers vs Nice,Mohamed Amoura,To give an assist,0.5,3.9,0.2564,0.1068,1,1.0,1
+2026-11-08,Angers vs Nice,Amine Sbaï,Player's shots on target,1.5,5.0,0.2,0.0835,1,0.0,0
+2026-11-08,Angers vs Nice,Axel Witsel,To give an assist,0.5,8.0,0.125,0.0131,0,0.0,0
+2026-11-08,Angers vs Nice,Hicham Boudaoui,Player's shots on target,0.5,2.5,0.4,0.2722,1,0.0,0
+2026-11-08,Angers vs Nice,Jonathan Clauss,To give an assist,0.5,3.6,0.2778,0.1296,1,0.0,0
+2026-11-08,Angers vs Nice,Alidu Seidu,Player's shots on target,0.5,4.5,0.2222,0.0801,1,0.0,0
+2026-11-08,Angers vs Nice,Carlens Arcus,To Get a Card,0.5,3.1,0.3226,0.1538,1,1.0,1
+2026-11-08,Angers vs Nice,Jordan Lefort,To Score,0.5,12.0,0.0833,0.0134,1,0.0,0
+2026-11-08,Angers vs Nice,Carlens Arcus,Player's shots on target,0.5,5.0,0.2,0.1151,1,0.0,0
+2026-11-08,Angers vs Nice,Gauthier Hein,To Score,0.5,3.5,0.2857,0.0441,0,0.0,0
+2026-11-08,Angers vs Nice,Gauthier Hein,To Get a Card,0.5,4.5,0.2222,0.0195,0,0.0,0
+2026-11-08,Angers vs Nice,Elye Wahi,To score at least 2 goals,1.5,7.0,0.1429,0.0549,1,0.0,0
+2026-11-08,Angers vs Nice,Jim Allevinah,To give an assist,0.5,5.8,0.1724,0.0551,1,0.0,0
+2026-11-08,Angers vs Nice,Jim Allevinah,Player's shots on target,0.5,2.4,0.4167,0.3767,1,0.0,0
+2026-11-08,Angers vs Nice,Lilian Rao-Lisoa,To Score,0.5,6.75,0.1481,0.0315,0,0.0,0
+2026-11-08,Angers vs Nice,Jordan Lefort,Player's shots on target,0.5,4.9,0.2041,0.057,1,0.0,0
+2026-11-08,Angers vs Nice,Prosper Peter,To Get a Card,0.5,3.8,0.2632,0.0934,1,0.0,0
+2026-11-08,Angers vs Nice,Hicham Boudaoui,To give an assist,0.5,4.8,0.2083,0.0646,1,0.0,0
+2026-11-08,Angers vs Nice,Jim Allevinah,To Get a Card,0.5,4.8,0.2083,0.151,1,0.0,0
+2026-11-08,Angers vs Nice,Youssouf Ndayishimiye,To give an assist,0.5,7.0,0.1429,0.0162,1,0.0,0
+2026-11-08,Angers vs Nice,Ousmane Camara,Player's shots on target,0.5,5.0,0.2,0.1192,1,0.0,0
+2026-11-08,Angers vs Nice,Hicham Boudaoui,Player's shots on target,1.5,9.0,0.1111,0.041,1,0.0,0
+2026-11-08,Angers vs Nice,Jordan Lefort,To Get a Card,0.5,3.8,0.2632,0.1546,1,0.0,0
+2026-11-08,Angers vs Nice,Yassin Belkhdim,Player's shots on target,0.5,2.15,0.4651,0.2865,1,1.0,1
+2026-11-08,Angers vs Nice,Jim Allevinah,To Score,0.5,5.8,0.1724,0.0888,1,0.0,0
+2026-11-08,Angers vs Nice,Yassin Belkhdim,Player's shots on target,1.5,6.5,0.1538,0.0456,1,1.0,0
+2026-11-08,Angers vs Nice,Mohamed Amoura,To Score,0.5,2.5,0.4,0.1968,1,0.0,0
+2026-11-08,Angers vs Nice,Yassin Belkhdim,To score at least 2 goals,1.5,35.0,0.0286,0.0021,1,0.0,0
+2026-11-08,Angers vs Nice,Haris Belkebla,To Get a Card,0.5,4.2,0.2381,0.1262,1,0.0,0
+2026-11-08,Angers vs Nice,Yassin Belkhdim,To give an assist,0.5,6.75,0.1481,0.0531,1,0.0,0
+2026-11-08,Angers vs Nice,Branco van den Boomen,Player's shots on target,1.5,8.0,0.125,0.0289,1,0.0,0
+2026-11-08,Angers vs Nice,Branco van den Boomen,Player's shots on target,0.5,2.35,0.4255,0.2307,1,0.0,0
+2026-11-08,Angers vs Nice,Prosper Peter,Player's shots on target,2.5,7.5,0.1333,0.0273,1,0.0,0
+2026-11-08,Angers vs Nice,Yassin Belkhdim,To Score,0.5,5.2,0.1923,0.0634,1,0.0,0
+2026-11-08,Angers vs Nice,Lilian Rao-Lisoa,To score at least 2 goals,1.5,56.0,0.0179,0.0005,0,0.0,0
+2026-11-08,Angers vs Nice,Carlens Arcus,To give an assist,0.5,8.5,0.1176,0.0568,1,0.0,0
+2026-11-08,Angers vs Nice,Prosper Peter,Player's shots on target,1.5,3.1,0.3226,0.1353,1,0.0,0
+2026-11-08,Angers vs Nice,Niels Nkounkou,To Score,0.5,10.0,0.1,0.0538,1,0.0,0
+2026-11-08,Angers vs Nice,Ousmane Camara,To Get a Card,0.5,3.6,0.2778,0.1466,1,1.0,1
+2026-11-08,Angers vs Nice,Haris Belkebla,To Score,0.5,12.0,0.0833,0.0401,1,0.0,0
+2026-11-08,Angers vs Nice,Carlens Arcus,To Score,0.5,12.0,0.0833,0.0398,1,0.0,0
+2026-11-08,Angers vs Nice,Mohamed Amoura,To Get a Card,0.5,4.1,0.2439,0.1605,1,0.0,0
+2026-11-08,Angers vs Nice,Youssouf Ndayishimiye,Player's shots on target,0.5,3.9,0.2564,0.1097,1,0.0,0
+2026-11-08,Angers vs Nice,Mohamed Amoura,Player's shots on target,0.5,1.34,0.7463,0.4402,1,2.0,1
+2026-11-08,Angers vs Nice,Elye Wahi,To Get a Card,0.5,3.6,0.2778,0.2646,1,0.0,0
+2026-11-08,Brest vs Lyon,Mads Bidstrup,Player's shots on target,0.5,3.0,0.3333,0.0467,0,0.0,0
+2026-11-08,Brest vs Lyon,Corentin Tolisso,Player's shots on target,0.5,1.75,0.5714,0.561,1,0.0,0
+2026-11-08,Brest vs Lyon,Corentin Tolisso,Player's shots on target,1.5,4.2,0.2381,0.1996,1,0.0,0
+2026-11-08,Brest vs Lyon,Lucas Tousart,Player's shots on target,0.5,4.0,0.25,0.248,1,0.0,0
+2026-11-08,Brest vs Lyon,Tanner Tessmann,To Get a Card,0.5,4.1,0.2439,0.1192,1,0.0,0
+2026-11-08,Brest vs Lyon,Kenny Lala,To give an assist,0.5,8.0,0.125,0.0545,1,0.0,0
+2026-11-08,Brest vs Lyon,Ludovic Ajorque,To give an assist,0.5,4.7,0.2128,0.1325,1,0.0,0
+2026-11-08,Brest vs Lyon,Felix Bacher,To Get a Card,0.5,4.0,0.25,0.0273,0,0.0,0
+2026-11-08,Brest vs Lyon,Khalis Merah,Player's shots on target,0.5,2.25,0.4444,0.2583,1,0.0,0
+2026-11-08,Brest vs Lyon,Noah Nartey,Player's shots on target,0.5,2.35,0.4255,0.3154,1,0.0,0
+2026-11-08,Brest vs Lyon,Hugo Magnetti,To Score,0.5,12.0,0.0833,0.0488,1,0.0,0
+2026-11-08,Brest vs Lyon,Mads Bidstrup,To score at least 2 goals,1.5,76.0,0.0132,0.0001,0,0.0,0
+2026-11-08,Brest vs Lyon,Kenny Lala,To Score,0.5,8.0,0.125,0.0446,1,0.0,0
+2026-11-08,Brest vs Lyon,Giovani Versini,To score at least 2 goals,1.5,23.0,0.0435,0.0012,0,0.0,0
+2026-11-08,Brest vs Lyon,Mama Baldé,To give an assist,0.5,5.4,0.1852,0.1207,1,0.0,0
+2026-11-08,Brest vs Lyon,Ruben Kluivert,To Get a Card,0.5,3.6,0.2778,0.1741,1,0.0,0
+2026-11-08,Brest vs Lyon,Khalis Merah,To Score,0.5,5.3,0.1887,0.1192,1,0.0,0
+2026-11-08,Brest vs Lyon,Lucas Tousart,To score at least 2 goals,1.5,101.0,0.0099,0.0027,1,0.0,0
+2026-11-08,Brest vs Lyon,Ernest Nuamah,Player's shots on target,2.5,9.0,0.1111,0.0011,0,0.0,0
+2026-11-08,Brest vs Lyon,Kail Boudache,To Get a Card,0.5,3.9,0.2564,0.14,1,1.0,1
+2026-11-08,Brest vs Lyon,Mads Bidstrup,To give an assist,0.5,5.5,0.1818,0.0107,0,0.0,0
+2026-11-08,Brest vs Lyon,Pathé Mboup,Player's shots on target,0.5,1.6,0.625,0.177,0,0.0,0
+2026-11-08,Brest vs Lyon,Bradley Locko,To Get a Card,0.5,4.1,0.2439,0.1755,1,0.0,0
+2026-11-08,Brest vs Lyon,Noah Nartey,To Get a Card,0.5,3.8,0.2632,0.1442,1,0.0,0
+2026-11-08,Brest vs Lyon,Gautier Lloris,To Score,0.5,12.0,0.0833,0.0248,1,0.0,0
+2026-11-08,Brest vs Lyon,Pathé Mboup,To Get a Card,0.5,3.1,0.3226,0.0397,0,0.0,0
+2026-11-08,Brest vs Lyon,Ernest Nuamah,To Get a Card,0.5,3.9,0.2564,0.0329,0,0.0,0
+2026-11-08,Brest vs Lyon,Mama Baldé,To score at least 2 goals,1.5,25.0,0.04,0.0121,1,0.0,0
+2026-11-08,Brest vs Lyon,Joris Chotard,Player's shots on target,0.5,4.7,0.2128,0.2263,1,0.0,0
+2026-11-08,Brest vs Lyon,Joris Chotard,To give an assist,0.5,7.0,0.1429,0.1008,1,0.0,0
+2026-11-08,Brest vs Lyon,Clinton Mata,To Score,0.5,10.5,0.0952,0.0172,0,0.0,0
+2026-11-08,Brest vs Lyon,Kenny Lala,To Get a Card,0.5,4.2,0.2381,0.1311,1,0.0,0
+2026-11-08,Brest vs Lyon,Kamory Doumbia,To give an assist,0.5,4.5,0.2222,0.1188,1,1.0,1
+2026-11-08,Brest vs Lyon,Ruben Kluivert,To Score,0.5,10.5,0.0952,0.0413,1,0.0,0
+2026-11-08,Brest vs Lyon,Julien Duranville,Player's shots on target,1.5,4.6,0.2174,0.0044,0,0.0,0
+2026-11-08,Brest vs Lyon,Clinton Mata,Player's shots on target,0.5,4.4,0.2273,0.0486,0,0.0,0
+2026-11-08,Brest vs Lyon,Tanner Tessmann,To give an assist,0.5,7.0,0.1429,0.0782,1,0.0,0
+2026-11-08,Brest vs Lyon,Moussa Niakhaté,To Get a Card,0.5,3.6,0.2778,0.1697,1,0.0,0
+2026-11-08,Brest vs Lyon,Kamory Doumbia,To Get a Card,0.5,4.3,0.2326,0.2191,1,0.0,0
+2026-11-08,Brest vs Lyon,Hugo Magnetti,To give an assist,0.5,8.0,0.125,0.094,1,0.0,0
+2026-11-08,Brest vs Lyon,Pathé Mboup,Player's shots on target,1.5,3.5,0.2857,0.0167,0,0.0,0
+2026-11-08,Brest vs Lyon,Keito Nakamura,Player's shots on target,0.5,1.7,0.5882,0.573,1,0.0,0
+2026-11-08,Brest vs Lyon,Zachary Athekame,To give an assist,0.5,8.0,0.125,0.1167,1,0.0,0
+2026-11-08,Brest vs Lyon,Keito Nakamura,Player's shots on target,1.5,4.0,0.25,0.2096,1,0.0,0
+2026-11-08,Brest vs Lyon,Bradley Locko,Player's shots on target,0.5,5.0,0.2,0.0734,1,0.0,0
+2026-11-08,Brest vs Lyon,Corentin Tolisso,To Get a Card,0.5,4.2,0.2381,0.0961,1,1.0,1
+2026-11-08,Brest vs Lyon,Joris Chotard,To Get a Card,0.5,3.8,0.2632,0.0828,1,0.0,0
+2026-11-08,Brest vs Lyon,Noah Nartey,To score at least 2 goals,1.5,41.0,0.0244,0.0117,1,0.0,0
+2026-11-08,Brest vs Lyon,Gautier Lloris,Player's shots on target,0.5,5.0,0.2,0.1392,1,0.0,0
+2026-11-08,Brest vs Lyon,Ludovic Ajorque,To score at least 3 goals,2.5,56.0,0.0179,0.0031,1,1.0,0
+2026-11-08,Brest vs Lyon,Ludovic Ajorque,Player's shots on target,0.5,1.45,0.6897,0.4452,1,4.0,1
+2026-11-08,Brest vs Lyon,Ludovic Ajorque,To Score,0.5,2.8,0.3571,0.2482,1,1.0,1
+2026-11-08,Brest vs Lyon,Ludovic Ajorque,Player's shots on target,2.5,6.75,0.1481,0.0221,1,4.0,1
+2026-11-08,Brest vs Lyon,Kamory Doumbia,To Score,0.5,3.5,0.2857,0.1794,1,0.0,0
+2026-11-08,Brest vs Lyon,Joris Chotard,To Score,0.5,11.5,0.087,0.0524,1,0.0,0
+2026-11-08,Brest vs Lyon,Corentin Tolisso,To score at least 2 goals,1.5,23.0,0.0435,0.0401,1,0.0,0
+2026-11-08,Brest vs Lyon,Julien Duranville,To Get a Card,0.5,7.0,0.1429,0.0378,0,0.0,0
+2026-11-08,Brest vs Lyon,Mama Baldé,To Score,0.5,4.1,0.2439,0.1517,1,0.0,0
+2026-11-08,Brest vs Lyon,Giovani Versini,Player's shots on target,0.5,1.85,0.5405,0.1191,0,0.0,0
+2026-11-08,Brest vs Lyon,Mama Baldé,Player's shots on target,1.5,5.3,0.1887,0.0599,1,0.0,0
+2026-11-08,Brest vs Lyon,Mama Baldé,To Get a Card,0.5,3.6,0.2778,0.1381,1,0.0,0
+2026-11-08,Brest vs Lyon,Giovani Versini,Player's shots on target,1.5,4.7,0.2128,0.0074,0,0.0,0
+2026-11-08,Brest vs Lyon,Tanner Tessmann,Player's shots on target,0.5,3.6,0.2778,0.2592,1,0.0,0
+2026-11-08,Brest vs Lyon,Corentin Tolisso,To Score,0.5,4.0,0.25,0.2696,1,0.0,0
+2026-11-08,Brest vs Lyon,Kenny Lala,Player's shots on target,0.5,3.5,0.2857,0.1477,1,0.0,0
+2026-11-08,Brest vs Lyon,Mama Baldé,Player's shots on target,0.5,1.95,0.5128,0.3255,1,0.0,0
+2026-11-08,Brest vs Lyon,Pathé Mboup,To score at least 2 goals,1.5,21.0,0.0476,0.0009,0,0.0,0
+2026-11-08,Brest vs Lyon,Ernest Nuamah,To give an assist,0.5,4.5,0.2222,0.0191,0,0.0,0
+2026-11-08,Brest vs Lyon,Ludovic Ajorque,To Get a Card,0.5,3.0,0.3333,0.2022,1,1.0,1
+2026-11-08,Brest vs Lyon,Pathé Mboup,To Score,0.5,3.9,0.2564,0.0414,0,0.0,0
+2026-11-08,Brest vs Lyon,Kamory Doumbia,To score at least 2 goals,1.5,18.0,0.0556,0.0172,1,0.0,0
+2026-11-08,Brest vs Lyon,Ludovic Ajorque,To score at least 2 goals,1.5,12.0,0.0833,0.0337,1,1.0,0
+2026-11-08,Brest vs Lyon,Julien Duranville,To score at least 2 goals,1.5,23.0,0.0435,0.0003,0,0.0,0
+2026-11-08,Brest vs Lyon,Julien Duranville,To Score,0.5,4.0,0.25,0.0231,0,0.0,0
+2026-11-08,Brest vs Lyon,Keito Nakamura,To Get a Card,0.5,4.7,0.2128,0.1579,1,0.0,0
+2026-11-08,Brest vs Lyon,Giovani Versini,To Get a Card,0.5,6.5,0.1538,0.0246,0,0.0,0
+2026-11-08,Brest vs Lyon,Kail Boudache,To give an assist,0.5,6.75,0.1481,0.0517,1,0.0,0
+2026-11-08,Brest vs Lyon,Kail Boudache,To score at least 2 goals,1.5,23.0,0.0435,0.0027,1,0.0,0
+2026-11-08,Brest vs Lyon,Moussa Niakhaté,Player's shots on target,0.5,4.5,0.2222,0.0914,1,0.0,0
+2026-11-08,Brest vs Lyon,Mads Bidstrup,To Score,0.5,7.0,0.1429,0.016,0,0.0,0
+2026-11-08,Brest vs Lyon,Kamory Doumbia,Player's shots on target,1.5,4.0,0.25,0.1011,1,0.0,0
+2026-11-08,Brest vs Lyon,Moussa Niakhaté,To Score,0.5,11.0,0.0909,0.0202,1,0.0,0
+2026-11-08,Brest vs Lyon,Kamory Doumbia,Player's shots on target,0.5,1.7,0.5882,0.4145,1,0.0,0
+2026-11-08,Brest vs Lyon,Felix Bacher,Player's shots on target,0.5,4.3,0.2326,0.0633,0,0.0,0
+2026-11-08,Brest vs Lyon,Giovani Versini,To Score,0.5,4.0,0.25,0.0477,0,0.0,0
+2026-11-08,Brest vs Lyon,Pathé Mboup,To give an assist,0.5,4.5,0.2222,0.0187,0,0.0,0
+2026-11-08,Brest vs Lyon,Hugo Magnetti,To Get a Card,0.5,3.9,0.2564,0.1107,1,0.0,0
+2026-11-08,Brest vs Lyon,Khalis Merah,To Get a Card,0.5,4.8,0.2083,0.0754,1,0.0,0
+2026-11-08,Brest vs Lyon,Kail Boudache,To Score,0.5,4.2,0.2381,0.0722,1,0.0,0
+2026-11-08,Brest vs Lyon,Noah Nartey,To Score,0.5,5.2,0.1923,0.1489,1,0.0,0
+2026-11-08,Brest vs Lyon,Felix Bacher,To Score,0.5,10.5,0.0952,0.0258,0,0.0,0
+2026-11-08,Brest vs Lyon,Keito Nakamura,To score at least 2 goals,1.5,20.0,0.05,0.0302,1,0.0,0
+2026-11-08,Brest vs Lyon,Mads Bidstrup,To Get a Card,0.5,3.6,0.2778,0.0198,0,0.0,0
+2026-11-08,Brest vs Lyon,Ludovic Ajorque,Player's shots on target,1.5,2.9,0.3448,0.1183,1,4.0,1
+2026-11-08,Brest vs Lyon,Hugo Magnetti,Player's shots on target,0.5,5.0,0.2,0.233,1,0.0,0
+2026-11-08,Brest vs Lyon,Zachary Athekame,To Score,0.5,10.0,0.1,0.0881,1,0.0,0
+2026-11-08,Brest vs Lyon,Lucas Tousart,To Get a Card,0.5,3.7,0.2703,0.0947,1,0.0,0
+2026-11-08,Brest vs Lyon,Ernest Nuamah,Player's shots on target,0.5,1.6,0.625,0.18,0,0.0,0
+2026-11-08,Brest vs Lyon,Ernest Nuamah,Player's shots on target,1.5,3.5,0.2857,0.0173,0,0.0,0
+2026-11-08,Brest vs Lyon,Khalis Merah,To give an assist,0.5,8.0,0.125,0.0518,1,0.0,0
+2026-11-08,Brest vs Lyon,Lucas Tousart,To give an assist,0.5,7.5,0.1333,0.0234,1,0.0,0
+2026-11-08,Brest vs Lyon,Clinton Mata,To Get a Card,0.5,3.6,0.2778,0.0257,0,0.0,0
+2026-11-08,Brest vs Lyon,Julien Duranville,To give an assist,0.5,5.8,0.1724,0.0103,0,0.0,0
+2026-11-08,Brest vs Lyon,Bradley Locko,To Score,0.5,12.0,0.0833,0.0153,1,0.0,0
+2026-11-08,Brest vs Lyon,Pathé Mboup,Player's shots on target,2.5,9.0,0.1111,0.0011,0,0.0,0
+2026-11-08,Brest vs Lyon,Julien Duranville,Player's shots on target,0.5,1.83,0.5464,0.0921,0,0.0,0
+2026-11-08,Brest vs Lyon,Kenny Lala,To score at least 2 goals,1.5,81.0,0.0123,0.001,1,0.0,0
+2026-11-08,Brest vs Lyon,Noah Nartey,To give an assist,0.5,3.9,0.2564,0.0757,1,0.0,0
+2026-11-08,Brest vs Lyon,Ruben Kluivert,Player's shots on target,0.5,4.5,0.2222,0.1074,1,1.0,1
+2026-11-08,Brest vs Lyon,Tanner Tessmann,To Score,0.5,9.0,0.1111,0.0855,1,0.0,0
+2026-11-08,Brest vs Lyon,Gautier Lloris,To Get a Card,0.5,4.9,0.2041,0.1013,1,0.0,0
+2026-11-08,Brest vs Lyon,Zachary Athekame,Player's shots on target,0.5,4.0,0.25,0.2107,1,0.0,0
+2026-11-08,Brest vs Lyon,Ernest Nuamah,To score at least 2 goals,1.5,17.0,0.0588,0.0027,0,0.0,0
+2026-11-08,Brest vs Lyon,Ernest Nuamah,To Score,0.5,3.4,0.2941,0.0725,0,0.0,0
+2026-11-08,Brest vs Lyon,Corentin Tolisso,To give an assist,0.5,3.6,0.2778,0.1635,1,0.0,0
+2026-11-08,Brest vs Lyon,Zachary Athekame,To Get a Card,0.5,3.7,0.2703,0.1236,1,0.0,0
+2026-11-08,Brest vs Lyon,Lucas Tousart,To Score,0.5,9.5,0.1053,0.0732,1,0.0,0
+2026-11-08,Brest vs Lyon,Keito Nakamura,To give an assist,0.5,4.1,0.2439,0.1022,1,0.0,0
+2026-11-08,Brest vs Lyon,Kail Boudache,Player's shots on target,0.5,2.0,0.5,0.3163,1,0.0,0
+2026-11-08,Brest vs Lyon,Giovani Versini,To give an assist,0.5,5.5,0.1818,0.0247,0,0.0,0
+2026-11-08,Brest vs Lyon,Keito Nakamura,To Score,0.5,3.8,0.2632,0.2353,1,0.0,0
+2026-11-08,Brest vs Lyon,Khalis Merah,To score at least 2 goals,1.5,36.0,0.0278,0.0074,1,0.0,0
+2026-11-08,Brest vs Lyon,Kail Boudache,Player's shots on target,1.5,5.4,0.1852,0.0563,1,0.0,0
+2026-11-08,Le Havre vs Lorient,Noah Mbamba,To Get a Card,0.5,3.1,0.3226,0.0257,0,0.0,0
+2026-11-08,Le Havre vs Lorient,Amir Richardson,Player's shots on target,0.5,2.5,0.4,0.0791,0,0.0,0
+2026-11-08,Le Havre vs Lorient,Noah Mbamba,Player's shots on target,0.5,2.8,0.3571,0.0856,0,0.0,0
+2026-11-08,Le Havre vs Lorient,Ahmed Touba,To Score,0.5,12.0,0.0833,0.0171,1,0.0,0
+2026-11-08,Le Havre vs Lorient,Montassar Talbi,To Score,0.5,11.5,0.087,0.0155,1,0.0,0
+2026-11-08,Le Havre vs Lorient,Arthur Avom,To Get a Card,0.5,4.0,0.25,0.1147,1,0.0,0
+2026-11-08,Le Havre vs Lorient,Josh Maja,To give an assist,0.5,4.9,0.2041,0.04,1,0.0,0
+2026-11-08,Le Havre vs Lorient,Amir Richardson,Player's shots on target,1.5,9.0,0.1111,0.0032,0,0.0,0
+2026-11-08,Le Havre vs Lorient,Amir Richardson,To score at least 2 goals,1.5,56.0,0.0179,0.0002,0,0.0,0
+2026-11-08,Le Havre vs Lorient,Simon Ebonog,Player's shots on target,0.5,3.5,0.2857,0.2505,1,0.0,0
+2026-11-08,Le Havre vs Lorient,Vincent Sasso,To Get a Card,0.5,4.9,0.2041,0.1598,1,0.0,0
+2026-11-08,Le Havre vs Lorient,Amir Richardson,To Get a Card,0.5,3.5,0.2857,0.0394,0,0.0,0
+2026-11-08,Le Havre vs Lorient,Montassar Talbi,Player's shots on target,0.5,4.8,0.2083,0.1546,1,0.0,0
+2026-11-08,Le Havre vs Lorient,Junior Mwanga,To Score,0.5,10.5,0.0952,0.0573,1,0.0,0
+2026-11-08,Le Havre vs Lorient,Simon Ebonog,To score at least 2 goals,1.5,101.0,0.0099,0.0018,1,0.0,0
+2026-11-08,Le Havre vs Lorient,Enzo Koffi,Player's shots on target,0.5,2.9,0.3448,0.1917,1,0.0,0
+2026-11-08,Le Havre vs Lorient,Arthur Avom,To Score,0.5,8.5,0.1176,0.0843,1,0.0,0
+2026-11-08,Le Havre vs Lorient,Simon Ebonog,To Score,0.5,9.5,0.1053,0.0593,1,0.0,0
+2026-11-08,Le Havre vs Lorient,Gabin Bernardeau,To Score,0.5,4.2,0.2381,0.1317,1,0.0,0
+2026-11-08,Le Havre vs Lorient,Mbwana Samatta,To Get a Card,0.5,4.3,0.2326,0.0954,1,0.0,0
+2026-11-08,Le Havre vs Lorient,Nathaniel Adjei,Player's shots on target,0.5,5.0,0.2,0.0915,1,0.0,0
+2026-11-08,Le Havre vs Lorient,Gabin Bernardeau,To score at least 2 goals,1.5,26.0,0.0385,0.0091,1,0.0,0
+2026-11-08,Le Havre vs Lorient,Vincent Sasso,To score at least 2 goals,1.5,76.0,0.0132,0.004,1,0.0,0
+2026-11-08,Le Havre vs Lorient,Josh Maja,To score at least 3 goals,2.5,56.0,0.0179,0.0034,1,0.0,0
+2026-11-08,Le Havre vs Lorient,Josh Maja,Player's shots on target,2.5,6.5,0.1538,0.035,1,2.0,0
+2026-11-08,Le Havre vs Lorient,Josh Maja,To Score,0.5,2.9,0.3448,0.255,1,0.0,0
+2026-11-08,Le Havre vs Lorient,Noah Cadiou,To Get a Card,0.5,4.3,0.2326,0.1265,1,1.0,1
+2026-11-08,Le Havre vs Lorient,Gabin Bernardeau,To give an assist,0.5,3.9,0.2564,0.042,1,0.0,0
+2026-11-08,Le Havre vs Lorient,Gabin Bernardeau,To Get a Card,0.5,4.0,0.25,0.0766,1,0.0,0
+2026-11-08,Le Havre vs Lorient,Djibril Ouziad,To Get a Card,0.5,3.8,0.2632,0.1351,1,0.0,0
+2026-11-08,Le Havre vs Lorient,Isaak Touré,To Score,0.5,8.0,0.125,0.0371,1,1.0,1
+2026-11-08,Le Havre vs Lorient,Enzo Koffi,To give an assist,0.5,8.0,0.125,0.0258,1,0.0,0
+2026-11-08,Le Havre vs Lorient,Vincent Sasso,To Score,0.5,7.5,0.1333,0.0883,1,0.0,0
+2026-11-08,Le Havre vs Lorient,Noah Cadiou,To Score,0.5,7.0,0.1429,0.1218,1,0.0,0
+2026-11-08,Le Havre vs Lorient,Amir Richardson,To give an assist,0.5,7.5,0.1333,0.0107,0,0.0,0
+2026-11-08,Le Havre vs Lorient,Noah Cadiou,To give an assist,0.5,7.0,0.1429,0.0527,1,0.0,0
+2026-11-08,Le Havre vs Lorient,Arthur Avom,To give an assist,0.5,7.5,0.1333,0.0521,1,0.0,0
+2026-11-08,Le Havre vs Lorient,Dembo Sylla,To Score,0.5,10.0,0.1,0.0413,1,0.0,0
+2026-11-08,Le Havre vs Lorient,Ahmed Touba,To Get a Card,0.5,3.2,0.3125,0.1464,1,1.0,1
+2026-11-08,Le Havre vs Lorient,Nathaniel Adjei,To Score,0.5,11.0,0.0909,0.0155,1,0.0,0
+2026-11-08,Le Havre vs Lorient,Noah Mbamba,To give an assist,0.5,5.3,0.1887,0.0155,0,0.0,0
+2026-11-08,Le Havre vs Lorient,Dembo Sylla,Player's shots on target,0.5,4.2,0.2381,0.1718,1,0.0,0
+2026-11-08,Le Havre vs Lorient,Ahmed Touba,Player's shots on target,0.5,4.7,0.2128,0.0949,1,0.0,0
+2026-11-08,Le Havre vs Lorient,Junior Mwanga,To give an assist,0.5,9.0,0.1111,0.0664,1,0.0,0
+2026-11-08,Le Havre vs Lorient,Josh Maja,To Get a Card,0.5,5.75,0.1739,0.0652,1,0.0,0
+2026-11-08,Le Havre vs Lorient,Noah Mbamba,To Score,0.5,6.25,0.16,0.0358,0,0.0,0
+2026-11-08,Le Havre vs Lorient,Enzo Koffi,To Score,0.5,7.0,0.1429,0.0237,1,0.0,0
+2026-11-08,Le Havre vs Lorient,Rayan Fofana,To Get a Card,0.5,6.75,0.1481,0.0733,1,0.0,0
+2026-11-08,Le Havre vs Lorient,Rayan Fofana,Player's shots on target,2.5,7.0,0.1429,0.025,1,1.0,0
+2026-11-08,Le Havre vs Lorient,Rayan Fofana,Player's shots on target,1.5,2.9,0.3448,0.1279,1,1.0,0
+2026-11-08,Le Havre vs Lorient,Gabin Bernardeau,Player's shots on target,1.5,5.5,0.1818,0.056,1,0.0,0
+2026-11-08,Le Havre vs Lorient,Djibril Ouziad,To give an assist,0.5,8.5,0.1176,0.057,1,0.0,0
+2026-11-08,Le Havre vs Lorient,Simon Ebonog,To Get a Card,0.5,4.0,0.25,0.1899,1,0.0,0
+2026-11-08,Le Havre vs Lorient,Amir Richardson,To Score,0.5,6.25,0.16,0.021,0,0.0,0
+2026-11-08,Le Havre vs Lorient,Rayan Fofana,To give an assist,0.5,4.3,0.2326,0.0869,1,0.0,0
+2026-11-08,Le Havre vs Lorient,Mbwana Samatta,Player's shots on target,1.5,3.5,0.2857,0.2023,1,0.0,0
+2026-11-08,Le Havre vs Lorient,Josh Maja,Player's shots on target,1.5,2.85,0.3509,0.1583,1,2.0,1
+2026-11-08,Le Havre vs Lorient,Junior Mwanga,Player's shots on target,0.5,4.1,0.2439,0.1912,1,0.0,0
+2026-11-08,Le Havre vs Lorient,Arthur Avom,Player's shots on target,0.5,3.8,0.2632,0.2345,1,0.0,0
+2026-11-08,Le Havre vs Lorient,Dembo Sylla,To Get a Card,0.5,3.9,0.2564,0.1073,1,0.0,0
+2026-11-08,Le Havre vs Lorient,Enzo Koffi,To Get a Card,0.5,3.4,0.2941,0.1604,1,0.0,0
+2026-11-08,Le Havre vs Lorient,Djibril Ouziad,To Score,0.5,9.5,0.1053,0.0639,1,0.0,0
+2026-11-08,Le Havre vs Lorient,Junior Mwanga,To Get a Card,0.5,4.2,0.2381,0.1341,1,0.0,0
+2026-11-08,Le Havre vs Lorient,Montassar Talbi,To Get a Card,0.5,4.5,0.2222,0.1285,1,0.0,0
+2026-11-08,Le Havre vs Lorient,Isaak Touré,To score at least 2 goals,1.5,101.0,0.0099,0.0007,1,1.0,0
+2026-11-08,Le Havre vs Lorient,Isaak Touré,To Get a Card,0.5,3.8,0.2632,0.1962,1,0.0,0
+2026-11-08,Le Havre vs Lorient,Djibril Ouziad,Player's shots on target,0.5,3.8,0.2632,0.2028,1,0.0,0
+2026-11-08,Le Havre vs Lorient,Rayan Fofana,Player's shots on target,0.5,1.45,0.6897,0.4611,1,1.0,1
+2026-11-08,Le Havre vs Lorient,Gabin Bernardeau,Player's shots on target,0.5,1.98,0.5051,0.3154,1,0.0,0
+2026-11-08,Le Havre vs Lorient,Nathaniel Adjei,To Get a Card,0.5,4.2,0.2381,0.1327,1,0.0,0
+2026-11-08,Le Havre vs Lorient,Vincent Sasso,Player's shots on target,0.5,2.9,0.3448,0.1817,1,0.0,0
+2026-11-08,Le Havre vs Lorient,Mbwana Samatta,Player's shots on target,0.5,1.6,0.625,0.5643,1,0.0,0
+2026-11-08,Le Havre vs Lorient,Josh Maja,Player's shots on target,0.5,1.44,0.6944,0.5069,1,2.0,1
+2026-11-08,Le Havre vs Lorient,Noah Cadiou,Player's shots on target,0.5,3.2,0.3125,0.2669,1,0.0,0
+2026-11-08,Le Havre vs Lorient,Mbwana Samatta,To score at least 2 goals,1.5,19.0,0.0526,0.0114,1,0.0,0
+2026-11-08,Le Havre vs Lorient,Rayan Fofana,To Score,0.5,3.1,0.3226,0.2126,1,0.0,0
+2026-11-08,Le Havre vs Lorient,Rayan Fofana,To score at least 2 goals,1.5,15.0,0.0667,0.0244,1,0.0,0
+2026-11-08,Le Havre vs Lorient,Isaak Touré,Player's shots on target,0.5,3.3,0.303,0.1458,1,1.0,1
+2026-11-08,Le Havre vs Lorient,Mbwana Samatta,To give an assist,0.5,4.2,0.2381,0.0589,1,0.0,0
+2026-11-08,Le Havre vs Lorient,Dembo Sylla,To give an assist,0.5,8.0,0.125,0.069,1,0.0,0
+2026-11-08,Le Havre vs Lorient,Josh Maja,To score at least 2 goals,1.5,13.0,0.0769,0.0357,1,0.0,0
+2026-11-08,Le Havre vs Lorient,Noah Cadiou,To score at least 2 goals,1.5,67.0,0.0149,0.0077,1,0.0,0
+2026-11-08,Le Havre vs Lorient,Noah Mbamba,To score at least 2 goals,1.5,56.0,0.0179,0.0006,0,0.0,0
+2026-11-08,Le Havre vs Lorient,Mbwana Samatta,To Score,0.5,3.7,0.2703,0.1469,1,0.0,0
+2026-11-08,Le Mans vs Monaco,Lucas Bretelle,Player's shots on target,0.5,2.8,0.3571,0.1715,1,0.0,0
+2026-11-08,Le Mans vs Monaco,Lucas Buadés,To Score,0.5,9.5,0.1053,0.1132,1,0.0,0
+2026-11-08,Le Mans vs Monaco,Dame Gueye,To Score,0.5,4.0,0.25,0.2106,1,0.0,0
+2026-11-08,Le Mans vs Monaco,Matthis Abline,To score at least 2 goals,1.5,11.0,0.0909,0.0169,1,0.0,0
+2026-11-08,Le Mans vs Monaco,Matthis Abline,To score at least 3 goals,2.5,46.0,0.0217,0.0011,1,0.0,0
+2026-11-08,Le Mans vs Monaco,Aleksandr Golovin,To score at least 2 goals,1.5,19.0,0.0526,0.0053,1,0.0,0
+2026-11-08,Le Mans vs Monaco,Matthis Abline,To Score,0.5,2.7,0.3704,0.1784,1,0.0,0
+2026-11-08,Le Mans vs Monaco,Folarin Balogun,To score at least 2 goals,1.5,6.5,0.1538,0.0041,0,0.0,0
+2026-11-08,Le Mans vs Monaco,Matthis Abline,Player's shots on target,2.5,6.25,0.16,0.0291,1,0.0,0
+2026-11-08,Le Mans vs Monaco,Matthis Abline,Player's shots on target,0.5,1.43,0.6993,0.4813,1,0.0,0
+2026-11-08,Le Mans vs Monaco,Denis Zakaria,To Score,0.5,5.8,0.1724,0.0738,1,0.0,0
+2026-11-08,Le Mans vs Monaco,Noa Boissé,Player's shots on target,0.5,5.3,0.1887,0.044,0,0.0,0
+2026-11-08,Le Mans vs Monaco,Jean Vercruysse,Player's shots on target,0.5,2.55,0.3922,0.3042,1,0.0,0
+2026-11-08,Le Mans vs Monaco,Paris Brunner,To score at least 3 goals,2.5,20.0,0.05,0.0,0,0.0,0
+2026-11-08,Le Mans vs Monaco,Yasser Larouci,To give an assist,0.5,8.0,0.125,0.0112,0,0.0,0
+2026-11-08,Le Mans vs Monaco,Antoine Rabillard,Player's shots on target,1.5,5.5,0.1818,0.0055,0,0.0,0
+2026-11-08,Le Mans vs Monaco,Paris Brunner,To Score,0.5,2.05,0.4878,0.0597,0,0.0,0
+2026-11-08,Le Mans vs Monaco,Jordan Teze,Player's shots on target,0.5,4.1,0.2439,0.084,0,0.0,0
+2026-11-08,Le Mans vs Monaco,Edan Diop,To Score,0.5,4.8,0.2083,0.0592,0,0.0,0
+2026-11-08,Le Mans vs Monaco,Lamine Camara,Player's shots on target,0.5,2.55,0.3922,0.2209,1,1.0,1
+2026-11-08,Le Mans vs Monaco,Jean Vercruysse,To Score,0.5,6.5,0.1538,0.0833,1,0.0,0
+2026-11-08,Le Mans vs Monaco,Mamadou Coulibaly,To score at least 2 goals,1.5,34.0,0.0294,0.0036,1,1.0,0
+2026-11-08,Le Mans vs Monaco,Aleksandr Golovin,Player's shots on target,0.5,1.78,0.5618,0.4052,1,0.0,0
+2026-11-08,Le Mans vs Monaco,Raúl Torrente,To Get a Card,0.5,3.1,0.3226,0.0444,0,0.0,0
+2026-11-08,Le Mans vs Monaco,Paris Brunner,To give an assist,0.5,5.8,0.1724,0.0094,0,0.0,0
+2026-11-08,Le Mans vs Monaco,Louis Mafouta,To Score,0.5,2.7,0.3704,0.268,1,0.0,0
+2026-11-08,Le Mans vs Monaco,Vanderson,To Score,0.5,9.5,0.1053,0.0169,1,0.0,0
+2026-11-08,Le Mans vs Monaco,Harold Voyer,To Get a Card,0.5,3.5,0.2857,0.1808,1,0.0,0
+2026-11-08,Le Mans vs Monaco,Takumi Minamino,To Score,0.5,4.5,0.2222,0.0474,0,0.0,0
+2026-11-08,Le Mans vs Monaco,Lucas Calodat,To Score,0.5,11.0,0.0909,0.0835,1,0.0,0
+2026-11-08,Le Mans vs Monaco,Folarin Balogun,To give an assist,0.5,3.9,0.2564,0.0194,0,0.0,0
+2026-11-08,Le Mans vs Monaco,Matthis Abline,To give an assist,0.5,3.0,0.3333,0.1089,1,0.0,0
+2026-11-08,Le Mans vs Monaco,Denis Zakaria,To Get a Card,0.5,3.3,0.303,0.179,1,0.0,0
+2026-11-08,Le Mans vs Monaco,Lucas Calodat,To Get a Card,0.5,5.0,0.2,0.0897,1,0.0,0
+2026-11-08,Le Mans vs Monaco,Antoine Rabillard,To give an assist,0.5,4.9,0.2041,0.0302,0,0.0,0
+2026-11-08,Le Mans vs Monaco,Edan Diop,To Get a Card,0.5,2.7,0.3704,0.039,0,0.0,0
+2026-11-08,Le Mans vs Monaco,Alexandre Lauray,To Get a Card,0.5,2.2,0.4545,0.0884,0,0.0,0
+2026-11-08,Le Mans vs Monaco,Raúl Torrente,Player's shots on target,0.5,5.1,0.1961,0.0463,0,0.0,0
+2026-11-08,Le Mans vs Monaco,Denis Zakaria,Player's shots on target,0.5,2.65,0.3774,0.2793,1,0.0,0
+2026-11-08,Le Mans vs Monaco,Sadibou Sané,To give an assist,0.5,9.5,0.1053,0.0315,1,0.0,0
+2026-11-08,Le Mans vs Monaco,Samuel Yohou,Player's shots on target,0.5,4.8,0.2083,0.1338,1,1.0,1
+2026-11-08,Le Mans vs Monaco,Matthis Abline,To Get a Card,0.5,4.0,0.25,0.1272,1,0.0,0
+2026-11-08,Le Mans vs Monaco,Aleksandr Golovin,To Score,0.5,3.6,0.2778,0.1007,1,0.0,0
+2026-11-08,Le Mans vs Monaco,Yasser Larouci,Player's shots on target,0.5,5.0,0.2,0.0654,0,0.0,0
+2026-11-08,Le Mans vs Monaco,Folarin Balogun,To Get a Card,0.5,4.0,0.25,0.029,0,0.0,0
+2026-11-08,Le Mans vs Monaco,Rayan Bamba,To give an assist,0.5,8.5,0.1176,0.0536,1,0.0,0
+2026-11-08,Le Mans vs Monaco,Edan Diop,Player's shots on target,1.5,7.5,0.1333,0.0099,0,0.0,0
+2026-11-08,Le Mans vs Monaco,Rayan Bamba,To Get a Card,0.5,3.1,0.3226,0.1675,1,0.0,0
+2026-11-08,Le Mans vs Monaco,Rayan Bamba,To Score,0.5,12.0,0.0833,0.0417,1,0.0,0
+2026-11-08,Le Mans vs Monaco,Folarin Balogun,Player's shots on target,1.5,2.1,0.4762,0.024,0,0.0,0
+2026-11-08,Le Mans vs Monaco,Mamadou Coulibaly,To Get a Card,0.5,3.1,0.3226,0.2249,1,0.0,0
+2026-11-08,Le Mans vs Monaco,Louis Mafouta,To give an assist,0.5,8.0,0.125,0.0978,1,0.0,0
+2026-11-08,Le Mans vs Monaco,Sadibou Sané,To Get a Card,0.5,3.6,0.2778,0.1499,1,0.0,0
+2026-11-08,Le Mans vs Monaco,Daouda Traoré,To Get a Card,0.5,3.4,0.2941,0.1158,1,0.0,0
+2026-11-08,Le Mans vs Monaco,Yasser Larouci,To Score,0.5,13.0,0.0769,0.0179,0,0.0,0
+2026-11-08,Le Mans vs Monaco,Paris Brunner,Player's shots on target,2.5,3.4,0.2941,0.0006,0,0.0,0
+2026-11-08,Le Mans vs Monaco,Lucas Calodat,To give an assist,0.5,5.2,0.1923,0.1338,1,0.0,0
+2026-11-08,Le Mans vs Monaco,Rayan Bamba,Player's shots on target,0.5,4.9,0.2041,0.1384,1,0.0,0
+2026-11-08,Le Mans vs Monaco,Lucas Bretelle,To score at least 2 goals,1.5,71.0,0.0141,0.0016,1,0.0,0
+2026-11-08,Le Mans vs Monaco,Denis Zakaria,To give an assist,0.5,6.5,0.1538,0.0472,1,0.0,0
+2026-11-08,Le Mans vs Monaco,Dame Gueye,To Get a Card,0.5,3.7,0.2703,0.1064,1,0.0,0
+2026-11-08,Le Mans vs Monaco,Harold Voyer,Player's shots on target,0.5,4.9,0.2041,0.1246,1,0.0,0
+2026-11-08,Le Mans vs Monaco,Raúl Torrente,To Score,0.5,13.0,0.0769,0.0132,0,0.0,0
+2026-11-08,Le Mans vs Monaco,Jean Vercruysse,To score at least 2 goals,1.5,61.0,0.0164,0.0036,1,0.0,0
+2026-11-08,Le Mans vs Monaco,Dame Gueye,To give an assist,0.5,6.0,0.1667,0.0863,1,0.0,0
+2026-11-08,Le Mans vs Monaco,Louis Mafouta,Player's shots on target,1.5,2.45,0.4082,0.2227,1,0.0,0
+2026-11-08,Le Mans vs Monaco,Louis Mafouta,Player's shots on target,2.5,5.2,0.1923,0.0607,1,0.0,0
+2026-11-08,Le Mans vs Monaco,Lucas Bretelle,To Get a Card,0.5,3.1,0.3226,0.1002,1,0.0,0
+2026-11-08,Le Mans vs Monaco,Aleksandr Golovin,Player's shots on target,1.5,4.4,0.2273,0.0962,1,0.0,0
+2026-11-08,Le Mans vs Monaco,Noa Boissé,To Score,0.5,13.0,0.0769,0.013,0,0.0,0
+2026-11-08,Le Mans vs Monaco,Takumi Minamino,To give an assist,0.5,4.8,0.2083,0.0223,0,0.0,0
+2026-11-08,Le Mans vs Monaco,Eric Dier,Player's shots on target,0.5,4.2,0.2381,0.1444,1,0.0,0
+2026-11-08,Le Mans vs Monaco,Yasser Larouci,To Get a Card,0.5,3.9,0.2564,0.0243,0,0.0,0
+2026-11-08,Le Mans vs Monaco,Folarin Balogun,Player's shots on target,0.5,1.24,0.8065,0.2109,0,0.0,0
+2026-11-08,Le Mans vs Monaco,Paris Brunner,To Get a Card,0.5,3.3,0.303,0.0213,0,0.0,0
+2026-11-08,Le Mans vs Monaco,Mamadou Coulibaly,To Score,0.5,4.7,0.2128,0.084,1,1.0,1
+2026-11-08,Le Mans vs Monaco,Samuel Yohou,To Score,0.5,12.5,0.08,0.0721,1,0.0,0
+2026-11-08,Le Mans vs Monaco,Christian Mawissa,Player's shots on target,0.5,4.2,0.2381,0.0617,0,0.0,0
+2026-11-08,Le Mans vs Monaco,Louis Mafouta,Player's shots on target,0.5,1.34,0.7463,0.588,1,0.0,0
+2026-11-08,Le Mans vs Monaco,Eric Dier,To Score,0.5,9.5,0.1053,0.085,1,0.0,0
+2026-11-08,Le Mans vs Monaco,Alexandre Lauray,To Score,0.5,12.0,0.0833,0.0119,0,0.0,0
+2026-11-08,Le Mans vs Monaco,Antoine Rabillard,To Score,0.5,4.5,0.2222,0.0464,0,0.0,0
+2026-11-08,Le Mans vs Monaco,Louis Mafouta,To score at least 2 goals,1.5,11.0,0.0909,0.0396,1,0.0,0
+2026-11-08,Le Mans vs Monaco,Takumi Minamino,To score at least 2 goals,1.5,30.0,0.0333,0.0011,0,0.0,0
+2026-11-08,Le Mans vs Monaco,Louis Mafouta,To score at least 3 goals,2.5,51.0,0.0196,0.004,1,0.0,0
+2026-11-08,Le Mans vs Monaco,Lucas Bretelle,To Score,0.5,7.0,0.1429,0.0561,1,0.0,0
+2026-11-08,Le Mans vs Monaco,Paris Brunner,Player's shots on target,1.5,1.9,0.5263,0.0116,0,0.0,0
+2026-11-08,Le Mans vs Monaco,Dame Gueye,Player's shots on target,0.5,1.8,0.5556,0.4742,1,2.0,1
+2026-11-08,Le Mans vs Monaco,Folarin Balogun,Player's shots on target,2.5,4.0,0.25,0.0019,0,0.0,0
+2026-11-08,Le Mans vs Monaco,Jean Vercruysse,To Get a Card,0.5,4.2,0.2381,0.1338,1,0.0,0
+2026-11-08,Le Mans vs Monaco,Lucas Bretelle,To give an assist,0.5,7.0,0.1429,0.117,1,0.0,0
+2026-11-08,Le Mans vs Monaco,Vanderson,To Get a Card,0.5,3.1,0.3226,0.2234,1,0.0,0
+2026-11-08,Le Mans vs Monaco,Harold Voyer,To Score,0.5,13.0,0.0769,0.0305,1,0.0,0
+2026-11-08,Le Mans vs Monaco,Daouda Traoré,To Score,0.5,11.0,0.0909,0.0666,1,0.0,0
+2026-11-08,Le Mans vs Monaco,Takumi Minamino,Player's shots on target,0.5,2.2,0.4545,0.1239,0,0.0,0
+2026-11-08,Le Mans vs Monaco,Christian Mawissa,To Score,0.5,9.5,0.1053,0.0201,0,0.0,0
+2026-11-08,Le Mans vs Monaco,Antoine Rabillard,Player's shots on target,0.5,1.95,0.5128,0.1031,0,0.0,0
+2026-11-08,Le Mans vs Monaco,Lucas Buadés,To give an assist,0.5,8.5,0.1176,0.0695,1,0.0,0
+2026-11-08,Le Mans vs Monaco,Folarin Balogun,To Score,0.5,2.15,0.4651,0.0897,0,0.0,0
+2026-11-08,Le Mans vs Monaco,Eric Dier,To Get a Card,0.5,3.8,0.2632,0.09,1,0.0,0
+2026-11-08,Le Mans vs Monaco,Lamine Camara,To give an assist,0.5,4.7,0.2128,0.0983,1,0.0,0
+2026-11-08,Le Mans vs Monaco,Daouda Traoré,To give an assist,0.5,9.0,0.1111,0.0594,1,0.0,0
+2026-11-08,Le Mans vs Monaco,Vanderson,Player's shots on target,0.5,4.3,0.2326,0.1712,1,1.0,1
+2026-11-08,Le Mans vs Monaco,Louis Mafouta,To Get a Card,0.5,3.9,0.2564,0.1156,1,0.0,0
+2026-11-08,Le Mans vs Monaco,Mamadou Coulibaly,To give an assist,0.5,5.3,0.1887,0.1055,1,0.0,0
+2026-11-08,Le Mans vs Monaco,Edan Diop,To give an assist,0.5,6.75,0.1481,0.0287,0,0.0,0
+2026-11-08,Le Mans vs Monaco,Lucas Buadés,To Get a Card,0.5,3.9,0.2564,0.1168,1,0.0,0
+2026-11-08,Le Mans vs Monaco,Mathys Detourbet,Player's shots on target,0.5,2.1,0.4762,0.3783,1,0.0,0
+2026-11-08,Le Mans vs Monaco,Antoine Rabillard,To Get a Card,0.5,4.5,0.2222,0.0251,0,0.0,0
+2026-11-08,Le Mans vs Monaco,Eric Dier,To give an assist,0.5,9.0,0.1111,0.0495,1,0.0,0
+2026-11-08,Le Mans vs Monaco,Mamadou Coulibaly,Player's shots on target,0.5,2.25,0.4444,0.2283,1,1.0,1
+2026-11-08,Le Mans vs Monaco,Noa Boissé,To Get a Card,0.5,3.4,0.2941,0.0642,0,0.0,0
+2026-11-08,Le Mans vs Monaco,Jordan Teze,To Score,0.5,8.5,0.1176,0.0312,0,0.0,0
+2026-11-08,Le Mans vs Monaco,Aleksandr Golovin,To give an assist,0.5,3.6,0.2778,0.1731,1,0.0,0
+2026-11-08,Le Mans vs Monaco,Christian Mawissa,To Get a Card,0.5,3.3,0.303,0.0576,0,0.0,0
+2026-11-08,Le Mans vs Monaco,Paris Brunner,Player's shots on target,0.5,1.19,0.8403,0.1483,0,0.0,0
+2026-11-08,Le Mans vs Monaco,Paris Brunner,Player's shots on target,3.5,7.0,0.1429,0.0,0,0.0,0
+2026-11-08,Le Mans vs Monaco,Dame Gueye,Player's shots on target,1.5,4.4,0.2273,0.1362,1,2.0,1
+2026-11-08,Le Mans vs Monaco,Aleksandr Golovin,To Get a Card,0.5,3.6,0.2778,0.1866,1,0.0,0
+2026-11-08,Le Mans vs Monaco,Mathys Detourbet,To score at least 2 goals,1.5,29.0,0.0345,0.0053,1,0.0,0
+2026-11-08,Le Mans vs Monaco,Mathys Detourbet,To Score,0.5,4.4,0.2273,0.1012,1,0.0,0
+2026-11-08,Le Mans vs Monaco,Vanderson,To give an assist,0.5,6.75,0.1481,0.0767,1,0.0,0
+2026-11-08,Le Mans vs Monaco,Jordan Teze,To Get a Card,0.5,3.2,0.3125,0.0406,0,0.0,0
+2026-11-08,Le Mans vs Monaco,Denis Zakaria,To score at least 2 goals,1.5,51.0,0.0196,0.0028,1,0.0,0
+2026-11-08,Le Mans vs Monaco,Matthis Abline,Player's shots on target,1.5,2.8,0.3571,0.1408,1,0.0,0
+2026-11-08,Le Mans vs Monaco,Jordan Teze,To give an assist,0.5,6.75,0.1481,0.0347,0,0.0,0
+2026-11-08,Le Mans vs Monaco,Takumi Minamino,To Get a Card,0.5,4.7,0.2128,0.0396,0,0.0,0
+2026-11-08,Le Mans vs Monaco,Sadibou Sané,Player's shots on target,0.5,4.3,0.2326,0.068,1,0.0,0
+2026-11-08,Le Mans vs Monaco,Edan Diop,Player's shots on target,0.5,2.3,0.4348,0.1371,0,0.0,0
+2026-11-08,Le Mans vs Monaco,Lamine Camara,To Score,0.5,5.5,0.1818,0.093,1,0.0,0
+2026-11-08,Le Mans vs Monaco,Lamine Camara,To Get a Card,0.5,3.7,0.2703,0.2196,1,0.0,0
+2026-11-08,Le Mans vs Monaco,Alexandre Lauray,To give an assist,0.5,7.0,0.1429,0.0185,0,0.0,0
+2026-11-08,Le Mans vs Monaco,Paris Brunner,To score at least 2 goals,1.5,5.75,0.1739,0.0018,0,0.0,0
+2026-11-08,Le Mans vs Monaco,Mathys Detourbet,To Get a Card,0.5,4.1,0.2439,0.1502,1,0.0,0
+2026-11-08,Le Mans vs Monaco,Lucas Calodat,Player's shots on target,0.5,4.2,0.2381,0.3271,1,0.0,0
+2026-11-08,Le Mans vs Monaco,Lamine Camara,To score at least 2 goals,1.5,41.0,0.0244,0.0045,1,0.0,0
+2026-11-08,Le Mans vs Monaco,Alexandre Lauray,Player's shots on target,0.5,5.1,0.1961,0.0575,0,0.0,0
+2026-11-08,Le Mans vs Monaco,Daouda Traoré,Player's shots on target,0.5,4.5,0.2222,0.2444,1,0.0,0
+2026-11-08,Le Mans vs Monaco,Samuel Yohou,To Get a Card,0.5,2.8,0.3571,0.2042,1,0.0,0
+2026-11-08,Le Mans vs Monaco,Lucas Buadés,Player's shots on target,0.5,3.6,0.2778,0.2885,1,1.0,1
+2026-11-08,Le Mans vs Monaco,Sadibou Sané,To Score,0.5,9.5,0.1053,0.0294,1,0.0,0
+2026-11-08,Le Mans vs Monaco,Mathys Detourbet,To give an assist,0.5,4.3,0.2326,0.1076,1,0.0,0
 2026-11-08,Celta vs Levante,Hugo González,To Score,0.5,3.7,0.2703,0.0002,1,0.0,0
 2026-11-08,Celta vs Levante,Hugo González,Player's shots on target,1.5,4.3,0.2326,0.0,1,0.0,0
 2026-11-08,Celta vs Levante,Hugo González,To Get a Card,0.5,3.5,0.2857,0.0492,1,0.0,0
