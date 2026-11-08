@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 08/11/2026 08:02 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 08/11/2026 08:31 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## RED Canids Academy vs Grêmio — 08/11 · 20:00
 
@@ -115,4 +115,41 @@ Casas: XI 27% · STATE 73%
 • H2H: 16: 4-12  
 • Torneo: Dust2.dk Ligaen Season 33: Regular Season (nivel C)  
 • Cambios de plantilla: ninguno  
+
+## OldBoys FR vs TTG Esports — 09/11 · 20:00
+
+👀 candidata · 🎮 CS2 · ESEA Season 59: Advanced Division - Europe · **Gana TTG Esports** @ **2.93** (Thunderpick) · prob 48% vs casas 32% · ventaja +40%
+
+- ❌ Valor: ventaja +40% (mín. 17% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮 no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 76.602 partidos)  
+Mapa: OldBoys FR 36% · Serie BO1: OldBoys FR 36% - 64% TTG Esports  
+Casas: OldBoys FR 68% · TTG Esports 32%  
+🔎 **Claves**  
+• Elo: OldBoys FR 1569 (54 series) | TTG Esports 1671 (14 series)  
+• Forma: OldBoys FR ✅✅❌❌❌ | TTG Esports ❌✅✅✅✅  
+• H2H: sin precedentes  
+• Torneo: ESEA Season 59: Advanced Division - Europe (nivel C)  
+• Cambios de plantilla: ninguno  
+
+## Huskies eSport vs Pandaric eSports — 09/11 · 20:00
+
+👀 candidata · 🎮 CS2 · DACH CS Masters Season 6 · **Gana Huskies eSport** @ **1.71** (Thunderpick) · prob 57% vs casas 54% · ventaja -2%
+
+- ❌ Valor: ventaja -2% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 76.602 partidos)  
+Mapa: Huskies eSport 57% · Serie BO3: Huskies eSport 60% - 40% Pandaric eSports  
+Casas: Huskies eSport 54% · Pandaric eSports 46%  
+🔎 **Claves**  
+• Elo: Huskies eSport 1229 (15 series) | Pandaric eSports 1154 (8 series)  
+• Forma: Huskies eSport ❌❌❌❌❌ | Pandaric eSports ❌❌❌❌❌  
+• H2H: sin precedentes  
+• Torneo: DACH CS Masters Season 6 (nivel C)  
+• Cambios de plantilla: ninguno  
+🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
+• Huskies eSport gana 2-1: 24% → cuota justa 4.10  
+• Pandaric eSports gana 2-1: 18% → cuota justa 5.44  
 
