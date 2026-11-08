@@ -34614,3 +34614,6 @@ game_id,match_id,slug,date,tier,bo,tournament_id,tournament,t1_id,t2_id,team1,te
 192440,133228,g2-ares-vs-inner-circle-academy-08-11-2026,2026-11-08T09:00:00.000+00:00,b,3,5628,CCT Europe 2026 Series 13,10994,22737,G2 Ares,Inner Circle Academy,1,de_cache,10994,16.0,12.0
 192307,133184,meia-noite-vs-zetta-games-cs-08-11-2026,2026-11-08T13:00:00.000+00:00,b,3,5624,CCT South America 2026 Series 8,25011,23468,MEIA NOITE,Zetta,2,de_cache,25011,13.0,6.0
 192308,133184,meia-noite-vs-zetta-games-cs-08-11-2026,2026-11-08T13:00:00.000+00:00,b,3,5624,CCT South America 2026 Series 8,25011,23468,MEIA NOITE,Zetta,1,de_dust2,25011,13.0,2.0
+192309,133185,red-canids-academy-vs-bestia-academy-08-11-2026,2026-11-08T16:00:00.000+00:00,b,3,5624,CCT South America 2026 Series 8,16743,18461,RED Canids Academy,BESTIA Academy,3,de_cache,16743,13.0,7.0
+192310,133185,red-canids-academy-vs-bestia-academy-08-11-2026,2026-11-08T16:00:00.000+00:00,b,3,5624,CCT South America 2026 Series 8,16743,18461,RED Canids Academy,BESTIA Academy,2,de_nuke,18461,13.0,9.0
+192311,133185,red-canids-academy-vs-bestia-academy-08-11-2026,2026-11-08T16:00:00.000+00:00,b,3,5624,CCT South America 2026 Series 8,16743,18461,RED Canids Academy,BESTIA Academy,1,de_mirage,16743,13.0,3.0
