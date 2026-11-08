@@ -1,6 +1,6 @@
 # 🏈 NFL·NCAA · apuestas de valor
 
-Actualizado 08/11/2026 12:08 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 08/11/2026 12:37 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Atlanta Falcons vs Cincinnati Bengals — 08/11 · 15:30
 
