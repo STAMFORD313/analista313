@@ -1,56 +1,6 @@
 # 🏈 NFL·NCAA · apuestas de valor
 
-Actualizado 08/11/2026 20:50 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Los Angeles Chargers vs Houston Texans — 08/11 · 22:05
-
-👀 candidata · 🏈 NFL · **Más de 40.5 puntos** @ **1.91** (DraftKings) · prob 50% vs casas 50% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 totales» sin pérdidas demostradas
-
-📊 **Escenarios**: total esperado **39.7** puntos · línea 40.5  
-Más 50% · Menos 50%  
-🔎 **Claves**  
-• Forma: Los Angeles Chargers ❌❌❌❌❌ | Houston Texans ❌❌✅✅❌  
-• H2H: 6 desde 2019: 2-4  
-• Bajas: Los Angeles Chargers: 3 fuera, 22 duda (Denzel Perryman, David Njoku, Derwin James Jr.); Houston Texans: 2 fuera, 23 duda (David Montgomery, Jaylin Noel)  
-🧩 Combinada: Gana Los Angeles Chargers + Más de 40.5 puntos → prob. 17%, cuota justa 5.73  
-🎯 No simulada (NFL): cuota DraftKings aprox. 5.63 (producto de piernas) · prob. 17% · ventaja -2%  
-
-## Los Angeles Chargers vs Houston Texans — 08/11 · 22:05
-
-👀 candidata · 🏈 NFL · **Los Angeles Chargers +6** @ **1.89** (DraftKings) · prob 50% vs casas 50% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 hándicap» sin pérdidas demostradas
-
-📊 **Escenarios**: Los Angeles Chargers cubre +6 con prob. 50% (casas 50%)  
-🔎 **Claves**  
-• Forma: Los Angeles Chargers ❌❌❌❌❌ | Houston Texans ❌❌✅✅❌  
-• H2H: 6 desde 2019: 2-4  
-• Bajas: Los Angeles Chargers: 3 fuera, 22 duda (Denzel Perryman, David Njoku, Derwin James Jr.); Houston Texans: 2 fuera, 23 duda (David Montgomery, Jaylin Noel)  
-🧩 Combinada: Gana Los Angeles Chargers + Más de 40.5 puntos → prob. 17%, cuota justa 5.73  
-🎯 No simulada (NFL): cuota DraftKings aprox. 5.63 (producto de piernas) · prob. 17% · ventaja -2%  
-
-## Los Angeles Chargers vs Houston Texans — 08/11 · 22:05
-
-👀 candidata · 🏈 NFL · **Gana Los Angeles Chargers** @ **2.95** (DraftKings) · prob 32% vs casas 32% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo con 3.259 partidos y bajas)  
-Gana Los Angeles Chargers 45% · Gana Houston Texans 55%  
-Casas: Los Angeles Chargers 32% · Houston Texans 68%  
-Hándicap HOU -6 · Total puntos 40.5  
-🔎 **Claves**  
-• Forma: Los Angeles Chargers ❌❌❌❌❌ | Houston Texans ❌❌✅✅❌  
-• H2H: 6 desde 2019: 2-4  
-• Bajas: Los Angeles Chargers: 3 fuera, 22 duda (Denzel Perryman, David Njoku, Derwin James Jr.); Houston Texans: 2 fuera, 23 duda (David Montgomery, Jaylin Noel)  
-• Favorito de las casas: Houston Texans @ 1.42  
-🧩 Combinada: Gana Los Angeles Chargers + Más de 40.5 puntos → prob. 17%, cuota justa 5.73  
-🎯 No simulada (NFL): cuota DraftKings aprox. 5.63 (producto de piernas) · prob. 17% · ventaja -2%  
+Actualizado 08/11/2026 22:20 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## New England Patriots vs Green Bay Packers — 08/11 · 22:25
 

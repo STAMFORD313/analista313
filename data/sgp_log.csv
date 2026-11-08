@@ -219,4 +219,5 @@ fecha,partido,tipo,piernas,p,acierto,piernas_acertadas,p_piernas,cuota,ventaja,s
 2026-11-08,Atlanta Falcons vs Cincinnati Bengals,nfl,2,0.2064,0,0,0.4425,4.72,-0.025,0,,Gana Atlanta Falcons + Más de 52.5 puntos,0
 2026-11-07,Nacional vs Academico Viseu,corta,3,0.2564,0,1,0.6214,,,0,,Menos de 13.5 faltas de Academico Viseu + Menos de 5.5 córners de Nacional + Menos de 4.5 tiros a puerta de Nacional,100
 2026-11-07,Nacional vs Academico Viseu,larga,5,0.0611,0,2,0.6015,,,0,,Menos de 13.5 faltas de Academico Viseu + Menos de 5.5 córners de Nacional + Menos de 4.5 tiros a puerta de Nacional + Más de 2.5 tarjetas de Academico Viseu + Más de 2.5 goles,10010
-2026-11-07,Nacional vs Academico Viseu,valor,2,0.3502,0,0,0.5917,2.87,0.004,0,,Menos de 5.5 córners de Nacional + Más de 2.5 goles,00
+2026-11-07,Nacional vs Academico Viseu,valor,2,0.3502,0,0,0.5917,2.87,0.004,0,,Menos de 5.5 córners de Nacional + Más de 2.5 goles,0
+2026-11-08,Miami Dolphins vs Detroit Lions,nfl,2,0.1394,0,0,0.3815,7.11,-0.01,0,,Gana Miami Dolphins + Más de 50.5 puntos,00
