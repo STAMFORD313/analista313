@@ -1,61 +1,61 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 08/11/2026 13:38 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 08/11/2026 14:08 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## Artrom vs MeLToSik — 08/11 · 13:52
+## Artrom vs Edwardson — 08/11 · 14:16
 
-👀 candidata · 🎮⚽ FC 27 · LaLiga · **Gana MeLToSik** @ **2.65** (Unibet) · prob 47% vs casas 33% · ventaja +25%
+👀 candidata · 🎮⚽ FC 27 · LaLiga · **Gana Artrom** @ **4.10** (Unibet) · prob 30% vs casas 21% · ventaja +23%
 
-- ✅ Valor: ventaja +25% (mín. 14% con la incertidumbre, máx. 30%)
+- ✅ Valor: ventaja +23% (mín. 14% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 60.600 partidos)  
-Goles esperados: Artrom 1.69 · MeLToSik 2.03  
-Ganador: Artrom 28% · empate 25% · MeLToSik 47%  
-Total: más de 3.5 goles 51% · menos 49%  
-Hándicap MeLToSik: −1.5 26% · −2.5 13%  
+📊 **Escenarios** (Poisson por jugador, 60.630 partidos)  
+Goles esperados: Artrom 1.65 · Edwardson 1.84  
+Ganador: Artrom 30% · empate 26% · Edwardson 44%  
+Total: más de 3.5 goles 46% · menos 54%  
+Hándicap Edwardson: −1.5 23% · −2.5 10%  
 🔎 **Claves**  
-• Forma: Artrom ✅➖❌✅➖ | MeLToSik ✅✅✅✅❌  
-• Partidos: Artrom 606 | MeLToSik 1149  
+• Forma: Artrom ❌✅➖❌➖ | Edwardson ❌➖✅✅➖  
+• Partidos: Artrom 608 | Edwardson 1187  
 • Liga: LaLiga  
-• Unibet: 1 2.06 · X 3.50 · 2 2.65 (sin margen 42%/25%/33%) · ventaja +25%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.65 (+25%) · Paf España 2.65 (+25%)  
+• Unibet: 1 4.10 · X 4.40 · 2 1.50 (sin margen 21%/20%/59%) · ventaja +23%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 4.10 (+23%) · Paf España 4.10 (+23%)  
 
-## TikitakaMaster vs riko — 08/11 · 14:02
+## Piljar vs Lufy — 08/11 · 14:30
 
-👀 candidata · 🎮⚽ FC 27 · Champions League A 2x6 · **Gana riko** @ **1.81** (Unibet) · prob 60% vs casas 48% · ventaja +9%
+👀 candidata · 🎮⚽ FC 27 · International A 2x6 · **Gana Lufy** @ **3.05** (Unibet) · prob 38% vs casas 29% · ventaja +16%
 
-- ❌ Valor: ventaja +9% (mín. 10% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+- ✅ Valor: ventaja +16% (mín. 12% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 60.600 partidos)  
-Goles esperados: TikitakaMaster 3.12 · riko 4.07  
-Ganador: TikitakaMaster 25% · empate 15% · riko 60%  
-Total: más de 7.5 goles 43% · menos 57%  
-Hándicap riko: −1.5 41% · −2.5 27%  
+📊 **Escenarios** (Poisson por jugador, 60.630 partidos)  
+Goles esperados: Piljar 4.88 · Lufy 4.57  
+Ganador: Piljar 47% · empate 15% · Lufy 38%  
+Total: más de 9.5 goles 47% · menos 53%  
+Hándicap Piljar: −1.5 35% · −2.5 23%  
 🔎 **Claves**  
-• Forma: TikitakaMaster ✅✅➖❌❌ | riko ✅❌✅➖✅  
-• Partidos: TikitakaMaster 633 | riko 660  
-• Liga: Champions League A 2x6  
-• Unibet: 1 2.35 · X 6.25 · 2 1.81 (sin margen 37%/14%/49%) · ventaja +9%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 1.81 (+9%) · Paf España 1.81 (+9%)  
+• Forma: Piljar ❌✅❌❌✅ | Lufy ✅❌✅❌✅  
+• Partidos: Piljar 409 | Lufy 726  
+• Liga: International A 2x6  
+• Unibet: 1 1.60 · X 5.50 · 2 3.05 (sin margen 55%/16%/29%) · ventaja +16%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 3.05 (+16%) · Paf España 3.05 (+16%)  
 
-## MeLToSik vs dm1trena — 08/11 · 14:04
+## Pavlinho19 vs Tesla — 08/11 · 14:34
 
-👀 candidata · 🎮⚽ FC 27 · LaLiga · **Gana MeLToSik** @ **3.05** (Unibet) · prob 42% vs casas 29% · ventaja +28%
+👀 candidata · 🎮⚽ FC 27 · FA Cup · **Gana Tesla** @ **2.35** (Unibet) · prob 55% vs casas 37% · ventaja +28%
 
 - ✅ Valor: ventaja +28% (mín. 15% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 60.600 partidos)  
-Goles esperados: MeLToSik 2.39 · dm1trena 2.26  
-Ganador: MeLToSik 42% · empate 22% · dm1trena 36%  
-Total: más de 4.5 goles 50% · menos 50%  
-Hándicap MeLToSik: −1.5 25% · −2.5 13%  
+📊 **Escenarios** (Poisson por jugador, 60.630 partidos)  
+Goles esperados: Pavlinho19 2.42 · Tesla 3.17  
+Ganador: Pavlinho19 26% · empate 19% · Tesla 55%  
+Total: más de 5.5 goles 49% · menos 51%  
+Hándicap Tesla: −1.5 37% · −2.5 22%  
 🔎 **Claves**  
-• Forma: MeLToSik ✅✅✅✅❌ | dm1trena ✅➖❌❌❌  
-• Partidos: MeLToSik 1149 | dm1trena 1061  
-• Liga: LaLiga  
-• Unibet: 1 3.05 · X 3.55 · 2 1.86 (sin margen 29%/25%/47%) · ventaja +28%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 3.05 (+28%) · Paf España 3.05 (+28%)  
+• Forma: Pavlinho19 ✅❌❌❌✅ | Tesla ❌✅❌✅❌  
+• Partidos: Pavlinho19 909 | Tesla 934  
+• Liga: FA Cup  
+• Unibet: 1 2.28 · X 3.45 · 2 2.35 (sin margen 38%/25%/37%) · ventaja +28%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.35 (+28%) · Paf España 2.35 (+28%)  
 

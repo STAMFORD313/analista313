@@ -60599,3 +60599,51 @@ id,tournament_id,club1,club2,ht1,ht2
 2369137,261354,Leipzig,Bayern Munchen,,
 2369138,261354,Frankfurt,Leipzig,,
 2369139,261354,Stuttgart,B Dortmund,,
+2368565,261314,Roma,Bologna,1,2
+2370033,261314,Juventus,Sassuolo,1,1
+2370034,261314,Juventus,Roma,1,2
+2370035,261314,Sassuolo,Bologna,2,2
+2370036,261314,Bologna,Juventus,2,2
+2370037,261314,Sassuolo,Roma,1,3
+2370038,261314,Roma,Bologna,4,3
+2370039,261314,Juventus,Sassuolo,2,2
+2370040,261314,Juventus,Roma,3,0
+2370041,261314,Sassuolo,Bologna,2,0
+2370042,261314,Bologna,Juventus,1,2
+2370043,261314,Sassuolo,Roma,0,2
+2370044,261314,Roma,Bologna,,
+2370045,261314,Juventus,Sassuolo,,
+2368580,261314,Juventus,Roma,,
+2368581,261314,Sassuolo,Bologna,,
+2370046,261314,Bologna,Juventus,,
+2370047,261314,Sassuolo,Roma,,
+2369420,261336,Bayern Munchen,Paris,1,4
+2369421,261336,Liverpool,Atleti,1,0
+2369422,261336,Atleti,Bayern Munchen,1,2
+2369423,261336,Paris,Real Madrid,1,6
+2369424,261336,Real Madrid,Atleti,3,1
+2369425,261336,Bayern Munchen,Liverpool,2,4
+2369426,261336,Liverpool,Real Madrid,2,0
+2369427,261336,Atleti,Paris,2,3
+2369428,261336,Paris,Liverpool,0,0
+2369429,261336,Real Madrid,Bayern Munchen,0,0
+2369600,261383,Nottm Forest,Aston Villa,0,0
+2369601,261383,Newcastle,Man Utd,1,1
+2369602,261383,Man Utd,Nottm Forest,0,4
+2369603,261383,Aston Villa,Brighton,1,0
+2369604,261383,Brighton,Man Utd,2,2
+2369605,261383,Nottm Forest,Newcastle,3,0
+2369606,261383,Newcastle,Brighton,1,0
+2369607,261383,Man Utd,Aston Villa,2,0
+2369608,261383,Aston Villa,Newcastle,1,2
+2369609,261383,Brighton,Nottm Forest,2,1
+2369610,261383,Aston Villa,Nottm Forest,,
+2369611,261383,Man Utd,Newcastle,,
+2369612,261383,Nottm Forest,Man Utd,,
+2369613,261383,Brighton,Aston Villa,,
+2369614,261383,Man Utd,Brighton,,
+2369615,261383,Newcastle,Nottm Forest,,
+2369616,261383,Brighton,Newcastle,,
+2369617,261383,Aston Villa,Man Utd,,
+2369618,261383,Newcastle,Aston Villa,,
+2369619,261383,Nottm Forest,Brighton,,
