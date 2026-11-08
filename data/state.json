@@ -1499,13 +1499,9 @@
   "wta|2026-11-10|Alice Tubello|Julia Riera",
   "wta|2026-11-10|Laura Samson|Carolina Alves",
   "wta|2026-11-10|Maria Lourdes Carle|Valentina Mediorreal Arias",
-  "cs2|133302",
-  "cs2|133053",
-  "dota2|132370",
-  "dota2|133522",
-  "dota2|133523",
-  "dota2|133139",
-  "dota2|133521",
+  "wta|2026-11-10|Jazmin Ortenzi|Leolia Jeanjean",
+  "wta|2026-11-10|Katrina Scott|Andrea Lazaro Garcia",
+  "wta|2026-11-10|Lucia Bronzetti|Julieta Pareja",
   "r6|133078",
   "fc|2361902",
   "fc|2361904",
@@ -2499,16 +2495,16 @@
   "fc|2369292",
   "fc|2369673",
   "fc|2369290",
-  "wta|2026-11-10|Jazmin Ortenzi|Leolia Jeanjean",
-  "wta|2026-11-10|Katrina Scott|Andrea Lazaro Garcia",
-  "wta|2026-11-10|Lucia Bronzetti|Julieta Pareja",
   "cs2|133764",
   "cs2|133763",
   "cs2|133355",
   "lol|132699",
   "fc|2369163",
   "fc|2369307",
-  "fc|2370710"
+  "fc|2370710",
+  "fc|2370711",
+  "fc|2369165",
+  "fc|2369691"
  ],
  "signals": [
   {
@@ -8129,56 +8125,6 @@
   {
    "market": "D",
    "pick": "Empate",
-   "odds": 7.5,
-   "book": "Unibet",
-   "implied": 0.116,
-   "edge": 0.266,
-   "sin_stake": true,
-   "p": 0.169,
-   "key": "fc|2364714",
-   "match": "Nightxx vs kkikus",
-   "start": "2026-11-05T21:31:00+00:00",
-   "league": "🎮⚽ FC 27 · World Cup A",
-   "sport": "🎮⚽",
-   "context": "EA FC Esoccer Battle Nightxx vs kkikus (World Cup A): goles esperados 3.76-2.28, 1X2 66%/17%/17%. Sin cuotas de casa.",
-   "captured": "2026-11-05T21:04",
-   "version": "89e725f",
-   "bajas": "",
-   "considered": true,
-   "placed": false,
-   "score": "4-2",
-   "result": false,
-   "close_p": null,
-   "logged": true
-  },
-  {
-   "market": "D",
-   "pick": "Empate",
-   "odds": 6.5,
-   "book": "Unibet",
-   "implied": 0.134,
-   "edge": 0.216,
-   "sin_stake": true,
-   "p": 0.187,
-   "key": "fc|2365062",
-   "match": "ssstasonn vs Simaponika",
-   "start": "2026-11-05T21:31:00+00:00",
-   "league": "🎮⚽ FC 27 · World Cup A",
-   "sport": "🎮⚽",
-   "context": "EA FC Esoccer Battle ssstasonn vs Simaponika (World Cup A): goles esperados 2.09-3.35, 1X2 19%/19%/63%. Sin cuotas de casa.",
-   "captured": "2026-11-05T21:04",
-   "version": "89e725f",
-   "bajas": "",
-   "considered": true,
-   "placed": false,
-   "score": "4-2",
-   "result": false,
-   "close_p": null,
-   "logged": true
-  },
-  {
-   "market": "D",
-   "pick": "Empate",
    "odds": 5.6,
    "book": "Unibet",
    "implied": 0.157,
@@ -8797,7 +8743,11 @@
    "version": "d8ca472",
    "bajas": "Philadelphia Eagles: 0 fuera, 25 duda; New York Giants: 1 fuera, 24 duda (Tyrone Tracy Jr.)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "11-19",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "sph",
@@ -8818,7 +8768,11 @@
    "version": "d8ca472",
    "bajas": "Philadelphia Eagles: 0 fuera, 25 duda; New York Giants: 1 fuera, 24 duda (Tyrone Tracy Jr.)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "11-19",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "home",
@@ -8838,7 +8792,11 @@
    "version": "d8ca472",
    "bajas": "Philadelphia Eagles: 0 fuera, 25 duda; New York Giants: 1 fuera, 24 duda (Tyrone Tracy Jr.)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "11-19",
+   "close_p": 0.4267,
+   "logged": true
   },
   {
    "market": "over",
@@ -8860,7 +8818,11 @@
    "version": "d8ca472",
    "bajas": "Washington Commanders: 6 fuera, 19 duda (Jer'Zhan Newton, Daron Payne, Jeremy McNichols); Los Angeles Rams: 5 fuera, 20 duda (Ronnie Rivers, Jaylen Watson, Terrance Ferguson)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "13-20",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "sph",
@@ -8881,7 +8843,11 @@
    "version": "d8ca472",
    "bajas": "Washington Commanders: 6 fuera, 19 duda (Jer'Zhan Newton, Daron Payne, Jeremy McNichols); Los Angeles Rams: 5 fuera, 20 duda (Ronnie Rivers, Jaylen Watson, Terrance Ferguson)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "13-20",
+   "close_p": 0.523,
+   "logged": true
   },
   {
    "market": "home",
@@ -8901,7 +8867,11 @@
    "version": "d8ca472",
    "bajas": "Washington Commanders: 6 fuera, 19 duda (Jer'Zhan Newton, Daron Payne, Jeremy McNichols); Los Angeles Rams: 5 fuera, 20 duda (Ronnie Rivers, Jaylen Watson, Terrance Ferguson)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "13-20",
+   "close_p": 0.3335,
+   "logged": true
   },
   {
    "market": "over",
@@ -8923,7 +8893,11 @@
    "version": "d8ca472",
    "bajas": "Carolina Panthers: 4 fuera, 21 duda (Brady Christensen, Jonathon Brooks, Xavier Legette); Denver Broncos: 2 fuera, 23 duda (Pat Bryant, RJ Harvey)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "21-26",
+   "close_p": 0.5092,
+   "logged": true
   },
   {
    "market": "sph",
@@ -8944,7 +8918,11 @@
    "version": "d8ca472",
    "bajas": "Carolina Panthers: 4 fuera, 21 duda (Brady Christensen, Jonathon Brooks, Xavier Legette); Denver Broncos: 2 fuera, 23 duda (Pat Bryant, RJ Harvey)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "21-26",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "home",
@@ -8964,7 +8942,11 @@
    "version": "d8ca472",
    "bajas": "Carolina Panthers: 4 fuera, 21 duda (Brady Christensen, Jonathon Brooks, Xavier Legette); Denver Broncos: 2 fuera, 23 duda (Pat Bryant, RJ Harvey)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "21-26",
+   "close_p": 0.3982,
+   "logged": true
   },
   {
    "market": "over",
@@ -9044,18 +9026,6 @@
    "pick": "Más de 44.5 puntos",
    "league": "🏈 NFL",
    "sport": "🏈",
-   "info": [
-    "📊 <b>Escenarios</b>: total esperado <b>43.2</b> puntos · línea 44.5",
-    "Más 51% · Menos 49%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: New England Patriots ✅✅✅❌✅ | Green Bay Packers ✅✅✅❌✅",
-    "• H2H: 3 desde 2018: 2-1",
-    "• Bajas: New England Patriots: 2 fuera, 23 duda (Greg Van Roten, Mack Hollins); Green Bay Packers: 2 fuera, 23 duda (Chris Brooks, Micah Parsons)",
-    "",
-    "🧩 Combinada: Gana Green Bay Packers + Menos de 44.5 puntos → prob. 21%, cuota justa 4.80",
-    "🎯 No simulada (NFL): cuota DraftKings aprox. 4.68 (producto de piernas) · prob. 21% · ventaja -2%"
-   ],
    "context": "New England Patriots vs Green Bay Packers (🏈 NFL). Modelo de puntos (ataque/defensa con 10 años, decaimiento 1 año): total esperado 43.2 frente a línea 44.5. Forma New England Patriots ✅✅✅❌✅, Green Bay Packers ✅✅✅❌✅. H2H 3 desde 2018: 2-1. Bajas: New England Patriots: 2 fuera, 23 duda (Greg Van Roten, Mack Hollins); Green Bay Packers: 2 fuera, 23 duda (Chris Brooks, Micah Parsons).",
    "captured": "2026-11-06T00:16",
    "version": "d8ca472",
@@ -9077,17 +9047,6 @@
    "pick": "New England Patriots -3",
    "league": "🏈 NFL",
    "sport": "🏈",
-   "info": [
-    "📊 <b>Escenarios</b>: New England Patriots cubre -3 con prob. 50% (casas 50%)",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: New England Patriots ✅✅✅❌✅ | Green Bay Packers ✅✅✅❌✅",
-    "• H2H: 3 desde 2018: 2-1",
-    "• Bajas: New England Patriots: 2 fuera, 23 duda (Greg Van Roten, Mack Hollins); Green Bay Packers: 2 fuera, 23 duda (Chris Brooks, Micah Parsons)",
-    "",
-    "🧩 Combinada: Gana Green Bay Packers + Menos de 44.5 puntos → prob. 21%, cuota justa 4.80",
-    "🎯 No simulada (NFL): cuota DraftKings aprox. 4.68 (producto de piernas) · prob. 21% · ventaja -2%"
-   ],
    "context": "New England Patriots vs Green Bay Packers (🏈 NFL). Hándicap New England Patriots -3: margen esperado desde el Elo (gana New England Patriots 56%). Forma New England Patriots ✅✅✅❌✅, Green Bay Packers ✅✅✅❌✅. H2H 3 desde 2018: 2-1. Bajas: New England Patriots: 2 fuera, 23 duda (Greg Van Roten, Mack Hollins); Green Bay Packers: 2 fuera, 23 duda (Chris Brooks, Micah Parsons).",
    "captured": "2026-11-06T00:16",
    "version": "d8ca472",
@@ -9108,21 +9067,6 @@
    "start": "2026-11-08T21:25Z",
    "league": "🏈 NFL",
    "sport": "🏈",
-   "info": [
-    "📊 <b>Escenarios</b> (Elo con 3.259 partidos y bajas)",
-    "Gana New England Patriots 56% · Gana Green Bay Packers 44%",
-    "Casas: New England Patriots 60% · Green Bay Packers 40%",
-    "Hándicap NE -3 · Total puntos 44.5",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: New England Patriots ✅✅✅❌✅ | Green Bay Packers ✅✅✅❌✅",
-    "• H2H: 3 desde 2018: 2-1",
-    "• Bajas: New England Patriots: 2 fuera, 23 duda (Greg Van Roten, Mack Hollins); Green Bay Packers: 2 fuera, 23 duda (Chris Brooks, Micah Parsons)",
-    "• Favorito de las casas: New England Patriots @ 1.60",
-    "",
-    "🧩 Combinada: Gana Green Bay Packers + Menos de 44.5 puntos → prob. 21%, cuota justa 4.80",
-    "🎯 No simulada (NFL): cuota DraftKings aprox. 4.68 (producto de piernas) · prob. 21% · ventaja -2%"
-   ],
    "context": "New England Patriots vs Green Bay Packers (🏈 NFL, fútbol americano). Modelo Elo con 10 años de historial ajustado por bajas: New England Patriots 56%, Green Bay Packers 44%. Cuotas DraftKings 1.602/2.4, hándicap NE -3, total 44.5. Forma New England Patriots ✅✅✅❌✅, Green Bay Packers ✅✅✅❌✅. H2H 3 desde 2018: 2-1. Bajas New England Patriots: Brenden Schooler duda; Marcus Jones duda; TreVeyon Henderson duda; Christian Barmore duda; A.J. Brown duda; Hunter Henry duda; Greg Van Roten lesionado; Dre'Mont Jones duda; Morgan Moses duda; Carlton Davis III duda; Kevin Byard duda; Mack Hollins lesionado; Efton Chism III duda; Corey Kiner duda; Marcus Bryant duda; Andy Borregales duda; Eli Raridon duda; Channing Canada duda; Karon Prunty duda; Elliott Davison duda; Kyle Williams duda; DeMario Douglas duda; Rhamondre Stevenson duda; Drake Maye duda; Gabe Jacas duda. Bajas Green Bay Packers: MarShawn Lloyd duda; Christian Watson duda; Keisean Nixon duda; Josh Jacobs duda; Chris Brooks lesionado; Micah Parsons lesionado; Josh Whyle duda; Aaron Banks duda; Zaire Franklin duda; Isaiah McDuffie duda; Ty'Ron Hopper duda; Evan Williams duda; Sean Rhyan duda; Travis Glover duda; Kaleb Johnson duda; Jonnu Smith duda; Donovan Jennings duda; Trey Smack duda; Jordan Love duda; Tucker Kraft duda; Matthew Golden duda; Devonte Wyatt duda; Anthony Campbell duda; Brenton Cox Jr. duda; Xavier McKinney duda.",
    "captured": "2026-11-06T00:16",
    "version": "d8ca472",
@@ -9145,15 +9089,6 @@
    "pick": "Más de 51.5 puntos",
    "league": "🏈 NFL",
    "sport": "🏈",
-   "info": [
-    "📊 <b>Escenarios</b>: total esperado <b>46.4</b> puntos · línea 51.5",
-    "Más 52% · Menos 48%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: San Francisco 49ers ✅✅✅✅❌ | Las Vegas Raiders ❌❌❌❌✅",
-    "• H2H: 6 desde 2021: 4-1",
-    "• Bajas: San Francisco 49ers: 4 fuera, 21 duda (Demarcus Robinson, Brandon Aiyuk, Nate Hobbs); Las Vegas Raiders: 1 fuera, 24 duda (Patrick Johnson)"
-   ],
    "context": "San Francisco 49ers vs Las Vegas Raiders (🏈 NFL). Modelo de puntos (ataque/defensa con 10 años, decaimiento 1 año): total esperado 46.4 frente a línea 51.5. Forma San Francisco 49ers ✅✅✅✅❌, Las Vegas Raiders ❌❌❌❌✅. H2H 6 desde 2021: 4-1. Bajas: San Francisco 49ers: 4 fuera, 21 duda (Demarcus Robinson, Brandon Aiyuk, Nate Hobbs); Las Vegas Raiders: 1 fuera, 24 duda (Patrick Johnson).",
    "captured": "2026-11-06T00:16",
    "version": "d8ca472",
@@ -9175,14 +9110,6 @@
    "pick": "San Francisco 49ers -10",
    "league": "🏈 NFL",
    "sport": "🏈",
-   "info": [
-    "📊 <b>Escenarios</b>: San Francisco 49ers cubre -10 con prob. 50% (casas 50%)",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: San Francisco 49ers ✅✅✅✅❌ | Las Vegas Raiders ❌❌❌❌✅",
-    "• H2H: 6 desde 2021: 4-1",
-    "• Bajas: San Francisco 49ers: 4 fuera, 21 duda (Demarcus Robinson, Brandon Aiyuk, Nate Hobbs); Las Vegas Raiders: 1 fuera, 24 duda (Patrick Johnson)"
-   ],
    "context": "San Francisco 49ers vs Las Vegas Raiders (🏈 NFL). Hándicap San Francisco 49ers -10: margen esperado desde el Elo (gana San Francisco 49ers 76%). Forma San Francisco 49ers ✅✅✅✅❌, Las Vegas Raiders ❌❌❌❌✅. H2H 6 desde 2021: 4-1. Bajas: San Francisco 49ers: 4 fuera, 21 duda (Demarcus Robinson, Brandon Aiyuk, Nate Hobbs); Las Vegas Raiders: 1 fuera, 24 duda (Patrick Johnson).",
    "captured": "2026-11-06T00:16",
    "version": "d8ca472",
@@ -9203,18 +9130,6 @@
    "start": "2026-11-08T21:25Z",
    "league": "🏈 NFL",
    "sport": "🏈",
-   "info": [
-    "📊 <b>Escenarios</b> (Elo con 3.259 partidos y bajas)",
-    "Gana San Francisco 49ers 76% · Gana Las Vegas Raiders 24%",
-    "Casas: San Francisco 49ers 80% · Las Vegas Raiders 20%",
-    "Hándicap SF -10 · Total puntos 51.5",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: San Francisco 49ers ✅✅✅✅❌ | Las Vegas Raiders ❌❌❌❌✅",
-    "• H2H: 6 desde 2021: 4-1",
-    "• Bajas: San Francisco 49ers: 4 fuera, 21 duda (Demarcus Robinson, Brandon Aiyuk, Nate Hobbs); Las Vegas Raiders: 1 fuera, 24 duda (Patrick Johnson)",
-    "• Favorito de las casas: San Francisco 49ers @ 1.20"
-   ],
    "context": "San Francisco 49ers vs Las Vegas Raiders (🏈 NFL, fútbol americano). Modelo Elo con 10 años de historial ajustado por bajas: San Francisco 49ers 76%, Las Vegas Raiders 24%. Cuotas DraftKings 1.2/4.8, hándicap SF -10, total 51.5. Forma San Francisco 49ers ✅✅✅✅❌, Las Vegas Raiders ❌❌❌❌✅. H2H 6 desde 2021: 4-1. Bajas San Francisco 49ers: Demarcus Robinson lesionado; Christian Kirk duda; Deebo Samuel Sr. duda; Mike Evans duda; Christian McCaffrey duda; Brandon Aiyuk lesionado; Marques Sigle duda; Nate Hobbs lesionado; Nick Bosa duda; Siran Neal duda; De'Zhaun Stribling lesionado; Dre Greenlaw duda; Fred Warner duda; Garret Wallow duda; Luke Gifford duda; Brandin Cooks duda; Jacob Cowing duda; Jordan James duda; Upton Stout duda; Kurtis Rourke duda; Brock Purdy duda; Kyle Juszczyk duda; Eddy Pineiro duda; Jordan Watkins duda; Kaelon Black duda. Bajas Las Vegas Raiders: Folorunso Fatukasi duda; Dont'e Thornton Jr. duda; Ian Thomas duda; Thomas Booker IV duda; Mike Washington Jr. duda; Ashton Jeanty duda; Jack Bech duda; Fernando Mendoza duda; Matt Gay duda; Tre Tucker duda; JJ Pegues duda; Aidan O'Connell duda; Bryce Cabeldue duda; Malik Benson duda; Dalton Johnson duda; Tristin McCollum duda; Michael Mayer duda; Jalen Nailor duda; Kirk Cousins duda; Brock Bowers duda; Darien Porter duda; Jackson Powers-Johnson duda; Maxx Crosby duda; Patrick Johnson lesionado; DJ Glaze duda.",
    "captured": "2026-11-06T00:16",
    "version": "d8ca472",
@@ -9237,15 +9152,6 @@
    "pick": "Más de 39.5 puntos",
    "league": "🏈 NFL",
    "sport": "🏈",
-   "info": [
-    "📊 <b>Escenarios</b>: total esperado <b>48.8</b> puntos · línea 39.5",
-    "Más 50% · Menos 50%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Seattle Seahawks ✅❌❌✅❌ | Arizona Cardinals ❌❌✅❌✅",
-    "• H2H: 20 desde 2016: 15-5",
-    "• Bajas: Seattle Seahawks: 1 fuera, 24 duda (Sam Darnold); Arizona Cardinals: 4 fuera, 21 duda (Isaiah Adams, James Conner, Jeremiyah Love)"
-   ],
    "context": "Seattle Seahawks vs Arizona Cardinals (🏈 NFL). Modelo de puntos (ataque/defensa con 10 años, decaimiento 1 año): total esperado 48.8 frente a línea 39.5. Forma Seattle Seahawks ✅❌❌✅❌, Arizona Cardinals ❌❌✅❌✅. H2H 20 desde 2016: 15-5. Bajas: Seattle Seahawks: 1 fuera, 24 duda (Sam Darnold); Arizona Cardinals: 4 fuera, 21 duda (Isaiah Adams, James Conner, Jeremiyah Love).",
    "captured": "2026-11-06T00:16",
    "version": "d8ca472",
@@ -9267,14 +9173,6 @@
    "pick": "Seattle Seahawks -8.5",
    "league": "🏈 NFL",
    "sport": "🏈",
-   "info": [
-    "📊 <b>Escenarios</b>: Seattle Seahawks cubre -8.5 con prob. 50% (casas 50%)",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Seattle Seahawks ✅❌❌✅❌ | Arizona Cardinals ❌❌✅❌✅",
-    "• H2H: 20 desde 2016: 15-5",
-    "• Bajas: Seattle Seahawks: 1 fuera, 24 duda (Sam Darnold); Arizona Cardinals: 4 fuera, 21 duda (Isaiah Adams, James Conner, Jeremiyah Love)"
-   ],
    "context": "Seattle Seahawks vs Arizona Cardinals (🏈 NFL). Hándicap Seattle Seahawks -8.5: margen esperado desde el Elo (gana Seattle Seahawks 73%). Forma Seattle Seahawks ✅❌❌✅❌, Arizona Cardinals ❌❌✅❌✅. H2H 20 desde 2016: 15-5. Bajas: Seattle Seahawks: 1 fuera, 24 duda (Sam Darnold); Arizona Cardinals: 4 fuera, 21 duda (Isaiah Adams, James Conner, Jeremiyah Love).",
    "captured": "2026-11-06T00:16",
    "version": "d8ca472",
@@ -9295,18 +9193,6 @@
    "start": "2026-11-08T21:25Z",
    "league": "🏈 NFL",
    "sport": "🏈",
-   "info": [
-    "📊 <b>Escenarios</b> (Elo con 3.259 partidos y bajas)",
-    "Gana Seattle Seahawks 73% · Gana Arizona Cardinals 27%",
-    "Casas: Seattle Seahawks 79% · Arizona Cardinals 21%",
-    "Hándicap SEA -8.5 · Total puntos 39.5",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Seattle Seahawks ✅❌❌✅❌ | Arizona Cardinals ❌❌✅❌✅",
-    "• H2H: 20 desde 2016: 15-5",
-    "• Bajas: Seattle Seahawks: 1 fuera, 24 duda (Sam Darnold); Arizona Cardinals: 4 fuera, 21 duda (Isaiah Adams, James Conner, Jeremiyah Love)",
-    "• Favorito de las casas: Seattle Seahawks @ 1.22"
-   ],
    "context": "Seattle Seahawks vs Arizona Cardinals (🏈 NFL, fútbol americano). Modelo Elo con 10 años de historial ajustado por bajas: Seattle Seahawks 73%, Arizona Cardinals 27%. Cuotas DraftKings 1.22/4.5, hándicap SEA -8.5, total 39.5. Forma Seattle Seahawks ✅❌❌✅❌, Arizona Cardinals ❌❌✅❌✅. H2H 20 desde 2016: 15-5. Bajas Seattle Seahawks: Sam Darnold lesionado; Rashid Shaheed duda; Quenton Nelson duda; Anthony Bradford duda; Connor O'Toole duda; Jalen Milroe duda; Drew Lock duda; Ernest Jones IV duda; Tory Horton duda; George Holani duda; Emanuel Wilson duda; Velus Jones Jr. duda; Charles Cross duda; Beau Stephens duda; AJ Barner duda; Zach Charbonnet duda; Cooper Kupp duda; Jason Myers duda; Jadarian Price duda; Jaxon Smith-Njigba duda; Leonard Williams duda; Brandon Pili duda; Uchenna Nwosu duda; Patrick O'Connell duda; Tyrice Knight duda. Bajas Arizona Cardinals: Michael Wilson duda; Bam Knight duda; Isaiah Adams lesionado; Jacoby Brissett duda; Elijah Higgins duda; Reggie Virgil duda; Devin Duvernay duda; Simi Fehoko duda; James Conner lesionado; Tyler Allgeier duda; Harrison Wallace III duda; Jeremiyah Love lesionado; Kendrick Bourne lesionado; Walter Nolen III duda; Jon Gaines II duda; Chad Ryland duda; Carson Beck duda; Gardner Minshew II duda; Evan Hull duda; Eku Leota duda; Starling Thomas V duda; Albert Reese IV duda; Trey McBride duda; Jayden Williams duda; Max Melton duda.",
    "captured": "2026-11-06T00:16",
    "version": "d8ca472",
@@ -45336,20 +45222,6 @@
    "start": "2026-11-08T21:22:00+00:00",
    "league": "🎮⚽ FC 27 · Portugal Primera",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 61.067 partidos)",
-    "Goles esperados: KravaRK 2.88 · curuza 3.04",
-    "Ganador: KravaRK 38% · empate 20% · curuza 42%",
-    "Total: más de 5.5 goles 54% · menos 46%",
-    "Hándicap curuza: −1.5 29% · −2.5 16%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: KravaRK ❌➖❌❌❌ | curuza ✅✅➖✅✅",
-    "• Partidos: KravaRK 356 | curuza 793",
-    "• Liga: Portugal Primera",
-    "• Unibet: 1 1.60 · X 5.00 · 2 3.20 (sin margen 55%/18%/27%) · ventaja +35%. Sin stake hasta demostrar ROI con estas cuotas.",
-    "• En España: LeoVegas España 3.20 (+35%) · Paf España 3.20 (+35%)"
-   ],
    "context": "EA FC Esoccer Battle KravaRK vs curuza (Portugal Primera): goles esperados 2.88-3.04, 1X2 38%/20%/42%. Sin cuotas de casa.",
    "captured": "2026-11-08T21:20",
    "version": "7e81497",
@@ -45371,20 +45243,6 @@
    "start": "2026-11-08T21:31:00+00:00",
    "league": "🎮⚽ FC 27 · World Cup A",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 61.067 partidos)",
-    "Goles esperados: noeN 3.51 · ssstasonn 2.25",
-    "Ganador: noeN 65% · empate 17% · ssstasonn 18%",
-    "Total: más de 5.5 goles 52% · menos 48%",
-    "Hándicap noeN: −1.5 45% · −2.5 29%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: noeN ✅❌✅➖❌ | ssstasonn ❌❌❌❌✅",
-    "• Partidos: noeN 851 | ssstasonn 967",
-    "• Liga: World Cup A",
-    "• Unibet: 1 1.20 · X 8.00 · 2 5.25 (sin margen 73%/11%/17%) · ventaja +33%. Sin stake hasta demostrar ROI con estas cuotas.",
-    "• En España: LeoVegas España 8.00 (+33%) · Paf España 8.00 (+33%)"
-   ],
    "context": "EA FC Esoccer Battle noeN vs ssstasonn (World Cup A): goles esperados 3.51-2.25, 1X2 65%/17%/18%. Sin cuotas de casa.",
    "captured": "2026-11-08T21:20",
    "version": "7e81497",
@@ -45411,6 +45269,41 @@
    "version": "7e81497",
    "bajas": "",
    "considered": true
+  },
+  {
+   "market": "A",
+   "pick": "tizzy",
+   "odds": 2.8,
+   "book": "Unibet",
+   "implied": 0.313,
+   "edge": 0.066,
+   "sin_stake": true,
+   "p": 0.381,
+   "key": "fc|2370711",
+   "match": "believer vs tizzy",
+   "start": "2026-11-08T21:43:00+00:00",
+   "league": "🎮⚽ FC 27 · World Cup A",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 61.078 partidos)",
+    "Goles esperados: believer 3.01 · tizzy 2.91",
+    "Ganador: believer 42% · empate 20% · tizzy 38%",
+    "Total: más de 5.5 goles 54% · menos 46%",
+    "Hándicap believer: −1.5 28% · −2.5 16%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: believer ✅✅✅❌✅ | tizzy ❌✅✅❌❌",
+    "• Partidos: believer 980 | tizzy 387",
+    "• Liga: World Cup A",
+    "• Unibet: 1 1.74 · X 4.75 · 2 2.80 (sin margen 50%/18%/31%) · ventaja +7%. Sin stake hasta demostrar ROI con estas cuotas.",
+    "• En España: LeoVegas España 2.80 (+7%) · Paf España 2.80 (+7%)"
+   ],
+   "context": "EA FC Esoccer Battle believer vs tizzy (World Cup A): goles esperados 3.01-2.91, 1X2 42%/20%/38%. Sin cuotas de casa.",
+   "captured": "2026-11-08T21:33",
+   "version": "7e81497",
+   "bajas": "",
+   "considered": true,
+   "placed": false
   }
  ],
  "bank": {
@@ -45945,114 +45838,6 @@
    "lines": [
     "🧩 Combinada: Gana Cleveland Browns + Menos de 42.5 puntos → prob. 22%, cuota justa 4.62",
     "🎯 No simulada (NFL): cuota DraftKings aprox. 4.51 (producto de piernas) · prob. 22% · ventaja -2%"
-   ]
-  },
-  "nfl|2026-11-08|Philadelphia Eagles|New York Giants": {
-   "match": "Philadelphia Eagles vs New York Giants",
-   "start": "2026-11-08T18:00Z",
-   "combos": [
-    {
-     "kind": "nfl",
-     "p": 0.218,
-     "odds": 4.47,
-     "edge": -0.026,
-     "legs": [
-      {
-       "var": "win_home",
-       "sign": 1,
-       "line": 0.0,
-       "p": 0.407,
-       "odds": 2.36,
-       "text": "Gana Philadelphia Eagles"
-      },
-      {
-       "var": "total_t",
-       "sign": 1,
-       "line": 38.5,
-       "p": 0.504,
-       "odds": 1.893,
-       "text": "Más de 38.5 puntos"
-      }
-     ],
-     "sim": false
-    }
-   ],
-   "priced": true,
-   "lines": [
-    "🧩 Combinada: Gana Philadelphia Eagles + Más de 38.5 puntos → prob. 22%, cuota justa 4.59",
-    "🎯 No simulada (NFL): cuota DraftKings aprox. 4.47 (producto de piernas) · prob. 22% · ventaja -3%"
-   ]
-  },
-  "nfl|2026-11-08|Washington Commanders|Los Angeles Rams": {
-   "match": "Washington Commanders vs Los Angeles Rams",
-   "start": "2026-11-08T18:00Z",
-   "combos": [
-    {
-     "kind": "nfl",
-     "p": 0.1764,
-     "odds": 5.56,
-     "edge": -0.019,
-     "legs": [
-      {
-       "var": "win_home",
-       "sign": 1,
-       "line": 0.0,
-       "p": 0.336,
-       "odds": 2.85,
-       "text": "Gana Washington Commanders"
-      },
-      {
-       "var": "total_t",
-       "sign": 1,
-       "line": 48.5,
-       "p": 0.489,
-       "odds": 1.952,
-       "text": "Más de 48.5 puntos"
-      }
-     ],
-     "sim": false
-    }
-   ],
-   "priced": true,
-   "lines": [
-    "🧩 Combinada: Gana Washington Commanders + Más de 48.5 puntos → prob. 18%, cuota justa 5.67",
-    "🎯 No simulada (NFL): cuota DraftKings aprox. 5.56 (producto de piernas) · prob. 18% · ventaja -2%"
-   ]
-  },
-  "nfl|2026-11-08|Carolina Panthers|Denver Broncos": {
-   "match": "Carolina Panthers vs Denver Broncos",
-   "start": "2026-11-08T18:00Z",
-   "combos": [
-    {
-     "kind": "nfl",
-     "p": 0.2144,
-     "odds": 4.55,
-     "edge": -0.024,
-     "legs": [
-      {
-       "var": "win_home",
-       "sign": 1,
-       "line": 0.0,
-       "p": 0.417,
-       "odds": 2.3,
-       "text": "Gana Carolina Panthers"
-      },
-      {
-       "var": "total_t",
-       "sign": 1,
-       "line": 44.5,
-       "p": 0.483,
-       "odds": 1.98,
-       "text": "Más de 44.5 puntos"
-      }
-     ],
-     "sim": false
-    }
-   ],
-   "priced": true,
-   "lines": [
-    "🧩 Combinada: Gana Carolina Panthers + Más de 44.5 puntos → prob. 21%, cuota justa 4.66",
-    "🎯 No simulada (NFL): cuota DraftKings aprox. 4.55 (producto de piernas) · prob. 21% · ventaja -2%"
    ]
   },
   "nfl|2026-11-08|Los Angeles Chargers|Houston Texans": {
@@ -55686,7 +55471,7 @@
   "SP2|2026-11-09|Sabadell|Sociedad B"
  ],
  "paper_sent": "2026-11-08T16:38:12.187287+00:00",
- "sgp_res_n": 222,
+ "sgp_res_n": 225,
  "nba_props_ok": [
   "nba|2026-11-05|Detroit Pistons|Philadelphia 76ers",
   "nba|2026-11-05|Washington Wizards|Atlanta Hawks",
