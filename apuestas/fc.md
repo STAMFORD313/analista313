@@ -1,59 +1,42 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 08/11/2026 03:01 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 08/11/2026 03:33 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## zaha vs k0mych — 08/11 · 03:08
+## tizzy vs believer — 08/11 · 03:39
 
-👀 candidata · 🎮⚽ FC 27 · LaLiga 2x6 · **Gana zaha** @ **1.24** (cuota justa (sin casa)) · prob 80% vs casas 80% · ventaja +0%
+👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana tizzy** @ **3.00** (Unibet) · prob 39% vs casas 29% · ventaja +18%
 
-- ❌ Valor: ventaja +0% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 60.031 partidos)  
-Goles esperados: zaha 6.33 · k0mych 3.52  
-Ganador: zaha 80% · empate 9% · k0mych 11%  
-Total: más de 9.5 goles 52% · menos 48%  
-Hándicap zaha: −1.5 66% · −2.5 53%  
-🔎 **Claves**  
-• Forma: zaha ❌✅✅✅➖ | k0mych ❌❌✅❌❌  
-• Partidos: zaha 342 | k0mych 348  
-• Liga: LaLiga 2x6  
-• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
-
-## Dov1n vs Lx7ss — 08/11 · 03:12
-
-👀 candidata · 🎮⚽ FC 27 · World Cup B · **Gana Lx7ss** @ **2.14** (Unibet) · prob 50% vs casas 41% · ventaja +6%
-
-- ❌ Valor: ventaja +6% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Valor: ventaja +18% (mín. 13% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 60.093 partidos)  
-Goles esperados: Dov1n 3.20 · Lx7ss 3.75  
-Ganador: Dov1n 31% · empate 20% · Lx7ss 50%  
-Total: más de 6.5 goles 54% · menos 46%  
-Hándicap Lx7ss: −1.5 35% · −2.5 22%  
+📊 **Escenarios** (Poisson por jugador, 60.114 partidos)  
+Goles esperados: tizzy 3.08 · believer 3.00  
+Ganador: tizzy 39% · empate 21% · believer 39%  
+Total: más de 6.5 goles 41% · menos 59%  
+Hándicap tizzy: −1.5 28% · −2.5 16%  
 🔎 **Claves**  
-• Forma: Dov1n ❌✅✅✅➖ | Lx7ss ✅✅✅❌❌  
-• Partidos: Dov1n 1003 | Lx7ss 1011  
-• Liga: World Cup B  
-• Unibet: 1 2.17 · X 4.60 · 2 2.14 (sin margen 40%/19%/41%) · ventaja +6%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.14 (+6%) · Paf España 2.14 (+6%)  
-
-## ssstasonn vs tizzy — 08/11 · 03:15
-
-👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana tizzy** @ **1.13** (cuota justa (sin casa)) · prob 89% vs casas 89% · ventaja +0%
-
-- ❌ Valor: ventaja +0% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 60.031 partidos)  
-Goles esperados: ssstasonn 2.01 · tizzy 5.57  
-Ganador: ssstasonn 4% · empate 7% · tizzy 89%  
-Total: más de 7.5 goles 49% · menos 51%  
-Hándicap tizzy: −1.5 77% · −2.5 64%  
-🔎 **Claves**  
-• Forma: ssstasonn ❌❌❌❌❌ | tizzy ✅❌❌✅✅  
-• Partidos: ssstasonn 947 | tizzy 366  
+• Forma: tizzy ✅✅✅✅✅ | believer ➖✅❌➖✅  
+• Partidos: tizzy 374 | believer 968  
 • Liga: Champions League B  
-• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
+• Unibet: 1 3.00 · X 5.00 · 2 1.65 (sin margen 29%/18%/53%) · ventaja +18%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 3.00 (+18%) · Paf España 3.00 (+18%)  
+
+## hrk vs kirman — 08/11 · 03:40
+
+👀 candidata · 🎮⚽ FC 27 · Champions League A · **Gana kirman** @ **2.75** (Unibet) · prob 46% vs casas 32% · ventaja +27%
+
+- ✅ Valor: ventaja +27% (mín. 15% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 60.114 partidos)  
+Goles esperados: hrk 2.88 · kirman 3.21  
+Ganador: hrk 33% · empate 20% · kirman 46%  
+Total: más de 6.5 goles 41% · menos 59%  
+Hándicap kirman: −1.5 31% · −2.5 18%  
+🔎 **Claves**  
+• Forma: hrk ❌❌➖✅✅ | kirman ✅✅✅✅❌  
+• Partidos: hrk 781 | kirman 625  
+• Liga: Champions League A  
+• Unibet: 1 1.85 · X 4.20 · 2 2.75 (sin margen 47%/21%/32%) · ventaja +27%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.75 (+27%) · Paf España 2.75 (+27%)  
 
