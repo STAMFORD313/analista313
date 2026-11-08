@@ -1,24 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 08/11/2026 08:31 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Chiba vs Mito — 08/11 · 09:00
-
-👀 candidata · 🇯🇵 J1 League · **Gana Mito** @ **3.60** (Bet365) · prob 26% vs casas 26% · ventaja -6%
-
-- ❌ Valor: ventaja -6% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.75 - 0.96)  
-1 49% · X 26% · 2 25%  
-1X 75% · X2 51% · 12 74%  
-+1.5 76% · +2.5 51% · +3.5 29% · Ambos marcan 52%  
-Marcadores: 1-1 12% · 1-0 11% · 2-0 10% · 2-1 10%  
-🔎 **Claves**  
-• Forma: Chiba ➖➖❌➖✅ | Mito ❌❌❌❌❌  
-• H2H: sin precedentes  
-• Bajas: Chiba: sin bajas; Mito: sin bajas  
-• Favorito de las casas: Chiba @ 1.96  
+Actualizado 08/11/2026 09:02 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Rizespor vs Erzurumspor — 08/11 · 11:30
 

@@ -1,44 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 08/11/2026 08:31 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Edwardson vs Artrom — 08/11 · 08:36
-
-👀 candidata · 🎮⚽ FC 27 · Europa League · **Gana Artrom** @ **4.30** (Unibet) · prob 31% vs casas 20% · ventaja +35%
-
-- ❌ Valor: ventaja +35% (mín. 17% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 60.342 partidos)  
-Goles esperados: Edwardson 1.88 · Artrom 1.67  
-Ganador: Edwardson 41% · empate 28% · Artrom 31%  
-Total: más de 3.5 goles 48% · menos 52%  
-Hándicap Edwardson: −1.5 24% · −2.5 11%  
-🔎 **Claves**  
-• Forma: Edwardson ➖➖➖➖✅ | Artrom ❌✅➖➖➖  
-• Partidos: Edwardson 1167 | Artrom 588  
-• Liga: Europa League  
-• Unibet: 1 1.65 · X 3.30 · 2 4.30 (sin margen 53%/27%/20%) · ventaja +35%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 4.30 (+35%) · Paf España 4.30 (+35%)  
-
-## Jekunam vs dm1trena — 08/11 · 08:36
-
-👀 candidata · 🎮⚽ FC 27 · Europa League · **Gana dm1trena** @ **3.80** (Unibet) · prob 31% vs casas 23% · ventaja +18%
-
-- ✅ Valor: ventaja +18% (mín. 13% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 60.342 partidos)  
-Goles esperados: Jekunam 2.73 · dm1trena 2.38  
-Ganador: Jekunam 46% · empate 22% · dm1trena 31%  
-Total: más de 5.5 goles 40% · menos 60%  
-Hándicap Jekunam: −1.5 30% · −2.5 16%  
-🔎 **Claves**  
-• Forma: Jekunam ➖❌❌✅❌ | dm1trena ✅❌✅➖➖  
-• Partidos: Jekunam 1023 | dm1trena 1042  
-• Liga: Europa League  
-• Unibet: 1 1.71 · X 3.40 · 2 3.80 (sin margen 51%/26%/23%) · ventaja +18%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 3.80 (+18%) · Paf España 3.80 (+18%)  
+Actualizado 08/11/2026 09:02 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Tesla vs Pavlinho19 — 08/11 · 09:04
 
@@ -58,4 +20,61 @@ Hándicap Tesla: −1.5 37% · −2.5 23%
 • Liga: Ligue 1  
 • Unibet: 1 2.38 · X 3.25 · 2 2.35 (sin margen 36%/27%/37%) · ventaja +25%. Sin stake hasta demostrar ROI con estas cuotas.  
 • En España: LeoVegas España 2.38 (+25%) · Paf España 2.38 (+25%)  
+
+## Artrom vs MeLToSik — 08/11 · 09:22
+
+👀 candidata · 🎮⚽ FC 27 · Champions League AFC · **Gana MeLToSik** @ **2.40** (Unibet) · prob 46% vs casas 36% · ventaja +10%
+
+- ❌ Valor: ventaja +10% (mín. 11% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 60.368 partidos)  
+Goles esperados: Artrom 1.64 · MeLToSik 2.00  
+Ganador: Artrom 28% · empate 27% · MeLToSik 46%  
+Total: más de 3.5 goles 49% · menos 51%  
+Hándicap MeLToSik: −1.5 26% · −2.5 12%  
+🔎 **Claves**  
+• Forma: Artrom ➖➖➖❌❌ | MeLToSik ❌➖➖✅❌  
+• Partidos: Artrom 590 | MeLToSik 1133  
+• Liga: Champions League AFC  
+• Unibet: 1 2.25 · X 3.35 · 2 2.40 (sin margen 38%/26%/36%) · ventaja +10%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.40 (+10%) · Paf España 2.40 (+10%)  
+
+## MeLToSik vs dm1trena — 08/11 · 09:34
+
+👀 candidata · 🎮⚽ FC 27 · Champions League AFC · **Gana MeLToSik** @ **2.85** (Unibet) · prob 41% vs casas 30% · ventaja +18%
+
+- ✅ Valor: ventaja +18% (mín. 13% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 60.368 partidos)  
+Goles esperados: MeLToSik 2.34 · dm1trena 2.27  
+Ganador: MeLToSik 41% · empate 24% · dm1trena 35%  
+Total: más de 4.5 goles 49% · menos 51%  
+Hándicap MeLToSik: −1.5 25% · −2.5 12%  
+🔎 **Claves**  
+• Forma: MeLToSik ❌➖➖✅❌ | dm1trena ➖➖❌➖➖  
+• Partidos: MeLToSik 1133 | dm1trena 1045  
+• Liga: Champions League AFC  
+• Unibet: 1 2.85 · X 3.35 · 2 2.00 (sin margen 31%/26%/44%) · ventaja +18%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.85 (+18%) · Paf España 2.85 (+18%)  
+
+## Jekunam vs Artrom — 08/11 · 09:34
+
+👀 candidata · 🎮⚽ FC 27 · Champions League AFC · **Empate** @ **4.60** (Unibet) · prob 25% vs casas 19% · ventaja +14%
+
+- ✅ Valor: ventaja +14% (mín. 11% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 60.368 partidos)  
+Goles esperados: Jekunam 2.29 · Artrom 1.66  
+Ganador: Jekunam 50% · empate 25% · Artrom 25%  
+Total: más de 3.5 goles 56% · menos 44%  
+Hándicap Jekunam: −1.5 32% · −2.5 16%  
+🔎 **Claves**  
+• Forma: Jekunam ✅❌✅➖✅ | Artrom ➖➖➖❌❌  
+• Partidos: Jekunam 1026 | Artrom 590  
+• Liga: Champions League AFC  
+• Unibet: 1 1.64 · X 4.60 · 2 3.20 (sin margen 54%/19%/27%) · ventaja +14%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 4.60 (+14%) · Paf España 4.60 (+14%)  
 

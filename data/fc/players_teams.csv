@@ -60365,16 +60365,16 @@ id,tournament_id,club1,club2,ht1,ht2
 2369097,261349,Salzburg,Fenerbahce,,
 2369098,261349,Roma,Salzburg,,
 2369099,261349,Aston Villa,Porto,,
-2368505,261309,Nottm Forest,Aston Villa,2,1
-2369988,261309,Newcastle,Brighton,2,0
-2369989,261309,Newcastle,Nottm Forest,2,3
-2369990,261309,Brighton,Aston Villa,0,1
-2369991,261309,Aston Villa,Newcastle,0,2
-2369992,261309,Brighton,Nottm Forest,1,5
-2369993,261309,Nottm Forest,Aston Villa,1,2
-2369994,261309,Newcastle,Brighton,1,1
-2369995,261309,Newcastle,Nottm Forest,2,1
-2369996,261309,Brighton,Aston Villa,2,0
+2368505,261309,Nottm Forest,Aston Villa,2.0,1.0
+2369988,261309,Newcastle,Brighton,2.0,0.0
+2369989,261309,Newcastle,Nottm Forest,2.0,3.0
+2369990,261309,Brighton,Aston Villa,0.0,1.0
+2369991,261309,Aston Villa,Newcastle,0.0,2.0
+2369992,261309,Brighton,Nottm Forest,1.0,5.0
+2369993,261309,Nottm Forest,Aston Villa,1.0,2.0
+2369994,261309,Newcastle,Brighton,1.0,1.0
+2369995,261309,Newcastle,Nottm Forest,2.0,1.0
+2369996,261309,Brighton,Aston Villa,2.0,0.0
 2369997,261309,Aston Villa,Newcastle,,
 2369998,261309,Brighton,Nottm Forest,,
 2369999,261309,Nottm Forest,Aston Villa,,
