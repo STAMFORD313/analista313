@@ -1,6 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 08/11/2026 12:37 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 08/11/2026 13:07 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Club Brugge vs Anderlecht — 08/11 · 13:30
 
