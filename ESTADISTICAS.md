@@ -1,6 +1,6 @@
 # Estadísticas del bot
 
-Actualizado: 08/11/2026 01:23
+Actualizado: 08/11/2026 01:53
 
 **Ganadas 11 / perdidas 19** (37 % acierto) · beneficio -17.17 $ · ROI -30.9 % · banca 82.83 $
 
@@ -29,11 +29,11 @@ Si el bot está bien calibrado, el acierto real se parece a la prob. media. Brie
 
 | Prob. bot | Señales | Prob. media | Acierto real | Brier bot | Brier casas | ROI a 1 u. |
 |---|---|---|---|---|---|---|
-| 0%-40% | 369 | 27% | 19% | 0.161 | 0.153 | -20.3 % |
-| 40%-55% | 428 | 48% | 44% | 0.243 | 0.237 | -8.1 % |
-| 55%-70% | 436 | 63% | 60% | 0.240 | 0.241 | -4.8 % |
-| 70%-100% | 304 | 79% | 81% | 0.150 | 0.154 | -1.5 % |
-| Total | 1537 | 53% | 50% | 0.204 | 0.202 | -8.8 % |
+| 0%-40% | 370 | 27% | 19% | 0.161 | 0.153 | -20.6 % |
+| 40%-55% | 447 | 48% | 45% | 0.243 | 0.238 | -7.7 % |
+| 55%-70% | 438 | 63% | 59% | 0.241 | 0.242 | -5.2 % |
+| 70%-100% | 310 | 79% | 81% | 0.150 | 0.153 | -1.5 % |
+| Total | 1565 | 53% | 50% | 0.205 | 0.202 | -8.8 % |
 
 ### Por deporte y mercado (cada modelo se evalúa por separado)
 
@@ -55,16 +55,16 @@ Si el bot está bien calibrado, el acierto real se parece a la prob. media. Brie
 | 🏀 | goles/totales | 5 | 51% | 80% | 0.239 | 0.251 | +52.7 % |
 | 🏀 | hándicap | 2 | 51% | 0% | 0.258 | 0.258 | -100.0 % |
 | 🏆 | ganador | 36 | 53% | 53% | 0.221 | 0.221 | -7.7 % |
-| 🏈 | ganador | 36 | 59% | 47% | 0.212 | 0.209 | -27.2 % |
-| 🏈 | goles/totales | 33 | 51% | 55% | 0.252 | 0.247 | +3.6 % |
-| 🏈 | hándicap | 31 | 50% | 35% | 0.253 | 0.247 | -32.0 % |
+| 🏈 | ganador | 45 | 61% | 49% | 0.208 | 0.205 | -27.1 % |
+| 🏈 | goles/totales | 42 | 51% | 55% | 0.252 | 0.248 | +4.2 % |
+| 🏈 | hándicap | 40 | 50% | 38% | 0.253 | 0.248 | -28.0 % |
 | 🏒 | ganador | 6 | 51% | 50% | 0.258 | 0.267 | +0.1 % |
 | 🏒 | goles/totales | 6 | 54% | 83% | 0.200 | 0.217 | +50.6 % |
 | 🐉 | ganador | 10 | 52% | 70% | 0.176 | 0.223 | +50.2 % |
 | 🐉 | hándicap | 2 | 51% | 50% | 0.079 | 0.142 | -12.0 % |
 | 📱 | ganador | 3 | 52% | 33% | 0.180 | 0.171 | -51.3 % |
 | 🔫 | ganador | 7 | 55% | 43% | 0.233 | 0.229 | -29.4 % |
-| 🧙 | ganador | 4 | 71% | 75% | 0.098 | 0.108 | -6.2 % |
+| 🧙 | ganador | 5 | 72% | 80% | 0.090 | 0.095 | -1.6 % |
 
 **CLV de lo apostado** (cuota cogida vs cierre; positivo = se gana al mercado): ⚽ +2.5 % (8) · ⚽💎 -6.7 % (1)
 

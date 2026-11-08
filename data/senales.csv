@@ -1615,3 +1615,31 @@ fecha,deporte,mercado,p,implied,odds,edge,gano,retorno,clv,apostada,ia,ia_aposta
 2026-11-07,⚽,corners_a_u,0.461,0.442,2.08,-0.04,1,2.08,,0,,,2026-11-06T20:25,dc22cba,"Valencia: 3 fuera, 1 duda (Jose Copete, Diego Lopez, Sergi Canos); Real Madrid: 2 fuera, 2 duda (Vinicius Junior, Rodrygo)",Unibet
 2026-11-07,⚽,corners_t_u,0.678,0.659,1.4,-0.051,1,1.4,,0,,,2026-11-06T20:25,dc22cba,"Valencia: 3 fuera, 1 duda (Jose Copete, Diego Lopez, Sergi Canos); Real Madrid: 2 fuera, 2 duda (Vinicius Junior, Rodrygo)",Unibet
 2026-11-07,⚽,corners_t_o,0.836,0.824,1.11,-0.072,1,1.11,,0,,,2026-11-06T20:25,dc22cba,"Valencia: 3 fuera, 1 duda (Jose Copete, Diego Lopez, Sergi Canos); Real Madrid: 2 fuera, 2 duda (Vinicius Junior, Rodrygo)",Unibet
+2026-11-07,🏈,over,0.5,0.5,1.909,-0.045,1,1.909,,0,,,2026-11-05T00:12,5d2adff,Ohio State Buckeyes: sin bajas; Oregon Ducks: sin bajas,DraftKings
+2026-11-07,🏈,sph,0.5,0.5,1.909,-0.045,0,0.0,-0.037,0,,,2026-11-05T00:12,5d2adff,Ohio State Buckeyes: sin bajas; Oregon Ducks: sin bajas,DraftKings
+2026-11-07,🏈,home,0.722,0.722,1.328,-0.041,0,0.0,-0.033,0,,,2026-11-05T00:12,5d2adff,Ohio State Buckeyes: sin bajas; Oregon Ducks: sin bajas,DraftKings
+2026-11-07,🏈,over,0.5,0.5,1.909,-0.045,0,0.0,,0,,,2026-11-05T00:12,5d2adff,Houston Cougars: sin bajas; Cincinnati Bearcats: sin bajas,DraftKings
+2026-11-07,🏈,sph,0.504,0.504,1.893,-0.045,0,0.0,,0,,,2026-11-05T00:12,5d2adff,Houston Cougars: sin bajas; Cincinnati Bearcats: sin bajas,DraftKings
+2026-11-07,🏈,home,0.782,0.782,1.227,-0.041,1,1.227,-0.063,0,,,2026-11-05T00:12,5d2adff,Houston Cougars: sin bajas; Cincinnati Bearcats: sin bajas,DraftKings
+2026-11-07,🏈,over,0.496,0.496,1.926,-0.045,1,1.926,,0,,,2026-11-05T00:12,5d2adff,Middle Tennessee Blue Raiders: sin bajas; Western Kentucky Hilltoppers: sin bajas,DraftKings
+2026-11-07,🏈,sph,0.517,0.517,1.847,-0.044,1,1.847,,0,,,2026-11-05T00:12,5d2adff,Middle Tennessee Blue Raiders: sin bajas; Western Kentucky Hilltoppers: sin bajas,DraftKings
+2026-11-07,🏈,home,0.496,0.496,1.926,-0.045,1,1.926,0.273,0,,,2026-11-05T00:12,5d2adff,Middle Tennessee Blue Raiders: sin bajas; Western Kentucky Hilltoppers: sin bajas,DraftKings
+2026-11-07,🏈,over,0.489,0.489,1.952,-0.045,1,1.952,,0,,,2026-11-05T00:12,5d2adff,Kansas Jayhawks: sin bajas; UCF Knights: sin bajas,DraftKings
+2026-11-07,🏈,sph,0.5,0.5,1.909,-0.045,0,0.0,,0,,,2026-11-05T00:12,5d2adff,Kansas Jayhawks: sin bajas; UCF Knights: sin bajas,DraftKings
+2026-11-07,🏈,home,0.572,0.572,1.676,-0.041,0,0.0,,0,,,2026-11-05T00:12,5d2adff,Kansas Jayhawks: sin bajas; UCF Knights: sin bajas,DraftKings
+2026-11-07,🏈,over,0.504,0.504,1.893,-0.045,1,1.893,,0,,,2026-11-05T00:12,5d2adff,"North Texas Mean Green: sin bajas; Rice Owls: 0 fuera, 1 duda",DraftKings
+2026-11-07,🏈,sph,0.483,0.483,1.98,-0.044,1,1.98,,0,,,2026-11-05T00:12,5d2adff,"North Texas Mean Green: sin bajas; Rice Owls: 0 fuera, 1 duda",DraftKings
+2026-11-07,🏈,home,0.863,0.863,1.111,-0.041,1,1.111,-0.057,0,,,2026-11-05T00:12,5d2adff,"North Texas Mean Green: sin bajas; Rice Owls: 0 fuera, 1 duda",DraftKings
+2026-11-07,🏈,over,0.517,0.517,1.847,-0.044,0,0.0,,0,,,2026-11-05T00:12,5d2adff,San José State Spartans: sin bajas; Northern Illinois Huskies: sin bajas,DraftKings
+2026-11-07,🏈,sph,0.5,0.5,1.909,-0.045,1,1.909,,0,,,2026-11-05T00:12,5d2adff,San José State Spartans: sin bajas; Northern Illinois Huskies: sin bajas,DraftKings
+2026-11-07,🏈,home,0.766,0.766,1.253,-0.04,1,1.253,-0.012,0,,,2026-11-05T00:12,5d2adff,San José State Spartans: sin bajas; Northern Illinois Huskies: sin bajas,DraftKings
+2026-11-07,🏈,over,0.496,0.496,1.926,-0.045,1,1.926,-0.014,0,,,2026-11-05T00:12,5d2adff,Troy Trojans: sin bajas; Louisiana Tech Bulldogs: sin bajas,DraftKings
+2026-11-07,🏈,sph,0.5,0.5,1.909,-0.045,0,0.0,,0,,,2026-11-05T00:12,5d2adff,Troy Trojans: sin bajas; Louisiana Tech Bulldogs: sin bajas,DraftKings
+2026-11-07,🏈,home,0.363,0.363,2.64,-0.041,0,0.0,-0.2,0,,,2026-11-05T00:12,5d2adff,Troy Trojans: sin bajas; Louisiana Tech Bulldogs: sin bajas,DraftKings
+2026-11-07,🏈,over,0.496,0.496,1.926,-0.045,0,0.0,-0.037,0,,,2026-11-05T00:12,5d2adff,Mississippi State Bulldogs: sin bajas; Vanderbilt Commodores: sin bajas,DraftKings
+2026-11-07,🏈,sph,0.496,0.496,1.926,-0.045,0,0.0,-0.064,0,,,2026-11-05T00:12,5d2adff,Mississippi State Bulldogs: sin bajas; Vanderbilt Commodores: sin bajas,DraftKings
+2026-11-07,🏈,home,0.583,0.583,1.645,-0.041,0,0.0,-0.056,0,,,2026-11-05T00:12,5d2adff,Mississippi State Bulldogs: sin bajas; Vanderbilt Commodores: sin bajas,DraftKings
+2026-11-07,🏈,over,0.496,0.496,1.926,-0.045,0,0.0,,0,,,2026-11-05T00:12,5d2adff,Wisconsin Badgers: sin bajas; Rutgers Scarlet Knights: sin bajas,DraftKings
+2026-11-07,🏈,sph,0.483,0.483,1.98,-0.044,1,1.98,,0,,,2026-11-05T00:12,5d2adff,Wisconsin Badgers: sin bajas; Rutgers Scarlet Knights: sin bajas,DraftKings
+2026-11-07,🏈,home,0.863,0.863,1.111,-0.041,1,1.111,-0.022,0,,,2026-11-05T00:12,5d2adff,Wisconsin Badgers: sin bajas; Rutgers Scarlet Knights: sin bajas,DraftKings
+2026-11-07,🧙,t1,0.767,0.79,1.17,-0.102,1,1.17,-0.052,0,,,2026-11-06T10:09,bbe38c6,,Thunderpick

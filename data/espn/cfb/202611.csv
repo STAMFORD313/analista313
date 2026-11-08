@@ -15,7 +15,9 @@ id,date,event,home,away,hs,as,res
 401856740,2026-11-07T20:30Z,Alabama Crimson Tide at LSU Tigers,LSU Tigers,Alabama Crimson Tide,13,31,0.0
 401856743,2026-11-07T17:00Z,Texas Longhorns at Missouri Tigers,Missouri Tigers,Texas Longhorns,20,34,0.0
 401858512,2026-11-07T17:00Z,UCLA Bruins at Minnesota Golden Gophers,Minnesota Golden Gophers,UCLA Bruins,20,34,0.0
+401858514,2026-11-07T20:30Z,Oregon Ducks at Ohio State Buckeyes,Ohio State Buckeyes,Oregon Ducks,28,41,0.0
 401858290,2026-11-07T20:30Z,Merrimack Warriors at Wake Forest Demon Deacons,Wake Forest Demon Deacons,Merrimack Warriors,77,0,1.0
+401856851,2026-11-07T20:30Z,Cincinnati Bearcats at Houston Cougars,Houston Cougars,Cincinnati Bearcats,31,24,1.0
 401856744,2026-11-07T20:00Z,Texas A&M Aggies at South Carolina Gamecocks,South Carolina Gamecocks,Texas A&M Aggies,17,9,1.0
 401856853,2026-11-07T17:00Z,Iowa State Cyclones at Baylor Bears,Baylor Bears,Iowa State Cyclones,42,31,1.0
 401858285,2026-11-07T17:00Z,Clemson Tigers at Syracuse Orange,Syracuse Orange,Clemson Tigers,13,18,0.0
@@ -34,3 +36,10 @@ id,date,event,home,away,hs,as,res
 401862819,2026-11-07T20:30Z,Charlotte 49ers at UAB Blazers,UAB Blazers,Charlotte 49ers,23,12,1.0
 401862820,2026-11-07T20:30Z,Temple Owls at Navy Midshipmen,Navy Midshipmen,Temple Owls,42,35,1.0
 401869951,2026-11-07T20:30Z,Marshall Thundering Herd at Georgia Southern Eagles,Georgia Southern Eagles,Marshall Thundering Herd,49,13,1.0
+401871076,2026-11-07T20:30Z,Western Kentucky Hilltoppers at Middle Tennessee Blue Raiders,Middle Tennessee Blue Raiders,Western Kentucky Hilltoppers,51,42,1.0
+401856850,2026-11-07T20:45Z,UCF Knights at Kansas Jayhawks,Kansas Jayhawks,UCF Knights,32,33,0.0
+401862821,2026-11-07T21:00Z,Rice Owls at North Texas Mean Green,North Texas Mean Green,Rice Owls,52,23,1.0
+401864534,2026-11-07T21:00Z,Northern Illinois Huskies at San José State Spartans,San José State Spartans,Northern Illinois Huskies,30,19,1.0
+401871098,2026-11-07T21:00Z,Louisiana Tech Bulldogs at Troy Trojans,Troy Trojans,Louisiana Tech Bulldogs,17,41,0.0
+401856742,2026-11-07T21:15Z,Vanderbilt Commodores at Mississippi State Bulldogs,Mississippi State Bulldogs,Vanderbilt Commodores,23,25,0.0
+401858517,2026-11-07T21:15Z,Rutgers Scarlet Knights at Wisconsin Badgers,Wisconsin Badgers,Rutgers Scarlet Knights,31,10,1.0

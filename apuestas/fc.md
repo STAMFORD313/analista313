@@ -1,6 +1,25 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 08/11/2026 01:23 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 08/11/2026 01:53 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+
+## Dov1n vs vivienne — 08/11 · 02:00
+
+👀 candidata · 🎮⚽ FC 27 · World Cup B · **Empate** @ **5.20** (Unibet) · prob 21% vs casas 17% · ventaja +10%
+
+- ❌ Valor: ventaja +10% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 60.053 partidos)  
+Goles esperados: Dov1n 3.08 · vivienne 3.23  
+Ganador: Dov1n 36% · empate 21% · vivienne 43%  
+Total: más de 6.5 goles 44% · menos 56%  
+Hándicap vivienne: −1.5 29% · −2.5 17%  
+🔎 **Claves**  
+• Forma: Dov1n ❌❌❌❌✅ | vivienne ✅✅✅❌✅  
+• Partidos: Dov1n 1000 | vivienne 797  
+• Liga: World Cup B  
+• Unibet: 1 2.06 · X 5.20 · 2 2.16 (sin margen 43%/17%/41%) · ventaja +10%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 5.20 (+10%) · Paf España 5.20 (+10%)  
 
 ## tizzy vs ssstasonn — 08/11 · 02:15
 
