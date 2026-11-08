@@ -12,20 +12,20 @@
   },
   "tiros_puerta": {
    "ll": 0.4735,
-   "ll_media": 0.5605,
+   "ll_media": 0.5606,
    "ll_propia": 0.516,
    "se_propia": 0.0008
   },
   "cards": {
-   "ll": 0.4142,
-   "ll_media": 0.4241,
-   "ll_propia": 0.4355,
+   "ll": 0.4143,
+   "ll_media": 0.4242,
+   "ll_propia": 0.4357,
    "se_propia": 0.0006
   },
   "asist": {
    "ll": 0.2357,
    "ll_media": 0.2497,
-   "ll_propia": 0.244,
+   "ll_propia": 0.2439,
    "se_propia": 0.0004
   }
  }
