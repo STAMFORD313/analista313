@@ -1,6 +1,6 @@
 # 🧙 LoL · apuestas de valor
 
-Actualizado 08/11/2026 23:45 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 09/11/2026 00:09 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## FENNEL vs Nothin'Here — 10/11 · 06:00
 

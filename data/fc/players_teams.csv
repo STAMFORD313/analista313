@@ -61161,14 +61161,14 @@ id,tournament_id,club1,club2,ht1,ht2
 2368841,261328,River Plate,Boca Juniors,,
 2368842,261328,Racing Club,Boca Juniors,,
 2368843,261328,Racing Club,River Plate,,
-2368684,261316,Morocco,Czechia,2,1
-2368685,261316,Netherlands,Germany,2,0
-2368686,261316,Germany,Morocco,1,2
-2368687,261316,Czechia,Norway,0,1
-2368688,261316,Norway,Germany,0,4
-2368689,261316,Morocco,Netherlands,2,1
-2368690,261316,Netherlands,Norway,0,1
-2368691,261316,Germany,Czechia,2,1
+2368684,261316,Morocco,Czechia,2.0,1.0
+2368685,261316,Netherlands,Germany,2.0,0.0
+2368686,261316,Germany,Morocco,1.0,2.0
+2368687,261316,Czechia,Norway,0.0,1.0
+2368688,261316,Norway,Germany,0.0,4.0
+2368689,261316,Morocco,Netherlands,2.0,1.0
+2368690,261316,Netherlands,Norway,0.0,1.0
+2368691,261316,Germany,Czechia,2.0,1.0
 2368692,261316,Czechia,Netherlands,,
 2368693,261316,Norway,Morocco,,
 2368694,261316,Czechia,Morocco,,
