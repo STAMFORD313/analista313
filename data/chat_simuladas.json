@@ -1641,5 +1641,47 @@
   "estado": "pendiente",
   "avisada": false,
   "rev": 1
+ },
+ {
+  "id": "20261108085551544661",
+  "creada": "2026-11-08 08:55:51.544706+00:00",
+  "titulo": "Barrido · Combinada cuota 7.6",
+  "legs": [
+   {
+    "code": null,
+    "start": "2026-11-08 14:30:00+00:00",
+    "home": "Hebar",
+    "away": "Marek Dupnitsa",
+    "txt": "Gana Hebar",
+    "odds": 1.85,
+    "p": 0.5622
+   },
+   {
+    "code": null,
+    "start": "2026-11-08 18:00:00+00:00",
+    "home": "Leones Negros UDeG",
+    "away": "Alacranes de Durango",
+    "txt": "Gana Leones Negros UDeG",
+    "odds": 2.08,
+    "p": 0.5051
+   },
+   {
+    "src": "esports:cs2",
+    "side": "A",
+    "code": null,
+    "start": "2026-11-09 19:00:00+00:00",
+    "home": "OldBoys FR",
+    "away": "TTG Esports",
+    "txt": "Gana TTG Esports",
+    "odds": 1.97,
+    "p": 0.531009475465313
+   }
+  ],
+  "odds": 7.58,
+  "p": 0.15078928454154314,
+  "stake": 1.0,
+  "estado": "pendiente",
+  "avisada": false,
+  "rev": 1
  }
 ]
