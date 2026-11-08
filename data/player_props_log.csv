@@ -9353,6 +9353,452 @@ fecha,partido,jugador,mercado,linea,cuota,p_casa,p_modelo,titular,valor,acierto
 2026-11-08,Alanyaspor vs Trabzonspor,Stefan Savić,To Score,0.5,9.0,0.1111,0.0534,1,0.0,0
 2026-11-08,Alanyaspor vs Trabzonspor,Iván Cédric,To Score,0.5,4.1,0.2439,0.0266,0,0.0,0
 2026-11-08,Alanyaspor vs Trabzonspor,Paul Onuachu,To Score,0.5,2.35,0.4255,0.3134,1,0.0,0
+2026-11-08,AZ Alkmaar vs Groningen,Tygo Land,To give an assist,0.5,7.5,0.1333,0.0186,0,0.0,0
+2026-11-08,AZ Alkmaar vs Groningen,Wouter Goes,To Score,0.5,7.0,0.1429,0.0246,1,0.0,0
+2026-11-08,AZ Alkmaar vs Groningen,Denso Kasius,Player's shots on target,0.5,3.2,0.3125,0.1006,0,0.0,0
+2026-11-08,AZ Alkmaar vs Groningen,Valdemar Byskov,To score at least 2 goals,1.5,25.0,0.04,0.0125,1,0.0,0
+2026-11-08,AZ Alkmaar vs Groningen,Thom van Bergen,To Score,0.5,3.1,0.3226,0.2649,1,1.0,1
+2026-11-08,AZ Alkmaar vs Groningen,Kees Smit,Player's shots on target,0.5,2.2,0.4545,0.1061,0,0.0,0
+2026-11-08,AZ Alkmaar vs Groningen,Bendegúz Kovács,To Score,0.5,2.1,0.4762,0.0277,0,0.0,0
+2026-11-08,AZ Alkmaar vs Groningen,Tika de Jonge,To Score,0.5,5.8,0.1724,0.0734,1,0.0,0
+2026-11-08,AZ Alkmaar vs Groningen,Pelle Clement,To Score,0.5,7.0,0.1429,0.0586,1,0.0,0
+2026-11-08,AZ Alkmaar vs Groningen,Pelle Clement,To score at least 2 goals,1.5,71.0,0.0141,0.0018,1,0.0,0
+2026-11-08,AZ Alkmaar vs Groningen,Thijmen Blokzijl,Player's shots on target,0.5,6.25,0.16,0.0605,1,0.0,0
+2026-11-08,AZ Alkmaar vs Groningen,Wesley Hoedt,Player's shots on target,0.5,4.0,0.25,0.131,1,0.0,0
+2026-11-08,AZ Alkmaar vs Groningen,Nils Eggens,To Score,0.5,3.3,0.303,0.0404,0,0.0,0
+2026-11-08,AZ Alkmaar vs Groningen,Elijah Dijkstra,To Score,0.5,5.75,0.1739,0.0164,1,0.0,0
+2026-11-08,AZ Alkmaar vs Groningen,Thom van Bergen,Player's shots on target,0.5,1.8,0.5556,0.6245,1,2.0,1
+2026-11-08,AZ Alkmaar vs Groningen,Hans Hateboer,To Score,0.5,12.0,0.0833,0.018,1,0.0,0
+2026-11-08,AZ Alkmaar vs Groningen,Denso Kasius,To give an assist,0.5,4.7,0.2128,0.0238,0,0.0,0
+2026-11-08,AZ Alkmaar vs Groningen,Jorg Schreuders,Player's shots on target,0.5,3.6,0.2778,0.3496,1,0.0,0
+2026-11-08,AZ Alkmaar vs Groningen,Wouter Goes,Player's shots on target,0.5,3.9,0.2564,0.0965,1,0.0,0
+2026-11-08,AZ Alkmaar vs Groningen,Calvin Stengs,Player's shots on target,0.5,1.67,0.5988,0.1144,0,0.0,0
+2026-11-08,AZ Alkmaar vs Groningen,Calvin Stengs,Player's shots on target,1.5,3.9,0.2564,0.0068,0,0.0,0
+2026-11-08,AZ Alkmaar vs Groningen,Bendegúz Kovács,Player's shots on target,2.5,4.8,0.2083,0.0002,0,0.0,0
+2026-11-08,AZ Alkmaar vs Groningen,Ayoub Oufkir,Player's shots on target,0.5,1.9,0.5263,0.4133,1,2.0,1
+2026-11-08,AZ Alkmaar vs Groningen,Dave Kwakman,To Get a Card,0.5,5.5,0.1818,0.0821,1,0.0,0
+2026-11-08,AZ Alkmaar vs Groningen,Tyrique Mercera,To Get a Card,0.5,4.4,0.2273,0.0434,0,0.0,0
+2026-11-08,AZ Alkmaar vs Groningen,Mexx Meerdink,Player's shots on target,0.5,1.18,0.8475,0.6189,1,2.0,1
+2026-11-08,AZ Alkmaar vs Groningen,Seiya Maikuma,To Get a Card,0.5,5.5,0.1818,0.0301,0,0.0,0
+2026-11-08,AZ Alkmaar vs Groningen,Nils Eggens,Player's shots on target,1.5,4.5,0.2222,0.0058,0,0.0,0
+2026-11-08,AZ Alkmaar vs Groningen,Valdemar Byskov,To Get a Card,0.5,6.0,0.1667,0.0884,1,0.0,0
+2026-11-08,AZ Alkmaar vs Groningen,Thijmen Blokzijl,To Get a Card,0.5,6.5,0.1538,0.1013,1,0.0,0
+2026-11-08,AZ Alkmaar vs Groningen,Calvin Stengs,To Get a Card,0.5,5.3,0.1887,0.0325,0,0.0,0
+2026-11-08,AZ Alkmaar vs Groningen,Mees de Wit,To give an assist,0.5,5.5,0.1818,0.0229,0,0.0,0
+2026-11-08,AZ Alkmaar vs Groningen,Jorg Schreuders,To give an assist,0.5,7.0,0.1429,0.0735,1,0.0,0
+2026-11-08,AZ Alkmaar vs Groningen,Kees Smit,To give an assist,0.5,4.4,0.2273,0.0314,0,0.0,0
+2026-11-08,AZ Alkmaar vs Groningen,Thom van Bergen,To give an assist,0.5,5.75,0.1739,0.1284,1,0.0,0
+2026-11-08,AZ Alkmaar vs Groningen,Calvin Stengs,To give an assist,0.5,3.2,0.3125,0.0304,0,0.0,0
+2026-11-08,AZ Alkmaar vs Groningen,Seiya Maikuma,To give an assist,0.5,4.5,0.2222,0.026,0,0.0,0
+2026-11-08,AZ Alkmaar vs Groningen,Mateo Chávez,To Get a Card,0.5,5.3,0.1887,0.1662,1,0.0,0
+2026-11-08,AZ Alkmaar vs Groningen,Kees Smit,To Get a Card,0.5,5.5,0.1818,0.0304,0,0.0,0
+2026-11-08,AZ Alkmaar vs Groningen,Marco Rente,To give an assist,0.5,9.0,0.1111,0.0941,1,0.0,0
+2026-11-08,AZ Alkmaar vs Groningen,Bendegúz Kovács,To give an assist,0.5,3.5,0.2857,0.0124,0,0.0,0
+2026-11-08,AZ Alkmaar vs Groningen,Thom van Bergen,Player's shots on target,1.5,4.5,0.2222,0.2567,1,2.0,1
+2026-11-08,AZ Alkmaar vs Groningen,Mexx Meerdink,Player's shots on target,1.5,1.85,0.5405,0.2513,1,2.0,1
+2026-11-08,AZ Alkmaar vs Groningen,Wesley Hoedt,To Get a Card,0.5,4.6,0.2174,0.2011,1,0.0,0
+2026-11-08,AZ Alkmaar vs Groningen,Nils Eggens,Player's shots on target,0.5,1.8,0.5556,0.106,0,0.0,0
+2026-11-08,AZ Alkmaar vs Groningen,Mexx Meerdink,To Get a Card,0.5,5.0,0.2,0.0864,1,0.0,0
+2026-11-08,AZ Alkmaar vs Groningen,Rion Ichihara,Player's shots on target,0.5,3.9,0.2564,0.0854,0,0.0,0
+2026-11-08,AZ Alkmaar vs Groningen,Thom van Bergen,To Get a Card,0.5,5.0,0.2,0.1137,1,0.0,0
+2026-11-08,AZ Alkmaar vs Groningen,Mexx Meerdink,To give an assist,0.5,2.75,0.3636,0.0815,1,1.0,1
+2026-11-08,AZ Alkmaar vs Groningen,Wouter Goes,To Get a Card,0.5,4.8,0.2083,0.17,1,0.0,0
+2026-11-08,AZ Alkmaar vs Groningen,Mees de Wit,To Get a Card,0.5,5.6,0.1786,0.0417,0,0.0,0
+2026-11-08,AZ Alkmaar vs Groningen,Jordy Clasie,To Score,0.5,7.0,0.1429,0.0304,0,0.0,0
+2026-11-08,AZ Alkmaar vs Groningen,Tygo Land,To Get a Card,0.5,4.1,0.2439,0.0316,0,0.0,0
+2026-11-08,AZ Alkmaar vs Groningen,Jordy Clasie,To give an assist,0.5,5.0,0.2,0.0158,0,0.0,0
+2026-11-08,AZ Alkmaar vs Groningen,Dave Kwakman,To score at least 2 goals,1.5,30.0,0.0333,0.0025,1,0.0,0
+2026-11-08,AZ Alkmaar vs Groningen,Dave Kwakman,To Score,0.5,4.7,0.2128,0.0699,1,0.0,0
+2026-11-08,AZ Alkmaar vs Groningen,Elijah Dijkstra,To give an assist,0.5,5.5,0.1818,0.0551,1,0.0,0
+2026-11-08,AZ Alkmaar vs Groningen,Ro-Zangelo Daal,To score at least 2 goals,1.5,9.0,0.1111,0.0114,1,0.0,0
+2026-11-08,AZ Alkmaar vs Groningen,Denso Kasius,To Get a Card,0.5,5.5,0.1818,0.0429,0,0.0,0
+2026-11-08,AZ Alkmaar vs Groningen,Ayoub Oufkir,To give an assist,0.5,2.8,0.3571,0.0651,1,0.0,0
+2026-11-08,AZ Alkmaar vs Groningen,Jorg Schreuders,To Get a Card,0.5,5.0,0.2,0.0807,1,0.0,0
+2026-11-08,AZ Alkmaar vs Groningen,Ro-Zangelo Daal,To Get a Card,0.5,5.1,0.1961,0.1505,1,0.0,0
+2026-11-08,AZ Alkmaar vs Groningen,Peer Koopmeiners,To give an assist,0.5,6.25,0.16,0.0706,1,0.0,0
+2026-11-08,AZ Alkmaar vs Groningen,Ro-Zangelo Daal,Player's shots on target,0.5,1.5,0.6667,0.4476,1,0.0,0
+2026-11-08,AZ Alkmaar vs Groningen,Wesley Hoedt,To give an assist,0.5,5.4,0.1852,0.0602,1,0.0,0
+2026-11-08,AZ Alkmaar vs Groningen,Rion Ichihara,To give an assist,0.5,6.0,0.1667,0.0128,0,0.0,0
+2026-11-08,AZ Alkmaar vs Groningen,Bendegúz Kovács,Player's shots on target,0.5,1.3,0.7692,0.1018,0,0.0,0
+2026-11-08,AZ Alkmaar vs Groningen,Marco Rente,Player's shots on target,0.5,6.5,0.1538,0.1775,1,0.0,0
+2026-11-08,AZ Alkmaar vs Groningen,Jordy Clasie,To Get a Card,0.5,5.2,0.1923,0.0367,0,0.0,0
+2026-11-08,AZ Alkmaar vs Groningen,Wouter Goes,To give an assist,0.5,8.0,0.125,0.0419,1,0.0,0
+2026-11-08,AZ Alkmaar vs Groningen,Kees Smit,To Score,0.5,4.0,0.25,0.0264,0,0.0,0
+2026-11-08,AZ Alkmaar vs Groningen,Jacob Ondrejka,To Score,0.5,5.75,0.1739,0.1316,1,1.0,1
+2026-11-08,AZ Alkmaar vs Groningen,Hans Hateboer,To Get a Card,0.5,4.8,0.2083,0.1422,1,1.0,1
+2026-11-08,AZ Alkmaar vs Groningen,Ro-Zangelo Daal,To give an assist,0.5,3.7,0.2703,0.0673,1,1.0,1
+2026-11-08,AZ Alkmaar vs Groningen,Jordy Clasie,Player's shots on target,0.5,3.8,0.2632,0.0713,0,0.0,0
+2026-11-08,AZ Alkmaar vs Groningen,Elijah Dijkstra,To Get a Card,0.5,6.75,0.1481,0.1154,1,0.0,0
+2026-11-08,AZ Alkmaar vs Groningen,Pelle Clement,Player's shots on target,0.5,3.5,0.2857,0.2246,1,0.0,0
+2026-11-08,AZ Alkmaar vs Groningen,Tika de Jonge,To Get a Card,0.5,4.4,0.2273,0.1238,1,0.0,0
+2026-11-08,AZ Alkmaar vs Groningen,Hans Hateboer,To give an assist,0.5,8.5,0.1176,0.0605,1,0.0,0
+2026-11-08,AZ Alkmaar vs Groningen,Bendegúz Kovács,To Get a Card,0.5,5.5,0.1818,0.023,0,0.0,0
+2026-11-08,AZ Alkmaar vs Groningen,Tika de Jonge,To give an assist,0.5,7.5,0.1333,0.0543,1,0.0,0
+2026-11-08,AZ Alkmaar vs Groningen,Ro-Zangelo Daal,Player's shots on target,1.5,3.1,0.3226,0.1198,1,0.0,0
+2026-11-08,AZ Alkmaar vs Groningen,Hans Hateboer,Player's shots on target,0.5,6.25,0.16,0.1163,1,0.0,0
+2026-11-08,AZ Alkmaar vs Groningen,Jacob Ondrejka,To give an assist,0.5,6.0,0.1667,0.0561,1,1.0,1
+2026-11-08,AZ Alkmaar vs Groningen,Bendegúz Kovács,Player's shots on target,1.5,2.35,0.4255,0.0054,0,0.0,0
+2026-11-08,AZ Alkmaar vs Groningen,Mateo Chávez,To give an assist,0.5,5.2,0.1923,0.1018,1,0.0,0
+2026-11-08,AZ Alkmaar vs Groningen,Mateo Chávez,Player's shots on target,0.5,3.8,0.2632,0.2149,1,1.0,1
+2026-11-08,AZ Alkmaar vs Groningen,Jacob Ondrejka,To score at least 2 goals,1.5,46.0,0.0217,0.0091,1,1.0,0
+2026-11-08,AZ Alkmaar vs Groningen,Jacob Ondrejka,To Get a Card,0.5,5.0,0.2,0.1368,1,0.0,0
+2026-11-08,AZ Alkmaar vs Groningen,Mexx Meerdink,To score at least 2 goals,1.5,4.5,0.2222,0.054,1,2.0,1
+2026-11-08,AZ Alkmaar vs Groningen,Elijah Dijkstra,Player's shots on target,0.5,3.1,0.3226,0.0748,1,0.0,0
+2026-11-08,AZ Alkmaar vs Groningen,Thijmen Blokzijl,To Score,0.5,13.0,0.0769,0.0241,1,0.0,0
+2026-11-08,AZ Alkmaar vs Groningen,Denso Kasius,To Score,0.5,6.25,0.16,0.0323,0,0.0,0
+2026-11-08,AZ Alkmaar vs Groningen,Calvin Stengs,To Score,0.5,2.75,0.3636,0.0301,0,0.0,0
+2026-11-08,AZ Alkmaar vs Groningen,Calvin Stengs,To score at least 2 goals,1.5,11.0,0.0909,0.0005,0,0.0,0
+2026-11-08,AZ Alkmaar vs Groningen,Peer Koopmeiners,To Score,0.5,6.25,0.16,0.0986,1,0.0,0
+2026-11-08,AZ Alkmaar vs Groningen,Bendegúz Kovács,To score at least 3 goals,2.5,21.0,0.0476,0.0,0,0.0,0
+2026-11-08,AZ Alkmaar vs Groningen,Jorg Schreuders,To Score,0.5,7.0,0.1429,0.0822,1,0.0,0
+2026-11-08,AZ Alkmaar vs Groningen,Nils Eggens,To give an assist,0.5,5.8,0.1724,0.0134,0,0.0,0
+2026-11-08,AZ Alkmaar vs Groningen,Mees de Wit,To Score,0.5,8.0,0.125,0.0259,0,0.0,0
+2026-11-08,AZ Alkmaar vs Groningen,Seiya Maikuma,Player's shots on target,0.5,3.9,0.2564,0.0678,0,0.0,0
+2026-11-08,AZ Alkmaar vs Groningen,Tika de Jonge,To score at least 2 goals,1.5,41.0,0.0244,0.0028,1,0.0,0
+2026-11-08,AZ Alkmaar vs Groningen,Nils Eggens,To Get a Card,0.5,5.2,0.1923,0.0248,0,0.0,0
+2026-11-08,AZ Alkmaar vs Groningen,Mexx Meerdink,To score at least 3 goals,2.5,14.0,0.0714,0.0065,1,2.0,0
+2026-11-08,AZ Alkmaar vs Groningen,Marco Rente,To Get a Card,0.5,3.8,0.2632,0.0979,1,1.0,1
+2026-11-08,AZ Alkmaar vs Groningen,Mateo Chávez,To Score,0.5,7.0,0.1429,0.0561,1,1.0,1
+2026-11-08,AZ Alkmaar vs Groningen,Wouter Prins,Player's shots on target,0.5,6.25,0.16,0.0608,0,0.0,0
+2026-11-08,AZ Alkmaar vs Groningen,Bendegúz Kovács,To score at least 2 goals,1.5,6.25,0.16,0.0004,0,0.0,0
+2026-11-08,AZ Alkmaar vs Groningen,Tika de Jonge,Player's shots on target,0.5,2.9,0.3448,0.3073,1,0.0,0
+2026-11-08,AZ Alkmaar vs Groningen,Kees Smit,To score at least 2 goals,1.5,23.0,0.0435,0.0004,0,0.0,0
+2026-11-08,AZ Alkmaar vs Groningen,Rion Ichihara,To Score,0.5,7.5,0.1333,0.0285,0,0.0,0
+2026-11-08,AZ Alkmaar vs Groningen,Dave Kwakman,Player's shots on target,0.5,2.55,0.3922,0.2948,1,0.0,0
+2026-11-08,AZ Alkmaar vs Groningen,Mexx Meerdink,To Score,0.5,1.8,0.5556,0.3102,1,2.0,1
+2026-11-08,AZ Alkmaar vs Groningen,Peer Koopmeiners,Player's shots on target,0.5,3.3,0.303,0.3147,1,0.0,0
+2026-11-08,AZ Alkmaar vs Groningen,Ro-Zangelo Daal,To Score,0.5,2.55,0.3922,0.1472,1,0.0,0
+2026-11-08,AZ Alkmaar vs Groningen,Mees de Wit,Player's shots on target,0.5,4.0,0.25,0.0762,0,0.0,0
+2026-11-08,AZ Alkmaar vs Groningen,Jacob Ondrejka,Player's shots on target,0.5,2.8,0.3571,0.3887,1,2.0,1
+2026-11-08,AZ Alkmaar vs Groningen,Ayoub Oufkir,To Get a Card,0.5,6.75,0.1481,0.2827,1,0.0,0
+2026-11-08,AZ Alkmaar vs Groningen,Peer Koopmeiners,To Get a Card,0.5,5.8,0.1724,0.1016,1,1.0,1
+2026-11-08,AZ Alkmaar vs Groningen,Valdemar Byskov,To give an assist,0.5,4.5,0.2222,0.1851,1,0.0,0
+2026-11-08,AZ Alkmaar vs Groningen,Wouter Prins,To Get a Card,0.5,4.4,0.2273,0.0189,0,0.0,0
+2026-11-08,AZ Alkmaar vs Groningen,Dave Kwakman,To give an assist,0.5,5.0,0.2,0.1072,1,0.0,0
+2026-11-08,AZ Alkmaar vs Groningen,Valdemar Byskov,Player's shots on target,0.5,2.3,0.4348,0.4338,1,0.0,0
+2026-11-08,AZ Alkmaar vs Groningen,Tyrique Mercera,Player's shots on target,0.5,6.25,0.16,0.0694,0,0.0,0
+2026-11-08,AZ Alkmaar vs Groningen,Rion Ichihara,To Get a Card,0.5,5.0,0.2,0.0236,0,0.0,0
+2026-11-08,AZ Alkmaar vs Groningen,Pelle Clement,To Get a Card,0.5,5.0,0.2,0.0946,1,1.0,1
+2026-11-08,AZ Alkmaar vs Groningen,Mexx Meerdink,Player's shots on target,2.5,3.3,0.303,0.0739,1,2.0,0
+2026-11-08,AZ Alkmaar vs Groningen,Tygo Land,Player's shots on target,0.5,3.9,0.2564,0.086,0,0.0,0
+2026-11-08,AZ Alkmaar vs Groningen,Pelle Clement,To give an assist,0.5,8.5,0.1176,0.1334,1,0.0,0
+2026-11-08,AZ Alkmaar vs Groningen,Seiya Maikuma,To Score,0.5,7.0,0.1429,0.0241,0,0.0,0
+2026-11-08,AZ Alkmaar vs Groningen,Marco Rente,To Score,0.5,13.0,0.0769,0.1024,1,0.0,0
+2026-11-08,AZ Alkmaar vs Groningen,Thom van Bergen,To score at least 2 goals,1.5,14.0,0.0714,0.0387,1,1.0,0
+2026-11-08,AZ Alkmaar vs Groningen,Tyrique Mercera,To Score,0.5,13.0,0.0769,0.0248,0,0.0,0
+2026-11-08,AZ Alkmaar vs Groningen,Ayoub Oufkir,To score at least 2 goals,1.5,15.0,0.0667,0.0066,1,1.0,0
+2026-11-08,AZ Alkmaar vs Groningen,Wouter Prins,To Score,0.5,12.5,0.08,0.0218,0,0.0,0
+2026-11-08,AZ Alkmaar vs Groningen,Ayoub Oufkir,To Score,0.5,3.3,0.303,0.113,1,1.0,1
+2026-11-08,AZ Alkmaar vs Groningen,Nils Eggens,To score at least 2 goals,1.5,15.0,0.0667,0.0008,0,0.0,0
+2026-11-08,AZ Alkmaar vs Groningen,Tygo Land,To Score,0.5,8.0,0.125,0.0473,0,0.0,0
+2026-11-08,AZ Alkmaar vs Groningen,Peer Koopmeiners,To score at least 2 goals,1.5,56.0,0.0179,0.005,1,0.0,0
+2026-11-08,AZ Alkmaar vs Groningen,Wesley Hoedt,To Score,0.5,7.5,0.1333,0.0461,1,0.0,0
+2026-11-08,AZ Alkmaar vs Groningen,Valdemar Byskov,To Score,0.5,4.2,0.2381,0.1539,1,0.0,0
+2026-11-08,AZ Alkmaar vs Groningen,Mexx Meerdink,Player's shots on target,3.5,6.75,0.1481,0.0169,1,2.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Sami Bouhoudane,To score at least 2 goals,1.5,16.0,0.0625,0.0004,0,0.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Morgan Costarelli,To Score,0.5,12.0,0.0833,0.0211,1,0.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Devid Eugene Bouah,To Score,0.5,8.5,0.1176,0.0677,1,0.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Ricardo Pepi,To Score,0.5,1.95,0.5128,0.1148,0,0.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Kodai Sano,To Score,0.5,3.5,0.2857,0.139,1,0.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Jorn Berkhout,To Score,0.5,9.0,0.1111,0.0301,0,0.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Lutsharel Geertruida,To Score,0.5,6.5,0.1538,0.0393,1,0.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Ilyes Hamache,Player's shots on target,1.5,4.9,0.2041,0.114,1,0.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Skye Vink,To score at least 2 goals,1.5,18.0,0.0556,0.0004,0,0.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Ismaël Baouf,To Score,0.5,9.0,0.1111,0.109,1,0.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Ricardo Pepi,To score at least 2 goals,1.5,5.2,0.1923,0.0069,0,0.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Ryan Flamingo,To score at least 2 goals,1.5,51.0,0.0196,0.0006,0,0.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Ruben van Bommel,To score at least 2 goals,1.5,7.5,0.1333,0.0208,1,1.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Mathieu Maertens,To score at least 2 goals,1.5,26.0,0.0385,0.0015,1,0.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Armando Obispo,To score at least 2 goals,1.5,56.0,0.0179,0.0006,1,0.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Yarek Gasiorowski,Player's shots on target,0.5,3.3,0.303,0.0698,0,0.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Ayoni Santos,To Score,0.5,3.0,0.3333,0.0256,0,1.0,1
+2026-11-08,Cambuur vs PSV Eindhoven,Sven Mijnans,To score at least 2 goals,1.5,7.0,0.1429,0.0451,1,3.0,1
+2026-11-08,Cambuur vs PSV Eindhoven,Ricardo Pepi,To score at least 3 goals,2.5,17.0,0.0588,0.0003,0,0.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Sven Mijnans,To Get a Card,0.5,5.0,0.2,0.1009,1,1.0,1
+2026-11-08,Cambuur vs PSV Eindhoven,Rik Mulders,To Get a Card,0.5,4.3,0.2326,0.0362,0,0.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Sami Bouhoudane,To Get a Card,0.5,4.4,0.2273,0.0342,0,0.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Jorn Berkhout,To give an assist,0.5,5.5,0.1818,0.0135,0,0.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Filip Kostic,To Score,0.5,4.3,0.2326,0.0374,1,0.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Sami Bouhoudane,Player's shots on target,1.5,3.5,0.2857,0.0048,0,0.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Ruben van Bommel,To give an assist,0.5,3.3,0.303,0.1083,1,1.0,1
+2026-11-08,Cambuur vs PSV Eindhoven,Ricardo Pepi,Player's shots on target,1.5,1.93,0.5181,0.0261,0,0.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Billy Van Duijl,To Get a Card,0.5,4.0,0.25,0.0847,1,0.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Guus Til,To give an assist,0.5,3.3,0.303,0.1069,1,0.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Ruben van Bommel,Player's shots on target,2.5,5.3,0.1887,0.0295,1,1.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Sergiño Dest,To give an assist,0.5,3.7,0.2703,0.1288,1,0.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Guus Til,Player's shots on target,0.5,1.25,0.8,0.5068,1,1.0,1
+2026-11-08,Cambuur vs PSV Eindhoven,Ethan Apkakou,To give an assist,0.5,6.5,0.1538,0.0138,0,0.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Guus Til,Player's shots on target,1.5,2.12,0.4717,0.1582,1,1.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Sam Lammers,To give an assist,0.5,3.5,0.2857,0.0492,0,0.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Ayoni Santos,Player's shots on target,1.5,4.0,0.25,0.0041,0,1.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Kiliann Sildillia,To give an assist,0.5,4.1,0.2439,0.0285,0,0.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Skye Vink,To Get a Card,0.5,4.9,0.2041,0.0242,0,0.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Iwan Henstra,To Get a Card,0.5,4.8,0.2083,0.0351,0,0.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Morgan Costarelli,To Get a Card,0.5,3.8,0.2632,0.1352,1,1.0,1
+2026-11-08,Cambuur vs PSV Eindhoven,Jorn Berkhout,To Get a Card,0.5,4.5,0.2222,0.025,0,0.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Dennis Man,To Get a Card,0.5,5.5,0.1818,0.0314,0,0.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Lutsharel Geertruida,To give an assist,0.5,8.0,0.125,0.0737,1,0.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Noah Fernandez,Player's shots on target,0.5,2.75,0.3636,0.0887,0,0.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Yarek Gasiorowski,To Get a Card,0.5,4.3,0.2326,0.0219,0,0.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Sam Lammers,Player's shots on target,0.5,1.41,0.7092,0.1973,0,0.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Ruben van Bommel,Player's shots on target,0.5,1.34,0.7463,0.4833,1,1.0,1
+2026-11-08,Cambuur vs PSV Eindhoven,Ruben van Bommel,Player's shots on target,1.5,2.5,0.4,0.1421,1,1.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Wiebe Kooistra,To Get a Card,0.5,4.7,0.2128,0.0395,0,0.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Mauro Junior,To give an assist,0.5,4.3,0.2326,0.1474,1,0.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Guus Til,Player's shots on target,2.5,4.1,0.2439,0.035,1,1.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Ruben van Bommel,To Get a Card,0.5,5.5,0.1818,0.1827,1,0.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Rafik El Arguioui,Player's shots on target,1.5,3.9,0.2564,0.1687,1,0.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Kodai Sano,Player's shots on target,1.5,5.2,0.1923,0.0595,1,0.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Iwan Henstra,To give an assist,0.5,5.3,0.1887,0.0127,0,0.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Kodai Sano,Player's shots on target,0.5,1.95,0.5128,0.3246,1,0.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Devid Eugene Bouah,To Get a Card,0.5,4.0,0.25,0.2142,1,0.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Kodai Sano,To Get a Card,0.5,4.9,0.2041,0.1273,1,0.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Esmir Bajraktarevic,To Get a Card,0.5,5.0,0.2,0.0816,1,0.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Ayoni Santos,To Get a Card,0.5,4.7,0.2128,0.0214,0,0.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Guus Til,To Get a Card,0.5,5.5,0.1818,0.0994,1,0.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Wiebe Kooistra,To score at least 2 goals,1.5,67.0,0.0149,0.0005,0,0.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Devid Eugene Bouah,To give an assist,0.5,9.5,0.1053,0.0607,1,0.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Noah Fernandez,To Get a Card,0.5,4.2,0.2381,0.0353,0,0.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Lutsharel Geertruida,To Get a Card,0.5,5.3,0.1887,0.1542,1,0.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Mathieu Maertens,To give an assist,0.5,4.5,0.2222,0.0719,1,0.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Sven Mijnans,To give an assist,0.5,2.8,0.3571,0.1694,1,0.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Ricardo Pepi,To Get a Card,0.5,5.5,0.1818,0.0193,0,0.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Armando Obispo,Player's shots on target,0.5,3.4,0.2941,0.1091,1,0.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Skye Vink,Player's shots on target,0.5,1.65,0.6061,0.0815,0,0.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Sven Mijnans,Player's shots on target,2.5,4.6,0.2174,0.0634,1,4.0,1
+2026-11-08,Cambuur vs PSV Eindhoven,Ilyes Hamache,To score at least 2 goals,1.5,23.0,0.0435,0.0236,1,0.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Sven Mijnans,Player's shots on target,0.5,1.3,0.7692,0.5947,1,4.0,1
+2026-11-08,Cambuur vs PSV Eindhoven,Iwan Henstra,To score at least 2 goals,1.5,17.0,0.0588,0.0008,0,1.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Iwan Henstra,To Score,0.5,3.4,0.2941,0.0399,0,1.0,1
+2026-11-08,Cambuur vs PSV Eindhoven,Fabian Kvam,Player's shots on target,0.5,1.75,0.5714,0.1068,0,0.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Fabian Kvam,Player's shots on target,1.5,4.1,0.2439,0.0059,0,0.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Ismaël Baouf,Player's shots on target,0.5,3.8,0.2632,0.2856,1,1.0,1
+2026-11-08,Cambuur vs PSV Eindhoven,Noah Fernandez,To Score,0.5,5.2,0.1923,0.0352,0,0.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Sami Bouhoudane,To give an assist,0.5,4.7,0.2128,0.0397,0,0.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Noah Fernandez,To give an assist,0.5,4.8,0.2083,0.0103,0,0.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Ilyes Hamache,To give an assist,0.5,5.6,0.1786,0.137,1,0.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Sergiño Dest,Player's shots on target,1.5,7.0,0.1429,0.0576,1,0.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Sami Bouhoudane,Player's shots on target,0.5,1.6,0.625,0.0968,0,0.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Sergiño Dest,To Get a Card,0.5,5.3,0.1887,0.1346,1,1.0,1
+2026-11-08,Cambuur vs PSV Eindhoven,Rafik El Arguioui,To give an assist,0.5,6.5,0.1538,0.1277,1,1.0,1
+2026-11-08,Cambuur vs PSV Eindhoven,Armando Obispo,To Get a Card,0.5,4.3,0.2326,0.2019,1,0.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Dennis Man,Player's shots on target,1.5,4.1,0.2439,0.007,0,0.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Billy Van Duijl,Player's shots on target,0.5,4.2,0.2381,0.119,1,0.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Esmir Bajraktarevic,Player's shots on target,0.5,1.7,0.5882,0.4058,1,0.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Dennis Man,To give an assist,0.5,3.2,0.3125,0.0259,0,0.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Rik Mulders,Player's shots on target,0.5,3.6,0.2778,0.0828,0,0.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Dennis Man,To score at least 2 goals,1.5,13.0,0.0769,0.001,0,0.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Nicky Souren,To give an assist,0.5,9.0,0.1111,0.0794,1,0.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Ryan Flamingo,Player's shots on target,0.5,3.4,0.2941,0.0778,0,0.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Jorn Berkhout,Player's shots on target,0.5,3.9,0.2564,0.084,0,0.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Ilyes Hamache,Player's shots on target,0.5,1.87,0.5348,0.4377,1,0.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Mathieu Maertens,Player's shots on target,0.5,1.9,0.5263,0.3336,1,0.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Mauro Junior,Player's shots on target,0.5,3.3,0.303,0.305,1,0.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Ethan Apkakou,Player's shots on target,0.5,3.0,0.3333,0.0856,0,0.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Sven Mijnans,To Score,0.5,2.2,0.4545,0.2848,1,3.0,1
+2026-11-08,Cambuur vs PSV Eindhoven,Lucas Jetten,To Score,0.5,12.5,0.08,0.0276,0,0.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Nicky Souren,To Get a Card,0.5,3.9,0.2564,0.1817,1,0.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Esmir Bajraktarevic,Player's shots on target,1.5,4.0,0.25,0.0965,1,0.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Sergiño Dest,Player's shots on target,0.5,2.25,0.4444,0.3197,1,0.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Sam Lammers,To Get a Card,0.5,5.8,0.1724,0.0149,0,0.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Ricardo Pepi,Player's shots on target,2.5,3.5,0.2857,0.0021,0,0.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Ricardo Pepi,Player's shots on target,0.5,1.2,0.8333,0.2196,0,0.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Kodai Sano,To give an assist,0.5,4.0,0.25,0.0906,1,1.0,1
+2026-11-08,Cambuur vs PSV Eindhoven,Skye Vink,To give an assist,0.5,5.1,0.1961,0.0131,0,0.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Ilyes Hamache,To Get a Card,0.5,5.0,0.2,0.0707,1,0.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Fabian Kvam,To give an assist,0.5,5.75,0.1739,0.0123,0,0.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Dennis Man,Player's shots on target,0.5,1.7,0.5882,0.1156,0,0.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Dennis Man,To Score,0.5,3.0,0.3333,0.0443,0,0.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Mathieu Maertens,To Score,0.5,4.2,0.2381,0.0549,1,0.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Rik Mulders,To Score,0.5,8.5,0.1176,0.0297,0,0.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Guus Til,To score at least 3 goals,2.5,20.0,0.05,0.006,1,0.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Guus Til,To score at least 2 goals,1.5,5.5,0.1818,0.0513,1,0.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Kodai Sano,To score at least 2 goals,1.5,18.0,0.0556,0.0101,1,0.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Sam Lammers,To score at least 2 goals,1.5,8.5,0.1176,0.0017,0,0.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Billy Van Duijl,To Score,0.5,10.5,0.0952,0.0755,1,0.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Rafik El Arguioui,To Score,0.5,3.9,0.2564,0.2322,1,0.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Wiebe Kooistra,To Score,0.5,7.0,0.1429,0.0313,0,0.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Esmir Bajraktarevic,To Score,0.5,3.0,0.3333,0.1236,1,0.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Kiliann Sildillia,To score at least 2 goals,1.5,56.0,0.0179,0.0006,0,0.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Skye Vink,To Score,0.5,3.6,0.2778,0.0292,0,0.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Sergiño Dest,To Score,0.5,4.7,0.2128,0.0727,1,0.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Sergiño Dest,To score at least 2 goals,1.5,30.0,0.0333,0.0027,1,0.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Lutsharel Geertruida,To score at least 2 goals,1.5,61.0,0.0164,0.0008,1,0.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Wiebe Kooistra,Player's shots on target,0.5,3.1,0.3226,0.0976,0,0.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Mauro Junior,To Score,0.5,6.5,0.1538,0.0896,1,0.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Mauro Junior,To score at least 2 goals,1.5,56.0,0.0179,0.0041,1,0.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Ryan Flamingo,To Score,0.5,6.5,0.1538,0.034,0,0.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Esmir Bajraktarevic,To give an assist,0.5,3.0,0.3333,0.1878,1,2.0,1
+2026-11-08,Cambuur vs PSV Eindhoven,Ethan Apkakou,To Score,0.5,7.5,0.1333,0.0307,0,0.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Filip Kostic,To Get a Card,0.5,4.8,0.2083,0.1721,1,0.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Yarek Gasiorowski,To Score,0.5,6.25,0.16,0.0235,0,0.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Ruben van Bommel,To Score,0.5,2.3,0.4348,0.1969,1,1.0,1
+2026-11-08,Cambuur vs PSV Eindhoven,Ruben van Bommel,To score at least 3 goals,2.5,26.0,0.0385,0.0015,1,1.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Kiliann Sildillia,To Score,0.5,6.25,0.16,0.0333,0,0.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Ayoni Santos,To score at least 2 goals,1.5,13.0,0.0769,0.0003,0,1.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Armando Obispo,To Score,0.5,6.5,0.1538,0.0352,1,0.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Filip Kostic,Player's shots on target,0.5,2.35,0.4255,0.1701,1,0.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Lutsharel Geertruida,Player's shots on target,0.5,3.5,0.2857,0.1417,1,0.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Sam Lammers,Player's shots on target,1.5,2.75,0.3636,0.0209,0,0.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Filip Kostic,To give an assist,0.5,3.8,0.2632,0.0307,1,0.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Nicky Souren,Player's shots on target,0.5,3.3,0.303,0.2656,1,1.0,1
+2026-11-08,Cambuur vs PSV Eindhoven,Devid Eugene Bouah,Player's shots on target,0.5,3.6,0.2778,0.1661,1,0.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Ilyes Hamache,To Score,0.5,4.1,0.2439,0.2091,1,0.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Kiliann Sildillia,Player's shots on target,0.5,3.3,0.303,0.0847,0,0.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Sven Mijnans,Player's shots on target,1.5,2.3,0.4348,0.2287,1,4.0,1
+2026-11-08,Cambuur vs PSV Eindhoven,Ethan Apkakou,To score at least 2 goals,1.5,71.0,0.0141,0.0005,0,0.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Iwan Henstra,Player's shots on target,1.5,3.5,0.2857,0.0062,0,1.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Iwan Henstra,Player's shots on target,0.5,1.61,0.6211,0.1091,0,1.0,1
+2026-11-08,Cambuur vs PSV Eindhoven,Skye Vink,Player's shots on target,1.5,3.7,0.2703,0.0034,0,0.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Nicky Souren,To Score,0.5,8.0,0.125,0.057,1,1.0,1
+2026-11-08,Cambuur vs PSV Eindhoven,Fabian Kvam,To score at least 2 goals,1.5,21.0,0.0476,0.0008,0,0.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Morgan Costarelli,Player's shots on target,0.5,5.1,0.1961,0.1093,1,0.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Fabian Kvam,To Score,0.5,3.8,0.2632,0.0394,0,0.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Rafik El Arguioui,Player's shots on target,0.5,1.68,0.5952,0.5214,1,0.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Ayoni Santos,Player's shots on target,0.5,1.7,0.5882,0.0889,0,1.0,1
+2026-11-08,Cambuur vs PSV Eindhoven,Ricardo Pepi,To give an assist,0.5,2.95,0.339,0.0242,0,0.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Ayoni Santos,To give an assist,0.5,3.5,0.2857,0.0119,0,0.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Ethan Apkakou,To Get a Card,0.5,4.2,0.2381,0.0254,0,0.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Mathieu Maertens,To Get a Card,0.5,5.5,0.1818,0.1456,1,1.0,1
+2026-11-08,Cambuur vs PSV Eindhoven,Rafik El Arguioui,To Get a Card,0.5,4.0,0.25,0.131,1,1.0,1
+2026-11-08,Cambuur vs PSV Eindhoven,Fabian Kvam,To Get a Card,0.5,4.7,0.2128,0.0228,0,0.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Lucas Jetten,Player's shots on target,0.5,5.1,0.1961,0.0771,0,0.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Ismaël Baouf,To Get a Card,0.5,4.1,0.2439,0.1268,1,0.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Yarek Gasiorowski,To give an assist,0.5,6.5,0.1538,0.014,0,0.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Esmir Bajraktarevic,To score at least 2 goals,1.5,14.0,0.0714,0.008,1,0.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Sam Lammers,To Score,0.5,2.4,0.4167,0.0572,0,0.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Guus Til,To Score,0.5,2.0,0.5,0.3027,1,0.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Sami Bouhoudane,To Score,0.5,3.3,0.303,0.028,0,0.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Ryan Flamingo,To Get a Card,0.5,4.5,0.2222,0.0235,0,0.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Kiliann Sildillia,To Get a Card,0.5,4.5,0.2222,0.0325,0,0.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Lucas Jetten,To Get a Card,0.5,4.4,0.2273,0.0321,0,0.0,0
+2026-11-08,Cambuur vs PSV Eindhoven,Mauro Junior,To Get a Card,0.5,4.5,0.2222,0.1284,1,0.0,0
+2026-11-08,Celtic vs Kilmarnock,Joe Hugill,To Score,0.5,4.2,0.2381,0.2143,1,0.0,0
+2026-11-08,Celtic vs Kilmarnock,Callum McGregor,To Score,0.5,4.5,0.2222,0.045,1,0.0,0
+2026-11-08,Celtic vs Kilmarnock,Alex Oxlade-Chamberlain,To Score,0.5,3.1,0.3226,0.0291,0,0.0,0
+2026-11-08,Celtic vs Kilmarnock,Callum McGregor,Player's shots on target,0.5,2.4,0.4167,0.2397,1,0.0,0
+2026-11-08,Celtic vs Kilmarnock,Mika Baur,To score at least 2 goals,1.5,14.0,0.0714,0.0081,1,0.0,0
+2026-11-08,Celtic vs Kilmarnock,Greg Kiltie,To score at least 2 goals,1.5,56.0,0.0179,0.0107,1,0.0,0
+2026-11-08,Celtic vs Kilmarnock,Benjamin Nygren,To Score,0.5,2.0,0.5,0.2519,1,0.0,0
+2026-11-08,Celtic vs Kilmarnock,Dane Murray,To score at least 2 goals,1.5,46.0,0.0217,0.0002,0,0.0,0
+2026-11-08,Celtic vs Kilmarnock,Nicky Clescenco,Player's shots on target,0.5,2.6,0.3846,0.1036,0,0.0,0
+2026-11-08,Celtic vs Kilmarnock,James Forrest,To Score,0.5,3.4,0.2941,0.0257,0,0.0,0
+2026-11-08,Celtic vs Kilmarnock,Alex Oxlade-Chamberlain,Player's shots on target,0.5,1.74,0.5747,0.0863,0,0.0,0
+2026-11-08,Celtic vs Kilmarnock,Sebastian Tounekti,Player's shots on target,1.5,2.4,0.4167,0.0061,0,0.0,0
+2026-11-08,Celtic vs Kilmarnock,Colby Donovan,To Score,0.5,6.0,0.1667,0.0165,1,0.0,0
+2026-11-08,Celtic vs Kilmarnock,Camilo Durán,Player's shots on target,1.5,1.7,0.5882,0.2741,1,1.0,0
+2026-11-08,Celtic vs Kilmarnock,Camilo Durán,Player's shots on target,0.5,1.07,0.9346,0.6418,1,1.0,1
+2026-11-08,Celtic vs Kilmarnock,Callum McGregor,To give an assist,0.5,4.0,0.25,0.0881,1,0.0,0
+2026-11-08,Celtic vs Kilmarnock,Aaron Tshibola,To Get a Card,0.5,3.2,0.3125,0.1713,1,0.0,0
+2026-11-08,Celtic vs Kilmarnock,Mika Baur,To Get a Card,0.5,5.8,0.1724,0.1368,1,0.0,0
+2026-11-08,Celtic vs Kilmarnock,Alex Oxlade-Chamberlain,To Get a Card,0.5,4.7,0.2128,0.0229,0,0.0,0
+2026-11-08,Celtic vs Kilmarnock,Callum McGregor,To Get a Card,0.5,4.7,0.2128,0.1326,1,0.0,0
+2026-11-08,Celtic vs Kilmarnock,Cameron Carter-Vickers,To Get a Card,0.5,5.3,0.1887,0.1227,1,0.0,0
+2026-11-08,Celtic vs Kilmarnock,Nicky Clescenco,To Get a Card,0.5,4.5,0.2222,0.0345,0,0.0,0
+2026-11-08,Celtic vs Kilmarnock,Greg Kiltie,To Get a Card,0.5,3.2,0.3125,0.1066,1,0.0,0
+2026-11-08,Celtic vs Kilmarnock,Dane Murray,To Get a Card,0.5,5.3,0.1887,0.0175,0,0.0,0
+2026-11-08,Celtic vs Kilmarnock,Liam Scales,To Get a Card,0.5,5.3,0.1887,0.2185,1,0.0,0
+2026-11-08,Celtic vs Kilmarnock,Camilo Durán,To give an assist,0.5,2.45,0.4082,0.1636,1,1.0,1
+2026-11-08,Celtic vs Kilmarnock,Camilo Durán,To Get a Card,0.5,5.1,0.1961,0.1126,1,0.0,0
+2026-11-08,Celtic vs Kilmarnock,Sebastian Tounekti,To Get a Card,0.5,5.3,0.1887,0.0294,0,0.0,0
+2026-11-08,Celtic vs Kilmarnock,Jamie Brandon,To Score,0.5,17.0,0.0588,0.0179,1,0.0,0
+2026-11-08,Celtic vs Kilmarnock,Luke McCowan,To Score,0.5,2.7,0.3704,0.0368,0,0.0,0
+2026-11-08,Celtic vs Kilmarnock,Rory McKenzie,To Score,0.5,7.5,0.1333,0.0261,0,0.0,0
+2026-11-08,Celtic vs Kilmarnock,Joe Hugill,To Get a Card,0.5,3.2,0.3125,0.1514,1,1.0,1
+2026-11-08,Celtic vs Kilmarnock,Alex Oxlade-Chamberlain,To give an assist,0.5,3.5,0.2857,0.0095,0,0.0,0
+2026-11-08,Celtic vs Kilmarnock,Benjamin Nygren,Player's shots on target,2.5,3.6,0.2778,0.0443,1,2.0,0
+2026-11-08,Celtic vs Kilmarnock,Mika Baur,Player's shots on target,1.5,4.0,0.25,0.0969,1,0.0,0
+2026-11-08,Celtic vs Kilmarnock,Tyreece John-Jules,Player's shots on target,1.5,4.5,0.2222,0.1567,1,0.0,0
+2026-11-08,Celtic vs Kilmarnock,Tom Lowery,To give an assist,0.5,9.0,0.1111,0.0966,1,0.0,0
+2026-11-08,Celtic vs Kilmarnock,Joe Hugill,Player's shots on target,1.5,4.5,0.2222,0.1665,1,0.0,0
+2026-11-08,Celtic vs Kilmarnock,Callum Osmand,Player's shots on target,2.5,3.1,0.3226,0.0005,0,0.0,0
+2026-11-08,Celtic vs Kilmarnock,Alex Oxlade-Chamberlain,Player's shots on target,1.5,4.0,0.25,0.0038,0,0.0,0
+2026-11-08,Celtic vs Kilmarnock,Jamie Brandon,Player's shots on target,0.5,6.75,0.1481,0.0633,1,0.0,0
+2026-11-08,Celtic vs Kilmarnock,Rory McKenzie,To give an assist,0.5,9.5,0.1053,0.0117,0,0.0,0
+2026-11-08,Celtic vs Kilmarnock,Camilo Durán,Player's shots on target,2.5,2.9,0.3448,0.0853,1,1.0,0
+2026-11-08,Celtic vs Kilmarnock,Cameron Carter-Vickers,To give an assist,0.5,8.0,0.125,0.0156,1,0.0,0
+2026-11-08,Celtic vs Kilmarnock,Dane Murray,To give an assist,0.5,4.6,0.2174,0.0183,0,0.0,0
+2026-11-08,Celtic vs Kilmarnock,Luke McCowan,Player's shots on target,1.5,3.4,0.2941,0.0055,0,0.0,0
+2026-11-08,Celtic vs Kilmarnock,Nicky Clescenco,To score at least 2 goals,1.5,56.0,0.0179,0.001,0,0.0,0
+2026-11-08,Celtic vs Kilmarnock,Robbie Deas,Player's shots on target,0.5,5.75,0.1739,0.0581,0,0.0,0
+2026-11-08,Celtic vs Kilmarnock,Mika Baur,To give an assist,0.5,2.7,0.3704,0.0727,1,0.0,0
+2026-11-08,Celtic vs Kilmarnock,Aaron Tshibola,To Score,0.5,8.5,0.1176,0.0495,1,0.0,0
+2026-11-08,Celtic vs Kilmarnock,Anthony Ralston,To Get a Card,0.5,5.2,0.1923,0.0424,0,0.0,0
+2026-11-08,Celtic vs Kilmarnock,Kieran Tierney,To Get a Card,0.5,7.0,0.1429,0.1308,1,0.0,0
+2026-11-08,Celtic vs Kilmarnock,Callum Osmand,To give an assist,0.5,2.95,0.339,0.0337,0,0.0,0
+2026-11-08,Celtic vs Kilmarnock,Rory McKenzie,Player's shots on target,0.5,3.2,0.3125,0.0803,0,0.0,0
+2026-11-08,Celtic vs Kilmarnock,Jamie Brandon,To Get a Card,0.5,3.3,0.303,0.2015,1,1.0,1
+2026-11-08,Celtic vs Kilmarnock,Benjamin Nygren,To Get a Card,0.5,5.8,0.1724,0.1151,1,0.0,0
+2026-11-08,Celtic vs Kilmarnock,Tyreece John-Jules,To Get a Card,0.5,3.5,0.2857,0.1313,1,1.0,1
+2026-11-08,Celtic vs Kilmarnock,Rory McKenzie,To Get a Card,0.5,3.6,0.2778,0.0217,0,0.0,0
+2026-11-08,Celtic vs Kilmarnock,James Forrest,To Get a Card,0.5,4.8,0.2083,0.0358,0,0.0,0
+2026-11-08,Celtic vs Kilmarnock,Colby Donovan,To Get a Card,0.5,4.2,0.2381,0.2232,1,0.0,0
+2026-11-08,Celtic vs Kilmarnock,James Forrest,To give an assist,0.5,3.4,0.2941,0.0157,0,0.0,0
+2026-11-08,Celtic vs Kilmarnock,Cameron Carter-Vickers,Player's shots on target,0.5,3.1,0.3226,0.0936,1,0.0,0
+2026-11-08,Celtic vs Kilmarnock,Colby Donovan,To score at least 2 goals,1.5,56.0,0.0179,0.0001,1,0.0,0
+2026-11-08,Celtic vs Kilmarnock,Luke McCowan,Player's shots on target,0.5,1.5,0.6667,0.1026,0,0.0,0
+2026-11-08,Celtic vs Kilmarnock,Benjamin Nygren,To give an assist,0.5,2.5,0.4,0.1185,1,0.0,0
+2026-11-08,Celtic vs Kilmarnock,Joe Hugill,Player's shots on target,0.5,1.83,0.5464,0.5184,1,0.0,0
+2026-11-08,Celtic vs Kilmarnock,Sebastian Tounekti,To score at least 2 goals,1.5,7.5,0.1333,0.0003,0,0.0,0
+2026-11-08,Celtic vs Kilmarnock,Sebastian Tounekti,To score at least 3 goals,2.5,31.0,0.0323,0.0,0,0.0,0
+2026-11-08,Celtic vs Kilmarnock,Callum Osmand,To Score,0.5,1.85,0.5405,0.0683,0,0.0,0
+2026-11-08,Celtic vs Kilmarnock,Kieran Tierney,To give an assist,0.5,3.3,0.303,0.1457,1,0.0,0
+2026-11-08,Celtic vs Kilmarnock,Benjamin Nygren,Player's shots on target,1.5,1.98,0.5051,0.1833,1,2.0,1
+2026-11-08,Celtic vs Kilmarnock,Benjamin Nygren,Player's shots on target,0.5,1.15,0.8696,0.5406,1,2.0,1
+2026-11-08,Celtic vs Kilmarnock,Aaron Tshibola,Player's shots on target,0.5,3.5,0.2857,0.3494,1,0.0,0
+2026-11-08,Celtic vs Kilmarnock,Greg Kiltie,To give an assist,0.5,7.0,0.1429,0.1064,1,0.0,0
+2026-11-08,Celtic vs Kilmarnock,Nicky Clescenco,To Score,0.5,6.5,0.1538,0.0449,0,0.0,0
+2026-11-08,Celtic vs Kilmarnock,Tom Lowery,Player's shots on target,0.5,4.2,0.2381,0.1894,1,2.0,1
+2026-11-08,Celtic vs Kilmarnock,Anthony Ralston,Player's shots on target,0.5,2.5,0.4,0.076,0,0.0,0
+2026-11-08,Celtic vs Kilmarnock,Colby Donovan,Player's shots on target,0.5,3.0,0.3333,0.163,1,0.0,0
+2026-11-08,Celtic vs Kilmarnock,George Stanger,Player's shots on target,0.5,5.0,0.2,0.1423,1,0.0,0
+2026-11-08,Celtic vs Kilmarnock,James Forrest,To score at least 2 goals,1.5,17.0,0.0588,0.0003,0,0.0,0
+2026-11-08,Celtic vs Kilmarnock,Luke McCowan,To score at least 2 goals,1.5,11.5,0.087,0.0007,0,0.0,0
+2026-11-08,Celtic vs Kilmarnock,Anthony Ralston,To score at least 2 goals,1.5,34.0,0.0294,0.0003,0,0.0,0
+2026-11-08,Celtic vs Kilmarnock,Camilo Durán,To score at least 3 goals,2.5,14.0,0.0714,0.0091,1,0.0,0
+2026-11-08,Celtic vs Kilmarnock,Tom Lowery,To Score,0.5,11.0,0.0909,0.0621,1,0.0,0
+2026-11-08,Celtic vs Kilmarnock,Camilo Durán,To Score,0.5,1.8,0.5556,0.3441,1,0.0,0
+2026-11-08,Celtic vs Kilmarnock,Kieran Tierney,To Score,0.5,5.8,0.1724,0.082,1,0.0,0
+2026-11-08,Celtic vs Kilmarnock,Liam Scales,To Score,0.5,6.0,0.1667,0.0633,1,1.0,1
+2026-11-08,Celtic vs Kilmarnock,Dane Murray,Player's shots on target,0.5,3.0,0.3333,0.0691,0,0.0,0
+2026-11-08,Celtic vs Kilmarnock,George Stanger,To Score,0.5,13.0,0.0769,0.0509,1,0.0,0
+2026-11-08,Celtic vs Kilmarnock,Dane Murray,To Score,0.5,5.8,0.1724,0.0211,0,0.0,0
+2026-11-08,Celtic vs Kilmarnock,Cameron Carter-Vickers,To Score,0.5,6.0,0.1667,0.0235,1,0.0,0
+2026-11-08,Celtic vs Kilmarnock,Luke McCowan,To give an assist,0.5,2.6,0.3846,0.013,0,0.0,0
+2026-11-08,Celtic vs Kilmarnock,Joe Hugill,To give an assist,0.5,6.0,0.1667,0.126,1,0.0,0
+2026-11-08,Celtic vs Kilmarnock,Benjamin Nygren,To score at least 3 goals,2.5,18.0,0.0556,0.0033,1,0.0,0
+2026-11-08,Celtic vs Kilmarnock,Benjamin Nygren,To score at least 2 goals,1.5,5.5,0.1818,0.0348,1,0.0,0
+2026-11-08,Celtic vs Kilmarnock,Tyreece John-Jules,Player's shots on target,0.5,1.8,0.5556,0.5046,1,0.0,0
+2026-11-08,Celtic vs Kilmarnock,Nicky Clescenco,To give an assist,0.5,6.5,0.1538,0.0113,0,0.0,0
+2026-11-08,Celtic vs Kilmarnock,Liam Scales,Player's shots on target,0.5,3.1,0.3226,0.183,1,1.0,1
+2026-11-08,Celtic vs Kilmarnock,Sebastian Tounekti,To Score,0.5,2.25,0.4444,0.0238,0,0.0,0
+2026-11-08,Celtic vs Kilmarnock,Callum Osmand,To score at least 2 goals,1.5,4.7,0.2128,0.0024,0,0.0,0
+2026-11-08,Celtic vs Kilmarnock,Sebastian Tounekti,To give an assist,0.5,3.0,0.3333,0.0173,0,0.0,0
+2026-11-08,Celtic vs Kilmarnock,Callum Osmand,Player's shots on target,0.5,1.08,0.9259,0.1351,0,0.0,0
+2026-11-08,Celtic vs Kilmarnock,Mika Baur,Player's shots on target,0.5,1.67,0.5988,0.4066,1,0.0,0
+2026-11-08,Celtic vs Kilmarnock,Callum Osmand,Player's shots on target,1.5,1.77,0.565,0.0096,0,0.0,0
+2026-11-08,Celtic vs Kilmarnock,James Forrest,Player's shots on target,0.5,1.85,0.5405,0.1527,0,0.0,0
+2026-11-08,Celtic vs Kilmarnock,Kieran Tierney,Player's shots on target,0.5,3.0,0.3333,0.239,1,0.0,0
+2026-11-08,Celtic vs Kilmarnock,Anthony Ralston,To give an assist,0.5,5.4,0.1852,0.011,0,0.0,0
+2026-11-08,Celtic vs Kilmarnock,Tyreece John-Jules,To give an assist,0.5,6.75,0.1481,0.0697,1,0.0,0
+2026-11-08,Celtic vs Kilmarnock,Callum Osmand,To score at least 3 goals,2.5,15.0,0.0667,0.0001,0,0.0,0
+2026-11-08,Celtic vs Kilmarnock,Sebastian Tounekti,Player's shots on target,0.5,1.26,0.7937,0.1082,0,0.0,0
+2026-11-08,Celtic vs Kilmarnock,Liam Scales,To give an assist,0.5,7.0,0.1429,0.0593,1,0.0,0
+2026-11-08,Celtic vs Kilmarnock,Colby Donovan,To give an assist,0.5,3.7,0.2703,0.0323,1,0.0,0
+2026-11-08,Celtic vs Kilmarnock,Greg Kiltie,To Score,0.5,7.5,0.1333,0.1424,1,0.0,0
+2026-11-08,Celtic vs Kilmarnock,Callum Osmand,To Get a Card,0.5,5.1,0.1961,0.0214,0,0.0,0
+2026-11-08,Celtic vs Kilmarnock,George Stanger,To Get a Card,0.5,2.95,0.339,0.2166,1,0.0,0
+2026-11-08,Celtic vs Kilmarnock,Tom Lowery,To Get a Card,0.5,2.9,0.3448,0.1215,1,1.0,1
+2026-11-08,Celtic vs Kilmarnock,Robbie Deas,To Get a Card,0.5,3.05,0.3279,0.0511,0,0.0,0
+2026-11-08,Celtic vs Kilmarnock,Luke McCowan,To Get a Card,0.5,5.3,0.1887,0.027,0,0.0,0
+2026-11-08,Celtic vs Kilmarnock,Robbie Deas,To Score,0.5,15.0,0.0667,0.0223,0,0.0,0
+2026-11-08,Celtic vs Kilmarnock,Anthony Ralston,To Score,0.5,4.8,0.2083,0.0237,0,0.0,0
+2026-11-08,Celtic vs Kilmarnock,Greg Kiltie,Player's shots on target,0.5,2.9,0.3448,0.4084,1,0.0,0
+2026-11-08,Celtic vs Kilmarnock,Kieran Tierney,To score at least 2 goals,1.5,51.0,0.0196,0.0035,1,0.0,0
+2026-11-08,Celtic vs Kilmarnock,Camilo Durán,To score at least 2 goals,1.5,4.5,0.2222,0.0675,1,0.0,0
+2026-11-08,Celtic vs Kilmarnock,Alex Oxlade-Chamberlain,To score at least 2 goals,1.5,13.0,0.0769,0.0004,0,0.0,0
+2026-11-08,Celtic vs Kilmarnock,Mika Baur,To Score,0.5,3.0,0.3333,0.1246,1,0.0,0
+2026-11-08,Celtic vs Kilmarnock,Tyreece John-Jules,To Score,0.5,4.1,0.2439,0.2178,1,0.0,0
 2026-11-08,Celta vs Levante,Hugo González,To Score,0.5,3.7,0.2703,0.0002,1,0.0,0
 2026-11-08,Celta vs Levante,Hugo González,Player's shots on target,1.5,4.3,0.2326,0.0,1,0.0,0
 2026-11-08,Celta vs Levante,Hugo González,To Get a Card,0.5,3.5,0.2857,0.0492,1,0.0,0
