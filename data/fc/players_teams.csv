@@ -60169,3 +60169,23 @@ id,tournament_id,club1,club2,ht1,ht2
 2366871,261234,Atleti,Barcelona,,
 2366872,261234,Real Madrid,Barcelona,,
 2366873,261234,Real Madrid,Atleti,,
+2367034,261264,Stuttgart,Leipzig,0,2
+2367035,261264,Bayern Munchen,B Dortmund,0,0
+2367036,261264,B Dortmund,Stuttgart,0,3
+2367037,261264,Leipzig,Frankfurt,2,0
+2367038,261264,Frankfurt,B Dortmund,2,0
+2367039,261264,Stuttgart,Bayern Munchen,2,1
+2367040,261264,Bayern Munchen,Frankfurt,2,0
+2367041,261264,B Dortmund,Leipzig,1,2
+2367042,261264,Leipzig,Bayern Munchen,0,0
+2367043,261264,Frankfurt,Stuttgart,0,0
+2367044,261264,Leipzig,Stuttgart,,
+2367045,261264,B Dortmund,Bayern Munchen,,
+2367046,261264,Stuttgart,B Dortmund,,
+2367047,261264,Frankfurt,Leipzig,,
+2367048,261264,B Dortmund,Frankfurt,,
+2367049,261264,Bayern Munchen,Stuttgart,,
+2367050,261264,Frankfurt,Bayern Munchen,,
+2367051,261264,Leipzig,B Dortmund,,
+2367052,261264,Bayern Munchen,Leipzig,,
+2367053,261264,Stuttgart,Frankfurt,,

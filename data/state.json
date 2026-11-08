@@ -1475,13 +1475,6 @@
   "cbb|2026-11-11|Kansas State Wildcats|Creighton Bluejays",
   "cbb|2026-11-11|Kentucky Wildcats|Kansas Jayhawks",
   "cbb|2026-11-11|San Francisco Dons|Montana Grizzlies",
-  "cs2|133219",
-  "cs2|133365",
-  "cs2|132970",
-  "cs2|133099",
-  "fc|2362339",
-  "fc|2361656",
-  "fc|2361976",
   "fc|2362709",
   "fc|2361655",
   "fc|2361980",
@@ -2481,7 +2474,11 @@
   "dota2|133682",
   "fc|2369959",
   "fc|2367994",
-  "fc|2367993"
+  "fc|2367993",
+  "cs2|132971",
+  "fc|2367666",
+  "fc|2367667",
+  "fc|2368000"
  ],
  "signals": [
   {
@@ -7562,7 +7559,11 @@
    "version": "5d2adff",
    "bajas": "Northwestern Wildcats: sin bajas; Iowa Hawkeyes: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "10-24",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "sph",
@@ -7583,7 +7584,11 @@
    "version": "5d2adff",
    "bajas": "Northwestern Wildcats: sin bajas; Iowa Hawkeyes: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "10-24",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "home",
@@ -7603,7 +7608,11 @@
    "version": "5d2adff",
    "bajas": "Northwestern Wildcats: sin bajas; Iowa Hawkeyes: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "10-24",
+   "close_p": 0.4093,
+   "logged": true
   },
   {
    "market": "over",
@@ -7625,7 +7634,11 @@
    "version": "5d2adff",
    "bajas": "Arizona State Sun Devils: sin bajas; Colorado Buffaloes: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "20-10",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "sph",
@@ -7646,7 +7659,11 @@
    "version": "5d2adff",
    "bajas": "Arizona State Sun Devils: sin bajas; Colorado Buffaloes: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "20-10",
+   "close_p": 0.5046,
+   "logged": true
   },
   {
    "market": "home",
@@ -7666,7 +7683,11 @@
    "version": "5d2adff",
    "bajas": "Arizona State Sun Devils: sin bajas; Colorado Buffaloes: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "20-10",
+   "close_p": 0.5827,
+   "logged": true
   },
   {
    "market": "over",
@@ -7688,7 +7709,11 @@
    "version": "5d2adff",
    "bajas": "Georgia Tech Yellow Jackets: sin bajas; Louisville Cardinals: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "17-44",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "sph",
@@ -7709,7 +7734,11 @@
    "version": "5d2adff",
    "bajas": "Georgia Tech Yellow Jackets: sin bajas; Louisville Cardinals: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "17-44",
+   "close_p": 0.5069,
+   "logged": true
   },
   {
    "market": "away",
@@ -7729,7 +7758,11 @@
    "version": "5d2adff",
    "bajas": "Georgia Tech Yellow Jackets: sin bajas; Louisville Cardinals: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "17-44",
+   "close_p": 0.8346,
+   "logged": true
   },
   {
    "market": "over",
@@ -7814,7 +7847,11 @@
    "version": "5d2adff",
    "bajas": "Army Black Knights: sin bajas; Air Force Falcons: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "21-24",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "sph",
@@ -7835,7 +7872,11 @@
    "version": "5d2adff",
    "bajas": "Army Black Knights: sin bajas; Air Force Falcons: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "21-24",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "home",
@@ -7855,7 +7896,11 @@
    "version": "5d2adff",
    "bajas": "Army Black Knights: sin bajas; Air Force Falcons: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "21-24",
+   "close_p": 0.6149,
+   "logged": true
   },
   {
    "market": "over",
@@ -8319,106 +8364,6 @@
    "placed": false
   },
   {
-   "market": "D",
-   "pick": "Empate",
-   "odds": 6.25,
-   "book": "Unibet",
-   "implied": 0.139,
-   "edge": 0.131,
-   "sin_stake": true,
-   "p": 0.181,
-   "key": "fc|2362312",
-   "match": "kkikus vs Simaponika",
-   "start": "2026-11-05T03:59:00+00:00",
-   "league": "🎮⚽ FC 27 · Club World Cup",
-   "sport": "🎮⚽",
-   "context": "EA FC Esoccer Battle kkikus vs Simaponika (Club World Cup): goles esperados 2.42-3.27, 1X2 23%/18%/58%. Sin cuotas de casa.",
-   "captured": "2026-11-05T03:12",
-   "version": "bd6ab2a",
-   "bajas": "",
-   "considered": true,
-   "placed": false,
-   "score": "4-3",
-   "result": false,
-   "close_p": null,
-   "logged": true
-  },
-  {
-   "market": "H",
-   "pick": "Inquisitor",
-   "odds": 1.85,
-   "book": "Unibet",
-   "implied": 0.472,
-   "edge": 0.084,
-   "sin_stake": true,
-   "p": 0.586,
-   "key": "fc|2361949",
-   "match": "Inquisitor vs OG",
-   "start": "2026-11-05T03:50:00+00:00",
-   "league": "🎮⚽ FC 27 · Serie A",
-   "sport": "🎮⚽",
-   "context": "EA FC Esoccer Battle Inquisitor vs OG (Serie A): goles esperados 2.94-2.05, 1X2 59%/19%/22%. Sin cuotas de casa.",
-   "captured": "2026-11-05T03:18",
-   "version": "bd6ab2a",
-   "bajas": "",
-   "considered": true,
-   "placed": false,
-   "score": "3-3",
-   "result": false,
-   "close_p": null,
-   "logged": true
-  },
-  {
-   "market": "H",
-   "pick": "OG",
-   "odds": 2.5,
-   "book": "Unibet",
-   "implied": 0.347,
-   "edge": 0.077,
-   "sin_stake": true,
-   "p": 0.431,
-   "key": "fc|2361950",
-   "match": "OG vs RossFCDK",
-   "start": "2026-11-05T04:02:00+00:00",
-   "league": "🎮⚽ FC 27 · Serie A",
-   "sport": "🎮⚽",
-   "context": "EA FC Esoccer Battle OG vs RossFCDK (Serie A): goles esperados 2.56-2.34, 1X2 43%/22%/35%. Sin cuotas de casa.",
-   "captured": "2026-11-05T03:18",
-   "version": "bd6ab2a",
-   "bajas": "",
-   "considered": true,
-   "placed": false,
-   "score": "2-4",
-   "result": false,
-   "close_p": null,
-   "logged": true
-  },
-  {
-   "market": "A",
-   "pick": "Kray",
-   "odds": 1.57,
-   "book": "Unibet",
-   "implied": 0.562,
-   "edge": 0.027,
-   "sin_stake": true,
-   "p": 0.654,
-   "key": "fc|2361948",
-   "match": "RossFCDK vs Kray",
-   "start": "2026-11-05T03:50:00+00:00",
-   "league": "🎮⚽ FC 27 · Serie A",
-   "sport": "🎮⚽",
-   "context": "EA FC Esoccer Battle RossFCDK vs Kray (Serie A): goles esperados 2.31-3.56, 1X2 18%/16%/65%. Sin cuotas de casa.",
-   "captured": "2026-11-05T03:18",
-   "version": "bd6ab2a",
-   "bajas": "",
-   "considered": true,
-   "placed": false,
-   "score": "1-4",
-   "result": true,
-   "close_p": null,
-   "logged": true
-  },
-  {
    "market": "A",
    "pick": "OG",
    "odds": 3.85,
@@ -8465,31 +8410,6 @@
    "placed": false,
    "score": "1-7",
    "result": true,
-   "close_p": null,
-   "logged": true
-  },
-  {
-   "market": "A",
-   "pick": "Solya",
-   "odds": 1.58,
-   "book": "Unibet",
-   "implied": 0.553,
-   "edge": 0.045,
-   "sin_stake": true,
-   "p": 0.661,
-   "key": "fc|2362699",
-   "match": "rostyk vs Solya",
-   "start": "2026-11-05T03:56:00+00:00",
-   "league": "🎮⚽ FC 27 · LaLiga 2x6",
-   "sport": "🎮⚽",
-   "context": "EA FC Esoccer Battle rostyk vs Solya (LaLiga 2x6): goles esperados 4.20-5.71, 1X2 22%/12%/66%. Sin cuotas de casa.",
-   "captured": "2026-11-05T03:43",
-   "version": "42a429d",
-   "bajas": "",
-   "considered": true,
-   "placed": false,
-   "score": "4-4",
-   "result": false,
    "close_p": null,
    "logged": true
   },
@@ -53804,7 +53724,11 @@
    "version": "d301d9b",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "2-4",
+   "result": false,
+   "close_p": null,
+   "logged": true
   },
   {
    "key": "vp|2026-11-08|Jubilo Iwata|Shonan Bellmare",
@@ -53845,26 +53769,73 @@
    "start": "2026-11-08T03:32:00+00:00",
    "league": "🎮⚽ FC 27 · Champions League B",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 60.151 partidos)",
-    "Goles esperados: Lx7ss 3.82 · SpeciAL 3.50",
-    "Ganador: Lx7ss 47% · empate 19% · SpeciAL 34%",
-    "Total: más de 7.5 goles 45% · menos 55%",
-    "Hándicap Lx7ss: −1.5 33% · −2.5 21%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Lx7ss ✅✅❌❌❌ | SpeciAL ❌➖❌✅❌",
-    "• Partidos: Lx7ss 1012 | SpeciAL 819",
-    "• Liga: Champions League B",
-    "• Unibet: 1 2.25 · X 4.60 · 2 2.07 (sin margen 39%/19%/42%) · ventaja +5%. Sin stake hasta demostrar ROI con estas cuotas.",
-    "• En España: LeoVegas España 2.25 (+5%) · Paf España 2.25 (+5%)"
-   ],
    "context": "EA FC Esoccer Battle Lx7ss vs SpeciAL (Champions League B): goles esperados 3.82-3.50, 1X2 47%/19%/34%. Sin cuotas de casa.",
    "captured": "2026-11-08T03:31",
    "version": "5fb60c3",
    "bajas": "",
    "considered": true,
+   "placed": false,
+   "score": "4-3",
+   "result": true,
+   "close_p": null,
+   "logged": true
+  },
+  {
+   "market": "t1",
+   "team_id": 627,
+   "pick": "HAVU",
+   "odds": 1.09,
+   "book": "Thunderpick",
+   "p": 0.816,
+   "implied": 0.839,
+   "edge": -0.11,
+   "key": "cs2|132971",
+   "match": "HAVU vs BOJONG",
+   "start": "2026-11-09T15:30:00+00:00",
+   "league": "🎮 CS2 · Elisa Open Suomi Season 14",
+   "sport": "🎮",
+   "info": [
+    "📊 <b>Escenarios</b> (Elo por mapa, 76.601 partidos)",
+    "Mapa: HAVU 71% · Serie BO3: HAVU 79% - 21% BOJONG",
+    "Casas: HAVU 84% · BOJONG 16%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Elo: HAVU 1634 (383 series) | BOJONG 1398 (61 series)",
+    "• Forma: HAVU ❌✅❌✅✅ | BOJONG ✅❌✅✅❌",
+    "• H2H: sin precedentes",
+    "• Torneo: Elisa Open Suomi Season 14 (nivel C)",
+    "• Cambios de plantilla: ninguno",
+    "",
+    "🧩 <b>Marcador exacto «gana + más de 2.5 mapas»</b> (son opciones alternativas: como mucho UNA; solo información, sin stake)",
+    "• HAVU gana 2-1: 23% → cuota justa 4.30",
+    "• BOJONG gana 2-1: 10% → cuota justa 10.38"
+   ],
+   "context": "CS2 HAVU vs BOJONG, BO3, torneo Elisa Open Suomi Season 14 nivel c. Elo por mapa 1634 vs 1398 (prob. mapa 71%, serie 79%). Forma ❌✅❌✅✅ / ✅❌✅✅❌ (✅ victoria ❌ derrota). H2H sin precedentes. Cambios de plantilla: ninguno. Cuotas Thunderpick 1.09/5.7.",
+   "captured": "2026-11-08T04:03",
+   "version": "da9d94c",
+   "bajas": "",
+   "considered": true,
    "placed": false
+  },
+  {
+   "market": "A",
+   "pick": "curuza",
+   "odds": 2.63,
+   "book": "Unibet",
+   "implied": 0.332,
+   "edge": 0.068,
+   "sin_stake": true,
+   "p": 0.406,
+   "key": "fc|2367666",
+   "match": "KravaRK vs curuza",
+   "start": "2026-11-08T04:02:00+00:00",
+   "league": "🎮⚽ FC 27 · Serie A",
+   "sport": "🎮⚽",
+   "context": "EA FC Esoccer Battle KravaRK vs curuza (Serie A): goles esperados 3.03-3.12, 1X2 40%/20%/41%. Sin cuotas de casa.",
+   "captured": "2026-11-08T04:03",
+   "version": "da9d94c",
+   "bajas": "",
+   "considered": true
   }
  ],
  "bank": {

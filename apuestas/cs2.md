@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 08/11/2026 04:31 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 08/11/2026 05:03 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## RED Canids Academy vs Grêmio — 08/11 · 20:00
 
@@ -21,4 +21,24 @@ Casas: RED Canids Academy 61% · Grêmio 39%
 🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
 • RED Canids Academy gana 2-1: 25% → cuota justa 4.01  
 • Grêmio gana 2-1: 15% → cuota justa 6.80  
+
+## HAVU vs BOJONG — 09/11 · 16:30
+
+👀 candidata · 🎮 CS2 · Elisa Open Suomi Season 14 · **Gana HAVU** @ **1.09** (Thunderpick) · prob 82% vs casas 84% · ventaja -11%
+
+- ❌ Valor: ventaja -11% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 76.601 partidos)  
+Mapa: HAVU 71% · Serie BO3: HAVU 79% - 21% BOJONG  
+Casas: HAVU 84% · BOJONG 16%  
+🔎 **Claves**  
+• Elo: HAVU 1634 (383 series) | BOJONG 1398 (61 series)  
+• Forma: HAVU ❌✅❌✅✅ | BOJONG ✅❌✅✅❌  
+• H2H: sin precedentes  
+• Torneo: Elisa Open Suomi Season 14 (nivel C)  
+• Cambios de plantilla: ninguno  
+🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
+• HAVU gana 2-1: 23% → cuota justa 4.30  
+• BOJONG gana 2-1: 10% → cuota justa 10.38  
 
