@@ -1,50 +1,6 @@
 # 🏈 NFL·NCAA · apuestas de valor
 
-Actualizado 08/11/2026 01:53 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## New Mexico State Aggies vs Liberty Flames — 08/11 · 02:00
-
-👀 candidata · 🏈 NCAA Football · **Más de 46.5 puntos** @ **1.93** (DraftKings) · prob 50% vs casas 50% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 totales» sin pérdidas demostradas
-
-📊 **Escenarios**: total esperado **47.4** puntos · línea 46.5  
-Más 50% · Menos 50%  
-🔎 **Claves**  
-• Forma: New Mexico State Aggies ❌✅❌✅❌ | Liberty Flames ✅✅✅✅✅  
-• H2H: 9 desde 2018: 2-7  
-• Bajas: New Mexico State Aggies: sin bajas; Liberty Flames: sin bajas  
-
-## New Mexico State Aggies vs Liberty Flames — 08/11 · 02:00
-
-👀 candidata · 🏈 NCAA Football · **New Mexico State Aggies +16.5** @ **1.98** (DraftKings) · prob 48% vs casas 48% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 hándicap» sin pérdidas demostradas
-
-📊 **Escenarios**: New Mexico State Aggies cubre +16.5 con prob. 48% (casas 48%)  
-🔎 **Claves**  
-• Forma: New Mexico State Aggies ❌✅❌✅❌ | Liberty Flames ✅✅✅✅✅  
-• H2H: 9 desde 2018: 2-7  
-• Bajas: New Mexico State Aggies: sin bajas; Liberty Flames: sin bajas  
-
-## New Mexico State Aggies vs Liberty Flames — 08/11 · 02:00
-
-👀 candidata · 🏈 NCAA Football · **Gana Liberty Flames** @ **1.12** (DraftKings) · prob 86% vs casas 86% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo con 9.457 partidos y bajas)  
-Gana New Mexico State Aggies 21% · Gana Liberty Flames 79%  
-Casas: New Mexico State Aggies 14% · Liberty Flames 86%  
-Hándicap LIB -16.5 · Total puntos 46.5  
-🔎 **Claves**  
-• Forma: New Mexico State Aggies ❌✅❌✅❌ | Liberty Flames ✅✅✅✅✅  
-• H2H: 9 desde 2018: 2-7  
-• Bajas: New Mexico State Aggies: sin bajas; Liberty Flames: sin bajas  
-• Favorito de las casas: Liberty Flames @ 1.12  
+Actualizado 08/11/2026 02:23 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Texas Tech Red Raiders vs West Virginia Mountaineers — 08/11 · 03:30
 

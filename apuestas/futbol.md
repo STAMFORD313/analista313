@@ -1,60 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 08/11/2026 01:53 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Instituto vs Newells Old Boys — 08/11 · 02:00
-
-👀 candidata · 🇦🇷 Liga Profesional · **Empate** @ **3.20** (Bet365) · prob 29% vs casas 29% · ventaja -6%
-
-- ❌ Valor: ventaja -6% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ empate» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.40 - 0.82)  
-1 51% · X 27% · 2 22%  
-1X 78% · X2 49% · 12 73%  
-+1.5 66% · +2.5 38% · +3.5 18% · Ambos marcan 43%  
-Marcadores: 1-0 15% · 1-1 13% · 0-0 11% · 2-0 11%  
-🔎 **Claves**  
-• Forma: Instituto ✅➖✅✅➖ | Newells Old Boys ➖❌✅➖➖  
-• H2H: 3 desde 2023: 2V-1E-0D · 2.7 goles/partido · +2.5 en 33%  
-• Bajas: Instituto: sin bajas; Newells Old Boys: sin bajas  
-• Favorito de las casas: Instituto @ 1.86  
-
-## Tigres UANL vs Cruz Azul — 08/11 · 02:00
-
-👀 candidata · 🇲🇽 Liga MX · **Gana Tigres UANL** @ **3.10** (Bet365) · prob 32% vs casas 32% · ventaja +1%
-
-- ❌ Valor: ventaja +1% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.50 - 1.15)  
-1 34% · X 29% · 2 37%  
-1X 63% · X2 66% · 12 71%  
-+1.5 75% · +2.5 49% · +3.5 27% · Ambos marcan 54%  
-Marcadores: 1-1 13% · 1-0 10% · 2-1 9% · 2-0 8%  
-🔎 **Claves**  
-• Forma: Tigres UANL ✅➖❌➖❌ | Cruz Azul ➖✅✅✅✅  
-• H2H: 34 desde 2012: 13V-11E-10D · 2.1 goles/partido · +2.5 en 35%  
-• Bajas: Tigres UANL: 1 fuera, 1 duda (Marcelo Flores); Cruz Azul: 1 fuera, 0 duda (Cristian Jimenez)  
-• Favorito de las casas: Cruz Azul @ 2.20  
-
-## Toluca vs Monterrey — 08/11 · 02:00
-
-👀 candidata · 🇲🇽 Liga MX · **Gana Toluca** @ **1.56** (Bet365) · prob 60% vs casas 60% · ventaja -6%
-
-- ❌ Valor: ventaja -6% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 2.05 - 1.33)  
-1 55% · X 23% · 2 22%  
-1X 78% · X2 45% · 12 77%  
-+1.5 86% · +2.5 66% · +3.5 44% · Ambos marcan 65%  
-Marcadores: 1-1 10% · 2-1 10% · 2-0 7% · 1-0 6%  
-🔎 **Claves**  
-• Forma: Toluca ❌➖➖➖➖ | Monterrey ➖✅✅❌➖  
-• H2H: 32 desde 2012: 14V-8E-10D · 2.9 goles/partido · +2.5 en 53%  
-• Bajas: Toluca: sin bajas; Monterrey: sin bajas  
-• Favorito de las casas: Toluca @ 1.56  
+Actualizado 08/11/2026 02:23 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## UNAM Pumas vs Club America — 08/11 · 04:10
 

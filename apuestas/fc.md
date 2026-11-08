@@ -1,43 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 08/11/2026 01:53 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Dov1n vs vivienne — 08/11 · 02:00
-
-👀 candidata · 🎮⚽ FC 27 · World Cup B · **Empate** @ **5.20** (Unibet) · prob 21% vs casas 17% · ventaja +10%
-
-- ❌ Valor: ventaja +10% (mín. 10% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 60.053 partidos)  
-Goles esperados: Dov1n 3.08 · vivienne 3.23  
-Ganador: Dov1n 36% · empate 21% · vivienne 43%  
-Total: más de 6.5 goles 44% · menos 56%  
-Hándicap vivienne: −1.5 29% · −2.5 17%  
-🔎 **Claves**  
-• Forma: Dov1n ❌❌❌❌✅ | vivienne ✅✅✅❌✅  
-• Partidos: Dov1n 1000 | vivienne 797  
-• Liga: World Cup B  
-• Unibet: 1 2.06 · X 5.20 · 2 2.16 (sin margen 43%/17%/41%) · ventaja +10%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 5.20 (+10%) · Paf España 5.20 (+10%)  
-
-## tizzy vs ssstasonn — 08/11 · 02:15
-
-👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana tizzy** @ **1.14** (cuota justa (sin casa)) · prob 88% vs casas 88% · ventaja +0%
-
-- ❌ Valor: ventaja +0% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 60.018 partidos)  
-Goles esperados: tizzy 5.47 · ssstasonn 2.05  
-Ganador: tizzy 88% · empate 8% · ssstasonn 5%  
-Total: más de 7.5 goles 48% · menos 52%  
-Hándicap tizzy: −1.5 76% · −2.5 62%  
-🔎 **Claves**  
-• Forma: tizzy ❌➖✅❌❌ | ssstasonn ❌❌❌❌❌  
-• Partidos: tizzy 364 | ssstasonn 946  
-• Liga: Champions League B  
-• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
+Actualizado 08/11/2026 02:23 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## ssstasonn vs believer — 08/11 · 02:27
 
@@ -57,6 +20,25 @@ Hándicap believer: −1.5 76% · −2.5 62%
 • Liga: Champions League B  
 • Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
 
+## Grellz vs Nightxx — 08/11 · 02:27
+
+👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana Nightxx** @ **3.70** (Unibet) · prob 30% vs casas 23% · ventaja +11%
+
+- ❌ Valor: ventaja +11% (mín. 11% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 60.075 partidos)  
+Goles esperados: Grellz 3.94 · Nightxx 3.32  
+Ganador: Grellz 51% · empate 19% · Nightxx 30%  
+Total: más de 7.5 goles 44% · menos 56%  
+Hándicap Grellz: −1.5 37% · −2.5 24%  
+🔎 **Claves**  
+• Forma: Grellz ❌❌❌✅➖ | Nightxx ❌✅➖✅➖  
+• Partidos: Grellz 1063 | Nightxx 842  
+• Liga: Champions League B  
+• Unibet: 1 1.48 · X 4.80 · 2 3.70 (sin margen 59%/18%/23%) · ventaja +11%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 3.70 (+11%) · Paf España 3.70 (+11%)  
+
 ## Nightxx vs ssstasonn — 08/11 · 02:39
 
 👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana Nightxx** @ **1.30** (cuota justa (sin casa)) · prob 77% vs casas 77% · ventaja +0%
@@ -74,6 +56,44 @@ Hándicap Nightxx: −1.5 63% · −2.5 49%
 • Partidos: Nightxx 838 | ssstasonn 947  
 • Liga: Champions League B  
 • Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
+
+## believer vs tizzy — 08/11 · 02:39
+
+👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana tizzy** @ **2.95** (Unibet) · prob 37% vs casas 30% · ventaja +8%
+
+- ❌ Valor: ventaja +8% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 60.075 partidos)  
+Goles esperados: believer 3.10 · tizzy 3.03  
+Ganador: believer 42% · empate 21% · tizzy 37%  
+Total: más de 6.5 goles 41% · menos 59%  
+Hándicap believer: −1.5 28% · −2.5 16%  
+🔎 **Claves**  
+• Forma: believer ✅✅✅❌➖ | tizzy ✅✅✅❌➖  
+• Partidos: believer 963 | tizzy 369  
+• Liga: Champions League B  
+• Unibet: 1 1.67 · X 5.00 · 2 2.95 (sin margen 53%/18%/30%) · ventaja +8%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.95 (+8%) · Paf España 2.95 (+8%)  
+
+## kirman vs hrk — 08/11 · 02:40
+
+👀 candidata · 🎮⚽ FC 27 · Champions League A · **Gana kirman** @ **2.50** (Unibet) · prob 46% vs casas 35% · ventaja +14%
+
+- ✅ Valor: ventaja +14% (mín. 12% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 60.075 partidos)  
+Goles esperados: kirman 3.15 · hrk 2.86  
+Ganador: kirman 46% · empate 21% · hrk 34%  
+Total: más de 6.5 goles 40% · menos 60%  
+Hándicap kirman: −1.5 31% · −2.5 18%  
+🔎 **Claves**  
+• Forma: kirman ✅✅❌✅✅ | hrk ✅❌✅➖❌  
+• Partidos: kirman 622 | hrk 777  
+• Liga: Champions League A  
+• Unibet: 1 2.50 · X 4.30 · 2 1.94 (sin margen 35%/20%/45%) · ventaja +14%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.50 (+14%) · Paf España 2.50 (+14%)  
 
 ## ssstasonn vs Grellz — 08/11 · 02:51
 
