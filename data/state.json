@@ -1390,11 +1390,6 @@
   "wta|2026-11-08|Carolina Alves|Sara Alejandra Lozano Avellaneda",
   "wta|2026-11-08|Maria Herazo Gonzalez|Maria Jose Sanchez Uribe",
   "wta|2026-11-08|Dalila Jakupovic|Isabella Collazos",
-  "cs2|133460",
-  "cs2|133461",
-  "cs2|133463",
-  "cs2|133462",
-  "cs2|133464",
   "fc|2361115",
   "fc|2360830",
   "fc|2361114",
@@ -2394,7 +2389,11 @@
   "cs2|133438",
   "fc|2367629",
   "fc|2367964",
-  "fc|2368165"
+  "fc|2368165",
+  "cs2|133233",
+  "fc|2367975",
+  "fc|2367974",
+  "fc|2367980"
  ],
  "signals": [
   {
@@ -2740,54 +2739,6 @@
    "captured": "2026-11-03T06:59",
    "version": "7948daf",
    "bajas": ""
-  },
-  {
-   "market": "away",
-   "odds": 2.3,
-   "book": "DraftKings",
-   "p": 0.421,
-   "implied": 0.417,
-   "edge": -0.031,
-   "key": "cfb|2026-11-05|Massachusetts Minutemen|Ball State Cardinals",
-   "match": "Massachusetts Minutemen vs Ball State Cardinals",
-   "pick": "Ball State Cardinals",
-   "start": "2026-11-05T00:00Z",
-   "league": "🏈 NCAA Football",
-   "sport": "🏈",
-   "context": "Massachusetts Minutemen vs Ball State Cardinals (🏈 NCAA Football, fútbol americano). Modelo Elo con 10 años de historial ajustado por bajas: Massachusetts Minutemen 57%, Ball State Cardinals 43%. Cuotas DraftKings 1.645/2.3, hándicap MASS -3.5, total 49.5. Forma Massachusetts Minutemen ✅❌❌❌❌, Ball State Cardinals ❌❌❌✅✅. H2H sin precedentes. Bajas Massachusetts Minutemen: ninguna. Bajas Ball State Cardinals: ninguna.",
-   "considered": true,
-   "placed": false,
-   "captured": "2026-11-03T06:59",
-   "version": "7948daf",
-   "bajas": "Massachusetts Minutemen: sin bajas; Ball State Cardinals: sin bajas",
-   "result": false,
-   "score": "31-30",
-   "close_p": 0.448,
-   "logged": true
-  },
-  {
-   "market": "away",
-   "odds": 1.031,
-   "book": "DraftKings",
-   "p": 0.888,
-   "implied": 0.936,
-   "edge": -0.084,
-   "key": "cfb|2026-11-05|Sacramento State Hornets|Toledo Rockets",
-   "match": "Sacramento State Hornets vs Toledo Rockets",
-   "pick": "Toledo Rockets",
-   "start": "2026-11-05T00:00Z",
-   "league": "🏈 NCAA Football",
-   "sport": "🏈",
-   "context": "Sacramento State Hornets vs Toledo Rockets (🏈 NCAA Football, fútbol americano). Modelo Elo con 10 años de historial ajustado por bajas: Sacramento State Hornets 16%, Toledo Rockets 84%. Cuotas DraftKings 15.0/1.031, hándicap TOL -25.5, total 52.5. Forma Sacramento State Hornets ❌❌❌❌✅, Toledo Rockets ✅✅❌✅✅. H2H sin precedentes. Bajas Sacramento State Hornets: ninguna. Bajas Toledo Rockets: ninguna.",
-   "considered": true,
-   "placed": false,
-   "captured": "2026-11-03T06:59",
-   "version": "7948daf",
-   "bajas": "Sacramento State Hornets: sin bajas; Toledo Rockets: sin bajas",
-   "result": true,
-   "score": "17-20",
-   "close_p": 0.9399,
-   "logged": true
   },
   {
    "market": "home",
@@ -4699,31 +4650,6 @@
    "logged": true
   },
   {
-   "market": "H",
-   "pick": "Inquisitor",
-   "odds": 2.3,
-   "book": "Unibet",
-   "implied": 0.374,
-   "edge": 0.141,
-   "sin_stake": true,
-   "p": 0.496,
-   "key": "fc|2361914",
-   "match": "Inquisitor vs hotShot",
-   "start": "2026-11-04T23:56:00+00:00",
-   "league": "🎮⚽ FC 27 · World Cup A",
-   "sport": "🎮⚽",
-   "context": "EA FC Esoccer Battle Inquisitor vs hotShot (World Cup A): goles esperados 2.23-1.71, 1X2 50%/24%/27%. Sin cuotas de casa.",
-   "captured": "2026-11-04T23:34",
-   "version": "46313d1",
-   "bajas": "",
-   "considered": true,
-   "placed": false,
-   "score": "4-4",
-   "result": false,
-   "close_p": null,
-   "logged": true
-  },
-  {
    "market": "over",
    "line": 48.5,
    "odds": 1.909,
@@ -5943,7 +5869,11 @@
    "version": "5d2adff",
    "bajas": "Kennesaw State Owls: sin bajas; Delaware Blue Hens: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "42-40",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "sph",
@@ -5964,7 +5894,11 @@
    "version": "5d2adff",
    "bajas": "Kennesaw State Owls: sin bajas; Delaware Blue Hens: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "42-40",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "home",
@@ -5984,7 +5918,11 @@
    "version": "5d2adff",
    "bajas": "Kennesaw State Owls: sin bajas; Delaware Blue Hens: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "42-40",
+   "close_p": 0.4954,
+   "logged": true
   },
   {
    "market": "over",
@@ -6238,7 +6176,11 @@
    "version": "5d2adff",
    "bajas": "Washington Huskies: sin bajas; Penn State Nittany Lions: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "25-28",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "sph",
@@ -6259,7 +6201,11 @@
    "version": "5d2adff",
    "bajas": "Washington Huskies: sin bajas; Penn State Nittany Lions: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "25-28",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "home",
@@ -6279,7 +6225,11 @@
    "version": "5d2adff",
    "bajas": "Washington Huskies: sin bajas; Penn State Nittany Lions: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "25-28",
+   "close_p": 0.55,
+   "logged": true
   },
   {
    "market": "over",
@@ -6301,7 +6251,11 @@
    "version": "5d2adff",
    "bajas": "UAB Blazers: sin bajas; Charlotte 49ers: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "23-12",
+   "close_p": 0.5067,
+   "logged": true
   },
   {
    "market": "sph",
@@ -6322,7 +6276,11 @@
    "version": "5d2adff",
    "bajas": "UAB Blazers: sin bajas; Charlotte 49ers: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "23-12",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "home",
@@ -6342,7 +6300,11 @@
    "version": "5d2adff",
    "bajas": "UAB Blazers: sin bajas; Charlotte 49ers: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "23-12",
+   "close_p": 0.7409,
+   "logged": true
   },
   {
    "market": "over",
@@ -6364,7 +6326,11 @@
    "version": "5d2adff",
    "bajas": "Navy Midshipmen: sin bajas; Temple Owls: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "42-35",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "sph",
@@ -6385,7 +6351,11 @@
    "version": "5d2adff",
    "bajas": "Navy Midshipmen: sin bajas; Temple Owls: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "42-35",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "home",
@@ -6405,7 +6375,11 @@
    "version": "5d2adff",
    "bajas": "Navy Midshipmen: sin bajas; Temple Owls: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "42-35",
+   "close_p": 0.7008,
+   "logged": true
   },
   {
    "market": "over",
@@ -6427,7 +6401,11 @@
    "version": "5d2adff",
    "bajas": "Georgia Southern Eagles: sin bajas; Marshall Thundering Herd: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "49-13",
+   "close_p": 0.4911,
+   "logged": true
   },
   {
    "market": "sph",
@@ -6448,7 +6426,11 @@
    "version": "5d2adff",
    "bajas": "Georgia Southern Eagles: sin bajas; Marshall Thundering Herd: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "49-13",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "home",
@@ -6468,7 +6450,11 @@
    "version": "5d2adff",
    "bajas": "Georgia Southern Eagles: sin bajas; Marshall Thundering Herd: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "49-13",
+   "close_p": 0.7239,
+   "logged": true
   },
   {
    "market": "over",
@@ -7178,15 +7164,6 @@
    "pick": "Más de 48.5 puntos",
    "league": "🏈 NCAA Football",
    "sport": "🏈",
-   "info": [
-    "📊 <b>Escenarios</b>: total esperado <b>48.8</b> puntos · línea 48.5",
-    "Más 48% · Menos 52%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Jacksonville State Gamecocks ✅✅✅✅✅ | Sam Houston Bearkats ❌❌❌❌❌",
-    "• H2H: 4 desde 2021: 3-1",
-    "• Bajas: Jacksonville State Gamecocks: sin bajas; Sam Houston Bearkats: sin bajas"
-   ],
    "context": "Jacksonville State Gamecocks vs Sam Houston Bearkats (🏈 NCAA Football). Modelo de puntos (ataque/defensa con 10 años, decaimiento 1 año): total esperado 48.8 frente a línea 48.5. Forma Jacksonville State Gamecocks ✅✅✅✅✅, Sam Houston Bearkats ❌❌❌❌❌. H2H 4 desde 2021: 3-1. Bajas: Jacksonville State Gamecocks: sin bajas; Sam Houston Bearkats: sin bajas.",
    "captured": "2026-11-05T00:12",
    "version": "5d2adff",
@@ -7208,14 +7185,6 @@
    "pick": "Jacksonville State Gamecocks -16.5",
    "league": "🏈 NCAA Football",
    "sport": "🏈",
-   "info": [
-    "📊 <b>Escenarios</b>: Jacksonville State Gamecocks cubre -16.5 con prob. 51% (casas 51%)",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Jacksonville State Gamecocks ✅✅✅✅✅ | Sam Houston Bearkats ❌❌❌❌❌",
-    "• H2H: 4 desde 2021: 3-1",
-    "• Bajas: Jacksonville State Gamecocks: sin bajas; Sam Houston Bearkats: sin bajas"
-   ],
    "context": "Jacksonville State Gamecocks vs Sam Houston Bearkats (🏈 NCAA Football). Hándicap Jacksonville State Gamecocks -16.5: margen esperado desde el Elo (gana Jacksonville State Gamecocks 95%). Forma Jacksonville State Gamecocks ✅✅✅✅✅, Sam Houston Bearkats ❌❌❌❌❌. H2H 4 desde 2021: 3-1. Bajas: Jacksonville State Gamecocks: sin bajas; Sam Houston Bearkats: sin bajas.",
    "captured": "2026-11-05T00:12",
    "version": "5d2adff",
@@ -7236,18 +7205,6 @@
    "start": "2026-11-08T00:00Z",
    "league": "🏈 NCAA Football",
    "sport": "🏈",
-   "info": [
-    "📊 <b>Escenarios</b> (Elo con 9.457 partidos y bajas)",
-    "Gana Jacksonville State Gamecocks 95% · Gana Sam Houston Bearkats 5%",
-    "Casas: Jacksonville State Gamecocks 86% · Sam Houston Bearkats 14%",
-    "Hándicap JXST -16.5 · Total puntos 48.5",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Jacksonville State Gamecocks ✅✅✅✅✅ | Sam Houston Bearkats ❌❌❌❌❌",
-    "• H2H: 4 desde 2021: 3-1",
-    "• Bajas: Jacksonville State Gamecocks: sin bajas; Sam Houston Bearkats: sin bajas",
-    "• Favorito de las casas: Jacksonville State Gamecocks @ 1.12"
-   ],
    "context": "Jacksonville State Gamecocks vs Sam Houston Bearkats (🏈 NCAA Football, fútbol americano). Modelo Elo con 10 años de historial ajustado por bajas: Jacksonville State Gamecocks 95%, Sam Houston Bearkats 5%. Cuotas DraftKings 1.118/6.75, hándicap JXST -16.5, total 48.5. Forma Jacksonville State Gamecocks ✅✅✅✅✅, Sam Houston Bearkats ❌❌❌❌❌. H2H 4 desde 2021: 3-1. Bajas Jacksonville State Gamecocks: ninguna. Bajas Sam Houston Bearkats: ninguna.",
    "captured": "2026-11-05T00:12",
    "version": "5d2adff",
@@ -15778,19 +15735,6 @@
    "start": "2026-11-08T00:00:00+00:00",
    "league": "🇺🇸 MLS",
    "sport": "⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (goles esperados 1.58 - 1.31)",
-    "1 38% · X 28% · 2 34%",
-    "1X 66% · X2 62% · 12 72%",
-    "+1.5 79% · +2.5 55% · +3.5 33% · Ambos marcan 59%",
-    "Marcadores: 1-1 12% · 2-1 9% · 1-0 8% · 1-2 8%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Austin FC ❌❌✅❌❌ | Portland Timbers ❌➖✅✅✅",
-    "• H2H: 12 desde 2021: 4V-2E-6D · 2.5 goles/partido · +2.5 en 58%",
-    "• Bajas: Austin FC: 0 fuera, 1 duda; Portland Timbers: 0 fuera, 4 duda",
-    "• Favorito de las casas: Portland Timbers @ 1.66"
-   ],
    "context": "Austin FC vs Portland Timbers (🇺🇸 MLS). Modelo Poisson con historial desde 2005 y bajas: 1 38% X 28% 2 34%, +2.5 55%, ambos marcan 59%. Forma Austin FC ❌❌✅❌❌, Portland Timbers ❌➖✅✅✅ (✅ victoria ➖ empate ❌ derrota). H2H 12 desde 2021: 4V-2E-6D · 2.5 goles/partido · +2.5 en 58%. Bajas Austin FC: Jon Bell D duda 23 PJ. Bajas Portland Timbers: Trey Muse G duda 0 PJ; Zac McGraw D duda 0 PJ; Brandon Bye M duda 20 PJ; Alex Bonetig D duda 8 PJ.",
    "captured": "2026-11-06T10:09",
    "version": "bbe38c6",
@@ -15811,19 +15755,6 @@
    "start": "2026-11-08T00:00:00+00:00",
    "league": "🇺🇸 MLS",
    "sport": "⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (goles esperados 1.64 - 1.06)",
-    "1 52% · X 26% · 2 23%",
-    "1X 77% · X2 48% · 12 74%",
-    "+1.5 76% · +2.5 50% · +3.5 28% · Ambos marcan 53%",
-    "Marcadores: 1-1 12% · 1-0 10% · 2-1 10% · 2-0 9%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: FC Dallas ✅➖✅❌➖ | Colorado Rapids ➖➖✅➖❌",
-    "• H2H: 34 desde 2012: 12V-10E-12D · 2.8 goles/partido · +2.5 en 56%",
-    "• Bajas: FC Dallas: 2 fuera, 2 duda (Petar Musa, Ramiro); Colorado Rapids: 0 fuera, 4 duda",
-    "• Favorito de las casas: FC Dallas @ 2.05"
-   ],
    "context": "FC Dallas vs Colorado Rapids (🇺🇸 MLS). Modelo Poisson con historial desde 2005 y bajas: 1 52% X 26% 2 23%, +2.5 50%, ambos marcan 53%. Forma FC Dallas ✅➖✅❌➖, Colorado Rapids ➖➖✅➖❌ (✅ victoria ➖ empate ❌ derrota). H2H 34 desde 2012: 12V-10E-12D · 2.8 goles/partido · +2.5 en 56%. Bajas FC Dallas: Ramiro M sancionado 27 PJ; Petar Musa F sancionado 29 PJ; Geovane Jesus D duda 0 PJ; Logan Farrington F duda 27 PJ. Bajas Colorado Rapids: Reggie Cannon D duda 18 PJ; Youssef Maziz M duda 6 PJ; Ibrahim Sadiq F duda 3 PJ; Zack Steffen G duda 9 PJ.",
    "captured": "2026-11-06T10:09",
    "version": "bbe38c6",
@@ -15844,19 +15775,6 @@
    "start": "2026-11-08T00:00:00+00:00",
    "league": "🇺🇸 MLS",
    "sport": "⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (goles esperados 1.37 - 1.14)",
-    "1 43% · X 28% · 2 30%",
-    "1X 70% · X2 57% · 12 72%",
-    "+1.5 72% · +2.5 46% · +3.5 24% · Ambos marcan 51%",
-    "Marcadores: 1-1 13% · 1-0 10% · 0-0 9% · 2-1 9%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Houston Dynamo ➖➖➖✅❌ | St. Louis City ➖❌❌❌❌",
-    "• H2H: 7 desde 2023: 2V-2E-3D · 2.4 goles/partido · +2.5 en 57%",
-    "• Bajas: Houston Dynamo: 0 fuera, 5 duda; St. Louis City: 1 fuera, 4 duda (Tomas Ostrak)",
-    "• Favorito de las casas: Houston Dynamo @ 2.55"
-   ],
    "context": "Houston Dynamo vs St. Louis City (🇺🇸 MLS). Modelo Poisson con historial desde 2005 y bajas: 1 43% X 28% 2 30%, +2.5 46%, ambos marcan 51%. Forma Houston Dynamo ➖➖➖✅❌, St. Louis City ➖❌❌❌❌ (✅ victoria ➖ empate ❌ derrota). H2H 7 desde 2023: 2V-2E-3D · 2.4 goles/partido · +2.5 en 57%. Bajas Houston Dynamo: Hector Herrera M duda 29 PJ; Guilherme Augusto F duda 30 PJ; Marcelo Saracchi D duda 5 PJ; Jimmy Maurer G duda 1 PJ; Reese Miller D duda 0 PJ. Bajas St. Louis City: Tomas Ostrak M sancionado 9 PJ; Roman Buerki G duda 28 PJ; Alexandru Matan F duda 12 PJ; Celio Pompeu M duda 3 PJ; Tyson Pearce M duda 0 PJ.",
    "captured": "2026-11-06T10:09",
    "version": "bbe38c6",
@@ -15877,19 +15795,6 @@
    "start": "2026-11-08T00:00:00+00:00",
    "league": "🇺🇸 MLS",
    "sport": "⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (goles esperados 1.62 - 1.29)",
-    "1 46% · X 26% · 2 28%",
-    "1X 72% · X2 54% · 12 74%",
-    "+1.5 79% · +2.5 56% · +3.5 33% · Ambos marcan 59%",
-    "Marcadores: 1-1 12% · 2-1 9% · 1-0 8% · 1-2 7%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Minnesota United ➖✅➖✅✅ | San Jose Earthquakes ➖➖❌➖✅",
-    "• H2H: 19 desde 2017: 10V-4E-5D · 3.4 goles/partido · +2.5 en 58%",
-    "• Bajas: Minnesota United: 1 fuera, 1 duda (Dominik Fitz); San Jose Earthquakes: 0 fuera, 1 duda",
-    "• Favorito de las casas: Minnesota United @ 1.68"
-   ],
    "context": "Minnesota United vs San Jose Earthquakes (🇺🇸 MLS). Modelo Poisson con historial desde 2005 y bajas: 1 46% X 26% 2 28%, +2.5 56%, ambos marcan 59%. Forma Minnesota United ➖✅➖✅✅, San Jose Earthquakes ➖➖❌➖✅ (✅ victoria ➖ empate ❌ derrota). H2H 19 desde 2017: 10V-4E-5D · 3.4 goles/partido · +2.5 en 58%. Bajas Minnesota United: Dominik Fitz M sancionado 1 PJ; Wil Trapp M duda 29 PJ. Bajas San Jose Earthquakes: DeJuan Jones D duda 5 PJ.",
    "captured": "2026-11-06T10:09",
    "version": "bbe38c6",
@@ -15910,19 +15815,6 @@
    "start": "2026-11-08T00:00:00+00:00",
    "league": "🇺🇸 MLS",
    "sport": "⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (goles esperados 1.94 - 1.31)",
-    "1 46% · X 26% · 2 28%",
-    "1X 72% · X2 54% · 12 74%",
-    "+1.5 84% · +2.5 63% · +3.5 41% · Ambos marcan 63%",
-    "Marcadores: 1-1 10% · 2-1 10% · 2-0 7% · 1-0 7%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Real Salt Lake ➖✅✅✅❌ | Los Angeles Galaxy ❌✅➖➖✅",
-    "• H2H: 40 desde 2012: 12V-9E-19D · 3.1 goles/partido · +2.5 en 57%",
-    "• Bajas: Real Salt Lake: 0 fuera, 2 duda; Los Angeles Galaxy: 0 fuera, 1 duda",
-    "• Favorito de las casas: Real Salt Lake @ 1.71"
-   ],
    "context": "Real Salt Lake vs Los Angeles Galaxy (🇺🇸 MLS). Modelo Poisson con historial desde 2005 y bajas: 1 46% X 26% 2 28%, +2.5 63%, ambos marcan 63%. Forma Real Salt Lake ➖✅✅✅❌, Los Angeles Galaxy ❌✅➖➖✅ (✅ victoria ➖ empate ❌ derrota). H2H 40 desde 2012: 12V-9E-19D · 3.1 goles/partido · +2.5 en 57%. Bajas Real Salt Lake: Diego Luna M duda 18 PJ; Emeka Eneli F duda 1 PJ. Bajas Los Angeles Galaxy: Lorenzo Dellavalle D duda 0 PJ.",
    "captured": "2026-11-06T10:09",
    "version": "bbe38c6",
@@ -15943,19 +15835,6 @@
    "start": "2026-11-08T00:00:00+00:00",
    "league": "🇺🇸 MLS",
    "sport": "⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (goles esperados 2.43 - 1.23)",
-    "1 62% · X 21% · 2 17%",
-    "1X 83% · X2 38% · 12 79%",
-    "+1.5 88% · +2.5 71% · +3.5 50% · Ambos marcan 65%",
-    "Marcadores: 2-1 9% · 1-1 8% · 2-0 8% · 3-1 8%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: San Diego FC ➖➖➖❌✅ | Sporting Kansas City ❌❌❌❌➖",
-    "• H2H: 3 desde 2025: 2V-1E-0D · 1.0 goles/partido · +2.5 en 0%",
-    "• Bajas: San Diego FC: 0 fuera, 1 duda; Sporting Kansas City: sin bajas",
-    "• Favorito de las casas: San Diego FC @ 1.45"
-   ],
    "context": "San Diego FC vs Sporting Kansas City (🇺🇸 MLS). Modelo Poisson con historial desde 2005 y bajas: 1 62% X 21% 2 17%, +2.5 71%, ambos marcan 65%. Forma San Diego FC ➖➖➖❌✅, Sporting Kansas City ❌❌❌❌➖ (✅ victoria ➖ empate ❌ derrota). H2H 3 desde 2025: 2V-1E-0D · 1.0 goles/partido · +2.5 en 0%. Bajas San Diego FC: Elias Achouri M duda 11 PJ. Bajas Sporting Kansas City: ninguna.",
    "captured": "2026-11-06T10:09",
    "version": "bbe38c6",
@@ -15976,19 +15855,6 @@
    "start": "2026-11-08T00:00:00+00:00",
    "league": "🇺🇸 MLS",
    "sport": "⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (goles esperados 1.39 - 1.27)",
-    "1 39% · X 28% · 2 33%",
-    "1X 67% · X2 61% · 12 72%",
-    "+1.5 75% · +2.5 50% · +3.5 28% · Ambos marcan 55%",
-    "Marcadores: 1-1 13% · 1-0 9% · 2-1 9% · 0-1 8%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Seattle Sounders ❌➖➖❌❌ | Los Angeles FC ➖✅➖➖❌",
-    "• H2H: 24 desde 2018: 6V-5E-13D · 2.8 goles/partido · +2.5 en 54%",
-    "• Bajas: Seattle Sounders: 0 fuera, 2 duda; Los Angeles FC: 0 fuera, 1 duda",
-    "• Favorito de las casas: Seattle Sounders @ 1.81"
-   ],
    "context": "Seattle Sounders vs Los Angeles FC (🇺🇸 MLS). Modelo Poisson con historial desde 2005 y bajas: 1 39% X 28% 2 33%, +2.5 50%, ambos marcan 55%. Forma Seattle Sounders ❌➖➖❌❌, Los Angeles FC ➖✅➖➖❌ (✅ victoria ➖ empate ❌ derrota). H2H 24 desde 2018: 6V-5E-13D · 2.8 goles/partido · +2.5 en 54%. Bajas Seattle Sounders: Pedro De la Vega F duda 0 PJ; Yeimar Gomez D duda 7 PJ. Bajas Los Angeles FC: Lorenzo Dellavalle D duda 0 PJ.",
    "captured": "2026-11-06T10:09",
    "version": "bbe38c6",
@@ -41502,10 +41368,6 @@
    "start": "2026-11-08T00:00:00+00:00",
    "league": "💎 Valor vs Pinnacle · USA - Major League Soccer",
    "sport": "⚽💎",
-   "info": [
-    "💎 <b>Valor contra Pinnacle</b>: LeoVegas paga 2.06 y el precio justo de Pinnacle es 1.97 (ventaja +4.4%)",
-    "Backtest 2015-2026 (cuota ≤ 2.5, > 3 %): ROI +11 % ± 3 %, CLV +5 %."
-   ],
    "context": "FC Dallas vs Colorado Rapids (USA - Major League Soccer). Estrategia de valor: LeoVegas 2.06 frente a Pinnacle justo 1.97.",
    "captured": "2026-11-07T14:59",
    "version": "da0bec4",
@@ -52385,6 +52247,105 @@
    "result": false,
    "close_p": null,
    "logged": true
+  },
+  {
+   "market": "A",
+   "pick": "believer",
+   "odds": 1.13,
+   "book": "cuota justa (sin casa)",
+   "implied": 0.886,
+   "edge": 0.0,
+   "p": 0.886,
+   "key": "fc|2367975",
+   "match": "ssstasonn vs believer",
+   "start": "2026-11-08T01:27:00+00:00",
+   "league": "🎮⚽ FC 27 · Champions League B",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 60.018 partidos)",
+    "Goles esperados: ssstasonn 1.87 · believer 5.28",
+    "Ganador: ssstasonn 4% · empate 7% · believer 89%",
+    "Total: más de 7.5 goles 42% · menos 58%",
+    "Hándicap believer: −1.5 76% · −2.5 62%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: ssstasonn ❌❌❌❌❌ | believer ✅✅✅✅✅",
+    "• Partidos: ssstasonn 946 | believer 959",
+    "• Liga: Champions League B",
+    "• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta)."
+   ],
+   "context": "EA FC Esoccer Battle ssstasonn vs believer (Champions League B): goles esperados 1.87-5.28, 1X2 4%/7%/89%. Sin cuotas de casa.",
+   "captured": "2026-11-08T00:07",
+   "version": "80956e4",
+   "bajas": "",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "H",
+   "pick": "tizzy",
+   "odds": 1.14,
+   "book": "cuota justa (sin casa)",
+   "implied": 0.875,
+   "edge": 0.0,
+   "p": 0.875,
+   "key": "fc|2367974",
+   "match": "tizzy vs ssstasonn",
+   "start": "2026-11-08T01:15:00+00:00",
+   "league": "🎮⚽ FC 27 · Champions League B",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 60.018 partidos)",
+    "Goles esperados: tizzy 5.47 · ssstasonn 2.05",
+    "Ganador: tizzy 88% · empate 8% · ssstasonn 5%",
+    "Total: más de 7.5 goles 48% · menos 52%",
+    "Hándicap tizzy: −1.5 76% · −2.5 62%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: tizzy ❌➖✅❌❌ | ssstasonn ❌❌❌❌❌",
+    "• Partidos: tizzy 364 | ssstasonn 946",
+    "• Liga: Champions League B",
+    "• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta)."
+   ],
+   "context": "EA FC Esoccer Battle tizzy vs ssstasonn (Champions League B): goles esperados 5.47-2.05, 1X2 88%/8%/5%. Sin cuotas de casa.",
+   "captured": "2026-11-08T00:07",
+   "version": "80956e4",
+   "bajas": "",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "A",
+   "pick": "Grellz",
+   "odds": 1.18,
+   "book": "cuota justa (sin casa)",
+   "implied": 0.844,
+   "edge": 0.0,
+   "p": 0.844,
+   "key": "fc|2367980",
+   "match": "ssstasonn vs Grellz",
+   "start": "2026-11-08T01:51:00+00:00",
+   "league": "🎮⚽ FC 27 · Champions League B",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 60.018 partidos)",
+    "Goles esperados: ssstasonn 2.15 · Grellz 5.17",
+    "Ganador: ssstasonn 6% · empate 9% · Grellz 84%",
+    "Total: más de 7.5 goles 45% · menos 55%",
+    "Hándicap Grellz: −1.5 71% · −2.5 57%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: ssstasonn ❌❌❌❌❌ | Grellz ✅➖❌✅✅",
+    "• Partidos: ssstasonn 946 | Grellz 1058",
+    "• Liga: Champions League B",
+    "• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta)."
+   ],
+   "context": "EA FC Esoccer Battle ssstasonn vs Grellz (Champions League B): goles esperados 2.15-5.17, 1X2 6%/9%/84%. Sin cuotas de casa.",
+   "captured": "2026-11-08T00:07",
+   "version": "80956e4",
+   "bajas": "",
+   "considered": true,
+   "placed": false
   }
  ],
  "bank": {

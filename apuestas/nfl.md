@@ -1,50 +1,6 @@
 # 🏈 NFL·NCAA · apuestas de valor
 
-Actualizado 08/11/2026 00:53 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Jacksonville State Gamecocks vs Sam Houston Bearkats — 08/11 · 01:00
-
-👀 candidata · 🏈 NCAA Football · **Más de 48.5 puntos** @ **1.98** (DraftKings) · prob 48% vs casas 48% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 totales» sin pérdidas demostradas
-
-📊 **Escenarios**: total esperado **48.8** puntos · línea 48.5  
-Más 48% · Menos 52%  
-🔎 **Claves**  
-• Forma: Jacksonville State Gamecocks ✅✅✅✅✅ | Sam Houston Bearkats ❌❌❌❌❌  
-• H2H: 4 desde 2021: 3-1  
-• Bajas: Jacksonville State Gamecocks: sin bajas; Sam Houston Bearkats: sin bajas  
-
-## Jacksonville State Gamecocks vs Sam Houston Bearkats — 08/11 · 01:00
-
-👀 candidata · 🏈 NCAA Football · **Jacksonville State Gamecocks -16.5** @ **1.87** (DraftKings) · prob 51% vs casas 51% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 hándicap» sin pérdidas demostradas
-
-📊 **Escenarios**: Jacksonville State Gamecocks cubre -16.5 con prob. 51% (casas 51%)  
-🔎 **Claves**  
-• Forma: Jacksonville State Gamecocks ✅✅✅✅✅ | Sam Houston Bearkats ❌❌❌❌❌  
-• H2H: 4 desde 2021: 3-1  
-• Bajas: Jacksonville State Gamecocks: sin bajas; Sam Houston Bearkats: sin bajas  
-
-## Jacksonville State Gamecocks vs Sam Houston Bearkats — 08/11 · 01:00
-
-👀 candidata · 🏈 NCAA Football · **Gana Jacksonville State Gamecocks** @ **1.12** (DraftKings) · prob 86% vs casas 86% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo con 9.457 partidos y bajas)  
-Gana Jacksonville State Gamecocks 95% · Gana Sam Houston Bearkats 5%  
-Casas: Jacksonville State Gamecocks 86% · Sam Houston Bearkats 14%  
-Hándicap JXST -16.5 · Total puntos 48.5  
-🔎 **Claves**  
-• Forma: Jacksonville State Gamecocks ✅✅✅✅✅ | Sam Houston Bearkats ❌❌❌❌❌  
-• H2H: 4 desde 2021: 3-1  
-• Bajas: Jacksonville State Gamecocks: sin bajas; Sam Houston Bearkats: sin bajas  
-• Favorito de las casas: Jacksonville State Gamecocks @ 1.12  
+Actualizado 08/11/2026 01:07 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Notre Dame Fighting Irish vs Miami Hurricanes — 08/11 · 01:30
 
