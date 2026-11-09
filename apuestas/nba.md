@@ -1,50 +1,6 @@
 # 🏀 NBA·NCAA · apuestas de valor
 
-Actualizado 09/11/2026 04:54 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## USC Trojans vs Wichita State Shockers — 09/11 · 05:00
-
-👀 candidata · 🏀 NCAA Basketball · **Más de 155.5 puntos** @ **1.91** (DraftKings) · prob 50% vs casas 50% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏀 totales» sin pérdidas demostradas
-
-📊 **Escenarios**: total esperado **155.5** puntos · línea 155.5  
-Más 50% · Menos 50%  
-🔎 **Claves**  
-• Forma: USC Trojans ❌❌❌❌✅ | Wichita State Shockers ❌✅✅❌✅  
-• H2H: sin precedentes  
-• Bajas: USC Trojans: sin bajas; Wichita State Shockers: sin bajas  
-
-## USC Trojans vs Wichita State Shockers — 09/11 · 05:00
-
-👀 candidata · 🏀 NCAA Basketball · **USC Trojans +6.5** @ **1.93** (DraftKings) · prob 50% vs casas 50% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏀 hándicap» sin pérdidas demostradas
-
-📊 **Escenarios**: USC Trojans cubre +6.5 con prob. 50% (casas 50%)  
-🔎 **Claves**  
-• Forma: USC Trojans ❌❌❌❌✅ | Wichita State Shockers ❌✅✅❌✅  
-• H2H: sin precedentes  
-• Bajas: USC Trojans: sin bajas; Wichita State Shockers: sin bajas  
-
-## USC Trojans vs Wichita State Shockers — 09/11 · 05:00
-
-👀 candidata · 🏀 NCAA Basketball · **Gana USC Trojans** @ **3.20** (DraftKings) · prob 30% vs casas 30% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏀 no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo con 61.303 partidos y bajas)  
-Gana USC Trojans 37% · Gana Wichita State Shockers 63%  
-Casas: USC Trojans 30% · Wichita State Shockers 70%  
-Hándicap USC -6.5 · Total puntos 155.5  
-🔎 **Claves**  
-• Forma: USC Trojans ❌❌❌❌✅ | Wichita State Shockers ❌✅✅❌✅  
-• H2H: sin precedentes  
-• Bajas: USC Trojans: sin bajas; Wichita State Shockers: sin bajas  
-• Favorito de las casas: Wichita State Shockers @ 1.37  
+Actualizado 09/11/2026 06:17 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Duke Blue Devils vs Michigan State Spartans — 11/11 · 01:00
 

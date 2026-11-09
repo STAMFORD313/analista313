@@ -1,61 +1,42 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 09/11/2026 04:54 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 09/11/2026 06:17 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## SpeciAL vs vivienne — 09/11 · 05:08
+## Maxa vs Tesla — 09/11 · 06:30
 
-👀 candidata · 🎮⚽ FC 27 · Champions League B · **Empate** @ **5.40** (Unibet) · prob 20% vs casas 16% · ventaja +10%
+👀 candidata · 🎮⚽ FC 27 · Bundesliga · **Gana Tesla** @ **1.86** (Unibet) · prob 57% vs casas 47% · ventaja +7%
 
-- ❌ Valor: ventaja +10% (mín. 10% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
+- ❌ Valor: ventaja +7% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 61.344 partidos)  
-Goles esperados: SpeciAL 3.33 · vivienne 3.13  
-Ganador: SpeciAL 44% · empate 20% · vivienne 35%  
-Total: más de 6.5 goles 47% · menos 53%  
-Hándicap SpeciAL: −1.5 30% · −2.5 18%  
+📊 **Escenarios** (Poisson por jugador, 61.400 partidos)  
+Goles esperados: Maxa 2.69 · Tesla 3.50  
+Ganador: Maxa 25% · empate 18% · Tesla 57%  
+Total: más de 6.5 goles 42% · menos 58%  
+Hándicap Tesla: −1.5 38% · −2.5 24%  
 🔎 **Claves**  
-• Forma: SpeciAL ✅❌✅➖✅ | vivienne ✅❌➖✅✅  
-• Partidos: SpeciAL 853 | vivienne 825  
-• Liga: Champions League B  
-• Unibet: 1 2.04 · X 5.40 · 2 2.16 (sin margen 43%/16%/41%) · ventaja +10%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 5.40 (+10%) · Paf España 5.40 (+10%)  
+• Forma: Maxa ❌✅❌✅✅ | Tesla ✅➖❌✅❌  
+• Partidos: Maxa 956 | Tesla 939  
+• Liga: Bundesliga  
+• Unibet: 1 2.70 · X 4.20 · 2 1.86 (sin margen 32%/21%/47%) · ventaja +7%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 1.86 (+7%) · Paf España 1.86 (+7%)  
 
-## Dov1n vs Lx7ss — 09/11 · 05:08
+## v1nniePuh vs imagin — 09/11 · 06:36
 
-👀 candidata · 🎮⚽ FC 27 · Champions League B · **Empate** @ **5.80** (Unibet) · prob 19% vs casas 15% · ventaja +9%
+👀 candidata · 🎮⚽ FC 27 · Premier League 2x6 · **Gana v1nniePuh** @ **1.90** (Unibet) · prob 60% vs casas 46% · ventaja +13%
 
-- ❌ Valor: ventaja +9% (mín. 10% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
+- ✅ Valor: ventaja +13% (mín. 11% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 61.344 partidos)  
-Goles esperados: Dov1n 3.31 · Lx7ss 3.92  
-Ganador: Dov1n 32% · empate 19% · Lx7ss 49%  
-Total: más de 7.5 goles 44% · menos 56%  
-Hándicap Lx7ss: −1.5 36% · −2.5 23%  
+📊 **Escenarios** (Poisson por jugador, 61.400 partidos)  
+Goles esperados: v1nniePuh 4.97 · imagin 4.01  
+Ganador: v1nniePuh 59% · empate 14% · imagin 26%  
+Total: más de 8.5 goles 54% · menos 46%  
+Hándicap v1nniePuh: −1.5 42% · −2.5 30%  
 🔎 **Claves**  
-• Forma: Dov1n ❌✅❌❌❌ | Lx7ss ❌✅❌✅❌  
-• Partidos: Dov1n 1041 | Lx7ss 1044  
-• Liga: Champions League B  
-• Unibet: 1 2.23 · X 5.80 · 2 1.93 (sin margen 39%/15%/45%) · ventaja +9%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 5.80 (+9%) · Paf España 5.80 (+9%)  
-
-## Paka vs Lx7ss — 09/11 · 05:20
-
-👀 candidata · 🎮⚽ FC 27 · Champions League B · **Empate** @ **5.60** (Unibet) · prob 20% vs casas 16% · ventaja +9%
-
-- ❌ Valor: ventaja +9% (mín. 10% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 61.344 partidos)  
-Goles esperados: Paka 3.33 · Lx7ss 3.60  
-Ganador: Paka 36% · empate 20% · Lx7ss 45%  
-Total: más de 6.5 goles 54% · menos 46%  
-Hándicap Lx7ss: −1.5 32% · −2.5 19%  
-🔎 **Claves**  
-• Forma: Paka ❌✅❌✅❌ | Lx7ss ❌✅❌✅❌  
-• Partidos: Paka 872 | Lx7ss 1044  
-• Liga: Champions League B  
-• Unibet: 1 2.30 · X 5.60 · 2 1.90 (sin margen 38%/16%/46%) · ventaja +9%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 5.60 (+9%) · Paf España 5.60 (+9%)  
+• Forma: v1nniePuh ❌✅✅❌✅ | imagin ❌❌✅❌❌  
+• Partidos: v1nniePuh 636 | imagin 219  
+• Liga: Premier League 2x6  
+• Unibet: 1 1.90 · X 5.40 · 2 2.32 (sin margen 46%/16%/38%) · ventaja +13%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 1.90 (+13%) · Paf España 1.90 (+13%)  
 

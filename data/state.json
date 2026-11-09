@@ -1576,10 +1576,6 @@
   "wta|2026-11-11|Aryna Sabalenka|Mirra Andreeva",
   "wta|2026-11-11|Jessica Pegula|Linda Noskova",
   "wta|2026-11-11|Marta Kostyuk|Coco Gauff",
-  "fc|2361928",
-  "fc|2364044",
-  "fc|2361937",
-  "fc|2361932",
   "fc|2361930",
   "fc|2361934",
   "fc|2362693",
@@ -2579,7 +2575,17 @@
   "cs2|132973",
   "fc|2369749",
   "fc|2369751",
-  "fc|2369748"
+  "fc|2369748",
+  "cs2|133188",
+  "cs2|133189",
+  "cs2|133190",
+  "cs2|133191",
+  "cs2|133671",
+  "dota2|133122",
+  "dota2|133639",
+  "fc|2371709",
+  "fc|2370228",
+  "fc|2369236"
  ],
  "signals": [
   {
@@ -8671,7 +8677,11 @@
    "version": "d8ca472",
    "bajas": "Chicago Bears: 3 fuera, 22 duda (Zavier Scott, Kentavius Street, Braxton Jones); Tampa Bay Buccaneers: 3 fuera, 22 duda (Jalen McMillan, Yaya Diaby, Josh Hayes)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "27-24",
+   "close_p": 0.4954,
+   "logged": true
   },
   {
    "market": "sph",
@@ -8692,7 +8702,11 @@
    "version": "d8ca472",
    "bajas": "Chicago Bears: 3 fuera, 22 duda (Zavier Scott, Kentavius Street, Braxton Jones); Tampa Bay Buccaneers: 3 fuera, 22 duda (Jalen McMillan, Yaya Diaby, Josh Hayes)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "27-24",
+   "close_p": 0.5116,
+   "logged": true
   },
   {
    "market": "home",
@@ -8712,7 +8726,11 @@
    "version": "d8ca472",
    "bajas": "Chicago Bears: 3 fuera, 22 duda (Zavier Scott, Kentavius Street, Braxton Jones); Tampa Bay Buccaneers: 3 fuera, 22 duda (Jalen McMillan, Yaya Diaby, Josh Hayes)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "27-24",
+   "close_p": 0.7099,
+   "logged": true
   },
   {
    "market": "t1",
@@ -46217,15 +46235,6 @@
    "pick": "Más de 155.5 puntos",
    "league": "🏀 NCAA Basketball",
    "sport": "🏀",
-   "info": [
-    "📊 <b>Escenarios</b>: total esperado <b>155.5</b> puntos · línea 155.5",
-    "Más 50% · Menos 50%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: USC Trojans ❌❌❌❌✅ | Wichita State Shockers ❌✅✅❌✅",
-    "• H2H: sin precedentes",
-    "• Bajas: USC Trojans: sin bajas; Wichita State Shockers: sin bajas"
-   ],
    "context": "USC Trojans vs Wichita State Shockers (🏀 NCAA Basketball). Modelo de puntos (ataque/defensa con 10 años, decaimiento 1 año): total esperado 155.5 frente a línea 155.5. Forma USC Trojans ❌❌❌❌✅, Wichita State Shockers ❌✅✅❌✅. H2H sin precedentes. Bajas: USC Trojans: sin bajas; Wichita State Shockers: sin bajas.",
    "captured": "2026-11-08T23:36",
    "version": "d6e600c",
@@ -46247,14 +46256,6 @@
    "pick": "USC Trojans +6.5",
    "league": "🏀 NCAA Basketball",
    "sport": "🏀",
-   "info": [
-    "📊 <b>Escenarios</b>: USC Trojans cubre +6.5 con prob. 50% (casas 50%)",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: USC Trojans ❌❌❌❌✅ | Wichita State Shockers ❌✅✅❌✅",
-    "• H2H: sin precedentes",
-    "• Bajas: USC Trojans: sin bajas; Wichita State Shockers: sin bajas"
-   ],
    "context": "USC Trojans vs Wichita State Shockers (🏀 NCAA Basketball). Hándicap USC Trojans +6.5: margen esperado desde el Elo (gana USC Trojans 37%). Forma USC Trojans ❌❌❌❌✅, Wichita State Shockers ❌✅✅❌✅. H2H sin precedentes. Bajas: USC Trojans: sin bajas; Wichita State Shockers: sin bajas.",
    "captured": "2026-11-08T23:36",
    "version": "d6e600c",
@@ -46275,18 +46276,6 @@
    "start": "2026-11-09T04:00Z",
    "league": "🏀 NCAA Basketball",
    "sport": "🏀",
-   "info": [
-    "📊 <b>Escenarios</b> (Elo con 61.303 partidos y bajas)",
-    "Gana USC Trojans 37% · Gana Wichita State Shockers 63%",
-    "Casas: USC Trojans 30% · Wichita State Shockers 70%",
-    "Hándicap USC -6.5 · Total puntos 155.5",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: USC Trojans ❌❌❌❌✅ | Wichita State Shockers ❌✅✅❌✅",
-    "• H2H: sin precedentes",
-    "• Bajas: USC Trojans: sin bajas; Wichita State Shockers: sin bajas",
-    "• Favorito de las casas: Wichita State Shockers @ 1.37"
-   ],
    "context": "USC Trojans vs Wichita State Shockers (🏀 NCAA Basketball, baloncesto). Modelo Elo con 10 años de historial ajustado por bajas: USC Trojans 37%, Wichita State Shockers 63%. Cuotas DraftKings 3.2/1.37, hándicap USC -6.5, total 155.5. Forma USC Trojans ❌❌❌❌✅, Wichita State Shockers ❌✅✅❌✅. H2H sin precedentes. Bajas USC Trojans: ninguna. Bajas Wichita State Shockers: ninguna.",
    "captured": "2026-11-08T23:36",
    "version": "d6e600c",
@@ -47251,26 +47240,16 @@
    "start": "2026-11-09T04:08:00+00:00",
    "league": "🎮⚽ FC 27 · Champions League B",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 61.344 partidos)",
-    "Goles esperados: SpeciAL 3.33 · vivienne 3.13",
-    "Ganador: SpeciAL 44% · empate 20% · vivienne 35%",
-    "Total: más de 6.5 goles 47% · menos 53%",
-    "Hándicap SpeciAL: −1.5 30% · −2.5 18%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: SpeciAL ✅❌✅➖✅ | vivienne ✅❌➖✅✅",
-    "• Partidos: SpeciAL 853 | vivienne 825",
-    "• Liga: Champions League B",
-    "• Unibet: 1 2.04 · X 5.40 · 2 2.16 (sin margen 43%/16%/41%) · ventaja +10%. Sin stake hasta demostrar ROI con estas cuotas.",
-    "• En España: LeoVegas España 5.40 (+10%) · Paf España 5.40 (+10%)"
-   ],
    "context": "EA FC Esoccer Battle SpeciAL vs vivienne (Champions League B): goles esperados 3.33-3.13, 1X2 44%/20%/35%. Sin cuotas de casa.",
    "captured": "2026-11-09T03:54",
    "version": "6edd005",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "6-5",
+   "result": false,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "D",
@@ -47286,26 +47265,16 @@
    "start": "2026-11-09T04:20:00+00:00",
    "league": "🎮⚽ FC 27 · Champions League B",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 61.344 partidos)",
-    "Goles esperados: Paka 3.33 · Lx7ss 3.60",
-    "Ganador: Paka 36% · empate 20% · Lx7ss 45%",
-    "Total: más de 6.5 goles 54% · menos 46%",
-    "Hándicap Lx7ss: −1.5 32% · −2.5 19%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Paka ❌✅❌✅❌ | Lx7ss ❌✅❌✅❌",
-    "• Partidos: Paka 872 | Lx7ss 1044",
-    "• Liga: Champions League B",
-    "• Unibet: 1 2.30 · X 5.60 · 2 1.90 (sin margen 38%/16%/46%) · ventaja +9%. Sin stake hasta demostrar ROI con estas cuotas.",
-    "• En España: LeoVegas España 5.60 (+9%) · Paf España 5.60 (+9%)"
-   ],
    "context": "EA FC Esoccer Battle Paka vs Lx7ss (Champions League B): goles esperados 3.33-3.60, 1X2 36%/20%/45%. Sin cuotas de casa.",
    "captured": "2026-11-09T03:54",
    "version": "6edd005",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "2-1",
+   "result": false,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "D",
@@ -47321,23 +47290,113 @@
    "start": "2026-11-09T04:08:00+00:00",
    "league": "🎮⚽ FC 27 · Champions League B",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 61.344 partidos)",
-    "Goles esperados: Dov1n 3.31 · Lx7ss 3.92",
-    "Ganador: Dov1n 32% · empate 19% · Lx7ss 49%",
-    "Total: más de 7.5 goles 44% · menos 56%",
-    "Hándicap Lx7ss: −1.5 36% · −2.5 23%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Dov1n ❌✅❌❌❌ | Lx7ss ❌✅❌✅❌",
-    "• Partidos: Dov1n 1041 | Lx7ss 1044",
-    "• Liga: Champions League B",
-    "• Unibet: 1 2.23 · X 5.80 · 2 1.93 (sin margen 39%/15%/45%) · ventaja +9%. Sin stake hasta demostrar ROI con estas cuotas.",
-    "• En España: LeoVegas España 5.80 (+9%) · Paf España 5.80 (+9%)"
-   ],
    "context": "EA FC Esoccer Battle Dov1n vs Lx7ss (Champions League B): goles esperados 3.31-3.92, 1X2 32%/19%/49%. Sin cuotas de casa.",
    "captured": "2026-11-09T03:54",
    "version": "6edd005",
+   "bajas": "",
+   "considered": true,
+   "placed": false,
+   "score": "7-6",
+   "result": false,
+   "close_p": null,
+   "logged": true
+  },
+  {
+   "key": "vp|2026-11-10|Junior de Barranquilla|Cucuta Deportivo",
+   "market": "H",
+   "pick": "Junior de Barranquilla",
+   "odds": 1.76,
+   "book": "Smarkets",
+   "p": 0.6009,
+   "implied": 0.6009,
+   "edge": 0.06,
+   "match": "Junior de Barranquilla vs Cucuta Deportivo",
+   "start": "2026-11-10T00:00:00+00:00",
+   "league": "💎 Valor vs Pinnacle · Colombia - Primera A",
+   "sport": "⚽💎",
+   "info": [
+    "💎 <b>Valor contra Pinnacle</b>: Smarkets paga 1.76 y el precio justo de Pinnacle es 1.66 (ventaja +6.0%)",
+    "Backtest 2015-2026 (cuota ≤ 2.5, > 3 %): ROI +11 % ± 3 %, CLV +5 %."
+   ],
+   "context": "Junior de Barranquilla vs Cucuta Deportivo (Colombia - Primera A). Estrategia de valor: Smarkets 1.76 frente a Pinnacle justo 1.66.",
+   "captured": "2026-11-09T05:17",
+   "version": "eb867dc",
+   "bajas": "",
+   "considered": true,
+   "ai": {
+    "apostar": true,
+    "motivo": null,
+    "confianza": null,
+    "modelo": null
+   },
+   "placed": false
+  },
+  {
+   "market": "H",
+   "pick": "v1nniePuh",
+   "odds": 1.9,
+   "book": "Unibet",
+   "implied": 0.461,
+   "edge": 0.13,
+   "sin_stake": true,
+   "p": 0.595,
+   "key": "fc|2371709",
+   "match": "v1nniePuh vs imagin",
+   "start": "2026-11-09T05:36:00+00:00",
+   "league": "🎮⚽ FC 27 · Premier League 2x6",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 61.400 partidos)",
+    "Goles esperados: v1nniePuh 4.97 · imagin 4.01",
+    "Ganador: v1nniePuh 59% · empate 14% · imagin 26%",
+    "Total: más de 8.5 goles 54% · menos 46%",
+    "Hándicap v1nniePuh: −1.5 42% · −2.5 30%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: v1nniePuh ❌✅✅❌✅ | imagin ❌❌✅❌❌",
+    "• Partidos: v1nniePuh 636 | imagin 219",
+    "• Liga: Premier League 2x6",
+    "• Unibet: 1 1.90 · X 5.40 · 2 2.32 (sin margen 46%/16%/38%) · ventaja +13%. Sin stake hasta demostrar ROI con estas cuotas.",
+    "• En España: LeoVegas España 1.90 (+13%) · Paf España 1.90 (+13%)"
+   ],
+   "context": "EA FC Esoccer Battle v1nniePuh vs imagin (Premier League 2x6): goles esperados 4.97-4.01, 1X2 59%/14%/26%. Sin cuotas de casa.",
+   "captured": "2026-11-09T05:17",
+   "version": "eb867dc",
+   "bajas": "",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "A",
+   "pick": "Tesla",
+   "odds": 1.86,
+   "book": "Unibet",
+   "implied": 0.469,
+   "edge": 0.067,
+   "sin_stake": true,
+   "p": 0.574,
+   "key": "fc|2370228",
+   "match": "Maxa vs Tesla",
+   "start": "2026-11-09T05:30:00+00:00",
+   "league": "🎮⚽ FC 27 · Bundesliga",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 61.400 partidos)",
+    "Goles esperados: Maxa 2.69 · Tesla 3.50",
+    "Ganador: Maxa 25% · empate 18% · Tesla 57%",
+    "Total: más de 6.5 goles 42% · menos 58%",
+    "Hándicap Tesla: −1.5 38% · −2.5 24%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Maxa ❌✅❌✅✅ | Tesla ✅➖❌✅❌",
+    "• Partidos: Maxa 956 | Tesla 939",
+    "• Liga: Bundesliga",
+    "• Unibet: 1 2.70 · X 4.20 · 2 1.86 (sin margen 32%/21%/47%) · ventaja +7%. Sin stake hasta demostrar ROI con estas cuotas.",
+    "• En España: LeoVegas España 1.86 (+7%) · Paf España 1.86 (+7%)"
+   ],
+   "context": "EA FC Esoccer Battle Maxa vs Tesla (Bundesliga): goles esperados 2.69-3.50, 1X2 25%/18%/57%. Sin cuotas de casa.",
+   "captured": "2026-11-09T05:17",
+   "version": "eb867dc",
    "bajas": "",
    "considered": true,
    "placed": false
@@ -47805,42 +47864,6 @@
  "scoreboard_text": "📊 <b>MARCADOR DEL BOT</b>\n━━━━━━━━━━━━━━━\n🟩 Ganadas: <b>11</b> (37 %)\n🟥 Perdidas: <b>19</b> (63 %)\n⏳ En juego: 0\n\nÚltimas 30:\n🟥🟥🟥🟩🟥🟩🟥🟥🟥🟥🟥🟥🟥🟥🟩🟥🟥🟩🟩🟩🟩🟩🟥🟥🟥🟥🟩🟩🟥🟩\n━━━━━━━━━━━━━━━\n💵 Beneficio -17.17 $ · ROI -30.9 %\n📐 CLV medio +2.5 % (cuota cogida vs cierre)\n💰 Banca: <b>82.83 €</b> (-17.17 € desde 100 €) · libre 82.83 €{\"inline_keyboard\": [[{\"text\": \"\\ud83d\\udcc8 Ver historial completo y fallos\", \"url\": \"https://github.com/STAMFORD313/analista313/blob/main/ESTADISTICAS.md\"}], [{\"text\": \"\\u26bd F\\u00fatbol\", \"callback_data\": \"dep:futbol\"}, {\"text\": \"\\ud83c\\udfc0 NBA\\u00b7NCAA\", \"callback_data\": \"dep:nba\"}, {\"text\": \"\\ud83c\\udfc8 NFL\\u00b7NCAA\", \"callback_data\": \"dep:nfl\"}], [{\"text\": \"\\ud83c\\udfc6 Champions\\u00b7Europa\", \"callback_data\": \"dep:europa\"}, {\"text\": \"\\ud83c\\udfd2 NHL\", \"callback_data\": \"dep:nhl\"}, {\"text\": \"\\u26be MLB\", \"callback_data\": \"dep:mlb\"}], [{\"text\": \"\\ud83e\\udd4a UFC\", \"callback_data\": \"dep:ufc\"}, {\"text\": \"\\ud83c\\udfbe Tenis\", \"callback_data\": \"dep:tenis\"}, {\"text\": \"\\ud83c\\udfae CS2\", \"callback_data\": \"dep:cs2\"}], [{\"text\": \"\\ud83d\\udc09 Dota 2\", \"callback_data\": \"dep:dota2\"}, {\"text\": \"\\ud83e\\uddd9 LoL\", \"callback_data\": \"dep:lol\"}, {\"text\": \"\\ud83d\\udd2b R6 Siege\", \"callback_data\": \"dep:r6\"}], [{\"text\": \"\\ud83d\\udcf1 MLBB\", \"callback_data\": \"dep:mlbb\"}, {\"text\": \"\\ud83c\\udfae\\u26bd FC 27\", \"callback_data\": \"dep:fc\"}]]}",
  "fc_sent": "2026-11-09T02:09:20.507401+00:00",
  "sgp": {
-  "nfl|2026-11-09|Chicago Bears|Tampa Bay Buccaneers": {
-   "match": "Chicago Bears vs Tampa Bay Buccaneers",
-   "start": "2026-11-09T01:20Z",
-   "combos": [
-    {
-     "kind": "nfl",
-     "p": 0.1553,
-     "odds": 6.36,
-     "edge": -0.013,
-     "legs": [
-      {
-       "var": "win_away",
-       "sign": 1,
-       "line": 0.0,
-       "p": 0.282,
-       "odds": 3.4,
-       "text": "Gana Tampa Bay Buccaneers"
-      },
-      {
-       "var": "total_t",
-       "sign": -1,
-       "line": 47.5,
-       "p": 0.511,
-       "odds": 1.87,
-       "text": "Menos de 47.5 puntos"
-      }
-     ],
-     "sim": false
-    }
-   ],
-   "priced": true,
-   "lines": [
-    "🧩 Combinada: Gana Tampa Bay Buccaneers + Menos de 47.5 puntos → prob. 16%, cuota justa 6.44",
-    "🎯 No simulada (NFL): cuota DraftKings aprox. 6.36 (producto de piernas) · prob. 16% · ventaja -1%"
-   ]
-  },
   "D1|2026-11-06|Hamburg|M'gladbach": {
    "match": "Hamburg vs M'gladbach",
    "start": "2026-11-06T19:30:00+00:00",
@@ -50664,7 +50687,10 @@
   "nba|2026-11-10|Phoenix Suns|San Antonio Spurs",
   "nba|2026-11-10|Detroit Pistons|Washington Wizards",
   "nba|2026-11-10|Charlotte Hornets|Cleveland Cavaliers",
-  "nba|2026-11-10|Toronto Raptors|Memphis Grizzlies"
+  "nba|2026-11-10|Toronto Raptors|Memphis Grizzlies",
+  "nba|2026-11-10|Atlanta Hawks|Los Angeles Lakers",
+  "nba|2026-11-10|Dallas Mavericks|Indiana Pacers",
+  "nba|2026-11-10|Golden State Warriors|New Orleans Pelicans"
  ],
  "radar_date": "2026-11-08",
  "sgp_res_sent": "2026-11-09T00:08:17.756648+00:00"
