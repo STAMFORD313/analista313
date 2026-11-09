@@ -1,5 +1,5 @@
 {
- "fecha": "2026-11-09 04:43",
+ "fecha": "2026-11-09 04:58",
  "n": 2108,
  "rentables": [],
  "bloqueados": [
@@ -191,17 +191,6 @@
    "clv": -0.0459,
    "clv_se": 0.0109,
    "clv_n": 15
-  },
-  {
-   "segmento": "cuota=>2.5",
-   "n": 531,
-   "roi": -0.2046,
-   "se": 0.0725,
-   "roi_antigua": -0.1896,
-   "roi_nueva": -0.2366,
-   "clv": 0.0154,
-   "clv_se": 0.018,
-   "clv_n": 40
   },
   {
    "segmento": "mercado=hándicap · cuota=1.5-2",
