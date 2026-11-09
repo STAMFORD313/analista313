@@ -34621,3 +34621,5 @@ game_id,match_id,slug,date,tier,bo,tournament_id,tournament,t1_id,t2_id,team1,te
 192449,133231,genone-vs-psychoface-08-11-2026,2026-11-08T18:10:00.000+00:00,b,3,5628,CCT Europe 2026 Series 13,1406,23234,GenOne,PsychoFace,1,de_nuke,1406,13.0,4.0
 192313,133186,isurus-gaming-cs-go-vs-tao-toma-08-11-2026,2026-11-08T19:00:00.000+00:00,b,3,5624,CCT South America 2026 Series 8,591,25640,Isurus,tao toma,2,de_nuke,25640,13.0,11.0
 192314,133186,isurus-gaming-cs-go-vs-tao-toma-08-11-2026,2026-11-08T19:00:00.000+00:00,b,3,5624,CCT South America 2026 Series 8,591,25640,Isurus,tao toma,1,de_mirage,25640,16.0,12.0
+192316,133187,low-cortisol-br-vs-rush-gaming-08-11-2026,2026-11-08T22:00:00.000+00:00,b,3,5624,CCT South America 2026 Series 8,25343,24574,Low Cortisol BR,RUSH,2,de_nuke,25343,13.0,6.0
+192317,133187,low-cortisol-br-vs-rush-gaming-08-11-2026,2026-11-08T22:00:00.000+00:00,b,3,5624,CCT South America 2026 Series 8,25343,24574,Low Cortisol BR,RUSH,1,de_dust2,25343,13.0,3.0

@@ -61181,14 +61181,14 @@ id,tournament_id,club1,club2,ht1,ht2
 2368701,261316,Czechia,Germany,,
 2368702,261316,Netherlands,Czechia,,
 2368703,261316,Morocco,Norway,,
-2369700,261378,Chelsea,Arsenal,3,1
-2369701,261378,Liverpool,Man City,0,1
-2369702,261378,Man City,Chelsea,1,1
-2369703,261378,Arsenal,Tottenham,2,2
-2369704,261378,Tottenham,Man City,1,2
-2369705,261378,Chelsea,Liverpool,2,3
-2369706,261378,Liverpool,Tottenham,1,2
-2369707,261378,Man City,Arsenal,1,1
+2369700,261378,Chelsea,Arsenal,3.0,1.0
+2369701,261378,Liverpool,Man City,0.0,1.0
+2369702,261378,Man City,Chelsea,1.0,1.0
+2369703,261378,Arsenal,Tottenham,2.0,2.0
+2369704,261378,Tottenham,Man City,1.0,2.0
+2369705,261378,Chelsea,Liverpool,2.0,3.0
+2369706,261378,Liverpool,Tottenham,1.0,2.0
+2369707,261378,Man City,Arsenal,1.0,1.0
 2369708,261378,Arsenal,Liverpool,,
 2369709,261378,Tottenham,Chelsea,,
 2369710,261378,Arsenal,Chelsea,,
@@ -61201,3 +61201,43 @@ id,tournament_id,club1,club2,ht1,ht2
 2369717,261378,Arsenal,Man City,,
 2369718,261378,Liverpool,Arsenal,,
 2369719,261378,Chelsea,Tottenham,,
+2370716,261346,Juventus,Bologna,4,1
+2369321,261346,Roma,Sassuolo,1,3
+2370717,261346,Sassuolo,Juventus,1,2
+2369323,261346,Bologna,Napoli,1,3
+2369324,261346,Napoli,Sassuolo,2,0
+2370718,261346,Juventus,Roma,2,1
+2369326,261346,Roma,Napoli,1,1
+2369327,261346,Sassuolo,Bologna,1,2
+2369328,261346,Bologna,Roma,0,2
+2370719,261346,Napoli,Juventus,2,2
+2370720,261346,Bologna,Juventus,,
+2369331,261346,Sassuolo,Roma,,
+2370721,261346,Juventus,Sassuolo,,
+2369333,261346,Napoli,Bologna,,
+2369334,261346,Sassuolo,Napoli,,
+2370722,261346,Roma,Juventus,,
+2369336,261346,Napoli,Roma,,
+2369337,261346,Bologna,Sassuolo,,
+2369338,261346,Roma,Bologna,,
+2370723,261346,Juventus,Napoli,,
+2369180,261356,Spain,Brazil,3,1
+2369181,261356,France,Argentina,2,2
+2369182,261356,Argentina,Spain,2,0
+2369183,261356,Brazil,England,0,1
+2369184,261356,England,Argentina,1,3
+2369185,261356,Spain,France,2,0
+2369186,261356,France,England,1,2
+2369187,261356,Argentina,Brazil,1,1
+2369188,261356,Brazil,France,,
+2369189,261356,England,Spain,,
+2369190,261356,Brazil,Spain,,
+2369191,261356,Argentina,France,,
+2369192,261356,Spain,Argentina,,
+2369193,261356,England,Brazil,,
+2369194,261356,Argentina,England,,
+2369195,261356,France,Spain,,
+2369196,261356,England,France,,
+2369197,261356,Brazil,Argentina,,
+2369198,261356,France,Brazil,,
+2369199,261356,Spain,England,,

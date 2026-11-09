@@ -1,24 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 09/11/2026 00:36 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Queretaro vs Puebla — 09/11 · 01:00
-
-👀 candidata · 🇲🇽 Liga MX · **Gana Queretaro** @ **1.76** (Bet365) · prob 53% vs casas 53% · ventaja -7%
-
-- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.38 - 1.00)  
-1 52% · X 26% · 2 22%  
-1X 78% · X2 48% · 12 74%  
-+1.5 69% · +2.5 43% · +3.5 22% · Ambos marcan 48%  
-Marcadores: 1-1 13% · 1-0 12% · 0-0 10% · 2-0 9%  
-🔎 **Claves**  
-• Forma: Queretaro ✅❌❌❌❌ | Puebla ➖➖❌❌❌  
-• H2H: 28 desde 2012: 9V-9E-10D · 2.3 goles/partido · +2.5 en 36%  
-• Bajas: Queretaro: 0 fuera, 1 duda; Puebla: sin bajas  
-• Favorito de las casas: Queretaro @ 1.76  
+Actualizado 09/11/2026 01:08 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Club Leon vs Guadalajara Chivas — 09/11 · 03:10
 
