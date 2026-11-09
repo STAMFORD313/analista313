@@ -61549,14 +61549,14 @@ id,tournament_id,club1,club2,ht1,ht2
 2371517,261486,Atlanta United,Los Angeles FC,,
 2371518,261486,LA Galaxy,Atlanta United,,
 2371519,261486,Inter Miami CF,Seattle Sounders FC,,
-2370966,261465,Newcastle,Aston Villa,1,2
-2370967,261465,Man Utd,Nottm Forest,1,1
-2370968,261465,Nottm Forest,Newcastle,1,1
-2370969,261465,Aston Villa,Brighton,2,1
-2370970,261465,Brighton,Nottm Forest,4,3
-2370971,261465,Newcastle,Man Utd,2,3
-2370972,261465,Man Utd,Brighton,3,0
-2370973,261465,Nottm Forest,Aston Villa,1,1
+2370966,261465,Newcastle,Aston Villa,1.0,2.0
+2370967,261465,Man Utd,Nottm Forest,1.0,1.0
+2370968,261465,Nottm Forest,Newcastle,1.0,1.0
+2370969,261465,Aston Villa,Brighton,2.0,1.0
+2370970,261465,Brighton,Nottm Forest,4.0,3.0
+2370971,261465,Newcastle,Man Utd,2.0,3.0
+2370972,261465,Man Utd,Brighton,3.0,0.0
+2370973,261465,Nottm Forest,Aston Villa,1.0,1.0
 2370974,261465,Aston Villa,Man Utd,,
 2370975,261465,Brighton,Newcastle,,
 2370976,261465,Aston Villa,Newcastle,,
