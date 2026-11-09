@@ -1,26 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 09/11/2026 15:15 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Sökerorg vs MOUZ NXT — 09/11 · 15:30
-
-👀 candidata · 🎮 CS2 · European Pro League Series 10 · **Gana Sökerorg** @ **1.82** (Thunderpick) · prob 54% vs casas 50% · ventaja -2%
-
-- ❌ Valor: ventaja -2% (mín. 7% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 76.629 partidos)  
-Mapa: Sökerorg 55% · Serie BO3: Sökerorg 57% - 43% MOUZ NXT  
-Casas: Sökerorg 50% · MOUZ NXT 50%  
-🔎 **Claves**  
-• Elo: Sökerorg 1585 (23 series) | MOUZ NXT 1534 (608 series)  
-• Forma: Sökerorg ✅❌❌✅✅ | MOUZ NXT ❌✅✅❌❌  
-• H2H: 1: 0-1  
-• Torneo: European Pro League Series 10 (nivel C)  
-• Cambios de plantilla: ninguno  
-🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
-• Sökerorg gana 2-1: 24% → cuota justa 4.20  
-• MOUZ NXT gana 2-1: 20% → cuota justa 5.09  
+Actualizado 09/11/2026 15:45 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## HAVU vs BOJONG — 09/11 · 16:30
 

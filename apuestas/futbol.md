@@ -1,6 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 09/11/2026 15:15 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 09/11/2026 15:45 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Sabadell vs Sociedad B — 09/11 · 20:30
 
