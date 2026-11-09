@@ -1,97 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 09/11/2026 18:53 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## SINQU vs Nordic Valor — 09/11 · 19:00
-
-👀 candidata · 🎮 CS2 · Elisa Open Suomi Season 14 · **Gana Nordic Valor** @ **2.06** (Thunderpick) · prob 49% vs casas 45% · ventaja +1%
-
-- ❌ Valor: ventaja +1% (mín. 7% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 76.602 partidos)  
-Mapa: SINQU 48% · Serie BO3: SINQU 46% - 54% Nordic Valor  
-Casas: SINQU 55% · Nordic Valor 45%  
-🔎 **Claves**  
-• Elo: SINQU 1321 (68 series) | Nordic Valor 1347 (13 series)  
-• Forma: SINQU ❌❌❌❌❌ | Nordic Valor ✅❌❌❌❌  
-• H2H: sin precedentes  
-• Torneo: Elisa Open Suomi Season 14 (nivel C)  
-• Cambios de plantilla: ninguno  
-🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
-• SINQU gana 2-1: 21% → cuota justa 4.79  
-• Nordic Valor gana 2-1: 23% → cuota justa 4.34  
-
-## XI vs STATE — 09/11 · 19:00
-
-👀 candidata · 🎮 CS2 · Dust2.dk Ligaen Season 33: Regular Season · **Gana STATE** @ **1.25** (Thunderpick) · prob 76% vs casas 73% · ventaja -5%
-
-- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 76.602 partidos)  
-Mapa: XI 21% · Serie BO1: XI 21% - 79% STATE  
-Casas: XI 27% · STATE 73%  
-🔎 **Claves**  
-• Elo: XI 1552 (411 series) | STATE 1781 (536 series)  
-• Forma: XI ✅❌✅❌❌ | STATE ✅❌✅✅✅  
-• H2H: 16: 4-12  
-• Torneo: Dust2.dk Ligaen Season 33: Regular Season (nivel C)  
-• Cambios de plantilla: ninguno  
-
-## OldBoys FR vs TTG Esports — 09/11 · 20:00
-
-👀 candidata · 🎮 CS2 · ESEA Season 59: Advanced Division - Europe · **Gana TTG Esports** @ **2.93** (Thunderpick) · prob 48% vs casas 32% · ventaja +40%
-
-- ❌ Valor: ventaja +40% (mín. 17% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 76.602 partidos)  
-Mapa: OldBoys FR 36% · Serie BO1: OldBoys FR 36% - 64% TTG Esports  
-Casas: OldBoys FR 68% · TTG Esports 32%  
-🔎 **Claves**  
-• Elo: OldBoys FR 1569 (54 series) | TTG Esports 1671 (14 series)  
-• Forma: OldBoys FR ✅✅❌❌❌ | TTG Esports ❌✅✅✅✅  
-• H2H: sin precedentes  
-• Torneo: ESEA Season 59: Advanced Division - Europe (nivel C)  
-• Cambios de plantilla: ninguno  
-
-## Huskies eSport vs Pandaric eSports — 09/11 · 20:00
-
-👀 candidata · 🎮 CS2 · DACH CS Masters Season 6 · **Gana Huskies eSport** @ **1.71** (Thunderpick) · prob 57% vs casas 54% · ventaja -2%
-
-- ❌ Valor: ventaja -2% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 76.602 partidos)  
-Mapa: Huskies eSport 57% · Serie BO3: Huskies eSport 60% - 40% Pandaric eSports  
-Casas: Huskies eSport 54% · Pandaric eSports 46%  
-🔎 **Claves**  
-• Elo: Huskies eSport 1229 (15 series) | Pandaric eSports 1154 (8 series)  
-• Forma: Huskies eSport ❌❌❌❌❌ | Pandaric eSports ❌❌❌❌❌  
-• H2H: sin precedentes  
-• Torneo: DACH CS Masters Season 6 (nivel C)  
-• Cambios de plantilla: ninguno  
-🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
-• Huskies eSport gana 2-1: 24% → cuota justa 4.10  
-• Pandaric eSports gana 2-1: 18% → cuota justa 5.44  
-
-## eSuba vs ZOTIX — 09/11 · 20:00
-
-👀 candidata · 🎮 CS2 · ESEA Season 59: Advanced Division - Europe · **Gana eSuba** @ **1.75** (Thunderpick) · prob 54% vs casas 53% · ventaja -6%
-
-- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 76.633 partidos)  
-Mapa: eSuba 55% · Serie BO1: eSuba 55% - 45% ZOTIX  
-Casas: eSuba 53% · ZOTIX 47%  
-🔎 **Claves**  
-• Elo: eSuba 1514 (91 series) | ZOTIX 1477 (90 series)  
-• Forma: eSuba ✅❌✅✅❌ | ZOTIX ✅❌❌❌✅  
-• H2H: sin precedentes  
-• Torneo: ESEA Season 59: Advanced Division - Europe (nivel C)  
-• Cambios de plantilla: ninguno  
+Actualizado 09/11/2026 20:22 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Spirit HU vs Fire Flux — 09/11 · 20:30
 
@@ -258,4 +167,30 @@ Casas: Vitality 67% · Falcons 33%
 🔫 **Kills esperados en la serie** (rango 80 %; mejor que la media de sus 10 últimas en 52.297 casos: log-loss 0.682→0.6559; sin cuotas de props, solo referencia)  
 Vitality: ZywOo 42 (25-62) · ropz 36 (21-54) · flameZ 36 (21-53) · jL 34 (20-51) · mezii 32 (18-47)  
 Falcons: m0NESY 39 (23-58) · kyousuke 38 (22-56) · NiKo 34 (20-51) · TeSeS 30 (17-45) · karrigan 25 (14-38)  
+
+## Spirit vs FUT — 11/11 · 08:00
+
+👀 candidata · 🎮 CS2 · BLAST Rivals Fall 2026 · **Gana FUT** @ **3.30** (Thunderpick) · prob 30% vs casas 28% · ventaja -2%
+
+- ❌ Valor: ventaja -2% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮 no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 76.654 partidos)  
+Mapa: Spirit 57% · Serie BO3: Spirit 69% - 31% FUT  
+Casas: Spirit 72% · FUT 28%  
+🔎 **Claves**  
+• Elo: Spirit 2139 (287 series) | FUT 2067 (127 series)  
+• Forma: Spirit ❌✅✅❌❌ | FUT ❌✅✅✅❌  
+• H2H: 1: 1-0  
+• Torneo: BLAST Rivals Fall 2026 (nivel S)  
+• Cambios de plantilla: ninguno  
+• Jugadores en forma (rating últimos 10 mapas): Spirit: donk 6.9, sh1ro 6.1 | FUT: dem0n 6.9, SunPayus 6.7  
+• Mapas (último año): Spirit: fuerte dust2 75%, débil cache 50% | FUT: fuerte train 83%, débil anubis 47%  
+• Química de la plantilla: Spirit: 301 mapas juntos de media | FUT: 148 mapas juntos de media  
+🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
+• Spirit gana 2-1: 24% → cuota justa 4.11 · casa 26%  
+• FUT gana 2-1: 19% → cuota justa 5.40 · casa 13% ✔ el bot lo ve más probable que la casa  
+🔫 **Kills esperados en la serie** (rango 80 %; mejor que la media de sus 10 últimas en 52.297 casos: log-loss 0.682→0.6559; sin cuotas de props, solo referencia)  
+Spirit: donk 45 (27-66) · sh1ro 38 (22-56) · tN1R 35 (20-52) · zont1x 32 (18-47) · magixx 30 (17-45)  
+FUT: dem0n 35 (20-51) · Krabeni 34 (20-51) · xfl0ud 34 (20-50) · SunPayus 34 (19-50) · dziugss 33 (19-49)  
 
