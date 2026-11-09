@@ -1576,10 +1576,6 @@
   "wta|2026-11-11|Aryna Sabalenka|Mirra Andreeva",
   "wta|2026-11-11|Jessica Pegula|Linda Noskova",
   "wta|2026-11-11|Marta Kostyuk|Coco Gauff",
-  "fc|2364436",
-  "fc|2364437",
-  "fc|2363585",
-  "fc|2363506",
   "cs2|133178",
   "dota2|133496",
   "dota2|133497",
@@ -2579,7 +2575,11 @@
   "dota2|133676",
   "fc|2371089",
   "fc|2371087",
-  "fc|2371088"
+  "fc|2371088",
+  "cs2|133193",
+  "fc|2371090",
+  "fc|2370275",
+  "fc|2371092"
  ],
  "signals": [
   {
@@ -8836,56 +8836,6 @@
   },
   {
    "market": "H",
-   "pick": "Taz",
-   "odds": 2.06,
-   "book": "Unibet",
-   "implied": 0.423,
-   "edge": 0.151,
-   "sin_stake": true,
-   "p": 0.559,
-   "key": "fc|2366196",
-   "match": "Taz vs Ganger_29",
-   "start": "2026-11-06T10:12:00+00:00",
-   "league": "🎮⚽ FC 27 · World Cup A",
-   "sport": "🎮⚽",
-   "context": "EA FC Esoccer Battle Taz vs Ganger_29 (World Cup A): goles esperados 3.51-2.66, 1X2 56%/19%/25%. Sin cuotas de casa.",
-   "captured": "2026-11-06T09:50",
-   "version": "eb24eb2",
-   "bajas": "",
-   "considered": true,
-   "placed": false,
-   "score": "2-2",
-   "result": false,
-   "close_p": null,
-   "logged": true
-  },
-  {
-   "market": "D",
-   "pick": "Empate",
-   "odds": 8.0,
-   "book": "Unibet",
-   "implied": 0.109,
-   "edge": 0.05,
-   "sin_stake": true,
-   "p": 0.131,
-   "key": "fc|2366027",
-   "match": "why vs riko",
-   "start": "2026-11-06T10:18:00+00:00",
-   "league": "🎮⚽ FC 27 · Champions League A 2x6",
-   "sport": "🎮⚽",
-   "context": "EA FC Esoccer Battle why vs riko (Champions League A 2x6): goles esperados 2.54-4.26, 1X2 16%/13%/71%. Sin cuotas de casa.",
-   "captured": "2026-11-06T09:58",
-   "version": "e27c1bb",
-   "bajas": "",
-   "considered": true,
-   "placed": false,
-   "score": "2-2",
-   "result": true,
-   "close_p": null,
-   "logged": true
-  },
-  {
-   "market": "H",
    "odds": 1.9,
    "book": "Bet365",
    "p": 0.487,
@@ -10671,31 +10621,6 @@
   },
   {
    "market": "H",
-   "pick": "d1pseN",
-   "odds": 3.25,
-   "book": "Unibet",
-   "implied": 0.268,
-   "edge": 0.124,
-   "sin_stake": true,
-   "p": 0.346,
-   "key": "fc|2365133",
-   "match": "d1pseN vs Bomb1to",
-   "start": "2026-11-06T10:15:00+00:00",
-   "league": "🎮⚽ FC 27 · World Cup B",
-   "sport": "🎮⚽",
-   "context": "EA FC Esoccer Battle d1pseN vs Bomb1to (World Cup B): goles esperados 2.87-2.98, 1X2 35%/23%/43%. Sin cuotas de casa.",
-   "captured": "2026-11-06T10:09",
-   "version": "bbe38c6",
-   "bajas": "",
-   "considered": true,
-   "placed": false,
-   "score": "3-5",
-   "result": false,
-   "close_p": null,
-   "logged": true
-  },
-  {
-   "market": "H",
    "pick": "mko1919",
    "odds": 4.2,
    "book": "Unibet",
@@ -11014,7 +10939,12 @@
    "version": "28a5461",
    "bajas": "Gaziantep: 1 fuera, 1 duda (Kacper Tobiasz); Kasimpasa: 1 fuera, 2 duda (Claudio Winck)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "factor": 0.0,
+   "result": false,
+   "score": "0-2",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "AHA",
@@ -11035,7 +10965,12 @@
    "version": "28a5461",
    "bajas": "Braunschweig: 0 fuera, 4 duda; Cottbus: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "factor": 1.93,
+   "result": true,
+   "score": "0-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_a_o",
@@ -11211,7 +11146,11 @@
    "version": "28a5461",
    "bajas": "Dresden: 0 fuera, 3 duda; Greuther Furth: 0 fuera, 3 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "3-0",
+   "clv": 0.031,
+   "logged": true
   },
   {
    "market": "corners_t_o",
@@ -11387,7 +11326,11 @@
    "version": "28a5461",
    "bajas": "Boulogne: sin bajas; Annecy: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "3-0",
+   "clv": 0.145,
+   "logged": true
   },
   {
    "market": "corners_a_o",
@@ -11563,7 +11506,11 @@
    "version": "28a5461",
    "bajas": "Dijon: sin bajas; Red Star: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "1-0",
+   "clv": 0.037,
+   "logged": true
   },
   {
    "market": "corners_t_o",
@@ -11740,7 +11687,12 @@
    "version": "28a5461",
    "bajas": "Dunkerque: sin bajas; Guingamp: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "factor": 1.78,
+   "result": true,
+   "score": "3-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_t_o",
@@ -11916,7 +11868,11 @@
    "version": "28a5461",
    "bajas": "Grenoble: sin bajas; Reims: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "3-2",
+   "clv": 0.005,
+   "logged": true
   },
   {
    "market": "corners_a_o",
@@ -12093,7 +12049,12 @@
    "version": "28a5461",
    "bajas": "Montpellier: sin bajas; Metz: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "factor": 1.95,
+   "result": true,
+   "score": "2-3",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_t_o",
@@ -12270,7 +12231,10 @@
    "version": "28a5461",
    "bajas": "Nancy: sin bajas; Sochaux: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "factor": 1.0,
+   "result": "nula",
+   "score": "1-0"
   },
   {
    "market": "corners_a_o",
@@ -12446,7 +12410,11 @@
    "version": "28a5461",
    "bajas": "Willem II: 1 fuera, 2 duda (Amine Lachkar); Zwolle: 0 fuera, 1 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "1-1",
+   "clv": 0.259,
+   "logged": true
   },
   {
    "market": "corners_a_o",
@@ -12622,7 +12590,11 @@
    "version": "28a5461",
    "bajas": "Hamburg: 0 fuera, 6 duda; M'gladbach: 1 fuera, 7 duda (Enzo Leopold)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "3-1",
+   "clv": 0.03,
+   "logged": true
   },
   {
    "market": "H",
@@ -12642,7 +12614,11 @@
    "version": "28a5461",
    "bajas": "Ascoli: sin bajas; Palermo: 1 fuera, 4 duda (D. Toerset Johnsen)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "1-1",
+   "clv": 0.103,
+   "logged": true
   },
   {
    "market": "corners_a_o",
@@ -12819,7 +12795,12 @@
    "version": "28a5461",
    "bajas": "Standard: sin bajas; Beveren: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "factor": 0.0,
+   "result": false,
+   "score": "3-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_a_o",
@@ -12996,7 +12977,12 @@
    "version": "28a5461",
    "bajas": "Toulouse: 2 fuera, 1 duda (Aron Doennum, Aron Doennum); Strasbourg: 1 fuera, 4 duda (Joaquin Panichelli)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "factor": 0.0,
+   "result": false,
+   "score": "3-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_t_u",
@@ -13173,7 +13159,12 @@
    "version": "28a5461",
    "bajas": "Venezia: 3 fuera, 4 duda (Bartol Franjic, Daniel Fila, Marin Sverko); Udinese: 5 fuera, 3 duda (Hassane Kamara, Thomas Kristensen, Vakoun Issouf Bayo)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "factor": 0.0,
+   "result": false,
+   "score": "2-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_t_o",
@@ -13349,7 +13340,11 @@
    "version": "28a5461",
    "bajas": "Everton: 0 fuera, 1 duda; Coventry: 4 fuera, 0 duda (Aurele Amenda, Luke Woolfenden, Josh Eccles)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "3-1",
+   "clv": 0.024,
+   "logged": true
   },
   {
    "market": "corners_h_u",
@@ -13526,7 +13521,12 @@
    "version": "28a5461",
    "bajas": "Derby: 0 fuera, 4 duda; Bolton: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "factor": 2.0,
+   "result": true,
+   "score": "3-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_t_o",
@@ -13703,7 +13703,12 @@
    "version": "28a5461",
    "bajas": "Sevilla: 2 fuera, 3 duda (Isaac Romero, Manu Bueno); Alaves: 2 fuera, 1 duda (Mikel Rodriguez, Facundo Garces)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "factor": 2.0,
+   "result": true,
+   "score": "0-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_t_o",
@@ -13879,7 +13884,11 @@
    "version": "28a5461",
    "bajas": "Famalicao: 1 fuera, 0 duda (Rodrigo Pinheiro); Arouca: 1 fuera, 1 duda (Jose Fontan)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "1-0",
+   "clv": 0.201,
+   "logged": true
   },
   {
    "market": "corners_h_o",
@@ -14056,7 +14065,12 @@
    "version": "28a5461",
    "bajas": "Eyupspor: 0 fuera, 2 duda; Kocaelispor: 0 fuera, 1 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "factor": 0.0,
+   "result": false,
+   "score": "0-2",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_a_o",
@@ -14232,7 +14246,11 @@
    "version": "28a5461",
    "bajas": "Holstein Kiel: 1 fuera, 2 duda (Patrick Erras); Bielefeld: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "1-2",
+   "clv": 0.004,
+   "logged": true
   },
   {
    "market": "H",
@@ -14252,7 +14270,11 @@
    "version": "28a5461",
    "bajas": "Nurnberg: 2 fuera, 2 duda (Rafael Lubach, Mohamed Ali Zoma); Darmstadt: 0 fuera, 1 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "2-0",
+   "clv": 0.093,
+   "logged": true
   },
   {
    "market": "O25",
@@ -14272,7 +14294,11 @@
    "version": "28a5461",
    "bajas": "Osnabruck: sin bajas; Kaiserslautern: 3 fuera, 1 duda (Maxwell Gyamfi, Kenny-Prince Redondo, Hendrick Zuck)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "0-1",
+   "clv": -0.077,
+   "logged": true
   },
   {
    "market": "AHH",
@@ -14293,7 +14319,12 @@
    "version": "28a5461",
    "bajas": "Leeds: 2 fuera, 1 duda (Joe Rodon, Mateo Joseph); Tottenham: 4 fuera, 2 duda (Rodrigo Bentancur, Savio, Wilson Odobert)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "factor": 2.0,
+   "result": true,
+   "score": "1-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "H",
@@ -14313,7 +14344,11 @@
    "version": "28a5461",
    "bajas": "Bristol City: sin bajas; Norwich: 1 fuera, 2 duda (Gabriel Forsyth)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "0-5",
+   "clv": 0.004,
+   "logged": true
   },
   {
    "market": "A",
@@ -14333,7 +14368,11 @@
    "version": "28a5461",
    "bajas": "Portsmouth: 1 fuera, 1 duda (Mark Kosznovszky); Stoke: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "1-2",
+   "clv": 0.013,
+   "logged": true
   },
   {
    "market": "O25",
@@ -14353,7 +14392,11 @@
    "version": "28a5461",
    "bajas": "Wrexham: sin bajas; Wolves: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "1-1",
+   "clv": -0.039,
+   "logged": true
   },
   {
    "market": "AHA",
@@ -14374,7 +14417,12 @@
    "version": "28a5461",
    "bajas": "Clermont: sin bajas; Rodez: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "factor": 0.0,
+   "result": false,
+   "score": "1-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "A",
@@ -14394,7 +14442,11 @@
    "version": "28a5461",
    "bajas": "Malaga: 2 fuera, 4 duda (Julen Lobete, Diego Murillo); Santander: 1 fuera, 2 duda (Jorge Salinas)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "1-2",
+   "clv": -0.037,
+   "logged": true
   },
   {
    "market": "AHH",
@@ -14415,7 +14467,12 @@
    "version": "28a5461",
    "bajas": "Burgos: 0 fuera, 1 duda; Celta B: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "factor": 1.455,
+   "result": true,
+   "score": "2-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "AHH",
@@ -14436,7 +14493,12 @@
    "version": "28a5461",
    "bajas": "Samsunspor: 0 fuera, 1 duda; Konyaspor: 2 fuera, 0 duda (Deniz Turuc, Adil Demirbag)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "factor": 2.0,
+   "result": true,
+   "score": "1-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "A",
@@ -14456,7 +14518,11 @@
    "version": "28a5461",
    "bajas": "Cagliari: 5 fuera, 1 duda (Adam Obert, Roberto Gagliardini, Mattia Felici); Frosinone: 0 fuera, 1 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "1-0",
+   "clv": 0.185,
+   "logged": true
   },
   {
    "market": "D",
@@ -14476,7 +14542,11 @@
    "version": "28a5461",
    "bajas": "Torino: 1 fuera, 4 duda (Franco Israel); Lecce: 4 fuera, 3 duda (Lassana Coulibaly, Santiago Pierotti, Kialonda Gaspar)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "1-1",
+   "clv": 0.045,
+   "logged": true
   },
   {
    "market": "A",
@@ -14496,7 +14566,11 @@
    "version": "28a5461",
    "bajas": "Cesena: 1 fuera, 0 duda (Jonathan Klinsmann); Catanzaro: 1 fuera, 0 duda (Costantino Favasuli)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "1-0",
+   "clv": -0.058,
+   "logged": true
   },
   {
    "market": "O25",
@@ -14516,7 +14590,11 @@
    "version": "28a5461",
    "bajas": "Juve Stabia: 0 fuera, 4 duda; Arezzo: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "1-0",
+   "clv": 0.021,
+   "logged": true
   },
   {
    "market": "AHA",
@@ -14537,7 +14615,12 @@
    "version": "28a5461",
    "bajas": "Padova: 2 fuera, 2 duda (Giovanni Giunti, Luca Zanimacchia); Empoli: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "factor": 1.45,
+   "result": true,
+   "score": "2-2",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "H",
@@ -14557,7 +14640,11 @@
    "version": "28a5461",
    "bajas": "Pisa: 1 fuera, 1 duda (Henrik Meister); Sudtirol: 0 fuera, 2 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "2-2",
+   "clv": 0.06,
+   "logged": true
   },
   {
    "market": "H",
@@ -14577,7 +14664,11 @@
    "version": "28a5461",
    "bajas": "Dortmund: 2 fuera, 2 duda (G. Konstantelias, Emre Can); Elversberg: 0 fuera, 3 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "2-1",
+   "clv": -0.008,
+   "logged": true
   },
   {
    "market": "A",
@@ -14597,7 +14688,11 @@
    "version": "28a5461",
    "bajas": "Mainz: 3 fuera, 3 duda (Phillipp Mwene, Stefan Posch, Silas Katompa Mvumpa); Bayern Munich: 0 fuera, 6 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "1-2",
+   "clv": 0.063,
+   "logged": true
   },
   {
    "market": "AHH",
@@ -14618,7 +14713,12 @@
    "version": "28a5461",
    "bajas": "Paderborn: 0 fuera, 7 duda; Ein Frankfurt: 0 fuera, 1 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "factor": 1.49,
+   "result": true,
+   "score": "2-2",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "H",
@@ -14638,7 +14738,11 @@
    "version": "28a5461",
    "bajas": "RB Leipzig: 3 fuera, 0 duda (Lukas Klostermann, F. Assan Ouedraogo, Marc Guiu); Augsburg: 1 fuera, 5 duda (Kristijan Jakic)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "5-2",
+   "clv": 0.043,
+   "logged": true
   },
   {
    "market": "A",
@@ -14658,7 +14762,11 @@
    "version": "28a5461",
    "bajas": "Westerlo: sin bajas; Charleroi: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "1-5",
+   "clv": -0.013,
+   "logged": true
   },
   {
    "market": "H",
@@ -14678,7 +14786,11 @@
    "version": "28a5461",
    "bajas": "Arsenal: 2 fuera, 0 duda (Bukayo Saka, Max Dowman); Hull: 7 fuera, 1 duda (Matt Crooks, Matt Targett, Jack Butland)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "1-0",
+   "clv": 0.035,
+   "logged": true
   },
   {
    "market": "O25",
@@ -14698,7 +14810,11 @@
    "version": "28a5461",
    "bajas": "Fulham: 1 fuera, 1 duda (Ryan Sessegnon); Newcastle: 3 fuera, 2 duda (Jacob Ramsey, Valentino Livramento, Ewen Jaouen)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "1-1",
+   "clv": 0.044,
+   "logged": true
   },
   {
    "market": "H",
@@ -14718,7 +14834,11 @@
    "version": "28a5461",
    "bajas": "Birmingham: 0 fuera, 1 duda; Swansea: 0 fuera, 1 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "2-1",
+   "clv": 0.0,
+   "logged": true
   },
   {
    "market": "AHH",
@@ -14739,7 +14859,12 @@
    "version": "28a5461",
    "bajas": "Blackburn: 1 fuera, 0 duda (Lewis Miller); West Ham: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "factor": 2.0,
+   "result": true,
+   "score": "2-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "AHA",
@@ -14760,7 +14885,12 @@
    "version": "28a5461",
    "bajas": "Cardiff: sin bajas; Burnley: 0 fuera, 2 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "factor": 0.0,
+   "result": false,
+   "score": "5-4",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "H",
@@ -14780,7 +14910,11 @@
    "version": "28a5461",
    "bajas": "Charlton: 1 fuera, 0 duda (Zach Mitchell); Sheffield United: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "2-1",
+   "clv": -0.091,
+   "logged": true
   },
   {
    "market": "AHH",
@@ -14801,7 +14935,12 @@
    "version": "28a5461",
    "bajas": "Preston: 0 fuera, 2 duda; Southampton: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "factor": 2.05,
+   "result": true,
+   "score": "1-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "AHA",
@@ -14822,7 +14961,12 @@
    "version": "28a5461",
    "bajas": "QPR: sin bajas; Lincoln: 1 fuera, 1 duda (Tendayi Darikwa)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "factor": 0.5,
+   "result": false,
+   "score": "2-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "AHH",
@@ -14843,7 +14987,12 @@
    "version": "28a5461",
    "bajas": "Watford: sin bajas; Middlesbrough: 0 fuera, 2 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "factor": 1.98,
+   "result": true,
+   "score": "0-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "A",
@@ -14863,7 +15012,11 @@
    "version": "28a5461",
    "bajas": "West Brom: sin bajas; Millwall: 0 fuera, 1 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "3-0",
+   "clv": 0.005,
+   "logged": true
   },
   {
    "market": "AHA",
@@ -14884,7 +15037,12 @@
    "version": "28a5461",
    "bajas": "Volos NFC: sin bajas; Kifisia: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "factor": 2.08,
+   "result": true,
+   "score": "1-3",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "A",
@@ -14904,7 +15062,11 @@
    "version": "28a5461",
    "bajas": "Dundee United: sin bajas; Motherwell: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "1-1",
+   "clv": 0.093,
+   "logged": true
   },
   {
    "market": "AHA",
@@ -14925,7 +15087,12 @@
    "version": "28a5461",
    "bajas": "St Johnstone: sin bajas; Dundee: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "factor": 0.0,
+   "result": false,
+   "score": "2-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "A",
@@ -14945,7 +15112,11 @@
    "version": "28a5461",
    "bajas": "Espanol: 4 fuera, 2 duda (Roger Hinojo, Pol Lozano, Jofre Carreras); La Coruna: 0 fuera, 2 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "0-0",
+   "clv": 0.14,
+   "logged": true
   },
   {
    "market": "O25",
@@ -14965,7 +15136,11 @@
    "version": "28a5461",
    "bajas": "Cadiz: 0 fuera, 2 duda; Oviedo: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "1-2",
+   "clv": 0.056,
+   "logged": true
   },
   {
    "market": "A",
@@ -14985,7 +15160,11 @@
    "version": "28a5461",
    "bajas": "For Sittard: sin bajas; Telstar: 0 fuera, 2 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "2-2",
+   "clv": 0.101,
+   "logged": true
   },
   {
    "market": "AHA",
@@ -15026,7 +15205,11 @@
    "version": "28a5461",
    "bajas": "Galatasaray: 1 fuera, 2 duda (Abdulkerim Bardakci); Amedspor: 1 fuera, 0 duda (Samuel Ballet)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "4-3",
+   "clv": 0.021,
+   "logged": true
   },
   {
    "market": "H",
@@ -15046,7 +15229,11 @@
    "version": "28a5461",
    "bajas": "Goztep: 0 fuera, 1 duda; Buyuksehyr: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "1-2",
+   "clv": 0.046,
+   "logged": true
   },
   {
    "market": "AHH",
@@ -15067,7 +15254,10 @@
    "version": "28a5461",
    "bajas": "Mantova: sin bajas; Verona: 1 fuera, 2 duda (Giacomo Toniolo)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "factor": 1.0,
+   "result": "nula",
+   "score": "0-0"
   },
   {
    "market": "AHH",
@@ -15088,7 +15278,12 @@
    "version": "28a5461",
    "bajas": "Parma: 0 fuera, 1 duda; Bologna: 2 fuera, 3 duda (Emil Holm, Thijs Dallinga)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "factor": 0.0,
+   "result": false,
+   "score": "1-2",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "H",
@@ -15108,7 +15303,11 @@
    "version": "28a5461",
    "bajas": "Oud-Heverlee Leuven: sin bajas; Mechelen: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "2-0",
+   "clv": 0.035,
+   "logged": true
   },
   {
    "market": "AHA",
@@ -15129,7 +15328,12 @@
    "version": "28a5461",
    "bajas": "Stuttgart: 1 fuera, 6 duda (Jeremy Arevalo); Werder Bremen: 2 fuera, 5 duda (Keke Topp, Jens Stage)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "factor": 0.5,
+   "result": false,
+   "score": "1-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "A",
@@ -15149,7 +15353,11 @@
    "version": "28a5461",
    "bajas": "Nott'm Forest: 2 fuera, 1 duda (Igor Jesus, Nicolo Savona); Man City: 2 fuera, 1 duda (Antoine Semenyo, Mateo Kovacic)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "3-1",
+   "clv": 0.068,
+   "logged": true
   },
   {
    "market": "AHA",
@@ -15170,7 +15378,12 @@
    "version": "28a5461",
    "bajas": "Aris: sin bajas; Panetolikos: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "factor": 0.0,
+   "result": false,
+   "score": "3-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "AHH",
@@ -15191,7 +15404,12 @@
    "version": "28a5461",
    "bajas": "Osasuna: 1 fuera, 3 duda (Iker Munoz); Ath Bilbao: 2 fuera, 5 duda (Yuri Berchiche, Unai Eguiluz)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "factor": 1.8,
+   "result": true,
+   "score": "1-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "AHA",
@@ -15212,7 +15430,12 @@
    "version": "28a5461",
    "bajas": "Cordoba: sin bajas; Ceuta: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "factor": 0.0,
+   "result": false,
+   "score": "3-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "U25",
@@ -15232,7 +15455,11 @@
    "version": "28a5461",
    "bajas": "Leganes: 0 fuera, 1 duda; Albacete: 1 fuera, 0 duda (Antonio Puertas)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "1-3",
+   "clv": 0.011,
+   "logged": true
   },
   {
    "market": "H",
@@ -15252,7 +15479,11 @@
    "version": "28a5461",
    "bajas": "Den Haag: 0 fuera, 2 duda; Sparta Rotterdam: 1 fuera, 1 duda (Bruno Martins Indi)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "3-1",
+   "clv": -0.012,
+   "logged": true
   },
   {
    "market": "AHA",
@@ -15273,7 +15504,12 @@
    "version": "28a5461",
    "bajas": "Aberdeen: sin bajas; Hibernian: 0 fuera, 1 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "factor": 2.03,
+   "result": true,
+   "score": "0-4",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "AHH",
@@ -15294,7 +15530,12 @@
    "version": "28a5461",
    "bajas": "Auxerre: 2 fuera, 1 duda (Assane Diousse, Bryan Okoh); Paris FC: 2 fuera, 4 duda (Mamadou Mbow, Nhoa Sangui)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "factor": 0.5,
+   "result": false,
+   "score": "0-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "AHA",
@@ -15315,7 +15556,12 @@
    "version": "28a5461",
    "bajas": "Alverca: 4 fuera, 0 duda (Steven Baseya, Andre Vidigal, Noah Raveyre); Casa Pia: 0 fuera, 2 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "factor": 1.83,
+   "result": true,
+   "score": "1-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "O25",
@@ -15335,7 +15581,11 @@
    "version": "28a5461",
    "bajas": "Benevento: sin bajas; Avellino: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "1-1",
+   "clv": 0.016,
+   "logged": true
   },
   {
    "market": "AHA",
@@ -15356,7 +15606,12 @@
    "version": "28a5461",
    "bajas": "Pau FC: sin bajas; Nantes: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "factor": 2.15,
+   "result": true,
+   "score": "0-2",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "H",
@@ -15376,7 +15631,11 @@
    "version": "28a5461",
    "bajas": "St Etienne: sin bajas; Laval: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "2-0",
+   "clv": 0.03,
+   "logged": true
   },
   {
    "market": "AHA",
@@ -15397,7 +15656,12 @@
    "version": "28a5461",
    "bajas": "Hertha: 1 fuera, 1 duda (Linus Gechter); Wolfsburg: 1 fuera, 1 duda (Kamil Grabara)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "factor": 0.0,
+   "result": false,
+   "score": "2-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "AHA",
@@ -15418,7 +15682,12 @@
    "version": "28a5461",
    "bajas": "Antwerp: sin bajas; Lommel SK: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "factor": 1.95,
+   "result": true,
+   "score": "2-2",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "U25",
@@ -15438,7 +15707,11 @@
    "version": "28a5461",
    "bajas": "RAAL La Louviere: sin bajas; Cercle Brugge: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "0-1",
+   "clv": 0.077,
+   "logged": true
   },
   {
    "market": "H",
@@ -15458,7 +15731,11 @@
    "version": "28a5461",
    "bajas": "Roma: 4 fuera, 3 duda (Wesley, Mile Svilar, Lorenzo Pellegrini); Sassuolo: 4 fuera, 2 duda (Kristian Thorstvedt, Jay Idzes, Yeferson Paz)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "3-0",
+   "clv": 0.015,
+   "logged": true
   },
   {
    "market": "H",
@@ -15478,7 +15755,11 @@
    "version": "28a5461",
    "bajas": "Excelsior: sin bajas; Go Ahead Eagles: 1 fuera, 1 duda (Pim Saathof)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "0-1",
+   "clv": 0.152,
+   "logged": true
   },
   {
    "market": "AHH",
@@ -15499,7 +15780,12 @@
    "version": "28a5461",
    "bajas": "St Mirren: 0 fuera, 3 duda; Rangers: 1 fuera, 4 duda (Lawrence Shankland)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "factor": 0.0,
+   "result": false,
+   "score": "0-2",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "A",
@@ -15519,7 +15805,11 @@
    "version": "28a5461",
    "bajas": "Valencia: 3 fuera, 1 duda (Jose Copete, Diego Lopez, Sergi Canos); Real Madrid: 2 fuera, 2 duda (Vinicius Junior, Rodrygo)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "0-3",
+   "clv": 0.057,
+   "logged": true
   },
   {
    "market": "AHA",
@@ -15540,7 +15830,12 @@
    "version": "28a5461",
    "bajas": "Paris SG: 1 fuera, 4 duda (K. Kvaratskhelia); Troyes: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "factor": 2.0,
+   "result": true,
+   "score": "1-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "H",
@@ -15560,7 +15855,11 @@
    "version": "28a5461",
    "bajas": "Sp Lisbon: sin bajas; Moreirense: 0 fuera, 4 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "1-0",
+   "clv": 0.044,
+   "logged": true
   },
   {
    "market": "A",
@@ -15580,7 +15879,11 @@
    "version": "28a5461",
    "bajas": "Rizespor: 0 fuera, 1 duda; Erzurumspor: 0 fuera, 1 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "2-1",
+   "clv": -0.02,
+   "logged": true
   },
   {
    "market": "A",
@@ -15600,7 +15903,11 @@
    "version": "28a5461",
    "bajas": "Heerenveen: sin bajas; Feyenoord: 6 fuera, 2 duda (Luciano Valente, Jaden Slory, Jordan Bos)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "5-3",
+   "clv": 0.024,
+   "logged": true
   },
   {
    "market": "AHH",
@@ -15621,7 +15928,12 @@
    "version": "28a5461",
    "bajas": "Napoli: 3 fuera, 6 duda (Stanislav Lobotka, David Neres, Luca Marianucci); Lazio: 5 fuera, 2 duda (Kenneth Taylor, Nuno Tavares, Nicolo Rovella)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "factor": 0.5,
+   "result": false,
+   "score": "1-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "H",
@@ -15641,7 +15953,11 @@
    "version": "28a5461",
    "bajas": "Club Brugge: sin bajas; Anderlecht: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "1-1",
+   "clv": -0.025,
+   "logged": true
   },
   {
    "market": "H",
@@ -15661,7 +15977,11 @@
    "version": "28a5461",
    "bajas": "Bochum: 1 fuera, 4 duda (Philipp Strompf); Karlsruhe: 0 fuera, 1 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "3-2",
+   "clv": 0.114,
+   "logged": true
   },
   {
    "market": "O25",
@@ -15681,7 +16001,11 @@
    "version": "28a5461",
    "bajas": "Heidenheim: 0 fuera, 1 duda; Hannover: 0 fuera, 1 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "2-2",
+   "clv": 0.035,
+   "logged": true
   },
   {
    "market": "O25",
@@ -15701,7 +16025,11 @@
    "version": "28a5461",
    "bajas": "Magdeburg: 0 fuera, 4 duda; St Pauli: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "4-1",
+   "clv": 0.0,
+   "logged": true
   },
   {
    "market": "H",
@@ -15721,7 +16049,11 @@
    "version": "28a5461",
    "bajas": "Elche: 1 fuera, 2 duda (Adam Boayar); Betis: 1 fuera, 2 duda (Facundo Bernal)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "0-2",
+   "clv": -0.141,
+   "logged": true
   },
   {
    "market": "A",
@@ -15741,7 +16073,11 @@
    "version": "28a5461",
    "bajas": "Corum: 1 fuera, 0 duda (Gokhan Sazdagi); Fenerbahce: 1 fuera, 1 duda (Archie Brown)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "0-5",
+   "clv": -0.093,
+   "logged": true
   },
   {
    "market": "A",
@@ -15761,7 +16097,11 @@
    "version": "28a5461",
    "bajas": "Twente: 1 fuera, 4 duda (Daouda Weidmann); Ajax: 1 fuera, 5 duda (Anton Gaaei)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "2-2",
+   "clv": -0.223,
+   "logged": true
   },
   {
    "market": "H",
@@ -15781,7 +16121,11 @@
    "version": "28a5461",
    "bajas": "Brighton: 5 fuera, 3 duda (Zadok Yohanna, Femi Azeez, Kaoru Mitoma); Brentford: 4 fuera, 1 duda (Yehor Yarmoliuk, Rico Henry, Joshua Dasilva)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "2-0",
+   "clv": 0.083,
+   "logged": true
   },
   {
    "market": "A",
@@ -15801,7 +16145,11 @@
    "version": "28a5461",
    "bajas": "Crystal Palace: 4 fuera, 0 duda (Jean-Philippe Mateta, Takehiro Tomiyasu, Ismaila Sarr); Liverpool: 5 fuera, 0 duda (Jeremie Frimpong, Conor Bradley, Giovanni Leoni)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "1-3",
+   "clv": 0.072,
+   "logged": true
   },
   {
    "market": "AHA",
@@ -15822,7 +16170,12 @@
    "version": "28a5461",
    "bajas": "Ipswich: 1 fuera, 2 duda (Jack Taylor); Bournemouth: 3 fuera, 1 duda (Alex Scott, Alex Toth, Julian Araujo)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "factor": 1.93,
+   "result": true,
+   "score": "1-2",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "AHH",
@@ -15843,7 +16196,12 @@
    "version": "28a5461",
    "bajas": "Sunderland: 3 fuera, 3 duda (Daniel Ballard, Omar Alderete, Romaine Mundle); Chelsea: 6 fuera, 3 duda (Maxence Lacroix, Emiliano Martinez, Joao Pedro)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "factor": 1.93,
+   "result": true,
+   "score": "1-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "A",
@@ -15863,7 +16221,11 @@
    "version": "28a5461",
    "bajas": "Rennes: 1 fuera, 4 duda (Brice Samba); Lille: 2 fuera, 3 duda (Tanguy Nianzou, Hamza Igamane)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "1-2",
+   "clv": 0.078,
+   "logged": true
   },
   {
    "market": "AHH",
@@ -15884,7 +16246,12 @@
    "version": "28a5461",
    "bajas": "Genoa: 2 fuera, 2 duda (Vitinha, Joi Xheto Nuredini); Milan: 5 fuera, 4 duda (Ruben Loftus-Cheek, Samuel Chukwueze, Alexis Saelemaekers)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "factor": 0.0,
+   "result": false,
+   "score": "1-2",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "H",
@@ -15904,7 +16271,11 @@
    "version": "28a5461",
    "bajas": "Monza: 1 fuera, 0 duda (Matteo Pessina); Atalanta: 3 fuera, 4 duda (Sead Kolasinac, Odilon Kossounou, Isak Hien)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "0-1",
+   "clv": -0.049,
+   "logged": true
   },
   {
    "market": "AHH",
@@ -15925,7 +16296,12 @@
    "version": "28a5461",
    "bajas": "Virtus Entella: 1 fuera, 0 duda (Leonardo Benedetti); Modena: 0 fuera, 3 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "factor": 0.0,
+   "result": false,
+   "score": "0-2",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "U25",
@@ -15945,7 +16321,11 @@
    "version": "28a5461",
    "bajas": "FC Koln: 1 fuera, 4 duda (Timo Huebers); Leverkusen: 0 fuera, 7 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "1-2",
+   "clv": 0.215,
+   "logged": true
   },
   {
    "market": "H",
@@ -15965,7 +16345,11 @@
    "version": "28a5461",
    "bajas": "Gent: sin bajas; Kortrijk: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "1-0",
+   "clv": -0.053,
+   "logged": true
   },
   {
    "market": "H",
@@ -15985,7 +16369,11 @@
    "version": "28a5461",
    "bajas": "AEK: sin bajas; Levadeiakos: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "2-1",
+   "clv": -0.016,
+   "logged": true
   },
   {
    "market": "A",
@@ -16005,7 +16393,11 @@
    "version": "28a5461",
    "bajas": "Asteras Tripolis: sin bajas; Kalamata: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "1-1",
+   "clv": 0.047,
+   "logged": true
   },
   {
    "market": "AHH",
@@ -16026,7 +16418,12 @@
    "version": "28a5461",
    "bajas": "Hearts: 5 fuera, 5 duda (James Wilson, Tomas Magnusson, Blair Spittal); Falkirk: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "factor": 0.0,
+   "result": false,
+   "score": "2-5",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "H",
@@ -16046,7 +16443,11 @@
    "version": "28a5461",
    "bajas": "Sociedad: 1 fuera, 2 duda (Alvaro Odriozola); Vallecano: 3 fuera, 3 duda (Unai Lopez, Pathe Ciss, Augusto Batalla)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "1-0",
+   "clv": -0.076,
+   "logged": true
   },
   {
    "market": "A",
@@ -16066,7 +16467,11 @@
    "version": "28a5461",
    "bajas": "Girona: sin bajas; Almeria: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "0-1",
+   "clv": -0.016,
+   "logged": true
   },
   {
    "market": "AHH",
@@ -16087,7 +16492,12 @@
    "version": "28a5461",
    "bajas": "Iraklis: sin bajas; Panathinaikos: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "factor": 1.5,
+   "result": true,
+   "score": "1-2",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "A",
@@ -16128,7 +16538,12 @@
    "version": "28a5461",
    "bajas": "Santa Clara: 5 fuera, 1 duda (Luis Fernando, Lucas Franca, Goncalo Paciencia); Gil Vicente: 2 fuera, 3 duda (Ricardo Esgaio, Mohamed Bamba)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "factor": 0.0,
+   "result": false,
+   "score": "1-2",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "AHH",
@@ -16149,7 +16564,12 @@
    "version": "28a5461",
    "bajas": "Alanyaspor: 2 fuera, 1 duda (Nuno Lima, Fatih Aksoy); Trabzonspor: 3 fuera, 4 duda (Franculino, Muhammed Cham, Batista Mendy)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "factor": 0.0,
+   "result": false,
+   "score": "0-2",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "H",
@@ -16169,7 +16589,11 @@
    "version": "28a5461",
    "bajas": "AZ Alkmaar: 2 fuera, 5 duda (Ayoub Oufkir, Stije Resink); Groningen: 2 fuera, 1 duda (Etienne Vaessen, Rijk Janse)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "4-3",
+   "clv": 0.054,
+   "logged": true
   },
   {
    "market": "A",
@@ -16189,7 +16613,11 @@
    "version": "28a5461",
    "bajas": "Cambuur: 0 fuera, 1 duda; PSV Eindhoven: 1 fuera, 5 duda (Jerdy Schouten)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "2-5",
+   "clv": 0.0,
+   "logged": true
   },
   {
    "market": "H",
@@ -16209,7 +16637,11 @@
    "version": "28a5461",
    "bajas": "Celtic: 0 fuera, 2 duda; Kilmarnock: 0 fuera, 1 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "1-0",
+   "clv": 0.054,
+   "logged": true
   },
   {
    "market": "H",
@@ -16229,7 +16661,11 @@
    "version": "28a5461",
    "bajas": "Angers: 1 fuera, 0 duda (Yassin Belkhdim); Nice: 2 fuera, 4 duda (Antoine Mendy, Laurent Abergel)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "0-2",
+   "clv": -0.084,
+   "logged": true
   },
   {
    "market": "O25",
@@ -16249,7 +16685,11 @@
    "version": "28a5461",
    "bajas": "Brest: 0 fuera, 2 duda; Lyon: 1 fuera, 4 duda (Keito Nakamura)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "2-0",
+   "clv": 0.072,
+   "logged": true
   },
   {
    "market": "AHH",
@@ -16270,7 +16710,12 @@
    "version": "28a5461",
    "bajas": "Le Havre: 3 fuera, 2 duda (Ayumu Seko, Ayumu Seko, Felix Mambimbi); Lorient: 1 fuera, 2 duda (Bandiougou Fadiga)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "factor": 0.0,
+   "result": false,
+   "score": "0-2",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "AHH",
@@ -16291,7 +16736,12 @@
    "version": "28a5461",
    "bajas": "Le Mans: 0 fuera, 2 duda; Monaco: 0 fuera, 2 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "factor": 1.93,
+   "result": true,
+   "score": "1-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "AHH",
@@ -16312,7 +16762,12 @@
    "version": "28a5461",
    "bajas": "Carrarese: sin bajas; Sampdoria: 1 fuera, 8 duda (Manuel Cicconi)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "factor": 0.0,
+   "result": false,
+   "score": "0-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "AHA",
@@ -16333,7 +16788,12 @@
    "version": "28a5461",
    "bajas": "Freiburg: 1 fuera, 1 duda (Florent Muslija); Union Berlin: 3 fuera, 4 duda (Felix Uduokhai, Derrick Koehn, Andrik Markgraf)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "factor": 0.0,
+   "result": false,
+   "score": "2-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "A",
@@ -16353,7 +16813,11 @@
    "version": "28a5461",
    "bajas": "Man United: 5 fuera, 3 duda (Lisandro Martinez, Luke Shaw, Patrick Dorgu); Aston Villa: 3 fuera, 0 duda (Matty Cash, Matteo Ruggeri, Amadou Onana)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "4-4",
+   "clv": -0.003,
+   "logged": true
   },
   {
    "market": "AHA",
@@ -16374,7 +16838,12 @@
    "version": "28a5461",
    "bajas": "OFI Crete: sin bajas; Atromitos: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "factor": 1.78,
+   "result": true,
+   "score": "0-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "AHA",
@@ -16395,7 +16864,12 @@
    "version": "28a5461",
    "bajas": "Inter: 3 fuera, 2 duda (Luis Henrique, Lautaro Martinez, Valentin Carboni); Como: 3 fuera, 4 duda (Assane Diao, Jesus Rodriguez, Edoardo Goldaniga)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "factor": 0.0,
+   "result": false,
+   "score": "2-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "H",
@@ -16415,7 +16889,11 @@
    "version": "28a5461",
    "bajas": "St. Gilloise: sin bajas; Genk: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "1-0",
+   "clv": 0.052,
+   "logged": true
   },
   {
    "market": "H",
@@ -16435,7 +16913,11 @@
    "version": "28a5461",
    "bajas": "Celta: 0 fuera, 6 duda; Levante: 0 fuera, 1 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "0-0",
+   "clv": 0.077,
+   "logged": true
   },
   {
    "market": "H",
@@ -16455,7 +16937,11 @@
    "version": "28a5461",
    "bajas": "Villarreal: 1 fuera, 3 duda (Pape Gueye); Getafe: 6 fuera, 1 duda (Martin Satriano, Djene, Johan Mojica)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "2-0",
+   "clv": -0.046,
+   "logged": true
   },
   {
    "market": "AHH",
@@ -16497,7 +16983,12 @@
    "version": "28a5461",
    "bajas": "Sp Gijon: sin bajas; Valladolid: 1 fuera, 1 duda (David Torres)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "factor": 0.0,
+   "result": false,
+   "score": "1-2",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "O25",
@@ -16517,7 +17008,11 @@
    "version": "28a5461",
    "bajas": "Guimaraes: sin bajas; Porto: 2 fuera, 4 duda (Nehuen Perez, Dominik Prpic)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "1-2",
+   "clv": 0.073,
+   "logged": true
   },
   {
    "market": "U25",
@@ -16537,7 +17032,11 @@
    "version": "28a5461",
    "bajas": "Besiktas: sin bajas; Genclerbirligi: 3 fuera, 1 duda (Ousmane Diabate, Dimitrios Goutas, Kevin Rodrigues)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "3-0",
+   "clv": -0.006,
+   "logged": true
   },
   {
    "market": "H",
@@ -16557,7 +17056,11 @@
    "version": "28a5461",
    "bajas": "St Truiden: sin bajas; Waregem: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "4-1",
+   "clv": 0.125,
+   "logged": true
   },
   {
    "market": "H",
@@ -16577,7 +17080,11 @@
    "version": "28a5461",
    "bajas": "Hoffenheim: 2 fuera, 8 duda (Alexander Prass, Valentin Gendrey); Schalke 04: 0 fuera, 7 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "2-1",
+   "clv": 0.059,
+   "logged": true
   },
   {
    "market": "AHA",
@@ -16598,7 +17105,12 @@
    "version": "28a5461",
    "bajas": "Vicenza: 0 fuera, 1 duda; Cremonese: 2 fuera, 0 duda (Marco Nasti, Matteo Bianchetti)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "factor": 2.08,
+   "result": true,
+   "score": "1-4",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "AHA",
@@ -16619,7 +17131,12 @@
    "version": "28a5461",
    "bajas": "Olympiakos: sin bajas; PAOK: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "factor": 1.83,
+   "result": true,
+   "score": "1-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "H",
@@ -16639,7 +17156,11 @@
    "version": "28a5461",
    "bajas": "Utrecht: 3 fuera, 2 duda (Victor Jensen, Noah Ohio, Miliano Jonathans); Nijmegen: 0 fuera, 3 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "2-3",
+   "clv": -0.05,
+   "logged": true
   },
   {
    "market": "AHH",
@@ -16660,7 +17181,12 @@
    "version": "28a5461",
    "bajas": "Lens: 2 fuera, 4 duda (Maik Nawrocki, Jhoanner Chavez); Marseille: 0 fuera, 2 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "factor": 0.0,
+   "result": false,
+   "score": "1-2",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "A",
@@ -16680,7 +17206,11 @@
    "version": "28a5461",
    "bajas": "Fiorentina: 5 fuera, 5 duda (Roberto Piccoli, Marin Pongracic, Luca Ranieri); Juventus: 8 fuera, 2 duda (Gleison Bremer, Mehmet Zeki Celik, Chico Conceicao)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "2-2",
+   "clv": -0.041,
+   "logged": true
   },
   {
    "market": "AHH",
@@ -16701,7 +17231,12 @@
    "version": "28a5461",
    "bajas": "Ath Madrid: 1 fuera, 4 duda (Robin Le Normand); Barcelona: 1 fuera, 5 duda (Roony Bardghji)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "factor": 0.5,
+   "result": false,
+   "score": "1-2",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "A",
@@ -16721,7 +17256,11 @@
    "version": "28a5461",
    "bajas": "Estrela: 0 fuera, 1 duda; Benfica: 1 fuera, 0 duda (Leandro Barreiro)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "2-3",
+   "clv": 0.059,
+   "logged": true
   },
   {
    "market": "O25",
@@ -16741,7 +17280,11 @@
    "version": "28a5461",
    "bajas": "Rio Ave: 3 fuera, 3 duda (A. Ntoi, Francisco Petrasso, Ryan Guilherme); Sp Braga: 1 fuera, 1 duda (Carvalho)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "0-1",
+   "clv": 0.116,
+   "logged": true
   },
   {
    "market": "A",
@@ -17938,7 +18481,11 @@
    "version": "1cff44b",
    "bajas": "Wrexham: sin bajas; Wolves: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "1-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_t_u",
@@ -17959,7 +18506,11 @@
    "version": "1cff44b",
    "bajas": "Wrexham: sin bajas; Wolves: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "1-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_h_o",
@@ -17980,7 +18531,11 @@
    "version": "1cff44b",
    "bajas": "Wrexham: sin bajas; Wolves: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "1-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_h_u",
@@ -18001,7 +18556,11 @@
    "version": "1cff44b",
    "bajas": "Wrexham: sin bajas; Wolves: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "1-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_a_o",
@@ -18022,7 +18581,11 @@
    "version": "1cff44b",
    "bajas": "Wrexham: sin bajas; Wolves: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "1-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_a_u",
@@ -18043,7 +18606,11 @@
    "version": "1cff44b",
    "bajas": "Wrexham: sin bajas; Wolves: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "1-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_t_o",
@@ -26997,7 +27564,11 @@
    "version": "dc22cba",
    "bajas": "Paris SG: 1 fuera, 4 duda (K. Kvaratskhelia); Troyes: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "1-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_t_u",
@@ -27018,7 +27589,11 @@
    "version": "dc22cba",
    "bajas": "Paris SG: 1 fuera, 4 duda (K. Kvaratskhelia); Troyes: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "1-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_h_o",
@@ -27039,7 +27614,11 @@
    "version": "dc22cba",
    "bajas": "Paris SG: 1 fuera, 4 duda (K. Kvaratskhelia); Troyes: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "1-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_h_u",
@@ -27060,7 +27639,11 @@
    "version": "dc22cba",
    "bajas": "Paris SG: 1 fuera, 4 duda (K. Kvaratskhelia); Troyes: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "1-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_a_u",
@@ -27081,7 +27664,11 @@
    "version": "dc22cba",
    "bajas": "Paris SG: 1 fuera, 4 duda (K. Kvaratskhelia); Troyes: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "1-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_a_o",
@@ -27102,7 +27689,11 @@
    "version": "dc22cba",
    "bajas": "Paris SG: 1 fuera, 4 duda (K. Kvaratskhelia); Troyes: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "1-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_t_o",
@@ -27123,7 +27714,11 @@
    "version": "f441326",
    "bajas": "Sp Lisbon: sin bajas; Moreirense: 0 fuera, 4 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "1-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_t_u",
@@ -27144,7 +27739,11 @@
    "version": "f441326",
    "bajas": "Sp Lisbon: sin bajas; Moreirense: 0 fuera, 4 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "1-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_h_o",
@@ -27165,7 +27764,11 @@
    "version": "f441326",
    "bajas": "Sp Lisbon: sin bajas; Moreirense: 0 fuera, 4 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "1-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_h_u",
@@ -27186,7 +27789,11 @@
    "version": "f441326",
    "bajas": "Sp Lisbon: sin bajas; Moreirense: 0 fuera, 4 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "1-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_a_o",
@@ -27207,7 +27814,11 @@
    "version": "f441326",
    "bajas": "Sp Lisbon: sin bajas; Moreirense: 0 fuera, 4 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "1-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_a_u",
@@ -27228,7 +27839,11 @@
    "version": "f441326",
    "bajas": "Sp Lisbon: sin bajas; Moreirense: 0 fuera, 4 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "1-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "key": "vp|2026-11-07|Bromley|Rotherham United",
@@ -29576,7 +30191,11 @@
    "version": "1d87391",
    "bajas": "Rizespor: 0 fuera, 1 duda; Erzurumspor: 0 fuera, 1 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "2-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_t_u",
@@ -29597,7 +30216,11 @@
    "version": "1d87391",
    "bajas": "Rizespor: 0 fuera, 1 duda; Erzurumspor: 0 fuera, 1 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "2-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_a_o",
@@ -29618,7 +30241,11 @@
    "version": "1d87391",
    "bajas": "Rizespor: 0 fuera, 1 duda; Erzurumspor: 0 fuera, 1 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "2-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_a_u",
@@ -29639,7 +30266,11 @@
    "version": "1d87391",
    "bajas": "Rizespor: 0 fuera, 1 duda; Erzurumspor: 0 fuera, 1 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "2-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_h_o",
@@ -29660,7 +30291,11 @@
    "version": "1d87391",
    "bajas": "Rizespor: 0 fuera, 1 duda; Erzurumspor: 0 fuera, 1 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "2-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_h_u",
@@ -29681,7 +30316,11 @@
    "version": "1d87391",
    "bajas": "Rizespor: 0 fuera, 1 duda; Erzurumspor: 0 fuera, 1 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "2-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "key": "vp|2026-11-07|MKS Mazovia Minsk Mazowiecki|Mlawianka Mlawa",
@@ -32521,7 +33160,11 @@
    "version": "a36ba13",
    "bajas": "Rennes: 1 fuera, 4 duda (Brice Samba); Lille: 2 fuera, 3 duda (Tanguy Nianzou, Hamza Igamane)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "1-2",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_t_u",
@@ -32542,7 +33185,11 @@
    "version": "a36ba13",
    "bajas": "Rennes: 1 fuera, 4 duda (Brice Samba); Lille: 2 fuera, 3 duda (Tanguy Nianzou, Hamza Igamane)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "1-2",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_h_o",
@@ -32563,7 +33210,11 @@
    "version": "a36ba13",
    "bajas": "Rennes: 1 fuera, 4 duda (Brice Samba); Lille: 2 fuera, 3 duda (Tanguy Nianzou, Hamza Igamane)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "1-2",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_h_u",
@@ -32584,7 +33235,11 @@
    "version": "a36ba13",
    "bajas": "Rennes: 1 fuera, 4 duda (Brice Samba); Lille: 2 fuera, 3 duda (Tanguy Nianzou, Hamza Igamane)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "1-2",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_a_u",
@@ -32605,7 +33260,11 @@
    "version": "a36ba13",
    "bajas": "Rennes: 1 fuera, 4 duda (Brice Samba); Lille: 2 fuera, 3 duda (Tanguy Nianzou, Hamza Igamane)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "1-2",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_a_o",
@@ -32626,7 +33285,11 @@
    "version": "a36ba13",
    "bajas": "Rennes: 1 fuera, 4 duda (Brice Samba); Lille: 2 fuera, 3 duda (Tanguy Nianzou, Hamza Igamane)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "1-2",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_t_o",
@@ -33234,7 +33897,11 @@
    "version": "da0bec4",
    "bajas": "FC Koln: 1 fuera, 4 duda (Timo Huebers); Leverkusen: 0 fuera, 7 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "1-2",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_t_u",
@@ -33255,7 +33922,11 @@
    "version": "da0bec4",
    "bajas": "FC Koln: 1 fuera, 4 duda (Timo Huebers); Leverkusen: 0 fuera, 7 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "1-2",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_h_o",
@@ -33276,7 +33947,11 @@
    "version": "da0bec4",
    "bajas": "FC Koln: 1 fuera, 4 duda (Timo Huebers); Leverkusen: 0 fuera, 7 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "1-2",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_h_u",
@@ -33297,7 +33972,11 @@
    "version": "da0bec4",
    "bajas": "FC Koln: 1 fuera, 4 duda (Timo Huebers); Leverkusen: 0 fuera, 7 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "1-2",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_a_o",
@@ -33318,7 +33997,11 @@
    "version": "da0bec4",
    "bajas": "FC Koln: 1 fuera, 4 duda (Timo Huebers); Leverkusen: 0 fuera, 7 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "1-2",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_a_u",
@@ -33339,7 +34022,11 @@
    "version": "da0bec4",
    "bajas": "FC Koln: 1 fuera, 4 duda (Timo Huebers); Leverkusen: 0 fuera, 7 duda",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "1-2",
+   "close_p": null,
+   "logged": true
   },
   {
    "key": "vp|2026-11-08|FC Dallas|Colorado Rapids",
@@ -33927,7 +34614,11 @@
    "version": "7b275c5",
    "bajas": "Hearts: 5 fuera, 5 duda (James Wilson, Tomas Magnusson, Blair Spittal); Falkirk: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "2-5",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_h_u",
@@ -33948,7 +34639,11 @@
    "version": "7b275c5",
    "bajas": "Hearts: 5 fuera, 5 duda (James Wilson, Tomas Magnusson, Blair Spittal); Falkirk: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "2-5",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_t_o",
@@ -33969,7 +34664,11 @@
    "version": "7b275c5",
    "bajas": "Hearts: 5 fuera, 5 duda (James Wilson, Tomas Magnusson, Blair Spittal); Falkirk: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "2-5",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_t_u",
@@ -33990,7 +34689,11 @@
    "version": "7b275c5",
    "bajas": "Hearts: 5 fuera, 5 duda (James Wilson, Tomas Magnusson, Blair Spittal); Falkirk: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "2-5",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_a_o",
@@ -34011,7 +34714,11 @@
    "version": "7b275c5",
    "bajas": "Hearts: 5 fuera, 5 duda (James Wilson, Tomas Magnusson, Blair Spittal); Falkirk: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "2-5",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_a_u",
@@ -34032,7 +34739,11 @@
    "version": "7b275c5",
    "bajas": "Hearts: 5 fuera, 5 duda (James Wilson, Tomas Magnusson, Blair Spittal); Falkirk: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "2-5",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_t_o",
@@ -47966,20 +48677,6 @@
    "start": "2026-11-09T10:15:00+00:00",
    "league": "🎮⚽ FC 27 · World Cup B",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 61.650 partidos)",
-    "Goles esperados: d1pseN 3.09 · Bomb1to 3.17",
-    "Ganador: d1pseN 39% · empate 19% · Bomb1to 42%",
-    "Total: más de 6.5 goles 43% · menos 57%",
-    "Hándicap Bomb1to: −1.5 28% · −2.5 16%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: d1pseN ✅❌✅✅❌ | Bomb1to ✅❌➖➖✅",
-    "• Partidos: d1pseN 241 | Bomb1to 1266",
-    "• Liga: World Cup B",
-    "• Unibet: 1 3.35 · X 2.40 · 2 2.28 (sin margen 26%/36%/38%) · ventaja +30%. Sin stake hasta demostrar ROI con estas cuotas.",
-    "• En España: LeoVegas España 3.35 (+30%) · Paf España 3.35 (+30%)"
-   ],
    "context": "EA FC Esoccer Battle d1pseN vs Bomb1to (World Cup B): goles esperados 3.09-3.17, 1X2 39%/19%/42%. Sin cuotas de casa.",
    "captured": "2026-11-09T10:00",
    "version": "0f25202",
@@ -48018,6 +48715,111 @@
    "context": "EA FC Esoccer Battle Bomb1to vs Uncle (World Cup B): goles esperados 2.99-2.94, 1X2 42%/20%/38%. Sin cuotas de casa.",
    "captured": "2026-11-09T10:00",
    "version": "0f25202",
+   "bajas": "",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "A",
+   "pick": "Bomb1to",
+   "odds": 1.93,
+   "book": "Unibet",
+   "implied": 0.449,
+   "edge": 0.155,
+   "sin_stake": true,
+   "p": 0.598,
+   "key": "fc|2371090",
+   "match": "mko1919 vs Bomb1to",
+   "start": "2026-11-09T10:39:00+00:00",
+   "league": "🎮⚽ FC 27 · World Cup B",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 61.662 partidos)",
+    "Goles esperados: mko1919 2.75 · Bomb1to 3.72",
+    "Ganador: mko1919 23% · empate 17% · Bomb1to 60%",
+    "Total: más de 6.5 goles 47% · menos 53%",
+    "Hándicap Bomb1to: −1.5 41% · −2.5 27%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: mko1919 ➖✅➖✅❌ | Bomb1to ✅❌➖➖✅",
+    "• Partidos: mko1919 1164 | Bomb1to 1266",
+    "• Liga: World Cup B",
+    "• Unibet: 1 3.10 · X 3.20 · 2 1.93 (sin margen 28%/27%/45%) · ventaja +16%. Sin stake hasta demostrar ROI con estas cuotas.",
+    "• En España: LeoVegas España 1.93 (+15%) · Paf España 1.93 (+15%)"
+   ],
+   "context": "EA FC Esoccer Battle mko1919 vs Bomb1to (World Cup B): goles esperados 2.75-3.72, 1X2 23%/17%/60%. Sin cuotas de casa.",
+   "captured": "2026-11-09T10:26",
+   "version": "6c52ea5",
+   "bajas": "",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "A",
+   "pick": "Tesla",
+   "odds": 2.28,
+   "book": "Unibet",
+   "implied": 0.38,
+   "edge": 0.069,
+   "sin_stake": true,
+   "p": 0.469,
+   "key": "fc|2370275",
+   "match": "Pavlinho19 vs Tesla",
+   "start": "2026-11-09T10:36:00+00:00",
+   "league": "🎮⚽ FC 27 · World Cup A",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 61.662 partidos)",
+    "Goles esperados: Pavlinho19 2.65 · Tesla 3.04",
+    "Ganador: Pavlinho19 33% · empate 20% · Tesla 47%",
+    "Total: más de 5.5 goles 50% · menos 50%",
+    "Hándicap Tesla: −1.5 31% · −2.5 18%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Pavlinho19 ✅✅✅✅✅ | Tesla ❌✅❌✅❌",
+    "• Partidos: Pavlinho19 930 | Tesla 956",
+    "• Liga: World Cup A",
+    "• Unibet: 1 2.25 · X 3.70 · 2 2.28 (sin margen 39%/23%/38%) · ventaja +7%. Sin stake hasta demostrar ROI con estas cuotas.",
+    "• En España: LeoVegas España 2.28 (+7%) · Paf España 2.28 (+7%)"
+   ],
+   "context": "EA FC Esoccer Battle Pavlinho19 vs Tesla (World Cup A): goles esperados 2.65-3.04, 1X2 33%/20%/47%. Sin cuotas de casa.",
+   "captured": "2026-11-09T10:26",
+   "version": "6c52ea5",
+   "bajas": "",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "H",
+   "pick": "d1pseN",
+   "odds": 1.88,
+   "book": "Unibet",
+   "implied": 0.464,
+   "edge": 0.065,
+   "sin_stake": true,
+   "p": 0.566,
+   "key": "fc|2371092",
+   "match": "d1pseN vs mko1919",
+   "start": "2026-11-09T10:51:00+00:00",
+   "league": "🎮⚽ FC 27 · World Cup B",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 61.662 partidos)",
+    "Goles esperados: d1pseN 3.27 · mko1919 2.47",
+    "Ganador: d1pseN 57% · empate 19% · mko1919 25%",
+    "Total: más de 5.5 goles 51% · menos 49%",
+    "Hándicap d1pseN: −1.5 38% · −2.5 23%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: d1pseN ❌✅✅❌✅ | mko1919 ➖✅➖✅❌",
+    "• Partidos: d1pseN 242 | mko1919 1164",
+    "• Liga: World Cup B",
+    "• Unibet: 1 1.88 · X 4.50 · 2 2.55 (sin margen 46%/19%/34%) · ventaja +6%. Sin stake hasta demostrar ROI con estas cuotas.",
+    "• En España: LeoVegas España 1.88 (+6%) · Paf España 1.88 (+6%)"
+   ],
+   "context": "EA FC Esoccer Battle d1pseN vs mko1919 (World Cup B): goles esperados 3.27-2.47, 1X2 57%/19%/25%. Sin cuotas de casa.",
+   "captured": "2026-11-09T10:26",
+   "version": "6c52ea5",
    "bajas": "",
    "considered": true,
    "placed": false
@@ -48485,1958 +49287,6 @@
  "scoreboard_text": "📊 <b>MARCADOR DEL BOT</b>\n━━━━━━━━━━━━━━━\n🟩 Ganadas: <b>11</b> (37 %)\n🟥 Perdidas: <b>19</b> (63 %)\n⏳ En juego: 0\n\nÚltimas 30:\n🟥🟥🟥🟩🟥🟩🟥🟥🟥🟥🟥🟥🟥🟥🟩🟥🟥🟩🟩🟩🟩🟩🟥🟥🟥🟥🟩🟩🟥🟩\n━━━━━━━━━━━━━━━\n💵 Beneficio -17.17 $ · ROI -30.9 %\n📐 CLV medio +2.5 % (cuota cogida vs cierre)\n💰 Banca: <b>82.83 €</b> (-17.17 € desde 100 €) · libre 82.83 €{\"inline_keyboard\": [[{\"text\": \"\\ud83d\\udcc8 Ver historial completo y fallos\", \"url\": \"https://github.com/STAMFORD313/analista313/blob/main/ESTADISTICAS.md\"}], [{\"text\": \"\\u26bd F\\u00fatbol\", \"callback_data\": \"dep:futbol\"}, {\"text\": \"\\ud83c\\udfc0 NBA\\u00b7NCAA\", \"callback_data\": \"dep:nba\"}, {\"text\": \"\\ud83c\\udfc8 NFL\\u00b7NCAA\", \"callback_data\": \"dep:nfl\"}], [{\"text\": \"\\ud83c\\udfc6 Champions\\u00b7Europa\", \"callback_data\": \"dep:europa\"}, {\"text\": \"\\ud83c\\udfd2 NHL\", \"callback_data\": \"dep:nhl\"}, {\"text\": \"\\u26be MLB\", \"callback_data\": \"dep:mlb\"}], [{\"text\": \"\\ud83e\\udd4a UFC\", \"callback_data\": \"dep:ufc\"}, {\"text\": \"\\ud83c\\udfbe Tenis\", \"callback_data\": \"dep:tenis\"}, {\"text\": \"\\ud83c\\udfae CS2\", \"callback_data\": \"dep:cs2\"}], [{\"text\": \"\\ud83d\\udc09 Dota 2\", \"callback_data\": \"dep:dota2\"}, {\"text\": \"\\ud83e\\uddd9 LoL\", \"callback_data\": \"dep:lol\"}, {\"text\": \"\\ud83d\\udd2b R6 Siege\", \"callback_data\": \"dep:r6\"}], [{\"text\": \"\\ud83d\\udcf1 MLBB\", \"callback_data\": \"dep:mlbb\"}, {\"text\": \"\\ud83c\\udfae\\u26bd FC 27\", \"callback_data\": \"dep:fc\"}]]}",
  "fc_sent": "2026-11-09T06:50:50.248307+00:00",
  "sgp": {
-  "D1|2026-11-06|Hamburg|M'gladbach": {
-   "match": "Hamburg vs M'gladbach",
-   "start": "2026-11-06T19:30:00+00:00",
-   "combos": [
-    {
-     "kind": "corta",
-     "p": 0.3116,
-     "legs": [
-      {
-       "var": "fouls_t",
-       "sign": 1,
-       "line": 20.5,
-       "p": 0.7723,
-       "text": "Más de 20.5 faltas",
-       "odds": null
-      },
-      {
-       "var": "cards_h",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.6873,
-       "text": "Menos de 2.5 tarjetas de Hamburg",
-       "odds": null
-      },
-      {
-       "var": "sot_t",
-       "sign": -1,
-       "line": 10.5,
-       "p": 0.6067,
-       "text": "Menos de 10.5 tiros a puerta",
-       "odds": null
-      }
-     ]
-    },
-    {
-     "kind": "larga",
-     "p": 0.0876,
-     "legs": [
-      {
-       "var": "fouls_t",
-       "sign": 1,
-       "line": 20.5,
-       "p": 0.7723,
-       "text": "Más de 20.5 faltas",
-       "odds": null
-      },
-      {
-       "var": "cards_h",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.6873,
-       "text": "Menos de 2.5 tarjetas de Hamburg",
-       "odds": null
-      },
-      {
-       "var": "sot_t",
-       "sign": -1,
-       "line": 10.5,
-       "p": 0.6067,
-       "text": "Menos de 10.5 tiros a puerta",
-       "odds": null
-      },
-      {
-       "var": "corners_t",
-       "sign": -1,
-       "line": 10.5,
-       "p": 0.5902,
-       "text": "Menos de 10.5 córners",
-       "odds": null
-      },
-      {
-       "var": "goals_t",
-       "sign": 1,
-       "line": 2.5,
-       "p": 0.5622,
-       "text": "Más de 2.5 goles",
-       "odds": 1.65
-      }
-     ]
-    }
-   ],
-   "priced": false,
-   "pool": [
-    {
-     "stat": "fouls",
-     "var": "fouls_t",
-     "sign": 1,
-     "p": 0.7722728795950399,
-     "line": 20.5,
-     "text": "Más de 20.5 faltas"
-    },
-    {
-     "stat": "cards",
-     "var": "cards_h",
-     "sign": -1,
-     "p": 0.687348890938454,
-     "line": 2.5,
-     "text": "Menos de 2.5 tarjetas de Hamburg"
-    },
-    {
-     "stat": "sot",
-     "var": "sot_t",
-     "sign": -1,
-     "p": 0.6066731838064241,
-     "line": 10.5,
-     "text": "Menos de 10.5 tiros a puerta"
-    },
-    {
-     "stat": "corners",
-     "var": "corners_t",
-     "sign": -1,
-     "p": 0.590205090128006,
-     "line": 10.5,
-     "text": "Menos de 10.5 córners"
-    },
-    {
-     "stat": "goals",
-     "var": "goals_t",
-     "sign": 1,
-     "p": 0.562242136749735,
-     "line": 2.5,
-     "text": "Más de 2.5 goles"
-    }
-   ]
-  },
-  "E1|2026-11-07|Wrexham|Wolves": {
-   "match": "Wrexham vs Wolves",
-   "start": "2026-11-07T12:30:00+00:00",
-   "combos": [
-    {
-     "kind": "corta",
-     "p": 0.3486,
-     "legs": [
-      {
-       "var": "sot_h",
-       "sign": -1,
-       "line": 5.5,
-       "p": 0.7603,
-       "text": "Menos de 5.5 tiros a puerta de Wrexham",
-       "odds": null
-      },
-      {
-       "var": "cards_h",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.7557,
-       "text": "Menos de 2.5 tarjetas de Wrexham",
-       "odds": null
-      },
-      {
-       "var": "goals_t",
-       "sign": 1,
-       "line": 2.5,
-       "p": 0.6709,
-       "text": "Más de 2.5 goles",
-       "odds": 1.88
-      }
-     ]
-    },
-    {
-     "kind": "larga",
-     "p": 0.1591,
-     "legs": [
-      {
-       "var": "sot_h",
-       "sign": -1,
-       "line": 5.5,
-       "p": 0.7603,
-       "text": "Menos de 5.5 tiros a puerta de Wrexham",
-       "odds": null
-      },
-      {
-       "var": "cards_h",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.7557,
-       "text": "Menos de 2.5 tarjetas de Wrexham",
-       "odds": null
-      },
-      {
-       "var": "goals_t",
-       "sign": 1,
-       "line": 2.5,
-       "p": 0.6709,
-       "text": "Más de 2.5 goles",
-       "odds": 1.88
-      },
-      {
-       "var": "fouls_a",
-       "sign": -1,
-       "line": 11.5,
-       "p": 0.6606,
-       "text": "Menos de 11.5 faltas de Wolves",
-       "odds": null
-      },
-      {
-       "var": "corners_h",
-       "sign": -1,
-       "line": 5.5,
-       "p": 0.6194,
-       "text": "Menos de 5.5 córners de Wrexham",
-       "odds": 1.41
-      }
-     ]
-    },
-    {
-     "kind": "valor",
-     "p": 0.4165,
-     "legs": [
-      {
-       "stat": "goals",
-       "var": "goals_t",
-       "sign": 1,
-       "p": 0.6709262795553819,
-       "line": 2.5,
-       "text": "Más de 2.5 goles",
-       "odds": 1.88
-      },
-      {
-       "stat": "corners",
-       "var": "corners_h",
-       "sign": -1,
-       "p": 0.6194020434651977,
-       "line": 5.5,
-       "text": "Menos de 5.5 córners de Wrexham",
-       "odds": 1.41
-      }
-     ],
-     "odds": 2.65,
-     "edge": 0.104,
-     "sim": true
-    }
-   ],
-   "priced": true,
-   "pool": [
-    {
-     "stat": "sot",
-     "var": "sot_h",
-     "sign": -1,
-     "p": 0.7603037739870006,
-     "line": 5.5,
-     "text": "Menos de 5.5 tiros a puerta de Wrexham"
-    },
-    {
-     "stat": "cards",
-     "var": "cards_h",
-     "sign": -1,
-     "p": 0.7556575777010847,
-     "line": 2.5,
-     "text": "Menos de 2.5 tarjetas de Wrexham"
-    },
-    {
-     "stat": "goals",
-     "var": "goals_t",
-     "sign": 1,
-     "p": 0.6709262795553819,
-     "line": 2.5,
-     "text": "Más de 2.5 goles"
-    },
-    {
-     "stat": "fouls",
-     "var": "fouls_a",
-     "sign": -1,
-     "p": 0.6605804176634453,
-     "line": 11.5,
-     "text": "Menos de 11.5 faltas de Wolves"
-    },
-    {
-     "stat": "corners",
-     "var": "corners_h",
-     "sign": -1,
-     "p": 0.6194020434651977,
-     "line": 5.5,
-     "text": "Menos de 5.5 córners de Wrexham"
-    }
-   ],
-   "anunciada": true
-  },
-  "SP1|2026-11-07|Malaga|Santander": {
-   "match": "Malaga vs Santander",
-   "start": "2026-11-07T13:00:00+00:00",
-   "combos": [
-    {
-     "kind": "corta",
-     "p": 0.2712,
-     "legs": [
-      {
-       "var": "goals_t",
-       "sign": 1,
-       "line": 2.5,
-       "p": 0.668,
-       "text": "Más de 2.5 goles",
-       "odds": 1.63
-      },
-      {
-       "var": "sot_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.6627,
-       "text": "Menos de 4.5 tiros a puerta de Santander",
-       "odds": null
-      },
-      {
-       "var": "corners_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.6175,
-       "text": "Menos de 4.5 córners de Santander",
-       "odds": null
-      }
-     ]
-    },
-    {
-     "kind": "larga",
-     "p": 0.1036,
-     "legs": [
-      {
-       "var": "goals_t",
-       "sign": 1,
-       "line": 2.5,
-       "p": 0.668,
-       "text": "Más de 2.5 goles",
-       "odds": 1.63
-      },
-      {
-       "var": "sot_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.6627,
-       "text": "Menos de 4.5 tiros a puerta de Santander",
-       "odds": null
-      },
-      {
-       "var": "corners_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.6175,
-       "text": "Menos de 4.5 córners de Santander",
-       "odds": null
-      },
-      {
-       "var": "cards_h",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.6122,
-       "text": "Menos de 2.5 tarjetas de Malaga",
-       "odds": null
-      },
-      {
-       "var": "fouls_a",
-       "sign": -1,
-       "line": 12.5,
-       "p": 0.6043,
-       "text": "Menos de 12.5 faltas de Santander",
-       "odds": null
-      }
-     ]
-    }
-   ],
-   "priced": false,
-   "pool": [
-    {
-     "stat": "goals",
-     "var": "goals_t",
-     "sign": 1,
-     "p": 0.6680031721754083,
-     "line": 2.5,
-     "text": "Más de 2.5 goles"
-    },
-    {
-     "stat": "sot",
-     "var": "sot_a",
-     "sign": -1,
-     "p": 0.6626827933307533,
-     "line": 4.5,
-     "text": "Menos de 4.5 tiros a puerta de Santander"
-    },
-    {
-     "stat": "corners",
-     "var": "corners_a",
-     "sign": -1,
-     "p": 0.6175410258441449,
-     "line": 4.5,
-     "text": "Menos de 4.5 córners de Santander"
-    },
-    {
-     "stat": "cards",
-     "var": "cards_h",
-     "sign": -1,
-     "p": 0.6121742356481986,
-     "line": 2.5,
-     "text": "Menos de 2.5 tarjetas de Malaga"
-    },
-    {
-     "stat": "fouls",
-     "var": "fouls_a",
-     "sign": -1,
-     "p": 0.6043034173776971,
-     "line": 12.5,
-     "text": "Menos de 12.5 faltas de Santander"
-    }
-   ]
-  },
-  "SP2|2026-11-07|Burgos|Celta B": {
-   "match": "Burgos vs Celta B",
-   "start": "2026-11-07T13:00:00+00:00",
-   "combos": [
-    {
-     "kind": "corta",
-     "p": 0.3661,
-     "legs": [
-      {
-       "var": "sot_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.7851,
-       "text": "Menos de 4.5 tiros a puerta de Celta B",
-       "odds": null
-      },
-      {
-       "var": "corners_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.6887,
-       "text": "Menos de 4.5 córners de Celta B",
-       "odds": null
-      },
-      {
-       "var": "cards_a",
-       "sign": -1,
-       "line": 3.5,
-       "p": 0.6657,
-       "text": "Menos de 3.5 tarjetas de Celta B",
-       "odds": null
-      }
-     ]
-    },
-    {
-     "kind": "larga",
-     "p": 0.1175,
-     "legs": [
-      {
-       "var": "sot_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.7851,
-       "text": "Menos de 4.5 tiros a puerta de Celta B",
-       "odds": null
-      },
-      {
-       "var": "corners_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.6887,
-       "text": "Menos de 4.5 córners de Celta B",
-       "odds": null
-      },
-      {
-       "var": "cards_a",
-       "sign": -1,
-       "line": 3.5,
-       "p": 0.6657,
-       "text": "Menos de 3.5 tarjetas de Celta B",
-       "odds": null
-      },
-      {
-       "var": "goals_t",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.5746,
-       "text": "Menos de 2.5 goles",
-       "odds": 1.91
-      },
-      {
-       "var": "fouls_t",
-       "sign": 1,
-       "line": 26.5,
-       "p": 0.5529,
-       "text": "Más de 26.5 faltas",
-       "odds": null
-      }
-     ]
-    }
-   ],
-   "priced": false,
-   "pool": [
-    {
-     "stat": "sot",
-     "var": "sot_a",
-     "sign": -1,
-     "p": 0.7850646814049866,
-     "line": 4.5,
-     "text": "Menos de 4.5 tiros a puerta de Celta B"
-    },
-    {
-     "stat": "corners",
-     "var": "corners_a",
-     "sign": -1,
-     "p": 0.6887207914607807,
-     "line": 4.5,
-     "text": "Menos de 4.5 córners de Celta B"
-    },
-    {
-     "stat": "cards",
-     "var": "cards_a",
-     "sign": -1,
-     "p": 0.6656854203365268,
-     "line": 3.5,
-     "text": "Menos de 3.5 tarjetas de Celta B"
-    },
-    {
-     "stat": "goals",
-     "var": "goals_t",
-     "sign": -1,
-     "p": 0.5746321177236807,
-     "line": 2.5,
-     "text": "Menos de 2.5 goles"
-    },
-    {
-     "stat": "fouls",
-     "var": "fouls_t",
-     "sign": 1,
-     "p": 0.5529169067166297,
-     "line": 26.5,
-     "text": "Más de 26.5 faltas"
-    }
-   ]
-  },
-  "E1|2026-11-07|QPR|Lincoln": {
-   "match": "QPR vs Lincoln",
-   "start": "2026-11-07T15:00:00+00:00",
-   "combos": [
-    {
-     "kind": "corta",
-     "p": 0.3248,
-     "legs": [
-      {
-       "var": "cards_h",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.6859,
-       "text": "Menos de 2.5 tarjetas de QPR",
-       "odds": null
-      },
-      {
-       "var": "corners_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.6789,
-       "text": "Menos de 4.5 córners de Lincoln",
-       "odds": null
-      },
-      {
-       "var": "fouls_h",
-       "sign": -1,
-       "line": 11.5,
-       "p": 0.6522,
-       "text": "Menos de 11.5 faltas de QPR",
-       "odds": null
-      }
-     ]
-    },
-    {
-     "kind": "larga",
-     "p": 0.2071,
-     "legs": [
-      {
-       "var": "cards_h",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.6859,
-       "text": "Menos de 2.5 tarjetas de QPR",
-       "odds": null
-      },
-      {
-       "var": "corners_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.6789,
-       "text": "Menos de 4.5 córners de Lincoln",
-       "odds": null
-      },
-      {
-       "var": "fouls_h",
-       "sign": -1,
-       "line": 11.5,
-       "p": 0.6522,
-       "text": "Menos de 11.5 faltas de QPR",
-       "odds": null
-      },
-      {
-       "var": "sot_t",
-       "sign": -1,
-       "line": 9.5,
-       "p": 0.648,
-       "text": "Menos de 9.5 tiros a puerta",
-       "odds": null
-      }
-     ]
-    }
-   ],
-   "priced": false,
-   "pool": [
-    {
-     "stat": "cards",
-     "var": "cards_h",
-     "sign": -1,
-     "p": 0.6859396238832343,
-     "line": 2.5,
-     "text": "Menos de 2.5 tarjetas de QPR"
-    },
-    {
-     "stat": "corners",
-     "var": "corners_a",
-     "sign": -1,
-     "p": 0.678943037265268,
-     "line": 4.5,
-     "text": "Menos de 4.5 córners de Lincoln"
-    },
-    {
-     "stat": "fouls",
-     "var": "fouls_h",
-     "sign": -1,
-     "p": 0.6522182002086362,
-     "line": 11.5,
-     "text": "Menos de 11.5 faltas de QPR"
-    },
-    {
-     "stat": "sot",
-     "var": "sot_t",
-     "sign": -1,
-     "p": 0.6479780141739742,
-     "line": 9.5,
-     "text": "Menos de 9.5 tiros a puerta"
-    }
-   ]
-  },
-  "T1|2026-11-07|Galatasaray|Amedspor": {
-   "match": "Galatasaray vs Amedspor",
-   "start": "2026-11-07T16:00:00+00:00",
-   "combos": [
-    {
-     "kind": "corta",
-     "p": 0.4225,
-     "legs": [
-      {
-       "var": "sot_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.8031,
-       "text": "Menos de 4.5 tiros a puerta de Amedspor",
-       "odds": null
-      },
-      {
-       "var": "corners_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.7387,
-       "text": "Menos de 4.5 córners de Amedspor",
-       "odds": null
-      },
-      {
-       "var": "fouls_t",
-       "sign": -1,
-       "line": 26.5,
-       "p": 0.7042,
-       "text": "Menos de 26.5 faltas",
-       "odds": null
-      }
-     ]
-    },
-    {
-     "kind": "larga",
-     "p": 0.1905,
-     "legs": [
-      {
-       "var": "sot_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.8031,
-       "text": "Menos de 4.5 tiros a puerta de Amedspor",
-       "odds": null
-      },
-      {
-       "var": "corners_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.7387,
-       "text": "Menos de 4.5 córners de Amedspor",
-       "odds": null
-      },
-      {
-       "var": "fouls_t",
-       "sign": -1,
-       "line": 26.5,
-       "p": 0.7042,
-       "text": "Menos de 26.5 faltas",
-       "odds": null
-      },
-      {
-       "var": "goals_t",
-       "sign": 1,
-       "line": 2.5,
-       "p": 0.6701,
-       "text": "Más de 2.5 goles",
-       "odds": 1.41
-      },
-      {
-       "var": "cards_h",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.6448,
-       "text": "Menos de 2.5 tarjetas de Galatasaray",
-       "odds": null
-      }
-     ]
-    }
-   ],
-   "priced": false,
-   "pool": [
-    {
-     "stat": "sot",
-     "var": "sot_a",
-     "sign": -1,
-     "p": 0.8031149531458848,
-     "line": 4.5,
-     "text": "Menos de 4.5 tiros a puerta de Amedspor"
-    },
-    {
-     "stat": "corners",
-     "var": "corners_a",
-     "sign": -1,
-     "p": 0.7387273897919142,
-     "line": 4.5,
-     "text": "Menos de 4.5 córners de Amedspor"
-    },
-    {
-     "stat": "fouls",
-     "var": "fouls_t",
-     "sign": -1,
-     "p": 0.7042352890645169,
-     "line": 26.5,
-     "text": "Menos de 26.5 faltas"
-    },
-    {
-     "stat": "goals",
-     "var": "goals_t",
-     "sign": 1,
-     "p": 0.6701258988078218,
-     "line": 2.5,
-     "text": "Más de 2.5 goles"
-    },
-    {
-     "stat": "cards",
-     "var": "cards_h",
-     "sign": -1,
-     "p": 0.6447730431779984,
-     "line": 2.5,
-     "text": "Menos de 2.5 tarjetas de Galatasaray"
-    }
-   ]
-  },
-  "T1|2026-11-07|Goztep|Buyuksehyr": {
-   "match": "Goztep vs Buyuksehyr",
-   "start": "2026-11-07T16:00:00+00:00",
-   "combos": [
-    {
-     "kind": "corta",
-     "p": 0.3822,
-     "legs": [
-      {
-       "var": "fouls_a",
-       "sign": -1,
-       "line": 13.5,
-       "p": 0.813,
-       "text": "Menos de 13.5 faltas de Buyuksehyr",
-       "odds": null
-      },
-      {
-       "var": "sot_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.7112,
-       "text": "Menos de 4.5 tiros a puerta de Buyuksehyr",
-       "odds": null
-      },
-      {
-       "var": "corners_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.6332,
-       "text": "Menos de 4.5 córners de Buyuksehyr",
-       "odds": null
-      }
-     ]
-    },
-    {
-     "kind": "larga",
-     "p": 0.2475,
-     "legs": [
-      {
-       "var": "fouls_a",
-       "sign": -1,
-       "line": 13.5,
-       "p": 0.813,
-       "text": "Menos de 13.5 faltas de Buyuksehyr",
-       "odds": null
-      },
-      {
-       "var": "sot_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.7112,
-       "text": "Menos de 4.5 tiros a puerta de Buyuksehyr",
-       "odds": null
-      },
-      {
-       "var": "corners_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.6332,
-       "text": "Menos de 4.5 córners de Buyuksehyr",
-       "odds": null
-      },
-      {
-       "var": "cards_h",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.6282,
-       "text": "Menos de 2.5 tarjetas de Goztep",
-       "odds": null
-      }
-     ]
-    }
-   ],
-   "priced": false,
-   "pool": [
-    {
-     "stat": "fouls",
-     "var": "fouls_a",
-     "sign": -1,
-     "p": 0.8130170192034613,
-     "line": 13.5,
-     "text": "Menos de 13.5 faltas de Buyuksehyr"
-    },
-    {
-     "stat": "sot",
-     "var": "sot_a",
-     "sign": -1,
-     "p": 0.7112150016831484,
-     "line": 4.5,
-     "text": "Menos de 4.5 tiros a puerta de Buyuksehyr"
-    },
-    {
-     "stat": "corners",
-     "var": "corners_a",
-     "sign": -1,
-     "p": 0.6331574217913729,
-     "line": 4.5,
-     "text": "Menos de 4.5 córners de Buyuksehyr"
-    },
-    {
-     "stat": "cards",
-     "var": "cards_h",
-     "sign": -1,
-     "p": 0.6282333926838475,
-     "line": 2.5,
-     "text": "Menos de 2.5 tarjetas de Goztep"
-    }
-   ]
-  },
-  "B1|2026-11-07|Oud-Heverlee Leuven|Mechelen": {
-   "match": "Oud-Heverlee Leuven vs Mechelen",
-   "start": "2026-11-07T17:15:00+00:00",
-   "combos": [
-    {
-     "kind": "corta",
-     "p": 0.2903,
-     "legs": [
-      {
-       "var": "sot_h",
-       "sign": -1,
-       "line": 5.5,
-       "p": 0.6823,
-       "text": "Menos de 5.5 tiros a puerta de Oud-Heverlee Leuven",
-       "odds": null
-      },
-      {
-       "var": "fouls_h",
-       "sign": 1,
-       "line": 10.5,
-       "p": 0.6792,
-       "text": "Más de 10.5 faltas de Oud-Heverlee Leuven",
-       "odds": null
-      },
-      {
-       "var": "cards_a",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.619,
-       "text": "Menos de 2.5 tarjetas de Mechelen",
-       "odds": null
-      }
-     ]
-    },
-    {
-     "kind": "larga",
-     "p": 0.1869,
-     "legs": [
-      {
-       "var": "sot_h",
-       "sign": -1,
-       "line": 5.5,
-       "p": 0.6823,
-       "text": "Menos de 5.5 tiros a puerta de Oud-Heverlee Leuven",
-       "odds": null
-      },
-      {
-       "var": "fouls_h",
-       "sign": 1,
-       "line": 10.5,
-       "p": 0.6792,
-       "text": "Más de 10.5 faltas de Oud-Heverlee Leuven",
-       "odds": null
-      },
-      {
-       "var": "cards_a",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.619,
-       "text": "Menos de 2.5 tarjetas de Mechelen",
-       "odds": null
-      },
-      {
-       "var": "corners_h",
-       "sign": -1,
-       "line": 5.5,
-       "p": 0.5604,
-       "text": "Menos de 5.5 córners de Oud-Heverlee Leuven",
-       "odds": null
-      }
-     ]
-    }
-   ],
-   "priced": false,
-   "pool": [
-    {
-     "stat": "sot",
-     "var": "sot_h",
-     "sign": -1,
-     "p": 0.6822882141802382,
-     "line": 5.5,
-     "text": "Menos de 5.5 tiros a puerta de Oud-Heverlee Leuven"
-    },
-    {
-     "stat": "fouls",
-     "var": "fouls_h",
-     "sign": 1,
-     "p": 0.6792283696536829,
-     "line": 10.5,
-     "text": "Más de 10.5 faltas de Oud-Heverlee Leuven"
-    },
-    {
-     "stat": "cards",
-     "var": "cards_a",
-     "sign": -1,
-     "p": 0.6189955554717435,
-     "line": 2.5,
-     "text": "Menos de 2.5 tarjetas de Mechelen"
-    },
-    {
-     "stat": "corners",
-     "var": "corners_h",
-     "sign": -1,
-     "p": 0.5604140449458099,
-     "line": 5.5,
-     "text": "Menos de 5.5 córners de Oud-Heverlee Leuven"
-    }
-   ]
-  },
-  "E0|2026-11-07|Nott'm Forest|Man City": {
-   "match": "Nott'm Forest vs Man City",
-   "start": "2026-11-07T17:30:00+00:00",
-   "combos": [
-    {
-     "kind": "corta",
-     "p": 0.4642,
-     "legs": [
-      {
-       "var": "sot_h",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.7654,
-       "text": "Menos de 4.5 tiros a puerta de Nott'm Forest",
-       "odds": null
-      },
-      {
-       "var": "cards_a",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.7566,
-       "text": "Menos de 2.5 tarjetas de Man City",
-       "odds": null
-      },
-      {
-       "var": "fouls_a",
-       "sign": -1,
-       "line": 12.5,
-       "p": 0.7561,
-       "text": "Menos de 12.5 faltas de Man City",
-       "odds": null
-      }
-     ]
-    },
-    {
-     "kind": "larga",
-     "p": 0.2293,
-     "legs": [
-      {
-       "var": "sot_h",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.7654,
-       "text": "Menos de 4.5 tiros a puerta de Nott'm Forest",
-       "odds": null
-      },
-      {
-       "var": "cards_a",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.7566,
-       "text": "Menos de 2.5 tarjetas de Man City",
-       "odds": null
-      },
-      {
-       "var": "fouls_a",
-       "sign": -1,
-       "line": 12.5,
-       "p": 0.7561,
-       "text": "Menos de 12.5 faltas de Man City",
-       "odds": null
-      },
-      {
-       "var": "corners_h",
-       "sign": -1,
-       "line": 5.5,
-       "p": 0.7291,
-       "text": "Menos de 5.5 córners de Nott'm Forest",
-       "odds": null
-      },
-      {
-       "var": "goals_t",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.6027,
-       "text": "Menos de 2.5 goles",
-       "odds": 2.24
-      }
-     ]
-    }
-   ],
-   "priced": false,
-   "pool": [
-    {
-     "stat": "sot",
-     "var": "sot_h",
-     "sign": -1,
-     "p": 0.7654473994928529,
-     "line": 4.5,
-     "text": "Menos de 4.5 tiros a puerta de Nott'm Forest"
-    },
-    {
-     "stat": "cards",
-     "var": "cards_a",
-     "sign": -1,
-     "p": 0.756642501708433,
-     "line": 2.5,
-     "text": "Menos de 2.5 tarjetas de Man City"
-    },
-    {
-     "stat": "fouls",
-     "var": "fouls_a",
-     "sign": -1,
-     "p": 0.7561416314520908,
-     "line": 12.5,
-     "text": "Menos de 12.5 faltas de Man City"
-    },
-    {
-     "stat": "corners",
-     "var": "corners_h",
-     "sign": -1,
-     "p": 0.7291365173195407,
-     "line": 5.5,
-     "text": "Menos de 5.5 córners de Nott'm Forest"
-    },
-    {
-     "stat": "goals",
-     "var": "goals_t",
-     "sign": -1,
-     "p": 0.6027353361400869,
-     "line": 2.5,
-     "text": "Menos de 2.5 goles"
-    }
-   ]
-  },
-  "F1|2026-11-07|Paris SG|Troyes": {
-   "match": "Paris SG vs Troyes",
-   "start": "2026-11-07T20:05:00+00:00",
-   "combos": [
-    {
-     "kind": "corta",
-     "p": 0.5828,
-     "legs": [
-      {
-       "var": "sot_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.8775,
-       "text": "Menos de 4.5 tiros a puerta de Troyes",
-       "odds": null
-      },
-      {
-       "var": "cards_h",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.8336,
-       "text": "Menos de 2.5 tarjetas de Paris SG",
-       "odds": null
-      },
-      {
-       "var": "corners_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.778,
-       "text": "Menos de 4.5 córners de Troyes",
-       "odds": 1.26
-      }
-     ]
-    },
-    {
-     "kind": "larga",
-     "p": 0.292,
-     "legs": [
-      {
-       "var": "sot_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.8775,
-       "text": "Menos de 4.5 tiros a puerta de Troyes",
-       "odds": null
-      },
-      {
-       "var": "cards_h",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.8336,
-       "text": "Menos de 2.5 tarjetas de Paris SG",
-       "odds": null
-      },
-      {
-       "var": "corners_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.778,
-       "text": "Menos de 4.5 córners de Troyes",
-       "odds": 1.26
-      },
-      {
-       "var": "fouls_h",
-       "sign": -1,
-       "line": 11.5,
-       "p": 0.7779,
-       "text": "Menos de 11.5 faltas de Paris SG",
-       "odds": null
-      },
-      {
-       "var": "goals_t",
-       "sign": 1,
-       "line": 2.5,
-       "p": 0.6493,
-       "text": "Más de 2.5 goles",
-       "odds": 1.25
-      }
-     ]
-    },
-    {
-     "kind": "valor",
-     "p": 0.5084,
-     "legs": [
-      {
-       "stat": "corners",
-       "var": "corners_a",
-       "sign": -1,
-       "p": 0.7779707780427008,
-       "line": 4.5,
-       "text": "Menos de 4.5 córners de Troyes",
-       "odds": 1.26
-      },
-      {
-       "stat": "goals",
-       "var": "goals_t",
-       "sign": 1,
-       "p": 0.6493253538664967,
-       "line": 2.5,
-       "text": "Más de 2.5 goles",
-       "odds": 1.25
-      }
-     ],
-     "odds": 1.57,
-     "edge": -0.199,
-     "sim": false
-    }
-   ],
-   "priced": true,
-   "pool": [
-    {
-     "stat": "sot",
-     "var": "sot_a",
-     "sign": -1,
-     "p": 0.8774727204473405,
-     "line": 4.5,
-     "text": "Menos de 4.5 tiros a puerta de Troyes"
-    },
-    {
-     "stat": "cards",
-     "var": "cards_h",
-     "sign": -1,
-     "p": 0.8335649174631454,
-     "line": 2.5,
-     "text": "Menos de 2.5 tarjetas de Paris SG"
-    },
-    {
-     "stat": "corners",
-     "var": "corners_a",
-     "sign": -1,
-     "p": 0.7779707780427008,
-     "line": 4.5,
-     "text": "Menos de 4.5 córners de Troyes"
-    },
-    {
-     "stat": "fouls",
-     "var": "fouls_h",
-     "sign": -1,
-     "p": 0.7778590995934545,
-     "line": 11.5,
-     "text": "Menos de 11.5 faltas de Paris SG"
-    },
-    {
-     "stat": "goals",
-     "var": "goals_t",
-     "sign": 1,
-     "p": 0.6493253538664967,
-     "line": 2.5,
-     "text": "Más de 2.5 goles"
-    }
-   ]
-  },
-  "P1|2026-11-07|Sp Lisbon|Moreirense": {
-   "match": "Sp Lisbon vs Moreirense",
-   "start": "2026-11-07T20:30:00+00:00",
-   "combos": [
-    {
-     "kind": "corta",
-     "p": 0.5228,
-     "legs": [
-      {
-       "var": "corners_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.8717,
-       "text": "Menos de 4.5 córners de Moreirense",
-       "odds": null
-      },
-      {
-       "var": "sot_h",
-       "sign": 1,
-       "line": 4.5,
-       "p": 0.8286,
-       "text": "Más de 4.5 tiros a puerta de Sp Lisbon",
-       "odds": null
-      },
-      {
-       "var": "cards_h",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.705,
-       "text": "Menos de 2.5 tarjetas de Sp Lisbon",
-       "odds": null
-      }
-     ]
-    },
-    {
-     "kind": "larga",
-     "p": 0.245,
-     "legs": [
-      {
-       "var": "corners_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.8717,
-       "text": "Menos de 4.5 córners de Moreirense",
-       "odds": null
-      },
-      {
-       "var": "sot_h",
-       "sign": 1,
-       "line": 4.5,
-       "p": 0.8286,
-       "text": "Más de 4.5 tiros a puerta de Sp Lisbon",
-       "odds": null
-      },
-      {
-       "var": "cards_h",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.705,
-       "text": "Menos de 2.5 tarjetas de Sp Lisbon",
-       "odds": null
-      },
-      {
-       "var": "goals_t",
-       "sign": 1,
-       "line": 2.5,
-       "p": 0.6532,
-       "text": "Más de 2.5 goles",
-       "odds": 1.41
-      },
-      {
-       "var": "fouls_h",
-       "sign": -1,
-       "line": 13.5,
-       "p": 0.6243,
-       "text": "Menos de 13.5 faltas de Sp Lisbon",
-       "odds": null
-      }
-     ]
-    }
-   ],
-   "priced": true,
-   "pool": [
-    {
-     "stat": "corners",
-     "var": "corners_a",
-     "sign": -1,
-     "p": 0.8717098797996112,
-     "line": 4.5,
-     "text": "Menos de 4.5 córners de Moreirense"
-    },
-    {
-     "stat": "sot",
-     "var": "sot_h",
-     "sign": 1,
-     "p": 0.8285993111295215,
-     "line": 4.5,
-     "text": "Más de 4.5 tiros a puerta de Sp Lisbon"
-    },
-    {
-     "stat": "cards",
-     "var": "cards_h",
-     "sign": -1,
-     "p": 0.7050165136505666,
-     "line": 2.5,
-     "text": "Menos de 2.5 tarjetas de Sp Lisbon"
-    },
-    {
-     "stat": "goals",
-     "var": "goals_t",
-     "sign": 1,
-     "p": 0.6531573961693619,
-     "line": 2.5,
-     "text": "Más de 2.5 goles"
-    },
-    {
-     "stat": "fouls",
-     "var": "fouls_h",
-     "sign": -1,
-     "p": 0.6242895035149572,
-     "line": 13.5,
-     "text": "Menos de 13.5 faltas de Sp Lisbon"
-    }
-   ]
-  },
-  "T1|2026-11-08|Rizespor|Erzurumspor": {
-   "match": "Rizespor vs Erzurumspor",
-   "start": "2026-11-08T10:30:00+00:00",
-   "combos": [
-    {
-     "kind": "corta",
-     "p": 0.3632,
-     "legs": [
-      {
-       "var": "fouls_t",
-       "sign": -1,
-       "line": 26.5,
-       "p": 0.7482,
-       "text": "Menos de 26.5 faltas",
-       "odds": null
-      },
-      {
-       "var": "sot_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.6929,
-       "text": "Menos de 4.5 tiros a puerta de Erzurumspor",
-       "odds": null
-      },
-      {
-       "var": "cards_a",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.6747,
-       "text": "Menos de 2.5 tarjetas de Erzurumspor",
-       "odds": null
-      }
-     ]
-    },
-    {
-     "kind": "larga",
-     "p": 0.2433,
-     "legs": [
-      {
-       "var": "fouls_t",
-       "sign": -1,
-       "line": 26.5,
-       "p": 0.7482,
-       "text": "Menos de 26.5 faltas",
-       "odds": null
-      },
-      {
-       "var": "sot_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.6929,
-       "text": "Menos de 4.5 tiros a puerta de Erzurumspor",
-       "odds": null
-      },
-      {
-       "var": "cards_a",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.6747,
-       "text": "Menos de 2.5 tarjetas de Erzurumspor",
-       "odds": null
-      },
-      {
-       "var": "corners_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.6427,
-       "text": "Menos de 4.5 córners de Erzurumspor",
-       "odds": 1.38
-      }
-     ]
-    }
-   ],
-   "priced": true,
-   "pool": [
-    {
-     "stat": "fouls",
-     "var": "fouls_t",
-     "sign": -1,
-     "p": 0.7481964057953698,
-     "line": 26.5,
-     "text": "Menos de 26.5 faltas"
-    },
-    {
-     "stat": "sot",
-     "var": "sot_a",
-     "sign": -1,
-     "p": 0.6929187462246137,
-     "line": 4.5,
-     "text": "Menos de 4.5 tiros a puerta de Erzurumspor"
-    },
-    {
-     "stat": "cards",
-     "var": "cards_a",
-     "sign": -1,
-     "p": 0.674725173737526,
-     "line": 2.5,
-     "text": "Menos de 2.5 tarjetas de Erzurumspor"
-    },
-    {
-     "stat": "corners",
-     "var": "corners_a",
-     "sign": -1,
-     "p": 0.6427325771713897,
-     "line": 4.5,
-     "text": "Menos de 4.5 córners de Erzurumspor"
-    }
-   ]
-  },
-  "F1|2026-11-08|Rennes|Lille": {
-   "match": "Rennes vs Lille",
-   "start": "2026-11-08T14:00:00+00:00",
-   "combos": [
-    {
-     "kind": "corta",
-     "p": 0.2733,
-     "legs": [
-      {
-       "var": "cards_h",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.6868,
-       "text": "Menos de 2.5 tarjetas de Rennes",
-       "odds": 1.27
-      },
-      {
-       "var": "fouls_h",
-       "sign": 1,
-       "line": 11.5,
-       "p": 0.6556,
-       "text": "Más de 11.5 faltas de Rennes",
-       "odds": null
-      },
-      {
-       "var": "corners_t",
-       "sign": -1,
-       "line": 10.5,
-       "p": 0.6273,
-       "text": "Menos de 10.5 córners",
-       "odds": 1.5
-      }
-     ]
-    },
-    {
-     "kind": "larga",
-     "p": 0.1118,
-     "legs": [
-      {
-       "var": "cards_h",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.6868,
-       "text": "Menos de 2.5 tarjetas de Rennes",
-       "odds": 1.27
-      },
-      {
-       "var": "fouls_h",
-       "sign": 1,
-       "line": 11.5,
-       "p": 0.6556,
-       "text": "Más de 11.5 faltas de Rennes",
-       "odds": null
-      },
-      {
-       "var": "corners_t",
-       "sign": -1,
-       "line": 10.5,
-       "p": 0.6273,
-       "text": "Menos de 10.5 córners",
-       "odds": 1.5
-      },
-      {
-       "var": "sot_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.6052,
-       "text": "Menos de 4.5 tiros a puerta de Lille",
-       "odds": 1.66
-      },
-      {
-       "var": "goals_t",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.5505,
-       "text": "Menos de 2.5 goles",
-       "odds": 2.28
-      }
-     ]
-    },
-    {
-     "kind": "valor",
-     "p": 0.3884,
-     "legs": [
-      {
-       "stat": "sot",
-       "var": "sot_a",
-       "sign": -1,
-       "p": 0.6052160320334434,
-       "line": 4.5,
-       "text": "Menos de 4.5 tiros a puerta de Lille",
-       "odds": 1.66
-      },
-      {
-       "stat": "goals",
-       "var": "goals_t",
-       "sign": -1,
-       "p": 0.5504854469709763,
-       "line": 2.5,
-       "text": "Menos de 2.5 goles",
-       "odds": 2.28
-      }
-     ],
-     "odds": 3.78,
-     "edge": 0.47,
-     "sim": true
-    }
-   ],
-   "priced": true,
-   "pool": [
-    {
-     "stat": "cards",
-     "var": "cards_h",
-     "sign": -1,
-     "p": 0.6868382016289613,
-     "line": 2.5,
-     "text": "Menos de 2.5 tarjetas de Rennes"
-    },
-    {
-     "stat": "fouls",
-     "var": "fouls_h",
-     "sign": 1,
-     "p": 0.655626001289759,
-     "line": 11.5,
-     "text": "Más de 11.5 faltas de Rennes"
-    },
-    {
-     "stat": "corners",
-     "var": "corners_t",
-     "sign": -1,
-     "p": 0.6272918961942089,
-     "line": 10.5,
-     "text": "Menos de 10.5 córners"
-    },
-    {
-     "stat": "sot",
-     "var": "sot_a",
-     "sign": -1,
-     "p": 0.6052160320334434,
-     "line": 4.5,
-     "text": "Menos de 4.5 tiros a puerta de Lille"
-    },
-    {
-     "stat": "goals",
-     "var": "goals_t",
-     "sign": -1,
-     "p": 0.5504854469709763,
-     "line": 2.5,
-     "text": "Menos de 2.5 goles"
-    }
-   ],
-   "anunciada": true
-  },
-  "D1|2026-11-08|FC Koln|Leverkusen": {
-   "match": "FC Koln vs Leverkusen",
-   "start": "2026-11-08T14:30:00+00:00",
-   "combos": [
-    {
-     "kind": "corta",
-     "p": 0.2728,
-     "legs": [
-      {
-       "var": "corners_h",
-       "sign": -1,
-       "line": 5.5,
-       "p": 0.659,
-       "text": "Menos de 5.5 córners de FC Koln",
-       "odds": 1.42
-      },
-      {
-       "var": "cards_a",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.6461,
-       "text": "Menos de 2.5 tarjetas de Leverkusen",
-       "odds": 1.43
-      },
-      {
-       "var": "goals_t",
-       "sign": 1,
-       "line": 2.5,
-       "p": 0.6282,
-       "text": "Más de 2.5 goles",
-       "odds": 1.39
-      }
-     ],
-     "odds": 2.82,
-     "edge": -0.231,
-     "sim": false
-    },
-    {
-     "kind": "larga",
-     "p": 0.0941,
-     "legs": [
-      {
-       "var": "corners_h",
-       "sign": -1,
-       "line": 5.5,
-       "p": 0.659,
-       "text": "Menos de 5.5 córners de FC Koln",
-       "odds": 1.42
-      },
-      {
-       "var": "cards_a",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.6461,
-       "text": "Menos de 2.5 tarjetas de Leverkusen",
-       "odds": 1.43
-      },
-      {
-       "var": "goals_t",
-       "sign": 1,
-       "line": 2.5,
-       "p": 0.6282,
-       "text": "Más de 2.5 goles",
-       "odds": 1.39
-      },
-      {
-       "var": "sot_h",
-       "sign": -1,
-       "line": 5.5,
-       "p": 0.6052,
-       "text": "Menos de 5.5 tiros a puerta de FC Koln",
-       "odds": 1.43
-      },
-      {
-       "var": "fouls_h",
-       "sign": -1,
-       "line": 10.5,
-       "p": 0.5956,
-       "text": "Menos de 10.5 faltas de FC Koln",
-       "odds": null
-      }
-     ]
-    },
-    {
-     "kind": "valor",
-     "p": 0.4355,
-     "legs": [
-      {
-       "stat": "corners",
-       "var": "corners_h",
-       "sign": -1,
-       "p": 0.6590057421342111,
-       "line": 5.5,
-       "text": "Menos de 5.5 córners de FC Koln",
-       "odds": 1.42
-      },
-      {
-       "stat": "sot",
-       "var": "sot_h",
-       "sign": -1,
-       "p": 0.6051977355660609,
-       "line": 5.5,
-       "text": "Menos de 5.5 tiros a puerta de FC Koln",
-       "odds": 1.43
-      }
-     ],
-     "odds": 2.03,
-     "edge": -0.116,
-     "sim": false
-    }
-   ],
-   "priced": true,
-   "pool": [
-    {
-     "stat": "corners",
-     "var": "corners_h",
-     "sign": -1,
-     "p": 0.6590057421342111,
-     "line": 5.5,
-     "text": "Menos de 5.5 córners de FC Koln"
-    },
-    {
-     "stat": "cards",
-     "var": "cards_a",
-     "sign": -1,
-     "p": 0.6460798665726354,
-     "line": 2.5,
-     "text": "Menos de 2.5 tarjetas de Leverkusen"
-    },
-    {
-     "stat": "goals",
-     "var": "goals_t",
-     "sign": 1,
-     "p": 0.6282305804935328,
-     "line": 2.5,
-     "text": "Más de 2.5 goles"
-    },
-    {
-     "stat": "sot",
-     "var": "sot_h",
-     "sign": -1,
-     "p": 0.6051977355660609,
-     "line": 5.5,
-     "text": "Menos de 5.5 tiros a puerta de FC Koln"
-    },
-    {
-     "stat": "fouls",
-     "var": "fouls_h",
-     "sign": -1,
-     "p": 0.59561399758355,
-     "line": 10.5,
-     "text": "Menos de 10.5 faltas de FC Koln"
-    }
-   ]
-  },
-  "SC0|2026-11-08|Hearts|Falkirk": {
-   "match": "Hearts vs Falkirk",
-   "start": "2026-11-08T15:00:00+00:00",
-   "combos": [
-    {
-     "kind": "corta",
-     "p": 0.4847,
-     "legs": [
-      {
-       "var": "sot_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.8336,
-       "text": "Menos de 4.5 tiros a puerta de Falkirk",
-       "odds": null
-      },
-      {
-       "var": "cards_h",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.8018,
-       "text": "Menos de 2.5 tarjetas de Hearts",
-       "odds": null
-      },
-      {
-       "var": "fouls_a",
-       "sign": 1,
-       "line": 12.5,
-       "p": 0.7268,
-       "text": "Más de 12.5 faltas de Falkirk",
-       "odds": null
-      }
-     ]
-    },
-    {
-     "kind": "larga",
-     "p": 0.208,
-     "legs": [
-      {
-       "var": "sot_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.8336,
-       "text": "Menos de 4.5 tiros a puerta de Falkirk",
-       "odds": null
-      },
-      {
-       "var": "cards_h",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.8018,
-       "text": "Menos de 2.5 tarjetas de Hearts",
-       "odds": null
-      },
-      {
-       "var": "fouls_a",
-       "sign": 1,
-       "line": 12.5,
-       "p": 0.7268,
-       "text": "Más de 12.5 faltas de Falkirk",
-       "odds": null
-      },
-      {
-       "var": "corners_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.6399,
-       "text": "Menos de 4.5 córners de Falkirk",
-       "odds": 1.47
-      },
-      {
-       "var": "goals_t",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.5914,
-       "text": "Menos de 2.5 goles",
-       "odds": 2.41
-      }
-     ]
-    },
-    {
-     "kind": "valor",
-     "p": 0.3741,
-     "legs": [
-      {
-       "stat": "corners",
-       "var": "corners_a",
-       "sign": -1,
-       "p": 0.639868243295426,
-       "line": 4.5,
-       "text": "Menos de 4.5 córners de Falkirk",
-       "odds": 1.47
-      },
-      {
-       "stat": "goals",
-       "var": "goals_t",
-       "sign": -1,
-       "p": 0.5913690722092373,
-       "line": 2.5,
-       "text": "Menos de 2.5 goles",
-       "odds": 2.41
-      }
-     ],
-     "odds": 3.54,
-     "edge": 0.325,
-     "sim": true
-    }
-   ],
-   "priced": true,
-   "pool": [
-    {
-     "stat": "sot",
-     "var": "sot_a",
-     "sign": -1,
-     "p": 0.8335964210976106,
-     "line": 4.5,
-     "text": "Menos de 4.5 tiros a puerta de Falkirk"
-    },
-    {
-     "stat": "cards",
-     "var": "cards_h",
-     "sign": -1,
-     "p": 0.8018423330016415,
-     "line": 2.5,
-     "text": "Menos de 2.5 tarjetas de Hearts"
-    },
-    {
-     "stat": "fouls",
-     "var": "fouls_a",
-     "sign": 1,
-     "p": 0.7268367030974354,
-     "line": 12.5,
-     "text": "Más de 12.5 faltas de Falkirk"
-    },
-    {
-     "stat": "corners",
-     "var": "corners_a",
-     "sign": -1,
-     "p": 0.639868243295426,
-     "line": 4.5,
-     "text": "Menos de 4.5 córners de Falkirk"
-    },
-    {
-     "stat": "goals",
-     "var": "goals_t",
-     "sign": -1,
-     "p": 0.5913690722092373,
-     "line": 2.5,
-     "text": "Menos de 2.5 goles"
-    }
-   ],
-   "anunciada": true
-  },
   "P1|2026-11-08|Estoril|Maritimo": {
    "match": "Estoril vs Maritimo",
    "start": "2026-11-08T15:30:00+00:00",
@@ -50543,224 +49393,6 @@
      "p": 0.5615744274729938,
      "line": 4.5,
      "text": "Más de 4.5 tiros a puerta de Estoril"
-    }
-   ]
-  },
-  "E0|2026-11-08|Man United|Aston Villa": {
-   "match": "Man United vs Aston Villa",
-   "start": "2026-11-08T16:30:00+00:00",
-   "combos": [
-    {
-     "kind": "corta",
-     "p": 0.3579,
-     "legs": [
-      {
-       "var": "fouls_a",
-       "sign": -1,
-       "line": 12.5,
-       "p": 0.7571,
-       "text": "Menos de 12.5 faltas de Aston Villa",
-       "odds": null
-      },
-      {
-       "var": "sot_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.7279,
-       "text": "Menos de 4.5 tiros a puerta de Aston Villa",
-       "odds": null
-      },
-      {
-       "var": "cards_h",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.6362,
-       "text": "Menos de 2.5 tarjetas de Man United",
-       "odds": null
-      }
-     ]
-    },
-    {
-     "kind": "larga",
-     "p": 0.225,
-     "legs": [
-      {
-       "var": "fouls_a",
-       "sign": -1,
-       "line": 12.5,
-       "p": 0.7571,
-       "text": "Menos de 12.5 faltas de Aston Villa",
-       "odds": null
-      },
-      {
-       "var": "sot_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.7279,
-       "text": "Menos de 4.5 tiros a puerta de Aston Villa",
-       "odds": null
-      },
-      {
-       "var": "cards_h",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.6362,
-       "text": "Menos de 2.5 tarjetas de Man United",
-       "odds": null
-      },
-      {
-       "var": "corners_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.5962,
-       "text": "Menos de 4.5 córners de Aston Villa",
-       "odds": null
-      }
-     ]
-    }
-   ],
-   "priced": false,
-   "pool": [
-    {
-     "stat": "fouls",
-     "var": "fouls_a",
-     "sign": -1,
-     "p": 0.7571118790392345,
-     "line": 12.5,
-     "text": "Menos de 12.5 faltas de Aston Villa"
-    },
-    {
-     "stat": "sot",
-     "var": "sot_a",
-     "sign": -1,
-     "p": 0.7279051039109601,
-     "line": 4.5,
-     "text": "Menos de 4.5 tiros a puerta de Aston Villa"
-    },
-    {
-     "stat": "cards",
-     "var": "cards_h",
-     "sign": -1,
-     "p": 0.6361789010632573,
-     "line": 2.5,
-     "text": "Menos de 2.5 tarjetas de Man United"
-    },
-    {
-     "stat": "corners",
-     "var": "corners_a",
-     "sign": -1,
-     "p": 0.5962219403745732,
-     "line": 4.5,
-     "text": "Menos de 4.5 córners de Aston Villa"
-    }
-   ]
-  },
-  "B1|2026-11-08|St. Gilloise|Genk": {
-   "match": "St. Gilloise vs Genk",
-   "start": "2026-11-08T17:30:00+00:00",
-   "combos": [
-    {
-     "kind": "corta",
-     "p": 0.363,
-     "legs": [
-      {
-       "var": "sot_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.7801,
-       "text": "Menos de 4.5 tiros a puerta de Genk",
-       "odds": null
-      },
-      {
-       "var": "corners_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.7178,
-       "text": "Menos de 4.5 córners de Genk",
-       "odds": null
-      },
-      {
-       "var": "cards_t",
-       "sign": 1,
-       "line": 3.5,
-       "p": 0.611,
-       "text": "Más de 3.5 tarjetas",
-       "odds": null
-      }
-     ]
-    },
-    {
-     "kind": "larga",
-     "p": 0.2253,
-     "legs": [
-      {
-       "var": "sot_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.7801,
-       "text": "Menos de 4.5 tiros a puerta de Genk",
-       "odds": null
-      },
-      {
-       "var": "corners_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.7178,
-       "text": "Menos de 4.5 córners de Genk",
-       "odds": null
-      },
-      {
-       "var": "cards_t",
-       "sign": 1,
-       "line": 3.5,
-       "p": 0.611,
-       "text": "Más de 3.5 tarjetas",
-       "odds": null
-      },
-      {
-       "var": "fouls_h",
-       "sign": 1,
-       "line": 10.5,
-       "p": 0.553,
-       "text": "Más de 10.5 faltas de St. Gilloise",
-       "odds": null
-      }
-     ]
-    }
-   ],
-   "priced": false,
-   "pool": [
-    {
-     "stat": "sot",
-     "var": "sot_a",
-     "sign": -1,
-     "p": 0.7801286896008642,
-     "line": 4.5,
-     "text": "Menos de 4.5 tiros a puerta de Genk"
-    },
-    {
-     "stat": "corners",
-     "var": "corners_a",
-     "sign": -1,
-     "p": 0.7177546836034183,
-     "line": 4.5,
-     "text": "Menos de 4.5 córners de Genk"
-    },
-    {
-     "stat": "cards",
-     "var": "cards_t",
-     "sign": 1,
-     "p": 0.6110420023994458,
-     "line": 3.5,
-     "text": "Más de 3.5 tarjetas"
-    },
-    {
-     "stat": "fouls",
-     "var": "fouls_h",
-     "sign": 1,
-     "p": 0.5529642602163085,
-     "line": 10.5,
-     "text": "Más de 10.5 faltas de St. Gilloise"
     }
    ]
   },
@@ -50916,115 +49548,6 @@
     }
    ],
    "anunciada": true
-  },
-  "SP2|2026-11-08|Sp Gijon|Valladolid": {
-   "match": "Sp Gijon vs Valladolid",
-   "start": "2026-11-08T17:30:00+00:00",
-   "combos": [
-    {
-     "kind": "corta",
-     "p": 0.2518,
-     "legs": [
-      {
-       "var": "sot_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.6549,
-       "text": "Menos de 4.5 tiros a puerta de Valladolid",
-       "odds": null
-      },
-      {
-       "var": "corners_h",
-       "sign": -1,
-       "line": 5.5,
-       "p": 0.6511,
-       "text": "Menos de 5.5 córners de Sp Gijon",
-       "odds": null
-      },
-      {
-       "var": "fouls_h",
-       "sign": -1,
-       "line": 13.5,
-       "p": 0.6463,
-       "text": "Menos de 13.5 faltas de Sp Gijon",
-       "odds": null
-      }
-     ]
-    },
-    {
-     "kind": "larga",
-     "p": 0.162,
-     "legs": [
-      {
-       "var": "sot_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.6549,
-       "text": "Menos de 4.5 tiros a puerta de Valladolid",
-       "odds": null
-      },
-      {
-       "var": "corners_h",
-       "sign": -1,
-       "line": 5.5,
-       "p": 0.6511,
-       "text": "Menos de 5.5 córners de Sp Gijon",
-       "odds": null
-      },
-      {
-       "var": "fouls_h",
-       "sign": -1,
-       "line": 13.5,
-       "p": 0.6463,
-       "text": "Menos de 13.5 faltas de Sp Gijon",
-       "odds": null
-      },
-      {
-       "var": "cards_a",
-       "sign": -1,
-       "line": 3.5,
-       "p": 0.626,
-       "text": "Menos de 3.5 tarjetas de Valladolid",
-       "odds": null
-      }
-     ]
-    }
-   ],
-   "priced": false,
-   "pool": [
-    {
-     "stat": "sot",
-     "var": "sot_a",
-     "sign": -1,
-     "p": 0.6549411243829124,
-     "line": 4.5,
-     "text": "Menos de 4.5 tiros a puerta de Valladolid"
-    },
-    {
-     "stat": "corners",
-     "var": "corners_h",
-     "sign": -1,
-     "p": 0.651054410684466,
-     "line": 5.5,
-     "text": "Menos de 5.5 córners de Sp Gijon"
-    },
-    {
-     "stat": "fouls",
-     "var": "fouls_h",
-     "sign": -1,
-     "p": 0.6462760712308457,
-     "line": 13.5,
-     "text": "Menos de 13.5 faltas de Sp Gijon"
-    },
-    {
-     "stat": "cards",
-     "var": "cards_a",
-     "sign": -1,
-     "p": 0.6260228632375394,
-     "line": 3.5,
-     "text": "Menos de 3.5 tarjetas de Valladolid"
-    }
-   ]
   },
   "SP2|2026-11-09|Sabadell|Sociedad B": {
    "match": "Sabadell vs Sociedad B",
@@ -51263,7 +49786,7 @@
   "SP2|2026-11-09|Sabadell|Sociedad B"
  ],
  "paper_sent": "2026-11-08T16:38:12.187287+00:00",
- "sgp_res_n": 362,
+ "sgp_res_n": 403,
  "nba_props_ok": [
   "nba|2026-11-05|Detroit Pistons|Philadelphia 76ers",
   "nba|2026-11-05|Washington Wizards|Atlanta Hawks",
@@ -51314,5 +49837,5 @@
   "nba|2026-11-10|Golden State Warriors|New Orleans Pelicans"
  ],
  "radar_date": "2026-11-09",
- "sgp_res_sent": "2026-11-09T00:08:17.756648+00:00"
+ "sgp_res_sent": "2026-11-09T10:26:35.644885+00:00"
 }

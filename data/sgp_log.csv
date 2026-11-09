@@ -360,4 +360,45 @@ fecha,partido,tipo,piernas,p,acierto,piernas_acertadas,p_piernas,cuota,ventaja,s
 2026-11-08,Rio Ave vs Sp Braga,larga,5,0.1617,0,4,0.6984,,,0,,Menos de 4.5 tiros a puerta de Rio Ave + Menos de 5.5 córners de Rio Ave + Menos de 13.5 faltas de Rio Ave + Menos de 5.5 tarjetas + Más de 2.5 goles,11110
 2026-11-08,Los Angeles Chargers vs Houston Texans,nfl,2,0.1745,0,1,0.4125,5.63,-0.018,0,,Gana Los Angeles Chargers + Más de 40.5 puntos,1
 2026-11-08,New England Patriots vs Green Bay Packers,nfl,2,0.2084,0,1,0.4445,4.68,-0.024,0,,Gana Green Bay Packers + Menos de 44.5 puntos,10
-2026-11-09,Chicago Bears vs Tampa Bay Buccaneers,nfl,2,0.1553,0,0,0.3965,6.36,-0.013,0,,Gana Tampa Bay Buccaneers + Menos de 47.5 puntos,00
+2026-11-09,Chicago Bears vs Tampa Bay Buccaneers,nfl,2,0.1553,0,0,0.3965,6.36,-0.013,0,,Gana Tampa Bay Buccaneers + Menos de 47.5 puntos,0
+2026-11-06,Hamburg vs M'gladbach,corta,3,0.3116,0,2,0.6888,,,0,,Más de 20.5 faltas + Menos de 2.5 tarjetas de Hamburg + Menos de 10.5 tiros a puerta,110
+2026-11-06,Hamburg vs M'gladbach,larga,5,0.0876,0,4,0.6437,,,0,,Más de 20.5 faltas + Menos de 2.5 tarjetas de Hamburg + Menos de 10.5 tiros a puerta + Menos de 10.5 córners + Más de 2.5 goles,11011
+2026-11-07,Wrexham vs Wolves,corta,3,0.3486,0,1,0.729,,,0,,Menos de 5.5 tiros a puerta de Wrexham + Menos de 2.5 tarjetas de Wrexham + Más de 2.5 goles,100
+2026-11-07,Wrexham vs Wolves,larga,5,0.1591,0,2,0.6934,,,0,,Menos de 5.5 tiros a puerta de Wrexham + Menos de 2.5 tarjetas de Wrexham + Más de 2.5 goles + Menos de 11.5 faltas de Wolves + Menos de 5.5 córners de Wrexham,10001
+2026-11-07,Wrexham vs Wolves,valor,2,0.4165,0,1,0.6452,2.65,0.104,1,-1.0,Más de 2.5 goles + Menos de 5.5 córners de Wrexham,01
+2026-11-07,Malaga vs Santander,corta,3,0.2712,0,2,0.6494,,,0,,Más de 2.5 goles + Menos de 4.5 tiros a puerta de Santander + Menos de 4.5 córners de Santander,101
+2026-11-07,Malaga vs Santander,larga,5,0.1036,0,3,0.6329,,,0,,Más de 2.5 goles + Menos de 4.5 tiros a puerta de Santander + Menos de 4.5 córners de Santander + Menos de 2.5 tarjetas de Malaga + Menos de 12.5 faltas de Santander,10101
+2026-11-07,Burgos vs Celta B,corta,3,0.3661,0,2,0.7132,,,0,,Menos de 4.5 tiros a puerta de Celta B + Menos de 4.5 córners de Celta B + Menos de 3.5 tarjetas de Celta B,110
+2026-11-07,Burgos vs Celta B,larga,5,0.1175,0,2,0.6534,,,0,,Menos de 4.5 tiros a puerta de Celta B + Menos de 4.5 córners de Celta B + Menos de 3.5 tarjetas de Celta B + Menos de 2.5 goles + Más de 26.5 faltas,11000
+2026-11-07,QPR vs Lincoln,corta,3,0.3248,0,2,0.6723,,,0,,Menos de 2.5 tarjetas de QPR + Menos de 4.5 córners de Lincoln + Menos de 11.5 faltas de QPR,011
+2026-11-07,QPR vs Lincoln,larga,4,0.2071,0,3,0.6663,,,0,,Menos de 2.5 tarjetas de QPR + Menos de 4.5 córners de Lincoln + Menos de 11.5 faltas de QPR + Menos de 9.5 tiros a puerta,0111
+2026-11-07,Galatasaray vs Amedspor,corta,3,0.4225,0,1,0.7487,,,0,,Menos de 4.5 tiros a puerta de Amedspor + Menos de 4.5 córners de Amedspor + Menos de 26.5 faltas,001
+2026-11-07,Galatasaray vs Amedspor,larga,5,0.1905,0,3,0.7122,,,0,,Menos de 4.5 tiros a puerta de Amedspor + Menos de 4.5 córners de Amedspor + Menos de 26.5 faltas + Más de 2.5 goles + Menos de 2.5 tarjetas de Galatasaray,00111
+2026-11-07,Goztep vs Buyuksehyr,corta,3,0.3822,0,1,0.7191,,,0,,Menos de 13.5 faltas de Buyuksehyr + Menos de 4.5 tiros a puerta de Buyuksehyr + Menos de 4.5 córners de Buyuksehyr,100
+2026-11-07,Goztep vs Buyuksehyr,larga,4,0.2475,0,2,0.6964,,,0,,Menos de 13.5 faltas de Buyuksehyr + Menos de 4.5 tiros a puerta de Buyuksehyr + Menos de 4.5 córners de Buyuksehyr + Menos de 2.5 tarjetas de Goztep,1001
+2026-11-07,Oud-Heverlee Leuven vs Mechelen,corta,3,0.2903,0,2,0.6602,,,0,,Menos de 5.5 tiros a puerta de Oud-Heverlee Leuven + Más de 10.5 faltas de Oud-Heverlee Leuven + Menos de 2.5 tarjetas de Mechelen,011
+2026-11-07,Oud-Heverlee Leuven vs Mechelen,larga,4,0.1869,0,2,0.6352,,,0,,Menos de 5.5 tiros a puerta de Oud-Heverlee Leuven + Más de 10.5 faltas de Oud-Heverlee Leuven + Menos de 2.5 tarjetas de Mechelen + Menos de 5.5 córners de Oud-Heverlee Leuven,0110
+2026-11-07,Nott'm Forest vs Man City,corta,3,0.4642,0,2,0.7594,,,0,,Menos de 4.5 tiros a puerta de Nott'm Forest + Menos de 2.5 tarjetas de Man City + Menos de 12.5 faltas de Man City,011
+2026-11-07,Nott'm Forest vs Man City,larga,5,0.2293,0,3,0.722,,,0,,Menos de 4.5 tiros a puerta de Nott'm Forest + Menos de 2.5 tarjetas de Man City + Menos de 12.5 faltas de Man City + Menos de 5.5 córners de Nott'm Forest + Menos de 2.5 goles,01110
+2026-11-07,Paris SG vs Troyes,corta,3,0.5828,0,2,0.8297,,,0,,Menos de 4.5 tiros a puerta de Troyes + Menos de 2.5 tarjetas de Paris SG + Menos de 4.5 córners de Troyes,101
+2026-11-07,Paris SG vs Troyes,larga,5,0.292,0,3,0.7833,,,0,,Menos de 4.5 tiros a puerta de Troyes + Menos de 2.5 tarjetas de Paris SG + Menos de 4.5 córners de Troyes + Menos de 11.5 faltas de Paris SG + Más de 2.5 goles,10110
+2026-11-07,Paris SG vs Troyes,valor,2,0.5084,0,1,0.7136,1.57,-0.199,0,,Menos de 4.5 córners de Troyes + Más de 2.5 goles,10
+2026-11-07,Sp Lisbon vs Moreirense,corta,3,0.5228,0,2,0.8018,,,0,,Menos de 4.5 córners de Moreirense + Más de 4.5 tiros a puerta de Sp Lisbon + Menos de 2.5 tarjetas de Sp Lisbon,110
+2026-11-07,Sp Lisbon vs Moreirense,larga,5,0.245,0,3,0.7366,,,0,,Menos de 4.5 córners de Moreirense + Más de 4.5 tiros a puerta de Sp Lisbon + Menos de 2.5 tarjetas de Sp Lisbon + Más de 2.5 goles + Menos de 13.5 faltas de Sp Lisbon,11001
+2026-11-08,Rizespor vs Erzurumspor,corta,3,0.3632,0,2,0.7053,,,0,,Menos de 26.5 faltas + Menos de 4.5 tiros a puerta de Erzurumspor + Menos de 2.5 tarjetas de Erzurumspor,110
+2026-11-08,Rizespor vs Erzurumspor,larga,4,0.2433,0,3,0.6896,,,0,,Menos de 26.5 faltas + Menos de 4.5 tiros a puerta de Erzurumspor + Menos de 2.5 tarjetas de Erzurumspor + Menos de 4.5 córners de Erzurumspor,1101
+2026-11-08,Rennes vs Lille,corta,3,0.2733,0,2,0.6566,,,0,,Menos de 2.5 tarjetas de Rennes + Más de 11.5 faltas de Rennes + Menos de 10.5 córners,101
+2026-11-08,Rennes vs Lille,larga,5,0.1118,0,3,0.6251,,,0,,Menos de 2.5 tarjetas de Rennes + Más de 11.5 faltas de Rennes + Menos de 10.5 córners + Menos de 4.5 tiros a puerta de Lille + Menos de 2.5 goles,10110
+2026-11-08,Rennes vs Lille,valor,2,0.3884,0,1,0.5779,3.78,0.47,1,-1.0,Menos de 4.5 tiros a puerta de Lille + Menos de 2.5 goles,10
+2026-11-08,FC Koln vs Leverkusen,corta,3,0.2728,0,2,0.6444,2.82,-0.231,0,,Menos de 5.5 córners de FC Koln + Menos de 2.5 tarjetas de Leverkusen + Más de 2.5 goles,101
+2026-11-08,FC Koln vs Leverkusen,larga,5,0.0941,0,2,0.6268,,,0,,Menos de 5.5 córners de FC Koln + Menos de 2.5 tarjetas de Leverkusen + Más de 2.5 goles + Menos de 5.5 tiros a puerta de FC Koln + Menos de 10.5 faltas de FC Koln,10100
+2026-11-08,FC Koln vs Leverkusen,valor,2,0.4355,0,1,0.6321,2.03,-0.116,0,,Menos de 5.5 córners de FC Koln + Menos de 5.5 tiros a puerta de FC Koln,10
+2026-11-08,Hearts vs Falkirk,corta,3,0.4847,0,2,0.7874,,,0,,Menos de 4.5 tiros a puerta de Falkirk + Menos de 2.5 tarjetas de Hearts + Más de 12.5 faltas de Falkirk,011
+2026-11-08,Hearts vs Falkirk,larga,5,0.208,0,2,0.7187,,,0,,Menos de 4.5 tiros a puerta de Falkirk + Menos de 2.5 tarjetas de Hearts + Más de 12.5 faltas de Falkirk + Menos de 4.5 córners de Falkirk + Menos de 2.5 goles,01100
+2026-11-08,Hearts vs Falkirk,valor,2,0.3741,0,0,0.6156,3.54,0.325,1,-1.0,Menos de 4.5 córners de Falkirk + Menos de 2.5 goles,00
+2026-11-08,Man United vs Aston Villa,corta,3,0.3579,0,2,0.7071,,,0,,Menos de 12.5 faltas de Aston Villa + Menos de 4.5 tiros a puerta de Aston Villa + Menos de 2.5 tarjetas de Man United,101
+2026-11-08,Man United vs Aston Villa,larga,4,0.225,0,3,0.6794,,,0,,Menos de 12.5 faltas de Aston Villa + Menos de 4.5 tiros a puerta de Aston Villa + Menos de 2.5 tarjetas de Man United + Menos de 4.5 córners de Aston Villa,1011
+2026-11-08,St. Gilloise vs Genk,corta,3,0.363,0,2,0.703,,,0,,Menos de 4.5 tiros a puerta de Genk + Menos de 4.5 córners de Genk + Más de 3.5 tarjetas,110
+2026-11-08,St. Gilloise vs Genk,larga,4,0.2253,0,2,0.6655,,,0,,Menos de 4.5 tiros a puerta de Genk + Menos de 4.5 córners de Genk + Más de 3.5 tarjetas + Más de 10.5 faltas de St. Gilloise,1100
+2026-11-08,Sp Gijon vs Valladolid,corta,3,0.2518,0,0,0.6508,,,0,,Menos de 4.5 tiros a puerta de Valladolid + Menos de 5.5 córners de Sp Gijon + Menos de 13.5 faltas de Sp Gijon,000
+2026-11-08,Sp Gijon vs Valladolid,larga,4,0.162,0,1,0.6446,,,0,,Menos de 4.5 tiros a puerta de Valladolid + Menos de 5.5 córners de Sp Gijon + Menos de 13.5 faltas de Sp Gijon + Menos de 3.5 tarjetas de Valladolid,0001
