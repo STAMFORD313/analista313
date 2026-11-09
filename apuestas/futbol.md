@@ -1,24 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 09/11/2026 03:09 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Club Leon vs Guadalajara Chivas — 09/11 · 03:10
-
-👀 candidata · 🇲🇽 Liga MX · **Gana Club Leon** @ **3.40** (Bet365) · prob 30% vs casas 30% · ventaja +2%
-
-- ❌ Valor: ventaja +2% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.26 - 1.30)  
-1 32% · X 28% · 2 39%  
-1X 61% · X2 68% · 12 72%  
-+1.5 73% · +2.5 47% · +3.5 25% · Ambos marcan 53%  
-Marcadores: 1-1 13% · 0-1 9% · 1-0 9% · 0-0 8%  
-🔎 **Claves**  
-• Forma: Club Leon ➖❌✅➖❌ | Guadalajara Chivas ➖➖✅✅✅  
-• H2H: 30 desde 2012: 12V-5E-13D · 2.3 goles/partido · +2.5 en 43%  
-• Bajas: Club Leon: 0 fuera, 1 duda; Guadalajara Chivas: sin bajas  
-• Favorito de las casas: Guadalajara Chivas @ 2.05  
+Actualizado 09/11/2026 03:22 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Sabadell vs Sociedad B — 09/11 · 20:30
 

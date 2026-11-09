@@ -1,44 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 09/11/2026 03:09 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## vivienne vs Paka — 09/11 · 03:12
-
-👀 candidata · 🎮⚽ FC 27 · World Cup B · **Empate** @ **5.40** (Unibet) · prob 21% vs casas 16% · ventaja +15%
-
-- ✅ Valor: ventaja +15% (mín. 12% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 61.253 partidos)  
-Goles esperados: vivienne 3.05 · Paka 3.15  
-Ganador: vivienne 36% · empate 21% · Paka 43%  
-Total: más de 6.5 goles 43% · menos 57%  
-Hándicap Paka: −1.5 28% · −2.5 16%  
-🔎 **Claves**  
-• Forma: vivienne ❌✅❌❌❌ | Paka ❌❌✅✅✅  
-• Partidos: vivienne 817 | Paka 865  
-• Liga: World Cup B  
-• Unibet: 1 2.28 · X 5.40 · 2 1.93 (sin margen 38%/16%/45%) · ventaja +15%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 5.40 (+15%) · Paf España 5.40 (+15%)  
-
-## noeN vs Nightxx — 09/11 · 03:15
-
-👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana Nightxx** @ **1.95** (Unibet) · prob 55% vs casas 45% · ventaja +8%
-
-- ❌ Valor: ventaja +8% (mín. 10% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 61.272 partidos)  
-Goles esperados: noeN 2.75 · Nightxx 3.59  
-Ganador: noeN 26% · empate 19% · Nightxx 55%  
-Total: más de 6.5 goles 45% · menos 55%  
-Hándicap Nightxx: −1.5 39% · −2.5 25%  
-🔎 **Claves**  
-• Forma: noeN ❌❌❌❌❌ | Nightxx ➖✅✅❌❌  
-• Partidos: noeN 870 | Nightxx 877  
-• Liga: Champions League B  
-• Unibet: 1 2.55 · X 4.10 · 2 1.95 (sin margen 34%/21%/45%) · ventaja +8%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 1.95 (+8%) · Paf España 1.95 (+8%)  
+Actualizado 09/11/2026 03:22 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Lx7ss vs vivienne — 09/11 · 03:24
 
@@ -77,4 +39,61 @@ Hándicap kirman: −1.5 31% · −2.5 18%
 • Liga: Champions League A  
 • Unibet: 1 1.81 · X 4.10 · 2 2.85 (sin margen 48%/21%/31%) · ventaja +30%. Sin stake hasta demostrar ROI con estas cuotas.  
 • En España: LeoVegas España 2.85 (+30%) · Paf España 2.85 (+30%)  
+
+## Stenido vs nicky — 09/11 · 03:44
+
+👀 candidata · 🎮⚽ FC 27 · LaLiga 2x6 · **Gana Stenido** @ **2.95** (Unibet) · prob 36% vs casas 30% · ventaja +8%
+
+- ❌ Valor: ventaja +8% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 61.283 partidos)  
+Goles esperados: Stenido 4.76 · nicky 5.13  
+Ganador: Stenido 37% · empate 14% · nicky 49%  
+Total: más de 9.5 goles 53% · menos 47%  
+Hándicap nicky: −1.5 36% · −2.5 25%  
+🔎 **Claves**  
+• Forma: Stenido ✅✅✅✅❌ | nicky ❌✅❌✅✅  
+• Partidos: Stenido 199 | nicky 338  
+• Liga: LaLiga 2x6  
+• Unibet: 1 2.95 · X 6.40 · 2 1.53 (sin margen 30%/14%/57%) · ventaja +8%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.95 (+8%) · Paf España 2.95 (+8%)  
+
+## Lx7ss vs Dov1n — 09/11 · 03:48
+
+👀 candidata · 🎮⚽ FC 27 · World Cup B · **Empate** @ **6.10** (Unibet) · prob 20% vs casas 14% · ventaja +21%
+
+- ✅ Valor: ventaja +21% (mín. 13% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 61.283 partidos)  
+Goles esperados: Lx7ss 3.65 · Dov1n 3.18  
+Ganador: Lx7ss 47% · empate 20% · Dov1n 33%  
+Total: más de 6.5 goles 53% · menos 47%  
+Hándicap Lx7ss: −1.5 34% · −2.5 21%  
+🔎 **Claves**  
+• Forma: Lx7ss ❌❌✅❌❌ | Dov1n ✅❌➖✅❌  
+• Partidos: Lx7ss 1040 | Dov1n 1036  
+• Liga: World Cup B  
+• Unibet: 1 1.96 · X 6.10 · 2 2.16 (sin margen 45%/14%/41%) · ventaja +21%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 6.10 (+21%) · Paf España 6.10 (+21%)  
+
+## vivienne vs SpeciAL — 09/11 · 03:48
+
+👀 candidata · 🎮⚽ FC 27 · World Cup B · **Empate** @ **5.50** (Unibet) · prob 21% vs casas 16% · ventaja +14%
+
+- ✅ Valor: ventaja +14% (mín. 12% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 61.283 partidos)  
+Goles esperados: vivienne 3.05 · SpeciAL 3.34  
+Ganador: vivienne 34% · empate 21% · SpeciAL 46%  
+Total: más de 6.5 goles 46% · menos 54%  
+Hándicap SpeciAL: −1.5 31% · −2.5 19%  
+🔎 **Claves**  
+• Forma: vivienne ❌❌✅❌✅ | SpeciAL ✅✅❌❌✅  
+• Partidos: vivienne 820 | SpeciAL 848  
+• Liga: World Cup B  
+• Unibet: 1 2.20 · X 5.50 · 2 1.98 (sin margen 40%/16%/44%) · ventaja +14%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 5.50 (+14%) · Paf España 5.50 (+14%)  
 

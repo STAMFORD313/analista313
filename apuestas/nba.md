@@ -1,6 +1,6 @@
 # 🏀 NBA·NCAA · apuestas de valor
 
-Actualizado 09/11/2026 03:09 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 09/11/2026 03:22 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## USC Trojans vs Wichita State Shockers — 09/11 · 05:00
 
