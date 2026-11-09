@@ -234,3 +234,4 @@
 - 7/11 08:15 analista en rojo desde 07:22: el test de revisión experta (bankroll.place) usaba los segmentos bloqueados reales de estrategias.factor, que hoy bloquearon ⚽ → 0 apuestas. Test hermético (factor=1 en ese bloque).
 - 8/11 21:15 analista en rojo desde 20:09: el test de simuladas usa partidos del 4/11 y al pasar 4 días (GIVE_UP) settle() los daba por nulos. Test hermético frente al reloj (GIVE_UP enorme en ese bloque).
 - 8/11 22:20 tests a prueba de calendario: ejecutados con el reloj adelantado 30 y 120 días (sitecustomize que desplaza pd.Timestamp.now/datetime.now). Fallaba otro bloque de simuladas por GIVE_UP → GIVE_UP enorme para todo el archivo de tests. Pasan hoy, +30 d y +120 d.
+- 9/11 05:15 analista en rojo desde 04:12: el test de combinada NBA usaba la correlación margen-total entrenada real (_SGP_US, nba rho 0.006), que con los datos nuevos cambió la pierna elegida (empate casi exacto). Test hermético (_SGP_US vacío en ese bloque).
