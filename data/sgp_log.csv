@@ -358,4 +358,5 @@ fecha,partido,tipo,piernas,p,acierto,piernas_acertadas,p_piernas,cuota,ventaja,s
 2026-11-08,Estrela vs Benfica,larga,5,0.2394,1,5,0.727,,,0,,Menos de 5.5 córners de Estrela + Más de 3.5 tiros a puerta de Benfica + Menos de 13.5 faltas de Benfica + Menos de 2.5 tarjetas de Benfica + Más de 2.5 goles,11111
 2026-11-08,Rio Ave vs Sp Braga,corta,3,0.4274,1,3,0.7507,,,0,,Menos de 4.5 tiros a puerta de Rio Ave + Menos de 5.5 córners de Rio Ave + Menos de 13.5 faltas de Rio Ave,111
 2026-11-08,Rio Ave vs Sp Braga,larga,5,0.1617,0,4,0.6984,,,0,,Menos de 4.5 tiros a puerta de Rio Ave + Menos de 5.5 córners de Rio Ave + Menos de 13.5 faltas de Rio Ave + Menos de 5.5 tarjetas + Más de 2.5 goles,11110
-2026-11-08,Los Angeles Chargers vs Houston Texans,nfl,2,0.1745,0,1,0.4125,5.63,-0.018,0,,Gana Los Angeles Chargers + Más de 40.5 puntos,01
+2026-11-08,Los Angeles Chargers vs Houston Texans,nfl,2,0.1745,0,1,0.4125,5.63,-0.018,0,,Gana Los Angeles Chargers + Más de 40.5 puntos,1
+2026-11-08,New England Patriots vs Green Bay Packers,nfl,2,0.2084,0,1,0.4445,4.68,-0.024,0,,Gana Green Bay Packers + Menos de 44.5 puntos,10

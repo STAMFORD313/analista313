@@ -61241,16 +61241,16 @@ id,tournament_id,club1,club2,ht1,ht2
 2369197,261356,Brazil,Argentina,,
 2369198,261356,France,Brazil,,
 2369199,261356,Spain,England,,
-2368704,261317,Paris,Man City,0,2
-2368705,261317,Real Madrid,Boca Juniors,6,3
-2368706,261317,Boca Juniors,Paris,1,1
-2368707,261317,Man City,River Plate,1,0
-2368708,261317,River Plate,Boca Juniors,1,2
-2368709,261317,Paris,Real Madrid,0,2
-2368710,261317,Real Madrid,River Plate,1,1
-2368711,261317,Boca Juniors,Man City,1,0
-2368712,261317,Man City,Real Madrid,0,1
-2368713,261317,River Plate,Paris,0,3
+2368704,261317,Paris,Man City,0.0,2.0
+2368705,261317,Real Madrid,Boca Juniors,6.0,3.0
+2368706,261317,Boca Juniors,Paris,1.0,1.0
+2368707,261317,Man City,River Plate,1.0,0.0
+2368708,261317,River Plate,Boca Juniors,1.0,2.0
+2368709,261317,Paris,Real Madrid,0.0,2.0
+2368710,261317,Real Madrid,River Plate,1.0,1.0
+2368711,261317,Boca Juniors,Man City,1.0,0.0
+2368712,261317,Man City,Real Madrid,0.0,1.0
+2368713,261317,River Plate,Paris,0.0,3.0
 2368714,261317,Man City,Paris,,
 2368715,261317,Boca Juniors,Real Madrid,,
 2368716,261317,Paris,Boca Juniors,,
