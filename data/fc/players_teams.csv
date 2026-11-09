@@ -62009,3 +62009,23 @@ id,tournament_id,club1,club2,ht1,ht2
 2371587,261483,Ajax,Twente,2.0,1.0
 2371588,261483,Feyenoord,Ajax,,
 2371589,261483,PSV,AZ Alkmaar,,
+2371318,261464,Chelsea,Tottenham,1,1
+2371319,261464,Arsenal,Liverpool,1,1
+2371320,261464,Liverpool,Chelsea,1,2
+2371321,261464,Tottenham,Man City,1,2
+2371322,261464,Man City,Liverpool,0,1
+2371323,261464,Chelsea,Arsenal,0,2
+2371324,261464,Arsenal,Man City,3,3
+2371325,261464,Liverpool,Tottenham,0,3
+2371326,261464,Tottenham,Arsenal,3,1
+2371327,261464,Man City,Chelsea,2,1
+2371328,261464,Tottenham,Chelsea,2,0
+2371329,261464,Liverpool,Arsenal,0,0
+2371330,261464,Chelsea,Liverpool,0,0
+2371331,261464,Man City,Tottenham,1,1
+2371332,261464,Liverpool,Man City,,
+2371333,261464,Arsenal,Chelsea,,
+2371334,261464,Man City,Arsenal,,
+2371335,261464,Tottenham,Liverpool,,
+2371336,261464,Arsenal,Tottenham,,
+2371337,261464,Chelsea,Man City,,
