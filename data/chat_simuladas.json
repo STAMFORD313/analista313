@@ -1731,15 +1731,18 @@
     "away": "Tampa Bay Lightning",
     "txt": "Gana Tampa Bay Lightning",
     "odds": 1.676,
-    "p": 0.60942
+    "p": 0.60942,
+    "ok": false,
+    "por": "ganó Winnipeg Jets 4-3",
+    "clv": -0.003
    }
   ],
   "odds": 7.05,
   "p": 0.15381875980379997,
   "stake": 1.0,
-  "estado": "pendiente",
-  "avisada": false,
-  "rev": 1
+  "estado": "perdida",
+  "avisada": true,
+  "rev": 2
  },
  {
   "id": "20261108194804282922",
