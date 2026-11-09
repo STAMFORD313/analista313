@@ -62229,18 +62229,18 @@ id,tournament_id,club1,club2,ht1,ht2
 2371627,261479,Argentina,Brazil,,
 2371628,261479,Colombia,Argentina,,
 2371629,261479,Ecuador,Uruguay,,
-2370780,261444,Arsenal,Man City,1,2
-2370781,261444,Liverpool,Chelsea,0,0
-2370782,261444,Chelsea,Arsenal,0,1
-2370783,261444,Man City,Tottenham,1,3
-2370784,261444,Tottenham,Chelsea,1,0
-2370785,261444,Arsenal,Liverpool,2,3
-2370786,261444,Liverpool,Tottenham,2,2
-2370787,261444,Chelsea,Man City,2,1
-2370788,261444,Man City,Liverpool,2,3
-2370789,261444,Tottenham,Arsenal,1,3
-2370790,261444,Man City,Arsenal,1,0
-2370791,261444,Chelsea,Liverpool,1,0
+2370780,261444,Arsenal,Man City,1.0,2.0
+2370781,261444,Liverpool,Chelsea,0.0,0.0
+2370782,261444,Chelsea,Arsenal,0.0,1.0
+2370783,261444,Man City,Tottenham,1.0,3.0
+2370784,261444,Tottenham,Chelsea,1.0,0.0
+2370785,261444,Arsenal,Liverpool,2.0,3.0
+2370786,261444,Liverpool,Tottenham,2.0,2.0
+2370787,261444,Chelsea,Man City,2.0,1.0
+2370788,261444,Man City,Liverpool,2.0,3.0
+2370789,261444,Tottenham,Arsenal,1.0,3.0
+2370790,261444,Man City,Arsenal,1.0,0.0
+2370791,261444,Chelsea,Liverpool,1.0,0.0
 2370792,261444,Arsenal,Chelsea,,
 2370793,261444,Tottenham,Man City,,
 2370794,261444,Chelsea,Tottenham,,
