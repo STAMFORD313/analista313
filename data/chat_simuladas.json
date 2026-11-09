@@ -1800,7 +1800,9 @@
     "away": "wnT",
     "txt": "Gana DimoniX",
     "odds": 1.77,
-    "p": 0.5926478342749528
+    "p": 0.5926478342749528,
+    "ok": false,
+    "por": "ganó wnT 1-0"
    },
    {
     "code": null,
@@ -1826,8 +1828,8 @@
   "odds": 5.3,
   "p": 0.21209714473958563,
   "stake": 1.0,
-  "estado": "pendiente",
-  "avisada": false,
-  "rev": 1
+  "estado": "perdida",
+  "avisada": true,
+  "rev": 2
  }
 ]
