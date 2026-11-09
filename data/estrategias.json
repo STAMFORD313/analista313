@@ -1,5 +1,5 @@
 {
- "fecha": "2026-11-09 07:04",
+ "fecha": "2026-11-09 07:21",
  "n": 2122,
  "rentables": [],
  "bloqueados": [
@@ -79,22 +79,6 @@
    "clv": -0.0428,
    "clv_se": 0.0099,
    "clv_n": 17
-  },
-  {
-   "segmento": "cuota=>2.5 · ventaja=>15%",
-   "n": 210,
-   "roi": -0.2971,
-   "se": 0.1005,
-   "roi_antigua": -0.3688,
-   "roi_nueva": -0.1474
-  },
-  {
-   "segmento": "mercado=1X2 · cuota=>2.5 · ventaja=>15%",
-   "n": 183,
-   "roi": -0.3119,
-   "se": 0.1083,
-   "roi_antigua": -0.4242,
-   "roi_nueva": -0.108
   },
   {
    "segmento": "deporte=🏈 · cuota=1.5-2",
