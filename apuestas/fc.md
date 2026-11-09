@@ -1,61 +1,61 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 09/11/2026 10:27 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 09/11/2026 11:00 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## Maxa vs Ganger_29 — 09/11 · 10:28
+## d1pseN vs Bomb1to — 09/11 · 11:15
 
-👀 candidata · 🎮⚽ FC 27 · Ligue 1 · **Gana Maxa** @ **2.15** (Unibet) · prob 55% vs casas 40% · ventaja +18%
+👀 candidata · 🎮⚽ FC 27 · World Cup B · **Gana d1pseN** @ **3.35** (Unibet) · prob 39% vs casas 26% · ventaja +30%
 
-- ✅ Valor: ventaja +18% (mín. 13% con la incertidumbre, máx. 30%)
+- ✅ Valor: ventaja +30% (mín. 16% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 61.618 partidos)  
-Goles esperados: Maxa 3.17 · Ganger_29 2.48  
-Ganador: Maxa 55% · empate 19% · Ganger_29 26%  
-Total: más de 5.5 goles 50% · menos 50%  
-Hándicap Maxa: −1.5 36% · −2.5 22%  
+📊 **Escenarios** (Poisson por jugador, 61.650 partidos)  
+Goles esperados: d1pseN 3.09 · Bomb1to 3.17  
+Ganador: d1pseN 39% · empate 19% · Bomb1to 42%  
+Total: más de 6.5 goles 43% · menos 57%  
+Hándicap Bomb1to: −1.5 28% · −2.5 16%  
 🔎 **Claves**  
-• Forma: Maxa ✅➖✅❌❌ | Ganger_29 ❌❌➖❌❌  
-• Partidos: Maxa 971 | Ganger_29 813  
-• Liga: Ligue 1  
-• Unibet: 1 2.15 · X 3.45 · 2 2.55 (sin margen 41%/25%/34%) · ventaja +18%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.15 (+18%) · Paf España 2.15 (+18%)  
+• Forma: d1pseN ✅❌✅✅❌ | Bomb1to ✅❌➖➖✅  
+• Partidos: d1pseN 241 | Bomb1to 1266  
+• Liga: World Cup B  
+• Unibet: 1 3.35 · X 2.40 · 2 2.28 (sin margen 26%/36%/38%) · ventaja +30%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 3.35 (+30%) · Paf España 3.35 (+30%)  
 
-## mko1919 vs d1pseN — 09/11 · 10:31
+## Wboy vs mko1919 — 09/11 · 11:27
 
-👀 candidata · 🎮⚽ FC 27 · Serie A · **Gana d1pseN** @ **2.02** (Unibet) · prob 57% vs casas 43% · ventaja +16%
+👀 candidata · 🎮⚽ FC 27 · World Cup B · **Gana mko1919** @ **4.75** (Unibet) · prob 30% vs casas 18% · ventaja +44%
 
-- ✅ Valor: ventaja +16% (mín. 12% con la incertidumbre, máx. 30%)
+- ❌ Valor: ventaja +44% (mín. 19% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 61.618 partidos)  
-Goles esperados: mko1919 2.48 · d1pseN 3.31  
-Ganador: mko1919 24% · empate 18% · d1pseN 57%  
-Total: más de 5.5 goles 52% · menos 48%  
-Hándicap d1pseN: −1.5 38% · −2.5 24%  
+📊 **Escenarios** (Poisson por jugador, 61.650 partidos)  
+Goles esperados: Wboy 3.84 · mko1919 3.11  
+Ganador: Wboy 53% · empate 17% · mko1919 30%  
+Total: más de 6.5 goles 54% · menos 46%  
+Hándicap Wboy: −1.5 38% · −2.5 24%  
 🔎 **Claves**  
-• Forma: mko1919 ❌➖❌➖✅ | d1pseN ❌➖✅❌✅  
-• Partidos: mko1919 1161 | d1pseN 239  
-• Liga: Serie A  
-• Unibet: 1 2.33 · X 4.50 · 2 2.02 (sin margen 37%/19%/43%) · ventaja +16%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.02 (+16%) · Paf España 2.02 (+16%)  
+• Forma: Wboy ❌✅❌❌❌ | mko1919 ❌➖✅➖✅  
+• Partidos: Wboy 1074 | mko1919 1163  
+• Liga: World Cup B  
+• Unibet: 1 1.40 · X 4.35 · 2 4.75 (sin margen 62%/20%/18%) · ventaja +44%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 4.75 (+44%) · Paf España 4.75 (+44%)  
 
-## Wboy vs Bomb1to — 09/11 · 10:31
+## Bomb1to vs Uncle — 09/11 · 11:27
 
-👀 candidata · 🎮⚽ FC 27 · Serie A · **Gana Wboy** @ **3.05** (Unibet) · prob 35% vs casas 29% · ventaja +8%
+👀 candidata · 🎮⚽ FC 27 · World Cup B · **Gana Uncle** @ **2.88** (Unibet) · prob 38% vs casas 30% · ventaja +10%
 
-- ❌ Valor: ventaja +8% (mín. 10% con la incertidumbre, máx. 30%)
+- ❌ Valor: ventaja +10% (mín. 11% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 61.618 partidos)  
-Goles esperados: Wboy 3.75 · Bomb1to 4.04  
-Ganador: Wboy 35% · empate 17% · Bomb1to 48%  
-Total: más de 7.5 goles 52% · menos 48%  
-Hándicap Bomb1to: −1.5 33% · −2.5 21%  
+📊 **Escenarios** (Poisson por jugador, 61.650 partidos)  
+Goles esperados: Bomb1to 2.99 · Uncle 2.94  
+Ganador: Bomb1to 42% · empate 20% · Uncle 38%  
+Total: más de 5.5 goles 54% · menos 46%  
+Hándicap Bomb1to: −1.5 27% · −2.5 15%  
 🔎 **Claves**  
-• Forma: Wboy ✅❌✅❌❌ | Bomb1to ❌➖✅❌➖  
-• Partidos: Wboy 1073 | Bomb1to 1264  
-• Liga: Serie A  
-• Unibet: 1 3.05 · X 3.80 · 2 1.80 (sin margen 29%/23%/48%) · ventaja +8%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 3.05 (+8%) · Paf España 3.05 (+8%)  
+• Forma: Bomb1to ✅❌➖➖✅ | Uncle ➖➖✅➖❌  
+• Partidos: Bomb1to 1266 | Uncle 721  
+• Liga: World Cup B  
+• Unibet: 1 2.16 · X 2.90 · 2 2.88 (sin margen 40%/30%/30%) · ventaja +10%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.88 (+10%) · Paf España 2.88 (+10%)  
 
