@@ -1,57 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 09/11/2026 20:49 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## eSuba vs OldBoys FR — 09/11 · 21:00
-
-👀 candidata · 🎮 CS2 · ESEA Season 59: Advanced Division - Europe · **Gana OldBoys FR** @ **1.75** (Thunderpick) · prob 55% vs casas 53% · ventaja -3%
-
-- ❌ Valor: ventaja -3% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 76.602 partidos)  
-Mapa: eSuba 43% · Serie BO1: eSuba 43% - 57% OldBoys FR  
-Casas: eSuba 47% · OldBoys FR 53%  
-🔎 **Claves**  
-• Elo: eSuba 1517 (90 series) | OldBoys FR 1569 (54 series)  
-• Forma: eSuba ❌✅❌✅✅ | OldBoys FR ✅✅❌❌❌  
-• H2H: sin precedentes  
-• Torneo: ESEA Season 59: Advanced Division - Europe (nivel C)  
-• Cambios de plantilla: ninguno  
-
-## ECSTATIC vs struggletony — 09/11 · 21:00
-
-👀 candidata · 🎮 CS2 · Dust2.dk Ligaen Season 33: Regular Season · **Gana ECSTATIC** @ **1.54** (Thunderpick) · prob 64% vs casas 60% · ventaja -1%
-
-- ❌ Valor: ventaja -1% (mín. 7% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 76.602 partidos)  
-Mapa: ECSTATIC 69% · Serie BO1: ECSTATIC 69% - 31% struggletony  
-Casas: ECSTATIC 60% · struggletony 40%  
-🔎 **Claves**  
-• Elo: ECSTATIC 1610 (509 series) | struggletony 1473 (33 series)  
-• Forma: ECSTATIC ❌✅✅❌❌ | struggletony ❌✅✅❌❌  
-• H2H: 1: 1-0  
-• Torneo: Dust2.dk Ligaen Season 33: Regular Season (nivel C)  
-• Cambios de plantilla: ninguno  
-
-## XI vs MASONIC — 09/11 · 21:00
-
-👀 candidata · 🎮 CS2 · Dust2.dk Ligaen Season 33: Regular Season · **Gana XI** @ **2.12** (Thunderpick) · prob 48% vs casas 43% · ventaja +1%
-
-- ❌ Valor: ventaja +1% (mín. 7% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 76.602 partidos)  
-Mapa: XI 52% · Serie BO1: XI 52% - 48% MASONIC  
-Casas: XI 43% · MASONIC 57%  
-🔎 **Claves**  
-• Elo: XI 1552 (411 series) | MASONIC 1537 (499 series)  
-• Forma: XI ✅❌✅❌❌ | MASONIC ❌❌✅❌✅  
-• H2H: 15: 5-10  
-• Torneo: Dust2.dk Ligaen Season 33: Regular Season (nivel C)  
-• Cambios de plantilla: ninguno  
+Actualizado 09/11/2026 21:21 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## KUUSAMO vs boyband — 10/11 · 19:00
 
