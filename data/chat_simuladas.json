@@ -1785,5 +1785,49 @@
   "estado": "pendiente",
   "avisada": false,
   "rev": 1
+ },
+ {
+  "id": "20261109024736842159",
+  "creada": "2026-11-09 02:47:36.842200+00:00",
+  "titulo": "Barrido · Combinada cuota 5.3",
+  "legs": [
+   {
+    "src": "esports:cs2",
+    "side": "H",
+    "code": null,
+    "start": "2026-11-09 17:00:00+00:00",
+    "home": "DimoniX",
+    "away": "wnT",
+    "txt": "Gana DimoniX",
+    "odds": 1.77,
+    "p": 0.5926478342749528
+   },
+   {
+    "code": null,
+    "start": "2026-11-09 20:00:00+00:00",
+    "home": "Sportivo San Lorenzo",
+    "away": "Rubio Nu",
+    "txt": "Gana Rubio Nu",
+    "odds": 1.97,
+    "p": 0.5326
+   },
+   {
+    "src": "esports:cs2",
+    "side": "H",
+    "code": null,
+    "start": "2026-11-09 20:00:00+00:00",
+    "home": "ECSTATIC",
+    "away": "struggletony",
+    "txt": "Gana ECSTATIC",
+    "odds": 1.52,
+    "p": 0.6719499999999999
+   }
+  ],
+  "odds": 5.3,
+  "p": 0.21209714473958563,
+  "stake": 1.0,
+  "estado": "pendiente",
+  "avisada": false,
+  "rev": 1
  }
 ]
