@@ -1445,3 +1445,7 @@ Moneyline - Including Overtime,Phoenix Suns,OT_ONE,,3.4,2026-11-08T22:12:14.6390
 Moneyline - Including Overtime,San Antonio Spurs,OT_TWO,,1.32,2026-11-08T22:12:14.639065+00:00,2026-11-10T02:00Z,Phoenix Suns,San Antonio Spurs
 Point Spread - Including Overtime,Phoenix Suns,OT_ONE,8.5,1.87,2026-11-08T22:12:14.639065+00:00,2026-11-10T02:00Z,Phoenix Suns,San Antonio Spurs
 Point Spread - Including Overtime,San Antonio Spurs,OT_TWO,-8.5,1.94,2026-11-08T22:12:14.639065+00:00,2026-11-10T02:00Z,Phoenix Suns,San Antonio Spurs
+Moneyline - Including Overtime,Detroit Pistons,OT_ONE,,1.21,2026-11-09T02:01:13.010693+00:00,2026-11-10T00:00Z,Detroit Pistons,Washington Wizards
+Moneyline - Including Overtime,Washington Wizards,OT_TWO,,4.4,2026-11-09T02:01:13.010693+00:00,2026-11-10T00:00Z,Detroit Pistons,Washington Wizards
+Point Spread - Including Overtime,Detroit Pistons,OT_ONE,-10.5,1.95,2026-11-09T02:01:13.010693+00:00,2026-11-10T00:00Z,Detroit Pistons,Washington Wizards
+Point Spread - Including Overtime,Washington Wizards,OT_TWO,10.5,1.86,2026-11-09T02:01:13.010693+00:00,2026-11-10T00:00Z,Detroit Pistons,Washington Wizards
