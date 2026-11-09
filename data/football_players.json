@@ -11,19 +11,19 @@
    "se_propia": 0.0004
   },
   "tiros_puerta": {
-   "ll": 0.4734,
-   "ll_media": 0.5605,
-   "ll_propia": 0.5159,
+   "ll": 0.4735,
+   "ll_media": 0.5606,
+   "ll_propia": 0.516,
    "se_propia": 0.0008
   },
   "cards": {
    "ll": 0.4143,
    "ll_media": 0.4242,
-   "ll_propia": 0.4356,
+   "ll_propia": 0.4357,
    "se_propia": 0.0006
   },
   "asist": {
-   "ll": 0.2356,
+   "ll": 0.2357,
    "ll_media": 0.2496,
    "ll_propia": 0.2439,
    "se_propia": 0.0004
