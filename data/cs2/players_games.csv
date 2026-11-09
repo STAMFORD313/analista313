@@ -34628,3 +34628,6 @@ game_id,match_id,slug,date,tier,bo,tournament_id,tournament,t1_id,t2_id,team1,te
 192458,133234,butterfly-vs-nexus-09-11-2026,2026-11-09T15:00:00.000+00:00,b,3,5628,CCT Europe 2026 Series 13,24855,326,Butterfly,Nexus,1,de_dust2,24855,13.0,6.0
 192319,133188,gremio-vs-zetta-games-cs-09-11-2026,2026-11-09T16:00:00.000+00:00,b,3,5624,CCT South America 2026 Series 8,24856,23468,Grêmio,Zetta,2,de_inferno,24856,13.0,11.0
 192320,133188,gremio-vs-zetta-games-cs-09-11-2026,2026-11-09T16:00:00.000+00:00,b,3,5624,CCT South America 2026 Series 8,24856,23468,Grêmio,Zetta,1,de_ancient,24856,13.0,10.0
+192459,133235,ex-zero-tenacity-vs-team-aces-09-11-2026,2026-11-09T18:00:00.000+00:00,b,3,5628,CCT Europe 2026 Series 13,22185,25564,ex-Zero Tenacity,Aces,3,de_inferno,22185,13.0,10.0
+192460,133235,ex-zero-tenacity-vs-team-aces-09-11-2026,2026-11-09T18:00:00.000+00:00,b,3,5628,CCT Europe 2026 Series 13,22185,25564,ex-Zero Tenacity,Aces,2,de_dust2,25564,13.0,7.0
+192461,133235,ex-zero-tenacity-vs-team-aces-09-11-2026,2026-11-09T18:00:00.000+00:00,b,3,5628,CCT Europe 2026 Series 13,22185,25564,ex-Zero Tenacity,Aces,1,de_cache,22185,13.0,7.0
