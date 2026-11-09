@@ -1,6 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 09/11/2026 06:17 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 09/11/2026 06:26 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Maxa vs Tesla — 09/11 · 06:30
 
