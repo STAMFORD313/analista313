@@ -62049,16 +62049,16 @@ id,tournament_id,club1,club2,ht1,ht2
 2371607,261485,Melbourne City,Melbourne Victory,,
 2371608,261485,Sydney FC,Melbourne City,,
 2371609,261485,Adelaide United,Western Sydney Wanderers,,
-2370328,261411,Portugal,Germany,2,1
-2370329,261411,Belgium,Morocco,1,1
-2370330,261411,Morocco,Portugal,1,1
-2370331,261411,Germany,Netherlands,3,2
-2370332,261411,Netherlands,Morocco,1,2
-2370333,261411,Portugal,Belgium,0,2
-2370334,261411,Belgium,Netherlands,2,2
-2370335,261411,Morocco,Germany,4,0
-2370336,261411,Germany,Belgium,1,2
-2370337,261411,Netherlands,Portugal,0,2
+2370328,261411,Portugal,Germany,2.0,1.0
+2370329,261411,Belgium,Morocco,1.0,1.0
+2370330,261411,Morocco,Portugal,1.0,1.0
+2370331,261411,Germany,Netherlands,3.0,2.0
+2370332,261411,Netherlands,Morocco,1.0,2.0
+2370333,261411,Portugal,Belgium,0.0,2.0
+2370334,261411,Belgium,Netherlands,2.0,2.0
+2370335,261411,Morocco,Germany,4.0,0.0
+2370336,261411,Germany,Belgium,1.0,2.0
+2370337,261411,Netherlands,Portugal,0.0,2.0
 2370338,261411,Germany,Portugal,,
 2370339,261411,Morocco,Belgium,,
 2370340,261411,Portugal,Morocco,,
@@ -62069,14 +62069,14 @@ id,tournament_id,club1,club2,ht1,ht2
 2370345,261411,Germany,Morocco,,
 2370346,261411,Belgium,Germany,,
 2370347,261411,Portugal,Netherlands,,
-2370488,261426,Atleti,Real Madrid,2,1
-2370489,261426,Bayern Munchen,Paris,1,1
-2370490,261426,Paris,Atleti,1,1
-2370491,261426,Real Madrid,Liverpool,0,0
-2370492,261426,Liverpool,Paris,0,1
-2370493,261426,Atleti,Bayern Munchen,2,1
-2370494,261426,Bayern Munchen,Liverpool,1,0
-2370495,261426,Paris,Real Madrid,3,1
+2370488,261426,Atleti,Real Madrid,2.0,1.0
+2370489,261426,Bayern Munchen,Paris,1.0,1.0
+2370490,261426,Paris,Atleti,1.0,1.0
+2370491,261426,Real Madrid,Liverpool,0.0,0.0
+2370492,261426,Liverpool,Paris,0.0,1.0
+2370493,261426,Atleti,Bayern Munchen,2.0,1.0
+2370494,261426,Bayern Munchen,Liverpool,1.0,0.0
+2370495,261426,Paris,Real Madrid,3.0,1.0
 2370496,261426,Real Madrid,Bayern Munchen,,
 2370497,261426,Liverpool,Atleti,,
 2370498,261426,Real Madrid,Atleti,,
@@ -62089,3 +62089,63 @@ id,tournament_id,club1,club2,ht1,ht2
 2370505,261426,Real Madrid,Paris,,
 2370506,261426,Bayern Munchen,Real Madrid,,
 2370507,261426,Atleti,Liverpool,,
+2370678,261435,Sporting CP,Man City,1,4
+2370679,261435,Arsenal,B Dortmund,5,0
+2370680,261435,B Dortmund,Sporting CP,0,3
+2370681,261435,Man City,Juventus,7,2
+2370682,261435,Juventus,B Dortmund,5,2
+2370683,261435,Sporting CP,Arsenal,1,2
+2370684,261435,Arsenal,Juventus,1,0
+2370685,261435,B Dortmund,Man City,2,1
+2370686,261435,Man City,Arsenal,,
+2370687,261435,Juventus,Sporting CP,,
+2370688,261435,Man City,Sporting CP,,
+2370689,261435,B Dortmund,Arsenal,,
+2370690,261435,Sporting CP,B Dortmund,,
+2370691,261435,Juventus,Man City,,
+2370692,261435,B Dortmund,Juventus,,
+2370693,261435,Arsenal,Sporting CP,,
+2370694,261435,Juventus,Arsenal,,
+2370695,261435,Man City,B Dortmund,,
+2370696,261435,Arsenal,Man City,,
+2370697,261435,Sporting CP,Juventus,,
+2370760,261440,Fenerbahce,Basaksehir,1,1
+2370761,261440,Galatasaray,Trabzonspor,3,1
+2370762,261440,Trabzonspor,Fenerbahce,2,1
+2370763,261440,Basaksehir,Besiktas,2,2
+2370764,261440,Besiktas,Trabzonspor,2,0
+2370765,261440,Fenerbahce,Galatasaray,2,0
+2370766,261440,Galatasaray,Besiktas,1,2
+2370767,261440,Trabzonspor,Basaksehir,3,4
+2370768,261440,Basaksehir,Galatasaray,1,4
+2370769,261440,Besiktas,Fenerbahce,2,0
+2370770,261440,Basaksehir,Fenerbahce,,
+2370771,261440,Trabzonspor,Galatasaray,,
+2370772,261440,Fenerbahce,Trabzonspor,,
+2370773,261440,Besiktas,Basaksehir,,
+2370774,261440,Trabzonspor,Besiktas,,
+2370775,261440,Galatasaray,Fenerbahce,,
+2370776,261440,Besiktas,Galatasaray,,
+2370777,261440,Basaksehir,Trabzonspor,,
+2370778,261440,Galatasaray,Basaksehir,,
+2370779,261440,Fenerbahce,Besiktas,,
+2371338,261466,England,Spain,0,1
+2371339,261466,France,Argentina,2,1
+2371340,261466,Argentina,England,1,2
+2371341,261466,Spain,Germany,2,0
+2371342,261466,Germany,Argentina,1,0
+2371343,261466,England,France,1,2
+2371344,261466,France,Germany,3,1
+2371345,261466,Argentina,Spain,1,1
+2371346,261466,Spain,France,,
+2371347,261466,Germany,England,,
+2371348,261466,Spain,England,,
+2371349,261466,Argentina,France,,
+2371350,261466,England,Argentina,,
+2371351,261466,Germany,Spain,,
+2371352,261466,Argentina,Germany,,
+2371353,261466,France,England,,
+2371354,261466,Germany,France,,
+2371355,261466,Spain,Argentina,,
+2371356,261466,France,Spain,,
+2371357,261466,England,Germany,,

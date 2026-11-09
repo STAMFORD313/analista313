@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 09/11/2026 18:23 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 09/11/2026 18:53 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## SINQU vs Nordic Valor — 09/11 · 19:00
 
