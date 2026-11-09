@@ -1,6 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 09/11/2026 16:18 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 09/11/2026 16:27 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Glumac vs chevare — 09/11 · 16:40
 

@@ -1579,9 +1579,7 @@
   "atp|2026-11-10|Adrian Mannarino|Aleksandr Shevchenko",
   "atp|2026-11-10|Alex Michelsen|Juan Manuel Cerundolo",
   "atp|2026-11-11|Taylor Fritz|Cameron Norrie",
-  "fc|2364354",
-  "fc|2364465",
-  "fc|2364462",
+  "atp|2026-11-11|Borna Gojo|Ugo Humbert",
   "fc|2363536",
   "fc|2364466",
   "fc|2363609",
@@ -2579,10 +2577,12 @@
   "fc|2371122",
   "fc|2370470",
   "cs2|132588",
-  "atp|2026-11-11|Borna Gojo|Ugo Humbert",
   "fc|2370670",
   "fc|2370750",
-  "fc|2370325"
+  "fc|2370325",
+  "fc|2370753",
+  "fc|2370749",
+  "fc|2370672"
  ],
  "signals": [
   {
@@ -21946,31 +21946,6 @@
    "considered": true,
    "placed": false,
    "score": "3-3",
-   "result": false,
-   "close_p": null,
-   "logged": true
-  },
-  {
-   "market": "D",
-   "pick": "Empate",
-   "odds": 5.1,
-   "book": "Unibet",
-   "implied": 0.172,
-   "edge": 0.072,
-   "sin_stake": true,
-   "p": 0.21,
-   "key": "fc|2365865",
-   "match": "Firminho vs pikalicaaa",
-   "start": "2026-11-06T15:25:00+00:00",
-   "league": "🎮⚽ FC 27 · Europa League",
-   "sport": "🎮⚽",
-   "context": "EA FC Esoccer Battle Firminho vs pikalicaaa (Europa League): goles esperados 3.13-2.52, 1X2 48%/21%/31%. Sin cuotas de casa.",
-   "captured": "2026-11-06T15:15",
-   "version": "d9dc172",
-   "bajas": "",
-   "considered": true,
-   "placed": false,
-   "score": "1-6",
    "result": false,
    "close_p": null,
    "logged": true
@@ -48599,7 +48574,8 @@
    "version": "f6d9600",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "anunciada": true
   }
  ],
  "bank": {
@@ -49062,7 +49038,7 @@
  },
  "scoreboard_id": 156,
  "scoreboard_text": "📊 <b>MARCADOR DEL BOT</b>\n━━━━━━━━━━━━━━━\n🟩 Ganadas: <b>11</b> (37 %)\n🟥 Perdidas: <b>19</b> (63 %)\n⏳ En juego: 0\n\nÚltimas 30:\n🟥🟥🟥🟩🟥🟩🟥🟥🟥🟥🟥🟥🟥🟥🟩🟥🟥🟩🟩🟩🟩🟩🟥🟥🟥🟥🟩🟩🟥🟩\n━━━━━━━━━━━━━━━\n💵 Beneficio -17.17 $ · ROI -30.9 %\n📐 CLV medio +2.5 % (cuota cogida vs cierre)\n💰 Banca: <b>82.83 €</b> (-17.17 € desde 100 €) · libre 82.83 €{\"inline_keyboard\": [[{\"text\": \"\\ud83d\\udcc8 Ver historial completo y fallos\", \"url\": \"https://github.com/STAMFORD313/analista313/blob/main/ESTADISTICAS.md\"}], [{\"text\": \"\\u26bd F\\u00fatbol\", \"callback_data\": \"dep:futbol\"}, {\"text\": \"\\ud83c\\udfc0 NBA\\u00b7NCAA\", \"callback_data\": \"dep:nba\"}, {\"text\": \"\\ud83c\\udfc8 NFL\\u00b7NCAA\", \"callback_data\": \"dep:nfl\"}], [{\"text\": \"\\ud83c\\udfc6 Champions\\u00b7Europa\", \"callback_data\": \"dep:europa\"}, {\"text\": \"\\ud83c\\udfd2 NHL\", \"callback_data\": \"dep:nhl\"}, {\"text\": \"\\u26be MLB\", \"callback_data\": \"dep:mlb\"}], [{\"text\": \"\\ud83e\\udd4a UFC\", \"callback_data\": \"dep:ufc\"}, {\"text\": \"\\ud83c\\udfbe Tenis\", \"callback_data\": \"dep:tenis\"}, {\"text\": \"\\ud83c\\udfae CS2\", \"callback_data\": \"dep:cs2\"}], [{\"text\": \"\\ud83d\\udc09 Dota 2\", \"callback_data\": \"dep:dota2\"}, {\"text\": \"\\ud83e\\uddd9 LoL\", \"callback_data\": \"dep:lol\"}, {\"text\": \"\\ud83d\\udd2b R6 Siege\", \"callback_data\": \"dep:r6\"}], [{\"text\": \"\\ud83d\\udcf1 MLBB\", \"callback_data\": \"dep:mlbb\"}, {\"text\": \"\\ud83c\\udfae\\u26bd FC 27\", \"callback_data\": \"dep:fc\"}]]}",
- "fc_sent": "2026-11-09T11:21:32.014351+00:00",
+ "fc_sent": "2026-11-09T15:27:32.278997+00:00",
  "sgp": {
   "P1|2026-11-08|Estoril|Maritimo": {
    "match": "Estoril vs Maritimo",
