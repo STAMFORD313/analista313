@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 09/11/2026 08:52 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 09/11/2026 09:23 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Alliance vs FOKUS — 09/11 · 15:00
 
@@ -203,6 +203,23 @@ Casas: eSuba 53% · ZOTIX 47%
 🔎 **Claves**  
 • Elo: eSuba 1514 (91 series) | ZOTIX 1477 (90 series)  
 • Forma: eSuba ✅❌✅✅❌ | ZOTIX ✅❌❌❌✅  
+• H2H: sin precedentes  
+• Torneo: ESEA Season 59: Advanced Division - Europe (nivel C)  
+• Cambios de plantilla: ninguno  
+
+## Spirit HU vs Fire Flux — 09/11 · 20:30
+
+👀 candidata · 🎮 CS2 · ESEA Season 59: Advanced Division - Europe · **Gana Fire Flux** @ **1.39** (Thunderpick) · prob 76% vs casas 67% · ventaja +6%
+
+- ❌ Valor: ventaja +6% (mín. 8% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 76.633 partidos)  
+Mapa: Spirit HU 14% · Serie BO1: Spirit HU 14% - 86% Fire Flux  
+Casas: Spirit HU 33% · Fire Flux 67%  
+🔎 **Claves**  
+• Elo: Spirit HU 1341 (9 series) | Fire Flux 1660 (337 series)  
+• Forma: Spirit HU ❌❌❌❌❌ | Fire Flux ❌❌✅❌❌  
 • H2H: sin precedentes  
 • Torneo: ESEA Season 59: Advanced Division - Europe (nivel C)  
 • Cambios de plantilla: ninguno  

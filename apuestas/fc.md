@@ -1,61 +1,61 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 09/11/2026 08:52 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 09/11/2026 09:23 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## d1pseN vs Bomb1to — 09/11 · 08:55
+## Ganger_29 vs Maxa — 09/11 · 09:28
 
-👀 candidata · 🎮⚽ FC 27 · Serie A · **Gana d1pseN** @ **3.25** (Unibet) · prob 39% vs casas 27% · ventaja +28%
+👀 candidata · 🎮⚽ FC 27 · Ligue 1 · **Gana Maxa** @ **2.08** (Unibet) · prob 53% vs casas 42% · ventaja +11%
 
-- ✅ Valor: ventaja +28% (mín. 15% con la incertidumbre, máx. 30%)
+- ❌ Valor: ventaja +11% (mín. 11% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 61.538 partidos)  
-Goles esperados: d1pseN 3.19 · Bomb1to 3.17  
-Ganador: d1pseN 39% · empate 19% · Bomb1to 42%  
-Total: más de 6.5 goles 45% · menos 55%  
-Hándicap d1pseN: −1.5 27% · −2.5 16%  
+📊 **Escenarios** (Poisson por jugador, 61.562 partidos)  
+Goles esperados: Ganger_29 2.51 · Maxa 3.13  
+Ganador: Ganger_29 28% · empate 19% · Maxa 53%  
+Total: más de 5.5 goles 50% · menos 50%  
+Hándicap Maxa: −1.5 35% · −2.5 21%  
 🔎 **Claves**  
-• Forma: d1pseN ✅✅❌✅✅ | Bomb1to ❌❌➖✅✅  
-• Partidos: d1pseN 234 | Bomb1to 1258  
+• Forma: Ganger_29 ❌✅❌❌❌ | Maxa ➖✅❌➖✅  
+• Partidos: Ganger_29 809 | Maxa 967  
+• Liga: Ligue 1  
+• Unibet: 1 2.63 · X 3.45 · 2 2.08 (sin margen 33%/25%/42%) · ventaja +11%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.08 (+11%) · Paf España 2.08 (+11%)  
+
+## d1pseN vs mko1919 — 09/11 · 09:31
+
+👀 candidata · 🎮⚽ FC 27 · Serie A · **Gana d1pseN** @ **1.96** (Unibet) · prob 58% vs casas 44% · ventaja +14%
+
+- ✅ Valor: ventaja +14% (mín. 12% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 61.562 partidos)  
+Goles esperados: d1pseN 3.33 · mko1919 2.46  
+Ganador: d1pseN 58% · empate 18% · mko1919 24%  
+Total: más de 5.5 goles 52% · menos 48%  
+Hándicap d1pseN: −1.5 39% · −2.5 24%  
+🔎 **Claves**  
+• Forma: d1pseN ✅❌✅✅❌ | mko1919 ❌❌❌✅❌  
+• Partidos: d1pseN 235 | mko1919 1157  
 • Liga: Serie A  
-• Unibet: 1 3.25 · X 2.48 · 2 2.25 (sin margen 27%/35%/38%) · ventaja +28%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 3.25 (+28%) · Paf España 3.25 (+28%)  
+• Unibet: 1 1.96 · X 4.50 · 2 2.40 (sin margen 44%/19%/36%) · ventaja +14%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 1.96 (+14%) · Paf España 1.96 (+14%)  
 
-## Uncle vs Wboy — 09/11 · 08:55
+## cl1vlind vs A1ose — 09/11 · 09:34
 
-👀 candidata · 🎮⚽ FC 27 · Serie A · **Gana Wboy** @ **3.35** (Unibet) · prob 36% vs casas 26% · ventaja +20%
+👀 candidata · 🎮⚽ FC 27 · Champions League AFC · **Gana A1ose** @ **2.50** (Unibet) · prob 43% vs casas 35% · ventaja +8%
 
-- ✅ Valor: ventaja +20% (mín. 13% con la incertidumbre, máx. 30%)
+- ❌ Valor: ventaja +8% (mín. 11% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 61.538 partidos)  
-Goles esperados: Uncle 3.31 · Wboy 3.14  
-Ganador: Uncle 46% · empate 19% · Wboy 36%  
-Total: más de 6.5 goles 46% · menos 54%  
-Hándicap Uncle: −1.5 30% · −2.5 17%  
+📊 **Escenarios** (Poisson por jugador, 61.562 partidos)  
+Goles esperados: cl1vlind 2.59 · A1ose 2.85  
+Ganador: cl1vlind 36% · empate 21% · A1ose 43%  
+Total: más de 5.5 goles 46% · menos 54%  
+Hándicap A1ose: −1.5 29% · −2.5 16%  
 🔎 **Claves**  
-• Forma: Uncle ✅➖➖✅❌ | Wboy ❌➖✅❌❌  
-• Partidos: Uncle 714 | Wboy 1067  
-• Liga: Serie A  
-• Unibet: 1 1.82 · X 3.30 · 2 3.35 (sin margen 48%/26%/26%) · ventaja +20%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 3.35 (+20%) · Paf España 3.35 (+20%)  
-
-## mko1919 vs Bomb1to — 09/11 · 09:19
-
-👀 candidata · 🎮⚽ FC 27 · Serie A · **Gana Bomb1to** @ **2.02** (Unibet) · prob 62% vs casas 43% · ventaja +24%
-
-- ✅ Valor: ventaja +24% (mín. 14% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 61.538 partidos)  
-Goles esperados: mko1919 2.79 · Bomb1to 3.81  
-Ganador: mko1919 22% · empate 16% · Bomb1to 62%  
-Total: más de 6.5 goles 49% · menos 51%  
-Hándicap Bomb1to: −1.5 42% · −2.5 27%  
-🔎 **Claves**  
-• Forma: mko1919 ❌❌❌❌✅ | Bomb1to ❌❌➖✅✅  
-• Partidos: mko1919 1156 | Bomb1to 1258  
-• Liga: Serie A  
-• Unibet: 1 3.05 · X 3.05 · 2 2.02 (sin margen 28%/28%/43%) · ventaja +24%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.02 (+24%) · Paf España 2.02 (+24%)  
+• Forma: cl1vlind ✅✅❌➖❌ | A1ose ✅❌➖✅❌  
+• Partidos: cl1vlind 520 | A1ose 862  
+• Liga: Champions League AFC  
+• Unibet: 1 2.80 · X 2.50 · 2 2.50 (sin margen 31%/35%/35%) · ventaja +8%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.50 (+9%) · Paf España 2.50 (+9%)  
 
