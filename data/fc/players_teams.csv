@@ -61341,10 +61341,10 @@ id,tournament_id,club1,club2,ht1,ht2
 2369217,261357,Real Madrid,Bayern Munchen,,
 2369218,261357,Atleti,Real Madrid,,
 2369219,261357,Liverpool,Paris,,
-2368844,261329,Atleti,Real Madrid,1,0
-2368845,261329,Atleti,Barcelona,6,3
-2368846,261329,Real Madrid,Barcelona,3,2
-2368847,261329,Real Madrid,Atleti,0,0
+2368844,261329,Atleti,Real Madrid,1.0,0.0
+2368845,261329,Atleti,Barcelona,6.0,3.0
+2368846,261329,Real Madrid,Barcelona,3.0,2.0
+2368847,261329,Real Madrid,Atleti,0.0,0.0
 2368848,261329,Barcelona,Atleti,,
 2368849,261329,Barcelona,Real Madrid,,
 2368850,261329,Atleti,Real Madrid,,

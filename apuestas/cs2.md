@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 09/11/2026 03:53 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 09/11/2026 04:22 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Alliance vs FOKUS — 09/11 · 15:00
 
