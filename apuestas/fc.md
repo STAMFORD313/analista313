@@ -1,42 +1,61 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 09/11/2026 12:51 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 09/11/2026 13:23 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## A1ose vs cl1vlind — 09/11 · 12:54
+## Wboy vs mko1919 — 09/11 · 13:37
 
-👀 candidata · 🎮⚽ FC 27 · Bundesliga · **Gana A1ose** @ **2.38** (Unibet) · prob 46% vs casas 37% · ventaja +10%
+👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana mko1919** @ **4.60** (Unibet) · prob 28% vs casas 19% · ventaja +29%
 
-- ❌ Valor: ventaja +10% (mín. 11% con la incertidumbre, máx. 30%)
+- ✅ Valor: ventaja +29% (mín. 16% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 61.744 partidos)  
-Goles esperados: A1ose 2.91 · cl1vlind 2.64  
-Ganador: A1ose 46% · empate 20% · cl1vlind 34%  
-Total: más de 5.5 goles 48% · menos 52%  
-Hándicap A1ose: −1.5 30% · −2.5 17%  
+📊 **Escenarios** (Poisson por jugador, 61.771 partidos)  
+Goles esperados: Wboy 3.96 · mko1919 3.19  
+Ganador: Wboy 55% · empate 17% · mko1919 28%  
+Total: más de 7.5 goles 42% · menos 58%  
+Hándicap Wboy: −1.5 39% · −2.5 25%  
 🔎 **Claves**  
-• Forma: A1ose ❌✅❌❌❌ | cl1vlind ❌❌❌✅➖  
-• Partidos: A1ose 875 | cl1vlind 533  
-• Liga: Bundesliga  
-• Unibet: 1 2.38 · X 2.75 · 2 2.75 (sin margen 37%/32%/32%) · ventaja +10%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.38 (+10%) · Paf España 2.38 (+10%)  
+• Forma: Wboy ➖✅❌❌➖ | mko1919 ➖✅➖❌❌  
+• Partidos: Wboy 1083 | mko1919 1172  
+• Liga: Champions League B  
+• Unibet: 1 1.40 · X 4.40 · 2 4.60 (sin margen 62%/20%/19%) · ventaja +29%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 4.60 (+29%) · Paf España 4.60 (+29%)  
 
-## Maxa vs Tesla — 09/11 · 13:10
+## Bomb1to vs Uncle — 09/11 · 13:37
 
-👀 candidata · 🎮⚽ FC 27 · FA Cup · **Gana Tesla** @ **2.00** (Unibet) · prob 54% vs casas 44% · ventaja +8%
+👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana Uncle** @ **3.05** (Unibet) · prob 37% vs casas 28% · ventaja +12%
 
-- ❌ Valor: ventaja +8% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Valor: ventaja +12% (mín. 11% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 61.744 partidos)  
-Goles esperados: Maxa 2.76 · Tesla 3.41  
-Ganador: Maxa 28% · empate 18% · Tesla 54%  
-Total: más de 6.5 goles 42% · menos 58%  
-Hándicap Tesla: −1.5 36% · −2.5 22%  
+📊 **Escenarios** (Poisson por jugador, 61.771 partidos)  
+Goles esperados: Bomb1to 3.02 · Uncle 2.93  
+Ganador: Bomb1to 44% · empate 20% · Uncle 37%  
+Total: más de 5.5 goles 55% · menos 45%  
+Hándicap Bomb1to: −1.5 28% · −2.5 16%  
 🔎 **Claves**  
-• Forma: Maxa ➖✅➖❌✅ | Tesla ➖✅✅➖✅  
-• Partidos: Maxa 979 | Tesla 961  
-• Liga: FA Cup  
-• Unibet: 1 2.50 · X 4.00 · 2 2.00 (sin margen 35%/22%/43%) · ventaja +8%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.00 (+8%) · Paf España 2.00 (+8%)  
+• Forma: Bomb1to ➖❌➖➖✅ | Uncle ➖❌➖➖✅  
+• Partidos: Bomb1to 1274 | Uncle 730  
+• Liga: Champions League B  
+• Unibet: 1 2.12 · X 2.85 · 2 3.05 (sin margen 41%/30%/28%) · ventaja +12%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 3.05 (+12%) · Paf España 3.05 (+12%)  
+
+## mko1919 vs Bomb1to — 09/11 · 13:49
+
+👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana Bomb1to** @ **2.00** (Unibet) · prob 63% vs casas 43% · ventaja +26%
+
+- ✅ Valor: ventaja +26% (mín. 15% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 61.771 partidos)  
+Goles esperados: mko1919 2.79 · Bomb1to 3.82  
+Ganador: mko1919 21% · empate 16% · Bomb1to 63%  
+Total: más de 6.5 goles 49% · menos 51%  
+Hándicap Bomb1to: −1.5 42% · −2.5 28%  
+🔎 **Claves**  
+• Forma: mko1919 ➖✅➖❌❌ | Bomb1to ➖❌➖➖✅  
+• Partidos: mko1919 1172 | Bomb1to 1274  
+• Liga: Champions League B  
+• Unibet: 1 2.90 · X 3.25 · 2 2.00 (sin margen 30%/27%/43%) · ventaja +26%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.00 (+25%) · Paf España 2.00 (+25%)  
 

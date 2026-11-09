@@ -1,6 +1,6 @@
 # 🏀 NBA·NCAA · apuestas de valor
 
-Actualizado 09/11/2026 12:51 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 09/11/2026 13:23 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Duke Blue Devils vs Michigan State Spartans — 11/11 · 01:00
 
