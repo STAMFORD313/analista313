@@ -1576,12 +1576,6 @@
   "wta|2026-11-11|Aryna Sabalenka|Mirra Andreeva",
   "wta|2026-11-11|Jessica Pegula|Linda Noskova",
   "wta|2026-11-11|Marta Kostyuk|Coco Gauff",
-  "fc|2362312",
-  "fc|2361947",
-  "fc|2361949",
-  "fc|2361950",
-  "fc|2361948",
-  "fc|2361952",
   "fc|2362700",
   "fc|2362699",
   "cs2|133177",
@@ -2581,7 +2575,10 @@
   "dota2|133686",
   "fc|2371053",
   "fc|2371052",
-  "fc|2371131"
+  "fc|2371131",
+  "fc|2371059",
+  "fc|2371058",
+  "fc|2370242"
  ],
  "signals": [
   {
@@ -3745,31 +3742,6 @@
    "score": "2-1",
    "result": true,
    "close_p": null,
-   "logged": true
-  },
-  {
-   "market": "t2",
-   "team_id": 787,
-   "pick": "Natus Vincere",
-   "odds": 1.29,
-   "book": "Thunderpick",
-   "p": 0.721,
-   "implied": 0.713,
-   "edge": -0.069,
-   "key": "cs2|133052",
-   "match": "PARIVISION vs Natus Vincere",
-   "start": "2026-11-06T06:30:00+00:00",
-   "league": "🎮 CS2 · Intel Extreme Masters Beijing 2026",
-   "sport": "🎮",
-   "context": "CS2 PARIVISION vs Natus Vincere, BO3, torneo Intel Extreme Masters Beijing 2026 nivel s. Elo por mapa 1969 vs 2149 (prob. mapa 34%, serie 27%). Forma ✅❌✅✅❌ / ✅✅❌✅✅ (✅ victoria ❌ derrota). H2H 4: 1-3. Cambios de plantilla: ninguno. Cuotas Thunderpick 3.2/1.29.",
-   "captured": "2026-11-04T22:28",
-   "version": "63985fa",
-   "bajas": "",
-   "considered": true,
-   "placed": false,
-   "score": "1-2",
-   "result": true,
-   "close_p": 0.6973,
    "logged": true
   },
   {
@@ -46236,7 +46208,11 @@
    "version": "d6e600c",
    "bajas": "USC Trojans: sin bajas; Wichita State Shockers: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "93-86",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "sph",
@@ -46257,7 +46233,11 @@
    "version": "d6e600c",
    "bajas": "USC Trojans: sin bajas; Wichita State Shockers: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "93-86",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "home",
@@ -46277,7 +46257,11 @@
    "version": "d6e600c",
    "bajas": "USC Trojans: sin bajas; Wichita State Shockers: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "93-86",
+   "close_p": 0.7124,
+   "logged": true
   },
   {
    "market": "D",
@@ -47482,7 +47466,82 @@
    "captured": "2026-11-09T06:21",
    "version": "2f7ce82",
    "bajas": "",
-   "considered": true
+   "considered": true,
+   "score": "3-6",
+   "result": true,
+   "close_p": null,
+   "logged": true
+  },
+  {
+   "market": "H",
+   "pick": "mko1919",
+   "odds": 5.5,
+   "book": "Unibet",
+   "implied": 0.157,
+   "edge": 0.531,
+   "sin_stake": true,
+   "p": 0.278,
+   "key": "fc|2371059",
+   "match": "mko1919 vs Wboy",
+   "start": "2026-11-09T06:57:00+00:00",
+   "league": "🎮⚽ FC 27 · World Cup A",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 61.478 partidos)",
+    "Goles esperados: mko1919 2.97 · Wboy 3.85",
+    "Ganador: mko1919 28% · empate 17% · Wboy 55%",
+    "Total: más de 6.5 goles 52% · menos 48%",
+    "Hándicap Wboy: −1.5 40% · −2.5 26%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: mko1919 ➖✅➖❌❌ | Wboy ✅➖❌✅❌",
+    "• Partidos: mko1919 1152 | Wboy 1063",
+    "• Liga: World Cup A",
+    "• Unibet: 1 5.50 · X 4.50 · 2 1.33 (sin margen 16%/19%/65%) · ventaja +53%. Sin stake hasta demostrar ROI con estas cuotas.",
+    "• En España: LeoVegas España 5.50 (+53%) · Paf España 5.50 (+53%)"
+   ],
+   "context": "EA FC Esoccer Battle mko1919 vs Wboy (World Cup A): goles esperados 2.97-3.85, 1X2 28%/17%/55%. Sin cuotas de casa.",
+   "captured": "2026-11-09T06:50",
+   "version": "6d7f92f",
+   "bajas": "",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "A",
+   "pick": "Bomb1to",
+   "odds": 2.7,
+   "book": "Unibet",
+   "implied": 0.321,
+   "edge": 0.098,
+   "sin_stake": true,
+   "p": 0.407,
+   "key": "fc|2371058",
+   "match": "Uncle vs Bomb1to",
+   "start": "2026-11-09T06:57:00+00:00",
+   "league": "🎮⚽ FC 27 · World Cup A",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 61.478 partidos)",
+    "Goles esperados: Uncle 2.93 · Bomb1to 2.95",
+    "Ganador: Uncle 40% · empate 20% · Bomb1to 41%",
+    "Total: más de 5.5 goles 53% · menos 47%",
+    "Hándicap Bomb1to: −1.5 27% · −2.5 15%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Uncle ➖➖❌✅✅ | Bomb1to ✅➖✅➖❌",
+    "• Partidos: Uncle 710 | Bomb1to 1254",
+    "• Liga: World Cup A",
+    "• Unibet: 1 2.38 · X 2.75 · 2 2.70 (sin margen 36%/32%/32%) · ventaja +10%. Sin stake hasta demostrar ROI con estas cuotas.",
+    "• En España: LeoVegas España 2.70 (+10%) · Paf España 2.70 (+10%)"
+   ],
+   "context": "EA FC Esoccer Battle Uncle vs Bomb1to (World Cup A): goles esperados 2.93-2.95, 1X2 40%/20%/41%. Sin cuotas de casa.",
+   "captured": "2026-11-09T06:50",
+   "version": "6d7f92f",
+   "bajas": "",
+   "considered": true,
+   "placed": false,
+   "anunciada": true
   }
  ],
  "bank": {
@@ -47945,7 +48004,7 @@
  },
  "scoreboard_id": 156,
  "scoreboard_text": "📊 <b>MARCADOR DEL BOT</b>\n━━━━━━━━━━━━━━━\n🟩 Ganadas: <b>11</b> (37 %)\n🟥 Perdidas: <b>19</b> (63 %)\n⏳ En juego: 0\n\nÚltimas 30:\n🟥🟥🟥🟩🟥🟩🟥🟥🟥🟥🟥🟥🟥🟥🟩🟥🟥🟩🟩🟩🟩🟩🟥🟥🟥🟥🟩🟩🟥🟩\n━━━━━━━━━━━━━━━\n💵 Beneficio -17.17 $ · ROI -30.9 %\n📐 CLV medio +2.5 % (cuota cogida vs cierre)\n💰 Banca: <b>82.83 €</b> (-17.17 € desde 100 €) · libre 82.83 €{\"inline_keyboard\": [[{\"text\": \"\\ud83d\\udcc8 Ver historial completo y fallos\", \"url\": \"https://github.com/STAMFORD313/analista313/blob/main/ESTADISTICAS.md\"}], [{\"text\": \"\\u26bd F\\u00fatbol\", \"callback_data\": \"dep:futbol\"}, {\"text\": \"\\ud83c\\udfc0 NBA\\u00b7NCAA\", \"callback_data\": \"dep:nba\"}, {\"text\": \"\\ud83c\\udfc8 NFL\\u00b7NCAA\", \"callback_data\": \"dep:nfl\"}], [{\"text\": \"\\ud83c\\udfc6 Champions\\u00b7Europa\", \"callback_data\": \"dep:europa\"}, {\"text\": \"\\ud83c\\udfd2 NHL\", \"callback_data\": \"dep:nhl\"}, {\"text\": \"\\u26be MLB\", \"callback_data\": \"dep:mlb\"}], [{\"text\": \"\\ud83e\\udd4a UFC\", \"callback_data\": \"dep:ufc\"}, {\"text\": \"\\ud83c\\udfbe Tenis\", \"callback_data\": \"dep:tenis\"}, {\"text\": \"\\ud83c\\udfae CS2\", \"callback_data\": \"dep:cs2\"}], [{\"text\": \"\\ud83d\\udc09 Dota 2\", \"callback_data\": \"dep:dota2\"}, {\"text\": \"\\ud83e\\uddd9 LoL\", \"callback_data\": \"dep:lol\"}, {\"text\": \"\\ud83d\\udd2b R6 Siege\", \"callback_data\": \"dep:r6\"}], [{\"text\": \"\\ud83d\\udcf1 MLBB\", \"callback_data\": \"dep:mlbb\"}, {\"text\": \"\\ud83c\\udfae\\u26bd FC 27\", \"callback_data\": \"dep:fc\"}]]}",
- "fc_sent": "2026-11-09T02:09:20.507401+00:00",
+ "fc_sent": "2026-11-09T06:50:50.248307+00:00",
  "sgp": {
   "D1|2026-11-06|Hamburg|M'gladbach": {
    "match": "Hamburg vs M'gladbach",
