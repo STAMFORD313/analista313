@@ -1,6 +1,6 @@
 # 🏈 NFL·NCAA · apuestas de valor
 
-Actualizado 09/11/2026 14:53 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 09/11/2026 15:15 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Minnesota Vikings vs Buffalo Bills — 10/11 · 02:15
 

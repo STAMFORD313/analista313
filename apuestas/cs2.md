@@ -1,26 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 09/11/2026 14:53 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Alliance vs FOKUS — 09/11 · 15:00
-
-👀 candidata · 🎮 CS2 · ESL Challenger League Season 52: Europe - Cup 11 · **Gana FOKUS** @ **1.63** (Thunderpick) · prob 59% vs casas 57% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 76.626 partidos)  
-Mapa: Alliance 43% · Serie BO3: Alliance 40% - 60% FOKUS  
-Casas: Alliance 43% · FOKUS 57%  
-🔎 **Claves**  
-• Elo: Alliance 1821 (399 series) | FOKUS 1896 (106 series)  
-• Forma: Alliance ❌❌✅✅✅ | FOKUS ❌✅✅✅✅  
-• H2H: sin precedentes  
-• Torneo: ESL Challenger League Season 52: Europe - Cup 11 (nivel C)  
-• Cambios de plantilla: ninguno  
-🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
-• Alliance gana 2-1: 18% → cuota justa 5.44 · casa 19%  
-• FOKUS gana 2-1: 24% → cuota justa 4.10 · casa 23%  
+Actualizado 09/11/2026 15:15 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Sökerorg vs MOUZ NXT — 09/11 · 15:30
 
@@ -294,4 +274,56 @@ Casas: KUUSAMO 39% · boyband 61%
 🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
 • KUUSAMO gana 2-1: 20% → cuota justa 4.89  
 • boyband gana 2-1: 23% → cuota justa 4.29  
+
+## Legacy vs FURIA — 11/11 · 03:00
+
+👀 candidata · 🎮 CS2 · BLAST Rivals Fall 2026 · **Gana FURIA** @ **1.35** (Thunderpick) · prob 72% vs casas 68% · ventaja -3%
+
+- ❌ Valor: ventaja -3% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 76.636 partidos)  
+Mapa: Legacy 33% · Serie BO3: Legacy 25% - 75% FURIA  
+Casas: Legacy 32% · FURIA 68%  
+🔎 **Claves**  
+• Elo: Legacy 1945 (339 series) | FURIA 2134 (324 series)  
+• Forma: Legacy ✅❌❌❌❌ | FURIA ✅✅✅❌❌  
+• H2H: 8: 5-3  
+• Torneo: BLAST Rivals Fall 2026 (nivel S)  
+• Cambios de plantilla: ninguno  
+• Jugadores en forma (rating últimos 10 mapas): Legacy: latto 6.4, dumau 6.3 | FURIA: molodoy 6.6, KSCERATO 6.0  
+• Mapas (último año): Legacy: fuerte mirage 68%, débil ancient 44% | FURIA: fuerte inferno 68%, débil ancient 37%  
+• Química de la plantilla: Legacy: 100 mapas juntos de media | FURIA: 429 mapas juntos de media  
+🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
+• Legacy gana 2-1: 12% → cuota justa 8.32 · casa 16%  
+• FURIA gana 2-1: 24% → cuota justa 4.09 · casa 28%  
+🔫 **Kills esperados en la serie** (rango 80 %; mejor que la media de sus 10 últimas en 52.297 casos: log-loss 0.682→0.6559; sin cuotas de props, solo referencia)  
+Legacy: try 34 (20-51) · latto 34 (19-50) · ksloks 33 (19-49) · dumau 33 (19-49) · arT 28 (16-41)  
+FURIA: molodoy 38 (22-56) · KSCERATO 37 (21-54) · YEKINDAR 36 (20-52) · yuurih 32 (18-47) · FalleN 29 (16-43)  
+
+## Legacy vs FURIA — 11/11 · 03:00
+
+👀 candidata · 🎮 CS2 · BLAST Rivals Fall 2026 · **FURIA -1.5 mapas** @ **2.30** (Thunderpick) · prob 46% vs casas 40% · ventaja +5%
+
+- ❌ Valor: ventaja +5% (mín. 8% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮 hándicap» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 76.636 partidos)  
+Mapa: Legacy 33% · Serie BO3: Legacy 25% - 75% FURIA  
+Casas: Legacy 32% · FURIA 68%  
+🔎 **Claves**  
+• Elo: Legacy 1945 (339 series) | FURIA 2134 (324 series)  
+• Forma: Legacy ✅❌❌❌❌ | FURIA ✅✅✅❌❌  
+• H2H: 8: 5-3  
+• Torneo: BLAST Rivals Fall 2026 (nivel S)  
+• Cambios de plantilla: ninguno  
+• Jugadores en forma (rating últimos 10 mapas): Legacy: latto 6.4, dumau 6.3 | FURIA: molodoy 6.6, KSCERATO 6.0  
+• Mapas (último año): Legacy: fuerte mirage 68%, débil ancient 44% | FURIA: fuerte inferno 68%, débil ancient 37%  
+• Química de la plantilla: Legacy: 100 mapas juntos de media | FURIA: 429 mapas juntos de media  
+🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
+• Legacy gana 2-1: 12% → cuota justa 8.32 · casa 16%  
+• FURIA gana 2-1: 24% → cuota justa 4.09 · casa 28%  
+🔫 **Kills esperados en la serie** (rango 80 %; mejor que la media de sus 10 últimas en 52.297 casos: log-loss 0.682→0.6559; sin cuotas de props, solo referencia)  
+Legacy: try 34 (20-51) · latto 34 (19-50) · ksloks 33 (19-49) · dumau 33 (19-49) · arT 28 (16-41)  
+FURIA: molodoy 38 (22-56) · KSCERATO 37 (21-54) · YEKINDAR 36 (20-52) · yuurih 32 (18-47) · FalleN 29 (16-43)  
 
