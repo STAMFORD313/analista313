@@ -1,9 +1,9 @@
 {
  "datos_futbol_jugadores": {
-  "ultima": "2026-11-09T03:59:44.140662+00:00",
+  "ultima": "2026-11-09T04:36:43.703565+00:00",
   "ok": true,
-  "segundos": 106,
-  "salida": "ESPN fútbol: 0 partidos nuevos",
+  "segundos": 116,
+  "salida": "ESPN fútbol: 1 partidos nuevos",
   "tarea": "ESPN fútbol: alineaciones, jugadores, porteros y árbitro de 18 competiciones"
  },
  "datos_nba_nhl": {
@@ -14,28 +14,28 @@
   "tarea": "ESPN NBA/NHL: boxscores con puntos, rebotes, asistencias, triples y tiros por jugador"
  },
  "sondeo_esports": {
-  "ultima": "2026-11-08T16:27:39.921029+00:00",
+  "ultima": "2026-11-09T04:36:43.703565+00:00",
   "ok": true,
-  "segundos": 4,
-  "salida": "  \"E",
+  "segundos": 5,
+  "salida": "  \"Esports / CS2 / Svenska Cupen\": 1",
   "tarea": "Disciplinas nuevas de bo3.gg y esports con cuota en Unibet"
  },
  "props_futbol": {
-  "ultima": "2026-11-09T03:59:44.140662+00:00",
+  "ultima": "2026-11-09T04:36:43.703565+00:00",
   "ok": true,
-  "segundos": 329,
+  "segundos": 285,
   "salida": "  To score at least 3 goals (192): real 1% · casa 3% · modelo 0% · con ventaja 1: ROI -100%",
   "tarea": "Props de jugador de fútbol: backtest y liquidación de las cuotas de Unibet"
  },
  "props_nba": {
-  "ultima": "2026-11-09T03:59:44.140662+00:00",
+  "ultima": "2026-11-09T04:36:43.703565+00:00",
   "ok": true,
   "segundos": 3,
   "salida": "  triples (24): log-loss modelo 0.716 vs casa 0.730 · con ventaja 8: ROI +18%",
   "tarea": "Props de jugador NBA: liquida las cuotas de Unibet y mide el modelo contra la casa"
  },
  "estrategias": {
-  "ultima": "2026-11-09T03:59:44.140662+00:00",
+  "ultima": "2026-11-09T04:36:43.703565+00:00",
   "ok": true,
   "segundos": 1,
   "salida": "  {'segmento': 'deporte=🏈 · mercado=ganador', 'n': 76, 'roi': -0.303, 'se': 0.0895, 'roi_antigua': 0.063, 'roi_nueva': -0.3857, 'clv': -0.0395, 'clv_se': 0.0091, 'clv_n': 67}",
@@ -56,9 +56,9 @@
   "tarea": "Elo por mapa/serie de CS2, Dota 2, LoL, R6 y MLBB"
  },
  "entrena_fc27": {
-  "ultima": "2026-11-09T03:59:44.140662+00:00",
+  "ultima": "2026-11-09T04:36:43.703565+00:00",
   "ok": true,
-  "segundos": 266,
+  "segundos": 286,
   "salida": "  guardado fam",
   "tarea": "Modelo y recalibración de FC 27"
  },
@@ -91,38 +91,38 @@
   "tarea": "Correlación ganador-total de NBA/NFL/NHL"
  },
  "juez_nfl": {
-  "ultima": "2026-11-09T03:59:44.140662+00:00",
+  "ultima": "2026-11-09T04:36:43.703565+00:00",
   "ok": true,
   "segundos": 7,
   "salida": "  ROI 2020+ con ventaja ≥ 8%: -11.4% ± 18.2% en 79",
   "tarea": "NFL con nflverse (cuotas de cierre y QB desde 1999): ¿bate Elo + QB a la casa?"
  },
  "datos_pinnacle": {
-  "ultima": "2026-11-09T03:59:44.140662+00:00",
+  "ultima": "2026-11-09T04:36:43.703565+00:00",
   "ok": true,
-  "segundos": 2,
-  "salida": "Pinnacle: 1017 mercados",
+  "segundos": 3,
+  "salida": "Pinnacle: 1026 mercados",
   "tarea": "Pinnacle: cuotas de cierre de la casa más afinada (fútbol, NBA, NHL, esports, NFL, tenis)"
  },
  "datos_futbol_faltas": {
-  "ultima": "2026-11-09T03:59:44.140662+00:00",
+  "ultima": "2026-11-09T04:36:43.703565+00:00",
   "ok": true,
   "segundos": 4,
   "salida": "ESPN fútbol: 0 partidos rellenados con faltas recibidas",
   "tarea": "ESPN fútbol: rellena las faltas recibidas por jugador de los partidos ya guardados"
  },
  "datos_opendota": {
-  "ultima": "2026-11-09T03:59:44.140662+00:00",
+  "ultima": "2026-11-09T04:36:43.703565+00:00",
   "ok": true,
   "segundos": 3,
   "salida": "  d = pd.read_csv(OD_FILE) if OD_FILE.exists() else pd.DataFrame(columns=OD_COLS)",
   "tarea": "OpenDota: partidas profesionales de Dota 2 (nuevas e historial)"
  },
  "datos_fotmob": {
-  "ultima": "2026-11-09T03:59:44.140662+00:00",
+  "ultima": "2026-11-09T04:36:43.703565+00:00",
   "ok": true,
-  "segundos": 3,
-  "salida": "FotMob: 0 partidos nuevos, 41523 guardados",
+  "segundos": 6,
+  "salida": "FotMob: 1 partidos nuevos, 41524 guardados",
   "tarea": "FotMob: estadísticas por partido con xG, ocasiones, tiros y físico (~30 ligas, nuevas e historial)"
  },
  "laboratorio": {
