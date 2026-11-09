@@ -1831,5 +1831,49 @@
   "estado": "perdida",
   "avisada": true,
   "rev": 2
+ },
+ {
+  "id": "20261109234940730744",
+  "creada": "2026-11-09 23:49:40.730779+00:00",
+  "titulo": "Barrido · Combinada cuota 12.4",
+  "legs": [
+   {
+    "src": "espn:nba",
+    "side": "A",
+    "code": null,
+    "start": "2026-11-10 00:00:00+00:00",
+    "home": "Atlanta Hawks",
+    "away": "Los Angeles Lakers",
+    "txt": "Gana Los Angeles Lakers",
+    "odds": 2.21,
+    "p": 0.48563999999999996
+   },
+   {
+    "src": "espn:nba",
+    "side": "H",
+    "code": null,
+    "start": "2026-11-10 00:30:00+00:00",
+    "home": "Toronto Raptors",
+    "away": "Memphis Grizzlies",
+    "txt": "Gana Toronto Raptors",
+    "odds": 2.14,
+    "p": 0.58601
+   },
+   {
+    "code": null,
+    "start": "2026-11-10 19:45:00+00:00",
+    "home": "Rushall Olympic",
+    "away": "Halesowen Town",
+    "txt": "Gana Rushall Olympic",
+    "odds": 2.63,
+    "p": 0.4121
+   }
+  ],
+  "odds": 12.44,
+  "p": 0.11727949630644,
+  "stake": 1.0,
+  "estado": "pendiente",
+  "avisada": false,
+  "rev": 1
  }
 ]
