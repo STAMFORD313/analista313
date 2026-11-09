@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 09/11/2026 22:20 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 09/11/2026 22:47 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## KUUSAMO vs boyband — 10/11 · 19:00
 
@@ -125,4 +125,56 @@ Casas: Spirit 72% · FUT 28%
 🔫 **Kills esperados en la serie** (rango 80 %; mejor que la media de sus 10 últimas en 52.297 casos: log-loss 0.682→0.6559; sin cuotas de props, solo referencia)  
 Spirit: donk 45 (27-66) · sh1ro 38 (22-56) · tN1R 35 (20-52) · zont1x 32 (18-47) · magixx 30 (17-45)  
 FUT: dem0n 35 (20-51) · Krabeni 34 (20-51) · xfl0ud 34 (20-50) · SunPayus 34 (19-50) · dziugss 33 (19-49)  
+
+## MOUZ vs G2 — 11/11 · 10:30
+
+👀 candidata · 🎮 CS2 · BLAST Rivals Fall 2026 · **Gana MOUZ** @ **1.22** (Thunderpick) · prob 78% vs casas 76% · ventaja -5%
+
+- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 76.666 partidos)  
+Mapa: MOUZ 75% · Serie BO3: MOUZ 81% - 19% G2  
+Casas: MOUZ 76% · G2 24%  
+🔎 **Claves**  
+• Elo: MOUZ 2260 (297 series) | G2 1971 (313 series)  
+• Forma: MOUZ ✅✅✅✅✅ | G2 ❌❌❌❌❌  
+• H2H: 18: 12-6  
+• Torneo: BLAST Rivals Fall 2026 (nivel S)  
+• Cambios de plantilla: ninguno  
+• Jugadores en forma (rating últimos 10 mapas): MOUZ: xertioN 6.7, torzsi 6.7 | G2: HeavyGod 6.2, MATYS 5.9  
+• Mapas (último año): MOUZ: fuerte overpass 86%, débil cache 44% | G2: fuerte overpass 62%, débil cache 20%  
+• Química de la plantilla: MOUZ: 199 mapas juntos de media | G2: 154 mapas juntos de media  
+🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
+• MOUZ gana 2-1: 21% → cuota justa 4.70 · casa 27%  
+• G2 gana 2-1: 7% → cuota justa 13.89 · casa 11%  
+🔫 **Kills esperados en la serie** (rango 80 %; mejor que la media de sus 10 últimas en 52.297 casos: log-loss 0.682→0.6559; sin cuotas de props, solo referencia)  
+MOUZ: Spinx 36 (20-52) · xertioN 36 (20-52) · torzsi 35 (20-52) · xelex 35 (20-52) · PR 34 (20-51)  
+G2: Nertz 31 (18-46) · HeavyGod 30 (17-45) · r1nkle 30 (17-45) · MATYS 30 (17-44) · huNter- 28 (16-42)  
+
+## MOUZ vs G2 — 11/11 · 10:30
+
+👀 candidata · 🎮 CS2 · BLAST Rivals Fall 2026 · **MOUZ -1.5 mapas** @ **1.90** (Thunderpick) · prob 56% vs casas 49% · ventaja +7%
+
+- ❌ Valor: ventaja +7% (mín. 9% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮 hándicap» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 76.666 partidos)  
+Mapa: MOUZ 75% · Serie BO3: MOUZ 81% - 19% G2  
+Casas: MOUZ 76% · G2 24%  
+🔎 **Claves**  
+• Elo: MOUZ 2260 (297 series) | G2 1971 (313 series)  
+• Forma: MOUZ ✅✅✅✅✅ | G2 ❌❌❌❌❌  
+• H2H: 18: 12-6  
+• Torneo: BLAST Rivals Fall 2026 (nivel S)  
+• Cambios de plantilla: ninguno  
+• Jugadores en forma (rating últimos 10 mapas): MOUZ: xertioN 6.7, torzsi 6.7 | G2: HeavyGod 6.2, MATYS 5.9  
+• Mapas (último año): MOUZ: fuerte overpass 86%, débil cache 44% | G2: fuerte overpass 62%, débil cache 20%  
+• Química de la plantilla: MOUZ: 199 mapas juntos de media | G2: 154 mapas juntos de media  
+🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
+• MOUZ gana 2-1: 21% → cuota justa 4.70 · casa 27%  
+• G2 gana 2-1: 7% → cuota justa 13.89 · casa 11%  
+🔫 **Kills esperados en la serie** (rango 80 %; mejor que la media de sus 10 últimas en 52.297 casos: log-loss 0.682→0.6559; sin cuotas de props, solo referencia)  
+MOUZ: Spinx 36 (20-52) · xertioN 36 (20-52) · torzsi 35 (20-52) · xelex 35 (20-52) · PR 34 (20-51)  
+G2: Nertz 31 (18-46) · HeavyGod 30 (17-45) · r1nkle 30 (17-45) · MATYS 30 (17-44) · huNter- 28 (16-42)  
 
