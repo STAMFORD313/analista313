@@ -1,25 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 09/11/2026 17:24 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## saportj vs Shinobu — 09/11 · 17:26
-
-👀 candidata · 🎮⚽ FC 27 · A-League · **Empate** @ **5.00** (Unibet) · prob 22% vs casas 18% · ventaja +10%
-
-- ❌ Valor: ventaja +10% (mín. 10% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 61.998 partidos)  
-Goles esperados: saportj 2.59 · Shinobu 2.20  
-Ganador: saportj 47% · empate 22% · Shinobu 31%  
-Total: más de 4.5 goles 52% · menos 48%  
-Hándicap saportj: −1.5 30% · −2.5 16%  
-🔎 **Claves**  
-• Forma: saportj ❌➖❌✅➖ | Shinobu ❌✅✅✅✅  
-• Partidos: saportj 754 | Shinobu 1342  
-• Liga: A-League  
-• Unibet: 1 1.58 · X 5.00 · 2 3.30 (sin margen 56%/18%/27%) · ventaja +10%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 5.00 (+10%) · Paf España 5.00 (+10%)  
+Actualizado 09/11/2026 17:53 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Animal vs chevare — 09/11 · 18:02
 
@@ -39,4 +20,42 @@ Hándicap Animal: −1.5 31% · −2.5 20%
 • Liga: Super Lig  
 • Unibet: 1 1.82 · X 4.00 · 2 2.88 (sin margen 48%/22%/30%) · ventaja +11%. Sin stake hasta demostrar ROI con estas cuotas.  
 • En España: LeoVegas España 2.88 (+11%) · Paf España 2.88 (+11%)  
+
+## Buu vs Piljar — 09/11 · 18:08
+
+👀 candidata · 🎮⚽ FC 27 · Champions League B 2x6 · **Gana Buu** @ **4.10** (Unibet) · prob 27% vs casas 21% · ventaja +9%
+
+- ❌ Valor: ventaja +9% (mín. 11% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 62.022 partidos)  
+Goles esperados: Buu 4.20 · Piljar 5.39  
+Ganador: Buu 27% · empate 14% · Piljar 60%  
+Total: más de 9.5 goles 49% · menos 51%  
+Hándicap Piljar: −1.5 46% · −2.5 33%  
+🔎 **Claves**  
+• Forma: Buu ✅❌❌❌❌ | Piljar ✅❌✅❌✅  
+• Partidos: Buu 731 | Piljar 437  
+• Liga: Champions League B 2x6  
+• Unibet: 1 4.10 · X 8.00 · 2 1.28 (sin margen 21%/11%/68%) · ventaja +9%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 4.10 (+9%) · Paf España 4.10 (+9%)  
+
+## Sena vs DEKSON — 09/11 · 18:11
+
+👀 candidata · 🎮⚽ FC 27 · Champions League A · **Empate** @ **5.00** (Unibet) · prob 22% vs casas 18% · ventaja +12%
+
+- ✅ Valor: ventaja +12% (mín. 11% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 62.022 partidos)  
+Goles esperados: Sena 2.47 · DEKSON 2.26  
+Ganador: Sena 42% · empate 22% · DEKSON 36%  
+Total: más de 4.5 goles 51% · menos 49%  
+Hándicap Sena: −1.5 27% · −2.5 14%  
+🔎 **Claves**  
+• Forma: Sena ❌➖❌✅✅ | DEKSON ❌❌❌✅❌  
+• Partidos: Sena 633 | DEKSON 514  
+• Liga: Champions League A  
+• Unibet: 1 2.08 · X 5.00 · 2 2.15 (sin margen 42%/17%/41%) · ventaja +12%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 5.00 (+12%) · Paf España 5.00 (+12%)  
 
