@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 09/11/2026 01:08 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 09/11/2026 01:38 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Alliance vs FOKUS — 09/11 · 15:00
 
@@ -61,6 +61,23 @@ Casas: HAVU 84% · BOJONG 16%
 🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
 • HAVU gana 2-1: 23% → cuota justa 4.30  
 • BOJONG gana 2-1: 10% → cuota justa 10.38  
+
+## SINQU vs ROUNDS — 09/11 · 17:00
+
+👀 candidata · 🎮 CS2 · ESEA Season 59: Advanced Division - Europe · **Gana ROUNDS** @ **1.77** (Thunderpick) · prob 57% vs casas 52% · ventaja +1%
+
+- ❌ Valor: ventaja +1% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 76.632 partidos)  
+Mapa: SINQU 38% · Serie BO1: SINQU 38% - 62% ROUNDS  
+Casas: SINQU 48% · ROUNDS 52%  
+🔎 **Claves**  
+• Elo: SINQU 1323 (68 series) | ROUNDS 1407 (181 series)  
+• Forma: SINQU ❌❌❌❌❌ | ROUNDS ✅❌❌❌✅  
+• H2H: sin precedentes  
+• Torneo: ESEA Season 59: Advanced Division - Europe (nivel C)  
+• Cambios de plantilla: ninguno  
 
 ## STATE vs MASQ — 09/11 · 18:00
 

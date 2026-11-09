@@ -229,29 +229,29 @@ fecha,partido,tipo,piernas,p,acierto,piernas_acertadas,p_piernas,cuota,ventaja,s
 2026-11-08,Heerenveen vs Feyenoord,corta,3,0.4389,0,2,0.755,,,0,,Menos de 11.5 faltas de Feyenoord + Más de 4.5 tiros a puerta de Feyenoord + Menos de 5.5 córners de Heerenveen,101
 2026-11-08,Heerenveen vs Feyenoord,larga,5,0.1897,0,4,0.6945,,,0,,Menos de 11.5 faltas de Feyenoord + Más de 4.5 tiros a puerta de Feyenoord + Menos de 5.5 córners de Heerenveen + Menos de 3.5 tarjetas + Más de 2.5 goles,10111
 2026-11-08,Heerenveen vs Feyenoord,valor,2,0.4298,1,2,0.6531,1.88,-0.192,0,,Menos de 5.5 córners de Heerenveen + Menos de 3.5 tarjetas,11
-2026-11-08,Napoli vs Lazio,corta,3,0.3326,0,1,0.6889,3.79,0.261,1,-1.0,Menos de 4.5 tiros a puerta de Lazio + Menos de 4.5 córners de Lazio + Menos de 2.5 tarjetas de Lazio,001
-2026-11-08,Napoli vs Lazio,larga,5,0.1422,0,3,0.6564,,,0,,Menos de 4.5 tiros a puerta de Lazio + Menos de 4.5 córners de Lazio + Menos de 2.5 tarjetas de Lazio + Menos de 11.5 faltas de Lazio + Menos de 2.5 goles,00111
-2026-11-08,Napoli vs Lazio,valor,3,0.3303,0,1,0.6643,4.95,0.634,1,-1.0,Menos de 4.5 tiros a puerta de Lazio + Menos de 4.5 córners de Lazio + Menos de 2.5 goles,001
-2026-11-08,Club Brugge vs Anderlecht,corta,3,0.4373,0,2,0.7517,,,0,,Menos de 10.5 faltas de Club Brugge + Más de 5.5 tiros a puerta de Club Brugge + Menos de 4.5 córners de Anderlecht,011
-2026-11-08,Club Brugge vs Anderlecht,larga,5,0.2049,0,2,0.7055,,,0,,Menos de 10.5 faltas de Club Brugge + Más de 5.5 tiros a puerta de Club Brugge + Menos de 4.5 córners de Anderlecht + Más de 2.5 goles + Menos de 1.5 tarjetas de Club Brugge,01100
+2026-11-08,Napoli vs Lazio,corta,3,0.3326,0,1,0.6889,3.79,0.261,1,-1.0,Menos de 4.5 tiros a puerta de Lazio + Menos de 4.5 córners de Lazio + Menos de 2.5 tarjetas de Lazio,1
+2026-11-08,Napoli vs Lazio,larga,5,0.1422,0,3,0.6564,,,0,,Menos de 4.5 tiros a puerta de Lazio + Menos de 4.5 córners de Lazio + Menos de 2.5 tarjetas de Lazio + Menos de 11.5 faltas de Lazio + Menos de 2.5 goles,111
+2026-11-08,Napoli vs Lazio,valor,3,0.3303,0,1,0.6643,4.95,0.634,1,-1.0,Menos de 4.5 tiros a puerta de Lazio + Menos de 4.5 córners de Lazio + Menos de 2.5 goles,1
+2026-11-08,Club Brugge vs Anderlecht,corta,3,0.4373,0,2,0.7517,,,0,,Menos de 10.5 faltas de Club Brugge + Más de 5.5 tiros a puerta de Club Brugge + Menos de 4.5 córners de Anderlecht,11
+2026-11-08,Club Brugge vs Anderlecht,larga,5,0.2049,0,2,0.7055,,,0,,Menos de 10.5 faltas de Club Brugge + Más de 5.5 tiros a puerta de Club Brugge + Menos de 4.5 córners de Anderlecht + Más de 2.5 goles + Menos de 1.5 tarjetas de Club Brugge,1100
 2026-11-08,Club Brugge vs Anderlecht,valor,2,0.4872,0,1,0.6928,2.98,0.452,1,-1.0,Más de 5.5 tiros a puerta de Club Brugge + Menos de 1.5 tarjetas de Club Brugge,10
 2026-11-08,Bochum vs Karlsruhe,corta,3,0.3157,1,3,0.6778,,,0,,Menos de 5.5 córners de Karlsruhe + Menos de 12.5 faltas de Karlsruhe + Menos de 2.5 tarjetas de Bochum,111
 2026-11-08,Bochum vs Karlsruhe,larga,5,0.1116,1,5,0.6502,,,0,,Menos de 5.5 córners de Karlsruhe + Menos de 12.5 faltas de Karlsruhe + Menos de 2.5 tarjetas de Bochum + Menos de 4.5 tiros a puerta de Karlsruhe + Más de 2.5 goles,11111
 2026-11-08,Bochum vs Karlsruhe,valor,2,0.3873,1,2,0.6224,2.16,-0.164,0,,Menos de 5.5 córners de Karlsruhe + Más de 2.5 goles,11
 2026-11-08,Heidenheim vs Hannover,corta,3,0.3557,0,2,0.7069,,,0,,Menos de 12.5 faltas de Hannover + Menos de 2.5 tarjetas de Heidenheim + Menos de 5.5 córners de Hannover,110
 2026-11-08,Heidenheim vs Hannover,larga,5,0.1044,0,3,0.6483,,,0,,Menos de 12.5 faltas de Hannover + Menos de 2.5 tarjetas de Heidenheim + Menos de 5.5 córners de Hannover + Más de 2.5 goles + Menos de 4.5 tiros a puerta de Hannover,11010
-2026-11-08,Heidenheim vs Hannover,valor,2,0.3838,0,1,0.6186,2.24,-0.139,0,,Menos de 5.5 córners de Hannover + Más de 2.5 goles,01
-2026-11-08,Magdeburg vs St Pauli,corta,3,0.2948,0,2,0.6482,,,0,,Menos de 5.5 córners de St Pauli + Menos de 11.5 faltas de Magdeburg + Menos de 2.5 tarjetas de Magdeburg,011
-2026-11-08,Magdeburg vs St Pauli,larga,5,0.0814,0,3,0.6313,,,0,,Menos de 5.5 córners de St Pauli + Menos de 11.5 faltas de Magdeburg + Menos de 2.5 tarjetas de Magdeburg + Menos de 5.5 tiros a puerta de Magdeburg + Más de 2.5 goles,01101
-2026-11-08,Magdeburg vs St Pauli,valor,2,0.4085,0,1,0.6373,2.27,-0.072,0,,Menos de 5.5 córners de St Pauli + Más de 2.5 goles,01
+2026-11-08,Heidenheim vs Hannover,valor,2,0.3838,0,1,0.6186,2.24,-0.139,0,,Menos de 5.5 córners de Hannover + Más de 2.5 goles,1
+2026-11-08,Magdeburg vs St Pauli,corta,3,0.2948,0,2,0.6482,,,0,,Menos de 5.5 córners de St Pauli + Menos de 11.5 faltas de Magdeburg + Menos de 2.5 tarjetas de Magdeburg,11
+2026-11-08,Magdeburg vs St Pauli,larga,5,0.0814,0,3,0.6313,,,0,,Menos de 5.5 córners de St Pauli + Menos de 11.5 faltas de Magdeburg + Menos de 2.5 tarjetas de Magdeburg + Menos de 5.5 tiros a puerta de Magdeburg + Más de 2.5 goles,1101
+2026-11-08,Magdeburg vs St Pauli,valor,2,0.4085,0,1,0.6373,2.27,-0.072,0,,Menos de 5.5 córners de St Pauli + Más de 2.5 goles,1
 2026-11-08,Elche vs Betis,corta,3,0.2909,0,2,0.6439,,,0,,Menos de 12.5 faltas de Betis + Menos de 2.5 tarjetas de Betis + Menos de 10.5 córners,110
 2026-11-08,Elche vs Betis,valor,2,0.4088,0,1,0.6395,2.13,-0.131,0,,Menos de 2.5 tarjetas de Betis + Menos de 10.5 córners,10
-2026-11-08,Corum vs Fenerbahce,corta,3,0.4404,0,1,0.7522,,,0,,Menos de 5.5 tiros a puerta de Corum + Menos de 13.5 faltas de Fenerbahce + Menos de 5.5 córners de Corum,010
-2026-11-08,Corum vs Fenerbahce,larga,5,0.1627,0,3,0.6878,,,0,,Menos de 5.5 tiros a puerta de Corum + Menos de 13.5 faltas de Fenerbahce + Menos de 5.5 córners de Corum + Menos de 2.5 tarjetas de Fenerbahce + Más de 2.5 goles,01011
-2026-11-08,Corum vs Fenerbahce,valor,2,0.4156,0,1,0.6473,2.04,-0.153,0,,Menos de 5.5 córners de Corum + Más de 2.5 goles,01
+2026-11-08,Corum vs Fenerbahce,corta,3,0.4404,0,1,0.7522,,,0,,Menos de 5.5 tiros a puerta de Corum + Menos de 13.5 faltas de Fenerbahce + Menos de 5.5 córners de Corum,10
+2026-11-08,Corum vs Fenerbahce,larga,5,0.1627,0,3,0.6878,,,0,,Menos de 5.5 tiros a puerta de Corum + Menos de 13.5 faltas de Fenerbahce + Menos de 5.5 córners de Corum + Menos de 2.5 tarjetas de Fenerbahce + Más de 2.5 goles,1011
+2026-11-08,Corum vs Fenerbahce,valor,2,0.4156,0,1,0.6473,2.04,-0.153,0,,Menos de 5.5 córners de Corum + Más de 2.5 goles,1
 2026-11-08,Twente vs Ajax,corta,2,0.4994,0,1,0.699,,,0,,Menos de 11.5 faltas de Ajax + Menos de 1.5 tarjetas de Twente,10
 2026-11-08,Twente vs Ajax,larga,5,0.1213,0,3,0.6212,,,0,,Menos de 11.5 faltas de Ajax + Menos de 1.5 tarjetas de Twente + Menos de 4.5 córners de Ajax + Más de 2.5 goles + Más de 5.5 tiros a puerta de Twente,10110
-2026-11-08,Twente vs Ajax,valor,3,0.2374,0,1,0.5993,4.73,0.122,1,-1.0,Menos de 1.5 tarjetas de Twente + Menos de 4.5 córners de Ajax + Más de 5.5 tiros a puerta de Twente,010
+2026-11-08,Twente vs Ajax,valor,3,0.2374,0,1,0.5993,4.73,0.122,1,-1.0,Menos de 1.5 tarjetas de Twente + Menos de 4.5 córners de Ajax + Más de 5.5 tiros a puerta de Twente,10
 2026-11-08,Brighton vs Brentford,corta,3,0.4068,0,2,0.7292,,,0,,Menos de 4.5 tiros a puerta de Brentford + Menos de 11.5 faltas de Brighton + Menos de 2.5 tarjetas de Brighton,110
 2026-11-08,Brighton vs Brentford,larga,4,0.2702,0,3,0.704,,,0,,Menos de 4.5 tiros a puerta de Brentford + Menos de 11.5 faltas de Brighton + Menos de 2.5 tarjetas de Brighton + Menos de 4.5 córners de Brentford,1101
 2026-11-08,Brighton vs Brentford,valor,2,0.4898,1,2,0.6813,2.08,0.02,0,,Menos de 4.5 tiros a puerta de Brentford + Menos de 4.5 córners de Brentford,11
@@ -264,31 +264,31 @@ fecha,partido,tipo,piernas,p,acierto,piernas_acertadas,p_piernas,cuota,ventaja,s
 2026-11-08,Sunderland vs Chelsea,corta,3,0.299,0,2,0.6602,3.08,-0.079,0,,Menos de 5.5 córners de Sunderland + Menos de 4.5 tiros a puerta de Sunderland + Menos de 2.5 tarjetas de Sunderland,110
 2026-11-08,Sunderland vs Chelsea,larga,5,0.105,0,4,0.6223,,,0,,Menos de 5.5 córners de Sunderland + Menos de 4.5 tiros a puerta de Sunderland + Menos de 2.5 tarjetas de Sunderland + Más de 22.5 faltas + Menos de 2.5 goles,11011
 2026-11-08,Sunderland vs Chelsea,valor,3,0.3031,1,3,0.6316,3.89,0.179,1,2.89,Menos de 5.5 córners de Sunderland + Menos de 4.5 tiros a puerta de Sunderland + Menos de 2.5 goles,111
-2026-11-08,Genoa vs Milan,corta,3,0.3536,0,2,0.7006,2.61,-0.077,0,,Menos de 4.5 tiros a puerta de Genoa + Menos de 5.5 córners de Genoa + Más de 3.5 tarjetas,011
-2026-11-08,Genoa vs Milan,larga,4,0.1698,0,2,0.6663,,,0,,Menos de 4.5 tiros a puerta de Genoa + Menos de 5.5 córners de Genoa + Más de 3.5 tarjetas + Menos de 11.5 faltas de Genoa,0110
-2026-11-08,Genoa vs Milan,valor,2,0.4553,0,1,0.6775,2.11,-0.04,0,,Menos de 4.5 tiros a puerta de Genoa + Más de 3.5 tarjetas,01
-2026-11-08,Monza vs Atalanta,corta,3,0.3663,0,2,0.7134,,,0,,Menos de 5.5 córners de Monza + Menos de 11.5 faltas de Monza + Menos de 2.5 tarjetas de Atalanta,011
-2026-11-08,Monza vs Atalanta,larga,4,0.2162,0,2,0.6815,,,0,,Menos de 5.5 córners de Monza + Menos de 11.5 faltas de Monza + Menos de 2.5 tarjetas de Atalanta + Más de 2.5 goles,0110
-2026-11-08,Monza vs Atalanta,valor,2,0.4241,0,0,0.6542,2.22,-0.059,0,,Menos de 5.5 córners de Monza + Más de 2.5 goles,00
+2026-11-08,Genoa vs Milan,corta,3,0.3536,0,2,0.7006,2.61,-0.077,0,,Menos de 4.5 tiros a puerta de Genoa + Menos de 5.5 córners de Genoa + Más de 3.5 tarjetas,11
+2026-11-08,Genoa vs Milan,larga,4,0.1698,0,2,0.6663,,,0,,Menos de 4.5 tiros a puerta de Genoa + Menos de 5.5 córners de Genoa + Más de 3.5 tarjetas + Menos de 11.5 faltas de Genoa,110
+2026-11-08,Genoa vs Milan,valor,2,0.4553,0,1,0.6775,2.11,-0.04,0,,Menos de 4.5 tiros a puerta de Genoa + Más de 3.5 tarjetas,1
+2026-11-08,Monza vs Atalanta,corta,3,0.3663,0,2,0.7134,,,0,,Menos de 5.5 córners de Monza + Menos de 11.5 faltas de Monza + Menos de 2.5 tarjetas de Atalanta,11
+2026-11-08,Monza vs Atalanta,larga,4,0.2162,0,2,0.6815,,,0,,Menos de 5.5 córners de Monza + Menos de 11.5 faltas de Monza + Menos de 2.5 tarjetas de Atalanta + Más de 2.5 goles,110
+2026-11-08,Monza vs Atalanta,valor,2,0.4241,0,0,0.6542,2.22,-0.059,0,,Menos de 5.5 córners de Monza + Más de 2.5 goles,0
 2026-11-08,Virtus Entella vs Modena,corta,3,0.3278,1,3,0.6693,,,0,,Menos de 5.5 tiros a puerta de Virtus Entella + Menos de 5.5 córners de Virtus Entella + Más de 27.5 faltas,111
 2026-11-08,Virtus Entella vs Modena,larga,5,0.109,1,5,0.6317,,,0,,Menos de 5.5 tiros a puerta de Virtus Entella + Menos de 5.5 córners de Virtus Entella + Más de 27.5 faltas + Menos de 2.5 goles + Menos de 2.5 tarjetas de Modena,11111
 2026-11-08,Virtus Entella vs Modena,valor,2,0.3696,1,2,0.6091,2.53,-0.064,0,,Menos de 5.5 córners de Virtus Entella + Menos de 2.5 goles,11
-2026-11-08,Gent vs Kortrijk,corta,3,0.3626,0,2,0.7087,,,0,,Menos de 4.5 tiros a puerta de Kortrijk + Menos de 4.5 córners de Kortrijk + Menos de 10.5 faltas de Gent,011
-2026-11-08,Gent vs Kortrijk,larga,4,0.2071,0,3,0.6746,,,0,,Menos de 4.5 tiros a puerta de Kortrijk + Menos de 4.5 córners de Kortrijk + Menos de 10.5 faltas de Gent + Menos de 2.5 tarjetas de Kortrijk,0111
+2026-11-08,Gent vs Kortrijk,corta,3,0.3626,0,2,0.7087,,,0,,Menos de 4.5 tiros a puerta de Kortrijk + Menos de 4.5 córners de Kortrijk + Menos de 10.5 faltas de Gent,11
+2026-11-08,Gent vs Kortrijk,larga,4,0.2071,0,3,0.6746,,,0,,Menos de 4.5 tiros a puerta de Kortrijk + Menos de 4.5 córners de Kortrijk + Menos de 10.5 faltas de Gent + Menos de 2.5 tarjetas de Kortrijk,111
 2026-11-08,Gent vs Kortrijk,valor,2,0.3891,1,2,0.6333,2.16,-0.159,0,,Menos de 4.5 córners de Kortrijk + Menos de 2.5 tarjetas de Kortrijk,11
-2026-11-08,AEK vs Levadeiakos,corta,3,0.4839,0,2,0.7873,,,0,,Menos de 4.5 córners de Levadeiakos + Menos de 3.5 tiros a puerta de Levadeiakos + Menos de 15.5 faltas de Levadeiakos,011
-2026-11-08,AEK vs Levadeiakos,larga,4,0.323,0,2,0.7514,,,0,,Menos de 4.5 córners de Levadeiakos + Menos de 3.5 tiros a puerta de Levadeiakos + Menos de 15.5 faltas de Levadeiakos + Menos de 2.5 tarjetas de AEK,0110
+2026-11-08,AEK vs Levadeiakos,corta,3,0.4839,0,2,0.7873,,,0,,Menos de 4.5 córners de Levadeiakos + Menos de 3.5 tiros a puerta de Levadeiakos + Menos de 15.5 faltas de Levadeiakos,11
+2026-11-08,AEK vs Levadeiakos,larga,4,0.323,0,2,0.7514,,,0,,Menos de 4.5 córners de Levadeiakos + Menos de 3.5 tiros a puerta de Levadeiakos + Menos de 15.5 faltas de Levadeiakos + Menos de 2.5 tarjetas de AEK,110
 2026-11-08,Asteras Tripolis vs Kalamata,corta,3,0.3412,1,3,0.6853,,,0,,Menos de 15.5 faltas de Kalamata + Menos de 4.5 córners de Kalamata + Menos de 3.5 tarjetas de Kalamata,111
 2026-11-08,Sociedad vs Vallecano,corta,3,0.3153,0,2,0.6678,3.5,0.104,1,-1.0,Menos de 4.5 tiros a puerta de Vallecano + Menos de 4.5 córners de Vallecano + Menos de 2.5 tarjetas de Sociedad,101
 2026-11-08,Sociedad vs Vallecano,larga,5,0.1151,0,3,0.6284,,,0,,Menos de 4.5 tiros a puerta de Vallecano + Menos de 4.5 córners de Vallecano + Menos de 2.5 tarjetas de Sociedad + Más de 12.5 faltas de Vallecano + Menos de 2.5 goles,10101
 2026-11-08,Sociedad vs Vallecano,valor,3,0.3143,0,2,0.6518,5.31,0.67,1,-1.0,Menos de 4.5 tiros a puerta de Vallecano + Menos de 4.5 córners de Vallecano + Menos de 2.5 goles,101
 2026-11-08,Girona vs Almeria,corta,3,0.3113,0,2,0.6701,,,0,,Menos de 4.5 córners de Almeria + Menos de 4.5 tiros a puerta de Almeria + Menos de 13.5 faltas de Girona,110
 2026-11-08,Girona vs Almeria,larga,4,0.1921,0,3,0.6578,,,0,,Menos de 4.5 córners de Almeria + Menos de 4.5 tiros a puerta de Almeria + Menos de 13.5 faltas de Girona + Menos de 3.5 tarjetas de Almeria,1101
-2026-11-08,Iraklis vs Panathinaikos,corta,3,0.4385,0,2,0.7424,,,0,,Menos de 3.5 tarjetas de Panathinaikos + Menos de 4.5 tiros a puerta de Iraklis + Menos de 4.5 córners de Iraklis,011
-2026-11-08,Iraklis vs Panathinaikos,larga,5,0.1471,0,3,0.6698,,,0,,Menos de 3.5 tarjetas de Panathinaikos + Menos de 4.5 tiros a puerta de Iraklis + Menos de 4.5 córners de Iraklis + Menos de 15.5 faltas de Iraklis + Menos de 2.5 goles,01110
+2026-11-08,Iraklis vs Panathinaikos,corta,3,0.4385,0,2,0.7424,,,0,,Menos de 3.5 tarjetas de Panathinaikos + Menos de 4.5 tiros a puerta de Iraklis + Menos de 4.5 córners de Iraklis,11
+2026-11-08,Iraklis vs Panathinaikos,larga,5,0.1471,0,3,0.6698,,,0,,Menos de 3.5 tarjetas de Panathinaikos + Menos de 4.5 tiros a puerta de Iraklis + Menos de 4.5 córners de Iraklis + Menos de 15.5 faltas de Iraklis + Menos de 2.5 goles,1110
 2026-11-08,Santa Clara vs Gil Vicente,corta,3,0.3868,0,2,0.6919,,,0,,Menos de 8.5 tiros a puerta + Más de 26.5 faltas + Menos de 2.5 goles,110
 2026-11-08,Santa Clara vs Gil Vicente,larga,5,0.1656,0,2,0.6615,,,0,,Menos de 8.5 tiros a puerta + Más de 26.5 faltas + Menos de 2.5 goles + Menos de 4.5 córners de Gil Vicente + Más de 2.5 tarjetas de Gil Vicente,11000
-2026-11-08,Santa Clara vs Gil Vicente,valor,2,0.4319,0,0,0.6602,2.35,0.017,0,,Menos de 2.5 goles + Menos de 4.5 córners de Gil Vicente,00
+2026-11-08,Santa Clara vs Gil Vicente,valor,2,0.4319,0,0,0.6602,2.35,0.017,0,,Menos de 2.5 goles + Menos de 4.5 córners de Gil Vicente,0
 2026-11-08,Alanyaspor vs Trabzonspor,corta,3,0.4196,1,3,0.7308,,,0,,Menos de 5.5 tiros a puerta de Alanyaspor + Menos de 13.5 faltas de Trabzonspor + Menos de 2.5 tarjetas de Trabzonspor,111
 2026-11-08,Alanyaspor vs Trabzonspor,larga,4,0.3025,1,4,0.7166,,,0,,Menos de 5.5 tiros a puerta de Alanyaspor + Menos de 13.5 faltas de Trabzonspor + Menos de 2.5 tarjetas de Trabzonspor + Menos de 5.5 córners de Alanyaspor,1111
 2026-11-08,AZ Alkmaar vs Groningen,corta,3,0.3513,0,2,0.6906,3.41,0.198,1,-1.0,Menos de 1.5 tarjetas de AZ Alkmaar + Menos de 4.5 córners de Groningen + Más de 5.5 tiros a puerta de AZ Alkmaar,110
@@ -302,39 +302,39 @@ fecha,partido,tipo,piernas,p,acierto,piernas_acertadas,p_piernas,cuota,ventaja,s
 2026-11-08,Celtic vs Kilmarnock,valor,2,0.5584,0,1,0.7481,1.7,-0.051,0,,Más de 6.5 córners de Celtic + Más de 2.5 goles,10
 2026-11-08,Angers vs Nice,corta,3,0.3802,0,2,0.7188,,,0,,Menos de 5.5 tiros a puerta de Angers + Menos de 2.5 tarjetas de Angers + Menos de 24.5 faltas,101
 2026-11-08,Angers vs Nice,larga,4,0.2575,0,2,0.7001,,,0,,Menos de 5.5 tiros a puerta de Angers + Menos de 2.5 tarjetas de Angers + Menos de 24.5 faltas + Menos de 5.5 córners de Angers,1010
-2026-11-08,Angers vs Nice,valor,2,0.4721,0,0,0.69,1.84,-0.133,0,,Menos de 2.5 tarjetas de Angers + Menos de 5.5 córners de Angers,00
+2026-11-08,Angers vs Nice,valor,2,0.4721,0,0,0.69,1.84,-0.133,0,,Menos de 2.5 tarjetas de Angers + Menos de 5.5 córners de Angers,0
 2026-11-08,Brest vs Lyon,corta,3,0.281,1,3,0.6519,,,0,,Menos de 2.5 tarjetas de Lyon + Más de 11.5 faltas de Brest + Menos de 10.5 córners,111
 2026-11-08,Brest vs Lyon,larga,4,0.1758,1,4,0.6414,,,0,,Menos de 2.5 tarjetas de Lyon + Más de 11.5 faltas de Brest + Menos de 10.5 córners + Menos de 4.5 tiros a puerta de Lyon,1111
 2026-11-08,Brest vs Lyon,valor,2,0.3953,1,2,0.6207,2.74,0.085,1,1.7400000000000002,Menos de 10.5 córners + Menos de 4.5 tiros a puerta de Lyon,11
 2026-11-08,Le Havre vs Lorient,corta,3,0.4014,0,2,0.7353,,,0,,Más de 11.5 faltas de Le Havre + Menos de 2.5 tarjetas de Lorient + Menos de 5.5 tiros a puerta de Le Havre,101
 2026-11-08,Le Havre vs Lorient,larga,5,0.1881,0,4,0.696,,,0,,Más de 11.5 faltas de Le Havre + Menos de 2.5 tarjetas de Lorient + Menos de 5.5 tiros a puerta de Le Havre + Menos de 10.5 córners + Menos de 2.5 goles,10111
 2026-11-08,Le Havre vs Lorient,valor,3,0.3222,1,3,0.6577,3.4,0.095,1,2.4,Menos de 5.5 tiros a puerta de Le Havre + Menos de 10.5 córners + Menos de 2.5 goles,111
-2026-11-08,Le Mans vs Monaco,corta,3,0.4251,0,2,0.7473,,,0,,Menos de 5.5 córners de Le Mans + Menos de 5.5 tiros a puerta de Le Mans + Menos de 2.5 tarjetas de Le Mans,011
-2026-11-08,Le Mans vs Monaco,larga,5,0.1383,0,3,0.6936,,,0,,Menos de 5.5 córners de Le Mans + Menos de 5.5 tiros a puerta de Le Mans + Menos de 2.5 tarjetas de Le Mans + Más de 2.5 goles + Más de 11.5 faltas de Le Mans,01101
+2026-11-08,Le Mans vs Monaco,corta,3,0.4251,0,2,0.7473,,,0,,Menos de 5.5 córners de Le Mans + Menos de 5.5 tiros a puerta de Le Mans + Menos de 2.5 tarjetas de Le Mans,11
+2026-11-08,Le Mans vs Monaco,larga,5,0.1383,0,3,0.6936,,,0,,Menos de 5.5 córners de Le Mans + Menos de 5.5 tiros a puerta de Le Mans + Menos de 2.5 tarjetas de Le Mans + Más de 2.5 goles + Más de 11.5 faltas de Le Mans,1101
 2026-11-08,Le Mans vs Monaco,valor,2,0.4759,0,1,0.6918,2.59,0.233,1,-1.0,Menos de 2.5 tarjetas de Le Mans + Más de 2.5 goles,10
 2026-11-08,Carrarese vs Sampdoria,corta,3,0.3227,0,2,0.6787,,,0,,Menos de 5.5 tiros a puerta de Carrarese + Menos de 2.5 tarjetas de Carrarese + Menos de 5.5 córners de Carrarese,110
 2026-11-08,Carrarese vs Sampdoria,larga,5,0.1261,0,3,0.6511,,,0,,Menos de 5.5 tiros a puerta de Carrarese + Menos de 2.5 tarjetas de Carrarese + Menos de 5.5 córners de Carrarese + Más de 27.5 faltas + Menos de 2.5 goles,11001
-2026-11-08,Carrarese vs Sampdoria,valor,2,0.3784,0,1,0.6165,2.57,-0.027,0,,Menos de 5.5 córners de Carrarese + Menos de 2.5 goles,01
+2026-11-08,Carrarese vs Sampdoria,valor,2,0.3784,0,1,0.6165,2.57,-0.027,0,,Menos de 5.5 córners de Carrarese + Menos de 2.5 goles,1
 2026-11-08,Freiburg vs Union Berlin,corta,3,0.4326,1,3,0.7467,,,0,,Menos de 2.5 tarjetas de Freiburg + Menos de 4.5 tiros a puerta de Union Berlin + Menos de 10.5 faltas de Freiburg,111
 2026-11-08,Freiburg vs Union Berlin,larga,5,0.1799,0,4,0.7123,,,0,,Menos de 2.5 tarjetas de Freiburg + Menos de 4.5 tiros a puerta de Union Berlin + Menos de 10.5 faltas de Freiburg + Menos de 4.5 córners de Union Berlin + Más de 2.5 goles,11110
 2026-11-08,Freiburg vs Union Berlin,valor,2,0.5603,1,2,0.7314,1.72,-0.039,0,,Menos de 4.5 tiros a puerta de Union Berlin + Menos de 4.5 córners de Union Berlin,11
-2026-11-08,OFI Crete vs Atromitos,corta,3,0.2499,0,2,0.6301,,,0,,Menos de 4.5 córners de Atromitos + Menos de 15.5 faltas de OFI Crete + Menos de 3.5 tarjetas de Atromitos,011
-2026-11-08,OFI Crete vs Atromitos,larga,4,0.1381,0,3,0.6124,,,0,,Menos de 4.5 córners de Atromitos + Menos de 15.5 faltas de OFI Crete + Menos de 3.5 tarjetas de Atromitos + Menos de 8.5 tiros a puerta,0111
+2026-11-08,OFI Crete vs Atromitos,corta,3,0.2499,0,2,0.6301,,,0,,Menos de 4.5 córners de Atromitos + Menos de 15.5 faltas de OFI Crete + Menos de 3.5 tarjetas de Atromitos,11
+2026-11-08,OFI Crete vs Atromitos,larga,4,0.1381,0,3,0.6124,,,0,,Menos de 4.5 córners de Atromitos + Menos de 15.5 faltas de OFI Crete + Menos de 3.5 tarjetas de Atromitos + Menos de 8.5 tiros a puerta,111
 2026-11-08,Inter vs Como,corta,3,0.3855,0,2,0.7088,,,0,,Menos de 11.5 faltas de Como + Menos de 2.5 tarjetas de Como + Más de 4.5 tiros a puerta de Inter,110
 2026-11-08,Inter vs Como,larga,4,0.2647,0,3,0.7002,,,0,,Menos de 11.5 faltas de Como + Menos de 2.5 tarjetas de Como + Más de 4.5 tiros a puerta de Inter + Menos de 4.5 córners de Como,1101
-2026-11-08,Inter vs Como,valor,2,0.4865,0,1,0.6831,2.02,-0.017,0,,Más de 4.5 tiros a puerta de Inter + Menos de 4.5 córners de Como,01
+2026-11-08,Inter vs Como,valor,2,0.4865,0,1,0.6831,2.02,-0.017,0,,Más de 4.5 tiros a puerta de Inter + Menos de 4.5 córners de Como,1
 2026-11-08,Celta vs Levante,corta,3,0.3944,1,3,0.7211,2.8,0.104,1,1.7999999999999998,Menos de 4.5 tiros a puerta de Levante + Menos de 4.5 córners de Levante + Menos de 2.5 tarjetas de Celta,111
 2026-11-08,Celta vs Levante,larga,4,0.2787,1,4,0.7099,,,0,,Menos de 4.5 tiros a puerta de Levante + Menos de 4.5 córners de Levante + Menos de 2.5 tarjetas de Celta + Menos de 25.5 faltas,1111
 2026-11-08,Celta vs Levante,valor,3,0.3944,1,3,0.7211,2.8,0.104,1,1.7999999999999998,Menos de 4.5 tiros a puerta de Levante + Menos de 4.5 córners de Levante + Menos de 2.5 tarjetas de Celta,111
 2026-11-08,Villarreal vs Getafe,corta,3,0.4064,1,3,0.7364,,,0,,Menos de 4.5 tiros a puerta de Getafe + Menos de 4.5 córners de Getafe + Menos de 2.5 tarjetas de Villarreal,111
 2026-11-08,Villarreal vs Getafe,larga,4,0.2503,1,4,0.7076,,,0,,Menos de 4.5 tiros a puerta de Getafe + Menos de 4.5 córners de Getafe + Menos de 2.5 tarjetas de Villarreal + Más de 12.5 faltas de Getafe,1111
 2026-11-08,Villarreal vs Getafe,valor,2,0.4653,1,2,0.6831,1.8,-0.165,0,,Menos de 4.5 córners de Getafe + Menos de 2.5 tarjetas de Villarreal,11
-2026-11-08,Guimaraes vs Porto,corta,2,0.5996,0,1,0.7571,,,0,,Menos de 4.5 tiros a puerta de Guimaraes + Menos de 5.5 córners de Guimaraes,01
-2026-11-08,Guimaraes vs Porto,larga,4,0.2025,0,2,0.6644,,,0,,Menos de 4.5 tiros a puerta de Guimaraes + Menos de 5.5 córners de Guimaraes + Menos de 2.5 goles + Menos de 13.5 faltas de Porto,0101
+2026-11-08,Guimaraes vs Porto,corta,2,0.5996,0,1,0.7571,,,0,,Menos de 4.5 tiros a puerta de Guimaraes + Menos de 5.5 córners de Guimaraes,1
+2026-11-08,Guimaraes vs Porto,larga,4,0.2025,0,2,0.6644,,,0,,Menos de 4.5 tiros a puerta de Guimaraes + Menos de 5.5 córners de Guimaraes + Menos de 2.5 goles + Menos de 13.5 faltas de Porto,101
 2026-11-08,Besiktas vs Genclerbirligi,corta,3,0.4791,0,2,0.7764,,,0,,Menos de 4.5 tiros a puerta de Genclerbirligi + Menos de 4.5 córners de Genclerbirligi + Menos de 2.5 tarjetas de Besiktas,110
 2026-11-08,Besiktas vs Genclerbirligi,larga,4,0.3232,0,2,0.7422,,,0,,Menos de 4.5 tiros a puerta de Genclerbirligi + Menos de 4.5 córners de Genclerbirligi + Menos de 2.5 tarjetas de Besiktas + Menos de 13.5 faltas de Besiktas,1100
-2026-11-08,St Truiden vs Waregem,corta,3,0.2988,0,2,0.6596,,,0,,Menos de 2.5 tarjetas de Waregem + Menos de 4.5 tiros a puerta de Waregem + Menos de 4.5 córners de Waregem,011
-2026-11-08,St Truiden vs Waregem,larga,5,0.0988,0,3,0.628,,,0,,Menos de 2.5 tarjetas de Waregem + Menos de 4.5 tiros a puerta de Waregem + Menos de 4.5 córners de Waregem + Menos de 11.5 faltas de Waregem + Más de 2.5 goles,01101
+2026-11-08,St Truiden vs Waregem,corta,3,0.2988,0,2,0.6596,,,0,,Menos de 2.5 tarjetas de Waregem + Menos de 4.5 tiros a puerta de Waregem + Menos de 4.5 córners de Waregem,11
+2026-11-08,St Truiden vs Waregem,larga,5,0.0988,0,3,0.628,,,0,,Menos de 2.5 tarjetas de Waregem + Menos de 4.5 tiros a puerta de Waregem + Menos de 4.5 córners de Waregem + Menos de 11.5 faltas de Waregem + Más de 2.5 goles,1101
 2026-11-08,St Truiden vs Waregem,valor,2,0.4434,1,2,0.6415,2.35,0.044,0,,Menos de 4.5 tiros a puerta de Waregem + Menos de 4.5 córners de Waregem,11
 2026-11-08,Hoffenheim vs Schalke 04,corta,3,0.3572,0,2,0.7027,2.8,0.0,0,,Menos de 2.5 tarjetas de Schalke 04 + Menos de 4.5 tiros a puerta de Schalke 04 + Menos de 4.5 córners de Schalke 04,101
 2026-11-08,Hoffenheim vs Schalke 04,larga,5,0.1434,0,4,0.6766,,,0,,Menos de 2.5 tarjetas de Schalke 04 + Menos de 4.5 tiros a puerta de Schalke 04 + Menos de 4.5 córners de Schalke 04 + Menos de 10.5 faltas de Schalke 04 + Más de 2.5 goles,10111
@@ -350,11 +350,12 @@ fecha,partido,tipo,piernas,p,acierto,piernas_acertadas,p_piernas,cuota,ventaja,s
 2026-11-08,Lens vs Marseille,valor,2,0.4338,0,1,0.6513,2.69,0.165,1,-1.0,Menos de 10.5 córners + Menos de 4.5 tiros a puerta de Marseille,10
 2026-11-08,Fiorentina vs Juventus,corta,3,0.2865,0,2,0.6744,,,0,,Más de 11.5 faltas de Juventus + Menos de 2.5 tarjetas de Juventus + Menos de 5.5 córners de Fiorentina,101
 2026-11-08,Fiorentina vs Juventus,larga,5,0.1364,0,2,0.647,,,0,,Más de 11.5 faltas de Juventus + Menos de 2.5 tarjetas de Juventus + Menos de 5.5 córners de Fiorentina + Menos de 4.5 tiros a puerta de Fiorentina + Menos de 2.5 goles,10100
-2026-11-08,Fiorentina vs Juventus,valor,3,0.2847,0,0,0.6265,4.64,0.32,1,-1.0,Menos de 2.5 tarjetas de Juventus + Menos de 4.5 tiros a puerta de Fiorentina + Menos de 2.5 goles,000
-2026-11-08,Ath Madrid vs Barcelona,corta,3,0.4323,0,2,0.755,,,0,,Menos de 25.5 faltas + Menos de 2.5 tarjetas de Barcelona + Menos de 5.5 córners de Ath Madrid,011
-2026-11-08,Ath Madrid vs Barcelona,larga,5,0.1921,0,3,0.6951,,,0,,Menos de 25.5 faltas + Menos de 2.5 tarjetas de Barcelona + Menos de 5.5 córners de Ath Madrid + Más de 2.5 goles + Más de 4.5 tiros a puerta de Barcelona,01110
+2026-11-08,Fiorentina vs Juventus,valor,3,0.2847,0,0,0.6265,4.64,0.32,1,-1.0,Menos de 2.5 tarjetas de Juventus + Menos de 4.5 tiros a puerta de Fiorentina + Menos de 2.5 goles,0
+2026-11-08,Ath Madrid vs Barcelona,corta,3,0.4323,0,2,0.755,,,0,,Menos de 25.5 faltas + Menos de 2.5 tarjetas de Barcelona + Menos de 5.5 córners de Ath Madrid,11
+2026-11-08,Ath Madrid vs Barcelona,larga,5,0.1921,0,3,0.6951,,,0,,Menos de 25.5 faltas + Menos de 2.5 tarjetas de Barcelona + Menos de 5.5 córners de Ath Madrid + Más de 2.5 goles + Más de 4.5 tiros a puerta de Barcelona,1110
 2026-11-08,Ath Madrid vs Barcelona,valor,2,0.4635,1,2,0.6768,2.25,0.043,0,,Menos de 2.5 tarjetas de Barcelona + Menos de 5.5 córners de Ath Madrid,11
 2026-11-08,Estrela vs Benfica,corta,3,0.4988,1,3,0.7917,,,0,,Menos de 5.5 córners de Estrela + Más de 3.5 tiros a puerta de Benfica + Menos de 13.5 faltas de Benfica,111
 2026-11-08,Estrela vs Benfica,larga,5,0.2394,1,5,0.727,,,0,,Menos de 5.5 córners de Estrela + Más de 3.5 tiros a puerta de Benfica + Menos de 13.5 faltas de Benfica + Menos de 2.5 tarjetas de Benfica + Más de 2.5 goles,11111
 2026-11-08,Rio Ave vs Sp Braga,corta,3,0.4274,1,3,0.7507,,,0,,Menos de 4.5 tiros a puerta de Rio Ave + Menos de 5.5 córners de Rio Ave + Menos de 13.5 faltas de Rio Ave,111
 2026-11-08,Rio Ave vs Sp Braga,larga,5,0.1617,0,4,0.6984,,,0,,Menos de 4.5 tiros a puerta de Rio Ave + Menos de 5.5 córners de Rio Ave + Menos de 13.5 faltas de Rio Ave + Menos de 5.5 tarjetas + Más de 2.5 goles,11110
+2026-11-08,Los Angeles Chargers vs Houston Texans,nfl,2,0.1745,0,1,0.4125,5.63,-0.018,0,,Gana Los Angeles Chargers + Más de 40.5 puntos,01
