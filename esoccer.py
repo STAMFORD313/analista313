@@ -30,8 +30,18 @@ MAX_GOALS = 15
 PER_RUN = 3                     # candidatas por run (hay ~1.500 partidos al día): las de pick más seguro en las próximas 2 h
 
 
+# cabeceras de navegador: desde el 9/11 ~14 h la API responde 403 a «Mozilla/5.0» a secas (Actions)
+HEADERS = [{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36",
+            "Accept": "application/json, text/plain, */*", "Accept-Language": "es-ES,es;q=0.9,en;q=0.8",
+            "Referer": "https://football.esportsbattle.com/", "Origin": "https://football.esportsbattle.com"},
+           A.UA]
+
+
 def get(path, **params):
-    r = requests.get(f"{API}/{path}", params=params, headers=A.UA, timeout=30)
+    r = None
+    for h in HEADERS:  # si una cabecera da 403, prueba la siguiente
+        r = requests.get(f"{API}/{path}", params=params, headers=h, timeout=30)
+        if r.status_code != 403: break
     r.raise_for_status()
     return r.json()
 

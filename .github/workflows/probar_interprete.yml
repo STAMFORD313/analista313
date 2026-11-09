@@ -2,7 +2,7 @@ name: probar_interprete
 # Prueba a mano del intérprete del chat (Gemini con el secreto GEMINI_API_KEY).
 on:
   workflow_dispatch:
-  push: {branches: [main], paths: ["smarkets.py", "valor_pinnacle.py", "kambi.py", "fc_combo.py", "fuentes.py", "interpreta.py", "chat.py", "simulaciones.py", "fuentes.py",  ".github/workflows/probar_interprete.yml"]}
+  push: {branches: [main], paths: ["smarkets.py", "esoccer.py", "valor_pinnacle.py", "kambi.py", "fc_combo.py", "fuentes.py", "interpreta.py", "chat.py", "simulaciones.py", "fuentes.py",  ".github/workflows/probar_interprete.yml"]}
 permissions: {contents: read}
 jobs:
   probar:
@@ -15,6 +15,10 @@ jobs:
       - run: pip install -r requirements.txt
       - run: |
           python - <<'PY'
+          import esoccer as E, requests
+          for h in E.HEADERS:
+              r = requests.get(f"{E.API}/tournaments", params={"page": 1, "dateFrom": "2026-11-09", "dateTo": "2026-11-10"}, headers=h, timeout=30)
+              print("esportsbattle", r.status_code, list(h)[:2], r.text[:120].replace("\n", " "))
           import fc_combo as F
           c, n = F.candidates(hours=2, push=False)
           print("FC 27 LeoVegas:", n, "partidos con cuotas,", len(c), "piernas candidatas")
