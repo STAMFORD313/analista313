@@ -61449,3 +61449,43 @@ id,tournament_id,club1,club2,ht1,ht2
 2370963,261463,Mexico,Sweden,,
 2370964,261463,Denmark,Mexico,,
 2370965,261463,Ghana,USA,,
+2370228,261414,Leipzig,Bayern Munchen,0,1
+2370230,261414,Frankfurt,Leipzig,2,3
+2370231,261414,Bayern Munchen,Stuttgart,2,1
+2370232,261414,Stuttgart,Frankfurt,2,3
+2370233,261414,Leipzig,B Dortmund,2,0
+2370234,261414,B Dortmund,Stuttgart,2,0
+2370235,261414,Frankfurt,Bayern Munchen,2,2
+2370236,261414,Bayern Munchen,B Dortmund,,
+2370237,261414,Stuttgart,Leipzig,,
+2370238,261414,Bayern Munchen,Leipzig,,
+2370239,261414,Frankfurt,B Dortmund,,
+2370240,261414,Leipzig,Frankfurt,,
+2370241,261414,Stuttgart,Bayern Munchen,,
+2370242,261414,Frankfurt,Stuttgart,,
+2370243,261414,B Dortmund,Leipzig,,
+2370244,261414,Stuttgart,B Dortmund,,
+2370245,261414,Bayern Munchen,Frankfurt,,
+2370246,261414,B Dortmund,Bayern Munchen,,
+2370247,261414,Leipzig,Stuttgart,,
+2370229,261414,B Dortmund,Frankfurt,,
+2370610,261432,Arsenal,Man City,5,1
+2371708,261432,Tottenham,Chelsea,1,2
+2371709,261432,Chelsea,Arsenal,4,1
+2370613,261432,Man City,Liverpool,4,1
+2371710,261432,Liverpool,Chelsea,3,1
+2370615,261432,Arsenal,Tottenham,2,0
+2370616,261432,Tottenham,Liverpool,1,3
+2371711,261432,Chelsea,Man City,1,2
+2370618,261432,Tottenham,Man City,,
+2370619,261432,Arsenal,Liverpool,,
+2370620,261432,Man City,Arsenal,,
+2371712,261432,Chelsea,Tottenham,,
+2371713,261432,Arsenal,Chelsea,,
+2370623,261432,Liverpool,Man City,,
+2371714,261432,Chelsea,Liverpool,,
+2370625,261432,Tottenham,Arsenal,,
+2370626,261432,Liverpool,Tottenham,,
+2371715,261432,Man City,Chelsea,,
+2370608,261432,Man City,Tottenham,,
+2370609,261432,Liverpool,Arsenal,,

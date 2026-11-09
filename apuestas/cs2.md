@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 09/11/2026 06:49 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 09/11/2026 07:21 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Alliance vs FOKUS — 09/11 · 15:00
 
@@ -257,4 +257,24 @@ Casas: XI 43% · MASONIC 57%
 • H2H: 15: 5-10  
 • Torneo: Dust2.dk Ligaen Season 33: Regular Season (nivel C)  
 • Cambios de plantilla: ninguno  
+
+## KUUSAMO vs boyband — 10/11 · 19:00
+
+👀 candidata · 🎮 CS2 · Elisa Open Suomi Season 14 · **Gana KUUSAMO** @ **2.33** (Thunderpick) · prob 42% vs casas 39% · ventaja -2%
+
+- ❌ Valor: ventaja -2% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮 no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 76.633 partidos)  
+Mapa: KUUSAMO 47% · Serie BO3: KUUSAMO 45% - 55% boyband  
+Casas: KUUSAMO 39% · boyband 61%  
+🔎 **Claves**  
+• Elo: KUUSAMO 1450 (145 series) | boyband 1486 (18 series)  
+• Forma: KUUSAMO ❌✅❌❌❌ | boyband ✅❌❌✅✅  
+• H2H: 2: 1-1  
+• Torneo: Elisa Open Suomi Season 14 (nivel C)  
+• Cambios de plantilla: ninguno  
+🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
+• KUUSAMO gana 2-1: 20% → cuota justa 4.89  
+• boyband gana 2-1: 23% → cuota justa 4.29  
 
