@@ -1,56 +1,6 @@
 # 🏈 NFL·NCAA · apuestas de valor
 
-Actualizado 09/11/2026 02:08 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Chicago Bears vs Tampa Bay Buccaneers — 09/11 · 02:20
-
-👀 candidata · 🏈 NFL · **Más de 47.5 puntos** @ **1.95** (DraftKings) · prob 49% vs casas 49% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 totales» sin pérdidas demostradas
-
-📊 **Escenarios**: total esperado **41.2** puntos · línea 47.5  
-Más 49% · Menos 51%  
-🔎 **Claves**  
-• Forma: Chicago Bears ✅❌✅✅✅ | Tampa Bay Buccaneers ❌✅❌✅✅  
-• H2H: 6 desde 2016: 2-4  
-• Bajas: Chicago Bears: 3 fuera, 22 duda (Zavier Scott, Kentavius Street, Braxton Jones); Tampa Bay Buccaneers: 3 fuera, 22 duda (Jalen McMillan, Yaya Diaby, Josh Hayes)  
-🧩 Combinada: Gana Tampa Bay Buccaneers + Menos de 47.5 puntos → prob. 16%, cuota justa 6.44  
-🎯 No simulada (NFL): cuota DraftKings aprox. 6.36 (producto de piernas) · prob. 16% · ventaja -1%  
-
-## Chicago Bears vs Tampa Bay Buccaneers — 09/11 · 02:20
-
-👀 candidata · 🏈 NFL · **Chicago Bears -6** @ **1.89** (DraftKings) · prob 50% vs casas 50% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 hándicap» sin pérdidas demostradas
-
-📊 **Escenarios**: Chicago Bears cubre -6 con prob. 50% (casas 50%)  
-🔎 **Claves**  
-• Forma: Chicago Bears ✅❌✅✅✅ | Tampa Bay Buccaneers ❌✅❌✅✅  
-• H2H: 6 desde 2016: 2-4  
-• Bajas: Chicago Bears: 3 fuera, 22 duda (Zavier Scott, Kentavius Street, Braxton Jones); Tampa Bay Buccaneers: 3 fuera, 22 duda (Jalen McMillan, Yaya Diaby, Josh Hayes)  
-🧩 Combinada: Gana Tampa Bay Buccaneers + Menos de 47.5 puntos → prob. 16%, cuota justa 6.44  
-🎯 No simulada (NFL): cuota DraftKings aprox. 6.36 (producto de piernas) · prob. 16% · ventaja -1%  
-
-## Chicago Bears vs Tampa Bay Buccaneers — 09/11 · 02:20
-
-👀 candidata · 🏈 NFL · **Gana Chicago Bears** @ **1.34** (DraftKings) · prob 72% vs casas 72% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo con 3.259 partidos y bajas)  
-Gana Chicago Bears 68% · Gana Tampa Bay Buccaneers 32%  
-Casas: Chicago Bears 72% · Tampa Bay Buccaneers 28%  
-Hándicap CHI -6 · Total puntos 47.5  
-🔎 **Claves**  
-• Forma: Chicago Bears ✅❌✅✅✅ | Tampa Bay Buccaneers ❌✅❌✅✅  
-• H2H: 6 desde 2016: 2-4  
-• Bajas: Chicago Bears: 3 fuera, 22 duda (Zavier Scott, Kentavius Street, Braxton Jones); Tampa Bay Buccaneers: 3 fuera, 22 duda (Jalen McMillan, Yaya Diaby, Josh Hayes)  
-• Favorito de las casas: Chicago Bears @ 1.34  
-🧩 Combinada: Gana Tampa Bay Buccaneers + Menos de 47.5 puntos → prob. 16%, cuota justa 6.44  
-🎯 No simulada (NFL): cuota DraftKings aprox. 6.36 (producto de piernas) · prob. 16% · ventaja -1%  
+Actualizado 09/11/2026 02:39 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Minnesota Vikings vs Buffalo Bills — 10/11 · 02:15
 

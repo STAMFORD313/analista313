@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 09/11/2026 02:08 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 09/11/2026 02:39 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Alliance vs FOKUS — 09/11 · 15:00
 
@@ -189,6 +189,23 @@ Casas: Huskies eSport 54% · Pandaric eSports 46%
 🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
 • Huskies eSport gana 2-1: 24% → cuota justa 4.10  
 • Pandaric eSports gana 2-1: 18% → cuota justa 5.44  
+
+## eSuba vs ZOTIX — 09/11 · 20:00
+
+👀 candidata · 🎮 CS2 · ESEA Season 59: Advanced Division - Europe · **Gana eSuba** @ **1.75** (Thunderpick) · prob 54% vs casas 53% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 76.633 partidos)  
+Mapa: eSuba 55% · Serie BO1: eSuba 55% - 45% ZOTIX  
+Casas: eSuba 53% · ZOTIX 47%  
+🔎 **Claves**  
+• Elo: eSuba 1514 (91 series) | ZOTIX 1477 (90 series)  
+• Forma: eSuba ✅❌✅✅❌ | ZOTIX ✅❌❌❌✅  
+• H2H: sin precedentes  
+• Torneo: ESEA Season 59: Advanced Division - Europe (nivel C)  
+• Cambios de plantilla: ninguno  
 
 ## eSuba vs OldBoys FR — 09/11 · 21:00
 

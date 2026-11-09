@@ -1,50 +1,6 @@
 # 🏀 NBA·NCAA · apuestas de valor
 
-Actualizado 09/11/2026 02:08 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Houston Cougars vs California Golden Bears — 09/11 · 02:30
-
-👀 candidata · 🏀 NCAA Basketball · **Más de 142.5 puntos** @ **1.87** (DraftKings) · prob 51% vs casas 51% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏀 totales» sin pérdidas demostradas
-
-📊 **Escenarios**: total esperado **146.3** puntos · línea 142.5  
-Más 51% · Menos 49%  
-🔎 **Claves**  
-• Forma: Houston Cougars ❌✅✅❌✅ | California Golden Bears ❌✅❌✅✅  
-• H2H: sin precedentes  
-• Bajas: Houston Cougars: sin bajas; California Golden Bears: sin bajas  
-
-## Houston Cougars vs California Golden Bears — 09/11 · 02:30
-
-👀 candidata · 🏀 NCAA Basketball · **Houston Cougars +19.5** @ **1.95** (DraftKings) · prob 49% vs casas 49% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏀 hándicap» sin pérdidas demostradas
-
-📊 **Escenarios**: Houston Cougars cubre +19.5 con prob. 49% (casas 49%)  
-🔎 **Claves**  
-• Forma: Houston Cougars ❌✅✅❌✅ | California Golden Bears ❌✅❌✅✅  
-• H2H: sin precedentes  
-• Bajas: Houston Cougars: sin bajas; California Golden Bears: sin bajas  
-
-## Houston Cougars vs California Golden Bears — 09/11 · 02:30
-
-👀 candidata · 🏀 NCAA Basketball · **Gana California Golden Bears** @ **1.03** (DraftKings) · prob 94% vs casas 94% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏀 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo con 61.303 partidos y bajas)  
-Gana Houston Cougars 87% · Gana California Golden Bears 13%  
-Casas: Houston Cougars 6% · California Golden Bears 94%  
-Hándicap HOU -19.5 · Total puntos 142.5  
-🔎 **Claves**  
-• Forma: Houston Cougars ❌✅✅❌✅ | California Golden Bears ❌✅❌✅✅  
-• H2H: sin precedentes  
-• Bajas: Houston Cougars: sin bajas; California Golden Bears: sin bajas  
-• Favorito de las casas: California Golden Bears @ 1.03  
+Actualizado 09/11/2026 02:39 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## USC Trojans vs Wichita State Shockers — 09/11 · 05:00
 
