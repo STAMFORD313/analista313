@@ -62361,23 +62361,63 @@ id,tournament_id,club1,club2,ht1,ht2
 2371487,261477,River Plate,Boca Juniors,,
 2371488,261477,Racing Club,Boca Juniors,,
 2371489,261477,Racing Club,River Plate,,
-2371398,261472,Norway,Germany,1,1
-2371399,261472,Morocco,Netherlands,2,0
-2371400,261472,Netherlands,Norway,1,2
-2371401,261472,Germany,Czechia,2,1
-2371402,261472,Czechia,Netherlands,0,2
-2371403,261472,Norway,Morocco,0,0
-2371404,261472,Morocco,Czechia,0,2
-2371405,261472,Netherlands,Germany,0,2
-2371406,261472,Germany,Morocco,0,1
-2371407,261472,Czechia,Norway,1,1
-2371408,261472,Germany,Norway,0,0
-2371409,261472,Netherlands,Morocco,1,2
-2371410,261472,Norway,Netherlands,1,1
-2371411,261472,Czechia,Germany,0,2
-2371412,261472,Netherlands,Czechia,0,1
-2371413,261472,Morocco,Norway,0,0
+2371398,261472,Norway,Germany,1.0,1.0
+2371399,261472,Morocco,Netherlands,2.0,0.0
+2371400,261472,Netherlands,Norway,1.0,2.0
+2371401,261472,Germany,Czechia,2.0,1.0
+2371402,261472,Czechia,Netherlands,0.0,2.0
+2371403,261472,Norway,Morocco,0.0,0.0
+2371404,261472,Morocco,Czechia,0.0,2.0
+2371405,261472,Netherlands,Germany,0.0,2.0
+2371406,261472,Germany,Morocco,0.0,1.0
+2371407,261472,Czechia,Norway,1.0,1.0
+2371408,261472,Germany,Norway,0.0,0.0
+2371409,261472,Netherlands,Morocco,1.0,2.0
+2371410,261472,Norway,Netherlands,1.0,1.0
+2371411,261472,Czechia,Germany,0.0,2.0
+2371412,261472,Netherlands,Czechia,0.0,1.0
+2371413,261472,Morocco,Norway,0.0,0.0
 2371414,261472,Czechia,Morocco,,
 2371415,261472,Germany,Netherlands,,
 2371416,261472,Morocco,Germany,,
 2371417,261472,Norway,Czechia,,
+2370388,261415,Arsenal,Tottenham,1,0
+2370389,261415,Chelsea,Man City,2,0
+2370390,261415,Man City,Arsenal,1,2
+2370391,261415,Tottenham,Liverpool,1,0
+2370393,261415,Liverpool,Man City,0,4
+2370395,261415,Arsenal,Chelsea,0,1
+2370398,261415,Chelsea,Liverpool,2,0
+2370400,261415,Man City,Tottenham,2,2
+2370402,261415,Tottenham,Chelsea,1,1
+2370404,261415,Liverpool,Arsenal,1,2
+2370406,261415,Tottenham,Arsenal,,
+2370408,261415,Man City,Chelsea,,
+2370410,261415,Arsenal,Man City,,
+2370412,261415,Liverpool,Tottenham,,
+2370414,261415,Man City,Liverpool,,
+2370416,261415,Chelsea,Arsenal,,
+2370418,261415,Liverpool,Chelsea,,
+2370420,261415,Tottenham,Man City,,
+2370422,261415,Chelsea,Tottenham,,
+2370424,261415,Arsenal,Liverpool,,
+2370548,261429,Sassuolo,Roma,3,1
+2370549,261429,Napoli,Juventus,0,2
+2370550,261429,Juventus,Sassuolo,1,2
+2370551,261429,Roma,Bologna,0,2
+2370552,261429,Bologna,Juventus,1,1
+2370553,261429,Sassuolo,Napoli,4,0
+2370554,261429,Napoli,Bologna,0,1
+2370555,261429,Juventus,Roma,2,1
+2370556,261429,Roma,Napoli,,
+2370557,261429,Bologna,Sassuolo,,
+2370558,261429,Roma,Sassuolo,,
+2370559,261429,Juventus,Napoli,,
+2370560,261429,Sassuolo,Juventus,,
+2370561,261429,Bologna,Roma,,
+2370562,261429,Juventus,Bologna,,
+2370563,261429,Napoli,Sassuolo,,
+2370564,261429,Bologna,Napoli,,
+2370565,261429,Roma,Juventus,,
+2370566,261429,Napoli,Roma,,
+2370567,261429,Sassuolo,Bologna,,
