@@ -63229,16 +63229,16 @@ id,tournament_id,club1,club2,ht1,ht2
 2372556,261519,Liverpool,Arsenal,,
 2372557,261519,Chelsea,Liverpool,,
 2372558,261519,Man City,Tottenham,,
-2372389,261559,Adelaide United,Melbourne City,2,1
-2372390,261559,Sydney FC,Melbourne Victory,1,3
-2372391,261559,Melbourne Victory,Adelaide United,1,0
-2372392,261559,Melbourne City,Western Sydney Wanderers,2,2
-2372393,261559,Western Sydney Wanderers,Melbourne Victory,1,4
-2372394,261559,Adelaide United,Sydney FC,2,0
-2372395,261559,Sydney FC,Western Sydney Wanderers,2,3
-2372396,261559,Melbourne Victory,Melbourne City,2,0
-2372397,261559,Melbourne City,Sydney FC,0,0
-2372398,261559,Western Sydney Wanderers,Adelaide United,0,0
+2372389,261559,Adelaide United,Melbourne City,2.0,1.0
+2372390,261559,Sydney FC,Melbourne Victory,1.0,3.0
+2372391,261559,Melbourne Victory,Adelaide United,1.0,0.0
+2372392,261559,Melbourne City,Western Sydney Wanderers,2.0,2.0
+2372393,261559,Western Sydney Wanderers,Melbourne Victory,1.0,4.0
+2372394,261559,Adelaide United,Sydney FC,2.0,0.0
+2372395,261559,Sydney FC,Western Sydney Wanderers,2.0,3.0
+2372396,261559,Melbourne Victory,Melbourne City,2.0,0.0
+2372397,261559,Melbourne City,Sydney FC,0.0,0.0
+2372398,261559,Western Sydney Wanderers,Adelaide United,0.0,0.0
 2372399,261559,Melbourne City,Adelaide United,,
 2372400,261559,Melbourne Victory,Sydney FC,,
 2372401,261559,Adelaide United,Melbourne Victory,,
@@ -63249,3 +63249,23 @@ id,tournament_id,club1,club2,ht1,ht2
 2372406,261559,Melbourne City,Melbourne Victory,,
 2372407,261559,Sydney FC,Melbourne City,,
 2372408,261559,Adelaide United,Western Sydney Wanderers,,
+2373057,261568,Netherlands,Portugal,2,3
+2373058,261568,Belgium,Morocco,4,1
+2373059,261568,Morocco,Netherlands,0,2
+2373060,261568,Portugal,Germany,0,1
+2373061,261568,Germany,Morocco,0,1
+2373062,261568,Netherlands,Belgium,1,1
+2373063,261568,Belgium,Germany,1,2
+2373064,261568,Morocco,Portugal,3,1
+2373065,261568,Portugal,Belgium,,
+2373066,261568,Germany,Netherlands,,
+2373067,261568,Portugal,Netherlands,,
+2373068,261568,Morocco,Belgium,,
+2373069,261568,Netherlands,Morocco,,
+2373070,261568,Germany,Portugal,,
+2373071,261568,Morocco,Germany,,
+2373072,261568,Belgium,Netherlands,,
+2373073,261568,Germany,Belgium,,
+2373074,261568,Portugal,Morocco,,
+2373075,261568,Belgium,Portugal,,
+2373076,261568,Netherlands,Germany,,
