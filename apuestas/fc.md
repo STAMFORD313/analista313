@@ -1,61 +1,42 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 10/11/2026 21:43 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 10/11/2026 22:22 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## Animal vs lzrn — 10/11 · 21:46
+## kkikus vs Simaponika — 10/11 · 22:31
 
-👀 candidata · 🎮⚽ FC 27 · Premier League · **Gana Animal** @ **2.07** (Unibet) · prob 53% vs casas 42% · ventaja +9%
+👀 candidata · 🎮⚽ FC 27 · World Cup A · **Empate** @ **6.10** (Unibet) · prob 19% vs casas 14% · ventaja +13%
 
-- ❌ Valor: ventaja +9% (mín. 11% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 63.425 partidos)  
-Goles esperados: Animal 3.64 · lzrn 3.01  
-Ganador: Animal 53% · empate 18% · lzrn 30%  
-Total: más de 6.5 goles 50% · menos 50%  
-Hándicap Animal: −1.5 36% · −2.5 23%  
-🔎 **Claves**  
-• Forma: Animal ➖❌➖➖➖ | lzrn ✅➖✅✅❌  
-• Partidos: Animal 886 | lzrn 837  
-• Liga: Premier League  
-• Unibet: 1 2.07 · X 3.80 · 2 2.45 (sin margen 42%/23%/35%) · ventaja +9%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.07 (+9%) · Paf España 2.07 (+9%)  
-
-## hit vs Animal — 10/11 · 21:58
-
-👀 candidata · 🎮⚽ FC 27 · Premier League · **Gana Animal** @ **2.75** (Unibet) · prob 43% vs casas 31% · ventaja +18%
-
-- ✅ Valor: ventaja +18% (mín. 13% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 63.425 partidos)  
-Goles esperados: hit 2.80 · Animal 2.88  
-Ganador: hit 37% · empate 20% · Animal 43%  
-Total: más de 5.5 goles 50% · menos 50%  
-Hándicap Animal: −1.5 27% · −2.5 15%  
-🔎 **Claves**  
-• Forma: hit ✅➖❌➖❌ | Animal ➖❌➖➖➖  
-• Partidos: hit 739 | Animal 886  
-• Liga: Premier League  
-• Unibet: 1 2.12 · X 3.10 · 2 2.75 (sin margen 41%/28%/31%) · ventaja +18%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.75 (+18%) · Paf España 2.75 (+18%)  
-
-## kkikus vs noeN — 10/11 · 22:07
-
-👀 candidata · 🎮⚽ FC 27 · World Cup A · **Empate** @ **5.60** (Unibet) · prob 20% vs casas 16% · ventaja +15%
-
-- ✅ Valor: ventaja +15% (mín. 12% con la incertidumbre, máx. 30%)
+- ✅ Valor: ventaja +13% (mín. 12% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 63.425 partidos)  
-Goles esperados: kkikus 2.36 · noeN 2.81  
-Ganador: kkikus 28% · empate 21% · noeN 52%  
-Total: más de 5.5 goles 41% · menos 59%  
-Hándicap noeN: −1.5 31% · −2.5 18%  
+📊 **Escenarios** (Poisson por jugador, 63.466 partidos)  
+Goles esperados: kkikus 2.25 · Simaponika 3.15  
+Ganador: kkikus 21% · empate 19% · Simaponika 60%  
+Total: más de 5.5 goles 45% · menos 55%  
+Hándicap Simaponika: −1.5 39% · −2.5 24%  
 🔎 **Claves**  
-• Forma: kkikus ➖➖❌❌❌ | noeN ➖❌❌✅❌  
-• Partidos: kkikus 961 | noeN 916  
+• Forma: kkikus ❌❌❌❌➖ | Simaponika ❌✅✅✅❌  
+• Partidos: kkikus 963 | Simaponika 1090  
 • Liga: World Cup A  
-• Unibet: 1 3.30 · X 5.60 · 2 1.49 (sin margen 26%/15%/58%) · ventaja +15%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 5.60 (+15%) · Paf España 5.60 (+15%)  
+• Unibet: 1 3.85 · X 6.10 · 2 1.37 (sin margen 23%/14%/63%) · ventaja +13%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 6.10 (+13%) · Paf España 6.10 (+13%)  
+
+## Buu vs cappo — 10/11 · 22:32
+
+👀 candidata · 🎮⚽ FC 27 · Champions League B 2x6 · **Empate** @ **7.00** (Unibet) · prob 15% vs casas 12% · ventaja +6%
+
+- ❌ Valor: ventaja +6% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 63.466 partidos)  
+Goles esperados: Buu 4.81 · cappo 4.14  
+Ganador: Buu 53% · empate 15% · cappo 32%  
+Total: más de 8.5 goles 54% · menos 46%  
+Hándicap Buu: −1.5 39% · −2.5 27%  
+🔎 **Claves**  
+• Forma: Buu ➖✅❌✅❌ | cappo ➖✅✅❌✅  
+• Partidos: Buu 761 | cappo 346  
+• Liga: Champions League B 2x6  
+• Unibet: 1 1.46 · X 7.00 · 2 3.10 (sin margen 60%/12%/28%) · ventaja +6%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 7.00 (+6%) · Paf España 7.00 (+6%)  
 
