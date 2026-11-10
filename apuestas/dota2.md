@@ -1,6 +1,6 @@
 # 🐉 Dota 2 · apuestas de valor
 
-Actualizado 10/11/2026 12:46 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 10/11/2026 13:17 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## PlayTime vs Team Synapse — 11/11 · 11:00
 

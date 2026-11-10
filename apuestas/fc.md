@@ -1,78 +1,61 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 10/11/2026 12:46 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 10/11/2026 13:17 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## A1ose vs cl1vlind — 10/11 · 12:54
+## cl1vlind vs RuBIX — 10/11 · 13:18
 
-👀 candidata · 🎮⚽ FC 27 · Bundesliga · **Gana A1ose** @ **2.38** (Unibet) · prob 47% vs casas 36% · ventaja +11%
+👀 candidata · 🎮⚽ FC 27 · Bundesliga · **Gana cl1vlind** @ **3.25** (Unibet) · prob 33% vs casas 27% · ventaja +6%
 
-- ❌ Valor: ventaja +11% (mín. 11% con la incertidumbre, máx. 30%)
+- ❌ Valor: ventaja +6% (mín. 9% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 62.942 partidos)  
-Goles esperados: A1ose 3.06 · cl1vlind 2.68  
-Ganador: A1ose 47% · empate 20% · cl1vlind 34%  
-Total: más de 5.5 goles 51% · menos 49%  
-Hándicap A1ose: −1.5 31% · −2.5 18%  
+📊 **Escenarios** (Poisson por jugador, 62.966 partidos)  
+Goles esperados: cl1vlind 2.40 · RuBIX 2.83  
+Ganador: cl1vlind 33% · empate 21% · RuBIX 46%  
+Total: más de 5.5 goles 42% · menos 58%  
+Hándicap RuBIX: −1.5 31% · −2.5 18%  
 🔎 **Claves**  
-• Forma: A1ose ❌✅✅✅➖ | cl1vlind ➖❌❌❌➖  
-• Partidos: A1ose 907 | cl1vlind 565  
+• Forma: cl1vlind ❌❌➖✅➖ | RuBIX ❌❌✅✅➖  
+• Partidos: cl1vlind 567 | RuBIX 118  
 • Liga: Bundesliga  
-• Unibet: 1 2.38 · X 2.55 · 2 2.90 (sin margen 36%/34%/30%) · ventaja +11%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.38 (+11%) · Paf España 2.38 (+11%)  
+• Unibet: 1 3.25 · X 5.00 · 2 1.60 (sin margen 27%/18%/55%) · ventaja +6%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 3.25 (+6%) · Paf España 3.25 (+6%)  
 
-## Loka vs ramzes — 10/11 · 12:56
+## Totti vs Lumix — 10/11 · 13:22
 
-👀 candidata · 🎮⚽ FC 27 · CSL · **Gana Loka** @ **1.20** (cuota justa (sin casa)) · prob 84% vs casas 84% · ventaja +0%
+👀 candidata · 🎮⚽ FC 27 · FA Cup · **Gana Lumix** @ **2.06** (Unibet) · prob 55% vs casas 42% · ventaja +13%
 
-- ❌ Valor: ventaja +0% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 62.861 partidos)  
-Goles esperados: Loka 5.61 · ramzes 2.54  
-Ganador: Loka 84% · empate 7% · ramzes 9%  
-Total: más de 8.5 goles 43% · menos 57%  
-Hándicap Loka: −1.5 71% · −2.5 57%  
-🔎 **Claves**  
-• Forma: Loka ✅➖✅➖➖ | ramzes ✅✅✅➖❌  
-• Partidos: Loka 1172 | ramzes 1128  
-• Liga: CSL  
-• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
-
-## kamito vs Loka — 10/11 · 13:08
-
-👀 candidata · 🎮⚽ FC 27 · CSL · **Gana Loka** @ **1.16** (cuota justa (sin casa)) · prob 86% vs casas 86% · ventaja +0%
-
-- ❌ Valor: ventaja +0% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 62.861 partidos)  
-Goles esperados: kamito 2.83 · Loka 6.04  
-Ganador: kamito 7% · empate 6% · Loka 87%  
-Total: más de 8.5 goles 53% · menos 47%  
-Hándicap Loka: −1.5 71% · −2.5 59%  
-🔎 **Claves**  
-• Forma: kamito ❌❌❌❌➖ | Loka ✅➖✅➖➖  
-• Partidos: kamito 512 | Loka 1172  
-• Liga: CSL  
-• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
-
-## imagin vs flamez — 10/11 · 13:08
-
-👀 candidata · 🎮⚽ FC 27 · Champions League A 2x6 · **Gana imagin** @ **4.30** (Unibet) · prob 29% vs casas 20% · ventaja +26%
-
-- ✅ Valor: ventaja +26% (mín. 15% con la incertidumbre, máx. 30%)
+- ✅ Valor: ventaja +13% (mín. 12% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 62.942 partidos)  
-Goles esperados: imagin 4.12 · flamez 5.04  
-Ganador: imagin 29% · empate 14% · flamez 56%  
-Total: más de 9.5 goles 43% · menos 57%  
-Hándicap flamez: −1.5 42% · −2.5 30%  
+📊 **Escenarios** (Poisson por jugador, 62.966 partidos)  
+Goles esperados: Totti 2.28 · Lumix 2.96  
+Ganador: Totti 25% · empate 20% · Lumix 55%  
+Total: más de 5.5 goles 43% · menos 57%  
+Hándicap Lumix: −1.5 35% · −2.5 21%  
 🔎 **Claves**  
-• Forma: imagin ❌➖✅❌❌ | flamez ❌❌✅❌➖  
-• Partidos: imagin 255 | flamez 733  
-• Liga: Champions League A 2x6  
-• Unibet: 1 4.30 · X 8.00 · 2 1.26 (sin margen 20%/11%/69%) · ventaja +26%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 4.30 (+26%) · Paf España 4.30 (+26%)  
+• Forma: Totti ❌➖✅✅✅ | Lumix ➖❌❌➖❌  
+• Partidos: Totti 1002 | Lumix 1041  
+• Liga: FA Cup  
+• Unibet: 1 2.88 · X 3.15 · 2 2.06 (sin margen 30%/28%/42%) · ventaja +13%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.06 (+13%) · Paf España 2.06 (+13%)  
+
+## kamito vs crinner — 10/11 · 13:30
+
+👀 candidata · 🎮⚽ FC 27 · CSL · **Gana crinner** @ **1.46** (Unibet) · prob 80% vs casas 59% · ventaja +17%
+
+- ✅ Valor: ventaja +17% (mín. 13% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 62.966 partidos)  
+Goles esperados: kamito 2.54 · crinner 4.63  
+Ganador: kamito 9% · empate 11% · crinner 80%  
+Total: más de 7.5 goles 43% · menos 57%  
+Hándicap crinner: −1.5 58% · −2.5 43%  
+🔎 **Claves**  
+• Forma: kamito ❌❌❌❌❌ | crinner ✅✅✅✅✅  
+• Partidos: kamito 519 | crinner 994  
+• Liga: CSL  
+• Unibet: 1 3.35 · X 5.80 · 2 1.46 (sin margen 26%/15%/59%) · ventaja +17%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 1.46 (+17%) · Paf España 1.46 (+17%)  
 
