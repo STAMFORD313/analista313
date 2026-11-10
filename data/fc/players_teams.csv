@@ -63149,14 +63149,14 @@ id,tournament_id,club1,club2,ht1,ht2
 2372924,261562,Germany,Spain,,
 2372925,261562,France,Germany,,
 2372926,261562,England,Argentina,,
-2373229,261535,Porto,Aston Villa,2,1
-2373230,261535,Salzburg,Roma,1,1
-2373231,261535,Roma,Porto,1,1
-2373232,261535,Aston Villa,Fenerbahce,1,1
-2373233,261535,Fenerbahce,Roma,1,1
-2373234,261535,Porto,Salzburg,2,1
-2373235,261535,Salzburg,Fenerbahce,1,2
-2373236,261535,Roma,Aston Villa,6,1
+2373229,261535,Porto,Aston Villa,2.0,1.0
+2373230,261535,Salzburg,Roma,1.0,1.0
+2373231,261535,Roma,Porto,1.0,1.0
+2373232,261535,Aston Villa,Fenerbahce,1.0,1.0
+2373233,261535,Fenerbahce,Roma,1.0,1.0
+2373234,261535,Porto,Salzburg,2.0,1.0
+2373235,261535,Salzburg,Fenerbahce,1.0,2.0
+2373236,261535,Roma,Aston Villa,6.0,1.0
 2373237,261535,Aston Villa,Salzburg,,
 2373238,261535,Fenerbahce,Porto,,
 2373239,261535,Aston Villa,Porto,,
@@ -63169,16 +63169,16 @@ id,tournament_id,club1,club2,ht1,ht2
 2373246,261535,Aston Villa,Roma,,
 2373247,261535,Salzburg,Aston Villa,,
 2373248,261535,Porto,Fenerbahce,,
-2373037,261567,Sassuolo,Bologna,0,0
-2373038,261567,Napoli,Juventus,1,2
-2373039,261567,Juventus,Sassuolo,2,2
-2373040,261567,Bologna,Roma,0,0
-2373041,261567,Roma,Juventus,2,1
-2373042,261567,Sassuolo,Napoli,1,4
-2373043,261567,Napoli,Roma,3,2
-2373044,261567,Juventus,Bologna,2,1
-2373045,261567,Bologna,Napoli,1,2
-2373046,261567,Roma,Sassuolo,2,2
+2373037,261567,Sassuolo,Bologna,0.0,0.0
+2373038,261567,Napoli,Juventus,1.0,2.0
+2373039,261567,Juventus,Sassuolo,2.0,2.0
+2373040,261567,Bologna,Roma,0.0,0.0
+2373041,261567,Roma,Juventus,2.0,1.0
+2373042,261567,Sassuolo,Napoli,1.0,4.0
+2373043,261567,Napoli,Roma,3.0,2.0
+2373044,261567,Juventus,Bologna,2.0,1.0
+2373045,261567,Bologna,Napoli,1.0,2.0
+2373046,261567,Roma,Sassuolo,2.0,2.0
 2373047,261567,Bologna,Sassuolo,,
 2373048,261567,Juventus,Napoli,,
 2373049,261567,Sassuolo,Juventus,,
@@ -63189,3 +63189,23 @@ id,tournament_id,club1,club2,ht1,ht2
 2373054,261567,Bologna,Juventus,,
 2373055,261567,Napoli,Bologna,,
 2373056,261567,Sassuolo,Roma,,
+2373369,261543,B Dortmund,Man City,2,1
+2373370,261543,Sporting CP,Juventus,3,0
+2373371,261543,Juventus,B Dortmund,2,2
+2373372,261543,Man City,Arsenal,1,1
+2373373,261543,Arsenal,Juventus,1,1
+2373374,261543,B Dortmund,Sporting CP,1,1
+2373375,261543,Sporting CP,Arsenal,0,1
+2373376,261543,Juventus,Man City,1,1
+2373377,261543,Man City,Sporting CP,2,2
+2373378,261543,Arsenal,B Dortmund,2,4
+2373379,261543,Man City,B Dortmund,,
+2373380,261543,Juventus,Sporting CP,,
+2373381,261543,B Dortmund,Juventus,,
+2373382,261543,Arsenal,Man City,,
+2373383,261543,Juventus,Arsenal,,
+2373384,261543,Sporting CP,B Dortmund,,
+2373385,261543,Arsenal,Sporting CP,,
+2373386,261543,Man City,Juventus,,
+2373387,261543,Sporting CP,Man City,,
+2373388,261543,B Dortmund,Arsenal,,
