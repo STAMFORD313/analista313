@@ -63329,20 +63329,20 @@ id,tournament_id,club1,club2,ht1,ht2
 2372944,261564,Arsenal,B Dortmund,,
 2372945,261564,Sporting CP,Arsenal,,
 2372946,261564,Juventus,Man City,,
-2372559,261521,Germany,Argentina,1,1
-2372560,261521,England,France,3,0
-2372561,261521,France,Germany,1,0
-2372562,261521,Argentina,Spain,0,2
-2372563,261521,Spain,France,2,0
-2372564,261521,Germany,England,1,3
-2372565,261521,England,Spain,1,2
-2372566,261521,France,Argentina,2,3
-2372567,261521,Argentina,England,3,0
-2372568,261521,Spain,Germany,2,3
-2372569,261521,Argentina,Germany,0,1
-2372570,261521,France,England,0,1
-2372571,261521,Germany,France,3,1
-2372572,261521,Spain,Argentina,1,1
+2372559,261521,Germany,Argentina,1.0,1.0
+2372560,261521,England,France,3.0,0.0
+2372561,261521,France,Germany,1.0,0.0
+2372562,261521,Argentina,Spain,0.0,2.0
+2372563,261521,Spain,France,2.0,0.0
+2372564,261521,Germany,England,1.0,3.0
+2372565,261521,England,Spain,1.0,2.0
+2372566,261521,France,Argentina,2.0,3.0
+2372567,261521,Argentina,England,3.0,0.0
+2372568,261521,Spain,Germany,2.0,3.0
+2372569,261521,Argentina,Germany,0.0,1.0
+2372570,261521,France,England,0.0,1.0
+2372571,261521,Germany,France,3.0,1.0
+2372572,261521,Spain,Argentina,1.0,1.0
 2372573,261521,France,Spain,,
 2372574,261521,England,Germany,,
 2372575,261521,Spain,England,,
