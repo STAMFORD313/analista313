@@ -1,12 +1,12 @@
 {
  "qb_pen": 90,
  "w": 0.2,
- "n_test": 1821,
- "ll_mercado": 0.6084,
- "ll_mezcla": 0.6101,
+ "n_test": 1823,
+ "ll_mercado": 0.6082,
+ "ll_mezcla": 0.6099,
  "se": 0.0009,
- "ll_elo_qb": 0.6341,
- "ll_elo": 0.6375,
+ "ll_elo_qb": 0.6339,
+ "ll_elo": 0.6374,
  "roi_0.03": [
   -0.1106,
   0.0822,
