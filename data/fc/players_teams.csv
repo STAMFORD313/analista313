@@ -62381,16 +62381,16 @@ id,tournament_id,club1,club2,ht1,ht2
 2371415,261472,Germany,Netherlands,,
 2371416,261472,Morocco,Germany,,
 2371417,261472,Norway,Czechia,,
-2370388,261415,Arsenal,Tottenham,1,0
-2370389,261415,Chelsea,Man City,2,0
-2370390,261415,Man City,Arsenal,1,2
-2370391,261415,Tottenham,Liverpool,1,0
-2370393,261415,Liverpool,Man City,0,4
-2370395,261415,Arsenal,Chelsea,0,1
-2370398,261415,Chelsea,Liverpool,2,0
-2370400,261415,Man City,Tottenham,2,2
-2370402,261415,Tottenham,Chelsea,1,1
-2370404,261415,Liverpool,Arsenal,1,2
+2370388,261415,Arsenal,Tottenham,1.0,0.0
+2370389,261415,Chelsea,Man City,2.0,0.0
+2370390,261415,Man City,Arsenal,1.0,2.0
+2370391,261415,Tottenham,Liverpool,1.0,0.0
+2370393,261415,Liverpool,Man City,0.0,4.0
+2370395,261415,Arsenal,Chelsea,0.0,1.0
+2370398,261415,Chelsea,Liverpool,2.0,0.0
+2370400,261415,Man City,Tottenham,2.0,2.0
+2370402,261415,Tottenham,Chelsea,1.0,1.0
+2370404,261415,Liverpool,Arsenal,1.0,2.0
 2370406,261415,Tottenham,Arsenal,,
 2370408,261415,Man City,Chelsea,,
 2370410,261415,Arsenal,Man City,,
@@ -62401,14 +62401,14 @@ id,tournament_id,club1,club2,ht1,ht2
 2370420,261415,Tottenham,Man City,,
 2370422,261415,Chelsea,Tottenham,,
 2370424,261415,Arsenal,Liverpool,,
-2370548,261429,Sassuolo,Roma,3,1
-2370549,261429,Napoli,Juventus,0,2
-2370550,261429,Juventus,Sassuolo,1,2
-2370551,261429,Roma,Bologna,0,2
-2370552,261429,Bologna,Juventus,1,1
-2370553,261429,Sassuolo,Napoli,4,0
-2370554,261429,Napoli,Bologna,0,1
-2370555,261429,Juventus,Roma,2,1
+2370548,261429,Sassuolo,Roma,3.0,1.0
+2370549,261429,Napoli,Juventus,0.0,2.0
+2370550,261429,Juventus,Sassuolo,1.0,2.0
+2370551,261429,Roma,Bologna,0.0,2.0
+2370552,261429,Bologna,Juventus,1.0,1.0
+2370553,261429,Sassuolo,Napoli,4.0,0.0
+2370554,261429,Napoli,Bologna,0.0,1.0
+2370555,261429,Juventus,Roma,2.0,1.0
 2370556,261429,Roma,Napoli,,
 2370557,261429,Bologna,Sassuolo,,
 2370558,261429,Roma,Sassuolo,,
@@ -62421,3 +62421,23 @@ id,tournament_id,club1,club2,ht1,ht2
 2370565,261429,Roma,Juventus,,
 2370566,261429,Napoli,Roma,,
 2370567,261429,Sassuolo,Bologna,,
+2371226,261445,Spain,Brazil,2,1
+2371227,261445,France,Argentina,1,0
+2371228,261445,Argentina,Spain,4,0
+2371229,261445,Brazil,England,3,1
+2371230,261445,England,Argentina,1,1
+2371231,261445,Spain,France,1,1
+2371232,261445,France,England,1,1
+2371233,261445,Argentina,Brazil,1,0
+2371234,261445,Brazil,France,1,0
+2371235,261445,England,Spain,1,0
+2371236,261445,Brazil,Spain,,
+2371237,261445,Argentina,France,,
+2371238,261445,Spain,Argentina,,
+2371239,261445,England,Brazil,,
+2371240,261445,Argentina,England,,
+2371241,261445,France,Spain,,
+2371242,261445,England,France,,
+2371243,261445,Brazil,Argentina,,
+2371244,261445,France,Brazil,,
+2371245,261445,Spain,England,,

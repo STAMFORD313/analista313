@@ -1,6 +1,6 @@
 # 🏈 NFL·NCAA · apuestas de valor
 
-Actualizado 10/11/2026 00:48 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 10/11/2026 01:19 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Minnesota Vikings vs Buffalo Bills — 10/11 · 02:15
 
@@ -315,4 +315,129 @@ Hándicap TOL -14.5 · Total puntos 52.5
 • H2H: 4 desde 2021: 4-0  
 • Bajas: Toledo Rockets: sin bajas; Massachusetts Minutemen: sin bajas  
 • Favorito de las casas: Toledo Rockets @ 1.17  
+
+## South Florida Bulls vs Memphis Tigers — 13/11 · 02:00
+
+👀 candidata · 🏈 NCAA Football · **Más de 49.5 puntos** @ **1.87** (DraftKings) · prob 51% vs casas 51% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🏈 totales» sin pérdidas demostradas
+
+📊 **Escenarios**: total esperado **53.2** puntos · línea 49.5  
+Más 51% · Menos 49%  
+🔎 **Claves**  
+• Forma: South Florida Bulls ❌❌✅✅❌ | Memphis Tigers ✅✅❌✅✅  
+• H2H: 6 desde 2016: 1-5  
+• Bajas: South Florida Bulls: sin bajas; Memphis Tigers: sin bajas  
+
+## South Florida Bulls vs Memphis Tigers — 13/11 · 02:00
+
+👀 candidata · 🏈 NCAA Football · **South Florida Bulls +4** @ **1.91** (DraftKings) · prob 50% vs casas 50% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🏈 hándicap» sin pérdidas demostradas
+
+📊 **Escenarios**: South Florida Bulls cubre +4 con prob. 50% (casas 50%)  
+🔎 **Claves**  
+• Forma: South Florida Bulls ❌❌✅✅❌ | Memphis Tigers ✅✅❌✅✅  
+• H2H: 6 desde 2016: 1-5  
+• Bajas: South Florida Bulls: sin bajas; Memphis Tigers: sin bajas  
+
+## South Florida Bulls vs Memphis Tigers — 13/11 · 02:00
+
+👀 candidata · 🏈 NCAA Football · **Gana South Florida Bulls** @ **2.60** (DraftKings) · prob 37% vs casas 37% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🏈 no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo con 9.518 partidos y bajas)  
+Gana South Florida Bulls 47% · Gana Memphis Tigers 53%  
+Casas: South Florida Bulls 37% · Memphis Tigers 63%  
+Hándicap MEM -4 · Total puntos 49.5  
+🔎 **Claves**  
+• Forma: South Florida Bulls ❌❌✅✅❌ | Memphis Tigers ✅✅❌✅✅  
+• H2H: 6 desde 2016: 1-5  
+• Bajas: South Florida Bulls: sin bajas; Memphis Tigers: sin bajas  
+• Favorito de las casas: Memphis Tigers @ 1.52  
+
+## New York Giants vs Washington Commanders — 13/11 · 02:15
+
+👀 candidata · 🏈 NFL · **Más de 42.5 puntos** @ **1.95** (DraftKings) · prob 49% vs casas 49% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🏈 totales» sin pérdidas demostradas
+
+📊 **Escenarios**: total esperado **43.8** puntos · línea 42.5  
+Más 49% · Menos 51%  
+🔎 **Claves**  
+• Forma: New York Giants ✅➖❌✅✅ | Washington Commanders ❌➖❌✅❌  
+• H2H: 15 desde 2019: 7-6  
+• Bajas: New York Giants: 1 fuera, 24 duda (Cam Skattebo); Washington Commanders: 5 fuera, 20 duda (Treylon Burks, Dyami Brown, Daron Payne)  
+🧩 Combinada: Gana Washington Commanders + Menos de 42.5 puntos → prob. 25%, cuota justa 4.06  
+🎯 No simulada (NFL): cuota DraftKings aprox. 3.93 (producto de piernas) · prob. 25% · ventaja -3%  
+
+## New York Giants vs Washington Commanders — 13/11 · 02:15
+
+👀 candidata · 🏈 NFL · **New York Giants -2.5** @ **1.91** (DraftKings) · prob 50% vs casas 50% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🏈 hándicap» sin pérdidas demostradas
+
+📊 **Escenarios**: New York Giants cubre -2.5 con prob. 50% (casas 50%)  
+🔎 **Claves**  
+• Forma: New York Giants ✅➖❌✅✅ | Washington Commanders ❌➖❌✅❌  
+• H2H: 15 desde 2019: 7-6  
+• Bajas: New York Giants: 1 fuera, 24 duda (Cam Skattebo); Washington Commanders: 5 fuera, 20 duda (Treylon Burks, Dyami Brown, Daron Payne)  
+🧩 Combinada: Gana Washington Commanders + Menos de 42.5 puntos → prob. 25%, cuota justa 4.06  
+🎯 No simulada (NFL): cuota DraftKings aprox. 3.93 (producto de piernas) · prob. 25% · ventaja -3%  
+
+## New York Giants vs Washington Commanders — 13/11 · 02:15
+
+👀 candidata · 🏈 NFL · **Gana New York Giants** @ **1.77** (DraftKings) · prob 54% vs casas 54% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🏈 favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo con 3.273 partidos y bajas)  
+Gana New York Giants 72% · Gana Washington Commanders 28%  
+Casas: New York Giants 54% · Washington Commanders 46%  
+Hándicap NYG -2.5 · Total puntos 42.5  
+🔎 **Claves**  
+• Forma: New York Giants ✅➖❌✅✅ | Washington Commanders ❌➖❌✅❌  
+• H2H: 15 desde 2019: 7-6  
+• Bajas: New York Giants: 1 fuera, 24 duda (Cam Skattebo); Washington Commanders: 5 fuera, 20 duda (Treylon Burks, Dyami Brown, Daron Payne)  
+• Favorito de las casas: New York Giants @ 1.77  
+🧩 Combinada: Gana Washington Commanders + Menos de 42.5 puntos → prob. 25%, cuota justa 4.06  
+🎯 No simulada (NFL): cuota DraftKings aprox. 3.93 (producto de piernas) · prob. 25% · ventaja -3%  
+
+## UL Monroe Warhawks vs Louisiana Ragin' Cajuns — 13/11 · 03:00
+
+👀 candidata · 🏈 NCAA Football · **Más de 49.5 puntos** @ **1.93** (DraftKings) · prob 50% vs casas 50% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🏈 totales» sin pérdidas demostradas
+
+📊 **Escenarios**: total esperado **53.7** puntos · línea 49.5  
+Más 50% · Menos 50%  
+🔎 **Claves**  
+• Forma: UL Monroe Warhawks ❌❌✅❌✅ | Louisiana Ragin' Cajuns ✅❌✅❌✅  
+• H2H: 8 desde 2018: 1-7  
+• Bajas: UL Monroe Warhawks: sin bajas; Louisiana Ragin' Cajuns: sin bajas  
+
+## UL Monroe Warhawks vs Louisiana Ragin' Cajuns — 13/11 · 03:00
+
+👀 candidata · 🏈 NCAA Football · **Gana Louisiana Ragin' Cajuns** @ **1.24** (DraftKings) · prob 77% vs casas 77% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🏈 favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo con 9.518 partidos y bajas)  
+Gana UL Monroe Warhawks 17% · Gana Louisiana Ragin' Cajuns 83%  
+Casas: UL Monroe Warhawks 23% · Louisiana Ragin' Cajuns 77%  
+Hándicap UL -11.5 · Total puntos 49.5  
+🔎 **Claves**  
+• Forma: UL Monroe Warhawks ❌❌✅❌✅ | Louisiana Ragin' Cajuns ✅❌✅❌✅  
+• H2H: 8 desde 2018: 1-7  
+• Bajas: UL Monroe Warhawks: sin bajas; Louisiana Ragin' Cajuns: sin bajas  
+• Favorito de las casas: Louisiana Ragin' Cajuns @ 1.24  
 
