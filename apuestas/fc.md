@@ -1,61 +1,61 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 10/11/2026 20:12 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 10/11/2026 20:42 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## DEKSON vs Linox — 10/11 · 20:19
+## lzrn vs Animal — 10/11 · 20:46
 
-👀 candidata · 🎮⚽ FC 27 · Serie A · **Empate** @ **4.60** (Unibet) · prob 24% vs casas 19% · ventaja +12%
+👀 candidata · 🎮⚽ FC 27 · Premier League · **Gana Animal** @ **2.00** (Unibet) · prob 54% vs casas 43% · ventaja +8%
 
-- ✅ Valor: ventaja +12% (mín. 11% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
+- ❌ Valor: ventaja +8% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 63.342 partidos)  
-Goles esperados: DEKSON 2.00 · Linox 2.08  
-Ganador: DEKSON 35% · empate 24% · Linox 40%  
-Total: más de 4.5 goles 39% · menos 61%  
-Hándicap Linox: −1.5 23% · −2.5 11%  
+📊 **Escenarios** (Poisson por jugador, 63.371 partidos)  
+Goles esperados: lzrn 3.05 · Animal 3.74  
+Ganador: lzrn 29% · empate 17% · Animal 54%  
+Total: más de 6.5 goles 52% · menos 48%  
+Hándicap Animal: −1.5 37% · −2.5 24%  
 🔎 **Claves**  
-• Forma: DEKSON ✅➖❌✅➖ | Linox ❌✅✅❌✅  
-• Partidos: DEKSON 546 | Linox 832  
-• Liga: Serie A  
-• Unibet: 1 2.28 · X 4.60 · 2 2.04 (sin margen 38%/19%/43%) · ventaja +12%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 4.60 (+13%) · Paf España 4.60 (+13%)  
+• Forma: lzrn ✅➖❌❌✅ | Animal ✅✅➖➖➖  
+• Partidos: lzrn 833 | Animal 882  
+• Liga: Premier League  
+• Unibet: 1 2.35 · X 4.40 · 2 2.00 (sin margen 37%/20%/43%) · ventaja +8%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.00 (+8%) · Paf España 2.00 (+8%)  
 
-## Sena vs Mani — 10/11 · 20:19
+## borees vs Gaga — 10/11 · 20:52
 
-👀 candidata · 🎮⚽ FC 27 · Serie A · **Empate** @ **5.50** (Unibet) · prob 20% vs casas 16% · ventaja +12%
+👀 candidata · 🎮⚽ FC 27 · Europa League · **Gana Gaga** @ **3.00** (Unibet) · prob 40% vs casas 29% · ventaja +19%
 
-- ✅ Valor: ventaja +12% (mín. 11% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
+- ✅ Valor: ventaja +19% (mín. 13% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 63.342 partidos)  
-Goles esperados: Sena 2.80 · Mani 2.78  
-Ganador: Sena 40% · empate 20% · Mani 39%  
-Total: más de 5.5 goles 48% · menos 52%  
-Hándicap Sena: −1.5 26% · −2.5 14%  
+📊 **Escenarios** (Poisson por jugador, 63.371 partidos)  
+Goles esperados: borees 2.52 · Gaga 2.57  
+Ganador: borees 39% · empate 22% · Gaga 40%  
+Total: más de 5.5 goles 40% · menos 60%  
+Hándicap Gaga: −1.5 25% · −2.5 13%  
 🔎 **Claves**  
-• Forma: Sena ➖✅✅❌❌ | Mani ✅➖❌✅❌  
-• Partidos: Sena 664 | Mani 857  
-• Liga: Serie A  
-• Unibet: 1 2.16 · X 5.50 · 2 2.02 (sin margen 41%/16%/43%) · ventaja +12%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 5.50 (+12%) · Paf España 5.50 (+12%)  
+• Forma: borees ✅✅❌✅✅ | Gaga ❌✅❌✅❌  
+• Partidos: borees 1040 | Gaga 1155  
+• Liga: Europa League  
+• Unibet: 1 1.98 · X 3.20 · 2 3.00 (sin margen 44%/27%/29%) · ventaja +19%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 3.00 (+19%) · Paf España 3.00 (+19%)  
 
-## saportj vs mPm — 10/11 · 20:22
+## Animal vs hit — 10/11 · 20:58
 
-👀 candidata · 🎮⚽ FC 27 · Copa America · **Empate** @ **6.25** (Unibet) · prob 19% vs casas 14% · ventaja +21%
+👀 candidata · 🎮⚽ FC 27 · Premier League · **Gana Animal** @ **2.63** (Unibet) · prob 42% vs casas 33% · ventaja +11%
 
-- ✅ Valor: ventaja +21% (mín. 13% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
+- ❌ Valor: ventaja +11% (mín. 11% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 63.342 partidos)  
-Goles esperados: saportj 2.94 · mPm 3.10  
-Ganador: saportj 35% · empate 19% · mPm 46%  
-Total: más de 6.5 goles 40% · menos 60%  
-Hándicap mPm: −1.5 29% · −2.5 16%  
+📊 **Escenarios** (Poisson por jugador, 63.371 partidos)  
+Goles esperados: Animal 2.89 · hit 2.86  
+Ganador: Animal 42% · empate 20% · hit 38%  
+Total: más de 5.5 goles 51% · menos 49%  
+Hándicap Animal: −1.5 26% · −2.5 15%  
 🔎 **Claves**  
-• Forma: saportj ✅✅✅✅✅ | mPm ✅✅❌❌✅  
-• Partidos: saportj 792 | mPm 755  
-• Liga: Copa America  
-• Unibet: 1 1.70 · X 6.25 · 2 2.60 (sin margen 52%/14%/34%) · ventaja +21%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 6.25 (+21%) · Paf España 6.25 (+21%)  
+• Forma: Animal ✅✅➖➖➖ | hit ✅✅➖➖✅  
+• Partidos: Animal 882 | hit 735  
+• Liga: Premier League  
+• Unibet: 1 2.63 · X 3.00 · 2 2.25 (sin margen 33%/29%/38%) · ventaja +11%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.63 (+11%) · Paf España 2.63 (+11%)  
 
