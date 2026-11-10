@@ -62649,14 +62649,14 @@ id,tournament_id,club1,club2,ht1,ht2
 2371965,261518,Sweden,Denmark,,
 2371966,261518,Ghana,Sweden,,
 2371967,261518,USA,Mexico,,
-2372857,261561,Liverpool,Man City,2,0
-2373193,261561,Arsenal,Chelsea,3,1
-2372859,261561,Chelsea,Liverpool,2,5
-2372860,261561,Man City,Tottenham,2,3
-2372861,261561,Tottenham,Chelsea,2,2
-2373194,261561,Liverpool,Arsenal,2,1
-2373195,261561,Arsenal,Tottenham,2,0
-2372864,261561,Chelsea,Man City,2,1
+2372857,261561,Liverpool,Man City,2.0,0.0
+2373193,261561,Arsenal,Chelsea,3.0,1.0
+2372859,261561,Chelsea,Liverpool,2.0,5.0
+2372860,261561,Man City,Tottenham,2.0,3.0
+2372861,261561,Tottenham,Chelsea,2.0,2.0
+2373194,261561,Liverpool,Arsenal,2.0,1.0
+2373195,261561,Arsenal,Tottenham,2.0,0.0
+2372864,261561,Chelsea,Man City,2.0,1.0
 2373196,261561,Man City,Arsenal,,
 2372866,261561,Tottenham,Liverpool,,
 2372867,261561,Man City,Liverpool,,
@@ -62669,3 +62669,63 @@ id,tournament_id,club1,club2,ht1,ht2
 2372874,261561,Man City,Chelsea,,
 2373200,261561,Arsenal,Man City,,
 2372876,261561,Liverpool,Tottenham,,
+2372059,261531,Spain,Brazil,3,2
+2372060,261531,France,Argentina,1,1
+2372061,261531,Argentina,Spain,1,1
+2372062,261531,Brazil,England,2,1
+2372063,261531,England,Argentina,1,2
+2372064,261531,Spain,France,2,0
+2372065,261531,France,England,2,1
+2372066,261531,Argentina,Brazil,3,3
+2372067,261531,Brazil,France,2,2
+2372068,261531,England,Spain,1,2
+2372069,261531,Brazil,Spain,,
+2372070,261531,Argentina,France,,
+2372071,261531,Spain,Argentina,,
+2372072,261531,England,Brazil,,
+2372073,261531,Argentina,England,,
+2372074,261531,France,Spain,,
+2372075,261531,England,France,,
+2372076,261531,Brazil,Argentina,,
+2372077,261531,France,Brazil,,
+2372078,261531,Spain,England,,
+2372299,261560,Inter Miami CF,Atlanta United,0,3
+2372300,261560,LA Galaxy,Los Angeles FC,1,1
+2372301,261560,Los Angeles FC,Inter Miami CF,2,0
+2372302,261560,Atlanta United,Seattle Sounders FC,1,2
+2372303,261560,Seattle Sounders FC,Los Angeles FC,0,1
+2372304,261560,Inter Miami CF,LA Galaxy,1,1
+2372305,261560,LA Galaxy,Seattle Sounders FC,0,3
+2372306,261560,Los Angeles FC,Atlanta United,2,3
+2372307,261560,Atlanta United,LA Galaxy,0,0
+2372308,261560,Seattle Sounders FC,Inter Miami CF,0,0
+2372309,261560,Atlanta United,Inter Miami CF,,
+2372310,261560,Los Angeles FC,LA Galaxy,,
+2372311,261560,Inter Miami CF,Los Angeles FC,,
+2372312,261560,Seattle Sounders FC,Atlanta United,,
+2372313,261560,Los Angeles FC,Seattle Sounders FC,,
+2372314,261560,LA Galaxy,Inter Miami CF,,
+2372315,261560,Seattle Sounders FC,LA Galaxy,,
+2372316,261560,Atlanta United,Los Angeles FC,,
+2372317,261560,LA Galaxy,Atlanta United,,
+2372318,261560,Inter Miami CF,Seattle Sounders FC,,
+2372957,261571,B Dortmund,Stuttgart,3,2
+2372958,261571,Frankfurt,Leipzig,2,3
+2372959,261571,Leipzig,B Dortmund,2,2
+2372960,261571,Stuttgart,Bayern Munchen,1,3
+2372961,261571,Bayern Munchen,Leipzig,1,2
+2372962,261571,B Dortmund,Frankfurt,2,2
+2372963,261571,Frankfurt,Bayern Munchen,1,1
+2372964,261571,Leipzig,Stuttgart,2,1
+2372965,261571,Stuttgart,Frankfurt,0,1
+2372966,261571,Bayern Munchen,B Dortmund,2,1
+2372967,261571,Stuttgart,B Dortmund,3,3
+2372968,261571,Leipzig,Frankfurt,4,1
+2372969,261571,B Dortmund,Leipzig,,
+2372970,261571,Bayern Munchen,Stuttgart,,
+2372971,261571,Leipzig,Bayern Munchen,,
+2372972,261571,Frankfurt,B Dortmund,,
+2372973,261571,Bayern Munchen,Frankfurt,,
+2372974,261571,Stuttgart,Leipzig,,
+2372975,261571,Frankfurt,Stuttgart,,
+2372976,261571,B Dortmund,Bayern Munchen,,
