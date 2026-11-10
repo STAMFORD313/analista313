@@ -34662,5 +34662,8 @@ game_id,match_id,slug,date,tier,bo,tournament_id,tournament,t1_id,t2_id,team1,te
 193520,133974,bbl-vs-ww-10-11-2026,2026-11-10T20:00:00.000+00:00,b,3,6249,PGL Cluj-Napoca 2027: Open Qualifier 1,25251,16748,BBL,WW,3,de_ancient,25251,13.0,3.0
 193521,133974,bbl-vs-ww-10-11-2026,2026-11-10T20:00:00.000+00:00,b,3,6249,PGL Cluj-Napoca 2027: Open Qualifier 1,25251,16748,BBL,WW,2,de_nuke,25251,13.0,7.0
 193522,133974,bbl-vs-ww-10-11-2026,2026-11-10T20:00:00.000+00:00,b,3,6249,PGL Cluj-Napoca 2027: Open Qualifier 1,25251,16748,BBL,WW,1,de_mirage,16748,13.0,8.0
+193523,133975,basement-boys-vs-tpudcatb-tpu-10-11-2026,2026-11-10T21:20:00.000+00:00,b,3,6249,PGL Cluj-Napoca 2027: Open Qualifier 1,19881,22191,BASEMENT BOYS,33,3,de_ancient,22191,13.0,2.0
+193524,133975,basement-boys-vs-tpudcatb-tpu-10-11-2026,2026-11-10T21:20:00.000+00:00,b,3,6249,PGL Cluj-Napoca 2027: Open Qualifier 1,19881,22191,BASEMENT BOYS,33,2,de_mirage,22191,13.0,2.0
+193525,133975,basement-boys-vs-tpudcatb-tpu-10-11-2026,2026-11-10T21:20:00.000+00:00,b,3,6249,PGL Cluj-Napoca 2027: Open Qualifier 1,19881,22191,BASEMENT BOYS,33,1,de_nuke,19881,13.0,8.0
 193518,133973,pcific-esport-vs-gamesport-ru-10-11-2026,2026-11-10T21:30:00.000+00:00,b,3,6249,PGL Cluj-Napoca 2027: Open Qualifier 1,6255,24967,PCIFIC,GameSport,2,de_nuke,6255,13.0,8.0
 193519,133973,pcific-esport-vs-gamesport-ru-10-11-2026,2026-11-10T21:30:00.000+00:00,b,3,6249,PGL Cluj-Napoca 2027: Open Qualifier 1,6255,24967,PCIFIC,GameSport,1,de_inferno,6255,13.0,4.0
