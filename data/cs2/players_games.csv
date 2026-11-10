@@ -34659,3 +34659,6 @@ game_id,match_id,slug,date,tier,bo,tournament_id,tournament,t1_id,t2_id,team1,te
 192332,133192,isurus-gaming-cs-go-vs-red-canids-academy-10-11-2026,2026-11-10T19:20:00.000+00:00,b,3,5624,CCT South America 2026 Series 8,591,16743,Isurus,RED Canids Academy,1,de_mirage,591,13.0,3.0
 193515,133972,magic-ru-vs-pure-10-11-2026,2026-11-10T19:45:00.000+00:00,b,3,6249,PGL Cluj-Napoca 2027: Open Qualifier 1,22218,23113,magic,PURE,2,de_cache,22218,13.0,3.0
 193516,133972,magic-ru-vs-pure-10-11-2026,2026-11-10T19:45:00.000+00:00,b,3,6249,PGL Cluj-Napoca 2027: Open Qualifier 1,22218,23113,magic,PURE,1,de_inferno,22218,13.0,8.0
+193520,133974,bbl-vs-ww-10-11-2026,2026-11-10T20:00:00.000+00:00,b,3,6249,PGL Cluj-Napoca 2027: Open Qualifier 1,25251,16748,BBL,WW,3,de_ancient,25251,13.0,3.0
+193521,133974,bbl-vs-ww-10-11-2026,2026-11-10T20:00:00.000+00:00,b,3,6249,PGL Cluj-Napoca 2027: Open Qualifier 1,25251,16748,BBL,WW,2,de_nuke,25251,13.0,7.0
+193522,133974,bbl-vs-ww-10-11-2026,2026-11-10T20:00:00.000+00:00,b,3,6249,PGL Cluj-Napoca 2027: Open Qualifier 1,25251,16748,BBL,WW,1,de_mirage,16748,13.0,8.0
