@@ -1,42 +1,42 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 11/11/2026 00:32 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 11/11/2026 00:54 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## Paka vs SpeciAL — 11/11 · 00:38
+## Paka vs Dov1n — 11/11 · 01:02
 
-👀 candidata · 🎮⚽ FC 27 · Premier League · **Empate** @ **5.60** (Unibet) · prob 20% vs casas 16% · ventaja +9%
+👀 candidata · 🎮⚽ FC 27 · Premier League · **Gana Paka** @ **2.17** (Unibet) · prob 49% vs casas 40% · ventaja +7%
 
-- ❌ Valor: ventaja +9% (mín. 10% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
+- ❌ Valor: ventaja +7% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 63.563 partidos)  
-Goles esperados: Paka 2.92 · SpeciAL 3.11  
-Ganador: Paka 39% · empate 19% · SpeciAL 41%  
-Total: más de 6.5 goles 40% · menos 60%  
-Hándicap SpeciAL: −1.5 29% · −2.5 17%  
+📊 **Escenarios** (Poisson por jugador, 63.576 partidos)  
+Goles esperados: Paka 3.14 · Dov1n 2.76  
+Ganador: Paka 49% · empate 19% · Dov1n 31%  
+Total: más de 5.5 goles 54% · menos 46%  
+Hándicap Paka: −1.5 32% · −2.5 19%  
 🔎 **Claves**  
-• Forma: Paka ✅❌❌✅✅ | SpeciAL ✅✅✅❌❌  
-• Partidos: Paka 918 | SpeciAL 869  
+• Forma: Paka ❌✅✅➖✅ | Dov1n ❌❌❌➖❌  
+• Partidos: Paka 920 | Dov1n 1058  
 • Liga: Premier League  
-• Unibet: 1 2.10 · X 5.60 · 2 2.06 (sin margen 42%/16%/43%) · ventaja +9%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 5.60 (+9%) · Paf España 5.60 (+9%)  
+• Unibet: 1 2.17 · X 5.25 · 2 2.04 (sin margen 40%/17%/43%) · ventaja +7%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.17 (+7%) · Paf España 2.17 (+7%)  
 
-## kkikus vs Simaponika — 11/11 · 00:41
+## kkikus vs Kavviro — 11/11 · 01:05
 
-👀 candidata · 🎮⚽ FC 27 · Serie A · **Empate** @ **6.75** (Unibet) · prob 18% vs casas 13% · ventaja +25%
+👀 candidata · 🎮⚽ FC 27 · Serie A · **Empate** @ **11.00** (Unibet) · prob 11% vs casas 8% · ventaja +19%
 
-- ✅ Valor: ventaja +25% (mín. 15% con la incertidumbre, máx. 30%)
+- ✅ Valor: ventaja +19% (mín. 13% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 63.563 partidos)  
-Goles esperados: kkikus 2.23 · Simaponika 3.23  
-Ganador: kkikus 22% · empate 18% · Simaponika 59%  
+📊 **Escenarios** (Poisson por jugador, 63.576 partidos)  
+Goles esperados: kkikus 1.53 · Kavviro 3.91  
+Ganador: kkikus 7% · empate 11% · Kavviro 82%  
 Total: más de 5.5 goles 46% · menos 54%  
-Hándicap Simaponika: −1.5 41% · −2.5 25%  
+Hándicap Kavviro: −1.5 64% · −2.5 47%  
 🔎 **Claves**  
-• Forma: kkikus ❌❌❌❌✅ | Simaponika ✅✅✅❌❌  
-• Partidos: kkikus 971 | Simaponika 1098  
+• Forma: kkikus ❌❌✅❌✅ | Kavviro ➖❌✅✅✅  
+• Partidos: kkikus 973 | Kavviro 828  
 • Liga: Serie A  
-• Unibet: 1 4.60 · X 6.75 · 2 1.27 (sin margen 19%/13%/68%) · ventaja +25%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 6.75 (+25%) · Paf España 6.75 (+25%)  
+• Unibet: 1 10.50 · X 11.00 · 2 1.05 (sin margen 8%/8%/84%) · ventaja +19%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 11.00 (+19%) · Paf España 11.00 (+19%)  
 

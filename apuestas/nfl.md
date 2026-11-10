@@ -1,6 +1,6 @@
 # 🏈 NFL·NCAA · apuestas de valor
 
-Actualizado 11/11/2026 00:32 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 11/11/2026 00:54 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Akron Zips vs Western Michigan Broncos — 11/11 · 01:00
 
