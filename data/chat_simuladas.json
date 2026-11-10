@@ -863,7 +863,9 @@
     "away": "Nimes",
     "txt": "Gana Nimes",
     "odds": 2.45,
-    "p": 0.4239
+    "p": 0.4239,
+    "ok": "nula",
+    "por": "sin datos del partido"
    },
    {
     "src": "esports:dota2",
@@ -882,9 +884,9 @@
   "odds": 9.25,
   "p": 0.12076712621150562,
   "stake": 1.0,
-  "estado": "pendiente",
-  "avisada": false,
-  "rev": 1
+  "estado": "ganada",
+  "avisada": true,
+  "rev": 2
  },
  {
   "id": "20261106095755752600",
