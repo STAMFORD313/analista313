@@ -1217,7 +1217,9 @@
     "away": "Jong Ajax",
     "txt": "Gana FC Eindhoven",
     "odds": 2.39,
-    "p": 0.441
+    "p": 0.441,
+    "ok": "nula",
+    "por": "sin datos del partido"
    },
    {
     "src": "espn:nba",
@@ -1237,9 +1239,9 @@
   "odds": 5.35,
   "p": 0.20392280999999998,
   "stake": 1.0,
-  "estado": "pendiente",
-  "avisada": false,
-  "rev": 1
+  "estado": "ganada",
+  "avisada": true,
+  "rev": 2
  },
  {
   "id": "20261106202439203637",
