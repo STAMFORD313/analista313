@@ -1884,5 +1884,51 @@
   "estado": "perdida",
   "avisada": true,
   "rev": 2
+ },
+ {
+  "id": "20261110070937583601",
+  "creada": "2026-11-10 07:09:37.583643+00:00",
+  "titulo": "Barrido · Combinada cuota 5.5",
+  "legs": [
+   {
+    "src": "esports:cs2",
+    "side": "A",
+    "code": null,
+    "start": "2026-11-10 15:00:00+00:00",
+    "home": "FORZE Reload",
+    "away": "ex-RUSTEC",
+    "txt": "Gana ex-RUSTEC",
+    "odds": 2.1,
+    "p": 0.50654
+   },
+   {
+    "src": "esports:dota2",
+    "side": "H",
+    "code": null,
+    "start": "2026-11-11 16:00:00+00:00",
+    "home": "potn9ki",
+    "away": "Zenith",
+    "txt": "Gana potn9ki",
+    "odds": 1.46,
+    "p": 0.7215210045662099
+   },
+   {
+    "src": "esports:cs2",
+    "side": "H",
+    "code": null,
+    "start": "2026-11-11 17:00:00+00:00",
+    "home": "TTG Esports",
+    "away": "NoTime",
+    "txt": "Gana TTG Esports",
+    "odds": 1.8,
+    "p": 0.5797703703703703
+   }
+  ],
+  "odds": 5.52,
+  "p": 0.21189403993398626,
+  "stake": 1.0,
+  "estado": "pendiente",
+  "avisada": false,
+  "rev": 1
  }
 ]
