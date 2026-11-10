@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 10/11/2026 02:50 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 10/11/2026 03:20 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## KUUSAMO vs boyband — 10/11 · 19:00
 
@@ -21,6 +21,142 @@ Casas: KUUSAMO 39% · boyband 61%
 🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
 • KUUSAMO gana 2-1: 20% → cuota justa 4.89  
 • boyband gana 2-1: 23% → cuota justa 4.29  
+
+## BOJONG vs OldBoys FR — 10/11 · 19:00
+
+👀 candidata · 🎮 CS2 · ESEA Season 59: Advanced Division - Europe · **Gana BOJONG** @ **3.36** (Thunderpick) · prob 29% vs casas 28% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮 no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 76.670 partidos)  
+Mapa: BOJONG 29% · Serie BO1: BOJONG 29% - 71% OldBoys FR  
+Casas: BOJONG 28% · OldBoys FR 72%  
+🔎 **Claves**  
+• Elo: BOJONG 1418 (62 series) | OldBoys FR 1570 (54 series)  
+• Forma: BOJONG ❌✅✅❌❌ | OldBoys FR ✅✅❌❌❌  
+• H2H: sin precedentes  
+• Torneo: ESEA Season 59: Advanced Division - Europe (nivel C)  
+• Cambios de plantilla: ninguno  
+
+## Growth Lab Esports vs PARTIZAN — 10/11 · 20:30
+
+👀 candidata · 🎮 CS2 · ESEA Season 59: Advanced Division - Europe · **Gana PARTIZAN** @ **1.51** (Thunderpick) · prob 65% vs casas 61% · ventaja -2%
+
+- ❌ Valor: ventaja -2% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 76.670 partidos)  
+Mapa: Growth Lab Esports 31% · Serie BO1: Growth Lab Esports 31% - 69% PARTIZAN  
+Casas: Growth Lab Esports 39% · PARTIZAN 61%  
+🔎 **Claves**  
+• Elo: Growth Lab Esports 1345 (3 series) | PARTIZAN 1487 (46 series)  
+• Forma: Growth Lab Esports ❌❌❌ | PARTIZAN ❌❌❌✅✅  
+• H2H: sin precedentes  
+• Torneo: ESEA Season 59: Advanced Division - Europe (nivel C)  
+• Cambios de plantilla: ninguno  
+
+## BOJONG vs Fraternity — 10/11 · 20:30
+
+👀 candidata · 🎮 CS2 · ESEA Season 59: Advanced Division - Europe · **Gana BOJONG** @ **2.43** (Thunderpick) · prob 42% vs casas 38% · ventaja +3%
+
+- ❌ Valor: ventaja +3% (mín. 8% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮 no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 76.670 partidos)  
+Mapa: BOJONG 46% · Serie BO1: BOJONG 46% - 54% Fraternity  
+Casas: BOJONG 38% · Fraternity 62%  
+🔎 **Claves**  
+• Elo: BOJONG 1418 (62 series) | Fraternity 1443 (24 series)  
+• Forma: BOJONG ❌✅✅❌❌ | Fraternity ✅✅❌❌❌  
+• H2H: sin precedentes  
+• Torneo: ESEA Season 59: Advanced Division - Europe (nivel C)  
+• Cambios de plantilla: ninguno  
+
+## DimoniX vs Spirit HU — 10/11 · 20:30
+
+👀 candidata · 🎮 CS2 · ESEA Season 59: Advanced Division - Europe · **Gana DimoniX** @ **1.64** (Thunderpick) · prob 57% vs casas 56% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 76.670 partidos)  
+Mapa: DimoniX 58% · Serie BO1: DimoniX 58% - 42% Spirit HU  
+Casas: DimoniX 56% · Spirit HU 44%  
+🔎 **Claves**  
+• Elo: DimoniX 1392 (15 series) | Spirit HU 1333 (10 series)  
+• Forma: DimoniX ✅❌✅❌❌ | Spirit HU ❌❌❌❌❌  
+• H2H: sin precedentes  
+• Torneo: ESEA Season 59: Advanced Division - Europe (nivel C)  
+• Cambios de plantilla: ninguno  
+
+## Phantom Academy vs The Chosen Few — 10/11 · 20:30
+
+👀 candidata · 🎮 CS2 · ESEA Season 59: Advanced Division - Europe · **Gana Phantom Academy** @ **1.48** (Thunderpick) · prob 64% vs casas 62% · ventaja -5%
+
+- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 76.670 partidos)  
+Mapa: Phantom Academy 67% · Serie BO1: Phantom Academy 67% - 33% The Chosen Few  
+Casas: Phantom Academy 62% · The Chosen Few 38%  
+🔎 **Claves**  
+• Elo: Phantom Academy 1573 (104 series) | The Chosen Few 1453 (87 series)  
+• Forma: Phantom Academy ✅✅✅✅❌ | The Chosen Few ✅❌✅❌❌  
+• H2H: sin precedentes  
+• Torneo: ESEA Season 59: Advanced Division - Europe (nivel C)  
+• Cambios de plantilla: ninguno  
+
+## Banger Gang vs Falcons Force — 10/11 · 20:30
+
+👀 candidata · 🎮 CS2 · ESEA Season 59: Advanced Division - Europe · **Gana Banger Gang** @ **2.20** (Thunderpick) · prob 46% vs casas 42% · ventaja +1%
+
+- ❌ Valor: ventaja +1% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮 no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 76.670 partidos)  
+Mapa: Banger Gang 50% · Serie BO1: Banger Gang 50% - 50% Falcons Force  
+Casas: Banger Gang 42% · Falcons Force 58%  
+🔎 **Claves**  
+• Elo: Banger Gang 1577 (71 series) | Falcons Force 1579 (136 series)  
+• Forma: Banger Gang ✅❌✅✅❌ | Falcons Force ❌❌❌❌✅  
+• H2H: sin precedentes  
+• Torneo: ESEA Season 59: Advanced Division - Europe (nivel C)  
+• Cambios de plantilla: ninguno  
+
+## Young TigeRES vs OLDBOYS PL — 10/11 · 20:30
+
+👀 candidata · 🎮 CS2 · ESEA Season 59: Advanced Division - Europe · **Gana OLDBOYS PL** @ **1.61** (Thunderpick) · prob 58% vs casas 57% · ventaja -7%
+
+- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 76.670 partidos)  
+Mapa: Young TigeRES 41% · Serie BO1: Young TigeRES 41% - 59% OLDBOYS PL  
+Casas: Young TigeRES 43% · OLDBOYS PL 57%  
+🔎 **Claves**  
+• Elo: Young TigeRES 1679 (68 series) | OLDBOYS PL 1739 (81 series)  
+• Forma: Young TigeRES ❌✅✅✅✅ | OLDBOYS PL ✅✅✅✅✅  
+• H2H: sin precedentes  
+• Torneo: ESEA Season 59: Advanced Division - Europe (nivel C)  
+• Cambios de plantilla: ninguno  
+
+## OldBoys FR vs B8 Academy — 10/11 · 20:30
+
+👀 candidata · 🎮 CS2 · ESEA Season 59: Advanced Division - Europe · **Gana OldBoys FR** @ **1.98** (Thunderpick) · prob 48% vs casas 46% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 76.670 partidos)  
+Mapa: OldBoys FR 50% · Serie BO1: OldBoys FR 50% - 50% B8 Academy  
+Casas: OldBoys FR 46% · B8 Academy 54%  
+🔎 **Claves**  
+• Elo: OldBoys FR 1570 (54 series) | B8 Academy 1570 (93 series)  
+• Forma: OldBoys FR ✅✅❌❌❌ | B8 Academy ✅✅❌❌✅  
+• H2H: 1: 1-0  
+• Torneo: ESEA Season 59: Advanced Division - Europe (nivel C)  
+• Cambios de plantilla: ninguno  
 
 ## Legacy vs FURIA — 11/11 · 03:00
 
