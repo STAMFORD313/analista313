@@ -161,6 +161,9 @@ assert len(cards) == 2 and cards[1].count("🆚") == 2
 fc["signals"][0]["result"] = True; fc["signals"][0]["start"] = "2026-11-02"; fc["signals"][0]["book"] = "cuota justa (sin casa)"
 n0 = len(pd.read_csv(bankroll.LOG)); bankroll.log_signals(fc)
 assert len(pd.read_csv(bankroll.LOG)) == n0 + 1 and "| Total | 3 |" in "\n".join(bankroll.calibration_md())
+_fch = analyst.fetch; analyst.fetch = lambda url, *a, **k: None  # football-data caída (10/11: certificado caducado)
+try: _fxe = analyst.fixtures(); assert len(_fxe) == 0 and "Time" in _fxe and _fxe.sort_values(["Date", "Time"]).empty
+finally: analyst.fetch = _fch
 print("ok FC 27")
 
 # revisión experta: decisión por valor con incertidumbre, autoajuste con IC, tope por partido, combinada diaria y congelado

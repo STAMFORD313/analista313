@@ -99,6 +99,7 @@ def fixtures():
         n = load_csv(new, None)
         n["Div"] = n["Country"].map({c: code for code, (c, _) in NEW_LEAGUES.items()})
         fx = pd.concat([fx, n.dropna(subset=["Div"])], ignore_index=True)
+    if "Time" not in fx: fx["Time"] = None  # sin calendario (p. ej. certificado caducado de football-data): sin columna Time
     return fx[fx.Div.isin(list(ALL_LEAGUES))]
 
 
