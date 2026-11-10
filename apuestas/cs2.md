@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 10/11/2026 05:47 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 10/11/2026 06:16 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## KUUSAMO vs boyband — 10/11 · 19:00
 
@@ -313,4 +313,41 @@ Casas: MOUZ 76% · G2 24%
 🔫 **Kills esperados en la serie** (rango 80 %; mejor que la media de sus 10 últimas en 52.297 casos: log-loss 0.682→0.6559; sin cuotas de props, solo referencia)  
 MOUZ: Spinx 36 (20-52) · xertioN 36 (20-52) · torzsi 35 (20-52) · xelex 35 (20-52) · PR 34 (20-51)  
 G2: Nertz 31 (18-46) · HeavyGod 30 (17-45) · r1nkle 30 (17-45) · MATYS 30 (17-44) · huNter- 28 (16-42)  
+
+## Sissi State Punks vs Team LEISURE — 11/11 · 18:00
+
+👀 candidata · 🎮 CS2 · DACH CS Masters Season 6 · **Gana Sissi State Punks** @ **1.71** (Thunderpick) · prob 55% vs casas 53% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 76.670 partidos)  
+Mapa: Sissi State Punks 54% · Serie BO3: Sissi State Punks 57% - 43% Team LEISURE  
+Casas: Sissi State Punks 53% · Team LEISURE 47%  
+🔎 **Claves**  
+• Elo: Sissi State Punks 1408 (67 series) | Team LEISURE 1360 (15 series)  
+• Forma: Sissi State Punks ❌❌❌❌❌ | Team LEISURE ❌❌✅✅✅  
+• H2H: sin precedentes  
+• Torneo: DACH CS Masters Season 6 (nivel C)  
+• Cambios de plantilla: ninguno  
+🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
+• Sissi State Punks gana 2-1: 24% → cuota justa 4.22  
+• Team LEISURE gana 2-1: 20% → cuota justa 5.04  
+
+## TTG Esports vs NoTime — 11/11 · 18:00
+
+👀 candidata · 🎮 CS2 · ESEA Season 59: Advanced Division - Europe · **Gana TTG Esports** @ **1.80** (Thunderpick) · prob 61% vs casas 52% · ventaja +9%
+
+- ✅ Valor: ventaja +9% (mín. 9% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 76.670 partidos)  
+Mapa: TTG Esports 70% · Serie BO1: TTG Esports 70% - 30% NoTime  
+Casas: TTG Esports 51% · NoTime 49%  
+🔎 **Claves**  
+• Elo: TTG Esports 1670 (14 series) | NoTime 1525 (15 series)  
+• Forma: TTG Esports ❌✅✅✅✅ | NoTime ❌❌✅❌✅  
+• H2H: sin precedentes  
+• Torneo: ESEA Season 59: Advanced Division - Europe (nivel C)  
+• Cambios de plantilla: ninguno  
 

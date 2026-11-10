@@ -1,42 +1,61 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 10/11/2026 05:47 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 10/11/2026 06:16 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## Bjela vs Lx7ss — 10/11 · 05:56
+## kkikus vs Grellz — 10/11 · 06:23
 
-👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana Lx7ss** @ **2.75** (Unibet) · prob 40% vs casas 32% · ventaja +11%
+👀 candidata · 🎮⚽ FC 27 · Club World Cup · **Empate** @ **9.00** (Unibet) · prob 12% vs casas 10% · ventaja +8%
 
-- ❌ Valor: ventaja +11% (mín. 11% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+- ❌ Valor: ventaja +8% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 62.577 partidos)  
-Goles esperados: Bjela 3.15 · Lx7ss 3.13  
-Ganador: Bjela 39% · empate 21% · Lx7ss 40%  
-Total: más de 6.5 goles 44% · menos 56%  
-Hándicap Bjela: −1.5 27% · −2.5 16%  
+📊 **Escenarios** (Poisson por jugador, 62.596 partidos)  
+Goles esperados: kkikus 2.21 · Grellz 4.41  
+Ganador: kkikus 10% · empate 12% · Grellz 78%  
+Total: más de 6.5 goles 49% · menos 51%  
+Hándicap Grellz: −1.5 60% · −2.5 44%  
 🔎 **Claves**  
-• Forma: Bjela ➖❌❌✅❌ | Lx7ss ✅✅❌➖✅  
-• Partidos: Bjela 788 | Lx7ss 1078  
-• Liga: Champions League B  
-• Unibet: 1 1.83 · X 4.20 · 2 2.75 (sin margen 48%/21%/32%) · ventaja +11%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.75 (+11%) · Paf España 2.75 (+11%)  
+• Forma: kkikus ❌❌➖➖❌ | Grellz ✅✅✅➖✅  
+• Partidos: kkikus 959 | Grellz 1110  
+• Liga: Club World Cup  
+• Unibet: 1 8.00 · X 9.00 · 2 1.11 (sin margen 11%/10%/79%) · ventaja +8%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 9.00 (+8%) · Paf España 9.00 (+8%)  
 
-## Grellz vs noeN — 10/11 · 05:59
+## Tesla vs Totti — 10/11 · 06:30
 
-👀 candidata · 🎮⚽ FC 27 · Club World Cup · **Gana Grellz** @ **1.57** (Unibet) · prob 67% vs casas 56% · ventaja +6%
+👀 candidata · 🎮⚽ FC 27 · Bundesliga · **Gana Tesla** @ **1.58** (Unibet) · prob 67% vs casas 56% · ventaja +6%
 
 - ❌ Valor: ventaja +6% (mín. 9% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 62.577 partidos)  
-Goles esperados: Grellz 3.71 · noeN 2.17  
-Ganador: Grellz 67% · empate 16% · noeN 17%  
-Total: más de 5.5 goles 53% · menos 47%  
-Hándicap Grellz: −1.5 50% · −2.5 34%  
+📊 **Escenarios** (Poisson por jugador, 62.596 partidos)  
+Goles esperados: Tesla 3.82 · Totti 2.43  
+Ganador: Tesla 67% · empate 15% · Totti 18%  
+Total: más de 6.5 goles 43% · menos 57%  
+Hándicap Tesla: −1.5 48% · −2.5 32%  
 🔎 **Claves**  
-• Forma: Grellz ✅➖❌✅✅ | noeN ❌➖✅❌❌  
-• Partidos: Grellz 1107 | noeN 911  
-• Liga: Club World Cup  
-• Unibet: 1 1.57 · X 4.40 · 2 3.60 (sin margen 56%/20%/24%) · ventaja +6%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 1.57 (+6%) · Paf España 1.57 (+6%)  
+• Forma: Tesla ✅➖✅➖❌ | Totti ❌❌➖❌✅  
+• Partidos: Tesla 971 | Totti 978  
+• Liga: Bundesliga  
+• Unibet: 1 1.58 · X 4.60 · 2 3.50 (sin margen 56%/19%/25%) · ventaja +6%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 1.58 (+6%) · Paf España 1.58 (+6%)  
+
+## flamez vs Frantsuz — 10/11 · 06:36
+
+👀 candidata · 🎮⚽ FC 27 · Premier League 2x6 · **Gana Frantsuz** @ **2.60** (Unibet) · prob 42% vs casas 34% · ventaja +9%
+
+- ❌ Valor: ventaja +9% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 62.596 partidos)  
+Goles esperados: flamez 5.02 · Frantsuz 4.83  
+Ganador: flamez 46% · empate 12% · Frantsuz 42%  
+Total: más de 9.5 goles 52% · menos 48%  
+Hándicap flamez: −1.5 34% · −2.5 23%  
+🔎 **Claves**  
+• Forma: flamez ✅✅❌❌❌ | Frantsuz ➖✅❌❌✅  
+• Partidos: flamez 717 | Frantsuz 602  
+• Liga: Premier League 2x6  
+• Unibet: 1 1.85 · X 4.60 · 2 2.60 (sin margen 47%/19%/34%) · ventaja +9%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.60 (+9%) · Paf España 2.60 (+9%)  
 
