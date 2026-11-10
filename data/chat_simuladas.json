@@ -1776,7 +1776,10 @@
     "away": "Philadelphia Flyers",
     "txt": "Gana Philadelphia Flyers",
     "odds": 1.82,
-    "p": 0.5653803663003663
+    "p": 0.5653803663003663,
+    "ok": true,
+    "por": "ganó Philadelphia Flyers 3-1",
+    "clv": 0.034
    }
   ],
   "odds": 7.24,
@@ -1846,7 +1849,10 @@
     "away": "Los Angeles Lakers",
     "txt": "Gana Los Angeles Lakers",
     "odds": 2.21,
-    "p": 0.48563999999999996
+    "p": 0.48563999999999996,
+    "ok": true,
+    "por": "ganó Los Angeles Lakers 124-114",
+    "clv": 0.003
    },
    {
     "src": "espn:nba",
@@ -1857,7 +1863,10 @@
     "away": "Memphis Grizzlies",
     "txt": "Gana Toronto Raptors",
     "odds": 2.14,
-    "p": 0.58601
+    "p": 0.58601,
+    "ok": false,
+    "por": "ganó Memphis Grizzlies 118-102",
+    "clv": 0.03
    },
    {
     "code": null,
@@ -1872,8 +1881,8 @@
   "odds": 12.44,
   "p": 0.11727949630644,
   "stake": 1.0,
-  "estado": "pendiente",
-  "avisada": false,
-  "rev": 1
+  "estado": "perdida",
+  "avisada": true,
+  "rev": 2
  }
 ]
