@@ -63249,14 +63249,14 @@ id,tournament_id,club1,club2,ht1,ht2
 2372406,261559,Melbourne City,Melbourne Victory,,
 2372407,261559,Sydney FC,Melbourne City,,
 2372408,261559,Adelaide United,Western Sydney Wanderers,,
-2373057,261568,Netherlands,Portugal,2,3
-2373058,261568,Belgium,Morocco,4,1
-2373059,261568,Morocco,Netherlands,0,2
-2373060,261568,Portugal,Germany,0,1
-2373061,261568,Germany,Morocco,0,1
-2373062,261568,Netherlands,Belgium,1,1
-2373063,261568,Belgium,Germany,1,2
-2373064,261568,Morocco,Portugal,3,1
+2373057,261568,Netherlands,Portugal,2.0,3.0
+2373058,261568,Belgium,Morocco,4.0,1.0
+2373059,261568,Morocco,Netherlands,0.0,2.0
+2373060,261568,Portugal,Germany,0.0,1.0
+2373061,261568,Germany,Morocco,0.0,1.0
+2373062,261568,Netherlands,Belgium,1.0,1.0
+2373063,261568,Belgium,Germany,1.0,2.0
+2373064,261568,Morocco,Portugal,3.0,1.0
 2373065,261568,Portugal,Belgium,,
 2373066,261568,Germany,Netherlands,,
 2373067,261568,Portugal,Netherlands,,
@@ -63269,3 +63269,63 @@ id,tournament_id,club1,club2,ht1,ht2
 2373074,261568,Portugal,Morocco,,
 2373075,261568,Belgium,Portugal,,
 2373076,261568,Netherlands,Germany,,
+2373249,261536,Liverpool,Atleti,4,1
+2373250,261536,Paris,Bayern Munchen,1,3
+2373251,261536,Bayern Munchen,Liverpool,1,1
+2373252,261536,Atleti,Real Madrid,1,2
+2373253,261536,Real Madrid,Bayern Munchen,1,1
+2373254,261536,Liverpool,Paris,1,0
+2373255,261536,Paris,Real Madrid,0,1
+2373256,261536,Bayern Munchen,Atleti,3,0
+2373257,261536,Atleti,Paris,1,1
+2373258,261536,Real Madrid,Liverpool,0,0
+2373259,261536,Atleti,Liverpool,0,2
+2373260,261536,Bayern Munchen,Paris,1,0
+2373261,261536,Liverpool,Bayern Munchen,,
+2373262,261536,Real Madrid,Atleti,,
+2373263,261536,Bayern Munchen,Real Madrid,,
+2373264,261536,Paris,Liverpool,,
+2373265,261536,Real Madrid,Paris,,
+2373266,261536,Atleti,Bayern Munchen,,
+2373267,261536,Paris,Atleti,,
+2373268,261536,Liverpool,Real Madrid,,
+2373389,261544,Besiktas,Galatasaray,0,1
+2373390,261544,Fenerbahce,Trabzonspor,2,1
+2373391,261544,Trabzonspor,Besiktas,2,2
+2373392,261544,Galatasaray,Basaksehir,3,1
+2373393,261544,Basaksehir,Trabzonspor,0,1
+2373394,261544,Besiktas,Fenerbahce,0,0
+2373395,261544,Fenerbahce,Basaksehir,2,2
+2373396,261544,Trabzonspor,Galatasaray,1,4
+2373397,261544,Galatasaray,Fenerbahce,0,0
+2373398,261544,Basaksehir,Besiktas,0,0
+2373399,261544,Galatasaray,Besiktas,,
+2373400,261544,Trabzonspor,Fenerbahce,,
+2373401,261544,Besiktas,Trabzonspor,,
+2373402,261544,Basaksehir,Galatasaray,,
+2373403,261544,Trabzonspor,Basaksehir,,
+2373404,261544,Fenerbahce,Besiktas,,
+2373405,261544,Basaksehir,Fenerbahce,,
+2373406,261544,Galatasaray,Trabzonspor,,
+2373407,261544,Fenerbahce,Galatasaray,,
+2373408,261544,Besiktas,Basaksehir,,
+2372927,261564,Juventus,Arsenal,1,1
+2372928,261564,Sporting CP,B Dortmund,2,1
+2372929,261564,B Dortmund,Juventus,2,1
+2372930,261564,Arsenal,Man City,0,5
+2372931,261564,Man City,B Dortmund,1,3
+2372932,261564,Juventus,Sporting CP,0,1
+2372933,261564,Sporting CP,Man City,,
+2372934,261564,B Dortmund,Arsenal,,
+2372935,261564,Arsenal,Sporting CP,,
+2372936,261564,Man City,Juventus,,
+2372937,261564,Arsenal,Juventus,,
+2372938,261564,B Dortmund,Sporting CP,,
+2372939,261564,Juventus,B Dortmund,,
+2372940,261564,Man City,Arsenal,,
+2372941,261564,B Dortmund,Man City,,
+2372942,261564,Sporting CP,Juventus,,
+2372943,261564,Man City,Sporting CP,,
+2372944,261564,Arsenal,B Dortmund,,
+2372945,261564,Sporting CP,Arsenal,,
+2372946,261564,Juventus,Man City,,
