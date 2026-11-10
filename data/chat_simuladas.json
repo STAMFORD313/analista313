@@ -1979,5 +1979,45 @@
   "estado": "pendiente",
   "avisada": false,
   "rev": 1
+ },
+ {
+  "id": "20261110175025158797",
+  "creada": "2026-11-10 17:50:25.158827+00:00",
+  "titulo": "Barrido · Combinada cuota 7.2",
+  "legs": [
+   {
+    "code": null,
+    "start": "2026-11-10 19:00:00+00:00",
+    "home": "Grimsby Town",
+    "away": "Nottingham Forest U21",
+    "txt": "Gana Grimsby Town",
+    "odds": 1.76,
+    "p": 0.6994
+   },
+   {
+    "code": null,
+    "start": "2026-11-10 19:00:00+00:00",
+    "home": "Bristol Rovers",
+    "away": "Reading",
+    "txt": "Gana Reading",
+    "odds": 1.92,
+    "p": 0.6122
+   },
+   {
+    "code": null,
+    "start": "2026-11-10 19:00:00+00:00",
+    "home": "Mansfield Town",
+    "away": "Chesterfield",
+    "txt": "Gana Mansfield Town",
+    "odds": 2.12,
+    "p": 0.5084
+   }
+  ],
+  "odds": 7.16,
+  "p": 0.21768299051199996,
+  "stake": 1.0,
+  "estado": "pendiente",
+  "avisada": false,
+  "rev": 1
  }
 ]
