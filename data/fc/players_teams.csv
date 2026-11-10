@@ -63549,16 +63549,16 @@ id,tournament_id,club1,club2,ht1,ht2
 2374507,261570,Athletic Club,Villarreal,,
 2373115,261570,Atleti,Athletic Club,,
 2373144,261570,Barcelona,Real Madrid,,
-2372619,261527,Czechia,Netherlands,2,1
-2372620,261527,Norway,Morocco,0,1
-2372621,261527,Morocco,Czechia,1,1
-2372622,261527,Netherlands,Germany,0,1
-2372623,261527,Germany,Morocco,0,0
-2372624,261527,Czechia,Norway,2,4
-2372625,261527,Norway,Germany,0,1
-2372626,261527,Morocco,Netherlands,3,1
-2372627,261527,Netherlands,Norway,0,3
-2372628,261527,Germany,Czechia,1,1
+2372619,261527,Czechia,Netherlands,2.0,1.0
+2372620,261527,Norway,Morocco,0.0,1.0
+2372621,261527,Morocco,Czechia,1.0,1.0
+2372622,261527,Netherlands,Germany,0.0,1.0
+2372623,261527,Germany,Morocco,0.0,0.0
+2372624,261527,Czechia,Norway,2.0,4.0
+2372625,261527,Norway,Germany,0.0,1.0
+2372626,261527,Morocco,Netherlands,3.0,1.0
+2372627,261527,Netherlands,Norway,0.0,3.0
+2372628,261527,Germany,Czechia,1.0,1.0
 2372629,261527,Netherlands,Czechia,,
 2372630,261527,Morocco,Norway,,
 2372631,261527,Czechia,Morocco,,
@@ -63569,9 +63569,9 @@ id,tournament_id,club1,club2,ht1,ht2
 2372636,261527,Netherlands,Morocco,,
 2372637,261527,Norway,Netherlands,,
 2372638,261527,Czechia,Germany,,
-2373429,261592,Boca Juniors,River Plate,1,1
-2373430,261592,Boca Juniors,Racing Club,3,2
-2373431,261592,River Plate,Racing Club,0,2
+2373429,261592,Boca Juniors,River Plate,1.0,1.0
+2373430,261592,Boca Juniors,Racing Club,3.0,2.0
+2373431,261592,River Plate,Racing Club,0.0,2.0
 2373432,261592,River Plate,Boca Juniors,,
 2373433,261592,Racing Club,Boca Juniors,,
 2373434,261592,Racing Club,River Plate,,
