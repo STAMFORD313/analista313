@@ -63209,23 +63209,43 @@ id,tournament_id,club1,club2,ht1,ht2
 2373386,261543,Man City,Juventus,,
 2373387,261543,Sporting CP,Man City,,
 2373388,261543,B Dortmund,Arsenal,,
-2372539,261519,Man City,Liverpool,1,1
-2372540,261519,Chelsea,Arsenal,1,2
-2372541,261519,Arsenal,Man City,2,0
-2372542,261519,Liverpool,Tottenham,2,2
-2372543,261519,Tottenham,Arsenal,1,4
-2372544,261519,Man City,Chelsea,2,2
-2372545,261519,Chelsea,Tottenham,2,2
-2372546,261519,Arsenal,Liverpool,3,1
-2372547,261519,Liverpool,Chelsea,2,1
-2372548,261519,Tottenham,Man City,3,3
-2372549,261519,Liverpool,Man City,2,1
-2372550,261519,Arsenal,Chelsea,2,0
-2372551,261519,Man City,Arsenal,0,0
-2372552,261519,Tottenham,Liverpool,0,0
+2372539,261519,Man City,Liverpool,1.0,1.0
+2372540,261519,Chelsea,Arsenal,1.0,2.0
+2372541,261519,Arsenal,Man City,2.0,0.0
+2372542,261519,Liverpool,Tottenham,2.0,2.0
+2372543,261519,Tottenham,Arsenal,1.0,4.0
+2372544,261519,Man City,Chelsea,2.0,2.0
+2372545,261519,Chelsea,Tottenham,2.0,2.0
+2372546,261519,Arsenal,Liverpool,3.0,1.0
+2372547,261519,Liverpool,Chelsea,2.0,1.0
+2372548,261519,Tottenham,Man City,3.0,3.0
+2372549,261519,Liverpool,Man City,2.0,1.0
+2372550,261519,Arsenal,Chelsea,2.0,0.0
+2372551,261519,Man City,Arsenal,0.0,0.0
+2372552,261519,Tottenham,Liverpool,0.0,0.0
 2372553,261519,Arsenal,Tottenham,,
 2372554,261519,Chelsea,Man City,,
 2372555,261519,Tottenham,Chelsea,,
 2372556,261519,Liverpool,Arsenal,,
 2372557,261519,Chelsea,Liverpool,,
 2372558,261519,Man City,Tottenham,,
+2372389,261559,Adelaide United,Melbourne City,2,1
+2372390,261559,Sydney FC,Melbourne Victory,1,3
+2372391,261559,Melbourne Victory,Adelaide United,1,0
+2372392,261559,Melbourne City,Western Sydney Wanderers,2,2
+2372393,261559,Western Sydney Wanderers,Melbourne Victory,1,4
+2372394,261559,Adelaide United,Sydney FC,2,0
+2372395,261559,Sydney FC,Western Sydney Wanderers,2,3
+2372396,261559,Melbourne Victory,Melbourne City,2,0
+2372397,261559,Melbourne City,Sydney FC,0,0
+2372398,261559,Western Sydney Wanderers,Adelaide United,0,0
+2372399,261559,Melbourne City,Adelaide United,,
+2372400,261559,Melbourne Victory,Sydney FC,,
+2372401,261559,Adelaide United,Melbourne Victory,,
+2372402,261559,Western Sydney Wanderers,Melbourne City,,
+2372403,261559,Melbourne Victory,Western Sydney Wanderers,,
+2372404,261559,Sydney FC,Adelaide United,,
+2372405,261559,Western Sydney Wanderers,Sydney FC,,
+2372406,261559,Melbourne City,Melbourne Victory,,
+2372407,261559,Sydney FC,Melbourne City,,
+2372408,261559,Adelaide United,Western Sydney Wanderers,,
