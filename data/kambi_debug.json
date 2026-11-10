@@ -1,12 +1,12 @@
 {
  "nba": {
-  "kambi": 14,
+  "kambi": 17,
   "ejemplo_kambi": [
    "Charlotte Hornets vs Cleveland Cavaliers 2026-11-10 00:10:00+00:00",
    "Atlanta Hawks vs Los Angeles Lakers 2026-11-10 00:10:00+00:00",
    "Detroit Pistons vs Washington Wizards 2026-11-10 00:11:00+00:00"
   ],
-  "buscado": "Portland Trail Blazers vs Oklahoma City Thunder 2026-11-11T04:00Z",
-  "hora": "2026-11-10 00:44"
+  "buscado": "Phoenix Suns vs LA Clippers 2026-11-11T02:00Z",
+  "hora": "2026-11-10 01:13"
  }
 }

@@ -1,56 +1,6 @@
 # 🏈 NFL·NCAA · apuestas de valor
 
-Actualizado 10/11/2026 01:50 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Minnesota Vikings vs Buffalo Bills — 10/11 · 02:15
-
-👀 candidata · 🏈 NFL · **Más de 43.5 puntos** @ **1.85** (DraftKings) · prob 52% vs casas 52% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 totales» sin pérdidas demostradas
-
-📊 **Escenarios**: total esperado **43.8** puntos · línea 43.5  
-Más 52% · Menos 48%  
-🔎 **Claves**  
-• Forma: Minnesota Vikings ✅✅✅✅❌ | Buffalo Bills ✅❌✅✅✅  
-• H2H: 4 desde 2017: 2-2  
-• Bajas: Minnesota Vikings: 0 fuera, 25 duda; Buffalo Bills: 1 fuera, 24 duda (Jordan Hancock)  
-🧩 Combinada: Gana Minnesota Vikings + Más de 43.5 puntos → prob. 22%, cuota justa 4.60  
-🎯 No simulada (NFL): cuota DraftKings aprox. 4.47 (producto de piernas) · prob. 22% · ventaja -3%  
-
-## Minnesota Vikings vs Buffalo Bills — 10/11 · 02:15
-
-👀 candidata · 🏈 NFL · **Minnesota Vikings +3** @ **1.95** (DraftKings) · prob 49% vs casas 49% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 hándicap» sin pérdidas demostradas
-
-📊 **Escenarios**: Minnesota Vikings cubre +3 con prob. 49% (casas 49%)  
-🔎 **Claves**  
-• Forma: Minnesota Vikings ✅✅✅✅❌ | Buffalo Bills ✅❌✅✅✅  
-• H2H: 4 desde 2017: 2-2  
-• Bajas: Minnesota Vikings: 0 fuera, 25 duda; Buffalo Bills: 1 fuera, 24 duda (Jordan Hancock)  
-🧩 Combinada: Gana Minnesota Vikings + Más de 43.5 puntos → prob. 22%, cuota justa 4.60  
-🎯 No simulada (NFL): cuota DraftKings aprox. 4.47 (producto de piernas) · prob. 22% · ventaja -3%  
-
-## Minnesota Vikings vs Buffalo Bills — 10/11 · 02:15
-
-👀 candidata · 🏈 NFL · **Gana Minnesota Vikings** @ **2.42** (DraftKings) · prob 40% vs casas 40% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo con 3.260 partidos y bajas)  
-Gana Minnesota Vikings 44% · Gana Buffalo Bills 56%  
-Casas: Minnesota Vikings 40% · Buffalo Bills 60%  
-Hándicap BUF -3 · Total puntos 43.5  
-🔎 **Claves**  
-• Forma: Minnesota Vikings ✅✅✅✅❌ | Buffalo Bills ✅❌✅✅✅  
-• H2H: 4 desde 2017: 2-2  
-• Bajas: Minnesota Vikings: 0 fuera, 25 duda; Buffalo Bills: 1 fuera, 24 duda (Jordan Hancock)  
-• Favorito de las casas: Buffalo Bills @ 1.59  
-🧩 Combinada: Gana Minnesota Vikings + Más de 43.5 puntos → prob. 22%, cuota justa 4.60  
-🎯 No simulada (NFL): cuota DraftKings aprox. 4.47 (producto de piernas) · prob. 22% · ventaja -3%  
+Actualizado 10/11/2026 02:20 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Akron Zips vs Western Michigan Broncos — 11/11 · 01:00
 

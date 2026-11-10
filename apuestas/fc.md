@@ -1,25 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 10/11/2026 01:50 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Jokadinho vs Paka — 10/11 · 02:12
-
-👀 candidata · 🎮⚽ FC 27 · World Cup B · **Empate** @ **5.40** (Unibet) · prob 22% vs casas 16% · ventaja +17%
-
-- ✅ Valor: ventaja +17% (mín. 12% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 62.419 partidos)  
-Goles esperados: Jokadinho 2.75 · Paka 3.23  
-Ganador: Jokadinho 32% · empate 22% · Paka 46%  
-Total: más de 5.5 goles 55% · menos 45%  
-Hándicap Paka: −1.5 33% · −2.5 20%  
-🔎 **Claves**  
-• Forma: Jokadinho ➖❌✅➖❌ | Paka ➖➖❌❌❌  
-• Partidos: Jokadinho 860 | Paka 891  
-• Liga: World Cup B  
-• Unibet: 1 1.93 · X 5.40 · 2 2.30 (sin margen 46%/16%/38%) · ventaja +17%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 5.40 (+17%) · Paf España 5.40 (+17%)  
+Actualizado 10/11/2026 02:20 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Bjela vs Jokadinho — 10/11 · 02:24
 
@@ -39,6 +20,25 @@ Hándicap Bjela: −1.5 38% · −2.5 24%
 • Liga: World Cup B  
 • Unibet: 1 1.60 · X 5.25 · 2 3.10 (sin margen 55%/17%/28%) · ventaja +10%. Sin stake hasta demostrar ROI con estas cuotas.  
 • En España: LeoVegas España 5.25 (+10%) · Paf España 5.25 (+10%)  
+
+## Paka vs Lx7ss — 10/11 · 02:24
+
+👀 candidata · 🎮⚽ FC 27 · World Cup B · **Empate** @ **5.00** (Unibet) · prob 21% vs casas 17% · ventaja +7%
+
+- ❌ Valor: ventaja +7% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 62.439 partidos)  
+Goles esperados: Paka 2.99 · Lx7ss 3.28  
+Ganador: Paka 35% · empate 21% · Lx7ss 43%  
+Total: más de 6.5 goles 44% · menos 56%  
+Hándicap Lx7ss: −1.5 31% · −2.5 18%  
+🔎 **Claves**  
+• Forma: Paka ❌❌❌❌➖ | Lx7ss ✅✅➖✅➖  
+• Partidos: Paka 893 | Lx7ss 1066  
+• Liga: World Cup B  
+• Unibet: 1 2.10 · X 5.00 · 2 2.12 (sin margen 41%/17%/41%) · ventaja +7%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 5.00 (+7%) · Paf España 5.00 (+7%)  
 
 ## kkikus vs tizzy — 10/11 · 02:27
 
