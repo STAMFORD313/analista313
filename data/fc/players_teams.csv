@@ -62629,16 +62629,16 @@ id,tournament_id,club1,club2,ht1,ht2
 2371283,261447,Juventus,Sassuolo,,
 2371284,261447,Bologna,Juventus,,
 2371285,261447,Roma,Napoli,,
-2371948,261518,USA,Sweden,0,1
-2371949,261518,Ghana,Denmark,4,2
-2371950,261518,Denmark,USA,1,3
-2371951,261518,Sweden,Mexico,4,1
-2371952,261518,Mexico,Denmark,2,1
-2371953,261518,USA,Ghana,5,0
-2371954,261518,Ghana,Mexico,4,0
-2371955,261518,Denmark,Sweden,4,0
-2371956,261518,Sweden,Ghana,1,0
-2371957,261518,Mexico,USA,2,2
+2371948,261518,USA,Sweden,0.0,1.0
+2371949,261518,Ghana,Denmark,4.0,2.0
+2371950,261518,Denmark,USA,1.0,3.0
+2371951,261518,Sweden,Mexico,4.0,1.0
+2371952,261518,Mexico,Denmark,2.0,1.0
+2371953,261518,USA,Ghana,5.0,0.0
+2371954,261518,Ghana,Mexico,4.0,0.0
+2371955,261518,Denmark,Sweden,4.0,0.0
+2371956,261518,Sweden,Ghana,1.0,0.0
+2371957,261518,Mexico,USA,2.0,2.0
 2371958,261518,Sweden,USA,,
 2371959,261518,Denmark,Ghana,,
 2371960,261518,USA,Denmark,,
@@ -62649,3 +62649,23 @@ id,tournament_id,club1,club2,ht1,ht2
 2371965,261518,Sweden,Denmark,,
 2371966,261518,Ghana,Sweden,,
 2371967,261518,USA,Mexico,,
+2372857,261561,Liverpool,Man City,2,0
+2373193,261561,Arsenal,Chelsea,3,1
+2372859,261561,Chelsea,Liverpool,2,5
+2372860,261561,Man City,Tottenham,2,3
+2372861,261561,Tottenham,Chelsea,2,2
+2373194,261561,Liverpool,Arsenal,2,1
+2373195,261561,Arsenal,Tottenham,2,0
+2372864,261561,Chelsea,Man City,2,1
+2373196,261561,Man City,Arsenal,,
+2372866,261561,Tottenham,Liverpool,,
+2372867,261561,Man City,Liverpool,,
+2373197,261561,Chelsea,Arsenal,,
+2372869,261561,Liverpool,Chelsea,,
+2372870,261561,Tottenham,Man City,,
+2372871,261561,Chelsea,Tottenham,,
+2373198,261561,Arsenal,Liverpool,,
+2373199,261561,Tottenham,Arsenal,,
+2372874,261561,Man City,Chelsea,,
+2373200,261561,Arsenal,Man City,,
+2372876,261561,Liverpool,Tottenham,,
