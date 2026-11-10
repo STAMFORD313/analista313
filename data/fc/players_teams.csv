@@ -62769,3 +62769,63 @@ id,tournament_id,club1,club2,ht1,ht2
 2371985,261520,Nottm Forest,Man Utd,,
 2371986,261520,Newcastle,Nottm Forest,,
 2371987,261520,Brighton,Aston Villa,,
+2372079,261532,Roma,Juventus,2,2
+2372080,261532,Bologna,Sassuolo,2,0
+2372081,261532,Sassuolo,Roma,1,2
+2372082,261532,Juventus,Napoli,1,2
+2372083,261532,Napoli,Sassuolo,3,3
+2372084,261532,Roma,Bologna,1,2
+2372085,261532,Bologna,Napoli,1,4
+2372086,261532,Sassuolo,Juventus,3,0
+2372087,261532,Juventus,Bologna,,
+2372088,261532,Napoli,Roma,,
+2372089,261532,Juventus,Roma,,
+2372090,261532,Sassuolo,Bologna,,
+2372091,261532,Roma,Sassuolo,,
+2372092,261532,Napoli,Juventus,,
+2372093,261532,Sassuolo,Napoli,,
+2372094,261532,Bologna,Roma,,
+2372095,261532,Napoli,Bologna,,
+2372096,261532,Juventus,Sassuolo,,
+2372097,261532,Bologna,Juventus,,
+2372098,261532,Roma,Napoli,,
+2372319,261555,Middlesbrough,Wolves,2,3
+2372320,261555,West Ham,Burnley,0,1
+2372321,261555,Burnley,Middlesbrough,3,2
+2372322,261555,Wolves,Southampton,0,2
+2372323,261555,Southampton,Burnley,1,2
+2372324,261555,Middlesbrough,West Ham,3,2
+2372325,261555,West Ham,Southampton,2,1
+2372326,261555,Burnley,Wolves,3,1
+2372327,261555,Wolves,West Ham,,
+2372328,261555,Southampton,Middlesbrough,,
+2372329,261555,Wolves,Middlesbrough,,
+2372330,261555,Burnley,West Ham,,
+2372331,261555,Middlesbrough,Burnley,,
+2372332,261555,Southampton,Wolves,,
+2372333,261555,Burnley,Southampton,,
+2372334,261555,West Ham,Middlesbrough,,
+2372335,261555,Southampton,West Ham,,
+2372336,261555,Wolves,Burnley,,
+2372337,261555,West Ham,Wolves,,
+2372338,261555,Middlesbrough,Southampton,,
+2372977,261573,Nice,Paris,4,1
+2372978,261573,Monaco,Lyon,3,4
+2372979,261573,Lyon,Nice,2,3
+2372980,261573,Paris,Marseille,0,4
+2372981,261573,Marseille,Lyon,1,3
+2372982,261573,Nice,Monaco,1,2
+2372983,261573,Monaco,Marseille,0,1
+2372984,261573,Lyon,Paris,1,2
+2372985,261573,Paris,Monaco,1,0
+2372986,261573,Marseille,Nice,2,0
+2372987,261573,Paris,Nice,,
+2372988,261573,Lyon,Monaco,,
+2372989,261573,Nice,Lyon,,
+2372990,261573,Marseille,Paris,,
+2372991,261573,Lyon,Marseille,,
+2372992,261573,Monaco,Nice,,
+2372993,261573,Marseille,Monaco,,
+2372994,261573,Paris,Lyon,,
+2372995,261573,Monaco,Paris,,
+2372996,261573,Nice,Marseille,,
