@@ -1,42 +1,61 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 10/11/2026 19:43 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 10/11/2026 20:12 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## Bosko vs steeffant — 10/11 · 19:48
+## DEKSON vs Linox — 10/11 · 20:19
 
-👀 candidata · 🎮⚽ FC 27 · Champions League B 2x6 · **Empate** @ **8.00** (Unibet) · prob 13% vs casas 11% · ventaja +7%
+👀 candidata · 🎮⚽ FC 27 · Serie A · **Empate** @ **4.60** (Unibet) · prob 24% vs casas 19% · ventaja +12%
 
-- ❌ Valor: ventaja +7% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Valor: ventaja +12% (mín. 11% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 63.308 partidos)  
-Goles esperados: Bosko 3.44 · steeffant 4.98  
-Ganador: Bosko 20% · empate 13% · steeffant 67%  
-Total: más de 8.5 goles 46% · menos 54%  
-Hándicap steeffant: −1.5 50% · −2.5 36%  
+📊 **Escenarios** (Poisson por jugador, 63.342 partidos)  
+Goles esperados: DEKSON 2.00 · Linox 2.08  
+Ganador: DEKSON 35% · empate 24% · Linox 40%  
+Total: más de 4.5 goles 39% · menos 61%  
+Hándicap Linox: −1.5 23% · −2.5 11%  
 🔎 **Claves**  
-• Forma: Bosko ❌✅❌➖✅ | steeffant ✅❌✅✅✅  
-• Partidos: Bosko 547 | steeffant 816  
-• Liga: Champions League B 2x6  
-• Unibet: 1 3.35 · X 8.00 · 2 1.37 (sin margen 26%/11%/63%) · ventaja +7%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 8.00 (+7%) · Paf España 8.00 (+7%)  
+• Forma: DEKSON ✅➖❌✅➖ | Linox ❌✅✅❌✅  
+• Partidos: DEKSON 546 | Linox 832  
+• Liga: Serie A  
+• Unibet: 1 2.28 · X 4.60 · 2 2.04 (sin margen 38%/19%/43%) · ventaja +12%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 4.60 (+13%) · Paf España 4.60 (+13%)  
 
-## Gaga vs borees — 10/11 · 19:52
+## Sena vs Mani — 10/11 · 20:19
 
-👀 candidata · 🎮⚽ FC 27 · Europa League · **Gana Gaga** @ **2.85** (Unibet) · prob 40% vs casas 30% · ventaja +14%
+👀 candidata · 🎮⚽ FC 27 · Serie A · **Empate** @ **5.50** (Unibet) · prob 20% vs casas 16% · ventaja +12%
 
-- ✅ Valor: ventaja +14% (mín. 12% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+- ✅ Valor: ventaja +12% (mín. 11% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 63.308 partidos)  
-Goles esperados: Gaga 2.53 · borees 2.44  
-Ganador: Gaga 40% · empate 22% · borees 38%  
-Total: más de 4.5 goles 56% · menos 44%  
-Hándicap Gaga: −1.5 26% · −2.5 13%  
+📊 **Escenarios** (Poisson por jugador, 63.342 partidos)  
+Goles esperados: Sena 2.80 · Mani 2.78  
+Ganador: Sena 40% · empate 20% · Mani 39%  
+Total: más de 5.5 goles 48% · menos 52%  
+Hándicap Sena: −1.5 26% · −2.5 14%  
 🔎 **Claves**  
-• Forma: Gaga ✅➖➖➖❌ | borees ✅➖✅➖✅  
-• Partidos: Gaga 1151 | borees 1036  
-• Liga: Europa League  
-• Unibet: 1 2.85 · X 3.20 · 2 2.05 (sin margen 30%/27%/42%) · ventaja +14%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.85 (+14%) · Paf España 2.85 (+14%)  
+• Forma: Sena ➖✅✅❌❌ | Mani ✅➖❌✅❌  
+• Partidos: Sena 664 | Mani 857  
+• Liga: Serie A  
+• Unibet: 1 2.16 · X 5.50 · 2 2.02 (sin margen 41%/16%/43%) · ventaja +12%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 5.50 (+12%) · Paf España 5.50 (+12%)  
+
+## saportj vs mPm — 10/11 · 20:22
+
+👀 candidata · 🎮⚽ FC 27 · Copa America · **Empate** @ **6.25** (Unibet) · prob 19% vs casas 14% · ventaja +21%
+
+- ✅ Valor: ventaja +21% (mín. 13% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 63.342 partidos)  
+Goles esperados: saportj 2.94 · mPm 3.10  
+Ganador: saportj 35% · empate 19% · mPm 46%  
+Total: más de 6.5 goles 40% · menos 60%  
+Hándicap mPm: −1.5 29% · −2.5 16%  
+🔎 **Claves**  
+• Forma: saportj ✅✅✅✅✅ | mPm ✅✅❌❌✅  
+• Partidos: saportj 792 | mPm 755  
+• Liga: Copa America  
+• Unibet: 1 1.70 · X 6.25 · 2 2.60 (sin margen 52%/14%/34%) · ventaja +21%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 6.25 (+21%) · Paf España 6.25 (+21%)  
 
