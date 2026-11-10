@@ -57,3 +57,6 @@ id,date,event,home,away,hs,as,res
 401909949,2026-11-09T01:00Z,Boston Celtics at Milwaukee Bucks,Milwaukee Bucks,Boston Celtics,97,117,0.0
 401909950,2026-11-09T02:00Z,New Orleans Pelicans at LA Clippers,LA Clippers,New Orleans Pelicans,139,123,1.0
 401909951,2026-11-09T02:00Z,Miami Heat at Sacramento Kings,Sacramento Kings,Miami Heat,108,114,0.0
+401909952,2026-11-10T00:00Z,Los Angeles Lakers at Atlanta Hawks,Atlanta Hawks,Los Angeles Lakers,114,124,0.0
+401909953,2026-11-10T00:00Z,Cleveland Cavaliers at Charlotte Hornets,Charlotte Hornets,Cleveland Cavaliers,124,112,1.0
+401909954,2026-11-10T00:00Z,Washington Wizards at Detroit Pistons,Detroit Pistons,Washington Wizards,122,111,1.0

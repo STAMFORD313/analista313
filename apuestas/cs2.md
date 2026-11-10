@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 10/11/2026 03:20 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 10/11/2026 03:52 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## KUUSAMO vs boyband — 10/11 · 19:00
 
