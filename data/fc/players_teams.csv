@@ -63089,36 +63089,36 @@ id,tournament_id,club1,club2,ht1,ht2
 2373034,261577,Brighton,Man Utd,,
 2373035,261577,Newcastle,Brighton,,
 2373036,261577,Nottm Forest,Aston Villa,,
-2372519,261517,Liverpool,Atleti,2,1
-2372520,261517,Paris,Bayern Munchen,1,3
-2372521,261517,Bayern Munchen,Liverpool,3,1
-2372522,261517,Atleti,Real Madrid,2,1
-2372523,261517,Real Madrid,Bayern Munchen,2,3
-2372524,261517,Liverpool,Paris,3,0
-2372525,261517,Paris,Real Madrid,0,1
-2372526,261517,Bayern Munchen,Atleti,2,2
-2372527,261517,Atleti,Paris,1,1
-2372528,261517,Real Madrid,Liverpool,1,3
-2372529,261517,Atleti,Liverpool,2,2
-2372530,261517,Bayern Munchen,Paris,2,3
-2372531,261517,Liverpool,Bayern Munchen,1,2
-2372532,261517,Real Madrid,Atleti,0,0
+2372519,261517,Liverpool,Atleti,2.0,1.0
+2372520,261517,Paris,Bayern Munchen,1.0,3.0
+2372521,261517,Bayern Munchen,Liverpool,3.0,1.0
+2372522,261517,Atleti,Real Madrid,2.0,1.0
+2372523,261517,Real Madrid,Bayern Munchen,2.0,3.0
+2372524,261517,Liverpool,Paris,3.0,0.0
+2372525,261517,Paris,Real Madrid,0.0,1.0
+2372526,261517,Bayern Munchen,Atleti,2.0,2.0
+2372527,261517,Atleti,Paris,1.0,1.0
+2372528,261517,Real Madrid,Liverpool,1.0,3.0
+2372529,261517,Atleti,Liverpool,2.0,2.0
+2372530,261517,Bayern Munchen,Paris,2.0,3.0
+2372531,261517,Liverpool,Bayern Munchen,1.0,2.0
+2372532,261517,Real Madrid,Atleti,0.0,0.0
 2372533,261517,Bayern Munchen,Real Madrid,,
 2372534,261517,Paris,Liverpool,,
 2372535,261517,Real Madrid,Paris,,
 2372536,261517,Atleti,Bayern Munchen,,
 2372537,261517,Paris,Atleti,,
 2372538,261517,Liverpool,Real Madrid,,
-2372369,261557,PSV,Ajax,0,3
-2372370,261557,Feyenoord,Twente,3,1
-2372371,261557,Twente,PSV,1,1
-2372372,261557,Ajax,AZ Alkmaar,1,1
-2372373,261557,AZ Alkmaar,Twente,2,4
-2372374,261557,PSV,Feyenoord,2,1
-2372375,261557,Feyenoord,AZ Alkmaar,0,0
-2372376,261557,Twente,Ajax,1,1
-2372377,261557,Ajax,Feyenoord,1,1
-2372378,261557,AZ Alkmaar,PSV,4,1
+2372369,261557,PSV,Ajax,0.0,3.0
+2372370,261557,Feyenoord,Twente,3.0,1.0
+2372371,261557,Twente,PSV,1.0,1.0
+2372372,261557,Ajax,AZ Alkmaar,1.0,1.0
+2372373,261557,AZ Alkmaar,Twente,2.0,4.0
+2372374,261557,PSV,Feyenoord,2.0,1.0
+2372375,261557,Feyenoord,AZ Alkmaar,0.0,0.0
+2372376,261557,Twente,Ajax,1.0,1.0
+2372377,261557,Ajax,Feyenoord,1.0,1.0
+2372378,261557,AZ Alkmaar,PSV,4.0,1.0
 2372379,261557,Ajax,PSV,,
 2372380,261557,Twente,Feyenoord,,
 2372381,261557,PSV,Twente,,
@@ -63129,14 +63129,14 @@ id,tournament_id,club1,club2,ht1,ht2
 2372386,261557,Ajax,Twente,,
 2372387,261557,Feyenoord,Ajax,,
 2372388,261557,PSV,AZ Alkmaar,,
-2372907,261562,England,Germany,5,2
-2372908,261562,France,Spain,0,5
-2372909,261562,Spain,England,1,0
-2372910,261562,Germany,Argentina,1,3
-2372911,261562,Argentina,Spain,2,2
-2372912,261562,England,France,1,2
-2372913,261562,France,Argentina,0,4
-2372914,261562,Spain,Germany,1,1
+2372907,261562,England,Germany,5.0,2.0
+2372908,261562,France,Spain,0.0,5.0
+2372909,261562,Spain,England,1.0,0.0
+2372910,261562,Germany,Argentina,1.0,3.0
+2372911,261562,Argentina,Spain,2.0,2.0
+2372912,261562,England,France,1.0,2.0
+2372913,261562,France,Argentina,0.0,4.0
+2372914,261562,Spain,Germany,1.0,1.0
 2372915,261562,Germany,France,,
 2372916,261562,Argentina,England,,
 2372917,261562,Germany,England,,
@@ -63149,3 +63149,43 @@ id,tournament_id,club1,club2,ht1,ht2
 2372924,261562,Germany,Spain,,
 2372925,261562,France,Germany,,
 2372926,261562,England,Argentina,,
+2373229,261535,Porto,Aston Villa,2,1
+2373230,261535,Salzburg,Roma,1,1
+2373231,261535,Roma,Porto,1,1
+2373232,261535,Aston Villa,Fenerbahce,1,1
+2373233,261535,Fenerbahce,Roma,1,1
+2373234,261535,Porto,Salzburg,2,1
+2373235,261535,Salzburg,Fenerbahce,1,2
+2373236,261535,Roma,Aston Villa,6,1
+2373237,261535,Aston Villa,Salzburg,,
+2373238,261535,Fenerbahce,Porto,,
+2373239,261535,Aston Villa,Porto,,
+2373240,261535,Roma,Salzburg,,
+2373241,261535,Porto,Roma,,
+2373242,261535,Fenerbahce,Aston Villa,,
+2373243,261535,Roma,Fenerbahce,,
+2373244,261535,Salzburg,Porto,,
+2373245,261535,Fenerbahce,Salzburg,,
+2373246,261535,Aston Villa,Roma,,
+2373247,261535,Salzburg,Aston Villa,,
+2373248,261535,Porto,Fenerbahce,,
+2373037,261567,Sassuolo,Bologna,0,0
+2373038,261567,Napoli,Juventus,1,2
+2373039,261567,Juventus,Sassuolo,2,2
+2373040,261567,Bologna,Roma,0,0
+2373041,261567,Roma,Juventus,2,1
+2373042,261567,Sassuolo,Napoli,1,4
+2373043,261567,Napoli,Roma,3,2
+2373044,261567,Juventus,Bologna,2,1
+2373045,261567,Bologna,Napoli,1,2
+2373046,261567,Roma,Sassuolo,2,2
+2373047,261567,Bologna,Sassuolo,,
+2373048,261567,Juventus,Napoli,,
+2373049,261567,Sassuolo,Juventus,,
+2373050,261567,Roma,Bologna,,
+2373051,261567,Juventus,Roma,,
+2373052,261567,Napoli,Sassuolo,,
+2373053,261567,Roma,Napoli,,
+2373054,261567,Bologna,Juventus,,
+2373055,261567,Napoli,Bologna,,
+2373056,261567,Sassuolo,Roma,,
