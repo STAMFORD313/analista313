@@ -1,6 +1,6 @@
 # 🐉 Dota 2 · apuestas de valor
 
-Actualizado 10/11/2026 04:52 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 10/11/2026 05:47 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## PlayTime vs Team Synapse — 11/11 · 11:00
 
@@ -199,4 +199,70 @@ Casas: CyberHero 78% · Zero Tenacity 22%
 🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
 • CyberHero gana 2-1: 23% → cuota justa 4.27 · casa 26%  
 • Zero Tenacity gana 2-1: 8% → cuota justa 12.58 · casa 10%  
+
+## Xipto Esports vs Froglings — 11/11 · 17:00
+
+👀 candidata · 🐉 Dota 2 · DreamLeague Division 2 Series 5 · **Gana Xipto Esports** @ **2.60** (Thunderpick) · prob 42% vs casas 36% · ventaja +10%
+
+- ✅ Valor: ventaja +10% (mín. 9% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🐉 no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 11.714 partidos)  
+Mapa: Xipto Esports 52% · Serie BO3: Xipto Esports 48% - 52% Froglings  
+Casas: Xipto Esports 36% · Froglings 64%  
+🔎 **Claves**  
+• Elo: Xipto Esports 1810 (34 series) | Froglings 1796 (6 series)  
+• Forma: Xipto Esports ✅✅✅✅❌ | Froglings ✅✅✅✅❌  
+• H2H: sin precedentes  
+• Torneo: DreamLeague Division 2 Series 5 (nivel B)  
+• Cambios de plantilla: ninguno  
+• Jugadores en forma (KDA últimas 10 partidas): Xipto Esports: inYourdreaM 5.7, 23savage 5.5 | Froglings: Stojkov 6.2, V-Tune 4.9  
+• Química de la plantilla: Xipto Esports: 148 partidas juntos de media | Froglings: 30 partidas juntos de media  
+🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
+• Xipto Esports gana 2-1: 22% → cuota justa 4.59 · casa 18% ✔ el bot lo ve más probable que la casa  
+• Froglings gana 2-1: 21% → cuota justa 4.87 · casa 22%  
+
+## Xipto Esports vs Froglings — 11/11 · 17:00
+
+👀 candidata · 🐉 Dota 2 · DreamLeague Division 2 Series 5 · **Xipto Esports +1.5 mapas** @ **1.62** (Thunderpick) · prob 65% vs casas 58% · ventaja +6%
+
+- ❌ Valor: ventaja +6% (mín. 8% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🐉 hándicap» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 11.714 partidos)  
+Mapa: Xipto Esports 52% · Serie BO3: Xipto Esports 48% - 52% Froglings  
+Casas: Xipto Esports 36% · Froglings 64%  
+🔎 **Claves**  
+• Elo: Xipto Esports 1810 (34 series) | Froglings 1796 (6 series)  
+• Forma: Xipto Esports ✅✅✅✅❌ | Froglings ✅✅✅✅❌  
+• H2H: sin precedentes  
+• Torneo: DreamLeague Division 2 Series 5 (nivel B)  
+• Cambios de plantilla: ninguno  
+• Jugadores en forma (KDA últimas 10 partidas): Xipto Esports: inYourdreaM 5.7, 23savage 5.5 | Froglings: Stojkov 6.2, V-Tune 4.9  
+• Química de la plantilla: Xipto Esports: 148 partidas juntos de media | Froglings: 30 partidas juntos de media  
+🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
+• Xipto Esports gana 2-1: 22% → cuota justa 4.59 · casa 18% ✔ el bot lo ve más probable que la casa  
+• Froglings gana 2-1: 21% → cuota justa 4.87 · casa 22%  
+
+## potn9ki vs Zenith — 11/11 · 17:00
+
+👀 candidata · 🐉 Dota 2 · DreamLeague Division 2 Series 5 · **Gana potn9ki** @ **1.46** (Thunderpick) · prob 76% vs casas 63% · ventaja +11%
+
+- ✅ Valor: ventaja +11% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🐉 favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 11.714 partidos)  
+Mapa: potn9ki 62% · Serie BO3: potn9ki 88% - 12% Zenith  
+Casas: potn9ki 63% · Zenith 37%  
+🔎 **Claves**  
+• Elo: potn9ki 1658 (14 series) | Zenith 1548 (21 series)  
+• Forma: potn9ki ❌❌❌❌❌ | Zenith ❌❌❌❌❌  
+• H2H: sin precedentes  
+• Torneo: DreamLeague Division 2 Series 5 (nivel B)  
+• Cambios de plantilla: ninguno  
+• Jugadores en forma (KDA últimas 10 partidas): potn9ki: Igris 3.0, Flokk1n 2.9 | Zenith: MamangDaya 2.1, Ulu 2.0  
+• Química de la plantilla: potn9ki: 30 partidas juntos de media | Zenith: 62 partidas juntos de media  
+🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
+• potn9ki gana 2-1: 25% → cuota justa 4.07 · casa 25%  
+• Zenith gana 2-1: 15% → cuota justa 6.56 · casa 16%  
 
