@@ -62889,3 +62889,23 @@ id,tournament_id,club1,club2,ht1,ht2
 2372894,261563,Liverpool,Paris,,
 2373208,261563,Bayern Munchen,Liverpool,,
 2372896,261563,Atleti,Real Madrid,,
+2372997,261575,Spain,France,1,1
+2372998,261575,Argentina,England,2,2
+2372999,261575,England,Spain,1,1
+2373000,261575,France,Brazil,1,2
+2373001,261575,Brazil,England,2,2
+2373002,261575,Spain,Argentina,0,1
+2373003,261575,Argentina,Brazil,,
+2373004,261575,England,France,,
+2373005,261575,France,Argentina,,
+2373006,261575,Brazil,Spain,,
+2373007,261575,France,Spain,,
+2373008,261575,England,Argentina,,
+2373009,261575,Spain,England,,
+2373010,261575,Brazil,France,,
+2373011,261575,England,Brazil,,
+2373012,261575,Argentina,Spain,,
+2373013,261575,Brazil,Argentina,,
+2373014,261575,France,England,,
+2373015,261575,Argentina,France,,
+2373016,261575,Spain,Brazil,,
