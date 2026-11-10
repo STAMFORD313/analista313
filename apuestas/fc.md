@@ -1,44 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 10/11/2026 19:25 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Animal vs lzrn — 10/11 · 19:26
-
-👀 candidata · 🎮⚽ FC 27 · Super Lig · **Gana Animal** @ **2.05** (Unibet) · prob 55% vs casas 42% · ventaja +12%
-
-- ✅ Valor: ventaja +12% (mín. 11% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 63.294 partidos)  
-Goles esperados: Animal 3.83 · lzrn 3.16  
-Ganador: Animal 55% · empate 17% · lzrn 28%  
-Total: más de 6.5 goles 55% · menos 45%  
-Hándicap Animal: −1.5 37% · −2.5 24%  
-🔎 **Claves**  
-• Forma: Animal ✅✅✅➖➖ | lzrn ❌✅✅❌❌  
-• Partidos: Animal 877 | lzrn 828  
-• Liga: Super Lig  
-• Unibet: 1 2.05 · X 3.75 · 2 2.55 (sin margen 43%/23%/34%) · ventaja +12%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.05 (+12%) · Paf España 2.05 (+12%)  
-
-## hit vs Animal — 10/11 · 19:38
-
-👀 candidata · 🎮⚽ FC 27 · Super Lig · **Gana Animal** @ **2.70** (Unibet) · prob 40% vs casas 32% · ventaja +9%
-
-- ❌ Valor: ventaja +9% (mín. 11% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 63.308 partidos)  
-Goles esperados: hit 2.95 · Animal 2.98  
-Ganador: hit 40% · empate 20% · Animal 40%  
-Total: más de 5.5 goles 54% · menos 46%  
-Hándicap Animal: −1.5 27% · −2.5 15%  
-🔎 **Claves**  
-• Forma: hit ✅❌➖➖✅ | Animal ✅✅➖➖✅  
-• Partidos: hit 731 | Animal 878  
-• Liga: Super Lig  
-• Unibet: 1 2.20 · X 3.05 · 2 2.70 (sin margen 39%/28%/32%) · ventaja +9%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.70 (+9%) · Paf España 2.70 (+9%)  
+Actualizado 10/11/2026 19:43 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Bosko vs steeffant — 10/11 · 19:48
 

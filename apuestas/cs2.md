@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 10/11/2026 19:25 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 10/11/2026 19:43 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Growth Lab Esports vs PARTIZAN — 10/11 · 20:30
 
