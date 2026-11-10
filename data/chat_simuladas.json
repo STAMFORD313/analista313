@@ -2023,5 +2023,49 @@
   "estado": "pendiente",
   "avisada": false,
   "rev": 1
+ },
+ {
+  "id": "20261110205031624652",
+  "creada": "2026-11-10 20:50:31.624686+00:00",
+  "titulo": "Barrido · Combinada cuota 7.7",
+  "legs": [
+   {
+    "src": "espn:nhl",
+    "side": "H",
+    "code": null,
+    "start": "2026-11-11 00:30:00+00:00",
+    "home": "Columbus Blue Jackets",
+    "away": "Florida Panthers",
+    "txt": "Gana Columbus Blue Jackets",
+    "odds": 2.0,
+    "p": 0.51869
+   },
+   {
+    "src": "esports:dota2",
+    "side": "H",
+    "code": null,
+    "start": "2026-11-11 16:00:00+00:00",
+    "home": "potn9ki",
+    "away": "Zenith",
+    "txt": "Gana potn9ki",
+    "odds": 1.46,
+    "p": 0.7215210045662099
+   },
+   {
+    "code": null,
+    "start": "2026-11-11 19:30:00+00:00",
+    "home": "La Luz",
+    "away": "Fenix",
+    "txt": "Empate",
+    "odds": 2.63,
+    "p": 0.4039
+   }
+  ],
+  "odds": 7.68,
+  "p": 0.1511578502898269,
+  "stake": 1.0,
+  "estado": "pendiente",
+  "avisada": false,
+  "rev": 1
  }
 ]
