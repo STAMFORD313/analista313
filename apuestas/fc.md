@@ -1,44 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 10/11/2026 11:35 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## dor1an vs RuBIX — 10/11 · 11:42
-
-👀 candidata · 🎮⚽ FC 27 · Bundesliga · **Gana dor1an** @ **4.00** (Unibet) · prob 29% vs casas 22% · ventaja +16%
-
-- ✅ Valor: ventaja +16% (mín. 12% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 62.872 partidos)  
-Goles esperados: dor1an 2.42 · RuBIX 3.07  
-Ganador: dor1an 29% · empate 20% · RuBIX 51%  
-Total: más de 5.5 goles 47% · menos 53%  
-Hándicap RuBIX: −1.5 35% · −2.5 21%  
-🔎 **Claves**  
-• Forma: dor1an ➖➖❌❌✅ | RuBIX ❌✅✅❌❌  
-• Partidos: dor1an 112 | RuBIX 112  
-• Liga: Bundesliga  
-• Unibet: 1 4.00 · X 5.00 · 2 1.42 (sin margen 22%/17%/61%) · ventaja +16%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 4.00 (+16%) · Paf España 4.00 (+16%)  
-
-## Loka vs Smetana — 10/11 · 11:44
-
-👀 candidata · 🎮⚽ FC 27 · CSL · **Gana Loka** @ **1.97** (Unibet) · prob 56% vs casas 44% · ventaja +11%
-
-- ❌ Valor: ventaja +11% (mín. 11% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 62.861 partidos)  
-Goles esperados: Loka 4.26 · Smetana 3.27  
-Ganador: Loka 56% · empate 14% · Smetana 30%  
-Total: más de 7.5 goles 48% · menos 52%  
-Hándicap Loka: −1.5 42% · −2.5 28%  
-🔎 **Claves**  
-• Forma: Loka ✅➖✅➖➖ | Smetana ✅❌✅❌➖  
-• Partidos: Loka 1172 | Smetana 1156  
-• Liga: CSL  
-• Unibet: 1 1.97 · X 5.10 · 2 2.28 (sin margen 44%/17%/38%) · ventaja +11%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 1.97 (+11%) · Paf España 1.97 (+11%)  
+Actualizado 10/11/2026 11:46 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## cl1vlind vs A1ose — 10/11 · 11:54
 
@@ -78,6 +40,25 @@ Hándicap riko: −1.5 50% · −2.5 36%
 • Unibet: 1 2.88 · X 5.10 · 2 1.68 (sin margen 30%/17%/52%) · ventaja +14%. Sin stake hasta demostrar ROI con estas cuotas.  
 • En España: LeoVegas España 1.68 (+14%) · Paf España 1.68 (+14%)  
 
+## imagin vs Frantsuz — 10/11 · 11:54
+
+👀 candidata · 🎮⚽ FC 27 · Champions League A 2x6 · **Gana imagin** @ **3.70** (Unibet) · prob 30% vs casas 24% · ventaja +13%
+
+- ✅ Valor: ventaja +13% (mín. 11% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 62.883 partidos)  
+Goles esperados: imagin 4.13 · Frantsuz 5.01  
+Ganador: imagin 30% · empate 14% · Frantsuz 56%  
+Total: más de 9.5 goles 43% · menos 57%  
+Hándicap Frantsuz: −1.5 42% · −2.5 29%  
+🔎 **Claves**  
+• Forma: imagin ✅❌❌➖✅ | Frantsuz ❌➖✅✅✅  
+• Partidos: imagin 253 | Frantsuz 616  
+• Liga: Champions League A 2x6  
+• Unibet: 1 3.70 · X 6.75 · 2 1.37 (sin margen 24%/13%/64%) · ventaja +13%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 3.70 (+13%) · Paf España 3.70 (+13%)  
+
 ## ramzes vs Loka — 10/11 · 11:56
 
 👀 candidata · 🎮⚽ FC 27 · CSL · **Gana Loka** @ **1.18** (cuota justa (sin casa)) · prob 85% vs casas 85% · ventaja +0%
@@ -96,6 +77,25 @@ Hándicap Loka: −1.5 72% · −2.5 59%
 • Liga: CSL  
 • Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
 
+## Totti vs Tesla — 10/11 · 12:00
+
+👀 candidata · 🎮⚽ FC 27 · World Cup A · **Gana Tesla** @ **1.62** (Unibet) · prob 68% vs casas 54% · ventaja +10%
+
+- ❌ Valor: ventaja +10% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 62.883 partidos)  
+Goles esperados: Totti 2.34 · Tesla 3.88  
+Ganador: Totti 16% · empate 16% · Tesla 68%  
+Total: más de 6.5 goles 43% · menos 57%  
+Hándicap Tesla: −1.5 50% · −2.5 34%  
+🔎 **Claves**  
+• Forma: Totti ❌✅❌❌❌ | Tesla ✅➖✅➖❌  
+• Partidos: Totti 996 | Tesla 990  
+• Liga: World Cup A  
+• Unibet: 1 3.45 · X 4.35 · 2 1.62 (sin margen 25%/20%/54%) · ventaja +10%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 1.62 (+10%) · Paf España 1.62 (+10%)  
+
 ## Loka vs kamito — 10/11 · 12:08
 
 👀 candidata · 🎮⚽ FC 27 · CSL · **Gana Loka** @ **1.15** (cuota justa (sin casa)) · prob 87% vs casas 87% · ventaja +0%
@@ -113,6 +113,25 @@ Hándicap Loka: −1.5 72% · −2.5 59%
 • Partidos: Loka 1168 | kamito 509  
 • Liga: CSL  
 • Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
+
+## crinner vs ramzes — 10/11 · 12:08
+
+👀 candidata · 🎮⚽ FC 27 · CSL · **Gana crinner** @ **1.50** (Unibet) · prob 76% vs casas 59% · ventaja +13%
+
+- ✅ Valor: ventaja +13% (mín. 11% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 62.883 partidos)  
+Goles esperados: crinner 4.20 · ramzes 2.41  
+Ganador: crinner 75% · empate 11% · ramzes 14%  
+Total: más de 6.5 goles 49% · menos 51%  
+Hándicap crinner: −1.5 54% · −2.5 38%  
+🔎 **Claves**  
+• Forma: crinner ✅➖➖✅✅ | ramzes ✅✅➖❌❌  
+• Partidos: crinner 988 | ramzes 1129  
+• Liga: CSL  
+• Unibet: 1 1.50 · X 5.30 · 2 3.55 (sin margen 59%/17%/25%) · ventaja +13%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 1.50 (+13%) · Paf España 1.50 (+13%)  
 
 ## Loka vs ramzes — 10/11 · 12:56
 
