@@ -1,61 +1,61 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 10/11/2026 14:11 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 10/11/2026 14:44 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## crinner vs ramzes — 10/11 · 14:18
+## d1pseN vs Uncle — 10/11 · 14:49
 
-👀 candidata · 🎮⚽ FC 27 · CSL · **Gana crinner** @ **1.60** (Unibet) · prob 75% vs casas 55% · ventaja +20%
+👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana d1pseN** @ **3.20** (Unibet) · prob 39% vs casas 27% · ventaja +23%
 
-- ✅ Valor: ventaja +20% (mín. 13% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 63.015 partidos)  
-Goles esperados: crinner 4.19 · ramzes 2.31  
-Ganador: crinner 75% · empate 13% · ramzes 12%  
-Total: más de 6.5 goles 47% · menos 53%  
-Hándicap crinner: −1.5 55% · −2.5 39%  
-🔎 **Claves**  
-• Forma: crinner ✅✅✅✅✅ | ramzes ✅❌❌❌✅  
-• Partidos: crinner 997 | ramzes 1138  
-• Liga: CSL  
-• Unibet: 1 1.60 · X 5.10 · 2 3.20 (sin margen 55%/17%/28%) · ventaja +20%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 1.60 (+20%) · Paf España 1.60 (+20%)  
-
-## Loka vs kamito — 10/11 · 14:18
-
-👀 candidata · 🎮⚽ FC 27 · CSL · **Gana Loka** @ **1.38** (Unibet) · prob 86% vs casas 63% · ventaja +18%
-
-- ✅ Valor: ventaja +18% (mín. 13% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 63.015 partidos)  
-Goles esperados: Loka 5.89 · kamito 2.76  
-Ganador: Loka 86% · empate 8% · kamito 7%  
-Total: más de 8.5 goles 50% · menos 50%  
-Hándicap Loka: −1.5 71% · −2.5 58%  
-🔎 **Claves**  
-• Forma: Loka ❌✅➖❌❌ | kamito ❌➖❌❌❌  
-• Partidos: Loka 1182 | kamito 523  
-• Liga: CSL  
-• Unibet: 1 1.38 · X 5.75 · 2 3.85 (sin margen 63%/15%/22%) · ventaja +18%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 1.38 (+18%) · Paf España 1.38 (+18%)  
-
-## Lumix vs Totti — 10/11 · 14:22
-
-👀 candidata · 🎮⚽ FC 27 · FA Cup · **Gana Lumix** @ **2.02** (Unibet) · prob 55% vs casas 43% · ventaja +11%
-
-- ❌ Valor: ventaja +11% (mín. 11% con la incertidumbre, máx. 30%)
+- ✅ Valor: ventaja +23% (mín. 14% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 63.015 partidos)  
-Goles esperados: Lumix 2.99 · Totti 2.30  
-Ganador: Lumix 55% · empate 20% · Totti 25%  
-Total: más de 5.5 goles 43% · menos 57%  
-Hándicap Lumix: −1.5 35% · −2.5 21%  
+📊 **Escenarios** (Poisson por jugador, 63.043 partidos)  
+Goles esperados: d1pseN 2.51 · Uncle 2.57  
+Ganador: d1pseN 39% · empate 22% · Uncle 40%  
+Total: más de 5.5 goles 40% · menos 60%  
+Hándicap Uncle: −1.5 25% · −2.5 13%  
 🔎 **Claves**  
-• Forma: Lumix ❌❌✅✅➖ | Totti ✅✅✅✅❌  
-• Partidos: Lumix 1045 | Totti 1005  
-• Liga: FA Cup  
-• Unibet: 1 2.02 · X 3.30 · 2 2.80 (sin margen 43%/26%/31%) · ventaja +11%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.02 (+11%) · Paf España 2.02 (+11%)  
+• Forma: d1pseN ✅✅✅❌❌ | Uncle ➖➖❌❌✅  
+• Partidos: d1pseN 286 | Uncle 766  
+• Liga: Champions League B  
+• Unibet: 1 3.20 · X 2.00 · 2 2.95 (sin margen 27%/43%/29%) · ventaja +23%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 3.20 (+23%) · Paf España 3.20 (+23%)  
+
+## A1ose vs cl1vlind — 10/11 · 15:04
+
+👀 candidata · 🎮⚽ FC 27 · LaLiga · **Gana A1ose** @ **2.60** (Unibet) · prob 45% vs casas 33% · ventaja +18%
+
+- ✅ Valor: ventaja +18% (mín. 13% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 63.043 partidos)  
+Goles esperados: A1ose 3.04 · cl1vlind 2.78  
+Ganador: A1ose 45% · empate 20% · cl1vlind 35%  
+Total: más de 5.5 goles 52% · menos 48%  
+Hándicap A1ose: −1.5 30% · −2.5 17%  
+🔎 **Claves**  
+• Forma: A1ose ❌❌❌❌✅ | cl1vlind ❌✅✅✅✅  
+• Partidos: A1ose 914 | cl1vlind 572  
+• Liga: LaLiga  
+• Unibet: 1 2.60 · X 2.48 · 2 2.70 (sin margen 33%/35%/32%) · ventaja +18%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.60 (+18%) · Paf España 2.60 (+18%)  
+
+## d1pseN vs Wboy — 10/11 · 15:13
+
+👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana Wboy** @ **3.25** (Unibet) · prob 38% vs casas 27% · ventaja +22%
+
+- ✅ Valor: ventaja +22% (mín. 14% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 63.043 partidos)  
+Goles esperados: d1pseN 3.37 · Wboy 3.15  
+Ganador: d1pseN 44% · empate 19% · Wboy 38%  
+Total: más de 6.5 goles 48% · menos 52%  
+Hándicap d1pseN: −1.5 30% · −2.5 18%  
+🔎 **Claves**  
+• Forma: d1pseN ✅✅✅❌❌ | Wboy ➖❌❌✅❌  
+• Partidos: d1pseN 286 | Wboy 1119  
+• Liga: Champions League B  
+• Unibet: 1 1.66 · X 4.30 · 2 3.25 (sin margen 53%/20%/27%) · ventaja +22%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 3.25 (+22%) · Paf España 3.25 (+22%)  
 
