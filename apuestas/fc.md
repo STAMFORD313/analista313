@@ -1,61 +1,61 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 10/11/2026 08:13 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 10/11/2026 08:44 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## Wboy vs mko1919 — 10/11 · 08:21
+## ramzes vs Smetana — 10/11 · 09:00
 
-👀 candidata · 🎮⚽ FC 27 · World Cup A · **Gana mko1919** @ **3.85** (Unibet) · prob 30% vs casas 23% · ventaja +17%
+👀 candidata · 🎮⚽ FC 27 · EFL Championship · **Gana Smetana** @ **1.60** (Unibet) · prob 76% vs casas 55% · ventaja +22%
 
-- ✅ Valor: ventaja +17% (mín. 12% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 62.703 partidos)  
-Goles esperados: Wboy 3.66 · mko1919 3.05  
-Ganador: Wboy 51% · empate 19% · mko1919 30%  
-Total: más de 6.5 goles 51% · menos 49%  
-Hándicap Wboy: −1.5 36% · −2.5 23%  
-🔎 **Claves**  
-• Forma: Wboy ✅✅✅❌❌ | mko1919 ✅✅❌➖❌  
-• Partidos: Wboy 1097 | mko1919 1186  
-• Liga: World Cup A  
-• Unibet: 1 1.53 · X 4.50 · 2 3.85 (sin margen 58%/20%/23%) · ventaja +17%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 3.85 (+17%) · Paf España 3.85 (+17%)  
-
-## Loka vs ramzes — 10/11 · 08:26
-
-👀 candidata · 🎮⚽ FC 27 · MLS · **Gana Loka** @ **1.42** (Unibet) · prob 87% vs casas 61% · ventaja +23%
-
-- ✅ Valor: ventaja +23% (mín. 14% con la incertidumbre, máx. 30%)
+- ✅ Valor: ventaja +22% (mín. 13% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 62.703 partidos)  
-Goles esperados: Loka 5.12 · ramzes 2.19  
-Ganador: Loka 87% · empate 7% · ramzes 7%  
-Total: más de 7.5 goles 45% · menos 55%  
-Hándicap Loka: −1.5 70% · −2.5 55%  
+📊 **Escenarios** (Poisson por jugador, 62.732 partidos)  
+Goles esperados: ramzes 2.63 · Smetana 4.61  
+Ganador: ramzes 14% · empate 9% · Smetana 76%  
+Total: más de 7.5 goles 44% · menos 56%  
+Hándicap Smetana: −1.5 56% · −2.5 41%  
 🔎 **Claves**  
-• Forma: Loka ❌✅✅✅✅ | ramzes ❌➖❌❌❌  
-• Partidos: Loka 1160 | ramzes 1117  
-• Liga: MLS  
-• Unibet: 1 1.42 · X 5.60 · 2 3.65 (sin margen 61%/15%/24%) · ventaja +23%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 1.42 (+23%) · Paf España 1.42 (+23%)  
+• Forma: ramzes ❌❌❌❌❌ | Smetana ✅✅➖✅✅  
+• Partidos: ramzes 1119 | Smetana 1148  
+• Liga: EFL Championship  
+• Unibet: 1 3.10 · X 5.30 · 2 1.60 (sin margen 28%/17%/55%) · ventaja +22%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 1.60 (+22%) · Paf España 1.60 (+22%)  
 
-## kamito vs Loka — 10/11 · 08:38
+## Taz vs Totti — 10/11 · 09:16
 
-👀 candidata · 🎮⚽ FC 27 · MLS · **Gana Loka** @ **1.43** (Unibet) · prob 87% vs casas 60% · ventaja +24%
+👀 candidata · 🎮⚽ FC 27 · Ligue 1 · **Gana Taz** @ **1.82** (Unibet) · prob 65% vs casas 48% · ventaja +19%
 
-- ✅ Valor: ventaja +24% (mín. 14% con la incertidumbre, máx. 30%)
+- ✅ Valor: ventaja +19% (mín. 13% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 62.703 partidos)  
-Goles esperados: kamito 2.42 · Loka 5.52  
-Ganador: kamito 7% · empate 6% · Loka 87%  
-Total: más de 7.5 goles 54% · menos 46%  
-Hándicap Loka: −1.5 71% · −2.5 58%  
+📊 **Escenarios** (Poisson por jugador, 62.732 partidos)  
+Goles esperados: Taz 3.95 · Totti 2.73  
+Ganador: Taz 65% · empate 15% · Totti 20%  
+Total: más de 6.5 goles 50% · menos 50%  
+Hándicap Taz: −1.5 45% · −2.5 30%  
 🔎 **Claves**  
-• Forma: kamito ❌✅➖❌✅ | Loka ❌✅✅✅✅  
-• Partidos: kamito 501 | Loka 1160  
-• Liga: MLS  
-• Unibet: 1 3.65 · X 5.50 · 2 1.43 (sin margen 24%/16%/61%) · ventaja +24%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 1.43 (+24%) · Paf España 1.43 (+24%)  
+• Forma: Taz ✅✅❌✅✅ | Totti ❌✅❌❌❌  
+• Partidos: Taz 965 | Totti 986  
+• Liga: Ligue 1  
+• Unibet: 1 1.82 · X 3.75 · 2 3.00 (sin margen 48%/23%/29%) · ventaja +19%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 1.82 (+19%) · Paf España 1.82 (+19%)  
+
+## Loka vs Smetana — 10/11 · 09:24
+
+👀 candidata · 🎮⚽ FC 27 · EFL Championship · **Gana Loka** @ **1.98** (Unibet) · prob 60% vs casas 44% · ventaja +19%
+
+- ✅ Valor: ventaja +19% (mín. 13% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 62.732 partidos)  
+Goles esperados: Loka 4.13 · Smetana 3.09  
+Ganador: Loka 60% · empate 12% · Smetana 28%  
+Total: más de 7.5 goles 43% · menos 57%  
+Hándicap Loka: −1.5 43% · −2.5 29%  
+🔎 **Claves**  
+• Forma: Loka ✅✅✅❌✅ | Smetana ✅✅➖✅✅  
+• Partidos: Loka 1163 | Smetana 1148  
+• Liga: EFL Championship  
+• Unibet: 1 1.98 · X 4.75 · 2 2.32 (sin margen 44%/18%/38%) · ventaja +19%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 1.98 (+19%) · Paf España 1.98 (+19%)  
 
