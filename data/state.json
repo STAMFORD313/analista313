@@ -1485,9 +1485,6 @@
   "wta|2026-11-12|Jessica Pegula|Linda Noskova",
   "wta|2026-11-12|Mirra Andreeva|Karolina Muchova",
   "cbb|2026-11-13|Howard Bison|Stetson Hatters",
-  "fc|2364749",
-  "fc|2363708",
-  "fc|2364862",
   "fc|2363711",
   "fc|2365078",
   "fc|2363709",
@@ -2487,7 +2484,10 @@
   "fc|2372335",
   "fc|2372176",
   "fc|2372345",
-  "fc|2372339"
+  "fc|2372339",
+  "fc|2372343",
+  "fc|2372358",
+  "fc|2372355"
  ],
  "signals": [
   {
@@ -21738,7 +21738,11 @@
    "version": "7743b0e",
    "bajas": "Sabadell: sin bajas; Sociedad B: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "0-0",
+   "clv": 0.051,
+   "logged": true
   },
   {
    "market": "over",
@@ -22038,31 +22042,6 @@
    "placed": false
   },
   {
-   "market": "A",
-   "pick": "Taz",
-   "odds": 2.55,
-   "book": "Unibet",
-   "implied": 0.341,
-   "edge": 0.108,
-   "sin_stake": true,
-   "p": 0.434,
-   "key": "fc|2367733",
-   "match": "Lumix vs Taz",
-   "start": "2026-11-07T10:00:00+00:00",
-   "league": "🎮⚽ FC 27 · World Cup A",
-   "sport": "🎮⚽",
-   "context": "EA FC Esoccer Battle Lumix vs Taz (World Cup A): goles esperados 2.99-3.19, 1X2 36%/20%/43%. Sin cuotas de casa.",
-   "captured": "2026-11-07T09:19",
-   "version": "067a94f",
-   "bajas": "",
-   "considered": true,
-   "placed": false,
-   "score": "0-7",
-   "result": true,
-   "close_p": null,
-   "logged": true
-  },
-  {
    "key": "vp|2026-11-07|Persija Jakarta|Persebaya Surabaya",
    "market": "H",
    "pick": "Persija Jakarta",
@@ -22127,56 +22106,6 @@
    "bajas": "",
    "considered": true,
    "placed": false
-  },
-  {
-   "market": "H",
-   "pick": "Wboy",
-   "odds": 3.6,
-   "book": "Unibet",
-   "implied": 0.244,
-   "edge": 0.221,
-   "sin_stake": true,
-   "p": 0.339,
-   "key": "fc|2367473",
-   "match": "Wboy vs Bomb1to",
-   "start": "2026-11-07T10:15:00+00:00",
-   "league": "🎮⚽ FC 27 · World Cup B",
-   "sport": "🎮⚽",
-   "context": "EA FC Esoccer Battle Wboy vs Bomb1to (World Cup B): goles esperados 3.42-3.71, 1X2 34%/20%/46%. Sin cuotas de casa.",
-   "captured": "2026-11-07T09:50",
-   "version": "4168393",
-   "bajas": "",
-   "considered": true,
-   "placed": false,
-   "score": "4-1",
-   "result": true,
-   "close_p": null,
-   "logged": true
-  },
-  {
-   "market": "D",
-   "pick": "Empate",
-   "odds": 5.4,
-   "book": "Unibet",
-   "implied": 0.163,
-   "edge": 0.087,
-   "sin_stake": true,
-   "p": 0.201,
-   "key": "fc|2367734",
-   "match": "Totti vs Maxa",
-   "start": "2026-11-07T10:00:00+00:00",
-   "league": "🎮⚽ FC 27 · World Cup A",
-   "sport": "🎮⚽",
-   "context": "EA FC Esoccer Battle Totti vs Maxa (World Cup A): goles esperados 2.67-3.28, 1X2 29%/20%/51%. Sin cuotas de casa.",
-   "captured": "2026-11-07T09:50",
-   "version": "4168393",
-   "bajas": "",
-   "considered": true,
-   "placed": false,
-   "score": "2-1",
-   "result": false,
-   "close_p": null,
-   "logged": true
   },
   {
    "market": "H",
@@ -37896,7 +37825,11 @@
    "version": "09a8b19",
    "bajas": "Sabadell: sin bajas; Sociedad B: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "0-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_h_u",
@@ -37917,7 +37850,11 @@
    "version": "09a8b19",
    "bajas": "Sabadell: sin bajas; Sociedad B: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "0-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_a_o",
@@ -37938,7 +37875,11 @@
    "version": "09a8b19",
    "bajas": "Sabadell: sin bajas; Sociedad B: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "0-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_a_u",
@@ -37959,7 +37900,11 @@
    "version": "09a8b19",
    "bajas": "Sabadell: sin bajas; Sociedad B: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "0-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_t_o",
@@ -37980,7 +37925,11 @@
    "version": "09a8b19",
    "bajas": "Sabadell: sin bajas; Sociedad B: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "0-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_t_u",
@@ -38001,7 +37950,11 @@
    "version": "09a8b19",
    "bajas": "Sabadell: sin bajas; Sociedad B: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "0-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "A",
@@ -45003,25 +44956,16 @@
    "start": "2026-11-10T09:48:00+00:00",
    "league": "🎮⚽ FC 27 · EFL Championship",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 62.812 partidos)",
-    "Goles esperados: kamito 2.73 · Loka 5.84",
-    "Ganador: kamito 8% · empate 6% · Loka 86%",
-    "Total: más de 8.5 goles 48% · menos 52%",
-    "Hándicap Loka: −1.5 71% · −2.5 57%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: kamito ❌❌✅❌❌ | Loka ✅✅❌✅✅",
-    "• Partidos: kamito 509 | Loka 1168",
-    "• Liga: EFL Championship",
-    "• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta)."
-   ],
    "context": "EA FC Esoccer Battle kamito vs Loka (EFL Championship): goles esperados 2.73-5.84, 1X2 8%/6%/86%. Sin cuotas de casa.",
    "captured": "2026-11-10T09:17",
    "version": "e311fac",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "3-3",
+   "result": false,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "H",
@@ -45041,7 +44985,11 @@
    "version": "e311fac",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "3-3",
+   "result": false,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "A",
@@ -45105,6 +45053,108 @@
    "context": "EA FC Esoccer Battle kamito vs crinner (CSL): goles esperados 2.66-4.52, 1X2 12%/10%/78%. Sin cuotas de casa.",
    "captured": "2026-11-10T09:46",
    "version": "a4221ea",
+   "bajas": "",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "H",
+   "pick": "Loka",
+   "odds": 1.97,
+   "book": "Unibet",
+   "implied": 0.444,
+   "edge": 0.107,
+   "sin_stake": true,
+   "p": 0.562,
+   "key": "fc|2372343",
+   "match": "Loka vs Smetana",
+   "start": "2026-11-10T10:44:00+00:00",
+   "league": "🎮⚽ FC 27 · CSL",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 62.861 partidos)",
+    "Goles esperados: Loka 4.26 · Smetana 3.27",
+    "Ganador: Loka 56% · empate 14% · Smetana 30%",
+    "Total: más de 7.5 goles 48% · menos 52%",
+    "Hándicap Loka: −1.5 42% · −2.5 28%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Loka ✅➖✅➖➖ | Smetana ✅❌✅❌➖",
+    "• Partidos: Loka 1172 | Smetana 1156",
+    "• Liga: CSL",
+    "• Unibet: 1 1.97 · X 5.10 · 2 2.28 (sin margen 44%/17%/38%) · ventaja +11%. Sin stake hasta demostrar ROI con estas cuotas.",
+    "• En España: LeoVegas España 1.97 (+11%) · Paf España 1.97 (+11%)"
+   ],
+   "context": "EA FC Esoccer Battle Loka vs Smetana (CSL): goles esperados 4.26-3.27, 1X2 56%/14%/30%. Sin cuotas de casa.",
+   "captured": "2026-11-10T10:15",
+   "version": "bc69893",
+   "bajas": "",
+   "considered": true,
+   "placed": false,
+   "anunciada": true
+  },
+  {
+   "market": "A",
+   "pick": "Loka",
+   "odds": 1.16,
+   "book": "cuota justa (sin casa)",
+   "implied": 0.865,
+   "edge": 0.0,
+   "p": 0.865,
+   "key": "fc|2372358",
+   "match": "kamito vs Loka",
+   "start": "2026-11-10T12:08:00+00:00",
+   "league": "🎮⚽ FC 27 · CSL",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 62.861 partidos)",
+    "Goles esperados: kamito 2.83 · Loka 6.04",
+    "Ganador: kamito 7% · empate 6% · Loka 87%",
+    "Total: más de 8.5 goles 53% · menos 47%",
+    "Hándicap Loka: −1.5 71% · −2.5 59%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: kamito ❌❌❌❌➖ | Loka ✅➖✅➖➖",
+    "• Partidos: kamito 512 | Loka 1172",
+    "• Liga: CSL",
+    "• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta)."
+   ],
+   "context": "EA FC Esoccer Battle kamito vs Loka (CSL): goles esperados 2.83-6.04, 1X2 7%/6%/87%. Sin cuotas de casa.",
+   "captured": "2026-11-10T10:15",
+   "version": "bc69893",
+   "bajas": "",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "H",
+   "pick": "Loka",
+   "odds": 1.2,
+   "book": "cuota justa (sin casa)",
+   "implied": 0.836,
+   "edge": 0.0,
+   "p": 0.836,
+   "key": "fc|2372355",
+   "match": "Loka vs ramzes",
+   "start": "2026-11-10T11:56:00+00:00",
+   "league": "🎮⚽ FC 27 · CSL",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 62.861 partidos)",
+    "Goles esperados: Loka 5.61 · ramzes 2.54",
+    "Ganador: Loka 84% · empate 7% · ramzes 9%",
+    "Total: más de 8.5 goles 43% · menos 57%",
+    "Hándicap Loka: −1.5 71% · −2.5 57%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Loka ✅➖✅➖➖ | ramzes ✅✅✅➖❌",
+    "• Partidos: Loka 1172 | ramzes 1128",
+    "• Liga: CSL",
+    "• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta)."
+   ],
+   "context": "EA FC Esoccer Battle Loka vs ramzes (CSL): goles esperados 5.61-2.54, 1X2 84%/7%/9%. Sin cuotas de casa.",
+   "captured": "2026-11-10T10:15",
+   "version": "bc69893",
    "bajas": "",
    "considered": true,
    "placed": false
@@ -45570,7 +45620,7 @@
  },
  "scoreboard_id": 156,
  "scoreboard_text": "📊 <b>MARCADOR DEL BOT</b>\n━━━━━━━━━━━━━━━\n🟩 Ganadas: <b>11</b> (37 %)\n🟥 Perdidas: <b>19</b> (63 %)\n⏳ En juego: 0\n\nÚltimas 30:\n🟥🟥🟥🟩🟥🟩🟥🟥🟥🟥🟥🟥🟥🟥🟩🟥🟥🟩🟩🟩🟩🟩🟥🟥🟥🟥🟩🟩🟥🟩\n━━━━━━━━━━━━━━━\n💵 Beneficio -17.17 $ · ROI -30.9 %\n📐 CLV medio +2.5 % (cuota cogida vs cierre)\n💰 Banca: <b>82.83 €</b> (-17.17 € desde 100 €) · libre 82.83 €{\"inline_keyboard\": [[{\"text\": \"\\ud83d\\udcc8 Ver historial completo y fallos\", \"url\": \"https://github.com/STAMFORD313/analista313/blob/main/ESTADISTICAS.md\"}], [{\"text\": \"\\u26bd F\\u00fatbol\", \"callback_data\": \"dep:futbol\"}, {\"text\": \"\\ud83c\\udfc0 NBA\\u00b7NCAA\", \"callback_data\": \"dep:nba\"}, {\"text\": \"\\ud83c\\udfc8 NFL\\u00b7NCAA\", \"callback_data\": \"dep:nfl\"}], [{\"text\": \"\\ud83c\\udfc6 Champions\\u00b7Europa\", \"callback_data\": \"dep:europa\"}, {\"text\": \"\\ud83c\\udfd2 NHL\", \"callback_data\": \"dep:nhl\"}, {\"text\": \"\\u26be MLB\", \"callback_data\": \"dep:mlb\"}], [{\"text\": \"\\ud83e\\udd4a UFC\", \"callback_data\": \"dep:ufc\"}, {\"text\": \"\\ud83c\\udfbe Tenis\", \"callback_data\": \"dep:tenis\"}, {\"text\": \"\\ud83c\\udfae CS2\", \"callback_data\": \"dep:cs2\"}], [{\"text\": \"\\ud83d\\udc09 Dota 2\", \"callback_data\": \"dep:dota2\"}, {\"text\": \"\\ud83e\\uddd9 LoL\", \"callback_data\": \"dep:lol\"}, {\"text\": \"\\ud83d\\udd2b R6 Siege\", \"callback_data\": \"dep:r6\"}], [{\"text\": \"\\ud83d\\udcf1 MLBB\", \"callback_data\": \"dep:mlbb\"}, {\"text\": \"\\ud83c\\udfae\\u26bd FC 27\", \"callback_data\": \"dep:fc\"}]]}",
- "fc_sent": "2026-11-10T05:15:58.817821+00:00",
+ "fc_sent": "2026-11-10T10:15:51.896596+00:00",
  "sgp": {
   "P1|2026-11-08|Estoril|Maritimo": {
    "match": "Estoril vs Maritimo",
@@ -45678,69 +45728,6 @@
      "p": 0.5615744274729938,
      "line": 4.5,
      "text": "Más de 4.5 tiros a puerta de Estoril"
-    }
-   ]
-  },
-  "SP2|2026-11-09|Sabadell|Sociedad B": {
-   "match": "Sabadell vs Sociedad B",
-   "start": "2026-11-09T19:30:00+00:00",
-   "combos": [
-    {
-     "kind": "corta",
-     "p": 0.3256,
-     "legs": [
-      {
-       "var": "sot_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.7421,
-       "text": "Menos de 4.5 tiros a puerta de Sociedad B",
-       "odds": null
-      },
-      {
-       "var": "corners_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.6996,
-       "text": "Menos de 4.5 córners de Sociedad B",
-       "odds": null
-      },
-      {
-       "var": "cards_a",
-       "sign": -1,
-       "line": 3.5,
-       "p": 0.6164,
-       "text": "Menos de 3.5 tarjetas de Sociedad B",
-       "odds": null
-      }
-     ]
-    }
-   ],
-   "priced": true,
-   "pool": [
-    {
-     "stat": "sot",
-     "var": "sot_a",
-     "sign": -1,
-     "p": 0.7421155929219605,
-     "line": 4.5,
-     "text": "Menos de 4.5 tiros a puerta de Sociedad B"
-    },
-    {
-     "stat": "corners",
-     "var": "corners_a",
-     "sign": -1,
-     "p": 0.6995942632699635,
-     "line": 4.5,
-     "text": "Menos de 4.5 córners de Sociedad B"
-    },
-    {
-     "stat": "cards",
-     "var": "cards_a",
-     "sign": -1,
-     "p": 0.6164241117630391,
-     "line": 3.5,
-     "text": "Menos de 3.5 tarjetas de Sociedad B"
     }
    ]
   },
@@ -45901,7 +45888,7 @@
   "SP2|2026-11-09|Sabadell|Sociedad B"
  ],
  "paper_sent": "2026-11-09T16:53:42.738768+00:00",
- "sgp_res_n": 407,
+ "sgp_res_n": 408,
  "nba_props_ok": [
   "nba|2026-11-05|Detroit Pistons|Philadelphia 76ers",
   "nba|2026-11-05|Washington Wizards|Atlanta Hawks",
