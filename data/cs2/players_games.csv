@@ -34639,3 +34639,7 @@ game_id,match_id,slug,date,tier,bo,tournament_id,tournament,t1_id,t2_id,team1,te
 192818,133369,baks-esports-vs-azuolas-10-11-2026,2026-11-10T09:00:00.000+00:00,b,3,5629,CCT Europe 2026 Series 14,2924,25247,BAKS,Azuolas,2,de_ancient,2924,13.0,0.0
 192819,133369,baks-esports-vs-azuolas-10-11-2026,2026-11-10T09:00:00.000+00:00,b,3,5629,CCT Europe 2026 Series 14,2924,25247,BAKS,Azuolas,1,de_inferno,2924,13.0,2.0
 193298,133833,brute-vs-illyrians-10-11-2026,2026-11-10T09:00:00.000+00:00,b,3,6240,NODWIN Clutch Series 14,370,3022,BRUTE,Illyrians,1,de_dust2,3022,16.0,14.0
+192821,133370,ex-zero-tenacity-vs-illyrians-10-11-2026,2026-11-10T12:00:00.000+00:00,b,3,5629,CCT Europe 2026 Series 14,22185,3022,ex-Zero Tenacity,Illyrians,2,de_mirage,22185,13.0,11.0
+192822,133370,ex-zero-tenacity-vs-illyrians-10-11-2026,2026-11-10T12:00:00.000+00:00,b,3,5629,CCT Europe 2026 Series 14,22185,3022,ex-Zero Tenacity,Illyrians,1,de_inferno,22185,13.0,2.0
+193300,133834,team-aces-vs-baks-esports-10-11-2026,2026-11-10T12:00:00.000+00:00,b,3,6240,NODWIN Clutch Series 14,25564,2924,Aces,BAKS,2,de_dust2,2924,13.0,4.0
+193301,133834,team-aces-vs-baks-esports-10-11-2026,2026-11-10T12:00:00.000+00:00,b,3,6240,NODWIN Clutch Series 14,25564,2924,Aces,BAKS,1,de_cache,2924,13.0,8.0

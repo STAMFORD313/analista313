@@ -63019,18 +63019,18 @@ id,tournament_id,club1,club2,ht1,ht2
 2372904,261565,Paris,Liverpool,3.0,4.0
 2373212,261565,Liverpool,Bayern Munchen,1.0,2.0
 2372906,261565,Real Madrid,Atleti,1.0,0.0
-2372119,261534,Arsenal,B Dortmund,1,1
-2372120,261534,Man City,Sporting CP,1,1
-2372121,261534,Sporting CP,Arsenal,1,3
-2372122,261534,B Dortmund,Juventus,3,2
-2372123,261534,Juventus,Sporting CP,1,1
-2372124,261534,Arsenal,Man City,0,1
-2372125,261534,Man City,Juventus,0,1
-2372126,261534,Sporting CP,B Dortmund,3,2
-2372127,261534,B Dortmund,Man City,2,2
-2372128,261534,Juventus,Arsenal,1,0
-2372129,261534,B Dortmund,Arsenal,1,2
-2372130,261534,Sporting CP,Man City,0,0
+2372119,261534,Arsenal,B Dortmund,1.0,1.0
+2372120,261534,Man City,Sporting CP,1.0,1.0
+2372121,261534,Sporting CP,Arsenal,1.0,3.0
+2372122,261534,B Dortmund,Juventus,3.0,2.0
+2372123,261534,Juventus,Sporting CP,1.0,1.0
+2372124,261534,Arsenal,Man City,0.0,1.0
+2372125,261534,Man City,Juventus,0.0,1.0
+2372126,261534,Sporting CP,B Dortmund,3.0,2.0
+2372127,261534,B Dortmund,Man City,2.0,2.0
+2372128,261534,Juventus,Arsenal,1.0,0.0
+2372129,261534,B Dortmund,Arsenal,1.0,2.0
+2372130,261534,Sporting CP,Man City,0.0,0.0
 2372131,261534,Arsenal,Sporting CP,,
 2372132,261534,Juventus,B Dortmund,,
 2372133,261534,Sporting CP,Juventus,,
@@ -63039,16 +63039,16 @@ id,tournament_id,club1,club2,ht1,ht2
 2372136,261534,B Dortmund,Sporting CP,,
 2372137,261534,Man City,B Dortmund,,
 2372138,261534,Arsenal,Juventus,,
-2372199,261552,Athletic Club,Villarreal,4,1
-2372200,261552,Real Madrid,Barcelona,1,2
-2372201,261552,Barcelona,Athletic Club,2,3
-2372202,261552,Villarreal,Atleti,1,2
-2372203,261552,Atleti,Barcelona,1,0
-2372204,261552,Athletic Club,Real Madrid,0,2
-2372205,261552,Real Madrid,Atleti,1,2
-2372206,261552,Barcelona,Villarreal,1,1
-2372207,261552,Villarreal,Real Madrid,2,2
-2372208,261552,Atleti,Athletic Club,1,2
+2372199,261552,Athletic Club,Villarreal,4.0,1.0
+2372200,261552,Real Madrid,Barcelona,1.0,2.0
+2372201,261552,Barcelona,Athletic Club,2.0,3.0
+2372202,261552,Villarreal,Atleti,1.0,2.0
+2372203,261552,Atleti,Barcelona,1.0,0.0
+2372204,261552,Athletic Club,Real Madrid,0.0,2.0
+2372205,261552,Real Madrid,Atleti,1.0,2.0
+2372206,261552,Barcelona,Villarreal,1.0,1.0
+2372207,261552,Villarreal,Real Madrid,2.0,2.0
+2372208,261552,Atleti,Athletic Club,1.0,2.0
 2372209,261552,Villarreal,Athletic Club,,
 2372210,261552,Barcelona,Real Madrid,,
 2372211,261552,Athletic Club,Barcelona,,
@@ -63059,30 +63059,30 @@ id,tournament_id,club1,club2,ht1,ht2
 2372216,261552,Villarreal,Barcelona,,
 2372217,261552,Real Madrid,Villarreal,,
 2372218,261552,Athletic Club,Atleti,,
-2372359,261556,Chengdu Rongcheng,Shanghai Shenhua,1,1
-2372360,261556,Shandong Taishan,Shanghai Port,1,3
-2372361,261556,Shanghai Port,Chengdu Rongcheng,2,0
-2372362,261556,Shanghai Shenhua,Beijing Guoan,1,0
-2372363,261556,Beijing Guoan,Shanghai Port,1,4
-2372364,261556,Chengdu Rongcheng,Shandong Taishan,0,1
-2372365,261556,Shandong Taishan,Beijing Guoan,2,1
-2372366,261556,Shanghai Port,Shanghai Shenhua,0,2
-2372367,261556,Shanghai Shenhua,Shandong Taishan,2,1
-2372368,261556,Beijing Guoan,Chengdu Rongcheng,3,1
-2373017,261577,Nottm Forest,Brighton,0,2
-2373018,261577,Newcastle,Man Utd,2,0
-2373019,261577,Man Utd,Nottm Forest,3,3
-2373020,261577,Brighton,Aston Villa,2,0
-2373021,261577,Aston Villa,Man Utd,3,2
-2373022,261577,Nottm Forest,Newcastle,2,1
-2373023,261577,Newcastle,Aston Villa,1,2
-2373024,261577,Man Utd,Brighton,1,0
-2373025,261577,Brighton,Newcastle,0,2
-2373026,261577,Aston Villa,Nottm Forest,3,1
-2373027,261577,Brighton,Nottm Forest,3,1
-2373028,261577,Man Utd,Newcastle,1,2
-2373029,261577,Nottm Forest,Man Utd,1,0
-2373030,261577,Aston Villa,Brighton,2,2
+2372359,261556,Chengdu Rongcheng,Shanghai Shenhua,1.0,1.0
+2372360,261556,Shandong Taishan,Shanghai Port,1.0,3.0
+2372361,261556,Shanghai Port,Chengdu Rongcheng,2.0,0.0
+2372362,261556,Shanghai Shenhua,Beijing Guoan,1.0,0.0
+2372363,261556,Beijing Guoan,Shanghai Port,1.0,4.0
+2372364,261556,Chengdu Rongcheng,Shandong Taishan,0.0,1.0
+2372365,261556,Shandong Taishan,Beijing Guoan,2.0,1.0
+2372366,261556,Shanghai Port,Shanghai Shenhua,0.0,2.0
+2372367,261556,Shanghai Shenhua,Shandong Taishan,2.0,1.0
+2372368,261556,Beijing Guoan,Chengdu Rongcheng,3.0,1.0
+2373017,261577,Nottm Forest,Brighton,0.0,2.0
+2373018,261577,Newcastle,Man Utd,2.0,0.0
+2373019,261577,Man Utd,Nottm Forest,3.0,3.0
+2373020,261577,Brighton,Aston Villa,2.0,0.0
+2373021,261577,Aston Villa,Man Utd,3.0,2.0
+2373022,261577,Nottm Forest,Newcastle,2.0,1.0
+2373023,261577,Newcastle,Aston Villa,1.0,2.0
+2373024,261577,Man Utd,Brighton,1.0,0.0
+2373025,261577,Brighton,Newcastle,0.0,2.0
+2373026,261577,Aston Villa,Nottm Forest,3.0,1.0
+2373027,261577,Brighton,Nottm Forest,3.0,1.0
+2373028,261577,Man Utd,Newcastle,1.0,2.0
+2373029,261577,Nottm Forest,Man Utd,1.0,0.0
+2373030,261577,Aston Villa,Brighton,2.0,2.0
 2373031,261577,Man Utd,Aston Villa,,
 2373032,261577,Newcastle,Nottm Forest,,
 2373033,261577,Aston Villa,Newcastle,,
