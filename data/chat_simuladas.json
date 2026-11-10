@@ -1930,5 +1930,47 @@
   "estado": "pendiente",
   "avisada": false,
   "rev": 1
+ },
+ {
+  "id": "20261110101014021135",
+  "creada": "2026-11-10 10:10:14.021177+00:00",
+  "titulo": "Barrido · Combinada cuota 10.2",
+  "legs": [
+   {
+    "code": null,
+    "start": "2026-11-10 19:45:00+00:00",
+    "home": "Atherton Collieries",
+    "away": "Witton Albion",
+    "txt": "Gana Witton Albion",
+    "odds": 2.55,
+    "p": 0.4383
+   },
+   {
+    "code": null,
+    "start": "2026-11-10 19:45:00+00:00",
+    "home": "Dunston",
+    "away": "Lincoln United",
+    "txt": "Gana Dunston",
+    "odds": 1.55,
+    "p": 0.6936
+   },
+   {
+    "src": "esports:dota2",
+    "side": "A",
+    "code": null,
+    "start": "2026-11-11 19:00:00+00:00",
+    "home": "Froglings",
+    "away": "Nemiga Gaming",
+    "txt": "Gana Nemiga Gaming",
+    "odds": 2.57,
+    "p": 0.42080337224383924
+   }
+  ],
+  "odds": 10.16,
+  "p": 0.1279262786825837,
+  "stake": 1.0,
+  "estado": "pendiente",
+  "avisada": false,
+  "rev": 1
  }
 ]
