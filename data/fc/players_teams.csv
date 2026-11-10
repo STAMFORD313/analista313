@@ -63189,16 +63189,16 @@ id,tournament_id,club1,club2,ht1,ht2
 2373054,261567,Bologna,Juventus,,
 2373055,261567,Napoli,Bologna,,
 2373056,261567,Sassuolo,Roma,,
-2373369,261543,B Dortmund,Man City,2,1
-2373370,261543,Sporting CP,Juventus,3,0
-2373371,261543,Juventus,B Dortmund,2,2
-2373372,261543,Man City,Arsenal,1,1
-2373373,261543,Arsenal,Juventus,1,1
-2373374,261543,B Dortmund,Sporting CP,1,1
-2373375,261543,Sporting CP,Arsenal,0,1
-2373376,261543,Juventus,Man City,1,1
-2373377,261543,Man City,Sporting CP,2,2
-2373378,261543,Arsenal,B Dortmund,2,4
+2373369,261543,B Dortmund,Man City,2.0,1.0
+2373370,261543,Sporting CP,Juventus,3.0,0.0
+2373371,261543,Juventus,B Dortmund,2.0,2.0
+2373372,261543,Man City,Arsenal,1.0,1.0
+2373373,261543,Arsenal,Juventus,1.0,1.0
+2373374,261543,B Dortmund,Sporting CP,1.0,1.0
+2373375,261543,Sporting CP,Arsenal,0.0,1.0
+2373376,261543,Juventus,Man City,1.0,1.0
+2373377,261543,Man City,Sporting CP,2.0,2.0
+2373378,261543,Arsenal,B Dortmund,2.0,4.0
 2373379,261543,Man City,B Dortmund,,
 2373380,261543,Juventus,Sporting CP,,
 2373381,261543,B Dortmund,Juventus,,
@@ -63209,3 +63209,23 @@ id,tournament_id,club1,club2,ht1,ht2
 2373386,261543,Man City,Juventus,,
 2373387,261543,Sporting CP,Man City,,
 2373388,261543,B Dortmund,Arsenal,,
+2372539,261519,Man City,Liverpool,1,1
+2372540,261519,Chelsea,Arsenal,1,2
+2372541,261519,Arsenal,Man City,2,0
+2372542,261519,Liverpool,Tottenham,2,2
+2372543,261519,Tottenham,Arsenal,1,4
+2372544,261519,Man City,Chelsea,2,2
+2372545,261519,Chelsea,Tottenham,2,2
+2372546,261519,Arsenal,Liverpool,3,1
+2372547,261519,Liverpool,Chelsea,2,1
+2372548,261519,Tottenham,Man City,3,3
+2372549,261519,Liverpool,Man City,2,1
+2372550,261519,Arsenal,Chelsea,2,0
+2372551,261519,Man City,Arsenal,0,0
+2372552,261519,Tottenham,Liverpool,0,0
+2372553,261519,Arsenal,Tottenham,,
+2372554,261519,Chelsea,Man City,,
+2372555,261519,Tottenham,Chelsea,,
+2372556,261519,Liverpool,Arsenal,,
+2372557,261519,Chelsea,Liverpool,,
+2372558,261519,Man City,Tottenham,,
