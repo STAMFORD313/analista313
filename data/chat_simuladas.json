@@ -584,15 +584,17 @@
     "away": "Yakult Brothers",
     "txt": "Gana HULIGANI",
     "odds": 1.6,
-    "p": 0.6557666666666666
+    "p": 0.6557666666666666,
+    "ok": "nula",
+    "por": "sin resultado"
    }
   ],
   "odds": 6.02,
   "p": 0.20774189617333333,
   "stake": 1.0,
-  "estado": "pendiente",
-  "avisada": false,
-  "rev": 1
+  "estado": "ganada",
+  "avisada": true,
+  "rev": 2
  },
  {
   "id": "20261105180858310395",
@@ -850,7 +852,9 @@
     "away": "Gaz Al Shamal",
     "txt": "Gana Al-Talaba",
     "odds": 2.12,
-    "p": 0.4894
+    "p": 0.4894,
+    "ok": "nula",
+    "por": "sin datos del partido"
    },
    {
     "code": null,
@@ -1899,7 +1903,10 @@
     "away": "ex-RUSTEC",
     "txt": "Gana ex-RUSTEC",
     "odds": 2.1,
-    "p": 0.50654
+    "p": 0.50654,
+    "ok": false,
+    "por": "ganó FORZE Reload 2-0",
+    "clv": -0.103
    },
    {
     "src": "esports:dota2",
@@ -1927,9 +1934,9 @@
   "odds": 5.52,
   "p": 0.21189403993398626,
   "stake": 1.0,
-  "estado": "pendiente",
-  "avisada": false,
-  "rev": 1
+  "estado": "perdida",
+  "avisada": true,
+  "rev": 2
  },
  {
   "id": "20261110101014021135",
