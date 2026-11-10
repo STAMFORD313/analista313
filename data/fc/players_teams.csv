@@ -63269,18 +63269,18 @@ id,tournament_id,club1,club2,ht1,ht2
 2373074,261568,Portugal,Morocco,,
 2373075,261568,Belgium,Portugal,,
 2373076,261568,Netherlands,Germany,,
-2373249,261536,Liverpool,Atleti,4,1
-2373250,261536,Paris,Bayern Munchen,1,3
-2373251,261536,Bayern Munchen,Liverpool,1,1
-2373252,261536,Atleti,Real Madrid,1,2
-2373253,261536,Real Madrid,Bayern Munchen,1,1
-2373254,261536,Liverpool,Paris,1,0
-2373255,261536,Paris,Real Madrid,0,1
-2373256,261536,Bayern Munchen,Atleti,3,0
-2373257,261536,Atleti,Paris,1,1
-2373258,261536,Real Madrid,Liverpool,0,0
-2373259,261536,Atleti,Liverpool,0,2
-2373260,261536,Bayern Munchen,Paris,1,0
+2373249,261536,Liverpool,Atleti,4.0,1.0
+2373250,261536,Paris,Bayern Munchen,1.0,3.0
+2373251,261536,Bayern Munchen,Liverpool,1.0,1.0
+2373252,261536,Atleti,Real Madrid,1.0,2.0
+2373253,261536,Real Madrid,Bayern Munchen,1.0,1.0
+2373254,261536,Liverpool,Paris,1.0,0.0
+2373255,261536,Paris,Real Madrid,0.0,1.0
+2373256,261536,Bayern Munchen,Atleti,3.0,0.0
+2373257,261536,Atleti,Paris,1.0,1.0
+2373258,261536,Real Madrid,Liverpool,0.0,0.0
+2373259,261536,Atleti,Liverpool,0.0,2.0
+2373260,261536,Bayern Munchen,Paris,1.0,0.0
 2373261,261536,Liverpool,Bayern Munchen,,
 2373262,261536,Real Madrid,Atleti,,
 2373263,261536,Bayern Munchen,Real Madrid,,
@@ -63289,16 +63289,16 @@ id,tournament_id,club1,club2,ht1,ht2
 2373266,261536,Atleti,Bayern Munchen,,
 2373267,261536,Paris,Atleti,,
 2373268,261536,Liverpool,Real Madrid,,
-2373389,261544,Besiktas,Galatasaray,0,1
-2373390,261544,Fenerbahce,Trabzonspor,2,1
-2373391,261544,Trabzonspor,Besiktas,2,2
-2373392,261544,Galatasaray,Basaksehir,3,1
-2373393,261544,Basaksehir,Trabzonspor,0,1
-2373394,261544,Besiktas,Fenerbahce,0,0
-2373395,261544,Fenerbahce,Basaksehir,2,2
-2373396,261544,Trabzonspor,Galatasaray,1,4
-2373397,261544,Galatasaray,Fenerbahce,0,0
-2373398,261544,Basaksehir,Besiktas,0,0
+2373389,261544,Besiktas,Galatasaray,0.0,1.0
+2373390,261544,Fenerbahce,Trabzonspor,2.0,1.0
+2373391,261544,Trabzonspor,Besiktas,2.0,2.0
+2373392,261544,Galatasaray,Basaksehir,3.0,1.0
+2373393,261544,Basaksehir,Trabzonspor,0.0,1.0
+2373394,261544,Besiktas,Fenerbahce,0.0,0.0
+2373395,261544,Fenerbahce,Basaksehir,2.0,2.0
+2373396,261544,Trabzonspor,Galatasaray,1.0,4.0
+2373397,261544,Galatasaray,Fenerbahce,0.0,0.0
+2373398,261544,Basaksehir,Besiktas,0.0,0.0
 2373399,261544,Galatasaray,Besiktas,,
 2373400,261544,Trabzonspor,Fenerbahce,,
 2373401,261544,Besiktas,Trabzonspor,,
@@ -63309,12 +63309,12 @@ id,tournament_id,club1,club2,ht1,ht2
 2373406,261544,Galatasaray,Trabzonspor,,
 2373407,261544,Fenerbahce,Galatasaray,,
 2373408,261544,Besiktas,Basaksehir,,
-2372927,261564,Juventus,Arsenal,1,1
-2372928,261564,Sporting CP,B Dortmund,2,1
-2372929,261564,B Dortmund,Juventus,2,1
-2372930,261564,Arsenal,Man City,0,5
-2372931,261564,Man City,B Dortmund,1,3
-2372932,261564,Juventus,Sporting CP,0,1
+2372927,261564,Juventus,Arsenal,1.0,1.0
+2372928,261564,Sporting CP,B Dortmund,2.0,1.0
+2372929,261564,B Dortmund,Juventus,2.0,1.0
+2372930,261564,Arsenal,Man City,0.0,5.0
+2372931,261564,Man City,B Dortmund,1.0,3.0
+2372932,261564,Juventus,Sporting CP,0.0,1.0
 2372933,261564,Sporting CP,Man City,,
 2372934,261564,B Dortmund,Arsenal,,
 2372935,261564,Arsenal,Sporting CP,,
@@ -63329,3 +63329,23 @@ id,tournament_id,club1,club2,ht1,ht2
 2372944,261564,Arsenal,B Dortmund,,
 2372945,261564,Sporting CP,Arsenal,,
 2372946,261564,Juventus,Man City,,
+2372559,261521,Germany,Argentina,1,1
+2372560,261521,England,France,3,0
+2372561,261521,France,Germany,1,0
+2372562,261521,Argentina,Spain,0,2
+2372563,261521,Spain,France,2,0
+2372564,261521,Germany,England,1,3
+2372565,261521,England,Spain,1,2
+2372566,261521,France,Argentina,2,3
+2372567,261521,Argentina,England,3,0
+2372568,261521,Spain,Germany,2,3
+2372569,261521,Argentina,Germany,0,1
+2372570,261521,France,England,0,1
+2372571,261521,Germany,France,3,1
+2372572,261521,Spain,Argentina,1,1
+2372573,261521,France,Spain,,
+2372574,261521,England,Germany,,
+2372575,261521,Spain,England,,
+2372576,261521,Argentina,France,,
+2372577,261521,England,Argentina,,
+2372578,261521,Germany,Spain,,

@@ -1,6 +1,6 @@
 # 🧙 LoL · apuestas de valor
 
-Actualizado 10/11/2026 18:41 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 10/11/2026 19:13 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Ground Zero Gaming vs Frank Esports — 11/11 · 10:00
 
