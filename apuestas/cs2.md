@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 10/11/2026 22:22 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 10/11/2026 22:53 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Legacy vs FURIA — 11/11 · 03:00
 

@@ -63449,18 +63449,18 @@ id,tournament_id,club1,club2,ht1,ht2
 2373426,261548,Liverpool,Chelsea,,
 2373427,261548,Arsenal,Liverpool,,
 2373428,261548,Tottenham,Man City,,
-2372599,261526,Liverpool,Atleti,3,2
-2372600,261526,Paris,Bayern Munchen,0,1
-2372601,261526,Bayern Munchen,Liverpool,1,0
-2372602,261526,Atleti,Real Madrid,1,1
-2372603,261526,Real Madrid,Bayern Munchen,1,1
-2372604,261526,Liverpool,Paris,1,0
-2372605,261526,Paris,Real Madrid,2,2
-2372606,261526,Bayern Munchen,Atleti,2,1
-2372607,261526,Atleti,Paris,1,0
-2372608,261526,Real Madrid,Liverpool,1,0
-2372609,261526,Atleti,Liverpool,1,3
-2372610,261526,Bayern Munchen,Paris,3,1
+2372599,261526,Liverpool,Atleti,3.0,2.0
+2372600,261526,Paris,Bayern Munchen,0.0,1.0
+2372601,261526,Bayern Munchen,Liverpool,1.0,0.0
+2372602,261526,Atleti,Real Madrid,1.0,1.0
+2372603,261526,Real Madrid,Bayern Munchen,1.0,1.0
+2372604,261526,Liverpool,Paris,1.0,0.0
+2372605,261526,Paris,Real Madrid,2.0,2.0
+2372606,261526,Bayern Munchen,Atleti,2.0,1.0
+2372607,261526,Atleti,Paris,1.0,0.0
+2372608,261526,Real Madrid,Liverpool,1.0,0.0
+2372609,261526,Atleti,Liverpool,1.0,3.0
+2372610,261526,Bayern Munchen,Paris,3.0,1.0
 2372611,261526,Liverpool,Bayern Munchen,,
 2372612,261526,Real Madrid,Atleti,,
 2372613,261526,Bayern Munchen,Real Madrid,,
@@ -63469,23 +63469,83 @@ id,tournament_id,club1,club2,ht1,ht2
 2372616,261526,Atleti,Bayern Munchen,,
 2372617,261526,Paris,Atleti,,
 2372618,261526,Liverpool,Real Madrid,,
-2372429,261558,Ecuador,Argentina,1,2
-2372430,261558,Colombia,Brazil,2,3
-2372431,261558,Brazil,Ecuador,0,0
-2372432,261558,Argentina,Uruguay,1,3
-2372433,261558,Uruguay,Brazil,2,0
-2372434,261558,Ecuador,Colombia,0,3
-2372435,261558,Colombia,Uruguay,0,2
-2372436,261558,Brazil,Argentina,3,2
-2372437,261558,Argentina,Colombia,1,3
-2372438,261558,Uruguay,Ecuador,3,1
-2372947,261566,Juventus,Arsenal,1,4
-2372948,261566,Sporting CP,B Dortmund,1,2
-2372949,261566,B Dortmund,Juventus,3,2
-2372950,261566,Arsenal,Man City,1,5
-2372951,261566,Man City,B Dortmund,2,1
-2372952,261566,Juventus,Sporting CP,4,2
-2372953,261566,Sporting CP,Man City,1,3
-2372954,261566,B Dortmund,Arsenal,3,3
+2372429,261558,Ecuador,Argentina,1.0,2.0
+2372430,261558,Colombia,Brazil,2.0,3.0
+2372431,261558,Brazil,Ecuador,0.0,0.0
+2372432,261558,Argentina,Uruguay,1.0,3.0
+2372433,261558,Uruguay,Brazil,2.0,0.0
+2372434,261558,Ecuador,Colombia,0.0,3.0
+2372435,261558,Colombia,Uruguay,0.0,2.0
+2372436,261558,Brazil,Argentina,3.0,2.0
+2372437,261558,Argentina,Colombia,1.0,3.0
+2372438,261558,Uruguay,Ecuador,3.0,1.0
+2372947,261566,Juventus,Arsenal,1.0,4.0
+2372948,261566,Sporting CP,B Dortmund,1.0,2.0
+2372949,261566,B Dortmund,Juventus,3.0,2.0
+2372950,261566,Arsenal,Man City,1.0,5.0
+2372951,261566,Man City,B Dortmund,2.0,1.0
+2372952,261566,Juventus,Sporting CP,4.0,2.0
+2372953,261566,Sporting CP,Man City,1.0,3.0
+2372954,261566,B Dortmund,Arsenal,3.0,3.0
 2372955,261566,Arsenal,Sporting CP,,
 2372956,261566,Man City,Juventus,,
+2374248,261538,France,Spain,1,1
+2373290,261538,Argentina,England,1,0
+2373291,261538,England,France,0,2
+2375198,261538,Spain,Brazil,1,0
+2375199,261538,Brazil,England,0,1
+2373294,261538,France,Argentina,1,3
+2375200,261538,Argentina,Brazil,1,0
+2374250,261538,England,Spain,0,1
+2374251,261538,Spain,Argentina,0,2
+2375201,261538,Brazil,France,3,0
+2374252,261538,Spain,France,,
+2373300,261538,England,Argentina,,
+2373301,261538,France,England,,
+2375202,261538,Brazil,Spain,,
+2375203,261538,England,Brazil,,
+2373304,261538,Argentina,France,,
+2375204,261538,Brazil,Argentina,,
+2374254,261538,Spain,England,,
+2374255,261538,Argentina,Spain,,
+2375205,261538,France,Brazil,,
+2372219,261546,Braga,Benfica,2,1
+2372220,261546,Vitoria SC,Sporting CP,0,1
+2372221,261546,Sporting CP,Braga,2,0
+2372222,261546,Benfica,Porto,1,1
+2372223,261546,Porto,Sporting CP,2,0
+2372224,261546,Braga,Vitoria SC,1,1
+2372225,261546,Vitoria SC,Porto,0,0
+2372226,261546,Sporting CP,Benfica,,
+2372227,261546,Benfica,Vitoria SC,,
+2372228,261546,Porto,Braga,,
+2372229,261546,Benfica,Braga,,
+2372230,261546,Sporting CP,Vitoria SC,,
+2372231,261546,Braga,Sporting CP,,
+2372232,261546,Porto,Benfica,,
+2372233,261546,Sporting CP,Porto,,
+2372234,261546,Vitoria SC,Braga,,
+2372235,261546,Porto,Vitoria SC,,
+2372236,261546,Benfica,Sporting CP,,
+2372237,261546,Vitoria SC,Benfica,,
+2372238,261546,Braga,Porto,,
+2373137,261570,Barcelona,Athletic Club,1,3
+2374500,261570,Atleti,Villarreal,2,1
+2374501,261570,Villarreal,Barcelona,1,2
+2373100,261570,Athletic Club,Real Madrid,1,2
+2374502,261570,Real Madrid,Villarreal,1,0
+2373139,261570,Barcelona,Atleti,1,4
+2373103,261570,Atleti,Real Madrid,5,1
+2374503,261570,Villarreal,Athletic Club,2,1
+2373105,261570,Athletic Club,Atleti,0,3
+2373140,261570,Real Madrid,Barcelona,3,2
+2373141,261570,Athletic Club,Barcelona,0,4
+2374504,261570,Villarreal,Atleti,1,3
+2374505,261570,Barcelona,Villarreal,,
+2373110,261570,Real Madrid,Athletic Club,,
+2374506,261570,Villarreal,Real Madrid,,
+2373143,261570,Atleti,Barcelona,,
+2373113,261570,Real Madrid,Atleti,,
+2374507,261570,Athletic Club,Villarreal,,
+2373115,261570,Atleti,Athletic Club,,
+2373144,261570,Barcelona,Real Madrid,,
