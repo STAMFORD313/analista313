@@ -1,80 +1,61 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 11/11/2026 13:24 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 11/11/2026 13:56 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## A1ose vs v1nn — 11/11 · 13:25
+## Loka vs mPm — 11/11 · 14:06
 
-👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana A1ose** @ **2.95** (Unibet) · prob 41% vs casas 30% · ventaja +21%
+👀 candidata · 🎮⚽ FC 27 · CSL · **Gana Loka** @ **1.55** (Unibet) · prob 79% vs casas 57% · ventaja +23%
 
-- ✅ Valor: ventaja +21% (mín. 13% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+- ✅ Valor: ventaja +23% (mín. 14% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 64.145 partidos)  
-Goles esperados: A1ose 3.78 · v1nn 3.69  
-Ganador: A1ose 41% · empate 17% · v1nn 42%  
-Total: más de 7.5 goles 47% · menos 53%  
-Hándicap A1ose: −1.5 30% · −2.5 18%  
+📊 **Escenarios** (Poisson por jugador, 64.200 partidos)  
+Goles esperados: Loka 4.94 · mPm 2.70  
+Ganador: Loka 79% · empate 10% · mPm 10%  
+Total: más de 7.5 goles 50% · menos 50%  
+Hándicap Loka: −1.5 60% · −2.5 45%  
 🔎 **Claves**  
-• Forma: A1ose ✅✅❌➖✅ | v1nn ❌❌➖✅✅  
-• Partidos: A1ose 940 | v1nn 594  
-• Liga: Champions League B  
-• Unibet: 1 2.95 · X 4.90 · 2 1.68 (sin margen 30%/18%/52%) · ventaja +21%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.95 (+21%) · Paf España 2.95 (+21%)  
-
-## zoyir vs TikitakaMaster — 11/11 · 13:26
-
-👀 candidata · 🎮⚽ FC 27 · Champions League A 2x6 · **Gana zoyir** @ **2.85** (Unibet) · prob 38% vs casas 31% · ventaja +8%
-
-- ❌ Valor: ventaja +8% (mín. 10% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 64.174 partidos)  
-Goles esperados: zoyir 4.03 · TikitakaMaster 4.31  
-Ganador: zoyir 38% · empate 16% · TikitakaMaster 46%  
-Total: más de 8.5 goles 45% · menos 55%  
-Hándicap TikitakaMaster: −1.5 33% · −2.5 22%  
-🔎 **Claves**  
-• Forma: zoyir ✅❌➖❌✅ | TikitakaMaster ✅➖✅➖✅  
-• Partidos: zoyir 546 | TikitakaMaster 672  
-• Liga: Champions League A 2x6  
-• Unibet: 1 2.85 · X 5.20 · 2 1.68 (sin margen 31%/17%/52%) · ventaja +8%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.85 (+8%) · Paf España 2.85 (+8%)  
-
-## Loka vs crinner — 11/11 · 13:30
-
-👀 candidata · 🎮⚽ FC 27 · CSL · **Empate** @ **5.80** (Unibet) · prob 19% vs casas 15% · ventaja +9%
-
-- ❌ Valor: ventaja +9% (mín. 10% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 64.174 partidos)  
-Goles esperados: Loka 3.27 · crinner 2.98  
-Ganador: Loka 48% · empate 19% · crinner 33%  
-Total: más de 6.5 goles 43% · menos 57%  
-Hándicap Loka: −1.5 31% · −2.5 18%  
-🔎 **Claves**  
-• Forma: Loka ✅✅✅✅✅ | crinner ✅➖❌✅✅  
-• Partidos: Loka 1208 | crinner 1022  
+• Forma: Loka ✅✅✅✅✅ | mPm ➖✅❌❌✅  
+• Partidos: Loka 1209 | mPm 787  
 • Liga: CSL  
-• Unibet: 1 1.75 · X 5.80 · 2 2.55 (sin margen 50%/15%/35%) · ventaja +9%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 5.80 (+9%) · Paf España 5.80 (+9%)  
+• Unibet: 1 1.55 · X 5.75 · 2 3.15 (sin margen 57%/15%/28%) · ventaja +23%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 1.55 (+23%) · Paf España 1.55 (+23%)  
 
-## Taz vs Maxa — 11/11 · 13:34
+## spirtes vs Loka — 11/11 · 14:18
 
-👀 candidata · 🎮⚽ FC 27 · FA Cup · **Gana Maxa** @ **2.60** (Unibet) · prob 42% vs casas 33% · ventaja +8%
+👀 candidata · 🎮⚽ FC 27 · CSL · **Gana Loka** @ **1.40** (Unibet) · prob 85% vs casas 62% · ventaja +19%
 
-- ❌ Valor: ventaja +8% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Valor: ventaja +19% (mín. 13% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 64.200 partidos)  
+Goles esperados: spirtes 2.31 · Loka 5.32  
+Ganador: spirtes 7% · empate 8% · Loka 85%  
+Total: más de 7.5 goles 49% · menos 51%  
+Hándicap Loka: −1.5 70% · −2.5 56%  
+🔎 **Claves**  
+• Forma: spirtes ❌❌❌✅❌ | Loka ✅✅✅✅✅  
+• Partidos: spirtes 1106 | Loka 1209  
+• Liga: CSL  
+• Unibet: 1 3.90 · X 5.60 · 2 1.40 (sin margen 22%/16%/62%) · ventaja +19%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 1.40 (+19%) · Paf España 1.40 (+19%)  
+
+## v1nn vs A1ose — 11/11 · 14:25
+
+👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana A1ose** @ **3.00** (Unibet) · prob 40% vs casas 29% · ventaja +19%
+
+- ✅ Valor: ventaja +19% (mín. 13% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 64.174 partidos)  
-Goles esperados: Taz 3.32 · Maxa 3.30  
-Ganador: Taz 40% · empate 18% · Maxa 41%  
-Total: más de 6.5 goles 49% · menos 51%  
-Hándicap Taz: −1.5 28% · −2.5 16%  
+📊 **Escenarios** (Poisson por jugador, 64.200 partidos)  
+Goles esperados: v1nn 3.71 · A1ose 3.72  
+Ganador: v1nn 43% · empate 17% · A1ose 40%  
+Total: más de 7.5 goles 46% · menos 54%  
+Hándicap A1ose: −1.5 29% · −2.5 18%  
 🔎 **Claves**  
-• Forma: Taz ❌❌❌❌✅ | Maxa ✅❌✅❌✅  
-• Partidos: Taz 1013 | Maxa 1013  
-• Liga: FA Cup  
-• Unibet: 1 1.95 · X 3.95 · 2 2.60 (sin margen 45%/22%/33%) · ventaja +8%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.60 (+8%) · Paf España 2.60 (+8%)  
+• Forma: v1nn ✅✅✅➖✅ | A1ose ➖✅➖❌➖  
+• Partidos: v1nn 597 | A1ose 943  
+• Liga: Champions League B  
+• Unibet: 1 1.70 · X 4.60 · 2 3.00 (sin margen 52%/19%/29%) · ventaja +19%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 3.00 (+19%) · Paf España 3.00 (+19%)  
 
