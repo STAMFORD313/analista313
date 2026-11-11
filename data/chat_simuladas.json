@@ -2070,5 +2070,49 @@
   "estado": "perdida",
   "avisada": true,
   "rev": 2
+ },
+ {
+  "id": "20261111034409838399",
+  "creada": "2026-11-11 03:44:09.838428+00:00",
+  "titulo": "Barrido · Combinada cuota 7.6",
+  "legs": [
+   {
+    "src": "esports:cs2",
+    "side": "H",
+    "code": null,
+    "start": "2026-11-11 17:00:00+00:00",
+    "home": "TTG Esports",
+    "away": "NoTime",
+    "txt": "Gana TTG Esports",
+    "odds": 1.72,
+    "p": 0.5969968992248061
+   },
+   {
+    "code": null,
+    "start": "2026-11-11 19:30:00+00:00",
+    "home": "La Luz",
+    "away": "Fenix",
+    "txt": "Empate",
+    "odds": 2.55,
+    "p": 0.4042
+   },
+   {
+    "src": "espn:nfl",
+    "side": "H",
+    "code": null,
+    "start": "2026-11-13 01:15:00+00:00",
+    "home": "New York Giants",
+    "away": "Washington Commanders",
+    "txt": "Gana New York Giants",
+    "odds": 1.741,
+    "p": 0.61036
+   }
+  ],
+  "odds": 7.64,
+  "p": 0.14728361967946665,
+  "stake": 1.0,
+  "estado": "pendiente",
+  "avisada": false,
+  "rev": 1
  }
 ]
