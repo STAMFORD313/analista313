@@ -3417,635 +3417,654 @@ matchup,start,league,home,away,market,line,o_home,o_away,o_draw,o_over,o_under,s
 1639961843,2026-11-11 10:10:00+00:00,East Asia Super League,Busan KCC Egis,Taipei Fubon Braves,moneyline,,1.7299,2.03,,,,2026-11-11 09:49:31.299448+00:00
 1639961843,2026-11-11 10:10:00+00:00,East Asia Super League,Busan KCC Egis,Taipei Fubon Braves,spread,-2.0,1.8696,1.8696,,,,2026-11-11 09:49:31.299448+00:00
 1639961843,2026-11-11 10:10:00+00:00,East Asia Super League,Busan KCC Egis,Taipei Fubon Braves,total,186.5,,,,1.8403,1.9009,2026-11-11 09:49:31.299448+00:00
-1639982157,2026-11-11 23:00:00+00:00,NCAA,VMI,North Carolina Central,moneyline,,1.2571,4.04,,,,2026-11-11 13:50:57.326217+00:00
-1639982157,2026-11-11 23:00:00+00:00,NCAA,VMI,North Carolina Central,spread,-8.5,1.9615,1.8772,,,,2026-11-11 13:50:57.326217+00:00
-1639982157,2026-11-11 23:00:00+00:00,NCAA,VMI,North Carolina Central,total,150.5,,,,1.9091,1.8929,2026-11-11 13:50:57.326217+00:00
-1640031641,2026-11-12 16:00:00+00:00,Lithuania - National Basketball League,Vytis-VDU Sakiai,Kretingos Kretinga,moneyline,,1.1473,4.01,,,,2026-11-11 13:50:57.326217+00:00
-1640031641,2026-11-12 16:00:00+00:00,Lithuania - National Basketball League,Vytis-VDU Sakiai,Kretingos Kretinga,spread,-9.5,1.8621,1.8065,,,,2026-11-11 13:50:57.326217+00:00
-1640031641,2026-11-12 16:00:00+00:00,Lithuania - National Basketball League,Vytis-VDU Sakiai,Kretingos Kretinga,total,179.0,,,,1.7937,1.8696,2026-11-11 13:50:57.326217+00:00
-1640031638,2026-11-12 16:00:00+00:00,Lithuania - National Basketball League,BC Telsiai,Alytaus Patriotai,moneyline,,1.102,4.64,,,,2026-11-11 13:50:57.326217+00:00
-1640031638,2026-11-12 16:00:00+00:00,Lithuania - National Basketball League,BC Telsiai,Alytaus Patriotai,spread,-11.0,1.7634,1.9091,,,,2026-11-11 13:50:57.326217+00:00
-1640031638,2026-11-12 16:00:00+00:00,Lithuania - National Basketball League,BC Telsiai,Alytaus Patriotai,total,166.0,,,,1.8403,1.8264,2026-11-11 13:50:57.326217+00:00
-1639964889,2026-11-11 16:00:00+00:00,FIBA - Europe Cup,BC Batumi,TBB Trier,spread,27.0,1.9174,1.9009,,,,2026-11-11 13:50:57.326217+00:00
-1639964889,2026-11-11 16:00:00+00:00,FIBA - Europe Cup,BC Batumi,TBB Trier,total,172.0,,,,1.9524,1.8621,2026-11-11 13:50:57.326217+00:00
-1640013957,2026-11-12 15:00:00+00:00,FIBA - Europe Cup,Gence,Esenler Erokspor,moneyline,,8.87,1.0552,,,,2026-11-11 13:50:57.326217+00:00
-1640013957,2026-11-12 15:00:00+00:00,FIBA - Europe Cup,Gence,Esenler Erokspor,spread,15.5,1.9615,1.8547,,,,2026-11-11 13:50:57.326217+00:00
-1640013957,2026-11-12 15:00:00+00:00,FIBA - Europe Cup,Gence,Esenler Erokspor,total,166.0,,,,1.885,1.9259,2026-11-11 13:50:57.326217+00:00
-1639986814,2026-11-12 19:05:00+00:00,Europe - Euroleague,Maccabi Tel-Aviv,Hapoel Tel-Aviv,moneyline,,2.79,1.4405,,,,2026-11-11 13:50:57.326217+00:00
-1639986814,2026-11-12 19:05:00+00:00,Europe - Euroleague,Maccabi Tel-Aviv,Hapoel Tel-Aviv,spread,5.0,1.8929,1.9091,,,,2026-11-11 13:50:57.326217+00:00
-1639986814,2026-11-12 19:05:00+00:00,Europe - Euroleague,Maccabi Tel-Aviv,Hapoel Tel-Aviv,total,181.5,,,,1.9009,1.9009,2026-11-11 13:50:57.326217+00:00
-1640270595,2026-11-11 20:00:00+00:00,Italy - Serie A2,Elachem Vigevano 1955,Tecnoswitch Ruvo di Puglia,moneyline,,1.4329,2.81,,,,2026-11-11 13:50:57.326217+00:00
-1640270595,2026-11-11 20:00:00+00:00,Italy - Serie A2,Elachem Vigevano 1955,Tecnoswitch Ruvo di Puglia,spread,-5.0,1.9091,1.9091,,,,2026-11-11 13:50:57.326217+00:00
-1640270595,2026-11-11 20:00:00+00:00,Italy - Serie A2,Elachem Vigevano 1955,Tecnoswitch Ruvo di Puglia,total,159.0,,,,1.885,1.9346,2026-11-11 13:50:57.326217+00:00
-1639989915,2026-11-12 10:05:00+00:00,Japan - B.League Premier,Toyama Grouses,Osaka Evessa,moneyline,,1.1546,4.76,,,,2026-11-11 13:50:57.326217+00:00
-1639989915,2026-11-12 10:05:00+00:00,Japan - B.League Premier,Toyama Grouses,Osaka Evessa,spread,-10.0,1.9091,1.8772,,,,2026-11-11 13:50:57.326217+00:00
-1639989915,2026-11-12 10:05:00+00:00,Japan - B.League Premier,Toyama Grouses,Osaka Evessa,total,169.0,,,,1.9346,1.8547,2026-11-11 13:50:57.326217+00:00
-1640307560,2026-11-11 17:00:00+00:00,NCAA,Florida A&M,UMKC,moneyline,,3.98,1.2625,,,,2026-11-11 13:50:57.326217+00:00
-1640307560,2026-11-11 17:00:00+00:00,NCAA,Florida A&M,UMKC,spread,8.5,1.9091,1.9259,,,,2026-11-11 13:50:57.326217+00:00
-1640307560,2026-11-11 17:00:00+00:00,NCAA,Florida A&M,UMKC,total,146.5,,,,1.8929,1.9091,2026-11-11 13:50:57.326217+00:00
-1640181719,2026-11-11 19:30:00+00:00,Italy - Serie B,UCC Assigeco Piacenza,Fulgor Omegna Basket,moneyline,,1.2525,3.19,,,,2026-11-11 13:50:57.326217+00:00
-1640181719,2026-11-11 19:30:00+00:00,Italy - Serie B,UCC Assigeco Piacenza,Fulgor Omegna Basket,spread,-6.5,1.8,1.8696,,,,2026-11-11 13:50:57.326217+00:00
-1640181719,2026-11-11 19:30:00+00:00,Italy - Serie B,UCC Assigeco Piacenza,Fulgor Omegna Basket,total,150.0,,,,1.8197,1.8475,2026-11-11 13:50:57.326217+00:00
-1640013980,2026-11-12 16:30:00+00:00,Finland - Division 1,Lappeenrannan NMKY,Pyrinto Akatemia A,moneyline,,1.6098,2.12,,,,2026-11-11 13:50:57.326217+00:00
-1640013980,2026-11-12 16:30:00+00:00,Finland - Division 1,Lappeenrannan NMKY,Pyrinto Akatemia A,spread,-2.5,1.8264,1.8403,,,,2026-11-11 13:50:57.326217+00:00
-1640013980,2026-11-12 16:30:00+00:00,Finland - Division 1,Lappeenrannan NMKY,Pyrinto Akatemia A,total,155.0,,,,1.8333,1.8333,2026-11-11 13:50:57.326217+00:00
-1639999784,2026-11-12 10:05:00+00:00,Japan - B.League Premier,Altiri Chiba,Yokohama B-Corsairs,moneyline,,1.5714,2.36,,,,2026-11-11 13:50:57.326217+00:00
-1639999784,2026-11-12 10:05:00+00:00,Japan - B.League Premier,Altiri Chiba,Yokohama B-Corsairs,spread,-3.0,1.8197,1.9709,,,,2026-11-11 13:50:57.326217+00:00
-1639999784,2026-11-12 10:05:00+00:00,Japan - B.League Premier,Altiri Chiba,Yokohama B-Corsairs,total,159.5,,,,1.8475,1.9346,2026-11-11 13:50:57.326217+00:00
-1639984898,2026-11-12 00:00:00+00:00,NCAA,Indiana State,Wisc Milwaukee,moneyline,,1.5376,2.58,,,,2026-11-11 13:50:57.326217+00:00
-1639984898,2026-11-12 00:00:00+00:00,NCAA,Indiana State,Wisc Milwaukee,spread,-4.0,1.9009,1.9524,,,,2026-11-11 13:50:57.326217+00:00
-1639984898,2026-11-12 00:00:00+00:00,NCAA,Indiana State,Wisc Milwaukee,total,152.0,,,,1.8475,1.9709,2026-11-11 13:50:57.326217+00:00
-1639989885,2026-11-11 18:00:00+00:00,FIBA - Europe Cup,BC Vienna,Sluc Nancy Basket,moneyline,,2.6,1.4975,,,,2026-11-11 13:50:57.326217+00:00
-1639989885,2026-11-11 18:00:00+00:00,FIBA - Europe Cup,BC Vienna,Sluc Nancy Basket,spread,5.5,1.8197,2.0,,,,2026-11-11 13:50:57.326217+00:00
-1639989885,2026-11-11 18:00:00+00:00,FIBA - Europe Cup,BC Vienna,Sluc Nancy Basket,total,160.5,,,,1.9091,1.9091,2026-11-11 13:50:57.326217+00:00
-1640162137,2026-11-12 02:00:00+00:00,NCAA,Nebraska,Lindenwood,spread,-34.5,1.9346,1.9174,,,,2026-11-11 13:50:57.326217+00:00
-1640162137,2026-11-12 02:00:00+00:00,NCAA,Nebraska,Lindenwood,total,151.0,,,,1.9434,1.8772,2026-11-11 13:50:57.326217+00:00
-1640142316,2026-11-13 19:30:00+00:00,ABA - Adriatic League,KK Krka Novo Mesto,KK Siroki,moneyline,,1.8065,2.02,,,,2026-11-11 13:50:57.326217+00:00
-1640142316,2026-11-13 19:30:00+00:00,ABA - Adriatic League,KK Krka Novo Mesto,KK Siroki,spread,-1.0,1.8403,1.9804,,,,2026-11-11 13:50:57.326217+00:00
-1640142316,2026-11-13 19:30:00+00:00,ABA - Adriatic League,KK Krka Novo Mesto,KK Siroki,total,160.5,,,,1.8929,1.9259,2026-11-11 13:50:57.326217+00:00
-1639975166,2026-11-11 18:30:00+00:00,Europe - Eurocup,Derthona Basket,Hapoel Jerusalem,moneyline,,2.95,1.3968,,,,2026-11-11 13:50:57.326217+00:00
-1639975166,2026-11-11 18:30:00+00:00,Europe - Eurocup,Derthona Basket,Hapoel Jerusalem,spread,5.5,1.8929,1.9259,,,,2026-11-11 13:50:57.326217+00:00
-1639975166,2026-11-11 18:30:00+00:00,Europe - Eurocup,Derthona Basket,Hapoel Jerusalem,total,166.5,,,,1.9259,1.8929,2026-11-11 13:50:57.326217+00:00
-1639979728,2026-11-11 17:00:00+00:00,Hungary - Nemzeti Bajnoksag I.A,NKA Universitas Pecs,Phoenix MT Fot,moneyline,,1.6289,2.19,,,,2026-11-11 13:50:57.326217+00:00
-1639979728,2026-11-11 17:00:00+00:00,Hungary - Nemzeti Bajnoksag I.A,NKA Universitas Pecs,Phoenix MT Fot,spread,-3.0,1.885,1.8547,,,,2026-11-11 13:50:57.326217+00:00
-1639979728,2026-11-11 17:00:00+00:00,Hungary - Nemzeti Bajnoksag I.A,NKA Universitas Pecs,Phoenix MT Fot,total,164.5,,,,1.885,1.8547,2026-11-11 13:50:57.326217+00:00
-1639984869,2026-11-11 22:30:00+00:00,NCAA,Navy,Pennsylvania,moneyline,,3.48,1.3236,,,,2026-11-11 13:50:57.326217+00:00
-1639984869,2026-11-11 22:30:00+00:00,NCAA,Navy,Pennsylvania,spread,7.0,1.9524,1.885,,,,2026-11-11 13:50:57.326217+00:00
-1639984869,2026-11-11 22:30:00+00:00,NCAA,Navy,Pennsylvania,total,146.5,,,,1.8929,1.9091,2026-11-11 13:50:57.326217+00:00
-1640031513,2026-11-12 15:00:00+00:00,Qatar - Basketball League,Al Sadd,AL Shamal,moneyline,,1.216,3.41,,,,2026-11-11 13:50:57.326217+00:00
-1640031513,2026-11-12 15:00:00+00:00,Qatar - Basketball League,Al Sadd,AL Shamal,spread,-8.5,1.8475,1.8197,,,,2026-11-11 13:50:57.326217+00:00
-1640031513,2026-11-12 15:00:00+00:00,Qatar - Basketball League,Al Sadd,AL Shamal,total,164.0,,,,1.8475,1.8197,2026-11-11 13:50:57.326217+00:00
-1639982149,2026-11-11 22:00:00+00:00,NCAA,San Diego State,Bethune Cookman,spread,-18.5,1.9174,1.9174,,,,2026-11-11 13:50:57.326217+00:00
-1639982149,2026-11-11 22:00:00+00:00,NCAA,San Diego State,Bethune Cookman,total,152.0,,,,1.9009,1.9009,2026-11-11 13:50:57.326217+00:00
-1640045159,2026-11-12 18:30:00+00:00,Lebanon - Lebanese Basketball League,Beirut SC,Chabeb Batroun,moneyline,,1.1613,3.87,,,,2026-11-11 13:50:57.326217+00:00
-1640045159,2026-11-12 18:30:00+00:00,Lebanon - Lebanese Basketball League,Beirut SC,Chabeb Batroun,spread,-9.0,1.7692,1.9009,,,,2026-11-11 13:50:57.326217+00:00
-1640045159,2026-11-12 18:30:00+00:00,Lebanon - Lebanese Basketball League,Beirut SC,Chabeb Batroun,total,163.5,,,,1.8547,1.813,2026-11-11 13:50:57.326217+00:00
-1640324283,2026-11-12 02:00:00+00:00,NCAA,UC Santa Barbara,Nevada,moneyline,,1.9804,1.8547,,,,2026-11-11 13:50:57.326217+00:00
-1640324283,2026-11-12 02:00:00+00:00,NCAA,UC Santa Barbara,Nevada,spread,1.0,1.9346,1.9009,,,,2026-11-11 13:50:57.326217+00:00
-1640324283,2026-11-12 02:00:00+00:00,NCAA,UC Santa Barbara,Nevada,total,144.5,,,,1.8475,1.9615,2026-11-11 13:50:57.326217+00:00
-1639971981,2026-11-11 17:30:00+00:00,FIBA - Europe Cup,Iraklis 2022,KK MZT Skopje Aerodrom,moneyline,,1.0289,12.27,,,,2026-11-11 13:50:57.326217+00:00
-1639971981,2026-11-11 17:30:00+00:00,FIBA - Europe Cup,Iraklis 2022,KK MZT Skopje Aerodrom,spread,-20.0,1.8696,1.9524,,,,2026-11-11 13:50:57.326217+00:00
-1639971981,2026-11-11 17:30:00+00:00,FIBA - Europe Cup,Iraklis 2022,KK MZT Skopje Aerodrom,total,159.5,,,,1.9009,1.9174,2026-11-11 13:50:57.326217+00:00
-1640326050,2026-11-12 07:00:00+00:00,Philippines - NCAA,Mapua Cardinals,LPU Pirates,moneyline,,1.2242,3.12,,,,2026-11-11 13:50:57.326217+00:00
-1640326050,2026-11-12 07:00:00+00:00,Philippines - NCAA,Mapua Cardinals,LPU Pirates,spread,-6.5,1.813,1.7874,,,,2026-11-11 13:50:57.326217+00:00
-1640326050,2026-11-12 07:00:00+00:00,Philippines - NCAA,Mapua Cardinals,LPU Pirates,total,149.0,,,,1.7874,1.813,2026-11-11 13:50:57.326217+00:00
-1639971943,2026-11-11 16:30:00+00:00,FIBA - Europe Cup,Korfez Basket,BC Kalev/Cramo,moneyline,,1.0604,8.45,,,,2026-11-11 13:50:57.326217+00:00
-1639971943,2026-11-11 16:30:00+00:00,FIBA - Europe Cup,Korfez Basket,BC Kalev/Cramo,spread,-15.5,1.8929,1.9259,,,,2026-11-11 13:50:57.326217+00:00
-1639971943,2026-11-11 16:30:00+00:00,FIBA - Europe Cup,Korfez Basket,BC Kalev/Cramo,total,165.0,,,,1.8696,1.9434,2026-11-11 13:50:57.326217+00:00
-1640044250,2026-11-12 12:40:00+00:00,Hong Kong BL,Jinlong WTS,Wellman Fukien,moneyline,,1.5208,2.28,,,,2026-11-11 13:50:57.326217+00:00
-1640044250,2026-11-12 12:40:00+00:00,Hong Kong BL,Jinlong WTS,Wellman Fukien,spread,-3.5,1.8547,1.813,,,,2026-11-11 13:50:57.326217+00:00
-1640044250,2026-11-12 12:40:00+00:00,Hong Kong BL,Jinlong WTS,Wellman Fukien,total,154.0,,,,1.8621,1.8065,2026-11-11 13:50:57.326217+00:00
-1639971917,2026-11-11 16:00:00+00:00,FIBA - Europe Cup,Neftchi IK Baku,AO Mykonos,moneyline,,5.05,1.1543,,,,2026-11-11 13:50:57.326217+00:00
-1639971917,2026-11-11 16:00:00+00:00,FIBA - Europe Cup,Neftchi IK Baku,AO Mykonos,spread,10.5,1.9009,1.9174,,,,2026-11-11 13:50:57.326217+00:00
-1639971917,2026-11-11 16:00:00+00:00,FIBA - Europe Cup,Neftchi IK Baku,AO Mykonos,total,162.0,,,,1.9009,1.9174,2026-11-11 13:50:57.326217+00:00
-1640085542,2026-11-13 17:30:00+00:00,ABA - Adriatic League,KK Cibona,KK FMP Beograd,moneyline,,1.7143,2.15,,,,2026-11-11 13:50:57.326217+00:00
-1640085542,2026-11-13 17:30:00+00:00,ABA - Adriatic League,KK Cibona,KK FMP Beograd,spread,-2.5,1.9259,1.8929,,,,2026-11-11 13:50:57.326217+00:00
-1640085542,2026-11-13 17:30:00+00:00,ABA - Adriatic League,KK Cibona,KK FMP Beograd,total,169.5,,,,1.9434,1.8772,2026-11-11 13:50:57.326217+00:00
-1639986815,2026-11-12 01:10:00+00:00,NBA,New Orleans Pelicans,Brooklyn Nets,moneyline,,1.5495,2.63,,,,2026-11-11 13:50:57.326217+00:00
-1639986815,2026-11-12 01:10:00+00:00,NBA,New Orleans Pelicans,Brooklyn Nets,spread,-4.5,1.9259,1.9804,,,,2026-11-11 13:50:57.326217+00:00
-1639986815,2026-11-12 01:10:00+00:00,NBA,New Orleans Pelicans,Brooklyn Nets,total,229.0,,,,1.9709,1.9174,2026-11-11 13:50:57.326217+00:00
-1639904706,2026-11-11 19:45:00+00:00,Europe - Euroleague,Paris,Fenerbahce,moneyline,,3.02,1.4132,,,,2026-11-11 13:50:57.326217+00:00
-1639904706,2026-11-11 19:45:00+00:00,Europe - Euroleague,Paris,Fenerbahce,spread,5.5,1.8929,1.9615,,,,2026-11-11 13:50:57.326217+00:00
-1639904706,2026-11-11 19:45:00+00:00,Europe - Euroleague,Paris,Fenerbahce,total,174.5,,,,1.9174,1.9346,2026-11-11 13:50:57.326217+00:00
-1640295269,2026-11-12 01:15:00+00:00,El Salvador - Liga Mayor de Baloncesto,Cojute,Aguila San Miguel,moneyline,,1.2174,3.16,,,,2026-11-11 13:50:57.326217+00:00
-1640295269,2026-11-12 01:15:00+00:00,El Salvador - Liga Mayor de Baloncesto,Cojute,Aguila San Miguel,spread,-7.5,1.7634,1.8333,,,,2026-11-11 13:50:57.326217+00:00
-1640295269,2026-11-12 01:15:00+00:00,El Salvador - Liga Mayor de Baloncesto,Cojute,Aguila San Miguel,total,149.5,,,,1.7874,1.813,2026-11-11 13:50:57.326217+00:00
-1639999796,2026-11-12 10:35:00+00:00,Japan - B.League Premier,Ryukyu Golden Kings,Sunrockers Shibuya,moneyline,,3.14,1.3344,,,,2026-11-11 13:50:57.326217+00:00
-1639999796,2026-11-12 10:35:00+00:00,Japan - B.League Premier,Ryukyu Golden Kings,Sunrockers Shibuya,spread,7.5,1.7937,2.0,,,,2026-11-11 13:50:57.326217+00:00
-1639999796,2026-11-12 10:35:00+00:00,Japan - B.League Premier,Ryukyu Golden Kings,Sunrockers Shibuya,total,168.0,,,,1.8621,1.9259,2026-11-11 13:50:57.326217+00:00
-1640273382,2026-11-11 19:00:00+00:00,Italy - Serie B,Reggio Calabria,Legnano Knights,moneyline,,1.6173,2.11,,,,2026-11-11 13:50:57.326217+00:00
-1640273382,2026-11-11 19:00:00+00:00,Italy - Serie B,Reggio Calabria,Legnano Knights,spread,-2.5,1.8621,1.8065,,,,2026-11-11 13:50:57.326217+00:00
-1640273382,2026-11-11 19:00:00+00:00,Italy - Serie B,Reggio Calabria,Legnano Knights,total,138.5,,,,1.8197,1.8475,2026-11-11 13:50:57.326217+00:00
-1640001153,2026-11-12 08:30:00+00:00,Australia - NBL,Adelaide 36ers,Melbourne United,moneyline,,2.25,1.6369,,,,2026-11-11 13:50:57.326217+00:00
-1640001153,2026-11-12 08:30:00+00:00,Australia - NBL,Adelaide 36ers,Melbourne United,spread,3.5,1.8621,1.9259,,,,2026-11-11 13:50:57.326217+00:00
-1640001153,2026-11-12 08:30:00+00:00,Australia - NBL,Adelaide 36ers,Melbourne United,total,188.5,,,,1.9091,1.8772,2026-11-11 13:50:57.326217+00:00
-1639979724,2026-11-11 17:00:00+00:00,Czech Republic - NBL,BK Decin,BK Pardubice,moneyline,,3.73,1.2165,,,,2026-11-11 13:50:57.326217+00:00
-1639979724,2026-11-11 17:00:00+00:00,Czech Republic - NBL,BK Decin,BK Pardubice,spread,8.0,1.9091,1.8333,,,,2026-11-11 13:50:57.326217+00:00
-1639979724,2026-11-11 17:00:00+00:00,Czech Republic - NBL,BK Decin,BK Pardubice,total,167.0,,,,1.8475,1.8929,2026-11-11 13:50:57.326217+00:00
-1640162330,2026-11-13 05:00:00+00:00,Mexico - Liga Nacional de Baloncesto Profesional,Soles de Mexicali,Astros de Jalisco,moneyline,,1.5155,2.29,,,,2026-11-11 13:50:57.326217+00:00
-1640162330,2026-11-13 05:00:00+00:00,Mexico - Liga Nacional de Baloncesto Profesional,Soles de Mexicali,Astros de Jalisco,spread,-4.0,1.9009,1.7752,,,,2026-11-11 13:50:57.326217+00:00
-1640162330,2026-11-13 05:00:00+00:00,Mexico - Liga Nacional de Baloncesto Profesional,Soles de Mexicali,Astros de Jalisco,total,162.0,,,,1.8197,1.8475,2026-11-11 13:50:57.326217+00:00
-1639979723,2026-11-11 17:00:00+00:00,FIBA - Europe Cup,Nitra Blue Wings,King Wilki Morskie Szczecin,moneyline,,4.49,1.1898,,,,2026-11-11 13:50:57.326217+00:00
-1639979723,2026-11-11 17:00:00+00:00,FIBA - Europe Cup,Nitra Blue Wings,King Wilki Morskie Szczecin,spread,9.5,1.9259,1.8929,,,,2026-11-11 13:50:57.326217+00:00
-1639979723,2026-11-11 17:00:00+00:00,FIBA - Europe Cup,Nitra Blue Wings,King Wilki Morskie Szczecin,total,167.5,,,,1.9346,1.885,2026-11-11 13:50:57.326217+00:00
-1639964907,2026-11-11 16:30:00+00:00,Finland - Suomen Cup,Bisons Loimaa,KTP Basket Kotka,moneyline,,2.74,1.3534,,,,2026-11-11 13:50:57.326217+00:00
-1639964907,2026-11-11 16:30:00+00:00,Finland - Suomen Cup,Bisons Loimaa,KTP Basket Kotka,spread,7.0,1.8696,1.8,,,,2026-11-11 13:50:57.326217+00:00
-1639964907,2026-11-11 16:30:00+00:00,Finland - Suomen Cup,Bisons Loimaa,KTP Basket Kotka,total,169.5,,,,1.813,1.8547,2026-11-11 13:50:57.326217+00:00
-1639979790,2026-11-11 19:30:00+00:00,France - Nationale 1,Laval,Pays de Fougeres,moneyline,,1.9009,1.7692,,,,2026-11-11 13:50:57.326217+00:00
-1639979790,2026-11-11 19:30:00+00:00,France - Nationale 1,Laval,Pays de Fougeres,spread,1.5,1.8197,1.8475,,,,2026-11-11 13:50:57.326217+00:00
-1639979790,2026-11-11 19:30:00+00:00,France - Nationale 1,Laval,Pays de Fougeres,total,152.5,,,,1.9091,1.7634,2026-11-11 13:50:57.326217+00:00
-1640044262,2026-11-12 18:00:00+00:00,Denmark - Basketligaen,BMS Herlev,Svendborg Rabbits,spread,27.5,1.8772,1.8621,,,,2026-11-11 13:50:57.326217+00:00
-1640044262,2026-11-12 18:00:00+00:00,Denmark - Basketligaen,BMS Herlev,Svendborg Rabbits,total,169.0,,,,1.9524,1.7874,2026-11-11 13:50:57.326217+00:00
-1639971969,2026-11-11 17:00:00+00:00,Europe - Champions League,SK Slavia Prague ERA NBK,Igokea,moneyline,,1.4651,2.77,,,,2026-11-11 13:50:57.326217+00:00
-1639971969,2026-11-11 17:00:00+00:00,Europe - Champions League,SK Slavia Prague ERA NBK,Igokea,spread,-5.5,1.9434,1.8929,,,,2026-11-11 13:50:57.326217+00:00
-1639971969,2026-11-11 17:00:00+00:00,Europe - Champions League,SK Slavia Prague ERA NBK,Igokea,total,168.5,,,,1.9524,1.8772,2026-11-11 13:50:57.326217+00:00
-1640044270,2026-11-12 19:15:00+00:00,Iceland - Premier League,Stjarnan,Keflavik,moneyline,,1.4739,2.38,,,,2026-11-11 13:50:57.326217+00:00
-1640044270,2026-11-12 19:15:00+00:00,Iceland - Premier League,Stjarnan,Keflavik,spread,-4.0,1.8547,1.8065,,,,2026-11-11 13:50:57.326217+00:00
-1640044270,2026-11-12 19:15:00+00:00,Iceland - Premier League,Stjarnan,Keflavik,total,199.5,,,,1.8403,1.8264,2026-11-11 13:50:57.326217+00:00
-1639982162,2026-11-11 23:30:00+00:00,Argentina - Liga Nacional,CA Lanus,La Union Formosa,moneyline,,1.8197,2.0,,,,2026-11-11 13:50:57.326217+00:00
-1639982162,2026-11-11 23:30:00+00:00,Argentina - Liga Nacional,CA Lanus,La Union Formosa,spread,-1.5,1.9009,1.9174,,,,2026-11-11 13:50:57.326217+00:00
-1639982162,2026-11-11 23:30:00+00:00,Argentina - Liga Nacional,CA Lanus,La Union Formosa,total,157.5,,,,1.8475,1.9804,2026-11-11 13:50:57.326217+00:00
-1640291798,2026-11-12 23:45:00+00:00,Uruguay - Tercera de Ascenso,CA 25 de Agosto,Bohemios,moneyline,,1.2262,3.35,,,,2026-11-11 13:50:57.326217+00:00
-1640291798,2026-11-12 23:45:00+00:00,Uruguay - Tercera de Ascenso,CA 25 de Agosto,Bohemios,spread,-7.5,1.8333,1.8333,,,,2026-11-11 13:50:57.326217+00:00
-1640291798,2026-11-12 23:45:00+00:00,Uruguay - Tercera de Ascenso,CA 25 de Agosto,Bohemios,total,156.5,,,,1.8403,1.8264,2026-11-11 13:50:57.326217+00:00
-1639986812,2026-11-12 20:00:00+00:00,Europe - Euroleague,Real Madrid,Crvena Zvezda,moneyline,,1.3215,3.38,,,,2026-11-11 13:50:57.326217+00:00
-1639986812,2026-11-12 20:00:00+00:00,Europe - Euroleague,Real Madrid,Crvena Zvezda,spread,-7.0,1.9009,1.9009,,,,2026-11-11 13:50:57.326217+00:00
-1639986812,2026-11-12 20:00:00+00:00,Europe - Euroleague,Real Madrid,Crvena Zvezda,total,175.0,,,,1.9009,1.9009,2026-11-11 13:50:57.326217+00:00
-1639986817,2026-11-12 03:10:00+00:00,NBA,Portland Trail Blazers,Oklahoma City Thunder,moneyline,,2.05,1.8621,,,,2026-11-11 13:50:57.326217+00:00
-1639986817,2026-11-12 03:10:00+00:00,NBA,Portland Trail Blazers,Oklahoma City Thunder,spread,1.5,1.9524,1.9524,,,,2026-11-11 13:50:57.326217+00:00
-1639986817,2026-11-12 03:10:00+00:00,NBA,Portland Trail Blazers,Oklahoma City Thunder,total,224.5,,,,1.9009,1.9901,2026-11-11 13:50:57.326217+00:00
-1639984897,2026-11-12 00:00:00+00:00,NCAA,Massachusetts,UMass Lowell,moneyline,,1.1439,5.92,,,,2026-11-11 13:50:57.326217+00:00
-1639984897,2026-11-12 00:00:00+00:00,NCAA,Massachusetts,UMass Lowell,spread,-11.0,1.9174,1.9174,,,,2026-11-11 13:50:57.326217+00:00
-1639984897,2026-11-12 00:00:00+00:00,NCAA,Massachusetts,UMass Lowell,total,147.5,,,,1.8772,1.9259,2026-11-11 13:50:57.326217+00:00
-1639971948,2026-11-11 16:30:00+00:00,Europe - Eurocup,BC Siauliai,La Laguna Tenerife,moneyline,,4.05,1.2268,,,,2026-11-11 13:50:57.326217+00:00
-1639971948,2026-11-11 16:30:00+00:00,Europe - Eurocup,BC Siauliai,La Laguna Tenerife,spread,9.0,1.8772,1.9434,,,,2026-11-11 13:50:57.326217+00:00
-1639971948,2026-11-11 16:30:00+00:00,Europe - Eurocup,BC Siauliai,La Laguna Tenerife,total,167.0,,,,1.9259,1.8929,2026-11-11 13:50:57.326217+00:00
-1639982135,2026-11-11 20:00:00+00:00,FIBA - Europe Cup,SL Benfica,Bakken Bears,moneyline,,1.3356,3.24,,,,2026-11-11 13:50:57.326217+00:00
-1639982135,2026-11-11 20:00:00+00:00,FIBA - Europe Cup,SL Benfica,Bakken Bears,spread,-6.0,1.8696,1.9434,,,,2026-11-11 13:50:57.326217+00:00
-1639982135,2026-11-11 20:00:00+00:00,FIBA - Europe Cup,SL Benfica,Bakken Bears,total,172.0,,,,1.9091,1.9091,2026-11-11 13:50:57.326217+00:00
-1639971982,2026-11-11 17:30:00+00:00,Europe - Champions League,Rytas Vilnius,Nanterre,moneyline,,1.4505,2.83,,,,2026-11-11 13:50:57.326217+00:00
-1639971982,2026-11-11 17:30:00+00:00,Europe - Champions League,Rytas Vilnius,Nanterre,spread,-5.0,1.9009,1.9346,,,,2026-11-11 13:50:57.326217+00:00
-1639971982,2026-11-11 17:30:00+00:00,Europe - Champions League,Rytas Vilnius,Nanterre,total,170.0,,,,1.9091,1.9259,2026-11-11 13:50:57.326217+00:00
-1639979725,2026-11-11 17:00:00+00:00,FIBA - Europe Cup,BC Lokomotiv Plovdiv,VEF Riga,moneyline,,2.11,1.7407,,,,2026-11-11 13:50:57.326217+00:00
-1639979725,2026-11-11 17:00:00+00:00,FIBA - Europe Cup,BC Lokomotiv Plovdiv,VEF Riga,spread,2.0,1.9346,1.885,,,,2026-11-11 13:50:57.326217+00:00
-1639979725,2026-11-11 17:00:00+00:00,FIBA - Europe Cup,BC Lokomotiv Plovdiv,VEF Riga,total,171.5,,,,1.8621,1.9615,2026-11-11 13:50:57.326217+00:00
-1639979781,2026-11-11 19:00:00+00:00,Europe - Eurocup,Le Mans Sarthe Basket,CB San Pablo Burgos,moneyline,,1.2155,4.17,,,,2026-11-11 13:50:57.326217+00:00
-1639979781,2026-11-11 19:00:00+00:00,Europe - Eurocup,Le Mans Sarthe Basket,CB San Pablo Burgos,spread,-9.5,1.9804,1.8403,,,,2026-11-11 13:50:57.326217+00:00
-1639979781,2026-11-11 19:00:00+00:00,Europe - Eurocup,Le Mans Sarthe Basket,CB San Pablo Burgos,total,168.0,,,,1.9091,1.9091,2026-11-11 13:50:57.326217+00:00
-1639971944,2026-11-11 16:30:00+00:00,Finland - Suomen Cup,Salon Vilpas Vikings,Korihait Uusikaupunki,moneyline,,1.0604,5.58,,,,2026-11-11 13:50:57.326217+00:00
-1639971944,2026-11-11 16:30:00+00:00,Finland - Suomen Cup,Salon Vilpas Vikings,Korihait Uusikaupunki,spread,-12.0,1.8197,1.8475,,,,2026-11-11 13:50:57.326217+00:00
-1639971944,2026-11-11 16:30:00+00:00,Finland - Suomen Cup,Salon Vilpas Vikings,Korihait Uusikaupunki,total,170.5,,,,1.9174,1.7576,2026-11-11 13:50:57.326217+00:00
-1640271054,2026-11-11 19:30:00+00:00,Italy - Serie A2,Dinamo Basket Sassari,VL Pesaro,moneyline,,1.4292,2.82,,,,2026-11-11 13:50:57.326217+00:00
-1640271054,2026-11-11 19:30:00+00:00,Italy - Serie A2,Dinamo Basket Sassari,VL Pesaro,spread,-5.0,1.9091,1.9091,,,,2026-11-11 13:50:57.326217+00:00
-1640271054,2026-11-11 19:30:00+00:00,Italy - Serie A2,Dinamo Basket Sassari,VL Pesaro,total,153.5,,,,1.8929,1.9259,2026-11-11 13:50:57.326217+00:00
-1639984840,2026-11-11 19:30:00+00:00,FIBA - Europe Cup,BC Oostende,PK Patrioti Levice,moneyline,,1.1953,4.41,,,,2026-11-11 13:50:57.326217+00:00
-1639984840,2026-11-11 19:30:00+00:00,FIBA - Europe Cup,BC Oostende,PK Patrioti Levice,spread,-9.5,1.9009,1.9174,,,,2026-11-11 13:50:57.326217+00:00
-1639984840,2026-11-11 19:30:00+00:00,FIBA - Europe Cup,BC Oostende,PK Patrioti Levice,total,161.5,,,,1.9804,1.8403,2026-11-11 13:50:57.326217+00:00
-1640291894,2026-11-11 23:45:00+00:00,Uruguay - Tercera de Ascenso,Reducto,Ateneo de Piriapolis,moneyline,,1.3195,2.87,,,,2026-11-11 13:50:57.326217+00:00
-1640291894,2026-11-11 23:45:00+00:00,Uruguay - Tercera de Ascenso,Reducto,Ateneo de Piriapolis,spread,-5.5,1.8333,1.8333,,,,2026-11-11 13:50:57.326217+00:00
-1640291894,2026-11-11 23:45:00+00:00,Uruguay - Tercera de Ascenso,Reducto,Ateneo de Piriapolis,total,161.5,,,,1.8403,1.8264,2026-11-11 13:50:57.326217+00:00
-1639979729,2026-11-11 17:00:00+00:00,Hungary - Nemzeti Bajnoksag I.A,SZTE-Szedeak,OSE Lions,moneyline,,1.3788,2.82,,,,2026-11-11 13:50:57.326217+00:00
-1639979729,2026-11-11 17:00:00+00:00,Hungary - Nemzeti Bajnoksag I.A,SZTE-Szedeak,OSE Lions,spread,-5.5,1.8696,1.8696,,,,2026-11-11 13:50:57.326217+00:00
-1639979729,2026-11-11 17:00:00+00:00,Hungary - Nemzeti Bajnoksag I.A,SZTE-Szedeak,OSE Lions,total,171.0,,,,1.8929,1.8403,2026-11-11 13:50:57.326217+00:00
-1640294192,2026-11-12 20:00:00+00:00,Italy - Serie B,Allianz Pazienza San Severo,Pelle Livorno,moneyline,,3.1,1.2681,,,,2026-11-11 13:50:57.326217+00:00
-1640294192,2026-11-12 20:00:00+00:00,Italy - Serie B,Allianz Pazienza San Severo,Pelle Livorno,spread,6.5,1.885,1.7812,,,,2026-11-11 13:50:57.326217+00:00
-1640294192,2026-11-12 20:00:00+00:00,Italy - Serie B,Allianz Pazienza San Severo,Pelle Livorno,total,158.0,,,,1.8621,1.8065,2026-11-11 13:50:57.326217+00:00
-1640061913,2026-11-13 02:00:00+00:00,Mexico - Liga ABE,CEU Monterrey,UANL,moneyline,,1.2242,3.12,,,,2026-11-11 13:50:57.326217+00:00
-1640061913,2026-11-13 02:00:00+00:00,Mexico - Liga ABE,CEU Monterrey,UANL,spread,-7.0,1.8621,1.7407,,,,2026-11-11 13:50:57.326217+00:00
-1640061913,2026-11-13 02:00:00+00:00,Mexico - Liga ABE,CEU Monterrey,UANL,total,145.0,,,,1.7937,1.8065,2026-11-11 13:50:57.326217+00:00
-1640148928,2026-11-12 01:00:00+00:00,NCAA,Tulsa,Oral Roberts,spread,-17.5,1.9259,1.9259,,,,2026-11-11 13:50:57.326217+00:00
-1640148928,2026-11-12 01:00:00+00:00,NCAA,Tulsa,Oral Roberts,total,154.0,,,,1.9434,1.8772,2026-11-11 13:50:57.326217+00:00
-1640270699,2026-11-11 19:30:00+00:00,Italy - Serie A2,Del.Fes Avellino,Urania Milano,moneyline,,1.0993,6.46,,,,2026-11-11 13:50:57.326217+00:00
-1640270699,2026-11-11 19:30:00+00:00,Italy - Serie A2,Del.Fes Avellino,Urania Milano,spread,-12.5,1.9091,1.9091,,,,2026-11-11 13:50:57.326217+00:00
-1640270699,2026-11-11 19:30:00+00:00,Italy - Serie A2,Del.Fes Avellino,Urania Milano,total,156.5,,,,1.9709,1.8547,2026-11-11 13:50:57.326217+00:00
-1640044231,2026-11-12 00:00:00+00:00,NCAA,Notre Dame,South Carolina State,spread,-25.5,1.8929,1.9346,,,,2026-11-11 13:50:57.326217+00:00
-1640044231,2026-11-12 00:00:00+00:00,NCAA,Notre Dame,South Carolina State,total,148.0,,,,1.8475,1.9615,2026-11-11 13:50:57.326217+00:00
-1639984887,2026-11-11 23:30:00+00:00,NCAA,IU Indianapolis,Southern Indiana,moneyline,,1.3096,3.58,,,,2026-11-11 13:50:57.326217+00:00
-1639984887,2026-11-11 23:30:00+00:00,NCAA,IU Indianapolis,Southern Indiana,spread,-7.5,1.9524,1.8772,,,,2026-11-11 13:50:57.326217+00:00
-1639984887,2026-11-11 23:30:00+00:00,NCAA,IU Indianapolis,Southern Indiana,total,164.5,,,,1.9615,1.8475,2026-11-11 13:50:57.326217+00:00
-1640044269,2026-11-12 19:15:00+00:00,Iceland - Premier League,UMF Njardvik,Armann,moneyline,,1.1403,4.09,,,,2026-11-11 13:50:57.326217+00:00
-1640044269,2026-11-12 19:15:00+00:00,Iceland - Premier League,UMF Njardvik,Armann,spread,-9.5,1.8197,1.8475,,,,2026-11-11 13:50:57.326217+00:00
-1640044269,2026-11-12 19:15:00+00:00,Iceland - Premier League,UMF Njardvik,Armann,total,186.0,,,,1.8621,1.8065,2026-11-11 13:50:57.326217+00:00
-1640045204,2026-11-12 23:00:00+00:00,Brazil - Novo Basquete Brasil,Corinthians Paulista,EC Pinheiros SP,moneyline,,2.16,1.6452,,,,2026-11-11 13:50:57.326217+00:00
-1640045204,2026-11-12 23:00:00+00:00,Brazil - Novo Basquete Brasil,Corinthians Paulista,EC Pinheiros SP,spread,2.5,1.9091,1.8333,,,,2026-11-11 13:50:57.326217+00:00
-1640045204,2026-11-12 23:00:00+00:00,Brazil - Novo Basquete Brasil,Corinthians Paulista,EC Pinheiros SP,total,160.5,,,,1.8696,1.8696,2026-11-11 13:50:57.326217+00:00
-1640060289,2026-11-13 10:00:00+00:00,Georgia - Super League,TSU Hyundai,Kavkasia BC,moneyline,,1.9174,1.7576,,,,2026-11-11 13:50:57.326217+00:00
-1640060289,2026-11-13 10:00:00+00:00,Georgia - Super League,TSU Hyundai,Kavkasia BC,spread,1.5,1.8333,1.8333,,,,2026-11-11 13:50:57.326217+00:00
-1640060289,2026-11-13 10:00:00+00:00,Georgia - Super League,TSU Hyundai,Kavkasia BC,total,168.5,,,,1.8403,1.8264,2026-11-11 13:50:57.326217+00:00
-1640162275,2026-11-12 02:00:00+00:00,NCAA,Colorado State,Portland State,moneyline,,1.0637,10.16,,,,2026-11-11 13:50:57.326217+00:00
-1640162275,2026-11-12 02:00:00+00:00,NCAA,Colorado State,Portland State,spread,-15.0,1.9091,1.9434,,,,2026-11-11 13:50:57.326217+00:00
-1640162275,2026-11-12 02:00:00+00:00,NCAA,Colorado State,Portland State,total,151.0,,,,1.9804,1.8403,2026-11-11 13:50:57.326217+00:00
-1640180460,2026-11-14 11:00:00+00:00,ABA - Adriatic League,Universitatea Cluj Napoca,KD Ilirija,moneyline,,1.1404,5.33,,,,2026-11-11 13:50:57.326217+00:00
-1640180460,2026-11-14 11:00:00+00:00,ABA - Adriatic League,Universitatea Cluj Napoca,KD Ilirija,spread,-10.0,1.8696,1.9524,,,,2026-11-11 13:50:57.326217+00:00
-1640180460,2026-11-14 11:00:00+00:00,ABA - Adriatic League,Universitatea Cluj Napoca,KD Ilirija,total,174.0,,,,1.9434,1.8772,2026-11-11 13:50:57.326217+00:00
-1640271052,2026-11-11 19:30:00+00:00,Italy - Serie A2,Benedetto XIV Cento,Juvi Cremona Ferraroni,moneyline,,1.8264,2.0,,,,2026-11-11 13:50:57.326217+00:00
-1640271052,2026-11-11 19:30:00+00:00,Italy - Serie A2,Benedetto XIV Cento,Juvi Cremona Ferraroni,spread,-2.0,1.9901,1.8403,,,,2026-11-11 13:50:57.326217+00:00
-1640271052,2026-11-11 19:30:00+00:00,Italy - Serie A2,Benedetto XIV Cento,Juvi Cremona Ferraroni,total,153.5,,,,1.9259,1.8929,2026-11-11 13:50:57.326217+00:00
-1640270588,2026-11-11 19:30:00+00:00,Italy - Serie B,Raggisolaris Faenza,Dany Basket Quarrata,moneyline,,1.1923,3.59,,,,2026-11-11 13:50:57.326217+00:00
-1640270588,2026-11-11 19:30:00+00:00,Italy - Serie B,Raggisolaris Faenza,Dany Basket Quarrata,spread,-8.0,1.8547,1.813,,,,2026-11-11 13:50:57.326217+00:00
-1640270588,2026-11-11 19:30:00+00:00,Italy - Serie B,Raggisolaris Faenza,Dany Basket Quarrata,total,155.0,,,,1.8403,1.8264,2026-11-11 13:50:57.326217+00:00
-1639975150,2026-11-11 18:00:00+00:00,Europe - Eurocup,Aris Thessaloniki BC,Rigas Zelli,moneyline,,1.0948,6.63,,,,2026-11-11 13:50:57.326217+00:00
-1639975150,2026-11-11 18:00:00+00:00,Europe - Eurocup,Aris Thessaloniki BC,Rigas Zelli,spread,-16.0,1.9259,1.8929,,,,2026-11-11 13:50:57.326217+00:00
-1639975150,2026-11-11 18:00:00+00:00,Europe - Eurocup,Aris Thessaloniki BC,Rigas Zelli,total,165.0,,,,1.9259,1.8929,2026-11-11 13:50:57.326217+00:00
-1639986818,2026-11-12 02:10:00+00:00,NBA,Utah Jazz,Orlando Magic,moneyline,,2.41,1.625,,,,2026-11-11 13:50:57.326217+00:00
-1639986818,2026-11-12 02:10:00+00:00,NBA,Utah Jazz,Orlando Magic,spread,4.0,1.8929,2.0,,,,2026-11-11 13:50:57.326217+00:00
-1639986818,2026-11-12 02:10:00+00:00,NBA,Utah Jazz,Orlando Magic,total,215.5,,,,1.9901,1.8772,2026-11-11 13:50:57.326217+00:00
-1640031640,2026-11-12 16:00:00+00:00,Lithuania - National Basketball League,Suduva-Mantinga,BC Olimpas Palanga,moneyline,,1.2242,3.36,,,,2026-11-11 13:50:57.326217+00:00
-1640031640,2026-11-12 16:00:00+00:00,Lithuania - National Basketball League,Suduva-Mantinga,BC Olimpas Palanga,spread,-7.5,1.8197,1.8475,,,,2026-11-11 13:50:57.326217+00:00
-1640031640,2026-11-12 16:00:00+00:00,Lithuania - National Basketball League,Suduva-Mantinga,BC Olimpas Palanga,total,173.0,,,,1.8264,1.8403,2026-11-11 13:50:57.326217+00:00
-1640066628,2026-11-13 11:00:00+00:00,Israel - National League,Maccabi Petah Tikva,Elitzur Yavne,moneyline,,1.2451,3.23,,,,2026-11-11 13:50:57.326217+00:00
-1640066628,2026-11-13 11:00:00+00:00,Israel - National League,Maccabi Petah Tikva,Elitzur Yavne,spread,-7.0,1.8,1.8621,,,,2026-11-11 13:50:57.326217+00:00
-1640066628,2026-11-13 11:00:00+00:00,Israel - National League,Maccabi Petah Tikva,Elitzur Yavne,total,171.5,,,,1.8403,1.8264,2026-11-11 13:50:57.326217+00:00
-1640031540,2026-11-12 17:00:00+00:00,Lithuania - National Basketball League,Ukmerges Stekas,Vilnius Rytas-2,moneyline,,1.565,2.19,,,,2026-11-11 13:50:57.326217+00:00
-1640031540,2026-11-12 17:00:00+00:00,Lithuania - National Basketball League,Ukmerges Stekas,Vilnius Rytas-2,spread,-3.0,1.8547,1.8065,,,,2026-11-11 13:50:57.326217+00:00
-1640031540,2026-11-12 17:00:00+00:00,Lithuania - National Basketball League,Ukmerges Stekas,Vilnius Rytas-2,total,166.5,,,,1.8929,1.7752,2026-11-11 13:50:57.326217+00:00
-1640045149,2026-11-12 18:00:00+00:00,Denmark - Basketligaen,Randers Cimbria,Team FOG Naestved,moneyline,,2.53,1.4695,,,,2026-11-11 13:50:57.326217+00:00
-1640045149,2026-11-12 18:00:00+00:00,Denmark - Basketligaen,Randers Cimbria,Team FOG Naestved,spread,5.5,1.8772,1.8621,,,,2026-11-11 13:50:57.326217+00:00
-1640045149,2026-11-12 18:00:00+00:00,Denmark - Basketligaen,Randers Cimbria,Team FOG Naestved,total,182.0,,,,1.9091,1.8333,2026-11-11 13:50:57.326217+00:00
-1639986820,2026-11-12 00:10:00+00:00,NBA,Toronto Raptors,Boston Celtics,moneyline,,3.18,1.4016,,,,2026-11-11 13:50:57.326217+00:00
-1639986820,2026-11-12 00:10:00+00:00,NBA,Toronto Raptors,Boston Celtics,spread,7.0,1.9259,1.9804,,,,2026-11-11 13:50:57.326217+00:00
-1639986820,2026-11-12 00:10:00+00:00,NBA,Toronto Raptors,Boston Celtics,total,216.0,,,,1.9434,1.9434,2026-11-11 13:50:57.326217+00:00
-1639979785,2026-11-11 19:00:00+00:00,FIBA - Europe Cup,Fribourg Olympic,CSM CSU Oradea,moneyline,,3.32,1.3215,,,,2026-11-11 13:50:57.326217+00:00
-1639979785,2026-11-11 19:00:00+00:00,FIBA - Europe Cup,Fribourg Olympic,CSM CSU Oradea,spread,6.5,1.9259,1.8929,,,,2026-11-11 13:50:57.326217+00:00
-1639979785,2026-11-11 19:00:00+00:00,FIBA - Europe Cup,Fribourg Olympic,CSM CSU Oradea,total,167.0,,,,1.9174,1.9009,2026-11-11 13:50:57.326217+00:00
-1640284058,2026-11-12 19:30:00+00:00,Italy - Serie B,Luiss Roma,Psa Sant Antimo,moneyline,,1.8772,1.7874,,,,2026-11-11 13:50:57.326217+00:00
-1640284058,2026-11-12 19:30:00+00:00,Italy - Serie B,Luiss Roma,Psa Sant Antimo,spread,-1.0,1.9174,1.7519,,,,2026-11-11 13:50:57.326217+00:00
-1640284058,2026-11-12 19:30:00+00:00,Italy - Serie B,Luiss Roma,Psa Sant Antimo,total,154.0,,,,1.8333,1.8333,2026-11-11 13:50:57.326217+00:00
-1639982145,2026-11-12 02:40:00+00:00,NBA,Houston Rockets,Golden State Warriors,moneyline,,1.4292,3.05,,,,2026-11-11 13:50:57.326217+00:00
-1639982145,2026-11-12 02:40:00+00:00,NBA,Houston Rockets,Golden State Warriors,spread,-6.0,1.9174,1.9901,,,,2026-11-11 13:50:57.326217+00:00
-1639982145,2026-11-12 02:40:00+00:00,NBA,Houston Rockets,Golden State Warriors,total,222.0,,,,1.9615,1.9259,2026-11-11 13:50:57.326217+00:00
-1640148935,2026-11-12 02:00:00+00:00,NCAA,Grand Canyon,Cal Poly SLO,spread,-18.5,1.9434,1.9091,,,,2026-11-11 13:50:57.326217+00:00
-1640148935,2026-11-12 02:00:00+00:00,NCAA,Grand Canyon,Cal Poly SLO,total,180.5,,,,1.8333,1.9901,2026-11-11 13:50:57.326217+00:00
-1640324383,2026-11-12 01:00:00+00:00,NCAA,South Dakota State,Valparaiso,moneyline,,2.01,1.8475,,,,2026-11-11 13:50:57.326217+00:00
-1640324383,2026-11-12 01:00:00+00:00,NCAA,South Dakota State,Valparaiso,spread,1.5,1.9174,1.9346,,,,2026-11-11 13:50:57.326217+00:00
-1640324383,2026-11-12 01:00:00+00:00,NCAA,South Dakota State,Valparaiso,total,142.5,,,,1.9091,1.9091,2026-11-11 13:50:57.326217+00:00
-1639975112,2026-11-11 16:30:00+00:00,NCAA,East Texas A&M,Fairleigh Dickinson,moneyline,,1.1266,6.44,,,,2026-11-11 13:50:57.326217+00:00
-1639975112,2026-11-11 16:30:00+00:00,NCAA,East Texas A&M,Fairleigh Dickinson,spread,-11.5,1.885,1.9524,,,,2026-11-11 13:50:57.326217+00:00
-1639975112,2026-11-11 16:30:00+00:00,NCAA,East Texas A&M,Fairleigh Dickinson,total,137.0,,,,1.8475,1.9524,2026-11-11 13:50:57.326217+00:00
-1639986852,2026-11-12 00:00:00+00:00,NCAA,Delaware,James Madison,moneyline,,2.43,1.5952,,,,2026-11-11 13:50:57.326217+00:00
-1639986852,2026-11-12 00:00:00+00:00,NCAA,Delaware,James Madison,spread,4.0,1.885,1.9709,,,,2026-11-11 13:50:57.326217+00:00
-1639986852,2026-11-12 00:00:00+00:00,NCAA,Delaware,James Madison,total,149.5,,,,1.9174,1.9009,2026-11-11 13:50:57.326217+00:00
-1639979750,2026-11-11 18:00:00+00:00,FIBA - Europe Cup,BC Prievidza,Denizli Basket,moneyline,,2.29,1.6329,,,,2026-11-11 13:50:57.326217+00:00
-1639979750,2026-11-11 18:00:00+00:00,FIBA - Europe Cup,BC Prievidza,Denizli Basket,spread,3.5,1.8621,1.9615,,,,2026-11-11 13:50:57.326217+00:00
-1639979750,2026-11-11 18:00:00+00:00,FIBA - Europe Cup,BC Prievidza,Denizli Basket,total,168.5,,,,1.9009,1.9174,2026-11-11 13:50:57.326217+00:00
-1640031523,2026-11-12 16:00:00+00:00,Lithuania - National Basketball League,Mazeikiai M Basket,Vilkaviskis,moneyline,,3.56,1.1961,,,,2026-11-11 13:50:57.326217+00:00
-1640031523,2026-11-12 16:00:00+00:00,Lithuania - National Basketball League,Mazeikiai M Basket,Vilkaviskis,spread,8.0,1.8197,1.8475,,,,2026-11-11 13:50:57.326217+00:00
-1640031523,2026-11-12 16:00:00+00:00,Lithuania - National Basketball League,Mazeikiai M Basket,Vilkaviskis,total,165.0,,,,1.8403,1.8264,2026-11-11 13:50:57.326217+00:00
-1639936022,2026-11-12 00:10:00+00:00,NBA,Indiana Pacers,Washington Wizards,moneyline,,1.6993,2.29,,,,2026-11-11 13:50:57.326217+00:00
-1639936022,2026-11-12 00:10:00+00:00,NBA,Indiana Pacers,Washington Wizards,spread,-3.0,1.9615,1.9434,,,,2026-11-11 13:50:57.326217+00:00
-1639936022,2026-11-12 00:10:00+00:00,NBA,Indiana Pacers,Washington Wizards,total,228.0,,,,1.9434,1.9434,2026-11-11 13:50:57.326217+00:00
-1639982169,2026-11-12 00:00:00+00:00,NCAA,Norfolk State,Old Dominion,moneyline,,2.95,1.4202,,,,2026-11-11 13:50:57.326217+00:00
-1639982169,2026-11-12 00:00:00+00:00,NCAA,Norfolk State,Old Dominion,spread,5.5,1.9174,1.9174,,,,2026-11-11 13:50:57.326217+00:00
-1639982169,2026-11-12 00:00:00+00:00,NCAA,Norfolk State,Old Dominion,total,139.0,,,,1.9009,1.9009,2026-11-11 13:50:57.326217+00:00
-1639982092,2026-11-11 18:00:00+00:00,FIBA - Europe Cup,Dziki Warshawa,BC Tartu,moneyline,,1.0499,9.34,,,,2026-11-11 13:50:57.326217+00:00
-1639982092,2026-11-11 18:00:00+00:00,FIBA - Europe Cup,Dziki Warshawa,BC Tartu,spread,-16.5,1.9009,1.9174,,,,2026-11-11 13:50:57.326217+00:00
-1639982092,2026-11-11 18:00:00+00:00,FIBA - Europe Cup,Dziki Warshawa,BC Tartu,total,174.5,,,,1.8547,1.9615,2026-11-11 13:50:57.326217+00:00
-1639984859,2026-11-12 19:15:00+00:00,Europe - Euroleague,Olympiakos BC,BC Dubai,moneyline,,1.3968,2.97,,,,2026-11-11 13:50:57.326217+00:00
-1639984859,2026-11-12 19:15:00+00:00,Europe - Euroleague,Olympiakos BC,BC Dubai,spread,-5.5,1.9009,1.9009,,,,2026-11-11 13:50:57.326217+00:00
-1639984859,2026-11-12 19:15:00+00:00,Europe - Euroleague,Olympiakos BC,BC Dubai,total,170.5,,,,1.9009,1.9009,2026-11-11 13:50:57.326217+00:00
-1639971974,2026-11-11 17:00:00+00:00,Hungary - Nemzeti Bajnoksag I.A,Falco KC Szombathely,Alba Fehervar,moneyline,,1.0543,6.98,,,,2026-11-11 13:50:57.326217+00:00
-1639971974,2026-11-11 17:00:00+00:00,Hungary - Nemzeti Bajnoksag I.A,Falco KC Szombathely,Alba Fehervar,spread,-14.0,1.8547,1.885,,,,2026-11-11 13:50:57.326217+00:00
-1639971974,2026-11-11 17:00:00+00:00,Hungary - Nemzeti Bajnoksag I.A,Falco KC Szombathely,Alba Fehervar,total,167.0,,,,1.885,1.8547,2026-11-11 13:50:57.326217+00:00
-1640325414,2026-11-12 09:00:00+00:00,Philippines - NCAA,UPHSD Altas,San Sebastian Golden Stags,moneyline,,1.1383,3.74,,,,2026-11-11 13:50:57.326217+00:00
-1640325414,2026-11-12 09:00:00+00:00,Philippines - NCAA,UPHSD Altas,San Sebastian Golden Stags,spread,-9.0,1.8772,1.7299,,,,2026-11-11 13:50:57.326217+00:00
-1640325414,2026-11-12 09:00:00+00:00,Philippines - NCAA,UPHSD Altas,San Sebastian Golden Stags,total,151.0,,,,1.8621,1.7407,2026-11-11 13:50:57.326217+00:00
-1640294239,2026-11-11 19:30:00+00:00,Italy - Serie B,Treviglio Brianza,Civitus Allianz Vicenza,moneyline,,1.1546,3.94,,,,2026-11-11 13:50:57.326217+00:00
-1640294239,2026-11-11 19:30:00+00:00,Italy - Serie B,Treviglio Brianza,Civitus Allianz Vicenza,spread,-9.5,1.8264,1.8403,,,,2026-11-11 13:50:57.326217+00:00
-1640294239,2026-11-11 19:30:00+00:00,Italy - Serie B,Treviglio Brianza,Civitus Allianz Vicenza,total,148.5,,,,1.8264,1.8403,2026-11-11 13:50:57.326217+00:00
-1639979715,2026-11-11 17:00:00+00:00,FIBA - Europe Cup,Promitheas Patras,KB Trepca,moneyline,,1.0664,8.04,,,,2026-11-11 13:50:57.326217+00:00
-1639979715,2026-11-11 17:00:00+00:00,FIBA - Europe Cup,Promitheas Patras,KB Trepca,spread,-14.0,1.9259,1.8929,,,,2026-11-11 13:50:57.326217+00:00
-1639979715,2026-11-11 17:00:00+00:00,FIBA - Europe Cup,Promitheas Patras,KB Trepca,total,169.5,,,,1.9009,1.9174,2026-11-11 13:50:57.326217+00:00
-1640001179,2026-11-12 10:05:00+00:00,Japan - B.League Premier,Shiga Lake Stars,Chiba Jets Funabashi,moneyline,,1.7634,2.04,,,,2026-11-11 13:50:57.326217+00:00
-1640001179,2026-11-12 10:05:00+00:00,Japan - B.League Premier,Shiga Lake Stars,Chiba Jets Funabashi,spread,-1.5,1.8333,1.9615,,,,2026-11-11 13:50:57.326217+00:00
-1640001179,2026-11-12 10:05:00+00:00,Japan - B.League Premier,Shiga Lake Stars,Chiba Jets Funabashi,total,182.0,,,,1.8621,1.9259,2026-11-11 13:50:57.326217+00:00
-1640045170,2026-11-11 22:30:00+00:00,Brazil - Campeonato Paulista,AA Sao Caetano,Assis Basket,moneyline,,2.58,1.4505,,,,2026-11-11 13:50:57.326217+00:00
-1640045170,2026-11-11 22:30:00+00:00,Brazil - Campeonato Paulista,AA Sao Caetano,Assis Basket,spread,4.5,1.8696,1.8696,,,,2026-11-11 13:50:57.326217+00:00
-1640045170,2026-11-11 22:30:00+00:00,Brazil - Campeonato Paulista,AA Sao Caetano,Assis Basket,total,139.5,,,,1.8696,1.8696,2026-11-11 13:50:57.326217+00:00
-1640290650,2026-11-12 16:00:00+00:00,Estonia - I Liiga,Tamsalu Los Toros/Taltech,Haljala Ngu,moneyline,,1.5525,2.22,,,,2026-11-11 13:50:57.326217+00:00
-1640290650,2026-11-12 16:00:00+00:00,Estonia - I Liiga,Tamsalu Los Toros/Taltech,Haljala Ngu,spread,-3.5,1.8547,1.813,,,,2026-11-11 13:50:57.326217+00:00
-1640290650,2026-11-12 16:00:00+00:00,Estonia - I Liiga,Tamsalu Los Toros/Taltech,Haljala Ngu,total,173.0,,,,1.8696,1.8,2026-11-11 13:50:57.326217+00:00
-1639986811,2026-11-12 19:30:00+00:00,Europe - Euroleague,Olimpia Milano,BC Zalgiris Kaunas,moneyline,,1.9804,1.8264,,,,2026-11-11 13:50:57.326217+00:00
-1639986811,2026-11-12 19:30:00+00:00,Europe - Euroleague,Olimpia Milano,BC Zalgiris Kaunas,spread,1.5,1.9009,1.9009,,,,2026-11-11 13:50:57.326217+00:00
-1639986811,2026-11-12 19:30:00+00:00,Europe - Euroleague,Olimpia Milano,BC Zalgiris Kaunas,total,169.5,,,,1.8929,1.9091,2026-11-11 13:50:57.326217+00:00
-1640325587,2026-11-11 18:00:00+00:00,NCAA,Albany NY,Dartmouth,moneyline,,2.11,1.7576,,,,2026-11-11 13:50:57.326217+00:00
-1640325587,2026-11-11 18:00:00+00:00,NCAA,Albany NY,Dartmouth,spread,2.0,1.9174,1.9174,,,,2026-11-11 13:50:57.326217+00:00
-1640325587,2026-11-11 18:00:00+00:00,NCAA,Albany NY,Dartmouth,total,139.5,,,,1.8475,1.9524,2026-11-11 13:50:57.326217+00:00
-1639979734,2026-11-11 17:30:00+00:00,Europe - Champions League,Peristeri BC,Pallacanestro Varese,moneyline,,1.8065,2.04,,,,2026-11-11 13:50:57.326217+00:00
-1639979734,2026-11-11 17:30:00+00:00,Europe - Champions League,Peristeri BC,Pallacanestro Varese,spread,-2.0,1.9615,1.8772,,,,2026-11-11 13:50:57.326217+00:00
-1639979734,2026-11-11 17:30:00+00:00,Europe - Champions League,Peristeri BC,Pallacanestro Varese,total,164.5,,,,1.8696,1.9709,2026-11-11 13:50:57.326217+00:00
-1639986853,2026-11-12 00:00:00+00:00,NCAA,St. Bonaventure,Cornell,moneyline,,1.2481,4.21,,,,2026-11-11 13:50:57.326217+00:00
-1639986853,2026-11-12 00:00:00+00:00,NCAA,St. Bonaventure,Cornell,spread,-8.5,1.8403,2.02,,,,2026-11-11 13:50:57.326217+00:00
-1639986853,2026-11-12 00:00:00+00:00,NCAA,St. Bonaventure,Cornell,total,156.0,,,,1.8929,1.9259,2026-11-11 13:50:57.326217+00:00
-1639975118,2026-11-11 17:00:00+00:00,Norway - BLNO,Fyllingen BK,Froya,moneyline,,1.1073,5.21,,,,2026-11-11 13:50:57.326217+00:00
-1639975118,2026-11-11 17:00:00+00:00,Norway - BLNO,Fyllingen BK,Froya,spread,-10.5,1.8772,1.8621,,,,2026-11-11 13:50:57.326217+00:00
-1639975118,2026-11-11 17:00:00+00:00,Norway - BLNO,Fyllingen BK,Froya,total,178.0,,,,1.9174,1.8197,2026-11-11 13:50:57.326217+00:00
-1639979727,2026-11-11 17:00:00+00:00,Hungary - Nemzeti Bajnoksag I.A,Kormend,Kaposvari KK,moneyline,,2.27,1.5814,,,,2026-11-11 13:50:57.326217+00:00
-1639979727,2026-11-11 17:00:00+00:00,Hungary - Nemzeti Bajnoksag I.A,Kormend,Kaposvari KK,spread,3.0,1.9091,1.8264,,,,2026-11-11 13:50:57.326217+00:00
-1639979727,2026-11-11 17:00:00+00:00,Hungary - Nemzeti Bajnoksag I.A,Kormend,Kaposvari KK,total,181.0,,,,1.9091,1.8264,2026-11-11 13:50:57.326217+00:00
-1639964892,2026-11-11 16:00:00+00:00,Slovenia - 1. SKL,KK Sencur,KD Ilirija,moneyline,,1.8065,1.9346,,,,2026-11-11 13:50:57.326217+00:00
-1639964892,2026-11-11 16:00:00+00:00,Slovenia - 1. SKL,KK Sencur,KD Ilirija,spread,-1.5,1.8621,1.8772,,,,2026-11-11 13:50:57.326217+00:00
-1639964892,2026-11-11 16:00:00+00:00,Slovenia - 1. SKL,KK Sencur,KD Ilirija,total,160.0,,,,1.8264,1.9091,2026-11-11 13:50:57.326217+00:00
-1639986801,2026-11-11 19:30:00+00:00,FIBA - Europe Cup,Geneva Lions,Absheron BC,moneyline,,1.1427,5.28,,,,2026-11-11 13:50:57.326217+00:00
-1639986801,2026-11-11 19:30:00+00:00,FIBA - Europe Cup,Geneva Lions,Absheron BC,spread,-10.5,1.9434,1.8772,,,,2026-11-11 13:50:57.326217+00:00
-1639986801,2026-11-11 19:30:00+00:00,FIBA - Europe Cup,Geneva Lions,Absheron BC,total,173.0,,,,1.885,1.9346,2026-11-11 13:50:57.326217+00:00
-1640331112,2026-11-12 00:00:00+00:00,Argentina - La Liga,River Plate,Pico Football Club,moneyline,,1.6452,2.06,,,,2026-11-11 13:50:57.326217+00:00
-1640331112,2026-11-12 00:00:00+00:00,Argentina - La Liga,River Plate,Pico Football Club,spread,-2.0,1.7937,1.8772,,,,2026-11-11 13:50:57.326217+00:00
-1640331112,2026-11-12 00:00:00+00:00,Argentina - La Liga,River Plate,Pico Football Club,total,153.5,,,,1.8547,1.8065,2026-11-11 13:50:57.326217+00:00
-1639979794,2026-11-11 19:45:00+00:00,Europe - ENBL,Bristol Flyers,KK Furnir Dubrava,moneyline,,1.1661,3.82,,,,2026-11-11 13:50:57.326217+00:00
-1639979794,2026-11-11 19:45:00+00:00,Europe - ENBL,Bristol Flyers,KK Furnir Dubrava,spread,-8.0,1.8,1.8696,,,,2026-11-11 13:50:57.326217+00:00
-1639979794,2026-11-11 19:45:00+00:00,Europe - ENBL,Bristol Flyers,KK Furnir Dubrava,total,160.0,,,,1.8333,1.8333,2026-11-11 13:50:57.326217+00:00
-1639975151,2026-11-11 18:00:00+00:00,Norway - BLNO,Kongsberg Miners,TNT Towers,spread,-42.5,1.8696,1.8696,,,,2026-11-11 13:50:57.326217+00:00
-1639975151,2026-11-11 18:00:00+00:00,Norway - BLNO,Kongsberg Miners,TNT Towers,total,178.5,,,,1.8403,1.9009,2026-11-11 13:50:57.326217+00:00
-1640162277,2026-11-12 02:00:00+00:00,NCAA,Boise State,Oakland,moneyline,,1.0536,11.2,,,,2026-11-11 13:50:57.326217+00:00
-1640162277,2026-11-12 02:00:00+00:00,NCAA,Boise State,Oakland,spread,-16.0,1.8772,1.9804,,,,2026-11-11 13:50:57.326217+00:00
-1640162277,2026-11-12 02:00:00+00:00,NCAA,Boise State,Oakland,total,162.0,,,,1.9174,1.9009,2026-11-11 13:50:57.326217+00:00
-1639982103,2026-11-11 18:00:00+00:00,Europe - Eurocup,BV Chemnitz 99,Gevi Napoli Basket,moneyline,,2.23,1.6667,,,,2026-11-11 13:50:57.326217+00:00
-1639982103,2026-11-11 18:00:00+00:00,Europe - Eurocup,BV Chemnitz 99,Gevi Napoli Basket,spread,3.0,1.9524,1.8696,,,,2026-11-11 13:50:57.326217+00:00
-1639982103,2026-11-11 18:00:00+00:00,Europe - Eurocup,BV Chemnitz 99,Gevi Napoli Basket,total,175.0,,,,1.8621,1.9615,2026-11-11 13:50:57.326217+00:00
-1640045768,2026-11-12 19:15:00+00:00,Iceland - Premier League,Valur Reykjavik,Alftanes,moneyline,,2.54,1.4149,,,,2026-11-11 13:50:57.326217+00:00
-1640045768,2026-11-12 19:15:00+00:00,Iceland - Premier League,Valur Reykjavik,Alftanes,spread,6.0,1.8065,1.8547,,,,2026-11-11 13:50:57.326217+00:00
-1640045768,2026-11-12 19:15:00+00:00,Iceland - Premier League,Valur Reykjavik,Alftanes,total,183.5,,,,1.8772,1.7937,2026-11-11 13:50:57.326217+00:00
-1640044271,2026-11-11 22:30:00+00:00,Brazil - Campeonato Paulista,Tatui,Liga Sorocabana,moneyline,,1.0519,7.11,,,,2026-11-11 13:50:57.326217+00:00
-1640044271,2026-11-11 22:30:00+00:00,Brazil - Campeonato Paulista,Tatui,Liga Sorocabana,spread,-14.5,1.8547,1.885,,,,2026-11-11 13:50:57.326217+00:00
-1640044271,2026-11-11 22:30:00+00:00,Brazil - Campeonato Paulista,Tatui,Liga Sorocabana,total,128.5,,,,1.8333,1.9091,2026-11-11 13:50:57.326217+00:00
-1640243356,2026-11-12 23:30:00+00:00,Chile - LNB,CD Espanol Osorno,CD Valdivia,moneyline,,3.76,1.1361,,,,2026-11-11 13:50:57.326217+00:00
-1640243356,2026-11-12 23:30:00+00:00,Chile - LNB,CD Espanol Osorno,CD Valdivia,spread,10.0,1.7752,1.8264,,,,2026-11-11 13:50:57.326217+00:00
-1640243356,2026-11-12 23:30:00+00:00,Chile - LNB,CD Espanol Osorno,CD Valdivia,total,154.5,,,,1.8696,1.7407,2026-11-11 13:50:57.326217+00:00
-1639986855,2026-11-12 00:30:00+00:00,Uruguay - Liga,CA Penarol,Aguada,moneyline,,1.1014,5.35,,,,2026-11-11 13:50:57.326217+00:00
-1639986855,2026-11-12 00:30:00+00:00,Uruguay - Liga,CA Penarol,Aguada,spread,-12.5,1.8621,1.8772,,,,2026-11-11 13:50:57.326217+00:00
-1639986855,2026-11-12 00:30:00+00:00,Uruguay - Liga,CA Penarol,Aguada,total,166.0,,,,1.9009,1.8403,2026-11-11 13:50:57.326217+00:00
-1639984901,2026-11-12 00:00:00+00:00,NCAA,Drexel,American,moneyline,,1.8696,1.9709,,,,2026-11-11 13:50:57.326217+00:00
-1639984901,2026-11-12 00:00:00+00:00,NCAA,Drexel,American,spread,-1.0,1.9174,1.9174,,,,2026-11-11 13:50:57.326217+00:00
-1639984901,2026-11-12 00:00:00+00:00,NCAA,Drexel,American,total,139.0,,,,1.9009,1.9009,2026-11-11 13:50:57.326217+00:00
-1640307561,2026-11-11 20:00:00+00:00,NCAA,St. Joseph's,South Florida,moneyline,,4.01,1.2597,,,,2026-11-11 13:50:57.326217+00:00
-1640307561,2026-11-11 20:00:00+00:00,NCAA,St. Joseph's,South Florida,spread,8.5,1.8547,1.9804,,,,2026-11-11 13:50:57.326217+00:00
-1640307561,2026-11-11 20:00:00+00:00,NCAA,St. Joseph's,South Florida,total,151.5,,,,1.9091,1.8929,2026-11-11 13:50:57.326217+00:00
-1639984900,2026-11-12 00:00:00+00:00,NCAA,Princeton,Stony Brook,moneyline,,1.4717,2.78,,,,2026-11-11 13:50:57.326217+00:00
-1639984900,2026-11-12 00:00:00+00:00,NCAA,Princeton,Stony Brook,spread,-5.0,1.9346,1.9174,,,,2026-11-11 13:50:57.326217+00:00
-1639984900,2026-11-12 00:00:00+00:00,NCAA,Princeton,Stony Brook,total,138.0,,,,1.9091,1.9091,2026-11-11 13:50:57.326217+00:00
-1639961921,2026-11-11 14:30:00+00:00,Europe - VTB United League,Parma Perm,UNICS Kazan,moneyline,,2.93,1.3497,,,,2026-11-11 13:50:57.326217+00:00
-1639961921,2026-11-11 14:30:00+00:00,Europe - VTB United League,Parma Perm,UNICS Kazan,spread,5.5,1.885,1.8547,,,,2026-11-11 13:50:57.326217+00:00
-1639961921,2026-11-11 14:30:00+00:00,Europe - VTB United League,Parma Perm,UNICS Kazan,total,171.5,,,,1.8621,1.8772,2026-11-11 13:50:57.326217+00:00
-1640243355,2026-11-12 00:30:00+00:00,Chile - LNB,CD Atletico Puerto Varas,CD Colegio Los Leones,moneyline,,3.67,1.1462,,,,2026-11-11 13:50:57.326217+00:00
-1640243355,2026-11-12 00:30:00+00:00,Chile - LNB,CD Atletico Puerto Varas,CD Colegio Los Leones,spread,9.0,1.8333,1.7692,,,,2026-11-11 13:50:57.326217+00:00
-1640243355,2026-11-12 00:30:00+00:00,Chile - LNB,CD Atletico Puerto Varas,CD Colegio Los Leones,total,149.5,,,,1.7937,1.8065,2026-11-11 13:50:57.326217+00:00
-1639986813,2026-11-12 19:30:00+00:00,Europe - Euroleague,Valencia BC,Bayern Munich,moneyline,,1.2066,4.48,,,,2026-11-11 13:50:57.326217+00:00
-1639986813,2026-11-12 19:30:00+00:00,Europe - Euroleague,Valencia BC,Bayern Munich,spread,-9.5,1.9009,1.9009,,,,2026-11-11 13:50:57.326217+00:00
-1639986813,2026-11-12 19:30:00+00:00,Europe - Euroleague,Valencia BC,Bayern Munich,total,183.5,,,,1.9009,1.9009,2026-11-11 13:50:57.326217+00:00
-1640162155,2026-11-14 04:00:00+00:00,Australia - WNBL,Bendigo Spirit,Sydney Uni Flames,moneyline,,2.59,1.4484,,,,2026-11-11 13:50:57.326217+00:00
-1640162155,2026-11-14 04:00:00+00:00,Australia - WNBL,Bendigo Spirit,Sydney Uni Flames,spread,5.0,1.8621,1.8772,,,,2026-11-11 13:50:57.326217+00:00
-1640162155,2026-11-14 04:00:00+00:00,Australia - WNBL,Bendigo Spirit,Sydney Uni Flames,total,162.0,,,,1.813,1.9259,2026-11-11 13:50:57.326217+00:00
-1640142372,2026-11-12 00:00:00+00:00,NCAA,West Georgia,NC Asheville,moneyline,,1.8264,2.01,,,,2026-11-11 13:50:57.326217+00:00
-1640142372,2026-11-12 00:00:00+00:00,NCAA,West Georgia,NC Asheville,spread,-1.5,1.9174,1.9174,,,,2026-11-11 13:50:57.326217+00:00
-1640142372,2026-11-12 00:00:00+00:00,NCAA,West Georgia,NC Asheville,total,148.0,,,,1.9009,1.9009,2026-11-11 13:50:57.326217+00:00
-1640324327,2026-11-11 19:30:00+00:00,Argentina - La Liga Proximo,Club Atletico Lanus,La Union de Formosa,moneyline,,1.5556,2.12,,,,2026-11-11 13:50:57.326217+00:00
-1640324327,2026-11-11 19:30:00+00:00,Argentina - La Liga Proximo,Club Atletico Lanus,La Union de Formosa,spread,-3.5,1.8475,1.7576,,,,2026-11-11 13:50:57.326217+00:00
-1640324327,2026-11-11 19:30:00+00:00,Argentina - La Liga Proximo,Club Atletico Lanus,La Union de Formosa,total,155.5,,,,1.8065,1.7937,2026-11-11 13:50:57.326217+00:00
-1640270701,2026-11-11 19:30:00+00:00,Italy - Serie B,Andrea Costa Imola,Grottacalda Piazza Armerina,moneyline,,2.89,1.3135,,,,2026-11-11 13:50:57.326217+00:00
-1640270701,2026-11-11 19:30:00+00:00,Italy - Serie B,Andrea Costa Imola,Grottacalda Piazza Armerina,spread,6.0,1.8065,1.8621,,,,2026-11-11 13:50:57.326217+00:00
-1640270701,2026-11-11 19:30:00+00:00,Italy - Serie B,Andrea Costa Imola,Grottacalda Piazza Armerina,total,137.5,,,,1.7692,1.9009,2026-11-11 13:50:57.326217+00:00
-1640270710,2026-11-11 20:00:00+00:00,Italy - Serie A2,Real Sebastiani Rieti,Gema Montecatini,moneyline,,1.0888,6.87,,,,2026-11-11 13:50:57.326217+00:00
-1640270710,2026-11-11 20:00:00+00:00,Italy - Serie A2,Real Sebastiani Rieti,Gema Montecatini,spread,-13.0,1.9524,1.8696,,,,2026-11-11 13:50:57.326217+00:00
-1640270710,2026-11-11 20:00:00+00:00,Italy - Serie A2,Real Sebastiani Rieti,Gema Montecatini,total,149.5,,,,1.8696,1.9524,2026-11-11 13:50:57.326217+00:00
-1639975093,2026-11-11 16:00:00+00:00,Europe - Eurocup,Bahcesehir Koleji,BC Lietkabelis Panevezys,moneyline,,1.0579,8.64,,,,2026-11-11 13:50:57.326217+00:00
-1639975093,2026-11-11 16:00:00+00:00,Europe - Eurocup,Bahcesehir Koleji,BC Lietkabelis Panevezys,spread,-15.0,1.8547,1.9709,,,,2026-11-11 13:50:57.326217+00:00
-1639975093,2026-11-11 16:00:00+00:00,Europe - Eurocup,Bahcesehir Koleji,BC Lietkabelis Panevezys,total,165.0,,,,1.885,1.9346,2026-11-11 13:50:57.326217+00:00
-1640031650,2026-11-12 17:00:00+00:00,FIBA - Europe Cup,KK Parnu,Keravnos Strovolou Nicosia,moneyline,,2.17,1.6993,,,,2026-11-11 13:50:57.326217+00:00
-1640031650,2026-11-12 17:00:00+00:00,FIBA - Europe Cup,KK Parnu,Keravnos Strovolou Nicosia,spread,2.5,1.9259,1.8929,,,,2026-11-11 13:50:57.326217+00:00
-1640031650,2026-11-12 17:00:00+00:00,FIBA - Europe Cup,KK Parnu,Keravnos Strovolou Nicosia,total,157.5,,,,1.9174,1.9009,2026-11-11 13:50:57.326217+00:00
-1640295256,2026-11-12 01:15:00+00:00,El Salvador - Liga Mayor de Baloncesto,Metapan,Brujos de Izalco BC,moneyline,,1.0239,5.99,,,,2026-11-11 13:50:57.326217+00:00
-1640295256,2026-11-12 01:15:00+00:00,El Salvador - Liga Mayor de Baloncesto,Metapan,Brujos de Izalco BC,spread,-15.5,1.7463,1.8547,,,,2026-11-11 13:50:57.326217+00:00
-1640295256,2026-11-12 01:15:00+00:00,El Salvador - Liga Mayor de Baloncesto,Metapan,Brujos de Izalco BC,total,175.5,,,,1.8065,1.7937,2026-11-11 13:50:57.326217+00:00
-1640045796,2026-11-12 23:00:00+00:00,Brazil - Novo Basquete Brasil,Botafogo,Franca Basquetbol Clube,moneyline,,3.51,1.2451,,,,2026-11-11 13:50:57.326217+00:00
-1640045796,2026-11-12 23:00:00+00:00,Brazil - Novo Basquete Brasil,Botafogo,Franca Basquetbol Clube,spread,11.0,1.8065,1.9346,,,,2026-11-11 13:50:57.326217+00:00
-1640045796,2026-11-12 23:00:00+00:00,Brazil - Novo Basquete Brasil,Botafogo,Franca Basquetbol Clube,total,158.0,,,,1.8547,1.885,2026-11-11 13:50:57.326217+00:00
-1640271056,2026-11-11 19:45:00+00:00,Italy - Serie A2,Libertas Livorno,New Basket Brindisi,moneyline,,1.2439,3.88,,,,2026-11-11 13:50:57.326217+00:00
-1640271056,2026-11-11 19:45:00+00:00,Italy - Serie A2,Libertas Livorno,New Basket Brindisi,spread,-8.0,1.885,1.9346,,,,2026-11-11 13:50:57.326217+00:00
-1640271056,2026-11-11 19:45:00+00:00,Italy - Serie A2,Libertas Livorno,New Basket Brindisi,total,151.5,,,,1.9259,1.8929,2026-11-11 13:50:57.326217+00:00
-1639975128,2026-11-11 17:00:00+00:00,Hungary - Nemzeti Bajnoksag I.A,Soproni KC,Budapesti Honved SE,moneyline,,1.6667,2.12,,,,2026-11-11 13:50:57.326217+00:00
-1639975128,2026-11-11 17:00:00+00:00,Hungary - Nemzeti Bajnoksag I.A,Soproni KC,Budapesti Honved SE,spread,-2.5,1.8621,1.8772,,,,2026-11-11 13:50:57.326217+00:00
-1639975128,2026-11-11 17:00:00+00:00,Hungary - Nemzeti Bajnoksag I.A,Soproni KC,Budapesti Honved SE,total,169.0,,,,1.8,1.9434,2026-11-11 13:50:57.326217+00:00
-1640270589,2026-11-11 19:30:00+00:00,Italy - Serie A2,Pallacanestro 2.015 Forli,Rinascita Basket Rimini,moneyline,,2.28,1.641,,,,2026-11-11 13:50:57.326217+00:00
-1640270589,2026-11-11 19:30:00+00:00,Italy - Serie A2,Pallacanestro 2.015 Forli,Rinascita Basket Rimini,spread,3.0,1.8929,1.9174,,,,2026-11-11 13:50:57.326217+00:00
-1640270589,2026-11-11 19:30:00+00:00,Italy - Serie A2,Pallacanestro 2.015 Forli,Rinascita Basket Rimini,total,158.5,,,,1.8333,1.9901,2026-11-11 13:50:57.326217+00:00
-1640273614,2026-11-11 19:00:00+00:00,Italy - Serie B,Pallacanestro Brescia,Rucker San Vendemiano,moneyline,,1.2688,3.1,,,,2026-11-11 13:50:57.326217+00:00
-1640273614,2026-11-11 19:00:00+00:00,Italy - Serie B,Pallacanestro Brescia,Rucker San Vendemiano,spread,-6.5,1.8333,1.8333,,,,2026-11-11 13:50:57.326217+00:00
-1640273614,2026-11-11 19:00:00+00:00,Italy - Serie B,Pallacanestro Brescia,Rucker San Vendemiano,total,155.5,,,,1.8403,1.8264,2026-11-11 13:50:57.326217+00:00
-1640331032,2026-11-11 20:00:00+00:00,Italy - Serie B,Loreto Pesaro,Mens Sana,moneyline,,3.67,1.1832,,,,2026-11-11 13:50:57.326217+00:00
-1640331032,2026-11-11 20:00:00+00:00,Italy - Serie B,Loreto Pesaro,Mens Sana,spread,8.5,1.7812,1.885,,,,2026-11-11 13:50:57.326217+00:00
-1640331032,2026-11-11 20:00:00+00:00,Italy - Serie B,Loreto Pesaro,Mens Sana,total,153.5,,,,1.8403,1.8264,2026-11-11 13:50:57.326217+00:00
-1639984895,2026-11-12 00:00:00+00:00,NCAA,East Tenn State,Campbell,moneyline,,1.463,2.82,,,,2026-11-11 13:50:57.326217+00:00
-1639984895,2026-11-12 00:00:00+00:00,NCAA,East Tenn State,Campbell,spread,-4.5,1.8929,1.9615,,,,2026-11-11 13:50:57.326217+00:00
-1639984895,2026-11-12 00:00:00+00:00,NCAA,East Tenn State,Campbell,total,144.0,,,,1.8772,1.9434,2026-11-11 13:50:57.326217+00:00
-1640291796,2026-11-12 17:00:00+00:00,Algeria - Super Division,CRB Dar Beida,WO Boufarik,spread,19.5,1.8772,1.7299,,,,2026-11-11 13:50:57.326217+00:00
-1640291796,2026-11-12 17:00:00+00:00,Algeria - Super Division,CRB Dar Beida,WO Boufarik,total,148.5,,,,1.7937,1.8065,2026-11-11 13:50:57.326217+00:00
-1640270593,2026-11-11 19:45:00+00:00,Italy - Serie B,Orlandina Basket,Pallacanestro Fiorenzuola,moneyline,,1.2288,3.33,,,,2026-11-11 13:50:57.326217+00:00
-1640270593,2026-11-11 19:45:00+00:00,Italy - Serie B,Orlandina Basket,Pallacanestro Fiorenzuola,spread,-7.5,1.8475,1.8197,,,,2026-11-11 13:50:57.326217+00:00
-1640270593,2026-11-11 19:45:00+00:00,Italy - Serie B,Orlandina Basket,Pallacanestro Fiorenzuola,total,157.5,,,,1.8264,1.8403,2026-11-11 13:50:57.326217+00:00
-1639904707,2026-11-11 19:45:00+00:00,Europe - Euroleague,KK Partizan Belgrade,Baskonia Vitoria Gasteiz,moneyline,,1.2625,4.06,,,,2026-11-11 13:50:57.326217+00:00
-1639904707,2026-11-11 19:45:00+00:00,Europe - Euroleague,KK Partizan Belgrade,Baskonia Vitoria Gasteiz,spread,-8.0,1.9174,1.9346,,,,2026-11-11 13:50:57.326217+00:00
-1639904707,2026-11-11 19:45:00+00:00,Europe - Euroleague,KK Partizan Belgrade,Baskonia Vitoria Gasteiz,total,167.5,,,,1.9804,1.8772,2026-11-11 13:50:57.326217+00:00
-1640137723,2026-11-12 20:00:00+00:00,Argentina - La Liga Proximo,AD Atenas Cordoba,San Lorenzo de Almagro,moneyline,,1.1548,3.59,,,,2026-11-11 13:50:57.326217+00:00
-1640137723,2026-11-12 20:00:00+00:00,Argentina - La Liga Proximo,AD Atenas Cordoba,San Lorenzo de Almagro,spread,-8.5,1.7752,1.8264,,,,2026-11-11 13:50:57.326217+00:00
-1640137723,2026-11-12 20:00:00+00:00,Argentina - La Liga Proximo,AD Atenas Cordoba,San Lorenzo de Almagro,total,142.0,,,,1.7299,1.8772,2026-11-11 13:50:57.326217+00:00
-1640148870,2026-11-13 19:30:00+00:00,British - SLB,London Lions,Surrey 89ers,moneyline,,1.06,6.7,,,,2026-11-11 13:50:57.326217+00:00
-1640148870,2026-11-13 19:30:00+00:00,British - SLB,London Lions,Surrey 89ers,spread,-14.0,1.9174,1.8197,,,,2026-11-11 13:50:57.326217+00:00
-1640148870,2026-11-13 19:30:00+00:00,British - SLB,London Lions,Surrey 89ers,total,158.0,,,,1.8696,1.8696,2026-11-11 13:50:57.326217+00:00
-1639982147,2026-11-12 01:10:00+00:00,NBA,Milwaukee Bucks,Los Angeles Lakers,moneyline,,6.04,1.1451,,,,2026-11-11 13:50:57.326217+00:00
-1639982147,2026-11-12 01:10:00+00:00,NBA,Milwaukee Bucks,Los Angeles Lakers,spread,13.5,1.9434,1.9434,,,,2026-11-11 13:50:57.326217+00:00
-1639982147,2026-11-12 01:10:00+00:00,NBA,Milwaukee Bucks,Los Angeles Lakers,total,230.5,,,,1.9804,1.8929,2026-11-11 13:50:57.326217+00:00
-1639984832,2026-11-11 19:00:00+00:00,Europe - Eurocup,BC Roma,Ratiopharm Ulm,moneyline,,1.2703,3.66,,,,2026-11-11 13:50:57.326217+00:00
-1639984832,2026-11-11 19:00:00+00:00,Europe - Eurocup,BC Roma,Ratiopharm Ulm,spread,-7.5,1.8621,1.9524,,,,2026-11-11 13:50:57.326217+00:00
-1639984832,2026-11-11 19:00:00+00:00,Europe - Eurocup,BC Roma,Ratiopharm Ulm,total,188.0,,,,1.9434,1.8772,2026-11-11 13:50:57.326217+00:00
-1640270700,2026-11-11 19:30:00+00:00,Italy - Serie B,ASD Latina Basket,Lucca,moneyline,,1.1086,4.53,,,,2026-11-11 13:50:57.326217+00:00
-1640270700,2026-11-11 19:30:00+00:00,Italy - Serie B,ASD Latina Basket,Lucca,spread,-10.5,1.8929,1.7812,,,,2026-11-11 13:50:57.326217+00:00
-1640270700,2026-11-11 19:30:00+00:00,Italy - Serie B,ASD Latina Basket,Lucca,total,154.5,,,,1.8403,1.8264,2026-11-11 13:50:57.326217+00:00
-1639979798,2026-11-11 20:00:00+00:00,NCAA,Air Force,Loyola Chicago,moneyline,,5.19,1.1825,,,,2026-11-11 13:50:57.326217+00:00
-1639979798,2026-11-11 20:00:00+00:00,NCAA,Air Force,Loyola Chicago,spread,10.5,1.9346,1.9174,,,,2026-11-11 13:50:57.326217+00:00
-1639979798,2026-11-11 20:00:00+00:00,NCAA,Air Force,Loyola Chicago,total,159.0,,,,1.8333,1.9901,2026-11-11 13:50:57.326217+00:00
-1640148918,2026-11-12 00:30:00+00:00,NCAA,Sam Houston State,Pepperdine,moneyline,,2.03,1.8197,,,,2026-11-11 13:50:57.326217+00:00
-1640148918,2026-11-12 00:30:00+00:00,NCAA,Sam Houston State,Pepperdine,spread,1.5,1.9346,1.9009,,,,2026-11-11 13:50:57.326217+00:00
-1640148918,2026-11-12 00:30:00+00:00,NCAA,Sam Houston State,Pepperdine,total,160.5,,,,1.8772,1.9259,2026-11-11 13:50:57.326217+00:00
-1640045790,2026-11-12 22:15:00+00:00,Uruguay - Liga,Union Atletica,Club Bigua de Villa Biarritz,moneyline,,2.82,1.3774,,,,2026-11-11 13:50:57.326217+00:00
-1640045790,2026-11-12 22:15:00+00:00,Uruguay - Liga,Union Atletica,Club Bigua de Villa Biarritz,spread,5.5,1.8264,1.9174,,,,2026-11-11 13:50:57.326217+00:00
-1640045790,2026-11-12 22:15:00+00:00,Uruguay - Liga,Union Atletica,Club Bigua de Villa Biarritz,total,170.0,,,,1.8403,1.9009,2026-11-11 13:50:57.326217+00:00
-1640060277,2026-11-11 19:30:00+00:00,Italy - Serie B,Virtus Lumezzane,Aurora Desio,moneyline,,1.1927,3.59,,,,2026-11-11 13:50:57.326217+00:00
-1640060277,2026-11-11 19:30:00+00:00,Italy - Serie B,Virtus Lumezzane,Aurora Desio,spread,-8.0,1.7634,1.9091,,,,2026-11-11 13:50:57.326217+00:00
-1640060277,2026-11-11 19:30:00+00:00,Italy - Serie B,Virtus Lumezzane,Aurora Desio,total,158.0,,,,1.7519,1.9259,2026-11-11 13:50:57.326217+00:00
-1639979775,2026-11-11 18:30:00+00:00,Europe - ENBL,Donar Groningen,AEL Limassol BC,moneyline,,1.7143,2.05,,,,2026-11-11 13:50:57.326217+00:00
-1639979775,2026-11-11 18:30:00+00:00,Europe - ENBL,Donar Groningen,AEL Limassol BC,spread,-2.5,1.9346,1.813,,,,2026-11-11 13:50:57.326217+00:00
-1639979775,2026-11-11 18:30:00+00:00,Europe - ENBL,Donar Groningen,AEL Limassol BC,total,157.5,,,,1.8547,1.885,2026-11-11 13:50:57.326217+00:00
-1639984856,2026-11-11 21:00:00+00:00,NCAA,East Carolina,North Carolina A&T,moneyline,,1.1667,5.52,,,,2026-11-11 13:50:57.326217+00:00
-1639984856,2026-11-11 21:00:00+00:00,NCAA,East Carolina,North Carolina A&T,spread,-10.5,1.9346,1.9174,,,,2026-11-11 13:50:57.326217+00:00
-1639984856,2026-11-11 21:00:00+00:00,NCAA,East Carolina,North Carolina A&T,total,152.0,,,,1.9434,1.8772,2026-11-11 13:50:57.326217+00:00
-1640272526,2026-11-11 19:30:00+00:00,Italy - Serie B,Ferrara Basket 2018,Fortitudo Agrigento,moneyline,,1.4975,2.33,,,,2026-11-11 13:50:57.326217+00:00
-1640272526,2026-11-11 19:30:00+00:00,Italy - Serie B,Ferrara Basket 2018,Fortitudo Agrigento,spread,-4.5,1.9091,1.7634,,,,2026-11-11 13:50:57.326217+00:00
-1640272526,2026-11-11 19:30:00+00:00,Italy - Serie B,Ferrara Basket 2018,Fortitudo Agrigento,total,145.5,,,,1.8333,1.8333,2026-11-11 13:50:57.326217+00:00
-1640044234,2026-11-12 17:00:00+00:00,Qatar - Basketball League,Al Rayyan,Al Gharafa,moneyline,,1.0287,6.97,,,,2026-11-11 13:50:57.326217+00:00
-1640044234,2026-11-12 17:00:00+00:00,Qatar - Basketball League,Al Rayyan,Al Gharafa,spread,-15.5,1.8065,1.8621,,,,2026-11-11 13:50:57.326217+00:00
-1640044234,2026-11-12 17:00:00+00:00,Qatar - Basketball League,Al Rayyan,Al Gharafa,total,166.5,,,,1.8333,1.8333,2026-11-11 13:50:57.326217+00:00
-1640291795,2026-11-11 23:45:00+00:00,Uruguay - Tercera de Ascenso,Auriblanco,Capitol,moneyline,,1.271,3.09,,,,2026-11-11 13:50:57.326217+00:00
-1640291795,2026-11-11 23:45:00+00:00,Uruguay - Tercera de Ascenso,Auriblanco,Capitol,spread,-6.5,1.8333,1.8333,,,,2026-11-11 13:50:57.326217+00:00
-1640291795,2026-11-11 23:45:00+00:00,Uruguay - Tercera de Ascenso,Auriblanco,Capitol,total,156.5,,,,1.8403,1.8264,2026-11-11 13:50:57.326217+00:00
-1639979736,2026-11-11 17:30:00+00:00,Hungary - Nemzeti Bajnoksag I.A,Debreceni EAC,Atomeromu SE,moneyline,,5.38,1.0999,,,,2026-11-11 13:50:57.326217+00:00
-1639979736,2026-11-11 17:30:00+00:00,Hungary - Nemzeti Bajnoksag I.A,Debreceni EAC,Atomeromu SE,spread,11.5,1.8929,1.8475,,,,2026-11-11 13:50:57.326217+00:00
-1639979736,2026-11-11 17:30:00+00:00,Hungary - Nemzeti Bajnoksag I.A,Debreceni EAC,Atomeromu SE,total,177.5,,,,1.8547,1.885,2026-11-11 13:50:57.326217+00:00
-1640270725,2026-11-11 19:30:00+00:00,Italy - Serie A2,Pistoia Basket 2000,Juvecaserta 2021,moneyline,,1.2123,4.21,,,,2026-11-11 13:50:57.326217+00:00
-1640270725,2026-11-11 19:30:00+00:00,Italy - Serie A2,Pistoia Basket 2000,Juvecaserta 2021,spread,-8.5,1.8197,2.0,,,,2026-11-11 13:50:57.326217+00:00
-1640270725,2026-11-11 19:30:00+00:00,Italy - Serie A2,Pistoia Basket 2000,Juvecaserta 2021,total,155.5,,,,1.9174,1.9009,2026-11-11 13:50:57.326217+00:00
-1639984896,2026-11-12 00:00:00+00:00,NCAA,Holy Cross,Furman,moneyline,,5.9,1.1447,,,,2026-11-11 13:50:57.326217+00:00
-1639984896,2026-11-12 00:00:00+00:00,NCAA,Holy Cross,Furman,spread,11.0,1.9174,1.9174,,,,2026-11-11 13:50:57.326217+00:00
-1639984896,2026-11-12 00:00:00+00:00,NCAA,Holy Cross,Furman,total,150.5,,,,1.9009,1.9009,2026-11-11 13:50:57.326217+00:00
-1640162127,2026-11-12 01:00:00+00:00,NCAA,Arkansas,Robert Morris,spread,-31.5,1.9346,1.9174,,,,2026-11-11 13:50:57.326217+00:00
-1640162127,2026-11-12 01:00:00+00:00,NCAA,Arkansas,Robert Morris,total,158.5,,,,1.9174,1.9009,2026-11-11 13:50:57.326217+00:00
-1639982170,2026-11-12 00:00:00+00:00,NCAA,South Carolina,St. Peter's,spread,-22.5,1.9615,1.8929,,,,2026-11-11 13:50:57.326217+00:00
-1639982170,2026-11-12 00:00:00+00:00,NCAA,South Carolina,St. Peter's,total,126.0,,,,1.8696,1.9524,2026-11-11 13:50:57.326217+00:00
 1640162289,2026-11-12 03:00:00+00:00,NCAA,Seattle U,Texas San Antonio,moneyline,,1.051,11.49,,,,2026-11-11 13:50:57.326217+00:00
 1640162289,2026-11-12 03:00:00+00:00,NCAA,Seattle U,Texas San Antonio,spread,-17.0,2.02,1.8403,,,,2026-11-11 13:50:57.326217+00:00
 1640162289,2026-11-12 03:00:00+00:00,NCAA,Seattle U,Texas San Antonio,total,148.5,,,,1.9259,1.8929,2026-11-11 13:50:57.326217+00:00
-1640031658,2026-11-12 17:00:00+00:00,Lithuania - National Basketball League,Kedainiu SC,Neptunas-Akvaservis Klaipeda,moneyline,,3.3,1.2326,,,,2026-11-11 13:50:57.326217+00:00
-1640031658,2026-11-12 17:00:00+00:00,Lithuania - National Basketball League,Kedainiu SC,Neptunas-Akvaservis Klaipeda,spread,7.0,1.8475,1.8197,,,,2026-11-11 13:50:57.326217+00:00
-1640031658,2026-11-12 17:00:00+00:00,Lithuania - National Basketball League,Kedainiu SC,Neptunas-Akvaservis Klaipeda,total,153.5,,,,1.7576,1.9091,2026-11-11 13:50:57.326217+00:00
-1639975091,2026-11-11 16:00:00+00:00,Europe - VTB United League,CSKA Moscow,Dynamo Vladivostok,moneyline,,1.0162,10.75,,,,2026-11-11 13:50:57.326217+00:00
-1639975091,2026-11-11 16:00:00+00:00,Europe - VTB United League,CSKA Moscow,Dynamo Vladivostok,spread,-22.0,1.8264,1.9091,,,,2026-11-11 13:50:57.326217+00:00
-1639975091,2026-11-11 16:00:00+00:00,Europe - VTB United League,CSKA Moscow,Dynamo Vladivostok,total,179.5,,,,1.8547,1.885,2026-11-11 13:50:57.326217+00:00
-1639982093,2026-11-11 18:00:00+00:00,Norway - BLNO,Centrum Tigers Oslo,Ammerud Basket,moneyline,,6.47,1.0654,,,,2026-11-11 13:50:57.326217+00:00
-1639982093,2026-11-11 18:00:00+00:00,Norway - BLNO,Centrum Tigers Oslo,Ammerud Basket,spread,18.0,1.885,1.8547,,,,2026-11-11 13:50:57.326217+00:00
-1639982093,2026-11-11 18:00:00+00:00,Norway - BLNO,Centrum Tigers Oslo,Ammerud Basket,total,178.5,,,,1.8,1.9434,2026-11-11 13:50:57.326217+00:00
-1640162146,2026-11-12 03:00:00+00:00,NCAA,Long Beach State,Pacific,moneyline,,3.11,1.3937,,,,2026-11-11 13:50:57.326217+00:00
-1640162146,2026-11-12 03:00:00+00:00,NCAA,Long Beach State,Pacific,spread,6.0,1.9346,1.9174,,,,2026-11-11 13:50:57.326217+00:00
-1640162146,2026-11-12 03:00:00+00:00,NCAA,Long Beach State,Pacific,total,137.0,,,,1.8403,1.9804,2026-11-11 13:50:57.326217+00:00
-1640162302,2026-11-12 04:00:00+00:00,NCAA,California,USC,moneyline,,3.99,1.2695,,,,2026-11-11 13:50:57.326217+00:00
-1640162302,2026-11-12 04:00:00+00:00,NCAA,California,USC,spread,8.5,1.8929,1.9615,,,,2026-11-11 13:50:57.326217+00:00
-1640162302,2026-11-12 04:00:00+00:00,NCAA,California,USC,total,161.5,,,,1.9346,1.885,2026-11-11 13:50:57.326217+00:00
-1639975129,2026-11-11 17:00:00+00:00,FIBA - Europe Cup,CS Universitatea Craiova,Kolossos Rhodes,moneyline,,3.07,1.3704,,,,2026-11-11 13:50:57.326217+00:00
-1639975129,2026-11-11 17:00:00+00:00,FIBA - Europe Cup,CS Universitatea Craiova,Kolossos Rhodes,spread,5.5,1.9434,1.8772,,,,2026-11-11 13:50:57.326217+00:00
-1639975129,2026-11-11 17:00:00+00:00,FIBA - Europe Cup,CS Universitatea Craiova,Kolossos Rhodes,total,166.0,,,,1.9901,1.8333,2026-11-11 13:50:57.326217+00:00
-1640045762,2026-11-12 19:00:00+00:00,Europe - Eurocup,Skyliners Frankfurt,Maxima Roma,moneyline,,2.17,1.7042,,,,2026-11-11 13:50:57.326217+00:00
-1640045762,2026-11-12 19:00:00+00:00,Europe - Eurocup,Skyliners Frankfurt,Maxima Roma,spread,2.5,1.9091,1.9091,,,,2026-11-11 13:50:57.326217+00:00
-1640045762,2026-11-12 19:00:00+00:00,Europe - Eurocup,Skyliners Frankfurt,Maxima Roma,total,173.0,,,,1.8929,1.9259,2026-11-11 13:50:57.326217+00:00
-1639999779,2026-11-12 10:00:00+00:00,Korean - KBL,Daegu Kogas Pegasus,Goyang Skygunners,moneyline,,1.9901,1.8333,,,,2026-11-11 13:50:57.326217+00:00
-1639999779,2026-11-12 10:00:00+00:00,Korean - KBL,Daegu Kogas Pegasus,Goyang Skygunners,spread,1.5,1.9259,1.8929,,,,2026-11-11 13:50:57.326217+00:00
-1639999779,2026-11-12 10:00:00+00:00,Korean - KBL,Daegu Kogas Pegasus,Goyang Skygunners,total,172.5,,,,1.9434,1.8772,2026-11-11 13:50:57.326217+00:00
-1639984867,2026-11-11 22:15:00+00:00,Uruguay - Liga,Defensor Sporting,CS Larranaga,moneyline,,1.0804,5.92,,,,2026-11-11 13:50:57.326217+00:00
-1639984867,2026-11-11 22:15:00+00:00,Uruguay - Liga,Defensor Sporting,CS Larranaga,spread,-12.5,1.9346,1.8065,,,,2026-11-11 13:50:57.326217+00:00
-1639984867,2026-11-11 22:15:00+00:00,Uruguay - Liga,Defensor Sporting,CS Larranaga,total,161.5,,,,1.8772,1.8621,2026-11-11 13:50:57.326217+00:00
-1640331043,2026-11-12 00:30:00+00:00,Argentina - La Liga,Bartolome Mitre de Posadas,Sportivo Suardi,moneyline,,2.11,1.6135,,,,2026-11-11 13:50:57.326217+00:00
-1640331043,2026-11-12 00:30:00+00:00,Argentina - La Liga,Bartolome Mitre de Posadas,Sportivo Suardi,spread,3.0,1.813,1.8547,,,,2026-11-11 13:50:57.326217+00:00
-1640331043,2026-11-12 00:30:00+00:00,Argentina - La Liga,Bartolome Mitre de Posadas,Sportivo Suardi,total,155.5,,,,1.8403,1.8264,2026-11-11 13:50:57.326217+00:00
-1639975109,2026-11-11 16:30:00+00:00,Europe - ENBL,Taltech Basketball,Spartak Pleven,moneyline,,1.7194,2.04,,,,2026-11-11 13:50:57.326217+00:00
-1639975109,2026-11-11 16:30:00+00:00,Europe - ENBL,Taltech Basketball,Spartak Pleven,spread,-2.0,1.8772,1.8621,,,,2026-11-11 13:50:57.326217+00:00
-1639975109,2026-11-11 16:30:00+00:00,Europe - ENBL,Taltech Basketball,Spartak Pleven,total,154.5,,,,1.8696,1.8696,2026-11-11 13:50:57.326217+00:00
-1639989922,2026-11-12 10:30:00+00:00,Australia - NBL,Perth Wildcats,Tasmania Jackjumpers,moneyline,,1.7874,2.01,,,,2026-11-11 13:50:57.326217+00:00
-1639989922,2026-11-12 10:30:00+00:00,Australia - NBL,Perth Wildcats,Tasmania Jackjumpers,spread,-2.0,1.9174,1.8696,,,,2026-11-11 13:50:57.326217+00:00
-1639989922,2026-11-12 10:30:00+00:00,Australia - NBL,Perth Wildcats,Tasmania Jackjumpers,total,185.0,,,,1.885,1.9009,2026-11-11 13:50:57.326217+00:00
-1639999750,2026-11-12 08:00:00+00:00,Australia - WNBL,Tasmania Jewels,Southside Flyers,moneyline,,1.7299,2.03,,,,2026-11-11 13:50:57.326217+00:00
-1639999750,2026-11-12 08:00:00+00:00,Australia - WNBL,Tasmania Jewels,Southside Flyers,spread,-2.0,1.9615,1.7874,,,,2026-11-11 13:50:57.326217+00:00
-1639999750,2026-11-12 08:00:00+00:00,Australia - WNBL,Tasmania Jewels,Southside Flyers,total,165.0,,,,1.9091,1.8333,2026-11-11 13:50:57.326217+00:00
-1640284042,2026-11-12 00:00:00+00:00,Dominican Republic - Torneo Baloncesto Superior,Mauricio Baez,Rafael Barias,moneyline,,1.7874,1.8772,,,,2026-11-11 13:50:57.326217+00:00
-1640284042,2026-11-12 00:00:00+00:00,Dominican Republic - Torneo Baloncesto Superior,Mauricio Baez,Rafael Barias,spread,1.0,1.7519,1.9259,,,,2026-11-11 13:50:57.326217+00:00
-1640284042,2026-11-12 00:00:00+00:00,Dominican Republic - Torneo Baloncesto Superior,Mauricio Baez,Rafael Barias,total,151.0,,,,1.8547,1.813,2026-11-11 13:50:57.326217+00:00
-1639982146,2026-11-12 01:10:00+00:00,NBA,Memphis Grizzlies,Denver Nuggets,moneyline,,2.48,1.6098,,,,2026-11-11 13:50:57.326217+00:00
-1639982146,2026-11-12 01:10:00+00:00,NBA,Memphis Grizzlies,Denver Nuggets,spread,3.5,2.02,1.8929,,,,2026-11-11 13:50:57.326217+00:00
-1639982146,2026-11-12 01:10:00+00:00,NBA,Memphis Grizzlies,Denver Nuggets,total,230.5,,,,2.03,1.8696,2026-11-11 13:50:57.326217+00:00
-1640066578,2026-11-13 08:00:00+00:00,Australia - WNBL,Geelong United,Perth Lynx,moneyline,,2.35,1.5435,,,,2026-11-11 13:50:57.326217+00:00
-1640066578,2026-11-13 08:00:00+00:00,Australia - WNBL,Geelong United,Perth Lynx,spread,4.0,1.8547,1.885,,,,2026-11-11 13:50:57.326217+00:00
-1640066578,2026-11-13 08:00:00+00:00,Australia - WNBL,Geelong United,Perth Lynx,total,165.0,,,,1.885,1.8547,2026-11-11 13:50:57.326217+00:00
-1639986842,2026-11-11 23:30:00+00:00,NCAA,Temple,College of Charleston,moneyline,,2.03,1.8197,,,,2026-11-11 13:50:57.326217+00:00
-1639986842,2026-11-11 23:30:00+00:00,NCAA,Temple,College of Charleston,spread,1.5,1.9346,1.9009,,,,2026-11-11 13:50:57.326217+00:00
-1639986842,2026-11-11 23:30:00+00:00,NCAA,Temple,College of Charleston,total,158.0,,,,1.9091,1.8929,2026-11-11 13:50:57.326217+00:00
-1639964864,2026-11-11 14:45:00+00:00,Lebanon - Lebanese Basketball League,Nadim Souaid Academy,Al Riyadi,moneyline,,7.16,1.0509,,,,2026-11-11 13:50:57.326217+00:00
-1639964864,2026-11-11 14:45:00+00:00,Lebanon - Lebanese Basketball League,Nadim Souaid Academy,Al Riyadi,spread,14.5,1.8772,1.8621,,,,2026-11-11 13:50:57.326217+00:00
-1639964864,2026-11-11 14:45:00+00:00,Lebanon - Lebanese Basketball League,Nadim Souaid Academy,Al Riyadi,total,181.5,,,,1.8772,1.8621,2026-11-11 13:50:57.326217+00:00
-1639984831,2026-11-11 19:11:00+00:00,NCAA,UC Davis,Incarnate Word,moneyline,,1.1305,6.31,,,,2026-11-11 13:50:57.326217+00:00
-1639984831,2026-11-11 19:11:00+00:00,NCAA,UC Davis,Incarnate Word,spread,-11.5,1.9174,1.9174,,,,2026-11-11 13:50:57.326217+00:00
-1639984831,2026-11-11 19:11:00+00:00,NCAA,UC Davis,Incarnate Word,total,145.5,,,,1.9009,1.9009,2026-11-11 13:50:57.326217+00:00
-1640031643,2026-11-12 16:05:00+00:00,Lithuania - National Basketball League,Atletas,Omega-Tauras,moneyline,,5.65,1.0582,,,,2026-11-11 13:50:57.326217+00:00
-1640031643,2026-11-12 16:05:00+00:00,Lithuania - National Basketball League,Atletas,Omega-Tauras,spread,13.0,1.7812,1.8929,,,,2026-11-11 13:50:57.326217+00:00
-1640031643,2026-11-12 16:05:00+00:00,Lithuania - National Basketball League,Atletas,Omega-Tauras,total,175.0,,,,1.8333,1.8333,2026-11-11 13:50:57.326217+00:00
-1640271063,2026-11-11 20:00:00+00:00,Italy - Serie B,Ristopro Fabriano,Herons Basket Montecatini,moneyline,,2.02,1.6711,,,,2026-11-11 13:50:57.326217+00:00
-1640271063,2026-11-11 20:00:00+00:00,Italy - Serie B,Ristopro Fabriano,Herons Basket Montecatini,spread,2.0,1.8621,1.8065,,,,2026-11-11 13:50:57.326217+00:00
-1640271063,2026-11-11 20:00:00+00:00,Italy - Serie B,Ristopro Fabriano,Herons Basket Montecatini,total,157.0,,,,1.8929,1.7752,2026-11-11 13:50:57.326217+00:00
-1640061951,2026-11-11 19:30:00+00:00,Italy - Serie B,Sangiorgese Basket,Logiman Orzinuovi,moneyline,,2.81,1.3333,,,,2026-11-11 13:50:57.326217+00:00
-1640061951,2026-11-11 19:30:00+00:00,Italy - Serie B,Sangiorgese Basket,Logiman Orzinuovi,spread,5.0,1.9174,1.7576,,,,2026-11-11 13:50:57.326217+00:00
-1640061951,2026-11-11 19:30:00+00:00,Italy - Serie B,Sangiorgese Basket,Logiman Orzinuovi,total,150.5,,,,1.8621,1.8065,2026-11-11 13:50:57.326217+00:00
-1640324175,2026-11-12 01:00:00+00:00,NCAA,Houston,Jacksonville State,spread,-36.0,1.9174,1.9174,,,,2026-11-11 13:50:57.326217+00:00
-1640324175,2026-11-12 01:00:00+00:00,NCAA,Houston,Jacksonville State,total,136.0,,,,1.9009,1.9009,2026-11-11 13:50:57.326217+00:00
-1639979789,2026-11-11 19:30:00+00:00,Europe - Champions League,UCAM Murcia,Brose Bamberg,moneyline,,1.0669,9.35,,,,2026-11-11 13:50:57.326217+00:00
-1639979789,2026-11-11 19:30:00+00:00,Europe - Champions League,UCAM Murcia,Brose Bamberg,spread,-15.5,1.8264,1.9901,,,,2026-11-11 13:50:57.326217+00:00
-1639979789,2026-11-11 19:30:00+00:00,Europe - Champions League,UCAM Murcia,Brose Bamberg,total,165.5,,,,1.8475,1.9615,2026-11-11 13:50:57.326217+00:00
-1639971959,2026-11-11 17:00:00+00:00,Lithuania - Cup,Nevezis,Taurage,moneyline,,1.885,1.8547,,,,2026-11-11 13:50:57.326217+00:00
-1639971959,2026-11-11 17:00:00+00:00,Lithuania - Cup,Nevezis,Taurage,spread,1.0,1.8475,1.8929,,,,2026-11-11 13:50:57.326217+00:00
-1639971959,2026-11-11 17:00:00+00:00,Lithuania - Cup,Nevezis,Taurage,total,165.5,,,,1.8621,1.8772,2026-11-11 13:50:57.326217+00:00
-1640162264,2026-11-12 01:00:00+00:00,NCAA,North Texas,Santa Clara,moneyline,,2.28,1.6667,,,,2026-11-11 13:50:57.326217+00:00
-1640162264,2026-11-12 01:00:00+00:00,NCAA,North Texas,Santa Clara,spread,2.5,1.9804,1.8772,,,,2026-11-11 13:50:57.326217+00:00
-1640162264,2026-11-12 01:00:00+00:00,NCAA,North Texas,Santa Clara,total,151.0,,,,1.9091,1.9091,2026-11-11 13:50:57.326217+00:00
-1640271057,2026-11-11 19:45:00+00:00,Italy - Serie B,Pallacanestro Roseto,San Giobbe Chiusi,moneyline,,1.5,2.32,,,,2026-11-11 13:50:57.326217+00:00
-1640271057,2026-11-11 19:45:00+00:00,Italy - Serie B,Pallacanestro Roseto,San Giobbe Chiusi,spread,-3.0,1.7576,1.9174,,,,2026-11-11 13:50:57.326217+00:00
-1640271057,2026-11-11 19:45:00+00:00,Italy - Serie B,Pallacanestro Roseto,San Giobbe Chiusi,total,160.0,,,,1.813,1.8547,2026-11-11 13:50:57.326217+00:00
-1639971958,2026-11-11 17:00:00+00:00,FIBA - Europe Cup,CS Dinamo Bucuresti,Basquet Girona,moneyline,,3.41,1.3077,,,,2026-11-11 13:50:57.326217+00:00
-1639971958,2026-11-11 17:00:00+00:00,FIBA - Europe Cup,CS Dinamo Bucuresti,Basquet Girona,spread,7.0,1.8696,1.9434,,,,2026-11-11 13:50:57.326217+00:00
-1639971958,2026-11-11 17:00:00+00:00,FIBA - Europe Cup,CS Dinamo Bucuresti,Basquet Girona,total,168.5,,,,1.9009,1.9174,2026-11-11 13:50:57.326217+00:00
-1640045205,2026-11-12 23:00:00+00:00,Brazil - Novo Basquete Brasil,Basket Osasco,Mogi das Cruzes,moneyline,,4.18,1.1715,,,,2026-11-11 13:50:57.326217+00:00
-1640045205,2026-11-12 23:00:00+00:00,Brazil - Novo Basquete Brasil,Basket Osasco,Mogi das Cruzes,spread,14.0,1.9524,1.7937,,,,2026-11-11 13:50:57.326217+00:00
-1640045205,2026-11-12 23:00:00+00:00,Brazil - Novo Basquete Brasil,Basket Osasco,Mogi das Cruzes,total,160.5,,,,1.8696,1.8696,2026-11-11 13:50:57.326217+00:00
-1639982168,2026-11-12 00:00:00+00:00,NCAA,Florida Atlantic,William & Mary,moneyline,,1.4695,2.8,,,,2026-11-11 13:50:57.326217+00:00
-1639982168,2026-11-12 00:00:00+00:00,NCAA,Florida Atlantic,William & Mary,spread,-5.0,1.9434,1.9091,,,,2026-11-11 13:50:57.326217+00:00
-1639982168,2026-11-12 00:00:00+00:00,NCAA,Florida Atlantic,William & Mary,total,166.5,,,,1.9091,1.9091,2026-11-11 13:50:57.326217+00:00
-1640060292,2026-11-13 10:05:00+00:00,Japan - B.League One,Tokyo United BC,Kumamoto Volters,moneyline,,2.91,1.3086,,,,2026-11-11 13:50:57.326217+00:00
-1640060292,2026-11-13 10:05:00+00:00,Japan - B.League One,Tokyo United BC,Kumamoto Volters,spread,5.5,1.8403,1.8264,,,,2026-11-11 13:50:57.326217+00:00
-1640060292,2026-11-13 10:05:00+00:00,Japan - B.League One,Tokyo United BC,Kumamoto Volters,total,157.5,,,,1.7576,1.9174,2026-11-11 13:50:57.326217+00:00
-1640045821,2026-11-13 00:00:00+00:00,Argentina - Liga Nacional,Asociacion Deportiva Atenas,CA San Lorenzo de Almagro,moneyline,,1.2564,3.78,,,,2026-11-11 13:50:57.326217+00:00
-1640045821,2026-11-13 00:00:00+00:00,Argentina - Liga Nacional,Asociacion Deportiva Atenas,CA San Lorenzo de Almagro,spread,-7.5,1.8929,1.9259,,,,2026-11-11 13:50:57.326217+00:00
-1640045821,2026-11-13 00:00:00+00:00,Argentina - Liga Nacional,Asociacion Deportiva Atenas,CA San Lorenzo de Almagro,total,154.5,,,,1.9091,1.9091,2026-11-11 13:50:57.326217+00:00
-1640291799,2026-11-12 23:45:00+00:00,Uruguay - Tercera de Ascenso,Capurro,Defensores de Maronas,moneyline,,1.0393,6.39,,,,2026-11-11 13:50:57.326217+00:00
-1640291799,2026-11-12 23:45:00+00:00,Uruguay - Tercera de Ascenso,Capurro,Defensores de Maronas,spread,-14.5,1.813,1.8547,,,,2026-11-11 13:50:57.326217+00:00
-1640291799,2026-11-12 23:45:00+00:00,Uruguay - Tercera de Ascenso,Capurro,Defensores de Maronas,total,163.5,,,,1.8333,1.8333,2026-11-11 13:50:57.326217+00:00
-1640271053,2026-11-11 19:30:00+00:00,Italy - Serie A2,Basket Mestre 1958,UEB Cividale,moneyline,,1.7692,2.07,,,,2026-11-11 13:50:57.326217+00:00
-1640271053,2026-11-11 19:30:00+00:00,Italy - Serie A2,Basket Mestre 1958,UEB Cividale,spread,-1.5,1.8547,1.9709,,,,2026-11-11 13:50:57.326217+00:00
-1640271053,2026-11-11 19:30:00+00:00,Italy - Serie A2,Basket Mestre 1958,UEB Cividale,total,150.5,,,,1.8475,1.9804,2026-11-11 13:50:57.326217+00:00
-1639971941,2026-11-11 16:30:00+00:00,Europe - VTB United League,Zenit St Petersburg,Samara,spread,-31.5,1.9174,1.8264,,,,2026-11-11 13:50:57.326217+00:00
-1639971941,2026-11-11 16:30:00+00:00,Europe - VTB United League,Zenit St Petersburg,Samara,total,162.0,,,,1.8547,1.885,2026-11-11 13:50:57.326217+00:00
-1639979764,2026-11-11 18:00:00+00:00,FIBA - Europe Cup,Rilski Sportist,Sporting Cp,moneyline,,2.61,1.4926,,,,2026-11-11 13:50:57.326217+00:00
-1639979764,2026-11-11 18:00:00+00:00,FIBA - Europe Cup,Rilski Sportist,Sporting Cp,spread,4.5,1.8929,1.9259,,,,2026-11-11 13:50:57.326217+00:00
-1639979764,2026-11-11 18:00:00+00:00,FIBA - Europe Cup,Rilski Sportist,Sporting Cp,total,157.5,,,,1.8403,1.9804,2026-11-11 13:50:57.326217+00:00
-1640329779,2026-11-11 20:00:00+00:00,Italy - Serie B,Basket Golfo Piombino,SS Felice Scandone,moneyline,,1.8621,1.8065,,,,2026-11-11 13:50:57.326217+00:00
-1640329779,2026-11-11 20:00:00+00:00,Italy - Serie B,Basket Golfo Piombino,SS Felice Scandone,spread,1.5,1.7812,1.8929,,,,2026-11-11 13:50:57.326217+00:00
-1640329779,2026-11-11 20:00:00+00:00,Italy - Serie B,Basket Golfo Piombino,SS Felice Scandone,total,151.5,,,,1.8403,1.8264,2026-11-11 13:50:57.326217+00:00
-1639982102,2026-11-11 18:00:00+00:00,FIBA - Europe Cup,Kk Split,BK Opava,moneyline,,1.1093,6.13,,,,2026-11-11 13:50:57.326217+00:00
-1639982102,2026-11-11 18:00:00+00:00,FIBA - Europe Cup,Kk Split,BK Opava,spread,-11.5,1.8772,1.9346,,,,2026-11-11 13:50:57.326217+00:00
-1639982102,2026-11-11 18:00:00+00:00,FIBA - Europe Cup,Kk Split,BK Opava,total,166.5,,,,1.9009,1.9174,2026-11-11 13:50:57.326217+00:00
-1639982161,2026-11-11 23:30:00+00:00,Argentina - Liga Nacional,Platense,Penarol Mar Del Plata,moneyline,,1.9009,1.9174,,,,2026-11-11 13:50:57.326217+00:00
-1639982161,2026-11-11 23:30:00+00:00,Argentina - Liga Nacional,Platense,Penarol Mar Del Plata,spread,-1.0,1.9434,1.8696,,,,2026-11-11 13:50:57.326217+00:00
-1639982161,2026-11-11 23:30:00+00:00,Argentina - Liga Nacional,Platense,Penarol Mar Del Plata,total,163.5,,,,1.9709,1.8547,2026-11-11 13:50:57.326217+00:00
-1639979757,2026-11-11 18:00:00+00:00,Sweden - Superettan,Eskilstuna Basket,Norrort Basket,moneyline,,1.7634,1.9901,,,,2026-11-11 13:50:57.326217+00:00
-1639979757,2026-11-11 18:00:00+00:00,Sweden - Superettan,Eskilstuna Basket,Norrort Basket,spread,-1.5,1.8333,1.9091,,,,2026-11-11 13:50:57.326217+00:00
-1639979757,2026-11-11 18:00:00+00:00,Sweden - Superettan,Eskilstuna Basket,Norrort Basket,total,168.5,,,,1.7874,1.9615,2026-11-11 13:50:57.326217+00:00
-1639971945,2026-11-11 16:30:00+00:00,Finland - Suomen Cup,Kataja Basket Joensuu,Kouvot Kouvola,moneyline,,1.0746,5.19,,,,2026-11-11 13:50:57.326217+00:00
-1639971945,2026-11-11 16:30:00+00:00,Finland - Suomen Cup,Kataja Basket Joensuu,Kouvot Kouvola,spread,-14.0,1.9009,1.7692,,,,2026-11-11 13:50:57.326217+00:00
-1639971945,2026-11-11 16:30:00+00:00,Finland - Suomen Cup,Kataja Basket Joensuu,Kouvot Kouvola,total,172.5,,,,1.8197,1.8475,2026-11-11 13:50:57.326217+00:00
-1639986851,2026-11-12 00:00:00+00:00,NCAA,Michigan,Marquette,moneyline,,1.5952,2.43,,,,2026-11-11 13:50:57.326217+00:00
-1639986851,2026-11-12 00:00:00+00:00,NCAA,Michigan,Marquette,spread,-4.0,1.9901,1.8621,,,,2026-11-11 13:50:57.326217+00:00
-1639986851,2026-11-12 00:00:00+00:00,NCAA,Michigan,Marquette,total,156.5,,,,1.8929,1.9259,2026-11-11 13:50:57.326217+00:00
-1640031657,2026-11-12 17:00:00+00:00,Lithuania - National Basketball League,BC Jurbarkas-Karys,Plunge Olimpas,moneyline,,1.2469,3.22,,,,2026-11-11 13:50:57.326217+00:00
-1640031657,2026-11-12 17:00:00+00:00,Lithuania - National Basketball League,BC Jurbarkas-Karys,Plunge Olimpas,spread,-7.0,1.8197,1.8475,,,,2026-11-11 13:50:57.326217+00:00
-1640031657,2026-11-12 17:00:00+00:00,Lithuania - National Basketball League,BC Jurbarkas-Karys,Plunge Olimpas,total,163.5,,,,1.8403,1.8264,2026-11-11 13:50:57.326217+00:00
-1640044310,2026-11-12 22:30:00+00:00,Brazil - Novo Basquete Brasil,Caxias Do Sul,Pato Basquete,moneyline,,1.6289,2.18,,,,2026-11-11 13:50:57.326217+00:00
-1640044310,2026-11-12 22:30:00+00:00,Brazil - Novo Basquete Brasil,Caxias Do Sul,Pato Basquete,spread,-3.0,1.8696,1.8696,,,,2026-11-11 13:50:57.326217+00:00
-1640044310,2026-11-12 22:30:00+00:00,Brazil - Novo Basquete Brasil,Caxias Do Sul,Pato Basquete,total,147.0,,,,1.9524,1.7937,2026-11-11 13:50:57.326217+00:00
-1640349178,2026-11-13 01:15:00+00:00,El Salvador - Liga Mayor de Baloncesto,Salvadorenos,Chalchuapa United,moneyline,,2.74,1.3086,,,,2026-11-11 13:50:57.326217+00:00
-1640349178,2026-11-13 01:15:00+00:00,El Salvador - Liga Mayor de Baloncesto,Salvadorenos,Chalchuapa United,spread,5.5,1.7812,1.8197,,,,2026-11-11 13:50:57.326217+00:00
-1640349178,2026-11-13 01:15:00+00:00,El Salvador - Liga Mayor de Baloncesto,Salvadorenos,Chalchuapa United,total,148.5,,,,1.8264,1.7752,2026-11-11 13:50:57.326217+00:00
-1639986819,2026-11-12 00:10:00+00:00,NBA,New York Knicks,Cleveland Cavaliers,moneyline,,1.5587,2.6,,,,2026-11-11 13:50:57.326217+00:00
-1639986819,2026-11-12 00:10:00+00:00,NBA,New York Knicks,Cleveland Cavaliers,spread,-4.0,1.885,2.02,,,,2026-11-11 13:50:57.326217+00:00
-1639986819,2026-11-12 00:10:00+00:00,NBA,New York Knicks,Cleveland Cavaliers,total,221.5,,,,1.9346,1.9524,2026-11-11 13:50:57.326217+00:00
-1639979731,2026-11-11 17:30:00+00:00,FIBA - Europe Cup,Zielona Gora,Szolnoki Olaj,moneyline,,1.1453,5.22,,,,2026-11-11 13:50:57.326217+00:00
-1639979731,2026-11-11 17:30:00+00:00,FIBA - Europe Cup,Zielona Gora,Szolnoki Olaj,spread,-11.0,1.8333,1.9901,,,,2026-11-11 13:50:57.326217+00:00
-1639979731,2026-11-11 17:30:00+00:00,FIBA - Europe Cup,Zielona Gora,Szolnoki Olaj,total,165.0,,,,1.8621,1.9615,2026-11-11 13:50:57.326217+00:00
-1639986816,2026-11-12 01:10:00+00:00,NBA,Chicago Bulls,San Antonio Spurs,moneyline,,8.71,1.0915,,,,2026-11-11 13:50:57.326217+00:00
-1639986816,2026-11-12 01:10:00+00:00,NBA,Chicago Bulls,San Antonio Spurs,spread,15.5,1.9524,1.9524,,,,2026-11-11 13:50:57.326217+00:00
-1639986816,2026-11-12 01:10:00+00:00,NBA,Chicago Bulls,San Antonio Spurs,total,239.5,,,,1.9434,1.9434,2026-11-11 13:50:57.326217+00:00
-1639979726,2026-11-11 17:00:00+00:00,FIBA - Europe Cup,Valmiera Glass VIA,Bashkimi,moneyline,,1.3367,3.24,,,,2026-11-11 13:50:57.326217+00:00
-1639979726,2026-11-11 17:00:00+00:00,FIBA - Europe Cup,Valmiera Glass VIA,Bashkimi,spread,-6.5,1.9615,1.8621,,,,2026-11-11 13:50:57.326217+00:00
-1639979726,2026-11-11 17:00:00+00:00,FIBA - Europe Cup,Valmiera Glass VIA,Bashkimi,total,164.5,,,,1.9174,1.9009,2026-11-11 13:50:57.326217+00:00
-1639975160,2026-11-11 18:00:00+00:00,FIBA - Europe Cup,Baskets Wurzburg,AEK Larnaca,moneyline,,1.1295,5.58,,,,2026-11-11 13:50:57.326217+00:00
-1639975160,2026-11-11 18:00:00+00:00,FIBA - Europe Cup,Baskets Wurzburg,AEK Larnaca,spread,-11.5,1.9524,1.8696,,,,2026-11-11 13:50:57.326217+00:00
-1639975160,2026-11-11 18:00:00+00:00,FIBA - Europe Cup,Baskets Wurzburg,AEK Larnaca,total,160.5,,,,1.9009,1.9174,2026-11-11 13:50:57.326217+00:00
-1640278616,2026-11-11 19:30:00+00:00,Italy - Serie A2,Basket Torino,Fortitudo Bologna,moneyline,,1.885,1.9346,,,,2026-11-11 13:50:57.326217+00:00
-1640278616,2026-11-11 19:30:00+00:00,Italy - Serie A2,Basket Torino,Fortitudo Bologna,spread,-1.5,1.9615,1.8621,,,,2026-11-11 13:50:57.326217+00:00
-1640278616,2026-11-11 19:30:00+00:00,Italy - Serie A2,Basket Torino,Fortitudo Bologna,total,144.0,,,,1.8772,1.9346,2026-11-11 13:50:57.326217+00:00
-1640331042,2026-11-12 00:30:00+00:00,Argentina - La Liga,Riachuelo de la Rioja,Union de Santa Fe,moneyline,,2.82,1.33,,,,2026-11-11 13:50:57.326217+00:00
-1640331042,2026-11-12 00:30:00+00:00,Argentina - La Liga,Riachuelo de la Rioja,Union de Santa Fe,spread,5.0,1.8621,1.8065,,,,2026-11-11 13:50:57.326217+00:00
-1640331042,2026-11-12 00:30:00+00:00,Argentina - La Liga,Riachuelo de la Rioja,Union de Santa Fe,total,162.5,,,,1.8475,1.8197,2026-11-11 13:50:57.326217+00:00
-1639982152,2026-11-11 22:30:00+00:00,Brazil - Novo Basquete Brasil,Minas Tenis Clube MG,Unifacisa,moneyline,,1.3145,3.09,,,,2026-11-11 13:50:57.326217+00:00
-1639982152,2026-11-11 22:30:00+00:00,Brazil - Novo Basquete Brasil,Minas Tenis Clube MG,Unifacisa,spread,-7.5,1.8696,1.8696,,,,2026-11-11 13:50:57.326217+00:00
-1639982152,2026-11-11 22:30:00+00:00,Brazil - Novo Basquete Brasil,Minas Tenis Clube MG,Unifacisa,total,160.0,,,,1.9346,1.8065,2026-11-11 13:50:57.326217+00:00
-1639984899,2026-11-12 00:00:00+00:00,NCAA,NC Wilmington,Kent State,moneyline,,1.2933,3.77,,,,2026-11-11 13:50:57.326217+00:00
-1639984899,2026-11-12 00:00:00+00:00,NCAA,NC Wilmington,Kent State,spread,-8.0,1.8403,2.02,,,,2026-11-11 13:50:57.326217+00:00
-1639984899,2026-11-12 00:00:00+00:00,NCAA,NC Wilmington,Kent State,total,158.0,,,,1.8475,1.9804,2026-11-11 13:50:57.326217+00:00
-1640045829,2026-11-13 00:30:00+00:00,Uruguay - Liga,Club Nacional,Urunday Universitario,moneyline,,1.4184,2.68,,,,2026-11-11 13:50:57.326217+00:00
-1640045829,2026-11-13 00:30:00+00:00,Uruguay - Liga,Club Nacional,Urunday Universitario,spread,-5.0,1.7812,1.9615,,,,2026-11-11 13:50:57.326217+00:00
-1640045829,2026-11-13 00:30:00+00:00,Uruguay - Liga,Club Nacional,Urunday Universitario,total,176.0,,,,1.7937,1.9524,2026-11-11 13:50:57.326217+00:00
-1640270702,2026-11-11 19:30:00+00:00,Italy - Serie B,Ravenna Piero Manetti,Virtus Roma,moneyline,,3.39,1.2198,,,,2026-11-11 13:50:57.326217+00:00
-1640270702,2026-11-11 19:30:00+00:00,Italy - Serie B,Ravenna Piero Manetti,Virtus Roma,spread,7.5,1.8772,1.7937,,,,2026-11-11 13:50:57.326217+00:00
-1640270702,2026-11-11 19:30:00+00:00,Italy - Serie B,Ravenna Piero Manetti,Virtus Roma,total,148.5,,,,1.7874,1.8772,2026-11-11 13:50:57.326217+00:00
+1639989915,2026-11-12 10:05:00+00:00,Japan - B.League Premier,Toyama Grouses,Osaka Evessa,moneyline,,1.0684,5.35,,,,2026-11-11 14:21:08.875690+00:00
+1639989915,2026-11-12 10:05:00+00:00,Japan - B.League Premier,Toyama Grouses,Osaka Evessa,spread,-13.0,1.9091,1.7634,,,,2026-11-11 14:21:08.875690+00:00
+1639989915,2026-11-12 10:05:00+00:00,Japan - B.League Premier,Toyama Grouses,Osaka Evessa,total,169.0,,,,1.8772,1.7937,2026-11-11 14:21:08.875690+00:00
+1639982102,2026-11-11 18:00:00+00:00,FIBA - Europe Cup,Kk Split,BK Opava,moneyline,,1.1093,6.13,,,,2026-11-11 14:21:08.875690+00:00
+1639982102,2026-11-11 18:00:00+00:00,FIBA - Europe Cup,Kk Split,BK Opava,spread,-11.5,1.8772,1.9346,,,,2026-11-11 14:21:08.875690+00:00
+1639982102,2026-11-11 18:00:00+00:00,FIBA - Europe Cup,Kk Split,BK Opava,total,166.5,,,,1.9009,1.9174,2026-11-11 14:21:08.875690+00:00
+1639986814,2026-11-12 19:05:00+00:00,Europe - Euroleague,Maccabi Tel-Aviv,Hapoel Tel-Aviv,moneyline,,2.79,1.4405,,,,2026-11-11 14:21:08.875690+00:00
+1639986814,2026-11-12 19:05:00+00:00,Europe - Euroleague,Maccabi Tel-Aviv,Hapoel Tel-Aviv,spread,5.0,1.8929,1.9091,,,,2026-11-11 14:21:08.875690+00:00
+1639986814,2026-11-12 19:05:00+00:00,Europe - Euroleague,Maccabi Tel-Aviv,Hapoel Tel-Aviv,total,181.5,,,,1.9009,1.9009,2026-11-11 14:21:08.875690+00:00
+1640162302,2026-11-12 04:00:00+00:00,NCAA,California,USC,moneyline,,3.99,1.2695,,,,2026-11-11 14:21:08.875690+00:00
+1640162302,2026-11-12 04:00:00+00:00,NCAA,California,USC,spread,8.5,1.8929,1.9615,,,,2026-11-11 14:21:08.875690+00:00
+1640162302,2026-11-12 04:00:00+00:00,NCAA,California,USC,total,161.5,,,,1.9346,1.885,2026-11-11 14:21:08.875690+00:00
+1640271057,2026-11-11 19:45:00+00:00,Italy - Serie B,Pallacanestro Roseto,San Giobbe Chiusi,moneyline,,1.5,2.32,,,,2026-11-11 14:21:08.875690+00:00
+1640271057,2026-11-11 19:45:00+00:00,Italy - Serie B,Pallacanestro Roseto,San Giobbe Chiusi,spread,-3.0,1.7576,1.9174,,,,2026-11-11 14:21:08.875690+00:00
+1640271057,2026-11-11 19:45:00+00:00,Italy - Serie B,Pallacanestro Roseto,San Giobbe Chiusi,total,160.0,,,,1.813,1.8547,2026-11-11 14:21:08.875690+00:00
+1640060277,2026-11-11 19:30:00+00:00,Italy - Serie B,Virtus Lumezzane,Aurora Desio,moneyline,,1.1905,3.6,,,,2026-11-11 14:21:08.875690+00:00
+1640060277,2026-11-11 19:30:00+00:00,Italy - Serie B,Virtus Lumezzane,Aurora Desio,spread,-8.0,1.7874,1.885,,,,2026-11-11 14:21:08.875690+00:00
+1640060277,2026-11-11 19:30:00+00:00,Italy - Serie B,Virtus Lumezzane,Aurora Desio,total,155.0,,,,1.813,1.8547,2026-11-11 14:21:08.875690+00:00
+1640148939,2026-11-12 03:00:00+00:00,NCAA,California Baptist,Chicago State,moneyline,,1.0972,7.6,,,,2026-11-11 14:21:08.875690+00:00
+1640148939,2026-11-12 03:00:00+00:00,NCAA,California Baptist,Chicago State,spread,-13.0,1.9346,1.9009,,,,2026-11-11 14:21:08.875690+00:00
+1640148939,2026-11-12 03:00:00+00:00,NCAA,California Baptist,Chicago State,total,142.0,,,,1.9009,1.9009,2026-11-11 14:21:08.875690+00:00
+1640273382,2026-11-11 19:00:00+00:00,Italy - Serie B,Reggio Calabria,Legnano Knights,moneyline,,1.6849,2.09,,,,2026-11-11 14:21:08.875690+00:00
+1640273382,2026-11-11 19:00:00+00:00,Italy - Serie B,Reggio Calabria,Legnano Knights,spread,-2.5,1.9615,1.7874,,,,2026-11-11 14:21:08.875690+00:00
+1640273382,2026-11-11 19:00:00+00:00,Italy - Serie B,Reggio Calabria,Legnano Knights,total,138.5,,,,1.8547,1.885,2026-11-11 14:21:08.875690+00:00
+1640331042,2026-11-12 00:30:00+00:00,Argentina - La Liga,Riachuelo de la Rioja,Union de Santa Fe,moneyline,,2.82,1.33,,,,2026-11-11 14:21:08.875690+00:00
+1640331042,2026-11-12 00:30:00+00:00,Argentina - La Liga,Riachuelo de la Rioja,Union de Santa Fe,spread,5.0,1.8621,1.8065,,,,2026-11-11 14:21:08.875690+00:00
+1640331042,2026-11-12 00:30:00+00:00,Argentina - La Liga,Riachuelo de la Rioja,Union de Santa Fe,total,162.5,,,,1.8475,1.8197,2026-11-11 14:21:08.875690+00:00
+1640270588,2026-11-11 19:30:00+00:00,Italy - Serie B,Raggisolaris Faenza,Dany Basket Quarrata,moneyline,,1.1923,3.59,,,,2026-11-11 14:21:08.875690+00:00
+1640270588,2026-11-11 19:30:00+00:00,Italy - Serie B,Raggisolaris Faenza,Dany Basket Quarrata,spread,-8.0,1.8547,1.813,,,,2026-11-11 14:21:08.875690+00:00
+1640270588,2026-11-11 19:30:00+00:00,Italy - Serie B,Raggisolaris Faenza,Dany Basket Quarrata,total,155.0,,,,1.8403,1.8264,2026-11-11 14:21:08.875690+00:00
+1640270699,2026-11-11 19:30:00+00:00,Italy - Serie A2,Del.Fes Avellino,Urania Milano,moneyline,,1.0993,6.46,,,,2026-11-11 14:21:08.875690+00:00
+1640270699,2026-11-11 19:30:00+00:00,Italy - Serie A2,Del.Fes Avellino,Urania Milano,spread,-12.5,1.9091,1.9091,,,,2026-11-11 14:21:08.875690+00:00
+1640270699,2026-11-11 19:30:00+00:00,Italy - Serie A2,Del.Fes Avellino,Urania Milano,total,156.5,,,,1.9709,1.8547,2026-11-11 14:21:08.875690+00:00
+1639982149,2026-11-11 22:00:00+00:00,NCAA,San Diego State,Bethune Cookman,spread,-18.5,1.9174,1.9174,,,,2026-11-11 14:21:08.875690+00:00
+1639982149,2026-11-11 22:00:00+00:00,NCAA,San Diego State,Bethune Cookman,total,152.0,,,,1.9009,1.9009,2026-11-11 14:21:08.875690+00:00
+1640349178,2026-11-13 01:15:00+00:00,El Salvador - Liga Mayor de Baloncesto,Salvadorenos,Chalchuapa United,moneyline,,2.74,1.3086,,,,2026-11-11 14:21:08.875690+00:00
+1640349178,2026-11-13 01:15:00+00:00,El Salvador - Liga Mayor de Baloncesto,Salvadorenos,Chalchuapa United,spread,5.5,1.7812,1.8197,,,,2026-11-11 14:21:08.875690+00:00
+1640349178,2026-11-13 01:15:00+00:00,El Salvador - Liga Mayor de Baloncesto,Salvadorenos,Chalchuapa United,total,148.5,,,,1.8264,1.7752,2026-11-11 14:21:08.875690+00:00
+1639975118,2026-11-11 17:00:00+00:00,Norway - BLNO,Fyllingen BK,Froya,moneyline,,1.1073,5.21,,,,2026-11-11 14:21:08.875690+00:00
+1639975118,2026-11-11 17:00:00+00:00,Norway - BLNO,Fyllingen BK,Froya,spread,-10.5,1.8772,1.8621,,,,2026-11-11 14:21:08.875690+00:00
+1639975118,2026-11-11 17:00:00+00:00,Norway - BLNO,Fyllingen BK,Froya,total,178.0,,,,1.9174,1.8197,2026-11-11 14:21:08.875690+00:00
+1639982093,2026-11-11 18:00:00+00:00,Norway - BLNO,Centrum Tigers Oslo,Ammerud Basket,moneyline,,6.47,1.0654,,,,2026-11-11 14:21:08.875690+00:00
+1639982093,2026-11-11 18:00:00+00:00,Norway - BLNO,Centrum Tigers Oslo,Ammerud Basket,spread,18.0,1.885,1.8547,,,,2026-11-11 14:21:08.875690+00:00
+1639982093,2026-11-11 18:00:00+00:00,Norway - BLNO,Centrum Tigers Oslo,Ammerud Basket,total,178.5,,,,1.8,1.9434,2026-11-11 14:21:08.875690+00:00
+1639984901,2026-11-12 00:00:00+00:00,NCAA,Drexel,American,moneyline,,1.8696,1.9709,,,,2026-11-11 14:21:08.875690+00:00
+1639984901,2026-11-12 00:00:00+00:00,NCAA,Drexel,American,spread,-1.0,1.9174,1.9174,,,,2026-11-11 14:21:08.875690+00:00
+1639984901,2026-11-12 00:00:00+00:00,NCAA,Drexel,American,total,139.0,,,,1.9009,1.9009,2026-11-11 14:21:08.875690+00:00
+1640291795,2026-11-11 23:45:00+00:00,Uruguay - Tercera de Ascenso,Auriblanco,Capitol,moneyline,,1.2513,3.2,,,,2026-11-11 14:21:08.875690+00:00
+1640291795,2026-11-11 23:45:00+00:00,Uruguay - Tercera de Ascenso,Auriblanco,Capitol,spread,-6.5,1.7634,1.9091,,,,2026-11-11 14:21:08.875690+00:00
+1640291795,2026-11-11 23:45:00+00:00,Uruguay - Tercera de Ascenso,Auriblanco,Capitol,total,156.5,,,,1.8333,1.8333,2026-11-11 14:21:08.875690+00:00
+1640031640,2026-11-12 16:00:00+00:00,Lithuania - National Basketball League,Suduva-Mantinga,BC Olimpas Palanga,moneyline,,1.2242,3.36,,,,2026-11-11 14:21:08.875690+00:00
+1640031640,2026-11-12 16:00:00+00:00,Lithuania - National Basketball League,Suduva-Mantinga,BC Olimpas Palanga,spread,-7.5,1.8197,1.8475,,,,2026-11-11 14:21:08.875690+00:00
+1640031640,2026-11-12 16:00:00+00:00,Lithuania - National Basketball League,Suduva-Mantinga,BC Olimpas Palanga,total,173.0,,,,1.8264,1.8403,2026-11-11 14:21:08.875690+00:00
+1639986813,2026-11-12 19:30:00+00:00,Europe - Euroleague,Valencia BC,Bayern Munich,moneyline,,1.2066,4.48,,,,2026-11-11 14:21:08.875690+00:00
+1639986813,2026-11-12 19:30:00+00:00,Europe - Euroleague,Valencia BC,Bayern Munich,spread,-9.5,1.9009,1.9009,,,,2026-11-11 14:21:08.875690+00:00
+1639986813,2026-11-12 19:30:00+00:00,Europe - Euroleague,Valencia BC,Bayern Munich,total,183.5,,,,1.9009,1.9009,2026-11-11 14:21:08.875690+00:00
+1639982162,2026-11-11 23:30:00+00:00,Argentina - Liga Nacional,CA Lanus,La Union Formosa,moneyline,,1.8197,2.0,,,,2026-11-11 14:21:08.875690+00:00
+1639982162,2026-11-11 23:30:00+00:00,Argentina - Liga Nacional,CA Lanus,La Union Formosa,spread,-1.5,1.9009,1.9174,,,,2026-11-11 14:21:08.875690+00:00
+1639982162,2026-11-11 23:30:00+00:00,Argentina - Liga Nacional,CA Lanus,La Union Formosa,total,157.5,,,,1.8475,1.9804,2026-11-11 14:21:08.875690+00:00
+1640331032,2026-11-11 20:00:00+00:00,Italy - Serie B,Loreto Pesaro,Mens Sana,moneyline,,3.67,1.1832,,,,2026-11-11 14:21:08.875690+00:00
+1640331032,2026-11-11 20:00:00+00:00,Italy - Serie B,Loreto Pesaro,Mens Sana,spread,8.5,1.7812,1.885,,,,2026-11-11 14:21:08.875690+00:00
+1640331032,2026-11-11 20:00:00+00:00,Italy - Serie B,Loreto Pesaro,Mens Sana,total,153.5,,,,1.8403,1.8264,2026-11-11 14:21:08.875690+00:00
+1640061951,2026-11-11 19:30:00+00:00,Italy - Serie B,Sangiorgese Basket,Logiman Orzinuovi,moneyline,,2.81,1.3333,,,,2026-11-11 14:21:08.875690+00:00
+1640061951,2026-11-11 19:30:00+00:00,Italy - Serie B,Sangiorgese Basket,Logiman Orzinuovi,spread,5.0,1.9174,1.7576,,,,2026-11-11 14:21:08.875690+00:00
+1640061951,2026-11-11 19:30:00+00:00,Italy - Serie B,Sangiorgese Basket,Logiman Orzinuovi,total,150.5,,,,1.8621,1.8065,2026-11-11 14:21:08.875690+00:00
+1639982145,2026-11-12 02:40:00+00:00,NBA,Houston Rockets,Golden State Warriors,moneyline,,1.4292,3.05,,,,2026-11-11 14:21:08.875690+00:00
+1639982145,2026-11-12 02:40:00+00:00,NBA,Houston Rockets,Golden State Warriors,spread,-6.0,1.9174,1.9901,,,,2026-11-11 14:21:08.875690+00:00
+1639982145,2026-11-12 02:40:00+00:00,NBA,Houston Rockets,Golden State Warriors,total,220.0,,,,1.8772,2.01,2026-11-11 14:21:08.875690+00:00
+1639984856,2026-11-11 21:00:00+00:00,NCAA,East Carolina,North Carolina A&T,moneyline,,1.1623,5.61,,,,2026-11-11 14:21:08.875690+00:00
+1639984856,2026-11-11 21:00:00+00:00,NCAA,East Carolina,North Carolina A&T,spread,-10.5,1.9009,1.9524,,,,2026-11-11 14:21:08.875690+00:00
+1639984856,2026-11-11 21:00:00+00:00,NCAA,East Carolina,North Carolina A&T,total,152.0,,,,1.9346,1.8772,2026-11-11 14:21:08.875690+00:00
+1639982135,2026-11-11 20:00:00+00:00,FIBA - Europe Cup,SL Benfica,Bakken Bears,moneyline,,1.3356,3.24,,,,2026-11-11 14:21:08.875690+00:00
+1639982135,2026-11-11 20:00:00+00:00,FIBA - Europe Cup,SL Benfica,Bakken Bears,spread,-6.0,1.8696,1.9434,,,,2026-11-11 14:21:08.875690+00:00
+1639982135,2026-11-11 20:00:00+00:00,FIBA - Europe Cup,SL Benfica,Bakken Bears,total,172.0,,,,1.9091,1.9091,2026-11-11 14:21:08.875690+00:00
+1639979757,2026-11-11 18:00:00+00:00,Sweden - Superettan,Eskilstuna Basket,Norrort Basket,moneyline,,1.7634,1.9901,,,,2026-11-11 14:21:08.875690+00:00
+1639979757,2026-11-11 18:00:00+00:00,Sweden - Superettan,Eskilstuna Basket,Norrort Basket,spread,-1.5,1.8333,1.9091,,,,2026-11-11 14:21:08.875690+00:00
+1639979757,2026-11-11 18:00:00+00:00,Sweden - Superettan,Eskilstuna Basket,Norrort Basket,total,168.5,,,,1.7874,1.9615,2026-11-11 14:21:08.875690+00:00
+1639984896,2026-11-12 00:00:00+00:00,NCAA,Holy Cross,Furman,moneyline,,5.9,1.1447,,,,2026-11-11 14:21:08.875690+00:00
+1639984896,2026-11-12 00:00:00+00:00,NCAA,Holy Cross,Furman,spread,11.0,1.9174,1.9174,,,,2026-11-11 14:21:08.875690+00:00
+1639984896,2026-11-12 00:00:00+00:00,NCAA,Holy Cross,Furman,total,150.5,,,,1.9009,1.9009,2026-11-11 14:21:08.875690+00:00
+1640044250,2026-11-12 12:40:00+00:00,Hong Kong BL,Jinlong WTS,Wellman Fukien,moneyline,,1.5208,2.28,,,,2026-11-11 14:21:08.875690+00:00
+1640044250,2026-11-12 12:40:00+00:00,Hong Kong BL,Jinlong WTS,Wellman Fukien,spread,-3.5,1.8547,1.813,,,,2026-11-11 14:21:08.875690+00:00
+1640044250,2026-11-12 12:40:00+00:00,Hong Kong BL,Jinlong WTS,Wellman Fukien,total,154.0,,,,1.8621,1.8065,2026-11-11 14:21:08.875690+00:00
+1639986812,2026-11-12 20:00:00+00:00,Europe - Euroleague,Real Madrid,Crvena Zvezda,moneyline,,1.3215,3.38,,,,2026-11-11 14:21:08.875690+00:00
+1639986812,2026-11-12 20:00:00+00:00,Europe - Euroleague,Real Madrid,Crvena Zvezda,spread,-7.0,1.9009,1.9009,,,,2026-11-11 14:21:08.875690+00:00
+1639986812,2026-11-12 20:00:00+00:00,Europe - Euroleague,Real Madrid,Crvena Zvezda,total,175.0,,,,1.9009,1.9009,2026-11-11 14:21:08.875690+00:00
+1639982146,2026-11-12 01:10:00+00:00,NBA,Memphis Grizzlies,Denver Nuggets,moneyline,,2.46,1.6135,,,,2026-11-11 14:21:08.875690+00:00
+1639982146,2026-11-12 01:10:00+00:00,NBA,Memphis Grizzlies,Denver Nuggets,spread,3.5,2.0,1.9091,,,,2026-11-11 14:21:08.875690+00:00
+1639982146,2026-11-12 01:10:00+00:00,NBA,Memphis Grizzlies,Denver Nuggets,total,230.5,,,,2.01,1.885,2026-11-11 14:21:08.875690+00:00
+1640045159,2026-11-12 18:30:00+00:00,Lebanon - Lebanese Basketball League,Beirut SC,Chabeb Batroun,moneyline,,1.1613,3.87,,,,2026-11-11 14:21:08.875690+00:00
+1640045159,2026-11-12 18:30:00+00:00,Lebanon - Lebanese Basketball League,Beirut SC,Chabeb Batroun,spread,-9.0,1.7692,1.9009,,,,2026-11-11 14:21:08.875690+00:00
+1640045159,2026-11-12 18:30:00+00:00,Lebanon - Lebanese Basketball League,Beirut SC,Chabeb Batroun,total,163.5,,,,1.8547,1.813,2026-11-11 14:21:08.875690+00:00
+1639986811,2026-11-12 19:30:00+00:00,Europe - Euroleague,Olimpia Milano,BC Zalgiris Kaunas,moneyline,,1.9804,1.8264,,,,2026-11-11 14:21:08.875690+00:00
+1639986811,2026-11-12 19:30:00+00:00,Europe - Euroleague,Olimpia Milano,BC Zalgiris Kaunas,spread,1.5,1.9009,1.9009,,,,2026-11-11 14:21:08.875690+00:00
+1639986811,2026-11-12 19:30:00+00:00,Europe - Euroleague,Olimpia Milano,BC Zalgiris Kaunas,total,169.5,,,,1.8929,1.9091,2026-11-11 14:21:08.875690+00:00
+1639984840,2026-11-11 19:30:00+00:00,FIBA - Europe Cup,BC Oostende,PK Patrioti Levice,moneyline,,1.1953,4.41,,,,2026-11-11 14:21:08.875690+00:00
+1639984840,2026-11-11 19:30:00+00:00,FIBA - Europe Cup,BC Oostende,PK Patrioti Levice,spread,-9.5,1.9009,1.9174,,,,2026-11-11 14:21:08.875690+00:00
+1639984840,2026-11-11 19:30:00+00:00,FIBA - Europe Cup,BC Oostende,PK Patrioti Levice,total,161.5,,,,1.9804,1.8403,2026-11-11 14:21:08.875690+00:00
+1639982161,2026-11-11 23:30:00+00:00,Argentina - Liga Nacional,Platense,Penarol Mar Del Plata,moneyline,,1.9009,1.9174,,,,2026-11-11 14:21:08.875690+00:00
+1639982161,2026-11-11 23:30:00+00:00,Argentina - Liga Nacional,Platense,Penarol Mar Del Plata,spread,-1.0,1.9434,1.8696,,,,2026-11-11 14:21:08.875690+00:00
+1639982161,2026-11-11 23:30:00+00:00,Argentina - Liga Nacional,Platense,Penarol Mar Del Plata,total,163.5,,,,1.9709,1.8547,2026-11-11 14:21:08.875690+00:00
+1639986819,2026-11-12 00:10:00+00:00,NBA,New York Knicks,Cleveland Cavaliers,moneyline,,1.5556,2.61,,,,2026-11-11 14:21:08.875690+00:00
+1639986819,2026-11-12 00:10:00+00:00,NBA,New York Knicks,Cleveland Cavaliers,spread,-4.0,1.885,2.03,,,,2026-11-11 14:21:08.875690+00:00
+1639986819,2026-11-12 00:10:00+00:00,NBA,New York Knicks,Cleveland Cavaliers,total,221.5,,,,1.9091,1.9804,2026-11-11 14:21:08.875690+00:00
+1639984887,2026-11-11 23:30:00+00:00,NCAA,IU Indianapolis,Southern Indiana,moneyline,,1.3135,3.55,,,,2026-11-11 14:21:08.875690+00:00
+1639984887,2026-11-11 23:30:00+00:00,NCAA,IU Indianapolis,Southern Indiana,spread,-7.5,1.9709,1.8621,,,,2026-11-11 14:21:08.875690+00:00
+1639984887,2026-11-11 23:30:00+00:00,NCAA,IU Indianapolis,Southern Indiana,total,164.5,,,,1.9615,1.8475,2026-11-11 14:21:08.875690+00:00
+1640307560,2026-11-11 17:00:00+00:00,NCAA,Florida A&M,UMKC,moneyline,,3.73,1.2907,,,,2026-11-11 14:21:08.875690+00:00
+1640307560,2026-11-11 17:00:00+00:00,NCAA,Florida A&M,UMKC,spread,8.0,1.8929,1.9434,,,,2026-11-11 14:21:08.875690+00:00
+1640307560,2026-11-11 17:00:00+00:00,NCAA,Florida A&M,UMKC,total,146.5,,,,1.9009,1.9009,2026-11-11 14:21:08.875690+00:00
+1639984832,2026-11-11 19:00:00+00:00,Europe - Eurocup,BC Roma,Ratiopharm Ulm,moneyline,,1.2703,3.66,,,,2026-11-11 14:21:08.875690+00:00
+1639984832,2026-11-11 19:00:00+00:00,Europe - Eurocup,BC Roma,Ratiopharm Ulm,spread,-7.5,1.8621,1.9524,,,,2026-11-11 14:21:08.875690+00:00
+1639984832,2026-11-11 19:00:00+00:00,Europe - Eurocup,BC Roma,Ratiopharm Ulm,total,188.0,,,,1.9434,1.8772,2026-11-11 14:21:08.875690+00:00
+1640271056,2026-11-11 19:45:00+00:00,Italy - Serie A2,Libertas Livorno,New Basket Brindisi,moneyline,,1.2439,3.88,,,,2026-11-11 14:21:08.875690+00:00
+1640271056,2026-11-11 19:45:00+00:00,Italy - Serie A2,Libertas Livorno,New Basket Brindisi,spread,-8.0,1.885,1.9346,,,,2026-11-11 14:21:08.875690+00:00
+1640271056,2026-11-11 19:45:00+00:00,Italy - Serie A2,Libertas Livorno,New Basket Brindisi,total,151.5,,,,1.9259,1.8929,2026-11-11 14:21:08.875690+00:00
+1639989885,2026-11-11 18:00:00+00:00,FIBA - Europe Cup,BC Vienna,Sluc Nancy Basket,moneyline,,2.6,1.4975,,,,2026-11-11 14:21:08.875690+00:00
+1639989885,2026-11-11 18:00:00+00:00,FIBA - Europe Cup,BC Vienna,Sluc Nancy Basket,spread,5.5,1.8197,2.0,,,,2026-11-11 14:21:08.875690+00:00
+1639989885,2026-11-11 18:00:00+00:00,FIBA - Europe Cup,BC Vienna,Sluc Nancy Basket,total,160.5,,,,1.9091,1.9091,2026-11-11 14:21:08.875690+00:00
+1640162276,2026-11-12 02:00:00+00:00,NCAA,UCLA,Arkansas Pine Bluff,spread,-46.0,1.9259,1.9091,,,,2026-11-11 14:21:08.875690+00:00
+1640162276,2026-11-12 02:00:00+00:00,NCAA,UCLA,Arkansas Pine Bluff,total,157.5,,,,1.9091,1.8929,2026-11-11 14:21:08.875690+00:00
+1639979725,2026-11-11 17:00:00+00:00,FIBA - Europe Cup,BC Lokomotiv Plovdiv,VEF Riga,moneyline,,2.05,1.7812,,,,2026-11-11 14:21:08.875690+00:00
+1639979725,2026-11-11 17:00:00+00:00,FIBA - Europe Cup,BC Lokomotiv Plovdiv,VEF Riga,spread,2.0,1.885,1.9346,,,,2026-11-11 14:21:08.875690+00:00
+1639979725,2026-11-11 17:00:00+00:00,FIBA - Europe Cup,BC Lokomotiv Plovdiv,VEF Riga,total,171.5,,,,1.8621,1.9615,2026-11-11 14:21:08.875690+00:00
+1640142372,2026-11-12 00:00:00+00:00,NCAA,West Georgia,NC Asheville,moneyline,,1.8264,2.01,,,,2026-11-11 14:21:08.875690+00:00
+1640142372,2026-11-12 00:00:00+00:00,NCAA,West Georgia,NC Asheville,spread,-1.5,1.9174,1.9174,,,,2026-11-11 14:21:08.875690+00:00
+1640142372,2026-11-12 00:00:00+00:00,NCAA,West Georgia,NC Asheville,total,148.0,,,,1.9009,1.9009,2026-11-11 14:21:08.875690+00:00
+1639979775,2026-11-11 18:30:00+00:00,Europe - ENBL,Donar Groningen,AEL Limassol BC,moneyline,,1.7143,2.05,,,,2026-11-11 14:21:08.875690+00:00
+1639979775,2026-11-11 18:30:00+00:00,Europe - ENBL,Donar Groningen,AEL Limassol BC,spread,-2.5,1.9346,1.813,,,,2026-11-11 14:21:08.875690+00:00
+1639979775,2026-11-11 18:30:00+00:00,Europe - ENBL,Donar Groningen,AEL Limassol BC,total,157.5,,,,1.8547,1.885,2026-11-11 14:21:08.875690+00:00
+1640162146,2026-11-12 03:00:00+00:00,NCAA,Long Beach State,Pacific,moneyline,,3.11,1.3937,,,,2026-11-11 14:21:08.875690+00:00
+1640162146,2026-11-12 03:00:00+00:00,NCAA,Long Beach State,Pacific,spread,6.0,1.9346,1.9174,,,,2026-11-11 14:21:08.875690+00:00
+1640162146,2026-11-12 03:00:00+00:00,NCAA,Long Beach State,Pacific,total,137.0,,,,1.8403,1.9804,2026-11-11 14:21:08.875690+00:00
+1639979790,2026-11-11 19:30:00+00:00,France - Nationale 1,Laval,Pays de Fougeres,moneyline,,1.9009,1.7692,,,,2026-11-11 14:21:08.875690+00:00
+1639979790,2026-11-11 19:30:00+00:00,France - Nationale 1,Laval,Pays de Fougeres,spread,1.5,1.8197,1.8475,,,,2026-11-11 14:21:08.875690+00:00
+1639979790,2026-11-11 19:30:00+00:00,France - Nationale 1,Laval,Pays de Fougeres,total,152.5,,,,1.9091,1.7634,2026-11-11 14:21:08.875690+00:00
+1640290650,2026-11-12 16:00:00+00:00,Estonia - I Liiga,Tamsalu Los Toros/Taltech,Haljala Ngu,moneyline,,1.5525,2.22,,,,2026-11-11 14:21:08.875690+00:00
+1640290650,2026-11-12 16:00:00+00:00,Estonia - I Liiga,Tamsalu Los Toros/Taltech,Haljala Ngu,spread,-3.5,1.8547,1.813,,,,2026-11-11 14:21:08.875690+00:00
+1640290650,2026-11-12 16:00:00+00:00,Estonia - I Liiga,Tamsalu Los Toros/Taltech,Haljala Ngu,total,173.0,,,,1.8696,1.8,2026-11-11 14:21:08.875690+00:00
+1639975112,2026-11-11 16:30:00+00:00,NCAA,East Texas A&M,Fairleigh Dickinson,moneyline,,1.1267,6.43,,,,2026-11-11 14:21:08.875690+00:00
+1639975112,2026-11-11 16:30:00+00:00,NCAA,East Texas A&M,Fairleigh Dickinson,spread,-11.5,1.8929,1.9434,,,,2026-11-11 14:21:08.875690+00:00
+1639975112,2026-11-11 16:30:00+00:00,NCAA,East Texas A&M,Fairleigh Dickinson,total,137.0,,,,1.8696,1.9346,2026-11-11 14:21:08.875690+00:00
+1640045796,2026-11-12 23:00:00+00:00,Brazil - Novo Basquete Brasil,Botafogo,Franca Basquetbol Clube,moneyline,,3.51,1.2451,,,,2026-11-11 14:21:08.875690+00:00
+1640045796,2026-11-12 23:00:00+00:00,Brazil - Novo Basquete Brasil,Botafogo,Franca Basquetbol Clube,spread,11.0,1.8065,1.9346,,,,2026-11-11 14:21:08.875690+00:00
+1640045796,2026-11-12 23:00:00+00:00,Brazil - Novo Basquete Brasil,Botafogo,Franca Basquetbol Clube,total,158.0,,,,1.8547,1.885,2026-11-11 14:21:08.875690+00:00
+1639975093,2026-11-11 16:00:00+00:00,Europe - Eurocup,Bahcesehir Koleji,BC Lietkabelis Panevezys,moneyline,,1.057,8.71,,,,2026-11-11 14:21:08.875690+00:00
+1639975093,2026-11-11 16:00:00+00:00,Europe - Eurocup,Bahcesehir Koleji,BC Lietkabelis Panevezys,spread,-15.0,1.8333,1.9901,,,,2026-11-11 14:21:08.875690+00:00
+1639975093,2026-11-11 16:00:00+00:00,Europe - Eurocup,Bahcesehir Koleji,BC Lietkabelis Panevezys,total,165.0,,,,1.8772,1.9434,2026-11-11 14:21:08.875690+00:00
+1639986855,2026-11-12 00:30:00+00:00,Uruguay - Liga,CA Penarol,Aguada,moneyline,,1.1014,5.35,,,,2026-11-11 14:21:08.875690+00:00
+1639986855,2026-11-12 00:30:00+00:00,Uruguay - Liga,CA Penarol,Aguada,spread,-12.5,1.8621,1.8772,,,,2026-11-11 14:21:08.875690+00:00
+1639986855,2026-11-12 00:30:00+00:00,Uruguay - Liga,CA Penarol,Aguada,total,166.0,,,,1.9009,1.8403,2026-11-11 14:21:08.875690+00:00
+1639984831,2026-11-11 19:11:00+00:00,NCAA,UC Davis,Incarnate Word,moneyline,,1.1305,6.31,,,,2026-11-11 14:21:08.875690+00:00
+1639984831,2026-11-11 19:11:00+00:00,NCAA,UC Davis,Incarnate Word,spread,-11.5,1.9174,1.9174,,,,2026-11-11 14:21:08.875690+00:00
+1639984831,2026-11-11 19:11:00+00:00,NCAA,UC Davis,Incarnate Word,total,145.5,,,,1.9009,1.9009,2026-11-11 14:21:08.875690+00:00
+1639979728,2026-11-11 17:00:00+00:00,Hungary - Nemzeti Bajnoksag I.A,NKA Universitas Pecs,Phoenix MT Fot,moneyline,,1.6289,2.19,,,,2026-11-11 14:21:08.875690+00:00
+1639979728,2026-11-11 17:00:00+00:00,Hungary - Nemzeti Bajnoksag I.A,NKA Universitas Pecs,Phoenix MT Fot,spread,-3.0,1.885,1.8547,,,,2026-11-11 14:21:08.875690+00:00
+1639979728,2026-11-11 17:00:00+00:00,Hungary - Nemzeti Bajnoksag I.A,NKA Universitas Pecs,Phoenix MT Fot,total,164.5,,,,1.885,1.8547,2026-11-11 14:21:08.875690+00:00
+1640045768,2026-11-12 19:15:00+00:00,Iceland - Premier League,Valur Reykjavik,Alftanes,moneyline,,2.54,1.4149,,,,2026-11-11 14:21:08.875690+00:00
+1640045768,2026-11-12 19:15:00+00:00,Iceland - Premier League,Valur Reykjavik,Alftanes,spread,6.0,1.8065,1.8547,,,,2026-11-11 14:21:08.875690+00:00
+1640045768,2026-11-12 19:15:00+00:00,Iceland - Premier League,Valur Reykjavik,Alftanes,total,183.5,,,,1.8772,1.7937,2026-11-11 14:21:08.875690+00:00
+1640045170,2026-11-11 22:30:00+00:00,Brazil - Campeonato Paulista,AA Sao Caetano,Assis Basket,moneyline,,2.58,1.4505,,,,2026-11-11 14:21:08.875690+00:00
+1640045170,2026-11-11 22:30:00+00:00,Brazil - Campeonato Paulista,AA Sao Caetano,Assis Basket,spread,4.5,1.8696,1.8696,,,,2026-11-11 14:21:08.875690+00:00
+1640045170,2026-11-11 22:30:00+00:00,Brazil - Campeonato Paulista,AA Sao Caetano,Assis Basket,total,139.5,,,,1.8696,1.8696,2026-11-11 14:21:08.875690+00:00
+1639984859,2026-11-12 19:15:00+00:00,Europe - Euroleague,Olympiakos BC,BC Dubai,moneyline,,1.3968,2.97,,,,2026-11-11 14:21:08.875690+00:00
+1639984859,2026-11-12 19:15:00+00:00,Europe - Euroleague,Olympiakos BC,BC Dubai,spread,-5.5,1.9009,1.9009,,,,2026-11-11 14:21:08.875690+00:00
+1639984859,2026-11-12 19:15:00+00:00,Europe - Euroleague,Olympiakos BC,BC Dubai,total,170.5,,,,1.9009,1.9009,2026-11-11 14:21:08.875690+00:00
+1639982170,2026-11-12 00:00:00+00:00,NCAA,South Carolina,St. Peter's,spread,-22.5,1.9524,1.9009,,,,2026-11-11 14:21:08.875690+00:00
+1639982170,2026-11-12 00:00:00+00:00,NCAA,South Carolina,St. Peter's,total,126.0,,,,1.8696,1.9524,2026-11-11 14:21:08.875690+00:00
+1640045204,2026-11-12 23:00:00+00:00,Brazil - Novo Basquete Brasil,Corinthians Paulista,EC Pinheiros SP,moneyline,,2.19,1.6211,,,,2026-11-11 14:21:08.875690+00:00
+1640045204,2026-11-12 23:00:00+00:00,Brazil - Novo Basquete Brasil,Corinthians Paulista,EC Pinheiros SP,spread,2.5,1.9434,1.8065,,,,2026-11-11 14:21:08.875690+00:00
+1640045204,2026-11-12 23:00:00+00:00,Brazil - Novo Basquete Brasil,Corinthians Paulista,EC Pinheiros SP,total,160.5,,,,1.8696,1.8696,2026-11-11 14:21:08.875690+00:00
+1640031513,2026-11-12 15:00:00+00:00,Qatar - Basketball League,Al Sadd,AL Shamal,moneyline,,1.216,3.41,,,,2026-11-11 14:21:08.875690+00:00
+1640031513,2026-11-12 15:00:00+00:00,Qatar - Basketball League,Al Sadd,AL Shamal,spread,-8.5,1.8475,1.8197,,,,2026-11-11 14:21:08.875690+00:00
+1640031513,2026-11-12 15:00:00+00:00,Qatar - Basketball League,Al Sadd,AL Shamal,total,164.0,,,,1.8475,1.8197,2026-11-11 14:21:08.875690+00:00
+1639984867,2026-11-11 22:15:00+00:00,Uruguay - Liga,Defensor Sporting,CS Larranaga,moneyline,,1.0804,5.92,,,,2026-11-11 14:21:08.875690+00:00
+1639984867,2026-11-11 22:15:00+00:00,Uruguay - Liga,Defensor Sporting,CS Larranaga,spread,-12.5,1.9346,1.8065,,,,2026-11-11 14:21:08.875690+00:00
+1639984867,2026-11-11 22:15:00+00:00,Uruguay - Liga,Defensor Sporting,CS Larranaga,total,161.5,,,,1.8772,1.8621,2026-11-11 14:21:08.875690+00:00
+1640148918,2026-11-12 00:30:00+00:00,NCAA,Sam Houston State,Pepperdine,moneyline,,2.33,1.6289,,,,2026-11-11 14:21:08.875690+00:00
+1640148918,2026-11-12 00:30:00+00:00,NCAA,Sam Houston State,Pepperdine,spread,3.0,1.9615,1.8772,,,,2026-11-11 14:21:08.875690+00:00
+1640148918,2026-11-12 00:30:00+00:00,NCAA,Sam Houston State,Pepperdine,total,160.5,,,,1.8696,1.9346,2026-11-11 14:21:08.875690+00:00
+1640031657,2026-11-12 17:00:00+00:00,Lithuania - National Basketball League,BC Jurbarkas-Karys,Plunge Olimpas,moneyline,,1.2469,3.22,,,,2026-11-11 14:21:08.875690+00:00
+1640031657,2026-11-12 17:00:00+00:00,Lithuania - National Basketball League,BC Jurbarkas-Karys,Plunge Olimpas,spread,-7.0,1.8197,1.8475,,,,2026-11-11 14:21:08.875690+00:00
+1640031657,2026-11-12 17:00:00+00:00,Lithuania - National Basketball League,BC Jurbarkas-Karys,Plunge Olimpas,total,163.5,,,,1.8403,1.8264,2026-11-11 14:21:08.875690+00:00
+1640180460,2026-11-14 11:00:00+00:00,ABA - Adriatic League,Universitatea Cluj Napoca,KD Ilirija,moneyline,,1.1404,5.33,,,,2026-11-11 14:21:08.875690+00:00
+1640180460,2026-11-14 11:00:00+00:00,ABA - Adriatic League,Universitatea Cluj Napoca,KD Ilirija,spread,-10.0,1.8696,1.9524,,,,2026-11-11 14:21:08.875690+00:00
+1640180460,2026-11-14 11:00:00+00:00,ABA - Adriatic League,Universitatea Cluj Napoca,KD Ilirija,total,174.0,,,,1.9434,1.8772,2026-11-11 14:21:08.875690+00:00
+1639999796,2026-11-12 10:35:00+00:00,Japan - B.League Premier,Ryukyu Golden Kings,Sunrockers Shibuya,moneyline,,3.14,1.3344,,,,2026-11-11 14:21:08.875690+00:00
+1639999796,2026-11-12 10:35:00+00:00,Japan - B.League Premier,Ryukyu Golden Kings,Sunrockers Shibuya,spread,7.5,1.7937,2.0,,,,2026-11-11 14:21:08.875690+00:00
+1639999796,2026-11-12 10:35:00+00:00,Japan - B.League Premier,Ryukyu Golden Kings,Sunrockers Shibuya,total,168.0,,,,1.8621,1.9259,2026-11-11 14:21:08.875690+00:00
+1640270702,2026-11-11 19:30:00+00:00,Italy - Serie B,Ravenna Piero Manetti,Virtus Roma,moneyline,,3.39,1.2198,,,,2026-11-11 14:21:08.875690+00:00
+1640270702,2026-11-11 19:30:00+00:00,Italy - Serie B,Ravenna Piero Manetti,Virtus Roma,spread,7.5,1.8772,1.7937,,,,2026-11-11 14:21:08.875690+00:00
+1640270702,2026-11-11 19:30:00+00:00,Italy - Serie B,Ravenna Piero Manetti,Virtus Roma,total,148.5,,,,1.7874,1.8772,2026-11-11 14:21:08.875690+00:00
+1640325587,2026-11-11 18:00:00+00:00,NCAA,Albany NY,Dartmouth,moneyline,,2.01,1.8333,,,,2026-11-11 14:21:08.875690+00:00
+1640325587,2026-11-11 18:00:00+00:00,NCAA,Albany NY,Dartmouth,spread,2.0,1.8333,2.01,,,,2026-11-11 14:21:08.875690+00:00
+1640325587,2026-11-11 18:00:00+00:00,NCAA,Albany NY,Dartmouth,total,139.5,,,,1.8475,1.9524,2026-11-11 14:21:08.875690+00:00
+1640045205,2026-11-12 23:00:00+00:00,Brazil - Novo Basquete Brasil,Basket Osasco,Mogi das Cruzes,moneyline,,4.24,1.1667,,,,2026-11-11 14:21:08.875690+00:00
+1640045205,2026-11-12 23:00:00+00:00,Brazil - Novo Basquete Brasil,Basket Osasco,Mogi das Cruzes,spread,15.0,1.8403,1.9009,,,,2026-11-11 14:21:08.875690+00:00
+1640045205,2026-11-12 23:00:00+00:00,Brazil - Novo Basquete Brasil,Basket Osasco,Mogi das Cruzes,total,160.5,,,,1.8621,1.8772,2026-11-11 14:21:08.875690+00:00
+1640271053,2026-11-11 19:30:00+00:00,Italy - Serie A2,Basket Mestre 1958,UEB Cividale,moneyline,,1.7692,2.07,,,,2026-11-11 14:21:08.875690+00:00
+1640271053,2026-11-11 19:30:00+00:00,Italy - Serie A2,Basket Mestre 1958,UEB Cividale,spread,-1.5,1.8547,1.9709,,,,2026-11-11 14:21:08.875690+00:00
+1640271053,2026-11-11 19:30:00+00:00,Italy - Serie A2,Basket Mestre 1958,UEB Cividale,total,150.5,,,,1.8475,1.9804,2026-11-11 14:21:08.875690+00:00
+1640324383,2026-11-12 01:00:00+00:00,NCAA,South Dakota State,Valparaiso,moneyline,,2.11,1.7692,,,,2026-11-11 14:21:08.875690+00:00
+1640324383,2026-11-12 01:00:00+00:00,NCAA,South Dakota State,Valparaiso,spread,1.5,2.01,1.8475,,,,2026-11-11 14:21:08.875690+00:00
+1640324383,2026-11-12 01:00:00+00:00,NCAA,South Dakota State,Valparaiso,total,142.5,,,,1.9091,1.9091,2026-11-11 14:21:08.875690+00:00
+1640066578,2026-11-13 08:00:00+00:00,Australia - WNBL,Geelong United,Perth Lynx,moneyline,,2.35,1.5435,,,,2026-11-11 14:21:08.875690+00:00
+1640066578,2026-11-13 08:00:00+00:00,Australia - WNBL,Geelong United,Perth Lynx,spread,4.0,1.8547,1.885,,,,2026-11-11 14:21:08.875690+00:00
+1640066578,2026-11-13 08:00:00+00:00,Australia - WNBL,Geelong United,Perth Lynx,total,165.0,,,,1.885,1.8547,2026-11-11 14:21:08.875690+00:00
+1640162264,2026-11-12 01:00:00+00:00,NCAA,North Texas,Santa Clara,moneyline,,2.29,1.6623,,,,2026-11-11 14:21:08.875690+00:00
+1640162264,2026-11-12 01:00:00+00:00,NCAA,North Texas,Santa Clara,spread,2.5,1.9901,1.8696,,,,2026-11-11 14:21:08.875690+00:00
+1640162264,2026-11-12 01:00:00+00:00,NCAA,North Texas,Santa Clara,total,151.0,,,,1.9091,1.9091,2026-11-11 14:21:08.875690+00:00
+1639971981,2026-11-11 17:30:00+00:00,FIBA - Europe Cup,Iraklis 2022,KK MZT Skopje Aerodrom,moneyline,,1.0289,12.27,,,,2026-11-11 14:21:08.875690+00:00
+1639971981,2026-11-11 17:30:00+00:00,FIBA - Europe Cup,Iraklis 2022,KK MZT Skopje Aerodrom,spread,-20.0,1.8696,1.9524,,,,2026-11-11 14:21:08.875690+00:00
+1639971981,2026-11-11 17:30:00+00:00,FIBA - Europe Cup,Iraklis 2022,KK MZT Skopje Aerodrom,total,159.5,,,,1.9009,1.9174,2026-11-11 14:21:08.875690+00:00
+1639979724,2026-11-11 17:00:00+00:00,Czech Republic - NBL,BK Decin,BK Pardubice,moneyline,,3.73,1.2165,,,,2026-11-11 14:21:08.875690+00:00
+1639979724,2026-11-11 17:00:00+00:00,Czech Republic - NBL,BK Decin,BK Pardubice,spread,8.0,1.9091,1.8333,,,,2026-11-11 14:21:08.875690+00:00
+1639979724,2026-11-11 17:00:00+00:00,Czech Republic - NBL,BK Decin,BK Pardubice,total,167.0,,,,1.8475,1.8929,2026-11-11 14:21:08.875690+00:00
+1639982168,2026-11-12 00:00:00+00:00,NCAA,Florida Atlantic,William & Mary,moneyline,,1.4717,2.79,,,,2026-11-11 14:21:08.875690+00:00
+1639982168,2026-11-12 00:00:00+00:00,NCAA,Florida Atlantic,William & Mary,spread,-5.0,1.9524,1.9009,,,,2026-11-11 14:21:08.875690+00:00
+1639982168,2026-11-12 00:00:00+00:00,NCAA,Florida Atlantic,William & Mary,total,166.5,,,,1.9091,1.9091,2026-11-11 14:21:08.875690+00:00
+1639936022,2026-11-12 00:10:00+00:00,NBA,Indiana Pacers,Washington Wizards,moneyline,,1.7092,2.27,,,,2026-11-11 14:21:08.875690+00:00
+1639936022,2026-11-12 00:10:00+00:00,NBA,Indiana Pacers,Washington Wizards,spread,-3.0,1.9804,1.9259,,,,2026-11-11 14:21:08.875690+00:00
+1639936022,2026-11-12 00:10:00+00:00,NBA,Indiana Pacers,Washington Wizards,total,228.0,,,,1.9259,1.9615,2026-11-11 14:21:08.875690+00:00
+1639971943,2026-11-11 16:30:00+00:00,FIBA - Europe Cup,Korfez Basket,BC Kalev/Cramo,moneyline,,1.0595,8.52,,,,2026-11-11 14:21:08.875690+00:00
+1639971943,2026-11-11 16:30:00+00:00,FIBA - Europe Cup,Korfez Basket,BC Kalev/Cramo,spread,-15.5,1.8772,1.9434,,,,2026-11-11 14:21:08.875690+00:00
+1639971943,2026-11-11 16:30:00+00:00,FIBA - Europe Cup,Korfez Basket,BC Kalev/Cramo,total,165.0,,,,1.885,1.9346,2026-11-11 14:21:08.875690+00:00
+1640066628,2026-11-13 11:00:00+00:00,Israel - National League,Maccabi Petah Tikva,Elitzur Yavne,moneyline,,1.2451,3.23,,,,2026-11-11 14:21:08.875690+00:00
+1640066628,2026-11-13 11:00:00+00:00,Israel - National League,Maccabi Petah Tikva,Elitzur Yavne,spread,-7.0,1.8,1.8621,,,,2026-11-11 14:21:08.875690+00:00
+1640066628,2026-11-13 11:00:00+00:00,Israel - National League,Maccabi Petah Tikva,Elitzur Yavne,total,171.5,,,,1.8403,1.8264,2026-11-11 14:21:08.875690+00:00
+1640294192,2026-11-12 20:00:00+00:00,Italy - Serie B,Allianz Pazienza San Severo,Pelle Livorno,moneyline,,3.1,1.2681,,,,2026-11-11 14:21:08.875690+00:00
+1640294192,2026-11-12 20:00:00+00:00,Italy - Serie B,Allianz Pazienza San Severo,Pelle Livorno,spread,6.5,1.885,1.7812,,,,2026-11-11 14:21:08.875690+00:00
+1640294192,2026-11-12 20:00:00+00:00,Italy - Serie B,Allianz Pazienza San Severo,Pelle Livorno,total,158.0,,,,1.8621,1.8065,2026-11-11 14:21:08.875690+00:00
+1639979736,2026-11-11 17:30:00+00:00,Hungary - Nemzeti Bajnoksag I.A,Debreceni EAC,Atomeromu SE,moneyline,,5.35,1.1013,,,,2026-11-11 14:21:08.875690+00:00
+1639979736,2026-11-11 17:30:00+00:00,Hungary - Nemzeti Bajnoksag I.A,Debreceni EAC,Atomeromu SE,spread,11.5,1.8772,1.8547,,,,2026-11-11 14:21:08.875690+00:00
+1639979736,2026-11-11 17:30:00+00:00,Hungary - Nemzeti Bajnoksag I.A,Debreceni EAC,Atomeromu SE,total,177.5,,,,1.8547,1.885,2026-11-11 14:21:08.875690+00:00
+1639986818,2026-11-12 02:10:00+00:00,NBA,Utah Jazz,Orlando Magic,moneyline,,2.41,1.625,,,,2026-11-11 14:21:08.875690+00:00
+1639986818,2026-11-12 02:10:00+00:00,NBA,Utah Jazz,Orlando Magic,spread,3.5,1.9615,1.9259,,,,2026-11-11 14:21:08.875690+00:00
+1639986818,2026-11-12 02:10:00+00:00,NBA,Utah Jazz,Orlando Magic,total,215.5,,,,1.9901,1.8772,2026-11-11 14:21:08.875690+00:00
+1639979764,2026-11-11 18:00:00+00:00,FIBA - Europe Cup,Rilski Sportist,Sporting Cp,moneyline,,2.61,1.4926,,,,2026-11-11 14:21:08.875690+00:00
+1639979764,2026-11-11 18:00:00+00:00,FIBA - Europe Cup,Rilski Sportist,Sporting Cp,spread,4.5,1.8929,1.9259,,,,2026-11-11 14:21:08.875690+00:00
+1639979764,2026-11-11 18:00:00+00:00,FIBA - Europe Cup,Rilski Sportist,Sporting Cp,total,157.5,,,,1.8403,1.9804,2026-11-11 14:21:08.875690+00:00
+1640137723,2026-11-12 20:00:00+00:00,Argentina - La Liga Proximo,AD Atenas Cordoba,San Lorenzo de Almagro,moneyline,,1.1548,3.59,,,,2026-11-11 14:21:08.875690+00:00
+1640137723,2026-11-12 20:00:00+00:00,Argentina - La Liga Proximo,AD Atenas Cordoba,San Lorenzo de Almagro,spread,-8.5,1.7752,1.8264,,,,2026-11-11 14:21:08.875690+00:00
+1640137723,2026-11-12 20:00:00+00:00,Argentina - La Liga Proximo,AD Atenas Cordoba,San Lorenzo de Almagro,total,142.0,,,,1.7299,1.8772,2026-11-11 14:21:08.875690+00:00
+1640294239,2026-11-11 19:30:00+00:00,Italy - Serie B,Treviglio Brianza,Civitus Allianz Vicenza,moneyline,,1.1546,3.94,,,,2026-11-11 14:21:08.875690+00:00
+1640294239,2026-11-11 19:30:00+00:00,Italy - Serie B,Treviglio Brianza,Civitus Allianz Vicenza,spread,-9.5,1.8264,1.8403,,,,2026-11-11 14:21:08.875690+00:00
+1640294239,2026-11-11 19:30:00+00:00,Italy - Serie B,Treviglio Brianza,Civitus Allianz Vicenza,total,148.5,,,,1.8264,1.8403,2026-11-11 14:21:08.875690+00:00
+1639999750,2026-11-12 08:00:00+00:00,Australia - WNBL,Tasmania Jewels,Southside Flyers,moneyline,,1.7299,2.03,,,,2026-11-11 14:21:08.875690+00:00
+1639999750,2026-11-12 08:00:00+00:00,Australia - WNBL,Tasmania Jewels,Southside Flyers,spread,-2.0,1.9615,1.7874,,,,2026-11-11 14:21:08.875690+00:00
+1639999750,2026-11-12 08:00:00+00:00,Australia - WNBL,Tasmania Jewels,Southside Flyers,total,165.0,,,,1.9091,1.8333,2026-11-11 14:21:08.875690+00:00
+1640013980,2026-11-12 16:30:00+00:00,Finland - Division 1,Lappeenrannan NMKY,Pyrinto Akatemia A,moneyline,,1.6098,2.12,,,,2026-11-11 14:21:08.875690+00:00
+1640013980,2026-11-12 16:30:00+00:00,Finland - Division 1,Lappeenrannan NMKY,Pyrinto Akatemia A,spread,-2.5,1.8264,1.8403,,,,2026-11-11 14:21:08.875690+00:00
+1640013980,2026-11-12 16:30:00+00:00,Finland - Division 1,Lappeenrannan NMKY,Pyrinto Akatemia A,total,155.0,,,,1.8333,1.8333,2026-11-11 14:21:08.875690+00:00
+1640031643,2026-11-12 16:05:00+00:00,Lithuania - National Basketball League,Atletas,Omega-Tauras,moneyline,,5.65,1.0582,,,,2026-11-11 14:21:08.875690+00:00
+1640031643,2026-11-12 16:05:00+00:00,Lithuania - National Basketball League,Atletas,Omega-Tauras,spread,13.0,1.7812,1.8929,,,,2026-11-11 14:21:08.875690+00:00
+1640031643,2026-11-12 16:05:00+00:00,Lithuania - National Basketball League,Atletas,Omega-Tauras,total,175.0,,,,1.8333,1.8333,2026-11-11 14:21:08.875690+00:00
+1640001179,2026-11-12 10:05:00+00:00,Japan - B.League Premier,Shiga Lake Stars,Chiba Jets Funabashi,moneyline,,1.7634,2.04,,,,2026-11-11 14:21:08.875690+00:00
+1640001179,2026-11-12 10:05:00+00:00,Japan - B.League Premier,Shiga Lake Stars,Chiba Jets Funabashi,spread,-1.5,1.8333,1.9615,,,,2026-11-11 14:21:08.875690+00:00
+1640001179,2026-11-12 10:05:00+00:00,Japan - B.League Premier,Shiga Lake Stars,Chiba Jets Funabashi,total,182.0,,,,1.8621,1.9259,2026-11-11 14:21:08.875690+00:00
+1640329779,2026-11-11 20:00:00+00:00,Italy - Serie B,Basket Golfo Piombino,SS Felice Scandone,moneyline,,1.8621,1.8065,,,,2026-11-11 14:21:08.875690+00:00
+1640329779,2026-11-11 20:00:00+00:00,Italy - Serie B,Basket Golfo Piombino,SS Felice Scandone,spread,1.5,1.7812,1.8929,,,,2026-11-11 14:21:08.875690+00:00
+1640329779,2026-11-11 20:00:00+00:00,Italy - Serie B,Basket Golfo Piombino,SS Felice Scandone,total,151.5,,,,1.8403,1.8264,2026-11-11 14:21:08.875690+00:00
+1639979789,2026-11-11 19:30:00+00:00,Europe - Champions League,UCAM Murcia,Brose Bamberg,moneyline,,1.0669,9.35,,,,2026-11-11 14:21:08.875690+00:00
+1639979789,2026-11-11 19:30:00+00:00,Europe - Champions League,UCAM Murcia,Brose Bamberg,spread,-15.5,1.8264,1.9901,,,,2026-11-11 14:21:08.875690+00:00
+1639979789,2026-11-11 19:30:00+00:00,Europe - Champions League,UCAM Murcia,Brose Bamberg,total,165.5,,,,1.8475,1.9615,2026-11-11 14:21:08.875690+00:00
+1640270589,2026-11-11 19:30:00+00:00,Italy - Serie A2,Pallacanestro 2.015 Forli,Rinascita Basket Rimini,moneyline,,2.28,1.641,,,,2026-11-11 14:21:08.875690+00:00
+1640270589,2026-11-11 19:30:00+00:00,Italy - Serie A2,Pallacanestro 2.015 Forli,Rinascita Basket Rimini,spread,3.0,1.8929,1.9174,,,,2026-11-11 14:21:08.875690+00:00
+1640270589,2026-11-11 19:30:00+00:00,Italy - Serie A2,Pallacanestro 2.015 Forli,Rinascita Basket Rimini,total,158.5,,,,1.8333,1.9901,2026-11-11 14:21:08.875690+00:00
+1639975151,2026-11-11 18:00:00+00:00,Norway - BLNO,Kongsberg Miners,TNT Towers,spread,-42.5,1.8696,1.8696,,,,2026-11-11 14:21:08.875690+00:00
+1639975151,2026-11-11 18:00:00+00:00,Norway - BLNO,Kongsberg Miners,TNT Towers,total,178.5,,,,1.8264,1.9174,2026-11-11 14:21:08.875690+00:00
+1640325414,2026-11-12 09:00:00+00:00,Philippines - NCAA,UPHSD Altas,San Sebastian Golden Stags,moneyline,,1.1383,3.74,,,,2026-11-11 14:21:08.875690+00:00
+1640325414,2026-11-12 09:00:00+00:00,Philippines - NCAA,UPHSD Altas,San Sebastian Golden Stags,spread,-9.0,1.8772,1.7299,,,,2026-11-11 14:21:08.875690+00:00
+1640325414,2026-11-12 09:00:00+00:00,Philippines - NCAA,UPHSD Altas,San Sebastian Golden Stags,total,151.0,,,,1.8621,1.7407,2026-11-11 14:21:08.875690+00:00
+1640324175,2026-11-12 01:00:00+00:00,NCAA,Houston,Jacksonville State,spread,-36.0,1.9174,1.9346,,,,2026-11-11 14:21:08.875690+00:00
+1640324175,2026-11-12 01:00:00+00:00,NCAA,Houston,Jacksonville State,total,136.0,,,,1.9091,1.9091,2026-11-11 14:21:08.875690+00:00
+1639971982,2026-11-11 17:30:00+00:00,Europe - Champions League,Rytas Vilnius,Nanterre,moneyline,,1.4505,2.83,,,,2026-11-11 14:21:08.875690+00:00
+1639971982,2026-11-11 17:30:00+00:00,Europe - Champions League,Rytas Vilnius,Nanterre,spread,-5.0,1.9009,1.9346,,,,2026-11-11 14:21:08.875690+00:00
+1639971982,2026-11-11 17:30:00+00:00,Europe - Champions League,Rytas Vilnius,Nanterre,total,170.0,,,,1.9091,1.9259,2026-11-11 14:21:08.875690+00:00
+1640284058,2026-11-12 19:30:00+00:00,Italy - Serie B,Luiss Roma,Psa Sant Antimo,moneyline,,1.8772,1.7874,,,,2026-11-11 14:21:08.875690+00:00
+1640284058,2026-11-12 19:30:00+00:00,Italy - Serie B,Luiss Roma,Psa Sant Antimo,spread,-1.0,1.9174,1.7519,,,,2026-11-11 14:21:08.875690+00:00
+1640284058,2026-11-12 19:30:00+00:00,Italy - Serie B,Luiss Roma,Psa Sant Antimo,total,154.0,,,,1.8333,1.8333,2026-11-11 14:21:08.875690+00:00
+1640181719,2026-11-11 19:30:00+00:00,Italy - Serie B,UCC Assigeco Piacenza,Fulgor Omegna Basket,moneyline,,1.2525,3.19,,,,2026-11-11 14:21:08.875690+00:00
+1640181719,2026-11-11 19:30:00+00:00,Italy - Serie B,UCC Assigeco Piacenza,Fulgor Omegna Basket,spread,-6.5,1.8,1.8696,,,,2026-11-11 14:21:08.875690+00:00
+1640181719,2026-11-11 19:30:00+00:00,Italy - Serie B,UCC Assigeco Piacenza,Fulgor Omegna Basket,total,150.0,,,,1.8197,1.8475,2026-11-11 14:21:08.875690+00:00
+1640331043,2026-11-12 00:30:00+00:00,Argentina - La Liga,Bartolome Mitre de Posadas,Sportivo Suardi,moneyline,,2.11,1.6135,,,,2026-11-11 14:21:08.875690+00:00
+1640331043,2026-11-12 00:30:00+00:00,Argentina - La Liga,Bartolome Mitre de Posadas,Sportivo Suardi,spread,3.0,1.813,1.8547,,,,2026-11-11 14:21:08.875690+00:00
+1640331043,2026-11-12 00:30:00+00:00,Argentina - La Liga,Bartolome Mitre de Posadas,Sportivo Suardi,total,155.5,,,,1.8403,1.8264,2026-11-11 14:21:08.875690+00:00
+1639984895,2026-11-12 00:00:00+00:00,NCAA,East Tenn State,Campbell,moneyline,,1.4651,2.81,,,,2026-11-11 14:21:08.875690+00:00
+1639984895,2026-11-12 00:00:00+00:00,NCAA,East Tenn State,Campbell,spread,-4.5,1.9009,1.9524,,,,2026-11-11 14:21:08.875690+00:00
+1639984895,2026-11-12 00:00:00+00:00,NCAA,East Tenn State,Campbell,total,144.0,,,,1.8772,1.9434,2026-11-11 14:21:08.875690+00:00
+1640162127,2026-11-12 01:00:00+00:00,NCAA,Arkansas,Robert Morris,spread,-31.5,1.9259,1.9259,,,,2026-11-11 14:21:08.875690+00:00
+1640162127,2026-11-12 01:00:00+00:00,NCAA,Arkansas,Robert Morris,total,158.5,,,,1.9091,1.9091,2026-11-11 14:21:08.875690+00:00
+1639975160,2026-11-11 18:00:00+00:00,FIBA - Europe Cup,Baskets Wurzburg,AEK Larnaca,moneyline,,1.1295,5.58,,,,2026-11-11 14:21:08.875690+00:00
+1639975160,2026-11-11 18:00:00+00:00,FIBA - Europe Cup,Baskets Wurzburg,AEK Larnaca,spread,-11.5,1.9524,1.8696,,,,2026-11-11 14:21:08.875690+00:00
+1639975160,2026-11-11 18:00:00+00:00,FIBA - Europe Cup,Baskets Wurzburg,AEK Larnaca,total,160.5,,,,1.9009,1.9174,2026-11-11 14:21:08.875690+00:00
+1640085542,2026-11-13 17:30:00+00:00,ABA - Adriatic League,KK Cibona,KK FMP Beograd,moneyline,,1.7143,2.15,,,,2026-11-11 14:21:08.875690+00:00
+1640085542,2026-11-13 17:30:00+00:00,ABA - Adriatic League,KK Cibona,KK FMP Beograd,spread,-2.5,1.9259,1.8929,,,,2026-11-11 14:21:08.875690+00:00
+1640085542,2026-11-13 17:30:00+00:00,ABA - Adriatic League,KK Cibona,KK FMP Beograd,total,169.5,,,,1.9434,1.8772,2026-11-11 14:21:08.875690+00:00
+1640270595,2026-11-11 20:00:00+00:00,Italy - Serie A2,Elachem Vigevano 1955,Tecnoswitch Ruvo di Puglia,moneyline,,1.4329,2.81,,,,2026-11-11 14:21:08.875690+00:00
+1640270595,2026-11-11 20:00:00+00:00,Italy - Serie A2,Elachem Vigevano 1955,Tecnoswitch Ruvo di Puglia,spread,-5.0,1.9091,1.9091,,,,2026-11-11 14:21:08.875690+00:00
+1640270595,2026-11-11 20:00:00+00:00,Italy - Serie A2,Elachem Vigevano 1955,Tecnoswitch Ruvo di Puglia,total,159.0,,,,1.885,1.9346,2026-11-11 14:21:08.875690+00:00
+1640295256,2026-11-12 01:15:00+00:00,El Salvador - Liga Mayor de Baloncesto,Metapan,Brujos de Izalco BC,moneyline,,1.0239,5.99,,,,2026-11-11 14:21:08.875690+00:00
+1640295256,2026-11-12 01:15:00+00:00,El Salvador - Liga Mayor de Baloncesto,Metapan,Brujos de Izalco BC,spread,-15.5,1.7463,1.8547,,,,2026-11-11 14:21:08.875690+00:00
+1640295256,2026-11-12 01:15:00+00:00,El Salvador - Liga Mayor de Baloncesto,Metapan,Brujos de Izalco BC,total,175.5,,,,1.8065,1.7937,2026-11-11 14:21:08.875690+00:00
+1639979794,2026-11-11 19:45:00+00:00,Europe - ENBL,Bristol Flyers,KK Furnir Dubrava,moneyline,,1.1661,3.82,,,,2026-11-11 14:21:08.875690+00:00
+1639979794,2026-11-11 19:45:00+00:00,Europe - ENBL,Bristol Flyers,KK Furnir Dubrava,spread,-8.0,1.8,1.8696,,,,2026-11-11 14:21:08.875690+00:00
+1639979794,2026-11-11 19:45:00+00:00,Europe - ENBL,Bristol Flyers,KK Furnir Dubrava,total,160.0,,,,1.8333,1.8333,2026-11-11 14:21:08.875690+00:00
+1640031540,2026-11-12 17:00:00+00:00,Lithuania - National Basketball League,Ukmerges Stekas,Vilnius Rytas-2,moneyline,,1.565,2.19,,,,2026-11-11 14:21:08.875690+00:00
+1640031540,2026-11-12 17:00:00+00:00,Lithuania - National Basketball League,Ukmerges Stekas,Vilnius Rytas-2,spread,-3.0,1.8547,1.8065,,,,2026-11-11 14:21:08.875690+00:00
+1640031540,2026-11-12 17:00:00+00:00,Lithuania - National Basketball League,Ukmerges Stekas,Vilnius Rytas-2,total,166.5,,,,1.8929,1.7752,2026-11-11 14:21:08.875690+00:00
+1639979727,2026-11-11 17:00:00+00:00,Hungary - Nemzeti Bajnoksag I.A,Kormend,Kaposvari KK,moneyline,,2.4,1.5236,,,,2026-11-11 14:21:08.875690+00:00
+1639979727,2026-11-11 17:00:00+00:00,Hungary - Nemzeti Bajnoksag I.A,Kormend,Kaposvari KK,spread,3.5,1.9259,1.8197,,,,2026-11-11 14:21:08.875690+00:00
+1639979727,2026-11-11 17:00:00+00:00,Hungary - Nemzeti Bajnoksag I.A,Kormend,Kaposvari KK,total,181.0,,,,1.9091,1.8333,2026-11-11 14:21:08.875690+00:00
+1640148938,2026-11-12 03:00:00+00:00,NCAA,Oregon,Mississippi Valley State,spread,-37.0,1.9174,1.9174,,,,2026-11-11 14:21:08.875690+00:00
+1640148938,2026-11-12 03:00:00+00:00,NCAA,Oregon,Mississippi Valley State,total,149.0,,,,1.9009,1.9009,2026-11-11 14:21:08.875690+00:00
+1640295269,2026-11-12 01:15:00+00:00,El Salvador - Liga Mayor de Baloncesto,Cojute,Aguila San Miguel,moneyline,,1.2174,3.16,,,,2026-11-11 14:21:08.875690+00:00
+1640295269,2026-11-12 01:15:00+00:00,El Salvador - Liga Mayor de Baloncesto,Cojute,Aguila San Miguel,spread,-7.5,1.7634,1.8333,,,,2026-11-11 14:21:08.875690+00:00
+1640295269,2026-11-12 01:15:00+00:00,El Salvador - Liga Mayor de Baloncesto,Cojute,Aguila San Miguel,total,149.5,,,,1.7874,1.813,2026-11-11 14:21:08.875690+00:00
+1639979781,2026-11-11 19:00:00+00:00,Europe - Eurocup,Le Mans Sarthe Basket,CB San Pablo Burgos,moneyline,,1.2155,4.17,,,,2026-11-11 14:21:08.875690+00:00
+1639979781,2026-11-11 19:00:00+00:00,Europe - Eurocup,Le Mans Sarthe Basket,CB San Pablo Burgos,spread,-9.5,1.9804,1.8403,,,,2026-11-11 14:21:08.875690+00:00
+1639979781,2026-11-11 19:00:00+00:00,Europe - Eurocup,Le Mans Sarthe Basket,CB San Pablo Burgos,total,168.0,,,,1.9091,1.9091,2026-11-11 14:21:08.875690+00:00
+1640291799,2026-11-12 23:45:00+00:00,Uruguay - Tercera de Ascenso,Capurro,Defensores de Maronas,moneyline,,1.0393,6.39,,,,2026-11-11 14:21:08.875690+00:00
+1640291799,2026-11-12 23:45:00+00:00,Uruguay - Tercera de Ascenso,Capurro,Defensores de Maronas,spread,-14.5,1.813,1.8547,,,,2026-11-11 14:21:08.875690+00:00
+1640291799,2026-11-12 23:45:00+00:00,Uruguay - Tercera de Ascenso,Capurro,Defensores de Maronas,total,163.5,,,,1.8333,1.8333,2026-11-11 14:21:08.875690+00:00
+1640272526,2026-11-11 19:30:00+00:00,Italy - Serie B,Ferrara Basket 2018,Fortitudo Agrigento,moneyline,,1.4975,2.33,,,,2026-11-11 14:21:08.875690+00:00
+1640272526,2026-11-11 19:30:00+00:00,Italy - Serie B,Ferrara Basket 2018,Fortitudo Agrigento,spread,-4.5,1.9091,1.7634,,,,2026-11-11 14:21:08.875690+00:00
+1640272526,2026-11-11 19:30:00+00:00,Italy - Serie B,Ferrara Basket 2018,Fortitudo Agrigento,total,145.5,,,,1.8333,1.8333,2026-11-11 14:21:08.875690+00:00
+1640162137,2026-11-12 02:00:00+00:00,NCAA,Nebraska,Lindenwood,spread,-34.5,1.9346,1.9174,,,,2026-11-11 14:21:08.875690+00:00
+1640162137,2026-11-12 02:00:00+00:00,NCAA,Nebraska,Lindenwood,total,151.0,,,,1.9434,1.8772,2026-11-11 14:21:08.875690+00:00
+1640031658,2026-11-12 17:00:00+00:00,Lithuania - National Basketball League,Kedainiu SC,Neptunas-Akvaservis Klaipeda,moneyline,,3.3,1.2326,,,,2026-11-11 14:21:08.875690+00:00
+1640031658,2026-11-12 17:00:00+00:00,Lithuania - National Basketball League,Kedainiu SC,Neptunas-Akvaservis Klaipeda,spread,7.0,1.8475,1.8197,,,,2026-11-11 14:21:08.875690+00:00
+1640031658,2026-11-12 17:00:00+00:00,Lithuania - National Basketball League,Kedainiu SC,Neptunas-Akvaservis Klaipeda,total,153.5,,,,1.7576,1.9091,2026-11-11 14:21:08.875690+00:00
+1640162275,2026-11-12 02:00:00+00:00,NCAA,Colorado State,Portland State,moneyline,,1.063,10.23,,,,2026-11-11 14:21:08.875690+00:00
+1640162275,2026-11-12 02:00:00+00:00,NCAA,Colorado State,Portland State,spread,-15.0,1.9009,1.9524,,,,2026-11-11 14:21:08.875690+00:00
+1640162275,2026-11-12 02:00:00+00:00,NCAA,Colorado State,Portland State,total,151.0,,,,1.9804,1.8403,2026-11-11 14:21:08.875690+00:00
+1639904706,2026-11-11 19:45:00+00:00,Europe - Euroleague,Paris,Fenerbahce,moneyline,,3.02,1.4132,,,,2026-11-11 14:21:08.875690+00:00
+1639904706,2026-11-11 19:45:00+00:00,Europe - Euroleague,Paris,Fenerbahce,spread,5.5,1.8929,1.9615,,,,2026-11-11 14:21:08.875690+00:00
+1639904706,2026-11-11 19:45:00+00:00,Europe - Euroleague,Paris,Fenerbahce,total,174.5,,,,1.9174,1.9346,2026-11-11 14:21:08.875690+00:00
+1639982092,2026-11-11 18:00:00+00:00,FIBA - Europe Cup,Dziki Warshawa,BC Tartu,moneyline,,1.0499,9.34,,,,2026-11-11 14:21:08.875690+00:00
+1639982092,2026-11-11 18:00:00+00:00,FIBA - Europe Cup,Dziki Warshawa,BC Tartu,spread,-16.5,1.8929,1.9259,,,,2026-11-11 14:21:08.875690+00:00
+1639982092,2026-11-11 18:00:00+00:00,FIBA - Europe Cup,Dziki Warshawa,BC Tartu,total,174.5,,,,1.8475,1.9804,2026-11-11 14:21:08.875690+00:00
+1640148935,2026-11-12 02:00:00+00:00,NCAA,Grand Canyon,Cal Poly SLO,spread,-18.5,1.9524,1.9009,,,,2026-11-11 14:21:08.875690+00:00
+1640148935,2026-11-12 02:00:00+00:00,NCAA,Grand Canyon,Cal Poly SLO,total,180.5,,,,1.8403,1.9901,2026-11-11 14:21:08.875690+00:00
+1639986816,2026-11-12 01:10:00+00:00,NBA,Chicago Bulls,San Antonio Spurs,moneyline,,8.34,1.0974,,,,2026-11-11 14:21:08.875690+00:00
+1639986816,2026-11-12 01:10:00+00:00,NBA,Chicago Bulls,San Antonio Spurs,spread,14.5,2.01,1.9009,,,,2026-11-11 14:21:08.875690+00:00
+1639986816,2026-11-12 01:10:00+00:00,NBA,Chicago Bulls,San Antonio Spurs,total,239.5,,,,1.9259,1.9615,2026-11-11 14:21:08.875690+00:00
+1640291798,2026-11-12 23:45:00+00:00,Uruguay - Tercera de Ascenso,CA 25 de Agosto,Bohemios,moneyline,,1.2262,3.35,,,,2026-11-11 14:21:08.875690+00:00
+1640291798,2026-11-12 23:45:00+00:00,Uruguay - Tercera de Ascenso,CA 25 de Agosto,Bohemios,spread,-7.5,1.8333,1.8333,,,,2026-11-11 14:21:08.875690+00:00
+1640291798,2026-11-12 23:45:00+00:00,Uruguay - Tercera de Ascenso,CA 25 de Agosto,Bohemios,total,156.5,,,,1.8403,1.8264,2026-11-11 14:21:08.875690+00:00
+1640270725,2026-11-11 19:30:00+00:00,Italy - Serie A2,Pistoia Basket 2000,Juvecaserta 2021,moneyline,,1.2123,4.21,,,,2026-11-11 14:21:08.875690+00:00
+1640270725,2026-11-11 19:30:00+00:00,Italy - Serie A2,Pistoia Basket 2000,Juvecaserta 2021,spread,-8.5,1.8197,2.0,,,,2026-11-11 14:21:08.875690+00:00
+1640270725,2026-11-11 19:30:00+00:00,Italy - Serie A2,Pistoia Basket 2000,Juvecaserta 2021,total,155.5,,,,1.9174,1.9009,2026-11-11 14:21:08.875690+00:00
+1639986842,2026-11-11 23:30:00+00:00,NCAA,Temple,College of Charleston,moneyline,,2.05,1.813,,,,2026-11-11 14:21:08.875690+00:00
+1639986842,2026-11-11 23:30:00+00:00,NCAA,Temple,College of Charleston,spread,1.5,1.9524,1.9009,,,,2026-11-11 14:21:08.875690+00:00
+1639986842,2026-11-11 23:30:00+00:00,NCAA,Temple,College of Charleston,total,158.0,,,,1.9174,1.9009,2026-11-11 14:21:08.875690+00:00
+1640044262,2026-11-12 18:00:00+00:00,Denmark - Basketligaen,BMS Herlev,Svendborg Rabbits,spread,27.5,1.8772,1.8621,,,,2026-11-11 14:21:08.875690+00:00
+1640044262,2026-11-12 18:00:00+00:00,Denmark - Basketligaen,BMS Herlev,Svendborg Rabbits,total,169.0,,,,1.9524,1.7874,2026-11-11 14:21:08.875690+00:00
+1639975150,2026-11-11 18:00:00+00:00,Europe - Eurocup,Aris Thessaloniki BC,Rigas Zelli,moneyline,,1.0948,6.63,,,,2026-11-11 14:21:08.875690+00:00
+1639975150,2026-11-11 18:00:00+00:00,Europe - Eurocup,Aris Thessaloniki BC,Rigas Zelli,spread,-16.0,1.9259,1.8929,,,,2026-11-11 14:21:08.875690+00:00
+1639975150,2026-11-11 18:00:00+00:00,Europe - Eurocup,Aris Thessaloniki BC,Rigas Zelli,total,165.0,,,,1.9259,1.8929,2026-11-11 14:21:08.875690+00:00
+1639986817,2026-11-12 03:10:00+00:00,NBA,Portland Trail Blazers,Oklahoma City Thunder,moneyline,,2.05,1.8621,,,,2026-11-11 14:21:08.875690+00:00
+1639986817,2026-11-12 03:10:00+00:00,NBA,Portland Trail Blazers,Oklahoma City Thunder,spread,1.5,1.9524,1.9524,,,,2026-11-11 14:21:08.875690+00:00
+1639986817,2026-11-12 03:10:00+00:00,NBA,Portland Trail Blazers,Oklahoma City Thunder,total,224.5,,,,1.8621,2.04,2026-11-11 14:21:08.875690+00:00
+1639979750,2026-11-11 18:00:00+00:00,FIBA - Europe Cup,BC Prievidza,Denizli Basket,moneyline,,2.29,1.6329,,,,2026-11-11 14:21:08.875690+00:00
+1639979750,2026-11-11 18:00:00+00:00,FIBA - Europe Cup,BC Prievidza,Denizli Basket,spread,3.5,1.8621,1.9615,,,,2026-11-11 14:21:08.875690+00:00
+1639979750,2026-11-11 18:00:00+00:00,FIBA - Europe Cup,BC Prievidza,Denizli Basket,total,168.5,,,,1.9009,1.9174,2026-11-11 14:21:08.875690+00:00
+1639986815,2026-11-12 01:10:00+00:00,NBA,New Orleans Pelicans,Brooklyn Nets,moneyline,,1.5495,2.63,,,,2026-11-11 14:21:08.875690+00:00
+1639986815,2026-11-12 01:10:00+00:00,NBA,New Orleans Pelicans,Brooklyn Nets,spread,-4.5,1.9259,1.9804,,,,2026-11-11 14:21:08.875690+00:00
+1639986815,2026-11-12 01:10:00+00:00,NBA,New Orleans Pelicans,Brooklyn Nets,total,229.0,,,,1.9709,1.9174,2026-11-11 14:21:08.875690+00:00
+1640060292,2026-11-13 10:05:00+00:00,Japan - B.League One,Tokyo United BC,Kumamoto Volters,moneyline,,2.91,1.3086,,,,2026-11-11 14:21:08.875690+00:00
+1640060292,2026-11-13 10:05:00+00:00,Japan - B.League One,Tokyo United BC,Kumamoto Volters,spread,5.5,1.8403,1.8264,,,,2026-11-11 14:21:08.875690+00:00
+1640060292,2026-11-13 10:05:00+00:00,Japan - B.League One,Tokyo United BC,Kumamoto Volters,total,157.5,,,,1.7576,1.9174,2026-11-11 14:21:08.875690+00:00
+1640044270,2026-11-12 19:15:00+00:00,Iceland - Premier League,Stjarnan,Keflavik,moneyline,,1.4739,2.38,,,,2026-11-11 14:21:08.875690+00:00
+1640044270,2026-11-12 19:15:00+00:00,Iceland - Premier League,Stjarnan,Keflavik,spread,-4.0,1.8547,1.8065,,,,2026-11-11 14:21:08.875690+00:00
+1640044270,2026-11-12 19:15:00+00:00,Iceland - Premier League,Stjarnan,Keflavik,total,199.5,,,,1.8403,1.8264,2026-11-11 14:21:08.875690+00:00
+1639971959,2026-11-11 17:00:00+00:00,Lithuania - Cup,Nevezis,Taurage,moneyline,,1.885,1.8547,,,,2026-11-11 14:21:08.875690+00:00
+1639971959,2026-11-11 17:00:00+00:00,Lithuania - Cup,Nevezis,Taurage,spread,1.0,1.8475,1.8929,,,,2026-11-11 14:21:08.875690+00:00
+1639971959,2026-11-11 17:00:00+00:00,Lithuania - Cup,Nevezis,Taurage,total,165.5,,,,1.8621,1.8772,2026-11-11 14:21:08.875690+00:00
+1639982169,2026-11-12 00:00:00+00:00,NCAA,Norfolk State,Old Dominion,moneyline,,2.95,1.4219,,,,2026-11-11 14:21:08.875690+00:00
+1639982169,2026-11-12 00:00:00+00:00,NCAA,Norfolk State,Old Dominion,spread,5.5,1.9174,1.9174,,,,2026-11-11 14:21:08.875690+00:00
+1639982169,2026-11-12 00:00:00+00:00,NCAA,Norfolk State,Old Dominion,total,140.0,,,,1.8929,1.9091,2026-11-11 14:21:08.875690+00:00
+1640271052,2026-11-11 19:30:00+00:00,Italy - Serie A2,Benedetto XIV Cento,Juvi Cremona Ferraroni,moneyline,,1.8264,2.0,,,,2026-11-11 14:21:08.875690+00:00
+1640271052,2026-11-11 19:30:00+00:00,Italy - Serie A2,Benedetto XIV Cento,Juvi Cremona Ferraroni,spread,-2.0,1.9901,1.8403,,,,2026-11-11 14:21:08.875690+00:00
+1640271052,2026-11-11 19:30:00+00:00,Italy - Serie A2,Benedetto XIV Cento,Juvi Cremona Ferraroni,total,153.5,,,,1.9259,1.8929,2026-11-11 14:21:08.875690+00:00
+1640271054,2026-11-11 19:30:00+00:00,Italy - Serie A2,Dinamo Basket Sassari,VL Pesaro,moneyline,,1.4292,2.82,,,,2026-11-11 14:21:08.875690+00:00
+1640271054,2026-11-11 19:30:00+00:00,Italy - Serie A2,Dinamo Basket Sassari,VL Pesaro,spread,-5.0,1.9091,1.9091,,,,2026-11-11 14:21:08.875690+00:00
+1640271054,2026-11-11 19:30:00+00:00,Italy - Serie A2,Dinamo Basket Sassari,VL Pesaro,total,153.5,,,,1.8929,1.9259,2026-11-11 14:21:08.875690+00:00
+1639982147,2026-11-12 01:10:00+00:00,NBA,Milwaukee Bucks,Los Angeles Lakers,moneyline,,6.49,1.1302,,,,2026-11-11 14:21:08.875690+00:00
+1639982147,2026-11-12 01:10:00+00:00,NBA,Milwaukee Bucks,Los Angeles Lakers,spread,14.0,1.9804,1.9091,,,,2026-11-11 14:21:08.875690+00:00
+1639982147,2026-11-12 01:10:00+00:00,NBA,Milwaukee Bucks,Los Angeles Lakers,total,230.5,,,,1.9804,1.8929,2026-11-11 14:21:08.875690+00:00
+1640307561,2026-11-11 20:00:00+00:00,NCAA,St. Joseph's,South Florida,moneyline,,4.0,1.2681,,,,2026-11-11 14:21:08.875690+00:00
+1640307561,2026-11-11 20:00:00+00:00,NCAA,St. Joseph's,South Florida,spread,8.5,1.8475,2.01,,,,2026-11-11 14:21:08.875690+00:00
+1640307561,2026-11-11 20:00:00+00:00,NCAA,St. Joseph's,South Florida,total,150.5,,,,1.9009,1.9174,2026-11-11 14:21:08.875690+00:00
+1639982167,2026-11-12 00:00:00+00:00,NCAA,St. John's,Colgate,spread,-30.0,1.9091,1.9259,,,,2026-11-11 14:21:08.875690+00:00
+1639982167,2026-11-12 00:00:00+00:00,NCAA,St. John's,Colgate,total,158.5,,,,1.9009,1.9009,2026-11-11 14:21:08.875690+00:00
+1639971941,2026-11-11 16:30:00+00:00,Europe - VTB United League,Zenit St Petersburg,Samara,spread,-31.5,1.9174,1.8264,,,,2026-11-11 14:21:08.875690+00:00
+1639971941,2026-11-11 16:30:00+00:00,Europe - VTB United League,Zenit St Petersburg,Samara,total,162.0,,,,1.8547,1.885,2026-11-11 14:21:08.875690+00:00
+1639975129,2026-11-11 17:00:00+00:00,FIBA - Europe Cup,CS Universitatea Craiova,Kolossos Rhodes,moneyline,,3.07,1.3704,,,,2026-11-11 14:21:08.875690+00:00
+1639975129,2026-11-11 17:00:00+00:00,FIBA - Europe Cup,CS Universitatea Craiova,Kolossos Rhodes,spread,5.5,1.9434,1.8772,,,,2026-11-11 14:21:08.875690+00:00
+1639975129,2026-11-11 17:00:00+00:00,FIBA - Europe Cup,CS Universitatea Craiova,Kolossos Rhodes,total,166.0,,,,1.9901,1.8333,2026-11-11 14:21:08.875690+00:00
+1639979731,2026-11-11 17:30:00+00:00,FIBA - Europe Cup,Zielona Gora,Szolnoki Olaj,moneyline,,1.1437,5.26,,,,2026-11-11 14:21:08.875690+00:00
+1639979731,2026-11-11 17:30:00+00:00,FIBA - Europe Cup,Zielona Gora,Szolnoki Olaj,spread,-11.0,1.8197,2.0,,,,2026-11-11 14:21:08.875690+00:00
+1639979731,2026-11-11 17:30:00+00:00,FIBA - Europe Cup,Zielona Gora,Szolnoki Olaj,total,165.0,,,,1.8621,1.9615,2026-11-11 14:21:08.875690+00:00
+1639986853,2026-11-12 00:00:00+00:00,NCAA,St. Bonaventure,Cornell,moneyline,,1.2667,4.02,,,,2026-11-11 14:21:08.875690+00:00
+1639986853,2026-11-12 00:00:00+00:00,NCAA,St. Bonaventure,Cornell,spread,-9.0,2.01,1.8475,,,,2026-11-11 14:21:08.875690+00:00
+1639986853,2026-11-12 00:00:00+00:00,NCAA,St. Bonaventure,Cornell,total,156.0,,,,1.8929,1.9259,2026-11-11 14:21:08.875690+00:00
+1640148929,2026-11-12 01:00:00+00:00,NCAA,Abilene Christian,Stephen F. Austin,moneyline,,3.01,1.4065,,,,2026-11-11 14:21:08.875690+00:00
+1640148929,2026-11-12 01:00:00+00:00,NCAA,Abilene Christian,Stephen F. Austin,spread,6.5,1.8475,1.9901,,,,2026-11-11 14:21:08.875690+00:00
+1640148929,2026-11-12 01:00:00+00:00,NCAA,Abilene Christian,Stephen F. Austin,total,143.5,,,,1.9009,1.9009,2026-11-11 14:21:08.875690+00:00
+1640031650,2026-11-12 17:00:00+00:00,FIBA - Europe Cup,KK Parnu,Keravnos Strovolou Nicosia,moneyline,,2.17,1.6993,,,,2026-11-11 14:21:08.875690+00:00
+1640031650,2026-11-12 17:00:00+00:00,FIBA - Europe Cup,KK Parnu,Keravnos Strovolou Nicosia,spread,2.5,1.9259,1.8929,,,,2026-11-11 14:21:08.875690+00:00
+1640031650,2026-11-12 17:00:00+00:00,FIBA - Europe Cup,KK Parnu,Keravnos Strovolou Nicosia,total,157.5,,,,1.9174,1.9009,2026-11-11 14:21:08.875690+00:00
+1639979729,2026-11-11 17:00:00+00:00,Hungary - Nemzeti Bajnoksag I.A,SZTE-Szedeak,OSE Lions,moneyline,,1.3788,2.82,,,,2026-11-11 14:21:08.875690+00:00
+1639979729,2026-11-11 17:00:00+00:00,Hungary - Nemzeti Bajnoksag I.A,SZTE-Szedeak,OSE Lions,spread,-5.5,1.8696,1.8696,,,,2026-11-11 14:21:08.875690+00:00
+1639979729,2026-11-11 17:00:00+00:00,Hungary - Nemzeti Bajnoksag I.A,SZTE-Szedeak,OSE Lions,total,171.0,,,,1.8929,1.8403,2026-11-11 14:21:08.875690+00:00
+1639979723,2026-11-11 17:00:00+00:00,FIBA - Europe Cup,Nitra Blue Wings,King Wilki Morskie Szczecin,moneyline,,4.49,1.1898,,,,2026-11-11 14:21:08.875690+00:00
+1639979723,2026-11-11 17:00:00+00:00,FIBA - Europe Cup,Nitra Blue Wings,King Wilki Morskie Szczecin,spread,9.5,1.9259,1.8929,,,,2026-11-11 14:21:08.875690+00:00
+1639979723,2026-11-11 17:00:00+00:00,FIBA - Europe Cup,Nitra Blue Wings,King Wilki Morskie Szczecin,total,167.5,,,,1.9346,1.885,2026-11-11 14:21:08.875690+00:00
+1639961921,2026-11-11 14:30:00+00:00,Europe - VTB United League,Parma Perm,UNICS Kazan,moneyline,,2.51,1.4762,,,,2026-11-11 14:21:08.875690+00:00
+1639961921,2026-11-11 14:30:00+00:00,Europe - VTB United League,Parma Perm,UNICS Kazan,spread,4.5,1.8,1.9434,,,,2026-11-11 14:21:08.875690+00:00
+1639961921,2026-11-11 14:30:00+00:00,Europe - VTB United League,Parma Perm,UNICS Kazan,total,171.5,,,,1.8772,1.8621,2026-11-11 14:21:08.875690+00:00
+1640031641,2026-11-12 16:00:00+00:00,Lithuania - National Basketball League,Vytis-VDU Sakiai,Kretingos Kretinga,moneyline,,1.1473,4.01,,,,2026-11-11 14:21:08.875690+00:00
+1640031641,2026-11-12 16:00:00+00:00,Lithuania - National Basketball League,Vytis-VDU Sakiai,Kretingos Kretinga,spread,-9.5,1.8621,1.8065,,,,2026-11-11 14:21:08.875690+00:00
+1640031641,2026-11-12 16:00:00+00:00,Lithuania - National Basketball League,Vytis-VDU Sakiai,Kretingos Kretinga,total,179.0,,,,1.7937,1.8696,2026-11-11 14:21:08.875690+00:00
+1640148928,2026-11-12 01:00:00+00:00,NCAA,Tulsa,Oral Roberts,spread,-18.0,1.9174,1.9346,,,,2026-11-11 14:21:08.875690+00:00
+1640148928,2026-11-12 01:00:00+00:00,NCAA,Tulsa,Oral Roberts,total,154.0,,,,1.9346,1.885,2026-11-11 14:21:08.875690+00:00
+1639964864,2026-11-11 14:45:00+00:00,Lebanon - Lebanese Basketball League,Nadim Souaid Academy,Al Riyadi,moneyline,,7.16,1.0509,,,,2026-11-11 14:21:08.875690+00:00
+1639964864,2026-11-11 14:45:00+00:00,Lebanon - Lebanese Basketball League,Nadim Souaid Academy,Al Riyadi,spread,14.5,1.8772,1.8621,,,,2026-11-11 14:21:08.875690+00:00
+1639964864,2026-11-11 14:45:00+00:00,Lebanon - Lebanese Basketball League,Nadim Souaid Academy,Al Riyadi,total,181.5,,,,1.8772,1.8621,2026-11-11 14:21:08.875690+00:00
+1640270593,2026-11-11 19:45:00+00:00,Italy - Serie B,Orlandina Basket,Pallacanestro Fiorenzuola,moneyline,,1.2288,3.33,,,,2026-11-11 14:21:08.875690+00:00
+1640270593,2026-11-11 19:45:00+00:00,Italy - Serie B,Orlandina Basket,Pallacanestro Fiorenzuola,spread,-7.5,1.8475,1.8197,,,,2026-11-11 14:21:08.875690+00:00
+1640270593,2026-11-11 19:45:00+00:00,Italy - Serie B,Orlandina Basket,Pallacanestro Fiorenzuola,total,157.5,,,,1.8264,1.8403,2026-11-11 14:21:08.875690+00:00
+1640045762,2026-11-12 19:00:00+00:00,Europe - Eurocup,Skyliners Frankfurt,Maxima Roma,moneyline,,2.17,1.7042,,,,2026-11-11 14:21:08.875690+00:00
+1640045762,2026-11-12 19:00:00+00:00,Europe - Eurocup,Skyliners Frankfurt,Maxima Roma,spread,2.5,1.9091,1.9091,,,,2026-11-11 14:21:08.875690+00:00
+1640045762,2026-11-12 19:00:00+00:00,Europe - Eurocup,Skyliners Frankfurt,Maxima Roma,total,173.0,,,,1.8929,1.9259,2026-11-11 14:21:08.875690+00:00
+1640013957,2026-11-12 15:00:00+00:00,FIBA - Europe Cup,Gence,Esenler Erokspor,moneyline,,8.87,1.0552,,,,2026-11-11 14:21:08.875690+00:00
+1640013957,2026-11-12 15:00:00+00:00,FIBA - Europe Cup,Gence,Esenler Erokspor,spread,15.5,1.9615,1.8547,,,,2026-11-11 14:21:08.875690+00:00
+1640013957,2026-11-12 15:00:00+00:00,FIBA - Europe Cup,Gence,Esenler Erokspor,total,166.0,,,,1.885,1.9259,2026-11-11 14:21:08.875690+00:00
+1639975128,2026-11-11 17:00:00+00:00,Hungary - Nemzeti Bajnoksag I.A,Soproni KC,Budapesti Honved SE,moneyline,,1.6667,2.12,,,,2026-11-11 14:21:08.875690+00:00
+1639975128,2026-11-11 17:00:00+00:00,Hungary - Nemzeti Bajnoksag I.A,Soproni KC,Budapesti Honved SE,spread,-2.5,1.8621,1.8772,,,,2026-11-11 14:21:08.875690+00:00
+1639975128,2026-11-11 17:00:00+00:00,Hungary - Nemzeti Bajnoksag I.A,Soproni KC,Budapesti Honved SE,total,169.0,,,,1.8,1.9434,2026-11-11 14:21:08.875690+00:00
+1639971974,2026-11-11 17:00:00+00:00,Hungary - Nemzeti Bajnoksag I.A,Falco KC Szombathely,Alba Fehervar,moneyline,,1.0543,6.98,,,,2026-11-11 14:21:08.875690+00:00
+1639971974,2026-11-11 17:00:00+00:00,Hungary - Nemzeti Bajnoksag I.A,Falco KC Szombathely,Alba Fehervar,spread,-14.0,1.8547,1.885,,,,2026-11-11 14:21:08.875690+00:00
+1639971974,2026-11-11 17:00:00+00:00,Hungary - Nemzeti Bajnoksag I.A,Falco KC Szombathely,Alba Fehervar,total,167.0,,,,1.885,1.8547,2026-11-11 14:21:08.875690+00:00
+1639979726,2026-11-11 17:00:00+00:00,FIBA - Europe Cup,Valmiera Glass VIA,Bashkimi,moneyline,,1.3367,3.24,,,,2026-11-11 14:21:08.875690+00:00
+1639979726,2026-11-11 17:00:00+00:00,FIBA - Europe Cup,Valmiera Glass VIA,Bashkimi,spread,-6.5,1.9615,1.8621,,,,2026-11-11 14:21:08.875690+00:00
+1639979726,2026-11-11 17:00:00+00:00,FIBA - Europe Cup,Valmiera Glass VIA,Bashkimi,total,164.5,,,,1.9174,1.9009,2026-11-11 14:21:08.875690+00:00
+1639999779,2026-11-12 10:00:00+00:00,Korean - KBL,Daegu Kogas Pegasus,Goyang Skygunners,moneyline,,1.9709,1.8197,,,,2026-11-11 14:21:08.875690+00:00
+1639999779,2026-11-12 10:00:00+00:00,Korean - KBL,Daegu Kogas Pegasus,Goyang Skygunners,spread,1.5,1.9091,1.8772,,,,2026-11-11 14:21:08.875690+00:00
+1639999779,2026-11-12 10:00:00+00:00,Korean - KBL,Daegu Kogas Pegasus,Goyang Skygunners,total,172.5,,,,1.9259,1.8621,2026-11-11 14:21:08.875690+00:00
+1639904707,2026-11-11 19:45:00+00:00,Europe - Euroleague,KK Partizan Belgrade,Baskonia Vitoria Gasteiz,moneyline,,1.2625,4.06,,,,2026-11-11 14:21:08.875690+00:00
+1639904707,2026-11-11 19:45:00+00:00,Europe - Euroleague,KK Partizan Belgrade,Baskonia Vitoria Gasteiz,spread,-8.0,1.9174,1.9346,,,,2026-11-11 14:21:08.875690+00:00
+1639904707,2026-11-11 19:45:00+00:00,Europe - Euroleague,KK Partizan Belgrade,Baskonia Vitoria Gasteiz,total,167.5,,,,1.9804,1.8772,2026-11-11 14:21:08.875690+00:00
+1639982157,2026-11-11 23:00:00+00:00,NCAA,VMI,North Carolina Central,moneyline,,1.2571,4.04,,,,2026-11-11 14:21:08.875690+00:00
+1639982157,2026-11-11 23:00:00+00:00,NCAA,VMI,North Carolina Central,spread,-8.5,1.9615,1.8772,,,,2026-11-11 14:21:08.875690+00:00
+1639982157,2026-11-11 23:00:00+00:00,NCAA,VMI,North Carolina Central,total,150.5,,,,1.9091,1.8929,2026-11-11 14:21:08.875690+00:00
+1639971948,2026-11-11 16:30:00+00:00,Europe - Eurocup,BC Siauliai,La Laguna Tenerife,moneyline,,4.16,1.2165,,,,2026-11-11 14:21:08.875690+00:00
+1639971948,2026-11-11 16:30:00+00:00,Europe - Eurocup,BC Siauliai,La Laguna Tenerife,spread,9.0,1.9174,1.9009,,,,2026-11-11 14:21:08.875690+00:00
+1639971948,2026-11-11 16:30:00+00:00,Europe - Eurocup,BC Siauliai,La Laguna Tenerife,total,167.0,,,,1.9259,1.8929,2026-11-11 14:21:08.875690+00:00
+1640162277,2026-11-12 02:00:00+00:00,NCAA,Boise State,Oakland,moneyline,,1.0531,11.25,,,,2026-11-11 14:21:08.875690+00:00
+1640162277,2026-11-12 02:00:00+00:00,NCAA,Boise State,Oakland,spread,-16.0,1.8696,1.9901,,,,2026-11-11 14:21:08.875690+00:00
+1640162277,2026-11-12 02:00:00+00:00,NCAA,Boise State,Oakland,total,162.0,,,,1.9091,1.9091,2026-11-11 14:21:08.875690+00:00
+1640162126,2026-11-12 01:00:00+00:00,NCAA,Southern Miss,Jackson State,moneyline,,1.2433,4.19,,,,2026-11-11 14:21:08.875690+00:00
+1640162126,2026-11-12 01:00:00+00:00,NCAA,Southern Miss,Jackson State,spread,-8.5,1.9009,1.9346,,,,2026-11-11 14:21:08.875690+00:00
+1640162126,2026-11-12 01:00:00+00:00,NCAA,Southern Miss,Jackson State,total,151.0,,,,1.8929,1.9091,2026-11-11 14:21:08.875690+00:00
+1640271063,2026-11-11 20:00:00+00:00,Italy - Serie B,Ristopro Fabriano,Herons Basket Montecatini,moneyline,,2.02,1.6711,,,,2026-11-11 14:21:08.875690+00:00
+1640271063,2026-11-11 20:00:00+00:00,Italy - Serie B,Ristopro Fabriano,Herons Basket Montecatini,spread,2.0,1.8621,1.8065,,,,2026-11-11 14:21:08.875690+00:00
+1640271063,2026-11-11 20:00:00+00:00,Italy - Serie B,Ristopro Fabriano,Herons Basket Montecatini,total,157.0,,,,1.8929,1.7752,2026-11-11 14:21:08.875690+00:00
+1639986820,2026-11-12 00:10:00+00:00,NBA,Toronto Raptors,Boston Celtics,moneyline,,3.05,1.4274,,,,2026-11-11 14:21:08.875690+00:00
+1639986820,2026-11-12 00:10:00+00:00,NBA,Toronto Raptors,Boston Celtics,spread,6.0,1.9804,1.9259,,,,2026-11-11 14:21:08.875690+00:00
+1639986820,2026-11-12 00:10:00+00:00,NBA,Toronto Raptors,Boston Celtics,total,216.0,,,,1.9434,1.9434,2026-11-11 14:21:08.875690+00:00
+1640278616,2026-11-11 19:30:00+00:00,Italy - Serie A2,Basket Torino,Fortitudo Bologna,moneyline,,1.885,1.9346,,,,2026-11-11 14:21:08.875690+00:00
+1640278616,2026-11-11 19:30:00+00:00,Italy - Serie A2,Basket Torino,Fortitudo Bologna,spread,-1.5,1.9615,1.8621,,,,2026-11-11 14:21:08.875690+00:00
+1640278616,2026-11-11 19:30:00+00:00,Italy - Serie A2,Basket Torino,Fortitudo Bologna,total,144.0,,,,1.8772,1.9346,2026-11-11 14:21:08.875690+00:00
+1640001153,2026-11-12 08:30:00+00:00,Australia - NBL,Adelaide 36ers,Melbourne United,moneyline,,2.25,1.6369,,,,2026-11-11 14:21:08.875690+00:00
+1640001153,2026-11-12 08:30:00+00:00,Australia - NBL,Adelaide 36ers,Melbourne United,spread,3.5,1.8621,1.9259,,,,2026-11-11 14:21:08.875690+00:00
+1640001153,2026-11-12 08:30:00+00:00,Australia - NBL,Adelaide 36ers,Melbourne United,total,188.5,,,,1.8772,1.9091,2026-11-11 14:21:08.875690+00:00
+1639964907,2026-11-11 16:30:00+00:00,Finland - Suomen Cup,Bisons Loimaa,KTP Basket Kotka,moneyline,,2.74,1.3534,,,,2026-11-11 14:21:08.875690+00:00
+1639964907,2026-11-11 16:30:00+00:00,Finland - Suomen Cup,Bisons Loimaa,KTP Basket Kotka,spread,7.0,1.8696,1.8,,,,2026-11-11 14:21:08.875690+00:00
+1639964907,2026-11-11 16:30:00+00:00,Finland - Suomen Cup,Bisons Loimaa,KTP Basket Kotka,total,169.5,,,,1.813,1.8547,2026-11-11 14:21:08.875690+00:00
+1640270710,2026-11-11 20:00:00+00:00,Italy - Serie A2,Real Sebastiani Rieti,Gema Montecatini,moneyline,,1.0888,6.87,,,,2026-11-11 14:21:08.875690+00:00
+1640270710,2026-11-11 20:00:00+00:00,Italy - Serie A2,Real Sebastiani Rieti,Gema Montecatini,spread,-13.0,1.9524,1.8696,,,,2026-11-11 14:21:08.875690+00:00
+1640270710,2026-11-11 20:00:00+00:00,Italy - Serie A2,Real Sebastiani Rieti,Gema Montecatini,total,149.5,,,,1.8696,1.9524,2026-11-11 14:21:08.875690+00:00
+1639984897,2026-11-12 00:00:00+00:00,NCAA,Massachusetts,UMass Lowell,moneyline,,1.1481,5.81,,,,2026-11-11 14:21:08.875690+00:00
+1639984897,2026-11-12 00:00:00+00:00,NCAA,Massachusetts,UMass Lowell,spread,-11.0,1.9259,1.9091,,,,2026-11-11 14:21:08.875690+00:00
+1639984897,2026-11-12 00:00:00+00:00,NCAA,Massachusetts,UMass Lowell,total,147.5,,,,1.9709,1.8333,2026-11-11 14:21:08.875690+00:00
+1639986801,2026-11-11 19:30:00+00:00,FIBA - Europe Cup,Geneva Lions,Absheron BC,moneyline,,1.1422,5.29,,,,2026-11-11 14:21:08.875690+00:00
+1639986801,2026-11-11 19:30:00+00:00,FIBA - Europe Cup,Geneva Lions,Absheron BC,spread,-10.5,1.9346,1.885,,,,2026-11-11 14:21:08.875690+00:00
+1639986801,2026-11-11 19:30:00+00:00,FIBA - Europe Cup,Geneva Lions,Absheron BC,total,174.0,,,,1.9009,1.9174,2026-11-11 14:21:08.875690+00:00
+1640066595,2026-11-12 16:00:00+00:00,Poland - 2. Liga,Arka Gdynia II,MKKS Zak Koszalin,spread,24.5,1.813,1.7874,,,,2026-11-11 14:21:08.875690+00:00
+1640066595,2026-11-12 16:00:00+00:00,Poland - 2. Liga,Arka Gdynia II,MKKS Zak Koszalin,total,168.5,,,,1.7937,1.8065,2026-11-11 14:21:08.875690+00:00
+1639986852,2026-11-12 00:00:00+00:00,NCAA,Delaware,James Madison,moneyline,,2.42,1.5988,,,,2026-11-11 14:21:08.875690+00:00
+1639986852,2026-11-12 00:00:00+00:00,NCAA,Delaware,James Madison,spread,4.0,1.8772,1.9804,,,,2026-11-11 14:21:08.875690+00:00
+1639986852,2026-11-12 00:00:00+00:00,NCAA,Delaware,James Madison,total,149.5,,,,1.9174,1.9009,2026-11-11 14:21:08.875690+00:00
+1639979734,2026-11-11 17:30:00+00:00,Europe - Champions League,Peristeri BC,Pallacanestro Varese,moneyline,,1.9091,1.9259,,,,2026-11-11 14:21:08.875690+00:00
+1639979734,2026-11-11 17:30:00+00:00,Europe - Champions League,Peristeri BC,Pallacanestro Varese,spread,-1.0,1.9524,1.885,,,,2026-11-11 14:21:08.875690+00:00
+1639979734,2026-11-11 17:30:00+00:00,Europe - Champions League,Peristeri BC,Pallacanestro Varese,total,164.5,,,,1.8621,1.9709,2026-11-11 14:21:08.875690+00:00
+1640273614,2026-11-11 19:00:00+00:00,Italy - Serie B,Pallacanestro Brescia,Rucker San Vendemiano,moneyline,,1.295,3.2,,,,2026-11-11 14:21:08.875690+00:00
+1640273614,2026-11-11 19:00:00+00:00,Italy - Serie B,Pallacanestro Brescia,Rucker San Vendemiano,spread,-6.5,1.8696,1.8696,,,,2026-11-11 14:21:08.875690+00:00
+1640273614,2026-11-11 19:00:00+00:00,Italy - Serie B,Pallacanestro Brescia,Rucker San Vendemiano,total,155.5,,,,1.8696,1.8696,2026-11-11 14:21:08.875690+00:00
+1639975109,2026-11-11 16:30:00+00:00,Europe - ENBL,Taltech Basketball,Spartak Pleven,moneyline,,1.7194,2.04,,,,2026-11-11 14:21:08.875690+00:00
+1639975109,2026-11-11 16:30:00+00:00,Europe - ENBL,Taltech Basketball,Spartak Pleven,spread,-2.0,1.8772,1.8621,,,,2026-11-11 14:21:08.875690+00:00
+1639975109,2026-11-11 16:30:00+00:00,Europe - ENBL,Taltech Basketball,Spartak Pleven,total,154.5,,,,1.8696,1.8696,2026-11-11 14:21:08.875690+00:00
+1640291894,2026-11-11 23:45:00+00:00,Uruguay - Tercera de Ascenso,Reducto,Ateneo de Piriapolis,moneyline,,1.3195,2.87,,,,2026-11-11 14:21:08.875690+00:00
+1640291894,2026-11-11 23:45:00+00:00,Uruguay - Tercera de Ascenso,Reducto,Ateneo de Piriapolis,spread,-5.5,1.8333,1.8333,,,,2026-11-11 14:21:08.875690+00:00
+1640291894,2026-11-11 23:45:00+00:00,Uruguay - Tercera de Ascenso,Reducto,Ateneo de Piriapolis,total,161.5,,,,1.8403,1.8264,2026-11-11 14:21:08.875690+00:00
+1639984869,2026-11-11 22:30:00+00:00,NCAA,Navy,Pennsylvania,moneyline,,3.54,1.3155,,,,2026-11-11 14:21:08.875690+00:00
+1639984869,2026-11-11 22:30:00+00:00,NCAA,Navy,Pennsylvania,spread,7.0,1.9901,1.8475,,,,2026-11-11 14:21:08.875690+00:00
+1639984869,2026-11-11 22:30:00+00:00,NCAA,Navy,Pennsylvania,total,146.5,,,,1.8929,1.9091,2026-11-11 14:21:08.875690+00:00
+1640291796,2026-11-12 17:00:00+00:00,Algeria - Super Division,CRB Dar Beida,WO Boufarik,spread,19.5,1.8772,1.7299,,,,2026-11-11 14:21:08.875690+00:00
+1640291796,2026-11-12 17:00:00+00:00,Algeria - Super Division,CRB Dar Beida,WO Boufarik,total,148.5,,,,1.7937,1.8065,2026-11-11 14:21:08.875690+00:00
+1639971944,2026-11-11 16:30:00+00:00,Finland - Suomen Cup,Salon Vilpas Vikings,Korihait Uusikaupunki,moneyline,,1.0604,5.58,,,,2026-11-11 14:21:08.875690+00:00
+1639971944,2026-11-11 16:30:00+00:00,Finland - Suomen Cup,Salon Vilpas Vikings,Korihait Uusikaupunki,spread,-12.0,1.8197,1.8475,,,,2026-11-11 14:21:08.875690+00:00
+1639971944,2026-11-11 16:30:00+00:00,Finland - Suomen Cup,Salon Vilpas Vikings,Korihait Uusikaupunki,total,170.5,,,,1.9174,1.7576,2026-11-11 14:21:08.875690+00:00
+1640045821,2026-11-13 00:00:00+00:00,Argentina - Liga Nacional,Asociacion Deportiva Atenas,CA San Lorenzo de Almagro,moneyline,,1.2564,3.78,,,,2026-11-11 14:21:08.875690+00:00
+1640045821,2026-11-13 00:00:00+00:00,Argentina - Liga Nacional,Asociacion Deportiva Atenas,CA San Lorenzo de Almagro,spread,-7.5,1.8929,1.9259,,,,2026-11-11 14:21:08.875690+00:00
+1640045821,2026-11-13 00:00:00+00:00,Argentina - Liga Nacional,Asociacion Deportiva Atenas,CA San Lorenzo de Almagro,total,154.5,,,,1.9091,1.9091,2026-11-11 14:21:08.875690+00:00
+1639975091,2026-11-11 16:00:00+00:00,Europe - VTB United League,CSKA Moscow,Dynamo Vladivostok,moneyline,,1.0162,10.75,,,,2026-11-11 14:21:08.875690+00:00
+1639975091,2026-11-11 16:00:00+00:00,Europe - VTB United League,CSKA Moscow,Dynamo Vladivostok,spread,-22.0,1.8264,1.9091,,,,2026-11-11 14:21:08.875690+00:00
+1639975091,2026-11-11 16:00:00+00:00,Europe - VTB United League,CSKA Moscow,Dynamo Vladivostok,total,179.5,,,,1.8547,1.885,2026-11-11 14:21:08.875690+00:00
+1640045790,2026-11-12 22:15:00+00:00,Uruguay - Liga,Union Atletica,Club Bigua de Villa Biarritz,moneyline,,2.82,1.3774,,,,2026-11-11 14:21:08.875690+00:00
+1640045790,2026-11-12 22:15:00+00:00,Uruguay - Liga,Union Atletica,Club Bigua de Villa Biarritz,spread,5.5,1.8264,1.9174,,,,2026-11-11 14:21:08.875690+00:00
+1640045790,2026-11-12 22:15:00+00:00,Uruguay - Liga,Union Atletica,Club Bigua de Villa Biarritz,total,170.0,,,,1.8403,1.9009,2026-11-11 14:21:08.875690+00:00
+1639982103,2026-11-11 18:00:00+00:00,Europe - Eurocup,BV Chemnitz 99,Gevi Napoli Basket,moneyline,,2.23,1.6667,,,,2026-11-11 14:21:08.875690+00:00
+1639982103,2026-11-11 18:00:00+00:00,Europe - Eurocup,BV Chemnitz 99,Gevi Napoli Basket,spread,3.0,1.9524,1.8696,,,,2026-11-11 14:21:08.875690+00:00
+1639982103,2026-11-11 18:00:00+00:00,Europe - Eurocup,BV Chemnitz 99,Gevi Napoli Basket,total,175.0,,,,1.8621,1.9615,2026-11-11 14:21:08.875690+00:00
+1639982152,2026-11-11 22:30:00+00:00,Brazil - Novo Basquete Brasil,Minas Tenis Clube MG,Unifacisa,moneyline,,1.3145,3.09,,,,2026-11-11 14:21:08.875690+00:00
+1639982152,2026-11-11 22:30:00+00:00,Brazil - Novo Basquete Brasil,Minas Tenis Clube MG,Unifacisa,spread,-7.5,1.8696,1.8696,,,,2026-11-11 14:21:08.875690+00:00
+1639982152,2026-11-11 22:30:00+00:00,Brazil - Novo Basquete Brasil,Minas Tenis Clube MG,Unifacisa,total,160.0,,,,1.9346,1.8065,2026-11-11 14:21:08.875690+00:00
+1639986851,2026-11-12 00:00:00+00:00,NCAA,Michigan,Marquette,moneyline,,1.5988,2.42,,,,2026-11-11 14:21:08.875690+00:00
+1639986851,2026-11-12 00:00:00+00:00,NCAA,Michigan,Marquette,spread,-4.0,2.0,1.8547,,,,2026-11-11 14:21:08.875690+00:00
+1639986851,2026-11-12 00:00:00+00:00,NCAA,Michigan,Marquette,total,156.5,,,,1.8929,1.9259,2026-11-11 14:21:08.875690+00:00
+1640045149,2026-11-12 18:00:00+00:00,Denmark - Basketligaen,Randers Cimbria,Team FOG Naestved,moneyline,,2.53,1.4695,,,,2026-11-11 14:21:08.875690+00:00
+1640045149,2026-11-12 18:00:00+00:00,Denmark - Basketligaen,Randers Cimbria,Team FOG Naestved,spread,5.5,1.8772,1.8621,,,,2026-11-11 14:21:08.875690+00:00
+1640045149,2026-11-12 18:00:00+00:00,Denmark - Basketligaen,Randers Cimbria,Team FOG Naestved,total,182.0,,,,1.9091,1.8333,2026-11-11 14:21:08.875690+00:00
+1640324327,2026-11-11 19:30:00+00:00,Argentina - La Liga Proximo,Club Atletico Lanus,La Union de Formosa,moneyline,,1.5556,2.12,,,,2026-11-11 14:21:08.875690+00:00
+1640324327,2026-11-11 19:30:00+00:00,Argentina - La Liga Proximo,Club Atletico Lanus,La Union de Formosa,spread,-3.5,1.8475,1.7576,,,,2026-11-11 14:21:08.875690+00:00
+1640324327,2026-11-11 19:30:00+00:00,Argentina - La Liga Proximo,Club Atletico Lanus,La Union de Formosa,total,155.5,,,,1.7634,1.8403,2026-11-11 14:21:08.875690+00:00
+1640331112,2026-11-12 00:00:00+00:00,Argentina - La Liga,River Plate,Pico Football Club,moneyline,,1.6452,2.06,,,,2026-11-11 14:21:08.875690+00:00
+1640331112,2026-11-12 00:00:00+00:00,Argentina - La Liga,River Plate,Pico Football Club,spread,-2.0,1.7937,1.8772,,,,2026-11-11 14:21:08.875690+00:00
+1640331112,2026-11-12 00:00:00+00:00,Argentina - La Liga,River Plate,Pico Football Club,total,153.5,,,,1.8547,1.8065,2026-11-11 14:21:08.875690+00:00
+1639971958,2026-11-11 17:00:00+00:00,FIBA - Europe Cup,CS Dinamo Bucuresti,Basquet Girona,moneyline,,3.41,1.3077,,,,2026-11-11 14:21:08.875690+00:00
+1639971958,2026-11-11 17:00:00+00:00,FIBA - Europe Cup,CS Dinamo Bucuresti,Basquet Girona,spread,7.0,1.8696,1.9434,,,,2026-11-11 14:21:08.875690+00:00
+1639971958,2026-11-11 17:00:00+00:00,FIBA - Europe Cup,CS Dinamo Bucuresti,Basquet Girona,total,168.5,,,,1.9009,1.9174,2026-11-11 14:21:08.875690+00:00
+1640162330,2026-11-13 05:00:00+00:00,Mexico - Liga Nacional de Baloncesto Profesional,Soles de Mexicali,Astros de Jalisco,moneyline,,1.5155,2.29,,,,2026-11-11 14:21:08.875690+00:00
+1640162330,2026-11-13 05:00:00+00:00,Mexico - Liga Nacional de Baloncesto Profesional,Soles de Mexicali,Astros de Jalisco,spread,-4.0,1.9009,1.7752,,,,2026-11-11 14:21:08.875690+00:00
+1640162330,2026-11-13 05:00:00+00:00,Mexico - Liga Nacional de Baloncesto Profesional,Soles de Mexicali,Astros de Jalisco,total,162.0,,,,1.8197,1.8475,2026-11-11 14:21:08.875690+00:00
+1640284042,2026-11-12 00:00:00+00:00,Dominican Republic - Torneo Baloncesto Superior,Mauricio Baez,Rafael Barias,moneyline,,1.7874,1.8772,,,,2026-11-11 14:21:08.875690+00:00
+1640284042,2026-11-12 00:00:00+00:00,Dominican Republic - Torneo Baloncesto Superior,Mauricio Baez,Rafael Barias,spread,1.0,1.7519,1.9259,,,,2026-11-11 14:21:08.875690+00:00
+1640284042,2026-11-12 00:00:00+00:00,Dominican Republic - Torneo Baloncesto Superior,Mauricio Baez,Rafael Barias,total,151.0,,,,1.8547,1.813,2026-11-11 14:21:08.875690+00:00
+1639986850,2026-11-12 00:00:00+00:00,NCAA,VCU,NJIT,spread,-34.0,1.9615,1.8772,,,,2026-11-11 14:21:08.875690+00:00
+1639986850,2026-11-12 00:00:00+00:00,NCAA,VCU,NJIT,total,149.5,,,,1.9091,1.8929,2026-11-11 14:21:08.875690+00:00
+1640061913,2026-11-13 02:00:00+00:00,Mexico - Liga ABE,CEU Monterrey,UANL,moneyline,,1.2242,3.12,,,,2026-11-11 14:21:08.875690+00:00
+1640061913,2026-11-13 02:00:00+00:00,Mexico - Liga ABE,CEU Monterrey,UANL,spread,-7.0,1.8621,1.7407,,,,2026-11-11 14:21:08.875690+00:00
+1640061913,2026-11-13 02:00:00+00:00,Mexico - Liga ABE,CEU Monterrey,UANL,total,145.0,,,,1.7937,1.8065,2026-11-11 14:21:08.875690+00:00
+1639971917,2026-11-11 16:00:00+00:00,FIBA - Europe Cup,Neftchi IK Baku,AO Mykonos,moneyline,,5.05,1.1543,,,,2026-11-11 14:21:08.875690+00:00
+1639971917,2026-11-11 16:00:00+00:00,FIBA - Europe Cup,Neftchi IK Baku,AO Mykonos,spread,10.5,1.9009,1.9174,,,,2026-11-11 14:21:08.875690+00:00
+1639971917,2026-11-11 16:00:00+00:00,FIBA - Europe Cup,Neftchi IK Baku,AO Mykonos,total,162.0,,,,1.9009,1.9174,2026-11-11 14:21:08.875690+00:00
+1640044231,2026-11-12 00:00:00+00:00,NCAA,Notre Dame,South Carolina State,spread,-25.5,1.9346,1.9009,,,,2026-11-11 14:21:08.875690+00:00
+1640044231,2026-11-12 00:00:00+00:00,NCAA,Notre Dame,South Carolina State,total,148.0,,,,1.8547,1.9524,2026-11-11 14:21:08.875690+00:00
+1639975166,2026-11-11 18:30:00+00:00,Europe - Eurocup,Derthona Basket,Hapoel Jerusalem,moneyline,,2.95,1.3968,,,,2026-11-11 14:21:08.875690+00:00
+1639975166,2026-11-11 18:30:00+00:00,Europe - Eurocup,Derthona Basket,Hapoel Jerusalem,spread,5.5,1.8929,1.9259,,,,2026-11-11 14:21:08.875690+00:00
+1639975166,2026-11-11 18:30:00+00:00,Europe - Eurocup,Derthona Basket,Hapoel Jerusalem,total,166.5,,,,1.9259,1.8929,2026-11-11 14:21:08.875690+00:00
+1639964889,2026-11-11 16:00:00+00:00,FIBA - Europe Cup,BC Batumi,TBB Trier,spread,27.0,1.9174,1.9009,,,,2026-11-11 14:21:08.875690+00:00
+1639964889,2026-11-11 16:00:00+00:00,FIBA - Europe Cup,BC Batumi,TBB Trier,total,172.0,,,,1.9615,1.8621,2026-11-11 14:21:08.875690+00:00
+1640044269,2026-11-12 19:15:00+00:00,Iceland - Premier League,UMF Njardvik,Armann,moneyline,,1.1403,4.09,,,,2026-11-11 14:21:08.875690+00:00
+1640044269,2026-11-12 19:15:00+00:00,Iceland - Premier League,UMF Njardvik,Armann,spread,-9.5,1.8197,1.8475,,,,2026-11-11 14:21:08.875690+00:00
+1640044269,2026-11-12 19:15:00+00:00,Iceland - Premier League,UMF Njardvik,Armann,total,186.0,,,,1.8621,1.8065,2026-11-11 14:21:08.875690+00:00
+1640045829,2026-11-13 00:30:00+00:00,Uruguay - Liga,Club Nacional,Urunday Universitario,moneyline,,1.4184,2.68,,,,2026-11-11 14:21:08.875690+00:00
+1640045829,2026-11-13 00:30:00+00:00,Uruguay - Liga,Club Nacional,Urunday Universitario,spread,-5.0,1.7812,1.9615,,,,2026-11-11 14:21:08.875690+00:00
+1640045829,2026-11-13 00:30:00+00:00,Uruguay - Liga,Club Nacional,Urunday Universitario,total,176.0,,,,1.7937,1.9524,2026-11-11 14:21:08.875690+00:00
+1639984900,2026-11-12 00:00:00+00:00,NCAA,Princeton,Stony Brook,moneyline,,1.4762,2.77,,,,2026-11-11 14:21:08.875690+00:00
+1639984900,2026-11-12 00:00:00+00:00,NCAA,Princeton,Stony Brook,spread,-5.0,1.9434,1.9091,,,,2026-11-11 14:21:08.875690+00:00
+1639984900,2026-11-12 00:00:00+00:00,NCAA,Princeton,Stony Brook,total,138.0,,,,1.9091,1.9091,2026-11-11 14:21:08.875690+00:00
+1639979715,2026-11-11 17:00:00+00:00,FIBA - Europe Cup,Promitheas Patras,KB Trepca,moneyline,,1.0664,8.04,,,,2026-11-11 14:21:08.875690+00:00
+1639979715,2026-11-11 17:00:00+00:00,FIBA - Europe Cup,Promitheas Patras,KB Trepca,spread,-14.0,1.9259,1.8929,,,,2026-11-11 14:21:08.875690+00:00
+1639979715,2026-11-11 17:00:00+00:00,FIBA - Europe Cup,Promitheas Patras,KB Trepca,total,169.5,,,,1.9009,1.9174,2026-11-11 14:21:08.875690+00:00
+1640044234,2026-11-12 17:00:00+00:00,Qatar - Basketball League,Al Rayyan,Al Gharafa,moneyline,,1.0287,6.97,,,,2026-11-11 14:21:08.875690+00:00
+1640044234,2026-11-12 17:00:00+00:00,Qatar - Basketball League,Al Rayyan,Al Gharafa,spread,-15.5,1.8065,1.8621,,,,2026-11-11 14:21:08.875690+00:00
+1640044234,2026-11-12 17:00:00+00:00,Qatar - Basketball League,Al Rayyan,Al Gharafa,total,166.5,,,,1.8333,1.8333,2026-11-11 14:21:08.875690+00:00
+1639971945,2026-11-11 16:30:00+00:00,Finland - Suomen Cup,Kataja Basket Joensuu,Kouvot Kouvola,moneyline,,1.0746,5.19,,,,2026-11-11 14:21:08.875690+00:00
+1639971945,2026-11-11 16:30:00+00:00,Finland - Suomen Cup,Kataja Basket Joensuu,Kouvot Kouvola,spread,-14.0,1.9009,1.7692,,,,2026-11-11 14:21:08.875690+00:00
+1639971945,2026-11-11 16:30:00+00:00,Finland - Suomen Cup,Kataja Basket Joensuu,Kouvot Kouvola,total,172.5,,,,1.8197,1.8475,2026-11-11 14:21:08.875690+00:00
+1640324283,2026-11-12 02:00:00+00:00,NCAA,UC Santa Barbara,Nevada,moneyline,,1.9434,1.8929,,,,2026-11-11 14:21:08.875690+00:00
+1640324283,2026-11-12 02:00:00+00:00,NCAA,UC Santa Barbara,Nevada,spread,1.0,1.9009,1.9346,,,,2026-11-11 14:21:08.875690+00:00
+1640324283,2026-11-12 02:00:00+00:00,NCAA,UC Santa Barbara,Nevada,total,144.5,,,,1.8475,1.9615,2026-11-11 14:21:08.875690+00:00
+1640044271,2026-11-11 22:30:00+00:00,Brazil - Campeonato Paulista,Tatui,Liga Sorocabana,moneyline,,1.0519,7.11,,,,2026-11-11 14:21:08.875690+00:00
+1640044271,2026-11-11 22:30:00+00:00,Brazil - Campeonato Paulista,Tatui,Liga Sorocabana,spread,-14.5,1.8547,1.885,,,,2026-11-11 14:21:08.875690+00:00
+1640044271,2026-11-11 22:30:00+00:00,Brazil - Campeonato Paulista,Tatui,Liga Sorocabana,total,128.5,,,,1.8333,1.9091,2026-11-11 14:21:08.875690+00:00
+1639979785,2026-11-11 19:00:00+00:00,FIBA - Europe Cup,Fribourg Olympic,CSM CSU Oradea,moneyline,,3.32,1.3215,,,,2026-11-11 14:21:08.875690+00:00
+1639979785,2026-11-11 19:00:00+00:00,FIBA - Europe Cup,Fribourg Olympic,CSM CSU Oradea,spread,6.5,1.9259,1.8929,,,,2026-11-11 14:21:08.875690+00:00
+1639979785,2026-11-11 19:00:00+00:00,FIBA - Europe Cup,Fribourg Olympic,CSM CSU Oradea,total,167.0,,,,1.9174,1.9009,2026-11-11 14:21:08.875690+00:00
+1640031523,2026-11-12 16:00:00+00:00,Lithuania - National Basketball League,Mazeikiai M Basket,Vilkaviskis,moneyline,,3.56,1.1961,,,,2026-11-11 14:21:08.875690+00:00
+1640031523,2026-11-12 16:00:00+00:00,Lithuania - National Basketball League,Mazeikiai M Basket,Vilkaviskis,spread,8.0,1.8197,1.8475,,,,2026-11-11 14:21:08.875690+00:00
+1640031523,2026-11-12 16:00:00+00:00,Lithuania - National Basketball League,Mazeikiai M Basket,Vilkaviskis,total,165.0,,,,1.8403,1.8264,2026-11-11 14:21:08.875690+00:00
+1640162155,2026-11-14 04:00:00+00:00,Australia - WNBL,Bendigo Spirit,Sydney Uni Flames,moneyline,,2.59,1.4484,,,,2026-11-11 14:21:08.875690+00:00
+1640162155,2026-11-14 04:00:00+00:00,Australia - WNBL,Bendigo Spirit,Sydney Uni Flames,spread,5.0,1.8621,1.8772,,,,2026-11-11 14:21:08.875690+00:00
+1640162155,2026-11-14 04:00:00+00:00,Australia - WNBL,Bendigo Spirit,Sydney Uni Flames,total,162.0,,,,1.813,1.9259,2026-11-11 14:21:08.875690+00:00
+1639964892,2026-11-11 16:00:00+00:00,Slovenia - 1. SKL,KK Sencur,KD Ilirija,moneyline,,1.8065,1.9346,,,,2026-11-11 14:21:08.875690+00:00
+1639964892,2026-11-11 16:00:00+00:00,Slovenia - 1. SKL,KK Sencur,KD Ilirija,spread,-1.5,1.8621,1.8772,,,,2026-11-11 14:21:08.875690+00:00
+1639964892,2026-11-11 16:00:00+00:00,Slovenia - 1. SKL,KK Sencur,KD Ilirija,total,160.0,,,,1.8264,1.9091,2026-11-11 14:21:08.875690+00:00
+1640031638,2026-11-12 16:00:00+00:00,Lithuania - National Basketball League,BC Telsiai,Alytaus Patriotai,moneyline,,1.102,4.64,,,,2026-11-11 14:21:08.875690+00:00
+1640031638,2026-11-12 16:00:00+00:00,Lithuania - National Basketball League,BC Telsiai,Alytaus Patriotai,spread,-11.0,1.7634,1.9091,,,,2026-11-11 14:21:08.875690+00:00
+1640031638,2026-11-12 16:00:00+00:00,Lithuania - National Basketball League,BC Telsiai,Alytaus Patriotai,total,166.0,,,,1.8403,1.8264,2026-11-11 14:21:08.875690+00:00
+1640142316,2026-11-13 19:30:00+00:00,ABA - Adriatic League,KK Krka Novo Mesto,KK Siroki,moneyline,,1.8065,2.02,,,,2026-11-11 14:21:08.875690+00:00
+1640142316,2026-11-13 19:30:00+00:00,ABA - Adriatic League,KK Krka Novo Mesto,KK Siroki,spread,-1.0,1.8403,1.9804,,,,2026-11-11 14:21:08.875690+00:00
+1640142316,2026-11-13 19:30:00+00:00,ABA - Adriatic League,KK Krka Novo Mesto,KK Siroki,total,160.5,,,,1.8929,1.9259,2026-11-11 14:21:08.875690+00:00
+1639989922,2026-11-12 10:30:00+00:00,Australia - NBL,Perth Wildcats,Tasmania Jackjumpers,moneyline,,1.8621,1.9259,,,,2026-11-11 14:21:08.875690+00:00
+1639989922,2026-11-12 10:30:00+00:00,Australia - NBL,Perth Wildcats,Tasmania Jackjumpers,spread,-2.0,2.0,1.8,,,,2026-11-11 14:21:08.875690+00:00
+1639989922,2026-11-12 10:30:00+00:00,Australia - NBL,Perth Wildcats,Tasmania Jackjumpers,total,185.0,,,,1.9174,1.8696,2026-11-11 14:21:08.875690+00:00
+1639999784,2026-11-12 10:05:00+00:00,Japan - B.League Premier,Altiri Chiba,Yokohama B-Corsairs,moneyline,,1.5714,2.36,,,,2026-11-11 14:21:08.875690+00:00
+1639999784,2026-11-12 10:05:00+00:00,Japan - B.League Premier,Altiri Chiba,Yokohama B-Corsairs,spread,-3.0,1.8197,1.9709,,,,2026-11-11 14:21:08.875690+00:00
+1639999784,2026-11-12 10:05:00+00:00,Japan - B.League Premier,Altiri Chiba,Yokohama B-Corsairs,total,159.5,,,,1.8475,1.9346,2026-11-11 14:21:08.875690+00:00
+1639979798,2026-11-11 20:00:00+00:00,NCAA,Air Force,Loyola Chicago,moneyline,,5.22,1.1812,,,,2026-11-11 14:21:08.875690+00:00
+1639979798,2026-11-11 20:00:00+00:00,NCAA,Air Force,Loyola Chicago,spread,10.5,1.9434,1.9091,,,,2026-11-11 14:21:08.875690+00:00
+1639979798,2026-11-11 20:00:00+00:00,NCAA,Air Force,Loyola Chicago,total,159.0,,,,1.8333,1.9901,2026-11-11 14:21:08.875690+00:00
+1640270700,2026-11-11 19:30:00+00:00,Italy - Serie B,ASD Latina Basket,Lucca,moneyline,,1.1086,4.53,,,,2026-11-11 14:21:08.875690+00:00
+1640270700,2026-11-11 19:30:00+00:00,Italy - Serie B,ASD Latina Basket,Lucca,spread,-10.5,1.8929,1.7812,,,,2026-11-11 14:21:08.875690+00:00
+1640270700,2026-11-11 19:30:00+00:00,Italy - Serie B,ASD Latina Basket,Lucca,total,154.5,,,,1.8403,1.8264,2026-11-11 14:21:08.875690+00:00
+1640243356,2026-11-12 23:30:00+00:00,Chile - LNB,CD Espanol Osorno,CD Valdivia,moneyline,,3.76,1.1361,,,,2026-11-11 14:21:08.875690+00:00
+1640243356,2026-11-12 23:30:00+00:00,Chile - LNB,CD Espanol Osorno,CD Valdivia,spread,10.0,1.7752,1.8264,,,,2026-11-11 14:21:08.875690+00:00
+1640243356,2026-11-12 23:30:00+00:00,Chile - LNB,CD Espanol Osorno,CD Valdivia,total,154.5,,,,1.8696,1.7407,2026-11-11 14:21:08.875690+00:00
+1639984898,2026-11-12 00:00:00+00:00,NCAA,Indiana State,Wisc Milwaukee,moneyline,,1.5405,2.57,,,,2026-11-11 14:21:08.875690+00:00
+1639984898,2026-11-12 00:00:00+00:00,NCAA,Indiana State,Wisc Milwaukee,spread,-4.0,1.9009,1.9524,,,,2026-11-11 14:21:08.875690+00:00
+1639984898,2026-11-12 00:00:00+00:00,NCAA,Indiana State,Wisc Milwaukee,total,154.0,,,,1.8929,1.9259,2026-11-11 14:21:08.875690+00:00
+1640326050,2026-11-12 07:00:00+00:00,Philippines - NCAA,Mapua Cardinals,LPU Pirates,moneyline,,1.2242,3.12,,,,2026-11-11 14:21:08.875690+00:00
+1640326050,2026-11-12 07:00:00+00:00,Philippines - NCAA,Mapua Cardinals,LPU Pirates,spread,-6.5,1.813,1.7874,,,,2026-11-11 14:21:08.875690+00:00
+1640326050,2026-11-12 07:00:00+00:00,Philippines - NCAA,Mapua Cardinals,LPU Pirates,total,149.0,,,,1.7874,1.813,2026-11-11 14:21:08.875690+00:00
+1639984899,2026-11-12 00:00:00+00:00,NCAA,NC Wilmington,Kent State,moneyline,,1.2899,3.8,,,,2026-11-11 14:21:08.875690+00:00
+1639984899,2026-11-12 00:00:00+00:00,NCAA,NC Wilmington,Kent State,spread,-8.5,1.9091,1.9434,,,,2026-11-11 14:21:08.875690+00:00
+1639984899,2026-11-12 00:00:00+00:00,NCAA,NC Wilmington,Kent State,total,158.0,,,,1.8475,1.9804,2026-11-11 14:21:08.875690+00:00
+1640243355,2026-11-12 00:30:00+00:00,Chile - LNB,CD Atletico Puerto Varas,CD Colegio Los Leones,moneyline,,3.65,1.1477,,,,2026-11-11 14:21:08.875690+00:00
+1640243355,2026-11-12 00:30:00+00:00,Chile - LNB,CD Atletico Puerto Varas,CD Colegio Los Leones,spread,9.0,1.813,1.7874,,,,2026-11-11 14:21:08.875690+00:00
+1640243355,2026-11-12 00:30:00+00:00,Chile - LNB,CD Atletico Puerto Varas,CD Colegio Los Leones,total,147.0,,,,1.813,1.7874,2026-11-11 14:21:08.875690+00:00
+1639971969,2026-11-11 17:00:00+00:00,Europe - Champions League,SK Slavia Prague ERA NBK,Igokea,moneyline,,1.4651,2.77,,,,2026-11-11 14:21:08.875690+00:00
+1639971969,2026-11-11 17:00:00+00:00,Europe - Champions League,SK Slavia Prague ERA NBK,Igokea,spread,-5.5,1.9346,1.9009,,,,2026-11-11 14:21:08.875690+00:00
+1639971969,2026-11-11 17:00:00+00:00,Europe - Champions League,SK Slavia Prague ERA NBK,Igokea,total,168.5,,,,1.9434,1.8929,2026-11-11 14:21:08.875690+00:00
+1640060289,2026-11-13 10:00:00+00:00,Georgia - Super League,TSU Hyundai,Kavkasia BC,moneyline,,1.9174,1.7576,,,,2026-11-11 14:21:08.875690+00:00
+1640060289,2026-11-13 10:00:00+00:00,Georgia - Super League,TSU Hyundai,Kavkasia BC,spread,1.5,1.8333,1.8333,,,,2026-11-11 14:21:08.875690+00:00
+1640060289,2026-11-13 10:00:00+00:00,Georgia - Super League,TSU Hyundai,Kavkasia BC,total,168.5,,,,1.8403,1.8264,2026-11-11 14:21:08.875690+00:00
+1640270701,2026-11-11 19:30:00+00:00,Italy - Serie B,Andrea Costa Imola,Grottacalda Piazza Armerina,moneyline,,2.89,1.3135,,,,2026-11-11 14:21:08.875690+00:00
+1640270701,2026-11-11 19:30:00+00:00,Italy - Serie B,Andrea Costa Imola,Grottacalda Piazza Armerina,spread,6.0,1.8065,1.8621,,,,2026-11-11 14:21:08.875690+00:00
+1640270701,2026-11-11 19:30:00+00:00,Italy - Serie B,Andrea Costa Imola,Grottacalda Piazza Armerina,total,137.5,,,,1.7692,1.9009,2026-11-11 14:21:08.875690+00:00
+1640148870,2026-11-13 19:30:00+00:00,British - SLB,London Lions,Surrey 89ers,moneyline,,1.06,6.7,,,,2026-11-11 14:21:08.875690+00:00
+1640148870,2026-11-13 19:30:00+00:00,British - SLB,London Lions,Surrey 89ers,spread,-14.0,1.9174,1.8197,,,,2026-11-11 14:21:08.875690+00:00
+1640148870,2026-11-13 19:30:00+00:00,British - SLB,London Lions,Surrey 89ers,total,158.0,,,,1.8696,1.8696,2026-11-11 14:21:08.875690+00:00
+1640044310,2026-11-12 22:30:00+00:00,Brazil - Novo Basquete Brasil,Caxias Do Sul,Pato Basquete,moneyline,,1.641,2.17,,,,2026-11-11 14:21:08.875690+00:00
+1640044310,2026-11-12 22:30:00+00:00,Brazil - Novo Basquete Brasil,Caxias Do Sul,Pato Basquete,spread,-3.0,1.8772,1.8621,,,,2026-11-11 14:21:08.875690+00:00
+1640044310,2026-11-12 22:30:00+00:00,Brazil - Novo Basquete Brasil,Caxias Do Sul,Pato Basquete,total,147.0,,,,1.9615,1.7874,2026-11-11 14:21:08.875690+00:00
