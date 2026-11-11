@@ -1,6 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 11/11/2026 11:55 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 11/11/2026 12:04 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## v1nn vs A1ose — 11/11 · 12:15
 
@@ -20,6 +20,25 @@ Hándicap A1ose: −1.5 30% · −2.5 18%
 • Liga: World Cup B  
 • Unibet: 1 1.72 · X 4.90 · 2 2.80 (sin margen 51%/18%/31%) · ventaja +16%. Sin stake hasta demostrar ROI con estas cuotas.  
 • En España: LeoVegas España 2.80 (+16%) · Paf España 2.80 (+16%)  
+
+## dor1an vs cl1vlind — 11/11 · 12:15
+
+👀 candidata · 🎮⚽ FC 27 · World Cup B · **Gana cl1vlind** @ **2.38** (Unibet) · prob 47% vs casas 36% · ventaja +12%
+
+- ✅ Valor: ventaja +12% (mín. 11% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 64.098 partidos)  
+Goles esperados: dor1an 2.36 · cl1vlind 2.68  
+Ganador: dor1an 32% · empate 21% · cl1vlind 47%  
+Total: más de 5.5 goles 39% · menos 61%  
+Hándicap cl1vlind: −1.5 29% · −2.5 16%  
+🔎 **Claves**  
+• Forma: dor1an ❌✅❌➖➖ | cl1vlind ❌✅➖✅❌  
+• Partidos: dor1an 146 | cl1vlind 595  
+• Liga: World Cup B  
+• Unibet: 1 2.14 · X 3.80 · 2 2.38 (sin margen 41%/23%/37%) · ventaja +12%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.38 (+12%) · Paf España 2.38 (+12%)  
 
 ## Jekunam vs DaVa — 11/11 · 12:18
 
@@ -58,4 +77,42 @@ Hándicap DaVa: −1.5 44% · −2.5 28%
 • Liga: Bundesliga  
 • Unibet: 1 6.75 · X 4.20 · 2 1.30 (sin margen 13%/21%/67%) · ventaja +23%. Sin stake hasta demostrar ROI con estas cuotas.  
 • En España: LeoVegas España 6.75 (+23%) · Paf España 6.75 (+23%)  
+
+## v1nn vs RuBIX — 11/11 · 12:39
+
+👀 candidata · 🎮⚽ FC 27 · World Cup B · **Gana RuBIX** @ **3.00** (Unibet) · prob 46% vs casas 29% · ventaja +38%
+
+- ❌ Valor: ventaja +38% (mín. 17% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 64.098 partidos)  
+Goles esperados: v1nn 3.12 · RuBIX 3.54  
+Ganador: v1nn 36% · empate 18% · RuBIX 46%  
+Total: más de 6.5 goles 50% · menos 50%  
+Hándicap RuBIX: −1.5 33% · −2.5 20%  
+🔎 **Claves**  
+• Forma: v1nn ❌❌✅❌❌ | RuBIX ✅➖❌➖✅  
+• Partidos: v1nn 590 | RuBIX 146  
+• Liga: World Cup B  
+• Unibet: 1 1.62 · X 5.30 · 2 3.00 (sin margen 54%/17%/29%) · ventaja +38%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 3.00 (+38%) · Paf España 3.00 (+38%)  
+
+## A1ose vs cl1vlind — 11/11 · 12:39
+
+👀 candidata · 🎮⚽ FC 27 · World Cup B · **Gana A1ose** @ **2.35** (Unibet) · prob 47% vs casas 37% · ventaja +11%
+
+- ✅ Valor: ventaja +11% (mín. 11% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 64.098 partidos)  
+Goles esperados: A1ose 3.13 · cl1vlind 2.69  
+Ganador: A1ose 47% · empate 19% · cl1vlind 33%  
+Total: más de 5.5 goles 53% · menos 47%  
+Hándicap A1ose: −1.5 32% · −2.5 19%  
+🔎 **Claves**  
+• Forma: A1ose ✅➖✅❌✅ | cl1vlind ❌✅➖✅❌  
+• Partidos: A1ose 936 | cl1vlind 595  
+• Liga: World Cup B  
+• Unibet: 1 2.35 · X 2.75 · 2 2.75 (sin margen 37%/32%/32%) · ventaja +11%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.35 (+11%) · Paf España 2.35 (+11%)  
 
