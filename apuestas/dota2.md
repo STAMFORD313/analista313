@@ -1,6 +1,6 @@
 # 🐉 Dota 2 · apuestas de valor
 
-Actualizado 11/11/2026 17:25 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 11/11/2026 17:54 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## potn9ki vs Power Rangers — 11/11 · 20:00
 
