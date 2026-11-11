@@ -64429,18 +64429,18 @@ id,tournament_id,club1,club2,ht1,ht2
 2374083,261622,Arsenal,Chelsea,,
 2374084,261622,Man City,Arsenal,,
 2374085,261622,Tottenham,Liverpool,,
-2374370,261664,Adelaide United,Melbourne City,2,1
-2374371,261664,Sydney FC,Melbourne Victory,1,3
-2374372,261664,Melbourne Victory,Adelaide United,0,4
-2374373,261664,Melbourne City,Western Sydney Wanderers,1,2
-2374374,261664,Western Sydney Wanderers,Melbourne Victory,2,1
-2374375,261664,Adelaide United,Sydney FC,1,0
-2374376,261664,Sydney FC,Western Sydney Wanderers,0,1
-2374377,261664,Melbourne Victory,Melbourne City,0,0
-2374378,261664,Melbourne City,Sydney FC,2,2
-2374379,261664,Western Sydney Wanderers,Adelaide United,0,2
-2374380,261664,Melbourne City,Adelaide United,0,1
-2374381,261664,Melbourne Victory,Sydney FC,1,0
+2374370,261664,Adelaide United,Melbourne City,2.0,1.0
+2374371,261664,Sydney FC,Melbourne Victory,1.0,3.0
+2374372,261664,Melbourne Victory,Adelaide United,0.0,4.0
+2374373,261664,Melbourne City,Western Sydney Wanderers,1.0,2.0
+2374374,261664,Western Sydney Wanderers,Melbourne Victory,2.0,1.0
+2374375,261664,Adelaide United,Sydney FC,1.0,0.0
+2374376,261664,Sydney FC,Western Sydney Wanderers,0.0,1.0
+2374377,261664,Melbourne Victory,Melbourne City,0.0,0.0
+2374378,261664,Melbourne City,Sydney FC,2.0,2.0
+2374379,261664,Western Sydney Wanderers,Adelaide United,0.0,2.0
+2374380,261664,Melbourne City,Adelaide United,0.0,1.0
+2374381,261664,Melbourne Victory,Sydney FC,1.0,0.0
 2374382,261664,Adelaide United,Melbourne Victory,,
 2374383,261664,Western Sydney Wanderers,Melbourne City,,
 2374384,261664,Melbourne Victory,Western Sydney Wanderers,,
@@ -64449,3 +64449,43 @@ id,tournament_id,club1,club2,ht1,ht2
 2374387,261664,Melbourne City,Melbourne Victory,,
 2374388,261664,Sydney FC,Melbourne City,,
 2374389,261664,Adelaide United,Western Sydney Wanderers,,
+2374552,261639,Paris,Bayern Munchen,0,0
+2374553,261639,Atleti,Liverpool,1,0
+2374554,261639,Liverpool,Paris,3,2
+2374555,261639,Bayern Munchen,Real Madrid,0,1
+2374556,261639,Real Madrid,Liverpool,2,2
+2374557,261639,Paris,Atleti,0,0
+2374558,261639,Atleti,Real Madrid,0,1
+2374559,261639,Liverpool,Bayern Munchen,2,1
+2374560,261639,Bayern Munchen,Atleti,,
+2374561,261639,Real Madrid,Paris,,
+2374562,261639,Bayern Munchen,Paris,,
+2374563,261639,Liverpool,Atleti,,
+2374564,261639,Paris,Liverpool,,
+2374565,261639,Real Madrid,Bayern Munchen,,
+2374566,261639,Liverpool,Real Madrid,,
+2374567,261639,Atleti,Paris,,
+2374568,261639,Real Madrid,Atleti,,
+2374569,261639,Bayern Munchen,Liverpool,,
+2374570,261639,Atleti,Bayern Munchen,,
+2374571,261639,Paris,Real Madrid,,
+2374932,261678,Morocco,Germany,1,3
+2374933,261678,Belgium,Portugal,0,1
+2374934,261678,Portugal,Morocco,2,2
+2374935,261678,Germany,Netherlands,0,3
+2374936,261678,Netherlands,Portugal,2,0
+2374937,261678,Morocco,Belgium,1,1
+2374938,261678,Belgium,Netherlands,0,1
+2374939,261678,Portugal,Germany,2,0
+2374940,261678,Germany,Belgium,0,0
+2374941,261678,Netherlands,Morocco,2,1
+2374942,261678,Germany,Morocco,0,0
+2374943,261678,Portugal,Belgium,1,1
+2374944,261678,Morocco,Portugal,,
+2374945,261678,Netherlands,Germany,,
+2374946,261678,Portugal,Netherlands,,
+2374947,261678,Belgium,Morocco,,
+2374948,261678,Netherlands,Belgium,,
+2374949,261678,Germany,Portugal,,
+2374950,261678,Belgium,Germany,,
+2374951,261678,Morocco,Netherlands,,
