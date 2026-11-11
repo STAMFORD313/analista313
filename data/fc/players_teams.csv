@@ -64549,12 +64549,12 @@ id,tournament_id,club1,club2,ht1,ht2
 2374759,261674,Sporting CP,Man City,,
 2374760,261674,Arsenal,Sporting CP,,
 2374761,261674,B Dortmund,Juventus,,
-2374390,261658,Ecuador,Argentina,1,0
-2374391,261658,Colombia,Brazil,2,2
-2374392,261658,Brazil,Ecuador,1,3
-2374393,261658,Argentina,Uruguay,1,1
-2374394,261658,Uruguay,Brazil,5,1
-2374395,261658,Ecuador,Colombia,0,3
+2374390,261658,Ecuador,Argentina,1.0,0.0
+2374391,261658,Colombia,Brazil,2.0,2.0
+2374392,261658,Brazil,Ecuador,1.0,3.0
+2374393,261658,Argentina,Uruguay,1.0,1.0
+2374394,261658,Uruguay,Brazil,5.0,1.0
+2374395,261658,Ecuador,Colombia,0.0,3.0
 2374396,261658,Colombia,Uruguay,,
 2374397,261658,Brazil,Argentina,,
 2374398,261658,Argentina,Colombia,,
