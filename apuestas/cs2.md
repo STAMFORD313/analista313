@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 11/11/2026 08:02 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 11/11/2026 08:33 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## MOUZ vs G2 — 11/11 · 10:30
 
