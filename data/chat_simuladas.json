@@ -1397,7 +1397,9 @@
     "away": "Vrsac",
     "txt": "Gana Proleter 023",
     "odds": 2.6,
-    "p": 0.4444
+    "p": 0.4444,
+    "ok": "nula",
+    "por": "sin datos del partido"
    },
    {
     "src": "esports:cs2",
