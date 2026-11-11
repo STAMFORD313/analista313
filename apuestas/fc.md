@@ -1,82 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 11/11/2026 09:04 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## dor1an vs RuBIX — 11/11 · 09:07
-
-👀 candidata · 🎮⚽ FC 27 · Serie A · **Gana dor1an** @ **4.80** (Unibet) · prob 24% vs casas 18% · ventaja +15%
-
-- ✅ Valor: ventaja +15% (mín. 12% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 63.918 partidos)  
-Goles esperados: dor1an 2.35 · RuBIX 3.13  
-Ganador: dor1an 24% · empate 19% · RuBIX 57%  
-Total: más de 5.5 goles 47% · menos 53%  
-Hándicap RuBIX: −1.5 37% · −2.5 22%  
-🔎 **Claves**  
-• Forma: dor1an ✅❌❌❌✅ | RuBIX ❌✅✅❌✅  
-• Partidos: dor1an 134 | RuBIX 134  
-• Liga: Serie A  
-• Unibet: 1 4.80 · X 4.30 · 2 1.40 (sin margen 18%/20%/62%) · ventaja +15%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 4.80 (+15%) · Paf España 4.80 (+15%)  
-
-## DaVa vs dm1trena — 11/11 · 09:10
-
-👀 candidata · 🎮⚽ FC 27 · Champions League AFC · **Gana dm1trena** @ **8.50** (Unibet) · prob 19% vs casas 10% · ventaja +60%
-
-- ❌ Valor: ventaja +60% (mín. 23% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 63.918 partidos)  
-Goles esperados: DaVa 3.12 · dm1trena 2.00  
-Ganador: DaVa 63% · empate 18% · dm1trena 19%  
-Total: más de 5.5 goles 40% · menos 60%  
-Hándicap DaVa: −1.5 42% · −2.5 26%  
-🔎 **Claves**  
-• Forma: DaVa ➖✅❌❌✅ | dm1trena ❌➖❌✅➖  
-• Partidos: DaVa 1193 | dm1trena 1075  
-• Liga: Champions League AFC  
-• Unibet: 1 1.23 · X 4.60 · 2 8.50 (sin margen 71%/19%/10%) · ventaja +60%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 8.50 (+60%) · Paf España 8.50 (+60%)  
-
-## Tesla vs Taz — 11/11 · 09:16
-
-👀 candidata · 🎮⚽ FC 27 · Ligue 1 · **Gana Taz** @ **3.80** (Unibet) · prob 30% vs casas 23% · ventaja +13%
-
-- ✅ Valor: ventaja +13% (mín. 11% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 63.943 partidos)  
-Goles esperados: Tesla 3.82 · Taz 3.38  
-Ganador: Tesla 53% · empate 17% · Taz 30%  
-Total: más de 7.5 goles 43% · menos 57%  
-Hándicap Tesla: −1.5 34% · −2.5 22%  
-🔎 **Claves**  
-• Forma: Tesla ✅❌➖➖❌ | Taz ❌✅➖➖✅  
-• Partidos: Tesla 1011 | Taz 997  
-• Liga: Ligue 1  
-• Unibet: 1 1.55 · X 4.35 · 2 3.80 (sin margen 57%/20%/23%) · ventaja +13%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 3.80 (+13%) · Paf España 3.80 (+13%)  
-
-## RuBIX vs v1nn — 11/11 · 09:19
-
-👀 candidata · 🎮⚽ FC 27 · Serie A · **Gana RuBIX** @ **2.85** (Unibet) · prob 45% vs casas 31% · ventaja +28%
-
-- ✅ Valor: ventaja +28% (mín. 15% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 63.943 partidos)  
-Goles esperados: RuBIX 3.48 · v1nn 3.25  
-Ganador: RuBIX 45% · empate 18% · v1nn 37%  
-Total: más de 6.5 goles 51% · menos 49%  
-Hándicap RuBIX: −1.5 31% · −2.5 19%  
-🔎 **Claves**  
-• Forma: RuBIX ✅❌✅✅➖ | v1nn ✅❌✅❌✅  
-• Partidos: RuBIX 136 | v1nn 579  
-• Liga: Serie A  
-• Unibet: 1 2.85 · X 5.60 · 2 1.65 (sin margen 31%/16%/53%) · ventaja +28%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.85 (+28%) · Paf España 2.85 (+28%)  
+Actualizado 11/11/2026 09:33 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## TikitakaMaster vs v1nniePuh — 11/11 · 09:38
 
@@ -96,4 +20,61 @@ Hándicap TikitakaMaster: −1.5 41% · −2.5 29%
 • Liga: Champions League A 2x6  
 • Unibet: 1 1.36 · X 8.00 · 2 3.45 (sin margen 64%/11%/25%) · ventaja +14%. Sin stake hasta demostrar ROI con estas cuotas.  
 • En España: LeoVegas España 8.00 (+14%) · Paf España 8.00 (+14%)  
+
+## Edwardson vs dm1trena — 11/11 · 09:46
+
+👀 candidata · 🎮⚽ FC 27 · Champions League AFC · **Gana dm1trena** @ **3.10** (Unibet) · prob 40% vs casas 28% · ventaja +25%
+
+- ✅ Valor: ventaja +25% (mín. 15% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 63.966 partidos)  
+Goles esperados: Edwardson 2.10 · dm1trena 2.20  
+Ganador: Edwardson 36% · empate 24% · dm1trena 40%  
+Total: más de 4.5 goles 43% · menos 57%  
+Hándicap dm1trena: −1.5 24% · −2.5 12%  
+🔎 **Claves**  
+• Forma: Edwardson ✅❌✅❌➖ | dm1trena ✅➖✅✅❌  
+• Partidos: Edwardson 1202 | dm1trena 1078  
+• Liga: Champions League AFC  
+• Unibet: 1 1.98 · X 3.05 · 2 3.10 (sin margen 44%/28%/28%) · ventaja +25%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 3.10 (+25%) · Paf España 3.10 (+25%)  
+
+## v1nn vs A1ose — 11/11 · 09:55
+
+👀 candidata · 🎮⚽ FC 27 · Serie A · **Gana A1ose** @ **3.30** (Unibet) · prob 41% vs casas 26% · ventaja +34%
+
+- ❌ Valor: ventaja +34% (mín. 17% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 63.966 partidos)  
+Goles esperados: v1nn 3.80 · A1ose 3.71  
+Ganador: v1nn 42% · empate 17% · A1ose 41%  
+Total: más de 7.5 goles 48% · menos 52%  
+Hándicap v1nn: −1.5 30% · −2.5 19%  
+🔎 **Claves**  
+• Forma: v1nn ❌✅❌✅✅ | A1ose ✅❌✅✅❌  
+• Partidos: v1nn 582 | A1ose 928  
+• Liga: Serie A  
+• Unibet: 1 1.46 · X 6.10 · 2 3.30 (sin margen 59%/14%/26%) · ventaja +34%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 3.30 (+34%) · Paf España 3.30 (+34%)  
+
+## zoyir vs TikitakaMaster — 11/11 · 09:56
+
+👀 candidata · 🎮⚽ FC 27 · Champions League A 2x6 · **Gana zoyir** @ **3.10** (Unibet) · prob 40% vs casas 28% · ventaja +24%
+
+- ✅ Valor: ventaja +24% (mín. 14% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 63.966 partidos)  
+Goles esperados: zoyir 4.21 · TikitakaMaster 4.34  
+Ganador: zoyir 40% · empate 16% · TikitakaMaster 44%  
+Total: más de 8.5 goles 48% · menos 52%  
+Hándicap TikitakaMaster: −1.5 32% · −2.5 20%  
+🔎 **Claves**  
+• Forma: zoyir ✅❌❌➖✅ | TikitakaMaster ❌❌✅➖❌  
+• Partidos: zoyir 536 | TikitakaMaster 663  
+• Liga: Champions League A 2x6  
+• Unibet: 1 3.10 · X 5.60 · 2 1.57 (sin margen 28%/16%/56%) · ventaja +24%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 3.10 (+24%) · Paf España 3.10 (+24%)  
 
