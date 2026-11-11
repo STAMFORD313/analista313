@@ -1,63 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 11/11/2026 12:04 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## v1nn vs A1ose — 11/11 · 12:15
-
-👀 candidata · 🎮⚽ FC 27 · World Cup B · **Gana A1ose** @ **2.80** (Unibet) · prob 42% vs casas 31% · ventaja +16%
-
-- ✅ Valor: ventaja +16% (mín. 12% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 64.091 partidos)  
-Goles esperados: v1nn 3.60 · A1ose 3.72  
-Ganador: v1nn 41% · empate 17% · A1ose 42%  
-Total: más de 7.5 goles 45% · menos 55%  
-Hándicap A1ose: −1.5 30% · −2.5 18%  
-🔎 **Claves**  
-• Forma: v1nn ❌❌✅❌❌ | A1ose ✅➖✅❌✅  
-• Partidos: v1nn 590 | A1ose 936  
-• Liga: World Cup B  
-• Unibet: 1 1.72 · X 4.90 · 2 2.80 (sin margen 51%/18%/31%) · ventaja +16%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.80 (+16%) · Paf España 2.80 (+16%)  
-
-## dor1an vs cl1vlind — 11/11 · 12:15
-
-👀 candidata · 🎮⚽ FC 27 · World Cup B · **Gana cl1vlind** @ **2.38** (Unibet) · prob 47% vs casas 36% · ventaja +12%
-
-- ✅ Valor: ventaja +12% (mín. 11% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 64.098 partidos)  
-Goles esperados: dor1an 2.36 · cl1vlind 2.68  
-Ganador: dor1an 32% · empate 21% · cl1vlind 47%  
-Total: más de 5.5 goles 39% · menos 61%  
-Hándicap cl1vlind: −1.5 29% · −2.5 16%  
-🔎 **Claves**  
-• Forma: dor1an ❌✅❌➖➖ | cl1vlind ❌✅➖✅❌  
-• Partidos: dor1an 146 | cl1vlind 595  
-• Liga: World Cup B  
-• Unibet: 1 2.14 · X 3.80 · 2 2.38 (sin margen 41%/23%/37%) · ventaja +12%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.38 (+12%) · Paf España 2.38 (+12%)  
-
-## Jekunam vs DaVa — 11/11 · 12:18
-
-👀 candidata · 🎮⚽ FC 27 · Bundesliga · **Gana DaVa** @ **1.92** (Unibet) · prob 59% vs casas 45% · ventaja +14%
-
-- ✅ Valor: ventaja +14% (mín. 12% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 64.091 partidos)  
-Goles esperados: Jekunam 2.16 · DaVa 2.99  
-Ganador: Jekunam 22% · empate 19% · DaVa 59%  
-Total: más de 5.5 goles 41% · menos 59%  
-Hándicap DaVa: −1.5 37% · −2.5 22%  
-🔎 **Claves**  
-• Forma: Jekunam ➖✅✅➖❌ | DaVa ✅✅✅✅❌  
-• Partidos: Jekunam 1066 | DaVa 1205  
-• Liga: Bundesliga  
-• Unibet: 1 2.75 · X 3.70 · 2 1.92 (sin margen 31%/23%/45%) · ventaja +14%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 1.92 (+14%) · Paf España 1.92 (+14%)  
+Actualizado 11/11/2026 12:24 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## dm1trena vs DaVa — 11/11 · 12:30
 
@@ -115,4 +58,61 @@ Hándicap A1ose: −1.5 32% · −2.5 19%
 • Liga: World Cup B  
 • Unibet: 1 2.35 · X 2.75 · 2 2.75 (sin margen 37%/32%/32%) · ventaja +11%. Sin stake hasta demostrar ROI con estas cuotas.  
 • En España: LeoVegas España 2.35 (+11%) · Paf España 2.35 (+11%)  
+
+## Loka vs Smetana — 11/11 · 12:44
+
+👀 candidata · 🎮⚽ FC 27 · CSL · **Gana Loka** @ **1.86** (Unibet) · prob 59% vs casas 47% · ventaja +10%
+
+- ❌ Valor: ventaja +10% (mín. 11% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 64.120 partidos)  
+Goles esperados: Loka 4.00 · Smetana 3.32  
+Ganador: Loka 59% · empate 16% · Smetana 25%  
+Total: más de 7.5 goles 45% · menos 55%  
+Hándicap Loka: −1.5 38% · −2.5 25%  
+🔎 **Claves**  
+• Forma: Loka ✅➖✅✅✅ | Smetana ❌✅❌❌➖  
+• Partidos: Loka 1204 | Smetana 1188  
+• Liga: CSL  
+• Unibet: 1 1.86 · X 5.60 · 2 2.35 (sin margen 47%/16%/37%) · ventaja +10%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 1.86 (+10%) · Paf España 1.86 (+10%)  
+
+## Ganger_29 vs Taz — 11/11 · 12:48
+
+👀 candidata · 🎮⚽ FC 27 · World Cup A · **Gana Taz** @ **2.17** (Unibet) · prob 50% vs casas 40% · ventaja +9%
+
+- ❌ Valor: ventaja +9% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 64.120 partidos)  
+Goles esperados: Ganger_29 2.76 · Taz 3.32  
+Ganador: Ganger_29 31% · empate 19% · Taz 50%  
+Total: más de 6.5 goles 41% · menos 59%  
+Hándicap Taz: −1.5 35% · −2.5 21%  
+🔎 **Claves**  
+• Forma: Ganger_29 ✅❌➖✅✅ | Taz ➖✅❌➖❌  
+• Partidos: Ganger_29 884 | Taz 1009  
+• Liga: World Cup A  
+• Unibet: 1 2.16 · X 4.50 · 2 2.17 (sin margen 40%/19%/40%) · ventaja +9%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.17 (+9%) · Paf España 2.17 (+9%)  
+
+## MeLToSik vs DaVa — 11/11 · 12:54
+
+👀 candidata · 🎮⚽ FC 27 · Bundesliga · **Gana DaVa** @ **1.76** (Unibet) · prob 62% vs casas 50% · ventaja +9%
+
+- ❌ Valor: ventaja +9% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 64.120 partidos)  
+Goles esperados: MeLToSik 1.86 · DaVa 2.85  
+Ganador: MeLToSik 19% · empate 19% · DaVa 62%  
+Total: más de 4.5 goles 51% · menos 49%  
+Hándicap DaVa: −1.5 40% · −2.5 23%  
+🔎 **Claves**  
+• Forma: MeLToSik ➖➖❌❌✅ | DaVa ✅✅✅❌✅  
+• Partidos: MeLToSik 1176 | DaVa 1206  
+• Liga: Bundesliga  
+• Unibet: 1 3.50 · X 3.40 · 2 1.76 (sin margen 25%/26%/49%) · ventaja +9%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 1.76 (+9%) · Paf España 1.76 (+9%)  
 

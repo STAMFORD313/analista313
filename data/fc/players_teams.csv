@@ -64109,16 +64109,16 @@ id,tournament_id,club1,club2,ht1,ht2
 2374889,261685,England,Brazil,,
 2374890,261685,Argentina,England,,
 2374891,261685,Spain,France,,
-2373720,261626,Porto,Salzburg,0,0
-2373721,261626,Roma,Fenerbahce,1,3
-2373722,261626,Fenerbahce,Porto,2,2
-2373723,261626,Salzburg,Aston Villa,3,0
-2373724,261626,Aston Villa,Fenerbahce,1,4
-2373725,261626,Porto,Roma,2,2
-2373726,261626,Roma,Aston Villa,3,4
-2373727,261626,Fenerbahce,Salzburg,3,5
-2373728,261626,Salzburg,Roma,1,0
-2373729,261626,Aston Villa,Porto,2,0
+2373720,261626,Porto,Salzburg,0.0,0.0
+2373721,261626,Roma,Fenerbahce,1.0,3.0
+2373722,261626,Fenerbahce,Porto,2.0,2.0
+2373723,261626,Salzburg,Aston Villa,3.0,0.0
+2373724,261626,Aston Villa,Fenerbahce,1.0,4.0
+2373725,261626,Porto,Roma,2.0,2.0
+2373726,261626,Roma,Aston Villa,3.0,4.0
+2373727,261626,Fenerbahce,Salzburg,3.0,5.0
+2373728,261626,Salzburg,Roma,1.0,0.0
+2373729,261626,Aston Villa,Porto,2.0,0.0
 2373730,261626,Salzburg,Porto,,
 2373731,261626,Fenerbahce,Roma,,
 2373732,261626,Porto,Fenerbahce,,
@@ -64129,14 +64129,14 @@ id,tournament_id,club1,club2,ht1,ht2
 2373737,261626,Salzburg,Fenerbahce,,
 2373738,261626,Roma,Salzburg,,
 2373739,261626,Porto,Aston Villa,,
-2373800,261636,Germany,Morocco,1,1
-2373801,261636,Portugal,Netherlands,1,1
-2373802,261636,Netherlands,Germany,2,3
-2373803,261636,Morocco,Belgium,3,1
-2373804,261636,Belgium,Netherlands,1,0
-2373805,261636,Germany,Portugal,1,2
-2373806,261636,Portugal,Belgium,2,1
-2373807,261636,Netherlands,Morocco,1,3
+2373800,261636,Germany,Morocco,1.0,1.0
+2373801,261636,Portugal,Netherlands,1.0,1.0
+2373802,261636,Netherlands,Germany,2.0,3.0
+2373803,261636,Morocco,Belgium,3.0,1.0
+2373804,261636,Belgium,Netherlands,1.0,0.0
+2373805,261636,Germany,Portugal,1.0,2.0
+2373806,261636,Portugal,Belgium,2.0,1.0
+2373807,261636,Netherlands,Morocco,1.0,3.0
 2373808,261636,Morocco,Portugal,,
 2373809,261636,Belgium,Germany,,
 2373810,261636,Morocco,Germany,,
@@ -64149,12 +64149,12 @@ id,tournament_id,club1,club2,ht1,ht2
 2373817,261636,Morocco,Netherlands,,
 2373818,261636,Portugal,Morocco,,
 2373819,261636,Germany,Belgium,,
-2374016,261650,B Dortmund,Bayern Munchen,3,1
-2373881,261650,Stuttgart,Frankfurt,0,2
-2373882,261650,Frankfurt,B Dortmund,0,1
-2374017,261650,Bayern Munchen,Leipzig,0,1
-2373884,261650,Leipzig,Frankfurt,1,2
-2373885,261650,B Dortmund,Stuttgart,2,1
+2374016,261650,B Dortmund,Bayern Munchen,3.0,1.0
+2373881,261650,Stuttgart,Frankfurt,0.0,2.0
+2373882,261650,Frankfurt,B Dortmund,0.0,1.0
+2374017,261650,Bayern Munchen,Leipzig,0.0,1.0
+2373884,261650,Leipzig,Frankfurt,1.0,2.0
+2373885,261650,B Dortmund,Stuttgart,2.0,1.0
 2373886,261650,Stuttgart,Leipzig,,
 2374018,261650,Frankfurt,Bayern Munchen,,
 2374019,261650,Bayern Munchen,Stuttgart,,
@@ -64169,14 +64169,14 @@ id,tournament_id,club1,club2,ht1,ht2
 2374022,261650,Bayern Munchen,Frankfurt,,
 2374023,261650,Stuttgart,Bayern Munchen,,
 2373899,261650,B Dortmund,Leipzig,,
-2374320,261659,Chengdu Rongcheng,Shanghai Shenhua,3,0
-2374321,261659,Shandong Taishan,Shanghai Port,2,2
-2374322,261659,Shanghai Port,Chengdu Rongcheng,2,1
-2374323,261659,Shanghai Shenhua,Beijing Guoan,3,2
-2374324,261659,Beijing Guoan,Shanghai Port,1,2
-2374325,261659,Chengdu Rongcheng,Shandong Taishan,0,4
-2374326,261659,Shandong Taishan,Beijing Guoan,2,1
-2374327,261659,Shanghai Port,Shanghai Shenhua,1,0
+2374320,261659,Chengdu Rongcheng,Shanghai Shenhua,3.0,0.0
+2374321,261659,Shandong Taishan,Shanghai Port,2.0,2.0
+2374322,261659,Shanghai Port,Chengdu Rongcheng,2.0,1.0
+2374323,261659,Shanghai Shenhua,Beijing Guoan,3.0,2.0
+2374324,261659,Beijing Guoan,Shanghai Port,1.0,2.0
+2374325,261659,Chengdu Rongcheng,Shandong Taishan,0.0,4.0
+2374326,261659,Shandong Taishan,Beijing Guoan,2.0,1.0
+2374327,261659,Shanghai Port,Shanghai Shenhua,1.0,0.0
 2374328,261659,Shanghai Shenhua,Shandong Taishan,,
 2374329,261659,Beijing Guoan,Chengdu Rongcheng,,
 2374330,261659,Shanghai Shenhua,Chengdu Rongcheng,,
