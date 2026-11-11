@@ -1,94 +1,6 @@
 # 🏈 NFL·NCAA · apuestas de valor
 
-Actualizado 11/11/2026 00:54 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Akron Zips vs Western Michigan Broncos — 11/11 · 01:00
-
-👀 candidata · 🏈 NCAA Football · **Más de 47.5 puntos** @ **1.91** (DraftKings) · prob 50% vs casas 50% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 totales» sin pérdidas demostradas
-
-📊 **Escenarios**: total esperado **46.6** puntos · línea 47.5  
-Más 50% · Menos 50%  
-🔎 **Claves**  
-• Forma: Akron Zips ❌❌❌❌❌ | Western Michigan Broncos ✅✅✅❌✅  
-• H2H: 4 desde 2017: 1-3  
-• Bajas: Akron Zips: sin bajas; Western Michigan Broncos: sin bajas  
-
-## Akron Zips vs Western Michigan Broncos — 11/11 · 01:00
-
-👀 candidata · 🏈 NCAA Football · **Akron Zips +13.5** @ **1.91** (DraftKings) · prob 50% vs casas 50% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 hándicap» sin pérdidas demostradas
-
-📊 **Escenarios**: Akron Zips cubre +13.5 con prob. 50% (casas 50%)  
-🔎 **Claves**  
-• Forma: Akron Zips ❌❌❌❌❌ | Western Michigan Broncos ✅✅✅❌✅  
-• H2H: 4 desde 2017: 1-3  
-• Bajas: Akron Zips: sin bajas; Western Michigan Broncos: sin bajas  
-
-## Akron Zips vs Western Michigan Broncos — 11/11 · 01:00
-
-👀 candidata · 🏈 NCAA Football · **Gana Western Michigan Broncos** @ **1.17** (DraftKings) · prob 82% vs casas 82% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo con 9.490 partidos y bajas)  
-Gana Akron Zips 11% · Gana Western Michigan Broncos 89%  
-Casas: Akron Zips 18% · Western Michigan Broncos 82%  
-Hándicap WMU -13.5 · Total puntos 47.5  
-🔎 **Claves**  
-• Forma: Akron Zips ❌❌❌❌❌ | Western Michigan Broncos ✅✅✅❌✅  
-• H2H: 4 desde 2017: 1-3  
-• Bajas: Akron Zips: sin bajas; Western Michigan Broncos: sin bajas  
-• Favorito de las casas: Western Michigan Broncos @ 1.17  
-
-## Bowling Green Falcons vs Kent State Golden Flashes — 11/11 · 01:00
-
-👀 candidata · 🏈 NCAA Football · **Más de 44.5 puntos** @ **1.91** (DraftKings) · prob 50% vs casas 50% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 totales» sin pérdidas demostradas
-
-📊 **Escenarios**: total esperado **45.0** puntos · línea 44.5  
-Más 50% · Menos 50%  
-🔎 **Claves**  
-• Forma: Bowling Green Falcons ✅✅❌❌❌ | Kent State Golden Flashes ❌❌❌✅❌  
-• H2H: 10 desde 2016: 4-6  
-• Bajas: Bowling Green Falcons: sin bajas; Kent State Golden Flashes: sin bajas  
-
-## Bowling Green Falcons vs Kent State Golden Flashes — 11/11 · 01:00
-
-👀 candidata · 🏈 NCAA Football · **Bowling Green Falcons -5.5** @ **1.91** (DraftKings) · prob 50% vs casas 50% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 hándicap» sin pérdidas demostradas
-
-📊 **Escenarios**: Bowling Green Falcons cubre -5.5 con prob. 50% (casas 50%)  
-🔎 **Claves**  
-• Forma: Bowling Green Falcons ✅✅❌❌❌ | Kent State Golden Flashes ❌❌❌✅❌  
-• H2H: 10 desde 2016: 4-6  
-• Bajas: Bowling Green Falcons: sin bajas; Kent State Golden Flashes: sin bajas  
-
-## Bowling Green Falcons vs Kent State Golden Flashes — 11/11 · 01:00
-
-👀 candidata · 🏈 NCAA Football · **Gana Bowling Green Falcons** @ **1.49** (DraftKings) · prob 64% vs casas 64% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo con 9.490 partidos y bajas)  
-Gana Bowling Green Falcons 65% · Gana Kent State Golden Flashes 35%  
-Casas: Bowling Green Falcons 64% · Kent State Golden Flashes 36%  
-Hándicap BGSU -5.5 · Total puntos 44.5  
-🔎 **Claves**  
-• Forma: Bowling Green Falcons ✅✅❌❌❌ | Kent State Golden Flashes ❌❌❌✅❌  
-• H2H: 10 desde 2016: 4-6  
-• Bajas: Bowling Green Falcons: sin bajas; Kent State Golden Flashes: sin bajas  
-• Favorito de las casas: Bowling Green Falcons @ 1.49  
+Actualizado 11/11/2026 01:23 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Miami (OH) RedHawks vs Ohio Bobcats — 11/11 · 02:00
 
@@ -390,4 +302,136 @@ Hándicap UL -11.5 · Total puntos 49.5
 • H2H: 8 desde 2018: 1-7  
 • Bajas: UL Monroe Warhawks: sin bajas; Louisiana Ragin' Cajuns: sin bajas  
 • Favorito de las casas: Louisiana Ragin' Cajuns @ 1.24  
+
+## Pittsburgh Panthers vs Florida State Seminoles — 14/11 · 01:00
+
+👀 candidata · 🏈 NCAA Football · **Más de 53.5 puntos** @ **1.87** (DraftKings) · prob 51% vs casas 51% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🏈 totales» sin pérdidas demostradas
+
+📊 **Escenarios**: total esperado **56.0** puntos · línea 53.5  
+Más 51% · Menos 49%  
+🔎 **Claves**  
+• Forma: Pittsburgh Panthers ✅❌❌❌✅ | Florida State Seminoles ✅❌❌❌✅  
+• H2H: 3 desde 2020: 2-1  
+• Bajas: Pittsburgh Panthers: sin bajas; Florida State Seminoles: sin bajas  
+
+## Pittsburgh Panthers vs Florida State Seminoles — 14/11 · 01:00
+
+👀 candidata · 🏈 NCAA Football · **Pittsburgh Panthers -3.5** @ **1.93** (DraftKings) · prob 50% vs casas 50% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🏈 hándicap» sin pérdidas demostradas
+
+📊 **Escenarios**: Pittsburgh Panthers cubre -3.5 con prob. 50% (casas 50%)  
+🔎 **Claves**  
+• Forma: Pittsburgh Panthers ✅❌❌❌✅ | Florida State Seminoles ✅❌❌❌✅  
+• H2H: 3 desde 2020: 2-1  
+• Bajas: Pittsburgh Panthers: sin bajas; Florida State Seminoles: sin bajas  
+
+## Pittsburgh Panthers vs Florida State Seminoles — 14/11 · 01:00
+
+👀 candidata · 🏈 NCAA Football · **Gana Pittsburgh Panthers** @ **1.59** (DraftKings) · prob 60% vs casas 60% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🏈 favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo con 9.518 partidos y bajas)  
+Gana Pittsburgh Panthers 65% · Gana Florida State Seminoles 35%  
+Casas: Pittsburgh Panthers 60% · Florida State Seminoles 40%  
+Hándicap PITT -3.5 · Total puntos 53.5  
+🔎 **Claves**  
+• Forma: Pittsburgh Panthers ✅❌❌❌✅ | Florida State Seminoles ✅❌❌❌✅  
+• H2H: 3 desde 2020: 2-1  
+• Bajas: Pittsburgh Panthers: sin bajas; Florida State Seminoles: sin bajas  
+• Favorito de las casas: Pittsburgh Panthers @ 1.59  
+
+## UCLA Bruins vs Illinois Fighting Illini — 14/11 · 03:00
+
+👀 candidata · 🏈 NCAA Football · **Más de 47.5 puntos** @ **1.87** (DraftKings) · prob 51% vs casas 51% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🏈 totales» sin pérdidas demostradas
+
+📊 **Escenarios**: total esperado **51.1** puntos · línea 47.5  
+Más 51% · Menos 49%  
+🔎 **Claves**  
+• Forma: UCLA Bruins ✅✅✅✅✅ | Illinois Fighting Illini ❌✅✅✅✅  
+• H2H: sin precedentes  
+• Bajas: UCLA Bruins: sin bajas; Illinois Fighting Illini: sin bajas  
+
+## UCLA Bruins vs Illinois Fighting Illini — 14/11 · 03:00
+
+👀 candidata · 🏈 NCAA Football · **UCLA Bruins -10** @ **1.89** (DraftKings) · prob 50% vs casas 50% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🏈 hándicap» sin pérdidas demostradas
+
+📊 **Escenarios**: UCLA Bruins cubre -10 con prob. 50% (casas 50%)  
+🔎 **Claves**  
+• Forma: UCLA Bruins ✅✅✅✅✅ | Illinois Fighting Illini ❌✅✅✅✅  
+• H2H: sin precedentes  
+• Bajas: UCLA Bruins: sin bajas; Illinois Fighting Illini: sin bajas  
+
+## UCLA Bruins vs Illinois Fighting Illini — 14/11 · 03:00
+
+👀 candidata · 🏈 NCAA Football · **Gana UCLA Bruins** @ **1.26** (DraftKings) · prob 76% vs casas 76% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🏈 favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo con 9.518 partidos y bajas)  
+Gana UCLA Bruins 60% · Gana Illinois Fighting Illini 40%  
+Casas: UCLA Bruins 76% · Illinois Fighting Illini 24%  
+Hándicap UCLA -10 · Total puntos 47.5  
+🔎 **Claves**  
+• Forma: UCLA Bruins ✅✅✅✅✅ | Illinois Fighting Illini ❌✅✅✅✅  
+• H2H: sin precedentes  
+• Bajas: UCLA Bruins: sin bajas; Illinois Fighting Illini: sin bajas  
+• Favorito de las casas: UCLA Bruins @ 1.26  
+
+## Colorado Buffaloes vs Houston Cougars — 14/11 · 04:15
+
+👀 candidata · 🏈 NCAA Football · **Más de 51.5 puntos** @ **1.98** (DraftKings) · prob 48% vs casas 48% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🏈 totales» sin pérdidas demostradas
+
+📊 **Escenarios**: total esperado **53.5** puntos · línea 51.5  
+Más 48% · Menos 52%  
+🔎 **Claves**  
+• Forma: Colorado Buffaloes ❌❌❌✅❌ | Houston Cougars ✅✅✅❌✅  
+• H2H: 1 desde 2025: 0-1  
+• Bajas: Colorado Buffaloes: sin bajas; Houston Cougars: sin bajas  
+
+## Colorado Buffaloes vs Houston Cougars — 14/11 · 04:15
+
+👀 candidata · 🏈 NCAA Football · **Colorado Buffaloes +9.5** @ **1.93** (DraftKings) · prob 50% vs casas 50% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🏈 hándicap» sin pérdidas demostradas
+
+📊 **Escenarios**: Colorado Buffaloes cubre +9.5 con prob. 50% (casas 50%)  
+🔎 **Claves**  
+• Forma: Colorado Buffaloes ❌❌❌✅❌ | Houston Cougars ✅✅✅❌✅  
+• H2H: 1 desde 2025: 0-1  
+• Bajas: Colorado Buffaloes: sin bajas; Houston Cougars: sin bajas  
+
+## Colorado Buffaloes vs Houston Cougars — 14/11 · 04:15
+
+👀 candidata · 🏈 NCAA Football · **Gana Houston Cougars** @ **1.26** (DraftKings) · prob 76% vs casas 76% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🏈 favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo con 9.518 partidos y bajas)  
+Gana Colorado Buffaloes 15% · Gana Houston Cougars 85%  
+Casas: Colorado Buffaloes 24% · Houston Cougars 76%  
+Hándicap HOU -9.5 · Total puntos 51.5  
+🔎 **Claves**  
+• Forma: Colorado Buffaloes ❌❌❌✅❌ | Houston Cougars ✅✅✅❌✅  
+• H2H: 1 desde 2025: 0-1  
+• Bajas: Colorado Buffaloes: sin bajas; Houston Cougars: sin bajas  
+• Favorito de las casas: Houston Cougars @ 1.26  
 

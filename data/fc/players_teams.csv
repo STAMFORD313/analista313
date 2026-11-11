@@ -63621,12 +63621,12 @@ id,tournament_id,club1,club2,ht1,ht2
 2374515,261572,Man City,Tottenham,,
 2373135,261572,Chelsea,Man City,,
 2373152,261572,Arsenal,Liverpool,,
-2372239,261549,England,Argentina,3,1
-2372240,261549,Spain,France,1,1
-2372241,261549,France,England,1,2
-2372242,261549,Argentina,Brazil,2,1
-2372243,261549,Brazil,France,1,1
-2372244,261549,England,Spain,1,2
+2372239,261549,England,Argentina,3.0,1.0
+2372240,261549,Spain,France,1.0,1.0
+2372241,261549,France,England,1.0,2.0
+2372242,261549,Argentina,Brazil,2.0,1.0
+2372243,261549,Brazil,France,1.0,1.0
+2372244,261549,England,Spain,1.0,2.0
 2372245,261549,Spain,Brazil,,
 2372246,261549,France,Argentina,,
 2372247,261549,Argentina,Spain,,
