@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 11/11/2026 07:03 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 11/11/2026 07:32 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Spirit vs FUT — 11/11 · 08:00
 
@@ -142,4 +142,24 @@ Casas: ex-Zero Tenacity 60% · Spirit Academy 40%
 🔫 **Kills esperados en la serie** (rango 80 %; mejor que la media de sus 10 últimas en 52.316 casos: log-loss 0.6819→0.6558; sin cuotas de props, solo referencia)  
 ex-Zero Tenacity: Dragon 36 (21-54) · brutmonster 36 (21-53) · VLDN 34 (20-51) · Cjoffo 34 (20-50) · Kind0 33 (19-49)  
 Spirit Academy: Kiryasoo 35 (20-52) · S1nside 35 (20-51) · k0gaSs 34 (19-50) · Netrix 31 (18-47) · VILBy 29 (17-44)  
+
+## Nordic Valor vs ROUNDS — 12/11 · 19:00
+
+👀 candidata · 🎮 CS2 · Elisa Open Suomi Season 14 · **Gana Nordic Valor** @ **2.63** (Thunderpick) · prob 36% vs casas 35% · ventaja -5%
+
+- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮 no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 76.702 partidos)  
+Mapa: Nordic Valor 41% · Serie BO3: Nordic Valor 37% - 63% ROUNDS  
+Casas: Nordic Valor 35% · ROUNDS 65%  
+🔎 **Claves**  
+• Elo: Nordic Valor 1313 (14 series) | ROUNDS 1406 (183 series)  
+• Forma: Nordic Valor ❌❌❌❌❌ | ROUNDS ❌❌✅✅❌  
+• H2H: 1: 0-1  
+• Torneo: Elisa Open Suomi Season 14 (nivel C)  
+• Cambios de plantilla: ninguno  
+🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
+• Nordic Valor gana 2-1: 17% → cuota justa 5.72  
+• ROUNDS gana 2-1: 25% → cuota justa 4.06  
 

@@ -1,61 +1,61 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 11/11/2026 07:03 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 11/11/2026 07:32 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## cl1vlind vs A1ose — 11/11 · 07:09
+## v1nniePuh vs TikitakaMaster — 11/11 · 07:48
 
-👀 candidata · 🎮⚽ FC 27 · World Cup A · **Gana A1ose** @ **2.55** (Unibet) · prob 48% vs casas 34% · ventaja +21%
+👀 candidata · 🎮⚽ FC 27 · Premier League 2x6 · **Empate** @ **8.50** (Unibet) · prob 14% vs casas 10% · ventaja +24%
 
-- ✅ Valor: ventaja +21% (mín. 14% con la incertidumbre, máx. 30%)
+- ✅ Valor: ventaja +24% (mín. 14% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 63.863 partidos)  
+Goles esperados: v1nniePuh 4.14 · TikitakaMaster 4.93  
+Ganador: v1nniePuh 29% · empate 15% · TikitakaMaster 57%  
+Total: más de 9.5 goles 42% · menos 58%  
+Hándicap TikitakaMaster: −1.5 40% · −2.5 28%  
+🔎 **Claves**  
+• Forma: v1nniePuh ❌✅✅❌✅ | TikitakaMaster ✅❌❌✅❌  
+• Partidos: v1nniePuh 660 | TikitakaMaster 659  
+• Liga: Premier League 2x6  
+• Unibet: 1 3.30 · X 8.50 · 2 1.37 (sin margen 26%/10%/63%) · ventaja +24%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 8.50 (+24%) · Paf España 8.50 (+24%)  
+
+## dm1trena vs MeLToSik — 11/11 · 07:48
+
+👀 candidata · 🎮⚽ FC 27 · Europa League · **Gana MeLToSik** @ **2.90** (Unibet) · prob 40% vs casas 30% · ventaja +17%
+
+- ✅ Valor: ventaja +17% (mín. 13% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 63.833 partidos)  
-Goles esperados: cl1vlind 2.76 · A1ose 3.14  
-Ganador: cl1vlind 33% · empate 19% · A1ose 48%  
-Total: más de 5.5 goles 54% · menos 46%  
-Hándicap A1ose: −1.5 32% · −2.5 19%  
+📊 **Escenarios** (Poisson por jugador, 63.863 partidos)  
+Goles esperados: dm1trena 2.37 · MeLToSik 2.41  
+Ganador: dm1trena 37% · empate 22% · MeLToSik 40%  
+Total: más de 4.5 goles 52% · menos 48%  
+Hándicap MeLToSik: −1.5 25% · −2.5 13%  
 🔎 **Claves**  
-• Forma: cl1vlind ❌❌❌❌➖ | A1ose ❌✅❌✅✅  
-• Partidos: cl1vlind 577 | A1ose 919  
-• Liga: World Cup A  
-• Unibet: 1 2.90 · X 2.40 · 2 2.55 (sin margen 30%/36%/34%) · ventaja +21%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.55 (+21%) · Paf España 2.55 (+21%)  
-
-## RuBIX vs v1nn — 11/11 · 07:09
-
-👀 candidata · 🎮⚽ FC 27 · World Cup A · **Gana RuBIX** @ **2.75** (Unibet) · prob 42% vs casas 32% · ventaja +14%
-
-- ✅ Valor: ventaja +14% (mín. 12% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 63.833 partidos)  
-Goles esperados: RuBIX 3.42 · v1nn 3.22  
-Ganador: RuBIX 42% · empate 18% · v1nn 40%  
-Total: más de 6.5 goles 49% · menos 51%  
-Hándicap RuBIX: −1.5 30% · −2.5 18%  
-🔎 **Claves**  
-• Forma: RuBIX ❌✅✅✅✅ | v1nn ✅✅❌❌❌  
-• Partidos: RuBIX 128 | v1nn 572  
-• Liga: World Cup A  
-• Unibet: 1 2.75 · X 5.20 · 2 1.71 (sin margen 32%/17%/51%) · ventaja +14%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.75 (+14%) · Paf España 2.75 (+14%)  
-
-## dm1trena vs Jekunam — 11/11 · 07:12
-
-👀 candidata · 🎮⚽ FC 27 · Europa League · **Gana Jekunam** @ **2.38** (Unibet) · prob 47% vs casas 36% · ventaja +13%
-
-- ✅ Valor: ventaja +13% (mín. 12% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 63.833 partidos)  
-Goles esperados: dm1trena 2.43 · Jekunam 2.81  
-Ganador: dm1trena 32% · empate 21% · Jekunam 47%  
-Total: más de 5.5 goles 43% · menos 57%  
-Hándicap Jekunam: −1.5 30% · −2.5 17%  
-🔎 **Claves**  
-• Forma: dm1trena ❌➖✅➖✅ | Jekunam ✅❌❌➖❌  
-• Partidos: dm1trena 1069 | Jekunam 1050  
+• Forma: dm1trena ✅➖✅➖❌ | MeLToSik ❌✅❌✅✅  
+• Partidos: dm1trena 1071 | MeLToSik 1158  
 • Liga: Europa League  
-• Unibet: 1 2.63 · X 2.80 · 2 2.38 (sin margen 33%/31%/36%) · ventaja +13%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.38 (+13%) · Paf España 2.38 (+13%)  
+• Unibet: 1 2.00 · X 3.25 · 2 2.90 (sin margen 43%/27%/30%) · ventaja +17%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.90 (+17%) · Paf España 2.90 (+17%)  
+
+## RuBIX vs dor1an — 11/11 · 07:57
+
+👀 candidata · 🎮⚽ FC 27 · World Cup A · **Gana dor1an** @ **5.10** (Unibet) · prob 26% vs casas 17% · ventaja +30%
+
+- ❌ Valor: ventaja +30% (mín. 16% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 63.863 partidos)  
+Goles esperados: RuBIX 3.14 · dor1an 2.37  
+Ganador: RuBIX 55% · empate 19% · dor1an 26%  
+Total: más de 5.5 goles 47% · menos 53%  
+Hándicap RuBIX: −1.5 37% · −2.5 22%  
+🔎 **Claves**  
+• Forma: RuBIX ✅✅✅❌❌ | dor1an ❌✅❌➖✅  
+• Partidos: RuBIX 130 | dor1an 130  
+• Liga: World Cup A  
+• Unibet: 1 1.41 · X 4.00 · 2 5.10 (sin margen 61%/22%/17%) · ventaja +30%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 5.10 (+30%) · Paf España 5.10 (+30%)  
 
