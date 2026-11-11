@@ -1,44 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 11/11/2026 10:54 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## A1ose vs v1nn — 11/11 · 11:15
-
-👀 candidata · 🎮⚽ FC 27 · World Cup B · **Gana A1ose** @ **3.60** (Unibet) · prob 40% vs casas 24% · ventaja +43%
-
-- ❌ Valor: ventaja +43% (mín. 19% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 64.048 partidos)  
-Goles esperados: A1ose 3.66 · v1nn 3.66  
-Ganador: A1ose 40% · empate 17% · v1nn 43%  
-Total: más de 7.5 goles 45% · menos 55%  
-Hándicap v1nn: −1.5 29% · −2.5 17%  
-🔎 **Claves**  
-• Forma: A1ose ❌❌✅✅➖ | v1nn ✅❌✅❌❌  
-• Partidos: A1ose 933 | v1nn 587  
-• Liga: World Cup B  
-• Unibet: 1 3.60 · X 5.20 · 2 1.50 (sin margen 24%/17%/59%) · ventaja +43%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 3.60 (+43%) · Paf España 3.60 (+43%)  
-
-## v1nniePuh vs TikitakaMaster — 11/11 · 11:18
-
-👀 candidata · 🎮⚽ FC 27 · Champions League A 2x6 · **Empate** @ **9.00** (Unibet) · prob 14% vs casas 10% · ventaja +28%
-
-- ✅ Valor: ventaja +28% (mín. 15% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 64.048 partidos)  
-Goles esperados: v1nniePuh 4.32 · TikitakaMaster 5.14  
-Ganador: v1nniePuh 30% · empate 14% · TikitakaMaster 55%  
-Total: más de 9.5 goles 47% · menos 53%  
-Hándicap TikitakaMaster: −1.5 41% · −2.5 29%  
-🔎 **Claves**  
-• Forma: v1nniePuh ➖✅❌✅❌ | TikitakaMaster ❌❌✅✅✅  
-• Partidos: v1nniePuh 668 | TikitakaMaster 667  
-• Liga: Champions League A 2x6  
-• Unibet: 1 3.60 · X 9.00 · 2 1.32 (sin margen 24%/10%/66%) · ventaja +28%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 9.00 (+28%) · Paf España 9.00 (+28%)  
+Actualizado 11/11/2026 11:24 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## DaVa vs dm1trena — 11/11 · 11:30
 
@@ -58,4 +20,61 @@ Hándicap DaVa: −1.5 43% · −2.5 27%
 • Liga: Bundesliga  
 • Unibet: 1 1.22 · X 4.60 · 2 9.00 (sin margen 71%/19%/10%) · ventaja +66%. Sin stake hasta demostrar ROI con estas cuotas.  
 • En España: LeoVegas España 9.00 (+66%) · Paf España 9.00 (+66%)  
+
+## TikitakaMaster vs zoyir — 11/11 · 11:36
+
+👀 candidata · 🎮⚽ FC 27 · Champions League A 2x6 · **Gana zoyir** @ **2.88** (Unibet) · prob 38% vs casas 31% · ventaja +11%
+
+- ✅ Valor: ventaja +11% (mín. 11% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 64.062 partidos)  
+Goles esperados: TikitakaMaster 4.41 · zoyir 4.17  
+Ganador: TikitakaMaster 46% · empate 16% · zoyir 39%  
+Total: más de 8.5 goles 49% · menos 51%  
+Hándicap TikitakaMaster: −1.5 33% · −2.5 22%  
+🔎 **Claves**  
+• Forma: TikitakaMaster ❌✅✅✅✅ | zoyir ➖❌❌➖✅  
+• Partidos: TikitakaMaster 668 | zoyir 541  
+• Liga: Champions League A 2x6  
+• Unibet: 1 1.65 · X 5.50 · 2 2.88 (sin margen 53%/16%/31%) · ventaja +11%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.88 (+11%) · Paf España 2.88 (+11%)  
+
+## RuBIX vs v1nn — 11/11 · 11:39
+
+👀 candidata · 🎮⚽ FC 27 · World Cup B · **Gana RuBIX** @ **2.85** (Unibet) · prob 44% vs casas 31% · ventaja +27%
+
+- ✅ Valor: ventaja +27% (mín. 15% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 64.062 partidos)  
+Goles esperados: RuBIX 3.53 · v1nn 3.19  
+Ganador: RuBIX 44% · empate 18% · v1nn 37%  
+Total: más de 6.5 goles 51% · menos 49%  
+Hándicap RuBIX: −1.5 32% · −2.5 20%  
+🔎 **Claves**  
+• Forma: RuBIX ✅✅✅➖❌ | v1nn ✅❌✅❌❌  
+• Partidos: RuBIX 144 | v1nn 587  
+• Liga: World Cup B  
+• Unibet: 1 2.85 · X 5.60 · 2 1.65 (sin margen 31%/16%/53%) · ventaja +27%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.85 (+27%) · Paf España 2.85 (+27%)  
+
+## A1ose vs RuBIX — 11/11 · 11:51
+
+👀 candidata · 🎮⚽ FC 27 · World Cup B · **Gana RuBIX** @ **2.45** (Unibet) · prob 45% vs casas 36% · ventaja +11%
+
+- ✅ Valor: ventaja +11% (mín. 11% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 64.062 partidos)  
+Goles esperados: A1ose 2.99 · RuBIX 3.26  
+Ganador: A1ose 36% · empate 19% · RuBIX 45%  
+Total: más de 6.5 goles 43% · menos 57%  
+Hándicap RuBIX: −1.5 31% · −2.5 18%  
+🔎 **Claves**  
+• Forma: A1ose ❌✅✅➖✅ | RuBIX ✅✅✅➖❌  
+• Partidos: A1ose 934 | RuBIX 144  
+• Liga: World Cup B  
+• Unibet: 1 1.98 · X 4.25 · 2 2.45 (sin margen 44%/20%/36%) · ventaja +11%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.45 (+11%) · Paf España 2.45 (+11%)  
 
