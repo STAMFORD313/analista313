@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 11/11/2026 15:56 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 11/11/2026 16:24 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Sissi State Punks vs Team LEISURE — 11/11 · 18:00
 

@@ -64349,14 +64349,14 @@ id,tournament_id,club1,club2,ht1,ht2
 2374739,261672,France,Argentina,,
 2374740,261672,Germany,France,,
 2374741,261672,Spain,England,,
-2374912,261677,Juventus,Roma,1,1
-2374913,261677,Napoli,Bologna,2,2
-2374914,261677,Bologna,Juventus,2,1
-2374915,261677,Roma,Sassuolo,2,2
-2374916,261677,Sassuolo,Bologna,0,1
-2374917,261677,Juventus,Napoli,3,0
-2374918,261677,Napoli,Sassuolo,0,0
-2374919,261677,Bologna,Roma,1,0
+2374912,261677,Juventus,Roma,1.0,1.0
+2374913,261677,Napoli,Bologna,2.0,2.0
+2374914,261677,Bologna,Juventus,2.0,1.0
+2374915,261677,Roma,Sassuolo,2.0,2.0
+2374916,261677,Sassuolo,Bologna,0.0,1.0
+2374917,261677,Juventus,Napoli,3.0,0.0
+2374918,261677,Napoli,Sassuolo,0.0,0.0
+2374919,261677,Bologna,Roma,1.0,0.0
 2374920,261677,Roma,Napoli,,
 2374921,261677,Sassuolo,Juventus,,
 2374922,261677,Roma,Juventus,,
@@ -64369,3 +64369,43 @@ id,tournament_id,club1,club2,ht1,ht2
 2374929,261677,Roma,Bologna,,
 2374930,261677,Napoli,Roma,,
 2374931,261677,Juventus,Sassuolo,,
+2374532,261638,Salzburg,Roma,1,0
+2374533,261638,Aston Villa,Porto,0,0
+2374534,261638,Porto,Salzburg,1,1
+2374535,261638,Roma,Fenerbahce,0,1
+2374536,261638,Fenerbahce,Porto,2,1
+2374537,261638,Salzburg,Aston Villa,1,2
+2374538,261638,Aston Villa,Fenerbahce,1,0
+2374539,261638,Porto,Roma,1,2
+2374540,261638,Roma,Aston Villa,1,2
+2374541,261638,Fenerbahce,Salzburg,1,1
+2374542,261638,Roma,Salzburg,,
+2374543,261638,Porto,Aston Villa,,
+2374544,261638,Salzburg,Porto,,
+2374545,261638,Fenerbahce,Roma,,
+2374546,261638,Porto,Fenerbahce,,
+2374547,261638,Aston Villa,Salzburg,,
+2374548,261638,Fenerbahce,Aston Villa,,
+2374549,261638,Roma,Porto,,
+2374550,261638,Aston Villa,Roma,,
+2374551,261638,Salzburg,Fenerbahce,,
+2374772,261646,Sporting CP,Arsenal,3,0
+2374773,261646,B Dortmund,Man City,1,2
+2374774,261646,Man City,Sporting CP,2,1
+2374775,261646,Arsenal,Juventus,2,0
+2374776,261646,Juventus,Man City,1,1
+2374777,261646,Sporting CP,B Dortmund,1,0
+2374778,261646,B Dortmund,Juventus,3,1
+2374779,261646,Man City,Arsenal,2,2
+2374780,261646,Arsenal,B Dortmund,,
+2374781,261646,Juventus,Sporting CP,,
+2374782,261646,Arsenal,Sporting CP,,
+2374783,261646,Man City,B Dortmund,,
+2374784,261646,Sporting CP,Man City,,
+2374785,261646,Juventus,Arsenal,,
+2374786,261646,Man City,Juventus,,
+2374787,261646,B Dortmund,Sporting CP,,
+2374788,261646,Juventus,B Dortmund,,
+2374789,261646,Arsenal,Man City,,
+2374790,261646,B Dortmund,Arsenal,,
+2374791,261646,Sporting CP,Juventus,,

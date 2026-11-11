@@ -1,61 +1,61 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 11/11/2026 15:56 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 11/11/2026 16:24 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## pikalicaaa vs Jankulovski — 11/11 · 16:01
+## pikalicaaa vs Sena — 11/11 · 16:25
 
-👀 candidata · 🎮⚽ FC 27 · Europa League · **Empate** @ **5.20** (Unibet) · prob 20% vs casas 17% · ventaja +5%
+👀 candidata · 🎮⚽ FC 27 · Europa League · **Empate** @ **5.30** (Unibet) · prob 21% vs casas 16% · ventaja +12%
 
-- ❌ Valor: ventaja +5% (mín. 9% con la incertidumbre, máx. 30%)
+- ✅ Valor: ventaja +12% (mín. 11% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 64.315 partidos)  
-Goles esperados: pikalicaaa 2.93 · Jankulovski 2.38  
-Ganador: pikalicaaa 50% · empate 20% · Jankulovski 29%  
-Total: más de 5.5 goles 44% · menos 56%  
-Hándicap pikalicaaa: −1.5 33% · −2.5 19%  
+📊 **Escenarios** (Poisson por jugador, 64.341 partidos)  
+Goles esperados: pikalicaaa 2.21 · Sena 2.72  
+Ganador: pikalicaaa 30% · empate 21% · Sena 49%  
+Total: más de 4.5 goles 55% · menos 45%  
+Hándicap Sena: −1.5 32% · −2.5 18%  
 🔎 **Claves**  
-• Forma: pikalicaaa ✅❌❌❌➖ | Jankulovski ❌❌❌✅❌  
-• Partidos: pikalicaaa 665 | Jankulovski 890  
+• Forma: pikalicaaa ❌❌➖❌✅ | Sena ➖❌✅➖➖  
+• Partidos: pikalicaaa 667 | Sena 675  
 • Liga: Europa League  
-• Unibet: 1 1.92 · X 5.20 · 2 2.33 (sin margen 46%/17%/38%) · ventaja +5%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 5.20 (+5%) · Paf España 5.20 (+5%)  
+• Unibet: 1 2.28 · X 5.30 · 2 1.94 (sin margen 38%/17%/45%) · ventaja +12%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 5.30 (+13%) · Paf España 5.30 (+13%)  
 
-## Gaga vs borees — 11/11 · 16:10
+## Maslja vs Duka — 11/11 · 16:34
 
-👀 candidata · 🎮⚽ FC 27 · Serie A · **Gana Gaga** @ **2.85** (Unibet) · prob 40% vs casas 30% · ventaja +14%
+👀 candidata · 🎮⚽ FC 27 · Serie A · **Gana Maslja** @ **3.70** (Unibet) · prob 34% vs casas 24% · ventaja +26%
 
-- ✅ Valor: ventaja +14% (mín. 12% con la incertidumbre, máx. 30%)
+- ✅ Valor: ventaja +26% (mín. 15% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 64.315 partidos)  
-Goles esperados: Gaga 2.61 · borees 2.51  
-Ganador: Gaga 40% · empate 21% · borees 38%  
-Total: más de 5.5 goles 40% · menos 60%  
-Hándicap Gaga: −1.5 26% · −2.5 14%  
+📊 **Escenarios** (Poisson por jugador, 64.341 partidos)  
+Goles esperados: Maslja 2.34 · Duka 2.61  
+Ganador: Maslja 34% · empate 22% · Duka 44%  
+Total: más de 4.5 goles 55% · menos 45%  
+Hándicap Duka: −1.5 28% · −2.5 15%  
 🔎 **Claves**  
-• Forma: Gaga ✅❌✅➖✅ | borees ➖❌➖❌✅  
-• Partidos: Gaga 1161 | borees 1047  
+• Forma: Maslja ❌✅✅❌➖ | Duka ✅❌❌✅➖  
+• Partidos: Maslja 945 | Duka 1116  
 • Liga: Serie A  
-• Unibet: 1 2.85 · X 2.95 · 2 2.16 (sin margen 30%/29%/40%) · ventaja +14%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.85 (+14%) · Paf España 2.85 (+14%)  
+• Unibet: 1 3.70 · X 3.80 · 2 1.64 (sin margen 24%/23%/53%) · ventaja +26%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 3.70 (+26%) · Paf España 3.70 (+26%)  
 
-## cappo vs Buu — 11/11 · 16:18
+## hit vs Animal — 11/11 · 16:52
 
-👀 candidata · 🎮⚽ FC 27 · International A 2x6 · **Gana cappo** @ **3.85** (Unibet) · prob 27% vs casas 23% · ventaja +6%
+👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana Animal** @ **3.20** (Unibet) · prob 40% vs casas 27% · ventaja +29%
 
-- ❌ Valor: ventaja +6% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Valor: ventaja +29% (mín. 16% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 64.315 partidos)  
-Goles esperados: cappo 4.04 · Buu 5.02  
-Ganador: cappo 27% · empate 14% · Buu 58%  
-Total: más de 9.5 goles 42% · menos 58%  
-Hándicap Buu: −1.5 43% · −2.5 30%  
+📊 **Escenarios** (Poisson por jugador, 64.341 partidos)  
+Goles esperados: hit 2.85 · Animal 2.94  
+Ganador: hit 40% · empate 20% · Animal 40%  
+Total: más de 5.5 goles 52% · menos 48%  
+Hándicap Animal: −1.5 27% · −2.5 15%  
 🔎 **Claves**  
-• Forma: cappo ❌✅❌❌❌ | Buu ❌✅✅❌✅  
-• Partidos: cappo 351 | Buu 767  
-• Liga: International A 2x6  
-• Unibet: 1 3.85 · X 6.40 · 2 1.36 (sin margen 23%/14%/64%) · ventaja +6%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 3.85 (+6%) · Paf España 3.85 (+6%)  
+• Forma: hit ❌✅✅❌❌ | Animal ➖✅❌❌✅  
+• Partidos: hit 744 | Animal 890  
+• Liga: Champions League B  
+• Unibet: 1 2.06 · X 2.80 · 2 3.20 (sin margen 42%/31%/27%) · ventaja +29%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 3.20 (+29%) · Paf España 3.20 (+29%)  
 
