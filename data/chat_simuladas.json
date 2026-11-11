@@ -2126,5 +2126,51 @@
   "estado": "perdida",
   "avisada": true,
   "rev": 2
+ },
+ {
+  "id": "20261111220220060543",
+  "creada": "2026-11-11 22:02:20.060581+00:00",
+  "titulo": "Barrido · Combinada cuota 6.7",
+  "legs": [
+   {
+    "src": "espn:nhl",
+    "side": "H",
+    "code": null,
+    "start": "2026-11-12 00:30:00+00:00",
+    "home": "Calgary Flames",
+    "away": "New York Rangers",
+    "txt": "Gana Calgary Flames",
+    "odds": 2.2,
+    "p": 0.46702999999999995
+   },
+   {
+    "src": "espn:nhl",
+    "side": "H",
+    "code": null,
+    "start": "2026-11-12 02:30:00+00:00",
+    "home": "Vegas Golden Knights",
+    "away": "Utah Mammoth",
+    "txt": "Gana Vegas Golden Knights",
+    "odds": 1.8,
+    "p": 0.5723
+   },
+   {
+    "src": "espn:nfl",
+    "side": "H",
+    "code": null,
+    "start": "2026-11-13 01:15:00+00:00",
+    "home": "New York Giants",
+    "away": "Washington Commanders",
+    "txt": "Gana New York Giants",
+    "odds": 1.704,
+    "p": 0.6091
+   }
+  ],
+  "odds": 6.75,
+  "p": 0.16280102094789997,
+  "stake": 1.0,
+  "estado": "pendiente",
+  "avisada": false,
+  "rev": 1
  }
 ]
