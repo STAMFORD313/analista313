@@ -1,19 +1,19 @@
 {
- "fecha": "2026-11-11 05:58",
+ "fecha": "2026-11-11 18:25",
  "bo3": {
   "1": {
    "próximos": 20,
    "ejemplo": [
-    [
-     "sissi-state-punks-vs-team-leisure--11-11-2026",
-     "DACH CS Masters Season 6"
-    ],
     [
      "big-academy-vs-46536a5420-11-12-2026",
      "DACH CS Masters Season 6"
     ],
     [
      "entropy-gaming-vs-playing-ducks-11-12-2026",
+     "DACH CS Masters Season 6"
+    ],
+    [
+     "ea31c66fc9-vs-dd7868067c-11-12-2026",
      "DACH CS Masters Season 6"
     ]
    ]
@@ -36,18 +36,18 @@
    ]
   },
   "3": {
-   "próximos": 4,
+   "próximos": 3,
    "ejemplo": [
     [
      "bilibili-gaming-lol-vs-gen-g-14-11-2026",
      "Worlds 2026"
     ],
     [
-     "ground-zero-gaming-vs-frank-esports-11-11-2026",
+     "nothinhere-vs-saigon-warriors-12-11-2026",
      "LCP 2027 Promotion"
     ],
     [
-     "nothinhere-vs-saigon-warriors-12-11-2026",
+     "detonation-focusme-lol-vs-f72ae51576-13-11-2026",
      "LCP 2027 Promotion"
     ]
    ]
@@ -85,11 +85,11 @@
      "EML Challenger Circuit 2026: Playoffs"
     ],
     [
-     "525d3c2794-vs-74ecb64c95-13-11-2026",
+     "virtuspro-1-vs-m80-1-13-11-2026",
      "BLAST R6 Major Osaka 2026"
     ],
     [
-     "f348b0b924-vs-65a99fe823-13-11-2026",
+     "team-liquid-1-vs-darkzero-esports-1-13-11-2026",
      "BLAST R6 Major Osaka 2026"
     ]
    ]
@@ -141,19 +141,17 @@
   }
  },
  "kambi_esports": {
-  "Esports / Dota 2 / DreamLeague Div. 2": 10,
   "Esports / CS2 / PGL Major": 8,
-  "Esports / CS2 / NODWIN Clutch Series": 4,
-  "Esports / CS2 / CCT European Series 14": 4,
-  "Esports / CS2 / BLAST Rivals Fall": 3,
-  "Esports / CS2 / United21": 3,
-  "Esports / Dota 2 / 1w Essence": 3,
+  "Esports / CS2 / BLAST Rivals Fall": 4,
+  "Esports / Rainbow 6 / BLAST Major": 4,
+  "Esports / Overwatch 2 / OWCS Asia": 3,
   "Esports / CS2 / STK Ranked": 3,
-  "Esports / League of Legends / LCP Promotion": 2,
-  "Esports / CS2 / CCT European Series 13": 2,
-  "Esports / CS2 / PGL Cluj-Napoca": 2,
+  "Esports / Dota 2 / DreamLeague Div. 2": 2,
   "Esports / CS2 / Svenska Cupen": 2,
+  "Esports / CS2 / CCT European Series 14": 1,
+  "Esports / League of Legends / LCP Promotion": 1,
   "Esports / CS2 / European Pro League": 1,
+  "Esports / CS2 / United21": 1,
   "Esports / Honor of Kings / KPL": 1,
   "Esports / League of Legends / World Championship": 1
  }
