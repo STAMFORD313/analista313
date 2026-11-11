@@ -34695,3 +34695,6 @@ game_id,match_id,slug,date,tier,bo,tournament_id,tournament,t1_id,t2_id,team1,te
 193526,133976,pcific-esport-vs-magic-ru-11-11-2026,2026-11-11T15:45:00.000+00:00,b,3,6249,PGL Cluj-Napoca 2027: Open Qualifier 1,6255,22218,PCIFIC,magic,3,de_inferno,22218,13.0,5.0
 193527,133976,pcific-esport-vs-magic-ru-11-11-2026,2026-11-11T15:45:00.000+00:00,b,3,6249,PGL Cluj-Napoca 2027: Open Qualifier 1,6255,22218,PCIFIC,magic,2,de_mirage,22218,13.0,2.0
 193528,133976,pcific-esport-vs-magic-ru-11-11-2026,2026-11-11T15:45:00.000+00:00,b,3,6249,PGL Cluj-Napoca 2027: Open Qualifier 1,6255,22218,PCIFIC,magic,1,de_dust2,6255,13.0,8.0
+192336,133194,quintessencia-vs-underworld-11-11-2026,2026-11-11T16:00:00.000+00:00,b,3,5624,CCT South America 2026 Series 8,23217,25139,QUINTESSÊNCIA,Underworld,3,de_ancient,23217,13.0,3.0
+192337,133194,quintessencia-vs-underworld-11-11-2026,2026-11-11T16:00:00.000+00:00,b,3,5624,CCT South America 2026 Series 8,23217,25139,QUINTESSÊNCIA,Underworld,2,de_inferno,25139,16.0,13.0
+192338,133194,quintessencia-vs-underworld-11-11-2026,2026-11-11T16:00:00.000+00:00,b,3,5624,CCT South America 2026 Series 8,23217,25139,QUINTESSÊNCIA,Underworld,1,de_dust2,23217,13.0,9.0
