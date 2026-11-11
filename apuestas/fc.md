@@ -1,44 +1,44 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 11/11/2026 14:54 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 11/11/2026 15:25 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## borees vs Gaga — 11/11 · 15:10
+## DaVa vs Jekunam — 11/11 · 15:28
 
-👀 candidata · 🎮⚽ FC 27 · Serie A · **Gana Gaga** @ **2.75** (Unibet) · prob 40% vs casas 31% · ventaja +11%
+👀 candidata · 🎮⚽ FC 27 · LaLiga · **Gana DaVa** @ **1.85** (Unibet) · prob 58% vs casas 47% · ventaja +8%
 
-- ❌ Valor: ventaja +11% (mín. 11% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+- ❌ Valor: ventaja +8% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 64.255 partidos)  
-Goles esperados: borees 2.49 · Gaga 2.60  
-Ganador: borees 38% · empate 21% · Gaga 40%  
+📊 **Escenarios** (Poisson por jugador, 64.283 partidos)  
+Goles esperados: DaVa 3.01 · Jekunam 2.07  
+Ganador: DaVa 58% · empate 19% · Jekunam 22%  
 Total: más de 5.5 goles 40% · menos 60%  
-Hándicap Gaga: −1.5 26% · −2.5 14%  
+Hándicap DaVa: −1.5 39% · −2.5 23%  
 🔎 **Claves**  
-• Forma: borees ✅❌➖➖❌ | Gaga ❌➖✅❌✅  
-• Partidos: borees 1044 | Gaga 1159  
-• Liga: Serie A  
-• Unibet: 1 2.06 · X 3.25 · 2 2.75 (sin margen 42%/27%/31%) · ventaja +11%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.75 (+11%) · Paf España 2.75 (+11%)  
+• Forma: DaVa ❌❌✅✅➖ | Jekunam ❌❌✅➖✅  
+• Partidos: DaVa 1218 | Jekunam 1080  
+• Liga: LaLiga  
+• Unibet: 1 1.85 · X 3.75 · 2 2.95 (sin margen 47%/23%/30%) · ventaja +8%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 1.85 (+8%) · Paf España 1.85 (+8%)  
 
-## dm1trena vs Edwardson — 11/11 · 15:16
+## MeLToSik vs dm1trena — 11/11 · 15:28
 
-👀 candidata · 🎮⚽ FC 27 · LaLiga · **Gana dm1trena** @ **3.05** (Unibet) · prob 37% vs casas 28% · ventaja +14%
+👀 candidata · 🎮⚽ FC 27 · LaLiga · **Gana MeLToSik** @ **2.43** (Unibet) · prob 44% vs casas 36% · ventaja +7%
 
-- ✅ Valor: ventaja +14% (mín. 12% con la incertidumbre, máx. 30%)
+- ❌ Valor: ventaja +7% (mín. 10% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 64.255 partidos)  
-Goles esperados: dm1trena 2.20 · Edwardson 2.18  
-Ganador: dm1trena 37% · empate 23% · Edwardson 39%  
-Total: más de 4.5 goles 44% · menos 56%  
-Hándicap dm1trena: −1.5 23% · −2.5 11%  
+📊 **Escenarios** (Poisson por jugador, 64.283 partidos)  
+Goles esperados: MeLToSik 2.35 · dm1trena 2.18  
+Ganador: MeLToSik 44% · empate 23% · dm1trena 33%  
+Total: más de 4.5 goles 47% · menos 53%  
+Hándicap MeLToSik: −1.5 26% · −2.5 13%  
 🔎 **Claves**  
-• Forma: dm1trena ❌❌✅✅❌ | Edwardson ✅❌✅❌❌  
-• Partidos: dm1trena 1098 | Edwardson 1222  
+• Forma: MeLToSik ✅✅❌✅➖ | dm1trena ❌✅✅❌➖  
+• Partidos: MeLToSik 1187 | dm1trena 1099  
 • Liga: LaLiga  
-• Unibet: 1 3.05 · X 2.80 · 2 2.14 (sin margen 28%/31%/41%) · ventaja +14%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 3.05 (+14%) · Paf España 3.05 (+14%)  
+• Unibet: 1 2.43 · X 3.35 · 2 2.28 (sin margen 36%/26%/38%) · ventaja +7%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.43 (+7%) · Paf España 2.43 (+7%)  
 
 ## borees vs Rodja — 11/11 · 15:34
 

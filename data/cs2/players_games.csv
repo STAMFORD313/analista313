@@ -34681,3 +34681,7 @@ game_id,match_id,slug,date,tier,bo,tournament_id,tournament,t1_id,t2_id,team1,te
 191052,132593,mouz-cs2-vs-g2-11-11-2026,2026-11-11T09:30:00.000+00:00,s,3,4224,BLAST Rivals Fall 2026,765,793,MOUZ,G2,1,de_nuke,765,13.0,7.0
 192472,133239,genone-vs-inner-circle-academy-11-11-2026,2026-11-11T12:00:00.000+00:00,b,3,5628,CCT Europe 2026 Series 13,1406,22737,GenOne,Inner Circle Academy,2,de_ancient,22737,13.0,6.0
 192473,133239,genone-vs-inner-circle-academy-11-11-2026,2026-11-11T12:00:00.000+00:00,b,3,5628,CCT Europe 2026 Series 13,1406,22737,GenOne,Inner Circle Academy,1,de_anubis,22737,13.0,7.0
+192833,133374,nexus-vs-mouz-nxt-11-11-2026,2026-11-11T12:00:00.000+00:00,b,3,5629,CCT Europe 2026 Series 14,326,1455,Nexus,MOUZ NXT,2,de_mirage,326,13.0,7.0
+192834,133374,nexus-vs-mouz-nxt-11-11-2026,2026-11-11T12:00:00.000+00:00,b,3,5629,CCT Europe 2026 Series 14,326,1455,Nexus,MOUZ NXT,1,de_anubis,326,13.0,9.0
+193312,133838,phantom-esports-vs-drama-esports-11-11-2026,2026-11-11T12:00:00.000+00:00,b,3,6240,NODWIN Clutch Series 14,19204,22812,Phantom,Drama,2,de_nuke,19204,13.0,7.0
+193313,133838,phantom-esports-vs-drama-esports-11-11-2026,2026-11-11T12:00:00.000+00:00,b,3,6240,NODWIN Clutch Series 14,19204,22812,Phantom,Drama,1,de_mirage,19204,13.0,7.0

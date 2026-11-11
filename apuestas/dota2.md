@@ -1,6 +1,6 @@
 # 🐉 Dota 2 · apuestas de valor
 
-Actualizado 11/11/2026 14:54 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 11/11/2026 15:25 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Xipto Esports vs Froglings — 11/11 · 17:00
 

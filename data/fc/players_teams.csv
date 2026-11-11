@@ -64289,3 +64289,63 @@ id,tournament_id,club1,club2,ht1,ht2
 2374347,261661,Shanghai Port,Shanghai Shenhua,4.0,1.0
 2374348,261661,Shanghai Shenhua,Shandong Taishan,0.0,0.0
 2374349,261661,Beijing Guoan,Chengdu Rongcheng,0.0,0.0
+2374046,261620,Real Madrid,Bayern Munchen,3,3
+2374047,261620,Liverpool,Paris,0,1
+2374048,261620,Paris,Real Madrid,5,5
+2374049,261620,Bayern Munchen,Atleti,1,1
+2374050,261620,Atleti,Paris,1,0
+2374051,261620,Real Madrid,Liverpool,2,2
+2374052,261620,Liverpool,Atleti,0,1
+2374053,261620,Paris,Bayern Munchen,0,1
+2374054,261620,Bayern Munchen,Liverpool,1,0
+2374055,261620,Atleti,Real Madrid,1,0
+2374056,261620,Bayern Munchen,Real Madrid,,
+2374057,261620,Paris,Liverpool,,
+2374058,261620,Real Madrid,Paris,,
+2374059,261620,Atleti,Bayern Munchen,,
+2374060,261620,Paris,Atleti,,
+2374061,261620,Liverpool,Real Madrid,,
+2374062,261620,Atleti,Liverpool,,
+2374063,261620,Bayern Munchen,Paris,,
+2374064,261620,Liverpool,Bayern Munchen,,
+2374065,261620,Real Madrid,Atleti,,
+2374350,261662,PSV,Ajax,0,2
+2374351,261662,Feyenoord,Twente,0,3
+2374352,261662,Twente,PSV,0,2
+2374353,261662,Ajax,AZ Alkmaar,1,2
+2374354,261662,AZ Alkmaar,Twente,1,1
+2374355,261662,PSV,Feyenoord,1,3
+2374356,261662,Feyenoord,AZ Alkmaar,2,0
+2374357,261662,Twente,Ajax,3,1
+2374358,261662,Ajax,Feyenoord,,
+2374359,261662,AZ Alkmaar,PSV,,
+2374360,261662,Ajax,PSV,,
+2374361,261662,Twente,Feyenoord,,
+2374362,261662,PSV,Twente,,
+2374363,261662,AZ Alkmaar,Ajax,,
+2374364,261662,Twente,AZ Alkmaar,,
+2374365,261662,Feyenoord,PSV,,
+2374366,261662,AZ Alkmaar,Feyenoord,,
+2374367,261662,Ajax,Twente,,
+2374368,261662,Feyenoord,Ajax,,
+2374369,261662,PSV,AZ Alkmaar,,
+2374722,261672,Spain,France,1,2
+2374723,261672,Germany,Argentina,2,1
+2374724,261672,Argentina,Spain,6,1
+2374725,261672,France,England,2,1
+2374726,261672,England,Argentina,3,2
+2374727,261672,Spain,Germany,0,4
+2374728,261672,Germany,England,,
+2374729,261672,Argentina,France,,
+2374730,261672,France,Germany,,
+2374731,261672,England,Spain,,
+2374732,261672,France,Spain,,
+2374733,261672,Argentina,Germany,,
+2374734,261672,Spain,Argentina,,
+2374735,261672,England,France,,
+2374736,261672,Argentina,England,,
+2374737,261672,Germany,Spain,,
+2374738,261672,England,Germany,,
+2374739,261672,France,Argentina,,
+2374740,261672,Germany,France,,
+2374741,261672,Spain,England,,
