@@ -1984,15 +1984,18 @@
     "away": "Nemiga Gaming",
     "txt": "Gana Nemiga Gaming",
     "odds": 2.57,
-    "p": 0.42080337224383924
+    "p": 0.42080337224383924,
+    "ok": false,
+    "por": "ganó Froglings 2-0",
+    "clv": -0.347
    }
   ],
   "odds": 10.16,
   "p": 0.1279262786825837,
   "stake": 1.0,
-  "estado": "pendiente",
-  "avisada": false,
-  "rev": 1
+  "estado": "perdida",
+  "avisada": true,
+  "rev": 2
  },
  {
   "id": "20261110175025158797",
