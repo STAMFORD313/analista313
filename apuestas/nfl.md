@@ -1,6 +1,6 @@
 # 🏈 NFL·NCAA · apuestas de valor
 
-Actualizado 11/11/2026 01:23 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 11/11/2026 01:54 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Miami (OH) RedHawks vs Ohio Bobcats — 11/11 · 02:00
 
