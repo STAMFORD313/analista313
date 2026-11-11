@@ -1,61 +1,61 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 11/11/2026 07:32 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 11/11/2026 08:02 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## v1nniePuh vs TikitakaMaster — 11/11 · 07:48
+## TikitakaMaster vs zoyir — 11/11 · 08:06
 
-👀 candidata · 🎮⚽ FC 27 · Premier League 2x6 · **Empate** @ **8.50** (Unibet) · prob 14% vs casas 10% · ventaja +24%
+👀 candidata · 🎮⚽ FC 27 · Premier League 2x6 · **Gana zoyir** @ **3.20** (Unibet) · prob 38% vs casas 27% · ventaja +22%
 
-- ✅ Valor: ventaja +24% (mín. 14% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
+- ✅ Valor: ventaja +22% (mín. 14% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 63.863 partidos)  
-Goles esperados: v1nniePuh 4.14 · TikitakaMaster 4.93  
-Ganador: v1nniePuh 29% · empate 15% · TikitakaMaster 57%  
-Total: más de 9.5 goles 42% · menos 58%  
-Hándicap TikitakaMaster: −1.5 40% · −2.5 28%  
+📊 **Escenarios** (Poisson por jugador, 63.888 partidos)  
+Goles esperados: TikitakaMaster 4.18 · zoyir 3.98  
+Ganador: TikitakaMaster 46% · empate 16% · zoyir 38%  
+Total: más de 8.5 goles 43% · menos 57%  
+Hándicap TikitakaMaster: −1.5 32% · −2.5 21%  
 🔎 **Claves**  
-• Forma: v1nniePuh ❌✅✅❌✅ | TikitakaMaster ✅❌❌✅❌  
-• Partidos: v1nniePuh 660 | TikitakaMaster 659  
+• Forma: TikitakaMaster ❌❌✅❌❌ | zoyir ❌✅❌✅❌  
+• Partidos: TikitakaMaster 660 | zoyir 533  
 • Liga: Premier League 2x6  
-• Unibet: 1 3.30 · X 8.50 · 2 1.37 (sin margen 26%/10%/63%) · ventaja +24%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 8.50 (+24%) · Paf España 8.50 (+24%)  
+• Unibet: 1 1.50 · X 5.75 · 2 3.20 (sin margen 58%/15%/27%) · ventaja +22%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 3.20 (+22%) · Paf España 3.20 (+22%)  
 
-## dm1trena vs MeLToSik — 11/11 · 07:48
+## Taz vs Tesla — 11/11 · 08:06
 
-👀 candidata · 🎮⚽ FC 27 · Europa League · **Gana MeLToSik** @ **2.90** (Unibet) · prob 40% vs casas 30% · ventaja +17%
+👀 candidata · 🎮⚽ FC 27 · Bundesliga · **Gana Taz** @ **3.75** (Unibet) · prob 30% vs casas 24% · ventaja +14%
 
-- ✅ Valor: ventaja +17% (mín. 13% con la incertidumbre, máx. 30%)
+- ✅ Valor: ventaja +14% (mín. 11% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 63.863 partidos)  
-Goles esperados: dm1trena 2.37 · MeLToSik 2.41  
-Ganador: dm1trena 37% · empate 22% · MeLToSik 40%  
-Total: más de 4.5 goles 52% · menos 48%  
-Hándicap MeLToSik: −1.5 25% · −2.5 13%  
+📊 **Escenarios** (Poisson por jugador, 63.888 partidos)  
+Goles esperados: Taz 3.27 · Tesla 3.80  
+Ganador: Taz 30% · empate 17% · Tesla 53%  
+Total: más de 7.5 goles 41% · menos 59%  
+Hándicap Tesla: −1.5 35% · −2.5 22%  
 🔎 **Claves**  
-• Forma: dm1trena ✅➖✅➖❌ | MeLToSik ❌✅❌✅✅  
-• Partidos: dm1trena 1071 | MeLToSik 1158  
-• Liga: Europa League  
-• Unibet: 1 2.00 · X 3.25 · 2 2.90 (sin margen 43%/27%/30%) · ventaja +17%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.90 (+17%) · Paf España 2.90 (+17%)  
+• Forma: Taz ➖✅❌➖❌ | Tesla ✅❌➖✅❌  
+• Partidos: Taz 993 | Tesla 1008  
+• Liga: Bundesliga  
+• Unibet: 1 3.75 · X 4.60 · 2 1.54 (sin margen 24%/19%/57%) · ventaja +14%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 3.75 (+14%) · Paf España 3.75 (+14%)  
 
-## RuBIX vs dor1an — 11/11 · 07:57
+## RuBIX vs A1ose — 11/11 · 08:21
 
-👀 candidata · 🎮⚽ FC 27 · World Cup A · **Gana dor1an** @ **5.10** (Unibet) · prob 26% vs casas 17% · ventaja +30%
+👀 candidata · 🎮⚽ FC 27 · World Cup A · **Gana RuBIX** @ **2.60** (Unibet) · prob 43% vs casas 34% · ventaja +12%
 
-- ❌ Valor: ventaja +30% (mín. 16% con la incertidumbre, máx. 30%)
+- ✅ Valor: ventaja +12% (mín. 11% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 63.863 partidos)  
-Goles esperados: RuBIX 3.14 · dor1an 2.37  
-Ganador: RuBIX 55% · empate 19% · dor1an 26%  
-Total: más de 5.5 goles 47% · menos 53%  
-Hándicap RuBIX: −1.5 37% · −2.5 22%  
+📊 **Escenarios** (Poisson por jugador, 63.888 partidos)  
+Goles esperados: RuBIX 3.15 · A1ose 2.92  
+Ganador: RuBIX 43% · empate 19% · A1ose 38%  
+Total: más de 6.5 goles 40% · menos 60%  
+Hándicap RuBIX: −1.5 30% · −2.5 17%  
 🔎 **Claves**  
-• Forma: RuBIX ✅✅✅❌❌ | dor1an ❌✅❌➖✅  
-• Partidos: RuBIX 130 | dor1an 130  
+• Forma: RuBIX ✅❌❌✅✅ | A1ose ✅❌❌✅✅  
+• Partidos: RuBIX 132 | A1ose 923  
 • Liga: World Cup A  
-• Unibet: 1 1.41 · X 4.00 · 2 5.10 (sin margen 61%/22%/17%) · ventaja +30%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 5.10 (+30%) · Paf España 5.10 (+30%)  
+• Unibet: 1 2.60 · X 4.70 · 2 1.84 (sin margen 34%/19%/48%) · ventaja +12%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.60 (+12%) · Paf España 2.60 (+12%)  
 

@@ -63869,14 +63869,14 @@ id,tournament_id,club1,club2,ht1,ht2
 2374689,261671,Liverpool,Tottenham,,
 2374690,261671,Chelsea,Liverpool,,
 2374691,261671,Man City,Arsenal,,
-2373760,261634,Spain,Brazil,1,1
-2373761,261634,France,Argentina,2,1
-2373762,261634,Argentina,Spain,1,2
-2373763,261634,Brazil,England,2,2
-2373764,261634,England,Argentina,2,2
-2373765,261634,Spain,France,0,0
-2373766,261634,France,England,1,3
-2373767,261634,Argentina,Brazil,3,0
+2373760,261634,Spain,Brazil,1.0,1.0
+2373761,261634,France,Argentina,2.0,1.0
+2373762,261634,Argentina,Spain,1.0,2.0
+2373763,261634,Brazil,England,2.0,2.0
+2373764,261634,England,Argentina,2.0,2.0
+2373765,261634,Spain,France,0.0,0.0
+2373766,261634,France,England,1.0,3.0
+2373767,261634,Argentina,Brazil,3.0,0.0
 2373768,261634,Brazil,France,,
 2373769,261634,England,Spain,,
 2373770,261634,Brazil,Spain,,
@@ -63889,14 +63889,14 @@ id,tournament_id,club1,club2,ht1,ht2
 2373777,261634,Brazil,Argentina,,
 2373778,261634,France,Brazil,,
 2373779,261634,Spain,England,,
-2374280,261665,Inter Miami CF,Atlanta United,2,0
-2374281,261665,LA Galaxy,Los Angeles FC,0,2
-2374282,261665,Los Angeles FC,Inter Miami CF,4,2
-2374283,261665,Atlanta United,Seattle Sounders FC,0,1
-2374284,261665,Seattle Sounders FC,Los Angeles FC,0,1
-2374285,261665,Inter Miami CF,LA Galaxy,2,1
-2374286,261665,LA Galaxy,Seattle Sounders FC,0,1
-2374287,261665,Los Angeles FC,Atlanta United,2,0
+2374280,261665,Inter Miami CF,Atlanta United,2.0,0.0
+2374281,261665,LA Galaxy,Los Angeles FC,0.0,2.0
+2374282,261665,Los Angeles FC,Inter Miami CF,4.0,2.0
+2374283,261665,Atlanta United,Seattle Sounders FC,0.0,1.0
+2374284,261665,Seattle Sounders FC,Los Angeles FC,0.0,1.0
+2374285,261665,Inter Miami CF,LA Galaxy,2.0,1.0
+2374286,261665,LA Galaxy,Seattle Sounders FC,0.0,1.0
+2374287,261665,Los Angeles FC,Atlanta United,2.0,0.0
 2374288,261665,Atlanta United,LA Galaxy,,
 2374289,261665,Seattle Sounders FC,Inter Miami CF,,
 2374290,261665,Atlanta United,Inter Miami CF,,
@@ -63909,16 +63909,16 @@ id,tournament_id,club1,club2,ht1,ht2
 2374297,261665,Atlanta United,Los Angeles FC,,
 2374298,261665,LA Galaxy,Atlanta United,,
 2374299,261665,Inter Miami CF,Seattle Sounders FC,,
-2374832,261681,B Dortmund,Leipzig,3,1
-2374833,261681,Frankfurt,Bayern Munchen,2,1
-2374834,261681,Bayern Munchen,B Dortmund,1,1
-2374835,261681,Leipzig,Stuttgart,0,2
-2374836,261681,Stuttgart,Bayern Munchen,2,3
-2374837,261681,B Dortmund,Frankfurt,1,1
-2374838,261681,Frankfurt,Stuttgart,3,2
-2374839,261681,Bayern Munchen,Leipzig,1,1
-2374840,261681,Leipzig,Frankfurt,0,3
-2374841,261681,Stuttgart,B Dortmund,2,0
+2374832,261681,B Dortmund,Leipzig,3.0,1.0
+2374833,261681,Frankfurt,Bayern Munchen,2.0,1.0
+2374834,261681,Bayern Munchen,B Dortmund,1.0,1.0
+2374835,261681,Leipzig,Stuttgart,0.0,2.0
+2374836,261681,Stuttgart,Bayern Munchen,2.0,3.0
+2374837,261681,B Dortmund,Frankfurt,1.0,1.0
+2374838,261681,Frankfurt,Stuttgart,3.0,2.0
+2374839,261681,Bayern Munchen,Leipzig,1.0,1.0
+2374840,261681,Leipzig,Frankfurt,0.0,3.0
+2374841,261681,Stuttgart,B Dortmund,2.0,0.0
 2374842,261681,Leipzig,B Dortmund,,
 2374843,261681,Bayern Munchen,Frankfurt,,
 2374844,261681,B Dortmund,Bayern Munchen,,
@@ -63929,3 +63929,23 @@ id,tournament_id,club1,club2,ht1,ht2
 2374849,261681,Leipzig,Bayern Munchen,,
 2374850,261681,Frankfurt,Leipzig,,
 2374851,261681,B Dortmund,Stuttgart,,
+2374000,261645,Porto,Fenerbahce,2,2
+2373841,261645,Aston Villa,Roma,2,1
+2373842,261645,Roma,Porto,3,1
+2374001,261645,Fenerbahce,Salzburg,2,2
+2373844,261645,Salzburg,Roma,1,3
+2373845,261645,Porto,Aston Villa,1,0
+2373846,261645,Aston Villa,Salzburg,1,1
+2374002,261645,Roma,Fenerbahce,0,1
+2374003,261645,Fenerbahce,Aston Villa,2,3
+2373849,261645,Salzburg,Porto,2,1
+2374004,261645,Fenerbahce,Porto,,
+2373851,261645,Roma,Aston Villa,,
+2373852,261645,Porto,Roma,,
+2374005,261645,Salzburg,Fenerbahce,,
+2373854,261645,Roma,Salzburg,,
+2373855,261645,Aston Villa,Porto,,
+2373856,261645,Salzburg,Aston Villa,,
+2374006,261645,Fenerbahce,Roma,,
+2374007,261645,Aston Villa,Fenerbahce,,
+2373859,261645,Porto,Salzburg,,

@@ -1,32 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 11/11/2026 07:32 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Spirit vs FUT — 11/11 · 08:00
-
-👀 candidata · 🎮 CS2 · BLAST Rivals Fall 2026 · **Gana FUT** @ **3.30** (Thunderpick) · prob 30% vs casas 28% · ventaja -2%
-
-- ❌ Valor: ventaja -2% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 76.654 partidos)  
-Mapa: Spirit 57% · Serie BO3: Spirit 69% - 31% FUT  
-Casas: Spirit 72% · FUT 28%  
-🔎 **Claves**  
-• Elo: Spirit 2139 (287 series) | FUT 2067 (127 series)  
-• Forma: Spirit ❌✅✅❌❌ | FUT ❌✅✅✅❌  
-• H2H: 1: 1-0  
-• Torneo: BLAST Rivals Fall 2026 (nivel S)  
-• Cambios de plantilla: ninguno  
-• Jugadores en forma (rating últimos 10 mapas): Spirit: donk 6.9, sh1ro 6.1 | FUT: dem0n 6.9, SunPayus 6.7  
-• Mapas (último año): Spirit: fuerte dust2 75%, débil cache 50% | FUT: fuerte train 83%, débil anubis 47%  
-• Química de la plantilla: Spirit: 301 mapas juntos de media | FUT: 148 mapas juntos de media  
-🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
-• Spirit gana 2-1: 24% → cuota justa 4.11 · casa 26%  
-• FUT gana 2-1: 19% → cuota justa 5.40 · casa 13% ✔ el bot lo ve más probable que la casa  
-🔫 **Kills esperados en la serie** (rango 80 %; mejor que la media de sus 10 últimas en 52.297 casos: log-loss 0.682→0.6559; sin cuotas de props, solo referencia)  
-Spirit: donk 45 (27-66) · sh1ro 38 (22-56) · tN1R 35 (20-52) · zont1x 32 (18-47) · magixx 30 (17-45)  
-FUT: dem0n 35 (20-51) · Krabeni 34 (20-51) · xfl0ud 34 (20-50) · SunPayus 34 (19-50) · dziugss 33 (19-49)  
+Actualizado 11/11/2026 08:02 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## MOUZ vs G2 — 11/11 · 10:30
 
