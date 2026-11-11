@@ -1,61 +1,61 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 11/11/2026 10:02 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 11/11/2026 10:54 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## v1nn vs RuBIX — 11/11 · 10:19
+## A1ose vs v1nn — 11/11 · 11:15
 
-👀 candidata · 🎮⚽ FC 27 · Serie A · **Gana RuBIX** @ **2.75** (Unibet) · prob 44% vs casas 32% · ventaja +22%
+👀 candidata · 🎮⚽ FC 27 · World Cup B · **Gana A1ose** @ **3.60** (Unibet) · prob 40% vs casas 24% · ventaja +43%
 
-- ✅ Valor: ventaja +22% (mín. 14% con la incertidumbre, máx. 30%)
+- ❌ Valor: ventaja +43% (mín. 19% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 63.998 partidos)  
-Goles esperados: v1nn 3.30 · RuBIX 3.50  
-Ganador: v1nn 38% · empate 18% · RuBIX 44%  
-Total: más de 6.5 goles 52% · menos 48%  
-Hándicap RuBIX: −1.5 30% · −2.5 18%  
+📊 **Escenarios** (Poisson por jugador, 64.048 partidos)  
+Goles esperados: A1ose 3.66 · v1nn 3.66  
+Ganador: A1ose 40% · empate 17% · v1nn 43%  
+Total: más de 7.5 goles 45% · menos 55%  
+Hándicap v1nn: −1.5 29% · −2.5 17%  
 🔎 **Claves**  
-• Forma: v1nn ✅❌✅✅✅ | RuBIX ➖✅❌✅✅  
-• Partidos: v1nn 583 | RuBIX 140  
-• Liga: Serie A  
-• Unibet: 1 1.77 · X 4.60 · 2 2.75 (sin margen 49%/19%/32%) · ventaja +22%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.75 (+22%) · Paf España 2.75 (+22%)  
+• Forma: A1ose ❌❌✅✅➖ | v1nn ✅❌✅❌❌  
+• Partidos: A1ose 933 | v1nn 587  
+• Liga: World Cup B  
+• Unibet: 1 3.60 · X 5.20 · 2 1.50 (sin margen 24%/17%/59%) · ventaja +43%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 3.60 (+43%) · Paf España 3.60 (+43%)  
 
-## RuBIX vs A1ose — 11/11 · 10:31
+## v1nniePuh vs TikitakaMaster — 11/11 · 11:18
 
-👀 candidata · 🎮⚽ FC 27 · Serie A · **Gana RuBIX** @ **2.43** (Unibet) · prob 46% vs casas 36% · ventaja +13%
+👀 candidata · 🎮⚽ FC 27 · Champions League A 2x6 · **Empate** @ **9.00** (Unibet) · prob 14% vs casas 10% · ventaja +28%
 
-- ✅ Valor: ventaja +13% (mín. 11% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 63.998 partidos)  
-Goles esperados: RuBIX 3.32 · A1ose 3.00  
-Ganador: RuBIX 46% · empate 19% · A1ose 35%  
-Total: más de 6.5 goles 44% · menos 56%  
-Hándicap RuBIX: −1.5 31% · −2.5 19%  
-🔎 **Claves**  
-• Forma: RuBIX ➖✅❌✅✅ | A1ose ✅✅❌❌❌  
-• Partidos: RuBIX 140 | A1ose 930  
-• Liga: Serie A  
-• Unibet: 1 2.43 · X 4.50 · 2 1.95 (sin margen 36%/19%/45%) · ventaja +13%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.43 (+13%) · Paf España 2.43 (+13%)  
-
-## Edwardson vs Jekunam — 11/11 · 10:34
-
-👀 candidata · 🎮⚽ FC 27 · Champions League AFC · **Empate** @ **4.60** (Unibet) · prob 24% vs casas 19% · ventaja +8%
-
-- ❌ Valor: ventaja +8% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Valor: ventaja +28% (mín. 15% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 63.998 partidos)  
-Goles esperados: Edwardson 1.95 · Jekunam 2.29  
-Ganador: Edwardson 31% · empate 23% · Jekunam 46%  
-Total: más de 4.5 goles 42% · menos 58%  
-Hándicap Jekunam: −1.5 28% · −2.5 14%  
+📊 **Escenarios** (Poisson por jugador, 64.048 partidos)  
+Goles esperados: v1nniePuh 4.32 · TikitakaMaster 5.14  
+Ganador: v1nniePuh 30% · empate 14% · TikitakaMaster 55%  
+Total: más de 9.5 goles 47% · menos 53%  
+Hándicap TikitakaMaster: −1.5 41% · −2.5 29%  
 🔎 **Claves**  
-• Forma: Edwardson ❌➖➖✅❌ | Jekunam ❌❌✅❌✅  
-• Partidos: Edwardson 1205 | Jekunam 1061  
-• Liga: Champions League AFC  
-• Unibet: 1 2.75 · X 4.60 · 2 1.79 (sin margen 32%/19%/49%) · ventaja +8%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 4.60 (+8%) · Paf España 4.60 (+8%)  
+• Forma: v1nniePuh ➖✅❌✅❌ | TikitakaMaster ❌❌✅✅✅  
+• Partidos: v1nniePuh 668 | TikitakaMaster 667  
+• Liga: Champions League A 2x6  
+• Unibet: 1 3.60 · X 9.00 · 2 1.32 (sin margen 24%/10%/66%) · ventaja +28%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 9.00 (+28%) · Paf España 9.00 (+28%)  
+
+## DaVa vs dm1trena — 11/11 · 11:30
+
+👀 candidata · 🎮⚽ FC 27 · Bundesliga · **Gana dm1trena** @ **9.00** (Unibet) · prob 18% vs casas 10% · ventaja +66%
+
+- ❌ Valor: ventaja +66% (mín. 25% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 64.048 partidos)  
+Goles esperados: DaVa 3.24 · dm1trena 2.07  
+Ganador: DaVa 64% · empate 18% · dm1trena 18%  
+Total: más de 5.5 goles 44% · menos 56%  
+Hándicap DaVa: −1.5 43% · −2.5 27%  
+🔎 **Claves**  
+• Forma: DaVa ❌➖❌✅✅ | dm1trena ❌✅❌✅❌  
+• Partidos: DaVa 1202 | dm1trena 1083  
+• Liga: Bundesliga  
+• Unibet: 1 1.22 · X 4.60 · 2 9.00 (sin margen 71%/19%/10%) · ventaja +66%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 9.00 (+66%) · Paf España 9.00 (+66%)  
 
