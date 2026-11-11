@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 11/11/2026 18:26 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 11/11/2026 18:55 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## ex-Zero Tenacity vs Spirit Academy — 11/11 · 19:00
 

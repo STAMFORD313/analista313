@@ -1,62 +1,63 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 11/11/2026 18:26 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 11/11/2026 18:55 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## pikalicaaa vs Sena — 11/11 · 18:35
+## Duka vs Rodja — 11/11 · 18:56
 
-👀 candidata · 🎮⚽ FC 27 · Champions League A · **Empate** @ **5.30** (Unibet) · prob 21% vs casas 16% · ventaja +12%
+👀 candidata · 🎮⚽ FC 27 · World Cup B · **Gana Duka** @ **3.05** (Unibet) · prob 42% vs casas 29% · ventaja +27%
 
-- ✅ Valor: ventaja +12% (mín. 11% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 64.449 partidos)  
-Goles esperados: pikalicaaa 2.23 · Sena 2.76  
-Ganador: pikalicaaa 30% · empate 21% · Sena 49%  
-Total: más de 4.5 goles 56% · menos 44%  
-Hándicap Sena: −1.5 32% · −2.5 18%  
-🔎 **Claves**  
-• Forma: pikalicaaa ➖❌❌❌✅ | Sena ➖✅✅❌➖  
-• Partidos: pikalicaaa 675 | Sena 683  
-• Liga: Champions League A  
-• Unibet: 1 2.25 · X 5.30 · 2 1.97 (sin margen 39%/17%/44%) · ventaja +12%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 5.30 (+12%) · Paf España 5.30 (+12%)  
-
-## hit vs lzrn — 11/11 · 18:38
-
-👀 candidata · 🎮⚽ FC 27 · Super Lig · **Gana hit** @ **2.32** (Unibet) · prob 48% vs casas 37% · ventaja +10%
-
-- ❌ Valor: ventaja +10% (mín. 11% con la incertidumbre, máx. 30%)
+- ✅ Valor: ventaja +27% (mín. 15% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 64.449 partidos)  
-Goles esperados: hit 2.81 · lzrn 2.37  
-Ganador: hit 48% · empate 21% · lzrn 31%  
-Total: más de 5.5 goles 42% · menos 58%  
-Hándicap hit: −1.5 31% · −2.5 18%  
+📊 **Escenarios** (Poisson por jugador, 64.479 partidos)  
+Goles esperados: Duka 2.35 · Rodja 2.23  
+Ganador: Duka 42% · empate 23% · Rodja 35%  
+Total: más de 4.5 goles 48% · menos 52%  
+Hándicap Duka: −1.5 25% · −2.5 13%  
 🔎 **Claves**  
-• Forma: hit ➖✅✅➖❌ | lzrn ➖❌➖❌✅  
-• Partidos: hit 751 | lzrn 849  
+• Forma: Duka ✅✅➖✅➖ | Rodja ➖❌➖✅✅  
+• Partidos: Duka 1125 | Rodja 1034  
+• Liga: World Cup B  
+• Unibet: 1 3.05 · X 3.65 · 2 1.84 (sin margen 29%/24%/47%) · ventaja +27%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 3.05 (+27%) · Paf España 3.05 (+27%)  
+
+## hit vs Animal — 11/11 · 19:02
+
+👀 candidata · 🎮⚽ FC 27 · Super Lig · **Gana Animal** @ **3.60** (Unibet) · prob 44% vs casas 24% · ventaja +60%
+
+- ❌ Valor: ventaja +60% (mín. 23% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 64.479 partidos)  
+Goles esperados: hit 2.81 · Animal 2.95  
+Ganador: hit 36% · empate 20% · Animal 44%  
+Total: más de 5.5 goles 52% · menos 48%  
+Hándicap Animal: −1.5 28% · −2.5 16%  
+🔎 **Claves**  
+• Forma: hit ➖❌❌❌➖ | Animal ➖✅✅❌✅  
+• Partidos: hit 754 | Animal 900  
 • Liga: Super Lig  
-• Unibet: 1 2.32 · X 3.25 · 2 2.40 (sin margen 37%/27%/36%) · ventaja +10%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.32 (+11%) · Paf España 2.32 (+11%)  
+• Unibet: 1 1.96 · X 2.75 · 2 3.60 (sin margen 44%/32%/24%) · ventaja +60%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 3.60 (+60%) · Paf España 3.60 (+60%)  
 
-## Buu vs ZORO — 11/11 · 18:44
+## hit vs Glumac — 11/11 · 19:26
 
-👀 candidata · 🎮⚽ FC 27 · Champions League B 2x6 · **Gana ZORO** @ **1.16** (cuota justa (sin casa)) · prob 86% vs casas 86% · ventaja +0%
+👀 candidata · 🎮⚽ FC 27 · Super Lig · **Gana Glumac** @ **3.20** (Unibet) · prob 42% vs casas 27% · ventaja +33%
 
-- ❌ Valor: ventaja +0% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+- ❌ Valor: ventaja +33% (mín. 17% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 64.423 partidos)  
-Goles esperados: Buu 3.78 · ZORO 7.26  
-Ganador: Buu 7% · empate 6% · ZORO 87%  
-Total: más de 11.5 goles 42% · menos 58%  
-Hándicap ZORO: −1.5 72% · −2.5 60%  
+📊 **Escenarios** (Poisson por jugador, 64.479 partidos)  
+Goles esperados: hit 2.97 · Glumac 2.98  
+Ganador: hit 39% · empate 20% · Glumac 41%  
+Total: más de 5.5 goles 55% · menos 45%  
+Hándicap Glumac: −1.5 27% · −2.5 15%  
 🔎 **Claves**  
-• Forma: Buu ✅❌❌❌❌ | ZORO ✅✅✅✅✅  
-• Partidos: Buu 771 | ZORO 812  
-• Liga: Champions League B 2x6  
-• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
+• Forma: hit ➖❌❌❌➖ | Glumac ➖➖✅✅❌  
+• Partidos: hit 754 | Glumac 828  
+• Liga: Super Lig  
+• Unibet: 1 2.04 · X 2.85 · 2 3.20 (sin margen 42%/30%/27%) · ventaja +33%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 3.20 (+33%) · Paf España 3.20 (+33%)  
 
 ## ZORO vs cappo — 11/11 · 19:30
 
