@@ -1,25 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 11/11/2026 04:01 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## rostyk vs Kosta — 11/11 · 04:02
-
-👀 candidata · 🎮⚽ FC 27 · LaLiga 2x6 · **Empate** @ **9.50** (Unibet) · prob 12% vs casas 9% · ventaja +19%
-
-- ✅ Valor: ventaja +19% (mín. 13% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 63.707 partidos)  
-Goles esperados: rostyk 5.74 · Kosta 4.28  
-Ganador: rostyk 65% · empate 13% · Kosta 22%  
-Total: más de 10.5 goles 42% · menos 58%  
-Hándicap rostyk: −1.5 49% · −2.5 37%  
-🔎 **Claves**  
-• Forma: rostyk ➖✅✅✅❌ | Kosta ❌✅❌❌❌  
-• Partidos: rostyk 356 | Kosta 274  
-• Liga: LaLiga 2x6  
-• Unibet: 1 1.27 · X 9.50 · 2 3.95 (sin margen 69%/9%/22%) · ventaja +19%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 9.50 (+19%) · Paf España 9.50 (+19%)  
+Actualizado 11/11/2026 04:09 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## DangerDim77 vs R0ge — 11/11 · 04:16
 
@@ -58,4 +39,23 @@ Hándicap rostyk: −1.5 33% · −2.5 22%
 • Liga: LaLiga 2x6  
 • Unibet: 1 1.68 · X 6.40 · 2 2.60 (sin margen 52%/14%/34%) · ventaja +5%. Sin stake hasta demostrar ROI con estas cuotas.  
 • En España: LeoVegas España 2.60 (+5%) · Paf España 2.60 (+5%)  
+
+## Paka vs Jokadinho — 11/11 · 04:44
+
+👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana Paka** @ **2.12** (Unibet) · prob 50% vs casas 41% · ventaja +5%
+
+- ❌ Valor: ventaja +5% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 63.714 partidos)  
+Goles esperados: Paka 3.47 · Jokadinho 2.84  
+Ganador: Paka 50% · empate 18% · Jokadinho 32%  
+Total: más de 6.5 goles 44% · menos 56%  
+Hándicap Paka: −1.5 36% · −2.5 22%  
+🔎 **Claves**  
+• Forma: Paka ✅✅✅✅❌ | Jokadinho ✅✅✅❌❌  
+• Partidos: Paka 932 | Jokadinho 900  
+• Liga: Champions League B  
+• Unibet: 1 2.12 · X 4.75 · 2 2.16 (sin margen 41%/18%/40%) · ventaja +5%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.12 (+5%) · Paf España 2.12 (+5%)  
 

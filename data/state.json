@@ -1302,9 +1302,6 @@
   "cbb|2026-11-14|Portland Pilots|East Texas A&M Lions",
   "cbb|2026-11-14|Saint Mary's Gaels|UIC Flames",
   "cbb|2026-11-14|California Baptist Lancers|Arkansas-Pine Bluff Golden Lions",
-  "fc|2366047",
-  "fc|2365245",
-  "fc|2365511",
   "fc|2366236",
   "fc|2365855",
   "fc|2365250",
@@ -2304,7 +2301,21 @@
   "fc|2373172",
   "fc|2373445",
   "fc|2372276",
-  "fc|2373446"
+  "fc|2373446",
+  "cs2|133995",
+  "cs2|133996",
+  "cs2|133997",
+  "cs2|133998",
+  "cs2|133999",
+  "cs2|134000",
+  "cs2|134001",
+  "cs2|134002",
+  "cs2|134004",
+  "cs2|134003",
+  "dota2|133989",
+  "fc|2374526",
+  "fc|2373173",
+  "fc|2373447"
  ],
  "signals": [
   {
@@ -15186,7 +15197,11 @@
    "version": "57a053d",
    "bajas": "Akron Zips: sin bajas; Western Michigan Broncos: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "14-42",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "sph",
@@ -15207,7 +15222,11 @@
    "version": "57a053d",
    "bajas": "Akron Zips: sin bajas; Western Michigan Broncos: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "14-42",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "away",
@@ -15227,7 +15246,11 @@
    "version": "57a053d",
    "bajas": "Akron Zips: sin bajas; Western Michigan Broncos: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "14-42",
+   "close_p": 0.8457,
+   "logged": true
   },
   {
    "market": "over",
@@ -28612,20 +28635,6 @@
    "start": "2026-11-11T03:02:00+00:00",
    "league": "🎮⚽ FC 27 · LaLiga 2x6",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 63.707 partidos)",
-    "Goles esperados: rostyk 5.74 · Kosta 4.28",
-    "Ganador: rostyk 65% · empate 13% · Kosta 22%",
-    "Total: más de 10.5 goles 42% · menos 58%",
-    "Hándicap rostyk: −1.5 49% · −2.5 37%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: rostyk ➖✅✅✅❌ | Kosta ❌✅❌❌❌",
-    "• Partidos: rostyk 356 | Kosta 274",
-    "• Liga: LaLiga 2x6",
-    "• Unibet: 1 1.27 · X 9.50 · 2 3.95 (sin margen 69%/9%/22%) · ventaja +19%. Sin stake hasta demostrar ROI con estas cuotas.",
-    "• En España: LeoVegas España 9.50 (+19%) · Paf España 9.50 (+19%)"
-   ],
    "context": "EA FC Esoccer Battle rostyk vs Kosta (LaLiga 2x6): goles esperados 5.74-4.28, 1X2 65%/13%/22%. Sin cuotas de casa.",
    "captured": "2026-11-11T03:01",
    "version": "8cbf81f",
@@ -28699,6 +28708,41 @@
    "context": "EA FC Esoccer Battle rostyk vs nicky (LaLiga 2x6): goles esperados 5.00-4.87, 1X2 45%/15%/40%. Sin cuotas de casa.",
    "captured": "2026-11-11T03:01",
    "version": "8cbf81f",
+   "bajas": "",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "H",
+   "pick": "Paka",
+   "odds": 2.12,
+   "book": "Unibet",
+   "implied": 0.412,
+   "edge": 0.054,
+   "sin_stake": true,
+   "p": 0.497,
+   "key": "fc|2374526",
+   "match": "Paka vs Jokadinho",
+   "start": "2026-11-11T03:44:00+00:00",
+   "league": "🎮⚽ FC 27 · Champions League B",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 63.714 partidos)",
+    "Goles esperados: Paka 3.47 · Jokadinho 2.84",
+    "Ganador: Paka 50% · empate 18% · Jokadinho 32%",
+    "Total: más de 6.5 goles 44% · menos 56%",
+    "Hándicap Paka: −1.5 36% · −2.5 22%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Paka ✅✅✅✅❌ | Jokadinho ✅✅✅❌❌",
+    "• Partidos: Paka 932 | Jokadinho 900",
+    "• Liga: Champions League B",
+    "• Unibet: 1 2.12 · X 4.75 · 2 2.16 (sin margen 41%/18%/40%) · ventaja +5%. Sin stake hasta demostrar ROI con estas cuotas.",
+    "• En España: LeoVegas España 2.12 (+5%) · Paf España 2.12 (+5%)"
+   ],
+   "context": "EA FC Esoccer Battle Paka vs Jokadinho (Champions League B): goles esperados 3.47-2.84, 1X2 50%/18%/32%. Sin cuotas de casa.",
+   "captured": "2026-11-11T03:09",
+   "version": "46ce85a",
    "bajas": "",
    "considered": true,
    "placed": false
@@ -29429,7 +29473,9 @@
   "nba|2026-11-11|Sacramento Kings|Orlando Magic",
   "nba|2026-11-11|Portland Trail Blazers|Oklahoma City Thunder",
   "nba|2026-11-11|Phoenix Suns|LA Clippers",
-  "nba|2026-11-12|Portland Trail Blazers|Oklahoma City Thunder"
+  "nba|2026-11-12|Portland Trail Blazers|Oklahoma City Thunder",
+  "nba|2026-11-12|Indiana Pacers|Washington Wizards",
+  "nba|2026-11-12|New Orleans Pelicans|Brooklyn Nets"
  ],
  "radar_date": "2026-11-10",
  "sgp_res_sent": "2026-11-09T22:20:42.491173+00:00"
