@@ -1,32 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 11/11/2026 18:55 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## ex-Zero Tenacity vs Spirit Academy — 11/11 · 19:00
-
-👀 candidata · 🎮 CS2 · NODWIN Clutch Series 14 · **Gana ex-Zero Tenacity** @ **1.55** (Thunderpick) · prob 63% vs casas 60% · ventaja -2%
-
-- ❌ Valor: ventaja -2% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 76.670 partidos)  
-Mapa: ex-Zero Tenacity 59% · Serie BO3: ex-Zero Tenacity 67% - 33% Spirit Academy  
-Casas: ex-Zero Tenacity 60% · Spirit Academy 40%  
-🔎 **Claves**  
-• Elo: ex-Zero Tenacity 1818 (150 series) | Spirit Academy 1726 (406 series)  
-• Forma: ex-Zero Tenacity ❌✅❌✅✅ | Spirit Academy ❌❌❌✅✅  
-• H2H: 1: 1-0  
-• Torneo: NODWIN Clutch Series 14 (nivel B)  
-• Cambios de plantilla: ninguno  
-• Jugadores en forma (rating últimos 10 mapas): ex-Zero Tenacity: Dragon 6.7, VLDN 6.5 | Spirit Academy: Kiryasoo 6.6, Netrix 6.5  
-• Mapas (último año): ex-Zero Tenacity: fuerte cache 71%, débil overpass 14% | Spirit Academy: fuerte dust2 75%, débil cache 40%  
-• Química de la plantilla: ex-Zero Tenacity: 290 mapas juntos de media | Spirit Academy: 55 mapas juntos de media  
-🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
-• ex-Zero Tenacity gana 2-1: 25% → cuota justa 4.06  
-• Spirit Academy gana 2-1: 17% → cuota justa 5.72  
-🔫 **Kills esperados en la serie** (rango 80 %; mejor que la media de sus 10 últimas en 52.316 casos: log-loss 0.6819→0.6558; sin cuotas de props, solo referencia)  
-ex-Zero Tenacity: Dragon 36 (21-54) · brutmonster 36 (21-53) · VLDN 34 (20-51) · Cjoffo 34 (20-50) · Kind0 33 (19-49)  
-Spirit Academy: Kiryasoo 35 (20-52) · S1nside 35 (20-51) · k0gaSs 34 (19-50) · Netrix 31 (18-47) · VILBy 29 (17-44)  
+Actualizado 11/11/2026 19:28 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Nordic Valor vs ROUNDS — 12/11 · 19:00
 

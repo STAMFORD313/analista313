@@ -34685,5 +34685,13 @@ game_id,match_id,slug,date,tier,bo,tournament_id,tournament,t1_id,t2_id,team1,te
 192834,133374,nexus-vs-mouz-nxt-11-11-2026,2026-11-11T12:00:00.000+00:00,b,3,5629,CCT Europe 2026 Series 14,326,1455,Nexus,MOUZ NXT,1,de_anubis,326,13.0,9.0
 193312,133838,phantom-esports-vs-drama-esports-11-11-2026,2026-11-11T12:00:00.000+00:00,b,3,6240,NODWIN Clutch Series 14,19204,22812,Phantom,Drama,2,de_nuke,19204,13.0,7.0
 193313,133838,phantom-esports-vs-drama-esports-11-11-2026,2026-11-11T12:00:00.000+00:00,b,3,6240,NODWIN Clutch Series 14,19204,22812,Phantom,Drama,1,de_mirage,19204,13.0,7.0
+192474,133240,nexus-vs-baks-esports-11-11-2026,2026-11-11T15:00:00.000+00:00,b,3,5628,CCT Europe 2026 Series 13,326,2924,Nexus,BAKS,3,de_dust2,326,13.0,10.0
+192475,133240,nexus-vs-baks-esports-11-11-2026,2026-11-11T15:00:00.000+00:00,b,3,5628,CCT Europe 2026 Series 13,326,2924,Nexus,BAKS,2,de_ancient,326,13.0,5.0
+192476,133240,nexus-vs-baks-esports-11-11-2026,2026-11-11T15:00:00.000+00:00,b,3,5628,CCT Europe 2026 Series 13,326,2924,Nexus,BAKS,1,de_cache,2924,13.0,7.0
 192836,133375,forze-reload-vs-masonic-11-11-2026,2026-11-11T15:00:00.000+00:00,b,3,5629,CCT Europe 2026 Series 14,10703,1059,FORZE Reload,MASONIC,2,de_nuke,10703,13.0,4.0
 192837,133375,forze-reload-vs-masonic-11-11-2026,2026-11-11T15:00:00.000+00:00,b,3,5629,CCT Europe 2026 Series 14,10703,1059,FORZE Reload,MASONIC,1,de_ancient,10703,19.0,16.0
+193530,133977,tpudcatb-tpu-vs-bbl-11-11-2026,2026-11-11T15:10:00.000+00:00,b,3,6249,PGL Cluj-Napoca 2027: Open Qualifier 1,22191,25251,33,BBL,2,de_ancient,25251,13.0,3.0
+193531,133977,tpudcatb-tpu-vs-bbl-11-11-2026,2026-11-11T15:10:00.000+00:00,b,3,6249,PGL Cluj-Napoca 2027: Open Qualifier 1,22191,25251,33,BBL,1,de_inferno,25251,22.0,19.0
+193526,133976,pcific-esport-vs-magic-ru-11-11-2026,2026-11-11T15:45:00.000+00:00,b,3,6249,PGL Cluj-Napoca 2027: Open Qualifier 1,6255,22218,PCIFIC,magic,3,de_inferno,22218,13.0,5.0
+193527,133976,pcific-esport-vs-magic-ru-11-11-2026,2026-11-11T15:45:00.000+00:00,b,3,6249,PGL Cluj-Napoca 2027: Open Qualifier 1,6255,22218,PCIFIC,magic,2,de_mirage,22218,13.0,2.0
+193528,133976,pcific-esport-vs-magic-ru-11-11-2026,2026-11-11T15:45:00.000+00:00,b,3,6249,PGL Cluj-Napoca 2027: Open Qualifier 1,6255,22218,PCIFIC,magic,1,de_dust2,6255,13.0,8.0
