@@ -1,80 +1,61 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 11/11/2026 06:32 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 11/11/2026 07:03 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## zoyir vs TikitakaMaster — 11/11 · 06:36
+## cl1vlind vs A1ose — 11/11 · 07:09
 
-👀 candidata · 🎮⚽ FC 27 · Premier League 2x6 · **Gana zoyir** @ **3.00** (Unibet) · prob 36% vs casas 29% · ventaja +10%
+👀 candidata · 🎮⚽ FC 27 · World Cup A · **Gana A1ose** @ **2.55** (Unibet) · prob 48% vs casas 34% · ventaja +21%
 
-- ❌ Valor: ventaja +10% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Valor: ventaja +21% (mín. 14% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 63.790 partidos)  
-Goles esperados: zoyir 3.86 · TikitakaMaster 4.15  
-Ganador: zoyir 37% · empate 16% · TikitakaMaster 47%  
-Total: más de 8.5 goles 41% · menos 59%  
-Hándicap TikitakaMaster: −1.5 33% · −2.5 21%  
+📊 **Escenarios** (Poisson por jugador, 63.833 partidos)  
+Goles esperados: cl1vlind 2.76 · A1ose 3.14  
+Ganador: cl1vlind 33% · empate 19% · A1ose 48%  
+Total: más de 5.5 goles 54% · menos 46%  
+Hándicap A1ose: −1.5 32% · −2.5 19%  
 🔎 **Claves**  
-• Forma: zoyir ➖✅✅❌❌ | TikitakaMaster ➖➖✅✅✅  
-• Partidos: zoyir 529 | TikitakaMaster 655  
-• Liga: Premier League 2x6  
-• Unibet: 1 3.00 · X 4.90 · 2 1.67 (sin margen 29%/18%/53%) · ventaja +10%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 3.00 (+10%) · Paf España 3.00 (+10%)  
-
-## Totti vs Taz — 11/11 · 06:42
-
-👀 candidata · 🎮⚽ FC 27 · Bundesliga · **Gana Taz** @ **1.80** (Unibet) · prob 60% vs casas 48% · ventaja +8%
-
-- ❌ Valor: ventaja +8% (mín. 10% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 63.809 partidos)  
-Goles esperados: Totti 2.82 · Taz 3.77  
-Ganador: Totti 24% · empate 17% · Taz 60%  
-Total: más de 6.5 goles 49% · menos 51%  
-Hándicap Taz: −1.5 41% · −2.5 27%  
-🔎 **Claves**  
-• Forma: Totti ➖✅✅➖➖ | Taz ✅➖❌❌➖  
-• Partidos: Totti 1010 | Taz 989  
-• Liga: Bundesliga  
-• Unibet: 1 2.75 · X 4.35 · 2 1.80 (sin margen 32%/20%/48%) · ventaja +8%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 1.80 (+8%) · Paf España 1.80 (+8%)  
-
-## dor1an vs RuBIX — 11/11 · 06:57
-
-👀 candidata · 🎮⚽ FC 27 · World Cup A · **Empate** @ **5.75** (Unibet) · prob 19% vs casas 15% · ventaja +9%
-
-- ❌ Valor: ventaja +9% (mín. 10% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 63.809 partidos)  
-Goles esperados: dor1an 2.35 · RuBIX 3.16  
-Ganador: dor1an 25% · empate 19% · RuBIX 56%  
-Total: más de 5.5 goles 47% · menos 53%  
-Hándicap RuBIX: −1.5 38% · −2.5 23%  
-🔎 **Claves**  
-• Forma: dor1an ❌✅❌✅❌ | RuBIX ❌✅✅✅✅  
-• Partidos: dor1an 128 | RuBIX 128  
+• Forma: cl1vlind ❌❌❌❌➖ | A1ose ❌✅❌✅✅  
+• Partidos: cl1vlind 577 | A1ose 919  
 • Liga: World Cup A  
-• Unibet: 1 3.85 · X 5.75 · 2 1.40 (sin margen 23%/15%/62%) · ventaja +9%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 5.75 (+9%) · Paf España 5.75 (+9%)  
+• Unibet: 1 2.90 · X 2.40 · 2 2.55 (sin margen 30%/36%/34%) · ventaja +21%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.55 (+21%) · Paf España 2.55 (+21%)  
 
-## spirtes vs mPm — 11/11 · 07:02
+## RuBIX vs v1nn — 11/11 · 07:09
 
-👀 candidata · 🎮⚽ FC 27 · MLS · **Empate** @ **5.80** (Unibet) · prob 19% vs casas 15% · ventaja +9%
+👀 candidata · 🎮⚽ FC 27 · World Cup A · **Gana RuBIX** @ **2.75** (Unibet) · prob 42% vs casas 32% · ventaja +14%
 
-- ❌ Valor: ventaja +9% (mín. 10% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
+- ✅ Valor: ventaja +14% (mín. 12% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 63.809 partidos)  
-Goles esperados: spirtes 2.77 · mPm 3.25  
-Ganador: spirtes 29% · empate 19% · mPm 52%  
-Total: más de 6.5 goles 40% · menos 60%  
-Hándicap mPm: −1.5 33% · −2.5 20%  
+📊 **Escenarios** (Poisson por jugador, 63.833 partidos)  
+Goles esperados: RuBIX 3.42 · v1nn 3.22  
+Ganador: RuBIX 42% · empate 18% · v1nn 40%  
+Total: más de 6.5 goles 49% · menos 51%  
+Hándicap RuBIX: −1.5 30% · −2.5 18%  
 🔎 **Claves**  
-• Forma: spirtes ❌✅✅✅✅ | mPm ❌➖❌❌❌  
-• Partidos: spirtes 1080 | mPm 763  
-• Liga: MLS  
-• Unibet: 1 2.90 · X 5.80 · 2 1.62 (sin margen 30%/15%/54%) · ventaja +9%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 5.80 (+9%) · Paf España 5.80 (+9%)  
+• Forma: RuBIX ❌✅✅✅✅ | v1nn ✅✅❌❌❌  
+• Partidos: RuBIX 128 | v1nn 572  
+• Liga: World Cup A  
+• Unibet: 1 2.75 · X 5.20 · 2 1.71 (sin margen 32%/17%/51%) · ventaja +14%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.75 (+14%) · Paf España 2.75 (+14%)  
+
+## dm1trena vs Jekunam — 11/11 · 07:12
+
+👀 candidata · 🎮⚽ FC 27 · Europa League · **Gana Jekunam** @ **2.38** (Unibet) · prob 47% vs casas 36% · ventaja +13%
+
+- ✅ Valor: ventaja +13% (mín. 12% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 63.833 partidos)  
+Goles esperados: dm1trena 2.43 · Jekunam 2.81  
+Ganador: dm1trena 32% · empate 21% · Jekunam 47%  
+Total: más de 5.5 goles 43% · menos 57%  
+Hándicap Jekunam: −1.5 30% · −2.5 17%  
+🔎 **Claves**  
+• Forma: dm1trena ❌➖✅➖✅ | Jekunam ✅❌❌➖❌  
+• Partidos: dm1trena 1069 | Jekunam 1050  
+• Liga: Europa League  
+• Unibet: 1 2.63 · X 2.80 · 2 2.38 (sin margen 33%/31%/36%) · ventaja +13%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.38 (+13%) · Paf España 2.38 (+13%)  
 
