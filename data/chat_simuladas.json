@@ -2038,7 +2038,10 @@
     "away": "Florida Panthers",
     "txt": "Gana Columbus Blue Jackets",
     "odds": 2.0,
-    "p": 0.51869
+    "p": 0.51869,
+    "ok": false,
+    "por": "ganó Florida Panthers 4-1",
+    "clv": -0.061
    },
    {
     "src": "esports:dota2",
@@ -2064,8 +2067,8 @@
   "odds": 7.68,
   "p": 0.1511578502898269,
   "stake": 1.0,
-  "estado": "pendiente",
-  "avisada": false,
-  "rev": 1
+  "estado": "perdida",
+  "avisada": true,
+  "rev": 2
  }
 ]
