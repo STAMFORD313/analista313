@@ -64239,16 +64239,16 @@ id,tournament_id,club1,club2,ht1,ht2
 2374909,261687,Man Utd,Aston Villa,,
 2374910,261687,Newcastle,Man Utd,,
 2374911,261687,Nottm Forest,Brighton,,
-2373820,261637,Arsenal,B Dortmund,1,1
-2373821,261637,Man City,Sporting CP,3,1
-2373822,261637,Sporting CP,Arsenal,2,1
-2373823,261637,B Dortmund,Juventus,1,2
-2373824,261637,Juventus,Sporting CP,2,1
-2373825,261637,Arsenal,Man City,2,2
-2373826,261637,Man City,Juventus,0,3
-2373827,261637,Sporting CP,B Dortmund,1,0
-2373828,261637,B Dortmund,Man City,3,2
-2373829,261637,Juventus,Arsenal,0,3
+2373820,261637,Arsenal,B Dortmund,1.0,1.0
+2373821,261637,Man City,Sporting CP,3.0,1.0
+2373822,261637,Sporting CP,Arsenal,2.0,1.0
+2373823,261637,B Dortmund,Juventus,1.0,2.0
+2373824,261637,Juventus,Sporting CP,2.0,1.0
+2373825,261637,Arsenal,Man City,2.0,2.0
+2373826,261637,Man City,Juventus,0.0,3.0
+2373827,261637,Sporting CP,B Dortmund,1.0,0.0
+2373828,261637,B Dortmund,Man City,3.0,2.0
+2373829,261637,Juventus,Arsenal,0.0,3.0
 2373830,261637,B Dortmund,Arsenal,,
 2373831,261637,Sporting CP,Man City,,
 2373832,261637,Arsenal,Sporting CP,,
@@ -64259,14 +64259,14 @@ id,tournament_id,club1,club2,ht1,ht2
 2373837,261637,B Dortmund,Sporting CP,,
 2373838,261637,Man City,B Dortmund,,
 2373839,261637,Arsenal,Juventus,,
-2374024,261655,Athletic Club,Villarreal,4,1
-2373901,261655,Real Madrid,Barcelona,1,2
-2373902,261655,Barcelona,Athletic Club,0,2
-2374025,261655,Villarreal,Atleti,0,1
-2373904,261655,Atleti,Barcelona,1,1
-2373905,261655,Athletic Club,Real Madrid,0,2
-2373906,261655,Real Madrid,Atleti,1,1
-2374026,261655,Barcelona,Villarreal,0,0
+2374024,261655,Athletic Club,Villarreal,4.0,1.0
+2373901,261655,Real Madrid,Barcelona,1.0,2.0
+2373902,261655,Barcelona,Athletic Club,0.0,2.0
+2374025,261655,Villarreal,Atleti,0.0,1.0
+2373904,261655,Atleti,Barcelona,1.0,1.0
+2373905,261655,Athletic Club,Real Madrid,0.0,2.0
+2373906,261655,Real Madrid,Atleti,1.0,1.0
+2374026,261655,Barcelona,Villarreal,0.0,0.0
 2374027,261655,Villarreal,Real Madrid,,
 2373909,261655,Atleti,Athletic Club,,
 2374028,261655,Villarreal,Athletic Club,,
@@ -64279,13 +64279,13 @@ id,tournament_id,club1,club2,ht1,ht2
 2374030,261655,Villarreal,Barcelona,,
 2374031,261655,Real Madrid,Villarreal,,
 2373919,261655,Athletic Club,Atleti,,
-2374340,261661,Chengdu Rongcheng,Shanghai Shenhua,0,1
-2374341,261661,Shandong Taishan,Shanghai Port,1,0
-2374342,261661,Shanghai Port,Chengdu Rongcheng,3,1
-2374343,261661,Shanghai Shenhua,Beijing Guoan,1,2
-2374344,261661,Beijing Guoan,Shanghai Port,1,2
-2374345,261661,Chengdu Rongcheng,Shandong Taishan,1,2
-2374346,261661,Shandong Taishan,Beijing Guoan,3,1
-2374347,261661,Shanghai Port,Shanghai Shenhua,4,1
-2374348,261661,Shanghai Shenhua,Shandong Taishan,0,0
-2374349,261661,Beijing Guoan,Chengdu Rongcheng,0,0
+2374340,261661,Chengdu Rongcheng,Shanghai Shenhua,0.0,1.0
+2374341,261661,Shandong Taishan,Shanghai Port,1.0,0.0
+2374342,261661,Shanghai Port,Chengdu Rongcheng,3.0,1.0
+2374343,261661,Shanghai Shenhua,Beijing Guoan,1.0,2.0
+2374344,261661,Beijing Guoan,Shanghai Port,1.0,2.0
+2374345,261661,Chengdu Rongcheng,Shandong Taishan,1.0,2.0
+2374346,261661,Shandong Taishan,Beijing Guoan,3.0,1.0
+2374347,261661,Shanghai Port,Shanghai Shenhua,4.0,1.0
+2374348,261661,Shanghai Shenhua,Shandong Taishan,0.0,0.0
+2374349,261661,Beijing Guoan,Chengdu Rongcheng,0.0,0.0

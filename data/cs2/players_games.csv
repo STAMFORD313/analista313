@@ -34679,3 +34679,5 @@ game_id,match_id,slug,date,tier,bo,tournament_id,tournament,t1_id,t2_id,team1,te
 191050,132593,mouz-cs2-vs-g2-11-11-2026,2026-11-11T09:30:00.000+00:00,s,3,4224,BLAST Rivals Fall 2026,765,793,MOUZ,G2,3,de_inferno,793,13.0,7.0
 191051,132593,mouz-cs2-vs-g2-11-11-2026,2026-11-11T09:30:00.000+00:00,s,3,4224,BLAST Rivals Fall 2026,765,793,MOUZ,G2,2,de_ancient,793,16.0,14.0
 191052,132593,mouz-cs2-vs-g2-11-11-2026,2026-11-11T09:30:00.000+00:00,s,3,4224,BLAST Rivals Fall 2026,765,793,MOUZ,G2,1,de_nuke,765,13.0,7.0
+192472,133239,genone-vs-inner-circle-academy-11-11-2026,2026-11-11T12:00:00.000+00:00,b,3,5628,CCT Europe 2026 Series 13,1406,22737,GenOne,Inner Circle Academy,2,de_ancient,22737,13.0,6.0
+192473,133239,genone-vs-inner-circle-academy-11-11-2026,2026-11-11T12:00:00.000+00:00,b,3,5628,CCT Europe 2026 Series 13,1406,22737,GenOne,Inner Circle Academy,1,de_anubis,22737,13.0,7.0
