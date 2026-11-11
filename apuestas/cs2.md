@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 11/11/2026 05:31 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 11/11/2026 06:03 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Spirit vs FUT — 11/11 · 08:00
 
