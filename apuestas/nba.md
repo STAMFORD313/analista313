@@ -1,6 +1,6 @@
 # 🏀 NBA·NCAA · apuestas de valor
 
-Actualizado 11/11/2026 02:24 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 11/11/2026 02:54 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Kentucky Wildcats vs Kansas Jayhawks — 11/11 · 03:30
 

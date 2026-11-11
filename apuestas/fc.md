@@ -1,62 +1,63 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 11/11/2026 02:24 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 11/11/2026 02:54 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## kkikus vs noeN — 11/11 · 02:27
+## Dov1n vs SpeciAL — 11/11 · 03:00
 
-👀 candidata · 🎮⚽ FC 27 · Champions League B · **Empate** @ **5.40** (Unibet) · prob 20% vs casas 16% · ventaja +8%
+👀 candidata · 🎮⚽ FC 27 · World Cup B · **Gana SpeciAL** @ **2.04** (Unibet) · prob 53% vs casas 43% · ventaja +9%
 
-- ❌ Valor: ventaja +8% (mín. 10% con la incertidumbre, máx. 30%)
+- ❌ Valor: ventaja +9% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 63.658 partidos)  
+Goles esperados: Dov1n 2.99 · SpeciAL 3.71  
+Ganador: Dov1n 29% · empate 18% · SpeciAL 53%  
+Total: más de 6.5 goles 51% · menos 49%  
+Hándicap SpeciAL: −1.5 38% · −2.5 24%  
+🔎 **Claves**  
+• Forma: Dov1n ❌❌❌❌❌ | SpeciAL ➖❌✅❌❌  
+• Partidos: Dov1n 1065 | SpeciAL 877  
+• Liga: World Cup B  
+• Unibet: 1 2.25 · X 4.75 · 2 2.04 (sin margen 39%/18%/43%) · ventaja +9%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.04 (+9%) · Paf España 2.04 (+9%)  
+
+## Simaponika vs Kavviro — 11/11 · 03:03
+
+👀 candidata · 🎮⚽ FC 27 · Champions League B · **Empate** @ **6.10** (Unibet) · prob 17% vs casas 14% · ventaja +6%
+
+- ❌ Valor: ventaja +6% (mín. 10% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 63.643 partidos)  
-Goles esperados: kkikus 2.40 · noeN 2.99  
-Ganador: kkikus 28% · empate 20% · noeN 52%  
-Total: más de 5.5 goles 45% · menos 55%  
-Hándicap noeN: −1.5 34% · −2.5 20%  
+📊 **Escenarios** (Poisson por jugador, 63.658 partidos)  
+Goles esperados: Simaponika 1.78 · Kavviro 3.10  
+Ganador: Simaponika 15% · empate 17% · Kavviro 68%  
+Total: más de 4.5 goles 54% · menos 46%  
+Hándicap Kavviro: −1.5 46% · −2.5 28%  
 🔎 **Claves**  
-• Forma: kkikus ✅❌➖❌❌ | noeN ✅✅➖❌❌  
-• Partidos: kkikus 977 | noeN 932  
+• Forma: Simaponika ➖✅❌✅❌ | Kavviro ✅❌✅✅✅  
+• Partidos: Simaponika 1106 | Kavviro 835  
 • Liga: Champions League B  
-• Unibet: 1 3.25 · X 5.40 · 2 1.52 (sin margen 27%/16%/57%) · ventaja +8%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 5.40 (+8%) · Paf España 5.40 (+8%)  
+• Unibet: 1 4.25 · X 6.10 · 2 1.32 (sin margen 20%/14%/65%) · ventaja +6%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 6.10 (+6%) · Paf España 6.10 (+6%)  
 
-## believer vs kkikus — 11/11 · 02:39
+## Paka vs Dov1n — 11/11 · 03:12
 
-👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana believer** @ **1.16** (cuota justa (sin casa)) · prob 86% vs casas 86% · ventaja +0%
+👀 candidata · 🎮⚽ FC 27 · World Cup B · **Gana Paka** @ **2.15** (Unibet) · prob 51% vs casas 41% · ventaja +9%
 
-- ❌ Valor: ventaja +0% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+- ❌ Valor: ventaja +9% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 63.598 partidos)  
-Goles esperados: believer 4.56 · kkikus 1.81  
-Ganador: believer 86% · empate 9% · kkikus 6%  
-Total: más de 6.5 goles 45% · menos 55%  
-Hándicap believer: −1.5 69% · −2.5 53%  
+📊 **Escenarios** (Poisson por jugador, 63.658 partidos)  
+Goles esperados: Paka 3.35 · Dov1n 2.70  
+Ganador: Paka 51% · empate 19% · Dov1n 31%  
+Total: más de 6.5 goles 40% · menos 60%  
+Hándicap Paka: −1.5 36% · −2.5 22%  
 🔎 **Claves**  
-• Forma: believer ✅✅✅❌❌ | kkikus ❌✅❌✅❌  
-• Partidos: believer 1024 | kkikus 974  
-• Liga: Champions League B  
-• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
-
-## kkikus vs Simaponika — 11/11 · 02:51
-
-👀 candidata · 🎮⚽ FC 27 · Champions League B · **Empate** @ **6.50** (Unibet) · prob 18% vs casas 13% · ventaja +20%
-
-- ✅ Valor: ventaja +20% (mín. 13% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 63.643 partidos)  
-Goles esperados: kkikus 2.24 · Simaponika 3.22  
-Ganador: kkikus 22% · empate 18% · Simaponika 59%  
-Total: más de 5.5 goles 46% · menos 54%  
-Hándicap Simaponika: −1.5 40% · −2.5 25%  
-🔎 **Claves**  
-• Forma: kkikus ✅❌➖❌❌ | Simaponika ✅❌➖✅❌  
-• Partidos: kkikus 977 | Simaponika 1104  
-• Liga: Champions League B  
-• Unibet: 1 3.75 · X 6.50 · 2 1.36 (sin margen 23%/13%/64%) · ventaja +20%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 6.50 (+20%) · Paf España 6.50 (+20%)  
+• Forma: Paka ✅✅✅❌➖ | Dov1n ❌❌❌❌❌  
+• Partidos: Paka 927 | Dov1n 1065  
+• Liga: World Cup B  
+• Unibet: 1 2.15 · X 5.30 · 2 2.04 (sin margen 41%/16%/43%) · ventaja +9%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.15 (+9%) · Paf España 2.15 (+9%)  
 
 ## kkikus vs Kavviro — 11/11 · 03:15
 
