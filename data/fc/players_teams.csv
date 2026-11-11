@@ -63809,18 +63809,18 @@ id,tournament_id,club1,club2,ht1,ht2
 2374531,261576,Arsenal,B Dortmund,,
 2373191,261576,Juventus,Arsenal,,
 2373192,261576,Sporting CP,Man City,,
-2372279,261551,Napoli,Sassuolo,1,2
-2372280,261551,Roma,Bologna,0,0
-2372281,261551,Bologna,Napoli,2,0
-2372282,261551,Sassuolo,Juventus,3,0
-2372283,261551,Juventus,Bologna,1,2
-2372284,261551,Napoli,Roma,1,2
-2372285,261551,Roma,Juventus,2,2
-2372286,261551,Bologna,Sassuolo,1,1
-2372287,261551,Sassuolo,Roma,0,2
-2372288,261551,Juventus,Napoli,4,1
-2372289,261551,Sassuolo,Napoli,1,2
-2372290,261551,Bologna,Roma,1,1
+2372279,261551,Napoli,Sassuolo,1.0,2.0
+2372280,261551,Roma,Bologna,0.0,0.0
+2372281,261551,Bologna,Napoli,2.0,0.0
+2372282,261551,Sassuolo,Juventus,3.0,0.0
+2372283,261551,Juventus,Bologna,1.0,2.0
+2372284,261551,Napoli,Roma,1.0,2.0
+2372285,261551,Roma,Juventus,2.0,2.0
+2372286,261551,Bologna,Sassuolo,1.0,1.0
+2372287,261551,Sassuolo,Roma,0.0,2.0
+2372288,261551,Juventus,Napoli,4.0,1.0
+2372289,261551,Sassuolo,Napoli,1.0,2.0
+2372290,261551,Bologna,Roma,1.0,1.0
 2372291,261551,Napoli,Bologna,,
 2372292,261551,Juventus,Sassuolo,,
 2372293,261551,Bologna,Juventus,,
