@@ -1,32 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 11/11/2026 05:02 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Vitality vs Falcons — 11/11 · 05:30
-
-👀 candidata · 🎮 CS2 · BLAST Rivals Fall 2026 · **Gana Falcons** @ **2.80** (Thunderpick) · prob 34% vs casas 33% · ventaja -5%
-
-- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 76.639 partidos)  
-Mapa: Vitality 60% · Serie BO3: Vitality 65% - 35% Falcons  
-Casas: Vitality 67% · Falcons 33%  
-🔎 **Claves**  
-• Elo: Vitality 2238 (281 series) | Falcons 2128 (307 series)  
-• Forma: Vitality ❌✅✅❌❌ | Falcons ❌❌✅✅❌  
-• H2H: 12: 7-5  
-• Torneo: BLAST Rivals Fall 2026 (nivel S)  
-• Cambios de plantilla: ninguno  
-• Jugadores en forma (rating últimos 10 mapas): Vitality: ZywOo 6.4, flameZ 6.0 | Falcons: kyousuke 6.9, m0NESY 6.4  
-• Mapas (último año): Vitality: fuerte overpass 94%, débil anubis 42% | Falcons: fuerte nuke 67%, débil ancient 56%  
-• Química de la plantilla: Vitality: 254 mapas juntos de media | Falcons: 213 mapas juntos de media  
-🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
-• Vitality gana 2-1: 25% → cuota justa 4.02 · casa 27%  
-• Falcons gana 2-1: 16% → cuota justa 6.08 · casa 17%  
-🔫 **Kills esperados en la serie** (rango 80 %; mejor que la media de sus 10 últimas en 52.297 casos: log-loss 0.682→0.6559; sin cuotas de props, solo referencia)  
-Vitality: ZywOo 42 (25-62) · ropz 36 (21-54) · flameZ 36 (21-53) · jL 34 (20-51) · mezii 32 (18-47)  
-Falcons: m0NESY 39 (23-58) · kyousuke 38 (22-56) · NiKo 34 (20-51) · TeSeS 30 (17-45) · karrigan 25 (14-38)  
+Actualizado 11/11/2026 05:31 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Spirit vs FUT — 11/11 · 08:00
 
