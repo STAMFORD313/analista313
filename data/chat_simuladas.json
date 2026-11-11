@@ -1255,7 +1255,9 @@
     "away": "Las Palmas III",
     "txt": "Gana CD Arcangel San Miguel",
     "odds": 2.5,
-    "p": 0.4293
+    "p": 0.4293,
+    "ok": "nula",
+    "por": "sin datos del partido"
    },
    {
     "code": null,
@@ -1264,7 +1266,9 @@
     "away": "Cornella",
     "txt": "Gana Cornella",
     "odds": 2.48,
-    "p": 0.4178
+    "p": 0.4178,
+    "ok": "nula",
+    "por": "sin datos del partido"
    },
    {
     "src": "esports:dota2",
@@ -1283,9 +1287,9 @@
   "odds": 15.0,
   "p": 0.09057436599198346,
   "stake": 1.0,
-  "estado": "pendiente",
-  "avisada": false,
-  "rev": 1
+  "estado": "ganada",
+  "avisada": true,
+  "rev": 2
  },
  {
   "id": "20261107000103361557",
@@ -1421,15 +1425,17 @@
     "away": "Mexico FC",
     "txt": "Gana Cala Pozuelo",
     "odds": 2.55,
-    "p": 0.4374
+    "p": 0.4374,
+    "ok": "nula",
+    "por": "sin datos del partido"
    }
   ],
   "odds": 17.57,
   "p": 0.09211156829932075,
   "stake": 1.0,
-  "estado": "pendiente",
-  "avisada": false,
-  "rev": 1
+  "estado": "ganada",
+  "avisada": true,
+  "rev": 2
  },
  {
   "id": "20261107162733746906",
