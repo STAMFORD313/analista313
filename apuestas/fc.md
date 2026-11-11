@@ -1,25 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 11/11/2026 08:33 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## A1ose vs v1nn — 11/11 · 08:55
-
-👀 candidata · 🎮⚽ FC 27 · Serie A · **Gana A1ose** @ **3.65** (Unibet) · prob 42% vs casas 24% · ventaja +51%
-
-- ❌ Valor: ventaja +51% (mín. 21% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 63.918 partidos)  
-Goles esperados: A1ose 3.71 · v1nn 3.74  
-Ganador: A1ose 41% · empate 17% · v1nn 41%  
-Total: más de 7.5 goles 47% · menos 53%  
-Hándicap v1nn: −1.5 29% · −2.5 18%  
-🔎 **Claves**  
-• Forma: A1ose ❌❌✅✅✅ | v1nn ✅✅❌✅❌  
-• Partidos: A1ose 924 | v1nn 578  
-• Liga: Serie A  
-• Unibet: 1 3.65 · X 5.75 · 2 1.42 (sin margen 24%/15%/61%) · ventaja +51%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 3.65 (+51%) · Paf España 3.65 (+51%)  
+Actualizado 11/11/2026 09:04 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## dor1an vs RuBIX — 11/11 · 09:07
 
@@ -58,4 +39,61 @@ Hándicap DaVa: −1.5 42% · −2.5 26%
 • Liga: Champions League AFC  
 • Unibet: 1 1.23 · X 4.60 · 2 8.50 (sin margen 71%/19%/10%) · ventaja +60%. Sin stake hasta demostrar ROI con estas cuotas.  
 • En España: LeoVegas España 8.50 (+60%) · Paf España 8.50 (+60%)  
+
+## Tesla vs Taz — 11/11 · 09:16
+
+👀 candidata · 🎮⚽ FC 27 · Ligue 1 · **Gana Taz** @ **3.80** (Unibet) · prob 30% vs casas 23% · ventaja +13%
+
+- ✅ Valor: ventaja +13% (mín. 11% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 63.943 partidos)  
+Goles esperados: Tesla 3.82 · Taz 3.38  
+Ganador: Tesla 53% · empate 17% · Taz 30%  
+Total: más de 7.5 goles 43% · menos 57%  
+Hándicap Tesla: −1.5 34% · −2.5 22%  
+🔎 **Claves**  
+• Forma: Tesla ✅❌➖➖❌ | Taz ❌✅➖➖✅  
+• Partidos: Tesla 1011 | Taz 997  
+• Liga: Ligue 1  
+• Unibet: 1 1.55 · X 4.35 · 2 3.80 (sin margen 57%/20%/23%) · ventaja +13%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 3.80 (+13%) · Paf España 3.80 (+13%)  
+
+## RuBIX vs v1nn — 11/11 · 09:19
+
+👀 candidata · 🎮⚽ FC 27 · Serie A · **Gana RuBIX** @ **2.85** (Unibet) · prob 45% vs casas 31% · ventaja +28%
+
+- ✅ Valor: ventaja +28% (mín. 15% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 63.943 partidos)  
+Goles esperados: RuBIX 3.48 · v1nn 3.25  
+Ganador: RuBIX 45% · empate 18% · v1nn 37%  
+Total: más de 6.5 goles 51% · menos 49%  
+Hándicap RuBIX: −1.5 31% · −2.5 19%  
+🔎 **Claves**  
+• Forma: RuBIX ✅❌✅✅➖ | v1nn ✅❌✅❌✅  
+• Partidos: RuBIX 136 | v1nn 579  
+• Liga: Serie A  
+• Unibet: 1 2.85 · X 5.60 · 2 1.65 (sin margen 31%/16%/53%) · ventaja +28%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.85 (+28%) · Paf España 2.85 (+28%)  
+
+## TikitakaMaster vs v1nniePuh — 11/11 · 09:38
+
+👀 candidata · 🎮⚽ FC 27 · Champions League A 2x6 · **Empate** @ **8.00** (Unibet) · prob 14% vs casas 11% · ventaja +14%
+
+- ✅ Valor: ventaja +14% (mín. 12% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 63.943 partidos)  
+Goles esperados: TikitakaMaster 5.17 · v1nniePuh 4.37  
+Ganador: TikitakaMaster 55% · empate 14% · v1nniePuh 31%  
+Total: más de 9.5 goles 48% · menos 52%  
+Hándicap TikitakaMaster: −1.5 41% · −2.5 29%  
+🔎 **Claves**  
+• Forma: TikitakaMaster ✅❌❌✅➖ | v1nniePuh ❌✅❌❌✅  
+• Partidos: TikitakaMaster 662 | v1nniePuh 663  
+• Liga: Champions League A 2x6  
+• Unibet: 1 1.36 · X 8.00 · 2 3.45 (sin margen 64%/11%/25%) · ventaja +14%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 8.00 (+14%) · Paf España 8.00 (+14%)  
 
