@@ -1,6 +1,6 @@
 # 🏈 NFL·NCAA · apuestas de valor
 
-Actualizado 11/11/2026 04:09 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 11/11/2026 04:31 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Ball State Cardinals vs Buffalo Bulls — 12/11 · 01:30
 

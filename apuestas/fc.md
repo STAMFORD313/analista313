@@ -1,44 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 11/11/2026 04:09 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## DangerDim77 vs R0ge — 11/11 · 04:16
-
-👀 candidata · 🎮⚽ FC 27 · Champions League A · **Empate** @ **5.30** (Unibet) · prob 21% vs casas 16% · ventaja +12%
-
-- ✅ Valor: ventaja +12% (mín. 11% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 63.707 partidos)  
-Goles esperados: DangerDim77 2.59 · R0ge 2.62  
-Ganador: DangerDim77 39% · empate 21% · R0ge 40%  
-Total: más de 5.5 goles 42% · menos 58%  
-Hándicap R0ge: −1.5 25% · −2.5 13%  
-🔎 **Claves**  
-• Forma: DangerDim77 ✅✅❌❌✅ | R0ge ❌✅❌✅➖  
-• Partidos: DangerDim77 501 | R0ge 501  
-• Liga: Champions League A  
-• Unibet: 1 1.95 · X 5.30 · 2 2.28 (sin margen 45%/17%/38%) · ventaja +12%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 5.30 (+12%) · Paf España 5.30 (+12%)  
-
-## rostyk vs nicky — 11/11 · 04:20
-
-👀 candidata · 🎮⚽ FC 27 · LaLiga 2x6 · **Gana nicky** @ **2.60** (Unibet) · prob 40% vs casas 34% · ventaja +5%
-
-- ❌ Valor: ventaja +5% (mín. 9% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 63.707 partidos)  
-Goles esperados: rostyk 5.00 · nicky 4.87  
-Ganador: rostyk 45% · empate 15% · nicky 40%  
-Total: más de 9.5 goles 53% · menos 47%  
-Hándicap rostyk: −1.5 33% · −2.5 22%  
-🔎 **Claves**  
-• Forma: rostyk ➖✅✅✅❌ | nicky ➖❌❌✅✅  
-• Partidos: rostyk 356 | nicky 354  
-• Liga: LaLiga 2x6  
-• Unibet: 1 1.68 · X 6.40 · 2 2.60 (sin margen 52%/14%/34%) · ventaja +5%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.60 (+5%) · Paf España 2.60 (+5%)  
+Actualizado 11/11/2026 04:31 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Paka vs Jokadinho — 11/11 · 04:44
 
@@ -58,4 +20,42 @@ Hándicap Paka: −1.5 36% · −2.5 22%
 • Liga: Champions League B  
 • Unibet: 1 2.12 · X 4.75 · 2 2.16 (sin margen 41%/18%/40%) · ventaja +5%. Sin stake hasta demostrar ROI con estas cuotas.  
 • En España: LeoVegas España 2.12 (+5%) · Paf España 2.12 (+5%)  
+
+## kkikus vs Kavviro — 11/11 · 04:47
+
+👀 candidata · 🎮⚽ FC 27 · Club World Cup · **Empate** @ **10.00** (Unibet) · prob 12% vs casas 9% · ventaja +18%
+
+- ✅ Valor: ventaja +18% (mín. 12% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 63.725 partidos)  
+Goles esperados: kkikus 1.53 · Kavviro 3.79  
+Ganador: kkikus 8% · empate 12% · Kavviro 81%  
+Total: más de 5.5 goles 44% · menos 56%  
+Hándicap Kavviro: −1.5 62% · −2.5 44%  
+🔎 **Claves**  
+• Forma: kkikus ❌❌❌➖❌ | Kavviro ✅✅✅❌❌  
+• Partidos: kkikus 985 | Kavviro 841  
+• Liga: Club World Cup  
+• Unibet: 1 8.00 · X 10.00 · 2 1.09 (sin margen 11%/9%/80%) · ventaja +18%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 10.00 (+18%) · Paf España 10.00 (+18%)  
+
+## Jokadinho vs Dov1n — 11/11 · 04:56
+
+👀 candidata · 🎮⚽ FC 27 · Champions League B · **Empate** @ **6.00** (Unibet) · prob 18% vs casas 15% · ventaja +8%
+
+- ❌ Valor: ventaja +8% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 63.725 partidos)  
+Goles esperados: Jokadinho 3.46 · Dov1n 3.40  
+Ganador: Jokadinho 43% · empate 18% · Dov1n 39%  
+Total: más de 6.5 goles 53% · menos 47%  
+Hándicap Jokadinho: −1.5 29% · −2.5 17%  
+🔎 **Claves**  
+• Forma: Jokadinho ✅✅✅❌❌ | Dov1n ✅✅❌✅✅  
+• Partidos: Jokadinho 900 | Dov1n 1070  
+• Liga: Champions League B  
+• Unibet: 1 2.10 · X 6.00 · 2 2.02 (sin margen 42%/15%/44%) · ventaja +8%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 6.00 (+8%) · Paf España 6.00 (+8%)  
 

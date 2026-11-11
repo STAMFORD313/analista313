@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 11/11/2026 04:09 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 11/11/2026 04:31 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Vitality vs Falcons — 11/11 · 05:30
 
