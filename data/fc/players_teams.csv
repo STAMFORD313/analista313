@@ -63641,20 +63641,20 @@ id,tournament_id,club1,club2,ht1,ht2
 2372256,261549,Argentina,France,,
 2372257,261549,Spain,Argentina,,
 2372258,261549,England,Brazil,,
-2372639,261528,Man City,Real Madrid,2,1
-2372640,261528,River Plate,Paris,1,1
-2372641,261528,Paris,Man City,0,2
-2372642,261528,Real Madrid,Boca Juniors,3,1
-2372643,261528,Boca Juniors,Paris,4,2
-2372644,261528,Man City,River Plate,0,1
-2372645,261528,River Plate,Boca Juniors,1,2
-2372646,261528,Paris,Real Madrid,2,1
-2372647,261528,Real Madrid,River Plate,1,2
-2372648,261528,Boca Juniors,Man City,1,1
-2372649,261528,Real Madrid,Man City,0,4
-2372650,261528,Paris,River Plate,1,1
-2372651,261528,Man City,Paris,1,0
-2372652,261528,Boca Juniors,Real Madrid,1,1
+2372639,261528,Man City,Real Madrid,2.0,1.0
+2372640,261528,River Plate,Paris,1.0,1.0
+2372641,261528,Paris,Man City,0.0,2.0
+2372642,261528,Real Madrid,Boca Juniors,3.0,1.0
+2372643,261528,Boca Juniors,Paris,4.0,2.0
+2372644,261528,Man City,River Plate,0.0,1.0
+2372645,261528,River Plate,Boca Juniors,1.0,2.0
+2372646,261528,Paris,Real Madrid,2.0,1.0
+2372647,261528,Real Madrid,River Plate,1.0,2.0
+2372648,261528,Boca Juniors,Man City,1.0,1.0
+2372649,261528,Real Madrid,Man City,0.0,4.0
+2372650,261528,Paris,River Plate,1.0,1.0
+2372651,261528,Man City,Paris,1.0,0.0
+2372652,261528,Boca Juniors,Real Madrid,1.0,1.0
 2372653,261528,Paris,Boca Juniors,,
 2372654,261528,River Plate,Man City,,
 2372655,261528,Boca Juniors,River Plate,,

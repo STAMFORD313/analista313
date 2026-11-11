@@ -1,50 +1,6 @@
 # 🏈 NFL·NCAA · apuestas de valor
 
-Actualizado 11/11/2026 01:54 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Miami (OH) RedHawks vs Ohio Bobcats — 11/11 · 02:00
-
-👀 candidata · 🏈 NCAA Football · **Más de 47.5 puntos** @ **1.91** (DraftKings) · prob 50% vs casas 50% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 totales» sin pérdidas demostradas
-
-📊 **Escenarios**: total esperado **48.4** puntos · línea 47.5  
-Más 50% · Menos 50%  
-🔎 **Claves**  
-• Forma: Miami (OH) RedHawks ❌✅✅✅❌ | Ohio Bobcats ✅✅✅✅✅  
-• H2H: 9 desde 2017: 4-5  
-• Bajas: Miami (OH) RedHawks: sin bajas; Ohio Bobcats: sin bajas  
-
-## Miami (OH) RedHawks vs Ohio Bobcats — 11/11 · 02:00
-
-👀 candidata · 🏈 NCAA Football · **Miami (OH) RedHawks -1.5** @ **1.91** (DraftKings) · prob 50% vs casas 50% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 hándicap» sin pérdidas demostradas
-
-📊 **Escenarios**: Miami (OH) RedHawks cubre -1.5 con prob. 50% (casas 50%)  
-🔎 **Claves**  
-• Forma: Miami (OH) RedHawks ❌✅✅✅❌ | Ohio Bobcats ✅✅✅✅✅  
-• H2H: 9 desde 2017: 4-5  
-• Bajas: Miami (OH) RedHawks: sin bajas; Ohio Bobcats: sin bajas  
-
-## Miami (OH) RedHawks vs Ohio Bobcats — 11/11 · 02:00
-
-👀 candidata · 🏈 NCAA Football · **Gana Miami (OH) RedHawks** @ **1.85** (DraftKings) · prob 52% vs casas 52% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo con 9.490 partidos y bajas)  
-Gana Miami (OH) RedHawks 30% · Gana Ohio Bobcats 70%  
-Casas: Miami (OH) RedHawks 52% · Ohio Bobcats 48%  
-Hándicap M-OH -1.5 · Total puntos 47.5  
-🔎 **Claves**  
-• Forma: Miami (OH) RedHawks ❌✅✅✅❌ | Ohio Bobcats ✅✅✅✅✅  
-• H2H: 9 desde 2017: 4-5  
-• Bajas: Miami (OH) RedHawks: sin bajas; Ohio Bobcats: sin bajas  
-• Favorito de las casas: Miami (OH) RedHawks @ 1.85  
+Actualizado 11/11/2026 02:24 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Ball State Cardinals vs Buffalo Bulls — 12/11 · 01:30
 
