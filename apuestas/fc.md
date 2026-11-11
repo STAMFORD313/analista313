@@ -1,44 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 11/11/2026 20:29 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Gaga vs borees — 11/11 · 20:40
-
-👀 candidata · 🎮⚽ FC 27 · Europa League · **Gana Gaga** @ **3.00** (Unibet) · prob 41% vs casas 29% · ventaja +24%
-
-- ✅ Valor: ventaja +24% (mín. 14% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 64.557 partidos)  
-Goles esperados: Gaga 2.65 · borees 2.58  
-Ganador: Gaga 41% · empate 21% · borees 38%  
-Total: más de 5.5 goles 42% · menos 58%  
-Hándicap Gaga: −1.5 26% · −2.5 14%  
-🔎 **Claves**  
-• Forma: Gaga ➖❌✅❌✅ | borees ❌❌❌✅➖  
-• Partidos: Gaga 1178 | borees 1063  
-• Liga: Europa League  
-• Unibet: 1 3.00 · X 2.95 · 2 2.08 (sin margen 29%/29%/42%) · ventaja +24%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 3.00 (+24%) · Paf España 3.00 (+24%)  
-
-## hit vs lzrn — 11/11 · 20:58
-
-👀 candidata · 🎮⚽ FC 27 · Premier League · **Gana hit** @ **2.38** (Unibet) · prob 52% vs casas 36% · ventaja +23%
-
-- ✅ Valor: ventaja +23% (mín. 14% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 64.557 partidos)  
-Goles esperados: hit 2.81 · lzrn 2.36  
-Ganador: hit 51% · empate 20% · lzrn 28%  
-Total: más de 5.5 goles 41% · menos 59%  
-Hándicap hit: −1.5 31% · −2.5 18%  
-🔎 **Claves**  
-• Forma: hit ➖✅➖✅➖ | lzrn ❌❌✅➖✅  
-• Partidos: hit 758 | lzrn 856  
-• Liga: Premier League  
-• Unibet: 1 2.38 · X 3.10 · 2 2.43 (sin margen 36%/28%/36%) · ventaja +23%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.38 (+23%) · Paf España 2.38 (+23%)  
+Actualizado 11/11/2026 20:59 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Rodja vs borees — 11/11 · 21:04
 
@@ -58,4 +20,61 @@ Hándicap Rodja: −1.5 32% · −2.5 19%
 • Liga: Europa League  
 • Unibet: 1 2.45 · X 4.20 · 2 1.98 (sin margen 35%/21%/44%) · ventaja +18%. Sin stake hasta demostrar ROI con estas cuotas.  
 • En España: LeoVegas España 2.45 (+18%) · Paf España 2.45 (+18%)  
+
+## chevare vs Glumac — 11/11 · 21:10
+
+👀 candidata · 🎮⚽ FC 27 · Premier League · **Gana Glumac** @ **2.48** (Unibet) · prob 43% vs casas 35% · ventaja +8%
+
+- ❌ Valor: ventaja +8% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 64.589 partidos)  
+Goles esperados: chevare 3.52 · Glumac 3.80  
+Ganador: chevare 39% · empate 17% · Glumac 43%  
+Total: más de 7.5 goles 45% · menos 55%  
+Hándicap Glumac: −1.5 32% · −2.5 20%  
+🔎 **Claves**  
+• Forma: chevare ➖❌✅❌➖ | Glumac ❌➖✅➖✅  
+• Partidos: chevare 667 | Glumac 835  
+• Liga: Premier League  
+• Unibet: 1 2.23 · X 3.30 · 2 2.48 (sin margen 39%/26%/35%) · ventaja +8%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.48 (+7%) · Paf España 2.48 (+7%)  
+
+## Duka vs Rodja — 11/11 · 21:16
+
+👀 candidata · 🎮⚽ FC 27 · Europa League · **Gana Duka** @ **2.75** (Unibet) · prob 40% vs casas 32% · ventaja +9%
+
+- ❌ Valor: ventaja +9% (mín. 11% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 64.589 partidos)  
+Goles esperados: Duka 2.35 · Rodja 2.25  
+Ganador: Duka 40% · empate 23% · Rodja 37%  
+Total: más de 4.5 goles 49% · menos 51%  
+Hándicap Duka: −1.5 25% · −2.5 13%  
+🔎 **Claves**  
+• Forma: Duka ✅✅❌➖➖ | Rodja ❌➖➖❌❌  
+• Partidos: Duka 1132 | Rodja 1042  
+• Liga: Europa League  
+• Unibet: 1 2.75 · X 2.88 · 2 2.25 (sin margen 31%/30%/38%) · ventaja +9%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.75 (+9%) · Paf España 2.75 (+9%)  
+
+## pikalicaaa vs Linox — 11/11 · 21:19
+
+👀 candidata · 🎮⚽ FC 27 · Serie A · **Gana Linox** @ **2.20** (Unibet) · prob 48% vs casas 39% · ventaja +5%
+
+- ❌ Valor: ventaja +5% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 64.589 partidos)  
+Goles esperados: pikalicaaa 1.94 · Linox 2.34  
+Ganador: pikalicaaa 29% · empate 23% · Linox 48%  
+Total: más de 4.5 goles 42% · menos 58%  
+Hándicap Linox: −1.5 29% · −2.5 15%  
+🔎 **Claves**  
+• Forma: pikalicaaa ✅✅➖➖✅ | Linox ✅➖➖❌❌  
+• Partidos: pikalicaaa 683 | Linox 859  
+• Liga: Serie A  
+• Unibet: 1 2.45 · X 3.40 · 2 2.20 (sin margen 35%/25%/39%) · ventaja +5%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.20 (+5%) · Paf España 2.20 (+5%)  
 
