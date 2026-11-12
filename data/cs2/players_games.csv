@@ -34732,3 +34732,6 @@ game_id,match_id,slug,date,tier,bo,tournament_id,tournament,t1_id,t2_id,team1,te
 192348,133198,ex-yawara-vs-isurus-gaming-cs-go-12-11-2026,2026-11-12T16:15:00.000+00:00,b,3,5624,CCT South America 2026 Series 8,25652,591,ex-Yawara,Isurus,3,de_mirage,25652,13.0,10.0
 192349,133198,ex-yawara-vs-isurus-gaming-cs-go-12-11-2026,2026-11-12T16:15:00.000+00:00,b,3,5624,CCT South America 2026 Series 8,25652,591,ex-Yawara,Isurus,2,de_nuke,591,13.0,5.0
 192350,133198,ex-yawara-vs-isurus-gaming-cs-go-12-11-2026,2026-11-12T16:15:00.000+00:00,b,3,5624,CCT South America 2026 Series 8,25652,591,ex-Yawara,Isurus,1,de_dust2,25652,13.0,11.0
+193329,133844,ex-rustec-vs-spirit-academy-12-11-2026,2026-11-12T18:00:00.000+00:00,b,3,6240,NODWIN Clutch Series 14,24857,1309,ex-RUSTEC,Spirit Academy,3,de_nuke,24857,13.0,6.0
+193330,133844,ex-rustec-vs-spirit-academy-12-11-2026,2026-11-12T18:00:00.000+00:00,b,3,6240,NODWIN Clutch Series 14,24857,1309,ex-RUSTEC,Spirit Academy,2,de_anubis,24857,13.0,7.0
+193331,133844,ex-rustec-vs-spirit-academy-12-11-2026,2026-11-12T18:00:00.000+00:00,b,3,6240,NODWIN Clutch Series 14,24857,1309,ex-RUSTEC,Spirit Academy,1,de_mirage,1309,13.0,8.0

@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 12/11/2026 21:51 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 12/11/2026 22:19 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Vitality vs MOUZ — 13/11 · 09:00
 

@@ -1,82 +1,25 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 12/11/2026 21:51 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 12/11/2026 22:19 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## Lunjo vs Vanste — 12/11 · 21:52
+## DangerDim77 vs Kray — 12/11 · 22:22
 
-👀 candidata · 🎮⚽ FC 27 · LaLiga · **Gana Vanste** @ **3.80** (Unibet) · prob 33% vs casas 23% · ventaja +24%
+👀 candidata · 🎮⚽ FC 27 · Portugal Primera · **Gana DangerDim77** @ **3.25** (Unibet) · prob 34% vs casas 27% · ventaja +11%
 
-- ✅ Valor: ventaja +24% (mín. 14% con la incertidumbre, máx. 30%)
+- ✅ Valor: ventaja +11% (mín. 11% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 65.795 partidos)  
-Goles esperados: Lunjo 2.79 · Vanste 2.45  
-Ganador: Lunjo 47% · empate 21% · Vanste 33%  
-Total: más de 5.5 goles 43% · menos 57%  
-Hándicap Lunjo: −1.5 30% · −2.5 17%  
+📊 **Escenarios** (Poisson por jugador, 65.849 partidos)  
+Goles esperados: DangerDim77 3.01 · Kray 3.39  
+Ganador: DangerDim77 34% · empate 18% · Kray 47%  
+Total: más de 6.5 goles 46% · menos 54%  
+Hándicap Kray: −1.5 32% · −2.5 20%  
 🔎 **Claves**  
-• Forma: Lunjo ✅❌✅❌❌ | Vanste ✅✅❌❌❌  
-• Partidos: Lunjo 96 | Vanste 120  
-• Liga: LaLiga  
-• Unibet: 1 1.55 · X 4.40 · 2 3.80 (sin margen 57%/20%/23%) · ventaja +24%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 3.80 (+24%) · Paf España 3.80 (+24%)  
-
-## spirtes vs Loka — 12/11 · 21:56
-
-👀 candidata · 🎮⚽ FC 27 · Copa America · **Gana Loka** @ **1.23** (Unibet) · prob 90% vs casas 71% · ventaja +10%
-
-- ❌ Valor: ventaja +10% (mín. 11% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 65.821 partidos)  
-Goles esperados: spirtes 2.20 · Loka 5.70  
-Ganador: spirtes 4% · empate 6% · Loka 90%  
-Total: más de 7.5 goles 53% · menos 47%  
-Hándicap Loka: −1.5 76% · −2.5 63%  
-🔎 **Claves**  
-• Forma: spirtes ➖❌❌❌➖ | Loka ✅✅✅✅➖  
-• Partidos: spirtes 1134 | Loka 1238  
-• Liga: Copa America  
-• Unibet: 1 5.25 · X 6.75 · 2 1.23 (sin margen 17%/13%/71%) · ventaja +10%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 1.23 (+10%) · Paf España 1.23 (+10%)  
-
-## Vanste vs mixes — 12/11 · 22:04
-
-👀 candidata · 🎮⚽ FC 27 · LaLiga · **Gana Vanste** @ **3.05** (Unibet) · prob 41% vs casas 29% · ventaja +24%
-
-- ✅ Valor: ventaja +24% (mín. 14% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 65.795 partidos)  
-Goles esperados: Vanste 2.76 · mixes 2.63  
-Ganador: Vanste 41% · empate 21% · mixes 39%  
-Total: más de 5.5 goles 45% · menos 55%  
-Hándicap Vanste: −1.5 27% · −2.5 15%  
-🔎 **Claves**  
-• Forma: Vanste ✅✅❌❌❌ | mixes ✅✅✅✅❌  
-• Partidos: Vanste 120 | mixes 95  
-• Liga: LaLiga  
-• Unibet: 1 3.05 · X 4.00 · 2 1.76 (sin margen 29%/22%/50%) · ventaja +24%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 3.05 (+24%) · Paf España 3.05 (+24%)  
-
-## Loka vs dirowe — 12/11 · 22:08
-
-👀 candidata · 🎮⚽ FC 27 · Copa America · **Gana Loka** @ **1.60** (Unibet) · prob 73% vs casas 55% · ventaja +18%
-
-- ✅ Valor: ventaja +18% (mín. 12% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 65.821 partidos)  
-Goles esperados: Loka 4.95 · dirowe 2.90  
-Ganador: Loka 73% · empate 12% · dirowe 15%  
-Total: más de 7.5 goles 53% · menos 47%  
-Hándicap Loka: −1.5 57% · −2.5 43%  
-🔎 **Claves**  
-• Forma: Loka ✅✅✅✅➖ | dirowe ✅❌❌❌✅  
-• Partidos: Loka 1238 | dirowe 853  
-• Liga: Copa America  
-• Unibet: 1 1.60 · X 5.50 · 2 3.05 (sin margen 55%/16%/29%) · ventaja +18%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 1.60 (+17%) · Paf España 1.60 (+17%)  
+• Forma: DangerDim77 ❌✅✅✅❌ | Kray ➖❌✅➖❌  
+• Partidos: DangerDim77 544 | Kray 679  
+• Liga: Portugal Primera  
+• Unibet: 1 3.25 · X 4.10 · 2 1.70 (sin margen 27%/21%/52%) · ventaja +11%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 3.25 (+11%) · Paf España 3.25 (+11%)  
 
 ## Lunjo vs Joop — 12/11 · 22:28
 
@@ -96,4 +39,42 @@ Hándicap Lunjo: −1.5 32% · −2.5 18%
 • Liga: LaLiga  
 • Unibet: 1 1.38 · X 5.80 · 2 3.80 (sin margen 62%/15%/23%) · ventaja +18%. Sin stake hasta demostrar ROI con estas cuotas.  
 • En España: LeoVegas España 5.80 (+18%) · Paf España 5.80 (+18%)  
+
+## Vanste vs Lunjo — 12/11 · 22:52
+
+👀 candidata · 🎮⚽ FC 27 · LaLiga · **Empate** @ **5.40** (Unibet) · prob 21% vs casas 16% · ventaja +11%
+
+- ✅ Valor: ventaja +11% (mín. 11% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 65.849 partidos)  
+Goles esperados: Vanste 2.47 · Lunjo 2.81  
+Ganador: Vanste 33% · empate 21% · Lunjo 47%  
+Total: más de 5.5 goles 43% · menos 57%  
+Hándicap Lunjo: −1.5 30% · −2.5 17%  
+🔎 **Claves**  
+• Forma: Vanste ✅❌❌❌❌ | Lunjo ✅❌❌❌✅  
+• Partidos: Vanste 121 | Lunjo 98  
+• Liga: LaLiga  
+• Unibet: 1 2.80 · X 5.40 · 2 1.68 (sin margen 31%/16%/52%) · ventaja +11%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 5.40 (+11%) · Paf España 5.40 (+11%)  
+
+## nicky vs zaha — 12/11 · 23:00
+
+👀 candidata · 🎮⚽ FC 27 · Argentina Super League 2x6 · **Gana zaha** @ **1.49** (Unibet) · prob 75% vs casas 59% · ventaja +12%
+
+- ✅ Valor: ventaja +12% (mín. 11% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 65.849 partidos)  
+Goles esperados: nicky 4.39 · zaha 6.69  
+Ganador: nicky 15% · empate 10% · zaha 75%  
+Total: más de 11.5 goles 43% · menos 57%  
+Hándicap zaha: −1.5 59% · −2.5 47%  
+🔎 **Claves**  
+• Forma: nicky ✅❌✅➖➖ | zaha ✅❌✅❌✅  
+• Partidos: nicky 359 | zaha 367  
+• Liga: Argentina Super League 2x6  
+• Unibet: 1 3.65 · X 5.30 · 2 1.49 (sin margen 24%/17%/59%) · ventaja +12%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 1.49 (+12%) · Paf España 1.49 (+12%)  
 
