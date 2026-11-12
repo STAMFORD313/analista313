@@ -520,12 +520,6 @@ matchup,start,league,home,away,market,line,o_home,o_away,o_draw,o_over,o_under,s
 1640358406,2026-11-12 13:00:00+00:00,Dota 2 - 1W Essence,Aurora,GamerLegion,spread,-1.5,2.16,1.7353,,,,2026-11-12 12:48:32.012581+00:00
 1640358406,2026-11-12 13:00:00+00:00,Dota 2 - 1W Essence,Aurora,GamerLegion,total,2.5,,,,2.11,1.6993,2026-11-12 12:48:32.012581+00:00
 1640369078,2026-11-12 13:00:00+00:00,Dota 2 - DreamLeague Division 2,Power Rangers,Nemiga,moneyline,,1.5405,2.43,,,,2026-11-12 12:48:32.012581+00:00
-1640368814,2026-11-13 10:00:00+00:00,Dota 2 - DreamLeague Division 2,HULIGANI,PlayTime,moneyline,,2.36,1.5747,,,,2026-11-12 13:48:34.177987+00:00
-1640368814,2026-11-13 10:00:00+00:00,Dota 2 - DreamLeague Division 2,HULIGANI,PlayTime,spread,1.5,1.4386,2.72,,,,2026-11-12 13:48:34.177987+00:00
-1640368814,2026-11-13 10:00:00+00:00,Dota 2 - DreamLeague Division 2,HULIGANI,PlayTime,total,2.5,,,,1.9434,1.8333,2026-11-12 13:48:34.177987+00:00
-1640367765,2026-11-12 19:00:00+00:00,Dota 2 - 1W Essence,Spirit,1W,moneyline,,1.0764,7.46,,,,2026-11-12 13:48:34.177987+00:00
-1640367765,2026-11-12 19:00:00+00:00,Dota 2 - 1W Essence,Spirit,1W,spread,-1.5,1.4329,2.81,,,,2026-11-12 13:48:34.177987+00:00
-1640367765,2026-11-12 19:00:00+00:00,Dota 2 - 1W Essence,Spirit,1W,total,2.5,,,,2.95,1.3448,2026-11-12 13:48:34.177987+00:00
 1640369048,2026-11-13 14:30:00+00:00,Dota 2 - DreamLeague Division 2,Froglings,Puckchamp,moneyline,,1.1431,4.95,,,,2026-11-12 13:48:34.177987+00:00
 1640369048,2026-11-13 14:30:00+00:00,Dota 2 - DreamLeague Division 2,Froglings,Puckchamp,spread,-1.5,1.6536,2.21,,,,2026-11-12 13:48:34.177987+00:00
 1640369048,2026-11-13 14:30:00+00:00,Dota 2 - DreamLeague Division 2,Froglings,Puckchamp,total,2.5,,,,2.51,1.4975,2026-11-12 13:48:34.177987+00:00
@@ -535,28 +529,34 @@ matchup,start,league,home,away,market,line,o_home,o_away,o_draw,o_over,o_under,s
 1640368795,2026-11-12 14:00:00+00:00,CS2 - ESL Challenger League Europe,Balkan Outlaws,KUUSAMO,moneyline,,1.2793,3.6,,,,2026-11-12 13:48:34.177987+00:00
 1640368795,2026-11-12 14:00:00+00:00,CS2 - ESL Challenger League Europe,Balkan Outlaws,KUUSAMO,spread,-1.5,1.9901,1.8333,,,,2026-11-12 13:48:34.177987+00:00
 1640368795,2026-11-12 14:00:00+00:00,CS2 - ESL Challenger League Europe,Balkan Outlaws,KUUSAMO,total,2.5,,,,2.26,1.6494,2026-11-12 13:48:34.177987+00:00
-1640369049,2026-11-13 18:00:00+00:00,Dota 2 - DreamLeague Division 2,CyberHero,Xipto,moneyline,,1.495,2.55,,,,2026-11-12 13:48:34.177987+00:00
-1640369049,2026-11-13 18:00:00+00:00,Dota 2 - DreamLeague Division 2,CyberHero,Xipto,spread,-1.5,2.53,1.5,,,,2026-11-12 13:48:34.177987+00:00
-1640369049,2026-11-13 18:00:00+00:00,Dota 2 - DreamLeague Division 2,CyberHero,Xipto,total,2.5,,,,1.9709,1.8065,2026-11-12 13:48:34.177987+00:00
-1640331066,2026-11-13 09:30:00+00:00,Rainbow Six - Blast R6 Major Osaka,G2,FaZe,moneyline,,2.39,1.5263,,,,2026-11-12 13:48:34.177987+00:00
-1640368781,2026-11-12 19:00:00+00:00,Dota 2 - Asgard Championship,Xipto,Nemiga,moneyline,,1.2941,3.37,,,,2026-11-12 13:48:34.177987+00:00
-1640368781,2026-11-12 19:00:00+00:00,Dota 2 - Asgard Championship,Xipto,Nemiga,spread,-1.5,2.04,1.7634,,,,2026-11-12 13:48:34.177987+00:00
-1640368781,2026-11-12 19:00:00+00:00,Dota 2 - Asgard Championship,Xipto,Nemiga,total,2.5,,,,2.16,1.6711,2026-11-12 13:48:34.177987+00:00
-1640369036,2026-11-12 19:00:00+00:00,CS2 - CCT South America Series,Procyon,tao toma,moneyline,,2.41,1.5376,,,,2026-11-12 13:48:34.177987+00:00
-1640369036,2026-11-12 19:00:00+00:00,CS2 - CCT South America Series,Procyon,tao toma,spread,1.5,1.4808,2.56,,,,2026-11-12 13:48:34.177987+00:00
-1640369036,2026-11-12 19:00:00+00:00,CS2 - CCT South America Series,Procyon,tao toma,total,2.5,,,,2.06,1.7353,2026-11-12 13:48:34.177987+00:00
-1640326039,2026-11-12 18:00:00+00:00,CS2 - Elisa Open Suomi,Nordic Valor,ROUNDS,moneyline,,2.61,1.463,,,,2026-11-12 13:48:34.177987+00:00
-1640326039,2026-11-12 18:00:00+00:00,CS2 - Elisa Open Suomi,Nordic Valor,ROUNDS,spread,1.5,1.5525,2.38,,,,2026-11-12 13:48:34.177987+00:00
-1640326039,2026-11-12 18:00:00+00:00,CS2 - Elisa Open Suomi,Nordic Valor,ROUNDS,total,2.5,,,,2.1,1.7092,2026-11-12 13:48:34.177987+00:00
-1640273349,2026-11-14 19:00:00+00:00,League of Legends - World Championship,Bilibili,Gen.G,moneyline,,2.58,1.5291,,,,2026-11-12 13:48:34.177987+00:00
-1640273349,2026-11-14 19:00:00+00:00,League of Legends - World Championship,Bilibili,Gen.G,spread,1.5,1.7299,2.17,,,,2026-11-12 13:48:34.177987+00:00
-1640273349,2026-11-14 19:00:00+00:00,League of Legends - World Championship,Bilibili,Gen.G,total,4.5,,,,2.72,1.4587,2026-11-12 13:48:34.177987+00:00
-1640368745,2026-11-12 16:00:00+00:00,Dota 2 - 1W Essence,PVISION,DO KONCA,moneyline,,1.0667,8.02,,,,2026-11-12 13:48:34.177987+00:00
-1640368745,2026-11-12 16:00:00+00:00,Dota 2 - 1W Essence,PVISION,DO KONCA,spread,-1.5,1.4098,2.9,,,,2026-11-12 13:48:34.177987+00:00
-1640368745,2026-11-12 16:00:00+00:00,Dota 2 - 1W Essence,PVISION,DO KONCA,total,2.5,,,,3.02,1.3289,2026-11-12 13:48:34.177987+00:00
-1640326053,2026-11-13 06:30:00+00:00,Rainbow Six - Blast R6 Major Osaka,Falcons,Geekay,moneyline,,1.3333,3.0,,,,2026-11-12 13:48:34.177987+00:00
-1640367791,2026-11-12 16:00:00+00:00,CS2 - CCT South America Series,Yawara,Isurus,moneyline,,1.6757,2.15,,,,2026-11-12 13:48:34.177987+00:00
-1640367791,2026-11-12 16:00:00+00:00,CS2 - CCT South America Series,Yawara,Isurus,spread,-1.5,2.82,1.3984,,,,2026-11-12 13:48:34.177987+00:00
-1640367791,2026-11-12 16:00:00+00:00,CS2 - CCT South America Series,Yawara,Isurus,total,2.5,,,,2.02,1.7634,2026-11-12 13:48:34.177987+00:00
-1640325641,2026-11-13 03:30:00+00:00,Rainbow Six - Blast R6 Major Osaka,Liquid,DarkZero,moneyline,,1.3356,2.99,,,,2026-11-12 13:48:34.177987+00:00
-1640326051,2026-11-13 00:30:00+00:00,Rainbow Six - Blast R6 Major Osaka,Virtus.pro,M80,moneyline,,1.5291,2.38,,,,2026-11-12 13:48:34.177987+00:00
+1640326039,2026-11-12 18:00:00+00:00,CS2 - Elisa Open Suomi,Nordic Valor,ROUNDS,moneyline,,2.61,1.463,,,,2026-11-12 14:18:58.361369+00:00
+1640326039,2026-11-12 18:00:00+00:00,CS2 - Elisa Open Suomi,Nordic Valor,ROUNDS,spread,1.5,1.5525,2.38,,,,2026-11-12 14:18:58.361369+00:00
+1640326039,2026-11-12 18:00:00+00:00,CS2 - Elisa Open Suomi,Nordic Valor,ROUNDS,total,2.5,,,,2.1,1.7092,2026-11-12 14:18:58.361369+00:00
+1640368814,2026-11-13 10:00:00+00:00,Dota 2 - DreamLeague Division 2,HULIGANI,PlayTime,moneyline,,2.36,1.5747,,,,2026-11-12 14:18:58.361369+00:00
+1640368814,2026-11-13 10:00:00+00:00,Dota 2 - DreamLeague Division 2,HULIGANI,PlayTime,spread,1.5,1.4386,2.72,,,,2026-11-12 14:18:58.361369+00:00
+1640368814,2026-11-13 10:00:00+00:00,Dota 2 - DreamLeague Division 2,HULIGANI,PlayTime,total,2.5,,,,1.9434,1.8333,2026-11-12 14:18:58.361369+00:00
+1640369036,2026-11-12 19:00:00+00:00,CS2 - CCT South America Series,Procyon,tao toma,moneyline,,2.41,1.5376,,,,2026-11-12 14:18:58.361369+00:00
+1640369036,2026-11-12 19:00:00+00:00,CS2 - CCT South America Series,Procyon,tao toma,spread,1.5,1.4808,2.56,,,,2026-11-12 14:18:58.361369+00:00
+1640369036,2026-11-12 19:00:00+00:00,CS2 - CCT South America Series,Procyon,tao toma,total,2.5,,,,2.06,1.7353,2026-11-12 14:18:58.361369+00:00
+1640331066,2026-11-13 09:30:00+00:00,Rainbow Six - Blast R6 Major Osaka,G2,FaZe,moneyline,,2.39,1.5263,,,,2026-11-12 14:18:58.361369+00:00
+1640368781,2026-11-12 19:00:00+00:00,Dota 2 - Asgard Championship,Xipto,Nemiga,moneyline,,1.2941,3.37,,,,2026-11-12 14:18:58.361369+00:00
+1640368781,2026-11-12 19:00:00+00:00,Dota 2 - Asgard Championship,Xipto,Nemiga,spread,-1.5,2.04,1.7634,,,,2026-11-12 14:18:58.361369+00:00
+1640368781,2026-11-12 19:00:00+00:00,Dota 2 - Asgard Championship,Xipto,Nemiga,total,2.5,,,,2.16,1.6711,2026-11-12 14:18:58.361369+00:00
+1640367791,2026-11-12 16:00:00+00:00,CS2 - CCT South America Series,Yawara,Isurus,moneyline,,1.625,2.23,,,,2026-11-12 14:18:58.361369+00:00
+1640367791,2026-11-12 16:00:00+00:00,CS2 - CCT South America Series,Yawara,Isurus,spread,-1.5,2.73,1.4237,,,,2026-11-12 14:18:58.361369+00:00
+1640367791,2026-11-12 16:00:00+00:00,CS2 - CCT South America Series,Yawara,Isurus,total,2.5,,,,2.03,1.7576,2026-11-12 14:18:58.361369+00:00
+1640368745,2026-11-12 16:00:00+00:00,Dota 2 - 1W Essence,PVISION,DO KONCA,moneyline,,1.0755,7.51,,,,2026-11-12 14:18:58.361369+00:00
+1640368745,2026-11-12 16:00:00+00:00,Dota 2 - 1W Essence,PVISION,DO KONCA,spread,-1.5,1.4444,2.77,,,,2026-11-12 14:18:58.361369+00:00
+1640368745,2026-11-12 16:00:00+00:00,Dota 2 - 1W Essence,PVISION,DO KONCA,total,2.5,,,,2.92,1.3521,2026-11-12 14:18:58.361369+00:00
+1640326051,2026-11-13 00:30:00+00:00,Rainbow Six - Blast R6 Major Osaka,Virtus.pro,M80,moneyline,,1.5587,2.32,,,,2026-11-12 14:18:58.361369+00:00
+1640326053,2026-11-13 06:30:00+00:00,Rainbow Six - Blast R6 Major Osaka,Falcons,Geekay,moneyline,,1.3333,3.0,,,,2026-11-12 14:18:58.361369+00:00
+1640325641,2026-11-13 03:30:00+00:00,Rainbow Six - Blast R6 Major Osaka,Liquid,DarkZero,moneyline,,1.346,2.95,,,,2026-11-12 14:18:58.361369+00:00
+1640367765,2026-11-12 19:00:00+00:00,Dota 2 - 1W Essence,Spirit,1W,moneyline,,1.0764,7.46,,,,2026-11-12 14:18:58.361369+00:00
+1640367765,2026-11-12 19:00:00+00:00,Dota 2 - 1W Essence,Spirit,1W,spread,-1.5,1.4329,2.81,,,,2026-11-12 14:18:58.361369+00:00
+1640367765,2026-11-12 19:00:00+00:00,Dota 2 - 1W Essence,Spirit,1W,total,2.5,,,,2.95,1.3448,2026-11-12 14:18:58.361369+00:00
+1640369049,2026-11-13 18:00:00+00:00,Dota 2 - DreamLeague Division 2,CyberHero,Xipto,moneyline,,1.495,2.55,,,,2026-11-12 14:18:58.361369+00:00
+1640369049,2026-11-13 18:00:00+00:00,Dota 2 - DreamLeague Division 2,CyberHero,Xipto,spread,-1.5,2.53,1.5,,,,2026-11-12 14:18:58.361369+00:00
+1640369049,2026-11-13 18:00:00+00:00,Dota 2 - DreamLeague Division 2,CyberHero,Xipto,total,2.5,,,,1.9709,1.8065,2026-11-12 14:18:58.361369+00:00
+1640273349,2026-11-14 19:00:00+00:00,League of Legends - World Championship,Bilibili,Gen.G,moneyline,,2.58,1.5291,,,,2026-11-12 14:18:58.361369+00:00
+1640273349,2026-11-14 19:00:00+00:00,League of Legends - World Championship,Bilibili,Gen.G,spread,1.5,1.7299,2.17,,,,2026-11-12 14:18:58.361369+00:00
+1640273349,2026-11-14 19:00:00+00:00,League of Legends - World Championship,Bilibili,Gen.G,total,4.5,,,,2.72,1.4587,2026-11-12 14:18:58.361369+00:00
