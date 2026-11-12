@@ -1515,7 +1515,9 @@
     "away": "Yague",
     "txt": "Gana Yague",
     "odds": 2.75,
-    "p": 0.4117
+    "p": 0.4117,
+    "ok": "nula",
+    "por": "sin datos del partido"
    },
    {
     "code": null,
