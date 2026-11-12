@@ -2331,5 +2331,51 @@
   "estado": "pendiente",
   "avisada": false,
   "rev": 1
+ },
+ {
+  "id": "20261112181758353865",
+  "creada": "2026-11-12 18:17:58.353904+00:00",
+  "titulo": "Barrido · Combinada cuota 8.4",
+  "legs": [
+   {
+    "src": "esports:cs2",
+    "side": "H",
+    "code": null,
+    "start": "2026-11-12 19:00:00+00:00",
+    "home": "Procyon",
+    "away": "tao toma",
+    "txt": "Gana Procyon",
+    "odds": 2.4,
+    "p": 0.42925
+   },
+   {
+    "src": "esports:cs2",
+    "side": "A",
+    "code": null,
+    "start": "2026-11-12 19:30:00+00:00",
+    "home": "GamersLab",
+    "away": "menszczysni",
+    "txt": "Gana menszczysni",
+    "odds": 2.0,
+    "p": 0.5190333333333333
+   },
+   {
+    "src": "espn:nfl",
+    "side": "H",
+    "code": null,
+    "start": "2026-11-13 01:15:00+00:00",
+    "home": "New York Giants",
+    "away": "Washington Commanders",
+    "txt": "Gana New York Giants",
+    "odds": 1.741,
+    "p": 0.5977600000000001
+   }
+  ],
+  "odds": 8.36,
+  "p": 0.13317797406933335,
+  "stake": 1.0,
+  "estado": "pendiente",
+  "avisada": false,
+  "rev": 1
  }
 ]
