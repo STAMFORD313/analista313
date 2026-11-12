@@ -1,61 +1,25 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 12/11/2026 02:41 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 12/11/2026 03:11 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## Dov1n vs vivienne — 12/11 · 02:48
+## Noltzer vs Jokadinho — 12/11 · 03:12
 
-👀 candidata · 🎮⚽ FC 27 · World Cup B · **Empate** @ **5.80** (Unibet) · prob 19% vs casas 15% · ventaja +9%
+👀 candidata · 🎮⚽ FC 27 · World Cup B · **Gana Noltzer** @ **3.10** (Unibet) · prob 40% vs casas 28% · ventaja +25%
 
-- ❌ Valor: ventaja +9% (mín. 10% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
+- ✅ Valor: ventaja +25% (mín. 14% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 64.835 partidos)  
-Goles esperados: Dov1n 3.09 · vivienne 3.32  
-Ganador: Dov1n 36% · empate 19% · vivienne 45%  
-Total: más de 6.5 goles 46% · menos 54%  
-Hándicap vivienne: −1.5 30% · −2.5 18%  
+📊 **Escenarios** (Poisson por jugador, 64.868 partidos)  
+Goles esperados: Noltzer 3.19 · Jokadinho 3.05  
+Ganador: Noltzer 40% · empate 19% · Jokadinho 41%  
+Total: más de 6.5 goles 43% · menos 57%  
+Hándicap Noltzer: −1.5 29% · −2.5 17%  
 🔎 **Claves**  
-• Forma: Dov1n ✅✅❌✅✅ | vivienne ❌❌✅❌✅  
-• Partidos: Dov1n 1095 | vivienne 847  
+• Forma: Noltzer ❌❌❌✅➖ | Jokadinho ✅❌✅✅✅  
+• Partidos: Noltzer 20 | Jokadinho 928  
 • Liga: World Cup B  
-• Unibet: 1 2.14 · X 5.80 · 2 2.00 (sin margen 41%/15%/44%) · ventaja +9%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 5.80 (+9%) · Paf España 5.80 (+9%)  
-
-## ssstasonn vs Kavviro — 12/11 · 02:51
-
-👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana Kavviro** @ **1.15** (cuota justa (sin casa)) · prob 87% vs casas 87% · ventaja +0%
-
-- ❌ Valor: ventaja +0% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 64.788 partidos)  
-Goles esperados: ssstasonn 1.64 · Kavviro 4.46  
-Ganador: ssstasonn 5% · empate 8% · Kavviro 87%  
-Total: más de 6.5 goles 41% · menos 59%  
-Hándicap Kavviro: −1.5 70% · −2.5 54%  
-🔎 **Claves**  
-• Forma: ssstasonn ❌❌✅❌✅ | Kavviro ➖✅❌✅➖  
-• Partidos: ssstasonn 1011 | Kavviro 862  
-• Liga: Champions League B  
-• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
-
-## believer vs kkikus — 12/11 · 02:51
-
-👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana believer** @ **1.21** (cuota justa (sin casa)) · prob 82% vs casas 82% · ventaja +0%
-
-- ❌ Valor: ventaja +0% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 64.788 partidos)  
-Goles esperados: believer 4.23 · kkikus 1.83  
-Ganador: believer 82% · empate 10% · kkikus 7%  
-Total: más de 6.5 goles 40% · menos 60%  
-Hándicap believer: −1.5 64% · −2.5 47%  
-🔎 **Claves**  
-• Forma: believer ➖✅✅✅✅ | kkikus ✅❌❌❌❌  
-• Partidos: believer 1057 | kkikus 1006  
-• Liga: Champions League B  
-• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
+• Unibet: 1 3.10 · X 5.00 · 2 1.63 (sin margen 28%/18%/54%) · ventaja +25%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 3.10 (+25%) · Paf España 3.10 (+25%)  
 
 ## believer vs ssstasonn — 12/11 · 03:15
 
