@@ -65681,10 +65681,10 @@ id,tournament_id,club1,club2,ht1,ht2
 2376652,261778,Liverpool,Paris,,
 2376653,261778,Real Madrid,Liverpool,,
 2376654,261778,Bayern Munchen,Atleti,,
-2376825,261749,Man City,Juventus,3,1
-2376826,261749,Arsenal,Sporting CP,1,0
-2376827,261749,Sporting CP,Man City,2,1
-2376828,261749,Juventus,B Dortmund,0,4
+2376825,261749,Man City,Juventus,3.0,1.0
+2376826,261749,Arsenal,Sporting CP,1.0,0.0
+2376827,261749,Sporting CP,Man City,2.0,1.0
+2376828,261749,Juventus,B Dortmund,0.0,4.0
 2376829,261749,B Dortmund,Sporting CP,,
 2376830,261749,Man City,Arsenal,,
 2376831,261749,Arsenal,B Dortmund,,
@@ -65701,12 +65701,12 @@ id,tournament_id,club1,club2,ht1,ht2
 2376842,261749,Juventus,Sporting CP,,
 2376843,261749,Arsenal,Juventus,,
 2376844,261749,Man City,B Dortmund,,
-2376875,261764,Basaksehir,Besiktas,2,0
-2376876,261764,Galatasaray,Trabzonspor,2,2
-2376877,261764,Trabzonspor,Basaksehir,1,1
-2376878,261764,Besiktas,Fenerbahce,2,4
-2376879,261764,Fenerbahce,Trabzonspor,2,2
-2376880,261764,Basaksehir,Galatasaray,1,1
+2376875,261764,Basaksehir,Besiktas,2.0,0.0
+2376876,261764,Galatasaray,Trabzonspor,2.0,2.0
+2376877,261764,Trabzonspor,Basaksehir,1.0,1.0
+2376878,261764,Besiktas,Fenerbahce,2.0,4.0
+2376879,261764,Fenerbahce,Trabzonspor,2.0,2.0
+2376880,261764,Basaksehir,Galatasaray,1.0,1.0
 2376881,261764,Galatasaray,Fenerbahce,,
 2376882,261764,Trabzonspor,Besiktas,,
 2376883,261764,Besiktas,Galatasaray,,
@@ -65721,3 +65721,23 @@ id,tournament_id,club1,club2,ht1,ht2
 2376892,261764,Besiktas,Trabzonspor,,
 2376893,261764,Galatasaray,Besiktas,,
 2376894,261764,Basaksehir,Fenerbahce,,
+2376087,261751,Argentina,England,0,2
+2376088,261751,Spain,Germany,3,0
+2376089,261751,Germany,Argentina,2,1
+2376090,261751,England,France,1,2
+2376091,261751,France,Germany,3,2
+2376092,261751,Argentina,Spain,1,1
+2376093,261751,Spain,France,0,0
+2376094,261751,Germany,England,0,2
+2376095,261751,England,Spain,0,0
+2376096,261751,France,Argentina,0,0
+2376097,261751,England,Argentina,,
+2376098,261751,Germany,Spain,,
+2376099,261751,Argentina,Germany,,
+2376100,261751,France,England,,
+2376101,261751,Germany,France,,
+2376102,261751,Spain,Argentina,,
+2376103,261751,France,Spain,,
+2376104,261751,England,Germany,,
+2376105,261751,Spain,England,,
+2376106,261751,Argentina,France,,
