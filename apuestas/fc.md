@@ -1,44 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 12/11/2026 22:19 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## DangerDim77 vs Kray — 12/11 · 22:22
-
-👀 candidata · 🎮⚽ FC 27 · Portugal Primera · **Gana DangerDim77** @ **3.25** (Unibet) · prob 34% vs casas 27% · ventaja +11%
-
-- ✅ Valor: ventaja +11% (mín. 11% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 65.849 partidos)  
-Goles esperados: DangerDim77 3.01 · Kray 3.39  
-Ganador: DangerDim77 34% · empate 18% · Kray 47%  
-Total: más de 6.5 goles 46% · menos 54%  
-Hándicap Kray: −1.5 32% · −2.5 20%  
-🔎 **Claves**  
-• Forma: DangerDim77 ❌✅✅✅❌ | Kray ➖❌✅➖❌  
-• Partidos: DangerDim77 544 | Kray 679  
-• Liga: Portugal Primera  
-• Unibet: 1 3.25 · X 4.10 · 2 1.70 (sin margen 27%/21%/52%) · ventaja +11%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 3.25 (+11%) · Paf España 3.25 (+11%)  
-
-## Lunjo vs Joop — 12/11 · 22:28
-
-👀 candidata · 🎮⚽ FC 27 · LaLiga · **Empate** @ **5.80** (Unibet) · prob 20% vs casas 15% · ventaja +18%
-
-- ✅ Valor: ventaja +18% (mín. 13% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 65.821 partidos)  
-Goles esperados: Lunjo 2.82 · Joop 2.33  
-Ganador: Lunjo 52% · empate 20% · Joop 28%  
-Total: más de 5.5 goles 41% · menos 59%  
-Hándicap Lunjo: −1.5 32% · −2.5 18%  
-🔎 **Claves**  
-• Forma: Lunjo ✅❌✅❌❌ | Joop ❌❌✅✅✅  
-• Partidos: Lunjo 96 | Joop 128  
-• Liga: LaLiga  
-• Unibet: 1 1.38 · X 5.80 · 2 3.80 (sin margen 62%/15%/23%) · ventaja +18%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 5.80 (+18%) · Paf España 5.80 (+18%)  
+Actualizado 12/11/2026 22:50 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Vanste vs Lunjo — 12/11 · 22:52
 
@@ -77,4 +39,42 @@ Hándicap zaha: −1.5 59% · −2.5 47%
 • Liga: Argentina Super League 2x6  
 • Unibet: 1 3.65 · X 5.30 · 2 1.49 (sin margen 24%/17%/59%) · ventaja +12%. Sin stake hasta demostrar ROI con estas cuotas.  
 • En España: LeoVegas España 1.49 (+12%) · Paf España 1.49 (+12%)  
+
+## mixes vs Vanste — 12/11 · 23:04
+
+👀 candidata · 🎮⚽ FC 27 · LaLiga · **Gana Vanste** @ **3.00** (Unibet) · prob 40% vs casas 29% · ventaja +20%
+
+- ✅ Valor: ventaja +20% (mín. 13% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 65.877 partidos)  
+Goles esperados: mixes 2.58 · Vanste 2.69  
+Ganador: mixes 39% · empate 21% · Vanste 40%  
+Total: más de 5.5 goles 43% · menos 57%  
+Hándicap Vanste: −1.5 26% · −2.5 14%  
+🔎 **Claves**  
+• Forma: mixes ❌✅➖➖✅ | Vanste ❌❌➖✅✅  
+• Partidos: mixes 99 | Vanste 124  
+• Liga: LaLiga  
+• Unibet: 1 1.76 · X 4.10 · 2 3.00 (sin margen 50%/21%/29%) · ventaja +20%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 3.00 (+20%) · Paf España 3.00 (+20%)  
+
+## nicky vs Kosta — 12/11 · 23:18
+
+👀 candidata · 🎮⚽ FC 27 · Argentina Super League 2x6 · **Gana nicky** @ **1.75** (Unibet) · prob 64% vs casas 50% · ventaja +11%
+
+- ✅ Valor: ventaja +11% (mín. 11% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 65.877 partidos)  
+Goles esperados: nicky 6.01 · Kosta 4.60  
+Ganador: nicky 63% · empate 12% · Kosta 24%  
+Total: más de 10.5 goles 49% · menos 51%  
+Hándicap nicky: −1.5 48% · −2.5 36%  
+🔎 **Claves**  
+• Forma: nicky ✅❌✅➖➖ | Kosta ❌➖❌❌➖  
+• Partidos: nicky 359 | Kosta 279  
+• Liga: Argentina Super League 2x6  
+• Unibet: 1 1.75 · X 6.10 · 2 2.48 (sin margen 50%/14%/35%) · ventaja +11%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 1.75 (+11%) · Paf España 1.75 (+11%)  
 

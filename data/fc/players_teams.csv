@@ -65839,28 +65839,28 @@ id,tournament_id,club1,club2,ht1,ht2
 2376912,261769,Tottenham,Chelsea,,
 2376913,261769,Liverpool,Tottenham,,
 2376914,261769,Man City,Arsenal,,
-2376845,261754,Man City,Juventus,3,1
-2376846,261754,Arsenal,Sporting CP,0,4
-2376847,261754,Sporting CP,Man City,2,1
-2376848,261754,Juventus,B Dortmund,4,2
-2376849,261754,B Dortmund,Sporting CP,5,3
-2376850,261754,Man City,Arsenal,0,3
-2376851,261754,Arsenal,B Dortmund,1,0
-2376852,261754,Sporting CP,Juventus,1,1
+2376845,261754,Man City,Juventus,3.0,1.0
+2376846,261754,Arsenal,Sporting CP,0.0,4.0
+2376847,261754,Sporting CP,Man City,2.0,1.0
+2376848,261754,Juventus,B Dortmund,4.0,2.0
+2376849,261754,B Dortmund,Sporting CP,5.0,3.0
+2376850,261754,Man City,Arsenal,0.0,3.0
+2376851,261754,Arsenal,B Dortmund,1.0,0.0
+2376852,261754,Sporting CP,Juventus,1.0,1.0
 2376853,261754,Juventus,Arsenal,,
 2376854,261754,B Dortmund,Man City,,
-2376127,261758,Atleti,Paris,1,0
-2376128,261758,Real Madrid,Liverpool,1,0
-2376129,261758,Liverpool,Atleti,0,1
-2376130,261758,Paris,Bayern Munchen,1,1
-2376131,261758,Bayern Munchen,Liverpool,0,2
-2376132,261758,Atleti,Real Madrid,1,0
-2376133,261758,Real Madrid,Bayern Munchen,0,2
-2376134,261758,Liverpool,Paris,1,2
-2376135,261758,Paris,Real Madrid,0,3
-2376136,261758,Bayern Munchen,Atleti,0,0
-2376137,261758,Paris,Atleti,0,0
-2376138,261758,Liverpool,Real Madrid,1,0
+2376127,261758,Atleti,Paris,1.0,0.0
+2376128,261758,Real Madrid,Liverpool,1.0,0.0
+2376129,261758,Liverpool,Atleti,0.0,1.0
+2376130,261758,Paris,Bayern Munchen,1.0,1.0
+2376131,261758,Bayern Munchen,Liverpool,0.0,2.0
+2376132,261758,Atleti,Real Madrid,1.0,0.0
+2376133,261758,Real Madrid,Bayern Munchen,0.0,2.0
+2376134,261758,Liverpool,Paris,1.0,2.0
+2376135,261758,Paris,Real Madrid,0.0,3.0
+2376136,261758,Bayern Munchen,Atleti,0.0,0.0
+2376137,261758,Paris,Atleti,0.0,0.0
+2376138,261758,Liverpool,Real Madrid,1.0,0.0
 2376139,261758,Atleti,Liverpool,,
 2376140,261758,Bayern Munchen,Paris,,
 2376141,261758,Liverpool,Bayern Munchen,,
@@ -65869,13 +65869,53 @@ id,tournament_id,club1,club2,ht1,ht2
 2376144,261758,Paris,Liverpool,,
 2376145,261758,Real Madrid,Paris,,
 2376146,261758,Atleti,Bayern Munchen,,
-2376357,261785,Ecuador,Argentina,1,2
-2376358,261785,Colombia,Brazil,2,2
-2376359,261785,Brazil,Ecuador,2,2
-2376391,261785,Argentina,Uruguay,1,1
-2376392,261785,Uruguay,Brazil,2,0
-2376362,261785,Ecuador,Colombia,0,1
-2376393,261785,Colombia,Uruguay,3,0
-2376364,261785,Brazil,Argentina,1,0
-2376365,261785,Argentina,Colombia,1,0
+2376357,261785,Ecuador,Argentina,1.0,2.0
+2376358,261785,Colombia,Brazil,2.0,2.0
+2376359,261785,Brazil,Ecuador,2.0,2.0
+2376391,261785,Argentina,Uruguay,1.0,1.0
+2376392,261785,Uruguay,Brazil,2.0,0.0
+2376362,261785,Ecuador,Colombia,0.0,1.0
+2376393,261785,Colombia,Uruguay,3.0,0.0
+2376364,261785,Brazil,Argentina,1.0,0.0
+2376365,261785,Argentina,Colombia,1.0,0.0
 2376394,261785,Uruguay,Ecuador,,
+2376535,261724,Real Madrid,Barcelona,1,1
+2376536,261724,Villarreal,Atleti,0,1
+2376537,261724,Atleti,Real Madrid,1,0
+2376538,261724,Barcelona,Athletic Club,1,1
+2376539,261724,Athletic Club,Atleti,0,0
+2376540,261724,Real Madrid,Villarreal,2,1
+2376541,261724,Villarreal,Athletic Club,1,2
+2376542,261724,Atleti,Barcelona,0,0
+2376543,261724,Barcelona,Villarreal,3,3
+2376544,261724,Athletic Club,Real Madrid,1,0
+2376545,261724,Barcelona,Real Madrid,0,2
+2376546,261724,Atleti,Villarreal,1,0
+2376547,261724,Real Madrid,Atleti,,
+2376548,261724,Athletic Club,Barcelona,,
+2376549,261724,Atleti,Athletic Club,,
+2376550,261724,Villarreal,Real Madrid,,
+2376551,261724,Athletic Club,Villarreal,,
+2376552,261724,Barcelona,Atleti,,
+2376553,261724,Villarreal,Barcelona,,
+2376554,261724,Real Madrid,Athletic Club,,
+2376675,261782,Spain,Argentina,0,3
+2376676,261782,Brazil,England,1,2
+2376677,261782,England,Spain,1,1
+2376678,261782,Argentina,France,2,2
+2376679,261782,France,England,1,1
+2376680,261782,Spain,Brazil,3,2
+2376681,261782,Brazil,France,2,1
+2376682,261782,England,Argentina,1,1
+2376683,261782,Argentina,Brazil,1,0
+2376684,261782,France,Spain,0,3
+2376685,261782,Argentina,Spain,,
+2376686,261782,England,Brazil,,
+2376687,261782,Spain,England,,
+2376688,261782,France,Argentina,,
+2376689,261782,England,France,,
+2376690,261782,Brazil,Spain,,
+2376691,261782,France,Brazil,,
+2376692,261782,Argentina,England,,
+2376693,261782,Brazil,Argentina,,
+2376694,261782,Spain,France,,
