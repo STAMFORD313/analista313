@@ -1526,15 +1526,17 @@
     "away": "Manchego Ciudad Real",
     "txt": "Gana Manchego Ciudad Real",
     "odds": 2.5,
-    "p": 0.4483
+    "p": 0.4483,
+    "ok": "nula",
+    "por": "sin datos del partido"
    }
   ],
   "odds": 12.1,
   "p": 0.113267608007,
   "stake": 1.0,
-  "estado": "pendiente",
-  "avisada": false,
-  "rev": 1
+  "estado": "nula",
+  "avisada": true,
+  "rev": 2
  },
  {
   "id": "20261107234615490979",
@@ -1610,7 +1612,9 @@
     "away": "Piacenza",
     "txt": "Gana Piacenza",
     "odds": 1.75,
-    "p": 0.6147
+    "p": 0.6147,
+    "ok": "nula",
+    "por": "sin datos del partido"
    },
    {
     "code": null,
@@ -1619,15 +1623,17 @@
     "away": "Solbiatese",
     "txt": "Gana Solbiatese",
     "odds": 2.55,
-    "p": 0.4218
+    "p": 0.4218,
+    "ok": "nula",
+    "por": "sin datos del partido"
    }
   ],
   "odds": 8.84,
   "p": 0.147712078062,
   "stake": 1.0,
-  "estado": "pendiente",
-  "avisada": false,
-  "rev": 1
+  "estado": "nula",
+  "avisada": true,
+  "rev": 2
  },
  {
   "id": "20261108055501238414",
@@ -1686,7 +1692,9 @@
     "away": "Marek Dupnitsa",
     "txt": "Gana Hebar",
     "odds": 1.85,
-    "p": 0.5622
+    "p": 0.5622,
+    "ok": "nula",
+    "por": "sin datos del partido"
    },
    {
     "code": null,
@@ -1695,7 +1703,9 @@
     "away": "Alacranes de Durango",
     "txt": "Gana Leones Negros UDeG",
     "odds": 2.08,
-    "p": 0.5051
+    "p": 0.5051,
+    "ok": "nula",
+    "por": "sin datos del partido"
    },
    {
     "src": "esports:cs2",
@@ -2200,7 +2210,9 @@
     "away": "TitanFlow",
     "txt": "Gana TitanFlow",
     "odds": 2.9,
-    "p": 0.4467850574712643
+    "p": 0.4467850574712643,
+    "ok": false,
+    "por": "ganó Saint Sinners 2-1"
    },
    {
     "code": null,
@@ -2226,9 +2238,9 @@
   "odds": 16.83,
   "p": 0.10203591496064127,
   "stake": 1.0,
-  "estado": "pendiente",
-  "avisada": false,
-  "rev": 1
+  "estado": "perdida",
+  "avisada": true,
+  "rev": 2
  },
  {
   "id": "20261112070647836277",
@@ -2255,7 +2267,9 @@
     "away": "Nemiga Gaming",
     "txt": "Gana Nemiga Gaming",
     "odds": 2.1,
-    "p": 0.4881603174603174
+    "p": 0.4881603174603174,
+    "ok": true,
+    "por": "ganó Nemiga Gaming 1-0"
    },
    {
     "code": null,
