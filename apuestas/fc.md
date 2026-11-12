@@ -1,25 +1,25 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 12/11/2026 03:42 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 12/11/2026 04:11 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## k0mych vs Solya — 12/11 · 03:44
+## Kray vs Inquisitor — 12/11 · 04:16
 
-👀 candidata · 🎮⚽ FC 27 · LaLiga 2x6 · **Gana Solya** @ **1.33** (Unibet) · prob 81% vs casas 65% · ventaja +7%
+👀 candidata · 🎮⚽ FC 27 · Champions League A · **Gana Kray** @ **2.48** (Unibet) · prob 43% vs casas 35% · ventaja +6%
 
-- ❌ Valor: ventaja +7% (mín. 10% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+- ❌ Valor: ventaja +6% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 64.893 partidos)  
-Goles esperados: k0mych 3.15 · Solya 5.75  
-Ganador: k0mych 10% · empate 9% · Solya 81%  
-Total: más de 8.5 goles 53% · menos 47%  
-Hándicap Solya: −1.5 64% · −2.5 51%  
+📊 **Escenarios** (Poisson por jugador, 64.915 partidos)  
+Goles esperados: Kray 2.59 · Inquisitor 2.50  
+Ganador: Kray 43% · empate 21% · Inquisitor 36%  
+Total: más de 5.5 goles 40% · menos 60%  
+Hándicap Kray: −1.5 26% · −2.5 14%  
 🔎 **Claves**  
-• Forma: k0mych ❌❌❌➖✅ | Solya ✅✅➖❌➖  
-• Partidos: k0mych 367 | Solya 333  
-• Liga: LaLiga 2x6  
-• Unibet: 1 4.10 · X 6.25 · 2 1.33 (sin margen 21%/14%/65%) · ventaja +7%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 1.33 (+7%) · Paf España 1.33 (+7%)  
+• Forma: Kray ➖➖❌✅✅ | Inquisitor ✅➖✅✅❌  
+• Partidos: Kray 668 | Inquisitor 669  
+• Liga: Champions League A  
+• Unibet: 1 2.48 · X 4.00 · 2 2.02 (sin margen 35%/22%/43%) · ventaja +6%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.48 (+6%) · Paf España 2.48 (+6%)  
 
 ## ssstasonn vs believer — 12/11 · 04:35
 
