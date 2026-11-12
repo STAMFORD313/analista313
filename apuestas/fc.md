@@ -1,42 +1,61 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 12/11/2026 07:13 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 12/11/2026 07:41 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## TikitakaMaster vs zoyir — 12/11 · 07:30
+## Uncle vs Bomb1to — 12/11 · 07:57
 
-👀 candidata · 🎮⚽ FC 27 · Premier League 2x6 · **Gana zoyir** @ **3.10** (Unibet) · prob 35% vs casas 28% · ventaja +8%
+👀 candidata · 🎮⚽ FC 27 · World Cup A · **Gana Bomb1to** @ **2.63** (Unibet) · prob 44% vs casas 33% · ventaja +16%
 
-- ❌ Valor: ventaja +8% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Valor: ventaja +16% (mín. 12% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 65.043 partidos)  
-Goles esperados: TikitakaMaster 4.37 · zoyir 3.96  
-Ganador: TikitakaMaster 49% · empate 16% · zoyir 35%  
-Total: más de 8.5 goles 45% · menos 55%  
-Hándicap TikitakaMaster: −1.5 35% · −2.5 23%  
+📊 **Escenarios** (Poisson por jugador, 65.069 partidos)  
+Goles esperados: Uncle 2.71 · Bomb1to 2.85  
+Ganador: Uncle 36% · empate 20% · Bomb1to 44%  
+Total: más de 5.5 goles 48% · menos 52%  
+Hándicap Bomb1to: −1.5 28% · −2.5 15%  
 🔎 **Claves**  
-• Forma: TikitakaMaster ❌➖➖➖✅ | zoyir ✅❌➖❌❌  
-• Partidos: TikitakaMaster 679 | zoyir 552  
-• Liga: Premier League 2x6  
-• Unibet: 1 1.68 · X 4.40 · 2 3.10 (sin margen 52%/20%/28%) · ventaja +8%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 3.10 (+8%) · Paf España 3.10 (+8%)  
-
-## Wboy vs Uncle — 12/11 · 07:33
-
-👀 candidata · 🎮⚽ FC 27 · World Cup A · **Gana Wboy** @ **3.80** (Unibet) · prob 37% vs casas 23% · ventaja +41%
-
-- ❌ Valor: ventaja +41% (mín. 18% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 65.043 partidos)  
-Goles esperados: Wboy 3.00 · Uncle 3.16  
-Ganador: Wboy 37% · empate 19% · Uncle 44%  
-Total: más de 6.5 goles 42% · menos 58%  
-Hándicap Uncle: −1.5 29% · −2.5 17%  
-🔎 **Claves**  
-• Forma: Wboy ❌✅➖❌✅ | Uncle ❌❌❌✅❌  
-• Partidos: Wboy 1123 | Uncle 771  
+• Forma: Uncle ❌❌✅❌✅ | Bomb1to ✅✅✅✅✅  
+• Partidos: Uncle 772 | Bomb1to 1286  
 • Liga: World Cup A  
-• Unibet: 1 3.80 · X 3.25 · 2 1.74 (sin margen 23%/27%/50%) · ventaja +41%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 3.80 (+41%) · Paf España 3.80 (+41%)  
+• Unibet: 1 2.48 · X 2.70 · 2 2.63 (sin margen 35%/32%/33%) · ventaja +16%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.63 (+16%) · Paf España 2.63 (+16%)  
+
+## d1pseN vs Uncle — 12/11 · 08:09
+
+👀 candidata · 🎮⚽ FC 27 · World Cup A · **Gana Uncle** @ **2.95** (Unibet) · prob 40% vs casas 29% · ventaja +18%
+
+- ✅ Valor: ventaja +18% (mín. 13% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 65.069 partidos)  
+Goles esperados: d1pseN 2.43 · Uncle 2.46  
+Ganador: d1pseN 38% · empate 22% · Uncle 40%  
+Total: más de 4.5 goles 54% · menos 46%  
+Hándicap Uncle: −1.5 25% · −2.5 13%  
+🔎 **Claves**  
+• Forma: d1pseN ❌✅❌❌✅ | Uncle ❌❌✅❌✅  
+• Partidos: d1pseN 292 | Uncle 772  
+• Liga: World Cup A  
+• Unibet: 1 2.28 · X 2.65 · 2 2.95 (sin margen 38%/33%/29%) · ventaja +18%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.95 (+18%) · Paf España 2.95 (+18%)  
+
+## Bomb1to vs Wboy — 12/11 · 08:09
+
+👀 candidata · 🎮⚽ FC 27 · World Cup A · **Gana Wboy** @ **3.55** (Unibet) · prob 33% vs casas 25% · ventaja +16%
+
+- ✅ Valor: ventaja +16% (mín. 12% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 65.069 partidos)  
+Goles esperados: Bomb1to 3.79 · Wboy 3.37  
+Ganador: Bomb1to 50% · empate 17% · Wboy 33%  
+Total: más de 7.5 goles 42% · menos 58%  
+Hándicap Bomb1to: −1.5 34% · −2.5 21%  
+🔎 **Claves**  
+• Forma: Bomb1to ✅✅✅✅✅ | Wboy ➖❌✅❌❌  
+• Partidos: Bomb1to 1286 | Wboy 1125  
+• Liga: World Cup A  
+• Unibet: 1 1.76 · X 3.40 · 2 3.55 (sin margen 50%/26%/25%) · ventaja +16%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 3.55 (+16%) · Paf España 3.55 (+16%)  
 
