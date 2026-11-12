@@ -1599,7 +1599,9 @@
     "away": "Slovan Duslo Sala",
     "txt": "Gana Druzstevnik Velke Ludince",
     "odds": 1.98,
-    "p": 0.5697
+    "p": 0.5697,
+    "ok": "nula",
+    "por": "sin datos del partido"
    },
    {
     "code": null,
