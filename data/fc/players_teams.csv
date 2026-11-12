@@ -65245,12 +65245,12 @@ id,tournament_id,club1,club2,ht1,ht2
 2376264,261779,Wolves,Burnley,,
 2376265,261779,West Ham,Wolves,,
 2376266,261779,Middlesbrough,Southampton,,
-2376775,261748,Paris,Atleti,4,3
-2376776,261748,Liverpool,Bayern Munchen,0,3
-2376777,261748,Bayern Munchen,Paris,3,0
-2376778,261748,Atleti,Real Madrid,2,4
-2376779,261748,Real Madrid,Bayern Munchen,2,2
-2376780,261748,Paris,Liverpool,2,3
+2376775,261748,Paris,Atleti,4.0,3.0
+2376776,261748,Liverpool,Bayern Munchen,0.0,3.0
+2376777,261748,Bayern Munchen,Paris,3.0,0.0
+2376778,261748,Atleti,Real Madrid,2.0,4.0
+2376779,261748,Real Madrid,Bayern Munchen,2.0,2.0
+2376780,261748,Paris,Liverpool,2.0,3.0
 2376781,261748,Liverpool,Real Madrid,,
 2376782,261748,Bayern Munchen,Atleti,,
 2376783,261748,Atleti,Liverpool,,
@@ -65265,16 +65265,16 @@ id,tournament_id,club1,club2,ht1,ht2
 2376792,261748,Atleti,Bayern Munchen,,
 2376793,261748,Liverpool,Atleti,,
 2376794,261748,Paris,Real Madrid,,
-2375467,261750,Czechia,Germany,1,0
-2375468,261750,Netherlands,Morocco,1,3
-2375469,261750,Morocco,Czechia,3,1
-2375470,261750,Germany,Norway,2,3
-2375471,261750,Norway,Morocco,2,2
-2375472,261750,Czechia,Netherlands,0,4
-2375473,261750,Netherlands,Norway,3,1
-2375474,261750,Morocco,Germany,1,1
-2375475,261750,Germany,Netherlands,2,4
-2375476,261750,Norway,Czechia,2,3
+2375467,261750,Czechia,Germany,1.0,0.0
+2375468,261750,Netherlands,Morocco,1.0,3.0
+2375469,261750,Morocco,Czechia,3.0,1.0
+2375470,261750,Germany,Norway,2.0,3.0
+2375471,261750,Norway,Morocco,2.0,2.0
+2375472,261750,Czechia,Netherlands,0.0,4.0
+2375473,261750,Netherlands,Norway,3.0,1.0
+2375474,261750,Morocco,Germany,1.0,1.0
+2375475,261750,Germany,Netherlands,2.0,4.0
+2375476,261750,Norway,Czechia,2.0,3.0
 2375477,261750,Germany,Czechia,,
 2375478,261750,Morocco,Netherlands,,
 2375479,261750,Czechia,Morocco,,
