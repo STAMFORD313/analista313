@@ -34710,3 +34710,6 @@ game_id,match_id,slug,date,tier,bo,tournament_id,tournament,t1_id,t2_id,team1,te
 192341,133195,red-canids-academy-vs-gremio-11-11-2026,2026-11-11T19:20:00.000+00:00,b,3,5624,CCT South America 2026 Series 8,16743,24856,RED Canids Academy,Grêmio,1,de_nuke,16743,13.0,4.0
 191042,132590,legacy-br-vs-falcons-esports-12-11-2026,2026-11-12T02:00:00.000+00:00,s,3,4224,BLAST Rivals Fall 2026,8118,2713,Legacy,Falcons,2,de_mirage,2713,13.0,6.0
 191043,132590,legacy-br-vs-falcons-esports-12-11-2026,2026-11-12T02:00:00.000+00:00,s,3,4224,BLAST Rivals Fall 2026,8118,2713,Legacy,Falcons,1,de_dust2,2713,13.0,8.0
+191044,132591,furia-vs-vitality-12-11-2026,2026-11-12T04:00:00.000+00:00,s,3,4224,BLAST Rivals Fall 2026,648,667,FURIA,Vitality,3,de_mirage,648,13.0,0.0
+191045,132591,furia-vs-vitality-12-11-2026,2026-11-12T04:00:00.000+00:00,s,3,4224,BLAST Rivals Fall 2026,648,667,FURIA,Vitality,2,de_dust2,648,13.0,10.0
+191046,132591,furia-vs-vitality-12-11-2026,2026-11-12T04:00:00.000+00:00,s,3,4224,BLAST Rivals Fall 2026,648,667,FURIA,Vitality,1,de_inferno,667,13.0,5.0
