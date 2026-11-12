@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 12/11/2026 05:12 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 12/11/2026 05:42 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Alliance vs Four Magic — 12/11 · 15:00
 
@@ -127,4 +127,21 @@ Casas: Galorys 74% · RED Canids Academy 26%
 🔫 **Kills esperados en la serie** (rango 80 %; mejor que la media de sus 10 últimas en 52.375 casos: log-loss 0.6819→0.6559; sin cuotas de props, solo referencia)  
 Galorys: gbb 37 (21-54) · tomate 36 (21-53) · detr0ittJ 36 (21-53) · destiny 35 (20-52) · PKL 30 (17-44)  
 RED Canids Academy: gtw 37 (21-54) · FasteR 36 (21-53) · nickssz 33 (19-49) · sanc 32 (18-47) · rafa 31 (18-46)  
+
+## Al Ahli vs SINQU — 13/11 · 17:30
+
+👀 candidata · 🎮 CS2 · ESEA Season 59: Advanced Division - Europe · **Gana Al Ahli** @ **1.40** (Thunderpick) · prob 71% vs casas 66% · ventaja -1%
+
+- ❌ Valor: ventaja -1% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 76.736 partidos)  
+Mapa: Al Ahli 76% · Serie BO1: Al Ahli 76% - 24% SINQU  
+Casas: Al Ahli 66% · SINQU 34%  
+🔎 **Claves**  
+• Elo: Al Ahli 1546 (12 series) | SINQU 1347 (72 series)  
+• Forma: Al Ahli ✅✅✅✅✅ | SINQU ❌❌✅✅❌  
+• H2H: sin precedentes  
+• Torneo: ESEA Season 59: Advanced Division - Europe (nivel C)  
+• Cambios de plantilla: ninguno  
 
