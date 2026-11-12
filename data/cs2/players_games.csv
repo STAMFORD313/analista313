@@ -34721,3 +34721,7 @@ game_id,match_id,slug,date,tier,bo,tournament_id,tournament,t1_id,t2_id,team1,te
 192843,133377,the-last-resort-vs-masonic-12-11-2026,2026-11-12T09:00:00.000+00:00,b,3,5629,CCT Europe 2026 Series 14,2740,1059,The Last Resort,MASONIC,1,de_cache,2740,16.0,12.0
 193321,133841,phantom-esports-vs-illyrians-12-11-2026,2026-11-12T09:00:00.000+00:00,b,3,6240,NODWIN Clutch Series 14,19204,3022,Phantom,Illyrians,2,de_ancient,19204,13.0,9.0
 193322,133841,phantom-esports-vs-illyrians-12-11-2026,2026-11-12T09:00:00.000+00:00,b,3,6240,NODWIN Clutch Series 14,19204,3022,Phantom,Illyrians,1,de_dust2,19204,13.0,7.0
+191056,132595,spirit-vs-g2-12-11-2026,2026-11-12T10:50:00.000+00:00,s,3,4224,BLAST Rivals Fall 2026,654,793,Spirit,G2,3,de_ancient,654,13.0,5.0
+191057,132595,spirit-vs-g2-12-11-2026,2026-11-12T10:50:00.000+00:00,s,3,4224,BLAST Rivals Fall 2026,654,793,Spirit,G2,2,de_nuke,654,13.0,9.0
+191058,132595,spirit-vs-g2-12-11-2026,2026-11-12T10:50:00.000+00:00,s,3,4224,BLAST Rivals Fall 2026,654,793,Spirit,G2,1,de_mirage,793,13.0,9.0
+193324,133842,forze-reload-vs-butterfly-12-11-2026,2026-11-12T12:00:00.000+00:00,b,3,6240,NODWIN Clutch Series 14,10703,24855,FORZE Reload,Butterfly,1,de_nuke,24855,13.0,10.0

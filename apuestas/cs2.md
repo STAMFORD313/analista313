@@ -1,66 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 12/11/2026 14:52 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Alliance vs Four Magic — 12/11 · 15:00
-
-👀 candidata · 🎮 CS2 · ESL Challenger League Season 52: Europe - Cup 12 · **Gana Alliance** @ **1.01** (Thunderpick) · prob 93% vs casas 94% · ventaja -6%
-
-- ❌ Valor: ventaja -6% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 76.727 partidos)  
-Mapa: Alliance 82% · Serie BO3: Alliance 92% - 8% Four Magic  
-Casas: Alliance 93% · Four Magic 7%  
-🔎 **Claves**  
-• Elo: Alliance 1835 (401 series) | Four Magic 1420 (36 series)  
-• Forma: Alliance ✅✅✅❌✅ | Four Magic ❌✅❌❌❌  
-• H2H: sin precedentes  
-• Torneo: ESL Challenger League Season 52: Europe - Cup 12 (nivel C)  
-• Cambios de plantilla: ninguno  
-🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
-• Alliance gana 2-1: 15% → cuota justa 6.47 · casa 11% ✔ el bot lo ve más probable que la casa  
-• Four Magic gana 2-1: 3% → cuota justa 30.51  
-
-## Balkan Outlaws vs KUUSAMO — 12/11 · 15:00
-
-👀 candidata · 🎮 CS2 · ESL Challenger League Season 52: Europe - Cup 12 · **Gana Balkan Outlaws** @ **1.21** (Thunderpick) · prob 76% vs casas 76% · ventaja -8%
-
-- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 76.727 partidos)  
-Mapa: Balkan Outlaws 69% · Serie BO3: Balkan Outlaws 77% - 23% KUUSAMO  
-Casas: Balkan Outlaws 76% · KUUSAMO 24%  
-🔎 **Claves**  
-• Elo: Balkan Outlaws 1616 (5 series) | KUUSAMO 1406 (147 series)  
-• Forma: Balkan Outlaws ✅❌✅❌✅ | KUUSAMO ❌❌❌❌❌  
-• H2H: sin precedentes  
-• Torneo: ESL Challenger League Season 52: Europe - Cup 12 (nivel C)  
-• Cambios de plantilla: ninguno  
-🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
-• Balkan Outlaws gana 2-1: 24% → cuota justa 4.17 · casa 22%  
-• KUUSAMO gana 2-1: 11% → cuota justa 9.17 · casa 10%  
-
-## INOX Division vs mixLVLT — 12/11 · 15:00
-
-👀 candidata · 🎮 CS2 · ESL Challenger League Season 52: Europe - Cup 12 · **Gana INOX Division** @ **1.11** (Thunderpick) · prob 83% vs casas 83% · ventaja -8%
-
-- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 76.727 partidos)  
-Mapa: INOX Division 75% · Serie BO3: INOX Division 84% - 16% mixLVLT  
-Casas: INOX Division 83% · mixLVLT 17%  
-🔎 **Claves**  
-• Elo: INOX Division 1738 (101 series) | mixLVLT 1450 (0 series)  
-• Forma: INOX Division ✅❌❌✅❌ | mixLVLT —  
-• H2H: sin precedentes  
-• Torneo: ESL Challenger League Season 52: Europe - Cup 12 (nivel C)  
-• Cambios de plantilla: ninguno  
-🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
-• INOX Division gana 2-1: 21% → cuota justa 4.68 · casa 20%  
-• mixLVLT gana 2-1: 7% → cuota justa 13.74 · casa 7%  
+Actualizado 12/11/2026 15:22 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Nordic Valor vs ROUNDS — 12/11 · 19:00
 
@@ -81,6 +21,58 @@ Casas: Nordic Valor 35% · ROUNDS 65%
 🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
 • Nordic Valor gana 2-1: 17% → cuota justa 5.72  
 • ROUNDS gana 2-1: 25% → cuota justa 4.06  
+
+## Vitality vs MOUZ — 13/11 · 09:00
+
+👀 candidata · 🎮 CS2 · BLAST Rivals Fall 2026 · **Gana MOUZ** @ **2.00** (Thunderpick) · prob 47% vs casas 46% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮 no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 76.745 partidos)  
+Mapa: Vitality 48% · Serie BO3: Vitality 53% - 47% MOUZ  
+Casas: Vitality 54% · MOUZ 46%  
+🔎 **Claves**  
+• Elo: Vitality 2222 (283 series) | MOUZ 2243 (298 series)  
+• Forma: Vitality ✅❌❌✅❌ | MOUZ ✅✅✅❌✅  
+• H2H: 33: 24-9  
+• Torneo: BLAST Rivals Fall 2026 (nivel S)  
+• Cambios de plantilla: ninguno  
+• Jugadores en forma (rating últimos 10 mapas): Vitality: ZywOo 6.3, ropz 6.1 | MOUZ: xertioN 6.8, Spinx 6.5  
+• Mapas (último año): Vitality: fuerte overpass 94%, débil anubis 45% | MOUZ: fuerte overpass 86%, débil cache 40%  
+• Química de la plantilla: Vitality: 414 mapas juntos de media | MOUZ: 202 mapas juntos de media  
+🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
+• Vitality gana 2-1: 21% → cuota justa 4.73 · casa 24%  
+• MOUZ gana 2-1: 23% → cuota justa 4.38 · casa 22%  
+🔫 **Kills esperados en la serie** (rango 80 %; mejor que la media de sus 10 últimas en 52.522 casos: log-loss 0.6819→0.6557; sin cuotas de props, solo referencia)  
+Vitality: ZywOo 41 (24-61) · ropz 36 (21-53) · flameZ 35 (20-52) · mezii 32 (18-47) · apEX 30 (17-44)  
+MOUZ: Spinx 36 (21-53) · xertioN 36 (21-53) · torzsi 35 (20-52) · xelex 35 (20-52) · PR 35 (20-51)  
+
+## G2 vs Falcons — 13/11 · 11:30
+
+👀 candidata · 🎮 CS2 · BLAST Rivals Fall 2026 · **Gana Falcons** @ **1.35** (Thunderpick) · prob 68% vs casas 68% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 76.745 partidos)  
+Mapa: G2 37% · Serie BO3: G2 32% - 68% Falcons  
+Casas: G2 32% · Falcons 68%  
+🔎 **Claves**  
+• Elo: G2 1986 (315 series) | Falcons 2131 (309 series)  
+• Forma: G2 ❌❌❌✅❌ | Falcons ✅✅❌❌✅  
+• H2H: 8: 3-5  
+• Torneo: BLAST Rivals Fall 2026 (nivel S)  
+• Cambios de plantilla: ninguno  
+• Jugadores en forma (rating últimos 10 mapas): G2: Nertz 6.1, MATYS 5.9 | Falcons: m0NESY 6.4, kyousuke 6.3  
+• Mapas (último año): G2: fuerte overpass 62%, débil nuke 0% | Falcons: fuerte nuke 65%, débil ancient 56%  
+• Química de la plantilla: G2: 157 mapas juntos de media | Falcons: 215 mapas juntos de media  
+🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
+• G2 gana 2-1: 14% → cuota justa 6.91 · casa 16%  
+• Falcons gana 2-1: 25% → cuota justa 4.01 · casa 26%  
+🔫 **Kills esperados en la serie** (rango 80 %; mejor que la media de sus 10 últimas en 52.522 casos: log-loss 0.6819→0.6557; sin cuotas de props, solo referencia)  
+G2: Nertz 34 (19-49) · HeavyGod 33 (19-48) · r1nkle 32 (19-48) · MATYS 32 (18-47) · huNter- 31 (17-45)  
+Falcons: m0NESY 41 (24-61) · kyousuke 40 (23-58) · NiKo 36 (21-53) · TeSeS 32 (18-47) · karrigan 27 (15-40)  
 
 ## Revise vs eSuba — 13/11 · 16:00
 

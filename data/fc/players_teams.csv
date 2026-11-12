@@ -65463,16 +65463,16 @@ id,tournament_id,club1,club2,ht1,ht2
 2376294,261781,Shanghai Port,Shanghai Shenhua,2.0,3.0
 2376295,261781,Shanghai Shenhua,Shandong Taishan,0.0,0.0
 2376296,261781,Beijing Guoan,Chengdu Rongcheng,0.0,0.0
-2377000,261775,Atleti,Athletic Club,3,0
-2377003,261775,Villarreal,Real Madrid,0,1
-2377006,261775,Villarreal,Atleti,1,4
-2377007,261775,Real Madrid,Athletic Club,0,2
-2377010,261775,Athletic Club,Villarreal,1,1
-2377012,261775,Real Madrid,Atleti,1,1
-2377013,261775,Atleti,Athletic Club,1,0
-2377016,261775,Villarreal,Real Madrid,1,1
-2377017,261775,Villarreal,Atleti,2,1
-2375678,261775,Real Madrid,Athletic Club,2,1
+2377000,261775,Atleti,Athletic Club,3.0,0.0
+2377003,261775,Villarreal,Real Madrid,0.0,1.0
+2377006,261775,Villarreal,Atleti,1.0,4.0
+2377007,261775,Real Madrid,Athletic Club,0.0,2.0
+2377010,261775,Athletic Club,Villarreal,1.0,1.0
+2377012,261775,Real Madrid,Atleti,1.0,1.0
+2377013,261775,Atleti,Athletic Club,1.0,0.0
+2377016,261775,Villarreal,Real Madrid,1.0,1.0
+2377017,261775,Villarreal,Atleti,2.0,1.0
+2375678,261775,Real Madrid,Athletic Club,2.0,1.0
 2377019,261775,Athletic Club,Villarreal,,
 2377020,261775,Real Madrid,Atleti,,
 2377021,261775,Atleti,Athletic Club,,
@@ -65481,3 +65481,63 @@ id,tournament_id,club1,club2,ht1,ht2
 2377024,261775,Real Madrid,Athletic Club,,
 2377025,261775,Athletic Club,Villarreal,,
 2377026,261775,Real Madrid,Atleti,,
+2376047,261738,Atleti,Paris,1,0
+2376048,261738,Real Madrid,Liverpool,2,2
+2376049,261738,Liverpool,Atleti,0,1
+2376050,261738,Paris,Bayern Munchen,3,1
+2376051,261738,Bayern Munchen,Liverpool,2,0
+2376052,261738,Atleti,Real Madrid,0,0
+2376053,261738,Real Madrid,Bayern Munchen,1,0
+2376054,261738,Liverpool,Paris,1,3
+2376055,261738,Paris,Real Madrid,0,1
+2376056,261738,Bayern Munchen,Atleti,0,1
+2376057,261738,Paris,Atleti,,
+2376058,261738,Liverpool,Real Madrid,,
+2376059,261738,Atleti,Liverpool,,
+2376060,261738,Bayern Munchen,Paris,,
+2376061,261738,Liverpool,Bayern Munchen,,
+2376062,261738,Real Madrid,Atleti,,
+2376063,261738,Bayern Munchen,Real Madrid,,
+2376064,261738,Paris,Liverpool,,
+2376065,261738,Real Madrid,Paris,,
+2376066,261738,Atleti,Bayern Munchen,,
+2376805,261743,Argentina,England,3,2
+2376806,261743,Germany,France,1,4
+2376807,261743,France,Argentina,3,0
+2376808,261743,England,Spain,1,2
+2376809,261743,Spain,France,2,1
+2376810,261743,Argentina,Germany,0,0
+2376811,261743,Germany,Spain,,
+2376812,261743,France,England,,
+2376813,261743,England,Germany,,
+2376814,261743,Spain,Argentina,,
+2376815,261743,England,Argentina,,
+2376816,261743,France,Germany,,
+2376817,261743,Argentina,France,,
+2376818,261743,Spain,England,,
+2376819,261743,France,Spain,,
+2376820,261743,Germany,Argentina,,
+2376821,261743,Spain,Germany,,
+2376822,261743,England,France,,
+2376823,261743,Germany,England,,
+2376824,261743,Argentina,Spain,,
+2376297,261783,PSV,Ajax,0,2
+2376298,261783,Feyenoord,Twente,4,0
+2376299,261783,Twente,PSV,0,2
+2376367,261783,Ajax,AZ Alkmaar,5,2
+2376368,261783,AZ Alkmaar,Twente,2,2
+2376302,261783,PSV,Feyenoord,1,4
+2376369,261783,Feyenoord,AZ Alkmaar,1,0
+2376304,261783,Twente,Ajax,1,0
+2376305,261783,Ajax,Feyenoord,,
+2376370,261783,AZ Alkmaar,PSV,,
+2376307,261783,Ajax,PSV,,
+2376308,261783,Twente,Feyenoord,,
+2376309,261783,PSV,Twente,,
+2376371,261783,AZ Alkmaar,Ajax,,
+2376372,261783,Twente,AZ Alkmaar,,
+2376312,261783,Feyenoord,PSV,,
+2376373,261783,AZ Alkmaar,Feyenoord,,
+2376314,261783,Ajax,Twente,,
+2376315,261783,Feyenoord,Ajax,,
+2376374,261783,PSV,AZ Alkmaar,,

@@ -1,42 +1,42 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 12/11/2026 14:52 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 12/11/2026 15:22 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## mko1919 vs Bomb1to — 12/11 · 15:01
+## Artrom vs DaVa — 12/11 · 15:28
 
-👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana Bomb1to** @ **1.77** (Unibet) · prob 61% vs casas 49% · ventaja +8%
+👀 candidata · 🎮⚽ FC 27 · LaLiga · **Gana Artrom** @ **7.50** (Unibet) · prob 14% vs casas 12% · ventaja +8%
 
 - ❌ Valor: ventaja +8% (mín. 10% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 65.447 partidos)  
-Goles esperados: mko1919 2.66 · Bomb1to 3.75  
-Ganador: mko1919 22% · empate 17% · Bomb1to 61%  
-Total: más de 6.5 goles 46% · menos 54%  
-Hándicap Bomb1to: −1.5 43% · −2.5 28%  
+📊 **Escenarios** (Poisson por jugador, 65.471 partidos)  
+Goles esperados: Artrom 1.57 · DaVa 2.85  
+Ganador: Artrom 14% · empate 18% · DaVa 67%  
+Total: más de 4.5 goles 45% · menos 55%  
+Hándicap DaVa: −1.5 45% · −2.5 27%  
 🔎 **Claves**  
-• Forma: mko1919 ❌✅❌❌❌ | Bomb1to ➖❌❌✅❌  
-• Partidos: mko1919 1242 | Bomb1to 1312  
-• Liga: Champions League B  
-• Unibet: 1 3.10 · X 3.85 · 2 1.77 (sin margen 28%/23%/49%) · ventaja +8%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 1.77 (+8%) · Paf España 1.77 (+8%)  
+• Forma: Artrom ✅✅✅❌➖ | DaVa ❌➖➖✅✅  
+• Partidos: Artrom 648 | DaVa 1253  
+• Liga: LaLiga  
+• Unibet: 1 7.50 · X 3.70 · 2 1.34 (sin margen 12%/24%/65%) · ventaja +8%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 7.50 (+8%) · Paf España 7.50 (+8%)  
 
-## Jekunam vs Artrom — 12/11 · 15:04
+## spirtes vs dirowe — 12/11 · 15:40
 
-👀 candidata · 🎮⚽ FC 27 · LaLiga · **Empate** @ **4.80** (Unibet) · prob 23% vs casas 18% · ventaja +10%
+👀 candidata · 🎮⚽ FC 27 · Eredivisie · **Empate** @ **7.00** (Unibet) · prob 15% vs casas 12% · ventaja +7%
 
-- ❌ Valor: ventaja +10% (mín. 11% con la incertidumbre, máx. 30%)
+- ❌ Valor: ventaja +7% (mín. 10% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 65.447 partidos)  
-Goles esperados: Jekunam 2.42 · Artrom 1.89  
-Ganador: Jekunam 48% · empate 23% · Artrom 29%  
-Total: más de 4.5 goles 43% · menos 57%  
-Hándicap Jekunam: −1.5 31% · −2.5 16%  
+📊 **Escenarios** (Poisson por jugador, 65.471 partidos)  
+Goles esperados: spirtes 2.83 · dirowe 4.02  
+Ganador: spirtes 20% · empate 15% · dirowe 65%  
+Total: más de 6.5 goles 53% · menos 47%  
+Hándicap dirowe: −1.5 45% · −2.5 30%  
 🔎 **Claves**  
-• Forma: Jekunam ➖❌❌❌➖ | Artrom ➖❌✅✅✅  
-• Partidos: Jekunam 1114 | Artrom 646  
-• Liga: LaLiga  
-• Unibet: 1 1.76 · X 4.80 · 2 2.75 (sin margen 50%/18%/32%) · ventaja +10%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 4.80 (+10%) · Paf España 4.80 (+10%)  
+• Forma: spirtes ❌❌❌❌✅ | dirowe ✅✅❌✅✅  
+• Partidos: spirtes 1111 | dirowe 830  
+• Liga: Eredivisie  
+• Unibet: 1 2.88 · X 7.00 · 2 1.52 (sin margen 30%/12%/57%) · ventaja +7%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 7.00 (+7%) · Paf España 7.00 (+7%)  
 
