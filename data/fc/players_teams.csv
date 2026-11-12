@@ -65819,12 +65819,12 @@ id,tournament_id,club1,club2,ht1,ht2
 2376672,261780,Roma,Napoli,,
 2376673,261780,Juventus,Roma,,
 2376674,261780,Sassuolo,Bologna,,
-2376895,261769,Man City,Tottenham,0,1
-2376896,261769,Liverpool,Chelsea,0,0
-2376897,261769,Chelsea,Man City,3,3
-2376898,261769,Tottenham,Arsenal,1,0
-2376899,261769,Arsenal,Chelsea,3,2
-2376900,261769,Man City,Liverpool,1,0
+2376895,261769,Man City,Tottenham,0.0,1.0
+2376896,261769,Liverpool,Chelsea,0.0,0.0
+2376897,261769,Chelsea,Man City,3.0,3.0
+2376898,261769,Tottenham,Arsenal,1.0,0.0
+2376899,261769,Arsenal,Chelsea,3.0,2.0
+2376900,261769,Man City,Liverpool,1.0,0.0
 2376901,261769,Liverpool,Arsenal,,
 2376902,261769,Chelsea,Tottenham,,
 2376903,261769,Tottenham,Liverpool,,
