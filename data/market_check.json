@@ -1,12 +1,12 @@
 {
  "nba": {
   "ganador": {
-   "n": 1264,
-   "ll_modelo": 0.6107,
-   "ll_mercado": 0.5789,
+   "n": 1265,
+   "ll_modelo": 0.6108,
+   "ll_mercado": 0.579,
    "w_opt": 0.1,
-   "ll_2a_mitad_w_opt": 0.5315,
-   "ll_2a_mitad_mercado": 0.5291,
+   "ll_2a_mitad_w_opt": 0.5318,
+   "ll_2a_mitad_mercado": 0.5294,
    "modelo_menos_mercado_2a": [
     0.0461,
     0.0086
@@ -23,14 +23,14 @@
    ]
   },
   "hándicap": {
-   "n": 1264,
-   "ll_modelo": 0.7256,
+   "n": 1265,
+   "ll_modelo": 0.7255,
    "ll_mercado": 0.693,
    "w_opt": 0.0,
    "ll_2a_mitad_w_opt": 0.6933,
    "ll_2a_mitad_mercado": 0.6933,
    "modelo_menos_mercado_2a": [
-    0.0364,
+    0.0363,
     0.0104
    ],
    "roi_bot_w05": [
@@ -45,14 +45,14 @@
    ]
   },
   "totales": {
-   "n": 1263,
-   "ll_modelo": 0.7207,
+   "n": 1264,
+   "ll_modelo": 0.7206,
    "ll_mercado": 0.6926,
    "w_opt": 0.0,
    "ll_2a_mitad_w_opt": 0.6923,
    "ll_2a_mitad_mercado": 0.6923,
    "modelo_menos_mercado_2a": [
-    0.0224,
+    0.0215,
     0.0098
    ],
    "roi_bot_w05": [
@@ -252,19 +252,19 @@
   },
   "hándicap": {
    "n": 620,
-   "ll_modelo": 0.7722,
+   "ll_modelo": 0.7737,
    "ll_mercado": 0.692,
    "w_opt": 0.0,
    "ll_2a_mitad_w_opt": 0.6905,
    "ll_2a_mitad_mercado": 0.6905,
    "modelo_menos_mercado_2a": [
-    0.048,
-    0.0176
+    0.0491,
+    0.0178
    ],
    "roi_bot_w05": [
-    -0.1006,
-    0.0533,
-    312
+    -0.0974,
+    0.0532,
+    313
    ],
    "roi_2a_mitad_w_opt": [
     0.0,
@@ -274,14 +274,14 @@
   },
   "totales": {
    "n": 620,
-   "ll_modelo": 0.7248,
+   "ll_modelo": 0.7252,
    "ll_mercado": 0.6947,
    "w_opt": 0.0,
    "ll_2a_mitad_w_opt": 0.6953,
    "ll_2a_mitad_mercado": 0.6953,
    "modelo_menos_mercado_2a": [
-    0.0345,
-    0.0145
+    0.0348,
+    0.0146
    ],
    "roi_bot_w05": [
     -0.0319,
@@ -320,19 +320,19 @@
   },
   "hándicap": {
    "n": 948,
-   "ll_modelo": 0.749,
+   "ll_modelo": 0.7491,
    "ll_mercado": 0.6933,
    "w_opt": 0.1,
    "ll_2a_mitad_w_opt": 0.6955,
    "ll_2a_mitad_mercado": 0.6924,
    "modelo_menos_mercado_2a": [
-    0.0713,
-    0.0142
+    0.0715,
+    0.0143
    ],
    "roi_bot_w05": [
-    -0.0583,
+    -0.0602,
     0.0429,
-    497
+    496
    ],
    "roi_2a_mitad_w_opt": [
     0.0,
@@ -342,13 +342,13 @@
   },
   "totales": {
    "n": 964,
-   "ll_modelo": 0.724,
+   "ll_modelo": 0.7238,
    "ll_mercado": 0.6929,
    "w_opt": 0.0,
    "ll_2a_mitad_w_opt": 0.6931,
    "ll_2a_mitad_mercado": 0.6931,
    "modelo_menos_mercado_2a": [
-    0.0236,
+    0.0234,
     0.0114
    ],
    "roi_bot_w05": [
