@@ -37,11 +37,22 @@ HEADERS = [{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit
            A.UA]
 
 
+BUDGET = 240     # s máximos por run hablando con esportsbattle (el 12/11 se colgaba y el run pasaba de 7 a 18 min)
+_T = {"spent": 0.0, "down": False}
+
+
 def get(path, **params):
-    r = None
-    for h in HEADERS:  # si una cabecera da 403, prueba la siguiente
-        r = requests.get(f"{API}/{path}", params=params, headers=h, timeout=30)
-        if r.status_code != 403: break
+    """Si la API no responde (timeout/conexión) o se agota BUDGET, el resto del run falla al instante."""
+    if _T["down"] or _T["spent"] > BUDGET: raise requests.ConnectionError("esportsbattle sin respuesta: se salta este run")
+    r, t0 = None, time.monotonic()
+    try:
+        for h in HEADERS:  # si una cabecera da 403, prueba la siguiente
+            r = requests.get(f"{API}/{path}", params=params, headers=h, timeout=30)
+            if r.status_code != 403: break
+    except (requests.Timeout, requests.ConnectionError):
+        _T["down"] = True; raise
+    finally:
+        _T["spent"] += time.monotonic() - t0
     r.raise_for_status()
     return r.json()
 

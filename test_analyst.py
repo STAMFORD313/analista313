@@ -1672,3 +1672,19 @@ try:
     _FCC.ROI_F.write_text(json.dumps({"roi": -0.05, "n": 250})); assert _FCC.real_roi() == (-0.05, 250)
 finally: _FCC.ROI_F = _rf0
 print("ok rentabilidad real FC 27 para avisar en combinadas")
+
+# esportsbattle colgado: tras el primer timeout el resto del run no espera (antes 13 min de timeouts en un run)
+_rg0, _calls = _ESO.requests.get, []
+def _hang(*a, **k): _calls.append(1); raise _ESO.requests.Timeout("lento")
+try:
+    _ESO._T.update(spent=0.0, down=False); _ESO.requests.get = _hang
+    for _ in range(3):
+        try: _ESO.get("tournaments"); raise AssertionError("debía fallar")
+        except _ESO.requests.RequestException: pass
+    assert len(_calls) == 1, _calls
+    _ESO._T.update(spent=_ESO.BUDGET + 1, down=False); _calls.clear()
+    try: _ESO.get("x")
+    except _ESO.requests.RequestException: pass
+    assert not _calls
+finally: _ESO.requests.get = _rg0; _ESO._T.update(spent=0.0, down=False)
+print("ok esportsbattle colgado no alarga el run")
