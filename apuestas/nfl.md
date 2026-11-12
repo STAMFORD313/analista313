@@ -1,6 +1,6 @@
 # 🏈 NFL·NCAA · apuestas de valor
 
-Actualizado 13/11/2026 00:20 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 13/11/2026 00:51 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## South Florida Bulls vs Memphis Tigers — 13/11 · 02:00
 

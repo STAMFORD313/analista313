@@ -1,6 +1,6 @@
 # 🐉 Dota 2 · apuestas de valor
 
-Actualizado 13/11/2026 00:20 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 13/11/2026 00:51 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Xipto Esports vs angry birds — 13/11 · 11:00
 
@@ -67,4 +67,70 @@ Casas: CyberHero 61% · Xipto Esports 39%
 🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
 • CyberHero gana 2-1: 24% → cuota justa 4.18 · casa 25%  
 • Xipto Esports gana 2-1: 17% → cuota justa 5.76 · casa 18%  
+
+## DO KONCA vs Yellow Submarine — 14/11 · 12:30
+
+👀 candidata · 🐉 Dota 2 · 1win Essence III · **Gana Yellow Submarine** @ **3.24** (Thunderpick) · prob 45% vs casas 29% · ventaja +47%
+
+- ❌ Valor: ventaja +47% (mín. 19% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🐉 no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 11.766 partidos)  
+Mapa: DO KONCA 22% · Serie BO3: DO KONCA 38% - 62% Yellow Submarine  
+Casas: DO KONCA 71% · Yellow Submarine 29%  
+🔎 **Claves**  
+• Elo: DO KONCA 1591 (1 series) | Yellow Submarine 1878 (309 series)  
+• Forma: DO KONCA ❌ | Yellow Submarine ❌❌✅❌✅  
+• H2H: sin precedentes  
+• Torneo: 1win Essence III (nivel A)  
+• Cambios de plantilla: ninguno  
+• Jugadores en forma (KDA últimas 10 partidas): DO KONCA: kiyotaka 3.6, Save- 3.1 | Yellow Submarine: Rain 3.3, rincyq 3.2  
+• Química de la plantilla: DO KONCA: 339 partidas juntos de media | Yellow Submarine: 57 partidas juntos de media  
+🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
+• DO KONCA gana 2-1: 6% → cuota justa 15.43 · casa 27%  
+• Yellow Submarine gana 2-1: 22% → cuota justa 4.47 · casa 14% ✔ el bot lo ve más probable que la casa  
+
+## DO KONCA vs Yellow Submarine — 14/11 · 12:30
+
+👀 candidata · 🐉 Dota 2 · 1win Essence III · **Menos de 2.5 mapas** @ **1.68** (Thunderpick) · prob 63% vs casas 55% · ventaja +6%
+
+- ❌ Valor: ventaja +6% (mín. 8% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🐉 totales» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 11.766 partidos)  
+Mapa: DO KONCA 22% · Serie BO3: DO KONCA 38% - 62% Yellow Submarine  
+Casas: DO KONCA 71% · Yellow Submarine 29%  
+🔎 **Claves**  
+• Elo: DO KONCA 1591 (1 series) | Yellow Submarine 1878 (309 series)  
+• Forma: DO KONCA ❌ | Yellow Submarine ❌❌✅❌✅  
+• H2H: sin precedentes  
+• Torneo: 1win Essence III (nivel A)  
+• Cambios de plantilla: ninguno  
+• Jugadores en forma (KDA últimas 10 partidas): DO KONCA: kiyotaka 3.6, Save- 3.1 | Yellow Submarine: Rain 3.3, rincyq 3.2  
+• Química de la plantilla: DO KONCA: 339 partidas juntos de media | Yellow Submarine: 57 partidas juntos de media  
+🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
+• DO KONCA gana 2-1: 6% → cuota justa 15.43 · casa 27%  
+• Yellow Submarine gana 2-1: 22% → cuota justa 4.47 · casa 14% ✔ el bot lo ve más probable que la casa  
+
+## DO KONCA vs Yellow Submarine — 14/11 · 12:30
+
+👀 candidata · 🐉 Dota 2 · 1win Essence III · **Yellow Submarine +1.5 mapas** @ **1.68** (Thunderpick) · prob 75% vs casas 55% · ventaja +26%
+
+- ✅ Valor: ventaja +26% (mín. 13% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🐉 hándicap» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 11.766 partidos)  
+Mapa: DO KONCA 22% · Serie BO3: DO KONCA 38% - 62% Yellow Submarine  
+Casas: DO KONCA 71% · Yellow Submarine 29%  
+🔎 **Claves**  
+• Elo: DO KONCA 1591 (1 series) | Yellow Submarine 1878 (309 series)  
+• Forma: DO KONCA ❌ | Yellow Submarine ❌❌✅❌✅  
+• H2H: sin precedentes  
+• Torneo: 1win Essence III (nivel A)  
+• Cambios de plantilla: ninguno  
+• Jugadores en forma (KDA últimas 10 partidas): DO KONCA: kiyotaka 3.6, Save- 3.1 | Yellow Submarine: Rain 3.3, rincyq 3.2  
+• Química de la plantilla: DO KONCA: 339 partidas juntos de media | Yellow Submarine: 57 partidas juntos de media  
+🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
+• DO KONCA gana 2-1: 6% → cuota justa 15.43 · casa 27%  
+• Yellow Submarine gana 2-1: 22% → cuota justa 4.47 · casa 14% ✔ el bot lo ve más probable que la casa  
 
