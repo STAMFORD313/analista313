@@ -1387,9 +1387,6 @@
   "cbb|2026-11-14|VMI Keydets|Mary Baldwin Fighting Squirrels",
   "wta|2026-11-13|Polona Hercog|Bianca Andreescu",
   "atp|2026-11-13|Taylor Fritz|Lorenzo Musetti",
-  "fc|2369552",
-  "fc|2369088",
-  "fc|2369095",
   "fc|2369092",
   "fc|2369094",
   "cs2|129785",
@@ -2389,7 +2386,10 @@
   "fc|2376033",
   "fc|2376696",
   "fc|2376558",
-  "fc|2375705"
+  "fc|2375705",
+  "fc|2376699",
+  "fc|2376561",
+  "fc|2375710"
  ],
  "signals": [
   {
@@ -4463,56 +4463,6 @@
    "considered": true,
    "placed": false,
    "score": "1-2",
-   "result": false,
-   "close_p": null,
-   "logged": true
-  },
-  {
-   "market": "D",
-   "pick": "Empate",
-   "odds": 9.0,
-   "book": "Unibet",
-   "implied": 0.098,
-   "edge": 0.272,
-   "sin_stake": true,
-   "p": 0.141,
-   "key": "fc|2370548",
-   "match": "Grellz vs kkikus",
-   "start": "2026-11-09T23:05:00+00:00",
-   "league": "🎮⚽ FC 27 · Serie A",
-   "sport": "🎮⚽",
-   "context": "EA FC Esoccer Battle Grellz vs kkikus (Serie A): goles esperados 4.00-2.18, 1X2 73%/14%/13%. Sin cuotas de casa.",
-   "captured": "2026-11-09T22:50",
-   "version": "9e72b48",
-   "bajas": "",
-   "considered": true,
-   "placed": false,
-   "score": "9-3",
-   "result": false,
-   "close_p": null,
-   "logged": true
-  },
-  {
-   "market": "D",
-   "pick": "Empate",
-   "odds": 5.2,
-   "book": "Unibet",
-   "implied": 0.169,
-   "edge": 0.089,
-   "sin_stake": true,
-   "p": 0.21,
-   "key": "fc|2370390",
-   "match": "Jokadinho vs Paka",
-   "start": "2026-11-09T23:02:00+00:00",
-   "league": "🎮⚽ FC 27 · Premier League",
-   "sport": "🎮⚽",
-   "context": "EA FC Esoccer Battle Jokadinho vs Paka (Premier League): goles esperados 2.77-3.28, 1X2 32%/21%/47%. Sin cuotas de casa.",
-   "captured": "2026-11-09T22:50",
-   "version": "9e72b48",
-   "bajas": "",
-   "considered": true,
-   "placed": false,
-   "score": "1-4",
    "result": false,
    "close_p": null,
    "logged": true
@@ -18479,10 +18429,6 @@
    "league": "💎 Valor vs Pinnacle · Brazil - Serie B",
    "sport": "⚽💎⚽",
    "sin_stake": true,
-   "info": [
-    "💎 <b>Valor contra Pinnacle (goles)</b>: Smarkets paga 2.06 y el justo de Pinnacle es 1.91 (+8.0%)",
-    "Candidata sin dinero hasta demostrar su CLV."
-   ],
    "context": "Sao Bernardo vs Athletic Club: más de 2.5 goles, valor contra Pinnacle.",
    "captured": "2026-11-12T07:43",
    "version": "539f6ed",
@@ -18754,10 +18700,6 @@
    "start": "2026-11-12T23:00:00+00:00",
    "league": "💎 Valor vs Pinnacle · Brazil - Serie B",
    "sport": "⚽💎",
-   "info": [
-    "💎 <b>Valor contra Pinnacle</b>: Unibet paga 1.95 y el precio justo de Pinnacle es 1.88 (ventaja +3.7%)",
-    "Backtest 2015-2026 (cuota ≤ 2.5, > 3 %): ROI +11 % ± 3 %, CLV +5 %."
-   ],
    "context": "Sao Bernardo vs Athletic Club (Brazil - Serie B). Estrategia de valor: Unibet 1.95 frente a Pinnacle justo 1.88.",
    "captured": "2026-11-12T09:43",
    "version": "4fa4127",
@@ -19798,10 +19740,6 @@
    "start": "2026-11-12T23:00:00+00:00",
    "league": "💎 Valor vs Pinnacle · Uruguay - Primera Division",
    "sport": "⚽💎",
-   "info": [
-    "💎 <b>Valor contra Pinnacle</b>: Smarkets paga 1.90 y el precio justo de Pinnacle es 1.85 (ventaja +3.1%)",
-    "Backtest 2015-2026 (cuota ≤ 2.5, > 3 %): ROI +11 % ± 3 %, CLV +5 %."
-   ],
    "context": "Cerro Largo vs CA Progreso (Uruguay - Primera Division). Estrategia de valor: Smarkets 1.90 frente a Pinnacle justo 1.85.",
    "captured": "2026-11-12T15:53",
    "version": "e4b37c8",
@@ -20759,7 +20697,11 @@
    "captured": "2026-11-12T22:50",
    "version": "f0456df",
    "bajas": "",
-   "considered": true
+   "considered": true,
+   "score": "3-4",
+   "result": true,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "A",
@@ -21511,7 +21453,12 @@
   "nba|2026-11-13|Minnesota Timberwolves|Dallas Mavericks",
   "nba|2026-11-13|Washington Wizards|Detroit Pistons",
   "nba|2026-11-13|Phoenix Suns|Charlotte Hornets",
-  "nba|2026-11-13|Philadelphia 76ers|Toronto Raptors"
+  "nba|2026-11-13|Philadelphia 76ers|Toronto Raptors",
+  "nba|2026-11-14|Indiana Pacers|New York Knicks",
+  "nba|2026-11-14|Orlando Magic|Milwaukee Bucks",
+  "nba|2026-11-14|Miami Heat|Cleveland Cavaliers",
+  "nba|2026-11-14|New Orleans Pelicans|Memphis Grizzlies",
+  "nba|2026-11-14|Houston Rockets|Utah Jazz"
  ],
  "radar_date": "2026-11-12",
  "sgp_res_sent": "2026-11-09T22:20:42.491173+00:00"
