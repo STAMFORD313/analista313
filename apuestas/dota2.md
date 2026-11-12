@@ -1,6 +1,6 @@
 # 🐉 Dota 2 · apuestas de valor
 
-Actualizado 12/11/2026 14:22 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 12/11/2026 14:52 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Team Spirit Academy vs Inner Circle x Insanity — 12/11 · 17:00
 
