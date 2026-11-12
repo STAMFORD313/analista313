@@ -2225,5 +2225,49 @@
   "estado": "pendiente",
   "avisada": false,
   "rev": 1
+ },
+ {
+  "id": "20261112070647836277",
+  "creada": "2026-11-12 07:06:47.836316+00:00",
+  "titulo": "Barrido · Combinada cuota 9.9",
+  "legs": [
+   {
+    "src": "esports:cs2",
+    "side": "A",
+    "code": null,
+    "start": "2026-11-12 14:00:00+00:00",
+    "home": "6yuBoJlbl",
+    "away": "Drama",
+    "txt": "Gana Drama",
+    "odds": 2.15,
+    "p": 0.47927751937984486
+   },
+   {
+    "src": "esports:dota2",
+    "side": "A",
+    "code": null,
+    "start": "2026-11-12 15:30:00+00:00",
+    "home": "Team Synapse",
+    "away": "Nemiga Gaming",
+    "txt": "Gana Nemiga Gaming",
+    "odds": 2.1,
+    "p": 0.4881603174603174
+   },
+   {
+    "code": null,
+    "start": "2026-11-12 16:00:00+00:00",
+    "home": "Tritones Vallarta",
+    "away": "H20 Purepechas",
+    "txt": "Gana Tritones Vallarta",
+    "odds": 2.2,
+    "p": 0.4696
+   }
+  ],
+  "odds": 9.93,
+  "p": 0.10986961931926267,
+  "stake": 1.0,
+  "estado": "pendiente",
+  "avisada": false,
+  "rev": 1
  }
 ]
