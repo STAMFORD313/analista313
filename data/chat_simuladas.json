@@ -2269,5 +2269,49 @@
   "estado": "pendiente",
   "avisada": false,
   "rev": 1
+ },
+ {
+  "id": "20261112100654426251",
+  "creada": "2026-11-12 10:06:54.426298+00:00",
+  "titulo": "Barrido · Combinada cuota 7.1",
+  "legs": [
+   {
+    "src": "esports:cs2",
+    "side": "H",
+    "code": null,
+    "start": "2026-11-12 19:30:00+00:00",
+    "home": "NoTime",
+    "away": "eSuba",
+    "txt": "Gana NoTime",
+    "odds": 2.11,
+    "p": 0.49355576619273295
+   },
+   {
+    "code": null,
+    "start": "2026-11-12 23:00:00+00:00",
+    "home": "Sao Bernardo",
+    "away": "Athletic Club",
+    "txt": "Gana Sao Bernardo",
+    "odds": 1.95,
+    "p": 0.5317
+   },
+   {
+    "src": "esports:cs2",
+    "side": "A",
+    "code": null,
+    "start": "2026-11-13 18:00:00+00:00",
+    "home": "ex-INOX",
+    "away": "BAKS",
+    "txt": "Gana BAKS",
+    "odds": 1.72,
+    "p": 0.6173968992248062
+   }
+  ],
+  "odds": 7.08,
+  "p": 0.16201951746960713,
+  "stake": 1.0,
+  "estado": "pendiente",
+  "avisada": false,
+  "rev": 1
  }
 ]
