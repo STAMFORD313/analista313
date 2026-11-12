@@ -2306,7 +2306,9 @@
     "away": "eSuba",
     "txt": "Gana NoTime",
     "odds": 2.11,
-    "p": 0.49355576619273295
+    "p": 0.49355576619273295,
+    "ok": true,
+    "por": "ganó NoTime 1-0"
    },
    {
     "code": null,
