@@ -1,80 +1,42 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 12/11/2026 22:50 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 12/11/2026 23:21 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## Vanste vs Lunjo — 12/11 · 22:52
+## Joop vs Lunjo — 12/11 · 23:28
 
 👀 candidata · 🎮⚽ FC 27 · LaLiga · **Empate** @ **5.40** (Unibet) · prob 21% vs casas 16% · ventaja +11%
 
 - ✅ Valor: ventaja +11% (mín. 11% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 65.849 partidos)  
-Goles esperados: Vanste 2.47 · Lunjo 2.81  
-Ganador: Vanste 33% · empate 21% · Lunjo 47%  
-Total: más de 5.5 goles 43% · menos 57%  
-Hándicap Lunjo: −1.5 30% · −2.5 17%  
+📊 **Escenarios** (Poisson por jugador, 65.900 partidos)  
+Goles esperados: Joop 2.33 · Lunjo 2.77  
+Ganador: Joop 29% · empate 21% · Lunjo 51%  
+Total: más de 5.5 goles 40% · menos 60%  
+Hándicap Lunjo: −1.5 31% · −2.5 17%  
 🔎 **Claves**  
-• Forma: Vanste ✅❌❌❌❌ | Lunjo ✅❌❌❌✅  
-• Partidos: Vanste 121 | Lunjo 98  
+• Forma: Joop ❌❌✅❌✅ | Lunjo ✅❌❌❌❌  
+• Partidos: Joop 134 | Lunjo 102  
 • Liga: LaLiga  
-• Unibet: 1 2.80 · X 5.40 · 2 1.68 (sin margen 31%/16%/52%) · ventaja +11%. Sin stake hasta demostrar ROI con estas cuotas.  
+• Unibet: 1 3.05 · X 5.40 · 2 1.60 (sin margen 29%/16%/55%) · ventaja +11%. Sin stake hasta demostrar ROI con estas cuotas.  
 • En España: LeoVegas España 5.40 (+11%) · Paf España 5.40 (+11%)  
 
-## nicky vs zaha — 12/11 · 23:00
+## Simaponika vs Nightxx — 12/11 · 23:31
 
-👀 candidata · 🎮⚽ FC 27 · Argentina Super League 2x6 · **Gana zaha** @ **1.49** (Unibet) · prob 75% vs casas 59% · ventaja +12%
+👀 candidata · 🎮⚽ FC 27 · World Cup A · **Empate** @ **5.50** (Unibet) · prob 19% vs casas 16% · ventaja +5%
 
-- ✅ Valor: ventaja +12% (mín. 11% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+- ❌ Valor: ventaja +5% (mín. 9% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 65.849 partidos)  
-Goles esperados: nicky 4.39 · zaha 6.69  
-Ganador: nicky 15% · empate 10% · zaha 75%  
-Total: más de 11.5 goles 43% · menos 57%  
-Hándicap zaha: −1.5 59% · −2.5 47%  
+📊 **Escenarios** (Poisson por jugador, 65.900 partidos)  
+Goles esperados: Simaponika 2.92 · Nightxx 3.15  
+Ganador: Simaponika 35% · empate 19% · Nightxx 45%  
+Total: más de 6.5 goles 41% · menos 59%  
+Hándicap Nightxx: −1.5 30% · −2.5 17%  
 🔎 **Claves**  
-• Forma: nicky ✅❌✅➖➖ | zaha ✅❌✅❌✅  
-• Partidos: nicky 359 | zaha 367  
-• Liga: Argentina Super League 2x6  
-• Unibet: 1 3.65 · X 5.30 · 2 1.49 (sin margen 24%/17%/59%) · ventaja +12%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 1.49 (+12%) · Paf España 1.49 (+12%)  
-
-## mixes vs Vanste — 12/11 · 23:04
-
-👀 candidata · 🎮⚽ FC 27 · LaLiga · **Gana Vanste** @ **3.00** (Unibet) · prob 40% vs casas 29% · ventaja +20%
-
-- ✅ Valor: ventaja +20% (mín. 13% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 65.877 partidos)  
-Goles esperados: mixes 2.58 · Vanste 2.69  
-Ganador: mixes 39% · empate 21% · Vanste 40%  
-Total: más de 5.5 goles 43% · menos 57%  
-Hándicap Vanste: −1.5 26% · −2.5 14%  
-🔎 **Claves**  
-• Forma: mixes ❌✅➖➖✅ | Vanste ❌❌➖✅✅  
-• Partidos: mixes 99 | Vanste 124  
-• Liga: LaLiga  
-• Unibet: 1 1.76 · X 4.10 · 2 3.00 (sin margen 50%/21%/29%) · ventaja +20%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 3.00 (+20%) · Paf España 3.00 (+20%)  
-
-## nicky vs Kosta — 12/11 · 23:18
-
-👀 candidata · 🎮⚽ FC 27 · Argentina Super League 2x6 · **Gana nicky** @ **1.75** (Unibet) · prob 64% vs casas 50% · ventaja +11%
-
-- ✅ Valor: ventaja +11% (mín. 11% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 65.877 partidos)  
-Goles esperados: nicky 6.01 · Kosta 4.60  
-Ganador: nicky 63% · empate 12% · Kosta 24%  
-Total: más de 10.5 goles 49% · menos 51%  
-Hándicap nicky: −1.5 48% · −2.5 36%  
-🔎 **Claves**  
-• Forma: nicky ✅❌✅➖➖ | Kosta ❌➖❌❌➖  
-• Partidos: nicky 359 | Kosta 279  
-• Liga: Argentina Super League 2x6  
-• Unibet: 1 1.75 · X 6.10 · 2 2.48 (sin margen 50%/14%/35%) · ventaja +11%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 1.75 (+11%) · Paf España 1.75 (+11%)  
+• Forma: Simaponika ✅❌✅❌❌ | Nightxx ❌❌❌❌✅  
+• Partidos: Simaponika 1149 | Nightxx 887  
+• Liga: World Cup A  
+• Unibet: 1 2.50 · X 5.50 · 2 1.79 (sin margen 35%/16%/49%) · ventaja +5%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 5.50 (+5%) · Paf España 5.50 (+5%)  
 
