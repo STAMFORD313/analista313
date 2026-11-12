@@ -21492,3 +21492,6 @@ game_id,match_id,slug,date,tier,bo,tournament_id,tournament,t1_id,t2_id,team1,te
 32035,132698,fennel-lol-vs-nothinhere-10-11-2026,2026-11-10T05:10:00.000+00:00,a,5,6073,LCP 2027 Promotion,16841,25433,FENNEL,Nothin'Here,3,,25433,25.0,13.0
 32041,132699,saigon-warriors-vs-gromp-esports-10-11-2026,2026-11-10T08:00:00.000+00:00,a,5,6073,LCP 2027 Promotion,22895,25190,Saigon Warriors,Gromp Esports,2,,22895,23.0,16.0
 32040,132699,saigon-warriors-vs-gromp-esports-10-11-2026,2026-11-10T08:00:00.000+00:00,a,5,6073,LCP 2027 Promotion,22895,25190,Saigon Warriors,Gromp Esports,3,,22895,39.0,7.0
+32052,132701,nothinhere-vs-saigon-warriors-12-11-2026,2026-11-12T06:10:00.000+00:00,a,5,6073,LCP 2027 Promotion,25433,22895,Nothin'Here,Saigon Warriors,1,,22895,15.0,11.0
+32051,132701,nothinhere-vs-saigon-warriors-12-11-2026,2026-11-12T06:10:00.000+00:00,a,5,6073,LCP 2027 Promotion,25433,22895,Nothin'Here,Saigon Warriors,2,,22895,24.0,17.0
+32050,132701,nothinhere-vs-saigon-warriors-12-11-2026,2026-11-12T06:10:00.000+00:00,a,5,6073,LCP 2027 Promotion,25433,22895,Nothin'Here,Saigon Warriors,3,,22895,28.0,14.0
