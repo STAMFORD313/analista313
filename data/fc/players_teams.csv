@@ -64781,16 +64781,16 @@ id,tournament_id,club1,club2,ht1,ht2
 2374235,261656,River Plate,Boca Juniors,,
 2374236,261656,Racing Club,Boca Juniors,,
 2374237,261656,Racing Club,River Plate,,
-2374992,261682,Tottenham,Chelsea,2,2
-2374993,261682,Liverpool,Arsenal,3,0
-2374994,261682,Arsenal,Tottenham,1,3
-2374995,261682,Chelsea,Man City,1,3
-2374996,261682,Man City,Arsenal,3,0
-2374997,261682,Tottenham,Liverpool,0,1
-2374998,261682,Liverpool,Man City,2,2
-2374999,261682,Arsenal,Chelsea,2,1
-2375000,261682,Chelsea,Liverpool,1,1
-2375001,261682,Man City,Tottenham,2,1
+2374992,261682,Tottenham,Chelsea,2.0,2.0
+2374993,261682,Liverpool,Arsenal,3.0,0.0
+2374994,261682,Arsenal,Tottenham,1.0,3.0
+2374995,261682,Chelsea,Man City,1.0,3.0
+2374996,261682,Man City,Arsenal,3.0,0.0
+2374997,261682,Tottenham,Liverpool,0.0,1.0
+2374998,261682,Liverpool,Man City,2.0,2.0
+2374999,261682,Arsenal,Chelsea,2.0,1.0
+2375000,261682,Chelsea,Liverpool,1.0,1.0
+2375001,261682,Man City,Tottenham,2.0,1.0
 2375002,261682,Chelsea,Tottenham,,
 2375003,261682,Arsenal,Liverpool,,
 2375004,261682,Tottenham,Arsenal,,
@@ -64801,3 +64801,43 @@ id,tournament_id,club1,club2,ht1,ht2
 2375009,261682,Chelsea,Arsenal,,
 2375010,261682,Liverpool,Chelsea,,
 2375011,261682,Tottenham,Man City,,
+2374612,261642,Juventus,Bologna,4,0
+2374613,261642,Napoli,Roma,0,1
+2374614,261642,Roma,Juventus,2,0
+2375775,261642,Bologna,Sassuolo,1,3
+2375776,261642,Sassuolo,Roma,0,0
+2374617,261642,Juventus,Napoli,1,3
+2375777,261642,Napoli,Sassuolo,1,3
+2374619,261642,Roma,Bologna,2,1
+2374620,261642,Bologna,Napoli,1,3
+2375778,261642,Sassuolo,Juventus,0,0
+2374622,261642,Bologna,Juventus,0,3
+2374623,261642,Roma,Napoli,2,1
+2374624,261642,Juventus,Roma,,
+2375779,261642,Sassuolo,Bologna,,
+2375780,261642,Roma,Sassuolo,,
+2374627,261642,Napoli,Juventus,,
+2375781,261642,Sassuolo,Napoli,,
+2374629,261642,Bologna,Roma,,
+2374630,261642,Napoli,Bologna,,
+2375782,261642,Juventus,Sassuolo,,
+2373940,261652,Brazil,France,2,0
+2373941,261652,England,Spain,0,1
+2373942,261652,Spain,Brazil,1,2
+2373943,261652,France,Argentina,0,1
+2373944,261652,Argentina,Spain,1,0
+2373945,261652,Brazil,England,0,2
+2373946,261652,England,Argentina,2,2
+2373947,261652,Spain,France,1,3
+2373948,261652,France,England,1,0
+2373949,261652,Argentina,Brazil,0,1
+2373950,261652,France,Brazil,,
+2373951,261652,Spain,England,,
+2373952,261652,Brazil,Spain,,
+2373953,261652,Argentina,France,,
+2373954,261652,Spain,Argentina,,
+2373955,261652,England,Brazil,,
+2373956,261652,Argentina,England,,
+2373957,261652,France,Spain,,
+2373958,261652,England,France,,
+2373959,261652,Brazil,Argentina,,
