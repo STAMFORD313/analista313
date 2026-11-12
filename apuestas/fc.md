@@ -1,6 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 12/11/2026 23:50 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 12/11/2026 23:58 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Kosta vs zaha — 13/11 · 00:30
 
