@@ -591,9 +591,6 @@ id,date,event,home,away,hs,as,res
 401909761,2026-11-11T02:00Z,San Diego Toreros at Colorado Buffaloes,Colorado Buffaloes,San Diego Toreros,83,75,1.0
 401909492,2026-11-11T02:00Z,Creighton Bluejays at Kansas State Wildcats,Kansas State Wildcats,Creighton Bluejays,89,82,1.0
 401921062,2026-11-11T03:00Z,Montana Grizzlies at San Francisco Dons,San Francisco Dons,Montana Grizzlies,63,58,1.0
-401919734,2026-11-12T03:00Z,Chicago State Cougars at California Baptist Lancers,California Baptist Lancers,Chicago State Cougars,62,81,0.0
-401917523,2026-11-12T03:00Z,Pacific Tigers at Long Beach State Beach,Long Beach State Beach,Pacific Tigers,62,59,1.0
-401917521,2026-11-12T03:00Z,UTSA Roadrunners at Seattle U Redhawks,Seattle U Redhawks,UTSA Roadrunners,59,86,0.0
 401925702,2026-11-12T01:00Z,Jacksonville State Gamecocks at Houston Cougars,Houston Cougars,Jacksonville State Gamecocks,92,46,1.0
 401930177,2026-11-12T02:00Z,Arkansas-Pine Bluff Golden Lions at UCLA Bruins,UCLA Bruins,Arkansas-Pine Bluff Golden Lions,106,37,1.0
 401920680,2026-11-12T00:00Z,Colgate Raiders at St. John's Red Storm,St. John's Red Storm,Colgate Raiders,90,59,1.0
@@ -657,3 +654,6 @@ id,date,event,home,away,hs,as,res
 401911346,2026-11-12T02:00Z,Cal Poly Mustangs at Grand Canyon Lopes,Grand Canyon Lopes,Cal Poly Mustangs,99,71,1.0
 401929625,2026-11-12T03:00Z,Lincoln (CA) Oaklanders at UC Irvine Anteaters,UC Irvine Anteaters,Lincoln (CA) Oaklanders,90,40,1.0
 401925738,2026-11-12T03:00Z,Mississippi Valley State Delta Devils at Oregon Ducks,Oregon Ducks,Mississippi Valley State Delta Devils,100,66,1.0
+401919734,2026-11-12T03:00Z,Chicago State Cougars at California Baptist Lancers,California Baptist Lancers,Chicago State Cougars,62,81,0.0
+401917523,2026-11-12T03:00Z,Pacific Tigers at Long Beach State Beach,Long Beach State Beach,Pacific Tigers,62,59,1.0
+401917521,2026-11-12T03:00Z,UTSA Roadrunners at Seattle U Redhawks,Seattle U Redhawks,UTSA Roadrunners,59,86,0.0
