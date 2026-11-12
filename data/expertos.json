@@ -1,8 +1,8 @@
 {
  "datos_futbol_jugadores": {
-  "ultima": "2026-11-12T10:15:29.077997+00:00",
+  "ultima": "2026-11-12T10:45:30.980019+00:00",
   "ok": true,
-  "segundos": 134,
+  "segundos": 111,
   "salida": "ESPN fútbol: 0 partidos nuevos",
   "tarea": "ESPN fútbol: alineaciones, jugadores, porteros y árbitro de 18 competiciones"
  },
@@ -21,23 +21,23 @@
   "tarea": "Disciplinas nuevas de bo3.gg y esports con cuota en Unibet"
  },
  "props_futbol": {
-  "ultima": "2026-11-12T10:15:29.077997+00:00",
+  "ultima": "2026-11-12T10:45:30.980019+00:00",
   "ok": true,
-  "segundos": 339,
+  "segundos": 348,
   "salida": "  To score at least 3 goals (192): real 1% · casa 3% · modelo 0% · con ventaja 1: ROI -100%",
   "tarea": "Props de jugador de fútbol: backtest y liquidación de las cuotas de Unibet"
  },
  "props_nba": {
-  "ultima": "2026-11-12T10:15:29.077997+00:00",
+  "ultima": "2026-11-12T10:45:30.980019+00:00",
   "ok": true,
   "segundos": 3,
   "salida": "  triples (35): log-loss modelo 0.690 vs casa 0.732 · con ventaja 16: ROI +49%",
   "tarea": "Props de jugador NBA: liquida las cuotas de Unibet y mide el modelo contra la casa"
  },
  "estrategias": {
-  "ultima": "2026-11-12T10:15:29.077997+00:00",
+  "ultima": "2026-11-12T10:45:30.980019+00:00",
   "ok": true,
-  "segundos": 1,
+  "segundos": 2,
   "salida": "  {'segmento': 'deporte=🏈 · mercado=ganador', 'n': 84, 'roi': -0.273, 'se': 0.0843, 'roi_antigua': -0.2723, 'roi_nueva': -0.2734, 'clv': -0.0389, 'clv_se': 0.0085, 'clv_n': 74}",
   "tarea": "Busca segmentos rentables/perdedores con validación (ajusta el stake de la banca)"
  },
@@ -56,10 +56,10 @@
   "tarea": "Elo por mapa/serie de CS2, Dota 2, LoL, R6 y MLBB"
  },
  "entrena_fc27": {
-  "ultima": "2026-11-12T10:15:29.077997+00:00",
+  "ultima": "2026-11-12T10:45:30.980019+00:00",
   "ok": true,
-  "segundos": 293,
-  "salida": "  jugador por tipo de liga: w=+0.367, log-loss 0.9688 → 0.9687 (-0.0001 ± 0.0001)",
+  "segundos": 296,
+  "salida": "  jugador por tipo de liga: w=+0.372, log-loss 0.9686 → 0.9685 (-0.0001 ± 0.0001)",
   "tarea": "Modelo y recalibración de FC 27"
  },
  "entrena_props": {
@@ -98,30 +98,30 @@
   "tarea": "NFL con nflverse (cuotas de cierre y QB desde 1999): ¿bate Elo + QB a la casa?"
  },
  "datos_pinnacle": {
-  "ultima": "2026-11-12T10:15:29.077997+00:00",
+  "ultima": "2026-11-12T10:45:30.980019+00:00",
   "ok": true,
-  "segundos": 3,
-  "salida": "Pinnacle: 2540 mercados",
+  "segundos": 2,
+  "salida": "Pinnacle: 2572 mercados",
   "tarea": "Pinnacle: cuotas de cierre de la casa más afinada (fútbol, NBA, NHL, esports, NFL, tenis)"
  },
  "datos_futbol_faltas": {
-  "ultima": "2026-11-12T10:15:29.077997+00:00",
+  "ultima": "2026-11-12T10:45:30.980019+00:00",
   "ok": true,
-  "segundos": 4,
+  "segundos": 5,
   "salida": "ESPN fútbol: 0 partidos rellenados con faltas recibidas",
   "tarea": "ESPN fútbol: rellena las faltas recibidas por jugador de los partidos ya guardados"
  },
  "datos_opendota": {
-  "ultima": "2026-11-12T10:15:29.077997+00:00",
+  "ultima": "2026-11-12T10:45:30.980019+00:00",
   "ok": true,
   "segundos": 3,
   "salida": "  d = pd.read_csv(OD_FILE) if OD_FILE.exists() else pd.DataFrame(columns=OD_COLS)",
   "tarea": "OpenDota: partidas profesionales de Dota 2 (nuevas e historial)"
  },
  "datos_fotmob": {
-  "ultima": "2026-11-12T10:15:29.077997+00:00",
+  "ultima": "2026-11-12T10:45:30.980019+00:00",
   "ok": true,
-  "segundos": 5,
+  "segundos": 4,
   "salida": "FotMob: 0 partidos nuevos, 41533 guardados",
   "tarea": "FotMob: estadísticas por partido con xG, ocasiones, tiros y físico (~30 ligas, nuevas e historial)"
  },
