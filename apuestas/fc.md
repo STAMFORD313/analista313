@@ -1,44 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 12/11/2026 18:17 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Gazi vs dirowe — 12/11 · 18:26
-
-👀 candidata · 🎮⚽ FC 27 · A-League · **Gana dirowe** @ **1.61** (Unibet) · prob 69% vs casas 55% · ventaja +11%
-
-- ❌ Valor: ventaja +11% (mín. 11% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 65.615 partidos)  
-Goles esperados: Gazi 2.20 · dirowe 3.45  
-Ganador: Gazi 16% · empate 16% · dirowe 69%  
-Total: más de 5.5 goles 50% · menos 50%  
-Hándicap dirowe: −1.5 45% · −2.5 29%  
-🔎 **Claves**  
-• Forma: Gazi ❌❌❌❌➖ | dirowe ❌✅❌✅❌  
-• Partidos: Gazi 432 | dirowe 840  
-• Liga: A-League  
-• Unibet: 1 2.95 · X 5.60 · 2 1.61 (sin margen 30%/16%/55%) · ventaja +11%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 1.61 (+11%) · Paf España 1.61 (+11%)  
-
-## Glumac vs chevare — 12/11 · 18:26
-
-👀 candidata · 🎮⚽ FC 27 · Super Lig · **Gana Glumac** @ **2.48** (Unibet) · prob 43% vs casas 35% · ventaja +7%
-
-- ❌ Valor: ventaja +7% (mín. 10% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 65.615 partidos)  
-Goles esperados: Glumac 3.90 · chevare 3.75  
-Ganador: Glumac 43% · empate 17% · chevare 40%  
-Total: más de 7.5 goles 50% · menos 50%  
-Hándicap Glumac: −1.5 31% · −2.5 19%  
-🔎 **Claves**  
-• Forma: Glumac ✅✅❌✅➖ | chevare ❌➖✅➖✅  
-• Partidos: Glumac 848 | chevare 679  
-• Liga: Super Lig  
-• Unibet: 1 2.48 · X 3.35 · 2 2.23 (sin margen 35%/26%/39%) · ventaja +7%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.48 (+7%) · Paf España 2.48 (+7%)  
+Actualizado 12/11/2026 18:27 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## dirowe vs Loka — 12/11 · 18:38
 
@@ -96,4 +58,42 @@ Hándicap ZORO: −1.5 67% · −2.5 54%
 • Liga: Champions League B 2x6  
 • Unibet: 1 4.60 · X 6.75 · 2 1.27 (sin margen 19%/13%/68%) · ventaja +6%. Sin stake hasta demostrar ROI con estas cuotas.  
 • En España: LeoVegas España 1.27 (+6%) · Paf España 1.27 (+6%)  
+
+## hit vs Glumac — 12/11 · 19:02
+
+👀 candidata · 🎮⚽ FC 27 · Super Lig · **Gana hit** @ **2.65** (Unibet) · prob 43% vs casas 33% · ventaja +14%
+
+- ✅ Valor: ventaja +14% (mín. 12% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 65.642 partidos)  
+Goles esperados: hit 3.00 · Glumac 3.00  
+Ganador: hit 43% · empate 19% · Glumac 38%  
+Total: más de 6.5 goles 39% · menos 61%  
+Hándicap hit: −1.5 26% · −2.5 15%  
+🔎 **Claves**  
+• Forma: hit ➖✅✅➖✅ | Glumac ❌✅➖❌➖  
+• Partidos: hit 777 | Glumac 850  
+• Liga: Super Lig  
+• Unibet: 1 2.65 · X 2.90 · 2 2.30 (sin margen 33%/30%/38%) · ventaja +14%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.65 (+14%) · Paf España 2.65 (+14%)  
+
+## Dicca vs Jankulovski — 12/11 · 19:11
+
+👀 candidata · 🎮⚽ FC 27 · Champions League A · **Gana Dicca** @ **1.60** (Unibet) · prob 67% vs casas 55% · ventaja +8%
+
+- ❌ Valor: ventaja +8% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 65.642 partidos)  
+Goles esperados: Dicca 3.47 · Jankulovski 2.08  
+Ganador: Dicca 67% · empate 16% · Jankulovski 16%  
+Total: más de 5.5 goles 48% · menos 52%  
+Hándicap Dicca: −1.5 47% · −2.5 31%  
+🔎 **Claves**  
+• Forma: Dicca ✅❌❌✅✅ | Jankulovski ❌❌✅❌❌  
+• Partidos: Dicca 756 | Jankulovski 923  
+• Liga: Champions League A  
+• Unibet: 1 1.60 · X 4.70 · 2 3.35 (sin margen 55%/19%/26%) · ventaja +8%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 1.60 (+8%) · Paf España 1.60 (+8%)  
 

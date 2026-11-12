@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 12/11/2026 18:17 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 12/11/2026 18:27 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Nordic Valor vs ROUNDS — 12/11 · 19:00
 
