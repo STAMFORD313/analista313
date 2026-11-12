@@ -34713,3 +34713,6 @@ game_id,match_id,slug,date,tier,bo,tournament_id,tournament,t1_id,t2_id,team1,te
 191044,132591,furia-vs-vitality-12-11-2026,2026-11-12T04:00:00.000+00:00,s,3,4224,BLAST Rivals Fall 2026,648,667,FURIA,Vitality,3,de_mirage,648,13.0,0.0
 191045,132591,furia-vs-vitality-12-11-2026,2026-11-12T04:00:00.000+00:00,s,3,4224,BLAST Rivals Fall 2026,648,667,FURIA,Vitality,2,de_dust2,648,13.0,10.0
 191046,132591,furia-vs-vitality-12-11-2026,2026-11-12T04:00:00.000+00:00,s,3,4224,BLAST Rivals Fall 2026,648,667,FURIA,Vitality,1,de_inferno,667,13.0,5.0
+191053,132594,fut-cs2-vs-mouz-cs2-12-11-2026,2026-11-12T07:00:00.000+00:00,s,3,4224,BLAST Rivals Fall 2026,20832,765,FUT,MOUZ,3,de_nuke,765,13.0,4.0
+191054,132594,fut-cs2-vs-mouz-cs2-12-11-2026,2026-11-12T07:00:00.000+00:00,s,3,4224,BLAST Rivals Fall 2026,20832,765,FUT,MOUZ,2,de_mirage,765,16.0,14.0
+191055,132594,fut-cs2-vs-mouz-cs2-12-11-2026,2026-11-12T07:00:00.000+00:00,s,3,4224,BLAST Rivals Fall 2026,20832,765,FUT,MOUZ,1,de_cache,20832,19.0,16.0
