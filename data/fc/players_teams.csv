@@ -65919,18 +65919,18 @@ id,tournament_id,club1,club2,ht1,ht2
 2376692,261782,Argentina,England,,
 2376693,261782,Brazil,Argentina,,
 2376694,261782,Spain,France,,
-2375687,261766,Benfica,Vitoria SC,1,1
-2375688,261766,Porto,Braga,0,1
-2375689,261766,Braga,Benfica,2,0
-2375690,261766,Vitoria SC,Sporting CP,0,1
-2375691,261766,Sporting CP,Braga,2,0
-2375692,261766,Benfica,Porto,1,3
-2375693,261766,Porto,Sporting CP,0,2
-2375694,261766,Braga,Vitoria SC,0,1
-2375695,261766,Vitoria SC,Porto,2,1
-2375696,261766,Sporting CP,Benfica,1,2
-2375697,261766,Vitoria SC,Benfica,2,0
-2375698,261766,Braga,Porto,2,0
+2375687,261766,Benfica,Vitoria SC,1.0,1.0
+2375688,261766,Porto,Braga,0.0,1.0
+2375689,261766,Braga,Benfica,2.0,0.0
+2375690,261766,Vitoria SC,Sporting CP,0.0,1.0
+2375691,261766,Sporting CP,Braga,2.0,0.0
+2375692,261766,Benfica,Porto,1.0,3.0
+2375693,261766,Porto,Sporting CP,0.0,2.0
+2375694,261766,Braga,Vitoria SC,0.0,1.0
+2375695,261766,Vitoria SC,Porto,2.0,1.0
+2375696,261766,Sporting CP,Benfica,1.0,2.0
+2375697,261766,Vitoria SC,Benfica,2.0,0.0
+2375698,261766,Braga,Porto,2.0,0.0
 2375699,261766,Benfica,Braga,,
 2375700,261766,Sporting CP,Vitoria SC,,
 2375701,261766,Braga,Sporting CP,,
@@ -65939,3 +65939,35 @@ id,tournament_id,club1,club2,ht1,ht2
 2375704,261766,Vitoria SC,Braga,,
 2375705,261766,Porto,Vitoria SC,,
 2375706,261766,Benfica,Sporting CP,,
+2376025,261740,Boca Juniors,River Plate,2,3
+2376026,261740,Boca Juniors,Racing Club,1,1
+2376027,261740,River Plate,Racing Club,1,4
+2376028,261740,River Plate,Boca Juniors,,
+2376029,261740,Racing Club,Boca Juniors,,
+2376030,261740,Racing Club,River Plate,,
+2376031,261740,Boca Juniors,River Plate,,
+2376032,261740,Boca Juniors,Racing Club,,
+2376033,261740,River Plate,Racing Club,,
+2376034,261740,River Plate,Boca Juniors,,
+2376035,261740,Racing Club,Boca Juniors,,
+2376036,261740,Racing Club,River Plate,,
+2376147,261763,Netherlands,Norway,4,0
+2376148,261763,Germany,Czechia,2,3
+2376149,261763,Czechia,Netherlands,2,1
+2376150,261763,Norway,Morocco,0,1
+2376151,261763,Morocco,Czechia,0,0
+2376152,261763,Netherlands,Germany,2,2
+2376153,261763,Germany,Morocco,1,1
+2376154,261763,Czechia,Norway,0,1
+2376155,261763,Norway,Germany,0,0
+2376156,261763,Morocco,Netherlands,0,1
+2376157,261763,Norway,Netherlands,,
+2376158,261763,Czechia,Germany,,
+2376159,261763,Netherlands,Czechia,,
+2376160,261763,Morocco,Norway,,
+2376161,261763,Czechia,Morocco,,
+2376162,261763,Germany,Netherlands,,
+2376163,261763,Morocco,Germany,,
+2376164,261763,Norway,Czechia,,
+2376165,261763,Germany,Norway,,
+2376166,261763,Netherlands,Morocco,,

@@ -34737,3 +34737,5 @@ game_id,match_id,slug,date,tier,bo,tournament_id,tournament,t1_id,t2_id,team1,te
 193331,133844,ex-rustec-vs-spirit-academy-12-11-2026,2026-11-12T18:00:00.000+00:00,b,3,6240,NODWIN Clutch Series 14,24857,1309,ex-RUSTEC,Spirit Academy,1,de_mirage,1309,13.0,8.0
 192352,133199,procyon-gaming-vs-tao-toma-12-11-2026,2026-11-12T19:20:00.000+00:00,b,3,5624,CCT South America 2026 Series 8,898,25640,Procyon,tao toma,2,de_inferno,898,13.0,11.0
 192353,133199,procyon-gaming-vs-tao-toma-12-11-2026,2026-11-12T19:20:00.000+00:00,b,3,5624,CCT South America 2026 Series 8,898,25640,Procyon,tao toma,1,de_mirage,25640,13.0,5.0
+193722,134174,bbl-vs-private-12-11-2026,2026-11-12T20:45:00.000+00:00,b,3,6250,PGL Cluj-Napoca 2027: Open Qualifier 2,25251,25382,BBL,PRIVATE,1,de_mirage,25251,13.0,10.0
+193725,134175,state-vs-saw-12-11-2026,2026-11-12T20:45:00.000+00:00,b,3,6250,PGL Cluj-Napoca 2027: Open Qualifier 2,10493,312,STATE,SAW,1,de_inferno,10493,13.0,5.0
