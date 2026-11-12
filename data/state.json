@@ -2384,7 +2384,8 @@
   "cs2|134077",
   "fc|2376890",
   "fc|2376835",
-  "fc|2376892"
+  "fc|2376892",
+  "wta|2026-11-13|Polona Hercog|Bianca Andreescu"
  ],
  "signals": [
   {
@@ -3617,52 +3618,6 @@
   },
   {
    "market": "t2",
-   "team_id": 25421,
-   "pick": "TTG Esports",
-   "odds": 2.93,
-   "book": "Thunderpick",
-   "p": 0.479,
-   "implied": 0.315,
-   "edge": 0.403,
-   "key": "cs2|132781",
-   "match": "OldBoys FR vs TTG Esports",
-   "start": "2026-11-09T19:00:00+00:00",
-   "league": "🎮 CS2 · ESEA Season 59: Advanced Division - Europe",
-   "sport": "🎮",
-   "context": "CS2 OldBoys FR vs TTG Esports, BO1, torneo ESEA Season 59: Advanced Division - Europe nivel c. Elo por mapa 1569 vs 1671 (prob. mapa 36%, serie 36%). Forma ✅✅❌❌❌ / ❌✅✅✅✅ (✅ victoria ❌ derrota). H2H sin precedentes. Cambios de plantilla: ninguno. Cuotas Thunderpick 1.35/2.93.",
-   "captured": "2026-11-08T07:31",
-   "version": "0303976",
-   "bajas": "",
-   "considered": true,
-   "placed": false
-  },
-  {
-   "market": "t1",
-   "team_id": 21049,
-   "pick": "Huskies eSport",
-   "odds": 1.71,
-   "book": "Thunderpick",
-   "p": 0.571,
-   "implied": 0.537,
-   "edge": -0.024,
-   "key": "cs2|128551",
-   "match": "Huskies eSport vs Pandaric eSports",
-   "start": "2026-11-09T19:00:00+00:00",
-   "league": "🎮 CS2 · DACH CS Masters Season 6",
-   "sport": "🎮",
-   "context": "CS2 Huskies eSport vs Pandaric eSports, BO3, torneo DACH CS Masters Season 6 nivel c. Elo por mapa 1229 vs 1154 (prob. mapa 57%, serie 60%). Forma ❌❌❌❌❌ / ❌❌❌❌❌ (✅ victoria ❌ derrota). H2H sin precedentes. Cambios de plantilla: ninguno. Cuotas Thunderpick 1.71/1.98.",
-   "captured": "2026-11-08T07:31",
-   "version": "0303976",
-   "bajas": "",
-   "considered": true,
-   "placed": false,
-   "score": "2-1",
-   "result": true,
-   "close_p": 0.5339,
-   "logged": true
-  },
-  {
-   "market": "t2",
    "team_id": 21698,
    "pick": "OldBoys FR",
    "odds": 1.75,
@@ -4150,31 +4105,6 @@
    "result": true,
    "score": "24-0",
    "close_p": 0.825,
-   "logged": true
-  },
-  {
-   "market": "t1",
-   "team_id": 1199,
-   "pick": "eSuba",
-   "odds": 1.75,
-   "book": "Thunderpick",
-   "p": 0.54,
-   "implied": 0.527,
-   "edge": -0.055,
-   "key": "cs2|133667",
-   "match": "eSuba vs ZOTIX",
-   "start": "2026-11-09T19:00:00+00:00",
-   "league": "🎮 CS2 · ESEA Season 59: Advanced Division - Europe",
-   "sport": "🎮",
-   "context": "CS2 eSuba vs ZOTIX, BO1, torneo ESEA Season 59: Advanced Division - Europe nivel c. Elo por mapa 1514 vs 1477 (prob. mapa 55%, serie 55%). Forma ✅❌✅✅❌ / ✅❌❌❌✅ (✅ victoria ❌ derrota). H2H sin precedentes. Cambios de plantilla: ninguno. Cuotas Thunderpick 1.75/1.95.",
-   "captured": "2026-11-09T01:39",
-   "version": "5aa48ec",
-   "bajas": "",
-   "considered": true,
-   "placed": false,
-   "score": "1-0",
-   "result": true,
-   "close_p": 0.4854,
    "logged": true
   },
   {
@@ -20379,7 +20309,11 @@
    "version": "8c5a762",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "2-0",
+   "result": true,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "A",
@@ -21161,7 +21095,11 @@
    "version": "d3f6f08",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "1-2",
+   "result": false,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "H",
@@ -21209,7 +21147,11 @@
    "bajas": "",
    "considered": true,
    "placed": false,
-   "anunciada": true
+   "anunciada": true,
+   "score": "2-0",
+   "result": false,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "H",
@@ -21257,7 +21199,41 @@
    "bajas": "",
    "considered": true,
    "placed": false,
-   "anunciada": true
+   "anunciada": true,
+   "score": "6-2",
+   "result": false,
+   "close_p": null,
+   "logged": true
+  },
+  {
+   "key": "vp|2026-11-12|Mount Pleasant|Portmore United",
+   "market": "A",
+   "pick": "Portmore United",
+   "odds": 2.33,
+   "book": "Unibet",
+   "p": 0.454,
+   "implied": 0.454,
+   "edge": 0.0579,
+   "match": "Mount Pleasant vs Portmore United",
+   "start": "2026-11-12T20:00:00+00:00",
+   "league": "💎 Valor vs Pinnacle · Jamaica - Premier League",
+   "sport": "⚽💎",
+   "info": [
+    "💎 <b>Valor contra Pinnacle</b>: Unibet paga 2.33 y el precio justo de Pinnacle es 2.20 (ventaja +5.8%)",
+    "Backtest 2015-2026 (cuota ≤ 2.5, > 3 %): ROI +11 % ± 3 %, CLV +5 %."
+   ],
+   "context": "Mount Pleasant vs Portmore United (Jamaica - Premier League). Estrategia de valor: Unibet 2.33 frente a Pinnacle justo 2.20.",
+   "captured": "2026-11-12T19:18",
+   "version": "17e5756",
+   "bajas": "",
+   "considered": true,
+   "ai": {
+    "apostar": true,
+    "motivo": null,
+    "confianza": null,
+    "modelo": null
+   },
+   "placed": false
   }
  ],
  "bank": {

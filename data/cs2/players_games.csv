@@ -34729,3 +34729,6 @@ game_id,match_id,slug,date,tier,bo,tournament_id,tournament,t1_id,t2_id,team1,te
 193324,133842,forze-reload-vs-butterfly-12-11-2026,2026-11-12T12:00:00.000+00:00,b,3,6240,NODWIN Clutch Series 14,10703,24855,FORZE Reload,Butterfly,1,de_nuke,24855,13.0,10.0
 192849,133379,azuolas-vs-illyrians-12-11-2026,2026-11-12T15:00:00.000+00:00,b,3,5629,CCT Europe 2026 Series 14,25247,3022,Azuolas,Illyrians,1,de_mirage,3022,13.0,2.0
 192485,133243,baks-esports-vs-the-last-resort-12-11-2026,2026-11-12T15:30:00.000+00:00,b,3,5628,CCT Europe 2026 Series 13,2924,2740,BAKS,The Last Resort,1,de_inferno,2924,13.0,2.0
+192348,133198,ex-yawara-vs-isurus-gaming-cs-go-12-11-2026,2026-11-12T16:15:00.000+00:00,b,3,5624,CCT South America 2026 Series 8,25652,591,ex-Yawara,Isurus,3,de_mirage,25652,13.0,10.0
+192349,133198,ex-yawara-vs-isurus-gaming-cs-go-12-11-2026,2026-11-12T16:15:00.000+00:00,b,3,5624,CCT South America 2026 Series 8,25652,591,ex-Yawara,Isurus,2,de_nuke,591,13.0,5.0
+192350,133198,ex-yawara-vs-isurus-gaming-cs-go-12-11-2026,2026-11-12T16:15:00.000+00:00,b,3,5624,CCT South America 2026 Series 8,25652,591,ex-Yawara,Isurus,1,de_dust2,25652,13.0,11.0
