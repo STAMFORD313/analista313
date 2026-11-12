@@ -2352,7 +2352,10 @@
     "away": "tao toma",
     "txt": "Gana Procyon",
     "odds": 2.4,
-    "p": 0.42925
+    "p": 0.42925,
+    "ok": false,
+    "por": "ganó tao toma 2-1",
+    "clv": -0.065
    },
    {
     "src": "esports:cs2",
@@ -2380,8 +2383,8 @@
   "odds": 8.36,
   "p": 0.13317797406933335,
   "stake": 1.0,
-  "estado": "pendiente",
-  "avisada": false,
-  "rev": 1
+  "estado": "perdida",
+  "avisada": true,
+  "rev": 2
  }
 ]
