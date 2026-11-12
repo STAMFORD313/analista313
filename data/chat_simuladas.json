@@ -2144,7 +2144,10 @@
     "away": "New York Rangers",
     "txt": "Gana Calgary Flames",
     "odds": 2.2,
-    "p": 0.46702999999999995
+    "p": 0.46702999999999995,
+    "ok": false,
+    "por": "ganó New York Rangers 3-1",
+    "clv": -0.045
    },
    {
     "src": "espn:nhl",
@@ -2155,7 +2158,10 @@
     "away": "Utah Mammoth",
     "txt": "Gana Vegas Golden Knights",
     "odds": 1.8,
-    "p": 0.5723
+    "p": 0.5723,
+    "ok": true,
+    "por": "ganó Vegas Golden Knights 5-3",
+    "clv": 0.012
    },
    {
     "src": "espn:nfl",
@@ -2172,9 +2178,9 @@
   "odds": 6.75,
   "p": 0.16280102094789997,
   "stake": 1.0,
-  "estado": "pendiente",
-  "avisada": false,
-  "rev": 1
+  "estado": "perdida",
+  "avisada": true,
+  "rev": 2
  },
  {
   "id": "20261112010301248868",
