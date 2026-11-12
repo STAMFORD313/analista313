@@ -34708,3 +34708,5 @@ game_id,match_id,slug,date,tier,bo,tournament_id,tournament,t1_id,t2_id,team1,te
 193534,133978,bbl-vs-magic-ru-11-11-2026,2026-11-11T18:30:00.000+00:00,b,3,6249,PGL Cluj-Napoca 2027: Open Qualifier 1,25251,22218,BBL,magic,1,de_cache,22218,13.0,9.0
 192340,133195,red-canids-academy-vs-gremio-11-11-2026,2026-11-11T19:20:00.000+00:00,b,3,5624,CCT South America 2026 Series 8,16743,24856,RED Canids Academy,Grêmio,2,de_mirage,16743,13.0,4.0
 192341,133195,red-canids-academy-vs-gremio-11-11-2026,2026-11-11T19:20:00.000+00:00,b,3,5624,CCT South America 2026 Series 8,16743,24856,RED Canids Academy,Grêmio,1,de_nuke,16743,13.0,4.0
+191042,132590,legacy-br-vs-falcons-esports-12-11-2026,2026-11-12T02:00:00.000+00:00,s,3,4224,BLAST Rivals Fall 2026,8118,2713,Legacy,Falcons,2,de_mirage,2713,13.0,6.0
+191043,132590,legacy-br-vs-falcons-esports-12-11-2026,2026-11-12T02:00:00.000+00:00,s,3,4224,BLAST Rivals Fall 2026,8118,2713,Legacy,Falcons,1,de_dust2,2713,13.0,8.0
