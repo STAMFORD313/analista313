@@ -1,63 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 12/11/2026 17:22 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## dirowe vs Gazi — 12/11 · 17:26
-
-👀 candidata · 🎮⚽ FC 27 · A-League · **Gana dirowe** @ **1.61** (Unibet) · prob 68% vs casas 55% · ventaja +10%
-
-- ❌ Valor: ventaja +10% (mín. 11% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 65.562 partidos)  
-Goles esperados: dirowe 3.46 · Gazi 2.23  
-Ganador: dirowe 68% · empate 16% · Gazi 16%  
-Total: más de 5.5 goles 50% · menos 50%  
-Hándicap dirowe: −1.5 45% · −2.5 29%  
-🔎 **Claves**  
-• Forma: dirowe ✅✅❌✅❌ | Gazi ❌❌✅❌❌  
-• Partidos: dirowe 836 | Gazi 428  
-• Liga: A-League  
-• Unibet: 1 1.61 · X 5.80 · 2 2.90 (sin margen 55%/15%/30%) · ventaja +10%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 1.61 (+10%) · Paf España 1.61 (+10%)  
-
-## Lx7ss vs SpeciAL — 12/11 · 17:44
-
-👀 candidata · 🎮⚽ FC 27 · World Cup B · **Gana Lx7ss** @ **2.38** (Unibet) · prob 49% vs casas 37% · ventaja +17%
-
-- ✅ Valor: ventaja +17% (mín. 12% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 65.587 partidos)  
-Goles esperados: Lx7ss 3.75 · SpeciAL 3.33  
-Ganador: Lx7ss 49% · empate 17% · SpeciAL 33%  
-Total: más de 7.5 goles 41% · menos 59%  
-Hándicap Lx7ss: −1.5 34% · −2.5 21%  
-🔎 **Claves**  
-• Forma: Lx7ss ❌✅✅❌❌ | SpeciAL ❌❌❌❌✅  
-• Partidos: Lx7ss 1089 | SpeciAL 898  
-• Liga: World Cup B  
-• Unibet: 1 2.38 · X 5.00 · 2 1.91 (sin margen 37%/17%/46%) · ventaja +17%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.38 (+17%) · Paf España 2.38 (+17%)  
-
-## llulle vs Glumac — 12/11 · 17:50
-
-👀 candidata · 🎮⚽ FC 27 · Super Lig · **Gana Glumac** @ **2.18** (Unibet) · prob 51% vs casas 40% · ventaja +12%
-
-- ✅ Valor: ventaja +12% (mín. 11% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 65.587 partidos)  
-Goles esperados: llulle 2.75 · Glumac 3.40  
-Ganador: llulle 30% · empate 18% · Glumac 51%  
-Total: más de 6.5 goles 42% · menos 58%  
-Hándicap Glumac: −1.5 36% · −2.5 22%  
-🔎 **Claves**  
-• Forma: llulle ➖❌✅❌➖ | Glumac ➖✅✅❌✅  
-• Partidos: llulle 943 | Glumac 847  
-• Liga: Super Lig  
-• Unibet: 1 2.28 · X 3.95 · 2 2.18 (sin margen 38%/22%/40%) · ventaja +12%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.18 (+12%) · Paf España 2.18 (+12%)  
+Actualizado 12/11/2026 17:53 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Paka vs Lx7ss — 12/11 · 17:56
 
@@ -77,4 +20,61 @@ Hándicap Paka: −1.5 28% · −2.5 16%
 • Liga: World Cup B  
 • Unibet: 1 1.90 · X 6.00 · 2 2.25 (sin margen 46%/15%/39%) · ventaja +13%. Sin stake hasta demostrar ROI con estas cuotas.  
 • En España: LeoVegas España 6.00 (+13%) · Paf España 6.00 (+13%)  
+
+## Glumac vs hit — 12/11 · 18:02
+
+👀 candidata · 🎮⚽ FC 27 · Super Lig · **Gana hit** @ **2.60** (Unibet) · prob 42% vs casas 33% · ventaja +10%
+
+- ❌ Valor: ventaja +10% (mín. 11% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 65.615 partidos)  
+Goles esperados: Glumac 3.04 · hit 2.98  
+Ganador: Glumac 39% · empate 19% · hit 42%  
+Total: más de 6.5 goles 40% · menos 60%  
+Hándicap Glumac: −1.5 27% · −2.5 15%  
+🔎 **Claves**  
+• Forma: Glumac ✅✅❌✅➖ | hit ✅➖✅➖✅  
+• Partidos: Glumac 848 | hit 774  
+• Liga: Super Lig  
+• Unibet: 1 2.30 · X 2.95 · 2 2.60 (sin margen 38%/29%/33%) · ventaja +10%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.60 (+10%) · Paf España 2.60 (+10%)  
+
+## Gazi vs dirowe — 12/11 · 18:26
+
+👀 candidata · 🎮⚽ FC 27 · A-League · **Gana dirowe** @ **1.61** (Unibet) · prob 69% vs casas 55% · ventaja +11%
+
+- ❌ Valor: ventaja +11% (mín. 11% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 65.615 partidos)  
+Goles esperados: Gazi 2.20 · dirowe 3.45  
+Ganador: Gazi 16% · empate 16% · dirowe 69%  
+Total: más de 5.5 goles 50% · menos 50%  
+Hándicap dirowe: −1.5 45% · −2.5 29%  
+🔎 **Claves**  
+• Forma: Gazi ❌❌❌❌➖ | dirowe ❌✅❌✅❌  
+• Partidos: Gazi 432 | dirowe 840  
+• Liga: A-League  
+• Unibet: 1 2.95 · X 5.60 · 2 1.61 (sin margen 30%/16%/55%) · ventaja +11%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 1.61 (+11%) · Paf España 1.61 (+11%)  
+
+## Glumac vs chevare — 12/11 · 18:26
+
+👀 candidata · 🎮⚽ FC 27 · Super Lig · **Gana Glumac** @ **2.48** (Unibet) · prob 43% vs casas 35% · ventaja +7%
+
+- ❌ Valor: ventaja +7% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 65.615 partidos)  
+Goles esperados: Glumac 3.90 · chevare 3.75  
+Ganador: Glumac 43% · empate 17% · chevare 40%  
+Total: más de 7.5 goles 50% · menos 50%  
+Hándicap Glumac: −1.5 31% · −2.5 19%  
+🔎 **Claves**  
+• Forma: Glumac ✅✅❌✅➖ | chevare ❌➖✅➖✅  
+• Partidos: Glumac 848 | chevare 679  
+• Liga: Super Lig  
+• Unibet: 1 2.48 · X 3.35 · 2 2.23 (sin margen 35%/26%/39%) · ventaja +7%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.48 (+7%) · Paf España 2.48 (+7%)  
 

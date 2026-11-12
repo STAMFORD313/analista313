@@ -9869,4 +9869,6 @@ match_id,slug,date,tier,bo,tournament_id,tournament,t1_id,t2_id,team1,team2
 133126,cyberhero-vs-team-allied-12-11-2026,2026-11-12T13:00:00.000+00:00,b,3,6263,Asgard Championship Season 2,25398,25634,CyberHero,Allied
 133700,aurora-vs-gamerlegion-dota2-12-11-2026,2026-11-12T13:00:00.000+00:00,a,3,6126,1win Essence III,15143,22027,Aurora Gaming,GamerLegion
 134103,nemiga-gaming-vs-power-rangers-dota2-12-11-2026,2026-11-12T13:00:00.000+00:00,b,1,6127,DreamLeague Division 2 Series 5,16398,16653,Nemiga Gaming,Power Rangers
+134136,angry-birds-vs-zero-tenacity-dota-12-11-2026,2026-11-12T13:15:00.000+00:00,b,3,6282,European Pro League Season 41,25604,18713,angry birds,Zero Tenacity
 134104,team-synapse-vs-power-rangers-dota2-12-11-2026,2026-11-12T14:15:00.000+00:00,b,1,6127,DreamLeague Division 2 Series 5,25201,16653,Team Synapse,Power Rangers
+134105,team-synapse-vs-nemiga-gaming-12-11-2026,2026-11-12T15:20:00.000+00:00,b,1,6127,DreamLeague Division 2 Series 5,25201,16398,Team Synapse,Nemiga Gaming
