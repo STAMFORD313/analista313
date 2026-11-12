@@ -1788,7 +1788,9 @@
     "away": "Deportivo Recoleta",
     "txt": "Gana Cerro Porteno",
     "odds": 1.56,
-    "p": 0.7193
+    "p": 0.7193,
+    "ok": "nula",
+    "por": "sin datos del partido"
    },
    {
     "code": null,
@@ -1797,7 +1799,9 @@
     "away": "Palmeiras",
     "txt": "Gana Vasco da Gama",
     "odds": 2.55,
-    "p": 0.4105
+    "p": 0.4105,
+    "ok": "nula",
+    "por": "sin datos del partido"
    },
    {
     "src": "espn:nhl",
@@ -1817,9 +1821,9 @@
   "odds": 7.24,
   "p": 0.16694135901547985,
   "stake": 1.0,
-  "estado": "pendiente",
-  "avisada": false,
-  "rev": 1
+  "estado": "ganada",
+  "avisada": true,
+  "rev": 2
  },
  {
   "id": "20261109024736842159",
