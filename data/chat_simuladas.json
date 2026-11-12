@@ -2175,5 +2175,49 @@
   "estado": "pendiente",
   "avisada": false,
   "rev": 1
+ },
+ {
+  "id": "20261112010301248868",
+  "creada": "2026-11-12 01:03:01.248914+00:00",
+  "titulo": "Barrido · Combinada cuota 16.8",
+  "legs": [
+   {
+    "src": "esports:cs2",
+    "side": "A",
+    "code": null,
+    "start": "2026-11-12 14:00:00+00:00",
+    "home": "Saint Sinners",
+    "away": "TitanFlow",
+    "txt": "Gana TitanFlow",
+    "odds": 2.9,
+    "p": 0.4467850574712643
+   },
+   {
+    "code": null,
+    "start": "2026-11-12 19:30:00+00:00",
+    "home": "Atenas",
+    "away": "Club Oriental de La Paz",
+    "txt": "Gana Atenas",
+    "odds": 2.35,
+    "p": 0.5066
+   },
+   {
+    "src": "esports:dota2",
+    "side": "A",
+    "code": null,
+    "start": "2026-11-13 10:00:00+00:00",
+    "home": "Xipto Esports",
+    "away": "angry birds",
+    "txt": "Gana angry birds",
+    "odds": 2.47,
+    "p": 0.45080553306342774
+   }
+  ],
+  "odds": 16.83,
+  "p": 0.10203591496064127,
+  "stake": 1.0,
+  "estado": "pendiente",
+  "avisada": false,
+  "rev": 1
  }
 ]
