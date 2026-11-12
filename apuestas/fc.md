@@ -1,61 +1,61 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 12/11/2026 08:11 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 12/11/2026 08:43 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## mko1919 vs Bomb1to — 12/11 · 08:21
+## d1pseN vs Bomb1to — 12/11 · 08:55
 
-👀 candidata · 🎮⚽ FC 27 · World Cup A · **Gana Bomb1to** @ **1.85** (Unibet) · prob 62% vs casas 47% · ventaja +14%
+👀 candidata · 🎮⚽ FC 27 · Serie A · **Gana Bomb1to** @ **2.63** (Unibet) · prob 42% vs casas 33% · ventaja +10%
 
-- ✅ Valor: ventaja +14% (mín. 12% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 65.099 partidos)  
-Goles esperados: mko1919 2.58 · Bomb1to 3.67  
-Ganador: mko1919 22% · empate 17% · Bomb1to 62%  
-Total: más de 6.5 goles 43% · menos 57%  
-Hándicap Bomb1to: −1.5 43% · −2.5 28%  
-🔎 **Claves**  
-• Forma: mko1919 ❌❌✅➖❌ | Bomb1to ✅✅✅➖❌  
-• Partidos: mko1919 1218 | Bomb1to 1288  
-• Liga: World Cup A  
-• Unibet: 1 3.05 · X 3.55 · 2 1.85 (sin margen 29%/24%/47%) · ventaja +14%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 1.85 (+14%) · Paf España 1.85 (+14%)  
-
-## v1nniePuh vs TikitakaMaster — 12/11 · 08:24
-
-👀 candidata · 🎮⚽ FC 27 · Premier League 2x6 · **Gana v1nniePuh** @ **3.40** (Unibet) · prob 34% vs casas 26% · ventaja +14%
-
-- ✅ Valor: ventaja +14% (mín. 12% con la incertidumbre, máx. 30%)
+- ❌ Valor: ventaja +10% (mín. 11% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 65.099 partidos)  
-Goles esperados: v1nniePuh 4.21 · TikitakaMaster 4.82  
-Ganador: v1nniePuh 34% · empate 15% · TikitakaMaster 51%  
-Total: más de 9.5 goles 42% · menos 58%  
-Hándicap TikitakaMaster: −1.5 38% · −2.5 26%  
+📊 **Escenarios** (Poisson por jugador, 65.127 partidos)  
+Goles esperados: d1pseN 2.81 · Bomb1to 2.96  
+Ganador: d1pseN 38% · empate 20% · Bomb1to 42%  
+Total: más de 5.5 goles 52% · menos 48%  
+Hándicap Bomb1to: −1.5 28% · −2.5 16%  
 🔎 **Claves**  
-• Forma: v1nniePuh ✅❌✅➖✅ | TikitakaMaster ➖➖✅✅❌  
-• Partidos: v1nniePuh 682 | TikitakaMaster 681  
-• Liga: Premier League 2x6  
-• Unibet: 1 3.40 · X 7.50 · 2 1.38 (sin margen 26%/12%/63%) · ventaja +14%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 3.40 (+14%) · Paf España 3.40 (+14%)  
+• Forma: d1pseN ✅❌➖✅❌ | Bomb1to ✅➖❌✅❌  
+• Partidos: d1pseN 296 | Bomb1to 1290  
+• Liga: Serie A  
+• Unibet: 1 2.43 · X 2.75 · 2 2.63 (sin margen 36%/31%/33%) · ventaja +10%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.63 (+10%) · Paf España 2.63 (+10%)  
 
-## Uncle vs Wboy — 12/11 · 08:33
+## Pavlinho19 vs Tesla — 12/11 · 09:04
 
-👀 candidata · 🎮⚽ FC 27 · World Cup A · **Gana Wboy** @ **3.35** (Unibet) · prob 36% vs casas 26% · ventaja +20%
+👀 candidata · 🎮⚽ FC 27 · Ligue 1 · **Gana Tesla** @ **2.28** (Unibet) · prob 48% vs casas 38% · ventaja +9%
 
-- ✅ Valor: ventaja +20% (mín. 13% con la incertidumbre, máx. 30%)
+- ❌ Valor: ventaja +9% (mín. 11% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 65.099 partidos)  
-Goles esperados: Uncle 3.15 · Wboy 2.92  
-Ganador: Uncle 45% · empate 19% · Wboy 36%  
-Total: más de 6.5 goles 40% · menos 60%  
-Hándicap Uncle: −1.5 30% · −2.5 17%  
+📊 **Escenarios** (Poisson por jugador, 65.127 partidos)  
+Goles esperados: Pavlinho19 2.67 · Tesla 3.04  
+Ganador: Pavlinho19 32% · empate 20% · Tesla 48%  
+Total: más de 5.5 goles 51% · menos 49%  
+Hándicap Tesla: −1.5 31% · −2.5 18%  
 🔎 **Claves**  
-• Forma: Uncle ❌✅✅➖✅ | Wboy ✅❌❌❌✅  
-• Partidos: Uncle 775 | Wboy 1127  
-• Liga: World Cup A  
-• Unibet: 1 1.83 · X 3.30 · 2 3.35 (sin margen 48%/26%/26%) · ventaja +20%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 3.35 (+20%) · Paf España 3.35 (+20%)  
+• Forma: Pavlinho19 ✅➖❌✅❌ | Tesla ✅❌✅✅✅  
+• Partidos: Pavlinho19 953 | Tesla 1043  
+• Liga: Ligue 1  
+• Unibet: 1 2.48 · X 3.20 · 2 2.28 (sin margen 35%/27%/38%) · ventaja +9%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.28 (+9%) · Paf España 2.28 (+9%)  
+
+## Uncle vs d1pseN — 12/11 · 09:19
+
+👀 candidata · 🎮⚽ FC 27 · Serie A · **Gana Uncle** @ **2.80** (Unibet) · prob 38% vs casas 31% · ventaja +7%
+
+- ❌ Valor: ventaja +7% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 65.127 partidos)  
+Goles esperados: Uncle 2.48 · d1pseN 2.46  
+Ganador: Uncle 38% · empate 22% · d1pseN 40%  
+Total: más de 4.5 goles 55% · menos 45%  
+Hándicap Uncle: −1.5 25% · −2.5 13%  
+🔎 **Claves**  
+• Forma: Uncle ✅✅➖✅❌ | d1pseN ✅❌➖✅❌  
+• Partidos: Uncle 776 | d1pseN 296  
+• Liga: Serie A  
+• Unibet: 1 2.80 · X 2.50 · 2 2.50 (sin margen 31%/35%/35%) · ventaja +7%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.80 (+7%) · Paf España 2.80 (+7%)  
 
