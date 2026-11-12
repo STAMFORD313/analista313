@@ -1,6 +1,28 @@
 # 🐉 Dota 2 · apuestas de valor
 
-Actualizado 12/11/2026 13:52 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 12/11/2026 14:22 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+
+## Team Spirit Academy vs Inner Circle x Insanity — 12/11 · 17:00
+
+👀 candidata · 🐉 Dota 2 · European Pro League Season 41 · **Gana Team Spirit Academy** @ **2.75** (Thunderpick) · prob 48% vs casas 34% · ventaja +32%
+
+- ❌ Valor: ventaja +32% (mín. 15% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🐉 no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 11.752 partidos)  
+Mapa: Team Spirit Academy 40% · Serie BO3: Team Spirit Academy 62% - 38% Inner Circle x Insanity  
+Casas: Team Spirit Academy 34% · Inner Circle x Insanity 66%  
+🔎 **Claves**  
+• Elo: Team Spirit Academy 1685 (127 series) | Inner Circle x Insanity 1777 (146 series)  
+• Forma: Team Spirit Academy ❌✅❌✅✅ | Inner Circle x Insanity ✅✅✅✅❌  
+• H2H: 8: 4-4  
+• Torneo: European Pro League Season 41 (nivel B)  
+• Cambios de plantilla: ninguno  
+• Jugadores en forma (KDA últimas 10 partidas): Team Spirit Academy: 86 6.4, Kiseki 6.0 | Inner Circle x Insanity: Norma 5.7, yowaai 4.5  
+• Química de la plantilla: Team Spirit Academy: 140 partidas juntos de media | Inner Circle x Insanity: 183 partidas juntos de media  
+🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
+• Team Spirit Academy gana 2-1: 16% → cuota justa 6.12 · casa 16%  
+• Inner Circle x Insanity gana 2-1: 24% → cuota justa 4.11 · casa 26%  
 
 ## Xipto Esports vs angry birds — 13/11 · 11:00
 
