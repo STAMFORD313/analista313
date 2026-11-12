@@ -65167,14 +65167,14 @@ id,tournament_id,club1,club2,ht1,ht2
 2375464,261745,Newcastle,Brighton,,
 2375465,261745,Aston Villa,Newcastle,,
 2375466,261745,Nottm Forest,Man Utd,,
-2376415,261727,Monaco,Marseille,1,0
-2376416,261727,Paris,Lyon,0,2
-2376417,261727,Lyon,Monaco,1,1
-2376418,261727,Marseille,Nice,0,1
-2376419,261727,Nice,Lyon,3,0
-2376420,261727,Monaco,Paris,1,2
-2376421,261727,Paris,Nice,2,1
-2376422,261727,Lyon,Marseille,2,3
+2376415,261727,Monaco,Marseille,1.0,0.0
+2376416,261727,Paris,Lyon,0.0,2.0
+2376417,261727,Lyon,Monaco,1.0,1.0
+2376418,261727,Marseille,Nice,0.0,1.0
+2376419,261727,Nice,Lyon,3.0,0.0
+2376420,261727,Monaco,Paris,1.0,2.0
+2376421,261727,Paris,Nice,2.0,1.0
+2376422,261727,Lyon,Marseille,2.0,3.0
 2376423,261727,Marseille,Paris,,
 2376424,261727,Nice,Monaco,,
 2376425,261727,Marseille,Monaco,,
@@ -65187,12 +65187,12 @@ id,tournament_id,club1,club2,ht1,ht2
 2376432,261727,Marseille,Lyon,,
 2376433,261727,Paris,Marseille,,
 2376434,261727,Monaco,Nice,,
-2375547,261747,Juventus,Bologna,3,0
-2375548,261747,Napoli,Roma,2,1
-2375549,261747,Roma,Juventus,1,1
-2375550,261747,Bologna,Sassuolo,3,2
-2375551,261747,Sassuolo,Roma,0,0
-2375552,261747,Juventus,Napoli,1,2
+2375547,261747,Juventus,Bologna,3.0,0.0
+2375548,261747,Napoli,Roma,2.0,1.0
+2375549,261747,Roma,Juventus,1.0,1.0
+2375550,261747,Bologna,Sassuolo,3.0,2.0
+2375551,261747,Sassuolo,Roma,0.0,0.0
+2375552,261747,Juventus,Napoli,1.0,2.0
 2375553,261747,Napoli,Sassuolo,,
 2375554,261747,Roma,Bologna,,
 2375555,261747,Bologna,Napoli,,
@@ -65207,3 +65207,41 @@ id,tournament_id,club1,club2,ht1,ht2
 2375564,261747,Bologna,Roma,,
 2375565,261747,Napoli,Bologna,,
 2375566,261747,Juventus,Sassuolo,,
+2376976,261765,Al Ittihad,Gangwon FC,2,1
+2376977,261765,FC Seoul,Al Ahli,2,2
+2376978,261765,FC Seoul,Al Ittihad,1,2
+2376979,261765,Al Ahli,Gangwon FC,0,3
+2376980,261765,Gangwon FC,FC Seoul,0,2
+2376981,261765,Al Ahli,Al Ittihad,2,3
+2376982,261765,Al Ittihad,Gangwon FC,,
+2376984,261765,FC Seoul,Al Ahli,,
+2376986,261765,FC Seoul,Al Ittihad,,
+2375638,261765,Al Ahli,Gangwon FC,,
+2376994,261765,Gangwon FC,FC Seoul,,
+2376995,261765,Al Ahli,Al Ittihad,,
+2376996,261765,Al Ittihad,Gangwon FC,,
+2376997,261765,FC Seoul,Al Ahli,,
+2376998,261765,FC Seoul,Al Ittihad,,
+2376999,261765,Al Ahli,Gangwon FC,,
+2377001,261765,Gangwon FC,FC Seoul,,
+2377004,261765,Al Ahli,Al Ittihad,,
+2376247,261779,Middlesbrough,Wolves,1,1
+2376248,261779,West Ham,Burnley,1,3
+2376249,261779,Burnley,Middlesbrough,1,0
+2376250,261779,Wolves,Southampton,3,0
+2376251,261779,Southampton,Burnley,1,3
+2376252,261779,Middlesbrough,West Ham,0,2
+2376253,261779,West Ham,Southampton,2,0
+2376254,261779,Burnley,Wolves,1,0
+2376255,261779,Wolves,West Ham,,
+2376256,261779,Southampton,Middlesbrough,,
+2376257,261779,Wolves,Middlesbrough,,
+2376258,261779,Burnley,West Ham,,
+2376259,261779,Middlesbrough,Burnley,,
+2376260,261779,Southampton,Wolves,,
+2376261,261779,Burnley,Southampton,,
+2376262,261779,West Ham,Middlesbrough,,
+2376263,261779,Southampton,West Ham,,
+2376264,261779,Wolves,Burnley,,
+2376265,261779,West Ham,Wolves,,
+2376266,261779,Middlesbrough,Southampton,,
