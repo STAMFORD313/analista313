@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 12/11/2026 04:11 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 12/11/2026 04:41 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Alliance vs Four Magic — 12/11 · 15:00
 

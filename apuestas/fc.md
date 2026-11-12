@@ -1,41 +1,42 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 12/11/2026 04:11 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 12/11/2026 04:41 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## Kray vs Inquisitor — 12/11 · 04:16
+## Dov1n vs Noltzer — 12/11 · 04:44
 
-👀 candidata · 🎮⚽ FC 27 · Champions League A · **Gana Kray** @ **2.48** (Unibet) · prob 43% vs casas 35% · ventaja +6%
+👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana Noltzer** @ **2.90** (Unibet) · prob 38% vs casas 30% · ventaja +10%
 
-- ❌ Valor: ventaja +6% (mín. 10% con la incertidumbre, máx. 30%)
+- ❌ Valor: ventaja +10% (mín. 11% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 64.915 partidos)  
-Goles esperados: Kray 2.59 · Inquisitor 2.50  
-Ganador: Kray 43% · empate 21% · Inquisitor 36%  
-Total: más de 5.5 goles 40% · menos 60%  
-Hándicap Kray: −1.5 26% · −2.5 14%  
+📊 **Escenarios** (Poisson por jugador, 64.931 partidos)  
+Goles esperados: Dov1n 3.25 · Noltzer 3.12  
+Ganador: Dov1n 43% · empate 19% · Noltzer 38%  
+Total: más de 6.5 goles 45% · menos 55%  
+Hándicap Dov1n: −1.5 29% · −2.5 17%  
 🔎 **Claves**  
-• Forma: Kray ➖➖❌✅✅ | Inquisitor ✅➖✅✅❌  
-• Partidos: Kray 668 | Inquisitor 669  
-• Liga: Champions League A  
-• Unibet: 1 2.48 · X 4.00 · 2 2.02 (sin margen 35%/22%/43%) · ventaja +6%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.48 (+6%) · Paf España 2.48 (+6%)  
+• Forma: Dov1n ❌✅✅❌✅ | Noltzer ✅❌✅❌❌  
+• Partidos: Dov1n 1103 | Noltzer 25  
+• Liga: Champions League B  
+• Unibet: 1 1.68 · X 4.90 · 2 2.90 (sin margen 52%/18%/30%) · ventaja +10%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.90 (+10%) · Paf España 2.90 (+10%)  
 
-## ssstasonn vs believer — 12/11 · 04:35
+## Kavviro vs believer — 12/11 · 04:59
 
-👀 candidata · 🎮⚽ FC 27 · Club World Cup · **Gana believer** @ **1.13** (cuota justa (sin casa)) · prob 89% vs casas 89% · ventaja +0%
+👀 candidata · 🎮⚽ FC 27 · Club World Cup · **Gana Kavviro** @ **2.75** (Unibet) · prob 40% vs casas 32% · ventaja +9%
 
-- ❌ Valor: ventaja +0% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+- ❌ Valor: ventaja +9% (mín. 11% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 64.849 partidos)  
-Goles esperados: ssstasonn 1.88 · believer 5.17  
-Ganador: ssstasonn 4% · empate 7% · believer 89%  
-Total: más de 7.5 goles 41% · menos 59%  
-Hándicap believer: −1.5 75% · −2.5 61%  
+📊 **Escenarios** (Poisson por jugador, 64.931 partidos)  
+Goles esperados: Kavviro 2.52 · believer 2.41  
+Ganador: Kavviro 40% · empate 22% · believer 38%  
+Total: más de 4.5 goles 55% · menos 45%  
+Hándicap Kavviro: −1.5 26% · −2.5 13%  
 🔎 **Claves**  
-• Forma: ssstasonn ❌❌❌❌❌ | believer ✅➖✅✅❌  
-• Partidos: ssstasonn 1016 | believer 1063  
+• Forma: Kavviro ✅✅➖✅➖ | believer ✅✅➖➖✅  
+• Partidos: Kavviro 874 | believer 1069  
 • Liga: Club World Cup  
-• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
+• Unibet: 1 2.75 · X 3.85 · 2 1.90 (sin margen 32%/23%/46%) · ventaja +9%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.75 (+9%) · Paf España 2.75 (+9%)  
 
