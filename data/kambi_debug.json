@@ -1,12 +1,12 @@
 {
  "nba": {
-  "kambi": 10,
+  "kambi": 8,
   "ejemplo_kambi": [
-   "Utah Jazz vs Orlando Magic 2026-11-12 02:11:00+00:00",
-   "Houston Rockets vs Golden State Warriors 2026-11-12 02:42:00+00:00",
-   "Portland Trail Blazers vs Oklahoma City Thunder 2026-11-12 03:11:00+00:00"
+   "Philadelphia 76ers vs Toronto Raptors 2026-11-13 00:00:00+00:00",
+   "Washington Wizards vs Detroit Pistons 2026-11-13 00:00:00+00:00",
+   "Minnesota Timberwolves vs Dallas Mavericks 2026-11-13 01:00:00+00:00"
   ],
-  "buscado": "Philadelphia 76ers vs Toronto Raptors 2026-11-13T00:00Z",
-  "hora": "2026-11-12 04:07"
+  "buscado": "Orlando Magic vs Milwaukee Bucks 2026-11-14T00:00Z",
+  "hora": "2026-11-12 12:17"
  }
 }

@@ -1,25 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 12/11/2026 12:51 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Jekunam vs Artrom — 12/11 · 12:54
-
-👀 candidata · 🎮⚽ FC 27 · Bundesliga · **Empate** @ **5.20** (Unibet) · prob 22% vs casas 17% · ventaja +14%
-
-- ✅ Valor: ventaja +14% (mín. 12% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 65.341 partidos)  
-Goles esperados: Jekunam 2.51 · Artrom 1.87  
-Ganador: Jekunam 54% · empate 22% · Artrom 24%  
-Total: más de 4.5 goles 44% · menos 56%  
-Hándicap Jekunam: −1.5 33% · −2.5 18%  
-🔎 **Claves**  
-• Forma: Jekunam ❌➖✅✅❌ | Artrom ✅➖❌❌❌  
-• Partidos: Jekunam 1105 | Artrom 637  
-• Liga: Bundesliga  
-• Unibet: 1 1.77 · X 5.20 · 2 2.63 (sin margen 50%/17%/33%) · ventaja +14%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 5.20 (+14%) · Paf España 5.20 (+14%)  
+Actualizado 12/11/2026 13:22 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Uncle vs mko1919 — 12/11 · 13:25
 
@@ -39,4 +20,23 @@ Hándicap Uncle: −1.5 39% · −2.5 24%
 • Liga: Champions League B  
 • Unibet: 1 1.84 · X 3.60 · 2 3.05 (sin margen 47%/24%/29%) · ventaja +11%. Sin stake hasta demostrar ROI con estas cuotas.  
 • En España: LeoVegas España 1.84 (+11%) · Paf España 1.84 (+11%)  
+
+## TikitakaMaster vs v1nniePuh — 12/11 · 13:44
+
+👀 candidata · 🎮⚽ FC 27 · Champions League A 2x6 · **Empate** @ **8.50** (Unibet) · prob 15% vs casas 10% · ventaja +24%
+
+- ✅ Valor: ventaja +24% (mín. 14% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 65.366 partidos)  
+Goles esperados: TikitakaMaster 4.85 · v1nniePuh 4.03  
+Ganador: TikitakaMaster 57% · empate 15% · v1nniePuh 28%  
+Total: más de 8.5 goles 53% · menos 47%  
+Hándicap TikitakaMaster: −1.5 41% · −2.5 28%  
+🔎 **Claves**  
+• Forma: TikitakaMaster ❌✅❌❌➖ | v1nniePuh ✅❌✅❌❌  
+• Partidos: TikitakaMaster 692 | v1nniePuh 693  
+• Liga: Champions League A 2x6  
+• Unibet: 1 1.40 · X 8.50 · 2 3.20 (sin margen 62%/10%/27%) · ventaja +24%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 8.50 (+24%) · Paf España 8.50 (+24%)  
 
