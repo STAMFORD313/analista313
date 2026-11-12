@@ -1,43 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 12/11/2026 02:14 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## ssstasonn vs believer — 12/11 · 02:15
-
-👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana believer** @ **1.13** (cuota justa (sin casa)) · prob 88% vs casas 88% · ventaja +0%
-
-- ❌ Valor: ventaja +0% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 64.788 partidos)  
-Goles esperados: ssstasonn 1.91 · believer 5.09  
-Ganador: ssstasonn 4% · empate 7% · believer 89%  
-Total: más de 6.5 goles 55% · menos 45%  
-Hándicap believer: −1.5 73% · −2.5 59%  
-🔎 **Claves**  
-• Forma: ssstasonn ❌❌✅❌✅ | believer ➖✅✅✅✅  
-• Partidos: ssstasonn 1011 | believer 1057  
-• Liga: Champions League B  
-• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
-
-## Kavviro vs believer — 12/11 · 02:39
-
-👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana Kavviro** @ **2.75** (Unibet) · prob 40% vs casas 32% · ventaja +11%
-
-- ✅ Valor: ventaja +11% (mín. 11% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 64.835 partidos)  
-Goles esperados: Kavviro 2.47 · believer 2.40  
-Ganador: Kavviro 41% · empate 22% · believer 37%  
-Total: más de 4.5 goles 54% · menos 46%  
-Hándicap Kavviro: −1.5 25% · −2.5 13%  
-🔎 **Claves**  
-• Forma: Kavviro ➖✅➖✅✅ | believer ✅✅✅➖✅  
-• Partidos: Kavviro 866 | believer 1061  
-• Liga: Champions League B  
-• Unibet: 1 2.75 · X 3.90 · 2 1.89 (sin margen 32%/22%/46%) · ventaja +11%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.75 (+11%) · Paf España 2.75 (+11%)  
+Actualizado 12/11/2026 02:41 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Dov1n vs vivienne — 12/11 · 02:48
 
@@ -92,5 +55,41 @@ Hándicap believer: −1.5 64% · −2.5 47%
 • Forma: believer ➖✅✅✅✅ | kkikus ✅❌❌❌❌  
 • Partidos: believer 1057 | kkikus 1006  
 • Liga: Champions League B  
+• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
+
+## believer vs ssstasonn — 12/11 · 03:15
+
+👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana believer** @ **1.12** (cuota justa (sin casa)) · prob 89% vs casas 89% · ventaja +0%
+
+- ❌ Valor: ventaja +0% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 64.849 partidos)  
+Goles esperados: believer 5.20 · ssstasonn 1.89  
+Ganador: believer 89% · empate 7% · ssstasonn 4%  
+Total: más de 7.5 goles 41% · menos 59%  
+Hándicap believer: −1.5 75% · −2.5 61%  
+🔎 **Claves**  
+• Forma: believer ✅➖✅✅❌ | ssstasonn ❌❌❌❌❌  
+• Partidos: believer 1063 | ssstasonn 1016  
+• Liga: Champions League B  
+• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
+
+## ssstasonn vs believer — 12/11 · 04:35
+
+👀 candidata · 🎮⚽ FC 27 · Club World Cup · **Gana believer** @ **1.13** (cuota justa (sin casa)) · prob 89% vs casas 89% · ventaja +0%
+
+- ❌ Valor: ventaja +0% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 64.849 partidos)  
+Goles esperados: ssstasonn 1.88 · believer 5.17  
+Ganador: ssstasonn 4% · empate 7% · believer 89%  
+Total: más de 7.5 goles 41% · menos 59%  
+Hándicap believer: −1.5 75% · −2.5 61%  
+🔎 **Claves**  
+• Forma: ssstasonn ❌❌❌❌❌ | believer ✅➖✅✅❌  
+• Partidos: ssstasonn 1016 | believer 1063  
+• Liga: Club World Cup  
 • Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
 
