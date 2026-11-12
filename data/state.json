@@ -1375,9 +1375,6 @@
   "cbb|2026-11-15|Santa Clara Broncos|New Mexico Lobos",
   "cbb|2026-11-15|Seattle U Redhawks|Idaho State Bengals",
   "cbb|2026-11-15|Nevada Wolf Pack|Utah Valley Wolverines",
-  "cs2|133187",
-  "fc|2367922",
-  "fc|2368059",
   "fc|2367269",
   "fc|2368064",
   "fc|2367925",
@@ -2377,7 +2374,11 @@
   "fc|2375552",
   "fc|2376978",
   "fc|2375551",
-  "fc|2376775"
+  "fc|2376775",
+  "cs2|133198",
+  "fc|2376984",
+  "fc|2376777",
+  "fc|2376425"
  ],
  "signals": [
   {
@@ -4446,31 +4447,6 @@
     "modelo": null
    },
    "placed": false
-  },
-  {
-   "market": "A",
-   "pick": "Bomb1to",
-   "odds": 2.02,
-   "book": "Unibet",
-   "implied": 0.43,
-   "edge": 0.244,
-   "sin_stake": true,
-   "p": 0.616,
-   "key": "fc|2371070",
-   "match": "mko1919 vs Bomb1to",
-   "start": "2026-11-09T08:19:00+00:00",
-   "league": "🎮⚽ FC 27 · Serie A",
-   "sport": "🎮⚽",
-   "context": "EA FC Esoccer Battle mko1919 vs Bomb1to (Serie A): goles esperados 2.79-3.81, 1X2 22%/16%/62%. Sin cuotas de casa.",
-   "captured": "2026-11-09T07:51",
-   "version": "f5e2e08",
-   "bajas": "",
-   "considered": true,
-   "placed": false,
-   "score": "3-3",
-   "result": false,
-   "close_p": null,
-   "logged": true
   },
   {
    "market": "t2",
@@ -21034,7 +21010,11 @@
    "version": "539f6ed",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "3-0",
+   "result": false,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "H",
@@ -21050,20 +21030,6 @@
    "start": "2026-11-12T08:19:00+00:00",
    "league": "🎮⚽ FC 27 · Serie A",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 65.127 partidos)",
-    "Goles esperados: Uncle 2.48 · d1pseN 2.46",
-    "Ganador: Uncle 38% · empate 22% · d1pseN 40%",
-    "Total: más de 4.5 goles 55% · menos 45%",
-    "Hándicap Uncle: −1.5 25% · −2.5 13%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Uncle ✅✅➖✅❌ | d1pseN ✅❌➖✅❌",
-    "• Partidos: Uncle 776 | d1pseN 296",
-    "• Liga: Serie A",
-    "• Unibet: 1 2.80 · X 2.50 · 2 2.50 (sin margen 31%/35%/35%) · ventaja +7%. Sin stake hasta demostrar ROI con estas cuotas.",
-    "• En España: LeoVegas España 2.80 (+7%) · Paf España 2.80 (+7%)"
-   ],
    "context": "EA FC Esoccer Battle Uncle vs d1pseN (Serie A): goles esperados 2.48-2.46, 1X2 38%/22%/40%. Sin cuotas de casa.",
    "captured": "2026-11-12T07:43",
    "version": "539f6ed",
@@ -21115,20 +21081,6 @@
    "start": "2026-11-12T08:22:00+00:00",
    "league": "🎮⚽ FC 27 · Champions League AFC",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 65.151 partidos)",
-    "Goles esperados: Jekunam 2.09 · DaVa 3.02",
-    "Ganador: Jekunam 22% · empate 19% · DaVa 59%",
-    "Total: más de 5.5 goles 40% · menos 60%",
-    "Hándicap DaVa: −1.5 39% · −2.5 24%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Jekunam ❌✅❌❌✅ | DaVa ✅❌✅✅✅",
-    "• Partidos: Jekunam 1091 | DaVa 1228",
-    "• Liga: Champions League AFC",
-    "• Unibet: 1 2.85 · X 3.50 · 2 1.96 (sin margen 31%/25%/44%) · ventaja +15%. Sin stake hasta demostrar ROI con estas cuotas.",
-    "• En España: LeoVegas España 1.96 (+15%) · Paf España 1.96 (+15%)"
-   ],
    "context": "EA FC Esoccer Battle Jekunam vs DaVa (Champions League AFC): goles esperados 2.09-3.02, 1X2 22%/19%/59%. Sin cuotas de casa.",
    "captured": "2026-11-12T08:11",
    "version": "1877dfa",
