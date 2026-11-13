@@ -1,61 +1,61 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 13/11/2026 11:34 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 13/11/2026 12:02 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## flamez vs Frantsuz — 13/11 · 11:36
+## Smetana vs spirtes — 13/11 · 12:08
 
-👀 candidata · 🎮⚽ FC 27 · Champions League A 2x6 · **Gana flamez** @ **2.43** (Unibet) · prob 45% vs casas 36% · ventaja +10%
+👀 candidata · 🎮⚽ FC 27 · CSL · **Gana Smetana** @ **1.47** (Unibet) · prob 77% vs casas 59% · ventaja +13%
 
-- ❌ Valor: ventaja +10% (mín. 11% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+- ✅ Valor: ventaja +13% (mín. 12% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 66.445 partidos)  
-Goles esperados: flamez 4.99 · Frantsuz 4.85  
-Ganador: flamez 45% · empate 14% · Frantsuz 40%  
-Total: más de 9.5 goles 52% · menos 48%  
-Hándicap flamez: −1.5 33% · −2.5 22%  
+📊 **Escenarios** (Poisson por jugador, 66.473 partidos)  
+Goles esperados: Smetana 4.55 · spirtes 2.48  
+Ganador: Smetana 77% · empate 12% · spirtes 12%  
+Total: más de 7.5 goles 41% · menos 59%  
+Hándicap Smetana: −1.5 58% · −2.5 43%  
 🔎 **Claves**  
-• Forma: flamez ✅✅❌✅✅ | Frantsuz ➖❌✅✅❌  
-• Partidos: flamez 769 | Frantsuz 652  
-• Liga: Champions League A 2x6  
-• Unibet: 1 2.43 · X 3.85 · 2 2.10 (sin margen 36%/23%/41%) · ventaja +10%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.43 (+10%) · Paf España 2.43 (+10%)  
+• Forma: Smetana ❌❌❌✅✅ | spirtes ➖✅✅✅✅  
+• Partidos: Smetana 1242 | spirtes 1154  
+• Liga: CSL  
+• Unibet: 1 1.47 · X 5.10 · 2 3.60 (sin margen 59%/17%/24%) · ventaja +13%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 1.47 (+13%) · Paf España 1.47 (+13%)  
 
-## Taz vs Lumix — 13/11 · 11:36
+## dm1trena vs MeLToSik — 13/11 · 12:18
 
-👀 candidata · 🎮⚽ FC 27 · World Cup A · **Gana Taz** @ **2.60** (Unibet) · prob 42% vs casas 33% · ventaja +9%
-
-- ❌ Valor: ventaja +9% (mín. 11% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 66.445 partidos)  
-Goles esperados: Taz 3.04 · Lumix 2.97  
-Ganador: Taz 42% · empate 19% · Lumix 39%  
-Total: más de 6.5 goles 40% · menos 60%  
-Hándicap Taz: −1.5 27% · −2.5 16%  
-🔎 **Claves**  
-• Forma: Taz ❌✅➖✅❌ | Lumix ➖✅➖✅❌  
-• Partidos: Taz 1038 | Lumix 1066  
-• Liga: World Cup A  
-• Unibet: 1 2.60 · X 3.10 · 2 2.25 (sin margen 33%/28%/39%) · ventaja +9%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.60 (+9%) · Paf España 2.60 (+9%)  
-
-## dm1trena vs Jekunam — 13/11 · 11:42
-
-👀 candidata · 🎮⚽ FC 27 · Bundesliga · **Gana Jekunam** @ **2.50** (Unibet) · prob 46% vs casas 35% · ventaja +16%
+👀 candidata · 🎮⚽ FC 27 · Bundesliga · **Gana MeLToSik** @ **2.80** (Unibet) · prob 41% vs casas 31% · ventaja +16%
 
 - ✅ Valor: ventaja +16% (mín. 12% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 66.445 partidos)  
-Goles esperados: dm1trena 2.28 · Jekunam 2.57  
-Ganador: dm1trena 32% · empate 22% · Jekunam 46%  
-Total: más de 4.5 goles 53% · menos 47%  
-Hándicap Jekunam: −1.5 28% · −2.5 15%  
+📊 **Escenarios** (Poisson por jugador, 66.473 partidos)  
+Goles esperados: dm1trena 2.12 · MeLToSik 2.34  
+Ganador: dm1trena 36% · empate 23% · MeLToSik 41%  
+Total: más de 4.5 goles 46% · menos 54%  
+Hándicap MeLToSik: −1.5 26% · −2.5 13%  
 🔎 **Claves**  
-• Forma: dm1trena ➖❌❌➖❌ | Jekunam ➖✅❌❌✅  
-• Partidos: dm1trena 1117 | Jekunam 1134  
+• Forma: dm1trena ❌➖❌❌❌ | MeLToSik ❌❌✅✅✅  
+• Partidos: dm1trena 1119 | MeLToSik 1242  
 • Liga: Bundesliga  
-• Unibet: 1 2.80 · X 2.50 · 2 2.50 (sin margen 31%/35%/35%) · ventaja +16%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.50 (+16%) · Paf España 2.50 (+16%)  
+• Unibet: 1 2.17 · X 3.00 · 2 2.80 (sin margen 40%/29%/31%) · ventaja +16%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.80 (+16%) · Paf España 2.80 (+16%)  
+
+## Bomb1to vs Wboy — 13/11 · 12:27
+
+👀 candidata · 🎮⚽ FC 27 · World Cup B · **Gana Wboy** @ **3.10** (Unibet) · prob 37% vs casas 28% · ventaja +16%
+
+- ✅ Valor: ventaja +16% (mín. 12% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 66.473 partidos)  
+Goles esperados: Bomb1to 3.75 · Wboy 3.57  
+Ganador: Bomb1to 45% · empate 17% · Wboy 37%  
+Total: más de 7.5 goles 45% · menos 55%  
+Hándicap Bomb1to: −1.5 31% · −2.5 19%  
+🔎 **Claves**  
+• Forma: Bomb1to ❌❌✅✅✅ | Wboy ❌✅✅❌❌  
+• Partidos: Bomb1to 1335 | Wboy 1175  
+• Liga: World Cup B  
+• Unibet: 1 1.74 · X 4.00 · 2 3.10 (sin margen 50%/22%/28%) · ventaja +16%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 3.10 (+16%) · Paf España 3.10 (+16%)  
 

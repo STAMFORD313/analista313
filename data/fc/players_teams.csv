@@ -66469,3 +66469,81 @@ id,tournament_id,club1,club2,ht1,ht2
 2377844,261860,Liverpool,Atleti,,
 2377845,261860,Paris,Liverpool,,
 2377846,261860,Real Madrid,Bayern Munchen,,
+2377127,261814,Salzburg,Roma,1,3
+2377128,261814,Aston Villa,Porto,2,1
+2377129,261814,Porto,Salzburg,2,2
+2377130,261814,Roma,Fenerbahce,1,2
+2377131,261814,Fenerbahce,Porto,2,4
+2377132,261814,Salzburg,Aston Villa,2,6
+2377133,261814,Aston Villa,Fenerbahce,3,2
+2377134,261814,Porto,Roma,1,0
+2377135,261814,Roma,Aston Villa,2,0
+2377136,261814,Fenerbahce,Salzburg,3,2
+2377137,261814,Roma,Salzburg,,
+2377138,261814,Porto,Aston Villa,,
+2377139,261814,Salzburg,Porto,,
+2377140,261814,Fenerbahce,Roma,,
+2377141,261814,Porto,Fenerbahce,,
+2377142,261814,Aston Villa,Salzburg,,
+2377143,261814,Fenerbahce,Aston Villa,,
+2377144,261814,Roma,Porto,,
+2377145,261814,Aston Villa,Roma,,
+2377146,261814,Salzburg,Fenerbahce,,
+2377203,261824,Netherlands,Morocco,0,1
+2377204,261824,Germany,Belgium,3,0
+2377205,261824,Germany,Netherlands,0,1
+2377206,261824,Belgium,Morocco,3,3
+2377207,261824,Morocco,Germany,3,0
+2377208,261824,Belgium,Netherlands,3,2
+2377209,261824,Netherlands,Morocco,3,0
+2377210,261824,Germany,Belgium,1,1
+2377211,261824,Germany,Netherlands,,
+2377212,261824,Belgium,Morocco,,
+2377213,261824,Morocco,Germany,,
+2377214,261824,Belgium,Netherlands,,
+2377215,261824,Netherlands,Morocco,,
+2377216,261824,Germany,Belgium,,
+2377217,261824,Germany,Netherlands,,
+2377218,261824,Belgium,Morocco,,
+2377219,261824,Morocco,Germany,,
+2377220,261824,Belgium,Netherlands,,
+2377707,261847,Chengdu Rongcheng,Shanghai Shenhua,0,0
+2377708,261847,Shandong Taishan,Shanghai Port,1,1
+2377709,261847,Shanghai Port,Chengdu Rongcheng,3,1
+2377710,261847,Shanghai Shenhua,Beijing Guoan,3,2
+2377711,261847,Beijing Guoan,Shanghai Port,2,1
+2377712,261847,Chengdu Rongcheng,Shandong Taishan,0,3
+2377713,261847,Shandong Taishan,Beijing Guoan,2,1
+2377714,261847,Shanghai Port,Shanghai Shenhua,1,1
+2377715,261847,Shanghai Shenhua,Shandong Taishan,,
+2377716,261847,Beijing Guoan,Chengdu Rongcheng,,
+2377717,261847,Shanghai Shenhua,Chengdu Rongcheng,,
+2377718,261847,Shanghai Port,Shandong Taishan,,
+2377719,261847,Chengdu Rongcheng,Shanghai Port,,
+2377720,261847,Beijing Guoan,Shanghai Shenhua,,
+2377721,261847,Shanghai Port,Beijing Guoan,,
+2377722,261847,Shandong Taishan,Chengdu Rongcheng,,
+2377723,261847,Beijing Guoan,Shandong Taishan,,
+2377724,261847,Shanghai Shenhua,Shanghai Port,,
+2377725,261847,Shandong Taishan,Shanghai Shenhua,,
+2377726,261847,Chengdu Rongcheng,Beijing Guoan,,
+2377897,261872,France,England,0,2
+2377898,261872,Spain,Brazil,2,2
+2377899,261872,Brazil,France,2,0
+2377900,261872,England,Argentina,2,1
+2377901,261872,Argentina,Brazil,1,2
+2377902,261872,France,Spain,0,1
+2377903,261872,Spain,Argentina,0,2
+2377904,261872,Brazil,England,1,0
+2377905,261872,England,Spain,1,1
+2377906,261872,Argentina,France,1,1
+2377907,261872,England,France,,
+2377908,261872,Brazil,Spain,,
+2377909,261872,France,Brazil,,
+2377910,261872,Argentina,England,,
+2377911,261872,Brazil,Argentina,,
+2377912,261872,Spain,France,,
+2377913,261872,Argentina,Spain,,
+2377914,261872,England,Brazil,,
+2377915,261872,Spain,England,,
+2377916,261872,France,Argentina,,
