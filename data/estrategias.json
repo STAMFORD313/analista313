@@ -1,5 +1,5 @@
 {
- "fecha": "2026-11-13 20:03",
+ "fecha": "2026-11-13 20:18",
  "n": 2983,
  "rentables": [
   {
@@ -211,17 +211,6 @@
    "clv": -0.0413,
    "clv_se": 0.0107,
    "clv_n": 47
-  },
-  {
-   "segmento": "mercado=1X2 · cuota=>2.5",
-   "n": 778,
-   "roi": -0.1922,
-   "se": 0.0619,
-   "roi_antigua": -0.2001,
-   "roi_nueva": -0.1857,
-   "clv": 0.0428,
-   "clv_se": 0.013,
-   "clv_n": 77
   },
   {
    "segmento": "mercado=ganador · ventaja=<0",
