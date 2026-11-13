@@ -1,42 +1,61 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 13/11/2026 05:10 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 13/11/2026 05:39 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## Kavviro vs believer — 13/11 · 05:11
+## Vanste vs Joop — 13/11 · 05:56
 
-👀 candidata · 🎮⚽ FC 27 · Club World Cup · **Gana Kavviro** @ **2.63** (Unibet) · prob 43% vs casas 33% · ventaja +14%
+👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana Joop** @ **3.00** (Unibet) · prob 38% vs casas 29% · ventaja +15%
 
-- ✅ Valor: ventaja +14% (mín. 12% con la incertidumbre, máx. 30%)
+- ✅ Valor: ventaja +15% (mín. 12% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 66.117 partidos)  
-Goles esperados: Kavviro 2.38 · believer 2.22  
-Ganador: Kavviro 43% · empate 22% · believer 34%  
-Total: más de 4.5 goles 49% · menos 51%  
-Hándicap Kavviro: −1.5 26% · −2.5 13%  
+📊 **Escenarios** (Poisson por jugador, 66.161 partidos)  
+Goles esperados: Vanste 2.63 · Joop 2.55  
+Ganador: Vanste 41% · empate 21% · Joop 38%  
+Total: más de 5.5 goles 41% · menos 59%  
+Hándicap Vanste: −1.5 26% · −2.5 14%  
 🔎 **Claves**  
-• Forma: Kavviro ➖✅➖✅✅ | believer ❌✅➖❌❌  
-• Partidos: Kavviro 906 | believer 1101  
+• Forma: Vanste ❌✅✅✅✅ | Joop ✅✅❌✅✅  
+• Partidos: Vanste 148 | Joop 157  
+• Liga: Champions League B  
+• Unibet: 1 1.73 · X 4.30 · 2 3.00 (sin margen 51%/20%/29%) · ventaja +15%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 3.00 (+15%) · Paf España 3.00 (+15%)  
+
+## believer vs Kavviro — 13/11 · 06:11
+
+👀 candidata · 🎮⚽ FC 27 · Club World Cup · **Gana Kavviro** @ **2.55** (Unibet) · prob 46% vs casas 34% · ventaja +16%
+
+- ✅ Valor: ventaja +16% (mín. 12% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 66.161 partidos)  
+Goles esperados: believer 2.20 · Kavviro 2.46  
+Ganador: believer 32% · empate 22% · Kavviro 46%  
+Total: más de 4.5 goles 50% · menos 50%  
+Hándicap Kavviro: −1.5 28% · −2.5 14%  
+🔎 **Claves**  
+• Forma: believer ❌➖❌❌✅ | Kavviro ✅❌➖✅✅  
+• Partidos: believer 1105 | Kavviro 910  
 • Liga: Club World Cup  
-• Unibet: 1 2.63 · X 3.60 · 2 2.04 (sin margen 33%/24%/43%) · ventaja +14%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.63 (+14%) · Paf España 2.63 (+14%)  
+• Unibet: 1 2.14 · X 3.45 · 2 2.55 (sin margen 41%/25%/34%) · ventaja +16%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.55 (+16%) · Paf España 2.55 (+16%)  
 
-## zaha vs Kosta — 13/11 · 05:14
+## TikitakaMaster vs Frantsuz — 13/11 · 06:18
 
-👀 candidata · 🎮⚽ FC 27 · LaLiga 2x6 · **Gana zaha** @ **1.23** (Unibet) · prob 88% vs casas 71% · ventaja +8%
+👀 candidata · 🎮⚽ FC 27 · Premier League 2x6 · **Gana Frantsuz** @ **3.55** (Unibet) · prob 34% vs casas 24% · ventaja +22%
 
-- ❌ Valor: ventaja +8% (mín. 10% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+- ✅ Valor: ventaja +22% (mín. 14% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 66.138 partidos)  
-Goles esperados: zaha 7.31 · Kosta 3.62  
-Ganador: zaha 88% · empate 6% · Kosta 7%  
-Total: más de 10.5 goles 52% · menos 48%  
-Hándicap zaha: −1.5 74% · −2.5 63%  
+📊 **Escenarios** (Poisson por jugador, 66.161 partidos)  
+Goles esperados: TikitakaMaster 4.72 · Frantsuz 4.33  
+Ganador: TikitakaMaster 51% · empate 15% · Frantsuz 34%  
+Total: más de 9.5 goles 42% · menos 58%  
+Hándicap TikitakaMaster: −1.5 35% · −2.5 24%  
 🔎 **Claves**  
-• Forma: zaha ➖✅✅✅✅ | Kosta ❌❌❌❌❌  
-• Partidos: zaha 380 | Kosta 291  
-• Liga: LaLiga 2x6  
-• Unibet: 1 1.23 · X 7.00 · 2 5.10 (sin margen 71%/12%/17%) · ventaja +8%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 1.23 (+8%) · Paf España 1.23 (+8%)  
+• Forma: TikitakaMaster ❌➖✅❌✅ | Frantsuz ➖✅✅➖✅  
+• Partidos: TikitakaMaster 695 | Frantsuz 642  
+• Liga: Premier League 2x6  
+• Unibet: 1 1.40 · X 6.40 · 2 3.55 (sin margen 62%/14%/24%) · ventaja +22%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 3.55 (+22%) · Paf España 3.55 (+22%)  
 
