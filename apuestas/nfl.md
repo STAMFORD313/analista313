@@ -1,37 +1,6 @@
 # 🏈 NFL·NCAA · apuestas de valor
 
-Actualizado 13/11/2026 02:38 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## UL Monroe Warhawks vs Louisiana Ragin' Cajuns — 13/11 · 03:00
-
-👀 candidata · 🏈 NCAA Football · **Más de 49.5 puntos** @ **1.93** (DraftKings) · prob 50% vs casas 50% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 totales» sin pérdidas demostradas
-
-📊 **Escenarios**: total esperado **53.7** puntos · línea 49.5  
-Más 50% · Menos 50%  
-🔎 **Claves**  
-• Forma: UL Monroe Warhawks ❌❌✅❌✅ | Louisiana Ragin' Cajuns ✅❌✅❌✅  
-• H2H: 8 desde 2018: 1-7  
-• Bajas: UL Monroe Warhawks: sin bajas; Louisiana Ragin' Cajuns: sin bajas  
-
-## UL Monroe Warhawks vs Louisiana Ragin' Cajuns — 13/11 · 03:00
-
-👀 candidata · 🏈 NCAA Football · **Gana Louisiana Ragin' Cajuns** @ **1.24** (DraftKings) · prob 77% vs casas 77% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo con 9.518 partidos y bajas)  
-Gana UL Monroe Warhawks 17% · Gana Louisiana Ragin' Cajuns 83%  
-Casas: UL Monroe Warhawks 23% · Louisiana Ragin' Cajuns 77%  
-Hándicap UL -11.5 · Total puntos 49.5  
-🔎 **Claves**  
-• Forma: UL Monroe Warhawks ❌❌✅❌✅ | Louisiana Ragin' Cajuns ✅❌✅❌✅  
-• H2H: 8 desde 2018: 1-7  
-• Bajas: UL Monroe Warhawks: sin bajas; Louisiana Ragin' Cajuns: sin bajas  
-• Favorito de las casas: Louisiana Ragin' Cajuns @ 1.24  
+Actualizado 13/11/2026 03:08 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Pittsburgh Panthers vs Florida State Seminoles — 14/11 · 01:00
 

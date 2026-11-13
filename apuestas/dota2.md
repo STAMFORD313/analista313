@@ -1,6 +1,6 @@
 # 🐉 Dota 2 · apuestas de valor
 
-Actualizado 13/11/2026 02:38 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 13/11/2026 03:08 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Xipto Esports vs angry birds — 13/11 · 11:00
 
@@ -133,4 +133,26 @@ Casas: DO KONCA 71% · Yellow Submarine 29%
 🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
 • DO KONCA gana 2-1: 6% → cuota justa 15.43 · casa 27%  
 • Yellow Submarine gana 2-1: 22% → cuota justa 4.47 · casa 14% ✔ el bot lo ve más probable que la casa  
+
+## Team Liquid vs LEGION — 14/11 · 15:00
+
+👀 candidata · 🐉 Dota 2 · 1win Essence III · **Gana Team Liquid** @ **1.20** (Thunderpick) · prob 76% vs casas 78% · ventaja -9%
+
+- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🐉 favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 11.766 partidos)  
+Mapa: Team Liquid 67% · Serie BO3: Team Liquid 74% - 26% LEGION  
+Casas: Team Liquid 77% · LEGION 23%  
+🔎 **Claves**  
+• Elo: Team Liquid 2027 (379 series) | LEGION 1868 (22 series)  
+• Forma: Team Liquid ❌❌✅✅❌ | LEGION ❌✅✅✅✅  
+• H2H: sin precedentes  
+• Torneo: 1win Essence III (nivel A)  
+• Cambios de plantilla: ninguno  
+• Jugadores en forma (KDA últimas 10 partidas): Team Liquid: Malr1ne 4.2, Wisper 3.3 | LEGION: Copy 4.1, Darklord^ 3.5  
+• Química de la plantilla: Team Liquid: 52 partidas juntos de media | LEGION: 38 partidas juntos de media  
+🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
+• Team Liquid gana 2-1: 25% → cuota justa 4.01 · casa 26%  
+• LEGION gana 2-1: 13% → cuota justa 7.98 · casa 10%  
 

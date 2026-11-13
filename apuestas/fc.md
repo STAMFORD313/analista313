@@ -1,42 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 13/11/2026 02:38 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## fantazer vs Senya — 13/11 · 02:40
-
-👀 candidata · 🎮⚽ FC 27 · Volta International A · **Gana fantazer** @ **1.39** (cuota justa (sin casa)) · prob 72% vs casas 72% · ventaja +0%
-
-- ❌ Valor: ventaja +0% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 65.986 partidos)  
-Goles esperados: fantazer 3.67 · Senya 2.15  
-Ganador: fantazer 72% · empate 15% · Senya 14%  
-Total: más de 5.5 goles 53% · menos 47%  
-Hándicap fantazer: −1.5 50% · −2.5 33%  
-🔎 **Claves**  
-• Forma: fantazer ❌✅✅❌➖ | Senya ✅❌➖❌✅  
-• Partidos: fantazer 1635 | Senya 1561  
-• Liga: Volta International A  
-• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
-
-## nicky vs zaha — 13/11 · 02:50
-
-👀 candidata · 🎮⚽ FC 27 · LaLiga 2x6 · **Gana zaha** @ **1.40** (cuota justa (sin casa)) · prob 71% vs casas 71% · ventaja +0%
-
-- ❌ Valor: ventaja +0% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 65.986 partidos)  
-Goles esperados: nicky 4.44 · zaha 6.45  
-Ganador: nicky 18% · empate 11% · zaha 71%  
-Total: más de 10.5 goles 52% · menos 48%  
-Hándicap zaha: −1.5 56% · −2.5 43%  
-🔎 **Claves**  
-• Forma: nicky ✅✅❌✅➖ | zaha ❌✅✅✅➖  
-• Partidos: nicky 364 | zaha 372  
-• Liga: LaLiga 2x6  
-• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
+Actualizado 13/11/2026 03:08 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Dreamer vs fantazer — 13/11 · 03:16
 
@@ -55,6 +19,44 @@ Hándicap fantazer: −1.5 48% · −2.5 32%
 • Partidos: Dreamer 1640 | fantazer 1635  
 • Liga: Volta International A  
 • Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
+
+## R0ge vs DangerDim77 — 13/11 · 03:16
+
+👀 candidata · 🎮⚽ FC 27 · Champions League A · **Empate** @ **5.10** (Unibet) · prob 21% vs casas 17% · ventaja +7%
+
+- ❌ Valor: ventaja +7% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 66.057 partidos)  
+Goles esperados: R0ge 2.72 · DangerDim77 2.47  
+Ganador: R0ge 41% · empate 21% · DangerDim77 37%  
+Total: más de 5.5 goles 42% · menos 58%  
+Hándicap R0ge: −1.5 29% · −2.5 16%  
+🔎 **Claves**  
+• Forma: R0ge ✅❌✅❌✅ | DangerDim77 ❌❌❌❌❌  
+• Partidos: R0ge 562 | DangerDim77 562  
+• Liga: Champions League A  
+• Unibet: 1 2.23 · X 5.10 · 2 2.00 (sin margen 39%/17%/44%) · ventaja +7%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 5.10 (+7%) · Paf España 5.10 (+7%)  
+
+## mixes vs Vanste — 13/11 · 03:24
+
+👀 candidata · 🎮⚽ FC 27 · World Cup B · **Gana Vanste** @ **2.88** (Unibet) · prob 44% vs casas 30% · ventaja +25%
+
+- ✅ Valor: ventaja +25% (mín. 15% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 66.057 partidos)  
+Goles esperados: mixes 2.52 · Vanste 2.70  
+Ganador: mixes 36% · empate 21% · Vanste 43%  
+Total: más de 5.5 goles 42% · menos 58%  
+Hándicap Vanste: −1.5 27% · −2.5 15%  
+🔎 **Claves**  
+• Forma: mixes ❌✅❌❌❌ | Vanste ❌✅✅❌➖  
+• Partidos: mixes 115 | Vanste 140  
+• Liga: World Cup B  
+• Unibet: 1 1.77 · X 4.30 · 2 2.88 (sin margen 49%/20%/30%) · ventaja +25%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.88 (+25%) · Paf España 2.88 (+25%)  
 
 ## Kosta vs zaha — 13/11 · 04:20
 
