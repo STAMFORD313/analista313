@@ -1,32 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 13/11/2026 16:37 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Galorys vs RED Canids Academy — 13/11 · 17:00
-
-👀 candidata · 🎮 CS2 · CCT South America 2026 Series 8 · **Gana RED Canids Academy** @ **3.50** (Thunderpick) · prob 31% vs casas 26% · ventaja +8%
-
-- ❌ Valor: ventaja +8% (mín. 9% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 76.736 partidos)  
-Mapa: Galorys 57% · Serie BO3: Galorys 64% - 36% RED Canids Academy  
-Casas: Galorys 74% · RED Canids Academy 26%  
-🔎 **Claves**  
-• Elo: Galorys 1711 (324 series) | RED Canids Academy 1639 (136 series)  
-• Forma: Galorys ❌❌❌✅❌ | RED Canids Academy ✅✅❌❌✅  
-• H2H: 3: 3-0  
-• Torneo: CCT South America 2026 Series 8 (nivel B)  
-• Cambios de plantilla: ninguno  
-• Jugadores en forma (rating últimos 10 mapas): Galorys: tomate 7.0, gbb 6.9 | RED Canids Academy: FasteR 7.0, gtw 6.9  
-• Mapas (último año): Galorys: fuerte ancient 67%, débil inferno 33% | RED Canids Academy: fuerte mirage 67%, débil ancient 43%  
-• Química de la plantilla: Galorys: 183 mapas juntos de media | RED Canids Academy: 21 mapas juntos de media  
-🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
-• Galorys gana 2-1: 24% → cuota justa 4.12 · casa 26%  
-• RED Canids Academy gana 2-1: 19% → cuota justa 5.38 · casa 13% ✔ el bot lo ve más probable que la casa  
-🔫 **Kills esperados en la serie** (rango 80 %; mejor que la media de sus 10 últimas en 52.375 casos: log-loss 0.6819→0.6559; sin cuotas de props, solo referencia)  
-Galorys: gbb 37 (21-54) · tomate 36 (21-53) · detr0ittJ 36 (21-53) · destiny 35 (20-52) · PKL 30 (17-44)  
-RED Canids Academy: gtw 37 (21-54) · FasteR 36 (21-53) · nickssz 33 (19-49) · sanc 32 (18-47) · rafa 31 (18-46)  
+Actualizado 13/11/2026 17:07 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Al Ahli vs SINQU — 13/11 · 17:30
 
