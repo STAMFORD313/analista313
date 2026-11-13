@@ -1,6 +1,6 @@
 # 🧙 LoL · apuestas de valor
 
-Actualizado 13/11/2026 08:10 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 13/11/2026 08:39 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Bilibili Gaming vs Gen.G Esports — 14/11 · 20:00
 

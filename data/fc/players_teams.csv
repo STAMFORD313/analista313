@@ -66311,18 +66311,18 @@ id,tournament_id,club1,club2,ht1,ht2
 2377874,261868,Leipzig,Bayern Munchen,,
 2377875,261868,B Dortmund,Leipzig,,
 2377876,261868,Stuttgart,Frankfurt,,
-2377239,261833,Fenerbahce,Aston Villa,0,1
-2377937,261833,Salzburg,Porto,3,3
-2377938,261833,Porto,Fenerbahce,1,3
-2377242,261833,Aston Villa,Roma,0,0
-2377939,261833,Roma,Porto,0,1
-2377244,261833,Fenerbahce,Salzburg,0,2
-2377245,261833,Salzburg,Roma,1,0
-2377940,261833,Porto,Aston Villa,0,1
-2377247,261833,Aston Villa,Salzburg,3,0
-2377248,261833,Roma,Fenerbahce,0,2
-2377249,261833,Aston Villa,Fenerbahce,0,1
-2377941,261833,Porto,Salzburg,1,3
+2377239,261833,Fenerbahce,Aston Villa,0.0,1.0
+2377937,261833,Salzburg,Porto,3.0,3.0
+2377938,261833,Porto,Fenerbahce,1.0,3.0
+2377242,261833,Aston Villa,Roma,0.0,0.0
+2377939,261833,Roma,Porto,0.0,1.0
+2377244,261833,Fenerbahce,Salzburg,0.0,2.0
+2377245,261833,Salzburg,Roma,1.0,0.0
+2377940,261833,Porto,Aston Villa,0.0,1.0
+2377247,261833,Aston Villa,Salzburg,3.0,0.0
+2377248,261833,Roma,Fenerbahce,0.0,2.0
+2377249,261833,Aston Villa,Fenerbahce,0.0,1.0
+2377941,261833,Porto,Salzburg,1.0,3.0
 2377942,261833,Fenerbahce,Porto,,
 2377252,261833,Roma,Aston Villa,,
 2377943,261833,Porto,Roma,,
@@ -66331,3 +66331,23 @@ id,tournament_id,club1,club2,ht1,ht2
 2377944,261833,Aston Villa,Porto,,
 2377257,261833,Salzburg,Aston Villa,,
 2377258,261833,Fenerbahce,Roma,,
+2377087,261811,Man Utd,Brighton,0,3
+2377088,261811,Nottm Forest,Aston Villa,2,3
+2377089,261811,Aston Villa,Man Utd,3,1
+2377090,261811,Brighton,Newcastle,3,1
+2377091,261811,Newcastle,Aston Villa,3,2
+2377092,261811,Man Utd,Nottm Forest,1,5
+2377093,261811,Nottm Forest,Newcastle,1,5
+2377094,261811,Aston Villa,Brighton,0,1
+2377095,261811,Brighton,Nottm Forest,0,2
+2377096,261811,Newcastle,Man Utd,2,6
+2377097,261811,Brighton,Man Utd,0,0
+2377098,261811,Aston Villa,Nottm Forest,3,0
+2377099,261811,Man Utd,Aston Villa,2,0
+2377100,261811,Newcastle,Brighton,1,1
+2377101,261811,Aston Villa,Newcastle,,
+2377102,261811,Nottm Forest,Man Utd,,
+2377103,261811,Newcastle,Nottm Forest,,
+2377104,261811,Brighton,Aston Villa,,
+2377105,261811,Nottm Forest,Brighton,,
+2377106,261811,Man Utd,Newcastle,,
