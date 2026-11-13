@@ -2520,5 +2520,45 @@
   "estado": "pendiente",
   "avisada": false,
   "rev": 1
+ },
+ {
+  "id": "20261113213330099268",
+  "creada": "2026-11-13 21:33:30.099318+00:00",
+  "titulo": "Barrido · Combinada cuota 13.5",
+  "legs": [
+   {
+    "code": null,
+    "start": "2026-11-14 11:00:00+00:00",
+    "home": "Real Union de Tenerife",
+    "away": "Mensajero",
+    "txt": "Gana Real Union de Tenerife",
+    "odds": 2.28,
+    "p": 0.4486
+   },
+   {
+    "code": null,
+    "start": "2026-11-14 18:00:00+00:00",
+    "home": "CD Noblejas",
+    "away": "Quintanar Del Rey",
+    "txt": "Gana CD Noblejas",
+    "odds": 2.55,
+    "p": 0.4273
+   },
+   {
+    "code": null,
+    "start": "2026-11-14 21:00:00+00:00",
+    "home": "San Francisco",
+    "away": "Veraguas",
+    "txt": "Gana San Francisco",
+    "odds": 2.32,
+    "p": 0.4429
+   }
+  ],
+  "odds": 13.49,
+  "p": 0.08489807486200002,
+  "stake": 1.0,
+  "estado": "pendiente",
+  "avisada": false,
+  "rev": 1
  }
 ]
