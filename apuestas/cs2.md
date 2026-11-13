@@ -1,32 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 13/11/2026 08:39 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Vitality vs MOUZ — 13/11 · 09:00
-
-👀 candidata · 🎮 CS2 · BLAST Rivals Fall 2026 · **Gana MOUZ** @ **2.00** (Thunderpick) · prob 47% vs casas 46% · ventaja -6%
-
-- ❌ Valor: ventaja -6% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 76.745 partidos)  
-Mapa: Vitality 48% · Serie BO3: Vitality 53% - 47% MOUZ  
-Casas: Vitality 54% · MOUZ 46%  
-🔎 **Claves**  
-• Elo: Vitality 2222 (283 series) | MOUZ 2243 (298 series)  
-• Forma: Vitality ✅❌❌✅❌ | MOUZ ✅✅✅❌✅  
-• H2H: 33: 24-9  
-• Torneo: BLAST Rivals Fall 2026 (nivel S)  
-• Cambios de plantilla: ninguno  
-• Jugadores en forma (rating últimos 10 mapas): Vitality: ZywOo 6.3, ropz 6.1 | MOUZ: xertioN 6.8, Spinx 6.5  
-• Mapas (último año): Vitality: fuerte overpass 94%, débil anubis 45% | MOUZ: fuerte overpass 86%, débil cache 40%  
-• Química de la plantilla: Vitality: 414 mapas juntos de media | MOUZ: 202 mapas juntos de media  
-🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
-• Vitality gana 2-1: 21% → cuota justa 4.73 · casa 24%  
-• MOUZ gana 2-1: 23% → cuota justa 4.38 · casa 22%  
-🔫 **Kills esperados en la serie** (rango 80 %; mejor que la media de sus 10 últimas en 52.522 casos: log-loss 0.6819→0.6557; sin cuotas de props, solo referencia)  
-Vitality: ZywOo 41 (24-61) · ropz 36 (21-53) · flameZ 35 (20-52) · mezii 32 (18-47) · apEX 30 (17-44)  
-MOUZ: Spinx 36 (21-53) · xertioN 36 (21-53) · torzsi 35 (20-52) · xelex 35 (20-52) · PR 35 (20-51)  
+Actualizado 13/11/2026 09:10 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## G2 vs Falcons — 13/11 · 11:30
 
