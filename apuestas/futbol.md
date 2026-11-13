@@ -1,6 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 13/11/2026 18:37 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 13/11/2026 19:18 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Leganes vs Burgos — 13/11 · 20:30
 

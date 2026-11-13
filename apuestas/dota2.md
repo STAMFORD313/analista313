@@ -1,28 +1,6 @@
 # 🐉 Dota 2 · apuestas de valor
 
-Actualizado 13/11/2026 18:37 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## CyberHero vs Xipto Esports — 13/11 · 19:00
-
-👀 candidata · 🐉 Dota 2 · DreamLeague Division 2 Series 5 · **Gana CyberHero** @ **1.51** (Thunderpick) · prob 68% vs casas 61% · ventaja +3%
-
-- ❌ Valor: ventaja +3% (mín. 8% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🐉 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 11.749 partidos)  
-Mapa: CyberHero 58% · Serie BO3: CyberHero 76% - 24% Xipto Esports  
-Casas: CyberHero 61% · Xipto Esports 39%  
-🔎 **Claves**  
-• Elo: CyberHero 1863 (32 series) | Xipto Esports 1788 (39 series)  
-• Forma: CyberHero ✅✅❌✅✅ | Xipto Esports ✅✅❌✅❌  
-• H2H: sin precedentes  
-• Torneo: DreamLeague Division 2 Series 5 (nivel B)  
-• Cambios de plantilla: ninguno  
-• Jugadores en forma (KDA últimas 10 partidas): CyberHero: Ainkrad 5.3, bb3px 5.1 | Xipto Esports: inYourdreaM 3.9, Fbz 3.6  
-• Química de la plantilla: CyberHero: 158 partidas juntos de media | Xipto Esports: 157 partidas juntos de media  
-🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
-• CyberHero gana 2-1: 24% → cuota justa 4.18 · casa 25%  
-• Xipto Esports gana 2-1: 17% → cuota justa 5.76 · casa 18%  
+Actualizado 13/11/2026 19:18 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## DO KONCA vs Yellow Submarine — 14/11 · 12:30
 
