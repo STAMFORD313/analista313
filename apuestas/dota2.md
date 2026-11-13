@@ -1,6 +1,6 @@
 # 🐉 Dota 2 · apuestas de valor
 
-Actualizado 13/11/2026 17:07 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 13/11/2026 17:37 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## CyberHero vs Xipto Esports — 13/11 · 19:00
 

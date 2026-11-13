@@ -1,23 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 13/11/2026 17:07 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Al Ahli vs SINQU — 13/11 · 17:30
-
-👀 candidata · 🎮 CS2 · ESEA Season 59: Advanced Division - Europe · **Gana Al Ahli** @ **1.40** (Thunderpick) · prob 71% vs casas 66% · ventaja -1%
-
-- ❌ Valor: ventaja -1% (mín. 7% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 76.736 partidos)  
-Mapa: Al Ahli 76% · Serie BO1: Al Ahli 76% - 24% SINQU  
-Casas: Al Ahli 66% · SINQU 34%  
-🔎 **Claves**  
-• Elo: Al Ahli 1546 (12 series) | SINQU 1347 (72 series)  
-• Forma: Al Ahli ✅✅✅✅✅ | SINQU ❌❌✅✅❌  
-• H2H: sin precedentes  
-• Torneo: ESEA Season 59: Advanced Division - Europe (nivel C)  
-• Cambios de plantilla: ninguno  
+Actualizado 13/11/2026 17:37 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Grêmio vs Curralzinho — 13/11 · 20:00
 
