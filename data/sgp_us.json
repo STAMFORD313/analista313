@@ -18,12 +18,12 @@
   "se": 0.00243
  },
  "nhl": {
-  "rho": 0.0346,
+  "rho": 0.0345,
   "sd_margin": 2.55,
   "sd_total": 2.29,
-  "n_test": 1501,
-  "ll_indep": 1.3685,
-  "ll_copula": 1.36828,
+  "n_test": 1500,
+  "ll_indep": 1.36867,
+  "ll_copula": 1.36846,
   "se": 0.00056
  }
 }
