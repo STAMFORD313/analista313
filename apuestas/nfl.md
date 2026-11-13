@@ -1,6 +1,6 @@
 # 🏈 NFL·NCAA · apuestas de valor
 
-Actualizado 13/11/2026 23:48 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 14/11/2026 00:19 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Pittsburgh Panthers vs Florida State Seminoles — 14/11 · 01:00
 

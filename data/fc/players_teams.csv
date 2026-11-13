@@ -67125,9 +67125,9 @@ id,tournament_id,club1,club2,ht1,ht2
 2377336,261837,Vitoria SC,Braga,,
 2377337,261837,Porto,Vitoria SC,,
 2377338,261837,Benfica,Sporting CP,,
-2378559,261844,Boca Juniors,River Plate,2,1
-2378560,261844,Boca Juniors,Racing Club,2,0
-2378561,261844,River Plate,Racing Club,0,1
+2378559,261844,Boca Juniors,River Plate,2.0,1.0
+2378560,261844,Boca Juniors,Racing Club,2.0,0.0
+2378561,261844,River Plate,Racing Club,0.0,1.0
 2378562,261844,River Plate,Boca Juniors,,
 2378563,261844,Racing Club,Boca Juniors,,
 2378564,261844,Racing Club,River Plate,,
@@ -67137,3 +67137,23 @@ id,tournament_id,club1,club2,ht1,ht2
 2378568,261844,River Plate,Boca Juniors,,
 2378569,261844,Racing Club,Boca Juniors,,
 2378570,261844,Racing Club,River Plate,,
+2377499,261818,Morocco,Czechia,1,0
+2377500,261818,Netherlands,Germany,1,0
+2377501,261818,Germany,Morocco,0,1
+2377502,261818,Czechia,Norway,2,2
+2377503,261818,Norway,Germany,0,2
+2377504,261818,Morocco,Netherlands,1,3
+2377505,261818,Netherlands,Norway,1,3
+2377506,261818,Germany,Czechia,1,4
+2377507,261818,Czechia,Netherlands,1,2
+2377508,261818,Norway,Morocco,1,1
+2377509,261818,Czechia,Morocco,0,2
+2377510,261818,Germany,Netherlands,3,1
+2377511,261818,Morocco,Germany,0,0
+2377512,261818,Norway,Czechia,2,1
+2377513,261818,Germany,Norway,1,1
+2377514,261818,Netherlands,Morocco,0,2
+2377515,261818,Norway,Netherlands,,
+2377516,261818,Czechia,Germany,,
+2377517,261818,Netherlands,Czechia,,
+2377518,261818,Morocco,Norway,,
