@@ -2476,5 +2476,47 @@
   "estado": "pendiente",
   "avisada": false,
   "rev": 1
+ },
+ {
+  "id": "20261113160903572691",
+  "creada": "2026-11-13 16:09:03.572728+00:00",
+  "titulo": "Barrido · Combinada cuota 16.9",
+  "legs": [
+   {
+    "code": null,
+    "start": "2026-11-13 17:00:00+00:00",
+    "home": "Moldova",
+    "away": "Kazakhstan",
+    "txt": "Gana Moldova",
+    "odds": 2.7,
+    "p": 0.4041
+   },
+   {
+    "code": null,
+    "start": "2026-11-14 10:00:00+00:00",
+    "home": "Ankaraspor",
+    "away": "Aliaga",
+    "txt": "Gana Aliaga",
+    "odds": 2.43,
+    "p": 0.4863
+   },
+   {
+    "src": "esports:dota2",
+    "side": "A",
+    "code": null,
+    "start": "2026-11-14 18:00:00+00:00",
+    "home": "PlayTime",
+    "away": "Power Rangers",
+    "txt": "Gana Power Rangers",
+    "odds": 2.58,
+    "p": 0.4368979328165374
+   }
+  ],
+  "odds": 16.93,
+  "p": 0.08585648609686046,
+  "stake": 1.0,
+  "estado": "pendiente",
+  "avisada": false,
+  "rev": 1
  }
 ]
