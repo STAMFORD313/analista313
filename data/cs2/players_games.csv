@@ -34745,3 +34745,5 @@ game_id,match_id,slug,date,tier,bo,tournament_id,tournament,t1_id,t2_id,team1,te
 193719,134173,luntiki-vs-m1x-ks-12-11-2026,2026-11-12T21:20:00.000+00:00,b,3,6250,PGL Cluj-Napoca 2027: Open Qualifier 2,25757,22604,LUNTIKI,M1X KS,1,de_ancient,25757,13.0,7.0
 192346,133197,axorfy-gaming-vs-meia-noite-12-11-2026,2026-11-12T22:30:00.000+00:00,b,3,5624,CCT South America 2026 Series 8,25666,25011,AXORFY,MEIA NOITE,2,de_nuke,25666,13.0,7.0
 192347,133197,axorfy-gaming-vs-meia-noite-12-11-2026,2026-11-12T22:30:00.000+00:00,b,3,5624,CCT South America 2026 Series 8,25666,25011,AXORFY,MEIA NOITE,1,de_ancient,25666,13.0,8.0
+191060,132596,vitality-vs-mouz-cs2-13-11-2026,2026-11-13T08:00:00.000+00:00,s,3,4224,BLAST Rivals Fall 2026,667,765,Vitality,MOUZ,2,de_cache,765,16.0,14.0
+191061,132596,vitality-vs-mouz-cs2-13-11-2026,2026-11-13T08:00:00.000+00:00,s,3,4224,BLAST Rivals Fall 2026,667,765,Vitality,MOUZ,1,de_mirage,765,13.0,8.0

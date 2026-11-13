@@ -1,32 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 13/11/2026 11:04 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## G2 vs Falcons — 13/11 · 11:30
-
-👀 candidata · 🎮 CS2 · BLAST Rivals Fall 2026 · **Gana Falcons** @ **1.35** (Thunderpick) · prob 68% vs casas 68% · ventaja -8%
-
-- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 76.745 partidos)  
-Mapa: G2 37% · Serie BO3: G2 32% - 68% Falcons  
-Casas: G2 32% · Falcons 68%  
-🔎 **Claves**  
-• Elo: G2 1986 (315 series) | Falcons 2131 (309 series)  
-• Forma: G2 ❌❌❌✅❌ | Falcons ✅✅❌❌✅  
-• H2H: 8: 3-5  
-• Torneo: BLAST Rivals Fall 2026 (nivel S)  
-• Cambios de plantilla: ninguno  
-• Jugadores en forma (rating últimos 10 mapas): G2: Nertz 6.1, MATYS 5.9 | Falcons: m0NESY 6.4, kyousuke 6.3  
-• Mapas (último año): G2: fuerte overpass 62%, débil nuke 0% | Falcons: fuerte nuke 65%, débil ancient 56%  
-• Química de la plantilla: G2: 157 mapas juntos de media | Falcons: 215 mapas juntos de media  
-🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
-• G2 gana 2-1: 14% → cuota justa 6.91 · casa 16%  
-• Falcons gana 2-1: 25% → cuota justa 4.01 · casa 26%  
-🔫 **Kills esperados en la serie** (rango 80 %; mejor que la media de sus 10 últimas en 52.522 casos: log-loss 0.6819→0.6557; sin cuotas de props, solo referencia)  
-G2: Nertz 34 (19-49) · HeavyGod 33 (19-48) · r1nkle 32 (19-48) · MATYS 32 (18-47) · huNter- 31 (17-45)  
-Falcons: m0NESY 41 (24-61) · kyousuke 40 (23-58) · NiKo 36 (21-53) · TeSeS 32 (18-47) · karrigan 27 (15-40)  
+Actualizado 13/11/2026 11:34 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Revise vs eSuba — 13/11 · 16:00
 
@@ -89,6 +63,23 @@ Casas: Al Ahli 66% · SINQU 34%
 • Forma: Al Ahli ✅✅✅✅✅ | SINQU ❌❌✅✅❌  
 • H2H: sin precedentes  
 • Torneo: ESEA Season 59: Advanced Division - Europe (nivel C)  
+• Cambios de plantilla: ninguno  
+
+## Grêmio vs Curralzinho — 13/11 · 20:00
+
+👀 candidata · 🎮 CS2 · Gamers Club Liga Série A: November 2026 · **Gana Grêmio** @ **1.15** (Thunderpick) · prob 76% vs casas 80% · ventaja -13%
+
+- ❌ Valor: ventaja -13% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 76.785 partidos)  
+Mapa: Grêmio 71% · Serie BO1: Grêmio 71% - 29% Curralzinho  
+Casas: Grêmio 80% · Curralzinho 20%  
+🔎 **Claves**  
+• Elo: Grêmio 1517 (56 series) | Curralzinho 1359 (9 series)  
+• Forma: Grêmio ✅❌✅✅❌ | Curralzinho ✅❌✅❌❌  
+• H2H: sin precedentes  
+• Torneo: Gamers Club Liga Série A: November 2026 (nivel C)  
 • Cambios de plantilla: ninguno  
 
 ## BARCA vs BORRACHEIROS — 13/11 · 23:00

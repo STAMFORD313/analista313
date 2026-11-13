@@ -1,6 +1,6 @@
 # 🐉 Dota 2 · apuestas de valor
 
-Actualizado 13/11/2026 11:04 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 13/11/2026 11:34 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Froglings vs PuckChamp — 13/11 · 15:30
 
