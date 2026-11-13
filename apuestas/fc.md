@@ -1,25 +1,25 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 13/11/2026 12:02 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 13/11/2026 12:10 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## Smetana vs spirtes — 13/11 · 12:08
+## mko1919 vs Bomb1to — 13/11 · 12:15
 
-👀 candidata · 🎮⚽ FC 27 · CSL · **Gana Smetana** @ **1.47** (Unibet) · prob 77% vs casas 59% · ventaja +13%
+👀 candidata · 🎮⚽ FC 27 · World Cup B · **Gana Bomb1to** @ **1.83** (Unibet) · prob 59% vs casas 48% · ventaja +8%
 
-- ✅ Valor: ventaja +13% (mín. 12% con la incertidumbre, máx. 30%)
+- ❌ Valor: ventaja +8% (mín. 10% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 66.473 partidos)  
-Goles esperados: Smetana 4.55 · spirtes 2.48  
-Ganador: Smetana 77% · empate 12% · spirtes 12%  
-Total: más de 7.5 goles 41% · menos 59%  
-Hándicap Smetana: −1.5 58% · −2.5 43%  
+📊 **Escenarios** (Poisson por jugador, 66.481 partidos)  
+Goles esperados: mko1919 2.75 · Bomb1to 3.66  
+Ganador: mko1919 24% · empate 17% · Bomb1to 59%  
+Total: más de 6.5 goles 46% · menos 54%  
+Hándicap Bomb1to: −1.5 40% · −2.5 26%  
 🔎 **Claves**  
-• Forma: Smetana ❌❌❌✅✅ | spirtes ➖✅✅✅✅  
-• Partidos: Smetana 1242 | spirtes 1154  
-• Liga: CSL  
-• Unibet: 1 1.47 · X 5.10 · 2 3.60 (sin margen 59%/17%/24%) · ventaja +13%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 1.47 (+13%) · Paf España 1.47 (+13%)  
+• Forma: mko1919 ➖❌❌➖➖ | Bomb1to ❌✅✅✅❌  
+• Partidos: mko1919 1266 | Bomb1to 1336  
+• Liga: World Cup B  
+• Unibet: 1 3.15 · X 3.50 · 2 1.83 (sin margen 28%/25%/48%) · ventaja +8%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 1.83 (+8%) · Paf España 1.83 (+8%)  
 
 ## dm1trena vs MeLToSik — 13/11 · 12:18
 
@@ -58,4 +58,23 @@ Hándicap Bomb1to: −1.5 31% · −2.5 19%
 • Liga: World Cup B  
 • Unibet: 1 1.74 · X 4.00 · 2 3.10 (sin margen 50%/22%/28%) · ventaja +16%. Sin stake hasta demostrar ROI con estas cuotas.  
 • En España: LeoVegas España 3.10 (+16%) · Paf España 3.10 (+16%)  
+
+## dm1trena vs DaVa — 13/11 · 12:30
+
+👀 candidata · 🎮⚽ FC 27 · Bundesliga · **Gana DaVa** @ **1.60** (Unibet) · prob 66% vs casas 55% · ventaja +6%
+
+- ❌ Valor: ventaja +6% (mín. 9% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 66.481 partidos)  
+Goles esperados: dm1trena 1.91 · DaVa 3.14  
+Ganador: dm1trena 16% · empate 17% · DaVa 66%  
+Total: más de 5.5 goles 39% · menos 61%  
+Hándicap DaVa: −1.5 44% · −2.5 28%  
+🔎 **Claves**  
+• Forma: dm1trena ❌➖❌❌❌ | DaVa ✅❌✅❌✅  
+• Partidos: dm1trena 1119 | DaVa 1274  
+• Liga: Bundesliga  
+• Unibet: 1 4.70 · X 3.35 · 2 1.60 (sin margen 19%/26%/55%) · ventaja +6%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 1.60 (+6%) · Paf España 1.60 (+6%)  
 

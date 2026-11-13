@@ -66469,16 +66469,16 @@ id,tournament_id,club1,club2,ht1,ht2
 2377844,261860,Liverpool,Atleti,,
 2377845,261860,Paris,Liverpool,,
 2377846,261860,Real Madrid,Bayern Munchen,,
-2377127,261814,Salzburg,Roma,1,3
-2377128,261814,Aston Villa,Porto,2,1
-2377129,261814,Porto,Salzburg,2,2
-2377130,261814,Roma,Fenerbahce,1,2
-2377131,261814,Fenerbahce,Porto,2,4
-2377132,261814,Salzburg,Aston Villa,2,6
-2377133,261814,Aston Villa,Fenerbahce,3,2
-2377134,261814,Porto,Roma,1,0
-2377135,261814,Roma,Aston Villa,2,0
-2377136,261814,Fenerbahce,Salzburg,3,2
+2377127,261814,Salzburg,Roma,1.0,3.0
+2377128,261814,Aston Villa,Porto,2.0,1.0
+2377129,261814,Porto,Salzburg,2.0,2.0
+2377130,261814,Roma,Fenerbahce,1.0,2.0
+2377131,261814,Fenerbahce,Porto,2.0,4.0
+2377132,261814,Salzburg,Aston Villa,2.0,6.0
+2377133,261814,Aston Villa,Fenerbahce,3.0,2.0
+2377134,261814,Porto,Roma,1.0,0.0
+2377135,261814,Roma,Aston Villa,2.0,0.0
+2377136,261814,Fenerbahce,Salzburg,3.0,2.0
 2377137,261814,Roma,Salzburg,,
 2377138,261814,Porto,Aston Villa,,
 2377139,261814,Salzburg,Porto,,
@@ -66489,14 +66489,14 @@ id,tournament_id,club1,club2,ht1,ht2
 2377144,261814,Roma,Porto,,
 2377145,261814,Aston Villa,Roma,,
 2377146,261814,Salzburg,Fenerbahce,,
-2377203,261824,Netherlands,Morocco,0,1
-2377204,261824,Germany,Belgium,3,0
-2377205,261824,Germany,Netherlands,0,1
-2377206,261824,Belgium,Morocco,3,3
-2377207,261824,Morocco,Germany,3,0
-2377208,261824,Belgium,Netherlands,3,2
-2377209,261824,Netherlands,Morocco,3,0
-2377210,261824,Germany,Belgium,1,1
+2377203,261824,Netherlands,Morocco,0.0,1.0
+2377204,261824,Germany,Belgium,3.0,0.0
+2377205,261824,Germany,Netherlands,0.0,1.0
+2377206,261824,Belgium,Morocco,3.0,3.0
+2377207,261824,Morocco,Germany,3.0,0.0
+2377208,261824,Belgium,Netherlands,3.0,2.0
+2377209,261824,Netherlands,Morocco,3.0,0.0
+2377210,261824,Germany,Belgium,1.0,1.0
 2377211,261824,Germany,Netherlands,,
 2377212,261824,Belgium,Morocco,,
 2377213,261824,Morocco,Germany,,
@@ -66507,14 +66507,14 @@ id,tournament_id,club1,club2,ht1,ht2
 2377218,261824,Belgium,Morocco,,
 2377219,261824,Morocco,Germany,,
 2377220,261824,Belgium,Netherlands,,
-2377707,261847,Chengdu Rongcheng,Shanghai Shenhua,0,0
-2377708,261847,Shandong Taishan,Shanghai Port,1,1
-2377709,261847,Shanghai Port,Chengdu Rongcheng,3,1
-2377710,261847,Shanghai Shenhua,Beijing Guoan,3,2
-2377711,261847,Beijing Guoan,Shanghai Port,2,1
-2377712,261847,Chengdu Rongcheng,Shandong Taishan,0,3
-2377713,261847,Shandong Taishan,Beijing Guoan,2,1
-2377714,261847,Shanghai Port,Shanghai Shenhua,1,1
+2377707,261847,Chengdu Rongcheng,Shanghai Shenhua,0.0,0.0
+2377708,261847,Shandong Taishan,Shanghai Port,1.0,1.0
+2377709,261847,Shanghai Port,Chengdu Rongcheng,3.0,1.0
+2377710,261847,Shanghai Shenhua,Beijing Guoan,3.0,2.0
+2377711,261847,Beijing Guoan,Shanghai Port,2.0,1.0
+2377712,261847,Chengdu Rongcheng,Shandong Taishan,0.0,3.0
+2377713,261847,Shandong Taishan,Beijing Guoan,2.0,1.0
+2377714,261847,Shanghai Port,Shanghai Shenhua,1.0,1.0
 2377715,261847,Shanghai Shenhua,Shandong Taishan,,
 2377716,261847,Beijing Guoan,Chengdu Rongcheng,,
 2377717,261847,Shanghai Shenhua,Chengdu Rongcheng,,
@@ -66527,16 +66527,16 @@ id,tournament_id,club1,club2,ht1,ht2
 2377724,261847,Shanghai Shenhua,Shanghai Port,,
 2377725,261847,Shandong Taishan,Shanghai Shenhua,,
 2377726,261847,Chengdu Rongcheng,Beijing Guoan,,
-2377897,261872,France,England,0,2
-2377898,261872,Spain,Brazil,2,2
-2377899,261872,Brazil,France,2,0
-2377900,261872,England,Argentina,2,1
-2377901,261872,Argentina,Brazil,1,2
-2377902,261872,France,Spain,0,1
-2377903,261872,Spain,Argentina,0,2
-2377904,261872,Brazil,England,1,0
-2377905,261872,England,Spain,1,1
-2377906,261872,Argentina,France,1,1
+2377897,261872,France,England,0.0,2.0
+2377898,261872,Spain,Brazil,2.0,2.0
+2377899,261872,Brazil,France,2.0,0.0
+2377900,261872,England,Argentina,2.0,1.0
+2377901,261872,Argentina,Brazil,1.0,2.0
+2377902,261872,France,Spain,0.0,1.0
+2377903,261872,Spain,Argentina,0.0,2.0
+2377904,261872,Brazil,England,1.0,0.0
+2377905,261872,England,Spain,1.0,1.0
+2377906,261872,Argentina,France,1.0,1.0
 2377907,261872,England,France,,
 2377908,261872,Brazil,Spain,,
 2377909,261872,France,Brazil,,
@@ -66547,3 +66547,23 @@ id,tournament_id,club1,club2,ht1,ht2
 2377914,261872,England,Brazil,,
 2377915,261872,Spain,England,,
 2377916,261872,France,Argentina,,
+2377279,261838,Bayern Munchen,Stuttgart,2,1
+2377953,261838,Leipzig,B Dortmund,2,0
+2377954,261838,B Dortmund,Bayern Munchen,2,1
+2377282,261838,Stuttgart,Frankfurt,1,1
+2377955,261838,Frankfurt,B Dortmund,4,1
+2377284,261838,Bayern Munchen,Leipzig,2,1
+2377285,261838,Leipzig,Frankfurt,0,0
+2377956,261838,B Dortmund,Stuttgart,0,0
+2377287,261838,Stuttgart,Leipzig,,
+2377288,261838,Frankfurt,Bayern Munchen,,
+2377289,261838,Stuttgart,Bayern Munchen,,
+2377957,261838,B Dortmund,Leipzig,,
+2377958,261838,Bayern Munchen,B Dortmund,,
+2377292,261838,Frankfurt,Stuttgart,,
+2377959,261838,B Dortmund,Frankfurt,,
+2377294,261838,Leipzig,Bayern Munchen,,
+2377295,261838,Frankfurt,Leipzig,,
+2377960,261838,Stuttgart,B Dortmund,,
+2377297,261838,Leipzig,Stuttgart,,
+2377298,261838,Bayern Munchen,Frankfurt,,
