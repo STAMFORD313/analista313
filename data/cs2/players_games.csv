@@ -34777,5 +34777,8 @@ game_id,match_id,slug,date,tier,bo,tournament_id,tournament,t1_id,t2_id,team1,te
 192360,133202,galorys-cs-vs-red-canids-academy-13-11-2026,2026-11-13T16:15:00.000+00:00,b,3,5624,CCT South America 2026 Series 8,10049,16743,Galorys,RED Canids Academy,3,de_anubis,10049,13.0,11.0
 192361,133202,galorys-cs-vs-red-canids-academy-13-11-2026,2026-11-13T16:15:00.000+00:00,b,3,5624,CCT South America 2026 Series 8,10049,16743,Galorys,RED Canids Academy,2,de_ancient,16743,13.0,2.0
 192362,133202,galorys-cs-vs-red-canids-academy-13-11-2026,2026-11-13T16:15:00.000+00:00,b,3,5624,CCT South America 2026 Series 8,10049,16743,Galorys,RED Canids Academy,1,de_cache,10049,13.0,11.0
+192498,133248,omega-kz-vs-inner-circle-academy-13-11-2026,2026-11-13T18:00:00.000+00:00,b,3,5628,CCT Europe 2026 Series 13,22014,22737,Omega,Inner Circle Academy,3,de_cache,22014,13.0,11.0
+192499,133248,omega-kz-vs-inner-circle-academy-13-11-2026,2026-11-13T18:00:00.000+00:00,b,3,5628,CCT Europe 2026 Series 13,22014,22737,Omega,Inner Circle Academy,2,de_ancient,22014,13.0,3.0
+192500,133248,omega-kz-vs-inner-circle-academy-13-11-2026,2026-11-13T18:00:00.000+00:00,b,3,5628,CCT Europe 2026 Series 13,22014,22737,Omega,Inner Circle Academy,1,de_mirage,22737,16.0,13.0
 192863,133384,ex-rustec-vs-nexus-13-11-2026,2026-11-13T18:10:00.000+00:00,b,3,5629,CCT Europe 2026 Series 14,24857,326,ex-RUSTEC,Nexus,2,de_ancient,326,13.0,6.0
 192864,133384,ex-rustec-vs-nexus-13-11-2026,2026-11-13T18:10:00.000+00:00,b,3,5629,CCT Europe 2026 Series 14,24857,326,ex-RUSTEC,Nexus,1,de_dust2,326,13.0,7.0
