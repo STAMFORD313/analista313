@@ -1,61 +1,61 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 13/11/2026 09:10 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 13/11/2026 09:40 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## Smetana vs crinner — 13/11 · 09:12
+## mko1919 vs Bomb1to — 13/11 · 09:55
 
-👀 candidata · 🎮⚽ FC 27 · EFL Championship · **Gana crinner** @ **2.08** (Unibet) · prob 56% vs casas 42% · ventaja +17%
+👀 candidata · 🎮⚽ FC 27 · Serie A · **Gana Bomb1to** @ **2.00** (Unibet) · prob 58% vs casas 44% · ventaja +15%
 
-- ✅ Valor: ventaja +17% (mín. 13% con la incertidumbre, máx. 30%)
+- ✅ Valor: ventaja +15% (mín. 12% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 66.333 partidos)  
-Goles esperados: Smetana 2.68 · crinner 3.43  
-Ganador: Smetana 26% · empate 18% · crinner 56%  
-Total: más de 6.5 goles 41% · menos 59%  
-Hándicap crinner: −1.5 38% · −2.5 23%  
+📊 **Escenarios** (Poisson por jugador, 66.357 partidos)  
+Goles esperados: mko1919 2.69 · Bomb1to 3.62  
+Ganador: mko1919 25% · empate 17% · Bomb1to 58%  
+Total: más de 6.5 goles 44% · menos 56%  
+Hándicap Bomb1to: −1.5 40% · −2.5 26%  
 🔎 **Claves**  
-• Forma: Smetana ➖✅❌✅✅ | crinner ✅✅➖✅✅  
-• Partidos: Smetana 1232 | crinner 1062  
-• Liga: EFL Championship  
-• Unibet: 1 2.48 · X 3.75 · 2 2.08 (sin margen 35%/23%/42%) · ventaja +17%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.08 (+17%) · Paf España 2.08 (+17%)  
-
-## Bomb1to vs Wboy — 13/11 · 09:19
-
-👀 candidata · 🎮⚽ FC 27 · Serie A · **Gana Wboy** @ **3.20** (Unibet) · prob 35% vs casas 27% · ventaja +13%
-
-- ✅ Valor: ventaja +13% (mín. 11% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 66.333 partidos)  
-Goles esperados: Bomb1to 3.71 · Wboy 3.45  
-Ganador: Bomb1to 48% · empate 17% · Wboy 35%  
-Total: más de 7.5 goles 43% · menos 57%  
-Hándicap Bomb1to: −1.5 32% · −2.5 20%  
-🔎 **Claves**  
-• Forma: Bomb1to ✅✅❌❌➖ | Wboy ❌✅❌✅✅  
-• Partidos: Bomb1to 1324 | Wboy 1164  
+• Forma: mko1919 ✅❌❌❌✅ | Bomb1to ❌❌➖✅➖  
+• Partidos: mko1919 1256 | Bomb1to 1326  
 • Liga: Serie A  
-• Unibet: 1 1.71 · X 4.10 · 2 3.20 (sin margen 51%/21%/27%) · ventaja +13%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 3.20 (+13%) · Paf España 3.20 (+13%)  
+• Unibet: 1 2.88 · X 3.30 · 2 2.00 (sin margen 30%/26%/43%) · ventaja +15%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.00 (+15%) · Paf España 2.00 (+15%)  
 
-## Ganger_29 vs Taz — 13/11 · 09:28
+## Jekunam vs DaVa — 13/11 · 09:58
 
-👀 candidata · 🎮⚽ FC 27 · Ligue 1 · **Gana Taz** @ **2.40** (Unibet) · prob 47% vs casas 36% · ventaja +13%
+👀 candidata · 🎮⚽ FC 27 · Champions League AFC · **Gana DaVa** @ **1.97** (Unibet) · prob 57% vs casas 44% · ventaja +13%
 
 - ✅ Valor: ventaja +13% (mín. 12% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 66.357 partidos)  
+Goles esperados: Jekunam 2.06 · DaVa 2.92  
+Ganador: Jekunam 23% · empate 20% · DaVa 58%  
+Total: más de 4.5 goles 56% · menos 44%  
+Hándicap DaVa: −1.5 38% · −2.5 22%  
+🔎 **Claves**  
+• Forma: Jekunam ➖➖✅❌❌ | DaVa ✅❌✅✅✅  
+• Partidos: Jekunam 1127 | DaVa 1265  
+• Liga: Champions League AFC  
+• Unibet: 1 2.80 · X 3.45 · 2 1.97 (sin margen 31%/25%/44%) · ventaja +13%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 1.97 (+13%) · Paf España 1.97 (+13%)  
+
+## Pavlinho19 vs Lumix — 13/11 · 10:04
+
+👀 candidata · 🎮⚽ FC 27 · Ligue 1 · **Gana Lumix** @ **2.85** (Unibet) · prob 38% vs casas 30% · ventaja +8%
+
+- ❌ Valor: ventaja +8% (mín. 10% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 66.333 partidos)  
-Goles esperados: Ganger_29 3.02 · Taz 3.44  
-Ganador: Ganger_29 35% · empate 18% · Taz 47%  
-Total: más de 6.5 goles 47% · menos 53%  
-Hándicap Taz: −1.5 33% · −2.5 20%  
+📊 **Escenarios** (Poisson por jugador, 66.357 partidos)  
+Goles esperados: Pavlinho19 2.48 · Lumix 2.33  
+Ganador: Pavlinho19 40% · empate 22% · Lumix 38%  
+Total: más de 4.5 goles 52% · menos 48%  
+Hándicap Pavlinho19: −1.5 26% · −2.5 14%  
 🔎 **Claves**  
-• Forma: Ganger_29 ➖➖✅✅➖ | Taz ➖✅❌❌✅  
-• Partidos: Ganger_29 937 | Taz 1030  
+• Forma: Pavlinho19 ➖❌✅❌➖ | Lumix ✅➖➖✅❌  
+• Partidos: Pavlinho19 989 | Lumix 1060  
 • Liga: Ligue 1  
-• Unibet: 1 2.23 · X 3.50 · 2 2.40 (sin margen 39%/25%/36%) · ventaja +13%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.40 (+13%) · Paf España 2.40 (+13%)  
+• Unibet: 1 2.40 · X 2.60 · 2 2.85 (sin margen 36%/33%/30%) · ventaja +8%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.85 (+8%) · Paf España 2.85 (+8%)  
 
