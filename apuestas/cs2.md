@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 13/11/2026 22:19 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 13/11/2026 22:49 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## BARCA vs BORRACHEIROS — 13/11 · 23:00
 
