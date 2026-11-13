@@ -66805,14 +66805,14 @@ id,tournament_id,club1,club2,ht1,ht2
 2377436,261810,Man City,Tottenham,,
 2377437,261810,Liverpool,Man City,,
 2377438,261810,Arsenal,Chelsea,,
-2377757,261852,Adelaide United,Melbourne City,2,1
-2377758,261852,Sydney FC,Melbourne Victory,3,1
-2377759,261852,Melbourne Victory,Adelaide United,0,1
-2377760,261852,Melbourne City,Western Sydney Wanderers,1,0
-2377761,261852,Western Sydney Wanderers,Melbourne Victory,1,1
-2377762,261852,Adelaide United,Sydney FC,0,4
-2377763,261852,Sydney FC,Western Sydney Wanderers,1,2
-2377764,261852,Melbourne Victory,Melbourne City,3,0
+2377757,261852,Adelaide United,Melbourne City,2.0,1.0
+2377758,261852,Sydney FC,Melbourne Victory,3.0,1.0
+2377759,261852,Melbourne Victory,Adelaide United,0.0,1.0
+2377760,261852,Melbourne City,Western Sydney Wanderers,1.0,0.0
+2377761,261852,Western Sydney Wanderers,Melbourne Victory,1.0,1.0
+2377762,261852,Adelaide United,Sydney FC,0.0,4.0
+2377763,261852,Sydney FC,Western Sydney Wanderers,1.0,2.0
+2377764,261852,Melbourne Victory,Melbourne City,3.0,0.0
 2377765,261852,Melbourne City,Sydney FC,,
 2377766,261852,Western Sydney Wanderers,Adelaide United,,
 2377767,261852,Melbourne City,Adelaide United,,
@@ -66825,3 +66825,23 @@ id,tournament_id,club1,club2,ht1,ht2
 2377774,261852,Melbourne City,Melbourne Victory,,
 2377775,261852,Sydney FC,Melbourne City,,
 2377776,261852,Adelaide United,Western Sydney Wanderers,,
+2378439,261865,Belgium,Morocco,1,1
+2378440,261865,Netherlands,Portugal,3,2
+2378441,261865,Portugal,Belgium,2,1
+2378442,261865,Morocco,Germany,0,1
+2378443,261865,Germany,Portugal,2,2
+2378444,261865,Belgium,Netherlands,2,1
+2378445,261865,Netherlands,Germany,4,1
+2378446,261865,Portugal,Morocco,1,2
+2378447,261865,Morocco,Netherlands,,
+2378448,261865,Germany,Belgium,,
+2378449,261865,Morocco,Belgium,,
+2378450,261865,Portugal,Netherlands,,
+2378451,261865,Belgium,Portugal,,
+2378452,261865,Germany,Morocco,,
+2378453,261865,Portugal,Germany,,
+2378454,261865,Netherlands,Belgium,,
+2378455,261865,Germany,Netherlands,,
+2378456,261865,Morocco,Portugal,,
+2378457,261865,Netherlands,Morocco,,
+2378458,261865,Belgium,Germany,,
