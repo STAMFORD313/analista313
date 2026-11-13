@@ -34774,3 +34774,6 @@ game_id,match_id,slug,date,tier,bo,tournament_id,tournament,t1_id,t2_id,team1,te
 193731,134177,state-vs-bbl-13-11-2026,2026-11-13T15:00:00.000+00:00,b,3,6250,PGL Cluj-Napoca 2027: Open Qualifier 2,10493,25251,STATE,BBL,1,de_cache,10493,16.0,14.0
 192496,133247,betclic-apogee-esports-vs-l-g-13-11-2026,2026-11-13T15:30:00.000+00:00,b,3,5628,CCT Europe 2026 Series 13,11101,5933,Betclic,Leo,2,de_dust2,11101,13.0,7.0
 192497,133247,betclic-apogee-esports-vs-l-g-13-11-2026,2026-11-13T15:30:00.000+00:00,b,3,5628,CCT Europe 2026 Series 13,11101,5933,Betclic,Leo,1,de_nuke,11101,13.0,7.0
+192360,133202,galorys-cs-vs-red-canids-academy-13-11-2026,2026-11-13T16:15:00.000+00:00,b,3,5624,CCT South America 2026 Series 8,10049,16743,Galorys,RED Canids Academy,3,de_anubis,10049,13.0,11.0
+192361,133202,galorys-cs-vs-red-canids-academy-13-11-2026,2026-11-13T16:15:00.000+00:00,b,3,5624,CCT South America 2026 Series 8,10049,16743,Galorys,RED Canids Academy,2,de_ancient,16743,13.0,2.0
+192362,133202,galorys-cs-vs-red-canids-academy-13-11-2026,2026-11-13T16:15:00.000+00:00,b,3,5624,CCT South America 2026 Series 8,10049,16743,Galorys,RED Canids Academy,1,de_cache,10049,13.0,11.0
