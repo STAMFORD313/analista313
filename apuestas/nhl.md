@@ -1,5 +1,5 @@
 # 🏒 NHL · apuestas de valor
 
-Actualizado 13/11/2026 12:10 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 13/11/2026 12:35 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 _No hay apuestas de valor próximas en este deporte ahora mismo._

@@ -66547,14 +66547,14 @@ id,tournament_id,club1,club2,ht1,ht2
 2377914,261872,England,Brazil,,
 2377915,261872,Spain,England,,
 2377916,261872,France,Argentina,,
-2377279,261838,Bayern Munchen,Stuttgart,2,1
-2377953,261838,Leipzig,B Dortmund,2,0
-2377954,261838,B Dortmund,Bayern Munchen,2,1
-2377282,261838,Stuttgart,Frankfurt,1,1
-2377955,261838,Frankfurt,B Dortmund,4,1
-2377284,261838,Bayern Munchen,Leipzig,2,1
-2377285,261838,Leipzig,Frankfurt,0,0
-2377956,261838,B Dortmund,Stuttgart,0,0
+2377279,261838,Bayern Munchen,Stuttgart,2.0,1.0
+2377953,261838,Leipzig,B Dortmund,2.0,0.0
+2377954,261838,B Dortmund,Bayern Munchen,2.0,1.0
+2377282,261838,Stuttgart,Frankfurt,1.0,1.0
+2377955,261838,Frankfurt,B Dortmund,4.0,1.0
+2377284,261838,Bayern Munchen,Leipzig,2.0,1.0
+2377285,261838,Leipzig,Frankfurt,0.0,0.0
+2377956,261838,B Dortmund,Stuttgart,0.0,0.0
 2377287,261838,Stuttgart,Leipzig,,
 2377288,261838,Frankfurt,Bayern Munchen,,
 2377289,261838,Stuttgart,Bayern Munchen,,
