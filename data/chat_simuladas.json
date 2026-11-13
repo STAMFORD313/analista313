@@ -1716,15 +1716,17 @@
     "away": "TTG Esports",
     "txt": "Gana TTG Esports",
     "odds": 1.97,
-    "p": 0.531009475465313
+    "p": 0.531009475465313,
+    "ok": "nula",
+    "por": "sin resultado"
    }
   ],
   "odds": 7.58,
   "p": 0.15078928454154314,
   "stake": 1.0,
-  "estado": "pendiente",
-  "avisada": false,
-  "rev": 1
+  "estado": "nula",
+  "avisada": true,
+  "rev": 2
  },
  {
   "id": "20261108164747891515",
