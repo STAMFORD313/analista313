@@ -1370,9 +1370,9 @@
   "cbb|2026-11-14|Loyola Maryland Greyhounds|Morgan State Bears",
   "cbb|2026-11-15|Towson Tigers|UMBC Retrievers",
   "wta|2026-11-14|Jessica Pegula|Mirra Andreeva",
-  "fc|2369696",
-  "cs2|133312",
-  "cs2|133313",
+  "BRA|2026-11-14|Mirassol|Atletico-MG",
+  "MEX|2026-11-14|Queretaro|Monterrey",
+  "BRA|2026-11-14|Chapecoense-SC|Vasco",
   "cs2|133314",
   "cs2|133315",
   "dota2|133545",
@@ -2370,12 +2370,23 @@
   "fc|2377312",
   "fc|2377232",
   "fc|2377935",
-  "BRA|2026-11-14|Mirassol|Atletico-MG",
-  "MEX|2026-11-14|Queretaro|Monterrey",
-  "BRA|2026-11-14|Chapecoense-SC|Vasco",
   "fc|2377317",
   "fc|2377238",
-  "fc|2377968"
+  "fc|2377968",
+  "SP2|2026-11-13|Leganes|Burgos",
+  "SP2|2026-11-14|Valladolid|Castellon",
+  "SP2|2026-11-14|Sociedad B|Sp Gijon",
+  "SP2|2026-11-14|Almeria|Andorra",
+  "SP2|2026-11-14|Mallorca|Cordoba",
+  "SP2|2026-11-14|Oviedo|Girona",
+  "SP2|2026-11-15|Tenerife|Ceuta",
+  "SP2|2026-11-15|Granada|Las Palmas",
+  "SP2|2026-11-15|Eibar|Cadiz",
+  "SP2|2026-11-15|Eldense|Sabadell",
+  "cs2|132599",
+  "fc|2378176",
+  "fc|2378173",
+  "fc|2377749"
  ],
  "signals": [
   {
@@ -4937,81 +4948,6 @@
    "bajas": "",
    "considered": true,
    "placed": false
-  },
-  {
-   "market": "A",
-   "pick": "Wboy",
-   "odds": 3.25,
-   "book": "Unibet",
-   "implied": 0.269,
-   "edge": 0.221,
-   "sin_stake": true,
-   "p": 0.376,
-   "key": "fc|2372137",
-   "match": "d1pseN vs Wboy",
-   "start": "2026-11-10T14:13:00+00:00",
-   "league": "🎮⚽ FC 27 · Champions League B",
-   "sport": "🎮⚽",
-   "context": "EA FC Esoccer Battle d1pseN vs Wboy (Champions League B): goles esperados 3.37-3.15, 1X2 44%/19%/38%. Sin cuotas de casa.",
-   "captured": "2026-11-10T13:44",
-   "version": "1ad22c9",
-   "bajas": "",
-   "considered": true,
-   "placed": false,
-   "score": "3-2",
-   "result": false,
-   "close_p": null,
-   "logged": true
-  },
-  {
-   "market": "D",
-   "pick": "Empate",
-   "odds": 5.4,
-   "book": "Unibet",
-   "implied": 0.163,
-   "edge": 0.131,
-   "sin_stake": true,
-   "p": 0.209,
-   "key": "fc|2373229",
-   "match": "DEKSON vs Jankulovski",
-   "start": "2026-11-10T14:25:00+00:00",
-   "league": "🎮⚽ FC 27 · Europa League",
-   "sport": "🎮⚽",
-   "context": "EA FC Esoccer Battle DEKSON vs Jankulovski (Europa League): goles esperados 2.74-2.05, 1X2 54%/21%/25%. Sin cuotas de casa.",
-   "captured": "2026-11-10T14:13",
-   "version": "bbb90db",
-   "bajas": "",
-   "considered": true,
-   "placed": false,
-   "score": "3-3",
-   "result": true,
-   "close_p": null,
-   "logged": true
-  },
-  {
-   "market": "H",
-   "pick": "Gaga",
-   "odds": 2.65,
-   "book": "Unibet",
-   "implied": 0.327,
-   "edge": 0.082,
-   "sin_stake": true,
-   "p": 0.408,
-   "key": "fc|2373040",
-   "match": "Gaga vs borees",
-   "start": "2026-11-10T14:22:00+00:00",
-   "league": "🎮⚽ FC 27 · Serie A",
-   "sport": "🎮⚽",
-   "context": "EA FC Esoccer Battle Gaga vs borees (Serie A): goles esperados 2.50-2.43, 1X2 41%/22%/37%. Sin cuotas de casa.",
-   "captured": "2026-11-10T14:13",
-   "version": "bbb90db",
-   "bajas": "",
-   "considered": true,
-   "placed": false,
-   "score": "1-1",
-   "result": false,
-   "close_p": null,
-   "logged": true
   },
   {
    "market": "H",
@@ -15460,24 +15396,6 @@
    "start": "2026-11-13T14:30:00+00:00",
    "league": "🐉 Dota 2 · DreamLeague Division 2 Series 5",
    "sport": "🐉",
-   "info": [
-    "📊 <b>Escenarios</b> (Elo por mapa, 11.749 partidos)",
-    "Mapa: Froglings 71% · Serie BO3: Froglings 64% - 36% PuckChamp",
-    "Casas: Froglings 80% · PuckChamp 20%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Elo: Froglings 1828 (11 series) | PuckChamp 1618 (63 series)",
-    "• Forma: Froglings ✅❌❌✅✅ | PuckChamp ✅✅❌❌❌",
-    "• H2H: sin precedentes",
-    "• Torneo: DreamLeague Division 2 Series 5 (nivel B)",
-    "• Cambios de plantilla: ninguno",
-    "• Jugadores en forma (KDA últimas 10 partidas): Froglings: V-Tune 4.8, Stojkov 3.6 | PuckChamp: krol9ash 6.4, gbc 3.3",
-    "• Química de la plantilla: Froglings: 38 partidas juntos de media | PuckChamp: 99 partidas juntos de media",
-    "",
-    "🧩 <b>Marcador exacto «gana + más de 2.5 mapas»</b> (son opciones alternativas: como mucho UNA; solo información, sin stake)",
-    "• Froglings gana 2-1: 24% → cuota justa 4.10 · casa 24%",
-    "• PuckChamp gana 2-1: 10% → cuota justa 10.16 · casa 9%"
-   ],
    "context": "Dota 2 Froglings vs PuckChamp, BO3, torneo DreamLeague Division 2 Series 5 nivel b. Elo por mapa 1828 vs 1618 (prob. mapa 71%, serie 64%). Forma ✅❌❌✅✅ / ✅✅❌❌❌ (✅ victoria ❌ derrota). H2H sin precedentes. Cambios de plantilla: ninguno. Cuotas Thunderpick 1.16/4.55.",
    "captured": "2026-11-12T02:42",
    "version": "18f8bdf",
@@ -17221,7 +17139,11 @@
    "version": "6740953",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "1-2",
+   "result": true,
+   "close_p": 0.6436,
+   "logged": true
   },
   {
    "market": "H",
@@ -21791,7 +21713,11 @@
    "version": "e9df479",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "3-1",
+   "result": true,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "D",
@@ -21930,20 +21856,6 @@
    "start": "2026-11-13T14:28:00+00:00",
    "league": "🎮⚽ FC 27 · LaLiga",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 66.641 partidos)",
-    "Goles esperados: MeLToSik 2.38 · dm1trena 2.13",
-    "Ganador: MeLToSik 43% · empate 23% · dm1trena 34%",
-    "Total: más de 4.5 goles 47% · menos 53%",
-    "Hándicap MeLToSik: −1.5 27% · −2.5 14%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: MeLToSik ✅❌➖➖✅ | dm1trena ❌✅➖❌❌",
-    "• Partidos: MeLToSik 1254 | dm1trena 1131",
-    "• Liga: LaLiga",
-    "• Unibet: 1 2.60 · X 2.80 · 2 2.43 (sin margen 33%/31%/36%) · ventaja +13%. Sin stake hasta demostrar ROI con estas cuotas.",
-    "• En España: LeoVegas España 2.60 (+13%) · Paf España 2.60 (+13%)"
-   ],
    "context": "EA FC Esoccer Battle MeLToSik vs dm1trena (LaLiga): goles esperados 2.38-2.13, 1X2 43%/23%/34%. Sin cuotas de casa.",
    "captured": "2026-11-13T14:05",
    "version": "7702649",
@@ -21965,26 +21877,16 @@
    "start": "2026-11-13T14:13:00+00:00",
    "league": "🎮⚽ FC 27 · Champions League B",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 66.641 partidos)",
-    "Goles esperados: mko1919 2.32 · d1pseN 3.20",
-    "Ganador: mko1919 23% · empate 19% · d1pseN 58%",
-    "Total: más de 5.5 goles 47% · menos 53%",
-    "Hándicap d1pseN: −1.5 39% · −2.5 24%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: mko1919 ❌➖❌❌➖ | d1pseN ✅➖❌✅➖",
-    "• Partidos: mko1919 1278 | d1pseN 355",
-    "• Liga: Champions League B",
-    "• Unibet: 1 2.75 · X 3.75 · 2 1.93 (sin margen 32%/23%/45%) · ventaja +12%. Sin stake hasta demostrar ROI con estas cuotas.",
-    "• En España: LeoVegas España 1.93 (+12%) · Paf España 1.93 (+12%)"
-   ],
    "context": "EA FC Esoccer Battle mko1919 vs d1pseN (Champions League B): goles esperados 2.32-3.20, 1X2 23%/19%/58%. Sin cuotas de casa.",
    "captured": "2026-11-13T14:05",
    "version": "7702649",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "3-1",
+   "result": false,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "H",
@@ -22000,23 +21902,1068 @@
    "start": "2026-11-13T14:16:00+00:00",
    "league": "🎮⚽ FC 27 · LaLiga",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 66.641 partidos)",
-    "Goles esperados: dm1trena 2.16 · Revange 2.58",
-    "Ganador: dm1trena 29% · empate 22% · Revange 49%",
-    "Total: más de 4.5 goles 51% · menos 49%",
-    "Hándicap Revange: −1.5 30% · −2.5 16%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: dm1trena ❌✅➖❌❌ | Revange ❌❌❌❌❌",
-    "• Partidos: dm1trena 1131 | Revange 641",
-    "• Liga: LaLiga",
-    "• Unibet: 1 3.80 · X 3.95 · 2 1.60 (sin margen 23%/22%/55%) · ventaja +10%. Sin stake hasta demostrar ROI con estas cuotas.",
-    "• En España: LeoVegas España 3.80 (+10%) · Paf España 3.80 (+10%)"
-   ],
    "context": "EA FC Esoccer Battle dm1trena vs Revange (LaLiga): goles esperados 2.16-2.58, 1X2 29%/22%/49%. Sin cuotas de casa.",
    "captured": "2026-11-13T14:05",
    "version": "7702649",
+   "bajas": "",
+   "considered": true,
+   "placed": false,
+   "score": "1-2",
+   "result": false,
+   "close_p": null,
+   "logged": true
+  },
+  {
+   "market": "O25",
+   "odds": 2.25,
+   "book": "Bet365",
+   "p": 0.423,
+   "implied": 0.423,
+   "edge": -0.049,
+   "key": "SP2|2026-11-13|Leganes|Burgos",
+   "match": "Leganes vs Burgos",
+   "pick": "Más de 2.5 goles",
+   "start": "2026-11-13T19:30:00+00:00",
+   "league": "🇪🇸 LaLiga 2",
+   "sport": "⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (goles esperados 1.04 - 0.89)",
+    "1 27% · X 32% · 2 40%",
+    "1X 60% · X2 73% · 12 68%",
+    "+1.5 58% · +2.5 30% · +3.5 13% · Ambos marcan 39%",
+    "Marcadores: 0-0 15% · 1-0 14% · 1-1 14% · 0-1 12%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Leganes ❌❌➖❌❌ | Burgos ❌✅✅➖✅",
+    "• H2H: 8 desde 2021: 2V-2E-4D · 2.0 goles/partido · +2.5 en 50%",
+    "• Bajas: Leganes: 0 fuera, 1 duda; Burgos: 1 fuera, 0 duda (Jon Karrikaburu)",
+    "• Favorito de las casas: Leganes @ 2.40",
+    "",
+    "📐 <b>Estadísticas esperadas</b>",
+    "Córners 5.6 - 4.0: total +9.5 48% · Leganes +5.5 47% · Burgos +4.5 36%",
+    "Tarjetas 3.0 - 2.6: total +5.5 47% · Leganes +2.5 57% · Burgos +3.5 26%",
+    "Faltas 16.3 - 14.3: total +26.5 74% · Leganes +13.5 73% · Burgos +13.5 56%",
+    "Tiros a puerta 4.7 - 3.4: total +9.5 30% · Leganes +5.5 34% · Burgos +4.5 26%",
+    "🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Burgos + Más de 26.5 faltas + Menos de 3.5 tarjetas de Burgos → prob. 39%, cuota justa 2.56 (solo vale si la casa paga más)",
+    "🚀 Combinada larga: Menos de 4.5 tiros a puerta de Burgos + Más de 26.5 faltas + Menos de 3.5 tarjetas de Burgos + Menos de 2.5 goles + Menos de 4.5 córners de Burgos → prob. 20%, cuota justa 5.08",
+    "🎯 Simulada (con cuota: Menos de 2.5 goles + Menos de 4.5 córners de Burgos): cuota Unibet aprox. 2.61 (producto de piernas) · prob. 44% · ventaja +15% → 1 u en la banca de simulación"
+   ],
+   "context": "Leganes vs Burgos (🇪🇸 LaLiga 2). Modelo Poisson con historial desde 2005 y bajas: 1 27% X 32% 2 40%, +2.5 30%, ambos marcan 39%. Forma Leganes ❌❌➖❌❌, Burgos ❌✅✅➖✅ (✅ victoria ➖ empate ❌ derrota). H2H 8 desde 2021: 2V-2E-4D · 2.0 goles/partido · +2.5 en 50%. Bajas Leganes: Juan Cruz F duda 0 PJ. Bajas Burgos: Jon Karrikaburu F lesionado 9 PJ. Estadísticas del modelo: Córners 5.6 - 4.0: total +9.5 48% · Leganes +5.5 47% · Burgos +4.5 36% | Tarjetas 3.0 - 2.6: total +5.5 47% · Leganes +2.5 57% · Burgos +3.5 26% | Faltas 16.3 - 14.3: total +26.5 74% · Leganes +13.5 73% · Burgos +13.5 56% | Tiros a puerta 4.7 - 3.4: total +9.5 30% · Leganes +5.5 34% · Burgos +4.5 26% | 🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Burgos + Más de 26.5 faltas + Menos de 3.5 tarjetas de Burgos → prob. 39%, cuota justa 2.56 (solo vale si la casa paga más) | 🚀 Combinada larga: Menos de 4.5 tiros a puerta de Burgos + Más de 26.5 faltas + Menos de 3.5 tarjetas de Burgos + Menos de 2.5 goles + Menos de 4.5 córners de Burgos → prob. 20%, cuota justa 5.08 | 🎯 Simulada (con cuota: Menos de 2.5 goles + Menos de 4.5 córners de Burgos): cuota Unibet aprox. 2.61 (producto de piernas) · prob. 44% · ventaja +15% → 1 u en la banca de simulación.",
+   "captured": "2026-11-13T14:37",
+   "version": "d93fd78",
+   "bajas": "Leganes: 0 fuera, 1 duda; Burgos: 1 fuera, 0 duda (Jon Karrikaburu)",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "corners_t_o",
+   "line": 7.5,
+   "odds": 1.35,
+   "book": "Unibet",
+   "p": 0.7,
+   "implied": 0.679,
+   "edge": -0.055,
+   "pick": "Más de 7.5 córners",
+   "key": "SP2|2026-11-13|Leganes|Burgos",
+   "match": "Leganes vs Burgos",
+   "start": "2026-11-13T19:30:00+00:00",
+   "league": "🇪🇸 LaLiga 2",
+   "sport": "⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (goles esperados 1.04 - 0.89)",
+    "1 27% · X 32% · 2 40%",
+    "1X 60% · X2 73% · 12 68%",
+    "+1.5 58% · +2.5 30% · +3.5 13% · Ambos marcan 39%",
+    "Marcadores: 0-0 15% · 1-0 14% · 1-1 14% · 0-1 12%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Leganes ❌❌➖❌❌ | Burgos ❌✅✅➖✅",
+    "• H2H: 8 desde 2021: 2V-2E-4D · 2.0 goles/partido · +2.5 en 50%",
+    "• Bajas: Leganes: 0 fuera, 1 duda; Burgos: 1 fuera, 0 duda (Jon Karrikaburu)",
+    "• Favorito de las casas: Leganes @ 2.40",
+    "",
+    "📐 <b>Estadísticas esperadas</b>",
+    "Córners 5.6 - 4.0: total +9.5 48% · Leganes +5.5 47% · Burgos +4.5 36%",
+    "Tarjetas 3.0 - 2.6: total +5.5 47% · Leganes +2.5 57% · Burgos +3.5 26%",
+    "Faltas 16.3 - 14.3: total +26.5 74% · Leganes +13.5 73% · Burgos +13.5 56%",
+    "Tiros a puerta 4.7 - 3.4: total +9.5 30% · Leganes +5.5 34% · Burgos +4.5 26%",
+    "🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Burgos + Más de 26.5 faltas + Menos de 3.5 tarjetas de Burgos → prob. 39%, cuota justa 2.56 (solo vale si la casa paga más)",
+    "🚀 Combinada larga: Menos de 4.5 tiros a puerta de Burgos + Más de 26.5 faltas + Menos de 3.5 tarjetas de Burgos + Menos de 2.5 goles + Menos de 4.5 córners de Burgos → prob. 20%, cuota justa 5.08",
+    "🎯 Simulada (con cuota: Menos de 2.5 goles + Menos de 4.5 córners de Burgos): cuota Unibet aprox. 2.61 (producto de piernas) · prob. 44% · ventaja +15% → 1 u en la banca de simulación"
+   ],
+   "context": "Leganes vs Burgos (🇪🇸 LaLiga 2). Modelo Poisson con historial desde 2005 y bajas: 1 27% X 32% 2 40%, +2.5 30%, ambos marcan 39%. Forma Leganes ❌❌➖❌❌, Burgos ❌✅✅➖✅ (✅ victoria ➖ empate ❌ derrota). H2H 8 desde 2021: 2V-2E-4D · 2.0 goles/partido · +2.5 en 50%. Bajas Leganes: Juan Cruz F duda 0 PJ. Bajas Burgos: Jon Karrikaburu F lesionado 9 PJ. Estadísticas del modelo: Córners 5.6 - 4.0: total +9.5 48% · Leganes +5.5 47% · Burgos +4.5 36% | Tarjetas 3.0 - 2.6: total +5.5 47% · Leganes +2.5 57% · Burgos +3.5 26% | Faltas 16.3 - 14.3: total +26.5 74% · Leganes +13.5 73% · Burgos +13.5 56% | Tiros a puerta 4.7 - 3.4: total +9.5 30% · Leganes +5.5 34% · Burgos +4.5 26% | 🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Burgos + Más de 26.5 faltas + Menos de 3.5 tarjetas de Burgos → prob. 39%, cuota justa 2.56 (solo vale si la casa paga más) | 🚀 Combinada larga: Menos de 4.5 tiros a puerta de Burgos + Más de 26.5 faltas + Menos de 3.5 tarjetas de Burgos + Menos de 2.5 goles + Menos de 4.5 córners de Burgos → prob. 20%, cuota justa 5.08 | 🎯 Simulada (con cuota: Menos de 2.5 goles + Menos de 4.5 córners de Burgos): cuota Unibet aprox. 2.61 (producto de piernas) · prob. 44% · ventaja +15% → 1 u en la banca de simulación.",
+   "captured": "2026-11-13T14:37",
+   "version": "d93fd78",
+   "bajas": "Leganes: 0 fuera, 1 duda; Burgos: 1 fuera, 0 duda (Jon Karrikaburu)",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "corners_t_u",
+   "line": 10.5,
+   "odds": 1.43,
+   "book": "Unibet",
+   "p": 0.637,
+   "implied": 0.641,
+   "edge": -0.089,
+   "pick": "Menos de 10.5 córners",
+   "key": "SP2|2026-11-13|Leganes|Burgos",
+   "match": "Leganes vs Burgos",
+   "start": "2026-11-13T19:30:00+00:00",
+   "league": "🇪🇸 LaLiga 2",
+   "sport": "⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (goles esperados 1.04 - 0.89)",
+    "1 27% · X 32% · 2 40%",
+    "1X 60% · X2 73% · 12 68%",
+    "+1.5 58% · +2.5 30% · +3.5 13% · Ambos marcan 39%",
+    "Marcadores: 0-0 15% · 1-0 14% · 1-1 14% · 0-1 12%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Leganes ❌❌➖❌❌ | Burgos ❌✅✅➖✅",
+    "• H2H: 8 desde 2021: 2V-2E-4D · 2.0 goles/partido · +2.5 en 50%",
+    "• Bajas: Leganes: 0 fuera, 1 duda; Burgos: 1 fuera, 0 duda (Jon Karrikaburu)",
+    "• Favorito de las casas: Leganes @ 2.40",
+    "",
+    "📐 <b>Estadísticas esperadas</b>",
+    "Córners 5.6 - 4.0: total +9.5 48% · Leganes +5.5 47% · Burgos +4.5 36%",
+    "Tarjetas 3.0 - 2.6: total +5.5 47% · Leganes +2.5 57% · Burgos +3.5 26%",
+    "Faltas 16.3 - 14.3: total +26.5 74% · Leganes +13.5 73% · Burgos +13.5 56%",
+    "Tiros a puerta 4.7 - 3.4: total +9.5 30% · Leganes +5.5 34% · Burgos +4.5 26%",
+    "🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Burgos + Más de 26.5 faltas + Menos de 3.5 tarjetas de Burgos → prob. 39%, cuota justa 2.56 (solo vale si la casa paga más)",
+    "🚀 Combinada larga: Menos de 4.5 tiros a puerta de Burgos + Más de 26.5 faltas + Menos de 3.5 tarjetas de Burgos + Menos de 2.5 goles + Menos de 4.5 córners de Burgos → prob. 20%, cuota justa 5.08",
+    "🎯 Simulada (con cuota: Menos de 2.5 goles + Menos de 4.5 córners de Burgos): cuota Unibet aprox. 2.61 (producto de piernas) · prob. 44% · ventaja +15% → 1 u en la banca de simulación"
+   ],
+   "context": "Leganes vs Burgos (🇪🇸 LaLiga 2). Modelo Poisson con historial desde 2005 y bajas: 1 27% X 32% 2 40%, +2.5 30%, ambos marcan 39%. Forma Leganes ❌❌➖❌❌, Burgos ❌✅✅➖✅ (✅ victoria ➖ empate ❌ derrota). H2H 8 desde 2021: 2V-2E-4D · 2.0 goles/partido · +2.5 en 50%. Bajas Leganes: Juan Cruz F duda 0 PJ. Bajas Burgos: Jon Karrikaburu F lesionado 9 PJ. Estadísticas del modelo: Córners 5.6 - 4.0: total +9.5 48% · Leganes +5.5 47% · Burgos +4.5 36% | Tarjetas 3.0 - 2.6: total +5.5 47% · Leganes +2.5 57% · Burgos +3.5 26% | Faltas 16.3 - 14.3: total +26.5 74% · Leganes +13.5 73% · Burgos +13.5 56% | Tiros a puerta 4.7 - 3.4: total +9.5 30% · Leganes +5.5 34% · Burgos +4.5 26% | 🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Burgos + Más de 26.5 faltas + Menos de 3.5 tarjetas de Burgos → prob. 39%, cuota justa 2.56 (solo vale si la casa paga más) | 🚀 Combinada larga: Menos de 4.5 tiros a puerta de Burgos + Más de 26.5 faltas + Menos de 3.5 tarjetas de Burgos + Menos de 2.5 goles + Menos de 4.5 córners de Burgos → prob. 20%, cuota justa 5.08 | 🎯 Simulada (con cuota: Menos de 2.5 goles + Menos de 4.5 córners de Burgos): cuota Unibet aprox. 2.61 (producto de piernas) · prob. 44% · ventaja +15% → 1 u en la banca de simulación.",
+   "captured": "2026-11-13T14:37",
+   "version": "d93fd78",
+   "bajas": "Leganes: 0 fuera, 1 duda; Burgos: 1 fuera, 0 duda (Jon Karrikaburu)",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "corners_a_o",
+   "line": 3.5,
+   "odds": 1.54,
+   "book": "Unibet",
+   "p": 0.56,
+   "implied": 0.592,
+   "edge": -0.138,
+   "pick": "Más de 3.5 córners de Burgos",
+   "key": "SP2|2026-11-13|Leganes|Burgos",
+   "match": "Leganes vs Burgos",
+   "start": "2026-11-13T19:30:00+00:00",
+   "league": "🇪🇸 LaLiga 2",
+   "sport": "⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (goles esperados 1.04 - 0.89)",
+    "1 27% · X 32% · 2 40%",
+    "1X 60% · X2 73% · 12 68%",
+    "+1.5 58% · +2.5 30% · +3.5 13% · Ambos marcan 39%",
+    "Marcadores: 0-0 15% · 1-0 14% · 1-1 14% · 0-1 12%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Leganes ❌❌➖❌❌ | Burgos ❌✅✅➖✅",
+    "• H2H: 8 desde 2021: 2V-2E-4D · 2.0 goles/partido · +2.5 en 50%",
+    "• Bajas: Leganes: 0 fuera, 1 duda; Burgos: 1 fuera, 0 duda (Jon Karrikaburu)",
+    "• Favorito de las casas: Leganes @ 2.40",
+    "",
+    "📐 <b>Estadísticas esperadas</b>",
+    "Córners 5.6 - 4.0: total +9.5 48% · Leganes +5.5 47% · Burgos +4.5 36%",
+    "Tarjetas 3.0 - 2.6: total +5.5 47% · Leganes +2.5 57% · Burgos +3.5 26%",
+    "Faltas 16.3 - 14.3: total +26.5 74% · Leganes +13.5 73% · Burgos +13.5 56%",
+    "Tiros a puerta 4.7 - 3.4: total +9.5 30% · Leganes +5.5 34% · Burgos +4.5 26%",
+    "🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Burgos + Más de 26.5 faltas + Menos de 3.5 tarjetas de Burgos → prob. 39%, cuota justa 2.56 (solo vale si la casa paga más)",
+    "🚀 Combinada larga: Menos de 4.5 tiros a puerta de Burgos + Más de 26.5 faltas + Menos de 3.5 tarjetas de Burgos + Menos de 2.5 goles + Menos de 4.5 córners de Burgos → prob. 20%, cuota justa 5.08",
+    "🎯 Simulada (con cuota: Menos de 2.5 goles + Menos de 4.5 córners de Burgos): cuota Unibet aprox. 2.61 (producto de piernas) · prob. 44% · ventaja +15% → 1 u en la banca de simulación"
+   ],
+   "context": "Leganes vs Burgos (🇪🇸 LaLiga 2). Modelo Poisson con historial desde 2005 y bajas: 1 27% X 32% 2 40%, +2.5 30%, ambos marcan 39%. Forma Leganes ❌❌➖❌❌, Burgos ❌✅✅➖✅ (✅ victoria ➖ empate ❌ derrota). H2H 8 desde 2021: 2V-2E-4D · 2.0 goles/partido · +2.5 en 50%. Bajas Leganes: Juan Cruz F duda 0 PJ. Bajas Burgos: Jon Karrikaburu F lesionado 9 PJ. Estadísticas del modelo: Córners 5.6 - 4.0: total +9.5 48% · Leganes +5.5 47% · Burgos +4.5 36% | Tarjetas 3.0 - 2.6: total +5.5 47% · Leganes +2.5 57% · Burgos +3.5 26% | Faltas 16.3 - 14.3: total +26.5 74% · Leganes +13.5 73% · Burgos +13.5 56% | Tiros a puerta 4.7 - 3.4: total +9.5 30% · Leganes +5.5 34% · Burgos +4.5 26% | 🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Burgos + Más de 26.5 faltas + Menos de 3.5 tarjetas de Burgos → prob. 39%, cuota justa 2.56 (solo vale si la casa paga más) | 🚀 Combinada larga: Menos de 4.5 tiros a puerta de Burgos + Más de 26.5 faltas + Menos de 3.5 tarjetas de Burgos + Menos de 2.5 goles + Menos de 4.5 córners de Burgos → prob. 20%, cuota justa 5.08 | 🎯 Simulada (con cuota: Menos de 2.5 goles + Menos de 4.5 córners de Burgos): cuota Unibet aprox. 2.61 (producto de piernas) · prob. 44% · ventaja +15% → 1 u en la banca de simulación.",
+   "captured": "2026-11-13T14:37",
+   "version": "d93fd78",
+   "bajas": "Leganes: 0 fuera, 1 duda; Burgos: 1 fuera, 0 duda (Jon Karrikaburu)",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "corners_a_u",
+   "line": 3.5,
+   "odds": 2.23,
+   "book": "Unibet",
+   "p": 0.44,
+   "implied": 0.408,
+   "edge": -0.018,
+   "pick": "Menos de 3.5 córners de Burgos",
+   "key": "SP2|2026-11-13|Leganes|Burgos",
+   "match": "Leganes vs Burgos",
+   "start": "2026-11-13T19:30:00+00:00",
+   "league": "🇪🇸 LaLiga 2",
+   "sport": "⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (goles esperados 1.04 - 0.89)",
+    "1 27% · X 32% · 2 40%",
+    "1X 60% · X2 73% · 12 68%",
+    "+1.5 58% · +2.5 30% · +3.5 13% · Ambos marcan 39%",
+    "Marcadores: 0-0 15% · 1-0 14% · 1-1 14% · 0-1 12%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Leganes ❌❌➖❌❌ | Burgos ❌✅✅➖✅",
+    "• H2H: 8 desde 2021: 2V-2E-4D · 2.0 goles/partido · +2.5 en 50%",
+    "• Bajas: Leganes: 0 fuera, 1 duda; Burgos: 1 fuera, 0 duda (Jon Karrikaburu)",
+    "• Favorito de las casas: Leganes @ 2.40",
+    "",
+    "📐 <b>Estadísticas esperadas</b>",
+    "Córners 5.6 - 4.0: total +9.5 48% · Leganes +5.5 47% · Burgos +4.5 36%",
+    "Tarjetas 3.0 - 2.6: total +5.5 47% · Leganes +2.5 57% · Burgos +3.5 26%",
+    "Faltas 16.3 - 14.3: total +26.5 74% · Leganes +13.5 73% · Burgos +13.5 56%",
+    "Tiros a puerta 4.7 - 3.4: total +9.5 30% · Leganes +5.5 34% · Burgos +4.5 26%",
+    "🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Burgos + Más de 26.5 faltas + Menos de 3.5 tarjetas de Burgos → prob. 39%, cuota justa 2.56 (solo vale si la casa paga más)",
+    "🚀 Combinada larga: Menos de 4.5 tiros a puerta de Burgos + Más de 26.5 faltas + Menos de 3.5 tarjetas de Burgos + Menos de 2.5 goles + Menos de 4.5 córners de Burgos → prob. 20%, cuota justa 5.08",
+    "🎯 Simulada (con cuota: Menos de 2.5 goles + Menos de 4.5 córners de Burgos): cuota Unibet aprox. 2.61 (producto de piernas) · prob. 44% · ventaja +15% → 1 u en la banca de simulación"
+   ],
+   "context": "Leganes vs Burgos (🇪🇸 LaLiga 2). Modelo Poisson con historial desde 2005 y bajas: 1 27% X 32% 2 40%, +2.5 30%, ambos marcan 39%. Forma Leganes ❌❌➖❌❌, Burgos ❌✅✅➖✅ (✅ victoria ➖ empate ❌ derrota). H2H 8 desde 2021: 2V-2E-4D · 2.0 goles/partido · +2.5 en 50%. Bajas Leganes: Juan Cruz F duda 0 PJ. Bajas Burgos: Jon Karrikaburu F lesionado 9 PJ. Estadísticas del modelo: Córners 5.6 - 4.0: total +9.5 48% · Leganes +5.5 47% · Burgos +4.5 36% | Tarjetas 3.0 - 2.6: total +5.5 47% · Leganes +2.5 57% · Burgos +3.5 26% | Faltas 16.3 - 14.3: total +26.5 74% · Leganes +13.5 73% · Burgos +13.5 56% | Tiros a puerta 4.7 - 3.4: total +9.5 30% · Leganes +5.5 34% · Burgos +4.5 26% | 🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Burgos + Más de 26.5 faltas + Menos de 3.5 tarjetas de Burgos → prob. 39%, cuota justa 2.56 (solo vale si la casa paga más) | 🚀 Combinada larga: Menos de 4.5 tiros a puerta de Burgos + Más de 26.5 faltas + Menos de 3.5 tarjetas de Burgos + Menos de 2.5 goles + Menos de 4.5 córners de Burgos → prob. 20%, cuota justa 5.08 | 🎯 Simulada (con cuota: Menos de 2.5 goles + Menos de 4.5 córners de Burgos): cuota Unibet aprox. 2.61 (producto de piernas) · prob. 44% · ventaja +15% → 1 u en la banca de simulación.",
+   "captured": "2026-11-13T14:37",
+   "version": "d93fd78",
+   "bajas": "Leganes: 0 fuera, 1 duda; Burgos: 1 fuera, 0 duda (Jon Karrikaburu)",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "corners_h_o",
+   "line": 5.5,
+   "odds": 2.35,
+   "book": "Unibet",
+   "p": 0.427,
+   "implied": 0.386,
+   "edge": 0.002,
+   "pick": "Más de 5.5 córners de Leganes",
+   "key": "SP2|2026-11-13|Leganes|Burgos",
+   "match": "Leganes vs Burgos",
+   "start": "2026-11-13T19:30:00+00:00",
+   "league": "🇪🇸 LaLiga 2",
+   "sport": "⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (goles esperados 1.04 - 0.89)",
+    "1 27% · X 32% · 2 40%",
+    "1X 60% · X2 73% · 12 68%",
+    "+1.5 58% · +2.5 30% · +3.5 13% · Ambos marcan 39%",
+    "Marcadores: 0-0 15% · 1-0 14% · 1-1 14% · 0-1 12%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Leganes ❌❌➖❌❌ | Burgos ❌✅✅➖✅",
+    "• H2H: 8 desde 2021: 2V-2E-4D · 2.0 goles/partido · +2.5 en 50%",
+    "• Bajas: Leganes: 0 fuera, 1 duda; Burgos: 1 fuera, 0 duda (Jon Karrikaburu)",
+    "• Favorito de las casas: Leganes @ 2.40",
+    "",
+    "📐 <b>Estadísticas esperadas</b>",
+    "Córners 5.6 - 4.0: total +9.5 48% · Leganes +5.5 47% · Burgos +4.5 36%",
+    "Tarjetas 3.0 - 2.6: total +5.5 47% · Leganes +2.5 57% · Burgos +3.5 26%",
+    "Faltas 16.3 - 14.3: total +26.5 74% · Leganes +13.5 73% · Burgos +13.5 56%",
+    "Tiros a puerta 4.7 - 3.4: total +9.5 30% · Leganes +5.5 34% · Burgos +4.5 26%",
+    "🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Burgos + Más de 26.5 faltas + Menos de 3.5 tarjetas de Burgos → prob. 39%, cuota justa 2.56 (solo vale si la casa paga más)",
+    "🚀 Combinada larga: Menos de 4.5 tiros a puerta de Burgos + Más de 26.5 faltas + Menos de 3.5 tarjetas de Burgos + Menos de 2.5 goles + Menos de 4.5 córners de Burgos → prob. 20%, cuota justa 5.08",
+    "🎯 Simulada (con cuota: Menos de 2.5 goles + Menos de 4.5 córners de Burgos): cuota Unibet aprox. 2.61 (producto de piernas) · prob. 44% · ventaja +15% → 1 u en la banca de simulación"
+   ],
+   "context": "Leganes vs Burgos (🇪🇸 LaLiga 2). Modelo Poisson con historial desde 2005 y bajas: 1 27% X 32% 2 40%, +2.5 30%, ambos marcan 39%. Forma Leganes ❌❌➖❌❌, Burgos ❌✅✅➖✅ (✅ victoria ➖ empate ❌ derrota). H2H 8 desde 2021: 2V-2E-4D · 2.0 goles/partido · +2.5 en 50%. Bajas Leganes: Juan Cruz F duda 0 PJ. Bajas Burgos: Jon Karrikaburu F lesionado 9 PJ. Estadísticas del modelo: Córners 5.6 - 4.0: total +9.5 48% · Leganes +5.5 47% · Burgos +4.5 36% | Tarjetas 3.0 - 2.6: total +5.5 47% · Leganes +2.5 57% · Burgos +3.5 26% | Faltas 16.3 - 14.3: total +26.5 74% · Leganes +13.5 73% · Burgos +13.5 56% | Tiros a puerta 4.7 - 3.4: total +9.5 30% · Leganes +5.5 34% · Burgos +4.5 26% | 🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Burgos + Más de 26.5 faltas + Menos de 3.5 tarjetas de Burgos → prob. 39%, cuota justa 2.56 (solo vale si la casa paga más) | 🚀 Combinada larga: Menos de 4.5 tiros a puerta de Burgos + Más de 26.5 faltas + Menos de 3.5 tarjetas de Burgos + Menos de 2.5 goles + Menos de 4.5 córners de Burgos → prob. 20%, cuota justa 5.08 | 🎯 Simulada (con cuota: Menos de 2.5 goles + Menos de 4.5 córners de Burgos): cuota Unibet aprox. 2.61 (producto de piernas) · prob. 44% · ventaja +15% → 1 u en la banca de simulación.",
+   "captured": "2026-11-13T14:37",
+   "version": "d93fd78",
+   "bajas": "Leganes: 0 fuera, 1 duda; Burgos: 1 fuera, 0 duda (Jon Karrikaburu)",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "corners_h_u",
+   "line": 5.5,
+   "odds": 1.48,
+   "book": "Unibet",
+   "p": 0.573,
+   "implied": 0.614,
+   "edge": -0.151,
+   "pick": "Menos de 5.5 córners de Leganes",
+   "key": "SP2|2026-11-13|Leganes|Burgos",
+   "match": "Leganes vs Burgos",
+   "start": "2026-11-13T19:30:00+00:00",
+   "league": "🇪🇸 LaLiga 2",
+   "sport": "⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (goles esperados 1.04 - 0.89)",
+    "1 27% · X 32% · 2 40%",
+    "1X 60% · X2 73% · 12 68%",
+    "+1.5 58% · +2.5 30% · +3.5 13% · Ambos marcan 39%",
+    "Marcadores: 0-0 15% · 1-0 14% · 1-1 14% · 0-1 12%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Leganes ❌❌➖❌❌ | Burgos ❌✅✅➖✅",
+    "• H2H: 8 desde 2021: 2V-2E-4D · 2.0 goles/partido · +2.5 en 50%",
+    "• Bajas: Leganes: 0 fuera, 1 duda; Burgos: 1 fuera, 0 duda (Jon Karrikaburu)",
+    "• Favorito de las casas: Leganes @ 2.40",
+    "",
+    "📐 <b>Estadísticas esperadas</b>",
+    "Córners 5.6 - 4.0: total +9.5 48% · Leganes +5.5 47% · Burgos +4.5 36%",
+    "Tarjetas 3.0 - 2.6: total +5.5 47% · Leganes +2.5 57% · Burgos +3.5 26%",
+    "Faltas 16.3 - 14.3: total +26.5 74% · Leganes +13.5 73% · Burgos +13.5 56%",
+    "Tiros a puerta 4.7 - 3.4: total +9.5 30% · Leganes +5.5 34% · Burgos +4.5 26%",
+    "🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Burgos + Más de 26.5 faltas + Menos de 3.5 tarjetas de Burgos → prob. 39%, cuota justa 2.56 (solo vale si la casa paga más)",
+    "🚀 Combinada larga: Menos de 4.5 tiros a puerta de Burgos + Más de 26.5 faltas + Menos de 3.5 tarjetas de Burgos + Menos de 2.5 goles + Menos de 4.5 córners de Burgos → prob. 20%, cuota justa 5.08",
+    "🎯 Simulada (con cuota: Menos de 2.5 goles + Menos de 4.5 córners de Burgos): cuota Unibet aprox. 2.61 (producto de piernas) · prob. 44% · ventaja +15% → 1 u en la banca de simulación"
+   ],
+   "context": "Leganes vs Burgos (🇪🇸 LaLiga 2). Modelo Poisson con historial desde 2005 y bajas: 1 27% X 32% 2 40%, +2.5 30%, ambos marcan 39%. Forma Leganes ❌❌➖❌❌, Burgos ❌✅✅➖✅ (✅ victoria ➖ empate ❌ derrota). H2H 8 desde 2021: 2V-2E-4D · 2.0 goles/partido · +2.5 en 50%. Bajas Leganes: Juan Cruz F duda 0 PJ. Bajas Burgos: Jon Karrikaburu F lesionado 9 PJ. Estadísticas del modelo: Córners 5.6 - 4.0: total +9.5 48% · Leganes +5.5 47% · Burgos +4.5 36% | Tarjetas 3.0 - 2.6: total +5.5 47% · Leganes +2.5 57% · Burgos +3.5 26% | Faltas 16.3 - 14.3: total +26.5 74% · Leganes +13.5 73% · Burgos +13.5 56% | Tiros a puerta 4.7 - 3.4: total +9.5 30% · Leganes +5.5 34% · Burgos +4.5 26% | 🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Burgos + Más de 26.5 faltas + Menos de 3.5 tarjetas de Burgos → prob. 39%, cuota justa 2.56 (solo vale si la casa paga más) | 🚀 Combinada larga: Menos de 4.5 tiros a puerta de Burgos + Más de 26.5 faltas + Menos de 3.5 tarjetas de Burgos + Menos de 2.5 goles + Menos de 4.5 córners de Burgos → prob. 20%, cuota justa 5.08 | 🎯 Simulada (con cuota: Menos de 2.5 goles + Menos de 4.5 córners de Burgos): cuota Unibet aprox. 2.61 (producto de piernas) · prob. 44% · ventaja +15% → 1 u en la banca de simulación.",
+   "captured": "2026-11-13T14:37",
+   "version": "d93fd78",
+   "bajas": "Leganes: 0 fuera, 1 duda; Burgos: 1 fuera, 0 duda (Jon Karrikaburu)",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "AHH",
+   "line": 0.25,
+   "odds": 1.84,
+   "book": "mejor del mercado",
+   "p": 0.518,
+   "implied": 0.515,
+   "edge": -0.046,
+   "key": "SP2|2026-11-14|Valladolid|Castellon",
+   "match": "Valladolid vs Castellon",
+   "pick": "Valladolid +0.25 (hándicap asiático)",
+   "start": "2026-11-14T13:00:00+00:00",
+   "league": "🇪🇸 LaLiga 2",
+   "sport": "⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (goles esperados 1.35 - 1.31)",
+    "1 31% · X 29% · 2 39%",
+    "1X 61% · X2 69% · 12 71%",
+    "+1.5 75% · +2.5 50% · +3.5 28% · Ambos marcan 55%",
+    "Marcadores: 1-1 13% · 1-0 9% · 0-1 9% · 2-1 8%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Valladolid ✅❌❌✅✅ | Castellon ➖❌✅✅➖",
+    "• H2H: 6 desde 2005: 3V-1E-2D · 1.7 goles/partido · +2.5 en 33%",
+    "• Bajas: Valladolid: 1 fuera, 1 duda (David Torres); Castellon: sin bajas",
+    "• Favorito de las casas: Castellon @ 2.20",
+    "",
+    "📐 <b>Estadísticas esperadas</b>",
+    "Córners 4.8 - 4.3: total +9.5 43% · Valladolid +5.5 36% · Castellon +4.5 42%",
+    "Tarjetas 2.9 - 2.7: total +5.5 49% · Valladolid +2.5 55% · Castellon +3.5 30%",
+    "Faltas 14.4 - 12.7: total +26.5 53% · Valladolid +13.5 57% · Castellon +13.5 40%",
+    "Tiros a puerta 4.5 - 4.3: total +9.5 40% · Valladolid +5.5 31% · Castellon +4.5 43%",
+    "🧩 Crear apuesta: Menos de 3.5 tarjetas de Castellon + Menos de 5.5 tiros a puerta de Valladolid + Menos de 5.5 córners de Valladolid → prob. 35%, cuota justa 2.90 (solo vale si la casa paga más)",
+    "🚀 Combinada larga: Menos de 3.5 tarjetas de Castellon + Menos de 5.5 tiros a puerta de Valladolid + Menos de 5.5 córners de Valladolid + Menos de 13.5 faltas de Castellon → prob. 22%, cuota justa 4.45"
+   ],
+   "context": "Valladolid vs Castellon (🇪🇸 LaLiga 2). Modelo Poisson con historial desde 2005 y bajas: 1 31% X 29% 2 39%, +2.5 50%, ambos marcan 55%. Forma Valladolid ✅❌❌✅✅, Castellon ➖❌✅✅➖ (✅ victoria ➖ empate ❌ derrota). H2H 6 desde 2005: 3V-1E-2D · 1.7 goles/partido · +2.5 en 33%. Bajas Valladolid: David Torres D sancionado 12 PJ; Juanmi Latasa F duda 10 PJ. Bajas Castellon: ninguna. Estadísticas del modelo: Córners 4.8 - 4.3: total +9.5 43% · Valladolid +5.5 36% · Castellon +4.5 42% | Tarjetas 2.9 - 2.7: total +5.5 49% · Valladolid +2.5 55% · Castellon +3.5 30% | Faltas 14.4 - 12.7: total +26.5 53% · Valladolid +13.5 57% · Castellon +13.5 40% | Tiros a puerta 4.5 - 4.3: total +9.5 40% · Valladolid +5.5 31% · Castellon +4.5 43% | 🧩 Crear apuesta: Menos de 3.5 tarjetas de Castellon + Menos de 5.5 tiros a puerta de Valladolid + Menos de 5.5 córners de Valladolid → prob. 35%, cuota justa 2.90 (solo vale si la casa paga más) | 🚀 Combinada larga: Menos de 3.5 tarjetas de Castellon + Menos de 5.5 tiros a puerta de Valladolid + Menos de 5.5 córners de Valladolid + Menos de 13.5 faltas de Castellon → prob. 22%, cuota justa 4.45.",
+   "captured": "2026-11-13T14:37",
+   "version": "d93fd78",
+   "bajas": "Valladolid: 1 fuera, 1 duda (David Torres); Castellon: sin bajas",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "corners_a_o",
+   "line": 3.5,
+   "odds": 1.38,
+   "book": "Unibet",
+   "p": 0.619,
+   "implied": 0.653,
+   "edge": -0.146,
+   "pick": "Más de 3.5 córners de Castellon",
+   "key": "SP2|2026-11-14|Valladolid|Castellon",
+   "match": "Valladolid vs Castellon",
+   "start": "2026-11-14T13:00:00+00:00",
+   "league": "🇪🇸 LaLiga 2",
+   "sport": "⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (goles esperados 1.35 - 1.31)",
+    "1 31% · X 29% · 2 39%",
+    "1X 61% · X2 69% · 12 71%",
+    "+1.5 75% · +2.5 50% · +3.5 28% · Ambos marcan 55%",
+    "Marcadores: 1-1 13% · 1-0 9% · 0-1 9% · 2-1 8%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Valladolid ✅❌❌✅✅ | Castellon ➖❌✅✅➖",
+    "• H2H: 6 desde 2005: 3V-1E-2D · 1.7 goles/partido · +2.5 en 33%",
+    "• Bajas: Valladolid: 1 fuera, 1 duda (David Torres); Castellon: sin bajas",
+    "• Favorito de las casas: Castellon @ 2.20",
+    "",
+    "📐 <b>Estadísticas esperadas</b>",
+    "Córners 4.8 - 4.3: total +9.5 43% · Valladolid +5.5 36% · Castellon +4.5 42%",
+    "Tarjetas 2.9 - 2.7: total +5.5 49% · Valladolid +2.5 55% · Castellon +3.5 30%",
+    "Faltas 14.4 - 12.7: total +26.5 53% · Valladolid +13.5 57% · Castellon +13.5 40%",
+    "Tiros a puerta 4.5 - 4.3: total +9.5 40% · Valladolid +5.5 31% · Castellon +4.5 43%",
+    "🧩 Crear apuesta: Menos de 3.5 tarjetas de Castellon + Menos de 5.5 tiros a puerta de Valladolid + Menos de 5.5 córners de Valladolid → prob. 35%, cuota justa 2.90 (solo vale si la casa paga más)",
+    "🚀 Combinada larga: Menos de 3.5 tarjetas de Castellon + Menos de 5.5 tiros a puerta de Valladolid + Menos de 5.5 córners de Valladolid + Menos de 13.5 faltas de Castellon → prob. 22%, cuota justa 4.45"
+   ],
+   "context": "Valladolid vs Castellon (🇪🇸 LaLiga 2). Modelo Poisson con historial desde 2005 y bajas: 1 31% X 29% 2 39%, +2.5 50%, ambos marcan 55%. Forma Valladolid ✅❌❌✅✅, Castellon ➖❌✅✅➖ (✅ victoria ➖ empate ❌ derrota). H2H 6 desde 2005: 3V-1E-2D · 1.7 goles/partido · +2.5 en 33%. Bajas Valladolid: David Torres D sancionado 12 PJ; Juanmi Latasa F duda 10 PJ. Bajas Castellon: ninguna. Estadísticas del modelo: Córners 4.8 - 4.3: total +9.5 43% · Valladolid +5.5 36% · Castellon +4.5 42% | Tarjetas 2.9 - 2.7: total +5.5 49% · Valladolid +2.5 55% · Castellon +3.5 30% | Faltas 14.4 - 12.7: total +26.5 53% · Valladolid +13.5 57% · Castellon +13.5 40% | Tiros a puerta 4.5 - 4.3: total +9.5 40% · Valladolid +5.5 31% · Castellon +4.5 43% | 🧩 Crear apuesta: Menos de 3.5 tarjetas de Castellon + Menos de 5.5 tiros a puerta de Valladolid + Menos de 5.5 córners de Valladolid → prob. 35%, cuota justa 2.90 (solo vale si la casa paga más) | 🚀 Combinada larga: Menos de 3.5 tarjetas de Castellon + Menos de 5.5 tiros a puerta de Valladolid + Menos de 5.5 córners de Valladolid + Menos de 13.5 faltas de Castellon → prob. 22%, cuota justa 4.45.",
+   "captured": "2026-11-13T14:37",
+   "version": "d93fd78",
+   "bajas": "Valladolid: 1 fuera, 1 duda (David Torres); Castellon: sin bajas",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "corners_a_u",
+   "line": 4.5,
+   "odds": 1.85,
+   "book": "Unibet",
+   "p": 0.535,
+   "implied": 0.492,
+   "edge": -0.01,
+   "pick": "Menos de 4.5 córners de Castellon",
+   "key": "SP2|2026-11-14|Valladolid|Castellon",
+   "match": "Valladolid vs Castellon",
+   "start": "2026-11-14T13:00:00+00:00",
+   "league": "🇪🇸 LaLiga 2",
+   "sport": "⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (goles esperados 1.35 - 1.31)",
+    "1 31% · X 29% · 2 39%",
+    "1X 61% · X2 69% · 12 71%",
+    "+1.5 75% · +2.5 50% · +3.5 28% · Ambos marcan 55%",
+    "Marcadores: 1-1 13% · 1-0 9% · 0-1 9% · 2-1 8%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Valladolid ✅❌❌✅✅ | Castellon ➖❌✅✅➖",
+    "• H2H: 6 desde 2005: 3V-1E-2D · 1.7 goles/partido · +2.5 en 33%",
+    "• Bajas: Valladolid: 1 fuera, 1 duda (David Torres); Castellon: sin bajas",
+    "• Favorito de las casas: Castellon @ 2.20",
+    "",
+    "📐 <b>Estadísticas esperadas</b>",
+    "Córners 4.8 - 4.3: total +9.5 43% · Valladolid +5.5 36% · Castellon +4.5 42%",
+    "Tarjetas 2.9 - 2.7: total +5.5 49% · Valladolid +2.5 55% · Castellon +3.5 30%",
+    "Faltas 14.4 - 12.7: total +26.5 53% · Valladolid +13.5 57% · Castellon +13.5 40%",
+    "Tiros a puerta 4.5 - 4.3: total +9.5 40% · Valladolid +5.5 31% · Castellon +4.5 43%",
+    "🧩 Crear apuesta: Menos de 3.5 tarjetas de Castellon + Menos de 5.5 tiros a puerta de Valladolid + Menos de 5.5 córners de Valladolid → prob. 35%, cuota justa 2.90 (solo vale si la casa paga más)",
+    "🚀 Combinada larga: Menos de 3.5 tarjetas de Castellon + Menos de 5.5 tiros a puerta de Valladolid + Menos de 5.5 córners de Valladolid + Menos de 13.5 faltas de Castellon → prob. 22%, cuota justa 4.45"
+   ],
+   "context": "Valladolid vs Castellon (🇪🇸 LaLiga 2). Modelo Poisson con historial desde 2005 y bajas: 1 31% X 29% 2 39%, +2.5 50%, ambos marcan 55%. Forma Valladolid ✅❌❌✅✅, Castellon ➖❌✅✅➖ (✅ victoria ➖ empate ❌ derrota). H2H 6 desde 2005: 3V-1E-2D · 1.7 goles/partido · +2.5 en 33%. Bajas Valladolid: David Torres D sancionado 12 PJ; Juanmi Latasa F duda 10 PJ. Bajas Castellon: ninguna. Estadísticas del modelo: Córners 4.8 - 4.3: total +9.5 43% · Valladolid +5.5 36% · Castellon +4.5 42% | Tarjetas 2.9 - 2.7: total +5.5 49% · Valladolid +2.5 55% · Castellon +3.5 30% | Faltas 14.4 - 12.7: total +26.5 53% · Valladolid +13.5 57% · Castellon +13.5 40% | Tiros a puerta 4.5 - 4.3: total +9.5 40% · Valladolid +5.5 31% · Castellon +4.5 43% | 🧩 Crear apuesta: Menos de 3.5 tarjetas de Castellon + Menos de 5.5 tiros a puerta de Valladolid + Menos de 5.5 córners de Valladolid → prob. 35%, cuota justa 2.90 (solo vale si la casa paga más) | 🚀 Combinada larga: Menos de 3.5 tarjetas de Castellon + Menos de 5.5 tiros a puerta de Valladolid + Menos de 5.5 córners de Valladolid + Menos de 13.5 faltas de Castellon → prob. 22%, cuota justa 4.45.",
+   "captured": "2026-11-13T14:37",
+   "version": "d93fd78",
+   "bajas": "Valladolid: 1 fuera, 1 duda (David Torres); Castellon: sin bajas",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "corners_t_o",
+   "line": 7.5,
+   "odds": 1.34,
+   "book": "Unibet",
+   "p": 0.681,
+   "implied": 0.684,
+   "edge": -0.088,
+   "pick": "Más de 7.5 córners",
+   "key": "SP2|2026-11-14|Valladolid|Castellon",
+   "match": "Valladolid vs Castellon",
+   "start": "2026-11-14T13:00:00+00:00",
+   "league": "🇪🇸 LaLiga 2",
+   "sport": "⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (goles esperados 1.35 - 1.31)",
+    "1 31% · X 29% · 2 39%",
+    "1X 61% · X2 69% · 12 71%",
+    "+1.5 75% · +2.5 50% · +3.5 28% · Ambos marcan 55%",
+    "Marcadores: 1-1 13% · 1-0 9% · 0-1 9% · 2-1 8%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Valladolid ✅❌❌✅✅ | Castellon ➖❌✅✅➖",
+    "• H2H: 6 desde 2005: 3V-1E-2D · 1.7 goles/partido · +2.5 en 33%",
+    "• Bajas: Valladolid: 1 fuera, 1 duda (David Torres); Castellon: sin bajas",
+    "• Favorito de las casas: Castellon @ 2.20",
+    "",
+    "📐 <b>Estadísticas esperadas</b>",
+    "Córners 4.8 - 4.3: total +9.5 43% · Valladolid +5.5 36% · Castellon +4.5 42%",
+    "Tarjetas 2.9 - 2.7: total +5.5 49% · Valladolid +2.5 55% · Castellon +3.5 30%",
+    "Faltas 14.4 - 12.7: total +26.5 53% · Valladolid +13.5 57% · Castellon +13.5 40%",
+    "Tiros a puerta 4.5 - 4.3: total +9.5 40% · Valladolid +5.5 31% · Castellon +4.5 43%",
+    "🧩 Crear apuesta: Menos de 3.5 tarjetas de Castellon + Menos de 5.5 tiros a puerta de Valladolid + Menos de 5.5 córners de Valladolid → prob. 35%, cuota justa 2.90 (solo vale si la casa paga más)",
+    "🚀 Combinada larga: Menos de 3.5 tarjetas de Castellon + Menos de 5.5 tiros a puerta de Valladolid + Menos de 5.5 córners de Valladolid + Menos de 13.5 faltas de Castellon → prob. 22%, cuota justa 4.45"
+   ],
+   "context": "Valladolid vs Castellon (🇪🇸 LaLiga 2). Modelo Poisson con historial desde 2005 y bajas: 1 31% X 29% 2 39%, +2.5 50%, ambos marcan 55%. Forma Valladolid ✅❌❌✅✅, Castellon ➖❌✅✅➖ (✅ victoria ➖ empate ❌ derrota). H2H 6 desde 2005: 3V-1E-2D · 1.7 goles/partido · +2.5 en 33%. Bajas Valladolid: David Torres D sancionado 12 PJ; Juanmi Latasa F duda 10 PJ. Bajas Castellon: ninguna. Estadísticas del modelo: Córners 4.8 - 4.3: total +9.5 43% · Valladolid +5.5 36% · Castellon +4.5 42% | Tarjetas 2.9 - 2.7: total +5.5 49% · Valladolid +2.5 55% · Castellon +3.5 30% | Faltas 14.4 - 12.7: total +26.5 53% · Valladolid +13.5 57% · Castellon +13.5 40% | Tiros a puerta 4.5 - 4.3: total +9.5 40% · Valladolid +5.5 31% · Castellon +4.5 43% | 🧩 Crear apuesta: Menos de 3.5 tarjetas de Castellon + Menos de 5.5 tiros a puerta de Valladolid + Menos de 5.5 córners de Valladolid → prob. 35%, cuota justa 2.90 (solo vale si la casa paga más) | 🚀 Combinada larga: Menos de 3.5 tarjetas de Castellon + Menos de 5.5 tiros a puerta de Valladolid + Menos de 5.5 córners de Valladolid + Menos de 13.5 faltas de Castellon → prob. 22%, cuota justa 4.45.",
+   "captured": "2026-11-13T14:37",
+   "version": "d93fd78",
+   "bajas": "Valladolid: 1 fuera, 1 duda (David Torres); Castellon: sin bajas",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "corners_t_u",
+   "line": 10.5,
+   "odds": 1.44,
+   "book": "Unibet",
+   "p": 0.659,
+   "implied": 0.635,
+   "edge": -0.051,
+   "pick": "Menos de 10.5 córners",
+   "key": "SP2|2026-11-14|Valladolid|Castellon",
+   "match": "Valladolid vs Castellon",
+   "start": "2026-11-14T13:00:00+00:00",
+   "league": "🇪🇸 LaLiga 2",
+   "sport": "⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (goles esperados 1.35 - 1.31)",
+    "1 31% · X 29% · 2 39%",
+    "1X 61% · X2 69% · 12 71%",
+    "+1.5 75% · +2.5 50% · +3.5 28% · Ambos marcan 55%",
+    "Marcadores: 1-1 13% · 1-0 9% · 0-1 9% · 2-1 8%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Valladolid ✅❌❌✅✅ | Castellon ➖❌✅✅➖",
+    "• H2H: 6 desde 2005: 3V-1E-2D · 1.7 goles/partido · +2.5 en 33%",
+    "• Bajas: Valladolid: 1 fuera, 1 duda (David Torres); Castellon: sin bajas",
+    "• Favorito de las casas: Castellon @ 2.20",
+    "",
+    "📐 <b>Estadísticas esperadas</b>",
+    "Córners 4.8 - 4.3: total +9.5 43% · Valladolid +5.5 36% · Castellon +4.5 42%",
+    "Tarjetas 2.9 - 2.7: total +5.5 49% · Valladolid +2.5 55% · Castellon +3.5 30%",
+    "Faltas 14.4 - 12.7: total +26.5 53% · Valladolid +13.5 57% · Castellon +13.5 40%",
+    "Tiros a puerta 4.5 - 4.3: total +9.5 40% · Valladolid +5.5 31% · Castellon +4.5 43%",
+    "🧩 Crear apuesta: Menos de 3.5 tarjetas de Castellon + Menos de 5.5 tiros a puerta de Valladolid + Menos de 5.5 córners de Valladolid → prob. 35%, cuota justa 2.90 (solo vale si la casa paga más)",
+    "🚀 Combinada larga: Menos de 3.5 tarjetas de Castellon + Menos de 5.5 tiros a puerta de Valladolid + Menos de 5.5 córners de Valladolid + Menos de 13.5 faltas de Castellon → prob. 22%, cuota justa 4.45"
+   ],
+   "context": "Valladolid vs Castellon (🇪🇸 LaLiga 2). Modelo Poisson con historial desde 2005 y bajas: 1 31% X 29% 2 39%, +2.5 50%, ambos marcan 55%. Forma Valladolid ✅❌❌✅✅, Castellon ➖❌✅✅➖ (✅ victoria ➖ empate ❌ derrota). H2H 6 desde 2005: 3V-1E-2D · 1.7 goles/partido · +2.5 en 33%. Bajas Valladolid: David Torres D sancionado 12 PJ; Juanmi Latasa F duda 10 PJ. Bajas Castellon: ninguna. Estadísticas del modelo: Córners 4.8 - 4.3: total +9.5 43% · Valladolid +5.5 36% · Castellon +4.5 42% | Tarjetas 2.9 - 2.7: total +5.5 49% · Valladolid +2.5 55% · Castellon +3.5 30% | Faltas 14.4 - 12.7: total +26.5 53% · Valladolid +13.5 57% · Castellon +13.5 40% | Tiros a puerta 4.5 - 4.3: total +9.5 40% · Valladolid +5.5 31% · Castellon +4.5 43% | 🧩 Crear apuesta: Menos de 3.5 tarjetas de Castellon + Menos de 5.5 tiros a puerta de Valladolid + Menos de 5.5 córners de Valladolid → prob. 35%, cuota justa 2.90 (solo vale si la casa paga más) | 🚀 Combinada larga: Menos de 3.5 tarjetas de Castellon + Menos de 5.5 tiros a puerta de Valladolid + Menos de 5.5 córners de Valladolid + Menos de 13.5 faltas de Castellon → prob. 22%, cuota justa 4.45.",
+   "captured": "2026-11-13T14:37",
+   "version": "d93fd78",
+   "bajas": "Valladolid: 1 fuera, 1 duda (David Torres); Castellon: sin bajas",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "corners_h_o",
+   "line": 4.5,
+   "odds": 2.0,
+   "book": "Unibet",
+   "p": 0.476,
+   "implied": 0.454,
+   "edge": -0.047,
+   "pick": "Más de 4.5 córners de Valladolid",
+   "key": "SP2|2026-11-14|Valladolid|Castellon",
+   "match": "Valladolid vs Castellon",
+   "start": "2026-11-14T13:00:00+00:00",
+   "league": "🇪🇸 LaLiga 2",
+   "sport": "⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (goles esperados 1.35 - 1.31)",
+    "1 31% · X 29% · 2 39%",
+    "1X 61% · X2 69% · 12 71%",
+    "+1.5 75% · +2.5 50% · +3.5 28% · Ambos marcan 55%",
+    "Marcadores: 1-1 13% · 1-0 9% · 0-1 9% · 2-1 8%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Valladolid ✅❌❌✅✅ | Castellon ➖❌✅✅➖",
+    "• H2H: 6 desde 2005: 3V-1E-2D · 1.7 goles/partido · +2.5 en 33%",
+    "• Bajas: Valladolid: 1 fuera, 1 duda (David Torres); Castellon: sin bajas",
+    "• Favorito de las casas: Castellon @ 2.20",
+    "",
+    "📐 <b>Estadísticas esperadas</b>",
+    "Córners 4.8 - 4.3: total +9.5 43% · Valladolid +5.5 36% · Castellon +4.5 42%",
+    "Tarjetas 2.9 - 2.7: total +5.5 49% · Valladolid +2.5 55% · Castellon +3.5 30%",
+    "Faltas 14.4 - 12.7: total +26.5 53% · Valladolid +13.5 57% · Castellon +13.5 40%",
+    "Tiros a puerta 4.5 - 4.3: total +9.5 40% · Valladolid +5.5 31% · Castellon +4.5 43%",
+    "🧩 Crear apuesta: Menos de 3.5 tarjetas de Castellon + Menos de 5.5 tiros a puerta de Valladolid + Menos de 5.5 córners de Valladolid → prob. 35%, cuota justa 2.90 (solo vale si la casa paga más)",
+    "🚀 Combinada larga: Menos de 3.5 tarjetas de Castellon + Menos de 5.5 tiros a puerta de Valladolid + Menos de 5.5 córners de Valladolid + Menos de 13.5 faltas de Castellon → prob. 22%, cuota justa 4.45"
+   ],
+   "context": "Valladolid vs Castellon (🇪🇸 LaLiga 2). Modelo Poisson con historial desde 2005 y bajas: 1 31% X 29% 2 39%, +2.5 50%, ambos marcan 55%. Forma Valladolid ✅❌❌✅✅, Castellon ➖❌✅✅➖ (✅ victoria ➖ empate ❌ derrota). H2H 6 desde 2005: 3V-1E-2D · 1.7 goles/partido · +2.5 en 33%. Bajas Valladolid: David Torres D sancionado 12 PJ; Juanmi Latasa F duda 10 PJ. Bajas Castellon: ninguna. Estadísticas del modelo: Córners 4.8 - 4.3: total +9.5 43% · Valladolid +5.5 36% · Castellon +4.5 42% | Tarjetas 2.9 - 2.7: total +5.5 49% · Valladolid +2.5 55% · Castellon +3.5 30% | Faltas 14.4 - 12.7: total +26.5 53% · Valladolid +13.5 57% · Castellon +13.5 40% | Tiros a puerta 4.5 - 4.3: total +9.5 40% · Valladolid +5.5 31% · Castellon +4.5 43% | 🧩 Crear apuesta: Menos de 3.5 tarjetas de Castellon + Menos de 5.5 tiros a puerta de Valladolid + Menos de 5.5 córners de Valladolid → prob. 35%, cuota justa 2.90 (solo vale si la casa paga más) | 🚀 Combinada larga: Menos de 3.5 tarjetas de Castellon + Menos de 5.5 tiros a puerta de Valladolid + Menos de 5.5 córners de Valladolid + Menos de 13.5 faltas de Castellon → prob. 22%, cuota justa 4.45.",
+   "captured": "2026-11-13T14:37",
+   "version": "d93fd78",
+   "bajas": "Valladolid: 1 fuera, 1 duda (David Torres); Castellon: sin bajas",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "corners_h_u",
+   "line": 5.5,
+   "odds": 1.34,
+   "book": "Unibet",
+   "p": 0.66,
+   "implied": 0.676,
+   "edge": -0.116,
+   "pick": "Menos de 5.5 córners de Valladolid",
+   "key": "SP2|2026-11-14|Valladolid|Castellon",
+   "match": "Valladolid vs Castellon",
+   "start": "2026-11-14T13:00:00+00:00",
+   "league": "🇪🇸 LaLiga 2",
+   "sport": "⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (goles esperados 1.35 - 1.31)",
+    "1 31% · X 29% · 2 39%",
+    "1X 61% · X2 69% · 12 71%",
+    "+1.5 75% · +2.5 50% · +3.5 28% · Ambos marcan 55%",
+    "Marcadores: 1-1 13% · 1-0 9% · 0-1 9% · 2-1 8%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Valladolid ✅❌❌✅✅ | Castellon ➖❌✅✅➖",
+    "• H2H: 6 desde 2005: 3V-1E-2D · 1.7 goles/partido · +2.5 en 33%",
+    "• Bajas: Valladolid: 1 fuera, 1 duda (David Torres); Castellon: sin bajas",
+    "• Favorito de las casas: Castellon @ 2.20",
+    "",
+    "📐 <b>Estadísticas esperadas</b>",
+    "Córners 4.8 - 4.3: total +9.5 43% · Valladolid +5.5 36% · Castellon +4.5 42%",
+    "Tarjetas 2.9 - 2.7: total +5.5 49% · Valladolid +2.5 55% · Castellon +3.5 30%",
+    "Faltas 14.4 - 12.7: total +26.5 53% · Valladolid +13.5 57% · Castellon +13.5 40%",
+    "Tiros a puerta 4.5 - 4.3: total +9.5 40% · Valladolid +5.5 31% · Castellon +4.5 43%",
+    "🧩 Crear apuesta: Menos de 3.5 tarjetas de Castellon + Menos de 5.5 tiros a puerta de Valladolid + Menos de 5.5 córners de Valladolid → prob. 35%, cuota justa 2.90 (solo vale si la casa paga más)",
+    "🚀 Combinada larga: Menos de 3.5 tarjetas de Castellon + Menos de 5.5 tiros a puerta de Valladolid + Menos de 5.5 córners de Valladolid + Menos de 13.5 faltas de Castellon → prob. 22%, cuota justa 4.45"
+   ],
+   "context": "Valladolid vs Castellon (🇪🇸 LaLiga 2). Modelo Poisson con historial desde 2005 y bajas: 1 31% X 29% 2 39%, +2.5 50%, ambos marcan 55%. Forma Valladolid ✅❌❌✅✅, Castellon ➖❌✅✅➖ (✅ victoria ➖ empate ❌ derrota). H2H 6 desde 2005: 3V-1E-2D · 1.7 goles/partido · +2.5 en 33%. Bajas Valladolid: David Torres D sancionado 12 PJ; Juanmi Latasa F duda 10 PJ. Bajas Castellon: ninguna. Estadísticas del modelo: Córners 4.8 - 4.3: total +9.5 43% · Valladolid +5.5 36% · Castellon +4.5 42% | Tarjetas 2.9 - 2.7: total +5.5 49% · Valladolid +2.5 55% · Castellon +3.5 30% | Faltas 14.4 - 12.7: total +26.5 53% · Valladolid +13.5 57% · Castellon +13.5 40% | Tiros a puerta 4.5 - 4.3: total +9.5 40% · Valladolid +5.5 31% · Castellon +4.5 43% | 🧩 Crear apuesta: Menos de 3.5 tarjetas de Castellon + Menos de 5.5 tiros a puerta de Valladolid + Menos de 5.5 córners de Valladolid → prob. 35%, cuota justa 2.90 (solo vale si la casa paga más) | 🚀 Combinada larga: Menos de 3.5 tarjetas de Castellon + Menos de 5.5 tiros a puerta de Valladolid + Menos de 5.5 córners de Valladolid + Menos de 13.5 faltas de Castellon → prob. 22%, cuota justa 4.45.",
+   "captured": "2026-11-13T14:37",
+   "version": "d93fd78",
+   "bajas": "Valladolid: 1 fuera, 1 duda (David Torres); Castellon: sin bajas",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "O25",
+   "odds": 2.0,
+   "book": "Bet365",
+   "p": 0.477,
+   "implied": 0.477,
+   "edge": -0.046,
+   "key": "SP2|2026-11-14|Sociedad B|Sp Gijon",
+   "match": "Sociedad B vs Sp Gijon",
+   "pick": "Más de 2.5 goles",
+   "start": "2026-11-14T15:15:00+00:00",
+   "league": "🇪🇸 LaLiga 2",
+   "sport": "⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (goles esperados 1.18 - 1.39)",
+    "1 32% · X 29% · 2 39%",
+    "1X 61% · X2 68% · 12 71%",
+    "+1.5 73% · +2.5 47% · +3.5 26% · Ambos marcan 53%",
+    "Marcadores: 1-1 13% · 0-1 10% · 1-2 9% · 1-0 8%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Sociedad B ❌❌❌✅➖ | Sp Gijon ✅✅❌✅❌",
+    "• H2H: 4 desde 2021: 2V-0E-2D · 1.5 goles/partido · +2.5 en 25%",
+    "• Bajas: Sociedad B: sin bajas; Sp Gijon: sin bajas",
+    "• Favorito de las casas: Sociedad B @ 2.40",
+    "",
+    "📐 <b>Estadísticas esperadas</b>",
+    "Córners 5.2 - 4.0: total +9.5 43% · Sociedad B +5.5 40% · Sp Gijon +4.5 37%",
+    "Tarjetas 2.7 - 2.9: total +5.5 49% · Sociedad B +2.5 51% · Sp Gijon +3.5 34%",
+    "Faltas 14.3 - 12.0: total +26.5 47% · Sociedad B +13.5 56% · Sp Gijon +13.5 33%",
+    "Tiros a puerta 4.5 - 3.6: total +9.5 30% · Sociedad B +5.5 30% · Sp Gijon +4.5 30%",
+    "🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Sociedad B + Menos de 13.5 faltas de Sp Gijon + Menos de 3.5 tarjetas de Sp Gijon → prob. 35%, cuota justa 2.90 (solo vale si la casa paga más)",
+    "🚀 Combinada larga: Menos de 5.5 tiros a puerta de Sociedad B + Menos de 13.5 faltas de Sp Gijon + Menos de 3.5 tarjetas de Sp Gijon + Menos de 4.5 córners de Sp Gijon → prob. 20%, cuota justa 5.04"
+   ],
+   "context": "Sociedad B vs Sp Gijon (🇪🇸 LaLiga 2). Modelo Poisson con historial desde 2005 y bajas: 1 32% X 29% 2 39%, +2.5 47%, ambos marcan 53%. Forma Sociedad B ❌❌❌✅➖, Sp Gijon ✅✅❌✅❌ (✅ victoria ➖ empate ❌ derrota). H2H 4 desde 2021: 2V-0E-2D · 1.5 goles/partido · +2.5 en 25%. Bajas Sociedad B: ninguna. Bajas Sp Gijon: ninguna. Estadísticas del modelo: Córners 5.2 - 4.0: total +9.5 43% · Sociedad B +5.5 40% · Sp Gijon +4.5 37% | Tarjetas 2.7 - 2.9: total +5.5 49% · Sociedad B +2.5 51% · Sp Gijon +3.5 34% | Faltas 14.3 - 12.0: total +26.5 47% · Sociedad B +13.5 56% · Sp Gijon +13.5 33% | Tiros a puerta 4.5 - 3.6: total +9.5 30% · Sociedad B +5.5 30% · Sp Gijon +4.5 30% | 🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Sociedad B + Menos de 13.5 faltas de Sp Gijon + Menos de 3.5 tarjetas de Sp Gijon → prob. 35%, cuota justa 2.90 (solo vale si la casa paga más) | 🚀 Combinada larga: Menos de 5.5 tiros a puerta de Sociedad B + Menos de 13.5 faltas de Sp Gijon + Menos de 3.5 tarjetas de Sp Gijon + Menos de 4.5 córners de Sp Gijon → prob. 20%, cuota justa 5.04.",
+   "captured": "2026-11-13T14:37",
+   "version": "d93fd78",
+   "bajas": "Sociedad B: sin bajas; Sp Gijon: sin bajas",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "AHH",
+   "line": -1.0,
+   "odds": 2.05,
+   "book": "mejor del mercado",
+   "p": 0.468,
+   "implied": 0.468,
+   "edge": -0.04,
+   "key": "SP2|2026-11-14|Almeria|Andorra",
+   "match": "Almeria vs Andorra",
+   "pick": "Almeria -1 (hándicap asiático)",
+   "start": "2026-11-14T17:30:00+00:00",
+   "league": "🇪🇸 LaLiga 2",
+   "sport": "⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (goles esperados 2.14 - 1.19)",
+    "1 58% · X 23% · 2 19%",
+    "1X 81% · X2 42% · 12 77%",
+    "+1.5 85% · +2.5 65% · +3.5 43% · Ambos marcan 62%",
+    "Marcadores: 2-1 10% · 1-1 10% · 2-0 8% · 1-0 7%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Almeria ✅✅➖➖✅ | Andorra ➖✅❌❌➖",
+    "• H2H: 2 desde 2025: 2V-0E-0D · 4.0 goles/partido · +2.5 en 100%",
+    "• Bajas: Almeria: 0 fuera, 1 duda; Andorra: sin bajas",
+    "• Favorito de las casas: Almeria @ 1.61",
+    "",
+    "📐 <b>Estadísticas esperadas</b>",
+    "Córners 5.8 - 3.6: total +9.5 47% · Almeria +5.5 50% · Andorra +4.5 30%",
+    "Tarjetas 2.3 - 3.2: total +5.5 47% · Almeria +2.5 40% · Andorra +3.5 41%",
+    "Faltas 13.6 - 14.4: total +26.5 58% · Almeria +13.5 48% · Andorra +13.5 57%",
+    "Tiros a puerta 6.3 - 3.8: total +9.5 55% · Almeria +5.5 58% · Andorra +4.5 34%",
+    "🧩 Crear apuesta: Menos de 4.5 córners de Andorra + Menos de 4.5 tiros a puerta de Andorra + Más de 2.5 goles → prob. 29%, cuota justa 3.47 (solo vale si la casa paga más)",
+    "🚀 Combinada larga: Menos de 4.5 córners de Andorra + Menos de 4.5 tiros a puerta de Andorra + Más de 2.5 goles + Menos de 2.5 tarjetas de Almeria + Más de 26.5 faltas → prob. 9%, cuota justa 10.71"
+   ],
+   "context": "Almeria vs Andorra (🇪🇸 LaLiga 2). Modelo Poisson con historial desde 2005 y bajas: 1 58% X 23% 2 19%, +2.5 65%, ambos marcan 62%. Forma Almeria ✅✅➖➖✅, Andorra ➖✅❌❌➖ (✅ victoria ➖ empate ❌ derrota). H2H 2 desde 2025: 2V-0E-0D · 4.0 goles/partido · +2.5 en 100%. Bajas Almeria: Nico Melamed F duda 7 PJ. Bajas Andorra: ninguna. Estadísticas del modelo: Córners 5.8 - 3.6: total +9.5 47% · Almeria +5.5 50% · Andorra +4.5 30% | Tarjetas 2.3 - 3.2: total +5.5 47% · Almeria +2.5 40% · Andorra +3.5 41% | Faltas 13.6 - 14.4: total +26.5 58% · Almeria +13.5 48% · Andorra +13.5 57% | Tiros a puerta 6.3 - 3.8: total +9.5 55% · Almeria +5.5 58% · Andorra +4.5 34% | 🧩 Crear apuesta: Menos de 4.5 córners de Andorra + Menos de 4.5 tiros a puerta de Andorra + Más de 2.5 goles → prob. 29%, cuota justa 3.47 (solo vale si la casa paga más) | 🚀 Combinada larga: Menos de 4.5 córners de Andorra + Menos de 4.5 tiros a puerta de Andorra + Más de 2.5 goles + Menos de 2.5 tarjetas de Almeria + Más de 26.5 faltas → prob. 9%, cuota justa 10.71.",
+   "captured": "2026-11-13T14:37",
+   "version": "d93fd78",
+   "bajas": "Almeria: 0 fuera, 1 duda; Andorra: sin bajas",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "A",
+   "odds": 3.7,
+   "book": "Bet365",
+   "p": 0.26,
+   "implied": 0.26,
+   "edge": -0.037,
+   "key": "SP2|2026-11-14|Mallorca|Cordoba",
+   "match": "Mallorca vs Cordoba",
+   "pick": "Cordoba",
+   "start": "2026-11-14T17:30:00+00:00",
+   "league": "🇪🇸 LaLiga 2",
+   "sport": "⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (goles esperados 2.01 - 0.90)",
+    "1 57% · X 25% · 2 18%",
+    "1X 82% · X2 43% · 12 75%",
+    "+1.5 79% · +2.5 56% · +3.5 33% · Ambos marcan 52%",
+    "Marcadores: 2-0 11% · 1-0 10% · 1-1 10% · 2-1 10%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Mallorca ➖✅➖➖✅ | Cordoba ❌✅✅➖✅",
+    "• H2H: 8 desde 2014: 2V-3E-3D · 2.6 goles/partido · +2.5 en 50%",
+    "• Bajas: Mallorca: 0 fuera, 1 duda; Cordoba: sin bajas",
+    "• Favorito de las casas: Mallorca @ 1.90",
+    "",
+    "📐 <b>Estadísticas esperadas</b>",
+    "Córners 5.9 - 4.4: total +9.5 56% · Mallorca +5.5 50% · Cordoba +4.5 43%",
+    "Tarjetas 2.5 - 3.0: total +5.5 45% · Mallorca +2.5 45% · Cordoba +3.5 34%",
+    "Faltas 14.5 - 15.6: total +26.5 72% · Mallorca +13.5 58% · Cordoba +13.5 68%",
+    "Tiros a puerta 5.5 - 3.8: total +9.5 45% · Mallorca +5.5 46% · Cordoba +4.5 34%",
+    "🧩 Crear apuesta: Más de 26.5 faltas + Menos de 4.5 tiros a puerta de Cordoba + Menos de 3.5 tarjetas de Cordoba → prob. 29%, cuota justa 3.44 (solo vale si la casa paga más)",
+    "🚀 Combinada larga: Más de 26.5 faltas + Menos de 4.5 tiros a puerta de Cordoba + Menos de 3.5 tarjetas de Cordoba + Menos de 4.5 córners de Cordoba + Más de 2.5 goles → prob. 9%, cuota justa 11.40"
+   ],
+   "context": "Mallorca vs Cordoba (🇪🇸 LaLiga 2). Modelo Poisson con historial desde 2005 y bajas: 1 57% X 25% 2 18%, +2.5 56%, ambos marcan 52%. Forma Mallorca ➖✅➖➖✅, Cordoba ❌✅✅➖✅ (✅ victoria ➖ empate ❌ derrota). H2H 8 desde 2014: 2V-3E-3D · 2.6 goles/partido · +2.5 en 50%. Bajas Mallorca: Jan Salas M duda 0 PJ. Bajas Cordoba: ninguna. Estadísticas del modelo: Córners 5.9 - 4.4: total +9.5 56% · Mallorca +5.5 50% · Cordoba +4.5 43% | Tarjetas 2.5 - 3.0: total +5.5 45% · Mallorca +2.5 45% · Cordoba +3.5 34% | Faltas 14.5 - 15.6: total +26.5 72% · Mallorca +13.5 58% · Cordoba +13.5 68% | Tiros a puerta 5.5 - 3.8: total +9.5 45% · Mallorca +5.5 46% · Cordoba +4.5 34% | 🧩 Crear apuesta: Más de 26.5 faltas + Menos de 4.5 tiros a puerta de Cordoba + Menos de 3.5 tarjetas de Cordoba → prob. 29%, cuota justa 3.44 (solo vale si la casa paga más) | 🚀 Combinada larga: Más de 26.5 faltas + Menos de 4.5 tiros a puerta de Cordoba + Menos de 3.5 tarjetas de Cordoba + Menos de 4.5 córners de Cordoba + Más de 2.5 goles → prob. 9%, cuota justa 11.40.",
+   "captured": "2026-11-13T14:37",
+   "version": "d93fd78",
+   "bajas": "Mallorca: 0 fuera, 1 duda; Cordoba: sin bajas",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "AHH",
+   "line": -0.25,
+   "odds": 2.08,
+   "book": "mejor del mercado",
+   "p": 0.47,
+   "implied": 0.468,
+   "edge": -0.023,
+   "key": "SP2|2026-11-14|Oviedo|Girona",
+   "match": "Oviedo vs Girona",
+   "pick": "Oviedo -0.25 (hándicap asiático)",
+   "start": "2026-11-14T20:00:00+00:00",
+   "league": "🇪🇸 LaLiga 2",
+   "sport": "⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (goles esperados 1.22 - 0.90)",
+    "1 37% · X 32% · 2 31%",
+    "1X 69% · X2 63% · 12 68%",
+    "+1.5 63% · +2.5 36% · +3.5 17% · Ambos marcan 43%",
+    "Marcadores: 1-0 14% · 1-1 14% · 0-0 13% · 0-1 10%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Oviedo ✅✅➖❌✅ | Girona ➖✅✅❌❌",
+    "• H2H: 12 desde 2015: 3V-5E-4D · 2.2 goles/partido · +2.5 en 33%",
+    "• Bajas: Oviedo: sin bajas; Girona: sin bajas",
+    "• Favorito de las casas: Oviedo @ 2.40",
+    "",
+    "📐 <b>Estadísticas esperadas</b>",
+    "Córners 5.6 - 3.7: total +9.5 45% · Oviedo +5.5 47% · Girona +4.5 32%",
+    "Tarjetas 2.7 - 3.0: total +5.5 49% · Oviedo +2.5 51% · Girona +3.5 35%",
+    "Faltas 15.3 - 13.3: total +26.5 62% · Oviedo +13.5 65% · Girona +13.5 46%",
+    "Tiros a puerta 4.9 - 3.5: total +9.5 34% · Oviedo +5.5 37% · Girona +4.5 28%",
+    "🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Girona + Menos de 4.5 córners de Girona + Menos de 3.5 tarjetas de Girona → prob. 33%, cuota justa 3.04 (solo vale si la casa paga más)",
+    "🚀 Combinada larga: Menos de 4.5 tiros a puerta de Girona + Menos de 4.5 córners de Girona + Menos de 3.5 tarjetas de Girona + Más de 13.5 faltas de Oviedo + Menos de 2.5 goles → prob. 15%, cuota justa 6.74"
+   ],
+   "context": "Oviedo vs Girona (🇪🇸 LaLiga 2). Modelo Poisson con historial desde 2005 y bajas: 1 37% X 32% 2 31%, +2.5 36%, ambos marcan 43%. Forma Oviedo ✅✅➖❌✅, Girona ➖✅✅❌❌ (✅ victoria ➖ empate ❌ derrota). H2H 12 desde 2015: 3V-5E-4D · 2.2 goles/partido · +2.5 en 33%. Bajas Oviedo: ninguna. Bajas Girona: ninguna. Estadísticas del modelo: Córners 5.6 - 3.7: total +9.5 45% · Oviedo +5.5 47% · Girona +4.5 32% | Tarjetas 2.7 - 3.0: total +5.5 49% · Oviedo +2.5 51% · Girona +3.5 35% | Faltas 15.3 - 13.3: total +26.5 62% · Oviedo +13.5 65% · Girona +13.5 46% | Tiros a puerta 4.9 - 3.5: total +9.5 34% · Oviedo +5.5 37% · Girona +4.5 28% | 🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Girona + Menos de 4.5 córners de Girona + Menos de 3.5 tarjetas de Girona → prob. 33%, cuota justa 3.04 (solo vale si la casa paga más) | 🚀 Combinada larga: Menos de 4.5 tiros a puerta de Girona + Menos de 4.5 córners de Girona + Menos de 3.5 tarjetas de Girona + Más de 13.5 faltas de Oviedo + Menos de 2.5 goles → prob. 15%, cuota justa 6.74.",
+   "captured": "2026-11-13T14:37",
+   "version": "d93fd78",
+   "bajas": "Oviedo: sin bajas; Girona: sin bajas",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "U25",
+   "odds": 1.85,
+   "book": "mejor del mercado",
+   "p": 0.52,
+   "implied": 0.52,
+   "edge": -0.038,
+   "key": "SP2|2026-11-15|Tenerife|Ceuta",
+   "match": "Tenerife vs Ceuta",
+   "pick": "Menos de 2.5 goles",
+   "start": "2026-11-15T13:00:00+00:00",
+   "league": "🇪🇸 LaLiga 2",
+   "sport": "⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (goles esperados 1.68 - 0.76)",
+    "1 50% · X 29% · 2 22%",
+    "1X 78% · X2 50% · 12 71%",
+    "+1.5 71% · +2.5 44% · +3.5 23% · Ambos marcan 44%",
+    "Marcadores: 1-0 14% · 2-0 12% · 1-1 12% · 2-1 9%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Tenerife ❌➖➖➖➖ | Ceuta ❌❌❌❌❌",
+    "• H2H: sin precedentes",
+    "• Bajas: Tenerife: sin bajas; Ceuta: sin bajas",
+    "• Favorito de las casas: Tenerife @ 1.83",
+    "",
+    "📐 <b>Estadísticas esperadas</b>",
+    "Córners 5.3 - 3.9: total +9.5 44% · Tenerife +5.5 42% · Ceuta +4.5 35%",
+    "Tarjetas 2.5 - 3.0: total +5.5 47% · Tenerife +2.5 47% · Ceuta +3.5 35%",
+    "Faltas 15.8 - 12.6: total +26.5 61% · Tenerife +13.5 69% · Ceuta +13.5 38%",
+    "Tiros a puerta 4.8 - 2.9: total +9.5 25% · Tenerife +5.5 35% · Ceuta +4.5 18%",
+    "🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Ceuta + Más de 13.5 faltas de Tenerife + Menos de 3.5 tarjetas de Ceuta → prob. 36%, cuota justa 2.76 (solo vale si la casa paga más)",
+    "🚀 Combinada larga: Menos de 4.5 tiros a puerta de Ceuta + Más de 13.5 faltas de Tenerife + Menos de 3.5 tarjetas de Ceuta + Menos de 4.5 córners de Ceuta + Menos de 2.5 goles → prob. 14%, cuota justa 6.97"
+   ],
+   "context": "Tenerife vs Ceuta (🇪🇸 LaLiga 2). Modelo Poisson con historial desde 2005 y bajas: 1 50% X 29% 2 22%, +2.5 44%, ambos marcan 44%. Forma Tenerife ❌➖➖➖➖, Ceuta ❌❌❌❌❌ (✅ victoria ➖ empate ❌ derrota). H2H sin precedentes. Bajas Tenerife: ninguna. Bajas Ceuta: ninguna. Estadísticas del modelo: Córners 5.3 - 3.9: total +9.5 44% · Tenerife +5.5 42% · Ceuta +4.5 35% | Tarjetas 2.5 - 3.0: total +5.5 47% · Tenerife +2.5 47% · Ceuta +3.5 35% | Faltas 15.8 - 12.6: total +26.5 61% · Tenerife +13.5 69% · Ceuta +13.5 38% | Tiros a puerta 4.8 - 2.9: total +9.5 25% · Tenerife +5.5 35% · Ceuta +4.5 18% | 🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Ceuta + Más de 13.5 faltas de Tenerife + Menos de 3.5 tarjetas de Ceuta → prob. 36%, cuota justa 2.76 (solo vale si la casa paga más) | 🚀 Combinada larga: Menos de 4.5 tiros a puerta de Ceuta + Más de 13.5 faltas de Tenerife + Menos de 3.5 tarjetas de Ceuta + Menos de 4.5 córners de Ceuta + Menos de 2.5 goles → prob. 14%, cuota justa 6.97.",
+   "captured": "2026-11-13T14:37",
+   "version": "d93fd78",
+   "bajas": "Tenerife: sin bajas; Ceuta: sin bajas",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "AHA",
+   "line": 0.5,
+   "odds": 2.05,
+   "book": "mejor del mercado",
+   "p": 0.473,
+   "implied": 0.469,
+   "edge": -0.03,
+   "key": "SP2|2026-11-15|Granada|Las Palmas",
+   "match": "Granada vs Las Palmas",
+   "pick": "Las Palmas +0.5 (hándicap asiático)",
+   "start": "2026-11-15T15:15:00+00:00",
+   "league": "🇪🇸 LaLiga 2",
+   "sport": "⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (goles esperados 1.54 - 1.17)",
+    "1 36% · X 31% · 2 34%",
+    "1X 66% · X2 64% · 12 69%",
+    "+1.5 76% · +2.5 51% · +3.5 29% · Ambos marcan 55%",
+    "Marcadores: 1-1 13% · 1-0 10% · 2-1 9% · 2-0 8%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Granada ✅✅✅✅✅ | Las Palmas ❌❌✅✅✅",
+    "• H2H: 14 desde 2010: 4V-5E-5D · 3.0 goles/partido · +2.5 en 43%",
+    "• Bajas: Granada: 2 fuera, 0 duda (Baila Diallo, Pau Casadesus); Las Palmas: sin bajas",
+    "• Favorito de las casas: Granada @ 1.78",
+    "",
+    "📐 <b>Estadísticas esperadas</b>",
+    "Córners 5.5 - 3.8: total +9.5 45% · Granada +5.5 45% · Las Palmas +4.5 33%",
+    "Tarjetas 2.2 - 2.6: total +5.5 36% · Granada +2.5 39% · Las Palmas +3.5 26%",
+    "Faltas 13.5 - 13.2: total +26.5 50% · Granada +13.5 48% · Las Palmas +13.5 45%",
+    "Tiros a puerta 5.0 - 3.4: total +9.5 34% · Granada +5.5 38% · Las Palmas +4.5 27%",
+    "🧩 Crear apuesta: Menos de 3.5 tarjetas de Las Palmas + Menos de 4.5 tiros a puerta de Las Palmas + Menos de 4.5 córners de Las Palmas → prob. 37%, cuota justa 2.70 (solo vale si la casa paga más)"
+   ],
+   "context": "Granada vs Las Palmas (🇪🇸 LaLiga 2). Modelo Poisson con historial desde 2005 y bajas: 1 36% X 31% 2 34%, +2.5 51%, ambos marcan 55%. Forma Granada ✅✅✅✅✅, Las Palmas ❌❌✅✅✅ (✅ victoria ➖ empate ❌ derrota). H2H 14 desde 2010: 4V-5E-5D · 3.0 goles/partido · +2.5 en 43%. Bajas Granada: Pau Casadesus D lesionado 2 PJ; Baila Diallo D lesionado 6 PJ. Bajas Las Palmas: ninguna. Estadísticas del modelo: Córners 5.5 - 3.8: total +9.5 45% · Granada +5.5 45% · Las Palmas +4.5 33% | Tarjetas 2.2 - 2.6: total +5.5 36% · Granada +2.5 39% · Las Palmas +3.5 26% | Faltas 13.5 - 13.2: total +26.5 50% · Granada +13.5 48% · Las Palmas +13.5 45% | Tiros a puerta 5.0 - 3.4: total +9.5 34% · Granada +5.5 38% · Las Palmas +4.5 27% | 🧩 Crear apuesta: Menos de 3.5 tarjetas de Las Palmas + Menos de 4.5 tiros a puerta de Las Palmas + Menos de 4.5 córners de Las Palmas → prob. 37%, cuota justa 2.70 (solo vale si la casa paga más).",
+   "captured": "2026-11-13T14:37",
+   "version": "d93fd78",
+   "bajas": "Granada: 2 fuera, 0 duda (Baila Diallo, Pau Casadesus); Las Palmas: sin bajas",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "AHA",
+   "line": 0.75,
+   "odds": 2.03,
+   "book": "mejor del mercado",
+   "p": 0.472,
+   "implied": 0.472,
+   "edge": -0.042,
+   "key": "SP2|2026-11-15|Eibar|Cadiz",
+   "match": "Eibar vs Cadiz",
+   "pick": "Cadiz +0.75 (hándicap asiático)",
+   "start": "2026-11-15T17:30:00+00:00",
+   "league": "🇪🇸 LaLiga 2",
+   "sport": "⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (goles esperados 1.82 - 0.89)",
+    "1 57% · X 25% · 2 17%",
+    "1X 83% · X2 43% · 12 75%",
+    "+1.5 76% · +2.5 51% · +3.5 29% · Ambos marcan 50%",
+    "Marcadores: 1-0 12% · 1-1 11% · 2-0 11% · 2-1 10%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Eibar ✅❌➖❌➖ | Cadiz ❌❌✅❌❌",
+    "• H2H: 8 desde 2007: 4V-1E-3D · 1.6 goles/partido · +2.5 en 25%",
+    "• Bajas: Eibar: 2 fuera, 1 duda (Elijah Gift, I. Garcia de); Cadiz: 1 fuera, 1 duda (Vladyslav Kopotun)",
+    "• Favorito de las casas: Eibar @ 1.62",
+    "",
+    "📐 <b>Estadísticas esperadas</b>",
+    "Córners 5.7 - 3.3: total +9.5 41% · Eibar +5.5 47% · Cadiz +4.5 26%",
+    "Tarjetas 2.0 - 2.9: total +5.5 37% · Eibar +2.5 31% · Cadiz +3.5 34%",
+    "Faltas 12.0 - 12.1: total +26.5 31% · Eibar +13.5 32% · Cadiz +13.5 33%",
+    "Tiros a puerta 5.9 - 2.9: total +9.5 38% · Eibar +5.5 52% · Cadiz +4.5 17%",
+    "🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Cadiz + Menos de 4.5 córners de Cadiz + Menos de 26.5 faltas → prob. 42%, cuota justa 2.36 (solo vale si la casa paga más)",
+    "🚀 Combinada larga: Menos de 4.5 tiros a puerta de Cadiz + Menos de 4.5 córners de Cadiz + Menos de 26.5 faltas + Menos de 2.5 tarjetas de Eibar → prob. 31%, cuota justa 3.18"
+   ],
+   "context": "Eibar vs Cadiz (🇪🇸 LaLiga 2). Modelo Poisson con historial desde 2005 y bajas: 1 57% X 25% 2 17%, +2.5 51%, ambos marcan 50%. Forma Eibar ✅❌➖❌➖, Cadiz ❌❌✅❌❌ (✅ victoria ➖ empate ❌ derrota). H2H 8 desde 2007: 4V-1E-3D · 1.6 goles/partido · +2.5 en 25%. Bajas Eibar: Elijah Gift D lesionado 3 PJ; I. Garcia de D lesionado 2 PJ; Juan Bernat D duda 10 PJ. Bajas Cadiz: Vladyslav Kopotun F lesionado 10 PJ; Francisco Mwepu F duda 0 PJ. Estadísticas del modelo: Córners 5.7 - 3.3: total +9.5 41% · Eibar +5.5 47% · Cadiz +4.5 26% | Tarjetas 2.0 - 2.9: total +5.5 37% · Eibar +2.5 31% · Cadiz +3.5 34% | Faltas 12.0 - 12.1: total +26.5 31% · Eibar +13.5 32% · Cadiz +13.5 33% | Tiros a puerta 5.9 - 2.9: total +9.5 38% · Eibar +5.5 52% · Cadiz +4.5 17% | 🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Cadiz + Menos de 4.5 córners de Cadiz + Menos de 26.5 faltas → prob. 42%, cuota justa 2.36 (solo vale si la casa paga más) | 🚀 Combinada larga: Menos de 4.5 tiros a puerta de Cadiz + Menos de 4.5 córners de Cadiz + Menos de 26.5 faltas + Menos de 2.5 tarjetas de Eibar → prob. 31%, cuota justa 3.18.",
+   "captured": "2026-11-13T14:37",
+   "version": "d93fd78",
+   "bajas": "Eibar: 2 fuera, 1 duda (Elijah Gift, I. Garcia de); Cadiz: 1 fuera, 1 duda (Vladyslav Kopotun)",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "AHA",
+   "line": 0.25,
+   "odds": 1.8,
+   "book": "mejor del mercado",
+   "p": 0.533,
+   "implied": 0.532,
+   "edge": -0.04,
+   "key": "SP2|2026-11-15|Eldense|Sabadell",
+   "match": "Eldense vs Sabadell",
+   "pick": "Sabadell +0.25 (hándicap asiático)",
+   "start": "2026-11-15T17:30:00+00:00",
+   "league": "🇪🇸 LaLiga 2",
+   "sport": "⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (goles esperados 1.10 - 0.98)",
+    "1 35% · X 31% · 2 34%",
+    "1X 66% · X2 65% · 12 69%",
+    "+1.5 62% · +2.5 35% · +3.5 16% · Ambos marcan 42%",
+    "Marcadores: 1-1 14% · 0-0 13% · 1-0 13% · 0-1 12%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Eldense ✅✅❌❌❌ | Sabadell ✅❌➖❌➖",
+    "• H2H: sin precedentes",
+    "• Bajas: Eldense: sin bajas; Sabadell: sin bajas",
+    "• Favorito de las casas: Eldense @ 2.32",
+    "",
+    "📐 <b>Estadísticas esperadas</b>",
+    "Córners 5.4 - 4.2: total +9.5 48% · Eldense +5.5 44% · Sabadell +4.5 40%",
+    "Tarjetas 2.2 - 2.7: total +5.5 38% · Eldense +2.5 39% · Sabadell +3.5 29%",
+    "Faltas 12.0 - 16.3: total +26.5 61% · Eldense +13.5 32% · Sabadell +13.5 73%",
+    "Tiros a puerta 4.5 - 3.5: total +9.5 29% · Eldense +5.5 31% · Sabadell +4.5 28%",
+    "🧩 Crear apuesta: Más de 13.5 faltas de Sabadell + Menos de 4.5 tiros a puerta de Sabadell + Menos de 3.5 tarjetas de Sabadell → prob. 35%, cuota justa 2.86 (solo vale si la casa paga más)",
+    "🚀 Combinada larga: Más de 13.5 faltas de Sabadell + Menos de 4.5 tiros a puerta de Sabadell + Menos de 3.5 tarjetas de Sabadell + Menos de 2.5 goles + Menos de 4.5 córners de Sabadell → prob. 16%, cuota justa 6.19"
+   ],
+   "context": "Eldense vs Sabadell (🇪🇸 LaLiga 2). Modelo Poisson con historial desde 2005 y bajas: 1 35% X 31% 2 34%, +2.5 35%, ambos marcan 42%. Forma Eldense ✅✅❌❌❌, Sabadell ✅❌➖❌➖ (✅ victoria ➖ empate ❌ derrota). H2H sin precedentes. Bajas Eldense: ninguna. Bajas Sabadell: ninguna. Estadísticas del modelo: Córners 5.4 - 4.2: total +9.5 48% · Eldense +5.5 44% · Sabadell +4.5 40% | Tarjetas 2.2 - 2.7: total +5.5 38% · Eldense +2.5 39% · Sabadell +3.5 29% | Faltas 12.0 - 16.3: total +26.5 61% · Eldense +13.5 32% · Sabadell +13.5 73% | Tiros a puerta 4.5 - 3.5: total +9.5 29% · Eldense +5.5 31% · Sabadell +4.5 28% | 🧩 Crear apuesta: Más de 13.5 faltas de Sabadell + Menos de 4.5 tiros a puerta de Sabadell + Menos de 3.5 tarjetas de Sabadell → prob. 35%, cuota justa 2.86 (solo vale si la casa paga más) | 🚀 Combinada larga: Más de 13.5 faltas de Sabadell + Menos de 4.5 tiros a puerta de Sabadell + Menos de 3.5 tarjetas de Sabadell + Menos de 2.5 goles + Menos de 4.5 córners de Sabadell → prob. 16%, cuota justa 6.19.",
+   "captured": "2026-11-13T14:37",
+   "version": "d93fd78",
+   "bajas": "Eldense: sin bajas; Sabadell: sin bajas",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "key": "vp|2026-11-13|Bulgaria|Iceland",
+   "market": "A",
+   "pick": "Iceland",
+   "odds": 1.84,
+   "book": "Smarkets",
+   "p": 0.5643,
+   "implied": 0.5643,
+   "edge": 0.04,
+   "match": "Bulgaria vs Iceland",
+   "start": "2026-11-13T19:45:00+00:00",
+   "league": "💎 Valor vs Pinnacle · UEFA - Nations League C",
+   "sport": "⚽💎",
+   "info": [
+    "💎 <b>Valor contra Pinnacle</b>: Smarkets paga 1.84 y el precio justo de Pinnacle es 1.77 (ventaja +4.0%)",
+    "Backtest 2015-2026 (cuota ≤ 2.5, > 3 %): ROI +11 % ± 3 %, CLV +5 %."
+   ],
+   "context": "Bulgaria vs Iceland (UEFA - Nations League C). Estrategia de valor: Smarkets 1.84 frente a Pinnacle justo 1.77.",
+   "captured": "2026-11-13T14:37",
+   "version": "d93fd78",
+   "bajas": "",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "D",
+   "pick": "Empate",
+   "odds": 5.4,
+   "book": "Unibet",
+   "implied": 0.162,
+   "edge": 0.178,
+   "sin_stake": true,
+   "p": 0.218,
+   "key": "fc|2378176",
+   "match": "pikalicaaa vs Sena",
+   "start": "2026-11-13T15:01:00+00:00",
+   "league": "🎮⚽ FC 27 · Europa League",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 66.669 partidos)",
+    "Goles esperados: pikalicaaa 2.35 · Sena 2.54",
+    "Ganador: pikalicaaa 35% · empate 22% · Sena 43%",
+    "Total: más de 4.5 goles 54% · menos 46%",
+    "Hándicap Sena: −1.5 27% · −2.5 14%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: pikalicaaa ❌➖➖✅❌ | Sena ❌❌➖❌✅",
+    "• Partidos: pikalicaaa 711 | Sena 696",
+    "• Liga: Europa League",
+    "• Unibet: 1 2.02 · X 5.40 · 2 2.16 (sin margen 43%/16%/40%) · ventaja +18%. Sin stake hasta demostrar ROI con estas cuotas.",
+    "• En España: LeoVegas España 5.40 (+18%) · Paf España 5.40 (+18%)"
+   ],
+   "context": "EA FC Esoccer Battle pikalicaaa vs Sena (Europa League): goles esperados 2.35-2.54, 1X2 35%/22%/43%. Sin cuotas de casa.",
+   "captured": "2026-11-13T14:37",
+   "version": "d93fd78",
+   "bajas": "",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "D",
+   "pick": "Empate",
+   "odds": 5.6,
+   "book": "Unibet",
+   "implied": 0.157,
+   "edge": 0.094,
+   "sin_stake": true,
+   "p": 0.195,
+   "key": "fc|2378173",
+   "match": "Jankulovski vs pikalicaaa",
+   "start": "2026-11-13T14:49:00+00:00",
+   "league": "🎮⚽ FC 27 · Europa League",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 66.669 partidos)",
+    "Goles esperados: Jankulovski 2.25 · pikalicaaa 3.08",
+    "Ganador: Jankulovski 26% · empate 20% · pikalicaaa 54%",
+    "Total: más de 5.5 goles 44% · menos 56%",
+    "Hándicap pikalicaaa: −1.5 38% · −2.5 23%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Jankulovski ❌❌❌✅✅ | pikalicaaa ❌➖➖✅❌",
+    "• Partidos: Jankulovski 936 | pikalicaaa 711",
+    "• Liga: Europa League",
+    "• Unibet: 1 2.90 · X 5.60 · 2 1.63 (sin margen 30%/16%/54%) · ventaja +9%. Sin stake hasta demostrar ROI con estas cuotas.",
+    "• En España: LeoVegas España 5.60 (+9%) · Paf España 5.60 (+9%)"
+   ],
+   "context": "EA FC Esoccer Battle Jankulovski vs pikalicaaa (Europa League): goles esperados 2.25-3.08, 1X2 26%/20%/54%. Sin cuotas de casa.",
+   "captured": "2026-11-13T14:37",
+   "version": "d93fd78",
+   "bajas": "",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "H",
+   "pick": "dirowe",
+   "odds": 2.16,
+   "book": "Unibet",
+   "implied": 0.404,
+   "edge": 0.074,
+   "sin_stake": true,
+   "p": 0.497,
+   "key": "fc|2377749",
+   "match": "dirowe vs saportj",
+   "start": "2026-11-13T14:52:00+00:00",
+   "league": "🎮⚽ FC 27 · Eredivisie",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 66.669 partidos)",
+    "Goles esperados: dirowe 3.26 · saportj 2.87",
+    "Ganador: dirowe 50% · empate 19% · saportj 32%",
+    "Total: más de 6.5 goles 41% · menos 59%",
+    "Hándicap dirowe: −1.5 32% · −2.5 19%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: dirowe ✅➖✅✅➖ | saportj ✅❌❌✅✅",
+    "• Partidos: dirowe 859 | saportj 860",
+    "• Liga: Eredivisie",
+    "• Unibet: 1 2.16 · X 4.60 · 2 2.15 (sin margen 40%/19%/41%) · ventaja +7%. Sin stake hasta demostrar ROI con estas cuotas.",
+    "• En España: LeoVegas España 2.16 (+7%) · Paf España 2.16 (+7%)"
+   ],
+   "context": "EA FC Esoccer Battle dirowe vs saportj (Eredivisie): goles esperados 3.26-2.87, 1X2 50%/19%/32%. Sin cuotas de casa.",
+   "captured": "2026-11-13T14:37",
+   "version": "d93fd78",
    "bajas": "",
    "considered": true,
    "placed": false
@@ -22916,12 +23863,1183 @@
     "🧩 Combinada: Gana Pittsburgh Steelers + Menos de 49.5 puntos → prob. 21%, cuota justa 4.87",
     "🎯 No simulada (NFL): cuota DraftKings aprox. 4.73 (producto de piernas) · prob. 21% · ventaja -3%"
    ]
+  },
+  "SP2|2026-11-13|Leganes|Burgos": {
+   "match": "Leganes vs Burgos",
+   "start": "2026-11-13T19:30:00+00:00",
+   "combos": [
+    {
+     "kind": "corta",
+     "p": 0.3899,
+     "legs": [
+      {
+       "var": "sot_a",
+       "sign": -1,
+       "line": 4.5,
+       "p": 0.7441,
+       "text": "Menos de 4.5 tiros a puerta de Burgos",
+       "odds": null
+      },
+      {
+       "var": "fouls_t",
+       "sign": 1,
+       "line": 26.5,
+       "p": 0.7417,
+       "text": "Más de 26.5 faltas",
+       "odds": null
+      },
+      {
+       "var": "cards_a",
+       "sign": -1,
+       "line": 3.5,
+       "p": 0.7416,
+       "text": "Menos de 3.5 tarjetas de Burgos",
+       "odds": null
+      }
+     ]
+    },
+    {
+     "kind": "larga",
+     "p": 0.197,
+     "legs": [
+      {
+       "var": "sot_a",
+       "sign": -1,
+       "line": 4.5,
+       "p": 0.7441,
+       "text": "Menos de 4.5 tiros a puerta de Burgos",
+       "odds": null
+      },
+      {
+       "var": "fouls_t",
+       "sign": 1,
+       "line": 26.5,
+       "p": 0.7417,
+       "text": "Más de 26.5 faltas",
+       "odds": null
+      },
+      {
+       "var": "cards_a",
+       "sign": -1,
+       "line": 3.5,
+       "p": 0.7416,
+       "text": "Menos de 3.5 tarjetas de Burgos",
+       "odds": null
+      },
+      {
+       "var": "goals_t",
+       "sign": -1,
+       "line": 2.5,
+       "p": 0.6959,
+       "text": "Menos de 2.5 goles",
+       "odds": 1.61
+      },
+      {
+       "var": "corners_a",
+       "sign": -1,
+       "line": 4.5,
+       "p": 0.6375,
+       "text": "Menos de 4.5 córners de Burgos",
+       "odds": 1.62
+      }
+     ]
+    },
+    {
+     "kind": "valor",
+     "p": 0.4399,
+     "legs": [
+      {
+       "stat": "goals",
+       "var": "goals_t",
+       "sign": -1,
+       "p": 0.6959119025281606,
+       "line": 2.5,
+       "text": "Menos de 2.5 goles",
+       "odds": 1.61
+      },
+      {
+       "stat": "corners",
+       "var": "corners_a",
+       "sign": -1,
+       "p": 0.637503041709293,
+       "line": 4.5,
+       "text": "Menos de 4.5 córners de Burgos",
+       "odds": 1.62
+      }
+     ],
+     "odds": 2.61,
+     "edge": 0.147,
+     "sim": true
+    }
+   ],
+   "priced": true,
+   "pool": [
+    {
+     "stat": "sot",
+     "var": "sot_a",
+     "sign": -1,
+     "p": 0.7440720653070325,
+     "line": 4.5,
+     "text": "Menos de 4.5 tiros a puerta de Burgos"
+    },
+    {
+     "stat": "fouls",
+     "var": "fouls_t",
+     "sign": 1,
+     "p": 0.7416818135930481,
+     "line": 26.5,
+     "text": "Más de 26.5 faltas"
+    },
+    {
+     "stat": "cards",
+     "var": "cards_a",
+     "sign": -1,
+     "p": 0.7415740734666441,
+     "line": 3.5,
+     "text": "Menos de 3.5 tarjetas de Burgos"
+    },
+    {
+     "stat": "goals",
+     "var": "goals_t",
+     "sign": -1,
+     "p": 0.6959119025281606,
+     "line": 2.5,
+     "text": "Menos de 2.5 goles"
+    },
+    {
+     "stat": "corners",
+     "var": "corners_a",
+     "sign": -1,
+     "p": 0.637503041709293,
+     "line": 4.5,
+     "text": "Menos de 4.5 córners de Burgos"
+    }
+   ],
+   "anunciada": true
+  },
+  "SP2|2026-11-14|Valladolid|Castellon": {
+   "match": "Valladolid vs Castellon",
+   "start": "2026-11-14T13:00:00+00:00",
+   "combos": [
+    {
+     "kind": "corta",
+     "p": 0.3452,
+     "legs": [
+      {
+       "var": "cards_a",
+       "sign": -1,
+       "line": 3.5,
+       "p": 0.7036,
+       "text": "Menos de 3.5 tarjetas de Castellon",
+       "odds": null
+      },
+      {
+       "var": "sot_h",
+       "sign": -1,
+       "line": 5.5,
+       "p": 0.6888,
+       "text": "Menos de 5.5 tiros a puerta de Valladolid",
+       "odds": null
+      },
+      {
+       "var": "corners_h",
+       "sign": -1,
+       "line": 5.5,
+       "p": 0.6438,
+       "text": "Menos de 5.5 córners de Valladolid",
+       "odds": 1.34
+      }
+     ]
+    },
+    {
+     "kind": "larga",
+     "p": 0.2248,
+     "legs": [
+      {
+       "var": "cards_a",
+       "sign": -1,
+       "line": 3.5,
+       "p": 0.7036,
+       "text": "Menos de 3.5 tarjetas de Castellon",
+       "odds": null
+      },
+      {
+       "var": "sot_h",
+       "sign": -1,
+       "line": 5.5,
+       "p": 0.6888,
+       "text": "Menos de 5.5 tiros a puerta de Valladolid",
+       "odds": null
+      },
+      {
+       "var": "corners_h",
+       "sign": -1,
+       "line": 5.5,
+       "p": 0.6438,
+       "text": "Menos de 5.5 córners de Valladolid",
+       "odds": 1.34
+      },
+      {
+       "var": "fouls_a",
+       "sign": -1,
+       "line": 13.5,
+       "p": 0.6026,
+       "text": "Menos de 13.5 faltas de Castellon",
+       "odds": null
+      }
+     ]
+    }
+   ],
+   "priced": true,
+   "pool": [
+    {
+     "stat": "cards",
+     "var": "cards_a",
+     "sign": -1,
+     "p": 0.7035594404192501,
+     "line": 3.5,
+     "text": "Menos de 3.5 tarjetas de Castellon"
+    },
+    {
+     "stat": "sot",
+     "var": "sot_h",
+     "sign": -1,
+     "p": 0.6888126990895569,
+     "line": 5.5,
+     "text": "Menos de 5.5 tiros a puerta de Valladolid"
+    },
+    {
+     "stat": "corners",
+     "var": "corners_h",
+     "sign": -1,
+     "p": 0.6437805641820369,
+     "line": 5.5,
+     "text": "Menos de 5.5 córners de Valladolid"
+    },
+    {
+     "stat": "fouls",
+     "var": "fouls_a",
+     "sign": -1,
+     "p": 0.6026460496748856,
+     "line": 13.5,
+     "text": "Menos de 13.5 faltas de Castellon"
+    }
+   ]
+  },
+  "SP2|2026-11-14|Sociedad B|Sp Gijon": {
+   "match": "Sociedad B vs Sp Gijon",
+   "start": "2026-11-14T15:15:00+00:00",
+   "combos": [
+    {
+     "kind": "corta",
+     "p": 0.3453,
+     "legs": [
+      {
+       "var": "sot_h",
+       "sign": -1,
+       "line": 5.5,
+       "p": 0.7028,
+       "text": "Menos de 5.5 tiros a puerta de Sociedad B",
+       "odds": null
+      },
+      {
+       "var": "fouls_a",
+       "sign": -1,
+       "line": 13.5,
+       "p": 0.6742,
+       "text": "Menos de 13.5 faltas de Sp Gijon",
+       "odds": null
+      },
+      {
+       "var": "cards_a",
+       "sign": -1,
+       "line": 3.5,
+       "p": 0.663,
+       "text": "Menos de 3.5 tarjetas de Sp Gijon",
+       "odds": null
+      }
+     ]
+    },
+    {
+     "kind": "larga",
+     "p": 0.1984,
+     "legs": [
+      {
+       "var": "sot_h",
+       "sign": -1,
+       "line": 5.5,
+       "p": 0.7028,
+       "text": "Menos de 5.5 tiros a puerta de Sociedad B",
+       "odds": null
+      },
+      {
+       "var": "fouls_a",
+       "sign": -1,
+       "line": 13.5,
+       "p": 0.6742,
+       "text": "Menos de 13.5 faltas de Sp Gijon",
+       "odds": null
+      },
+      {
+       "var": "cards_a",
+       "sign": -1,
+       "line": 3.5,
+       "p": 0.663,
+       "text": "Menos de 3.5 tarjetas de Sp Gijon",
+       "odds": null
+      },
+      {
+       "var": "corners_a",
+       "sign": -1,
+       "line": 4.5,
+       "p": 0.6254,
+       "text": "Menos de 4.5 córners de Sp Gijon",
+       "odds": null
+      }
+     ]
+    }
+   ],
+   "priced": false,
+   "pool": [
+    {
+     "stat": "sot",
+     "var": "sot_h",
+     "sign": -1,
+     "p": 0.7027595068573304,
+     "line": 5.5,
+     "text": "Menos de 5.5 tiros a puerta de Sociedad B"
+    },
+    {
+     "stat": "fouls",
+     "var": "fouls_a",
+     "sign": -1,
+     "p": 0.674186158121646,
+     "line": 13.5,
+     "text": "Menos de 13.5 faltas de Sp Gijon"
+    },
+    {
+     "stat": "cards",
+     "var": "cards_a",
+     "sign": -1,
+     "p": 0.6629639819856266,
+     "line": 3.5,
+     "text": "Menos de 3.5 tarjetas de Sp Gijon"
+    },
+    {
+     "stat": "corners",
+     "var": "corners_a",
+     "sign": -1,
+     "p": 0.6253937354963425,
+     "line": 4.5,
+     "text": "Menos de 4.5 córners de Sp Gijon"
+    }
+   ]
+  },
+  "SP2|2026-11-14|Almeria|Andorra": {
+   "match": "Almeria vs Andorra",
+   "start": "2026-11-14T17:30:00+00:00",
+   "combos": [
+    {
+     "kind": "corta",
+     "p": 0.2882,
+     "legs": [
+      {
+       "var": "corners_a",
+       "sign": -1,
+       "line": 4.5,
+       "p": 0.6976,
+       "text": "Menos de 4.5 córners de Andorra",
+       "odds": null
+      },
+      {
+       "var": "sot_a",
+       "sign": -1,
+       "line": 4.5,
+       "p": 0.6625,
+       "text": "Menos de 4.5 tiros a puerta de Andorra",
+       "odds": null
+      },
+      {
+       "var": "goals_t",
+       "sign": 1,
+       "line": 2.5,
+       "p": 0.6466,
+       "text": "Más de 2.5 goles",
+       "odds": 1.54
+      }
+     ]
+    },
+    {
+     "kind": "larga",
+     "p": 0.0934,
+     "legs": [
+      {
+       "var": "corners_a",
+       "sign": -1,
+       "line": 4.5,
+       "p": 0.6976,
+       "text": "Menos de 4.5 córners de Andorra",
+       "odds": null
+      },
+      {
+       "var": "sot_a",
+       "sign": -1,
+       "line": 4.5,
+       "p": 0.6625,
+       "text": "Menos de 4.5 tiros a puerta de Andorra",
+       "odds": null
+      },
+      {
+       "var": "goals_t",
+       "sign": 1,
+       "line": 2.5,
+       "p": 0.6466,
+       "text": "Más de 2.5 goles",
+       "odds": 1.54
+      },
+      {
+       "var": "cards_h",
+       "sign": -1,
+       "line": 2.5,
+       "p": 0.6022,
+       "text": "Menos de 2.5 tarjetas de Almeria",
+       "odds": null
+      },
+      {
+       "var": "fouls_t",
+       "sign": 1,
+       "line": 26.5,
+       "p": 0.5827,
+       "text": "Más de 26.5 faltas",
+       "odds": null
+      }
+     ]
+    }
+   ],
+   "priced": false,
+   "pool": [
+    {
+     "stat": "corners",
+     "var": "corners_a",
+     "sign": -1,
+     "p": 0.697611810915301,
+     "line": 4.5,
+     "text": "Menos de 4.5 córners de Andorra"
+    },
+    {
+     "stat": "sot",
+     "var": "sot_a",
+     "sign": -1,
+     "p": 0.6625016868255973,
+     "line": 4.5,
+     "text": "Menos de 4.5 tiros a puerta de Andorra"
+    },
+    {
+     "stat": "goals",
+     "var": "goals_t",
+     "sign": 1,
+     "p": 0.6465776955895739,
+     "line": 2.5,
+     "text": "Más de 2.5 goles"
+    },
+    {
+     "stat": "cards",
+     "var": "cards_h",
+     "sign": -1,
+     "p": 0.6022410099815674,
+     "line": 2.5,
+     "text": "Menos de 2.5 tarjetas de Almeria"
+    },
+    {
+     "stat": "fouls",
+     "var": "fouls_t",
+     "sign": 1,
+     "p": 0.5826545211791571,
+     "line": 26.5,
+     "text": "Más de 26.5 faltas"
+    }
+   ]
+  },
+  "SP2|2026-11-14|Mallorca|Cordoba": {
+   "match": "Mallorca vs Cordoba",
+   "start": "2026-11-14T17:30:00+00:00",
+   "combos": [
+    {
+     "kind": "corta",
+     "p": 0.291,
+     "legs": [
+      {
+       "var": "fouls_t",
+       "sign": 1,
+       "line": 26.5,
+       "p": 0.7172,
+       "text": "Más de 26.5 faltas",
+       "odds": null
+      },
+      {
+       "var": "sot_a",
+       "sign": -1,
+       "line": 4.5,
+       "p": 0.6648,
+       "text": "Menos de 4.5 tiros a puerta de Cordoba",
+       "odds": null
+      },
+      {
+       "var": "cards_a",
+       "sign": -1,
+       "line": 3.5,
+       "p": 0.657,
+       "text": "Menos de 3.5 tarjetas de Cordoba",
+       "odds": null
+      }
+     ]
+    },
+    {
+     "kind": "larga",
+     "p": 0.0877,
+     "legs": [
+      {
+       "var": "fouls_t",
+       "sign": 1,
+       "line": 26.5,
+       "p": 0.7172,
+       "text": "Más de 26.5 faltas",
+       "odds": null
+      },
+      {
+       "var": "sot_a",
+       "sign": -1,
+       "line": 4.5,
+       "p": 0.6648,
+       "text": "Menos de 4.5 tiros a puerta de Cordoba",
+       "odds": null
+      },
+      {
+       "var": "cards_a",
+       "sign": -1,
+       "line": 3.5,
+       "p": 0.657,
+       "text": "Menos de 3.5 tarjetas de Cordoba",
+       "odds": null
+      },
+      {
+       "var": "corners_a",
+       "sign": -1,
+       "line": 4.5,
+       "p": 0.5734,
+       "text": "Menos de 4.5 córners de Cordoba",
+       "odds": null
+      },
+      {
+       "var": "goals_t",
+       "sign": 1,
+       "line": 2.5,
+       "p": 0.5561,
+       "text": "Más de 2.5 goles",
+       "odds": 1.55
+      }
+     ]
+    }
+   ],
+   "priced": false,
+   "pool": [
+    {
+     "stat": "fouls",
+     "var": "fouls_t",
+     "sign": 1,
+     "p": 0.7171623690251036,
+     "line": 26.5,
+     "text": "Más de 26.5 faltas"
+    },
+    {
+     "stat": "sot",
+     "var": "sot_a",
+     "sign": -1,
+     "p": 0.6647851322441684,
+     "line": 4.5,
+     "text": "Menos de 4.5 tiros a puerta de Cordoba"
+    },
+    {
+     "stat": "cards",
+     "var": "cards_a",
+     "sign": -1,
+     "p": 0.6569659108511955,
+     "line": 3.5,
+     "text": "Menos de 3.5 tarjetas de Cordoba"
+    },
+    {
+     "stat": "corners",
+     "var": "corners_a",
+     "sign": -1,
+     "p": 0.5734305062409811,
+     "line": 4.5,
+     "text": "Menos de 4.5 córners de Cordoba"
+    },
+    {
+     "stat": "goals",
+     "var": "goals_t",
+     "sign": 1,
+     "p": 0.5561393769462435,
+     "line": 2.5,
+     "text": "Más de 2.5 goles"
+    }
+   ]
+  },
+  "SP2|2026-11-14|Oviedo|Girona": {
+   "match": "Oviedo vs Girona",
+   "start": "2026-11-14T20:00:00+00:00",
+   "combos": [
+    {
+     "kind": "corta",
+     "p": 0.3289,
+     "legs": [
+      {
+       "var": "sot_a",
+       "sign": -1,
+       "line": 4.5,
+       "p": 0.725,
+       "text": "Menos de 4.5 tiros a puerta de Girona",
+       "odds": null
+      },
+      {
+       "var": "corners_a",
+       "sign": -1,
+       "line": 4.5,
+       "p": 0.6793,
+       "text": "Menos de 4.5 córners de Girona",
+       "odds": null
+      },
+      {
+       "var": "cards_a",
+       "sign": -1,
+       "line": 3.5,
+       "p": 0.6531,
+       "text": "Menos de 3.5 tarjetas de Girona",
+       "odds": null
+      }
+     ]
+    },
+    {
+     "kind": "larga",
+     "p": 0.1484,
+     "legs": [
+      {
+       "var": "sot_a",
+       "sign": -1,
+       "line": 4.5,
+       "p": 0.725,
+       "text": "Menos de 4.5 tiros a puerta de Girona",
+       "odds": null
+      },
+      {
+       "var": "corners_a",
+       "sign": -1,
+       "line": 4.5,
+       "p": 0.6793,
+       "text": "Menos de 4.5 córners de Girona",
+       "odds": null
+      },
+      {
+       "var": "cards_a",
+       "sign": -1,
+       "line": 3.5,
+       "p": 0.6531,
+       "text": "Menos de 3.5 tarjetas de Girona",
+       "odds": null
+      },
+      {
+       "var": "fouls_h",
+       "sign": 1,
+       "line": 13.5,
+       "p": 0.6469,
+       "text": "Más de 13.5 faltas de Oviedo",
+       "odds": null
+      },
+      {
+       "var": "goals_t",
+       "sign": -1,
+       "line": 2.5,
+       "p": 0.6434,
+       "text": "Menos de 2.5 goles",
+       "odds": 1.76
+      }
+     ]
+    }
+   ],
+   "priced": false,
+   "pool": [
+    {
+     "stat": "sot",
+     "var": "sot_a",
+     "sign": -1,
+     "p": 0.7249776251327331,
+     "line": 4.5,
+     "text": "Menos de 4.5 tiros a puerta de Girona"
+    },
+    {
+     "stat": "corners",
+     "var": "corners_a",
+     "sign": -1,
+     "p": 0.6793312099651972,
+     "line": 4.5,
+     "text": "Menos de 4.5 córners de Girona"
+    },
+    {
+     "stat": "cards",
+     "var": "cards_a",
+     "sign": -1,
+     "p": 0.6531268491912977,
+     "line": 3.5,
+     "text": "Menos de 3.5 tarjetas de Girona"
+    },
+    {
+     "stat": "fouls",
+     "var": "fouls_h",
+     "sign": 1,
+     "p": 0.6469391327763976,
+     "line": 13.5,
+     "text": "Más de 13.5 faltas de Oviedo"
+    },
+    {
+     "stat": "goals",
+     "var": "goals_t",
+     "sign": -1,
+     "p": 0.6433781890823398,
+     "line": 2.5,
+     "text": "Menos de 2.5 goles"
+    }
+   ]
+  },
+  "SP2|2026-11-15|Tenerife|Ceuta": {
+   "match": "Tenerife vs Ceuta",
+   "start": "2026-11-15T13:00:00+00:00",
+   "combos": [
+    {
+     "kind": "corta",
+     "p": 0.362,
+     "legs": [
+      {
+       "var": "sot_a",
+       "sign": -1,
+       "line": 4.5,
+       "p": 0.8206,
+       "text": "Menos de 4.5 tiros a puerta de Ceuta",
+       "odds": null
+      },
+      {
+       "var": "fouls_h",
+       "sign": 1,
+       "line": 13.5,
+       "p": 0.6929,
+       "text": "Más de 13.5 faltas de Tenerife",
+       "odds": null
+      },
+      {
+       "var": "cards_a",
+       "sign": -1,
+       "line": 3.5,
+       "p": 0.6509,
+       "text": "Menos de 3.5 tarjetas de Ceuta",
+       "odds": null
+      }
+     ]
+    },
+    {
+     "kind": "larga",
+     "p": 0.1434,
+     "legs": [
+      {
+       "var": "sot_a",
+       "sign": -1,
+       "line": 4.5,
+       "p": 0.8206,
+       "text": "Menos de 4.5 tiros a puerta de Ceuta",
+       "odds": null
+      },
+      {
+       "var": "fouls_h",
+       "sign": 1,
+       "line": 13.5,
+       "p": 0.6929,
+       "text": "Más de 13.5 faltas de Tenerife",
+       "odds": null
+      },
+      {
+       "var": "cards_a",
+       "sign": -1,
+       "line": 3.5,
+       "p": 0.6509,
+       "text": "Menos de 3.5 tarjetas de Ceuta",
+       "odds": null
+      },
+      {
+       "var": "corners_a",
+       "sign": -1,
+       "line": 4.5,
+       "p": 0.6474,
+       "text": "Menos de 4.5 córners de Ceuta",
+       "odds": null
+      },
+      {
+       "var": "goals_t",
+       "sign": -1,
+       "line": 2.5,
+       "p": 0.5584,
+       "text": "Menos de 2.5 goles",
+       "odds": 1.78
+      }
+     ]
+    }
+   ],
+   "priced": false,
+   "pool": [
+    {
+     "stat": "sot",
+     "var": "sot_a",
+     "sign": -1,
+     "p": 0.8206210775008193,
+     "line": 4.5,
+     "text": "Menos de 4.5 tiros a puerta de Ceuta"
+    },
+    {
+     "stat": "fouls",
+     "var": "fouls_h",
+     "sign": 1,
+     "p": 0.692912014273523,
+     "line": 13.5,
+     "text": "Más de 13.5 faltas de Tenerife"
+    },
+    {
+     "stat": "cards",
+     "var": "cards_a",
+     "sign": -1,
+     "p": 0.6508687340849486,
+     "line": 3.5,
+     "text": "Menos de 3.5 tarjetas de Ceuta"
+    },
+    {
+     "stat": "corners",
+     "var": "corners_a",
+     "sign": -1,
+     "p": 0.6474058080447277,
+     "line": 4.5,
+     "text": "Menos de 4.5 córners de Ceuta"
+    },
+    {
+     "stat": "goals",
+     "var": "goals_t",
+     "sign": -1,
+     "p": 0.558394464223666,
+     "line": 2.5,
+     "text": "Menos de 2.5 goles"
+    }
+   ]
+  },
+  "SP2|2026-11-15|Granada|Las Palmas": {
+   "match": "Granada vs Las Palmas",
+   "start": "2026-11-15T15:15:00+00:00",
+   "combos": [
+    {
+     "kind": "corta",
+     "p": 0.3703,
+     "legs": [
+      {
+       "var": "cards_a",
+       "sign": -1,
+       "line": 3.5,
+       "p": 0.7355,
+       "text": "Menos de 3.5 tarjetas de Las Palmas",
+       "odds": null
+      },
+      {
+       "var": "sot_a",
+       "sign": -1,
+       "line": 4.5,
+       "p": 0.7303,
+       "text": "Menos de 4.5 tiros a puerta de Las Palmas",
+       "odds": null
+      },
+      {
+       "var": "corners_a",
+       "sign": -1,
+       "line": 4.5,
+       "p": 0.6695,
+       "text": "Menos de 4.5 córners de Las Palmas",
+       "odds": null
+      }
+     ]
+    }
+   ],
+   "priced": false,
+   "pool": [
+    {
+     "stat": "cards",
+     "var": "cards_a",
+     "sign": -1,
+     "p": 0.7355358703132868,
+     "line": 3.5,
+     "text": "Menos de 3.5 tarjetas de Las Palmas"
+    },
+    {
+     "stat": "sot",
+     "var": "sot_a",
+     "sign": -1,
+     "p": 0.7303494708101979,
+     "line": 4.5,
+     "text": "Menos de 4.5 tiros a puerta de Las Palmas"
+    },
+    {
+     "stat": "corners",
+     "var": "corners_a",
+     "sign": -1,
+     "p": 0.6694697433690386,
+     "line": 4.5,
+     "text": "Menos de 4.5 córners de Las Palmas"
+    }
+   ]
+  },
+  "SP2|2026-11-15|Eibar|Cadiz": {
+   "match": "Eibar vs Cadiz",
+   "start": "2026-11-15T17:30:00+00:00",
+   "combos": [
+    {
+     "kind": "corta",
+     "p": 0.4233,
+     "legs": [
+      {
+       "var": "sot_a",
+       "sign": -1,
+       "line": 4.5,
+       "p": 0.8265,
+       "text": "Menos de 4.5 tiros a puerta de Cadiz",
+       "odds": null
+      },
+      {
+       "var": "corners_a",
+       "sign": -1,
+       "line": 4.5,
+       "p": 0.741,
+       "text": "Menos de 4.5 córners de Cadiz",
+       "odds": null
+      },
+      {
+       "var": "fouls_t",
+       "sign": -1,
+       "line": 26.5,
+       "p": 0.687,
+       "text": "Menos de 26.5 faltas",
+       "odds": null
+      }
+     ]
+    },
+    {
+     "kind": "larga",
+     "p": 0.3149,
+     "legs": [
+      {
+       "var": "sot_a",
+       "sign": -1,
+       "line": 4.5,
+       "p": 0.8265,
+       "text": "Menos de 4.5 tiros a puerta de Cadiz",
+       "odds": null
+      },
+      {
+       "var": "corners_a",
+       "sign": -1,
+       "line": 4.5,
+       "p": 0.741,
+       "text": "Menos de 4.5 córners de Cadiz",
+       "odds": null
+      },
+      {
+       "var": "fouls_t",
+       "sign": -1,
+       "line": 26.5,
+       "p": 0.687,
+       "text": "Menos de 26.5 faltas",
+       "odds": null
+      },
+      {
+       "var": "cards_h",
+       "sign": -1,
+       "line": 2.5,
+       "p": 0.6862,
+       "text": "Menos de 2.5 tarjetas de Eibar",
+       "odds": null
+      }
+     ]
+    }
+   ],
+   "priced": false,
+   "pool": [
+    {
+     "stat": "sot",
+     "var": "sot_a",
+     "sign": -1,
+     "p": 0.8264596277166292,
+     "line": 4.5,
+     "text": "Menos de 4.5 tiros a puerta de Cadiz"
+    },
+    {
+     "stat": "corners",
+     "var": "corners_a",
+     "sign": -1,
+     "p": 0.7410401789566571,
+     "line": 4.5,
+     "text": "Menos de 4.5 córners de Cadiz"
+    },
+    {
+     "stat": "fouls",
+     "var": "fouls_t",
+     "sign": -1,
+     "p": 0.6870454832782253,
+     "line": 26.5,
+     "text": "Menos de 26.5 faltas"
+    },
+    {
+     "stat": "cards",
+     "var": "cards_h",
+     "sign": -1,
+     "p": 0.6861908289945411,
+     "line": 2.5,
+     "text": "Menos de 2.5 tarjetas de Eibar"
+    }
+   ]
+  },
+  "SP2|2026-11-15|Eldense|Sabadell": {
+   "match": "Eldense vs Sabadell",
+   "start": "2026-11-15T17:30:00+00:00",
+   "combos": [
+    {
+     "kind": "corta",
+     "p": 0.3499,
+     "legs": [
+      {
+       "var": "fouls_a",
+       "sign": 1,
+       "line": 13.5,
+       "p": 0.7334,
+       "text": "Más de 13.5 faltas de Sabadell",
+       "odds": null
+      },
+      {
+       "var": "sot_a",
+       "sign": -1,
+       "line": 4.5,
+       "p": 0.7244,
+       "text": "Menos de 4.5 tiros a puerta de Sabadell",
+       "odds": null
+      },
+      {
+       "var": "cards_a",
+       "sign": -1,
+       "line": 3.5,
+       "p": 0.7068,
+       "text": "Menos de 3.5 tarjetas de Sabadell",
+       "odds": null
+      }
+     ]
+    },
+    {
+     "kind": "larga",
+     "p": 0.1615,
+     "legs": [
+      {
+       "var": "fouls_a",
+       "sign": 1,
+       "line": 13.5,
+       "p": 0.7334,
+       "text": "Más de 13.5 faltas de Sabadell",
+       "odds": null
+      },
+      {
+       "var": "sot_a",
+       "sign": -1,
+       "line": 4.5,
+       "p": 0.7244,
+       "text": "Menos de 4.5 tiros a puerta de Sabadell",
+       "odds": null
+      },
+      {
+       "var": "cards_a",
+       "sign": -1,
+       "line": 3.5,
+       "p": 0.7068,
+       "text": "Menos de 3.5 tarjetas de Sabadell",
+       "odds": null
+      },
+      {
+       "var": "goals_t",
+       "sign": -1,
+       "line": 2.5,
+       "p": 0.654,
+       "text": "Menos de 2.5 goles",
+       "odds": 1.53
+      },
+      {
+       "var": "corners_a",
+       "sign": -1,
+       "line": 4.5,
+       "p": 0.6041,
+       "text": "Menos de 4.5 córners de Sabadell",
+       "odds": null
+      }
+     ]
+    }
+   ],
+   "priced": false,
+   "pool": [
+    {
+     "stat": "fouls",
+     "var": "fouls_a",
+     "sign": 1,
+     "p": 0.7334248986792774,
+     "line": 13.5,
+     "text": "Más de 13.5 faltas de Sabadell"
+    },
+    {
+     "stat": "sot",
+     "var": "sot_a",
+     "sign": -1,
+     "p": 0.7244049827092874,
+     "line": 4.5,
+     "text": "Menos de 4.5 tiros a puerta de Sabadell"
+    },
+    {
+     "stat": "cards",
+     "var": "cards_a",
+     "sign": -1,
+     "p": 0.706811536299029,
+     "line": 3.5,
+     "text": "Menos de 3.5 tarjetas de Sabadell"
+    },
+    {
+     "stat": "goals",
+     "var": "goals_t",
+     "sign": -1,
+     "p": 0.6540284930119769,
+     "line": 2.5,
+     "text": "Menos de 2.5 goles"
+    },
+    {
+     "stat": "corners",
+     "var": "corners_a",
+     "sign": -1,
+     "p": 0.6040684876171559,
+     "line": 4.5,
+     "text": "Menos de 4.5 córners de Sabadell"
+    }
+   ]
   }
  },
- "combo_sent": "2026-11-07T21:34:10.214214+00:00",
+ "combo_sent": "2026-11-13T14:37:12.000910+00:00",
  "fc_sim_sent": "2026-11-13T14:05:30.393769+00:00",
  "fc_sim_n": 1695,
- "kambi_ok": [],
+ "kambi_ok": [
+  "SP2|2026-11-13|Leganes|Burgos",
+  "SP2|2026-11-14|Valladolid|Castellon"
+ ],
  "paper_sent": "2026-11-12T17:27:42.408311+00:00",
  "sgp_res_n": 409,
  "nba_props_ok": [

@@ -66665,3 +66665,63 @@ id,tournament_id,club1,club2,ht1,ht2
 2377734,261849,Shanghai Port,Shanghai Shenhua,1.0,4.0
 2377735,261849,Shanghai Shenhua,Shandong Taishan,2.0,0.0
 2377736,261849,Beijing Guoan,Chengdu Rongcheng,3.0,1.0
+2377399,261808,Bayern Munchen,Liverpool,3,1
+2377400,261808,Atleti,Real Madrid,3,0
+2377401,261808,Real Madrid,Bayern Munchen,1,1
+2377402,261808,Liverpool,Paris,2,0
+2377403,261808,Paris,Real Madrid,3,3
+2377404,261808,Bayern Munchen,Atleti,3,0
+2377405,261808,Atleti,Paris,1,2
+2377406,261808,Real Madrid,Liverpool,1,1
+2377407,261808,Liverpool,Atleti,2,1
+2377408,261808,Paris,Bayern Munchen,1,3
+2377409,261808,Liverpool,Bayern Munchen,0,2
+2377410,261808,Real Madrid,Atleti,1,0
+2377411,261808,Bayern Munchen,Real Madrid,,
+2377412,261808,Paris,Liverpool,,
+2377413,261808,Real Madrid,Paris,,
+2377414,261808,Atleti,Bayern Munchen,,
+2377415,261808,Paris,Atleti,,
+2377416,261808,Liverpool,Real Madrid,,
+2377417,261808,Atleti,Liverpool,,
+2377418,261808,Bayern Munchen,Paris,,
+2377737,261850,PSV,Ajax,4,2
+2377738,261850,Feyenoord,Twente,1,1
+2377739,261850,Twente,PSV,0,2
+2377740,261850,Ajax,AZ Alkmaar,0,4
+2377741,261850,AZ Alkmaar,Twente,1,3
+2377742,261850,PSV,Feyenoord,3,3
+2377743,261850,Feyenoord,AZ Alkmaar,1,2
+2377744,261850,Twente,Ajax,1,1
+2377745,261850,Ajax,Feyenoord,2,2
+2377746,261850,AZ Alkmaar,PSV,0,3
+2377747,261850,Ajax,PSV,,
+2377748,261850,Twente,Feyenoord,,
+2377749,261850,PSV,Twente,,
+2377750,261850,AZ Alkmaar,Ajax,,
+2377751,261850,Twente,AZ Alkmaar,,
+2377752,261850,Feyenoord,PSV,,
+2377753,261850,AZ Alkmaar,Feyenoord,,
+2377754,261850,Ajax,Twente,,
+2377755,261850,Feyenoord,Ajax,,
+2377756,261850,PSV,AZ Alkmaar,,
+2378309,261859,Spain,France,2,2
+2378310,261859,Germany,Argentina,3,0
+2378311,261859,Argentina,Spain,3,2
+2378312,261859,France,England,2,5
+2378313,261859,England,Argentina,3,1
+2378314,261859,Spain,Germany,3,4
+2378315,261859,Germany,England,4,3
+2378316,261859,Argentina,France,3,2
+2378317,261859,France,Germany,,
+2378318,261859,England,Spain,,
+2378319,261859,France,Spain,,
+2378320,261859,Argentina,Germany,,
+2378321,261859,Spain,Argentina,,
+2378322,261859,England,France,,
+2378323,261859,Argentina,England,,
+2378324,261859,Germany,Spain,,
+2378325,261859,England,Germany,,
+2378326,261859,France,Argentina,,
+2378327,261859,Germany,France,,
+2378328,261859,Spain,England,,

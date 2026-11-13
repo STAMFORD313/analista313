@@ -34753,3 +34753,8 @@ game_id,match_id,slug,date,tier,bo,tournament_id,tournament,t1_id,t2_id,team1,te
 192854,133381,butterfly-vs-l-g-13-11-2026,2026-11-13T09:00:00.000+00:00,b,3,5629,CCT Europe 2026 Series 14,24855,5933,Butterfly,Leo,2,de_dust2,24855,16.0,13.0
 192855,133381,butterfly-vs-l-g-13-11-2026,2026-11-13T09:00:00.000+00:00,b,3,5629,CCT Europe 2026 Series 14,24855,5933,Butterfly,Leo,1,de_nuke,24855,13.0,10.0
 193334,133845,brute-vs-tpudcatb-tpu-13-11-2026,2026-11-13T09:00:00.000+00:00,b,3,6240,NODWIN Clutch Series 14,370,22191,BRUTE,33,1,de_dust2,370,13.0,8.0
+191062,132597,g2-vs-falcons-esports-13-11-2026,2026-11-13T11:00:00.000+00:00,s,3,4224,BLAST Rivals Fall 2026,793,2713,G2,Falcons,3,de_anubis,2713,13.0,8.0
+191063,132597,g2-vs-falcons-esports-13-11-2026,2026-11-13T11:00:00.000+00:00,s,3,4224,BLAST Rivals Fall 2026,793,2713,G2,Falcons,2,de_mirage,2713,13.0,2.0
+191064,132597,g2-vs-falcons-esports-13-11-2026,2026-11-13T11:00:00.000+00:00,s,3,4224,BLAST Rivals Fall 2026,793,2713,G2,Falcons,1,de_dust2,793,13.0,11.0
+193336,133846,team-aces-vs-genone-13-11-2026,2026-11-13T12:10:00.000+00:00,b,3,6240,NODWIN Clutch Series 14,25564,1406,Aces,GenOne,2,de_dust2,25564,16.0,14.0
+193337,133846,team-aces-vs-genone-13-11-2026,2026-11-13T12:10:00.000+00:00,b,3,6240,NODWIN Clutch Series 14,25564,1406,Aces,GenOne,1,de_inferno,25564,13.0,5.0
