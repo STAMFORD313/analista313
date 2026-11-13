@@ -1,23 +1,23 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 13/11/2026 13:35 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 13/11/2026 14:06 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## dm1trena vs Jekunam — 13/11 · 13:52
+## Ganger_29 vs Duka — 13/11 · 14:10
 
-👀 candidata · 🎮⚽ FC 27 · LaLiga · **Gana dm1trena** @ **3.85** (Unibet) · prob 32% vs casas 23% · ventaja +23%
+👀 candidata · 🎮⚽ FC 27 · FA Cup · **Gana Duka** @ **2.70** (Unibet) · prob 40% vs casas 32% · ventaja +7%
 
-- ✅ Valor: ventaja +23% (mín. 14% con la incertidumbre, máx. 30%)
+- ❌ Valor: ventaja +7% (mín. 10% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 66.557 partidos)  
-Goles esperados: dm1trena 2.24 · Jekunam 2.61  
-Ganador: dm1trena 32% · empate 22% · Jekunam 47%  
-Total: más de 4.5 goles 53% · menos 47%  
-Hándicap Jekunam: −1.5 30% · −2.5 16%  
+📊 **Escenarios** (Poisson por jugador, 66.587 partidos)  
+Goles esperados: Ganger_29 2.28 · Duka 2.34  
+Ganador: Ganger_29 38% · empate 23% · Duka 40%  
+Total: más de 4.5 goles 49% · menos 51%  
+Hándicap Duka: −1.5 24% · −2.5 12%  
 🔎 **Claves**  
-• Forma: dm1trena ➖❌❌❌➖ | Jekunam ❌✅❌❌❌  
-• Partidos: dm1trena 1125 | Jekunam 1142  
-• Liga: LaLiga  
-• Unibet: 1 3.85 · X 2.75 · 2 1.90 (sin margen 23%/32%/46%) · ventaja +23%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 3.85 (+23%) · Paf España 3.85 (+23%)  
+• Forma: Ganger_29 ❌✅✅❌➖ | Duka ✅➖❌➖❌  
+• Partidos: Ganger_29 954 | Duka 1163  
+• Liga: FA Cup  
+• Unibet: 1 1.82 · X 4.50 · 2 2.70 (sin margen 48%/19%/32%) · ventaja +7%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.70 (+7%) · Paf España 2.70 (+7%)  
 
