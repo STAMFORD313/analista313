@@ -1,61 +1,61 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 13/11/2026 12:35 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 13/11/2026 13:05 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## d1pseN vs Bomb1to — 13/11 · 12:39
+## TikitakaMaster vs Frantsuz — 13/11 · 13:08
 
-👀 candidata · 🎮⚽ FC 27 · World Cup B · **Gana d1pseN** @ **2.60** (Unibet) · prob 42% vs casas 33% · ventaja +9%
+👀 candidata · 🎮⚽ FC 27 · Champions League A 2x6 · **Gana Frantsuz** @ **3.60** (Unibet) · prob 33% vs casas 24% · ventaja +18%
+
+- ✅ Valor: ventaja +18% (mín. 13% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 66.531 partidos)  
+Goles esperados: TikitakaMaster 4.74 · Frantsuz 4.29  
+Ganador: TikitakaMaster 52% · empate 15% · Frantsuz 33%  
+Total: más de 9.5 goles 42% · menos 58%  
+Hándicap TikitakaMaster: −1.5 36% · −2.5 24%  
+🔎 **Claves**  
+• Forma: TikitakaMaster ✅❌✅➖✅ | Frantsuz ✅✅✅❌❌  
+• Partidos: TikitakaMaster 710 | Frantsuz 657  
+• Liga: Champions League A 2x6  
+• Unibet: 1 1.40 · X 6.10 · 2 3.60 (sin margen 62%/14%/24%) · ventaja +18%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 3.60 (+18%) · Paf España 3.60 (+18%)  
+
+## spirtes vs Smetana — 13/11 · 13:08
+
+👀 candidata · 🎮⚽ FC 27 · CSL · **Gana Smetana** @ **1.42** (Unibet) · prob 77% vs casas 61% · ventaja +9%
 
 - ❌ Valor: ventaja +9% (mín. 11% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 66.505 partidos)  
-Goles esperados: d1pseN 2.84 · Bomb1to 2.72  
-Ganador: d1pseN 42% · empate 20% · Bomb1to 38%  
-Total: más de 5.5 goles 48% · menos 52%  
-Hándicap d1pseN: −1.5 27% · −2.5 15%  
+📊 **Escenarios** (Poisson por jugador, 66.531 partidos)  
+Goles esperados: spirtes 2.49 · Smetana 4.56  
+Ganador: spirtes 12% · empate 12% · Smetana 77%  
+Total: más de 7.5 goles 41% · menos 59%  
+Hándicap Smetana: −1.5 58% · −2.5 43%  
 🔎 **Claves**  
-• Forma: d1pseN ❌✅➖✅✅ | Bomb1to ✅✅✅❌❌  
-• Partidos: d1pseN 344 | Bomb1to 1337  
-• Liga: World Cup B  
-• Unibet: 1 2.60 · X 2.70 · 2 2.50 (sin margen 33%/32%/35%) · ventaja +9%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.60 (+9%) · Paf España 2.60 (+9%)  
+• Forma: spirtes ✅❌❌❌✅ | Smetana ✅✅✅✅❌  
+• Partidos: spirtes 1158 | Smetana 1246  
+• Liga: CSL  
+• Unibet: 1 3.75 · X 5.40 · 2 1.42 (sin margen 23%/16%/61%) · ventaja +9%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 1.42 (+9%) · Paf España 1.42 (+9%)  
 
-## Jekunam vs dm1trena — 13/11 · 12:42
+## flamez vs why — 13/11 · 13:08
 
-👀 candidata · 🎮⚽ FC 27 · Bundesliga · **Gana Jekunam** @ **2.23** (Unibet) · prob 48% vs casas 39% · ventaja +6%
-
-- ❌ Valor: ventaja +6% (mín. 10% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 66.505 partidos)  
-Goles esperados: Jekunam 2.60 · dm1trena 2.23  
-Ganador: Jekunam 48% · empate 22% · dm1trena 31%  
-Total: más de 4.5 goles 53% · menos 47%  
-Hándicap Jekunam: −1.5 29% · −2.5 16%  
-🔎 **Claves**  
-• Forma: Jekunam ✅✅✅✅❌ | dm1trena ❌❌❌➖➖  
-• Partidos: Jekunam 1138 | dm1trena 1121  
-• Liga: Bundesliga  
-• Unibet: 1 2.23 · X 2.60 · 2 3.15 (sin margen 39%/33%/28%) · ventaja +6%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.23 (+6%) · Paf España 2.23 (+6%)  
-
-## Taz vs Ganger_29 — 13/11 · 12:48
-
-👀 candidata · 🎮⚽ FC 27 · World Cup A · **Gana Taz** @ **2.32** (Unibet) · prob 46% vs casas 38% · ventaja +7%
+👀 candidata · 🎮⚽ FC 27 · Champions League A 2x6 · **Gana flamez** @ **1.74** (Unibet) · prob 61% vs casas 50% · ventaja +7%
 
 - ❌ Valor: ventaja +7% (mín. 10% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 66.505 partidos)  
-Goles esperados: Taz 3.19 · Ganger_29 2.98  
-Ganador: Taz 46% · empate 19% · Ganger_29 35%  
-Total: más de 6.5 goles 42% · menos 58%  
-Hándicap Taz: −1.5 30% · −2.5 17%  
+📊 **Escenarios** (Poisson por jugador, 66.531 partidos)  
+Goles esperados: flamez 4.80 · why 3.68  
+Ganador: flamez 61% · empate 14% · why 24%  
+Total: más de 8.5 goles 47% · menos 53%  
+Hándicap flamez: −1.5 44% · −2.5 31%  
 🔎 **Claves**  
-• Forma: Taz ❌❌❌➖❌ | Ganger_29 ✅❌➖❌❌  
-• Partidos: Taz 1042 | Ganger_29 949  
-• Liga: World Cup A  
-• Unibet: 1 2.32 · X 3.65 · 2 2.25 (sin margen 37%/24%/39%) · ventaja +7%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.32 (+7%) · Paf España 2.32 (+7%)  
+• Forma: flamez ✅✅✅❌❌ | why ❌❌❌✅✅  
+• Partidos: flamez 772 | why 622  
+• Liga: Champions League A 2x6  
+• Unibet: 1 1.74 · X 4.75 · 2 2.80 (sin margen 50%/18%/31%) · ventaja +7%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 1.74 (+7%) · Paf España 1.74 (+7%)  
 
