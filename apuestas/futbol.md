@@ -1,6 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 13/11/2026 21:18 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 13/11/2026 21:49 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Valladolid vs Castellon — 14/11 · 14:00
 
