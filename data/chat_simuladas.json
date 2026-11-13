@@ -2430,5 +2430,49 @@
   "estado": "pendiente",
   "avisada": false,
   "rev": 1
+ },
+ {
+  "id": "20261113130901321708",
+  "creada": "2026-11-13 13:09:01.321754+00:00",
+  "titulo": "Barrido · Combinada cuota 6.3",
+  "legs": [
+   {
+    "code": null,
+    "start": "2026-11-14 04:00:00+00:00",
+    "home": "South Hobart",
+    "away": "Wollongong Wolves",
+    "txt": "Gana Wollongong Wolves",
+    "odds": 1.7,
+    "p": 0.6172
+   },
+   {
+    "src": "esports:dota2",
+    "side": "A",
+    "code": null,
+    "start": "2026-11-14 10:00:00+00:00",
+    "home": "Inner Circle x Insanity",
+    "away": "Nemiga Gaming",
+    "txt": "Gana Nemiga Gaming",
+    "odds": 2.16,
+    "p": 0.4778419753086419
+   },
+   {
+    "src": "esports:dota2",
+    "side": "A",
+    "code": null,
+    "start": "2026-11-14 16:00:00+00:00",
+    "home": "Team Synapse",
+    "away": "CyberHero",
+    "txt": "Gana CyberHero",
+    "odds": 1.72,
+    "p": 0.6227968992248062
+   }
+  ],
+  "odds": 6.32,
+  "p": 0.18367779453432403,
+  "stake": 1.0,
+  "estado": "pendiente",
+  "avisada": false,
+  "rev": 1
  }
 ]
