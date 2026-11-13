@@ -1,44 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 13/11/2026 18:07 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## pikalicaaa vs Sena — 13/11 · 18:11
-
-👀 candidata · 🎮⚽ FC 27 · Champions League A · **Empate** @ **5.20** (Unibet) · prob 22% vs casas 17% · ventaja +14%
-
-- ✅ Valor: ventaja +14% (mín. 12% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 66.783 partidos)  
-Goles esperados: pikalicaaa 2.26 · Sena 2.52  
-Ganador: pikalicaaa 33% · empate 22% · Sena 45%  
-Total: más de 4.5 goles 52% · menos 48%  
-Hándicap Sena: −1.5 28% · −2.5 15%  
-🔎 **Claves**  
-• Forma: pikalicaaa ❌❌➖✅❌ | Sena ❌❌✅✅✅  
-• Partidos: pikalicaaa 719 | Sena 704  
-• Liga: Champions League A  
-• Unibet: 1 2.20 · X 5.20 · 2 2.00 (sin margen 40%/17%/44%) · ventaja +14%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 5.20 (+14%) · Paf España 5.20 (+14%)  
-
-## Krkula vs lzrn — 13/11 · 18:26
-
-👀 candidata · 🎮⚽ FC 27 · Super Lig · **Gana Krkula** @ **2.15** (Unibet) · prob 53% vs casas 41% · ventaja +15%
-
-- ✅ Valor: ventaja +15% (mín. 12% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 66.806 partidos)  
-Goles esperados: Krkula 3.56 · lzrn 2.71  
-Ganador: Krkula 53% · empate 18% · lzrn 29%  
-Total: más de 6.5 goles 44% · menos 56%  
-Hándicap Krkula: −1.5 39% · −2.5 25%  
-🔎 **Claves**  
-• Forma: Krkula ✅❌❌➖❌ | lzrn ❌❌➖❌✅  
-• Partidos: Krkula 729 | lzrn 872  
-• Liga: Super Lig  
-• Unibet: 1 2.15 · X 4.40 · 2 2.20 (sin margen 41%/20%/40%) · ventaja +15%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.15 (+15%) · Paf España 2.15 (+15%)  
+Actualizado 13/11/2026 18:37 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## lzrn vs hit — 13/11 · 18:38
 
@@ -77,4 +39,42 @@ Hándicap Animal: −1.5 37% · −2.5 23%
 • Liga: Super Lig  
 • Unibet: 1 2.10 · X 3.55 · 2 2.55 (sin margen 41%/24%/34%) · ventaja +15%. Sin stake hasta demostrar ROI con estas cuotas.  
 • En España: LeoVegas España 2.10 (+15%) · Paf España 2.10 (+15%)  
+
+## dirowe vs Shinobu — 13/11 · 18:38
+
+👀 candidata · 🎮⚽ FC 27 · A-League · **Gana dirowe** @ **1.50** (Unibet) · prob 71% vs casas 58% · ventaja +6%
+
+- ❌ Valor: ventaja +6% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 66.833 partidos)  
+Goles esperados: dirowe 3.70 · Shinobu 2.31  
+Ganador: dirowe 71% · empate 15% · Shinobu 15%  
+Total: más de 6.5 goles 40% · menos 60%  
+Hándicap dirowe: −1.5 48% · −2.5 32%  
+🔎 **Claves**  
+• Forma: dirowe ❌✅✅➖✅ | Shinobu ➖➖❌❌❌  
+• Partidos: dirowe 871 | Shinobu 1458  
+• Liga: A-League  
+• Unibet: 1 1.50 · X 5.75 · 2 3.15 (sin margen 58%/15%/27%) · ventaja +6%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 1.50 (+6%) · Paf España 1.50 (+6%)  
+
+## Paka vs maggett0 — 13/11 · 18:44
+
+👀 candidata · 🎮⚽ FC 27 · World Cup B · **Gana Paka** @ **2.43** (Unibet) · prob 44% vs casas 36% · ventaja +7%
+
+- ❌ Valor: ventaja +7% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 66.833 partidos)  
+Goles esperados: Paka 3.11 · maggett0 2.76  
+Ganador: Paka 44% · empate 20% · maggett0 36%  
+Total: más de 5.5 goles 53% · menos 47%  
+Hándicap Paka: −1.5 31% · −2.5 18%  
+🔎 **Claves**  
+• Forma: Paka ✅❌➖➖✅ | maggett0 ❌➖➖❌✅  
+• Partidos: Paka 976 | maggett0 1010  
+• Liga: World Cup B  
+• Unibet: 1 2.43 · X 4.60 · 2 1.94 (sin margen 36%/19%/45%) · ventaja +7%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.43 (+7%) · Paf España 2.43 (+7%)  
 

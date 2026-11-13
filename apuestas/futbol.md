@@ -1,6 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 13/11/2026 18:07 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 13/11/2026 18:37 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Leganes vs Burgos — 13/11 · 20:30
 
@@ -408,6 +408,7 @@ Faltas 13.6 - 14.4: total +26.5 58% · Almeria +13.5 48% · Andorra +13.5 57%
 Tiros a puerta 6.3 - 3.8: total +9.5 55% · Almeria +5.5 58% · Andorra +4.5 34%  
 🧩 Crear apuesta: Menos de 4.5 córners de Andorra + Menos de 4.5 tiros a puerta de Andorra + Más de 2.5 goles → prob. 29%, cuota justa 3.47 (solo vale si la casa paga más)  
 🚀 Combinada larga: Menos de 4.5 córners de Andorra + Menos de 4.5 tiros a puerta de Andorra + Más de 2.5 goles + Menos de 2.5 tarjetas de Almeria + Más de 26.5 faltas → prob. 9%, cuota justa 10.71  
+🎯 Simulada (con cuota: Menos de 4.5 córners de Andorra + Más de 2.5 goles): cuota Unibet aprox. 2.36 (producto de piernas) · prob. 45% · ventaja +7% → 1 u en la banca de simulación  
 
 ## Mallorca vs Cordoba — 14/11 · 18:30
 
@@ -433,6 +434,319 @@ Faltas 14.5 - 15.6: total +26.5 72% · Mallorca +13.5 58% · Cordoba +13.5 68%
 Tiros a puerta 5.5 - 3.8: total +9.5 45% · Mallorca +5.5 46% · Cordoba +4.5 34%  
 🧩 Crear apuesta: Más de 26.5 faltas + Menos de 4.5 tiros a puerta de Cordoba + Menos de 3.5 tarjetas de Cordoba → prob. 29%, cuota justa 3.44 (solo vale si la casa paga más)  
 🚀 Combinada larga: Más de 26.5 faltas + Menos de 4.5 tiros a puerta de Cordoba + Menos de 3.5 tarjetas de Cordoba + Menos de 4.5 córners de Cordoba + Más de 2.5 goles → prob. 9%, cuota justa 11.40  
+🎯 No simulada (con cuota: Menos de 4.5 córners de Cordoba + Más de 2.5 goles): cuota Unibet aprox. 2.73 (producto de piernas) · prob. 32% · ventaja -12%  
+
+## Almeria vs Andorra — 14/11 · 18:30
+
+👀 candidata · 🇪🇸 LaLiga 2 · **Más de 4.5 córners de Almeria** @ **1.50** (Unibet) · prob 62% vs casas 61% · ventaja -7%
+
+- ❌ Valor: ventaja -7% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.14 - 1.19)  
+1 58% · X 23% · 2 19%  
+1X 81% · X2 42% · 12 77%  
++1.5 85% · +2.5 65% · +3.5 43% · Ambos marcan 62%  
+Marcadores: 2-1 10% · 1-1 10% · 2-0 8% · 1-0 7%  
+🔎 **Claves**  
+• Forma: Almeria ✅✅➖➖✅ | Andorra ➖✅❌❌➖  
+• H2H: 2 desde 2025: 2V-0E-0D · 4.0 goles/partido · +2.5 en 100%  
+• Bajas: Almeria: 0 fuera, 1 duda; Andorra: sin bajas  
+• Favorito de las casas: Almeria @ 1.61  
+📐 **Estadísticas esperadas**  
+Córners 5.8 - 3.6: total +9.5 47% · Almeria +5.5 50% · Andorra +4.5 30%  
+Tarjetas 2.3 - 3.2: total +5.5 47% · Almeria +2.5 40% · Andorra +3.5 41%  
+Faltas 13.6 - 14.4: total +26.5 58% · Almeria +13.5 48% · Andorra +13.5 57%  
+Tiros a puerta 6.3 - 3.8: total +9.5 55% · Almeria +5.5 58% · Andorra +4.5 34%  
+🧩 Crear apuesta: Menos de 4.5 córners de Andorra + Menos de 4.5 tiros a puerta de Andorra + Más de 2.5 goles → prob. 29%, cuota justa 3.47 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 córners de Andorra + Menos de 4.5 tiros a puerta de Andorra + Más de 2.5 goles + Menos de 2.5 tarjetas de Almeria + Más de 26.5 faltas → prob. 9%, cuota justa 10.71  
+🎯 Simulada (con cuota: Menos de 4.5 córners de Andorra + Más de 2.5 goles): cuota Unibet aprox. 2.36 (producto de piernas) · prob. 45% · ventaja +7% → 1 u en la banca de simulación  
+
+## Almeria vs Andorra — 14/11 · 18:30
+
+👀 candidata · 🇪🇸 LaLiga 2 · **Menos de 6.5 córners de Almeria** @ **1.42** (Unibet) · prob 64% vs casas 64% · ventaja -10%
+
+- ❌ Valor: ventaja -10% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.14 - 1.19)  
+1 58% · X 23% · 2 19%  
+1X 81% · X2 42% · 12 77%  
++1.5 85% · +2.5 65% · +3.5 43% · Ambos marcan 62%  
+Marcadores: 2-1 10% · 1-1 10% · 2-0 8% · 1-0 7%  
+🔎 **Claves**  
+• Forma: Almeria ✅✅➖➖✅ | Andorra ➖✅❌❌➖  
+• H2H: 2 desde 2025: 2V-0E-0D · 4.0 goles/partido · +2.5 en 100%  
+• Bajas: Almeria: 0 fuera, 1 duda; Andorra: sin bajas  
+• Favorito de las casas: Almeria @ 1.61  
+📐 **Estadísticas esperadas**  
+Córners 5.8 - 3.6: total +9.5 47% · Almeria +5.5 50% · Andorra +4.5 30%  
+Tarjetas 2.3 - 3.2: total +5.5 47% · Almeria +2.5 40% · Andorra +3.5 41%  
+Faltas 13.6 - 14.4: total +26.5 58% · Almeria +13.5 48% · Andorra +13.5 57%  
+Tiros a puerta 6.3 - 3.8: total +9.5 55% · Almeria +5.5 58% · Andorra +4.5 34%  
+🧩 Crear apuesta: Menos de 4.5 córners de Andorra + Menos de 4.5 tiros a puerta de Andorra + Más de 2.5 goles → prob. 29%, cuota justa 3.47 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 córners de Andorra + Menos de 4.5 tiros a puerta de Andorra + Más de 2.5 goles + Menos de 2.5 tarjetas de Almeria + Más de 26.5 faltas → prob. 9%, cuota justa 10.71  
+🎯 Simulada (con cuota: Menos de 4.5 córners de Andorra + Más de 2.5 goles): cuota Unibet aprox. 2.36 (producto de piernas) · prob. 45% · ventaja +7% → 1 u en la banca de simulación  
+
+## Almeria vs Andorra — 14/11 · 18:30
+
+👀 candidata · 🇪🇸 LaLiga 2 · **Más de 8.5 córners** @ **1.47** (Unibet) · prob 61% vs casas 62% · ventaja -11%
+
+- ❌ Valor: ventaja -11% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.14 - 1.19)  
+1 58% · X 23% · 2 19%  
+1X 81% · X2 42% · 12 77%  
++1.5 85% · +2.5 65% · +3.5 43% · Ambos marcan 62%  
+Marcadores: 2-1 10% · 1-1 10% · 2-0 8% · 1-0 7%  
+🔎 **Claves**  
+• Forma: Almeria ✅✅➖➖✅ | Andorra ➖✅❌❌➖  
+• H2H: 2 desde 2025: 2V-0E-0D · 4.0 goles/partido · +2.5 en 100%  
+• Bajas: Almeria: 0 fuera, 1 duda; Andorra: sin bajas  
+• Favorito de las casas: Almeria @ 1.61  
+📐 **Estadísticas esperadas**  
+Córners 5.8 - 3.6: total +9.5 47% · Almeria +5.5 50% · Andorra +4.5 30%  
+Tarjetas 2.3 - 3.2: total +5.5 47% · Almeria +2.5 40% · Andorra +3.5 41%  
+Faltas 13.6 - 14.4: total +26.5 58% · Almeria +13.5 48% · Andorra +13.5 57%  
+Tiros a puerta 6.3 - 3.8: total +9.5 55% · Almeria +5.5 58% · Andorra +4.5 34%  
+🧩 Crear apuesta: Menos de 4.5 córners de Andorra + Menos de 4.5 tiros a puerta de Andorra + Más de 2.5 goles → prob. 29%, cuota justa 3.47 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 córners de Andorra + Menos de 4.5 tiros a puerta de Andorra + Más de 2.5 goles + Menos de 2.5 tarjetas de Almeria + Más de 26.5 faltas → prob. 9%, cuota justa 10.71  
+🎯 Simulada (con cuota: Menos de 4.5 córners de Andorra + Más de 2.5 goles): cuota Unibet aprox. 2.36 (producto de piernas) · prob. 45% · ventaja +7% → 1 u en la banca de simulación  
+
+## Almeria vs Andorra — 14/11 · 18:30
+
+👀 candidata · 🇪🇸 LaLiga 2 · **Menos de 9.5 córners** @ **1.91** (Unibet) · prob 51% vs casas 48% · ventaja -3%
+
+- ❌ Valor: ventaja -3% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.14 - 1.19)  
+1 58% · X 23% · 2 19%  
+1X 81% · X2 42% · 12 77%  
++1.5 85% · +2.5 65% · +3.5 43% · Ambos marcan 62%  
+Marcadores: 2-1 10% · 1-1 10% · 2-0 8% · 1-0 7%  
+🔎 **Claves**  
+• Forma: Almeria ✅✅➖➖✅ | Andorra ➖✅❌❌➖  
+• H2H: 2 desde 2025: 2V-0E-0D · 4.0 goles/partido · +2.5 en 100%  
+• Bajas: Almeria: 0 fuera, 1 duda; Andorra: sin bajas  
+• Favorito de las casas: Almeria @ 1.61  
+📐 **Estadísticas esperadas**  
+Córners 5.8 - 3.6: total +9.5 47% · Almeria +5.5 50% · Andorra +4.5 30%  
+Tarjetas 2.3 - 3.2: total +5.5 47% · Almeria +2.5 40% · Andorra +3.5 41%  
+Faltas 13.6 - 14.4: total +26.5 58% · Almeria +13.5 48% · Andorra +13.5 57%  
+Tiros a puerta 6.3 - 3.8: total +9.5 55% · Almeria +5.5 58% · Andorra +4.5 34%  
+🧩 Crear apuesta: Menos de 4.5 córners de Andorra + Menos de 4.5 tiros a puerta de Andorra + Más de 2.5 goles → prob. 29%, cuota justa 3.47 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 córners de Andorra + Menos de 4.5 tiros a puerta de Andorra + Más de 2.5 goles + Menos de 2.5 tarjetas de Almeria + Más de 26.5 faltas → prob. 9%, cuota justa 10.71  
+🎯 Simulada (con cuota: Menos de 4.5 córners de Andorra + Más de 2.5 goles): cuota Unibet aprox. 2.36 (producto de piernas) · prob. 45% · ventaja +7% → 1 u en la banca de simulación  
+
+## Almeria vs Andorra — 14/11 · 18:30
+
+👀 candidata · 🇪🇸 LaLiga 2 · **Más de 3.5 córners de Andorra** @ **1.62** (Unibet) · prob 51% vs casas 56% · ventaja -17%
+
+- ❌ Valor: ventaja -17% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.14 - 1.19)  
+1 58% · X 23% · 2 19%  
+1X 81% · X2 42% · 12 77%  
++1.5 85% · +2.5 65% · +3.5 43% · Ambos marcan 62%  
+Marcadores: 2-1 10% · 1-1 10% · 2-0 8% · 1-0 7%  
+🔎 **Claves**  
+• Forma: Almeria ✅✅➖➖✅ | Andorra ➖✅❌❌➖  
+• H2H: 2 desde 2025: 2V-0E-0D · 4.0 goles/partido · +2.5 en 100%  
+• Bajas: Almeria: 0 fuera, 1 duda; Andorra: sin bajas  
+• Favorito de las casas: Almeria @ 1.61  
+📐 **Estadísticas esperadas**  
+Córners 5.8 - 3.6: total +9.5 47% · Almeria +5.5 50% · Andorra +4.5 30%  
+Tarjetas 2.3 - 3.2: total +5.5 47% · Almeria +2.5 40% · Andorra +3.5 41%  
+Faltas 13.6 - 14.4: total +26.5 58% · Almeria +13.5 48% · Andorra +13.5 57%  
+Tiros a puerta 6.3 - 3.8: total +9.5 55% · Almeria +5.5 58% · Andorra +4.5 34%  
+🧩 Crear apuesta: Menos de 4.5 córners de Andorra + Menos de 4.5 tiros a puerta de Andorra + Más de 2.5 goles → prob. 29%, cuota justa 3.47 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 córners de Andorra + Menos de 4.5 tiros a puerta de Andorra + Más de 2.5 goles + Menos de 2.5 tarjetas de Almeria + Más de 26.5 faltas → prob. 9%, cuota justa 10.71  
+🎯 Simulada (con cuota: Menos de 4.5 córners de Andorra + Más de 2.5 goles): cuota Unibet aprox. 2.36 (producto de piernas) · prob. 45% · ventaja +7% → 1 u en la banca de simulación  
+
+## Almeria vs Andorra — 14/11 · 18:30
+
+👀 candidata · 🇪🇸 LaLiga 2 · **Menos de 3.5 córners de Andorra** @ **2.08** (Unibet) · prob 49% vs casas 44% · ventaja +1%
+
+- ❌ Valor: ventaja +1% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.14 - 1.19)  
+1 58% · X 23% · 2 19%  
+1X 81% · X2 42% · 12 77%  
++1.5 85% · +2.5 65% · +3.5 43% · Ambos marcan 62%  
+Marcadores: 2-1 10% · 1-1 10% · 2-0 8% · 1-0 7%  
+🔎 **Claves**  
+• Forma: Almeria ✅✅➖➖✅ | Andorra ➖✅❌❌➖  
+• H2H: 2 desde 2025: 2V-0E-0D · 4.0 goles/partido · +2.5 en 100%  
+• Bajas: Almeria: 0 fuera, 1 duda; Andorra: sin bajas  
+• Favorito de las casas: Almeria @ 1.61  
+📐 **Estadísticas esperadas**  
+Córners 5.8 - 3.6: total +9.5 47% · Almeria +5.5 50% · Andorra +4.5 30%  
+Tarjetas 2.3 - 3.2: total +5.5 47% · Almeria +2.5 40% · Andorra +3.5 41%  
+Faltas 13.6 - 14.4: total +26.5 58% · Almeria +13.5 48% · Andorra +13.5 57%  
+Tiros a puerta 6.3 - 3.8: total +9.5 55% · Almeria +5.5 58% · Andorra +4.5 34%  
+🧩 Crear apuesta: Menos de 4.5 córners de Andorra + Menos de 4.5 tiros a puerta de Andorra + Más de 2.5 goles → prob. 29%, cuota justa 3.47 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 córners de Andorra + Menos de 4.5 tiros a puerta de Andorra + Más de 2.5 goles + Menos de 2.5 tarjetas de Almeria + Más de 26.5 faltas → prob. 9%, cuota justa 10.71  
+🎯 Simulada (con cuota: Menos de 4.5 córners de Andorra + Más de 2.5 goles): cuota Unibet aprox. 2.36 (producto de piernas) · prob. 45% · ventaja +7% → 1 u en la banca de simulación  
+
+## Mallorca vs Cordoba — 14/11 · 18:30
+
+👀 candidata · 🇪🇸 LaLiga 2 · **Más de 3.5 córners de Cordoba** @ **1.44** (Unibet) · prob 61% vs casas 63% · ventaja -12%
+
+- ❌ Valor: ventaja -12% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.01 - 0.90)  
+1 57% · X 25% · 2 18%  
+1X 82% · X2 43% · 12 75%  
++1.5 79% · +2.5 56% · +3.5 33% · Ambos marcan 52%  
+Marcadores: 2-0 11% · 1-0 10% · 1-1 10% · 2-1 10%  
+🔎 **Claves**  
+• Forma: Mallorca ➖✅➖➖✅ | Cordoba ❌✅✅➖✅  
+• H2H: 8 desde 2014: 2V-3E-3D · 2.6 goles/partido · +2.5 en 50%  
+• Bajas: Mallorca: 0 fuera, 1 duda; Cordoba: sin bajas  
+• Favorito de las casas: Mallorca @ 1.90  
+📐 **Estadísticas esperadas**  
+Córners 5.9 - 4.4: total +9.5 56% · Mallorca +5.5 50% · Cordoba +4.5 43%  
+Tarjetas 2.5 - 3.0: total +5.5 45% · Mallorca +2.5 45% · Cordoba +3.5 34%  
+Faltas 14.5 - 15.6: total +26.5 72% · Mallorca +13.5 58% · Cordoba +13.5 68%  
+Tiros a puerta 5.5 - 3.8: total +9.5 45% · Mallorca +5.5 46% · Cordoba +4.5 34%  
+🧩 Crear apuesta: Más de 26.5 faltas + Menos de 4.5 tiros a puerta de Cordoba + Menos de 3.5 tarjetas de Cordoba → prob. 29%, cuota justa 3.44 (solo vale si la casa paga más)  
+🚀 Combinada larga: Más de 26.5 faltas + Menos de 4.5 tiros a puerta de Cordoba + Menos de 3.5 tarjetas de Cordoba + Menos de 4.5 córners de Cordoba + Más de 2.5 goles → prob. 9%, cuota justa 11.40  
+🎯 No simulada (con cuota: Menos de 4.5 córners de Cordoba + Más de 2.5 goles): cuota Unibet aprox. 2.73 (producto de piernas) · prob. 32% · ventaja -12%  
+
+## Mallorca vs Cordoba — 14/11 · 18:30
+
+👀 candidata · 🇪🇸 LaLiga 2 · **Menos de 4.5 córners de Cordoba** @ **1.76** (Unibet) · prob 55% vs casas 52% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.01 - 0.90)  
+1 57% · X 25% · 2 18%  
+1X 82% · X2 43% · 12 75%  
++1.5 79% · +2.5 56% · +3.5 33% · Ambos marcan 52%  
+Marcadores: 2-0 11% · 1-0 10% · 1-1 10% · 2-1 10%  
+🔎 **Claves**  
+• Forma: Mallorca ➖✅➖➖✅ | Cordoba ❌✅✅➖✅  
+• H2H: 8 desde 2014: 2V-3E-3D · 2.6 goles/partido · +2.5 en 50%  
+• Bajas: Mallorca: 0 fuera, 1 duda; Cordoba: sin bajas  
+• Favorito de las casas: Mallorca @ 1.90  
+📐 **Estadísticas esperadas**  
+Córners 5.9 - 4.4: total +9.5 56% · Mallorca +5.5 50% · Cordoba +4.5 43%  
+Tarjetas 2.5 - 3.0: total +5.5 45% · Mallorca +2.5 45% · Cordoba +3.5 34%  
+Faltas 14.5 - 15.6: total +26.5 72% · Mallorca +13.5 58% · Cordoba +13.5 68%  
+Tiros a puerta 5.5 - 3.8: total +9.5 45% · Mallorca +5.5 46% · Cordoba +4.5 34%  
+🧩 Crear apuesta: Más de 26.5 faltas + Menos de 4.5 tiros a puerta de Cordoba + Menos de 3.5 tarjetas de Cordoba → prob. 29%, cuota justa 3.44 (solo vale si la casa paga más)  
+🚀 Combinada larga: Más de 26.5 faltas + Menos de 4.5 tiros a puerta de Cordoba + Menos de 3.5 tarjetas de Cordoba + Menos de 4.5 córners de Cordoba + Más de 2.5 goles → prob. 9%, cuota justa 11.40  
+🎯 No simulada (con cuota: Menos de 4.5 córners de Cordoba + Más de 2.5 goles): cuota Unibet aprox. 2.73 (producto de piernas) · prob. 32% · ventaja -12%  
+
+## Mallorca vs Cordoba — 14/11 · 18:30
+
+👀 candidata · 🇪🇸 LaLiga 2 · **Más de 5.5 córners de Mallorca** @ **1.97** (Unibet) · prob 48% vs casas 46% · ventaja -5%
+
+- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.01 - 0.90)  
+1 57% · X 25% · 2 18%  
+1X 82% · X2 43% · 12 75%  
++1.5 79% · +2.5 56% · +3.5 33% · Ambos marcan 52%  
+Marcadores: 2-0 11% · 1-0 10% · 1-1 10% · 2-1 10%  
+🔎 **Claves**  
+• Forma: Mallorca ➖✅➖➖✅ | Cordoba ❌✅✅➖✅  
+• H2H: 8 desde 2014: 2V-3E-3D · 2.6 goles/partido · +2.5 en 50%  
+• Bajas: Mallorca: 0 fuera, 1 duda; Cordoba: sin bajas  
+• Favorito de las casas: Mallorca @ 1.90  
+📐 **Estadísticas esperadas**  
+Córners 5.9 - 4.4: total +9.5 56% · Mallorca +5.5 50% · Cordoba +4.5 43%  
+Tarjetas 2.5 - 3.0: total +5.5 45% · Mallorca +2.5 45% · Cordoba +3.5 34%  
+Faltas 14.5 - 15.6: total +26.5 72% · Mallorca +13.5 58% · Cordoba +13.5 68%  
+Tiros a puerta 5.5 - 3.8: total +9.5 45% · Mallorca +5.5 46% · Cordoba +4.5 34%  
+🧩 Crear apuesta: Más de 26.5 faltas + Menos de 4.5 tiros a puerta de Cordoba + Menos de 3.5 tarjetas de Cordoba → prob. 29%, cuota justa 3.44 (solo vale si la casa paga más)  
+🚀 Combinada larga: Más de 26.5 faltas + Menos de 4.5 tiros a puerta de Cordoba + Menos de 3.5 tarjetas de Cordoba + Menos de 4.5 córners de Cordoba + Más de 2.5 goles → prob. 9%, cuota justa 11.40  
+🎯 No simulada (con cuota: Menos de 4.5 córners de Cordoba + Más de 2.5 goles): cuota Unibet aprox. 2.73 (producto de piernas) · prob. 32% · ventaja -12%  
+
+## Mallorca vs Cordoba — 14/11 · 18:30
+
+👀 candidata · 🇪🇸 LaLiga 2 · **Menos de 6.5 córners de Mallorca** @ **1.38** (Unibet) · prob 64% vs casas 66% · ventaja -12%
+
+- ❌ Valor: ventaja -12% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.01 - 0.90)  
+1 57% · X 25% · 2 18%  
+1X 82% · X2 43% · 12 75%  
++1.5 79% · +2.5 56% · +3.5 33% · Ambos marcan 52%  
+Marcadores: 2-0 11% · 1-0 10% · 1-1 10% · 2-1 10%  
+🔎 **Claves**  
+• Forma: Mallorca ➖✅➖➖✅ | Cordoba ❌✅✅➖✅  
+• H2H: 8 desde 2014: 2V-3E-3D · 2.6 goles/partido · +2.5 en 50%  
+• Bajas: Mallorca: 0 fuera, 1 duda; Cordoba: sin bajas  
+• Favorito de las casas: Mallorca @ 1.90  
+📐 **Estadísticas esperadas**  
+Córners 5.9 - 4.4: total +9.5 56% · Mallorca +5.5 50% · Cordoba +4.5 43%  
+Tarjetas 2.5 - 3.0: total +5.5 45% · Mallorca +2.5 45% · Cordoba +3.5 34%  
+Faltas 14.5 - 15.6: total +26.5 72% · Mallorca +13.5 58% · Cordoba +13.5 68%  
+Tiros a puerta 5.5 - 3.8: total +9.5 45% · Mallorca +5.5 46% · Cordoba +4.5 34%  
+🧩 Crear apuesta: Más de 26.5 faltas + Menos de 4.5 tiros a puerta de Cordoba + Menos de 3.5 tarjetas de Cordoba → prob. 29%, cuota justa 3.44 (solo vale si la casa paga más)  
+🚀 Combinada larga: Más de 26.5 faltas + Menos de 4.5 tiros a puerta de Cordoba + Menos de 3.5 tarjetas de Cordoba + Menos de 4.5 córners de Cordoba + Más de 2.5 goles → prob. 9%, cuota justa 11.40  
+🎯 No simulada (con cuota: Menos de 4.5 córners de Cordoba + Más de 2.5 goles): cuota Unibet aprox. 2.73 (producto de piernas) · prob. 32% · ventaja -12%  
+
+## Mallorca vs Cordoba — 14/11 · 18:30
+
+👀 candidata · 🇪🇸 LaLiga 2 · **Más de 8.5 córners** @ **1.38** (Unibet) · prob 67% vs casas 66% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.01 - 0.90)  
+1 57% · X 25% · 2 18%  
+1X 82% · X2 43% · 12 75%  
++1.5 79% · +2.5 56% · +3.5 33% · Ambos marcan 52%  
+Marcadores: 2-0 11% · 1-0 10% · 1-1 10% · 2-1 10%  
+🔎 **Claves**  
+• Forma: Mallorca ➖✅➖➖✅ | Cordoba ❌✅✅➖✅  
+• H2H: 8 desde 2014: 2V-3E-3D · 2.6 goles/partido · +2.5 en 50%  
+• Bajas: Mallorca: 0 fuera, 1 duda; Cordoba: sin bajas  
+• Favorito de las casas: Mallorca @ 1.90  
+📐 **Estadísticas esperadas**  
+Córners 5.9 - 4.4: total +9.5 56% · Mallorca +5.5 50% · Cordoba +4.5 43%  
+Tarjetas 2.5 - 3.0: total +5.5 45% · Mallorca +2.5 45% · Cordoba +3.5 34%  
+Faltas 14.5 - 15.6: total +26.5 72% · Mallorca +13.5 58% · Cordoba +13.5 68%  
+Tiros a puerta 5.5 - 3.8: total +9.5 45% · Mallorca +5.5 46% · Cordoba +4.5 34%  
+🧩 Crear apuesta: Más de 26.5 faltas + Menos de 4.5 tiros a puerta de Cordoba + Menos de 3.5 tarjetas de Cordoba → prob. 29%, cuota justa 3.44 (solo vale si la casa paga más)  
+🚀 Combinada larga: Más de 26.5 faltas + Menos de 4.5 tiros a puerta de Cordoba + Menos de 3.5 tarjetas de Cordoba + Menos de 4.5 córners de Cordoba + Más de 2.5 goles → prob. 9%, cuota justa 11.40  
+🎯 No simulada (con cuota: Menos de 4.5 córners de Cordoba + Más de 2.5 goles): cuota Unibet aprox. 2.73 (producto de piernas) · prob. 32% · ventaja -12%  
+
+## Mallorca vs Cordoba — 14/11 · 18:30
+
+👀 candidata · 🇪🇸 LaLiga 2 · **Menos de 12.5 córners** @ **1.27** (Unibet) · prob 74% vs casas 72% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 2.01 - 0.90)  
+1 57% · X 25% · 2 18%  
+1X 82% · X2 43% · 12 75%  
++1.5 79% · +2.5 56% · +3.5 33% · Ambos marcan 52%  
+Marcadores: 2-0 11% · 1-0 10% · 1-1 10% · 2-1 10%  
+🔎 **Claves**  
+• Forma: Mallorca ➖✅➖➖✅ | Cordoba ❌✅✅➖✅  
+• H2H: 8 desde 2014: 2V-3E-3D · 2.6 goles/partido · +2.5 en 50%  
+• Bajas: Mallorca: 0 fuera, 1 duda; Cordoba: sin bajas  
+• Favorito de las casas: Mallorca @ 1.90  
+📐 **Estadísticas esperadas**  
+Córners 5.9 - 4.4: total +9.5 56% · Mallorca +5.5 50% · Cordoba +4.5 43%  
+Tarjetas 2.5 - 3.0: total +5.5 45% · Mallorca +2.5 45% · Cordoba +3.5 34%  
+Faltas 14.5 - 15.6: total +26.5 72% · Mallorca +13.5 58% · Cordoba +13.5 68%  
+Tiros a puerta 5.5 - 3.8: total +9.5 45% · Mallorca +5.5 46% · Cordoba +4.5 34%  
+🧩 Crear apuesta: Más de 26.5 faltas + Menos de 4.5 tiros a puerta de Cordoba + Menos de 3.5 tarjetas de Cordoba → prob. 29%, cuota justa 3.44 (solo vale si la casa paga más)  
+🚀 Combinada larga: Más de 26.5 faltas + Menos de 4.5 tiros a puerta de Cordoba + Menos de 3.5 tarjetas de Cordoba + Menos de 4.5 córners de Cordoba + Más de 2.5 goles → prob. 9%, cuota justa 11.40  
+🎯 No simulada (con cuota: Menos de 4.5 córners de Cordoba + Más de 2.5 goles): cuota Unibet aprox. 2.73 (producto de piernas) · prob. 32% · ventaja -12%  
 
 ## Oviedo vs Girona — 14/11 · 21:00
 
