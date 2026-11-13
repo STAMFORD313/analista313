@@ -67105,18 +67105,18 @@ id,tournament_id,club1,club2,ht1,ht2
 2378496,261867,Villarreal,Real Madrid,,
 2378497,261867,Barcelona,Villarreal,,
 2378498,261867,Atleti,Athletic Club,,
-2377319,261837,Benfica,Vitoria SC,0,3
-2377320,261837,Porto,Braga,2,2
-2377321,261837,Braga,Benfica,0,3
-2377322,261837,Vitoria SC,Sporting CP,1,0
-2377323,261837,Sporting CP,Braga,1,2
-2377324,261837,Benfica,Porto,1,1
-2377325,261837,Porto,Sporting CP,2,0
-2377326,261837,Braga,Vitoria SC,1,0
-2377327,261837,Vitoria SC,Porto,0,3
-2377328,261837,Sporting CP,Benfica,2,2
-2377329,261837,Vitoria SC,Benfica,2,0
-2377330,261837,Braga,Porto,0,2
+2377319,261837,Benfica,Vitoria SC,0.0,3.0
+2377320,261837,Porto,Braga,2.0,2.0
+2377321,261837,Braga,Benfica,0.0,3.0
+2377322,261837,Vitoria SC,Sporting CP,1.0,0.0
+2377323,261837,Sporting CP,Braga,1.0,2.0
+2377324,261837,Benfica,Porto,1.0,1.0
+2377325,261837,Porto,Sporting CP,2.0,0.0
+2377326,261837,Braga,Vitoria SC,1.0,0.0
+2377327,261837,Vitoria SC,Porto,0.0,3.0
+2377328,261837,Sporting CP,Benfica,2.0,2.0
+2377329,261837,Vitoria SC,Benfica,2.0,0.0
+2377330,261837,Braga,Porto,0.0,2.0
 2377331,261837,Benfica,Braga,,
 2377332,261837,Sporting CP,Vitoria SC,,
 2377333,261837,Braga,Sporting CP,,
@@ -67125,3 +67125,15 @@ id,tournament_id,club1,club2,ht1,ht2
 2377336,261837,Vitoria SC,Braga,,
 2377337,261837,Porto,Vitoria SC,,
 2377338,261837,Benfica,Sporting CP,,
+2378559,261844,Boca Juniors,River Plate,2,1
+2378560,261844,Boca Juniors,Racing Club,2,0
+2378561,261844,River Plate,Racing Club,0,1
+2378562,261844,River Plate,Boca Juniors,,
+2378563,261844,Racing Club,Boca Juniors,,
+2378564,261844,Racing Club,River Plate,,
+2378565,261844,Boca Juniors,River Plate,,
+2378566,261844,Boca Juniors,Racing Club,,
+2378567,261844,River Plate,Racing Club,,
+2378568,261844,River Plate,Boca Juniors,,
+2378569,261844,Racing Club,Boca Juniors,,
+2378570,261844,Racing Club,River Plate,,
