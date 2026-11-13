@@ -2386,5 +2386,49 @@
   "estado": "perdida",
   "avisada": true,
   "rev": 2
+ },
+ {
+  "id": "20261113041132034091",
+  "creada": "2026-11-13 04:11:32.034139+00:00",
+  "titulo": "Barrido · Combinada cuota 13.6",
+  "legs": [
+   {
+    "src": "espn:nba",
+    "side": "H",
+    "code": null,
+    "start": "2026-11-14 01:00:00+00:00",
+    "home": "New Orleans Pelicans",
+    "away": "Memphis Grizzlies",
+    "txt": "Gana New Orleans Pelicans",
+    "odds": 2.33,
+    "p": 0.44599303290414877
+   },
+   {
+    "src": "esports:dota2",
+    "side": "A",
+    "code": null,
+    "start": "2026-11-14 11:30:00+00:00",
+    "home": "DO KONCA",
+    "away": "Yellow Submarine",
+    "txt": "Gana Yellow Submarine",
+    "odds": 2.99,
+    "p": 0.40896544035674465
+   },
+   {
+    "code": null,
+    "start": "2026-11-14 14:30:00+00:00",
+    "home": "Rayo Cantabria",
+    "away": "Gimnastica de Torrelavega",
+    "txt": "Gana Rayo Cantabria",
+    "odds": 1.95,
+    "p": 0.5289
+   }
+  ],
+  "odds": 13.59,
+  "p": 0.09646910535096577,
+  "stake": 1.0,
+  "estado": "pendiente",
+  "avisada": false,
+  "rev": 1
  }
 ]
