@@ -1,26 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 13/11/2026 15:37 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Revise vs eSuba — 13/11 · 16:00
-
-👀 candidata · 🎮 CS2 · Fiesta Series 4: Closed Qualifier · **Gana eSuba** @ **2.35** (Thunderpick) · prob 40% vs casas 39% · ventaja -5%
-
-- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 76.735 partidos)  
-Mapa: Revise 55% · Serie BO3: Revise 58% - 42% eSuba  
-Casas: Revise 61% · eSuba 39%  
-🔎 **Claves**  
-• Elo: Revise 1551 (40 series) | eSuba 1492 (93 series)  
-• Forma: Revise ✅✅✅❌❌ | eSuba ✅❌✅❌❌  
-• H2H: sin precedentes  
-• Torneo: Fiesta Series 4: Closed Qualifier (nivel C)  
-• Cambios de plantilla: ninguno  
-🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
-• Revise gana 2-1: 24% → cuota justa 4.17  
-• eSuba gana 2-1: 19% → cuota justa 5.19  
+Actualizado 13/11/2026 16:07 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Galorys vs RED Canids Academy — 13/11 · 17:00
 

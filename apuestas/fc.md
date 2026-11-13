@@ -1,61 +1,61 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 13/11/2026 15:37 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 13/11/2026 16:07 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## Jankulovski vs pikalicaaa — 13/11 · 15:49
+## hit vs Animal — 13/11 · 16:16
 
-👀 candidata · 🎮⚽ FC 27 · Europa League · **Empate** @ **5.60** (Unibet) · prob 20% vs casas 16% · ventaja +9%
+👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana Animal** @ **2.80** (Unibet) · prob 44% vs casas 31% · ventaja +23%
 
-- ❌ Valor: ventaja +9% (mín. 10% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 66.669 partidos)  
-Goles esperados: Jankulovski 2.25 · pikalicaaa 3.08  
-Ganador: Jankulovski 26% · empate 20% · pikalicaaa 54%  
-Total: más de 5.5 goles 44% · menos 56%  
-Hándicap pikalicaaa: −1.5 38% · −2.5 23%  
-🔎 **Claves**  
-• Forma: Jankulovski ❌❌❌✅✅ | pikalicaaa ❌➖➖✅❌  
-• Partidos: Jankulovski 936 | pikalicaaa 711  
-• Liga: Europa League  
-• Unibet: 1 2.90 · X 5.60 · 2 1.63 (sin margen 30%/16%/54%) · ventaja +9%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 5.60 (+9%) · Paf España 5.60 (+9%)  
-
-## dirowe vs saportj — 13/11 · 15:52
-
-👀 candidata · 🎮⚽ FC 27 · Eredivisie · **Gana dirowe** @ **2.16** (Unibet) · prob 50% vs casas 40% · ventaja +7%
-
-- ❌ Valor: ventaja +7% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Valor: ventaja +23% (mín. 14% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 66.669 partidos)  
-Goles esperados: dirowe 3.26 · saportj 2.87  
-Ganador: dirowe 50% · empate 19% · saportj 32%  
-Total: más de 6.5 goles 41% · menos 59%  
-Hándicap dirowe: −1.5 32% · −2.5 19%  
+📊 **Escenarios** (Poisson por jugador, 66.701 partidos)  
+Goles esperados: hit 2.71 · Animal 2.89  
+Ganador: hit 36% · empate 20% · Animal 44%  
+Total: más de 5.5 goles 49% · menos 51%  
+Hándicap Animal: −1.5 28% · −2.5 16%  
 🔎 **Claves**  
-• Forma: dirowe ✅➖✅✅➖ | saportj ✅❌❌✅✅  
-• Partidos: dirowe 859 | saportj 860  
-• Liga: Eredivisie  
-• Unibet: 1 2.16 · X 4.60 · 2 2.15 (sin margen 40%/19%/41%) · ventaja +7%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.16 (+7%) · Paf España 2.16 (+7%)  
+• Forma: hit ➖➖❌❌❌ | Animal ✅➖✅➖✅  
+• Partidos: hit 791 | Animal 913  
+• Liga: Champions League B  
+• Unibet: 1 2.17 · X 2.95 · 2 2.80 (sin margen 40%/29%/31%) · ventaja +23%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.80 (+23%) · Paf España 2.80 (+23%)  
 
-## pikalicaaa vs Sena — 13/11 · 16:01
+## Animal vs llulle — 13/11 · 16:28
 
-👀 candidata · 🎮⚽ FC 27 · Europa League · **Empate** @ **5.40** (Unibet) · prob 22% vs casas 16% · ventaja +18%
+👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana Animal** @ **1.93** (Unibet) · prob 56% vs casas 45% · ventaja +9%
 
-- ✅ Valor: ventaja +18% (mín. 13% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
+- ❌ Valor: ventaja +9% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 66.669 partidos)  
-Goles esperados: pikalicaaa 2.35 · Sena 2.54  
-Ganador: pikalicaaa 35% · empate 22% · Sena 43%  
-Total: más de 4.5 goles 54% · menos 46%  
-Hándicap Sena: −1.5 27% · −2.5 14%  
+📊 **Escenarios** (Poisson por jugador, 66.701 partidos)  
+Goles esperados: Animal 3.38 · llulle 2.54  
+Ganador: Animal 56% · empate 18% · llulle 26%  
+Total: más de 5.5 goles 54% · menos 46%  
+Hándicap Animal: −1.5 39% · −2.5 24%  
 🔎 **Claves**  
-• Forma: pikalicaaa ❌➖➖✅❌ | Sena ❌❌➖❌✅  
-• Partidos: pikalicaaa 711 | Sena 696  
-• Liga: Europa League  
-• Unibet: 1 2.02 · X 5.40 · 2 2.16 (sin margen 43%/16%/40%) · ventaja +18%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 5.40 (+18%) · Paf España 5.40 (+18%)  
+• Forma: Animal ✅➖✅➖✅ | llulle ✅✅❌❌❌  
+• Partidos: Animal 913 | llulle 963  
+• Liga: Champions League B  
+• Unibet: 1 1.93 · X 3.55 · 2 2.85 (sin margen 45%/24%/30%) · ventaja +9%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 1.93 (+9%) · Paf España 1.93 (+9%)  
+
+## Paka vs maggett0 — 13/11 · 16:34
+
+👀 candidata · 🎮⚽ FC 27 · Serie A · **Gana Paka** @ **2.50** (Unibet) · prob 46% vs casas 35% · ventaja +14%
+
+- ✅ Valor: ventaja +14% (mín. 12% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 66.701 partidos)  
+Goles esperados: Paka 3.06 · maggett0 2.71  
+Ganador: Paka 46% · empate 20% · maggett0 35%  
+Total: más de 5.5 goles 52% · menos 48%  
+Hándicap Paka: −1.5 31% · −2.5 18%  
+🔎 **Claves**  
+• Forma: Paka ❌✅✅❌➖ | maggett0 ✅❌❌✅❌  
+• Partidos: Paka 967 | maggett0 1001  
+• Liga: Serie A  
+• Unibet: 1 2.50 · X 4.50 · 2 1.90 (sin margen 35%/19%/46%) · ventaja +14%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.50 (+14%) · Paf España 2.50 (+14%)  
 
