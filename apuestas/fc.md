@@ -1,25 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 13/11/2026 01:51 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Vanste vs mixes — 13/11 · 02:24
-
-👀 candidata · 🎮⚽ FC 27 · World Cup B · **Gana Vanste** @ **2.90** (Unibet) · prob 42% vs casas 30% · ventaja +21%
-
-- ✅ Valor: ventaja +21% (mín. 13% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 66.008 partidos)  
-Goles esperados: Vanste 2.67 · mixes 2.57  
-Ganador: Vanste 42% · empate 21% · mixes 37%  
-Total: más de 5.5 goles 43% · menos 57%  
-Hándicap Vanste: −1.5 26% · −2.5 14%  
-🔎 **Claves**  
-• Forma: Vanste ❌✅✅➖❌ | mixes ❌❌✅❌❌  
-• Partidos: Vanste 136 | mixes 111  
-• Liga: World Cup B  
-• Unibet: 1 2.90 · X 4.40 · 2 1.75 (sin margen 30%/20%/50%) · ventaja +21%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.90 (+21%) · Paf España 2.90 (+21%)  
+Actualizado 13/11/2026 02:38 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## fantazer vs Senya — 13/11 · 02:40
 
@@ -73,5 +54,23 @@ Hándicap fantazer: −1.5 48% · −2.5 32%
 • Forma: Dreamer ❌❌❌❌✅ | fantazer ❌✅✅❌➖  
 • Partidos: Dreamer 1640 | fantazer 1635  
 • Liga: Volta International A  
+• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
+
+## Kosta vs zaha — 13/11 · 04:20
+
+👀 candidata · 🎮⚽ FC 27 · LaLiga 2x6 · **Gana zaha** @ **1.13** (cuota justa (sin casa)) · prob 88% vs casas 88% · ventaja +0%
+
+- ❌ Valor: ventaja +0% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 66.037 partidos)  
+Goles esperados: Kosta 3.75 · zaha 7.48  
+Ganador: Kosta 6% · empate 6% · zaha 88%  
+Total: más de 11.5 goles 44% · menos 56%  
+Hándicap zaha: −1.5 74% · −2.5 63%  
+🔎 **Claves**  
+• Forma: Kosta ❌❌➖❌❌ | zaha ✅➖➖➖✅  
+• Partidos: Kosta 287 | zaha 375  
+• Liga: LaLiga 2x6  
 • Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
 
