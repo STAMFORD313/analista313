@@ -1,24 +1,25 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 13/11/2026 01:21 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 13/11/2026 01:51 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## zaha vs Kosta — 13/11 · 01:24
+## Vanste vs mixes — 13/11 · 02:24
 
-👀 candidata · 🎮⚽ FC 27 · Argentina Super League 2x6 · **Gana zaha** @ **1.15** (cuota justa (sin casa)) · prob 87% vs casas 87% · ventaja +0%
+👀 candidata · 🎮⚽ FC 27 · World Cup B · **Gana Vanste** @ **2.90** (Unibet) · prob 42% vs casas 30% · ventaja +21%
 
-- ❌ Valor: ventaja +0% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+- ✅ Valor: ventaja +21% (mín. 13% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 65.921 partidos)  
-Goles esperados: zaha 7.61 · Kosta 3.85  
-Ganador: zaha 87% · empate 6% · Kosta 7%  
-Total: más de 11.5 goles 46% · menos 54%  
-Hándicap zaha: −1.5 74% · −2.5 63%  
+📊 **Escenarios** (Poisson por jugador, 66.008 partidos)  
+Goles esperados: Vanste 2.67 · mixes 2.57  
+Ganador: Vanste 42% · empate 21% · mixes 37%  
+Total: más de 5.5 goles 43% · menos 57%  
+Hándicap Vanste: −1.5 26% · −2.5 14%  
 🔎 **Claves**  
-• Forma: zaha ❌✅❌✅❌ | Kosta ➖❌❌➖❌  
-• Partidos: zaha 368 | Kosta 280  
-• Liga: Argentina Super League 2x6  
-• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
+• Forma: Vanste ❌✅✅➖❌ | mixes ❌❌✅❌❌  
+• Partidos: Vanste 136 | mixes 111  
+• Liga: World Cup B  
+• Unibet: 1 2.90 · X 4.40 · 2 1.75 (sin margen 30%/20%/50%) · ventaja +21%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.90 (+21%) · Paf España 2.90 (+21%)  
 
 ## fantazer vs Senya — 13/11 · 02:40
 
