@@ -66181,11 +66181,11 @@ id,tournament_id,club1,club2,ht1,ht2
 2376224,261774,Leipzig,B Dortmund,,
 2376225,261774,Bayern Munchen,Leipzig,,
 2376226,261774,Stuttgart,Frankfurt,,
-2375748,261773,Juventus,Napoli,1,1
-2375749,261773,Napoli,Sassuolo,0,5
-2375751,261773,Bologna,Napoli,0,1
-2375752,261773,Sassuolo,Juventus,0,0
-2375753,261773,Juventus,Bologna,0,2
+2375748,261773,Juventus,Napoli,1.0,1.0
+2375749,261773,Napoli,Sassuolo,0.0,5.0
+2375751,261773,Bologna,Napoli,0.0,1.0
+2375752,261773,Sassuolo,Juventus,0.0,0.0
+2375753,261773,Juventus,Bologna,0.0,2.0
 2375756,261773,Bologna,Sassuolo,,
 2375758,261773,Napoli,Juventus,,
 2375759,261773,Sassuolo,Napoli,,
@@ -66193,16 +66193,16 @@ id,tournament_id,club1,club2,ht1,ht2
 2375762,261773,Juventus,Sassuolo,,
 2375763,261773,Bologna,Juventus,,
 2375766,261773,Sassuolo,Bologna,,
-2376735,261787,Man City,Paris,1,1
-2376736,261787,Boca Juniors,River Plate,1,1
-2376737,261787,River Plate,Man City,2,0
-2376738,261787,Paris,Real Madrid,1,2
-2376739,261787,Real Madrid,River Plate,0,3
-2376740,261787,Man City,Boca Juniors,3,3
-2376741,261787,Boca Juniors,Real Madrid,2,1
-2376742,261787,River Plate,Paris,3,0
-2376743,261787,Paris,Boca Juniors,3,1
-2376744,261787,Real Madrid,Man City,0,1
+2376735,261787,Man City,Paris,1.0,1.0
+2376736,261787,Boca Juniors,River Plate,1.0,1.0
+2376737,261787,River Plate,Man City,2.0,0.0
+2376738,261787,Paris,Real Madrid,1.0,2.0
+2376739,261787,Real Madrid,River Plate,0.0,3.0
+2376740,261787,Man City,Boca Juniors,3.0,3.0
+2376741,261787,Boca Juniors,Real Madrid,2.0,1.0
+2376742,261787,River Plate,Paris,3.0,0.0
+2376743,261787,Paris,Boca Juniors,3.0,1.0
+2376744,261787,Real Madrid,Man City,0.0,1.0
 2376745,261787,Paris,Man City,,
 2376746,261787,River Plate,Boca Juniors,,
 2376747,261787,Man City,River Plate,,

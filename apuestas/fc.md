@@ -1,25 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 13/11/2026 05:39 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Vanste vs Joop — 13/11 · 05:56
-
-👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana Joop** @ **3.00** (Unibet) · prob 38% vs casas 29% · ventaja +15%
-
-- ✅ Valor: ventaja +15% (mín. 12% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 66.161 partidos)  
-Goles esperados: Vanste 2.63 · Joop 2.55  
-Ganador: Vanste 41% · empate 21% · Joop 38%  
-Total: más de 5.5 goles 41% · menos 59%  
-Hándicap Vanste: −1.5 26% · −2.5 14%  
-🔎 **Claves**  
-• Forma: Vanste ❌✅✅✅✅ | Joop ✅✅❌✅✅  
-• Partidos: Vanste 148 | Joop 157  
-• Liga: Champions League B  
-• Unibet: 1 1.73 · X 4.30 · 2 3.00 (sin margen 51%/20%/29%) · ventaja +15%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 3.00 (+15%) · Paf España 3.00 (+15%)  
+Actualizado 13/11/2026 06:10 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## believer vs Kavviro — 13/11 · 06:11
 
