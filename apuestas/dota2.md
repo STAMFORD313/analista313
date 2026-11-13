@@ -1,6 +1,6 @@
 # 🐉 Dota 2 · apuestas de valor
 
-Actualizado 13/11/2026 00:51 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 13/11/2026 01:21 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Xipto Esports vs angry birds — 13/11 · 11:00
 
