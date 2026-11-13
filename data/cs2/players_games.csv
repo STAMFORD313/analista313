@@ -34758,3 +34758,6 @@ game_id,match_id,slug,date,tier,bo,tournament_id,tournament,t1_id,t2_id,team1,te
 191064,132597,g2-vs-falcons-esports-13-11-2026,2026-11-13T11:00:00.000+00:00,s,3,4224,BLAST Rivals Fall 2026,793,2713,G2,Falcons,1,de_dust2,793,13.0,11.0
 193336,133846,team-aces-vs-genone-13-11-2026,2026-11-13T12:10:00.000+00:00,b,3,6240,NODWIN Clutch Series 14,25564,1406,Aces,GenOne,2,de_dust2,25564,16.0,14.0
 193337,133846,team-aces-vs-genone-13-11-2026,2026-11-13T12:10:00.000+00:00,b,3,6240,NODWIN Clutch Series 14,25564,1406,Aces,GenOne,1,de_inferno,25564,13.0,5.0
+192492,133246,private-vs-butterfly-13-11-2026,2026-11-13T12:30:00.000+00:00,b,3,5628,CCT Europe 2026 Series 13,25382,24855,PRIVATE,Butterfly,3,de_dust2,25382,13.0,9.0
+192493,133246,private-vs-butterfly-13-11-2026,2026-11-13T12:30:00.000+00:00,b,3,5628,CCT Europe 2026 Series 13,25382,24855,PRIVATE,Butterfly,2,de_nuke,24855,13.0,7.0
+192494,133246,private-vs-butterfly-13-11-2026,2026-11-13T12:30:00.000+00:00,b,3,5628,CCT Europe 2026 Series 13,25382,24855,PRIVATE,Butterfly,1,de_ancient,25382,13.0,7.0

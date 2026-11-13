@@ -66725,16 +66725,16 @@ id,tournament_id,club1,club2,ht1,ht2
 2378326,261859,France,Argentina,,
 2378327,261859,Germany,France,,
 2378328,261859,Spain,England,,
-2378419,261864,Napoli,Juventus,1,3
-2378420,261864,Sassuolo,Bologna,2,1
-2378421,261864,Bologna,Napoli,2,1
-2378422,261864,Juventus,Roma,1,0
-2378423,261864,Roma,Bologna,2,0
-2378424,261864,Napoli,Sassuolo,0,2
-2378425,261864,Sassuolo,Roma,2,0
-2378426,261864,Bologna,Juventus,1,2
-2378427,261864,Juventus,Sassuolo,0,4
-2378428,261864,Roma,Napoli,0,2
+2378419,261864,Napoli,Juventus,1.0,3.0
+2378420,261864,Sassuolo,Bologna,2.0,1.0
+2378421,261864,Bologna,Napoli,2.0,1.0
+2378422,261864,Juventus,Roma,1.0,0.0
+2378423,261864,Roma,Bologna,2.0,0.0
+2378424,261864,Napoli,Sassuolo,0.0,2.0
+2378425,261864,Sassuolo,Roma,2.0,0.0
+2378426,261864,Bologna,Juventus,1.0,2.0
+2378427,261864,Juventus,Sassuolo,0.0,4.0
+2378428,261864,Roma,Napoli,0.0,2.0
 2378429,261864,Juventus,Napoli,,
 2378430,261864,Bologna,Sassuolo,,
 2378431,261864,Napoli,Bologna,,
@@ -66745,3 +66745,43 @@ id,tournament_id,club1,club2,ht1,ht2
 2378436,261864,Juventus,Bologna,,
 2378437,261864,Sassuolo,Juventus,,
 2378438,261864,Napoli,Roma,,
+2378169,261826,Aston Villa,Roma,2,3
+2378170,261826,Salzburg,Fenerbahce,0,1
+2378171,261826,Fenerbahce,Aston Villa,3,0
+2378172,261826,Roma,Porto,0,1
+2378173,261826,Porto,Fenerbahce,0,2
+2378174,261826,Aston Villa,Salzburg,1,1
+2378175,261826,Salzburg,Porto,0,2
+2378176,261826,Fenerbahce,Roma,0,1
+2378177,261826,Roma,Salzburg,0,3
+2378178,261826,Porto,Aston Villa,3,1
+2378179,261826,Roma,Aston Villa,1,1
+2378180,261826,Fenerbahce,Salzburg,0,1
+2378181,261826,Aston Villa,Fenerbahce,,
+2378182,261826,Porto,Roma,,
+2378183,261826,Fenerbahce,Porto,,
+2378184,261826,Salzburg,Aston Villa,,
+2378185,261826,Porto,Salzburg,,
+2378186,261826,Roma,Fenerbahce,,
+2378187,261826,Salzburg,Roma,,
+2378188,261826,Aston Villa,Porto,,
+2378359,261834,Sporting CP,Arsenal,0,1
+2378360,261834,Man City,Juventus,0,3
+2378361,261834,Juventus,Sporting CP,5,1
+2378362,261834,Arsenal,B Dortmund,3,3
+2378363,261834,B Dortmund,Juventus,3,2
+2378364,261834,Sporting CP,Man City,2,1
+2378365,261834,Man City,B Dortmund,2,0
+2378366,261834,Juventus,Arsenal,2,3
+2378367,261834,Arsenal,Man City,0,2
+2378368,261834,B Dortmund,Sporting CP,3,0
+2378369,261834,Arsenal,Sporting CP,,
+2378370,261834,Juventus,Man City,,
+2378371,261834,Sporting CP,Juventus,,
+2378372,261834,B Dortmund,Arsenal,,
+2378373,261834,Juventus,B Dortmund,,
+2378374,261834,Man City,Sporting CP,,
+2378375,261834,B Dortmund,Man City,,
+2378376,261834,Arsenal,Juventus,,
+2378377,261834,Man City,Arsenal,,
+2378378,261834,Sporting CP,B Dortmund,,
