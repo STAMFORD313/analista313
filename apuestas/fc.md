@@ -1,42 +1,61 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 13/11/2026 06:10 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 13/11/2026 06:39 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## believer vs Kavviro — 13/11 · 06:11
+## d1pseN vs Bomb1to — 13/11 · 06:45
 
-👀 candidata · 🎮⚽ FC 27 · Club World Cup · **Gana Kavviro** @ **2.55** (Unibet) · prob 46% vs casas 34% · ventaja +16%
+👀 candidata · 🎮⚽ FC 27 · World Cup A · **Gana d1pseN** @ **3.10** (Unibet) · prob 39% vs casas 28% · ventaja +20%
 
-- ✅ Valor: ventaja +16% (mín. 12% con la incertidumbre, máx. 30%)
+- ✅ Valor: ventaja +20% (mín. 13% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 66.161 partidos)  
-Goles esperados: believer 2.20 · Kavviro 2.46  
-Ganador: believer 32% · empate 22% · Kavviro 46%  
-Total: más de 4.5 goles 50% · menos 50%  
-Hándicap Kavviro: −1.5 28% · −2.5 14%  
+📊 **Escenarios** (Poisson por jugador, 66.202 partidos)  
+Goles esperados: d1pseN 2.71 · Bomb1to 2.78  
+Ganador: d1pseN 39% · empate 20% · Bomb1to 41%  
+Total: más de 5.5 goles 47% · menos 53%  
+Hándicap Bomb1to: −1.5 26% · −2.5 14%  
 🔎 **Claves**  
-• Forma: believer ❌➖❌❌✅ | Kavviro ✅❌➖✅✅  
-• Partidos: believer 1105 | Kavviro 910  
-• Liga: Club World Cup  
-• Unibet: 1 2.14 · X 3.45 · 2 2.55 (sin margen 41%/25%/34%) · ventaja +16%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.55 (+16%) · Paf España 2.55 (+16%)  
+• Forma: d1pseN ✅❌➖❌✅ | Bomb1to ❌✅❌❌➖  
+• Partidos: d1pseN 321 | Bomb1to 1314  
+• Liga: World Cup A  
+• Unibet: 1 3.10 · X 2.65 · 2 2.20 (sin margen 28%/33%/39%) · ventaja +20%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 3.10 (+20%) · Paf España 3.10 (+20%)  
 
-## TikitakaMaster vs Frantsuz — 13/11 · 06:18
+## MeLToSik vs Revange — 13/11 · 07:00
 
-👀 candidata · 🎮⚽ FC 27 · Premier League 2x6 · **Gana Frantsuz** @ **3.55** (Unibet) · prob 34% vs casas 24% · ventaja +22%
+👀 candidata · 🎮⚽ FC 27 · Europa League · **Gana Revange** @ **2.20** (Unibet) · prob 49% vs casas 40% · ventaja +7%
 
-- ✅ Valor: ventaja +22% (mín. 14% con la incertidumbre, máx. 30%)
+- ❌ Valor: ventaja +7% (mín. 10% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 66.161 partidos)  
-Goles esperados: TikitakaMaster 4.72 · Frantsuz 4.33  
-Ganador: TikitakaMaster 51% · empate 15% · Frantsuz 34%  
-Total: más de 9.5 goles 42% · menos 58%  
-Hándicap TikitakaMaster: −1.5 35% · −2.5 24%  
+📊 **Escenarios** (Poisson por jugador, 66.202 partidos)  
+Goles esperados: MeLToSik 2.07 · Revange 2.44  
+Ganador: MeLToSik 29% · empate 22% · Revange 49%  
+Total: más de 4.5 goles 47% · menos 53%  
+Hándicap Revange: −1.5 29% · −2.5 15%  
 🔎 **Claves**  
-• Forma: TikitakaMaster ❌➖✅❌✅ | Frantsuz ➖✅✅➖✅  
-• Partidos: TikitakaMaster 695 | Frantsuz 642  
-• Liga: Premier League 2x6  
-• Unibet: 1 1.40 · X 6.40 · 2 3.55 (sin margen 62%/14%/24%) · ventaja +22%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 3.55 (+22%) · Paf España 3.55 (+22%)  
+• Forma: MeLToSik ❌✅❌➖❌ | Revange ✅❌❌❌✅  
+• Partidos: MeLToSik 1225 | Revange 611  
+• Liga: Europa League  
+• Unibet: 1 3.30 · X 2.55 · 2 2.20 (sin margen 26%/34%/40%) · ventaja +7%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.20 (+7%) · Paf España 2.20 (+7%)  
+
+## Smetana vs crinner — 13/11 · 07:02
+
+👀 candidata · 🎮⚽ FC 27 · MLS · **Gana crinner** @ **1.97** (Unibet) · prob 54% vs casas 44% · ventaja +7%
+
+- ❌ Valor: ventaja +7% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 66.202 partidos)  
+Goles esperados: Smetana 2.47 · crinner 3.07  
+Ganador: Smetana 27% · empate 19% · crinner 54%  
+Total: más de 5.5 goles 48% · menos 52%  
+Hándicap crinner: −1.5 34% · −2.5 20%  
+🔎 **Claves**  
+• Forma: Smetana ❌❌✅✅✅ | crinner ✅✅✅✅✅  
+• Partidos: Smetana 1224 | crinner 1054  
+• Liga: MLS  
+• Unibet: 1 2.35 · X 4.70 · 2 1.97 (sin margen 37%/19%/44%) · ventaja +7%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 1.97 (+7%) · Paf España 1.97 (+7%)  
 
