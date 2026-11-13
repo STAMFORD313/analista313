@@ -1,61 +1,61 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 14/11/2026 00:19 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 14/11/2026 00:59 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## ssstasonn vs Simaponika — 14/11 · 00:29
+## Lunjo vs mixes — 14/11 · 01:02
 
-👀 candidata · 🎮⚽ FC 27 · Serie A · **Empate** @ **7.50** (Unibet) · prob 15% vs casas 12% · ventaja +12%
+👀 candidata · 🎮⚽ FC 27 · Premier League · **Empate** @ **6.00** (Unibet) · prob 20% vs casas 14% · ventaja +21%
 
-- ✅ Valor: ventaja +12% (mín. 12% con la incertidumbre, máx. 30%)
+- ✅ Valor: ventaja +21% (mín. 14% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 67.125 partidos)  
-Goles esperados: ssstasonn 2.15 · Simaponika 3.74  
-Ganador: ssstasonn 15% · empate 15% · Simaponika 70%  
-Total: más de 5.5 goles 54% · menos 46%  
-Hándicap Simaponika: −1.5 51% · −2.5 34%  
+📊 **Escenarios** (Poisson por jugador, 67.153 partidos)  
+Goles esperados: Lunjo 2.86 · mixes 2.54  
+Ganador: Lunjo 48% · empate 20% · mixes 32%  
+Total: más de 5.5 goles 45% · menos 55%  
+Hándicap Lunjo: −1.5 30% · −2.5 17%  
 🔎 **Claves**  
-• Forma: ssstasonn ❌❌➖➖❌ | Simaponika ❌✅➖❌➖  
-• Partidos: ssstasonn 1039 | Simaponika 1185  
-• Liga: Serie A  
-• Unibet: 1 5.10 · X 7.50 · 2 1.21 (sin margen 17%/12%/72%) · ventaja +12%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 7.50 (+12%) · Paf España 7.50 (+12%)  
+• Forma: Lunjo ➖❌❌❌✅ | mixes ❌❌✅❌✅  
+• Partidos: Lunjo 140 | mixes 139  
+• Liga: Premier League  
+• Unibet: 1 1.50 · X 6.00 · 2 3.10 (sin margen 58%/14%/28%) · ventaja +21%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 6.00 (+21%) · Paf España 6.00 (+21%)  
 
-## hrk vs Skif — 14/11 · 00:32
+## hrk vs kirman — 14/11 · 01:20
 
-👀 candidata · 🎮⚽ FC 27 · World Cup A · **Gana Skif** @ **5.00** (Unibet) · prob 27% vs casas 17% · ventaja +33%
+👀 candidata · 🎮⚽ FC 27 · World Cup A · **Gana kirman** @ **3.20** (Unibet) · prob 48% vs casas 27% · ventaja +54%
 
-- ❌ Valor: ventaja +33% (mín. 17% con la incertidumbre, máx. 30%)
+- ❌ Valor: ventaja +54% (mín. 22% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 67.105 partidos)  
-Goles esperados: hrk 3.28 · Skif 2.55  
-Ganador: hrk 55% · empate 19% · Skif 27%  
+📊 **Escenarios** (Poisson por jugador, 67.153 partidos)  
+Goles esperados: hrk 2.71 · kirman 3.11  
+Ganador: hrk 32% · empate 19% · kirman 48%  
 Total: más de 5.5 goles 53% · menos 47%  
-Hándicap hrk: −1.5 37% · −2.5 23%  
+Hándicap kirman: −1.5 32% · −2.5 19%  
 🔎 **Claves**  
-• Forma: hrk ❌✅➖❌✅ | Skif ❌❌➖✅➖  
-• Partidos: hrk 832 | Skif 650  
+• Forma: hrk ✅✅❌✅✅ | kirman ➖➖➖✅✅  
+• Partidos: hrk 836 | kirman 680  
 • Liga: World Cup A  
-• Unibet: 1 1.34 · X 4.80 · 2 5.00 (sin margen 65%/18%/17%) · ventaja +33%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 5.00 (+33%) · Paf España 5.00 (+33%)  
+• Unibet: 1 1.65 · X 4.50 · 2 3.20 (sin margen 53%/19%/27%) · ventaja +54%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 3.20 (+54%) · Paf España 3.20 (+54%)  
 
-## curuza vs hrk — 14/11 · 00:44
+## Skif vs hrk — 14/11 · 01:32
 
-👀 candidata · 🎮⚽ FC 27 · World Cup A · **Gana curuza** @ **3.05** (Unibet) · prob 37% vs casas 29% · ventaja +12%
+👀 candidata · 🎮⚽ FC 27 · World Cup A · **Gana Skif** @ **5.10** (Unibet) · prob 25% vs casas 17% · ventaja +26%
 
-- ✅ Valor: ventaja +12% (mín. 11% con la incertidumbre, máx. 30%)
+- ✅ Valor: ventaja +26% (mín. 15% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 67.125 partidos)  
-Goles esperados: curuza 3.04 · hrk 3.25  
-Ganador: curuza 37% · empate 19% · hrk 44%  
-Total: más de 6.5 goles 44% · menos 56%  
-Hándicap hrk: −1.5 30% · −2.5 17%  
+📊 **Escenarios** (Poisson por jugador, 67.153 partidos)  
+Goles esperados: Skif 2.47 · hrk 3.32  
+Ganador: Skif 25% · empate 18% · hrk 57%  
+Total: más de 5.5 goles 52% · menos 48%  
+Hándicap hrk: −1.5 39% · −2.5 24%  
 🔎 **Claves**  
-• Forma: curuza ✅➖❌➖✅ | hrk ✅➖❌✅✅  
-• Partidos: curuza 833 | hrk 833  
+• Forma: Skif ➖❌❌❌❌ | hrk ✅✅❌✅✅  
+• Partidos: Skif 654 | hrk 836  
 • Liga: World Cup A  
-• Unibet: 1 3.05 · X 4.20 · 2 1.74 (sin margen 29%/21%/50%) · ventaja +12%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 3.05 (+12%) · Paf España 3.05 (+12%)  
+• Unibet: 1 5.10 · X 4.10 · 2 1.40 (sin margen 17%/21%/62%) · ventaja +26%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 5.10 (+26%) · Paf España 5.10 (+26%)  
 
