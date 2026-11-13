@@ -1,6 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 13/11/2026 20:48 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 13/11/2026 21:18 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Valladolid vs Castellon — 14/11 · 14:00
 
@@ -590,6 +590,163 @@ Faltas 15.3 - 13.3: total +26.5 62% · Oviedo +13.5 65% · Girona +13.5 46%
 Tiros a puerta 4.9 - 3.5: total +9.5 34% · Oviedo +5.5 37% · Girona +4.5 28%  
 🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Girona + Menos de 4.5 córners de Girona + Menos de 3.5 tarjetas de Girona → prob. 33%, cuota justa 3.04 (solo vale si la casa paga más)  
 🚀 Combinada larga: Menos de 4.5 tiros a puerta de Girona + Menos de 4.5 córners de Girona + Menos de 3.5 tarjetas de Girona + Más de 13.5 faltas de Oviedo + Menos de 2.5 goles → prob. 15%, cuota justa 6.74  
+🎯 Simulada (con cuota: Menos de 4.5 córners de Girona + Menos de 2.5 goles): cuota Unibet aprox. 2.82 (producto de piernas) · prob. 43% · ventaja +22% → 1 u en la banca de simulación  
+
+## Oviedo vs Girona — 14/11 · 21:00
+
+👀 candidata · 🇪🇸 LaLiga 2 · **Menos de 3.5 córners de Girona** @ **2.16** (Unibet) · prob 47% vs casas 42% · ventaja +1%
+
+- ❌ Valor: ventaja +1% (mín. 8% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.22 - 0.90)  
+1 37% · X 32% · 2 31%  
+1X 69% · X2 63% · 12 68%  
++1.5 63% · +2.5 36% · +3.5 17% · Ambos marcan 43%  
+Marcadores: 1-0 14% · 1-1 14% · 0-0 13% · 0-1 10%  
+🔎 **Claves**  
+• Forma: Oviedo ✅✅➖❌✅ | Girona ➖✅✅❌❌  
+• H2H: 12 desde 2015: 3V-5E-4D · 2.2 goles/partido · +2.5 en 33%  
+• Bajas: Oviedo: sin bajas; Girona: sin bajas  
+• Favorito de las casas: Oviedo @ 2.40  
+📐 **Estadísticas esperadas**  
+Córners 5.6 - 3.7: total +9.5 45% · Oviedo +5.5 47% · Girona +4.5 32%  
+Tarjetas 2.7 - 3.0: total +5.5 49% · Oviedo +2.5 51% · Girona +3.5 35%  
+Faltas 15.3 - 13.3: total +26.5 62% · Oviedo +13.5 65% · Girona +13.5 46%  
+Tiros a puerta 4.9 - 3.5: total +9.5 34% · Oviedo +5.5 37% · Girona +4.5 28%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Girona + Menos de 4.5 córners de Girona + Menos de 3.5 tarjetas de Girona → prob. 33%, cuota justa 3.04 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Girona + Menos de 4.5 córners de Girona + Menos de 3.5 tarjetas de Girona + Más de 13.5 faltas de Oviedo + Menos de 2.5 goles → prob. 15%, cuota justa 6.74  
+🎯 Simulada (con cuota: Menos de 4.5 córners de Girona + Menos de 2.5 goles): cuota Unibet aprox. 2.82 (producto de piernas) · prob. 43% · ventaja +22% → 1 u en la banca de simulación  
+
+## Oviedo vs Girona — 14/11 · 21:00
+
+👀 candidata · 🇪🇸 LaLiga 2 · **Más de 3.5 córners de Girona** @ **1.58** (Unibet) · prob 53% vs casas 58% · ventaja -16%
+
+- ❌ Valor: ventaja -16% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.22 - 0.90)  
+1 37% · X 32% · 2 31%  
+1X 69% · X2 63% · 12 68%  
++1.5 63% · +2.5 36% · +3.5 17% · Ambos marcan 43%  
+Marcadores: 1-0 14% · 1-1 14% · 0-0 13% · 0-1 10%  
+🔎 **Claves**  
+• Forma: Oviedo ✅✅➖❌✅ | Girona ➖✅✅❌❌  
+• H2H: 12 desde 2015: 3V-5E-4D · 2.2 goles/partido · +2.5 en 33%  
+• Bajas: Oviedo: sin bajas; Girona: sin bajas  
+• Favorito de las casas: Oviedo @ 2.40  
+📐 **Estadísticas esperadas**  
+Córners 5.6 - 3.7: total +9.5 45% · Oviedo +5.5 47% · Girona +4.5 32%  
+Tarjetas 2.7 - 3.0: total +5.5 49% · Oviedo +2.5 51% · Girona +3.5 35%  
+Faltas 15.3 - 13.3: total +26.5 62% · Oviedo +13.5 65% · Girona +13.5 46%  
+Tiros a puerta 4.9 - 3.5: total +9.5 34% · Oviedo +5.5 37% · Girona +4.5 28%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Girona + Menos de 4.5 córners de Girona + Menos de 3.5 tarjetas de Girona → prob. 33%, cuota justa 3.04 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Girona + Menos de 4.5 córners de Girona + Menos de 3.5 tarjetas de Girona + Más de 13.5 faltas de Oviedo + Menos de 2.5 goles → prob. 15%, cuota justa 6.74  
+🎯 Simulada (con cuota: Menos de 4.5 córners de Girona + Menos de 2.5 goles): cuota Unibet aprox. 2.82 (producto de piernas) · prob. 43% · ventaja +22% → 1 u en la banca de simulación  
+
+## Oviedo vs Girona — 14/11 · 21:00
+
+👀 candidata · 🇪🇸 LaLiga 2 · **Más de 5.5 córners de Oviedo** @ **2.38** (Unibet) · prob 42% vs casas 38% · ventaja +1%
+
+- ❌ Valor: ventaja +1% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.22 - 0.90)  
+1 37% · X 32% · 2 31%  
+1X 69% · X2 63% · 12 68%  
++1.5 63% · +2.5 36% · +3.5 17% · Ambos marcan 43%  
+Marcadores: 1-0 14% · 1-1 14% · 0-0 13% · 0-1 10%  
+🔎 **Claves**  
+• Forma: Oviedo ✅✅➖❌✅ | Girona ➖✅✅❌❌  
+• H2H: 12 desde 2015: 3V-5E-4D · 2.2 goles/partido · +2.5 en 33%  
+• Bajas: Oviedo: sin bajas; Girona: sin bajas  
+• Favorito de las casas: Oviedo @ 2.40  
+📐 **Estadísticas esperadas**  
+Córners 5.6 - 3.7: total +9.5 45% · Oviedo +5.5 47% · Girona +4.5 32%  
+Tarjetas 2.7 - 3.0: total +5.5 49% · Oviedo +2.5 51% · Girona +3.5 35%  
+Faltas 15.3 - 13.3: total +26.5 62% · Oviedo +13.5 65% · Girona +13.5 46%  
+Tiros a puerta 4.9 - 3.5: total +9.5 34% · Oviedo +5.5 37% · Girona +4.5 28%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Girona + Menos de 4.5 córners de Girona + Menos de 3.5 tarjetas de Girona → prob. 33%, cuota justa 3.04 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Girona + Menos de 4.5 córners de Girona + Menos de 3.5 tarjetas de Girona + Más de 13.5 faltas de Oviedo + Menos de 2.5 goles → prob. 15%, cuota justa 6.74  
+🎯 Simulada (con cuota: Menos de 4.5 córners de Girona + Menos de 2.5 goles): cuota Unibet aprox. 2.82 (producto de piernas) · prob. 43% · ventaja +22% → 1 u en la banca de simulación  
+
+## Oviedo vs Girona — 14/11 · 21:00
+
+👀 candidata · 🇪🇸 LaLiga 2 · **Menos de 5.5 córners de Oviedo** @ **1.47** (Unibet) · prob 58% vs casas 62% · ventaja -15%
+
+- ❌ Valor: ventaja -15% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.22 - 0.90)  
+1 37% · X 32% · 2 31%  
+1X 69% · X2 63% · 12 68%  
++1.5 63% · +2.5 36% · +3.5 17% · Ambos marcan 43%  
+Marcadores: 1-0 14% · 1-1 14% · 0-0 13% · 0-1 10%  
+🔎 **Claves**  
+• Forma: Oviedo ✅✅➖❌✅ | Girona ➖✅✅❌❌  
+• H2H: 12 desde 2015: 3V-5E-4D · 2.2 goles/partido · +2.5 en 33%  
+• Bajas: Oviedo: sin bajas; Girona: sin bajas  
+• Favorito de las casas: Oviedo @ 2.40  
+📐 **Estadísticas esperadas**  
+Córners 5.6 - 3.7: total +9.5 45% · Oviedo +5.5 47% · Girona +4.5 32%  
+Tarjetas 2.7 - 3.0: total +5.5 49% · Oviedo +2.5 51% · Girona +3.5 35%  
+Faltas 15.3 - 13.3: total +26.5 62% · Oviedo +13.5 65% · Girona +13.5 46%  
+Tiros a puerta 4.9 - 3.5: total +9.5 34% · Oviedo +5.5 37% · Girona +4.5 28%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Girona + Menos de 4.5 córners de Girona + Menos de 3.5 tarjetas de Girona → prob. 33%, cuota justa 3.04 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Girona + Menos de 4.5 córners de Girona + Menos de 3.5 tarjetas de Girona + Más de 13.5 faltas de Oviedo + Menos de 2.5 goles → prob. 15%, cuota justa 6.74  
+🎯 Simulada (con cuota: Menos de 4.5 córners de Girona + Menos de 2.5 goles): cuota Unibet aprox. 2.82 (producto de piernas) · prob. 43% · ventaja +22% → 1 u en la banca de simulación  
+
+## Oviedo vs Girona — 14/11 · 21:00
+
+👀 candidata · 🇪🇸 LaLiga 2 · **Más de 7.5 córners** @ **1.37** (Unibet) · prob 68% vs casas 67% · ventaja -7%
+
+- ❌ Valor: ventaja -7% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.22 - 0.90)  
+1 37% · X 32% · 2 31%  
+1X 69% · X2 63% · 12 68%  
++1.5 63% · +2.5 36% · +3.5 17% · Ambos marcan 43%  
+Marcadores: 1-0 14% · 1-1 14% · 0-0 13% · 0-1 10%  
+🔎 **Claves**  
+• Forma: Oviedo ✅✅➖❌✅ | Girona ➖✅✅❌❌  
+• H2H: 12 desde 2015: 3V-5E-4D · 2.2 goles/partido · +2.5 en 33%  
+• Bajas: Oviedo: sin bajas; Girona: sin bajas  
+• Favorito de las casas: Oviedo @ 2.40  
+📐 **Estadísticas esperadas**  
+Córners 5.6 - 3.7: total +9.5 45% · Oviedo +5.5 47% · Girona +4.5 32%  
+Tarjetas 2.7 - 3.0: total +5.5 49% · Oviedo +2.5 51% · Girona +3.5 35%  
+Faltas 15.3 - 13.3: total +26.5 62% · Oviedo +13.5 65% · Girona +13.5 46%  
+Tiros a puerta 4.9 - 3.5: total +9.5 34% · Oviedo +5.5 37% · Girona +4.5 28%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Girona + Menos de 4.5 córners de Girona + Menos de 3.5 tarjetas de Girona → prob. 33%, cuota justa 3.04 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Girona + Menos de 4.5 córners de Girona + Menos de 3.5 tarjetas de Girona + Más de 13.5 faltas de Oviedo + Menos de 2.5 goles → prob. 15%, cuota justa 6.74  
+🎯 Simulada (con cuota: Menos de 4.5 córners de Girona + Menos de 2.5 goles): cuota Unibet aprox. 2.82 (producto de piernas) · prob. 43% · ventaja +22% → 1 u en la banca de simulación  
+
+## Oviedo vs Girona — 14/11 · 21:00
+
+👀 candidata · 🇪🇸 LaLiga 2 · **Menos de 10.5 córners** @ **1.41** (Unibet) · prob 66% vs casas 65% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.22 - 0.90)  
+1 37% · X 32% · 2 31%  
+1X 69% · X2 63% · 12 68%  
++1.5 63% · +2.5 36% · +3.5 17% · Ambos marcan 43%  
+Marcadores: 1-0 14% · 1-1 14% · 0-0 13% · 0-1 10%  
+🔎 **Claves**  
+• Forma: Oviedo ✅✅➖❌✅ | Girona ➖✅✅❌❌  
+• H2H: 12 desde 2015: 3V-5E-4D · 2.2 goles/partido · +2.5 en 33%  
+• Bajas: Oviedo: sin bajas; Girona: sin bajas  
+• Favorito de las casas: Oviedo @ 2.40  
+📐 **Estadísticas esperadas**  
+Córners 5.6 - 3.7: total +9.5 45% · Oviedo +5.5 47% · Girona +4.5 32%  
+Tarjetas 2.7 - 3.0: total +5.5 49% · Oviedo +2.5 51% · Girona +3.5 35%  
+Faltas 15.3 - 13.3: total +26.5 62% · Oviedo +13.5 65% · Girona +13.5 46%  
+Tiros a puerta 4.9 - 3.5: total +9.5 34% · Oviedo +5.5 37% · Girona +4.5 28%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Girona + Menos de 4.5 córners de Girona + Menos de 3.5 tarjetas de Girona → prob. 33%, cuota justa 3.04 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Girona + Menos de 4.5 córners de Girona + Menos de 3.5 tarjetas de Girona + Más de 13.5 faltas de Oviedo + Menos de 2.5 goles → prob. 15%, cuota justa 6.74  
+🎯 Simulada (con cuota: Menos de 4.5 córners de Girona + Menos de 2.5 goles): cuota Unibet aprox. 2.82 (producto de piernas) · prob. 43% · ventaja +22% → 1 u en la banca de simulación  
 
 ## Mirassol vs Atletico-MG — 14/11 · 22:30
 
