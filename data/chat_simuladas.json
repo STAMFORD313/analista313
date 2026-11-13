@@ -2260,7 +2260,9 @@
     "away": "Drama",
     "txt": "Gana Drama",
     "odds": 2.15,
-    "p": 0.47927751937984486
+    "p": 0.47927751937984486,
+    "ok": false,
+    "por": "ganó 6yuBoJlbl 2-0"
    },
    {
     "src": "esports:dota2",
@@ -2288,9 +2290,9 @@
   "odds": 9.93,
   "p": 0.10986961931926267,
   "stake": 1.0,
-  "estado": "pendiente",
-  "avisada": false,
-  "rev": 1
+  "estado": "perdida",
+  "avisada": true,
+  "rev": 2
  },
  {
   "id": "20261112100654426251",
