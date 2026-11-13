@@ -1,23 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 13/11/2026 19:48 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Grêmio vs Curralzinho — 13/11 · 20:00
-
-👀 candidata · 🎮 CS2 · Gamers Club Liga Série A: November 2026 · **Gana Grêmio** @ **1.15** (Thunderpick) · prob 76% vs casas 80% · ventaja -13%
-
-- ❌ Valor: ventaja -13% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 76.785 partidos)  
-Mapa: Grêmio 71% · Serie BO1: Grêmio 71% - 29% Curralzinho  
-Casas: Grêmio 80% · Curralzinho 20%  
-🔎 **Claves**  
-• Elo: Grêmio 1517 (56 series) | Curralzinho 1359 (9 series)  
-• Forma: Grêmio ✅❌✅✅❌ | Curralzinho ✅❌✅❌❌  
-• H2H: sin precedentes  
-• Torneo: Gamers Club Liga Série A: November 2026 (nivel C)  
-• Cambios de plantilla: ninguno  
+Actualizado 13/11/2026 20:19 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## BARCA vs BORRACHEIROS — 13/11 · 23:00
 
