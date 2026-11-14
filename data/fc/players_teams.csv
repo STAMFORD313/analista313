@@ -68306,18 +68306,18 @@ id,tournament_id,club1,club2,ht1,ht2
 2379698,261987,Sporting CP,Juventus,0.0,5.0
 2379699,261987,Juventus,B Dortmund,3.0,1.0
 2379700,261987,Man City,Arsenal,2.0,0.0
-2379161,261964,Sporting CP,Braga,2,0
-2379162,261964,Benfica,Porto,2,3
-2379163,261964,Porto,Sporting CP,3,1
-2379164,261964,Braga,Vitoria SC,0,3
-2379165,261964,Vitoria SC,Porto,3,1
-2379166,261964,Sporting CP,Benfica,0,2
-2379167,261964,Benfica,Vitoria SC,2,1
-2379168,261964,Porto,Braga,1,2
-2379169,261964,Braga,Benfica,0,2
-2379170,261964,Vitoria SC,Sporting CP,1,2
-2379171,261964,Braga,Sporting CP,2,1
-2379172,261964,Porto,Benfica,0,1
+2379161,261964,Sporting CP,Braga,2.0,0.0
+2379162,261964,Benfica,Porto,2.0,3.0
+2379163,261964,Porto,Sporting CP,3.0,1.0
+2379164,261964,Braga,Vitoria SC,0.0,3.0
+2379165,261964,Vitoria SC,Porto,3.0,1.0
+2379166,261964,Sporting CP,Benfica,0.0,2.0
+2379167,261964,Benfica,Vitoria SC,2.0,1.0
+2379168,261964,Porto,Braga,1.0,2.0
+2379169,261964,Braga,Benfica,0.0,2.0
+2379170,261964,Vitoria SC,Sporting CP,1.0,2.0
+2379171,261964,Braga,Sporting CP,2.0,1.0
+2379172,261964,Porto,Benfica,0.0,1.0
 2379173,261964,Sporting CP,Porto,,
 2379174,261964,Vitoria SC,Braga,,
 2379175,261964,Porto,Vitoria SC,,
@@ -68326,3 +68326,15 @@ id,tournament_id,club1,club2,ht1,ht2
 2379178,261964,Braga,Porto,,
 2379179,261964,Benfica,Braga,,
 2379180,261964,Sporting CP,Vitoria SC,,
+2380099,262001,Boca Juniors,River Plate,3,2
+2380100,262001,Boca Juniors,Racing Club,1,5
+2380101,262001,River Plate,Racing Club,1,5
+2380102,262001,River Plate,Boca Juniors,,
+2380103,262001,Racing Club,Boca Juniors,,
+2380104,262001,Racing Club,River Plate,,
+2380105,262001,Boca Juniors,River Plate,,
+2380106,262001,Boca Juniors,Racing Club,,
+2380107,262001,River Plate,Racing Club,,
+2380108,262001,River Plate,Boca Juniors,,
+2380109,262001,Racing Club,Boca Juniors,,
+2380110,262001,Racing Club,River Plate,,

@@ -1,50 +1,6 @@
 # 🏈 NFL·NCAA · apuestas de valor
 
-Actualizado 14/11/2026 23:16 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## West Virginia Mountaineers vs Kansas Jayhawks — 14/11 · 23:30
-
-👀 candidata · 🏈 NCAA Football · **Más de 67.5 puntos** @ **1.89** (DraftKings) · prob 50% vs casas 50% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 totales» sin pérdidas demostradas
-
-📊 **Escenarios**: total esperado **61.4** puntos · línea 67.5  
-Más 50% · Menos 50%  
-🔎 **Claves**  
-• Forma: West Virginia Mountaineers ❌❌✅✅❌ | Kansas Jayhawks ❌❌✅❌❌  
-• H2H: 9 desde 2016: 7-2  
-• Bajas: West Virginia Mountaineers: sin bajas; Kansas Jayhawks: sin bajas  
-
-## West Virginia Mountaineers vs Kansas Jayhawks — 14/11 · 23:30
-
-👀 candidata · 🏈 NCAA Football · **West Virginia Mountaineers -3** @ **1.95** (DraftKings) · prob 49% vs casas 49% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 hándicap» sin pérdidas demostradas
-
-📊 **Escenarios**: West Virginia Mountaineers cubre -3 con prob. 49% (casas 49%)  
-🔎 **Claves**  
-• Forma: West Virginia Mountaineers ❌❌✅✅❌ | Kansas Jayhawks ❌❌✅❌❌  
-• H2H: 9 desde 2016: 7-2  
-• Bajas: West Virginia Mountaineers: sin bajas; Kansas Jayhawks: sin bajas  
-
-## West Virginia Mountaineers vs Kansas Jayhawks — 14/11 · 23:30
-
-👀 candidata · 🏈 NCAA Football · **Gana West Virginia Mountaineers** @ **1.70** (DraftKings) · prob 56% vs casas 56% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo con 9.521 partidos y bajas)  
-Gana West Virginia Mountaineers 67% · Gana Kansas Jayhawks 33%  
-Casas: West Virginia Mountaineers 56% · Kansas Jayhawks 44%  
-Hándicap WVU -3 · Total puntos 67.5  
-🔎 **Claves**  
-• Forma: West Virginia Mountaineers ❌❌✅✅❌ | Kansas Jayhawks ❌❌✅❌❌  
-• H2H: 9 desde 2016: 7-2  
-• Bajas: West Virginia Mountaineers: sin bajas; Kansas Jayhawks: sin bajas  
-• Favorito de las casas: West Virginia Mountaineers @ 1.70  
+Actualizado 14/11/2026 23:46 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Boise State Broncos vs Oregon State Beavers — 15/11 · 00:00
 

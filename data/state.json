@@ -1312,11 +1312,6 @@
   "wta|2026-11-15|Martina Trevisan|Samantha Alvarez",
   "wta|2026-11-15|Zhibek Kulambayeva|Valeriya Strakhova",
   "wta|2026-11-15|Ariana Geerlings|Camila Rodero Contreras",
-  "cs2|133917",
-  "fc|2370444",
-  "fc|2371492",
-  "fc|2370443",
-  "fc|2371263",
   "fc|2371494",
   "fc|2370586",
   "fc|2370449",
@@ -2316,7 +2311,12 @@
   "dota2|134230",
   "fc|2379175",
   "fc|2379538",
-  "fc|2379176"
+  "fc|2379176",
+  "dota2|133709",
+  "dota2|133711",
+  "fc|2380102",
+  "fc|2379180",
+  "fc|2379401"
  ],
  "signals": [
   {
@@ -4022,31 +4022,6 @@
    "placed": false
   },
   {
-   "market": "A",
-   "pick": "Kavviro",
-   "odds": 2.75,
-   "book": "Unibet",
-   "implied": 0.317,
-   "edge": 0.093,
-   "sin_stake": true,
-   "p": 0.397,
-   "key": "fc|2375772",
-   "match": "believer vs Kavviro",
-   "start": "2026-11-11T22:19:00+00:00",
-   "league": "🎮⚽ FC 27 · World Cup A",
-   "sport": "🎮⚽",
-   "context": "EA FC Esoccer Battle believer vs Kavviro (World Cup A): goles esperados 2.36-2.47, 1X2 38%/22%/40%. Sin cuotas de casa.",
-   "captured": "2026-11-11T22:11",
-   "version": "16a7849",
-   "bajas": "",
-   "considered": true,
-   "placed": false,
-   "score": "3-2",
-   "result": false,
-   "close_p": null,
-   "logged": true
-  },
-  {
    "market": "H",
    "pick": "vivienne",
    "odds": 3.35,
@@ -5287,7 +5262,11 @@
    "version": "38e7d57",
    "bajas": "Sam Houston Bearkats: sin bajas; Kennesaw State Owls: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "7-26",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "sph",
@@ -5308,7 +5287,11 @@
    "version": "38e7d57",
    "bajas": "Sam Houston Bearkats: sin bajas; Kennesaw State Owls: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "7-26",
+   "close_p": 0.4807,
+   "logged": true
   },
   {
    "market": "home",
@@ -5328,7 +5311,11 @@
    "version": "38e7d57",
    "bajas": "Sam Houston Bearkats: sin bajas; Kennesaw State Owls: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "7-26",
+   "close_p": 0.2677,
+   "logged": true
   },
   {
    "market": "over",
@@ -6542,15 +6529,6 @@
    "pick": "Más de 67.5 puntos",
    "league": "🏈 NCAA Football",
    "sport": "🏈",
-   "info": [
-    "📊 <b>Escenarios</b>: total esperado <b>61.4</b> puntos · línea 67.5",
-    "Más 50% · Menos 50%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: West Virginia Mountaineers ❌❌✅✅❌ | Kansas Jayhawks ❌❌✅❌❌",
-    "• H2H: 9 desde 2016: 7-2",
-    "• Bajas: West Virginia Mountaineers: sin bajas; Kansas Jayhawks: sin bajas"
-   ],
    "context": "West Virginia Mountaineers vs Kansas Jayhawks (🏈 NCAA Football). Modelo de puntos (ataque/defensa con 10 años, decaimiento 1 año): total esperado 61.4 frente a línea 67.5. Forma West Virginia Mountaineers ❌❌✅✅❌, Kansas Jayhawks ❌❌✅❌❌. H2H 9 desde 2016: 7-2. Bajas: West Virginia Mountaineers: sin bajas; Kansas Jayhawks: sin bajas.",
    "captured": "2026-11-12T00:13",
    "version": "38e7d57",
@@ -6572,14 +6550,6 @@
    "pick": "West Virginia Mountaineers -3",
    "league": "🏈 NCAA Football",
    "sport": "🏈",
-   "info": [
-    "📊 <b>Escenarios</b>: West Virginia Mountaineers cubre -3 con prob. 49% (casas 49%)",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: West Virginia Mountaineers ❌❌✅✅❌ | Kansas Jayhawks ❌❌✅❌❌",
-    "• H2H: 9 desde 2016: 7-2",
-    "• Bajas: West Virginia Mountaineers: sin bajas; Kansas Jayhawks: sin bajas"
-   ],
    "context": "West Virginia Mountaineers vs Kansas Jayhawks (🏈 NCAA Football). Hándicap West Virginia Mountaineers -3: margen esperado desde el Elo (gana West Virginia Mountaineers 67%). Forma West Virginia Mountaineers ❌❌✅✅❌, Kansas Jayhawks ❌❌✅❌❌. H2H 9 desde 2016: 7-2. Bajas: West Virginia Mountaineers: sin bajas; Kansas Jayhawks: sin bajas.",
    "captured": "2026-11-12T00:13",
    "version": "38e7d57",
@@ -6600,18 +6570,6 @@
    "start": "2026-11-14T22:30Z",
    "league": "🏈 NCAA Football",
    "sport": "🏈",
-   "info": [
-    "📊 <b>Escenarios</b> (Elo con 9.521 partidos y bajas)",
-    "Gana West Virginia Mountaineers 67% · Gana Kansas Jayhawks 33%",
-    "Casas: West Virginia Mountaineers 56% · Kansas Jayhawks 44%",
-    "Hándicap WVU -3 · Total puntos 67.5",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: West Virginia Mountaineers ❌❌✅✅❌ | Kansas Jayhawks ❌❌✅❌❌",
-    "• H2H: 9 desde 2016: 7-2",
-    "• Bajas: West Virginia Mountaineers: sin bajas; Kansas Jayhawks: sin bajas",
-    "• Favorito de las casas: West Virginia Mountaineers @ 1.70"
-   ],
    "context": "West Virginia Mountaineers vs Kansas Jayhawks (🏈 NCAA Football, fútbol americano). Modelo Elo con 10 años de historial ajustado por bajas: West Virginia Mountaineers 67%, Kansas Jayhawks 33%. Cuotas DraftKings 1.704/2.2, hándicap WVU -3, total 67.5. Forma West Virginia Mountaineers ❌❌✅✅❌, Kansas Jayhawks ❌❌✅❌❌. H2H 9 desde 2016: 7-2. Bajas West Virginia Mountaineers: ninguna. Bajas Kansas Jayhawks: ninguna.",
    "captured": "2026-11-12T00:13",
    "version": "38e7d57",
@@ -19120,7 +19078,11 @@
    "version": "b23b0fd",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "2-0",
+   "result": false,
+   "close_p": null,
+   "logged": true
   },
   {
    "key": "vp|2026-11-14|Chorley|Buxton",
@@ -19364,7 +19326,11 @@
    "version": "dc81732",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "1-2",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "H",
@@ -21997,27 +21963,17 @@
    "start": "2026-11-14T22:22:00+00:00",
    "league": "🎮⚽ FC 27 · Portugal Primera",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 68.260 partidos)",
-    "Goles esperados: curuza 3.02 · KravaRK 2.60",
-    "Ganador: curuza 48% · empate 20% · KravaRK 32%",
-    "Total: más de 5.5 goles 49% · menos 51%",
-    "Hándicap curuza: −1.5 32% · −2.5 18%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: curuza ✅➖➖✅✅ | KravaRK ❌❌✅❌❌",
-    "• Partidos: curuza 859 | KravaRK 422",
-    "• Liga: Portugal Primera",
-    "• Unibet: 1 2.28 · X 4.20 · 2 2.14 (sin margen 38%/21%/41%) · ventaja +10%. Sin stake hasta demostrar ROI con estas cuotas.",
-    "• En España: LeoVegas España 2.28 (+10%) · Paf España 2.28 (+10%)"
-   ],
    "context": "EA FC Esoccer Battle curuza vs KravaRK (Portugal Primera): goles esperados 3.02-2.60, 1X2 48%/20%/32%. Sin cuotas de casa.",
    "captured": "2026-11-14T21:47",
    "version": "8f321f6",
    "bajas": "",
    "considered": true,
    "placed": false,
-   "anunciada": true
+   "anunciada": true,
+   "score": "4-1",
+   "result": true,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "H",
@@ -22038,7 +21994,11 @@
    "version": "8f321f6",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "1-3",
+   "result": false,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "A",
@@ -22054,27 +22014,17 @@
    "start": "2026-11-14T22:19:00+00:00",
    "league": "🎮⚽ FC 27 · World Cup A",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 68.260 partidos)",
-    "Goles esperados: Grellz 2.62 · believer 3.03",
-    "Ganador: Grellz 32% · empate 20% · believer 48%",
-    "Total: más de 5.5 goles 50% · menos 50%",
-    "Hándicap believer: −1.5 32% · −2.5 18%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Grellz ✅✅✅✅➖ | believer ✅✅✅➖❌",
-    "• Partidos: Grellz 1179 | believer 1144",
-    "• Liga: World Cup A",
-    "• Unibet: 1 2.10 · X 4.70 · 2 2.18 (sin margen 41%/19%/40%) · ventaja +6%. Sin stake hasta demostrar ROI con estas cuotas.",
-    "• En España: LeoVegas España 2.18 (+6%) · Paf España 2.18 (+6%)"
-   ],
    "context": "EA FC Esoccer Battle Grellz vs believer (World Cup A): goles esperados 2.62-3.03, 1X2 32%/20%/48%. Sin cuotas de casa.",
    "captured": "2026-11-14T21:47",
    "version": "8f321f6",
    "bajas": "",
    "considered": true,
    "placed": false,
-   "anunciada": true
+   "anunciada": true,
+   "score": "2-3",
+   "result": true,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "A",
@@ -22090,27 +22040,17 @@
    "start": "2026-11-14T22:34:00+00:00",
    "league": "🎮⚽ FC 27 · Portugal Primera",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 68.281 partidos)",
-    "Goles esperados: hrk 3.21 · curuza 3.00",
-    "Ganador: hrk 45% · empate 19% · curuza 36%",
-    "Total: más de 6.5 goles 43% · menos 57%",
-    "Hándicap hrk: −1.5 30% · −2.5 17%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: hrk ✅✅✅❌❌ | curuza ➖✅✅➖❌",
-    "• Partidos: hrk 861 | curuza 861",
-    "• Liga: Portugal Primera",
-    "• Unibet: 1 1.77 · X 3.80 · 2 3.15 (sin margen 49%/23%/28%) · ventaja +13%. Sin stake hasta demostrar ROI con estas cuotas.",
-    "• En España: LeoVegas España 3.15 (+13%) · Paf España 3.15 (+13%)"
-   ],
    "context": "EA FC Esoccer Battle hrk vs curuza (Portugal Primera): goles esperados 3.21-3.00, 1X2 45%/19%/36%. Sin cuotas de casa.",
    "captured": "2026-11-14T22:16",
    "version": "3e3a07d",
    "bajas": "",
    "considered": true,
    "placed": false,
-   "anunciada": true
+   "anunciada": true,
+   "score": "5-2",
+   "result": false,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "D",
@@ -22126,27 +22066,87 @@
    "start": "2026-11-14T22:31:00+00:00",
    "league": "🎮⚽ FC 27 · World Cup A",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 68.281 partidos)",
-    "Goles esperados: ssstasonn 2.10 · Simaponika 3.54",
-    "Ganador: ssstasonn 17% · empate 16% · Simaponika 67%",
-    "Total: más de 5.5 goles 49% · menos 51%",
-    "Hándicap Simaponika: −1.5 48% · −2.5 32%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: ssstasonn ❌❌❌❌❌ | Simaponika ❌➖❌✅❌",
-    "• Partidos: ssstasonn 1068 | Simaponika 1213",
-    "• Liga: World Cup A",
-    "• Unibet: 1 4.30 · X 6.50 · 2 1.30 (sin margen 20%/13%/67%) · ventaja +5%. Sin stake hasta demostrar ROI con estas cuotas.",
-    "• En España: LeoVegas España 6.50 (+5%) · Paf España 6.50 (+5%)"
-   ],
    "context": "EA FC Esoccer Battle ssstasonn vs Simaponika (World Cup A): goles esperados 2.10-3.54, 1X2 17%/16%/67%. Sin cuotas de casa.",
    "captured": "2026-11-14T22:16",
    "version": "3e3a07d",
    "bajas": "",
    "considered": true,
    "placed": false,
-   "anunciada": true
+   "anunciada": true,
+   "score": "2-6",
+   "result": false,
+   "close_p": null,
+   "logged": true
+  },
+  {
+   "market": "H",
+   "pick": "nicky",
+   "odds": 2.45,
+   "book": "Unibet",
+   "implied": 0.36,
+   "edge": 0.087,
+   "sin_stake": true,
+   "p": 0.444,
+   "key": "fc|2380102",
+   "match": "nicky vs rostyk",
+   "start": "2026-11-14T22:54:00+00:00",
+   "league": "🎮⚽ FC 27 · Argentina Super League 2x6",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 68.305 partidos)",
+    "Goles esperados: nicky 4.94 · rostyk 4.74",
+    "Ganador: nicky 44% · empate 15% · rostyk 41%",
+    "Total: más de 9.5 goles 50% · menos 50%",
+    "Hándicap nicky: −1.5 34% · −2.5 23%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: nicky ✅❌✅❌✅ | rostyk ✅✅➖❌❌",
+    "• Partidos: nicky 375 | rostyk 362",
+    "• Liga: Argentina Super League 2x6",
+    "• Unibet: 1 2.45 · X 6.40 · 2 1.76 (sin margen 36%/14%/50%) · ventaja +9%. Sin stake hasta demostrar ROI con estas cuotas.",
+    "• En España: LeoVegas España 2.45 (+9%) · Paf España 2.45 (+9%)"
+   ],
+   "context": "EA FC Esoccer Battle nicky vs rostyk (Argentina Super League 2x6): goles esperados 4.94-4.74, 1X2 44%/15%/41%. Sin cuotas de casa.",
+   "captured": "2026-11-14T22:46",
+   "version": "e8572c7",
+   "bajas": "",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "H",
+   "pick": "Skif",
+   "odds": 3.45,
+   "book": "Unibet",
+   "implied": 0.256,
+   "edge": 0.081,
+   "sin_stake": true,
+   "p": 0.313,
+   "key": "fc|2379180",
+   "match": "Skif vs curuza",
+   "start": "2026-11-14T22:58:00+00:00",
+   "league": "🎮⚽ FC 27 · Portugal Primera",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 68.305 partidos)",
+    "Goles esperados: Skif 3.07 · curuza 3.53",
+    "Ganador: Skif 31% · empate 18% · curuza 51%",
+    "Total: más de 6.5 goles 49% · menos 51%",
+    "Hándicap curuza: −1.5 34% · −2.5 21%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Skif ❌✅❌➖✅ | curuza ✅➖❌✅❌",
+    "• Partidos: Skif 682 | curuza 863",
+    "• Liga: Portugal Primera",
+    "• Unibet: 1 3.45 · X 5.40 · 2 1.52 (sin margen 26%/16%/58%) · ventaja +8%. Sin stake hasta demostrar ROI con estas cuotas.",
+    "• En España: LeoVegas España 3.45 (+8%) · Paf España 3.45 (+8%)"
+   ],
+   "context": "EA FC Esoccer Battle Skif vs curuza (Portugal Primera): goles esperados 3.07-3.53, 1X2 31%/18%/51%. Sin cuotas de casa.",
+   "captured": "2026-11-14T22:46",
+   "version": "e8572c7",
+   "bajas": "",
+   "considered": true,
+   "placed": false
   }
  ],
  "bank": {
