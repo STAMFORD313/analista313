@@ -1308,9 +1308,6 @@
   "cfb|2026-11-15|Oklahoma Sooners|Ole Miss Rebels",
   "cbb|2026-11-15|North Dakota Fighting Hawks|Montana Grizzlies",
   "cbb|2026-11-15|Pacific Tigers|Air Force Falcons",
-  "cs2|133913",
-  "cs2|133912",
-  "cs2|133914",
   "cs2|133918",
   "cs2|133924",
   "cs2|133926",
@@ -2310,7 +2307,10 @@
   "fc|2380250",
   "fc|2379751",
   "fc|2379754",
-  "fc|2379517"
+  "fc|2379517",
+  "fc|2379694",
+  "fc|2380256",
+  "fc|2379693"
  ],
  "signals": [
   {
@@ -4016,84 +4016,6 @@
    "logged": true
   },
   {
-   "market": "H",
-   "pick": "Duka",
-   "odds": 2.75,
-   "book": "Unibet",
-   "implied": 0.315,
-   "edge": 0.092,
-   "sin_stake": true,
-   "p": 0.397,
-   "key": "fc|2374968",
-   "match": "Duka vs Rodja",
-   "start": "2026-11-11T20:16:00+00:00",
-   "league": "🎮⚽ FC 27 · Europa League",
-   "sport": "🎮⚽",
-   "context": "EA FC Esoccer Battle Duka vs Rodja (Europa League): goles esperados 2.35-2.25, 1X2 40%/23%/37%. Sin cuotas de casa.",
-   "captured": "2026-11-11T19:59",
-   "version": "5e7bded",
-   "bajas": "",
-   "considered": true,
-   "placed": false,
-   "anunciada": true,
-   "score": "1-2",
-   "result": false,
-   "close_p": null,
-   "logged": true
-  },
-  {
-   "market": "A",
-   "pick": "Glumac",
-   "odds": 2.48,
-   "book": "Unibet",
-   "implied": 0.349,
-   "edge": 0.075,
-   "sin_stake": true,
-   "p": 0.433,
-   "key": "fc|2374823",
-   "match": "chevare vs Glumac",
-   "start": "2026-11-11T20:10:00+00:00",
-   "league": "🎮⚽ FC 27 · Premier League",
-   "sport": "🎮⚽",
-   "context": "EA FC Esoccer Battle chevare vs Glumac (Premier League): goles esperados 3.52-3.80, 1X2 39%/17%/43%. Sin cuotas de casa.",
-   "captured": "2026-11-11T19:59",
-   "version": "5e7bded",
-   "bajas": "",
-   "considered": true,
-   "placed": false,
-   "anunciada": true,
-   "score": "4-3",
-   "result": false,
-   "close_p": null,
-   "logged": true
-  },
-  {
-   "market": "A",
-   "pick": "Linox",
-   "odds": 2.2,
-   "book": "Unibet",
-   "implied": 0.393,
-   "edge": 0.053,
-   "sin_stake": true,
-   "p": 0.479,
-   "key": "fc|2374586",
-   "match": "pikalicaaa vs Linox",
-   "start": "2026-11-11T20:19:00+00:00",
-   "league": "🎮⚽ FC 27 · Serie A",
-   "sport": "🎮⚽",
-   "context": "EA FC Esoccer Battle pikalicaaa vs Linox (Serie A): goles esperados 1.94-2.34, 1X2 29%/23%/48%. Sin cuotas de casa.",
-   "captured": "2026-11-11T19:59",
-   "version": "5e7bded",
-   "bajas": "",
-   "considered": true,
-   "placed": false,
-   "anunciada": true,
-   "score": "4-2",
-   "result": false,
-   "close_p": null,
-   "logged": true
-  },
-  {
    "market": "t1",
    "team_id": 19715,
    "pick": "G2 Esports",
@@ -4353,7 +4275,11 @@
    "version": "38e7d57",
    "bajas": "SMU Mustangs: sin bajas; Wake Forest Demon Deacons: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "7-49",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "sph",
@@ -4374,7 +4300,11 @@
    "version": "38e7d57",
    "bajas": "SMU Mustangs: sin bajas; Wake Forest Demon Deacons: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "7-49",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "home",
@@ -4394,7 +4324,11 @@
    "version": "38e7d57",
    "bajas": "SMU Mustangs: sin bajas; Wake Forest Demon Deacons: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "7-49",
+   "close_p": 0.542,
+   "logged": true
   },
   {
    "market": "over",
@@ -4416,7 +4350,11 @@
    "version": "38e7d57",
    "bajas": "Ohio State Buckeyes: sin bajas; Northwestern Wildcats: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "28-19",
+   "close_p": 0.4933,
+   "logged": true
   },
   {
    "market": "sph",
@@ -4437,7 +4375,11 @@
    "version": "38e7d57",
    "bajas": "Ohio State Buckeyes: sin bajas; Northwestern Wildcats: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "28-19",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "home",
@@ -4457,7 +4399,11 @@
    "version": "38e7d57",
    "bajas": "Ohio State Buckeyes: sin bajas; Northwestern Wildcats: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "28-19",
+   "close_p": 0.827,
+   "logged": true
   },
   {
    "market": "over",
@@ -4479,7 +4425,11 @@
    "version": "38e7d57",
    "bajas": "Iowa State Cyclones: sin bajas; Cincinnati Bearcats: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "41-13",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "sph",
@@ -4500,7 +4450,11 @@
    "version": "38e7d57",
    "bajas": "Iowa State Cyclones: sin bajas; Cincinnati Bearcats: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "41-13",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "home",
@@ -4520,7 +4474,11 @@
    "version": "38e7d57",
    "bajas": "Iowa State Cyclones: sin bajas; Cincinnati Bearcats: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "41-13",
+   "close_p": 0.544,
+   "logged": true
   },
   {
    "market": "over",
@@ -4605,7 +4563,11 @@
    "version": "38e7d57",
    "bajas": "NC State Wolfpack: sin bajas; Syracuse Orange: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "31-34",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "sph",
@@ -4626,7 +4588,9 @@
    "version": "38e7d57",
    "bajas": "NC State Wolfpack: sin bajas; Syracuse Orange: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": "nula",
+   "score": "31-34"
   },
   {
    "market": "home",
@@ -4646,7 +4610,11 @@
    "version": "38e7d57",
    "bajas": "NC State Wolfpack: sin bajas; Syracuse Orange: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "31-34",
+   "close_p": 0.4472,
+   "logged": true
   },
   {
    "market": "sph",
@@ -4667,7 +4635,11 @@
    "version": "38e7d57",
    "bajas": "Maryland Terrapins: sin bajas; Wisconsin Badgers: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "24-21",
+   "close_p": 0.5092,
+   "logged": true
   },
   {
    "market": "home",
@@ -4687,7 +4659,11 @@
    "version": "38e7d57",
    "bajas": "Maryland Terrapins: sin bajas; Wisconsin Badgers: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "24-21",
+   "close_p": 0.2654,
+   "logged": true
   },
   {
    "market": "over",
@@ -4709,7 +4685,11 @@
    "version": "38e7d57",
    "bajas": "UConn Huskies: sin bajas; James Madison Dukes: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "46-22",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "sph",
@@ -4730,7 +4710,11 @@
    "version": "38e7d57",
    "bajas": "UConn Huskies: sin bajas; James Madison Dukes: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "46-22",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "home",
@@ -4750,7 +4734,11 @@
    "version": "38e7d57",
    "bajas": "UConn Huskies: sin bajas; James Madison Dukes: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "46-22",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "over",
@@ -5523,15 +5511,6 @@
    "pick": "Más de 47.5 puntos",
    "league": "🏈 NCAA Football",
    "sport": "🏈",
-   "info": [
-    "📊 <b>Escenarios</b>: total esperado <b>48.9</b> puntos · línea 47.5",
-    "Más 50% · Menos 50%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Georgia Bulldogs ✅✅❌✅✅ | Missouri Tigers ✅✅❌✅❌",
-    "• H2H: 8 desde 2017: 7-0",
-    "• Bajas: Georgia Bulldogs: sin bajas; Missouri Tigers: sin bajas"
-   ],
    "context": "Georgia Bulldogs vs Missouri Tigers (🏈 NCAA Football). Modelo de puntos (ataque/defensa con 10 años, decaimiento 1 año): total esperado 48.9 frente a línea 47.5. Forma Georgia Bulldogs ✅✅❌✅✅, Missouri Tigers ✅✅❌✅❌. H2H 8 desde 2017: 7-0. Bajas: Georgia Bulldogs: sin bajas; Missouri Tigers: sin bajas.",
    "captured": "2026-11-12T00:13",
    "version": "38e7d57",
@@ -5553,14 +5532,6 @@
    "pick": "Georgia Bulldogs -15.5",
    "league": "🏈 NCAA Football",
    "sport": "🏈",
-   "info": [
-    "📊 <b>Escenarios</b>: Georgia Bulldogs cubre -15.5 con prob. 50% (casas 50%)",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Georgia Bulldogs ✅✅❌✅✅ | Missouri Tigers ✅✅❌✅❌",
-    "• H2H: 8 desde 2017: 7-0",
-    "• Bajas: Georgia Bulldogs: sin bajas; Missouri Tigers: sin bajas"
-   ],
    "context": "Georgia Bulldogs vs Missouri Tigers (🏈 NCAA Football). Hándicap Georgia Bulldogs -15.5: margen esperado desde el Elo (gana Georgia Bulldogs 91%). Forma Georgia Bulldogs ✅✅❌✅✅, Missouri Tigers ✅✅❌✅❌. H2H 8 desde 2017: 7-0. Bajas: Georgia Bulldogs: sin bajas; Missouri Tigers: sin bajas.",
    "captured": "2026-11-12T00:13",
    "version": "38e7d57",
@@ -5581,18 +5552,6 @@
    "start": "2026-11-14T20:30Z",
    "league": "🏈 NCAA Football",
    "sport": "🏈",
-   "info": [
-    "📊 <b>Escenarios</b> (Elo con 9.521 partidos y bajas)",
-    "Gana Georgia Bulldogs 91% · Gana Missouri Tigers 9%",
-    "Casas: Georgia Bulldogs 85% · Missouri Tigers 15%",
-    "Hándicap UGA -15.5 · Total puntos 47.5",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Georgia Bulldogs ✅✅❌✅✅ | Missouri Tigers ✅✅❌✅❌",
-    "• H2H: 8 desde 2017: 7-0",
-    "• Bajas: Georgia Bulldogs: sin bajas; Missouri Tigers: sin bajas",
-    "• Favorito de las casas: Georgia Bulldogs @ 1.13"
-   ],
    "context": "Georgia Bulldogs vs Missouri Tigers (🏈 NCAA Football, fútbol americano). Modelo Elo con 10 años de historial ajustado por bajas: Georgia Bulldogs 91%, Missouri Tigers 9%. Cuotas DraftKings 1.133/6.25, hándicap UGA -15.5, total 47.5. Forma Georgia Bulldogs ✅✅❌✅✅, Missouri Tigers ✅✅❌✅❌. H2H 8 desde 2017: 7-0. Bajas Georgia Bulldogs: ninguna. Bajas Missouri Tigers: ninguna.",
    "captured": "2026-11-12T00:13",
    "version": "38e7d57",
@@ -5615,15 +5574,6 @@
    "pick": "Más de 52.5 puntos",
    "league": "🏈 NCAA Football",
    "sport": "🏈",
-   "info": [
-    "📊 <b>Escenarios</b>: total esperado <b>54.5</b> puntos · línea 52.5",
-    "Más 50% · Menos 50%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Notre Dame Fighting Irish ✅✅❌✅✅ | Boston College Eagles ❌✅✅❌❌",
-    "• H2H: 5 desde 2017: 5-0",
-    "• Bajas: Notre Dame Fighting Irish: sin bajas; Boston College Eagles: sin bajas"
-   ],
    "context": "Notre Dame Fighting Irish vs Boston College Eagles (🏈 NCAA Football). Modelo de puntos (ataque/defensa con 10 años, decaimiento 1 año): total esperado 54.5 frente a línea 52.5. Forma Notre Dame Fighting Irish ✅✅❌✅✅, Boston College Eagles ❌✅✅❌❌. H2H 5 desde 2017: 5-0. Bajas: Notre Dame Fighting Irish: sin bajas; Boston College Eagles: sin bajas.",
    "captured": "2026-11-12T00:13",
    "version": "38e7d57",
@@ -5645,14 +5595,6 @@
    "pick": "Notre Dame Fighting Irish -29.5",
    "league": "🏈 NCAA Football",
    "sport": "🏈",
-   "info": [
-    "📊 <b>Escenarios</b>: Notre Dame Fighting Irish cubre -29.5 con prob. 50% (casas 50%)",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Notre Dame Fighting Irish ✅✅❌✅✅ | Boston College Eagles ❌✅✅❌❌",
-    "• H2H: 5 desde 2017: 5-0",
-    "• Bajas: Notre Dame Fighting Irish: sin bajas; Boston College Eagles: sin bajas"
-   ],
    "context": "Notre Dame Fighting Irish vs Boston College Eagles (🏈 NCAA Football). Hándicap Notre Dame Fighting Irish -29.5: margen esperado desde el Elo (gana Notre Dame Fighting Irish 98%). Forma Notre Dame Fighting Irish ✅✅❌✅✅, Boston College Eagles ❌✅✅❌❌. H2H 5 desde 2017: 5-0. Bajas: Notre Dame Fighting Irish: sin bajas; Boston College Eagles: sin bajas.",
    "captured": "2026-11-12T00:13",
    "version": "38e7d57",
@@ -5673,18 +5615,6 @@
    "start": "2026-11-14T20:30Z",
    "league": "🏈 NCAA Football",
    "sport": "🏈",
-   "info": [
-    "📊 <b>Escenarios</b> (Elo con 9.521 partidos y bajas)",
-    "Gana Notre Dame Fighting Irish 98% · Gana Boston College Eagles 2%",
-    "Casas: Notre Dame Fighting Irish 95% · Boston College Eagles 5%",
-    "Hándicap ND -29.5 · Total puntos 52.5",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Notre Dame Fighting Irish ✅✅❌✅✅ | Boston College Eagles ❌✅✅❌❌",
-    "• H2H: 5 desde 2017: 5-0",
-    "• Bajas: Notre Dame Fighting Irish: sin bajas; Boston College Eagles: sin bajas",
-    "• Favorito de las casas: Notre Dame Fighting Irish @ 1.02"
-   ],
    "context": "Notre Dame Fighting Irish vs Boston College Eagles (🏈 NCAA Football, fútbol americano). Modelo Elo con 10 años de historial ajustado por bajas: Notre Dame Fighting Irish 98%, Boston College Eagles 2%. Cuotas DraftKings 1.02/19.0, hándicap ND -29.5, total 52.5. Forma Notre Dame Fighting Irish ✅✅❌✅✅, Boston College Eagles ❌✅✅❌❌. H2H 5 desde 2017: 5-0. Bajas Notre Dame Fighting Irish: ninguna. Bajas Boston College Eagles: ninguna.",
    "captured": "2026-11-12T00:13",
    "version": "38e7d57",
@@ -5707,15 +5637,6 @@
    "pick": "Más de 50.5 puntos",
    "league": "🏈 NCAA Football",
    "sport": "🏈",
-   "info": [
-    "📊 <b>Escenarios</b>: total esperado <b>52.6</b> puntos · línea 50.5",
-    "Más 50% · Menos 50%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Indiana Hoosiers ✅✅❌✅✅ | USC Trojans ❌✅✅❌✅",
-    "• H2H: sin precedentes",
-    "• Bajas: Indiana Hoosiers: sin bajas; USC Trojans: sin bajas"
-   ],
    "context": "Indiana Hoosiers vs USC Trojans (🏈 NCAA Football). Modelo de puntos (ataque/defensa con 10 años, decaimiento 1 año): total esperado 52.6 frente a línea 50.5. Forma Indiana Hoosiers ✅✅❌✅✅, USC Trojans ❌✅✅❌✅. H2H sin precedentes. Bajas: Indiana Hoosiers: sin bajas; USC Trojans: sin bajas.",
    "captured": "2026-11-12T00:13",
    "version": "38e7d57",
@@ -5737,14 +5658,6 @@
    "pick": "Indiana Hoosiers -10",
    "league": "🏈 NCAA Football",
    "sport": "🏈",
-   "info": [
-    "📊 <b>Escenarios</b>: Indiana Hoosiers cubre -10 con prob. 50% (casas 50%)",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Indiana Hoosiers ✅✅❌✅✅ | USC Trojans ❌✅✅❌✅",
-    "• H2H: sin precedentes",
-    "• Bajas: Indiana Hoosiers: sin bajas; USC Trojans: sin bajas"
-   ],
    "context": "Indiana Hoosiers vs USC Trojans (🏈 NCAA Football). Hándicap Indiana Hoosiers -10: margen esperado desde el Elo (gana Indiana Hoosiers 86%). Forma Indiana Hoosiers ✅✅❌✅✅, USC Trojans ❌✅✅❌✅. H2H sin precedentes. Bajas: Indiana Hoosiers: sin bajas; USC Trojans: sin bajas.",
    "captured": "2026-11-12T00:13",
    "version": "38e7d57",
@@ -5765,18 +5678,6 @@
    "start": "2026-11-14T20:30Z",
    "league": "🏈 NCAA Football",
    "sport": "🏈",
-   "info": [
-    "📊 <b>Escenarios</b> (Elo con 9.521 partidos y bajas)",
-    "Gana Indiana Hoosiers 86% · Gana USC Trojans 14%",
-    "Casas: Indiana Hoosiers 76% · USC Trojans 24%",
-    "Hándicap IU -10 · Total puntos 50.5",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Indiana Hoosiers ✅✅❌✅✅ | USC Trojans ❌✅✅❌✅",
-    "• H2H: sin precedentes",
-    "• Bajas: Indiana Hoosiers: sin bajas; USC Trojans: sin bajas",
-    "• Favorito de las casas: Indiana Hoosiers @ 1.26"
-   ],
    "context": "Indiana Hoosiers vs USC Trojans (🏈 NCAA Football, fútbol americano). Modelo Elo con 10 años de historial ajustado por bajas: Indiana Hoosiers 86%, USC Trojans 14%. Cuotas DraftKings 1.263/4.0, hándicap IU -10, total 50.5. Forma Indiana Hoosiers ✅✅❌✅✅, USC Trojans ❌✅✅❌✅. H2H sin precedentes. Bajas Indiana Hoosiers: ninguna. Bajas USC Trojans: ninguna.",
    "captured": "2026-11-12T00:13",
    "version": "38e7d57",
@@ -5799,15 +5700,6 @@
    "pick": "Más de 48.5 puntos",
    "league": "🏈 NCAA Football",
    "sport": "🏈",
-   "info": [
-    "📊 <b>Escenarios</b>: total esperado <b>55.5</b> puntos · línea 48.5",
-    "Más 51% · Menos 49%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: BYU Cougars ✅✅❌✅❌ | Baylor Bears ✅❌❌✅✅",
-    "• H2H: 3 desde 2021: 2-1",
-    "• Bajas: BYU Cougars: sin bajas; Baylor Bears: sin bajas"
-   ],
    "context": "BYU Cougars vs Baylor Bears (🏈 NCAA Football). Modelo de puntos (ataque/defensa con 10 años, decaimiento 1 año): total esperado 55.5 frente a línea 48.5. Forma BYU Cougars ✅✅❌✅❌, Baylor Bears ✅❌❌✅✅. H2H 3 desde 2021: 2-1. Bajas: BYU Cougars: sin bajas; Baylor Bears: sin bajas.",
    "captured": "2026-11-12T00:13",
    "version": "38e7d57",
@@ -5829,14 +5721,6 @@
    "pick": "BYU Cougars -7.5",
    "league": "🏈 NCAA Football",
    "sport": "🏈",
-   "info": [
-    "📊 <b>Escenarios</b>: BYU Cougars cubre -7.5 con prob. 48% (casas 48%)",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: BYU Cougars ✅✅❌✅❌ | Baylor Bears ✅❌❌✅✅",
-    "• H2H: 3 desde 2021: 2-1",
-    "• Bajas: BYU Cougars: sin bajas; Baylor Bears: sin bajas"
-   ],
    "context": "BYU Cougars vs Baylor Bears (🏈 NCAA Football). Hándicap BYU Cougars -7.5: margen esperado desde el Elo (gana BYU Cougars 76%). Forma BYU Cougars ✅✅❌✅❌, Baylor Bears ✅❌❌✅✅. H2H 3 desde 2021: 2-1. Bajas: BYU Cougars: sin bajas; Baylor Bears: sin bajas.",
    "captured": "2026-11-12T00:13",
    "version": "38e7d57",
@@ -5857,18 +5741,6 @@
    "start": "2026-11-14T20:30Z",
    "league": "🏈 NCAA Football",
    "sport": "🏈",
-   "info": [
-    "📊 <b>Escenarios</b> (Elo con 9.521 partidos y bajas)",
-    "Gana BYU Cougars 76% · Gana Baylor Bears 24%",
-    "Casas: BYU Cougars 72% · Baylor Bears 28%",
-    "Hándicap BYU -7.5 · Total puntos 48.5",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: BYU Cougars ✅✅❌✅❌ | Baylor Bears ✅❌❌✅✅",
-    "• H2H: 3 desde 2021: 2-1",
-    "• Bajas: BYU Cougars: sin bajas; Baylor Bears: sin bajas",
-    "• Favorito de las casas: BYU Cougars @ 1.34"
-   ],
    "context": "BYU Cougars vs Baylor Bears (🏈 NCAA Football, fútbol americano). Modelo Elo con 10 años de historial ajustado por bajas: BYU Cougars 76%, Baylor Bears 24%. Cuotas DraftKings 1.336/3.4, hándicap BYU -7.5, total 48.5. Forma BYU Cougars ✅✅❌✅❌, Baylor Bears ✅❌❌✅✅. H2H 3 desde 2021: 2-1. Bajas BYU Cougars: ninguna. Bajas Baylor Bears: ninguna.",
    "captured": "2026-11-12T00:13",
    "version": "38e7d57",
@@ -5891,15 +5763,6 @@
    "pick": "Más de 38.5 puntos",
    "league": "🏈 NCAA Football",
    "sport": "🏈",
-   "info": [
-    "📊 <b>Escenarios</b>: total esperado <b>51.4</b> puntos · línea 38.5",
-    "Más 49% · Menos 51%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Oregon Ducks ❌✅❌✅✅ | Michigan Wolverines ❌✅❌✅❌",
-    "• H2H: 1 desde 2024: 1-0",
-    "• Bajas: Oregon Ducks: sin bajas; Michigan Wolverines: sin bajas"
-   ],
    "context": "Oregon Ducks vs Michigan Wolverines (🏈 NCAA Football). Modelo de puntos (ataque/defensa con 10 años, decaimiento 1 año): total esperado 51.4 frente a línea 38.5. Forma Oregon Ducks ❌✅❌✅✅, Michigan Wolverines ❌✅❌✅❌. H2H 1 desde 2024: 1-0. Bajas: Oregon Ducks: sin bajas; Michigan Wolverines: sin bajas.",
    "captured": "2026-11-12T00:13",
    "version": "38e7d57",
@@ -5921,14 +5784,6 @@
    "pick": "Oregon Ducks -10.5",
    "league": "🏈 NCAA Football",
    "sport": "🏈",
-   "info": [
-    "📊 <b>Escenarios</b>: Oregon Ducks cubre -10.5 con prob. 51% (casas 51%)",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Oregon Ducks ❌✅❌✅✅ | Michigan Wolverines ❌✅❌✅❌",
-    "• H2H: 1 desde 2024: 1-0",
-    "• Bajas: Oregon Ducks: sin bajas; Michigan Wolverines: sin bajas"
-   ],
    "context": "Oregon Ducks vs Michigan Wolverines (🏈 NCAA Football). Hándicap Oregon Ducks -10.5: margen esperado desde el Elo (gana Oregon Ducks 83%). Forma Oregon Ducks ❌✅❌✅✅, Michigan Wolverines ❌✅❌✅❌. H2H 1 desde 2024: 1-0. Bajas: Oregon Ducks: sin bajas; Michigan Wolverines: sin bajas.",
    "captured": "2026-11-12T00:13",
    "version": "38e7d57",
@@ -5949,18 +5804,6 @@
    "start": "2026-11-14T20:30Z",
    "league": "🏈 NCAA Football",
    "sport": "🏈",
-   "info": [
-    "📊 <b>Escenarios</b> (Elo con 9.521 partidos y bajas)",
-    "Gana Oregon Ducks 83% · Gana Michigan Wolverines 17%",
-    "Casas: Oregon Ducks 78% · Michigan Wolverines 22%",
-    "Hándicap ORE -10.5 · Total puntos 38.5",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Oregon Ducks ❌✅❌✅✅ | Michigan Wolverines ❌✅❌✅❌",
-    "• H2H: 1 desde 2024: 1-0",
-    "• Bajas: Oregon Ducks: sin bajas; Michigan Wolverines: sin bajas",
-    "• Favorito de las casas: Oregon Ducks @ 1.23"
-   ],
    "context": "Oregon Ducks vs Michigan Wolverines (🏈 NCAA Football, fútbol americano). Modelo Elo con 10 años de historial ajustado por bajas: Oregon Ducks 83%, Michigan Wolverines 17%. Cuotas DraftKings 1.227/4.4, hándicap ORE -10.5, total 38.5. Forma Oregon Ducks ❌✅❌✅✅, Michigan Wolverines ❌✅❌✅❌. H2H 1 desde 2024: 1-0. Bajas Oregon Ducks: ninguna. Bajas Michigan Wolverines: ninguna.",
    "captured": "2026-11-12T00:13",
    "version": "38e7d57",
@@ -5983,15 +5826,6 @@
    "pick": "Más de 49.5 puntos",
    "league": "🏈 NCAA Football",
    "sport": "🏈",
-   "info": [
-    "📊 <b>Escenarios</b>: total esperado <b>55.9</b> puntos · línea 49.5",
-    "Más 49% · Menos 51%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: UCF Knights ❌❌✅❌✅ | Arizona State Sun Devils ✅❌✅❌✅",
-    "• H2H: 1 desde 2024: 0-1",
-    "• Bajas: UCF Knights: sin bajas; Arizona State Sun Devils: sin bajas"
-   ],
    "context": "UCF Knights vs Arizona State Sun Devils (🏈 NCAA Football). Modelo de puntos (ataque/defensa con 10 años, decaimiento 1 año): total esperado 55.9 frente a línea 49.5. Forma UCF Knights ❌❌✅❌✅, Arizona State Sun Devils ✅❌✅❌✅. H2H 1 desde 2024: 0-1. Bajas: UCF Knights: sin bajas; Arizona State Sun Devils: sin bajas.",
    "captured": "2026-11-12T00:13",
    "version": "38e7d57",
@@ -6013,14 +5847,6 @@
    "pick": "UCF Knights -3.5",
    "league": "🏈 NCAA Football",
    "sport": "🏈",
-   "info": [
-    "📊 <b>Escenarios</b>: UCF Knights cubre -3.5 con prob. 48% (casas 48%)",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: UCF Knights ❌❌✅❌✅ | Arizona State Sun Devils ✅❌✅❌✅",
-    "• H2H: 1 desde 2024: 0-1",
-    "• Bajas: UCF Knights: sin bajas; Arizona State Sun Devils: sin bajas"
-   ],
    "context": "UCF Knights vs Arizona State Sun Devils (🏈 NCAA Football). Hándicap UCF Knights -3.5: margen esperado desde el Elo (gana UCF Knights 39%). Forma UCF Knights ❌❌✅❌✅, Arizona State Sun Devils ✅❌✅❌✅. H2H 1 desde 2024: 0-1. Bajas: UCF Knights: sin bajas; Arizona State Sun Devils: sin bajas.",
    "captured": "2026-11-12T00:13",
    "version": "38e7d57",
@@ -6041,18 +5867,6 @@
    "start": "2026-11-14T20:30Z",
    "league": "🏈 NCAA Football",
    "sport": "🏈",
-   "info": [
-    "📊 <b>Escenarios</b> (Elo con 9.521 partidos y bajas)",
-    "Gana UCF Knights 39% · Gana Arizona State Sun Devils 61%",
-    "Casas: UCF Knights 59% · Arizona State Sun Devils 41%",
-    "Hándicap UCF -3.5 · Total puntos 49.5",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: UCF Knights ❌❌✅❌✅ | Arizona State Sun Devils ✅❌✅❌✅",
-    "• H2H: 1 desde 2024: 0-1",
-    "• Bajas: UCF Knights: sin bajas; Arizona State Sun Devils: sin bajas",
-    "• Favorito de las casas: UCF Knights @ 1.62"
-   ],
    "context": "UCF Knights vs Arizona State Sun Devils (🏈 NCAA Football, fútbol americano). Modelo Elo con 10 años de historial ajustado por bajas: UCF Knights 39%, Arizona State Sun Devils 61%. Cuotas DraftKings 1.617/2.36, hándicap UCF -3.5, total 49.5. Forma UCF Knights ❌❌✅❌✅, Arizona State Sun Devils ✅❌✅❌✅. H2H 1 desde 2024: 0-1. Bajas UCF Knights: ninguna. Bajas Arizona State Sun Devils: ninguna.",
    "captured": "2026-11-12T00:13",
    "version": "38e7d57",
@@ -6075,15 +5889,6 @@
    "pick": "Más de 47.5 puntos",
    "league": "🏈 NCAA Football",
    "sport": "🏈",
-   "info": [
-    "📊 <b>Escenarios</b>: total esperado <b>51.6</b> puntos · línea 47.5",
-    "Más 48% · Menos 52%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Virginia Cavaliers ❌✅❌❌❌ | California Golden Bears ❌✅❌❌❌",
-    "• H2H: 1 desde 2025: 1-0",
-    "• Bajas: Virginia Cavaliers: 0 fuera, 1 duda; California Golden Bears: sin bajas"
-   ],
    "context": "Virginia Cavaliers vs California Golden Bears (🏈 NCAA Football). Modelo de puntos (ataque/defensa con 10 años, decaimiento 1 año): total esperado 51.6 frente a línea 47.5. Forma Virginia Cavaliers ❌✅❌❌❌, California Golden Bears ❌✅❌❌❌. H2H 1 desde 2025: 1-0. Bajas: Virginia Cavaliers: 0 fuera, 1 duda; California Golden Bears: sin bajas.",
    "captured": "2026-11-12T00:13",
    "version": "38e7d57",
@@ -6105,14 +5910,6 @@
    "pick": "Virginia Cavaliers -10",
    "league": "🏈 NCAA Football",
    "sport": "🏈",
-   "info": [
-    "📊 <b>Escenarios</b>: Virginia Cavaliers cubre -10 con prob. 50% (casas 50%)",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Virginia Cavaliers ❌✅❌❌❌ | California Golden Bears ❌✅❌❌❌",
-    "• H2H: 1 desde 2025: 1-0",
-    "• Bajas: Virginia Cavaliers: 0 fuera, 1 duda; California Golden Bears: sin bajas"
-   ],
    "context": "Virginia Cavaliers vs California Golden Bears (🏈 NCAA Football). Hándicap Virginia Cavaliers -10: margen esperado desde el Elo (gana Virginia Cavaliers 75%). Forma Virginia Cavaliers ❌✅❌❌❌, California Golden Bears ❌✅❌❌❌. H2H 1 desde 2025: 1-0. Bajas: Virginia Cavaliers: 0 fuera, 1 duda; California Golden Bears: sin bajas.",
    "captured": "2026-11-12T00:13",
    "version": "38e7d57",
@@ -6133,18 +5930,6 @@
    "start": "2026-11-14T20:30Z",
    "league": "🏈 NCAA Football",
    "sport": "🏈",
-   "info": [
-    "📊 <b>Escenarios</b> (Elo con 9.521 partidos y bajas)",
-    "Gana Virginia Cavaliers 75% · Gana California Golden Bears 25%",
-    "Casas: Virginia Cavaliers 77% · California Golden Bears 23%",
-    "Hándicap UVA -10 · Total puntos 47.5",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Virginia Cavaliers ❌✅❌❌❌ | California Golden Bears ❌✅❌❌❌",
-    "• H2H: 1 desde 2025: 1-0",
-    "• Bajas: Virginia Cavaliers: 0 fuera, 1 duda; California Golden Bears: sin bajas",
-    "• Favorito de las casas: Virginia Cavaliers @ 1.24"
-   ],
    "context": "Virginia Cavaliers vs California Golden Bears (🏈 NCAA Football, fútbol americano). Modelo Elo con 10 años de historial ajustado por bajas: Virginia Cavaliers 75%, California Golden Bears 25%. Cuotas DraftKings 1.244/4.2, hándicap UVA -10, total 47.5. Forma Virginia Cavaliers ❌✅❌❌❌, California Golden Bears ❌✅❌❌❌. H2H 1 desde 2025: 1-0. Bajas Virginia Cavaliers: Will Bettridge duda. Bajas California Golden Bears: ninguna.",
    "captured": "2026-11-12T00:13",
    "version": "38e7d57",
@@ -6167,15 +5952,6 @@
    "pick": "Más de 74.5 puntos",
    "league": "🏈 NCAA Football",
    "sport": "🏈",
-   "info": [
-    "📊 <b>Escenarios</b>: total esperado <b>67.3</b> puntos · línea 74.5",
-    "Más 50% · Menos 50%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Tulsa Golden Hurricane ❌❌✅❌✅ | Florida Atlantic Owls ✅❌✅❌✅",
-    "• H2H: 3 desde 2023: 0-3",
-    "• Bajas: Tulsa Golden Hurricane: sin bajas; Florida Atlantic Owls: sin bajas"
-   ],
    "context": "Tulsa Golden Hurricane vs Florida Atlantic Owls (🏈 NCAA Football). Modelo de puntos (ataque/defensa con 10 años, decaimiento 1 año): total esperado 67.3 frente a línea 74.5. Forma Tulsa Golden Hurricane ❌❌✅❌✅, Florida Atlantic Owls ✅❌✅❌✅. H2H 3 desde 2023: 0-3. Bajas: Tulsa Golden Hurricane: sin bajas; Florida Atlantic Owls: sin bajas.",
    "captured": "2026-11-12T00:13",
    "version": "38e7d57",
@@ -6197,14 +5973,6 @@
    "pick": "Tulsa Golden Hurricane -5.5",
    "league": "🏈 NCAA Football",
    "sport": "🏈",
-   "info": [
-    "📊 <b>Escenarios</b>: Tulsa Golden Hurricane cubre -5.5 con prob. 50% (casas 50%)",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Tulsa Golden Hurricane ❌❌✅❌✅ | Florida Atlantic Owls ✅❌✅❌✅",
-    "• H2H: 3 desde 2023: 0-3",
-    "• Bajas: Tulsa Golden Hurricane: sin bajas; Florida Atlantic Owls: sin bajas"
-   ],
    "context": "Tulsa Golden Hurricane vs Florida Atlantic Owls (🏈 NCAA Football). Hándicap Tulsa Golden Hurricane -5.5: margen esperado desde el Elo (gana Tulsa Golden Hurricane 52%). Forma Tulsa Golden Hurricane ❌❌✅❌✅, Florida Atlantic Owls ✅❌✅❌✅. H2H 3 desde 2023: 0-3. Bajas: Tulsa Golden Hurricane: sin bajas; Florida Atlantic Owls: sin bajas.",
    "captured": "2026-11-12T00:13",
    "version": "38e7d57",
@@ -6225,18 +5993,6 @@
    "start": "2026-11-14T20:30Z",
    "league": "🏈 NCAA Football",
    "sport": "🏈",
-   "info": [
-    "📊 <b>Escenarios</b> (Elo con 9.521 partidos y bajas)",
-    "Gana Tulsa Golden Hurricane 52% · Gana Florida Atlantic Owls 48%",
-    "Casas: Tulsa Golden Hurricane 66% · Florida Atlantic Owls 34%",
-    "Hándicap TLSA -5.5 · Total puntos 74.5",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Tulsa Golden Hurricane ❌❌✅❌✅ | Florida Atlantic Owls ✅❌✅❌✅",
-    "• H2H: 3 desde 2023: 0-3",
-    "• Bajas: Tulsa Golden Hurricane: sin bajas; Florida Atlantic Owls: sin bajas",
-    "• Favorito de las casas: Tulsa Golden Hurricane @ 1.46"
-   ],
    "context": "Tulsa Golden Hurricane vs Florida Atlantic Owls (🏈 NCAA Football, fútbol americano). Modelo Elo con 10 años de historial ajustado por bajas: Tulsa Golden Hurricane 52%, Florida Atlantic Owls 48%. Cuotas DraftKings 1.459/2.8, hándicap TLSA -5.5, total 74.5. Forma Tulsa Golden Hurricane ❌❌✅❌✅, Florida Atlantic Owls ✅❌✅❌✅. H2H 3 desde 2023: 0-3. Bajas Tulsa Golden Hurricane: ninguna. Bajas Florida Atlantic Owls: ninguna.",
    "captured": "2026-11-12T00:13",
    "version": "38e7d57",
@@ -6259,15 +6015,6 @@
    "pick": "Más de 47.5 puntos",
    "league": "🏈 NCAA Football",
    "sport": "🏈",
-   "info": [
-    "📊 <b>Escenarios</b>: total esperado <b>43.4</b> puntos · línea 47.5",
-    "Más 50% · Menos 50%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Northern Illinois Huskies ❌❌❌❌❌ | Nevada Wolf Pack ✅❌✅❌❌",
-    "• H2H: sin precedentes",
-    "• Bajas: Northern Illinois Huskies: sin bajas; Nevada Wolf Pack: sin bajas"
-   ],
    "context": "Northern Illinois Huskies vs Nevada Wolf Pack (🏈 NCAA Football). Modelo de puntos (ataque/defensa con 10 años, decaimiento 1 año): total esperado 43.4 frente a línea 47.5. Forma Northern Illinois Huskies ❌❌❌❌❌, Nevada Wolf Pack ✅❌✅❌❌. H2H sin precedentes. Bajas: Northern Illinois Huskies: sin bajas; Nevada Wolf Pack: sin bajas.",
    "captured": "2026-11-12T00:13",
    "version": "38e7d57",
@@ -6289,14 +6036,6 @@
    "pick": "Northern Illinois Huskies +7",
    "league": "🏈 NCAA Football",
    "sport": "🏈",
-   "info": [
-    "📊 <b>Escenarios</b>: Northern Illinois Huskies cubre +7 con prob. 50% (casas 50%)",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Northern Illinois Huskies ❌❌❌❌❌ | Nevada Wolf Pack ✅❌✅❌❌",
-    "• H2H: sin precedentes",
-    "• Bajas: Northern Illinois Huskies: sin bajas; Nevada Wolf Pack: sin bajas"
-   ],
    "context": "Northern Illinois Huskies vs Nevada Wolf Pack (🏈 NCAA Football). Hándicap Northern Illinois Huskies +7: margen esperado desde el Elo (gana Northern Illinois Huskies 27%). Forma Northern Illinois Huskies ❌❌❌❌❌, Nevada Wolf Pack ✅❌✅❌❌. H2H sin precedentes. Bajas: Northern Illinois Huskies: sin bajas; Nevada Wolf Pack: sin bajas.",
    "captured": "2026-11-12T00:13",
    "version": "38e7d57",
@@ -6317,18 +6056,6 @@
    "start": "2026-11-14T20:30Z",
    "league": "🏈 NCAA Football",
    "sport": "🏈",
-   "info": [
-    "📊 <b>Escenarios</b> (Elo con 9.521 partidos y bajas)",
-    "Gana Northern Illinois Huskies 27% · Gana Nevada Wolf Pack 73%",
-    "Casas: Northern Illinois Huskies 30% · Nevada Wolf Pack 70%",
-    "Hándicap NEV -7 · Total puntos 47.5",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Northern Illinois Huskies ❌❌❌❌❌ | Nevada Wolf Pack ✅❌✅❌❌",
-    "• H2H: sin precedentes",
-    "• Bajas: Northern Illinois Huskies: sin bajas; Nevada Wolf Pack: sin bajas",
-    "• Favorito de las casas: Nevada Wolf Pack @ 1.37"
-   ],
    "context": "Northern Illinois Huskies vs Nevada Wolf Pack (🏈 NCAA Football, fútbol americano). Modelo Elo con 10 años de historial ajustado por bajas: Northern Illinois Huskies 27%, Nevada Wolf Pack 73%. Cuotas DraftKings 3.2/1.37, hándicap NEV -7, total 47.5. Forma Northern Illinois Huskies ❌❌❌❌❌, Nevada Wolf Pack ✅❌✅❌❌. H2H sin precedentes. Bajas Northern Illinois Huskies: ninguna. Bajas Nevada Wolf Pack: ninguna.",
    "captured": "2026-11-12T00:13",
    "version": "38e7d57",
@@ -6351,15 +6078,6 @@
    "pick": "Más de 56.5 puntos",
    "league": "🏈 NCAA Football",
    "sport": "🏈",
-   "info": [
-    "📊 <b>Escenarios</b>: total esperado <b>52.6</b> puntos · línea 56.5",
-    "Más 50% · Menos 50%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Georgia State Panthers ✅❌❌❌✅ | Georgia Southern Eagles ✅❌✅✅✅",
-    "• H2H: 10 desde 2016: 5-5",
-    "• Bajas: Georgia State Panthers: sin bajas; Georgia Southern Eagles: sin bajas"
-   ],
    "context": "Georgia State Panthers vs Georgia Southern Eagles (🏈 NCAA Football). Modelo de puntos (ataque/defensa con 10 años, decaimiento 1 año): total esperado 52.6 frente a línea 56.5. Forma Georgia State Panthers ✅❌❌❌✅, Georgia Southern Eagles ✅❌✅✅✅. H2H 10 desde 2016: 5-5. Bajas: Georgia State Panthers: sin bajas; Georgia Southern Eagles: sin bajas.",
    "captured": "2026-11-12T00:13",
    "version": "38e7d57",
@@ -6381,14 +6099,6 @@
    "pick": "Georgia State Panthers +5.5",
    "league": "🏈 NCAA Football",
    "sport": "🏈",
-   "info": [
-    "📊 <b>Escenarios</b>: Georgia State Panthers cubre +5.5 con prob. 50% (casas 50%)",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Georgia State Panthers ✅❌❌❌✅ | Georgia Southern Eagles ✅❌✅✅✅",
-    "• H2H: 10 desde 2016: 5-5",
-    "• Bajas: Georgia State Panthers: sin bajas; Georgia Southern Eagles: sin bajas"
-   ],
    "context": "Georgia State Panthers vs Georgia Southern Eagles (🏈 NCAA Football). Hándicap Georgia State Panthers +5.5: margen esperado desde el Elo (gana Georgia State Panthers 31%). Forma Georgia State Panthers ✅❌❌❌✅, Georgia Southern Eagles ✅❌✅✅✅. H2H 10 desde 2016: 5-5. Bajas: Georgia State Panthers: sin bajas; Georgia Southern Eagles: sin bajas.",
    "captured": "2026-11-12T00:13",
    "version": "38e7d57",
@@ -6409,18 +6119,6 @@
    "start": "2026-11-14T20:30Z",
    "league": "🏈 NCAA Football",
    "sport": "🏈",
-   "info": [
-    "📊 <b>Escenarios</b> (Elo con 9.521 partidos y bajas)",
-    "Gana Georgia State Panthers 31% · Gana Georgia Southern Eagles 69%",
-    "Casas: Georgia State Panthers 36% · Georgia Southern Eagles 64%",
-    "Hándicap GASO -5.5 · Total puntos 56.5",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Georgia State Panthers ✅❌❌❌✅ | Georgia Southern Eagles ✅❌✅✅✅",
-    "• H2H: 10 desde 2016: 5-5",
-    "• Bajas: Georgia State Panthers: sin bajas; Georgia Southern Eagles: sin bajas",
-    "• Favorito de las casas: Georgia Southern Eagles @ 1.49"
-   ],
    "context": "Georgia State Panthers vs Georgia Southern Eagles (🏈 NCAA Football, fútbol americano). Modelo Elo con 10 años de historial ajustado por bajas: Georgia State Panthers 31%, Georgia Southern Eagles 69%. Cuotas DraftKings 2.7/1.488, hándicap GASO -5.5, total 56.5. Forma Georgia State Panthers ✅❌❌❌✅, Georgia Southern Eagles ✅❌✅✅✅. H2H 10 desde 2016: 5-5. Bajas Georgia State Panthers: ninguna. Bajas Georgia Southern Eagles: ninguna.",
    "captured": "2026-11-12T00:13",
    "version": "38e7d57",
@@ -6443,15 +6141,6 @@
    "pick": "Más de 54.5 puntos",
    "league": "🏈 NCAA Football",
    "sport": "🏈",
-   "info": [
-    "📊 <b>Escenarios</b>: total esperado <b>51.3</b> puntos · línea 54.5",
-    "Más 50% · Menos 50%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Western Kentucky Hilltoppers ❌✅✅❌❌ | Jacksonville State Gamecocks ✅✅✅✅✅",
-    "• H2H: 4 desde 2023: 1-3",
-    "• Bajas: Western Kentucky Hilltoppers: sin bajas; Jacksonville State Gamecocks: sin bajas"
-   ],
    "context": "Western Kentucky Hilltoppers vs Jacksonville State Gamecocks (🏈 NCAA Football). Modelo de puntos (ataque/defensa con 10 años, decaimiento 1 año): total esperado 51.3 frente a línea 54.5. Forma Western Kentucky Hilltoppers ❌✅✅❌❌, Jacksonville State Gamecocks ✅✅✅✅✅. H2H 4 desde 2023: 1-3. Bajas: Western Kentucky Hilltoppers: sin bajas; Jacksonville State Gamecocks: sin bajas.",
    "captured": "2026-11-12T00:13",
    "version": "38e7d57",
@@ -6473,14 +6162,6 @@
    "pick": "Western Kentucky Hilltoppers +7.5",
    "league": "🏈 NCAA Football",
    "sport": "🏈",
-   "info": [
-    "📊 <b>Escenarios</b>: Western Kentucky Hilltoppers cubre +7.5 con prob. 52% (casas 52%)",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Western Kentucky Hilltoppers ❌✅✅❌❌ | Jacksonville State Gamecocks ✅✅✅✅✅",
-    "• H2H: 4 desde 2023: 1-3",
-    "• Bajas: Western Kentucky Hilltoppers: sin bajas; Jacksonville State Gamecocks: sin bajas"
-   ],
    "context": "Western Kentucky Hilltoppers vs Jacksonville State Gamecocks (🏈 NCAA Football). Hándicap Western Kentucky Hilltoppers +7.5: margen esperado desde el Elo (gana Western Kentucky Hilltoppers 23%). Forma Western Kentucky Hilltoppers ❌✅✅❌❌, Jacksonville State Gamecocks ✅✅✅✅✅. H2H 4 desde 2023: 1-3. Bajas: Western Kentucky Hilltoppers: sin bajas; Jacksonville State Gamecocks: sin bajas.",
    "captured": "2026-11-12T00:13",
    "version": "38e7d57",
@@ -6501,18 +6182,6 @@
    "start": "2026-11-14T20:30Z",
    "league": "🏈 NCAA Football",
    "sport": "🏈",
-   "info": [
-    "📊 <b>Escenarios</b> (Elo con 9.521 partidos y bajas)",
-    "Gana Western Kentucky Hilltoppers 23% · Gana Jacksonville State Gamecocks 77%",
-    "Casas: Western Kentucky Hilltoppers 29% · Jacksonville State Gamecocks 71%",
-    "Hándicap JXST -7.5 · Total puntos 54.5",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Western Kentucky Hilltoppers ❌✅✅❌❌ | Jacksonville State Gamecocks ✅✅✅✅✅",
-    "• H2H: 4 desde 2023: 1-3",
-    "• Bajas: Western Kentucky Hilltoppers: sin bajas; Jacksonville State Gamecocks: sin bajas",
-    "• Favorito de las casas: Jacksonville State Gamecocks @ 1.35"
-   ],
    "context": "Western Kentucky Hilltoppers vs Jacksonville State Gamecocks (🏈 NCAA Football, fútbol americano). Modelo Elo con 10 años de historial ajustado por bajas: Western Kentucky Hilltoppers 23%, Jacksonville State Gamecocks 77%. Cuotas DraftKings 3.3/1.351, hándicap JXST -7.5, total 54.5. Forma Western Kentucky Hilltoppers ❌✅✅❌❌, Jacksonville State Gamecocks ✅✅✅✅✅. H2H 4 desde 2023: 1-3. Bajas Western Kentucky Hilltoppers: ninguna. Bajas Jacksonville State Gamecocks: ninguna.",
    "captured": "2026-11-12T00:13",
    "version": "38e7d57",
@@ -6535,15 +6204,6 @@
    "pick": "Más de 53.5 puntos",
    "league": "🏈 NCAA Football",
    "sport": "🏈",
-   "info": [
-    "📊 <b>Escenarios</b>: total esperado <b>52.9</b> puntos · línea 53.5",
-    "Más 50% · Menos 50%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Liberty Flames ✅✅✅✅✅ | Middle Tennessee Blue Raiders ❌✅✅❌✅",
-    "• H2H: 3 desde 2021: 3-0",
-    "• Bajas: Liberty Flames: sin bajas; Middle Tennessee Blue Raiders: sin bajas"
-   ],
    "context": "Liberty Flames vs Middle Tennessee Blue Raiders (🏈 NCAA Football). Modelo de puntos (ataque/defensa con 10 años, decaimiento 1 año): total esperado 52.9 frente a línea 53.5. Forma Liberty Flames ✅✅✅✅✅, Middle Tennessee Blue Raiders ❌✅✅❌✅. H2H 3 desde 2021: 3-0. Bajas: Liberty Flames: sin bajas; Middle Tennessee Blue Raiders: sin bajas.",
    "captured": "2026-11-12T00:13",
    "version": "38e7d57",
@@ -6565,14 +6225,6 @@
    "pick": "Liberty Flames -20.5",
    "league": "🏈 NCAA Football",
    "sport": "🏈",
-   "info": [
-    "📊 <b>Escenarios</b>: Liberty Flames cubre -20.5 con prob. 50% (casas 50%)",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Liberty Flames ✅✅✅✅✅ | Middle Tennessee Blue Raiders ❌✅✅❌✅",
-    "• H2H: 3 desde 2021: 3-0",
-    "• Bajas: Liberty Flames: sin bajas; Middle Tennessee Blue Raiders: sin bajas"
-   ],
    "context": "Liberty Flames vs Middle Tennessee Blue Raiders (🏈 NCAA Football). Hándicap Liberty Flames -20.5: margen esperado desde el Elo (gana Liberty Flames 88%). Forma Liberty Flames ✅✅✅✅✅, Middle Tennessee Blue Raiders ❌✅✅❌✅. H2H 3 desde 2021: 3-0. Bajas: Liberty Flames: sin bajas; Middle Tennessee Blue Raiders: sin bajas.",
    "captured": "2026-11-12T00:13",
    "version": "38e7d57",
@@ -6593,18 +6245,6 @@
    "start": "2026-11-14T20:30Z",
    "league": "🏈 NCAA Football",
    "sport": "🏈",
-   "info": [
-    "📊 <b>Escenarios</b> (Elo con 9.521 partidos y bajas)",
-    "Gana Liberty Flames 88% · Gana Middle Tennessee Blue Raiders 12%",
-    "Casas: Liberty Flames 90% · Middle Tennessee Blue Raiders 10%",
-    "Hándicap LIB -20.5 · Total puntos 53.5",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Liberty Flames ✅✅✅✅✅ | Middle Tennessee Blue Raiders ❌✅✅❌✅",
-    "• H2H: 3 desde 2021: 3-0",
-    "• Bajas: Liberty Flames: sin bajas; Middle Tennessee Blue Raiders: sin bajas",
-    "• Favorito de las casas: Liberty Flames @ 1.06"
-   ],
    "context": "Liberty Flames vs Middle Tennessee Blue Raiders (🏈 NCAA Football, fútbol americano). Modelo Elo con 10 años de historial ajustado por bajas: Liberty Flames 88%, Middle Tennessee Blue Raiders 12%. Cuotas DraftKings 1.062/10.0, hándicap LIB -20.5, total 53.5. Forma Liberty Flames ✅✅✅✅✅, Middle Tennessee Blue Raiders ❌✅✅❌✅. H2H 3 desde 2021: 3-0. Bajas Liberty Flames: ninguna. Bajas Middle Tennessee Blue Raiders: ninguna.",
    "captured": "2026-11-12T00:13",
    "version": "38e7d57",
@@ -21110,10 +20750,6 @@
    "league": "💎 Valor vs Pinnacle · Colombia - Primera A",
    "sport": "⚽💎⚽",
    "sin_stake": true,
-   "info": [
-    "💎 <b>Valor contra Pinnacle (goles)</b>: Smarkets paga 2.16 y el justo de Pinnacle es 2.00 (+8.0%)",
-    "Candidata sin dinero hasta demostrar su CLV."
-   ],
    "context": "Deportivo Pereira vs America de Cali: menos de 2.5 goles, valor contra Pinnacle.",
    "captured": "2026-11-14T15:36",
    "version": "2300425",
@@ -21842,10 +21478,6 @@
    "start": "2026-11-14T20:30:00+00:00",
    "league": "💎 Valor vs Pinnacle · Colombia - Primera A",
    "sport": "⚽💎",
-   "info": [
-    "💎 <b>Valor contra Pinnacle</b>: Smarkets paga 1.46 y el precio justo de Pinnacle es 1.39 (ventaja +5.4%)",
-    "Backtest 2015-2026 (cuota ≤ 2.5, > 3 %): ROI +11 % ± 3 %, CLV +5 %."
-   ],
    "context": "Deportivo Pereira vs America de Cali (Colombia - Primera A). Estrategia de valor: Smarkets 1.46 frente a Pinnacle justo 1.39.",
    "captured": "2026-11-14T17:37",
    "version": "cfc2a76",
@@ -22282,26 +21914,16 @@
    "start": "2026-11-14T20:10:00+00:00",
    "league": "🎮⚽ FC 27 · Premier League",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 68.139 partidos)",
-    "Goles esperados: llulle 2.76 · Animal 3.37",
-    "Ganador: llulle 28% · empate 18% · Animal 54%",
-    "Total: más de 6.5 goles 42% · menos 58%",
-    "Hándicap Animal: −1.5 35% · −2.5 22%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: llulle ✅❌➖✅❌ | Animal ➖➖❌➖❌",
-    "• Partidos: llulle 1003 | Animal 953",
-    "• Liga: Premier League",
-    "• Unibet: 1 2.70 · X 3.55 · 2 2.00 (sin margen 32%/24%/43%) · ventaja +8%. Sin stake hasta demostrar ROI con estas cuotas.",
-    "• En España: LeoVegas España 2.00 (+8%) · Paf España 2.00 (+8%)"
-   ],
    "context": "EA FC Esoccer Battle llulle vs Animal (Premier League): goles esperados 2.76-3.37, 1X2 28%/18%/54%. Sin cuotas de casa.",
    "captured": "2026-11-14T19:37",
    "version": "3d37685",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "0-4",
+   "result": true,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "D",
@@ -22317,26 +21939,16 @@
    "start": "2026-11-14T20:07:00+00:00",
    "league": "🎮⚽ FC 27 · Serie A",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 68.139 partidos)",
-    "Goles esperados: pikalicaaa 2.38 · DEKSON 2.56",
-    "Ganador: pikalicaaa 33% · empate 21% · DEKSON 46%",
-    "Total: más de 4.5 goles 55% · menos 45%",
-    "Hándicap DEKSON: −1.5 27% · −2.5 14%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: pikalicaaa ❌✅✅❌❌ | DEKSON ❌❌❌➖✅",
-    "• Partidos: pikalicaaa 753 | DEKSON 571",
-    "• Liga: Serie A",
-    "• Unibet: 1 3.20 · X 5.00 · 2 1.60 (sin margen 27%/18%/55%) · ventaja +7%. Sin stake hasta demostrar ROI con estas cuotas.",
-    "• En España: LeoVegas España 5.00 (+7%) · Paf España 5.00 (+7%)"
-   ],
    "context": "EA FC Esoccer Battle pikalicaaa vs DEKSON (Serie A): goles esperados 2.38-2.56, 1X2 33%/21%/46%. Sin cuotas de casa.",
    "captured": "2026-11-14T19:37",
    "version": "3d37685",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "5-2",
+   "result": false,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "H",
@@ -22357,7 +21969,11 @@
    "version": "3d37685",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "2-2",
+   "result": false,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "H",
@@ -22373,26 +21989,16 @@
    "start": "2026-11-14T20:10:00+00:00",
    "league": "🎮⚽ FC 27 · Premier League",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 68.169 partidos)",
-    "Goles esperados: hit 3.03 · lzrn 2.33",
-    "Ganador: hit 52% · empate 20% · lzrn 28%",
-    "Total: más de 5.5 goles 45% · menos 55%",
-    "Hándicap hit: −1.5 36% · −2.5 21%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: hit ➖➖✅➖✅ | lzrn ➖➖❌✅❌",
-    "• Partidos: hit 833 | lzrn 906",
-    "• Liga: Premier League",
-    "• Unibet: 1 2.40 · X 2.95 · 2 2.48 (sin margen 36%/29%/35%) · ventaja +26%. Sin stake hasta demostrar ROI con estas cuotas.",
-    "• En España: LeoVegas España 2.40 (+26%) · Paf España 2.40 (+26%)"
-   ],
    "context": "EA FC Esoccer Battle hit vs lzrn (Premier League): goles esperados 3.03-2.33, 1X2 52%/20%/28%. Sin cuotas de casa.",
    "captured": "2026-11-14T20:06",
    "version": "2fbd33d",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "2-2",
+   "result": false,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "A",
@@ -22408,26 +22014,16 @@
    "start": "2026-11-14T20:22:00+00:00",
    "league": "🎮⚽ FC 27 · Premier League",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 68.169 partidos)",
-    "Goles esperados: Glumac 2.88 · hit 3.02",
-    "Ganador: Glumac 37% · empate 20% · hit 43%",
-    "Total: más de 5.5 goles 54% · menos 46%",
-    "Hándicap hit: −1.5 28% · −2.5 16%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Glumac ✅➖➖❌➖ | hit ➖➖✅➖✅",
-    "• Partidos: Glumac 883 | hit 833",
-    "• Liga: Premier League",
-    "• Unibet: 1 2.38 · X 2.60 · 2 2.88 (sin margen 36%/33%/30%) · ventaja +24%. Sin stake hasta demostrar ROI con estas cuotas.",
-    "• En España: LeoVegas España 2.88 (+24%) · Paf España 2.88 (+24%)"
-   ],
    "context": "EA FC Esoccer Battle Glumac vs hit (Premier League): goles esperados 2.88-3.02, 1X2 37%/20%/43%. Sin cuotas de casa.",
    "captured": "2026-11-14T20:06",
    "version": "2fbd33d",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "1-3",
+   "result": true,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "A",
@@ -22443,23 +22039,44 @@
    "start": "2026-11-14T20:31:00+00:00",
    "league": "🎮⚽ FC 27 · Serie A",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 68.169 partidos)",
-    "Goles esperados: pikalicaaa 2.37 · Dicca 3.13",
-    "Ganador: pikalicaaa 27% · empate 19% · Dicca 54%",
-    "Total: más de 5.5 goles 47% · menos 53%",
-    "Hándicap Dicca: −1.5 37% · −2.5 22%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: pikalicaaa ✅❌❌❌✅ | Dicca ❌➖✅✅✅",
-    "• Partidos: pikalicaaa 755 | Dicca 790",
-    "• Liga: Serie A",
-    "• Unibet: 1 2.63 · X 3.75 · 2 1.98 (sin margen 33%/23%/44%) · ventaja +6%. Sin stake hasta demostrar ROI con estas cuotas.",
-    "• En España: LeoVegas España 1.98 (+6%) · Paf España 1.98 (+6%)"
-   ],
    "context": "EA FC Esoccer Battle pikalicaaa vs Dicca (Serie A): goles esperados 2.37-3.13, 1X2 27%/19%/54%. Sin cuotas de casa.",
    "captured": "2026-11-14T20:06",
    "version": "2fbd33d",
+   "bajas": "",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "H",
+   "pick": "ZORO",
+   "odds": 1.33,
+   "book": "Unibet",
+   "implied": 0.649,
+   "edge": 0.052,
+   "sin_stake": true,
+   "p": 0.791,
+   "key": "fc|2379694",
+   "match": "ZORO vs Lufy",
+   "start": "2026-11-14T20:38:00+00:00",
+   "league": "🎮⚽ FC 27 · Champions League B 2x6",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 68.192 partidos)",
+    "Goles esperados: ZORO 6.05 · Lufy 3.52",
+    "Ganador: ZORO 79% · empate 9% · Lufy 11%",
+    "Total: más de 9.5 goles 49% · menos 51%",
+    "Hándicap ZORO: −1.5 63% · −2.5 50%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: ZORO ✅✅✅✅✅ | Lufy ✅❌✅❌✅",
+    "• Partidos: ZORO 879 | Lufy 821",
+    "• Liga: Champions League B 2x6",
+    "• Unibet: 1 1.33 · X 5.60 · 2 4.40 (sin margen 65%/15%/20%) · ventaja +5%. Sin stake hasta demostrar ROI con estas cuotas.",
+    "• En España: LeoVegas España 1.33 (+5%) · Paf España 1.33 (+5%)"
+   ],
+   "context": "EA FC Esoccer Battle ZORO vs Lufy (Champions League B 2x6): goles esperados 6.05-3.52, 1X2 79%/9%/11%. Sin cuotas de casa.",
+   "captured": "2026-11-14T20:37",
+   "version": "1cdfc2e",
    "bajas": "",
    "considered": true,
    "placed": false
