@@ -67926,18 +67926,18 @@ id,tournament_id,club1,club2,ht1,ht2
 2380208,262007,Ajax,Twente,,
 2380209,262007,Feyenoord,Ajax,,
 2380210,262007,PSV,AZ Alkmaar,,
-2379461,261953,Roma,Salzburg,2,2
-2379462,261953,Fenerbahce,Porto,2,3
-2379463,261953,Porto,Roma,1,1
-2379464,261953,Salzburg,Aston Villa,2,2
-2379465,261953,Aston Villa,Porto,0,1
-2379466,261953,Roma,Fenerbahce,3,2
-2379467,261953,Fenerbahce,Aston Villa,3,0
-2379468,261953,Porto,Salzburg,0,2
-2379469,261953,Salzburg,Fenerbahce,1,1
-2379470,261953,Aston Villa,Roma,0,1
-2379471,261953,Salzburg,Roma,2,1
-2379472,261953,Porto,Fenerbahce,2,1
+2379461,261953,Roma,Salzburg,2.0,2.0
+2379462,261953,Fenerbahce,Porto,2.0,3.0
+2379463,261953,Porto,Roma,1.0,1.0
+2379464,261953,Salzburg,Aston Villa,2.0,2.0
+2379465,261953,Aston Villa,Porto,0.0,1.0
+2379466,261953,Roma,Fenerbahce,3.0,2.0
+2379467,261953,Fenerbahce,Aston Villa,3.0,0.0
+2379468,261953,Porto,Salzburg,0.0,2.0
+2379469,261953,Salzburg,Fenerbahce,1.0,1.0
+2379470,261953,Aston Villa,Roma,0.0,1.0
+2379471,261953,Salzburg,Roma,2.0,1.0
+2379472,261953,Porto,Fenerbahce,2.0,1.0
 2379473,261953,Roma,Porto,,
 2379474,261953,Aston Villa,Salzburg,,
 2379475,261953,Porto,Aston Villa,,
@@ -67946,23 +67946,63 @@ id,tournament_id,club1,club2,ht1,ht2
 2379478,261953,Salzburg,Porto,,
 2379479,261953,Fenerbahce,Salzburg,,
 2379480,261953,Roma,Aston Villa,,
-2379321,261971,Bologna,Napoli,0,1
-2379322,261971,Juventus,Sassuolo,2,3
-2379323,261971,Sassuolo,Bologna,3,0
-2379324,261971,Napoli,Roma,1,1
-2379325,261971,Roma,Sassuolo,1,2
-2379326,261971,Bologna,Juventus,1,1
-2379327,261971,Juventus,Roma,4,3
-2379328,261971,Sassuolo,Napoli,2,0
-2379329,261971,Napoli,Juventus,5,2
-2379330,261971,Roma,Bologna,2,2
-2379331,261971,Napoli,Bologna,0,1
-2379332,261971,Sassuolo,Juventus,2,2
-2379333,261971,Bologna,Sassuolo,2,1
-2379334,261971,Roma,Napoli,1,0
+2379321,261971,Bologna,Napoli,0.0,1.0
+2379322,261971,Juventus,Sassuolo,2.0,3.0
+2379323,261971,Sassuolo,Bologna,3.0,0.0
+2379324,261971,Napoli,Roma,1.0,1.0
+2379325,261971,Roma,Sassuolo,1.0,2.0
+2379326,261971,Bologna,Juventus,1.0,1.0
+2379327,261971,Juventus,Roma,4.0,3.0
+2379328,261971,Sassuolo,Napoli,2.0,0.0
+2379329,261971,Napoli,Juventus,5.0,2.0
+2379330,261971,Roma,Bologna,2.0,2.0
+2379331,261971,Napoli,Bologna,0.0,1.0
+2379332,261971,Sassuolo,Juventus,2.0,2.0
+2379333,261971,Bologna,Sassuolo,2.0,1.0
+2379334,261971,Roma,Napoli,1.0,0.0
 2379335,261971,Sassuolo,Roma,,
 2379336,261971,Juventus,Bologna,,
 2379337,261971,Roma,Juventus,,
 2379338,261971,Napoli,Sassuolo,,
 2379339,261971,Juventus,Napoli,,
 2379340,261971,Bologna,Roma,,
+2379939,261937,Chelsea,Tottenham,1,2
+2379940,261937,Arsenal,Liverpool,1,2
+2379941,261937,Liverpool,Chelsea,0,1
+2379942,261937,Tottenham,Man City,3,0
+2379943,261937,Man City,Liverpool,0,0
+2379944,261937,Chelsea,Arsenal,2,1
+2379945,261937,Arsenal,Man City,1,3
+2379946,261937,Liverpool,Tottenham,2,3
+2379947,261937,Tottenham,Arsenal,4,2
+2379948,261937,Man City,Chelsea,3,1
+2379949,261937,Tottenham,Chelsea,,
+2379950,261937,Liverpool,Arsenal,,
+2379951,261937,Chelsea,Liverpool,,
+2379952,261937,Man City,Tottenham,,
+2379953,261937,Liverpool,Man City,,
+2379954,261937,Arsenal,Chelsea,,
+2379955,261937,Man City,Arsenal,,
+2379956,261937,Tottenham,Liverpool,,
+2379957,261937,Arsenal,Tottenham,,
+2379958,261937,Chelsea,Man City,,
+2379701,261961,Man City,B Dortmund,1,0
+2379702,261961,Juventus,Arsenal,1,0
+2379703,261961,Arsenal,Man City,2,1
+2379704,261961,B Dortmund,Sporting CP,3,2
+2379705,261961,Sporting CP,Arsenal,3,2
+2379706,261961,Man City,Juventus,2,3
+2379707,261961,Juventus,Sporting CP,1,2
+2379708,261961,Arsenal,B Dortmund,1,1
+2379709,261961,B Dortmund,Juventus,3,4
+2379710,261961,Sporting CP,Man City,4,0
+2379711,261961,B Dortmund,Man City,2,2
+2379712,261961,Arsenal,Juventus,3,2
+2379713,261961,Man City,Arsenal,3,4
+2379714,261961,Sporting CP,B Dortmund,0,2
+2379715,261961,Arsenal,Sporting CP,,
+2379716,261961,Juventus,Man City,,
+2379717,261961,Sporting CP,Juventus,,
+2379718,261961,B Dortmund,Arsenal,,
+2379719,261961,Juventus,B Dortmund,,
+2379720,261961,Man City,Sporting CP,,

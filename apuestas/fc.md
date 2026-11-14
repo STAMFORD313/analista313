@@ -1,61 +1,42 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 14/11/2026 16:36 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 14/11/2026 17:06 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## llulle vs Animal — 14/11 · 16:40
+## hit vs llulle — 14/11 · 17:16
 
-👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana Animal** @ **2.02** (Unibet) · prob 54% vs casas 43% · ventaja +9%
+👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana hit** @ **2.38** (Unibet) · prob 51% vs casas 36% · ventaja +21%
 
-- ❌ Valor: ventaja +9% (mín. 11% con la incertidumbre, máx. 30%)
+- ✅ Valor: ventaja +21% (mín. 14% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 67.927 partidos)  
-Goles esperados: llulle 2.56 · Animal 3.27  
-Ganador: llulle 27% · empate 19% · Animal 54%  
-Total: más de 5.5 goles 53% · menos 47%  
-Hándicap Animal: −1.5 36% · −2.5 22%  
+📊 **Escenarios** (Poisson por jugador, 67.956 partidos)  
+Goles esperados: hit 2.60 · llulle 2.04  
+Ganador: hit 51% · empate 22% · llulle 28%  
+Total: más de 4.5 goles 49% · menos 51%  
+Hándicap hit: −1.5 32% · −2.5 18%  
 🔎 **Claves**  
-• Forma: llulle ✅❌❌❌❌ | Animal ✅❌✅➖➖  
-• Partidos: llulle 989 | Animal 939  
+• Forma: hit ➖✅➖✅✅ | llulle ❌❌❌➖❌  
+• Partidos: hit 820 | llulle 991  
 • Liga: Champions League B  
-• Unibet: 1 2.65 · X 3.60 · 2 2.02 (sin margen 33%/24%/43%) · ventaja +9%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.02 (+9%) · Paf España 2.02 (+9%)  
+• Unibet: 1 2.38 · X 3.30 · 2 2.32 (sin margen 36%/26%/37%) · ventaja +21%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.38 (+21%) · Paf España 2.38 (+21%)  
 
-## Sena vs pikalicaaa — 14/11 · 16:49
+## Shinobu vs VD — 14/11 · 17:26
 
-👀 candidata · 🎮⚽ FC 27 · Europa League · **Empate** @ **5.25** (Unibet) · prob 21% vs casas 17% · ventaja +11%
+👀 candidata · 🎮⚽ FC 27 · A-League · **Gana Shinobu** @ **3.45** (Unibet) · prob 41% vs casas 26% · ventaja +40%
 
-- ✅ Valor: ventaja +11% (mín. 11% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 67.927 partidos)  
-Goles esperados: Sena 2.64 · pikalicaaa 2.47  
-Ganador: Sena 43% · empate 21% · pikalicaaa 36%  
-Total: más de 5.5 goles 40% · menos 60%  
-Hándicap Sena: −1.5 27% · −2.5 15%  
-🔎 **Claves**  
-• Forma: Sena ➖❌✅❌❌ | pikalicaaa ❌❌✅❌❌  
-• Partidos: Sena 724 | pikalicaaa 739  
-• Liga: Europa League  
-• Unibet: 1 1.98 · X 5.25 · 2 2.23 (sin margen 44%/17%/39%) · ventaja +11%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 5.25 (+11%) · Paf España 5.25 (+11%)  
-
-## lzrn vs llulle — 14/11 · 16:52
-
-👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana llulle** @ **2.90** (Unibet) · prob 38% vs casas 30% · ventaja +9%
-
-- ❌ Valor: ventaja +9% (mín. 10% con la incertidumbre, máx. 30%)
+- ❌ Valor: ventaja +40% (mín. 18% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 67.927 partidos)  
-Goles esperados: lzrn 2.70 · llulle 2.64  
-Ganador: lzrn 42% · empate 21% · llulle 37%  
-Total: más de 5.5 goles 44% · menos 56%  
-Hándicap lzrn: −1.5 26% · −2.5 14%  
+📊 **Escenarios** (Poisson por jugador, 67.956 partidos)  
+Goles esperados: Shinobu 2.48 · VD 2.37  
+Ganador: Shinobu 41% · empate 22% · VD 37%  
+Total: más de 4.5 goles 53% · menos 47%  
+Hándicap Shinobu: −1.5 26% · −2.5 13%  
 🔎 **Claves**  
-• Forma: lzrn ✅➖✅✅➖ | llulle ✅❌❌❌❌  
-• Partidos: lzrn 890 | llulle 989  
-• Liga: Champions League B  
-• Unibet: 1 1.88 · X 3.70 · 2 2.90 (sin margen 46%/24%/30%) · ventaja +9%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.90 (+9%) · Paf España 2.90 (+9%)  
+• Forma: Shinobu ✅❌❌❌✅ | VD ❌➖✅❌❌  
+• Partidos: Shinobu 1481 | VD 361  
+• Liga: A-League  
+• Unibet: 1 3.45 · X 4.50 · 2 1.60 (sin margen 25%/20%/55%) · ventaja +40%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 3.45 (+40%) · Paf España 3.45 (+40%)  
 

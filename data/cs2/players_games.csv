@@ -34798,3 +34798,6 @@ game_id,match_id,slug,date,tier,bo,tournament_id,tournament,t1_id,t2_id,team1,te
 192506,133250,virtus-pro-vs-baks-esports-14-11-2026,2026-11-14T12:00:00.000+00:00,b,3,5628,CCT Europe 2026 Series 13,720,2924,Virtus.pro,BAKS,1,de_cache,720,13.0,9.0
 193366,133856,phantom-esports-vs-hype-tech-14-11-2026,2026-11-14T12:00:00.000+00:00,b,3,6240,NODWIN Clutch Series 14,19204,25790,Phantom,Hype Tech,2,de_nuke,19204,13.0,11.0
 193367,133856,phantom-esports-vs-hype-tech-14-11-2026,2026-11-14T12:00:00.000+00:00,b,3,6240,NODWIN Clutch Series 14,19204,25790,Phantom,Hype Tech,1,de_inferno,25790,13.0,7.0
+192372,133206,axorfy-gaming-vs-turma-do-pagode-14-11-2026,2026-11-14T13:00:00.000+00:00,b,3,5624,CCT South America 2026 Series 8,25666,4122,AXORFY,Turma do Pagode,3,de_nuke,25666,13.0,10.0
+192373,133206,axorfy-gaming-vs-turma-do-pagode-14-11-2026,2026-11-14T13:00:00.000+00:00,b,3,5624,CCT South America 2026 Series 8,25666,4122,AXORFY,Turma do Pagode,2,de_anubis,4122,13.0,7.0
+192374,133206,axorfy-gaming-vs-turma-do-pagode-14-11-2026,2026-11-14T13:00:00.000+00:00,b,3,5624,CCT South America 2026 Series 8,25666,4122,AXORFY,Turma do Pagode,1,de_dust2,25666,13.0,4.0

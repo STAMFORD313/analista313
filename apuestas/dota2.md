@@ -1,50 +1,6 @@
 # 🐉 Dota 2 · apuestas de valor
 
-Actualizado 14/11/2026 16:36 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Team Synapse vs CyberHero — 14/11 · 17:00
-
-👀 candidata · 🐉 Dota 2 · Asgard Championship Season 2 · **Gana CyberHero** @ **1.72** (Thunderpick) · prob 66% vs casas 54% · ventaja +14%
-
-- ✅ Valor: ventaja +14% (mín. 10% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🐉 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 11.766 partidos)  
-Mapa: Team Synapse 37% · Serie BO3: Team Synapse 22% - 78% CyberHero  
-Casas: Team Synapse 46% · CyberHero 54%  
-🔎 **Claves**  
-• Elo: Team Synapse 1703 (52 series) | CyberHero 1822 (33 series)  
-• Forma: Team Synapse ✅✅❌❌❌ | CyberHero ✅❌✅✅❌  
-• H2H: 1: 0-1  
-• Torneo: Asgard Championship Season 2 (nivel B)  
-• Cambios de plantilla: ninguno  
-• Jugadores en forma (KDA últimas 10 partidas): Team Synapse: G.T.I 3.8, Jeezy 3.3 | CyberHero: bb3px 5.0, Ainkrad 4.9  
-• Química de la plantilla: Team Synapse: 112 partidas juntos de media | CyberHero: 159 partidas juntos de media  
-🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
-• Team Synapse gana 2-1: 15% → cuota justa 6.74 · casa 20%  
-• CyberHero gana 2-1: 25% → cuota justa 4.04 · casa 23%  
-
-## Team Synapse vs CyberHero — 14/11 · 17:00
-
-👀 candidata · 🐉 Dota 2 · Asgard Championship Season 2 · **CyberHero -1.5 mapas** @ **2.97** (Thunderpick) · prob 38% vs casas 31% · ventaja +12%
-
-- ✅ Valor: ventaja +12% (mín. 10% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🐉 hándicap» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 11.766 partidos)  
-Mapa: Team Synapse 37% · Serie BO3: Team Synapse 22% - 78% CyberHero  
-Casas: Team Synapse 46% · CyberHero 54%  
-🔎 **Claves**  
-• Elo: Team Synapse 1703 (52 series) | CyberHero 1822 (33 series)  
-• Forma: Team Synapse ✅✅❌❌❌ | CyberHero ✅❌✅✅❌  
-• H2H: 1: 0-1  
-• Torneo: Asgard Championship Season 2 (nivel B)  
-• Cambios de plantilla: ninguno  
-• Jugadores en forma (KDA últimas 10 partidas): Team Synapse: G.T.I 3.8, Jeezy 3.3 | CyberHero: bb3px 5.0, Ainkrad 4.9  
-• Química de la plantilla: Team Synapse: 112 partidas juntos de media | CyberHero: 159 partidas juntos de media  
-🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
-• Team Synapse gana 2-1: 15% → cuota justa 6.74 · casa 20%  
-• CyberHero gana 2-1: 25% → cuota justa 4.04 · casa 23%  
+Actualizado 14/11/2026 17:06 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Aurora Gaming vs CyberHero — 14/11 · 18:00
 
