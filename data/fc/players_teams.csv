@@ -67507,14 +67507,14 @@ id,tournament_id,club1,club2,ht1,ht2
 2380138,262010,Atlanta United,Los Angeles FC,,
 2380139,262010,LA Galaxy,Atlanta United,,
 2380140,262010,Inter Miami CF,Seattle Sounders FC,,
-2379081,261960,Fenerbahce,Aston Villa,0,0
-2379082,261960,Salzburg,Porto,3,3
-2379083,261960,Porto,Fenerbahce,3,0
-2379084,261960,Aston Villa,Roma,2,1
-2379085,261960,Roma,Porto,4,1
-2379086,261960,Fenerbahce,Salzburg,2,0
-2379087,261960,Salzburg,Roma,4,1
-2379088,261960,Porto,Aston Villa,0,2
+2379081,261960,Fenerbahce,Aston Villa,0.0,0.0
+2379082,261960,Salzburg,Porto,3.0,3.0
+2379083,261960,Porto,Fenerbahce,3.0,0.0
+2379084,261960,Aston Villa,Roma,2.0,1.0
+2379085,261960,Roma,Porto,4.0,1.0
+2379086,261960,Fenerbahce,Salzburg,2.0,0.0
+2379087,261960,Salzburg,Roma,4.0,1.0
+2379088,261960,Porto,Aston Villa,0.0,2.0
 2379089,261960,Aston Villa,Salzburg,,
 2379090,261960,Roma,Fenerbahce,,
 2379091,261960,Aston Villa,Fenerbahce,,
