@@ -1,181 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 14/11/2026 13:50 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Valladolid vs Castellon — 14/11 · 14:00
-
-👀 candidata · 🇪🇸 LaLiga 2 · **Valladolid +0.25 (hándicap asiático)** @ **1.84** (mejor del mercado) · prob 52% vs casas 52% · ventaja -5%
-
-- ❌ Valor: ventaja -5% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ hándicap» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.35 - 1.31)  
-1 31% · X 29% · 2 39%  
-1X 61% · X2 69% · 12 71%  
-+1.5 75% · +2.5 50% · +3.5 28% · Ambos marcan 55%  
-Marcadores: 1-1 13% · 1-0 9% · 0-1 9% · 2-1 8%  
-🔎 **Claves**  
-• Forma: Valladolid ✅❌❌✅✅ | Castellon ➖❌✅✅➖  
-• H2H: 6 desde 2005: 3V-1E-2D · 1.7 goles/partido · +2.5 en 33%  
-• Bajas: Valladolid: 1 fuera, 1 duda (David Torres); Castellon: sin bajas  
-• Favorito de las casas: Castellon @ 2.20  
-📐 **Estadísticas esperadas**  
-Córners 4.8 - 4.3: total +9.5 43% · Valladolid +5.5 36% · Castellon +4.5 42%  
-Tarjetas 2.9 - 2.7: total +5.5 49% · Valladolid +2.5 55% · Castellon +3.5 30%  
-Faltas 14.4 - 12.7: total +26.5 53% · Valladolid +13.5 57% · Castellon +13.5 40%  
-Tiros a puerta 4.5 - 4.3: total +9.5 40% · Valladolid +5.5 31% · Castellon +4.5 43%  
-🧩 Crear apuesta: Menos de 3.5 tarjetas de Castellon + Menos de 5.5 tiros a puerta de Valladolid + Menos de 5.5 córners de Valladolid → prob. 35%, cuota justa 2.90 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 3.5 tarjetas de Castellon + Menos de 5.5 tiros a puerta de Valladolid + Menos de 5.5 córners de Valladolid + Menos de 13.5 faltas de Castellon → prob. 22%, cuota justa 4.45  
-
-## Valladolid vs Castellon — 14/11 · 14:00
-
-👀 candidata · 🇪🇸 LaLiga 2 · **Más de 3.5 córners de Castellon** @ **1.38** (Unibet) · prob 62% vs casas 65% · ventaja -15%
-
-- ❌ Valor: ventaja -15% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.35 - 1.31)  
-1 31% · X 29% · 2 39%  
-1X 61% · X2 69% · 12 71%  
-+1.5 75% · +2.5 50% · +3.5 28% · Ambos marcan 55%  
-Marcadores: 1-1 13% · 1-0 9% · 0-1 9% · 2-1 8%  
-🔎 **Claves**  
-• Forma: Valladolid ✅❌❌✅✅ | Castellon ➖❌✅✅➖  
-• H2H: 6 desde 2005: 3V-1E-2D · 1.7 goles/partido · +2.5 en 33%  
-• Bajas: Valladolid: 1 fuera, 1 duda (David Torres); Castellon: sin bajas  
-• Favorito de las casas: Castellon @ 2.20  
-📐 **Estadísticas esperadas**  
-Córners 4.8 - 4.3: total +9.5 43% · Valladolid +5.5 36% · Castellon +4.5 42%  
-Tarjetas 2.9 - 2.7: total +5.5 49% · Valladolid +2.5 55% · Castellon +3.5 30%  
-Faltas 14.4 - 12.7: total +26.5 53% · Valladolid +13.5 57% · Castellon +13.5 40%  
-Tiros a puerta 4.5 - 4.3: total +9.5 40% · Valladolid +5.5 31% · Castellon +4.5 43%  
-🧩 Crear apuesta: Menos de 3.5 tarjetas de Castellon + Menos de 5.5 tiros a puerta de Valladolid + Menos de 5.5 córners de Valladolid → prob. 35%, cuota justa 2.90 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 3.5 tarjetas de Castellon + Menos de 5.5 tiros a puerta de Valladolid + Menos de 5.5 córners de Valladolid + Menos de 13.5 faltas de Castellon → prob. 22%, cuota justa 4.45  
-
-## Valladolid vs Castellon — 14/11 · 14:00
-
-👀 candidata · 🇪🇸 LaLiga 2 · **Menos de 4.5 córners de Castellon** @ **1.85** (Unibet) · prob 54% vs casas 49% · ventaja -1%
-
-- ❌ Valor: ventaja -1% (mín. 7% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.35 - 1.31)  
-1 31% · X 29% · 2 39%  
-1X 61% · X2 69% · 12 71%  
-+1.5 75% · +2.5 50% · +3.5 28% · Ambos marcan 55%  
-Marcadores: 1-1 13% · 1-0 9% · 0-1 9% · 2-1 8%  
-🔎 **Claves**  
-• Forma: Valladolid ✅❌❌✅✅ | Castellon ➖❌✅✅➖  
-• H2H: 6 desde 2005: 3V-1E-2D · 1.7 goles/partido · +2.5 en 33%  
-• Bajas: Valladolid: 1 fuera, 1 duda (David Torres); Castellon: sin bajas  
-• Favorito de las casas: Castellon @ 2.20  
-📐 **Estadísticas esperadas**  
-Córners 4.8 - 4.3: total +9.5 43% · Valladolid +5.5 36% · Castellon +4.5 42%  
-Tarjetas 2.9 - 2.7: total +5.5 49% · Valladolid +2.5 55% · Castellon +3.5 30%  
-Faltas 14.4 - 12.7: total +26.5 53% · Valladolid +13.5 57% · Castellon +13.5 40%  
-Tiros a puerta 4.5 - 4.3: total +9.5 40% · Valladolid +5.5 31% · Castellon +4.5 43%  
-🧩 Crear apuesta: Menos de 3.5 tarjetas de Castellon + Menos de 5.5 tiros a puerta de Valladolid + Menos de 5.5 córners de Valladolid → prob. 35%, cuota justa 2.90 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 3.5 tarjetas de Castellon + Menos de 5.5 tiros a puerta de Valladolid + Menos de 5.5 córners de Valladolid + Menos de 13.5 faltas de Castellon → prob. 22%, cuota justa 4.45  
-
-## Valladolid vs Castellon — 14/11 · 14:00
-
-👀 candidata · 🇪🇸 LaLiga 2 · **Más de 7.5 córners** @ **1.34** (Unibet) · prob 68% vs casas 68% · ventaja -9%
-
-- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.35 - 1.31)  
-1 31% · X 29% · 2 39%  
-1X 61% · X2 69% · 12 71%  
-+1.5 75% · +2.5 50% · +3.5 28% · Ambos marcan 55%  
-Marcadores: 1-1 13% · 1-0 9% · 0-1 9% · 2-1 8%  
-🔎 **Claves**  
-• Forma: Valladolid ✅❌❌✅✅ | Castellon ➖❌✅✅➖  
-• H2H: 6 desde 2005: 3V-1E-2D · 1.7 goles/partido · +2.5 en 33%  
-• Bajas: Valladolid: 1 fuera, 1 duda (David Torres); Castellon: sin bajas  
-• Favorito de las casas: Castellon @ 2.20  
-📐 **Estadísticas esperadas**  
-Córners 4.8 - 4.3: total +9.5 43% · Valladolid +5.5 36% · Castellon +4.5 42%  
-Tarjetas 2.9 - 2.7: total +5.5 49% · Valladolid +2.5 55% · Castellon +3.5 30%  
-Faltas 14.4 - 12.7: total +26.5 53% · Valladolid +13.5 57% · Castellon +13.5 40%  
-Tiros a puerta 4.5 - 4.3: total +9.5 40% · Valladolid +5.5 31% · Castellon +4.5 43%  
-🧩 Crear apuesta: Menos de 3.5 tarjetas de Castellon + Menos de 5.5 tiros a puerta de Valladolid + Menos de 5.5 córners de Valladolid → prob. 35%, cuota justa 2.90 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 3.5 tarjetas de Castellon + Menos de 5.5 tiros a puerta de Valladolid + Menos de 5.5 córners de Valladolid + Menos de 13.5 faltas de Castellon → prob. 22%, cuota justa 4.45  
-
-## Valladolid vs Castellon — 14/11 · 14:00
-
-👀 candidata · 🇪🇸 LaLiga 2 · **Menos de 10.5 córners** @ **1.44** (Unibet) · prob 66% vs casas 64% · ventaja -5%
-
-- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.35 - 1.31)  
-1 31% · X 29% · 2 39%  
-1X 61% · X2 69% · 12 71%  
-+1.5 75% · +2.5 50% · +3.5 28% · Ambos marcan 55%  
-Marcadores: 1-1 13% · 1-0 9% · 0-1 9% · 2-1 8%  
-🔎 **Claves**  
-• Forma: Valladolid ✅❌❌✅✅ | Castellon ➖❌✅✅➖  
-• H2H: 6 desde 2005: 3V-1E-2D · 1.7 goles/partido · +2.5 en 33%  
-• Bajas: Valladolid: 1 fuera, 1 duda (David Torres); Castellon: sin bajas  
-• Favorito de las casas: Castellon @ 2.20  
-📐 **Estadísticas esperadas**  
-Córners 4.8 - 4.3: total +9.5 43% · Valladolid +5.5 36% · Castellon +4.5 42%  
-Tarjetas 2.9 - 2.7: total +5.5 49% · Valladolid +2.5 55% · Castellon +3.5 30%  
-Faltas 14.4 - 12.7: total +26.5 53% · Valladolid +13.5 57% · Castellon +13.5 40%  
-Tiros a puerta 4.5 - 4.3: total +9.5 40% · Valladolid +5.5 31% · Castellon +4.5 43%  
-🧩 Crear apuesta: Menos de 3.5 tarjetas de Castellon + Menos de 5.5 tiros a puerta de Valladolid + Menos de 5.5 córners de Valladolid → prob. 35%, cuota justa 2.90 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 3.5 tarjetas de Castellon + Menos de 5.5 tiros a puerta de Valladolid + Menos de 5.5 córners de Valladolid + Menos de 13.5 faltas de Castellon → prob. 22%, cuota justa 4.45  
-
-## Valladolid vs Castellon — 14/11 · 14:00
-
-👀 candidata · 🇪🇸 LaLiga 2 · **Más de 4.5 córners de Valladolid** @ **2.00** (Unibet) · prob 48% vs casas 45% · ventaja -5%
-
-- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.35 - 1.31)  
-1 31% · X 29% · 2 39%  
-1X 61% · X2 69% · 12 71%  
-+1.5 75% · +2.5 50% · +3.5 28% · Ambos marcan 55%  
-Marcadores: 1-1 13% · 1-0 9% · 0-1 9% · 2-1 8%  
-🔎 **Claves**  
-• Forma: Valladolid ✅❌❌✅✅ | Castellon ➖❌✅✅➖  
-• H2H: 6 desde 2005: 3V-1E-2D · 1.7 goles/partido · +2.5 en 33%  
-• Bajas: Valladolid: 1 fuera, 1 duda (David Torres); Castellon: sin bajas  
-• Favorito de las casas: Castellon @ 2.20  
-📐 **Estadísticas esperadas**  
-Córners 4.8 - 4.3: total +9.5 43% · Valladolid +5.5 36% · Castellon +4.5 42%  
-Tarjetas 2.9 - 2.7: total +5.5 49% · Valladolid +2.5 55% · Castellon +3.5 30%  
-Faltas 14.4 - 12.7: total +26.5 53% · Valladolid +13.5 57% · Castellon +13.5 40%  
-Tiros a puerta 4.5 - 4.3: total +9.5 40% · Valladolid +5.5 31% · Castellon +4.5 43%  
-🧩 Crear apuesta: Menos de 3.5 tarjetas de Castellon + Menos de 5.5 tiros a puerta de Valladolid + Menos de 5.5 córners de Valladolid → prob. 35%, cuota justa 2.90 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 3.5 tarjetas de Castellon + Menos de 5.5 tiros a puerta de Valladolid + Menos de 5.5 córners de Valladolid + Menos de 13.5 faltas de Castellon → prob. 22%, cuota justa 4.45  
-
-## Valladolid vs Castellon — 14/11 · 14:00
-
-👀 candidata · 🇪🇸 LaLiga 2 · **Menos de 5.5 córners de Valladolid** @ **1.34** (Unibet) · prob 66% vs casas 68% · ventaja -12%
-
-- ❌ Valor: ventaja -12% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ corners» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.35 - 1.31)  
-1 31% · X 29% · 2 39%  
-1X 61% · X2 69% · 12 71%  
-+1.5 75% · +2.5 50% · +3.5 28% · Ambos marcan 55%  
-Marcadores: 1-1 13% · 1-0 9% · 0-1 9% · 2-1 8%  
-🔎 **Claves**  
-• Forma: Valladolid ✅❌❌✅✅ | Castellon ➖❌✅✅➖  
-• H2H: 6 desde 2005: 3V-1E-2D · 1.7 goles/partido · +2.5 en 33%  
-• Bajas: Valladolid: 1 fuera, 1 duda (David Torres); Castellon: sin bajas  
-• Favorito de las casas: Castellon @ 2.20  
-📐 **Estadísticas esperadas**  
-Córners 4.8 - 4.3: total +9.5 43% · Valladolid +5.5 36% · Castellon +4.5 42%  
-Tarjetas 2.9 - 2.7: total +5.5 49% · Valladolid +2.5 55% · Castellon +3.5 30%  
-Faltas 14.4 - 12.7: total +26.5 53% · Valladolid +13.5 57% · Castellon +13.5 40%  
-Tiros a puerta 4.5 - 4.3: total +9.5 40% · Valladolid +5.5 31% · Castellon +4.5 43%  
-🧩 Crear apuesta: Menos de 3.5 tarjetas de Castellon + Menos de 5.5 tiros a puerta de Valladolid + Menos de 5.5 córners de Valladolid → prob. 35%, cuota justa 2.90 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 3.5 tarjetas de Castellon + Menos de 5.5 tiros a puerta de Valladolid + Menos de 5.5 córners de Valladolid + Menos de 13.5 faltas de Castellon → prob. 22%, cuota justa 4.45  
+Actualizado 14/11/2026 14:20 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Sociedad B vs Sp Gijon — 14/11 · 16:15
 
@@ -826,6 +651,163 @@ Faltas 15.8 - 12.6: total +26.5 61% · Tenerife +13.5 69% · Ceuta +13.5 38%
 Tiros a puerta 4.8 - 2.9: total +9.5 25% · Tenerife +5.5 35% · Ceuta +4.5 18%  
 🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Ceuta + Más de 13.5 faltas de Tenerife + Menos de 3.5 tarjetas de Ceuta → prob. 36%, cuota justa 2.76 (solo vale si la casa paga más)  
 🚀 Combinada larga: Menos de 4.5 tiros a puerta de Ceuta + Más de 13.5 faltas de Tenerife + Menos de 3.5 tarjetas de Ceuta + Menos de 4.5 córners de Ceuta + Menos de 2.5 goles → prob. 14%, cuota justa 6.97  
+🎯 No simulada (con cuota: Menos de 4.5 córners de Ceuta + Menos de 2.5 goles): cuota Unibet aprox. 2.53 (producto de piernas) · prob. 36% · ventaja -10%  
+
+## Tenerife vs Ceuta — 15/11 · 14:00
+
+👀 candidata · 🇪🇸 LaLiga 2 · **Más de 2.5 córners de Ceuta** @ **1.34** (Unibet) · prob 69% vs casas 68% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.68 - 0.76)  
+1 50% · X 29% · 2 22%  
+1X 78% · X2 50% · 12 71%  
++1.5 71% · +2.5 44% · +3.5 23% · Ambos marcan 44%  
+Marcadores: 1-0 14% · 2-0 12% · 1-1 12% · 2-1 9%  
+🔎 **Claves**  
+• Forma: Tenerife ❌➖➖➖➖ | Ceuta ❌❌❌❌❌  
+• H2H: sin precedentes  
+• Bajas: Tenerife: sin bajas; Ceuta: sin bajas  
+• Favorito de las casas: Tenerife @ 1.83  
+📐 **Estadísticas esperadas**  
+Córners 5.3 - 3.9: total +9.5 44% · Tenerife +5.5 42% · Ceuta +4.5 35%  
+Tarjetas 2.5 - 3.0: total +5.5 47% · Tenerife +2.5 47% · Ceuta +3.5 35%  
+Faltas 15.8 - 12.6: total +26.5 61% · Tenerife +13.5 69% · Ceuta +13.5 38%  
+Tiros a puerta 4.8 - 2.9: total +9.5 25% · Tenerife +5.5 35% · Ceuta +4.5 18%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Ceuta + Más de 13.5 faltas de Tenerife + Menos de 3.5 tarjetas de Ceuta → prob. 36%, cuota justa 2.76 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Ceuta + Más de 13.5 faltas de Tenerife + Menos de 3.5 tarjetas de Ceuta + Menos de 4.5 córners de Ceuta + Menos de 2.5 goles → prob. 14%, cuota justa 6.97  
+🎯 No simulada (con cuota: Menos de 4.5 córners de Ceuta + Menos de 2.5 goles): cuota Unibet aprox. 2.53 (producto de piernas) · prob. 36% · ventaja -10%  
+
+## Tenerife vs Ceuta — 15/11 · 14:00
+
+👀 candidata · 🇪🇸 LaLiga 2 · **Menos de 4.5 córners de Ceuta** @ **1.42** (Unibet) · prob 64% vs casas 64% · ventaja -9%
+
+- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.68 - 0.76)  
+1 50% · X 29% · 2 22%  
+1X 78% · X2 50% · 12 71%  
++1.5 71% · +2.5 44% · +3.5 23% · Ambos marcan 44%  
+Marcadores: 1-0 14% · 2-0 12% · 1-1 12% · 2-1 9%  
+🔎 **Claves**  
+• Forma: Tenerife ❌➖➖➖➖ | Ceuta ❌❌❌❌❌  
+• H2H: sin precedentes  
+• Bajas: Tenerife: sin bajas; Ceuta: sin bajas  
+• Favorito de las casas: Tenerife @ 1.83  
+📐 **Estadísticas esperadas**  
+Córners 5.3 - 3.9: total +9.5 44% · Tenerife +5.5 42% · Ceuta +4.5 35%  
+Tarjetas 2.5 - 3.0: total +5.5 47% · Tenerife +2.5 47% · Ceuta +3.5 35%  
+Faltas 15.8 - 12.6: total +26.5 61% · Tenerife +13.5 69% · Ceuta +13.5 38%  
+Tiros a puerta 4.8 - 2.9: total +9.5 25% · Tenerife +5.5 35% · Ceuta +4.5 18%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Ceuta + Más de 13.5 faltas de Tenerife + Menos de 3.5 tarjetas de Ceuta → prob. 36%, cuota justa 2.76 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Ceuta + Más de 13.5 faltas de Tenerife + Menos de 3.5 tarjetas de Ceuta + Menos de 4.5 córners de Ceuta + Menos de 2.5 goles → prob. 14%, cuota justa 6.97  
+🎯 No simulada (con cuota: Menos de 4.5 córners de Ceuta + Menos de 2.5 goles): cuota Unibet aprox. 2.53 (producto de piernas) · prob. 36% · ventaja -10%  
+
+## Tenerife vs Ceuta — 15/11 · 14:00
+
+👀 candidata · 🇪🇸 LaLiga 2 · **Más de 4.5 córners de Tenerife** @ **1.52** (Unibet) · prob 58% vs casas 60% · ventaja -11%
+
+- ❌ Valor: ventaja -11% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.68 - 0.76)  
+1 50% · X 29% · 2 22%  
+1X 78% · X2 50% · 12 71%  
++1.5 71% · +2.5 44% · +3.5 23% · Ambos marcan 44%  
+Marcadores: 1-0 14% · 2-0 12% · 1-1 12% · 2-1 9%  
+🔎 **Claves**  
+• Forma: Tenerife ❌➖➖➖➖ | Ceuta ❌❌❌❌❌  
+• H2H: sin precedentes  
+• Bajas: Tenerife: sin bajas; Ceuta: sin bajas  
+• Favorito de las casas: Tenerife @ 1.83  
+📐 **Estadísticas esperadas**  
+Córners 5.3 - 3.9: total +9.5 44% · Tenerife +5.5 42% · Ceuta +4.5 35%  
+Tarjetas 2.5 - 3.0: total +5.5 47% · Tenerife +2.5 47% · Ceuta +3.5 35%  
+Faltas 15.8 - 12.6: total +26.5 61% · Tenerife +13.5 69% · Ceuta +13.5 38%  
+Tiros a puerta 4.8 - 2.9: total +9.5 25% · Tenerife +5.5 35% · Ceuta +4.5 18%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Ceuta + Más de 13.5 faltas de Tenerife + Menos de 3.5 tarjetas de Ceuta → prob. 36%, cuota justa 2.76 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Ceuta + Más de 13.5 faltas de Tenerife + Menos de 3.5 tarjetas de Ceuta + Menos de 4.5 córners de Ceuta + Menos de 2.5 goles → prob. 14%, cuota justa 6.97  
+🎯 No simulada (con cuota: Menos de 4.5 córners de Ceuta + Menos de 2.5 goles): cuota Unibet aprox. 2.53 (producto de piernas) · prob. 36% · ventaja -10%  
+
+## Tenerife vs Ceuta — 15/11 · 14:00
+
+👀 candidata · 🇪🇸 LaLiga 2 · **Menos de 5.5 córners de Tenerife** @ **1.72** (Unibet) · prob 55% vs casas 53% · ventaja -5%
+
+- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.68 - 0.76)  
+1 50% · X 29% · 2 22%  
+1X 78% · X2 50% · 12 71%  
++1.5 71% · +2.5 44% · +3.5 23% · Ambos marcan 44%  
+Marcadores: 1-0 14% · 2-0 12% · 1-1 12% · 2-1 9%  
+🔎 **Claves**  
+• Forma: Tenerife ❌➖➖➖➖ | Ceuta ❌❌❌❌❌  
+• H2H: sin precedentes  
+• Bajas: Tenerife: sin bajas; Ceuta: sin bajas  
+• Favorito de las casas: Tenerife @ 1.83  
+📐 **Estadísticas esperadas**  
+Córners 5.3 - 3.9: total +9.5 44% · Tenerife +5.5 42% · Ceuta +4.5 35%  
+Tarjetas 2.5 - 3.0: total +5.5 47% · Tenerife +2.5 47% · Ceuta +3.5 35%  
+Faltas 15.8 - 12.6: total +26.5 61% · Tenerife +13.5 69% · Ceuta +13.5 38%  
+Tiros a puerta 4.8 - 2.9: total +9.5 25% · Tenerife +5.5 35% · Ceuta +4.5 18%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Ceuta + Más de 13.5 faltas de Tenerife + Menos de 3.5 tarjetas de Ceuta → prob. 36%, cuota justa 2.76 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Ceuta + Más de 13.5 faltas de Tenerife + Menos de 3.5 tarjetas de Ceuta + Menos de 4.5 córners de Ceuta + Menos de 2.5 goles → prob. 14%, cuota justa 6.97  
+🎯 No simulada (con cuota: Menos de 4.5 córners de Ceuta + Menos de 2.5 goles): cuota Unibet aprox. 2.53 (producto de piernas) · prob. 36% · ventaja -10%  
+
+## Tenerife vs Ceuta — 15/11 · 14:00
+
+👀 candidata · 🇪🇸 LaLiga 2 · **Más de 7.5 córners** @ **1.33** (Unibet) · prob 69% vs casas 69% · ventaja -9%
+
+- ❌ Valor: ventaja -9% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.68 - 0.76)  
+1 50% · X 29% · 2 22%  
+1X 78% · X2 50% · 12 71%  
++1.5 71% · +2.5 44% · +3.5 23% · Ambos marcan 44%  
+Marcadores: 1-0 14% · 2-0 12% · 1-1 12% · 2-1 9%  
+🔎 **Claves**  
+• Forma: Tenerife ❌➖➖➖➖ | Ceuta ❌❌❌❌❌  
+• H2H: sin precedentes  
+• Bajas: Tenerife: sin bajas; Ceuta: sin bajas  
+• Favorito de las casas: Tenerife @ 1.83  
+📐 **Estadísticas esperadas**  
+Córners 5.3 - 3.9: total +9.5 44% · Tenerife +5.5 42% · Ceuta +4.5 35%  
+Tarjetas 2.5 - 3.0: total +5.5 47% · Tenerife +2.5 47% · Ceuta +3.5 35%  
+Faltas 15.8 - 12.6: total +26.5 61% · Tenerife +13.5 69% · Ceuta +13.5 38%  
+Tiros a puerta 4.8 - 2.9: total +9.5 25% · Tenerife +5.5 35% · Ceuta +4.5 18%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Ceuta + Más de 13.5 faltas de Tenerife + Menos de 3.5 tarjetas de Ceuta → prob. 36%, cuota justa 2.76 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Ceuta + Más de 13.5 faltas de Tenerife + Menos de 3.5 tarjetas de Ceuta + Menos de 4.5 córners de Ceuta + Menos de 2.5 goles → prob. 14%, cuota justa 6.97  
+🎯 No simulada (con cuota: Menos de 4.5 córners de Ceuta + Menos de 2.5 goles): cuota Unibet aprox. 2.53 (producto de piernas) · prob. 36% · ventaja -10%  
+
+## Tenerife vs Ceuta — 15/11 · 14:00
+
+👀 candidata · 🇪🇸 LaLiga 2 · **Menos de 9.5 córners** @ **1.76** (Unibet) · prob 54% vs casas 52% · ventaja -5%
+
+- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.68 - 0.76)  
+1 50% · X 29% · 2 22%  
+1X 78% · X2 50% · 12 71%  
++1.5 71% · +2.5 44% · +3.5 23% · Ambos marcan 44%  
+Marcadores: 1-0 14% · 2-0 12% · 1-1 12% · 2-1 9%  
+🔎 **Claves**  
+• Forma: Tenerife ❌➖➖➖➖ | Ceuta ❌❌❌❌❌  
+• H2H: sin precedentes  
+• Bajas: Tenerife: sin bajas; Ceuta: sin bajas  
+• Favorito de las casas: Tenerife @ 1.83  
+📐 **Estadísticas esperadas**  
+Córners 5.3 - 3.9: total +9.5 44% · Tenerife +5.5 42% · Ceuta +4.5 35%  
+Tarjetas 2.5 - 3.0: total +5.5 47% · Tenerife +2.5 47% · Ceuta +3.5 35%  
+Faltas 15.8 - 12.6: total +26.5 61% · Tenerife +13.5 69% · Ceuta +13.5 38%  
+Tiros a puerta 4.8 - 2.9: total +9.5 25% · Tenerife +5.5 35% · Ceuta +4.5 18%  
+🧩 Crear apuesta: Menos de 4.5 tiros a puerta de Ceuta + Más de 13.5 faltas de Tenerife + Menos de 3.5 tarjetas de Ceuta → prob. 36%, cuota justa 2.76 (solo vale si la casa paga más)  
+🚀 Combinada larga: Menos de 4.5 tiros a puerta de Ceuta + Más de 13.5 faltas de Tenerife + Menos de 3.5 tarjetas de Ceuta + Menos de 4.5 córners de Ceuta + Menos de 2.5 goles → prob. 14%, cuota justa 6.97  
+🎯 No simulada (con cuota: Menos de 4.5 córners de Ceuta + Menos de 2.5 goles): cuota Unibet aprox. 2.53 (producto de piernas) · prob. 36% · ventaja -10%  
 
 ## Granada vs Las Palmas — 15/11 · 16:15
 

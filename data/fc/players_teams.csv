@@ -67767,18 +67767,18 @@ id,tournament_id,club1,club2,ht1,ht2
 2380178,262004,Shanghai Shenhua,Shanghai Port,,
 2380179,262004,Shandong Taishan,Shanghai Shenhua,,
 2380180,262004,Chengdu Rongcheng,Beijing Guoan,,
-2378981,261944,Juventus,Bologna,1,1
-2378982,261944,Napoli,Roma,3,3
-2378983,261944,Roma,Juventus,2,3
-2378984,261944,Bologna,Sassuolo,5,3
-2378985,261944,Sassuolo,Roma,6,2
-2378986,261944,Juventus,Napoli,2,4
-2378987,261944,Napoli,Sassuolo,1,4
-2378988,261944,Roma,Bologna,5,3
-2378989,261944,Bologna,Napoli,2,2
-2378990,261944,Sassuolo,Juventus,4,2
-2378991,261944,Bologna,Juventus,1,0
-2378992,261944,Roma,Napoli,0,0
+2378981,261944,Juventus,Bologna,1.0,1.0
+2378982,261944,Napoli,Roma,3.0,3.0
+2378983,261944,Roma,Juventus,2.0,3.0
+2378984,261944,Bologna,Sassuolo,5.0,3.0
+2378985,261944,Sassuolo,Roma,6.0,2.0
+2378986,261944,Juventus,Napoli,2.0,4.0
+2378987,261944,Napoli,Sassuolo,1.0,4.0
+2378988,261944,Roma,Bologna,5.0,3.0
+2378989,261944,Bologna,Napoli,2.0,2.0
+2378990,261944,Sassuolo,Juventus,4.0,2.0
+2378991,261944,Bologna,Juventus,1.0,0.0
+2378992,261944,Roma,Napoli,0.0,0.0
 2378993,261944,Juventus,Roma,,
 2378994,261944,Sassuolo,Bologna,,
 2378995,261944,Roma,Sassuolo,,
@@ -67787,13 +67787,63 @@ id,tournament_id,club1,club2,ht1,ht2
 2378998,261944,Bologna,Roma,,
 2378999,261944,Napoli,Bologna,,
 2379000,261944,Juventus,Sassuolo,,
-2379641,261986,Paris,Bayern Munchen,1,1
-2379642,261986,Real Madrid,Atleti,5,1
-2379643,261986,Atleti,Paris,2,1
-2379644,261986,Bayern Munchen,Liverpool,2,2
-2379645,261986,Liverpool,Atleti,3,2
-2379646,261986,Paris,Real Madrid,1,3
-2379647,261986,Real Madrid,Liverpool,1,0
-2379648,261986,Atleti,Bayern Munchen,0,0
+2379641,261986,Paris,Bayern Munchen,1.0,1.0
+2379642,261986,Real Madrid,Atleti,5.0,1.0
+2379643,261986,Atleti,Paris,2.0,1.0
+2379644,261986,Bayern Munchen,Liverpool,2.0,2.0
+2379645,261986,Liverpool,Atleti,3.0,2.0
+2379646,261986,Paris,Real Madrid,1.0,3.0
+2379647,261986,Real Madrid,Liverpool,1.0,0.0
+2379648,261986,Atleti,Bayern Munchen,0.0,0.0
 2379649,261986,Bayern Munchen,Real Madrid,,
 2379650,261986,Liverpool,Paris,,
+2379061,261952,Man City,Juventus,0,0
+2379062,261952,Sporting CP,B Dortmund,0,2
+2379063,261952,B Dortmund,Man City,0,2
+2379064,261952,Juventus,Arsenal,0,0
+2379065,261952,Arsenal,B Dortmund,4,0
+2379066,261952,Man City,Sporting CP,1,1
+2379067,261952,Sporting CP,Arsenal,2,1
+2379068,261952,B Dortmund,Juventus,1,3
+2379069,261952,Juventus,Sporting CP,1,0
+2379070,261952,Arsenal,Man City,1,0
+2379071,261952,Juventus,Man City,,
+2379072,261952,B Dortmund,Sporting CP,,
+2379073,261952,Man City,B Dortmund,,
+2379074,261952,Arsenal,Juventus,,
+2379075,261952,B Dortmund,Arsenal,,
+2379076,261952,Sporting CP,Man City,,
+2379077,261952,Arsenal,Sporting CP,,
+2379078,261952,Juventus,B Dortmund,,
+2379079,261952,Sporting CP,Juventus,,
+2379080,261952,Man City,Arsenal,,
+2379301,261981,Man Utd,Newcastle,2,2
+2380353,261981,Nottm Forest,Brighton,2,0
+2379303,261981,Brighton,Man Utd,3,0
+2379304,261981,Newcastle,Aston Villa,2,1
+2379305,261981,Aston Villa,Brighton,1,2
+2380354,261981,Man Utd,Nottm Forest,2,0
+2380355,261981,Nottm Forest,Aston Villa,1,1
+2379308,261981,Brighton,Newcastle,2,0
+2380356,261981,Newcastle,Nottm Forest,2,0
+2379310,261981,Aston Villa,Man Utd,2,3
+2379311,261981,Newcastle,Man Utd,1,1
+2380357,261981,Brighton,Nottm Forest,1,2
+2379313,261981,Man Utd,Brighton,,
+2379314,261981,Aston Villa,Newcastle,,
+2379315,261981,Brighton,Aston Villa,,
+2380358,261981,Nottm Forest,Man Utd,,
+2380359,261981,Aston Villa,Nottm Forest,,
+2379318,261981,Newcastle,Brighton,,
+2380360,261981,Nottm Forest,Newcastle,,
+2379320,261981,Man Utd,Aston Villa,,
+2380181,262006,Chengdu Rongcheng,Shanghai Shenhua,2,1
+2380182,262006,Shandong Taishan,Shanghai Port,1,2
+2380183,262006,Shanghai Port,Chengdu Rongcheng,2,1
+2380184,262006,Shanghai Shenhua,Beijing Guoan,1,1
+2380185,262006,Beijing Guoan,Shanghai Port,1,2
+2380186,262006,Chengdu Rongcheng,Shandong Taishan,3,1
+2380187,262006,Shandong Taishan,Beijing Guoan,1,1
+2380188,262006,Shanghai Port,Shanghai Shenhua,0,1
+2380189,262006,Shanghai Shenhua,Shandong Taishan,,
+2380190,262006,Beijing Guoan,Chengdu Rongcheng,,
