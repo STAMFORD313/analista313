@@ -9867,6 +9867,7 @@ match_id,slug,date,tier,bo,tournament_id,tournament,t1_id,t2_id,team1,team2
 133987,zero-tenacity-dota-vs-angry-birds-12-11-2026,2026-11-12T09:15:00.000+00:00,b,3,6245,Esports Pro Circuit Season 3,18713,25604,Zero Tenacity,angry birds
 133125,potn9ki-vs-team-synapse-12-11-2026,2026-11-12T10:00:00.000+00:00,b,3,6263,Asgard Championship Season 2,15690,25201,potn9ki,Team Synapse
 134121,red-john-vs-puckchamp-12-11-2026,2026-11-12T10:10:00.000+00:00,b,3,6282,European Pro League Season 41,25766,15772,Red John,PuckChamp
+134251,cloud-of-hope-vs-team-nemesis-academy-12-11-2026,2026-11-12T10:10:00.000+00:00,b,3,6284,EPL World Series: Southeast Asia Season 20,25809,25474,Cloud of Hope,Team Nemesis Academy
 133988,old-blood-vs-xipto-esports-dota2-12-11-2026,2026-11-12T12:20:00.000+00:00,b,3,6245,Esports Pro Circuit Season 3,25455,25259,old blood,Xipto Esports
 133126,cyberhero-vs-team-allied-12-11-2026,2026-11-12T13:00:00.000+00:00,b,3,6263,Asgard Championship Season 2,25398,25634,CyberHero,Allied
 133700,aurora-vs-gamerlegion-dota2-12-11-2026,2026-11-12T13:00:00.000+00:00,a,3,6126,1win Essence III,15143,22027,Aurora Gaming,GamerLegion
@@ -9881,10 +9882,13 @@ match_id,slug,date,tier,bo,tournament_id,tournament,t1_id,t2_id,team1,team2
 133708,team-spirit-vs-1win-dota2-12-11-2026,2026-11-12T19:00:00.000+00:00,a,3,6126,1win Essence III,16704,15038,Team Spirit,1w Team
 133151,xipto-esports-dota2-vs-nemiga-gaming-12-11-2026,2026-11-12T20:20:00.000+00:00,b,3,6263,Asgard Championship Season 2,25259,16398,Xipto Esports,Nemiga Gaming
 133990,no-hoodwink-vs-ovea-12-11-2026,2026-11-12T20:20:00.000+00:00,b,3,6245,Esports Pro Circuit Season 3,22135,25453,No Hoodwink,oveA
+134250,cloud-of-hope-vs-execration-13-11-2026,2026-11-13T04:00:00.000+00:00,b,3,6284,EPL World Series: Southeast Asia Season 20,25809,16710,Cloud of Hope,Execration
+134249,yangon-galacticos-vs-ryvex-esports-13-11-2026,2026-11-13T07:00:00.000+00:00,b,3,6284,EPL World Series: Southeast Asia Season 20,15805,25808,Yangon Galacticos,Ryvex Esports
 133991,zero-tenacity-dota-vs-xipto-esports-dota2-13-11-2026,2026-11-13T09:10:00.000+00:00,b,3,6245,Esports Pro Circuit Season 3,25259,18713,Xipto Esports,Zero Tenacity
 133549,playtime-vs-l1ga-team-13-11-2026,2026-11-13T10:00:00.000+00:00,b,3,6127,DreamLeague Division 2 Series 5,22354,15098,PlayTime,HULIGANI
 133701,gamerlegion-dota2-vs-cyberhero-13-11-2026,2026-11-13T10:00:00.000+00:00,a,3,6126,1win Essence III,22027,25398,GamerLegion,CyberHero
 134122,interactive-philippines-vs-red-john-13-11-2026,2026-11-13T10:00:00.000+00:00,b,3,6282,European Pro League Season 41,15612,25766,InterActive Philippines,Red John
+134248,resp-gaming-vs-team-nemesis-academy-13-11-2026,2026-11-13T10:00:00.000+00:00,b,3,6284,EPL World Series: Southeast Asia Season 20,25485,25474,Resp Gaming,Team Nemesis Academy
 133992,potn9ki-vs-ovea-13-11-2026,2026-11-13T12:00:00.000+00:00,b,3,6245,Esports Pro Circuit Season 3,15690,25453,potn9ki,oveA
 133698,parivision-dota2-vs-yellow-submarine-13-11-2026,2026-11-13T13:55:00.000+00:00,a,3,6126,1win Essence III,18604,16486,PARIVISION,Yellow Submarine
 134138,4ikibamboni-vs-spirit-academy-dota2-13-11-2026,2026-11-13T14:00:00.000+00:00,b,3,6282,European Pro League Season 41,24382,21945,4ikibamboni,Team Spirit Academy
@@ -9896,9 +9900,12 @@ match_id,slug,date,tier,bo,tournament_id,tournament,t1_id,t2_id,team1,team2
 134184,old-blood-vs-no-hoodwink-13-11-2026,2026-11-13T18:10:00.000+00:00,b,3,6245,Esports Pro Circuit Season 3,22135,25455,No Hoodwink,old blood
 133152,puckchamp-vs-zero-tenacity-dota-13-11-2026,2026-11-13T19:30:00.000+00:00,b,3,6263,Asgard Championship Season 2,15772,18713,PuckChamp,Zero Tenacity
 133707,team-spirit-vs-froglings-13-11-2026,2026-11-13T20:10:00.000+00:00,a,3,6126,1win Essence III,16704,25665,Team Spirit,Froglings
+134247,ryvex-esports-vs-resp-gaming-14-11-2026,2026-11-14T04:10:00.000+00:00,b,3,6284,EPL World Series: Southeast Asia Season 20,25808,25485,Ryvex Esports,Resp Gaming
+134246,team-nemesis-academy-vs-execration-14-11-2026,2026-11-14T08:00:00.000+00:00,b,3,6284,EPL World Series: Southeast Asia Season 20,25474,16710,Team Nemesis Academy,Execration
 133703,lgd-gaming-dota2-vs-legion_stack-14-11-2026,2026-11-14T09:00:00.000+00:00,a,3,6126,1win Essence III,16711,25401,LGD Gaming,LEGION
 133552,inner-circle-vs-nemiga-gaming-14-11-2026,2026-11-14T10:00:00.000+00:00,b,3,6127,DreamLeague Division 2 Series 5,21641,16398,Inner Circle x Insanity,Nemiga Gaming
 134200,ovea-vs-angry-birds-14-11-2026,2026-11-14T10:10:00.000+00:00,b,3,6245,Esports Pro Circuit Season 3,25453,25604,oveA,angry birds
+134245,yangon-galacticos-vs-cloud-rising-14-11-2026,2026-11-14T10:15:00.000+00:00,b,3,6284,EPL World Series: Southeast Asia Season 20,15805,21656,Yangon Galacticos,Cloud Rising
 134140,spirit-academy-dota2-vs-zero-tenacity-dota-14-11-2026,2026-11-14T10:20:00.000+00:00,b,3,6282,European Pro League Season 41,21945,18713,Team Spirit Academy,Zero Tenacity
 133699,do-konca-vs-yellow-submarine-14-11-2026,2026-11-14T12:00:00.000+00:00,a,3,6126,1win Essence III,25700,16486,DO KONCA,Yellow Submarine
 133117,interactive-philippines-vs-potn9ki-14-11-2026,2026-11-14T13:00:00.000+00:00,b,3,6263,Asgard Championship Season 2,15612,15690,InterActive Philippines,potn9ki

@@ -11789,3 +11789,10 @@ id,date,team1,team2,t1_id,t2_id,s1,s2,winner_id,bo,tier,tournament
 133699,2026-11-14T12:00:00.000+00:00,DO KONCA,Yellow Submarine,25700,16486,2,1,25700.0,3,a,1win Essence III
 134225,2026-11-12T08:10:00.000+00:00,Execration,Cloud Rising,16710,21656,0,2,21656.0,3,b,EPL World Series: Southeast Asia Season 20
 134224,2026-11-12T04:00:00.000+00:00,Resp Gaming,Yangon Galacticos,25485,15805,2,1,25485.0,3,b,EPL World Series: Southeast Asia Season 20
+134245,2026-11-14T10:15:00.000+00:00,Yangon Galacticos,Cloud Rising,15805,21656,2,0,15805.0,3,b,EPL World Series: Southeast Asia Season 20
+134246,2026-11-14T08:00:00.000+00:00,Team Nemesis Academy,Execration,25474,16710,0,2,16710.0,3,b,EPL World Series: Southeast Asia Season 20
+134247,2026-11-14T04:10:00.000+00:00,Ryvex Esports,Resp Gaming,25808,25485,2,1,25808.0,3,b,EPL World Series: Southeast Asia Season 20
+134248,2026-11-13T10:00:00.000+00:00,Resp Gaming,Team Nemesis Academy,25485,25474,2,0,25485.0,3,b,EPL World Series: Southeast Asia Season 20
+134249,2026-11-13T07:00:00.000+00:00,Yangon Galacticos,Ryvex Esports,15805,25808,2,0,15805.0,3,b,EPL World Series: Southeast Asia Season 20
+134250,2026-11-13T04:00:00.000+00:00,Cloud of Hope,Execration,25809,16710,0,2,16710.0,3,b,EPL World Series: Southeast Asia Season 20
+134251,2026-11-12T10:10:00.000+00:00,Cloud of Hope,Team Nemesis Academy,25809,25474,1,2,25474.0,3,b,EPL World Series: Southeast Asia Season 20

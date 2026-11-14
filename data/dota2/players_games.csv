@@ -21603,6 +21603,9 @@ game_id,match_id,slug,date,tier,bo,tournament_id,tournament,t1_id,t2_id,team1,te
 33340,133125,potn9ki-vs-team-synapse-12-11-2026,2026-11-12T10:00:00.000+00:00,b,3,6263,Asgard Championship Season 2,15690,25201,potn9ki,Team Synapse,2,,25201,54,54
 33867,134121,red-john-vs-puckchamp-12-11-2026,2026-11-12T10:10:00.000+00:00,b,3,6282,European Pro League Season 41,25766,15772,Red John,PuckChamp,1,,15772,37,40
 33866,134121,red-john-vs-puckchamp-12-11-2026,2026-11-12T10:10:00.000+00:00,b,3,6282,European Pro League Season 41,25766,15772,Red John,PuckChamp,2,,15772,52,31
+34100,134251,cloud-of-hope-vs-team-nemesis-academy-12-11-2026,2026-11-12T10:10:00.000+00:00,b,3,6284,EPL World Series: Southeast Asia Season 20,25809,25474,Cloud of Hope,Team Nemesis Academy,1,,25809,46,25
+34099,134251,cloud-of-hope-vs-team-nemesis-academy-12-11-2026,2026-11-12T10:10:00.000+00:00,b,3,6284,EPL World Series: Southeast Asia Season 20,25809,25474,Cloud of Hope,Team Nemesis Academy,2,,25474,41,19
+34098,134251,cloud-of-hope-vs-team-nemesis-academy-12-11-2026,2026-11-12T10:10:00.000+00:00,b,3,6284,EPL World Series: Southeast Asia Season 20,25809,25474,Cloud of Hope,Team Nemesis Academy,3,,25474,23,10
 33840,133988,old-blood-vs-xipto-esports-dota2-12-11-2026,2026-11-12T12:20:00.000+00:00,b,3,6245,Esports Pro Circuit Season 3,25455,25259,old blood,Xipto Esports,1,,25259,38,25
 33839,133988,old-blood-vs-xipto-esports-dota2-12-11-2026,2026-11-12T12:20:00.000+00:00,b,3,6245,Esports Pro Circuit Season 3,25455,25259,old blood,Xipto Esports,2,,25259,45,21
 33344,133126,cyberhero-vs-team-allied-12-11-2026,2026-11-12T13:00:00.000+00:00,b,3,6263,Asgard Championship Season 2,25398,25634,CyberHero,Allied,1,,25634,33,51
@@ -21626,6 +21629,10 @@ game_id,match_id,slug,date,tier,bo,tournament_id,tournament,t1_id,t2_id,team1,te
 33418,133151,xipto-esports-dota2-vs-nemiga-gaming-12-11-2026,2026-11-12T20:20:00.000+00:00,b,3,6263,Asgard Championship Season 2,25259,16398,Xipto Esports,Nemiga Gaming,2,,16398,26,26
 33846,133990,no-hoodwink-vs-ovea-12-11-2026,2026-11-12T20:20:00.000+00:00,b,3,6245,Esports Pro Circuit Season 3,22135,25453,No Hoodwink,oveA,1,,25453,25,12
 33845,133990,no-hoodwink-vs-ovea-12-11-2026,2026-11-12T20:20:00.000+00:00,b,3,6245,Esports Pro Circuit Season 3,22135,25453,No Hoodwink,oveA,2,,25453,40,26
+34097,134250,cloud-of-hope-vs-execration-13-11-2026,2026-11-13T04:00:00.000+00:00,b,3,6284,EPL World Series: Southeast Asia Season 20,25809,16710,Cloud of Hope,Execration,1,,16710,36,11
+34096,134250,cloud-of-hope-vs-execration-13-11-2026,2026-11-13T04:00:00.000+00:00,b,3,6284,EPL World Series: Southeast Asia Season 20,25809,16710,Cloud of Hope,Execration,2,,16710,44,26
+34095,134249,yangon-galacticos-vs-ryvex-esports-13-11-2026,2026-11-13T07:00:00.000+00:00,b,3,6284,EPL World Series: Southeast Asia Season 20,15805,25808,Yangon Galacticos,Ryvex Esports,1,,15805,39,15
+34094,134249,yangon-galacticos-vs-ryvex-esports-13-11-2026,2026-11-13T07:00:00.000+00:00,b,3,6284,EPL World Series: Southeast Asia Season 20,15805,25808,Yangon Galacticos,Ryvex Esports,2,,15805,34,12
 33849,133991,zero-tenacity-dota-vs-xipto-esports-dota2-13-11-2026,2026-11-13T09:10:00.000+00:00,b,3,6245,Esports Pro Circuit Season 3,25259,18713,Xipto Esports,Zero Tenacity,1,,25259,21,14
 33593,133549,playtime-vs-l1ga-team-13-11-2026,2026-11-13T10:00:00.000+00:00,b,3,6127,DreamLeague Division 2 Series 5,22354,15098,PlayTime,HULIGANI,1,,15098,27,16
 33766,133701,gamerlegion-dota2-vs-cyberhero-13-11-2026,2026-11-13T10:00:00.000+00:00,a,3,6126,1win Essence III,22027,25398,GamerLegion,CyberHero,1,,22027,50,20
@@ -21633,6 +21640,8 @@ game_id,match_id,slug,date,tier,bo,tournament_id,tournament,t1_id,t2_id,team1,te
 33764,133701,gamerlegion-dota2-vs-cyberhero-13-11-2026,2026-11-13T10:00:00.000+00:00,a,3,6126,1win Essence III,22027,25398,GamerLegion,CyberHero,3,,22027,45,8
 33870,134122,interactive-philippines-vs-red-john-13-11-2026,2026-11-13T10:00:00.000+00:00,b,3,6282,European Pro League Season 41,15612,25766,InterActive Philippines,Red John,1,,15612,39,24
 33869,134122,interactive-philippines-vs-red-john-13-11-2026,2026-11-13T10:00:00.000+00:00,b,3,6282,European Pro League Season 41,15612,25766,InterActive Philippines,Red John,2,,25766,42,33
+34093,134248,resp-gaming-vs-team-nemesis-academy-13-11-2026,2026-11-13T10:00:00.000+00:00,b,3,6284,EPL World Series: Southeast Asia Season 20,25485,25474,Resp Gaming,Team Nemesis Academy,1,,25485,39,19
+34092,134248,resp-gaming-vs-team-nemesis-academy-13-11-2026,2026-11-13T10:00:00.000+00:00,b,3,6284,EPL World Series: Southeast Asia Season 20,25485,25474,Resp Gaming,Team Nemesis Academy,2,,25485,35,18
 33852,133992,potn9ki-vs-ovea-13-11-2026,2026-11-13T12:00:00.000+00:00,b,3,6245,Esports Pro Circuit Season 3,15690,25453,potn9ki,oveA,1,,15690,41,40
 33757,133698,parivision-dota2-vs-yellow-submarine-13-11-2026,2026-11-13T13:55:00.000+00:00,a,3,6126,1win Essence III,18604,16486,PARIVISION,Yellow Submarine,1,,18604,47,18
 33918,134138,4ikibamboni-vs-spirit-academy-dota2-13-11-2026,2026-11-13T14:00:00.000+00:00,b,3,6282,European Pro League Season 41,24382,21945,4ikibamboni,Team Spirit Academy,1,,21945,30,14
@@ -21649,3 +21658,8 @@ game_id,match_id,slug,date,tier,bo,tournament_id,tournament,t1_id,t2_id,team1,te
 33422,133152,puckchamp-vs-zero-tenacity-dota-13-11-2026,2026-11-13T19:30:00.000+00:00,b,3,6263,Asgard Championship Season 2,15772,18713,PuckChamp,Zero Tenacity,1,,15772,44,26
 33421,133152,puckchamp-vs-zero-tenacity-dota-13-11-2026,2026-11-13T19:30:00.000+00:00,b,3,6263,Asgard Championship Season 2,15772,18713,PuckChamp,Zero Tenacity,2,,18713,35,6
 33784,133707,team-spirit-vs-froglings-13-11-2026,2026-11-13T20:10:00.000+00:00,a,3,6126,1win Essence III,16704,25665,Team Spirit,Froglings,1,,25665,32,21
+34091,134247,ryvex-esports-vs-resp-gaming-14-11-2026,2026-11-14T04:10:00.000+00:00,b,3,6284,EPL World Series: Southeast Asia Season 20,25808,25485,Ryvex Esports,Resp Gaming,1,,25808,46,12
+34090,134247,ryvex-esports-vs-resp-gaming-14-11-2026,2026-11-14T04:10:00.000+00:00,b,3,6284,EPL World Series: Southeast Asia Season 20,25808,25485,Ryvex Esports,Resp Gaming,2,,25485,30,17
+34089,134247,ryvex-esports-vs-resp-gaming-14-11-2026,2026-11-14T04:10:00.000+00:00,b,3,6284,EPL World Series: Southeast Asia Season 20,25808,25485,Ryvex Esports,Resp Gaming,3,,25808,19,28
+34088,134246,team-nemesis-academy-vs-execration-14-11-2026,2026-11-14T08:00:00.000+00:00,b,3,6284,EPL World Series: Southeast Asia Season 20,25474,16710,Team Nemesis Academy,Execration,1,,16710,31,6
+34087,134246,team-nemesis-academy-vs-execration-14-11-2026,2026-11-14T08:00:00.000+00:00,b,3,6284,EPL World Series: Southeast Asia Season 20,25474,16710,Team Nemesis Academy,Execration,2,,16710,31,16

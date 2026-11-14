@@ -67966,16 +67966,16 @@ id,tournament_id,club1,club2,ht1,ht2
 2379338,261971,Napoli,Sassuolo,,
 2379339,261971,Juventus,Napoli,,
 2379340,261971,Bologna,Roma,,
-2379939,261937,Chelsea,Tottenham,1,2
-2379940,261937,Arsenal,Liverpool,1,2
-2379941,261937,Liverpool,Chelsea,0,1
-2379942,261937,Tottenham,Man City,3,0
-2379943,261937,Man City,Liverpool,0,0
-2379944,261937,Chelsea,Arsenal,2,1
-2379945,261937,Arsenal,Man City,1,3
-2379946,261937,Liverpool,Tottenham,2,3
-2379947,261937,Tottenham,Arsenal,4,2
-2379948,261937,Man City,Chelsea,3,1
+2379939,261937,Chelsea,Tottenham,1.0,2.0
+2379940,261937,Arsenal,Liverpool,1.0,2.0
+2379941,261937,Liverpool,Chelsea,0.0,1.0
+2379942,261937,Tottenham,Man City,3.0,0.0
+2379943,261937,Man City,Liverpool,0.0,0.0
+2379944,261937,Chelsea,Arsenal,2.0,1.0
+2379945,261937,Arsenal,Man City,1.0,3.0
+2379946,261937,Liverpool,Tottenham,2.0,3.0
+2379947,261937,Tottenham,Arsenal,4.0,2.0
+2379948,261937,Man City,Chelsea,3.0,1.0
 2379949,261937,Tottenham,Chelsea,,
 2379950,261937,Liverpool,Arsenal,,
 2379951,261937,Chelsea,Liverpool,,
@@ -67986,23 +67986,43 @@ id,tournament_id,club1,club2,ht1,ht2
 2379956,261937,Tottenham,Liverpool,,
 2379957,261937,Arsenal,Tottenham,,
 2379958,261937,Chelsea,Man City,,
-2379701,261961,Man City,B Dortmund,1,0
-2379702,261961,Juventus,Arsenal,1,0
-2379703,261961,Arsenal,Man City,2,1
-2379704,261961,B Dortmund,Sporting CP,3,2
-2379705,261961,Sporting CP,Arsenal,3,2
-2379706,261961,Man City,Juventus,2,3
-2379707,261961,Juventus,Sporting CP,1,2
-2379708,261961,Arsenal,B Dortmund,1,1
-2379709,261961,B Dortmund,Juventus,3,4
-2379710,261961,Sporting CP,Man City,4,0
-2379711,261961,B Dortmund,Man City,2,2
-2379712,261961,Arsenal,Juventus,3,2
-2379713,261961,Man City,Arsenal,3,4
-2379714,261961,Sporting CP,B Dortmund,0,2
+2379701,261961,Man City,B Dortmund,1.0,0.0
+2379702,261961,Juventus,Arsenal,1.0,0.0
+2379703,261961,Arsenal,Man City,2.0,1.0
+2379704,261961,B Dortmund,Sporting CP,3.0,2.0
+2379705,261961,Sporting CP,Arsenal,3.0,2.0
+2379706,261961,Man City,Juventus,2.0,3.0
+2379707,261961,Juventus,Sporting CP,1.0,2.0
+2379708,261961,Arsenal,B Dortmund,1.0,1.0
+2379709,261961,B Dortmund,Juventus,3.0,4.0
+2379710,261961,Sporting CP,Man City,4.0,0.0
+2379711,261961,B Dortmund,Man City,2.0,2.0
+2379712,261961,Arsenal,Juventus,3.0,2.0
+2379713,261961,Man City,Arsenal,3.0,4.0
+2379714,261961,Sporting CP,B Dortmund,0.0,2.0
 2379715,261961,Arsenal,Sporting CP,,
 2379716,261961,Juventus,Man City,,
 2379717,261961,Sporting CP,Juventus,,
 2379718,261961,B Dortmund,Arsenal,,
 2379719,261961,Juventus,B Dortmund,,
 2379720,261961,Man City,Sporting CP,,
+2380211,262009,Adelaide United,Melbourne City,4,0
+2380212,262009,Sydney FC,Melbourne Victory,0,0
+2380213,262009,Melbourne Victory,Adelaide United,2,0
+2380214,262009,Melbourne City,Western Sydney Wanderers,2,1
+2380215,262009,Western Sydney Wanderers,Melbourne Victory,1,2
+2380216,262009,Adelaide United,Sydney FC,2,0
+2380217,262009,Sydney FC,Western Sydney Wanderers,1,1
+2380218,262009,Melbourne Victory,Melbourne City,4,0
+2380219,262009,Melbourne City,Sydney FC,,
+2380220,262009,Western Sydney Wanderers,Adelaide United,,
+2380221,262009,Melbourne City,Adelaide United,,
+2380222,262009,Melbourne Victory,Sydney FC,,
+2380223,262009,Adelaide United,Melbourne Victory,,
+2380224,262009,Western Sydney Wanderers,Melbourne City,,
+2380225,262009,Melbourne Victory,Western Sydney Wanderers,,
+2380226,262009,Sydney FC,Adelaide United,,
+2380227,262009,Western Sydney Wanderers,Sydney FC,,
+2380228,262009,Melbourne City,Melbourne Victory,,
+2380229,262009,Sydney FC,Melbourne City,,
+2380230,262009,Adelaide United,Western Sydney Wanderers,,

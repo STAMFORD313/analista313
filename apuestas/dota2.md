@@ -1,6 +1,6 @@
 # 🐉 Dota 2 · apuestas de valor
 
-Actualizado 14/11/2026 17:06 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 14/11/2026 17:38 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Aurora Gaming vs CyberHero — 14/11 · 18:00
 
