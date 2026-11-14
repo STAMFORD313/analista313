@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 14/11/2026 01:06 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 14/11/2026 01:36 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## PRIVATE vs Betclic — 15/11 · 10:00
 
