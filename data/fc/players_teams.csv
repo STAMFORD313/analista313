@@ -67867,10 +67867,10 @@ id,tournament_id,club1,club2,ht1,ht2
 2379158,261970,Real Madrid,Athletic Club,,
 2379159,261970,Atleti,Real Madrid,,
 2379160,261970,Villarreal,Barcelona,,
-2379919,261935,Paris,Real Madrid,1,0
-2379920,261935,Bayern Munchen,Atleti,0,2
-2379921,261935,Atleti,Paris,1,1
-2379922,261935,Real Madrid,Liverpool,2,0
+2379919,261935,Paris,Real Madrid,1.0,0.0
+2379920,261935,Bayern Munchen,Atleti,0.0,2.0
+2379921,261935,Atleti,Paris,1.0,1.0
+2379922,261935,Real Madrid,Liverpool,2.0,0.0
 2379923,261935,Liverpool,Atleti,,
 2379924,261935,Paris,Bayern Munchen,,
 2379925,261935,Bayern Munchen,Liverpool,,
@@ -67887,8 +67887,8 @@ id,tournament_id,club1,club2,ht1,ht2
 2379936,261935,Real Madrid,Atleti,,
 2379937,261935,Bayern Munchen,Real Madrid,,
 2379938,261935,Paris,Liverpool,,
-2379652,261983,Spain,France,0,4
-2379653,261983,France,Germany,2,2
+2379652,261983,Spain,France,0.0,4.0
+2379653,261983,France,Germany,2.0,2.0
 2379655,261983,Argentina,France,,
 2379656,261983,Germany,Spain,,
 2379657,261983,Spain,Argentina,,
@@ -67906,3 +67906,23 @@ id,tournament_id,club1,club2,ht1,ht2
 2379669,261983,Spain,England,,
 2379670,261983,Germany,Argentina,,
 2379651,261983,Germany,England,,
+2380191,262007,PSV,Ajax,1,0
+2380192,262007,Feyenoord,Twente,0,2
+2380193,262007,Twente,PSV,1,1
+2380194,262007,Ajax,AZ Alkmaar,1,1
+2380195,262007,AZ Alkmaar,Twente,1,0
+2380196,262007,PSV,Feyenoord,4,2
+2380197,262007,Feyenoord,AZ Alkmaar,,
+2380198,262007,Twente,Ajax,,
+2380199,262007,Ajax,Feyenoord,,
+2380200,262007,AZ Alkmaar,PSV,,
+2380201,262007,Ajax,PSV,,
+2380202,262007,Twente,Feyenoord,,
+2380203,262007,PSV,Twente,,
+2380204,262007,AZ Alkmaar,Ajax,,
+2380205,262007,Twente,AZ Alkmaar,,
+2380206,262007,Feyenoord,PSV,,
+2380207,262007,AZ Alkmaar,Feyenoord,,
+2380208,262007,Ajax,Twente,,
+2380209,262007,Feyenoord,Ajax,,
+2380210,262007,PSV,AZ Alkmaar,,
