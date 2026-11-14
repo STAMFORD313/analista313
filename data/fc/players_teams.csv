@@ -68126,16 +68126,16 @@ id,tournament_id,club1,club2,ht1,ht2
 2379976,261940,Spain,Argentina,,
 2379977,261940,France,Spain,,
 2379978,261940,England,Germany,,
-2380231,262003,Ecuador,Argentina,1,3
-2380232,262003,Colombia,Brazil,1,0
-2380233,262003,Brazil,Ecuador,0,5
-2380234,262003,Argentina,Uruguay,1,0
-2380235,262003,Uruguay,Brazil,1,2
-2380236,262003,Ecuador,Colombia,4,1
-2380237,262003,Colombia,Uruguay,2,0
-2380238,262003,Brazil,Argentina,1,0
-2380239,262003,Argentina,Colombia,3,2
-2380240,262003,Uruguay,Ecuador,1,2
+2380231,262003,Ecuador,Argentina,1.0,3.0
+2380232,262003,Colombia,Brazil,1.0,0.0
+2380233,262003,Brazil,Ecuador,0.0,5.0
+2380234,262003,Argentina,Uruguay,1.0,0.0
+2380235,262003,Uruguay,Brazil,1.0,2.0
+2380236,262003,Ecuador,Colombia,4.0,1.0
+2380237,262003,Colombia,Uruguay,2.0,0.0
+2380238,262003,Brazil,Argentina,1.0,0.0
+2380239,262003,Argentina,Colombia,3.0,2.0
+2380240,262003,Uruguay,Ecuador,1.0,2.0
 2380241,262003,Argentina,Ecuador,,
 2380242,262003,Brazil,Colombia,,
 2380243,262003,Ecuador,Brazil,,
@@ -68146,3 +68146,63 @@ id,tournament_id,club1,club2,ht1,ht2
 2380248,262003,Argentina,Brazil,,
 2380249,262003,Colombia,Argentina,,
 2380250,262003,Ecuador,Uruguay,,
+2379979,261942,Leipzig,Bayern Munchen,1,1
+2379980,261942,Frankfurt,Stuttgart,0,1
+2379981,261942,Stuttgart,Leipzig,1,1
+2379982,261942,Bayern Munchen,B Dortmund,0,0
+2379983,261942,B Dortmund,Stuttgart,1,3
+2379984,261942,Leipzig,Frankfurt,2,1
+2379985,261942,Frankfurt,B Dortmund,,
+2379986,261942,Stuttgart,Bayern Munchen,,
+2379987,261942,Bayern Munchen,Frankfurt,,
+2379988,261942,B Dortmund,Leipzig,,
+2379989,261942,Bayern Munchen,Leipzig,,
+2379990,261942,Stuttgart,Frankfurt,,
+2379991,261942,Leipzig,Stuttgart,,
+2379992,261942,B Dortmund,Bayern Munchen,,
+2379993,261942,Stuttgart,B Dortmund,,
+2379994,261942,Frankfurt,Leipzig,,
+2379995,261942,B Dortmund,Frankfurt,,
+2379996,261942,Bayern Munchen,Stuttgart,,
+2379997,261942,Frankfurt,Bayern Munchen,,
+2379998,261942,Leipzig,B Dortmund,,
+2379501,261955,Sassuolo,Napoli,2,2
+2379502,261955,Juventus,Roma,1,2
+2379503,261955,Roma,Sassuolo,0,4
+2379504,261955,Napoli,Bologna,2,0
+2379505,261955,Bologna,Roma,,
+2379506,261955,Sassuolo,Juventus,,
+2379507,261955,Juventus,Bologna,,
+2379508,261955,Roma,Napoli,,
+2379509,261955,Napoli,Juventus,,
+2379510,261955,Bologna,Sassuolo,,
+2379511,261955,Napoli,Sassuolo,,
+2379512,261955,Roma,Juventus,,
+2379513,261955,Sassuolo,Roma,,
+2379514,261955,Bologna,Napoli,,
+2379515,261955,Roma,Bologna,,
+2379516,261955,Juventus,Sassuolo,,
+2379517,261955,Bologna,Juventus,,
+2379518,261955,Napoli,Roma,,
+2379519,261955,Juventus,Napoli,,
+2379520,261955,Sassuolo,Bologna,,
+2379361,261973,Aston Villa,Salzburg,1,0
+2379362,261973,Fenerbahce,Roma,0,0
+2379363,261973,Roma,Aston Villa,2,3
+2379364,261973,Salzburg,Porto,3,3
+2379365,261973,Porto,Roma,1,1
+2379366,261973,Aston Villa,Fenerbahce,0,0
+2379367,261973,Fenerbahce,Porto,,
+2379368,261973,Roma,Salzburg,,
+2379369,261973,Salzburg,Fenerbahce,,
+2379370,261973,Porto,Aston Villa,,
+2379371,261973,Salzburg,Aston Villa,,
+2379372,261973,Roma,Fenerbahce,,
+2379373,261973,Aston Villa,Roma,,
+2379374,261973,Porto,Salzburg,,
+2379375,261973,Roma,Porto,,
+2379376,261973,Fenerbahce,Aston Villa,,
+2379377,261973,Porto,Fenerbahce,,
+2379378,261973,Salzburg,Roma,,
+2379379,261973,Fenerbahce,Salzburg,,
+2379380,261973,Aston Villa,Porto,,

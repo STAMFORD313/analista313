@@ -1,6 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 14/11/2026 20:08 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 14/11/2026 20:16 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Oviedo vs Girona — 14/11 · 21:00
 

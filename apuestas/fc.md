@@ -1,44 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 14/11/2026 20:08 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## lzrn vs hit — 14/11 · 20:10
-
-👀 candidata · 🎮⚽ FC 27 · Premier League · **Gana hit** @ **2.35** (Unibet) · prob 50% vs casas 37% · ventaja +18%
-
-- ✅ Valor: ventaja +18% (mín. 13% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 68.090 partidos)  
-Goles esperados: lzrn 2.32 · hit 2.91  
-Ganador: lzrn 30% · empate 20% · hit 50%  
-Total: más de 5.5 goles 42% · menos 58%  
-Hándicap hit: −1.5 34% · −2.5 19%  
-🔎 **Claves**  
-• Forma: lzrn ❌➖❌❌➖ | hit ❌❌✅✅✅  
-• Partidos: lzrn 902 | hit 828  
-• Liga: Premier League  
-• Unibet: 1 2.50 · X 3.00 · 2 2.35 (sin margen 35%/29%/37%) · ventaja +18%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.35 (+18%) · Paf España 2.35 (+18%)  
-
-## Animal vs llulle — 14/11 · 20:10
-
-👀 candidata · 🎮⚽ FC 27 · Premier League · **Gana Animal** @ **1.98** (Unibet) · prob 55% vs casas 44% · ventaja +8%
-
-- ❌ Valor: ventaja +8% (mín. 10% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 68.090 partidos)  
-Goles esperados: Animal 3.35 · llulle 2.71  
-Ganador: Animal 55% · empate 18% · llulle 27%  
-Total: más de 6.5 goles 40% · menos 60%  
-Hándicap Animal: −1.5 36% · −2.5 22%  
-🔎 **Claves**  
-• Forma: Animal ✅✅❌➖➖ | llulle ✅✅➖✅❌  
-• Partidos: Animal 950 | llulle 1000  
-• Liga: Premier League  
-• Unibet: 1 1.98 · X 3.80 · 2 2.60 (sin margen 44%/23%/33%) · ventaja +8%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 1.98 (+8%) · Paf España 1.98 (+8%)  
+Actualizado 14/11/2026 20:16 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## hit vs Glumac — 14/11 · 20:22
 
@@ -59,6 +21,25 @@ Hándicap hit: −1.5 27% · −2.5 15%
 • Unibet: 1 2.63 · X 2.75 · 2 2.40 (sin margen 33%/31%/36%) · ventaja +9%. Sin stake hasta demostrar ROI con estas cuotas.  
 • En España: LeoVegas España 2.63 (+9%) · Paf España 2.63 (+9%)  
 
+## Dicca vs pikalicaaa — 14/11 · 20:31
+
+👀 candidata · 🎮⚽ FC 27 · Serie A · **Gana Dicca** @ **2.12** (Unibet) · prob 51% vs casas 41% · ventaja +8%
+
+- ❌ Valor: ventaja +8% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 68.117 partidos)  
+Goles esperados: Dicca 3.04 · pikalicaaa 2.43  
+Ganador: Dicca 51% · empate 20% · pikalicaaa 30%  
+Total: más de 5.5 goles 47% · menos 53%  
+Hándicap Dicca: −1.5 34% · −2.5 20%  
+🔎 **Claves**  
+• Forma: Dicca ❌✅❌✅❌ | pikalicaaa ❌✅❌✅✅  
+• Partidos: Dicca 786 | pikalicaaa 751  
+• Liga: Serie A  
+• Unibet: 1 2.12 · X 3.50 · 2 2.55 (sin margen 41%/25%/34%) · ventaja +8%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.12 (+8%) · Paf España 2.12 (+8%)  
+
 ## SDI vs berg — 14/11 · 20:34
 
 👀 candidata · 🎮⚽ FC 27 · Copa America · **Gana berg** @ **1.50** (Unibet) · prob 73% vs casas 59% · ventaja +9%
@@ -77,4 +58,42 @@ Hándicap berg: −1.5 57% · −2.5 42%
 • Liga: Copa America  
 • Unibet: 1 3.70 · X 5.10 · 2 1.50 (sin margen 24%/17%/59%) · ventaja +9%. Sin stake hasta demostrar ROI con estas cuotas.  
 • En España: LeoVegas España 1.50 (+9%) · Paf España 1.50 (+9%)  
+
+## cappo vs Lufy — 14/11 · 20:42
+
+👀 candidata · 🎮⚽ FC 27 · Champions League B 2x6 · **Gana Lufy** @ **1.53** (Unibet) · prob 69% vs casas 58% · ventaja +6%
+
+- ❌ Valor: ventaja +6% (mín. 9% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 68.117 partidos)  
+Goles esperados: cappo 3.53 · Lufy 5.28  
+Ganador: cappo 18% · empate 12% · Lufy 69%  
+Total: más de 8.5 goles 52% · menos 48%  
+Hándicap Lufy: −1.5 53% · −2.5 39%  
+🔎 **Claves**  
+• Forma: cappo ❌❌❌❌❌ | Lufy ❌✅❌✅❌  
+• Partidos: cappo 402 | Lufy 818  
+• Liga: Champions League B 2x6  
+• Unibet: 1 3.35 · X 5.50 · 2 1.53 (sin margen 26%/16%/58%) · ventaja +6%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 1.53 (+6%) · Paf España 1.53 (+6%)  
+
+## VD vs Shinobu — 14/11 · 20:46
+
+👀 candidata · 🎮⚽ FC 27 · Copa America · **Gana Shinobu** @ **2.55** (Unibet) · prob 43% vs casas 34% · ventaja +10%
+
+- ❌ Valor: ventaja +10% (mín. 11% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 68.117 partidos)  
+Goles esperados: VD 2.45 · Shinobu 2.68  
+Ganador: VD 36% · empate 21% · Shinobu 43%  
+Total: más de 5.5 goles 41% · menos 59%  
+Hándicap Shinobu: −1.5 28% · −2.5 15%  
+🔎 **Claves**  
+• Forma: VD ✅❌✅❌✅ | Shinobu ✅❌❌➖✅  
+• Partidos: VD 372 | Shinobu 1492  
+• Liga: Copa America  
+• Unibet: 1 1.89 · X 4.40 · 2 2.55 (sin margen 46%/20%/34%) · ventaja +10%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.55 (+10%) · Paf España 2.55 (+10%)  
 
