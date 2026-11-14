@@ -2522,15 +2522,18 @@
     "away": "Power Rangers",
     "txt": "Gana Power Rangers",
     "odds": 2.58,
-    "p": 0.4368979328165374
+    "p": 0.4368979328165374,
+    "ok": false,
+    "por": "ganó PlayTime 2-0",
+    "clv": 0.054
    }
   ],
   "odds": 16.93,
   "p": 0.08585648609686046,
   "stake": 1.0,
-  "estado": "pendiente",
-  "avisada": false,
-  "rev": 1
+  "estado": "perdida",
+  "avisada": true,
+  "rev": 2
  },
  {
   "id": "20261113213330099268",
@@ -2718,7 +2721,9 @@
     "away": "QUINTESSÊNCIA",
     "txt": "Gana QUINTESSÊNCIA",
     "odds": 2.8,
-    "p": 0.4048952380952381
+    "p": 0.4048952380952381,
+    "ok": false,
+    "por": "ganó ex-Yawara 2-0"
    },
    {
     "code": null,
@@ -2744,9 +2749,9 @@
   "odds": 14.63,
   "p": 0.09244207233554284,
   "stake": 1.0,
-  "estado": "pendiente",
-  "avisada": false,
-  "rev": 1
+  "estado": "perdida",
+  "avisada": true,
+  "rev": 2
  },
  {
   "id": "20261114194157805710",
