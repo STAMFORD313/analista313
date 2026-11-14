@@ -1,6 +1,6 @@
 # 🐉 Dota 2 · apuestas de valor
 
-Actualizado 14/11/2026 13:17 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 14/11/2026 13:50 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Team Liquid vs LEGION — 14/11 · 15:00
 

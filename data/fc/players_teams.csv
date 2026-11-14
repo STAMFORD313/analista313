@@ -67767,3 +67767,33 @@ id,tournament_id,club1,club2,ht1,ht2
 2380178,262004,Shanghai Shenhua,Shanghai Port,,
 2380179,262004,Shandong Taishan,Shanghai Shenhua,,
 2380180,262004,Chengdu Rongcheng,Beijing Guoan,,
+2378981,261944,Juventus,Bologna,1,1
+2378982,261944,Napoli,Roma,3,3
+2378983,261944,Roma,Juventus,2,3
+2378984,261944,Bologna,Sassuolo,5,3
+2378985,261944,Sassuolo,Roma,6,2
+2378986,261944,Juventus,Napoli,2,4
+2378987,261944,Napoli,Sassuolo,1,4
+2378988,261944,Roma,Bologna,5,3
+2378989,261944,Bologna,Napoli,2,2
+2378990,261944,Sassuolo,Juventus,4,2
+2378991,261944,Bologna,Juventus,1,0
+2378992,261944,Roma,Napoli,0,0
+2378993,261944,Juventus,Roma,,
+2378994,261944,Sassuolo,Bologna,,
+2378995,261944,Roma,Sassuolo,,
+2378996,261944,Napoli,Juventus,,
+2378997,261944,Sassuolo,Napoli,,
+2378998,261944,Bologna,Roma,,
+2378999,261944,Napoli,Bologna,,
+2379000,261944,Juventus,Sassuolo,,
+2379641,261986,Paris,Bayern Munchen,1,1
+2379642,261986,Real Madrid,Atleti,5,1
+2379643,261986,Atleti,Paris,2,1
+2379644,261986,Bayern Munchen,Liverpool,2,2
+2379645,261986,Liverpool,Atleti,3,2
+2379646,261986,Paris,Real Madrid,1,3
+2379647,261986,Real Madrid,Liverpool,1,0
+2379648,261986,Atleti,Bayern Munchen,0,0
+2379649,261986,Bayern Munchen,Real Madrid,,
+2379650,261986,Liverpool,Paris,,
