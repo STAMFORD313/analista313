@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 14/11/2026 19:07 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 14/11/2026 19:37 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## paiN Academy vs Underworld — 14/11 · 22:00
 

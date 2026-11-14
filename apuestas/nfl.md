@@ -1,6 +1,6 @@
 # 🏈 NFL·NCAA · apuestas de valor
 
-Actualizado 14/11/2026 19:07 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 14/11/2026 19:37 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## TCU Horned Frogs vs Kansas State Wildcats — 14/11 · 20:00
 
