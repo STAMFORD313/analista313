@@ -1,63 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 14/11/2026 20:37 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## cappo vs Lufy — 14/11 · 20:42
-
-👀 candidata · 🎮⚽ FC 27 · Champions League B 2x6 · **Gana Lufy** @ **1.53** (Unibet) · prob 69% vs casas 58% · ventaja +6%
-
-- ❌ Valor: ventaja +6% (mín. 9% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 68.117 partidos)  
-Goles esperados: cappo 3.53 · Lufy 5.28  
-Ganador: cappo 18% · empate 12% · Lufy 69%  
-Total: más de 8.5 goles 52% · menos 48%  
-Hándicap Lufy: −1.5 53% · −2.5 39%  
-🔎 **Claves**  
-• Forma: cappo ❌❌❌❌❌ | Lufy ❌✅❌✅❌  
-• Partidos: cappo 402 | Lufy 818  
-• Liga: Champions League B 2x6  
-• Unibet: 1 3.35 · X 5.50 · 2 1.53 (sin margen 26%/16%/58%) · ventaja +6%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 1.53 (+6%) · Paf España 1.53 (+6%)  
-
-## VD vs Shinobu — 14/11 · 20:46
-
-👀 candidata · 🎮⚽ FC 27 · Copa America · **Gana Shinobu** @ **2.55** (Unibet) · prob 43% vs casas 34% · ventaja +10%
-
-- ❌ Valor: ventaja +10% (mín. 11% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 68.117 partidos)  
-Goles esperados: VD 2.45 · Shinobu 2.68  
-Ganador: VD 36% · empate 21% · Shinobu 43%  
-Total: más de 5.5 goles 41% · menos 59%  
-Hándicap Shinobu: −1.5 28% · −2.5 15%  
-🔎 **Claves**  
-• Forma: VD ✅❌✅❌✅ | Shinobu ✅❌❌➖✅  
-• Partidos: VD 372 | Shinobu 1492  
-• Liga: Copa America  
-• Unibet: 1 1.89 · X 4.40 · 2 2.55 (sin margen 46%/20%/34%) · ventaja +10%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.55 (+10%) · Paf España 2.55 (+10%)  
-
-## berg vs saige — 14/11 · 20:58
-
-👀 candidata · 🎮⚽ FC 27 · Copa America · **Gana berg** @ **2.02** (Unibet) · prob 52% vs casas 43% · ventaja +5%
-
-- ❌ Valor: ventaja +5% (mín. 10% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 68.139 partidos)  
-Goles esperados: berg 3.63 · saige 2.75  
-Ganador: berg 52% · empate 18% · saige 30%  
-Total: más de 6.5 goles 45% · menos 55%  
-Hándicap berg: −1.5 40% · −2.5 25%  
-🔎 **Claves**  
-• Forma: berg ✅✅✅➖✅ | saige ❌➖❌❌➖  
-• Partidos: berg 1033 | saige 509  
-• Liga: Copa America  
-• Unibet: 1 2.02 · X 4.50 · 2 2.32 (sin margen 43%/19%/38%) · ventaja +5%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.02 (+5%) · Paf España 2.02 (+5%)  
+Actualizado 14/11/2026 21:06 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## pikalicaaa vs DEKSON — 14/11 · 21:07
 
@@ -96,4 +39,61 @@ Hándicap Animal: −1.5 35% · −2.5 22%
 • Liga: Premier League  
 • Unibet: 1 2.70 · X 3.55 · 2 2.00 (sin margen 32%/24%/43%) · ventaja +8%. Sin stake hasta demostrar ROI con estas cuotas.  
 • En España: LeoVegas España 2.00 (+8%) · Paf España 2.00 (+8%)  
+
+## hit vs lzrn — 14/11 · 21:10
+
+👀 candidata · 🎮⚽ FC 27 · Premier League · **Gana hit** @ **2.40** (Unibet) · prob 52% vs casas 36% · ventaja +26%
+
+- ✅ Valor: ventaja +26% (mín. 15% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 68.169 partidos)  
+Goles esperados: hit 3.03 · lzrn 2.33  
+Ganador: hit 52% · empate 20% · lzrn 28%  
+Total: más de 5.5 goles 45% · menos 55%  
+Hándicap hit: −1.5 36% · −2.5 21%  
+🔎 **Claves**  
+• Forma: hit ➖➖✅➖✅ | lzrn ➖➖❌✅❌  
+• Partidos: hit 833 | lzrn 906  
+• Liga: Premier League  
+• Unibet: 1 2.40 · X 2.95 · 2 2.48 (sin margen 36%/29%/35%) · ventaja +26%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.40 (+26%) · Paf España 2.40 (+26%)  
+
+## Glumac vs hit — 14/11 · 21:22
+
+👀 candidata · 🎮⚽ FC 27 · Premier League · **Gana hit** @ **2.88** (Unibet) · prob 43% vs casas 30% · ventaja +24%
+
+- ✅ Valor: ventaja +24% (mín. 14% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 68.169 partidos)  
+Goles esperados: Glumac 2.88 · hit 3.02  
+Ganador: Glumac 37% · empate 20% · hit 43%  
+Total: más de 5.5 goles 54% · menos 46%  
+Hándicap hit: −1.5 28% · −2.5 16%  
+🔎 **Claves**  
+• Forma: Glumac ✅➖➖❌➖ | hit ➖➖✅➖✅  
+• Partidos: Glumac 883 | hit 833  
+• Liga: Premier League  
+• Unibet: 1 2.38 · X 2.60 · 2 2.88 (sin margen 36%/33%/30%) · ventaja +24%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.88 (+24%) · Paf España 2.88 (+24%)  
+
+## pikalicaaa vs Dicca — 14/11 · 21:31
+
+👀 candidata · 🎮⚽ FC 27 · Serie A · **Gana Dicca** @ **1.98** (Unibet) · prob 54% vs casas 44% · ventaja +6%
+
+- ❌ Valor: ventaja +6% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 68.169 partidos)  
+Goles esperados: pikalicaaa 2.37 · Dicca 3.13  
+Ganador: pikalicaaa 27% · empate 19% · Dicca 54%  
+Total: más de 5.5 goles 47% · menos 53%  
+Hándicap Dicca: −1.5 37% · −2.5 22%  
+🔎 **Claves**  
+• Forma: pikalicaaa ✅❌❌❌✅ | Dicca ❌➖✅✅✅  
+• Partidos: pikalicaaa 755 | Dicca 790  
+• Liga: Serie A  
+• Unibet: 1 2.63 · X 3.75 · 2 1.98 (sin margen 33%/23%/44%) · ventaja +6%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 1.98 (+6%) · Paf España 1.98 (+6%)  
 

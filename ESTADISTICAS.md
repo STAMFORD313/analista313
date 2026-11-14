@@ -1,6 +1,6 @@
 # Estadísticas del bot
 
-Actualizado: 14/11/2026 20:37
+Actualizado: 14/11/2026 21:06
 
 **Ganadas 11 / perdidas 19** (37 % acierto) · beneficio -17.17 $ · ROI -30.9 % · banca 82.83 $
 
@@ -30,10 +30,10 @@ Si el bot está bien calibrado, el acierto real se parece a la prob. media. Brie
 | Prob. bot | Señales | Prob. media | Acierto real | Brier bot | Brier casas | ROI a 1 u. |
 |---|---|---|---|---|---|---|
 | 0%-40% | 812 | 28% | 18% | 0.160 | 0.153 | -23.0 % |
-| 40%-55% | 1008 | 48% | 42% | 0.244 | 0.239 | -9.6 % |
-| 55%-70% | 761 | 62% | 60% | 0.240 | 0.239 | -5.1 % |
-| 70%-100% | 526 | 78% | 79% | 0.158 | 0.165 | -1.2 % |
-| Total | 3107 | 51% | 47% | 0.206 | 0.204 | -10.6 % |
+| 40%-55% | 1010 | 48% | 42% | 0.244 | 0.239 | -9.6 % |
+| 55%-70% | 762 | 62% | 60% | 0.240 | 0.239 | -5.0 % |
+| 70%-100% | 528 | 78% | 79% | 0.160 | 0.166 | -1.5 % |
+| Total | 3112 | 51% | 47% | 0.207 | 0.204 | -10.6 % |
 
 ### Por deporte y mercado (cada modelo se evalúa por separado)
 
@@ -50,7 +50,7 @@ Si el bot está bien calibrado, el acierto real se parece a la prob. media. Brie
 | ⚽💎⚽ | goles/totales | 10 | 50% | 70% | 0.251 | 0.251 | +46.4 % |
 | 🎮 | ganador | 96 | 59% | 51% | 0.214 | 0.207 | -20.2 % |
 | 🎮 | hándicap | 10 | 44% | 50% | 0.244 | 0.262 | +30.9 % |
-| 🎮⚽ | ganador | 1337 | 42% | 34% | 0.197 | 0.192 | -11.6 % |
+| 🎮⚽ | ganador | 1341 | 42% | 34% | 0.197 | 0.192 | -11.6 % |
 | 🏀 | ganador | 113 | 74% | 73% | 0.149 | 0.150 | -0.7 % |
 | 🏀 | goles/totales | 10 | 51% | 90% | 0.244 | 0.250 | +71.6 % |
 | 🏀 | hándicap | 7 | 50% | 43% | 0.254 | 0.254 | -17.6 % |
@@ -60,7 +60,7 @@ Si el bot está bien calibrado, el acierto real se parece a la prob. media. Brie
 | 🏈 | hándicap | 83 | 50% | 35% | 0.251 | 0.249 | -33.2 % |
 | 🏒 | ganador | 6 | 51% | 50% | 0.258 | 0.267 | +0.1 % |
 | 🏒 | goles/totales | 6 | 54% | 83% | 0.200 | 0.217 | +50.6 % |
-| 🐉 | ganador | 22 | 53% | 55% | 0.169 | 0.183 | +5.0 % |
+| 🐉 | ganador | 23 | 54% | 52% | 0.186 | 0.201 | +0.4 % |
 | 🐉 | goles/totales | 2 | 48% | 50% | 0.424 | 0.422 | +74.0 % |
 | 🐉 | hándicap | 7 | 54% | 29% | 0.188 | 0.183 | -50.9 % |
 | 📱 | ganador | 3 | 52% | 33% | 0.180 | 0.171 | -51.3 % |
