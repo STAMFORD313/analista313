@@ -1,23 +1,23 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 14/11/2026 11:48 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 14/11/2026 12:19 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## flamez vs Frantsuz — 14/11 · 11:54
+## spirtes vs saportj — 14/11 · 12:20
 
-👀 candidata · 🎮⚽ FC 27 · Champions League A 2x6 · **Gana Frantsuz** @ **2.48** (Unibet) · prob 47% vs casas 35% · ventaja +16%
+👀 candidata · 🎮⚽ FC 27 · CSL · **Gana saportj** @ **1.96** (Unibet) · prob 55% vs casas 44% · ventaja +9%
 
-- ✅ Valor: ventaja +16% (mín. 12% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+- ❌ Valor: ventaja +9% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 67.657 partidos)  
-Goles esperados: flamez 4.68 · Frantsuz 5.07  
-Ganador: flamez 38% · empate 15% · Frantsuz 47%  
-Total: más de 9.5 goles 51% · menos 49%  
-Hándicap Frantsuz: −1.5 36% · −2.5 25%  
+📊 **Escenarios** (Poisson por jugador, 67.690 partidos)  
+Goles esperados: spirtes 2.54 · saportj 3.29  
+Ganador: spirtes 26% · empate 19% · saportj 55%  
+Total: más de 5.5 goles 53% · menos 47%  
+Hándicap saportj: −1.5 37% · −2.5 23%  
 🔎 **Claves**  
-• Forma: flamez ✅➖✅✅❌ | Frantsuz ✅➖➖✅✅  
-• Partidos: flamez 790 | Frantsuz 675  
-• Liga: Champions League A 2x6  
-• Unibet: 1 2.00 · X 4.10 · 2 2.48 (sin margen 44%/21%/35%) · ventaja +16%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.48 (+16%) · Paf España 2.48 (+16%)  
+• Forma: spirtes ✅➖✅✅❌ | saportj ❌✅➖➖✅  
+• Partidos: spirtes 1184 | saportj 903  
+• Liga: CSL  
+• Unibet: 1 2.50 · X 4.20 · 2 1.96 (sin margen 35%/21%/44%) · ventaja +9%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 1.96 (+9%) · Paf España 1.96 (+9%)  
 

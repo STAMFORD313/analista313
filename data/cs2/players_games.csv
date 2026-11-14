@@ -34789,3 +34789,6 @@ game_id,match_id,slug,date,tier,bo,tournament_id,tournament,t1_id,t2_id,team1,te
 192368,133204,barca-br-vs-borracheiros-13-11-2026,2026-11-13T22:00:00.000+00:00,b,3,5624,CCT South America 2026 Series 8,25580,24668,BARCA,BORRACHEIROS,1,de_nuke,25580,13.0,7.0
 191066,132598,spirit-vs-mouz-cs2-14-11-2026,2026-11-14T08:00:00.000+00:00,s,3,4224,BLAST Rivals Fall 2026,654,765,Spirit,MOUZ,2,de_ancient,654,13.0,11.0
 191067,132598,spirit-vs-mouz-cs2-14-11-2026,2026-11-14T08:00:00.000+00:00,s,3,4224,BLAST Rivals Fall 2026,654,765,Spirit,MOUZ,1,de_mirage,654,13.0,7.0
+192503,133249,infinite-gaming-vs-team-aces-14-11-2026,2026-11-14T09:00:00.000+00:00,b,3,5628,CCT Europe 2026 Series 13,1024,25564,INFINITE,Aces,1,de_cache,25564,13.0,11.0
+193345,133849,forze-reload-vs-nice-try-cs2-14-11-2026,2026-11-14T09:00:00.000+00:00,b,3,6240,NODWIN Clutch Series 14,10703,25265,FORZE Reload,NT,2,de_mirage,10703,13.0,6.0
+193346,133849,forze-reload-vs-nice-try-cs2-14-11-2026,2026-11-14T09:00:00.000+00:00,b,3,6240,NODWIN Clutch Series 14,10703,25265,FORZE Reload,NT,1,de_cache,10703,13.0,7.0
