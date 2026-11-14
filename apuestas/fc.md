@@ -1,42 +1,23 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 14/11/2026 08:18 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 14/11/2026 08:47 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## v1nn vs RuBIX — 14/11 · 08:24
+## Pavlinho19 vs Lumix — 14/11 · 08:52
 
-👀 candidata · 🎮⚽ FC 27 · Europa League · **Gana RuBIX** @ **2.55** (Unibet) · prob 44% vs casas 34% · ventaja +11%
+👀 candidata · 🎮⚽ FC 27 · Ligue 1 · **Gana Lumix** @ **2.63** (Unibet) · prob 40% vs casas 33% · ventaja +5%
 
-- ✅ Valor: ventaja +11% (mín. 11% con la incertidumbre, máx. 30%)
+- ❌ Valor: ventaja +5% (mín. 10% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 67.480 partidos)  
-Goles esperados: v1nn 3.29 · RuBIX 3.54  
-Ganador: v1nn 38% · empate 18% · RuBIX 44%  
-Total: más de 6.5 goles 52% · menos 48%  
-Hándicap RuBIX: −1.5 31% · −2.5 19%  
+📊 **Escenarios** (Poisson por jugador, 67.509 partidos)  
+Goles esperados: Pavlinho19 2.48 · Lumix 2.40  
+Ganador: Pavlinho19 38% · empate 22% · Lumix 40%  
+Total: más de 4.5 goles 54% · menos 46%  
+Hándicap Pavlinho19: −1.5 25% · −2.5 13%  
 🔎 **Claves**  
-• Forma: v1nn ➖✅❌❌✅ | RuBIX ➖➖✅❌✅  
-• Partidos: v1nn 608 | RuBIX 164  
-• Liga: Europa League  
-• Unibet: 1 1.83 · X 4.90 · 2 2.55 (sin margen 48%/18%/34%) · ventaja +11%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.55 (+11%) · Paf España 2.55 (+11%)  
-
-## flamez vs Frantsuz — 14/11 · 08:24
-
-👀 candidata · 🎮⚽ FC 27 · Premier League 2x6 · **Gana Frantsuz** @ **2.35** (Unibet) · prob 47% vs casas 37% · ventaja +10%
-
-- ❌ Valor: ventaja +10% (mín. 11% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 67.480 partidos)  
-Goles esperados: flamez 4.69 · Frantsuz 4.90  
-Ganador: flamez 39% · empate 15% · Frantsuz 47%  
-Total: más de 9.5 goles 49% · menos 51%  
-Hándicap Frantsuz: −1.5 34% · −2.5 23%  
-🔎 **Claves**  
-• Forma: flamez ✅❌❌❌✅ | Frantsuz ✅✅✅❌✅  
-• Partidos: flamez 782 | Frantsuz 667  
-• Liga: Premier League 2x6  
-• Unibet: 1 2.07 · X 4.10 · 2 2.35 (sin margen 42%/21%/37%) · ventaja +10%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.35 (+10%) · Paf España 2.35 (+10%)  
+• Forma: Pavlinho19 ❌❌✅➖✅ | Lumix ✅➖❌✅✅  
+• Partidos: Pavlinho19 1017 | Lumix 1089  
+• Liga: Ligue 1  
+• Unibet: 1 1.98 · X 3.75 · 2 2.63 (sin margen 44%/23%/33%) · ventaja +5%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.63 (+5%) · Paf España 2.63 (+5%)  
 
