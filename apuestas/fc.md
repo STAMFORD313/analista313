@@ -1,43 +1,25 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 14/11/2026 02:06 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 14/11/2026 02:38 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## Nightxx vs Simaponika — 14/11 · 02:15
+## ssstasonn vs Simaponika — 14/11 · 02:39
 
-👀 candidata · 🎮⚽ FC 27 · Champions League B · **Empate** @ **5.80** (Unibet) · prob 19% vs casas 15% · ventaja +8%
+👀 candidata · 🎮⚽ FC 27 · Champions League B · **Empate** @ **7.50** (Unibet) · prob 14% vs casas 12% · ventaja +7%
 
-- ❌ Valor: ventaja +8% (mín. 10% con la incertidumbre, máx. 30%)
+- ❌ Valor: ventaja +7% (mín. 10% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 67.203 partidos)  
-Goles esperados: Nightxx 3.32 · Simaponika 2.83  
-Ganador: Nightxx 50% · empate 19% · Simaponika 32%  
-Total: más de 6.5 goles 42% · menos 58%  
-Hándicap Nightxx: −1.5 34% · −2.5 20%  
+📊 **Escenarios** (Poisson por jugador, 67.221 partidos)  
+Goles esperados: ssstasonn 2.12 · Simaponika 3.85  
+Ganador: ssstasonn 14% · empate 14% · Simaponika 72%  
+Total: más de 5.5 goles 55% · menos 45%  
+Hándicap Simaponika: −1.5 53% · −2.5 36%  
 🔎 **Claves**  
-• Forma: Nightxx ➖✅❌✅❌ | Simaponika ❌❌✅✅❌  
-• Partidos: Nightxx 930 | Simaponika 1192  
+• Forma: ssstasonn ❌❌❌❌❌ | Simaponika ❌✅✅❌✅  
+• Partidos: ssstasonn 1047 | Simaponika 1193  
 • Liga: Champions League B  
-• Unibet: 1 1.58 · X 5.80 · 2 3.05 (sin margen 56%/15%/29%) · ventaja +8%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 5.80 (+8%) · Paf España 5.80 (+8%)  
-
-## believer vs ssstasonn — 14/11 · 02:27
-
-👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana believer** @ **1.13** (cuota justa (sin casa)) · prob 88% vs casas 88% · ventaja +0%
-
-- ❌ Valor: ventaja +0% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 67.158 partidos)  
-Goles esperados: believer 4.85 · ssstasonn 1.77  
-Ganador: believer 88% · empate 7% · ssstasonn 5%  
-Total: más de 6.5 goles 49% · menos 51%  
-Hándicap believer: −1.5 73% · −2.5 58%  
-🔎 **Claves**  
-• Forma: believer ❌✅✅✅➖ | ssstasonn ❌❌✅❌❌  
-• Partidos: believer 1121 | ssstasonn 1043  
-• Liga: Champions League B  
-• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
+• Unibet: 1 4.80 · X 7.50 · 2 1.23 (sin margen 18%/12%/70%) · ventaja +7%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 7.50 (+7%) · Paf España 7.50 (+7%)  
 
 ## fantazer vs Yerema — 14/11 · 02:40
 
@@ -75,6 +57,25 @@ Hándicap kirman: −1.5 33% · −2.5 19%
 • Liga: Champions League A  
 • Unibet: 1 3.20 · X 4.80 · 2 1.62 (sin margen 27%/18%/54%) · ventaja +60%. Sin stake hasta demostrar ROI con estas cuotas.  
 • En España: LeoVegas España 3.20 (+60%) · Paf España 3.20 (+60%)  
+
+## Kosta vs k0mych — 14/11 · 02:50
+
+👀 candidata · 🎮⚽ FC 27 · LaLiga 2x6 · **Gana k0mych** @ **2.25** (Unibet) · prob 48% vs casas 39% · ventaja +9%
+
+- ❌ Valor: ventaja +9% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 67.221 partidos)  
+Goles esperados: Kosta 4.25 · k0mych 4.71  
+Ganador: Kosta 36% · empate 15% · k0mych 49%  
+Total: más de 8.5 goles 54% · menos 46%  
+Hándicap k0mych: −1.5 36% · −2.5 24%  
+🔎 **Claves**  
+• Forma: Kosta ❌✅❌❌❌ | k0mych ❌❌❌✅❌  
+• Partidos: Kosta 301 | k0mych 381  
+• Liga: LaLiga 2x6  
+• Unibet: 1 1.87 · X 6.40 · 2 2.25 (sin margen 47%/14%/39%) · ventaja +9%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.25 (+9%) · Paf España 2.25 (+9%)  
 
 ## hrk vs Skif — 14/11 · 02:52
 

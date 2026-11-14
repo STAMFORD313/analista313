@@ -1,6 +1,86 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 14/11/2026 02:06 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 14/11/2026 02:38 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+
+## eSuba vs KAMUI — 14/11 · 10:00
+
+👀 candidata · 🎮 CS2 · Fiesta Series 4: Closed Qualifier · **Gana KAMUI** @ **1.75** (Thunderpick) · prob 62% vs casas 53% · ventaja +8%
+
+- ❌ Valor: ventaja +8% (mín. 9% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 76.826 partidos)  
+Mapa: eSuba 36% · Serie BO3: eSuba 30% - 70% KAMUI  
+Casas: eSuba 47% · KAMUI 53%  
+🔎 **Claves**  
+• Elo: eSuba 1504 (95 series) | KAMUI 1657 (13 series)  
+• Forma: eSuba ✅❌❌❌✅ | KAMUI ❌✅✅❌✅  
+• H2H: 1: 1-0  
+• Torneo: Fiesta Series 4: Closed Qualifier (nivel C)  
+• Cambios de plantilla: ninguno  
+🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
+• eSuba gana 2-1: 14% → cuota justa 7.12 · casa 23%  
+• KAMUI gana 2-1: 25% → cuota justa 4.02 · casa 24%  
+
+## eSuba vs KAMUI — 14/11 · 10:00
+
+👀 candidata · 🎮 CS2 · Fiesta Series 4: Closed Qualifier · **KAMUI -1.5 mapas** @ **3.20** (Thunderpick) · prob 38% vs casas 29% · ventaja +20%
+
+- ✅ Valor: ventaja +20% (mín. 12% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮 hándicap» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 76.826 partidos)  
+Mapa: eSuba 36% · Serie BO3: eSuba 30% - 70% KAMUI  
+Casas: eSuba 47% · KAMUI 53%  
+🔎 **Claves**  
+• Elo: eSuba 1504 (95 series) | KAMUI 1657 (13 series)  
+• Forma: eSuba ✅❌❌❌✅ | KAMUI ❌✅✅❌✅  
+• H2H: 1: 1-0  
+• Torneo: Fiesta Series 4: Closed Qualifier (nivel C)  
+• Cambios de plantilla: ninguno  
+🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
+• eSuba gana 2-1: 14% → cuota justa 7.12 · casa 23%  
+• KAMUI gana 2-1: 25% → cuota justa 4.02 · casa 24%  
+
+## Revise vs Aurora Young Blud — 14/11 · 16:00
+
+👀 candidata · 🎮 CS2 · Fiesta Series 4: Closed Qualifier · **Gana Aurora Young Blud** @ **1.92** (Thunderpick) · prob 52% vs casas 48% · ventaja +0%
+
+- ❌ Valor: ventaja +0% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 76.826 partidos)  
+Mapa: Revise 46% · Serie BO3: Revise 44% - 56% Aurora Young Blud  
+Casas: Revise 52% · Aurora Young Blud 48%  
+🔎 **Claves**  
+• Elo: Revise 1523 (41 series) | Aurora Young Blud 1570 (361 series)  
+• Forma: Revise ✅✅❌❌❌ | Aurora Young Blud ✅✅✅❌❌  
+• H2H: sin precedentes  
+• Torneo: Fiesta Series 4: Closed Qualifier (nivel C)  
+• Cambios de plantilla: ninguno  
+🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
+• Revise gana 2-1: 20% → cuota justa 5.02 · casa 23%  
+• Aurora Young Blud gana 2-1: 24% → cuota justa 4.23 · casa 24%  
+
+## Revise vs Aurora Young Blud — 14/11 · 16:00
+
+👀 candidata · 🎮 CS2 · Fiesta Series 4: Closed Qualifier · **Aurora Young Blud -1.5 mapas** @ **3.80** (Thunderpick) · prob 29% vs casas 24% · ventaja +9%
+
+- ❌ Valor: ventaja +9% (mín. 9% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮 hándicap» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 76.826 partidos)  
+Mapa: Revise 46% · Serie BO3: Revise 44% - 56% Aurora Young Blud  
+Casas: Revise 52% · Aurora Young Blud 48%  
+🔎 **Claves**  
+• Elo: Revise 1523 (41 series) | Aurora Young Blud 1570 (361 series)  
+• Forma: Revise ✅✅❌❌❌ | Aurora Young Blud ✅✅✅❌❌  
+• H2H: sin precedentes  
+• Torneo: Fiesta Series 4: Closed Qualifier (nivel C)  
+• Cambios de plantilla: ninguno  
+🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
+• Revise gana 2-1: 20% → cuota justa 5.02 · casa 23%  
+• Aurora Young Blud gana 2-1: 24% → cuota justa 4.23 · casa 24%  
 
 ## PRIVATE vs Betclic — 15/11 · 10:00
 
