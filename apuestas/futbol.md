@@ -1,24 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 14/11/2026 23:46 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Queretaro vs Monterrey — 15/11 · 00:00
-
-👀 candidata · 🇲🇽 Liga MX · **Gana Queretaro** @ **3.60** (Bet365) · prob 27% vs casas 27% · ventaja -2%
-
-- ❌ Valor: ventaja -2% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.20 - 1.46)  
-1 36% · X 27% · 2 37%  
-1X 63% · X2 64% · 12 73%  
-+1.5 75% · +2.5 50% · +3.5 28% · Ambos marcan 54%  
-Marcadores: 1-1 13% · 0-1 10% · 1-2 9% · 1-0 8%  
-🔎 **Claves**  
-• Forma: Queretaro ❌❌❌❌❌ | Monterrey ✅✅❌➖❌  
-• H2H: 28 desde 2012: 6V-5E-17D · 3.0 goles/partido · +2.5 en 68%  
-• Bajas: Queretaro: sin bajas; Monterrey: sin bajas  
-• Favorito de las casas: Monterrey @ 1.96  
+Actualizado 15/11/2026 00:04 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Chapecoense-SC vs Vasco — 15/11 · 00:30
 
