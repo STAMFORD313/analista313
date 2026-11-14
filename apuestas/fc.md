@@ -1,43 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 14/11/2026 03:06 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Joop vs Lunjo — 14/11 · 03:24
-
-👀 candidata · 🎮⚽ FC 27 · World Cup B · **Empate** @ **5.30** (Unibet) · prob 21% vs casas 16% · ventaja +12%
-
-- ✅ Valor: ventaja +12% (mín. 11% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 67.239 partidos)  
-Goles esperados: Joop 2.38 · Lunjo 2.64  
-Ganador: Joop 33% · empate 21% · Lunjo 46%  
-Total: más de 5.5 goles 39% · menos 61%  
-Hándicap Lunjo: −1.5 28% · −2.5 15%  
-🔎 **Claves**  
-• Forma: Joop ❌❌❌❌✅ | Lunjo ✅❌✅❌❌  
-• Partidos: Joop 180 | Lunjo 148  
-• Liga: World Cup B  
-• Unibet: 1 2.00 · X 5.30 · 2 2.20 (sin margen 44%/17%/40%) · ventaja +12%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 5.30 (+12%) · Paf España 5.30 (+12%)  
-
-## ssstasonn vs believer — 14/11 · 03:27
-
-👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana believer** @ **1.13** (cuota justa (sin casa)) · prob 88% vs casas 88% · ventaja +0%
-
-- ❌ Valor: ventaja +0% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 67.180 partidos)  
-Goles esperados: ssstasonn 1.76 · believer 4.87  
-Ganador: ssstasonn 4% · empate 7% · believer 88%  
-Total: más de 6.5 goles 49% · menos 51%  
-Hándicap believer: −1.5 73% · −2.5 58%  
-🔎 **Claves**  
-• Forma: ssstasonn ❌✅❌❌❌ | believer ✅✅➖✅✅  
-• Partidos: ssstasonn 1044 | believer 1123  
-• Liga: Champions League B  
-• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
+Actualizado 14/11/2026 03:37 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Simaponika vs ssstasonn — 14/11 · 03:39
 
@@ -76,4 +39,42 @@ Hándicap Grellz: −1.5 37% · −2.5 23%
 • Liga: Champions League B  
 • Unibet: 1 3.90 · X 5.50 · 2 1.40 (sin margen 22%/16%/62%) · ventaja +16%. Sin stake hasta demostrar ROI con estas cuotas.  
 • En España: LeoVegas España 3.90 (+16%) · Paf España 3.90 (+16%)  
+
+## hrk vs kirman — 14/11 · 03:40
+
+👀 candidata · 🎮⚽ FC 27 · Champions League A · **Gana kirman** @ **2.28** (Unibet) · prob 48% vs casas 38% · ventaja +11%
+
+- ❌ Valor: ventaja +11% (mín. 11% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 67.263 partidos)  
+Goles esperados: hrk 2.71 · kirman 3.09  
+Ganador: hrk 32% · empate 19% · kirman 49%  
+Total: más de 5.5 goles 52% · menos 48%  
+Hándicap kirman: −1.5 31% · −2.5 18%  
+🔎 **Claves**  
+• Forma: hrk ✅✅✅➖✅ | kirman ✅✅❌✅✅  
+• Partidos: hrk 845 | kirman 689  
+• Liga: Champions League A  
+• Unibet: 1 2.02 · X 4.75 · 2 2.28 (sin margen 43%/18%/38%) · ventaja +11%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.28 (+11%) · Paf España 2.28 (+11%)  
+
+## Skif vs hrk — 14/11 · 03:52
+
+👀 candidata · 🎮⚽ FC 27 · Champions League A · **Gana Skif** @ **4.40** (Unibet) · prob 27% vs casas 20% · ventaja +18%
+
+- ✅ Valor: ventaja +18% (mín. 12% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 67.263 partidos)  
+Goles esperados: Skif 2.50 · hrk 3.29  
+Ganador: Skif 27% · empate 19% · hrk 55%  
+Total: más de 5.5 goles 52% · menos 48%  
+Hándicap hrk: −1.5 38% · −2.5 23%  
+🔎 **Claves**  
+• Forma: Skif ❌❌✅❌❌ | hrk ✅✅✅➖✅  
+• Partidos: Skif 662 | hrk 845  
+• Liga: Champions League A  
+• Unibet: 1 4.40 · X 4.25 · 2 1.49 (sin margen 20%/21%/59%) · ventaja +18%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 4.40 (+18%) · Paf España 4.40 (+18%)  
 
