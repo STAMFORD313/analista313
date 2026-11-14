@@ -1,6 +1,6 @@
 # 🏈 NFL·NCAA · apuestas de valor
 
-Actualizado 14/11/2026 03:37 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 14/11/2026 04:07 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Colorado Buffaloes vs Houston Cougars — 14/11 · 04:15
 
