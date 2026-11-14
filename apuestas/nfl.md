@@ -1,6 +1,6 @@
 # 🏈 NFL·NCAA · apuestas de valor
 
-Actualizado 14/11/2026 22:18 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 14/11/2026 22:47 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Louisiana Tech Bulldogs vs Southern Miss Golden Eagles — 14/11 · 23:00
 

@@ -1308,13 +1308,10 @@
   "cfb|2026-11-15|Oklahoma Sooners|Ole Miss Rebels",
   "cbb|2026-11-15|North Dakota Fighting Hawks|Montana Grizzlies",
   "cbb|2026-11-15|Pacific Tigers|Air Force Falcons",
-  "cs2|133922",
-  "cs2|133923",
-  "cs2|133916",
-  "cs2|133927",
-  "cs2|133920",
-  "cs2|133915",
-  "cs2|133919",
+  "wta|2026-11-15|Diletta Cherubini|Alexandra Osborne",
+  "wta|2026-11-15|Martina Trevisan|Samantha Alvarez",
+  "wta|2026-11-15|Zhibek Kulambayeva|Valeriya Strakhova",
+  "wta|2026-11-15|Ariana Geerlings|Camila Rodero Contreras",
   "cs2|133928",
   "cs2|133925",
   "cs2|133921",
@@ -2308,17 +2305,16 @@
   "fc|2379694",
   "fc|2380256",
   "fc|2379693",
-  "wta|2026-11-15|Diletta Cherubini|Alexandra Osborne",
-  "wta|2026-11-15|Martina Trevisan|Samantha Alvarez",
-  "wta|2026-11-15|Zhibek Kulambayeva|Valeriya Strakhova",
-  "wta|2026-11-15|Ariana Geerlings|Camila Rodero Contreras",
   "cs2|133255",
   "cs2|133210",
   "cs2|133936",
   "dota2|134203",
   "fc|2379163",
   "fc|2379700",
-  "fc|2379531"
+  "fc|2379531",
+  "fc|2379174",
+  "fc|2379172",
+  "fc|2379536"
  ],
  "signals": [
   {
@@ -3898,32 +3894,6 @@
    "logged": true
   },
   {
-   "key": "vp|2026-11-11|Fuerte San Francisco|Alianza",
-   "market": "A",
-   "pick": "Alianza",
-   "odds": 2.23,
-   "book": "Smarkets",
-   "p": 0.4904,
-   "implied": 0.4904,
-   "edge": 0.096,
-   "match": "Fuerte San Francisco vs Alianza",
-   "start": "2026-11-11T21:30:00+00:00",
-   "league": "💎 Valor vs Pinnacle · El Salvador - Primera Division",
-   "sport": "⚽💎",
-   "context": "Fuerte San Francisco vs Alianza (El Salvador - Primera Division). Estrategia de valor: Smarkets 2.23 frente a Pinnacle justo 2.04.",
-   "captured": "2026-11-11T18:28",
-   "version": "bfba094",
-   "bajas": "",
-   "considered": true,
-   "ai": {
-    "apostar": true,
-    "motivo": null,
-    "confianza": null,
-    "modelo": null
-   },
-   "placed": false
-  },
-  {
    "market": "t2",
    "team_id": 19340,
    "pick": "Geekay Esports",
@@ -5005,7 +4975,11 @@
    "version": "38e7d57",
    "bajas": "Charlotte 49ers: sin bajas; East Carolina Pirates: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "16-17",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "sph",
@@ -5026,7 +5000,11 @@
    "version": "38e7d57",
    "bajas": "Charlotte 49ers: sin bajas; East Carolina Pirates: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "16-17",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "away",
@@ -5046,7 +5024,11 @@
    "version": "38e7d57",
    "bajas": "Charlotte 49ers: sin bajas; East Carolina Pirates: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "16-17",
+   "close_p": 0.778,
+   "logged": true
   },
   {
    "market": "over",
@@ -5068,7 +5050,11 @@
    "version": "38e7d57",
    "bajas": "Temple Owls: sin bajas; UAB Blazers: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "10-36",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "sph",
@@ -5089,7 +5075,11 @@
    "version": "38e7d57",
    "bajas": "Temple Owls: sin bajas; UAB Blazers: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "10-36",
+   "close_p": 0.4977,
+   "logged": true
   },
   {
    "market": "home",
@@ -5109,7 +5099,11 @@
    "version": "38e7d57",
    "bajas": "Temple Owls: sin bajas; UAB Blazers: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "10-36",
+   "close_p": 0.544,
+   "logged": true
   },
   {
    "market": "over",
@@ -5131,7 +5125,11 @@
    "version": "38e7d57",
    "bajas": "Coastal Carolina Chanticleers: sin bajas; Arkansas State Red Wolves: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "28-21",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "sph",
@@ -5152,7 +5150,11 @@
    "version": "38e7d57",
    "bajas": "Coastal Carolina Chanticleers: sin bajas; Arkansas State Red Wolves: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "28-21",
+   "close_p": 0.484,
+   "logged": true
   },
   {
    "market": "home",
@@ -5172,7 +5174,11 @@
    "version": "38e7d57",
    "bajas": "Coastal Carolina Chanticleers: sin bajas; Arkansas State Red Wolves: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "28-21",
+   "close_p": 0.5081,
+   "logged": true
   },
   {
    "market": "over",
@@ -14742,19 +14748,6 @@
    "start": "2026-11-14T21:30:00+00:00",
    "league": "🇧🇷 Brasileirão",
    "sport": "⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (goles esperados 1.53 - 0.94)",
-    "1 44% · X 28% · 2 28%",
-    "1X 72% · X2 56% · 12 72%",
-    "+1.5 71% · +2.5 45% · +3.5 24% · Ambos marcan 48%",
-    "Marcadores: 1-1 13% · 1-0 12% · 2-0 10% · 2-1 9%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Mirassol ❌✅➖❌✅ | Atletico-MG ✅✅❌❌❌",
-    "• H2H: 3 desde 2025: 0V-1E-2D · 3.0 goles/partido · +2.5 en 67%",
-    "• Bajas: Mirassol: sin bajas; Atletico-MG: 0 fuera, 5 duda",
-    "• Favorito de las casas: Mirassol @ 1.91"
-   ],
    "context": "Mirassol vs Atletico-MG (🇧🇷 Brasileirão). Modelo Poisson con historial desde 2005 y bajas: 1 44% X 28% 2 28%, +2.5 45%, ambos marcan 48%. Forma Mirassol ❌✅➖❌✅, Atletico-MG ✅✅❌❌❌ (✅ victoria ➖ empate ❌ derrota). H2H 3 desde 2025: 0V-1E-2D · 3.0 goles/partido · +2.5 en 67%. Bajas Mirassol: ninguna. Bajas Atletico-MG: Alan Minda F duda 20 PJ; Alan Franco M duda 23 PJ; Victor Hugo M duda 26 PJ; Reinier M duda 24 PJ; Robert Santos F duda 1 PJ.",
    "captured": "2026-11-13T14:05",
    "version": "7702649",
@@ -20658,10 +20651,6 @@
    "start": "2026-11-14T21:30:00+00:00",
    "league": "💎 Valor vs Pinnacle · Brazil - Serie A",
    "sport": "⚽💎",
-   "info": [
-    "💎 <b>Valor contra Pinnacle</b>: Smarkets paga 2.14 y el precio justo de Pinnacle es 2.07 (ventaja +3.1%)",
-    "Backtest 2015-2026 (cuota ≤ 2.5, > 3 %): ROI +11 % ± 3 %, CLV +5 %."
-   ],
    "context": "Mirassol vs Atletico Mineiro (Brazil - Serie A). Estrategia de valor: Smarkets 2.14 frente a Pinnacle justo 2.07.",
    "captured": "2026-11-14T15:36",
    "version": "2300425",
@@ -22027,6 +22016,141 @@
    "result": true,
    "close_p": null,
    "logged": true
+  },
+  {
+   "key": "vp|2026-11-15|Envigado|Union Magdalena",
+   "market": "H",
+   "pick": "Envigado",
+   "odds": 2.31,
+   "book": "Smarkets",
+   "p": 0.4556,
+   "implied": 0.4556,
+   "edge": 0.0538,
+   "match": "Envigado vs Union Magdalena",
+   "start": "2026-11-15T20:50:00+00:00",
+   "league": "💎 Valor vs Pinnacle · Colombia - Primera B",
+   "sport": "⚽💎",
+   "info": [
+    "💎 <b>Valor contra Pinnacle</b>: Smarkets paga 2.31 y el precio justo de Pinnacle es 2.19 (ventaja +5.4%)",
+    "Backtest 2015-2026 (cuota ≤ 2.5, > 3 %): ROI +11 % ± 3 %, CLV +5 %."
+   ],
+   "context": "Envigado vs Union Magdalena (Colombia - Primera B). Estrategia de valor: Smarkets 2.31 frente a Pinnacle justo 2.19.",
+   "captured": "2026-11-14T21:47",
+   "version": "8f321f6",
+   "bajas": "",
+   "considered": true,
+   "ai": {
+    "apostar": true,
+    "motivo": null,
+    "confianza": null,
+    "modelo": null
+   },
+   "placed": false
+  },
+  {
+   "market": "H",
+   "pick": "curuza",
+   "odds": 2.28,
+   "book": "Unibet",
+   "implied": 0.383,
+   "edge": 0.101,
+   "sin_stake": true,
+   "p": 0.483,
+   "key": "fc|2379174",
+   "match": "curuza vs KravaRK",
+   "start": "2026-11-14T22:22:00+00:00",
+   "league": "🎮⚽ FC 27 · Portugal Primera",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 68.260 partidos)",
+    "Goles esperados: curuza 3.02 · KravaRK 2.60",
+    "Ganador: curuza 48% · empate 20% · KravaRK 32%",
+    "Total: más de 5.5 goles 49% · menos 51%",
+    "Hándicap curuza: −1.5 32% · −2.5 18%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: curuza ✅➖➖✅✅ | KravaRK ❌❌✅❌❌",
+    "• Partidos: curuza 859 | KravaRK 422",
+    "• Liga: Portugal Primera",
+    "• Unibet: 1 2.28 · X 4.20 · 2 2.14 (sin margen 38%/21%/41%) · ventaja +10%. Sin stake hasta demostrar ROI con estas cuotas.",
+    "• En España: LeoVegas España 2.28 (+10%) · Paf España 2.28 (+10%)"
+   ],
+   "context": "EA FC Esoccer Battle curuza vs KravaRK (Portugal Primera): goles esperados 3.02-2.60, 1X2 48%/20%/32%. Sin cuotas de casa.",
+   "captured": "2026-11-14T21:47",
+   "version": "8f321f6",
+   "bajas": "",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "H",
+   "pick": "hrk",
+   "odds": 3.1,
+   "book": "Unibet",
+   "implied": 0.283,
+   "edge": 0.08,
+   "sin_stake": true,
+   "p": 0.348,
+   "key": "fc|2379172",
+   "match": "hrk vs kirman",
+   "start": "2026-11-14T22:10:00+00:00",
+   "league": "🎮⚽ FC 27 · Portugal Primera",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 68.260 partidos)",
+    "Goles esperados: hrk 2.73 · kirman 3.03",
+    "Ganador: hrk 35% · empate 20% · kirman 45%",
+    "Total: más de 5.5 goles 52% · menos 48%",
+    "Hándicap kirman: −1.5 30% · −2.5 17%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: hrk ❌✅✅✅❌ | kirman ❌➖❌❌✅",
+    "• Partidos: hrk 860 | kirman 704",
+    "• Liga: Portugal Primera",
+    "• Unibet: 1 3.10 · X 4.90 · 2 1.63 (sin margen 28%/18%/54%) · ventaja +8%. Sin stake hasta demostrar ROI con estas cuotas.",
+    "• En España: LeoVegas España 3.10 (+8%) · Paf España 3.10 (+8%)"
+   ],
+   "context": "EA FC Esoccer Battle hrk vs kirman (Portugal Primera): goles esperados 2.73-3.03, 1X2 35%/20%/45%. Sin cuotas de casa.",
+   "captured": "2026-11-14T21:47",
+   "version": "8f321f6",
+   "bajas": "",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "A",
+   "pick": "believer",
+   "odds": 2.18,
+   "book": "Unibet",
+   "implied": 0.4,
+   "edge": 0.055,
+   "sin_stake": true,
+   "p": 0.484,
+   "key": "fc|2379536",
+   "match": "Grellz vs believer",
+   "start": "2026-11-14T22:19:00+00:00",
+   "league": "🎮⚽ FC 27 · World Cup A",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 68.260 partidos)",
+    "Goles esperados: Grellz 2.62 · believer 3.03",
+    "Ganador: Grellz 32% · empate 20% · believer 48%",
+    "Total: más de 5.5 goles 50% · menos 50%",
+    "Hándicap believer: −1.5 32% · −2.5 18%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Grellz ✅✅✅✅➖ | believer ✅✅✅➖❌",
+    "• Partidos: Grellz 1179 | believer 1144",
+    "• Liga: World Cup A",
+    "• Unibet: 1 2.10 · X 4.70 · 2 2.18 (sin margen 41%/19%/40%) · ventaja +6%. Sin stake hasta demostrar ROI con estas cuotas.",
+    "• En España: LeoVegas España 2.18 (+6%) · Paf España 2.18 (+6%)"
+   ],
+   "context": "EA FC Esoccer Battle Grellz vs believer (World Cup A): goles esperados 2.62-3.03, 1X2 32%/20%/48%. Sin cuotas de casa.",
+   "captured": "2026-11-14T21:47",
+   "version": "8f321f6",
+   "bajas": "",
+   "considered": true,
+   "placed": false
   }
  ],
  "bank": {

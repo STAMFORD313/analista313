@@ -1,24 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 14/11/2026 22:18 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Mirassol vs Atletico-MG — 14/11 · 22:30
-
-👀 candidata · 🇧🇷 Brasileirão · **Empate** @ **3.60** (Bet365) · prob 26% vs casas 26% · ventaja -5%
-
-- ❌ Valor: ventaja -5% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ empate» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.53 - 0.94)  
-1 44% · X 28% · 2 28%  
-1X 72% · X2 56% · 12 72%  
-+1.5 71% · +2.5 45% · +3.5 24% · Ambos marcan 48%  
-Marcadores: 1-1 13% · 1-0 12% · 2-0 10% · 2-1 9%  
-🔎 **Claves**  
-• Forma: Mirassol ❌✅➖❌✅ | Atletico-MG ✅✅❌❌❌  
-• H2H: 3 desde 2025: 0V-1E-2D · 3.0 goles/partido · +2.5 en 67%  
-• Bajas: Mirassol: sin bajas; Atletico-MG: 0 fuera, 5 duda  
-• Favorito de las casas: Mirassol @ 1.91  
+Actualizado 14/11/2026 22:47 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Queretaro vs Monterrey — 15/11 · 00:00
 
