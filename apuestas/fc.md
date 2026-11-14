@@ -1,25 +1,25 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 14/11/2026 10:47 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 14/11/2026 11:17 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## Frantsuz vs v1nniePuh — 14/11 · 11:00
+## goldfer vs flamez — 14/11 · 11:18
 
-👀 candidata · 🎮⚽ FC 27 · Champions League A 2x6 · **Gana Frantsuz** @ **2.20** (Unibet) · prob 50% vs casas 40% · ventaja +10%
+👀 candidata · 🎮⚽ FC 27 · Champions League A 2x6 · **Gana flamez** @ **1.36** (Unibet) · prob 78% vs casas 64% · ventaja +6%
 
-- ❌ Valor: ventaja +10% (mín. 10% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+- ❌ Valor: ventaja +6% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 67.616 partidos)  
-Goles esperados: Frantsuz 5.23 · v1nniePuh 4.67  
-Ganador: Frantsuz 50% · empate 14% · v1nniePuh 36%  
-Total: más de 9.5 goles 53% · menos 47%  
-Hándicap Frantsuz: −1.5 38% · −2.5 26%  
+📊 **Escenarios** (Poisson por jugador, 67.637 partidos)  
+Goles esperados: goldfer 2.54 · flamez 4.77  
+Ganador: goldfer 11% · empate 11% · flamez 78%  
+Total: más de 7.5 goles 45% · menos 55%  
+Hándicap flamez: −1.5 60% · −2.5 45%  
 🔎 **Claves**  
-• Forma: Frantsuz ✅✅✅➖➖ | v1nniePuh ✅✅❌➖✅  
-• Partidos: Frantsuz 673 | v1nniePuh 707  
+• Forma: goldfer ❌❌➖❌❌ | flamez ✅✅➖✅✅  
+• Partidos: goldfer 505 | flamez 789  
 • Liga: Champions League A 2x6  
-• Unibet: 1 2.20 · X 6.00 · 2 1.93 (sin margen 40%/15%/45%) · ventaja +10%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.20 (+10%) · Paf España 2.20 (+10%)  
+• Unibet: 1 4.10 · X 5.60 · 2 1.36 (sin margen 21%/15%/64%) · ventaja +6%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 1.36 (+6%) · Paf España 1.36 (+6%)  
 
 ## Gazi vs dirowe — 14/11 · 11:20
 
