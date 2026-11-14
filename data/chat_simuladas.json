@@ -2685,15 +2685,18 @@
     "away": "Sporting Gijon",
     "txt": "Gana Real Sociedad II",
     "odds": 2.48,
-    "p": 0.4222
+    "p": 0.4222,
+    "ok": false,
+    "por": "empate, acabó 2-2",
+    "clv": 0.052
    }
   ],
   "odds": 10.53,
   "p": 0.11067335478000001,
   "stake": 1.0,
-  "estado": "pendiente",
-  "avisada": false,
-  "rev": 1
+  "estado": "perdida",
+  "avisada": true,
+  "rev": 2
  },
  {
   "id": "20261114164115283526",
