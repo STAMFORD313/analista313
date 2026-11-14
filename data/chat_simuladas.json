@@ -2647,5 +2647,45 @@
   "estado": "pendiente",
   "avisada": false,
   "rev": 1
+ },
+ {
+  "id": "20261114091118893589",
+  "creada": "2026-11-14 09:11:18.893632+00:00",
+  "titulo": "Barrido · Combinada cuota 10.5",
+  "legs": [
+   {
+    "code": null,
+    "start": "2026-11-14 14:30:00+00:00",
+    "home": "Rayo Cantabria",
+    "away": "Gimnastica de Torrelavega",
+    "txt": "Gana Rayo Cantabria",
+    "odds": 1.83,
+    "p": 0.5711
+   },
+   {
+    "code": null,
+    "start": "2026-11-14 15:15:00+00:00",
+    "home": "UDC Txantrea",
+    "away": "Mutilvera",
+    "txt": "Gana Mutilvera",
+    "odds": 2.32,
+    "p": 0.459
+   },
+   {
+    "code": null,
+    "start": "2026-11-14 15:15:00+00:00",
+    "home": "Real Sociedad II",
+    "away": "Sporting Gijon",
+    "txt": "Gana Real Sociedad II",
+    "odds": 2.48,
+    "p": 0.4222
+   }
+  ],
+  "odds": 10.53,
+  "p": 0.11067335478000001,
+  "stake": 1.0,
+  "estado": "pendiente",
+  "avisada": false,
+  "rev": 1
  }
 ]
