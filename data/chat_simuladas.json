@@ -2405,7 +2405,10 @@
     "away": "Memphis Grizzlies",
     "txt": "Gana New Orleans Pelicans",
     "odds": 2.33,
-    "p": 0.44599303290414877
+    "p": 0.44599303290414877,
+    "ok": false,
+    "por": "ganó Memphis Grizzlies 142-111",
+    "clv": -0.068
    },
    {
     "src": "esports:dota2",
@@ -2431,9 +2434,9 @@
   "odds": 13.59,
   "p": 0.09646910535096577,
   "stake": 1.0,
-  "estado": "pendiente",
-  "avisada": false,
-  "rev": 1
+  "estado": "perdida",
+  "avisada": true,
+  "rev": 2
  },
  {
   "id": "20261113130901321708",
