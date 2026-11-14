@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 14/11/2026 00:59 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 14/11/2026 01:06 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## PRIVATE vs Betclic — 15/11 · 10:00
 
@@ -53,4 +53,30 @@ Casas: PRIVATE 39% · Betclic 61%
 🔫 **Kills esperados en la serie** (rango 80 %; mejor que la media de sus 10 últimas en 52.617 casos: log-loss 0.682→0.6557; sin cuotas de props, solo referencia)  
 PRIVATE: z1k4 36 (21-53) · H4SAN4TOR 35 (20-52) · sowalio 33 (19-49) · sh1nejezzz 33 (19-48) · 1eeR 31 (17-45)  
 Betclic: ultimate 36 (21-53) · Ex1st 35 (20-52) · Qlocuu 34 (19-50) · Prism 33 (19-49) · Demho 32 (18-48)  
+
+## BRUTE vs ex-INOX — 15/11 · 13:00
+
+👀 candidata · 🎮 CS2 · NODWIN Clutch Series 14 · **Gana BRUTE** @ **1.62** (Thunderpick) · prob 59% vs casas 57% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 76.826 partidos)  
+Mapa: BRUTE 59% · Serie BO3: BRUTE 61% - 39% ex-INOX  
+Casas: BRUTE 57% · ex-INOX 43%  
+🔎 **Claves**  
+• Elo: BRUTE 1776 (345 series) | ex-INOX 1677 (4 series)  
+• Forma: BRUTE ✅✅❌❌✅ | ex-INOX ❌✅✅✅  
+• H2H: sin precedentes  
+• Torneo: NODWIN Clutch Series 14 (nivel B)  
+• Cambios de plantilla: ninguno  
+• Jugadores en forma (rating últimos 10 mapas): BRUTE: aidKiT 6.3, nbqq 6.2 | ex-INOX: k1slll 6.1, El1an 6.1  
+• Mapas (último año): BRUTE: fuerte cache 88%, débil ancient 25% | ex-INOX: pocos mapas  
+• Química de la plantilla: BRUTE: 40 mapas juntos de media | ex-INOX: 60 mapas juntos de media  
+🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
+• BRUTE gana 2-1: 25% → cuota justa 4.04 · casa 24%  
+• ex-INOX gana 2-1: 17% → cuota justa 5.85 · casa 20%  
+🔫 **Kills esperados en la serie** (rango 80 %; mejor que la media de sus 10 últimas en 52.617 casos: log-loss 0.682→0.6557; sin cuotas de props, solo referencia)  
+BRUTE: aidKiT 38 (22-56) · tAk 36 (21-53) · nbqq 35 (20-51) · ZEDKO 34 (19-50) · oontoma 33 (19-49)  
+ex-INOX: El1an 34 (20-50) · k1slll 33 (19-49) · m1QUSE 32 (19-48) · fin 32 (18-47) · gooddeph 29 (17-44)  
 

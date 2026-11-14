@@ -1,50 +1,6 @@
 # 🏈 NFL·NCAA · apuestas de valor
 
-Actualizado 14/11/2026 00:59 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Pittsburgh Panthers vs Florida State Seminoles — 14/11 · 01:00
-
-👀 candidata · 🏈 NCAA Football · **Más de 53.5 puntos** @ **1.87** (DraftKings) · prob 51% vs casas 51% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 totales» sin pérdidas demostradas
-
-📊 **Escenarios**: total esperado **56.0** puntos · línea 53.5  
-Más 51% · Menos 49%  
-🔎 **Claves**  
-• Forma: Pittsburgh Panthers ✅❌❌❌✅ | Florida State Seminoles ✅❌❌❌✅  
-• H2H: 3 desde 2020: 2-1  
-• Bajas: Pittsburgh Panthers: sin bajas; Florida State Seminoles: sin bajas  
-
-## Pittsburgh Panthers vs Florida State Seminoles — 14/11 · 01:00
-
-👀 candidata · 🏈 NCAA Football · **Pittsburgh Panthers -3.5** @ **1.93** (DraftKings) · prob 50% vs casas 50% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 hándicap» sin pérdidas demostradas
-
-📊 **Escenarios**: Pittsburgh Panthers cubre -3.5 con prob. 50% (casas 50%)  
-🔎 **Claves**  
-• Forma: Pittsburgh Panthers ✅❌❌❌✅ | Florida State Seminoles ✅❌❌❌✅  
-• H2H: 3 desde 2020: 2-1  
-• Bajas: Pittsburgh Panthers: sin bajas; Florida State Seminoles: sin bajas  
-
-## Pittsburgh Panthers vs Florida State Seminoles — 14/11 · 01:00
-
-👀 candidata · 🏈 NCAA Football · **Gana Pittsburgh Panthers** @ **1.59** (DraftKings) · prob 60% vs casas 60% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo con 9.518 partidos y bajas)  
-Gana Pittsburgh Panthers 65% · Gana Florida State Seminoles 35%  
-Casas: Pittsburgh Panthers 60% · Florida State Seminoles 40%  
-Hándicap PITT -3.5 · Total puntos 53.5  
-🔎 **Claves**  
-• Forma: Pittsburgh Panthers ✅❌❌❌✅ | Florida State Seminoles ✅❌❌❌✅  
-• H2H: 3 desde 2020: 2-1  
-• Bajas: Pittsburgh Panthers: sin bajas; Florida State Seminoles: sin bajas  
-• Favorito de las casas: Pittsburgh Panthers @ 1.59  
+Actualizado 14/11/2026 01:06 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## UCLA Bruins vs Illinois Fighting Illini — 14/11 · 03:00
 
@@ -3165,4 +3121,54 @@ Hándicap CIN -3.5 · Total puntos 49.5
 • Favorito de las casas: Cincinnati Bengals @ 1.56  
 🧩 Combinada: Gana Pittsburgh Steelers + Menos de 49.5 puntos → prob. 21%, cuota justa 4.87  
 🎯 No simulada (NFL): cuota DraftKings aprox. 4.73 (producto de piernas) · prob. 21% · ventaja -3%  
+
+## Baltimore Ravens vs Los Angeles Chargers — 17/11 · 02:15
+
+👀 candidata · 🏈 NFL · **Más de 38.5 puntos** @ **1.91** (DraftKings) · prob 50% vs casas 50% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🏈 totales» sin pérdidas demostradas
+
+📊 **Escenarios**: total esperado **40.4** puntos · línea 38.5  
+Más 50% · Menos 50%  
+🔎 **Claves**  
+• Forma: Baltimore Ravens ✅❌❌❌❌ | Los Angeles Chargers ❌❌❌❌❌  
+• H2H: 5 desde 2018: 4-1  
+• Bajas: Baltimore Ravens: 1 fuera, 24 duda (Lamar Jackson); Los Angeles Chargers: 1 fuera, 24 duda (David Njoku)  
+🧩 Combinada: Gana Los Angeles Chargers + Menos de 38.5 puntos → prob. 18%, cuota justa 5.62  
+🎯 No simulada (NFL): cuota DraftKings aprox. 5.44 (producto de piernas) · prob. 18% · ventaja -3%  
+
+## Baltimore Ravens vs Los Angeles Chargers — 17/11 · 02:15
+
+👀 candidata · 🏈 NFL · **Baltimore Ravens -4.5** @ **1.93** (DraftKings) · prob 50% vs casas 50% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🏈 hándicap» sin pérdidas demostradas
+
+📊 **Escenarios**: Baltimore Ravens cubre -4.5 con prob. 50% (casas 50%)  
+🔎 **Claves**  
+• Forma: Baltimore Ravens ✅❌❌❌❌ | Los Angeles Chargers ❌❌❌❌❌  
+• H2H: 5 desde 2018: 4-1  
+• Bajas: Baltimore Ravens: 1 fuera, 24 duda (Lamar Jackson); Los Angeles Chargers: 1 fuera, 24 duda (David Njoku)  
+🧩 Combinada: Gana Los Angeles Chargers + Menos de 38.5 puntos → prob. 18%, cuota justa 5.62  
+🎯 No simulada (NFL): cuota DraftKings aprox. 5.44 (producto de piernas) · prob. 18% · ventaja -3%  
+
+## Baltimore Ravens vs Los Angeles Chargers — 17/11 · 02:15
+
+👀 candidata · 🏈 NFL · **Gana Baltimore Ravens** @ **1.44** (DraftKings) · prob 66% vs casas 66% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🏈 favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo con 3.275 partidos y bajas)  
+Gana Baltimore Ravens 75% · Gana Los Angeles Chargers 25%  
+Casas: Baltimore Ravens 66% · Los Angeles Chargers 34%  
+Hándicap BAL -4.5 · Total puntos 38.5  
+🔎 **Claves**  
+• Forma: Baltimore Ravens ✅❌❌❌❌ | Los Angeles Chargers ❌❌❌❌❌  
+• H2H: 5 desde 2018: 4-1  
+• Bajas: Baltimore Ravens: 1 fuera, 24 duda (Lamar Jackson); Los Angeles Chargers: 1 fuera, 24 duda (David Njoku)  
+• Favorito de las casas: Baltimore Ravens @ 1.44  
+🧩 Combinada: Gana Los Angeles Chargers + Menos de 38.5 puntos → prob. 18%, cuota justa 5.62  
+🎯 No simulada (NFL): cuota DraftKings aprox. 5.44 (producto de piernas) · prob. 18% · ventaja -3%  
 

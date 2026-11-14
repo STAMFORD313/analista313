@@ -1,25 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 14/11/2026 00:59 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Lunjo vs mixes — 14/11 · 01:02
-
-👀 candidata · 🎮⚽ FC 27 · Premier League · **Empate** @ **6.00** (Unibet) · prob 20% vs casas 14% · ventaja +21%
-
-- ✅ Valor: ventaja +21% (mín. 14% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 67.153 partidos)  
-Goles esperados: Lunjo 2.86 · mixes 2.54  
-Ganador: Lunjo 48% · empate 20% · mixes 32%  
-Total: más de 5.5 goles 45% · menos 55%  
-Hándicap Lunjo: −1.5 30% · −2.5 17%  
-🔎 **Claves**  
-• Forma: Lunjo ➖❌❌❌✅ | mixes ❌❌✅❌✅  
-• Partidos: Lunjo 140 | mixes 139  
-• Liga: Premier League  
-• Unibet: 1 1.50 · X 6.00 · 2 3.10 (sin margen 58%/14%/28%) · ventaja +21%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 6.00 (+21%) · Paf España 6.00 (+21%)  
+Actualizado 14/11/2026 01:06 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## hrk vs kirman — 14/11 · 01:20
 
@@ -58,4 +39,58 @@ Hándicap hrk: −1.5 39% · −2.5 24%
 • Liga: World Cup A  
 • Unibet: 1 5.10 · X 4.10 · 2 1.40 (sin margen 17%/21%/62%) · ventaja +26%. Sin stake hasta demostrar ROI con estas cuotas.  
 • En España: LeoVegas España 5.10 (+26%) · Paf España 5.10 (+26%)  
+
+## believer vs ssstasonn — 14/11 · 02:27
+
+👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana believer** @ **1.13** (cuota justa (sin casa)) · prob 88% vs casas 88% · ventaja +0%
+
+- ❌ Valor: ventaja +0% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 67.158 partidos)  
+Goles esperados: believer 4.85 · ssstasonn 1.77  
+Ganador: believer 88% · empate 7% · ssstasonn 5%  
+Total: más de 6.5 goles 49% · menos 51%  
+Hándicap believer: −1.5 73% · −2.5 58%  
+🔎 **Claves**  
+• Forma: believer ❌✅✅✅➖ | ssstasonn ❌❌✅❌❌  
+• Partidos: believer 1121 | ssstasonn 1043  
+• Liga: Champions League B  
+• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
+
+## fantazer vs Yerema — 14/11 · 02:40
+
+👀 candidata · 🎮⚽ FC 27 · Volta International A · **Gana fantazer** @ **1.20** (cuota justa (sin casa)) · prob 83% vs casas 83% · ventaja +0%
+
+- ❌ Valor: ventaja +0% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 67.158 partidos)  
+Goles esperados: fantazer 4.38 · Yerema 1.89  
+Ganador: fantazer 83% · empate 10% · Yerema 7%  
+Total: más de 6.5 goles 44% · menos 56%  
+Hándicap fantazer: −1.5 65% · −2.5 49%  
+🔎 **Claves**  
+• Forma: fantazer ✅✅✅✅✅ | Yerema ❌❌❌✅❌  
+• Partidos: fantazer 1673 | Yerema 649  
+• Liga: Volta International A  
+• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
+
+## ssstasonn vs Grellz — 14/11 · 03:03
+
+👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana Grellz** @ **1.15** (cuota justa (sin casa)) · prob 87% vs casas 87% · ventaja +0%
+
+- ❌ Valor: ventaja +0% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 67.158 partidos)  
+Goles esperados: ssstasonn 2.07 · Grellz 5.21  
+Ganador: ssstasonn 5% · empate 7% · Grellz 87%  
+Total: más de 7.5 goles 44% · menos 56%  
+Hándicap Grellz: −1.5 73% · −2.5 58%  
+🔎 **Claves**  
+• Forma: ssstasonn ❌❌✅❌❌ | Grellz ✅❌✅✅✅  
+• Partidos: ssstasonn 1043 | Grellz 1156  
+• Liga: Champions League B  
+• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
 
