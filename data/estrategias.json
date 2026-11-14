@@ -1,6 +1,6 @@
 {
- "fecha": "2026-11-14 08:58",
- "n": 3060,
+ "fecha": "2026-11-14 09:18",
+ "n": 3061,
  "rentables": [
   {
    "segmento": "deporte=🎮⚽ · cuota=≤1.5",
@@ -307,11 +307,11 @@
   },
   {
    "segmento": "mercado=1X2",
-   "n": 1500,
-   "roi": -0.1143,
-   "se": 0.037,
+   "n": 1501,
+   "roi": -0.1148,
+   "se": 0.0369,
    "roi_antigua": -0.1135,
-   "roi_nueva": -0.1149,
+   "roi_nueva": -0.116,
    "clv": 0.0171,
    "clv_se": 0.0065,
    "clv_n": 200
@@ -370,19 +370,19 @@
   },
   {
    "segmento": "deporte=🎮⚽",
-   "n": 1300,
-   "roi": -0.1125,
+   "n": 1301,
+   "roi": -0.1132,
    "se": 0.041,
    "roi_antigua": -0.114,
-   "roi_nueva": -0.1111
+   "roi_nueva": -0.1124
   },
   {
    "segmento": "deporte=🎮⚽ · mercado=1X2",
-   "n": 1300,
-   "roi": -0.1125,
+   "n": 1301,
+   "roi": -0.1132,
    "se": 0.041,
    "roi_antigua": -0.114,
-   "roi_nueva": -0.1111
+   "roi_nueva": -0.1124
   },
   {
    "segmento": "deporte=🎮⚽ · mercado=1X2 · ventaja=>15%",
