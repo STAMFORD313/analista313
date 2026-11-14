@@ -1,50 +1,6 @@
 # 🏈 NFL·NCAA · apuestas de valor
 
-Actualizado 14/11/2026 04:07 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Colorado Buffaloes vs Houston Cougars — 14/11 · 04:15
-
-👀 candidata · 🏈 NCAA Football · **Más de 51.5 puntos** @ **1.98** (DraftKings) · prob 48% vs casas 48% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 totales» sin pérdidas demostradas
-
-📊 **Escenarios**: total esperado **53.5** puntos · línea 51.5  
-Más 48% · Menos 52%  
-🔎 **Claves**  
-• Forma: Colorado Buffaloes ❌❌❌✅❌ | Houston Cougars ✅✅✅❌✅  
-• H2H: 1 desde 2025: 0-1  
-• Bajas: Colorado Buffaloes: sin bajas; Houston Cougars: sin bajas  
-
-## Colorado Buffaloes vs Houston Cougars — 14/11 · 04:15
-
-👀 candidata · 🏈 NCAA Football · **Colorado Buffaloes +9.5** @ **1.93** (DraftKings) · prob 50% vs casas 50% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 hándicap» sin pérdidas demostradas
-
-📊 **Escenarios**: Colorado Buffaloes cubre +9.5 con prob. 50% (casas 50%)  
-🔎 **Claves**  
-• Forma: Colorado Buffaloes ❌❌❌✅❌ | Houston Cougars ✅✅✅❌✅  
-• H2H: 1 desde 2025: 0-1  
-• Bajas: Colorado Buffaloes: sin bajas; Houston Cougars: sin bajas  
-
-## Colorado Buffaloes vs Houston Cougars — 14/11 · 04:15
-
-👀 candidata · 🏈 NCAA Football · **Gana Houston Cougars** @ **1.26** (DraftKings) · prob 76% vs casas 76% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo con 9.518 partidos y bajas)  
-Gana Colorado Buffaloes 15% · Gana Houston Cougars 85%  
-Casas: Colorado Buffaloes 24% · Houston Cougars 76%  
-Hándicap HOU -9.5 · Total puntos 51.5  
-🔎 **Claves**  
-• Forma: Colorado Buffaloes ❌❌❌✅❌ | Houston Cougars ✅✅✅❌✅  
-• H2H: 1 desde 2025: 0-1  
-• Bajas: Colorado Buffaloes: sin bajas; Houston Cougars: sin bajas  
-• Favorito de las casas: Houston Cougars @ 1.26  
+Actualizado 14/11/2026 04:37 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Miami Hurricanes vs Duke Blue Devils — 14/11 · 18:00
 
