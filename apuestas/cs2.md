@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 14/11/2026 07:08 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 14/11/2026 07:26 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## eSuba vs KAMUI — 14/11 · 10:00
 
