@@ -1,6 +1,6 @@
 # 🏀 NBA·NCAA · apuestas de valor
 
-Actualizado 14/11/2026 19:37 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 14/11/2026 20:08 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## North Dakota Fighting Hawks vs Montana Grizzlies — 15/11 · 03:00
 
