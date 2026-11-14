@@ -2747,5 +2747,47 @@
   "estado": "pendiente",
   "avisada": false,
   "rev": 1
+ },
+ {
+  "id": "20261114194157805710",
+  "creada": "2026-11-14 19:41:57.805743+00:00",
+  "titulo": "Barrido · Combinada cuota 11.1",
+  "legs": [
+   {
+    "src": "espn:nhl",
+    "side": "H",
+    "code": null,
+    "start": "2026-11-15 00:00:00+00:00",
+    "home": "Washington Capitals",
+    "away": "New Jersey Devils",
+    "txt": "Gana Washington Capitals",
+    "odds": 2.14,
+    "p": 0.5000499999999999
+   },
+   {
+    "code": null,
+    "start": "2026-11-15 10:30:00+00:00",
+    "home": "Siello",
+    "away": "Real Aranjuez",
+    "txt": "Gana Real Aranjuez",
+    "odds": 2.07,
+    "p": 0.5014
+   },
+   {
+    "code": null,
+    "start": "2026-11-15 11:00:00+00:00",
+    "home": "Union Adarve",
+    "away": "Las Rozas",
+    "txt": "Gana Union Adarve",
+    "odds": 2.5,
+    "p": 0.4251
+   }
+  ],
+  "odds": 11.07,
+  "p": 0.10658322725699995,
+  "stake": 1.0,
+  "estado": "pendiente",
+  "avisada": false,
+  "rev": 1
  }
 ]
