@@ -1,28 +1,6 @@
 # 🐉 Dota 2 · apuestas de valor
 
-Actualizado 14/11/2026 17:38 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Aurora Gaming vs CyberHero — 14/11 · 18:00
-
-👀 candidata · 🐉 Dota 2 · 1win Essence III · **Gana Aurora Gaming** @ **1.13** (Thunderpick) · prob 78% vs casas 82% · ventaja -12%
-
-- ❌ Valor: ventaja -12% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🐉 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 11.766 partidos)  
-Mapa: Aurora Gaming 73% · Serie BO3: Aurora Gaming 74% - 26% CyberHero  
-Casas: Aurora Gaming 82% · CyberHero 18%  
-🔎 **Claves**  
-• Elo: Aurora Gaming 2050 (322 series) | CyberHero 1822 (33 series)  
-• Forma: Aurora Gaming ✅❌✅❌✅ | CyberHero ✅❌✅✅❌  
-• H2H: sin precedentes  
-• Torneo: 1win Essence III (nivel A)  
-• Cambios de plantilla: ninguno  
-• Jugadores en forma (KDA últimas 10 partidas): Aurora Gaming: Mikoto 4.1, skiter 3.9 | CyberHero: bb3px 5.0, Ainkrad 4.9  
-• Química de la plantilla: Aurora Gaming: 194 partidas juntos de media | CyberHero: 159 partidas juntos de media  
-🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
-• Aurora Gaming gana 2-1: 24% → cuota justa 4.16 · casa 25%  
-• CyberHero gana 2-1: 9% → cuota justa 11.14 · casa 8%  
+Actualizado 14/11/2026 18:07 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## 1w Team vs Froglings — 14/11 · 21:00
 

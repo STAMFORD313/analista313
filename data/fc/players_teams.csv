@@ -68006,14 +68006,14 @@ id,tournament_id,club1,club2,ht1,ht2
 2379718,261961,B Dortmund,Arsenal,,
 2379719,261961,Juventus,B Dortmund,,
 2379720,261961,Man City,Sporting CP,,
-2380211,262009,Adelaide United,Melbourne City,4,0
-2380212,262009,Sydney FC,Melbourne Victory,0,0
-2380213,262009,Melbourne Victory,Adelaide United,2,0
-2380214,262009,Melbourne City,Western Sydney Wanderers,2,1
-2380215,262009,Western Sydney Wanderers,Melbourne Victory,1,2
-2380216,262009,Adelaide United,Sydney FC,2,0
-2380217,262009,Sydney FC,Western Sydney Wanderers,1,1
-2380218,262009,Melbourne Victory,Melbourne City,4,0
+2380211,262009,Adelaide United,Melbourne City,4.0,0.0
+2380212,262009,Sydney FC,Melbourne Victory,0.0,0.0
+2380213,262009,Melbourne Victory,Adelaide United,2.0,0.0
+2380214,262009,Melbourne City,Western Sydney Wanderers,2.0,1.0
+2380215,262009,Western Sydney Wanderers,Melbourne Victory,1.0,2.0
+2380216,262009,Adelaide United,Sydney FC,2.0,0.0
+2380217,262009,Sydney FC,Western Sydney Wanderers,1.0,1.0
+2380218,262009,Melbourne Victory,Melbourne City,4.0,0.0
 2380219,262009,Melbourne City,Sydney FC,,
 2380220,262009,Western Sydney Wanderers,Adelaide United,,
 2380221,262009,Melbourne City,Adelaide United,,
@@ -68026,3 +68026,23 @@ id,tournament_id,club1,club2,ht1,ht2
 2380228,262009,Melbourne City,Melbourne Victory,,
 2380229,262009,Sydney FC,Melbourne City,,
 2380230,262009,Adelaide United,Western Sydney Wanderers,,
+2379341,261972,Portugal,Belgium,0,0
+2379342,261972,Morocco,Netherlands,2,0
+2379343,261972,Netherlands,Portugal,2,1
+2379344,261972,Belgium,Germany,1,0
+2379345,261972,Germany,Netherlands,1,2
+2379346,261972,Portugal,Morocco,1,2
+2379347,261972,Morocco,Germany,2,1
+2379348,261972,Netherlands,Belgium,2,1
+2379349,261972,Belgium,Morocco,,
+2379350,261972,Germany,Portugal,,
+2379351,261972,Belgium,Portugal,,
+2379352,261972,Netherlands,Morocco,,
+2379353,261972,Portugal,Netherlands,,
+2379354,261972,Germany,Belgium,,
+2379355,261972,Netherlands,Germany,,
+2379356,261972,Morocco,Portugal,,
+2379357,261972,Germany,Morocco,,
+2379358,261972,Belgium,Netherlands,,
+2379359,261972,Morocco,Belgium,,
+2379360,261972,Portugal,Germany,,

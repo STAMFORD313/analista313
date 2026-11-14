@@ -1,6 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 14/11/2026 17:38 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 14/11/2026 18:07 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Almeria vs Andorra — 14/11 · 18:30
 
