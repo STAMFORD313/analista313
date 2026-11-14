@@ -1,50 +1,6 @@
 # 🏈 NFL·NCAA · apuestas de valor
 
-Actualizado 14/11/2026 22:47 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Louisiana Tech Bulldogs vs Southern Miss Golden Eagles — 14/11 · 23:00
-
-👀 candidata · 🏈 NCAA Football · **Más de 55.5 puntos** @ **1.87** (DraftKings) · prob 51% vs casas 51% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 totales» sin pérdidas demostradas
-
-📊 **Escenarios**: total esperado **57.8** puntos · línea 55.5  
-Más 51% · Menos 49%  
-🔎 **Claves**  
-• Forma: Louisiana Tech Bulldogs ✅✅✅✅✅ | Southern Miss Golden Eagles ❌❌✅✅❌  
-• H2H: 2 desde 2021: 1-1  
-• Bajas: Louisiana Tech Bulldogs: sin bajas; Southern Miss Golden Eagles: sin bajas  
-
-## Louisiana Tech Bulldogs vs Southern Miss Golden Eagles — 14/11 · 23:00
-
-👀 candidata · 🏈 NCAA Football · **Louisiana Tech Bulldogs -17.5** @ **1.93** (DraftKings) · prob 50% vs casas 50% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 hándicap» sin pérdidas demostradas
-
-📊 **Escenarios**: Louisiana Tech Bulldogs cubre -17.5 con prob. 50% (casas 50%)  
-🔎 **Claves**  
-• Forma: Louisiana Tech Bulldogs ✅✅✅✅✅ | Southern Miss Golden Eagles ❌❌✅✅❌  
-• H2H: 2 desde 2021: 1-1  
-• Bajas: Louisiana Tech Bulldogs: sin bajas; Southern Miss Golden Eagles: sin bajas  
-
-## Louisiana Tech Bulldogs vs Southern Miss Golden Eagles — 14/11 · 23:00
-
-👀 candidata · 🏈 NCAA Football · **Gana Louisiana Tech Bulldogs** @ **1.10** (DraftKings) · prob 87% vs casas 87% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo con 9.521 partidos y bajas)  
-Gana Louisiana Tech Bulldogs 87% · Gana Southern Miss Golden Eagles 13%  
-Casas: Louisiana Tech Bulldogs 87% · Southern Miss Golden Eagles 13%  
-Hándicap LT -17.5 · Total puntos 55.5  
-🔎 **Claves**  
-• Forma: Louisiana Tech Bulldogs ✅✅✅✅✅ | Southern Miss Golden Eagles ❌❌✅✅❌  
-• H2H: 2 desde 2021: 1-1  
-• Bajas: Louisiana Tech Bulldogs: sin bajas; Southern Miss Golden Eagles: sin bajas  
-• Favorito de las casas: Louisiana Tech Bulldogs @ 1.10  
+Actualizado 14/11/2026 23:16 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## West Virginia Mountaineers vs Kansas Jayhawks — 14/11 · 23:30
 

@@ -1312,9 +1312,6 @@
   "wta|2026-11-15|Martina Trevisan|Samantha Alvarez",
   "wta|2026-11-15|Zhibek Kulambayeva|Valeriya Strakhova",
   "wta|2026-11-15|Ariana Geerlings|Camila Rodero Contreras",
-  "cs2|133928",
-  "cs2|133925",
-  "cs2|133921",
   "cs2|133917",
   "fc|2370444",
   "fc|2371492",
@@ -2314,7 +2311,12 @@
   "fc|2379531",
   "fc|2379174",
   "fc|2379172",
-  "fc|2379536"
+  "fc|2379536",
+  "cs2|133392",
+  "dota2|134230",
+  "fc|2379175",
+  "fc|2379538",
+  "fc|2379176"
  ],
  "signals": [
   {
@@ -3742,32 +3744,6 @@
    "logged": true
   },
   {
-   "key": "vp|2026-11-11|Londrina|Nautico",
-   "market": "H",
-   "pick": "Londrina",
-   "odds": 1.77,
-   "book": "Smarkets",
-   "p": 0.5975,
-   "implied": 0.5975,
-   "edge": 0.06,
-   "match": "Londrina vs Nautico",
-   "start": "2026-11-11T22:00:00+00:00",
-   "league": "💎 Valor vs Pinnacle · Brazil - Serie B",
-   "sport": "⚽💎",
-   "context": "Londrina vs Nautico (Brazil - Serie B). Estrategia de valor: Smarkets 1.77 frente a Pinnacle justo 1.67.",
-   "captured": "2026-11-11T04:30",
-   "version": "81c54f4",
-   "bajas": "",
-   "considered": true,
-   "ai": {
-    "apostar": true,
-    "motivo": null,
-    "confianza": null,
-    "modelo": null
-   },
-   "placed": false
-  },
-  {
    "key": "vp|2026-11-12|Deportes Quindio|Tigres",
    "market": "H",
    "pick": "Deportes Quindio",
@@ -4016,31 +3992,6 @@
    "score": "1-2",
    "result": false,
    "close_p": 0.3587,
-   "logged": true
-  },
-  {
-   "market": "D",
-   "pick": "Empate",
-   "odds": 5.5,
-   "book": "Unibet",
-   "implied": 0.157,
-   "edge": 0.082,
-   "sin_stake": true,
-   "p": 0.197,
-   "key": "fc|2374602",
-   "match": "kkikus vs Simaponika",
-   "start": "2026-11-11T21:55:00+00:00",
-   "league": "🎮⚽ FC 27 · World Cup A",
-   "sport": "🎮⚽",
-   "context": "EA FC Esoccer Battle kkikus vs Simaponika (World Cup A): goles esperados 2.10-2.95, 1X2 23%/20%/57%. Sin cuotas de casa.",
-   "captured": "2026-11-11T21:43",
-   "version": "d3b68ec",
-   "bajas": "",
-   "considered": true,
-   "placed": false,
-   "score": "2-5",
-   "result": false,
-   "close_p": null,
    "logged": true
   },
   {
@@ -5200,7 +5151,11 @@
    "version": "38e7d57",
    "bajas": "TCU Horned Frogs: sin bajas; Kansas State Wildcats: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "20-10",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "sph",
@@ -5221,7 +5176,9 @@
    "version": "38e7d57",
    "bajas": "TCU Horned Frogs: sin bajas; Kansas State Wildcats: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": "nula",
+   "score": "20-10"
   },
   {
    "market": "home",
@@ -5241,7 +5198,11 @@
    "version": "38e7d57",
    "bajas": "TCU Horned Frogs: sin bajas; Kansas State Wildcats: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "20-10",
+   "close_p": 0.8182,
+   "logged": true
   },
   {
    "market": "over",
@@ -6518,15 +6479,6 @@
    "pick": "Más de 55.5 puntos",
    "league": "🏈 NCAA Football",
    "sport": "🏈",
-   "info": [
-    "📊 <b>Escenarios</b>: total esperado <b>57.8</b> puntos · línea 55.5",
-    "Más 51% · Menos 49%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Louisiana Tech Bulldogs ✅✅✅✅✅ | Southern Miss Golden Eagles ❌❌✅✅❌",
-    "• H2H: 2 desde 2021: 1-1",
-    "• Bajas: Louisiana Tech Bulldogs: sin bajas; Southern Miss Golden Eagles: sin bajas"
-   ],
    "context": "Louisiana Tech Bulldogs vs Southern Miss Golden Eagles (🏈 NCAA Football). Modelo de puntos (ataque/defensa con 10 años, decaimiento 1 año): total esperado 57.8 frente a línea 55.5. Forma Louisiana Tech Bulldogs ✅✅✅✅✅, Southern Miss Golden Eagles ❌❌✅✅❌. H2H 2 desde 2021: 1-1. Bajas: Louisiana Tech Bulldogs: sin bajas; Southern Miss Golden Eagles: sin bajas.",
    "captured": "2026-11-12T00:13",
    "version": "38e7d57",
@@ -6548,14 +6500,6 @@
    "pick": "Louisiana Tech Bulldogs -17.5",
    "league": "🏈 NCAA Football",
    "sport": "🏈",
-   "info": [
-    "📊 <b>Escenarios</b>: Louisiana Tech Bulldogs cubre -17.5 con prob. 50% (casas 50%)",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Louisiana Tech Bulldogs ✅✅✅✅✅ | Southern Miss Golden Eagles ❌❌✅✅❌",
-    "• H2H: 2 desde 2021: 1-1",
-    "• Bajas: Louisiana Tech Bulldogs: sin bajas; Southern Miss Golden Eagles: sin bajas"
-   ],
    "context": "Louisiana Tech Bulldogs vs Southern Miss Golden Eagles (🏈 NCAA Football). Hándicap Louisiana Tech Bulldogs -17.5: margen esperado desde el Elo (gana Louisiana Tech Bulldogs 87%). Forma Louisiana Tech Bulldogs ✅✅✅✅✅, Southern Miss Golden Eagles ❌❌✅✅❌. H2H 2 desde 2021: 1-1. Bajas: Louisiana Tech Bulldogs: sin bajas; Southern Miss Golden Eagles: sin bajas.",
    "captured": "2026-11-12T00:13",
    "version": "38e7d57",
@@ -6576,18 +6520,6 @@
    "start": "2026-11-14T22:00Z",
    "league": "🏈 NCAA Football",
    "sport": "🏈",
-   "info": [
-    "📊 <b>Escenarios</b> (Elo con 9.521 partidos y bajas)",
-    "Gana Louisiana Tech Bulldogs 87% · Gana Southern Miss Golden Eagles 13%",
-    "Casas: Louisiana Tech Bulldogs 87% · Southern Miss Golden Eagles 13%",
-    "Hándicap LT -17.5 · Total puntos 55.5",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Louisiana Tech Bulldogs ✅✅✅✅✅ | Southern Miss Golden Eagles ❌❌✅✅❌",
-    "• H2H: 2 desde 2021: 1-1",
-    "• Bajas: Louisiana Tech Bulldogs: sin bajas; Southern Miss Golden Eagles: sin bajas",
-    "• Favorito de las casas: Louisiana Tech Bulldogs @ 1.10"
-   ],
    "context": "Louisiana Tech Bulldogs vs Southern Miss Golden Eagles (🏈 NCAA Football, fútbol americano). Modelo Elo con 10 años de historial ajustado por bajas: Louisiana Tech Bulldogs 87%, Southern Miss Golden Eagles 13%. Cuotas DraftKings 1.105/7.25, hándicap LT -17.5, total 55.5. Forma Louisiana Tech Bulldogs ✅✅✅✅✅, Southern Miss Golden Eagles ❌❌✅✅❌. H2H 2 desde 2021: 1-1. Bajas Louisiana Tech Bulldogs: ninguna. Bajas Southern Miss Golden Eagles: ninguna.",
    "captured": "2026-11-12T00:13",
    "version": "38e7d57",
@@ -13399,7 +13331,11 @@
    "version": "937ea0b",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "2-0",
+   "result": true,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "H",
@@ -22080,7 +22016,8 @@
    "version": "8f321f6",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "anunciada": true
   },
   {
    "market": "H",
@@ -22096,20 +22033,6 @@
    "start": "2026-11-14T22:10:00+00:00",
    "league": "🎮⚽ FC 27 · Portugal Primera",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 68.260 partidos)",
-    "Goles esperados: hrk 2.73 · kirman 3.03",
-    "Ganador: hrk 35% · empate 20% · kirman 45%",
-    "Total: más de 5.5 goles 52% · menos 48%",
-    "Hándicap kirman: −1.5 30% · −2.5 17%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: hrk ❌✅✅✅❌ | kirman ❌➖❌❌✅",
-    "• Partidos: hrk 860 | kirman 704",
-    "• Liga: Portugal Primera",
-    "• Unibet: 1 3.10 · X 4.90 · 2 1.63 (sin margen 28%/18%/54%) · ventaja +8%. Sin stake hasta demostrar ROI con estas cuotas.",
-    "• En España: LeoVegas España 3.10 (+8%) · Paf España 3.10 (+8%)"
-   ],
    "context": "EA FC Esoccer Battle hrk vs kirman (Portugal Primera): goles esperados 2.73-3.03, 1X2 35%/20%/45%. Sin cuotas de casa.",
    "captured": "2026-11-14T21:47",
    "version": "8f321f6",
@@ -22150,7 +22073,80 @@
    "version": "8f321f6",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "anunciada": true
+  },
+  {
+   "market": "A",
+   "pick": "curuza",
+   "odds": 3.15,
+   "book": "Unibet",
+   "implied": 0.277,
+   "edge": 0.133,
+   "sin_stake": true,
+   "p": 0.36,
+   "key": "fc|2379175",
+   "match": "hrk vs curuza",
+   "start": "2026-11-14T22:34:00+00:00",
+   "league": "🎮⚽ FC 27 · Portugal Primera",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 68.281 partidos)",
+    "Goles esperados: hrk 3.21 · curuza 3.00",
+    "Ganador: hrk 45% · empate 19% · curuza 36%",
+    "Total: más de 6.5 goles 43% · menos 57%",
+    "Hándicap hrk: −1.5 30% · −2.5 17%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: hrk ✅✅✅❌❌ | curuza ➖✅✅➖❌",
+    "• Partidos: hrk 861 | curuza 861",
+    "• Liga: Portugal Primera",
+    "• Unibet: 1 1.77 · X 3.80 · 2 3.15 (sin margen 49%/23%/28%) · ventaja +13%. Sin stake hasta demostrar ROI con estas cuotas.",
+    "• En España: LeoVegas España 3.15 (+13%) · Paf España 3.15 (+13%)"
+   ],
+   "context": "EA FC Esoccer Battle hrk vs curuza (Portugal Primera): goles esperados 3.21-3.00, 1X2 45%/19%/36%. Sin cuotas de casa.",
+   "captured": "2026-11-14T22:16",
+   "version": "3e3a07d",
+   "bajas": "",
+   "considered": true,
+   "placed": false,
+   "anunciada": true
+  },
+  {
+   "market": "D",
+   "pick": "Empate",
+   "odds": 6.5,
+   "book": "Unibet",
+   "implied": 0.133,
+   "edge": 0.052,
+   "sin_stake": true,
+   "p": 0.162,
+   "key": "fc|2379538",
+   "match": "ssstasonn vs Simaponika",
+   "start": "2026-11-14T22:31:00+00:00",
+   "league": "🎮⚽ FC 27 · World Cup A",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 68.281 partidos)",
+    "Goles esperados: ssstasonn 2.10 · Simaponika 3.54",
+    "Ganador: ssstasonn 17% · empate 16% · Simaponika 67%",
+    "Total: más de 5.5 goles 49% · menos 51%",
+    "Hándicap Simaponika: −1.5 48% · −2.5 32%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: ssstasonn ❌❌❌❌❌ | Simaponika ❌➖❌✅❌",
+    "• Partidos: ssstasonn 1068 | Simaponika 1213",
+    "• Liga: World Cup A",
+    "• Unibet: 1 4.30 · X 6.50 · 2 1.30 (sin margen 20%/13%/67%) · ventaja +5%. Sin stake hasta demostrar ROI con estas cuotas.",
+    "• En España: LeoVegas España 6.50 (+5%) · Paf España 6.50 (+5%)"
+   ],
+   "context": "EA FC Esoccer Battle ssstasonn vs Simaponika (World Cup A): goles esperados 2.10-3.54, 1X2 17%/16%/67%. Sin cuotas de casa.",
+   "captured": "2026-11-14T22:16",
+   "version": "3e3a07d",
+   "bajas": "",
+   "considered": true,
+   "placed": false,
+   "anunciada": true
   }
  ],
  "bank": {
@@ -22613,7 +22609,7 @@
  },
  "scoreboard_id": 156,
  "scoreboard_text": "📊 <b>MARCADOR DEL BOT</b>\n━━━━━━━━━━━━━━━\n🟩 Ganadas: <b>11</b> (37 %)\n🟥 Perdidas: <b>19</b> (63 %)\n⏳ En juego: 0\n\nÚltimas 30:\n🟥🟥🟥🟩🟥🟩🟥🟥🟥🟥🟥🟥🟥🟥🟩🟥🟥🟩🟩🟩🟩🟩🟥🟥🟥🟥🟩🟩🟥🟩\n━━━━━━━━━━━━━━━\n💵 Beneficio -17.17 $ · ROI -30.9 %\n📐 CLV medio +2.5 % (cuota cogida vs cierre)\n💰 Banca: <b>82.83 €</b> (-17.17 € desde 100 €) · libre 82.83 €{\"inline_keyboard\": [[{\"text\": \"\\ud83d\\udcc8 Ver historial completo y fallos\", \"url\": \"https://github.com/STAMFORD313/analista313/blob/main/ESTADISTICAS.md\"}], [{\"text\": \"\\u26bd F\\u00fatbol\", \"callback_data\": \"dep:futbol\"}, {\"text\": \"\\ud83c\\udfc0 NBA\\u00b7NCAA\", \"callback_data\": \"dep:nba\"}, {\"text\": \"\\ud83c\\udfc8 NFL\\u00b7NCAA\", \"callback_data\": \"dep:nfl\"}], [{\"text\": \"\\ud83c\\udfc6 Champions\\u00b7Europa\", \"callback_data\": \"dep:europa\"}, {\"text\": \"\\ud83c\\udfd2 NHL\", \"callback_data\": \"dep:nhl\"}, {\"text\": \"\\u26be MLB\", \"callback_data\": \"dep:mlb\"}], [{\"text\": \"\\ud83e\\udd4a UFC\", \"callback_data\": \"dep:ufc\"}, {\"text\": \"\\ud83c\\udfbe Tenis\", \"callback_data\": \"dep:tenis\"}, {\"text\": \"\\ud83c\\udfae CS2\", \"callback_data\": \"dep:cs2\"}], [{\"text\": \"\\ud83d\\udc09 Dota 2\", \"callback_data\": \"dep:dota2\"}, {\"text\": \"\\ud83e\\uddd9 LoL\", \"callback_data\": \"dep:lol\"}, {\"text\": \"\\ud83d\\udd2b R6 Siege\", \"callback_data\": \"dep:r6\"}], [{\"text\": \"\\ud83d\\udcf1 MLBB\", \"callback_data\": \"dep:mlbb\"}, {\"text\": \"\\ud83c\\udfae\\u26bd FC 27\", \"callback_data\": \"dep:fc\"}]]}",
- "fc_sent": "2026-11-14T18:07:29.729752+00:00",
+ "fc_sent": "2026-11-14T22:16:29.587003+00:00",
  "sgp": {
   "P1|2026-11-08|Estoril|Maritimo": {
    "match": "Estoril vs Maritimo",

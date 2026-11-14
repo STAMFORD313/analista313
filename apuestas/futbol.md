@@ -1,6 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 14/11/2026 22:47 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 14/11/2026 23:16 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Queretaro vs Monterrey — 15/11 · 00:00
 
