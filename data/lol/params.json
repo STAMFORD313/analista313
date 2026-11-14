@@ -1,1 +1,1 @@
-{"K": 28, "new_k": 4, "decay": 1, "k_bo1": 1.5, "series_scale": 0.75, "mov": 0, "tier_scale": 0, "start_spread": 1, "logloss": 0.6092, "logloss_prev_year": 0.6113, "oos_next_year": 0.6092, "region_k": 8, "logloss_region": 0.6092, "maps3": [-0.3018, 1.1213]}
+{"K": 28, "new_k": 4, "decay": 1, "k_bo1": 1.5, "series_scale": 0.75, "mov": 0, "tier_scale": 0, "start_spread": 1, "logloss": 0.609, "logloss_prev_year": 0.6111, "oos_next_year": 0.609, "region_k": 8, "logloss_region": 0.609, "maps3": [-0.3018, 1.121]}
