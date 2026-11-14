@@ -1,6 +1,6 @@
 # 🏈 NFL·NCAA · apuestas de valor
 
-Actualizado 14/11/2026 07:26 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 14/11/2026 07:47 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Miami Hurricanes vs Duke Blue Devils — 14/11 · 18:00
 
@@ -2927,6 +2927,50 @@ Hándicap BUF -8.5 · Total puntos 50.5
 • H2H: 19 desde 2017: 6-13  
 • Bajas: New York Jets: 2 fuera, 23 duda (VJ Payne, Max Mitchell); Buffalo Bills: 1 fuera, 24 duda (Tyrell Shavers)  
 • Favorito de las casas: Buffalo Bills @ 1.23  
+
+## Oklahoma Sooners vs Ole Miss Rebels — 15/11 · 19:00
+
+👀 candidata · 🏈 NCAA Football · **Más de 49.5 puntos** @ **1.93** (DraftKings) · prob 50% vs casas 50% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🏈 totales» sin pérdidas demostradas
+
+📊 **Escenarios**: total esperado **53.9** puntos · línea 49.5  
+Más 50% · Menos 50%  
+🔎 **Claves**  
+• Forma: Oklahoma Sooners ✅❌✅❌✅ | Ole Miss Rebels ✅✅❌✅❌  
+• H2H: 2 desde 2024: 0-2  
+• Bajas: Oklahoma Sooners: sin bajas; Ole Miss Rebels: sin bajas  
+
+## Oklahoma Sooners vs Ole Miss Rebels — 15/11 · 19:00
+
+👀 candidata · 🏈 NCAA Football · **Oklahoma Sooners -2.5** @ **1.87** (DraftKings) · prob 51% vs casas 51% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🏈 hándicap» sin pérdidas demostradas
+
+📊 **Escenarios**: Oklahoma Sooners cubre -2.5 con prob. 51% (casas 51%)  
+🔎 **Claves**  
+• Forma: Oklahoma Sooners ✅❌✅❌✅ | Ole Miss Rebels ✅✅❌✅❌  
+• H2H: 2 desde 2024: 0-2  
+• Bajas: Oklahoma Sooners: sin bajas; Ole Miss Rebels: sin bajas  
+
+## Oklahoma Sooners vs Ole Miss Rebels — 15/11 · 19:00
+
+👀 candidata · 🏈 NCAA Football · **Gana Oklahoma Sooners** @ **1.68** (DraftKings) · prob 57% vs casas 57% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🏈 favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo con 9.528 partidos y bajas)  
+Gana Oklahoma Sooners 37% · Gana Ole Miss Rebels 63%  
+Casas: Oklahoma Sooners 57% · Ole Miss Rebels 43%  
+Hándicap OU -2.5 · Total puntos 49.5  
+🔎 **Claves**  
+• Forma: Oklahoma Sooners ✅❌✅❌✅ | Ole Miss Rebels ✅✅❌✅❌  
+• H2H: 2 desde 2024: 0-2  
+• Bajas: Oklahoma Sooners: sin bajas; Ole Miss Rebels: sin bajas  
+• Favorito de las casas: Oklahoma Sooners @ 1.68  
 
 ## Las Vegas Raiders vs Seattle Seahawks — 15/11 · 22:05
 
