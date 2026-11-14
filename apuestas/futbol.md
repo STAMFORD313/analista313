@@ -1,6 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 15/11/2026 00:04 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 15/11/2026 00:17 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Chapecoense-SC vs Vasco — 15/11 · 00:30
 

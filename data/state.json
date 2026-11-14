@@ -1312,9 +1312,6 @@
   "wta|2026-11-15|Martina Trevisan|Samantha Alvarez",
   "wta|2026-11-15|Zhibek Kulambayeva|Valeriya Strakhova",
   "wta|2026-11-15|Ariana Geerlings|Camila Rodero Contreras",
-  "cs2|133240",
-  "cs2|133375",
-  "cs2|133839",
   "dota2|133687",
   "fc|2370454",
   "fc|2370450",
@@ -2314,7 +2311,18 @@
   "fc|2379401",
   "fc|2379542",
   "fc|2379182",
-  "fc|2379543"
+  "fc|2379543",
+  "wta|2026-11-15|Elina Svitolina|Mirra Andreeva",
+  "wta|2026-11-16|Leyre Romero Gormaz|Ipek Oz",
+  "wta|2026-11-16|Nadia Podoroska|Varvara Lepchenko",
+  "wta|2026-11-16|Maria Lourdes Carle|Veronika Erjavec",
+  "wta|2026-11-16|Victoria Jimenez Kasintseva|Carole Monnet",
+  "wta|2026-11-16|Lucia Bronzetti|Alicia Herrero Linana",
+  "wta|2026-11-16|Katrina Scott|Anastasia Zolotareva",
+  "wta|2026-11-16|Irene Burillo|Darja Semenistaja",
+  "fc|2379184",
+  "fc|2379548",
+  "fc|2379545"
  ],
  "signals": [
   {
@@ -5335,7 +5343,11 @@
    "version": "38e7d57",
    "bajas": "Texas A&amp;M Aggies: sin bajas; Tennessee Volunteers: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "7-22",
+   "close_p": 0.5211,
+   "logged": true
   },
   {
    "market": "sph",
@@ -5356,7 +5368,11 @@
    "version": "38e7d57",
    "bajas": "Texas A&amp;M Aggies: sin bajas; Tennessee Volunteers: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "7-22",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "home",
@@ -5376,7 +5392,11 @@
    "version": "38e7d57",
    "bajas": "Texas A&amp;M Aggies: sin bajas; Tennessee Volunteers: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "7-22",
+   "close_p": 0.477,
+   "logged": true
   },
   {
    "market": "over",
@@ -5461,7 +5481,11 @@
    "version": "38e7d57",
    "bajas": "Delaware Blue Hens: sin bajas; Florida International Panthers: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "24-16",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "sph",
@@ -5482,7 +5506,11 @@
    "version": "38e7d57",
    "bajas": "Delaware Blue Hens: sin bajas; Florida International Panthers: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "24-16",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "home",
@@ -5502,7 +5530,11 @@
    "version": "38e7d57",
    "bajas": "Delaware Blue Hens: sin bajas; Florida International Panthers: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "24-16",
+   "close_p": 0.6252,
+   "logged": true
   },
   {
    "market": "over",
@@ -6716,15 +6748,6 @@
    "pick": "Más de 52.5 puntos",
    "league": "🏈 NCAA Football",
    "sport": "🏈",
-   "info": [
-    "📊 <b>Escenarios</b>: total esperado <b>54.2</b> puntos · línea 52.5",
-    "Más 50% · Menos 50%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Kentucky Wildcats ✅✅✅✅❌ | Florida Gators ❌❌✅❌❌",
-    "• H2H: 9 desde 2017: 5-4",
-    "• Bajas: Kentucky Wildcats: sin bajas; Florida Gators: 1 fuera, 0 duda (Kahleil Jackson)"
-   ],
    "context": "Kentucky Wildcats vs Florida Gators (🏈 NCAA Football). Modelo de puntos (ataque/defensa con 10 años, decaimiento 1 año): total esperado 54.2 frente a línea 52.5. Forma Kentucky Wildcats ✅✅✅✅❌, Florida Gators ❌❌✅❌❌. H2H 9 desde 2017: 5-4. Bajas: Kentucky Wildcats: sin bajas; Florida Gators: 1 fuera, 0 duda (Kahleil Jackson).",
    "captured": "2026-11-12T00:13",
    "version": "38e7d57",
@@ -6746,14 +6769,6 @@
    "pick": "Kentucky Wildcats -3.5",
    "league": "🏈 NCAA Football",
    "sport": "🏈",
-   "info": [
-    "📊 <b>Escenarios</b>: Kentucky Wildcats cubre -3.5 con prob. 49% (casas 49%)",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Kentucky Wildcats ✅✅✅✅❌ | Florida Gators ❌❌✅❌❌",
-    "• H2H: 9 desde 2017: 5-4",
-    "• Bajas: Kentucky Wildcats: sin bajas; Florida Gators: 1 fuera, 0 duda (Kahleil Jackson)"
-   ],
    "context": "Kentucky Wildcats vs Florida Gators (🏈 NCAA Football). Hándicap Kentucky Wildcats -3.5: margen esperado desde el Elo (gana Kentucky Wildcats 72%). Forma Kentucky Wildcats ✅✅✅✅❌, Florida Gators ❌❌✅❌❌. H2H 9 desde 2017: 5-4. Bajas: Kentucky Wildcats: sin bajas; Florida Gators: 1 fuera, 0 duda (Kahleil Jackson).",
    "captured": "2026-11-12T00:13",
    "version": "38e7d57",
@@ -6774,18 +6789,6 @@
    "start": "2026-11-14T23:15Z",
    "league": "🏈 NCAA Football",
    "sport": "🏈",
-   "info": [
-    "📊 <b>Escenarios</b> (Elo con 9.521 partidos y bajas)",
-    "Gana Kentucky Wildcats 72% · Gana Florida Gators 28%",
-    "Casas: Kentucky Wildcats 61% · Florida Gators 39%",
-    "Hándicap UK -3.5 · Total puntos 52.5",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Kentucky Wildcats ✅✅✅✅❌ | Florida Gators ❌❌✅❌❌",
-    "• H2H: 9 desde 2017: 5-4",
-    "• Bajas: Kentucky Wildcats: sin bajas; Florida Gators: 1 fuera, 0 duda (Kahleil Jackson)",
-    "• Favorito de las casas: Kentucky Wildcats @ 1.57"
-   ],
    "context": "Kentucky Wildcats vs Florida Gators (🏈 NCAA Football, fútbol americano). Modelo Elo con 10 años de historial ajustado por bajas: Kentucky Wildcats 72%, Florida Gators 28%. Cuotas DraftKings 1.571/2.45, hándicap UK -3.5, total 52.5. Forma Kentucky Wildcats ✅✅✅✅❌, Florida Gators ❌❌✅❌❌. H2H 9 desde 2017: 5-4. Bajas Kentucky Wildcats: ninguna. Bajas Florida Gators: Kahleil Jackson lesionado.",
    "captured": "2026-11-12T00:13",
    "version": "38e7d57",
@@ -22024,7 +22027,11 @@
    "version": "e8572c7",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "7-9",
+   "result": false,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "H",
@@ -22045,7 +22052,11 @@
    "version": "e8572c7",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "1-6",
+   "result": false,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "D",
@@ -22061,20 +22072,6 @@
    "start": "2026-11-14T23:05:00+00:00",
    "league": "🎮⚽ FC 27 · Serie A",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 68.315 partidos)",
-    "Goles esperados: Grellz 3.29 · Simaponika 2.33",
-    "Ganador: Grellz 59% · empate 18% · Simaponika 23%",
-    "Total: más de 5.5 goles 49% · menos 51%",
-    "Hándicap Grellz: −1.5 40% · −2.5 25%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Grellz ✅✅❌✅✅ | Simaponika ✅❌❌❌✅",
-    "• Partidos: Grellz 1184 | Simaponika 1216",
-    "• Liga: Serie A",
-    "• Unibet: 1 1.40 · X 6.00 · 2 3.70 (sin margen 62%/14%/23%) · ventaja +9%. Sin stake hasta demostrar ROI con estas cuotas.",
-    "• En España: LeoVegas España 6.00 (+9%) · Paf España 6.00 (+9%)"
-   ],
    "context": "EA FC Esoccer Battle Grellz vs Simaponika (Serie A): goles esperados 3.29-2.33, 1X2 59%/18%/23%. Sin cuotas de casa.",
    "captured": "2026-11-14T23:04",
    "version": "e1f91b0",
@@ -22113,6 +22110,41 @@
    "context": "EA FC Esoccer Battle kirman vs hrk (World Cup A): goles esperados 3.01-2.73, 1X2 46%/20%/35%. Sin cuotas de casa.",
    "captured": "2026-11-14T23:04",
    "version": "e1f91b0",
+   "bajas": "",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "A",
+   "pick": "curuza",
+   "odds": 2.4,
+   "book": "Unibet",
+   "implied": 0.364,
+   "edge": 0.223,
+   "sin_stake": true,
+   "p": 0.51,
+   "key": "fc|2379184",
+   "match": "KravaRK vs curuza",
+   "start": "2026-11-14T23:32:00+00:00",
+   "league": "🎮⚽ FC 27 · World Cup A",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 68.325 partidos)",
+    "Goles esperados: KravaRK 2.58 · curuza 3.13",
+    "Ganador: KravaRK 30% · empate 19% · curuza 51%",
+    "Total: más de 5.5 goles 51% · menos 49%",
+    "Hándicap curuza: −1.5 34% · −2.5 20%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: KravaRK ❌✅❌❌❌ | curuza ❌✅❌✅✅",
+    "• Partidos: KravaRK 428 | curuza 865",
+    "• Liga: World Cup A",
+    "• Unibet: 1 1.94 · X 4.70 · 2 2.40 (sin margen 45%/19%/36%) · ventaja +22%. Sin stake hasta demostrar ROI con estas cuotas.",
+    "• En España: LeoVegas España 2.40 (+22%) · Paf España 2.40 (+22%)"
+   ],
+   "context": "EA FC Esoccer Battle KravaRK vs curuza (World Cup A): goles esperados 2.58-3.13, 1X2 30%/19%/51%. Sin cuotas de casa.",
+   "captured": "2026-11-14T23:17",
+   "version": "1491bae",
    "bajas": "",
    "considered": true,
    "placed": false

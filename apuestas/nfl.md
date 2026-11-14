@@ -1,50 +1,6 @@
 # 🏈 NFL·NCAA · apuestas de valor
 
-Actualizado 15/11/2026 00:04 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Kentucky Wildcats vs Florida Gators — 15/11 · 00:15
-
-👀 candidata · 🏈 NCAA Football · **Más de 52.5 puntos** @ **1.91** (DraftKings) · prob 50% vs casas 50% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 totales» sin pérdidas demostradas
-
-📊 **Escenarios**: total esperado **54.2** puntos · línea 52.5  
-Más 50% · Menos 50%  
-🔎 **Claves**  
-• Forma: Kentucky Wildcats ✅✅✅✅❌ | Florida Gators ❌❌✅❌❌  
-• H2H: 9 desde 2017: 5-4  
-• Bajas: Kentucky Wildcats: sin bajas; Florida Gators: 1 fuera, 0 duda (Kahleil Jackson)  
-
-## Kentucky Wildcats vs Florida Gators — 15/11 · 00:15
-
-👀 candidata · 🏈 NCAA Football · **Kentucky Wildcats -3.5** @ **1.95** (DraftKings) · prob 49% vs casas 49% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 hándicap» sin pérdidas demostradas
-
-📊 **Escenarios**: Kentucky Wildcats cubre -3.5 con prob. 49% (casas 49%)  
-🔎 **Claves**  
-• Forma: Kentucky Wildcats ✅✅✅✅❌ | Florida Gators ❌❌✅❌❌  
-• H2H: 9 desde 2017: 5-4  
-• Bajas: Kentucky Wildcats: sin bajas; Florida Gators: 1 fuera, 0 duda (Kahleil Jackson)  
-
-## Kentucky Wildcats vs Florida Gators — 15/11 · 00:15
-
-👀 candidata · 🏈 NCAA Football · **Gana Kentucky Wildcats** @ **1.57** (DraftKings) · prob 61% vs casas 61% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo con 9.521 partidos y bajas)  
-Gana Kentucky Wildcats 72% · Gana Florida Gators 28%  
-Casas: Kentucky Wildcats 61% · Florida Gators 39%  
-Hándicap UK -3.5 · Total puntos 52.5  
-🔎 **Claves**  
-• Forma: Kentucky Wildcats ✅✅✅✅❌ | Florida Gators ❌❌✅❌❌  
-• H2H: 9 desde 2017: 5-4  
-• Bajas: Kentucky Wildcats: sin bajas; Florida Gators: 1 fuera, 0 duda (Kahleil Jackson)  
-• Favorito de las casas: Kentucky Wildcats @ 1.57  
+Actualizado 15/11/2026 00:17 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## North Carolina Tar Heels vs Louisville Cardinals — 15/11 · 01:00
 
