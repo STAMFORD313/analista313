@@ -2694,5 +2694,49 @@
   "estado": "pendiente",
   "avisada": false,
   "rev": 1
+ },
+ {
+  "id": "20261114164115283526",
+  "creada": "2026-11-14 16:41:15.283562+00:00",
+  "titulo": "Barrido · Combinada cuota 14.6",
+  "legs": [
+   {
+    "src": "esports:cs2",
+    "side": "A",
+    "code": null,
+    "start": "2026-11-14 19:00:00+00:00",
+    "home": "ex-Yawara",
+    "away": "QUINTESSÊNCIA",
+    "txt": "Gana QUINTESSÊNCIA",
+    "odds": 2.8,
+    "p": 0.4048952380952381
+   },
+   {
+    "code": null,
+    "start": "2026-11-14 22:00:00+00:00",
+    "home": "Colchagua",
+    "away": "Deportes Linares",
+    "txt": "Gana Deportes Linares",
+    "odds": 2.6,
+    "p": 0.4233
+   },
+   {
+    "src": "espn:nba",
+    "side": "H",
+    "code": null,
+    "start": "2026-11-15 00:30:00+00:00",
+    "home": "Cleveland Cavaliers",
+    "away": "Dallas Mavericks",
+    "txt": "Gana Cleveland Cavaliers",
+    "odds": 2.01,
+    "p": 0.53936
+   }
+  ],
+  "odds": 14.63,
+  "p": 0.09244207233554284,
+  "stake": 1.0,
+  "estado": "pendiente",
+  "avisada": false,
+  "rev": 1
  }
 ]
