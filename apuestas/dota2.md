@@ -1,6 +1,6 @@
 # 🐉 Dota 2 · apuestas de valor
 
-Actualizado 14/11/2026 09:47 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 14/11/2026 10:17 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## DO KONCA vs Yellow Submarine — 14/11 · 12:30
 

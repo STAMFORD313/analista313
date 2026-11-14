@@ -1,46 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 14/11/2026 09:47 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## eSuba vs KAMUI — 14/11 · 10:00
-
-👀 candidata · 🎮 CS2 · Fiesta Series 4: Closed Qualifier · **Gana KAMUI** @ **1.75** (Thunderpick) · prob 62% vs casas 53% · ventaja +8%
-
-- ❌ Valor: ventaja +8% (mín. 9% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 76.826 partidos)  
-Mapa: eSuba 36% · Serie BO3: eSuba 30% - 70% KAMUI  
-Casas: eSuba 47% · KAMUI 53%  
-🔎 **Claves**  
-• Elo: eSuba 1504 (95 series) | KAMUI 1657 (13 series)  
-• Forma: eSuba ✅❌❌❌✅ | KAMUI ❌✅✅❌✅  
-• H2H: 1: 1-0  
-• Torneo: Fiesta Series 4: Closed Qualifier (nivel C)  
-• Cambios de plantilla: ninguno  
-🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
-• eSuba gana 2-1: 14% → cuota justa 7.12 · casa 23%  
-• KAMUI gana 2-1: 25% → cuota justa 4.02 · casa 24%  
-
-## eSuba vs KAMUI — 14/11 · 10:00
-
-👀 candidata · 🎮 CS2 · Fiesta Series 4: Closed Qualifier · **KAMUI -1.5 mapas** @ **3.20** (Thunderpick) · prob 38% vs casas 29% · ventaja +20%
-
-- ✅ Valor: ventaja +20% (mín. 12% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 hándicap» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 76.826 partidos)  
-Mapa: eSuba 36% · Serie BO3: eSuba 30% - 70% KAMUI  
-Casas: eSuba 47% · KAMUI 53%  
-🔎 **Claves**  
-• Elo: eSuba 1504 (95 series) | KAMUI 1657 (13 series)  
-• Forma: eSuba ✅❌❌❌✅ | KAMUI ❌✅✅❌✅  
-• H2H: 1: 1-0  
-• Torneo: Fiesta Series 4: Closed Qualifier (nivel C)  
-• Cambios de plantilla: ninguno  
-🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
-• eSuba gana 2-1: 14% → cuota justa 7.12 · casa 23%  
-• KAMUI gana 2-1: 25% → cuota justa 4.02 · casa 24%  
+Actualizado 14/11/2026 10:17 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Revise vs Aurora Young Blud — 14/11 · 16:00
 
@@ -81,6 +41,26 @@ Casas: Revise 52% · Aurora Young Blud 48%
 🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
 • Revise gana 2-1: 20% → cuota justa 5.02 · casa 23%  
 • Aurora Young Blud gana 2-1: 24% → cuota justa 4.23 · casa 24%  
+
+## paiN Academy vs Underworld — 14/11 · 22:00
+
+👀 candidata · 🎮 CS2 · CCT South America 2026 Challengers 4 · **Gana Underworld** @ **3.20** (Thunderpick) · prob 39% vs casas 29% · ventaja +25%
+
+- ✅ Valor: ventaja +25% (mín. 13% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮 no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 76.828 partidos)  
+Mapa: paiN Academy 50% · Serie BO3: paiN Academy 51% - 49% Underworld  
+Casas: paiN Academy 71% · Underworld 29%  
+🔎 **Claves**  
+• Elo: paiN Academy 1424 (323 series) | Underworld 1419 (18 series)  
+• Forma: paiN Academy ❌❌❌❌❌ | Underworld ❌❌✅❌❌  
+• H2H: sin precedentes  
+• Torneo: CCT South America 2026 Challengers 4 (nivel C)  
+• Cambios de plantilla: ninguno  
+🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
+• paiN Academy gana 2-1: 22% → cuota justa 4.50  
+• Underworld gana 2-1: 22% → cuota justa 4.58  
 
 ## PRIVATE vs Betclic — 15/11 · 10:00
 
