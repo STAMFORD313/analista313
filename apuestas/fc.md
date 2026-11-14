@@ -1,6 +1,25 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 14/11/2026 01:36 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 14/11/2026 02:06 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+
+## Nightxx vs Simaponika — 14/11 · 02:15
+
+👀 candidata · 🎮⚽ FC 27 · Champions League B · **Empate** @ **5.80** (Unibet) · prob 19% vs casas 15% · ventaja +8%
+
+- ❌ Valor: ventaja +8% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 67.203 partidos)  
+Goles esperados: Nightxx 3.32 · Simaponika 2.83  
+Ganador: Nightxx 50% · empate 19% · Simaponika 32%  
+Total: más de 6.5 goles 42% · menos 58%  
+Hándicap Nightxx: −1.5 34% · −2.5 20%  
+🔎 **Claves**  
+• Forma: Nightxx ➖✅❌✅❌ | Simaponika ❌❌✅✅❌  
+• Partidos: Nightxx 930 | Simaponika 1192  
+• Liga: Champions League B  
+• Unibet: 1 1.58 · X 5.80 · 2 3.05 (sin margen 56%/15%/29%) · ventaja +8%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 5.80 (+8%) · Paf España 5.80 (+8%)  
 
 ## believer vs ssstasonn — 14/11 · 02:27
 
@@ -37,6 +56,44 @@ Hándicap fantazer: −1.5 65% · −2.5 49%
 • Partidos: fantazer 1673 | Yerema 649  
 • Liga: Volta International A  
 • Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
+
+## kirman vs hrk — 14/11 · 02:40
+
+👀 candidata · 🎮⚽ FC 27 · Champions League A · **Gana kirman** @ **3.20** (Unibet) · prob 50% vs casas 28% · ventaja +60%
+
+- ❌ Valor: ventaja +60% (mín. 23% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 67.203 partidos)  
+Goles esperados: kirman 3.17 · hrk 2.72  
+Ganador: kirman 50% · empate 19% · hrk 31%  
+Total: más de 5.5 goles 54% · menos 46%  
+Hándicap kirman: −1.5 33% · −2.5 19%  
+🔎 **Claves**  
+• Forma: kirman ✅✅❌✅✅ | hrk ✅❌❌➖✅  
+• Partidos: kirman 684 | hrk 840  
+• Liga: Champions League A  
+• Unibet: 1 3.20 · X 4.80 · 2 1.62 (sin margen 27%/18%/54%) · ventaja +60%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 3.20 (+60%) · Paf España 3.20 (+60%)  
+
+## hrk vs Skif — 14/11 · 02:52
+
+👀 candidata · 🎮⚽ FC 27 · Champions League A · **Gana Skif** @ **5.00** (Unibet) · prob 28% vs casas 17% · ventaja +38%
+
+- ❌ Valor: ventaja +38% (mín. 18% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 67.203 partidos)  
+Goles esperados: hrk 3.30 · Skif 2.57  
+Ganador: hrk 54% · empate 19% · Skif 28%  
+Total: más de 5.5 goles 53% · menos 47%  
+Hándicap hrk: −1.5 37% · −2.5 23%  
+🔎 **Claves**  
+• Forma: hrk ✅❌❌➖✅ | Skif ❌✅✅➖❌  
+• Partidos: hrk 840 | Skif 658  
+• Liga: Champions League A  
+• Unibet: 1 1.40 · X 4.25 · 2 5.00 (sin margen 62%/20%/17%) · ventaja +38%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 5.00 (+38%) · Paf España 5.00 (+38%)  
 
 ## ssstasonn vs Grellz — 14/11 · 03:03
 
