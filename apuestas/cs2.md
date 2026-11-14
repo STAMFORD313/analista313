@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 14/11/2026 04:37 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 14/11/2026 05:08 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## eSuba vs KAMUI — 14/11 · 10:00
 
@@ -159,4 +159,21 @@ Casas: BRUTE 57% · ex-INOX 43%
 🔫 **Kills esperados en la serie** (rango 80 %; mejor que la media de sus 10 últimas en 52.617 casos: log-loss 0.682→0.6557; sin cuotas de props, solo referencia)  
 BRUTE: aidKiT 38 (22-56) · tAk 36 (21-53) · nbqq 35 (20-51) · ZEDKO 34 (19-50) · oontoma 33 (19-49)  
 ex-INOX: El1an 34 (20-50) · k1slll 33 (19-49) · m1QUSE 32 (19-48) · fin 32 (18-47) · gooddeph 29 (17-44)  
+
+## OLDBOYS PL vs Fire Flux — 15/11 · 17:00
+
+👀 candidata · 🎮 CS2 · ESEA Season 59: Advanced Division - Europe · **Gana OLDBOYS PL** @ **1.75** (Thunderpick) · prob 56% vs casas 53% · ventaja -3%
+
+- ❌ Valor: ventaja -3% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 76.826 partidos)  
+Mapa: OLDBOYS PL 59% · Serie BO1: OLDBOYS PL 59% - 41% Fire Flux  
+Casas: OLDBOYS PL 53% · Fire Flux 47%  
+🔎 **Claves**  
+• Elo: OLDBOYS PL 1731 (84 series) | Fire Flux 1672 (339 series)  
+• Forma: OLDBOYS PL ✅✅✅✅❌ | Fire Flux ✅❌❌✅✅  
+• H2H: sin precedentes  
+• Torneo: ESEA Season 59: Advanced Division - Europe (nivel C)  
+• Cambios de plantilla: ninguno  
 

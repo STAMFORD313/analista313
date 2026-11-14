@@ -1,6 +1,6 @@
 # 🏈 NFL·NCAA · apuestas de valor
 
-Actualizado 14/11/2026 04:37 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 14/11/2026 05:08 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Miami Hurricanes vs Duke Blue Devils — 14/11 · 18:00
 
@@ -1924,6 +1924,50 @@ Hándicap USA -3 · Total puntos 55.5
 • Bajas: South Alabama Jaguars: sin bajas; Troy Trojans: sin bajas  
 • Favorito de las casas: South Alabama Jaguars @ 1.65  
 
+## BYU Cougars vs Baylor Bears — 15/11 · 01:00
+
+👀 candidata · 🏈 NCAA Football · **Más de 50.5 puntos** @ **1.93** (DraftKings) · prob 50% vs casas 50% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🏈 totales» sin pérdidas demostradas
+
+📊 **Escenarios**: total esperado **55.5** puntos · línea 50.5  
+Más 50% · Menos 50%  
+🔎 **Claves**  
+• Forma: BYU Cougars ✅✅❌✅❌ | Baylor Bears ✅❌❌✅✅  
+• H2H: 3 desde 2021: 2-1  
+• Bajas: BYU Cougars: sin bajas; Baylor Bears: sin bajas  
+
+## BYU Cougars vs Baylor Bears — 15/11 · 01:00
+
+👀 candidata · 🏈 NCAA Football · **BYU Cougars -8.5** @ **1.87** (DraftKings) · prob 51% vs casas 51% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🏈 hándicap» sin pérdidas demostradas
+
+📊 **Escenarios**: BYU Cougars cubre -8.5 con prob. 51% (casas 51%)  
+🔎 **Claves**  
+• Forma: BYU Cougars ✅✅❌✅❌ | Baylor Bears ✅❌❌✅✅  
+• H2H: 3 desde 2021: 2-1  
+• Bajas: BYU Cougars: sin bajas; Baylor Bears: sin bajas  
+
+## BYU Cougars vs Baylor Bears — 15/11 · 01:00
+
+👀 candidata · 🏈 NCAA Football · **Gana BYU Cougars** @ **1.31** (DraftKings) · prob 73% vs casas 73% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🏈 favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo con 9.527 partidos y bajas)  
+Gana BYU Cougars 76% · Gana Baylor Bears 24%  
+Casas: BYU Cougars 73% · Baylor Bears 27%  
+Hándicap BYU -8.5 · Total puntos 50.5  
+🔎 **Claves**  
+• Forma: BYU Cougars ✅✅❌✅❌ | Baylor Bears ✅❌❌✅✅  
+• H2H: 3 desde 2021: 2-1  
+• Bajas: BYU Cougars: sin bajas; Baylor Bears: sin bajas  
+• Favorito de las casas: BYU Cougars @ 1.31  
+
 ## Arizona Wildcats vs Utah Utes — 15/11 · 01:30
 
 👀 candidata · 🏈 NCAA Football · **Más de 54.5 puntos** @ **1.87** (DraftKings) · prob 51% vs casas 51% · ventaja -4%
@@ -2187,6 +2231,50 @@ Hándicap SC -7.5 · Total puntos 51.5
 • H2H: 2 desde 2017: 1-1  
 • Bajas: Arkansas Razorbacks: sin bajas; South Carolina Gamecocks: sin bajas  
 • Favorito de las casas: South Carolina Gamecocks @ 1.32  
+
+## Tulsa Golden Hurricane vs Florida Atlantic Owls — 15/11 · 02:15
+
+👀 candidata · 🏈 NCAA Football · **Más de 73.5 puntos** @ **1.89** (DraftKings) · prob 50% vs casas 50% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🏈 totales» sin pérdidas demostradas
+
+📊 **Escenarios**: total esperado **67.3** puntos · línea 73.5  
+Más 50% · Menos 50%  
+🔎 **Claves**  
+• Forma: Tulsa Golden Hurricane ❌❌✅❌✅ | Florida Atlantic Owls ✅❌✅❌✅  
+• H2H: 3 desde 2023: 0-3  
+• Bajas: Tulsa Golden Hurricane: sin bajas; Florida Atlantic Owls: sin bajas  
+
+## Tulsa Golden Hurricane vs Florida Atlantic Owls — 15/11 · 02:15
+
+👀 candidata · 🏈 NCAA Football · **Tulsa Golden Hurricane -6.5** @ **1.91** (DraftKings) · prob 50% vs casas 50% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🏈 hándicap» sin pérdidas demostradas
+
+📊 **Escenarios**: Tulsa Golden Hurricane cubre -6.5 con prob. 50% (casas 50%)  
+🔎 **Claves**  
+• Forma: Tulsa Golden Hurricane ❌❌✅❌✅ | Florida Atlantic Owls ✅❌✅❌✅  
+• H2H: 3 desde 2023: 0-3  
+• Bajas: Tulsa Golden Hurricane: sin bajas; Florida Atlantic Owls: sin bajas  
+
+## Tulsa Golden Hurricane vs Florida Atlantic Owls — 15/11 · 02:15
+
+👀 candidata · 🏈 NCAA Football · **Gana Tulsa Golden Hurricane** @ **1.44** (DraftKings) · prob 66% vs casas 66% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🏈 favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo con 9.527 partidos y bajas)  
+Gana Tulsa Golden Hurricane 52% · Gana Florida Atlantic Owls 48%  
+Casas: Tulsa Golden Hurricane 66% · Florida Atlantic Owls 34%  
+Hándicap TLSA -6.5 · Total puntos 73.5  
+🔎 **Claves**  
+• Forma: Tulsa Golden Hurricane ❌❌✅❌✅ | Florida Atlantic Owls ✅❌✅❌✅  
+• H2H: 3 desde 2023: 0-3  
+• Bajas: Tulsa Golden Hurricane: sin bajas; Florida Atlantic Owls: sin bajas  
+• Favorito de las casas: Tulsa Golden Hurricane @ 1.44  
 
 ## UTSA Roadrunners vs North Texas Mean Green — 15/11 · 03:00
 
