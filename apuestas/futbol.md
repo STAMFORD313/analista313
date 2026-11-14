@@ -1,24 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 15/11/2026 00:17 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Chapecoense-SC vs Vasco — 15/11 · 00:30
-
-👀 candidata · 🇧🇷 Brasileirão · **Gana Vasco** @ **1.39** (Bet365) · prob 68% vs casas 68% · ventaja -5%
-
-- ❌ Valor: ventaja -5% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.41 - 1.83)  
-1 27% · X 26% · 2 47%  
-1X 53% · X2 73% · 12 74%  
-+1.5 84% · +2.5 63% · +3.5 41% · Ambos marcan 64%  
-Marcadores: 1-1 11% · 1-2 9% · 2-1 7% · 0-1 7%  
-🔎 **Claves**  
-• Forma: Chapecoense-SC ❌❌✅❌❌ | Vasco ➖❌✅❌✅  
-• H2H: 9 desde 2015: 2V-5E-2D · 2.3 goles/partido · +2.5 en 33%  
-• Bajas: Chapecoense-SC: 0 fuera, 2 duda; Vasco: 0 fuera, 1 duda  
-• Favorito de las casas: Vasco @ 1.39  
+Actualizado 15/11/2026 00:50 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Tenerife vs Ceuta — 15/11 · 14:00
 

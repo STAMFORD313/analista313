@@ -1,6 +1,6 @@
 # 🏈 NFL·NCAA · apuestas de valor
 
-Actualizado 15/11/2026 00:17 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 15/11/2026 00:50 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## North Carolina Tar Heels vs Louisville Cardinals — 15/11 · 01:00
 
