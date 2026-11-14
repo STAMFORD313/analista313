@@ -1,26 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 14/11/2026 21:37 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## paiN Academy vs Underworld — 14/11 · 22:00
-
-👀 candidata · 🎮 CS2 · CCT South America 2026 Challengers 4 · **Gana Underworld** @ **3.20** (Thunderpick) · prob 39% vs casas 29% · ventaja +25%
-
-- ✅ Valor: ventaja +25% (mín. 13% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 76.828 partidos)  
-Mapa: paiN Academy 50% · Serie BO3: paiN Academy 51% - 49% Underworld  
-Casas: paiN Academy 71% · Underworld 29%  
-🔎 **Claves**  
-• Elo: paiN Academy 1424 (323 series) | Underworld 1419 (18 series)  
-• Forma: paiN Academy ❌❌❌❌❌ | Underworld ❌❌✅❌❌  
-• H2H: sin precedentes  
-• Torneo: CCT South America 2026 Challengers 4 (nivel C)  
-• Cambios de plantilla: ninguno  
-🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
-• paiN Academy gana 2-1: 22% → cuota justa 4.50  
-• Underworld gana 2-1: 22% → cuota justa 4.58  
+Actualizado 14/11/2026 22:18 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## PRIVATE vs Betclic — 15/11 · 10:00
 

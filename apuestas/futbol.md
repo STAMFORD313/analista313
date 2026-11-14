@@ -1,6 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 14/11/2026 21:37 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 14/11/2026 22:18 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Mirassol vs Atletico-MG — 14/11 · 22:30
 

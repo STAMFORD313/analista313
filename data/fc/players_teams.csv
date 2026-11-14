@@ -68226,3 +68226,13 @@ id,tournament_id,club1,club2,ht1,ht2
 2379758,261966,Tottenham,Man City,,
 2379759,261966,Chelsea,Tottenham,,
 2379760,261966,Liverpool,Arsenal,,
+2380251,262008,Ecuador,Argentina,1,1
+2380252,262008,Colombia,Brazil,1,2
+2380253,262008,Brazil,Ecuador,2,2
+2380254,262008,Argentina,Uruguay,0,0
+2380255,262008,Uruguay,Brazil,0,1
+2380256,262008,Ecuador,Colombia,3,1
+2380257,262008,Colombia,Uruguay,1,2
+2380258,262008,Brazil,Argentina,3,2
+2380259,262008,Argentina,Colombia,1,2
+2380260,262008,Uruguay,Ecuador,1,1
