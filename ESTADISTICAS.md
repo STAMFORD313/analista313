@@ -1,6 +1,6 @@
 # Estadísticas del bot
 
-Actualizado: 14/11/2026 14:50
+Actualizado: 14/11/2026 14:58
 
 **Ganadas 11 / perdidas 19** (37 % acierto) · beneficio -17.17 $ · ROI -30.9 % · banca 82.83 $
 

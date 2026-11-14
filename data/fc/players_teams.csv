@@ -67847,18 +67847,18 @@ id,tournament_id,club1,club2,ht1,ht2
 2380188,262006,Shanghai Port,Shanghai Shenhua,0.0,1.0
 2380189,262006,Shanghai Shenhua,Shandong Taishan,,
 2380190,262006,Beijing Guoan,Chengdu Rongcheng,,
-2379141,261970,Villarreal,Real Madrid,0,0
-2379142,261970,Atleti,Athletic Club,2,4
-2379143,261970,Athletic Club,Villarreal,2,2
-2379144,261970,Real Madrid,Barcelona,1,0
-2379145,261970,Barcelona,Athletic Club,3,1
-2379146,261970,Villarreal,Atleti,3,3
-2379147,261970,Atleti,Barcelona,0,0
-2379148,261970,Athletic Club,Real Madrid,2,1
-2379149,261970,Real Madrid,Atleti,1,2
-2379150,261970,Barcelona,Villarreal,3,0
-2379151,261970,Real Madrid,Villarreal,0,1
-2379152,261970,Athletic Club,Atleti,2,1
+2379141,261970,Villarreal,Real Madrid,0.0,0.0
+2379142,261970,Atleti,Athletic Club,2.0,4.0
+2379143,261970,Athletic Club,Villarreal,2.0,2.0
+2379144,261970,Real Madrid,Barcelona,1.0,0.0
+2379145,261970,Barcelona,Athletic Club,3.0,1.0
+2379146,261970,Villarreal,Atleti,3.0,3.0
+2379147,261970,Atleti,Barcelona,0.0,0.0
+2379148,261970,Athletic Club,Real Madrid,2.0,1.0
+2379149,261970,Real Madrid,Atleti,1.0,2.0
+2379150,261970,Barcelona,Villarreal,3.0,0.0
+2379151,261970,Real Madrid,Villarreal,0.0,1.0
+2379152,261970,Athletic Club,Atleti,2.0,1.0
 2379153,261970,Villarreal,Athletic Club,,
 2379154,261970,Barcelona,Real Madrid,,
 2379155,261970,Athletic Club,Barcelona,,
@@ -67867,3 +67867,42 @@ id,tournament_id,club1,club2,ht1,ht2
 2379158,261970,Real Madrid,Athletic Club,,
 2379159,261970,Atleti,Real Madrid,,
 2379160,261970,Villarreal,Barcelona,,
+2379919,261935,Paris,Real Madrid,1,0
+2379920,261935,Bayern Munchen,Atleti,0,2
+2379921,261935,Atleti,Paris,1,1
+2379922,261935,Real Madrid,Liverpool,2,0
+2379923,261935,Liverpool,Atleti,,
+2379924,261935,Paris,Bayern Munchen,,
+2379925,261935,Bayern Munchen,Liverpool,,
+2379926,261935,Atleti,Real Madrid,,
+2379927,261935,Real Madrid,Bayern Munchen,,
+2379928,261935,Liverpool,Paris,,
+2379929,261935,Real Madrid,Paris,,
+2379930,261935,Atleti,Bayern Munchen,,
+2379931,261935,Paris,Atleti,,
+2379932,261935,Liverpool,Real Madrid,,
+2379933,261935,Atleti,Liverpool,,
+2379934,261935,Bayern Munchen,Paris,,
+2379935,261935,Liverpool,Bayern Munchen,,
+2379936,261935,Real Madrid,Atleti,,
+2379937,261935,Bayern Munchen,Real Madrid,,
+2379938,261935,Paris,Liverpool,,
+2379652,261983,Spain,France,0,4
+2379653,261983,France,Germany,2,2
+2379655,261983,Argentina,France,,
+2379656,261983,Germany,Spain,,
+2379657,261983,Spain,Argentina,,
+2379658,261983,France,England,,
+2379659,261983,England,Spain,,
+2379660,261983,Argentina,Germany,,
+2379661,261983,England,Germany,,
+2379662,261983,France,Spain,,
+2379663,261983,Germany,France,,
+2379664,261983,Argentina,England,,
+2379665,261983,France,Argentina,,
+2379666,261983,Spain,Germany,,
+2379667,261983,Argentina,Spain,,
+2379668,261983,England,France,,
+2379669,261983,Spain,England,,
+2379670,261983,Germany,Argentina,,
+2379651,261983,Germany,England,,

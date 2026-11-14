@@ -1,25 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 14/11/2026 14:50 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Tesla vs Maxa — 14/11 · 14:58
-
-👀 candidata · 🎮⚽ FC 27 · FA Cup · **Gana Tesla** @ **2.16** (Unibet) · prob 51% vs casas 40% · ventaja +10%
-
-- ❌ Valor: ventaja +10% (mín. 11% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 67.826 partidos)  
-Goles esperados: Tesla 3.49 · Maxa 2.95  
-Ganador: Tesla 51% · empate 18% · Maxa 31%  
-Total: más de 6.5 goles 46% · menos 54%  
-Hándicap Tesla: −1.5 35% · −2.5 21%  
-🔎 **Claves**  
-• Forma: Tesla ❌✅❌❌✅ | Maxa ✅❌✅✅✅  
-• Partidos: Tesla 1097 | Maxa 1050  
-• Liga: FA Cup  
-• Unibet: 1 2.16 · X 3.75 · 2 2.38 (sin margen 40%/23%/37%) · ventaja +10%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.16 (+10%) · Paf España 2.16 (+10%)  
+Actualizado 14/11/2026 14:58 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## hotShot vs Inquisitor — 14/11 · 15:01
 
@@ -58,4 +39,23 @@ Hándicap Shinobu: −1.5 25% · −2.5 13%
 • Liga: Eredivisie  
 • Unibet: 1 3.90 · X 5.40 · 2 1.40 (sin margen 22%/16%/62%) · ventaja +46%. Sin stake hasta demostrar ROI con estas cuotas.  
 • En España: LeoVegas España 3.90 (+46%) · Paf España 3.90 (+46%)  
+
+## Bosko vs Lufy — 14/11 · 15:24
+
+👀 candidata · 🎮⚽ FC 27 · International A 2x6 · **Gana Lufy** @ **2.04** (Unibet) · prob 53% vs casas 43% · ventaja +7%
+
+- ❌ Valor: ventaja +7% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 67.830 partidos)  
+Goles esperados: Bosko 4.04 · Lufy 4.77  
+Ganador: Bosko 32% · empate 15% · Lufy 53%  
+Total: más de 8.5 goles 52% · menos 48%  
+Hándicap Lufy: −1.5 39% · −2.5 27%  
+🔎 **Claves**  
+• Forma: Bosko ❌❌❌❌➖ | Lufy ✅❌➖❌➖  
+• Partidos: Bosko 584 | Lufy 806  
+• Liga: International A 2x6  
+• Unibet: 1 2.30 · X 4.50 · 2 2.04 (sin margen 38%/19%/43%) · ventaja +7%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.04 (+7%) · Paf España 2.04 (+7%)  
 
