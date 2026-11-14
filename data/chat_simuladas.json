@@ -2461,7 +2461,9 @@
     "away": "Nemiga Gaming",
     "txt": "Gana Nemiga Gaming",
     "odds": 2.16,
-    "p": 0.4778419753086419
+    "p": 0.4778419753086419,
+    "ok": false,
+    "por": "ganó Inner Circle x Insanity 2-1"
    },
    {
     "src": "esports:dota2",
@@ -2478,9 +2480,9 @@
   "odds": 6.32,
   "p": 0.18367779453432403,
   "stake": 1.0,
-  "estado": "pendiente",
-  "avisada": false,
-  "rev": 1
+  "estado": "perdida",
+  "avisada": true,
+  "rev": 2
  },
  {
   "id": "20261113160903572691",
@@ -2631,7 +2633,10 @@
     "away": "Yellow Submarine",
     "txt": "Gana Yellow Submarine",
     "odds": 3.06,
-    "p": 0.43793
+    "p": 0.43793,
+    "ok": false,
+    "por": "ganó DO KONCA 2-1",
+    "clv": -0.105
    },
    {
     "code": null,
@@ -2646,9 +2651,9 @@
   "odds": 10.71,
   "p": 0.13496018779828092,
   "stake": 1.0,
-  "estado": "pendiente",
-  "avisada": false,
-  "rev": 1
+  "estado": "perdida",
+  "avisada": true,
+  "rev": 2
  },
  {
   "id": "20261114091118893589",
