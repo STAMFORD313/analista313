@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 14/11/2026 15:19 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 14/11/2026 15:51 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Revise vs Aurora Young Blud — 14/11 · 16:00
 

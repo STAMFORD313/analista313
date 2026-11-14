@@ -1,6 +1,6 @@
 # 🏈 NFL·NCAA · apuestas de valor
 
-Actualizado 14/11/2026 15:19 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 14/11/2026 15:51 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Miami Hurricanes vs Duke Blue Devils — 14/11 · 18:00
 

@@ -67906,12 +67906,12 @@ id,tournament_id,club1,club2,ht1,ht2
 2379669,261983,Spain,England,,
 2379670,261983,Germany,Argentina,,
 2379651,261983,Germany,England,,
-2380191,262007,PSV,Ajax,1,0
-2380192,262007,Feyenoord,Twente,0,2
-2380193,262007,Twente,PSV,1,1
-2380194,262007,Ajax,AZ Alkmaar,1,1
-2380195,262007,AZ Alkmaar,Twente,1,0
-2380196,262007,PSV,Feyenoord,4,2
+2380191,262007,PSV,Ajax,1.0,0.0
+2380192,262007,Feyenoord,Twente,0.0,2.0
+2380193,262007,Twente,PSV,1.0,1.0
+2380194,262007,Ajax,AZ Alkmaar,1.0,1.0
+2380195,262007,AZ Alkmaar,Twente,1.0,0.0
+2380196,262007,PSV,Feyenoord,4.0,2.0
 2380197,262007,Feyenoord,AZ Alkmaar,,
 2380198,262007,Twente,Ajax,,
 2380199,262007,Ajax,Feyenoord,,
