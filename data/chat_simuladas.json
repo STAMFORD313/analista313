@@ -2603,5 +2603,49 @@
   "estado": "pendiente",
   "avisada": false,
   "rev": 1
+ },
+ {
+  "id": "20261114061031515802",
+  "creada": "2026-11-14 06:10:31.515843+00:00",
+  "titulo": "Barrido · Combinada cuota 10.7",
+  "legs": [
+   {
+    "src": "esports:cs2",
+    "side": "A",
+    "code": null,
+    "start": "2026-11-14 09:00:00+00:00",
+    "home": "eSuba",
+    "away": "KAMUI",
+    "txt": "Gana KAMUI",
+    "odds": 1.75,
+    "p": 0.5918523809523808
+   },
+   {
+    "src": "esports:dota2",
+    "side": "A",
+    "code": null,
+    "start": "2026-11-14 11:30:00+00:00",
+    "home": "DO KONCA",
+    "away": "Yellow Submarine",
+    "txt": "Gana Yellow Submarine",
+    "odds": 3.06,
+    "p": 0.43793
+   },
+   {
+    "code": null,
+    "start": "2026-11-14 12:00:00+00:00",
+    "home": "Warta Gorzow Wielkopolski",
+    "away": "Karkonosze Jelenia Gora",
+    "txt": "Gana Karkonosze Jelenia Gora",
+    "odds": 2.0,
+    "p": 0.5207
+   }
+  ],
+  "odds": 10.71,
+  "p": 0.13496018779828092,
+  "stake": 1.0,
+  "estado": "pendiente",
+  "avisada": false,
+  "rev": 1
  }
 ]
