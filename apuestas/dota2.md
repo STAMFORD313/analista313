@@ -1,6 +1,6 @@
 # 🐉 Dota 2 · apuestas de valor
 
-Actualizado 14/11/2026 15:51 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 14/11/2026 16:36 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Team Synapse vs CyberHero — 14/11 · 17:00
 

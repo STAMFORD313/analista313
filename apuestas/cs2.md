@@ -1,46 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 14/11/2026 15:51 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Revise vs Aurora Young Blud — 14/11 · 16:00
-
-👀 candidata · 🎮 CS2 · Fiesta Series 4: Closed Qualifier · **Gana Aurora Young Blud** @ **1.92** (Thunderpick) · prob 52% vs casas 48% · ventaja +0%
-
-- ❌ Valor: ventaja +0% (mín. 7% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 76.826 partidos)  
-Mapa: Revise 46% · Serie BO3: Revise 44% - 56% Aurora Young Blud  
-Casas: Revise 52% · Aurora Young Blud 48%  
-🔎 **Claves**  
-• Elo: Revise 1523 (41 series) | Aurora Young Blud 1570 (361 series)  
-• Forma: Revise ✅✅❌❌❌ | Aurora Young Blud ✅✅✅❌❌  
-• H2H: sin precedentes  
-• Torneo: Fiesta Series 4: Closed Qualifier (nivel C)  
-• Cambios de plantilla: ninguno  
-🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
-• Revise gana 2-1: 20% → cuota justa 5.02 · casa 23%  
-• Aurora Young Blud gana 2-1: 24% → cuota justa 4.23 · casa 24%  
-
-## Revise vs Aurora Young Blud — 14/11 · 16:00
-
-👀 candidata · 🎮 CS2 · Fiesta Series 4: Closed Qualifier · **Aurora Young Blud -1.5 mapas** @ **3.80** (Thunderpick) · prob 29% vs casas 24% · ventaja +9%
-
-- ❌ Valor: ventaja +9% (mín. 9% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 hándicap» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 76.826 partidos)  
-Mapa: Revise 46% · Serie BO3: Revise 44% - 56% Aurora Young Blud  
-Casas: Revise 52% · Aurora Young Blud 48%  
-🔎 **Claves**  
-• Elo: Revise 1523 (41 series) | Aurora Young Blud 1570 (361 series)  
-• Forma: Revise ✅✅❌❌❌ | Aurora Young Blud ✅✅✅❌❌  
-• H2H: sin precedentes  
-• Torneo: Fiesta Series 4: Closed Qualifier (nivel C)  
-• Cambios de plantilla: ninguno  
-🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
-• Revise gana 2-1: 20% → cuota justa 5.02 · casa 23%  
-• Aurora Young Blud gana 2-1: 24% → cuota justa 4.23 · casa 24%  
+Actualizado 14/11/2026 16:36 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## paiN Academy vs Underworld — 14/11 · 22:00
 
@@ -156,30 +116,4 @@ Casas: OLDBOYS PL 53% · Fire Flux 47%
 • H2H: sin precedentes  
 • Torneo: ESEA Season 59: Advanced Division - Europe (nivel C)  
 • Cambios de plantilla: ninguno  
-
-## Phantom vs ex-Zero Tenacity — 15/11 · 19:00
-
-👀 candidata · 🎮 CS2 · NODWIN Clutch Series 14 · **Gana ex-Zero Tenacity** @ **1.92** (Thunderpick) · prob 50% vs casas 48% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 76.826 partidos)  
-Mapa: Phantom 48% · Serie BO3: Phantom 48% - 52% ex-Zero Tenacity  
-Casas: Phantom 52% · ex-Zero Tenacity 48%  
-🔎 **Claves**  
-• Elo: Phantom 1830 (213 series) | ex-Zero Tenacity 1847 (153 series)  
-• Forma: Phantom ✅✅❌✅✅ | ex-Zero Tenacity ✅✅✅✅✅  
-• H2H: 1: 0-1  
-• Torneo: NODWIN Clutch Series 14 (nivel B)  
-• Cambios de plantilla: ninguno  
-• Jugadores en forma (rating últimos 10 mapas): Phantom: Kunai 6.8, nicoodoz 6.5 | ex-Zero Tenacity: VLDN 6.7, Dragon 6.7  
-• Mapas (último año): Phantom: fuerte mirage 65%, débil anubis 39% | ex-Zero Tenacity: fuerte cache 73%, débil overpass 14%  
-• Química de la plantilla: Phantom: 108 mapas juntos de media | ex-Zero Tenacity: 177 mapas juntos de media  
-🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
-• Phantom gana 2-1: 21% → cuota justa 4.69 · casa 23%  
-• ex-Zero Tenacity gana 2-1: 23% → cuota justa 4.40 · casa 24%  
-🔫 **Kills esperados en la serie** (rango 80 %; mejor que la media de sus 10 últimas en 52.617 casos: log-loss 0.682→0.6557; sin cuotas de props, solo referencia)  
-Phantom: nicoodoz 39 (22-57) · KEi 35 (20-51) · Kylar 34 (19-50) · Kunai 34 (19-50) · TMB 30 (17-45)  
-ex-Zero Tenacity: Dragon 35 (20-52) · VLDN 33 (19-49) · Cjoffo 33 (19-49) · Kind0 32 (18-48) · RiiL3 26 (14-39)  
 

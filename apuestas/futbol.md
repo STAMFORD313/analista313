@@ -1,31 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 14/11/2026 15:51 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Sociedad B vs Sp Gijon — 14/11 · 16:15
-
-👀 candidata · 🇪🇸 LaLiga 2 · **Más de 2.5 goles** @ **2.00** (Bet365) · prob 48% vs casas 48% · ventaja -5%
-
-- ❌ Valor: ventaja -5% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «⚽ goles» sin pérdidas demostradas
-
-📊 **Escenarios** (goles esperados 1.18 - 1.39)  
-1 32% · X 29% · 2 39%  
-1X 61% · X2 68% · 12 71%  
-+1.5 73% · +2.5 47% · +3.5 26% · Ambos marcan 53%  
-Marcadores: 1-1 13% · 0-1 10% · 1-2 9% · 1-0 8%  
-🔎 **Claves**  
-• Forma: Sociedad B ❌❌❌✅➖ | Sp Gijon ✅✅❌✅❌  
-• H2H: 4 desde 2021: 2V-0E-2D · 1.5 goles/partido · +2.5 en 25%  
-• Bajas: Sociedad B: sin bajas; Sp Gijon: sin bajas  
-• Favorito de las casas: Sociedad B @ 2.40  
-📐 **Estadísticas esperadas**  
-Córners 5.2 - 4.0: total +9.5 43% · Sociedad B +5.5 40% · Sp Gijon +4.5 37%  
-Tarjetas 2.7 - 2.9: total +5.5 49% · Sociedad B +2.5 51% · Sp Gijon +3.5 34%  
-Faltas 14.3 - 12.0: total +26.5 47% · Sociedad B +13.5 56% · Sp Gijon +13.5 33%  
-Tiros a puerta 4.5 - 3.6: total +9.5 30% · Sociedad B +5.5 30% · Sp Gijon +4.5 30%  
-🧩 Crear apuesta: Menos de 5.5 tiros a puerta de Sociedad B + Menos de 13.5 faltas de Sp Gijon + Menos de 3.5 tarjetas de Sp Gijon → prob. 35%, cuota justa 2.90 (solo vale si la casa paga más)  
-🚀 Combinada larga: Menos de 5.5 tiros a puerta de Sociedad B + Menos de 13.5 faltas de Sp Gijon + Menos de 3.5 tarjetas de Sp Gijon + Menos de 4.5 córners de Sp Gijon → prob. 20%, cuota justa 5.04  
+Actualizado 14/11/2026 16:36 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Almeria vs Andorra — 14/11 · 18:30
 
@@ -815,6 +790,150 @@ Tiros a puerta 4.8 - 2.9: total +9.5 25% · Tenerife +5.5 35% · Ceuta +4.5 18%
 
 - ❌ Valor: ventaja -3% (mín. 5% con la incertidumbre, máx. 30%)
 - ✅ Segmento «⚽ hándicap» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.54 - 1.17)  
+1 36% · X 31% · 2 34%  
+1X 66% · X2 64% · 12 69%  
++1.5 76% · +2.5 51% · +3.5 29% · Ambos marcan 55%  
+Marcadores: 1-1 13% · 1-0 10% · 2-1 9% · 2-0 8%  
+🔎 **Claves**  
+• Forma: Granada ✅✅✅✅✅ | Las Palmas ❌❌✅✅✅  
+• H2H: 14 desde 2010: 4V-5E-5D · 3.0 goles/partido · +2.5 en 43%  
+• Bajas: Granada: 2 fuera, 0 duda (Baila Diallo, Pau Casadesus); Las Palmas: sin bajas  
+• Favorito de las casas: Granada @ 1.78  
+📐 **Estadísticas esperadas**  
+Córners 5.5 - 3.8: total +9.5 45% · Granada +5.5 45% · Las Palmas +4.5 33%  
+Tarjetas 2.2 - 2.6: total +5.5 36% · Granada +2.5 39% · Las Palmas +3.5 26%  
+Faltas 13.5 - 13.2: total +26.5 50% · Granada +13.5 48% · Las Palmas +13.5 45%  
+Tiros a puerta 5.0 - 3.4: total +9.5 34% · Granada +5.5 38% · Las Palmas +4.5 27%  
+🧩 Crear apuesta: Menos de 3.5 tarjetas de Las Palmas + Menos de 4.5 tiros a puerta de Las Palmas + Menos de 4.5 córners de Las Palmas → prob. 37%, cuota justa 2.70 (solo vale si la casa paga más)  
+
+## Granada vs Las Palmas — 15/11 · 16:15
+
+👀 candidata · 🇪🇸 LaLiga 2 · **Más de 8.5 córners** @ **1.64** (Unibet) · prob 56% vs casas 56% · ventaja -7%
+
+- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.54 - 1.17)  
+1 36% · X 31% · 2 34%  
+1X 66% · X2 64% · 12 69%  
++1.5 76% · +2.5 51% · +3.5 29% · Ambos marcan 55%  
+Marcadores: 1-1 13% · 1-0 10% · 2-1 9% · 2-0 8%  
+🔎 **Claves**  
+• Forma: Granada ✅✅✅✅✅ | Las Palmas ❌❌✅✅✅  
+• H2H: 14 desde 2010: 4V-5E-5D · 3.0 goles/partido · +2.5 en 43%  
+• Bajas: Granada: 2 fuera, 0 duda (Baila Diallo, Pau Casadesus); Las Palmas: sin bajas  
+• Favorito de las casas: Granada @ 1.78  
+📐 **Estadísticas esperadas**  
+Córners 5.5 - 3.8: total +9.5 45% · Granada +5.5 45% · Las Palmas +4.5 33%  
+Tarjetas 2.2 - 2.6: total +5.5 36% · Granada +2.5 39% · Las Palmas +3.5 26%  
+Faltas 13.5 - 13.2: total +26.5 50% · Granada +13.5 48% · Las Palmas +13.5 45%  
+Tiros a puerta 5.0 - 3.4: total +9.5 34% · Granada +5.5 38% · Las Palmas +4.5 27%  
+🧩 Crear apuesta: Menos de 3.5 tarjetas de Las Palmas + Menos de 4.5 tiros a puerta de Las Palmas + Menos de 4.5 córners de Las Palmas → prob. 37%, cuota justa 2.70 (solo vale si la casa paga más)  
+
+## Granada vs Las Palmas — 15/11 · 16:15
+
+👀 candidata · 🇪🇸 LaLiga 2 · **Menos de 10.5 córners** @ **1.43** (Unibet) · prob 65% vs casas 64% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.54 - 1.17)  
+1 36% · X 31% · 2 34%  
+1X 66% · X2 64% · 12 69%  
++1.5 76% · +2.5 51% · +3.5 29% · Ambos marcan 55%  
+Marcadores: 1-1 13% · 1-0 10% · 2-1 9% · 2-0 8%  
+🔎 **Claves**  
+• Forma: Granada ✅✅✅✅✅ | Las Palmas ❌❌✅✅✅  
+• H2H: 14 desde 2010: 4V-5E-5D · 3.0 goles/partido · +2.5 en 43%  
+• Bajas: Granada: 2 fuera, 0 duda (Baila Diallo, Pau Casadesus); Las Palmas: sin bajas  
+• Favorito de las casas: Granada @ 1.78  
+📐 **Estadísticas esperadas**  
+Córners 5.5 - 3.8: total +9.5 45% · Granada +5.5 45% · Las Palmas +4.5 33%  
+Tarjetas 2.2 - 2.6: total +5.5 36% · Granada +2.5 39% · Las Palmas +3.5 26%  
+Faltas 13.5 - 13.2: total +26.5 50% · Granada +13.5 48% · Las Palmas +13.5 45%  
+Tiros a puerta 5.0 - 3.4: total +9.5 34% · Granada +5.5 38% · Las Palmas +4.5 27%  
+🧩 Crear apuesta: Menos de 3.5 tarjetas de Las Palmas + Menos de 4.5 tiros a puerta de Las Palmas + Menos de 4.5 córners de Las Palmas → prob. 37%, cuota justa 2.70 (solo vale si la casa paga más)  
+
+## Granada vs Las Palmas — 15/11 · 16:15
+
+👀 candidata · 🇪🇸 LaLiga 2 · **Más de 5.5 córners de Granada** @ **2.28** (Unibet) · prob 43% vs casas 40% · ventaja -3%
+
+- ❌ Valor: ventaja -3% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.54 - 1.17)  
+1 36% · X 31% · 2 34%  
+1X 66% · X2 64% · 12 69%  
++1.5 76% · +2.5 51% · +3.5 29% · Ambos marcan 55%  
+Marcadores: 1-1 13% · 1-0 10% · 2-1 9% · 2-0 8%  
+🔎 **Claves**  
+• Forma: Granada ✅✅✅✅✅ | Las Palmas ❌❌✅✅✅  
+• H2H: 14 desde 2010: 4V-5E-5D · 3.0 goles/partido · +2.5 en 43%  
+• Bajas: Granada: 2 fuera, 0 duda (Baila Diallo, Pau Casadesus); Las Palmas: sin bajas  
+• Favorito de las casas: Granada @ 1.78  
+📐 **Estadísticas esperadas**  
+Córners 5.5 - 3.8: total +9.5 45% · Granada +5.5 45% · Las Palmas +4.5 33%  
+Tarjetas 2.2 - 2.6: total +5.5 36% · Granada +2.5 39% · Las Palmas +3.5 26%  
+Faltas 13.5 - 13.2: total +26.5 50% · Granada +13.5 48% · Las Palmas +13.5 45%  
+Tiros a puerta 5.0 - 3.4: total +9.5 34% · Granada +5.5 38% · Las Palmas +4.5 27%  
+🧩 Crear apuesta: Menos de 3.5 tarjetas de Las Palmas + Menos de 4.5 tiros a puerta de Las Palmas + Menos de 4.5 córners de Las Palmas → prob. 37%, cuota justa 2.70 (solo vale si la casa paga más)  
+
+## Granada vs Las Palmas — 15/11 · 16:15
+
+👀 candidata · 🇪🇸 LaLiga 2 · **Menos de 6.5 córners de Granada** @ **1.28** (Unibet) · prob 69% vs casas 71% · ventaja -12%
+
+- ❌ Valor: ventaja -12% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.54 - 1.17)  
+1 36% · X 31% · 2 34%  
+1X 66% · X2 64% · 12 69%  
++1.5 76% · +2.5 51% · +3.5 29% · Ambos marcan 55%  
+Marcadores: 1-1 13% · 1-0 10% · 2-1 9% · 2-0 8%  
+🔎 **Claves**  
+• Forma: Granada ✅✅✅✅✅ | Las Palmas ❌❌✅✅✅  
+• H2H: 14 desde 2010: 4V-5E-5D · 3.0 goles/partido · +2.5 en 43%  
+• Bajas: Granada: 2 fuera, 0 duda (Baila Diallo, Pau Casadesus); Las Palmas: sin bajas  
+• Favorito de las casas: Granada @ 1.78  
+📐 **Estadísticas esperadas**  
+Córners 5.5 - 3.8: total +9.5 45% · Granada +5.5 45% · Las Palmas +4.5 33%  
+Tarjetas 2.2 - 2.6: total +5.5 36% · Granada +2.5 39% · Las Palmas +3.5 26%  
+Faltas 13.5 - 13.2: total +26.5 50% · Granada +13.5 48% · Las Palmas +13.5 45%  
+Tiros a puerta 5.0 - 3.4: total +9.5 34% · Granada +5.5 38% · Las Palmas +4.5 27%  
+🧩 Crear apuesta: Menos de 3.5 tarjetas de Las Palmas + Menos de 4.5 tiros a puerta de Las Palmas + Menos de 4.5 córners de Las Palmas → prob. 37%, cuota justa 2.70 (solo vale si la casa paga más)  
+
+## Granada vs Las Palmas — 15/11 · 16:15
+
+👀 candidata · 🇪🇸 LaLiga 2 · **Más de 3.5 córners de Las Palmas** @ **1.62** (Unibet) · prob 53% vs casas 56% · ventaja -14%
+
+- ❌ Valor: ventaja -14% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
+
+📊 **Escenarios** (goles esperados 1.54 - 1.17)  
+1 36% · X 31% · 2 34%  
+1X 66% · X2 64% · 12 69%  
++1.5 76% · +2.5 51% · +3.5 29% · Ambos marcan 55%  
+Marcadores: 1-1 13% · 1-0 10% · 2-1 9% · 2-0 8%  
+🔎 **Claves**  
+• Forma: Granada ✅✅✅✅✅ | Las Palmas ❌❌✅✅✅  
+• H2H: 14 desde 2010: 4V-5E-5D · 3.0 goles/partido · +2.5 en 43%  
+• Bajas: Granada: 2 fuera, 0 duda (Baila Diallo, Pau Casadesus); Las Palmas: sin bajas  
+• Favorito de las casas: Granada @ 1.78  
+📐 **Estadísticas esperadas**  
+Córners 5.5 - 3.8: total +9.5 45% · Granada +5.5 45% · Las Palmas +4.5 33%  
+Tarjetas 2.2 - 2.6: total +5.5 36% · Granada +2.5 39% · Las Palmas +3.5 26%  
+Faltas 13.5 - 13.2: total +26.5 50% · Granada +13.5 48% · Las Palmas +13.5 45%  
+Tiros a puerta 5.0 - 3.4: total +9.5 34% · Granada +5.5 38% · Las Palmas +4.5 27%  
+🧩 Crear apuesta: Menos de 3.5 tarjetas de Las Palmas + Menos de 4.5 tiros a puerta de Las Palmas + Menos de 4.5 córners de Las Palmas → prob. 37%, cuota justa 2.70 (solo vale si la casa paga más)  
+
+## Granada vs Las Palmas — 15/11 · 16:15
+
+👀 candidata · 🇪🇸 LaLiga 2 · **Menos de 3.5 córners de Las Palmas** @ **2.08** (Unibet) · prob 47% vs casas 44% · ventaja -2%
+
+- ❌ Valor: ventaja -2% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «⚽ corners» sin pérdidas demostradas
 
 📊 **Escenarios** (goles esperados 1.54 - 1.17)  
 1 36% · X 31% · 2 34%  
