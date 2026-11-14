@@ -2029,7 +2029,9 @@
     "away": "Nottingham Forest U21",
     "txt": "Gana Grimsby Town",
     "odds": 1.76,
-    "p": 0.6994
+    "p": 0.6994,
+    "ok": "nula",
+    "por": "sin datos del partido"
    },
    {
     "code": null,
@@ -2038,7 +2040,9 @@
     "away": "Reading",
     "txt": "Gana Reading",
     "odds": 1.92,
-    "p": 0.6122
+    "p": 0.6122,
+    "ok": "nula",
+    "por": "sin datos del partido"
    },
    {
     "code": null,
@@ -2047,15 +2051,17 @@
     "away": "Chesterfield",
     "txt": "Gana Mansfield Town",
     "odds": 2.12,
-    "p": 0.5084
+    "p": 0.5084,
+    "ok": "nula",
+    "por": "sin datos del partido"
    }
   ],
   "odds": 7.16,
   "p": 0.21768299051199996,
   "stake": 1.0,
-  "estado": "pendiente",
-  "avisada": false,
-  "rev": 1
+  "estado": "nula",
+  "avisada": true,
+  "rev": 2
  },
  {
   "id": "20261110205031624652",
