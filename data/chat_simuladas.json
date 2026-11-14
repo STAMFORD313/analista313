@@ -2560,5 +2560,45 @@
   "estado": "pendiente",
   "avisada": false,
   "rev": 1
+ },
+ {
+  "id": "20261114003351473605",
+  "creada": "2026-11-14 00:33:51.473656+00:00",
+  "titulo": "Barrido · Combinada cuota 11.0",
+  "legs": [
+   {
+    "code": null,
+    "start": "2026-11-14 08:30:00+00:00",
+    "home": "Bayswater City",
+    "away": "Sydney Olympic",
+    "txt": "Gana Bayswater City",
+    "odds": 1.98,
+    "p": 0.5346
+   },
+   {
+    "code": null,
+    "start": "2026-11-14 11:00:00+00:00",
+    "home": "Belediye Kutahyaspor",
+    "away": "Ankaragucu",
+    "txt": "Gana Belediye Kutahyaspor",
+    "odds": 2.12,
+    "p": 0.4906
+   },
+   {
+    "code": null,
+    "start": "2026-11-14 21:00:00+00:00",
+    "home": "Club Comunicaciones",
+    "away": "Arsenal de Sarandi",
+    "txt": "Gana Arsenal de Sarandi",
+    "odds": 2.63,
+    "p": 0.4059
+   }
+  ],
+  "odds": 11.04,
+  "p": 0.10645732508399998,
+  "stake": 1.0,
+  "estado": "pendiente",
+  "avisada": false,
+  "rev": 1
  }
 ]
