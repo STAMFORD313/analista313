@@ -67547,3 +67547,63 @@ id,tournament_id,club1,club2,ht1,ht2
 2378938,261938,Aston Villa,Nottm Forest,,
 2378939,261938,Man Utd,Aston Villa,,
 2378940,261938,Newcastle,Brighton,,
+2379021,261950,Bologna,Napoli,0,2
+2379022,261950,Sassuolo,Juventus,2,0
+2379023,261950,Juventus,Bologna,3,2
+2379024,261950,Napoli,Roma,1,0
+2379025,261950,Roma,Juventus,2,1
+2379026,261950,Bologna,Sassuolo,2,1
+2379027,261950,Sassuolo,Roma,2,2
+2379028,261950,Juventus,Napoli,1,2
+2379029,261950,Napoli,Sassuolo,0,1
+2379030,261950,Roma,Bologna,0,1
+2379031,261950,Napoli,Bologna,,
+2379032,261950,Juventus,Sassuolo,,
+2379033,261950,Bologna,Juventus,,
+2379034,261950,Roma,Napoli,,
+2379035,261950,Juventus,Roma,,
+2379036,261950,Sassuolo,Bologna,,
+2379037,261950,Roma,Sassuolo,,
+2379038,261950,Napoli,Juventus,,
+2379039,261950,Sassuolo,Napoli,,
+2379040,261950,Bologna,Roma,,
+2379261,261977,Lyon,Monaco,3,0
+2380337,261977,Nice,Paris,1,3
+2379263,261977,Paris,Lyon,2,0
+2379264,261977,Monaco,Marseille,1,3
+2379265,261977,Marseille,Paris,1,2
+2380338,261977,Lyon,Nice,1,2
+2380339,261977,Nice,Marseille,3,2
+2379268,261977,Paris,Monaco,1,2
+2380340,261977,Monaco,Nice,2,0
+2379270,261977,Marseille,Lyon,0,0
+2379271,261977,Monaco,Lyon,1,1
+2380341,261977,Paris,Nice,2,1
+2379273,261977,Lyon,Paris,,
+2379274,261977,Marseille,Monaco,,
+2379275,261977,Paris,Marseille,,
+2380342,261977,Nice,Lyon,,
+2380343,261977,Marseille,Nice,,
+2379278,261977,Monaco,Paris,,
+2380344,261977,Nice,Monaco,,
+2379280,261977,Lyon,Marseille,,
+2380141,262005,Middlesbrough,Wolves,2,2
+2380142,262005,West Ham,Burnley,1,1
+2380143,262005,Burnley,Middlesbrough,3,0
+2380144,262005,Wolves,Southampton,0,3
+2380145,262005,Southampton,Burnley,4,2
+2380146,262005,Middlesbrough,West Ham,1,1
+2380147,262005,West Ham,Southampton,0,1
+2380148,262005,Burnley,Wolves,1,0
+2380149,262005,Wolves,West Ham,,
+2380150,262005,Southampton,Middlesbrough,,
+2380151,262005,Wolves,Middlesbrough,,
+2380152,262005,Burnley,West Ham,,
+2380153,262005,Middlesbrough,Burnley,,
+2380154,262005,Southampton,Wolves,,
+2380155,262005,Burnley,Southampton,,
+2380156,262005,West Ham,Middlesbrough,,
+2380157,262005,Southampton,West Ham,,
+2380158,262005,Wolves,Burnley,,
+2380159,262005,West Ham,Wolves,,
+2380160,262005,Middlesbrough,Southampton,,
