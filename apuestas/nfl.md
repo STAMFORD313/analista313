@@ -1,6 +1,6 @@
 # 🏈 NFL·NCAA · apuestas de valor
 
-Actualizado 14/11/2026 20:16 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 14/11/2026 20:37 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Texas A&M Aggies vs Tennessee Volunteers — 14/11 · 21:00
 
