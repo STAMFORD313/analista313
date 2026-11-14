@@ -1,50 +1,6 @@
 # 🏈 NFL·NCAA · apuestas de valor
 
-Actualizado 14/11/2026 02:38 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## UCLA Bruins vs Illinois Fighting Illini — 14/11 · 03:00
-
-👀 candidata · 🏈 NCAA Football · **Más de 47.5 puntos** @ **1.87** (DraftKings) · prob 51% vs casas 51% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 totales» sin pérdidas demostradas
-
-📊 **Escenarios**: total esperado **51.1** puntos · línea 47.5  
-Más 51% · Menos 49%  
-🔎 **Claves**  
-• Forma: UCLA Bruins ✅✅✅✅✅ | Illinois Fighting Illini ❌✅✅✅✅  
-• H2H: sin precedentes  
-• Bajas: UCLA Bruins: sin bajas; Illinois Fighting Illini: sin bajas  
-
-## UCLA Bruins vs Illinois Fighting Illini — 14/11 · 03:00
-
-👀 candidata · 🏈 NCAA Football · **UCLA Bruins -10** @ **1.89** (DraftKings) · prob 50% vs casas 50% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 hándicap» sin pérdidas demostradas
-
-📊 **Escenarios**: UCLA Bruins cubre -10 con prob. 50% (casas 50%)  
-🔎 **Claves**  
-• Forma: UCLA Bruins ✅✅✅✅✅ | Illinois Fighting Illini ❌✅✅✅✅  
-• H2H: sin precedentes  
-• Bajas: UCLA Bruins: sin bajas; Illinois Fighting Illini: sin bajas  
-
-## UCLA Bruins vs Illinois Fighting Illini — 14/11 · 03:00
-
-👀 candidata · 🏈 NCAA Football · **Gana UCLA Bruins** @ **1.26** (DraftKings) · prob 76% vs casas 76% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo con 9.518 partidos y bajas)  
-Gana UCLA Bruins 60% · Gana Illinois Fighting Illini 40%  
-Casas: UCLA Bruins 76% · Illinois Fighting Illini 24%  
-Hándicap UCLA -10 · Total puntos 47.5  
-🔎 **Claves**  
-• Forma: UCLA Bruins ✅✅✅✅✅ | Illinois Fighting Illini ❌✅✅✅✅  
-• H2H: sin precedentes  
-• Bajas: UCLA Bruins: sin bajas; Illinois Fighting Illini: sin bajas  
-• Favorito de las casas: UCLA Bruins @ 1.26  
+Actualizado 14/11/2026 03:06 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Colorado Buffaloes vs Houston Cougars — 14/11 · 04:15
 
