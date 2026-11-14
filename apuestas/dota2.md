@@ -1,6 +1,6 @@
 # 🐉 Dota 2 · apuestas de valor
 
-Actualizado 14/11/2026 18:38 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 14/11/2026 19:07 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## 1w Team vs Froglings — 14/11 · 21:00
 
