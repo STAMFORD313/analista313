@@ -1,63 +1,63 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 14/11/2026 05:08 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 14/11/2026 05:39 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## Simaponika vs believer — 14/11 · 05:11
+## hrk vs kirman — 14/11 · 05:50
 
-👀 candidata · 🎮⚽ FC 27 · Club World Cup · **Empate** @ **6.10** (Unibet) · prob 17% vs casas 14% · ventaja +6%
+👀 candidata · 🎮⚽ FC 27 · Serie A · **Gana kirman** @ **3.05** (Unibet) · prob 46% vs casas 29% · ventaja +39%
 
-- ❌ Valor: ventaja +6% (mín. 10% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
+- ❌ Valor: ventaja +39% (mín. 18% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 67.301 partidos)  
-Goles esperados: Simaponika 1.97 · believer 3.15  
-Ganador: Simaponika 17% · empate 17% · believer 66%  
-Total: más de 5.5 goles 41% · menos 59%  
-Hándicap believer: −1.5 44% · −2.5 27%  
+📊 **Escenarios** (Poisson por jugador, 67.347 partidos)  
+Goles esperados: hrk 2.77 · kirman 3.10  
+Ganador: hrk 35% · empate 19% · kirman 46%  
+Total: más de 5.5 goles 53% · menos 47%  
+Hándicap kirman: −1.5 31% · −2.5 18%  
 🔎 **Claves**  
-• Forma: Simaponika ❌✅❌✅❌ | believer ✅✅✅✅➖  
-• Partidos: Simaponika 1200 | believer 1133  
-• Liga: Club World Cup  
-• Unibet: 1 4.00 · X 6.10 · 2 1.35 (sin margen 22%/14%/64%) · ventaja +6%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 6.10 (+6%) · Paf España 6.10 (+6%)  
-
-## Skif vs kirman — 14/11 · 05:14
-
-👀 candidata · 🎮⚽ FC 27 · Serie A · **Gana kirman** @ **1.65** (Unibet) · prob 64% vs casas 53% · ventaja +5%
-
-- ❌ Valor: ventaja +5% (mín. 9% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 67.322 partidos)  
-Goles esperados: Skif 2.61 · kirman 3.75  
-Ganador: Skif 20% · empate 16% · kirman 64%  
-Total: más de 6.5 goles 45% · menos 55%  
-Hándicap kirman: −1.5 44% · −2.5 29%  
-🔎 **Claves**  
-• Forma: Skif ➖✅✅❌✅ | kirman ❌❌✅✅✅  
-• Partidos: Skif 668 | kirman 695  
+• Forma: hrk ❌✅❌✅✅ | kirman ✅✅✅❌➖  
+• Partidos: hrk 852 | kirman 697  
 • Liga: Serie A  
-• Unibet: 1 3.25 · X 4.35 · 2 1.65 (sin margen 27%/20%/53%) · ventaja +5%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 1.65 (+5%) · Paf España 1.65 (+5%)  
+• Unibet: 1 1.70 · X 4.40 · 2 3.05 (sin margen 51%/20%/29%) · ventaja +39%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 3.05 (+39%) · Paf España 3.05 (+39%)  
 
-## Simaponika vs Nightxx — 14/11 · 05:35
+## mixes vs Joop — 14/11 · 05:56
 
-👀 candidata · 🎮⚽ FC 27 · Club World Cup · **Empate** @ **6.50** (Unibet) · prob 19% vs casas 13% · ventaja +22%
+👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana mixes** @ **2.65** (Unibet) · prob 44% vs casas 33% · ventaja +15%
 
-- ✅ Valor: ventaja +22% (mín. 14% con la incertidumbre, máx. 30%)
+- ✅ Valor: ventaja +15% (mín. 12% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 67.347 partidos)  
+Goles esperados: mixes 2.76 · Joop 2.64  
+Ganador: mixes 44% · empate 20% · Joop 36%  
+Total: más de 5.5 goles 45% · menos 55%  
+Hándicap mixes: −1.5 27% · −2.5 15%  
+🔎 **Claves**  
+• Forma: mixes ✅❌✅➖❌ | Joop ❌➖✅❌✅  
+• Partidos: mixes 156 | Joop 189  
+• Liga: Champions League B  
+• Unibet: 1 2.65 · X 4.75 · 2 1.80 (sin margen 33%/18%/49%) · ventaja +15%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.65 (+15%) · Paf España 2.65 (+15%)  
+
+## Simaponika vs ssstasonn — 14/11 · 05:59
+
+👀 candidata · 🎮⚽ FC 27 · Club World Cup · **Empate** @ **7.50** (Unibet) · prob 16% vs casas 12% · ventaja +17%
+
+- ✅ Valor: ventaja +17% (mín. 12% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 67.322 partidos)  
-Goles esperados: Simaponika 2.79 · Nightxx 3.24  
-Ganador: Simaponika 31% · empate 19% · Nightxx 51%  
-Total: más de 6.5 goles 40% · menos 60%  
-Hándicap Nightxx: −1.5 33% · −2.5 20%  
+📊 **Escenarios** (Poisson por jugador, 67.347 partidos)  
+Goles esperados: Simaponika 3.64 · ssstasonn 2.08  
+Ganador: Simaponika 69% · empate 16% · ssstasonn 16%  
+Total: más de 5.5 goles 51% · menos 49%  
+Hándicap Simaponika: −1.5 50% · −2.5 34%  
 🔎 **Claves**  
-• Forma: Simaponika ❌✅❌❌➖ | Nightxx ❌❌✅➖✅  
-• Partidos: Simaponika 1202 | Nightxx 939  
+• Forma: Simaponika ❌❌➖✅❌ | ssstasonn ✅❌❌❌➖  
+• Partidos: Simaponika 1204 | ssstasonn 1059  
 • Liga: Club World Cup  
-• Unibet: 1 3.05 · X 6.50 · 2 1.49 (sin margen 28%/13%/58%) · ventaja +22%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 6.50 (+22%) · Paf España 6.50 (+22%)  
+• Unibet: 1 1.24 · X 7.50 · 2 4.80 (sin margen 70%/12%/18%) · ventaja +17%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 7.50 (+17%) · Paf España 7.50 (+17%)  
 
 ## v1nniePuh vs Frantsuz — 14/11 · 06:00
 
