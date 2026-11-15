@@ -1,50 +1,6 @@
 # 🏈 NFL·NCAA · apuestas de valor
 
-Actualizado 15/11/2026 04:28 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Washington State Cougars vs Colorado State Rams — 15/11 · 04:30
-
-👀 candidata · 🏈 NCAA Football · **Más de 66.5 puntos** @ **1.89** (DraftKings) · prob 50% vs casas 50% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 totales» sin pérdidas demostradas
-
-📊 **Escenarios**: total esperado **57.4** puntos · línea 66.5  
-Más 50% · Menos 50%  
-🔎 **Claves**  
-• Forma: Washington State Cougars ❌❌❌❌❌ | Colorado State Rams ❌❌✅❌❌  
-• H2H: 3 desde 2022: 3-0  
-• Bajas: Washington State Cougars: sin bajas; Colorado State Rams: sin bajas  
-
-## Washington State Cougars vs Colorado State Rams — 15/11 · 04:30
-
-👀 candidata · 🏈 NCAA Football · **Washington State Cougars -9.5** @ **1.91** (DraftKings) · prob 50% vs casas 50% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 hándicap» sin pérdidas demostradas
-
-📊 **Escenarios**: Washington State Cougars cubre -9.5 con prob. 50% (casas 50%)  
-🔎 **Claves**  
-• Forma: Washington State Cougars ❌❌❌❌❌ | Colorado State Rams ❌❌✅❌❌  
-• H2H: 3 desde 2022: 3-0  
-• Bajas: Washington State Cougars: sin bajas; Colorado State Rams: sin bajas  
-
-## Washington State Cougars vs Colorado State Rams — 15/11 · 04:30
-
-👀 candidata · 🏈 NCAA Football · **Gana Washington State Cougars** @ **1.28** (DraftKings) · prob 75% vs casas 75% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo con 9.521 partidos y bajas)  
-Gana Washington State Cougars 71% · Gana Colorado State Rams 29%  
-Casas: Washington State Cougars 75% · Colorado State Rams 25%  
-Hándicap WSU -9.5 · Total puntos 66.5  
-🔎 **Claves**  
-• Forma: Washington State Cougars ❌❌❌❌❌ | Colorado State Rams ❌❌✅❌❌  
-• H2H: 3 desde 2022: 3-0  
-• Bajas: Washington State Cougars: sin bajas; Colorado State Rams: sin bajas  
-• Favorito de las casas: Washington State Cougars @ 1.28  
+Actualizado 15/11/2026 04:58 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Hawai'i Rainbow Warriors vs North Dakota State Bison — 15/11 · 05:00
 

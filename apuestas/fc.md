@@ -1,25 +1,63 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 15/11/2026 04:28 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 15/11/2026 04:58 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## cosske vs Joop — 15/11 · 04:32
+## KravaRK vs curuza — 15/11 · 05:02
 
-👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana cosske** @ **1.80** (Unibet) · prob 63% vs casas 49% · ventaja +14%
+👀 candidata · 🎮⚽ FC 27 · Serie A · **Gana curuza** @ **2.25** (Unibet) · prob 48% vs casas 39% · ventaja +7%
 
-- ✅ Valor: ventaja +14% (mín. 12% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+- ❌ Valor: ventaja +7% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 68.495 partidos)  
-Goles esperados: cosske 3.58 · Joop 2.32  
-Ganador: cosske 63% · empate 17% · Joop 20%  
-Total: más de 5.5 goles 54% · menos 46%  
-Hándicap cosske: −1.5 45% · −2.5 30%  
+📊 **Escenarios** (Poisson por jugador, 68.516 partidos)  
+Goles esperados: KravaRK 2.64 · curuza 3.13  
+Ganador: KravaRK 33% · empate 20% · curuza 48%  
+Total: más de 5.5 goles 52% · menos 48%  
+Hándicap curuza: −1.5 33% · −2.5 20%  
 🔎 **Claves**  
-• Forma: cosske ❌✅✅✅✅ | Joop ✅❌❌❌❌  
-• Partidos: cosske 159 | Joop 216  
-• Liga: Champions League B  
-• Unibet: 1 1.80 · X 4.60 · 2 2.70 (sin margen 49%/19%/32%) · ventaja +14%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 1.80 (+14%) · Paf España 1.80 (+14%)  
+• Forma: KravaRK ❌➖✅❌✅ | curuza ✅❌➖❌✅  
+• Partidos: KravaRK 444 | curuza 881  
+• Liga: Serie A  
+• Unibet: 1 2.08 · X 4.50 · 2 2.25 (sin margen 42%/19%/39%) · ventaja +7%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.25 (+7%) · Paf España 2.25 (+7%)  
+
+## Simaponika vs ssstasonn — 15/11 · 05:11
+
+👀 candidata · 🎮⚽ FC 27 · Club World Cup · **Empate** @ **7.00** (Unibet) · prob 16% vs casas 12% · ventaja +9%
+
+- ❌ Valor: ventaja +9% (mín. 11% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 68.516 partidos)  
+Goles esperados: Simaponika 3.55 · ssstasonn 2.10  
+Ganador: Simaponika 69% · empate 16% · ssstasonn 15%  
+Total: más de 5.5 goles 50% · menos 50%  
+Hándicap Simaponika: −1.5 48% · −2.5 32%  
+🔎 **Claves**  
+• Forma: Simaponika ❌❌➖✅❌ | ssstasonn ❌❌❌❌❌  
+• Partidos: Simaponika 1233 | ssstasonn 1088  
+• Liga: Club World Cup  
+• Unibet: 1 1.30 · X 7.00 · 2 4.10 (sin margen 67%/12%/21%) · ventaja +9%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 7.00 (+9%) · Paf España 7.00 (+9%)  
+
+## curuza vs hrk — 15/11 · 05:14
+
+👀 candidata · 🎮⚽ FC 27 · Serie A · **Gana curuza** @ **3.15** (Unibet) · prob 35% vs casas 28% · ventaja +10%
+
+- ❌ Valor: ventaja +10% (mín. 11% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 68.516 partidos)  
+Goles esperados: curuza 2.98 · hrk 3.23  
+Ganador: curuza 35% · empate 19% · hrk 46%  
+Total: más de 6.5 goles 43% · menos 57%  
+Hándicap hrk: −1.5 30% · −2.5 18%  
+🔎 **Claves**  
+• Forma: curuza ✅❌➖❌✅ | hrk ➖✅✅➖✅  
+• Partidos: curuza 881 | hrk 881  
+• Liga: Serie A  
+• Unibet: 1 3.15 · X 4.10 · 2 1.72 (sin margen 28%/21%/51%) · ventaja +10%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 3.15 (+10%) · Paf España 3.15 (+10%)  
 
 ## ssstasonn vs believer — 15/11 · 05:35
 

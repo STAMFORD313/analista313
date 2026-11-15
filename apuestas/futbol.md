@@ -1,6 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 15/11/2026 04:28 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 15/11/2026 04:58 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Tenerife vs Ceuta — 15/11 · 14:00
 
