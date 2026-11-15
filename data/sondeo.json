@@ -1,5 +1,5 @@
 {
- "fecha": "2026-11-14 21:13",
+ "fecha": "2026-11-15 09:48",
  "bo3": {
   "1": {
    "próximos": 20,
@@ -22,15 +22,15 @@
    "próximos": 20,
    "ejemplo": [
     [
-     "fancy-united-vs-original-gaming-vlr-15-11-2026",
-     "Predator League Vietnam 2027"
-    ],
-    [
      "enisorail-vs-gesichtenhausen-26-11-2026",
      "Spike Series 2026: Convergence EMEA - DACH"
     ],
     [
-     "enisorail-vs-sge-vision-15-11-2026",
+     "lootlake-city-vs-backed-by-nobody-15-11-2026",
+     "Spike Series 2026: Convergence EMEA - DACH"
+    ],
+    [
+     "brest-esport-vs-gesichtenhausen-15-11-2026",
      "Spike Series 2026: Convergence EMEA - DACH"
     ]
    ]
@@ -56,15 +56,15 @@
    "próximos": 20,
    "ejemplo": [
     [
-     "potn9ki-vs-cyberhero-15-11-2026",
-     "Asgard Championship Season 2"
-    ],
-    [
      "team-synapse-vs-cyberhero-15-11-2026",
      "Asgard Championship Season 2"
     ],
     [
      "team-synapse-vs-interactive-philippines-15-11-2026",
+     "Asgard Championship Season 2"
+    ],
+    [
+     "xipto-esports-dota2-vs-angry-birds-15-11-2026",
      "Asgard Championship Season 2"
     ]
    ]
@@ -78,26 +78,17 @@
    "ejemplo": []
   },
   "7": {
-   "próximos": 2,
+   "próximos": 1,
    "ejemplo": [
     [
      "honved-r6-vs-pannuhuone-27-11-2026",
      "EML Challenger Circuit 2026: Playoffs"
-    ],
-    [
-     "darkzero-esports-1-vs-faze-clan-1-15-11-2026",
-     "BLAST R6 Major Osaka 2026"
     ]
    ]
   },
   "8": {
-   "próximos": 1,
-   "ejemplo": [
-    [
-     "vigor-apex-vs-team-flash-kh-15-11-2026",
-     "MPL Cambodia Season 11"
-    ]
-   ]
+   "próximos": 0,
+   "ejemplo": []
   },
   "9": {
    "próximos": 0,
@@ -130,12 +121,17 @@
  },
  "kambi_esports": {
   "Esports / CS2 / PGL Major": 8,
+  "Esports / CS2 / PGL Cluj-Napoca": 4,
+  "Esports / Dota 2 / 1w Essence": 4,
   "Esports / CS2 / STK Ranked": 3,
-  "Esports / Dota 2 / 1w Essence": 2,
+  "Esports / CS2 / CCT European Series 14": 2,
   "Esports / CS2 / RUSH:Brno": 2,
-  "Esports / League of Legends / World Championship": 1,
-  "Esports / Rainbow 6 / BLAST Major": 1,
   "Esports / CS2 / BLAST Rivals Fall": 1,
-  "Esports / CS2 / Svenska Cupen": 1
+  "Esports / Dota 2 / DreamLeague Div. 2": 1,
+  "Esports / Dota 2 / Esports Pro Circuit": 1,
+  "Esports / CS2 / NODWIN Clutch Series": 1,
+  "Esports / CS2 / CCT European Series 13": 1,
+  "Esports / CS2 / Svenska Cupen": 1,
+  "Esports / CS2 / CCT South America Series": 1
  }
 }
