@@ -1,6 +1,6 @@
 # 🏈 NFL·NCAA · apuestas de valor
 
-Actualizado 15/11/2026 08:00 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 15/11/2026 08:30 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Detroit Lions vs New England Patriots — 15/11 · 15:30
 

@@ -1,42 +1,42 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 15/11/2026 08:00 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 15/11/2026 08:30 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## v1nn vs RuBIX — 15/11 · 08:09
+## Edwardson vs Artrom — 15/11 · 08:36
 
-👀 candidata · 🎮⚽ FC 27 · World Cup A · **Gana RuBIX** @ **2.48** (Unibet) · prob 46% vs casas 35% · ventaja +14%
+👀 candidata · 🎮⚽ FC 27 · Europa League · **Gana Artrom** @ **3.80** (Unibet) · prob 32% vs casas 23% · ventaja +22%
 
-- ✅ Valor: ventaja +14% (mín. 12% con la incertidumbre, máx. 30%)
+- ✅ Valor: ventaja +22% (mín. 14% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 68.664 partidos)  
-Goles esperados: v1nn 3.21 · RuBIX 3.52  
-Ganador: v1nn 36% · empate 18% · RuBIX 46%  
-Total: más de 6.5 goles 51% · menos 49%  
-Hándicap RuBIX: −1.5 32% · −2.5 19%  
+📊 **Escenarios** (Poisson por jugador, 68.692 partidos)  
+Goles esperados: Edwardson 1.85 · Artrom 1.70  
+Ganador: Edwardson 42% · empate 26% · Artrom 32%  
+Total: más de 3.5 goles 48% · menos 52%  
+Hándicap Edwardson: −1.5 23% · −2.5 10%  
 🔎 **Claves**  
-• Forma: v1nn ➖➖❌✅➖ | RuBIX ✅✅✅➖✅  
-• Partidos: v1nn 640 | RuBIX 196  
-• Liga: World Cup A  
-• Unibet: 1 1.98 · X 4.10 · 2 2.48 (sin margen 44%/21%/35%) · ventaja +14%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.48 (+14%) · Paf España 2.48 (+14%)  
+• Forma: Edwardson ✅❌✅❌✅ | Artrom ❌❌✅✅➖  
+• Partidos: Edwardson 1231 | Artrom 656  
+• Liga: Europa League  
+• Unibet: 1 1.86 · X 2.90 · 2 3.80 (sin margen 47%/30%/23%) · ventaja +22%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 3.80 (+22%) · Paf España 3.80 (+22%)  
 
-## Pavlinho19 vs Tesla — 15/11 · 08:18
+## DaVa vs Jekunam — 15/11 · 08:48
 
-👀 candidata · 🎮⚽ FC 27 · Bundesliga · **Gana Tesla** @ **2.65** (Unibet) · prob 43% vs casas 32% · ventaja +14%
+👀 candidata · 🎮⚽ FC 27 · Europa League · **Gana DaVa** @ **2.05** (Unibet) · prob 58% vs casas 42% · ventaja +19%
 
-- ✅ Valor: ventaja +14% (mín. 12% con la incertidumbre, máx. 30%)
+- ✅ Valor: ventaja +19% (mín. 13% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 68.664 partidos)  
-Goles esperados: Pavlinho19 2.73 · Tesla 2.94  
-Ganador: Pavlinho19 37% · empate 20% · Tesla 43%  
-Total: más de 5.5 goles 50% · menos 50%  
-Hándicap Tesla: −1.5 29% · −2.5 16%  
+📊 **Escenarios** (Poisson por jugador, 68.692 partidos)  
+Goles esperados: DaVa 2.95 · Jekunam 2.02  
+Ganador: DaVa 58% · empate 19% · Jekunam 22%  
+Total: más de 4.5 goles 56% · menos 44%  
+Hándicap DaVa: −1.5 39% · −2.5 23%  
 🔎 **Claves**  
-• Forma: Pavlinho19 ❌✅✅❌❌ | Tesla ➖✅✅✅✅  
-• Partidos: Pavlinho19 1046 | Tesla 1105  
-• Liga: Bundesliga  
-• Unibet: 1 2.38 · X 2.75 · 2 2.65 (sin margen 36%/31%/32%) · ventaja +14%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.65 (+14%) · Paf España 2.65 (+14%)  
+• Forma: DaVa ✅➖✅✅➖ | Jekunam ❌✅✅❌❌  
+• Partidos: DaVa 1293 | Jekunam 1155  
+• Liga: Europa League  
+• Unibet: 1 2.05 · X 3.25 · 2 2.80 (sin margen 42%/27%/31%) · ventaja +19%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.05 (+19%) · Paf España 2.05 (+19%)  
 
