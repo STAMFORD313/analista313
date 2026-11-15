@@ -2921,5 +2921,38 @@
   "estado": "pendiente",
   "avisada": false,
   "rev": 1
+ },
+ {
+  "id": "20261115170715425279",
+  "creada": "2026-11-15 17:07:15.425313+00:00",
+  "titulo": "Barrido · Combinada cuota 7.0",
+  "legs": [
+   {
+    "src": "espn:nfl",
+    "side": "H",
+    "code": null,
+    "start": "2026-11-15 18:00:00+00:00",
+    "home": "Cleveland Browns",
+    "away": "Houston Texans",
+    "txt": "Gana Cleveland Browns",
+    "odds": 2.64,
+    "p": 0.40923999999999994
+   },
+   {
+    "code": null,
+    "start": "2026-11-15 21:30:00+00:00",
+    "home": "Nacional Potosi",
+    "away": "Real Potosi",
+    "txt": "Gana Real Potosi",
+    "odds": 2.65,
+    "p": 0.4221
+   }
+  ],
+  "odds": 7.0,
+  "p": 0.17274020399999995,
+  "stake": 1.0,
+  "estado": "pendiente",
+  "avisada": false,
+  "rev": 1
  }
 ]
