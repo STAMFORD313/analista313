@@ -68748,14 +68748,14 @@ id,tournament_id,club1,club2,ht1,ht2
 2380602,262044,Nottm Forest,Man Utd,,
 2380603,262044,Newcastle,Nottm Forest,,
 2380604,262044,Brighton,Aston Villa,,
-2381419,262097,Nice,Paris,2,0
-2381420,262097,Monaco,Lyon,2,2
-2381421,262097,Lyon,Nice,4,0
-2381422,262097,Paris,Marseille,2,1
-2381423,262097,Marseille,Lyon,2,2
-2381424,262097,Nice,Monaco,2,0
-2381425,262097,Monaco,Marseille,1,3
-2381426,262097,Lyon,Paris,0,2
+2381419,262097,Nice,Paris,2.0,0.0
+2381420,262097,Monaco,Lyon,2.0,2.0
+2381421,262097,Lyon,Nice,4.0,0.0
+2381422,262097,Paris,Marseille,2.0,1.0
+2381423,262097,Marseille,Lyon,2.0,2.0
+2381424,262097,Nice,Monaco,2.0,0.0
+2381425,262097,Monaco,Marseille,1.0,3.0
+2381426,262097,Lyon,Paris,0.0,2.0
 2381427,262097,Paris,Monaco,,
 2381428,262097,Marseille,Nice,,
 2381429,262097,Paris,Nice,,
@@ -68768,3 +68768,63 @@ id,tournament_id,club1,club2,ht1,ht2
 2381436,262097,Paris,Lyon,,
 2381437,262097,Monaco,Paris,,
 2381438,262097,Nice,Marseille,,
+2380685,262056,Bologna,Napoli,1,1
+2380686,262056,Sassuolo,Juventus,3,2
+2380687,262056,Juventus,Bologna,0,3
+2380688,262056,Napoli,Roma,2,4
+2380689,262056,Roma,Juventus,0,1
+2380690,262056,Bologna,Sassuolo,3,0
+2380691,262056,Sassuolo,Roma,1,1
+2380692,262056,Juventus,Napoli,1,2
+2380693,262056,Napoli,Sassuolo,2,0
+2380694,262056,Roma,Bologna,4,1
+2380695,262056,Napoli,Bologna,0,1
+2380696,262056,Juventus,Sassuolo,2,1
+2380697,262056,Bologna,Juventus,,
+2380698,262056,Roma,Napoli,,
+2380699,262056,Juventus,Roma,,
+2380700,262056,Sassuolo,Bologna,,
+2380701,262056,Roma,Sassuolo,,
+2380702,262056,Napoli,Juventus,,
+2380703,262056,Sassuolo,Napoli,,
+2380704,262056,Bologna,Roma,,
+2380765,262069,Al Hilal,Gangwon FC,1,2
+2380766,262069,FC Seoul,Al Ittihad,1,2
+2380767,262069,Al Ittihad,Al Hilal,1,3
+2380768,262069,Gangwon FC,Al Ahli,1,0
+2380769,262069,Al Ahli,Al Ittihad,0,1
+2380770,262069,Al Hilal,FC Seoul,1,2
+2380771,262069,FC Seoul,Al Ahli,1,0
+2380772,262069,Al Ittihad,Gangwon FC,0,3
+2380773,262069,Gangwon FC,FC Seoul,,
+2380774,262069,Al Ahli,Al Hilal,,
+2380775,262069,Gangwon FC,Al Hilal,,
+2380776,262069,Al Ittihad,FC Seoul,,
+2380777,262069,Al Hilal,Al Ittihad,,
+2380778,262069,Al Ahli,Gangwon FC,,
+2380779,262069,Al Ittihad,Al Ahli,,
+2380780,262069,FC Seoul,Al Hilal,,
+2380781,262069,Al Ahli,FC Seoul,,
+2380782,262069,Gangwon FC,Al Ittihad,,
+2380783,262069,FC Seoul,Gangwon FC,,
+2380784,262069,Al Hilal,Al Ahli,,
+2381639,262109,Middlesbrough,Wolves,1,3
+2381640,262109,West Ham,Burnley,1,1
+2381641,262109,Burnley,Middlesbrough,0,2
+2381642,262109,Wolves,Southampton,1,3
+2381643,262109,Southampton,Burnley,2,2
+2381644,262109,Middlesbrough,West Ham,2,2
+2381645,262109,West Ham,Southampton,1,2
+2381646,262109,Burnley,Wolves,4,3
+2381647,262109,Wolves,West Ham,0,2
+2381648,262109,Southampton,Middlesbrough,3,1
+2381649,262109,Wolves,Middlesbrough,,
+2381650,262109,Burnley,West Ham,,
+2381651,262109,Middlesbrough,Burnley,,
+2381652,262109,Southampton,Wolves,,
+2381653,262109,Burnley,Southampton,,
+2381654,262109,West Ham,Middlesbrough,,
+2381655,262109,Southampton,West Ham,,
+2381656,262109,Wolves,Burnley,,
+2381657,262109,West Ham,Wolves,,
+2381658,262109,Middlesbrough,Southampton,,
