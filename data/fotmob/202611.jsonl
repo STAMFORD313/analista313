@@ -553,3 +553,6 @@
 {"id": "5987255", "date": "2026-11-15T07:00:00.000Z", "league": "J. League 3", "ccode": "JPN", "home": "FC Ryūkyū", "away": "Kochi United SC", "hs": 1, "as": 0, "stats": {}}
 {"id": "5987256", "date": "2026-11-15T09:00:00.000Z", "league": "J. League 3", "ccode": "JPN", "home": "Reilac Shiga", "away": "FC Osaka", "hs": 1, "as": 1, "stats": {}}
 {"id": "6140263", "date": "2026-11-15T10:30:00.000Z", "league": "Super League 2", "ccode": "GRE", "home": "Kalamaria", "away": "Athens Kallithea FC", "hs": 1, "as": 1, "stats": {}}
+{"id": "5874517", "date": "2026-11-15T11:15:00.000Z", "league": "Eredivisie Vrouwen", "ccode": "NED", "home": "ADO Den Haag", "away": "De Graafschap", "hs": 0, "as": 2, "stats": {}}
+{"id": "5888107", "date": "2026-11-15T11:00:00.000Z", "league": "Liga Portugal 2", "ccode": "POR", "home": "Amarante FC", "away": "Felgueiras 1932", "hs": 1, "as": 1, "stats": {}}
+{"id": "5888114", "date": "2026-11-15T11:00:00.000Z", "league": "Liga Portugal 2", "ccode": "POR", "home": "Tondela", "away": "Farense", "hs": 2, "as": 0, "stats": {}}
