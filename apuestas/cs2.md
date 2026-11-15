@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 15/11/2026 07:00 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 15/11/2026 07:31 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## PRIVATE vs Betclic — 15/11 · 10:00
 
@@ -173,4 +173,41 @@ Casas: ROUNDS 52% · BOJONG 48%
 🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
 • ROUNDS gana 2-1: 22% → cuota justa 4.65  
 • BOJONG gana 2-1: 23% → cuota justa 4.44  
+
+## Xcity vs Al Ahli — 16/11 · 19:00
+
+👀 candidata · 🎮 CS2 · ESEA Season 59: Advanced Division - Europe · **Gana Xcity** @ **2.01** (Thunderpick) · prob 47% vs casas 46% · ventaja -5%
+
+- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮 no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 76.860 partidos)  
+Mapa: Xcity 48% · Serie BO1: Xcity 48% - 52% Al Ahli  
+Casas: Xcity 46% · Al Ahli 54%  
+🔎 **Claves**  
+• Elo: Xcity 1498 (7 series) | Al Ahli 1511 (13 series)  
+• Forma: Xcity ✅❌❌✅❌ | Al Ahli ✅✅✅✅❌  
+• H2H: sin precedentes  
+• Torneo: ESEA Season 59: Advanced Division - Europe (nivel C)  
+• Cambios de plantilla: ninguno  
+
+## KUUSAMO vs Nordic Valor — 16/11 · 19:00
+
+👀 candidata · 🎮 CS2 · Elisa Open Suomi Season 14 · **Gana Nordic Valor** @ **3.40** (Thunderpick) · prob 28% vs casas 27% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮 no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 76.860 partidos)  
+Mapa: KUUSAMO 65% · Serie BO3: KUUSAMO 72% - 28% Nordic Valor  
+Casas: KUUSAMO 73% · Nordic Valor 27%  
+🔎 **Claves**  
+• Elo: KUUSAMO 1456 (150 series) | Nordic Valor 1292 (15 series)  
+• Forma: KUUSAMO ❌❌✅✅❌ | Nordic Valor ❌❌❌❌❌  
+• H2H: 1: 0-1  
+• Torneo: Elisa Open Suomi Season 14 (nivel C)  
+• Cambios de plantilla: ninguno  
+🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
+• KUUSAMO gana 2-1: 25% → cuota justa 4.03  
+• Nordic Valor gana 2-1: 13% → cuota justa 7.47  
 

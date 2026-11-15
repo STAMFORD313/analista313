@@ -1,25 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 15/11/2026 07:00 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## RuBIX vs v1nn — 15/11 · 07:09
-
-👀 candidata · 🎮⚽ FC 27 · World Cup A · **Gana RuBIX** @ **2.60** (Unibet) · prob 45% vs casas 34% · ventaja +17%
-
-- ✅ Valor: ventaja +17% (mín. 12% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 68.608 partidos)  
-Goles esperados: RuBIX 3.51 · v1nn 3.25  
-Ganador: RuBIX 45% · empate 18% · v1nn 37%  
-Total: más de 6.5 goles 51% · menos 49%  
-Hándicap RuBIX: −1.5 31% · −2.5 19%  
-🔎 **Claves**  
-• Forma: RuBIX ✅✅✅❌✅ | v1nn ➖✅❌✅➖  
-• Partidos: RuBIX 192 | v1nn 636  
-• Liga: World Cup A  
-• Unibet: 1 2.60 · X 4.75 · 2 1.82 (sin margen 34%/18%/48%) · ventaja +17%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.60 (+17%) · Paf España 2.60 (+17%)  
+Actualizado 15/11/2026 07:31 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Artrom vs Edwardson — 15/11 · 07:36
 
@@ -40,6 +21,25 @@ Hándicap Edwardson: −1.5 23% · −2.5 10%
 • Unibet: 1 3.90 · X 2.80 · 2 1.87 (sin margen 22%/31%/47%) · ventaja +24%. Sin stake hasta demostrar ROI con estas cuotas.  
 • En España: LeoVegas España 3.90 (+24%) · Paf España 3.90 (+24%)  
 
+## saportj vs spirtes — 15/11 · 07:38
+
+👀 candidata · 🎮⚽ FC 27 · MLS · **Empate** @ **5.10** (Unibet) · prob 21% vs casas 17% · ventaja +5%
+
+- ❌ Valor: ventaja +5% (mín. 9% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 68.636 partidos)  
+Goles esperados: saportj 2.83 · spirtes 2.25  
+Ganador: saportj 50% · empate 21% · spirtes 29%  
+Total: más de 5.5 goles 40% · menos 60%  
+Hándicap saportj: −1.5 33% · −2.5 19%  
+🔎 **Claves**  
+• Forma: saportj ❌❌❌❌❌ | spirtes ✅➖➖✅❌  
+• Partidos: saportj 914 | spirtes 1194  
+• Liga: MLS  
+• Unibet: 1 1.62 · X 5.10 · 2 3.10 (sin margen 54%/17%/28%) · ventaja +5%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 5.10 (+5%) · Paf España 5.10 (+5%)  
+
 ## goldfer vs imagin — 15/11 · 07:48
 
 👀 candidata · 🎮⚽ FC 27 · Premier League 2x6 · **Gana goldfer** @ **8.50** (Unibet) · prob 21% vs casas 10% · ventaja +78%
@@ -58,4 +58,23 @@ Hándicap imagin: −1.5 47% · −2.5 32%
 • Liga: Premier League 2x6  
 • Unibet: 1 8.50 · X 4.90 · 2 1.21 (sin margen 10%/18%/72%) · ventaja +78%. Sin stake hasta demostrar ROI con estas cuotas.  
 • En España: LeoVegas España 8.50 (+78%) · Paf España 8.50 (+78%)  
+
+## flamez vs TikitakaMaster — 15/11 · 07:48
+
+👀 candidata · 🎮⚽ FC 27 · Premier League 2x6 · **Gana TikitakaMaster** @ **1.95** (Unibet) · prob 56% vs casas 45% · ventaja +10%
+
+- ❌ Valor: ventaja +10% (mín. 11% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 68.636 partidos)  
+Goles esperados: flamez 3.79 · TikitakaMaster 4.61  
+Ganador: flamez 28% · empate 15% · TikitakaMaster 56%  
+Total: más de 8.5 goles 46% · menos 54%  
+Hándicap TikitakaMaster: −1.5 40% · −2.5 28%  
+🔎 **Claves**  
+• Forma: flamez ➖✅✅❌✅ | TikitakaMaster ✅✅❌✅✅  
+• Partidos: flamez 800 | TikitakaMaster 718  
+• Liga: Premier League 2x6  
+• Unibet: 1 2.17 · X 6.10 · 2 1.95 (sin margen 41%/14%/45%) · ventaja +10%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 1.95 (+10%) · Paf España 1.95 (+10%)  
 
