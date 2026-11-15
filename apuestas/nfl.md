@@ -1,6 +1,6 @@
 # 🏈 NFL·NCAA · apuestas de valor
 
-Actualizado 15/11/2026 03:44 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 15/11/2026 03:57 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## UTEP Miners vs Wyoming Cowboys — 15/11 · 04:00
 
