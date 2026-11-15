@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 15/11/2026 19:07 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 15/11/2026 19:38 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Gelo vs Rcave — 15/11 · 20:00
 

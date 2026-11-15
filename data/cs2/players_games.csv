@@ -34851,3 +34851,5 @@ game_id,match_id,slug,date,tier,bo,tournament_id,tournament,t1_id,t2_id,team1,te
 193364,133855,butterfly-vs-baks-esports-15-11-2026,2026-11-15T15:00:00.000+00:00,b,3,6240,NODWIN Clutch Series 14,24855,2924,Butterfly,BAKS,1,de_cache,2924,13.0,11.0
 193250,133773,magic-ru-vs-fnatic-15-11-2026,2026-11-15T16:00:00.000+00:00,b,3,6251,PGL Cluj-Napoca 2027: Closed Qualifier,786,22218,fnatic,magic,2,de_anubis,786,13.0,9.0
 193251,133773,magic-ru-vs-fnatic-15-11-2026,2026-11-15T16:00:00.000+00:00,b,3,6251,PGL Cluj-Napoca 2027: Closed Qualifier,786,22218,fnatic,magic,1,de_inferno,786,13.0,6.0
+193247,133772,heroic-vs-faze-15-11-2026,2026-11-15T16:15:00.000+00:00,b,3,6251,PGL Cluj-Napoca 2027: Closed Qualifier,791,759,FaZe,HEROIC,2,de_ancient,759,13.0,8.0
+193248,133772,heroic-vs-faze-15-11-2026,2026-11-15T16:15:00.000+00:00,b,3,6251,PGL Cluj-Napoca 2027: Closed Qualifier,791,759,FaZe,HEROIC,1,de_mirage,759,16.0,13.0
