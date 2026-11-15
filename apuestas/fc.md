@@ -1,25 +1,44 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 15/11/2026 03:27 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 15/11/2026 03:44 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## KravaRK vs kirman — 15/11 · 03:28
+## Lunjo vs cosske — 15/11 · 03:48
 
-👀 candidata · 🎮⚽ FC 27 · Champions League A · **Gana kirman** @ **1.75** (Unibet) · prob 61% vs casas 50% · ventaja +6%
+👀 candidata · 🎮⚽ FC 27 · World Cup B · **Gana cosske** @ **1.97** (Unibet) · prob 55% vs casas 44% · ventaja +9%
 
-- ❌ Valor: ventaja +6% (mín. 10% con la incertidumbre, máx. 30%)
+- ❌ Valor: ventaja +9% (mín. 10% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 68.455 partidos)  
-Goles esperados: KravaRK 2.24 · kirman 3.18  
-Ganador: KravaRK 21% · empate 18% · kirman 61%  
-Total: más de 5.5 goles 46% · menos 54%  
-Hándicap kirman: −1.5 40% · −2.5 24%  
+📊 **Escenarios** (Poisson por jugador, 68.471 partidos)  
+Goles esperados: Lunjo 2.54 · cosske 3.29  
+Ganador: Lunjo 26% · empate 19% · cosske 55%  
+Total: más de 5.5 goles 53% · menos 47%  
+Hándicap cosske: −1.5 37% · −2.5 23%  
 🔎 **Claves**  
-• Forma: KravaRK ✅❌➖✅❌ | kirman ➖✅➖✅➖  
-• Partidos: KravaRK 438 | kirman 720  
+• Forma: Lunjo ❌✅✅✅✅ | cosske ➖✅❌✅✅  
+• Partidos: Lunjo 182 | cosske 157  
+• Liga: World Cup B  
+• Unibet: 1 2.48 · X 4.20 · 2 1.97 (sin margen 35%/21%/44%) · ventaja +9%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 1.97 (+9%) · Paf España 1.97 (+9%)  
+
+## curuza vs KravaRK — 15/11 · 03:52
+
+👀 candidata · 🎮⚽ FC 27 · Champions League A · **Gana curuza** @ **2.06** (Unibet) · prob 53% vs casas 42% · ventaja +9%
+
+- ❌ Valor: ventaja +9% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 68.471 partidos)  
+Goles esperados: curuza 3.19 · KravaRK 2.59  
+Ganador: curuza 53% · empate 19% · KravaRK 28%  
+Total: más de 5.5 goles 52% · menos 48%  
+Hándicap curuza: −1.5 35% · −2.5 21%  
+🔎 **Claves**  
+• Forma: curuza ➖✅➖✅✅ | KravaRK ➖✅❌➖❌  
+• Partidos: curuza 877 | KravaRK 440  
 • Liga: Champions League A  
-• Unibet: 1 3.00 · X 4.20 · 2 1.75 (sin margen 29%/21%/50%) · ventaja +6%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 1.75 (+6%) · Paf España 1.75 (+6%)  
+• Unibet: 1 2.06 · X 4.40 · 2 2.30 (sin margen 42%/20%/38%) · ventaja +9%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.06 (+9%) · Paf España 2.06 (+9%)  
 
 ## Yerema vs fantazer — 15/11 · 04:01
 
