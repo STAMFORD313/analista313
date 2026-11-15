@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 16/11/2026 00:24 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 16/11/2026 00:53 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## ROUNDS vs BOJONG — 16/11 · 16:30
 
@@ -181,4 +181,24 @@ Casas: Inner Circle 53% · Betclic 47%
 🔫 **Kills esperados en la serie** (rango 80 %; mejor que la media de sus 10 últimas en 52.570 casos: log-loss 0.6819→0.6556; sin cuotas de props, solo referencia)  
 Inner Circle: Dawy 38 (22-56) · headtr1ck 35 (20-52) · cptkurtka023 34 (19-50) · zeRRoFIX 33 (19-49) · onic 29 (16-43)  
 Betclic: ultimate 35 (20-52) · Ex1st 34 (20-51) · Qlocuu 33 (19-49) · Prism 33 (19-48) · Demho 32 (18-47)  
+
+## INFINITE vs MOUZ NXT — 17/11 · 12:30
+
+👀 candidata · 🎮 CS2 · European Pro League Series 10 · **Gana MOUZ NXT** @ **2.80** (Thunderpick) · prob 35% vs casas 33% · ventaja -1%
+
+- ❌ Valor: ventaja -1% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮 no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 76.902 partidos)  
+Mapa: INFINITE 58% · Serie BO3: INFINITE 62% - 38% MOUZ NXT  
+Casas: INFINITE 67% · MOUZ NXT 33%  
+🔎 **Claves**  
+• Elo: INFINITE 1635 (191 series) | MOUZ NXT 1546 (608 series)  
+• Forma: INFINITE ✅❌❌❌❌ | MOUZ NXT ✅❌❌✅❌  
+• H2H: sin precedentes  
+• Torneo: European Pro League Series 10 (nivel C)  
+• Cambios de plantilla: ninguno  
+🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
+• INFINITE gana 2-1: 25% → cuota justa 4.06 · casa 28%  
+• MOUZ NXT gana 2-1: 18% → cuota justa 5.68 · casa 16%  
 

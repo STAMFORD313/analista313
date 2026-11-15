@@ -69524,31 +69524,31 @@ id,tournament_id,club1,club2,ht1,ht2
 2380842,262070,Porto,Benfica,,
 2380843,262070,Sporting CP,Porto,,
 2380844,262070,Vitoria SC,Braga,,
-2381005,262051,Czechia,Netherlands,2,1
-2381006,262051,Norway,Morocco,1,2
-2381007,262051,Morocco,Czechia,1,2
-2381008,262051,Netherlands,Germany,2,3
-2381009,262051,Germany,Morocco,0,1
-2381010,262051,Czechia,Norway,1,0
-2381011,262051,Norway,Germany,1,0
-2381012,262051,Morocco,Netherlands,1,1
-2381013,262051,Netherlands,Norway,4,0
-2381014,262051,Germany,Czechia,3,0
-2381015,262051,Netherlands,Czechia,0,2
-2381016,262051,Morocco,Norway,1,2
-2381017,262051,Czechia,Morocco,0,1
-2381018,262051,Germany,Netherlands,0,2
-2381019,262051,Morocco,Germany,1,1
-2381020,262051,Norway,Czechia,0,1
+2381005,262051,Czechia,Netherlands,2.0,1.0
+2381006,262051,Norway,Morocco,1.0,2.0
+2381007,262051,Morocco,Czechia,1.0,2.0
+2381008,262051,Netherlands,Germany,2.0,3.0
+2381009,262051,Germany,Morocco,0.0,1.0
+2381010,262051,Czechia,Norway,1.0,0.0
+2381011,262051,Norway,Germany,1.0,0.0
+2381012,262051,Morocco,Netherlands,1.0,1.0
+2381013,262051,Netherlands,Norway,4.0,0.0
+2381014,262051,Germany,Czechia,3.0,0.0
+2381015,262051,Netherlands,Czechia,0.0,2.0
+2381016,262051,Morocco,Norway,1.0,2.0
+2381017,262051,Czechia,Morocco,0.0,1.0
+2381018,262051,Germany,Netherlands,0.0,2.0
+2381019,262051,Morocco,Germany,1.0,1.0
+2381020,262051,Norway,Czechia,0.0,1.0
 2381021,262051,Germany,Norway,,
 2381022,262051,Netherlands,Morocco,,
 2381023,262051,Norway,Netherlands,,
 2381024,262051,Czechia,Germany,,
-2381991,262115,Boca Juniors,River Plate,3,2
-2381992,262115,Boca Juniors,Racing Club,1,2
-2381993,262115,River Plate,Racing Club,1,2
-2381994,262115,River Plate,Boca Juniors,2,4
-2381995,262115,Racing Club,Boca Juniors,3,2
+2381991,262115,Boca Juniors,River Plate,3.0,2.0
+2381992,262115,Boca Juniors,Racing Club,1.0,2.0
+2381993,262115,River Plate,Racing Club,1.0,2.0
+2381994,262115,River Plate,Boca Juniors,2.0,4.0
+2381995,262115,Racing Club,Boca Juniors,3.0,2.0
 2381996,262115,Racing Club,River Plate,,
 2381997,262115,Boca Juniors,River Plate,,
 2381998,262115,Boca Juniors,Racing Club,,
@@ -69556,3 +69556,43 @@ id,tournament_id,club1,club2,ht1,ht2
 2382000,262115,River Plate,Boca Juniors,,
 2382001,262115,Racing Club,Boca Juniors,,
 2382002,262115,Racing Club,River Plate,,
+2381839,262063,Juventus,Bologna,1,1
+2381840,262063,Napoli,Sassuolo,4,1
+2381841,262063,Sassuolo,Juventus,3,1
+2381842,262063,Bologna,Roma,0,3
+2381843,262063,Roma,Sassuolo,2,1
+2381844,262063,Juventus,Napoli,0,4
+2381845,262063,Napoli,Roma,3,2
+2381846,262063,Sassuolo,Bologna,2,1
+2381847,262063,Bologna,Napoli,,
+2381848,262063,Roma,Juventus,,
+2381849,262063,Bologna,Juventus,,
+2381850,262063,Sassuolo,Napoli,,
+2381851,262063,Juventus,Sassuolo,,
+2381852,262063,Roma,Bologna,,
+2381853,262063,Sassuolo,Roma,,
+2381854,262063,Napoli,Juventus,,
+2381855,262063,Roma,Napoli,,
+2381856,262063,Bologna,Sassuolo,,
+2381857,262063,Napoli,Bologna,,
+2381858,262063,Juventus,Roma,,
+2381559,262104,Man City,Arsenal,1,1
+2381560,262104,Tottenham,Chelsea,1,0
+2381561,262104,Chelsea,Man City,1,1
+2381562,262104,Arsenal,Liverpool,1,4
+2381563,262104,Liverpool,Chelsea,0,1
+2381564,262104,Man City,Tottenham,0,3
+2381565,262104,Tottenham,Liverpool,2,2
+2381566,262104,Chelsea,Arsenal,1,2
+2381567,262104,Arsenal,Tottenham,1,0
+2381568,262104,Liverpool,Man City,2,2
+2381569,262104,Arsenal,Man City,,
+2381570,262104,Chelsea,Tottenham,,
+2381571,262104,Man City,Chelsea,,
+2381572,262104,Liverpool,Arsenal,,
+2381573,262104,Chelsea,Liverpool,,
+2381574,262104,Tottenham,Man City,,
+2381575,262104,Liverpool,Tottenham,,
+2381576,262104,Arsenal,Chelsea,,
+2381577,262104,Tottenham,Arsenal,,
+2381578,262104,Man City,Liverpool,,
