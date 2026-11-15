@@ -1,25 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 15/11/2026 17:24 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Krkula vs lzrn — 15/11 · 17:28
-
-👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana Krkula** @ **1.97** (Unibet) · prob 54% vs casas 44% · ventaja +7%
-
-- ❌ Valor: ventaja +7% (mín. 10% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 69.124 partidos)  
-Goles esperados: Krkula 3.64 · lzrn 2.82  
-Ganador: Krkula 54% · empate 17% · lzrn 28%  
-Total: más de 6.5 goles 47% · menos 53%  
-Hándicap Krkula: −1.5 39% · −2.5 25%  
-🔎 **Claves**  
-• Forma: Krkula ❌❌❌✅✅ | lzrn ➖✅❌➖➖  
-• Partidos: Krkula 748 | lzrn 913  
-• Liga: Champions League B  
-• Unibet: 1 1.97 · X 4.80 · 2 2.33 (sin margen 44%/18%/37%) · ventaja +7%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 1.97 (+7%) · Paf España 1.97 (+7%)  
+Actualizado 15/11/2026 17:56 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## SDI vs Smetana — 15/11 · 18:02
 
@@ -39,6 +20,24 @@ Hándicap Smetana: −1.5 66% · −2.5 51%
 • Liga: A-League  
 • Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
 
+## Smetana vs VD — 15/11 · 18:26
+
+👀 candidata · 🎮⚽ FC 27 · A-League · **Gana Smetana** @ **1.33** (cuota justa (sin casa)) · prob 75% vs casas 75% · ventaja +0%
+
+- ❌ Valor: ventaja +0% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 69.194 partidos)  
+Goles esperados: Smetana 4.12 · VD 2.14  
+Ganador: Smetana 75% · empate 13% · VD 12%  
+Total: más de 6.5 goles 43% · menos 57%  
+Hándicap Smetana: −1.5 57% · −2.5 41%  
+🔎 **Claves**  
+• Forma: Smetana ✅➖➖✅✅ | VD ❌✅❌✅❌  
+• Partidos: Smetana 1264 | VD 392  
+• Liga: A-League  
+• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
+
 ## Smetana vs SDI — 15/11 · 19:22
 
 👀 candidata · 🎮⚽ FC 27 · Copa America · **Gana Smetana** @ **1.22** (cuota justa (sin casa)) · prob 82% vs casas 82% · ventaja +0%
@@ -54,6 +53,24 @@ Hándicap Smetana: −1.5 68% · −2.5 53%
 🔎 **Claves**  
 • Forma: Smetana ✅✅✅➖➖ | SDI ❌❌❌❌➖  
 • Partidos: Smetana 1262 | SDI 597  
+• Liga: Copa America  
+• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
+
+## VD vs Smetana — 15/11 · 19:46
+
+👀 candidata · 🎮⚽ FC 27 · Copa America · **Gana Smetana** @ **1.30** (cuota justa (sin casa)) · prob 77% vs casas 77% · ventaja +0%
+
+- ❌ Valor: ventaja +0% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 69.194 partidos)  
+Goles esperados: VD 2.27 · Smetana 4.37  
+Ganador: VD 11% · empate 12% · Smetana 77%  
+Total: más de 6.5 goles 50% · menos 50%  
+Hándicap Smetana: −1.5 59% · −2.5 43%  
+🔎 **Claves**  
+• Forma: VD ❌✅❌✅❌ | Smetana ✅➖➖✅✅  
+• Partidos: VD 392 | Smetana 1264  
 • Liga: Copa America  
 • Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
 
