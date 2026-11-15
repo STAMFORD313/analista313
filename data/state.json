@@ -1119,10 +1119,6 @@
   "atp|2026-11-17|Flavio Cobolli|Frances Tiafoe",
   "atp|2026-11-17|Carlos Alcaraz|Flavio Cobolli",
   "cbb|2026-11-18|North Dakota Fighting Hawks|SIU Edwardsville Cougars",
-  "fc|2374267",
-  "cs2|133194",
-  "cs2|133195",
-  "cs2|133196",
   "fc|2374523",
   "fc|2373344",
   "fc|2373172",
@@ -2122,7 +2118,15 @@
   "cs2|133938",
   "fc|2380825",
   "fc|2381757",
-  "fc|2380826"
+  "fc|2380826",
+  "wta|2026-11-16|Valeriya Strakhova|Anastasia Tikhonova",
+  "wta|2026-11-16|Guiomar Maristany Zuleta De Reales|Martina Trevisan",
+  "wta|2026-11-16|Rebeka Masarova|Diletta Cherubini",
+  "wta|2026-11-16|Luisina Giovannini|Ariana Geerlings",
+  "cs2|133257",
+  "fc|2381827",
+  "fc|2380831",
+  "fc|2381552"
  ],
  "signals": [
   {
@@ -7691,26 +7695,6 @@
    "logged": true
   },
   {
-   "key": "vp|2026-11-12|Aguila|Municipal Limeno",
-   "market": "H",
-   "pick": "Aguila",
-   "odds": 1.72,
-   "book": "Smarkets",
-   "p": 0.6029,
-   "implied": 0.6029,
-   "edge": 0.0345,
-   "match": "Aguila vs Municipal Limeno",
-   "start": "2026-11-12T21:30:00+00:00",
-   "league": "💎 Valor vs Pinnacle · El Salvador - Primera Division",
-   "sport": "⚽💎",
-   "context": "Aguila vs Municipal Limeno (El Salvador - Primera Division). Estrategia de valor: Smarkets 1.72 frente a Pinnacle justo 1.66.",
-   "captured": "2026-11-12T05:13",
-   "version": "43c0e21",
-   "bajas": "",
-   "considered": true,
-   "placed": false
-  },
-  {
    "market": "t1",
    "team_id": 25398,
    "pick": "CyberHero",
@@ -7770,27 +7754,6 @@
    "league": "💎 Valor vs Pinnacle · Brazil - Serie B",
    "sport": "⚽💎",
    "context": "Sao Bernardo vs Athletic Club (Brazil - Serie B). Estrategia de valor: Unibet 1.95 frente a Pinnacle justo 1.88.",
-   "captured": "2026-11-12T09:43",
-   "version": "4fa4127",
-   "bajas": "",
-   "considered": true,
-   "placed": false
-  },
-  {
-   "key": "vp|2026-11-12|Aguila|Municipal Limeno",
-   "market": "U25",
-   "line": 2.5,
-   "odds": 2.1,
-   "book": "Smarkets",
-   "p": 0.5239,
-   "implied": 0.5239,
-   "edge": 0.0991,
-   "match": "Aguila vs Municipal Limeno",
-   "start": "2026-11-12T21:30:00+00:00",
-   "league": "💎 Valor vs Pinnacle · El Salvador - Primera Division",
-   "sport": "⚽💎⚽",
-   "sin_stake": true,
-   "context": "Aguila vs Municipal Limeno: menos de 2.5 goles, valor contra Pinnacle.",
    "captured": "2026-11-12T09:43",
    "version": "4fa4127",
    "bajas": "",
@@ -7913,31 +7876,6 @@
    "placed": false
   },
   {
-   "market": "D",
-   "pick": "Empate",
-   "odds": 5.8,
-   "book": "Unibet",
-   "implied": 0.149,
-   "edge": 0.176,
-   "sin_stake": true,
-   "p": 0.203,
-   "key": "fc|2376543",
-   "match": "Lunjo vs Joop",
-   "start": "2026-11-12T21:28:00+00:00",
-   "league": "🎮⚽ FC 27 · LaLiga",
-   "sport": "🎮⚽",
-   "context": "EA FC Esoccer Battle Lunjo vs Joop (LaLiga): goles esperados 2.82-2.33, 1X2 52%/20%/28%. Sin cuotas de casa.",
-   "captured": "2026-11-12T20:51",
-   "version": "7486942",
-   "bajas": "",
-   "considered": true,
-   "placed": false,
-   "score": "3-4",
-   "result": false,
-   "close_p": null,
-   "logged": true
-  },
-  {
    "market": "A",
    "pick": "zaha",
    "odds": 1.49,
@@ -7983,31 +7921,6 @@
    "considered": true,
    "placed": false,
    "score": "4-3",
-   "result": false,
-   "close_p": null,
-   "logged": true
-  },
-  {
-   "market": "H",
-   "pick": "DangerDim77",
-   "odds": 3.25,
-   "book": "Unibet",
-   "implied": 0.27,
-   "edge": 0.108,
-   "sin_stake": true,
-   "p": 0.341,
-   "key": "fc|2375690",
-   "match": "DangerDim77 vs Kray",
-   "start": "2026-11-12T21:22:00+00:00",
-   "league": "🎮⚽ FC 27 · Portugal Primera",
-   "sport": "🎮⚽",
-   "context": "EA FC Esoccer Battle DangerDim77 vs Kray (Portugal Primera): goles esperados 3.01-3.39, 1X2 34%/18%/47%. Sin cuotas de casa.",
-   "captured": "2026-11-12T21:19",
-   "version": "33c705a",
-   "bajas": "",
-   "considered": true,
-   "placed": false,
-   "score": "1-2",
    "result": false,
    "close_p": null,
    "logged": true
@@ -8362,7 +8275,11 @@
    "version": "6842c0e",
    "bajas": "Atlanta Falcons: 2 fuera, 23 duda (Brian Robinson Jr., Samson Ebukam); Kansas City Chiefs: 1 fuera, 24 duda (L'Jarius Sneed)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "13-35",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "sph",
@@ -8383,7 +8300,11 @@
    "version": "6842c0e",
    "bajas": "Atlanta Falcons: 2 fuera, 23 duda (Brian Robinson Jr., Samson Ebukam); Kansas City Chiefs: 1 fuera, 24 duda (L'Jarius Sneed)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "13-35",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "home",
@@ -8403,7 +8324,11 @@
    "version": "6842c0e",
    "bajas": "Atlanta Falcons: 2 fuera, 23 duda (Brian Robinson Jr., Samson Ebukam); Kansas City Chiefs: 1 fuera, 24 duda (L'Jarius Sneed)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "13-35",
+   "close_p": 0.3707,
+   "logged": true
   },
   {
    "market": "over",
@@ -8425,7 +8350,11 @@
    "version": "6842c0e",
    "bajas": "Cleveland Browns: 0 fuera, 25 duda; Houston Texans: 2 fuera, 23 duda (Jaylin Smith, Jake Hummel)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "27-24",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "sph",
@@ -8446,7 +8375,11 @@
    "version": "6842c0e",
    "bajas": "Cleveland Browns: 0 fuera, 25 duda; Houston Texans: 2 fuera, 23 duda (Jaylin Smith, Jake Hummel)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "27-24",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "home",
@@ -8466,7 +8399,11 @@
    "version": "6842c0e",
    "bajas": "Cleveland Browns: 0 fuera, 25 duda; Houston Texans: 2 fuera, 23 duda (Jaylin Smith, Jake Hummel)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "27-24",
+   "close_p": 0.3676,
+   "logged": true
   },
   {
    "market": "over",
@@ -8563,7 +8500,11 @@
    "version": "6842c0e",
    "bajas": "Tennessee Titans: 1 fuera, 24 duda (James Williams Sr.); Jacksonville Jaguars: 2 fuera, 23 duda (B.J. Green II, Cam'Ron Silmon-Craig)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "23-40",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "sph",
@@ -8584,7 +8525,11 @@
    "version": "6842c0e",
    "bajas": "Tennessee Titans: 1 fuera, 24 duda (James Williams Sr.); Jacksonville Jaguars: 2 fuera, 23 duda (B.J. Green II, Cam'Ron Silmon-Craig)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "23-40",
+   "close_p": 0.4861,
+   "logged": true
   },
   {
    "market": "away",
@@ -8604,7 +8549,11 @@
    "version": "6842c0e",
    "bajas": "Tennessee Titans: 1 fuera, 24 duda (James Williams Sr.); Jacksonville Jaguars: 2 fuera, 23 duda (B.J. Green II, Cam'Ron Silmon-Craig)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "23-40",
+   "close_p": 0.8132,
+   "logged": true
   },
   {
    "market": "over",
@@ -8626,7 +8575,11 @@
    "version": "6842c0e",
    "bajas": "Indianapolis Colts: 2 fuera, 23 duda (Arden Key, Alec Pierce); Miami Dolphins: 3 fuera, 22 duda (Darrell Baker Jr., Malik Willis, Zach Sieler)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "24-22",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "sph",
@@ -8647,7 +8600,11 @@
    "version": "6842c0e",
    "bajas": "Indianapolis Colts: 2 fuera, 23 duda (Arden Key, Alec Pierce); Miami Dolphins: 3 fuera, 22 duda (Darrell Baker Jr., Malik Willis, Zach Sieler)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "24-22",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "home",
@@ -8667,7 +8624,11 @@
    "version": "6842c0e",
    "bajas": "Indianapolis Colts: 2 fuera, 23 duda (Arden Key, Alec Pierce); Miami Dolphins: 3 fuera, 22 duda (Darrell Baker Jr., Malik Willis, Zach Sieler)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "24-22",
+   "close_p": 0.6569,
+   "logged": true
   },
   {
    "market": "over",
@@ -8689,7 +8650,11 @@
    "version": "6842c0e",
    "bajas": "New Orleans Saints: 1 fuera, 24 duda (Travis Etienne Jr.); Carolina Panthers: 4 fuera, 21 duda (Xavier Legette, Jonathon Brooks, Mike Jackson)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "17-20",
+   "close_p": 0.5171,
+   "logged": true
   },
   {
    "market": "sph",
@@ -8710,7 +8675,11 @@
    "version": "6842c0e",
    "bajas": "New Orleans Saints: 1 fuera, 24 duda (Travis Etienne Jr.); Carolina Panthers: 4 fuera, 21 duda (Xavier Legette, Jonathon Brooks, Mike Jackson)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "17-20",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "home",
@@ -8730,7 +8699,11 @@
    "version": "6842c0e",
    "bajas": "New Orleans Saints: 1 fuera, 24 duda (Travis Etienne Jr.); Carolina Panthers: 4 fuera, 21 duda (Xavier Legette, Jonathon Brooks, Mike Jackson)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "17-20",
+   "close_p": 0.4977,
+   "logged": true
   },
   {
    "market": "over",
@@ -8752,7 +8725,11 @@
    "version": "6842c0e",
    "bajas": "New York Jets: 2 fuera, 23 duda (VJ Payne, Max Mitchell); Buffalo Bills: 1 fuera, 24 duda (Tyrell Shavers)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "12-31",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "sph",
@@ -8773,7 +8750,11 @@
    "version": "6842c0e",
    "bajas": "New York Jets: 2 fuera, 23 duda (VJ Payne, Max Mitchell); Buffalo Bills: 1 fuera, 24 duda (Tyrell Shavers)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "12-31",
+   "close_p": 0.5369,
+   "logged": true
   },
   {
    "market": "away",
@@ -8793,7 +8774,11 @@
    "version": "6842c0e",
    "bajas": "New York Jets: 2 fuera, 23 duda (VJ Payne, Max Mitchell); Buffalo Bills: 1 fuera, 24 duda (Tyrell Shavers)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "12-31",
+   "close_p": 0.798,
+   "logged": true
   },
   {
    "market": "over",
@@ -8936,18 +8921,6 @@
    "pick": "Más de 55.5 puntos",
    "league": "🏈 NFL",
    "sport": "🏈",
-   "info": [
-    "📊 <b>Escenarios</b>: total esperado <b>54.2</b> puntos · línea 55.5",
-    "Más 52% · Menos 48%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Dallas Cowboys ❌❌✅❌✅ | San Francisco 49ers ✅✅✅❌✅",
-    "• H2H: 8 desde 2017: 2-6",
-    "• Bajas: Dallas Cowboys: 5 fuera, 20 duda (Devin Moore, Tyler Goodson, P.J. Locke); San Francisco 49ers: 3 fuera, 22 duda (C.J. West, Gracen Halton, Brandon Aiyuk)",
-    "",
-    "🧩 Combinada: Gana Dallas Cowboys + Más de 55.5 puntos → prob. 20%, cuota justa 5.12",
-    "🎯 No simulada (NFL): cuota DraftKings aprox. 4.99 (producto de piernas) · prob. 20% · ventaja -3%"
-   ],
    "context": "Dallas Cowboys vs San Francisco 49ers (🏈 NFL). Modelo de puntos (ataque/defensa con 10 años, decaimiento 1 año): total esperado 54.2 frente a línea 55.5. Forma Dallas Cowboys ❌❌✅❌✅, San Francisco 49ers ✅✅✅❌✅. H2H 8 desde 2017: 2-6. Bajas: Dallas Cowboys: 5 fuera, 20 duda (Devin Moore, Tyler Goodson, P.J. Locke); San Francisco 49ers: 3 fuera, 22 duda (C.J. West, Gracen Halton, Brandon Aiyuk).",
    "captured": "2026-11-13T00:21",
    "version": "6842c0e",
@@ -8969,17 +8942,6 @@
    "pick": "Dallas Cowboys +3.5",
    "league": "🏈 NFL",
    "sport": "🏈",
-   "info": [
-    "📊 <b>Escenarios</b>: Dallas Cowboys cubre +3.5 con prob. 49% (casas 49%)",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Dallas Cowboys ❌❌✅❌✅ | San Francisco 49ers ✅✅✅❌✅",
-    "• H2H: 8 desde 2017: 2-6",
-    "• Bajas: Dallas Cowboys: 5 fuera, 20 duda (Devin Moore, Tyler Goodson, P.J. Locke); San Francisco 49ers: 3 fuera, 22 duda (C.J. West, Gracen Halton, Brandon Aiyuk)",
-    "",
-    "🧩 Combinada: Gana Dallas Cowboys + Más de 55.5 puntos → prob. 20%, cuota justa 5.12",
-    "🎯 No simulada (NFL): cuota DraftKings aprox. 4.99 (producto de piernas) · prob. 20% · ventaja -3%"
-   ],
    "context": "Dallas Cowboys vs San Francisco 49ers (🏈 NFL). Hándicap Dallas Cowboys +3.5: margen esperado desde el Elo (gana Dallas Cowboys 35%). Forma Dallas Cowboys ❌❌✅❌✅, San Francisco 49ers ✅✅✅❌✅. H2H 8 desde 2017: 2-6. Bajas: Dallas Cowboys: 5 fuera, 20 duda (Devin Moore, Tyler Goodson, P.J. Locke); San Francisco 49ers: 3 fuera, 22 duda (C.J. West, Gracen Halton, Brandon Aiyuk).",
    "captured": "2026-11-13T00:21",
    "version": "6842c0e",
@@ -9000,21 +8962,6 @@
    "start": "2026-11-15T21:25Z",
    "league": "🏈 NFL",
    "sport": "🏈",
-   "info": [
-    "📊 <b>Escenarios</b> (Elo con 3.274 partidos y bajas)",
-    "Gana Dallas Cowboys 35% · Gana San Francisco 49ers 65%",
-    "Casas: Dallas Cowboys 36% · San Francisco 49ers 64%",
-    "Hándicap SF -3.5 · Total puntos 55.5",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Dallas Cowboys ❌❌✅❌✅ | San Francisco 49ers ✅✅✅❌✅",
-    "• H2H: 8 desde 2017: 2-6",
-    "• Bajas: Dallas Cowboys: 5 fuera, 20 duda (Devin Moore, Tyler Goodson, P.J. Locke); San Francisco 49ers: 3 fuera, 22 duda (C.J. West, Gracen Halton, Brandon Aiyuk)",
-    "• Favorito de las casas: San Francisco 49ers @ 1.49",
-    "",
-    "🧩 Combinada: Gana Dallas Cowboys + Más de 55.5 puntos → prob. 20%, cuota justa 5.12",
-    "🎯 No simulada (NFL): cuota DraftKings aprox. 4.99 (producto de piernas) · prob. 20% · ventaja -3%"
-   ],
    "context": "Dallas Cowboys vs San Francisco 49ers (🏈 NFL, fútbol americano). Modelo Elo con 10 años de historial ajustado por bajas: Dallas Cowboys 35%, San Francisco 49ers 65%. Cuotas DraftKings 2.7/1.488, hándicap SF -3.5, total 55.5. Forma Dallas Cowboys ❌❌✅❌✅, San Francisco 49ers ✅✅✅❌✅. H2H 8 desde 2017: 2-6. Bajas Dallas Cowboys: KaVontae Turpin duda; Juanyeh Thomas duda; Alijah Clark duda; George Pickens duda; Caleb Downs duda; Joey Porter Jr. duda; DeMarvion Overshown duda; Luke Schoonmaker duda; Devin Moore lesionado; Tyler Goodson lesionado; Ryan Flournoy duda; Donovan Ezeiruaku duda; Brevyn Spann-Ford duda; P.J. Locke lesionado; Jake Ferguson lesionado; Ajani Cornelius duda; Tyrus Wheat duda; Brandon Aubrey duda; Dak Prescott duda; Javonte Williams duda; CeeDee Lamb duda; Dee Winters duda; Jonathan Mingo duda; Marist Liufau duda; Jonathan Bullard lesionado. Bajas San Francisco 49ers: Trent Williams duda; Deebo Samuel Sr. duda; Mike Evans duda; Jaden Dugger duda; Dre Greenlaw duda; Fred Warner duda; C.J. West lesionado; Deommodore Lenoir duda; Renardo Green duda; Upton Stout duda; Siran Neal duda; Gracen Halton lesionado; Brandin Cooks duda; Demarcus Robinson duda; Mac Jones duda; Keenan Allen duda; Jordan James duda; Eddy Pineiro duda; Brandon Aiyuk lesionado; Khalid Kareem duda; Tatum Bethune duda; Enrique Cruz Jr. duda; Kurtis Rourke duda; Kaelon Black duda; Jordan Watkins duda.",
    "captured": "2026-11-13T00:21",
    "version": "6842c0e",
@@ -13183,7 +13130,11 @@
    "version": "377f1be",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "2-1",
+   "result": true,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "AHA",
@@ -13204,7 +13155,11 @@
    "version": "377f1be",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "2-1",
+   "result": false,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "A",
@@ -15003,7 +14958,11 @@
    "version": "68987e4",
    "bajas": "Oklahoma Sooners: sin bajas; Ole Miss Rebels: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "24-17",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "sph",
@@ -15024,7 +14983,11 @@
    "version": "68987e4",
    "bajas": "Oklahoma Sooners: sin bajas; Ole Miss Rebels: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "24-17",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "home",
@@ -15044,7 +15007,11 @@
    "version": "68987e4",
    "bajas": "Oklahoma Sooners: sin bajas; Ole Miss Rebels: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "24-17",
+   "close_p": null,
+   "logged": true
   },
   {
    "key": "vp|2026-11-14|Walton and Hersham|Aveley",
@@ -20033,10 +20000,6 @@
    "start": "2026-11-15T21:30:00+00:00",
    "league": "💎 Valor vs Pinnacle · Bolivia - Cup",
    "sport": "⚽💎",
-   "info": [
-    "💎 <b>Valor contra Pinnacle</b>: Unibet paga 2.50 y el precio justo de Pinnacle es 2.37 (ventaja +5.5%)",
-    "Backtest 2015-2026 (cuota ≤ 2.5, > 3 %): ROI +11 % ± 3 %, CLV +5 %."
-   ],
    "context": "Nacional Potosi vs Real Potosi (Bolivia - Cup). Estrategia de valor: Unibet 2.50 frente a Pinnacle justo 2.37.",
    "captured": "2026-11-15T13:54",
    "version": "53ab556",
@@ -20998,7 +20961,11 @@
    "version": "f172c79",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "1-5",
+   "result": false,
+   "close_p": null,
+   "logged": true
   },
   {
    "key": "vp|2026-11-16|Kazakhstan|Slovakia",
@@ -21057,6 +21024,111 @@
    "context": "CS2 WBT vs ex-ENCE, BO3, torneo European Pro League Series 10 nivel c. Elo por mapa 1707 vs 1578 (prob. mapa 62%, serie 67%). Forma ✅❌✅❌❌ / ✅✅❌❌✅ (✅ victoria ❌ derrota). H2H sin precedentes. Cambios de plantilla: ninguno. Cuotas Thunderpick 1.5/2.4.",
    "captured": "2026-11-15T21:09",
    "version": "55c95e4",
+   "bajas": "",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "H",
+   "pick": "ssstasonn",
+   "odds": 10.0,
+   "book": "Unibet",
+   "implied": 0.088,
+   "edge": 0.142,
+   "sin_stake": true,
+   "p": 0.114,
+   "key": "fc|2381827",
+   "match": "ssstasonn vs Nightxx",
+   "start": "2026-11-15T21:43:00+00:00",
+   "league": "🎮⚽ FC 27 · World Cup A",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 69.450 partidos)",
+    "Goles esperados: ssstasonn 2.32 · Nightxx 4.39",
+    "Ganador: ssstasonn 11% · empate 12% · Nightxx 77%",
+    "Total: más de 6.5 goles 51% · menos 49%",
+    "Hándicap Nightxx: −1.5 58% · −2.5 42%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: ssstasonn ❌➖❌✅❌ | Nightxx ❌✅❌❌✅",
+    "• Partidos: ssstasonn 1097 | Nightxx 980",
+    "• Liga: World Cup A",
+    "• Unibet: 1 10.00 · X 8.00 · 2 1.09 (sin margen 9%/11%/80%) · ventaja +14%. Sin stake hasta demostrar ROI con estas cuotas.",
+    "• En España: LeoVegas España 10.00 (+14%) · Paf España 10.00 (+14%)"
+   ],
+   "context": "EA FC Esoccer Battle ssstasonn vs Nightxx (World Cup A): goles esperados 2.32-4.39, 1X2 11%/12%/77%. Sin cuotas de casa.",
+   "captured": "2026-11-15T21:38",
+   "version": "a961e4e",
+   "bajas": "",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "A",
+   "pick": "curuza",
+   "odds": 3.65,
+   "book": "Unibet",
+   "implied": 0.241,
+   "edge": 0.059,
+   "sin_stake": true,
+   "p": 0.29,
+   "key": "fc|2380831",
+   "match": "kirman vs curuza",
+   "start": "2026-11-15T21:46:00+00:00",
+   "league": "🎮⚽ FC 27 · Portugal Primera",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 69.450 partidos)",
+    "Goles esperados: kirman 3.50 · curuza 2.93",
+    "Ganador: kirman 53% · empate 18% · curuza 29%",
+    "Total: más de 6.5 goles 46% · menos 54%",
+    "Hándicap kirman: −1.5 35% · −2.5 22%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: kirman ➖✅✅✅➖ | curuza ❌➖❌✅✅",
+    "• Partidos: kirman 735 | curuza 890",
+    "• Liga: Portugal Primera",
+    "• Unibet: 1 1.53 · X 4.80 · 2 3.65 (sin margen 58%/18%/24%) · ventaja +6%. Sin stake hasta demostrar ROI con estas cuotas.",
+    "• En España: LeoVegas España 3.65 (+6%) · Paf España 3.65 (+6%)"
+   ],
+   "context": "EA FC Esoccer Battle kirman vs curuza (Portugal Primera): goles esperados 3.50-2.93, 1X2 53%/18%/29%. Sin cuotas de casa.",
+   "captured": "2026-11-15T21:38",
+   "version": "a961e4e",
+   "bajas": "",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "A",
+   "pick": "Djape",
+   "odds": 2.04,
+   "book": "Unibet",
+   "implied": 0.428,
+   "edge": 0.051,
+   "sin_stake": true,
+   "p": 0.515,
+   "key": "fc|2381552",
+   "match": "mixes vs Djape",
+   "start": "2026-11-15T21:52:00+00:00",
+   "league": "🎮⚽ FC 27 · LaLiga",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 69.450 partidos)",
+    "Goles esperados: mixes 3.12 · Djape 3.73",
+    "Ganador: mixes 31% · empate 17% · Djape 52%",
+    "Total: más de 6.5 goles 53% · menos 47%",
+    "Hándicap Djape: −1.5 36% · −2.5 23%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: mixes ➖❌➖❌➖ | Djape ✅✅❌➖✅",
+    "• Partidos: mixes 194 | Djape 195",
+    "• Liga: LaLiga",
+    "• Unibet: 1 2.33 · X 4.40 · 2 2.04 (sin margen 37%/20%/43%) · ventaja +5%. Sin stake hasta demostrar ROI con estas cuotas.",
+    "• En España: LeoVegas España 2.04 (+5%) · Paf España 2.04 (+5%)"
+   ],
+   "context": "EA FC Esoccer Battle mixes vs Djape (LaLiga): goles esperados 3.12-3.73, 1X2 31%/17%/52%. Sin cuotas de casa.",
+   "captured": "2026-11-15T21:38",
+   "version": "a961e4e",
    "bajas": "",
    "considered": true,
    "placed": false
@@ -21631,150 +21703,6 @@
      "line": 4.5,
      "text": "Más de 4.5 tiros a puerta de Estoril"
     }
-   ]
-  },
-  "nfl|2026-11-15|Atlanta Falcons|Kansas City Chiefs": {
-   "match": "Atlanta Falcons vs Kansas City Chiefs",
-   "start": "2026-11-15T18:00Z",
-   "combos": [
-    {
-     "kind": "nfl",
-     "p": 0.2039,
-     "odds": 4.77,
-     "edge": -0.027,
-     "legs": [
-      {
-       "var": "win_home",
-       "sign": 1,
-       "line": 0.0,
-       "p": 0.384,
-       "odds": 2.5,
-       "text": "Gana Atlanta Falcons"
-      },
-      {
-       "var": "total_t",
-       "sign": 1,
-       "line": 46.5,
-       "p": 0.5,
-       "odds": 1.909,
-       "text": "Más de 46.5 puntos"
-      }
-     ],
-     "sim": false
-    }
-   ],
-   "priced": true,
-   "lines": [
-    "🧩 Combinada: Gana Atlanta Falcons + Más de 46.5 puntos → prob. 20%, cuota justa 4.90",
-    "🎯 No simulada (NFL): cuota DraftKings aprox. 4.77 (producto de piernas) · prob. 20% · ventaja -3%"
-   ]
-  },
-  "nfl|2026-11-15|Cleveland Browns|Houston Texans": {
-   "match": "Cleveland Browns vs Houston Texans",
-   "start": "2026-11-15T18:00Z",
-   "combos": [
-    {
-     "kind": "nfl",
-     "p": 0.1781,
-     "odds": 5.49,
-     "edge": -0.023,
-     "legs": [
-      {
-       "var": "win_home",
-       "sign": 1,
-       "line": 0.0,
-       "p": 0.336,
-       "odds": 2.85,
-       "text": "Gana Cleveland Browns"
-      },
-      {
-       "var": "total_t",
-       "sign": 1,
-       "line": 40.5,
-       "p": 0.496,
-       "odds": 1.926,
-       "text": "Más de 40.5 puntos"
-      }
-     ],
-     "sim": false
-    }
-   ],
-   "priced": true,
-   "lines": [
-    "🧩 Combinada: Gana Cleveland Browns + Más de 40.5 puntos → prob. 18%, cuota justa 5.61",
-    "🎯 No simulada (NFL): cuota DraftKings aprox. 5.49 (producto de piernas) · prob. 18% · ventaja -2%"
-   ]
-  },
-  "nfl|2026-11-15|Indianapolis Colts|Miami Dolphins": {
-   "match": "Indianapolis Colts vs Miami Dolphins",
-   "start": "2026-11-15T18:00Z",
-   "combos": [
-    {
-     "kind": "nfl",
-     "p": 0.193,
-     "odds": 5.05,
-     "edge": -0.025,
-     "legs": [
-      {
-       "var": "win_away",
-       "sign": 1,
-       "line": 0.0,
-       "p": 0.355,
-       "odds": 2.7,
-       "text": "Gana Miami Dolphins"
-      },
-      {
-       "var": "total_t",
-       "sign": -1,
-       "line": 38.5,
-       "p": 0.511,
-       "odds": 1.87,
-       "text": "Menos de 38.5 puntos"
-      }
-     ],
-     "sim": false
-    }
-   ],
-   "priced": true,
-   "lines": [
-    "🧩 Combinada: Gana Miami Dolphins + Menos de 38.5 puntos → prob. 19%, cuota justa 5.18",
-    "🎯 No simulada (NFL): cuota DraftKings aprox. 5.05 (producto de piernas) · prob. 19% · ventaja -2%"
-   ]
-  },
-  "nfl|2026-11-15|New Orleans Saints|Carolina Panthers": {
-   "match": "New Orleans Saints vs Carolina Panthers",
-   "start": "2026-11-15T18:00Z",
-   "combos": [
-    {
-     "kind": "nfl",
-     "p": 0.2391,
-     "odds": 4.04,
-     "edge": -0.033,
-     "legs": [
-      {
-       "var": "win_away",
-       "sign": 1,
-       "line": 0.0,
-       "p": 0.457,
-       "odds": 2.1,
-       "text": "Gana Carolina Panthers"
-      },
-      {
-       "var": "total_t",
-       "sign": -1,
-       "line": 48.5,
-       "p": 0.496,
-       "odds": 1.926,
-       "text": "Menos de 48.5 puntos"
-      }
-     ],
-     "sim": false
-    }
-   ],
-   "priced": true,
-   "lines": [
-    "🧩 Combinada: Gana Carolina Panthers + Menos de 48.5 puntos → prob. 24%, cuota justa 4.18",
-    "🎯 No simulada (NFL): cuota DraftKings aprox. 4.04 (producto de piernas) · prob. 24% · ventaja -3%"
    ]
   },
   "nfl|2026-11-15|Las Vegas Raiders|Seattle Seahawks": {
@@ -22647,7 +22575,7 @@
   "SP2|2026-11-15|Eldense|Sabadell"
  ],
  "paper_sent": "2026-11-15T18:07:06.978759+00:00",
- "sgp_res_n": 425,
+ "sgp_res_n": 429,
  "nba_props_ok": [
   "nba|2026-11-05|Detroit Pistons|Philadelphia 76ers",
   "nba|2026-11-05|Washington Wizards|Atlanta Hawks",

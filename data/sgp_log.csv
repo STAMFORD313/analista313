@@ -424,3 +424,7 @@ fecha,partido,tipo,piernas,p,acierto,piernas_acertadas,p_piernas,cuota,ventaja,s
 2026-11-14,Oviedo vs Girona,valor,2,0.4333,0,0,0.6614,2.82,0.22,1,-1.0,Menos de 4.5 córners de Girona + Menos de 2.5 goles,0
 2026-11-15,Detroit Lions vs New England Patriots,nfl,2,0.2299,0,1,0.4695,4.22,-0.031,0,,Gana New England Patriots + Menos de 51.5 puntos,1
 2026-11-15,Green Bay Packers vs Minnesota Vikings,nfl,2,0.2216,1,2,0.4585,4.37,-0.031,0,,Gana Minnesota Vikings + Menos de 41.5 puntos,11
+2026-11-15,Atlanta Falcons vs Kansas City Chiefs,nfl,2,0.2039,0,1,0.442,4.77,-0.027,0,,Gana Atlanta Falcons + Más de 46.5 puntos,01
+2026-11-15,Cleveland Browns vs Houston Texans,nfl,2,0.1781,1,2,0.416,5.49,-0.023,0,,Gana Cleveland Browns + Más de 40.5 puntos,11
+2026-11-15,Indianapolis Colts vs Miami Dolphins,nfl,2,0.193,0,0,0.433,5.05,-0.025,0,,Gana Miami Dolphins + Menos de 38.5 puntos,00
+2026-11-15,New Orleans Saints vs Carolina Panthers,nfl,2,0.2391,1,2,0.4765,4.04,-0.033,0,,Gana Carolina Panthers + Menos de 48.5 puntos,11
