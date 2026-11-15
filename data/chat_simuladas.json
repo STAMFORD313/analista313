@@ -2938,7 +2938,10 @@
     "away": "Houston Texans",
     "txt": "Gana Cleveland Browns",
     "odds": 2.64,
-    "p": 0.40923999999999994
+    "p": 0.40923999999999994,
+    "ok": true,
+    "por": "ganó Cleveland Browns 27-24",
+    "clv": -0.03
    },
    {
     "code": null,
