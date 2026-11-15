@@ -1,11 +1,11 @@
 {
  "nba": {
-  "rho": 0.0023,
-  "sd_margin": 14.72,
-  "sd_total": 18.83,
-  "n_test": 1394,
-  "ll_indep": 1.32319,
-  "ll_copula": 1.32317,
+  "rho": 0.0024,
+  "sd_margin": 14.71,
+  "sd_total": 18.86,
+  "n_test": 1396,
+  "ll_indep": 1.32394,
+  "ll_copula": 1.32391,
   "se": 4e-05
  },
  "nfl": {
@@ -18,12 +18,12 @@
   "se": 0.00243
  },
  "nhl": {
-  "rho": 0.0365,
+  "rho": 0.0372,
   "sd_margin": 2.55,
   "sd_total": 2.29,
-  "n_test": 1494,
-  "ll_indep": 1.36863,
-  "ll_copula": 1.36842,
-  "se": 0.0006
+  "n_test": 1502,
+  "ll_indep": 1.3691,
+  "ll_copula": 1.36891,
+  "se": 0.00061
  }
 }
