@@ -1,50 +1,6 @@
 # 🏈 NFL·NCAA · apuestas de valor
 
-Actualizado 15/11/2026 04:58 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Hawai'i Rainbow Warriors vs North Dakota State Bison — 15/11 · 05:00
-
-👀 candidata · 🏈 NCAA Football · **Más de 38.5 puntos** @ **1.95** (DraftKings) · prob 49% vs casas 49% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 totales» sin pérdidas demostradas
-
-📊 **Escenarios**: total esperado **44.6** puntos · línea 38.5  
-Más 49% · Menos 51%  
-🔎 **Claves**  
-• Forma: Hawai'i Rainbow Warriors ❌❌❌✅✅ | North Dakota State Bison ✅❌✅❌✅  
-• H2H: sin precedentes  
-• Bajas: Hawai'i Rainbow Warriors: sin bajas; North Dakota State Bison: sin bajas  
-
-## Hawai'i Rainbow Warriors vs North Dakota State Bison — 15/11 · 05:00
-
-👀 candidata · 🏈 NCAA Football · **Hawai'i Rainbow Warriors +6.5** @ **1.93** (DraftKings) · prob 50% vs casas 50% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 hándicap» sin pérdidas demostradas
-
-📊 **Escenarios**: Hawai'i Rainbow Warriors cubre +6.5 con prob. 50% (casas 50%)  
-🔎 **Claves**  
-• Forma: Hawai'i Rainbow Warriors ❌❌❌✅✅ | North Dakota State Bison ✅❌✅❌✅  
-• H2H: sin precedentes  
-• Bajas: Hawai'i Rainbow Warriors: sin bajas; North Dakota State Bison: sin bajas  
-
-## Hawai'i Rainbow Warriors vs North Dakota State Bison — 15/11 · 05:00
-
-👀 candidata · 🏈 NCAA Football · **Gana Hawai'i Rainbow Warriors** @ **3.00** (DraftKings) · prob 32% vs casas 32% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo con 9.521 partidos y bajas)  
-Gana Hawai'i Rainbow Warriors 12% · Gana North Dakota State Bison 88%  
-Casas: Hawai'i Rainbow Warriors 32% · North Dakota State Bison 68%  
-Hándicap NDSU -6.5 · Total puntos 38.5  
-🔎 **Claves**  
-• Forma: Hawai'i Rainbow Warriors ❌❌❌✅✅ | North Dakota State Bison ✅❌✅❌✅  
-• H2H: sin precedentes  
-• Bajas: Hawai'i Rainbow Warriors: sin bajas; North Dakota State Bison: sin bajas  
-• Favorito de las casas: North Dakota State Bison @ 1.41  
+Actualizado 15/11/2026 05:29 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Detroit Lions vs New England Patriots — 15/11 · 15:30
 

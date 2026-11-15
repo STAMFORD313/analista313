@@ -73,6 +73,8 @@ id,date,event,home,away,hs,as,res
 401858526,2026-11-14T02:00Z,Illinois Fighting Illini at UCLA Bruins,UCLA Bruins,Illinois Fighting Illini,22,14,1.0
 401856860,2026-11-14T03:15Z,Houston Cougars at Colorado Buffaloes,Colorado Buffaloes,Houston Cougars,42,32,1.0
 401858293,2026-11-14T00:00Z,Florida State Seminoles at Pittsburgh Panthers,Pittsburgh Panthers,Florida State Seminoles,10,16,0.0
+401856885,2026-11-15T00:30Z,Texas Longhorns at LSU Tigers,LSU Tigers,Texas Longhorns,21,22,0.0
+401856882,2026-11-15T00:45Z,South Carolina Gamecocks at Arkansas Razorbacks,Arkansas Razorbacks,South Carolina Gamecocks,34,6,1.0
 401856883,2026-11-14T20:30Z,Missouri Tigers at Georgia Bulldogs,Georgia Bulldogs,Missouri Tigers,48,21,1.0
 401856889,2026-11-14T17:45Z,Alabama Crimson Tide at Vanderbilt Commodores,Vanderbilt Commodores,Alabama Crimson Tide,6,21,0.0
 401858294,2026-11-14T20:30Z,Boston College Eagles at Notre Dame Fighting Irish,Notre Dame Fighting Irish,Boston College Eagles,41,7,1.0
@@ -116,3 +118,6 @@ id,date,event,home,away,hs,as,res
 401858524,2026-11-15T00:00Z,Minnesota Golden Gophers at Penn State Nittany Lions,Penn State Nittany Lions,Minnesota Golden Gophers,42,14,1.0
 401864538,2026-11-15T00:00Z,San José State Spartans at Air Force Falcons,Air Force Falcons,San José State Spartans,24,3,1.0
 401871100,2026-11-15T00:00Z,Troy Trojans at South Alabama Jaguars,South Alabama Jaguars,Troy Trojans,27,14,1.0
+401862826,2026-11-15T00:15Z,Florida Atlantic Owls at Tulsa Golden Hurricane,Tulsa Golden Hurricane,Florida Atlantic Owls,38,21,1.0
+401858299,2026-11-15T00:30Z,Stanford Cardinal at Virginia Tech Hokies,Virginia Tech Hokies,Stanford Cardinal,22,40,0.0
+401864539,2026-11-15T00:30Z,UNLV Rebels at New Mexico Lobos,New Mexico Lobos,UNLV Rebels,17,21,0.0
