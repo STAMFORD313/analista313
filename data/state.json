@@ -1,96 +1,11 @@
 {
  "analyzed": [
-  "nba|2026-11-07|Atlanta Hawks|Washington Wizards",
-  "nba|2026-11-07|Charlotte Hornets|Boston Celtics",
-  "nba|2026-11-07|Cleveland Cavaliers|Philadelphia 76ers",
-  "nba|2026-11-07|Dallas Mavericks|Utah Jazz",
-  "nba|2026-11-07|Memphis Grizzlies|Oklahoma City Thunder",
-  "nba|2026-11-07|Milwaukee Bucks|Toronto Raptors",
-  "nba|2026-11-07|New Orleans Pelicans|Minnesota Timberwolves",
-  "nba|2026-11-07|Los Angeles Lakers|Portland Trail Blazers",
-  "nba|2026-11-07|Sacramento Kings|San Antonio Spurs",
-  "nhl|2026-11-07|Buffalo Sabres|Columbus Blue Jackets",
-  "nhl|2026-11-07|Minnesota Wild|San Jose Sharks",
-  "nhl|2026-11-07|Calgary Flames|Anaheim Ducks",
-  "cfb|2026-11-07|SMU Mustangs|Virginia Tech Hokies",
-  "cfb|2026-11-07|East Carolina Pirates|South Florida Bulls",
-  "cfb|2026-11-07|Illinois Fighting Illini|Nebraska Cornhuskers",
-  "cfb|2026-11-07|Nevada Wolf Pack|New Mexico Lobos",
-  "cfb|2026-11-07|Arizona Wildcats|TCU Horned Frogs",
-  "cbb|2026-11-07|Kentucky Wildcats|James Madison Dukes",
-  "cbb|2026-11-07|Eastern Kentucky Colonels|Midway Eagles",
-  "cbb|2026-11-07|Kent State Golden Flashes|Roberts Wesleyan Redhawks",
-  "cbb|2026-11-07|Charleston Cougars|Newberry Wolves",
-  "cbb|2026-11-07|The Citadel Bulldogs|Erskine Flying Fleet",
-  "cbb|2026-11-07|Rutgers Scarlet Knights|New Haven Chargers",
-  "cbb|2026-11-07|Florida Gulf Coast Eagles|New College Mighty Banyans",
-  "cbb|2026-11-07|West Virginia Mountaineers|Stetson Hatters",
-  "cbb|2026-11-07|UCF Knights|Yale Bulldogs",
-  "cbb|2026-11-07|Villanova Wildcats|Holy Cross Crusaders",
-  "cbb|2026-11-07|Cleveland State Vikings|Michigan Dearborn Wolves",
-  "cbb|2026-11-07|Elon Phoenix|UNC Greensboro Spartans",
-  "cbb|2026-11-07|Mount St. Mary's Mountaineers|Loyola Maryland Greyhounds",
-  "cbb|2026-11-07|Georgia Tech Yellow Jackets|Georgia Southern Eagles",
-  "cbb|2026-11-07|George Mason Patriots|Coppin State Eagles",
-  "cbb|2026-11-07|NC State Wolfpack|East Tennessee State Buccaneers",
-  "cbb|2026-11-07|Kennesaw State Owls|Austin Peay Governors",
-  "cbb|2026-11-07|North Carolina Tar Heels|Wofford Terriers",
-  "cbb|2026-11-07|Clemson Tigers|American University Eagles",
-  "cbb|2026-11-07|Brown Bears|Boston University Terriers",
-  "cbb|2026-11-07|Missouri Tigers|Saint Louis Billikens",
-  "cbb|2026-11-07|Central Michigan Chippewas|Alma Scots",
-  "cbb|2026-11-07|Ball State Cardinals|Indiana State Sycamores",
-  "cbb|2026-11-07|Florida State Seminoles|Troy Trojans",
-  "cbb|2026-11-07|Xavier Musketeers|Eastern Michigan Eagles",
-  "cbb|2026-11-07|Georgia Bulldogs|Presbyterian Blue Hose",
-  "cbb|2026-11-07|Alabama Crimson Tide|Arkansas State Red Wolves",
-  "cbb|2026-11-07|Stephen F. Austin Lumberjacks|Texas Lutheran Bulldogs",
-  "cbb|2026-11-07|Wright State Raiders|Florida Atlantic Owls",
-  "cbb|2026-11-07|Wisconsin Badgers|Delaware Blue Hens",
-  "cbb|2026-11-07|UAB Blazers|Nicholls Colonels",
-  "cbb|2026-11-07|Michigan Wolverines|UConn Huskies",
-  "cbb|2026-11-07|Iowa State Cyclones|Southern Miss Golden Eagles",
-  "cbb|2026-11-07|UIC Flames|Robert Morris Colonials",
-  "cbb|2026-11-07|Missouri State Bears|Truman State Bulldogs",
-  "cbb|2026-11-07|Alabama A&M Bulldogs|Mississippi U for Women Owls",
-  "cbb|2026-11-07|Louisiana Ragin' Cajuns|Texas A&M-Corpus Christi Islanders",
-  "cbb|2026-11-07|LSU Tigers|Texas Southern Tigers",
-  "cbb|2026-11-07|Texas A&M Aggies|Northern Kentucky Norse",
-  "cbb|2026-11-07|Northwestern Wildcats|Stony Brook Seawolves",
-  "cbb|2026-11-07|TCU Horned Frogs|Southern Jaguars",
-  "cbb|2026-11-07|Minnesota Golden Gophers|St. Thomas Tommies",
-  "cbb|2026-11-07|Marquette Golden Eagles|Detroit Mercy Titans",
-  "cbb|2026-11-07|Oklahoma Sooners|Mississippi Valley State Delta Devils",
-  "cbb|2026-11-07|Wyoming Cowboys|Idaho State Bengals",
-  "cbb|2026-11-07|Kansas City Roos|Southern Illinois Salukis",
-  "cbb|2026-11-07|Iowa Hawkeyes|Eastern Illinois Panthers",
-  "cbb|2026-11-07|Ole Miss Rebels|Central Arkansas Bears",
-  "cbb|2026-11-07|Miami Hurricanes|Wagner Seahawks",
-  "cbb|2026-11-07|Kansas Jayhawks|Middle Tennessee Blue Raiders",
-  "cbb|2026-11-07|BYU Cougars|Omaha Mavericks",
-  "cbb|2026-11-07|Colorado State Rams|Idaho Vandals",
-  "cbb|2026-11-07|Arizona State Sun Devils|Northern Colorado Bears",
-  "cbb|2026-11-07|Oklahoma State Cowboys|Queens University Royals",
-  "cbb|2026-11-07|Kansas State Wildcats|Cal State Northridge Matadors",
-  "cbb|2026-11-07|South Dakota State Jackrabbits|Briar Cliff Chargers",
-  "cbb|2026-11-07|Oregon State Beavers|California Baptist Lancers",
-  "cbb|2026-11-07|San Diego Toreros|Tarleton State Texans",
-  "cbb|2026-11-07|Stanford Cardinal|Oakland Golden Grizzlies",
-  "cbb|2026-11-07|San Francisco Dons|North Dakota State Bison",
-  "cbb|2026-11-07|Loyola Marymount Lions|Lincoln (CA) Oaklanders",
-  "cbb|2026-11-07|UCLA Bruins|North Florida Ospreys",
-  "cbb|2026-11-07|Portland Pilots|UT Arlington Mavericks",
-  "cbb|2026-11-07|Hawai'i Rainbow Warriors|Bethesda Flames",
-  "nba|2026-11-07|Indiana Pacers|Denver Nuggets",
   "nba|2026-11-08|Atlanta Hawks|Brooklyn Nets",
   "nba|2026-11-08|Cleveland Cavaliers|New York Knicks",
   "nba|2026-11-08|Oklahoma City Thunder|Washington Wizards",
   "nba|2026-11-08|Golden State Warriors|Orlando Magic",
   "nba|2026-11-08|Phoenix Suns|Houston Rockets",
   "nba|2026-11-08|Portland Trail Blazers|San Antonio Spurs",
-  "nhl|2026-11-07|Washington Capitals|Florida Panthers",
-  "nhl|2026-11-07|Nashville Predators|St. Louis Blues",
-  "nhl|2026-11-07|Seattle Kraken|New York Rangers",
   "nhl|2026-11-08|Toronto Maple Leafs|Montreal Canadiens",
   "nhl|2026-11-08|Ottawa Senators|Utah Mammoth",
   "nhl|2026-11-08|New York Islanders|New Jersey Devils",
@@ -100,56 +15,12 @@
   "nhl|2026-11-08|Colorado Avalanche|Detroit Red Wings",
   "nhl|2026-11-08|Los Angeles Kings|Pittsburgh Penguins",
   "nhl|2026-11-08|Edmonton Oilers|Vancouver Canucks",
-  "ufc|2026-11-07|Jonny Parsons|José Souza",
-  "ufc|2026-11-07|Wellington Turman|Seokhyeon Ko",
-  "ufc|2026-11-07|Andre Petroski|Mantas Kondratavičius",
-  "ufc|2026-11-07|Lucas Brennan|Austin Bashi",
-  "ufc|2026-11-07|Jose Delano|Murtazali Magomedov",
-  "ufc|2026-11-07|Karine Silva|Gabriella Fernandes",
-  "ufc|2026-11-07|Thomas Petersen|Gabriel Lorenço",
-  "ufc|2026-11-07|Keiichiro Nakamura|Ollie Schmid",
   "ufc|2026-11-08|Mitch Raposo|Marcos Degli",
   "ufc|2026-11-08|Priscila Cachoeira|Nina Milošević",
   "ufc|2026-11-08|Billy Elekana|Lucas Fernando",
   "ufc|2026-11-08|Davey Grant|Elijah Smith",
   "ufc|2026-11-08|Tatiana Suarez|Virna Jandiroba",
   "ufc|2026-11-08|Johnny Walker|Waldo Cortes Acosta",
-  "cfb|2026-11-07|Utah Utes|BYU Cougars",
-  "cfb|2026-11-07|Missouri Tigers|Texas Longhorns",
-  "cfb|2026-11-07|Minnesota Golden Gophers|UCLA Bruins",
-  "cfb|2026-11-07|Baylor Bears|Iowa State Cyclones",
-  "cfb|2026-11-07|Syracuse Orange|Clemson Tigers",
-  "cfb|2026-11-07|Boston College Eagles|Florida State Seminoles",
-  "cfb|2026-11-07|UConn Huskies|North Carolina Tar Heels",
-  "cfb|2026-11-07|Tulane Green Wave|Tulsa Golden Hurricane",
-  "cfb|2026-11-07|NC State Wolfpack|Duke Blue Devils",
-  "cfb|2026-11-07|Purdue Boilermakers|Maryland Terrapins",
-  "cfb|2026-11-07|Auburn Tigers|Arkansas Razorbacks",
-  "cfb|2026-11-07|Kansas State Wildcats|Oklahoma State Cowboys",
-  "cfb|2026-11-07|Coastal Carolina Chanticleers|Old Dominion Monarchs",
-  "cfb|2026-11-07|App State Mountaineers|Georgia State Panthers",
-  "cfb|2026-11-07|South Carolina Gamecocks|Texas A&M Aggies",
-  "cfb|2026-11-07|Arkansas State Red Wolves|UL Monroe Warhawks",
-  "cfb|2026-11-07|Kennesaw State Owls|Delaware Blue Hens",
-  "cfb|2026-11-07|LSU Tigers|Alabama Crimson Tide",
-  "cfb|2026-11-07|Ohio State Buckeyes|Oregon Ducks",
-  "cfb|2026-11-07|Wake Forest Demon Deacons|Merrimack Warriors",
-  "cfb|2026-11-07|Houston Cougars|Cincinnati Bearcats",
-  "cfb|2026-11-07|Washington Huskies|Penn State Nittany Lions",
-  "cfb|2026-11-07|UAB Blazers|Charlotte 49ers",
-  "cfb|2026-11-07|Navy Midshipmen|Temple Owls",
-  "cfb|2026-11-07|Georgia Southern Eagles|Marshall Thundering Herd",
-  "cfb|2026-11-07|Middle Tennessee Blue Raiders|Western Kentucky Hilltoppers",
-  "cfb|2026-11-07|Kansas Jayhawks|UCF Knights",
-  "cfb|2026-11-07|North Texas Mean Green|Rice Owls",
-  "cfb|2026-11-07|San José State Spartans|Northern Illinois Huskies",
-  "cfb|2026-11-07|Florida International Panthers|Missouri State Bears",
-  "cfb|2026-11-07|Troy Trojans|Louisiana Tech Bulldogs",
-  "cfb|2026-11-07|Mississippi State Bulldogs|Vanderbilt Commodores",
-  "cfb|2026-11-07|Wisconsin Badgers|Rutgers Scarlet Knights",
-  "cfb|2026-11-07|Louisiana Ragin' Cajuns|South Alabama Jaguars",
-  "cfb|2026-11-07|Colorado State Rams|Boise State Broncos",
-  "cfb|2026-11-07|Tennessee Volunteers|Kentucky Wildcats",
   "cfb|2026-11-08|Jacksonville State Gamecocks|Sam Houston Bearkats",
   "cfb|2026-11-08|Notre Dame Fighting Irish|Miami Hurricanes",
   "cfb|2026-11-08|Ole Miss Rebels|Georgia Bulldogs",
@@ -165,45 +36,6 @@
   "cfb|2026-11-08|UTEP Miners|Hawai'i Rainbow Warriors",
   "cfb|2026-11-08|Oregon State Beavers|Texas State Bobcats",
   "cfb|2026-11-08|UNLV Rebels|Wyoming Cowboys",
-  "cbb|2026-11-07|Louisville Cardinals|Morehead State Eagles",
-  "cbb|2026-11-07|Winthrop Eagles|North Dakota Fighting Hawks",
-  "cbb|2026-11-07|Fairleigh Dickinson Knights|City College NY Beavers",
-  "cbb|2026-11-07|Georgia State Panthers|Andrew Fighting Tigers",
-  "cbb|2026-11-07|Ohio Bobcats|North Carolina A&T Aggies",
-  "cbb|2026-11-07|Liberty Flames|Boyce Bulldogs",
-  "cbb|2026-11-07|LSU New Orleans Privateers|Loyola New Orleans Wolfpack",
-  "cbb|2026-11-07|Marshall Thundering Herd|Toledo Rockets",
-  "cbb|2026-11-07|Drexel Dragons|Colgate Raiders",
-  "cbb|2026-11-07|South Dakota Coyotes|Cal State Fullerton Titans",
-  "cbb|2026-11-07|East Carolina Pirates|UNC Wilmington Seahawks",
-  "cbb|2026-11-07|Abilene Christian Wildcats|Lamar Cardinals",
-  "cbb|2026-11-07|Montana State Bobcats|Long Beach State Beach",
-  "cbb|2026-11-07|Longwood Lancers|North Carolina Central Eagles",
-  "cbb|2026-11-07|Memphis Tigers|VCU Rams",
-  "cbb|2026-11-07|Sam Houston Bearkats|Howard Payne Yellow Jackets",
-  "cbb|2026-11-07|La Salle Explorers|Long Island University Sharks",
-  "cbb|2026-11-07|Colorado Buffaloes|San Diego State Aztecs",
-  "cbb|2026-11-07|Utah State Aggies|Omaha Mavericks",
-  "cbb|2026-11-07|UC Santa Barbara Gauchos|Oakland Golden Grizzlies",
-  "cbb|2026-11-07|UNLV Rebels|Samford Bulldogs",
-  "cbb|2026-11-07|Saint Joseph's Hawks|Lafayette Leopards",
-  "cbb|2026-11-07|Rhode Island Rams|Monmouth Hawks",
-  "cbb|2026-11-07|Mercyhurst Lakers|Penn State Shenango Nittany Lions",
-  "cbb|2026-11-07|Lindenwood Lions|East West Phantoms",
-  "cbb|2026-11-07|Maryland Eastern Shore Hawks|Cheyney (PA) Wolves",
-  "cbb|2026-11-07|Gonzaga Bulldogs|New Mexico State Aggies",
-  "cbb|2026-11-07|UTSA Roadrunners|VMI Keydets",
-  "cbb|2026-11-07|Furman Paladins|Northern Iowa Panthers",
-  "cbb|2026-11-07|Bucknell Bison|Old Dominion Monarchs",
-  "cbb|2026-11-07|IU Indianapolis Jaguars|UT Martin Skyhawks",
-  "cbb|2026-11-07|Lipscomb Bisons|SIU Edwardsville Cougars",
-  "cbb|2026-11-07|High Point Panthers|Washington State Cougars",
-  "cbb|2026-11-07|Miami (OH) RedHawks|Bellarmine Knights",
-  "cbb|2026-11-07|UT Rio Grande Valley Vaqueros|Prairie View A&M Panthers",
-  "cbb|2026-11-07|UNC Asheville Bulldogs|Western Carolina Catamounts",
-  "cbb|2026-11-07|George Washington Revolutionaries|Hampton Pirates",
-  "cbb|2026-11-07|New Mexico Lobos|Northern Arizona Lumberjacks",
-  "cbb|2026-11-07|Niagara Purple Eagles|Morgan State Bears",
   "cbb|2026-11-08|Purdue Fort Wayne Mastodons|Albion Britons",
   "cbb|2026-11-08|Davidson Wildcats|Mercer Bears",
   "cbb|2026-11-08|Western Illinois Leathernecks|Houston Christian Huskies",
@@ -226,7 +58,6 @@
   "cbb|2026-11-08|Santa Clara Broncos|Sacramento State Hornets",
   "cbb|2026-11-08|Seattle U Redhawks|Portland State Vikings",
   "cbb|2026-11-08|UC Irvine Anteaters|San José State Spartans",
-  "ufc|2026-11-07|Austin Bashi|Carlos Calderon",
   "nba|2026-11-08|Chicago Bulls|Philadelphia 76ers",
   "nba|2026-11-08|Detroit Pistons|Los Angeles Lakers",
   "nba|2026-11-09|Minnesota Timberwolves|Utah Jazz",
@@ -302,45 +133,6 @@
   "cbb|2026-11-09|Wichita State Shockers|USC Trojans",
   "cbb|2026-11-09|Hawai'i Rainbow Warriors|UT Arlington Mavericks",
   "nhl|2026-11-08|Winnipeg Jets|Tampa Bay Lightning",
-  "ARG|2026-11-07|Banfield|Atl. Tucuman",
-  "ARG|2026-11-07|Tigre|Sarmiento Junin",
-  "MEX|2026-11-07|Atl. San Luis|Juarez",
-  "MEX|2026-11-07|Necaxa|Club Tijuana",
-  "MEX|2026-11-07|Atlante|Santos Laguna",
-  "JPN|2026-11-07|Shimizu S-Pulse|Verdy",
-  "JPN|2026-11-07|Nagoya Grampus|Kyoto",
-  "JPN|2026-11-07|Yokohama F. Marinos|Okayama",
-  "JPN|2026-11-07|Avispa Fukuoka|V-Varen Nagasaki",
-  "JPN|2026-11-07|FC Tokyo|Kashima Antlers",
-  "JPN|2026-11-07|Kashiwa Reysol|Kawasaki Frontale",
-  "POL|2026-11-07|Korona Kielce|Radomiak Radom",
-  "POL|2026-11-07|Slask Wroclaw|Piast Gliwice",
-  "NOR|2026-11-07|Kristiansund|Valerenga",
-  "AUT|2026-11-07|A. Lustenau|Grazer AK",
-  "POL|2026-11-07|Gornik Zabrze|Wieczysta Krakow",
-  "SWE|2026-11-07|Degerfors|GAIS",
-  "SWE|2026-11-07|Orgryte|Vasteras SK",
-  "DNK|2026-11-07|Odense|Viborg",
-  "NOR|2026-11-07|Rosenborg|Start",
-  "SWZ|2026-11-07|Luzern|Young Boys",
-  "SWZ|2026-11-07|Vaduz|Sion",
-  "ARG|2026-11-07|Gimnasia Mendoza|Ind. Rivadavia",
-  "ARG|2026-11-07|Talleres Cordoba|Estudiantes L.P.",
-  "AUT|2026-11-07|Ried|LASK",
-  "POL|2026-11-07|Widzew Lodz|Pogon Szczecin",
-  "SWZ|2026-11-07|Grasshoppers|Lausanne",
-  "ARG|2026-11-07|Argentinos Jrs|Huracan",
-  "ARG|2026-11-07|Boca Juniors|Defensa y Justicia",
-  "ARG|2026-11-07|Rosario Central|Estudiantes Rio Cuarto",
-  "USA|2026-11-07|CF Montreal|Vancouver Whitecaps",
-  "USA|2026-11-07|Chicago Fire|Columbus Crew",
-  "USA|2026-11-07|DC United|New York City",
-  "USA|2026-11-07|FC Cincinnati|Nashville SC",
-  "USA|2026-11-07|Inter Miami|Charlotte",
-  "USA|2026-11-07|New York Red Bulls|Atlanta Utd",
-  "USA|2026-11-07|Orlando City|New England Revolution",
-  "USA|2026-11-07|Philadelphia Union|Toronto FC",
-  "MEX|2026-11-07|Atlas|Pachuca",
   "USA|2026-11-08|Austin FC|Portland Timbers",
   "USA|2026-11-08|FC Dallas|Colorado Rapids",
   "USA|2026-11-08|Houston Dynamo|St. Louis City",
@@ -381,74 +173,6 @@
   "NOR|2026-11-08|Fredrikstad|Brann",
   "POL|2026-11-08|Lech Poznan|Zaglebie",
   "ARG|2026-11-08|Central Cordoba|Lanus",
-  "wta|2026-11-07|Alexandra Shubladze|Claire Liu",
-  "T1|2026-11-07|Eyupspor|Kocaelispor",
-  "D2|2026-11-07|Holstein Kiel|Bielefeld",
-  "D2|2026-11-07|Nurnberg|Darmstadt",
-  "D2|2026-11-07|Osnabruck|Kaiserslautern",
-  "E0|2026-11-07|Leeds|Tottenham",
-  "E1|2026-11-07|Bristol City|Norwich",
-  "E1|2026-11-07|Portsmouth|Stoke",
-  "E1|2026-11-07|Wrexham|Wolves",
-  "F2|2026-11-07|Clermont|Rodez",
-  "SP1|2026-11-07|Malaga|Santander",
-  "SP2|2026-11-07|Burgos|Celta B",
-  "T1|2026-11-07|Samsunspor|Konyaspor",
-  "I1|2026-11-07|Cagliari|Frosinone",
-  "I1|2026-11-07|Torino|Lecce",
-  "I2|2026-11-07|Cesena|Catanzaro",
-  "I2|2026-11-07|Juve Stabia|Arezzo",
-  "I2|2026-11-07|Padova|Empoli",
-  "I2|2026-11-07|Pisa|Sudtirol",
-  "D1|2026-11-07|Dortmund|Elversberg",
-  "D1|2026-11-07|Mainz|Bayern Munich",
-  "D1|2026-11-07|Paderborn|Ein Frankfurt",
-  "D1|2026-11-07|RB Leipzig|Augsburg",
-  "B1|2026-11-07|Westerlo|Charleroi",
-  "E0|2026-11-07|Arsenal|Hull",
-  "E0|2026-11-07|Fulham|Newcastle",
-  "E1|2026-11-07|Birmingham|Swansea",
-  "E1|2026-11-07|Blackburn|West Ham",
-  "E1|2026-11-07|Cardiff|Burnley",
-  "E1|2026-11-07|Charlton|Sheffield United",
-  "E1|2026-11-07|Preston|Southampton",
-  "E1|2026-11-07|QPR|Lincoln",
-  "E1|2026-11-07|Watford|Middlesbrough",
-  "E1|2026-11-07|West Brom|Millwall",
-  "G1|2026-11-07|Volos NFC|Kifisia",
-  "SC0|2026-11-07|Dundee United|Motherwell",
-  "SC0|2026-11-07|St Johnstone|Dundee",
-  "SP1|2026-11-07|Espanol|La Coruna",
-  "SP2|2026-11-07|Cadiz|Oviedo",
-  "N1|2026-11-07|For Sittard|Telstar",
-  "P1|2026-11-07|Nacional|Academico Viseu",
-  "T1|2026-11-07|Galatasaray|Amedspor",
-  "T1|2026-11-07|Goztep|Buyuksehyr",
-  "I2|2026-11-07|Mantova|Verona",
-  "I1|2026-11-07|Parma|Bologna",
-  "B1|2026-11-07|Oud-Heverlee Leuven|Mechelen",
-  "D1|2026-11-07|Stuttgart|Werder Bremen",
-  "E0|2026-11-07|Nott'm Forest|Man City",
-  "G1|2026-11-07|Aris|Panetolikos",
-  "SP1|2026-11-07|Osasuna|Ath Bilbao",
-  "SP2|2026-11-07|Cordoba|Ceuta",
-  "SP2|2026-11-07|Leganes|Albacete",
-  "N1|2026-11-07|Den Haag|Sparta Rotterdam",
-  "SC0|2026-11-07|Aberdeen|Hibernian",
-  "F1|2026-11-07|Auxerre|Paris FC",
-  "P1|2026-11-07|Alverca|Casa Pia",
-  "I2|2026-11-07|Benevento|Avellino",
-  "F2|2026-11-07|Pau FC|Nantes",
-  "F2|2026-11-07|St Etienne|Laval",
-  "D2|2026-11-07|Hertha|Wolfsburg",
-  "B1|2026-11-07|Antwerp|Lommel SK",
-  "B1|2026-11-07|RAAL La Louviere|Cercle Brugge",
-  "I1|2026-11-07|Roma|Sassuolo",
-  "N1|2026-11-07|Excelsior|Go Ahead Eagles",
-  "SC0|2026-11-07|St Mirren|Rangers",
-  "SP1|2026-11-07|Valencia|Real Madrid",
-  "F1|2026-11-07|Paris SG|Troyes",
-  "P1|2026-11-07|Sp Lisbon|Moreirense",
   "T1|2026-11-08|Rizespor|Erzurumspor",
   "N1|2026-11-08|Heerenveen|Feyenoord",
   "I1|2026-11-08|Napoli|Lazio",
@@ -507,20 +231,6 @@
   "SP1|2026-11-08|Ath Madrid|Barcelona",
   "P1|2026-11-08|Estrela|Benfica",
   "P1|2026-11-08|Rio Ave|Sp Braga",
-  "wta|2026-11-07|Janice Tjen|Robin Montgomery",
-  "wta|2026-11-07|Sofya Lansere|Noma Noha Akugue",
-  "wta|2026-11-07|Maria Sakkari|Alexandra Eala",
-  "wta|2026-11-07|Anna Blinkova|Yasmine Kabbaj",
-  "atp|2026-11-07|Mika Brunold|Borna Gojo",
-  "atp|2026-11-07|Nikoloz Basilashvili|Francesco Passaro",
-  "atp|2026-11-07|Karl Friberg|Toby Samuel",
-  "atp|2026-11-07|Viktor Durasovic|Aleksandr Shevchenko",
-  "atp|2026-11-07|Jacob Fearnley|Arthur Nagel",
-  "atp|2026-11-07|Olle Wallin|Lorenzo Sonego",
-  "atp|2026-11-07|Damir Dzumhur|Inaki Montes-De La Torre",
-  "atp|2026-11-07|Adrian Mannarino|Jan Simonsson",
-  "atp|2026-11-07|Luca Van Assche|Ben Shelton",
-  "wta|2026-11-07|Magda Linette|Anastasia Zakharova",
   "MEX|2026-11-09|Queretaro|Puebla",
   "MEX|2026-11-09|Club Leon|Guadalajara Chivas",
   "SP2|2026-11-09|Sabadell|Sociedad B",
@@ -536,7 +246,6 @@
   "nhl|2026-11-10|Edmonton Oilers|New York Rangers",
   "nhl|2026-11-10|Vancouver Canucks|Philadelphia Flyers",
   "nhl|2026-11-10|San Jose Sharks|New York Islanders",
-  "atp|2026-11-07|Casper Ruud|Carlos Alcaraz",
   "cbb|2026-11-09|Chicago State Cougars|South Carolina State Bulldogs",
   "cbb|2026-11-09|Coppin State Eagles|Cheyney (PA) Wolves",
   "cbb|2026-11-09|Alabama State Hornets|Georgia Gwinnett Grizzlies",
@@ -587,7 +296,6 @@
   "cbb|2026-11-10|Stanford Cardinal|Rice Owls",
   "cbb|2026-11-10|Bethesda Flames|UT Arlington Mavericks",
   "cbb|2026-11-10|Hawai'i Rainbow Warriors|Portland Pilots",
-  "wta|2026-11-07|Alice Tubello|Bianca Andreescu",
   "cbb|2026-11-10|West Florida Argonauts|Baptist (Fl) Eagles",
   "atp|2026-11-08|Holger Rune|Zizou Bergs",
   "atp|2026-11-08|Arthur Rinderknech|Miomir Kecmanovic",
@@ -598,7 +306,6 @@
   "atp|2026-11-08|Alex Michelsen|Yannick Hanfmann",
   "atp|2026-11-08|Adolfo Daniel Vallejo|Ugo Humbert",
   "wta|2026-11-08|Claire Liu|Alexandra Eala",
-  "wta|2026-11-07|Anna Blinkova|Gina Feistel",
   "atp|2026-11-08|Nikoloz Basilashvili|Borna Gojo",
   "atp|2026-11-09|Adolfo Daniel Vallejo|Ugo Humbert",
   "atp|2026-11-09|Alex Michelsen|Yannick Hanfmann",
@@ -606,7 +313,6 @@
   "atp|2026-11-09|James Duckworth|Cameron Norrie",
   "atp|2026-11-09|Arthur Rinderknech|Miomir Kecmanovic",
   "atp|2026-11-09|Holger Rune|Zizou Bergs",
-  "wta|2026-11-07|Bianca Andreescu|Leyre Romero Gormaz",
   "atp|2026-11-08|Inaki Montes-De La Torre|Lorenzo Sonego",
   "wta|2026-11-08|Janice Tjen|Magda Linette",
   "atp|2026-11-08|Adrian Mannarino|Toby Samuel",
@@ -1320,10 +1026,11 @@
   "wta|2026-11-16|Lucia Bronzetti|Alicia Herrero Linana",
   "wta|2026-11-16|Katrina Scott|Anastasia Zolotareva",
   "wta|2026-11-16|Irene Burillo|Darja Semenistaja",
-  "fc|2373451",
-  "cs2|132975",
-  "fc|2373456",
-  "fc|2371498",
+  "wta|2026-11-16|Sofia Costoulas|Nuria Brancaccio",
+  "wta|2026-11-16|Fernanda Labrana|Antonia Vergara Rivera",
+  "wta|2026-11-16|Barbara Gatica|Andrea Lazaro Garcia",
+  "wta|2026-11-16|Despina Papamichail|Laura Samson",
+  "wta|2026-11-16|Polona Hercog|Miriam Bulgaru",
   "fc|2371497",
   "dota2|133123",
   "dota2|133642",
@@ -2320,15 +2027,100 @@
   "fc|2379184",
   "fc|2379548",
   "fc|2379545",
-  "wta|2026-11-16|Sofia Costoulas|Nuria Brancaccio",
-  "wta|2026-11-16|Fernanda Labrana|Antonia Vergara Rivera",
-  "wta|2026-11-16|Barbara Gatica|Andrea Lazaro Garcia",
-  "wta|2026-11-16|Despina Papamichail|Laura Samson",
-  "wta|2026-11-16|Polona Hercog|Miriam Bulgaru",
   "cs2|133937",
   "fc|2379550",
   "fc|2379549",
-  "fc|2379561"
+  "fc|2379561",
+  "nba|2026-11-18|Toronto Raptors|New York Knicks",
+  "nba|2026-11-18|Minnesota Timberwolves|Portland Trail Blazers",
+  "nba|2026-11-18|San Antonio Spurs|Detroit Pistons",
+  "nba|2026-11-18|LA Clippers|Utah Jazz",
+  "nba|2026-11-18|Los Angeles Lakers|Charlotte Hornets",
+  "nhl|2026-11-18|Boston Bruins|Los Angeles Kings",
+  "nhl|2026-11-18|Florida Panthers|Edmonton Oilers",
+  "nhl|2026-11-18|New York Islanders|Columbus Blue Jackets",
+  "nhl|2026-11-18|Philadelphia Flyers|Buffalo Sabres",
+  "nhl|2026-11-18|Winnipeg Jets|Ottawa Senators",
+  "nhl|2026-11-18|Tampa Bay Lightning|Washington Capitals",
+  "nhl|2026-11-18|Chicago Blackhawks|Toronto Maple Leafs",
+  "nhl|2026-11-18|St. Louis Blues|Anaheim Ducks",
+  "nhl|2026-11-18|Minnesota Wild|Nashville Predators",
+  "nhl|2026-11-18|Vegas Golden Knights|Dallas Stars",
+  "nhl|2026-11-18|San Jose Sharks|Calgary Flames",
+  "cfb|2026-11-17|Western Michigan Broncos|Eastern Michigan Eagles",
+  "cfb|2026-11-18|Ohio Bobcats|Ball State Cardinals",
+  "cfb|2026-11-18|Kent State Golden Flashes|Miami (OH) RedHawks",
+  "cbb|2026-11-17|Delaware Blue Hens|Wilson WILSON",
+  "cbb|2026-11-17|Southern Jaguars|Louisiana Christian Wildcats",
+  "cbb|2026-11-17|Murray State Racers|Hofstra Pride",
+  "cbb|2026-11-17|Houston Cougars|Rutgers Scarlet Knights",
+  "cbb|2026-11-17|Florida Gators|Notre Dame Fighting Irish",
+  "cbb|2026-11-17|UMass Lowell River Hawks|Saint Peter's Peacocks",
+  "cbb|2026-11-17|Southern Illinois Salukis|Liberty Flames",
+  "cbb|2026-11-17|Army Black Knights|Marist Red Foxes",
+  "cbb|2026-11-17|Stony Brook Seawolves|SUNY Potsdam SUNY-POTSDAM",
+  "cbb|2026-11-17|Purdue Boilermakers|Lipscomb Bisons",
+  "cbb|2026-11-17|Dartmouth Big Green|Maine Augusta Moose",
+  "cbb|2026-11-18|Duke Blue Devils|Illinois Fighting Illini",
+  "cbb|2026-11-18|Miami Hurricanes|Rider Broncs",
+  "cbb|2026-11-18|South Alabama Jaguars|Spring Hill Badgers",
+  "cbb|2026-11-18|Delaware State Hornets|Cheyney (PA) Wolves",
+  "cbb|2026-11-18|Davidson Wildcats|Charlotte 49ers",
+  "cbb|2026-11-18|Central Connecticut Blue Devils|Vermont State Lyndon Hornets",
+  "cbb|2026-11-18|Bucknell Bison|Akron Zips",
+  "cbb|2026-11-18|West Florida Argonauts|Green Bay Phoenix",
+  "cbb|2026-11-18|UCF Knights|Mississippi State Bulldogs",
+  "cbb|2026-11-18|Mount St. Mary's Mountaineers|Lehigh Mountain Hawks",
+  "cbb|2026-11-18|Marshall Thundering Herd|East Tennessee State Buccaneers",
+  "cbb|2026-11-18|Georgia Tech Yellow Jackets|Norfolk State Spartans",
+  "cbb|2026-11-18|Troy Trojans|Cal State Northridge Matadors",
+  "cbb|2026-11-18|Saint Joseph's Hawks|Wagner Seahawks",
+  "cbb|2026-11-18|South Florida Bulls|Tennessee State Tigers",
+  "cbb|2026-11-18|Pacific Tigers|Pacific Union PACIFIC UNION",
+  "cbb|2026-11-18|Manhattan Jaspers|Fordham Rams",
+  "cbb|2026-11-18|Dayton Flyers|Central Michigan Chippewas",
+  "cbb|2026-11-18|William & Mary Tribe|Bowling Green Falcons",
+  "cbb|2026-11-18|Wake Forest Demon Deacons|Monmouth Hawks",
+  "cbb|2026-11-18|Pittsburgh Panthers|Villanova Wildcats",
+  "cbb|2026-11-18|Florida State Seminoles|Ball State Cardinals",
+  "cbb|2026-11-18|Xavier Musketeers|Cleveland State Vikings",
+  "cbb|2026-11-18|Providence Friars|Sacred Heart Pioneers",
+  "cbb|2026-11-18|Butler Bulldogs|Western Carolina Catamounts",
+  "cbb|2026-11-18|Alabama Crimson Tide|Kennesaw State Owls",
+  "cbb|2026-11-18|Indiana Hoosiers|Arkansas Razorbacks",
+  "cbb|2026-11-18|Louisiana Tech Bulldogs|Jacksonville State Gamecocks",
+  "cbb|2026-11-18|UAB Blazers|Florida International Panthers",
+  "cbb|2026-11-18|Massachusetts Minutemen|Bryant Bulldogs",
+  "cbb|2026-11-18|Vanderbilt Commodores|Eastern Illinois Panthers",
+  "cbb|2026-11-18|Southern Miss Golden Eagles|UT Arlington Mavericks",
+  "cbb|2026-11-18|Northern Arizona Lumberjacks|Embry Riddle (AZ) Eagles",
+  "cbb|2026-11-18|Northern Iowa Panthers|Lindenwood Lions",
+  "cbb|2026-11-18|Omaha Mavericks|Lamar Cardinals",
+  "cbb|2026-11-18|North Florida Ospreys|Fort Lauderdale Eagles",
+  "cbb|2026-11-18|Illinois State Redbirds|Bellarmine Knights",
+  "cbb|2026-11-18|Rice Owls|Texas A&M-Corpus Christi Islanders",
+  "cbb|2026-11-18|Georgia Southern Eagles|Middle Tennessee Blue Raiders",
+  "cbb|2026-11-18|Kansas City Roos|Newman Jets",
+  "cbb|2026-11-18|Evansville Purple Aces|Le Moyne Dolphins",
+  "cbb|2026-11-18|SMU Mustangs|Oral Roberts Golden Eagles",
+  "cbb|2026-11-18|Austin Peay Governors|Life University Running Eagles",
+  "cbb|2026-11-18|DePaul Blue Demons|Maryland Eastern Shore Hawks",
+  "cbb|2026-11-18|Ole Miss Rebels|Nicholls Colonels",
+  "cbb|2026-11-18|Wyoming Cowboys|Sam Houston Bearkats",
+  "cbb|2026-11-18|Utah Utes|Eastern Washington Eagles",
+  "cbb|2026-11-18|Tennessee Volunteers|Michigan State Spartans",
+  "cbb|2026-11-18|Virginia Cavaliers|Old Dominion Monarchs",
+  "cbb|2026-11-18|UC Davis Aggies|Alabama State Hornets",
+  "cbb|2026-11-18|Kansas Jayhawks|UNLV Rebels",
+  "cbb|2026-11-18|Stanford Cardinal|UC Irvine Anteaters",
+  "cbb|2026-11-18|California Baptist Lancers|Seattle U Redhawks",
+  "cbb|2026-11-18|Gonzaga Bulldogs|Montana State Bobcats",
+  "cbb|2026-11-18|Auburn Tigers|West Virginia Mountaineers",
+  "cs2|134260",
+  "cs2|133209",
+  "fc|2379571",
+  "fc|2379569",
+  "fc|2380067"
  ],
  "signals": [
   {
@@ -5499,7 +5291,11 @@
    "version": "38e7d57",
    "bajas": "Georgia Bulldogs: sin bajas; Missouri Tigers: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "48-21",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "sph",
@@ -5520,7 +5316,11 @@
    "version": "38e7d57",
    "bajas": "Georgia Bulldogs: sin bajas; Missouri Tigers: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "48-21",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "home",
@@ -5540,7 +5340,11 @@
    "version": "38e7d57",
    "bajas": "Georgia Bulldogs: sin bajas; Missouri Tigers: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "48-21",
+   "close_p": 0.8567,
+   "logged": true
   },
   {
    "market": "over",
@@ -5562,7 +5366,11 @@
    "version": "38e7d57",
    "bajas": "Notre Dame Fighting Irish: sin bajas; Boston College Eagles: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "41-7",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "sph",
@@ -5583,7 +5391,11 @@
    "version": "38e7d57",
    "bajas": "Notre Dame Fighting Irish: sin bajas; Boston College Eagles: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "41-7",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "home",
@@ -5603,7 +5415,11 @@
    "version": "38e7d57",
    "bajas": "Notre Dame Fighting Irish: sin bajas; Boston College Eagles: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "41-7",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "over",
@@ -5625,7 +5441,11 @@
    "version": "38e7d57",
    "bajas": "Indiana Hoosiers: sin bajas; USC Trojans: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "27-13",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "sph",
@@ -5646,7 +5466,11 @@
    "version": "38e7d57",
    "bajas": "Indiana Hoosiers: sin bajas; USC Trojans: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "27-13",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "home",
@@ -5666,7 +5490,11 @@
    "version": "38e7d57",
    "bajas": "Indiana Hoosiers: sin bajas; USC Trojans: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "27-13",
+   "close_p": 0.7382,
+   "logged": true
   },
   {
    "market": "over",
@@ -5751,7 +5579,11 @@
    "version": "38e7d57",
    "bajas": "Oregon Ducks: sin bajas; Michigan Wolverines: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "31-7",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "sph",
@@ -5772,7 +5604,11 @@
    "version": "38e7d57",
    "bajas": "Oregon Ducks: sin bajas; Michigan Wolverines: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "31-7",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "home",
@@ -5792,7 +5628,11 @@
    "version": "38e7d57",
    "bajas": "Oregon Ducks: sin bajas; Michigan Wolverines: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "31-7",
+   "close_p": 0.7638,
+   "logged": true
   },
   {
    "market": "over",
@@ -6165,7 +6005,11 @@
    "version": "38e7d57",
    "bajas": "Western Kentucky Hilltoppers: sin bajas; Jacksonville State Gamecocks: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "35-24",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "sph",
@@ -6186,7 +6030,11 @@
    "version": "38e7d57",
    "bajas": "Western Kentucky Hilltoppers: sin bajas; Jacksonville State Gamecocks: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "35-24",
+   "close_p": 0.5148,
+   "logged": true
   },
   {
    "market": "home",
@@ -6206,7 +6054,11 @@
    "version": "38e7d57",
    "bajas": "Western Kentucky Hilltoppers: sin bajas; Jacksonville State Gamecocks: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "35-24",
+   "close_p": 0.2825,
+   "logged": true
   },
   {
    "market": "over",
@@ -6228,7 +6080,11 @@
    "version": "38e7d57",
    "bajas": "Liberty Flames: sin bajas; Middle Tennessee Blue Raiders: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "28-23",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "sph",
@@ -6249,7 +6105,11 @@
    "version": "38e7d57",
    "bajas": "Liberty Flames: sin bajas; Middle Tennessee Blue Raiders: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "28-23",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "home",
@@ -6269,7 +6129,11 @@
    "version": "38e7d57",
    "bajas": "Liberty Flames: sin bajas; Middle Tennessee Blue Raiders: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "28-23",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "over",
@@ -6543,7 +6407,11 @@
    "version": "38e7d57",
    "bajas": "West Virginia Mountaineers: sin bajas; Kansas Jayhawks: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "14-37",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "sph",
@@ -6564,7 +6432,11 @@
    "version": "38e7d57",
    "bajas": "West Virginia Mountaineers: sin bajas; Kansas Jayhawks: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "14-37",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "home",
@@ -6584,7 +6456,11 @@
    "version": "38e7d57",
    "bajas": "West Virginia Mountaineers: sin bajas; Kansas Jayhawks: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "14-37",
+   "close_p": 0.5379,
+   "logged": true
   },
   {
    "market": "over",
@@ -6790,15 +6666,6 @@
    "pick": "Más de 60.5 puntos",
    "league": "🏈 NCAA Football",
    "sport": "🏈",
-   "info": [
-    "📊 <b>Escenarios</b>: total esperado <b>59.9</b> puntos · línea 60.5",
-    "Más 50% · Menos 50%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: North Carolina Tar Heels ✅✅❌❌✅ | Louisville Cardinals ❌✅✅✅✅",
-    "• H2H: 1 desde 2017: 0-1",
-    "• Bajas: North Carolina Tar Heels: sin bajas; Louisville Cardinals: sin bajas"
-   ],
    "context": "North Carolina Tar Heels vs Louisville Cardinals (🏈 NCAA Football). Modelo de puntos (ataque/defensa con 10 años, decaimiento 1 año): total esperado 59.9 frente a línea 60.5. Forma North Carolina Tar Heels ✅✅❌❌✅, Louisville Cardinals ❌✅✅✅✅. H2H 1 desde 2017: 0-1. Bajas: North Carolina Tar Heels: sin bajas; Louisville Cardinals: sin bajas.",
    "captured": "2026-11-12T00:13",
    "version": "38e7d57",
@@ -6820,14 +6687,6 @@
    "pick": "North Carolina Tar Heels +3.5",
    "league": "🏈 NCAA Football",
    "sport": "🏈",
-   "info": [
-    "📊 <b>Escenarios</b>: North Carolina Tar Heels cubre +3.5 con prob. 50% (casas 50%)",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: North Carolina Tar Heels ✅✅❌❌✅ | Louisville Cardinals ❌✅✅✅✅",
-    "• H2H: 1 desde 2017: 0-1",
-    "• Bajas: North Carolina Tar Heels: sin bajas; Louisville Cardinals: sin bajas"
-   ],
    "context": "North Carolina Tar Heels vs Louisville Cardinals (🏈 NCAA Football). Hándicap North Carolina Tar Heels +3.5: margen esperado desde el Elo (gana North Carolina Tar Heels 30%). Forma North Carolina Tar Heels ✅✅❌❌✅, Louisville Cardinals ❌✅✅✅✅. H2H 1 desde 2017: 0-1. Bajas: North Carolina Tar Heels: sin bajas; Louisville Cardinals: sin bajas.",
    "captured": "2026-11-12T00:13",
    "version": "38e7d57",
@@ -6848,18 +6707,6 @@
    "start": "2026-11-15T00:00Z",
    "league": "🏈 NCAA Football",
    "sport": "🏈",
-   "info": [
-    "📊 <b>Escenarios</b> (Elo con 9.521 partidos y bajas)",
-    "Gana North Carolina Tar Heels 30% · Gana Louisville Cardinals 70%",
-    "Casas: North Carolina Tar Heels 40% · Louisville Cardinals 60%",
-    "Hándicap LOU -3.5 · Total puntos 60.5",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: North Carolina Tar Heels ✅✅❌❌✅ | Louisville Cardinals ❌✅✅✅✅",
-    "• H2H: 1 desde 2017: 0-1",
-    "• Bajas: North Carolina Tar Heels: sin bajas; Louisville Cardinals: sin bajas",
-    "• Favorito de las casas: Louisville Cardinals @ 1.59"
-   ],
    "context": "North Carolina Tar Heels vs Louisville Cardinals (🏈 NCAA Football, fútbol americano). Modelo Elo con 10 años de historial ajustado por bajas: North Carolina Tar Heels 30%, Louisville Cardinals 70%. Cuotas DraftKings 2.42/1.588, hándicap LOU -3.5, total 60.5. Forma North Carolina Tar Heels ✅✅❌❌✅, Louisville Cardinals ❌✅✅✅✅. H2H 1 desde 2017: 0-1. Bajas North Carolina Tar Heels: ninguna. Bajas Louisville Cardinals: ninguna.",
    "captured": "2026-11-12T00:13",
    "version": "38e7d57",
@@ -6882,15 +6729,6 @@
    "pick": "Más de 41.5 puntos",
    "league": "🏈 NCAA Football",
    "sport": "🏈",
-   "info": [
-    "📊 <b>Escenarios</b>: total esperado <b>47.6</b> puntos · línea 41.5",
-    "Más 51% · Menos 49%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Penn State Nittany Lions ❌❌❌✅✅ | Minnesota Golden Gophers ✅❌✅❌❌",
-    "• H2H: 3 desde 2019: 2-1",
-    "• Bajas: Penn State Nittany Lions: sin bajas; Minnesota Golden Gophers: sin bajas"
-   ],
    "context": "Penn State Nittany Lions vs Minnesota Golden Gophers (🏈 NCAA Football). Modelo de puntos (ataque/defensa con 10 años, decaimiento 1 año): total esperado 47.6 frente a línea 41.5. Forma Penn State Nittany Lions ❌❌❌✅✅, Minnesota Golden Gophers ✅❌✅❌❌. H2H 3 desde 2019: 2-1. Bajas: Penn State Nittany Lions: sin bajas; Minnesota Golden Gophers: sin bajas.",
    "captured": "2026-11-12T00:13",
    "version": "38e7d57",
@@ -6912,14 +6750,6 @@
    "pick": "Penn State Nittany Lions -9.5",
    "league": "🏈 NCAA Football",
    "sport": "🏈",
-   "info": [
-    "📊 <b>Escenarios</b>: Penn State Nittany Lions cubre -9.5 con prob. 50% (casas 50%)",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Penn State Nittany Lions ❌❌❌✅✅ | Minnesota Golden Gophers ✅❌✅❌❌",
-    "• H2H: 3 desde 2019: 2-1",
-    "• Bajas: Penn State Nittany Lions: sin bajas; Minnesota Golden Gophers: sin bajas"
-   ],
    "context": "Penn State Nittany Lions vs Minnesota Golden Gophers (🏈 NCAA Football). Hándicap Penn State Nittany Lions -9.5: margen esperado desde el Elo (gana Penn State Nittany Lions 78%). Forma Penn State Nittany Lions ❌❌❌✅✅, Minnesota Golden Gophers ✅❌✅❌❌. H2H 3 desde 2019: 2-1. Bajas: Penn State Nittany Lions: sin bajas; Minnesota Golden Gophers: sin bajas.",
    "captured": "2026-11-12T00:13",
    "version": "38e7d57",
@@ -6940,18 +6770,6 @@
    "start": "2026-11-15T00:00Z",
    "league": "🏈 NCAA Football",
    "sport": "🏈",
-   "info": [
-    "📊 <b>Escenarios</b> (Elo con 9.521 partidos y bajas)",
-    "Gana Penn State Nittany Lions 78% · Gana Minnesota Golden Gophers 22%",
-    "Casas: Penn State Nittany Lions 75% · Minnesota Golden Gophers 25%",
-    "Hándicap PSU -9.5 · Total puntos 41.5",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Penn State Nittany Lions ❌❌❌✅✅ | Minnesota Golden Gophers ✅❌✅❌❌",
-    "• H2H: 3 desde 2019: 2-1",
-    "• Bajas: Penn State Nittany Lions: sin bajas; Minnesota Golden Gophers: sin bajas",
-    "• Favorito de las casas: Penn State Nittany Lions @ 1.28"
-   ],
    "context": "Penn State Nittany Lions vs Minnesota Golden Gophers (🏈 NCAA Football, fútbol americano). Modelo Elo con 10 años de historial ajustado por bajas: Penn State Nittany Lions 78%, Minnesota Golden Gophers 22%. Cuotas DraftKings 1.282/3.8, hándicap PSU -9.5, total 41.5. Forma Penn State Nittany Lions ❌❌❌✅✅, Minnesota Golden Gophers ✅❌✅❌❌. H2H 3 desde 2019: 2-1. Bajas Penn State Nittany Lions: ninguna. Bajas Minnesota Golden Gophers: ninguna.",
    "captured": "2026-11-12T00:13",
    "version": "38e7d57",
@@ -6974,15 +6792,6 @@
    "pick": "Más de 47.5 puntos",
    "league": "🏈 NCAA Football",
    "sport": "🏈",
-   "info": [
-    "📊 <b>Escenarios</b>: total esperado <b>48.5</b> puntos · línea 47.5",
-    "Más 50% · Menos 50%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Air Force Falcons ✅✅❌✅✅ | San José State Spartans ❌✅❌❌✅",
-    "• H2H: 4 desde 2020: 2-2",
-    "• Bajas: Air Force Falcons: sin bajas; San José State Spartans: sin bajas"
-   ],
    "context": "Air Force Falcons vs San José State Spartans (🏈 NCAA Football). Modelo de puntos (ataque/defensa con 10 años, decaimiento 1 año): total esperado 48.5 frente a línea 47.5. Forma Air Force Falcons ✅✅❌✅✅, San José State Spartans ❌✅❌❌✅. H2H 4 desde 2020: 2-2. Bajas: Air Force Falcons: sin bajas; San José State Spartans: sin bajas.",
    "captured": "2026-11-12T00:13",
    "version": "38e7d57",
@@ -7004,14 +6813,6 @@
    "pick": "Air Force Falcons -12.5",
    "league": "🏈 NCAA Football",
    "sport": "🏈",
-   "info": [
-    "📊 <b>Escenarios</b>: Air Force Falcons cubre -12.5 con prob. 49% (casas 49%)",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Air Force Falcons ✅✅❌✅✅ | San José State Spartans ❌✅❌❌✅",
-    "• H2H: 4 desde 2020: 2-2",
-    "• Bajas: Air Force Falcons: sin bajas; San José State Spartans: sin bajas"
-   ],
    "context": "Air Force Falcons vs San José State Spartans (🏈 NCAA Football). Hándicap Air Force Falcons -12.5: margen esperado desde el Elo (gana Air Force Falcons 85%). Forma Air Force Falcons ✅✅❌✅✅, San José State Spartans ❌✅❌❌✅. H2H 4 desde 2020: 2-2. Bajas: Air Force Falcons: sin bajas; San José State Spartans: sin bajas.",
    "captured": "2026-11-12T00:13",
    "version": "38e7d57",
@@ -7032,18 +6833,6 @@
    "start": "2026-11-15T00:00Z",
    "league": "🏈 NCAA Football",
    "sport": "🏈",
-   "info": [
-    "📊 <b>Escenarios</b> (Elo con 9.521 partidos y bajas)",
-    "Gana Air Force Falcons 85% · Gana San José State Spartans 15%",
-    "Casas: Air Force Falcons 79% · San José State Spartans 21%",
-    "Hándicap AF -12.5 · Total puntos 47.5",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Air Force Falcons ✅✅❌✅✅ | San José State Spartans ❌✅❌❌✅",
-    "• H2H: 4 desde 2020: 2-2",
-    "• Bajas: Air Force Falcons: sin bajas; San José State Spartans: sin bajas",
-    "• Favorito de las casas: Air Force Falcons @ 1.21"
-   ],
    "context": "Air Force Falcons vs San José State Spartans (🏈 NCAA Football, fútbol americano). Modelo Elo con 10 años de historial ajustado por bajas: Air Force Falcons 85%, San José State Spartans 15%. Cuotas DraftKings 1.213/4.6, hándicap AF -12.5, total 47.5. Forma Air Force Falcons ✅✅❌✅✅, San José State Spartans ❌✅❌❌✅. H2H 4 desde 2020: 2-2. Bajas Air Force Falcons: ninguna. Bajas San José State Spartans: ninguna.",
    "captured": "2026-11-12T00:13",
    "version": "38e7d57",
@@ -7066,15 +6855,6 @@
    "pick": "Más de 55.5 puntos",
    "league": "🏈 NCAA Football",
    "sport": "🏈",
-   "info": [
-    "📊 <b>Escenarios</b>: total esperado <b>53.1</b> puntos · línea 55.5",
-    "Más 50% · Menos 50%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: South Alabama Jaguars ✅✅❌❌❌ | Troy Trojans ✅❌❌✅❌",
-    "• H2H: 10 desde 2017: 2-7",
-    "• Bajas: South Alabama Jaguars: sin bajas; Troy Trojans: sin bajas"
-   ],
    "context": "South Alabama Jaguars vs Troy Trojans (🏈 NCAA Football). Modelo de puntos (ataque/defensa con 10 años, decaimiento 1 año): total esperado 53.1 frente a línea 55.5. Forma South Alabama Jaguars ✅✅❌❌❌, Troy Trojans ✅❌❌✅❌. H2H 10 desde 2017: 2-7. Bajas: South Alabama Jaguars: sin bajas; Troy Trojans: sin bajas.",
    "captured": "2026-11-12T00:13",
    "version": "38e7d57",
@@ -7096,14 +6876,6 @@
    "pick": "South Alabama Jaguars -3",
    "league": "🏈 NCAA Football",
    "sport": "🏈",
-   "info": [
-    "📊 <b>Escenarios</b>: South Alabama Jaguars cubre -3 con prob. 50% (casas 50%)",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: South Alabama Jaguars ✅✅❌❌❌ | Troy Trojans ✅❌❌✅❌",
-    "• H2H: 10 desde 2017: 2-7",
-    "• Bajas: South Alabama Jaguars: sin bajas; Troy Trojans: sin bajas"
-   ],
    "context": "South Alabama Jaguars vs Troy Trojans (🏈 NCAA Football). Hándicap South Alabama Jaguars -3: margen esperado desde el Elo (gana South Alabama Jaguars 61%). Forma South Alabama Jaguars ✅✅❌❌❌, Troy Trojans ✅❌❌✅❌. H2H 10 desde 2017: 2-7. Bajas: South Alabama Jaguars: sin bajas; Troy Trojans: sin bajas.",
    "captured": "2026-11-12T00:13",
    "version": "38e7d57",
@@ -7124,18 +6896,6 @@
    "start": "2026-11-15T00:00Z",
    "league": "🏈 NCAA Football",
    "sport": "🏈",
-   "info": [
-    "📊 <b>Escenarios</b> (Elo con 9.521 partidos y bajas)",
-    "Gana South Alabama Jaguars 61% · Gana Troy Trojans 39%",
-    "Casas: South Alabama Jaguars 58% · Troy Trojans 42%",
-    "Hándicap USA -3 · Total puntos 55.5",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: South Alabama Jaguars ✅✅❌❌❌ | Troy Trojans ✅❌❌✅❌",
-    "• H2H: 10 desde 2017: 2-7",
-    "• Bajas: South Alabama Jaguars: sin bajas; Troy Trojans: sin bajas",
-    "• Favorito de las casas: South Alabama Jaguars @ 1.65"
-   ],
    "context": "South Alabama Jaguars vs Troy Trojans (🏈 NCAA Football, fútbol americano). Modelo Elo con 10 años de historial ajustado por bajas: South Alabama Jaguars 61%, Troy Trojans 39%. Cuotas DraftKings 1.645/2.3, hándicap USA -3, total 55.5. Forma South Alabama Jaguars ✅✅❌❌❌, Troy Trojans ✅❌❌✅❌. H2H 10 desde 2017: 2-7. Bajas South Alabama Jaguars: ninguna. Bajas Troy Trojans: ninguna.",
    "captured": "2026-11-12T00:13",
    "version": "38e7d57",
@@ -13462,7 +13222,11 @@
     "confianza": null,
     "modelo": null
    },
-   "placed": false
+   "placed": false,
+   "score": "3-1",
+   "result": true,
+   "close_p": 0.3677,
+   "logged": true
   },
   {
    "market": "H",
@@ -14922,7 +14686,12 @@
    "version": "d93fd78",
    "bajas": "Valladolid: 1 fuera, 1 duda (David Torres); Castellon: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "0-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_a_u",
@@ -14943,7 +14712,12 @@
    "version": "d93fd78",
    "bajas": "Valladolid: 1 fuera, 1 duda (David Torres); Castellon: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "0-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_t_o",
@@ -14964,7 +14738,12 @@
    "version": "d93fd78",
    "bajas": "Valladolid: 1 fuera, 1 duda (David Torres); Castellon: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "0-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_t_u",
@@ -14985,7 +14764,12 @@
    "version": "d93fd78",
    "bajas": "Valladolid: 1 fuera, 1 duda (David Torres); Castellon: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "0-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_h_o",
@@ -15006,7 +14790,12 @@
    "version": "d93fd78",
    "bajas": "Valladolid: 1 fuera, 1 duda (David Torres); Castellon: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "0-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_h_u",
@@ -15027,7 +14816,12 @@
    "version": "d93fd78",
    "bajas": "Valladolid: 1 fuera, 1 duda (David Torres); Castellon: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "0-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "O25",
@@ -15710,7 +15504,12 @@
    "version": "2719ee0",
    "bajas": "Almeria: 0 fuera, 1 duda; Andorra: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "2-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_h_u",
@@ -15731,7 +15530,12 @@
    "version": "2719ee0",
    "bajas": "Almeria: 0 fuera, 1 duda; Andorra: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "2-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_t_o",
@@ -15752,7 +15556,12 @@
    "version": "2719ee0",
    "bajas": "Almeria: 0 fuera, 1 duda; Andorra: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "2-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_t_u",
@@ -15773,7 +15582,12 @@
    "version": "2719ee0",
    "bajas": "Almeria: 0 fuera, 1 duda; Andorra: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "2-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_a_o",
@@ -15794,7 +15608,12 @@
    "version": "2719ee0",
    "bajas": "Almeria: 0 fuera, 1 duda; Andorra: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "2-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_a_u",
@@ -15815,7 +15634,12 @@
    "version": "2719ee0",
    "bajas": "Almeria: 0 fuera, 1 duda; Andorra: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "2-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_a_o",
@@ -15836,7 +15660,12 @@
    "version": "2719ee0",
    "bajas": "Mallorca: 0 fuera, 1 duda; Cordoba: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "3-3",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_a_u",
@@ -15857,7 +15686,12 @@
    "version": "2719ee0",
    "bajas": "Mallorca: 0 fuera, 1 duda; Cordoba: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "3-3",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_h_o",
@@ -15878,7 +15712,12 @@
    "version": "2719ee0",
    "bajas": "Mallorca: 0 fuera, 1 duda; Cordoba: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "3-3",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_h_u",
@@ -15899,7 +15738,12 @@
    "version": "2719ee0",
    "bajas": "Mallorca: 0 fuera, 1 duda; Cordoba: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "3-3",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_t_o",
@@ -15920,7 +15764,12 @@
    "version": "2719ee0",
    "bajas": "Mallorca: 0 fuera, 1 duda; Cordoba: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "3-3",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_t_u",
@@ -15941,7 +15790,12 @@
    "version": "2719ee0",
    "bajas": "Mallorca: 0 fuera, 1 duda; Cordoba: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "3-3",
+   "close_p": null,
+   "logged": true
   },
   {
    "key": "vp|2026-11-14|Busaiteen|Al Ittihad Bahrain",
@@ -16359,7 +16213,12 @@
    "version": "be1b574",
    "bajas": "Oviedo: sin bajas; Girona: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "1-2",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_a_o",
@@ -16380,7 +16239,12 @@
    "version": "be1b574",
    "bajas": "Oviedo: sin bajas; Girona: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "1-2",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_h_o",
@@ -16401,7 +16265,12 @@
    "version": "be1b574",
    "bajas": "Oviedo: sin bajas; Girona: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "1-2",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_h_u",
@@ -16422,7 +16291,12 @@
    "version": "be1b574",
    "bajas": "Oviedo: sin bajas; Girona: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "1-2",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_t_o",
@@ -16443,7 +16317,12 @@
    "version": "be1b574",
    "bajas": "Oviedo: sin bajas; Girona: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "fuente": "ESPN",
+   "score": "1-2",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_t_u",
@@ -16464,7 +16343,12 @@
    "version": "be1b574",
    "bajas": "Oviedo: sin bajas; Girona: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "fuente": "ESPN",
+   "score": "1-2",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "A",
@@ -17948,15 +17832,6 @@
    "pick": "Más de 50.5 puntos",
    "league": "🏈 NCAA Football",
    "sport": "🏈",
-   "info": [
-    "📊 <b>Escenarios</b>: total esperado <b>55.5</b> puntos · línea 50.5",
-    "Más 50% · Menos 50%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: BYU Cougars ✅✅❌✅❌ | Baylor Bears ✅❌❌✅✅",
-    "• H2H: 3 desde 2021: 2-1",
-    "• Bajas: BYU Cougars: sin bajas; Baylor Bears: sin bajas"
-   ],
    "context": "BYU Cougars vs Baylor Bears (🏈 NCAA Football). Modelo de puntos (ataque/defensa con 10 años, decaimiento 1 año): total esperado 55.5 frente a línea 50.5. Forma BYU Cougars ✅✅❌✅❌, Baylor Bears ✅❌❌✅✅. H2H 3 desde 2021: 2-1. Bajas: BYU Cougars: sin bajas; Baylor Bears: sin bajas.",
    "captured": "2026-11-14T04:08",
    "version": "4f8e011",
@@ -17978,14 +17853,6 @@
    "pick": "BYU Cougars -8.5",
    "league": "🏈 NCAA Football",
    "sport": "🏈",
-   "info": [
-    "📊 <b>Escenarios</b>: BYU Cougars cubre -8.5 con prob. 51% (casas 51%)",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: BYU Cougars ✅✅❌✅❌ | Baylor Bears ✅❌❌✅✅",
-    "• H2H: 3 desde 2021: 2-1",
-    "• Bajas: BYU Cougars: sin bajas; Baylor Bears: sin bajas"
-   ],
    "context": "BYU Cougars vs Baylor Bears (🏈 NCAA Football). Hándicap BYU Cougars -8.5: margen esperado desde el Elo (gana BYU Cougars 76%). Forma BYU Cougars ✅✅❌✅❌, Baylor Bears ✅❌❌✅✅. H2H 3 desde 2021: 2-1. Bajas: BYU Cougars: sin bajas; Baylor Bears: sin bajas.",
    "captured": "2026-11-14T04:08",
    "version": "4f8e011",
@@ -18006,18 +17873,6 @@
    "start": "2026-11-15T00:00Z",
    "league": "🏈 NCAA Football",
    "sport": "🏈",
-   "info": [
-    "📊 <b>Escenarios</b> (Elo con 9.527 partidos y bajas)",
-    "Gana BYU Cougars 76% · Gana Baylor Bears 24%",
-    "Casas: BYU Cougars 73% · Baylor Bears 27%",
-    "Hándicap BYU -8.5 · Total puntos 50.5",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: BYU Cougars ✅✅❌✅❌ | Baylor Bears ✅❌❌✅✅",
-    "• H2H: 3 desde 2021: 2-1",
-    "• Bajas: BYU Cougars: sin bajas; Baylor Bears: sin bajas",
-    "• Favorito de las casas: BYU Cougars @ 1.31"
-   ],
    "context": "BYU Cougars vs Baylor Bears (🏈 NCAA Football, fútbol americano). Modelo Elo con 10 años de historial ajustado por bajas: BYU Cougars 76%, Baylor Bears 24%. Cuotas DraftKings 1.308/3.6, hándicap BYU -8.5, total 50.5. Forma BYU Cougars ✅✅❌✅❌, Baylor Bears ✅❌❌✅✅. H2H 3 desde 2021: 2-1. Bajas BYU Cougars: ninguna. Bajas Baylor Bears: ninguna.",
    "captured": "2026-11-14T04:08",
    "version": "4f8e011",
@@ -22131,6 +21986,105 @@
    "bajas": "",
    "considered": true,
    "placed": false
+  },
+  {
+   "market": "A",
+   "pick": "believer",
+   "odds": 1.14,
+   "book": "cuota justa (sin casa)",
+   "implied": 0.881,
+   "edge": 0.0,
+   "p": 0.881,
+   "key": "fc|2379571",
+   "match": "ssstasonn vs believer",
+   "start": "2026-11-15T02:15:00+00:00",
+   "league": "🎮⚽ FC 27 · Champions League B",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 68.369 partidos)",
+    "Goles esperados: ssstasonn 1.72 · believer 4.72",
+    "Ganador: ssstasonn 4% · empate 7% · believer 88%",
+    "Total: más de 6.5 goles 46% · menos 54%",
+    "Hándicap believer: −1.5 72% · −2.5 57%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: ssstasonn ❌❌✅➖❌ | believer ✅✅✅✅✅",
+    "• Partidos: ssstasonn 1076 | believer 1154",
+    "• Liga: Champions League B",
+    "• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta)."
+   ],
+   "context": "EA FC Esoccer Battle ssstasonn vs believer (Champions League B): goles esperados 1.72-4.72, 1X2 4%/7%/88%. Sin cuotas de casa.",
+   "captured": "2026-11-15T00:18",
+   "version": "83c9b0a",
+   "bajas": "",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "A",
+   "pick": "Grellz",
+   "odds": 1.18,
+   "book": "cuota justa (sin casa)",
+   "implied": 0.846,
+   "edge": 0.0,
+   "p": 0.846,
+   "key": "fc|2379569",
+   "match": "ssstasonn vs Grellz",
+   "start": "2026-11-15T02:03:00+00:00",
+   "league": "🎮⚽ FC 27 · Champions League B",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 68.369 partidos)",
+    "Goles esperados: ssstasonn 2.07 · Grellz 4.73",
+    "Ganador: ssstasonn 6% · empate 9% · Grellz 85%",
+    "Total: más de 6.5 goles 52% · menos 48%",
+    "Hándicap Grellz: −1.5 67% · −2.5 51%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: ssstasonn ❌❌✅➖❌ | Grellz ❌❌✅➖❌",
+    "• Partidos: ssstasonn 1076 | Grellz 1189",
+    "• Liga: Champions League B",
+    "• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta)."
+   ],
+   "context": "EA FC Esoccer Battle ssstasonn vs Grellz (Champions League B): goles esperados 2.07-4.73, 1X2 6%/9%/85%. Sin cuotas de casa.",
+   "captured": "2026-11-15T00:18",
+   "version": "83c9b0a",
+   "bajas": "",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "H",
+   "pick": "fantazer",
+   "odds": 1.22,
+   "book": "cuota justa (sin casa)",
+   "implied": 0.823,
+   "edge": 0.0,
+   "p": 0.823,
+   "key": "fc|2380067",
+   "match": "fantazer vs Yerema",
+   "start": "2026-11-15T02:16:00+00:00",
+   "league": "🎮⚽ FC 27 · Volta International A",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 68.369 partidos)",
+    "Goles esperados: fantazer 4.31 · Yerema 1.93",
+    "Ganador: fantazer 82% · empate 10% · Yerema 7%",
+    "Total: más de 6.5 goles 43% · menos 57%",
+    "Hándicap fantazer: −1.5 63% · −2.5 47%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: fantazer ➖❌✅➖✅ | Yerema ❌❌❌✅❌",
+    "• Partidos: fantazer 1714 | Yerema 690",
+    "• Liga: Volta International A",
+    "• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta)."
+   ],
+   "context": "EA FC Esoccer Battle fantazer vs Yerema (Volta International A): goles esperados 4.31-1.93, 1X2 82%/10%/7%. Sin cuotas de casa.",
+   "captured": "2026-11-15T00:18",
+   "version": "83c9b0a",
+   "bajas": "",
+   "considered": true,
+   "placed": false
   }
  ],
  "bank": {
@@ -23028,115 +22982,6 @@
     "🎯 No simulada (NFL): cuota DraftKings aprox. 4.73 (producto de piernas) · prob. 21% · ventaja -3%"
    ]
   },
-  "SP2|2026-11-14|Valladolid|Castellon": {
-   "match": "Valladolid vs Castellon",
-   "start": "2026-11-14T13:00:00+00:00",
-   "combos": [
-    {
-     "kind": "corta",
-     "p": 0.3452,
-     "legs": [
-      {
-       "var": "cards_a",
-       "sign": -1,
-       "line": 3.5,
-       "p": 0.7036,
-       "text": "Menos de 3.5 tarjetas de Castellon",
-       "odds": null
-      },
-      {
-       "var": "sot_h",
-       "sign": -1,
-       "line": 5.5,
-       "p": 0.6888,
-       "text": "Menos de 5.5 tiros a puerta de Valladolid",
-       "odds": null
-      },
-      {
-       "var": "corners_h",
-       "sign": -1,
-       "line": 5.5,
-       "p": 0.6438,
-       "text": "Menos de 5.5 córners de Valladolid",
-       "odds": 1.34
-      }
-     ]
-    },
-    {
-     "kind": "larga",
-     "p": 0.2248,
-     "legs": [
-      {
-       "var": "cards_a",
-       "sign": -1,
-       "line": 3.5,
-       "p": 0.7036,
-       "text": "Menos de 3.5 tarjetas de Castellon",
-       "odds": null
-      },
-      {
-       "var": "sot_h",
-       "sign": -1,
-       "line": 5.5,
-       "p": 0.6888,
-       "text": "Menos de 5.5 tiros a puerta de Valladolid",
-       "odds": null
-      },
-      {
-       "var": "corners_h",
-       "sign": -1,
-       "line": 5.5,
-       "p": 0.6438,
-       "text": "Menos de 5.5 córners de Valladolid",
-       "odds": 1.34
-      },
-      {
-       "var": "fouls_a",
-       "sign": -1,
-       "line": 13.5,
-       "p": 0.6026,
-       "text": "Menos de 13.5 faltas de Castellon",
-       "odds": null
-      }
-     ]
-    }
-   ],
-   "priced": true,
-   "pool": [
-    {
-     "stat": "cards",
-     "var": "cards_a",
-     "sign": -1,
-     "p": 0.7035594404192501,
-     "line": 3.5,
-     "text": "Menos de 3.5 tarjetas de Castellon"
-    },
-    {
-     "stat": "sot",
-     "var": "sot_h",
-     "sign": -1,
-     "p": 0.6888126990895569,
-     "line": 5.5,
-     "text": "Menos de 5.5 tiros a puerta de Valladolid"
-    },
-    {
-     "stat": "corners",
-     "var": "corners_h",
-     "sign": -1,
-     "p": 0.6437805641820369,
-     "line": 5.5,
-     "text": "Menos de 5.5 córners de Valladolid"
-    },
-    {
-     "stat": "fouls",
-     "var": "fouls_a",
-     "sign": -1,
-     "p": 0.6026460496748856,
-     "line": 13.5,
-     "text": "Menos de 13.5 faltas de Castellon"
-    }
-   ]
-  },
   "SP2|2026-11-14|Sociedad B|Sp Gijon": {
    "match": "Sociedad B vs Sp Gijon",
    "start": "2026-11-14T15:15:00+00:00",
@@ -23245,464 +23090,6 @@
      "text": "Menos de 4.5 córners de Sp Gijon"
     }
    ]
-  },
-  "SP2|2026-11-14|Almeria|Andorra": {
-   "match": "Almeria vs Andorra",
-   "start": "2026-11-14T17:30:00+00:00",
-   "combos": [
-    {
-     "kind": "corta",
-     "p": 0.2882,
-     "legs": [
-      {
-       "var": "corners_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.6976,
-       "text": "Menos de 4.5 córners de Andorra",
-       "odds": 1.53
-      },
-      {
-       "var": "sot_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.6625,
-       "text": "Menos de 4.5 tiros a puerta de Andorra",
-       "odds": null
-      },
-      {
-       "var": "goals_t",
-       "sign": 1,
-       "line": 2.5,
-       "p": 0.6466,
-       "text": "Más de 2.5 goles",
-       "odds": 1.54
-      }
-     ]
-    },
-    {
-     "kind": "larga",
-     "p": 0.0934,
-     "legs": [
-      {
-       "var": "corners_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.6976,
-       "text": "Menos de 4.5 córners de Andorra",
-       "odds": 1.53
-      },
-      {
-       "var": "sot_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.6625,
-       "text": "Menos de 4.5 tiros a puerta de Andorra",
-       "odds": null
-      },
-      {
-       "var": "goals_t",
-       "sign": 1,
-       "line": 2.5,
-       "p": 0.6466,
-       "text": "Más de 2.5 goles",
-       "odds": 1.54
-      },
-      {
-       "var": "cards_h",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.6022,
-       "text": "Menos de 2.5 tarjetas de Almeria",
-       "odds": null
-      },
-      {
-       "var": "fouls_t",
-       "sign": 1,
-       "line": 26.5,
-       "p": 0.5827,
-       "text": "Más de 26.5 faltas",
-       "odds": null
-      }
-     ]
-    },
-    {
-     "kind": "valor",
-     "p": 0.4547,
-     "legs": [
-      {
-       "stat": "corners",
-       "var": "corners_a",
-       "sign": -1,
-       "p": 0.697611810915301,
-       "line": 4.5,
-       "text": "Menos de 4.5 córners de Andorra",
-       "odds": 1.53
-      },
-      {
-       "stat": "goals",
-       "var": "goals_t",
-       "sign": 1,
-       "p": 0.6465776955895739,
-       "line": 2.5,
-       "text": "Más de 2.5 goles",
-       "odds": 1.54
-      }
-     ],
-     "odds": 2.36,
-     "edge": 0.071,
-     "sim": true
-    }
-   ],
-   "priced": true,
-   "pool": [
-    {
-     "stat": "corners",
-     "var": "corners_a",
-     "sign": -1,
-     "p": 0.697611810915301,
-     "line": 4.5,
-     "text": "Menos de 4.5 córners de Andorra"
-    },
-    {
-     "stat": "sot",
-     "var": "sot_a",
-     "sign": -1,
-     "p": 0.6625016868255973,
-     "line": 4.5,
-     "text": "Menos de 4.5 tiros a puerta de Andorra"
-    },
-    {
-     "stat": "goals",
-     "var": "goals_t",
-     "sign": 1,
-     "p": 0.6465776955895739,
-     "line": 2.5,
-     "text": "Más de 2.5 goles"
-    },
-    {
-     "stat": "cards",
-     "var": "cards_h",
-     "sign": -1,
-     "p": 0.6022410099815674,
-     "line": 2.5,
-     "text": "Menos de 2.5 tarjetas de Almeria"
-    },
-    {
-     "stat": "fouls",
-     "var": "fouls_t",
-     "sign": 1,
-     "p": 0.5826545211791571,
-     "line": 26.5,
-     "text": "Más de 26.5 faltas"
-    }
-   ],
-   "anunciada": true
-  },
-  "SP2|2026-11-14|Mallorca|Cordoba": {
-   "match": "Mallorca vs Cordoba",
-   "start": "2026-11-14T17:30:00+00:00",
-   "combos": [
-    {
-     "kind": "corta",
-     "p": 0.291,
-     "legs": [
-      {
-       "var": "fouls_t",
-       "sign": 1,
-       "line": 26.5,
-       "p": 0.7172,
-       "text": "Más de 26.5 faltas",
-       "odds": null
-      },
-      {
-       "var": "sot_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.6648,
-       "text": "Menos de 4.5 tiros a puerta de Cordoba",
-       "odds": null
-      },
-      {
-       "var": "cards_a",
-       "sign": -1,
-       "line": 3.5,
-       "p": 0.657,
-       "text": "Menos de 3.5 tarjetas de Cordoba",
-       "odds": null
-      }
-     ]
-    },
-    {
-     "kind": "larga",
-     "p": 0.0877,
-     "legs": [
-      {
-       "var": "fouls_t",
-       "sign": 1,
-       "line": 26.5,
-       "p": 0.7172,
-       "text": "Más de 26.5 faltas",
-       "odds": null
-      },
-      {
-       "var": "sot_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.6648,
-       "text": "Menos de 4.5 tiros a puerta de Cordoba",
-       "odds": null
-      },
-      {
-       "var": "cards_a",
-       "sign": -1,
-       "line": 3.5,
-       "p": 0.657,
-       "text": "Menos de 3.5 tarjetas de Cordoba",
-       "odds": null
-      },
-      {
-       "var": "corners_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.5734,
-       "text": "Menos de 4.5 córners de Cordoba",
-       "odds": 1.76
-      },
-      {
-       "var": "goals_t",
-       "sign": 1,
-       "line": 2.5,
-       "p": 0.5561,
-       "text": "Más de 2.5 goles",
-       "odds": 1.55
-      }
-     ]
-    },
-    {
-     "kind": "valor",
-     "p": 0.3233,
-     "legs": [
-      {
-       "stat": "corners",
-       "var": "corners_a",
-       "sign": -1,
-       "p": 0.5734305062409811,
-       "line": 4.5,
-       "text": "Menos de 4.5 córners de Cordoba",
-       "odds": 1.76
-      },
-      {
-       "stat": "goals",
-       "var": "goals_t",
-       "sign": 1,
-       "p": 0.5561393769462435,
-       "line": 2.5,
-       "text": "Más de 2.5 goles",
-       "odds": 1.55
-      }
-     ],
-     "odds": 2.73,
-     "edge": -0.118,
-     "sim": false
-    }
-   ],
-   "priced": true,
-   "pool": [
-    {
-     "stat": "fouls",
-     "var": "fouls_t",
-     "sign": 1,
-     "p": 0.7171623690251036,
-     "line": 26.5,
-     "text": "Más de 26.5 faltas"
-    },
-    {
-     "stat": "sot",
-     "var": "sot_a",
-     "sign": -1,
-     "p": 0.6647851322441684,
-     "line": 4.5,
-     "text": "Menos de 4.5 tiros a puerta de Cordoba"
-    },
-    {
-     "stat": "cards",
-     "var": "cards_a",
-     "sign": -1,
-     "p": 0.6569659108511955,
-     "line": 3.5,
-     "text": "Menos de 3.5 tarjetas de Cordoba"
-    },
-    {
-     "stat": "corners",
-     "var": "corners_a",
-     "sign": -1,
-     "p": 0.5734305062409811,
-     "line": 4.5,
-     "text": "Menos de 4.5 córners de Cordoba"
-    },
-    {
-     "stat": "goals",
-     "var": "goals_t",
-     "sign": 1,
-     "p": 0.5561393769462435,
-     "line": 2.5,
-     "text": "Más de 2.5 goles"
-    }
-   ]
-  },
-  "SP2|2026-11-14|Oviedo|Girona": {
-   "match": "Oviedo vs Girona",
-   "start": "2026-11-14T20:00:00+00:00",
-   "combos": [
-    {
-     "kind": "corta",
-     "p": 0.3289,
-     "legs": [
-      {
-       "var": "sot_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.725,
-       "text": "Menos de 4.5 tiros a puerta de Girona",
-       "odds": null
-      },
-      {
-       "var": "corners_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.6793,
-       "text": "Menos de 4.5 córners de Girona",
-       "odds": 1.6
-      },
-      {
-       "var": "cards_a",
-       "sign": -1,
-       "line": 3.5,
-       "p": 0.6531,
-       "text": "Menos de 3.5 tarjetas de Girona",
-       "odds": null
-      }
-     ]
-    },
-    {
-     "kind": "larga",
-     "p": 0.1484,
-     "legs": [
-      {
-       "var": "sot_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.725,
-       "text": "Menos de 4.5 tiros a puerta de Girona",
-       "odds": null
-      },
-      {
-       "var": "corners_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.6793,
-       "text": "Menos de 4.5 córners de Girona",
-       "odds": 1.6
-      },
-      {
-       "var": "cards_a",
-       "sign": -1,
-       "line": 3.5,
-       "p": 0.6531,
-       "text": "Menos de 3.5 tarjetas de Girona",
-       "odds": null
-      },
-      {
-       "var": "fouls_h",
-       "sign": 1,
-       "line": 13.5,
-       "p": 0.6469,
-       "text": "Más de 13.5 faltas de Oviedo",
-       "odds": null
-      },
-      {
-       "var": "goals_t",
-       "sign": -1,
-       "line": 2.5,
-       "p": 0.6434,
-       "text": "Menos de 2.5 goles",
-       "odds": 1.76
-      }
-     ]
-    },
-    {
-     "kind": "valor",
-     "p": 0.4333,
-     "legs": [
-      {
-       "stat": "corners",
-       "var": "corners_a",
-       "sign": -1,
-       "p": 0.6793312099651972,
-       "line": 4.5,
-       "text": "Menos de 4.5 córners de Girona",
-       "odds": 1.6
-      },
-      {
-       "stat": "goals",
-       "var": "goals_t",
-       "sign": -1,
-       "p": 0.6433781890823398,
-       "line": 2.5,
-       "text": "Menos de 2.5 goles",
-       "odds": 1.76
-      }
-     ],
-     "odds": 2.82,
-     "edge": 0.22,
-     "sim": true
-    }
-   ],
-   "priced": true,
-   "pool": [
-    {
-     "stat": "sot",
-     "var": "sot_a",
-     "sign": -1,
-     "p": 0.7249776251327331,
-     "line": 4.5,
-     "text": "Menos de 4.5 tiros a puerta de Girona"
-    },
-    {
-     "stat": "corners",
-     "var": "corners_a",
-     "sign": -1,
-     "p": 0.6793312099651972,
-     "line": 4.5,
-     "text": "Menos de 4.5 córners de Girona"
-    },
-    {
-     "stat": "cards",
-     "var": "cards_a",
-     "sign": -1,
-     "p": 0.6531268491912977,
-     "line": 3.5,
-     "text": "Menos de 3.5 tarjetas de Girona"
-    },
-    {
-     "stat": "fouls",
-     "var": "fouls_h",
-     "sign": 1,
-     "p": 0.6469391327763976,
-     "line": 13.5,
-     "text": "Más de 13.5 faltas de Oviedo"
-    },
-    {
-     "stat": "goals",
-     "var": "goals_t",
-     "sign": -1,
-     "p": 0.6433781890823398,
-     "line": 2.5,
-     "text": "Menos de 2.5 goles"
-    }
-   ],
-   "anunciada": true
   },
   "SP2|2026-11-15|Tenerife|Ceuta": {
    "match": "Tenerife vs Ceuta",
@@ -24357,7 +23744,7 @@
   "SP2|2026-11-15|Eldense|Sabadell"
  ],
  "paper_sent": "2026-11-14T17:37:59.385011+00:00",
- "sgp_res_n": 412,
+ "sgp_res_n": 423,
  "nba_props_ok": [
   "nba|2026-11-05|Detroit Pistons|Philadelphia 76ers",
   "nba|2026-11-05|Washington Wizards|Atlanta Hawks",
@@ -24442,5 +23829,5 @@
   "nba|2026-11-15|Minnesota Timberwolves|Chicago Bulls"
  ],
  "radar_date": "2026-11-14",
- "sgp_res_sent": "2026-11-14T00:06:52.880377+00:00"
+ "sgp_res_sent": "2026-11-15T00:18:15.238092+00:00"
 }
