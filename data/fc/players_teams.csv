@@ -68728,18 +68728,18 @@ id,tournament_id,club1,club2,ht1,ht2
 2381636,262114,Atlanta United,Los Angeles FC,,
 2381637,262114,LA Galaxy,Atlanta United,,
 2381638,262114,Inter Miami CF,Seattle Sounders FC,,
-2380585,262044,Brighton,Nottm Forest,0,0
-2380586,262044,Newcastle,Man Utd,1,1
-2380587,262044,Man Utd,Brighton,2,0
-2380588,262044,Nottm Forest,Aston Villa,0,2
-2380589,262044,Aston Villa,Man Utd,1,3
-2380590,262044,Brighton,Newcastle,0,2
-2380591,262044,Newcastle,Aston Villa,2,5
-2380592,262044,Man Utd,Nottm Forest,4,3
-2380593,262044,Nottm Forest,Newcastle,2,5
-2380594,262044,Aston Villa,Brighton,4,0
-2380595,262044,Nottm Forest,Brighton,2,1
-2380596,262044,Man Utd,Newcastle,0,1
+2380585,262044,Brighton,Nottm Forest,0.0,0.0
+2380586,262044,Newcastle,Man Utd,1.0,1.0
+2380587,262044,Man Utd,Brighton,2.0,0.0
+2380588,262044,Nottm Forest,Aston Villa,0.0,2.0
+2380589,262044,Aston Villa,Man Utd,1.0,3.0
+2380590,262044,Brighton,Newcastle,0.0,2.0
+2380591,262044,Newcastle,Aston Villa,2.0,5.0
+2380592,262044,Man Utd,Nottm Forest,4.0,3.0
+2380593,262044,Nottm Forest,Newcastle,2.0,5.0
+2380594,262044,Aston Villa,Brighton,4.0,0.0
+2380595,262044,Nottm Forest,Brighton,2.0,1.0
+2380596,262044,Man Utd,Newcastle,0.0,1.0
 2380597,262044,Brighton,Man Utd,,
 2380598,262044,Aston Villa,Nottm Forest,,
 2380599,262044,Man Utd,Aston Villa,,
