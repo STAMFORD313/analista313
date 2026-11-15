@@ -5,7 +5,7 @@
  "n_test": 175385,
  "stats": {
   "goles": {
-   "ll": 0.2704,
+   "ll": 0.2703,
    "ll_media": 0.3083,
    "ll_propia": 0.2822,
    "se_propia": 0.0004
@@ -24,8 +24,8 @@
   },
   "asist": {
    "ll": 0.2355,
-   "ll_media": 0.2495,
-   "ll_propia": 0.2438,
+   "ll_media": 0.2494,
+   "ll_propia": 0.2437,
    "se_propia": 0.0004
   }
  }
