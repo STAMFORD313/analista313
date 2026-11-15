@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 15/11/2026 18:15 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 15/11/2026 18:37 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## eSuba vs Revise — 15/11 · 19:00
 
