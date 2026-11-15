@@ -1,42 +1,25 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 15/11/2026 03:57 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 15/11/2026 04:28 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## Yerema vs fantazer — 15/11 · 04:01
+## cosske vs Joop — 15/11 · 04:32
 
-👀 candidata · 🎮⚽ FC 27 · Volta International A · **Gana fantazer** @ **1.21** (cuota justa (sin casa)) · prob 83% vs casas 83% · ventaja +0%
+👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana cosske** @ **1.80** (Unibet) · prob 63% vs casas 49% · ventaja +14%
 
-- ❌ Valor: ventaja +0% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Valor: ventaja +14% (mín. 12% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 68.411 partidos)  
-Goles esperados: Yerema 1.91 · fantazer 4.33  
-Ganador: Yerema 7% · empate 10% · fantazer 83%  
-Total: más de 6.5 goles 43% · menos 57%  
-Hándicap fantazer: −1.5 64% · −2.5 48%  
+📊 **Escenarios** (Poisson por jugador, 68.495 partidos)  
+Goles esperados: cosske 3.58 · Joop 2.32  
+Ganador: cosske 63% · empate 17% · Joop 20%  
+Total: más de 5.5 goles 54% · menos 46%  
+Hándicap cosske: −1.5 45% · −2.5 30%  
 🔎 **Claves**  
-• Forma: Yerema ❌❌❌❌❌ | fantazer ✅✅✅✅✅  
-• Partidos: Yerema 695 | fantazer 1719  
-• Liga: Volta International A  
-• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
-
-## Grellz vs ssstasonn — 15/11 · 04:03
-
-👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana Grellz** @ **1.18** (cuota justa (sin casa)) · prob 85% vs casas 85% · ventaja +0%
-
-- ❌ Valor: ventaja +0% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 68.411 partidos)  
-Goles esperados: Grellz 4.75 · ssstasonn 2.08  
-Ganador: Grellz 85% · empate 9% · ssstasonn 6%  
-Total: más de 6.5 goles 52% · menos 48%  
-Hándicap Grellz: −1.5 67% · −2.5 52%  
-🔎 **Claves**  
-• Forma: Grellz ➖❌❌✅✅ | ssstasonn ➖❌✅❌❌  
-• Partidos: Grellz 1192 | ssstasonn 1079  
+• Forma: cosske ❌✅✅✅✅ | Joop ✅❌❌❌❌  
+• Partidos: cosske 159 | Joop 216  
 • Liga: Champions League B  
-• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
+• Unibet: 1 1.80 · X 4.60 · 2 2.70 (sin margen 49%/19%/32%) · ventaja +14%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 1.80 (+14%) · Paf España 1.80 (+14%)  
 
 ## ssstasonn vs believer — 15/11 · 05:35
 

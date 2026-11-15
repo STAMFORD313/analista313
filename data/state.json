@@ -1116,9 +1116,6 @@
   "cbb|2026-11-18|California Baptist Lancers|Seattle U Redhawks",
   "cbb|2026-11-18|Gonzaga Bulldogs|Montana State Bobcats",
   "cbb|2026-11-18|Auburn Tigers|West Virginia Mountaineers",
-  "r6|133930",
-  "r6|133931",
-  "fc|2372318",
   "fc|2372315",
   "fc|2372076",
   "fc|2372320",
@@ -2118,7 +2115,10 @@
   "fc|2379578",
   "fc|2379580",
   "fc|2380115",
-  "fc|2379591"
+  "fc|2379591",
+  "fc|2379444",
+  "fc|2379219",
+  "fc|2379443"
  ],
  "signals": [
   {
@@ -6715,7 +6715,11 @@
    "version": "38e7d57",
    "bajas": "South Alabama Jaguars: sin bajas; Troy Trojans: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "27-14",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "sph",
@@ -6736,7 +6740,11 @@
    "version": "38e7d57",
    "bajas": "South Alabama Jaguars: sin bajas; Troy Trojans: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "27-14",
+   "close_p": 0.5,
+   "logged": true
   },
   {
    "market": "home",
@@ -6756,7 +6764,11 @@
    "version": "38e7d57",
    "bajas": "South Alabama Jaguars: sin bajas; Troy Trojans: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "27-14",
+   "close_p": 0.5782,
+   "logged": true
   },
   {
    "market": "over",
@@ -7340,15 +7352,6 @@
    "pick": "Más de 39.5 puntos",
    "league": "🏈 NCAA Football",
    "sport": "🏈",
-   "info": [
-    "📊 <b>Escenarios</b>: total esperado <b>41.6</b> puntos · línea 39.5",
-    "Más 50% · Menos 50%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: UTEP Miners ❌❌❌❌❌ | Wyoming Cowboys ❌✅✅✅✅",
-    "• H2H: sin precedentes",
-    "• Bajas: UTEP Miners: sin bajas; Wyoming Cowboys: sin bajas"
-   ],
    "context": "UTEP Miners vs Wyoming Cowboys (🏈 NCAA Football). Modelo de puntos (ataque/defensa con 10 años, decaimiento 1 año): total esperado 41.6 frente a línea 39.5. Forma UTEP Miners ❌❌❌❌❌, Wyoming Cowboys ❌✅✅✅✅. H2H sin precedentes. Bajas: UTEP Miners: sin bajas; Wyoming Cowboys: sin bajas.",
    "captured": "2026-11-12T00:13",
    "version": "38e7d57",
@@ -7370,14 +7373,6 @@
    "pick": "UTEP Miners +7.5",
    "league": "🏈 NCAA Football",
    "sport": "🏈",
-   "info": [
-    "📊 <b>Escenarios</b>: UTEP Miners cubre +7.5 con prob. 50% (casas 50%)",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: UTEP Miners ❌❌❌❌❌ | Wyoming Cowboys ❌✅✅✅✅",
-    "• H2H: sin precedentes",
-    "• Bajas: UTEP Miners: sin bajas; Wyoming Cowboys: sin bajas"
-   ],
    "context": "UTEP Miners vs Wyoming Cowboys (🏈 NCAA Football). Hándicap UTEP Miners +7.5: margen esperado desde el Elo (gana UTEP Miners 12%). Forma UTEP Miners ❌❌❌❌❌, Wyoming Cowboys ❌✅✅✅✅. H2H sin precedentes. Bajas: UTEP Miners: sin bajas; Wyoming Cowboys: sin bajas.",
    "captured": "2026-11-12T00:13",
    "version": "38e7d57",
@@ -7398,18 +7393,6 @@
    "start": "2026-11-15T03:00Z",
    "league": "🏈 NCAA Football",
    "sport": "🏈",
-   "info": [
-    "📊 <b>Escenarios</b> (Elo con 9.521 partidos y bajas)",
-    "Gana UTEP Miners 12% · Gana Wyoming Cowboys 88%",
-    "Casas: UTEP Miners 28% · Wyoming Cowboys 72%",
-    "Hándicap WYO -7.5 · Total puntos 39.5",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: UTEP Miners ❌❌❌❌❌ | Wyoming Cowboys ❌✅✅✅✅",
-    "• H2H: sin precedentes",
-    "• Bajas: UTEP Miners: sin bajas; Wyoming Cowboys: sin bajas",
-    "• Favorito de las casas: Wyoming Cowboys @ 1.33"
-   ],
    "context": "UTEP Miners vs Wyoming Cowboys (🏈 NCAA Football, fútbol americano). Modelo Elo con 10 años de historial ajustado por bajas: UTEP Miners 12%, Wyoming Cowboys 88%. Cuotas DraftKings 3.45/1.328, hándicap WYO -7.5, total 39.5. Forma UTEP Miners ❌❌❌❌❌, Wyoming Cowboys ❌✅✅✅✅. H2H sin precedentes. Bajas UTEP Miners: ninguna. Bajas Wyoming Cowboys: ninguna.",
    "captured": "2026-11-12T00:13",
    "version": "38e7d57",
@@ -7672,31 +7655,6 @@
    "placed": false,
    "score": "0-2",
    "result": true,
-   "close_p": null,
-   "logged": true
-  },
-  {
-   "market": "H",
-   "pick": "Kray",
-   "odds": 2.48,
-   "book": "Unibet",
-   "implied": 0.351,
-   "edge": 0.056,
-   "sin_stake": true,
-   "p": 0.426,
-   "key": "fc|2373976",
-   "match": "Kray vs Inquisitor",
-   "start": "2026-11-12T03:16:00+00:00",
-   "league": "🎮⚽ FC 27 · Champions League A",
-   "sport": "🎮⚽",
-   "context": "EA FC Esoccer Battle Kray vs Inquisitor (Champions League A): goles esperados 2.59-2.50, 1X2 43%/21%/36%. Sin cuotas de casa.",
-   "captured": "2026-11-12T03:11",
-   "version": "14c020e",
-   "bajas": "",
-   "considered": true,
-   "placed": false,
-   "score": "1-3",
-   "result": false,
    "close_p": null,
    "logged": true
   },
@@ -21615,25 +21573,16 @@
    "start": "2026-11-15T03:03:00+00:00",
    "league": "🎮⚽ FC 27 · Champions League B",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 68.411 partidos)",
-    "Goles esperados: Grellz 4.75 · ssstasonn 2.08",
-    "Ganador: Grellz 85% · empate 9% · ssstasonn 6%",
-    "Total: más de 6.5 goles 52% · menos 48%",
-    "Hándicap Grellz: −1.5 67% · −2.5 52%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Grellz ➖❌❌✅✅ | ssstasonn ➖❌✅❌❌",
-    "• Partidos: Grellz 1192 | ssstasonn 1079",
-    "• Liga: Champions League B",
-    "• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta)."
-   ],
    "context": "EA FC Esoccer Battle Grellz vs ssstasonn (Champions League B): goles esperados 4.75-2.08, 1X2 85%/9%/6%. Sin cuotas de casa.",
    "captured": "2026-11-15T01:18",
    "version": "2408e6f",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "8-1",
+   "result": true,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "A",
@@ -21648,25 +21597,16 @@
    "start": "2026-11-15T03:01:00+00:00",
    "league": "🎮⚽ FC 27 · Volta International A",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 68.411 partidos)",
-    "Goles esperados: Yerema 1.91 · fantazer 4.33",
-    "Ganador: Yerema 7% · empate 10% · fantazer 83%",
-    "Total: más de 6.5 goles 43% · menos 57%",
-    "Hándicap fantazer: −1.5 64% · −2.5 48%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Yerema ❌❌❌❌❌ | fantazer ✅✅✅✅✅",
-    "• Partidos: Yerema 695 | fantazer 1719",
-    "• Liga: Volta International A",
-    "• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta)."
-   ],
    "context": "EA FC Esoccer Battle Yerema vs fantazer (Volta International A): goles esperados 1.91-4.33, 1X2 7%/10%/83%. Sin cuotas de casa.",
    "captured": "2026-11-15T01:18",
    "version": "2408e6f",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "3-7",
+   "result": true,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "t2",
@@ -21826,7 +21766,11 @@
    "version": "dd34682",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "1-5",
+   "result": false,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "A",
@@ -21847,7 +21791,11 @@
    "version": "dd34682",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "2-3",
+   "result": true,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "A",
@@ -21878,6 +21826,41 @@
    "context": "EA FC Esoccer Battle ssstasonn vs believer (Club World Cup): goles esperados 1.73-4.56, 1X2 5%/8%/87%. Sin cuotas de casa.",
    "captured": "2026-11-15T02:57",
    "version": "cfbb437",
+   "bajas": "",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "H",
+   "pick": "cosske",
+   "odds": 1.8,
+   "book": "Unibet",
+   "implied": 0.486,
+   "edge": 0.14,
+   "sin_stake": true,
+   "p": 0.633,
+   "key": "fc|2379444",
+   "match": "cosske vs Joop",
+   "start": "2026-11-15T03:32:00+00:00",
+   "league": "🎮⚽ FC 27 · Champions League B",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 68.495 partidos)",
+    "Goles esperados: cosske 3.58 · Joop 2.32",
+    "Ganador: cosske 63% · empate 17% · Joop 20%",
+    "Total: más de 5.5 goles 54% · menos 46%",
+    "Hándicap cosske: −1.5 45% · −2.5 30%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: cosske ❌✅✅✅✅ | Joop ✅❌❌❌❌",
+    "• Partidos: cosske 159 | Joop 216",
+    "• Liga: Champions League B",
+    "• Unibet: 1 1.80 · X 4.60 · 2 2.70 (sin margen 49%/19%/32%) · ventaja +14%. Sin stake hasta demostrar ROI con estas cuotas.",
+    "• En España: LeoVegas España 1.80 (+14%) · Paf España 1.80 (+14%)"
+   ],
+   "context": "EA FC Esoccer Battle cosske vs Joop (Champions League B): goles esperados 3.58-2.32, 1X2 63%/17%/20%. Sin cuotas de casa.",
+   "captured": "2026-11-15T03:28",
+   "version": "69b0642",
    "bajas": "",
    "considered": true,
    "placed": false
@@ -23526,8 +23509,8 @@
   }
  },
  "combo_sent": "2026-11-13T20:49:12.026242+00:00",
- "fc_sim_sent": "2026-11-14T21:18:31.405265+00:00",
- "fc_sim_n": 1884,
+ "fc_sim_sent": "2026-11-15T03:28:26.424319+00:00",
+ "fc_sim_n": 1925,
  "kambi_ok": [
   "SP2|2026-11-13|Leganes|Burgos",
   "SP2|2026-11-14|Valladolid|Castellon",

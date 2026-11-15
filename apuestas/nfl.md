@@ -1,50 +1,6 @@
 # 🏈 NFL·NCAA · apuestas de valor
 
-Actualizado 15/11/2026 03:57 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## UTEP Miners vs Wyoming Cowboys — 15/11 · 04:00
-
-👀 candidata · 🏈 NCAA Football · **Más de 39.5 puntos** @ **1.91** (DraftKings) · prob 50% vs casas 50% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 totales» sin pérdidas demostradas
-
-📊 **Escenarios**: total esperado **41.6** puntos · línea 39.5  
-Más 50% · Menos 50%  
-🔎 **Claves**  
-• Forma: UTEP Miners ❌❌❌❌❌ | Wyoming Cowboys ❌✅✅✅✅  
-• H2H: sin precedentes  
-• Bajas: UTEP Miners: sin bajas; Wyoming Cowboys: sin bajas  
-
-## UTEP Miners vs Wyoming Cowboys — 15/11 · 04:00
-
-👀 candidata · 🏈 NCAA Football · **UTEP Miners +7.5** @ **1.89** (DraftKings) · prob 50% vs casas 50% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 hándicap» sin pérdidas demostradas
-
-📊 **Escenarios**: UTEP Miners cubre +7.5 con prob. 50% (casas 50%)  
-🔎 **Claves**  
-• Forma: UTEP Miners ❌❌❌❌❌ | Wyoming Cowboys ❌✅✅✅✅  
-• H2H: sin precedentes  
-• Bajas: UTEP Miners: sin bajas; Wyoming Cowboys: sin bajas  
-
-## UTEP Miners vs Wyoming Cowboys — 15/11 · 04:00
-
-👀 candidata · 🏈 NCAA Football · **Gana UTEP Miners** @ **3.45** (DraftKings) · prob 28% vs casas 28% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo con 9.521 partidos y bajas)  
-Gana UTEP Miners 12% · Gana Wyoming Cowboys 88%  
-Casas: UTEP Miners 28% · Wyoming Cowboys 72%  
-Hándicap WYO -7.5 · Total puntos 39.5  
-🔎 **Claves**  
-• Forma: UTEP Miners ❌❌❌❌❌ | Wyoming Cowboys ❌✅✅✅✅  
-• H2H: sin precedentes  
-• Bajas: UTEP Miners: sin bajas; Wyoming Cowboys: sin bajas  
-• Favorito de las casas: Wyoming Cowboys @ 1.33  
+Actualizado 15/11/2026 04:28 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Washington State Cougars vs Colorado State Rams — 15/11 · 04:30
 
