@@ -748,7 +748,6 @@ id,date,event,home,away,hs,as,res
 401917527,2026-11-14T03:00Z,East Texas A&M Lions at Portland Pilots,Portland Pilots,East Texas A&M Lions,88,94,0.0
 401917525,2026-11-14T03:00Z,UIC Flames at Saint Mary's Gaels,Saint Mary's Gaels,UIC Flames,84,61,1.0
 401920345,2026-11-14T03:30Z,Arkansas-Pine Bluff Golden Lions at California Baptist Lancers,California Baptist Lancers,Arkansas-Pine Bluff Golden Lions,74,60,1.0
-401917530,2026-11-15T03:00Z,New Mexico Lobos at Santa Clara Broncos,Santa Clara Broncos,New Mexico Lobos,90,85,1.0
 401921689,2026-11-14T20:30Z,LSU Tigers at Gonzaga Bulldogs,Gonzaga Bulldogs,LSU Tigers,80,81,0.0
 401919847,2026-11-14T19:00Z,Stonehill Skyhawks at Texas Tech Red Raiders,Texas Tech Red Raiders,Stonehill Skyhawks,88,37,1.0
 401919004,2026-11-14T17:00Z,Tulane Green Wave at Akron Zips,Akron Zips,Tulane Green Wave,65,63,1.0
@@ -815,6 +814,8 @@ id,date,event,home,away,hs,as,res
 401911347,2026-11-15T01:00Z,UL Monroe Warhawks at Grand Canyon Lopes,Grand Canyon Lopes,UL Monroe Warhawks,88,52,1.0
 401920760,2026-11-15T01:30Z,Furman Paladins at Belmont Bruins,Belmont Bruins,Furman Paladins,72,62,1.0
 401922031,2026-11-15T02:00Z,Montana Grizzlies at North Dakota Fighting Hawks,North Dakota Fighting Hawks,Montana Grizzlies,71,80,0.0
+401917530,2026-11-15T03:00Z,New Mexico Lobos at Santa Clara Broncos,Santa Clara Broncos,New Mexico Lobos,90,85,1.0
+401911455,2026-11-15T03:00Z,Utah Valley Wolverines at Nevada Wolf Pack,Nevada Wolf Pack,Utah Valley Wolverines,71,73,0.0
 401924720,2026-11-14T16:00Z,UNC Greensboro Spartans at Cornell Big Red,Cornell Big Red,UNC Greensboro Spartans,0,0,0.5
 401917529,2026-11-14T21:00Z,Air Force Falcons at Pacific Tigers,Pacific Tigers,Air Force Falcons,0,0,0.5
 401926864,2026-11-15T00:00Z,Louisiana Ragin' Cajuns at UNC Wilmington Seahawks,UNC Wilmington Seahawks,Louisiana Ragin' Cajuns,0,0,0.5
