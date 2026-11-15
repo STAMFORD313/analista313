@@ -1,6 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 15/11/2026 14:22 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 15/11/2026 14:54 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Granada vs Las Palmas — 15/11 · 16:15
 

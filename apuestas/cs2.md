@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 15/11/2026 14:22 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 15/11/2026 14:54 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## ex-Sashi Academy vs Ducks — 15/11 · 16:00
 
