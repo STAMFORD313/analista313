@@ -34832,3 +34832,5 @@ game_id,match_id,slug,date,tier,bo,tournament_id,tournament,t1_id,t2_id,team1,te
 193237,133769,faze-vs-fnatic-15-11-2026,2026-11-15T09:55:00.000+00:00,b,3,6251,PGL Cluj-Napoca 2027: Closed Qualifier,791,786,FaZe,fnatic,3,de_ancient,786,13.0,6.0
 193238,133769,faze-vs-fnatic-15-11-2026,2026-11-15T09:55:00.000+00:00,b,3,6251,PGL Cluj-Napoca 2027: Closed Qualifier,791,786,FaZe,fnatic,2,de_mirage,791,13.0,7.0
 193239,133769,faze-vs-fnatic-15-11-2026,2026-11-15T09:55:00.000+00:00,b,3,6251,PGL Cluj-Napoca 2027: Closed Qualifier,791,786,FaZe,fnatic,1,de_anubis,786,13.0,7.0
+192881,133390,l-g-vs-the-last-resort-15-11-2026,2026-11-15T12:00:00.000+00:00,b,3,5629,CCT Europe 2026 Series 14,5933,2740,Leo,The Last Resort,2,de_cache,2740,13.0,10.0
+192882,133390,l-g-vs-the-last-resort-15-11-2026,2026-11-15T12:00:00.000+00:00,b,3,5629,CCT Europe 2026 Series 14,5933,2740,Leo,The Last Resort,1,de_nuke,2740,13.0,11.0

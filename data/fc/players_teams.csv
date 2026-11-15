@@ -69068,3 +69068,63 @@ id,tournament_id,club1,club2,ht1,ht2
 2381686,262110,Shanghai Port,Shanghai Shenhua,4.0,1.0
 2381687,262110,Shanghai Shenhua,Shandong Taishan,0.0,0.0
 2381688,262110,Beijing Guoan,Chengdu Rongcheng,0.0,0.0
+2380905,262041,Liverpool,Atleti,0,0
+2380906,262041,Paris,Bayern Munchen,0,2
+2380907,262041,Bayern Munchen,Liverpool,3,1
+2380908,262041,Atleti,Real Madrid,1,1
+2380909,262041,Real Madrid,Bayern Munchen,2,1
+2380910,262041,Liverpool,Paris,2,0
+2380911,262041,Paris,Real Madrid,0,3
+2380912,262041,Bayern Munchen,Atleti,3,2
+2380913,262041,Atleti,Paris,4,1
+2380914,262041,Real Madrid,Liverpool,0,4
+2380915,262041,Atleti,Liverpool,,
+2380916,262041,Bayern Munchen,Paris,,
+2380917,262041,Liverpool,Bayern Munchen,,
+2380918,262041,Real Madrid,Atleti,,
+2380919,262041,Bayern Munchen,Real Madrid,,
+2380920,262041,Paris,Liverpool,,
+2380921,262041,Real Madrid,Paris,,
+2380922,262041,Atleti,Bayern Munchen,,
+2380923,262041,Paris,Atleti,,
+2380924,262041,Liverpool,Real Madrid,,
+2381349,262091,Argentina,England,4,1
+2381350,262091,Spain,Germany,1,1
+2381351,262091,Germany,Argentina,3,2
+2381352,262091,England,France,1,3
+2381353,262091,France,Germany,1,4
+2381354,262091,Argentina,Spain,2,1
+2381355,262091,Spain,France,,
+2381356,262091,Germany,England,,
+2381357,262091,England,Spain,,
+2381358,262091,France,Argentina,,
+2381359,262091,England,Argentina,,
+2381360,262091,Germany,Spain,,
+2381361,262091,Argentina,Germany,,
+2381362,262091,France,England,,
+2381363,262091,Germany,France,,
+2381364,262091,Spain,Argentina,,
+2381365,262091,France,Spain,,
+2381366,262091,England,Germany,,
+2381367,262091,Spain,England,,
+2381368,262091,Argentina,France,,
+2381689,262111,PSV,Ajax,2,1
+2381690,262111,Feyenoord,Twente,0,2
+2381691,262111,Twente,PSV,0,2
+2381692,262111,Ajax,AZ Alkmaar,0,1
+2381693,262111,AZ Alkmaar,Twente,2,1
+2381694,262111,PSV,Feyenoord,0,1
+2381695,262111,Feyenoord,AZ Alkmaar,2,0
+2381696,262111,Twente,Ajax,0,3
+2381697,262111,Ajax,Feyenoord,,
+2381698,262111,AZ Alkmaar,PSV,,
+2381699,262111,Ajax,PSV,,
+2381700,262111,Twente,Feyenoord,,
+2381701,262111,PSV,Twente,,
+2381702,262111,AZ Alkmaar,Ajax,,
+2381703,262111,Twente,AZ Alkmaar,,
+2381704,262111,Feyenoord,PSV,,
+2381705,262111,AZ Alkmaar,Feyenoord,,
+2381706,262111,Ajax,Twente,,
+2381707,262111,Feyenoord,Ajax,,
+2381708,262111,PSV,AZ Alkmaar,,
