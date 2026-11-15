@@ -2839,5 +2839,47 @@
   "estado": "pendiente",
   "avisada": false,
   "rev": 1
+ },
+ {
+  "id": "20261115030045288719",
+  "creada": "2026-11-15 03:00:45.288772+00:00",
+  "titulo": "Barrido · Combinada cuota 9.7",
+  "legs": [
+   {
+    "code": null,
+    "start": "2026-11-15 11:00:00+00:00",
+    "home": "Union Adarve",
+    "away": "Las Rozas",
+    "txt": "Gana Union Adarve",
+    "odds": 2.5,
+    "p": 0.4251
+   },
+   {
+    "code": null,
+    "start": "2026-11-15 13:30:00+00:00",
+    "home": "Sasso Marconi",
+    "away": "SSD Rondinella Marzocco",
+    "txt": "Gana Sasso Marconi",
+    "odds": 2.48,
+    "p": 0.4718
+   },
+   {
+    "src": "esports:cs2",
+    "side": "H",
+    "code": null,
+    "start": "2026-11-15 19:00:00+00:00",
+    "home": "Gelo",
+    "away": "Rcave",
+    "txt": "Gana Gelo",
+    "odds": 1.56,
+    "p": 0.6721504273504273
+   }
+  ],
+  "odds": 9.67,
+  "p": 0.1348079549973333,
+  "stake": 1.0,
+  "estado": "pendiente",
+  "avisada": false,
+  "rev": 1
  }
 ]
