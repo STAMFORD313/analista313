@@ -1119,10 +1119,6 @@
   "atp|2026-11-17|Flavio Cobolli|Frances Tiafoe",
   "atp|2026-11-17|Carlos Alcaraz|Flavio Cobolli",
   "cbb|2026-11-18|North Dakota Fighting Hawks|SIU Edwardsville Cougars",
-  "fc|2374258",
-  "fc|2373148",
-  "fc|2375208",
-  "fc|2373320",
   "fc|2373130",
   "fc|2375209",
   "dota2|133987",
@@ -2122,7 +2118,11 @@
   "cs2|134281",
   "fc|2381802",
   "fc|2381799",
-  "fc|2381382"
+  "fc|2381382",
+  "dota2|134232",
+  "fc|2381941",
+  "fc|2381740",
+  "fc|2381739"
  ],
  "signals": [
   {
@@ -18587,18 +18587,6 @@
    "start": "2026-11-15T19:00:00+00:00",
    "league": "🎮 CS2 · ESEA Season 59: Advanced Division - Europe",
    "sport": "🎮",
-   "info": [
-    "📊 <b>Escenarios</b> (Elo por mapa, 76.859 partidos)",
-    "Mapa: Gelo 82% · Serie BO1: Gelo 82% - 18% Rcave",
-    "Casas: Gelo 59% · Rcave 41%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Elo: Gelo 1535 (7 series) | Rcave 1277 (15 series)",
-    "• Forma: Gelo ✅❌❌✅❌ | Rcave ❌❌✅❌❌",
-    "• H2H: sin precedentes",
-    "• Torneo: ESEA Season 59: Advanced Division - Europe (nivel C)",
-    "• Cambios de plantilla: ninguno"
-   ],
    "context": "CS2 Gelo vs Rcave, BO1, torneo ESEA Season 59: Advanced Division - Europe nivel c. Elo por mapa 1535 vs 1277 (prob. mapa 82%, serie 82%). Forma ✅❌❌✅❌ / ❌❌✅❌❌ (✅ victoria ❌ derrota). H2H sin precedentes. Cambios de plantilla: ninguno. Cuotas Thunderpick 1.56/2.26.",
    "captured": "2026-11-15T01:18",
    "version": "2408e6f",
@@ -20802,7 +20790,11 @@
    "version": "6220f57",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "2-1",
+   "result": true,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "A",
@@ -21007,25 +20999,16 @@
    "start": "2026-11-15T18:46:00+00:00",
    "league": "🎮⚽ FC 27 · Copa America",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 69.194 partidos)",
-    "Goles esperados: VD 2.27 · Smetana 4.37",
-    "Ganador: VD 11% · empate 12% · Smetana 77%",
-    "Total: más de 6.5 goles 50% · menos 50%",
-    "Hándicap Smetana: −1.5 59% · −2.5 43%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: VD ❌✅❌✅❌ | Smetana ✅➖➖✅✅",
-    "• Partidos: VD 392 | Smetana 1264",
-    "• Liga: Copa America",
-    "• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta)."
-   ],
    "context": "EA FC Esoccer Battle VD vs Smetana (Copa America): goles esperados 2.27-4.37, 1X2 11%/12%/77%. Sin cuotas de casa.",
    "captured": "2026-11-15T16:56",
    "version": "0934070",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "5-1",
+   "result": false,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "H",
@@ -21170,7 +21153,11 @@
    "version": "f9f595f",
    "bajas": "",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "score": "2-4",
+   "result": true,
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "A",
@@ -21186,26 +21173,48 @@
    "start": "2026-11-15T19:07:00+00:00",
    "league": "🎮⚽ FC 27 · Serie A",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 69.288 partidos)",
-    "Goles esperados: Mani 2.82 · ZORO 4.02",
-    "Ganador: Mani 22% · empate 16% · ZORO 62%",
-    "Total: más de 6.5 goles 53% · menos 47%",
-    "Hándicap ZORO: −1.5 45% · −2.5 30%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Mani ➖❌➖❌✅ | ZORO ➖➖✅❌❌",
-    "• Partidos: Mani 928 | ZORO 899",
-    "• Liga: Serie A",
-    "• Unibet: 1 2.02 · X 3.80 · 2 2.55 (sin margen 43%/23%/34%) · ventaja +59%. Sin stake hasta demostrar ROI con estas cuotas.",
-    "• En España: LeoVegas España 2.55 (+59%) · Paf España 2.55 (+59%)"
-   ],
    "context": "EA FC Esoccer Battle Mani vs ZORO (Serie A): goles esperados 2.82-4.02, 1X2 22%/16%/62%. Sin cuotas de casa.",
    "captured": "2026-11-15T18:38",
    "version": "14efd54",
    "bajas": "",
    "considered": true,
    "placed": false
+  },
+  {
+   "market": "H",
+   "pick": "Glumac",
+   "odds": 2.7,
+   "book": "Unibet",
+   "implied": 0.323,
+   "edge": 0.249,
+   "sin_stake": true,
+   "p": 0.463,
+   "key": "fc|2381941",
+   "match": "Glumac vs Krkula",
+   "start": "2026-11-15T19:22:00+00:00",
+   "league": "🎮⚽ FC 27 · Premier League",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 69.310 partidos)",
+    "Goles esperados: Glumac 3.49 · Krkula 3.31",
+    "Ganador: Glumac 46% · empate 18% · Krkula 36%",
+    "Total: más de 6.5 goles 52% · menos 48%",
+    "Hándicap Glumac: −1.5 30% · −2.5 18%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: Glumac ✅✅✅✅✅ | Krkula ❌❌❌❌✅",
+    "• Partidos: Glumac 904 | Krkula 760",
+    "• Liga: Premier League",
+    "• Unibet: 1 2.70 · X 3.70 · 2 1.97 (sin margen 32%/24%/44%) · ventaja +25%. Sin stake hasta demostrar ROI con estas cuotas.",
+    "• En España: LeoVegas España 2.70 (+25%) · Paf España 2.70 (+25%)"
+   ],
+   "context": "EA FC Esoccer Battle Glumac vs Krkula (Premier League): goles esperados 3.49-3.31, 1X2 46%/18%/36%. Sin cuotas de casa.",
+   "captured": "2026-11-15T19:08",
+   "version": "2b18a48",
+   "bajas": "",
+   "considered": true,
+   "placed": false,
+   "anunciada": true
   }
  ],
  "bank": {
@@ -21668,7 +21677,7 @@
  },
  "scoreboard_id": 156,
  "scoreboard_text": "📊 <b>MARCADOR DEL BOT</b>\n━━━━━━━━━━━━━━━\n🟩 Ganadas: <b>11</b> (37 %)\n🟥 Perdidas: <b>19</b> (63 %)\n⏳ En juego: 0\n\nÚltimas 30:\n🟥🟥🟥🟩🟥🟩🟥🟥🟥🟥🟥🟥🟥🟥🟩🟥🟥🟩🟩🟩🟩🟩🟥🟥🟥🟥🟩🟩🟥🟩\n━━━━━━━━━━━━━━━\n💵 Beneficio -17.17 $ · ROI -30.9 %\n📐 CLV medio +2.5 % (cuota cogida vs cierre)\n💰 Banca: <b>82.83 €</b> (-17.17 € desde 100 €) · libre 82.83 €{\"inline_keyboard\": [[{\"text\": \"\\ud83d\\udcc8 Ver historial completo y fallos\", \"url\": \"https://github.com/STAMFORD313/analista313/blob/main/ESTADISTICAS.md\"}], [{\"text\": \"\\u26bd F\\u00fatbol\", \"callback_data\": \"dep:futbol\"}, {\"text\": \"\\ud83c\\udfc0 NBA\\u00b7NCAA\", \"callback_data\": \"dep:nba\"}, {\"text\": \"\\ud83c\\udfc8 NFL\\u00b7NCAA\", \"callback_data\": \"dep:nfl\"}], [{\"text\": \"\\ud83c\\udfc6 Champions\\u00b7Europa\", \"callback_data\": \"dep:europa\"}, {\"text\": \"\\ud83c\\udfd2 NHL\", \"callback_data\": \"dep:nhl\"}, {\"text\": \"\\u26be MLB\", \"callback_data\": \"dep:mlb\"}], [{\"text\": \"\\ud83e\\udd4a UFC\", \"callback_data\": \"dep:ufc\"}, {\"text\": \"\\ud83c\\udfbe Tenis\", \"callback_data\": \"dep:tenis\"}, {\"text\": \"\\ud83c\\udfae CS2\", \"callback_data\": \"dep:cs2\"}], [{\"text\": \"\\ud83d\\udc09 Dota 2\", \"callback_data\": \"dep:dota2\"}, {\"text\": \"\\ud83e\\uddd9 LoL\", \"callback_data\": \"dep:lol\"}, {\"text\": \"\\ud83d\\udd2b R6 Siege\", \"callback_data\": \"dep:r6\"}], [{\"text\": \"\\ud83d\\udcf1 MLBB\", \"callback_data\": \"dep:mlbb\"}, {\"text\": \"\\ud83c\\udfae\\u26bd FC 27\", \"callback_data\": \"dep:fc\"}]]}",
- "fc_sent": "2026-11-15T14:53:33.788944+00:00",
+ "fc_sent": "2026-11-15T19:08:47.187260+00:00",
  "sgp": {
   "P1|2026-11-08|Estoril|Maritimo": {
    "match": "Estoril vs Maritimo",

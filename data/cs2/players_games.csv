@@ -34848,6 +34848,9 @@ game_id,match_id,slug,date,tier,bo,tournament_id,tournament,t1_id,t2_id,team1,te
 192383,133209,galorys-cs-vs-axorfy-gaming-15-11-2026,2026-11-15T15:00:00.000+00:00,b,3,5624,CCT South America 2026 Series 8,10049,25666,Galorys,AXORFY,1,de_dust2,10049,13.0,7.0
 192523,133256,metizport-vs-team-aces-15-11-2026,2026-11-15T15:00:00.000+00:00,b,3,5628,CCT Europe 2026 Series 13,1578,25564,Metizport,Aces,2,de_mirage,25564,13.0,9.0
 192524,133256,metizport-vs-team-aces-15-11-2026,2026-11-15T15:00:00.000+00:00,b,3,5628,CCT Europe 2026 Series 13,1578,25564,Metizport,Aces,1,de_cache,25564,13.0,11.0
+192883,133391,forze-reload-vs-nexus-15-11-2026,2026-11-15T15:00:00.000+00:00,b,3,5629,CCT Europe 2026 Series 14,10703,326,FORZE Reload,Nexus,3,de_dust2,10703,13.0,6.0
+192884,133391,forze-reload-vs-nexus-15-11-2026,2026-11-15T15:00:00.000+00:00,b,3,5629,CCT Europe 2026 Series 14,10703,326,FORZE Reload,Nexus,2,de_cache,326,13.0,10.0
+192885,133391,forze-reload-vs-nexus-15-11-2026,2026-11-15T15:00:00.000+00:00,b,3,5629,CCT Europe 2026 Series 14,10703,326,FORZE Reload,Nexus,1,de_anubis,10703,16.0,14.0
 193364,133855,butterfly-vs-baks-esports-15-11-2026,2026-11-15T15:00:00.000+00:00,b,3,6240,NODWIN Clutch Series 14,24855,2924,Butterfly,BAKS,1,de_cache,2924,13.0,11.0
 193250,133773,magic-ru-vs-fnatic-15-11-2026,2026-11-15T16:00:00.000+00:00,b,3,6251,PGL Cluj-Napoca 2027: Closed Qualifier,786,22218,fnatic,magic,2,de_anubis,786,13.0,9.0
 193251,133773,magic-ru-vs-fnatic-15-11-2026,2026-11-15T16:00:00.000+00:00,b,3,6251,PGL Cluj-Napoca 2027: Closed Qualifier,786,22218,fnatic,magic,1,de_inferno,786,13.0,6.0

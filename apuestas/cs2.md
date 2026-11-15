@@ -1,23 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 15/11/2026 19:38 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Gelo vs Rcave — 15/11 · 20:00
-
-👀 candidata · 🎮 CS2 · ESEA Season 59: Advanced Division - Europe · **Gana Gelo** @ **1.56** (Thunderpick) · prob 70% vs casas 59% · ventaja +10%
-
-- ✅ Valor: ventaja +10% (mín. 9% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 76.859 partidos)  
-Mapa: Gelo 82% · Serie BO1: Gelo 82% - 18% Rcave  
-Casas: Gelo 59% · Rcave 41%  
-🔎 **Claves**  
-• Elo: Gelo 1535 (7 series) | Rcave 1277 (15 series)  
-• Forma: Gelo ✅❌❌✅❌ | Rcave ❌❌✅❌❌  
-• H2H: sin precedentes  
-• Torneo: ESEA Season 59: Advanced Division - Europe (nivel C)  
-• Cambios de plantilla: ninguno  
+Actualizado 15/11/2026 20:08 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## ROUNDS vs BOJONG — 16/11 · 16:30
 
