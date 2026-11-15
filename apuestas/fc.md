@@ -1,43 +1,44 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 15/11/2026 11:22 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 15/11/2026 11:52 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## MeLToSik vs Artrom — 15/11 · 11:30
+## goldfer vs why — 15/11 · 11:54
 
-👀 candidata · 🎮⚽ FC 27 · Bundesliga · **Gana MeLToSik** @ **2.50** (Unibet) · prob 46% vs casas 34% · ventaja +15%
+👀 candidata · 🎮⚽ FC 27 · Champions League A 2x6 · **Empate** @ **7.00** (Unibet) · prob 16% vs casas 12% · ventaja +9%
 
-- ✅ Valor: ventaja +15% (mín. 12% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+- ❌ Valor: ventaja +9% (mín. 11% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 68.820 partidos)  
-Goles esperados: MeLToSik 2.04 · Artrom 1.74  
-Ganador: MeLToSik 46% · empate 25% · Artrom 29%  
-Total: más de 3.5 goles 52% · menos 48%  
-Hándicap MeLToSik: −1.5 26% · −2.5 12%  
+📊 **Escenarios** (Poisson por jugador, 68.856 partidos)  
+Goles esperados: goldfer 2.65 · why 3.86  
+Ganador: goldfer 19% · empate 16% · why 65%  
+Total: más de 6.5 goles 48% · menos 52%  
+Hándicap why: −1.5 45% · −2.5 30%  
 🔎 **Claves**  
-• Forma: MeLToSik ❌✅❌✅➖ | Artrom ➖❌❌❌❌  
-• Partidos: MeLToSik 1270 | Artrom 665  
-• Liga: Bundesliga  
-• Unibet: 1 2.50 · X 2.60 · 2 2.65 (sin margen 34%/33%/32%) · ventaja +15%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.50 (+15%) · Paf España 2.50 (+15%)  
-
-## TikitakaMaster vs goldfer — 15/11 · 11:36
-
-👀 candidata · 🎮⚽ FC 27 · Champions League A 2x6 · **Gana TikitakaMaster** @ **1.18** (cuota justa (sin casa)) · prob 84% vs casas 84% · ventaja +0%
-
-- ❌ Valor: ventaja +0% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 68.832 partidos)  
-Goles esperados: TikitakaMaster 4.98 · goldfer 2.28  
-Ganador: TikitakaMaster 84% · empate 9% · goldfer 7%  
-Total: más de 7.5 goles 44% · menos 56%  
-Hándicap TikitakaMaster: −1.5 67% · −2.5 52%  
-🔎 **Claves**  
-• Forma: TikitakaMaster ✅✅✅✅❌ | goldfer ✅❌❌✅❌  
-• Partidos: TikitakaMaster 725 | goldfer 525  
+• Forma: goldfer ✅❌❌✅❌ | why ❌❌❌❌❌  
+• Partidos: goldfer 525 | why 638  
 • Liga: Champions League A 2x6  
-• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
+• Unibet: 1 5.50 · X 7.00 · 2 1.21 (sin margen 16%/12%/72%) · ventaja +9%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 7.00 (+9%) · Paf España 7.00 (+9%)  
+
+## Jekunam vs Artrom — 15/11 · 11:54
+
+👀 candidata · 🎮⚽ FC 27 · Bundesliga · **Empate** @ **4.50** (Unibet) · prob 24% vs casas 19% · ventaja +7%
+
+- ❌ Valor: ventaja +7% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 68.856 partidos)  
+Goles esperados: Jekunam 2.20 · Artrom 1.80  
+Ganador: Jekunam 49% · empate 24% · Artrom 28%  
+Total: más de 4.5 goles 37% · menos 63%  
+Hándicap Jekunam: −1.5 28% · −2.5 14%  
+🔎 **Claves**  
+• Forma: Jekunam ➖❌✅➖➖ | Artrom ❌❌❌✅❌  
+• Partidos: Jekunam 1165 | Artrom 667  
+• Liga: Bundesliga  
+• Unibet: 1 2.02 · X 4.50 · 2 2.32 (sin margen 43%/19%/38%) · ventaja +7%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 4.50 (+7%) · Paf España 4.50 (+7%)  
 
 ## spirtes vs Loka — 15/11 · 11:56
 
