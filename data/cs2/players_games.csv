@@ -34839,3 +34839,6 @@ game_id,match_id,slug,date,tier,bo,tournament_id,tournament,t1_id,t2_id,team1,te
 192882,133390,l-g-vs-the-last-resort-15-11-2026,2026-11-15T12:00:00.000+00:00,b,3,5629,CCT Europe 2026 Series 14,5933,2740,Leo,The Last Resort,1,de_nuke,2740,13.0,11.0
 193360,133854,brute-vs-ex-inox-division-15-11-2026,2026-11-15T12:00:00.000+00:00,b,3,6240,NODWIN Clutch Series 14,370,25609,BRUTE,ex-INOX,2,de_cache,370,13.0,5.0
 193361,133854,brute-vs-ex-inox-division-15-11-2026,2026-11-15T12:00:00.000+00:00,b,3,6240,NODWIN Clutch Series 14,370,25609,BRUTE,ex-INOX,1,de_dust2,25609,13.0,11.0
+193234,133768,parivision-vs-tpudcatb-tpu-15-11-2026,2026-11-15T12:30:00.000+00:00,b,3,6251,PGL Cluj-Napoca 2027: Closed Qualifier,8171,22191,PARIVISION,33,3,de_anubis,8171,13.0,6.0
+193235,133768,parivision-vs-tpudcatb-tpu-15-11-2026,2026-11-15T12:30:00.000+00:00,b,3,6251,PGL Cluj-Napoca 2027: Closed Qualifier,8171,22191,PARIVISION,33,2,de_dust2,8171,13.0,9.0
+193236,133768,parivision-vs-tpudcatb-tpu-15-11-2026,2026-11-15T12:30:00.000+00:00,b,3,6251,PGL Cluj-Napoca 2027: Closed Qualifier,8171,22191,PARIVISION,33,1,de_ancient,22191,13.0,11.0

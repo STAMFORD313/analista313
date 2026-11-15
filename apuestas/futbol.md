@@ -1,6 +1,6 @@
 # ⚽ Fútbol · apuestas de valor
 
-Actualizado 15/11/2026 16:25 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 15/11/2026 16:55 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Eibar vs Cadiz — 15/11 · 18:30
 
