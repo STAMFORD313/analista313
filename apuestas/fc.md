@@ -1,25 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 15/11/2026 18:37 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Glumac vs llulle — 15/11 · 18:50
-
-👀 candidata · 🎮⚽ FC 27 · Super Lig · **Gana Glumac** @ **2.18** (Unibet) · prob 55% vs casas 40% · ventaja +19%
-
-- ✅ Valor: ventaja +19% (mín. 13% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 69.212 partidos)  
-Goles esperados: Glumac 3.40 · llulle 2.71  
-Ganador: Glumac 55% · empate 18% · llulle 27%  
-Total: más de 6.5 goles 41% · menos 59%  
-Hándicap Glumac: −1.5 37% · −2.5 23%  
-🔎 **Claves**  
-• Forma: Glumac ✅❌❌✅❌ | llulle ❌➖✅➖❌  
-• Partidos: Glumac 898 | llulle 1018  
-• Liga: Super Lig  
-• Unibet: 1 2.18 · X 4.10 · 2 2.25 (sin margen 40%/21%/39%) · ventaja +19%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.18 (+19%) · Paf España 2.18 (+19%)  
+Actualizado 15/11/2026 19:07 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Paka vs Int1liGenT — 15/11 · 19:08
 
@@ -40,6 +21,25 @@ Hándicap Int1liGenT: −1.5 26% · −2.5 14%
 • Unibet: 1 2.90 · X 4.25 · 2 1.77 (sin margen 30%/21%/49%) · ventaja +14%. Sin stake hasta demostrar ROI con estas cuotas.  
 • En España: LeoVegas España 2.90 (+14%) · Paf España 2.90 (+14%)  
 
+## Glumac vs lzrn — 15/11 · 19:14
+
+👀 candidata · 🎮⚽ FC 27 · Super Lig · **Gana Glumac** @ **2.25** (Unibet) · prob 58% vs casas 38% · ventaja +30%
+
+- ✅ Valor: ventaja +30% (mín. 16% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 69.262 partidos)  
+Goles esperados: Glumac 3.89 · lzrn 3.03  
+Ganador: Glumac 58% · empate 16% · lzrn 26%  
+Total: más de 6.5 goles 54% · menos 46%  
+Hándicap Glumac: −1.5 40% · −2.5 26%  
+🔎 **Claves**  
+• Forma: Glumac ✅❌❌✅✅ | lzrn ➖➖✅❌✅  
+• Partidos: Glumac 901 | lzrn 923  
+• Liga: Super Lig  
+• Unibet: 1 2.25 · X 3.25 · 2 2.48 (sin margen 38%/27%/35%) · ventaja +30%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.25 (+30%) · Paf España 2.25 (+30%)  
+
 ## Smetana vs SDI — 15/11 · 19:22
 
 👀 candidata · 🎮⚽ FC 27 · Copa America · **Gana Smetana** @ **1.22** (cuota justa (sin casa)) · prob 82% vs casas 82% · ventaja +0%
@@ -57,6 +57,25 @@ Hándicap Smetana: −1.5 68% · −2.5 53%
 • Partidos: Smetana 1262 | SDI 597  
 • Liga: Copa America  
 • Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
+
+## chevare vs Glumac — 15/11 · 19:26
+
+👀 candidata · 🎮⚽ FC 27 · Super Lig · **Gana Glumac** @ **2.25** (Unibet) · prob 47% vs casas 38% · ventaja +5%
+
+- ❌ Valor: ventaja +5% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 69.262 partidos)  
+Goles esperados: chevare 3.48 · Glumac 3.76  
+Ganador: chevare 36% · empate 17% · Glumac 47%  
+Total: más de 7.5 goles 44% · menos 56%  
+Hándicap Glumac: −1.5 32% · −2.5 20%  
+🔎 **Claves**  
+• Forma: chevare ➖➖❌❌✅ | Glumac ✅❌❌✅✅  
+• Partidos: chevare 708 | Glumac 901  
+• Liga: Super Lig  
+• Unibet: 1 2.35 · X 3.50 · 2 2.25 (sin margen 37%/25%/38%) · ventaja +5%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.25 (+5%) · Paf España 2.25 (+5%)  
 
 ## VD vs Smetana — 15/11 · 19:46
 

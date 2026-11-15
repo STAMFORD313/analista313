@@ -69264,14 +69264,14 @@ id,tournament_id,club1,club2,ht1,ht2
 2381516,262101,Germany,Morocco,,
 2381517,262101,Portugal,Germany,,
 2381518,262101,Netherlands,Belgium,,
-2381919,262068,Basaksehir,Fenerbahce,1,1
-2381920,262068,Trabzonspor,Galatasaray,0,1
-2381921,262068,Galatasaray,Basaksehir,1,3
-2381922,262068,Fenerbahce,Besiktas,1,1
-2381923,262068,Besiktas,Galatasaray,3,2
-2381924,262068,Basaksehir,Trabzonspor,3,2
-2381925,262068,Trabzonspor,Besiktas,1,0
-2381926,262068,Galatasaray,Fenerbahce,4,2
+2381919,262068,Basaksehir,Fenerbahce,1.0,1.0
+2381920,262068,Trabzonspor,Galatasaray,0.0,1.0
+2381921,262068,Galatasaray,Basaksehir,1.0,3.0
+2381922,262068,Fenerbahce,Besiktas,1.0,1.0
+2381923,262068,Besiktas,Galatasaray,3.0,2.0
+2381924,262068,Basaksehir,Trabzonspor,3.0,2.0
+2381925,262068,Trabzonspor,Besiktas,1.0,0.0
+2381926,262068,Galatasaray,Fenerbahce,4.0,2.0
 2381927,262068,Fenerbahce,Trabzonspor,,
 2381928,262068,Besiktas,Basaksehir,,
 2381929,262068,Fenerbahce,Basaksehir,,
@@ -69284,12 +69284,12 @@ id,tournament_id,club1,club2,ht1,ht2
 2381936,262068,Fenerbahce,Galatasaray,,
 2381937,262068,Trabzonspor,Fenerbahce,,
 2381938,262068,Basaksehir,Besiktas,,
-2381369,262093,Man City,Juventus,4,2
-2381370,262093,B Dortmund,Arsenal,3,0
-2381371,262093,Arsenal,Man City,0,2
-2381372,262093,Juventus,Sporting CP,1,3
-2381373,262093,Sporting CP,Arsenal,3,1
-2381374,262093,Man City,B Dortmund,3,1
+2381369,262093,Man City,Juventus,4.0,2.0
+2381370,262093,B Dortmund,Arsenal,3.0,0.0
+2381371,262093,Arsenal,Man City,0.0,2.0
+2381372,262093,Juventus,Sporting CP,1.0,3.0
+2381373,262093,Sporting CP,Arsenal,3.0,1.0
+2381374,262093,Man City,B Dortmund,3.0,1.0
 2381375,262093,B Dortmund,Sporting CP,,
 2381376,262093,Arsenal,Juventus,,
 2381377,262093,Juventus,B Dortmund,,
@@ -69304,3 +69304,23 @@ id,tournament_id,club1,club2,ht1,ht2
 2381386,262093,Juventus,Arsenal,,
 2381387,262093,B Dortmund,Juventus,,
 2381388,262093,Man City,Sporting CP,,
+2380945,262046,Germany,Argentina,2,5
+2380946,262046,England,France,1,1
+2380947,262046,France,Germany,3,1
+2380948,262046,Argentina,Spain,0,1
+2380949,262046,Spain,France,0,0
+2380950,262046,Germany,England,2,0
+2380951,262046,England,Spain,0,0
+2380952,262046,France,Argentina,1,2
+2380953,262046,Argentina,England,1,1
+2380954,262046,Spain,Germany,0,0
+2380955,262046,Argentina,Germany,2,1
+2380956,262046,France,England,1,0
+2380957,262046,Germany,France,,
+2380958,262046,Spain,Argentina,,
+2380959,262046,France,Spain,,
+2380960,262046,England,Germany,,
+2380961,262046,Spain,England,,
+2380962,262046,Argentina,France,,
+2380963,262046,England,Argentina,,
+2380964,262046,Germany,Spain,,
