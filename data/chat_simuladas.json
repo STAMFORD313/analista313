@@ -2881,5 +2881,45 @@
   "estado": "pendiente",
   "avisada": false,
   "rev": 1
+ },
+ {
+  "id": "20261115091250391341",
+  "creada": "2026-11-15 09:12:50.391382+00:00",
+  "titulo": "Barrido · Combinada cuota 7.5",
+  "legs": [
+   {
+    "code": null,
+    "start": "2026-11-15 11:00:00+00:00",
+    "home": "Sparta Katowice",
+    "away": "Odra Bytom Odrzanski",
+    "txt": "Gana Sparta Katowice",
+    "odds": 1.72,
+    "p": 0.6201
+   },
+   {
+    "code": null,
+    "start": "2026-11-15 20:15:00+00:00",
+    "home": "Juan Pablo II College",
+    "away": "Deportivo Garcilaso",
+    "txt": "Gana Juan Pablo II College",
+    "odds": 2.55,
+    "p": 0.426
+   },
+   {
+    "code": null,
+    "start": "2026-11-15 23:30:00+00:00",
+    "home": "Ferro Carril Oeste",
+    "away": "Gimnasia y Tiro",
+    "txt": "Gana Ferro Carril Oeste",
+    "odds": 1.71,
+    "p": 0.61
+   }
+  ],
+  "odds": 7.5,
+  "p": 0.161139186,
+  "stake": 1.0,
+  "estado": "pendiente",
+  "avisada": false,
+  "rev": 1
  }
 ]
