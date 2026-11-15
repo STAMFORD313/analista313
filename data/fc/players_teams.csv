@@ -69504,14 +69504,14 @@ id,tournament_id,club1,club2,ht1,ht2
 2381556,262103,Barcelona,Atleti,,
 2381557,262103,Villarreal,Barcelona,,
 2381558,262103,Athletic Club,Real Madrid,,
-2380825,262070,Vitoria SC,Porto,2,1
-2380826,262070,Sporting CP,Benfica,1,1
-2380827,262070,Benfica,Vitoria SC,2,1
-2380828,262070,Porto,Braga,0,0
-2380829,262070,Braga,Benfica,1,2
-2380830,262070,Vitoria SC,Sporting CP,0,1
-2380831,262070,Sporting CP,Braga,0,1
-2380832,262070,Benfica,Porto,0,2
+2380825,262070,Vitoria SC,Porto,2.0,1.0
+2380826,262070,Sporting CP,Benfica,1.0,1.0
+2380827,262070,Benfica,Vitoria SC,2.0,1.0
+2380828,262070,Porto,Braga,0.0,0.0
+2380829,262070,Braga,Benfica,1.0,2.0
+2380830,262070,Vitoria SC,Sporting CP,0.0,1.0
+2380831,262070,Sporting CP,Braga,0.0,1.0
+2380832,262070,Benfica,Porto,0.0,2.0
 2380833,262070,Porto,Sporting CP,,
 2380834,262070,Braga,Vitoria SC,,
 2380835,262070,Porto,Vitoria SC,,

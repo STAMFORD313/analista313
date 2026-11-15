@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 15/11/2026 22:53 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 15/11/2026 23:08 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## ROUNDS vs BOJONG — 16/11 · 16:30
 
@@ -129,4 +129,30 @@ Casas: WBT 62% · ex-ENCE 38%
 🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
 • WBT gana 2-1: 25% → cuota justa 4.01 · casa 27%  
 • ex-ENCE gana 2-1: 15% → cuota justa 6.51 · casa 19%  
+
+## SINNERS vs Nexus — 17/11 · 11:00
+
+👀 candidata · 🎮 CS2 · RUSH:Brno 2026 · **Gana SINNERS** @ **1.30** (Thunderpick) · prob 72% vs casas 71% · ventaja -6%
+
+- ❌ Valor: ventaja -6% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 76.900 partidos)  
+Mapa: SINNERS 64% · Serie BO3: SINNERS 73% - 27% Nexus  
+Casas: SINNERS 71% · Nexus 29%  
+🔎 **Claves**  
+• Elo: SINNERS 1908 (618 series) | Nexus 1750 (710 series)  
+• Forma: SINNERS ✅✅✅✅❌ | Nexus ✅✅❌✅❌  
+• H2H: 9: 5-4  
+• Torneo: RUSH:Brno 2026 (nivel B)  
+• Cambios de plantilla: ninguno  
+• Jugadores en forma (rating últimos 10 mapas): SINNERS: MoDo 6.5, kisserek 6.2 | Nexus: fNk 6.5, HOLY 6.4  
+• Mapas (último año): SINNERS: fuerte overpass 91%, débil cache 42% | Nexus: fuerte overpass 71%, débil inferno 40%  
+• Química de la plantilla: SINNERS: 271 mapas juntos de media | Nexus: 70 mapas juntos de media  
+🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
+• SINNERS gana 2-1: 25% → cuota justa 4.03 · casa 27%  
+• Nexus gana 2-1: 14% → cuota justa 7.28 · casa 14%  
+🔫 **Kills esperados en la serie** (rango 80 %; mejor que la media de sus 10 últimas en 52.570 casos: log-loss 0.6819→0.6556; sin cuotas de props, solo referencia)  
+SINNERS: stressarN 37 (21-55) · MoDo 35 (20-52) · kisserek 35 (20-52) · SHOCK 34 (19-50) · beastik 33 (19-48)  
+Nexus: shield 34 (19-50) · s0und 33 (19-49) · HOLY 32 (18-47) · Nexius 31 (18-46) · fNk 30 (17-45)  
 
