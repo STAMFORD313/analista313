@@ -1,5 +1,5 @@
 {
- "fecha": "2026-11-15 09:48",
+ "fecha": "2026-11-15 22:05",
  "bo3": {
   "1": {
    "próximos": 20,
@@ -26,11 +26,11 @@
      "Spike Series 2026: Convergence EMEA - DACH"
     ],
     [
-     "lootlake-city-vs-backed-by-nobody-15-11-2026",
+     "lootlake-city-vs-backed-by-nobody-21-11-2026",
      "Spike Series 2026: Convergence EMEA - DACH"
     ],
     [
-     "brest-esport-vs-gesichtenhausen-15-11-2026",
+     "brest-esport-vs-gesichtenhausen-19-11-2026",
      "Spike Series 2026: Convergence EMEA - DACH"
     ]
    ]
@@ -56,16 +56,16 @@
    "próximos": 20,
    "ejemplo": [
     [
-     "team-synapse-vs-cyberhero-15-11-2026",
-     "Asgard Championship Season 2"
+     "froglings-vs-inner-circle-16-11-2026",
+     "DreamLeague Division 2 Series 5"
     ],
     [
-     "team-synapse-vs-interactive-philippines-15-11-2026",
-     "Asgard Championship Season 2"
+     "zero-tenacity-dota-vs-playtime-16-11-2026",
+     "DreamLeague Division 2 Series 5"
     ],
     [
-     "xipto-esports-dota2-vs-angry-birds-15-11-2026",
-     "Asgard Championship Season 2"
+     "puckchamp-vs-nemiga-gaming-17-11-2026",
+     "DreamLeague Division 2 Series 5"
     ]
    ]
   },
@@ -121,17 +121,11 @@
  },
  "kambi_esports": {
   "Esports / CS2 / PGL Major": 8,
-  "Esports / CS2 / PGL Cluj-Napoca": 4,
-  "Esports / Dota 2 / 1w Essence": 4,
   "Esports / CS2 / STK Ranked": 3,
-  "Esports / CS2 / CCT European Series 14": 2,
+  "Esports / CS2 / United21": 2,
   "Esports / CS2 / RUSH:Brno": 2,
-  "Esports / CS2 / BLAST Rivals Fall": 1,
+  "Esports / Dota 2 / 1w Essence": 1,
   "Esports / Dota 2 / DreamLeague Div. 2": 1,
-  "Esports / Dota 2 / Esports Pro Circuit": 1,
-  "Esports / CS2 / NODWIN Clutch Series": 1,
-  "Esports / CS2 / CCT European Series 13": 1,
-  "Esports / CS2 / Svenska Cupen": 1,
-  "Esports / CS2 / CCT South America Series": 1
+  "Esports / CS2 / PGL Cluj-Napoca": 1
  }
 }
