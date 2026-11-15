@@ -73,7 +73,6 @@ id,date,event,home,away,hs,as,res
 401858526,2026-11-14T02:00Z,Illinois Fighting Illini at UCLA Bruins,UCLA Bruins,Illinois Fighting Illini,22,14,1.0
 401856860,2026-11-14T03:15Z,Houston Cougars at Colorado Buffaloes,Colorado Buffaloes,Houston Cougars,42,32,1.0
 401858293,2026-11-14T00:00Z,Florida State Seminoles at Pittsburgh Panthers,Pittsburgh Panthers,Florida State Seminoles,10,16,0.0
-401871099,2026-11-14T22:00Z,Southern Miss Golden Eagles at Louisiana Tech Bulldogs,Louisiana Tech Bulldogs,Southern Miss Golden Eagles,63,31,1.0
 401856883,2026-11-14T20:30Z,Missouri Tigers at Georgia Bulldogs,Georgia Bulldogs,Missouri Tigers,48,21,1.0
 401856889,2026-11-14T17:45Z,Alabama Crimson Tide at Vanderbilt Commodores,Vanderbilt Commodores,Alabama Crimson Tide,6,21,0.0
 401858294,2026-11-14T20:30Z,Boston College Eagles at Notre Dame Fighting Irish,Notre Dame Fighting Irish,Boston College Eagles,41,7,1.0
@@ -105,3 +104,7 @@ id,date,event,home,away,hs,as,res
 401860916,2026-11-14T21:00Z,Fresno State Bulldogs at Texas State Bobcats,Texas State Bobcats,Fresno State Bulldogs,37,35,1.0
 401856886,2026-11-14T21:15Z,Auburn Tigers at Mississippi State Bulldogs,Mississippi State Bulldogs,Auburn Tigers,9,41,0.0
 401862828,2026-11-14T21:30Z,Tulane Green Wave at Rice Owls,Rice Owls,Tulane Green Wave,17,20,0.0
+401871099,2026-11-14T22:00Z,Southern Miss Golden Eagles at Louisiana Tech Bulldogs,Louisiana Tech Bulldogs,Southern Miss Golden Eagles,63,31,1.0
+401856857,2026-11-14T22:30Z,Arizona State Sun Devils at UCF Knights,UCF Knights,Arizona State Sun Devils,13,26,0.0
+401858521,2026-11-14T22:30Z,Washington Huskies at Michigan State Spartans,Michigan State Spartans,Washington Huskies,14,21,0.0
+401869928,2026-11-14T23:00Z,App State Mountaineers at Marshall Thundering Herd,Marshall Thundering Herd,App State Mountaineers,16,20,0.0

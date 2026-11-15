@@ -1,50 +1,6 @@
 # 🏈 NFL·NCAA · apuestas de valor
 
-Actualizado 15/11/2026 02:49 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## UTSA Roadrunners vs North Texas Mean Green — 15/11 · 03:00
-
-👀 candidata · 🏈 NCAA Football · **Más de 75.5 puntos** @ **1.87** (DraftKings) · prob 51% vs casas 51% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 totales» sin pérdidas demostradas
-
-📊 **Escenarios**: total esperado **81.9** puntos · línea 75.5  
-Más 51% · Menos 49%  
-🔎 **Claves**  
-• Forma: UTSA Roadrunners ✅✅✅✅❌ | North Texas Mean Green ✅✅✅✅✅  
-• H2H: 9 desde 2018: 5-4  
-• Bajas: UTSA Roadrunners: sin bajas; North Texas Mean Green: sin bajas  
-
-## UTSA Roadrunners vs North Texas Mean Green — 15/11 · 03:00
-
-👀 candidata · 🏈 NCAA Football · **UTSA Roadrunners +2.5** @ **1.87** (DraftKings) · prob 51% vs casas 51% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 hándicap» sin pérdidas demostradas
-
-📊 **Escenarios**: UTSA Roadrunners cubre +2.5 con prob. 51% (casas 51%)  
-🔎 **Claves**  
-• Forma: UTSA Roadrunners ✅✅✅✅❌ | North Texas Mean Green ✅✅✅✅✅  
-• H2H: 9 desde 2018: 5-4  
-• Bajas: UTSA Roadrunners: sin bajas; North Texas Mean Green: sin bajas  
-
-## UTSA Roadrunners vs North Texas Mean Green — 15/11 · 03:00
-
-👀 candidata · 🏈 NCAA Football · **Gana UTSA Roadrunners** @ **2.05** (DraftKings) · prob 47% vs casas 47% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo con 9.521 partidos y bajas)  
-Gana UTSA Roadrunners 49% · Gana North Texas Mean Green 51%  
-Casas: UTSA Roadrunners 47% · North Texas Mean Green 53%  
-Hándicap UNT -2.5 · Total puntos 75.5  
-🔎 **Claves**  
-• Forma: UTSA Roadrunners ✅✅✅✅❌ | North Texas Mean Green ✅✅✅✅✅  
-• H2H: 9 desde 2018: 5-4  
-• Bajas: UTSA Roadrunners: sin bajas; North Texas Mean Green: sin bajas  
-• Favorito de las casas: North Texas Mean Green @ 1.80  
+Actualizado 15/11/2026 03:27 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Oklahoma State Cowboys vs Texas Tech Red Raiders — 15/11 · 03:30
 
