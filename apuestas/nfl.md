@@ -1,6 +1,6 @@
 # 🏈 NFL·NCAA · apuestas de valor
 
-Actualizado 15/11/2026 16:55 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 15/11/2026 17:24 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Atlanta Falcons vs Kansas City Chiefs — 15/11 · 19:00
 

@@ -1,63 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 15/11/2026 16:55 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## OLDBOYS PL vs Fire Flux — 15/11 · 17:00
-
-👀 candidata · 🎮 CS2 · ESEA Season 59: Advanced Division - Europe · **Gana OLDBOYS PL** @ **1.75** (Thunderpick) · prob 56% vs casas 53% · ventaja -3%
-
-- ❌ Valor: ventaja -3% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 76.826 partidos)  
-Mapa: OLDBOYS PL 59% · Serie BO1: OLDBOYS PL 59% - 41% Fire Flux  
-Casas: OLDBOYS PL 53% · Fire Flux 47%  
-🔎 **Claves**  
-• Elo: OLDBOYS PL 1731 (84 series) | Fire Flux 1672 (339 series)  
-• Forma: OLDBOYS PL ✅✅✅✅❌ | Fire Flux ✅❌❌✅✅  
-• H2H: sin precedentes  
-• Torneo: ESEA Season 59: Advanced Division - Europe (nivel C)  
-• Cambios de plantilla: ninguno  
-
-## Voca vs Iowa Stormboar — 15/11 · 17:15
-
-👀 candidata · 🎮 CS2 · Austin LAN 2026 · **Gana Voca** @ **1.20** (Thunderpick) · prob 81% vs casas 77% · ventaja -3%
-
-- ❌ Valor: ventaja -3% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 76.877 partidos)  
-Mapa: Voca 75% · Serie BO3: Voca 85% - 15% Iowa Stormboar  
-Casas: Voca 77% · Iowa Stormboar 23%  
-🔎 **Claves**  
-• Elo: Voca 1772 (110 series) | Iowa Stormboar 1471 (32 series)  
-• Forma: Voca ✅✅✅✅✅ | Iowa Stormboar ❌✅❌❌✅  
-• H2H: sin precedentes  
-• Torneo: Austin LAN 2026 (nivel C)  
-• Cambios de plantilla: ninguno  
-🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
-• Voca gana 2-1: 21% → cuota justa 4.80 · casa 22%  
-• Iowa Stormboar gana 2-1: 7% → cuota justa 14.79 · casa 11%  
-
-## LAG vs DETONATE — 15/11 · 17:15
-
-👀 candidata · 🎮 CS2 · Austin LAN 2026 · **Gana LAG** @ **1.20** (Thunderpick) · prob 79% vs casas 77% · ventaja -5%
-
-- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 76.877 partidos)  
-Mapa: LAG 72% · Serie BO3: LAG 81% - 19% DETONATE  
-Casas: LAG 77% · DETONATE 23%  
-🔎 **Claves**  
-• Elo: LAG 1732 (250 series) | DETONATE 1474 (141 series)  
-• Forma: LAG ✅❌✅✅✅ | DETONATE ✅❌❌✅❌  
-• H2H: 5: 4-1  
-• Torneo: Austin LAN 2026 (nivel C)  
-• Cambios de plantilla: ninguno  
-🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
-• LAG gana 2-1: 23% → cuota justa 4.44 · casa 26%  
-• DETONATE gana 2-1: 9% → cuota justa 11.66 · casa 11%  
+Actualizado 15/11/2026 17:24 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## eSuba vs Revise — 15/11 · 19:00
 
@@ -78,6 +21,58 @@ Casas: eSuba 46% · Revise 54%
 🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
 • eSuba gana 2-1: 20% → cuota justa 5.02  
 • Revise gana 2-1: 24% → cuota justa 4.23  
+
+## PARIVISION vs 100 Thieves — 15/11 · 19:00
+
+👀 candidata · 🎮 CS2 · PGL Cluj-Napoca 2027: Closed Qualifier · **Gana PARIVISION** @ **1.75** (Thunderpick) · prob 53% vs casas 53% · ventaja -8%
+
+- ❌ Valor: ventaja -8% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 76.880 partidos)  
+Mapa: PARIVISION 49% · Serie BO3: PARIVISION 53% - 47% 100 Thieves  
+Casas: PARIVISION 53% · 100 Thieves 47%  
+🔎 **Claves**  
+• Elo: PARIVISION 1970 (322 series) | 100 Thieves 1979 (97 series)  
+• Forma: PARIVISION ✅✅❌❌✅ | 100 Thieves ✅✅✅✅✅  
+• H2H: 1: 1-0  
+• Torneo: PGL Cluj-Napoca 2027: Closed Qualifier (nivel B)  
+• Cambios de plantilla: ninguno  
+• Jugadores en forma (rating últimos 10 mapas): PARIVISION: Jame 6.3, FL1T 6.1 | 100 Thieves: poiii 7.2, dev1ce 7.0  
+• Mapas (último año): PARIVISION: fuerte ancient 65%, débil cache 33% | 100 Thieves: fuerte dust2 83%, débil anubis 47%  
+• Química de la plantilla: PARIVISION: 113 mapas juntos de media | 100 Thieves: 126 mapas juntos de media  
+🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
+• PARIVISION gana 2-1: 22% → cuota justa 4.62 · casa 24%  
+• 100 Thieves gana 2-1: 22% → cuota justa 4.46 · casa 23%  
+🔫 **Kills esperados en la serie** (rango 80 %; mejor que la media de sus 10 últimas en 52.570 casos: log-loss 0.6819→0.6556; sin cuotas de props, solo referencia)  
+PARIVISION: xiELO 34 (20-51) · Jame 34 (20-50) · HObbit 34 (19-50) · zweih 33 (19-48) · FL1T 32 (18-48)  
+100 Thieves: poiii 37 (21-54) · dev1ce 36 (21-53) · sirah 35 (20-51) · rain 33 (19-49) · Gizmy 31 (18-46)  
+
+## 33 vs Eternal Fire — 15/11 · 19:00
+
+👀 candidata · 🎮 CS2 · PGL Cluj-Napoca 2027: Closed Qualifier · **Gana 33** @ **3.50** (Thunderpick) · prob 27% vs casas 26% · ventaja -7%
+
+- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮 no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 76.880 partidos)  
+Mapa: 33 34% · Serie BO3: 33 27% - 73% Eternal Fire  
+Casas: 33 26% · Eternal Fire 74%  
+🔎 **Claves**  
+• Elo: 33 1764 (192 series) | Eternal Fire 1938 (454 series)  
+• Forma: 33 ❌✅✅✅❌ | Eternal Fire ✅✅✅✅❌  
+• H2H: 3: 3-0  
+• Torneo: PGL Cluj-Napoca 2027: Closed Qualifier (nivel B)  
+• Cambios de plantilla: 33, Eternal Fire  
+• Jugadores en forma (rating últimos 10 mapas): 33: executor 6.3, Z1Nny 6.2 | Eternal Fire: Kvem 6.7, regali 6.5  
+• Mapas (último año): 33: fuerte nuke 72%, débil dust2 34% | Eternal Fire: fuerte ancient 68%, débil mirage 41%  
+• Química de la plantilla: 33: 97 mapas juntos de media | Eternal Fire: 109 mapas juntos de media  
+🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
+• 33 gana 2-1: 13% → cuota justa 7.77 · casa 13%  
+• Eternal Fire gana 2-1: 25% → cuota justa 4.05 · casa 26%  
+🔫 **Kills esperados en la serie** (rango 80 %; mejor que la media de sus 10 últimas en 52.570 casos: log-loss 0.6819→0.6556; sin cuotas de props, solo referencia)  
+33: Z1Nny 33 (19-49) · executor 33 (19-49) · shg 33 (19-48) · Raijin 33 (19-48) · bluewh1te 31 (18-46)  
+Eternal Fire: jottAAA 37 (22-55) · Kvem 37 (22-55) · regali 36 (21-53) · soulfly 35 (20-51) · MisteM 31 (18-46)  
 
 ## Gelo vs Rcave — 15/11 · 20:00
 
