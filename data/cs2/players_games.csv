@@ -34819,3 +34819,9 @@ game_id,match_id,slug,date,tier,bo,tournament_id,tournament,t1_id,t2_id,team1,te
 193354,133852,tpudcatb-tpu-vs-genone-14-11-2026,2026-11-14T19:00:00.000+00:00,b,3,6240,NODWIN Clutch Series 14,22191,1406,33,GenOne,2,de_inferno,22191,13.0,9.0
 193355,133852,tpudcatb-tpu-vs-genone-14-11-2026,2026-11-14T19:00:00.000+00:00,b,3,6240,NODWIN Clutch Series 14,22191,1406,33,GenOne,1,de_nuke,22191,13.0,2.0
 192371,133205,galorys-cs-vs-low-cortisol-br-14-11-2026,2026-11-14T22:10:00.000+00:00,b,3,5624,CCT South America 2026 Series 8,10049,25343,Galorys,Low Cortisol BR,1,de_ancient,10049,13.0,7.0
+191073,132600,spirit-vs-furia-15-11-2026,2026-11-15T08:00:00.000+00:00,s,5,4224,BLAST Rivals Fall 2026,654,648,Spirit,FURIA,3,de_mirage,648,13.0,8.0
+191074,132600,spirit-vs-furia-15-11-2026,2026-11-15T08:00:00.000+00:00,s,5,4224,BLAST Rivals Fall 2026,654,648,Spirit,FURIA,2,de_dust2,648,13.0,5.0
+191075,132600,spirit-vs-furia-15-11-2026,2026-11-15T08:00:00.000+00:00,s,5,4224,BLAST Rivals Fall 2026,654,648,Spirit,FURIA,1,de_ancient,648,13.0,11.0
+192520,133255,virtus-pro-vs-hype-tech-15-11-2026,2026-11-15T09:00:00.000+00:00,b,3,5628,CCT Europe 2026 Series 13,720,25790,Virtus.pro,Hype Tech,2,de_dust2,720,13.0,9.0
+192521,133255,virtus-pro-vs-hype-tech-15-11-2026,2026-11-15T09:00:00.000+00:00,b,3,5628,CCT Europe 2026 Series 13,720,25790,Virtus.pro,Hype Tech,1,de_cache,720,13.0,6.0
+193358,133853,ex-rustec-vs-drama-esports-15-11-2026,2026-11-15T09:00:00.000+00:00,b,3,6240,NODWIN Clutch Series 14,24857,22812,ex-RUSTEC,Drama,1,de_ancient,24857,16.0,14.0
