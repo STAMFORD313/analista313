@@ -73,11 +73,10 @@ id,date,event,home,away,hs,as,res
 401858526,2026-11-14T02:00Z,Illinois Fighting Illini at UCLA Bruins,UCLA Bruins,Illinois Fighting Illini,22,14,1.0
 401856860,2026-11-14T03:15Z,Houston Cougars at Colorado Buffaloes,Colorado Buffaloes,Houston Cougars,42,32,1.0
 401858293,2026-11-14T00:00Z,Florida State Seminoles at Pittsburgh Panthers,Pittsburgh Panthers,Florida State Seminoles,10,16,0.0
-401856885,2026-11-15T00:30Z,Texas Longhorns at LSU Tigers,LSU Tigers,Texas Longhorns,21,22,0.0
-401856882,2026-11-15T00:45Z,South Carolina Gamecocks at Arkansas Razorbacks,Arkansas Razorbacks,South Carolina Gamecocks,34,6,1.0
 401856883,2026-11-14T20:30Z,Missouri Tigers at Georgia Bulldogs,Georgia Bulldogs,Missouri Tigers,48,21,1.0
 401856889,2026-11-14T17:45Z,Alabama Crimson Tide at Vanderbilt Commodores,Vanderbilt Commodores,Alabama Crimson Tide,6,21,0.0
 401858294,2026-11-14T20:30Z,Boston College Eagles at Notre Dame Fighting Irish,Notre Dame Fighting Irish,Boston College Eagles,41,7,1.0
+401856885,2026-11-15T00:30Z,Texas Longhorns at LSU Tigers,LSU Tigers,Texas Longhorns,21,22,0.0
 401858296,2026-11-14T17:00Z,Duke Blue Devils at Miami Hurricanes,Miami Hurricanes,Duke Blue Devils,36,25,1.0
 401856888,2026-11-14T20:00Z,Tennessee Volunteers at Texas A&M Aggies,Texas A&M Aggies,Tennessee Volunteers,7,22,0.0
 401858518,2026-11-14T20:30Z,USC Trojans at Indiana Hoosiers,Indiana Hoosiers,USC Trojans,27,13,1.0
@@ -86,6 +85,7 @@ id,date,event,home,away,hs,as,res
 401858301,2026-11-14T17:00Z,Wake Forest Demon Deacons at SMU Mustangs,SMU Mustangs,Wake Forest Demon Deacons,7,49,0.0
 401858519,2026-11-15T00:30Z,Purdue Boilermakers at Iowa Hawkeyes,Iowa Hawkeyes,Purdue Boilermakers,28,7,1.0
 401858523,2026-11-14T20:30Z,Michigan Wolverines at Oregon Ducks,Oregon Ducks,Michigan Wolverines,31,7,1.0
+401856882,2026-11-15T00:45Z,South Carolina Gamecocks at Arkansas Razorbacks,Arkansas Razorbacks,South Carolina Gamecocks,34,6,1.0
 401858522,2026-11-14T17:00Z,Northwestern Wildcats at Ohio State Buckeyes,Ohio State Buckeyes,Northwestern Wildcats,28,19,1.0
 401860914,2026-11-14T23:00Z,Oregon State Beavers at Boise State Broncos,Boise State Broncos,Oregon State Beavers,46,41,1.0
 401856859,2026-11-14T17:00Z,Cincinnati Bearcats at Iowa State Cyclones,Iowa State Cyclones,Cincinnati Bearcats,41,13,1.0
