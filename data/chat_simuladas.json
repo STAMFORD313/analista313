@@ -2767,7 +2767,10 @@
     "away": "New Jersey Devils",
     "txt": "Gana Washington Capitals",
     "odds": 2.14,
-    "p": 0.5000499999999999
+    "p": 0.5000499999999999,
+    "ok": false,
+    "por": "ganó New Jersey Devils 7-4",
+    "clv": -0.051
    },
    {
     "code": null,
@@ -2791,9 +2794,9 @@
   "odds": 11.07,
   "p": 0.10658322725699995,
   "stake": 1.0,
-  "estado": "pendiente",
-  "avisada": false,
-  "rev": 1
+  "estado": "perdida",
+  "avisada": true,
+  "rev": 2
  },
  {
   "id": "20261115000001122581",
