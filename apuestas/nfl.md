@@ -1,6 +1,6 @@
 # 🏈 NFL·NCAA · apuestas de valor
 
-Actualizado 15/11/2026 02:18 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 15/11/2026 02:49 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## UTSA Roadrunners vs North Texas Mean Green — 15/11 · 03:00
 

@@ -1,43 +1,44 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 15/11/2026 02:18 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 15/11/2026 02:49 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## ssstasonn vs Nightxx — 15/11 · 02:27
+## Simaponika vs ssstasonn — 15/11 · 02:51
 
-👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana Nightxx** @ **1.29** (cuota justa (sin casa)) · prob 77% vs casas 77% · ventaja +0%
+👀 candidata · 🎮⚽ FC 27 · Champions League B · **Empate** @ **6.75** (Unibet) · prob 16% vs casas 13% · ventaja +6%
 
-- ❌ Valor: ventaja +0% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 68.391 partidos)  
-Goles esperados: ssstasonn 2.52 · Nightxx 4.59  
-Ganador: ssstasonn 11% · empate 12% · Nightxx 77%  
-Total: más de 7.5 goles 42% · menos 58%  
-Hándicap Nightxx: −1.5 58% · −2.5 43%  
-🔎 **Claves**  
-• Forma: ssstasonn ❌✅➖❌✅ | Nightxx ➖❌❌❌❌  
-• Partidos: ssstasonn 1077 | Nightxx 960  
-• Liga: Champions League B  
-• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
-
-## Simaponika vs believer — 15/11 · 02:27
-
-👀 candidata · 🎮⚽ FC 27 · Champions League B · **Empate** @ **6.00** (Unibet) · prob 18% vs casas 14% · ventaja +8%
-
-- ❌ Valor: ventaja +8% (mín. 10% con la incertidumbre, máx. 30%)
+- ❌ Valor: ventaja +6% (mín. 10% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 68.411 partidos)  
-Goles esperados: Simaponika 2.01 · believer 3.17  
-Ganador: Simaponika 19% · empate 18% · believer 63%  
-Total: más de 5.5 goles 42% · menos 58%  
-Hándicap believer: −1.5 43% · −2.5 27%  
+📊 **Escenarios** (Poisson por jugador, 68.424 partidos)  
+Goles esperados: Simaponika 3.58 · ssstasonn 2.12  
+Ganador: Simaponika 69% · empate 16% · ssstasonn 16%  
+Total: más de 5.5 goles 50% · menos 50%  
+Hándicap Simaponika: −1.5 49% · −2.5 32%  
 🔎 **Claves**  
-• Forma: Simaponika ❌✅➖✅✅ | believer ✅✅➖✅❌  
-• Partidos: Simaponika 1224 | believer 1157  
+• Forma: Simaponika ➖✅✅❌➖ | ssstasonn ✅❌❌❌❌  
+• Partidos: Simaponika 1226 | ssstasonn 1081  
 • Liga: Champions League B  
-• Unibet: 1 3.90 · X 6.00 · 2 1.37 (sin margen 22%/14%/63%) · ventaja +8%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 6.00 (+8%) · Paf España 6.00 (+8%)  
+• Unibet: 1 1.27 · X 6.75 · 2 4.60 (sin margen 68%/13%/19%) · ventaja +6%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 6.75 (+6%) · Paf España 6.75 (+6%)  
+
+## KravaRK vs curuza — 15/11 · 02:52
+
+👀 candidata · 🎮⚽ FC 27 · Champions League A · **Gana curuza** @ **2.32** (Unibet) · prob 51% vs casas 38% · ventaja +18%
+
+- ✅ Valor: ventaja +18% (mín. 13% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 68.424 partidos)  
+Goles esperados: KravaRK 2.65 · curuza 3.13  
+Ganador: KravaRK 30% · empate 19% · curuza 51%  
+Total: más de 5.5 goles 52% · menos 48%  
+Hándicap curuza: −1.5 33% · −2.5 19%  
+🔎 **Claves**  
+• Forma: KravaRK ❌❌✅❌➖ | curuza ✅❌✅❌➖  
+• Partidos: KravaRK 436 | curuza 873  
+• Liga: Champions League A  
+• Unibet: 1 2.04 · X 4.40 · 2 2.32 (sin margen 43%/20%/38%) · ventaja +18%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.32 (+18%) · Paf España 2.32 (+18%)  
 
 ## ssstasonn vs Grellz — 15/11 · 03:03
 
