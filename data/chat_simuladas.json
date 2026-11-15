@@ -2794,5 +2794,47 @@
   "estado": "pendiente",
   "avisada": false,
   "rev": 1
+ },
+ {
+  "id": "20261115000001122581",
+  "creada": "2026-11-15 00:00:01.122630+00:00",
+  "titulo": "Barrido · Combinada cuota 11.6",
+  "legs": [
+   {
+    "code": null,
+    "start": "2026-11-15 11:00:00+00:00",
+    "home": "Pobla de Mafumet",
+    "away": "UE San Juan Atletico de Montcada",
+    "txt": "Gana Pobla de Mafumet",
+    "odds": 2.02,
+    "p": 0.5094
+   },
+   {
+    "code": null,
+    "start": "2026-11-15 16:00:00+00:00",
+    "home": "Ontinyent",
+    "away": "Atzeneta",
+    "txt": "Gana Ontinyent",
+    "odds": 2.12,
+    "p": 0.4847
+   },
+   {
+    "src": "esports:cs2",
+    "side": "A",
+    "code": null,
+    "start": "2026-11-15 23:45:00+00:00",
+    "home": "BORRACHEIROS",
+    "away": "Mira",
+    "txt": "Gana Mira",
+    "odds": 2.7,
+    "p": 0.44731358024691353
+   }
+  ],
+  "odds": 11.56,
+  "p": 0.11044448736088887,
+  "stake": 1.0,
+  "estado": "pendiente",
+  "avisada": false,
+  "rev": 1
  }
 ]
