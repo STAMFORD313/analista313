@@ -68588,18 +68588,18 @@ id,tournament_id,club1,club2,ht1,ht2
 2379458,261980,Arsenal,B Dortmund,,
 2381990,261980,Man City,Arsenal,,
 2379460,261980,Sporting CP,Juventus,,
-2379221,261969,Bologna,Napoli,1,0
-2379222,261969,Sassuolo,Juventus,2,0
-2379223,261969,Juventus,Bologna,1,0
-2379224,261969,Napoli,Roma,0,3
-2379225,261969,Roma,Juventus,2,3
-2379226,261969,Bologna,Sassuolo,2,1
-2379227,261969,Sassuolo,Roma,2,3
-2379228,261969,Juventus,Napoli,2,0
-2379229,261969,Napoli,Sassuolo,3,1
-2379230,261969,Roma,Bologna,0,1
-2379231,261969,Napoli,Bologna,1,2
-2379232,261969,Juventus,Sassuolo,2,2
+2379221,261969,Bologna,Napoli,1.0,0.0
+2379222,261969,Sassuolo,Juventus,2.0,0.0
+2379223,261969,Juventus,Bologna,1.0,0.0
+2379224,261969,Napoli,Roma,0.0,3.0
+2379225,261969,Roma,Juventus,2.0,3.0
+2379226,261969,Bologna,Sassuolo,2.0,1.0
+2379227,261969,Sassuolo,Roma,2.0,3.0
+2379228,261969,Juventus,Napoli,2.0,0.0
+2379229,261969,Napoli,Sassuolo,3.0,1.0
+2379230,261969,Roma,Bologna,0.0,1.0
+2379231,261969,Napoli,Bologna,1.0,2.0
+2379232,261969,Juventus,Sassuolo,2.0,2.0
 2379233,261969,Bologna,Juventus,,
 2379234,261969,Roma,Napoli,,
 2379235,261969,Juventus,Roma,,
