@@ -34856,4 +34856,9 @@ game_id,match_id,slug,date,tier,bo,tournament_id,tournament,t1_id,t2_id,team1,te
 193251,133773,magic-ru-vs-fnatic-15-11-2026,2026-11-15T16:00:00.000+00:00,b,3,6251,PGL Cluj-Napoca 2027: Closed Qualifier,786,22218,fnatic,magic,1,de_inferno,786,13.0,6.0
 193247,133772,heroic-vs-faze-15-11-2026,2026-11-15T16:15:00.000+00:00,b,3,6251,PGL Cluj-Napoca 2027: Closed Qualifier,791,759,FaZe,HEROIC,2,de_ancient,759,13.0,8.0
 193248,133772,heroic-vs-faze-15-11-2026,2026-11-15T16:15:00.000+00:00,b,3,6251,PGL Cluj-Napoca 2027: Closed Qualifier,791,759,FaZe,HEROIC,1,de_mirage,759,16.0,13.0
+192384,133210,ex-yawara-vs-barca-br-15-11-2026,2026-11-15T18:00:00.000+00:00,b,3,5624,CCT South America 2026 Series 8,25652,25580,ex-Yawara,BARCA,3,de_ancient,25580,13.0,5.0
+192385,133210,ex-yawara-vs-barca-br-15-11-2026,2026-11-15T18:00:00.000+00:00,b,3,5624,CCT South America 2026 Series 8,25652,25580,ex-Yawara,BARCA,2,de_cache,25580,13.0,10.0
+192386,133210,ex-yawara-vs-barca-br-15-11-2026,2026-11-15T18:00:00.000+00:00,b,3,5624,CCT South America 2026 Series 8,25652,25580,ex-Yawara,BARCA,1,de_dust2,25652,13.0,8.0
+193351,133851,team-aces-vs-illyrians-15-11-2026,2026-11-15T18:20:00.000+00:00,b,3,6240,NODWIN Clutch Series 14,25564,3022,Aces,Illyrians,2,de_dust2,25564,13.0,11.0
+193352,133851,team-aces-vs-illyrians-15-11-2026,2026-11-15T18:20:00.000+00:00,b,3,6240,NODWIN Clutch Series 14,25564,3022,Aces,Illyrians,1,de_cache,25564,19.0,17.0
 193245,133771,tpudcatb-tpu-vs-eternal-fire-15-11-2026,2026-11-15T18:45:00.000+00:00,b,3,6251,PGL Cluj-Napoca 2027: Closed Qualifier,22191,1527,33,Eternal Fire,1,de_inferno,1527,13.0,9.0

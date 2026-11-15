@@ -422,4 +422,5 @@ fecha,partido,tipo,piernas,p,acierto,piernas_acertadas,p_piernas,cuota,ventaja,s
 2026-11-14,Oviedo vs Girona,corta,3,0.3289,0,1,0.6858,,,0,,Menos de 4.5 tiros a puerta de Girona + Menos de 4.5 córners de Girona + Menos de 3.5 tarjetas de Girona,1
 2026-11-14,Oviedo vs Girona,larga,5,0.1484,0,1,0.6695,,,0,,Menos de 4.5 tiros a puerta de Girona + Menos de 4.5 córners de Girona + Menos de 3.5 tarjetas de Girona + Más de 13.5 faltas de Oviedo + Menos de 2.5 goles,100
 2026-11-14,Oviedo vs Girona,valor,2,0.4333,0,0,0.6614,2.82,0.22,1,-1.0,Menos de 4.5 córners de Girona + Menos de 2.5 goles,0
-2026-11-15,Detroit Lions vs New England Patriots,nfl,2,0.2299,0,1,0.4695,4.22,-0.031,0,,Gana New England Patriots + Menos de 51.5 puntos,01
+2026-11-15,Detroit Lions vs New England Patriots,nfl,2,0.2299,0,1,0.4695,4.22,-0.031,0,,Gana New England Patriots + Menos de 51.5 puntos,1
+2026-11-15,Green Bay Packers vs Minnesota Vikings,nfl,2,0.2216,1,2,0.4585,4.37,-0.031,0,,Gana Minnesota Vikings + Menos de 41.5 puntos,11
