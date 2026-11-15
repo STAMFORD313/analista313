@@ -1,26 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 15/11/2026 15:53 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## ex-Sashi Academy vs Ducks — 15/11 · 16:00
-
-👀 candidata · 🎮 CS2 · Fiesta Series 4: Closed Qualifier · **Gana ex-Sashi Academy** @ **2.80** (Thunderpick) · prob 39% vs casas 33% · ventaja +10%
-
-- ✅ Valor: ventaja +10% (mín. 9% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 76.859 partidos)  
-Mapa: ex-Sashi Academy 47% · Serie BO3: ex-Sashi Academy 46% - 54% Ducks  
-Casas: ex-Sashi Academy 33% · Ducks 67%  
-🔎 **Claves**  
-• Elo: ex-Sashi Academy 1512 (10 series) | Ducks 1544 (10 series)  
-• Forma: ex-Sashi Academy ❌✅❌✅❌ | Ducks ✅✅❌❌✅  
-• H2H: 1: 1-0  
-• Torneo: Fiesta Series 4: Closed Qualifier (nivel C)  
-• Cambios de plantilla: ninguno  
-🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
-• ex-Sashi Academy gana 2-1: 21% → cuota justa 4.85  
-• Ducks gana 2-1: 23% → cuota justa 4.31  
+Actualizado 15/11/2026 16:25 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## OLDBOYS PL vs Fire Flux — 15/11 · 17:00
 
@@ -38,6 +18,46 @@ Casas: OLDBOYS PL 53% · Fire Flux 47%
 • H2H: sin precedentes  
 • Torneo: ESEA Season 59: Advanced Division - Europe (nivel C)  
 • Cambios de plantilla: ninguno  
+
+## Voca vs Iowa Stormboar — 15/11 · 17:15
+
+👀 candidata · 🎮 CS2 · Austin LAN 2026 · **Gana Voca** @ **1.20** (Thunderpick) · prob 81% vs casas 77% · ventaja -3%
+
+- ❌ Valor: ventaja -3% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 76.877 partidos)  
+Mapa: Voca 75% · Serie BO3: Voca 85% - 15% Iowa Stormboar  
+Casas: Voca 77% · Iowa Stormboar 23%  
+🔎 **Claves**  
+• Elo: Voca 1772 (110 series) | Iowa Stormboar 1471 (32 series)  
+• Forma: Voca ✅✅✅✅✅ | Iowa Stormboar ❌✅❌❌✅  
+• H2H: sin precedentes  
+• Torneo: Austin LAN 2026 (nivel C)  
+• Cambios de plantilla: ninguno  
+🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
+• Voca gana 2-1: 21% → cuota justa 4.80 · casa 22%  
+• Iowa Stormboar gana 2-1: 7% → cuota justa 14.79 · casa 11%  
+
+## LAG vs DETONATE — 15/11 · 17:15
+
+👀 candidata · 🎮 CS2 · Austin LAN 2026 · **Gana LAG** @ **1.20** (Thunderpick) · prob 79% vs casas 77% · ventaja -5%
+
+- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 76.877 partidos)  
+Mapa: LAG 72% · Serie BO3: LAG 81% - 19% DETONATE  
+Casas: LAG 77% · DETONATE 23%  
+🔎 **Claves**  
+• Elo: LAG 1732 (250 series) | DETONATE 1474 (141 series)  
+• Forma: LAG ✅❌✅✅✅ | DETONATE ✅❌❌✅❌  
+• H2H: 5: 4-1  
+• Torneo: Austin LAN 2026 (nivel C)  
+• Cambios de plantilla: ninguno  
+🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
+• LAG gana 2-1: 23% → cuota justa 4.44 · casa 26%  
+• DETONATE gana 2-1: 9% → cuota justa 11.66 · casa 11%  
 
 ## eSuba vs Revise — 15/11 · 19:00
 
