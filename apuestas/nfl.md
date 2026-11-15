@@ -1,6 +1,6 @@
 # 🏈 NFL·NCAA · apuestas de valor
 
-Actualizado 15/11/2026 22:38 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 15/11/2026 22:53 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Cincinnati Bengals vs Pittsburgh Steelers — 16/11 · 02:20
 
