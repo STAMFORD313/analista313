@@ -1,24 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 15/11/2026 01:48 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## believer vs ssstasonn — 15/11 · 02:15
-
-👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana believer** @ **1.13** (cuota justa (sin casa)) · prob 89% vs casas 89% · ventaja +0%
-
-- ❌ Valor: ventaja +0% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 68.346 partidos)  
-Goles esperados: believer 4.77 · ssstasonn 1.70  
-Ganador: believer 89% · empate 7% · ssstasonn 4%  
-Total: más de 6.5 goles 47% · menos 53%  
-Hándicap believer: −1.5 73% · −2.5 58%  
-🔎 **Claves**  
-• Forma: believer ✅✅✅✅✅ | ssstasonn ❌❌❌❌❌  
-• Partidos: believer 1152 | ssstasonn 1073  
-• Liga: Champions League B  
-• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
+Actualizado 15/11/2026 02:18 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## ssstasonn vs Nightxx — 15/11 · 02:27
 
@@ -37,6 +19,25 @@ Hándicap Nightxx: −1.5 58% · −2.5 43%
 • Partidos: ssstasonn 1077 | Nightxx 960  
 • Liga: Champions League B  
 • Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
+
+## Simaponika vs believer — 15/11 · 02:27
+
+👀 candidata · 🎮⚽ FC 27 · Champions League B · **Empate** @ **6.00** (Unibet) · prob 18% vs casas 14% · ventaja +8%
+
+- ❌ Valor: ventaja +8% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 68.411 partidos)  
+Goles esperados: Simaponika 2.01 · believer 3.17  
+Ganador: Simaponika 19% · empate 18% · believer 63%  
+Total: más de 5.5 goles 42% · menos 58%  
+Hándicap believer: −1.5 43% · −2.5 27%  
+🔎 **Claves**  
+• Forma: Simaponika ❌✅➖✅✅ | believer ✅✅➖✅❌  
+• Partidos: Simaponika 1224 | believer 1157  
+• Liga: Champions League B  
+• Unibet: 1 3.90 · X 6.00 · 2 1.37 (sin margen 22%/14%/63%) · ventaja +8%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 6.00 (+8%) · Paf España 6.00 (+8%)  
 
 ## ssstasonn vs Grellz — 15/11 · 03:03
 
@@ -125,6 +126,42 @@ Hándicap Nightxx: −1.5 58% · −2.5 43%
 🔎 **Claves**  
 • Forma: Nightxx ➖❌❌❌❌ | ssstasonn ❌✅➖❌✅  
 • Partidos: Nightxx 960 | ssstasonn 1077  
+• Liga: Champions League B  
+• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
+
+## Yerema vs fantazer — 15/11 · 04:01
+
+👀 candidata · 🎮⚽ FC 27 · Volta International A · **Gana fantazer** @ **1.21** (cuota justa (sin casa)) · prob 83% vs casas 83% · ventaja +0%
+
+- ❌ Valor: ventaja +0% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 68.411 partidos)  
+Goles esperados: Yerema 1.91 · fantazer 4.33  
+Ganador: Yerema 7% · empate 10% · fantazer 83%  
+Total: más de 6.5 goles 43% · menos 57%  
+Hándicap fantazer: −1.5 64% · −2.5 48%  
+🔎 **Claves**  
+• Forma: Yerema ❌❌❌❌❌ | fantazer ✅✅✅✅✅  
+• Partidos: Yerema 695 | fantazer 1719  
+• Liga: Volta International A  
+• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
+
+## Grellz vs ssstasonn — 15/11 · 04:03
+
+👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana Grellz** @ **1.18** (cuota justa (sin casa)) · prob 85% vs casas 85% · ventaja +0%
+
+- ❌ Valor: ventaja +0% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 68.411 partidos)  
+Goles esperados: Grellz 4.75 · ssstasonn 2.08  
+Ganador: Grellz 85% · empate 9% · ssstasonn 6%  
+Total: más de 6.5 goles 52% · menos 48%  
+Hándicap Grellz: −1.5 67% · −2.5 52%  
+🔎 **Claves**  
+• Forma: Grellz ➖❌❌✅✅ | ssstasonn ➖❌✅❌❌  
+• Partidos: Grellz 1192 | ssstasonn 1079  
 • Liga: Champions League B  
 • Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
 

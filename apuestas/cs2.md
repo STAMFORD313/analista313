@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 15/11/2026 01:48 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 15/11/2026 02:18 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## PRIVATE vs Betclic — 15/11 · 10:00
 
@@ -80,6 +80,26 @@ Casas: BRUTE 57% · ex-INOX 43%
 BRUTE: aidKiT 38 (22-56) · tAk 36 (21-53) · nbqq 35 (20-51) · ZEDKO 34 (19-50) · oontoma 33 (19-49)  
 ex-INOX: El1an 34 (20-50) · k1slll 33 (19-49) · m1QUSE 32 (19-48) · fin 32 (18-47) · gooddeph 29 (17-44)  
 
+## ex-Sashi Academy vs Ducks — 15/11 · 16:00
+
+👀 candidata · 🎮 CS2 · Fiesta Series 4: Closed Qualifier · **Gana ex-Sashi Academy** @ **2.80** (Thunderpick) · prob 39% vs casas 33% · ventaja +10%
+
+- ✅ Valor: ventaja +10% (mín. 9% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮 no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 76.859 partidos)  
+Mapa: ex-Sashi Academy 47% · Serie BO3: ex-Sashi Academy 46% - 54% Ducks  
+Casas: ex-Sashi Academy 33% · Ducks 67%  
+🔎 **Claves**  
+• Elo: ex-Sashi Academy 1512 (10 series) | Ducks 1544 (10 series)  
+• Forma: ex-Sashi Academy ❌✅❌✅❌ | Ducks ✅✅❌❌✅  
+• H2H: 1: 1-0  
+• Torneo: Fiesta Series 4: Closed Qualifier (nivel C)  
+• Cambios de plantilla: ninguno  
+🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
+• ex-Sashi Academy gana 2-1: 21% → cuota justa 4.85  
+• Ducks gana 2-1: 23% → cuota justa 4.31  
+
 ## OLDBOYS PL vs Fire Flux — 15/11 · 17:00
 
 👀 candidata · 🎮 CS2 · ESEA Season 59: Advanced Division - Europe · **Gana OLDBOYS PL** @ **1.75** (Thunderpick) · prob 56% vs casas 53% · ventaja -3%
@@ -93,6 +113,43 @@ Casas: OLDBOYS PL 53% · Fire Flux 47%
 🔎 **Claves**  
 • Elo: OLDBOYS PL 1731 (84 series) | Fire Flux 1672 (339 series)  
 • Forma: OLDBOYS PL ✅✅✅✅❌ | Fire Flux ✅❌❌✅✅  
+• H2H: sin precedentes  
+• Torneo: ESEA Season 59: Advanced Division - Europe (nivel C)  
+• Cambios de plantilla: ninguno  
+
+## eSuba vs Revise — 15/11 · 19:00
+
+👀 candidata · 🎮 CS2 · Fiesta Series 4: Closed Qualifier · **Gana Revise** @ **1.72** (Thunderpick) · prob 55% vs casas 54% · ventaja -5%
+
+- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 76.859 partidos)  
+Mapa: eSuba 46% · Serie BO3: eSuba 44% - 56% Revise  
+Casas: eSuba 46% · Revise 54%  
+🔎 **Claves**  
+• Elo: eSuba 1490 (94 series) | Revise 1536 (42 series)  
+• Forma: eSuba ❌❌❌✅❌ | Revise ✅❌❌❌✅  
+• H2H: 1: 1-0  
+• Torneo: Fiesta Series 4: Closed Qualifier (nivel C)  
+• Cambios de plantilla: ninguno  
+🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
+• eSuba gana 2-1: 20% → cuota justa 5.02  
+• Revise gana 2-1: 24% → cuota justa 4.23  
+
+## Gelo vs Rcave — 15/11 · 20:00
+
+👀 candidata · 🎮 CS2 · ESEA Season 59: Advanced Division - Europe · **Gana Gelo** @ **1.56** (Thunderpick) · prob 70% vs casas 59% · ventaja +10%
+
+- ✅ Valor: ventaja +10% (mín. 9% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 76.859 partidos)  
+Mapa: Gelo 82% · Serie BO1: Gelo 82% - 18% Rcave  
+Casas: Gelo 59% · Rcave 41%  
+🔎 **Claves**  
+• Elo: Gelo 1535 (7 series) | Rcave 1277 (15 series)  
+• Forma: Gelo ✅❌❌✅❌ | Rcave ❌❌✅❌❌  
 • H2H: sin precedentes  
 • Torneo: ESEA Season 59: Advanced Division - Europe (nivel C)  
 • Cambios de plantilla: ninguno  
