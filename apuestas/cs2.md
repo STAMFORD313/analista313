@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 15/11/2026 09:00 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 15/11/2026 09:30 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## PRIVATE vs Betclic — 15/11 · 10:00
 
@@ -242,6 +242,23 @@ Casas: LPH 48% · Phantom Academy 52%
 • Elo: LPH 1475 (145 series) | Phantom Academy 1589 (105 series)  
 • Forma: LPH ✅❌❌❌❌ | Phantom Academy ✅✅✅❌✅  
 • H2H: 1: 1-0  
+• Torneo: ESEA Season 59: Advanced Division - Europe (nivel C)  
+• Cambios de plantilla: ninguno  
+
+## eSuba vs OldBoys FR — 16/11 · 21:00
+
+👀 candidata · 🎮 CS2 · ESEA Season 59: Advanced Division - Europe · **Gana OldBoys FR** @ **1.75** (Thunderpick) · prob 56% vs casas 53% · ventaja -2%
+
+- ❌ Valor: ventaja -2% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 76.860 partidos)  
+Mapa: eSuba 41% · Serie BO1: eSuba 41% - 59% OldBoys FR  
+Casas: eSuba 47% · OldBoys FR 53%  
+🔎 **Claves**  
+• Elo: eSuba 1490 (94 series) | OldBoys FR 1550 (55 series)  
+• Forma: eSuba ❌❌❌✅❌ | OldBoys FR ✅❌❌❌❌  
+• H2H: sin precedentes  
 • Torneo: ESEA Season 59: Advanced Division - Europe (nivel C)  
 • Cambios de plantilla: ninguno  
 
