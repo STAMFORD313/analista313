@@ -1,24 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 15/11/2026 17:56 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## SDI vs Smetana — 15/11 · 18:02
-
-👀 candidata · 🎮⚽ FC 27 · A-League · **Gana Smetana** @ **1.20** (cuota justa (sin casa)) · prob 83% vs casas 83% · ventaja +0%
-
-- ❌ Valor: ventaja +0% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 69.168 partidos)  
-Goles esperados: SDI 2.32 · Smetana 4.95  
-Ganador: SDI 8% · empate 9% · Smetana 83%  
-Total: más de 7.5 goles 44% · menos 56%  
-Hándicap Smetana: −1.5 66% · −2.5 51%  
-🔎 **Claves**  
-• Forma: SDI ❌❌❌❌➖ | Smetana ✅✅✅➖➖  
-• Partidos: SDI 597 | Smetana 1262  
-• Liga: A-League  
-• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
+Actualizado 15/11/2026 18:15 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Smetana vs VD — 15/11 · 18:26
 
@@ -37,6 +19,44 @@ Hándicap Smetana: −1.5 57% · −2.5 41%
 • Partidos: Smetana 1264 | VD 392  
 • Liga: A-League  
 • Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
+
+## SDI vs Shinobu — 15/11 · 18:26
+
+👀 candidata · 🎮⚽ FC 27 · A-League · **Gana Shinobu** @ **2.02** (Unibet) · prob 53% vs casas 43% · ventaja +8%
+
+- ❌ Valor: ventaja +8% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 69.212 partidos)  
+Goles esperados: SDI 2.60 · Shinobu 3.05  
+Ganador: SDI 28% · empate 19% · Shinobu 53%  
+Total: más de 5.5 goles 50% · menos 50%  
+Hándicap Shinobu: −1.5 32% · −2.5 19%  
+🔎 **Claves**  
+• Forma: SDI ❌➖❌✅❌ | Shinobu ❌❌❌❌❌  
+• Partidos: SDI 600 | Shinobu 1513  
+• Liga: A-League  
+• Unibet: 1 2.23 · X 5.00 · 2 2.02 (sin margen 39%/17%/43%) · ventaja +8%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.02 (+8%) · Paf España 2.02 (+8%)  
+
+## Glumac vs llulle — 15/11 · 18:50
+
+👀 candidata · 🎮⚽ FC 27 · Super Lig · **Gana Glumac** @ **2.18** (Unibet) · prob 55% vs casas 40% · ventaja +19%
+
+- ✅ Valor: ventaja +19% (mín. 13% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 69.212 partidos)  
+Goles esperados: Glumac 3.40 · llulle 2.71  
+Ganador: Glumac 55% · empate 18% · llulle 27%  
+Total: más de 6.5 goles 41% · menos 59%  
+Hándicap Glumac: −1.5 37% · −2.5 23%  
+🔎 **Claves**  
+• Forma: Glumac ✅❌❌✅❌ | llulle ❌➖✅➖❌  
+• Partidos: Glumac 898 | llulle 1018  
+• Liga: Super Lig  
+• Unibet: 1 2.18 · X 4.10 · 2 2.25 (sin margen 40%/21%/39%) · ventaja +19%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.18 (+19%) · Paf España 2.18 (+19%)  
 
 ## Smetana vs SDI — 15/11 · 19:22
 
