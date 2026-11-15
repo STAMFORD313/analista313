@@ -1,25 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 15/11/2026 10:53 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## DaVa vs Jekunam — 15/11 · 10:58
-
-👀 candidata · 🎮⚽ FC 27 · Champions League AFC · **Gana DaVa** @ **2.02** (Unibet) · prob 57% vs casas 43% · ventaja +16%
-
-- ✅ Valor: ventaja +16% (mín. 12% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 68.820 partidos)  
-Goles esperados: DaVa 2.84 · Jekunam 1.92  
-Ganador: DaVa 58% · empate 20% · Jekunam 22%  
-Total: más de 4.5 goles 52% · menos 48%  
-Hándicap DaVa: −1.5 39% · −2.5 23%  
-🔎 **Claves**  
-• Forma: DaVa ✅➖➖✅➖ | Jekunam ➖❌➖❌✅  
-• Partidos: DaVa 1301 | Jekunam 1163  
-• Liga: Champions League AFC  
-• Unibet: 1 2.02 · X 3.05 · 2 3.05 (sin margen 43%/28%/28%) · ventaja +16%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.02 (+16%) · Paf España 2.02 (+16%)  
+Actualizado 15/11/2026 11:02 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## flamez vs TikitakaMaster — 15/11 · 11:18
 

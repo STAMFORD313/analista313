@@ -1116,9 +1116,6 @@
   "cbb|2026-11-18|California Baptist Lancers|Seattle U Redhawks",
   "cbb|2026-11-18|Gonzaga Bulldogs|Montana State Bobcats",
   "cbb|2026-11-18|Auburn Tigers|West Virginia Mountaineers",
-  "fc|2373046",
-  "fc|2372384",
-  "fc|2373380",
   "fc|2373238",
   "fc|2373050",
   "fc|2373054",
@@ -2118,7 +2115,10 @@
   "fc|2381436",
   "fc|2380784",
   "fc|2380786",
-  "fc|2381331"
+  "fc|2381331",
+  "fc|2380707",
+  "fc|2381332",
+  "fc|2380708"
  ],
  "signals": [
   {
@@ -22254,10 +22254,6 @@
    "start": "2026-11-15T10:00:00+00:00",
    "league": "💎 Valor vs Pinnacle · Poland - 3rd Liga",
    "sport": "⚽💎",
-   "info": [
-    "💎 <b>Valor contra Pinnacle</b>: Unibet paga 1.93 y el precio justo de Pinnacle es 1.74 (ventaja +11.1%)",
-    "Backtest 2015-2026 (cuota ≤ 2.5, > 3 %): ROI +11 % ± 3 %, CLV +5 %."
-   ],
    "context": "Korona Kielce II vs Moravia Morawica (Poland - 3rd Liga). Estrategia de valor: Unibet 1.93 frente a Pinnacle justo 1.74.",
    "captured": "2026-11-15T09:52",
    "version": "3c6151e",
@@ -22309,20 +22305,6 @@
    "start": "2026-11-15T09:58:00+00:00",
    "league": "🎮⚽ FC 27 · Champions League AFC",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 68.820 partidos)",
-    "Goles esperados: DaVa 2.84 · Jekunam 1.92",
-    "Ganador: DaVa 58% · empate 20% · Jekunam 22%",
-    "Total: más de 4.5 goles 52% · menos 48%",
-    "Hándicap DaVa: −1.5 39% · −2.5 23%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: DaVa ✅➖➖✅➖ | Jekunam ➖❌➖❌✅",
-    "• Partidos: DaVa 1301 | Jekunam 1163",
-    "• Liga: Champions League AFC",
-    "• Unibet: 1 2.02 · X 3.05 · 2 3.05 (sin margen 43%/28%/28%) · ventaja +16%. Sin stake hasta demostrar ROI con estas cuotas.",
-    "• En España: LeoVegas España 2.02 (+16%) · Paf España 2.02 (+16%)"
-   ],
    "context": "EA FC Esoccer Battle DaVa vs Jekunam (Champions League AFC): goles esperados 2.84-1.92, 1X2 58%/20%/22%. Sin cuotas de casa.",
    "captured": "2026-11-15T09:52",
    "version": "3c6151e",
