@@ -1,56 +1,6 @@
 # 🏈 NFL·NCAA · apuestas de valor
 
-Actualizado 15/11/2026 15:24 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Detroit Lions vs New England Patriots — 15/11 · 15:30
-
-👀 candidata · 🏈 NFL · **Más de 51.5 puntos** @ **2.00** (DraftKings) · prob 48% vs casas 48% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 totales» sin pérdidas demostradas
-
-📊 **Escenarios**: total esperado **47.4** puntos · línea 51.5  
-Más 48% · Menos 52%  
-🔎 **Claves**  
-• Forma: Detroit Lions ❌✅✅✅✅ | New England Patriots ✅✅❌✅❌  
-• H2H: 4 desde 2017: 1-3  
-• Bajas: Detroit Lions: 6 fuera, 19 duda (D.J. Reed, Kerby Joseph, Cade Mays); New England Patriots: 4 fuera, 21 duda (Ben Brown, Carlton Davis III, TreVeyon Henderson)  
-🧩 Combinada: Gana New England Patriots + Menos de 51.5 puntos → prob. 23%, cuota justa 4.35  
-🎯 No simulada (NFL): cuota DraftKings aprox. 4.22 (producto de piernas) · prob. 23% · ventaja -3%  
-
-## Detroit Lions vs New England Patriots — 15/11 · 15:30
-
-👀 candidata · 🏈 NFL · **Detroit Lions -2.5** @ **1.83** (DraftKings) · prob 52% vs casas 52% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 hándicap» sin pérdidas demostradas
-
-📊 **Escenarios**: Detroit Lions cubre -2.5 con prob. 52% (casas 52%)  
-🔎 **Claves**  
-• Forma: Detroit Lions ❌✅✅✅✅ | New England Patriots ✅✅❌✅❌  
-• H2H: 4 desde 2017: 1-3  
-• Bajas: Detroit Lions: 6 fuera, 19 duda (D.J. Reed, Kerby Joseph, Cade Mays); New England Patriots: 4 fuera, 21 duda (Ben Brown, Carlton Davis III, TreVeyon Henderson)  
-🧩 Combinada: Gana New England Patriots + Menos de 51.5 puntos → prob. 23%, cuota justa 4.35  
-🎯 No simulada (NFL): cuota DraftKings aprox. 4.22 (producto de piernas) · prob. 23% · ventaja -3%  
-
-## Detroit Lions vs New England Patriots — 15/11 · 15:30
-
-👀 candidata · 🏈 NFL · **Gana Detroit Lions** @ **1.65** (DraftKings) · prob 58% vs casas 58% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🏈 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo con 3.274 partidos y bajas)  
-Gana Detroit Lions 63% · Gana New England Patriots 37%  
-Casas: Detroit Lions 58% · New England Patriots 42%  
-Hándicap DET -2.5 · Total puntos 51.5  
-🔎 **Claves**  
-• Forma: Detroit Lions ❌✅✅✅✅ | New England Patriots ✅✅❌✅❌  
-• H2H: 4 desde 2017: 1-3  
-• Bajas: Detroit Lions: 6 fuera, 19 duda (D.J. Reed, Kerby Joseph, Cade Mays); New England Patriots: 4 fuera, 21 duda (Ben Brown, Carlton Davis III, TreVeyon Henderson)  
-• Favorito de las casas: Detroit Lions @ 1.65  
-🧩 Combinada: Gana New England Patriots + Menos de 51.5 puntos → prob. 23%, cuota justa 4.35  
-🎯 No simulada (NFL): cuota DraftKings aprox. 4.22 (producto de piernas) · prob. 23% · ventaja -3%  
+Actualizado 15/11/2026 15:53 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Atlanta Falcons vs Kansas City Chiefs — 15/11 · 19:00
 

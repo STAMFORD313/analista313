@@ -1,42 +1,61 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 15/11/2026 15:24 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 15/11/2026 15:53 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## DaVa vs Jekunam — 15/11 · 15:28
+## Bosko vs Piljar — 15/11 · 16:00
 
-👀 candidata · 🎮⚽ FC 27 · LaLiga · **Gana DaVa** @ **2.12** (Unibet) · prob 56% vs casas 41% · ventaja +20%
+👀 candidata · 🎮⚽ FC 27 · International A 2x6 · **Empate** @ **7.00** (Unibet) · prob 16% vs casas 12% · ventaja +13%
 
-- ✅ Valor: ventaja +20% (mín. 13% con la incertidumbre, máx. 30%)
+- ✅ Valor: ventaja +13% (mín. 11% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 69.086 partidos)  
+Goles esperados: Bosko 3.56 · Piljar 4.22  
+Ganador: Bosko 31% · empate 16% · Piljar 52%  
+Total: más de 7.5 goles 52% · menos 48%  
+Hándicap Piljar: −1.5 38% · −2.5 25%  
+🔎 **Claves**  
+• Forma: Bosko ➖✅❌✅✅ | Piljar ❌❌❌✅❌  
+• Partidos: Bosko 607 | Piljar 512  
+• Liga: International A 2x6  
+• Unibet: 1 2.55 · X 7.00 · 2 1.64 (sin margen 34%/12%/53%) · ventaja +13%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 7.00 (+13%) · Paf España 7.00 (+13%)  
+
+## lzrn vs Glumac — 15/11 · 16:04
+
+👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana Glumac** @ **2.20** (Unibet) · prob 56% vs casas 39% · ventaja +23%
+
+- ✅ Valor: ventaja +23% (mín. 14% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 69.056 partidos)  
-Goles esperados: DaVa 2.77 · Jekunam 1.93  
-Ganador: DaVa 56% · empate 20% · Jekunam 23%  
-Total: más de 4.5 goles 50% · menos 50%  
-Hándicap DaVa: −1.5 37% · −2.5 21%  
+📊 **Escenarios** (Poisson por jugador, 69.086 partidos)  
+Goles esperados: lzrn 3.17 · Glumac 4.04  
+Ganador: lzrn 28% · empate 16% · Glumac 56%  
+Total: más de 7.5 goles 43% · menos 57%  
+Hándicap Glumac: −1.5 40% · −2.5 27%  
 🔎 **Claves**  
-• Forma: DaVa ✅✅❌✅✅ | Jekunam ✅✅❌✅❌  
-• Partidos: DaVa 1317 | Jekunam 1179  
-• Liga: LaLiga  
-• Unibet: 1 2.12 · X 3.20 · 2 2.70 (sin margen 41%/27%/32%) · ventaja +20%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.12 (+20%) · Paf España 2.12 (+20%)  
-
-## chevare vs lzrn — 15/11 · 15:52
-
-👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana chevare** @ **2.10** (Unibet) · prob 55% vs casas 41% · ventaja +14%
-
-- ✅ Valor: ventaja +14% (mín. 12% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 69.056 partidos)  
-Goles esperados: chevare 3.79 · lzrn 3.04  
-Ganador: chevare 54% · empate 17% · lzrn 29%  
-Total: más de 6.5 goles 52% · menos 48%  
-Hándicap chevare: −1.5 38% · −2.5 24%  
-🔎 **Claves**  
-• Forma: chevare ✅➖✅❌✅ | lzrn ➖➖➖✅❌  
-• Partidos: chevare 695 | lzrn 911  
+• Forma: lzrn ➖➖➖✅❌ | Glumac ➖❌✅✅✅  
+• Partidos: lzrn 911 | Glumac 888  
 • Liga: Champions League B  
-• Unibet: 1 2.10 · X 3.70 · 2 2.48 (sin margen 41%/24%/35%) · ventaja +14%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.10 (+14%) · Paf España 2.10 (+14%)  
+• Unibet: 1 2.63 · X 3.10 · 2 2.20 (sin margen 33%/28%/39%) · ventaja +23%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.20 (+23%) · Paf España 2.20 (+23%)  
+
+## steeffant vs Bosko — 15/11 · 16:18
+
+👀 candidata · 🎮⚽ FC 27 · International A 2x6 · **Empate** @ **8.00** (Unibet) · prob 14% vs casas 11% · ventaja +13%
+
+- ✅ Valor: ventaja +13% (mín. 11% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 69.086 partidos)  
+Goles esperados: steeffant 4.87 · Bosko 3.67  
+Ganador: steeffant 62% · empate 14% · Bosko 24%  
+Total: más de 8.5 goles 48% · menos 52%  
+Hándicap steeffant: −1.5 45% · −2.5 32%  
+🔎 **Claves**  
+• Forma: steeffant ➖➖✅✅❌ | Bosko ➖✅❌✅✅  
+• Partidos: steeffant 867 | Bosko 607  
+• Liga: International A 2x6  
+• Unibet: 1 1.41 · X 8.00 · 2 3.20 (sin margen 62%/11%/27%) · ventaja +13%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 8.00 (+13%) · Paf España 8.00 (+13%)  
 
