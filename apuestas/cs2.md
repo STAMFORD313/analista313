@@ -1,26 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 16/11/2026 15:56 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## ASTRON vs Ryvex — 16/11 · 16:00
-
-👀 candidata · 🎮 CS2 · Fiesta Series 4: Closed Qualifier · **Gana ASTRON** @ **2.60** (Thunderpick) · prob 45% vs casas 36% · ventaja +18%
-
-- ✅ Valor: ventaja +18% (mín. 11% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 76.903 partidos)  
-Mapa: ASTRON 53% · Serie BO3: ASTRON 55% - 45% Ryvex  
-Casas: ASTRON 36% · Ryvex 64%  
-🔎 **Claves**  
-• Elo: ASTRON 1450 (0 series) | Ryvex 1416 (32 series)  
-• Forma: ASTRON — | Ryvex ❌✅❌✅❌  
-• H2H: sin precedentes  
-• Torneo: Fiesta Series 4: Closed Qualifier (nivel C)  
-• Cambios de plantilla: ninguno  
-🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
-• ASTRON gana 2-1: 23% → cuota justa 4.30  
-• Ryvex gana 2-1: 21% → cuota justa 4.87  
+Actualizado 16/11/2026 16:26 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## ROUNDS vs BOJONG — 16/11 · 16:30
 
@@ -169,6 +149,66 @@ Casas: DISFARÇADOS 14% · ALKA 86%
 🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
 • DISFARÇADOS gana 2-1: 25% → cuota justa 4.01  
 • ALKA gana 2-1: 15% → cuota justa 6.78  
+
+## 9z Academy vs street dogs — 16/11 · 22:00
+
+👀 candidata · 🎮 CS2 · CCT South America 2026 Challengers 4 · **Gana 9z Academy** @ **1.68** (Thunderpick) · prob 57% vs casas 55% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 76.914 partidos)  
+Mapa: 9z Academy 56% · Serie BO3: 9z Academy 59% - 41% street dogs  
+Casas: 9z Academy 55% · street dogs 45%  
+🔎 **Claves**  
+• Elo: 9z Academy 1395 (160 series) | street dogs 1327 (1 series)  
+• Forma: 9z Academy ❌❌❌❌❌ | street dogs ❌  
+• H2H: sin precedentes  
+• Torneo: CCT South America 2026 Challengers 4 (nivel C)  
+• Cambios de plantilla: ninguno  
+🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
+• 9z Academy gana 2-1: 24% → cuota justa 4.13  
+• street dogs gana 2-1: 19% → cuota justa 5.33  
+
+## Mira vs RUSH — 17/11 · 00:45
+
+👀 candidata · 🎮 CS2 · CCT South America 2026 Challengers 4 · **Gana Mira** @ **1.75** (Thunderpick) · prob 64% vs casas 53% · ventaja +12%
+
+- ✅ Valor: ventaja +12% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 76.914 partidos)  
+Mapa: Mira 67% · Serie BO3: Mira 75% - 25% RUSH  
+Casas: Mira 53% · RUSH 47%  
+🔎 **Claves**  
+• Elo: Mira 1660 (5 series) | RUSH 1469 (30 series)  
+• Forma: Mira ✅✅❌✅✅ | RUSH ✅❌✅❌❌  
+• H2H: sin precedentes  
+• Torneo: CCT South America 2026 Challengers 4 (nivel C)  
+• Cambios de plantilla: ninguno  
+🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
+• Mira gana 2-1: 24% → cuota justa 4.10  
+• RUSH gana 2-1: 12% → cuota justa 8.39  
+
+## AXORFY vs MEIA NOITE — 17/11 · 00:45
+
+👀 candidata · 🎮 CS2 · CCT South America 2026 Challengers 4 · **Gana MEIA NOITE** @ **3.20** (Thunderpick) · prob 30% vs casas 29% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮 no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 76.914 partidos)  
+Mapa: AXORFY 63% · Serie BO3: AXORFY 69% - 31% MEIA NOITE  
+Casas: AXORFY 71% · MEIA NOITE 29%  
+🔎 **Claves**  
+• Elo: AXORFY 1682 (4 series) | MEIA NOITE 1542 (47 series)  
+• Forma: AXORFY ✅✅❌✅ | MEIA NOITE ✅✅✅❌✅  
+• H2H: 1: 1-0  
+• Torneo: CCT South America 2026 Challengers 4 (nivel C)  
+• Cambios de plantilla: ninguno  
+🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
+• AXORFY gana 2-1: 25% → cuota justa 4.01  
+• MEIA NOITE gana 2-1: 15% → cuota justa 6.77  
 
 ## WBT vs ex-ENCE — 17/11 · 10:00
 
@@ -687,4 +727,84 @@ Casas: Envy 56% · Metizport 44%
 🔫 **Kills esperados en la serie** (rango 80 %; mejor que la media de sus 10 últimas en 52.570 casos: log-loss 0.6819→0.6556; sin cuotas de props, solo referencia)  
 Envy: Kursy 34 (19-50) · Maka 34 (19-50) · misutaaa 33 (19-48) · Lucky 32 (18-47) · Graviti 30 (17-45)  
 Metizport: forsyy 36 (21-54) · MaiL09 36 (21-53) · Plopski 36 (21-53) · F1KU 35 (20-51) · stanislaw 29 (16-43)  
+
+## arroba vs RED Canids Academy — 17/11 · 22:00
+
+👀 candidata · 🎮 CS2 · CCT South America 2026 Challengers 4 · **Gana RED Canids Academy** @ **1.40** (Thunderpick) · prob 76% vs casas 66% · ventaja +6%
+
+- ❌ Valor: ventaja +6% (mín. 9% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 76.914 partidos)  
+Mapa: arroba 23% · Serie BO3: arroba 14% - 86% RED Canids Academy  
+Casas: arroba 34% · RED Canids Academy 66%  
+🔎 **Claves**  
+• Elo: arroba 1310 (1 series) | RED Canids Academy 1626 (138 series)  
+• Forma: arroba ❌ | RED Canids Academy ❌❌✅❌❌  
+• H2H: sin precedentes  
+• Torneo: CCT South America 2026 Challengers 4 (nivel C)  
+• Cambios de plantilla: ninguno  
+🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
+• arroba gana 2-1: 6% → cuota justa 16.22  
+• RED Canids Academy gana 2-1: 20% → cuota justa 4.96  
+
+## QUINTESSÊNCIA vs Underworld — 17/11 · 22:00
+
+👀 candidata · 🎮 CS2 · CCT South America 2026 Challengers 4 · **Gana Underworld** @ **2.90** (Thunderpick) · prob 33% vs casas 32% · ventaja -5%
+
+- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮 no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 76.914 partidos)  
+Mapa: QUINTESSÊNCIA 61% · Serie BO3: QUINTESSÊNCIA 66% - 34% Underworld  
+Casas: QUINTESSÊNCIA 68% · Underworld 32%  
+🔎 **Claves**  
+• Elo: QUINTESSÊNCIA 1513 (70 series) | Underworld 1394 (19 series)  
+• Forma: QUINTESSÊNCIA ✅❌✅❌❌ | Underworld ❌✅❌❌❌  
+• H2H: 2: 1-1  
+• Torneo: CCT South America 2026 Challengers 4 (nivel C)  
+• Cambios de plantilla: ninguno  
+🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
+• QUINTESSÊNCIA gana 2-1: 25% → cuota justa 4.01  
+• Underworld gana 2-1: 16% → cuota justa 6.26  
+
+## ALKA vs Los Niños — 18/11 · 00:45
+
+👀 candidata · 🎮 CS2 · CCT South America 2026 Challengers 4 · **Gana Los Niños** @ **2.50** (Thunderpick) · prob 42% vs casas 37% · ventaja +4%
+
+- ❌ Valor: ventaja +4% (mín. 8% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮 no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 76.914 partidos)  
+Mapa: ALKA 53% · Serie BO3: ALKA 54% - 46% Los Niños  
+Casas: ALKA 63% · Los Niños 37%  
+🔎 **Claves**  
+• Elo: ALKA 1501 (103 series) | Los Niños 1473 (10 series)  
+• Forma: ALKA ❌✅❌✅✅ | Los Niños ✅✅❌✅✅  
+• H2H: 1: 0-1  
+• Torneo: CCT South America 2026 Challengers 4 (nivel C)  
+• Cambios de plantilla: ninguno  
+🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
+• ALKA gana 2-1: 23% → cuota justa 4.33  
+• Los Niños gana 2-1: 21% → cuota justa 4.81  
+
+## DISFARÇADOS vs paiN Academy — 18/11 · 00:45
+
+👀 candidata · 🎮 CS2 · CCT South America 2026 Challengers 4 · **Gana DISFARÇADOS** @ **2.70** (Thunderpick) · prob 55% vs casas 34% · ventaja +48%
+
+- ❌ Valor: ventaja +48% (mín. 19% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮 no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 76.914 partidos)  
+Mapa: DISFARÇADOS 68% · Serie BO3: DISFARÇADOS 75% - 25% paiN Academy  
+Casas: DISFARÇADOS 34% · paiN Academy 66%  
+🔎 **Claves**  
+• Elo: DISFARÇADOS 1642 (1 series) | paiN Academy 1445 (322 series)  
+• Forma: DISFARÇADOS ✅ | paiN Academy ❌❌❌❌✅  
+• H2H: sin precedentes  
+• Torneo: CCT South America 2026 Challengers 4 (nivel C)  
+• Cambios de plantilla: ninguno  
+🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
+• DISFARÇADOS gana 2-1: 24% → cuota justa 4.12  
+• paiN Academy gana 2-1: 12% → cuota justa 8.60  
 
