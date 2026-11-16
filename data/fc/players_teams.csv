@@ -69946,3 +69946,23 @@ id,tournament_id,club1,club2,ht1,ht2
 2383514,262207,Atlanta United,Los Angeles FC,,
 2383515,262207,LA Galaxy,Atlanta United,,
 2383516,262207,Inter Miami CF,Seattle Sounders FC,,
+2382553,262151,Paris,Monaco,1,1
+2382554,262151,Nice,Marseille,0,3
+2382555,262151,Marseille,Paris,1,4
+2382556,262151,Monaco,Lyon,1,1
+2382557,262151,Lyon,Marseille,5,0
+2382558,262151,Paris,Nice,0,2
+2382559,262151,Nice,Lyon,1,2
+2382560,262151,Marseille,Monaco,4,2
+2382561,262151,Monaco,Nice,,
+2382562,262151,Lyon,Paris,,
+2382563,262151,Monaco,Paris,,
+2382564,262151,Marseille,Nice,,
+2382565,262151,Paris,Marseille,,
+2382566,262151,Lyon,Monaco,,
+2382567,262151,Marseille,Lyon,,
+2382568,262151,Nice,Paris,,
+2382569,262151,Lyon,Nice,,
+2382570,262151,Monaco,Marseille,,
+2382571,262151,Nice,Monaco,,
+2382572,262151,Paris,Lyon,,

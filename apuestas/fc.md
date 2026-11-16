@@ -1,42 +1,61 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 16/11/2026 08:53 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 16/11/2026 09:23 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## cl1vlind vs dor1an — 16/11 · 08:55
+## A1ose vs RuBIX — 16/11 · 09:31
 
-👀 candidata · 🎮⚽ FC 27 · Serie A · **Gana dor1an** @ **3.55** (Unibet) · prob 33% vs casas 24% · ventaja +17%
+👀 candidata · 🎮⚽ FC 27 · Serie A · **Gana RuBIX** @ **2.28** (Unibet) · prob 50% vs casas 38% · ventaja +13%
 
-- ✅ Valor: ventaja +17% (mín. 13% con la incertidumbre, máx. 30%)
+- ✅ Valor: ventaja +13% (mín. 11% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 69.915 partidos)  
-Goles esperados: cl1vlind 2.84 · dor1an 2.50  
-Ganador: cl1vlind 47% · empate 20% · dor1an 33%  
-Total: más de 5.5 goles 44% · menos 56%  
+📊 **Escenarios** (Poisson por jugador, 69.934 partidos)  
+Goles esperados: A1ose 3.08 · RuBIX 3.59  
+Ganador: A1ose 33% · empate 18% · RuBIX 50%  
+Total: más de 6.5 goles 50% · menos 50%  
+Hándicap RuBIX: −1.5 35% · −2.5 21%  
+🔎 **Claves**  
+• Forma: A1ose ➖❌❌❌❌ | RuBIX ✅➖✅✅✅  
+• Partidos: A1ose 1023 | RuBIX 233  
+• Liga: Serie A  
+• Unibet: 1 1.96 · X 5.20 · 2 2.28 (sin margen 45%/17%/38%) · ventaja +13%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.28 (+13%) · Paf España 2.28 (+13%)  
+
+## dor1an vs cl1vlind — 16/11 · 09:55
+
+👀 candidata · 🎮⚽ FC 27 · Serie A · **Gana dor1an** @ **3.35** (Unibet) · prob 34% vs casas 26% · ventaja +13%
+
+- ✅ Valor: ventaja +13% (mín. 12% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 69.934 partidos)  
+Goles esperados: dor1an 2.56 · cl1vlind 2.87  
+Ganador: dor1an 34% · empate 20% · cl1vlind 46%  
+Total: más de 5.5 goles 46% · menos 54%  
 Hándicap cl1vlind: −1.5 30% · −2.5 17%  
 🔎 **Claves**  
-• Forma: cl1vlind ✅❌❌✅❌ | dor1an ➖✅❌❌✅  
-• Partidos: cl1vlind 680 | dor1an 232  
+• Forma: dor1an ❌❌✅✅❌ | cl1vlind ❌✅❌❌➖  
+• Partidos: dor1an 234 | cl1vlind 682  
 • Liga: Serie A  
-• Unibet: 1 1.82 · X 3.15 · 2 3.55 (sin margen 48%/28%/25%) · ventaja +17%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 3.55 (+17%) · Paf España 3.55 (+17%)  
+• Unibet: 1 3.35 · X 3.25 · 2 1.84 (sin margen 26%/27%/47%) · ventaja +13%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 3.35 (+13%) · Paf España 3.35 (+13%)  
 
-## RuBIX vs v1nn — 16/11 · 09:19
+## why vs zoyir — 16/11 · 09:56
 
-👀 candidata · 🎮⚽ FC 27 · Serie A · **Gana RuBIX** @ **3.00** (Unibet) · prob 49% vs casas 29% · ventaja +46%
+👀 candidata · 🎮⚽ FC 27 · Champions League A 2x6 · **Gana why** @ **4.70** (Unibet) · prob 25% vs casas 18% · ventaja +18%
 
-- ❌ Valor: ventaja +46% (mín. 20% con la incertidumbre, máx. 30%)
+- ✅ Valor: ventaja +18% (mín. 13% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 69.915 partidos)  
-Goles esperados: RuBIX 3.79 · v1nn 3.38  
-Ganador: RuBIX 49% · empate 17% · v1nn 34%  
-Total: más de 7.5 goles 43% · menos 57%  
-Hándicap RuBIX: −1.5 34% · −2.5 21%  
+📊 **Escenarios** (Poisson por jugador, 69.934 partidos)  
+Goles esperados: why 3.30 · zoyir 4.34  
+Ganador: why 25% · empate 15% · zoyir 60%  
+Total: más de 7.5 goles 50% · menos 50%  
+Hándicap zoyir: −1.5 43% · −2.5 29%  
 🔎 **Claves**  
-• Forma: RuBIX ❌✅➖✅✅ | v1nn ✅➖✅➖✅  
-• Partidos: RuBIX 232 | v1nn 675  
-• Liga: Serie A  
-• Unibet: 1 3.00 · X 5.60 · 2 1.60 (sin margen 29%/16%/55%) · ventaja +46%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 3.00 (+46%) · Paf España 3.00 (+46%)  
+• Forma: why ✅➖❌❌❌ | zoyir ✅✅❌✅❌  
+• Partidos: why 654 | zoyir 596  
+• Liga: Champions League A 2x6  
+• Unibet: 1 4.70 · X 5.20 · 2 1.33 (sin margen 18%/17%/65%) · ventaja +18%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 4.70 (+18%) · Paf España 4.70 (+18%)  
 
