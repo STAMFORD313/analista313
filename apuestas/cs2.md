@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 16/11/2026 14:26 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 16/11/2026 14:57 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## ASTRON vs Ryvex — 16/11 · 16:00
 
