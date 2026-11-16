@@ -1,6 +1,6 @@
 # 🐉 Dota 2 · apuestas de valor
 
-Actualizado 16/11/2026 13:55 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 16/11/2026 14:26 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Froglings vs Inner Circle x Insanity — 16/11 · 14:30
 
