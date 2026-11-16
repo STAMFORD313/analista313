@@ -1,63 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 16/11/2026 18:59 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Xcity vs Al Ahli — 16/11 · 19:00
-
-👀 candidata · 🎮 CS2 · ESEA Season 59: Advanced Division - Europe · **Gana Xcity** @ **2.01** (Thunderpick) · prob 47% vs casas 46% · ventaja -5%
-
-- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 76.860 partidos)  
-Mapa: Xcity 48% · Serie BO1: Xcity 48% - 52% Al Ahli  
-Casas: Xcity 46% · Al Ahli 54%  
-🔎 **Claves**  
-• Elo: Xcity 1498 (7 series) | Al Ahli 1511 (13 series)  
-• Forma: Xcity ✅❌❌✅❌ | Al Ahli ✅✅✅✅❌  
-• H2H: sin precedentes  
-• Torneo: ESEA Season 59: Advanced Division - Europe (nivel C)  
-• Cambios de plantilla: ninguno  
-
-## KUUSAMO vs Nordic Valor — 16/11 · 19:00
-
-👀 candidata · 🎮 CS2 · Elisa Open Suomi Season 14 · **Gana Nordic Valor** @ **3.40** (Thunderpick) · prob 28% vs casas 27% · ventaja -6%
-
-- ❌ Valor: ventaja -6% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 76.860 partidos)  
-Mapa: KUUSAMO 65% · Serie BO3: KUUSAMO 72% - 28% Nordic Valor  
-Casas: KUUSAMO 73% · Nordic Valor 27%  
-🔎 **Claves**  
-• Elo: KUUSAMO 1456 (150 series) | Nordic Valor 1292 (15 series)  
-• Forma: KUUSAMO ❌❌✅✅❌ | Nordic Valor ❌❌❌❌❌  
-• H2H: 1: 0-1  
-• Torneo: Elisa Open Suomi Season 14 (nivel C)  
-• Cambios de plantilla: ninguno  
-🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
-• KUUSAMO gana 2-1: 25% → cuota justa 4.03  
-• Nordic Valor gana 2-1: 13% → cuota justa 7.47  
-
-## Evermore vs Four Magic — 16/11 · 19:00
-
-👀 candidata · 🎮 CS2 · Fiesta Series 4: Closed Qualifier · **Gana Evermore** @ **3.20** (Thunderpick) · prob 46% vs casas 29% · ventaja +47%
-
-- ❌ Valor: ventaja +47% (mín. 19% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 76.903 partidos)  
-Mapa: Evermore 59% · Serie BO3: Evermore 63% - 37% Four Magic  
-Casas: Evermore 29% · Four Magic 71%  
-🔎 **Claves**  
-• Elo: Evermore 1561 (1 series) | Four Magic 1467 (39 series)  
-• Forma: Evermore ✅ | Four Magic ❌❌❌✅❌  
-• H2H: sin precedentes  
-• Torneo: Fiesta Series 4: Closed Qualifier (nivel C)  
-• Cambios de plantilla: ninguno  
-🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
-• Evermore gana 2-1: 25% → cuota justa 4.05  
-• Four Magic gana 2-1: 17% → cuota justa 5.76  
+Actualizado 16/11/2026 19:28 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## OldBoys FR vs TTG Esports — 16/11 · 20:00
 
