@@ -69946,14 +69946,14 @@ id,tournament_id,club1,club2,ht1,ht2
 2383514,262207,Atlanta United,Los Angeles FC,,
 2383515,262207,LA Galaxy,Atlanta United,,
 2383516,262207,Inter Miami CF,Seattle Sounders FC,,
-2382553,262151,Paris,Monaco,1,1
-2382554,262151,Nice,Marseille,0,3
-2382555,262151,Marseille,Paris,1,4
-2382556,262151,Monaco,Lyon,1,1
-2382557,262151,Lyon,Marseille,5,0
-2382558,262151,Paris,Nice,0,2
-2382559,262151,Nice,Lyon,1,2
-2382560,262151,Marseille,Monaco,4,2
+2382553,262151,Paris,Monaco,1.0,1.0
+2382554,262151,Nice,Marseille,0.0,3.0
+2382555,262151,Marseille,Paris,1.0,4.0
+2382556,262151,Monaco,Lyon,1.0,1.0
+2382557,262151,Lyon,Marseille,5.0,0.0
+2382558,262151,Paris,Nice,0.0,2.0
+2382559,262151,Nice,Lyon,1.0,2.0
+2382560,262151,Marseille,Monaco,4.0,2.0
 2382561,262151,Monaco,Nice,,
 2382562,262151,Lyon,Paris,,
 2382563,262151,Monaco,Paris,,
@@ -69966,3 +69966,43 @@ id,tournament_id,club1,club2,ht1,ht2
 2382570,262151,Monaco,Marseille,,
 2382571,262151,Nice,Monaco,,
 2382572,262151,Paris,Lyon,,
+2382313,262166,Roma,Juventus,2,3
+2382314,262166,Bologna,Sassuolo,1,1
+2382315,262166,Sassuolo,Roma,1,2
+2382316,262166,Juventus,Napoli,1,2
+2382317,262166,Napoli,Sassuolo,2,2
+2382318,262166,Roma,Bologna,0,3
+2382319,262166,Bologna,Napoli,3,2
+2382320,262166,Sassuolo,Juventus,1,1
+2382321,262166,Juventus,Bologna,0,2
+2382322,262166,Napoli,Roma,1,2
+2382323,262166,Juventus,Roma,,
+2382324,262166,Sassuolo,Bologna,,
+2382325,262166,Roma,Sassuolo,,
+2382326,262166,Napoli,Juventus,,
+2382327,262166,Sassuolo,Napoli,,
+2382328,262166,Bologna,Roma,,
+2382329,262166,Napoli,Bologna,,
+2382330,262166,Juventus,Sassuolo,,
+2382331,262166,Bologna,Juventus,,
+2382332,262166,Roma,Napoli,,
+2383517,262198,Middlesbrough,Wolves,0,5
+2383518,262198,West Ham,Burnley,3,2
+2383519,262198,Burnley,Middlesbrough,1,3
+2383520,262198,Wolves,Southampton,1,2
+2383521,262198,Southampton,Burnley,3,1
+2383522,262198,Middlesbrough,West Ham,2,2
+2383523,262198,West Ham,Southampton,1,1
+2383524,262198,Burnley,Wolves,3,1
+2383525,262198,Wolves,West Ham,0,0
+2383526,262198,Southampton,Middlesbrough,1,1
+2383527,262198,Wolves,Middlesbrough,,
+2383528,262198,Burnley,West Ham,,
+2383529,262198,Middlesbrough,Burnley,,
+2383530,262198,Southampton,Wolves,,
+2383531,262198,Burnley,Southampton,,
+2383532,262198,West Ham,Middlesbrough,,
+2383533,262198,Southampton,West Ham,,
+2383534,262198,Wolves,Burnley,,
+2383535,262198,West Ham,Wolves,,
+2383536,262198,Middlesbrough,Southampton,,
