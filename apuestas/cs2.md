@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 16/11/2026 17:27 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 16/11/2026 17:57 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Xcity vs Al Ahli — 16/11 · 19:00
 

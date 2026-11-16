@@ -34885,3 +34885,5 @@ game_id,match_id,slug,date,tier,bo,tournament_id,tournament,t1_id,t2_id,team1,te
 193373,133858,brute-vs-nice-try-cs2-16-11-2026,2026-11-16T12:00:00.000+00:00,b,3,6240,NODWIN Clutch Series 14,370,25265,BRUTE,NT,1,de_mirage,25265,13.0,4.0
 192526,133257,omega-kz-vs-private-16-11-2026,2026-11-16T14:10:00.000+00:00,b,3,5628,CCT Europe 2026 Series 13,25382,22014,PRIVATE,Omega,2,de_mirage,22014,13.0,0.0
 192527,133257,omega-kz-vs-private-16-11-2026,2026-11-16T14:10:00.000+00:00,b,3,5628,CCT Europe 2026 Series 13,25382,22014,PRIVATE,Omega,1,de_ancient,25382,13.0,2.0
+192894,133394,baks-esports-vs-masonic-16-11-2026,2026-11-16T15:00:00.000+00:00,b,3,5629,CCT Europe 2026 Series 14,2924,1059,BAKS,MASONIC,1,de_mirage,2924,13.0,9.0
+193260,133776,magic-ru-vs-eternal-fire-16-11-2026,2026-11-16T15:00:00.000+00:00,b,3,6251,PGL Cluj-Napoca 2027: Closed Qualifier,22218,1527,magic,Eternal Fire,1,de_mirage,22218,13.0,7.0

@@ -1,42 +1,42 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 16/11/2026 17:27 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 16/11/2026 17:57 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## chevare vs hit — 16/11 · 17:28
+## SpeciAL vs Lx7ss — 16/11 · 18:20
 
-👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana chevare** @ **3.05** (Unibet) · prob 37% vs casas 28% · ventaja +12%
+👀 candidata · 🎮⚽ FC 27 · World Cup B · **Gana Lx7ss** @ **2.16** (Unibet) · prob 53% vs casas 40% · ventaja +14%
 
-- ✅ Valor: ventaja +12% (mín. 11% con la incertidumbre, máx. 30%)
+- ✅ Valor: ventaja +14% (mín. 12% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 70.376 partidos)  
-Goles esperados: chevare 2.74 · hit 2.82  
-Ganador: chevare 37% · empate 20% · hit 43%  
-Total: más de 5.5 goles 48% · menos 52%  
-Hándicap hit: −1.5 27% · −2.5 15%  
+📊 **Escenarios** (Poisson por jugador, 70.399 partidos)  
+Goles esperados: SpeciAL 3.08 · Lx7ss 3.74  
+Ganador: SpeciAL 30% · empate 17% · Lx7ss 53%  
+Total: más de 6.5 goles 52% · menos 48%  
+Hándicap Lx7ss: −1.5 37% · −2.5 24%  
 🔎 **Claves**  
-• Forma: chevare ✅✅✅❌❌ | hit ❌✅❌❌✅  
-• Partidos: chevare 726 | hit 844  
-• Liga: Champions League B  
-• Unibet: 1 3.05 · X 3.15 · 2 1.98 (sin margen 29%/28%/44%) · ventaja +12%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 3.05 (+12%) · Paf España 3.05 (+12%)  
+• Forma: SpeciAL ✅➖❌❌❌ | Lx7ss ❌➖❌❌✅  
+• Partidos: SpeciAL 972 | Lx7ss 1162  
+• Liga: World Cup B  
+• Unibet: 1 2.10 · X 4.90 · 2 2.16 (sin margen 42%/18%/40%) · ventaja +14%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.16 (+14%) · Paf España 2.16 (+14%)  
 
-## Bjela vs Lx7ss — 16/11 · 17:44
+## Sena vs Dicca — 16/11 · 18:23
 
-👀 candidata · 🎮⚽ FC 27 · World Cup B · **Gana Lx7ss** @ **2.70** (Unibet) · prob 40% vs casas 32% · ventaja +8%
+👀 candidata · 🎮⚽ FC 27 · Champions League A · **Gana Dicca** @ **2.23** (Unibet) · prob 48% vs casas 39% · ventaja +8%
 
 - ❌ Valor: ventaja +8% (mín. 10% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 70.376 partidos)  
-Goles esperados: Bjela 2.89 · Lx7ss 2.97  
-Ganador: Bjela 41% · empate 19% · Lx7ss 40%  
-Total: más de 5.5 goles 53% · menos 47%  
-Hándicap Lx7ss: −1.5 27% · −2.5 15%  
+📊 **Escenarios** (Poisson por jugador, 70.399 partidos)  
+Goles esperados: Sena 2.59 · Dicca 2.97  
+Ganador: Sena 32% · empate 20% · Dicca 48%  
+Total: más de 5.5 goles 48% · menos 52%  
+Hándicap Dicca: −1.5 31% · −2.5 18%  
 🔎 **Claves**  
-• Forma: Bjela ✅❌➖➖❌ | Lx7ss ❌❌➖❌❌  
-• Partidos: Bjela 880 | Lx7ss 1161  
-• Liga: World Cup B  
-• Unibet: 1 1.92 · X 3.85 · 2 2.70 (sin margen 45%/23%/32%) · ventaja +8%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.70 (+7%) · Paf España 2.70 (+7%)  
+• Forma: Sena ❌❌❌❌❌ | Dicca ❌✅✅✅✅  
+• Partidos: Sena 752 | Dicca 826  
+• Liga: Champions League A  
+• Unibet: 1 2.17 · X 4.20 · 2 2.23 (sin margen 40%/21%/39%) · ventaja +8%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.23 (+8%) · Paf España 2.23 (+8%)  
 
