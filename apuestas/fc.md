@@ -1,42 +1,61 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 16/11/2026 15:25 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 16/11/2026 15:56 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## MeLToSik vs dm1trena — 16/11 · 15:28
+## ZORO vs Mani — 16/11 · 16:01
 
-👀 candidata · 🎮⚽ FC 27 · LaLiga · **Gana MeLToSik** @ **2.48** (Unibet) · prob 43% vs casas 35% · ventaja +7%
+👀 candidata · 🎮⚽ FC 27 · Europa League · **Gana ZORO** @ **1.89** (Unibet) · prob 60% vs casas 46% · ventaja +13%
 
-- ❌ Valor: ventaja +7% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Valor: ventaja +13% (mín. 11% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 70.290 partidos)  
+Goles esperados: ZORO 4.00 · Mani 2.89  
+Ganador: ZORO 60% · empate 16% · Mani 24%  
+Total: más de 6.5 goles 53% · menos 47%  
+Hándicap ZORO: −1.5 44% · −2.5 29%  
+🔎 **Claves**  
+• Forma: ZORO ✅✅✅❌❌ | Mani ✅❌✅❌❌  
+• Partidos: ZORO 909 | Mani 938  
+• Liga: Europa League  
+• Unibet: 1 1.89 · X 3.95 · 2 2.75 (sin margen 46%/22%/32%) · ventaja +13%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 1.89 (+13%) · Paf España 1.89 (+13%)  
+
+## SpeciAL vs Lx7ss — 16/11 · 16:10
+
+👀 candidata · 🎮⚽ FC 27 · Serie A · **Gana Lx7ss** @ **2.15** (Unibet) · prob 54% vs casas 40% · ventaja +16%
+
+- ✅ Valor: ventaja +16% (mín. 12% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 70.257 partidos)  
-Goles esperados: MeLToSik 2.42 · dm1trena 2.15  
-Ganador: MeLToSik 43% · empate 22% · dm1trena 34%  
-Total: más de 4.5 goles 48% · menos 52%  
-Hándicap MeLToSik: −1.5 27% · −2.5 14%  
+📊 **Escenarios** (Poisson por jugador, 70.290 partidos)  
+Goles esperados: SpeciAL 3.10 · Lx7ss 3.87  
+Ganador: SpeciAL 29% · empate 17% · Lx7ss 54%  
+Total: más de 6.5 goles 55% · menos 45%  
+Hándicap Lx7ss: −1.5 39% · −2.5 25%  
 🔎 **Claves**  
-• Forma: MeLToSik ❌✅➖❌➖ | dm1trena ✅❌➖❌➖  
-• Partidos: MeLToSik 1318 | dm1trena 1163  
-• Liga: LaLiga  
-• Unibet: 1 2.48 · X 3.20 · 2 2.28 (sin margen 35%/27%/38%) · ventaja +7%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.48 (+7%) · Paf España 2.48 (+7%)  
+• Forma: SpeciAL ➖✅❌✅✅ | Lx7ss ✅✅➖✅❌  
+• Partidos: SpeciAL 964 | Lx7ss 1155  
+• Liga: Serie A  
+• Unibet: 1 2.12 · X 4.75 · 2 2.15 (sin margen 41%/18%/41%) · ventaja +16%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.15 (+16%) · Paf España 2.15 (+16%)  
 
-## Krkula vs hit — 16/11 · 15:52
+## Animal vs hit — 16/11 · 16:16
 
-👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana hit** @ **2.50** (Unibet) · prob 43% vs casas 35% · ventaja +7%
+👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana Animal** @ **2.95** (Unibet) · prob 38% vs casas 29% · ventaja +13%
 
-- ❌ Valor: ventaja +7% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Valor: ventaja +13% (mín. 11% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 70.257 partidos)  
-Goles esperados: Krkula 2.62 · hit 2.83  
-Ganador: Krkula 37% · empate 20% · hit 43%  
-Total: más de 5.5 goles 46% · menos 54%  
-Hándicap hit: −1.5 28% · −2.5 16%  
+📊 **Escenarios** (Poisson por jugador, 70.290 partidos)  
+Goles esperados: Animal 2.92 · hit 2.95  
+Ganador: Animal 38% · empate 19% · hit 42%  
+Total: más de 5.5 goles 53% · menos 47%  
+Hándicap hit: −1.5 27% · −2.5 15%  
 🔎 **Claves**  
-• Forma: Krkula ❌❌➖❌❌ | hit ✅➖✅❌❌  
-• Partidos: Krkula 768 | hit 838  
+• Forma: Animal ✅❌❌✅✅ | hit ✅➖✅❌❌  
+• Partidos: Animal 961 | hit 838  
 • Liga: Champions League B  
-• Unibet: 1 2.15 · X 3.45 · 2 2.50 (sin margen 40%/25%/35%) · ventaja +7%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.50 (+7%) · Paf España 2.50 (+7%)  
+• Unibet: 1 2.95 · X 2.75 · 2 2.23 (sin margen 29%/32%/39%) · ventaja +13%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.95 (+13%) · Paf España 2.95 (+13%)  
 
