@@ -70686,16 +70686,16 @@ id,tournament_id,club1,club2,ht1,ht2
 2383382,262177,Bayern Munchen,Paris,,
 2383383,262177,Liverpool,Bayern Munchen,,
 2383384,262177,Real Madrid,Atleti,,
-2382453,262185,Vitoria SC,Porto,1,1
-2382454,262185,Sporting CP,Benfica,2,0
-2382455,262185,Benfica,Vitoria SC,0,0
-2382456,262185,Porto,Braga,1,4
-2382457,262185,Braga,Benfica,1,0
-2382458,262185,Vitoria SC,Sporting CP,0,2
-2382459,262185,Sporting CP,Braga,0,1
-2382460,262185,Benfica,Porto,1,2
-2382461,262185,Porto,Sporting CP,0,2
-2382462,262185,Braga,Vitoria SC,1,0
+2382453,262185,Vitoria SC,Porto,1.0,1.0
+2382454,262185,Sporting CP,Benfica,2.0,0.0
+2382455,262185,Benfica,Vitoria SC,0.0,0.0
+2382456,262185,Porto,Braga,1.0,4.0
+2382457,262185,Braga,Benfica,1.0,0.0
+2382458,262185,Vitoria SC,Sporting CP,0.0,2.0
+2382459,262185,Sporting CP,Braga,0.0,1.0
+2382460,262185,Benfica,Porto,1.0,2.0
+2382461,262185,Porto,Sporting CP,0.0,2.0
+2382462,262185,Braga,Vitoria SC,1.0,0.0
 2382463,262185,Porto,Vitoria SC,,
 2382464,262185,Benfica,Sporting CP,,
 2382465,262185,Vitoria SC,Benfica,,
@@ -70706,18 +70706,18 @@ id,tournament_id,club1,club2,ht1,ht2
 2382470,262185,Porto,Benfica,,
 2382471,262185,Sporting CP,Porto,,
 2382472,262185,Vitoria SC,Braga,,
-2382813,262200,France,England,1,0
-2382814,262200,Brazil,Argentina,2,0
-2382815,262200,Argentina,France,2,2
-2382816,262200,England,Spain,0,2
-2382817,262200,Spain,Argentina,1,0
-2382818,262200,France,Brazil,1,0
-2382819,262200,Brazil,Spain,1,1
-2382820,262200,Argentina,England,0,0
-2382821,262200,England,Brazil,1,1
-2382822,262200,Spain,France,1,0
-2382823,262200,England,France,0,2
-2382824,262200,Argentina,Brazil,0,1
+2382813,262200,France,England,1.0,0.0
+2382814,262200,Brazil,Argentina,2.0,0.0
+2382815,262200,Argentina,France,2.0,2.0
+2382816,262200,England,Spain,0.0,2.0
+2382817,262200,Spain,Argentina,1.0,0.0
+2382818,262200,France,Brazil,1.0,0.0
+2382819,262200,Brazil,Spain,1.0,1.0
+2382820,262200,Argentina,England,0.0,0.0
+2382821,262200,England,Brazil,1.0,1.0
+2382822,262200,Spain,France,1.0,0.0
+2382823,262200,England,France,0.0,2.0
+2382824,262200,Argentina,Brazil,0.0,1.0
 2382825,262200,France,Argentina,,
 2382826,262200,Spain,England,,
 2382827,262200,Argentina,Spain,,
