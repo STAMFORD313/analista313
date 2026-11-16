@@ -1,6 +1,6 @@
 {
- "fecha": "2026-11-16 01:54",
- "n": 3482,
+ "fecha": "2026-11-16 02:24",
+ "n": 3483,
  "rentables": [
   {
    "segmento": "mercado=1X2 · cuota=≤1.5",
@@ -366,14 +366,14 @@
   },
   {
    "segmento": "mercado=1X2",
-   "n": 1645,
-   "roi": -0.1033,
+   "n": 1646,
+   "roi": -0.1039,
    "se": 0.0353,
    "roi_antigua": -0.0973,
-   "roi_nueva": -0.1083,
-   "clv": 0.0158,
-   "clv_se": 0.0064,
-   "clv_n": 205
+   "roi_nueva": -0.1093,
+   "clv": 0.0153,
+   "clv_se": 0.0063,
+   "clv_n": 206
   },
   {
    "segmento": "deporte=⚽ · mercado=corners · cuota=≤1.5",
@@ -457,6 +457,17 @@
    "roi_nueva": -0.0774
   },
   {
+   "segmento": "cuota=1.5-2",
+   "n": 1105,
+   "roi": -0.0779,
+   "se": 0.0268,
+   "roi_antigua": -0.0397,
+   "roi_nueva": -0.1163,
+   "clv": -0.0288,
+   "clv_se": 0.0047,
+   "clv_n": 189
+  },
+  {
    "segmento": "deporte=⚽ · mercado=corners",
    "n": 906,
    "roi": -0.0756,
@@ -509,17 +520,6 @@
    "se": 0.0388,
    "roi_antigua": -0.1085,
    "roi_nueva": -0.0956
-  },
-  {
-   "segmento": "cuota=1.5-2",
-   "n": 1104,
-   "roi": -0.0771,
-   "se": 0.0269,
-   "roi_antigua": -0.0397,
-   "roi_nueva": -0.1147,
-   "clv": -0.0285,
-   "clv_se": 0.0047,
-   "clv_n": 188
   },
   {
    "segmento": "mercado=ganador · cuota=>2.5",
@@ -591,6 +591,17 @@
    "clv": -0.0124,
    "clv_se": 0.0072,
    "clv_n": 42
+  },
+  {
+   "segmento": "mercado=1X2 · ventaja=0-5%",
+   "n": 108,
+   "roi": -0.2394,
+   "se": 0.1166,
+   "roi_antigua": -0.2118,
+   "roi_nueva": -0.3778,
+   "clv": -0.0085,
+   "clv_se": 0.0156,
+   "clv_n": 43
   },
   {
    "segmento": "mercado=total · cuota=1.5-2",
@@ -682,25 +693,25 @@
   },
   {
    "segmento": "deporte=⚽💎",
-   "n": 42,
-   "roi": -0.0621,
-   "se": 0.1576,
+   "n": 43,
+   "roi": -0.084,
+   "se": 0.1554,
    "roi_antigua": 0.0488,
-   "roi_nueva": -0.2253,
-   "clv": -0.0344,
-   "clv_se": 0.008,
-   "clv_n": 42
+   "roi_nueva": -0.2683,
+   "clv": -0.0354,
+   "clv_se": 0.0079,
+   "clv_n": 43
   },
   {
    "segmento": "deporte=⚽💎 · mercado=1X2",
-   "n": 42,
-   "roi": -0.0621,
-   "se": 0.1576,
+   "n": 43,
+   "roi": -0.084,
+   "se": 0.1554,
    "roi_antigua": 0.0488,
-   "roi_nueva": -0.2253,
-   "clv": -0.0344,
-   "clv_se": 0.008,
-   "clv_n": 42
+   "roi_nueva": -0.2683,
+   "clv": -0.0354,
+   "clv_se": 0.0079,
+   "clv_n": 43
   }
  ]
 }
