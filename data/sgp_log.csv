@@ -438,4 +438,5 @@ fecha,partido,tipo,piernas,p,acierto,piernas_acertadas,p_piernas,cuota,ventaja,s
 2026-11-15,Eldense vs Sabadell,larga,5,0.1615,0,4,0.6845,,,0,,Más de 13.5 faltas de Sabadell + Menos de 4.5 tiros a puerta de Sabadell + Menos de 3.5 tarjetas de Sabadell + Menos de 2.5 goles + Menos de 4.5 córners de Sabadell,1111
 2026-11-15,Eldense vs Sabadell,valor,2,0.3911,1,2,0.629,2.48,-0.031,0,,Menos de 2.5 goles + Menos de 4.5 córners de Sabadell,11
 2026-11-15,Las Vegas Raiders vs Seattle Seahawks,nfl,2,0.1527,0,0,0.393,6.44,-0.017,0,,Gana Las Vegas Raiders + Más de 40.5 puntos,0
-2026-11-15,Dallas Cowboys vs San Francisco 49ers,nfl,2,0.1952,0,1,0.436,4.99,-0.027,0,,Gana Dallas Cowboys + Más de 55.5 puntos,01
+2026-11-15,Dallas Cowboys vs San Francisco 49ers,nfl,2,0.1952,0,1,0.436,4.99,-0.027,0,,Gana Dallas Cowboys + Más de 55.5 puntos,1
+2026-11-16,Cincinnati Bengals vs Pittsburgh Steelers,nfl,2,0.2055,0,0,0.444,4.73,-0.028,0,,Gana Pittsburgh Steelers + Menos de 49.5 puntos,00
