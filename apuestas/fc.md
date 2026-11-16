@@ -1,60 +1,42 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 17/11/2026 00:03 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 17/11/2026 00:34 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## ssstasonn vs Kavviro — 17/11 · 00:17
+## believer vs Kavviro — 17/11 · 00:53
 
-👀 candidata · 🎮⚽ FC 27 · Serie A · **Gana Kavviro** @ **1.16** (cuota justa (sin casa)) · prob 86% vs casas 86% · ventaja +0%
+👀 candidata · 🎮⚽ FC 27 · Serie A · **Gana Kavviro** @ **2.90** (Unibet) · prob 42% vs casas 30% · ventaja +21%
 
-- ❌ Valor: ventaja +0% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 70.693 partidos)  
-Goles esperados: ssstasonn 1.39 · Kavviro 4.00  
-Ganador: ssstasonn 5% · empate 9% · Kavviro 87%  
-Total: más de 5.5 goles 45% · menos 55%  
-Hándicap Kavviro: −1.5 68% · −2.5 50%  
-🔎 **Claves**  
-• Forma: ssstasonn ❌❌❌✅❌ | Kavviro ✅❌✅❌✅  
-• Partidos: ssstasonn 1134 | Kavviro 921  
-• Liga: Serie A  
-• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
-
-## Djape vs mixes — 17/11 · 00:26
-
-👀 candidata · 🎮⚽ FC 27 · Premier League · **Gana Djape** @ **1.93** (Unibet) · prob 59% vs casas 45% · ventaja +14%
-
-- ✅ Valor: ventaja +14% (mín. 12% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 70.715 partidos)  
-Goles esperados: Djape 3.92 · mixes 3.02  
-Ganador: Djape 59% · empate 16% · mixes 25%  
-Total: más de 6.5 goles 54% · menos 46%  
-Hándicap Djape: −1.5 40% · −2.5 27%  
-🔎 **Claves**  
-• Forma: Djape ✅❌✅✅✅ | mixes ✅❌❌➖❌  
-• Partidos: Djape 233 | mixes 232  
-• Liga: Premier League  
-• Unibet: 1 1.93 · X 5.30 · 2 2.30 (sin margen 45%/17%/38%) · ventaja +14%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 1.93 (+14%) · Paf España 1.93 (+14%)  
-
-## rostyk vs k0mych — 17/11 · 00:30
-
-👀 candidata · 🎮⚽ FC 27 · Argentina Super League 2x6 · **Gana rostyk** @ **2.10** (Unibet) · prob 52% vs casas 42% · ventaja +10%
-
-- ❌ Valor: ventaja +10% (mín. 11% con la incertidumbre, máx. 30%)
+- ✅ Valor: ventaja +21% (mín. 14% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 70.715 partidos)  
-Goles esperados: rostyk 4.91 · k0mych 4.28  
-Ganador: rostyk 53% · empate 15% · k0mych 33%  
-Total: más de 9.5 goles 44% · menos 56%  
-Hándicap rostyk: −1.5 38% · −2.5 26%  
+📊 **Escenarios** (Poisson por jugador, 70.737 partidos)  
+Goles esperados: believer 2.10 · Kavviro 2.26  
+Ganador: believer 35% · empate 23% · Kavviro 42%  
+Total: más de 4.5 goles 44% · menos 56%  
+Hándicap Kavviro: −1.5 25% · −2.5 13%  
 🔎 **Claves**  
-• Forma: rostyk ✅✅✅✅❌ | k0mych ✅❌❌✅✅  
-• Partidos: rostyk 377 | k0mych 405  
-• Liga: Argentina Super League 2x6  
-• Unibet: 1 2.10 · X 6.50 · 2 1.98 (sin margen 42%/14%/44%) · ventaja +10%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.10 (+10%) · Paf España 2.10 (+10%)  
+• Forma: believer ✅✅➖✅✅ | Kavviro ❌✅❌➖✅  
+• Partidos: believer 1182 | Kavviro 924  
+• Liga: Serie A  
+• Unibet: 1 1.94 · X 3.40 · 2 2.90 (sin margen 45%/25%/30%) · ventaja +21%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.90 (+21%) · Paf España 2.90 (+21%)  
+
+## OG vs hotShot — 17/11 · 00:56
+
+👀 candidata · 🎮⚽ FC 27 · World Cup A · **Gana OG** @ **3.95** (Unibet) · prob 32% vs casas 22% · ventaja +27%
+
+- ✅ Valor: ventaja +27% (mín. 15% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 70.737 partidos)  
+Goles esperados: OG 2.19 · hotShot 2.54  
+Ganador: OG 32% · empate 22% · hotShot 46%  
+Total: más de 4.5 goles 51% · menos 49%  
+Hándicap hotShot: −1.5 29% · −2.5 15%  
+🔎 **Claves**  
+• Forma: OG ❌❌✅✅❌ | hotShot ✅❌➖❌➖  
+• Partidos: OG 593 | hotShot 588  
+• Liga: World Cup A  
+• Unibet: 1 3.95 · X 2.40 · 2 2.08 (sin margen 22%/36%/42%) · ventaja +27%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 3.95 (+27%) · Paf España 3.95 (+27%)  
 
