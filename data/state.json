@@ -994,9 +994,6 @@
   "cbb|2026-11-19|Nevada Wolf Pack|Idaho Vandals",
   "cbb|2026-11-19|UCLA Bruins|Cal State Fullerton Titans",
   "cbb|2026-11-18|Washington Huskies|Simon Fraser Red Leafs",
-  "cs2|133444",
-  "fc|2374768",
-  "fc|2374600",
   "fc|2374770",
   "dota2|133708",
   "r6|133904",
@@ -1996,7 +1993,10 @@
   "fc|2382591",
   "fc|2382431",
   "fc|2382596",
-  "fc|2382428"
+  "fc|2382428",
+  "fc|2382940",
+  "fc|2382358",
+  "fc|2382434"
  ],
  "signals": [
   {
@@ -8422,26 +8422,6 @@
    "logged": true
   },
   {
-   "key": "vp|2026-11-13|Goczalkowice Zdroj|Stilon Gorzow Wielkopolski",
-   "market": "H",
-   "pick": "Goczalkowice Zdroj",
-   "odds": 2.0,
-   "book": "Unibet",
-   "p": 0.5169,
-   "implied": 0.5169,
-   "edge": 0.0337,
-   "match": "Goczalkowice Zdroj vs Stilon Gorzow Wielkopolski",
-   "start": "2026-11-13T12:00:00+00:00",
-   "league": "💎 Valor vs Pinnacle · Poland - 3rd Liga",
-   "sport": "⚽💎",
-   "context": "Goczalkowice Zdroj vs Stilon Gorzow Wielkopolski (Poland - 3rd Liga). Estrategia de valor: Unibet 2.00 frente a Pinnacle justo 1.93.",
-   "captured": "2026-11-13T08:10",
-   "version": "5bd67cd",
-   "bajas": "",
-   "considered": true,
-   "placed": false
-  },
-  {
    "market": "t2",
    "team_id": 25665,
    "pick": "Froglings",
@@ -8516,81 +8496,6 @@
     "modelo": null
    },
    "placed": false
-  },
-  {
-   "market": "A",
-   "pick": "Frantsuz",
-   "odds": 3.6,
-   "book": "Unibet",
-   "implied": 0.24,
-   "edge": 0.177,
-   "sin_stake": true,
-   "p": 0.327,
-   "key": "fc|2377850",
-   "match": "TikitakaMaster vs Frantsuz",
-   "start": "2026-11-13T12:08:00+00:00",
-   "league": "🎮⚽ FC 27 · Champions League A 2x6",
-   "sport": "🎮⚽",
-   "context": "EA FC Esoccer Battle TikitakaMaster vs Frantsuz (Champions League A 2x6): goles esperados 4.74-4.29, 1X2 52%/15%/33%. Sin cuotas de casa.",
-   "captured": "2026-11-13T12:05",
-   "version": "41043d0",
-   "bajas": "",
-   "considered": true,
-   "placed": false,
-   "score": "5-2",
-   "result": false,
-   "close_p": null,
-   "logged": true
-  },
-  {
-   "market": "A",
-   "pick": "Smetana",
-   "odds": 1.42,
-   "book": "Unibet",
-   "implied": 0.609,
-   "edge": 0.09,
-   "sin_stake": true,
-   "p": 0.768,
-   "key": "fc|2377725",
-   "match": "spirtes vs Smetana",
-   "start": "2026-11-13T12:08:00+00:00",
-   "league": "🎮⚽ FC 27 · CSL",
-   "sport": "🎮⚽",
-   "context": "EA FC Esoccer Battle spirtes vs Smetana (CSL): goles esperados 2.49-4.56, 1X2 12%/12%/77%. Sin cuotas de casa.",
-   "captured": "2026-11-13T12:05",
-   "version": "41043d0",
-   "bajas": "",
-   "considered": true,
-   "placed": false,
-   "score": "4-11",
-   "result": true,
-   "close_p": null,
-   "logged": true
-  },
-  {
-   "market": "H",
-   "pick": "flamez",
-   "odds": 1.74,
-   "book": "Unibet",
-   "implied": 0.503,
-   "edge": 0.069,
-   "sin_stake": true,
-   "p": 0.614,
-   "key": "fc|2377849",
-   "match": "flamez vs why",
-   "start": "2026-11-13T12:08:00+00:00",
-   "league": "🎮⚽ FC 27 · Champions League A 2x6",
-   "sport": "🎮⚽",
-   "context": "EA FC Esoccer Battle flamez vs why (Champions League A 2x6): goles esperados 4.80-3.68, 1X2 61%/14%/24%. Sin cuotas de casa.",
-   "captured": "2026-11-13T12:05",
-   "version": "41043d0",
-   "bajas": "",
-   "considered": true,
-   "placed": false,
-   "score": "2-6",
-   "result": false,
-   "close_p": null,
-   "logged": true
   },
   {
    "market": "H",
@@ -8958,7 +8863,11 @@
    "version": "d93fd78",
    "bajas": "Leganes: 0 fuera, 1 duda; Burgos: 1 fuera, 0 duda (Jon Karrikaburu)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "3-1",
+   "clv": -0.009,
+   "logged": true
   },
   {
    "market": "corners_t_o",
@@ -9135,7 +9044,12 @@
    "version": "d93fd78",
    "bajas": "Valladolid: 1 fuera, 1 duda (David Torres); Castellon: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "factor": 0.0,
+   "result": false,
+   "score": "0-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "corners_a_o",
@@ -9311,7 +9225,11 @@
    "version": "d93fd78",
    "bajas": "Sociedad B: sin bajas; Sp Gijon: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "2-2",
+   "clv": 0.075,
+   "logged": true
   },
   {
    "market": "AHH",
@@ -9332,7 +9250,10 @@
    "version": "d93fd78",
    "bajas": "Almeria: 0 fuera, 1 duda; Andorra: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "factor": 1.0,
+   "result": "nula",
+   "score": "2-1"
   },
   {
    "market": "A",
@@ -9352,7 +9273,11 @@
    "version": "d93fd78",
    "bajas": "Mallorca: 0 fuera, 1 duda; Cordoba: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": false,
+   "score": "3-3",
+   "clv": -0.157,
+   "logged": true
   },
   {
    "market": "AHH",
@@ -9373,7 +9298,12 @@
    "version": "d93fd78",
    "bajas": "Oviedo: sin bajas; Girona: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "factor": 0.0,
+   "result": false,
+   "score": "1-2",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "U25",
@@ -9393,7 +9323,11 @@
    "version": "d93fd78",
    "bajas": "Tenerife: sin bajas; Ceuta: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "result": true,
+   "score": "2-0",
+   "clv": 0.022,
+   "logged": true
   },
   {
    "market": "AHA",
@@ -9414,7 +9348,12 @@
    "version": "d93fd78",
    "bajas": "Granada: 2 fuera, 0 duda (Baila Diallo, Pau Casadesus); Las Palmas: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "factor": 0.0,
+   "result": false,
+   "score": "1-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "AHA",
@@ -9435,7 +9374,12 @@
    "version": "d93fd78",
    "bajas": "Eibar: 2 fuera, 1 duda (Elijah Gift, I. Garcia de); Cadiz: 1 fuera, 1 duda (Vladyslav Kopotun)",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "factor": 2.03,
+   "result": true,
+   "score": "1-1",
+   "close_p": null,
+   "logged": true
   },
   {
    "market": "AHA",
@@ -9456,7 +9400,12 @@
    "version": "d93fd78",
    "bajas": "Eldense: sin bajas; Sabadell: sin bajas",
    "considered": true,
-   "placed": false
+   "placed": false,
+   "factor": 0.0,
+   "result": false,
+   "score": "2-0",
+   "close_p": null,
+   "logged": true
   },
   {
    "key": "vp|2026-11-13|Bulgaria|Iceland",
@@ -19775,22 +19724,6 @@
    "start": "2026-11-16T12:00:00+00:00",
    "league": "🎮 CS2 · Fiesta Series 4: Closed Qualifier",
    "sport": "🎮",
-   "info": [
-    "📊 <b>Escenarios</b> (Elo por mapa, 76.903 partidos)",
-    "Mapa: KAMUI 60% · Serie BO3: KAMUI 65% - 35% Ducks",
-    "Casas: KAMUI 62% · Ducks 38%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Elo: KAMUI 1672 (14 series) | Ducks 1562 (11 series)",
-    "• Forma: KAMUI ✅✅❌✅✅ | Ducks ✅❌❌✅✅",
-    "• H2H: sin precedentes",
-    "• Torneo: Fiesta Series 4: Closed Qualifier (nivel C)",
-    "• Cambios de plantilla: ninguno",
-    "",
-    "🧩 <b>Marcador exacto «gana + más de 2.5 mapas»</b> (son opciones alternativas: como mucho UNA; solo información, sin stake)",
-    "• KAMUI gana 2-1: 25% → cuota justa 4.02",
-    "• Ducks gana 2-1: 16% → cuota justa 6.08"
-   ],
    "context": "CS2 KAMUI vs Ducks, BO3, torneo Fiesta Series 4: Closed Qualifier nivel c. Elo por mapa 1672 vs 1562 (prob. mapa 60%, serie 65%). Forma ✅✅❌✅✅ / ✅❌❌✅✅ (✅ victoria ❌ derrota). H2H sin precedentes. Cambios de plantilla: ninguno. Cuotas Thunderpick 1.5/2.4.",
    "captured": "2026-11-16T01:24",
    "version": "b90efa1",
@@ -21916,20 +21849,6 @@
    "start": "2026-11-16T12:18:00+00:00",
    "league": "🎮⚽ FC 27 · Bundesliga",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 70.122 partidos)",
-    "Goles esperados: MeLToSik 2.43 · dm1trena 2.07",
-    "Ganador: MeLToSik 48% · empate 22% · dm1trena 30%",
-    "Total: más de 4.5 goles 47% · menos 53%",
-    "Hándicap MeLToSik: −1.5 29% · −2.5 15%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: MeLToSik ➖✅❌✅✅ | dm1trena ❌➖❌❌✅",
-    "• Partidos: MeLToSik 1309 | dm1trena 1154",
-    "• Liga: Bundesliga",
-    "• Unibet: 1 2.48 · X 3.50 · 2 2.16 (sin margen 35%/25%/40%) · ventaja +18%. Sin stake hasta demostrar ROI con estas cuotas.",
-    "• En España: LeoVegas España 2.48 (+18%) · Paf España 2.48 (+18%)"
-   ],
    "context": "EA FC Esoccer Battle MeLToSik vs dm1trena (Bundesliga): goles esperados 2.43-2.07, 1X2 48%/22%/30%. Sin cuotas de casa.",
    "captured": "2026-11-16T11:54",
    "version": "df73267",
@@ -21952,20 +21871,6 @@
    "start": "2026-11-16T12:22:00+00:00",
    "league": "🎮⚽ FC 27 · FA Cup",
    "sport": "🎮⚽",
-   "info": [
-    "📊 <b>Escenarios</b> (Poisson por jugador, 70.122 partidos)",
-    "Goles esperados: Ganger_29 2.16 · Pavlinho19 3.08",
-    "Ganador: Ganger_29 25% · empate 19% · Pavlinho19 56%",
-    "Total: más de 5.5 goles 43% · menos 57%",
-    "Hándicap Pavlinho19: −1.5 39% · −2.5 24%",
-    "",
-    "🔎 <b>Claves</b>",
-    "• Forma: Ganger_29 ❌✅❌❌❌ | Pavlinho19 ❌✅✅✅❌",
-    "• Partidos: Ganger_29 982 | Pavlinho19 1096",
-    "• Liga: FA Cup",
-    "• Unibet: 1 2.48 · X 3.90 · 2 2.04 (sin margen 35%/22%/43%) · ventaja +14%. Sin stake hasta demostrar ROI con estas cuotas.",
-    "• En España: LeoVegas España 2.04 (+14%) · Paf España 2.04 (+14%)"
-   ],
    "context": "EA FC Esoccer Battle Ganger_29 vs Pavlinho19 (FA Cup): goles esperados 2.16-3.08, 1X2 25%/19%/56%. Sin cuotas de casa.",
    "captured": "2026-11-16T11:54",
    "version": "df73267",
@@ -21992,7 +21897,116 @@
    "captured": "2026-11-16T11:54",
    "version": "df73267",
    "bajas": "",
-   "considered": true
+   "considered": true,
+   "score": "4-7",
+   "result": false,
+   "close_p": null,
+   "logged": true
+  },
+  {
+   "market": "H",
+   "pick": "zoyir",
+   "odds": 3.15,
+   "book": "Unibet",
+   "implied": 0.278,
+   "edge": 0.121,
+   "sin_stake": true,
+   "p": 0.356,
+   "key": "fc|2382940",
+   "match": "zoyir vs TikitakaMaster",
+   "start": "2026-11-16T12:44:00+00:00",
+   "league": "🎮⚽ FC 27 · Champions League A 2x6",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 70.148 partidos)",
+    "Goles esperados: zoyir 3.81 · TikitakaMaster 4.16",
+    "Ganador: zoyir 36% · empate 16% · TikitakaMaster 48%",
+    "Total: más de 7.5 goles 54% · menos 46%",
+    "Hándicap TikitakaMaster: −1.5 34% · −2.5 22%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: zoyir ✅✅❌❌✅ | TikitakaMaster ➖✅❌✅✅",
+    "• Partidos: zoyir 605 | TikitakaMaster 750",
+    "• Liga: Champions League A 2x6",
+    "• Unibet: 1 3.15 · X 4.70 · 2 1.64 (sin margen 28%/19%/53%) · ventaja +12%. Sin stake hasta demostrar ROI con estas cuotas.",
+    "• En España: LeoVegas España 3.15 (+12%) · Paf España 3.15 (+12%)"
+   ],
+   "context": "EA FC Esoccer Battle zoyir vs TikitakaMaster (Champions League A 2x6): goles esperados 3.81-4.16, 1X2 36%/16%/48%. Sin cuotas de casa.",
+   "captured": "2026-11-16T12:24",
+   "version": "08f5faa",
+   "bajas": "",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "A",
+   "pick": "A1ose",
+   "odds": 2.23,
+   "book": "Unibet",
+   "implied": 0.389,
+   "edge": 0.081,
+   "sin_stake": true,
+   "p": 0.485,
+   "key": "fc|2382358",
+   "match": "cl1vlind vs A1ose",
+   "start": "2026-11-16T12:49:00+00:00",
+   "league": "🎮⚽ FC 27 · Champions League B",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 70.148 partidos)",
+    "Goles esperados: cl1vlind 2.85 · A1ose 3.24",
+    "Ganador: cl1vlind 33% · empate 19% · A1ose 48%",
+    "Total: más de 6.5 goles 41% · menos 59%",
+    "Hándicap A1ose: −1.5 32% · −2.5 19%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: cl1vlind ➖➖✅❌❌ | A1ose ➖❌✅✅❌",
+    "• Partidos: cl1vlind 696 | A1ose 1038",
+    "• Liga: Champions League B",
+    "• Unibet: 1 2.80 · X 2.88 · 2 2.23 (sin margen 31%/30%/39%) · ventaja +8%. Sin stake hasta demostrar ROI con estas cuotas.",
+    "• En España: LeoVegas España 2.23 (+8%) · Paf España 2.23 (+8%)"
+   ],
+   "context": "EA FC Esoccer Battle cl1vlind vs A1ose (Champions League B): goles esperados 2.85-3.24, 1X2 33%/19%/48%. Sin cuotas de casa.",
+   "captured": "2026-11-16T12:24",
+   "version": "08f5faa",
+   "bajas": "",
+   "considered": true,
+   "placed": false
+  },
+  {
+   "market": "H",
+   "pick": "MeLToSik",
+   "odds": 2.48,
+   "book": "Unibet",
+   "implied": 0.35,
+   "edge": 0.069,
+   "sin_stake": true,
+   "p": 0.431,
+   "key": "fc|2382434",
+   "match": "MeLToSik vs Edwardson",
+   "start": "2026-11-16T12:40:00+00:00",
+   "league": "🎮⚽ FC 27 · LaLiga",
+   "sport": "🎮⚽",
+   "info": [
+    "📊 <b>Escenarios</b> (Poisson por jugador, 70.148 partidos)",
+    "Goles esperados: MeLToSik 1.97 · Edwardson 1.78",
+    "Ganador: MeLToSik 43% · empate 25% · Edwardson 32%",
+    "Total: más de 3.5 goles 52% · menos 48%",
+    "Hándicap MeLToSik: −1.5 24% · −2.5 11%",
+    "",
+    "🔎 <b>Claves</b>",
+    "• Forma: MeLToSik ❌✅✅❌❌ | Edwardson ✅❌❌❌❌",
+    "• Partidos: MeLToSik 1311 | Edwardson 1280",
+    "• Liga: LaLiga",
+    "• Unibet: 1 2.48 · X 3.30 · 2 2.25 (sin margen 35%/26%/39%) · ventaja +7%. Sin stake hasta demostrar ROI con estas cuotas.",
+    "• En España: LeoVegas España 2.48 (+7%) · Paf España 2.48 (+7%)"
+   ],
+   "context": "EA FC Esoccer Battle MeLToSik vs Edwardson (LaLiga): goles esperados 1.97-1.78, 1X2 43%/25%/32%. Sin cuotas de casa.",
+   "captured": "2026-11-16T12:24",
+   "version": "08f5faa",
+   "bajas": "",
+   "considered": true,
+   "placed": false
   }
  ],
  "bank": {
@@ -22566,115 +22580,6 @@
     }
    ]
   },
-  "SP2|2026-11-14|Sociedad B|Sp Gijon": {
-   "match": "Sociedad B vs Sp Gijon",
-   "start": "2026-11-14T15:15:00+00:00",
-   "combos": [
-    {
-     "kind": "corta",
-     "p": 0.3453,
-     "legs": [
-      {
-       "var": "sot_h",
-       "sign": -1,
-       "line": 5.5,
-       "p": 0.7028,
-       "text": "Menos de 5.5 tiros a puerta de Sociedad B",
-       "odds": null
-      },
-      {
-       "var": "fouls_a",
-       "sign": -1,
-       "line": 13.5,
-       "p": 0.6742,
-       "text": "Menos de 13.5 faltas de Sp Gijon",
-       "odds": null
-      },
-      {
-       "var": "cards_a",
-       "sign": -1,
-       "line": 3.5,
-       "p": 0.663,
-       "text": "Menos de 3.5 tarjetas de Sp Gijon",
-       "odds": null
-      }
-     ]
-    },
-    {
-     "kind": "larga",
-     "p": 0.1984,
-     "legs": [
-      {
-       "var": "sot_h",
-       "sign": -1,
-       "line": 5.5,
-       "p": 0.7028,
-       "text": "Menos de 5.5 tiros a puerta de Sociedad B",
-       "odds": null
-      },
-      {
-       "var": "fouls_a",
-       "sign": -1,
-       "line": 13.5,
-       "p": 0.6742,
-       "text": "Menos de 13.5 faltas de Sp Gijon",
-       "odds": null
-      },
-      {
-       "var": "cards_a",
-       "sign": -1,
-       "line": 3.5,
-       "p": 0.663,
-       "text": "Menos de 3.5 tarjetas de Sp Gijon",
-       "odds": null
-      },
-      {
-       "var": "corners_a",
-       "sign": -1,
-       "line": 4.5,
-       "p": 0.6254,
-       "text": "Menos de 4.5 córners de Sp Gijon",
-       "odds": null
-      }
-     ]
-    }
-   ],
-   "priced": false,
-   "pool": [
-    {
-     "stat": "sot",
-     "var": "sot_h",
-     "sign": -1,
-     "p": 0.7027595068573304,
-     "line": 5.5,
-     "text": "Menos de 5.5 tiros a puerta de Sociedad B"
-    },
-    {
-     "stat": "fouls",
-     "var": "fouls_a",
-     "sign": -1,
-     "p": 0.674186158121646,
-     "line": 13.5,
-     "text": "Menos de 13.5 faltas de Sp Gijon"
-    },
-    {
-     "stat": "cards",
-     "var": "cards_a",
-     "sign": -1,
-     "p": 0.6629639819856266,
-     "line": 3.5,
-     "text": "Menos de 3.5 tarjetas de Sp Gijon"
-    },
-    {
-     "stat": "corners",
-     "var": "corners_a",
-     "sign": -1,
-     "p": 0.6253937354963425,
-     "line": 4.5,
-     "text": "Menos de 4.5 córners de Sp Gijon"
-    }
-   ]
-  },
   "SP2|2026-11-16|Albacete|Celta B": {
    "match": "Albacete vs Celta B",
    "start": "2026-11-16T19:30:00+00:00",
@@ -22852,7 +22757,7 @@
   "SP2|2026-11-15|Eldense|Sabadell"
  ],
  "paper_sent": "2026-11-15T18:07:06.978759+00:00",
- "sgp_res_n": 441,
+ "sgp_res_n": 443,
  "nba_props_ok": [
   "nba|2026-11-05|Detroit Pistons|Philadelphia 76ers",
   "nba|2026-11-05|Washington Wizards|Atlanta Hawks",

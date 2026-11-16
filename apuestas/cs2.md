@@ -1,26 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 16/11/2026 12:54 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## KAMUI vs Ducks — 16/11 · 13:00
-
-👀 candidata · 🎮 CS2 · Fiesta Series 4: Closed Qualifier · **Gana KAMUI** @ **1.50** (Thunderpick) · prob 63% vs casas 62% · ventaja -5%
-
-- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 76.903 partidos)  
-Mapa: KAMUI 60% · Serie BO3: KAMUI 65% - 35% Ducks  
-Casas: KAMUI 62% · Ducks 38%  
-🔎 **Claves**  
-• Elo: KAMUI 1672 (14 series) | Ducks 1562 (11 series)  
-• Forma: KAMUI ✅✅❌✅✅ | Ducks ✅❌❌✅✅  
-• H2H: sin precedentes  
-• Torneo: Fiesta Series 4: Closed Qualifier (nivel C)  
-• Cambios de plantilla: ninguno  
-🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
-• KAMUI gana 2-1: 25% → cuota justa 4.02  
-• Ducks gana 2-1: 16% → cuota justa 6.08  
+Actualizado 16/11/2026 13:24 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## ASTRON vs Ryvex — 16/11 · 16:00
 

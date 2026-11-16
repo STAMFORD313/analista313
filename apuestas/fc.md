@@ -1,42 +1,61 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 16/11/2026 12:54 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 16/11/2026 13:24 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## MeLToSik vs dm1trena — 16/11 · 13:18
+## MeLToSik vs Edwardson — 16/11 · 13:40
 
-👀 candidata · 🎮⚽ FC 27 · Bundesliga · **Gana MeLToSik** @ **2.48** (Unibet) · prob 48% vs casas 35% · ventaja +18%
+👀 candidata · 🎮⚽ FC 27 · LaLiga · **Gana MeLToSik** @ **2.48** (Unibet) · prob 43% vs casas 35% · ventaja +7%
 
-- ✅ Valor: ventaja +18% (mín. 13% con la incertidumbre, máx. 30%)
+- ❌ Valor: ventaja +7% (mín. 10% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 70.122 partidos)  
-Goles esperados: MeLToSik 2.43 · dm1trena 2.07  
-Ganador: MeLToSik 48% · empate 22% · dm1trena 30%  
-Total: más de 4.5 goles 47% · menos 53%  
-Hándicap MeLToSik: −1.5 29% · −2.5 15%  
+📊 **Escenarios** (Poisson por jugador, 70.148 partidos)  
+Goles esperados: MeLToSik 1.97 · Edwardson 1.78  
+Ganador: MeLToSik 43% · empate 25% · Edwardson 32%  
+Total: más de 3.5 goles 52% · menos 48%  
+Hándicap MeLToSik: −1.5 24% · −2.5 11%  
 🔎 **Claves**  
-• Forma: MeLToSik ➖✅❌✅✅ | dm1trena ❌➖❌❌✅  
-• Partidos: MeLToSik 1309 | dm1trena 1154  
-• Liga: Bundesliga  
-• Unibet: 1 2.48 · X 3.50 · 2 2.16 (sin margen 35%/25%/40%) · ventaja +18%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.48 (+18%) · Paf España 2.48 (+18%)  
+• Forma: MeLToSik ❌✅✅❌❌ | Edwardson ✅❌❌❌❌  
+• Partidos: MeLToSik 1311 | Edwardson 1280  
+• Liga: LaLiga  
+• Unibet: 1 2.48 · X 3.30 · 2 2.25 (sin margen 35%/26%/39%) · ventaja +7%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.48 (+7%) · Paf España 2.48 (+7%)  
 
-## Ganger_29 vs Pavlinho19 — 16/11 · 13:22
+## zoyir vs TikitakaMaster — 16/11 · 13:44
 
-👀 candidata · 🎮⚽ FC 27 · FA Cup · **Gana Pavlinho19** @ **2.04** (Unibet) · prob 56% vs casas 43% · ventaja +14%
+👀 candidata · 🎮⚽ FC 27 · Champions League A 2x6 · **Gana zoyir** @ **3.15** (Unibet) · prob 36% vs casas 28% · ventaja +12%
 
-- ✅ Valor: ventaja +14% (mín. 12% con la incertidumbre, máx. 30%)
+- ✅ Valor: ventaja +12% (mín. 11% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 70.122 partidos)  
-Goles esperados: Ganger_29 2.16 · Pavlinho19 3.08  
-Ganador: Ganger_29 25% · empate 19% · Pavlinho19 56%  
-Total: más de 5.5 goles 43% · menos 57%  
-Hándicap Pavlinho19: −1.5 39% · −2.5 24%  
+📊 **Escenarios** (Poisson por jugador, 70.148 partidos)  
+Goles esperados: zoyir 3.81 · TikitakaMaster 4.16  
+Ganador: zoyir 36% · empate 16% · TikitakaMaster 48%  
+Total: más de 7.5 goles 54% · menos 46%  
+Hándicap TikitakaMaster: −1.5 34% · −2.5 22%  
 🔎 **Claves**  
-• Forma: Ganger_29 ❌✅❌❌❌ | Pavlinho19 ❌✅✅✅❌  
-• Partidos: Ganger_29 982 | Pavlinho19 1096  
-• Liga: FA Cup  
-• Unibet: 1 2.48 · X 3.90 · 2 2.04 (sin margen 35%/22%/43%) · ventaja +14%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.04 (+14%) · Paf España 2.04 (+14%)  
+• Forma: zoyir ✅✅❌❌✅ | TikitakaMaster ➖✅❌✅✅  
+• Partidos: zoyir 605 | TikitakaMaster 750  
+• Liga: Champions League A 2x6  
+• Unibet: 1 3.15 · X 4.70 · 2 1.64 (sin margen 28%/19%/53%) · ventaja +12%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 3.15 (+12%) · Paf España 3.15 (+12%)  
+
+## cl1vlind vs A1ose — 16/11 · 13:49
+
+👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana A1ose** @ **2.23** (Unibet) · prob 48% vs casas 39% · ventaja +8%
+
+- ❌ Valor: ventaja +8% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 70.148 partidos)  
+Goles esperados: cl1vlind 2.85 · A1ose 3.24  
+Ganador: cl1vlind 33% · empate 19% · A1ose 48%  
+Total: más de 6.5 goles 41% · menos 59%  
+Hándicap A1ose: −1.5 32% · −2.5 19%  
+🔎 **Claves**  
+• Forma: cl1vlind ➖➖✅❌❌ | A1ose ➖❌✅✅❌  
+• Partidos: cl1vlind 696 | A1ose 1038  
+• Liga: Champions League B  
+• Unibet: 1 2.80 · X 2.88 · 2 2.23 (sin margen 31%/30%/39%) · ventaja +8%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.23 (+8%) · Paf España 2.23 (+8%)  
 

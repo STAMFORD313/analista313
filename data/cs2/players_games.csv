@@ -34872,3 +34872,6 @@ game_id,match_id,slug,date,tier,bo,tournament_id,tournament,t1_id,t2_id,team1,te
 192387,133211,galorys-cs-vs-barca-br-15-11-2026,2026-11-15T21:10:00.000+00:00,b,3,5624,CCT South America 2026 Series 8,10049,25580,Galorys,BARCA,3,de_nuke,10049,13.0,9.0
 192388,133211,galorys-cs-vs-barca-br-15-11-2026,2026-11-15T21:10:00.000+00:00,b,3,5624,CCT South America 2026 Series 8,10049,25580,Galorys,BARCA,2,de_inferno,25580,13.0,8.0
 192389,133211,galorys-cs-vs-barca-br-15-11-2026,2026-11-15T21:10:00.000+00:00,b,3,5624,CCT South America 2026 Series 8,10049,25580,Galorys,BARCA,1,de_ancient,10049,13.0,11.0
+193368,133857,ex-rustec-vs-butterfly-16-11-2026,2026-11-16T09:00:00.000+00:00,b,3,6240,NODWIN Clutch Series 14,24857,24855,ex-RUSTEC,Butterfly,3,de_dust2,24855,13.0,10.0
+193369,133857,ex-rustec-vs-butterfly-16-11-2026,2026-11-16T09:00:00.000+00:00,b,3,6240,NODWIN Clutch Series 14,24857,24855,ex-RUSTEC,Butterfly,2,de_ancient,24855,13.0,4.0
+193370,133857,ex-rustec-vs-butterfly-16-11-2026,2026-11-16T09:00:00.000+00:00,b,3,6240,NODWIN Clutch Series 14,24857,24855,ex-RUSTEC,Butterfly,1,de_nuke,24857,13.0,8.0
