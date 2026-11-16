@@ -1,25 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 16/11/2026 06:24 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## zoyir vs TikitakaMaster — 16/11 · 06:54
-
-👀 candidata · 🎮⚽ FC 27 · Premier League 2x6 · **Gana zoyir** @ **3.15** (Unibet) · prob 35% vs casas 28% · ventaja +10%
-
-- ❌ Valor: ventaja +10% (mín. 11% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 69.779 partidos)  
-Goles esperados: zoyir 3.64 · TikitakaMaster 4.13  
-Ganador: zoyir 35% · empate 16% · TikitakaMaster 49%  
-Total: más de 7.5 goles 51% · menos 49%  
-Hándicap TikitakaMaster: −1.5 35% · −2.5 23%  
-🔎 **Claves**  
-• Forma: zoyir ❌✅❌❌✅ | TikitakaMaster ✅❌✅✅✅  
-• Partidos: zoyir 589 | TikitakaMaster 734  
-• Liga: Premier League 2x6  
-• Unibet: 1 3.15 · X 4.80 · 2 1.62 (sin margen 28%/18%/54%) · ventaja +10%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 3.15 (+10%) · Paf España 3.15 (+10%)  
+Actualizado 16/11/2026 06:54 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## DaVa vs dm1trena — 16/11 · 07:00
 
@@ -58,4 +39,42 @@ Hándicap RuBIX: −1.5 32% · −2.5 20%
 • Liga: World Cup A  
 • Unibet: 1 2.70 · X 5.10 · 2 1.74 (sin margen 32%/17%/50%) · ventaja +21%. Sin stake hasta demostrar ROI con estas cuotas.  
 • En España: LeoVegas España 2.70 (+21%) · Paf España 2.70 (+21%)  
+
+## TikitakaMaster vs v1nniePuh — 16/11 · 07:12
+
+👀 candidata · 🎮⚽ FC 27 · Premier League 2x6 · **Empate** @ **8.00** (Unibet) · prob 14% vs casas 11% · ventaja +15%
+
+- ✅ Valor: ventaja +15% (mín. 12% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 69.800 partidos)  
+Goles esperados: TikitakaMaster 4.85 · v1nniePuh 3.90  
+Ganador: TikitakaMaster 59% · empate 14% · v1nniePuh 27%  
+Total: más de 8.5 goles 51% · menos 49%  
+Hándicap TikitakaMaster: −1.5 42% · −2.5 30%  
+🔎 **Claves**  
+• Forma: TikitakaMaster ❌✅✅✅✅ | v1nniePuh ✅➖➖❌❌  
+• Partidos: TikitakaMaster 735 | v1nniePuh 718  
+• Liga: Premier League 2x6  
+• Unibet: 1 1.44 · X 8.00 · 2 3.05 (sin margen 61%/11%/29%) · ventaja +15%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 8.00 (+15%) · Paf España 8.00 (+15%)  
+
+## Loka vs kamito — 16/11 · 07:14
+
+👀 candidata · 🎮⚽ FC 27 · MLS · **Gana Loka** @ **1.32** (Unibet) · prob 81% vs casas 66% · ventaja +7%
+
+- ❌ Valor: ventaja +7% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 69.800 partidos)  
+Goles esperados: Loka 5.13 · kamito 2.53  
+Ganador: Loka 81% · empate 10% · kamito 9%  
+Total: más de 7.5 goles 50% · menos 50%  
+Hándicap Loka: −1.5 65% · −2.5 51%  
+🔎 **Claves**  
+• Forma: Loka ✅❌✅✅✅ | kamito ➖✅✅✅❌  
+• Partidos: Loka 1296 | kamito 580  
+• Liga: MLS  
+• Unibet: 1 1.32 · X 5.75 · 2 4.50 (sin margen 66%/15%/19%) · ventaja +7%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 1.32 (+7%) · Paf España 1.32 (+7%)  
 
