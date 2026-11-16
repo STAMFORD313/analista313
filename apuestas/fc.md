@@ -1,6 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 16/11/2026 01:22 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 16/11/2026 01:52 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Grellz vs kkikus — 16/11 · 02:27
 
@@ -17,6 +17,24 @@ Hándicap Grellz: −1.5 59% · −2.5 42%
 🔎 **Claves**  
 • Forma: Grellz ❌✅❌➖✅ | kkikus ❌❌❌❌➖  
 • Partidos: Grellz 1221 | kkikus 1039  
+• Liga: Champions League B  
+• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
+
+## kkikus vs Nightxx — 16/11 · 02:39
+
+👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana Nightxx** @ **1.36** (cuota justa (sin casa)) · prob 74% vs casas 74% · ventaja +0%
+
+- ❌ Valor: ventaja +0% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 69.589 partidos)  
+Goles esperados: kkikus 2.34 · Nightxx 4.20  
+Ganador: kkikus 13% · empate 13% · Nightxx 74%  
+Total: más de 6.5 goles 48% · menos 52%  
+Hándicap Nightxx: −1.5 55% · −2.5 39%  
+🔎 **Claves**  
+• Forma: kkikus ❌❌➖➖❌ | Nightxx ✅❌✅❌✅  
+• Partidos: kkikus 1041 | Nightxx 992  
 • Liga: Champions League B  
 • Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
 
@@ -53,6 +71,24 @@ Hándicap Nightxx: −1.5 59% · −2.5 44%
 🔎 **Claves**  
 • Forma: ssstasonn ✅❌➖❌➖ | Nightxx ✅✅❌✅❌  
 • Partidos: ssstasonn 1108 | Nightxx 991  
+• Liga: Champions League B  
+• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
+
+## kkikus vs Grellz — 16/11 · 03:27
+
+👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana Grellz** @ **1.29** (cuota justa (sin casa)) · prob 78% vs casas 78% · ventaja +0%
+
+- ❌ Valor: ventaja +0% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 69.589 partidos)  
+Goles esperados: kkikus 2.03 · Grellz 4.09  
+Ganador: kkikus 10% · empate 12% · Grellz 78%  
+Total: más de 6.5 goles 41% · menos 59%  
+Hándicap Grellz: −1.5 58% · −2.5 42%  
+🔎 **Claves**  
+• Forma: kkikus ❌❌➖➖❌ | Grellz ❌➖✅➖➖  
+• Partidos: kkikus 1041 | Grellz 1223  
 • Liga: Champions League B  
 • Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
 

@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 16/11/2026 01:22 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 16/11/2026 01:52 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## ROUNDS vs BOJONG — 16/11 · 16:30
 

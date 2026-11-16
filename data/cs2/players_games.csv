@@ -34869,3 +34869,6 @@ game_id,match_id,slug,date,tier,bo,tournament_id,tournament,t1_id,t2_id,team1,te
 193245,133771,tpudcatb-tpu-vs-eternal-fire-15-11-2026,2026-11-15T18:45:00.000+00:00,b,3,6251,PGL Cluj-Napoca 2027: Closed Qualifier,22191,1527,33,Eternal Fire,1,de_inferno,1527,13.0,9.0
 192887,133392,butterfly-vs-hype-tech-15-11-2026,2026-11-15T18:50:00.000+00:00,b,3,5629,CCT Europe 2026 Series 14,24855,25790,Butterfly,Hype Tech,2,de_nuke,24855,16.0,12.0
 192888,133392,butterfly-vs-hype-tech-15-11-2026,2026-11-15T18:50:00.000+00:00,b,3,5629,CCT Europe 2026 Series 14,24855,25790,Butterfly,Hype Tech,1,de_inferno,24855,16.0,13.0
+192387,133211,galorys-cs-vs-barca-br-15-11-2026,2026-11-15T21:10:00.000+00:00,b,3,5624,CCT South America 2026 Series 8,10049,25580,Galorys,BARCA,3,de_nuke,10049,13.0,9.0
+192388,133211,galorys-cs-vs-barca-br-15-11-2026,2026-11-15T21:10:00.000+00:00,b,3,5624,CCT South America 2026 Series 8,10049,25580,Galorys,BARCA,2,de_inferno,25580,13.0,8.0
+192389,133211,galorys-cs-vs-barca-br-15-11-2026,2026-11-15T21:10:00.000+00:00,b,3,5624,CCT South America 2026 Series 8,10049,25580,Galorys,BARCA,1,de_ancient,10049,13.0,11.0
