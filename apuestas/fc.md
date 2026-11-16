@@ -1,44 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 16/11/2026 11:07 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## A1ose vs v1nn — 16/11 · 11:15
-
-👀 candidata · 🎮⚽ FC 27 · World Cup B · **Gana A1ose** @ **2.63** (Unibet) · prob 40% vs casas 33% · ventaja +6%
-
-- ❌ Valor: ventaja +6% (mín. 10% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 70.012 partidos)  
-Goles esperados: A1ose 3.71 · v1nn 3.69  
-Ganador: A1ose 40% · empate 17% · v1nn 43%  
-Total: más de 7.5 goles 46% · menos 54%  
-Hándicap A1ose: −1.5 29% · −2.5 18%  
-🔎 **Claves**  
-• Forma: A1ose ✅✅✅✅✅ | v1nn ❌❌❌✅➖  
-• Partidos: A1ose 1029 | v1nn 683  
-• Liga: World Cup B  
-• Unibet: 1 2.63 · X 4.90 · 2 1.79 (sin margen 33%/18%/49%) · ventaja +6%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.63 (+6%) · Paf España 2.63 (+6%)  
-
-## Loka vs spirtes — 16/11 · 11:20
-
-👀 candidata · 🎮⚽ FC 27 · CSL · **Gana Loka** @ **1.32** (Unibet) · prob 81% vs casas 66% · ventaja +7%
-
-- ❌ Valor: ventaja +7% (mín. 10% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 70.028 partidos)  
-Goles esperados: Loka 5.13 · spirtes 2.33  
-Ganador: Loka 81% · empate 10% · spirtes 10%  
-Total: más de 7.5 goles 47% · menos 53%  
-Hándicap Loka: −1.5 68% · −2.5 54%  
-🔎 **Claves**  
-• Forma: Loka ❌✅❌✅✅ | spirtes ❌❌❌❌❌  
-• Partidos: Loka 1312 | spirtes 1236  
-• Liga: CSL  
-• Unibet: 1 1.32 · X 7.00 · 2 3.95 (sin margen 66%/12%/22%) · ventaja +7%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 1.32 (+7%) · Paf España 1.32 (+7%)  
+Actualizado 16/11/2026 11:23 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## zoyir vs why — 16/11 · 11:36
 
@@ -77,4 +39,42 @@ Hándicap RuBIX: −1.5 34% · −2.5 21%
 • Liga: World Cup B  
 • Unibet: 1 2.65 · X 5.40 · 2 1.73 (sin margen 33%/16%/51%) · ventaja +24%. Sin stake hasta demostrar ROI con estas cuotas.  
 • En España: LeoVegas España 2.65 (+24%) · Paf España 2.65 (+24%)  
+
+## dm1trena vs Jekunam — 16/11 · 11:42
+
+👀 candidata · 🎮⚽ FC 27 · Bundesliga · **Gana Jekunam** @ **2.14** (Unibet) · prob 51% vs casas 40% · ventaja +10%
+
+- ❌ Valor: ventaja +10% (mín. 11% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 70.034 partidos)  
+Goles esperados: dm1trena 2.19 · Jekunam 2.64  
+Ganador: dm1trena 28% · empate 21% · Jekunam 51%  
+Total: más de 4.5 goles 53% · menos 47%  
+Hándicap Jekunam: −1.5 31% · −2.5 17%  
+🔎 **Claves**  
+• Forma: dm1trena ✅❌❌✅❌ | Jekunam ➖✅➖✅✅  
+• Partidos: dm1trena 1149 | Jekunam 1197  
+• Liga: Bundesliga  
+• Unibet: 1 2.95 · X 2.88 · 2 2.14 (sin margen 29%/30%/41%) · ventaja +10%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.14 (+10%) · Paf España 2.14 (+10%)  
+
+## Pavlinho19 vs Maxa — 16/11 · 11:48
+
+👀 candidata · 🎮⚽ FC 27 · World Cup A · **Gana Pavlinho19** @ **2.23** (Unibet) · prob 47% vs casas 39% · ventaja +5%
+
+- ❌ Valor: ventaja +5% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 70.034 partidos)  
+Goles esperados: Pavlinho19 2.94 · Maxa 2.50  
+Ganador: Pavlinho19 47% · empate 20% · Maxa 33%  
+Total: más de 5.5 goles 46% · menos 54%  
+Hándicap Pavlinho19: −1.5 32% · −2.5 18%  
+🔎 **Claves**  
+• Forma: Pavlinho19 ✅✅✅✅✅ | Maxa ✅❌✅❌✅  
+• Partidos: Pavlinho19 1089 | Maxa 1069  
+• Liga: World Cup A  
+• Unibet: 1 2.23 · X 4.30 · 2 2.15 (sin margen 39%/20%/41%) · ventaja +5%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.23 (+5%) · Paf España 2.23 (+5%)  
 
