@@ -1,80 +1,61 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 16/11/2026 21:33 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 16/11/2026 22:04 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## Animal vs chevare — 16/11 · 21:34
+## Gazi vs ramzes — 16/11 · 22:08
 
-👀 candidata · 🎮⚽ FC 27 · Premier League · **Gana chevare** @ **2.80** (Unibet) · prob 40% vs casas 31% · ventaja +13%
+👀 candidata · 🎮⚽ FC 27 · Copa America · **Empate** @ **6.10** (Unibet) · prob 20% vs casas 14% · ventaja +23%
 
-- ✅ Valor: ventaja +13% (mín. 12% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 70.569 partidos)  
-Goles esperados: Animal 3.46 · chevare 3.59  
-Ganador: Animal 42% · empate 17% · chevare 40%  
-Total: más de 7.5 goles 41% · menos 59%  
-Hándicap chevare: −1.5 30% · −2.5 18%  
-🔎 **Claves**  
-• Forma: Animal ➖✅❌✅✅ | chevare ✅❌❌✅❌  
-• Partidos: Animal 979 | chevare 738  
-• Liga: Premier League  
-• Unibet: 1 2.00 · X 3.40 · 2 2.80 (sin margen 43%/26%/31%) · ventaja +13%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.80 (+13%) · Paf España 2.80 (+13%)  
-
-## ramzes vs SDI — 16/11 · 21:44
-
-👀 candidata · 🎮⚽ FC 27 · Copa America · **Empate** @ **7.00** (Unibet) · prob 17% vs casas 12% · ventaja +18%
-
-- ✅ Valor: ventaja +18% (mín. 13% con la incertidumbre, máx. 30%)
+- ✅ Valor: ventaja +23% (mín. 14% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 70.590 partidos)  
-Goles esperados: ramzes 3.88 · SDI 3.33  
-Ganador: ramzes 48% · empate 17% · SDI 35%  
-Total: más de 7.5 goles 43% · menos 57%  
-Hándicap ramzes: −1.5 36% · −2.5 23%  
+📊 **Escenarios** (Poisson por jugador, 70.618 partidos)  
+Goles esperados: Gazi 2.65 · ramzes 2.82  
+Ganador: Gazi 40% · empate 20% · ramzes 40%  
+Total: más de 5.5 goles 46% · menos 54%  
+Hándicap ramzes: −1.5 28% · −2.5 15%  
 🔎 **Claves**  
-• Forma: ramzes ✅✅❌❌❌ | SDI ✅✅❌➖❌  
-• Partidos: ramzes 1165 | SDI 641  
+• Forma: Gazi ✅✅✅❌❌ | ramzes ❌❌❌❌➖  
+• Partidos: Gazi 530 | ramzes 1167  
 • Liga: Copa America  
-• Unibet: 1 1.67 · X 7.00 · 2 2.48 (sin margen 52%/12%/35%) · ventaja +18%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 7.00 (+18%) · Paf España 7.00 (+18%)  
+• Unibet: 1 2.20 · X 6.10 · 2 1.92 (sin margen 40%/14%/46%) · ventaja +23%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 6.10 (+23%) · Paf España 6.10 (+23%)  
 
-## Gazi vs Shinobu — 16/11 · 21:44
+## Buu vs Piljar — 16/11 · 22:14
 
-👀 candidata · 🎮⚽ FC 27 · Copa America · **Gana Gazi** @ **2.75** (Unibet) · prob 41% vs casas 32% · ventaja +12%
+👀 candidata · 🎮⚽ FC 27 · Champions League B 2x6 · **Gana Buu** @ **3.90** (Unibet) · prob 29% vs casas 22% · ventaja +12%
 
 - ✅ Valor: ventaja +12% (mín. 11% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 70.590 partidos)  
-Goles esperados: Gazi 2.36 · Shinobu 2.28  
-Ganador: Gazi 41% · empate 22% · Shinobu 37%  
-Total: más de 4.5 goles 49% · menos 51%  
-Hándicap Gazi: −1.5 25% · −2.5 12%  
+📊 **Escenarios** (Poisson por jugador, 70.618 partidos)  
+Goles esperados: Buu 4.10 · Piljar 5.18  
+Ganador: Buu 29% · empate 14% · Piljar 57%  
+Total: más de 9.5 goles 45% · menos 55%  
+Hándicap Piljar: −1.5 44% · −2.5 31%  
 🔎 **Claves**  
-• Forma: Gazi ❌✅✅✅✅ | Shinobu ❌❌❌❌✅  
-• Partidos: Gazi 528 | Shinobu 1553  
-• Liga: Copa America  
-• Unibet: 1 2.75 · X 3.80 · 2 1.91 (sin margen 32%/23%/46%) · ventaja +12%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.75 (+12%) · Paf España 2.75 (+12%)  
+• Forma: Buu ✅✅❌❌✅ | Piljar ✅✅❌❌❌  
+• Partidos: Buu 853 | Piljar 547  
+• Liga: Champions League B 2x6  
+• Unibet: 1 3.90 · X 6.40 · 2 1.35 (sin margen 22%/14%/64%) · ventaja +12%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 3.90 (+12%) · Paf España 3.90 (+12%)  
 
-## SDI vs Gazi — 16/11 · 21:56
+## Simaponika vs believer — 16/11 · 22:31
 
-👀 candidata · 🎮⚽ FC 27 · Copa America · **Gana Gazi** @ **2.40** (Unibet) · prob 46% vs casas 36% · ventaja +10%
+👀 candidata · 🎮⚽ FC 27 · World Cup A · **Empate** @ **5.60** (Unibet) · prob 19% vs casas 16% · ventaja +8%
 
-- ❌ Valor: ventaja +10% (mín. 11% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+- ❌ Valor: ventaja +8% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 70.590 partidos)  
-Goles esperados: SDI 2.68 · Gazi 2.96  
-Ganador: SDI 35% · empate 20% · Gazi 46%  
-Total: más de 5.5 goles 49% · menos 51%  
-Hándicap Gazi: −1.5 30% · −2.5 17%  
+📊 **Escenarios** (Poisson por jugador, 70.618 partidos)  
+Goles esperados: Simaponika 2.12 · believer 2.92  
+Ganador: Simaponika 22% · empate 19% · believer 58%  
+Total: más de 5.5 goles 39% · menos 61%  
+Hándicap believer: −1.5 37% · −2.5 22%  
 🔎 **Claves**  
-• Forma: SDI ✅✅❌➖❌ | Gazi ❌✅✅✅✅  
-• Partidos: SDI 641 | Gazi 528  
-• Liga: Copa America  
-• Unibet: 1 2.00 · X 4.30 · 2 2.40 (sin margen 44%/20%/36%) · ventaja +10%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.40 (+10%) · Paf España 2.40 (+10%)  
+• Forma: Simaponika ❌✅✅✅✅ | believer ✅❌❌✅✅  
+• Partidos: Simaponika 1272 | believer 1173  
+• Liga: World Cup A  
+• Unibet: 1 4.00 · X 5.60 · 2 1.38 (sin margen 22%/15%/63%) · ventaja +8%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 5.60 (+8%) · Paf España 5.60 (+8%)  
 

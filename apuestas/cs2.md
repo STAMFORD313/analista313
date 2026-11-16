@@ -1,26 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 16/11/2026 21:33 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## 9z Academy vs street dogs — 16/11 · 22:00
-
-👀 candidata · 🎮 CS2 · CCT South America 2026 Challengers 4 · **Gana 9z Academy** @ **1.68** (Thunderpick) · prob 57% vs casas 55% · ventaja -4%
-
-- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 76.914 partidos)  
-Mapa: 9z Academy 56% · Serie BO3: 9z Academy 59% - 41% street dogs  
-Casas: 9z Academy 55% · street dogs 45%  
-🔎 **Claves**  
-• Elo: 9z Academy 1395 (160 series) | street dogs 1327 (1 series)  
-• Forma: 9z Academy ❌❌❌❌❌ | street dogs ❌  
-• H2H: sin precedentes  
-• Torneo: CCT South America 2026 Challengers 4 (nivel C)  
-• Cambios de plantilla: ninguno  
-🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
-• 9z Academy gana 2-1: 24% → cuota justa 4.13  
-• street dogs gana 2-1: 19% → cuota justa 5.33  
+Actualizado 16/11/2026 22:04 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Mira vs RUSH — 17/11 · 00:45
 

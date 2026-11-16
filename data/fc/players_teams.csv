@@ -70626,3 +70626,13 @@ id,tournament_id,club1,club2,ht1,ht2
 2383659,262197,Roma,Napoli,,
 2383660,262197,Bologna,Roma,,
 2382812,262197,Sassuolo,Juventus,,
+2383627,262203,Ecuador,Argentina,1,2
+2383628,262203,Colombia,Brazil,1,2
+2383629,262203,Brazil,Ecuador,3,0
+2383630,262203,Argentina,Uruguay,2,0
+2383631,262203,Uruguay,Brazil,0,1
+2383632,262203,Ecuador,Colombia,2,1
+2383633,262203,Colombia,Uruguay,1,1
+2383634,262203,Brazil,Argentina,1,1
+2383635,262203,Argentina,Colombia,,
+2383636,262203,Uruguay,Ecuador,,
