@@ -1,25 +1,25 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 16/11/2026 20:59 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 16/11/2026 21:08 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## Lx7ss vs Bjela — 16/11 · 21:04
+## Firminho vs Dicca — 16/11 · 21:19
 
-👀 candidata · 🎮⚽ FC 27 · Europa League · **Gana Lx7ss** @ **2.55** (Unibet) · prob 43% vs casas 34% · ventaja +10%
+👀 candidata · 🎮⚽ FC 27 · Serie A · **Empate** @ **6.00** (Unibet) · prob 19% vs casas 15% · ventaja +12%
 
-- ❌ Valor: ventaja +10% (mín. 11% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+- ✅ Valor: ventaja +12% (mín. 11% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 70.534 partidos)  
-Goles esperados: Lx7ss 2.97 · Bjela 2.88  
-Ganador: Lx7ss 43% · empate 19% · Bjela 38%  
-Total: más de 5.5 goles 53% · menos 47%  
-Hándicap Lx7ss: −1.5 27% · −2.5 15%  
+📊 **Escenarios** (Poisson por jugador, 70.569 partidos)  
+Goles esperados: Firminho 2.99 · Dicca 3.19  
+Ganador: Firminho 37% · empate 19% · Dicca 44%  
+Total: más de 6.5 goles 42% · menos 58%  
+Hándicap Dicca: −1.5 29% · −2.5 17%  
 🔎 **Claves**  
-• Forma: Lx7ss ❌✅➖❌❌ | Bjela ➖✅❌❌✅  
-• Partidos: Lx7ss 1172 | Bjela 891  
-• Liga: Europa League  
-• Unibet: 1 2.55 · X 3.90 · 2 1.98 (sin margen 34%/22%/44%) · ventaja +10%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.55 (+10%) · Paf España 2.55 (+10%)  
+• Forma: Firminho ✅✅❌✅❌ | Dicca ➖❌✅❌❌  
+• Partidos: Firminho 876 | Dicca 838  
+• Liga: Serie A  
+• Unibet: 1 2.14 · X 6.00 · 2 2.00 (sin margen 41%/15%/44%) · ventaja +12%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 6.00 (+12%) · Paf España 6.00 (+12%)  
 
 ## steeffant vs Buu — 16/11 · 21:20
 
@@ -77,4 +77,42 @@ Hándicap Shinobu: −1.5 29% · −2.5 17%
 • Liga: Copa America  
 • Unibet: 1 2.48 · X 6.10 · 2 1.76 (sin margen 36%/14%/50%) · ventaja +15%. Sin stake hasta demostrar ROI con estas cuotas.  
 • En España: LeoVegas España 6.10 (+15%) · Paf España 6.10 (+15%)  
+
+## hit vs Krkula — 16/11 · 21:22
+
+👀 candidata · 🎮⚽ FC 27 · Premier League · **Gana hit** @ **2.43** (Unibet) · prob 46% vs casas 36% · ventaja +13%
+
+- ✅ Valor: ventaja +13% (mín. 11% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 70.569 partidos)  
+Goles esperados: hit 2.82 · Krkula 2.55  
+Ganador: hit 46% · empate 20% · Krkula 33%  
+Total: más de 5.5 goles 45% · menos 55%  
+Hándicap hit: −1.5 29% · −2.5 16%  
+🔎 **Claves**  
+• Forma: hit ➖✅✅✅❌ | Krkula ➖❌✅❌✅  
+• Partidos: hit 857 | Krkula 787  
+• Liga: Premier League  
+• Unibet: 1 2.43 · X 4.20 · 2 2.00 (sin margen 36%/21%/43%) · ventaja +13%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.43 (+13%) · Paf España 2.43 (+13%)  
+
+## Animal vs chevare — 16/11 · 21:34
+
+👀 candidata · 🎮⚽ FC 27 · Premier League · **Gana chevare** @ **2.80** (Unibet) · prob 40% vs casas 31% · ventaja +13%
+
+- ✅ Valor: ventaja +13% (mín. 12% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 70.569 partidos)  
+Goles esperados: Animal 3.46 · chevare 3.59  
+Ganador: Animal 42% · empate 17% · chevare 40%  
+Total: más de 7.5 goles 41% · menos 59%  
+Hándicap chevare: −1.5 30% · −2.5 18%  
+🔎 **Claves**  
+• Forma: Animal ➖✅❌✅✅ | chevare ✅❌❌✅❌  
+• Partidos: Animal 979 | chevare 738  
+• Liga: Premier League  
+• Unibet: 1 2.00 · X 3.40 · 2 2.80 (sin margen 43%/26%/31%) · ventaja +13%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.80 (+13%) · Paf España 2.80 (+13%)  
 

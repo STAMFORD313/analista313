@@ -1,43 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 16/11/2026 20:59 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## eSuba vs OldBoys FR — 16/11 · 21:00
-
-👀 candidata · 🎮 CS2 · ESEA Season 59: Advanced Division - Europe · **Gana OldBoys FR** @ **1.75** (Thunderpick) · prob 56% vs casas 53% · ventaja -2%
-
-- ❌ Valor: ventaja -2% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 76.860 partidos)  
-Mapa: eSuba 41% · Serie BO1: eSuba 41% - 59% OldBoys FR  
-Casas: eSuba 47% · OldBoys FR 53%  
-🔎 **Claves**  
-• Elo: eSuba 1490 (94 series) | OldBoys FR 1550 (55 series)  
-• Forma: eSuba ❌❌❌✅❌ | OldBoys FR ✅❌❌❌❌  
-• H2H: sin precedentes  
-• Torneo: ESEA Season 59: Advanced Division - Europe (nivel C)  
-• Cambios de plantilla: ninguno  
-
-## DISFARÇADOS vs ALKA — 16/11 · 21:00
-
-👀 candidata · 🎮 CS2 · Gamers Club Liga Série A: November 2026 · **Gana DISFARÇADOS** @ **6.50** (Thunderpick) · prob 42% vs casas 14% · ventaja +170%
-
-- ❌ Valor: ventaja +170% (mín. 50% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 76.906 partidos)  
-Mapa: DISFARÇADOS 63% · Serie BO3: DISFARÇADOS 69% - 31% ALKA  
-Casas: DISFARÇADOS 14% · ALKA 86%  
-🔎 **Claves**  
-• Elo: DISFARÇADOS 1642 (1 series) | ALKA 1501 (103 series)  
-• Forma: DISFARÇADOS ✅ | ALKA ❌✅❌✅✅  
-• H2H: sin precedentes  
-• Torneo: Gamers Club Liga Série A: November 2026 (nivel C)  
-• Cambios de plantilla: ninguno  
-🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
-• DISFARÇADOS gana 2-1: 25% → cuota justa 4.01  
-• ALKA gana 2-1: 15% → cuota justa 6.78  
+Actualizado 16/11/2026 21:08 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## 9z Academy vs street dogs — 16/11 · 22:00
 
