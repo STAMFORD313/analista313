@@ -69636,8 +69636,8 @@ id,tournament_id,club1,club2,ht1,ht2
 2381042,262052,Real Madrid,Paris,,
 2381043,262052,River Plate,Real Madrid,,
 2381044,262052,Man City,Boca Juniors,,
-2381579,262105,Germany,Netherlands,0,3
-2381580,262105,Morocco,Belgium,1,5
+2381579,262105,Germany,Netherlands,0.0,3.0
+2381580,262105,Morocco,Belgium,1.0,5.0
 2381581,262105,Belgium,Germany,,
 2381582,262105,Netherlands,Portugal,,
 2381583,262105,Portugal,Belgium,,
@@ -69656,3 +69656,23 @@ id,tournament_id,club1,club2,ht1,ht2
 2381596,262105,Netherlands,Belgium,,
 2381597,262105,Morocco,Netherlands,,
 2381598,262105,Germany,Portugal,,
+2381045,262053,Germany,Argentina,0,2
+2381046,262053,England,France,0,2
+2381047,262053,France,Germany,2,1
+2381048,262053,Argentina,Spain,2,1
+2381049,262053,Spain,France,,
+2381050,262053,Germany,England,,
+2381051,262053,England,Spain,,
+2381052,262053,France,Argentina,,
+2381053,262053,Argentina,England,,
+2381054,262053,Spain,Germany,,
+2381055,262053,Argentina,Germany,,
+2381056,262053,France,England,,
+2381057,262053,Germany,France,,
+2381058,262053,Spain,Argentina,,
+2381059,262053,France,Spain,,
+2381060,262053,England,Germany,,
+2381061,262053,Spain,England,,
+2381062,262053,Argentina,France,,
+2381063,262053,England,Argentina,,
+2381064,262053,Germany,Spain,,

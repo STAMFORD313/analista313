@@ -1,24 +1,25 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 16/11/2026 02:53 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 16/11/2026 03:10 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## ssstasonn vs Nightxx — 16/11 · 03:03
+## mixes vs Djape — 16/11 · 03:12
 
-👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana Nightxx** @ **1.28** (cuota justa (sin casa)) · prob 78% vs casas 78% · ventaja +0%
+👀 candidata · 🎮⚽ FC 27 · World Cup B · **Gana Djape** @ **2.15** (Unibet) · prob 56% vs casas 41% · ventaja +21%
 
-- ❌ Valor: ventaja +0% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+- ✅ Valor: ventaja +21% (mín. 13% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 69.569 partidos)  
-Goles esperados: ssstasonn 2.38 · Nightxx 4.52  
-Ganador: ssstasonn 11% · empate 11% · Nightxx 78%  
-Total: más de 6.5 goles 54% · menos 46%  
-Hándicap Nightxx: −1.5 59% · −2.5 44%  
+📊 **Escenarios** (Poisson por jugador, 69.639 partidos)  
+Goles esperados: mixes 3.15 · Djape 3.98  
+Ganador: mixes 27% · empate 16% · Djape 56%  
+Total: más de 7.5 goles 42% · menos 58%  
+Hándicap Djape: −1.5 40% · −2.5 26%  
 🔎 **Claves**  
-• Forma: ssstasonn ✅❌➖❌➖ | Nightxx ✅✅❌✅❌  
-• Partidos: ssstasonn 1108 | Nightxx 991  
-• Liga: Champions League B  
-• Sin cuota de Unibet para este partido: cuota justa del modelo, solo candidata (no se apuesta).  
+• Forma: mixes ✅❌✅❌❌ | Djape ✅✅✅✅✅  
+• Partidos: mixes 211 | Djape 212  
+• Liga: World Cup B  
+• Unibet: 1 2.23 · X 4.30 · 2 2.15 (sin margen 39%/20%/41%) · ventaja +21%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.15 (+21%) · Paf España 2.15 (+21%)  
 
 ## kkikus vs Grellz — 16/11 · 03:27
 
