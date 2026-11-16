@@ -1,61 +1,61 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 16/11/2026 05:54 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 16/11/2026 06:24 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## Frantsuz vs TikitakaMaster — 16/11 · 06:00
+## zoyir vs TikitakaMaster — 16/11 · 06:54
 
-👀 candidata · 🎮⚽ FC 27 · Premier League 2x6 · **Gana Frantsuz** @ **3.20** (Unibet) · prob 35% vs casas 28% · ventaja +12%
+👀 candidata · 🎮⚽ FC 27 · Premier League 2x6 · **Gana zoyir** @ **3.15** (Unibet) · prob 35% vs casas 28% · ventaja +10%
 
-- ✅ Valor: ventaja +12% (mín. 11% con la incertidumbre, máx. 30%)
+- ❌ Valor: ventaja +10% (mín. 11% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 69.758 partidos)  
-Goles esperados: Frantsuz 4.31 · TikitakaMaster 4.79  
-Ganador: Frantsuz 35% · empate 15% · TikitakaMaster 50%  
-Total: más de 9.5 goles 43% · menos 57%  
-Hándicap TikitakaMaster: −1.5 36% · −2.5 25%  
+📊 **Escenarios** (Poisson por jugador, 69.779 partidos)  
+Goles esperados: zoyir 3.64 · TikitakaMaster 4.13  
+Ganador: zoyir 35% · empate 16% · TikitakaMaster 49%  
+Total: más de 7.5 goles 51% · menos 49%  
+Hándicap TikitakaMaster: −1.5 35% · −2.5 23%  
 🔎 **Claves**  
-• Forma: Frantsuz ❌❌✅➖✅ | TikitakaMaster ✅✅❌✅✅  
-• Partidos: Frantsuz 681 | TikitakaMaster 733  
+• Forma: zoyir ❌✅❌❌✅ | TikitakaMaster ✅❌✅✅✅  
+• Partidos: zoyir 589 | TikitakaMaster 734  
 • Liga: Premier League 2x6  
-• Unibet: 1 3.20 · X 5.50 · 2 1.56 (sin margen 28%/16%/56%) · ventaja +12%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 3.20 (+12%) · Paf España 3.20 (+12%)  
+• Unibet: 1 3.15 · X 4.80 · 2 1.62 (sin margen 28%/18%/54%) · ventaja +10%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 3.15 (+10%) · Paf España 3.15 (+10%)  
 
-## curuza vs KravaRK — 16/11 · 06:02
+## DaVa vs dm1trena — 16/11 · 07:00
 
-👀 candidata · 🎮⚽ FC 27 · Serie A · **Gana curuza** @ **2.38** (Unibet) · prob 47% vs casas 37% · ventaja +13%
+👀 candidata · 🎮⚽ FC 27 · Europa League · **Gana DaVa** @ **1.70** (Unibet) · prob 65% vs casas 51% · ventaja +11%
 
-- ✅ Valor: ventaja +13% (mín. 11% con la incertidumbre, máx. 30%)
+- ❌ Valor: ventaja +11% (mín. 11% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 69.779 partidos)  
+Goles esperados: DaVa 3.03 · dm1trena 1.82  
+Ganador: DaVa 65% · empate 18% · dm1trena 17%  
+Total: más de 4.5 goles 53% · menos 47%  
+Hándicap DaVa: −1.5 44% · −2.5 27%  
+🔎 **Claves**  
+• Forma: DaVa ✅❌✅✅✅ | dm1trena ➖❌❌❌➖  
+• Partidos: DaVa 1318 | dm1trena 1133  
+• Liga: Europa League  
+• Unibet: 1 1.70 · X 3.30 · 2 3.95 (sin margen 51%/26%/22%) · ventaja +11%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 1.70 (+11%) · Paf España 1.70 (+11%)  
+
+## RuBIX vs v1nn — 16/11 · 07:09
+
+👀 candidata · 🎮⚽ FC 27 · World Cup A · **Gana RuBIX** @ **2.70** (Unibet) · prob 45% vs casas 32% · ventaja +21%
+
+- ✅ Valor: ventaja +21% (mín. 13% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 69.758 partidos)  
-Goles esperados: curuza 2.85 · KravaRK 2.46  
-Ganador: curuza 47% · empate 20% · KravaRK 32%  
-Total: más de 5.5 goles 44% · menos 56%  
-Hándicap curuza: −1.5 31% · −2.5 17%  
+📊 **Escenarios** (Poisson por jugador, 69.779 partidos)  
+Goles esperados: RuBIX 3.66 · v1nn 3.35  
+Ganador: RuBIX 45% · empate 17% · v1nn 38%  
+Total: más de 7.5 goles 40% · menos 60%  
+Hándicap RuBIX: −1.5 32% · −2.5 20%  
 🔎 **Claves**  
-• Forma: curuza ❌➖❌✅❌ | KravaRK ✅➖➖➖✅  
-• Partidos: curuza 917 | KravaRK 480  
-• Liga: Serie A  
-• Unibet: 1 2.38 · X 4.20 · 2 2.05 (sin margen 37%/21%/43%) · ventaja +13%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.38 (+13%) · Paf España 2.38 (+13%)  
-
-## Lunjo vs Djape — 16/11 · 06:08
-
-👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana Djape** @ **2.33** (Unibet) · prob 49% vs casas 37% · ventaja +14%
-
-- ✅ Valor: ventaja +14% (mín. 12% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 69.758 partidos)  
-Goles esperados: Lunjo 3.06 · Djape 3.53  
-Ganador: Lunjo 33% · empate 18% · Djape 49%  
-Total: más de 6.5 goles 49% · menos 51%  
-Hándicap Djape: −1.5 34% · −2.5 21%  
-🔎 **Claves**  
-• Forma: Lunjo ❌✅➖❌✅ | Djape ❌✅✅✅✅  
-• Partidos: Lunjo 221 | Djape 222  
-• Liga: Champions League B  
-• Unibet: 1 2.04 · X 4.35 · 2 2.33 (sin margen 43%/20%/37%) · ventaja +14%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.33 (+14%) · Paf España 2.33 (+14%)  
+• Forma: RuBIX ❌✅✅➖❌ | v1nn ❌❌❌❌✅  
+• Partidos: RuBIX 224 | v1nn 667  
+• Liga: World Cup A  
+• Unibet: 1 2.70 · X 5.10 · 2 1.74 (sin margen 32%/17%/50%) · ventaja +21%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.70 (+21%) · Paf España 2.70 (+21%)  
 

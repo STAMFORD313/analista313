@@ -69786,16 +69786,16 @@ id,tournament_id,club1,club2,ht1,ht2
 2381616,262106,Sporting CP,Juventus,,
 2381617,262106,B Dortmund,Sporting CP,,
 2381618,262106,Arsenal,Man City,,
-2380885,262075,Roma,Juventus,1,1
-2380886,262075,Bologna,Sassuolo,0,1
-2380887,262075,Sassuolo,Roma,0,2
-2380888,262075,Juventus,Napoli,2,1
-2380889,262075,Napoli,Sassuolo,0,2
-2380890,262075,Roma,Bologna,0,4
-2380891,262075,Bologna,Napoli,1,2
-2380892,262075,Sassuolo,Juventus,1,1
-2380893,262075,Juventus,Bologna,3,0
-2380894,262075,Napoli,Roma,0,1
+2380885,262075,Roma,Juventus,1.0,1.0
+2380886,262075,Bologna,Sassuolo,0.0,1.0
+2380887,262075,Sassuolo,Roma,0.0,2.0
+2380888,262075,Juventus,Napoli,2.0,1.0
+2380889,262075,Napoli,Sassuolo,0.0,2.0
+2380890,262075,Roma,Bologna,0.0,4.0
+2380891,262075,Bologna,Napoli,1.0,2.0
+2380892,262075,Sassuolo,Juventus,1.0,1.0
+2380893,262075,Juventus,Bologna,3.0,0.0
+2380894,262075,Napoli,Roma,0.0,1.0
 2380895,262075,Juventus,Roma,,
 2380896,262075,Sassuolo,Bologna,,
 2380897,262075,Roma,Sassuolo,,

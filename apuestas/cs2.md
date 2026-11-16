@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 16/11/2026 05:54 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 16/11/2026 06:24 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Tulpar vs Revise — 16/11 · 10:00
 
@@ -515,4 +515,38 @@ Casas: BBL 64% · Phantom 36%
 🔫 **Kills esperados en la serie** (rango 80 %; mejor que la media de sus 10 últimas en 52.570 casos: log-loss 0.6819→0.6556; sin cuotas de props, solo referencia)  
 BBL: Leakz 37 (21-55) · NickyB 33 (19-49) · MistR 33 (19-48) · salazar 32 (18-47) · IceBerg 30 (17-44)  
 Phantom: nicoodoz 39 (22-57) · KEi 35 (20-51) · Kylar 34 (19-50) · Kunai 34 (19-50) · TMB 30 (17-45)  
+
+## aimers vs Banger Gang — 17/11 · 18:00
+
+👀 candidata · 🎮 CS2 · ESEA Season 59: Advanced Division - Europe · **Gana Banger Gang** @ **1.58** (Thunderpick) · prob 66% vs casas 59% · ventaja +4%
+
+- ❌ Valor: ventaja +4% (mín. 8% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 76.906 partidos)  
+Mapa: aimers 27% · Serie BO1: aimers 27% - 73% Banger Gang  
+Casas: aimers 41% · Banger Gang 59%  
+🔎 **Claves**  
+• Elo: aimers 1394 (6 series) | Banger Gang 1565 (73 series)  
+• Forma: aimers ❌❌✅❌✅ | Banger Gang ✅✅❌✅❌  
+• H2H: sin precedentes  
+• Torneo: ESEA Season 59: Advanced Division - Europe (nivel C)  
+• Cambios de plantilla: ninguno  
+
+## ROUNDS vs JUMBO — 17/11 · 18:00
+
+👀 candidata · 🎮 CS2 · ESEA Season 59: Advanced Division - Europe · **Gana ROUNDS** @ **2.36** (Thunderpick) · prob 41% vs casas 40% · ventaja -2%
+
+- ❌ Valor: ventaja -2% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮 no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 76.906 partidos)  
+Mapa: ROUNDS 43% · Serie BO1: ROUNDS 43% - 57% JUMBO  
+Casas: ROUNDS 39% · JUMBO 61%  
+🔎 **Claves**  
+• Elo: ROUNDS 1412 (186 series) | JUMBO 1459 (102 series)  
+• Forma: ROUNDS ✅❌❌❌✅ | JUMBO ✅❌❌❌✅  
+• H2H: 1: 0-1  
+• Torneo: ESEA Season 59: Advanced Division - Europe (nivel C)  
+• Cambios de plantilla: ninguno  
 
