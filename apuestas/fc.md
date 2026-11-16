@@ -1,61 +1,42 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 16/11/2026 16:57 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 16/11/2026 17:27 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
-## Mani vs ZORO — 16/11 · 17:01
+## chevare vs hit — 16/11 · 17:28
 
-👀 candidata · 🎮⚽ FC 27 · Europa League · **Gana ZORO** @ **1.89** (Unibet) · prob 58% vs casas 46% · ventaja +10%
+👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana chevare** @ **3.05** (Unibet) · prob 37% vs casas 28% · ventaja +12%
 
-- ❌ Valor: ventaja +10% (mín. 11% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 70.346 partidos)  
-Goles esperados: Mani 2.90 · ZORO 3.90  
-Ganador: Mani 25% · empate 16% · ZORO 58%  
-Total: más de 6.5 goles 52% · menos 48%  
-Hándicap ZORO: −1.5 42% · −2.5 28%  
-🔎 **Claves**  
-• Forma: Mani ❌❌✅✅✅ | ZORO ❌✅✅✅❌  
-• Partidos: Mani 942 | ZORO 913  
-• Liga: Europa League  
-• Unibet: 1 2.70 · X 3.95 · 2 1.89 (sin margen 32%/22%/46%) · ventaja +10%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 1.89 (+10%) · Paf España 1.89 (+10%)  
-
-## Maki vs hit — 16/11 · 17:04
-
-👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana Maki** @ **2.70** (Unibet) · prob 41% vs casas 32% · ventaja +10%
-
-- ❌ Valor: ventaja +10% (mín. 11% con la incertidumbre, máx. 30%)
+- ✅ Valor: ventaja +12% (mín. 11% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 70.346 partidos)  
-Goles esperados: Maki 3.43 · hit 3.40  
-Ganador: Maki 41% · empate 18% · hit 41%  
-Total: más de 6.5 goles 52% · menos 48%  
-Hándicap Maki: −1.5 28% · −2.5 17%  
+📊 **Escenarios** (Poisson por jugador, 70.376 partidos)  
+Goles esperados: chevare 2.74 · hit 2.82  
+Ganador: chevare 37% · empate 20% · hit 43%  
+Total: más de 5.5 goles 48% · menos 52%  
+Hándicap hit: −1.5 27% · −2.5 15%  
 🔎 **Claves**  
-• Forma: Maki ❌✅✅➖❌ | hit ❌➖❌✅❌  
-• Partidos: Maki 936 | hit 842  
+• Forma: chevare ✅✅✅❌❌ | hit ❌✅❌❌✅  
+• Partidos: chevare 726 | hit 844  
 • Liga: Champions League B  
-• Unibet: 1 2.70 · X 3.85 · 2 1.94 (sin margen 32%/23%/45%) · ventaja +10%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.70 (+10%) · Paf España 2.70 (+10%)  
+• Unibet: 1 3.05 · X 3.15 · 2 1.98 (sin margen 29%/28%/44%) · ventaja +12%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 3.05 (+12%) · Paf España 3.05 (+12%)  
 
-## Animal vs chevare — 16/11 · 17:04
+## Bjela vs Lx7ss — 16/11 · 17:44
 
-👀 candidata · 🎮⚽ FC 27 · Champions League B · **Gana chevare** @ **2.75** (Unibet) · prob 40% vs casas 32% · ventaja +9%
+👀 candidata · 🎮⚽ FC 27 · World Cup B · **Gana Lx7ss** @ **2.70** (Unibet) · prob 40% vs casas 32% · ventaja +8%
 
-- ❌ Valor: ventaja +9% (mín. 11% con la incertidumbre, máx. 30%)
+- ❌ Valor: ventaja +8% (mín. 10% con la incertidumbre, máx. 30%)
 - ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
 
-📊 **Escenarios** (Poisson por jugador, 70.346 partidos)  
-Goles esperados: Animal 3.63 · chevare 3.57  
-Ganador: Animal 43% · empate 17% · chevare 40%  
-Total: más de 7.5 goles 43% · menos 57%  
-Hándicap Animal: −1.5 29% · −2.5 18%  
+📊 **Escenarios** (Poisson por jugador, 70.376 partidos)  
+Goles esperados: Bjela 2.89 · Lx7ss 2.97  
+Ganador: Bjela 41% · empate 19% · Lx7ss 40%  
+Total: más de 5.5 goles 53% · menos 47%  
+Hándicap Lx7ss: −1.5 27% · −2.5 15%  
 🔎 **Claves**  
-• Forma: Animal ✅❌❌❌✅ | chevare ✅❌✅✅✅  
-• Partidos: Animal 965 | chevare 724  
-• Liga: Champions League B  
-• Unibet: 1 1.95 · X 3.65 · 2 2.75 (sin margen 45%/24%/32%) · ventaja +9%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 2.75 (+9%) · Paf España 2.75 (+9%)  
+• Forma: Bjela ✅❌➖➖❌ | Lx7ss ❌❌➖❌❌  
+• Partidos: Bjela 880 | Lx7ss 1161  
+• Liga: World Cup B  
+• Unibet: 1 1.92 · X 3.85 · 2 2.70 (sin margen 45%/23%/32%) · ventaja +8%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.70 (+7%) · Paf España 2.70 (+7%)  
 
