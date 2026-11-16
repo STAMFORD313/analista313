@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 16/11/2026 22:04 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 16/11/2026 22:34 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Mira vs RUSH — 17/11 · 00:45
 
@@ -665,4 +665,24 @@ Casas: DISFARÇADOS 34% · paiN Academy 66%
 🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
 • DISFARÇADOS gana 2-1: 24% → cuota justa 4.12  
 • paiN Academy gana 2-1: 12% → cuota justa 8.60  
+
+## Balkan Outlaws vs PCIFIC — 18/11 · 10:00
+
+👀 candidata · 🎮 CS2 · European Pro League Series 10 · **Gana PCIFIC** @ **1.48** (Thunderpick) · prob 65% vs casas 63% · ventaja -4%
+
+- ❌ Valor: ventaja -4% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 76.940 partidos)  
+Mapa: Balkan Outlaws 38% · Serie BO3: Balkan Outlaws 33% - 67% PCIFIC  
+Casas: Balkan Outlaws 37% · PCIFIC 63%  
+🔎 **Claves**  
+• Elo: Balkan Outlaws 1594 (9 series) | PCIFIC 1721 (153 series)  
+• Forma: Balkan Outlaws ✅❌✅❌✅ | PCIFIC ❌✅✅❌✅  
+• H2H: sin precedentes  
+• Torneo: European Pro League Series 10 (nivel C)  
+• Cambios de plantilla: ninguno  
+🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
+• Balkan Outlaws gana 2-1: 16% → cuota justa 6.44 · casa 19%  
+• PCIFIC gana 2-1: 25% → cuota justa 4.01 · casa 26%  
 
