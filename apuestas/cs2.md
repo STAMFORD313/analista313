@@ -1,6 +1,66 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 16/11/2026 01:52 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 16/11/2026 02:24 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+
+## Tulpar vs Revise — 16/11 · 10:00
+
+👀 candidata · 🎮 CS2 · Fiesta Series 4: Closed Qualifier · **Gana Tulpar** @ **2.00** (Thunderpick) · prob 50% vs casas 46% · ventaja -0%
+
+- ❌ Valor: ventaja -0% (mín. 7% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮 no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 76.903 partidos)  
+Mapa: Tulpar 52% · Serie BO3: Tulpar 53% - 47% Revise  
+Casas: Tulpar 46% · Revise 54%  
+🔎 **Claves**  
+• Elo: Tulpar 1582 (2 series) | Revise 1559 (43 series)  
+• Forma: Tulpar ✅✅ | Revise ❌❌❌✅✅  
+• H2H: sin precedentes  
+• Torneo: Fiesta Series 4: Closed Qualifier (nivel C)  
+• Cambios de plantilla: ninguno  
+🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
+• Tulpar gana 2-1: 23% → cuota justa 4.36  
+• Revise gana 2-1: 21% → cuota justa 4.76  
+
+## KAMUI vs Ducks — 16/11 · 13:00
+
+👀 candidata · 🎮 CS2 · Fiesta Series 4: Closed Qualifier · **Gana KAMUI** @ **1.50** (Thunderpick) · prob 63% vs casas 62% · ventaja -5%
+
+- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 76.903 partidos)  
+Mapa: KAMUI 60% · Serie BO3: KAMUI 65% - 35% Ducks  
+Casas: KAMUI 62% · Ducks 38%  
+🔎 **Claves**  
+• Elo: KAMUI 1672 (14 series) | Ducks 1562 (11 series)  
+• Forma: KAMUI ✅✅❌✅✅ | Ducks ✅❌❌✅✅  
+• H2H: sin precedentes  
+• Torneo: Fiesta Series 4: Closed Qualifier (nivel C)  
+• Cambios de plantilla: ninguno  
+🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
+• KAMUI gana 2-1: 25% → cuota justa 4.02  
+• Ducks gana 2-1: 16% → cuota justa 6.08  
+
+## ASTRON vs Ryvex — 16/11 · 16:00
+
+👀 candidata · 🎮 CS2 · Fiesta Series 4: Closed Qualifier · **Gana ASTRON** @ **2.60** (Thunderpick) · prob 45% vs casas 36% · ventaja +18%
+
+- ✅ Valor: ventaja +18% (mín. 11% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮 no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 76.903 partidos)  
+Mapa: ASTRON 53% · Serie BO3: ASTRON 55% - 45% Ryvex  
+Casas: ASTRON 36% · Ryvex 64%  
+🔎 **Claves**  
+• Elo: ASTRON 1450 (0 series) | Ryvex 1416 (32 series)  
+• Forma: ASTRON — | Ryvex ❌✅❌✅❌  
+• H2H: sin precedentes  
+• Torneo: Fiesta Series 4: Closed Qualifier (nivel C)  
+• Cambios de plantilla: ninguno  
+🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
+• ASTRON gana 2-1: 23% → cuota justa 4.30  
+• Ryvex gana 2-1: 21% → cuota justa 4.87  
 
 ## ROUNDS vs BOJONG — 16/11 · 16:30
 
@@ -58,6 +118,26 @@ Casas: KUUSAMO 73% · Nordic Valor 27%
 🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
 • KUUSAMO gana 2-1: 25% → cuota justa 4.03  
 • Nordic Valor gana 2-1: 13% → cuota justa 7.47  
+
+## Evermore vs Four Magic — 16/11 · 19:00
+
+👀 candidata · 🎮 CS2 · Fiesta Series 4: Closed Qualifier · **Gana Evermore** @ **3.20** (Thunderpick) · prob 46% vs casas 29% · ventaja +47%
+
+- ❌ Valor: ventaja +47% (mín. 19% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮 no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 76.903 partidos)  
+Mapa: Evermore 59% · Serie BO3: Evermore 63% - 37% Four Magic  
+Casas: Evermore 29% · Four Magic 71%  
+🔎 **Claves**  
+• Elo: Evermore 1561 (1 series) | Four Magic 1467 (39 series)  
+• Forma: Evermore ✅ | Four Magic ❌❌❌✅❌  
+• H2H: sin precedentes  
+• Torneo: Fiesta Series 4: Closed Qualifier (nivel C)  
+• Cambios de plantilla: ninguno  
+🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
+• Evermore gana 2-1: 25% → cuota justa 4.05  
+• Four Magic gana 2-1: 17% → cuota justa 5.76  
 
 ## OldBoys FR vs TTG Esports — 16/11 · 20:00
 
@@ -253,4 +333,30 @@ Casas: 100 Thieves 53% · fnatic 47%
 🔫 **Kills esperados en la serie** (rango 80 %; mejor que la media de sus 10 últimas en 52.570 casos: log-loss 0.6819→0.6556; sin cuotas de props, solo referencia)  
 100 Thieves: poiii 36 (21-53) · dev1ce 36 (20-52) · sirah 34 (20-51) · rain 33 (19-49) · Gizmy 31 (17-45)  
 fnatic: jambo 38 (22-56) · jackasmo 36 (21-53) · cairne 36 (21-53) · mazay 34 (19-50) · fEAR 30 (17-44)  
+
+## Alliance vs Iberian Soul — 17/11 · 14:00
+
+👀 candidata · 🎮 CS2 · RUSH:Brno 2026 · **Gana Iberian Soul** @ **2.10** (Thunderpick) · prob 44% vs casas 44% · ventaja -7%
+
+- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮 no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Elo por mapa, 76.903 partidos)  
+Mapa: Alliance 53% · Serie BO3: Alliance 55% - 45% Iberian Soul  
+Casas: Alliance 56% · Iberian Soul 44%  
+🔎 **Claves**  
+• Elo: Alliance 1824 (407 series) | Iberian Soul 1788 (137 series)  
+• Forma: Alliance ❌✅✅✅❌ | Iberian Soul ✅❌✅✅❌  
+• H2H: 4: 0-4  
+• Torneo: RUSH:Brno 2026 (nivel B)  
+• Cambios de plantilla: ninguno  
+• Jugadores en forma (rating últimos 10 mapas): Alliance: eraa 6.2, Avid 6.0 | Iberian Soul: Ag1l 6.0, alex 6.0  
+• Mapas (último año): Alliance: fuerte inferno 70%, débil mirage 0% | Iberian Soul: fuerte inferno 78%, débil ancient 33%  
+• Química de la plantilla: Alliance: 236 mapas juntos de media | Iberian Soul: 256 mapas juntos de media  
+🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
+• Alliance gana 2-1: 23% → cuota justa 4.28 · casa 26%  
+• Iberian Soul gana 2-1: 20% → cuota justa 4.91 · casa 20%  
+🔫 **Kills esperados en la serie** (rango 80 %; mejor que la media de sus 10 últimas en 52.570 casos: log-loss 0.6819→0.6556; sin cuotas de props, solo referencia)  
+Alliance: eraa 39 (22-57) · bobeksde 35 (20-52) · Avid 34 (20-51) · twist 32 (18-47) · upE 29 (17-44)  
+Iberian Soul: sausol 34 (20-51) · mopoz 34 (19-50) · dav1g 33 (19-48) · alex 33 (19-48) · Ag1l 32 (18-47)  
 

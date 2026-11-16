@@ -1,6 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 16/11/2026 01:52 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 16/11/2026 02:24 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Grellz vs kkikus — 16/11 · 02:27
 
