@@ -70726,3 +70726,35 @@ id,tournament_id,club1,club2,ht1,ht2
 2382830,262200,England,Argentina,,
 2382831,262200,Brazil,England,,
 2382832,262200,France,Spain,,
+2383475,262156,Boca Juniors,River Plate,1,1
+2383476,262156,Boca Juniors,Racing Club,2,2
+2383477,262156,River Plate,Racing Club,6,0
+2383478,262156,River Plate,Boca Juniors,2,2
+2383479,262156,Racing Club,Boca Juniors,,
+2383480,262156,Racing Club,River Plate,,
+2383481,262156,Boca Juniors,River Plate,,
+2383482,262156,Boca Juniors,Racing Club,,
+2383483,262156,River Plate,Racing Club,,
+2383484,262156,River Plate,Boca Juniors,,
+2383485,262156,Racing Club,Boca Juniors,,
+2383486,262156,Racing Club,River Plate,,
+2383385,262181,Germany,Morocco,2,0
+2383386,262181,Czechia,Norway,1,3
+2383387,262181,Norway,Germany,0,2
+2383388,262181,Morocco,Netherlands,2,1
+2383389,262181,Netherlands,Norway,1,0
+2383390,262181,Germany,Czechia,1,0
+2383391,262181,Czechia,Netherlands,2,0
+2383392,262181,Norway,Morocco,1,0
+2383393,262181,Morocco,Czechia,0,1
+2383394,262181,Netherlands,Germany,2,1
+2383395,262181,Morocco,Germany,0,1
+2383396,262181,Norway,Czechia,1,0
+2383397,262181,Germany,Norway,,
+2383398,262181,Netherlands,Morocco,,
+2383399,262181,Norway,Netherlands,,
+2383400,262181,Czechia,Germany,,
+2383401,262181,Netherlands,Czechia,,
+2383402,262181,Morocco,Norway,,
+2383403,262181,Czechia,Morocco,,
+2383404,262181,Germany,Netherlands,,

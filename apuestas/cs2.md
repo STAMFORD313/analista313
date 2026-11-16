@@ -1,6 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 16/11/2026 23:33 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
+Actualizado 17/11/2026 00:03 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Mira vs RUSH — 17/11 · 00:45
 
