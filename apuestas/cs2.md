@@ -1,26 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 16/11/2026 16:26 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## ROUNDS vs BOJONG — 16/11 · 16:30
-
-👀 candidata · 🎮 CS2 · Elisa Open Suomi Season 14 · **Gana BOJONG** @ **1.92** (Thunderpick) · prob 50% vs casas 48% · ventaja -5%
-
-- ❌ Valor: ventaja -5% (mín. 6% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 76.860 partidos)  
-Mapa: ROUNDS 49% · Serie BO3: ROUNDS 48% - 52% BOJONG  
-Casas: ROUNDS 52% · BOJONG 48%  
-🔎 **Claves**  
-• Elo: ROUNDS 1413 (186 series) | BOJONG 1425 (63 series)  
-• Forma: ROUNDS ✅❌❌❌✅ | BOJONG ✅✅❌❌❌  
-• H2H: 2: 0-2  
-• Torneo: Elisa Open Suomi Season 14 (nivel C)  
-• Cambios de plantilla: ninguno  
-🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
-• ROUNDS gana 2-1: 22% → cuota justa 4.65  
-• BOJONG gana 2-1: 23% → cuota justa 4.44  
+Actualizado 16/11/2026 16:57 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Xcity vs Al Ahli — 16/11 · 19:00
 
