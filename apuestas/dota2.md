@@ -1,28 +1,6 @@
 # 🐉 Dota 2 · apuestas de valor
 
-Actualizado 16/11/2026 19:28 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Aurora Gaming vs LEGION — 16/11 · 20:00
-
-👀 candidata · 🐉 Dota 2 · 1win Essence III · **Gana Aurora Gaming** @ **1.18** (Thunderpick) · prob 79% vs casas 79% · ventaja -7%
-
-- ❌ Valor: ventaja -7% (mín. 5% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🐉 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 11.820 partidos)  
-Mapa: Aurora Gaming 66% · Serie BO3: Aurora Gaming 79% - 21% LEGION  
-Casas: Aurora Gaming 79% · LEGION 21%  
-🔎 **Claves**  
-• Elo: Aurora Gaming 2064 (324 series) | LEGION 1907 (25 series)  
-• Forma: Aurora Gaming ✅❌✅✅✅ | LEGION ✅✅❌✅✅  
-• H2H: sin precedentes  
-• Torneo: 1win Essence III (nivel A)  
-• Cambios de plantilla: ninguno  
-• Jugadores en forma (KDA últimas 10 partidas): Aurora Gaming: Ws 4.6, Mikoto 3.6 | LEGION: Copy 4.6, Malik 4.3  
-• Química de la plantilla: Aurora Gaming: 198 partidas juntos de media | LEGION: 42 partidas juntos de media  
-🧩 **Marcador exacto «gana + más de 2.5 mapas»** (son opciones alternativas: como mucho UNA; solo información, sin stake)  
-• Aurora Gaming gana 2-1: 25% → cuota justa 4.02 · casa 26%  
-• LEGION gana 2-1: 13% → cuota justa 7.92 · casa 10%  
+Actualizado 16/11/2026 20:02 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## PuckChamp vs Nemiga Gaming — 17/11 · 14:30
 

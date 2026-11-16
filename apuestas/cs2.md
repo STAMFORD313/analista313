@@ -1,40 +1,6 @@
 # 🎮 CS2 · apuestas de valor
 
-Actualizado 16/11/2026 19:28 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## OldBoys FR vs TTG Esports — 16/11 · 20:00
-
-👀 candidata · 🎮 CS2 · ESEA Season 59: Advanced Division - Europe · **Gana TTG Esports** @ **1.77** (Thunderpick) · prob 59% vs casas 52% · ventaja +4%
-
-- ❌ Valor: ventaja +4% (mín. 8% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 76.860 partidos)  
-Mapa: OldBoys FR 34% · Serie BO1: OldBoys FR 34% - 66% TTG Esports  
-Casas: OldBoys FR 48% · TTG Esports 52%  
-🔎 **Claves**  
-• Elo: OldBoys FR 1550 (55 series) | TTG Esports 1666 (16 series)  
-• Forma: OldBoys FR ✅❌❌❌❌ | TTG Esports ✅✅✅❌✅  
-• H2H: sin precedentes  
-• Torneo: ESEA Season 59: Advanced Division - Europe (nivel C)  
-• Cambios de plantilla: ninguno  
-
-## LPH vs Phantom Academy — 16/11 · 20:00
-
-👀 candidata · 🎮 CS2 · ESEA Season 59: Advanced Division - Europe · **Gana Phantom Academy** @ **1.77** (Thunderpick) · prob 59% vs casas 52% · ventaja +4%
-
-- ❌ Valor: ventaja +4% (mín. 8% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮 favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Elo por mapa, 76.860 partidos)  
-Mapa: LPH 34% · Serie BO1: LPH 34% - 66% Phantom Academy  
-Casas: LPH 48% · Phantom Academy 52%  
-🔎 **Claves**  
-• Elo: LPH 1475 (145 series) | Phantom Academy 1589 (105 series)  
-• Forma: LPH ✅❌❌❌❌ | Phantom Academy ✅✅✅❌✅  
-• H2H: 1: 1-0  
-• Torneo: ESEA Season 59: Advanced Division - Europe (nivel C)  
-• Cambios de plantilla: ninguno  
+Actualizado 16/11/2026 20:02 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## eSuba vs OldBoys FR — 16/11 · 21:00
 

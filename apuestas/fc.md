@@ -1,44 +1,6 @@
 # 🎮⚽ FC 27 · apuestas de valor
 
-Actualizado 16/11/2026 19:28 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
-
-## Buu vs steeffant — 16/11 · 19:30
-
-👀 candidata · 🎮⚽ FC 27 · Champions League B 2x6 · **Empate** @ **9.50** (Unibet) · prob 12% vs casas 9% · ventaja +15%
-
-- ✅ Valor: ventaja +15% (mín. 12% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 70.484 partidos)  
-Goles esperados: Buu 4.37 · steeffant 5.88  
-Ganador: Buu 23% · empate 12% · steeffant 65%  
-Total: más de 10.5 goles 45% · menos 55%  
-Hándicap steeffant: −1.5 50% · −2.5 37%  
-🔎 **Claves**  
-• Forma: Buu ❌❌❌✅❌ | steeffant ✅✅➖✅❌  
-• Partidos: Buu 847 | steeffant 896  
-• Liga: Champions League B 2x6  
-• Unibet: 1 4.75 · X 9.50 · 2 1.20 (sin margen 18%/9%/73%) · ventaja +15%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 9.50 (+15%) · Paf España 9.50 (+15%)  
-
-## chevare vs hit — 16/11 · 19:38
-
-👀 candidata · 🎮⚽ FC 27 · Super Lig · **Gana chevare** @ **3.35** (Unibet) · prob 42% vs casas 26% · ventaja +40%
-
-- ❌ Valor: ventaja +40% (mín. 18% con la incertidumbre, máx. 30%)
-- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
-
-📊 **Escenarios** (Poisson por jugador, 70.484 partidos)  
-Goles esperados: chevare 2.85 · hit 2.75  
-Ganador: chevare 42% · empate 20% · hit 38%  
-Total: más de 5.5 goles 49% · menos 51%  
-Hándicap chevare: −1.5 27% · −2.5 15%  
-🔎 **Claves**  
-• Forma: chevare ✅➖✅✅✅ | hit ❌✅➖✅✅  
-• Partidos: chevare 734 | hit 852  
-• Liga: Super Lig  
-• Unibet: 1 3.35 · X 3.05 · 2 1.92 (sin margen 26%/29%/45%) · ventaja +40%. Sin stake hasta demostrar ROI con estas cuotas.  
-• En España: LeoVegas España 3.35 (+40%) · Paf España 3.35 (+40%)  
+Actualizado 16/11/2026 20:02 (hora España). ✅ = el bot apuesta · ❌ = condición que falla.
 
 ## Bjela vs Lx7ss — 16/11 · 20:04
 
@@ -58,4 +20,61 @@ Hándicap Lx7ss: −1.5 28% · −2.5 16%
 • Liga: Europa League  
 • Unibet: 1 1.95 · X 4.00 · 2 2.60 (sin margen 45%/22%/34%) · ventaja +9%. Sin stake hasta demostrar ROI con estas cuotas.  
 • En España: LeoVegas España 2.60 (+9%) · Paf España 2.60 (+9%)  
+
+## Mani vs Sena — 16/11 · 20:07
+
+👀 candidata · 🎮⚽ FC 27 · Serie A · **Empate** @ **5.50** (Unibet) · prob 19% vs casas 16% · ventaja +6%
+
+- ❌ Valor: ventaja +6% (mín. 10% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 70.506 partidos)  
+Goles esperados: Mani 2.91 · Sena 2.97  
+Ganador: Mani 40% · empate 19% · Sena 41%  
+Total: más de 5.5 goles 53% · menos 47%  
+Hándicap Sena: −1.5 27% · −2.5 15%  
+🔎 **Claves**  
+• Forma: Mani ❌❌❌✅❌ | Sena ✅✅❌❌➖  
+• Partidos: Mani 952 | Sena 760  
+• Liga: Serie A  
+• Unibet: 1 2.00 · X 5.50 · 2 2.18 (sin margen 44%/16%/40%) · ventaja +6%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 5.50 (+6%) · Paf España 5.50 (+6%)  
+
+## saportj vs ramzes — 16/11 · 20:10
+
+👀 candidata · 🎮⚽ FC 27 · Copa America · **Gana saportj** @ **2.17** (Unibet) · prob 56% vs casas 40% · ventaja +21%
+
+- ✅ Valor: ventaja +21% (mín. 13% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ no favorito» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 70.506 partidos)  
+Goles esperados: saportj 3.41 · ramzes 2.69  
+Ganador: saportj 56% · empate 18% · ramzes 27%  
+Total: más de 6.5 goles 41% · menos 59%  
+Hándicap saportj: −1.5 37% · −2.5 23%  
+🔎 **Claves**  
+• Forma: saportj ➖❌➖❌✅ | ramzes ❌✅➖➖❌  
+• Partidos: saportj 959 | ramzes 1159  
+• Liga: Copa America  
+• Unibet: 1 2.17 · X 4.40 · 2 2.18 (sin margen 40%/20%/40%) · ventaja +21%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 2.17 (+21%) · Paf España 2.17 (+21%)  
+
+## Shinobu vs SDI — 16/11 · 20:10
+
+👀 candidata · 🎮⚽ FC 27 · Copa America · **Empate** @ **6.00** (Unibet) · prob 19% vs casas 15% · ventaja +14%
+
+- ✅ Valor: ventaja +14% (mín. 11% con la incertidumbre, máx. 30%)
+- ✅ Segmento «🎮⚽ empate» sin pérdidas demostradas
+
+📊 **Escenarios** (Poisson por jugador, 70.506 partidos)  
+Goles esperados: Shinobu 3.14 · SDI 2.88  
+Ganador: Shinobu 45% · empate 19% · SDI 36%  
+Total: más de 6.5 goles 40% · menos 60%  
+Hándicap Shinobu: −1.5 30% · −2.5 18%  
+🔎 **Claves**  
+• Forma: Shinobu ➖❌➖✅❌ | SDI ➖✅✅✅❌  
+• Partidos: Shinobu 1548 | SDI 635  
+• Liga: Copa America  
+• Unibet: 1 1.78 · X 6.00 · 2 2.45 (sin margen 49%/15%/36%) · ventaja +14%. Sin stake hasta demostrar ROI con estas cuotas.  
+• En España: LeoVegas España 6.00 (+14%) · Paf España 6.00 (+14%)  
 
